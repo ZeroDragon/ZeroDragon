@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Enums in Typescript explained](https://dev.to/isnan__h/enums-in-typescript-explained-2h4)
 - [Dev.to/JS] [Protect Your Website from Blind Cross-Site Scripting](https://dev.to/scofieldidehen/protect-your-website-from-blind-cross-site-scripting-351g)
 - [Dev.to/JS] [The Sweetest Way To Learn Higher-Order Functions In JavaScript With Ice cream](https://dev.to/sama_rthya/the-sweetest-way-to-learn-higher-order-functions-in-javascript-with-ice-cream-337o)
 - [Dev.to/JS] [Node js and Express js project setup](https://dev.to/nandakishorpalei/node-js-and-express-js-project-setup-2lfa)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Comezando en el desarrollo de software y mantenerse motivado](https://dev.to/unpandadev/comezando-en-el-desarrollo-de-software-y-mantenerse-motivado-2g8h)
 - [Dev.to/JS] [It is Importent to have a central place to register your Web Components.](https://dev.to/lemanschik/it-is-importent-to-have-a-central-place-to-register-your-web-components-2efj)
 - [Dev.to/JS] [Working With Chakra](https://dev.to/ririio/working-with-chakra-4bl9)
-- [Dev.to/JS] [Art of Array Manipulation in JavaScript.](https://dev.to/pthapa1/art-of-array-manipulation-in-javascript-2dj0)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
 - [Lifehacker] [The Best Way to Remove Scuff Marks From Your Shoes](https://lifehacker.com/the-best-way-to-remove-scuff-marks-from-your-shoes-1850097364)
 - [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
