@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node js and Express js project setup](https://dev.to/nandakishorpalei/node-js-and-express-js-project-setup-2lfa)
+- [Dev.to/JS] [Getting Started with Puppeteer: A Guide to Web Scraping in Node.js](https://dev.to/musabdev/getting-started-with-puppeteer-a-guide-to-web-scraping-in-nodejs-4bbb)
 - [Dev.to/JS] [Why is JavaScript so Important?](https://dev.to/tmchuynh/why-is-javascript-so-important-1m0a)
 - [Dev.to/JS] [Thinking About Web Development?](https://dev.to/tmchuynh/thinking-about-web-development-11i7)
 - [Dev.to/JS] [Un servidor basico en Nodejs con Express](https://dev.to/fzbian/un-servidor-basico-en-nodejs-con-express-4ij6)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Art of Array Manipulation in JavaScript.](https://dev.to/pthapa1/art-of-array-manipulation-in-javascript-2dj0)
 - [Dev.to/JS] [Phase 1 Blog](https://dev.to/helenate/phase-1-blog-2dgn)
 - [Dev.to/JS] [Shaka Player for media playback - implementation, use cases, pros and cons](https://dev.to/vanyaxk/shaka-player-for-media-playback-implementation-use-cases-pros-and-cons-3b87)
-- [Dev.to/JS] [JavaScript promises are simple 👌](https://dev.to/ayanabilothman/javascript-promises-are-simple-3hfp)
-- [Dev.to/JS] [Write promises chaining using async/await.](https://dev.to/ayanabilothman/write-promises-chaining-using-asyncawait-3b1m)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
 - [Lifehacker] [The Best Way to Remove Scuff Marks From Your Shoes](https://lifehacker.com/the-best-way-to-remove-scuff-marks-from-your-shoes-1850097364)
 - [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
