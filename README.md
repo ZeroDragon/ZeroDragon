@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Portfolio Website](https://dev.to/farmanali6349/portfolio-website-23l)
+- [Dev.to/JS] [Best ideas from Clean Code by Robert C. Martin &lpar;with Typescript examples&rpar;](https://dev.to/turboninh/best-ideas-from-clean-code-by-robert-c-martin-with-typescript-examples-14of)
 - [Dev.to/JS] [Rethinking the Modern Web](https://dev.to/oxharris/rethinking-the-modern-web-5cn1)
 - [Dev.to/JS] [Better way to think when creating components](https://dev.to/guilhermefront/better-way-to-think-when-creating-components-4hji)
 - [Dev.to/JS] [Node.js Cluster Module: Scaling Your Applications](https://dev.to/aquibzahidi/nodejs-cluster-module-scaling-your-applications-4och)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Debugging JavaScript: Best Practices &amp; DevTools](https://dev.to/haszankauna/debugging-javascript-best-practices-devtools-1ing)
 - [Dev.to/JS] [Debugging JavaScript: Best Practices &amp; DevTools](https://dev.to/haszankauna/debugging-javascript-best-practices-devtools-afc)
 - [Dev.to/JS] [tsParticles 2.9.3 Released](https://dev.to/tsparticles/tsparticles-293-released-51a5)
-- [Dev.to/JS] [Creating a responsive web page with bootstrap](https://dev.to/haszankauna/creating-a-responsive-web-page-with-bootstrap-556k)
-- [Dev.to/JS] [Advanced React UI Components To Optimize Development Process](https://dev.to/paulknulst/advanced-react-ui-components-to-optimize-development-process-2hco)
 - [Lifehacker] [How to Cope With Layoff Anxiety](https://lifehacker.com/how-to-cope-with-layoff-anxiety-1850097349)
 - [Lifehacker] [Don&#39;t Fall for Online Retailers&#39; Sneaky Tricks](https://lifehacker.com/dont-fall-for-online-retailers-sneaky-tricks-1850097353)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
