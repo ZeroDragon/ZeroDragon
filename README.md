@@ -23,19 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Cope With Layoff Anxiety](https://lifehacker.com/how-to-cope-with-layoff-anxiety-1850097349)
+- [Dev.to/JS] [Obtener consultas Next.js getServerSideProps req.__NEXT_INIT_QUERY y evitar problemas de req.query con Netlify y middlewares](https://dev.to/dennysjmarquez/obtener-consultas-nextjs-getserversideprops-reqnextinitquery-y-evitar-problemas-de-reqquery-con-netlify-y-middlewares-39a3)
+- [Dev.to/JS] [Setup a node app with Elastic Beanstalk and CI/CD](https://dev.to/sanchezg7/setup-a-node-app-with-elastic-beanstalk-and-cicd-an0)
+- [Dev.to/JS] [useMemo vs useCallback](https://dev.to/ujwalkumar1995/usememo-vs-usecallback-49kd)
+- [Dev.to/JS] [React: the reconciliation algorithm](https://dev.to/ridhamz/the-reconciliation-algorithm-5bab)
+- [Dev.to/JS] [Buy Payoneer Accounts](https://dev.to/elizabethlin668/buy-payoneer-accounts-4e3b)
+- [Dev.to/JS] [Chatgpt Google Chrome Extension](https://dev.to/zahidhasan24/chatgpt-google-chrome-extension-91j)
+- [Dev.to/JS] [Buy Verified PayPal Accounts](https://dev.to/elizabethlin668/buy-verified-paypal-accounts-20n2)
+- [Dev.to/JS] [JavaScript Tutorial Series: Strings](https://dev.to/fullstackjo/javascript-tutorial-series-strings-34lm)
+- [Dev.to/JS] [Let’s Build A Web App: Pt 1 - Setting up Next.js](https://dev.to/davidchedrick/lets-build-a-web-app-pt-1-setting-up-nextjs-1j7d)
 - [Dev.to/JS] [handling virtual Dom in JavaScript](https://dev.to/danmusembi/handling-virtual-dom-in-javascript-3ajg)
 - [Lifehacker] [Don&#39;t Fall for Online Retailers&#39; Sneaky Tricks](https://lifehacker.com/dont-fall-for-online-retailers-sneaky-tricks-1850097353)
 - [Dev.to/JS] [Preventing Privilege Escalation: Best Practices for Cybersecurity Professionals](https://dev.to/scofieldidehen/preventing-privilege-escalation-best-practices-for-cybersecurity-professionals-5043)
 - [Dev.to/JS] [Build a CRUD Rest API in JavaScript using Nodejs, Express, Postgres, Docker](https://dev.to/francescoxx/build-a-crud-rest-api-in-javascript-using-nodejs-express-postgres-docker-jkb)
-- [Dev.to/JS] [Learn Prisma Easy Way](https://dev.to/developerarif55/learn-prisma-easy-way-3j)
-- [Dev.to/JS] [How to Improve Node.js Application Performance](https://dev.to/folasayosamuel/how-to-improve-nodejs-application-performance-4o1)
-- [Dev.to/JS] [Think You&#39;re a JavaScript Pro? Find Out with this Quiz👇](https://dev.to/arafat4693/think-youre-a-javascript-pro-find-out-with-this-quiz-8ok)
-- [Dev.to/JS] [Technical Writing Process: How To Write A Good Technical Article](https://dev.to/the_greatbonnie/technical-writing-process-how-to-write-a-good-technical-article-j67)
-- [Dev.to/JS] [Multiple watchers in Vue 3](https://dev.to/snehalkadwe/mutiple-watchers-in-vue-3-4ij9)
-- [Dev.to/JS] [The Evolution of JavaScript: From Mocha to Modern Web Development](https://dev.to/mwbie/the-evolution-of-javascript-from-mocha-to-modern-web-development-k91)
-- [Dev.to/JS] [Typescript Runtime Validators and DX, a type-checking performance analysis of zod/superstruct/yup/typebox](https://dev.to/nicklucas/typescript-runtime-validators-and-dx-a-type-checking-performance-analysis-of-zodsuperstructyuptypebox-5416)
-- [Dev.to/JS] [How to create an HTML-to-PDF converter?](https://dev.to/flurabula/how-to-create-an-html-to-pdf-converter-df2)
-- [Dev.to/JS] [Become TypeScript Hokage with these type guard tricks](https://dev.to/nikolasbarwicki/become-typescript-hokage-with-these-type-guard-tricks-2nga)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
 - [Lifehacker] [The Best Way to Remove Scuff Marks From Your Shoes](https://lifehacker.com/the-best-way-to-remove-scuff-marks-from-your-shoes-1850097364)
 - [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Clap on the 1 and 3 Beats or the 2 and 4?](https://lifehacker.com/should-you-clap-on-the-1-and-3-beat-or-the-2-and-4-1850096102)
 - [Lifehacker] [8 Cleaning Products TikTok Absolutely Loves](https://lifehacker.com/8-cleaning-products-tiktok-absolutely-loves-1850095503)
 - [Lifehacker] [11 Things You Use &lpar;or Eat&rpar; That Aren&#39;t Made the Way You Think](https://lifehacker.com/11-things-you-use-or-eat-that-arent-made-the-way-you-1850077719)
-- [Lifehacker] [Improve Your iPhone&#39;s Digital Zoom With This App](https://lifehacker.com/improve-your-iphones-digital-zoom-with-this-app-1850095334)
-- [Lifehacker] [10 Things You Actually Can&#39;t Clean With All-Purpose Cleaner](https://lifehacker.com/10-things-you-actually-cant-clean-with-all-purpose-clea-1850095135)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Improve Your iPhone&#39;s Digital Zoom With This App](https://lifehacker.com/improve-your-iphones-digital-zoom-with-this-app-1850095334)<!-- TECH-POSTS:END -->
 
 ---
 
