@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Un servidor basico en Nodejs con Express](https://dev.to/fzbian/un-servidor-basico-en-nodejs-con-express-4ij6)
+- [Dev.to/JS] [Getting Started with ReactJS: A Comprehensive Guide for Beginners](https://dev.to/mewadeva/getting-started-with-reactjs-a-comprehensive-guide-for-beginners-24e)
 - [Dev.to/JS] [Comezando en el desarrollo de software y mantenerse motivado](https://dev.to/unpandadev/comezando-en-el-desarrollo-de-software-y-mantenerse-motivado-2g8h)
 - [Dev.to/JS] [It is Importent to have a central place to register your Web Components.](https://dev.to/lemanschik/it-is-importent-to-have-a-central-place-to-register-your-web-components-2efj)
 - [Dev.to/JS] [Working With Chakra](https://dev.to/ririio/working-with-chakra-4bl9)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Write promises chaining using async/await.](https://dev.to/ayanabilothman/write-promises-chaining-using-asyncawait-3b1m)
 - [Dev.to/JS] [Use APIs the write way](https://dev.to/limacodes/use-apis-the-write-way-3flf)
 - [Dev.to/JS] [how to make a blog in nuxt js quickly](https://dev.to/slimpython/how-to-make-a-blog-in-nuxt-js-quickly-3d1a)
-- [Dev.to/JS] [Ruby/Rails Hash.to_s. Why?, Where is String.to_h?](https://dev.to/salex/rubyrails-hashtos-why-where-is-stringtoh-4631)
-- [Dev.to/JS] [Decoding JS: Polyfills and Transpilers](https://dev.to/harshitakanal/decoding-js-polyfills-and-transpilers-3b87)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
 - [Lifehacker] [The Best Way to Remove Scuff Marks From Your Shoes](https://lifehacker.com/the-best-way-to-remove-scuff-marks-from-your-shoes-1850097364)
 - [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
