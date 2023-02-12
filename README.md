@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Fall for Online Retailers&#39; Sneaky Tricks](https://lifehacker.com/dont-fall-for-online-retailers-sneaky-tricks-1850097353)
+- [Dev.to/JS] [Preventing Privilege Escalation: Best Practices for Cybersecurity Professionals](https://dev.to/scofieldidehen/preventing-privilege-escalation-best-practices-for-cybersecurity-professionals-5043)
+- [Dev.to/JS] [Build a CRUD Rest API in JavaScript using Nodejs, Express, Postgres, Docker](https://dev.to/francescoxx/build-a-crud-rest-api-in-javascript-using-nodejs-express-postgres-docker-jkb)
 - [Dev.to/JS] [Learn Prisma Easy Way](https://dev.to/developerarif55/learn-prisma-easy-way-3j)
 - [Dev.to/JS] [How to Improve Node.js Application Performance](https://dev.to/folasayosamuel/how-to-improve-nodejs-application-performance-4o1)
 - [Dev.to/JS] [Think You&#39;re a JavaScript Pro? Find Out with this Quiz👇](https://dev.to/arafat4693/think-youre-a-javascript-pro-find-out-with-this-quiz-8ok)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create an HTML-to-PDF converter?](https://dev.to/flurabula/how-to-create-an-html-to-pdf-converter-df2)
 - [Dev.to/JS] [Become TypeScript Hokage with these type guard tricks](https://dev.to/nikolasbarwicki/become-typescript-hokage-with-these-type-guard-tricks-2nga)
 - [Dev.to/JS] [Detect browser using JavaScript – with source code](https://dev.to/flurabula/detect-browser-using-javascript-with-source-code-45gb)
-- [Dev.to/JS] [Creating Dynamic Thumbnails with html2canvas](https://dev.to/netsi1964/creating-dynamic-thumbnails-with-html2canvas-5566)
-- [Dev.to/JS] [NuxtJs 3.2.0: The Latest Release Brings Exciting New Features](https://dev.to/awaisalwaisy/nuxtjs-320-the-latest-release-brings-exciting-new-features-5bln)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
 - [Lifehacker] [The Best Way to Remove Scuff Marks From Your Shoes](https://lifehacker.com/the-best-way-to-remove-scuff-marks-from-your-shoes-1850097364)
 - [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 Cleaning Products TikTok Absolutely Loves](https://lifehacker.com/8-cleaning-products-tiktok-absolutely-loves-1850095503)
 - [Lifehacker] [11 Things You Use &lpar;or Eat&rpar; That Aren&#39;t Made the Way You Think](https://lifehacker.com/11-things-you-use-or-eat-that-arent-made-the-way-you-1850077719)
 - [Lifehacker] [Improve Your iPhone&#39;s Digital Zoom With This App](https://lifehacker.com/improve-your-iphones-digital-zoom-with-this-app-1850095334)
-- [Lifehacker] [10 Things You Actually Can&#39;t Clean With All-Purpose Cleaner](https://lifehacker.com/10-things-you-actually-cant-clean-with-all-purpose-clea-1850095135)
-- [Lifehacker] [You Should Add a Banana to Your French Toast Batter](https://lifehacker.com/you-should-add-a-banana-to-your-french-toast-batter-1850095258)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Things You Actually Can&#39;t Clean With All-Purpose Cleaner](https://lifehacker.com/10-things-you-actually-cant-clean-with-all-purpose-clea-1850095135)<!-- TECH-POSTS:END -->
 
 ---
 
