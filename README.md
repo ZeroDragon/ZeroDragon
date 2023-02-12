@@ -24,6 +24,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [anyone interested in building real-life full stack web app if interested ping me](https://dev.to/sebastin_007/anyone-interested-in-building-real-life-full-stack-web-app-if-interested-ping-me-7f2)
+- [Dev.to/JS] [Free Front-End courses with certificates](https://dev.to/kigunodark/free-front-end-courses-with-certificates-2478)
 - [Dev.to/JS] [Challenge #4: ⚖️ Build a DEX Challenge](https://dev.to/kevinjoshi46b/challenge-4-build-a-dex-challenge-2a55)
 - [Dev.to/JS] [A Step-By-Step Guide to OAuth 2.0: Implementing Sign In with Google, Facebook, and GitHub](https://dev.to/wulfi/a-step-by-step-guide-to-oauth-20-implementing-sign-in-with-google-facebook-and-github-51hb)
 - [Dev.to/JS] [Enums in Typescript explained](https://dev.to/isnan__h/enums-in-typescript-explained-2h4)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why is JavaScript so Important?](https://dev.to/tmchuynh/why-is-javascript-so-important-1m0a)
 - [Dev.to/JS] [Thinking About Web Development?](https://dev.to/tmchuynh/thinking-about-web-development-11i7)
 - [Dev.to/JS] [Un servidor basico en Nodejs con Express](https://dev.to/fzbian/un-servidor-basico-en-nodejs-con-express-4ij6)
-- [Dev.to/JS] [Getting Started with ReactJS: A Comprehensive Guide for Beginners](https://dev.to/mewadeva/getting-started-with-reactjs-a-comprehensive-guide-for-beginners-24e)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
 - [Lifehacker] [The Best Way to Remove Scuff Marks From Your Shoes](https://lifehacker.com/the-best-way-to-remove-scuff-marks-from-your-shoes-1850097364)
 - [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
