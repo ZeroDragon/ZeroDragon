@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why is JavaScript so Important?](https://dev.to/tmchuynh/why-is-javascript-so-important-1m0a)
+- [Dev.to/JS] [Thinking About Web Development?](https://dev.to/tmchuynh/thinking-about-web-development-11i7)
 - [Dev.to/JS] [Un servidor basico en Nodejs con Express](https://dev.to/fzbian/un-servidor-basico-en-nodejs-con-express-4ij6)
 - [Dev.to/JS] [Getting Started with ReactJS: A Comprehensive Guide for Beginners](https://dev.to/mewadeva/getting-started-with-reactjs-a-comprehensive-guide-for-beginners-24e)
 - [Dev.to/JS] [Comezando en el desarrollo de software y mantenerse motivado](https://dev.to/unpandadev/comezando-en-el-desarrollo-de-software-y-mantenerse-motivado-2g8h)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Shaka Player for media playback - implementation, use cases, pros and cons](https://dev.to/vanyaxk/shaka-player-for-media-playback-implementation-use-cases-pros-and-cons-3b87)
 - [Dev.to/JS] [JavaScript promises are simple 👌](https://dev.to/ayanabilothman/javascript-promises-are-simple-3hfp)
 - [Dev.to/JS] [Write promises chaining using async/await.](https://dev.to/ayanabilothman/write-promises-chaining-using-asyncawait-3b1m)
-- [Dev.to/JS] [Use APIs the write way](https://dev.to/limacodes/use-apis-the-write-way-3flf)
-- [Dev.to/JS] [how to make a blog in nuxt js quickly](https://dev.to/slimpython/how-to-make-a-blog-in-nuxt-js-quickly-3d1a)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
 - [Lifehacker] [The Best Way to Remove Scuff Marks From Your Shoes](https://lifehacker.com/the-best-way-to-remove-scuff-marks-from-your-shoes-1850097364)
 - [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
