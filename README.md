@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Multiple caches in nestjs](https://dev.to/dor1633/multiple-caches-in-nestjs-pbi)
 - [Dev.to/JS] [Windows 11 Clone : Setting Menu](https://dev.to/shreyaanp/windows-11-clone-setting-menu-43pk)
 - [Dev.to/JS] [From Around the Web: 10 Fabulous Infographics About JAMstack](https://dev.to/momciloo/from-around-the-web-10-fabulous-infographics-about-jamstack-2c1a)
 - [Dev.to/JS] [LeetCode - Find The Original Array of Prefix XOR](https://dev.to/_alkesh26/leetcode-find-the-original-array-of-prefix-xor-3f1f)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useMemo vs useCallback](https://dev.to/ujwalkumar1995/usememo-vs-usecallback-49kd)
 - [Dev.to/JS] [React: the reconciliation algorithm](https://dev.to/ridhamz/the-reconciliation-algorithm-5bab)
 - [Dev.to/JS] [Chatgpt Google Chrome Extension](https://dev.to/zahidhasan24/chatgpt-google-chrome-extension-91j)
-- [Dev.to/JS] [JavaScript Tutorial Series: Strings](https://dev.to/fullstackjo/javascript-tutorial-series-strings-34lm)
 - [Lifehacker] [Don&#39;t Fall for Online Retailers&#39; Sneaky Tricks](https://lifehacker.com/dont-fall-for-online-retailers-sneaky-tricks-1850097353)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
 - [Lifehacker] [The Best Way to Remove Scuff Marks From Your Shoes](https://lifehacker.com/the-best-way-to-remove-scuff-marks-from-your-shoes-1850097364)
