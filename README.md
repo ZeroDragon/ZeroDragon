@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn Prisma Easy Way](https://dev.to/developerarif55/learn-prisma-easy-way-3j)
+- [Dev.to/JS] [How to Improve Node.js Application Performance](https://dev.to/folasayosamuel/how-to-improve-nodejs-application-performance-4o1)
+- [Dev.to/JS] [Think You&#39;re a JavaScript Pro? Find Out with this Quiz👇](https://dev.to/arafat4693/think-youre-a-javascript-pro-find-out-with-this-quiz-8ok)
+- [Dev.to/JS] [Technical Writing Process: How To Write A Good Technical Article](https://dev.to/the_greatbonnie/technical-writing-process-how-to-write-a-good-technical-article-j67)
+- [Dev.to/JS] [Multiple watchers in Vue 3](https://dev.to/snehalkadwe/mutiple-watchers-in-vue-3-4ij9)
 - [Dev.to/JS] [The Evolution of JavaScript: From Mocha to Modern Web Development](https://dev.to/mwbie/the-evolution-of-javascript-from-mocha-to-modern-web-development-k91)
 - [Dev.to/JS] [Typescript Runtime Validators and DX, a type-checking performance analysis of zod/superstruct/yup/typebox](https://dev.to/nicklucas/typescript-runtime-validators-and-dx-a-type-checking-performance-analysis-of-zodsuperstructyuptypebox-5416)
 - [Dev.to/JS] [How to create an HTML-to-PDF converter?](https://dev.to/flurabula/how-to-create-an-html-to-pdf-converter-df2)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Detect browser using JavaScript – with source code](https://dev.to/flurabula/detect-browser-using-javascript-with-source-code-45gb)
 - [Dev.to/JS] [Creating Dynamic Thumbnails with html2canvas](https://dev.to/netsi1964/creating-dynamic-thumbnails-with-html2canvas-5566)
 - [Dev.to/JS] [NuxtJs 3.2.0: The Latest Release Brings Exciting New Features](https://dev.to/awaisalwaisy/nuxtjs-320-the-latest-release-brings-exciting-new-features-5bln)
-- [Dev.to/JS] [anyone interested in building real-life full stack web app if interested ping me](https://dev.to/sebastin_007/anyone-interested-in-building-real-life-full-stack-web-app-if-interested-ping-me-7f2)
-- [Dev.to/JS] [Free Front-End courses with certificates](https://dev.to/kigunodark/free-front-end-courses-with-certificates-2478)
-- [Dev.to/JS] [Challenge #4: ⚖️ Build a DEX Challenge](https://dev.to/kevinjoshi46b/challenge-4-build-a-dex-challenge-2a55)
-- [Dev.to/JS] [A Step-By-Step Guide to OAuth 2.0: Implementing Sign In with Google, Facebook, and GitHub](https://dev.to/wulfi/a-step-by-step-guide-to-oauth-20-implementing-sign-in-with-google-facebook-and-github-51hb)
-- [Dev.to/JS] [Enums in Typescript explained](https://dev.to/isnan__h/enums-in-typescript-explained-2h4)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
 - [Lifehacker] [The Best Way to Remove Scuff Marks From Your Shoes](https://lifehacker.com/the-best-way-to-remove-scuff-marks-from-your-shoes-1850097364)
 - [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
