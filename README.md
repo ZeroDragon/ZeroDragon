@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Evolution of JavaScript: From Mocha to Modern Web Development](https://dev.to/mwbie/the-evolution-of-javascript-from-mocha-to-modern-web-development-k91)
+- [Dev.to/JS] [Typescript Runtime Validators and DX, a type-checking performance analysis of zod/superstruct/yup/typebox](https://dev.to/nicklucas/typescript-runtime-validators-and-dx-a-type-checking-performance-analysis-of-zodsuperstructyuptypebox-5416)
+- [Dev.to/JS] [How to create an HTML-to-PDF converter?](https://dev.to/flurabula/how-to-create-an-html-to-pdf-converter-df2)
+- [Dev.to/JS] [Become TypeScript Hokage with these type guard tricks](https://dev.to/nikolasbarwicki/become-typescript-hokage-with-these-type-guard-tricks-2nga)
+- [Dev.to/JS] [Detect browser using JavaScript – with source code](https://dev.to/flurabula/detect-browser-using-javascript-with-source-code-45gb)
 - [Dev.to/JS] [Creating Dynamic Thumbnails with html2canvas](https://dev.to/netsi1964/creating-dynamic-thumbnails-with-html2canvas-5566)
 - [Dev.to/JS] [NuxtJs 3.2.0: The Latest Release Brings Exciting New Features](https://dev.to/awaisalwaisy/nuxtjs-320-the-latest-release-brings-exciting-new-features-5bln)
 - [Dev.to/JS] [anyone interested in building real-life full stack web app if interested ping me](https://dev.to/sebastin_007/anyone-interested-in-building-real-life-full-stack-web-app-if-interested-ping-me-7f2)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Challenge #4: ⚖️ Build a DEX Challenge](https://dev.to/kevinjoshi46b/challenge-4-build-a-dex-challenge-2a55)
 - [Dev.to/JS] [A Step-By-Step Guide to OAuth 2.0: Implementing Sign In with Google, Facebook, and GitHub](https://dev.to/wulfi/a-step-by-step-guide-to-oauth-20-implementing-sign-in-with-google-facebook-and-github-51hb)
 - [Dev.to/JS] [Enums in Typescript explained](https://dev.to/isnan__h/enums-in-typescript-explained-2h4)
-- [Dev.to/JS] [Protect Your Website from Blind Cross-Site Scripting](https://dev.to/scofieldidehen/protect-your-website-from-blind-cross-site-scripting-351g)
-- [Dev.to/JS] [The Sweetest Way To Learn Higher-Order Functions In JavaScript With Ice cream](https://dev.to/sama_rthya/the-sweetest-way-to-learn-higher-order-functions-in-javascript-with-ice-cream-337o)
-- [Dev.to/JS] [Node js and Express js project setup](https://dev.to/nandakishorpalei/node-js-and-express-js-project-setup-2lfa)
-- [Dev.to/JS] [Getting Started with Puppeteer: A Guide to Web Scraping in Node.js](https://dev.to/musabdev/getting-started-with-puppeteer-a-guide-to-web-scraping-in-nodejs-4bbb)
-- [Dev.to/JS] [Why is JavaScript so Important?](https://dev.to/tmchuynh/why-is-javascript-so-important-1m0a)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
 - [Lifehacker] [The Best Way to Remove Scuff Marks From Your Shoes](https://lifehacker.com/the-best-way-to-remove-scuff-marks-from-your-shoes-1850097364)
 - [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
