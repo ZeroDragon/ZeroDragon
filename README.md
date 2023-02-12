@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rethinking the Modern Web](https://dev.to/oxharris/rethinking-the-modern-web-5cn1)
+- [Dev.to/JS] [Better way to think when creating components](https://dev.to/guilhermefront/better-way-to-think-when-creating-components-4hji)
+- [Dev.to/JS] [Node.js Cluster Module: Scaling Your Applications](https://dev.to/aquibzahidi/nodejs-cluster-module-scaling-your-applications-4och)
 - [Dev.to/JS] [Introduction to CSS: The Basics and How to Use It](https://dev.to/haszankauna/introduction-to-css-the-basics-and-how-to-use-it-3cf)
 - [Dev.to/JS] [Next JS - Intro And Setup](https://dev.to/karim_rohayem/next-js-intro-and-setup-1j26)
 - [Dev.to/JS] [JavaScript Data Structure Pt 2: Stack](https://dev.to/cleveroscar/javascript-data-structure-pt-2-stack-g)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [tsParticles 2.9.3 Released](https://dev.to/tsparticles/tsparticles-293-released-51a5)
 - [Dev.to/JS] [Creating a responsive web page with bootstrap](https://dev.to/haszankauna/creating-a-responsive-web-page-with-bootstrap-556k)
 - [Dev.to/JS] [Advanced React UI Components To Optimize Development Process](https://dev.to/paulknulst/advanced-react-ui-components-to-optimize-development-process-2hco)
-- [Dev.to/JS] [css interview questions and answers 2023 -dev.to](https://dev.to/mishraoct786/css-interview-questions-and-answers-2023-devto-2ca3)
-- [Dev.to/JS] [Multiple caches in nestjs](https://dev.to/dor1633/multiple-caches-in-nestjs-pbi)
-- [Dev.to/JS] [Windows 11 Clone : Setting Menu](https://dev.to/shreyaanp/windows-11-clone-setting-menu-43pk)
 - [Lifehacker] [How to Cope With Layoff Anxiety](https://lifehacker.com/how-to-cope-with-layoff-anxiety-1850097349)
 - [Lifehacker] [Don&#39;t Fall for Online Retailers&#39; Sneaky Tricks](https://lifehacker.com/dont-fall-for-online-retailers-sneaky-tricks-1850097353)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
