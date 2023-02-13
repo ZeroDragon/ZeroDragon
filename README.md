@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleashing the full power of Middleware with Enterspeed ⚡](https://dev.to/enterspeed/unleashing-the-full-power-of-middleware-with-enterspeed-h20)
+- [Dev.to/JS] [Comprehensive list of 20 companies where you can hire dedicated ReactJS developers in 2023](https://dev.to/monu181/comprehensive-list-of-20-companies-where-you-can-hire-dedicated-reactjs-developers-in-2023-5a0g)
+- [Dev.to/JS] [Programirleme Nireden Başlamaly?](https://dev.to/tmprogrammer/programirleme-nireden-baslamaly-4h1n)
 - [Dev.to/JS] [Mastering JavaScript: Understanding TypeError vs ReferenceError and == vs ===](https://dev.to/shmbajaj/mastering-javascript-understanding-typeerror-vs-referenceerror-and-vs--5h0l)
 - [Dev.to/JS] [Tại sao phát triển các loại cây công trình ngày càng được quan tâm](https://dev.to/caygiongdtc/tai-sao-phat-trien-cac-loai-cay-cong-trinh-ngay-cang-duoc-quan-tam-4cib)
 - [Dev.to/JS] [Introducing Blite, the Lightweight Node.js Backend Server](https://dev.to/firatkiral/introducing-blite-the-lightweight-nodejs-backend-server-57fe)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Beginner&#39;s Guide to Mastering Data Structures and Algorithms for Coding Interviews](https://dev.to/onlydevs_/a-beginners-guide-to-mastering-data-structures-and-algorithms-for-coding-interviews-3jcp)
 - [Dev.to/JS] [Invoking Solid.js components from your Ember apps](https://dev.to/rajasegar/invoking-solidjs-components-from-your-ember-apps-3i3c)
 - [Dev.to/JS] [List of 20 companies that you can consider for hiring remote React developers:](https://dev.to/monu181/list-of-20-companies-that-you-can-consider-for-hiring-remote-react-developers-k21)
-- [Dev.to/JS] [Build Website with ReactJS, Styled-components and GSAP for Scrolling Animations](https://dev.to/abhay78920/build-website-with-reactjs-styled-components-and-gsap-for-scrolling-animations-1i72)
-- [Dev.to/JS] [CRUD: You Just Got Served &lpar;Server Communication&rpar;](https://dev.to/chukwuma1976/crud-you-just-got-served-server-communication-337n)
-- [Dev.to/JS] [A seamless guide on Angular Material Menu Component](https://dev.to/ifourtechnolab/a-seamless-guide-on-angular-material-menu-component-ehn)
 - [Lifehacker] [How to Cope With Layoff Anxiety](https://lifehacker.com/how-to-cope-with-layoff-anxiety-1850097349)
 - [Lifehacker] [Don&#39;t Fall for Online Retailers&#39; Sneaky Tricks](https://lifehacker.com/dont-fall-for-online-retailers-sneaky-tricks-1850097353)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
