@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Ways You Should Be Using Caulk Around the House but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-using-caulk-around-the-house-1850108446)
+- [Dev.to/JS] [Increments are Interesting](https://dev.to/jrcharney/increments-are-interesting-2oca)
+- [Dev.to/JS] [How to use PocketBase Authentication with React Context](https://dev.to/franciscomendes10866/how-to-use-pocketbase-authentication-with-react-context-11be)
+- [Lifehacker] [Keep Your Natural Peanut Butter From Separating, and How to Remix It When It Does](https://lifehacker.com/keep-your-natural-peanut-butter-from-separating-and-ho-1850109148)
+- [Dev.to/JS] [A step-by-step guide on how to set up TypeScript in your project](https://dev.to/shanshaji/a-step-by-step-guide-on-how-to-set-up-typescript-in-your-project-nij)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Analisando as notas!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-analisando-as-notas-1heg)
 - [Dev.to/JS] [Must-Know JavaScript Array Methods](https://dev.to/bajcmartinez/must-know-javascript-array-methods-1haa)
+- [Lifehacker] [Don&#39;t Feed Your Dog This Recalled Dry Food](https://lifehacker.com/dont-feed-your-dog-this-recalled-dry-food-1850109025)
 - [Dev.to/JS] [Arrow Functions and State in React](https://dev.to/livelong_ponder/arrow-functions-and-state-in-react-2ama)
 - [Dev.to/JS] [Episode 23/06: Q&amp;A with the Angular Team](https://dev.to/ng_news/episode-2306-qa-with-the-angular-team-gl)
 - [Lifehacker] [Please Clean Your Spice Jars](https://lifehacker.com/why-you-need-to-clean-your-spice-jars-1850108799)
@@ -36,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Walle - CLI Crypto Wallet for Ethereum like networks](https://dev.to/pobepto/walle-cli-crypto-wallet-for-ethereum-like-networks-5cmp)
 - [Lifehacker] [How to Get Free Wendy&#39;s French Fries All Week](https://lifehacker.com/how-to-get-free-wendys-french-fries-all-week-1850107971)
 - [Dev.to/JS] [Web Development Internship at Oasis Infobyte: A Learning Journey](https://dev.to/devvsakib/web-development-internship-at-oasis-infobyte-a-learning-journey-11dp)
-- [Dev.to/JS] [List of IT staffing and augmentation companies that specialize in hiring React developers in 2023](https://dev.to/monu181/list-of-it-staffing-and-augmentation-companies-that-specialize-in-hiring-react-developers-in-2023-o05)
-- [Dev.to/JS] [Running Go code inside a NodeJS app with WASM &lpar;Part 1/2, 2023&rpar;](https://dev.to/pfernandom/running-go-code-inside-a-nodejs-app-with-wasm-part-12-2023-1492)
 - [Lifehacker] [What Bad Money Habits Did You Have to Unlearn From Your Parents?](https://lifehacker.com/what-bad-money-habits-did-you-have-to-unlearn-from-your-1850107911)
-- [Dev.to/JS] [JavaScript: How to Use the Chuck Norris API for Beginners](https://dev.to/michaellarocca/javascript-how-to-use-the-chuck-norris-api-for-beginners-2mjj)
-- [Dev.to/JS] [Build a responsive E-commerce website from scratch](https://dev.to/mjshofy/build-a-responsive-e-commerce-website-from-scratch-2639)
 - [Lifehacker] [This Air-Fried French Toast Isn&#39;t What You Think](https://lifehacker.com/this-air-fried-french-toast-isnt-what-you-think-1850107804)
 - [Lifehacker] [22 Movies Almost Impossible to Watch on DVD or Streaming in 2023 &lpar;and How to Maybe Watch Them Anyway&rpar;](https://lifehacker.com/22-movies-almost-impossible-to-watch-on-dvd-or-streamin-1850090606)
 - [Lifehacker] [Your Mac&#39;s Finder Has a Hidden Advanced Search Mode](https://lifehacker.com/your-macs-finder-has-a-hidden-advanced-search-mode-1850106810)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You’re Making Chocolate Covered Strawberries All Wrong](https://lifehacker.com/you-re-making-chocolate-covered-strawberries-all-wrong-1850101124)
 - [Lifehacker] [Two Things You Should Do to Impress Your Valentine&#39;s Dinner Date](https://lifehacker.com/two-things-you-should-do-to-impress-your-valentines-din-1850101185)
 - [Lifehacker] [If You Really Love Your Valentine, Buy Them Candy From the Office Supply Store](https://lifehacker.com/if-you-really-love-your-valentine-buy-them-candy-from-1850100792)
-- [Lifehacker] [You Can Pre-Order ‘The Legend of Zelda: Tears of the Kingdom’ for $20 Off](https://lifehacker.com/you-can-pre-order-the-legend-of-zelda-tears-of-the-ki-1850100462)
-- [Lifehacker] [How to Avoid the Nasty Norovirus Stomach Bug](https://lifehacker.com/how-to-avoid-the-nasty-norovirus-stomach-bug-1850100701)
-- [Lifehacker] [19 Food and Beverage Brands I’m Fiercely Loyal To](https://lifehacker.com/19-food-and-beverage-brands-i-m-fiercely-loyal-to-1850095917)
-- [Lifehacker] [Impress Your Valentine With Spaghetti al Limone](https://lifehacker.com/impress-your-valentine-with-spaghetti-al-limone-1850100245)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Pre-Order ‘The Legend of Zelda: Tears of the Kingdom’ for $20 Off](https://lifehacker.com/you-can-pre-order-the-legend-of-zelda-tears-of-the-ki-1850100462)<!-- TECH-POSTS:END -->
 
 ---
 
