@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Small trick to understand the `this` keyword](https://dev.to/nicozerpa/small-trick-to-understand-the-this-keyword-184p)
+- [Lifehacker] [The 7 Deadly Sins of Quitting Your Job](https://lifehacker.com/the-7-deadly-sins-of-quitting-your-job-1850101585)
+- [Dev.to/JS] [Vue + threeJs, importando modelos](https://dev.to/jaimebboyjt/vue-threejs-importando-modelos-48ko)
+- [Dev.to/JS] [SvelteKit + Electron: Create your desktop web app](https://dev.to/ptkdev/sveltekit-electron-create-your-desktop-web-app-4nbg)
+- [Lifehacker] [Don’t Let These February Class-Action Settlement Deadlines Pass You By](https://lifehacker.com/don-t-let-these-february-class-action-settlement-deadli-1850101398)
+- [Dev.to/JS] [Making the Dummy Component](https://dev.to/michthebrandofficial/making-the-dummy-component-3i1o)
+- [Dev.to/JS] [Building the largest Notifications Library in the world using ChatGPT, React, and NodeJS 🤯](https://dev.to/novu/building-the-largest-notifications-library-in-the-world-using-chatgpt-react-and-nodejs-2of7)
+- [Lifehacker] [The Easiest Ways to Be a Better Parent to Your Teenager](https://lifehacker.com/the-easiest-way-to-be-a-better-parent-to-your-teenager-1850100478)
 - [Dev.to/JS] [My experiences with Ambassador programs](https://dev.to/jacobandrewsky/my-experiences-with-ambassador-programs-2bkc)
 - [Dev.to/JS] [Javascript: Building a Dice Game](https://dev.to/stevedev/javascript-building-a-dice-game-3kf)
 - [Dev.to/JS] [38 Awesome APIs to Inspire Your Next Software Project](https://dev.to/jhimmyofficial/38-awesome-apis-to-inspire-your-next-software-project-4395)
@@ -30,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Steps to become a best Web Developer!](https://dev.to/shamsulhuda/10-steps-to-become-a-best-web-developer-fd1)
 - [Dev.to/JS] [Beginner](https://dev.to/malise5/beginner-3jl6)
 - [Dev.to/JS] [Real Estate App](https://dev.to/malise5/real-estate-app-222f)
-- [Dev.to/JS] [Top 8 Front-end Trends to Note in 2023](https://dev.to/function12_io/top-8-front-end-trends-to-note-in-2023-15cg)
-- [Dev.to/JS] [What is Variable Shadowing in JavaScript?](https://dev.to/catherineisonline/what-is-variable-shadowing-in-javascript-59ci)
-- [Dev.to/JS] [How to define and use of a class in Javascript.](https://dev.to/shamsulhuda/how-to-define-and-use-of-a-class-in-javascript-a9a)
-- [Dev.to/JS] [How I Built Ecommerce store with Next.js + Medusa + Stripe + Vercel](https://dev.to/nobleokechi/how-i-built-ecommerce-store-with-nextjs-medusa-stripe-k5d)
-- [Dev.to/JS] [Tips for Writing Efficient JavaScript Code](https://dev.to/haszankauna/tips-for-writing-efficient-javascript-code-4jp7)
 - [Lifehacker] [How to Cope With Layoff Anxiety](https://lifehacker.com/how-to-cope-with-layoff-anxiety-1850097349)
 - [Lifehacker] [Don&#39;t Fall for Online Retailers&#39; Sneaky Tricks](https://lifehacker.com/dont-fall-for-online-retailers-sneaky-tricks-1850097353)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You&#39;re Burning Your Candles Wrong](https://lifehacker.com/youre-burning-your-candles-wrong-1850096693)
 - [Lifehacker] [25 of the Most Depressing Movies Ever Made](https://lifehacker.com/25-of-the-most-depressing-movies-ever-made-1850094135)
 - [Lifehacker] [Make Juicy, Flavorful Chicken by Marinating It in Olive Brine](https://lifehacker.com/make-juicy-flavorful-chicken-by-marinating-it-in-olive-1850096567)
-- [Lifehacker] [Should You Clap on the 1 and 3 Beats or the 2 and 4?](https://lifehacker.com/should-you-clap-on-the-1-and-3-beat-or-the-2-and-4-1850096102)
-- [Lifehacker] [8 Cleaning Products TikTok Absolutely Loves](https://lifehacker.com/8-cleaning-products-tiktok-absolutely-loves-1850095503)
-- [Lifehacker] [11 Things You Use &lpar;or Eat&rpar; That Aren&#39;t Made the Way You Think](https://lifehacker.com/11-things-you-use-or-eat-that-arent-made-the-way-you-1850077719)
-- [Lifehacker] [Improve Your iPhone&#39;s Digital Zoom With This App](https://lifehacker.com/improve-your-iphones-digital-zoom-with-this-app-1850095334)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Should You Clap on the 1 and 3 Beats or the 2 and 4?](https://lifehacker.com/should-you-clap-on-the-1-and-3-beat-or-the-2-and-4-1850096102)<!-- TECH-POSTS:END -->
 
 ---
 
