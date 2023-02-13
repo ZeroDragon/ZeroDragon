@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Tutorial Series: Arrays](https://dev.to/fullstackjo/javascript-tutorial-series-arrays-4d1b)
+- [Lifehacker] [Your Mac&#39;s Finder Has a Hidden Advanced Search Mode](https://lifehacker.com/your-macs-finder-has-a-hidden-advanced-search-mode-1850106810)
+- [Dev.to/JS] [How == is different from === in JavaScript?](https://dev.to/sobitp59/how-is-different-from-in-javascript-51cn)
+- [Dev.to/JS] [My Portfolio](https://dev.to/sahilkalkal/my-portfolio-5bk0)
+- [Crazy Programmer] [How to Prepare for Tech Interviews? Essential Steps for Success in 2023](https://www.thecrazyprogrammer.com/2023/02/how-to-prepare-for-tech-interviews.html)
 - [Lifehacker] [7 Fun Home Improvement Projects You Can Do With Your Kids](https://lifehacker.com/7-fun-home-improvement-projects-you-can-do-with-your-ki-1850105663)
 - [Lifehacker] [15 Video Games to Play Mindlessly While You Binge a Podcast](https://lifehacker.com/15-video-games-to-play-mindlessly-while-you-binge-a-pod-1850101449)
 - [Dev.to/JS] [Testing a React Custom Hook](https://dev.to/manuartero/testing-a-custom-hook-like-a-pro-1b19)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My experiences with Ambassador programs](https://dev.to/jacobandrewsky/my-experiences-with-ambassador-programs-2bkc)
 - [Dev.to/JS] [Javascript: Building a Dice Game](https://dev.to/stevedev/javascript-building-a-dice-game-3kf)
 - [Dev.to/JS] [38 Awesome APIs to Inspire Your Next Software Project](https://dev.to/jhimmyofficial/38-awesome-apis-to-inspire-your-next-software-project-4395)
-- [Dev.to/JS] [Aprende CSS, JavaScript y SQL Jugando 🕹️](https://dev.to/alanmartinc/aprende-css-javascript-y-sql-jugando-5gk7)
-- [Dev.to/JS] [10 Steps to become a best Web Developer!](https://dev.to/shamsulhuda/10-steps-to-become-a-best-web-developer-fd1)
-- [Dev.to/JS] [Beginner](https://dev.to/malise5/beginner-3jl6)
 - [Lifehacker] [How to Cope With Layoff Anxiety](https://lifehacker.com/how-to-cope-with-layoff-anxiety-1850097349)
 - [Lifehacker] [Don&#39;t Fall for Online Retailers&#39; Sneaky Tricks](https://lifehacker.com/dont-fall-for-online-retailers-sneaky-tricks-1850097353)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Hidden Features in iPhone’s Reminders App Worth Knowing About](https://lifehacker.com/10-hidden-features-in-iphone-s-reminders-app-worth-know-1850097789)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are Your Children Drinking Borgs?](https://lifehacker.com/what-the-hell-are-borgs-1850097486)
 - [Lifehacker] [You Can Add Face ID Lock to iPhone Apps That Don’t Support It](https://lifehacker.com/you-can-add-a-face-id-lock-to-any-iphone-app-1850098069)
-- [Lifehacker] [You’re Promoting Yourself All Wrong on Social Media](https://lifehacker.com/you-re-promoting-yourself-all-wrong-on-social-media-1850096979)
-- [Lifehacker] [You&#39;re Burning Your Candles Wrong](https://lifehacker.com/youre-burning-your-candles-wrong-1850096693)
-- [Lifehacker] [25 of the Most Depressing Movies Ever Made](https://lifehacker.com/25-of-the-most-depressing-movies-ever-made-1850094135)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You’re Promoting Yourself All Wrong on Social Media](https://lifehacker.com/you-re-promoting-yourself-all-wrong-on-social-media-1850096979)<!-- TECH-POSTS:END -->
 
 ---
 
