@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Running Go code inside a NodeJS app with WASM &lpar;Part 1/2, 2023&rpar;](https://dev.to/pfernandom/running-go-code-inside-a-nodejs-app-with-wasm-part-12-2023-1492)
+- [Lifehacker] [What Bad Money Habits Did You Have to Unlearn From Your Parents?](https://lifehacker.com/what-bad-money-habits-did-you-have-to-unlearn-from-your-1850107911)
+- [Dev.to/JS] [JavaScript: How to Use the Chuck Norris API for Beginners](https://dev.to/michaellarocca/javascript-how-to-use-the-chuck-norris-api-for-beginners-2mjj)
+- [Dev.to/JS] [Build a responsive E-commerce website from scratch](https://dev.to/mjshofy/build-a-responsive-e-commerce-website-from-scratch-2639)
+- [Dev.to/JS] [Still using Express.js ? THIS will BLOW your mind](https://dev.to/pratik86/still-using-expressjs-this-will-blow-your-mind-39i7)
+- [Lifehacker] [This Air-Fried French Toast Isn&#39;t What You Think](https://lifehacker.com/this-air-fried-french-toast-isnt-what-you-think-1850107804)
+- [Dev.to/JS] [Introduction to Typescript](https://dev.to/shanshaji/introduction-to-typescript-4256)
+- [Lifehacker] [22 Movies Almost Impossible to Watch on DVD or Streaming in 2023 &lpar;and How to Maybe Watch Them Anyway&rpar;](https://lifehacker.com/22-movies-almost-impossible-to-watch-on-dvd-or-streamin-1850090606)
 - [Dev.to/JS] [JavaScript Tutorial Series: Arrays](https://dev.to/fullstackjo/javascript-tutorial-series-arrays-4d1b)
 - [Lifehacker] [Your Mac&#39;s Finder Has a Hidden Advanced Search Mode](https://lifehacker.com/your-macs-finder-has-a-hidden-advanced-search-mode-1850106810)
 - [Dev.to/JS] [How == is different from === in JavaScript?](https://dev.to/sobitp59/how-is-different-from-in-javascript-51cn)
@@ -36,12 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vue + threeJs, importando modelos](https://dev.to/jaimebboyjt/vue-threejs-importando-modelos-48ko)
 - [Dev.to/JS] [SvelteKit + Electron: Create your desktop web app](https://dev.to/ptkdev/sveltekit-electron-create-your-desktop-web-app-4nbg)
 - [Lifehacker] [Don’t Let These February Class-Action Settlement Deadlines Pass You By](https://lifehacker.com/don-t-let-these-february-class-action-settlement-deadli-1850101398)
-- [Dev.to/JS] [Making the Dummy Component](https://dev.to/michthebrandofficial/making-the-dummy-component-3i1o)
-- [Dev.to/JS] [Building the largest Notifications Library in the world using ChatGPT, React, and NodeJS 🤯](https://dev.to/novu/building-the-largest-notifications-library-in-the-world-using-chatgpt-react-and-nodejs-2of7)
 - [Lifehacker] [The Easiest Ways to Be a Better Parent to Your Teenager](https://lifehacker.com/the-easiest-way-to-be-a-better-parent-to-your-teenager-1850100478)
-- [Dev.to/JS] [My experiences with Ambassador programs](https://dev.to/jacobandrewsky/my-experiences-with-ambassador-programs-2bkc)
-- [Dev.to/JS] [Javascript: Building a Dice Game](https://dev.to/stevedev/javascript-building-a-dice-game-3kf)
-- [Dev.to/JS] [38 Awesome APIs to Inspire Your Next Software Project](https://dev.to/jhimmyofficial/38-awesome-apis-to-inspire-your-next-software-project-4395)
 - [Lifehacker] [How to Cope With Layoff Anxiety](https://lifehacker.com/how-to-cope-with-layoff-anxiety-1850097349)
 - [Lifehacker] [Don&#39;t Fall for Online Retailers&#39; Sneaky Tricks](https://lifehacker.com/dont-fall-for-online-retailers-sneaky-tricks-1850097353)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Simple Three-Ingredient Spinach and Artichoke Dip](https://lifehacker.com/make-this-simple-three-ingredient-spinach-and-artichoke-1850100116)
 - [Lifehacker] [Are You Exercising for Your Mental Health, or Just to Escape Your Problems?](https://lifehacker.com/are-you-exercising-for-your-mental-health-or-just-to-e-1850099907)
 - [Lifehacker] [Get Free Wendy&#39;s Jr. Bacon Cheeseburgers Until Sunday](https://lifehacker.com/get-free-wendys-jr-bacon-cheeseburgers-until-sunday-1850099608)
-- [Lifehacker] [10 Hidden Features in iPhone’s Reminders App Worth Knowing About](https://lifehacker.com/10-hidden-features-in-iphone-s-reminders-app-worth-know-1850097789)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are Your Children Drinking Borgs?](https://lifehacker.com/what-the-hell-are-borgs-1850097486)
-- [Lifehacker] [You Can Add Face ID Lock to iPhone Apps That Don’t Support It](https://lifehacker.com/you-can-add-a-face-id-lock-to-any-iphone-app-1850098069)
-- [Lifehacker] [You’re Promoting Yourself All Wrong on Social Media](https://lifehacker.com/you-re-promoting-yourself-all-wrong-on-social-media-1850096979)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Hidden Features in iPhone’s Reminders App Worth Knowing About](https://lifehacker.com/10-hidden-features-in-iphone-s-reminders-app-worth-know-1850097789)<!-- TECH-POSTS:END -->
 
 ---
 
