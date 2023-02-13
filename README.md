@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Invoking Solid.js components from your Ember apps](https://dev.to/rajasegar/invoking-solidjs-components-from-your-ember-apps-3i3c)
+- [Dev.to/JS] [List of 20 companies that you can consider for hiring remote React developers:](https://dev.to/monu181/list-of-20-companies-that-you-can-consider-for-hiring-remote-react-developers-k21)
+- [Dev.to/JS] [Build Website with ReactJS, Styled-components and GSAP for Scrolling Animations](https://dev.to/abhay78920/build-website-with-reactjs-styled-components-and-gsap-for-scrolling-animations-1i72)
 - [Dev.to/JS] [CRUD: You Just Got Served &lpar;Server Communication&rpar;](https://dev.to/chukwuma1976/crud-you-just-got-served-server-communication-337n)
 - [Dev.to/JS] [A seamless guide on Angular Material Menu Component](https://dev.to/ifourtechnolab/a-seamless-guide-on-angular-material-menu-component-ehn)
 - [Dev.to/JS] [Securing Your JSON Web Tokens with JWT Schema Validation in JavaScript](https://dev.to/knitesh/securing-your-json-web-tokens-with-jwt-schema-validation-in-javascript-29p1)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Keyboard Shortcuts to Make Your Developer Life Easier!](https://dev.to/itsbrotherdan/keyboard-shortcuts-to-make-your-developer-life-easier-1059)
 - [Dev.to/JS] [problem when using ng serve](https://dev.to/leadere/problem-when-using-ng-serve-h0m)
 - [Dev.to/JS] [Extensiones para Visual Studio Code 🦾](https://dev.to/alanmartinc/extensiones-para-visual-studio-code-2ji5)
-- [Dev.to/JS] [Set an expiration tine React Native AsyncStorage](https://dev.to/pierre/expiry-tine-react-native-asyncstorage-371l)
-- [Dev.to/JS] [Built-in Hooks &lpar;2&rpar;: Why Should We Avoid Re-Defining Callback Functions?](https://dev.to/yukooshima/built-in-hooks-2-why-should-we-avoid-re-defining-callback-functions-nob)
-- [Dev.to/JS] [TypeScript Return Types: Separating Fact from Fiction](https://dev.to/pffigueiredo/typescript-return-types-separating-fact-from-fiction-4266)
 - [Lifehacker] [How to Cope With Layoff Anxiety](https://lifehacker.com/how-to-cope-with-layoff-anxiety-1850097349)
 - [Lifehacker] [Don&#39;t Fall for Online Retailers&#39; Sneaky Tricks](https://lifehacker.com/dont-fall-for-online-retailers-sneaky-tricks-1850097353)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
