@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dependency Injection without decorators in TypeScript](https://dev.to/afl_ext/dependency-injection-without-decorators-in-typescript-5gd5)
+- [Lifehacker] [8 Surprising Household Uses for Razor Blades](https://lifehacker.com/8-surprising-household-uses-for-razor-blades-1850108754)
 - [Lifehacker] [There&#39;s a Secret Way to Restart Your iPhone](https://lifehacker.com/theres-a-secret-way-to-restart-your-iphone-1850107814)
 - [Dev.to/JS] [Walle - CLI Crypto Wallet for Ethereum like networks](https://dev.to/pobepto/walle-cli-crypto-wallet-for-ethereum-like-networks-5cmp)
 - [Lifehacker] [How to Get Free Wendy&#39;s French Fries All Week](https://lifehacker.com/how-to-get-free-wendys-french-fries-all-week-1850107971)
@@ -43,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [How to Prepare for Tech Interviews? Essential Steps for Success in 2023](https://www.thecrazyprogrammer.com/2023/02/how-to-prepare-for-tech-interviews.html)
 - [Lifehacker] [7 Fun Home Improvement Projects You Can Do With Your Kids](https://lifehacker.com/7-fun-home-improvement-projects-you-can-do-with-your-ki-1850105663)
 - [Lifehacker] [15 Video Games to Play Mindlessly While You Binge a Podcast](https://lifehacker.com/15-video-games-to-play-mindlessly-while-you-binge-a-pod-1850101449)
-- [Dev.to/JS] [Testing a React Custom Hook](https://dev.to/manuartero/testing-a-custom-hook-like-a-pro-1b19)
 - [Lifehacker] [The 7 Deadly Sins of Quitting Your Job](https://lifehacker.com/the-7-deadly-sins-of-quitting-your-job-1850101585)
 - [Lifehacker] [Don’t Let These February Class-Action Settlement Deadlines Pass You By](https://lifehacker.com/don-t-let-these-february-class-action-settlement-deadli-1850101398)
 - [Lifehacker] [The Easiest Ways to Be a Better Parent to Your Teenager](https://lifehacker.com/the-easiest-way-to-be-a-better-parent-to-your-teenager-1850100478)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [19 Food and Beverage Brands I’m Fiercely Loyal To](https://lifehacker.com/19-food-and-beverage-brands-i-m-fiercely-loyal-to-1850095917)
 - [Lifehacker] [Impress Your Valentine With Spaghetti al Limone](https://lifehacker.com/impress-your-valentine-with-spaghetti-al-limone-1850100245)
 - [Lifehacker] [When and How to Take a Weed &#39;Tolerance Break&#39;](https://lifehacker.com/when-and-how-to-take-a-weed-tolerance-break-1850100393)
-- [Lifehacker] [Make This Simple Three-Ingredient Spinach and Artichoke Dip](https://lifehacker.com/make-this-simple-three-ingredient-spinach-and-artichoke-1850100116)
-- [Lifehacker] [Are You Exercising for Your Mental Health, or Just to Escape Your Problems?](https://lifehacker.com/are-you-exercising-for-your-mental-health-or-just-to-e-1850099907)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make This Simple Three-Ingredient Spinach and Artichoke Dip](https://lifehacker.com/make-this-simple-three-ingredient-spinach-and-artichoke-1850100116)<!-- TECH-POSTS:END -->
 
 ---
 
