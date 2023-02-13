@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Keyboard Shortcuts to Make Your Developer Life Easier!](https://dev.to/itsbrotherdan/keyboard-shortcuts-to-make-your-developer-life-easier-1059)
 - [Dev.to/JS] [problem when using ng serve](https://dev.to/leadere/problem-when-using-ng-serve-h0m)
 - [Dev.to/JS] [Extensiones para Visual Studio Code 🦾](https://dev.to/alanmartinc/extensiones-para-visual-studio-code-2ji5)
 - [Dev.to/JS] [Set an expiration tine React Native AsyncStorage](https://dev.to/pierre/expiry-tine-react-native-asyncstorage-371l)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Portfolio Website](https://dev.to/farmanali6349/portfolio-website-23l)
 - [Dev.to/JS] [Best ideas from Clean Code by Robert C. Martin &lpar;with Typescript examples&rpar;](https://dev.to/turboninh/best-ideas-from-clean-code-by-robert-c-martin-with-typescript-examples-14of)
 - [Dev.to/JS] [Rethinking the Modern Web](https://dev.to/oxharris/rethinking-the-modern-web-5cn1)
-- [Dev.to/JS] [Better way to think when creating components](https://dev.to/guilhermefront/better-way-to-think-when-creating-components-4hji)
 - [Lifehacker] [How to Cope With Layoff Anxiety](https://lifehacker.com/how-to-cope-with-layoff-anxiety-1850097349)
 - [Lifehacker] [Don&#39;t Fall for Online Retailers&#39; Sneaky Tricks](https://lifehacker.com/dont-fall-for-online-retailers-sneaky-tricks-1850097353)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
