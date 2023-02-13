@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Securing Your JSON Web Tokens with JWT Schema Validation in JavaScript](https://dev.to/knitesh/securing-your-json-web-tokens-with-jwt-schema-validation-in-javascript-29p1)
+- [Dev.to/JS] [4 Tips for Properly Using the Return Statement in Your Code](https://dev.to/dainemawer/4-tips-for-properly-using-the-return-statement-in-your-code-g3o)
+- [Dev.to/JS] [Map, Filter, Reduce: An easy Javascript guide](https://dev.to/acidop/map-filter-reduce-an-easy-javascript-guide-3m0a)
+- [Dev.to/JS] [Ruby - How Many Carats is this Gem?](https://dev.to/magerman714/ruby-how-many-carats-is-this-gem-3114)
 - [Dev.to/JS] [Keyboard Shortcuts to Make Your Developer Life Easier!](https://dev.to/itsbrotherdan/keyboard-shortcuts-to-make-your-developer-life-easier-1059)
 - [Dev.to/JS] [problem when using ng serve](https://dev.to/leadere/problem-when-using-ng-serve-h0m)
 - [Dev.to/JS] [Extensiones para Visual Studio Code 🦾](https://dev.to/alanmartinc/extensiones-para-visual-studio-code-2ji5)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript Return Types: Separating Fact from Fiction](https://dev.to/pffigueiredo/typescript-return-types-separating-fact-from-fiction-4266)
 - [Dev.to/JS] [Functions: The Building Blocks of Efficient and Effective Code](https://dev.to/edwinacos55/functions-the-building-blocks-of-efficient-and-effective-code-2anc)
 - [Dev.to/JS] [Array.map Method - Brief Intro](https://dev.to/edwinacos55/arraymap-method-brief-intro-1kbb)
-- [Dev.to/JS] [First look at Nuxt DevTools](https://dev.to/alexandergekov/first-look-at-nuxt-devtools-3ie1)
-- [Dev.to/JS] [Portfolio Website](https://dev.to/farmanali6349/portfolio-website-23l)
-- [Dev.to/JS] [Best ideas from Clean Code by Robert C. Martin &lpar;with Typescript examples&rpar;](https://dev.to/turboninh/best-ideas-from-clean-code-by-robert-c-martin-with-typescript-examples-14of)
-- [Dev.to/JS] [Rethinking the Modern Web](https://dev.to/oxharris/rethinking-the-modern-web-5cn1)
 - [Lifehacker] [How to Cope With Layoff Anxiety](https://lifehacker.com/how-to-cope-with-layoff-anxiety-1850097349)
 - [Lifehacker] [Don&#39;t Fall for Online Retailers&#39; Sneaky Tricks](https://lifehacker.com/dont-fall-for-online-retailers-sneaky-tricks-1850097353)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
