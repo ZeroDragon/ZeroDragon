@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Extensiones para Visual Studio Code 🦾](https://dev.to/alanmartinc/extensiones-para-visual-studio-code-2ji5)
+- [Dev.to/JS] [Set an expiration tine React Native AsyncStorage](https://dev.to/pierre/expiry-tine-react-native-asyncstorage-371l)
+- [Dev.to/JS] [Built-in Hooks &lpar;2&rpar;: Why Should We Avoid Re-Defining Callback Functions?](https://dev.to/yukooshima/built-in-hooks-2-why-should-we-avoid-re-defining-callback-functions-nob)
+- [Dev.to/JS] [TypeScript Return Types: Separating Fact from Fiction](https://dev.to/pffigueiredo/typescript-return-types-separating-fact-from-fiction-4266)
+- [Dev.to/JS] [Functions: The Building Blocks of Efficient and Effective Code](https://dev.to/edwinacos55/functions-the-building-blocks-of-efficient-and-effective-code-2anc)
 - [Dev.to/JS] [Array.map Method - Brief Intro](https://dev.to/edwinacos55/arraymap-method-brief-intro-1kbb)
 - [Dev.to/JS] [First look at Nuxt DevTools](https://dev.to/alexandergekov/first-look-at-nuxt-devtools-3ie1)
 - [Dev.to/JS] [Portfolio Website](https://dev.to/farmanali6349/portfolio-website-23l)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rethinking the Modern Web](https://dev.to/oxharris/rethinking-the-modern-web-5cn1)
 - [Dev.to/JS] [Better way to think when creating components](https://dev.to/guilhermefront/better-way-to-think-when-creating-components-4hji)
 - [Dev.to/JS] [Node.js Cluster Module: Scaling Your Applications](https://dev.to/aquibzahidi/nodejs-cluster-module-scaling-your-applications-4och)
-- [Dev.to/JS] [Introduction to CSS: The Basics and How to Use It](https://dev.to/haszankauna/introduction-to-css-the-basics-and-how-to-use-it-3cf)
-- [Dev.to/JS] [Next JS - Intro And Setup](https://dev.to/karim_rohayem/next-js-intro-and-setup-1j26)
-- [Dev.to/JS] [JavaScript Data Structure Pt 2: Stack](https://dev.to/cleveroscar/javascript-data-structure-pt-2-stack-g)
-- [Dev.to/JS] [State management options in React](https://dev.to/chrisspotless/state-management-options-in-react-3ekl)
-- [Dev.to/JS] [Debugging JavaScript: Best Practices &amp; DevTools](https://dev.to/haszankauna/debugging-javascript-best-practices-devtools-1ing)
 - [Lifehacker] [How to Cope With Layoff Anxiety](https://lifehacker.com/how-to-cope-with-layoff-anxiety-1850097349)
 - [Lifehacker] [Don&#39;t Fall for Online Retailers&#39; Sneaky Tricks](https://lifehacker.com/dont-fall-for-online-retailers-sneaky-tricks-1850097353)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
