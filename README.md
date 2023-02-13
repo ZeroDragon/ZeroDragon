@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Calorie Restriction Is Not a Longevity Hack](https://lifehacker.com/calorie-restriction-is-not-a-longevity-hack-1850110037)
+- [Lifehacker] [How to Stop Yelling at Your Kid About Using Their Phone](https://lifehacker.com/how-to-stop-yelling-at-your-kid-about-using-their-phone-1850107302)
 - [Lifehacker] [All the Ways You Should Be Using Caulk Around the House but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-using-caulk-around-the-house-1850108446)
 - [Dev.to/JS] [Increments are Interesting](https://dev.to/jrcharney/increments-are-interesting-2oca)
 - [Dev.to/JS] [How to use PocketBase Authentication with React Context](https://dev.to/franciscomendes10866/how-to-use-pocketbase-authentication-with-react-context-11be)
@@ -31,6 +33,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Analisando as notas!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-analisando-as-notas-1heg)
 - [Dev.to/JS] [Must-Know JavaScript Array Methods](https://dev.to/bajcmartinez/must-know-javascript-array-methods-1haa)
 - [Lifehacker] [Don&#39;t Feed Your Dog This Recalled Dry Food](https://lifehacker.com/dont-feed-your-dog-this-recalled-dry-food-1850109025)
+- [Dev.to/JS] [Páginas para Desarrollador 🧑🏻‍💻](https://dev.to/alanmartinc/desarrollo-web-coderhouse-35bp)
 - [Dev.to/JS] [Arrow Functions and State in React](https://dev.to/livelong_ponder/arrow-functions-and-state-in-react-2ama)
 - [Dev.to/JS] [Episode 23/06: Q&amp;A with the Angular Team](https://dev.to/ng_news/episode-2306-qa-with-the-angular-team-gl)
 - [Lifehacker] [Please Clean Your Spice Jars](https://lifehacker.com/why-you-need-to-clean-your-spice-jars-1850108799)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There&#39;s a Secret Way to Restart Your iPhone](https://lifehacker.com/theres-a-secret-way-to-restart-your-iphone-1850107814)
 - [Dev.to/JS] [Walle - CLI Crypto Wallet for Ethereum like networks](https://dev.to/pobepto/walle-cli-crypto-wallet-for-ethereum-like-networks-5cmp)
 - [Lifehacker] [How to Get Free Wendy&#39;s French Fries All Week](https://lifehacker.com/how-to-get-free-wendys-french-fries-all-week-1850107971)
-- [Dev.to/JS] [Web Development Internship at Oasis Infobyte: A Learning Journey](https://dev.to/devvsakib/web-development-internship-at-oasis-infobyte-a-learning-journey-11dp)
 - [Lifehacker] [What Bad Money Habits Did You Have to Unlearn From Your Parents?](https://lifehacker.com/what-bad-money-habits-did-you-have-to-unlearn-from-your-1850107911)
 - [Lifehacker] [This Air-Fried French Toast Isn&#39;t What You Think](https://lifehacker.com/this-air-fried-french-toast-isnt-what-you-think-1850107804)
 - [Lifehacker] [22 Movies Almost Impossible to Watch on DVD or Streaming in 2023 &lpar;and How to Maybe Watch Them Anyway&rpar;](https://lifehacker.com/22-movies-almost-impossible-to-watch-on-dvd-or-streamin-1850090606)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
 - [Lifehacker] [The Least-Bad Way to Buy a Car Right Now](https://lifehacker.com/the-least-bad-way-to-buy-a-car-right-now-1850101219)
 - [Lifehacker] [You’re Making Chocolate Covered Strawberries All Wrong](https://lifehacker.com/you-re-making-chocolate-covered-strawberries-all-wrong-1850101124)
-- [Lifehacker] [Two Things You Should Do to Impress Your Valentine&#39;s Dinner Date](https://lifehacker.com/two-things-you-should-do-to-impress-your-valentines-din-1850101185)
-- [Lifehacker] [If You Really Love Your Valentine, Buy Them Candy From the Office Supply Store](https://lifehacker.com/if-you-really-love-your-valentine-buy-them-candy-from-1850100792)
-- [Lifehacker] [You Can Pre-Order ‘The Legend of Zelda: Tears of the Kingdom’ for $20 Off](https://lifehacker.com/you-can-pre-order-the-legend-of-zelda-tears-of-the-ki-1850100462)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Two Things You Should Do to Impress Your Valentine&#39;s Dinner Date](https://lifehacker.com/two-things-you-should-do-to-impress-your-valentines-din-1850101185)<!-- TECH-POSTS:END -->
 
 ---
 
