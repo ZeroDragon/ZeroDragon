@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [There&#39;s a Secret Way to Restart Your iPhone](https://lifehacker.com/theres-a-secret-way-to-restart-your-iphone-1850107814)
+- [Dev.to/JS] [Walle - CLI Crypto Wallet for Ethereum like networks](https://dev.to/pobepto/walle-cli-crypto-wallet-for-ethereum-like-networks-5cmp)
+- [Lifehacker] [How to Get Free Wendy&#39;s French Fries All Week](https://lifehacker.com/how-to-get-free-wendys-french-fries-all-week-1850107971)
+- [Dev.to/JS] [Web Development Internship at Oasis Infobyte: A Learning Journey](https://dev.to/devvsakib/web-development-internship-at-oasis-infobyte-a-learning-journey-11dp)
+- [Dev.to/JS] [List of IT staffing and augmentation companies that specialize in hiring React developers in 2023](https://dev.to/monu181/list-of-it-staffing-and-augmentation-companies-that-specialize-in-hiring-react-developers-in-2023-o05)
 - [Dev.to/JS] [Running Go code inside a NodeJS app with WASM &lpar;Part 1/2, 2023&rpar;](https://dev.to/pfernandom/running-go-code-inside-a-nodejs-app-with-wasm-part-12-2023-1492)
 - [Lifehacker] [What Bad Money Habits Did You Have to Unlearn From Your Parents?](https://lifehacker.com/what-bad-money-habits-did-you-have-to-unlearn-from-your-1850107911)
 - [Dev.to/JS] [JavaScript: How to Use the Chuck Norris API for Beginners](https://dev.to/michaellarocca/javascript-how-to-use-the-chuck-norris-api-for-beginners-2mjj)
@@ -39,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 Fun Home Improvement Projects You Can Do With Your Kids](https://lifehacker.com/7-fun-home-improvement-projects-you-can-do-with-your-ki-1850105663)
 - [Lifehacker] [15 Video Games to Play Mindlessly While You Binge a Podcast](https://lifehacker.com/15-video-games-to-play-mindlessly-while-you-binge-a-pod-1850101449)
 - [Dev.to/JS] [Testing a React Custom Hook](https://dev.to/manuartero/testing-a-custom-hook-like-a-pro-1b19)
-- [Dev.to/JS] [Small trick to understand the `this` keyword](https://dev.to/nicozerpa/small-trick-to-understand-the-this-keyword-184p)
 - [Lifehacker] [The 7 Deadly Sins of Quitting Your Job](https://lifehacker.com/the-7-deadly-sins-of-quitting-your-job-1850101585)
-- [Dev.to/JS] [Vue + threeJs, importando modelos](https://dev.to/jaimebboyjt/vue-threejs-importando-modelos-48ko)
-- [Dev.to/JS] [SvelteKit + Electron: Create your desktop web app](https://dev.to/ptkdev/sveltekit-electron-create-your-desktop-web-app-4nbg)
 - [Lifehacker] [Don’t Let These February Class-Action Settlement Deadlines Pass You By](https://lifehacker.com/don-t-let-these-february-class-action-settlement-deadli-1850101398)
 - [Lifehacker] [The Easiest Ways to Be a Better Parent to Your Teenager](https://lifehacker.com/the-easiest-way-to-be-a-better-parent-to-your-teenager-1850100478)
 - [Lifehacker] [How to Cope With Layoff Anxiety](https://lifehacker.com/how-to-cope-with-layoff-anxiety-1850097349)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Impress Your Valentine With Spaghetti al Limone](https://lifehacker.com/impress-your-valentine-with-spaghetti-al-limone-1850100245)
 - [Lifehacker] [When and How to Take a Weed &#39;Tolerance Break&#39;](https://lifehacker.com/when-and-how-to-take-a-weed-tolerance-break-1850100393)
 - [Lifehacker] [Make This Simple Three-Ingredient Spinach and Artichoke Dip](https://lifehacker.com/make-this-simple-three-ingredient-spinach-and-artichoke-1850100116)
-- [Lifehacker] [Are You Exercising for Your Mental Health, or Just to Escape Your Problems?](https://lifehacker.com/are-you-exercising-for-your-mental-health-or-just-to-e-1850099907)
-- [Lifehacker] [Get Free Wendy&#39;s Jr. Bacon Cheeseburgers Until Sunday](https://lifehacker.com/get-free-wendys-jr-bacon-cheeseburgers-until-sunday-1850099608)
-- [Lifehacker] [10 Hidden Features in iPhone’s Reminders App Worth Knowing About](https://lifehacker.com/10-hidden-features-in-iphone-s-reminders-app-worth-know-1850097789)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Are You Exercising for Your Mental Health, or Just to Escape Your Problems?](https://lifehacker.com/are-you-exercising-for-your-mental-health-or-just-to-e-1850099907)<!-- TECH-POSTS:END -->
 
 ---
 
