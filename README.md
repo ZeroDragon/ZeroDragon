@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Rendering Patterns](https://dev.to/matiasfha/rendering-patterns-3b89)
+- [Dev.to/JS] [How to add an element to a map - JavaScript](https://dev.to/moibra/how-to-add-an-element-to-a-map-javascript-1hbl)
+- [Dev.to/JS] [Build Real-Time Application Development with Node.js](https://dev.to/omdevsinhgohil/build-real-time-application-development-with-nodejs-oca)
+- [Dev.to/JS] [How to Make a Random Password Generator in JavaScript](https://dev.to/onlineittutstutorials/how-to-make-a-random-password-generator-in-javascript-2e85)
+- [Dev.to/JS] [JavaScript Runtime Explained: All you need to know about client-side JS code execution](https://dev.to/ppiippaa/javascript-runtime-explained-all-you-need-to-know-about-client-side-js-code-execution-5g8e)
 - [Dev.to/JS] [Basic infinite scroll with react-use hooks](https://dev.to/andrewzach/basic-infinite-scroll-with-react-use-hooks-447l)
 - [Dev.to/JS] [How to Fix QuickBooks error C = 47?](https://dev.to/anisawilliam70/how-to-fix-quickbooks-error-c-47-28eb)
 - [Dev.to/JS] [A Short Introduction to React](https://dev.to/sammaji15/a-short-introduction-to-react-5egb)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unleashing the full power of Middleware with Enterspeed ⚡](https://dev.to/enterspeed/unleashing-the-full-power-of-middleware-with-enterspeed-h20)
 - [Dev.to/JS] [Comprehensive list of 20 companies where you can hire dedicated ReactJS developers in 2023](https://dev.to/monu181/comprehensive-list-of-20-companies-where-you-can-hire-dedicated-reactjs-developers-in-2023-5a0g)
 - [Dev.to/JS] [Programirleme Nireden Başlamaly?](https://dev.to/tmprogrammer/programirleme-nireden-baslamaly-4h1n)
-- [Dev.to/JS] [Mastering JavaScript: Understanding TypeError vs ReferenceError and == vs ===](https://dev.to/shmbajaj/mastering-javascript-understanding-typeerror-vs-referenceerror-and-vs--5h0l)
-- [Dev.to/JS] [Tại sao phát triển các loại cây công trình ngày càng được quan tâm](https://dev.to/caygiongdtc/tai-sao-phat-trien-cac-loai-cay-cong-trinh-ngay-cang-duoc-quan-tam-4cib)
-- [Dev.to/JS] [Introducing Blite, the Lightweight Node.js Backend Server](https://dev.to/firatkiral/introducing-blite-the-lightweight-nodejs-backend-server-57fe)
-- [Dev.to/JS] [How to create Sidebar navigation menu in ReactJS with react router and framer-motion](https://dev.to/abhay78920/how-to-create-sidebar-navigation-menu-in-reactjs-with-react-router-and-framer-motion-2og7)
-- [Dev.to/JS] [Vue, Amsterdam, Rock &amp; Roll.](https://dev.to/sosog/vue-amsterdam-rock-roll-3plc)
 - [Lifehacker] [How to Cope With Layoff Anxiety](https://lifehacker.com/how-to-cope-with-layoff-anxiety-1850097349)
 - [Lifehacker] [Don&#39;t Fall for Online Retailers&#39; Sneaky Tricks](https://lifehacker.com/dont-fall-for-online-retailers-sneaky-tricks-1850097353)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
