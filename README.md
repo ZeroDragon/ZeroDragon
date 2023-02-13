@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Must-Know JavaScript Array Methods](https://dev.to/bajcmartinez/must-know-javascript-array-methods-1haa)
+- [Dev.to/JS] [Arrow Functions and State in React](https://dev.to/livelong_ponder/arrow-functions-and-state-in-react-2ama)
+- [Dev.to/JS] [Episode 23/06: Q&amp;A with the Angular Team](https://dev.to/ng_news/episode-2306-qa-with-the-angular-team-gl)
+- [Lifehacker] [Please Clean Your Spice Jars](https://lifehacker.com/why-you-need-to-clean-your-spice-jars-1850108799)
+- [Dev.to/JS] [How to effectively perform CRUD operation on an ExpressJS app using PostMan](https://dev.to/efkumah/how-to-effectively-perform-crud-operation-on-an-expressjs-app-using-postman-52c9)
+- [Dev.to/JS] [Quick sort](https://dev.to/986913/quick-sort-2022)
+- [Lifehacker] [Why Your Free Credit Score Doesn’t Always Add Up](https://lifehacker.com/why-your-free-credit-score-doesn-t-always-add-up-1850107515)
 - [Dev.to/JS] [Dependency Injection without decorators in TypeScript](https://dev.to/afl_ext/dependency-injection-without-decorators-in-typescript-5gd5)
 - [Lifehacker] [8 Surprising Household Uses for Razor Blades](https://lifehacker.com/8-surprising-household-uses-for-razor-blades-1850108754)
 - [Lifehacker] [There&#39;s a Secret Way to Restart Your iPhone](https://lifehacker.com/theres-a-secret-way-to-restart-your-iphone-1850107814)
@@ -34,14 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Bad Money Habits Did You Have to Unlearn From Your Parents?](https://lifehacker.com/what-bad-money-habits-did-you-have-to-unlearn-from-your-1850107911)
 - [Dev.to/JS] [JavaScript: How to Use the Chuck Norris API for Beginners](https://dev.to/michaellarocca/javascript-how-to-use-the-chuck-norris-api-for-beginners-2mjj)
 - [Dev.to/JS] [Build a responsive E-commerce website from scratch](https://dev.to/mjshofy/build-a-responsive-e-commerce-website-from-scratch-2639)
-- [Dev.to/JS] [Still using Express.js ? THIS will BLOW your mind](https://dev.to/pratik86/still-using-expressjs-this-will-blow-your-mind-39i7)
 - [Lifehacker] [This Air-Fried French Toast Isn&#39;t What You Think](https://lifehacker.com/this-air-fried-french-toast-isnt-what-you-think-1850107804)
-- [Dev.to/JS] [Introduction to Typescript](https://dev.to/shanshaji/introduction-to-typescript-4256)
 - [Lifehacker] [22 Movies Almost Impossible to Watch on DVD or Streaming in 2023 &lpar;and How to Maybe Watch Them Anyway&rpar;](https://lifehacker.com/22-movies-almost-impossible-to-watch-on-dvd-or-streamin-1850090606)
-- [Dev.to/JS] [JavaScript Tutorial Series: Arrays](https://dev.to/fullstackjo/javascript-tutorial-series-arrays-4d1b)
 - [Lifehacker] [Your Mac&#39;s Finder Has a Hidden Advanced Search Mode](https://lifehacker.com/your-macs-finder-has-a-hidden-advanced-search-mode-1850106810)
-- [Dev.to/JS] [How == is different from === in JavaScript?](https://dev.to/sobitp59/how-is-different-from-in-javascript-51cn)
-- [Dev.to/JS] [My Portfolio](https://dev.to/sahilkalkal/my-portfolio-5bk0)
 - [Crazy Programmer] [How to Prepare for Tech Interviews? Essential Steps for Success in 2023](https://www.thecrazyprogrammer.com/2023/02/how-to-prepare-for-tech-interviews.html)
 - [Lifehacker] [7 Fun Home Improvement Projects You Can Do With Your Kids](https://lifehacker.com/7-fun-home-improvement-projects-you-can-do-with-your-ki-1850105663)
 - [Lifehacker] [15 Video Games to Play Mindlessly While You Binge a Podcast](https://lifehacker.com/15-video-games-to-play-mindlessly-while-you-binge-a-pod-1850101449)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Pre-Order ‘The Legend of Zelda: Tears of the Kingdom’ for $20 Off](https://lifehacker.com/you-can-pre-order-the-legend-of-zelda-tears-of-the-ki-1850100462)
 - [Lifehacker] [How to Avoid the Nasty Norovirus Stomach Bug](https://lifehacker.com/how-to-avoid-the-nasty-norovirus-stomach-bug-1850100701)
 - [Lifehacker] [19 Food and Beverage Brands I’m Fiercely Loyal To](https://lifehacker.com/19-food-and-beverage-brands-i-m-fiercely-loyal-to-1850095917)
-- [Lifehacker] [Impress Your Valentine With Spaghetti al Limone](https://lifehacker.com/impress-your-valentine-with-spaghetti-al-limone-1850100245)
-- [Lifehacker] [When and How to Take a Weed &#39;Tolerance Break&#39;](https://lifehacker.com/when-and-how-to-take-a-weed-tolerance-break-1850100393)
-- [Lifehacker] [Make This Simple Three-Ingredient Spinach and Artichoke Dip](https://lifehacker.com/make-this-simple-three-ingredient-spinach-and-artichoke-1850100116)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Impress Your Valentine With Spaghetti al Limone](https://lifehacker.com/impress-your-valentine-with-spaghetti-al-limone-1850100245)<!-- TECH-POSTS:END -->
 
 ---
 
