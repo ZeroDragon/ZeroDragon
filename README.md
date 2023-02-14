@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [URL shortener - efficient in Node.js](https://dev.to/kacperturon/url-shortener-efficient-in-nodejs-3oo9)
+- [Lifehacker] [This Is How Much Tuna You Can Safely Eat](https://lifehacker.com/this-is-how-much-tuna-you-can-safely-eat-1850112388)
+- [Dev.to/JS] [Why are the API calls made in useEffet&lpar;&rpar;?](https://dev.to/musayazlik/why-are-the-api-calls-made-in-useeffet-1j8i)
+- [Dev.to/JS] [New in Town](https://dev.to/hulinglindsay/new-in-town-2nb)
+- [Lifehacker] [Why Stupidity Is More Dangerous Than Evil](https://lifehacker.com/why-stupidity-is-more-dangerous-than-evil-1850111074)
+- [Dev.to/JS] [Make a URL shortener in Node.js!](https://dev.to/kacperturon/url-shortener-efficient-in-nodejs-3oo9)
 - [Dev.to/JS] [7 AI Free Website Tools For Everyone and Anyone](https://dev.to/varshithvhegde/7-ai-free-website-tools-for-everyone-and-anyone-54nb)
 - [Lifehacker] [The Pros and Cons of Having a Work Spouse](https://lifehacker.com/the-pros-and-cons-of-having-a-work-spouse-1850109997)
 - [Lifehacker] [Don’t Log In to Websites With ‘Sites’ in the URL](https://lifehacker.com/don-t-log-in-to-websites-with-sites-in-the-url-1850110238)
@@ -36,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Create A Movie App Using API and Plain JavaScript!](https://dev.to/codewithsadee/how-to-create-a-movie-app-using-api-and-plain-javascript-8oe)
 - [Dev.to/JS] [JavaScript Object Destructuring](https://dev.to/fredabod/javascript-object-destructuring-2lo7)
 - [Dev.to/JS] [Python OOP: Harnessing the Power of Classes and Objects](https://dev.to/ml_82/python-oop-harnessing-the-power-of-classes-and-objects-lce)
-- [Dev.to/JS] [JS Promises ve Async/Await nedir ?](https://dev.to/alicangunduz/js-promises-ve-asyncawait-nedir--220n)
-- [Dev.to/JS] [12 Tips for Optimal Ecommerce SEO](https://dev.to/medusajs/12-tips-for-optimal-ecommerce-seo-5a0l)
 - [Lifehacker] [Here Are the Signs You&#39;re in a &#39;Situationship&#39; Instead of a Relationship](https://lifehacker.com/here-are-the-signs-youre-in-a-situationship-instead-of-1850109628)
 - [Lifehacker] [12 Things You Should Be Disinfecting &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/12-things-you-should-be-disinfecting-but-arent-1850110107)
 - [Lifehacker] [Calorie Restriction Is Not a Longevity Hack](https://lifehacker.com/calorie-restriction-is-not-a-longevity-hack-1850110037)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Quitting Your Job](https://lifehacker.com/the-7-deadly-sins-of-quitting-your-job-1850101585)
 - [Lifehacker] [Don’t Let These February Class-Action Settlement Deadlines Pass You By](https://lifehacker.com/don-t-let-these-february-class-action-settlement-deadli-1850101398)
 - [Lifehacker] [The Easiest Ways to Be a Better Parent to Your Teenager](https://lifehacker.com/the-easiest-way-to-be-a-better-parent-to-your-teenager-1850100478)
-- [Lifehacker] [How to Cope With Layoff Anxiety](https://lifehacker.com/how-to-cope-with-layoff-anxiety-1850097349)
-- [Lifehacker] [Don&#39;t Fall for Online Retailers&#39; Sneaky Tricks](https://lifehacker.com/dont-fall-for-online-retailers-sneaky-tricks-1850097353)
-- [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Cope With Layoff Anxiety](https://lifehacker.com/how-to-cope-with-layoff-anxiety-1850097349)<!-- TECH-POSTS:END -->
 
 ---
 
