@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleash the Power of React.js: 10 Must-Have NPM Libraries with Code Examples to Transform Your Development Game!](https://dev.to/prateekbka/unleash-the-power-of-reactjs-10-must-have-npm-libraries-with-code-examples-to-transform-your-development-game-4c5f)
+- [Lifehacker] [Feast on Free Popeye’s Spicy Chicken Sandwiches All Week Long](https://lifehacker.com/feast-on-free-popeye-s-spicy-chicken-sandwiches-all-wee-1850113134)
+- [Dev.to/JS] [Please support the author of core-js](https://dev.to/h_sifat/please-support-the-author-of-core-js-3lij)
+- [Dev.to/JS] [Build Your Own Carousel Component with React Snap Carousel](https://dev.to/richardscarrott/build-your-own-carousel-component-with-react-snap-carousel-1e11)
+- [Dev.to/JS] [isv platform with low code](https://dev.to/laradissouza99/isv-platform-with-low-code-48bo)
+- [Lifehacker] [You Should Update Your Apple Devices Right Away](https://lifehacker.com/you-should-update-your-apple-devices-right-away-1850112825)
 - [Dev.to/JS] [Spring Boot: The Best Backend Framework for Web Development in 2023](https://dev.to/vinsa/spring-boot-the-best-backend-framework-for-web-development-in-2023-1bn9)
 - [Dev.to/JS] [what is callback function in javascript](https://dev.to/biplavmz/what-is-callback-function-in-javascript-1hpp)
 - [Dev.to/JS] [7 Really Helpful GitHub Repositories for React Developers🚀🎯](https://dev.to/ishratumar/7-really-helpful-github-repositories-for-react-developers-46o8)
@@ -35,12 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why are the API calls made in useEffet&lpar;&rpar;?](https://dev.to/musayazlik/why-are-the-api-calls-made-in-useeffet-1j8i)
 - [Dev.to/JS] [New in Town](https://dev.to/hulinglindsay/new-in-town-2nb)
 - [Lifehacker] [Why Stupidity Is More Dangerous Than Evil](https://lifehacker.com/why-stupidity-is-more-dangerous-than-evil-1850111074)
-- [Dev.to/JS] [Make a URL shortener in Node.js!](https://dev.to/kacperturon/url-shortener-efficient-in-nodejs-3oo9)
-- [Dev.to/JS] [7 AI Free Website Tools For Everyone and Anyone](https://dev.to/varshithvhegde/7-ai-free-website-tools-for-everyone-and-anyone-54nb)
 - [Lifehacker] [The Pros and Cons of Having a Work Spouse](https://lifehacker.com/the-pros-and-cons-of-having-a-work-spouse-1850109997)
 - [Lifehacker] [Don’t Log In to Websites With ‘Sites’ in the URL](https://lifehacker.com/don-t-log-in-to-websites-with-sites-in-the-url-1850110238)
-- [Dev.to/JS] [JavaScript Hearts: Input a user Message](https://dev.to/jarvisscript/javascript-hearts-input-a-user-message-5cm7)
-- [Dev.to/JS] [UI Dev Newsletter #91](https://dev.to/starbist/ui-dev-newsletter-91-53e7)
 - [Lifehacker] [Get Your Chocolate Fix With This Greek Yogurt &#39;Pudding&#39;](https://lifehacker.com/get-your-chocolate-fix-with-this-greek-yogurt-pudding-1850110127)
 - [Lifehacker] [Here Are the Signs You&#39;re in a &#39;Situationship&#39; Instead of a Relationship](https://lifehacker.com/here-are-the-signs-youre-in-a-situationship-instead-of-1850109628)
 - [Lifehacker] [12 Things You Should Be Disinfecting &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/12-things-you-should-be-disinfecting-but-arent-1850110107)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Mac&#39;s Finder Has a Hidden Advanced Search Mode](https://lifehacker.com/your-macs-finder-has-a-hidden-advanced-search-mode-1850106810)
 - [Crazy Programmer] [How to Prepare for Tech Interviews? Essential Steps for Success in 2023](https://www.thecrazyprogrammer.com/2023/02/how-to-prepare-for-tech-interviews.html)
 - [Lifehacker] [7 Fun Home Improvement Projects You Can Do With Your Kids](https://lifehacker.com/7-fun-home-improvement-projects-you-can-do-with-your-ki-1850105663)
-- [Lifehacker] [15 Video Games to Play Mindlessly While You Binge a Podcast](https://lifehacker.com/15-video-games-to-play-mindlessly-while-you-binge-a-pod-1850101449)
-- [Lifehacker] [The 7 Deadly Sins of Quitting Your Job](https://lifehacker.com/the-7-deadly-sins-of-quitting-your-job-1850101585)
-- [Lifehacker] [Don’t Let These February Class-Action Settlement Deadlines Pass You By](https://lifehacker.com/don-t-let-these-february-class-action-settlement-deadli-1850101398)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 Video Games to Play Mindlessly While You Binge a Podcast](https://lifehacker.com/15-video-games-to-play-mindlessly-while-you-binge-a-pod-1850101449)<!-- TECH-POSTS:END -->
 
 ---
 
