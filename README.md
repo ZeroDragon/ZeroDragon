@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How lengthy does it take to analyze C++ for beginners?](https://dev.to/thomas23459/how-lengthy-does-it-take-to-analyze-c-for-beginners-4969)
+- [Dev.to/JS] [#refineweek: Pilot &amp; refine architecture](https://dev.to/refine/refineweek-pilot-refine-architecture-dg3)
+- [Dev.to/JS] [How to set default route in Vue.js with Vue Router!](https://dev.to/caio2k/how-to-set-default-route-in-vuejs-with-vue-router-1cd1)
+- [Lifehacker] [How to Try Microsoft&#39;s New ChatGPT-Powered AI Search](https://lifehacker.com/how-to-try-microsofts-new-chatgpt-powered-ai-search-1850113463)
+- [Dev.to/JS] [Compound components pattern for creating reusable Rating component](https://dev.to/ngoy_luckson/compound-components-pattern-for-creating-reusable-rating-component-1cne)
+- [Dev.to/JS] [JavaScript Tutorial Series: String methods](https://dev.to/fullstackjo/javascript-tutorial-series-string-methods-2o3f)
+- [Lifehacker] [Stir Fry Your Leftover Pasta for a Crispy Treat](https://lifehacker.com/stir-fry-your-leftover-pasta-for-a-crispy-treat-1850113486)
 - [Dev.to/JS] [Unleash the Power of React.js: 10 Must-Have NPM Libraries with Code Examples to Transform Your Development Game!](https://dev.to/prateekbka/unleash-the-power-of-reactjs-10-must-have-npm-libraries-with-code-examples-to-transform-your-development-game-4c5f)
 - [Lifehacker] [Feast on Free Popeye’s Spicy Chicken Sandwiches All Week Long](https://lifehacker.com/feast-on-free-popeye-s-spicy-chicken-sandwiches-all-wee-1850113134)
 - [Dev.to/JS] [Please support the author of core-js](https://dev.to/h_sifat/please-support-the-author-of-core-js-3lij)
@@ -33,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [what is callback function in javascript](https://dev.to/biplavmz/what-is-callback-function-in-javascript-1hpp)
 - [Dev.to/JS] [7 Really Helpful GitHub Repositories for React Developers🚀🎯](https://dev.to/ishratumar/7-really-helpful-github-repositories-for-react-developers-46o8)
 - [Lifehacker] [Here’s When You Need to Form a Tenant Association](https://lifehacker.com/here-s-when-you-need-to-form-a-tenant-association-1850112811)
-- [Dev.to/JS] [How To Add A Serverless Authentication Microservice To Your HTML, CSS &amp; Javascript App](https://dev.to/superflowsdev/how-to-add-a-serverless-authentication-microservice-to-your-html-css-javascript-app-1egm)
-- [Dev.to/JS] [Benarkah SSO Memberikan Kemudahan?](https://dev.to/athayaputriii/benarkah-sso-memberikan-kemudahan-2oml)
-- [Dev.to/JS] [🚀 Angular ng-templates: Crafting Reusable templates with Ease](https://dev.to/shrihari/angular-ng-templates-crafting-reusable-templates-with-ease-2dap)
 - [Lifehacker] [The Easiest Way to Add Hyperlinks in Notes and Mail on Your iPhone](https://lifehacker.com/the-easiest-way-to-add-hyperlinks-in-notes-and-mail-on-1850111673)
 - [Lifehacker] [This Is How Much Tuna You Can Safely Eat](https://lifehacker.com/this-is-how-much-tuna-you-can-safely-eat-1850112388)
-- [Dev.to/JS] [Why are the API calls made in useEffet&lpar;&rpar;?](https://dev.to/musayazlik/why-are-the-api-calls-made-in-useeffet-1j8i)
-- [Dev.to/JS] [New in Town](https://dev.to/hulinglindsay/new-in-town-2nb)
 - [Lifehacker] [Why Stupidity Is More Dangerous Than Evil](https://lifehacker.com/why-stupidity-is-more-dangerous-than-evil-1850111074)
 - [Lifehacker] [The Pros and Cons of Having a Work Spouse](https://lifehacker.com/the-pros-and-cons-of-having-a-work-spouse-1850109997)
 - [Lifehacker] [Don’t Log In to Websites With ‘Sites’ in the URL](https://lifehacker.com/don-t-log-in-to-websites-with-sites-in-the-url-1850110238)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Air-Fried French Toast Isn&#39;t What You Think](https://lifehacker.com/this-air-fried-french-toast-isnt-what-you-think-1850107804)
 - [Lifehacker] [22 Movies Almost Impossible to Watch on DVD or Streaming in 2023 &lpar;and How to Maybe Watch Them Anyway&rpar;](https://lifehacker.com/22-movies-almost-impossible-to-watch-on-dvd-or-streamin-1850090606)
 - [Lifehacker] [Your Mac&#39;s Finder Has a Hidden Advanced Search Mode](https://lifehacker.com/your-macs-finder-has-a-hidden-advanced-search-mode-1850106810)
-- [Crazy Programmer] [How to Prepare for Tech Interviews? Essential Steps for Success in 2023](https://www.thecrazyprogrammer.com/2023/02/how-to-prepare-for-tech-interviews.html)
-- [Lifehacker] [7 Fun Home Improvement Projects You Can Do With Your Kids](https://lifehacker.com/7-fun-home-improvement-projects-you-can-do-with-your-ki-1850105663)
-- [Lifehacker] [15 Video Games to Play Mindlessly While You Binge a Podcast](https://lifehacker.com/15-video-games-to-play-mindlessly-while-you-binge-a-pod-1850101449)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [How to Prepare for Tech Interviews? Essential Steps for Success in 2023](https://www.thecrazyprogrammer.com/2023/02/how-to-prepare-for-tech-interviews.html)<!-- TECH-POSTS:END -->
 
 ---
 
