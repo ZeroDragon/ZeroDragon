@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Cangurus saltitantes](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-cangurus-saltitantes-5gj4)
+- [Dev.to/JS] [What are 20 comprehensive business ideas in the healthcare domain that utilize ChatGPT technology?](https://dev.to/monu181/what-are-20-comprehensive-business-ideas-in-the-healthcare-domain-that-utilize-chatgpt-technology-2ik8)
+- [Dev.to/JS] [HOW TO GET A USERS LOCATION USING JAVASCRIPT](https://dev.to/scofieldidehen/how-to-get-a-users-location-using-javascript-2k8d)
+- [Dev.to/JS] [Let vs Var vs Cosnt](https://dev.to/aryandayal/let-vs-var-vs-cosnt-54mm)
 - [Dev.to/JS] [Object.assign in TypeScript: An Introduction to Converting Classes](https://dev.to/junedang/objectassign-in-typescript-an-introduction-to-converting-classes-180k)
 - [Dev.to/JS] [Building a clone of dev.to&#39;s editor with SvelteKit and TypeScript](https://dev.to/sirneij/building-a-clone-of-devtos-editor-with-sveltekit-and-typescript-ma6)
 - [Dev.to/JS] [Difference between == and ===](https://dev.to/sayantani96/difference-between-and--56b6)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [mistry jignesh](https://dev.to/mistryjignesh5/mistry-jignesh-14ob)
 - [Dev.to/JS] [Javascript promise chaining](https://dev.to/mrh0200/javascript-promise-chaining-aml)
 - [Dev.to/JS] [Using JSON Schema for JSON Validation](https://dev.to/syncfusion/using-json-schema-for-json-validation-3hbj)
-- [Dev.to/JS] [HANDLE MULTIPLE ENVIRONMENTS IN REACT JS](https://dev.to/prabirbiswas/handle-multiple-environments-in-react-js-3agp)
-- [Dev.to/JS] [Made with love](https://dev.to/alohe/made-with-by-ipd)
-- [Dev.to/JS] [Our Journey In The Open Source World - object-loudifier](https://dev.to/cadienvan/our-journey-in-the-open-source-world-object-loudifier-504f)
-- [Dev.to/JS] [How To Integrate Payment Gateways in HTML And JS Projects? A Quick Overview](https://dev.to/quokkalabs/how-to-integrate-payment-gateways-in-html-and-js-projects-a-quick-overview-19p6)
 - [Lifehacker] [12 Things You Should Be Disinfecting &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/12-things-you-should-be-disinfecting-but-arent-1850110107)
 - [Lifehacker] [Calorie Restriction Is Not a Longevity Hack](https://lifehacker.com/calorie-restriction-is-not-a-longevity-hack-1850110037)
 - [Lifehacker] [How to Stop Yelling at Your Kid About Using Their Phone](https://lifehacker.com/how-to-stop-yelling-at-your-kid-about-using-their-phone-1850107302)
