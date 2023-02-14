@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to implement authentication with nestjs using guards in 3 easy steps](https://dev.to/bryangranado/how-to-implement-authentication-with-nestjs-using-guards-in-3-easy-steps-24je)
+- [Dev.to/JS] [Glassmorphic Credit Card Using HTML, CSS And JavaScript – Programming Hub](https://dev.to/chandramaniarya/glassmorphic-credit-card-using-html-css-and-javascript-programming-hub-2978)
+- [Dev.to/JS] [PureScript in Production](https://dev.to/zelenya/purescript-in-production-oc8)
 - [Dev.to/JS] [JavaScript/WebGL 3D Visualization of Iron and Steel Plant | Web HMI/SCADA](https://dev.to/hightopo/javascriptwebgl-3d-visualization-of-iron-and-steel-plant-web-hmiscada-2fhp)
 - [Dev.to/JS] [Simple Encode And Decode With Javascript](https://dev.to/catur/simple-encode-and-decode-with-javascript-od6)
 - [Dev.to/JS] [Forever Functional: The hidden state of Promises](https://dev.to/asayerio_techblog/forever-functional-the-hidden-state-of-promises-1f8)
@@ -37,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Increments are Interesting](https://dev.to/jrcharney/increments-are-interesting-2oca)
 - [Dev.to/JS] [How to use PocketBase Authentication with React Context](https://dev.to/franciscomendes10866/how-to-use-pocketbase-authentication-with-react-context-11be)
 - [Lifehacker] [Keep Your Natural Peanut Butter From Separating, and How to Remix It When It Does](https://lifehacker.com/keep-your-natural-peanut-butter-from-separating-and-ho-1850109148)
-- [Dev.to/JS] [A step-by-step guide on how to set up TypeScript in your project](https://dev.to/shanshaji/a-step-by-step-guide-on-how-to-set-up-typescript-in-your-project-nij)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Analisando as notas!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-analisando-as-notas-1heg)
-- [Dev.to/JS] [Must-Know JavaScript Array Methods](https://dev.to/bajcmartinez/must-know-javascript-array-methods-1haa)
 - [Lifehacker] [Don&#39;t Feed Your Dog This Recalled Dry Food](https://lifehacker.com/dont-feed-your-dog-this-recalled-dry-food-1850109025)
 - [Lifehacker] [Please Clean Your Spice Jars](https://lifehacker.com/why-you-need-to-clean-your-spice-jars-1850108799)
 - [Lifehacker] [Why Your Free Credit Score Doesn’t Always Add Up](https://lifehacker.com/why-your-free-credit-score-doesn-t-always-add-up-1850107515)
