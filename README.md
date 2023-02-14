@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [TikTokers Are Hot-Wiring These Hyundai and Kia Cars](https://lifehacker.com/tiktokers-are-hot-wiring-these-hyundai-and-kia-cars-1850113943)
+- [Dev.to/JS] [Error tracking with Sentry](https://dev.to/zsevic/error-tracking-with-sentry-2ma5)
+- [Dev.to/JS] [Rome](https://dev.to/celest67/rome-4no5)
+- [Lifehacker] [15 Unexpected Household Uses for Baby Powder](https://lifehacker.com/15-unexpected-household-uses-for-baby-powder-1850113735)
 - [Dev.to/JS] [How lengthy does it take to analyze C++ for beginners?](https://dev.to/thomas23459/how-lengthy-does-it-take-to-analyze-c-for-beginners-4969)
 - [Dev.to/JS] [#refineweek: Pilot &amp; refine architecture](https://dev.to/refine/refineweek-pilot-refine-architecture-dg3)
 - [Dev.to/JS] [How to set default route in Vue.js with Vue Router!](https://dev.to/caio2k/how-to-set-default-route-in-vuejs-with-vue-router-1cd1)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [isv platform with low code](https://dev.to/laradissouza99/isv-platform-with-low-code-48bo)
 - [Lifehacker] [You Should Update Your Apple Devices Right Away](https://lifehacker.com/you-should-update-your-apple-devices-right-away-1850112825)
 - [Dev.to/JS] [Spring Boot: The Best Backend Framework for Web Development in 2023](https://dev.to/vinsa/spring-boot-the-best-backend-framework-for-web-development-in-2023-1bn9)
-- [Dev.to/JS] [what is callback function in javascript](https://dev.to/biplavmz/what-is-callback-function-in-javascript-1hpp)
-- [Dev.to/JS] [7 Really Helpful GitHub Repositories for React Developers🚀🎯](https://dev.to/ishratumar/7-really-helpful-github-repositories-for-react-developers-46o8)
 - [Lifehacker] [Here’s When You Need to Form a Tenant Association](https://lifehacker.com/here-s-when-you-need-to-form-a-tenant-association-1850112811)
 - [Lifehacker] [The Easiest Way to Add Hyperlinks in Notes and Mail on Your iPhone](https://lifehacker.com/the-easiest-way-to-add-hyperlinks-in-notes-and-mail-on-1850111673)
 - [Lifehacker] [This Is How Much Tuna You Can Safely Eat](https://lifehacker.com/this-is-how-much-tuna-you-can-safely-eat-1850112388)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Free Wendy&#39;s French Fries All Week](https://lifehacker.com/how-to-get-free-wendys-french-fries-all-week-1850107971)
 - [Lifehacker] [What Bad Money Habits Did You Have to Unlearn From Your Parents?](https://lifehacker.com/what-bad-money-habits-did-you-have-to-unlearn-from-your-1850107911)
 - [Lifehacker] [This Air-Fried French Toast Isn&#39;t What You Think](https://lifehacker.com/this-air-fried-french-toast-isnt-what-you-think-1850107804)
-- [Lifehacker] [22 Movies Almost Impossible to Watch on DVD or Streaming in 2023 &lpar;and How to Maybe Watch Them Anyway&rpar;](https://lifehacker.com/22-movies-almost-impossible-to-watch-on-dvd-or-streamin-1850090606)
-- [Lifehacker] [Your Mac&#39;s Finder Has a Hidden Advanced Search Mode](https://lifehacker.com/your-macs-finder-has-a-hidden-advanced-search-mode-1850106810)
-- [Crazy Programmer] [How to Prepare for Tech Interviews? Essential Steps for Success in 2023](https://www.thecrazyprogrammer.com/2023/02/how-to-prepare-for-tech-interviews.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [22 Movies Almost Impossible to Watch on DVD or Streaming in 2023 &lpar;and How to Maybe Watch Them Anyway&rpar;](https://lifehacker.com/22-movies-almost-impossible-to-watch-on-dvd-or-streamin-1850090606)<!-- TECH-POSTS:END -->
 
 ---
 
