@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Forever Functional: The hidden state of Promises](https://dev.to/asayerio_techblog/forever-functional-the-hidden-state-of-promises-1f8)
+- [Dev.to/JS] [Extreme JavaScript Type Coercion](https://dev.to/kschneider0/javascript-but-you-only-have--4oba)
+- [Dev.to/JS] [How to use client and server-side web workers](https://dev.to/asayerio_techblog/how-to-use-client-and-server-side-web-workers-lnp)
+- [Dev.to/JS] [Best time to Buy and Sell Stock](https://dev.to/lausuarez02/best-time-to-buy-and-sell-stock-4231)
 - [Lifehacker] [12 Things You Should Be Disinfecting &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/12-things-you-should-be-disinfecting-but-arent-1850110107)
 - [Dev.to/JS] [A Look at Gender Demographics in the Developer Community, Part 1](https://dev.to/sachagreif/a-look-at-gender-demographics-in-the-developer-community-part-1-4d76)
 - [Lifehacker] [Calorie Restriction Is Not a Longevity Hack](https://lifehacker.com/calorie-restriction-is-not-a-longevity-hack-1850110037)
@@ -37,12 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Feed Your Dog This Recalled Dry Food](https://lifehacker.com/dont-feed-your-dog-this-recalled-dry-food-1850109025)
 - [Dev.to/JS] [Páginas para Desarrollador 🧑🏻‍💻](https://dev.to/alanmartinc/desarrollo-web-coderhouse-35bp)
 - [Dev.to/JS] [Arrow Functions and State in React](https://dev.to/livelong_ponder/arrow-functions-and-state-in-react-2ama)
-- [Dev.to/JS] [Episode 23/06: Q&amp;A with the Angular Team](https://dev.to/ng_news/episode-2306-qa-with-the-angular-team-gl)
 - [Lifehacker] [Please Clean Your Spice Jars](https://lifehacker.com/why-you-need-to-clean-your-spice-jars-1850108799)
-- [Dev.to/JS] [How to effectively perform CRUD operation on an ExpressJS app using PostMan](https://dev.to/efkumah/how-to-effectively-perform-crud-operation-on-an-expressjs-app-using-postman-52c9)
-- [Dev.to/JS] [Quick sort](https://dev.to/986913/quick-sort-2022)
 - [Lifehacker] [Why Your Free Credit Score Doesn’t Always Add Up](https://lifehacker.com/why-your-free-credit-score-doesn-t-always-add-up-1850107515)
-- [Dev.to/JS] [Dependency Injection without decorators in TypeScript](https://dev.to/afl_ext/dependency-injection-without-decorators-in-typescript-5gd5)
 - [Lifehacker] [8 Surprising Household Uses for Razor Blades](https://lifehacker.com/8-surprising-household-uses-for-razor-blades-1850108754)
 - [Lifehacker] [There&#39;s a Secret Way to Restart Your iPhone](https://lifehacker.com/theres-a-secret-way-to-restart-your-iphone-1850107814)
 - [Lifehacker] [How to Get Free Wendy&#39;s French Fries All Week](https://lifehacker.com/how-to-get-free-wendys-french-fries-all-week-1850107971)
