@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Our Journey In The Open Source World - object-loudifier](https://dev.to/cadienvan/our-journey-in-the-open-source-world-object-loudifier-504f)
+- [Dev.to/JS] [How To Integrate Payment Gateways in HTML And JS Projects? A Quick Overview](https://dev.to/quokkalabs/how-to-integrate-payment-gateways-in-html-and-js-projects-a-quick-overview-19p6)
 - [Dev.to/JS] [Legendary methods of Array in JavaScript | Part 1 : forEach, find, filter and map](https://dev.to/aquibzahidi/legendary-methods-of-array-in-javascript-part-1-foreach-find-filter-and-map-c1k)
 - [Dev.to/JS] [my crm mvp](https://dev.to/hashdot/my-crm-mvp-1hjc)
 - [Dev.to/JS] [Question: Where does Nuxt 3 fit in, in 2023?](https://dev.to/greggcbs/question-where-does-nuxt-3-fit-in-in-2023-163n)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Set Up TypeScript with Node.js](https://dev.to/musabdev/how-to-set-up-typescript-with-nodejs-5dd6)
 - [Dev.to/JS] [Discover the Magic of Coding: An Introduction to Understanding What it is](https://dev.to/codewithmohaimin/discover-the-magic-of-coding-an-introduction-to-understanding-what-it-is-nch)
 - [Dev.to/JS] [Advanced Techniques for Optimizing JavaScript Performance](https://dev.to/haszankauna/advanced-techniques-for-optimizing-javascript-performance-5a32)
-- [Dev.to/JS] [A Comprehensive Guide to Learning JSON: From the Basics to Advanced Techniques](https://dev.to/karim_rohayem/a-comprehensive-guide-to-learning-json-from-the-basics-to-advanced-techniques-ogl)
-- [Dev.to/JS] [Create a Rain Effect in HTML 5 with Javascript and CSS](https://dev.to/erins5927/create-a-rain-effect-in-html-5-with-javascript-and-css-dfm)
 - [Lifehacker] [12 Things You Should Be Disinfecting &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/12-things-you-should-be-disinfecting-but-arent-1850110107)
 - [Lifehacker] [Calorie Restriction Is Not a Longevity Hack](https://lifehacker.com/calorie-restriction-is-not-a-longevity-hack-1850110037)
 - [Lifehacker] [How to Stop Yelling at Your Kid About Using Their Phone](https://lifehacker.com/how-to-stop-yelling-at-your-kid-about-using-their-phone-1850107302)
