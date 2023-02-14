@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Set Up TypeScript with Node.js](https://dev.to/musabdev/how-to-set-up-typescript-with-nodejs-5dd6)
+- [Dev.to/JS] [Discover the Magic of Coding: An Introduction to Understanding What it is](https://dev.to/codewithmohaimin/discover-the-magic-of-coding-an-introduction-to-understanding-what-it-is-nch)
+- [Dev.to/JS] [Advanced Techniques for Optimizing JavaScript Performance](https://dev.to/haszankauna/advanced-techniques-for-optimizing-javascript-performance-5a32)
+- [Dev.to/JS] [A Comprehensive Guide to Learning JSON: From the Basics to Advanced Techniques](https://dev.to/karim_rohayem/a-comprehensive-guide-to-learning-json-from-the-basics-to-advanced-techniques-ogl)
 - [Dev.to/JS] [Create a Rain Effect in HTML 5 with Javascript and CSS](https://dev.to/erins5927/create-a-rain-effect-in-html-5-with-javascript-and-css-dfm)
 - [Dev.to/JS] [The Emperor&#39;s New Library](https://dev.to/kamiquasi/the-emperors-new-library-45i3)
 - [Dev.to/JS] [Make a Bingo with JS](https://dev.to/walternascimentobarroso/make-a-bingo-with-js-376k)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Variable](https://dev.to/khalilnazari/javascript-variable-2ec9)
 - [Dev.to/JS] [Recursion in Programming](https://dev.to/denismacharia/recursion-in-programming-4j0h)
 - [Dev.to/JS] [How to implement authentication with nestjs using guards in 3 easy steps](https://dev.to/bryangranado/how-to-implement-authentication-with-nestjs-using-guards-in-3-easy-steps-24je)
-- [Dev.to/JS] [Glassmorphic Credit Card Using HTML, CSS And JavaScript – Programming Hub](https://dev.to/chandramaniarya/glassmorphic-credit-card-using-html-css-and-javascript-programming-hub-2978)
-- [Dev.to/JS] [PureScript in Production](https://dev.to/zelenya/purescript-in-production-oc8)
-- [Dev.to/JS] [JavaScript/WebGL 3D Visualization of Iron and Steel Plant | Web HMI/SCADA](https://dev.to/hightopo/javascriptwebgl-3d-visualization-of-iron-and-steel-plant-web-hmiscada-2fhp)
-- [Dev.to/JS] [Simple Encode And Decode With Javascript](https://dev.to/catur/simple-encode-and-decode-with-javascript-od6)
 - [Lifehacker] [12 Things You Should Be Disinfecting &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/12-things-you-should-be-disinfecting-but-arent-1850110107)
 - [Lifehacker] [Calorie Restriction Is Not a Longevity Hack](https://lifehacker.com/calorie-restriction-is-not-a-longevity-hack-1850110037)
 - [Lifehacker] [How to Stop Yelling at Your Kid About Using Their Phone](https://lifehacker.com/how-to-stop-yelling-at-your-kid-about-using-their-phone-1850107302)
