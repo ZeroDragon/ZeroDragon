@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Spring Boot: The Best Backend Framework for Web Development in 2023](https://dev.to/vinsa/spring-boot-the-best-backend-framework-for-web-development-in-2023-1bn9)
+- [Dev.to/JS] [what is callback function in javascript](https://dev.to/biplavmz/what-is-callback-function-in-javascript-1hpp)
+- [Dev.to/JS] [7 Really Helpful GitHub Repositories for React Developers🚀🎯](https://dev.to/ishratumar/7-really-helpful-github-repositories-for-react-developers-46o8)
+- [Lifehacker] [Here’s When You Need to Form a Tenant Association](https://lifehacker.com/here-s-when-you-need-to-form-a-tenant-association-1850112811)
+- [Dev.to/JS] [How To Add A Serverless Authentication Microservice To Your HTML, CSS &amp; Javascript App](https://dev.to/superflowsdev/how-to-add-a-serverless-authentication-microservice-to-your-html-css-javascript-app-1egm)
+- [Dev.to/JS] [Benarkah SSO Memberikan Kemudahan?](https://dev.to/athayaputriii/benarkah-sso-memberikan-kemudahan-2oml)
+- [Dev.to/JS] [🚀 Angular ng-templates: Crafting Reusable templates with Ease](https://dev.to/shrihari/angular-ng-templates-crafting-reusable-templates-with-ease-2dap)
+- [Lifehacker] [The Easiest Way to Add Hyperlinks in Notes and Mail on Your iPhone](https://lifehacker.com/the-easiest-way-to-add-hyperlinks-in-notes-and-mail-on-1850111673)
 - [Lifehacker] [This Is How Much Tuna You Can Safely Eat](https://lifehacker.com/this-is-how-much-tuna-you-can-safely-eat-1850112388)
 - [Dev.to/JS] [Why are the API calls made in useEffet&lpar;&rpar;?](https://dev.to/musayazlik/why-are-the-api-calls-made-in-useeffet-1j8i)
 - [Dev.to/JS] [New in Town](https://dev.to/hulinglindsay/new-in-town-2nb)
@@ -33,13 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Log In to Websites With ‘Sites’ in the URL](https://lifehacker.com/don-t-log-in-to-websites-with-sites-in-the-url-1850110238)
 - [Dev.to/JS] [JavaScript Hearts: Input a user Message](https://dev.to/jarvisscript/javascript-hearts-input-a-user-message-5cm7)
 - [Dev.to/JS] [UI Dev Newsletter #91](https://dev.to/starbist/ui-dev-newsletter-91-53e7)
-- [Dev.to/JS] [How Memo changes rendering?](https://dev.to/szymonsadowski/how-memo-changes-rendering-3o5a)
-- [Dev.to/JS] [Setting up a Node.js backend](https://dev.to/chiranjib_b/setting-up-a-nodejs-backend-3o0a)
-- [Dev.to/JS] [Create modular routes with express](https://dev.to/chiranjib_b/create-modular-routes-with-express-5cp9)
 - [Lifehacker] [Get Your Chocolate Fix With This Greek Yogurt &#39;Pudding&#39;](https://lifehacker.com/get-your-chocolate-fix-with-this-greek-yogurt-pudding-1850110127)
-- [Dev.to/JS] [How To Create A Movie App Using API and Plain JavaScript!](https://dev.to/codewithsadee/how-to-create-a-movie-app-using-api-and-plain-javascript-8oe)
-- [Dev.to/JS] [JavaScript Object Destructuring](https://dev.to/fredabod/javascript-object-destructuring-2lo7)
-- [Dev.to/JS] [Python OOP: Harnessing the Power of Classes and Objects](https://dev.to/ml_82/python-oop-harnessing-the-power-of-classes-and-objects-lce)
 - [Lifehacker] [Here Are the Signs You&#39;re in a &#39;Situationship&#39; Instead of a Relationship](https://lifehacker.com/here-are-the-signs-youre-in-a-situationship-instead-of-1850109628)
 - [Lifehacker] [12 Things You Should Be Disinfecting &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/12-things-you-should-be-disinfecting-but-arent-1850110107)
 - [Lifehacker] [Calorie Restriction Is Not a Longevity Hack](https://lifehacker.com/calorie-restriction-is-not-a-longevity-hack-1850110037)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 Fun Home Improvement Projects You Can Do With Your Kids](https://lifehacker.com/7-fun-home-improvement-projects-you-can-do-with-your-ki-1850105663)
 - [Lifehacker] [15 Video Games to Play Mindlessly While You Binge a Podcast](https://lifehacker.com/15-video-games-to-play-mindlessly-while-you-binge-a-pod-1850101449)
 - [Lifehacker] [The 7 Deadly Sins of Quitting Your Job](https://lifehacker.com/the-7-deadly-sins-of-quitting-your-job-1850101585)
-- [Lifehacker] [Don’t Let These February Class-Action Settlement Deadlines Pass You By](https://lifehacker.com/don-t-let-these-february-class-action-settlement-deadli-1850101398)
-- [Lifehacker] [The Easiest Ways to Be a Better Parent to Your Teenager](https://lifehacker.com/the-easiest-way-to-be-a-better-parent-to-your-teenager-1850100478)
-- [Lifehacker] [How to Cope With Layoff Anxiety](https://lifehacker.com/how-to-cope-with-layoff-anxiety-1850097349)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Let These February Class-Action Settlement Deadlines Pass You By](https://lifehacker.com/don-t-let-these-february-class-action-settlement-deadli-1850101398)<!-- TECH-POSTS:END -->
 
 ---
 
