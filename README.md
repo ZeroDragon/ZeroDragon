@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [50 Node JS Interview Questions](https://dev.to/shreyvijayvargiya/50-node-js-interview-questions-3gjl)
+- [Dev.to/JS] [How to verify an object is empty object with Jest &lpar;extended&rpar;](https://dev.to/codever/how-to-verify-an-object-is-empty-object-with-jest-extended-6i0)
+- [Dev.to/JS] [LIBA Weight Loss - Fat Loss Results, Ingredients, Uses, Price, Scam Or Legit?](https://dev.to/libaweightinfo/liba-weight-loss-fat-loss-results-ingredients-uses-price-scam-or-legit-9e1)
 - [Dev.to/JS] [How to Set Up TypeScript with Node.js](https://dev.to/musabdev/how-to-set-up-typescript-with-nodejs-5dd6)
 - [Dev.to/JS] [Discover the Magic of Coding: An Introduction to Understanding What it is](https://dev.to/codewithmohaimin/discover-the-magic-of-coding-an-introduction-to-understanding-what-it-is-nch)
 - [Dev.to/JS] [Advanced Techniques for Optimizing JavaScript Performance](https://dev.to/haszankauna/advanced-techniques-for-optimizing-javascript-performance-5a32)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Make a Bingo with JS](https://dev.to/walternascimentobarroso/make-a-bingo-with-js-376k)
 - [Dev.to/JS] [When not to use Effect ?](https://dev.to/jppradhan/when-not-to-use-effect--3f6o)
 - [Dev.to/JS] [Use axios as better practice in ReactJS](https://dev.to/deepakjaiswal/use-axios-as-better-practice-in-reactjs-2m6b)
-- [Dev.to/JS] [JavaScript Variable](https://dev.to/khalilnazari/javascript-variable-2ec9)
-- [Dev.to/JS] [Recursion in Programming](https://dev.to/denismacharia/recursion-in-programming-4j0h)
-- [Dev.to/JS] [How to implement authentication with nestjs using guards in 3 easy steps](https://dev.to/bryangranado/how-to-implement-authentication-with-nestjs-using-guards-in-3-easy-steps-24je)
 - [Lifehacker] [12 Things You Should Be Disinfecting &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/12-things-you-should-be-disinfecting-but-arent-1850110107)
 - [Lifehacker] [Calorie Restriction Is Not a Longevity Hack](https://lifehacker.com/calorie-restriction-is-not-a-longevity-hack-1850110037)
 - [Lifehacker] [How to Stop Yelling at Your Kid About Using Their Phone](https://lifehacker.com/how-to-stop-yelling-at-your-kid-about-using-their-phone-1850107302)
