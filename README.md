@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [URL shortener - efficient in Node.js](https://dev.to/kacperturon/url-shortener-efficient-in-nodejs-3oo9)
+- [Dev.to/JS] [7 AI Free Website Tools For Everyone and Anyone](https://dev.to/varshithvhegde/7-ai-free-website-tools-for-everyone-and-anyone-54nb)
+- [Lifehacker] [The Pros and Cons of Having a Work Spouse](https://lifehacker.com/the-pros-and-cons-of-having-a-work-spouse-1850109997)
+- [Lifehacker] [Don’t Log In to Websites With ‘Sites’ in the URL](https://lifehacker.com/don-t-log-in-to-websites-with-sites-in-the-url-1850110238)
+- [Dev.to/JS] [JavaScript Hearts: Input a user Message](https://dev.to/jarvisscript/javascript-hearts-input-a-user-message-5cm7)
+- [Dev.to/JS] [UI Dev Newsletter #91](https://dev.to/starbist/ui-dev-newsletter-91-53e7)
 - [Dev.to/JS] [How Memo changes rendering?](https://dev.to/szymonsadowski/how-memo-changes-rendering-3o5a)
 - [Dev.to/JS] [Setting up a Node.js backend](https://dev.to/chiranjib_b/setting-up-a-nodejs-backend-3o0a)
 - [Dev.to/JS] [Create modular routes with express](https://dev.to/chiranjib_b/create-modular-routes-with-express-5cp9)
@@ -33,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS Promises ve Async/Await nedir ?](https://dev.to/alicangunduz/js-promises-ve-asyncawait-nedir--220n)
 - [Dev.to/JS] [12 Tips for Optimal Ecommerce SEO](https://dev.to/medusajs/12-tips-for-optimal-ecommerce-seo-5a0l)
 - [Lifehacker] [Here Are the Signs You&#39;re in a &#39;Situationship&#39; Instead of a Relationship](https://lifehacker.com/here-are-the-signs-youre-in-a-situationship-instead-of-1850109628)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Cangurus saltitantes](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-cangurus-saltitantes-5gj4)
-- [Dev.to/JS] [What are 20 comprehensive business ideas in the healthcare domain that utilize ChatGPT technology?](https://dev.to/monu181/what-are-20-comprehensive-business-ideas-in-the-healthcare-domain-that-utilize-chatgpt-technology-2ik8)
-- [Dev.to/JS] [HOW TO GET A USERS LOCATION USING JAVASCRIPT](https://dev.to/scofieldidehen/how-to-get-a-users-location-using-javascript-2k8d)
-- [Dev.to/JS] [Let vs Var vs Cosnt](https://dev.to/aryandayal/let-vs-var-vs-cosnt-54mm)
 - [Lifehacker] [12 Things You Should Be Disinfecting &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/12-things-you-should-be-disinfecting-but-arent-1850110107)
 - [Lifehacker] [Calorie Restriction Is Not a Longevity Hack](https://lifehacker.com/calorie-restriction-is-not-a-longevity-hack-1850110037)
 - [Lifehacker] [How to Stop Yelling at Your Kid About Using Their Phone](https://lifehacker.com/how-to-stop-yelling-at-your-kid-about-using-their-phone-1850107302)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Be a Better Parent to Your Teenager](https://lifehacker.com/the-easiest-way-to-be-a-better-parent-to-your-teenager-1850100478)
 - [Lifehacker] [How to Cope With Layoff Anxiety](https://lifehacker.com/how-to-cope-with-layoff-anxiety-1850097349)
 - [Lifehacker] [Don&#39;t Fall for Online Retailers&#39; Sneaky Tricks](https://lifehacker.com/dont-fall-for-online-retailers-sneaky-tricks-1850097353)
-- [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
-- [Lifehacker] [The Best Way to Remove Scuff Marks From Your Shoes](https://lifehacker.com/the-best-way-to-remove-scuff-marks-from-your-shoes-1850097364)
-- [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)<!-- TECH-POSTS:END -->
 
 ---
 
