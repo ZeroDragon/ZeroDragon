@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Maximize Your Client Upload Efficiency with the Bulk Upload](https://dev.to/mukul_/maximize-your-client-upload-efficiency-with-the-bulk-upload-45l4)
+- [Dev.to/JS] [Create a Multiple Instances Socket React Context Library: a Step-by-Step Guide](https://dev.to/mukul_/create-a-multiple-instances-socket-react-context-library-a-step-by-step-guide-3hj0)
+- [Lifehacker] [You Could Be Falling for the Dunning-Kruger Effect and Not Even Know It](https://lifehacker.com/you-could-be-falling-for-the-dunning-kruger-effect-and-1850113520)
 - [Lifehacker] [Make This Cheap Pasta Sauce With Browned Butter and Tomato Paste](https://lifehacker.com/make-this-cheap-pasta-sauce-with-browned-butter-and-tom-1850114507)
 - [Dev.to/JS] [Object Destructuring in JavaScript](https://dev.to/anthonys1760/object-destructuring-in-javascript-2gjl)
 - [Dev.to/JS] [Configure CORS in SvelteKit to make fetch requests to your API routes from a different host](https://dev.to/khromov/configure-cors-in-sveltekit-to-make-fetch-requests-to-your-api-routes-from-a-different-host-241k)
@@ -40,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stir Fry Your Leftover Pasta for a Crispy Treat](https://lifehacker.com/stir-fry-your-leftover-pasta-for-a-crispy-treat-1850113486)
 - [Dev.to/JS] [Unleash the Power of React.js: 10 Must-Have NPM Libraries with Code Examples to Transform Your Development Game!](https://dev.to/prateekbka/unleash-the-power-of-reactjs-10-must-have-npm-libraries-with-code-examples-to-transform-your-development-game-4c5f)
 - [Lifehacker] [Feast on Free Popeye’s Spicy Chicken Sandwiches All Week Long](https://lifehacker.com/feast-on-free-popeye-s-spicy-chicken-sandwiches-all-wee-1850113134)
-- [Dev.to/JS] [Please support the author of core-js](https://dev.to/h_sifat/please-support-the-author-of-core-js-3lij)
-- [Dev.to/JS] [Build Your Own Carousel Component with React Snap Carousel](https://dev.to/richardscarrott/build-your-own-carousel-component-with-react-snap-carousel-1e11)
 - [Lifehacker] [You Should Update Your Apple Devices Right Away](https://lifehacker.com/you-should-update-your-apple-devices-right-away-1850112825)
 - [Lifehacker] [Here’s When You Need to Form a Tenant Association](https://lifehacker.com/here-s-when-you-need-to-form-a-tenant-association-1850112811)
 - [Lifehacker] [The Easiest Way to Add Hyperlinks in Notes and Mail on Your iPhone](https://lifehacker.com/the-easiest-way-to-add-hyperlinks-in-notes-and-mail-on-1850111673)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your Free Credit Score Doesn’t Always Add Up](https://lifehacker.com/why-your-free-credit-score-doesn-t-always-add-up-1850107515)
 - [Lifehacker] [8 Surprising Household Uses for Razor Blades](https://lifehacker.com/8-surprising-household-uses-for-razor-blades-1850108754)
 - [Lifehacker] [There&#39;s a Secret Way to Restart Your iPhone](https://lifehacker.com/theres-a-secret-way-to-restart-your-iphone-1850107814)
-- [Lifehacker] [How to Get Free Wendy&#39;s French Fries All Week](https://lifehacker.com/how-to-get-free-wendys-french-fries-all-week-1850107971)
-- [Lifehacker] [What Bad Money Habits Did You Have to Unlearn From Your Parents?](https://lifehacker.com/what-bad-money-habits-did-you-have-to-unlearn-from-your-1850107911)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get Free Wendy&#39;s French Fries All Week](https://lifehacker.com/how-to-get-free-wendys-french-fries-all-week-1850107971)<!-- TECH-POSTS:END -->
 
 ---
 
