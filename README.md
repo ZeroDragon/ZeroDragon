@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Memo changes rendering?](https://dev.to/szymonsadowski/how-memo-changes-rendering-3o5a)
+- [Dev.to/JS] [Setting up a Node.js backend](https://dev.to/chiranjib_b/setting-up-a-nodejs-backend-3o0a)
+- [Dev.to/JS] [Create modular routes with express](https://dev.to/chiranjib_b/create-modular-routes-with-express-5cp9)
+- [Lifehacker] [Get Your Chocolate Fix With This Greek Yogurt &#39;Pudding&#39;](https://lifehacker.com/get-your-chocolate-fix-with-this-greek-yogurt-pudding-1850110127)
+- [Dev.to/JS] [How To Create A Movie App Using API and Plain JavaScript!](https://dev.to/codewithsadee/how-to-create-a-movie-app-using-api-and-plain-javascript-8oe)
+- [Dev.to/JS] [JavaScript Object Destructuring](https://dev.to/fredabod/javascript-object-destructuring-2lo7)
+- [Dev.to/JS] [Python OOP: Harnessing the Power of Classes and Objects](https://dev.to/ml_82/python-oop-harnessing-the-power-of-classes-and-objects-lce)
+- [Dev.to/JS] [JS Promises ve Async/Await nedir ?](https://dev.to/alicangunduz/js-promises-ve-asyncawait-nedir--220n)
+- [Dev.to/JS] [12 Tips for Optimal Ecommerce SEO](https://dev.to/medusajs/12-tips-for-optimal-ecommerce-seo-5a0l)
+- [Lifehacker] [Here Are the Signs You&#39;re in a &#39;Situationship&#39; Instead of a Relationship](https://lifehacker.com/here-are-the-signs-youre-in-a-situationship-instead-of-1850109628)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Cangurus saltitantes](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-cangurus-saltitantes-5gj4)
 - [Dev.to/JS] [What are 20 comprehensive business ideas in the healthcare domain that utilize ChatGPT technology?](https://dev.to/monu181/what-are-20-comprehensive-business-ideas-in-the-healthcare-domain-that-utilize-chatgpt-technology-2ik8)
 - [Dev.to/JS] [HOW TO GET A USERS LOCATION USING JAVASCRIPT](https://dev.to/scofieldidehen/how-to-get-a-users-location-using-javascript-2k8d)
 - [Dev.to/JS] [Let vs Var vs Cosnt](https://dev.to/aryandayal/let-vs-var-vs-cosnt-54mm)
-- [Dev.to/JS] [Object.assign in TypeScript: An Introduction to Converting Classes](https://dev.to/junedang/objectassign-in-typescript-an-introduction-to-converting-classes-180k)
-- [Dev.to/JS] [Building a clone of dev.to&#39;s editor with SvelteKit and TypeScript](https://dev.to/sirneij/building-a-clone-of-devtos-editor-with-sveltekit-and-typescript-ma6)
-- [Dev.to/JS] [Difference between == and ===](https://dev.to/sayantani96/difference-between-and--56b6)
-- [Dev.to/JS] [How to use regex/or algorithm to filter complex strings](https://dev.to/celestale/how-to-use-regex-to-filter-complex-strings-4nm9)
-- [Dev.to/JS] [Moonly weekly progress update #36](https://dev.to/moonly/moonly-weekly-progress-update-36-42dd)
-- [Dev.to/JS] [mistry jignesh](https://dev.to/mistryjignesh5/mistry-jignesh-14ob)
-- [Dev.to/JS] [Javascript promise chaining](https://dev.to/mrh0200/javascript-promise-chaining-aml)
-- [Dev.to/JS] [Using JSON Schema for JSON Validation](https://dev.to/syncfusion/using-json-schema-for-json-validation-3hbj)
 - [Lifehacker] [12 Things You Should Be Disinfecting &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/12-things-you-should-be-disinfecting-but-arent-1850110107)
 - [Lifehacker] [Calorie Restriction Is Not a Longevity Hack](https://lifehacker.com/calorie-restriction-is-not-a-longevity-hack-1850110037)
 - [Lifehacker] [How to Stop Yelling at Your Kid About Using Their Phone](https://lifehacker.com/how-to-stop-yelling-at-your-kid-about-using-their-phone-1850107302)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Fall for Online Retailers&#39; Sneaky Tricks](https://lifehacker.com/dont-fall-for-online-retailers-sneaky-tricks-1850097353)
 - [Lifehacker] [The Valentine&#39;s Day Gifts That Have Been Impacted Most &lpar;and Least&rpar; By Inflation](https://lifehacker.com/the-valentines-day-gifts-that-have-been-impacted-most-1850097359)
 - [Lifehacker] [The Best Way to Remove Scuff Marks From Your Shoes](https://lifehacker.com/the-best-way-to-remove-scuff-marks-from-your-shoes-1850097364)
-- [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)
-- [Lifehacker] [The Least-Bad Way to Buy a Car Right Now](https://lifehacker.com/the-least-bad-way-to-buy-a-car-right-now-1850101219)
-- [Lifehacker] [You’re Making Chocolate Covered Strawberries All Wrong](https://lifehacker.com/you-re-making-chocolate-covered-strawberries-all-wrong-1850101124)<!-- TECH-POSTS:END -->
+- [Lifehacker] [8 Ways You Should Use Your Scrub Daddy &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/8-ways-you-should-use-your-scrub-daddy-but-arent-1850101345)<!-- TECH-POSTS:END -->
 
 ---
 
