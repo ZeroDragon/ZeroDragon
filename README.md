@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make This Cheap Pasta Sauce With Browned Butter and Tomato Paste](https://lifehacker.com/make-this-cheap-pasta-sauce-with-browned-butter-and-tom-1850114507)
+- [Dev.to/JS] [Object Destructuring in JavaScript](https://dev.to/anthonys1760/object-destructuring-in-javascript-2gjl)
+- [Dev.to/JS] [Configure CORS in SvelteKit to make fetch requests to your API routes from a different host](https://dev.to/khromov/configure-cors-in-sveltekit-to-make-fetch-requests-to-your-api-routes-from-a-different-host-241k)
+- [Lifehacker] [The 11 Biggest Movie Trailers From the Super Bowl &lpar;and What to Watch Before They Premiere&rpar;](https://lifehacker.com/the-11-biggest-movie-trailers-from-the-super-bowl-and-1850112794)
 - [Lifehacker] [TikTokers Are Hot-Wiring These Hyundai and Kia Cars](https://lifehacker.com/tiktokers-are-hot-wiring-these-hyundai-and-kia-cars-1850113943)
 - [Dev.to/JS] [Error tracking with Sentry](https://dev.to/zsevic/error-tracking-with-sentry-2ma5)
 - [Dev.to/JS] [Rome](https://dev.to/celest67/rome-4no5)
@@ -38,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Feast on Free Popeye’s Spicy Chicken Sandwiches All Week Long](https://lifehacker.com/feast-on-free-popeye-s-spicy-chicken-sandwiches-all-wee-1850113134)
 - [Dev.to/JS] [Please support the author of core-js](https://dev.to/h_sifat/please-support-the-author-of-core-js-3lij)
 - [Dev.to/JS] [Build Your Own Carousel Component with React Snap Carousel](https://dev.to/richardscarrott/build-your-own-carousel-component-with-react-snap-carousel-1e11)
-- [Dev.to/JS] [isv platform with low code](https://dev.to/laradissouza99/isv-platform-with-low-code-48bo)
 - [Lifehacker] [You Should Update Your Apple Devices Right Away](https://lifehacker.com/you-should-update-your-apple-devices-right-away-1850112825)
-- [Dev.to/JS] [Spring Boot: The Best Backend Framework for Web Development in 2023](https://dev.to/vinsa/spring-boot-the-best-backend-framework-for-web-development-in-2023-1bn9)
 - [Lifehacker] [Here’s When You Need to Form a Tenant Association](https://lifehacker.com/here-s-when-you-need-to-form-a-tenant-association-1850112811)
 - [Lifehacker] [The Easiest Way to Add Hyperlinks in Notes and Mail on Your iPhone](https://lifehacker.com/the-easiest-way-to-add-hyperlinks-in-notes-and-mail-on-1850111673)
 - [Lifehacker] [This Is How Much Tuna You Can Safely Eat](https://lifehacker.com/this-is-how-much-tuna-you-can-safely-eat-1850112388)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 Surprising Household Uses for Razor Blades](https://lifehacker.com/8-surprising-household-uses-for-razor-blades-1850108754)
 - [Lifehacker] [There&#39;s a Secret Way to Restart Your iPhone](https://lifehacker.com/theres-a-secret-way-to-restart-your-iphone-1850107814)
 - [Lifehacker] [How to Get Free Wendy&#39;s French Fries All Week](https://lifehacker.com/how-to-get-free-wendys-french-fries-all-week-1850107971)
-- [Lifehacker] [What Bad Money Habits Did You Have to Unlearn From Your Parents?](https://lifehacker.com/what-bad-money-habits-did-you-have-to-unlearn-from-your-1850107911)
-- [Lifehacker] [This Air-Fried French Toast Isn&#39;t What You Think](https://lifehacker.com/this-air-fried-french-toast-isnt-what-you-think-1850107804)
-- [Lifehacker] [22 Movies Almost Impossible to Watch on DVD or Streaming in 2023 &lpar;and How to Maybe Watch Them Anyway&rpar;](https://lifehacker.com/22-movies-almost-impossible-to-watch-on-dvd-or-streamin-1850090606)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Bad Money Habits Did You Have to Unlearn From Your Parents?](https://lifehacker.com/what-bad-money-habits-did-you-have-to-unlearn-from-your-1850107911)<!-- TECH-POSTS:END -->
 
 ---
 
