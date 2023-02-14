@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript promise chaining](https://dev.to/mrh0200/javascript-promise-chaining-aml)
+- [Dev.to/JS] [HANDLE MULTIPLE ENVIRONMENTS IN REACT JS](https://dev.to/prabirbiswas/handle-multiple-environments-in-react-js-3agp)
+- [Dev.to/JS] [Made with love](https://dev.to/alohe/made-with-by-ipd)
 - [Dev.to/JS] [Our Journey In The Open Source World - object-loudifier](https://dev.to/cadienvan/our-journey-in-the-open-source-world-object-loudifier-504f)
 - [Dev.to/JS] [How To Integrate Payment Gateways in HTML And JS Projects? A Quick Overview](https://dev.to/quokkalabs/how-to-integrate-payment-gateways-in-html-and-js-projects-a-quick-overview-19p6)
 - [Dev.to/JS] [Legendary methods of Array in JavaScript | Part 1 : forEach, find, filter and map](https://dev.to/aquibzahidi/legendary-methods-of-array-in-javascript-part-1-foreach-find-filter-and-map-c1k)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [50 Node JS Interview Questions](https://dev.to/shreyvijayvargiya/50-node-js-interview-questions-3gjl)
 - [Dev.to/JS] [How to verify an object is empty object with Jest &lpar;extended&rpar;](https://dev.to/codever/how-to-verify-an-object-is-empty-object-with-jest-extended-6i0)
 - [Dev.to/JS] [LIBA Weight Loss - Fat Loss Results, Ingredients, Uses, Price, Scam Or Legit?](https://dev.to/libaweightinfo/liba-weight-loss-fat-loss-results-ingredients-uses-price-scam-or-legit-9e1)
-- [Dev.to/JS] [How to Set Up TypeScript with Node.js](https://dev.to/musabdev/how-to-set-up-typescript-with-nodejs-5dd6)
-- [Dev.to/JS] [Discover the Magic of Coding: An Introduction to Understanding What it is](https://dev.to/codewithmohaimin/discover-the-magic-of-coding-an-introduction-to-understanding-what-it-is-nch)
-- [Dev.to/JS] [Advanced Techniques for Optimizing JavaScript Performance](https://dev.to/haszankauna/advanced-techniques-for-optimizing-javascript-performance-5a32)
 - [Lifehacker] [12 Things You Should Be Disinfecting &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/12-things-you-should-be-disinfecting-but-arent-1850110107)
 - [Lifehacker] [Calorie Restriction Is Not a Longevity Hack](https://lifehacker.com/calorie-restriction-is-not-a-longevity-hack-1850110037)
 - [Lifehacker] [How to Stop Yelling at Your Kid About Using Their Phone](https://lifehacker.com/how-to-stop-yelling-at-your-kid-about-using-their-phone-1850107302)
