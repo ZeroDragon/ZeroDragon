@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Make a Bingo with JS](https://dev.to/walternascimentobarroso/make-a-bingo-with-js-376k)
+- [Dev.to/JS] [When not to use Effect ?](https://dev.to/jppradhan/when-not-to-use-effect--3f6o)
+- [Dev.to/JS] [Use axios as better practice in ReactJS](https://dev.to/deepakjaiswal/use-axios-as-better-practice-in-reactjs-2m6b)
+- [Dev.to/JS] [JavaScript Variable](https://dev.to/khalilnazari/javascript-variable-2ec9)
+- [Dev.to/JS] [Recursion in Programming](https://dev.to/denismacharia/recursion-in-programming-4j0h)
 - [Dev.to/JS] [How to implement authentication with nestjs using guards in 3 easy steps](https://dev.to/bryangranado/how-to-implement-authentication-with-nestjs-using-guards-in-3-easy-steps-24je)
 - [Dev.to/JS] [Glassmorphic Credit Card Using HTML, CSS And JavaScript – Programming Hub](https://dev.to/chandramaniarya/glassmorphic-credit-card-using-html-css-and-javascript-programming-hub-2978)
 - [Dev.to/JS] [PureScript in Production](https://dev.to/zelenya/purescript-in-production-oc8)
@@ -30,15 +35,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple Encode And Decode With Javascript](https://dev.to/catur/simple-encode-and-decode-with-javascript-od6)
 - [Dev.to/JS] [Forever Functional: The hidden state of Promises](https://dev.to/asayerio_techblog/forever-functional-the-hidden-state-of-promises-1f8)
 - [Dev.to/JS] [Extreme JavaScript Type Coercion](https://dev.to/kschneider0/javascript-but-you-only-have--4oba)
-- [Dev.to/JS] [How to use client and server-side web workers](https://dev.to/asayerio_techblog/how-to-use-client-and-server-side-web-workers-lnp)
-- [Dev.to/JS] [Best time to Buy and Sell Stock](https://dev.to/lausuarez02/best-time-to-buy-and-sell-stock-4231)
 - [Lifehacker] [12 Things You Should Be Disinfecting &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/12-things-you-should-be-disinfecting-but-arent-1850110107)
-- [Dev.to/JS] [A Look at Gender Demographics in the Developer Community, Part 1](https://dev.to/sachagreif/a-look-at-gender-demographics-in-the-developer-community-part-1-4d76)
 - [Lifehacker] [Calorie Restriction Is Not a Longevity Hack](https://lifehacker.com/calorie-restriction-is-not-a-longevity-hack-1850110037)
 - [Lifehacker] [How to Stop Yelling at Your Kid About Using Their Phone](https://lifehacker.com/how-to-stop-yelling-at-your-kid-about-using-their-phone-1850107302)
 - [Lifehacker] [All the Ways You Should Be Using Caulk Around the House but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-using-caulk-around-the-house-1850108446)
-- [Dev.to/JS] [Increments are Interesting](https://dev.to/jrcharney/increments-are-interesting-2oca)
-- [Dev.to/JS] [How to use PocketBase Authentication with React Context](https://dev.to/franciscomendes10866/how-to-use-pocketbase-authentication-with-react-context-11be)
 - [Lifehacker] [Keep Your Natural Peanut Butter From Separating, and How to Remix It When It Does](https://lifehacker.com/keep-your-natural-peanut-butter-from-separating-and-ho-1850109148)
 - [Lifehacker] [Don&#39;t Feed Your Dog This Recalled Dry Food](https://lifehacker.com/dont-feed-your-dog-this-recalled-dry-food-1850109025)
 - [Lifehacker] [Please Clean Your Spice Jars](https://lifehacker.com/why-you-need-to-clean-your-spice-jars-1850108799)
