@@ -23,21 +23,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Link-Sharing App Is Better Than AirDrop](https://lifehacker.com/this-link-sharing-app-is-better-than-airdrop-1850116921)
+- [Dev.to/JS] [Using Components in &#39;Circle&#39; React template](https://dev.to/cold_weather/using-components-in-circle-react-template-3cla)
+- [Dev.to/JS] [Contains Duplicate](https://dev.to/lausuarez02/contains-duplicate-2jne)
+- [Dev.to/JS] [Ref vs Reactive - How Vue 3 Declares Reactive Data](https://dev.to/diseyi/ref-vs-reactive-how-vue-3-declares-reactive-data-ebf)
+- [Dev.to/JS] [How I created an Observable library - part 1](https://dev.to/nugetchar/how-i-created-an-observable-library-part-1-4nmb)
+- [Lifehacker] [Music Is Making Your Hardest Video Games Even Harder](https://lifehacker.com/music-is-making-your-hardest-video-games-even-harder-1850115998)
+- [Dev.to/JS] [The Basics of React.js](https://dev.to/michael_osas/the-basics-of-reactjs-2od7)
+- [Dev.to/JS] [A Beginner&#39;s Guide to Using Fetch and Axios to Consume REST APIs in React](https://dev.to/jhimmyofficial/a-beginners-guide-to-using-fetch-and-axios-to-consume-rest-apis-in-react-3dib)
 - [Lifehacker] [Don’t Preheat Your Oven Before Cooking Chicken Thighs](https://lifehacker.com/don-t-preheat-your-oven-before-cooking-chicken-thighs-1850115340)
 - [Dev.to/JS] [👀 Visualizing: Execution Context in JavaScript](https://dev.to/catherineisonline/visualizing-execution-context-in-javascript-50k)
 - [Lifehacker] [9 of the Most Dangerous Driving Emergencies &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/9-of-the-most-dangerous-driving-emergencies-and-how-to-1850115196)
-- [Dev.to/JS] [Mapeando objetos com o `in keyof` do Typescript](https://dev.to/censuradho/mapeando-objetos-com-o-in-keyof-do-typescript-8h9)
+- [Dev.to/JS] [Mapeando objetos com o `in keyof` no Typescript](https://dev.to/censuradho/mapeando-objetos-com-o-in-keyof-do-typescript-8h9)
 - [Dev.to/JS] [Auto-colorize Google Docs](https://dev.to/schmijos/auto-colorize-google-docs-k7f)
 - [Dev.to/JS] [React’s Virtual DOM: Headache or Painkiller for Developers? 🤒](https://dev.to/karanjrawal/reacts-virtual-dom-headache-or-painkiller-for-developers-3nd)
 - [Dev.to/JS] [Don&#39;t miss on the cloud revolution, learn serverless on AWS the right way](https://dev.to/kumo/dont-miss-on-the-cloud-revolution-learn-serverless-on-aws-the-right-way-1kac)
 - [Lifehacker] [10 of the Stupidest Fees and How to Avoid Them](https://lifehacker.com/10-of-the-biggest-bullshit-fees-and-how-to-avoid-payin-1850114840)
 - [Dev.to/JS] [What exactly are JavaScript Statements?](https://dev.to/max88git/what-exactly-are-javascript-statements-2198)
-- [Dev.to/JS] [React Tutorial: A Comprehensive Guide for Beginners &lpar;2023&rpar;](https://dev.to/ibaslogic/react-tutorial-a-comprehensive-guide-for-beginners-2023-3k7n)
-- [Dev.to/JS] [Getting Started with JavaScript Switch Case: A Beginner&#39;s Guide](https://dev.to/baransel/getting-started-with-javascript-switch-case-a-beginners-guide-417a)
-- [Dev.to/JS] [Astro Cookies API: Cookies on HTTP Requests](https://dev.to/askrodney/astro-cookies-api-cookies-on-http-requests-4fn5)
-- [Dev.to/JS] [JavaScript code block with Switch statements](https://dev.to/haastrupea/javascript-code-block-with-switch-statements-1m2i)
-- [Dev.to/JS] [Basic End To End Encryption With Crypto](https://dev.to/lambstar/basic-end-to-end-encryption-with-crypto-2gh7)
-- [Dev.to/JS] [#refineweek: Setting Up the Client App](https://dev.to/refine/refineweek-setting-up-the-client-app-5722)
 - [Lifehacker] [You Could Be Falling for the Dunning-Kruger Effect and Not Even Know It](https://lifehacker.com/you-could-be-falling-for-the-dunning-kruger-effect-and-1850113520)
 - [Lifehacker] [Make This Cheap Pasta Sauce With Browned Butter and Tomato Paste](https://lifehacker.com/make-this-cheap-pasta-sauce-with-browned-butter-and-tom-1850114507)
 - [Lifehacker] [The 11 Biggest Movie Trailers From the Super Bowl &lpar;and What to Watch Before They Premiere&rpar;](https://lifehacker.com/the-11-biggest-movie-trailers-from-the-super-bowl-and-1850112794)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Yelling at Your Kid About Using Their Phone](https://lifehacker.com/how-to-stop-yelling-at-your-kid-about-using-their-phone-1850107302)
 - [Lifehacker] [All the Ways You Should Be Using Caulk Around the House but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-using-caulk-around-the-house-1850108446)
 - [Lifehacker] [Keep Your Natural Peanut Butter From Separating, and How to Remix It When It Does](https://lifehacker.com/keep-your-natural-peanut-butter-from-separating-and-ho-1850109148)
-- [Lifehacker] [Don&#39;t Feed Your Dog This Recalled Dry Food](https://lifehacker.com/dont-feed-your-dog-this-recalled-dry-food-1850109025)
-- [Lifehacker] [Please Clean Your Spice Jars](https://lifehacker.com/why-you-need-to-clean-your-spice-jars-1850108799)
-- [Lifehacker] [Why Your Free Credit Score Doesn’t Always Add Up](https://lifehacker.com/why-your-free-credit-score-doesn-t-always-add-up-1850107515)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Feed Your Dog This Recalled Dry Food](https://lifehacker.com/dont-feed-your-dog-this-recalled-dry-food-1850109025)<!-- TECH-POSTS:END -->
 
 ---
 
