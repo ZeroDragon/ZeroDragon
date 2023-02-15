@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Complete Guide To AngularJS Testing](https://dev.to/lambdatest/a-complete-guide-to-angularjs-testing-3gh1)
+- [Dev.to/JS] [When JavaScript regex can surprise you - a silly bug story](https://dev.to/elwin013/when-javascript-regex-can-surprise-you-a-silly-bug-story-101f)
+- [Dev.to/JS] [Unleashing the full power of Middleware with Enterspeed ⚡](https://dev.to/enterspeed/unleashing-the-full-power-of-middleware-with-enterspeed-4gm3)
 - [Dev.to/JS] [Why and how to create an Event Bus in Vuejs 3](https://dev.to/inspector/why-and-how-to-create-an-event-bus-in-vuejs-3-2hj6)
 - [Dev.to/JS] [Building Your Own Intelligent Chatbot with ChatGPT and Botpress: A Step-by-Step Guide - Part-5](https://dev.to/monu181/building-your-own-intelligent-chatbot-with-chatgpt-and-botpress-a-step-by-step-guide-part-5-1i5c)
 - [Dev.to/JS] [Building Your Own Intelligent Chatbot with ChatGPT and Botpress: A Step-by-Step Guide - Part-3](https://dev.to/monu181/building-your-own-intelligent-chatbot-with-chatgpt-and-botpress-a-step-by-step-guide-part-3-53lo)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to fix QuickBooks error 20: Printer not activated problem?](https://dev.to/anisawilliam70/how-to-fix-quickbooks-error-20-printer-not-activated-problem-160k)
 - [Dev.to/JS] [How to approach tutorials to avoid tutorials hell](https://dev.to/annoh_karlgusta/how-to-approach-tutorials-to-avoid-tutorials-hell-3egk)
 - [Dev.to/JS] [What are the 5 C&#39;s of content material creation?](https://dev.to/thomas23459/what-are-the-5-cs-of-content-material-creation-2kk2)
-- [Dev.to/JS] [Building Your Own Intelligent Chatbot with ChatGPT and Botpress: A Step-by-Step Guide - Part-1](https://dev.to/monu181/building-your-own-intelligent-chatbot-with-chatgpt-and-botpress-a-step-by-step-guide-part-1-4g6b)
-- [Dev.to/JS] [Animate all elements of website on scroll](https://dev.to/anish_rokka_da708a65a3caa/animate-all-elements-of-website-on-scroll-36gp)
-- [Dev.to/JS] [Weekly web development resources #137](https://dev.to/vincenius/weekly-web-development-resources-137-4p18)
 - [Lifehacker] [You Could Be Falling for the Dunning-Kruger Effect and Not Even Know It](https://lifehacker.com/you-could-be-falling-for-the-dunning-kruger-effect-and-1850113520)
 - [Lifehacker] [Make This Cheap Pasta Sauce With Browned Butter and Tomato Paste](https://lifehacker.com/make-this-cheap-pasta-sauce-with-browned-butter-and-tom-1850114507)
 - [Lifehacker] [The 11 Biggest Movie Trailers From the Super Bowl &lpar;and What to Watch Before They Premiere&rpar;](https://lifehacker.com/the-11-biggest-movie-trailers-from-the-super-bowl-and-1850112794)
