@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Puppeteer unknown error.](https://dev.to/sonukarn21/puppeteer-unknown-error-2a6a)
 - [Dev.to/JS] [Next JS + SWR + Axios](https://dev.to/tan_jung/next-js-swr-axios-3ae6)
 - [Dev.to/JS] [CodeSmash - Building in Public - Add Stacks to the Canvas](https://dev.to/mariostopfer/codesmash-building-in-public-add-stacks-to-the-canvas-4jo6)
 - [Dev.to/JS] [Building a Simple Server with Node.js and Express](https://dev.to/ibroraheem/building-a-simple-server-with-nodejs-and-express-2l49)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to EJS: A Guide to Building Dynamic Web Applications](https://dev.to/victrexx2002/introduction-to-ejs-a-guide-to-building-dynamic-web-applications-2737)
 - [Dev.to/JS] [Using Node.js for Microservices Architecture](https://dev.to/folasayosamuel/using-nodejs-for-microservices-architecture-4b25)
 - [Dev.to/JS] [Maximize Your Client Upload Efficiency with the Bulk Upload](https://dev.to/mukul_/maximize-your-client-upload-efficiency-with-the-bulk-upload-45l4)
-- [Dev.to/JS] [Create a Multiple Instances Socket React Context Library: a Step-by-Step Guide](https://dev.to/mukul_/create-a-multiple-instances-socket-react-context-library-a-step-by-step-guide-3hj0)
 - [Lifehacker] [You Could Be Falling for the Dunning-Kruger Effect and Not Even Know It](https://lifehacker.com/you-could-be-falling-for-the-dunning-kruger-effect-and-1850113520)
 - [Lifehacker] [Make This Cheap Pasta Sauce With Browned Butter and Tomato Paste](https://lifehacker.com/make-this-cheap-pasta-sauce-with-browned-butter-and-tom-1850114507)
 - [Lifehacker] [The 11 Biggest Movie Trailers From the Super Bowl &lpar;and What to Watch Before They Premiere&rpar;](https://lifehacker.com/the-11-biggest-movie-trailers-from-the-super-bowl-and-1850112794)
