@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to approach tutorials to avoid tutorials hell](https://dev.to/annoh_karlgusta/how-to-approach-tutorials-to-avoid-tutorials-hell-3egk)
+- [Dev.to/JS] [What are the 5 C&#39;s of content material creation?](https://dev.to/thomas23459/what-are-the-5-cs-of-content-material-creation-2kk2)
+- [Dev.to/JS] [Building Your Own Intelligent Chatbot with ChatGPT and Botpress: A Step-by-Step Guide - Part-1](https://dev.to/monu181/building-your-own-intelligent-chatbot-with-chatgpt-and-botpress-a-step-by-step-guide-part-1-4g6b)
+- [Dev.to/JS] [Animate all elements of website on scroll](https://dev.to/anish_rokka_da708a65a3caa/animate-all-elements-of-website-on-scroll-36gp)
 - [Dev.to/JS] [Weekly web development resources #137](https://dev.to/vincenius/weekly-web-development-resources-137-4p18)
 - [Dev.to/JS] [How to import and export functions in JavaScript ?](https://dev.to/sujit_mali/how-to-import-and-export-functions-in-javascript--1kkf)
 - [Dev.to/JS] [Using keyof and typeof for types efficiently in TypeScript](https://dev.to/mayashavin/using-keyof-and-typeof-for-types-efficiently-in-typescript-3o6k)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Navigate Your Way Through Web Development](https://dev.to/anarchymonkey/navigate-your-way-through-web-development-55ei)
 - [Dev.to/JS] [Puppeteer unknown error.](https://dev.to/sonukarn21/puppeteer-unknown-error-2a6a)
 - [Dev.to/JS] [Next JS + SWR + Axios](https://dev.to/tan_jung/next-js-swr-axios-3ae6)
-- [Dev.to/JS] [CodeSmash - Building in Public - Add Stacks to the Canvas](https://dev.to/mariostopfer/codesmash-building-in-public-add-stacks-to-the-canvas-4jo6)
-- [Dev.to/JS] [Building a Simple Server with Node.js and Express](https://dev.to/ibroraheem/building-a-simple-server-with-nodejs-and-express-2l49)
-- [Dev.to/JS] [Using NodeJS and ExpressJs for Backend Development.](https://dev.to/manuel__dev/using-nodejs-and-expressjs-for-backend-development-2l48)
-- [Dev.to/JS] [Better Alerts with Sweetalert2 for React apps](https://dev.to/asayerio_techblog/better-alerts-with-sweetalert2-for-react-apps-1bo)
 - [Lifehacker] [You Could Be Falling for the Dunning-Kruger Effect and Not Even Know It](https://lifehacker.com/you-could-be-falling-for-the-dunning-kruger-effect-and-1850113520)
 - [Lifehacker] [Make This Cheap Pasta Sauce With Browned Butter and Tomato Paste](https://lifehacker.com/make-this-cheap-pasta-sauce-with-browned-butter-and-tom-1850114507)
 - [Lifehacker] [The 11 Biggest Movie Trailers From the Super Bowl &lpar;and What to Watch Before They Premiere&rpar;](https://lifehacker.com/the-11-biggest-movie-trailers-from-the-super-bowl-and-1850112794)
