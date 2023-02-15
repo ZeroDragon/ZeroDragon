@@ -23,22 +23,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Error Management: Proven Strategies You Need to Know](https://dev.to/kinsta/javascript-error-management-proven-strategies-you-need-to-know-3g09)
+- [Lifehacker] [Your Android Phone Can Feel so Much Faster](https://lifehacker.com/your-android-phone-can-feel-so-much-faster-1850118629)
+- [Dev.to/JS] [Arrow Function](https://dev.to/anateotfw/arrow-function-clg)
+- [Dev.to/JS] [[Typia] Universal Random Generator, which can make everything, just by only one line](https://dev.to/samchon/i-made-universal-random-generator-which-can-make-everything-by-just-only-one-line-4mhm)
+- [Dev.to/JS] [Building a Blog from Scratch with HTML, CSS, and JavaScript: A Step-by-Step Guide](https://dev.to/webmonster/building-a-blog-from-scratch-with-html-css-and-javascript-a-step-by-step-guide-3pb)
+- [Lifehacker] [9 Traditional Treats for Fat Tuesday &lpar;and All the Other Fat Days Too&rpar;](https://lifehacker.com/9-traditional-treats-for-fat-tuesday-and-all-the-other-1850118038)
+- [Dev.to/JS] [HTML: Form Input Types](https://dev.to/oluwatrillions/html-form-input-types-8h6)
+- [Dev.to/JS] [Alternative to AWS Mock](https://dev.to/jesterxl/alternative-to-aws-mock-1ed2)
+- [Dev.to/JS] [BFS pattern](https://dev.to/986913/bfs-pattern-2edj)
+- [Dev.to/JS] [Improving styling skills through daily coding challenges](https://dev.to/aneeqakhan/improving-styling-skills-by-daily-coding-challenges-26be)
+- [Lifehacker] [All the Ways You Can Use Bar Keepers Friend &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-bar-keepers-friend-but-arent-1850117590)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Sobre 2 conjuntos.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-sobre-2-conjuntos-33e8)
 - [Lifehacker] [How to Cancel a Subscription Online Even When the Company Doesn’t Want You To](https://lifehacker.com/how-to-cancel-a-subscription-online-even-when-the-compa-1850117577)
 - [Dev.to/JS] [Draggable element &amp; Cursor to see the filters separately](https://dev.to/amiru_weerathunga/draggable-element-cursor-to-see-the-filters-separately-2fk1)
 - [Dev.to/JS] [Next.js Tutorial: Building a Complete Web App from Scratch with React, Server-Side Rendering, and SEO-Friendly URLs](https://dev.to/monu181/nextjs-tutorial-building-a-complete-web-app-from-scratch-with-react-server-side-rendering-and-seo-friendly-urls-3c55)
 - [Dev.to/JS] [A Guide for &quot;this&quot; keyword in JavaScript](https://dev.to/brianbogita/a-guide-for-this-keyword-in-javascript-3fo5)
-- [Dev.to/JS] [Supabase, an open-source Firebase alternative](https://dev.to/guillaumeduhan/supabase-an-open-source-firebase-alternative-i1l)
-- [Dev.to/JS] [What are the key differences between React.js and Next.js in terms of technical capabilities?](https://dev.to/monu181/what-are-the-key-differences-between-reactjs-and-nextjs-in-terms-of-technical-capabilities-3em)
 - [Lifehacker] [How Often You Really Need to Replace Your Mop, Sponges, and Other Cleaning Supplies](https://lifehacker.com/how-often-you-really-need-to-replace-your-mop-sponges-1850117996)
 - [Lifehacker] [How to Delete Spam Calendars From Your iPhone](https://lifehacker.com/how-to-delete-spam-calendars-from-your-iphone-1849958726)
-- [Dev.to/JS] [Need a ReactJS Development Agency in NYC? Check Out Our Top 20 Picks!](https://dev.to/monu181/need-a-reactjs-development-agency-in-nyc-check-out-our-top-20-picks-4fm8)
-- [Dev.to/JS] [Using Playwright to Monitor Third-Party Resources That Could Impact User Experience](https://dev.to/checkly/using-playwright-to-monitor-third-party-resources-that-could-impact-user-experience-2lek)
 - [Lifehacker] [This Link-Sharing App Is Better Than AirDrop](https://lifehacker.com/this-link-sharing-app-is-better-than-airdrop-1850116921)
-- [Dev.to/JS] [Using Components in &#39;Circle&#39; React template](https://dev.to/cold_weather/using-components-in-circle-react-template-3cla)
-- [Dev.to/JS] [Contains Duplicate](https://dev.to/lausuarez02/contains-duplicate-2jne)
-- [Dev.to/JS] [Ref vs Reactive - How Vue 3 Declares Reactive Data](https://dev.to/diseyi/ref-vs-reactive-how-vue-3-declares-reactive-data-ebf)
-- [Dev.to/JS] [How I created an Observable library - part 1](https://dev.to/nugetchar/how-i-created-an-observable-library-part-1-4nmb)
 - [Lifehacker] [Music Is Making Your Hardest Video Games Even Harder](https://lifehacker.com/music-is-making-your-hardest-video-games-even-harder-1850115998)
 - [Lifehacker] [Don’t Preheat Your Oven Before Cooking Chicken Thighs](https://lifehacker.com/don-t-preheat-your-oven-before-cooking-chicken-thighs-1850115340)
 - [Lifehacker] [9 of the Most Dangerous Driving Emergencies &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/9-of-the-most-dangerous-driving-emergencies-and-how-to-1850115196)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Pros and Cons of Having a Work Spouse](https://lifehacker.com/the-pros-and-cons-of-having-a-work-spouse-1850109997)
 - [Lifehacker] [Don’t Log In to Websites With ‘Sites’ in the URL](https://lifehacker.com/don-t-log-in-to-websites-with-sites-in-the-url-1850110238)
 - [Lifehacker] [Get Your Chocolate Fix With This Greek Yogurt &#39;Pudding&#39;](https://lifehacker.com/get-your-chocolate-fix-with-this-greek-yogurt-pudding-1850110127)
-- [Lifehacker] [Here Are the Signs You&#39;re in a &#39;Situationship&#39; Instead of a Relationship](https://lifehacker.com/here-are-the-signs-youre-in-a-situationship-instead-of-1850109628)
-- [Lifehacker] [12 Things You Should Be Disinfecting &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/12-things-you-should-be-disinfecting-but-arent-1850110107)
-- [Lifehacker] [Calorie Restriction Is Not a Longevity Hack](https://lifehacker.com/calorie-restriction-is-not-a-longevity-hack-1850110037)
-- [Lifehacker] [How to Stop Yelling at Your Kid About Using Their Phone](https://lifehacker.com/how-to-stop-yelling-at-your-kid-about-using-their-phone-1850107302)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here Are the Signs You&#39;re in a &#39;Situationship&#39; Instead of a Relationship](https://lifehacker.com/here-are-the-signs-youre-in-a-situationship-instead-of-1850109628)<!-- TECH-POSTS:END -->
 
 ---
 
