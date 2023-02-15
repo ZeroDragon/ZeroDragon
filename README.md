@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Node.js for Microservices Architecture](https://dev.to/folasayosamuel/using-nodejs-for-microservices-architecture-4b25)
 - [Dev.to/JS] [Maximize Your Client Upload Efficiency with the Bulk Upload](https://dev.to/mukul_/maximize-your-client-upload-efficiency-with-the-bulk-upload-45l4)
 - [Dev.to/JS] [Create a Multiple Instances Socket React Context Library: a Step-by-Step Guide](https://dev.to/mukul_/create-a-multiple-instances-socket-react-context-library-a-step-by-step-guide-3hj0)
 - [Lifehacker] [You Could Be Falling for the Dunning-Kruger Effect and Not Even Know It](https://lifehacker.com/you-could-be-falling-for-the-dunning-kruger-effect-and-1850113520)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Compound components pattern for creating reusable Rating component](https://dev.to/ngoy_luckson/compound-components-pattern-for-creating-reusable-rating-component-1cne)
 - [Dev.to/JS] [JavaScript Tutorial Series: String methods](https://dev.to/fullstackjo/javascript-tutorial-series-string-methods-2o3f)
 - [Lifehacker] [Stir Fry Your Leftover Pasta for a Crispy Treat](https://lifehacker.com/stir-fry-your-leftover-pasta-for-a-crispy-treat-1850113486)
-- [Dev.to/JS] [Unleash the Power of React.js: 10 Must-Have NPM Libraries with Code Examples to Transform Your Development Game!](https://dev.to/prateekbka/unleash-the-power-of-reactjs-10-must-have-npm-libraries-with-code-examples-to-transform-your-development-game-4c5f)
 - [Lifehacker] [Feast on Free Popeye’s Spicy Chicken Sandwiches All Week Long](https://lifehacker.com/feast-on-free-popeye-s-spicy-chicken-sandwiches-all-wee-1850113134)
 - [Lifehacker] [You Should Update Your Apple Devices Right Away](https://lifehacker.com/you-should-update-your-apple-devices-right-away-1850112825)
 - [Lifehacker] [Here’s When You Need to Form a Tenant Association](https://lifehacker.com/here-s-when-you-need-to-form-a-tenant-association-1850112811)
