@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Integrate reCaptcha V3 on Nuxt3 app](https://dev.to/elquimeras/integrate-recaptcha-v3-on-nuxt3-app-1gma)
+- [Lifehacker] [Nissan Is Recalling 400,000 Older Vehicles for Dangerous Airbag Issue](https://lifehacker.com/nissan-is-recalling-400-000-older-vehicles-for-dangerou-1850118242)
+- [Dev.to/JS] [JavaScript Tutorial Series: Array Methods](https://dev.to/fullstackjo/javascript-tutorial-series-array-methods-214h)
 - [Dev.to/JS] [JavaScript Error Management: Proven Strategies You Need to Know](https://dev.to/kinsta/javascript-error-management-proven-strategies-you-need-to-know-3g09)
 - [Lifehacker] [Your Android Phone Can Feel so Much Faster](https://lifehacker.com/your-android-phone-can-feel-so-much-faster-1850118629)
 - [Dev.to/JS] [Arrow Function](https://dev.to/anateotfw/arrow-function-clg)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Sobre 2 conjuntos.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-sobre-2-conjuntos-33e8)
 - [Lifehacker] [How to Cancel a Subscription Online Even When the Company Doesn’t Want You To](https://lifehacker.com/how-to-cancel-a-subscription-online-even-when-the-compa-1850117577)
 - [Dev.to/JS] [Draggable element &amp; Cursor to see the filters separately](https://dev.to/amiru_weerathunga/draggable-element-cursor-to-see-the-filters-separately-2fk1)
-- [Dev.to/JS] [Next.js Tutorial: Building a Complete Web App from Scratch with React, Server-Side Rendering, and SEO-Friendly URLs](https://dev.to/monu181/nextjs-tutorial-building-a-complete-web-app-from-scratch-with-react-server-side-rendering-and-seo-friendly-urls-3c55)
-- [Dev.to/JS] [A Guide for &quot;this&quot; keyword in JavaScript](https://dev.to/brianbogita/a-guide-for-this-keyword-in-javascript-3fo5)
 - [Lifehacker] [How Often You Really Need to Replace Your Mop, Sponges, and Other Cleaning Supplies](https://lifehacker.com/how-often-you-really-need-to-replace-your-mop-sponges-1850117996)
 - [Lifehacker] [How to Delete Spam Calendars From Your iPhone](https://lifehacker.com/how-to-delete-spam-calendars-from-your-iphone-1849958726)
 - [Lifehacker] [This Link-Sharing App Is Better Than AirDrop](https://lifehacker.com/this-link-sharing-app-is-better-than-airdrop-1850116921)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Stupidity Is More Dangerous Than Evil](https://lifehacker.com/why-stupidity-is-more-dangerous-than-evil-1850111074)
 - [Lifehacker] [The Pros and Cons of Having a Work Spouse](https://lifehacker.com/the-pros-and-cons-of-having-a-work-spouse-1850109997)
 - [Lifehacker] [Don’t Log In to Websites With ‘Sites’ in the URL](https://lifehacker.com/don-t-log-in-to-websites-with-sites-in-the-url-1850110238)
-- [Lifehacker] [Get Your Chocolate Fix With This Greek Yogurt &#39;Pudding&#39;](https://lifehacker.com/get-your-chocolate-fix-with-this-greek-yogurt-pudding-1850110127)
-- [Lifehacker] [Here Are the Signs You&#39;re in a &#39;Situationship&#39; Instead of a Relationship](https://lifehacker.com/here-are-the-signs-youre-in-a-situationship-instead-of-1850109628)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Get Your Chocolate Fix With This Greek Yogurt &#39;Pudding&#39;](https://lifehacker.com/get-your-chocolate-fix-with-this-greek-yogurt-pudding-1850110127)<!-- TECH-POSTS:END -->
 
 ---
 
