@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 of the Stupidest Fees and How to Avoid Them](https://lifehacker.com/10-of-the-biggest-bullshit-fees-and-how-to-avoid-payin-1850114840)
+- [Dev.to/JS] [What exactly are JavaScript Statements?](https://dev.to/max88git/what-exactly-are-javascript-statements-2198)
+- [Dev.to/JS] [React Tutorial: A Comprehensive Guide for Beginners &lpar;2023&rpar;](https://dev.to/ibaslogic/react-tutorial-a-comprehensive-guide-for-beginners-2023-3k7n)
 - [Dev.to/JS] [Getting Started with JavaScript Switch Case: A Beginner&#39;s Guide](https://dev.to/baransel/getting-started-with-javascript-switch-case-a-beginners-guide-417a)
 - [Dev.to/JS] [Astro Cookies API: Cookies on HTTP Requests](https://dev.to/askrodney/astro-cookies-api-cookies-on-http-requests-4fn5)
 - [Dev.to/JS] [JavaScript code block with Switch statements](https://dev.to/haastrupea/javascript-code-block-with-switch-statements-1m2i)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unleashing the full power of Middleware with Enterspeed ⚡](https://dev.to/enterspeed/unleashing-the-full-power-of-middleware-with-enterspeed-4gm3)
 - [Dev.to/JS] [Why and how to create an Event Bus in Vuejs 3](https://dev.to/inspector/why-and-how-to-create-an-event-bus-in-vuejs-3-2hj6)
 - [Dev.to/JS] [Building Your Own Intelligent Chatbot with ChatGPT and Botpress: A Step-by-Step Guide - Part-5](https://dev.to/monu181/building-your-own-intelligent-chatbot-with-chatgpt-and-botpress-a-step-by-step-guide-part-5-1i5c)
-- [Dev.to/JS] [Building Your Own Intelligent Chatbot with ChatGPT and Botpress: A Step-by-Step Guide - Part-3](https://dev.to/monu181/building-your-own-intelligent-chatbot-with-chatgpt-and-botpress-a-step-by-step-guide-part-3-53lo)
-- [Dev.to/JS] [Formatting big numbers using Intl.NumberFormat](https://dev.to/nikolasbarwicki/formatting-big-numbers-using-intlnumberformat-5397)
 - [Lifehacker] [You Could Be Falling for the Dunning-Kruger Effect and Not Even Know It](https://lifehacker.com/you-could-be-falling-for-the-dunning-kruger-effect-and-1850113520)
 - [Lifehacker] [Make This Cheap Pasta Sauce With Browned Butter and Tomato Paste](https://lifehacker.com/make-this-cheap-pasta-sauce-with-browned-butter-and-tom-1850114507)
 - [Lifehacker] [The 11 Biggest Movie Trailers From the Super Bowl &lpar;and What to Watch Before They Premiere&rpar;](https://lifehacker.com/the-11-biggest-movie-trailers-from-the-super-bowl-and-1850112794)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Please Clean Your Spice Jars](https://lifehacker.com/why-you-need-to-clean-your-spice-jars-1850108799)
 - [Lifehacker] [Why Your Free Credit Score Doesn’t Always Add Up](https://lifehacker.com/why-your-free-credit-score-doesn-t-always-add-up-1850107515)
 - [Lifehacker] [8 Surprising Household Uses for Razor Blades](https://lifehacker.com/8-surprising-household-uses-for-razor-blades-1850108754)
-- [Lifehacker] [There&#39;s a Secret Way to Restart Your iPhone](https://lifehacker.com/theres-a-secret-way-to-restart-your-iphone-1850107814)
-- [Lifehacker] [How to Get Free Wendy&#39;s French Fries All Week](https://lifehacker.com/how-to-get-free-wendys-french-fries-all-week-1850107971)<!-- TECH-POSTS:END -->
+- [Lifehacker] [There&#39;s a Secret Way to Restart Your iPhone](https://lifehacker.com/theres-a-secret-way-to-restart-your-iphone-1850107814)<!-- TECH-POSTS:END -->
 
 ---
 
