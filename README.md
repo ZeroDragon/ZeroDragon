@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Delete Spam Calendars From Your iPhone](https://lifehacker.com/how-to-delete-spam-calendars-from-your-iphone-1849958726)
+- [Dev.to/JS] [Need a ReactJS Development Agency in NYC? Check Out Our Top 20 Picks!](https://dev.to/monu181/need-a-reactjs-development-agency-in-nyc-check-out-our-top-20-picks-4fm8)
+- [Dev.to/JS] [Using Playwright to Monitor Third-Party Resources That Could Impact User Experience](https://dev.to/checkly/using-playwright-to-monitor-third-party-resources-that-could-impact-user-experience-2lek)
 - [Lifehacker] [This Link-Sharing App Is Better Than AirDrop](https://lifehacker.com/this-link-sharing-app-is-better-than-airdrop-1850116921)
 - [Dev.to/JS] [Using Components in &#39;Circle&#39; React template](https://dev.to/cold_weather/using-components-in-circle-react-template-3cla)
 - [Dev.to/JS] [Contains Duplicate](https://dev.to/lausuarez02/contains-duplicate-2jne)
@@ -37,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mapeando objetos com o `in keyof` no Typescript](https://dev.to/censuradho/mapeando-objetos-com-o-in-keyof-do-typescript-8h9)
 - [Dev.to/JS] [Auto-colorize Google Docs](https://dev.to/schmijos/auto-colorize-google-docs-k7f)
 - [Dev.to/JS] [React’s Virtual DOM: Headache or Painkiller for Developers? 🤒](https://dev.to/karanjrawal/reacts-virtual-dom-headache-or-painkiller-for-developers-3nd)
-- [Dev.to/JS] [Don&#39;t miss on the cloud revolution, learn serverless on AWS the right way](https://dev.to/kumo/dont-miss-on-the-cloud-revolution-learn-serverless-on-aws-the-right-way-1kac)
 - [Lifehacker] [10 of the Stupidest Fees and How to Avoid Them](https://lifehacker.com/10-of-the-biggest-bullshit-fees-and-how-to-avoid-payin-1850114840)
-- [Dev.to/JS] [What exactly are JavaScript Statements?](https://dev.to/max88git/what-exactly-are-javascript-statements-2198)
 - [Lifehacker] [You Could Be Falling for the Dunning-Kruger Effect and Not Even Know It](https://lifehacker.com/you-could-be-falling-for-the-dunning-kruger-effect-and-1850113520)
 - [Lifehacker] [Make This Cheap Pasta Sauce With Browned Butter and Tomato Paste](https://lifehacker.com/make-this-cheap-pasta-sauce-with-browned-butter-and-tom-1850114507)
 - [Lifehacker] [The 11 Biggest Movie Trailers From the Super Bowl &lpar;and What to Watch Before They Premiere&rpar;](https://lifehacker.com/the-11-biggest-movie-trailers-from-the-super-bowl-and-1850112794)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Calorie Restriction Is Not a Longevity Hack](https://lifehacker.com/calorie-restriction-is-not-a-longevity-hack-1850110037)
 - [Lifehacker] [How to Stop Yelling at Your Kid About Using Their Phone](https://lifehacker.com/how-to-stop-yelling-at-your-kid-about-using-their-phone-1850107302)
 - [Lifehacker] [All the Ways You Should Be Using Caulk Around the House but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-using-caulk-around-the-house-1850108446)
-- [Lifehacker] [Keep Your Natural Peanut Butter From Separating, and How to Remix It When It Does](https://lifehacker.com/keep-your-natural-peanut-butter-from-separating-and-ho-1850109148)
-- [Lifehacker] [Don&#39;t Feed Your Dog This Recalled Dry Food](https://lifehacker.com/dont-feed-your-dog-this-recalled-dry-food-1850109025)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Keep Your Natural Peanut Butter From Separating, and How to Remix It When It Does](https://lifehacker.com/keep-your-natural-peanut-butter-from-separating-and-ho-1850109148)<!-- TECH-POSTS:END -->
 
 ---
 
