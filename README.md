@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next JS + SWR + Axios](https://dev.to/tan_jung/next-js-swr-axios-3ae6)
 - [Dev.to/JS] [CodeSmash - Building in Public - Add Stacks to the Canvas](https://dev.to/mariostopfer/codesmash-building-in-public-add-stacks-to-the-canvas-4jo6)
 - [Dev.to/JS] [Building a Simple Server with Node.js and Express](https://dev.to/ibroraheem/building-a-simple-server-with-nodejs-and-express-2l49)
 - [Dev.to/JS] [Using NodeJS and ExpressJs for Backend Development.](https://dev.to/manuel__dev/using-nodejs-and-expressjs-for-backend-development-2l48)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a Multiple Instances Socket React Context Library: a Step-by-Step Guide](https://dev.to/mukul_/create-a-multiple-instances-socket-react-context-library-a-step-by-step-guide-3hj0)
 - [Lifehacker] [You Could Be Falling for the Dunning-Kruger Effect and Not Even Know It](https://lifehacker.com/you-could-be-falling-for-the-dunning-kruger-effect-and-1850113520)
 - [Lifehacker] [Make This Cheap Pasta Sauce With Browned Butter and Tomato Paste](https://lifehacker.com/make-this-cheap-pasta-sauce-with-browned-butter-and-tom-1850114507)
-- [Dev.to/JS] [Object Destructuring in JavaScript](https://dev.to/anthonys1760/object-destructuring-in-javascript-2gjl)
 - [Lifehacker] [The 11 Biggest Movie Trailers From the Super Bowl &lpar;and What to Watch Before They Premiere&rpar;](https://lifehacker.com/the-11-biggest-movie-trailers-from-the-super-bowl-and-1850112794)
 - [Lifehacker] [TikTokers Are Hot-Wiring These Hyundai and Kia Cars](https://lifehacker.com/tiktokers-are-hot-wiring-these-hyundai-and-kia-cars-1850113943)
 - [Lifehacker] [15 Unexpected Household Uses for Baby Powder](https://lifehacker.com/15-unexpected-household-uses-for-baby-powder-1850113735)
