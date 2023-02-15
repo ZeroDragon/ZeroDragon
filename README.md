@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Practical Approach to Automated Accessibility](https://dev.to/steady5063/a-practical-approach-to-automated-accessibility-1h88)
+- [Dev.to/JS] [Navigate Your Way Through Web Development](https://dev.to/anarchymonkey/navigate-your-way-through-web-development-55ei)
 - [Dev.to/JS] [Puppeteer unknown error.](https://dev.to/sonukarn21/puppeteer-unknown-error-2a6a)
 - [Dev.to/JS] [Next JS + SWR + Axios](https://dev.to/tan_jung/next-js-swr-axios-3ae6)
 - [Dev.to/JS] [CodeSmash - Building in Public - Add Stacks to the Canvas](https://dev.to/mariostopfer/codesmash-building-in-public-add-stacks-to-the-canvas-4jo6)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Domine el objeto Console de JavaScript: 5 técnicas esenciales para ahorrar tiempo y evitar errores](https://dev.to/joselatines/domine-el-objeto-console-de-javascript-5-tecnicas-esenciales-para-ahorrar-tiempo-y-evitar-errores-3580)
 - [Dev.to/JS] [Why I think prisma is unbeatable.](https://dev.to/sammy1999/why-i-think-prisma-is-unbeatable-3760)
 - [Dev.to/JS] [Introduction to EJS: A Guide to Building Dynamic Web Applications](https://dev.to/victrexx2002/introduction-to-ejs-a-guide-to-building-dynamic-web-applications-2737)
-- [Dev.to/JS] [Using Node.js for Microservices Architecture](https://dev.to/folasayosamuel/using-nodejs-for-microservices-architecture-4b25)
-- [Dev.to/JS] [Maximize Your Client Upload Efficiency with the Bulk Upload](https://dev.to/mukul_/maximize-your-client-upload-efficiency-with-the-bulk-upload-45l4)
 - [Lifehacker] [You Could Be Falling for the Dunning-Kruger Effect and Not Even Know It](https://lifehacker.com/you-could-be-falling-for-the-dunning-kruger-effect-and-1850113520)
 - [Lifehacker] [Make This Cheap Pasta Sauce With Browned Butter and Tomato Paste](https://lifehacker.com/make-this-cheap-pasta-sauce-with-browned-butter-and-tom-1850114507)
 - [Lifehacker] [The 11 Biggest Movie Trailers From the Super Bowl &lpar;and What to Watch Before They Premiere&rpar;](https://lifehacker.com/the-11-biggest-movie-trailers-from-the-super-bowl-and-1850112794)
