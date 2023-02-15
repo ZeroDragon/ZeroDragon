@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Put Fancy Cheese on Some Graham Crackers](https://lifehacker.com/put-fancy-cheese-on-some-graham-crackers-1850119525)
+- [Dev.to/JS] [MERN Stack: A Beginner&#39;s guide](https://dev.to/anni/mern-stack-a-beginners-guide-2dl4)
+- [Lifehacker] [Bless Your Potatoes With Bacon Dip](https://lifehacker.com/bless-your-potatoes-with-bacon-dip-1850119698)
+- [Dev.to/JS] [3 things to take care while making multi-level dropdown Menus](https://dev.to/parthgupta118/3-things-to-keep-in-mind-while-making-multi-level-dropdown-menus-or-navbar-5727)
+- [Dev.to/JS] [Checking a URI string is valid in JavaScript](https://dev.to/samconibear/checking-a-uri-string-is-valid-in-javascript-1odj)
 - [Lifehacker] [What Is Marburg Virus &lpar;and How Much Should I Worry About It&rpar;?](https://lifehacker.com/what-is-marburg-virus-and-how-much-should-i-worry-abou-1850119986)
+- [Dev.to/JS] [What&#39;s On The Other Side of the World?](https://dev.to/kimchoijjiggae/whats-on-the-other-side-of-the-world-2dd7)
 - [Lifehacker] [Now Is the Best Time to Sign Up for a Costco Membership](https://lifehacker.com/now-is-the-best-time-to-sign-up-for-a-costco-membership-1850119198)
 - [Dev.to/JS] [Understanding Javascript: filter&lpar;&rpar; Out the Noise](https://dev.to/jsnelson_/understanding-javascript-filter-out-the-noise-3da5)
 - [Lifehacker] [Repairs That Aren&#39;t Actually Your Landlord&#39;s Responsibility](https://lifehacker.com/repairs-that-arent-actually-your-landlords-responsibili-1850118214)
@@ -39,11 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Blog from Scratch with HTML, CSS, and JavaScript: A Step-by-Step Guide](https://dev.to/webmonster/building-a-blog-from-scratch-with-html-css-and-javascript-a-step-by-step-guide-3pb)
 - [Lifehacker] [9 Traditional Treats for Fat Tuesday &lpar;and All the Other Fat Days Too&rpar;](https://lifehacker.com/9-traditional-treats-for-fat-tuesday-and-all-the-other-1850118038)
 - [Dev.to/JS] [HTML: Form Input Types](https://dev.to/oluwatrillions/html-form-input-types-8h6)
-- [Dev.to/JS] [Alternative to AWS Mock](https://dev.to/jesterxl/alternative-to-aws-mock-1ed2)
-- [Dev.to/JS] [BFS pattern](https://dev.to/986913/bfs-pattern-2edj)
-- [Dev.to/JS] [Improving styling skills through daily coding challenges](https://dev.to/aneeqakhan/improving-styling-skills-by-daily-coding-challenges-26be)
 - [Lifehacker] [All the Ways You Can Use Bar Keepers Friend &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-bar-keepers-friend-but-arent-1850117590)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Sobre 2 conjuntos.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-sobre-2-conjuntos-33e8)
 - [Lifehacker] [How to Cancel a Subscription Online Even When the Company Doesn’t Want You To](https://lifehacker.com/how-to-cancel-a-subscription-online-even-when-the-compa-1850117577)
 - [Lifehacker] [How Often You Really Need to Replace Your Mop, Sponges, and Other Cleaning Supplies](https://lifehacker.com/how-often-you-really-need-to-replace-your-mop-sponges-1850117996)
 - [Lifehacker] [How to Delete Spam Calendars From Your iPhone](https://lifehacker.com/how-to-delete-spam-calendars-from-your-iphone-1849958726)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Try Microsoft&#39;s New ChatGPT-Powered AI Search](https://lifehacker.com/how-to-try-microsofts-new-chatgpt-powered-ai-search-1850113463)
 - [Lifehacker] [Stir Fry Your Leftover Pasta for a Crispy Treat](https://lifehacker.com/stir-fry-your-leftover-pasta-for-a-crispy-treat-1850113486)
 - [Lifehacker] [Feast on Free Popeye’s Spicy Chicken Sandwiches All Week Long](https://lifehacker.com/feast-on-free-popeye-s-spicy-chicken-sandwiches-all-wee-1850113134)
-- [Lifehacker] [You Should Update Your Apple Devices Right Away](https://lifehacker.com/you-should-update-your-apple-devices-right-away-1850112825)
-- [Lifehacker] [Here’s When You Need to Form a Tenant Association](https://lifehacker.com/here-s-when-you-need-to-form-a-tenant-association-1850112811)
-- [Lifehacker] [The Easiest Way to Add Hyperlinks in Notes and Mail on Your iPhone](https://lifehacker.com/the-easiest-way-to-add-hyperlinks-in-notes-and-mail-on-1850111673)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Update Your Apple Devices Right Away](https://lifehacker.com/you-should-update-your-apple-devices-right-away-1850112825)<!-- TECH-POSTS:END -->
 
 ---
 
