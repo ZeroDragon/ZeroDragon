@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started with JavaScript Switch Case: A Beginner&#39;s Guide](https://dev.to/baransel/getting-started-with-javascript-switch-case-a-beginners-guide-417a)
+- [Dev.to/JS] [Astro Cookies API: Cookies on HTTP Requests](https://dev.to/askrodney/astro-cookies-api-cookies-on-http-requests-4fn5)
 - [Dev.to/JS] [JavaScript code block with Switch statements](https://dev.to/haastrupea/javascript-code-block-with-switch-statements-1m2i)
 - [Dev.to/JS] [Basic End To End Encryption With Crypto](https://dev.to/lambstar/basic-end-to-end-encryption-with-crypto-2gh7)
 - [Dev.to/JS] [#refineweek: Setting Up the Client App](https://dev.to/refine/refineweek-setting-up-the-client-app-5722)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building Your Own Intelligent Chatbot with ChatGPT and Botpress: A Step-by-Step Guide - Part-5](https://dev.to/monu181/building-your-own-intelligent-chatbot-with-chatgpt-and-botpress-a-step-by-step-guide-part-5-1i5c)
 - [Dev.to/JS] [Building Your Own Intelligent Chatbot with ChatGPT and Botpress: A Step-by-Step Guide - Part-3](https://dev.to/monu181/building-your-own-intelligent-chatbot-with-chatgpt-and-botpress-a-step-by-step-guide-part-3-53lo)
 - [Dev.to/JS] [Formatting big numbers using Intl.NumberFormat](https://dev.to/nikolasbarwicki/formatting-big-numbers-using-intlnumberformat-5397)
-- [Dev.to/JS] [10 Node JS Interview Questions](https://dev.to/himanshudevgupta/10-node-js-interview-questions-26jn)
-- [Dev.to/JS] [Comparing Babel, Sucrase, and Similar Libraries](https://dev.to/honeybadger/comparing-babel-sucrase-and-similar-libraries-12g3)
 - [Lifehacker] [You Could Be Falling for the Dunning-Kruger Effect and Not Even Know It](https://lifehacker.com/you-could-be-falling-for-the-dunning-kruger-effect-and-1850113520)
 - [Lifehacker] [Make This Cheap Pasta Sauce With Browned Butter and Tomato Paste](https://lifehacker.com/make-this-cheap-pasta-sauce-with-browned-butter-and-tom-1850114507)
 - [Lifehacker] [The 11 Biggest Movie Trailers From the Super Bowl &lpar;and What to Watch Before They Premiere&rpar;](https://lifehacker.com/the-11-biggest-movie-trailers-from-the-super-bowl-and-1850112794)
