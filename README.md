@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CodeSmash - Building in Public - Add Stacks to the Canvas](https://dev.to/mariostopfer/codesmash-building-in-public-add-stacks-to-the-canvas-4jo6)
+- [Dev.to/JS] [Building a Simple Server with Node.js and Express](https://dev.to/ibroraheem/building-a-simple-server-with-nodejs-and-express-2l49)
+- [Dev.to/JS] [Using NodeJS and ExpressJs for Backend Development.](https://dev.to/manuel__dev/using-nodejs-and-expressjs-for-backend-development-2l48)
+- [Dev.to/JS] [Better Alerts with Sweetalert2 for React apps](https://dev.to/asayerio_techblog/better-alerts-with-sweetalert2-for-react-apps-1bo)
 - [Dev.to/JS] [Integrating the Cache API with Service Workers](https://dev.to/asayerio_techblog/integrating-the-cache-api-with-service-workers-174n)
 - [Dev.to/JS] [Domine el objeto Console de JavaScript: 5 técnicas esenciales para ahorrar tiempo y evitar errores](https://dev.to/joselatines/domine-el-objeto-console-de-javascript-5-tecnicas-esenciales-para-ahorrar-tiempo-y-evitar-errores-3580)
 - [Dev.to/JS] [Why I think prisma is unbeatable.](https://dev.to/sammy1999/why-i-think-prisma-is-unbeatable-3760)
@@ -33,13 +37,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Could Be Falling for the Dunning-Kruger Effect and Not Even Know It](https://lifehacker.com/you-could-be-falling-for-the-dunning-kruger-effect-and-1850113520)
 - [Lifehacker] [Make This Cheap Pasta Sauce With Browned Butter and Tomato Paste](https://lifehacker.com/make-this-cheap-pasta-sauce-with-browned-butter-and-tom-1850114507)
 - [Dev.to/JS] [Object Destructuring in JavaScript](https://dev.to/anthonys1760/object-destructuring-in-javascript-2gjl)
-- [Dev.to/JS] [Configure CORS in SvelteKit to make fetch requests to your API routes from a different host](https://dev.to/khromov/configure-cors-in-sveltekit-to-make-fetch-requests-to-your-api-routes-from-a-different-host-241k)
 - [Lifehacker] [The 11 Biggest Movie Trailers From the Super Bowl &lpar;and What to Watch Before They Premiere&rpar;](https://lifehacker.com/the-11-biggest-movie-trailers-from-the-super-bowl-and-1850112794)
 - [Lifehacker] [TikTokers Are Hot-Wiring These Hyundai and Kia Cars](https://lifehacker.com/tiktokers-are-hot-wiring-these-hyundai-and-kia-cars-1850113943)
-- [Dev.to/JS] [Error tracking with Sentry](https://dev.to/zsevic/error-tracking-with-sentry-2ma5)
-- [Dev.to/JS] [Rome](https://dev.to/celest67/rome-4no5)
 - [Lifehacker] [15 Unexpected Household Uses for Baby Powder](https://lifehacker.com/15-unexpected-household-uses-for-baby-powder-1850113735)
-- [Dev.to/JS] [How lengthy does it take to analyze C++ for beginners?](https://dev.to/thomas23459/how-lengthy-does-it-take-to-analyze-c-for-beginners-4969)
 - [Lifehacker] [How to Try Microsoft&#39;s New ChatGPT-Powered AI Search](https://lifehacker.com/how-to-try-microsofts-new-chatgpt-powered-ai-search-1850113463)
 - [Lifehacker] [Stir Fry Your Leftover Pasta for a Crispy Treat](https://lifehacker.com/stir-fry-your-leftover-pasta-for-a-crispy-treat-1850113486)
 - [Lifehacker] [Feast on Free Popeye’s Spicy Chicken Sandwiches All Week Long](https://lifehacker.com/feast-on-free-popeye-s-spicy-chicken-sandwiches-all-wee-1850113134)
