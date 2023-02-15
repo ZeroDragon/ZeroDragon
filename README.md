@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Integrating the Cache API with Service Workers](https://dev.to/asayerio_techblog/integrating-the-cache-api-with-service-workers-174n)
+- [Dev.to/JS] [Domine el objeto Console de JavaScript: 5 técnicas esenciales para ahorrar tiempo y evitar errores](https://dev.to/joselatines/domine-el-objeto-console-de-javascript-5-tecnicas-esenciales-para-ahorrar-tiempo-y-evitar-errores-3580)
+- [Dev.to/JS] [Why I think prisma is unbeatable.](https://dev.to/sammy1999/why-i-think-prisma-is-unbeatable-3760)
+- [Dev.to/JS] [Introduction to EJS: A Guide to Building Dynamic Web Applications](https://dev.to/victrexx2002/introduction-to-ejs-a-guide-to-building-dynamic-web-applications-2737)
 - [Dev.to/JS] [Using Node.js for Microservices Architecture](https://dev.to/folasayosamuel/using-nodejs-for-microservices-architecture-4b25)
 - [Dev.to/JS] [Maximize Your Client Upload Efficiency with the Bulk Upload](https://dev.to/mukul_/maximize-your-client-upload-efficiency-with-the-bulk-upload-45l4)
 - [Dev.to/JS] [Create a Multiple Instances Socket React Context Library: a Step-by-Step Guide](https://dev.to/mukul_/create-a-multiple-instances-socket-react-context-library-a-step-by-step-guide-3hj0)
@@ -36,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rome](https://dev.to/celest67/rome-4no5)
 - [Lifehacker] [15 Unexpected Household Uses for Baby Powder](https://lifehacker.com/15-unexpected-household-uses-for-baby-powder-1850113735)
 - [Dev.to/JS] [How lengthy does it take to analyze C++ for beginners?](https://dev.to/thomas23459/how-lengthy-does-it-take-to-analyze-c-for-beginners-4969)
-- [Dev.to/JS] [#refineweek: Pilot &amp; refine architecture](https://dev.to/refine/refineweek-pilot-refine-architecture-dg3)
-- [Dev.to/JS] [How to set default route in Vue.js with Vue Router!](https://dev.to/caio2k/how-to-set-default-route-in-vuejs-with-vue-router-1cd1)
 - [Lifehacker] [How to Try Microsoft&#39;s New ChatGPT-Powered AI Search](https://lifehacker.com/how-to-try-microsofts-new-chatgpt-powered-ai-search-1850113463)
-- [Dev.to/JS] [Compound components pattern for creating reusable Rating component](https://dev.to/ngoy_luckson/compound-components-pattern-for-creating-reusable-rating-component-1cne)
-- [Dev.to/JS] [JavaScript Tutorial Series: String methods](https://dev.to/fullstackjo/javascript-tutorial-series-string-methods-2o3f)
 - [Lifehacker] [Stir Fry Your Leftover Pasta for a Crispy Treat](https://lifehacker.com/stir-fry-your-leftover-pasta-for-a-crispy-treat-1850113486)
 - [Lifehacker] [Feast on Free Popeye’s Spicy Chicken Sandwiches All Week Long](https://lifehacker.com/feast-on-free-popeye-s-spicy-chicken-sandwiches-all-wee-1850113134)
 - [Lifehacker] [You Should Update Your Apple Devices Right Away](https://lifehacker.com/you-should-update-your-apple-devices-right-away-1850112825)
