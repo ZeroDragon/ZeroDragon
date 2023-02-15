@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don’t Preheat Your Oven Before Cooking Chicken Thighs](https://lifehacker.com/don-t-preheat-your-oven-before-cooking-chicken-thighs-1850115340)
+- [Dev.to/JS] [👀 Visualizing: Execution Context in JavaScript](https://dev.to/catherineisonline/visualizing-execution-context-in-javascript-50k)
+- [Lifehacker] [9 of the Most Dangerous Driving Emergencies &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/9-of-the-most-dangerous-driving-emergencies-and-how-to-1850115196)
+- [Dev.to/JS] [Mapeando objetos com o `in keyof` do Typescript](https://dev.to/censuradho/mapeando-objetos-com-o-in-keyof-do-typescript-8h9)
+- [Dev.to/JS] [Auto-colorize Google Docs](https://dev.to/schmijos/auto-colorize-google-docs-k7f)
+- [Dev.to/JS] [React’s Virtual DOM: Headache or Painkiller for Developers? 🤒](https://dev.to/karanjrawal/reacts-virtual-dom-headache-or-painkiller-for-developers-3nd)
+- [Dev.to/JS] [Don&#39;t miss on the cloud revolution, learn serverless on AWS the right way](https://dev.to/kumo/dont-miss-on-the-cloud-revolution-learn-serverless-on-aws-the-right-way-1kac)
 - [Lifehacker] [10 of the Stupidest Fees and How to Avoid Them](https://lifehacker.com/10-of-the-biggest-bullshit-fees-and-how-to-avoid-payin-1850114840)
 - [Dev.to/JS] [What exactly are JavaScript Statements?](https://dev.to/max88git/what-exactly-are-javascript-statements-2198)
 - [Dev.to/JS] [React Tutorial: A Comprehensive Guide for Beginners &lpar;2023&rpar;](https://dev.to/ibaslogic/react-tutorial-a-comprehensive-guide-for-beginners-2023-3k7n)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript code block with Switch statements](https://dev.to/haastrupea/javascript-code-block-with-switch-statements-1m2i)
 - [Dev.to/JS] [Basic End To End Encryption With Crypto](https://dev.to/lambstar/basic-end-to-end-encryption-with-crypto-2gh7)
 - [Dev.to/JS] [#refineweek: Setting Up the Client App](https://dev.to/refine/refineweek-setting-up-the-client-app-5722)
-- [Dev.to/JS] [A Complete Guide To AngularJS Testing](https://dev.to/lambdatest/a-complete-guide-to-angularjs-testing-3gh1)
-- [Dev.to/JS] [When JavaScript regex can surprise you - a silly bug story](https://dev.to/elwin013/when-javascript-regex-can-surprise-you-a-silly-bug-story-101f)
-- [Dev.to/JS] [Unleashing the full power of Middleware with Enterspeed ⚡](https://dev.to/enterspeed/unleashing-the-full-power-of-middleware-with-enterspeed-4gm3)
-- [Dev.to/JS] [Why and how to create an Event Bus in Vuejs 3](https://dev.to/inspector/why-and-how-to-create-an-event-bus-in-vuejs-3-2hj6)
-- [Dev.to/JS] [Building Your Own Intelligent Chatbot with ChatGPT and Botpress: A Step-by-Step Guide - Part-5](https://dev.to/monu181/building-your-own-intelligent-chatbot-with-chatgpt-and-botpress-a-step-by-step-guide-part-5-1i5c)
 - [Lifehacker] [You Could Be Falling for the Dunning-Kruger Effect and Not Even Know It](https://lifehacker.com/you-could-be-falling-for-the-dunning-kruger-effect-and-1850113520)
 - [Lifehacker] [Make This Cheap Pasta Sauce With Browned Butter and Tomato Paste](https://lifehacker.com/make-this-cheap-pasta-sauce-with-browned-butter-and-tom-1850114507)
 - [Lifehacker] [The 11 Biggest Movie Trailers From the Super Bowl &lpar;and What to Watch Before They Premiere&rpar;](https://lifehacker.com/the-11-biggest-movie-trailers-from-the-super-bowl-and-1850112794)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Keep Your Natural Peanut Butter From Separating, and How to Remix It When It Does](https://lifehacker.com/keep-your-natural-peanut-butter-from-separating-and-ho-1850109148)
 - [Lifehacker] [Don&#39;t Feed Your Dog This Recalled Dry Food](https://lifehacker.com/dont-feed-your-dog-this-recalled-dry-food-1850109025)
 - [Lifehacker] [Please Clean Your Spice Jars](https://lifehacker.com/why-you-need-to-clean-your-spice-jars-1850108799)
-- [Lifehacker] [Why Your Free Credit Score Doesn’t Always Add Up](https://lifehacker.com/why-your-free-credit-score-doesn-t-always-add-up-1850107515)
-- [Lifehacker] [8 Surprising Household Uses for Razor Blades](https://lifehacker.com/8-surprising-household-uses-for-razor-blades-1850108754)
-- [Lifehacker] [There&#39;s a Secret Way to Restart Your iPhone](https://lifehacker.com/theres-a-secret-way-to-restart-your-iphone-1850107814)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Your Free Credit Score Doesn’t Always Add Up](https://lifehacker.com/why-your-free-credit-score-doesn-t-always-add-up-1850107515)<!-- TECH-POSTS:END -->
 
 ---
 
