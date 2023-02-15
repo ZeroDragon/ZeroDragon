@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript code block with Switch statements](https://dev.to/haastrupea/javascript-code-block-with-switch-statements-1m2i)
+- [Dev.to/JS] [Basic End To End Encryption With Crypto](https://dev.to/lambstar/basic-end-to-end-encryption-with-crypto-2gh7)
+- [Dev.to/JS] [#refineweek: Setting Up the Client App](https://dev.to/refine/refineweek-setting-up-the-client-app-5722)
 - [Dev.to/JS] [A Complete Guide To AngularJS Testing](https://dev.to/lambdatest/a-complete-guide-to-angularjs-testing-3gh1)
 - [Dev.to/JS] [When JavaScript regex can surprise you - a silly bug story](https://dev.to/elwin013/when-javascript-regex-can-surprise-you-a-silly-bug-story-101f)
 - [Dev.to/JS] [Unleashing the full power of Middleware with Enterspeed ⚡](https://dev.to/enterspeed/unleashing-the-full-power-of-middleware-with-enterspeed-4gm3)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Formatting big numbers using Intl.NumberFormat](https://dev.to/nikolasbarwicki/formatting-big-numbers-using-intlnumberformat-5397)
 - [Dev.to/JS] [10 Node JS Interview Questions](https://dev.to/himanshudevgupta/10-node-js-interview-questions-26jn)
 - [Dev.to/JS] [Comparing Babel, Sucrase, and Similar Libraries](https://dev.to/honeybadger/comparing-babel-sucrase-and-similar-libraries-12g3)
-- [Dev.to/JS] [How to fix QuickBooks error 20: Printer not activated problem?](https://dev.to/anisawilliam70/how-to-fix-quickbooks-error-20-printer-not-activated-problem-160k)
-- [Dev.to/JS] [How to approach tutorials to avoid tutorials hell](https://dev.to/annoh_karlgusta/how-to-approach-tutorials-to-avoid-tutorials-hell-3egk)
-- [Dev.to/JS] [What are the 5 C&#39;s of content material creation?](https://dev.to/thomas23459/what-are-the-5-cs-of-content-material-creation-2kk2)
 - [Lifehacker] [You Could Be Falling for the Dunning-Kruger Effect and Not Even Know It](https://lifehacker.com/you-could-be-falling-for-the-dunning-kruger-effect-and-1850113520)
 - [Lifehacker] [Make This Cheap Pasta Sauce With Browned Butter and Tomato Paste](https://lifehacker.com/make-this-cheap-pasta-sauce-with-browned-butter-and-tom-1850114507)
 - [Lifehacker] [The 11 Biggest Movie Trailers From the Super Bowl &lpar;and What to Watch Before They Premiere&rpar;](https://lifehacker.com/the-11-biggest-movie-trailers-from-the-super-bowl-and-1850112794)
