@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Is Marburg Virus &lpar;and How Much Should I Worry About It&rpar;?](https://lifehacker.com/what-is-marburg-virus-and-how-much-should-i-worry-abou-1850119986)
+- [Lifehacker] [Now Is the Best Time to Sign Up for a Costco Membership](https://lifehacker.com/now-is-the-best-time-to-sign-up-for-a-costco-membership-1850119198)
+- [Dev.to/JS] [Understanding Javascript: filter&lpar;&rpar; Out the Noise](https://dev.to/jsnelson_/understanding-javascript-filter-out-the-noise-3da5)
 - [Lifehacker] [Repairs That Aren&#39;t Actually Your Landlord&#39;s Responsibility](https://lifehacker.com/repairs-that-arent-actually-your-landlords-responsibili-1850118214)
 - [Lifehacker] [15 of the Cleverest Ways to Use Zip Ties Around the House](https://lifehacker.com/15-of-the-cleverest-ways-to-use-zip-ties-around-the-hou-1850117768)
 - [Lifehacker] [&#39;General Delivery&#39; Is Almost As Good As a PO Box](https://lifehacker.com/general-delivery-is-almost-as-good-as-a-po-box-1850118313)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways You Can Use Bar Keepers Friend &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-bar-keepers-friend-but-arent-1850117590)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Sobre 2 conjuntos.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-sobre-2-conjuntos-33e8)
 - [Lifehacker] [How to Cancel a Subscription Online Even When the Company Doesn’t Want You To](https://lifehacker.com/how-to-cancel-a-subscription-online-even-when-the-compa-1850117577)
-- [Dev.to/JS] [Draggable element &amp; Cursor to see the filters separately](https://dev.to/amiru_weerathunga/draggable-element-cursor-to-see-the-filters-separately-2fk1)
 - [Lifehacker] [How Often You Really Need to Replace Your Mop, Sponges, and Other Cleaning Supplies](https://lifehacker.com/how-often-you-really-need-to-replace-your-mop-sponges-1850117996)
 - [Lifehacker] [How to Delete Spam Calendars From Your iPhone](https://lifehacker.com/how-to-delete-spam-calendars-from-your-iphone-1849958726)
 - [Lifehacker] [This Link-Sharing App Is Better Than AirDrop](https://lifehacker.com/this-link-sharing-app-is-better-than-airdrop-1850116921)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Feast on Free Popeye’s Spicy Chicken Sandwiches All Week Long](https://lifehacker.com/feast-on-free-popeye-s-spicy-chicken-sandwiches-all-wee-1850113134)
 - [Lifehacker] [You Should Update Your Apple Devices Right Away](https://lifehacker.com/you-should-update-your-apple-devices-right-away-1850112825)
 - [Lifehacker] [Here’s When You Need to Form a Tenant Association](https://lifehacker.com/here-s-when-you-need-to-form-a-tenant-association-1850112811)
-- [Lifehacker] [The Easiest Way to Add Hyperlinks in Notes and Mail on Your iPhone](https://lifehacker.com/the-easiest-way-to-add-hyperlinks-in-notes-and-mail-on-1850111673)
-- [Lifehacker] [This Is How Much Tuna You Can Safely Eat](https://lifehacker.com/this-is-how-much-tuna-you-can-safely-eat-1850112388)
-- [Lifehacker] [Why Stupidity Is More Dangerous Than Evil](https://lifehacker.com/why-stupidity-is-more-dangerous-than-evil-1850111074)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Add Hyperlinks in Notes and Mail on Your iPhone](https://lifehacker.com/the-easiest-way-to-add-hyperlinks-in-notes-and-mail-on-1850111673)<!-- TECH-POSTS:END -->
 
 ---
 
