@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Repairs That Aren&#39;t Actually Your Landlord&#39;s Responsibility](https://lifehacker.com/repairs-that-arent-actually-your-landlords-responsibili-1850118214)
+- [Lifehacker] [15 of the Cleverest Ways to Use Zip Ties Around the House](https://lifehacker.com/15-of-the-cleverest-ways-to-use-zip-ties-around-the-hou-1850117768)
+- [Lifehacker] [&#39;General Delivery&#39; Is Almost As Good As a PO Box](https://lifehacker.com/general-delivery-is-almost-as-good-as-a-po-box-1850118313)
 - [Dev.to/JS] [Integrate reCaptcha V3 on Nuxt3 app](https://dev.to/elquimeras/integrate-recaptcha-v3-on-nuxt3-app-1gma)
 - [Lifehacker] [Nissan Is Recalling 400,000 Older Vehicles for Dangerous Airbag Issue](https://lifehacker.com/nissan-is-recalling-400-000-older-vehicles-for-dangerou-1850118242)
 - [Dev.to/JS] [JavaScript Tutorial Series: Array Methods](https://dev.to/fullstackjo/javascript-tutorial-series-array-methods-214h)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s When You Need to Form a Tenant Association](https://lifehacker.com/here-s-when-you-need-to-form-a-tenant-association-1850112811)
 - [Lifehacker] [The Easiest Way to Add Hyperlinks in Notes and Mail on Your iPhone](https://lifehacker.com/the-easiest-way-to-add-hyperlinks-in-notes-and-mail-on-1850111673)
 - [Lifehacker] [This Is How Much Tuna You Can Safely Eat](https://lifehacker.com/this-is-how-much-tuna-you-can-safely-eat-1850112388)
-- [Lifehacker] [Why Stupidity Is More Dangerous Than Evil](https://lifehacker.com/why-stupidity-is-more-dangerous-than-evil-1850111074)
-- [Lifehacker] [The Pros and Cons of Having a Work Spouse](https://lifehacker.com/the-pros-and-cons-of-having-a-work-spouse-1850109997)
-- [Lifehacker] [Don’t Log In to Websites With ‘Sites’ in the URL](https://lifehacker.com/don-t-log-in-to-websites-with-sites-in-the-url-1850110238)
-- [Lifehacker] [Get Your Chocolate Fix With This Greek Yogurt &#39;Pudding&#39;](https://lifehacker.com/get-your-chocolate-fix-with-this-greek-yogurt-pudding-1850110127)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Stupidity Is More Dangerous Than Evil](https://lifehacker.com/why-stupidity-is-more-dangerous-than-evil-1850111074)<!-- TECH-POSTS:END -->
 
 ---
 
