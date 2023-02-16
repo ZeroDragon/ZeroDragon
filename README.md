@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Variable Declarations JavaScript Edition](https://dev.to/clevercoderjoy/variable-declarations-javascript-edition-ea5)
+- [Dev.to/JS] [What`s new Map&lpar;&rpar;?](https://dev.to/lausuarez02/whats-new-map-3hgn)
+- [Dev.to/JS] [Svelte and Tailwind for building Chrome Extension](https://dev.to/codegino/svelte-and-tailwind-for-building-chrome-extension-3p4o)
+- [Lifehacker] [Our Founding Fathers Would Want You to Have These Nice Pots and Pans](https://lifehacker.com/our-founding-fathers-would-want-you-to-have-these-nice-1850123464)
+- [Dev.to/JS] [Using Sendinblue email API to send transactional emails](https://dev.to/frazie/using-sendinblue-email-api-to-send-transactional-emails-5heh)
+- [Lifehacker] [Fasted Morning Workouts Aren&#39;t a Fat-Burning Hack](https://lifehacker.com/fasted-morning-workouts-arent-a-fat-burning-hack-1850123192)
 - [Lifehacker] [Not All Cloud Bread Is Created Equal](https://lifehacker.com/not-all-cloud-bread-is-created-equal-1850122674)
 - [Dev.to/JS] [HTML+CSS Workshop](https://dev.to/razbakov/htmlcss-workshop-283h)
 - [Dev.to/JS] [How to Add Speech AI Into Your Next.js App](https://dev.to/deepgram/how-to-add-speech-ai-into-your-nextjs-app-491b)
@@ -36,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js 13 — introduction](https://dev.to/oskidev/nextjs-13-introduction-dhl)
 - [Lifehacker] [How to Handle an Emotionally Immature Parent](https://lifehacker.com/how-to-handle-an-emotionally-immature-parent-1850122477)
 - [Dev.to/JS] [Palindrome number - LeetCode](https://dev.to/zuzexx/palindrome-number-leetcode-103o)
-- [Dev.to/JS] [MVC - Modern Website Architecture](https://dev.to/sarahadewale/mvc-modern-website-architecture-1j6l)
 - [Lifehacker] [How to Avoid Lead and Cadmium in Chocolate](https://lifehacker.com/how-to-avoid-lead-and-cadmium-in-chocolate-1850120929)
-- [Dev.to/JS] [How to make animations with Vuejs](https://dev.to/andrewzach/how-to-make-animations-with-vuejs-jp2)
-- [Dev.to/JS] [TypeScript vs JavaScript](https://dev.to/mujtaba4li/typescript-vs-javascript-121j)
 - [Lifehacker] [9 Food Labels That Don’t Mean What You Think They Mean](https://lifehacker.com/9-food-labels-that-don-t-mean-what-you-think-they-mean-1850121752)
-- [Dev.to/JS] [First Steps With TinyBase](https://dev.to/parenttobias/first-steps-with-tinybase-1ola)
 - [Lifehacker] [&#39;Winnie The Pooh: Blood and Honey&#39; and 11 More Horror Movies Based on Kids&#39; Characters](https://lifehacker.com/winnie-the-pooh-blood-and-honey-and-11-more-horror-mov-1850121061)
 - [Lifehacker] [15 Ways to Build a Better Breakfast Sandwich](https://lifehacker.com/15-ways-to-build-a-better-breakfast-sandwich-1850119709)
 - [Lifehacker] [How to Reset Your Post-Pandemic Parental Health Anxiety](https://lifehacker.com/how-to-reset-your-post-pandemic-parental-health-anxiety-1850117622)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Often You Really Need to Replace Your Mop, Sponges, and Other Cleaning Supplies](https://lifehacker.com/how-often-you-really-need-to-replace-your-mop-sponges-1850117996)
 - [Lifehacker] [How to Delete Spam Calendars From Your iPhone](https://lifehacker.com/how-to-delete-spam-calendars-from-your-iphone-1849958726)
 - [Lifehacker] [This Link-Sharing App Is Better Than AirDrop](https://lifehacker.com/this-link-sharing-app-is-better-than-airdrop-1850116921)
-- [Lifehacker] [Music Is Making Your Hardest Video Games Even Harder](https://lifehacker.com/music-is-making-your-hardest-video-games-even-harder-1850115998)
-- [Lifehacker] [Don’t Preheat Your Oven Before Cooking Chicken Thighs](https://lifehacker.com/don-t-preheat-your-oven-before-cooking-chicken-thighs-1850115340)
-- [Lifehacker] [9 of the Most Dangerous Driving Emergencies &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/9-of-the-most-dangerous-driving-emergencies-and-how-to-1850115196)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Music Is Making Your Hardest Video Games Even Harder](https://lifehacker.com/music-is-making-your-hardest-video-games-even-harder-1850115998)<!-- TECH-POSTS:END -->
 
 ---
 
