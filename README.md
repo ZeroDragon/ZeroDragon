@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JSTools Weekly - 2023#6](https://dev.to/jstoolsweekly/jstools-weekly-20236-lk)
 - [Lifehacker] [Put Fancy Cheese on Some Graham Crackers](https://lifehacker.com/put-fancy-cheese-on-some-graham-crackers-1850119525)
 - [Dev.to/JS] [MERN Stack: A Beginner&#39;s guide](https://dev.to/anni/mern-stack-a-beginners-guide-2dl4)
 - [Lifehacker] [Bless Your Potatoes With Bacon Dip](https://lifehacker.com/bless-your-potatoes-with-bacon-dip-1850119698)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [[Typia] Universal Random Generator, which can make everything, just by only one line](https://dev.to/samchon/i-made-universal-random-generator-which-can-make-everything-by-just-only-one-line-4mhm)
 - [Dev.to/JS] [Building a Blog from Scratch with HTML, CSS, and JavaScript: A Step-by-Step Guide](https://dev.to/webmonster/building-a-blog-from-scratch-with-html-css-and-javascript-a-step-by-step-guide-3pb)
 - [Lifehacker] [9 Traditional Treats for Fat Tuesday &lpar;and All the Other Fat Days Too&rpar;](https://lifehacker.com/9-traditional-treats-for-fat-tuesday-and-all-the-other-1850118038)
-- [Dev.to/JS] [HTML: Form Input Types](https://dev.to/oluwatrillions/html-form-input-types-8h6)
 - [Lifehacker] [All the Ways You Can Use Bar Keepers Friend &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-bar-keepers-friend-but-arent-1850117590)
 - [Lifehacker] [How to Cancel a Subscription Online Even When the Company Doesn’t Want You To](https://lifehacker.com/how-to-cancel-a-subscription-online-even-when-the-compa-1850117577)
 - [Lifehacker] [How Often You Really Need to Replace Your Mop, Sponges, and Other Cleaning Supplies](https://lifehacker.com/how-often-you-really-need-to-replace-your-mop-sponges-1850117996)
