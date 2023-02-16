@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Password Generator in 30 Seconds](https://dev.to/cstayyab/password-generator-in-30-seconds-2emi)
 - [Dev.to/JS] [Using React &quot;States&quot;](https://dev.to/yosileyid/using-react-states-4kak)
 - [Dev.to/JS] [Build your next website with Astro](https://dev.to/360macky/build-your-next-website-with-astro-40ip)
 - [Dev.to/JS] [Publishing A Package To NPM](https://dev.to/yosileyid/publishing-a-package-to-npm-4bm)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;General Delivery&#39; Is Almost As Good As a PO Box](https://lifehacker.com/general-delivery-is-almost-as-good-as-a-po-box-1850118313)
 - [Dev.to/JS] [Integrate reCaptcha V3 on Nuxt3 app](https://dev.to/elquimeras/integrate-recaptcha-v3-on-nuxt3-app-1gma)
 - [Lifehacker] [Nissan Is Recalling 400,000 Older Vehicles for Dangerous Airbag Issue](https://lifehacker.com/nissan-is-recalling-400-000-older-vehicles-for-dangerou-1850118242)
-- [Dev.to/JS] [JavaScript Tutorial Series: Array Methods](https://dev.to/fullstackjo/javascript-tutorial-series-array-methods-214h)
 - [Lifehacker] [Your Android Phone Can Feel so Much Faster](https://lifehacker.com/your-android-phone-can-feel-so-much-faster-1850118629)
 - [Lifehacker] [9 Traditional Treats for Fat Tuesday &lpar;and All the Other Fat Days Too&rpar;](https://lifehacker.com/9-traditional-treats-for-fat-tuesday-and-all-the-other-1850118038)
 - [Lifehacker] [All the Ways You Can Use Bar Keepers Friend &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-bar-keepers-friend-but-arent-1850117590)
