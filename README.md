@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [platform as a service with ISV Low code platform](https://dev.to/laradissouza99/platform-as-a-service-with-isv-low-code-platform-2c11)
+- [Lifehacker] [15 Ways to Build a Better Breakfast Sandwich](https://lifehacker.com/15-ways-to-build-a-better-breakfast-sandwich-1850119709)
 - [Lifehacker] [How to Reset Your Post-Pandemic Parental Health Anxiety](https://lifehacker.com/how-to-reset-your-post-pandemic-parental-health-anxiety-1850117622)
 - [Dev.to/JS] [Discovery Days at Medusa: How I created Cross Post tool from Notion](https://dev.to/medusajs/discovery-days-at-medusa-how-i-created-cross-post-tool-from-notion-491j)
 - [Dev.to/JS] [My learning journey to Javascript -Week 2](https://dev.to/hmmalic/my-learning-journey-to-javascript-week-2-58b9)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is React Too Complex ? A Critical Analysis.](https://dev.to/chrisspotless/is-react-too-complex-a-critical-analysis-3kme)
 - [Dev.to/JS] [Building a Simple Web App to Track Focus Time with Visibility API and Vanilla JavaScript](https://dev.to/netsi1964/building-a-simple-web-app-to-track-focus-time-with-visibility-api-and-vanilla-javascript-4259)
 - [Dev.to/JS] [Tricky JavaScript Interview Question Using Array And Object Destructuring Combined](https://dev.to/myogeshchavan97/tricky-javascript-interview-question-using-array-and-object-destructuring-combined-5399)
-- [Dev.to/JS] [How I Fix &quot;Error: Objects are not valid as a React child &lpar;found: [object Promise]&rpar;](https://dev.to/noibisdev/how-i-fix-error-objects-are-not-valid-as-a-react-child-found-object-promise-3hp4)
 - [Lifehacker] [Put Fancy Cheese on Some Graham Crackers](https://lifehacker.com/put-fancy-cheese-on-some-graham-crackers-1850119525)
 - [Lifehacker] [Bless Your Potatoes With Bacon Dip](https://lifehacker.com/bless-your-potatoes-with-bacon-dip-1850119698)
 - [Lifehacker] [What Is Marburg Virus &lpar;and How Much Should I Worry About It&rpar;?](https://lifehacker.com/what-is-marburg-virus-and-how-much-should-i-worry-abou-1850119986)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [TikTokers Are Hot-Wiring These Hyundai and Kia Cars](https://lifehacker.com/tiktokers-are-hot-wiring-these-hyundai-and-kia-cars-1850113943)
 - [Lifehacker] [15 Unexpected Household Uses for Baby Powder](https://lifehacker.com/15-unexpected-household-uses-for-baby-powder-1850113735)
 - [Lifehacker] [How to Try Microsoft&#39;s New ChatGPT-Powered AI Search](https://lifehacker.com/how-to-try-microsofts-new-chatgpt-powered-ai-search-1850113463)
-- [Lifehacker] [Stir Fry Your Leftover Pasta for a Crispy Treat](https://lifehacker.com/stir-fry-your-leftover-pasta-for-a-crispy-treat-1850113486)
-- [Lifehacker] [Feast on Free Popeye’s Spicy Chicken Sandwiches All Week Long](https://lifehacker.com/feast-on-free-popeye-s-spicy-chicken-sandwiches-all-wee-1850113134)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stir Fry Your Leftover Pasta for a Crispy Treat](https://lifehacker.com/stir-fry-your-leftover-pasta-for-a-crispy-treat-1850113486)<!-- TECH-POSTS:END -->
 
 ---
 
