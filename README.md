@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The difference between primitives and objects in JavaScript](https://dev.to/koich1/the-difference-between-primitives-and-objects-in-javascript-o6l)
+- [Dev.to/JS] [Porting my old dynamic form render from React to SolidJS](https://dev.to/ginollerena/porting-my-old-dynamic-form-render-from-react-to-solidjs-101a)
 - [Dev.to/JS] [Password Generator in 30 Seconds](https://dev.to/cstayyab/password-generator-in-30-seconds-2emi)
 - [Dev.to/JS] [Using React &quot;States&quot;](https://dev.to/yosileyid/using-react-states-4kak)
 - [Dev.to/JS] [Build your next website with Astro](https://dev.to/360macky/build-your-next-website-with-astro-40ip)
@@ -37,11 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is Marburg Virus &lpar;and How Much Should I Worry About It&rpar;?](https://lifehacker.com/what-is-marburg-virus-and-how-much-should-i-worry-abou-1850119986)
 - [Dev.to/JS] [What&#39;s On The Other Side of the World?](https://dev.to/kimchoijjiggae/whats-on-the-other-side-of-the-world-2dd7)
 - [Lifehacker] [Now Is the Best Time to Sign Up for a Costco Membership](https://lifehacker.com/now-is-the-best-time-to-sign-up-for-a-costco-membership-1850119198)
-- [Dev.to/JS] [Understanding Javascript: filter&lpar;&rpar; Out the Noise](https://dev.to/jsnelson_/understanding-javascript-filter-out-the-noise-3da5)
 - [Lifehacker] [Repairs That Aren&#39;t Actually Your Landlord&#39;s Responsibility](https://lifehacker.com/repairs-that-arent-actually-your-landlords-responsibili-1850118214)
 - [Lifehacker] [15 of the Cleverest Ways to Use Zip Ties Around the House](https://lifehacker.com/15-of-the-cleverest-ways-to-use-zip-ties-around-the-hou-1850117768)
 - [Lifehacker] [&#39;General Delivery&#39; Is Almost As Good As a PO Box](https://lifehacker.com/general-delivery-is-almost-as-good-as-a-po-box-1850118313)
-- [Dev.to/JS] [Integrate reCaptcha V3 on Nuxt3 app](https://dev.to/elquimeras/integrate-recaptcha-v3-on-nuxt3-app-1gma)
 - [Lifehacker] [Nissan Is Recalling 400,000 Older Vehicles for Dangerous Airbag Issue](https://lifehacker.com/nissan-is-recalling-400-000-older-vehicles-for-dangerou-1850118242)
 - [Lifehacker] [Your Android Phone Can Feel so Much Faster](https://lifehacker.com/your-android-phone-can-feel-so-much-faster-1850118629)
 - [Lifehacker] [9 Traditional Treats for Fat Tuesday &lpar;and All the Other Fat Days Too&rpar;](https://lifehacker.com/9-traditional-treats-for-fat-tuesday-and-all-the-other-1850118038)
