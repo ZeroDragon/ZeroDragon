@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.ts💊| #13: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-13-explica-este-codigo-typescript-1c87)
+- [Dev.to/JS] [Teleport do Vue.js 3 vs Portals do ReactJS: uma análise comparativa para lidar com elementos fora do contexto do componente pai.](https://dev.to/jow/teleport-do-vuejs-3-vs-portals-do-reactjs-uma-analise-comparativa-para-lidar-com-elementos-fora-do-contexto-do-componente-pai-2n3j)
 - [Dev.to/JS] [How to connect Nodejs to Mongodb Database &lpar;Two methods&rpar;](https://dev.to/shubhamathawane/how-to-connect-nodejs-to-mongodb-database-two-methods-336p)
 - [Dev.to/JS] [10 JavaScript Concepts For Every Programmer](https://dev.to/shivam_codenewbie/10-javascript-concepts-for-every-programmer-a7)
 - [Dev.to/JS] [Is React Too Complex ? A Critical Analysis.](https://dev.to/chrisspotless/is-react-too-complex-a-critical-analysis-3kme)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How does React Router location.state works?](https://dev.to/mbellagamba/how-does-react-router-locationstate-works-2b0c)
 - [Dev.to/JS] [Arrow Functions in JavaScript: From Complexity to Simplicity](https://dev.to/brianbogita/arrow-functions-in-javascript-from-complexity-to-simplicity-1ij1)
 - [Dev.to/JS] [Hello World](https://dev.to/timi_dev/hello-world-1l1l)
-- [Dev.to/JS] [What is your favorite React stack?](https://dev.to/codeofrelevancy/what-is-your-favorite-react-stack-4p)
-- [Dev.to/JS] [Next.js GitHub: The Ultimate Guide to Building and Deploying High-Performing Web Applications with React, Dynamic Routing](https://dev.to/monu181/nextjs-github-the-ultimate-guide-to-building-and-deploying-high-performing-web-applications-with-react-dynamic-routing-4h3m)
 - [Lifehacker] [Put Fancy Cheese on Some Graham Crackers](https://lifehacker.com/put-fancy-cheese-on-some-graham-crackers-1850119525)
 - [Lifehacker] [Bless Your Potatoes With Bacon Dip](https://lifehacker.com/bless-your-potatoes-with-bacon-dip-1850119698)
 - [Lifehacker] [What Is Marburg Virus &lpar;and How Much Should I Worry About It&rpar;?](https://lifehacker.com/what-is-marburg-virus-and-how-much-should-i-worry-abou-1850119986)
