@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Not All Cloud Bread Is Created Equal](https://lifehacker.com/not-all-cloud-bread-is-created-equal-1850122674)
+- [Dev.to/JS] [HTML+CSS Workshop](https://dev.to/razbakov/htmlcss-workshop-283h)
+- [Dev.to/JS] [How to Add Speech AI Into Your Next.js App](https://dev.to/deepgram/how-to-add-speech-ai-into-your-nextjs-app-491b)
 - [Lifehacker] [All the Different Saving Accounts You Need](https://lifehacker.com/all-the-different-saving-accounts-you-need-1850122921)
 - [Dev.to/JS] [useContext in React JS](https://dev.to/juliannehuynh/usecontext-in-react-js-28mo)
 - [Dev.to/JS] [How to Add TypeScript to Existing Next.js Project](https://dev.to/andrewsavetchuk/how-to-add-typescript-to-existing-nextjs-project-3n77)
@@ -40,10 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Food Labels That Don’t Mean What You Think They Mean](https://lifehacker.com/9-food-labels-that-don-t-mean-what-you-think-they-mean-1850121752)
 - [Dev.to/JS] [First Steps With TinyBase](https://dev.to/parenttobias/first-steps-with-tinybase-1ola)
 - [Lifehacker] [&#39;Winnie The Pooh: Blood and Honey&#39; and 11 More Horror Movies Based on Kids&#39; Characters](https://lifehacker.com/winnie-the-pooh-blood-and-honey-and-11-more-horror-mov-1850121061)
-- [Dev.to/JS] [platform as a service with ISV Low code platform](https://dev.to/laradissouza99/platform-as-a-service-with-isv-low-code-platform-2c11)
 - [Lifehacker] [15 Ways to Build a Better Breakfast Sandwich](https://lifehacker.com/15-ways-to-build-a-better-breakfast-sandwich-1850119709)
 - [Lifehacker] [How to Reset Your Post-Pandemic Parental Health Anxiety](https://lifehacker.com/how-to-reset-your-post-pandemic-parental-health-anxiety-1850117622)
-- [Dev.to/JS] [Discovery Days at Medusa: How I created Cross Post tool from Notion](https://dev.to/medusajs/discovery-days-at-medusa-how-i-created-cross-post-tool-from-notion-491j)
 - [Lifehacker] [Put Fancy Cheese on Some Graham Crackers](https://lifehacker.com/put-fancy-cheese-on-some-graham-crackers-1850119525)
 - [Lifehacker] [Bless Your Potatoes With Bacon Dip](https://lifehacker.com/bless-your-potatoes-with-bacon-dip-1850119698)
 - [Lifehacker] [What Is Marburg Virus &lpar;and How Much Should I Worry About It&rpar;?](https://lifehacker.com/what-is-marburg-virus-and-how-much-should-i-worry-abou-1850119986)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Link-Sharing App Is Better Than AirDrop](https://lifehacker.com/this-link-sharing-app-is-better-than-airdrop-1850116921)
 - [Lifehacker] [Music Is Making Your Hardest Video Games Even Harder](https://lifehacker.com/music-is-making-your-hardest-video-games-even-harder-1850115998)
 - [Lifehacker] [Don’t Preheat Your Oven Before Cooking Chicken Thighs](https://lifehacker.com/don-t-preheat-your-oven-before-cooking-chicken-thighs-1850115340)
-- [Lifehacker] [9 of the Most Dangerous Driving Emergencies &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/9-of-the-most-dangerous-driving-emergencies-and-how-to-1850115196)
-- [Lifehacker] [10 of the Stupidest Fees and How to Avoid Them](https://lifehacker.com/10-of-the-biggest-bullshit-fees-and-how-to-avoid-payin-1850114840)<!-- TECH-POSTS:END -->
+- [Lifehacker] [9 of the Most Dangerous Driving Emergencies &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/9-of-the-most-dangerous-driving-emergencies-and-how-to-1850115196)<!-- TECH-POSTS:END -->
 
 ---
 
