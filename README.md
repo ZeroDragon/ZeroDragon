@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Data Types](https://dev.to/khalildev/javascript-data-types-1ifl)
+- [Dev.to/JS] [Creating a coding first schedule](https://dev.to/schz_js/creating-a-coding-first-schedule-1mce)
 - [Dev.to/JS] [The difference between primitives and objects in JavaScript](https://dev.to/koich1/the-difference-between-primitives-and-objects-in-javascript-o6l)
 - [Dev.to/JS] [Porting my old dynamic form render from React to SolidJS](https://dev.to/ginollerena/porting-my-old-dynamic-form-render-from-react-to-solidjs-101a)
 - [Dev.to/JS] [Password Generator in 30 Seconds](https://dev.to/cstayyab/password-generator-in-30-seconds-2emi)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MERN Stack: A Beginner&#39;s guide](https://dev.to/anni/mern-stack-a-beginners-guide-2dl4)
 - [Lifehacker] [Bless Your Potatoes With Bacon Dip](https://lifehacker.com/bless-your-potatoes-with-bacon-dip-1850119698)
 - [Dev.to/JS] [3 things to take care while making multi-level dropdown Menus](https://dev.to/parthgupta118/3-things-to-keep-in-mind-while-making-multi-level-dropdown-menus-or-navbar-5727)
-- [Dev.to/JS] [Checking a URI string is valid in JavaScript](https://dev.to/samconibear/checking-a-uri-string-is-valid-in-javascript-1odj)
 - [Lifehacker] [What Is Marburg Virus &lpar;and How Much Should I Worry About It&rpar;?](https://lifehacker.com/what-is-marburg-virus-and-how-much-should-i-worry-abou-1850119986)
-- [Dev.to/JS] [What&#39;s On The Other Side of the World?](https://dev.to/kimchoijjiggae/whats-on-the-other-side-of-the-world-2dd7)
 - [Lifehacker] [Now Is the Best Time to Sign Up for a Costco Membership](https://lifehacker.com/now-is-the-best-time-to-sign-up-for-a-costco-membership-1850119198)
 - [Lifehacker] [Repairs That Aren&#39;t Actually Your Landlord&#39;s Responsibility](https://lifehacker.com/repairs-that-arent-actually-your-landlords-responsibili-1850118214)
 - [Lifehacker] [15 of the Cleverest Ways to Use Zip Ties Around the House](https://lifehacker.com/15-of-the-cleverest-ways-to-use-zip-ties-around-the-hou-1850117768)
