@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Handle an Emotionally Immature Parent](https://lifehacker.com/how-to-handle-an-emotionally-immature-parent-1850122477)
+- [Dev.to/JS] [Palindrome number - LeetCode](https://dev.to/zuzexx/palindrome-number-leetcode-103o)
+- [Dev.to/JS] [MVC - Modern Website Architecture](https://dev.to/sarahadewale/mvc-modern-website-architecture-1j6l)
 - [Lifehacker] [How to Avoid Lead and Cadmium in Chocolate](https://lifehacker.com/how-to-avoid-lead-and-cadmium-in-chocolate-1850120929)
 - [Dev.to/JS] [How to make animations with Vuejs](https://dev.to/andrewzach/how-to-make-animations-with-vuejs-jp2)
 - [Dev.to/JS] [TypeScript vs JavaScript](https://dev.to/mujtaba4li/typescript-vs-javascript-121j)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [event.target vs event.currentTarget: qual usar?](https://dev.to/demenezes/eventtarget-vs-eventcurrenttarget-qual-usar-4m7e)
 - [Dev.to/JS] [Paracetamol.ts💊| #13: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-13-explica-este-codigo-typescript-1c87)
 - [Dev.to/JS] [Teleport do Vue.js 3 vs Portals do ReactJS: uma análise comparativa para lidar com elementos fora do contexto do componente pai.](https://dev.to/jow/teleport-do-vuejs-3-vs-portals-do-reactjs-uma-analise-comparativa-para-lidar-com-elementos-fora-do-contexto-do-componente-pai-2n3j)
-- [Dev.to/JS] [How to connect Nodejs to Mongodb Database &lpar;Two methods&rpar;](https://dev.to/shubhamathawane/how-to-connect-nodejs-to-mongodb-database-two-methods-336p)
-- [Dev.to/JS] [10 JavaScript Concepts For Every Programmer](https://dev.to/shivam_codenewbie/10-javascript-concepts-for-every-programmer-a7)
 - [Lifehacker] [Put Fancy Cheese on Some Graham Crackers](https://lifehacker.com/put-fancy-cheese-on-some-graham-crackers-1850119525)
 - [Lifehacker] [Bless Your Potatoes With Bacon Dip](https://lifehacker.com/bless-your-potatoes-with-bacon-dip-1850119698)
 - [Lifehacker] [What Is Marburg Virus &lpar;and How Much Should I Worry About It&rpar;?](https://lifehacker.com/what-is-marburg-virus-and-how-much-should-i-worry-abou-1850119986)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Stupidest Fees and How to Avoid Them](https://lifehacker.com/10-of-the-biggest-bullshit-fees-and-how-to-avoid-payin-1850114840)
 - [Lifehacker] [You Could Be Falling for the Dunning-Kruger Effect and Not Even Know It](https://lifehacker.com/you-could-be-falling-for-the-dunning-kruger-effect-and-1850113520)
 - [Lifehacker] [Make This Cheap Pasta Sauce With Browned Butter and Tomato Paste](https://lifehacker.com/make-this-cheap-pasta-sauce-with-browned-butter-and-tom-1850114507)
-- [Lifehacker] [The 11 Biggest Movie Trailers From the Super Bowl &lpar;and What to Watch Before They Premiere&rpar;](https://lifehacker.com/the-11-biggest-movie-trailers-from-the-super-bowl-and-1850112794)
-- [Lifehacker] [TikTokers Are Hot-Wiring These Hyundai and Kia Cars](https://lifehacker.com/tiktokers-are-hot-wiring-these-hyundai-and-kia-cars-1850113943)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 11 Biggest Movie Trailers From the Super Bowl &lpar;and What to Watch Before They Premiere&rpar;](https://lifehacker.com/the-11-biggest-movie-trailers-from-the-super-bowl-and-1850112794)<!-- TECH-POSTS:END -->
 
 ---
 
