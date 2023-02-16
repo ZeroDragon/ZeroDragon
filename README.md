@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Different Saving Accounts You Need](https://lifehacker.com/all-the-different-saving-accounts-you-need-1850122921)
+- [Dev.to/JS] [useContext in React JS](https://dev.to/juliannehuynh/usecontext-in-react-js-28mo)
+- [Dev.to/JS] [How to Add TypeScript to Existing Next.js Project](https://dev.to/andrewsavetchuk/how-to-add-typescript-to-existing-nextjs-project-3n77)
+- [Lifehacker] [RIP Internet Explorer, 1995–2023](https://lifehacker.com/rip-internet-explorer-1995-2023-1850122636)
+- [Crazy Programmer] [How to Become a Cyber Security Specialist in 2023?](https://www.thecrazyprogrammer.com/2023/02/how-to-become-a-cyber-security-specialist.html)
+- [Dev.to/JS] [Battle of the Cookies: Regular Cookies vs. HTTP-Only](https://dev.to/costamatheus97/battle-of-the-cookies-regular-cookies-vs-http-only-1n0a)
+- [Dev.to/JS] [Outstanding Monorepo Tools](https://dev.to/hidaytrahman/outstanding-monorepo-tools-49ae)
+- [Dev.to/JS] [Next.js 13 — introduction](https://dev.to/oskidev/nextjs-13-introduction-dhl)
 - [Lifehacker] [How to Handle an Emotionally Immature Parent](https://lifehacker.com/how-to-handle-an-emotionally-immature-parent-1850122477)
 - [Dev.to/JS] [Palindrome number - LeetCode](https://dev.to/zuzexx/palindrome-number-leetcode-103o)
 - [Dev.to/JS] [MVC - Modern Website Architecture](https://dev.to/sarahadewale/mvc-modern-website-architecture-1j6l)
@@ -36,11 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 Ways to Build a Better Breakfast Sandwich](https://lifehacker.com/15-ways-to-build-a-better-breakfast-sandwich-1850119709)
 - [Lifehacker] [How to Reset Your Post-Pandemic Parental Health Anxiety](https://lifehacker.com/how-to-reset-your-post-pandemic-parental-health-anxiety-1850117622)
 - [Dev.to/JS] [Discovery Days at Medusa: How I created Cross Post tool from Notion](https://dev.to/medusajs/discovery-days-at-medusa-how-i-created-cross-post-tool-from-notion-491j)
-- [Dev.to/JS] [My learning journey to Javascript -Week 2](https://dev.to/hmmalic/my-learning-journey-to-javascript-week-2-58b9)
-- [Dev.to/JS] [15 Killer 🗡 JS techniques you&#39;ve probably never heard of 🔈🔥](https://dev.to/ironcladdev/15-killer-js-techniques-youve-probably-never-heard-of-1lgp)
-- [Dev.to/JS] [event.target vs event.currentTarget: qual usar?](https://dev.to/demenezes/eventtarget-vs-eventcurrenttarget-qual-usar-4m7e)
-- [Dev.to/JS] [Paracetamol.ts💊| #13: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-13-explica-este-codigo-typescript-1c87)
-- [Dev.to/JS] [Teleport do Vue.js 3 vs Portals do ReactJS: uma análise comparativa para lidar com elementos fora do contexto do componente pai.](https://dev.to/jow/teleport-do-vuejs-3-vs-portals-do-reactjs-uma-analise-comparativa-para-lidar-com-elementos-fora-do-contexto-do-componente-pai-2n3j)
 - [Lifehacker] [Put Fancy Cheese on Some Graham Crackers](https://lifehacker.com/put-fancy-cheese-on-some-graham-crackers-1850119525)
 - [Lifehacker] [Bless Your Potatoes With Bacon Dip](https://lifehacker.com/bless-your-potatoes-with-bacon-dip-1850119698)
 - [Lifehacker] [What Is Marburg Virus &lpar;and How Much Should I Worry About It&rpar;?](https://lifehacker.com/what-is-marburg-virus-and-how-much-should-i-worry-abou-1850119986)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Music Is Making Your Hardest Video Games Even Harder](https://lifehacker.com/music-is-making-your-hardest-video-games-even-harder-1850115998)
 - [Lifehacker] [Don’t Preheat Your Oven Before Cooking Chicken Thighs](https://lifehacker.com/don-t-preheat-your-oven-before-cooking-chicken-thighs-1850115340)
 - [Lifehacker] [9 of the Most Dangerous Driving Emergencies &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/9-of-the-most-dangerous-driving-emergencies-and-how-to-1850115196)
-- [Lifehacker] [10 of the Stupidest Fees and How to Avoid Them](https://lifehacker.com/10-of-the-biggest-bullshit-fees-and-how-to-avoid-payin-1850114840)
-- [Lifehacker] [You Could Be Falling for the Dunning-Kruger Effect and Not Even Know It](https://lifehacker.com/you-could-be-falling-for-the-dunning-kruger-effect-and-1850113520)
-- [Lifehacker] [Make This Cheap Pasta Sauce With Browned Butter and Tomato Paste](https://lifehacker.com/make-this-cheap-pasta-sauce-with-browned-butter-and-tom-1850114507)
-- [Lifehacker] [The 11 Biggest Movie Trailers From the Super Bowl &lpar;and What to Watch Before They Premiere&rpar;](https://lifehacker.com/the-11-biggest-movie-trailers-from-the-super-bowl-and-1850112794)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 of the Stupidest Fees and How to Avoid Them](https://lifehacker.com/10-of-the-biggest-bullshit-fees-and-how-to-avoid-payin-1850114840)<!-- TECH-POSTS:END -->
 
 ---
 
