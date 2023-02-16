@@ -23,10 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Air Fryer Sales for President&#39;s Day Weekend](https://lifehacker.com/these-are-the-best-air-fryer-sales-for-presidents-day-w-1850124851)
+- [Dev.to/JS] [useReducer – Demystifying React Hooks &lpar;Pt. 5&rpar;](https://dev.to/austinrt/demystifying-react-hooks-usereducer-587k)
+- [Lifehacker] [You Must Make Empanada Chips and Dip](https://lifehacker.com/you-must-make-empanada-chips-and-dip-1850123718)
 - [Dev.to/JS] [An animated Heart for Valentine&#39;s Day](https://dev.to/ll/an-animated-heart-for-valentines-day-2m74)
-- [Dev.to/JS] [Demystifying React Hooks–useRef](https://dev.to/austinrt/demystifying-react-hooks-useref-4cff)
-- [Dev.to/JS] [Demystifying React Hooks–useMemo](https://dev.to/austinrt/demystifying-react-hooks-usememo-28d4)
-- [Dev.to/JS] [Demystifying React Hooks–useCallback](https://dev.to/austinrt/demystifying-react-hooks-usecallback-4618)
+- [Dev.to/JS] [useRef – Demystifying React Hooks &lpar;Pt. 3&rpar;](https://dev.to/austinrt/demystifying-react-hooks-useref-4cff)
+- [Dev.to/JS] [useMemo – Demystifying React Hooks &lpar;Pt. 2&rpar;](https://dev.to/austinrt/demystifying-react-hooks-usememo-28d4)
+- [Dev.to/JS] [useCallback – Demystifying React Hooks &lpar;Pt. 1&rpar;](https://dev.to/austinrt/demystifying-react-hooks-usecallback-4618)
 - [Lifehacker] [8 Shows to Stream When You Need Cleaning Inspiration](https://lifehacker.com/8-shows-to-stream-when-you-need-cleaning-inspiration-1850124456)
 - [Dev.to/JS] [React Hooks: The Superheroes of Functional Components](https://dev.to/thisissouray/react-hooks-the-superheroes-of-functional-components-4766)
 - [Dev.to/JS] [React | Getting Started](https://dev.to/jacobjpelletier/react-getting-started-28no)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Tutorial Series: Objects](https://dev.to/fullstackjo/javascript-tutorial-series-objects-4ei2)
 - [Dev.to/JS] [React States: Best Practices for Managing State in Your Applications](https://dev.to/yosileyid/react-states-best-practices-for-managing-state-in-your-applications-4pk7)
 - [Lifehacker] [Actually, I Have a Better Way to Make Those Viral Coffee Boxed Brownies](https://lifehacker.com/actually-i-have-a-better-way-to-make-those-viral-coffe-1850123596)
-- [Dev.to/JS] [Variable Declarations JavaScript Edition](https://dev.to/clevercoderjoy/variable-declarations-javascript-edition-ea5)
 - [Lifehacker] [Our Founding Fathers Would Want You to Have These Nice Pots and Pans](https://lifehacker.com/our-founding-fathers-would-want-you-to-have-these-nice-1850123464)
 - [Lifehacker] [Fasted Morning Workouts Aren&#39;t a Fat-Burning Hack](https://lifehacker.com/fasted-morning-workouts-arent-a-fat-burning-hack-1850123192)
 - [Lifehacker] [Not All Cloud Bread Is Created Equal](https://lifehacker.com/not-all-cloud-bread-is-created-equal-1850122674)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;General Delivery&#39; Is Almost As Good As a PO Box](https://lifehacker.com/general-delivery-is-almost-as-good-as-a-po-box-1850118313)
 - [Lifehacker] [Nissan Is Recalling 400,000 Older Vehicles for Dangerous Airbag Issue](https://lifehacker.com/nissan-is-recalling-400-000-older-vehicles-for-dangerou-1850118242)
 - [Lifehacker] [Your Android Phone Can Feel so Much Faster](https://lifehacker.com/your-android-phone-can-feel-so-much-faster-1850118629)
-- [Lifehacker] [9 Traditional Treats for Fat Tuesday &lpar;and All the Other Fat Days Too&rpar;](https://lifehacker.com/9-traditional-treats-for-fat-tuesday-and-all-the-other-1850118038)
-- [Lifehacker] [All the Ways You Can Use Bar Keepers Friend &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-bar-keepers-friend-but-arent-1850117590)
-- [Lifehacker] [How to Cancel a Subscription Online Even When the Company Doesn’t Want You To](https://lifehacker.com/how-to-cancel-a-subscription-online-even-when-the-compa-1850117577)<!-- TECH-POSTS:END -->
+- [Lifehacker] [9 Traditional Treats for Fat Tuesday &lpar;and All the Other Fat Days Too&rpar;](https://lifehacker.com/9-traditional-treats-for-fat-tuesday-and-all-the-other-1850118038)<!-- TECH-POSTS:END -->
 
 ---
 
