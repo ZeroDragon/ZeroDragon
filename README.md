@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [F8bet](https://dev.to/f8betglobal/f8bet-1dap)
+- [Dev.to/JS] [How does the web app development process look like?](https://dev.to/qmoniqs/how-does-the-web-app-development-process-look-like-354m)
 - [Dev.to/JS] [Unleash the Power of Strong Passwords: How to Build a Password Generator Chrome Extension in 5 Easy Steps](https://dev.to/knitesh/unleash-the-power-of-strong-passwords-how-to-build-a-password-generator-chrome-extension-in-5-easy-steps-1lhp)
 - [Dev.to/JS] [Delete Same Extension File One Click Python](https://dev.to/rizwankhan3/delete-same-extension-file-one-click-python-7ab)
 - [Dev.to/JS] [JavaScript Data Types](https://dev.to/khalildev/javascript-data-types-1ifl)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using React &quot;States&quot;](https://dev.to/yosileyid/using-react-states-4kak)
 - [Dev.to/JS] [Build your next website with Astro](https://dev.to/360macky/build-your-next-website-with-astro-40ip)
 - [Dev.to/JS] [Publishing A Package To NPM](https://dev.to/yosileyid/publishing-a-package-to-npm-4bm)
-- [Dev.to/JS] [Code Smell 196 - Javascript Array Constructors](https://dev.to/mcsee/code-smell-196-javascript-array-constructors-4cl5)
-- [Dev.to/JS] [JSTools Weekly - 2023#6](https://dev.to/jstoolsweekly/jstools-weekly-20236-lk)
 - [Lifehacker] [Put Fancy Cheese on Some Graham Crackers](https://lifehacker.com/put-fancy-cheese-on-some-graham-crackers-1850119525)
 - [Lifehacker] [Bless Your Potatoes With Bacon Dip](https://lifehacker.com/bless-your-potatoes-with-bacon-dip-1850119698)
 - [Lifehacker] [What Is Marburg Virus &lpar;and How Much Should I Worry About It&rpar;?](https://lifehacker.com/what-is-marburg-virus-and-how-much-should-i-worry-abou-1850119986)
