@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Avoid Lead and Cadmium in Chocolate](https://lifehacker.com/how-to-avoid-lead-and-cadmium-in-chocolate-1850120929)
+- [Dev.to/JS] [How to make animations with Vuejs](https://dev.to/andrewzach/how-to-make-animations-with-vuejs-jp2)
+- [Dev.to/JS] [TypeScript vs JavaScript](https://dev.to/mujtaba4li/typescript-vs-javascript-121j)
+- [Lifehacker] [9 Food Labels That Don’t Mean What You Think They Mean](https://lifehacker.com/9-food-labels-that-don-t-mean-what-you-think-they-mean-1850121752)
+- [Dev.to/JS] [First Steps With TinyBase](https://dev.to/parenttobias/first-steps-with-tinybase-1ola)
+- [Lifehacker] [&#39;Winnie The Pooh: Blood and Honey&#39; and 11 More Horror Movies Based on Kids&#39; Characters](https://lifehacker.com/winnie-the-pooh-blood-and-honey-and-11-more-horror-mov-1850121061)
 - [Dev.to/JS] [platform as a service with ISV Low code platform](https://dev.to/laradissouza99/platform-as-a-service-with-isv-low-code-platform-2c11)
 - [Lifehacker] [15 Ways to Build a Better Breakfast Sandwich](https://lifehacker.com/15-ways-to-build-a-better-breakfast-sandwich-1850119709)
 - [Lifehacker] [How to Reset Your Post-Pandemic Parental Health Anxiety](https://lifehacker.com/how-to-reset-your-post-pandemic-parental-health-anxiety-1850117622)
@@ -34,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Teleport do Vue.js 3 vs Portals do ReactJS: uma análise comparativa para lidar com elementos fora do contexto do componente pai.](https://dev.to/jow/teleport-do-vuejs-3-vs-portals-do-reactjs-uma-analise-comparativa-para-lidar-com-elementos-fora-do-contexto-do-componente-pai-2n3j)
 - [Dev.to/JS] [How to connect Nodejs to Mongodb Database &lpar;Two methods&rpar;](https://dev.to/shubhamathawane/how-to-connect-nodejs-to-mongodb-database-two-methods-336p)
 - [Dev.to/JS] [10 JavaScript Concepts For Every Programmer](https://dev.to/shivam_codenewbie/10-javascript-concepts-for-every-programmer-a7)
-- [Dev.to/JS] [Is React Too Complex ? A Critical Analysis.](https://dev.to/chrisspotless/is-react-too-complex-a-critical-analysis-3kme)
-- [Dev.to/JS] [Building a Simple Web App to Track Focus Time with Visibility API and Vanilla JavaScript](https://dev.to/netsi1964/building-a-simple-web-app-to-track-focus-time-with-visibility-api-and-vanilla-javascript-4259)
-- [Dev.to/JS] [Tricky JavaScript Interview Question Using Array And Object Destructuring Combined](https://dev.to/myogeshchavan97/tricky-javascript-interview-question-using-array-and-object-destructuring-combined-5399)
 - [Lifehacker] [Put Fancy Cheese on Some Graham Crackers](https://lifehacker.com/put-fancy-cheese-on-some-graham-crackers-1850119525)
 - [Lifehacker] [Bless Your Potatoes With Bacon Dip](https://lifehacker.com/bless-your-potatoes-with-bacon-dip-1850119698)
 - [Lifehacker] [What Is Marburg Virus &lpar;and How Much Should I Worry About It&rpar;?](https://lifehacker.com/what-is-marburg-virus-and-how-much-should-i-worry-abou-1850119986)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Could Be Falling for the Dunning-Kruger Effect and Not Even Know It](https://lifehacker.com/you-could-be-falling-for-the-dunning-kruger-effect-and-1850113520)
 - [Lifehacker] [Make This Cheap Pasta Sauce With Browned Butter and Tomato Paste](https://lifehacker.com/make-this-cheap-pasta-sauce-with-browned-butter-and-tom-1850114507)
 - [Lifehacker] [The 11 Biggest Movie Trailers From the Super Bowl &lpar;and What to Watch Before They Premiere&rpar;](https://lifehacker.com/the-11-biggest-movie-trailers-from-the-super-bowl-and-1850112794)
-- [Lifehacker] [TikTokers Are Hot-Wiring These Hyundai and Kia Cars](https://lifehacker.com/tiktokers-are-hot-wiring-these-hyundai-and-kia-cars-1850113943)
-- [Lifehacker] [15 Unexpected Household Uses for Baby Powder](https://lifehacker.com/15-unexpected-household-uses-for-baby-powder-1850113735)
-- [Lifehacker] [How to Try Microsoft&#39;s New ChatGPT-Powered AI Search](https://lifehacker.com/how-to-try-microsofts-new-chatgpt-powered-ai-search-1850113463)
-- [Lifehacker] [Stir Fry Your Leftover Pasta for a Crispy Treat](https://lifehacker.com/stir-fry-your-leftover-pasta-for-a-crispy-treat-1850113486)<!-- TECH-POSTS:END -->
+- [Lifehacker] [TikTokers Are Hot-Wiring These Hyundai and Kia Cars](https://lifehacker.com/tiktokers-are-hot-wiring-these-hyundai-and-kia-cars-1850113943)<!-- TECH-POSTS:END -->
 
 ---
 
