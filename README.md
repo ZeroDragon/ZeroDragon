@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using React &quot;States&quot;](https://dev.to/yosileyid/using-react-states-4kak)
+- [Dev.to/JS] [Build your next website with Astro](https://dev.to/360macky/build-your-next-website-with-astro-40ip)
+- [Dev.to/JS] [Publishing A Package To NPM](https://dev.to/yosileyid/publishing-a-package-to-npm-4bm)
+- [Dev.to/JS] [Code Smell 196 - Javascript Array Constructors](https://dev.to/mcsee/code-smell-196-javascript-array-constructors-4cl5)
 - [Dev.to/JS] [JSTools Weekly - 2023#6](https://dev.to/jstoolsweekly/jstools-weekly-20236-lk)
 - [Lifehacker] [Put Fancy Cheese on Some Graham Crackers](https://lifehacker.com/put-fancy-cheese-on-some-graham-crackers-1850119525)
 - [Dev.to/JS] [MERN Stack: A Beginner&#39;s guide](https://dev.to/anni/mern-stack-a-beginners-guide-2dl4)
@@ -39,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Integrate reCaptcha V3 on Nuxt3 app](https://dev.to/elquimeras/integrate-recaptcha-v3-on-nuxt3-app-1gma)
 - [Lifehacker] [Nissan Is Recalling 400,000 Older Vehicles for Dangerous Airbag Issue](https://lifehacker.com/nissan-is-recalling-400-000-older-vehicles-for-dangerou-1850118242)
 - [Dev.to/JS] [JavaScript Tutorial Series: Array Methods](https://dev.to/fullstackjo/javascript-tutorial-series-array-methods-214h)
-- [Dev.to/JS] [JavaScript Error Management: Proven Strategies You Need to Know](https://dev.to/kinsta/javascript-error-management-proven-strategies-you-need-to-know-3g09)
 - [Lifehacker] [Your Android Phone Can Feel so Much Faster](https://lifehacker.com/your-android-phone-can-feel-so-much-faster-1850118629)
-- [Dev.to/JS] [Arrow Function](https://dev.to/anateotfw/arrow-function-clg)
-- [Dev.to/JS] [[Typia] Universal Random Generator, which can make everything, just by only one line](https://dev.to/samchon/i-made-universal-random-generator-which-can-make-everything-by-just-only-one-line-4mhm)
-- [Dev.to/JS] [Building a Blog from Scratch with HTML, CSS, and JavaScript: A Step-by-Step Guide](https://dev.to/webmonster/building-a-blog-from-scratch-with-html-css-and-javascript-a-step-by-step-guide-3pb)
 - [Lifehacker] [9 Traditional Treats for Fat Tuesday &lpar;and All the Other Fat Days Too&rpar;](https://lifehacker.com/9-traditional-treats-for-fat-tuesday-and-all-the-other-1850118038)
 - [Lifehacker] [All the Ways You Can Use Bar Keepers Friend &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-bar-keepers-friend-but-arent-1850117590)
 - [Lifehacker] [How to Cancel a Subscription Online Even When the Company Doesn’t Want You To](https://lifehacker.com/how-to-cancel-a-subscription-online-even-when-the-compa-1850117577)
