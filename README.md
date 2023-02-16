@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [An animated Heart for Valentine&#39;s Day](https://dev.to/ll/an-animated-heart-for-valentines-day-2m74)
+- [Dev.to/JS] [Demystifying React Hooks–useRef](https://dev.to/austinrt/demystifying-react-hooks-useref-4cff)
+- [Dev.to/JS] [Demystifying React Hooks–useMemo](https://dev.to/austinrt/demystifying-react-hooks-usememo-28d4)
+- [Dev.to/JS] [Demystifying React Hooks–useCallback](https://dev.to/austinrt/demystifying-react-hooks-usecallback-4618)
+- [Lifehacker] [8 Shows to Stream When You Need Cleaning Inspiration](https://lifehacker.com/8-shows-to-stream-when-you-need-cleaning-inspiration-1850124456)
+- [Dev.to/JS] [React Hooks: The Superheroes of Functional Components](https://dev.to/thisissouray/react-hooks-the-superheroes-of-functional-components-4766)
+- [Dev.to/JS] [React | Getting Started](https://dev.to/jacobjpelletier/react-getting-started-28no)
+- [Lifehacker] [Your Green Bubble Texts Can Be Forwarded to Your Mac, Too](https://lifehacker.com/your-green-bubble-texts-can-be-forwarded-to-your-mac-t-1850124113)
 - [Dev.to/JS] [Hello world!](https://dev.to/williamscarog/hello-world-g8f)
 - [Dev.to/JS] [Parcel, React &amp; Tailwind to the moon](https://dev.to/matthewsaintbull/parcel-react-tailwind-to-the-moon-37i3)
 - [Dev.to/JS] [¿Por qué es importante practicar crear juegos en Javascript?](https://dev.to/yisuscode/por-que-es-importante-practicar-crear-juegos-en-javascript-342j)
@@ -31,16 +39,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React States: Best Practices for Managing State in Your Applications](https://dev.to/yosileyid/react-states-best-practices-for-managing-state-in-your-applications-4pk7)
 - [Lifehacker] [Actually, I Have a Better Way to Make Those Viral Coffee Boxed Brownies](https://lifehacker.com/actually-i-have-a-better-way-to-make-those-viral-coffe-1850123596)
 - [Dev.to/JS] [Variable Declarations JavaScript Edition](https://dev.to/clevercoderjoy/variable-declarations-javascript-edition-ea5)
-- [Dev.to/JS] [What`s new Map&lpar;&rpar;?](https://dev.to/lausuarez02/whats-new-map-3hgn)
-- [Dev.to/JS] [Svelte and Tailwind for building Chrome Extension](https://dev.to/codegino/svelte-and-tailwind-for-building-chrome-extension-3p4o)
 - [Lifehacker] [Our Founding Fathers Would Want You to Have These Nice Pots and Pans](https://lifehacker.com/our-founding-fathers-would-want-you-to-have-these-nice-1850123464)
-- [Dev.to/JS] [Using Sendinblue email API to send transactional emails](https://dev.to/frazie/using-sendinblue-email-api-to-send-transactional-emails-5heh)
 - [Lifehacker] [Fasted Morning Workouts Aren&#39;t a Fat-Burning Hack](https://lifehacker.com/fasted-morning-workouts-arent-a-fat-burning-hack-1850123192)
 - [Lifehacker] [Not All Cloud Bread Is Created Equal](https://lifehacker.com/not-all-cloud-bread-is-created-equal-1850122674)
-- [Dev.to/JS] [HTML+CSS Workshop](https://dev.to/razbakov/htmlcss-workshop-283h)
-- [Dev.to/JS] [How to Add Speech AI Into Your Next.js App](https://dev.to/deepgram/how-to-add-speech-ai-into-your-nextjs-app-491b)
 - [Lifehacker] [All the Different Saving Accounts You Need](https://lifehacker.com/all-the-different-saving-accounts-you-need-1850122921)
-- [Dev.to/JS] [useContext in React JS](https://dev.to/juliannehuynh/usecontext-in-react-js-28mo)
 - [Lifehacker] [RIP Internet Explorer, 1995–2023](https://lifehacker.com/rip-internet-explorer-1995-2023-1850122636)
 - [Crazy Programmer] [How to Become a Cyber Security Specialist in 2023?](https://www.thecrazyprogrammer.com/2023/02/how-to-become-a-cyber-security-specialist.html)
 - [Lifehacker] [How to Handle an Emotionally Immature Parent](https://lifehacker.com/how-to-handle-an-emotionally-immature-parent-1850122477)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Android Phone Can Feel so Much Faster](https://lifehacker.com/your-android-phone-can-feel-so-much-faster-1850118629)
 - [Lifehacker] [9 Traditional Treats for Fat Tuesday &lpar;and All the Other Fat Days Too&rpar;](https://lifehacker.com/9-traditional-treats-for-fat-tuesday-and-all-the-other-1850118038)
 - [Lifehacker] [All the Ways You Can Use Bar Keepers Friend &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-bar-keepers-friend-but-arent-1850117590)
-- [Lifehacker] [How to Cancel a Subscription Online Even When the Company Doesn’t Want You To](https://lifehacker.com/how-to-cancel-a-subscription-online-even-when-the-compa-1850117577)
-- [Lifehacker] [How Often You Really Need to Replace Your Mop, Sponges, and Other Cleaning Supplies](https://lifehacker.com/how-often-you-really-need-to-replace-your-mop-sponges-1850117996)
-- [Lifehacker] [How to Delete Spam Calendars From Your iPhone](https://lifehacker.com/how-to-delete-spam-calendars-from-your-iphone-1849958726)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Cancel a Subscription Online Even When the Company Doesn’t Want You To](https://lifehacker.com/how-to-cancel-a-subscription-online-even-when-the-compa-1850117577)<!-- TECH-POSTS:END -->
 
 ---
 
