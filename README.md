@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to migrate from Sendbird to TalkJS](https://dev.to/talkjs/how-to-migrate-from-sendbird-to-talkjs-14ni)
+- [Dev.to/JS] [MeteorJs and Meteor-Up MongoDB migration to a new major version 🛠️](https://dev.to/jankapunkt/meteorjs-and-meteor-up-mongodb-migration-to-a-new-major-version-40b7)
 - [Dev.to/JS] [Don&#39;t fight the framework: Angular Edition](https://dev.to/this-is-angular/dont-fight-the-framework-angular-edition-38ph)
 - [Dev.to/JS] [Is it a good practice to use npm install -force ?](https://dev.to/bladearya/is-it-a-good-practice-to-use-npm-install-force--49fa)
 - [Dev.to/JS] [Creating Web Accessibility: Meta Tags](https://dev.to/frontend_jedi/creating-web-accessibility-meta-tags-1pcp)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How does the web app development process look like?](https://dev.to/qmoniqs/how-does-the-web-app-development-process-look-like-354m)
 - [Dev.to/JS] [Unleash the Power of Strong Passwords: How to Build a Password Generator Chrome Extension in 5 Easy Steps](https://dev.to/knitesh/unleash-the-power-of-strong-passwords-how-to-build-a-password-generator-chrome-extension-in-5-easy-steps-1lhp)
 - [Dev.to/JS] [Delete Same Extension File One Click Python](https://dev.to/rizwankhan3/delete-same-extension-file-one-click-python-7ab)
-- [Dev.to/JS] [JavaScript Data Types](https://dev.to/khalildev/javascript-data-types-1ifl)
-- [Dev.to/JS] [Creating a coding first schedule](https://dev.to/schz_js/creating-a-coding-first-schedule-1mce)
 - [Lifehacker] [Put Fancy Cheese on Some Graham Crackers](https://lifehacker.com/put-fancy-cheese-on-some-graham-crackers-1850119525)
 - [Lifehacker] [Bless Your Potatoes With Bacon Dip](https://lifehacker.com/bless-your-potatoes-with-bacon-dip-1850119698)
 - [Lifehacker] [What Is Marburg Virus &lpar;and How Much Should I Worry About It&rpar;?](https://lifehacker.com/what-is-marburg-virus-and-how-much-should-i-worry-abou-1850119986)
