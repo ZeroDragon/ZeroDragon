@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleash the Power of Strong Passwords: How to Build a Password Generator Chrome Extension in 5 Easy Steps](https://dev.to/knitesh/unleash-the-power-of-strong-passwords-how-to-build-a-password-generator-chrome-extension-in-5-easy-steps-1lhp)
+- [Dev.to/JS] [Delete Same Extension File One Click Python](https://dev.to/rizwankhan3/delete-same-extension-file-one-click-python-7ab)
 - [Dev.to/JS] [JavaScript Data Types](https://dev.to/khalildev/javascript-data-types-1ifl)
 - [Dev.to/JS] [Creating a coding first schedule](https://dev.to/schz_js/creating-a-coding-first-schedule-1mce)
 - [Dev.to/JS] [The difference between primitives and objects in JavaScript](https://dev.to/koich1/the-difference-between-primitives-and-objects-in-javascript-o6l)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code Smell 196 - Javascript Array Constructors](https://dev.to/mcsee/code-smell-196-javascript-array-constructors-4cl5)
 - [Dev.to/JS] [JSTools Weekly - 2023#6](https://dev.to/jstoolsweekly/jstools-weekly-20236-lk)
 - [Lifehacker] [Put Fancy Cheese on Some Graham Crackers](https://lifehacker.com/put-fancy-cheese-on-some-graham-crackers-1850119525)
-- [Dev.to/JS] [MERN Stack: A Beginner&#39;s guide](https://dev.to/anni/mern-stack-a-beginners-guide-2dl4)
 - [Lifehacker] [Bless Your Potatoes With Bacon Dip](https://lifehacker.com/bless-your-potatoes-with-bacon-dip-1850119698)
-- [Dev.to/JS] [3 things to take care while making multi-level dropdown Menus](https://dev.to/parthgupta118/3-things-to-keep-in-mind-while-making-multi-level-dropdown-menus-or-navbar-5727)
 - [Lifehacker] [What Is Marburg Virus &lpar;and How Much Should I Worry About It&rpar;?](https://lifehacker.com/what-is-marburg-virus-and-how-much-should-i-worry-abou-1850119986)
 - [Lifehacker] [Now Is the Best Time to Sign Up for a Costco Membership](https://lifehacker.com/now-is-the-best-time-to-sign-up-for-a-costco-membership-1850119198)
 - [Lifehacker] [Repairs That Aren&#39;t Actually Your Landlord&#39;s Responsibility](https://lifehacker.com/repairs-that-arent-actually-your-landlords-responsibili-1850118214)
