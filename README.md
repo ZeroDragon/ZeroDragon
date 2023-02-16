@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hello world!](https://dev.to/williamscarog/hello-world-g8f)
+- [Dev.to/JS] [Parcel, React &amp; Tailwind to the moon](https://dev.to/matthewsaintbull/parcel-react-tailwind-to-the-moon-37i3)
+- [Dev.to/JS] [¿Por qué es importante practicar crear juegos en Javascript?](https://dev.to/yisuscode/por-que-es-importante-practicar-crear-juegos-en-javascript-342j)
+- [Lifehacker] [Stop Cleaning Your Granite This Way](https://lifehacker.com/stop-cleaning-your-granite-this-way-1850123832)
+- [Dev.to/JS] [JavaScript Tutorial Series: Objects](https://dev.to/fullstackjo/javascript-tutorial-series-objects-4ei2)
+- [Dev.to/JS] [React States: Best Practices for Managing State in Your Applications](https://dev.to/yosileyid/react-states-best-practices-for-managing-state-in-your-applications-4pk7)
+- [Lifehacker] [Actually, I Have a Better Way to Make Those Viral Coffee Boxed Brownies](https://lifehacker.com/actually-i-have-a-better-way-to-make-those-viral-coffe-1850123596)
 - [Dev.to/JS] [Variable Declarations JavaScript Edition](https://dev.to/clevercoderjoy/variable-declarations-javascript-edition-ea5)
 - [Dev.to/JS] [What`s new Map&lpar;&rpar;?](https://dev.to/lausuarez02/whats-new-map-3hgn)
 - [Dev.to/JS] [Svelte and Tailwind for building Chrome Extension](https://dev.to/codegino/svelte-and-tailwind-for-building-chrome-extension-3p4o)
@@ -34,14 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Add Speech AI Into Your Next.js App](https://dev.to/deepgram/how-to-add-speech-ai-into-your-nextjs-app-491b)
 - [Lifehacker] [All the Different Saving Accounts You Need](https://lifehacker.com/all-the-different-saving-accounts-you-need-1850122921)
 - [Dev.to/JS] [useContext in React JS](https://dev.to/juliannehuynh/usecontext-in-react-js-28mo)
-- [Dev.to/JS] [How to Add TypeScript to Existing Next.js Project](https://dev.to/andrewsavetchuk/how-to-add-typescript-to-existing-nextjs-project-3n77)
 - [Lifehacker] [RIP Internet Explorer, 1995–2023](https://lifehacker.com/rip-internet-explorer-1995-2023-1850122636)
 - [Crazy Programmer] [How to Become a Cyber Security Specialist in 2023?](https://www.thecrazyprogrammer.com/2023/02/how-to-become-a-cyber-security-specialist.html)
-- [Dev.to/JS] [Battle of the Cookies: Regular Cookies vs. HTTP-Only](https://dev.to/costamatheus97/battle-of-the-cookies-regular-cookies-vs-http-only-1n0a)
-- [Dev.to/JS] [Outstanding Monorepo Tools](https://dev.to/hidaytrahman/outstanding-monorepo-tools-49ae)
-- [Dev.to/JS] [Next.js 13 — introduction](https://dev.to/oskidev/nextjs-13-introduction-dhl)
 - [Lifehacker] [How to Handle an Emotionally Immature Parent](https://lifehacker.com/how-to-handle-an-emotionally-immature-parent-1850122477)
-- [Dev.to/JS] [Palindrome number - LeetCode](https://dev.to/zuzexx/palindrome-number-leetcode-103o)
 - [Lifehacker] [How to Avoid Lead and Cadmium in Chocolate](https://lifehacker.com/how-to-avoid-lead-and-cadmium-in-chocolate-1850120929)
 - [Lifehacker] [9 Food Labels That Don’t Mean What You Think They Mean](https://lifehacker.com/9-food-labels-that-don-t-mean-what-you-think-they-mean-1850121752)
 - [Lifehacker] [&#39;Winnie The Pooh: Blood and Honey&#39; and 11 More Horror Movies Based on Kids&#39; Characters](https://lifehacker.com/winnie-the-pooh-blood-and-honey-and-11-more-horror-mov-1850121061)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways You Can Use Bar Keepers Friend &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-bar-keepers-friend-but-arent-1850117590)
 - [Lifehacker] [How to Cancel a Subscription Online Even When the Company Doesn’t Want You To](https://lifehacker.com/how-to-cancel-a-subscription-online-even-when-the-compa-1850117577)
 - [Lifehacker] [How Often You Really Need to Replace Your Mop, Sponges, and Other Cleaning Supplies](https://lifehacker.com/how-often-you-really-need-to-replace-your-mop-sponges-1850117996)
-- [Lifehacker] [How to Delete Spam Calendars From Your iPhone](https://lifehacker.com/how-to-delete-spam-calendars-from-your-iphone-1849958726)
-- [Lifehacker] [This Link-Sharing App Is Better Than AirDrop](https://lifehacker.com/this-link-sharing-app-is-better-than-airdrop-1850116921)
-- [Lifehacker] [Music Is Making Your Hardest Video Games Even Harder](https://lifehacker.com/music-is-making-your-hardest-video-games-even-harder-1850115998)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Delete Spam Calendars From Your iPhone](https://lifehacker.com/how-to-delete-spam-calendars-from-your-iphone-1849958726)<!-- TECH-POSTS:END -->
 
 ---
 
