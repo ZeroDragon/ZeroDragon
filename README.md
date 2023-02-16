@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Arrow Functions in JavaScript: From Complexity to Simplicity](https://dev.to/brianbogita/arrow-functions-in-javascript-from-complexity-to-simplicity-1ij1)
+- [Dev.to/JS] [Hello World](https://dev.to/timi_dev/hello-world-1l1l)
+- [Dev.to/JS] [What is your favorite React stack?](https://dev.to/codeofrelevancy/what-is-your-favorite-react-stack-4p)
 - [Dev.to/JS] [Next.js GitHub: The Ultimate Guide to Building and Deploying High-Performing Web Applications with React, Dynamic Routing](https://dev.to/monu181/nextjs-github-the-ultimate-guide-to-building-and-deploying-high-performing-web-applications-with-react-dynamic-routing-4h3m)
 - [Dev.to/JS] [How to Effortlessly Migrate from Styled Components CSS-in-JS to Stylify Utility-First CSS for Better React Development.](https://dev.to/machy8/how-to-effortlessly-migrate-from-styled-components-css-in-js-to-stylify-utility-first-css-for-better-react-development-84a)
 - [Dev.to/JS] [Introduction to Version Control: A Beginner&#39;s Guide to Git](https://dev.to/avinashvagh/version-control-beginner-to-professional-guide-1cjh)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Don&#39;t fight the framework: Angular Edition](https://dev.to/this-is-angular/dont-fight-the-framework-angular-edition-38ph)
 - [Dev.to/JS] [Is it a good practice to use npm install -force ?](https://dev.to/bladearya/is-it-a-good-practice-to-use-npm-install-force--49fa)
 - [Dev.to/JS] [Creating Web Accessibility: Meta Tags](https://dev.to/frontend_jedi/creating-web-accessibility-meta-tags-1pcp)
-- [Dev.to/JS] [Prostadine - Prostate Health Benefits, Reviews, Price, Scam And Legit?](https://dev.to/prostadinefacts/prostadine-prostate-health-benefits-reviews-price-scam-and-legit-39ng)
-- [Dev.to/JS] [What types of web apps are there?](https://dev.to/qmoniqs/what-types-of-web-apps-are-there-4ah2)
-- [Dev.to/JS] [Markdown for beginners: with examples](https://dev.to/sachinchaurasiya/markdown-for-beginners-with-examples-3l4b)
 - [Lifehacker] [Put Fancy Cheese on Some Graham Crackers](https://lifehacker.com/put-fancy-cheese-on-some-graham-crackers-1850119525)
 - [Lifehacker] [Bless Your Potatoes With Bacon Dip](https://lifehacker.com/bless-your-potatoes-with-bacon-dip-1850119698)
 - [Lifehacker] [What Is Marburg Virus &lpar;and How Much Should I Worry About It&rpar;?](https://lifehacker.com/what-is-marburg-virus-and-how-much-should-i-worry-abou-1850119986)
