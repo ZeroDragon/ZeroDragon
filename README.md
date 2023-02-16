@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Reset Your Post-Pandemic Parental Health Anxiety](https://lifehacker.com/how-to-reset-your-post-pandemic-parental-health-anxiety-1850117622)
+- [Dev.to/JS] [Discovery Days at Medusa: How I created Cross Post tool from Notion](https://dev.to/medusajs/discovery-days-at-medusa-how-i-created-cross-post-tool-from-notion-491j)
+- [Dev.to/JS] [My learning journey to Javascript -Week 2](https://dev.to/hmmalic/my-learning-journey-to-javascript-week-2-58b9)
+- [Dev.to/JS] [15 Killer 🗡 JS techniques you&#39;ve probably never heard of 🔈🔥](https://dev.to/ironcladdev/15-killer-js-techniques-youve-probably-never-heard-of-1lgp)
+- [Dev.to/JS] [event.target vs event.currentTarget: qual usar?](https://dev.to/demenezes/eventtarget-vs-eventcurrenttarget-qual-usar-4m7e)
 - [Dev.to/JS] [Paracetamol.ts💊| #13: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-13-explica-este-codigo-typescript-1c87)
 - [Dev.to/JS] [Teleport do Vue.js 3 vs Portals do ReactJS: uma análise comparativa para lidar com elementos fora do contexto do componente pai.](https://dev.to/jow/teleport-do-vuejs-3-vs-portals-do-reactjs-uma-analise-comparativa-para-lidar-com-elementos-fora-do-contexto-do-componente-pai-2n3j)
 - [Dev.to/JS] [How to connect Nodejs to Mongodb Database &lpar;Two methods&rpar;](https://dev.to/shubhamathawane/how-to-connect-nodejs-to-mongodb-database-two-methods-336p)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Simple Web App to Track Focus Time with Visibility API and Vanilla JavaScript](https://dev.to/netsi1964/building-a-simple-web-app-to-track-focus-time-with-visibility-api-and-vanilla-javascript-4259)
 - [Dev.to/JS] [Tricky JavaScript Interview Question Using Array And Object Destructuring Combined](https://dev.to/myogeshchavan97/tricky-javascript-interview-question-using-array-and-object-destructuring-combined-5399)
 - [Dev.to/JS] [How I Fix &quot;Error: Objects are not valid as a React child &lpar;found: [object Promise]&rpar;](https://dev.to/noibisdev/how-i-fix-error-objects-are-not-valid-as-a-react-child-found-object-promise-3hp4)
-- [Dev.to/JS] [LeetCode - Rearrange Array Elements by Sign](https://dev.to/_alkesh26/leetcode-rearrange-array-elements-by-sign-45eg)
-- [Dev.to/JS] [How does React Router location.state works?](https://dev.to/mbellagamba/how-does-react-router-locationstate-works-2b0c)
-- [Dev.to/JS] [Arrow Functions in JavaScript: From Complexity to Simplicity](https://dev.to/brianbogita/arrow-functions-in-javascript-from-complexity-to-simplicity-1ij1)
-- [Dev.to/JS] [Hello World](https://dev.to/timi_dev/hello-world-1l1l)
 - [Lifehacker] [Put Fancy Cheese on Some Graham Crackers](https://lifehacker.com/put-fancy-cheese-on-some-graham-crackers-1850119525)
 - [Lifehacker] [Bless Your Potatoes With Bacon Dip](https://lifehacker.com/bless-your-potatoes-with-bacon-dip-1850119698)
 - [Lifehacker] [What Is Marburg Virus &lpar;and How Much Should I Worry About It&rpar;?](https://lifehacker.com/what-is-marburg-virus-and-how-much-should-i-worry-abou-1850119986)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 Unexpected Household Uses for Baby Powder](https://lifehacker.com/15-unexpected-household-uses-for-baby-powder-1850113735)
 - [Lifehacker] [How to Try Microsoft&#39;s New ChatGPT-Powered AI Search](https://lifehacker.com/how-to-try-microsofts-new-chatgpt-powered-ai-search-1850113463)
 - [Lifehacker] [Stir Fry Your Leftover Pasta for a Crispy Treat](https://lifehacker.com/stir-fry-your-leftover-pasta-for-a-crispy-treat-1850113486)
-- [Lifehacker] [Feast on Free Popeye’s Spicy Chicken Sandwiches All Week Long](https://lifehacker.com/feast-on-free-popeye-s-spicy-chicken-sandwiches-all-wee-1850113134)
-- [Lifehacker] [You Should Update Your Apple Devices Right Away](https://lifehacker.com/you-should-update-your-apple-devices-right-away-1850112825)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Feast on Free Popeye’s Spicy Chicken Sandwiches All Week Long](https://lifehacker.com/feast-on-free-popeye-s-spicy-chicken-sandwiches-all-wee-1850113134)<!-- TECH-POSTS:END -->
 
 ---
 
