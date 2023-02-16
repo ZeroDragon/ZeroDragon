@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Is it a good practice to use npm install -force ?](https://dev.to/bladearya/is-it-a-good-practice-to-use-npm-install-force--49fa)
+- [Dev.to/JS] [Creating Web Accessibility: Meta Tags](https://dev.to/frontend_jedi/creating-web-accessibility-meta-tags-1pcp)
+- [Dev.to/JS] [Prostadine - Prostate Health Benefits, Reviews, Price, Scam And Legit?](https://dev.to/prostadinefacts/prostadine-prostate-health-benefits-reviews-price-scam-and-legit-39ng)
+- [Dev.to/JS] [What types of web apps are there?](https://dev.to/qmoniqs/what-types-of-web-apps-are-there-4ah2)
+- [Dev.to/JS] [Markdown for beginners: with examples](https://dev.to/sachinchaurasiya/markdown-for-beginners-with-examples-3l4b)
 - [Dev.to/JS] [F8bet](https://dev.to/f8betglobal/f8bet-1dap)
 - [Dev.to/JS] [How does the web app development process look like?](https://dev.to/qmoniqs/how-does-the-web-app-development-process-look-like-354m)
 - [Dev.to/JS] [Unleash the Power of Strong Passwords: How to Build a Password Generator Chrome Extension in 5 Easy Steps](https://dev.to/knitesh/unleash-the-power-of-strong-passwords-how-to-build-a-password-generator-chrome-extension-in-5-easy-steps-1lhp)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Data Types](https://dev.to/khalildev/javascript-data-types-1ifl)
 - [Dev.to/JS] [Creating a coding first schedule](https://dev.to/schz_js/creating-a-coding-first-schedule-1mce)
 - [Dev.to/JS] [The difference between primitives and objects in JavaScript](https://dev.to/koich1/the-difference-between-primitives-and-objects-in-javascript-o6l)
-- [Dev.to/JS] [Porting my old dynamic form render from React to SolidJS](https://dev.to/ginollerena/porting-my-old-dynamic-form-render-from-react-to-solidjs-101a)
-- [Dev.to/JS] [Password Generator in 30 Seconds](https://dev.to/cstayyab/password-generator-in-30-seconds-2emi)
-- [Dev.to/JS] [Using React &quot;States&quot;](https://dev.to/yosileyid/using-react-states-4kak)
-- [Dev.to/JS] [Build your next website with Astro](https://dev.to/360macky/build-your-next-website-with-astro-40ip)
-- [Dev.to/JS] [Publishing A Package To NPM](https://dev.to/yosileyid/publishing-a-package-to-npm-4bm)
 - [Lifehacker] [Put Fancy Cheese on Some Graham Crackers](https://lifehacker.com/put-fancy-cheese-on-some-graham-crackers-1850119525)
 - [Lifehacker] [Bless Your Potatoes With Bacon Dip](https://lifehacker.com/bless-your-potatoes-with-bacon-dip-1850119698)
 - [Lifehacker] [What Is Marburg Virus &lpar;and How Much Should I Worry About It&rpar;?](https://lifehacker.com/what-is-marburg-virus-and-how-much-should-i-worry-abou-1850119986)
