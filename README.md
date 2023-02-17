@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VueJs Layouts?](https://dev.to/sem1colons/vuejs-layouts-3ci4)
 - [Dev.to/JS] [What are Regular Expressions &lpar;RegEx&rpar;?](https://dev.to/david_bilsonn/what-are-regular-expressions-regex-3p9n)
 - [Dev.to/JS] [The Tensor: The fundamental data structure of ML](https://dev.to/eteimz/the-tensor-the-fundamental-data-structure-of-ml-3c99)
 - [Dev.to/JS] [Introduction to DML - part 4: The power of simplicity](https://dev.to/efpage/introduction-to-dml-part-4-the-power-of-simplicity-46e4)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useReducer – Demystifying React Hooks &lpar;Pt. 5&rpar;](https://dev.to/austinrt/demystifying-react-hooks-usereducer-587k)
 - [Lifehacker] [You Must Make Empanada Chips and Dip](https://lifehacker.com/you-must-make-empanada-chips-and-dip-1850123718)
 - [Dev.to/JS] [An animated Heart for Valentine&#39;s Day](https://dev.to/ll/an-animated-heart-for-valentines-day-2m74)
-- [Dev.to/JS] [useRef – Demystifying React Hooks &lpar;Pt. 3&rpar;](https://dev.to/austinrt/demystifying-react-hooks-useref-4cff)
 - [Lifehacker] [8 Shows to Stream When You Need Cleaning Inspiration](https://lifehacker.com/8-shows-to-stream-when-you-need-cleaning-inspiration-1850124456)
 - [Lifehacker] [Your Green Bubble Texts Can Be Forwarded to Your Mac, Too](https://lifehacker.com/your-green-bubble-texts-can-be-forwarded-to-your-mac-t-1850124113)
 - [Lifehacker] [Stop Cleaning Your Granite This Way](https://lifehacker.com/stop-cleaning-your-granite-this-way-1850123832)
