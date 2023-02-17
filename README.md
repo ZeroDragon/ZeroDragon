@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Safe Cloud - Linode + DEV Hackathon](https://dev.to/scofieldidehen/safe-cloud-linode-dev-hackathon-1bhh)
+- [Dev.to/JS] [The Hot Trend of Digital Immune System](https://dev.to/hypeteql/the-hot-trend-of-digital-immune-system-4e42)
+- [Dev.to/JS] [Tricky JavaScript Interview Question Using Array And Object Destructuring Combined](https://dev.to/myogeshchavan97/tricky-javascript-interview-question-using-array-and-object-destructuring-combined-nj5)
+- [Dev.to/JS] [Aprende Prototype Con Pokémon - JavaScript](https://dev.to/haroldom/aprende-prototype-con-pokemon-javascript-1911)
 - [Dev.to/JS] [Understanding the Power of Online JSON Viewer](https://dev.to/praterherbs/understanding-the-power-of-online-json-viewer-592i)
 - [Dev.to/JS] [Protocol error &lpar;page.printToPdf&rpar; page range exceeds page count Puppeteer](https://dev.to/nagadev/protocol-error-pageprinttopdf-page-range-exceeds-page-count-puppeteer-736)
 - [Dev.to/JS] [Remix JS: A Modern Framework for Building Server-Rendered React Applications](https://dev.to/itfidele/remix-js-a-modern-framework-for-building-server-rendered-react-applications-3g8j)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [VueJs Layouts?](https://dev.to/sem1colons/vuejs-layouts-3ci4)
 - [Dev.to/JS] [What are Regular Expressions &lpar;RegEx&rpar;?](https://dev.to/david_bilsonn/what-are-regular-expressions-regex-3p9n)
 - [Dev.to/JS] [The Tensor: The fundamental data structure of ML](https://dev.to/eteimz/the-tensor-the-fundamental-data-structure-of-ml-3c99)
-- [Dev.to/JS] [Introduction to DML - part 4: The power of simplicity](https://dev.to/efpage/introduction-to-dml-part-4-the-power-of-simplicity-46e4)
-- [Dev.to/JS] [DFS pattern](https://dev.to/986913/dfs-pattern-15be)
-- [Dev.to/JS] [Patron de diseño de módulo, eso como se come](https://dev.to/isram/patron-de-diseno-de-modulo-eso-como-se-come-5g13)
-- [Dev.to/JS] [React Native: Adding emphasis to Text elements without the pain.](https://dev.to/gweaths/react-native-adding-emphasis-to-text-elements-without-the-pain-4jk1)
 - [Lifehacker] [These Are the Best Air Fryer Sales for President&#39;s Day Weekend](https://lifehacker.com/these-are-the-best-air-fryer-sales-for-presidents-day-w-1850124851)
 - [Lifehacker] [You Must Make Empanada Chips and Dip](https://lifehacker.com/you-must-make-empanada-chips-and-dip-1850123718)
 - [Lifehacker] [8 Shows to Stream When You Need Cleaning Inspiration](https://lifehacker.com/8-shows-to-stream-when-you-need-cleaning-inspiration-1850124456)
