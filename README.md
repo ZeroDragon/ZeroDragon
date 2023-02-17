@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What Is A Dynamic Website?](https://dev.to/yosileyid/what-is-a-dynamic-website-pje)
+- [Dev.to/JS] [Learnings from 1st software release](https://dev.to/vikas2426/learnings-from-1st-software-release-5ap3)
 - [Dev.to/JS] [Safe Cloud - Linode + DEV Hackathon](https://dev.to/scofieldidehen/safe-cloud-linode-dev-hackathon-1bhh)
 - [Dev.to/JS] [The Hot Trend of Digital Immune System](https://dev.to/hypeteql/the-hot-trend-of-digital-immune-system-4e42)
 - [Dev.to/JS] [Tricky JavaScript Interview Question Using Array And Object Destructuring Combined](https://dev.to/myogeshchavan97/tricky-javascript-interview-question-using-array-and-object-destructuring-combined-nj5)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Product of Array Except Self](https://dev.to/lausuarez02/product-of-array-except-self-31ha)
 - [Dev.to/JS] [Hi guys i am new members in dev.to .can you say what about your experience in dev.to .it changes your life right?](https://dev.to/muhammed_irshad_0722/hi-guys-i-am-new-members-in-devto-can-you-say-what-about-your-experience-in-devto-it-changes-your-life-right-22dn)
 - [Dev.to/JS] [VueJs Layouts?](https://dev.to/sem1colons/vuejs-layouts-3ci4)
-- [Dev.to/JS] [What are Regular Expressions &lpar;RegEx&rpar;?](https://dev.to/david_bilsonn/what-are-regular-expressions-regex-3p9n)
-- [Dev.to/JS] [The Tensor: The fundamental data structure of ML](https://dev.to/eteimz/the-tensor-the-fundamental-data-structure-of-ml-3c99)
 - [Lifehacker] [These Are the Best Air Fryer Sales for President&#39;s Day Weekend](https://lifehacker.com/these-are-the-best-air-fryer-sales-for-presidents-day-w-1850124851)
 - [Lifehacker] [You Must Make Empanada Chips and Dip](https://lifehacker.com/you-must-make-empanada-chips-and-dip-1850123718)
 - [Lifehacker] [8 Shows to Stream When You Need Cleaning Inspiration](https://lifehacker.com/8-shows-to-stream-when-you-need-cleaning-inspiration-1850124456)
