@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding the Document Object Model &lpar;DOM&rpar; in Web Development](https://dev.to/bappirahman/understanding-the-document-object-model-dom-in-web-development-1oi8)
+- [Dev.to/JS] [Building an Application That Interacts with the Google Maps API](https://dev.to/domfive/building-an-application-that-interacts-with-the-google-maps-api-16cc)
+- [Dev.to/JS] [Type Conversion In JavaScript](https://dev.to/khalildev/type-conversion-in-javascript-4omf)
 - [Dev.to/JS] [3D Product Card With ReactJS](https://dev.to/mohamedsoliman21/3d-product-card-with-reactjs-1f4e)
 - [Dev.to/JS] [ReactJS Advantages for Developers](https://dev.to/monu181/reactjs-advantages-for-developers-1a6m)
 - [Dev.to/JS] [How to Hire the Best ReactJS Developers for Your Project](https://dev.to/monu181/how-to-hire-the-best-reactjs-developers-for-your-project-4gnh)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What Is A Dynamic Website?](https://dev.to/yosileyid/what-is-a-dynamic-website-pje)
 - [Dev.to/JS] [Learnings from 1st software release](https://dev.to/vikas2426/learnings-from-1st-software-release-5ap3)
 - [Dev.to/JS] [Safe Cloud - Linode + DEV Hackathon](https://dev.to/scofieldidehen/safe-cloud-linode-dev-hackathon-1bhh)
-- [Dev.to/JS] [The Hot Trend of Digital Immune System](https://dev.to/hypeteql/the-hot-trend-of-digital-immune-system-4e42)
-- [Dev.to/JS] [Tricky JavaScript Interview Question Using Array And Object Destructuring Combined](https://dev.to/myogeshchavan97/tricky-javascript-interview-question-using-array-and-object-destructuring-combined-nj5)
-- [Dev.to/JS] [Aprende Prototype Con Pokémon - JavaScript](https://dev.to/haroldom/aprende-prototype-con-pokemon-javascript-1911)
 - [Lifehacker] [These Are the Best Air Fryer Sales for President&#39;s Day Weekend](https://lifehacker.com/these-are-the-best-air-fryer-sales-for-presidents-day-w-1850124851)
 - [Lifehacker] [You Must Make Empanada Chips and Dip](https://lifehacker.com/you-must-make-empanada-chips-and-dip-1850123718)
 - [Lifehacker] [8 Shows to Stream When You Need Cleaning Inspiration](https://lifehacker.com/8-shows-to-stream-when-you-need-cleaning-inspiration-1850124456)
