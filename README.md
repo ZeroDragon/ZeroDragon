@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What is &#39;Enyacore?&#39;](https://lifehacker.com/what-is-enyacore-1850129373)
+- [Dev.to/JS] [JavaScript Classes 101: A Beginner&#39;s Guide to Object-Oriented Programming](https://dev.to/yosileyid/javascript-classes-101-a-beginners-guide-to-object-oriented-programming-1mek)
+- [Lifehacker] [More Than 350,000 ‘Self-Driving’ Teslas Unsurprisingly Recalled](https://lifehacker.com/more-than-350-000-self-driving-teslas-unsurprisingly-1850128703)
 - [Dev.to/JS] [Estrutura de Dados parte 2: Algoritmos de busca.](https://dev.to/oliverigor27/estrutura-de-dados-parte-2-algoritimos-de-busca-3kg1)
 - [Dev.to/JS] [How To Create A Simple Dynamic Pagination From Scratch In Vue](https://dev.to/niles/how-to-create-a-simple-dynamic-pagination-from-scratch-in-vue-3ele)
 - [Dev.to/JS] [LeetCode #283 Move Zeroes with JavaScript](https://dev.to/masakifukunishi/leetcode-283-move-zeroes-with-javascript-d1i)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Jazz Up Desserts With a Microwave Fruit Compote](https://lifehacker.com/jazz-up-desserts-with-a-microwave-fruit-compote-1850127410)
 - [Lifehacker] [How to Test Minecraft&#39;s New Cherry Blossoms Before Everyone Else](https://lifehacker.com/how-to-test-minecrafts-new-cherry-blossoms-before-every-1850127070)
 - [Dev.to/JS] [SF Bad Date List](https://dev.to/dennisonwilliamsstjames/sf-bad-date-list-47ga)
-- [Dev.to/JS] [Take Your Web Development Skills to Next with Web API&#39;s](https://dev.to/eyitayoitalt/take-your-web-development-skills-to-next-with-web-apis-184h)
 - [Lifehacker] [Onion Ring Parm Is the Quickest Way to Get Your Parm Fix](https://lifehacker.com/onion-ring-parm-is-the-quickest-way-to-get-your-parm-fi-1850124859)
 - [Lifehacker] [12 of the Best Podcasts Celebrating Black History and Culture](https://lifehacker.com/12-of-the-best-podcasts-celebrating-black-history-and-c-1850105617)
 - [Lifehacker] [It&#39;s Easier Than You Think to Find Meaning at Work](https://lifehacker.com/its-easier-than-you-think-to-find-meaning-at-work-1850127230)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Different Saving Accounts You Need](https://lifehacker.com/all-the-different-saving-accounts-you-need-1850122921)
 - [Lifehacker] [RIP Internet Explorer, 1995–2023](https://lifehacker.com/rip-internet-explorer-1995-2023-1850122636)
 - [Crazy Programmer] [How to Become a Cyber Security Specialist in 2023?](https://www.thecrazyprogrammer.com/2023/02/how-to-become-a-cyber-security-specialist.html)
-- [Lifehacker] [How to Handle an Emotionally Immature Parent](https://lifehacker.com/how-to-handle-an-emotionally-immature-parent-1850122477)
-- [Lifehacker] [How to Avoid Lead and Cadmium in Chocolate](https://lifehacker.com/how-to-avoid-lead-and-cadmium-in-chocolate-1850120929)
-- [Lifehacker] [9 Food Labels That Don’t Mean What You Think They Mean](https://lifehacker.com/9-food-labels-that-don-t-mean-what-you-think-they-mean-1850121752)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Handle an Emotionally Immature Parent](https://lifehacker.com/how-to-handle-an-emotionally-immature-parent-1850122477)<!-- TECH-POSTS:END -->
 
 ---
 
