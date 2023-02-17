@@ -23,20 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [2023 Started](https://dev.to/constantinrazvan/2023-started-3dh4)
+- [Dev.to/JS] [Starchart: Schema Tweak and CRUD Operations](https://dev.to/cychu42/starchart-schema-tweak-and-crud-operation-1hl2)
+- [Dev.to/JS] [Animations Made Easy: The Top React Animation Libraries You Need to Know](https://dev.to/devrohit0/animations-made-easy-the-top-react-animation-libraries-you-need-to-know-335)
+- [Lifehacker] [What Freelancers Can Write Off on Their Taxes in 2023](https://lifehacker.com/what-freelancers-can-write-off-on-their-taxes-in-2023-1850124499)
+- [Dev.to/JS] [Building a Next.js preloader, the right way.](https://dev.to/seven/building-a-nextjs-preloader-the-right-way-4nei)
+- [Dev.to/JS] [Syncios WhatsApp Transfer 2.3.6 Crack with Registration Code 2023](https://dev.to/fullcracka/syncios-whatsapp-transfer-236-crack-with-registration-code-2023-jid)
+- [Dev.to/JS] [Best Tools For Building Your First MERN Application](https://dev.to/mrdanishsaleem/best-tools-for-building-your-first-mern-application-4jl9)
+- [Dev.to/JS] [Building a multi-language app with React JS 🌐](https://dev.to/franklin030601/building-a-multi-language-app-with-react-js-2och)
+- [Dev.to/JS] [Construyendo una app multi-lenguaje con React. 🌐](https://dev.to/franklin030601/construyendo-una-app-multi-lenguaje-con-react-44n2)
 - [Lifehacker] [These Are the Best Cheeses for a Grilled Cheese Sandwich](https://lifehacker.com/these-are-the-best-cheeses-for-a-grilled-cheese-sandwic-1850123760)
 - [Dev.to/JS] [Nuxt.js vs GatsbyJS vs NestJS: Which Framework is Right for Your Project?](https://dev.to/monu181/nuxtjs-vs-gatsbyjs-vs-nestjs-which-framework-is-right-for-your-project-408i)
 - [Dev.to/JS] [JavaScript - Assincronismo](https://dev.to/nascimento_/javascript-assincronismo-53kj)
 - [Dev.to/JS] [ReactJS vs Next.js: Which One Should You Choose for Your Next Project?](https://dev.to/monu181/reactjs-vs-nextjs-which-one-should-you-choose-for-your-next-project-2b20)
 - [Lifehacker] [How to Become the Pope](https://lifehacker.com/how-to-become-the-pope-1850124789)
 - [Dev.to/JS] [Commonly asked ReactJS interview questions. Here are ReactJS interview questions and answers](https://dev.to/monu181/commonly-asked-reactjs-interview-questions-here-are-reactjs-interview-questions-and-answers-1cff)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Puxando o menor valor de um array](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-puxando-o-menor-valor-de-um-array-6cd)
-- [Dev.to/JS] [Frontend Development - How do the UI Applications work?](https://dev.to/mrsrv7/frontend-development-how-do-the-ui-applications-work-4kk8)
-- [Dev.to/JS] [Optimized Search Filter React Js | Filter, Debounce, Infinite Scrolling &lpar;Pagination&rpar; | All in one](https://dev.to/xplodivity/optimized-search-filter-react-js-filter-debounce-infinite-scrolling-pagination-all-in-one-5794)
-- [Dev.to/JS] [java support please](https://dev.to/tekdez_kurumsal/java-support-please-gkh)
-- [Dev.to/JS] [Build this beautiful Custom Date Picker using Vanilla JavaScript](https://dev.to/xplodivity/build-this-beautiful-custom-date-picker-using-vanilla-javascript-ma1)
-- [Dev.to/JS] [React Table - Sever Side Pagination, Search, Sort/Order](https://dev.to/darkterminal/react-table-sever-side-pagination-search-sortorder-2p8m)
-- [Dev.to/JS] [POST TEST FLAKS APP](https://dev.to/hawkingstarling/post-test-flaks-app-1e0b)
-- [Dev.to/JS] [Build this INSANE Multi filter feature for your next project in React Js](https://dev.to/xplodivity/build-this-insane-multi-filter-feature-for-your-next-project-in-react-js-8jb)
 - [Lifehacker] [These Are the Best Air Fryer Sales for President&#39;s Day Weekend](https://lifehacker.com/these-are-the-best-air-fryer-sales-for-presidents-day-w-1850124851)
 - [Lifehacker] [You Must Make Empanada Chips and Dip](https://lifehacker.com/you-must-make-empanada-chips-and-dip-1850123718)
 - [Lifehacker] [8 Shows to Stream When You Need Cleaning Inspiration](https://lifehacker.com/8-shows-to-stream-when-you-need-cleaning-inspiration-1850124456)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Now Is the Best Time to Sign Up for a Costco Membership](https://lifehacker.com/now-is-the-best-time-to-sign-up-for-a-costco-membership-1850119198)
 - [Lifehacker] [Repairs That Aren&#39;t Actually Your Landlord&#39;s Responsibility](https://lifehacker.com/repairs-that-arent-actually-your-landlords-responsibili-1850118214)
 - [Lifehacker] [15 of the Cleverest Ways to Use Zip Ties Around the House](https://lifehacker.com/15-of-the-cleverest-ways-to-use-zip-ties-around-the-hou-1850117768)
-- [Lifehacker] [&#39;General Delivery&#39; Is Almost As Good As a PO Box](https://lifehacker.com/general-delivery-is-almost-as-good-as-a-po-box-1850118313)
-- [Lifehacker] [Nissan Is Recalling 400,000 Older Vehicles for Dangerous Airbag Issue](https://lifehacker.com/nissan-is-recalling-400-000-older-vehicles-for-dangerou-1850118242)<!-- TECH-POSTS:END -->
+- [Lifehacker] [&#39;General Delivery&#39; Is Almost As Good As a PO Box](https://lifehacker.com/general-delivery-is-almost-as-good-as-a-po-box-1850118313)<!-- TECH-POSTS:END -->
 
 ---
 
