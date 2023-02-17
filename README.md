@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Native: Adding emphasis to Text elements without the pain.](https://dev.to/gweaths/react-native-adding-emphasis-to-text-elements-without-the-pain-4jk1)
+- [Dev.to/JS] [How to Build Offline Web Applications](https://dev.to/scofieldidehen/how-to-build-offline-web-applications-5a9l)
+- [Dev.to/JS] [So You Think You Know For Loops?](https://dev.to/travis_codez/so-you-think-you-know-for-loops-1k31)
+- [Dev.to/JS] [.reduce&lpar;&rpar; for the beginner](https://dev.to/kriegercisneros/reduce-for-the-beginner-222k)
 - [Lifehacker] [These Are the Best Air Fryer Sales for President&#39;s Day Weekend](https://lifehacker.com/these-are-the-best-air-fryer-sales-for-presidents-day-w-1850124851)
 - [Dev.to/JS] [useReducer – Demystifying React Hooks &lpar;Pt. 5&rpar;](https://dev.to/austinrt/demystifying-react-hooks-usereducer-587k)
 - [Lifehacker] [You Must Make Empanada Chips and Dip](https://lifehacker.com/you-must-make-empanada-chips-and-dip-1850123718)
@@ -35,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React | Getting Started](https://dev.to/jacobjpelletier/react-getting-started-28no)
 - [Lifehacker] [Your Green Bubble Texts Can Be Forwarded to Your Mac, Too](https://lifehacker.com/your-green-bubble-texts-can-be-forwarded-to-your-mac-t-1850124113)
 - [Dev.to/JS] [Hello world!](https://dev.to/williamscarog/hello-world-g8f)
-- [Dev.to/JS] [Parcel, React &amp; Tailwind to the moon](https://dev.to/matthewsaintbull/parcel-react-tailwind-to-the-moon-37i3)
-- [Dev.to/JS] [¿Por qué es importante practicar crear juegos en Javascript?](https://dev.to/yisuscode/por-que-es-importante-practicar-crear-juegos-en-javascript-342j)
 - [Lifehacker] [Stop Cleaning Your Granite This Way](https://lifehacker.com/stop-cleaning-your-granite-this-way-1850123832)
-- [Dev.to/JS] [JavaScript Tutorial Series: Objects](https://dev.to/fullstackjo/javascript-tutorial-series-objects-4ei2)
-- [Dev.to/JS] [React States: Best Practices for Managing State in Your Applications](https://dev.to/yosileyid/react-states-best-practices-for-managing-state-in-your-applications-4pk7)
 - [Lifehacker] [Actually, I Have a Better Way to Make Those Viral Coffee Boxed Brownies](https://lifehacker.com/actually-i-have-a-better-way-to-make-those-viral-coffe-1850123596)
 - [Lifehacker] [Our Founding Fathers Would Want You to Have These Nice Pots and Pans](https://lifehacker.com/our-founding-fathers-would-want-you-to-have-these-nice-1850123464)
 - [Lifehacker] [Fasted Morning Workouts Aren&#39;t a Fat-Burning Hack](https://lifehacker.com/fasted-morning-workouts-arent-a-fat-burning-hack-1850123192)
