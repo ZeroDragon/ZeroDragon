@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Puxando o menor valor de um array](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-puxando-o-menor-valor-de-um-array-6cd)
+- [Dev.to/JS] [Frontend Development - How do the UI Applications work?](https://dev.to/mrsrv7/frontend-development-how-do-the-ui-applications-work-4kk8)
+- [Dev.to/JS] [Optimized Search Filter React Js | Filter, Debounce, Infinite Scrolling &lpar;Pagination&rpar; | All in one](https://dev.to/xplodivity/optimized-search-filter-react-js-filter-debounce-infinite-scrolling-pagination-all-in-one-5794)
 - [Dev.to/JS] [java support please](https://dev.to/tekdez_kurumsal/java-support-please-gkh)
 - [Dev.to/JS] [Build this beautiful Custom Date Picker using Vanilla JavaScript](https://dev.to/xplodivity/build-this-beautiful-custom-date-picker-using-vanilla-javascript-ma1)
 - [Dev.to/JS] [React Table - Sever Side Pagination, Search, Sort/Order](https://dev.to/darkterminal/react-table-sever-side-pagination-search-sortorder-2p8m)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [An Open letter to a beginner Programmer](https://dev.to/brianbogita/an-open-letter-to-a-beginner-programmer-2i30)
 - [Dev.to/JS] [Nx 15.7 - Node Support, Angular LTS, Lockfile Pruning](https://dev.to/nx/nx-157-node-support-angular-lts-lockfile-pruning-3m6l)
 - [Dev.to/JS] [Building a Blog with Next.js](https://dev.to/monu181/building-a-blog-with-nextjs-1l53)
-- [Dev.to/JS] [ReactJS - Tout savoir sur le Virtual DOM et la Réconciliation](https://dev.to/vincent_react/reactjs-tout-savoir-sur-le-virtual-dom-et-la-reconciliation-cec)
-- [Dev.to/JS] [Understanding the Document Object Model &lpar;DOM&rpar; in Web Development](https://dev.to/bappirahman/understanding-the-document-object-model-dom-in-web-development-1oi8)
-- [Dev.to/JS] [Building an Application That Interacts with the Google Maps API](https://dev.to/domfive/building-an-application-that-interacts-with-the-google-maps-api-16cc)
 - [Lifehacker] [These Are the Best Air Fryer Sales for President&#39;s Day Weekend](https://lifehacker.com/these-are-the-best-air-fryer-sales-for-presidents-day-w-1850124851)
 - [Lifehacker] [You Must Make Empanada Chips and Dip](https://lifehacker.com/you-must-make-empanada-chips-and-dip-1850123718)
 - [Lifehacker] [8 Shows to Stream When You Need Cleaning Inspiration](https://lifehacker.com/8-shows-to-stream-when-you-need-cleaning-inspiration-1850124456)
