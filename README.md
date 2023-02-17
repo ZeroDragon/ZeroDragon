@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Product of Array Except Self](https://dev.to/lausuarez02/product-of-array-except-self-31ha)
+- [Dev.to/JS] [Hi guys i am new members in dev.to .can you say what about your experience in dev.to .it changes your life right?](https://dev.to/muhammed_irshad_0722/hi-guys-i-am-new-members-in-devto-can-you-say-what-about-your-experience-in-devto-it-changes-your-life-right-22dn)
 - [Dev.to/JS] [VueJs Layouts?](https://dev.to/sem1colons/vuejs-layouts-3ci4)
 - [Dev.to/JS] [What are Regular Expressions &lpar;RegEx&rpar;?](https://dev.to/david_bilsonn/what-are-regular-expressions-regex-3p9n)
 - [Dev.to/JS] [The Tensor: The fundamental data structure of ML](https://dev.to/eteimz/the-tensor-the-fundamental-data-structure-of-ml-3c99)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [So You Think You Know For Loops?](https://dev.to/travis_codez/so-you-think-you-know-for-loops-1k31)
 - [Dev.to/JS] [.reduce&lpar;&rpar; for the beginner](https://dev.to/kriegercisneros/reduce-for-the-beginner-222k)
 - [Lifehacker] [These Are the Best Air Fryer Sales for President&#39;s Day Weekend](https://lifehacker.com/these-are-the-best-air-fryer-sales-for-presidents-day-w-1850124851)
-- [Dev.to/JS] [useReducer – Demystifying React Hooks &lpar;Pt. 5&rpar;](https://dev.to/austinrt/demystifying-react-hooks-usereducer-587k)
 - [Lifehacker] [You Must Make Empanada Chips and Dip](https://lifehacker.com/you-must-make-empanada-chips-and-dip-1850123718)
-- [Dev.to/JS] [An animated Heart for Valentine&#39;s Day](https://dev.to/ll/an-animated-heart-for-valentines-day-2m74)
 - [Lifehacker] [8 Shows to Stream When You Need Cleaning Inspiration](https://lifehacker.com/8-shows-to-stream-when-you-need-cleaning-inspiration-1850124456)
 - [Lifehacker] [Your Green Bubble Texts Can Be Forwarded to Your Mac, Too](https://lifehacker.com/your-green-bubble-texts-can-be-forwarded-to-your-mac-t-1850124113)
 - [Lifehacker] [Stop Cleaning Your Granite This Way](https://lifehacker.com/stop-cleaning-your-granite-this-way-1850123832)
