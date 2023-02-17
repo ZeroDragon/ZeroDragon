@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nx 15.7 - Node Support, Angular LTS, Lockfile Pruning](https://dev.to/nx/nx-157-node-support-angular-lts-lockfile-pruning-3m6l)
+- [Dev.to/JS] [Building a Blog with Next.js](https://dev.to/monu181/building-a-blog-with-nextjs-1l53)
+- [Dev.to/JS] [ReactJS - Tout savoir sur le Virtual DOM et la Réconciliation](https://dev.to/vincent_react/reactjs-tout-savoir-sur-le-virtual-dom-et-la-reconciliation-cec)
 - [Dev.to/JS] [Understanding the Document Object Model &lpar;DOM&rpar; in Web Development](https://dev.to/bappirahman/understanding-the-document-object-model-dom-in-web-development-1oi8)
 - [Dev.to/JS] [Building an Application That Interacts with the Google Maps API](https://dev.to/domfive/building-an-application-that-interacts-with-the-google-maps-api-16cc)
 - [Dev.to/JS] [Type Conversion In JavaScript](https://dev.to/khalildev/type-conversion-in-javascript-4omf)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top ReactJS Libraries for Building Web Applications](https://dev.to/monu181/top-reactjs-libraries-for-building-web-applications-57pb)
 - [Dev.to/JS] [Best Practices for Testing ReactJS Applications](https://dev.to/monu181/best-practices-for-testing-reactjs-applications-3dml)
 - [Dev.to/JS] [Common ReactJS Performance Issues and How to Fix Them](https://dev.to/monu181/common-reactjs-performance-issues-and-how-to-fix-them-2dao)
-- [Dev.to/JS] [What Is A Dynamic Website?](https://dev.to/yosileyid/what-is-a-dynamic-website-pje)
-- [Dev.to/JS] [Learnings from 1st software release](https://dev.to/vikas2426/learnings-from-1st-software-release-5ap3)
-- [Dev.to/JS] [Safe Cloud - Linode + DEV Hackathon](https://dev.to/scofieldidehen/safe-cloud-linode-dev-hackathon-1bhh)
 - [Lifehacker] [These Are the Best Air Fryer Sales for President&#39;s Day Weekend](https://lifehacker.com/these-are-the-best-air-fryer-sales-for-presidents-day-w-1850124851)
 - [Lifehacker] [You Must Make Empanada Chips and Dip](https://lifehacker.com/you-must-make-empanada-chips-and-dip-1850123718)
 - [Lifehacker] [8 Shows to Stream When You Need Cleaning Inspiration](https://lifehacker.com/8-shows-to-stream-when-you-need-cleaning-inspiration-1850124456)
