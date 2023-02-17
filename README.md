@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding the Power of Online JSON Viewer](https://dev.to/praterherbs/understanding-the-power-of-online-json-viewer-592i)
+- [Dev.to/JS] [Protocol error &lpar;page.printToPdf&rpar; page range exceeds page count Puppeteer](https://dev.to/nagadev/protocol-error-pageprinttopdf-page-range-exceeds-page-count-puppeteer-736)
+- [Dev.to/JS] [Remix JS: A Modern Framework for Building Server-Rendered React Applications](https://dev.to/itfidele/remix-js-a-modern-framework-for-building-server-rendered-react-applications-3g8j)
 - [Dev.to/JS] [Product of Array Except Self](https://dev.to/lausuarez02/product-of-array-except-self-31ha)
 - [Dev.to/JS] [Hi guys i am new members in dev.to .can you say what about your experience in dev.to .it changes your life right?](https://dev.to/muhammed_irshad_0722/hi-guys-i-am-new-members-in-devto-can-you-say-what-about-your-experience-in-devto-it-changes-your-life-right-22dn)
 - [Dev.to/JS] [VueJs Layouts?](https://dev.to/sem1colons/vuejs-layouts-3ci4)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [DFS pattern](https://dev.to/986913/dfs-pattern-15be)
 - [Dev.to/JS] [Patron de diseño de módulo, eso como se come](https://dev.to/isram/patron-de-diseno-de-modulo-eso-como-se-come-5g13)
 - [Dev.to/JS] [React Native: Adding emphasis to Text elements without the pain.](https://dev.to/gweaths/react-native-adding-emphasis-to-text-elements-without-the-pain-4jk1)
-- [Dev.to/JS] [How to Build Offline Web Applications](https://dev.to/scofieldidehen/how-to-build-offline-web-applications-5a9l)
-- [Dev.to/JS] [So You Think You Know For Loops?](https://dev.to/travis_codez/so-you-think-you-know-for-loops-1k31)
-- [Dev.to/JS] [.reduce&lpar;&rpar; for the beginner](https://dev.to/kriegercisneros/reduce-for-the-beginner-222k)
 - [Lifehacker] [These Are the Best Air Fryer Sales for President&#39;s Day Weekend](https://lifehacker.com/these-are-the-best-air-fryer-sales-for-presidents-day-w-1850124851)
 - [Lifehacker] [You Must Make Empanada Chips and Dip](https://lifehacker.com/you-must-make-empanada-chips-and-dip-1850123718)
 - [Lifehacker] [8 Shows to Stream When You Need Cleaning Inspiration](https://lifehacker.com/8-shows-to-stream-when-you-need-cleaning-inspiration-1850124456)
