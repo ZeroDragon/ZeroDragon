@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Tensor: The fundamental data structure of ML](https://dev.to/eteimz/the-tensor-the-fundamental-data-structure-of-ml-3c99)
+- [Dev.to/JS] [Introduction to DML - part 4: The power of simplicity](https://dev.to/efpage/introduction-to-dml-part-4-the-power-of-simplicity-46e4)
+- [Dev.to/JS] [DFS pattern](https://dev.to/986913/dfs-pattern-15be)
+- [Dev.to/JS] [Patron de diseño de módulo, eso como se come](https://dev.to/isram/patron-de-diseno-de-modulo-eso-como-se-come-5g13)
 - [Dev.to/JS] [React Native: Adding emphasis to Text elements without the pain.](https://dev.to/gweaths/react-native-adding-emphasis-to-text-elements-without-the-pain-4jk1)
 - [Dev.to/JS] [How to Build Offline Web Applications](https://dev.to/scofieldidehen/how-to-build-offline-web-applications-5a9l)
 - [Dev.to/JS] [So You Think You Know For Loops?](https://dev.to/travis_codez/so-you-think-you-know-for-loops-1k31)
@@ -33,12 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [An animated Heart for Valentine&#39;s Day](https://dev.to/ll/an-animated-heart-for-valentines-day-2m74)
 - [Dev.to/JS] [useRef – Demystifying React Hooks &lpar;Pt. 3&rpar;](https://dev.to/austinrt/demystifying-react-hooks-useref-4cff)
 - [Dev.to/JS] [useMemo – Demystifying React Hooks &lpar;Pt. 2&rpar;](https://dev.to/austinrt/demystifying-react-hooks-usememo-28d4)
-- [Dev.to/JS] [useCallback – Demystifying React Hooks &lpar;Pt. 1&rpar;](https://dev.to/austinrt/demystifying-react-hooks-usecallback-4618)
 - [Lifehacker] [8 Shows to Stream When You Need Cleaning Inspiration](https://lifehacker.com/8-shows-to-stream-when-you-need-cleaning-inspiration-1850124456)
-- [Dev.to/JS] [React Hooks: The Superheroes of Functional Components](https://dev.to/thisissouray/react-hooks-the-superheroes-of-functional-components-4766)
-- [Dev.to/JS] [React | Getting Started](https://dev.to/jacobjpelletier/react-getting-started-28no)
 - [Lifehacker] [Your Green Bubble Texts Can Be Forwarded to Your Mac, Too](https://lifehacker.com/your-green-bubble-texts-can-be-forwarded-to-your-mac-t-1850124113)
-- [Dev.to/JS] [Hello world!](https://dev.to/williamscarog/hello-world-g8f)
 - [Lifehacker] [Stop Cleaning Your Granite This Way](https://lifehacker.com/stop-cleaning-your-granite-this-way-1850123832)
 - [Lifehacker] [Actually, I Have a Better Way to Make Those Viral Coffee Boxed Brownies](https://lifehacker.com/actually-i-have-a-better-way-to-make-those-viral-coffe-1850123596)
 - [Lifehacker] [Our Founding Fathers Would Want You to Have These Nice Pots and Pans](https://lifehacker.com/our-founding-fathers-would-want-you-to-have-these-nice-1850123464)
