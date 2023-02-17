@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Cheeses for a Grilled Cheese Sandwich](https://lifehacker.com/these-are-the-best-cheeses-for-a-grilled-cheese-sandwic-1850123760)
+- [Dev.to/JS] [Nuxt.js vs GatsbyJS vs NestJS: Which Framework is Right for Your Project?](https://dev.to/monu181/nuxtjs-vs-gatsbyjs-vs-nestjs-which-framework-is-right-for-your-project-408i)
+- [Dev.to/JS] [JavaScript - Assincronismo](https://dev.to/nascimento_/javascript-assincronismo-53kj)
+- [Dev.to/JS] [ReactJS vs Next.js: Which One Should You Choose for Your Next Project?](https://dev.to/monu181/reactjs-vs-nextjs-which-one-should-you-choose-for-your-next-project-2b20)
+- [Lifehacker] [How to Become the Pope](https://lifehacker.com/how-to-become-the-pope-1850124789)
+- [Dev.to/JS] [Commonly asked ReactJS interview questions. Here are ReactJS interview questions and answers](https://dev.to/monu181/commonly-asked-reactjs-interview-questions-here-are-reactjs-interview-questions-and-answers-1cff)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Puxando o menor valor de um array](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-puxando-o-menor-valor-de-um-array-6cd)
 - [Dev.to/JS] [Frontend Development - How do the UI Applications work?](https://dev.to/mrsrv7/frontend-development-how-do-the-ui-applications-work-4kk8)
 - [Dev.to/JS] [Optimized Search Filter React Js | Filter, Debounce, Infinite Scrolling &lpar;Pagination&rpar; | All in one](https://dev.to/xplodivity/optimized-search-filter-react-js-filter-debounce-infinite-scrolling-pagination-all-in-one-5794)
@@ -31,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Table - Sever Side Pagination, Search, Sort/Order](https://dev.to/darkterminal/react-table-sever-side-pagination-search-sortorder-2p8m)
 - [Dev.to/JS] [POST TEST FLAKS APP](https://dev.to/hawkingstarling/post-test-flaks-app-1e0b)
 - [Dev.to/JS] [Build this INSANE Multi filter feature for your next project in React Js](https://dev.to/xplodivity/build-this-insane-multi-filter-feature-for-your-next-project-in-react-js-8jb)
-- [Dev.to/JS] [JavaScript: Porque usar Promise.all?](https://dev.to/cristuker/javascript-porque-usar-promiseall-4jc3)
-- [Dev.to/JS] [An Open letter to a beginner Programmer](https://dev.to/brianbogita/an-open-letter-to-a-beginner-programmer-2i30)
-- [Dev.to/JS] [Nx 15.7 - Node Support, Angular LTS, Lockfile Pruning](https://dev.to/nx/nx-157-node-support-angular-lts-lockfile-pruning-3m6l)
-- [Dev.to/JS] [Building a Blog with Next.js](https://dev.to/monu181/building-a-blog-with-nextjs-1l53)
 - [Lifehacker] [These Are the Best Air Fryer Sales for President&#39;s Day Weekend](https://lifehacker.com/these-are-the-best-air-fryer-sales-for-presidents-day-w-1850124851)
 - [Lifehacker] [You Must Make Empanada Chips and Dip](https://lifehacker.com/you-must-make-empanada-chips-and-dip-1850123718)
 - [Lifehacker] [8 Shows to Stream When You Need Cleaning Inspiration](https://lifehacker.com/8-shows-to-stream-when-you-need-cleaning-inspiration-1850124456)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Repairs That Aren&#39;t Actually Your Landlord&#39;s Responsibility](https://lifehacker.com/repairs-that-arent-actually-your-landlords-responsibili-1850118214)
 - [Lifehacker] [15 of the Cleverest Ways to Use Zip Ties Around the House](https://lifehacker.com/15-of-the-cleverest-ways-to-use-zip-ties-around-the-hou-1850117768)
 - [Lifehacker] [&#39;General Delivery&#39; Is Almost As Good As a PO Box](https://lifehacker.com/general-delivery-is-almost-as-good-as-a-po-box-1850118313)
-- [Lifehacker] [Nissan Is Recalling 400,000 Older Vehicles for Dangerous Airbag Issue](https://lifehacker.com/nissan-is-recalling-400-000-older-vehicles-for-dangerou-1850118242)
-- [Lifehacker] [Your Android Phone Can Feel so Much Faster](https://lifehacker.com/your-android-phone-can-feel-so-much-faster-1850118629)
-- [Lifehacker] [9 Traditional Treats for Fat Tuesday &lpar;and All the Other Fat Days Too&rpar;](https://lifehacker.com/9-traditional-treats-for-fat-tuesday-and-all-the-other-1850118038)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Nissan Is Recalling 400,000 Older Vehicles for Dangerous Airbag Issue](https://lifehacker.com/nissan-is-recalling-400-000-older-vehicles-for-dangerou-1850118242)<!-- TECH-POSTS:END -->
 
 ---
 
