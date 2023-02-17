@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Samsung’s New ‘Message Guard’ Protects Your Phone From &#39;Zero-Click&#39; Attacks](https://lifehacker.com/how-samsung-s-new-message-guard-protects-your-phone-f-1850127377)
+- [Dev.to/JS] [React JS hooks](https://dev.to/maximc137/react-js-hooks-28c8)
+- [Dev.to/JS] [🪝 What is Hoisting in JavaScript?](https://dev.to/catherineisonline/what-is-hoisting-in-javascript-5c9b)
+- [Lifehacker] [Don&#39;t Call the IRS This Weekend Unless You Absolutely Have To](https://lifehacker.com/dont-call-the-irs-this-weekend-unless-you-absolutely-ha-1850129949)
+- [Dev.to/JS] [Next.js vs Java: A Comprehensive Comparison of Two Powerhouse Web Development Technologies with Code Examples.](https://dev.to/monu181/nextjs-vs-java-a-comprehensive-comparison-of-two-powerhouse-web-development-technologies-with-code-examples-4moc)
+- [Lifehacker] [How to Get the New iPhone Emojis Early](https://lifehacker.com/how-to-get-the-new-iphone-emojis-early-1850128259)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What is &#39;Enyacore?&#39;](https://lifehacker.com/what-is-enyacore-1850129373)
 - [Dev.to/JS] [JavaScript Classes 101: A Beginner&#39;s Guide to Object-Oriented Programming](https://dev.to/yosileyid/javascript-classes-101-a-beginners-guide-to-object-oriented-programming-1mek)
 - [Lifehacker] [More Than 350,000 ‘Self-Driving’ Teslas Unsurprisingly Recalled](https://lifehacker.com/more-than-350-000-self-driving-teslas-unsurprisingly-1850128703)
@@ -36,11 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Update Your MacBook Cable for Some Reason](https://lifehacker.com/you-can-update-your-macbook-cable-for-some-reason-1850127766)
 - [Dev.to/JS] [The power of the bar graph: DOM manipulation via Javascript](https://dev.to/btryonglitterkitty/the-power-of-the-bar-graph-dom-manipulation-via-javascript-k1)
 - [Dev.to/JS] [JavaScript Tutorial Series: Functions.](https://dev.to/fullstackjo/javascript-tutorial-series-functions-5568)
-- [Dev.to/JS] [Tipovi u JavaScriptu](https://dev.to/bslaven/tipovi-u-javascriptu-eef)
-- [Dev.to/JS] [Test Driven Development in NodeJS](https://dev.to/eyitayoitalt/test-driven-development-in-nodejs-1jap)
 - [Lifehacker] [Jazz Up Desserts With a Microwave Fruit Compote](https://lifehacker.com/jazz-up-desserts-with-a-microwave-fruit-compote-1850127410)
 - [Lifehacker] [How to Test Minecraft&#39;s New Cherry Blossoms Before Everyone Else](https://lifehacker.com/how-to-test-minecrafts-new-cherry-blossoms-before-every-1850127070)
-- [Dev.to/JS] [SF Bad Date List](https://dev.to/dennisonwilliamsstjames/sf-bad-date-list-47ga)
 - [Lifehacker] [Onion Ring Parm Is the Quickest Way to Get Your Parm Fix](https://lifehacker.com/onion-ring-parm-is-the-quickest-way-to-get-your-parm-fi-1850124859)
 - [Lifehacker] [12 of the Best Podcasts Celebrating Black History and Culture](https://lifehacker.com/12-of-the-best-podcasts-celebrating-black-history-and-c-1850105617)
 - [Lifehacker] [It&#39;s Easier Than You Think to Find Meaning at Work](https://lifehacker.com/its-easier-than-you-think-to-find-meaning-at-work-1850127230)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Our Founding Fathers Would Want You to Have These Nice Pots and Pans](https://lifehacker.com/our-founding-fathers-would-want-you-to-have-these-nice-1850123464)
 - [Lifehacker] [Fasted Morning Workouts Aren&#39;t a Fat-Burning Hack](https://lifehacker.com/fasted-morning-workouts-arent-a-fat-burning-hack-1850123192)
 - [Lifehacker] [Not All Cloud Bread Is Created Equal](https://lifehacker.com/not-all-cloud-bread-is-created-equal-1850122674)
-- [Lifehacker] [All the Different Saving Accounts You Need](https://lifehacker.com/all-the-different-saving-accounts-you-need-1850122921)
-- [Lifehacker] [RIP Internet Explorer, 1995–2023](https://lifehacker.com/rip-internet-explorer-1995-2023-1850122636)
-- [Crazy Programmer] [How to Become a Cyber Security Specialist in 2023?](https://www.thecrazyprogrammer.com/2023/02/how-to-become-a-cyber-security-specialist.html)
-- [Lifehacker] [How to Handle an Emotionally Immature Parent](https://lifehacker.com/how-to-handle-an-emotionally-immature-parent-1850122477)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Different Saving Accounts You Need](https://lifehacker.com/all-the-different-saving-accounts-you-need-1850122921)<!-- TECH-POSTS:END -->
 
 ---
 
