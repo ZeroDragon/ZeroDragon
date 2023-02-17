@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Test Minecraft&#39;s New Cherry Blossoms Before Everyone Else](https://lifehacker.com/how-to-test-minecrafts-new-cherry-blossoms-before-every-1850127070)
+- [Dev.to/JS] [SF Bad Date List](https://dev.to/dennisonwilliamsstjames/sf-bad-date-list-47ga)
+- [Dev.to/JS] [Take Your Web Development Skills to Next with Web API&#39;s](https://dev.to/eyitayoitalt/take-your-web-development-skills-to-next-with-web-apis-184h)
+- [Lifehacker] [Onion Ring Parm Is the Quickest Way to Get Your Parm Fix](https://lifehacker.com/onion-ring-parm-is-the-quickest-way-to-get-your-parm-fi-1850124859)
+- [Dev.to/JS] [Unpredictable behaviour of state in React](https://dev.to/fhusain01/unpredictable-behaviour-of-state-in-react-2egk)
+- [Lifehacker] [12 of the Best Podcasts Celebrating Black History and Culture](https://lifehacker.com/12-of-the-best-podcasts-celebrating-black-history-and-c-1850105617)
 - [Dev.to/JS] [Scroll Animation | ScrollReveal](https://dev.to/sanketbodake/scroll-animation-scrollreveal-30jj)
 - [Lifehacker] [It&#39;s Easier Than You Think to Find Meaning at Work](https://lifehacker.com/its-easier-than-you-think-to-find-meaning-at-work-1850127230)
 - [Dev.to/JS] [3 Steps to OAuth &lpar;with Code &amp; Examples!&rpar;](https://dev.to/kuvambhardwaj/3-steps-to-oauth-with-code-examples-n99)
@@ -35,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Ultimate Guide to Mastering Front-End Technologies and Tools in 2023: A Comprehensive Overview](https://dev.to/mohammadrahi/the-ultimate-guide-to-mastering-front-end-technologies-and-tools-in-2023-a-comprehensive-overview-58am)
 - [Lifehacker] [Use These Three Adidas Discounts at the Same Time](https://lifehacker.com/use-these-three-adidas-discounts-at-the-same-time-1850125074)
 - [Dev.to/JS] [Build this awesome Dynamic Progress Bar using JavaScript](https://dev.to/xplodivity/dynamic-progress-bar-using-javascript-3a3o)
-- [Dev.to/JS] [My Journey Creating an API to Check Terms and Conditions Using ChatGPT](https://dev.to/bitheap_tech/my-journey-creating-an-api-to-check-terms-and-conditions-using-chatgpt-4299)
-- [Dev.to/JS] [2023 Started](https://dev.to/constantinrazvan/2023-started-3dh4)
 - [Lifehacker] [No, Bing&#39;s AI Chatbot Is Not Sentient](https://lifehacker.com/no-bings-ai-chatbot-is-not-sentient-1850125502)
-- [Dev.to/JS] [Starchart: Schema Tweak and CRUD Operations](https://dev.to/cychu42/starchart-schema-tweak-and-crud-operation-1hl2)
 - [Lifehacker] [What Freelancers Can Write Off on Their Taxes in 2023](https://lifehacker.com/what-freelancers-can-write-off-on-their-taxes-in-2023-1850124499)
 - [Lifehacker] [These Are the Best Cheeses for a Grilled Cheese Sandwich](https://lifehacker.com/these-are-the-best-cheeses-for-a-grilled-cheese-sandwic-1850123760)
 - [Lifehacker] [How to Become the Pope](https://lifehacker.com/how-to-become-the-pope-1850124789)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Food Labels That Don’t Mean What You Think They Mean](https://lifehacker.com/9-food-labels-that-don-t-mean-what-you-think-they-mean-1850121752)
 - [Lifehacker] [&#39;Winnie The Pooh: Blood and Honey&#39; and 11 More Horror Movies Based on Kids&#39; Characters](https://lifehacker.com/winnie-the-pooh-blood-and-honey-and-11-more-horror-mov-1850121061)
 - [Lifehacker] [15 Ways to Build a Better Breakfast Sandwich](https://lifehacker.com/15-ways-to-build-a-better-breakfast-sandwich-1850119709)
-- [Lifehacker] [How to Reset Your Post-Pandemic Parental Health Anxiety](https://lifehacker.com/how-to-reset-your-post-pandemic-parental-health-anxiety-1850117622)
-- [Lifehacker] [Put Fancy Cheese on Some Graham Crackers](https://lifehacker.com/put-fancy-cheese-on-some-graham-crackers-1850119525)
-- [Lifehacker] [Bless Your Potatoes With Bacon Dip](https://lifehacker.com/bless-your-potatoes-with-bacon-dip-1850119698)
-- [Lifehacker] [What Is Marburg Virus &lpar;and How Much Should I Worry About It&rpar;?](https://lifehacker.com/what-is-marburg-virus-and-how-much-should-i-worry-abou-1850119986)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Reset Your Post-Pandemic Parental Health Anxiety](https://lifehacker.com/how-to-reset-your-post-pandemic-parental-health-anxiety-1850117622)<!-- TECH-POSTS:END -->
 
 ---
 
