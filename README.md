@@ -23,21 +23,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scroll Animation | ScrollReveal](https://dev.to/sanketbodake/scroll-animation-scrollreveal-30jj)
+- [Lifehacker] [It&#39;s Easier Than You Think to Find Meaning at Work](https://lifehacker.com/its-easier-than-you-think-to-find-meaning-at-work-1850127230)
+- [Dev.to/JS] [3 Steps to OAuth &lpar;with Code &amp; Examples!&rpar;](https://dev.to/kuvambhardwaj/3-steps-to-oauth-with-code-examples-n99)
+- [Dev.to/JS] [JavaScript Closures and Custom Iterators: A Comprehensive Guide.](https://dev.to/tommydemian/javascript-closures-and-custom-iterators-a-comprehensive-guide-5a0m)
+- [Dev.to/JS] [This trick will 10x your JavaScript application performance](https://dev.to/xplodivity/this-trick-will-10x-your-javascript-application-performance-3hfn)
+- [Dev.to/JS] [Polyfills in JavaScript | &lpar; forEach, map, filter, reduce ,reduceRight and flat &rpar;](https://dev.to/xplodivity/polyfills-in-javascript-foreach-map-filter-reduce-reduceright-and-flat--482e)
+- [Lifehacker] [12 Pre-Code Movies That Prove Hollywood Was Always Obsessed With Crime, Violence, and Sex](https://lifehacker.com/12-pre-code-movies-that-prove-hollywood-was-always-obse-1850118872)
 - [Dev.to/JS] [Unlock the Power of Microservices with RabbitMQ on Docker](https://dev.to/samueldev/unlock-the-power-of-microservices-with-rabbitmq-on-docker-2oio)
 - [Dev.to/JS] [Building a real-time commenting app with Socket.io and React](https://dev.to/knocklabs/building-a-real-time-commenting-app-with-socketio-and-react-11ae)
 - [Dev.to/JS] [The Ultimate Guide to Mastering Front-End Technologies and Tools in 2023: A Comprehensive Overview](https://dev.to/mohammadrahi/the-ultimate-guide-to-mastering-front-end-technologies-and-tools-in-2023-a-comprehensive-overview-58am)
 - [Lifehacker] [Use These Three Adidas Discounts at the Same Time](https://lifehacker.com/use-these-three-adidas-discounts-at-the-same-time-1850125074)
-- [Dev.to/JS] [How to build an availability search UI with Elasticsearch](https://dev.to/joemcelroy/how-to-build-an-availability-search-with-elasticsearch-57f0)
 - [Dev.to/JS] [Build this awesome Dynamic Progress Bar using JavaScript](https://dev.to/xplodivity/dynamic-progress-bar-using-javascript-3a3o)
 - [Dev.to/JS] [My Journey Creating an API to Check Terms and Conditions Using ChatGPT](https://dev.to/bitheap_tech/my-journey-creating-an-api-to-check-terms-and-conditions-using-chatgpt-4299)
 - [Dev.to/JS] [2023 Started](https://dev.to/constantinrazvan/2023-started-3dh4)
 - [Lifehacker] [No, Bing&#39;s AI Chatbot Is Not Sentient](https://lifehacker.com/no-bings-ai-chatbot-is-not-sentient-1850125502)
 - [Dev.to/JS] [Starchart: Schema Tweak and CRUD Operations](https://dev.to/cychu42/starchart-schema-tweak-and-crud-operation-1hl2)
-- [Dev.to/JS] [Animations Made Easy: The Top React Animation Libraries You Need to Know](https://dev.to/devrohit0/animations-made-easy-the-top-react-animation-libraries-you-need-to-know-335)
 - [Lifehacker] [What Freelancers Can Write Off on Their Taxes in 2023](https://lifehacker.com/what-freelancers-can-write-off-on-their-taxes-in-2023-1850124499)
-- [Dev.to/JS] [Building a Next.js preloader, the right way.](https://dev.to/seven/building-a-nextjs-preloader-the-right-way-4nei)
-- [Dev.to/JS] [Syncios WhatsApp Transfer 2.3.6 Crack with Registration Code 2023](https://dev.to/fullcracka/syncios-whatsapp-transfer-236-crack-with-registration-code-2023-jid)
-- [Dev.to/JS] [Best Tools For Building Your First MERN Application](https://dev.to/mrdanishsaleem/best-tools-for-building-your-first-mern-application-4jl9)
 - [Lifehacker] [These Are the Best Cheeses for a Grilled Cheese Sandwich](https://lifehacker.com/these-are-the-best-cheeses-for-a-grilled-cheese-sandwic-1850123760)
 - [Lifehacker] [How to Become the Pope](https://lifehacker.com/how-to-become-the-pope-1850124789)
 - [Lifehacker] [These Are the Best Air Fryer Sales for President&#39;s Day Weekend](https://lifehacker.com/these-are-the-best-air-fryer-sales-for-presidents-day-w-1850124851)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Reset Your Post-Pandemic Parental Health Anxiety](https://lifehacker.com/how-to-reset-your-post-pandemic-parental-health-anxiety-1850117622)
 - [Lifehacker] [Put Fancy Cheese on Some Graham Crackers](https://lifehacker.com/put-fancy-cheese-on-some-graham-crackers-1850119525)
 - [Lifehacker] [Bless Your Potatoes With Bacon Dip](https://lifehacker.com/bless-your-potatoes-with-bacon-dip-1850119698)
-- [Lifehacker] [What Is Marburg Virus &lpar;and How Much Should I Worry About It&rpar;?](https://lifehacker.com/what-is-marburg-virus-and-how-much-should-i-worry-abou-1850119986)
-- [Lifehacker] [Now Is the Best Time to Sign Up for a Costco Membership](https://lifehacker.com/now-is-the-best-time-to-sign-up-for-a-costco-membership-1850119198)
-- [Lifehacker] [Repairs That Aren&#39;t Actually Your Landlord&#39;s Responsibility](https://lifehacker.com/repairs-that-arent-actually-your-landlords-responsibili-1850118214)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Is Marburg Virus &lpar;and How Much Should I Worry About It&rpar;?](https://lifehacker.com/what-is-marburg-virus-and-how-much-should-i-worry-abou-1850119986)<!-- TECH-POSTS:END -->
 
 ---
 
