@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Update Your MacBook Cable for Some Reason](https://lifehacker.com/you-can-update-your-macbook-cable-for-some-reason-1850127766)
+- [Dev.to/JS] [The power of the bar graph: DOM manipulation via Javascript](https://dev.to/btryonglitterkitty/the-power-of-the-bar-graph-dom-manipulation-via-javascript-k1)
+- [Dev.to/JS] [JavaScript Tutorial Series: Functions.](https://dev.to/fullstackjo/javascript-tutorial-series-functions-5568)
+- [Dev.to/JS] [Tipovi u JavaScriptu](https://dev.to/bslaven/tipovi-u-javascriptu-eef)
+- [Dev.to/JS] [Test Driven Development in NodeJS](https://dev.to/eyitayoitalt/test-driven-development-in-nodejs-1jap)
+- [Lifehacker] [Jazz Up Desserts With a Microwave Fruit Compote](https://lifehacker.com/jazz-up-desserts-with-a-microwave-fruit-compote-1850127410)
 - [Lifehacker] [How to Test Minecraft&#39;s New Cherry Blossoms Before Everyone Else](https://lifehacker.com/how-to-test-minecrafts-new-cherry-blossoms-before-every-1850127070)
 - [Dev.to/JS] [SF Bad Date List](https://dev.to/dennisonwilliamsstjames/sf-bad-date-list-47ga)
 - [Dev.to/JS] [Take Your Web Development Skills to Next with Web API&#39;s](https://dev.to/eyitayoitalt/take-your-web-development-skills-to-next-with-web-apis-184h)
@@ -36,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This trick will 10x your JavaScript application performance](https://dev.to/xplodivity/this-trick-will-10x-your-javascript-application-performance-3hfn)
 - [Dev.to/JS] [Polyfills in JavaScript | &lpar; forEach, map, filter, reduce ,reduceRight and flat &rpar;](https://dev.to/xplodivity/polyfills-in-javascript-foreach-map-filter-reduce-reduceright-and-flat--482e)
 - [Lifehacker] [12 Pre-Code Movies That Prove Hollywood Was Always Obsessed With Crime, Violence, and Sex](https://lifehacker.com/12-pre-code-movies-that-prove-hollywood-was-always-obse-1850118872)
-- [Dev.to/JS] [Unlock the Power of Microservices with RabbitMQ on Docker](https://dev.to/samueldev/unlock-the-power-of-microservices-with-rabbitmq-on-docker-2oio)
-- [Dev.to/JS] [Building a real-time commenting app with Socket.io and React](https://dev.to/knocklabs/building-a-real-time-commenting-app-with-socketio-and-react-11ae)
-- [Dev.to/JS] [The Ultimate Guide to Mastering Front-End Technologies and Tools in 2023: A Comprehensive Overview](https://dev.to/mohammadrahi/the-ultimate-guide-to-mastering-front-end-technologies-and-tools-in-2023-a-comprehensive-overview-58am)
 - [Lifehacker] [Use These Three Adidas Discounts at the Same Time](https://lifehacker.com/use-these-three-adidas-discounts-at-the-same-time-1850125074)
-- [Dev.to/JS] [Build this awesome Dynamic Progress Bar using JavaScript](https://dev.to/xplodivity/dynamic-progress-bar-using-javascript-3a3o)
 - [Lifehacker] [No, Bing&#39;s AI Chatbot Is Not Sentient](https://lifehacker.com/no-bings-ai-chatbot-is-not-sentient-1850125502)
 - [Lifehacker] [What Freelancers Can Write Off on Their Taxes in 2023](https://lifehacker.com/what-freelancers-can-write-off-on-their-taxes-in-2023-1850124499)
 - [Lifehacker] [These Are the Best Cheeses for a Grilled Cheese Sandwich](https://lifehacker.com/these-are-the-best-cheeses-for-a-grilled-cheese-sandwic-1850123760)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Handle an Emotionally Immature Parent](https://lifehacker.com/how-to-handle-an-emotionally-immature-parent-1850122477)
 - [Lifehacker] [How to Avoid Lead and Cadmium in Chocolate](https://lifehacker.com/how-to-avoid-lead-and-cadmium-in-chocolate-1850120929)
 - [Lifehacker] [9 Food Labels That Don’t Mean What You Think They Mean](https://lifehacker.com/9-food-labels-that-don-t-mean-what-you-think-they-mean-1850121752)
-- [Lifehacker] [&#39;Winnie The Pooh: Blood and Honey&#39; and 11 More Horror Movies Based on Kids&#39; Characters](https://lifehacker.com/winnie-the-pooh-blood-and-honey-and-11-more-horror-mov-1850121061)
-- [Lifehacker] [15 Ways to Build a Better Breakfast Sandwich](https://lifehacker.com/15-ways-to-build-a-better-breakfast-sandwich-1850119709)
-- [Lifehacker] [How to Reset Your Post-Pandemic Parental Health Anxiety](https://lifehacker.com/how-to-reset-your-post-pandemic-parental-health-anxiety-1850117622)<!-- TECH-POSTS:END -->
+- [Lifehacker] [&#39;Winnie The Pooh: Blood and Honey&#39; and 11 More Horror Movies Based on Kids&#39; Characters](https://lifehacker.com/winnie-the-pooh-blood-and-honey-and-11-more-horror-mov-1850121061)<!-- TECH-POSTS:END -->
 
 ---
 
