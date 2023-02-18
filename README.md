@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CODE DESCRIPTION/REVIEW](https://dev.to/chinwendufausty/code-descriptionreview-3ck4)
+- [Dev.to/JS] [Getting started with NestJs](https://dev.to/katerakeren/getting-started-with-nestjs-1d35)
 - [Dev.to/JS] [Week 3: Junior to Intermediate Dev](https://dev.to/janarth10/week-3-junior-to-intermediate-dev-32no)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
 - [Dev.to/JS] [How come my debugger isn&#39;t working?](https://dev.to/janarth10/how-come-my-debugger-isnt-working-4b19)
@@ -42,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Create A Simple Dynamic Pagination From Scratch In Vue](https://dev.to/niles/how-to-create-a-simple-dynamic-pagination-from-scratch-in-vue-3ele)
 - [Dev.to/JS] [LeetCode #283 Move Zeroes with JavaScript](https://dev.to/masakifukunishi/leetcode-283-move-zeroes-with-javascript-d1i)
 - [Lifehacker] [Make Better a Stir Fry by Velveting Your Meat](https://lifehacker.com/make-better-a-stir-fry-by-velveting-your-meat-1850128415)
-- [Dev.to/JS] [Java VS JavaScript](https://dev.to/tmchuynh/java-vs-javascript-50dm)
-- [Dev.to/JS] [Tables with Supabase](https://dev.to/guillaumeduhan/tables-with-supabase-1nmd)
 - [Lifehacker] [You Can Update Your MacBook Cable for Some Reason](https://lifehacker.com/you-can-update-your-macbook-cable-for-some-reason-1850127766)
 - [Lifehacker] [Jazz Up Desserts With a Microwave Fruit Compote](https://lifehacker.com/jazz-up-desserts-with-a-microwave-fruit-compote-1850127410)
 - [Lifehacker] [How to Test Minecraft&#39;s New Cherry Blossoms Before Everyone Else](https://lifehacker.com/how-to-test-minecrafts-new-cherry-blossoms-before-every-1850127070)
