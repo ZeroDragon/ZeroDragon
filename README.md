@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Formik Works Great; Here&#39;s Why I Wrote My Own](https://dev.to/crutchcorn/formik-works-great-heres-why-i-wrote-my-own-591m)
+- [Dev.to/JS] [The ultimate guide to mastering Next JS — &lpar;Part 1 of 3&rpar;](https://dev.to/rustybatmobile/the-ultimate-guide-to-mastering-next-js-part-1-of-3-3cl8)
+- [Dev.to/JS] [Why &lpar;almost&rpar; every startup should only use TypeScript](https://dev.to/rustybatmobile/why-almost-every-startup-should-only-use-typescript-4n91)
+- [Dev.to/JS] [How To Make Login Page Like Twitter Using React Js | Sign In Page Design With React Js](https://dev.to/ziontutorial/how-to-make-login-page-like-twitter-using-react-js-sign-in-page-design-with-react-js-31hf)
 - [Dev.to/JS] [#refineweek: Creating an Admin Dashboard with refine](https://dev.to/refine/refineweek-creating-an-admin-dashboard-with-refine-5hm8)
 - [Dev.to/JS] [Monolith to Module Federation at RazorpayX](https://dev.to/burhanuday/monolith-to-module-federation-at-razorpayx-3e8p)
 - [Dev.to/JS] [Most difficult challenges as a programmer?](https://dev.to/mubirueltonfelix/most-difficult-challenges-as-a-programmer-4pdf)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Blockchain Developer Road Map 💫.](https://dev.to/akshaykurhekar/blockchain-developer-road-map--50i1)
 - [Dev.to/JS] [Design Patterns in JavaScript: Creational Patterns](https://dev.to/furkangulsen/design-patterns-in-javascript-creational-patterns-594h)
 - [Dev.to/JS] [My first post](https://dev.to/marcopolello/my-first-post-4go9)
-- [Dev.to/JS] [Launching Flasho- Open source customer notifications for developers](https://dev.to/jhansi/launching-flasho-open-source-customer-notifications-for-developers-4khh)
-- [Dev.to/JS] [Better Ways To Handle Data Storage on The Web Client](https://dev.to/ecorreia/better-ways-to-handle-data-storage-on-the-web-client-4219)
-- [Dev.to/JS] [Continuous Delivery: HTML to Kubernetes - the why](https://dev.to/costica/continuous-delivery-html-to-kubernetes-the-why-323p)
-- [Dev.to/JS] [Backend Delivery - Hands-On Node &amp; Docker 1/2](https://dev.to/costica/backend-delivery-hands-on-node-docker-12-3mol)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
 - [Lifehacker] [Park These Ram Trucks Outside In Case They Catch on Fire](https://lifehacker.com/park-these-ram-trucks-outside-in-case-they-catch-on-fir-1850129566)
 - [Lifehacker] [You’re Probably Painting Your Bathroom Wrong](https://lifehacker.com/you-re-probably-painting-your-bathroom-wrong-1850128267)
