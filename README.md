@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Robust User Sign-Up with AWS Cognito and React](https://dev.to/aws-builders/building-robust-user-sign-up-with-aws-cognito-and-react-cfd)
 - [Dev.to/JS] [Formik Works Great; Here&#39;s Why I Wrote My Own](https://dev.to/crutchcorn/formik-works-great-heres-why-i-wrote-my-own-591m)
 - [Dev.to/JS] [The ultimate guide to mastering Next JS — &lpar;Part 1 of 3&rpar;](https://dev.to/rustybatmobile/the-ultimate-guide-to-mastering-next-js-part-1-of-3-3cl8)
 - [Dev.to/JS] [Why &lpar;almost&rpar; every startup should only use TypeScript](https://dev.to/rustybatmobile/why-almost-every-startup-should-only-use-typescript-4n91)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Everything you need to know about Temporal Date API](https://dev.to/arafat4693/everything-you-need-to-know-about-temporal-date-api-5alk)
 - [Dev.to/JS] [Blockchain Developer Road Map 💫.](https://dev.to/akshaykurhekar/blockchain-developer-road-map--50i1)
 - [Dev.to/JS] [Design Patterns in JavaScript: Creational Patterns](https://dev.to/furkangulsen/design-patterns-in-javascript-creational-patterns-594h)
-- [Dev.to/JS] [My first post](https://dev.to/marcopolello/my-first-post-4go9)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
 - [Lifehacker] [Park These Ram Trucks Outside In Case They Catch on Fire](https://lifehacker.com/park-these-ram-trucks-outside-in-case-they-catch-on-fir-1850129566)
 - [Lifehacker] [You’re Probably Painting Your Bathroom Wrong](https://lifehacker.com/you-re-probably-painting-your-bathroom-wrong-1850128267)
