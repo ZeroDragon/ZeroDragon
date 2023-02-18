@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [¿Dónde debe ir mi dependencia?](https://dev.to/dezkareid/donde-debe-ir-mi-dependencia-2nem)
+- [Dev.to/JS] [Creating routing API with Express JS](https://dev.to/zettasoft/creating-routing-api-with-express-js-2ilh)
+- [Dev.to/JS] [Unhappy salesforce dev how to switch into a better role](https://dev.to/zpd3v/unhappy-salesforce-dev-how-to-switch-into-a-better-role-c8f)
 - [Dev.to/JS] [Building an app to search the APOD archive by color 🪐](https://dev.to/bryce/building-an-app-to-search-the-apod-archive-by-color-23bb)
 - [Dev.to/JS] [Event and Event Handlers](https://dev.to/oluwatrillions/event-and-event-handlers-33ph)
 - [Dev.to/JS] [I created a box-shadow css generator using React.js](https://dev.to/shahirhossaini/i-created-a-box-shadow-css-generator-using-reactjs-13cg)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top ten popular static site generators &lpar;SSG&rpar; in 2023](https://dev.to/ezinne_anne/top-ten-popular-static-site-generators-ssg-in-2023-11p1)
 - [Dev.to/JS] [Data structure everywhere](https://dev.to/kinginthenorthcodez/data-structure-everywhere-3ome)
 - [Dev.to/JS] [Using Notion as a CMS](https://dev.to/wilstaley/using-notion-as-a-cms-2p45)
-- [Dev.to/JS] [First Next.js website](https://dev.to/vulcanwm/first-nextjs-website-3e8m)
-- [Dev.to/JS] [Top 5 best live streaming chat tools for broadcasting in 2023](https://dev.to/alakkadshaw/top-5-best-live-streaming-chat-tools-for-broadcasting-in-2023-1805)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
-- [Dev.to/JS] [JavaScript Tutorial Series: Scope](https://dev.to/fullstackjo/javascript-tutorial-series-scope-210a)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Speaking With a Customer Service Rep](https://lifehacker.com/dont-make-these-mistakes-when-speaking-with-a-customer-1850124655)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
 - [Lifehacker] [Park These Ram Trucks Outside In Case They Catch on Fire](https://lifehacker.com/park-these-ram-trucks-outside-in-case-they-catch-on-fir-1850129566)
