@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Week 3: Junior to Intermediate Dev](https://dev.to/janarth10/week-3-junior-to-intermediate-dev-32no)
+- [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
+- [Dev.to/JS] [How come my debugger isn&#39;t working?](https://dev.to/janarth10/how-come-my-debugger-isnt-working-4b19)
+- [Dev.to/JS] [Best practices for code quality: How to write clean, maintainable, and efficient code](https://dev.to/folasayosamuel/best-practices-for-code-quality-how-to-write-clean-maintainable-and-efficient-code-3iam)
 - [Lifehacker] [Park These Ram Trucks Outside In Case They Catch on Fire](https://lifehacker.com/park-these-ram-trucks-outside-in-case-they-catch-on-fir-1850129566)
 - [Lifehacker] [You’re Probably Painting Your Bathroom Wrong](https://lifehacker.com/you-re-probably-painting-your-bathroom-wrong-1850128267)
 - [Lifehacker] [How Samsung’s New ‘Message Guard’ Protects Your Phone From &#39;Zero-Click&#39; Attacks](https://lifehacker.com/how-samsung-s-new-message-guard-protects-your-phone-f-1850127377)
@@ -40,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Better a Stir Fry by Velveting Your Meat](https://lifehacker.com/make-better-a-stir-fry-by-velveting-your-meat-1850128415)
 - [Dev.to/JS] [Java VS JavaScript](https://dev.to/tmchuynh/java-vs-javascript-50dm)
 - [Dev.to/JS] [Tables with Supabase](https://dev.to/guillaumeduhan/tables-with-supabase-1nmd)
-- [Dev.to/JS] [👉 @IroncladDev &lpar;Conner Ow&rpar; is a registered SEX Offender 🤦‍♂️](https://dev.to/repiit/ironcladdev-conner-ow-is-a-registered-sex-offender-4i91)
 - [Lifehacker] [You Can Update Your MacBook Cable for Some Reason](https://lifehacker.com/you-can-update-your-macbook-cable-for-some-reason-1850127766)
-- [Dev.to/JS] [The power of the bar graph: DOM manipulation via Javascript](https://dev.to/btryonglitterkitty/the-power-of-the-bar-graph-dom-manipulation-via-javascript-k1)
-- [Dev.to/JS] [JavaScript Tutorial Series: Functions.](https://dev.to/fullstackjo/javascript-tutorial-series-functions-5568)
 - [Lifehacker] [Jazz Up Desserts With a Microwave Fruit Compote](https://lifehacker.com/jazz-up-desserts-with-a-microwave-fruit-compote-1850127410)
 - [Lifehacker] [How to Test Minecraft&#39;s New Cherry Blossoms Before Everyone Else](https://lifehacker.com/how-to-test-minecrafts-new-cherry-blossoms-before-every-1850127070)
 - [Lifehacker] [Onion Ring Parm Is the Quickest Way to Get Your Parm Fix](https://lifehacker.com/onion-ring-parm-is-the-quickest-way-to-get-your-parm-fi-1850124859)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Green Bubble Texts Can Be Forwarded to Your Mac, Too](https://lifehacker.com/your-green-bubble-texts-can-be-forwarded-to-your-mac-t-1850124113)
 - [Lifehacker] [Stop Cleaning Your Granite This Way](https://lifehacker.com/stop-cleaning-your-granite-this-way-1850123832)
 - [Lifehacker] [Actually, I Have a Better Way to Make Those Viral Coffee Boxed Brownies](https://lifehacker.com/actually-i-have-a-better-way-to-make-those-viral-coffe-1850123596)
-- [Lifehacker] [Our Founding Fathers Would Want You to Have These Nice Pots and Pans](https://lifehacker.com/our-founding-fathers-would-want-you-to-have-these-nice-1850123464)
-- [Lifehacker] [Fasted Morning Workouts Aren&#39;t a Fat-Burning Hack](https://lifehacker.com/fasted-morning-workouts-arent-a-fat-burning-hack-1850123192)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Our Founding Fathers Would Want You to Have These Nice Pots and Pans](https://lifehacker.com/our-founding-fathers-would-want-you-to-have-these-nice-1850123464)<!-- TECH-POSTS:END -->
 
 ---
 
