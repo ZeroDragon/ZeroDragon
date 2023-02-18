@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data structure everywhere](https://dev.to/kinginthenorthcodez/data-structure-everywhere-3ome)
+- [Dev.to/JS] [Using Notion as a CMS](https://dev.to/wilstaley/using-notion-as-a-cms-2p45)
 - [Dev.to/JS] [First Next.js website](https://dev.to/vulcanwm/first-nextjs-website-3e8m)
 - [Dev.to/JS] [Top 5 best live streaming chat tools for broadcasting in 2023](https://dev.to/alakkadshaw/top-5-best-live-streaming-chat-tools-for-broadcasting-in-2023-1805)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Revolutionize Your Thinking: 5 TED Talks That Will Change Your Life](https://dev.to/thenomadevel/revolutionize-your-thinking-5-ted-talks-that-will-change-your-life-4j1k)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Speaking With a Customer Service Rep](https://lifehacker.com/dont-make-these-mistakes-when-speaking-with-a-customer-1850124655)
 - [Dev.to/JS] [Building Robust User Sign-Up with AWS Cognito and React](https://dev.to/aws-builders/building-robust-user-sign-up-with-aws-cognito-and-react-cfd)
-- [Dev.to/JS] [Formik Works Great; Here&#39;s Why I Wrote My Own](https://dev.to/crutchcorn/formik-works-great-heres-why-i-wrote-my-own-591m)
-- [Dev.to/JS] [The ultimate guide to mastering Next JS — &lpar;Part 1 of 3&rpar;](https://dev.to/rustybatmobile/the-ultimate-guide-to-mastering-next-js-part-1-of-3-3cl8)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
 - [Lifehacker] [Park These Ram Trucks Outside In Case They Catch on Fire](https://lifehacker.com/park-these-ram-trucks-outside-in-case-they-catch-on-fir-1850129566)
 - [Lifehacker] [You’re Probably Painting Your Bathroom Wrong](https://lifehacker.com/you-re-probably-painting-your-bathroom-wrong-1850128267)
