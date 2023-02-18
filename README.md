@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;18-02-2023&rpar; - Emotionally Damaged Humans Club](https://dev.to/mjgs/this-weeks-newsletter-is-out-18-02-2023-emotionally-damaged-humans-club-202b)
+- [Dev.to/JS] [Create MERN stack blog website guidelines!](https://dev.to/joharkhan99/create-mern-stack-blog-website-guidelines-2775)
 - [Dev.to/JS] [A Deep Dive into Node.js: Understanding its history, threading, and event-driven architecture](https://dev.to/thefaisal/a-deep-dive-into-nodejs-understanding-its-history-threading-and-event-driven-architecture-23j1)
 - [Dev.to/JS] [State Management in React with Redux](https://dev.to/haszankauna/state-management-in-react-with-redux-2l41)
 - [Dev.to/JS] [React Native vs React: Key Differences and Use Cases](https://dev.to/haszankauna/react-native-vs-react-key-differences-and-use-cases-1l8f)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to track user location in background](https://dev.to/dayanandgarg/how-to-track-user-location-in-background-pnm)
 - [Dev.to/JS] [PDF.js annotation library in pure JavaScript. Create and save PDF annotation, &lpar;pdf highlight/signature&rpar;- pdf.js](https://dev.to/chaoxuwei/pdfjs-annotation-library-in-pure-javascript-create-and-save-pdf-annotation-pdf-highlightsignature-pdfjs-375i)
 - [Dev.to/JS] [How to Typescript for client side application](https://dev.to/udayanmaurya/how-to-ts-for-client-side-application-36ig)
-- [Dev.to/JS] [Data fetching in React using App&#39;s Digest](https://dev.to/martyroque/data-fetching-in-react-using-apps-digest-2iln)
-- [Dev.to/JS] [Abstracting remote pagination through TypeScript generators](https://dev.to/kbirgerdev/abstracting-remote-pagination-through-typescript-generators-3phk)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
 - [Lifehacker] [Park These Ram Trucks Outside In Case They Catch on Fire](https://lifehacker.com/park-these-ram-trucks-outside-in-case-they-catch-on-fir-1850129566)
 - [Lifehacker] [You’re Probably Painting Your Bathroom Wrong](https://lifehacker.com/you-re-probably-painting-your-bathroom-wrong-1850128267)
