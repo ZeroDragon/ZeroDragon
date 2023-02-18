@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#refineweek: Creating an Admin Dashboard with refine](https://dev.to/refine/refineweek-creating-an-admin-dashboard-with-refine-5hm8)
+- [Dev.to/JS] [Monolith to Module Federation at RazorpayX](https://dev.to/burhanuday/monolith-to-module-federation-at-razorpayx-3e8p)
 - [Dev.to/JS] [Most difficult challenges as a programmer?](https://dev.to/mubirueltonfelix/most-difficult-challenges-as-a-programmer-4pdf)
 - [Dev.to/JS] [How to serve angular app to all devices connected to your router ?](https://dev.to/elsonjose/how-to-serve-angular-app-to-all-devices-connected-to-your-router--28ne)
 - [Dev.to/JS] [Everything you need to know about Temporal Date API](https://dev.to/arafat4693/everything-you-need-to-know-about-temporal-date-api-5alk)
@@ -31,10 +33,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My first post](https://dev.to/marcopolello/my-first-post-4go9)
 - [Dev.to/JS] [Launching Flasho- Open source customer notifications for developers](https://dev.to/jhansi/launching-flasho-open-source-customer-notifications-for-developers-4khh)
 - [Dev.to/JS] [Better Ways To Handle Data Storage on The Web Client](https://dev.to/ecorreia/better-ways-to-handle-data-storage-on-the-web-client-4219)
-- [Dev.to/JS] [Backend Delivery - Hands-On Node &amp; Docker 1/2](https://dev.to/costica/backend-delivery-hands-on-node-docker-12-3mol)
 - [Dev.to/JS] [Continuous Delivery: HTML to Kubernetes - the why](https://dev.to/costica/continuous-delivery-html-to-kubernetes-the-why-323p)
-- [Dev.to/JS] [Apple cider vinegar gummies Diet Reviews and Buy ?](https://dev.to/ymslove/apple-cider-vinegar-gummies-diet-reviews-and-buy--58od)
-- [Dev.to/JS] [How to Capitalize the First Letter in JavaScript](https://dev.to/geekreflex/how-to-capitalize-the-first-letter-in-javascript-11bc)
+- [Dev.to/JS] [Backend Delivery - Hands-On Node &amp; Docker 1/2](https://dev.to/costica/backend-delivery-hands-on-node-docker-12-3mol)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
 - [Lifehacker] [Park These Ram Trucks Outside In Case They Catch on Fire](https://lifehacker.com/park-these-ram-trucks-outside-in-case-they-catch-on-fir-1850129566)
 - [Lifehacker] [You’re Probably Painting Your Bathroom Wrong](https://lifehacker.com/you-re-probably-painting-your-bathroom-wrong-1850128267)
