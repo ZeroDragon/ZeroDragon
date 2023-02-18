@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [One App 5 Frameworks - Chapter 3: Angular](https://dev.to/killswitchh/one-app-5-frameworks-chapter-3-angular-2he8)
+- [Dev.to/JS] [SonoFit - Ear Reviews, Price, Benefits, Results And Where to Buy?](https://dev.to/fit_sono/sonofit-ear-reviews-price-benefits-results-and-where-to-buy-1l7e)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;18-02-2023&rpar; - Emotionally Damaged Humans Club](https://dev.to/mjgs/this-weeks-newsletter-is-out-18-02-2023-emotionally-damaged-humans-club-202b)
 - [Dev.to/JS] [Create MERN stack blog website guidelines!](https://dev.to/joharkhan99/create-mern-stack-blog-website-guidelines-2775)
 - [Dev.to/JS] [A Deep Dive into Node.js: Understanding its history, threading, and event-driven architecture](https://dev.to/thefaisal/a-deep-dive-into-nodejs-understanding-its-history-threading-and-event-driven-architecture-23j1)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [226. Leetcode Solution in JavaScript](https://dev.to/chiki1601/226-leetcode-solution-in-javascript-58p7)
 - [Dev.to/JS] [Understanding React Hooks: A Comprehensive Guide](https://dev.to/haszankauna/understanding-react-hooks-a-comprehensive-guide-4d07)
 - [Dev.to/JS] [How to track user location in background](https://dev.to/dayanandgarg/how-to-track-user-location-in-background-pnm)
-- [Dev.to/JS] [PDF.js annotation library in pure JavaScript. Create and save PDF annotation, &lpar;pdf highlight/signature&rpar;- pdf.js](https://dev.to/chaoxuwei/pdfjs-annotation-library-in-pure-javascript-create-and-save-pdf-annotation-pdf-highlightsignature-pdfjs-375i)
-- [Dev.to/JS] [How to Typescript for client side application](https://dev.to/udayanmaurya/how-to-ts-for-client-side-application-36ig)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
 - [Lifehacker] [Park These Ram Trucks Outside In Case They Catch on Fire](https://lifehacker.com/park-these-ram-trucks-outside-in-case-they-catch-on-fir-1850129566)
 - [Lifehacker] [You’re Probably Painting Your Bathroom Wrong](https://lifehacker.com/you-re-probably-painting-your-bathroom-wrong-1850128267)
