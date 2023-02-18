@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building an app to search the APOD archive by color 🪐](https://dev.to/bryce/building-an-app-to-search-the-apod-archive-by-color-23bb)
 - [Dev.to/JS] [Event and Event Handlers](https://dev.to/oluwatrillions/event-and-event-handlers-33ph)
 - [Dev.to/JS] [I created a box-shadow css generator using React.js](https://dev.to/shahirhossaini/i-created-a-box-shadow-css-generator-using-reactjs-13cg)
 - [Dev.to/JS] [LeetCode - Difference Between Ones and Zeros in Row and Column](https://dev.to/_alkesh26/leetcode-difference-between-ones-and-zeros-in-row-and-column-567)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 5 best live streaming chat tools for broadcasting in 2023](https://dev.to/alakkadshaw/top-5-best-live-streaming-chat-tools-for-broadcasting-in-2023-1805)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
 - [Dev.to/JS] [JavaScript Tutorial Series: Scope](https://dev.to/fullstackjo/javascript-tutorial-series-scope-210a)
-- [Dev.to/JS] [Finally learning Next.js](https://dev.to/vulcanwm/finally-learning-nextjs-295m)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Speaking With a Customer Service Rep](https://lifehacker.com/dont-make-these-mistakes-when-speaking-with-a-customer-1850124655)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
 - [Lifehacker] [Park These Ram Trucks Outside In Case They Catch on Fire](https://lifehacker.com/park-these-ram-trucks-outside-in-case-they-catch-on-fir-1850129566)
