@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Abstracting remote pagination through TypeScript generators](https://dev.to/kbirgerdev/abstracting-remote-pagination-through-typescript-generators-3phk)
 - [Dev.to/JS] [CODE DESCRIPTION/REVIEW](https://dev.to/chinwendufausty/code-descriptionreview-3ck4)
 - [Dev.to/JS] [Getting started with NestJs](https://dev.to/katerakeren/getting-started-with-nestjs-1d35)
 - [Dev.to/JS] [Week 3: Junior to Intermediate Dev](https://dev.to/janarth10/week-3-junior-to-intermediate-dev-32no)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [More Than 350,000 ‘Self-Driving’ Teslas Unsurprisingly Recalled](https://lifehacker.com/more-than-350-000-self-driving-teslas-unsurprisingly-1850128703)
 - [Dev.to/JS] [Estrutura de Dados parte 2: Algoritmos de busca.](https://dev.to/oliverigor27/estrutura-de-dados-parte-2-algoritimos-de-busca-3kg1)
 - [Dev.to/JS] [How To Create A Simple Dynamic Pagination From Scratch In Vue](https://dev.to/niles/how-to-create-a-simple-dynamic-pagination-from-scratch-in-vue-3ele)
-- [Dev.to/JS] [LeetCode #283 Move Zeroes with JavaScript](https://dev.to/masakifukunishi/leetcode-283-move-zeroes-with-javascript-d1i)
 - [Lifehacker] [Make Better a Stir Fry by Velveting Your Meat](https://lifehacker.com/make-better-a-stir-fry-by-velveting-your-meat-1850128415)
 - [Lifehacker] [You Can Update Your MacBook Cable for Some Reason](https://lifehacker.com/you-can-update-your-macbook-cable-for-some-reason-1850127766)
 - [Lifehacker] [Jazz Up Desserts With a Microwave Fruit Compote](https://lifehacker.com/jazz-up-desserts-with-a-microwave-fruit-compote-1850127410)
