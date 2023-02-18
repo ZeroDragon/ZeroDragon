@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Revolutionize Your Thinking: 5 TED Talks That Will Change Your Life](https://dev.to/thenomadevel/revolutionize-your-thinking-5-ted-talks-that-will-change-your-life-4j1k)
+- [Lifehacker] [Don&#39;t Make These Mistakes When Speaking With a Customer Service Rep](https://lifehacker.com/dont-make-these-mistakes-when-speaking-with-a-customer-1850124655)
 - [Dev.to/JS] [Building Robust User Sign-Up with AWS Cognito and React](https://dev.to/aws-builders/building-robust-user-sign-up-with-aws-cognito-and-react-cfd)
 - [Dev.to/JS] [Formik Works Great; Here&#39;s Why I Wrote My Own](https://dev.to/crutchcorn/formik-works-great-heres-why-i-wrote-my-own-591m)
 - [Dev.to/JS] [The ultimate guide to mastering Next JS — &lpar;Part 1 of 3&rpar;](https://dev.to/rustybatmobile/the-ultimate-guide-to-mastering-next-js-part-1-of-3-3cl8)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to serve angular app to all devices connected to your router ?](https://dev.to/elsonjose/how-to-serve-angular-app-to-all-devices-connected-to-your-router--28ne)
 - [Dev.to/JS] [Everything you need to know about Temporal Date API](https://dev.to/arafat4693/everything-you-need-to-know-about-temporal-date-api-5alk)
 - [Dev.to/JS] [Blockchain Developer Road Map 💫.](https://dev.to/akshaykurhekar/blockchain-developer-road-map--50i1)
-- [Dev.to/JS] [Design Patterns in JavaScript: Creational Patterns](https://dev.to/furkangulsen/design-patterns-in-javascript-creational-patterns-594h)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
 - [Lifehacker] [Park These Ram Trucks Outside In Case They Catch on Fire](https://lifehacker.com/park-these-ram-trucks-outside-in-case-they-catch-on-fir-1850129566)
 - [Lifehacker] [You’re Probably Painting Your Bathroom Wrong](https://lifehacker.com/you-re-probably-painting-your-bathroom-wrong-1850128267)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 Shows to Stream When You Need Cleaning Inspiration](https://lifehacker.com/8-shows-to-stream-when-you-need-cleaning-inspiration-1850124456)
 - [Lifehacker] [Your Green Bubble Texts Can Be Forwarded to Your Mac, Too](https://lifehacker.com/your-green-bubble-texts-can-be-forwarded-to-your-mac-t-1850124113)
 - [Lifehacker] [Stop Cleaning Your Granite This Way](https://lifehacker.com/stop-cleaning-your-granite-this-way-1850123832)
-- [Lifehacker] [Actually, I Have a Better Way to Make Those Viral Coffee Boxed Brownies](https://lifehacker.com/actually-i-have-a-better-way-to-make-those-viral-coffe-1850123596)
-- [Lifehacker] [Our Founding Fathers Would Want You to Have These Nice Pots and Pans](https://lifehacker.com/our-founding-fathers-would-want-you-to-have-these-nice-1850123464)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Actually, I Have a Better Way to Make Those Viral Coffee Boxed Brownies](https://lifehacker.com/actually-i-have-a-better-way-to-make-those-viral-coffe-1850123596)<!-- TECH-POSTS:END -->
 
 ---
 
