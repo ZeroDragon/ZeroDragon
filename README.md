@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [First Next.js website](https://dev.to/vulcanwm/first-nextjs-website-3e8m)
+- [Dev.to/JS] [Top 5 best live streaming chat tools for broadcasting in 2023](https://dev.to/alakkadshaw/top-5-best-live-streaming-chat-tools-for-broadcasting-in-2023-1805)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
 - [Dev.to/JS] [JavaScript Tutorial Series: Scope](https://dev.to/fullstackjo/javascript-tutorial-series-scope-210a)
 - [Dev.to/JS] [Finally learning Next.js](https://dev.to/vulcanwm/finally-learning-nextjs-295m)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building Robust User Sign-Up with AWS Cognito and React](https://dev.to/aws-builders/building-robust-user-sign-up-with-aws-cognito-and-react-cfd)
 - [Dev.to/JS] [Formik Works Great; Here&#39;s Why I Wrote My Own](https://dev.to/crutchcorn/formik-works-great-heres-why-i-wrote-my-own-591m)
 - [Dev.to/JS] [The ultimate guide to mastering Next JS — &lpar;Part 1 of 3&rpar;](https://dev.to/rustybatmobile/the-ultimate-guide-to-mastering-next-js-part-1-of-3-3cl8)
-- [Dev.to/JS] [Why &lpar;almost&rpar; every startup should only use TypeScript](https://dev.to/rustybatmobile/why-almost-every-startup-should-only-use-typescript-4n91)
-- [Dev.to/JS] [How To Make Login Page Like Twitter Using React Js | Sign In Page Design With React Js](https://dev.to/ziontutorial/how-to-make-login-page-like-twitter-using-react-js-sign-in-page-design-with-react-js-31hf)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
 - [Lifehacker] [Park These Ram Trucks Outside In Case They Catch on Fire](https://lifehacker.com/park-these-ram-trucks-outside-in-case-they-catch-on-fir-1850129566)
 - [Lifehacker] [You’re Probably Painting Your Bathroom Wrong](https://lifehacker.com/you-re-probably-painting-your-bathroom-wrong-1850128267)
