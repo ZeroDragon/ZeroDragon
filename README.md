@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
+- [Dev.to/JS] [JavaScript Tutorial Series: Scope](https://dev.to/fullstackjo/javascript-tutorial-series-scope-210a)
+- [Dev.to/JS] [Finally learning Next.js](https://dev.to/vulcanwm/finally-learning-nextjs-295m)
+- [Dev.to/JS] [Learn new programming language in 2023](https://dev.to/tung_codes/learn-new-programming-language-in-2023-4c9k)
+- [Dev.to/JS] [&quot;Complete Guide to Hiring a React Hook Developer: Tips, Support Material](https://dev.to/monu181/complete-guide-to-hiring-a-react-hook-developer-tips-support-material-3nh4)
+- [Dev.to/JS] [How to Deploy NodeJS APIs on AWS](https://dev.to/lovepreetsingh/how-to-deploy-nodejs-apis-on-aws-lambda-538b)
+- [Dev.to/JS] [Unpacking the Trickiest Concepts in JavaScript](https://dev.to/danireptor/unpacking-the-trickiest-concepts-in-javascript-2d35)
 - [Dev.to/JS] [Revolutionize Your Thinking: 5 TED Talks That Will Change Your Life](https://dev.to/thenomadevel/revolutionize-your-thinking-5-ted-talks-that-will-change-your-life-4j1k)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Speaking With a Customer Service Rep](https://lifehacker.com/dont-make-these-mistakes-when-speaking-with-a-customer-1850124655)
 - [Dev.to/JS] [Building Robust User Sign-Up with AWS Cognito and React](https://dev.to/aws-builders/building-robust-user-sign-up-with-aws-cognito-and-react-cfd)
@@ -30,12 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The ultimate guide to mastering Next JS — &lpar;Part 1 of 3&rpar;](https://dev.to/rustybatmobile/the-ultimate-guide-to-mastering-next-js-part-1-of-3-3cl8)
 - [Dev.to/JS] [Why &lpar;almost&rpar; every startup should only use TypeScript](https://dev.to/rustybatmobile/why-almost-every-startup-should-only-use-typescript-4n91)
 - [Dev.to/JS] [How To Make Login Page Like Twitter Using React Js | Sign In Page Design With React Js](https://dev.to/ziontutorial/how-to-make-login-page-like-twitter-using-react-js-sign-in-page-design-with-react-js-31hf)
-- [Dev.to/JS] [#refineweek: Creating an Admin Dashboard with refine](https://dev.to/refine/refineweek-creating-an-admin-dashboard-with-refine-5hm8)
-- [Dev.to/JS] [Monolith to Module Federation at RazorpayX](https://dev.to/burhanuday/monolith-to-module-federation-at-razorpayx-3e8p)
-- [Dev.to/JS] [Most difficult challenges as a programmer?](https://dev.to/mubirueltonfelix/most-difficult-challenges-as-a-programmer-4pdf)
-- [Dev.to/JS] [How to serve angular app to all devices connected to your router ?](https://dev.to/elsonjose/how-to-serve-angular-app-to-all-devices-connected-to-your-router--28ne)
-- [Dev.to/JS] [Everything you need to know about Temporal Date API](https://dev.to/arafat4693/everything-you-need-to-know-about-temporal-date-api-5alk)
-- [Dev.to/JS] [Blockchain Developer Road Map 💫.](https://dev.to/akshaykurhekar/blockchain-developer-road-map--50i1)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
 - [Lifehacker] [Park These Ram Trucks Outside In Case They Catch on Fire](https://lifehacker.com/park-these-ram-trucks-outside-in-case-they-catch-on-fir-1850129566)
 - [Lifehacker] [You’re Probably Painting Your Bathroom Wrong](https://lifehacker.com/you-re-probably-painting-your-bathroom-wrong-1850128267)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Must Make Empanada Chips and Dip](https://lifehacker.com/you-must-make-empanada-chips-and-dip-1850123718)
 - [Lifehacker] [8 Shows to Stream When You Need Cleaning Inspiration](https://lifehacker.com/8-shows-to-stream-when-you-need-cleaning-inspiration-1850124456)
 - [Lifehacker] [Your Green Bubble Texts Can Be Forwarded to Your Mac, Too](https://lifehacker.com/your-green-bubble-texts-can-be-forwarded-to-your-mac-t-1850124113)
-- [Lifehacker] [Stop Cleaning Your Granite This Way](https://lifehacker.com/stop-cleaning-your-granite-this-way-1850123832)
-- [Lifehacker] [Actually, I Have a Better Way to Make Those Viral Coffee Boxed Brownies](https://lifehacker.com/actually-i-have-a-better-way-to-make-those-viral-coffe-1850123596)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stop Cleaning Your Granite This Way](https://lifehacker.com/stop-cleaning-your-granite-this-way-1850123832)<!-- TECH-POSTS:END -->
 
 ---
 
