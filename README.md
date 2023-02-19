@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My New Development Project](https://dev.to/kryslynn23/my-new-development-project-5968)
+- [Dev.to/JS] [What is Wordle Game and how to play it.](https://dev.to/hindicyber/what-is-wordle-game-and-how-to-play-it-547f)
+- [Dev.to/JS] [#refineweek: Implementing Role Based Access Control](https://dev.to/refine/refineweek-implementing-role-based-access-control-4gc4)
 - [Dev.to/JS] [Which video editor is exceptional for beginners?](https://dev.to/thomas23459/which-video-editor-is-exceptional-for-beginners-39eo)
 - [Dev.to/JS] [Create a simple Node.JS server&lpar;Express&rpar;in only 4 steps. I promise😄😄.](https://dev.to/kimaniwashington/create-a-simple-nodejs-serverexpressin-only-4-steps-i-promise-2fhc)
 - [Dev.to/JS] [Creating Web Accessibility: Semantic Tags](https://dev.to/frontend_jedi/creating-web-accessibility-semantic-tags-50bl)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Binary in JS](https://dev.to/raymondzhang/binary-in-js-1f8g)
 - [Dev.to/JS] [Intro to Naming Guidelines: Writing Meaningful Variable Names](https://dev.to/hyfydistro/intro-to-naming-guidelines-writing-meaningful-variable-names-13j5)
 - [Dev.to/JS] [The Basics of the Document Object Model &lpar;DOM&rpar; and Its Available Methods](https://dev.to/sidrasochan/the-basics-of-the-document-object-model-dom-and-its-available-methods-2lab)
-- [Dev.to/JS] [Implement In-Memory Cache in the NET Core API](https://dev.to/jaydeep007/implement-in-memory-cache-in-the-net-core-api-1c30)
-- [Dev.to/JS] [7 JavaScript Web APIs to build Futuristic Websites you didn&#39;t know🤯](https://dev.to/ruppysuppy/7-javascript-web-apis-to-build-futuristic-websites-you-didnt-know-38bc)
-- [Dev.to/JS] [How to simplify importing multiple components in another component ?](https://dev.to/elsonjose/how-to-simplify-importing-multiple-components-in-another-component--17i8)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Speaking With a Customer Service Rep](https://lifehacker.com/dont-make-these-mistakes-when-speaking-with-a-customer-1850124655)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
