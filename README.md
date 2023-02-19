@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Aprenda a criar componentes dinâmicos com React Export Function](https://dev.to/joaosgobero/aprenda-a-criar-componentes-dinamicos-com-react-export-function-3j9n)
+- [Dev.to/JS] [Mastering Object-Oriented Programming in JavaScript: Best Practices and Examples](https://dev.to/hasidicdevs/mastering-object-oriented-programming-in-javascript-best-practices-and-examples-31mc)
+- [Dev.to/JS] [Introduction to NativeScript](https://dev.to/oreoyona/introduction-to-nativescript-2ana)
+- [Lifehacker] [How to Fly to Japan This Fall for Less Than $400 Each Way](https://lifehacker.com/how-to-fly-to-japan-this-fall-for-less-than-400-each-w-1850124601)
 - [Dev.to/JS] [JavaScript Scope and Hoisting](https://dev.to/haszankauna/javascript-scope-and-hoisting-31kk)
 - [Dev.to/JS] [Exploring JavaScript Functional Programming](https://dev.to/haszankauna/exploring-javascript-functional-programming-3220)
 - [Dev.to/JS] [How to Build Cross-Browser Compatible JavaScript Applications](https://dev.to/haszankauna/how-to-build-cross-browser-compatible-javascript-applications-43oa)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Challenge Accepted](https://dev.to/jd2r/challenge-accepted-poo)
 - [Dev.to/JS] [Nuxt and WPGraphQL](https://dev.to/sulcalibur/nuxt-and-wpgraphql-2h3m)
 - [Lifehacker] [Don&#39;t Store These Household Items Under Your Kitchen Sink](https://lifehacker.com/dont-store-these-household-items-under-your-kitchen-sin-1850124613)
-- [Dev.to/JS] [My New Development Project](https://dev.to/kryslynn23/my-new-development-project-5968)
-- [Dev.to/JS] [What is Wordle Game and how to play it.](https://dev.to/hindicyber/what-is-wordle-game-and-how-to-play-it-547f)
-- [Dev.to/JS] [#refineweek: Implementing Role Based Access Control](https://dev.to/refine/refineweek-implementing-role-based-access-control-4gc4)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Speaking With a Customer Service Rep](https://lifehacker.com/dont-make-these-mistakes-when-speaking-with-a-customer-1850124655)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Become the Pope](https://lifehacker.com/how-to-become-the-pope-1850124789)
 - [Lifehacker] [These Are the Best Air Fryer Sales for President&#39;s Day Weekend](https://lifehacker.com/these-are-the-best-air-fryer-sales-for-presidents-day-w-1850124851)
 - [Lifehacker] [You Must Make Empanada Chips and Dip](https://lifehacker.com/you-must-make-empanada-chips-and-dip-1850123718)
-- [Lifehacker] [8 Shows to Stream When You Need Cleaning Inspiration](https://lifehacker.com/8-shows-to-stream-when-you-need-cleaning-inspiration-1850124456)
-- [Lifehacker] [Your Green Bubble Texts Can Be Forwarded to Your Mac, Too](https://lifehacker.com/your-green-bubble-texts-can-be-forwarded-to-your-mac-t-1850124113)<!-- TECH-POSTS:END -->
+- [Lifehacker] [8 Shows to Stream When You Need Cleaning Inspiration](https://lifehacker.com/8-shows-to-stream-when-you-need-cleaning-inspiration-1850124456)<!-- TECH-POSTS:END -->
 
 ---
 
