@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Iconography in React: A Comprehensive Guide to React Icons for Stunning Visual Designs](https://dev.to/monu181/mastering-iconography-in-react-a-comprehensive-guide-to-react-icons-for-stunning-visual-designs-3pgd)
+- [Dev.to/JS] [Mastering Navigation in React: A Comprehensive Guide to React Router for Seamless User Experience](https://dev.to/monu181/mastering-navigation-in-react-a-comprehensive-guide-to-react-router-for-seamless-user-experience-49e9)
 - [Dev.to/JS] [Um resumo sobre Big-O](https://dev.to/costamateus7/um-resumo-sobre-big-o-2hpk)
 - [Dev.to/JS] [Make REST API Calls in React with Axios: A Comprehensive Guide on Network Requests, Interceptors, Error Handling](https://dev.to/monu181/make-rest-api-calls-in-react-with-axios-a-comprehensive-guide-on-network-requests-interceptors-error-handling-35n4)
 - [Dev.to/JS] [Optimizing React Efficiency: Advanced Debugging &amp; Profiling with React Developer Tools](https://dev.to/monu181/optimizing-react-efficiency-advanced-debugging-profiling-with-react-developer-tools-129e)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [¿Dónde debe ir mi dependencia?](https://dev.to/dezkareid/donde-debe-ir-mi-dependencia-2nem)
 - [Dev.to/JS] [Creating routing API with Express JS](https://dev.to/zettasoft/creating-routing-api-with-express-js-2ilh)
 - [Dev.to/JS] [Unhappy salesforce dev how to switch into a better role](https://dev.to/zpd3v/unhappy-salesforce-dev-how-to-switch-into-a-better-role-c8f)
-- [Dev.to/JS] [Building an app to search the APOD archive by color 🪐](https://dev.to/bryce/building-an-app-to-search-the-apod-archive-by-color-23bb)
-- [Dev.to/JS] [Event and Event Handlers](https://dev.to/oluwatrillions/event-and-event-handlers-33ph)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Speaking With a Customer Service Rep](https://lifehacker.com/dont-make-these-mistakes-when-speaking-with-a-customer-1850124655)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
