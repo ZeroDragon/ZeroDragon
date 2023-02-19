@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Arrays DS &amp; Algorithms Q&amp;S - Find the largest three distinct elements in a JS array](https://dev.to/abodmicheal/arrays-ds-algorithms-qs-find-the-largest-three-distinct-elements-in-a-js-array-4ecl)
 - [Dev.to/JS] [How to code without loops - ever!](https://dev.to/futuresight/how-to-code-without-loops-ever-3ph7)
 - [Dev.to/JS] [¿Dónde debe ir mi dependencia?](https://dev.to/dezkareid/donde-debe-ir-mi-dependencia-2nem)
 - [Dev.to/JS] [Creating routing API with Express JS](https://dev.to/zettasoft/creating-routing-api-with-express-js-2ilh)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Verifbox: Protecting AI-Generated Images with Ethereum Blockchain NFT Certification](https://dev.to/verifbox/verifbox-protecting-ai-generated-images-with-ethereum-blockchain-nft-certification-2epi)
 - [Dev.to/JS] [Using AI to generate your articles](https://dev.to/dechamp/using-ai-to-generate-your-articles-3dng)
 - [Dev.to/JS] [Top ten popular static site generators &lpar;SSG&rpar; in 2023](https://dev.to/ezinne_anne/top-ten-popular-static-site-generators-ssg-in-2023-11p1)
-- [Dev.to/JS] [Data structure everywhere](https://dev.to/kinginthenorthcodez/data-structure-everywhere-3ome)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Speaking With a Customer Service Rep](https://lifehacker.com/dont-make-these-mistakes-when-speaking-with-a-customer-1850124655)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
