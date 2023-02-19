@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implement In-Memory Cache in the NET Core API](https://dev.to/jaydeep007/implement-in-memory-cache-in-the-net-core-api-1c30)
+- [Dev.to/JS] [7 JavaScript Web APIs to build Futuristic Websites you didn&#39;t know🤯](https://dev.to/ruppysuppy/7-javascript-web-apis-to-build-futuristic-websites-you-didnt-know-38bc)
+- [Dev.to/JS] [How to simplify importing multiple components in another component ?](https://dev.to/elsonjose/how-to-simplify-importing-multiple-components-in-another-component--17i8)
 - [Dev.to/JS] [Access Token and Refresh Token: A Comprehensive Guide](https://dev.to/tijan_io/access-token-and-refresh-token-a-comprehensive-guide-40g7)
 - [Dev.to/JS] [Mastering React Toastify: A Comprehensive Guide for Effective Notifications in React Applications](https://dev.to/monu181/mastering-react-toastify-a-comprehensive-guide-for-effective-notifications-in-react-applications-5c5b)
 - [Dev.to/JS] [Building Financial Applications with React Components: Best Practices and Libraries for Buttons, Forms, Tables, Charts.](https://dev.to/monu181/building-financial-applications-with-react-components-best-practices-and-libraries-for-buttons-forms-tables-charts-18ph)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Um resumo sobre Big-O](https://dev.to/costamateus7/um-resumo-sobre-big-o-2hpk)
 - [Dev.to/JS] [Make REST API Calls in React with Axios: A Comprehensive Guide on Network Requests, Interceptors, Error Handling](https://dev.to/monu181/make-rest-api-calls-in-react-with-axios-a-comprehensive-guide-on-network-requests-interceptors-error-handling-35n4)
 - [Dev.to/JS] [Optimizing React Efficiency: Advanced Debugging &amp; Profiling with React Developer Tools](https://dev.to/monu181/optimizing-react-efficiency-advanced-debugging-profiling-with-react-developer-tools-129e)
-- [Dev.to/JS] [How to Create Wordle Game in HTML, CSS and Javascript ?](https://dev.to/hindicyber/how-to-create-wordle-game-in-html-css-and-javascript--3870)
-- [Dev.to/JS] [Adding client side webmentions to my Next.js blog](https://dev.to/cdransf/adding-client-side-webmentions-to-my-nextjs-blog-2mgm)
-- [Dev.to/JS] [Arrays DS &amp; Algorithms Q&amp;S - Find the largest three distinct elements in a JS array](https://dev.to/abodmicheal/arrays-ds-algorithms-qs-find-the-largest-three-distinct-elements-in-a-js-array-4ecl)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Speaking With a Customer Service Rep](https://lifehacker.com/dont-make-these-mistakes-when-speaking-with-a-customer-1850124655)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
