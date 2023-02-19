@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Intro to Naming Guidelines: Writing Meaningful Variable Names](https://dev.to/hyfydistro/intro-to-naming-guidelines-writing-meaningful-variable-names-13j5)
+- [Dev.to/JS] [The Basics of the Document Object Model &lpar;DOM&rpar; and Its Available Methods](https://dev.to/sidrasochan/the-basics-of-the-document-object-model-dom-and-its-available-methods-2lab)
 - [Dev.to/JS] [Implement In-Memory Cache in the NET Core API](https://dev.to/jaydeep007/implement-in-memory-cache-in-the-net-core-api-1c30)
 - [Dev.to/JS] [7 JavaScript Web APIs to build Futuristic Websites you didn&#39;t know🤯](https://dev.to/ruppysuppy/7-javascript-web-apis-to-build-futuristic-websites-you-didnt-know-38bc)
 - [Dev.to/JS] [How to simplify importing multiple components in another component ?](https://dev.to/elsonjose/how-to-simplify-importing-multiple-components-in-another-component--17i8)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Iconography in React: A Comprehensive Guide to React Icons for Stunning Visual Designs](https://dev.to/monu181/mastering-iconography-in-react-a-comprehensive-guide-to-react-icons-for-stunning-visual-designs-3pgd)
 - [Dev.to/JS] [Mastering Navigation in React: A Comprehensive Guide to React Router for Seamless User Experience](https://dev.to/monu181/mastering-navigation-in-react-a-comprehensive-guide-to-react-router-for-seamless-user-experience-49e9)
 - [Dev.to/JS] [Um resumo sobre Big-O](https://dev.to/costamateus7/um-resumo-sobre-big-o-2hpk)
-- [Dev.to/JS] [Make REST API Calls in React with Axios: A Comprehensive Guide on Network Requests, Interceptors, Error Handling](https://dev.to/monu181/make-rest-api-calls-in-react-with-axios-a-comprehensive-guide-on-network-requests-interceptors-error-handling-35n4)
-- [Dev.to/JS] [Optimizing React Efficiency: Advanced Debugging &amp; Profiling with React Developer Tools](https://dev.to/monu181/optimizing-react-efficiency-advanced-debugging-profiling-with-react-developer-tools-129e)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Speaking With a Customer Service Rep](https://lifehacker.com/dont-make-these-mistakes-when-speaking-with-a-customer-1850124655)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
