@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Access Token and Refresh Token: A Comprehensive Guide](https://dev.to/tijan_io/access-token-and-refresh-token-a-comprehensive-guide-40g7)
 - [Dev.to/JS] [Mastering React Toastify: A Comprehensive Guide for Effective Notifications in React Applications](https://dev.to/monu181/mastering-react-toastify-a-comprehensive-guide-for-effective-notifications-in-react-applications-5c5b)
 - [Dev.to/JS] [Building Financial Applications with React Components: Best Practices and Libraries for Buttons, Forms, Tables, Charts.](https://dev.to/monu181/building-financial-applications-with-react-components-best-practices-and-libraries-for-buttons-forms-tables-charts-18ph)
 - [Dev.to/JS] [Accordion in Vue](https://dev.to/owais11art/accordion-in-vue-25kl)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create Wordle Game in HTML, CSS and Javascript ?](https://dev.to/hindicyber/how-to-create-wordle-game-in-html-css-and-javascript--3870)
 - [Dev.to/JS] [Adding client side webmentions to my Next.js blog](https://dev.to/cdransf/adding-client-side-webmentions-to-my-nextjs-blog-2mgm)
 - [Dev.to/JS] [Arrays DS &amp; Algorithms Q&amp;S - Find the largest three distinct elements in a JS array](https://dev.to/abodmicheal/arrays-ds-algorithms-qs-find-the-largest-three-distinct-elements-in-a-js-array-4ecl)
-- [Dev.to/JS] [How to code without loops - ever!](https://dev.to/futuresight/how-to-code-without-loops-ever-3ph7)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Speaking With a Customer Service Rep](https://lifehacker.com/dont-make-these-mistakes-when-speaking-with-a-customer-1850124655)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
