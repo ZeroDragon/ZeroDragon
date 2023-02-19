@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Start a React Native Application Using Expo](https://dev.to/vincod/how-to-start-a-react-native-application-using-expo-54ln)
+- [Dev.to/JS] [How To Start a React Native Application](https://dev.to/vincod/how-to-start-a-react-native-application-2bcd)
 - [Dev.to/JS] [My Favorite Courses to Learn Coding and Programming in 2023](https://dev.to/javinpaul/my-favorite-courses-to-learn-coding-and-programming-in-2023-4ngo)
 - [Dev.to/JS] [Binary in JS](https://dev.to/raymondzhang/binary-in-js-1f8g)
 - [Dev.to/JS] [Intro to Naming Guidelines: Writing Meaningful Variable Names](https://dev.to/hyfydistro/intro-to-naming-guidelines-writing-meaningful-variable-names-13j5)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Access Token and Refresh Token: A Comprehensive Guide](https://dev.to/tijan_io/access-token-and-refresh-token-a-comprehensive-guide-40g7)
 - [Dev.to/JS] [Mastering React Toastify: A Comprehensive Guide for Effective Notifications in React Applications](https://dev.to/monu181/mastering-react-toastify-a-comprehensive-guide-for-effective-notifications-in-react-applications-5c5b)
 - [Dev.to/JS] [Building Financial Applications with React Components: Best Practices and Libraries for Buttons, Forms, Tables, Charts.](https://dev.to/monu181/building-financial-applications-with-react-components-best-practices-and-libraries-for-buttons-forms-tables-charts-18ph)
-- [Dev.to/JS] [Accordion in Vue](https://dev.to/owais11art/accordion-in-vue-25kl)
-- [Dev.to/JS] [Mastering Iconography in React: A Comprehensive Guide to React Icons for Stunning Visual Designs](https://dev.to/monu181/mastering-iconography-in-react-a-comprehensive-guide-to-react-icons-for-stunning-visual-designs-3pgd)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Speaking With a Customer Service Rep](https://lifehacker.com/dont-make-these-mistakes-when-speaking-with-a-customer-1850124655)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
