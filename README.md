@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Scope and Hoisting](https://dev.to/haszankauna/javascript-scope-and-hoisting-31kk)
+- [Dev.to/JS] [Exploring JavaScript Functional Programming](https://dev.to/haszankauna/exploring-javascript-functional-programming-3220)
+- [Dev.to/JS] [How to Build Cross-Browser Compatible JavaScript Applications](https://dev.to/haszankauna/how-to-build-cross-browser-compatible-javascript-applications-43oa)
+- [Dev.to/JS] [Introduction to the JavaScript Event Loop](https://dev.to/haszankauna/introduction-to-the-javascript-event-loop-p87)
+- [Dev.to/JS] [Understanding JavaScript Promises](https://dev.to/haszankauna/understanding-javascript-promises-5fk6)
 - [Dev.to/JS] [A website that i&#39;ve made for my hairy son Lucky](https://dev.to/sourcesensei_48/a-website-that-ive-made-for-my-hairy-son-lucky-19n)
 - [Dev.to/JS] [The dark side of Next.js](https://dev.to/fullctxdev/the-dark-side-of-nextjs-39ae)
 - [Dev.to/JS] [Challenge Accepted](https://dev.to/jd2r/challenge-accepted-poo)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My New Development Project](https://dev.to/kryslynn23/my-new-development-project-5968)
 - [Dev.to/JS] [What is Wordle Game and how to play it.](https://dev.to/hindicyber/what-is-wordle-game-and-how-to-play-it-547f)
 - [Dev.to/JS] [#refineweek: Implementing Role Based Access Control](https://dev.to/refine/refineweek-implementing-role-based-access-control-4gc4)
-- [Dev.to/JS] [Which video editor is exceptional for beginners?](https://dev.to/thomas23459/which-video-editor-is-exceptional-for-beginners-39eo)
-- [Dev.to/JS] [Create a simple Node.JS server&lpar;Express&rpar;in only 4 steps. I promise😄😄.](https://dev.to/kimaniwashington/create-a-simple-nodejs-serverexpressin-only-4-steps-i-promise-2fhc)
-- [Dev.to/JS] [Creating Web Accessibility: Semantic Tags](https://dev.to/frontend_jedi/creating-web-accessibility-semantic-tags-50bl)
-- [Dev.to/JS] [How to Start a React Native Application Using Expo](https://dev.to/vincod/how-to-start-a-react-native-application-using-expo-54ln)
-- [Dev.to/JS] [How To Start a React Native Application](https://dev.to/vincod/how-to-start-a-react-native-application-2bcd)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Speaking With a Customer Service Rep](https://lifehacker.com/dont-make-these-mistakes-when-speaking-with-a-customer-1850124655)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
