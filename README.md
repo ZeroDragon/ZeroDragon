@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Tutorial Series: Practice 1](https://dev.to/fullstackjo/javascript-tutorial-series-practice-1-e9k)
+- [Dev.to/JS] [You might be overusing React states](https://dev.to/diogorodrigues/you-might-be-overusing-react-states-2m39)
+- [Dev.to/JS] [How To Get Technical Writing Jobs, Gigs, or Opportunities](https://dev.to/the_greatbonnie/how-to-get-technical-writing-jobs-gigs-or-opportunities-3mmd)
+- [Dev.to/JS] [Tauri - The Flutter killer?](https://dev.to/lynxgsm/tauri-the-flutter-killer-5h27)
 - [Dev.to/JS] [Aprenda a criar componentes dinâmicos com React Export Function](https://dev.to/joaosgobero/aprenda-a-criar-componentes-dinamicos-com-react-export-function-3j9n)
 - [Dev.to/JS] [Mastering Object-Oriented Programming in JavaScript: Best Practices and Examples](https://dev.to/hasidicdevs/mastering-object-oriented-programming-in-javascript-best-practices-and-examples-31mc)
 - [Dev.to/JS] [Introduction to NativeScript](https://dev.to/oreoyona/introduction-to-nativescript-2ana)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build Cross-Browser Compatible JavaScript Applications](https://dev.to/haszankauna/how-to-build-cross-browser-compatible-javascript-applications-43oa)
 - [Dev.to/JS] [Introduction to the JavaScript Event Loop](https://dev.to/haszankauna/introduction-to-the-javascript-event-loop-p87)
 - [Dev.to/JS] [Understanding JavaScript Promises](https://dev.to/haszankauna/understanding-javascript-promises-5fk6)
-- [Dev.to/JS] [A website that i&#39;ve made for my hairy son Lucky](https://dev.to/sourcesensei_48/a-website-that-ive-made-for-my-hairy-son-lucky-19n)
-- [Dev.to/JS] [The dark side of Next.js](https://dev.to/fullctxdev/the-dark-side-of-nextjs-39ae)
-- [Dev.to/JS] [Challenge Accepted](https://dev.to/jd2r/challenge-accepted-poo)
-- [Dev.to/JS] [Nuxt and WPGraphQL](https://dev.to/sulcalibur/nuxt-and-wpgraphql-2h3m)
 - [Lifehacker] [Don&#39;t Store These Household Items Under Your Kitchen Sink](https://lifehacker.com/dont-store-these-household-items-under-your-kitchen-sin-1850124613)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Speaking With a Customer Service Rep](https://lifehacker.com/dont-make-these-mistakes-when-speaking-with-a-customer-1850124655)
