@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A website that i&#39;ve made for my hairy son Lucky](https://dev.to/sourcesensei_48/a-website-that-ive-made-for-my-hairy-son-lucky-19n)
+- [Dev.to/JS] [The dark side of Next.js](https://dev.to/fullctxdev/the-dark-side-of-nextjs-39ae)
+- [Dev.to/JS] [Challenge Accepted](https://dev.to/jd2r/challenge-accepted-poo)
+- [Dev.to/JS] [Nuxt and WPGraphQL](https://dev.to/sulcalibur/nuxt-and-wpgraphql-2h3m)
 - [Lifehacker] [Don&#39;t Store These Household Items Under Your Kitchen Sink](https://lifehacker.com/dont-store-these-household-items-under-your-kitchen-sin-1850124613)
 - [Dev.to/JS] [My New Development Project](https://dev.to/kryslynn23/my-new-development-project-5968)
 - [Dev.to/JS] [What is Wordle Game and how to play it.](https://dev.to/hindicyber/what-is-wordle-game-and-how-to-play-it-547f)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating Web Accessibility: Semantic Tags](https://dev.to/frontend_jedi/creating-web-accessibility-semantic-tags-50bl)
 - [Dev.to/JS] [How to Start a React Native Application Using Expo](https://dev.to/vincod/how-to-start-a-react-native-application-using-expo-54ln)
 - [Dev.to/JS] [How To Start a React Native Application](https://dev.to/vincod/how-to-start-a-react-native-application-2bcd)
-- [Dev.to/JS] [My Favorite Courses to Learn Coding and Programming in 2023](https://dev.to/javinpaul/my-favorite-courses-to-learn-coding-and-programming-in-2023-4ngo)
-- [Dev.to/JS] [Binary in JS](https://dev.to/raymondzhang/binary-in-js-1f8g)
-- [Dev.to/JS] [Intro to Naming Guidelines: Writing Meaningful Variable Names](https://dev.to/hyfydistro/intro-to-naming-guidelines-writing-meaningful-variable-names-13j5)
-- [Dev.to/JS] [The Basics of the Document Object Model &lpar;DOM&rpar; and Its Available Methods](https://dev.to/sidrasochan/the-basics-of-the-document-object-model-dom-and-its-available-methods-2lab)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Speaking With a Customer Service Rep](https://lifehacker.com/dont-make-these-mistakes-when-speaking-with-a-customer-1850124655)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
