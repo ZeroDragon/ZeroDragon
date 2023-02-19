@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Tiny Git CLI Tool I Use Daily To Improve My Git Workflow](https://dev.to/banjoanton/my-tiny-git-cli-tool-i-use-daily-to-improve-my-git-workflow-1cmo)
+- [Dev.to/JS] [Migrate Option API to Composition API on Vue3](https://dev.to/nicolasmontielf/migrate-option-api-to-composition-api-on-vue3-4o3p)
+- [Dev.to/JS] [Programmatic SEO: Complete guide with examples](https://dev.to/momciloo/programmatic-seo-complete-guide-with-examples-4bc6)
+- [Dev.to/JS] [Um resumo sobre: vetores não ordenados.](https://dev.to/costamateus7/um-resumo-sobre-vetores-nao-ordenados-fod)
+- [Dev.to/JS] [Scroll to top on page change React](https://dev.to/osalumense/scroll-to-top-on-page-change-react-5a23)
 - [Dev.to/JS] [Distribuyendo configuraciones de eslint](https://dev.to/dezkareid/distribuyendo-configuraciones-de-eslint-2o50)
 - [Dev.to/JS] [10 Essential Tools Every Blockchain Developer must Have](https://dev.to/scofieldidehen/10-essential-tools-every-blockchain-developer-must-have-31po)
 - [Dev.to/JS] [6 Tips for Writing Cleaner and More Maintainable JavaScript Code](https://dev.to/phantasm0009/6-tips-for-writing-cleaner-and-more-maintainable-javascript-code-4lbm)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Should you pass the whole object to a function?](https://dev.to/tahazsh/should-you-pass-the-whole-object-to-a-function-168n)
 - [Dev.to/JS] [Introducing PolygonDB: A Modern and Flexible Alternative to MongoDB with Advanced Data Management Features](https://dev.to/hasidicdevs/introducing-polygondb-a-modern-and-flexible-alternative-to-mongodb-with-advanced-data-management-features-50kl)
 - [Dev.to/JS] [Second Next.js website](https://dev.to/vulcanwm/second-nextjs-website-c70)
-- [Dev.to/JS] [CSS !important: Avoid Using](https://dev.to/stakedesigner/css-important-avoid-using-2k4c)
-- [Dev.to/JS] [LeetCode - Minimize Maximum Pair Sum in Array](https://dev.to/_alkesh26/leetcode-minimize-maximum-pair-sum-in-array-540g)
-- [Dev.to/JS] [JavaScript Tutorial Series: Practice 1](https://dev.to/fullstackjo/javascript-tutorial-series-practice-1-e9k)
-- [Dev.to/JS] [You might be overusing React states](https://dev.to/diogorodrigues/you-might-be-overusing-react-states-2m39)
-- [Dev.to/JS] [How To Get Technical Writing Jobs, Gigs, or Opportunities](https://dev.to/the_greatbonnie/how-to-get-technical-writing-jobs-gigs-or-opportunities-3mmd)
 - [Lifehacker] [How to Fly to Japan This Fall for Less Than $400 Each Way](https://lifehacker.com/how-to-fly-to-japan-this-fall-for-less-than-400-each-w-1850124601)
 - [Lifehacker] [Don&#39;t Store These Household Items Under Your Kitchen Sink](https://lifehacker.com/dont-store-these-household-items-under-your-kitchen-sin-1850124613)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
