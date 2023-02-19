@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Which video editor is exceptional for beginners?](https://dev.to/thomas23459/which-video-editor-is-exceptional-for-beginners-39eo)
+- [Dev.to/JS] [Create a simple Node.JS server&lpar;Express&rpar;in only 4 steps. I promise😄😄.](https://dev.to/kimaniwashington/create-a-simple-nodejs-serverexpressin-only-4-steps-i-promise-2fhc)
+- [Dev.to/JS] [Creating Web Accessibility: Semantic Tags](https://dev.to/frontend_jedi/creating-web-accessibility-semantic-tags-50bl)
 - [Dev.to/JS] [How to Start a React Native Application Using Expo](https://dev.to/vincod/how-to-start-a-react-native-application-using-expo-54ln)
 - [Dev.to/JS] [How To Start a React Native Application](https://dev.to/vincod/how-to-start-a-react-native-application-2bcd)
 - [Dev.to/JS] [My Favorite Courses to Learn Coding and Programming in 2023](https://dev.to/javinpaul/my-favorite-courses-to-learn-coding-and-programming-in-2023-4ngo)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implement In-Memory Cache in the NET Core API](https://dev.to/jaydeep007/implement-in-memory-cache-in-the-net-core-api-1c30)
 - [Dev.to/JS] [7 JavaScript Web APIs to build Futuristic Websites you didn&#39;t know🤯](https://dev.to/ruppysuppy/7-javascript-web-apis-to-build-futuristic-websites-you-didnt-know-38bc)
 - [Dev.to/JS] [How to simplify importing multiple components in another component ?](https://dev.to/elsonjose/how-to-simplify-importing-multiple-components-in-another-component--17i8)
-- [Dev.to/JS] [Access Token and Refresh Token: A Comprehensive Guide](https://dev.to/tijan_io/access-token-and-refresh-token-a-comprehensive-guide-40g7)
-- [Dev.to/JS] [Mastering React Toastify: A Comprehensive Guide for Effective Notifications in React Applications](https://dev.to/monu181/mastering-react-toastify-a-comprehensive-guide-for-effective-notifications-in-react-applications-5c5b)
-- [Dev.to/JS] [Building Financial Applications with React Components: Best Practices and Libraries for Buttons, Forms, Tables, Charts.](https://dev.to/monu181/building-financial-applications-with-react-components-best-practices-and-libraries-for-buttons-forms-tables-charts-18ph)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Speaking With a Customer Service Rep](https://lifehacker.com/dont-make-these-mistakes-when-speaking-with-a-customer-1850124655)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
