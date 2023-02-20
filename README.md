@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [22+ Web Projects with Source Code](https://dev.to/alsiam/22-web-projects-with-source-code-2ko)
+- [Dev.to/JS] [Recursion in JS for Beginners, avoiding and infinite loop](https://dev.to/kriegercisneros/recursion-in-js-for-beginners-avoiding-and-infinite-loop-17bh)
 - [Dev.to/JS] [JavaScript Data Structure Pt 3: Queue](https://dev.to/cleveroscar/javascript-data-structure-pt-3-queue-3e3c)
+- [Dev.to/JS] [Implementing a Command Palette and Task Timer &lpar;part 2&rpar;](https://dev.to/rouilj/implementing-a-command-palette-and-task-timer-part-2-543)
 - [Dev.to/JS] [A Guide to creating TapRoot Scripts with bitcoinjs-lib](https://dev.to/eunovo/a-guide-to-creating-taproot-scripts-with-bitcoinjs-lib-4oph)
 - [Dev.to/JS] [My Tiny Git CLI Tool I Use Daily To Improve My Git Workflow](https://dev.to/banjoanton/my-tiny-git-cli-tool-i-use-daily-to-improve-my-git-workflow-1cmo)
 - [Dev.to/JS] [Migrating components from Option API to Composition API on Vue](https://dev.to/nicolasmontielf/migrate-option-api-to-composition-api-on-vue3-4o3p)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Scroll to top on page change React](https://dev.to/osalumense/scroll-to-top-on-page-change-react-5a23)
 - [Dev.to/JS] [Distribuyendo configuraciones de eslint](https://dev.to/dezkareid/distribuyendo-configuraciones-de-eslint-2o50)
 - [Dev.to/JS] [10 Essential Tools Every Blockchain Developer must Have](https://dev.to/scofieldidehen/10-essential-tools-every-blockchain-developer-must-have-31po)
-- [Dev.to/JS] [6 Tips for Writing Cleaner and More Maintainable JavaScript Code](https://dev.to/phantasm0009/6-tips-for-writing-cleaner-and-more-maintainable-javascript-code-4lbm)
-- [Dev.to/JS] [Desarrollando un clon de Instagram en React - Implementando las rutas, ESLint y Prettier](https://dev.to/robertomsen/desarrollando-un-clon-de-instagram-en-react-implementando-las-rutas-eslint-y-prettier-2hik)
-- [Dev.to/JS] [Should you pass the whole object to a function?](https://dev.to/tahazsh/should-you-pass-the-whole-object-to-a-function-168n)
 - [Lifehacker] [How to Fly to Japan This Fall for Less Than $400 Each Way](https://lifehacker.com/how-to-fly-to-japan-this-fall-for-less-than-400-each-w-1850124601)
 - [Lifehacker] [Don&#39;t Store These Household Items Under Your Kitchen Sink](https://lifehacker.com/dont-store-these-household-items-under-your-kitchen-sin-1850124613)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
