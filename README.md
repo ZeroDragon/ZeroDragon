@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How &lpar;And Why?&rpar; To Wrap External Libraries?](https://dev.to/dsibinski/how-and-why-to-wrap-external-libraries-59hn)
+- [Lifehacker] [Study Up on Local Sports Before Traveling Abroad](https://lifehacker.com/study-up-on-local-sports-before-traveling-abroad-1850129721)
+- [Dev.to/JS] [Vue.js Tutorial: build a functional SPA from scratch](https://dev.to/educative/vuejs-tutorial-build-a-functional-spa-from-scratch-3624)
+- [Dev.to/JS] [Stonks - Realtime Trading Simulator [Linode DEV Hackathon]](https://dev.to/narottam04/stonks-realtime-trading-simulator-linode-dev-hackathon-i2p)
+- [Dev.to/JS] [The Complete Guide to JavaScript Variables for Beginners](https://dev.to/akiri_fejiro/the-complete-guide-to-javascript-variables-for-beginners-1elf)
+- [Dev.to/JS] [A Beginner&#39;s Guide to Getting Started with React](https://dev.to/selmonhaftom/a-beginners-guide-to-getting-started-with-react-1koo)
 - [Lifehacker] [How to Unlearn Your Parents&#39; Bad Money Habits, According to Lifehacker Readers](https://lifehacker.com/how-to-unlearn-your-parents-bad-money-habits-according-1850127795)
 - [Dev.to/JS] [Painless Web Components: Naming is &lpar;not too&rpar; Hard](https://dev.to/kamiquasi/painless-web-components-naming-is-not-too-hard-3lon)
 - [Dev.to/JS] [Episode 23/07: Signals](https://dev.to/ng_news/episode-2307-signals-epj)
@@ -37,12 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When Not to ‘Listen to Your Body’](https://lifehacker.com/when-not-to-listen-to-your-body-1850129164)
 - [Dev.to/JS] [How to use Named Entity Recognition &lpar;NER&rpar; API with Javascript in 5 minutes?](https://dev.to/edenai/how-to-use-named-entity-recognition-ner-api-with-javascript-in-5-minutes-33ek)
 - [Dev.to/JS] [JavaScript Functions](https://dev.to/prasadsawant7/javascript-functions-12i1)
-- [Dev.to/JS] [Paracetamol.ts💊| #14: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-14-explica-este-codigo-typescript-114j)
-- [Dev.to/JS] [JavaScript ⭐ libraries are tools 🛠️ for developers](https://dev.to/mahmoudessam/javascript-libraries-are-tools-for-developers-12ap)
-- [Dev.to/JS] [Why Heroku Review Apps are Even More Awesome than You Realize 👀](https://dev.to/livecycle/why-heroku-review-apps-are-even-more-awesome-than-you-realize-j46)
 - [Lifehacker] [All the Things You Should Hide Before Guests Come Over](https://lifehacker.com/all-the-things-you-should-hide-before-guests-come-over-1850128458)
-- [Dev.to/JS] [Difference between Virtual DOM and Real DOM](https://dev.to/himanshudevgupta/difference-between-virtual-dom-and-real-dom-2anc)
-- [Dev.to/JS] [Why NodeJS? Demystifying threads, blocking, synchronicity, and callbacks.](https://dev.to/thebridge2/why-nodejs-demystifying-threads-blocking-synchronicity-and-callbacks-3p7f)
 - [Lifehacker] [Where You Install Smoke Detectors Really Matters](https://lifehacker.com/where-you-install-smoke-detectors-really-matters-1850124566)
 - [Lifehacker] [You&#39;re Soaking Your Dishes Wrong](https://lifehacker.com/youre-soaking-your-dishes-wrong-1850071577)
 - [Lifehacker] [You’re Using Lube Wrong](https://lifehacker.com/you-re-using-lube-wrong-1850120415)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Better a Stir Fry by Velveting Your Meat](https://lifehacker.com/make-better-a-stir-fry-by-velveting-your-meat-1850128415)
 - [Lifehacker] [You Can Update Your MacBook Cable for Some Reason](https://lifehacker.com/you-can-update-your-macbook-cable-for-some-reason-1850127766)
 - [Lifehacker] [Jazz Up Desserts With a Microwave Fruit Compote](https://lifehacker.com/jazz-up-desserts-with-a-microwave-fruit-compote-1850127410)
-- [Lifehacker] [How to Test Minecraft&#39;s New Cherry Blossoms Before Everyone Else](https://lifehacker.com/how-to-test-minecrafts-new-cherry-blossoms-before-every-1850127070)
-- [Lifehacker] [Onion Ring Parm Is the Quickest Way to Get Your Parm Fix](https://lifehacker.com/onion-ring-parm-is-the-quickest-way-to-get-your-parm-fi-1850124859)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Test Minecraft&#39;s New Cherry Blossoms Before Everyone Else](https://lifehacker.com/how-to-test-minecrafts-new-cherry-blossoms-before-every-1850127070)<!-- TECH-POSTS:END -->
 
 ---
 
