@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Tips and Tricks for Debugging in JavaScript](https://dev.to/musabdev/tips-and-tricks-for-debugging-in-javascript-3njp)
+- [Dev.to/JS] [Exploring the Best Mobile App Development Frameworks of 2023](https://dev.to/janefraserof/exploring-the-best-mobile-app-development-frameworks-of-2023-3kg1)
 - [Dev.to/JS] [Advanced Overview of String Conversion in JavaScript](https://dev.to/andrewsavetchuk/advanced-overview-of-string-conversionin-javascript-68k)
 - [Dev.to/JS] [A lesser-known vector for XSS attacks: SVG files](https://dev.to/vinibrsl/a-lesser-known-vector-for-xss-attacks-svg-files-5hm5)
 - [Dev.to/JS] [Effortlessly Elevate Your React Code with ESLint and Prettier: A Step-by-Step Guide for 2023](https://dev.to/aaron_janes/effortlessly-elevate-your-react-code-with-eslint-and-prettier-a-step-by-step-guide-for-2023-179d)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Guide to creating TapRoot Scripts with bitcoinjs-lib](https://dev.to/eunovo/a-guide-to-creating-taproot-scripts-with-bitcoinjs-lib-4oph)
 - [Dev.to/JS] [My Tiny Git CLI Tool I Use Daily To Improve My Git Workflow](https://dev.to/banjoanton/my-tiny-git-cli-tool-i-use-daily-to-improve-my-git-workflow-1cmo)
 - [Dev.to/JS] [Migrating components from Option API to Composition API on Vue](https://dev.to/nicolasmontielf/migrate-option-api-to-composition-api-on-vue3-4o3p)
-- [Dev.to/JS] [Programmatic SEO: Complete guide with examples](https://dev.to/momciloo/programmatic-seo-complete-guide-with-examples-4bc6)
-- [Dev.to/JS] [Um resumo sobre: vetores não ordenados.](https://dev.to/costamateus7/um-resumo-sobre-vetores-nao-ordenados-fod)
 - [Lifehacker] [How to Fly to Japan This Fall for Less Than $400 Each Way](https://lifehacker.com/how-to-fly-to-japan-this-fall-for-less-than-400-each-w-1850124601)
 - [Lifehacker] [Don&#39;t Store These Household Items Under Your Kitchen Sink](https://lifehacker.com/dont-store-these-household-items-under-your-kitchen-sin-1850124613)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
