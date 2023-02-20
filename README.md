@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can DIY Your Own Stunning Coffered Ceilings](https://lifehacker.com/you-can-diy-your-own-stunning-coffered-ceilings-1850129947)
+- [Dev.to/JS] [The importance of cyber-security in software development](https://dev.to/folasayosamuel/the-importance-of-cybersecurity-in-software-development-2mcg)
+- [Lifehacker] [The 7 Deadly Sins of Personal Hygiene](https://lifehacker.com/the-7-deadly-sins-of-personal-hygiene-1850130331)
 - [Dev.to/JS] [Comandos básicos de NPM](https://dev.to/asjordi/comandos-basicos-de-npm-2hl8)
+- [Lifehacker] [You Should Be Using Coconut Oil on Your Plants](https://lifehacker.com/you-should-be-using-coconut-oil-on-your-plants-1850124551)
 - [Lifehacker] [Always Check These Five Car Parts Before a Long Road Trip](https://lifehacker.com/always-check-these-five-car-parts-before-a-long-road-tr-1850125026)
 - [Dev.to/JS] [How to Create a Responsive Navigation Bar With TailwindCSS](https://dev.to/nitinfab/how-to-create-a-responsive-navigation-bar-with-tailwindcss-2eid)
 - [Lifehacker] [When Not to ‘Listen to Your Body’](https://lifehacker.com/when-not-to-listen-to-your-body-1850129164)
@@ -40,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You&#39;re Soaking Your Dishes Wrong](https://lifehacker.com/youre-soaking-your-dishes-wrong-1850071577)
 - [Dev.to/JS] [Creating a resume builder with React, NodeJS and AI 🚀](https://dev.to/novu/creating-a-resume-builder-with-react-nodejs-and-ai-4k6l)
 - [Lifehacker] [You’re Using Lube Wrong](https://lifehacker.com/you-re-using-lube-wrong-1850120415)
-- [Dev.to/JS] [How to use Webpack for Frontend asset Management and Optimization](https://dev.to/justinakingsley/how-to-use-webpack-for-frontend-asset-management-and-optimization-2e70)
 - [Lifehacker] [How to Fly to Japan This Fall for Less Than $400 Each Way](https://lifehacker.com/how-to-fly-to-japan-this-fall-for-less-than-400-each-w-1850124601)
 - [Lifehacker] [Don&#39;t Store These Household Items Under Your Kitchen Sink](https://lifehacker.com/dont-store-these-household-items-under-your-kitchen-sin-1850124613)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Test Minecraft&#39;s New Cherry Blossoms Before Everyone Else](https://lifehacker.com/how-to-test-minecrafts-new-cherry-blossoms-before-every-1850127070)
 - [Lifehacker] [Onion Ring Parm Is the Quickest Way to Get Your Parm Fix](https://lifehacker.com/onion-ring-parm-is-the-quickest-way-to-get-your-parm-fi-1850124859)
 - [Lifehacker] [12 of the Best Podcasts Celebrating Black History and Culture](https://lifehacker.com/12-of-the-best-podcasts-celebrating-black-history-and-c-1850105617)
-- [Lifehacker] [It&#39;s Easier Than You Think to Find Meaning at Work](https://lifehacker.com/its-easier-than-you-think-to-find-meaning-at-work-1850127230)
-- [Lifehacker] [12 Pre-Code Movies That Prove Hollywood Was Always Obsessed With Crime, Violence, and Sex](https://lifehacker.com/12-pre-code-movies-that-prove-hollywood-was-always-obse-1850118872)
-- [Lifehacker] [Use These Three Adidas Discounts at the Same Time](https://lifehacker.com/use-these-three-adidas-discounts-at-the-same-time-1850125074)
-- [Lifehacker] [No, Bing&#39;s AI Chatbot Is Not Sentient](https://lifehacker.com/no-bings-ai-chatbot-is-not-sentient-1850125502)<!-- TECH-POSTS:END -->
+- [Lifehacker] [It&#39;s Easier Than You Think to Find Meaning at Work](https://lifehacker.com/its-easier-than-you-think-to-find-meaning-at-work-1850127230)<!-- TECH-POSTS:END -->
 
 ---
 
