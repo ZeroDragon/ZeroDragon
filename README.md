@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to update an element in a map - JavaScript](https://dev.to/moibra/how-to-update-an-element-in-a-map-javascript-56c7)
+- [Lifehacker] [Use These Six Steps to Salvage a Bad Day](https://lifehacker.com/use-these-six-steps-to-salvage-a-bad-day-1850134915)
+- [Dev.to/JS] [&lpar;Array Methods Part 3&rpar; What are Iteration Methods?](https://dev.to/michaelvinidev/array-methods-part-3-what-are-iteration-methods-a35)
+- [Dev.to/JS] [JavaScript Tutorial Series: Loops](https://dev.to/fullstackjo/javascript-tutorial-series-loops-h58)
 - [Lifehacker] [You Should Know the Difference Between a Chargeback and a Refund](https://lifehacker.com/you-should-know-the-difference-between-a-chargeback-and-1850129108)
 - [Dev.to/JS] [How to use PocketBase Database with React and SWR](https://dev.to/franciscomendes10866/how-to-use-pocketbase-database-with-react-2gg9)
 - [Dev.to/JS] [How Java is used in programming?](https://dev.to/thomas23459/how-java-is-used-in-programming-3929)
@@ -34,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [StaticStorm - Unleash the power of simple, fast and secure websites. Linode + DEV Hackathon](https://dev.to/devarshishimpi/staticstorm-unleash-the-power-of-simple-fast-and-secure-websites-linode-dev-hackathon-382g)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Feb 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-feb-2023-5005)
 - [Dev.to/JS] [Optional Chaining in JavaScript: Simplify your Code and Avoid Unwanted Errors](https://dev.to/bitheap_tech/optional-chaining-in-javascript-simplify-your-code-and-avoid-unwanted-errors-20lh)
-- [Dev.to/JS] [How &lpar;And Why?&rpar; To Wrap External Libraries?](https://dev.to/dsibinski/how-and-why-to-wrap-external-libraries-59hn)
 - [Lifehacker] [Study Up on Local Sports Before Traveling Abroad](https://lifehacker.com/study-up-on-local-sports-before-traveling-abroad-1850129721)
-- [Dev.to/JS] [Vue.js Tutorial: build a functional SPA from scratch](https://dev.to/educative/vuejs-tutorial-build-a-functional-spa-from-scratch-3624)
-- [Dev.to/JS] [Stonks - Realtime Trading Simulator [Linode DEV Hackathon]](https://dev.to/narottam04/stonks-realtime-trading-simulator-linode-dev-hackathon-i2p)
 - [Lifehacker] [How to Unlearn Your Parents&#39; Bad Money Habits, According to Lifehacker Readers](https://lifehacker.com/how-to-unlearn-your-parents-bad-money-habits-according-1850127795)
 - [Lifehacker] [Four Reasons Your Cat Keeps Peeing Outside Their Litter Box](https://lifehacker.com/four-reasons-your-cat-keeps-peeing-outside-their-litter-1850125397)
 - [Lifehacker] [You Can DIY Your Own Stunning Coffered Ceilings](https://lifehacker.com/you-can-diy-your-own-stunning-coffered-ceilings-1850129947)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get the New iPhone Emojis Early](https://lifehacker.com/how-to-get-the-new-iphone-emojis-early-1850128259)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What is &#39;Enyacore?&#39;](https://lifehacker.com/what-is-enyacore-1850129373)
 - [Lifehacker] [More Than 350,000 ‘Self-Driving’ Teslas Unsurprisingly Recalled](https://lifehacker.com/more-than-350-000-self-driving-teslas-unsurprisingly-1850128703)
-- [Lifehacker] [Make Better a Stir Fry by Velveting Your Meat](https://lifehacker.com/make-better-a-stir-fry-by-velveting-your-meat-1850128415)
-- [Lifehacker] [You Can Update Your MacBook Cable for Some Reason](https://lifehacker.com/you-can-update-your-macbook-cable-for-some-reason-1850127766)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Better a Stir Fry by Velveting Your Meat](https://lifehacker.com/make-better-a-stir-fry-by-velveting-your-meat-1850128415)<!-- TECH-POSTS:END -->
 
 ---
 
