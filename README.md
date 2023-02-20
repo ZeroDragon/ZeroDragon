@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a resume builder with React, NodeJS and AI 🚀](https://dev.to/novu/creating-a-resume-builder-with-react-nodejs-and-ai-4k6l)
+- [Lifehacker] [You’re Using Lube Wrong](https://lifehacker.com/you-re-using-lube-wrong-1850120415)
+- [Dev.to/JS] [How to use Webpack for Frontend asset Management and Optimization](https://dev.to/justinakingsley/how-to-use-webpack-for-frontend-asset-management-and-optimization-2e70)
+- [Dev.to/JS] [🎴 Tilt playing card](https://dev.to/lukyvj/tilt-playing-card-30k9)
+- [Dev.to/JS] [First Blog Post](https://dev.to/ilesanmierioluwavictor/first-blog-post-37b5)
 - [Dev.to/JS] [How to Choose a Data Storage Solution for your Company](https://dev.to/hackmamba/how-to-choose-a-data-storage-solution-for-your-company-jj2)
 - [Dev.to/JS] [Top 7 Tools For Virtual Reality App Development](https://dev.to/etelligens/top-7-tools-for-virtual-reality-app-development-543p)
 - [Dev.to/JS] [VerifBox: Bringing Trust and Authenticity to the NFT Market](https://dev.to/verifbox/verifbox-bringing-trust-and-authenticity-to-the-nft-market-4k5c)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Reactive Programming: a gentle introduction](https://dev.to/lifaon74/reactive-programming-a-gentle-introduction-3ai6)
 - [Dev.to/JS] [How to create a Drag and Drop interface using Vanilla JS](https://dev.to/devrohit0/how-to-create-a-drag-and-drop-interface-using-vanilla-js-9bi)
 - [Dev.to/JS] [Difference between callback functions and high order functions in JavaScript](https://dev.to/kipyegonline/difference-between-callback-functions-and-high-order-functions-in-javascript-2bc8)
-- [Dev.to/JS] [Build a blog with Nuxt 3 + Storyblok](https://dev.to/alexandergekov/build-a-blog-with-nuxt-3-storyblok-3a7g)
-- [Dev.to/JS] [My Journey in Open Source - retry-catch](https://dev.to/cadienvan/my-journey-in-open-source-retry-catch-55d6)
-- [Dev.to/JS] [Create React App vs Vite: Choosing the Right Build Tool for Your Project](https://dev.to/musabdev/create-react-app-vs-vite-choosing-the-right-build-tool-for-your-project-3ni1)
-- [Dev.to/JS] [Getting Started with Material UI in React: An Introduction](https://dev.to/tiennguyenftuk52/getting-started-with-material-ui-in-react-an-introduction-4f18)
 - [Lifehacker] [How to Fly to Japan This Fall for Less Than $400 Each Way](https://lifehacker.com/how-to-fly-to-japan-this-fall-for-less-than-400-each-w-1850124601)
 - [Lifehacker] [Don&#39;t Store These Household Items Under Your Kitchen Sink](https://lifehacker.com/dont-store-these-household-items-under-your-kitchen-sin-1850124613)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Cheeses for a Grilled Cheese Sandwich](https://lifehacker.com/these-are-the-best-cheeses-for-a-grilled-cheese-sandwic-1850123760)
 - [Lifehacker] [How to Become the Pope](https://lifehacker.com/how-to-become-the-pope-1850124789)
 - [Lifehacker] [These Are the Best Air Fryer Sales for President&#39;s Day Weekend](https://lifehacker.com/these-are-the-best-air-fryer-sales-for-presidents-day-w-1850124851)
-- [Lifehacker] [You Must Make Empanada Chips and Dip](https://lifehacker.com/you-must-make-empanada-chips-and-dip-1850123718)
-- [Lifehacker] [8 Shows to Stream When You Need Cleaning Inspiration](https://lifehacker.com/8-shows-to-stream-when-you-need-cleaning-inspiration-1850124456)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Must Make Empanada Chips and Dip](https://lifehacker.com/you-must-make-empanada-chips-and-dip-1850123718)<!-- TECH-POSTS:END -->
 
 ---
 
