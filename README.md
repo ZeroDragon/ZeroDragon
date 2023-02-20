@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Know the Difference Between a Chargeback and a Refund](https://lifehacker.com/you-should-know-the-difference-between-a-chargeback-and-1850129108)
+- [Dev.to/JS] [How to use PocketBase Database with React and SWR](https://dev.to/franciscomendes10866/how-to-use-pocketbase-database-with-react-2gg9)
+- [Dev.to/JS] [How Java is used in programming?](https://dev.to/thomas23459/how-java-is-used-in-programming-3929)
+- [Dev.to/JS] [Refs is more than enough](https://dev.to/thexdev/refs-is-more-than-enough-4a2a)
+- [Dev.to/JS] [Liguard - The Linode Guard](https://dev.to/darthbenro008/liguard-the-linode-guard-5cjo)
+- [Dev.to/JS] [CodeMax Html Editor](https://dev.to/onlinedevelopers/codemax-html-editor-5h02)
+- [Lifehacker] [Always Keep a Dried Out Steak in Your Fridge](https://lifehacker.com/always-keep-a-dried-out-steak-in-your-fridge-1850129530)
 - [Dev.to/JS] [Create Stunning User Interfaces with These Top 30 React UI libraries](https://dev.to/ziontutorial/create-stunning-user-interfaces-with-these-top-30-react-ui-libraries-26eb)
 - [Dev.to/JS] [StaticStorm - Unleash the power of simple, fast and secure websites. Linode + DEV Hackathon](https://dev.to/devarshishimpi/staticstorm-unleash-the-power-of-simple-fast-and-secure-websites-linode-dev-hackathon-382g)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Feb 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-feb-2023-5005)
@@ -31,14 +38,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Study Up on Local Sports Before Traveling Abroad](https://lifehacker.com/study-up-on-local-sports-before-traveling-abroad-1850129721)
 - [Dev.to/JS] [Vue.js Tutorial: build a functional SPA from scratch](https://dev.to/educative/vuejs-tutorial-build-a-functional-spa-from-scratch-3624)
 - [Dev.to/JS] [Stonks - Realtime Trading Simulator [Linode DEV Hackathon]](https://dev.to/narottam04/stonks-realtime-trading-simulator-linode-dev-hackathon-i2p)
-- [Dev.to/JS] [The Complete Guide to JavaScript Variables for Beginners](https://dev.to/akiri_fejiro/the-complete-guide-to-javascript-variables-for-beginners-1elf)
-- [Dev.to/JS] [A Beginner&#39;s Guide to Getting Started with React](https://dev.to/selmonhaftom/a-beginners-guide-to-getting-started-with-react-1koo)
 - [Lifehacker] [How to Unlearn Your Parents&#39; Bad Money Habits, According to Lifehacker Readers](https://lifehacker.com/how-to-unlearn-your-parents-bad-money-habits-according-1850127795)
-- [Dev.to/JS] [Painless Web Components: Naming is &lpar;not too&rpar; Hard](https://dev.to/kamiquasi/painless-web-components-naming-is-not-too-hard-3lon)
-- [Dev.to/JS] [Episode 23/07: Signals](https://dev.to/ng_news/episode-2307-signals-epj)
 - [Lifehacker] [Four Reasons Your Cat Keeps Peeing Outside Their Litter Box](https://lifehacker.com/four-reasons-your-cat-keeps-peeing-outside-their-litter-1850125397)
 - [Lifehacker] [You Can DIY Your Own Stunning Coffered Ceilings](https://lifehacker.com/you-can-diy-your-own-stunning-coffered-ceilings-1850129947)
-- [Dev.to/JS] [The importance of cyber-security in software development](https://dev.to/folasayosamuel/the-importance-of-cybersecurity-in-software-development-2mcg)
 - [Lifehacker] [The 7 Deadly Sins of Personal Hygiene](https://lifehacker.com/the-7-deadly-sins-of-personal-hygiene-1850130331)
 - [Lifehacker] [You Should Be Using Coconut Oil on Your Plants](https://lifehacker.com/you-should-be-using-coconut-oil-on-your-plants-1850124551)
 - [Lifehacker] [Always Check These Five Car Parts Before a Long Road Trip](https://lifehacker.com/always-check-these-five-car-parts-before-a-long-road-tr-1850125026)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What is &#39;Enyacore?&#39;](https://lifehacker.com/what-is-enyacore-1850129373)
 - [Lifehacker] [More Than 350,000 ‘Self-Driving’ Teslas Unsurprisingly Recalled](https://lifehacker.com/more-than-350-000-self-driving-teslas-unsurprisingly-1850128703)
 - [Lifehacker] [Make Better a Stir Fry by Velveting Your Meat](https://lifehacker.com/make-better-a-stir-fry-by-velveting-your-meat-1850128415)
-- [Lifehacker] [You Can Update Your MacBook Cable for Some Reason](https://lifehacker.com/you-can-update-your-macbook-cable-for-some-reason-1850127766)
-- [Lifehacker] [Jazz Up Desserts With a Microwave Fruit Compote](https://lifehacker.com/jazz-up-desserts-with-a-microwave-fruit-compote-1850127410)
-- [Lifehacker] [How to Test Minecraft&#39;s New Cherry Blossoms Before Everyone Else](https://lifehacker.com/how-to-test-minecrafts-new-cherry-blossoms-before-every-1850127070)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Update Your MacBook Cable for Some Reason](https://lifehacker.com/you-can-update-your-macbook-cable-for-some-reason-1850127766)<!-- TECH-POSTS:END -->
 
 ---
 
