@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [When is a Computer Said to Have Passed A Turing Test](https://dev.to/vincod/when-is-a-computer-said-to-have-passed-a-turing-test-3725)
 - [Dev.to/JS] [7 Tips and Tricks for Debugging in JavaScript](https://dev.to/musabdev/tips-and-tricks-for-debugging-in-javascript-3njp)
 - [Dev.to/JS] [Exploring the Best Mobile App Development Frameworks of 2023](https://dev.to/janefraserof/exploring-the-best-mobile-app-development-frameworks-of-2023-3kg1)
 - [Dev.to/JS] [Advanced Overview of String Conversion in JavaScript](https://dev.to/andrewsavetchuk/advanced-overview-of-string-conversionin-javascript-68k)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing a Command Palette and Task Timer &lpar;part 2&rpar;](https://dev.to/rouilj/implementing-a-command-palette-and-task-timer-part-2-543)
 - [Dev.to/JS] [A Guide to creating TapRoot Scripts with bitcoinjs-lib](https://dev.to/eunovo/a-guide-to-creating-taproot-scripts-with-bitcoinjs-lib-4oph)
 - [Dev.to/JS] [My Tiny Git CLI Tool I Use Daily To Improve My Git Workflow](https://dev.to/banjoanton/my-tiny-git-cli-tool-i-use-daily-to-improve-my-git-workflow-1cmo)
-- [Dev.to/JS] [Migrating components from Option API to Composition API on Vue](https://dev.to/nicolasmontielf/migrate-option-api-to-composition-api-on-vue3-4o3p)
 - [Lifehacker] [How to Fly to Japan This Fall for Less Than $400 Each Way](https://lifehacker.com/how-to-fly-to-japan-this-fall-for-less-than-400-each-w-1850124601)
 - [Lifehacker] [Don&#39;t Store These Household Items Under Your Kitchen Sink](https://lifehacker.com/dont-store-these-household-items-under-your-kitchen-sin-1850124613)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
