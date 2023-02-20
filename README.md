@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How often do you use TypeScript?](https://dev.to/justcode_27/how-often-do-you-use-typescript-2242)
+- [Dev.to/JS] [Helpers por que utiliza-los?](https://dev.to/rogeriorioli/helpers-por-que-utiliza-los-368k)
+- [Lifehacker] [All the Ways You Can Clean With a Squeegee &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-clean-with-a-squeegee-but-arent-1850129454)
+- [Dev.to/JS] [Templating with TinyBase, Tailwind, and RippleUI](https://dev.to/parenttobias/templating-with-tinybase-tailwind-and-rippleui-5a1h)
+- [Dev.to/JS] [How to Parse HTML string in React](https://dev.to/kalush89/how-to-parse-html-string-in-react-53fh)
+- [Lifehacker] [Here&#39;s the Math on Whether You Can Save Money Heating Your Home With a Fireplace](https://lifehacker.com/heres-the-math-on-whether-you-can-save-money-heating-yo-1850136827)
 - [Dev.to/JS] [How to update an element in a map - JavaScript](https://dev.to/moibra/how-to-update-an-element-in-a-map-javascript-56c7)
 - [Lifehacker] [Use These Six Steps to Salvage a Bad Day](https://lifehacker.com/use-these-six-steps-to-salvage-a-bad-day-1850134915)
 - [Dev.to/JS] [&lpar;Array Methods Part 3&rpar; What are Iteration Methods?](https://dev.to/michaelvinidev/array-methods-part-3-what-are-iteration-methods-a35)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Liguard - The Linode Guard](https://dev.to/darthbenro008/liguard-the-linode-guard-5cjo)
 - [Dev.to/JS] [CodeMax Html Editor](https://dev.to/onlinedevelopers/codemax-html-editor-5h02)
 - [Lifehacker] [Always Keep a Dried Out Steak in Your Fridge](https://lifehacker.com/always-keep-a-dried-out-steak-in-your-fridge-1850129530)
-- [Dev.to/JS] [Create Stunning User Interfaces with These Top 30 React UI libraries](https://dev.to/ziontutorial/create-stunning-user-interfaces-with-these-top-30-react-ui-libraries-26eb)
-- [Dev.to/JS] [StaticStorm - Unleash the power of simple, fast and secure websites. Linode + DEV Hackathon](https://dev.to/devarshishimpi/staticstorm-unleash-the-power-of-simple-fast-and-secure-websites-linode-dev-hackathon-382g)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Feb 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-feb-2023-5005)
-- [Dev.to/JS] [Optional Chaining in JavaScript: Simplify your Code and Avoid Unwanted Errors](https://dev.to/bitheap_tech/optional-chaining-in-javascript-simplify-your-code-and-avoid-unwanted-errors-20lh)
 - [Lifehacker] [Study Up on Local Sports Before Traveling Abroad](https://lifehacker.com/study-up-on-local-sports-before-traveling-abroad-1850129721)
 - [Lifehacker] [How to Unlearn Your Parents&#39; Bad Money Habits, According to Lifehacker Readers](https://lifehacker.com/how-to-unlearn-your-parents-bad-money-habits-according-1850127795)
 - [Lifehacker] [Four Reasons Your Cat Keeps Peeing Outside Their Litter Box](https://lifehacker.com/four-reasons-your-cat-keeps-peeing-outside-their-litter-1850125397)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Samsung’s New ‘Message Guard’ Protects Your Phone From &#39;Zero-Click&#39; Attacks](https://lifehacker.com/how-samsung-s-new-message-guard-protects-your-phone-f-1850127377)
 - [Lifehacker] [Don&#39;t Call the IRS This Weekend Unless You Absolutely Have To](https://lifehacker.com/dont-call-the-irs-this-weekend-unless-you-absolutely-ha-1850129949)
 - [Lifehacker] [How to Get the New iPhone Emojis Early](https://lifehacker.com/how-to-get-the-new-iphone-emojis-early-1850128259)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What is &#39;Enyacore?&#39;](https://lifehacker.com/what-is-enyacore-1850129373)
-- [Lifehacker] [More Than 350,000 ‘Self-Driving’ Teslas Unsurprisingly Recalled](https://lifehacker.com/more-than-350-000-self-driving-teslas-unsurprisingly-1850128703)
-- [Lifehacker] [Make Better a Stir Fry by Velveting Your Meat](https://lifehacker.com/make-better-a-stir-fry-by-velveting-your-meat-1850128415)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What is &#39;Enyacore?&#39;](https://lifehacker.com/what-is-enyacore-1850129373)<!-- TECH-POSTS:END -->
 
 ---
 
