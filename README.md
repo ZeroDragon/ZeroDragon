@@ -23,22 +23,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Comandos básicos de NPM](https://dev.to/asjordi/comandos-basicos-de-npm-2hl8)
+- [Lifehacker] [Always Check These Five Car Parts Before a Long Road Trip](https://lifehacker.com/always-check-these-five-car-parts-before-a-long-road-tr-1850125026)
+- [Dev.to/JS] [How to Create a Responsive Navigation Bar With TailwindCSS](https://dev.to/nitinfab/how-to-create-a-responsive-navigation-bar-with-tailwindcss-2eid)
+- [Lifehacker] [When Not to ‘Listen to Your Body’](https://lifehacker.com/when-not-to-listen-to-your-body-1850129164)
+- [Dev.to/JS] [How to use Named Entity Recognition &lpar;NER&rpar; API with Javascript in 5 minutes?](https://dev.to/edenai/how-to-use-named-entity-recognition-ner-api-with-javascript-in-5-minutes-33ek)
+- [Dev.to/JS] [JavaScript Functions](https://dev.to/prasadsawant7/javascript-functions-12i1)
+- [Dev.to/JS] [Paracetamol.ts💊| #14: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-14-explica-este-codigo-typescript-114j)
+- [Dev.to/JS] [Hello Followers](https://dev.to/alipoet/hello-followers-l2d)
 - [Dev.to/JS] [JavaScript ⭐ libraries are tools 🛠️ for developers](https://dev.to/mahmoudessam/javascript-libraries-are-tools-for-developers-12ap)
 - [Dev.to/JS] [Why Heroku Review Apps are Even More Awesome than You Realize 👀](https://dev.to/livecycle/why-heroku-review-apps-are-even-more-awesome-than-you-realize-j46)
 - [Lifehacker] [All the Things You Should Hide Before Guests Come Over](https://lifehacker.com/all-the-things-you-should-hide-before-guests-come-over-1850128458)
 - [Dev.to/JS] [Difference between Virtual DOM and Real DOM](https://dev.to/himanshudevgupta/difference-between-virtual-dom-and-real-dom-2anc)
+- [Dev.to/JS] [Why NodeJS? Demystifying threads, blocking, synchronicity, and callbacks.](https://dev.to/thebridge2/why-nodejs-demystifying-threads-blocking-synchronicity-and-callbacks-3p7f)
 - [Lifehacker] [Where You Install Smoke Detectors Really Matters](https://lifehacker.com/where-you-install-smoke-detectors-really-matters-1850124566)
 - [Lifehacker] [You&#39;re Soaking Your Dishes Wrong](https://lifehacker.com/youre-soaking-your-dishes-wrong-1850071577)
 - [Dev.to/JS] [Creating a resume builder with React, NodeJS and AI 🚀](https://dev.to/novu/creating-a-resume-builder-with-react-nodejs-and-ai-4k6l)
 - [Lifehacker] [You’re Using Lube Wrong](https://lifehacker.com/you-re-using-lube-wrong-1850120415)
 - [Dev.to/JS] [How to use Webpack for Frontend asset Management and Optimization](https://dev.to/justinakingsley/how-to-use-webpack-for-frontend-asset-management-and-optimization-2e70)
-- [Dev.to/JS] [🎴 Tilt playing card](https://dev.to/lukyvj/tilt-playing-card-30k9)
-- [Dev.to/JS] [How to Choose a Data Storage Solution for your Company](https://dev.to/hackmamba/how-to-choose-a-data-storage-solution-for-your-company-jj2)
-- [Dev.to/JS] [Top 7 Tools For Virtual Reality App Development](https://dev.to/etelligens/top-7-tools-for-virtual-reality-app-development-543p)
-- [Dev.to/JS] [VerifBox: Bringing Trust and Authenticity to the NFT Market](https://dev.to/verifbox/verifbox-bringing-trust-and-authenticity-to-the-nft-market-4k5c)
-- [Dev.to/JS] [How to use Reduce in JavaScript](https://dev.to/joshhortt/how-to-use-reduce-in-javascript-4pel)
-- [Dev.to/JS] [7 Tools and Frameworks for Faster Development in React](https://dev.to/devland/7-tools-and-frameworks-for-faster-development-in-react-5b18)
-- [Dev.to/JS] [Reactive Programming: a gentle introduction](https://dev.to/lifaon74/reactive-programming-a-gentle-introduction-3ai6)
 - [Lifehacker] [How to Fly to Japan This Fall for Less Than $400 Each Way](https://lifehacker.com/how-to-fly-to-japan-this-fall-for-less-than-400-each-w-1850124601)
 - [Lifehacker] [Don&#39;t Store These Household Items Under Your Kitchen Sink](https://lifehacker.com/dont-store-these-household-items-under-your-kitchen-sin-1850124613)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It&#39;s Easier Than You Think to Find Meaning at Work](https://lifehacker.com/its-easier-than-you-think-to-find-meaning-at-work-1850127230)
 - [Lifehacker] [12 Pre-Code Movies That Prove Hollywood Was Always Obsessed With Crime, Violence, and Sex](https://lifehacker.com/12-pre-code-movies-that-prove-hollywood-was-always-obse-1850118872)
 - [Lifehacker] [Use These Three Adidas Discounts at the Same Time](https://lifehacker.com/use-these-three-adidas-discounts-at-the-same-time-1850125074)
-- [Lifehacker] [No, Bing&#39;s AI Chatbot Is Not Sentient](https://lifehacker.com/no-bings-ai-chatbot-is-not-sentient-1850125502)
-- [Lifehacker] [What Freelancers Can Write Off on Their Taxes in 2023](https://lifehacker.com/what-freelancers-can-write-off-on-their-taxes-in-2023-1850124499)
-- [Lifehacker] [These Are the Best Cheeses for a Grilled Cheese Sandwich](https://lifehacker.com/these-are-the-best-cheeses-for-a-grilled-cheese-sandwic-1850123760)<!-- TECH-POSTS:END -->
+- [Lifehacker] [No, Bing&#39;s AI Chatbot Is Not Sentient](https://lifehacker.com/no-bings-ai-chatbot-is-not-sentient-1850125502)<!-- TECH-POSTS:END -->
 
 ---
 
