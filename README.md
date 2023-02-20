@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You&#39;re Soaking Your Dishes Wrong](https://lifehacker.com/youre-soaking-your-dishes-wrong-1850071577)
 - [Dev.to/JS] [Creating a resume builder with React, NodeJS and AI 🚀](https://dev.to/novu/creating-a-resume-builder-with-react-nodejs-and-ai-4k6l)
 - [Lifehacker] [You’re Using Lube Wrong](https://lifehacker.com/you-re-using-lube-wrong-1850120415)
 - [Dev.to/JS] [How to use Webpack for Frontend asset Management and Optimization](https://dev.to/justinakingsley/how-to-use-webpack-for-frontend-asset-management-and-optimization-2e70)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Freelancers Can Write Off on Their Taxes in 2023](https://lifehacker.com/what-freelancers-can-write-off-on-their-taxes-in-2023-1850124499)
 - [Lifehacker] [These Are the Best Cheeses for a Grilled Cheese Sandwich](https://lifehacker.com/these-are-the-best-cheeses-for-a-grilled-cheese-sandwic-1850123760)
 - [Lifehacker] [How to Become the Pope](https://lifehacker.com/how-to-become-the-pope-1850124789)
-- [Lifehacker] [These Are the Best Air Fryer Sales for President&#39;s Day Weekend](https://lifehacker.com/these-are-the-best-air-fryer-sales-for-presidents-day-w-1850124851)
-- [Lifehacker] [You Must Make Empanada Chips and Dip](https://lifehacker.com/you-must-make-empanada-chips-and-dip-1850123718)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Air Fryer Sales for President&#39;s Day Weekend](https://lifehacker.com/these-are-the-best-air-fryer-sales-for-presidents-day-w-1850124851)<!-- TECH-POSTS:END -->
 
 ---
 
