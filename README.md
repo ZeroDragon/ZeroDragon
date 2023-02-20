@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Tools and Frameworks for Faster Development in React](https://dev.to/devland/7-tools-and-frameworks-for-faster-development-in-react-5b18)
+- [Dev.to/JS] [Reactive Programming: a gentle introduction](https://dev.to/lifaon74/reactive-programming-a-gentle-introduction-3ai6)
+- [Dev.to/JS] [How to create a Drag and Drop interface using Vanilla JS](https://dev.to/devrohit0/how-to-create-a-drag-and-drop-interface-using-vanilla-js-9bi)
+- [Dev.to/JS] [Difference between callback functions and high order functions in JavaScript](https://dev.to/kipyegonline/difference-between-callback-functions-and-high-order-functions-in-javascript-2bc8)
+- [Dev.to/JS] [Build a blog with Nuxt 3 + Storyblok](https://dev.to/alexandergekov/build-a-blog-with-nuxt-3-storyblok-3a7g)
 - [Dev.to/JS] [My Journey in Open Source - retry-catch](https://dev.to/cadienvan/my-journey-in-open-source-retry-catch-55d6)
 - [Dev.to/JS] [Create React App vs Vite: Choosing the Right Build Tool for Your Project](https://dev.to/musabdev/create-react-app-vs-vite-choosing-the-right-build-tool-for-your-project-3ni1)
 - [Dev.to/JS] [Getting Started with Material UI in React: An Introduction](https://dev.to/tiennguyenftuk52/getting-started-with-material-ui-in-react-an-introduction-4f18)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Liba - Weight Loss Solution, Uses, Price, Complaints &amp; Warnings?](https://dev.to/liba31530329/liba-weight-loss-solution-uses-price-complaints-warnings-2emj)
 - [Dev.to/JS] [6 git commands, you may not know.](https://dev.to/developeralamin/6-git-commands-you-may-not-know-gob)
 - [Dev.to/JS] [Improving the Security of JSON Web Tokens &lpar;JWTs&rpar;](https://dev.to/toviszsolt/improving-the-security-of-json-web-tokens-jwts-1mo9)
-- [Dev.to/JS] [Revolutionize Your Workflow with VoxKraken: A Google Extension for Speaking and Chatting with GPT-3 - Part 1](https://dev.to/foxbuka/revolutionize-your-workflow-with-voxkraken-a-google-extension-for-speaking-and-chatting-with-gpt-3-part-1-50mp)
-- [Dev.to/JS] [Digital Clock Using JavaScript](https://dev.to/rutikkpatel/digital-clock-using-javascript-45b7)
-- [Dev.to/JS] [How to Automate Customer Feedback Collection](https://dev.to/surveyjs/how-to-automate-customer-feedback-collection-4e56)
-- [Dev.to/JS] [Update your npm dependencies and your package.json at once !](https://dev.to/stephdotnet/update-your-npm-dependencies-and-your-packagejson-at-once--38oe)
-- [Dev.to/JS] [Does anybody here know how to draw an image onto a canvas and at the same time be responsive without sacrificing the resolution.](https://dev.to/rkakaike/does-anybody-here-know-how-to-draw-an-image-onto-a-canvas-and-at-the-same-time-be-responsive-without-sacrificing-the-resolution-25hj)
 - [Lifehacker] [How to Fly to Japan This Fall for Less Than $400 Each Way](https://lifehacker.com/how-to-fly-to-japan-this-fall-for-less-than-400-each-w-1850124601)
 - [Lifehacker] [Don&#39;t Store These Household Items Under Your Kitchen Sink](https://lifehacker.com/dont-store-these-household-items-under-your-kitchen-sin-1850124613)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
