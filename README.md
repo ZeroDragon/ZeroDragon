@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Unlearn Your Parents&#39; Bad Money Habits, According to Lifehacker Readers](https://lifehacker.com/how-to-unlearn-your-parents-bad-money-habits-according-1850127795)
+- [Dev.to/JS] [Painless Web Components: Naming is &lpar;not too&rpar; Hard](https://dev.to/kamiquasi/painless-web-components-naming-is-not-too-hard-3lon)
+- [Dev.to/JS] [Episode 23/07: Signals](https://dev.to/ng_news/episode-2307-signals-epj)
+- [Lifehacker] [Four Reasons Your Cat Keeps Peeing Outside Their Litter Box](https://lifehacker.com/four-reasons-your-cat-keeps-peeing-outside-their-litter-1850125397)
 - [Lifehacker] [You Can DIY Your Own Stunning Coffered Ceilings](https://lifehacker.com/you-can-diy-your-own-stunning-coffered-ceilings-1850129947)
 - [Dev.to/JS] [The importance of cyber-security in software development](https://dev.to/folasayosamuel/the-importance-of-cybersecurity-in-software-development-2mcg)
 - [Lifehacker] [The 7 Deadly Sins of Personal Hygiene](https://lifehacker.com/the-7-deadly-sins-of-personal-hygiene-1850130331)
@@ -34,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Named Entity Recognition &lpar;NER&rpar; API with Javascript in 5 minutes?](https://dev.to/edenai/how-to-use-named-entity-recognition-ner-api-with-javascript-in-5-minutes-33ek)
 - [Dev.to/JS] [JavaScript Functions](https://dev.to/prasadsawant7/javascript-functions-12i1)
 - [Dev.to/JS] [Paracetamol.ts💊| #14: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-14-explica-este-codigo-typescript-114j)
-- [Dev.to/JS] [Hello Followers](https://dev.to/alipoet/hello-followers-l2d)
 - [Dev.to/JS] [JavaScript ⭐ libraries are tools 🛠️ for developers](https://dev.to/mahmoudessam/javascript-libraries-are-tools-for-developers-12ap)
 - [Dev.to/JS] [Why Heroku Review Apps are Even More Awesome than You Realize 👀](https://dev.to/livecycle/why-heroku-review-apps-are-even-more-awesome-than-you-realize-j46)
 - [Lifehacker] [All the Things You Should Hide Before Guests Come Over](https://lifehacker.com/all-the-things-you-should-hide-before-guests-come-over-1850128458)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why NodeJS? Demystifying threads, blocking, synchronicity, and callbacks.](https://dev.to/thebridge2/why-nodejs-demystifying-threads-blocking-synchronicity-and-callbacks-3p7f)
 - [Lifehacker] [Where You Install Smoke Detectors Really Matters](https://lifehacker.com/where-you-install-smoke-detectors-really-matters-1850124566)
 - [Lifehacker] [You&#39;re Soaking Your Dishes Wrong](https://lifehacker.com/youre-soaking-your-dishes-wrong-1850071577)
-- [Dev.to/JS] [Creating a resume builder with React, NodeJS and AI 🚀](https://dev.to/novu/creating-a-resume-builder-with-react-nodejs-and-ai-4k6l)
 - [Lifehacker] [You’re Using Lube Wrong](https://lifehacker.com/you-re-using-lube-wrong-1850120415)
 - [Lifehacker] [How to Fly to Japan This Fall for Less Than $400 Each Way](https://lifehacker.com/how-to-fly-to-japan-this-fall-for-less-than-400-each-w-1850124601)
 - [Lifehacker] [Don&#39;t Store These Household Items Under Your Kitchen Sink](https://lifehacker.com/dont-store-these-household-items-under-your-kitchen-sin-1850124613)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Update Your MacBook Cable for Some Reason](https://lifehacker.com/you-can-update-your-macbook-cable-for-some-reason-1850127766)
 - [Lifehacker] [Jazz Up Desserts With a Microwave Fruit Compote](https://lifehacker.com/jazz-up-desserts-with-a-microwave-fruit-compote-1850127410)
 - [Lifehacker] [How to Test Minecraft&#39;s New Cherry Blossoms Before Everyone Else](https://lifehacker.com/how-to-test-minecrafts-new-cherry-blossoms-before-every-1850127070)
-- [Lifehacker] [Onion Ring Parm Is the Quickest Way to Get Your Parm Fix](https://lifehacker.com/onion-ring-parm-is-the-quickest-way-to-get-your-parm-fi-1850124859)
-- [Lifehacker] [12 of the Best Podcasts Celebrating Black History and Culture](https://lifehacker.com/12-of-the-best-podcasts-celebrating-black-history-and-c-1850105617)
-- [Lifehacker] [It&#39;s Easier Than You Think to Find Meaning at Work](https://lifehacker.com/its-easier-than-you-think-to-find-meaning-at-work-1850127230)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Onion Ring Parm Is the Quickest Way to Get Your Parm Fix](https://lifehacker.com/onion-ring-parm-is-the-quickest-way-to-get-your-parm-fi-1850124859)<!-- TECH-POSTS:END -->
 
 ---
 
