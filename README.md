@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create Stunning User Interfaces with These Top 30 React UI libraries](https://dev.to/ziontutorial/create-stunning-user-interfaces-with-these-top-30-react-ui-libraries-26eb)
+- [Dev.to/JS] [StaticStorm - Unleash the power of simple, fast and secure websites. Linode + DEV Hackathon](https://dev.to/devarshishimpi/staticstorm-unleash-the-power-of-simple-fast-and-secure-websites-linode-dev-hackathon-382g)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Feb 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-feb-2023-5005)
+- [Dev.to/JS] [Optional Chaining in JavaScript: Simplify your Code and Avoid Unwanted Errors](https://dev.to/bitheap_tech/optional-chaining-in-javascript-simplify-your-code-and-avoid-unwanted-errors-20lh)
 - [Dev.to/JS] [How &lpar;And Why?&rpar; To Wrap External Libraries?](https://dev.to/dsibinski/how-and-why-to-wrap-external-libraries-59hn)
 - [Lifehacker] [Study Up on Local Sports Before Traveling Abroad](https://lifehacker.com/study-up-on-local-sports-before-traveling-abroad-1850129721)
 - [Dev.to/JS] [Vue.js Tutorial: build a functional SPA from scratch](https://dev.to/educative/vuejs-tutorial-build-a-functional-spa-from-scratch-3624)
@@ -36,13 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can DIY Your Own Stunning Coffered Ceilings](https://lifehacker.com/you-can-diy-your-own-stunning-coffered-ceilings-1850129947)
 - [Dev.to/JS] [The importance of cyber-security in software development](https://dev.to/folasayosamuel/the-importance-of-cybersecurity-in-software-development-2mcg)
 - [Lifehacker] [The 7 Deadly Sins of Personal Hygiene](https://lifehacker.com/the-7-deadly-sins-of-personal-hygiene-1850130331)
-- [Dev.to/JS] [Comandos básicos de NPM](https://dev.to/asjordi/comandos-basicos-de-npm-2hl8)
 - [Lifehacker] [You Should Be Using Coconut Oil on Your Plants](https://lifehacker.com/you-should-be-using-coconut-oil-on-your-plants-1850124551)
 - [Lifehacker] [Always Check These Five Car Parts Before a Long Road Trip](https://lifehacker.com/always-check-these-five-car-parts-before-a-long-road-tr-1850125026)
-- [Dev.to/JS] [How to Create a Responsive Navigation Bar With TailwindCSS](https://dev.to/nitinfab/how-to-create-a-responsive-navigation-bar-with-tailwindcss-2eid)
 - [Lifehacker] [When Not to ‘Listen to Your Body’](https://lifehacker.com/when-not-to-listen-to-your-body-1850129164)
-- [Dev.to/JS] [How to use Named Entity Recognition &lpar;NER&rpar; API with Javascript in 5 minutes?](https://dev.to/edenai/how-to-use-named-entity-recognition-ner-api-with-javascript-in-5-minutes-33ek)
-- [Dev.to/JS] [JavaScript Functions](https://dev.to/prasadsawant7/javascript-functions-12i1)
 - [Lifehacker] [All the Things You Should Hide Before Guests Come Over](https://lifehacker.com/all-the-things-you-should-hide-before-guests-come-over-1850128458)
 - [Lifehacker] [Where You Install Smoke Detectors Really Matters](https://lifehacker.com/where-you-install-smoke-detectors-really-matters-1850124566)
 - [Lifehacker] [You&#39;re Soaking Your Dishes Wrong](https://lifehacker.com/youre-soaking-your-dishes-wrong-1850071577)
