@@ -23,20 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript ⭐ libraries are tools 🛠️ for developers](https://dev.to/mahmoudessam/javascript-libraries-are-tools-for-developers-12ap)
+- [Dev.to/JS] [Why Heroku Review Apps are Even More Awesome than You Realize 👀](https://dev.to/livecycle/why-heroku-review-apps-are-even-more-awesome-than-you-realize-j46)
+- [Lifehacker] [All the Things You Should Hide Before Guests Come Over](https://lifehacker.com/all-the-things-you-should-hide-before-guests-come-over-1850128458)
+- [Dev.to/JS] [Difference between Virtual DOM and Real DOM](https://dev.to/himanshudevgupta/difference-between-virtual-dom-and-real-dom-2anc)
+- [Lifehacker] [Where You Install Smoke Detectors Really Matters](https://lifehacker.com/where-you-install-smoke-detectors-really-matters-1850124566)
 - [Lifehacker] [You&#39;re Soaking Your Dishes Wrong](https://lifehacker.com/youre-soaking-your-dishes-wrong-1850071577)
 - [Dev.to/JS] [Creating a resume builder with React, NodeJS and AI 🚀](https://dev.to/novu/creating-a-resume-builder-with-react-nodejs-and-ai-4k6l)
 - [Lifehacker] [You’re Using Lube Wrong](https://lifehacker.com/you-re-using-lube-wrong-1850120415)
 - [Dev.to/JS] [How to use Webpack for Frontend asset Management and Optimization](https://dev.to/justinakingsley/how-to-use-webpack-for-frontend-asset-management-and-optimization-2e70)
 - [Dev.to/JS] [🎴 Tilt playing card](https://dev.to/lukyvj/tilt-playing-card-30k9)
-- [Dev.to/JS] [First Blog Post](https://dev.to/ilesanmierioluwavictor/first-blog-post-37b5)
 - [Dev.to/JS] [How to Choose a Data Storage Solution for your Company](https://dev.to/hackmamba/how-to-choose-a-data-storage-solution-for-your-company-jj2)
 - [Dev.to/JS] [Top 7 Tools For Virtual Reality App Development](https://dev.to/etelligens/top-7-tools-for-virtual-reality-app-development-543p)
 - [Dev.to/JS] [VerifBox: Bringing Trust and Authenticity to the NFT Market](https://dev.to/verifbox/verifbox-bringing-trust-and-authenticity-to-the-nft-market-4k5c)
 - [Dev.to/JS] [How to use Reduce in JavaScript](https://dev.to/joshhortt/how-to-use-reduce-in-javascript-4pel)
 - [Dev.to/JS] [7 Tools and Frameworks for Faster Development in React](https://dev.to/devland/7-tools-and-frameworks-for-faster-development-in-react-5b18)
 - [Dev.to/JS] [Reactive Programming: a gentle introduction](https://dev.to/lifaon74/reactive-programming-a-gentle-introduction-3ai6)
-- [Dev.to/JS] [How to create a Drag and Drop interface using Vanilla JS](https://dev.to/devrohit0/how-to-create-a-drag-and-drop-interface-using-vanilla-js-9bi)
-- [Dev.to/JS] [Difference between callback functions and high order functions in JavaScript](https://dev.to/kipyegonline/difference-between-callback-functions-and-high-order-functions-in-javascript-2bc8)
 - [Lifehacker] [How to Fly to Japan This Fall for Less Than $400 Each Way](https://lifehacker.com/how-to-fly-to-japan-this-fall-for-less-than-400-each-w-1850124601)
 - [Lifehacker] [Don&#39;t Store These Household Items Under Your Kitchen Sink](https://lifehacker.com/dont-store-these-household-items-under-your-kitchen-sin-1850124613)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use These Three Adidas Discounts at the Same Time](https://lifehacker.com/use-these-three-adidas-discounts-at-the-same-time-1850125074)
 - [Lifehacker] [No, Bing&#39;s AI Chatbot Is Not Sentient](https://lifehacker.com/no-bings-ai-chatbot-is-not-sentient-1850125502)
 - [Lifehacker] [What Freelancers Can Write Off on Their Taxes in 2023](https://lifehacker.com/what-freelancers-can-write-off-on-their-taxes-in-2023-1850124499)
-- [Lifehacker] [These Are the Best Cheeses for a Grilled Cheese Sandwich](https://lifehacker.com/these-are-the-best-cheeses-for-a-grilled-cheese-sandwic-1850123760)
-- [Lifehacker] [How to Become the Pope](https://lifehacker.com/how-to-become-the-pope-1850124789)
-- [Lifehacker] [These Are the Best Air Fryer Sales for President&#39;s Day Weekend](https://lifehacker.com/these-are-the-best-air-fryer-sales-for-presidents-day-w-1850124851)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Cheeses for a Grilled Cheese Sandwich](https://lifehacker.com/these-are-the-best-cheeses-for-a-grilled-cheese-sandwic-1850123760)<!-- TECH-POSTS:END -->
 
 ---
 
