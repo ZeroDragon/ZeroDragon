@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Choose a Data Storage Solution for your Company](https://dev.to/hackmamba/how-to-choose-a-data-storage-solution-for-your-company-jj2)
+- [Dev.to/JS] [Top 7 Tools For Virtual Reality App Development](https://dev.to/etelligens/top-7-tools-for-virtual-reality-app-development-543p)
+- [Dev.to/JS] [VerifBox: Bringing Trust and Authenticity to the NFT Market](https://dev.to/verifbox/verifbox-bringing-trust-and-authenticity-to-the-nft-market-4k5c)
+- [Dev.to/JS] [How to use Reduce in JavaScript](https://dev.to/joshhortt/how-to-use-reduce-in-javascript-4pel)
 - [Dev.to/JS] [7 Tools and Frameworks for Faster Development in React](https://dev.to/devland/7-tools-and-frameworks-for-faster-development-in-react-5b18)
 - [Dev.to/JS] [Reactive Programming: a gentle introduction](https://dev.to/lifaon74/reactive-programming-a-gentle-introduction-3ai6)
 - [Dev.to/JS] [How to create a Drag and Drop interface using Vanilla JS](https://dev.to/devrohit0/how-to-create-a-drag-and-drop-interface-using-vanilla-js-9bi)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Journey in Open Source - retry-catch](https://dev.to/cadienvan/my-journey-in-open-source-retry-catch-55d6)
 - [Dev.to/JS] [Create React App vs Vite: Choosing the Right Build Tool for Your Project](https://dev.to/musabdev/create-react-app-vs-vite-choosing-the-right-build-tool-for-your-project-3ni1)
 - [Dev.to/JS] [Getting Started with Material UI in React: An Introduction](https://dev.to/tiennguyenftuk52/getting-started-with-material-ui-in-react-an-introduction-4f18)
-- [Dev.to/JS] [Nuxt 3, Tailwind, and Supabase Crash Course](https://dev.to/jacobandrewsky/nuxt-3-tailwind-and-supabase-crash-course-1482)
-- [Dev.to/JS] [Liba - Weight Loss Solution, Uses, Price, Complaints &amp; Warnings?](https://dev.to/liba31530329/liba-weight-loss-solution-uses-price-complaints-warnings-2emj)
-- [Dev.to/JS] [6 git commands, you may not know.](https://dev.to/developeralamin/6-git-commands-you-may-not-know-gob)
-- [Dev.to/JS] [Improving the Security of JSON Web Tokens &lpar;JWTs&rpar;](https://dev.to/toviszsolt/improving-the-security-of-json-web-tokens-jwts-1mo9)
 - [Lifehacker] [How to Fly to Japan This Fall for Less Than $400 Each Way](https://lifehacker.com/how-to-fly-to-japan-this-fall-for-less-than-400-each-w-1850124601)
 - [Lifehacker] [Don&#39;t Store These Household Items Under Your Kitchen Sink](https://lifehacker.com/dont-store-these-household-items-under-your-kitchen-sin-1850124613)
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
