@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Hidden Setting Will Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/this-hidden-setting-will-stop-chrome-from-killing-your-1850141127)
+- [Dev.to/JS] [Understanding DOM Nodes: A Comprehensive Guide with Example](https://dev.to/sidramaqbool/understanding-dom-nodes-a-comprehensive-guide-with-example-22m5)
+- [Lifehacker] [The Antisocial Parents&#39; Guide to Avoiding Other Parents](https://lifehacker.com/the-antisocial-parents-guide-to-avoiding-other-parents-1850141488)
+- [Dev.to/JS] [Get Instant Error Solutions with GPT](https://dev.to/musabshakil/get-instant-error-solutions-with-gpt-42cc)
+- [Dev.to/JS] [☠️ What is the Temporal Dead Zone in JavaScript?](https://dev.to/catherineisonline/what-is-the-temporal-dead-zone-in-javascript-348g)
 - [Lifehacker] [Your Guide to Getting a Car Unstuck in the Snow](https://lifehacker.com/your-guide-to-getting-a-car-unstuck-in-the-snow-1850141388)
+- [Dev.to/JS] [DOM Manipulation: How to Use Its Methods to Interact with Web Pages](https://dev.to/sidramaqbool/dom-manipulation-how-to-use-its-methods-to-interact-with-web-pages-2fm1)
 - [Dev.to/JS] [PWA with Next Js 13](https://dev.to/sabbirzzaman/pwa-with-next-js-13-194l)
 - [Lifehacker] [You Should Melt Brie Into Your Spicy Instant Ramen](https://lifehacker.com/you-should-melt-brie-into-your-spicy-instant-ramen-1850141210)
 - [Dev.to/JS] [How I make my apps more accessible: axe Accessibility Linter](https://dev.to/celest67/how-i-make-my-apps-more-accessible-axe-accessibility-linter-37id)
@@ -38,12 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Challenge #6: 👛 Multisig Wallet Challenge](https://dev.to/kevinjoshi46b/challenge-6-multisig-wallet-challenge-3aaf)
 - [Dev.to/JS] [How To Make Your Own NPM Package](https://dev.to/mohammedtaysser/how-to-make-your-own-npm-package-4dm2)
 - [Lifehacker] [Why You Should Always Call Before Booking a Hotel Room Online](https://lifehacker.com/why-you-should-always-call-before-booking-a-hotel-room-1850134869)
-- [Dev.to/JS] [How I Automate Customer Group Assignment in Ecommerce](https://dev.to/medusajs/how-i-automate-customer-group-assignment-in-ecommerce-34ok)
-- [Dev.to/JS] [My new NeoVim setup for JavaScript&lpar;TypeScript&rpar;, react, vue development](https://dev.to/2nthony/my-new-neovim-setup-for-javascripttypescript-react-vue-development-jaa)
-- [Dev.to/JS] [Dep Tree - a tool for rendering and linting your project&#39;s dependency tree in the terminal](https://dev.to/gabotechs/dep-tree-a-tool-for-rendering-and-linting-your-projects-dependency-tree-in-the-terminal-25om)
 - [Lifehacker] [You Can Still Save Your Plants From the Cold](https://lifehacker.com/you-can-still-save-your-plants-from-the-cold-1850135454)
 - [Lifehacker] [Your Next Home Renovation Should Include Magnetic Flooring](https://lifehacker.com/your-next-home-renovation-should-include-magnetic-floor-1850135502)
-- [Dev.to/JS] [Paracetamol.ts💊| #15: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-15-explica-este-codigo-typescript-ppf)
 - [Lifehacker] [Stop Teaching Kids to Say &#39;Sir&#39; and &#39;Ma&#39;am&#39;](https://lifehacker.com/stop-teaching-kids-to-say-sir-and-maam-1850130701)
 - [Lifehacker] [It&#39;s Illegal to Be a &#39;Money Mule,&#39; Whether You Know It or Not](https://lifehacker.com/its-illegal-to-be-a-money-mule-whether-you-know-it-or-1850130680)
 - [Lifehacker] [How to Write Résumé and Cover Letter Templates That Don’t Suck](https://lifehacker.com/how-to-write-resume-and-cover-letter-templates-that-don-1850136829)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Four Reasons Your Cat Keeps Peeing Outside Their Litter Box](https://lifehacker.com/four-reasons-your-cat-keeps-peeing-outside-their-litter-1850125397)
 - [Lifehacker] [You Can DIY Your Own Stunning Coffered Ceilings](https://lifehacker.com/you-can-diy-your-own-stunning-coffered-ceilings-1850129947)
 - [Lifehacker] [The 7 Deadly Sins of Personal Hygiene](https://lifehacker.com/the-7-deadly-sins-of-personal-hygiene-1850130331)
-- [Lifehacker] [You Should Be Using Coconut Oil on Your Plants](https://lifehacker.com/you-should-be-using-coconut-oil-on-your-plants-1850124551)
-- [Lifehacker] [Always Check These Five Car Parts Before a Long Road Trip](https://lifehacker.com/always-check-these-five-car-parts-before-a-long-road-tr-1850125026)
-- [Lifehacker] [When Not to ‘Listen to Your Body’](https://lifehacker.com/when-not-to-listen-to-your-body-1850129164)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Be Using Coconut Oil on Your Plants](https://lifehacker.com/you-should-be-using-coconut-oil-on-your-plants-1850124551)<!-- TECH-POSTS:END -->
 
 ---
 
