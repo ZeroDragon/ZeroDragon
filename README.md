@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The ABCs of JavaScript: Primitive and Object types](https://dev.to/ismailabbi/the-abcs-of-javascript-primitive-and-object-types-3982)
 - [Dev.to/JS] [How often do you use TypeScript?](https://dev.to/justcode_27/how-often-do-you-use-typescript-2242)
 - [Dev.to/JS] [Helpers por que utiliza-los?](https://dev.to/rogeriorioli/helpers-por-que-utiliza-los-368k)
 - [Lifehacker] [All the Ways You Can Clean With a Squeegee &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-clean-with-a-squeegee-but-arent-1850129454)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Java is used in programming?](https://dev.to/thomas23459/how-java-is-used-in-programming-3929)
 - [Dev.to/JS] [Refs is more than enough](https://dev.to/thexdev/refs-is-more-than-enough-4a2a)
 - [Dev.to/JS] [Liguard - The Linode Guard](https://dev.to/darthbenro008/liguard-the-linode-guard-5cjo)
-- [Dev.to/JS] [CodeMax Html Editor](https://dev.to/onlinedevelopers/codemax-html-editor-5h02)
 - [Lifehacker] [Always Keep a Dried Out Steak in Your Fridge](https://lifehacker.com/always-keep-a-dried-out-steak-in-your-fridge-1850129530)
 - [Lifehacker] [Study Up on Local Sports Before Traveling Abroad](https://lifehacker.com/study-up-on-local-sports-before-traveling-abroad-1850129721)
 - [Lifehacker] [How to Unlearn Your Parents&#39; Bad Money Habits, According to Lifehacker Readers](https://lifehacker.com/how-to-unlearn-your-parents-bad-money-habits-according-1850127795)
