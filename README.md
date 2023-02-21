@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Guide to Getting a Car Unstuck in the Snow](https://lifehacker.com/your-guide-to-getting-a-car-unstuck-in-the-snow-1850141388)
+- [Dev.to/JS] [PWA with Next Js 13](https://dev.to/sabbirzzaman/pwa-with-next-js-13-194l)
+- [Lifehacker] [You Should Melt Brie Into Your Spicy Instant Ramen](https://lifehacker.com/you-should-melt-brie-into-your-spicy-instant-ramen-1850141210)
+- [Dev.to/JS] [How I make my apps more accessible: axe Accessibility Linter](https://dev.to/celest67/how-i-make-my-apps-more-accessible-axe-accessibility-linter-37id)
+- [Dev.to/JS] [JavaScript Tutorial Series: Looping through Arrays and Objects](https://dev.to/fullstackjo/javascript-tutorial-series-arrays-objects-and-loops-37k4)
 - [Lifehacker] [Help Your Teenager Start Building Good Credit Before They’re an Adult](https://lifehacker.com/help-your-teenager-start-building-good-credit-before-th-1850139758)
 - [Lifehacker] [Don’t Feed Your Baby This Recalled Enfamil Formula](https://lifehacker.com/don-t-feed-your-baby-this-recalled-enfamil-formula-1850140598)
 - [Dev.to/JS] [Building Custom JavaScript Libraries](https://dev.to/haszankauna/building-custom-javascript-libraries-42eg)
@@ -39,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Still Save Your Plants From the Cold](https://lifehacker.com/you-can-still-save-your-plants-from-the-cold-1850135454)
 - [Lifehacker] [Your Next Home Renovation Should Include Magnetic Flooring](https://lifehacker.com/your-next-home-renovation-should-include-magnetic-floor-1850135502)
 - [Dev.to/JS] [Paracetamol.ts💊| #15: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-15-explica-este-codigo-typescript-ppf)
-- [Dev.to/JS] [Moonly weekly progress update #37](https://dev.to/moonly/moonly-weekly-progress-update-37-57dh)
-- [Dev.to/JS] [How to add react to an existing website?](https://dev.to/nadeem099/how-to-add-react-to-an-existing-website-hfp)
-- [Dev.to/JS] [🌍 Time Zones and Date Formats in JavaScript](https://dev.to/dhrn/time-zones-and-date-formats-in-javascript-1mpe)
 - [Lifehacker] [Stop Teaching Kids to Say &#39;Sir&#39; and &#39;Ma&#39;am&#39;](https://lifehacker.com/stop-teaching-kids-to-say-sir-and-maam-1850130701)
 - [Lifehacker] [It&#39;s Illegal to Be a &#39;Money Mule,&#39; Whether You Know It or Not](https://lifehacker.com/its-illegal-to-be-a-money-mule-whether-you-know-it-or-1850130680)
 - [Lifehacker] [How to Write Résumé and Cover Letter Templates That Don’t Suck](https://lifehacker.com/how-to-write-resume-and-cover-letter-templates-that-don-1850136829)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Personal Hygiene](https://lifehacker.com/the-7-deadly-sins-of-personal-hygiene-1850130331)
 - [Lifehacker] [You Should Be Using Coconut Oil on Your Plants](https://lifehacker.com/you-should-be-using-coconut-oil-on-your-plants-1850124551)
 - [Lifehacker] [Always Check These Five Car Parts Before a Long Road Trip](https://lifehacker.com/always-check-these-five-car-parts-before-a-long-road-tr-1850125026)
-- [Lifehacker] [When Not to ‘Listen to Your Body’](https://lifehacker.com/when-not-to-listen-to-your-body-1850129164)
-- [Lifehacker] [All the Things You Should Hide Before Guests Come Over](https://lifehacker.com/all-the-things-you-should-hide-before-guests-come-over-1850128458)
-- [Lifehacker] [Where You Install Smoke Detectors Really Matters](https://lifehacker.com/where-you-install-smoke-detectors-really-matters-1850124566)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When Not to ‘Listen to Your Body’](https://lifehacker.com/when-not-to-listen-to-your-body-1850129164)<!-- TECH-POSTS:END -->
 
 ---
 
