@@ -23,7 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [9 Google Chrome Extensions for Web Developers / Front-end Web Development](https://dev.to/snowiewdev/9-google-chrome-extensions-for-web-developers-front-end-web-development-4n7i)
+- [Dev.to/JS] [9 Useful Chrome Extensions for Web Developers / Web Development](https://dev.to/snowiewdev/9-google-chrome-extensions-for-web-developers-front-end-web-development-4n7i)
 - [Dev.to/JS] [Um resumo sobre: vetores ordenados e pesquisa linear e binária.](https://dev.to/costamateus7/um-resumo-sobre-vetores-ordenados-e-pesquisa-linear-e-binaria-49ch)
 - [Dev.to/JS] [28 best practices for WordPress theme development](https://dev.to/menemelkatan/28-best-practices-for-wordpress-theme-development-5d2m)
 - [Dev.to/JS] [The ABCs of JavaScript: Primitive and Object types](https://dev.to/ismailabbi/the-abcs-of-javascript-primitive-and-object-types-3982)
