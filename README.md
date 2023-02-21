@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Let Your Kid Struggle Through Video Games, Already](https://lifehacker.com/let-your-kid-struggle-through-video-games-already-1850128116)
 - [Dev.to/JS] [Solving Leetcode&#39;s &quot;Richest Customer Wealth&quot; Challange with Javascript](https://dev.to/muyixone/solving-leetcodes-richest-customer-wealth-challange-with-javascript-59p4)
 - [Dev.to/JS] [How to remove click event listener in JavaScript](https://dev.to/coder4_life/how-to-remove-click-event-listener-in-javascript-4n79)
 - [Dev.to/JS] [React useCallback and JS function closure 🤔](https://dev.to/wesamalqawasmeh/react-usecallback-and-js-function-closure-2h8c)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You’re Probably Painting Your Bathroom Wrong](https://lifehacker.com/you-re-probably-painting-your-bathroom-wrong-1850128267)
 - [Lifehacker] [How Samsung’s New ‘Message Guard’ Protects Your Phone From &#39;Zero-Click&#39; Attacks](https://lifehacker.com/how-samsung-s-new-message-guard-protects-your-phone-f-1850127377)
 - [Lifehacker] [Don&#39;t Call the IRS This Weekend Unless You Absolutely Have To](https://lifehacker.com/dont-call-the-irs-this-weekend-unless-you-absolutely-ha-1850129949)
-- [Lifehacker] [How to Get the New iPhone Emojis Early](https://lifehacker.com/how-to-get-the-new-iphone-emojis-early-1850128259)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What is &#39;Enyacore?&#39;](https://lifehacker.com/what-is-enyacore-1850129373)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get the New iPhone Emojis Early](https://lifehacker.com/how-to-get-the-new-iphone-emojis-early-1850128259)<!-- TECH-POSTS:END -->
 
 ---
 
