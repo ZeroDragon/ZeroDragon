@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [It&#39;s Illegal to Be a &#39;Money Mule,&#39; Whether You Know It or Not](https://lifehacker.com/its-illegal-to-be-a-money-mule-whether-you-know-it-or-1850130680)
+- [Dev.to/JS] [Unlock the Power of Google Analytics 4 in Just 5 Minutes with Next.js and TypeScript](https://dev.to/aaron_janes/unlock-the-power-of-google-analytics-4-in-just-5-minutes-with-nextjs-and-typescript-5o6)
+- [Dev.to/JS] [Hiring a React Developer? Here’s What You Need to Know](https://dev.to/monu181/hiring-a-react-developer-heres-what-you-need-to-know-aig)
+- [Lifehacker] [How to Write Résumé and Cover Letter Templates That Don’t Suck](https://lifehacker.com/how-to-write-resume-and-cover-letter-templates-that-don-1850136829)
+- [Dev.to/JS] [How to Build a SaaS on AWS: a deep dive into the architecture of a SaaS product](https://dev.to/ixartz/how-to-build-a-saas-on-aws-a-deep-dive-into-the-architecture-of-a-saas-product-169f)
 - [Lifehacker] [I Asked ChatGPT for Workout Suggestions and Wow, They Sucked](https://lifehacker.com/i-asked-chatgpt-for-workout-suggestions-and-wow-they-s-1850123377)
 - [Dev.to/JS] [Creating Web Accessibility: HTML Attributes](https://dev.to/frontend_jedi/creating-web-accessibility-html-attributes-5cnj)
 - [Dev.to/JS] [Using NgRx Standalone APIs with Nx](https://dev.to/nx/using-ngrx-standalone-apis-with-nx-12ib)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Review of state management in React: getting started with an MVC example](https://dev.to/licg9999/review-of-state-management-in-react-getting-started-with-an-mvc-example-ld1)
 - [Dev.to/JS] [Build a High-Performing Ecommerce with Svelte and Medusa Backend](https://dev.to/femi_dev/build-a-high-performing-ecommerce-with-svelte-and-medusa-backend-45b4)
 - [Dev.to/JS] [6valley Multi-Vendor E-commerce - Complete eCommerce Mobile App, Web and Admin Panel Nulled](https://dev.to/chunarakaran/6valley-multi-vendor-e-commerce-complete-ecommerce-mobile-app-web-and-admin-panel-nulled-49ph)
-- [Dev.to/JS] [basename prop in Reactjs](https://dev.to/himanshudevgupta/basename-prop-in-reactjs-3781)
-- [Dev.to/JS] [JavaScript Most important Thing! Object](https://dev.to/himanshudevgupta/javascript-most-important-thing-object-2hm1)
-- [Dev.to/JS] [TailwindCSS vs Bootstrap: Which CSS Framework is Better?](https://dev.to/acidop/tailwindcss-vs-bootstrap-which-css-framework-is-better-3l79)
 - [Lifehacker] [All the Ways You Can Clean With a Squeegee &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-clean-with-a-squeegee-but-arent-1850129454)
 - [Lifehacker] [Here&#39;s the Math on Whether You Can Save Money Heating Your Home With a Fireplace](https://lifehacker.com/heres-the-math-on-whether-you-can-save-money-heating-yo-1850136827)
 - [Lifehacker] [Use These Six Steps to Salvage a Bad Day](https://lifehacker.com/use-these-six-steps-to-salvage-a-bad-day-1850134915)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Speaking With a Customer Service Rep](https://lifehacker.com/dont-make-these-mistakes-when-speaking-with-a-customer-1850124655)
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
-- [Lifehacker] [Park These Ram Trucks Outside In Case They Catch on Fire](https://lifehacker.com/park-these-ram-trucks-outside-in-case-they-catch-on-fir-1850129566)
-- [Lifehacker] [You’re Probably Painting Your Bathroom Wrong](https://lifehacker.com/you-re-probably-painting-your-bathroom-wrong-1850128267)
-- [Lifehacker] [How Samsung’s New ‘Message Guard’ Protects Your Phone From &#39;Zero-Click&#39; Attacks](https://lifehacker.com/how-samsung-s-new-message-guard-protects-your-phone-f-1850127377)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Park These Ram Trucks Outside In Case They Catch on Fire](https://lifehacker.com/park-these-ram-trucks-outside-in-case-they-catch-on-fir-1850129566)<!-- TECH-POSTS:END -->
 
 ---
 
