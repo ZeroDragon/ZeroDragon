@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Array Methods with Clear Examples.](https://dev.to/oluwatrillions/array-methods-with-clear-examples-4fgo)
 - [Dev.to/JS] [Challenge #5: 📺 A State Channel Application Challenge](https://dev.to/kevinjoshi46b/challenge-5-a-state-channel-application-challenge-5g7b)
 - [Dev.to/JS] [Revive Daily - Health Benefits, Price, Uses, Customer Reviews?](https://dev.to/revivedailyinf1/revive-daily-health-benefits-price-uses-customer-reviews-5bmh)
 - [Dev.to/JS] [How to remove duplicate values from an array of objects and everything you need to know about arr.REDUCE in Js. 🚀](https://dev.to/neeswebservices/how-to-remove-duplicate-values-from-an-array-of-objects-and-everything-you-need-to-know-about-arrreduce-in-js-1lnb)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bit Manipulation Mastery: A Free Course for Technical Interviews](https://dev.to/ggorantala/bit-manipulation-mastery-a-free-course-for-technical-interviews-1df8)
 - [Dev.to/JS] [Using the React Profiler to Increase React Application Performance](https://dev.to/haszankauna/using-the-react-profiler-to-increase-react-application-performance-3ikk)
 - [Dev.to/JS] [9 Useful Chrome Extensions for Web Developers / Web Development](https://dev.to/snowiewdev/9-google-chrome-extensions-for-web-developers-front-end-web-development-4n7i)
-- [Dev.to/JS] [Um resumo sobre: vetores ordenados e pesquisa linear e binária.](https://dev.to/costamateus7/um-resumo-sobre-vetores-ordenados-e-pesquisa-linear-e-binaria-49ch)
 - [Lifehacker] [All the Ways You Can Clean With a Squeegee &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-clean-with-a-squeegee-but-arent-1850129454)
 - [Lifehacker] [Here&#39;s the Math on Whether You Can Save Money Heating Your Home With a Fireplace](https://lifehacker.com/heres-the-math-on-whether-you-can-save-money-heating-yo-1850136827)
 - [Lifehacker] [Use These Six Steps to Salvage a Bad Day](https://lifehacker.com/use-these-six-steps-to-salvage-a-bad-day-1850134915)
