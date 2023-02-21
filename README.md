@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 ways to merge arrays in JavaScript &lpar;easy&rpar;](https://dev.to/rahxuls/5-ways-to-merge-arrays-in-javascript-easy-2e01)
+- [Dev.to/JS] [StackFood Multi Restaurant v6.1.0 - Food Delivery App with Laravel Admin and Restaurant Panel - nulled](https://dev.to/chunarakaran/stackfood-multi-restaurant-v610-food-delivery-app-with-laravel-admin-and-restaurant-panel-nulled-l1l)
+- [Dev.to/JS] [How to create dynamic OG images with serverless function using Sharp library](https://dev.to/starbist/how-to-create-dynamic-og-images-with-serverless-function-using-sharp-library-4acf)
 - [Dev.to/JS] [How to Develop Scalable and Maintainable JavaScript Apps using ES6 Design Patterns](https://dev.to/haszankauna/how-to-develop-scalable-and-maintainable-javascript-apps-using-es6-design-patterns-4cpe)
 - [Dev.to/JS] [Bit Manipulation Mastery: A Free Course for Technical Interviews](https://dev.to/ggorantala/bit-manipulation-mastery-a-free-course-for-technical-interviews-1df8)
 - [Dev.to/JS] [Using the React Profiler to Increase React Application Performance](https://dev.to/haszankauna/using-the-react-profiler-to-increase-react-application-performance-3ikk)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How often do you use TypeScript?](https://dev.to/justcode_27/how-often-do-you-use-typescript-2242)
 - [Dev.to/JS] [Helpers por que utiliza-los?](https://dev.to/rogeriorioli/helpers-por-que-utiliza-los-368k)
 - [Lifehacker] [All the Ways You Can Clean With a Squeegee &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-clean-with-a-squeegee-but-arent-1850129454)
-- [Dev.to/JS] [Templating with TinyBase, Tailwind, and RippleUI](https://dev.to/parenttobias/templating-with-tinybase-tailwind-and-rippleui-5a1h)
-- [Dev.to/JS] [How to Parse HTML string in React](https://dev.to/kalush89/how-to-parse-html-string-in-react-53fh)
 - [Lifehacker] [Here&#39;s the Math on Whether You Can Save Money Heating Your Home With a Fireplace](https://lifehacker.com/heres-the-math-on-whether-you-can-save-money-heating-yo-1850136827)
-- [Dev.to/JS] [How to update an element in a map - JavaScript](https://dev.to/moibra/how-to-update-an-element-in-a-map-javascript-56c7)
 - [Lifehacker] [Use These Six Steps to Salvage a Bad Day](https://lifehacker.com/use-these-six-steps-to-salvage-a-bad-day-1850134915)
 - [Lifehacker] [You Should Know the Difference Between a Chargeback and a Refund](https://lifehacker.com/you-should-know-the-difference-between-a-chargeback-and-1850129108)
 - [Lifehacker] [Always Keep a Dried Out Steak in Your Fridge](https://lifehacker.com/always-keep-a-dried-out-steak-in-your-fridge-1850129530)
