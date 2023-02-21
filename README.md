@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [9 Google Chrome Extensions for Web Developers / Front-end Web Development](https://dev.to/snowiewdev/9-google-chrome-extensions-for-web-developers-front-end-web-development-4n7i)
 - [Dev.to/JS] [Um resumo sobre: vetores ordenados e pesquisa linear e binária.](https://dev.to/costamateus7/um-resumo-sobre-vetores-ordenados-e-pesquisa-linear-e-binaria-49ch)
 - [Dev.to/JS] [28 best practices for WordPress theme development](https://dev.to/menemelkatan/28-best-practices-for-wordpress-theme-development-5d2m)
 - [Dev.to/JS] [The ABCs of JavaScript: Primitive and Object types](https://dev.to/ismailabbi/the-abcs-of-javascript-primitive-and-object-types-3982)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Tutorial Series: Loops](https://dev.to/fullstackjo/javascript-tutorial-series-loops-h58)
 - [Lifehacker] [You Should Know the Difference Between a Chargeback and a Refund](https://lifehacker.com/you-should-know-the-difference-between-a-chargeback-and-1850129108)
 - [Dev.to/JS] [How to use PocketBase Database with React and SWR](https://dev.to/franciscomendes10866/how-to-use-pocketbase-database-with-react-2gg9)
-- [Dev.to/JS] [How Java is used in programming?](https://dev.to/thomas23459/how-java-is-used-in-programming-3929)
 - [Lifehacker] [Always Keep a Dried Out Steak in Your Fridge](https://lifehacker.com/always-keep-a-dried-out-steak-in-your-fridge-1850129530)
 - [Lifehacker] [Study Up on Local Sports Before Traveling Abroad](https://lifehacker.com/study-up-on-local-sports-before-traveling-abroad-1850129721)
 - [Lifehacker] [How to Unlearn Your Parents&#39; Bad Money Habits, According to Lifehacker Readers](https://lifehacker.com/how-to-unlearn-your-parents-bad-money-habits-according-1850127795)
