@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Solving Leetcode&#39;s &quot;Richest Customer Wealth&quot; Challange with Javascript](https://dev.to/muyixone/solving-leetcodes-richest-customer-wealth-challange-with-javascript-59p4)
+- [Dev.to/JS] [How to remove click event listener in JavaScript](https://dev.to/coder4_life/how-to-remove-click-event-listener-in-javascript-4n79)
+- [Dev.to/JS] [React useCallback and JS function closure 🤔](https://dev.to/wesamalqawasmeh/react-usecallback-and-js-function-closure-2h8c)
+- [Dev.to/JS] [Review of state management in React: getting started with an MVC example](https://dev.to/licg9999/review-of-state-management-in-react-getting-started-with-an-mvc-example-ld1)
 - [Dev.to/JS] [Build a High-Performing Ecommerce with Svelte and Medusa Backend](https://dev.to/femi_dev/build-a-high-performing-ecommerce-with-svelte-and-medusa-backend-45b4)
 - [Dev.to/JS] [6valley Multi-Vendor E-commerce - Complete eCommerce Mobile App, Web and Admin Panel Nulled](https://dev.to/chunarakaran/6valley-multi-vendor-e-commerce-complete-ecommerce-mobile-app-web-and-admin-panel-nulled-49ph)
 - [Dev.to/JS] [basename prop in Reactjs](https://dev.to/himanshudevgupta/basename-prop-in-reactjs-3781)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Setting up Visual Studio Code for React Development](https://dev.to/iamsourabhh/setting-up-visual-studio-code-for-react-development-6f0)
 - [Dev.to/JS] [Best JavaScript MOOCs according to Reddit in 2023](https://dev.to/abdnafees/best-javascript-moocs-according-to-reddit-in-2023-27a8)
 - [Dev.to/JS] [Exploring the React Component Lifecycle](https://dev.to/saikatbishal/exploring-the-react-component-lifecycle-35h3)
-- [Dev.to/JS] [Array Methods with Clear Examples.](https://dev.to/oluwatrillions/array-methods-with-clear-examples-4fgo)
-- [Dev.to/JS] [Challenge #5: 📺 A State Channel Application Challenge](https://dev.to/kevinjoshi46b/challenge-5-a-state-channel-application-challenge-5g7b)
-- [Dev.to/JS] [Revive Daily - Health Benefits, Price, Uses, Customer Reviews?](https://dev.to/revivedailyinf1/revive-daily-health-benefits-price-uses-customer-reviews-5bmh)
-- [Dev.to/JS] [How to remove duplicate values from an array of objects and everything you need to know about arr.REDUCE in Js. 🚀](https://dev.to/neeswebservices/how-to-remove-duplicate-values-from-an-array-of-objects-and-everything-you-need-to-know-about-arrreduce-in-js-1lnb)
 - [Lifehacker] [All the Ways You Can Clean With a Squeegee &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-clean-with-a-squeegee-but-arent-1850129454)
 - [Lifehacker] [Here&#39;s the Math on Whether You Can Save Money Heating Your Home With a Fireplace](https://lifehacker.com/heres-the-math-on-whether-you-can-save-money-heating-yo-1850136827)
 - [Lifehacker] [Use These Six Steps to Salvage a Bad Day](https://lifehacker.com/use-these-six-steps-to-salvage-a-bad-day-1850134915)
