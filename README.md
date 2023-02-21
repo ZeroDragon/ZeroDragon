@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Developing an E-Commerce Website with Javascript and Firebase: A Comprehensive Guide - Series 1](https://dev.to/aikay/developing-an-e-commerce-website-with-javascript-and-firebase-a-comprehensive-guide-series-1-3m73)
+- [Lifehacker] [What It Takes to Quit Gambling](https://lifehacker.com/what-it-takes-to-quit-gambling-1850140295)
+- [Dev.to/JS] [SSR based on pure functions](https://dev.to/xania/ssr-based-on-pure-functions-3e9b)
+- [Dev.to/JS] [Challenge #6: 👛 Multisig Wallet Challenge](https://dev.to/kevinjoshi46b/challenge-6-multisig-wallet-challenge-3aaf)
+- [Dev.to/JS] [How To Make Your Own NPM Package](https://dev.to/mohammedtaysser/how-to-make-your-own-npm-package-4dm2)
 - [Lifehacker] [Why You Should Always Call Before Booking a Hotel Room Online](https://lifehacker.com/why-you-should-always-call-before-booking-a-hotel-room-1850134869)
 - [Dev.to/JS] [How I Automate Customer Group Assignment in Ecommerce](https://dev.to/medusajs/how-i-automate-customer-group-assignment-in-ecommerce-34ok)
 - [Dev.to/JS] [My new NeoVim setup for JavaScript&lpar;TypeScript&rpar;, react, vue development](https://dev.to/2nthony/my-new-neovim-setup-for-javascripttypescript-react-vue-development-jaa)
@@ -36,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Remove Element - LeetCode](https://dev.to/zuzexx/remove-element-leetcode-26nj)
 - [Lifehacker] [Stop Teaching Kids to Say &#39;Sir&#39; and &#39;Ma&#39;am&#39;](https://lifehacker.com/stop-teaching-kids-to-say-sir-and-maam-1850130701)
 - [Lifehacker] [It&#39;s Illegal to Be a &#39;Money Mule,&#39; Whether You Know It or Not](https://lifehacker.com/its-illegal-to-be-a-money-mule-whether-you-know-it-or-1850130680)
-- [Dev.to/JS] [Unlock the Power of Google Analytics 4 in Just 5 Minutes with Next.js and TypeScript](https://dev.to/aaron_janes/unlock-the-power-of-google-analytics-4-in-just-5-minutes-with-nextjs-and-typescript-5o6)
-- [Dev.to/JS] [Hiring a React Developer? Here’s What You Need to Know](https://dev.to/monu181/hiring-a-react-developer-heres-what-you-need-to-know-aig)
 - [Lifehacker] [How to Write Résumé and Cover Letter Templates That Don’t Suck](https://lifehacker.com/how-to-write-resume-and-cover-letter-templates-that-don-1850136829)
-- [Dev.to/JS] [Building a JavaScript Yak Bak clone with Tone.js — Part 3](https://dev.to/cmgustin/building-a-javascript-yak-bak-clone-with-tonejs-part-3-2k4g)
-- [Dev.to/JS] [How to Build a SaaS on AWS: a deep dive into the architecture of a SaaS product](https://dev.to/ixartz/how-to-build-a-saas-on-aws-a-deep-dive-into-the-architecture-of-a-saas-product-169f)
 - [Lifehacker] [I Asked ChatGPT for Workout Suggestions and Wow, They Sucked](https://lifehacker.com/i-asked-chatgpt-for-workout-suggestions-and-wow-they-s-1850123377)
 - [Lifehacker] [These Salt-Crusted Potatoes Are a Salt Fiend&#39;s Dream](https://lifehacker.com/these-salt-crusted-potatoes-are-a-salt-fiends-dream-1850138338)
 - [Lifehacker] [Let Your Kid Struggle Through Video Games, Already](https://lifehacker.com/let-your-kid-struggle-through-video-games-already-1850128116)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where You Install Smoke Detectors Really Matters](https://lifehacker.com/where-you-install-smoke-detectors-really-matters-1850124566)
 - [Lifehacker] [You&#39;re Soaking Your Dishes Wrong](https://lifehacker.com/youre-soaking-your-dishes-wrong-1850071577)
 - [Lifehacker] [You’re Using Lube Wrong](https://lifehacker.com/you-re-using-lube-wrong-1850120415)
-- [Lifehacker] [How to Fly to Japan This Fall for Less Than $400 Each Way](https://lifehacker.com/how-to-fly-to-japan-this-fall-for-less-than-400-each-w-1850124601)
-- [Lifehacker] [Don&#39;t Store These Household Items Under Your Kitchen Sink](https://lifehacker.com/dont-store-these-household-items-under-your-kitchen-sin-1850124613)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Fly to Japan This Fall for Less Than $400 Each Way](https://lifehacker.com/how-to-fly-to-japan-this-fall-for-less-than-400-each-w-1850124601)<!-- TECH-POSTS:END -->
 
 ---
 
