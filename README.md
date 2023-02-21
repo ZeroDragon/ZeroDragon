@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a High-Performing Ecommerce with Svelte and Medusa Backend](https://dev.to/femi_dev/build-a-high-performing-ecommerce-with-svelte-and-medusa-backend-45b4)
+- [Dev.to/JS] [6valley Multi-Vendor E-commerce - Complete eCommerce Mobile App, Web and Admin Panel Nulled](https://dev.to/chunarakaran/6valley-multi-vendor-e-commerce-complete-ecommerce-mobile-app-web-and-admin-panel-nulled-49ph)
 - [Dev.to/JS] [basename prop in Reactjs](https://dev.to/himanshudevgupta/basename-prop-in-reactjs-3781)
 - [Dev.to/JS] [JavaScript Most important Thing! Object](https://dev.to/himanshudevgupta/javascript-most-important-thing-object-2hm1)
 - [Dev.to/JS] [TailwindCSS vs Bootstrap: Which CSS Framework is Better?](https://dev.to/acidop/tailwindcss-vs-bootstrap-which-css-framework-is-better-3l79)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Challenge #5: 📺 A State Channel Application Challenge](https://dev.to/kevinjoshi46b/challenge-5-a-state-channel-application-challenge-5g7b)
 - [Dev.to/JS] [Revive Daily - Health Benefits, Price, Uses, Customer Reviews?](https://dev.to/revivedailyinf1/revive-daily-health-benefits-price-uses-customer-reviews-5bmh)
 - [Dev.to/JS] [How to remove duplicate values from an array of objects and everything you need to know about arr.REDUCE in Js. 🚀](https://dev.to/neeswebservices/how-to-remove-duplicate-values-from-an-array-of-objects-and-everything-you-need-to-know-about-arrreduce-in-js-1lnb)
-- [Dev.to/JS] [Debouncing in the Javascript](https://dev.to/iserioton/debouncing-in-the-javascript-544n)
-- [Dev.to/JS] [5 ways to merge arrays in JavaScript &lpar;easy&rpar;](https://dev.to/rahxuls/5-ways-to-merge-arrays-in-javascript-easy-2e01)
 - [Lifehacker] [All the Ways You Can Clean With a Squeegee &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-clean-with-a-squeegee-but-arent-1850129454)
 - [Lifehacker] [Here&#39;s the Math on Whether You Can Save Money Heating Your Home With a Fireplace](https://lifehacker.com/heres-the-math-on-whether-you-can-save-money-heating-yo-1850136827)
 - [Lifehacker] [Use These Six Steps to Salvage a Bad Day](https://lifehacker.com/use-these-six-steps-to-salvage-a-bad-day-1850134915)
