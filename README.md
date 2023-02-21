@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Always Call Before Booking a Hotel Room Online](https://lifehacker.com/why-you-should-always-call-before-booking-a-hotel-room-1850134869)
+- [Dev.to/JS] [How I Automate Customer Group Assignment in Ecommerce](https://dev.to/medusajs/how-i-automate-customer-group-assignment-in-ecommerce-34ok)
+- [Dev.to/JS] [My new NeoVim setup for JavaScript&lpar;TypeScript&rpar;, react, vue development](https://dev.to/2nthony/my-new-neovim-setup-for-javascripttypescript-react-vue-development-jaa)
+- [Dev.to/JS] [Dep Tree - a tool for rendering and linting your project&#39;s dependency tree in the terminal](https://dev.to/gabotechs/dep-tree-a-tool-for-rendering-and-linting-your-projects-dependency-tree-in-the-terminal-25om)
+- [Lifehacker] [You Can Still Save Your Plants From the Cold](https://lifehacker.com/you-can-still-save-your-plants-from-the-cold-1850135454)
+- [Lifehacker] [Your Next Home Renovation Should Include Magnetic Flooring](https://lifehacker.com/your-next-home-renovation-should-include-magnetic-floor-1850135502)
 - [Dev.to/JS] [Paracetamol.ts💊| #15: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-15-explica-este-codigo-typescript-ppf)
 - [Dev.to/JS] [Moonly weekly progress update #37](https://dev.to/moonly/moonly-weekly-progress-update-37-57dh)
 - [Dev.to/JS] [How to add react to an existing website?](https://dev.to/nadeem099/how-to-add-react-to-an-existing-website-hfp)
@@ -33,14 +39,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlock the Power of Google Analytics 4 in Just 5 Minutes with Next.js and TypeScript](https://dev.to/aaron_janes/unlock-the-power-of-google-analytics-4-in-just-5-minutes-with-nextjs-and-typescript-5o6)
 - [Dev.to/JS] [Hiring a React Developer? Here’s What You Need to Know](https://dev.to/monu181/hiring-a-react-developer-heres-what-you-need-to-know-aig)
 - [Lifehacker] [How to Write Résumé and Cover Letter Templates That Don’t Suck](https://lifehacker.com/how-to-write-resume-and-cover-letter-templates-that-don-1850136829)
+- [Dev.to/JS] [Building a JavaScript Yak Bak clone with Tone.js — Part 3](https://dev.to/cmgustin/building-a-javascript-yak-bak-clone-with-tonejs-part-3-2k4g)
 - [Dev.to/JS] [How to Build a SaaS on AWS: a deep dive into the architecture of a SaaS product](https://dev.to/ixartz/how-to-build-a-saas-on-aws-a-deep-dive-into-the-architecture-of-a-saas-product-169f)
 - [Lifehacker] [I Asked ChatGPT for Workout Suggestions and Wow, They Sucked](https://lifehacker.com/i-asked-chatgpt-for-workout-suggestions-and-wow-they-s-1850123377)
-- [Dev.to/JS] [Creating Web Accessibility: HTML Attributes](https://dev.to/frontend_jedi/creating-web-accessibility-html-attributes-5cnj)
-- [Dev.to/JS] [Using NgRx Standalone APIs with Nx](https://dev.to/nx/using-ngrx-standalone-apis-with-nx-12ib)
 - [Lifehacker] [These Salt-Crusted Potatoes Are a Salt Fiend&#39;s Dream](https://lifehacker.com/these-salt-crusted-potatoes-are-a-salt-fiends-dream-1850138338)
-- [Dev.to/JS] [Mega Navbar - HTML/CSS](https://dev.to/shubhamtiwari909/mega-navbar-htmlcss-1m0m)
 - [Lifehacker] [Let Your Kid Struggle Through Video Games, Already](https://lifehacker.com/let-your-kid-struggle-through-video-games-already-1850128116)
-- [Dev.to/JS] [Solving Leetcode&#39;s &quot;Richest Customer Wealth&quot; Challange with Javascript](https://dev.to/muyixone/solving-leetcodes-richest-customer-wealth-challange-with-javascript-59p4)
 - [Lifehacker] [All the Ways You Can Clean With a Squeegee &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-clean-with-a-squeegee-but-arent-1850129454)
 - [Lifehacker] [Here&#39;s the Math on Whether You Can Save Money Heating Your Home With a Fireplace](https://lifehacker.com/heres-the-math-on-whether-you-can-save-money-heating-yo-1850136827)
 - [Lifehacker] [Use These Six Steps to Salvage a Bad Day](https://lifehacker.com/use-these-six-steps-to-salvage-a-bad-day-1850134915)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You&#39;re Soaking Your Dishes Wrong](https://lifehacker.com/youre-soaking-your-dishes-wrong-1850071577)
 - [Lifehacker] [You’re Using Lube Wrong](https://lifehacker.com/you-re-using-lube-wrong-1850120415)
 - [Lifehacker] [How to Fly to Japan This Fall for Less Than $400 Each Way](https://lifehacker.com/how-to-fly-to-japan-this-fall-for-less-than-400-each-w-1850124601)
-- [Lifehacker] [Don&#39;t Store These Household Items Under Your Kitchen Sink](https://lifehacker.com/dont-store-these-household-items-under-your-kitchen-sin-1850124613)
-- [Lifehacker] [The Most Affordable American Cities to Buy a Home in Right Now](https://lifehacker.com/the-most-affordable-american-cities-to-buy-a-home-in-ri-1850124619)
-- [Lifehacker] [Don&#39;t Make These Mistakes When Speaking With a Customer Service Rep](https://lifehacker.com/dont-make-these-mistakes-when-speaking-with-a-customer-1850124655)
-- [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Store These Household Items Under Your Kitchen Sink](https://lifehacker.com/dont-store-these-household-items-under-your-kitchen-sin-1850124613)<!-- TECH-POSTS:END -->
 
 ---
 
