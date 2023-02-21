@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [I Asked ChatGPT for Workout Suggestions and Wow, They Sucked](https://lifehacker.com/i-asked-chatgpt-for-workout-suggestions-and-wow-they-s-1850123377)
+- [Dev.to/JS] [Creating Web Accessibility: HTML Attributes](https://dev.to/frontend_jedi/creating-web-accessibility-html-attributes-5cnj)
+- [Dev.to/JS] [Using NgRx Standalone APIs with Nx](https://dev.to/nx/using-ngrx-standalone-apis-with-nx-12ib)
+- [Lifehacker] [These Salt-Crusted Potatoes Are a Salt Fiend&#39;s Dream](https://lifehacker.com/these-salt-crusted-potatoes-are-a-salt-fiends-dream-1850138338)
+- [Dev.to/JS] [Mega Navbar - HTML/CSS](https://dev.to/shubhamtiwari909/mega-navbar-htmlcss-1m0m)
 - [Lifehacker] [Let Your Kid Struggle Through Video Games, Already](https://lifehacker.com/let-your-kid-struggle-through-video-games-already-1850128116)
 - [Dev.to/JS] [Solving Leetcode&#39;s &quot;Richest Customer Wealth&quot; Challange with Javascript](https://dev.to/muyixone/solving-leetcodes-richest-customer-wealth-challange-with-javascript-59p4)
 - [Dev.to/JS] [How to remove click event listener in JavaScript](https://dev.to/coder4_life/how-to-remove-click-event-listener-in-javascript-4n79)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [basename prop in Reactjs](https://dev.to/himanshudevgupta/basename-prop-in-reactjs-3781)
 - [Dev.to/JS] [JavaScript Most important Thing! Object](https://dev.to/himanshudevgupta/javascript-most-important-thing-object-2hm1)
 - [Dev.to/JS] [TailwindCSS vs Bootstrap: Which CSS Framework is Better?](https://dev.to/acidop/tailwindcss-vs-bootstrap-which-css-framework-is-better-3l79)
-- [Dev.to/JS] [Setting up Visual Studio Code for React Development](https://dev.to/iamsourabhh/setting-up-visual-studio-code-for-react-development-6f0)
-- [Dev.to/JS] [Best JavaScript MOOCs according to Reddit in 2023](https://dev.to/abdnafees/best-javascript-moocs-according-to-reddit-in-2023-27a8)
-- [Dev.to/JS] [Exploring the React Component Lifecycle](https://dev.to/saikatbishal/exploring-the-react-component-lifecycle-35h3)
 - [Lifehacker] [All the Ways You Can Clean With a Squeegee &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-clean-with-a-squeegee-but-arent-1850129454)
 - [Lifehacker] [Here&#39;s the Math on Whether You Can Save Money Heating Your Home With a Fireplace](https://lifehacker.com/heres-the-math-on-whether-you-can-save-money-heating-yo-1850136827)
 - [Lifehacker] [Use These Six Steps to Salvage a Bad Day](https://lifehacker.com/use-these-six-steps-to-salvage-a-bad-day-1850134915)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What You&#39;re Forgetting to Clean in Every Room](https://lifehacker.com/what-youre-forgetting-to-clean-in-every-room-1850129100)
 - [Lifehacker] [Park These Ram Trucks Outside In Case They Catch on Fire](https://lifehacker.com/park-these-ram-trucks-outside-in-case-they-catch-on-fir-1850129566)
 - [Lifehacker] [You’re Probably Painting Your Bathroom Wrong](https://lifehacker.com/you-re-probably-painting-your-bathroom-wrong-1850128267)
-- [Lifehacker] [How Samsung’s New ‘Message Guard’ Protects Your Phone From &#39;Zero-Click&#39; Attacks](https://lifehacker.com/how-samsung-s-new-message-guard-protects-your-phone-f-1850127377)
-- [Lifehacker] [Don&#39;t Call the IRS This Weekend Unless You Absolutely Have To](https://lifehacker.com/dont-call-the-irs-this-weekend-unless-you-absolutely-ha-1850129949)
-- [Lifehacker] [How to Get the New iPhone Emojis Early](https://lifehacker.com/how-to-get-the-new-iphone-emojis-early-1850128259)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Samsung’s New ‘Message Guard’ Protects Your Phone From &#39;Zero-Click&#39; Attacks](https://lifehacker.com/how-samsung-s-new-message-guard-protects-your-phone-f-1850127377)<!-- TECH-POSTS:END -->
 
 ---
 
