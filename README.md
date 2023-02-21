@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [basename prop in Reactjs](https://dev.to/himanshudevgupta/basename-prop-in-reactjs-3781)
+- [Dev.to/JS] [JavaScript Most important Thing! Object](https://dev.to/himanshudevgupta/javascript-most-important-thing-object-2hm1)
 - [Dev.to/JS] [TailwindCSS vs Bootstrap: Which CSS Framework is Better?](https://dev.to/acidop/tailwindcss-vs-bootstrap-which-css-framework-is-better-3l79)
 - [Dev.to/JS] [Setting up Visual Studio Code for React Development](https://dev.to/iamsourabhh/setting-up-visual-studio-code-for-react-development-6f0)
 - [Dev.to/JS] [Best JavaScript MOOCs according to Reddit in 2023](https://dev.to/abdnafees/best-javascript-moocs-according-to-reddit-in-2023-27a8)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to remove duplicate values from an array of objects and everything you need to know about arr.REDUCE in Js. 🚀](https://dev.to/neeswebservices/how-to-remove-duplicate-values-from-an-array-of-objects-and-everything-you-need-to-know-about-arrreduce-in-js-1lnb)
 - [Dev.to/JS] [Debouncing in the Javascript](https://dev.to/iserioton/debouncing-in-the-javascript-544n)
 - [Dev.to/JS] [5 ways to merge arrays in JavaScript &lpar;easy&rpar;](https://dev.to/rahxuls/5-ways-to-merge-arrays-in-javascript-easy-2e01)
-- [Dev.to/JS] [StackFood Multi Restaurant v6.1.0 - Food Delivery App with Laravel Admin and Restaurant Panel - nulled](https://dev.to/chunarakaran/stackfood-multi-restaurant-v610-food-delivery-app-with-laravel-admin-and-restaurant-panel-nulled-l1l)
-- [Dev.to/JS] [How to create dynamic OG images with serverless function using Sharp library](https://dev.to/starbist/how-to-create-dynamic-og-images-with-serverless-function-using-sharp-library-4acf)
 - [Lifehacker] [All the Ways You Can Clean With a Squeegee &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-clean-with-a-squeegee-but-arent-1850129454)
 - [Lifehacker] [Here&#39;s the Math on Whether You Can Save Money Heating Your Home With a Fireplace](https://lifehacker.com/heres-the-math-on-whether-you-can-save-money-heating-yo-1850136827)
 - [Lifehacker] [Use These Six Steps to Salvage a Bad Day](https://lifehacker.com/use-these-six-steps-to-salvage-a-bad-day-1850134915)
