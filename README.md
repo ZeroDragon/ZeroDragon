@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Develop Scalable and Maintainable JavaScript Apps using ES6 Design Patterns](https://dev.to/haszankauna/how-to-develop-scalable-and-maintainable-javascript-apps-using-es6-design-patterns-4cpe)
+- [Dev.to/JS] [Bit Manipulation Mastery: A Free Course for Technical Interviews](https://dev.to/ggorantala/bit-manipulation-mastery-a-free-course-for-technical-interviews-1df8)
+- [Dev.to/JS] [Using the React Profiler to Increase React Application Performance](https://dev.to/haszankauna/using-the-react-profiler-to-increase-react-application-performance-3ikk)
 - [Dev.to/JS] [9 Useful Chrome Extensions for Web Developers / Web Development](https://dev.to/snowiewdev/9-google-chrome-extensions-for-web-developers-front-end-web-development-4n7i)
 - [Dev.to/JS] [Um resumo sobre: vetores ordenados e pesquisa linear e binária.](https://dev.to/costamateus7/um-resumo-sobre-vetores-ordenados-e-pesquisa-linear-e-binaria-49ch)
 - [Dev.to/JS] [28 best practices for WordPress theme development](https://dev.to/menemelkatan/28-best-practices-for-wordpress-theme-development-5d2m)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s the Math on Whether You Can Save Money Heating Your Home With a Fireplace](https://lifehacker.com/heres-the-math-on-whether-you-can-save-money-heating-yo-1850136827)
 - [Dev.to/JS] [How to update an element in a map - JavaScript](https://dev.to/moibra/how-to-update-an-element-in-a-map-javascript-56c7)
 - [Lifehacker] [Use These Six Steps to Salvage a Bad Day](https://lifehacker.com/use-these-six-steps-to-salvage-a-bad-day-1850134915)
-- [Dev.to/JS] [&lpar;Array Methods Part 3&rpar; What are Iteration Methods?](https://dev.to/michaelvinidev/array-methods-part-3-what-are-iteration-methods-a35)
-- [Dev.to/JS] [JavaScript Tutorial Series: Loops](https://dev.to/fullstackjo/javascript-tutorial-series-loops-h58)
 - [Lifehacker] [You Should Know the Difference Between a Chargeback and a Refund](https://lifehacker.com/you-should-know-the-difference-between-a-chargeback-and-1850129108)
-- [Dev.to/JS] [How to use PocketBase Database with React and SWR](https://dev.to/franciscomendes10866/how-to-use-pocketbase-database-with-react-2gg9)
 - [Lifehacker] [Always Keep a Dried Out Steak in Your Fridge](https://lifehacker.com/always-keep-a-dried-out-steak-in-your-fridge-1850129530)
 - [Lifehacker] [Study Up on Local Sports Before Traveling Abroad](https://lifehacker.com/study-up-on-local-sports-before-traveling-abroad-1850129721)
 - [Lifehacker] [How to Unlearn Your Parents&#39; Bad Money Habits, According to Lifehacker Readers](https://lifehacker.com/how-to-unlearn-your-parents-bad-money-habits-according-1850127795)
