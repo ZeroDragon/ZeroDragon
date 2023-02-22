@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How can I write it out? B2B API](https://dev.to/leves96/how-can-i-write-it-out-b2b-api-2i2d)
+- [Dev.to/JS] [How to Hire React Developers with Experience in Machine Learning](https://dev.to/monu181/how-to-hire-react-developers-with-experience-in-machine-learning-4pdk)
 - [Dev.to/JS] [Mastering the Mysteries of JavaScript Scopes](https://dev.to/rmmgc/mastering-the-mysteries-of-javascript-scopes-2b3n)
 - [Dev.to/JS] [Coffee Ignite - Fat Loss, Price, Benefits, Uses &amp; Where to Buy?](https://dev.to/coffeeignitein1/coffee-ignite-fat-loss-price-benefits-uses-where-to-buy-3gjd)
 - [Dev.to/JS] [Goodbye Complicated Sharing! - Share Data Across Devices with Share360.tech 🤯](https://dev.to/rajeshj3/goodbye-complicated-sharing-share-data-across-devices-with-share360tech-kfi)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Difference Between Types &lpar;Type Aliases&rpar; And Interfaces in TypeScript](https://dev.to/andrewsavetchuk/the-difference-between-types-type-aliases-and-interfaces-in-typescript-49a4)
 - [Dev.to/JS] [Using the HTML Geolocation API to display a users location on a map](https://dev.to/michaelburrows/using-the-html-geolocation-api-to-display-a-users-location-on-a-map-bi8)
 - [Dev.to/JS] [Why Next.js is the Best Choice for Server-Side Rendering with React](https://dev.to/dayanandgarg/why-nextjs-is-the-best-choice-for-server-side-rendering-with-react-11hk)
-- [Dev.to/JS] [1011. Leetcode Solution in JavaScript](https://dev.to/chiki1601/1011-leetcode-solution-in-javascript-2mk5)
-- [Dev.to/JS] [Lazy Loading images in Vanilla JavaScript: Improving Website Performance](https://dev.to/meshuaibkhalid/lazy-loading-in-vanilla-javascript-improving-website-performance-1856)
 - [Lifehacker] [The Best Authenticator Apps for iPhone and Android](https://lifehacker.com/the-best-authenticator-apps-for-iphone-and-android-1850140802)
 - [Lifehacker] [This Hidden Setting Will Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/this-hidden-setting-will-stop-chrome-from-killing-your-1850141127)
 - [Lifehacker] [The Antisocial Parents&#39; Guide to Avoiding Other Parents](https://lifehacker.com/the-antisocial-parents-guide-to-avoiding-other-parents-1850141488)
