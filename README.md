@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lazy Loading in Vanilla JavaScript: Improving Website Performance](https://dev.to/meshuaibkhalid/lazy-loading-in-vanilla-javascript-improving-website-performance-1856)
+- [Dev.to/JS] [Am I the only person who learned nextjs without their docs?](https://dev.to/sonicx180/am-i-the-only-person-who-learned-nextjs-without-their-docs-2ao9)
 - [Dev.to/JS] [Non Denominational;](https://dev.to/thefinishers/non-denominational-3ilm)
 - [Dev.to/JS] [3.4 - RavenDB with Oren Eini](https://dev.to/codingcatdev/34-ravendb-with-oren-eini-lpl)
 - [Dev.to/JS] [Domain Notification em NodeJS 🚀](https://dev.to/jhonesgoncalves/domain-notification-em-nodejs-35mk)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to implement LinkedList in JavaScript](https://dev.to/justartem/how-to-implement-linkedlist-in-javascript-pp1)
 - [Dev.to/JS] [@TopDown On Replit](https://dev.to/ultrawyatt/topdown-on-replit-4hkg)
 - [Lifehacker] [The Best Authenticator Apps for iPhone and Android](https://lifehacker.com/the-best-authenticator-apps-for-iphone-and-android-1850140802)
-- [Dev.to/JS] [Fixing infinite redirect loops in SvelteKit applications](https://dev.to/khromov/fixing-infinite-redirect-loops-in-sveltekit-applications-167d)
 - [Lifehacker] [This Hidden Setting Will Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/this-hidden-setting-will-stop-chrome-from-killing-your-1850141127)
-- [Dev.to/JS] [Understanding DOM Nodes: A Comprehensive Guide with Example](https://dev.to/sidramaqbool/understanding-dom-nodes-a-comprehensive-guide-with-example-22m5)
 - [Lifehacker] [The Antisocial Parents&#39; Guide to Avoiding Other Parents](https://lifehacker.com/the-antisocial-parents-guide-to-avoiding-other-parents-1850141488)
 - [Lifehacker] [Your Guide to Getting a Car Unstuck in the Snow](https://lifehacker.com/your-guide-to-getting-a-car-unstuck-in-the-snow-1850141388)
 - [Lifehacker] [You Should Melt Brie Into Your Spicy Instant Ramen](https://lifehacker.com/you-should-melt-brie-into-your-spicy-instant-ramen-1850141210)
