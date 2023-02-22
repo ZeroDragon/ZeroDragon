@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Powerful One-Liners Every Parent Needs](https://lifehacker.com/the-powerful-one-liners-every-parent-needs-1850141320)
+- [Dev.to/JS] [How to Boost Performance in React Applications](https://dev.to/tuliocalil/how-to-boost-performance-in-react-applications-fke)
+- [Dev.to/JS] [How to create a Browser Extension?](https://dev.to/pacehut/how-to-create-a-browser-extension-5819)
+- [Dev.to/JS] [What is Recursion?](https://dev.to/devjaiye/what-is-recursion-2p15)
+- [Dev.to/JS] [Manage multiple Node.js versions with NVM](https://dev.to/this-is-learning/manage-multiple-nodejs-versions-with-nvm-ap3)
+- [Dev.to/JS] [Protect Your Image In The Ethereum Blockchain And Get A Pdf Certificate](https://dev.to/verifbox/protect-your-image-in-the-ethereum-blockchain-and-get-a-pdf-certificate-1pgd)
 - [Dev.to/JS] [Homegrown CSV Importer vs nuvo Importer – Is a pre-built data import library worth the investment?](https://dev.to/getnuvo/homegrown-csv-importer-vs-nuvo-importer-is-a-pre-built-data-import-library-worth-the-investment-4jle)
 - [Dev.to/JS] [Suppress the warning no-unused-vars](https://dev.to/malekabbes/suppress-the-warning-no-unused-vars-27nl)
 - [Dev.to/JS] [Flip the Bit to Win Puzzle](https://dev.to/danieluhl/flip-the-bit-to-win-puzzle-4dd5)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [setImmediate&lpar;&rpar; vs setTimeout&lpar;&rpar; in javascript](https://dev.to/himanshudevgupta/setimmediate-vs-settimeout-in-javascript-8ha)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Calculando anos.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-calculando-anos-3m68)
 - [Dev.to/JS] [How to Run Reactjs Build On Server](https://dev.to/himanshudevgupta/how-to-run-reactjs-build-on-server-lgd)
-- [Dev.to/JS] [Visual regression tests for Storybook with Loki](https://dev.to/alexandrg/visual-regression-tests-for-storybook-with-loki-523o)
-- [Dev.to/JS] [Effects with React useEffect](https://dev.to/helderberto/effects-with-react-useeffect-4c8c)
-- [Dev.to/JS] [Manipulating the DOM with React Ref](https://dev.to/helderberto/manipulating-the-dom-with-react-ref-2a5f)
-- [Dev.to/JS] [The 10 most common mistakes in frontend development and how to avoid them](https://dev.to/haszankauna/the-10-most-common-mistakes-in-frontend-development-and-how-to-avoid-them-2e31)
-- [Dev.to/JS] [Validation With Joi in nodejs](https://dev.to/himanshudevgupta/validation-with-joi-in-nodejs-585a)
 - [Lifehacker] [The Best Authenticator Apps for iPhone and Android](https://lifehacker.com/the-best-authenticator-apps-for-iphone-and-android-1850140802)
 - [Lifehacker] [This Hidden Setting Will Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/this-hidden-setting-will-stop-chrome-from-killing-your-1850141127)
 - [Lifehacker] [The Antisocial Parents&#39; Guide to Avoiding Other Parents](https://lifehacker.com/the-antisocial-parents-guide-to-avoiding-other-parents-1850141488)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Study Up on Local Sports Before Traveling Abroad](https://lifehacker.com/study-up-on-local-sports-before-traveling-abroad-1850129721)
 - [Lifehacker] [How to Unlearn Your Parents&#39; Bad Money Habits, According to Lifehacker Readers](https://lifehacker.com/how-to-unlearn-your-parents-bad-money-habits-according-1850127795)
 - [Lifehacker] [Four Reasons Your Cat Keeps Peeing Outside Their Litter Box](https://lifehacker.com/four-reasons-your-cat-keeps-peeing-outside-their-litter-1850125397)
-- [Lifehacker] [You Can DIY Your Own Stunning Coffered Ceilings](https://lifehacker.com/you-can-diy-your-own-stunning-coffered-ceilings-1850129947)
-- [Lifehacker] [The 7 Deadly Sins of Personal Hygiene](https://lifehacker.com/the-7-deadly-sins-of-personal-hygiene-1850130331)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can DIY Your Own Stunning Coffered Ceilings](https://lifehacker.com/you-can-diy-your-own-stunning-coffered-ceilings-1850129947)<!-- TECH-POSTS:END -->
 
 ---
 
