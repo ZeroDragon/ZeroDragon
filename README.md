@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When to See the Last Full Moon of Winter](https://lifehacker.com/when-to-see-the-last-full-moon-of-winter-1850143416)
+- [Dev.to/JS] [Dalle](https://dev.to/megdiv/dalle-14ca)
+- [Dev.to/JS] [Authentication with Supabase](https://dev.to/guillaumeduhan/authentication-with-supabase-3i71)
+- [Dev.to/JS] [Mastering JavaScript Interviews: 5 Common Questions and Answers](https://dev.to/kosoko_daniel/mastering-javascript-interviews-5-common-questions-and-answers-10hc)
+- [Dev.to/JS] [Ecommerce with Stripe: A How to guide](https://dev.to/justinakingsley/ecommerce-with-stripe-a-how-to-guide-68g)
+- [Dev.to/JS] [My ATLP journey.](https://dev.to/rukundokevin/my-atlp-journey-58o7)
+- [Lifehacker] [This Recalled Starbucks Drink Might Have Glass In It](https://lifehacker.com/this-recalled-starbucks-drink-might-have-glass-in-it-1850142368)
+- [Dev.to/JS] [I Coded a Website with 60k+ Daily Visitors Using ChatGPT](https://dev.to/alaster/i-coded-a-website-with-60k-daily-visitors-using-chatgpt-dmh)
 - [Dev.to/JS] [Desestructurar objetos en JavaScript](https://dev.to/asjordi/desestructurar-objetos-en-javascript-22h4)
 - [Lifehacker] [12 Surprising Things You Should Keep in Your Kitchen](https://lifehacker.com/12-surprising-things-you-should-keep-in-your-kitchen-1850142898)
 - [Dev.to/JS] [Ref vs. Reactive — Which is Best?](https://dev.to/michaelthiessen/ref-vs-reactive-which-is-best-1ik4)
@@ -32,14 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Now You Can &#39;Subscribe&#39; to a Car Instead of Buying or Leasing One](https://lifehacker.com/now-you-can-subscribe-to-a-car-instead-of-buying-or-lea-1850141985)
 - [Dev.to/JS] [5 Key Points to Keep in Mind When Developing Effective Dashboards](https://dev.to/omerwow/5-key-points-to-keep-in-mind-when-developing-effective-dashboards-1oh2)
 - [Dev.to/JS] [HeadlessUI](https://dev.to/ariellun/headlessui-a-comprehensive-guide-to-building-accessible-and-customizable-ui-components-4l08)
-- [Dev.to/JS] [3.5 - Breaking down Qwik with Shai Reznik](https://dev.to/codingcatdev/35-breaking-down-qwik-with-shai-reznik-565i)
 - [Lifehacker] [Blend Blue Cheese and Ranch Dressing for a Better Wing or Wedge Experience](https://lifehacker.com/blend-blue-cheese-and-ranch-dressing-for-a-better-wing-1850141836)
 - [Lifehacker] [The Powerful One-Liners Every Parent Needs](https://lifehacker.com/the-powerful-one-liners-every-parent-needs-1850141320)
-- [Dev.to/JS] [How to Boost Performance in React Applications](https://dev.to/tuliocalil/how-to-boost-performance-in-react-applications-fke)
-- [Dev.to/JS] [How to create a Browser Extension?](https://dev.to/pacehut/how-to-create-a-browser-extension-5819)
-- [Dev.to/JS] [What is Recursion?](https://dev.to/devjaiye/what-is-recursion-2p15)
-- [Dev.to/JS] [Manage multiple Node.js versions with NVM](https://dev.to/this-is-learning/manage-multiple-nodejs-versions-with-nvm-ap3)
-- [Dev.to/JS] [Protect Your Image In The Ethereum Blockchain And Get A Pdf Certificate](https://dev.to/verifbox/protect-your-image-in-the-ethereum-blockchain-and-get-a-pdf-certificate-1pgd)
 - [Lifehacker] [The Best Authenticator Apps for iPhone and Android](https://lifehacker.com/the-best-authenticator-apps-for-iphone-and-android-1850140802)
 - [Lifehacker] [This Hidden Setting Will Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/this-hidden-setting-will-stop-chrome-from-killing-your-1850141127)
 - [Lifehacker] [The Antisocial Parents&#39; Guide to Avoiding Other Parents](https://lifehacker.com/the-antisocial-parents-guide-to-avoiding-other-parents-1850141488)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Let Your Kid Struggle Through Video Games, Already](https://lifehacker.com/let-your-kid-struggle-through-video-games-already-1850128116)
 - [Lifehacker] [All the Ways You Can Clean With a Squeegee &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-clean-with-a-squeegee-but-arent-1850129454)
 - [Lifehacker] [Here&#39;s the Math on Whether You Can Save Money Heating Your Home With a Fireplace](https://lifehacker.com/heres-the-math-on-whether-you-can-save-money-heating-yo-1850136827)
-- [Lifehacker] [Use These Six Steps to Salvage a Bad Day](https://lifehacker.com/use-these-six-steps-to-salvage-a-bad-day-1850134915)
-- [Lifehacker] [You Should Know the Difference Between a Chargeback and a Refund](https://lifehacker.com/you-should-know-the-difference-between-a-chargeback-and-1850129108)
-- [Lifehacker] [Always Keep a Dried Out Steak in Your Fridge](https://lifehacker.com/always-keep-a-dried-out-steak-in-your-fridge-1850129530)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use These Six Steps to Salvage a Bad Day](https://lifehacker.com/use-these-six-steps-to-salvage-a-bad-day-1850134915)<!-- TECH-POSTS:END -->
 
 ---
 
