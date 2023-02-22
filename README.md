@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Turn Off Auto-Brightness on Your Phone](https://lifehacker.com/why-you-should-turn-off-auto-brightness-on-your-phone-1850145521)
+- [Dev.to/JS] [React.Js, GraphQL and Apollo client](https://dev.to/radualex/reactjs-graphql-and-apollo-client-1ljo)
+- [Lifehacker] [The Easiest Ways to Save Money at the Laundromat](https://lifehacker.com/the-easiest-ways-to-save-money-at-the-laundromat-1850145420)
+- [Dev.to/JS] [Quantum Computing](https://dev.to/sefini_steph/quantum-computing-4g2h)
+- [Dev.to/JS] [5 New Features For Amplify UI and Studio You Should Try Today](https://dev.to/erikch/5-new-features-for-amplify-ui-and-studio-you-should-try-today-4g86)
+- [Dev.to/JS] [Creating animations and transitions in frontend development with CSS and JavaScript](https://dev.to/haszankauna/creating-animations-and-transitions-in-frontend-development-with-css-and-javascript-3lad)
 - [Lifehacker] [16 of the Best Backyard Chicken Breeds If You’re About That Life](https://lifehacker.com/16-of-the-best-backyard-chicken-breeds-if-you-re-about-1850145700)
 - [Lifehacker] [You Can Get Refurbished Kindles for As Low As $20 Right Now](https://lifehacker.com/you-can-get-refurbished-kindles-for-as-low-as-20-right-1850145890)
 - [Dev.to/JS] [Next.js 13 - app directory &amp; routing](https://dev.to/oskidev/nextjs-13-app-directory-routing-3lfh)
@@ -34,12 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3.6 - Effective Testing using Cypress.io](https://dev.to/codingcatdev/36-effective-testing-using-cypressio-35l2)
 - [Dev.to/JS] [How to create animated hamburger](https://dev.to/diorla/how-to-create-animated-hamburger-3760)
 - [Dev.to/JS] [✨2023#7: AIcommits: Create Git Commit Messages With AI](https://dev.to/jstoolsweekly/20237-aicommits-create-git-commit-messages-with-ai-4253)
-- [Dev.to/JS] [🔥2023#7: Craft prompts for LLMs by Prompt Engine](https://dev.to/jstoolsweekly/20237-craft-prompts-for-llms-by-prompt-engine-45m8)
 - [Lifehacker] [11 Types of Wheat Flour &lpar;and How to Use Them&rpar;](https://lifehacker.com/11-types-of-wheat-flour-and-how-to-use-them-1850145368)
-- [Dev.to/JS] [⭐2023#7: Remix v1.13 with Built-in Tailwind, PostCSS Support](https://dev.to/jstoolsweekly/20237-remix-v113-with-built-in-tailwind-postcss-support-3861)
-- [Dev.to/JS] [Destructuring arrays and objects](https://dev.to/nikolasbarwicki/destructuring-arrays-and-objects-50im)
 - [Lifehacker] [How to Uninstall Multiple Windows Apps at Once](https://lifehacker.com/how-to-uninstall-multiple-windows-apps-at-once-1850145087)
-- [Dev.to/JS] [Zerando o Hacker Rank: Fazendo a escadinha com TypeScript](https://dev.to/trinitypath/zerando-o-hacker-rank-fazendo-a-escadinha-com-typescript-484m)
 - [Lifehacker] [The Best Ways to Clean All Your Sweaty Sports and Exercise Gear](https://lifehacker.com/the-best-ways-to-clean-all-your-sweaty-sports-and-exerc-1850144980)
 - [Lifehacker] [When to See the Last Full Moon of Winter](https://lifehacker.com/when-to-see-the-last-full-moon-of-winter-1850143416)
 - [Lifehacker] [This Recalled Starbucks Drink Might Have Glass In It](https://lifehacker.com/this-recalled-starbucks-drink-might-have-glass-in-it-1850142368)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Always Call Before Booking a Hotel Room Online](https://lifehacker.com/why-you-should-always-call-before-booking-a-hotel-room-1850134869)
 - [Lifehacker] [You Can Still Save Your Plants From the Cold](https://lifehacker.com/you-can-still-save-your-plants-from-the-cold-1850135454)
 - [Lifehacker] [Your Next Home Renovation Should Include Magnetic Flooring](https://lifehacker.com/your-next-home-renovation-should-include-magnetic-floor-1850135502)
-- [Lifehacker] [Stop Teaching Kids to Say &#39;Sir&#39; and &#39;Ma&#39;am&#39;](https://lifehacker.com/stop-teaching-kids-to-say-sir-and-maam-1850130701)
-- [Lifehacker] [It&#39;s Illegal to Be a &#39;Money Mule,&#39; Whether You Know It or Not](https://lifehacker.com/its-illegal-to-be-a-money-mule-whether-you-know-it-or-1850130680)
-- [Lifehacker] [How to Write Résumé and Cover Letter Templates That Don’t Suck](https://lifehacker.com/how-to-write-resume-and-cover-letter-templates-that-don-1850136829)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stop Teaching Kids to Say &#39;Sir&#39; and &#39;Ma&#39;am&#39;](https://lifehacker.com/stop-teaching-kids-to-say-sir-and-maam-1850130701)<!-- TECH-POSTS:END -->
 
 ---
 
