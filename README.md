@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Uninstall Multiple Windows Apps at Once](https://lifehacker.com/how-to-uninstall-multiple-windows-apps-at-once-1850145087)
+- [Dev.to/JS] [Zerando o Hacker Rank: Fazendo a escadinha com TypeScript](https://dev.to/trinitypath/zerando-o-hacker-rank-fazendo-a-escadinha-com-typescript-484m)
+- [Dev.to/JS] [Learn the Basics of RegEx in JavaScript](https://dev.to/thedevdrawer/learn-the-basics-of-regex-in-javascript-4kdh)
+- [Lifehacker] [The Best Ways to Clean All Your Sweaty Sports and Exercise Gear](https://lifehacker.com/the-best-ways-to-clean-all-your-sweaty-sports-and-exerc-1850144980)
+- [Dev.to/JS] [What&#39;s New With Lerna 6.5?](https://dev.to/nx/whats-new-with-lerna-65-1ihb)
 - [Lifehacker] [When to See the Last Full Moon of Winter](https://lifehacker.com/when-to-see-the-last-full-moon-of-winter-1850143416)
 - [Dev.to/JS] [Dalle](https://dev.to/megdiv/dalle-14ca)
 - [Dev.to/JS] [Authentication with Supabase](https://dev.to/guillaumeduhan/authentication-with-supabase-3i71)
@@ -36,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ref vs. Reactive — Which is Best?](https://dev.to/michaelthiessen/ref-vs-reactive-which-is-best-1ik4)
 - [Dev.to/JS] [Creating a Multilingual Registration Form with Vuejs, Vee-validate, and Vue-i18n.](https://dev.to/andrewzach/creating-a-multilingual-registration-form-with-vuejs-vee-validate-and-vue-i18n-c07)
 - [Lifehacker] [23 Video Games You Can Beat In Under Seven Hours](https://lifehacker.com/23-video-games-you-can-beat-in-under-seven-hours-1850142322)
-- [Dev.to/JS] [Paracetamol.ts💊| #16: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-16-explica-este-codigo-typescript-bpj)
 - [Lifehacker] [Now You Can &#39;Subscribe&#39; to a Car Instead of Buying or Leasing One](https://lifehacker.com/now-you-can-subscribe-to-a-car-instead-of-buying-or-lea-1850141985)
-- [Dev.to/JS] [5 Key Points to Keep in Mind When Developing Effective Dashboards](https://dev.to/omerwow/5-key-points-to-keep-in-mind-when-developing-effective-dashboards-1oh2)
-- [Dev.to/JS] [HeadlessUI](https://dev.to/ariellun/headlessui-a-comprehensive-guide-to-building-accessible-and-customizable-ui-components-4l08)
 - [Lifehacker] [Blend Blue Cheese and Ranch Dressing for a Better Wing or Wedge Experience](https://lifehacker.com/blend-blue-cheese-and-ranch-dressing-for-a-better-wing-1850141836)
 - [Lifehacker] [The Powerful One-Liners Every Parent Needs](https://lifehacker.com/the-powerful-one-liners-every-parent-needs-1850141320)
 - [Lifehacker] [The Best Authenticator Apps for iPhone and Android](https://lifehacker.com/the-best-authenticator-apps-for-iphone-and-android-1850140802)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [I Asked ChatGPT for Workout Suggestions and Wow, They Sucked](https://lifehacker.com/i-asked-chatgpt-for-workout-suggestions-and-wow-they-s-1850123377)
 - [Lifehacker] [These Salt-Crusted Potatoes Are a Salt Fiend&#39;s Dream](https://lifehacker.com/these-salt-crusted-potatoes-are-a-salt-fiends-dream-1850138338)
 - [Lifehacker] [Let Your Kid Struggle Through Video Games, Already](https://lifehacker.com/let-your-kid-struggle-through-video-games-already-1850128116)
-- [Lifehacker] [All the Ways You Can Clean With a Squeegee &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-clean-with-a-squeegee-but-arent-1850129454)
-- [Lifehacker] [Here&#39;s the Math on Whether You Can Save Money Heating Your Home With a Fireplace](https://lifehacker.com/heres-the-math-on-whether-you-can-save-money-heating-yo-1850136827)
-- [Lifehacker] [Use These Six Steps to Salvage a Bad Day](https://lifehacker.com/use-these-six-steps-to-salvage-a-bad-day-1850134915)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Ways You Can Clean With a Squeegee &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-clean-with-a-squeegee-but-arent-1850129454)<!-- TECH-POSTS:END -->
 
 ---
 
