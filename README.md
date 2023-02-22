@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Domain Notification em NodeJS 🚀](https://dev.to/jhonesgoncalves/domain-notification-em-nodejs-35mk)
+- [Dev.to/JS] [3.3 - Tea CLI tea.xyz](https://dev.to/codingcatdev/33-tea-cli-teaxyz-3akf)
+- [Dev.to/JS] [Trending JavaScript repos of the week 📈](https://dev.to/quine/trending-javascript-repos-of-the-week-1fo4)
+- [Dev.to/JS] [Beginner API project with Node.js](https://dev.to/blueycode/beginner-api-project-with-nodejs-2944)
+- [Dev.to/JS] [Understanding React hooks](https://dev.to/asayerio_techblog/understanding-react-hooks-p5m)
 - [Dev.to/JS] [Help, my app is overreacting!](https://dev.to/anjanavakil/help-my-app-is-overreacting-b9c)
 - [Dev.to/JS] [How to implement LinkedList in JavaScript](https://dev.to/justartem/how-to-implement-linkedlist-in-javascript-pp1)
 - [Dev.to/JS] [@TopDown On Replit](https://dev.to/ultrawyatt/topdown-on-replit-4hkg)
@@ -34,14 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Get Instant Error Solutions with GPT](https://dev.to/musabshakil/get-instant-error-solutions-with-gpt-42cc)
 - [Dev.to/JS] [☠️ What is the Temporal Dead Zone in JavaScript?](https://dev.to/catherineisonline/what-is-the-temporal-dead-zone-in-javascript-348g)
 - [Lifehacker] [Your Guide to Getting a Car Unstuck in the Snow](https://lifehacker.com/your-guide-to-getting-a-car-unstuck-in-the-snow-1850141388)
-- [Dev.to/JS] [DOM Manipulation: How to Use Its Methods to Interact with Web Pages](https://dev.to/sidramaqbool/dom-manipulation-how-to-use-its-methods-to-interact-with-web-pages-2fm1)
-- [Dev.to/JS] [PWA with Next Js 13](https://dev.to/sabbirzzaman/pwa-with-next-js-13-194l)
 - [Lifehacker] [You Should Melt Brie Into Your Spicy Instant Ramen](https://lifehacker.com/you-should-melt-brie-into-your-spicy-instant-ramen-1850141210)
-- [Dev.to/JS] [How I make my apps more accessible: axe Accessibility Linter](https://dev.to/celest67/how-i-make-my-apps-more-accessible-axe-accessibility-linter-37id)
-- [Dev.to/JS] [JavaScript Tutorial Series: Looping through Arrays and Objects](https://dev.to/fullstackjo/javascript-tutorial-series-arrays-objects-and-loops-37k4)
 - [Lifehacker] [Help Your Teenager Start Building Good Credit Before They’re an Adult](https://lifehacker.com/help-your-teenager-start-building-good-credit-before-th-1850139758)
 - [Lifehacker] [Don’t Feed Your Baby This Recalled Enfamil Formula](https://lifehacker.com/don-t-feed-your-baby-this-recalled-enfamil-formula-1850140598)
-- [Dev.to/JS] [Building Custom JavaScript Libraries](https://dev.to/haszankauna/building-custom-javascript-libraries-42eg)
 - [Lifehacker] [You Shouldn’t Use Your Phone Number for Two-Factor Authentication, Anyway](https://lifehacker.com/you-shouldn-t-use-your-phone-number-for-two-factor-auth-1850139776)
 - [Lifehacker] [What It Takes to Quit Gambling](https://lifehacker.com/what-it-takes-to-quit-gambling-1850140295)
 - [Lifehacker] [Why You Should Always Call Before Booking a Hotel Room Online](https://lifehacker.com/why-you-should-always-call-before-booking-a-hotel-room-1850134869)
