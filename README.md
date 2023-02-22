@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Desestructurar objetos en JavaScript](https://dev.to/asjordi/desestructurar-objetos-en-javascript-22h4)
+- [Lifehacker] [12 Surprising Things You Should Keep in Your Kitchen](https://lifehacker.com/12-surprising-things-you-should-keep-in-your-kitchen-1850142898)
+- [Dev.to/JS] [Ref vs. Reactive — Which is Best?](https://dev.to/michaelthiessen/ref-vs-reactive-which-is-best-1ik4)
+- [Dev.to/JS] [Creating a Multilingual Registration Form with Vuejs, Vee-validate, and Vue-i18n.](https://dev.to/andrewzach/creating-a-multilingual-registration-form-with-vuejs-vee-validate-and-vue-i18n-c07)
+- [Lifehacker] [23 Video Games You Can Beat In Under Seven Hours](https://lifehacker.com/23-video-games-you-can-beat-in-under-seven-hours-1850142322)
+- [Dev.to/JS] [Paracetamol.ts💊| #16: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-16-explica-este-codigo-typescript-bpj)
 - [Lifehacker] [Now You Can &#39;Subscribe&#39; to a Car Instead of Buying or Leasing One](https://lifehacker.com/now-you-can-subscribe-to-a-car-instead-of-buying-or-lea-1850141985)
 - [Dev.to/JS] [5 Key Points to Keep in Mind When Developing Effective Dashboards](https://dev.to/omerwow/5-key-points-to-keep-in-mind-when-developing-effective-dashboards-1oh2)
 - [Dev.to/JS] [HeadlessUI](https://dev.to/ariellun/headlessui-a-comprehensive-guide-to-building-accessible-and-customizable-ui-components-4l08)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Recursion?](https://dev.to/devjaiye/what-is-recursion-2p15)
 - [Dev.to/JS] [Manage multiple Node.js versions with NVM](https://dev.to/this-is-learning/manage-multiple-nodejs-versions-with-nvm-ap3)
 - [Dev.to/JS] [Protect Your Image In The Ethereum Blockchain And Get A Pdf Certificate](https://dev.to/verifbox/protect-your-image-in-the-ethereum-blockchain-and-get-a-pdf-certificate-1pgd)
-- [Dev.to/JS] [Homegrown CSV Importer vs nuvo Importer – Is a pre-built data import library worth the investment?](https://dev.to/getnuvo/homegrown-csv-importer-vs-nuvo-importer-is-a-pre-built-data-import-library-worth-the-investment-4jle)
-- [Dev.to/JS] [Suppress the warning no-unused-vars](https://dev.to/malekabbes/suppress-the-warning-no-unused-vars-27nl)
-- [Dev.to/JS] [Flip the Bit to Win Puzzle](https://dev.to/danieluhl/flip-the-bit-to-win-puzzle-4dd5)
-- [Dev.to/JS] [Implementing Dark Mode in Next.js with Tailwind CSS and next-themes](https://dev.to/chinmaymhatre/implementing-dark-mode-in-nextjs-with-tailwind-css-and-next-themes-a4e)
 - [Lifehacker] [The Best Authenticator Apps for iPhone and Android](https://lifehacker.com/the-best-authenticator-apps-for-iphone-and-android-1850140802)
 - [Lifehacker] [This Hidden Setting Will Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/this-hidden-setting-will-stop-chrome-from-killing-your-1850141127)
 - [Lifehacker] [The Antisocial Parents&#39; Guide to Avoiding Other Parents](https://lifehacker.com/the-antisocial-parents-guide-to-avoiding-other-parents-1850141488)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s the Math on Whether You Can Save Money Heating Your Home With a Fireplace](https://lifehacker.com/heres-the-math-on-whether-you-can-save-money-heating-yo-1850136827)
 - [Lifehacker] [Use These Six Steps to Salvage a Bad Day](https://lifehacker.com/use-these-six-steps-to-salvage-a-bad-day-1850134915)
 - [Lifehacker] [You Should Know the Difference Between a Chargeback and a Refund](https://lifehacker.com/you-should-know-the-difference-between-a-chargeback-and-1850129108)
-- [Lifehacker] [Always Keep a Dried Out Steak in Your Fridge](https://lifehacker.com/always-keep-a-dried-out-steak-in-your-fridge-1850129530)
-- [Lifehacker] [Study Up on Local Sports Before Traveling Abroad](https://lifehacker.com/study-up-on-local-sports-before-traveling-abroad-1850129721)
-- [Lifehacker] [How to Unlearn Your Parents&#39; Bad Money Habits, According to Lifehacker Readers](https://lifehacker.com/how-to-unlearn-your-parents-bad-money-habits-according-1850127795)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Always Keep a Dried Out Steak in Your Fridge](https://lifehacker.com/always-keep-a-dried-out-steak-in-your-fridge-1850129530)<!-- TECH-POSTS:END -->
 
 ---
 
