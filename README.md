@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Help, my app is overreacting!](https://dev.to/anjanavakil/help-my-app-is-overreacting-b9c)
+- [Dev.to/JS] [How to implement LinkedList in JavaScript](https://dev.to/justartem/how-to-implement-linkedlist-in-javascript-pp1)
+- [Dev.to/JS] [@TopDown On Replit](https://dev.to/ultrawyatt/topdown-on-replit-4hkg)
 - [Lifehacker] [The Best Authenticator Apps for iPhone and Android](https://lifehacker.com/the-best-authenticator-apps-for-iphone-and-android-1850140802)
 - [Dev.to/JS] [Fixing infinite redirect loops in SvelteKit applications](https://dev.to/khromov/fixing-infinite-redirect-loops-in-sveltekit-applications-167d)
 - [Lifehacker] [This Hidden Setting Will Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/this-hidden-setting-will-stop-chrome-from-killing-your-1850141127)
@@ -40,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Feed Your Baby This Recalled Enfamil Formula](https://lifehacker.com/don-t-feed-your-baby-this-recalled-enfamil-formula-1850140598)
 - [Dev.to/JS] [Building Custom JavaScript Libraries](https://dev.to/haszankauna/building-custom-javascript-libraries-42eg)
 - [Lifehacker] [You Shouldn’t Use Your Phone Number for Two-Factor Authentication, Anyway](https://lifehacker.com/you-shouldn-t-use-your-phone-number-for-two-factor-auth-1850139776)
-- [Dev.to/JS] [Developing an E-Commerce Website with Javascript and Firebase: A Comprehensive Guide - Series 1](https://dev.to/aikay/developing-an-e-commerce-website-with-javascript-and-firebase-a-comprehensive-guide-series-1-3m73)
 - [Lifehacker] [What It Takes to Quit Gambling](https://lifehacker.com/what-it-takes-to-quit-gambling-1850140295)
-- [Dev.to/JS] [SSR based on pure functions](https://dev.to/xania/ssr-based-on-pure-functions-3e9b)
-- [Dev.to/JS] [Challenge #6: 👛 Multisig Wallet Challenge](https://dev.to/kevinjoshi46b/challenge-6-multisig-wallet-challenge-3aaf)
 - [Lifehacker] [Why You Should Always Call Before Booking a Hotel Room Online](https://lifehacker.com/why-you-should-always-call-before-booking-a-hotel-room-1850134869)
 - [Lifehacker] [You Can Still Save Your Plants From the Cold](https://lifehacker.com/you-can-still-save-your-plants-from-the-cold-1850135454)
 - [Lifehacker] [Your Next Home Renovation Should Include Magnetic Flooring](https://lifehacker.com/your-next-home-renovation-should-include-magnetic-floor-1850135502)
