@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on Netflix in March 2023](https://lifehacker.com/whats-new-on-netflix-in-march-2023-1850145177)
+- [Dev.to/JS] [3.6 - Effective Testing using Cypress.io](https://dev.to/codingcatdev/36-effective-testing-using-cypressio-35l2)
+- [Dev.to/JS] [How to create animated hamburger](https://dev.to/diorla/how-to-create-animated-hamburger-3760)
+- [Dev.to/JS] [✨2023#7: AIcommits: Create Git Commit Messages With AI](https://dev.to/jstoolsweekly/20237-aicommits-create-git-commit-messages-with-ai-4253)
+- [Dev.to/JS] [🔥2023#7: Craft prompts for LLMs by Prompt Engine](https://dev.to/jstoolsweekly/20237-craft-prompts-for-llms-by-prompt-engine-45m8)
+- [Lifehacker] [11 Types of Wheat Flour &lpar;and How to Use Them&rpar;](https://lifehacker.com/11-types-of-wheat-flour-and-how-to-use-them-1850145368)
+- [Dev.to/JS] [⭐2023#7: Remix v1.13 with Built-in Tailwind, PostCSS Support](https://dev.to/jstoolsweekly/20237-remix-v113-with-built-in-tailwind-postcss-support-3861)
+- [Dev.to/JS] [Destructuring arrays and objects](https://dev.to/nikolasbarwicki/destructuring-arrays-and-objects-50im)
 - [Lifehacker] [How to Uninstall Multiple Windows Apps at Once](https://lifehacker.com/how-to-uninstall-multiple-windows-apps-at-once-1850145087)
 - [Dev.to/JS] [Zerando o Hacker Rank: Fazendo a escadinha com TypeScript](https://dev.to/trinitypath/zerando-o-hacker-rank-fazendo-a-escadinha-com-typescript-484m)
 - [Dev.to/JS] [Learn the Basics of RegEx in JavaScript](https://dev.to/thedevdrawer/learn-the-basics-of-regex-in-javascript-4kdh)
@@ -32,14 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dalle](https://dev.to/megdiv/dalle-14ca)
 - [Dev.to/JS] [Authentication with Supabase](https://dev.to/guillaumeduhan/authentication-with-supabase-3i71)
 - [Dev.to/JS] [Mastering JavaScript Interviews: 5 Common Questions and Answers](https://dev.to/kosoko_daniel/mastering-javascript-interviews-5-common-questions-and-answers-10hc)
-- [Dev.to/JS] [Ecommerce with Stripe: A How to guide](https://dev.to/justinakingsley/ecommerce-with-stripe-a-how-to-guide-68g)
-- [Dev.to/JS] [My ATLP journey.](https://dev.to/rukundokevin/my-atlp-journey-58o7)
 - [Lifehacker] [This Recalled Starbucks Drink Might Have Glass In It](https://lifehacker.com/this-recalled-starbucks-drink-might-have-glass-in-it-1850142368)
-- [Dev.to/JS] [I Coded a Website with 60k+ Daily Visitors Using ChatGPT](https://dev.to/alaster/i-coded-a-website-with-60k-daily-visitors-using-chatgpt-dmh)
-- [Dev.to/JS] [Desestructurar objetos en JavaScript](https://dev.to/asjordi/desestructurar-objetos-en-javascript-22h4)
 - [Lifehacker] [12 Surprising Things You Should Keep in Your Kitchen](https://lifehacker.com/12-surprising-things-you-should-keep-in-your-kitchen-1850142898)
-- [Dev.to/JS] [Ref vs. Reactive — Which is Best?](https://dev.to/michaelthiessen/ref-vs-reactive-which-is-best-1ik4)
-- [Dev.to/JS] [Creating a Multilingual Registration Form with Vuejs, Vee-validate, and Vue-i18n.](https://dev.to/andrewzach/creating-a-multilingual-registration-form-with-vuejs-vee-validate-and-vue-i18n-c07)
 - [Lifehacker] [23 Video Games You Can Beat In Under Seven Hours](https://lifehacker.com/23-video-games-you-can-beat-in-under-seven-hours-1850142322)
 - [Lifehacker] [Now You Can &#39;Subscribe&#39; to a Car Instead of Buying or Leasing One](https://lifehacker.com/now-you-can-subscribe-to-a-car-instead-of-buying-or-lea-1850141985)
 - [Lifehacker] [Blend Blue Cheese and Ranch Dressing for a Better Wing or Wedge Experience](https://lifehacker.com/blend-blue-cheese-and-ranch-dressing-for-a-better-wing-1850141836)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It&#39;s Illegal to Be a &#39;Money Mule,&#39; Whether You Know It or Not](https://lifehacker.com/its-illegal-to-be-a-money-mule-whether-you-know-it-or-1850130680)
 - [Lifehacker] [How to Write Résumé and Cover Letter Templates That Don’t Suck](https://lifehacker.com/how-to-write-resume-and-cover-letter-templates-that-don-1850136829)
 - [Lifehacker] [I Asked ChatGPT for Workout Suggestions and Wow, They Sucked](https://lifehacker.com/i-asked-chatgpt-for-workout-suggestions-and-wow-they-s-1850123377)
-- [Lifehacker] [These Salt-Crusted Potatoes Are a Salt Fiend&#39;s Dream](https://lifehacker.com/these-salt-crusted-potatoes-are-a-salt-fiends-dream-1850138338)
-- [Lifehacker] [Let Your Kid Struggle Through Video Games, Already](https://lifehacker.com/let-your-kid-struggle-through-video-games-already-1850128116)
-- [Lifehacker] [All the Ways You Can Clean With a Squeegee &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-clean-with-a-squeegee-but-arent-1850129454)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Salt-Crusted Potatoes Are a Salt Fiend&#39;s Dream](https://lifehacker.com/these-salt-crusted-potatoes-are-a-salt-fiends-dream-1850138338)<!-- TECH-POSTS:END -->
 
 ---
 
