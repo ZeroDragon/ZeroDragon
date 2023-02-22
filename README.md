@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering the Mysteries of JavaScript Scopes](https://dev.to/rmmgc/mastering-the-mysteries-of-javascript-scopes-2b3n)
+- [Dev.to/JS] [Coffee Ignite - Fat Loss, Price, Benefits, Uses &amp; Where to Buy?](https://dev.to/coffeeignitein1/coffee-ignite-fat-loss-price-benefits-uses-where-to-buy-3gjd)
+- [Dev.to/JS] [Goodbye Complicated Sharing! - Share Data Across Devices with Share360.tech 🤯](https://dev.to/rajeshj3/goodbye-complicated-sharing-share-data-across-devices-with-share360tech-kfi)
 - [Dev.to/JS] [openGauss is a user-frendly database](https://dev.to/olivia_ma_350e4f6e00893e3/opengauss-is-a-user-frendly-database-2gmk)
 - [Dev.to/JS] [what is openGauss?](https://dev.to/olivia_ma_350e4f6e00893e3/what-is-opengauss-dcd)
 - [Dev.to/JS] [what is openGauss](https://dev.to/olivia_ma_350e4f6e00893e3/what-is-opengauss-356b)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Next.js is the Best Choice for Server-Side Rendering with React](https://dev.to/dayanandgarg/why-nextjs-is-the-best-choice-for-server-side-rendering-with-react-11hk)
 - [Dev.to/JS] [1011. Leetcode Solution in JavaScript](https://dev.to/chiki1601/1011-leetcode-solution-in-javascript-2mk5)
 - [Dev.to/JS] [Lazy Loading images in Vanilla JavaScript: Improving Website Performance](https://dev.to/meshuaibkhalid/lazy-loading-in-vanilla-javascript-improving-website-performance-1856)
-- [Dev.to/JS] [Am I the only person who learned nextjs without their docs?](https://dev.to/sonicx180/am-i-the-only-person-who-learned-nextjs-without-their-docs-2ao9)
-- [Dev.to/JS] [Non Denominational;](https://dev.to/thefinishers/non-denominational-3ilm)
-- [Dev.to/JS] [3.4 - RavenDB with Oren Eini](https://dev.to/codingcatdev/34-ravendb-with-oren-eini-lpl)
 - [Lifehacker] [The Best Authenticator Apps for iPhone and Android](https://lifehacker.com/the-best-authenticator-apps-for-iphone-and-android-1850140802)
 - [Lifehacker] [This Hidden Setting Will Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/this-hidden-setting-will-stop-chrome-from-killing-your-1850141127)
 - [Lifehacker] [The Antisocial Parents&#39; Guide to Avoiding Other Parents](https://lifehacker.com/the-antisocial-parents-guide-to-avoiding-other-parents-1850141488)
