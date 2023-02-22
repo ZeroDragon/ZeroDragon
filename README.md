@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make This Breakfast Cake With Bananas and Oats](https://lifehacker.com/make-this-breakfast-cake-with-bananas-and-oats-1850146730)
+- [Dev.to/JS] [JavaScript Tutorial Series: Math Object](https://dev.to/fullstackjo/javascript-tutorial-series-math-object-2f05)
+- [Dev.to/JS] [Um resumo sobre: filas.](https://dev.to/costamateus7/um-resumo-sobre-fila-25b1)
 - [Lifehacker] [Why You Should Turn Off Auto-Brightness on Your Phone](https://lifehacker.com/why-you-should-turn-off-auto-brightness-on-your-phone-1850145521)
 - [Dev.to/JS] [React.Js, GraphQL and Apollo client](https://dev.to/radualex/reactjs-graphql-and-apollo-client-1ljo)
 - [Lifehacker] [The Easiest Ways to Save Money at the Laundromat](https://lifehacker.com/the-easiest-ways-to-save-money-at-the-laundromat-1850145420)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s new in JavaScript Charting for 2023?](https://dev.to/jscharting/whats-new-in-javascript-charting-for-2023-1edp)
 - [Lifehacker] [What&#39;s New on Netflix in March 2023](https://lifehacker.com/whats-new-on-netflix-in-march-2023-1850145177)
 - [Dev.to/JS] [3.6 - Effective Testing using Cypress.io](https://dev.to/codingcatdev/36-effective-testing-using-cypressio-35l2)
-- [Dev.to/JS] [How to create animated hamburger](https://dev.to/diorla/how-to-create-animated-hamburger-3760)
-- [Dev.to/JS] [✨2023#7: AIcommits: Create Git Commit Messages With AI](https://dev.to/jstoolsweekly/20237-aicommits-create-git-commit-messages-with-ai-4253)
 - [Lifehacker] [11 Types of Wheat Flour &lpar;and How to Use Them&rpar;](https://lifehacker.com/11-types-of-wheat-flour-and-how-to-use-them-1850145368)
 - [Lifehacker] [How to Uninstall Multiple Windows Apps at Once](https://lifehacker.com/how-to-uninstall-multiple-windows-apps-at-once-1850145087)
 - [Lifehacker] [The Best Ways to Clean All Your Sweaty Sports and Exercise Gear](https://lifehacker.com/the-best-ways-to-clean-all-your-sweaty-sports-and-exerc-1850144980)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What It Takes to Quit Gambling](https://lifehacker.com/what-it-takes-to-quit-gambling-1850140295)
 - [Lifehacker] [Why You Should Always Call Before Booking a Hotel Room Online](https://lifehacker.com/why-you-should-always-call-before-booking-a-hotel-room-1850134869)
 - [Lifehacker] [You Can Still Save Your Plants From the Cold](https://lifehacker.com/you-can-still-save-your-plants-from-the-cold-1850135454)
-- [Lifehacker] [Your Next Home Renovation Should Include Magnetic Flooring](https://lifehacker.com/your-next-home-renovation-should-include-magnetic-floor-1850135502)
-- [Lifehacker] [Stop Teaching Kids to Say &#39;Sir&#39; and &#39;Ma&#39;am&#39;](https://lifehacker.com/stop-teaching-kids-to-say-sir-and-maam-1850130701)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Next Home Renovation Should Include Magnetic Flooring](https://lifehacker.com/your-next-home-renovation-should-include-magnetic-floor-1850135502)<!-- TECH-POSTS:END -->
 
 ---
 
