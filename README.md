@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [16 of the Best Backyard Chicken Breeds If You’re About That Life](https://lifehacker.com/16-of-the-best-backyard-chicken-breeds-if-you-re-about-1850145700)
+- [Lifehacker] [You Can Get Refurbished Kindles for As Low As $20 Right Now](https://lifehacker.com/you-can-get-refurbished-kindles-for-as-low-as-20-right-1850145890)
+- [Dev.to/JS] [Next.js 13 - app directory &amp; routing](https://dev.to/oskidev/nextjs-13-app-directory-routing-3lfh)
+- [Dev.to/JS] [AdonisJS Framework Tutorial: build a full-stack web application](https://dev.to/educative/adonisjs-framework-tutorial-build-a-full-stack-web-application-2ool)
+- [Dev.to/JS] [The Power of Next.js: A Comprehensive Guide](https://dev.to/shabh2412/the-power-of-nextjs-a-comprehensive-guide-52d1)
+- [Dev.to/JS] [Loading Images With React/JavaScript](https://dev.to/bytebodger/loading-images-with-reactjavascript-3996)
+- [Dev.to/JS] [What&#39;s new in JavaScript Charting for 2023?](https://dev.to/jscharting/whats-new-in-javascript-charting-for-2023-1edp)
 - [Lifehacker] [What&#39;s New on Netflix in March 2023](https://lifehacker.com/whats-new-on-netflix-in-march-2023-1850145177)
 - [Dev.to/JS] [3.6 - Effective Testing using Cypress.io](https://dev.to/codingcatdev/36-effective-testing-using-cypressio-35l2)
 - [Dev.to/JS] [How to create animated hamburger](https://dev.to/diorla/how-to-create-animated-hamburger-3760)
@@ -33,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Destructuring arrays and objects](https://dev.to/nikolasbarwicki/destructuring-arrays-and-objects-50im)
 - [Lifehacker] [How to Uninstall Multiple Windows Apps at Once](https://lifehacker.com/how-to-uninstall-multiple-windows-apps-at-once-1850145087)
 - [Dev.to/JS] [Zerando o Hacker Rank: Fazendo a escadinha com TypeScript](https://dev.to/trinitypath/zerando-o-hacker-rank-fazendo-a-escadinha-com-typescript-484m)
-- [Dev.to/JS] [Learn the Basics of RegEx in JavaScript](https://dev.to/thedevdrawer/learn-the-basics-of-regex-in-javascript-4kdh)
 - [Lifehacker] [The Best Ways to Clean All Your Sweaty Sports and Exercise Gear](https://lifehacker.com/the-best-ways-to-clean-all-your-sweaty-sports-and-exerc-1850144980)
-- [Dev.to/JS] [What&#39;s New With Lerna 6.5?](https://dev.to/nx/whats-new-with-lerna-65-1ihb)
 - [Lifehacker] [When to See the Last Full Moon of Winter](https://lifehacker.com/when-to-see-the-last-full-moon-of-winter-1850143416)
-- [Dev.to/JS] [Dalle](https://dev.to/megdiv/dalle-14ca)
-- [Dev.to/JS] [Authentication with Supabase](https://dev.to/guillaumeduhan/authentication-with-supabase-3i71)
-- [Dev.to/JS] [Mastering JavaScript Interviews: 5 Common Questions and Answers](https://dev.to/kosoko_daniel/mastering-javascript-interviews-5-common-questions-and-answers-10hc)
 - [Lifehacker] [This Recalled Starbucks Drink Might Have Glass In It](https://lifehacker.com/this-recalled-starbucks-drink-might-have-glass-in-it-1850142368)
 - [Lifehacker] [12 Surprising Things You Should Keep in Your Kitchen](https://lifehacker.com/12-surprising-things-you-should-keep-in-your-kitchen-1850142898)
 - [Lifehacker] [23 Video Games You Can Beat In Under Seven Hours](https://lifehacker.com/23-video-games-you-can-beat-in-under-seven-hours-1850142322)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Next Home Renovation Should Include Magnetic Flooring](https://lifehacker.com/your-next-home-renovation-should-include-magnetic-floor-1850135502)
 - [Lifehacker] [Stop Teaching Kids to Say &#39;Sir&#39; and &#39;Ma&#39;am&#39;](https://lifehacker.com/stop-teaching-kids-to-say-sir-and-maam-1850130701)
 - [Lifehacker] [It&#39;s Illegal to Be a &#39;Money Mule,&#39; Whether You Know It or Not](https://lifehacker.com/its-illegal-to-be-a-money-mule-whether-you-know-it-or-1850130680)
-- [Lifehacker] [How to Write Résumé and Cover Letter Templates That Don’t Suck](https://lifehacker.com/how-to-write-resume-and-cover-letter-templates-that-don-1850136829)
-- [Lifehacker] [I Asked ChatGPT for Workout Suggestions and Wow, They Sucked](https://lifehacker.com/i-asked-chatgpt-for-workout-suggestions-and-wow-they-s-1850123377)
-- [Lifehacker] [These Salt-Crusted Potatoes Are a Salt Fiend&#39;s Dream](https://lifehacker.com/these-salt-crusted-potatoes-are-a-salt-fiends-dream-1850138338)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Write Résumé and Cover Letter Templates That Don’t Suck](https://lifehacker.com/how-to-write-resume-and-cover-letter-templates-that-don-1850136829)<!-- TECH-POSTS:END -->
 
 ---
 
