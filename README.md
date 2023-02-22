@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Now You Can &#39;Subscribe&#39; to a Car Instead of Buying or Leasing One](https://lifehacker.com/now-you-can-subscribe-to-a-car-instead-of-buying-or-lea-1850141985)
+- [Dev.to/JS] [5 Key Points to Keep in Mind When Developing Effective Dashboards](https://dev.to/omerwow/5-key-points-to-keep-in-mind-when-developing-effective-dashboards-1oh2)
+- [Dev.to/JS] [HeadlessUI](https://dev.to/ariellun/headlessui-a-comprehensive-guide-to-building-accessible-and-customizable-ui-components-4l08)
+- [Dev.to/JS] [3.5 - Breaking down Qwik with Shai Reznik](https://dev.to/codingcatdev/35-breaking-down-qwik-with-shai-reznik-565i)
+- [Lifehacker] [Blend Blue Cheese and Ranch Dressing for a Better Wing or Wedge Experience](https://lifehacker.com/blend-blue-cheese-and-ranch-dressing-for-a-better-wing-1850141836)
 - [Lifehacker] [The Powerful One-Liners Every Parent Needs](https://lifehacker.com/the-powerful-one-liners-every-parent-needs-1850141320)
 - [Dev.to/JS] [How to Boost Performance in React Applications](https://dev.to/tuliocalil/how-to-boost-performance-in-react-applications-fke)
 - [Dev.to/JS] [How to create a Browser Extension?](https://dev.to/pacehut/how-to-create-a-browser-extension-5819)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Suppress the warning no-unused-vars](https://dev.to/malekabbes/suppress-the-warning-no-unused-vars-27nl)
 - [Dev.to/JS] [Flip the Bit to Win Puzzle](https://dev.to/danieluhl/flip-the-bit-to-win-puzzle-4dd5)
 - [Dev.to/JS] [Implementing Dark Mode in Next.js with Tailwind CSS and next-themes](https://dev.to/chinmaymhatre/implementing-dark-mode-in-nextjs-with-tailwind-css-and-next-themes-a4e)
-- [Dev.to/JS] [setImmediate&lpar;&rpar; vs setTimeout&lpar;&rpar; in javascript](https://dev.to/himanshudevgupta/setimmediate-vs-settimeout-in-javascript-8ha)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Calculando anos.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-calculando-anos-3m68)
-- [Dev.to/JS] [How to Run Reactjs Build On Server](https://dev.to/himanshudevgupta/how-to-run-reactjs-build-on-server-lgd)
 - [Lifehacker] [The Best Authenticator Apps for iPhone and Android](https://lifehacker.com/the-best-authenticator-apps-for-iphone-and-android-1850140802)
 - [Lifehacker] [This Hidden Setting Will Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/this-hidden-setting-will-stop-chrome-from-killing-your-1850141127)
 - [Lifehacker] [The Antisocial Parents&#39; Guide to Avoiding Other Parents](https://lifehacker.com/the-antisocial-parents-guide-to-avoiding-other-parents-1850141488)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Know the Difference Between a Chargeback and a Refund](https://lifehacker.com/you-should-know-the-difference-between-a-chargeback-and-1850129108)
 - [Lifehacker] [Always Keep a Dried Out Steak in Your Fridge](https://lifehacker.com/always-keep-a-dried-out-steak-in-your-fridge-1850129530)
 - [Lifehacker] [Study Up on Local Sports Before Traveling Abroad](https://lifehacker.com/study-up-on-local-sports-before-traveling-abroad-1850129721)
-- [Lifehacker] [How to Unlearn Your Parents&#39; Bad Money Habits, According to Lifehacker Readers](https://lifehacker.com/how-to-unlearn-your-parents-bad-money-habits-according-1850127795)
-- [Lifehacker] [Four Reasons Your Cat Keeps Peeing Outside Their Litter Box](https://lifehacker.com/four-reasons-your-cat-keeps-peeing-outside-their-litter-1850125397)
-- [Lifehacker] [You Can DIY Your Own Stunning Coffered Ceilings](https://lifehacker.com/you-can-diy-your-own-stunning-coffered-ceilings-1850129947)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Unlearn Your Parents&#39; Bad Money Habits, According to Lifehacker Readers](https://lifehacker.com/how-to-unlearn-your-parents-bad-money-habits-according-1850127795)<!-- TECH-POSTS:END -->
 
 ---
 
