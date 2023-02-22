@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use Vinegar and Lemon Juice for a Better Vinaigrette](https://lifehacker.com/use-vinegar-and-lemon-juice-for-a-better-vinaigrette-1850146738)
+- [Dev.to/JS] [The Psychology of Debugging your code like a Pro](https://dev.to/boluaduloju/the-psychology-of-debugging-your-code-like-a-pro-3m2l)
+- [Lifehacker] [Why Mornings Are Almost Always the Best Time to Fly](https://lifehacker.com/why-mornings-are-almost-always-the-best-time-to-fly-1850146816)
 - [Lifehacker] [Make This Breakfast Cake With Bananas and Oats](https://lifehacker.com/make-this-breakfast-cake-with-bananas-and-oats-1850146730)
 - [Dev.to/JS] [JavaScript Tutorial Series: Math Object](https://dev.to/fullstackjo/javascript-tutorial-series-math-object-2f05)
 - [Dev.to/JS] [Um resumo sobre: filas.](https://dev.to/costamateus7/um-resumo-sobre-fila-25b1)
@@ -40,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Loading Images With React/JavaScript](https://dev.to/bytebodger/loading-images-with-reactjavascript-3996)
 - [Dev.to/JS] [What&#39;s new in JavaScript Charting for 2023?](https://dev.to/jscharting/whats-new-in-javascript-charting-for-2023-1edp)
 - [Lifehacker] [What&#39;s New on Netflix in March 2023](https://lifehacker.com/whats-new-on-netflix-in-march-2023-1850145177)
-- [Dev.to/JS] [3.6 - Effective Testing using Cypress.io](https://dev.to/codingcatdev/36-effective-testing-using-cypressio-35l2)
 - [Lifehacker] [11 Types of Wheat Flour &lpar;and How to Use Them&rpar;](https://lifehacker.com/11-types-of-wheat-flour-and-how-to-use-them-1850145368)
 - [Lifehacker] [How to Uninstall Multiple Windows Apps at Once](https://lifehacker.com/how-to-uninstall-multiple-windows-apps-at-once-1850145087)
 - [Lifehacker] [The Best Ways to Clean All Your Sweaty Sports and Exercise Gear](https://lifehacker.com/the-best-ways-to-clean-all-your-sweaty-sports-and-exerc-1850144980)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Feed Your Baby This Recalled Enfamil Formula](https://lifehacker.com/don-t-feed-your-baby-this-recalled-enfamil-formula-1850140598)
 - [Lifehacker] [You Shouldn’t Use Your Phone Number for Two-Factor Authentication, Anyway](https://lifehacker.com/you-shouldn-t-use-your-phone-number-for-two-factor-auth-1850139776)
 - [Lifehacker] [What It Takes to Quit Gambling](https://lifehacker.com/what-it-takes-to-quit-gambling-1850140295)
-- [Lifehacker] [Why You Should Always Call Before Booking a Hotel Room Online](https://lifehacker.com/why-you-should-always-call-before-booking-a-hotel-room-1850134869)
-- [Lifehacker] [You Can Still Save Your Plants From the Cold](https://lifehacker.com/you-can-still-save-your-plants-from-the-cold-1850135454)
-- [Lifehacker] [Your Next Home Renovation Should Include Magnetic Flooring](https://lifehacker.com/your-next-home-renovation-should-include-magnetic-floor-1850135502)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Always Call Before Booking a Hotel Room Online](https://lifehacker.com/why-you-should-always-call-before-booking-a-hotel-room-1850134869)<!-- TECH-POSTS:END -->
 
 ---
 
