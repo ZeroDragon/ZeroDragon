@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Non Denominational;](https://dev.to/thefinishers/non-denominational-3ilm)
 - [Dev.to/JS] [3.4 - RavenDB with Oren Eini](https://dev.to/codingcatdev/34-ravendb-with-oren-eini-lpl)
 - [Dev.to/JS] [Domain Notification em NodeJS 🚀](https://dev.to/jhonesgoncalves/domain-notification-em-nodejs-35mk)
 - [Dev.to/JS] [3.3 - Tea CLI tea.xyz](https://dev.to/codingcatdev/33-tea-cli-teaxyz-3akf)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Hidden Setting Will Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/this-hidden-setting-will-stop-chrome-from-killing-your-1850141127)
 - [Dev.to/JS] [Understanding DOM Nodes: A Comprehensive Guide with Example](https://dev.to/sidramaqbool/understanding-dom-nodes-a-comprehensive-guide-with-example-22m5)
 - [Lifehacker] [The Antisocial Parents&#39; Guide to Avoiding Other Parents](https://lifehacker.com/the-antisocial-parents-guide-to-avoiding-other-parents-1850141488)
-- [Dev.to/JS] [Get Instant Error Solutions with GPT](https://dev.to/musabshakil/get-instant-error-solutions-with-gpt-42cc)
 - [Lifehacker] [Your Guide to Getting a Car Unstuck in the Snow](https://lifehacker.com/your-guide-to-getting-a-car-unstuck-in-the-snow-1850141388)
 - [Lifehacker] [You Should Melt Brie Into Your Spicy Instant Ramen](https://lifehacker.com/you-should-melt-brie-into-your-spicy-instant-ramen-1850141210)
 - [Lifehacker] [Help Your Teenager Start Building Good Credit Before They’re an Adult](https://lifehacker.com/help-your-teenager-start-building-good-credit-before-th-1850139758)
