@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The 10 most common mistakes in frontend development and how to avoid them](https://dev.to/haszankauna/the-10-most-common-mistakes-in-frontend-development-and-how-to-avoid-them-2e31)
+- [Dev.to/JS] [Validation With Joi in nodejs](https://dev.to/himanshudevgupta/validation-with-joi-in-nodejs-585a)
+- [Dev.to/JS] [7 Best Practices for Keeping a React Project Clean and Efficient](https://dev.to/tyaga001/7-best-practices-for-keeping-a-react-project-clean-and-efficient-1ee3)
+- [Dev.to/JS] [Improving image performance on the web.](https://dev.to/seven/improving-image-performance-on-the-web-4lbf)
+- [Dev.to/JS] [Monitoring the Progress of an HTTP Request in NestJS via WebSockets.](https://dev.to/valorsoftware/monitoring-the-progress-of-an-http-request-in-nestjs-via-websockets-12o7)
 - [Dev.to/JS] [WITH Technology](https://dev.to/clara_lpez_4efd905797b4a/with-technology-56bl)
 - [Dev.to/JS] [Find and Delete Duplicate Files With In Google Drive With Google Apps Script](https://dev.to/kcl/find-and-delete-duplicate-files-with-in-google-drive-with-google-apps-script-2pj1)
 - [Dev.to/JS] [So, I developed an instant messaging app with E2EE](https://dev.to/jw1dev/so-i-developed-an-instant-messaging-app-with-e2ee-45go)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Typescript Fundamentals Part 1:](https://dev.to/jamesoyanna/typescript-fundamentals-part-1-12ep)
 - [Dev.to/JS] [How can I write it out? B2B API](https://dev.to/leves96/how-can-i-write-it-out-b2b-api-2i2d)
 - [Dev.to/JS] [How to Hire React Developers with Experience in Machine Learning](https://dev.to/monu181/how-to-hire-react-developers-with-experience-in-machine-learning-4pdk)
-- [Dev.to/JS] [Mastering the Mysteries of JavaScript Scopes](https://dev.to/rmmgc/mastering-the-mysteries-of-javascript-scopes-2b3n)
-- [Dev.to/JS] [Coffee Ignite - Fat Loss, Price, Benefits, Uses &amp; Where to Buy?](https://dev.to/coffeeignitein1/coffee-ignite-fat-loss-price-benefits-uses-where-to-buy-3gjd)
-- [Dev.to/JS] [Goodbye Complicated Sharing! - Share Data Across Devices with Share360.tech 🤯](https://dev.to/rajeshj3/goodbye-complicated-sharing-share-data-across-devices-with-share360tech-kfi)
-- [Dev.to/JS] [openGauss is a user-frendly database](https://dev.to/olivia_ma_350e4f6e00893e3/opengauss-is-a-user-frendly-database-2gmk)
-- [Dev.to/JS] [what is openGauss?](https://dev.to/olivia_ma_350e4f6e00893e3/what-is-opengauss-dcd)
 - [Lifehacker] [The Best Authenticator Apps for iPhone and Android](https://lifehacker.com/the-best-authenticator-apps-for-iphone-and-android-1850140802)
 - [Lifehacker] [This Hidden Setting Will Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/this-hidden-setting-will-stop-chrome-from-killing-your-1850141127)
 - [Lifehacker] [The Antisocial Parents&#39; Guide to Avoiding Other Parents](https://lifehacker.com/the-antisocial-parents-guide-to-avoiding-other-parents-1850141488)
