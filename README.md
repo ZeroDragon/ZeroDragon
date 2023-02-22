@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [openGauss is a user-frendly database](https://dev.to/olivia_ma_350e4f6e00893e3/opengauss-is-a-user-frendly-database-2gmk)
+- [Dev.to/JS] [what is openGauss?](https://dev.to/olivia_ma_350e4f6e00893e3/what-is-opengauss-dcd)
+- [Dev.to/JS] [what is openGauss](https://dev.to/olivia_ma_350e4f6e00893e3/what-is-opengauss-356b)
+- [Dev.to/JS] [Converting Real-World Colors to a Digital Format](https://dev.to/bytebodger/converting-real-world-colors-to-a-digital-format-433c)
 - [Dev.to/JS] [The Difference Between Types &lpar;Type Aliases&rpar; And Interfaces in TypeScript](https://dev.to/andrewsavetchuk/the-difference-between-types-type-aliases-and-interfaces-in-typescript-49a4)
 - [Dev.to/JS] [Using the HTML Geolocation API to display a users location on a map](https://dev.to/michaelburrows/using-the-html-geolocation-api-to-display-a-users-location-on-a-map-bi8)
 - [Dev.to/JS] [Why Next.js is the Best Choice for Server-Side Rendering with React](https://dev.to/dayanandgarg/why-nextjs-is-the-best-choice-for-server-side-rendering-with-react-11hk)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Am I the only person who learned nextjs without their docs?](https://dev.to/sonicx180/am-i-the-only-person-who-learned-nextjs-without-their-docs-2ao9)
 - [Dev.to/JS] [Non Denominational;](https://dev.to/thefinishers/non-denominational-3ilm)
 - [Dev.to/JS] [3.4 - RavenDB with Oren Eini](https://dev.to/codingcatdev/34-ravendb-with-oren-eini-lpl)
-- [Dev.to/JS] [Domain Notification em NodeJS 🚀](https://dev.to/jhonesgoncalves/domain-notification-em-nodejs-35mk)
-- [Dev.to/JS] [3.3 - Tea CLI tea.xyz](https://dev.to/codingcatdev/33-tea-cli-teaxyz-3akf)
-- [Dev.to/JS] [Trending JavaScript repos of the week 📈](https://dev.to/quine/trending-javascript-repos-of-the-week-1fo4)
-- [Dev.to/JS] [Beginner API project with Node.js](https://dev.to/blueycode/beginner-api-project-with-nodejs-2944)
 - [Lifehacker] [The Best Authenticator Apps for iPhone and Android](https://lifehacker.com/the-best-authenticator-apps-for-iphone-and-android-1850140802)
 - [Lifehacker] [This Hidden Setting Will Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/this-hidden-setting-will-stop-chrome-from-killing-your-1850141127)
 - [Lifehacker] [The Antisocial Parents&#39; Guide to Avoiding Other Parents](https://lifehacker.com/the-antisocial-parents-guide-to-avoiding-other-parents-1850141488)
