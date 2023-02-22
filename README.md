@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Difference Between Types &lpar;Type Aliases&rpar; And Interfaces in TypeScript](https://dev.to/andrewsavetchuk/the-difference-between-types-type-aliases-and-interfaces-in-typescript-49a4)
+- [Dev.to/JS] [Using the HTML Geolocation API to display a users location on a map](https://dev.to/michaelburrows/using-the-html-geolocation-api-to-display-a-users-location-on-a-map-bi8)
+- [Dev.to/JS] [Why Next.js is the Best Choice for Server-Side Rendering with React](https://dev.to/dayanandgarg/why-nextjs-is-the-best-choice-for-server-side-rendering-with-react-11hk)
 - [Dev.to/JS] [1011. Leetcode Solution in JavaScript](https://dev.to/chiki1601/1011-leetcode-solution-in-javascript-2mk5)
 - [Dev.to/JS] [Lazy Loading images in Vanilla JavaScript: Improving Website Performance](https://dev.to/meshuaibkhalid/lazy-loading-in-vanilla-javascript-improving-website-performance-1856)
 - [Dev.to/JS] [Am I the only person who learned nextjs without their docs?](https://dev.to/sonicx180/am-i-the-only-person-who-learned-nextjs-without-their-docs-2ao9)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3.3 - Tea CLI tea.xyz](https://dev.to/codingcatdev/33-tea-cli-teaxyz-3akf)
 - [Dev.to/JS] [Trending JavaScript repos of the week 📈](https://dev.to/quine/trending-javascript-repos-of-the-week-1fo4)
 - [Dev.to/JS] [Beginner API project with Node.js](https://dev.to/blueycode/beginner-api-project-with-nodejs-2944)
-- [Dev.to/JS] [Understanding React hooks](https://dev.to/asayerio_techblog/understanding-react-hooks-p5m)
-- [Dev.to/JS] [Help, my app is overreacting!](https://dev.to/anjanavakil/help-my-app-is-overreacting-b9c)
-- [Dev.to/JS] [How to implement LinkedList in JavaScript](https://dev.to/justartem/how-to-implement-linkedlist-in-javascript-pp1)
 - [Lifehacker] [The Best Authenticator Apps for iPhone and Android](https://lifehacker.com/the-best-authenticator-apps-for-iphone-and-android-1850140802)
 - [Lifehacker] [This Hidden Setting Will Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/this-hidden-setting-will-stop-chrome-from-killing-your-1850141127)
 - [Lifehacker] [The Antisocial Parents&#39; Guide to Avoiding Other Parents](https://lifehacker.com/the-antisocial-parents-guide-to-avoiding-other-parents-1850141488)
