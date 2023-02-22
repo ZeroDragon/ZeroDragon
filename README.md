@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Homegrown CSV Importer vs nuvo Importer – Is a pre-built data import library worth the investment?](https://dev.to/getnuvo/homegrown-csv-importer-vs-nuvo-importer-is-a-pre-built-data-import-library-worth-the-investment-4jle)
+- [Dev.to/JS] [Suppress the warning no-unused-vars](https://dev.to/malekabbes/suppress-the-warning-no-unused-vars-27nl)
+- [Dev.to/JS] [Flip the Bit to Win Puzzle](https://dev.to/danieluhl/flip-the-bit-to-win-puzzle-4dd5)
+- [Dev.to/JS] [Implementing Dark Mode in Next.js with Tailwind CSS and next-themes](https://dev.to/chinmaymhatre/implementing-dark-mode-in-nextjs-with-tailwind-css-and-next-themes-a4e)
 - [Dev.to/JS] [setImmediate&lpar;&rpar; vs setTimeout&lpar;&rpar; in javascript](https://dev.to/himanshudevgupta/setimmediate-vs-settimeout-in-javascript-8ha)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Calculando anos.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-calculando-anos-3m68)
 - [Dev.to/JS] [How to Run Reactjs Build On Server](https://dev.to/himanshudevgupta/how-to-run-reactjs-build-on-server-lgd)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Manipulating the DOM with React Ref](https://dev.to/helderberto/manipulating-the-dom-with-react-ref-2a5f)
 - [Dev.to/JS] [The 10 most common mistakes in frontend development and how to avoid them](https://dev.to/haszankauna/the-10-most-common-mistakes-in-frontend-development-and-how-to-avoid-them-2e31)
 - [Dev.to/JS] [Validation With Joi in nodejs](https://dev.to/himanshudevgupta/validation-with-joi-in-nodejs-585a)
-- [Dev.to/JS] [7 Best Practices for Keeping a React Project Clean and Efficient](https://dev.to/tyaga001/7-best-practices-for-keeping-a-react-project-clean-and-efficient-1ee3)
-- [Dev.to/JS] [Improving image performance on the web.](https://dev.to/seven/improving-image-performance-on-the-web-4lbf)
-- [Dev.to/JS] [Monitoring the Progress of an HTTP Request in NestJS via WebSockets.](https://dev.to/valorsoftware/monitoring-the-progress-of-an-http-request-in-nestjs-via-websockets-12o7)
-- [Dev.to/JS] [WITH Technology](https://dev.to/clara_lpez_4efd905797b4a/with-technology-56bl)
 - [Lifehacker] [The Best Authenticator Apps for iPhone and Android](https://lifehacker.com/the-best-authenticator-apps-for-iphone-and-android-1850140802)
 - [Lifehacker] [This Hidden Setting Will Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/this-hidden-setting-will-stop-chrome-from-killing-your-1850141127)
 - [Lifehacker] [The Antisocial Parents&#39; Guide to Avoiding Other Parents](https://lifehacker.com/the-antisocial-parents-guide-to-avoiding-other-parents-1850141488)
