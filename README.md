@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3.4 - RavenDB with Oren Eini](https://dev.to/codingcatdev/34-ravendb-with-oren-eini-lpl)
 - [Dev.to/JS] [Domain Notification em NodeJS 🚀](https://dev.to/jhonesgoncalves/domain-notification-em-nodejs-35mk)
 - [Dev.to/JS] [3.3 - Tea CLI tea.xyz](https://dev.to/codingcatdev/33-tea-cli-teaxyz-3akf)
 - [Dev.to/JS] [Trending JavaScript repos of the week 📈](https://dev.to/quine/trending-javascript-repos-of-the-week-1fo4)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding DOM Nodes: A Comprehensive Guide with Example](https://dev.to/sidramaqbool/understanding-dom-nodes-a-comprehensive-guide-with-example-22m5)
 - [Lifehacker] [The Antisocial Parents&#39; Guide to Avoiding Other Parents](https://lifehacker.com/the-antisocial-parents-guide-to-avoiding-other-parents-1850141488)
 - [Dev.to/JS] [Get Instant Error Solutions with GPT](https://dev.to/musabshakil/get-instant-error-solutions-with-gpt-42cc)
-- [Dev.to/JS] [☠️ What is the Temporal Dead Zone in JavaScript?](https://dev.to/catherineisonline/what-is-the-temporal-dead-zone-in-javascript-348g)
 - [Lifehacker] [Your Guide to Getting a Car Unstuck in the Snow](https://lifehacker.com/your-guide-to-getting-a-car-unstuck-in-the-snow-1850141388)
 - [Lifehacker] [You Should Melt Brie Into Your Spicy Instant Ramen](https://lifehacker.com/you-should-melt-brie-into-your-spicy-instant-ramen-1850141210)
 - [Lifehacker] [Help Your Teenager Start Building Good Credit Before They’re an Adult](https://lifehacker.com/help-your-teenager-start-building-good-credit-before-th-1850139758)
