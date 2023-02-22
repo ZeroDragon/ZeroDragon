@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WITH Technology](https://dev.to/clara_lpez_4efd905797b4a/with-technology-56bl)
+- [Dev.to/JS] [Find and Delete Duplicate Files With In Google Drive With Google Apps Script](https://dev.to/kcl/find-and-delete-duplicate-files-with-in-google-drive-with-google-apps-script-2pj1)
+- [Dev.to/JS] [So, I developed an instant messaging app with E2EE](https://dev.to/jw1dev/so-i-developed-an-instant-messaging-app-with-e2ee-45go)
+- [Dev.to/JS] [Top 10 React Courses for Beginners to Advanced Developers](https://dev.to/surinder_rawat/top-10-react-courses-for-beginners-to-advanced-developers-3g47)
+- [Dev.to/JS] [Typescript Fundamentals Part 1:](https://dev.to/jamesoyanna/typescript-fundamentals-part-1-12ep)
 - [Dev.to/JS] [How can I write it out? B2B API](https://dev.to/leves96/how-can-i-write-it-out-b2b-api-2i2d)
 - [Dev.to/JS] [How to Hire React Developers with Experience in Machine Learning](https://dev.to/monu181/how-to-hire-react-developers-with-experience-in-machine-learning-4pdk)
 - [Dev.to/JS] [Mastering the Mysteries of JavaScript Scopes](https://dev.to/rmmgc/mastering-the-mysteries-of-javascript-scopes-2b3n)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Goodbye Complicated Sharing! - Share Data Across Devices with Share360.tech 🤯](https://dev.to/rajeshj3/goodbye-complicated-sharing-share-data-across-devices-with-share360tech-kfi)
 - [Dev.to/JS] [openGauss is a user-frendly database](https://dev.to/olivia_ma_350e4f6e00893e3/opengauss-is-a-user-frendly-database-2gmk)
 - [Dev.to/JS] [what is openGauss?](https://dev.to/olivia_ma_350e4f6e00893e3/what-is-opengauss-dcd)
-- [Dev.to/JS] [what is openGauss](https://dev.to/olivia_ma_350e4f6e00893e3/what-is-opengauss-356b)
-- [Dev.to/JS] [Converting Real-World Colors to a Digital Format](https://dev.to/bytebodger/converting-real-world-colors-to-a-digital-format-433c)
-- [Dev.to/JS] [The Difference Between Types &lpar;Type Aliases&rpar; And Interfaces in TypeScript](https://dev.to/andrewsavetchuk/the-difference-between-types-type-aliases-and-interfaces-in-typescript-49a4)
-- [Dev.to/JS] [Using the HTML Geolocation API to display a users location on a map](https://dev.to/michaelburrows/using-the-html-geolocation-api-to-display-a-users-location-on-a-map-bi8)
-- [Dev.to/JS] [Why Next.js is the Best Choice for Server-Side Rendering with React](https://dev.to/dayanandgarg/why-nextjs-is-the-best-choice-for-server-side-rendering-with-react-11hk)
 - [Lifehacker] [The Best Authenticator Apps for iPhone and Android](https://lifehacker.com/the-best-authenticator-apps-for-iphone-and-android-1850140802)
 - [Lifehacker] [This Hidden Setting Will Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/this-hidden-setting-will-stop-chrome-from-killing-your-1850141127)
 - [Lifehacker] [The Antisocial Parents&#39; Guide to Avoiding Other Parents](https://lifehacker.com/the-antisocial-parents-guide-to-avoiding-other-parents-1850141488)
