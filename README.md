@@ -23,12 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Clean Your Oven Without Scrubbing a Thing](https://lifehacker.com/you-can-clean-your-oven-without-scrubbing-a-thing-1850151228)
+- [Dev.to/JS] [7 best ReactJS developer tools to simplify your workflow](https://dev.to/ayoubkhan558/7-best-reactjs-developer-tools-to-simplify-your-workflow-5fec)
+- [Lifehacker] [Blast Your Toaster With a Hair Dryer](https://lifehacker.com/blast-your-toaster-with-a-hair-dryer-1850150896)
 - [Lifehacker] [Get a Month of Xbox Game Pass Ultimate for $2.79 Right Now](https://lifehacker.com/get-a-month-of-xbox-game-pass-ultimate-for-2-79-right-1850150753)
 - [Lifehacker] [Here’s What Every Line of Your Paycheck Actually Means](https://lifehacker.com/here-s-what-every-line-of-your-paycheck-actually-means-1850150177)
 - [Dev.to/JS] [Introduction to Bash Shell Scripting for Frontend Developers](https://dev.to/danywalls/introduction-to-bash-shell-scripting-for-frontend-developers-o3d)
 - [Dev.to/JS] [JavaScript Tutorial Series: Date Object](https://dev.to/fullstackjo/javascript-tutorial-series-date-object-gb5)
 - [Dev.to/JS] [I Don&#39;t Need a State Manager in Angular, or am I just delaying his arrival?](https://dev.to/danywalls/i-dont-need-a-state-manager-in-angular-or-am-i-just-delaying-his-arrival-1d3l)
-- [Dev.to/JS] [Getting started with React](https://dev.to/marvel_at_don/getting-started-with-react-j5a)
+- [Dev.to/JS] [Getting Started With React](https://dev.to/marvel_at_don/getting-started-with-react-j5a)
 - [Dev.to/JS] [Lightning-Fast Portfolio Site in Just 3 Hours](https://dev.to/seeratawan01/lightning-fast-portfolio-site-in-just-3-hours-h0e)
 - [Lifehacker] [&#39;Marathon&#39; Is Letterboxd for TV Shows](https://lifehacker.com/marathon-is-letterboxd-for-tv-shows-1850149703)
 - [Dev.to/JS] [Thcs hiệp hòa - Bách khoa toàn thư](https://dev.to/thcshiephoa/thcs-hiep-hoa-bach-khoa-toan-thu-36c1)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Take Your JavaScript Skills to the Next Level: 10 Beginner-Friendly Code Challenges](https://dev.to/sidramaqbool/take-your-javascript-skills-to-the-next-level-10-beginner-friendly-code-challenges-24bg)
 - [Dev.to/JS] [A Guide to the Temporal API in JavaScript](https://dev.to/get_pieces/a-guide-to-the-temporal-api-in-javascript-5m4)
 - [Lifehacker] [‘Butterfly’ Your Meat for Quicker, More Even Cooking](https://lifehacker.com/butterfly-your-meat-for-quicker-more-even-cooking-1850149845)
-- [Dev.to/JS] [Achieving 1K Followers on dev.to: My Journey to Success](https://dev.to/varshithvhegde/achieving-1k-followers-on-devto-my-journey-to-success-201n)
 - [Lifehacker] [Use the ‘IDK? Decision Maker’ App to Help You Make Better Decisions](https://lifehacker.com/use-the-idk-decision-maker-app-to-help-you-make-bett-1850149587)
 - [Lifehacker] [‘Underreaction’ Is Your Best Parenting Tool](https://lifehacker.com/underreaction-is-your-best-parenting-tool-1850149458)
 - [Lifehacker] [These Numbers Will Convince Your Teen to Start Saving for Retirement](https://lifehacker.com/these-numbers-will-convince-your-teen-to-start-saving-f-1850144908)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to See the Last Full Moon of Winter](https://lifehacker.com/when-to-see-the-last-full-moon-of-winter-1850143416)
 - [Lifehacker] [This Recalled Starbucks Drink Might Have Glass In It](https://lifehacker.com/this-recalled-starbucks-drink-might-have-glass-in-it-1850142368)
 - [Lifehacker] [12 Surprising Things You Should Keep in Your Kitchen](https://lifehacker.com/12-surprising-things-you-should-keep-in-your-kitchen-1850142898)
-- [Lifehacker] [23 Video Games You Can Beat In Under Seven Hours](https://lifehacker.com/23-video-games-you-can-beat-in-under-seven-hours-1850142322)
-- [Lifehacker] [Now You Can &#39;Subscribe&#39; to a Car Instead of Buying or Leasing One](https://lifehacker.com/now-you-can-subscribe-to-a-car-instead-of-buying-or-lea-1850141985)
-- [Lifehacker] [Blend Blue Cheese and Ranch Dressing for a Better Wing or Wedge Experience](https://lifehacker.com/blend-blue-cheese-and-ranch-dressing-for-a-better-wing-1850141836)<!-- TECH-POSTS:END -->
+- [Lifehacker] [23 Video Games You Can Beat In Under Seven Hours](https://lifehacker.com/23-video-games-you-can-beat-in-under-seven-hours-1850142322)<!-- TECH-POSTS:END -->
 
 ---
 
