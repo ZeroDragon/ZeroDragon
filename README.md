@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How do I make an HTTP request in Javascript?](https://dev.to/goutamn99/how-do-i-make-an-http-request-in-javascript-m2o)
 - [Dev.to/JS] [Technology](https://dev.to/2dwa11/technology-3f93)
 - [Dev.to/JS] [Nước hoa nam KenPerfume](https://dev.to/nuoc_hoa_nam/nuoc-hoa-nam-kenperfume-3bie)
 - [Dev.to/JS] [Javascript structuredClone](https://dev.to/mrh0200/javascript-structuredclone-3e3i)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Tutorial Series: Math Object](https://dev.to/fullstackjo/javascript-tutorial-series-math-object-2f05)
 - [Dev.to/JS] [Um resumo sobre: filas.](https://dev.to/costamateus7/um-resumo-sobre-fila-25b1)
 - [Lifehacker] [Why You Should Turn Off Auto-Brightness on Your Phone](https://lifehacker.com/why-you-should-turn-off-auto-brightness-on-your-phone-1850145521)
-- [Dev.to/JS] [React.Js, GraphQL and Apollo client](https://dev.to/radualex/reactjs-graphql-and-apollo-client-1ljo)
 - [Lifehacker] [The Easiest Ways to Save Money at the Laundromat](https://lifehacker.com/the-easiest-ways-to-save-money-at-the-laundromat-1850145420)
 - [Lifehacker] [16 of the Best Backyard Chicken Breeds If You’re About That Life](https://lifehacker.com/16-of-the-best-backyard-chicken-breeds-if-you-re-about-1850145700)
 - [Lifehacker] [You Can Get Refurbished Kindles for As Low As $20 Right Now](https://lifehacker.com/you-can-get-refurbished-kindles-for-as-low-as-20-right-1850145890)
