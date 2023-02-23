@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [how to make loder for website with html, css and javascript](https://dev.to/programwithram/how-to-make-loder-for-website-with-html-css-and-javascript-i08)
+- [Dev.to/JS] [Unleashing the Full Potential of JavaScript: Exploring Its Overlooked Features](https://dev.to/canopassoftware/unleashing-the-full-potential-of-javascript-exploring-its-overlooked-features-292e)
+- [Dev.to/JS] [Read All Files of Directory and Subdirectories with Recursive Generators in JavaScript](https://dev.to/zirkelc/read-all-files-of-directory-and-subdirectories-with-recursive-generators-in-javascript-2pbd)
+- [Dev.to/JS] [ES6 Features Part-1](https://dev.to/amansingh/es6-features-part-1-1ajk)
+- [Dev.to/JS] [Howto migrate from Webpacker to jsbundling-rails in Ruby on Rails](https://dev.to/fa11enangel/howto-migrate-from-webpacker-to-jsbundling-rails-in-ruby-on-rails-3gef)
+- [Dev.to/JS] [The bridge design pattern in Javascript](https://dev.to/jukilo/the-bridge-design-pattern-in-javascript-59io)
 - [Dev.to/JS] [Highlight Text in React Native [but with a twist]](https://dev.to/royged/highlight-text-in-react-native-but-with-a-twist-2nic)
 - [Dev.to/JS] [Navigating lock files: best practices and tips](https://dev.to/torp_martin/navigating-lock-files-best-practices-and-tips-5f44)
 - [Dev.to/JS] [7 Essential React Libraries for Front-End Web Development](https://dev.to/surajondev/7-essential-react-libraries-for-front-end-web-development-23el)
@@ -30,12 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [All About ES6 &amp; Why it is so Popular](https://dev.to/amansingh/all-about-es6-why-it-is-so-popular-34b)
 - [Crazy Programmer] [6 Reasons To Learn Programming If You Are Not A Programmer](https://www.thecrazyprogrammer.com/2023/02/6-reasons-to-learn-programming-if-you-are-not-a-programmer.html)
 - [Dev.to/JS] [Web Development Services](https://dev.to/val_davydenko_0bcb236f439/web-development-services-ia2)
-- [Dev.to/JS] [How To Set Up Docker In Nodejs](https://dev.to/davydocsurg/how-to-set-up-docker-in-nodejs-59kb)
-- [Dev.to/JS] [Difference between else if c++ vs else if java vs else if python vs else if c#](https://dev.to/seema/difference-between-else-if-c-vs-else-if-java-vs-else-if-python-vs-else-if-c-onl)
-- [Dev.to/JS] [JavaScript —— Function](https://dev.to/itroger/javascript-function-4k1e)
-- [Dev.to/JS] [Evaluating Vue 3: The state of development in 2023](https://dev.to/audaciasoftware/evaluating-vue-3-the-state-of-development-in-2023-2c5m)
-- [Dev.to/JS] [All about Promises in JavaScript](https://dev.to/codeofrelevancy/all-about-promises-in-javascript-39lj)
-- [Dev.to/JS] [JavaScript —— Object](https://dev.to/itroger/javascript-object-2e81)
 - [Lifehacker] [Use Vinegar and Lemon Juice for a Better Vinaigrette](https://lifehacker.com/use-vinegar-and-lemon-juice-for-a-better-vinaigrette-1850146738)
 - [Lifehacker] [Why Mornings Are Almost Always the Best Time to Fly](https://lifehacker.com/why-mornings-are-almost-always-the-best-time-to-fly-1850146816)
 - [Lifehacker] [Make This Breakfast Cake With Bananas and Oats](https://lifehacker.com/make-this-breakfast-cake-with-bananas-and-oats-1850146730)
