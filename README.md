@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [7 Objects Floating in US Airspace Right Now](https://lifehacker.com/7-objects-floating-in-us-airspace-right-now-1850151473)
+- [Dev.to/JS] [Redesigning an app from the ground up](https://dev.to/seymourisdead/redesigning-an-app-from-the-ground-up-2mfo)
 - [Lifehacker] [You Really Can Use Paint to Make a Room Look Bigger or Smaller](https://lifehacker.com/you-really-can-use-paint-to-make-a-room-look-bigger-or-1850150388)
 - [Dev.to/JS] [Recreating my Portfolio in Next.js](https://dev.to/vulcanwm/recreating-my-portfolio-in-nextjs-1ll7)
 - [Lifehacker] [Use This Free App to Delete Leftover App Files on Your Mac](https://lifehacker.com/use-this-free-app-to-delete-leftover-app-files-on-your-1850150940)
@@ -42,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding the Event Loop in JavaScript](https://dev.to/codewithashim/understanding-the-event-loop-in-javascript-1h1o)
 - [Lifehacker] [Stop Using These Air Fryers Immediately, Product Safety Commission Warns](https://lifehacker.com/stop-using-these-air-fryers-immediately-product-safety-1850149981)
 - [Dev.to/JS] [All you need to know about asynchronous JavaScript](https://dev.to/ppiippaa/all-you-need-to-know-about-asynchronous-javascript-40ma)
-- [Dev.to/JS] [Take Your JavaScript Skills to the Next Level: 10 Beginner-Friendly Code Challenges](https://dev.to/sidramaqbool/take-your-javascript-skills-to-the-next-level-10-beginner-friendly-code-challenges-24bg)
 - [Lifehacker] [‘Butterfly’ Your Meat for Quicker, More Even Cooking](https://lifehacker.com/butterfly-your-meat-for-quicker-more-even-cooking-1850149845)
 - [Lifehacker] [Use the ‘IDK? Decision Maker’ App to Help You Make Better Decisions](https://lifehacker.com/use-the-idk-decision-maker-app-to-help-you-make-bett-1850149587)
 - [Lifehacker] [‘Underreaction’ Is Your Best Parenting Tool](https://lifehacker.com/underreaction-is-your-best-parenting-tool-1850149458)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Types of Wheat Flour &lpar;and How to Use Them&rpar;](https://lifehacker.com/11-types-of-wheat-flour-and-how-to-use-them-1850145368)
 - [Lifehacker] [How to Uninstall Multiple Windows Apps at Once](https://lifehacker.com/how-to-uninstall-multiple-windows-apps-at-once-1850145087)
 - [Lifehacker] [The Best Ways to Clean All Your Sweaty Sports and Exercise Gear](https://lifehacker.com/the-best-ways-to-clean-all-your-sweaty-sports-and-exerc-1850144980)
-- [Lifehacker] [When to See the Last Full Moon of Winter](https://lifehacker.com/when-to-see-the-last-full-moon-of-winter-1850143416)
-- [Lifehacker] [This Recalled Starbucks Drink Might Have Glass In It](https://lifehacker.com/this-recalled-starbucks-drink-might-have-glass-in-it-1850142368)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When to See the Last Full Moon of Winter](https://lifehacker.com/when-to-see-the-last-full-moon-of-winter-1850143416)<!-- TECH-POSTS:END -->
 
 ---
 
