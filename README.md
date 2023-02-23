@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript —— Array](https://dev.to/itroger/javascript-array-gc2)
+- [Dev.to/JS] [Error installing react](https://dev.to/maazanwer/error-installing-react-29ep)
+- [Dev.to/JS] [You Can Build a Crud Api in Javascript with the Help of Node.js, Express, Postgres, and Docker](https://dev.to/devbambhaniya/you-can-build-a-crud-api-in-javascript-with-the-help-of-nodejs-express-postgres-and-docker-f57)
+- [Dev.to/JS] [Stop Fetch-ing in error](https://dev.to/jordanfinners/stop-fetch-ing-in-error-1jdo)
 - [Dev.to/JS] [JavaScript —— String](https://dev.to/itroger/javascript-string-220)
 - [Dev.to/JS] [Getting ready for Coding Assignment Interviews](https://dev.to/tkssharma/getting-ready-for-coding-assignment-interviews-5907)
 - [Dev.to/JS] [How to center a div](https://dev.to/oluwatrillions/how-to-center-a-div-15gp)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to get API using Fetch?](https://dev.to/atena/how-to-get-api-using-fetch-34an)
 - [Dev.to/JS] [The Essential Skill for Web Development【JS】](https://dev.to/yuya0114/the-essential-skill-for-web-developmentjs-508l)
 - [Dev.to/JS] [Closures In JavaScript](https://dev.to/ayush_shines/closures-in-javascript-1487)
-- [Dev.to/JS] [JavaScript —— Number](https://dev.to/itroger/javascript-number-1bli)
-- [Dev.to/JS] [JavaScript: Look! Loops!](https://dev.to/dtechdbug/javascript-look-loops-4eae)
-- [Dev.to/JS] [Đế sạc nhanh không dây Samsung Galaxy S23 | Plus | Ultra chính hãng](https://dev.to/khanhtoan260400/de-sac-nhanh-khong-day-samsung-galaxy-s23-plus-ultra-chinh-hang-499i)
-- [Dev.to/JS] [JavaScript —— 基础](https://dev.to/itroger/javascript-ji-chu-1180)
 - [Lifehacker] [Use Vinegar and Lemon Juice for a Better Vinaigrette](https://lifehacker.com/use-vinegar-and-lemon-juice-for-a-better-vinaigrette-1850146738)
 - [Lifehacker] [Why Mornings Are Almost Always the Best Time to Fly](https://lifehacker.com/why-mornings-are-almost-always-the-best-time-to-fly-1850146816)
 - [Lifehacker] [Make This Breakfast Cake With Bananas and Oats](https://lifehacker.com/make-this-breakfast-cake-with-bananas-and-oats-1850146730)
