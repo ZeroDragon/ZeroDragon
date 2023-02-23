@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [‘Underreaction’ Is Your Best Parenting Tool](https://lifehacker.com/underreaction-is-your-best-parenting-tool-1850149458)
+- [Dev.to/JS] [How to Build an Ethereum Gas Tracker with Infura](https://dev.to/mbogan/how-to-build-an-ethereum-gas-tracker-with-infura-316d)
+- [Lifehacker] [These Numbers Will Convince Your Teen to Start Saving for Retirement](https://lifehacker.com/these-numbers-will-convince-your-teen-to-start-saving-f-1850144908)
 - [Dev.to/JS] [Using Backticks as Syntactic Sugar in JavaScript and Scheme](https://dev.to/justinethier/using-backticks-as-syntactic-sugar-in-javascript-and-scheme-c81)
 - [Dev.to/JS] [Paracetamol.ts💊| #17: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-17-explica-este-codigo-typescript-51e5)
 - [Lifehacker] [12 Unusual Musical Collaborations You Should Listen To](https://lifehacker.com/12-unusual-musical-collaborations-you-should-listen-to-1850148020)
@@ -36,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [how to make loader for website using html, css and javascript](https://dev.to/programwithram/how-to-make-loder-for-website-with-html-css-and-javascript-i08)
 - [Dev.to/JS] [Unleashing the Full Potential of JavaScript: Exploring Its Overlooked Features](https://dev.to/canopassoftware/unleashing-the-full-potential-of-javascript-exploring-its-overlooked-features-292e)
 - [Dev.to/JS] [Read All Files of Directory and Subdirectories with Recursive Generators in JavaScript](https://dev.to/zirkelc/read-all-files-of-directory-and-subdirectories-with-recursive-generators-in-javascript-2pbd)
-- [Dev.to/JS] [ES6 Features Part-1](https://dev.to/amansingh/es6-features-part-1-1ajk)
 - [Crazy Programmer] [6 Reasons To Learn Programming If You Are Not A Programmer](https://www.thecrazyprogrammer.com/2023/02/6-reasons-to-learn-programming-if-you-are-not-a-programmer.html)
 - [Lifehacker] [Use Vinegar and Lemon Juice for a Better Vinaigrette](https://lifehacker.com/use-vinegar-and-lemon-juice-for-a-better-vinaigrette-1850146738)
 - [Lifehacker] [Why Mornings Are Almost Always the Best Time to Fly](https://lifehacker.com/why-mornings-are-almost-always-the-best-time-to-fly-1850146816)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Hidden Setting Will Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/this-hidden-setting-will-stop-chrome-from-killing-your-1850141127)
 - [Lifehacker] [The Antisocial Parents&#39; Guide to Avoiding Other Parents](https://lifehacker.com/the-antisocial-parents-guide-to-avoiding-other-parents-1850141488)
 - [Lifehacker] [Your Guide to Getting a Car Unstuck in the Snow](https://lifehacker.com/your-guide-to-getting-a-car-unstuck-in-the-snow-1850141388)
-- [Lifehacker] [You Should Melt Brie Into Your Spicy Instant Ramen](https://lifehacker.com/you-should-melt-brie-into-your-spicy-instant-ramen-1850141210)
-- [Lifehacker] [Help Your Teenager Start Building Good Credit Before They’re an Adult](https://lifehacker.com/help-your-teenager-start-building-good-credit-before-th-1850139758)
-- [Lifehacker] [Don’t Feed Your Baby This Recalled Enfamil Formula](https://lifehacker.com/don-t-feed-your-baby-this-recalled-enfamil-formula-1850140598)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Melt Brie Into Your Spicy Instant Ramen](https://lifehacker.com/you-should-melt-brie-into-your-spicy-instant-ramen-1850141210)<!-- TECH-POSTS:END -->
 
 ---
 
