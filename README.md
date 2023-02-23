@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [‘Butterfly’ Your Meat for Quicker, More Even Cooking](https://lifehacker.com/butterfly-your-meat-for-quicker-more-even-cooking-1850149845)
+- [Dev.to/JS] [Achieving 1K Followers on dev.to: My Journey to Success](https://dev.to/varshithvhegde/achieving-1k-followers-on-devto-my-journey-to-success-201n)
+- [Lifehacker] [Use the ‘IDK? Decision Maker’ App to Help You Make Better Decisions](https://lifehacker.com/use-the-idk-decision-maker-app-to-help-you-make-bett-1850149587)
+- [Dev.to/JS] [Build Node.JS Chat App with WebSocket, Node.js Cluster and Redis](https://dev.to/alakkadshaw/build-nodejs-chat-app-with-websocket-nodejs-cluster-and-redis-5ba8)
 - [Lifehacker] [‘Underreaction’ Is Your Best Parenting Tool](https://lifehacker.com/underreaction-is-your-best-parenting-tool-1850149458)
 - [Dev.to/JS] [How to Build an Ethereum Gas Tracker with Infura](https://dev.to/mbogan/how-to-build-an-ethereum-gas-tracker-with-infura-316d)
 - [Lifehacker] [These Numbers Will Convince Your Teen to Start Saving for Retirement](https://lifehacker.com/these-numbers-will-convince-your-teen-to-start-saving-f-1850144908)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Dividindo a conta](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-dividindo-a-conta-2p8m)
 - [Dev.to/JS] [HOW TO CREATE A SIMPLE SLIDER WITH VANILLA JAVASCRIPT](https://dev.to/covydev/how-to-create-a-simple-slider-with-vanilla-javascript-33m6)
 - [Dev.to/JS] [how to make loader for website using html, css and javascript](https://dev.to/programwithram/how-to-make-loder-for-website-with-html-css-and-javascript-i08)
-- [Dev.to/JS] [Unleashing the Full Potential of JavaScript: Exploring Its Overlooked Features](https://dev.to/canopassoftware/unleashing-the-full-potential-of-javascript-exploring-its-overlooked-features-292e)
-- [Dev.to/JS] [Read All Files of Directory and Subdirectories with Recursive Generators in JavaScript](https://dev.to/zirkelc/read-all-files-of-directory-and-subdirectories-with-recursive-generators-in-javascript-2pbd)
 - [Crazy Programmer] [6 Reasons To Learn Programming If You Are Not A Programmer](https://www.thecrazyprogrammer.com/2023/02/6-reasons-to-learn-programming-if-you-are-not-a-programmer.html)
 - [Lifehacker] [Use Vinegar and Lemon Juice for a Better Vinaigrette](https://lifehacker.com/use-vinegar-and-lemon-juice-for-a-better-vinaigrette-1850146738)
 - [Lifehacker] [Why Mornings Are Almost Always the Best Time to Fly](https://lifehacker.com/why-mornings-are-almost-always-the-best-time-to-fly-1850146816)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Powerful One-Liners Every Parent Needs](https://lifehacker.com/the-powerful-one-liners-every-parent-needs-1850141320)
 - [Lifehacker] [The Best Authenticator Apps for iPhone and Android](https://lifehacker.com/the-best-authenticator-apps-for-iphone-and-android-1850140802)
 - [Lifehacker] [This Hidden Setting Will Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/this-hidden-setting-will-stop-chrome-from-killing-your-1850141127)
-- [Lifehacker] [The Antisocial Parents&#39; Guide to Avoiding Other Parents](https://lifehacker.com/the-antisocial-parents-guide-to-avoiding-other-parents-1850141488)
-- [Lifehacker] [Your Guide to Getting a Car Unstuck in the Snow](https://lifehacker.com/your-guide-to-getting-a-car-unstuck-in-the-snow-1850141388)
-- [Lifehacker] [You Should Melt Brie Into Your Spicy Instant Ramen](https://lifehacker.com/you-should-melt-brie-into-your-spicy-instant-ramen-1850141210)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Antisocial Parents&#39; Guide to Avoiding Other Parents](https://lifehacker.com/the-antisocial-parents-guide-to-avoiding-other-parents-1850141488)<!-- TECH-POSTS:END -->
 
 ---
 
