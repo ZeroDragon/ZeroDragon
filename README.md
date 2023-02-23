@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Technology](https://dev.to/2dwa11/technology-3f93)
+- [Dev.to/JS] [Nước hoa nam KenPerfume](https://dev.to/nuoc_hoa_nam/nuoc-hoa-nam-kenperfume-3bie)
+- [Dev.to/JS] [Javascript structuredClone](https://dev.to/mrh0200/javascript-structuredclone-3e3i)
+- [Dev.to/JS] [10 Total.js features to use in your next Express.js application.](https://dev.to/louis_bertson_1124e9cdc59/10-totaljs-features-to-use-in-your-next-expressjs-application-141n)
 - [Dev.to/JS] [Building a now page using Next.js and social APIs](https://dev.to/cdransf/building-a-now-page-using-nextjs-and-social-apis-3099)
 - [Dev.to/JS] [Strapi + Next.js refresh static props like it&#39;s cache](https://dev.to/fullstak/strapi-nextjs-refresh-static-props-like-its-cache-176b)
 - [Dev.to/JS] [Creating a Responsive Blog with HTML, CSS, and JavaScript](https://dev.to/webmonster/creating-a-responsive-blog-with-html-css-and-javascript-2jol)
@@ -36,12 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Turn Off Auto-Brightness on Your Phone](https://lifehacker.com/why-you-should-turn-off-auto-brightness-on-your-phone-1850145521)
 - [Dev.to/JS] [React.Js, GraphQL and Apollo client](https://dev.to/radualex/reactjs-graphql-and-apollo-client-1ljo)
 - [Lifehacker] [The Easiest Ways to Save Money at the Laundromat](https://lifehacker.com/the-easiest-ways-to-save-money-at-the-laundromat-1850145420)
-- [Dev.to/JS] [Quantum Computing](https://dev.to/sefini_steph/quantum-computing-4g2h)
-- [Dev.to/JS] [5 New Features For Amplify UI and Studio You Should Try Today](https://dev.to/erikch/5-new-features-for-amplify-ui-and-studio-you-should-try-today-4g86)
-- [Dev.to/JS] [Creating animations and transitions in frontend development with CSS and JavaScript](https://dev.to/haszankauna/creating-animations-and-transitions-in-frontend-development-with-css-and-javascript-3lad)
 - [Lifehacker] [16 of the Best Backyard Chicken Breeds If You’re About That Life](https://lifehacker.com/16-of-the-best-backyard-chicken-breeds-if-you-re-about-1850145700)
 - [Lifehacker] [You Can Get Refurbished Kindles for As Low As $20 Right Now](https://lifehacker.com/you-can-get-refurbished-kindles-for-as-low-as-20-right-1850145890)
-- [Dev.to/JS] [Next.js 13 - app directory &amp; routing](https://dev.to/oskidev/nextjs-13-app-directory-routing-3lfh)
 - [Lifehacker] [What&#39;s New on Netflix in March 2023](https://lifehacker.com/whats-new-on-netflix-in-march-2023-1850145177)
 - [Lifehacker] [11 Types of Wheat Flour &lpar;and How to Use Them&rpar;](https://lifehacker.com/11-types-of-wheat-flour-and-how-to-use-them-1850145368)
 - [Lifehacker] [How to Uninstall Multiple Windows Apps at Once](https://lifehacker.com/how-to-uninstall-multiple-windows-apps-at-once-1850145087)
