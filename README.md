@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create A Infinite Marquee using HTML, CSS and GSAP](https://dev.to/ymvaghela07/create-a-infinite-marquee-using-html-css-and-gsap-5bof)
+- [Dev.to/JS] [6 Tips for Better Understanding the DOM](https://dev.to/sidramaqbool/6-tips-for-better-understanding-the-dom-edp)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Understanding DOM Events](https://dev.to/sidramaqbool/a-beginners-guide-to-understanding-dom-events-3pna)
 - [Dev.to/JS] [How to send emails in Node.js &lpar;Detailed Steps&rpar;](https://dev.to/opendataanalytics/how-to-send-emails-in-nodejs-e4l)
 - [Dev.to/JS] [Pixelating Images With React/JavaScript](https://dev.to/bytebodger/pixelating-images-in-reactjavascript-2ac7)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Total.js features to use in your next Express.js application.](https://dev.to/louis_bertson_1124e9cdc59/10-totaljs-features-to-use-in-your-next-expressjs-application-141n)
 - [Dev.to/JS] [Building a now page using Next.js and social APIs](https://dev.to/cdransf/building-a-now-page-using-nextjs-and-social-apis-3099)
 - [Dev.to/JS] [Strapi + Next.js refresh static props like it&#39;s cache](https://dev.to/fullstak/strapi-nextjs-refresh-static-props-like-its-cache-176b)
-- [Dev.to/JS] [Creating a Responsive Blog with HTML, CSS, and JavaScript](https://dev.to/webmonster/creating-a-responsive-blog-with-html-css-and-javascript-2jol)
-- [Dev.to/JS] [Svelte + Vite, Storybook 7 with Svelte Native Format &amp; Tailwind CSS - Starter Template again! 😀](https://dev.to/jerric/svelte-vite-storybook-7-with-svelte-native-format-tailwind-css-starter-template-again-575o)
 - [Lifehacker] [Use Vinegar and Lemon Juice for a Better Vinaigrette](https://lifehacker.com/use-vinegar-and-lemon-juice-for-a-better-vinaigrette-1850146738)
 - [Lifehacker] [Why Mornings Are Almost Always the Best Time to Fly](https://lifehacker.com/why-mornings-are-almost-always-the-best-time-to-fly-1850146816)
 - [Lifehacker] [Make This Breakfast Cake With Bananas and Oats](https://lifehacker.com/make-this-breakfast-cake-with-bananas-and-oats-1850146730)
