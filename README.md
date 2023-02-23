@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Beginner&#39;s Guide to Understanding DOM Events](https://dev.to/sidramaqbool/a-beginners-guide-to-understanding-dom-events-3pna)
 - [Dev.to/JS] [How to send emails in Node.js &lpar;Detailed Steps&rpar;](https://dev.to/opendataanalytics/how-to-send-emails-in-nodejs-e4l)
 - [Dev.to/JS] [Pixelating Images With React/JavaScript](https://dev.to/bytebodger/pixelating-images-in-reactjavascript-2ac7)
 - [Dev.to/JS] [How do I make an HTTP request in Javascript?](https://dev.to/goutamn99/how-do-i-make-an-http-request-in-javascript-m2o)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Responsive Blog with HTML, CSS, and JavaScript](https://dev.to/webmonster/creating-a-responsive-blog-with-html-css-and-javascript-2jol)
 - [Dev.to/JS] [Svelte + Vite, Storybook 7 with Svelte Native Format &amp; Tailwind CSS - Starter Template again! 😀](https://dev.to/jerric/svelte-vite-storybook-7-with-svelte-native-format-tailwind-css-starter-template-again-575o)
 - [Lifehacker] [Use Vinegar and Lemon Juice for a Better Vinaigrette](https://lifehacker.com/use-vinegar-and-lemon-juice-for-a-better-vinaigrette-1850146738)
-- [Dev.to/JS] [The Psychology of Debugging your code like a Pro](https://dev.to/boluaduloju/the-psychology-of-debugging-your-code-like-a-pro-3m2l)
 - [Lifehacker] [Why Mornings Are Almost Always the Best Time to Fly](https://lifehacker.com/why-mornings-are-almost-always-the-best-time-to-fly-1850146816)
 - [Lifehacker] [Make This Breakfast Cake With Bananas and Oats](https://lifehacker.com/make-this-breakfast-cake-with-bananas-and-oats-1850146730)
 - [Lifehacker] [Why You Should Turn Off Auto-Brightness on Your Phone](https://lifehacker.com/why-you-should-turn-off-auto-brightness-on-your-phone-1850145521)
