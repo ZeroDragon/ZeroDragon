@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Evaluating Vue 3: The state of development in 2023](https://dev.to/audaciasoftware/evaluating-vue-3-the-state-of-development-in-2023-2c5m)
+- [Dev.to/JS] [All about Promises in JavaScript](https://dev.to/codeofrelevancy/all-about-promises-in-javascript-39lj)
+- [Dev.to/JS] [JavaScript —— Object](https://dev.to/itroger/javascript-object-2e81)
 - [Dev.to/JS] [JavaScript —— Array](https://dev.to/itroger/javascript-array-gc2)
 - [Dev.to/JS] [Error installing react](https://dev.to/maazanwer/error-installing-react-29ep)
 - [Dev.to/JS] [You Can Build a Crud Api in Javascript with the Help of Node.js, Express, Postgres, and Docker](https://dev.to/devbambhaniya/you-can-build-a-crud-api-in-javascript-with-the-help-of-nodejs-express-postgres-and-docker-f57)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to center a div](https://dev.to/oluwatrillions/how-to-center-a-div-15gp)
 - [Dev.to/JS] [why you should consider using Node.js over other technologies.](https://dev.to/aniketkumar26/why-you-should-consider-using-nodejs-over-other-technologies-23jm)
 - [Dev.to/JS] [Demystifying React Render Props: A Beginner&#39;s Guide](https://dev.to/muneebchaudhry/demystifying-react-render-props-a-beginners-guide-40do)
-- [Dev.to/JS] [How to get API using Fetch?](https://dev.to/atena/how-to-get-api-using-fetch-34an)
-- [Dev.to/JS] [The Essential Skill for Web Development【JS】](https://dev.to/yuya0114/the-essential-skill-for-web-developmentjs-508l)
-- [Dev.to/JS] [Closures In JavaScript](https://dev.to/ayush_shines/closures-in-javascript-1487)
 - [Lifehacker] [Use Vinegar and Lemon Juice for a Better Vinaigrette](https://lifehacker.com/use-vinegar-and-lemon-juice-for-a-better-vinaigrette-1850146738)
 - [Lifehacker] [Why Mornings Are Almost Always the Best Time to Fly](https://lifehacker.com/why-mornings-are-almost-always-the-best-time-to-fly-1850146816)
 - [Lifehacker] [Make This Breakfast Cake With Bananas and Oats](https://lifehacker.com/make-this-breakfast-cake-with-bananas-and-oats-1850146730)
