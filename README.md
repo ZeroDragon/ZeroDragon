@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Highlight Text in React Native [but with a twist]](https://dev.to/royged/highlight-text-in-react-native-but-with-a-twist-2nic)
+- [Dev.to/JS] [Navigating lock files: best practices and tips](https://dev.to/torp_martin/navigating-lock-files-best-practices-and-tips-5f44)
+- [Dev.to/JS] [7 Essential React Libraries for Front-End Web Development](https://dev.to/surajondev/7-essential-react-libraries-for-front-end-web-development-23el)
+- [Dev.to/JS] [JavaScript —— Collections](https://dev.to/itroger/javascript-collections-a78)
+- [Dev.to/JS] [All About ES6 &amp; Why it is so Popular](https://dev.to/amansingh/all-about-es6-why-it-is-so-popular-34b)
+- [Crazy Programmer] [6 Reasons To Learn Programming If You Are Not A Programmer](https://www.thecrazyprogrammer.com/2023/02/6-reasons-to-learn-programming-if-you-are-not-a-programmer.html)
+- [Dev.to/JS] [Web Development Services](https://dev.to/val_davydenko_0bcb236f439/web-development-services-ia2)
+- [Dev.to/JS] [How To Set Up Docker In Nodejs](https://dev.to/davydocsurg/how-to-set-up-docker-in-nodejs-59kb)
+- [Dev.to/JS] [Difference between else if c++ vs else if java vs else if python vs else if c#](https://dev.to/seema/difference-between-else-if-c-vs-else-if-java-vs-else-if-python-vs-else-if-c-onl)
+- [Dev.to/JS] [JavaScript —— Function](https://dev.to/itroger/javascript-function-4k1e)
 - [Dev.to/JS] [Evaluating Vue 3: The state of development in 2023](https://dev.to/audaciasoftware/evaluating-vue-3-the-state-of-development-in-2023-2c5m)
 - [Dev.to/JS] [All about Promises in JavaScript](https://dev.to/codeofrelevancy/all-about-promises-in-javascript-39lj)
 - [Dev.to/JS] [JavaScript —— Object](https://dev.to/itroger/javascript-object-2e81)
-- [Dev.to/JS] [JavaScript —— Array](https://dev.to/itroger/javascript-array-gc2)
-- [Dev.to/JS] [Error installing react](https://dev.to/maazanwer/error-installing-react-29ep)
-- [Dev.to/JS] [You Can Build a Crud Api in Javascript with the Help of Node.js, Express, Postgres, and Docker](https://dev.to/devbambhaniya/you-can-build-a-crud-api-in-javascript-with-the-help-of-nodejs-express-postgres-and-docker-f57)
-- [Dev.to/JS] [Stop Fetch-ing in error](https://dev.to/jordanfinners/stop-fetch-ing-in-error-1jdo)
-- [Dev.to/JS] [JavaScript —— String](https://dev.to/itroger/javascript-string-220)
-- [Dev.to/JS] [Getting ready for Coding Assignment Interviews](https://dev.to/tkssharma/getting-ready-for-coding-assignment-interviews-5907)
-- [Dev.to/JS] [How to center a div](https://dev.to/oluwatrillions/how-to-center-a-div-15gp)
-- [Dev.to/JS] [why you should consider using Node.js over other technologies.](https://dev.to/aniketkumar26/why-you-should-consider-using-nodejs-over-other-technologies-23jm)
-- [Dev.to/JS] [Demystifying React Render Props: A Beginner&#39;s Guide](https://dev.to/muneebchaudhry/demystifying-react-render-props-a-beginners-guide-40do)
 - [Lifehacker] [Use Vinegar and Lemon Juice for a Better Vinaigrette](https://lifehacker.com/use-vinegar-and-lemon-juice-for-a-better-vinaigrette-1850146738)
 - [Lifehacker] [Why Mornings Are Almost Always the Best Time to Fly](https://lifehacker.com/why-mornings-are-almost-always-the-best-time-to-fly-1850146816)
 - [Lifehacker] [Make This Breakfast Cake With Bananas and Oats](https://lifehacker.com/make-this-breakfast-cake-with-bananas-and-oats-1850146730)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Help Your Teenager Start Building Good Credit Before They’re an Adult](https://lifehacker.com/help-your-teenager-start-building-good-credit-before-th-1850139758)
 - [Lifehacker] [Don’t Feed Your Baby This Recalled Enfamil Formula](https://lifehacker.com/don-t-feed-your-baby-this-recalled-enfamil-formula-1850140598)
 - [Lifehacker] [You Shouldn’t Use Your Phone Number for Two-Factor Authentication, Anyway](https://lifehacker.com/you-shouldn-t-use-your-phone-number-for-two-factor-auth-1850139776)
-- [Lifehacker] [What It Takes to Quit Gambling](https://lifehacker.com/what-it-takes-to-quit-gambling-1850140295)
-- [Lifehacker] [Why You Should Always Call Before Booking a Hotel Room Online](https://lifehacker.com/why-you-should-always-call-before-booking-a-hotel-room-1850134869)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What It Takes to Quit Gambling](https://lifehacker.com/what-it-takes-to-quit-gambling-1850140295)<!-- TECH-POSTS:END -->
 
 ---
 
