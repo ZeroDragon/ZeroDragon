@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a now page using Next.js and social APIs](https://dev.to/cdransf/building-a-now-page-using-nextjs-and-social-apis-3099)
+- [Dev.to/JS] [Strapi + Next.js refresh static props like it&#39;s cache](https://dev.to/fullstak/strapi-nextjs-refresh-static-props-like-its-cache-176b)
 - [Dev.to/JS] [Creating a Responsive Blog with HTML, CSS, and JavaScript](https://dev.to/webmonster/creating-a-responsive-blog-with-html-css-and-javascript-2jol)
 - [Dev.to/JS] [Svelte + Vite, Storybook 7 with Svelte Native Format &amp; Tailwind CSS - Starter Template again! 😀](https://dev.to/jerric/svelte-vite-storybook-7-with-svelte-native-format-tailwind-css-starter-template-again-575o)
 - [Lifehacker] [Use Vinegar and Lemon Juice for a Better Vinaigrette](https://lifehacker.com/use-vinegar-and-lemon-juice-for-a-better-vinaigrette-1850146738)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [16 of the Best Backyard Chicken Breeds If You’re About That Life](https://lifehacker.com/16-of-the-best-backyard-chicken-breeds-if-you-re-about-1850145700)
 - [Lifehacker] [You Can Get Refurbished Kindles for As Low As $20 Right Now](https://lifehacker.com/you-can-get-refurbished-kindles-for-as-low-as-20-right-1850145890)
 - [Dev.to/JS] [Next.js 13 - app directory &amp; routing](https://dev.to/oskidev/nextjs-13-app-directory-routing-3lfh)
-- [Dev.to/JS] [AdonisJS Framework Tutorial: build a full-stack web application](https://dev.to/educative/adonisjs-framework-tutorial-build-a-full-stack-web-application-2ool)
-- [Dev.to/JS] [The Power of Next.js: A Comprehensive Guide](https://dev.to/shabh2412/the-power-of-nextjs-a-comprehensive-guide-52d1)
 - [Lifehacker] [What&#39;s New on Netflix in March 2023](https://lifehacker.com/whats-new-on-netflix-in-march-2023-1850145177)
 - [Lifehacker] [11 Types of Wheat Flour &lpar;and How to Use Them&rpar;](https://lifehacker.com/11-types-of-wheat-flour-and-how-to-use-them-1850145368)
 - [Lifehacker] [How to Uninstall Multiple Windows Apps at Once](https://lifehacker.com/how-to-uninstall-multiple-windows-apps-at-once-1850145087)
