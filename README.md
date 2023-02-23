@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Thcs hiệp hòa - Bách khoa toàn thư](https://dev.to/thcshiephoa/thcs-hiep-hoa-bach-khoa-toan-thu-36c1)
+- [Dev.to/JS] [Experiments with the JavaScript Garbage Collector](https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3)
+- [Dev.to/JS] [Understanding the Event Loop in JavaScript](https://dev.to/codewithashim/understanding-the-event-loop-in-javascript-1h1o)
+- [Lifehacker] [Stop Using These Air Fryers Immediately, Product Safety Commission Warns](https://lifehacker.com/stop-using-these-air-fryers-immediately-product-safety-1850149981)
+- [Dev.to/JS] [All you need to know about asynchronous JavaScript](https://dev.to/ppiippaa/all-you-need-to-know-about-asynchronous-javascript-40ma)
+- [Dev.to/JS] [Take Your JavaScript Skills to the Next Level: 10 Beginner-Friendly Code Challenges](https://dev.to/sidramaqbool/take-your-javascript-skills-to-the-next-level-10-beginner-friendly-code-challenges-24bg)
+- [Dev.to/JS] [A Guide to the Temporal API in JavaScript](https://dev.to/get_pieces/a-guide-to-the-temporal-api-in-javascript-5m4)
 - [Lifehacker] [‘Butterfly’ Your Meat for Quicker, More Even Cooking](https://lifehacker.com/butterfly-your-meat-for-quicker-more-even-cooking-1850149845)
 - [Dev.to/JS] [Achieving 1K Followers on dev.to: My Journey to Success](https://dev.to/varshithvhegde/achieving-1k-followers-on-devto-my-journey-to-success-201n)
 - [Lifehacker] [Use the ‘IDK? Decision Maker’ App to Help You Make Better Decisions](https://lifehacker.com/use-the-idk-decision-maker-app-to-help-you-make-bett-1850149587)
@@ -34,13 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.ts💊| #17: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-17-explica-este-codigo-typescript-51e5)
 - [Lifehacker] [12 Unusual Musical Collaborations You Should Listen To](https://lifehacker.com/12-unusual-musical-collaborations-you-should-listen-to-1850148020)
 - [Dev.to/JS] [if_else in java script:](https://dev.to/anateotfw/ifelse-in-java-script-5e35)
-- [Dev.to/JS] [Best 5 Ecommerce Search Engines for Developers](https://dev.to/medusajs/best-5-ecommerce-search-engines-for-developers-5fh6)
-- [Dev.to/JS] [3 coisas que você deve saber sobre Typescript](https://dev.to/laracarvalho/3-coisas-que-voce-deve-saber-sobre-typescript-10oe)
 - [Lifehacker] [You Might Be Using Pie Weights Wrong](https://lifehacker.com/you-might-be-using-pie-weights-wrong-1850147510)
-- [Dev.to/JS] [Exploring the Most Commonly Used Folder Names in Popular NPM Packages](https://dev.to/elidrissidev/exploring-the-most-commonly-used-folder-names-in-popular-npm-packages-4332)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Dividindo a conta](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-dividindo-a-conta-2p8m)
-- [Dev.to/JS] [HOW TO CREATE A SIMPLE SLIDER WITH VANILLA JAVASCRIPT](https://dev.to/covydev/how-to-create-a-simple-slider-with-vanilla-javascript-33m6)
-- [Dev.to/JS] [how to make loader for website using html, css and javascript](https://dev.to/programwithram/how-to-make-loder-for-website-with-html-css-and-javascript-i08)
 - [Crazy Programmer] [6 Reasons To Learn Programming If You Are Not A Programmer](https://www.thecrazyprogrammer.com/2023/02/6-reasons-to-learn-programming-if-you-are-not-a-programmer.html)
 - [Lifehacker] [Use Vinegar and Lemon Juice for a Better Vinaigrette](https://lifehacker.com/use-vinegar-and-lemon-juice-for-a-better-vinaigrette-1850146738)
 - [Lifehacker] [Why Mornings Are Almost Always the Best Time to Fly](https://lifehacker.com/why-mornings-are-almost-always-the-best-time-to-fly-1850146816)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Blend Blue Cheese and Ranch Dressing for a Better Wing or Wedge Experience](https://lifehacker.com/blend-blue-cheese-and-ranch-dressing-for-a-better-wing-1850141836)
 - [Lifehacker] [The Powerful One-Liners Every Parent Needs](https://lifehacker.com/the-powerful-one-liners-every-parent-needs-1850141320)
 - [Lifehacker] [The Best Authenticator Apps for iPhone and Android](https://lifehacker.com/the-best-authenticator-apps-for-iphone-and-android-1850140802)
-- [Lifehacker] [This Hidden Setting Will Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/this-hidden-setting-will-stop-chrome-from-killing-your-1850141127)
-- [Lifehacker] [The Antisocial Parents&#39; Guide to Avoiding Other Parents](https://lifehacker.com/the-antisocial-parents-guide-to-avoiding-other-parents-1850141488)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Hidden Setting Will Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/this-hidden-setting-will-stop-chrome-from-killing-your-1850141127)<!-- TECH-POSTS:END -->
 
 ---
 
