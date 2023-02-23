@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Get a Month of Xbox Game Pass Ultimate for $2.79 Right Now](https://lifehacker.com/get-a-month-of-xbox-game-pass-ultimate-for-2-79-right-1850150753)
+- [Lifehacker] [Here’s What Every Line of Your Paycheck Actually Means](https://lifehacker.com/here-s-what-every-line-of-your-paycheck-actually-means-1850150177)
+- [Dev.to/JS] [Introduction to Bash Shell Scripting for Frontend Developers](https://dev.to/danywalls/introduction-to-bash-shell-scripting-for-frontend-developers-o3d)
+- [Dev.to/JS] [JavaScript Tutorial Series: Date Object](https://dev.to/fullstackjo/javascript-tutorial-series-date-object-gb5)
+- [Dev.to/JS] [I Don&#39;t Need a State Manager in Angular, or am I just delaying his arrival?](https://dev.to/danywalls/i-dont-need-a-state-manager-in-angular-or-am-i-just-delaying-his-arrival-1d3l)
+- [Dev.to/JS] [Getting started with React](https://dev.to/marvel_at_don/getting-started-with-react-j5a)
+- [Dev.to/JS] [Lightning-Fast Portfolio Site in Just 3 Hours](https://dev.to/seeratawan01/lightning-fast-portfolio-site-in-just-3-hours-h0e)
+- [Lifehacker] [&#39;Marathon&#39; Is Letterboxd for TV Shows](https://lifehacker.com/marathon-is-letterboxd-for-tv-shows-1850149703)
 - [Dev.to/JS] [Thcs hiệp hòa - Bách khoa toàn thư](https://dev.to/thcshiephoa/thcs-hiep-hoa-bach-khoa-toan-thu-36c1)
 - [Dev.to/JS] [Experiments with the JavaScript Garbage Collector](https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3)
 - [Dev.to/JS] [Understanding the Event Loop in JavaScript](https://dev.to/codewithashim/understanding-the-event-loop-in-javascript-1h1o)
@@ -33,14 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [‘Butterfly’ Your Meat for Quicker, More Even Cooking](https://lifehacker.com/butterfly-your-meat-for-quicker-more-even-cooking-1850149845)
 - [Dev.to/JS] [Achieving 1K Followers on dev.to: My Journey to Success](https://dev.to/varshithvhegde/achieving-1k-followers-on-devto-my-journey-to-success-201n)
 - [Lifehacker] [Use the ‘IDK? Decision Maker’ App to Help You Make Better Decisions](https://lifehacker.com/use-the-idk-decision-maker-app-to-help-you-make-bett-1850149587)
-- [Dev.to/JS] [Build Node.JS Chat App with WebSocket, Node.js Cluster and Redis](https://dev.to/alakkadshaw/build-nodejs-chat-app-with-websocket-nodejs-cluster-and-redis-5ba8)
 - [Lifehacker] [‘Underreaction’ Is Your Best Parenting Tool](https://lifehacker.com/underreaction-is-your-best-parenting-tool-1850149458)
-- [Dev.to/JS] [How to Build an Ethereum Gas Tracker with Infura](https://dev.to/mbogan/how-to-build-an-ethereum-gas-tracker-with-infura-316d)
 - [Lifehacker] [These Numbers Will Convince Your Teen to Start Saving for Retirement](https://lifehacker.com/these-numbers-will-convince-your-teen-to-start-saving-f-1850144908)
-- [Dev.to/JS] [Using Backticks as Syntactic Sugar in JavaScript and Scheme](https://dev.to/justinethier/using-backticks-as-syntactic-sugar-in-javascript-and-scheme-c81)
-- [Dev.to/JS] [Paracetamol.ts💊| #17: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-17-explica-este-codigo-typescript-51e5)
 - [Lifehacker] [12 Unusual Musical Collaborations You Should Listen To](https://lifehacker.com/12-unusual-musical-collaborations-you-should-listen-to-1850148020)
-- [Dev.to/JS] [if_else in java script:](https://dev.to/anateotfw/ifelse-in-java-script-5e35)
 - [Lifehacker] [You Might Be Using Pie Weights Wrong](https://lifehacker.com/you-might-be-using-pie-weights-wrong-1850147510)
 - [Crazy Programmer] [6 Reasons To Learn Programming If You Are Not A Programmer](https://www.thecrazyprogrammer.com/2023/02/6-reasons-to-learn-programming-if-you-are-not-a-programmer.html)
 - [Lifehacker] [Use Vinegar and Lemon Juice for a Better Vinaigrette](https://lifehacker.com/use-vinegar-and-lemon-juice-for-a-better-vinaigrette-1850146738)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Surprising Things You Should Keep in Your Kitchen](https://lifehacker.com/12-surprising-things-you-should-keep-in-your-kitchen-1850142898)
 - [Lifehacker] [23 Video Games You Can Beat In Under Seven Hours](https://lifehacker.com/23-video-games-you-can-beat-in-under-seven-hours-1850142322)
 - [Lifehacker] [Now You Can &#39;Subscribe&#39; to a Car Instead of Buying or Leasing One](https://lifehacker.com/now-you-can-subscribe-to-a-car-instead-of-buying-or-lea-1850141985)
-- [Lifehacker] [Blend Blue Cheese and Ranch Dressing for a Better Wing or Wedge Experience](https://lifehacker.com/blend-blue-cheese-and-ranch-dressing-for-a-better-wing-1850141836)
-- [Lifehacker] [The Powerful One-Liners Every Parent Needs](https://lifehacker.com/the-powerful-one-liners-every-parent-needs-1850141320)
-- [Lifehacker] [The Best Authenticator Apps for iPhone and Android](https://lifehacker.com/the-best-authenticator-apps-for-iphone-and-android-1850140802)
-- [Lifehacker] [This Hidden Setting Will Stop Chrome From Killing Your Laptop’s Battery](https://lifehacker.com/this-hidden-setting-will-stop-chrome-from-killing-your-1850141127)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Blend Blue Cheese and Ranch Dressing for a Better Wing or Wedge Experience](https://lifehacker.com/blend-blue-cheese-and-ranch-dressing-for-a-better-wing-1850141836)<!-- TECH-POSTS:END -->
 
 ---
 
