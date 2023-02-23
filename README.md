@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to handle errors in React: full guide](https://dev.to/adevnadia/how-to-handle-errors-in-react-full-guide-1kmo)
+- [Dev.to/JS] [Php Vs Javascript - Choosing the Right Technology for Your Project](https://dev.to/veronica_ross1/php-vs-javascript-choosing-the-right-technology-for-your-project-2nh3)
+- [Dev.to/JS] [GlucoTrust - Blood Sugar Solution, Price, Complaints &amp; Warnings?](https://dev.to/glucotrust17/glucotrust-blood-sugar-solution-price-complaints-warnings-3lcd)
+- [Dev.to/JS] [Chaining Example in javascript](https://dev.to/himanshudevgupta/chaining-example-in-javascript-1olp)
+- [Dev.to/JS] [git pull and git fetch](https://dev.to/vincod/git-pull-and-git-fetch-1cdd)
 - [Dev.to/JS] [Create A Infinite Marquee using HTML, CSS and GSAP](https://dev.to/ymvaghela07/create-a-infinite-marquee-using-html-css-and-gsap-5bof)
 - [Dev.to/JS] [6 Tips for Better Understanding the DOM](https://dev.to/sidramaqbool/6-tips-for-better-understanding-the-dom-edp)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Understanding DOM Events](https://dev.to/sidramaqbool/a-beginners-guide-to-understanding-dom-events-3pna)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pixelating Images With React/JavaScript](https://dev.to/bytebodger/pixelating-images-in-reactjavascript-2ac7)
 - [Dev.to/JS] [How do I make an HTTP request in Javascript?](https://dev.to/goutamn99/how-do-i-make-an-http-request-in-javascript-m2o)
 - [Dev.to/JS] [Technology](https://dev.to/2dwa11/technology-3f93)
-- [Dev.to/JS] [Nước hoa nam KenPerfume](https://dev.to/nuoc_hoa_nam/nuoc-hoa-nam-kenperfume-3bie)
-- [Dev.to/JS] [Javascript structuredClone](https://dev.to/mrh0200/javascript-structuredclone-3e3i)
-- [Dev.to/JS] [10 Total.js features to use in your next Express.js application.](https://dev.to/louis_bertson_1124e9cdc59/10-totaljs-features-to-use-in-your-next-expressjs-application-141n)
-- [Dev.to/JS] [Building a now page using Next.js and social APIs](https://dev.to/cdransf/building-a-now-page-using-nextjs-and-social-apis-3099)
-- [Dev.to/JS] [Strapi + Next.js refresh static props like it&#39;s cache](https://dev.to/fullstak/strapi-nextjs-refresh-static-props-like-its-cache-176b)
 - [Lifehacker] [Use Vinegar and Lemon Juice for a Better Vinaigrette](https://lifehacker.com/use-vinegar-and-lemon-juice-for-a-better-vinaigrette-1850146738)
 - [Lifehacker] [Why Mornings Are Almost Always the Best Time to Fly](https://lifehacker.com/why-mornings-are-almost-always-the-best-time-to-fly-1850146816)
 - [Lifehacker] [Make This Breakfast Cake With Bananas and Oats](https://lifehacker.com/make-this-breakfast-cake-with-bananas-and-oats-1850146730)
