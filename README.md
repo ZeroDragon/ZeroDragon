@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Backticks as Syntactic Sugar in JavaScript and Scheme](https://dev.to/justinethier/using-backticks-as-syntactic-sugar-in-javascript-and-scheme-c81)
+- [Dev.to/JS] [Paracetamol.ts💊| #17: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-17-explica-este-codigo-typescript-51e5)
+- [Lifehacker] [12 Unusual Musical Collaborations You Should Listen To](https://lifehacker.com/12-unusual-musical-collaborations-you-should-listen-to-1850148020)
+- [Dev.to/JS] [if_else in java script:](https://dev.to/anateotfw/ifelse-in-java-script-5e35)
+- [Dev.to/JS] [Best 5 Ecommerce Search Engines for Developers](https://dev.to/medusajs/best-5-ecommerce-search-engines-for-developers-5fh6)
+- [Dev.to/JS] [3 coisas que você deve saber sobre Typescript](https://dev.to/laracarvalho/3-coisas-que-voce-deve-saber-sobre-typescript-10oe)
 - [Lifehacker] [You Might Be Using Pie Weights Wrong](https://lifehacker.com/you-might-be-using-pie-weights-wrong-1850147510)
 - [Dev.to/JS] [Exploring the Most Commonly Used Folder Names in Popular NPM Packages](https://dev.to/elidrissidev/exploring-the-most-commonly-used-folder-names-in-popular-npm-packages-4332)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Dividindo a conta](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-dividindo-a-conta-2p8m)
@@ -31,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unleashing the Full Potential of JavaScript: Exploring Its Overlooked Features](https://dev.to/canopassoftware/unleashing-the-full-potential-of-javascript-exploring-its-overlooked-features-292e)
 - [Dev.to/JS] [Read All Files of Directory and Subdirectories with Recursive Generators in JavaScript](https://dev.to/zirkelc/read-all-files-of-directory-and-subdirectories-with-recursive-generators-in-javascript-2pbd)
 - [Dev.to/JS] [ES6 Features Part-1](https://dev.to/amansingh/es6-features-part-1-1ajk)
-- [Dev.to/JS] [Howto migrate from Webpacker to jsbundling-rails in Ruby on Rails](https://dev.to/fa11enangel/howto-migrate-from-webpacker-to-jsbundling-rails-in-ruby-on-rails-3gef)
-- [Dev.to/JS] [The bridge design pattern in Javascript](https://dev.to/jukilo/the-bridge-design-pattern-in-javascript-59io)
-- [Dev.to/JS] [Highlight Text in React Native [but with a twist]](https://dev.to/royged/highlight-text-in-react-native-but-with-a-twist-2nic)
-- [Dev.to/JS] [Navigating lock files: best practices and tips](https://dev.to/torp_martin/navigating-lock-files-best-practices-and-tips-5f44)
-- [Dev.to/JS] [7 Essential React Libraries for Front-End Web Development](https://dev.to/surajondev/7-essential-react-libraries-for-front-end-web-development-23el)
 - [Crazy Programmer] [6 Reasons To Learn Programming If You Are Not A Programmer](https://www.thecrazyprogrammer.com/2023/02/6-reasons-to-learn-programming-if-you-are-not-a-programmer.html)
 - [Lifehacker] [Use Vinegar and Lemon Juice for a Better Vinaigrette](https://lifehacker.com/use-vinegar-and-lemon-juice-for-a-better-vinaigrette-1850146738)
 - [Lifehacker] [Why Mornings Are Almost Always the Best Time to Fly](https://lifehacker.com/why-mornings-are-almost-always-the-best-time-to-fly-1850146816)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Guide to Getting a Car Unstuck in the Snow](https://lifehacker.com/your-guide-to-getting-a-car-unstuck-in-the-snow-1850141388)
 - [Lifehacker] [You Should Melt Brie Into Your Spicy Instant Ramen](https://lifehacker.com/you-should-melt-brie-into-your-spicy-instant-ramen-1850141210)
 - [Lifehacker] [Help Your Teenager Start Building Good Credit Before They’re an Adult](https://lifehacker.com/help-your-teenager-start-building-good-credit-before-th-1850139758)
-- [Lifehacker] [Don’t Feed Your Baby This Recalled Enfamil Formula](https://lifehacker.com/don-t-feed-your-baby-this-recalled-enfamil-formula-1850140598)
-- [Lifehacker] [You Shouldn’t Use Your Phone Number for Two-Factor Authentication, Anyway](https://lifehacker.com/you-shouldn-t-use-your-phone-number-for-two-factor-auth-1850139776)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Feed Your Baby This Recalled Enfamil Formula](https://lifehacker.com/don-t-feed-your-baby-this-recalled-enfamil-formula-1850140598)<!-- TECH-POSTS:END -->
 
 ---
 
