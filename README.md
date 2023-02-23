@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a Responsive Blog with HTML, CSS, and JavaScript](https://dev.to/webmonster/creating-a-responsive-blog-with-html-css-and-javascript-2jol)
+- [Dev.to/JS] [Svelte + Vite, Storybook 7 with Svelte Native Format &amp; Tailwind CSS - Starter Template again! 😀](https://dev.to/jerric/svelte-vite-storybook-7-with-svelte-native-format-tailwind-css-starter-template-again-575o)
 - [Lifehacker] [Use Vinegar and Lemon Juice for a Better Vinaigrette](https://lifehacker.com/use-vinegar-and-lemon-juice-for-a-better-vinaigrette-1850146738)
 - [Dev.to/JS] [The Psychology of Debugging your code like a Pro](https://dev.to/boluaduloju/the-psychology-of-debugging-your-code-like-a-pro-3m2l)
 - [Lifehacker] [Why Mornings Are Almost Always the Best Time to Fly](https://lifehacker.com/why-mornings-are-almost-always-the-best-time-to-fly-1850146816)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js 13 - app directory &amp; routing](https://dev.to/oskidev/nextjs-13-app-directory-routing-3lfh)
 - [Dev.to/JS] [AdonisJS Framework Tutorial: build a full-stack web application](https://dev.to/educative/adonisjs-framework-tutorial-build-a-full-stack-web-application-2ool)
 - [Dev.to/JS] [The Power of Next.js: A Comprehensive Guide](https://dev.to/shabh2412/the-power-of-nextjs-a-comprehensive-guide-52d1)
-- [Dev.to/JS] [Loading Images With React/JavaScript](https://dev.to/bytebodger/loading-images-with-reactjavascript-3996)
-- [Dev.to/JS] [What&#39;s new in JavaScript Charting for 2023?](https://dev.to/jscharting/whats-new-in-javascript-charting-for-2023-1edp)
 - [Lifehacker] [What&#39;s New on Netflix in March 2023](https://lifehacker.com/whats-new-on-netflix-in-march-2023-1850145177)
 - [Lifehacker] [11 Types of Wheat Flour &lpar;and How to Use Them&rpar;](https://lifehacker.com/11-types-of-wheat-flour-and-how-to-use-them-1850145368)
 - [Lifehacker] [How to Uninstall Multiple Windows Apps at Once](https://lifehacker.com/how-to-uninstall-multiple-windows-apps-at-once-1850145087)
