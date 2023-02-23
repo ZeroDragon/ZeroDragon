@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Really Can Use Paint to Make a Room Look Bigger or Smaller](https://lifehacker.com/you-really-can-use-paint-to-make-a-room-look-bigger-or-1850150388)
+- [Dev.to/JS] [Recreating my Portfolio in Next.js](https://dev.to/vulcanwm/recreating-my-portfolio-in-nextjs-1ll7)
+- [Lifehacker] [Use This Free App to Delete Leftover App Files on Your Mac](https://lifehacker.com/use-this-free-app-to-delete-leftover-app-files-on-your-1850150940)
 - [Lifehacker] [You Can Clean Your Oven Without Scrubbing a Thing](https://lifehacker.com/you-can-clean-your-oven-without-scrubbing-a-thing-1850151228)
 - [Dev.to/JS] [7 best ReactJS developer tools to simplify your workflow](https://dev.to/ayoubkhan558/7-best-reactjs-developer-tools-to-simplify-your-workflow-5fec)
 - [Lifehacker] [Blast Your Toaster With a Hair Dryer](https://lifehacker.com/blast-your-toaster-with-a-hair-dryer-1850150896)
@@ -40,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Using These Air Fryers Immediately, Product Safety Commission Warns](https://lifehacker.com/stop-using-these-air-fryers-immediately-product-safety-1850149981)
 - [Dev.to/JS] [All you need to know about asynchronous JavaScript](https://dev.to/ppiippaa/all-you-need-to-know-about-asynchronous-javascript-40ma)
 - [Dev.to/JS] [Take Your JavaScript Skills to the Next Level: 10 Beginner-Friendly Code Challenges](https://dev.to/sidramaqbool/take-your-javascript-skills-to-the-next-level-10-beginner-friendly-code-challenges-24bg)
-- [Dev.to/JS] [A Guide to the Temporal API in JavaScript](https://dev.to/get_pieces/a-guide-to-the-temporal-api-in-javascript-5m4)
 - [Lifehacker] [‘Butterfly’ Your Meat for Quicker, More Even Cooking](https://lifehacker.com/butterfly-your-meat-for-quicker-more-even-cooking-1850149845)
 - [Lifehacker] [Use the ‘IDK? Decision Maker’ App to Help You Make Better Decisions](https://lifehacker.com/use-the-idk-decision-maker-app-to-help-you-make-bett-1850149587)
 - [Lifehacker] [‘Underreaction’ Is Your Best Parenting Tool](https://lifehacker.com/underreaction-is-your-best-parenting-tool-1850149458)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Uninstall Multiple Windows Apps at Once](https://lifehacker.com/how-to-uninstall-multiple-windows-apps-at-once-1850145087)
 - [Lifehacker] [The Best Ways to Clean All Your Sweaty Sports and Exercise Gear](https://lifehacker.com/the-best-ways-to-clean-all-your-sweaty-sports-and-exerc-1850144980)
 - [Lifehacker] [When to See the Last Full Moon of Winter](https://lifehacker.com/when-to-see-the-last-full-moon-of-winter-1850143416)
-- [Lifehacker] [This Recalled Starbucks Drink Might Have Glass In It](https://lifehacker.com/this-recalled-starbucks-drink-might-have-glass-in-it-1850142368)
-- [Lifehacker] [12 Surprising Things You Should Keep in Your Kitchen](https://lifehacker.com/12-surprising-things-you-should-keep-in-your-kitchen-1850142898)
-- [Lifehacker] [23 Video Games You Can Beat In Under Seven Hours](https://lifehacker.com/23-video-games-you-can-beat-in-under-seven-hours-1850142322)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Recalled Starbucks Drink Might Have Glass In It](https://lifehacker.com/this-recalled-starbucks-drink-might-have-glass-in-it-1850142368)<!-- TECH-POSTS:END -->
 
 ---
 
