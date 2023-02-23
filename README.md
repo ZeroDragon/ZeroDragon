@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The best way to fetch data from Sanity &lpar;using zod&rpar;](https://dev.to/fibonacid/the-best-way-to-fetch-data-from-sanity-using-zod-57jj)
+- [Lifehacker] [What&#39;s New on Paramount+ in March 2023](https://lifehacker.com/whats-new-on-paramount-in-march-2023-1850151677)
+- [Lifehacker] [11 Ways to Make a Better Tuna Sandwich](https://lifehacker.com/11-ways-to-make-a-better-tuna-sandwich-1850150470)
 - [Lifehacker] [7 Objects Floating in US Airspace Right Now](https://lifehacker.com/7-objects-floating-in-us-airspace-right-now-1850151473)
 - [Dev.to/JS] [Redesigning an app from the ground up](https://dev.to/seymourisdead/redesigning-an-app-from-the-ground-up-2mfo)
 - [Lifehacker] [You Really Can Use Paint to Make a Room Look Bigger or Smaller](https://lifehacker.com/you-really-can-use-paint-to-make-a-room-look-bigger-or-1850150388)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Experiments with the JavaScript Garbage Collector](https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3)
 - [Dev.to/JS] [Understanding the Event Loop in JavaScript](https://dev.to/codewithashim/understanding-the-event-loop-in-javascript-1h1o)
 - [Lifehacker] [Stop Using These Air Fryers Immediately, Product Safety Commission Warns](https://lifehacker.com/stop-using-these-air-fryers-immediately-product-safety-1850149981)
-- [Dev.to/JS] [All you need to know about asynchronous JavaScript](https://dev.to/ppiippaa/all-you-need-to-know-about-asynchronous-javascript-40ma)
 - [Lifehacker] [‘Butterfly’ Your Meat for Quicker, More Even Cooking](https://lifehacker.com/butterfly-your-meat-for-quicker-more-even-cooking-1850149845)
 - [Lifehacker] [Use the ‘IDK? Decision Maker’ App to Help You Make Better Decisions](https://lifehacker.com/use-the-idk-decision-maker-app-to-help-you-make-bett-1850149587)
 - [Lifehacker] [‘Underreaction’ Is Your Best Parenting Tool](https://lifehacker.com/underreaction-is-your-best-parenting-tool-1850149458)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Refurbished Kindles for As Low As $20 Right Now](https://lifehacker.com/you-can-get-refurbished-kindles-for-as-low-as-20-right-1850145890)
 - [Lifehacker] [What&#39;s New on Netflix in March 2023](https://lifehacker.com/whats-new-on-netflix-in-march-2023-1850145177)
 - [Lifehacker] [11 Types of Wheat Flour &lpar;and How to Use Them&rpar;](https://lifehacker.com/11-types-of-wheat-flour-and-how-to-use-them-1850145368)
-- [Lifehacker] [How to Uninstall Multiple Windows Apps at Once](https://lifehacker.com/how-to-uninstall-multiple-windows-apps-at-once-1850145087)
-- [Lifehacker] [The Best Ways to Clean All Your Sweaty Sports and Exercise Gear](https://lifehacker.com/the-best-ways-to-clean-all-your-sweaty-sports-and-exerc-1850144980)
-- [Lifehacker] [When to See the Last Full Moon of Winter](https://lifehacker.com/when-to-see-the-last-full-moon-of-winter-1850143416)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Uninstall Multiple Windows Apps at Once](https://lifehacker.com/how-to-uninstall-multiple-windows-apps-at-once-1850145087)<!-- TECH-POSTS:END -->
 
 ---
 
