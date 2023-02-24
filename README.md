@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Rising Interest Rates Will Affect Your Finances the Rest of the Year](https://lifehacker.com/how-rising-interest-rates-will-affect-your-finances-the-1850155359)
+- [Lifehacker] [You Can Get a Lifetime Subscription to Scrivener for $30 Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-scrivener-for-3-1850155969)
 - [Lifehacker] [You Can Get Peacock Premium for 50% Off Right Now](https://lifehacker.com/you-can-get-peacock-premium-for-50-off-right-now-1850155513)
 - [Dev.to/JS] [File Upload with Progress Bar HTML CSS JS &amp; PHP](https://dev.to/hassan_coder/file-upload-with-progress-bar-html-css-js-php-58j4)
 - [Lifehacker] [The Easiest Ways to Make Your Fake Plants Look Real](https://lifehacker.com/the-easiest-ways-to-make-your-fake-plants-look-real-1850155426)
@@ -30,7 +32,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Pirating Final Cut Pro Is More Dangerous Than You Think](https://lifehacker.com/pirating-final-cut-pro-is-more-dangerous-than-you-think-1850154779)
 - [Crazy Programmer] [Why Outsource Website Development?](https://www.thecrazyprogrammer.com/2023/02/why-outsource-website-development.html)
 - [Dev.to/JS] [Introduce your own data types](https://dev.to/tahazsh/introduce-your-own-data-types-5c6f)
-- [Dev.to/JS] [I created an app to visualizer word unscrambling algorithm](https://dev.to/h_sifat/i-created-an-app-to-visualizer-word-unscrambling-algorithm-1km5)
+- [Dev.to/JS] [I created an app to visualize word unscrambling algorithm](https://dev.to/h_sifat/i-created-an-app-to-visualizer-word-unscrambling-algorithm-1km5)
 - [Lifehacker] [Yes, Any Drink Can Be Cake Icing](https://lifehacker.com/yes-any-drink-can-be-cake-icing-1850155174)
 - [Dev.to/JS] [Criando um Parser de JSON do zero](https://dev.to/vit0rr/criando-um-parser-de-json-do-zero-3k7b)
 - [Lifehacker] [Make Your Own Red Lobster Cheddar Bay Biscuit Loaf](https://lifehacker.com/make-your-own-red-lobster-cheddar-bay-biscuit-loaf-1850152900)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the ‘IDK? Decision Maker’ App to Help You Make Better Decisions](https://lifehacker.com/use-the-idk-decision-maker-app-to-help-you-make-bett-1850149587)
 - [Lifehacker] [‘Underreaction’ Is Your Best Parenting Tool](https://lifehacker.com/underreaction-is-your-best-parenting-tool-1850149458)
 - [Lifehacker] [These Numbers Will Convince Your Teen to Start Saving for Retirement](https://lifehacker.com/these-numbers-will-convince-your-teen-to-start-saving-f-1850144908)
-- [Lifehacker] [12 Unusual Musical Collaborations You Should Listen To](https://lifehacker.com/12-unusual-musical-collaborations-you-should-listen-to-1850148020)
-- [Lifehacker] [You Might Be Using Pie Weights Wrong](https://lifehacker.com/you-might-be-using-pie-weights-wrong-1850147510)
-- [Crazy Programmer] [6 Reasons To Learn Programming If You Are Not A Programmer](https://www.thecrazyprogrammer.com/2023/02/6-reasons-to-learn-programming-if-you-are-not-a-programmer.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Unusual Musical Collaborations You Should Listen To](https://lifehacker.com/12-unusual-musical-collaborations-you-should-listen-to-1850148020)<!-- TECH-POSTS:END -->
 
 ---
 
