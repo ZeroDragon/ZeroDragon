@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [openGauss database is a structured dataset](https://dev.to/olivia_ma_350e4f6e00893e3/opengauss-database-is-a-structured-dataset-83j)
 - [Dev.to/JS] [My vs code extensions](https://dev.to/lleamancio/my-vs-code-extensions-52kd)
 - [Dev.to/JS] [How to integrate third-party APIs into your frontend applications](https://dev.to/haszankauna/how-to-integrate-third-party-apis-into-your-frontend-applications-1p30)
 - [Dev.to/JS] [How did i get into programming ?](https://dev.to/bracley/how-did-i-get-into-programming--30g2)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get a Month of Xbox Game Pass Ultimate for $2.79 Right Now](https://lifehacker.com/get-a-month-of-xbox-game-pass-ultimate-for-2-79-right-1850150753)
 - [Lifehacker] [Here’s What Every Line of Your Paycheck Actually Means](https://lifehacker.com/here-s-what-every-line-of-your-paycheck-actually-means-1850150177)
 - [Dev.to/JS] [Introduction to Bash Shell Scripting for Frontend Developers](https://dev.to/danywalls/introduction-to-bash-shell-scripting-for-frontend-developers-o3d)
-- [Dev.to/JS] [JavaScript Tutorial Series: Date Object](https://dev.to/fullstackjo/javascript-tutorial-series-date-object-gb5)
 - [Lifehacker] [&#39;Marathon&#39; Is Letterboxd for TV Shows](https://lifehacker.com/marathon-is-letterboxd-for-tv-shows-1850149703)
 - [Lifehacker] [Stop Using These Air Fryers Immediately, Product Safety Commission Warns](https://lifehacker.com/stop-using-these-air-fryers-immediately-product-safety-1850149981)
 - [Lifehacker] [‘Butterfly’ Your Meat for Quicker, More Even Cooking](https://lifehacker.com/butterfly-your-meat-for-quicker-more-even-cooking-1850149845)
