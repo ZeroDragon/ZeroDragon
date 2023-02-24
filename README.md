@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using LiteFS with Bun on Fly.io](https://dev.to/webreflection/using-litefs-with-bun-on-flyio-17m7)
+- [Dev.to/JS] [How to Hire a React.js Developer: Best Practices and Strategies](https://dev.to/monu181/how-to-hire-a-reactjs-developer-best-practices-and-strategies-5a7k)
+- [Dev.to/JS] [How to upgrade npm packages?](https://dev.to/alexandrunastase/how-to-upgrade-npm-packages-2l0g)
 - [Dev.to/JS] [Complete $200 Computer for BloomTech Full Stack Web](https://dev.to/alphaseinor/complete-200-computer-for-bloomtech-full-stack-web-1m4a)
 - [Dev.to/JS] [Prostadine - Prostate Health Reviews, Benefits, Results, Scam Or Legit?](https://dev.to/prostadineinfo2/prostadine-prostate-health-reviews-benefits-results-scam-or-legit-52di)
 - [Dev.to/JS] [Miếng dán camera sau Samsung Galaxy S23 Ultra](https://dev.to/khanhtoan260400/mieng-dan-camera-sau-samsung-galaxy-s23-ultra-2jfd)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript —— Aysnc](https://dev.to/itroger/javascript-aysnc-74d)
 - [Dev.to/JS] [URL REGEX](https://dev.to/jbxamora/url-regex-1pol)
 - [Dev.to/JS] [JavaScript —— Class](https://dev.to/itroger/javascript-class-1h24)
-- [Dev.to/JS] [openGauss database is a structured dataset](https://dev.to/olivia_ma_350e4f6e00893e3/opengauss-database-is-a-structured-dataset-83j)
-- [Dev.to/JS] [My vs code extensions](https://dev.to/lleamancio/my-vs-code-extensions-52kd)
-- [Dev.to/JS] [How to integrate third-party APIs into your frontend applications](https://dev.to/haszankauna/how-to-integrate-third-party-apis-into-your-frontend-applications-1p30)
 - [Lifehacker] [What&#39;s New on Paramount+ in March 2023](https://lifehacker.com/whats-new-on-paramount-in-march-2023-1850151677)
 - [Lifehacker] [11 Ways to Make a Better Tuna Sandwich](https://lifehacker.com/11-ways-to-make-a-better-tuna-sandwich-1850150470)
 - [Lifehacker] [7 Objects Floating in US Airspace Right Now](https://lifehacker.com/7-objects-floating-in-us-airspace-right-now-1850151473)
