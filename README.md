@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get Peacock Premium for 50% Off Right Now](https://lifehacker.com/you-can-get-peacock-premium-for-50-off-right-now-1850155513)
+- [Dev.to/JS] [File Upload with Progress Bar HTML CSS JS &amp; PHP](https://dev.to/hassan_coder/file-upload-with-progress-bar-html-css-js-php-58j4)
+- [Lifehacker] [The Easiest Ways to Make Your Fake Plants Look Real](https://lifehacker.com/the-easiest-ways-to-make-your-fake-plants-look-real-1850155426)
+- [Dev.to/JS] [Breaking Up with Express: How NestJS Stole My Heart](https://dev.to/joeljsv/breaking-up-with-express-how-nestjs-stole-my-heart-1kob)
 - [Lifehacker] [Pirating Final Cut Pro Is More Dangerous Than You Think](https://lifehacker.com/pirating-final-cut-pro-is-more-dangerous-than-you-think-1850154779)
 - [Crazy Programmer] [Why Outsource Website Development?](https://www.thecrazyprogrammer.com/2023/02/why-outsource-website-development.html)
 - [Dev.to/JS] [Introduce your own data types](https://dev.to/tahazsh/introduce-your-own-data-types-5c6f)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 of the Best Reboots of Shows You Loved As a Kid](https://lifehacker.com/15-of-the-best-reboots-of-shows-you-loved-as-a-kid-1850145098)
 - [Dev.to/JS] [How To Mock Only One Function From Module](https://dev.to/zirkelc/how-to-mock-only-one-function-from-module-1kf6)
 - [Dev.to/JS] [How to Fix React Hydration Error in Nextjs - Practical Guide](https://dev.to/olanetsoft/how-to-fix-react-hydration-error-in-nextjs-practical-guide-cjh)
-- [Dev.to/JS] [React JS Consulting: A Comprehensive Guide](https://dev.to/monu181/react-js-consulting-a-comprehensive-guide-21e5)
-- [Dev.to/JS] [How to connect multiple wallets to your React dApp using Web3Modal](https://dev.to/sadiqful/how-to-connect-multiple-wallets-to-your-react-dapp-using-web3modal-5cmn)
 - [Lifehacker] [You Should Make Dessert Pasta Immediately](https://lifehacker.com/you-should-make-dessert-pasta-immediately-1850151506)
 - [Lifehacker] [What&#39;s New on Paramount+ in March 2023](https://lifehacker.com/whats-new-on-paramount-in-march-2023-1850151677)
 - [Lifehacker] [11 Ways to Make a Better Tuna Sandwich](https://lifehacker.com/11-ways-to-make-a-better-tuna-sandwich-1850150470)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Numbers Will Convince Your Teen to Start Saving for Retirement](https://lifehacker.com/these-numbers-will-convince-your-teen-to-start-saving-f-1850144908)
 - [Lifehacker] [12 Unusual Musical Collaborations You Should Listen To](https://lifehacker.com/12-unusual-musical-collaborations-you-should-listen-to-1850148020)
 - [Lifehacker] [You Might Be Using Pie Weights Wrong](https://lifehacker.com/you-might-be-using-pie-weights-wrong-1850147510)
-- [Crazy Programmer] [6 Reasons To Learn Programming If You Are Not A Programmer](https://www.thecrazyprogrammer.com/2023/02/6-reasons-to-learn-programming-if-you-are-not-a-programmer.html)
-- [Lifehacker] [Use Vinegar and Lemon Juice for a Better Vinaigrette](https://lifehacker.com/use-vinegar-and-lemon-juice-for-a-better-vinaigrette-1850146738)
-- [Lifehacker] [Why Mornings Are Almost Always the Best Time to Fly](https://lifehacker.com/why-mornings-are-almost-always-the-best-time-to-fly-1850146816)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [6 Reasons To Learn Programming If You Are Not A Programmer](https://www.thecrazyprogrammer.com/2023/02/6-reasons-to-learn-programming-if-you-are-not-a-programmer.html)<!-- TECH-POSTS:END -->
 
 ---
 
