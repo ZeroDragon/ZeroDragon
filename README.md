@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dropdowns In Selenium WebDriver With Java](https://dev.to/lambdatest/dropdowns-in-selenium-webdriver-with-java-3f1j)
+- [Dev.to/JS] [Miếng dán màn hình Samsung Galaxy S23 Ultra](https://dev.to/khanhtoan260400/mieng-dan-man-hinh-samsung-galaxy-s23-ultra-1j1)
+- [Dev.to/JS] [Sobha Neopolis Apartments](https://dev.to/neopolissobha/sobha-neopolis-apartments-2306)
 - [Dev.to/JS] [Using LiteFS with Bun on Fly.io](https://dev.to/webreflection/using-litefs-with-bun-on-flyio-17m7)
 - [Dev.to/JS] [How to Hire a React.js Developer: Best Practices and Strategies](https://dev.to/monu181/how-to-hire-a-reactjs-developer-best-practices-and-strategies-5a7k)
 - [Dev.to/JS] [How to upgrade npm packages?](https://dev.to/alexandrunastase/how-to-upgrade-npm-packages-2l0g)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Determining the RGB &quot;Distance&quot; Between Two Colors](https://dev.to/bytebodger/determining-the-rgb-distance-between-two-colors-4n91)
 - [Dev.to/JS] [Will WebAssembly Replace JavaScript?](https://dev.to/domfive/will-webassembly-replace-javascript-3648)
 - [Dev.to/JS] [Automating RSS syndication and sharing with Next.js and GitHub](https://dev.to/cdransf/automating-rss-syndication-and-sharing-with-nextjs-and-github-1gh)
-- [Dev.to/JS] [JavaScript —— Aysnc](https://dev.to/itroger/javascript-aysnc-74d)
-- [Dev.to/JS] [URL REGEX](https://dev.to/jbxamora/url-regex-1pol)
-- [Dev.to/JS] [JavaScript —— Class](https://dev.to/itroger/javascript-class-1h24)
 - [Lifehacker] [What&#39;s New on Paramount+ in March 2023](https://lifehacker.com/whats-new-on-paramount-in-march-2023-1850151677)
 - [Lifehacker] [11 Ways to Make a Better Tuna Sandwich](https://lifehacker.com/11-ways-to-make-a-better-tuna-sandwich-1850150470)
 - [Lifehacker] [7 Objects Floating in US Airspace Right Now](https://lifehacker.com/7-objects-floating-in-us-airspace-right-now-1850151473)
