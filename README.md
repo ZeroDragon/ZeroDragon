@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Will WebAssembly Replace JavaScript?](https://dev.to/domfive/will-webassembly-replace-javascript-3648)
 - [Dev.to/JS] [Automating RSS syndication and sharing with Next.js and GitHub](https://dev.to/cdransf/automating-rss-syndication-and-sharing-with-nextjs-and-github-1gh)
 - [Dev.to/JS] [JavaScript —— Aysnc](https://dev.to/itroger/javascript-aysnc-74d)
 - [Dev.to/JS] [URL REGEX](https://dev.to/jbxamora/url-regex-1pol)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Micro-frontend Application; The Future Of Frontend Architecture](https://dev.to/xhulqornayn_ibrahim/micro-frontend-application-the-future-of-frontend-architecture-1glo)
 - [Dev.to/JS] [How to remove duplicate elements in an Array in JavaScript.](https://dev.to/headbwoi/how-to-remove-duplicate-elements-in-an-array-in-javascript-3kb7)
 - [Dev.to/JS] [Format large numbers to corresponding abbreviations](https://dev.to/devlazar/format-large-numbers-to-corresponding-abbreviations-ep7)
-- [Dev.to/JS] [The best way to fetch data from Sanity &lpar;using zod&rpar;](https://dev.to/fibonacid/the-best-way-to-fetch-data-from-sanity-using-zod-57jj)
 - [Lifehacker] [What&#39;s New on Paramount+ in March 2023](https://lifehacker.com/whats-new-on-paramount-in-march-2023-1850151677)
 - [Lifehacker] [11 Ways to Make a Better Tuna Sandwich](https://lifehacker.com/11-ways-to-make-a-better-tuna-sandwich-1850150470)
 - [Lifehacker] [7 Objects Floating in US Airspace Right Now](https://lifehacker.com/7-objects-floating-in-us-airspace-right-now-1850151473)
