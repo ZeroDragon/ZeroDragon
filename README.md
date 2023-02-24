@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My vs code extensions](https://dev.to/lleamancio/my-vs-code-extensions-52kd)
+- [Dev.to/JS] [How to integrate third-party APIs into your frontend applications](https://dev.to/haszankauna/how-to-integrate-third-party-apis-into-your-frontend-applications-1p30)
+- [Dev.to/JS] [How did i get into programming ?](https://dev.to/bracley/how-did-i-get-into-programming--30g2)
+- [Dev.to/JS] [Micro-frontend Application; The Future Of Frontend Architecture](https://dev.to/xhulqornayn_ibrahim/micro-frontend-application-the-future-of-frontend-architecture-1glo)
 - [Dev.to/JS] [How to remove duplicate elements in an Array in JavaScript.](https://dev.to/headbwoi/how-to-remove-duplicate-elements-in-an-array-in-javascript-3kb7)
 - [Dev.to/JS] [Format large numbers to corresponding abbreviations](https://dev.to/devlazar/format-large-numbers-to-corresponding-abbreviations-ep7)
 - [Dev.to/JS] [The best way to fetch data from Sanity &lpar;using zod&rpar;](https://dev.to/fibonacid/the-best-way-to-fetch-data-from-sanity-using-zod-57jj)
@@ -40,11 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s What Every Line of Your Paycheck Actually Means](https://lifehacker.com/here-s-what-every-line-of-your-paycheck-actually-means-1850150177)
 - [Dev.to/JS] [Introduction to Bash Shell Scripting for Frontend Developers](https://dev.to/danywalls/introduction-to-bash-shell-scripting-for-frontend-developers-o3d)
 - [Dev.to/JS] [JavaScript Tutorial Series: Date Object](https://dev.to/fullstackjo/javascript-tutorial-series-date-object-gb5)
-- [Dev.to/JS] [I Don&#39;t Need a State Manager in Angular, or am I just delaying his arrival?](https://dev.to/danywalls/i-dont-need-a-state-manager-in-angular-or-am-i-just-delaying-his-arrival-1d3l)
-- [Dev.to/JS] [Getting Started With React](https://dev.to/marvel_at_don/getting-started-with-react-j5a)
-- [Dev.to/JS] [Lightning-Fast Portfolio Site in Just 3 Hours](https://dev.to/seeratawan01/lightning-fast-portfolio-site-in-just-3-hours-h0e)
 - [Lifehacker] [&#39;Marathon&#39; Is Letterboxd for TV Shows](https://lifehacker.com/marathon-is-letterboxd-for-tv-shows-1850149703)
-- [Dev.to/JS] [Thcs hiệp hòa - Bách khoa toàn thư](https://dev.to/thcshiephoa/thcs-hiep-hoa-bach-khoa-toan-thu-36c1)
 - [Lifehacker] [Stop Using These Air Fryers Immediately, Product Safety Commission Warns](https://lifehacker.com/stop-using-these-air-fryers-immediately-product-safety-1850149981)
 - [Lifehacker] [‘Butterfly’ Your Meat for Quicker, More Even Cooking](https://lifehacker.com/butterfly-your-meat-for-quicker-more-even-cooking-1850149845)
 - [Lifehacker] [Use the ‘IDK? Decision Maker’ App to Help You Make Better Decisions](https://lifehacker.com/use-the-idk-decision-maker-app-to-help-you-make-bett-1850149587)
