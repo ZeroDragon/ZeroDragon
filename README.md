@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Miếng dán camera sau Samsung Galaxy S23 Ultra](https://dev.to/khanhtoan260400/mieng-dan-camera-sau-samsung-galaxy-s23-ultra-2jfd)
+- [Dev.to/JS] [Determining the RGB &quot;Distance&quot; Between Two Colors](https://dev.to/bytebodger/determining-the-rgb-distance-between-two-colors-4n91)
 - [Dev.to/JS] [Will WebAssembly Replace JavaScript?](https://dev.to/domfive/will-webassembly-replace-javascript-3648)
 - [Dev.to/JS] [Automating RSS syndication and sharing with Next.js and GitHub](https://dev.to/cdransf/automating-rss-syndication-and-sharing-with-nextjs-and-github-1gh)
 - [Dev.to/JS] [JavaScript —— Aysnc](https://dev.to/itroger/javascript-aysnc-74d)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to integrate third-party APIs into your frontend applications](https://dev.to/haszankauna/how-to-integrate-third-party-apis-into-your-frontend-applications-1p30)
 - [Dev.to/JS] [How did i get into programming ?](https://dev.to/bracley/how-did-i-get-into-programming--30g2)
 - [Dev.to/JS] [Micro-frontend Application; The Future Of Frontend Architecture](https://dev.to/xhulqornayn_ibrahim/micro-frontend-application-the-future-of-frontend-architecture-1glo)
-- [Dev.to/JS] [How to remove duplicate elements in an Array in JavaScript.](https://dev.to/headbwoi/how-to-remove-duplicate-elements-in-an-array-in-javascript-3kb7)
-- [Dev.to/JS] [Format large numbers to corresponding abbreviations](https://dev.to/devlazar/format-large-numbers-to-corresponding-abbreviations-ep7)
 - [Lifehacker] [What&#39;s New on Paramount+ in March 2023](https://lifehacker.com/whats-new-on-paramount-in-march-2023-1850151677)
 - [Lifehacker] [11 Ways to Make a Better Tuna Sandwich](https://lifehacker.com/11-ways-to-make-a-better-tuna-sandwich-1850150470)
 - [Lifehacker] [7 Objects Floating in US Airspace Right Now](https://lifehacker.com/7-objects-floating-in-us-airspace-right-now-1850151473)
