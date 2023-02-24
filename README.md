@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Finally Get Google’s Magic Eraser on Your iPhone or Android](https://lifehacker.com/you-can-finally-get-google-s-magic-eraser-on-your-iphon-1850157142)
+- [Dev.to/JS] [Rive animation is coming to NativeScript](https://dev.to/oreoyona/rive-animation-is-coming-to-nativescript-4ijn)
+- [Lifehacker] [Your Marinara Needs Onions or Garlic, but Not Both](https://lifehacker.com/your-marinara-needs-onions-or-garlic-but-not-both-1850156719)
+- [Dev.to/JS] [JavaScript Tutorial Series: Higher order functions](https://dev.to/fullstackjo/javascript-tutorial-series-higher-order-functions-507b)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is Competitive Hobbyhorsing?](https://lifehacker.com/what-is-competitive-hobbyhorsing-1850156770)
 - [Lifehacker] [12 Ways to Transform Your Backyard Shed Into Something More Useful](https://lifehacker.com/12-ways-to-transform-your-backyard-shed-into-something-1850155913)
 - [Dev.to/JS] [Basic backend template following best practices](https://dev.to/abreu/basic-backend-template-following-best-practices-1baj)
 - [Dev.to/JS] [What is jQuery? Learn one of the most popular JavaScript libraries](https://dev.to/educative/what-is-jquery-learn-the-one-of-the-most-popular-javascript-library-4jlo)
@@ -44,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Yes, Any Drink Can Be Cake Icing](https://lifehacker.com/yes-any-drink-can-be-cake-icing-1850155174)
 - [Dev.to/JS] [Criando um Parser de JSON do zero](https://dev.to/vit0rr/criando-um-parser-de-json-do-zero-3k7b)
 - [Lifehacker] [Make Your Own Red Lobster Cheddar Bay Biscuit Loaf](https://lifehacker.com/make-your-own-red-lobster-cheddar-bay-biscuit-loaf-1850152900)
-- [Dev.to/JS] [Animaciones con GSAP + React 🌟](https://dev.to/franklin030601/animaciones-con-gsap-react-na)
-- [Dev.to/JS] [Animations with GSAP + React 🌟](https://dev.to/franklin030601/animations-with-gsap-react-1nok)
 - [Lifehacker] [These Airlines Don&#39;t Charge Extra for Families to Sit Together](https://lifehacker.com/these-airlines-dont-charge-extra-for-families-to-sit-to-1850152473)
 - [Lifehacker] [Blue Algae Latte, Golden Milk, and 11 More Coffee Alternatives You Will Love or Hate](https://lifehacker.com/blue-algae-latte-golden-milk-and-11-more-coffee-alter-1850153484)
 - [Lifehacker] [15 of the Best Reboots of Shows You Loved As a Kid](https://lifehacker.com/15-of-the-best-reboots-of-shows-you-loved-as-a-kid-1850145098)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Blast Your Toaster With a Hair Dryer](https://lifehacker.com/blast-your-toaster-with-a-hair-dryer-1850150896)
 - [Lifehacker] [Get a Month of Xbox Game Pass Ultimate for $2.79 Right Now](https://lifehacker.com/get-a-month-of-xbox-game-pass-ultimate-for-2-79-right-1850150753)
 - [Lifehacker] [Here’s What Every Line of Your Paycheck Actually Means](https://lifehacker.com/here-s-what-every-line-of-your-paycheck-actually-means-1850150177)
-- [Lifehacker] [&#39;Marathon&#39; Is Letterboxd for TV Shows](https://lifehacker.com/marathon-is-letterboxd-for-tv-shows-1850149703)
-- [Lifehacker] [Stop Using These Air Fryers Immediately, Product Safety Commission Warns](https://lifehacker.com/stop-using-these-air-fryers-immediately-product-safety-1850149981)
-- [Lifehacker] [‘Butterfly’ Your Meat for Quicker, More Even Cooking](https://lifehacker.com/butterfly-your-meat-for-quicker-more-even-cooking-1850149845)
-- [Lifehacker] [Use the ‘IDK? Decision Maker’ App to Help You Make Better Decisions](https://lifehacker.com/use-the-idk-decision-maker-app-to-help-you-make-bett-1850149587)<!-- TECH-POSTS:END -->
+- [Lifehacker] [&#39;Marathon&#39; Is Letterboxd for TV Shows](https://lifehacker.com/marathon-is-letterboxd-for-tv-shows-1850149703)<!-- TECH-POSTS:END -->
 
 ---
 
