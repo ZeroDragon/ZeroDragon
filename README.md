@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Automating RSS syndication and sharing with Next.js and GitHub](https://dev.to/cdransf/automating-rss-syndication-and-sharing-with-nextjs-and-github-1gh)
+- [Dev.to/JS] [JavaScript —— Aysnc](https://dev.to/itroger/javascript-aysnc-74d)
+- [Dev.to/JS] [URL REGEX](https://dev.to/jbxamora/url-regex-1pol)
+- [Dev.to/JS] [JavaScript —— Class](https://dev.to/itroger/javascript-class-1h24)
 - [Dev.to/JS] [openGauss database is a structured dataset](https://dev.to/olivia_ma_350e4f6e00893e3/opengauss-database-is-a-structured-dataset-83j)
 - [Dev.to/JS] [My vs code extensions](https://dev.to/lleamancio/my-vs-code-extensions-52kd)
 - [Dev.to/JS] [How to integrate third-party APIs into your frontend applications](https://dev.to/haszankauna/how-to-integrate-third-party-apis-into-your-frontend-applications-1p30)
@@ -34,16 +38,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Paramount+ in March 2023](https://lifehacker.com/whats-new-on-paramount-in-march-2023-1850151677)
 - [Lifehacker] [11 Ways to Make a Better Tuna Sandwich](https://lifehacker.com/11-ways-to-make-a-better-tuna-sandwich-1850150470)
 - [Lifehacker] [7 Objects Floating in US Airspace Right Now](https://lifehacker.com/7-objects-floating-in-us-airspace-right-now-1850151473)
-- [Dev.to/JS] [Redesigning an app from the ground up](https://dev.to/seymourisdead/redesigning-an-app-from-the-ground-up-2mfo)
 - [Lifehacker] [You Really Can Use Paint to Make a Room Look Bigger or Smaller](https://lifehacker.com/you-really-can-use-paint-to-make-a-room-look-bigger-or-1850150388)
-- [Dev.to/JS] [Recreating my Portfolio in Next.js](https://dev.to/vulcanwm/recreating-my-portfolio-in-nextjs-1ll7)
 - [Lifehacker] [Use This Free App to Delete Leftover App Files on Your Mac](https://lifehacker.com/use-this-free-app-to-delete-leftover-app-files-on-your-1850150940)
 - [Lifehacker] [You Can Clean Your Oven Without Scrubbing a Thing](https://lifehacker.com/you-can-clean-your-oven-without-scrubbing-a-thing-1850151228)
-- [Dev.to/JS] [7 best ReactJS developer tools to simplify your workflow](https://dev.to/ayoubkhan558/7-best-reactjs-developer-tools-to-simplify-your-workflow-5fec)
 - [Lifehacker] [Blast Your Toaster With a Hair Dryer](https://lifehacker.com/blast-your-toaster-with-a-hair-dryer-1850150896)
 - [Lifehacker] [Get a Month of Xbox Game Pass Ultimate for $2.79 Right Now](https://lifehacker.com/get-a-month-of-xbox-game-pass-ultimate-for-2-79-right-1850150753)
 - [Lifehacker] [Here’s What Every Line of Your Paycheck Actually Means](https://lifehacker.com/here-s-what-every-line-of-your-paycheck-actually-means-1850150177)
-- [Dev.to/JS] [Introduction to Bash Shell Scripting for Frontend Developers](https://dev.to/danywalls/introduction-to-bash-shell-scripting-for-frontend-developers-o3d)
 - [Lifehacker] [&#39;Marathon&#39; Is Letterboxd for TV Shows](https://lifehacker.com/marathon-is-letterboxd-for-tv-shows-1850149703)
 - [Lifehacker] [Stop Using These Air Fryers Immediately, Product Safety Commission Warns](https://lifehacker.com/stop-using-these-air-fryers-immediately-product-safety-1850149981)
 - [Lifehacker] [‘Butterfly’ Your Meat for Quicker, More Even Cooking](https://lifehacker.com/butterfly-your-meat-for-quicker-more-even-cooking-1850149845)
