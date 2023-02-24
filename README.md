@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make Your Own Red Lobster Cheddar Bay Biscuit Loaf](https://lifehacker.com/make-your-own-red-lobster-cheddar-bay-biscuit-loaf-1850152900)
+- [Dev.to/JS] [Animaciones con GSAP + React 🌟](https://dev.to/franklin030601/animaciones-con-gsap-react-na)
+- [Dev.to/JS] [Animations with GSAP + React 🌟](https://dev.to/franklin030601/animations-with-gsap-react-1nok)
+- [Dev.to/JS] [Paracetamol.ts💊| #18: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-18-explica-este-codigo-typescript-3l1l)
+- [Dev.to/JS] [Updating relative time in UI with Nuxt3](https://dev.to/chipd/updating-relative-time-in-ui-with-nuxt3-2ikm)
+- [Lifehacker] [These Airlines Don&#39;t Charge Extra for Families to Sit Together](https://lifehacker.com/these-airlines-dont-charge-extra-for-families-to-sit-to-1850152473)
+- [Lifehacker] [Blue Algae Latte, Golden Milk, and 11 More Coffee Alternatives You Will Love or Hate](https://lifehacker.com/blue-algae-latte-golden-milk-and-11-more-coffee-alter-1850153484)
 - [Dev.to/JS] [Deploying a Lambda with a static IP has never been so simple 🍰](https://dev.to/aws-builders/deploying-a-lambda-with-a-static-ip-has-never-been-so-simple-31k)
 - [Lifehacker] [15 of the Best Reboots of Shows You Loved As a Kid](https://lifehacker.com/15-of-the-best-reboots-of-shows-you-loved-as-a-kid-1850145098)
 - [Dev.to/JS] [How To Mock Only One Function From Module](https://dev.to/zirkelc/how-to-mock-only-one-function-from-module-1kf6)
@@ -33,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Separando meias por cores!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-separando-meias-por-cores-5g05)
 - [Dev.to/JS] [Mouse Events: onMouseOut and onMouseLeave in React](https://dev.to/parthgupta118/mouse-events-onmouseout-and-onmouseleave-in-react-1fpd)
 - [Dev.to/JS] [🔄🔂 5 Simple Ways to Loop Over Data in HTML Using JavaScript 📊📝](https://dev.to/ayoubkhan558/5-simple-ways-to-loop-over-data-in-html-using-javascript-30kb)
-- [Dev.to/JS] [¿Qué son los Type Predicates en Typescript?](https://dev.to/matiasfha/que-son-los-type-predicates-en-typescript-2odn)
-- [Dev.to/JS] [[Micro frontends] NX + Angular Module Federation + Angular MFE + VueJs MFE](https://dev.to/blminami/micro-frontends-nx-angular-module-federation-angular-mfe-vuejs-mfe-13hi)
-- [Dev.to/JS] [useSWR-Next.JS Fetching Remote Data](https://dev.to/eckdev/useswr-nextjs-fetching-remote-data-1ljj)
-- [Dev.to/JS] [JSX: The Secret Sauce Behind React&#39;s Success](https://dev.to/bowen/jsx-the-secret-sauce-behind-reacts-success-2hhk)
 - [Lifehacker] [What&#39;s New on Paramount+ in March 2023](https://lifehacker.com/whats-new-on-paramount-in-march-2023-1850151677)
 - [Lifehacker] [11 Ways to Make a Better Tuna Sandwich](https://lifehacker.com/11-ways-to-make-a-better-tuna-sandwich-1850150470)
 - [Lifehacker] [7 Objects Floating in US Airspace Right Now](https://lifehacker.com/7-objects-floating-in-us-airspace-right-now-1850151473)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Mornings Are Almost Always the Best Time to Fly](https://lifehacker.com/why-mornings-are-almost-always-the-best-time-to-fly-1850146816)
 - [Lifehacker] [Make This Breakfast Cake With Bananas and Oats](https://lifehacker.com/make-this-breakfast-cake-with-bananas-and-oats-1850146730)
 - [Lifehacker] [Why You Should Turn Off Auto-Brightness on Your Phone](https://lifehacker.com/why-you-should-turn-off-auto-brightness-on-your-phone-1850145521)
-- [Lifehacker] [The Easiest Ways to Save Money at the Laundromat](https://lifehacker.com/the-easiest-ways-to-save-money-at-the-laundromat-1850145420)
-- [Lifehacker] [16 of the Best Backyard Chicken Breeds If You’re About That Life](https://lifehacker.com/16-of-the-best-backyard-chicken-breeds-if-you-re-about-1850145700)
-- [Lifehacker] [You Can Get Refurbished Kindles for As Low As $20 Right Now](https://lifehacker.com/you-can-get-refurbished-kindles-for-as-low-as-20-right-1850145890)
-- [Lifehacker] [What&#39;s New on Netflix in March 2023](https://lifehacker.com/whats-new-on-netflix-in-march-2023-1850145177)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Ways to Save Money at the Laundromat](https://lifehacker.com/the-easiest-ways-to-save-money-at-the-laundromat-1850145420)<!-- TECH-POSTS:END -->
 
 ---
 
