@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to remove duplicate elements in an Array in JavaScript.](https://dev.to/headbwoi/how-to-remove-duplicate-elements-in-an-array-in-javascript-3kb7)
+- [Dev.to/JS] [Format large numbers to corresponding abbreviations](https://dev.to/devlazar/format-large-numbers-to-corresponding-abbreviations-ep7)
 - [Dev.to/JS] [The best way to fetch data from Sanity &lpar;using zod&rpar;](https://dev.to/fibonacid/the-best-way-to-fetch-data-from-sanity-using-zod-57jj)
 - [Lifehacker] [What&#39;s New on Paramount+ in March 2023](https://lifehacker.com/whats-new-on-paramount-in-march-2023-1850151677)
 - [Lifehacker] [11 Ways to Make a Better Tuna Sandwich](https://lifehacker.com/11-ways-to-make-a-better-tuna-sandwich-1850150470)
@@ -43,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lightning-Fast Portfolio Site in Just 3 Hours](https://dev.to/seeratawan01/lightning-fast-portfolio-site-in-just-3-hours-h0e)
 - [Lifehacker] [&#39;Marathon&#39; Is Letterboxd for TV Shows](https://lifehacker.com/marathon-is-letterboxd-for-tv-shows-1850149703)
 - [Dev.to/JS] [Thcs hiệp hòa - Bách khoa toàn thư](https://dev.to/thcshiephoa/thcs-hiep-hoa-bach-khoa-toan-thu-36c1)
-- [Dev.to/JS] [Experiments with the JavaScript Garbage Collector](https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3)
-- [Dev.to/JS] [Understanding the Event Loop in JavaScript](https://dev.to/codewithashim/understanding-the-event-loop-in-javascript-1h1o)
 - [Lifehacker] [Stop Using These Air Fryers Immediately, Product Safety Commission Warns](https://lifehacker.com/stop-using-these-air-fryers-immediately-product-safety-1850149981)
 - [Lifehacker] [‘Butterfly’ Your Meat for Quicker, More Even Cooking](https://lifehacker.com/butterfly-your-meat-for-quicker-more-even-cooking-1850149845)
 - [Lifehacker] [Use the ‘IDK? Decision Maker’ App to Help You Make Better Decisions](https://lifehacker.com/use-the-idk-decision-maker-app-to-help-you-make-bett-1850149587)
