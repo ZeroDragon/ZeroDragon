@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Separando meias por cores!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-separando-meias-por-cores-5g05)
+- [Dev.to/JS] [Mouse Events: onMouseOut and onMouseLeave in React](https://dev.to/parthgupta118/mouse-events-onmouseout-and-onmouseleave-in-react-1fpd)
 - [Dev.to/JS] [🔄🔂 5 Simple Ways to Loop Over Data in HTML Using JavaScript 📊📝](https://dev.to/ayoubkhan558/5-simple-ways-to-loop-over-data-in-html-using-javascript-30kb)
 - [Dev.to/JS] [¿Qué son los Type Predicates en Typescript?](https://dev.to/matiasfha/que-son-los-type-predicates-en-typescript-2odn)
 - [Dev.to/JS] [[Micro frontends] NX + Angular Module Federation + Angular MFE + VueJs MFE](https://dev.to/blminami/micro-frontends-nx-angular-module-federation-angular-mfe-vuejs-mfe-13hi)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dicas de como escrever um código limpo](https://dev.to/cristuker/dicas-para-escreve-um-codigo-limpo-2pkc)
 - [Dev.to/JS] [Everything about package.json](https://dev.to/himanshudevgupta/everything-about-packagejson-597l)
 - [Dev.to/JS] [Add an Options Page to Chrome Extension](https://dev.to/codegino/add-an-options-page-to-chrome-extension-4p3e)
-- [Dev.to/JS] [How to create and visualize a cardioid using javascript](https://dev.to/eyudinkov/how-to-create-and-visualize-a-cardioid-using-javascript-33l4)
-- [Dev.to/JS] [Exploring video generators in FFMPEG](https://dev.to/video/exploring-video-generators-in-ffmpeg-4ehc)
 - [Lifehacker] [What&#39;s New on Paramount+ in March 2023](https://lifehacker.com/whats-new-on-paramount-in-march-2023-1850151677)
 - [Lifehacker] [11 Ways to Make a Better Tuna Sandwich](https://lifehacker.com/11-ways-to-make-a-better-tuna-sandwich-1850150470)
 - [Lifehacker] [7 Objects Floating in US Airspace Right Now](https://lifehacker.com/7-objects-floating-in-us-airspace-right-now-1850151473)
