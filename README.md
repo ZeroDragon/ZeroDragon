@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The One Thing You Should Do With Poaching Liquid Before Adding Your Protein](https://lifehacker.com/the-one-thing-you-should-do-with-poaching-liquid-before-1850156303)
+- [Dev.to/JS] [Using Different Color Spaces to Compare Colors](https://dev.to/bytebodger/using-different-color-spaces-to-compare-colors-5agg)
+- [Lifehacker] [The Trick to Fixing a Broken Buttercream Frosting](https://lifehacker.com/the-trick-to-fixing-a-broken-buttercream-frosting-1850155047)
+- [Dev.to/JS] [Javascript Event Loop](https://dev.to/abubakarr/javascript-event-loop-2id0)
 - [Lifehacker] [How Rising Interest Rates Will Affect Your Finances the Rest of the Year](https://lifehacker.com/how-rising-interest-rates-will-affect-your-finances-the-1850155359)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Scrivener for $30 Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-scrivener-for-3-1850155969)
 - [Lifehacker] [You Can Get Peacock Premium for 50% Off Right Now](https://lifehacker.com/you-can-get-peacock-premium-for-50-off-right-now-1850155513)
@@ -44,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Blue Algae Latte, Golden Milk, and 11 More Coffee Alternatives You Will Love or Hate](https://lifehacker.com/blue-algae-latte-golden-milk-and-11-more-coffee-alter-1850153484)
 - [Dev.to/JS] [Deploying a Lambda with a static IP has never been so simple 🍰](https://dev.to/aws-builders/deploying-a-lambda-with-a-static-ip-has-never-been-so-simple-31k)
 - [Lifehacker] [15 of the Best Reboots of Shows You Loved As a Kid](https://lifehacker.com/15-of-the-best-reboots-of-shows-you-loved-as-a-kid-1850145098)
-- [Dev.to/JS] [How To Mock Only One Function From Module](https://dev.to/zirkelc/how-to-mock-only-one-function-from-module-1kf6)
-- [Dev.to/JS] [How to Fix React Hydration Error in Nextjs - Practical Guide](https://dev.to/olanetsoft/how-to-fix-react-hydration-error-in-nextjs-practical-guide-cjh)
 - [Lifehacker] [You Should Make Dessert Pasta Immediately](https://lifehacker.com/you-should-make-dessert-pasta-immediately-1850151506)
 - [Lifehacker] [What&#39;s New on Paramount+ in March 2023](https://lifehacker.com/whats-new-on-paramount-in-march-2023-1850151677)
 - [Lifehacker] [11 Ways to Make a Better Tuna Sandwich](https://lifehacker.com/11-ways-to-make-a-better-tuna-sandwich-1850150470)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Using These Air Fryers Immediately, Product Safety Commission Warns](https://lifehacker.com/stop-using-these-air-fryers-immediately-product-safety-1850149981)
 - [Lifehacker] [‘Butterfly’ Your Meat for Quicker, More Even Cooking](https://lifehacker.com/butterfly-your-meat-for-quicker-more-even-cooking-1850149845)
 - [Lifehacker] [Use the ‘IDK? Decision Maker’ App to Help You Make Better Decisions](https://lifehacker.com/use-the-idk-decision-maker-app-to-help-you-make-bett-1850149587)
-- [Lifehacker] [‘Underreaction’ Is Your Best Parenting Tool](https://lifehacker.com/underreaction-is-your-best-parenting-tool-1850149458)
-- [Lifehacker] [These Numbers Will Convince Your Teen to Start Saving for Retirement](https://lifehacker.com/these-numbers-will-convince-your-teen-to-start-saving-f-1850144908)
-- [Lifehacker] [12 Unusual Musical Collaborations You Should Listen To](https://lifehacker.com/12-unusual-musical-collaborations-you-should-listen-to-1850148020)<!-- TECH-POSTS:END -->
+- [Lifehacker] [‘Underreaction’ Is Your Best Parenting Tool](https://lifehacker.com/underreaction-is-your-best-parenting-tool-1850149458)<!-- TECH-POSTS:END -->
 
 ---
 
