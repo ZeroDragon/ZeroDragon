@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Pirating Final Cut Pro Is More Dangerous Than You Think](https://lifehacker.com/pirating-final-cut-pro-is-more-dangerous-than-you-think-1850154779)
+- [Crazy Programmer] [Why Outsource Website Development?](https://www.thecrazyprogrammer.com/2023/02/why-outsource-website-development.html)
+- [Dev.to/JS] [Introduce your own data types](https://dev.to/tahazsh/introduce-your-own-data-types-5c6f)
+- [Dev.to/JS] [I created an app to visualizer word unscrambling algorithm](https://dev.to/h_sifat/i-created-an-app-to-visualizer-word-unscrambling-algorithm-1km5)
+- [Lifehacker] [Yes, Any Drink Can Be Cake Icing](https://lifehacker.com/yes-any-drink-can-be-cake-icing-1850155174)
+- [Dev.to/JS] [Criando um Parser de JSON do zero](https://dev.to/vit0rr/criando-um-parser-de-json-do-zero-3k7b)
 - [Lifehacker] [Make Your Own Red Lobster Cheddar Bay Biscuit Loaf](https://lifehacker.com/make-your-own-red-lobster-cheddar-bay-biscuit-loaf-1850152900)
 - [Dev.to/JS] [Animaciones con GSAP + React 🌟](https://dev.to/franklin030601/animaciones-con-gsap-react-na)
 - [Dev.to/JS] [Animations with GSAP + React 🌟](https://dev.to/franklin030601/animations-with-gsap-react-1nok)
@@ -37,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React JS Consulting: A Comprehensive Guide](https://dev.to/monu181/react-js-consulting-a-comprehensive-guide-21e5)
 - [Dev.to/JS] [How to connect multiple wallets to your React dApp using Web3Modal](https://dev.to/sadiqful/how-to-connect-multiple-wallets-to-your-react-dapp-using-web3modal-5cmn)
 - [Lifehacker] [You Should Make Dessert Pasta Immediately](https://lifehacker.com/you-should-make-dessert-pasta-immediately-1850151506)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Separando meias por cores!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-separando-meias-por-cores-5g05)
-- [Dev.to/JS] [Mouse Events: onMouseOut and onMouseLeave in React](https://dev.to/parthgupta118/mouse-events-onmouseout-and-onmouseleave-in-react-1fpd)
-- [Dev.to/JS] [🔄🔂 5 Simple Ways to Loop Over Data in HTML Using JavaScript 📊📝](https://dev.to/ayoubkhan558/5-simple-ways-to-loop-over-data-in-html-using-javascript-30kb)
 - [Lifehacker] [What&#39;s New on Paramount+ in March 2023](https://lifehacker.com/whats-new-on-paramount-in-march-2023-1850151677)
 - [Lifehacker] [11 Ways to Make a Better Tuna Sandwich](https://lifehacker.com/11-ways-to-make-a-better-tuna-sandwich-1850150470)
 - [Lifehacker] [7 Objects Floating in US Airspace Right Now](https://lifehacker.com/7-objects-floating-in-us-airspace-right-now-1850151473)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Might Be Using Pie Weights Wrong](https://lifehacker.com/you-might-be-using-pie-weights-wrong-1850147510)
 - [Crazy Programmer] [6 Reasons To Learn Programming If You Are Not A Programmer](https://www.thecrazyprogrammer.com/2023/02/6-reasons-to-learn-programming-if-you-are-not-a-programmer.html)
 - [Lifehacker] [Use Vinegar and Lemon Juice for a Better Vinaigrette](https://lifehacker.com/use-vinegar-and-lemon-juice-for-a-better-vinaigrette-1850146738)
-- [Lifehacker] [Why Mornings Are Almost Always the Best Time to Fly](https://lifehacker.com/why-mornings-are-almost-always-the-best-time-to-fly-1850146816)
-- [Lifehacker] [Make This Breakfast Cake With Bananas and Oats](https://lifehacker.com/make-this-breakfast-cake-with-bananas-and-oats-1850146730)
-- [Lifehacker] [Why You Should Turn Off Auto-Brightness on Your Phone](https://lifehacker.com/why-you-should-turn-off-auto-brightness-on-your-phone-1850145521)
-- [Lifehacker] [The Easiest Ways to Save Money at the Laundromat](https://lifehacker.com/the-easiest-ways-to-save-money-at-the-laundromat-1850145420)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Mornings Are Almost Always the Best Time to Fly](https://lifehacker.com/why-mornings-are-almost-always-the-best-time-to-fly-1850146816)<!-- TECH-POSTS:END -->
 
 ---
 
