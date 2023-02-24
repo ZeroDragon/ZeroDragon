@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deploying a Lambda with a static IP has never been so simple 🍰](https://dev.to/aws-builders/deploying-a-lambda-with-a-static-ip-has-never-been-so-simple-31k)
+- [Lifehacker] [15 of the Best Reboots of Shows You Loved As a Kid](https://lifehacker.com/15-of-the-best-reboots-of-shows-you-loved-as-a-kid-1850145098)
+- [Dev.to/JS] [How To Mock Only One Function From Module](https://dev.to/zirkelc/how-to-mock-only-one-function-from-module-1kf6)
+- [Dev.to/JS] [How to Fix React Hydration Error in Nextjs - Practical Guide](https://dev.to/olanetsoft/how-to-fix-react-hydration-error-in-nextjs-practical-guide-cjh)
+- [Dev.to/JS] [React JS Consulting: A Comprehensive Guide](https://dev.to/monu181/react-js-consulting-a-comprehensive-guide-21e5)
+- [Dev.to/JS] [How to connect multiple wallets to your React dApp using Web3Modal](https://dev.to/sadiqful/how-to-connect-multiple-wallets-to-your-react-dapp-using-web3modal-5cmn)
+- [Lifehacker] [You Should Make Dessert Pasta Immediately](https://lifehacker.com/you-should-make-dessert-pasta-immediately-1850151506)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Separando meias por cores!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-separando-meias-por-cores-5g05)
 - [Dev.to/JS] [Mouse Events: onMouseOut and onMouseLeave in React](https://dev.to/parthgupta118/mouse-events-onmouseout-and-onmouseleave-in-react-1fpd)
 - [Dev.to/JS] [🔄🔂 5 Simple Ways to Loop Over Data in HTML Using JavaScript 📊📝](https://dev.to/ayoubkhan558/5-simple-ways-to-loop-over-data-in-html-using-javascript-30kb)
@@ -30,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [[Micro frontends] NX + Angular Module Federation + Angular MFE + VueJs MFE](https://dev.to/blminami/micro-frontends-nx-angular-module-federation-angular-mfe-vuejs-mfe-13hi)
 - [Dev.to/JS] [useSWR-Next.JS Fetching Remote Data](https://dev.to/eckdev/useswr-nextjs-fetching-remote-data-1ljj)
 - [Dev.to/JS] [JSX: The Secret Sauce Behind React&#39;s Success](https://dev.to/bowen/jsx-the-secret-sauce-behind-reacts-success-2hhk)
-- [Dev.to/JS] [How to setup a Monorepo: React, React Native, and Node](https://dev.to/aniketkolekar/how-to-setup-a-monorepo-react-react-native-and-node-4j0c)
-- [Dev.to/JS] [Asynchronous Programming Simplified](https://dev.to/devjaiye/asynchronous-programming-simplified-2ge0)
-- [Dev.to/JS] [Dicas de como escrever um código limpo](https://dev.to/cristuker/dicas-para-escreve-um-codigo-limpo-2pkc)
-- [Dev.to/JS] [Everything about package.json](https://dev.to/himanshudevgupta/everything-about-packagejson-597l)
-- [Dev.to/JS] [Add an Options Page to Chrome Extension](https://dev.to/codegino/add-an-options-page-to-chrome-extension-4p3e)
 - [Lifehacker] [What&#39;s New on Paramount+ in March 2023](https://lifehacker.com/whats-new-on-paramount-in-march-2023-1850151677)
 - [Lifehacker] [11 Ways to Make a Better Tuna Sandwich](https://lifehacker.com/11-ways-to-make-a-better-tuna-sandwich-1850150470)
 - [Lifehacker] [7 Objects Floating in US Airspace Right Now](https://lifehacker.com/7-objects-floating-in-us-airspace-right-now-1850151473)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Save Money at the Laundromat](https://lifehacker.com/the-easiest-ways-to-save-money-at-the-laundromat-1850145420)
 - [Lifehacker] [16 of the Best Backyard Chicken Breeds If You’re About That Life](https://lifehacker.com/16-of-the-best-backyard-chicken-breeds-if-you-re-about-1850145700)
 - [Lifehacker] [You Can Get Refurbished Kindles for As Low As $20 Right Now](https://lifehacker.com/you-can-get-refurbished-kindles-for-as-low-as-20-right-1850145890)
-- [Lifehacker] [What&#39;s New on Netflix in March 2023](https://lifehacker.com/whats-new-on-netflix-in-march-2023-1850145177)
-- [Lifehacker] [11 Types of Wheat Flour &lpar;and How to Use Them&rpar;](https://lifehacker.com/11-types-of-wheat-flour-and-how-to-use-them-1850145368)
-- [Lifehacker] [How to Uninstall Multiple Windows Apps at Once](https://lifehacker.com/how-to-uninstall-multiple-windows-apps-at-once-1850145087)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Netflix in March 2023](https://lifehacker.com/whats-new-on-netflix-in-march-2023-1850145177)<!-- TECH-POSTS:END -->
 
 ---
 
