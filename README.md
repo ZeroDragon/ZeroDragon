@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Complete $200 Computer for BloomTech Full Stack Web](https://dev.to/alphaseinor/complete-200-computer-for-bloomtech-full-stack-web-1m4a)
+- [Dev.to/JS] [Prostadine - Prostate Health Reviews, Benefits, Results, Scam Or Legit?](https://dev.to/prostadineinfo2/prostadine-prostate-health-reviews-benefits-results-scam-or-legit-52di)
 - [Dev.to/JS] [Miếng dán camera sau Samsung Galaxy S23 Ultra](https://dev.to/khanhtoan260400/mieng-dan-camera-sau-samsung-galaxy-s23-ultra-2jfd)
 - [Dev.to/JS] [Determining the RGB &quot;Distance&quot; Between Two Colors](https://dev.to/bytebodger/determining-the-rgb-distance-between-two-colors-4n91)
 - [Dev.to/JS] [Will WebAssembly Replace JavaScript?](https://dev.to/domfive/will-webassembly-replace-javascript-3648)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [openGauss database is a structured dataset](https://dev.to/olivia_ma_350e4f6e00893e3/opengauss-database-is-a-structured-dataset-83j)
 - [Dev.to/JS] [My vs code extensions](https://dev.to/lleamancio/my-vs-code-extensions-52kd)
 - [Dev.to/JS] [How to integrate third-party APIs into your frontend applications](https://dev.to/haszankauna/how-to-integrate-third-party-apis-into-your-frontend-applications-1p30)
-- [Dev.to/JS] [How did i get into programming ?](https://dev.to/bracley/how-did-i-get-into-programming--30g2)
-- [Dev.to/JS] [Micro-frontend Application; The Future Of Frontend Architecture](https://dev.to/xhulqornayn_ibrahim/micro-frontend-application-the-future-of-frontend-architecture-1glo)
 - [Lifehacker] [What&#39;s New on Paramount+ in March 2023](https://lifehacker.com/whats-new-on-paramount-in-march-2023-1850151677)
 - [Lifehacker] [11 Ways to Make a Better Tuna Sandwich](https://lifehacker.com/11-ways-to-make-a-better-tuna-sandwich-1850150470)
 - [Lifehacker] [7 Objects Floating in US Airspace Right Now](https://lifehacker.com/7-objects-floating-in-us-airspace-right-now-1850151473)
