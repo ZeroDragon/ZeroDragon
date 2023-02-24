@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [12 Ways to Transform Your Backyard Shed Into Something More Useful](https://lifehacker.com/12-ways-to-transform-your-backyard-shed-into-something-1850155913)
+- [Dev.to/JS] [Basic backend template following best practices](https://dev.to/abreu/basic-backend-template-following-best-practices-1baj)
+- [Dev.to/JS] [What is jQuery? Learn one of the most popular JavaScript libraries](https://dev.to/educative/what-is-jquery-learn-the-one-of-the-most-popular-javascript-library-4jlo)
 - [Lifehacker] [The One Thing You Should Do With Poaching Liquid Before Adding Your Protein](https://lifehacker.com/the-one-thing-you-should-do-with-poaching-liquid-before-1850156303)
+- [Dev.to/JS] [Conectando PowerAutomate + Teams + ChatGPT](https://dev.to/madrade1472/conectando-powerautomate-teams-chatgpt-4je9)
 - [Dev.to/JS] [Using Different Color Spaces to Compare Colors](https://dev.to/bytebodger/using-different-color-spaces-to-compare-colors-5agg)
 - [Lifehacker] [The Trick to Fixing a Broken Buttercream Frosting](https://lifehacker.com/the-trick-to-fixing-a-broken-buttercream-frosting-1850155047)
 - [Dev.to/JS] [Javascript Event Loop](https://dev.to/abubakarr/javascript-event-loop-2id0)
@@ -42,11 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Your Own Red Lobster Cheddar Bay Biscuit Loaf](https://lifehacker.com/make-your-own-red-lobster-cheddar-bay-biscuit-loaf-1850152900)
 - [Dev.to/JS] [Animaciones con GSAP + React 🌟](https://dev.to/franklin030601/animaciones-con-gsap-react-na)
 - [Dev.to/JS] [Animations with GSAP + React 🌟](https://dev.to/franklin030601/animations-with-gsap-react-1nok)
-- [Dev.to/JS] [Paracetamol.ts💊| #18: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-18-explica-este-codigo-typescript-3l1l)
-- [Dev.to/JS] [Updating relative time in UI with Nuxt3](https://dev.to/chipd/updating-relative-time-in-ui-with-nuxt3-2ikm)
 - [Lifehacker] [These Airlines Don&#39;t Charge Extra for Families to Sit Together](https://lifehacker.com/these-airlines-dont-charge-extra-for-families-to-sit-to-1850152473)
 - [Lifehacker] [Blue Algae Latte, Golden Milk, and 11 More Coffee Alternatives You Will Love or Hate](https://lifehacker.com/blue-algae-latte-golden-milk-and-11-more-coffee-alter-1850153484)
-- [Dev.to/JS] [Deploying a Lambda with a static IP has never been so simple 🍰](https://dev.to/aws-builders/deploying-a-lambda-with-a-static-ip-has-never-been-so-simple-31k)
 - [Lifehacker] [15 of the Best Reboots of Shows You Loved As a Kid](https://lifehacker.com/15-of-the-best-reboots-of-shows-you-loved-as-a-kid-1850145098)
 - [Lifehacker] [You Should Make Dessert Pasta Immediately](https://lifehacker.com/you-should-make-dessert-pasta-immediately-1850151506)
 - [Lifehacker] [What&#39;s New on Paramount+ in March 2023](https://lifehacker.com/whats-new-on-paramount-in-march-2023-1850151677)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;Marathon&#39; Is Letterboxd for TV Shows](https://lifehacker.com/marathon-is-letterboxd-for-tv-shows-1850149703)
 - [Lifehacker] [Stop Using These Air Fryers Immediately, Product Safety Commission Warns](https://lifehacker.com/stop-using-these-air-fryers-immediately-product-safety-1850149981)
 - [Lifehacker] [‘Butterfly’ Your Meat for Quicker, More Even Cooking](https://lifehacker.com/butterfly-your-meat-for-quicker-more-even-cooking-1850149845)
-- [Lifehacker] [Use the ‘IDK? Decision Maker’ App to Help You Make Better Decisions](https://lifehacker.com/use-the-idk-decision-maker-app-to-help-you-make-bett-1850149587)
-- [Lifehacker] [‘Underreaction’ Is Your Best Parenting Tool](https://lifehacker.com/underreaction-is-your-best-parenting-tool-1850149458)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the ‘IDK? Decision Maker’ App to Help You Make Better Decisions](https://lifehacker.com/use-the-idk-decision-maker-app-to-help-you-make-bett-1850149587)<!-- TECH-POSTS:END -->
 
 ---
 
