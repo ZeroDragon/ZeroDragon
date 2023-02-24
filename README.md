@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Miếng dán mặt lưng Samsung Galaxy S23 Ultra](https://dev.to/khanhtoan260400/mieng-dan-mat-lung-samsung-galaxy-s23-ultra-3k5c)
+- [Dev.to/JS] [java script Hoisting](https://dev.to/anateotfw/java-script-hoisting-52j2)
+- [Dev.to/JS] [Master of Science &lpar;msc&rpar; | MUIT Lucknow](https://dev.to/mayankm29630790/master-of-science-msc-muit-lucknow-9ca)
 - [Dev.to/JS] [Improve TypeScript Omit type](https://dev.to/przemyslawjanbeigert/improve-typescript-omit-type-3d90)
 - [Dev.to/JS] [Chrome Extension Social Logins Issues](https://dev.to/amalhotra2000/chrome-extension-social-logins-31an)
 - [Dev.to/JS] [Dropdowns In Selenium WebDriver With Java](https://dev.to/lambdatest/dropdowns-in-selenium-webdriver-with-java-3f1j)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Hire a React.js Developer: Best Practices and Strategies](https://dev.to/monu181/how-to-hire-a-reactjs-developer-best-practices-and-strategies-5a7k)
 - [Dev.to/JS] [How to upgrade npm packages?](https://dev.to/alexandrunastase/how-to-upgrade-npm-packages-2l0g)
 - [Dev.to/JS] [Complete $200 Computer for BloomTech Full Stack Web](https://dev.to/alphaseinor/complete-200-computer-for-bloomtech-full-stack-web-1m4a)
-- [Dev.to/JS] [Prostadine - Prostate Health Reviews, Benefits, Results, Scam Or Legit?](https://dev.to/prostadineinfo2/prostadine-prostate-health-reviews-benefits-results-scam-or-legit-52di)
-- [Dev.to/JS] [Miếng dán camera sau Samsung Galaxy S23 Ultra](https://dev.to/khanhtoan260400/mieng-dan-camera-sau-samsung-galaxy-s23-ultra-2jfd)
-- [Dev.to/JS] [Determining the RGB &quot;Distance&quot; Between Two Colors](https://dev.to/bytebodger/determining-the-rgb-distance-between-two-colors-4n91)
 - [Lifehacker] [What&#39;s New on Paramount+ in March 2023](https://lifehacker.com/whats-new-on-paramount-in-march-2023-1850151677)
 - [Lifehacker] [11 Ways to Make a Better Tuna Sandwich](https://lifehacker.com/11-ways-to-make-a-better-tuna-sandwich-1850150470)
 - [Lifehacker] [7 Objects Floating in US Airspace Right Now](https://lifehacker.com/7-objects-floating-in-us-airspace-right-now-1850151473)
