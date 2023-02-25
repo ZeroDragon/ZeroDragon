@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to learning Swift in 2023 ?](https://dev.to/iamdevmarcos/how-to-learning-swift-in-2023--5fj3)
+- [Dev.to/JS] [Optimizing performance with Apache AGE Part 2](https://dev.to/farakhshahid/optimizing-performance-with-apache-age-part-2-57b3)
 - [Dev.to/JS] [How to implement and draw external SVG sprites](https://dev.to/kostas2509/how-to-implement-and-draw-external-svg-sprites-fde)
 - [Dev.to/JS] [Turning 14...](https://dev.to/vulcanwm/turning-14-1ifm)
 - [Dev.to/JS] [Cheap way to host a Javascript project. &lpar;e.g. Node APIs &amp; React Apps&rpar;](https://dev.to/lukeecart/cheap-way-to-host-a-javascript-projects-eg-node-apis-react-apps-4ohb)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SVG &amp; Javascript, the Perfect Couple](https://dev.to/sysmaya/svg-javascript-the-perfect-couple-332l)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
 - [Dev.to/JS] [Implementing GraphQL in React Applications](https://dev.to/haszankauna/implementing-graphql-in-react-applications-202g)
-- [Dev.to/JS] [Can Neural Networks be trained to generate SVG images?](https://dev.to/sysmaya/can-neural-networks-be-trained-to-generate-svg-images-3lak)
-- [Dev.to/JS] [Why hasn&#39;t the SVG format been fully accepted?](https://dev.to/sysmaya/why-hasnt-the-svg-format-been-fully-accepted-17g8)
 - [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
 - [Lifehacker] [Make Better Meatballs With Anchovies](https://lifehacker.com/make-better-meatballs-with-anchovies-1850156439)
