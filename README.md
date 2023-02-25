@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optimize Your Gas Costs with eth-gas-reporter for Hardhat](https://dev.to/pfedprog/optimize-your-gas-costs-with-eth-gas-reporter-for-hardhat-2ke7)
+- [Dev.to/JS] [HTTP Headers](https://dev.to/jacopo/http-headers-5je)
 - [Dev.to/JS] [How to increase your Hedera staking rewards with 0.2%](https://dev.to/louweal/how-to-increase-your-hedera-staking-rewards-with-02-59ah)
 - [Dev.to/JS] [Add Firebase v9 to your JavaScript App in 10 mins](https://dev.to/hirajatamil/add-firebase-v9-to-your-javascript-app-in-10-mins-2ijd)
 - [Dev.to/JS] [Optimizing performance with Apache AGE Part 2](https://dev.to/farakhshahid/optimizing-performance-with-apache-age-part-2-57b3)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The evolution of Javascript Strings over the years](https://dev.to/jukilo_lokiju/the-evolution-of-javascript-strings-over-the-years-f5f)
 - [Dev.to/JS] [JavaScript Struggles - Part 7 | functions](https://dev.to/abdelrahman_dwedar/javascript-struggles-part-7-functions-11m2)
 - [Dev.to/JS] [Notion App Review: The Perfect Solution for Creative and Professional Projects](https://dev.to/outofboxrevieww/notion-app-review-the-perfect-solution-for-creative-and-professional-projects-4fe1)
-- [Dev.to/JS] [A Comprehensive Tree Traversal Guide in Javascript - General and Binary Tree Traversals](https://dev.to/humblecoder00/a-comprehensive-tree-traversal-guide-in-javascript-general-and-binary-tree-traversals-9lg)
-- [Dev.to/JS] [SVG &amp; Javascript, the Perfect Couple](https://dev.to/sysmaya/svg-javascript-the-perfect-couple-332l)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
 - [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
