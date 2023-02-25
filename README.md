@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Remove Background Noise From Audio - Adobe Audition](https://dev.to/vincod/how-to-remove-background-noise-from-audio-adobe-audition-224p)
+- [Dev.to/JS] [INTERNSHIP PROGRAMS IN INDIA](https://dev.to/619infocus/internship-programs-in-india-2b0i)
+- [Dev.to/JS] [Connecting Node.js with MongoDB: A Step-by-Step Guide](https://dev.to/saiphin/connecting-nodejs-with-mongodb-a-step-by-step-guide-3mac)
+- [Dev.to/JS] [The Anatomy of a Bug: How I Discovered and Solved the Gitpod Docs Search Issue Caused by Algolia Updates](https://dev.to/siddhantkcode/the-anatomy-of-a-bug-how-i-discovered-and-solved-the-gitpod-docs-search-issue-caused-by-algolia-updates-4ke1)
+- [Dev.to/JS] [Show detail data of a table with ngFor in Angular](https://dev.to/monkdev/show-detail-data-of-a-table-with-ngfor-in-angular-56li)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;25-02-2023&rpar; - Beep Beep](https://dev.to/mjgs/this-weeks-newsletter-is-out-25-02-2023-beep-beep-1712)
 - [Dev.to/JS] [UUIDs vs Crypto.randomUUID: Choosing the Right Method for Unique Identifiers in JavaScript](https://dev.to/musabdev/uuids-vs-cryptorandomuuid-choosing-the-right-method-for-unique-identifiers-in-javascript-53jf)
 - [Dev.to/JS] [How Long Does It Take To Build An Admin portal](https://dev.to/vic_learning/how-long-does-it-take-to-build-an-admin-portal-2jbc)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Atualizando pacotes NodeJs com segurança e eficiência com npm-check-updates](https://dev.to/salmomascarenhas/atualizando-pacotes-nodejs-com-seguranca-e-eficiencia-com-npm-check-updates-2m50)
 - [Dev.to/JS] [Ver Spider-Man: No Way Home [2021] Online HD en español completa](https://dev.to/pelisstya/ver-spider-man-no-way-home-2021-online-hd-en-espanol-completa-lgj)
 - [Dev.to/JS] [Ver A Todas Partes [2023] Online HD en español completa](https://dev.to/pelisstya/ver-a-todas-partes-2023-online-hd-en-espanol-completa-49bc)
-- [Dev.to/JS] [Ver Avatar [2009] Online HD en español completa](https://dev.to/pelisstya/ver-avatar-2009-online-hd-en-espanol-completa-4bif)
-- [Dev.to/JS] [Ver Kids vs. Aliens [2023] Online HD en español completa](https://dev.to/pelisstya/ver-kids-vs-aliens-2023-online-hd-en-espanol-completa-2ejm)
-- [Dev.to/JS] [Run todo-app with React 18](https://dev.to/chuangtc/run-todo-app-with-react-18-3n57)
-- [Dev.to/JS] [Weekly Tech Hype #3 - Next vs Astro perf, Signals for web frameworks, Node.js runtimes in browser, Shopify&#39;s Hydrogen uses Remix](https://dev.to/fullctxdev/weekly-tech-hype-3-next-vs-astro-perf-signals-for-web-frameworks-nodejs-runtimes-in-browser-shopifys-hydrogen-uses-remix-366k)
-- [Dev.to/JS] [My Time Spent In Recursionville](https://dev.to/greenteaisgreat/my-time-spent-in-recursionville-118m)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
 - [Lifehacker] [Make Better Meatballs With Anchovies](https://lifehacker.com/make-better-meatballs-with-anchovies-1850156439)
 - [Lifehacker] [You Can Save Your ChatGPT Conversations for Later](https://lifehacker.com/you-can-save-your-chatgpt-conversations-for-later-1850157559)
