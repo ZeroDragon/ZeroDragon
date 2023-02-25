@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tyggable lamp](https://dev.to/mezumesocial/tyggable-lamp-3o3p)
+- [Dev.to/JS] [7 Best Practices for Software Developers](https://dev.to/devland/7-best-practices-for-software-developers-1l28)
+- [Dev.to/JS] [10 Essential Skills for Beginner Full Stack Frontend Developers](https://dev.to/sidramaqbool/10-essential-skills-for-beginner-full-stack-frontend-developers-1804)
 - [Dev.to/JS] [The difference between reassigning and modifying arrays in TypeScript 👨‍💻](https://dev.to/xaypanya/the-difference-between-reassigning-and-modifying-arrays-in-typescript-14am)
 - [Dev.to/JS] [Understanding Single responsibility principle by Javascript - [Sharing knowledge]](https://dev.to/emhat098/understanding-single-responsibility-principle-by-javascript-sharing-knowledge-1442)
 - [Dev.to/JS] [Glassmorphism Login Form](https://dev.to/aa82851391/glassmorphism-login-form-5dl4)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Difference between useMemo and useCallback](https://dev.to/imvedanshmehra/difference-between-usememo-and-usecallback-1h7b)
 - [Dev.to/JS] [Đá Gà Thomo SV388 - Trang đá gà trực tiếp uy tín Campuchia](https://dev.to/dagathomo_sv388/da-ga-thomo-sv388-trang-da-ga-truc-tiep-uy-tin-campuchia-eol)
 - [Dev.to/JS] [Getting pixel color from canvas](https://dev.to/con/getting-pixel-color-from-canvas-270h)
-- [Dev.to/JS] [Write Unit tests using ChatGPT](https://dev.to/deepeshk1204/unit-tests-with-chatgpt-14ge)
-- [Dev.to/JS] [Best-Ranked ReactJS Development Companies](https://dev.to/hetavi21/best-ranked-reactjs-development-companies-1gib)
-- [Dev.to/JS] [How To Remove Background Noise From Audio - Adobe Audition](https://dev.to/vincod/how-to-remove-background-noise-from-audio-adobe-audition-224p)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
 - [Lifehacker] [Make Better Meatballs With Anchovies](https://lifehacker.com/make-better-meatballs-with-anchovies-1850156439)
 - [Lifehacker] [You Can Save Your ChatGPT Conversations for Later](https://lifehacker.com/you-can-save-your-chatgpt-conversations-for-later-1850157559)
