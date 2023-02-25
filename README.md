@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Upload file to Google cloud storage from Node.js server](https://dev.to/kamalhossain/upload-file-to-google-cloud-storage-from-nodejs-server-5cdg)
 - [Dev.to/JS] [Atualizando pacotes NodeJs com segurança e eficiência com npm-check-updates](https://dev.to/salmomascarenhas/atualizando-pacotes-nodejs-com-seguranca-e-eficiencia-com-npm-check-updates-2m50)
 - [Dev.to/JS] [Ver Spider-Man: No Way Home [2021] Online HD en español completa](https://dev.to/pelisstya/ver-spider-man-no-way-home-2021-online-hd-en-espanol-completa-lgj)
 - [Dev.to/JS] [Ver A Todas Partes [2023] Online HD en español completa](https://dev.to/pelisstya/ver-a-todas-partes-2023-online-hd-en-espanol-completa-49bc)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Making YouTube video with React](https://dev.to/michaelsalim/making-youtube-video-with-react-513m)
 - [Lifehacker] [Make Better Meatballs With Anchovies](https://lifehacker.com/make-better-meatballs-with-anchovies-1850156439)
 - [Lifehacker] [You Can Save Your ChatGPT Conversations for Later](https://lifehacker.com/you-can-save-your-chatgpt-conversations-for-later-1850157559)
-- [Dev.to/JS] [⛓️Scoping in JavaScript](https://dev.to/ahmedmahmoudabouraia/scoping-in-javascript-jak)
 - [Lifehacker] [You Can Finally Get Google’s Magic Eraser on Your iPhone or Android](https://lifehacker.com/you-can-finally-get-google-s-magic-eraser-on-your-iphon-1850157142)
 - [Lifehacker] [Your Marinara Needs Onions or Garlic, but Not Both](https://lifehacker.com/your-marinara-needs-onions-or-garlic-but-not-both-1850156719)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is Competitive Hobbyhorsing?](https://lifehacker.com/what-is-competitive-hobbyhorsing-1850156770)
