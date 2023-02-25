@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
+- [Dev.to/JS] [Implementing GraphQL in React Applications](https://dev.to/haszankauna/implementing-graphql-in-react-applications-202g)
+- [Dev.to/JS] [Can Neural Networks be trained to generate SVG images?](https://dev.to/sysmaya/can-neural-networks-be-trained-to-generate-svg-images-3lak)
 - [Dev.to/JS] [Why hasn&#39;t the SVG format been fully accepted?](https://dev.to/sysmaya/why-hasnt-the-svg-format-been-fully-accepted-17g8)
 - [Dev.to/JS] [Building Serverless Applications with React](https://dev.to/haszankauna/building-serverless-applications-with-react-4pbg)
 - [Dev.to/JS] [Scalable Vector Graphics SVG File Format](https://dev.to/sysmaya/scalable-vector-graphics-svg-file-format-2c1f)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From Graphite Pencil to Optical Pencil](https://dev.to/sysmaya/from-graphite-pencil-to-optical-pencil-18bn)
 - [Dev.to/JS] [What is Color Theory?](https://dev.to/sysmaya/what-is-color-theory-34p6)
 - [Dev.to/JS] [Why should logos be designed with vectors?](https://dev.to/sysmaya/why-should-logos-be-designed-with-vectors-2jph)
-- [Dev.to/JS] [SVG Editor Online](https://dev.to/sysmaya/svg-editor-online-2i3m)
-- [Dev.to/JS] [Paracetamol.ts💊| #19: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-19-explica-este-codigo-typescript-4bi7)
 - [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
 - [Lifehacker] [Make Better Meatballs With Anchovies](https://lifehacker.com/make-better-meatballs-with-anchovies-1850156439)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Ways to Make a Better Tuna Sandwich](https://lifehacker.com/11-ways-to-make-a-better-tuna-sandwich-1850150470)
 - [Lifehacker] [7 Objects Floating in US Airspace Right Now](https://lifehacker.com/7-objects-floating-in-us-airspace-right-now-1850151473)
 - [Lifehacker] [You Really Can Use Paint to Make a Room Look Bigger or Smaller](https://lifehacker.com/you-really-can-use-paint-to-make-a-room-look-bigger-or-1850150388)
-- [Lifehacker] [Use This Free App to Delete Leftover App Files on Your Mac](https://lifehacker.com/use-this-free-app-to-delete-leftover-app-files-on-your-1850150940)
-- [Lifehacker] [You Can Clean Your Oven Without Scrubbing a Thing](https://lifehacker.com/you-can-clean-your-oven-without-scrubbing-a-thing-1850151228)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use This Free App to Delete Leftover App Files on Your Mac](https://lifehacker.com/use-this-free-app-to-delete-leftover-app-files-on-your-1850150940)<!-- TECH-POSTS:END -->
 
 ---
 
