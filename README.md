@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Atualizando pacotes NodeJs com segurança e eficiência com npm-check-updates](https://dev.to/salmomascarenhas/atualizando-pacotes-nodejs-com-seguranca-e-eficiencia-com-npm-check-updates-2m50)
+- [Dev.to/JS] [Ver Spider-Man: No Way Home [2021] Online HD en español completa](https://dev.to/pelisstya/ver-spider-man-no-way-home-2021-online-hd-en-espanol-completa-lgj)
+- [Dev.to/JS] [Ver A Todas Partes [2023] Online HD en español completa](https://dev.to/pelisstya/ver-a-todas-partes-2023-online-hd-en-espanol-completa-49bc)
+- [Dev.to/JS] [Ver Avatar [2009] Online HD en español completa](https://dev.to/pelisstya/ver-avatar-2009-online-hd-en-espanol-completa-4bif)
+- [Dev.to/JS] [Ver Kids vs. Aliens [2023] Online HD en español completa](https://dev.to/pelisstya/ver-kids-vs-aliens-2023-online-hd-en-espanol-completa-2ejm)
 - [Dev.to/JS] [Run todo-app with React 18](https://dev.to/chuangtc/run-todo-app-with-react-18-3n57)
 - [Dev.to/JS] [Weekly Tech Hype #3 - Next vs Astro perf, Signals for web frameworks, Node.js runtimes in browser, Shopify&#39;s Hydrogen uses Remix](https://dev.to/fullctxdev/weekly-tech-hype-3-next-vs-astro-perf-signals-for-web-frameworks-nodejs-runtimes-in-browser-shopifys-hydrogen-uses-remix-366k)
 - [Dev.to/JS] [My Time Spent In Recursionville](https://dev.to/greenteaisgreat/my-time-spent-in-recursionville-118m)
@@ -33,15 +38,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Recoil is the Samurai Sword of React State Management](https://dev.to/codeofrelevancy/recoil-is-the-samurai-sword-of-react-state-management-1eg0)
 - [Lifehacker] [Make Better Meatballs With Anchovies](https://lifehacker.com/make-better-meatballs-with-anchovies-1850156439)
 - [Lifehacker] [You Can Save Your ChatGPT Conversations for Later](https://lifehacker.com/you-can-save-your-chatgpt-conversations-for-later-1850157559)
-- [Dev.to/JS] [⛓️Scoping in JavaScript](https://dev.to/ahmedmahmoudabouraia/scoping-in-javascript-jak)
 - [Lifehacker] [You Can Finally Get Google’s Magic Eraser on Your iPhone or Android](https://lifehacker.com/you-can-finally-get-google-s-magic-eraser-on-your-iphon-1850157142)
-- [Dev.to/JS] [Rive animation is coming to NativeScript](https://dev.to/oreoyona/rive-animation-is-coming-to-nativescript-4ijn)
 - [Lifehacker] [Your Marinara Needs Onions or Garlic, but Not Both](https://lifehacker.com/your-marinara-needs-onions-or-garlic-but-not-both-1850156719)
-- [Dev.to/JS] [JavaScript Tutorial Series: Higher order functions](https://dev.to/fullstackjo/javascript-tutorial-series-higher-order-functions-507b)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is Competitive Hobbyhorsing?](https://lifehacker.com/what-is-competitive-hobbyhorsing-1850156770)
 - [Lifehacker] [12 Ways to Transform Your Backyard Shed Into Something More Useful](https://lifehacker.com/12-ways-to-transform-your-backyard-shed-into-something-1850155913)
-- [Dev.to/JS] [Basic backend template following best practices](https://dev.to/abreu/basic-backend-template-following-best-practices-1baj)
-- [Dev.to/JS] [What is jQuery? Learn one of the most popular JavaScript libraries](https://dev.to/educative/what-is-jquery-learn-the-one-of-the-most-popular-javascript-library-4jlo)
 - [Lifehacker] [The One Thing You Should Do With Poaching Liquid Before Adding Your Protein](https://lifehacker.com/the-one-thing-you-should-do-with-poaching-liquid-before-1850156303)
 - [Lifehacker] [The Trick to Fixing a Broken Buttercream Frosting](https://lifehacker.com/the-trick-to-fixing-a-broken-buttercream-frosting-1850155047)
 - [Lifehacker] [How Rising Interest Rates Will Affect Your Finances the Rest of the Year](https://lifehacker.com/how-rising-interest-rates-will-affect-your-finances-the-1850155359)
