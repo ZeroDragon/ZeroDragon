@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How do I prepare for Deloitte Interview](https://dev.to/talentbattle1/how-do-i-prepare-for-deloitte-interview-16fi)
+- [Dev.to/JS] [The evolution of Javascript Strings over the years](https://dev.to/jukilo_lokiju/the-evolution-of-javascript-strings-over-the-years-f5f)
+- [Dev.to/JS] [JavaScript Struggles - Part 7 | functions](https://dev.to/abdelrahman_dwedar/javascript-struggles-part-7-functions-11m2)
+- [Dev.to/JS] [Notion App Review: The Perfect Solution for Creative and Professional Projects](https://dev.to/outofboxrevieww/notion-app-review-the-perfect-solution-for-creative-and-professional-projects-4fe1)
+- [Dev.to/JS] [A Comprehensive Tree Traversal Guide in Javascript - General and Binary Tree Traversals](https://dev.to/humblecoder00/a-comprehensive-tree-traversal-guide-in-javascript-general-and-binary-tree-traversals-9lg)
+- [Dev.to/JS] [SVG &amp; Javascript, the Perfect Couple](https://dev.to/sysmaya/svg-javascript-the-perfect-couple-332l)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
 - [Dev.to/JS] [Implementing GraphQL in React Applications](https://dev.to/haszankauna/implementing-graphql-in-react-applications-202g)
 - [Dev.to/JS] [Can Neural Networks be trained to generate SVG images?](https://dev.to/sysmaya/can-neural-networks-be-trained-to-generate-svg-images-3lak)
@@ -30,12 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building Serverless Applications with React](https://dev.to/haszankauna/building-serverless-applications-with-react-4pbg)
 - [Dev.to/JS] [Scalable Vector Graphics SVG File Format](https://dev.to/sysmaya/scalable-vector-graphics-svg-file-format-2c1f)
 - [Dev.to/JS] [Vector Drawing vs Bitmap Raster Drawing](https://dev.to/sysmaya/vector-drawing-vs-bitmap-raster-drawing-3lg7)
-- [Dev.to/JS] [Become a great Graphic Designer](https://dev.to/sysmaya/become-a-great-graphic-designer-5gmc)
-- [Dev.to/JS] [How to change the image on hover using JSX.](https://dev.to/kriyanshishah/how-to-change-the-image-on-hover-using-jsx-3k02)
-- [Dev.to/JS] [Online or Desktop Software: Pros and Cons](https://dev.to/sysmaya/online-or-desktop-software-pros-and-cons-5fll)
-- [Dev.to/JS] [From Graphite Pencil to Optical Pencil](https://dev.to/sysmaya/from-graphite-pencil-to-optical-pencil-18bn)
-- [Dev.to/JS] [What is Color Theory?](https://dev.to/sysmaya/what-is-color-theory-34p6)
-- [Dev.to/JS] [Why should logos be designed with vectors?](https://dev.to/sysmaya/why-should-logos-be-designed-with-vectors-2jph)
 - [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
 - [Lifehacker] [Make Better Meatballs With Anchovies](https://lifehacker.com/make-better-meatballs-with-anchovies-1850156439)
