@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Solving Coding Challenges](https://dev.to/oluwatrillions/solving-coding-challenges-2ki1)
 - [Dev.to/JS] [Tyggable lamp](https://dev.to/mezumesocial/tyggable-lamp-3o3p)
 - [Dev.to/JS] [7 Best Practices for Software Developers](https://dev.to/devland/7-best-practices-for-software-developers-1l28)
 - [Dev.to/JS] [10 Essential Skills for Beginner Full Stack Frontend Developers](https://dev.to/sidramaqbool/10-essential-skills-for-beginner-full-stack-frontend-developers-1804)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fluxactive Complete - Prostate Health Solution, Benefits, Complaints &amp; Warnings?](https://dev.to/fluxactivecom17/fluxactive-complete-prostate-health-solution-benefits-complaints-warnings-532j)
 - [Dev.to/JS] [Difference between useMemo and useCallback](https://dev.to/imvedanshmehra/difference-between-usememo-and-usecallback-1h7b)
 - [Dev.to/JS] [Đá Gà Thomo SV388 - Trang đá gà trực tiếp uy tín Campuchia](https://dev.to/dagathomo_sv388/da-ga-thomo-sv388-trang-da-ga-truc-tiep-uy-tin-campuchia-eol)
-- [Dev.to/JS] [Getting pixel color from canvas](https://dev.to/con/getting-pixel-color-from-canvas-270h)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
 - [Lifehacker] [Make Better Meatballs With Anchovies](https://lifehacker.com/make-better-meatballs-with-anchovies-1850156439)
 - [Lifehacker] [You Can Save Your ChatGPT Conversations for Later](https://lifehacker.com/you-can-save-your-chatgpt-conversations-for-later-1850157559)
