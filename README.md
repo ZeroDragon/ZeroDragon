@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting pixel color from canvas](https://dev.to/con/getting-pixel-color-from-canvas-270h)
+- [Dev.to/JS] [Write Unit tests using ChatGPT](https://dev.to/deepeshk1204/unit-tests-with-chatgpt-14ge)
+- [Dev.to/JS] [Best-Ranked ReactJS Development Companies](https://dev.to/hetavi21/best-ranked-reactjs-development-companies-1gib)
 - [Dev.to/JS] [How To Remove Background Noise From Audio - Adobe Audition](https://dev.to/vincod/how-to-remove-background-noise-from-audio-adobe-audition-224p)
 - [Dev.to/JS] [INTERNSHIP PROGRAMS IN INDIA](https://dev.to/619infocus/internship-programs-in-india-2b0i)
 - [Dev.to/JS] [Connecting Node.js with MongoDB: A Step-by-Step Guide](https://dev.to/saiphin/connecting-nodejs-with-mongodb-a-step-by-step-guide-3mac)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [UUIDs vs Crypto.randomUUID: Choosing the Right Method for Unique Identifiers in JavaScript](https://dev.to/musabdev/uuids-vs-cryptorandomuuid-choosing-the-right-method-for-unique-identifiers-in-javascript-53jf)
 - [Dev.to/JS] [How Long Does It Take To Build An Admin portal](https://dev.to/vic_learning/how-long-does-it-take-to-build-an-admin-portal-2jbc)
 - [Dev.to/JS] [Upload file to Google cloud storage from Node.js server](https://dev.to/kamalhossain/upload-file-to-google-cloud-storage-from-nodejs-server-5cdg)
-- [Dev.to/JS] [Atualizando pacotes NodeJs com segurança e eficiência com npm-check-updates](https://dev.to/salmomascarenhas/atualizando-pacotes-nodejs-com-seguranca-e-eficiencia-com-npm-check-updates-2m50)
-- [Dev.to/JS] [Ver Spider-Man: No Way Home [2021] Online HD en español completa](https://dev.to/pelisstya/ver-spider-man-no-way-home-2021-online-hd-en-espanol-completa-lgj)
-- [Dev.to/JS] [Ver A Todas Partes [2023] Online HD en español completa](https://dev.to/pelisstya/ver-a-todas-partes-2023-online-hd-en-espanol-completa-49bc)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
 - [Lifehacker] [Make Better Meatballs With Anchovies](https://lifehacker.com/make-better-meatballs-with-anchovies-1850156439)
 - [Lifehacker] [You Can Save Your ChatGPT Conversations for Later](https://lifehacker.com/you-can-save-your-chatgpt-conversations-for-later-1850157559)
