@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The difference between reassigning and modifying arrays in TypeScript 👨‍💻](https://dev.to/xaypanya/the-difference-between-reassigning-and-modifying-arrays-in-typescript-14am)
+- [Dev.to/JS] [Understanding Single responsibility principle by Javascript - [Sharing knowledge]](https://dev.to/emhat098/understanding-single-responsibility-principle-by-javascript-sharing-knowledge-1442)
+- [Dev.to/JS] [Glassmorphism Login Form](https://dev.to/aa82851391/glassmorphism-login-form-5dl4)
+- [Dev.to/JS] [ES6 Features Part-2](https://dev.to/amansingh/es6-features-part-2-4abn)
+- [Dev.to/JS] [Faster React apps coding: How to migrate from Emotion CSS-in-JS to Stylify Utility-First CSS](https://dev.to/machy8/faster-react-apps-coding-how-to-migrate-from-emotion-css-in-js-to-stylify-utility-first-css-1okb)
 - [Dev.to/JS] [Fluxactive Complete - Prostate Health Solution, Benefits, Complaints &amp; Warnings?](https://dev.to/fluxactivecom17/fluxactive-complete-prostate-health-solution-benefits-complaints-warnings-532j)
 - [Dev.to/JS] [Difference between useMemo and useCallback](https://dev.to/imvedanshmehra/difference-between-usememo-and-usecallback-1h7b)
 - [Dev.to/JS] [Đá Gà Thomo SV388 - Trang đá gà trực tiếp uy tín Campuchia](https://dev.to/dagathomo_sv388/da-ga-thomo-sv388-trang-da-ga-truc-tiep-uy-tin-campuchia-eol)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Write Unit tests using ChatGPT](https://dev.to/deepeshk1204/unit-tests-with-chatgpt-14ge)
 - [Dev.to/JS] [Best-Ranked ReactJS Development Companies](https://dev.to/hetavi21/best-ranked-reactjs-development-companies-1gib)
 - [Dev.to/JS] [How To Remove Background Noise From Audio - Adobe Audition](https://dev.to/vincod/how-to-remove-background-noise-from-audio-adobe-audition-224p)
-- [Dev.to/JS] [INTERNSHIP PROGRAMS IN INDIA](https://dev.to/619infocus/internship-programs-in-india-2b0i)
-- [Dev.to/JS] [Connecting Node.js with MongoDB: A Step-by-Step Guide](https://dev.to/saiphin/connecting-nodejs-with-mongodb-a-step-by-step-guide-3mac)
-- [Dev.to/JS] [The Anatomy of a Bug: How I Discovered and Solved the Gitpod Docs Search Issue Caused by Algolia Updates](https://dev.to/siddhantkcode/the-anatomy-of-a-bug-how-i-discovered-and-solved-the-gitpod-docs-search-issue-caused-by-algolia-updates-4ke1)
-- [Dev.to/JS] [Show detail data of a table with ngFor in Angular](https://dev.to/monkdev/show-detail-data-of-a-table-with-ngfor-in-angular-56li)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;25-02-2023&rpar; - Beep Beep](https://dev.to/mjgs/this-weeks-newsletter-is-out-25-02-2023-beep-beep-1712)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
 - [Lifehacker] [Make Better Meatballs With Anchovies](https://lifehacker.com/make-better-meatballs-with-anchovies-1850156439)
 - [Lifehacker] [You Can Save Your ChatGPT Conversations for Later](https://lifehacker.com/you-can-save-your-chatgpt-conversations-for-later-1850157559)
