@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why hasn&#39;t the SVG format been fully accepted?](https://dev.to/sysmaya/why-hasnt-the-svg-format-been-fully-accepted-17g8)
+- [Dev.to/JS] [Building Serverless Applications with React](https://dev.to/haszankauna/building-serverless-applications-with-react-4pbg)
+- [Dev.to/JS] [Scalable Vector Graphics SVG File Format](https://dev.to/sysmaya/scalable-vector-graphics-svg-file-format-2c1f)
+- [Dev.to/JS] [Vector Drawing vs Bitmap Raster Drawing](https://dev.to/sysmaya/vector-drawing-vs-bitmap-raster-drawing-3lg7)
+- [Dev.to/JS] [Become a great Graphic Designer](https://dev.to/sysmaya/become-a-great-graphic-designer-5gmc)
+- [Dev.to/JS] [How to change the image on hover using JSX.](https://dev.to/kriyanshishah/how-to-change-the-image-on-hover-using-jsx-3k02)
+- [Dev.to/JS] [Online or Desktop Software: Pros and Cons](https://dev.to/sysmaya/online-or-desktop-software-pros-and-cons-5fll)
+- [Dev.to/JS] [From Graphite Pencil to Optical Pencil](https://dev.to/sysmaya/from-graphite-pencil-to-optical-pencil-18bn)
+- [Dev.to/JS] [What is Color Theory?](https://dev.to/sysmaya/what-is-color-theory-34p6)
+- [Dev.to/JS] [Why should logos be designed with vectors?](https://dev.to/sysmaya/why-should-logos-be-designed-with-vectors-2jph)
+- [Dev.to/JS] [SVG Editor Online](https://dev.to/sysmaya/svg-editor-online-2i3m)
 - [Dev.to/JS] [Paracetamol.ts💊| #19: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-19-explica-este-codigo-typescript-4bi7)
-- [Dev.to/JS] [ArtDraw SVG Mandala Generator](https://dev.to/sysmaya/artdraw-svg-mandala-generator-3465)
-- [Dev.to/JS] [Creating Minesweeper with ReactJS and Mobx](https://dev.to/horoshko_m/creating-minesweeper-with-reactjs-and-mobx-1d7p)
-- [Dev.to/JS] [RabbitMQ in NodeJS](https://dev.to/roeybenharushdev/rabbitmq-in-nodejs-3d8c)
-- [Dev.to/JS] [5 Rules of ARIA](https://dev.to/konrud/5-rules-of-aria-40i)
-- [Dev.to/JS] [Desarrollando un clon de instagram en React IV - Implementando Lazy Loading y Links en los Navs](https://dev.to/robertomsen/desarrollando-un-clon-de-instagram-en-react-iv-implementando-lazy-loading-y-links-en-los-navs-gbn)
-- [Dev.to/JS] [Things I thought I should be careful about when writing my own XSS penetration tests.](https://dev.to/sachikokame/things-i-thought-i-should-be-careful-about-when-writing-my-own-xss-penetration-tests-36dm)
-- [Dev.to/JS] [Debugging JavaScript Like a Pro: Tools and Techniques for Finding and Fixing Bugs](https://dev.to/iayeshasahar/debugging-javascript-like-a-pro-tools-and-techniques-for-finding-and-fixing-bugs-2lf5)
-- [Dev.to/JS] [CALL, APPLY va BIND o&#39;zi nima va qanday farqlari bor?](https://dev.to/developerozodbek/call-apply-va-bind-ozi-nima-va-qanday-farqlari-bor-3ni8)
-- [Dev.to/JS] [Solving Coding Challenges](https://dev.to/oluwatrillions/solving-coding-challenges-2ki1)
-- [Dev.to/JS] [Tyggable lamp](https://dev.to/mezumesocial/tyggable-lamp-3o3p)
-- [Dev.to/JS] [7 Best Practices for Software Developers](https://dev.to/devland/7-best-practices-for-software-developers-1l28)
+- [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
 - [Lifehacker] [Make Better Meatballs With Anchovies](https://lifehacker.com/make-better-meatballs-with-anchovies-1850156439)
 - [Lifehacker] [You Can Save Your ChatGPT Conversations for Later](https://lifehacker.com/you-can-save-your-chatgpt-conversations-for-later-1850157559)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 Objects Floating in US Airspace Right Now](https://lifehacker.com/7-objects-floating-in-us-airspace-right-now-1850151473)
 - [Lifehacker] [You Really Can Use Paint to Make a Room Look Bigger or Smaller](https://lifehacker.com/you-really-can-use-paint-to-make-a-room-look-bigger-or-1850150388)
 - [Lifehacker] [Use This Free App to Delete Leftover App Files on Your Mac](https://lifehacker.com/use-this-free-app-to-delete-leftover-app-files-on-your-1850150940)
-- [Lifehacker] [You Can Clean Your Oven Without Scrubbing a Thing](https://lifehacker.com/you-can-clean-your-oven-without-scrubbing-a-thing-1850151228)
-- [Lifehacker] [Blast Your Toaster With a Hair Dryer](https://lifehacker.com/blast-your-toaster-with-a-hair-dryer-1850150896)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Clean Your Oven Without Scrubbing a Thing](https://lifehacker.com/you-can-clean-your-oven-without-scrubbing-a-thing-1850151228)<!-- TECH-POSTS:END -->
 
 ---
 
