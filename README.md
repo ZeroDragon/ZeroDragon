@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to implement and draw external SVG sprites](https://dev.to/kostas2509/how-to-implement-and-draw-external-svg-sprites-fde)
+- [Dev.to/JS] [Turning 14...](https://dev.to/vulcanwm/turning-14-1ifm)
+- [Dev.to/JS] [Cheap way to host a Javascript project. &lpar;e.g. Node APIs &amp; React Apps&rpar;](https://dev.to/lukeecart/cheap-way-to-host-a-javascript-projects-eg-node-apis-react-apps-4ohb)
 - [Dev.to/JS] [How do I prepare for Deloitte Interview](https://dev.to/talentbattle1/how-do-i-prepare-for-deloitte-interview-16fi)
 - [Dev.to/JS] [The evolution of Javascript Strings over the years](https://dev.to/jukilo_lokiju/the-evolution-of-javascript-strings-over-the-years-f5f)
 - [Dev.to/JS] [JavaScript Struggles - Part 7 | functions](https://dev.to/abdelrahman_dwedar/javascript-struggles-part-7-functions-11m2)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing GraphQL in React Applications](https://dev.to/haszankauna/implementing-graphql-in-react-applications-202g)
 - [Dev.to/JS] [Can Neural Networks be trained to generate SVG images?](https://dev.to/sysmaya/can-neural-networks-be-trained-to-generate-svg-images-3lak)
 - [Dev.to/JS] [Why hasn&#39;t the SVG format been fully accepted?](https://dev.to/sysmaya/why-hasnt-the-svg-format-been-fully-accepted-17g8)
-- [Dev.to/JS] [Building Serverless Applications with React](https://dev.to/haszankauna/building-serverless-applications-with-react-4pbg)
-- [Dev.to/JS] [Scalable Vector Graphics SVG File Format](https://dev.to/sysmaya/scalable-vector-graphics-svg-file-format-2c1f)
-- [Dev.to/JS] [Vector Drawing vs Bitmap Raster Drawing](https://dev.to/sysmaya/vector-drawing-vs-bitmap-raster-drawing-3lg7)
 - [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
 - [Lifehacker] [Make Better Meatballs With Anchovies](https://lifehacker.com/make-better-meatballs-with-anchovies-1850156439)
