@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 - 𝗗𝗮𝘁𝗮𝗧𝘆𝗽𝗲𝘀 𝗮𝗻𝗱 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲](https://dev.to/sahinur/--32n0)
 - [Dev.to/JS] [Passing Props UP ^ from Child to Parent Component](https://dev.to/abflatiron/passing-props-up-from-child-to-parent-component-50nf)
 - [Dev.to/JS] [LeetCode - Minimum Operations to Make Array Equal](https://dev.to/_alkesh26/leetcode-minimum-operations-to-make-array-equal-306o)
 - [Dev.to/JS] [Building the backend for a full stack web app](https://dev.to/jsongcodes/building-a-backend-for-a-full-stack-web-app-4if)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Encapsulating Third-Party Libraries for Improved Code Organization and Maintenance](https://dev.to/noneundefined/encapsulating-third-party-libraries-for-improved-code-organization-and-maintenance-27hi)
 - [Dev.to/JS] [JavaScript Tutorial Series: Function expressions](https://dev.to/fullstackjo/javascript-tutorial-series-function-expressions-4ofj)
 - [Dev.to/JS] [Optimize Your Gas Costs with eth-gas-reporter for Hardhat](https://dev.to/pfedprog/optimize-your-gas-costs-with-eth-gas-reporter-for-hardhat-2ke7)
-- [Dev.to/JS] [HTTP Headers](https://dev.to/jacopo/http-headers-5je)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
 - [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
