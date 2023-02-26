@@ -24,6 +24,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Learn how to use React Portals and improve your React development skills](https://dev.to/abhishekrawe/learn-how-to-use-react-portals-and-improve-your-react-development-skills-igc)
+- [Dev.to/JS] [Custom Hooks - useTime&lpar;&rpar;](https://dev.to/mertcannkocerr/custom-hooks-usetime-db0)
 - [Dev.to/JS] [I built a Hacker News Client. Check It Out 🥺](https://dev.to/daviduzondu/i-built-a-hacker-news-client-check-it-out-1jh4)
 - [Dev.to/JS] [How healthy would a programming language be if it was a food?](https://dev.to/spiropoulos94/how-healthy-would-a-programming-language-be-if-it-was-a-food-2df9)
 - [Dev.to/JS] [JavaScript Tutorial Series: Arrow functions](https://dev.to/fullstackjo/javascript-tutorial-series-arrow-functions-a31)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s build the ultimate clinical calculator Android App with NativeScript](https://dev.to/oreoyona/lets-build-the-ultimate-clinical-calculator-android-app-with-nativescript-44g8)
 - [Dev.to/JS] [Just learning...](https://dev.to/mannega/just-learning-3el8)
 - [Dev.to/JS] [Creating Custom RxJS Operators](https://dev.to/henriquecustodia/creating-custom-rxjs-operators-2o0)
-- [Dev.to/JS] [Optimising Javascript function performance](https://dev.to/gilesdring/optimising-javascript-function-performance-42le)
 - [Lifehacker] [How to Clean Unsealed Concrete Floors in Your Basement or Garage](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
 - [Lifehacker] [The Best American Cities for Remote Workers Right Now](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
