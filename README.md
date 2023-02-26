@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [the Power of Web3: Your Complete Guide to Building Decentralized Applications](https://dev.to/outofboxrevieww/the-power-of-web3-your-complete-guide-to-building-decentralized-applications-1p1c)
+- [Dev.to/JS] [TypeScript Type for Conditional Parameters with Compile-Time Validation](https://dev.to/noneundefined/typescript-type-for-conditional-parameters-with-compile-time-validation-22eg)
+- [Dev.to/JS] [Using custom events for global state in React](https://dev.to/scaredmonad/using-custom-events-for-global-state-in-react-21gh)
+- [Dev.to/JS] [Event based state control example: Create a TipTap module with Vanilla JS](https://dev.to/efpage/event-based-state-control-example-create-a-tiptap-module-with-vanilla-js-7j4)
 - [Dev.to/JS] [What indeed is `this` in JavaScript](https://dev.to/yw662/what-indeed-is-this-in-javascript-1f3g)
 - [Dev.to/JS] [Next.js vs. React: Which is the Best for Your Project](https://dev.to/ishratumar/nextjs-vs-react-which-is-the-best-for-your-project-1eim)
 - [Dev.to/JS] [Typescript Interface vs Type](https://dev.to/cloudysarah/typescript-interface-vs-type-4877)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Stripe Multipartner platform for the express or custom-connected account.](https://dev.to/silviaplabon/stripe-multipartner-platform-for-the-express-or-custom-connected-account-19f4)
 - [Dev.to/JS] [Being properly funded for your open-source is now a choice](https://dev.to/opensourceregistry/being-properly-funded-for-your-open-source-is-now-a-choice-10kj)
 - [Dev.to/JS] [Implement Sign in with Google using Supabase Auth in NextJS](https://dev.to/irwanphan/implement-sign-in-with-google-using-supabase-auth-in-nextjs-1jj1)
-- [Dev.to/JS] [5 Simple Steps to Enhance SEO in Your React Application](https://dev.to/digvijayjadhav98/5-simple-steps-to-enhance-seo-in-your-react-application-2jh5)
-- [Dev.to/JS] [animtion n canvas](https://dev.to/nagvanshi9275/animtion-n-canvas-l29)
-- [Dev.to/JS] [Node.js-Create an online chat application](https://dev.to/henryshi101/nodejs-create-an-online-chat-application-45ma)
-- [Dev.to/JS] [HEIC 格式的圖片怎麼辦？使用 heic2any.js 轉換為 JPEG 或 PNG](https://dev.to/letswrite/heic-ge-shi-de-tu-pian-zen-mo-ban-shi-yong-heic2anyjs-zhuan-huan-wei-jpeg-huo-png-5gmb)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
 - [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
