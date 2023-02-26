@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript Interface vs Type](https://dev.to/cloudysarah/typescript-interface-vs-type-4877)
+- [Dev.to/JS] [I can help with &#39;this&#39; Confusion](https://dev.to/stevepurpose/i-can-help-with-this-confusion-3g81)
+- [Dev.to/JS] [Optimizing Web Performance: The Benefits of Using SVGs Over PNGs](https://dev.to/ugurkellecioglu/optimizing-web-performance-the-benefits-of-using-svgs-over-pngs-385c)
 - [Dev.to/JS] [Stripe Multipartner platform for the express or custom-connected account.](https://dev.to/silviaplabon/stripe-multipartner-platform-for-the-express-or-custom-connected-account-19f4)
 - [Dev.to/JS] [Being properly funded for your open-source is now a choice](https://dev.to/opensourceregistry/being-properly-funded-for-your-open-source-is-now-a-choice-10kj)
 - [Dev.to/JS] [Implement Sign in with Google using Supabase Auth in NextJS](https://dev.to/irwanphan/implement-sign-in-with-google-using-supabase-auth-in-nextjs-1jj1)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HEIC 格式的圖片怎麼辦？使用 heic2any.js 轉換為 JPEG 或 PNG](https://dev.to/letswrite/heic-ge-shi-de-tu-pian-zen-mo-ban-shi-yong-heic2anyjs-zhuan-huan-wei-jpeg-huo-png-5gmb)
 - [Dev.to/JS] [Cookie Management in ExpressJS to Authenticate Users](https://dev.to/permify/cookie-management-in-expressjs-to-authenticate-users-285o)
 - [Dev.to/JS] [Why you shouldn&#39;t use slow regular expressions](https://dev.to/leduc1901/why-you-shouldnt-use-slow-regular-expressions-2bnc)
-- [Dev.to/JS] [𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 - 𝗗𝗮𝘁𝗮𝗧𝘆𝗽𝗲𝘀 𝗮𝗻𝗱 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲](https://dev.to/sahinur/--32n0)
-- [Dev.to/JS] [Passing Props UP ^ from Child to Parent Component](https://dev.to/abflatiron/passing-props-up-from-child-to-parent-component-50nf)
-- [Dev.to/JS] [LeetCode - Minimum Operations to Make Array Equal](https://dev.to/_alkesh26/leetcode-minimum-operations-to-make-array-equal-306o)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
 - [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
