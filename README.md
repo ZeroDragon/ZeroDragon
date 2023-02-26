@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Clean Unsealed Concrete Floors in Your Basement or Garage](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
+- [Dev.to/JS] [Boove](https://dev.to/mrfiend179/boove-4189)
+- [Dev.to/JS] [Display current time](https://dev.to/zuzexx/display-current-time-2b69)
 - [Dev.to/JS] [Catch up on JavaScript: Cookie-es, TW Classed, Devalue, and more](https://dev.to/marcin_codes/catch-up-on-javascript-cookie-es-tw-classed-devalue-and-more-mpb)
 - [Dev.to/JS] [Using Fetch API For Executing GraphQL Queries And Mutations](https://dev.to/atherosai/using-fetch-api-for-executing-graphql-queries-and-mutations-n3f)
 - [Dev.to/JS] [O que é o protocolo GraphQL?](https://dev.to/madrade1472/o-que-e-o-protocolo-graphql-phk)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript Type for Conditional Parameters with Compile-Time Validation](https://dev.to/noneundefined/typescript-type-for-conditional-parameters-with-compile-time-validation-22eg)
 - [Dev.to/JS] [Using custom events for global state in React](https://dev.to/scaredmonad/using-custom-events-for-global-state-in-react-21gh)
 - [Dev.to/JS] [Event based state control example: Create a TipTap module with Vanilla JS](https://dev.to/efpage/event-based-state-control-example-create-a-tiptap-module-with-vanilla-js-7j4)
-- [Dev.to/JS] [What indeed is `this` in JavaScript](https://dev.to/yw662/what-indeed-is-this-in-javascript-1f3g)
-- [Dev.to/JS] [Next.js vs. React: Which is the Best for Your Project](https://dev.to/ishratumar/nextjs-vs-react-which-is-the-best-for-your-project-1eim)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
 - [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make Dessert Pasta Immediately](https://lifehacker.com/you-should-make-dessert-pasta-immediately-1850151506)
 - [Lifehacker] [What&#39;s New on Paramount+ in March 2023](https://lifehacker.com/whats-new-on-paramount-in-march-2023-1850151677)
 - [Lifehacker] [11 Ways to Make a Better Tuna Sandwich](https://lifehacker.com/11-ways-to-make-a-better-tuna-sandwich-1850150470)
-- [Lifehacker] [7 Objects Floating in US Airspace Right Now](https://lifehacker.com/7-objects-floating-in-us-airspace-right-now-1850151473)
-- [Lifehacker] [You Really Can Use Paint to Make a Room Look Bigger or Smaller](https://lifehacker.com/you-really-can-use-paint-to-make-a-room-look-bigger-or-1850150388)<!-- TECH-POSTS:END -->
+- [Lifehacker] [7 Objects Floating in US Airspace Right Now](https://lifehacker.com/7-objects-floating-in-us-airspace-right-now-1850151473)<!-- TECH-POSTS:END -->
 
 ---
 
