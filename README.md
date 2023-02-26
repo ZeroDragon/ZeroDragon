@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best American Cities for Remote Workers Right Now](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)
+- [Dev.to/JS] [Build a Responsive Modal using CSS 🚀](https://dev.to/ananiket/build-a-responsive-modal-using-css-1h5k)
 - [Dev.to/JS] [the Power of Web3: Your Complete Guide to Building Decentralized Applications](https://dev.to/outofboxrevieww/the-power-of-web3-your-complete-guide-to-building-decentralized-applications-1p1c)
 - [Dev.to/JS] [TypeScript Type for Conditional Parameters with Compile-Time Validation](https://dev.to/noneundefined/typescript-type-for-conditional-parameters-with-compile-time-validation-22eg)
 - [Dev.to/JS] [Using custom events for global state in React](https://dev.to/scaredmonad/using-custom-events-for-global-state-in-react-21gh)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimizing Web Performance: The Benefits of Using SVGs Over PNGs](https://dev.to/ugurkellecioglu/optimizing-web-performance-the-benefits-of-using-svgs-over-pngs-385c)
 - [Dev.to/JS] [Stripe Multipartner platform for the express or custom-connected account.](https://dev.to/silviaplabon/stripe-multipartner-platform-for-the-express-or-custom-connected-account-19f4)
 - [Dev.to/JS] [Being properly funded for your open-source is now a choice](https://dev.to/opensourceregistry/being-properly-funded-for-your-open-source-is-now-a-choice-10kj)
-- [Dev.to/JS] [Implement Sign in with Google using Supabase Auth in NextJS](https://dev.to/irwanphan/implement-sign-in-with-google-using-supabase-auth-in-nextjs-1jj1)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
 - [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Paramount+ in March 2023](https://lifehacker.com/whats-new-on-paramount-in-march-2023-1850151677)
 - [Lifehacker] [11 Ways to Make a Better Tuna Sandwich](https://lifehacker.com/11-ways-to-make-a-better-tuna-sandwich-1850150470)
 - [Lifehacker] [7 Objects Floating in US Airspace Right Now](https://lifehacker.com/7-objects-floating-in-us-airspace-right-now-1850151473)
-- [Lifehacker] [You Really Can Use Paint to Make a Room Look Bigger or Smaller](https://lifehacker.com/you-really-can-use-paint-to-make-a-room-look-bigger-or-1850150388)
-- [Lifehacker] [Use This Free App to Delete Leftover App Files on Your Mac](https://lifehacker.com/use-this-free-app-to-delete-leftover-app-files-on-your-1850150940)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Really Can Use Paint to Make a Room Look Bigger or Smaller](https://lifehacker.com/you-really-can-use-paint-to-make-a-room-look-bigger-or-1850150388)<!-- TECH-POSTS:END -->
 
 ---
 
