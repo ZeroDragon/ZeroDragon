@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AbortController &lpar;Cancelable Async Code&rpar;](https://dev.to/fernandosouza/abortcontroller-cancelable-async-code-2cb4)
+- [Dev.to/JS] [Looking for a new CMS? Here are the top 22 CMS features to look for](https://dev.to/momciloo/looking-for-a-new-cms-here-are-the-top-22-cms-features-to-look-for-15pp)
+- [Dev.to/JS] [Setting up authentication in Astro with Prisma and Planetscale](https://dev.to/thomasledoux1/setting-up-authentication-in-astro-with-prisma-and-planetscale-4g4h)
+- [Dev.to/JS] [Send email using reactjs](https://dev.to/rajamanickam/send-email-using-reactjs-7ij)
 - [Lifehacker] [How to Clean Unsealed Concrete Floors in Your Basement or Garage](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
 - [Dev.to/JS] [Boove](https://dev.to/mrfiend179/boove-4189)
 - [Dev.to/JS] [Display current time](https://dev.to/zuzexx/display-current-time-2b69)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How a single line code change, improved my performance](https://dev.to/mrh0200/how-a-single-line-code-change-improved-my-performance-be5)
 - [Lifehacker] [The Best American Cities for Remote Workers Right Now](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)
 - [Dev.to/JS] [Build a Responsive Modal using CSS 🚀](https://dev.to/ananiket/build-a-responsive-modal-using-css-1h5k)
-- [Dev.to/JS] [the Power of Web3: Your Complete Guide to Building Decentralized Applications](https://dev.to/outofboxrevieww/the-power-of-web3-your-complete-guide-to-building-decentralized-applications-1p1c)
-- [Dev.to/JS] [TypeScript Type for Conditional Parameters with Compile-Time Validation](https://dev.to/noneundefined/typescript-type-for-conditional-parameters-with-compile-time-validation-22eg)
-- [Dev.to/JS] [Using custom events for global state in React](https://dev.to/scaredmonad/using-custom-events-for-global-state-in-react-21gh)
-- [Dev.to/JS] [Event based state control example: Create a TipTap module with Vanilla JS](https://dev.to/efpage/event-based-state-control-example-create-a-tiptap-module-with-vanilla-js-7j4)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
 - [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
