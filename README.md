@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What indeed is `this` in JavaScript](https://dev.to/yw662/what-indeed-is-this-in-javascript-1f3g)
+- [Dev.to/JS] [Next.js vs. React: Which is the Best for Your Project](https://dev.to/ishratumar/nextjs-vs-react-which-is-the-best-for-your-project-1eim)
 - [Dev.to/JS] [Typescript Interface vs Type](https://dev.to/cloudysarah/typescript-interface-vs-type-4877)
 - [Dev.to/JS] [I can help with &#39;this&#39; Confusion](https://dev.to/stevepurpose/i-can-help-with-this-confusion-3g81)
 - [Dev.to/JS] [Optimizing Web Performance: The Benefits of Using SVGs Over PNGs](https://dev.to/ugurkellecioglu/optimizing-web-performance-the-benefits-of-using-svgs-over-pngs-385c)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [animtion n canvas](https://dev.to/nagvanshi9275/animtion-n-canvas-l29)
 - [Dev.to/JS] [Node.js-Create an online chat application](https://dev.to/henryshi101/nodejs-create-an-online-chat-application-45ma)
 - [Dev.to/JS] [HEIC 格式的圖片怎麼辦？使用 heic2any.js 轉換為 JPEG 或 PNG](https://dev.to/letswrite/heic-ge-shi-de-tu-pian-zen-mo-ban-shi-yong-heic2anyjs-zhuan-huan-wei-jpeg-huo-png-5gmb)
-- [Dev.to/JS] [Cookie Management in ExpressJS to Authenticate Users](https://dev.to/permify/cookie-management-in-expressjs-to-authenticate-users-285o)
-- [Dev.to/JS] [Why you shouldn&#39;t use slow regular expressions](https://dev.to/leduc1901/why-you-shouldnt-use-slow-regular-expressions-2bnc)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
 - [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
