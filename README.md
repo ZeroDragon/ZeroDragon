@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How healthy would a programming language be if it was a food?](https://dev.to/spiropoulos94/how-healthy-would-a-programming-language-be-if-it-was-a-food-2df9)
+- [Dev.to/JS] [JavaScript Tutorial Series: Arrow functions](https://dev.to/fullstackjo/javascript-tutorial-series-arrow-functions-a31)
+- [Dev.to/JS] [Remove Duplicate Elements From An Array In JavaScript / TypeScript](https://dev.to/damiensedgwick/remove-duplicate-elements-from-an-array-in-javascript-or-typescript-o9m)
+- [Dev.to/JS] [Dithering Images with React/JavaScript](https://dev.to/bytebodger/dithering-images-with-reactjavascript-och)
 - [Dev.to/JS] [Systeme.io Reviews : The All-in-One Marketing Tool](https://dev.to/outofboxrevieww/systemeio-reviews-the-all-in-one-marketing-tool-3i12)
 - [Dev.to/JS] [AI taking over!!!!](https://dev.to/mannega/ai-taking-over-33k2)
 - [Dev.to/JS] [Let&#39;s build the ultimate clinical calculator Android App with NativeScript](https://dev.to/oreoyona/lets-build-the-ultimate-clinical-calculator-android-app-with-nativescript-44g8)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimising Javascript function performance](https://dev.to/gilesdring/optimising-javascript-function-performance-42le)
 - [Dev.to/JS] [Intro to Nest.js 🪺](https://dev.to/omher/intro-to-nestjs-39m6)
 - [Dev.to/JS] [Getting Started with React Native and Expo: An Introduction to.env Files](https://dev.to/niksseif/getting-started-with-react-native-and-expo-an-introduction-toenv-files-35d1)
-- [Dev.to/JS] [Whats Medusa an introduction part 2 Next.js storefront](https://dev.to/nfuhs/whats-medusa-an-introduction-part-2-nextjs-storefront-4543)
-- [Dev.to/JS] [Technical Exercises &lpar;2&rpar; from a Software Engineering Internship Application Process](https://dev.to/benboorstein/technical-exercises-2-from-a-software-engineering-internship-application-process-4i3n)
-- [Dev.to/JS] [Getting Started With Kafka with Node JS](https://dev.to/tejachundru/getting-started-with-kafka-with-node-js-i22)
-- [Dev.to/JS] [AbortController &lpar;Cancelable Async Code&rpar;](https://dev.to/fernandosouza/abortcontroller-cancelable-async-code-2cb4)
 - [Lifehacker] [How to Clean Unsealed Concrete Floors in Your Basement or Garage](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
 - [Lifehacker] [The Best American Cities for Remote Workers Right Now](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
