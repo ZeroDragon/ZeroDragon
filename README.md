@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Simple Steps to Enhance SEO in Your React Application](https://dev.to/digvijayjadhav98/5-simple-steps-to-enhance-seo-in-your-react-application-2jh5)
+- [Dev.to/JS] [animtion n canvas](https://dev.to/nagvanshi9275/animtion-n-canvas-l29)
+- [Dev.to/JS] [Node.js-Create an online chat application](https://dev.to/henryshi101/nodejs-create-an-online-chat-application-45ma)
 - [Dev.to/JS] [HEIC 格式的圖片怎麼辦？使用 heic2any.js 轉換為 JPEG 或 PNG](https://dev.to/letswrite/heic-ge-shi-de-tu-pian-zen-mo-ban-shi-yong-heic2anyjs-zhuan-huan-wei-jpeg-huo-png-5gmb)
 - [Dev.to/JS] [Cookie Management in ExpressJS to Authenticate Users](https://dev.to/permify/cookie-management-in-expressjs-to-authenticate-users-285o)
 - [Dev.to/JS] [Why you shouldn&#39;t use slow regular expressions](https://dev.to/leduc1901/why-you-shouldnt-use-slow-regular-expressions-2bnc)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building the backend for a full stack web app](https://dev.to/jsongcodes/building-a-backend-for-a-full-stack-web-app-4if)
 - [Dev.to/JS] [Use Prisma with an SQLite DATETIME datatype](https://dev.to/chingu/use-prisma-with-an-sqlite-datetime-datatype-29o9)
 - [Dev.to/JS] [Design 3d en JAVASCRIPT](https://dev.to/venegaz10/design-3d-en-javascript-1l53)
-- [Dev.to/JS] [Learning JavaScript with Scrimba - A Beginners Journey](https://dev.to/alexeatsburgers/learning-javascript-with-scrimba-58b4)
-- [Dev.to/JS] [Variable Declaration in JavaScript](https://dev.to/victor1890/variable-declaration-in-javascript-3o52)
-- [Dev.to/JS] [Day 1: Leetcode | 121. Best Time To Buy And Sell Stock Solution](https://dev.to/izzyo/day-1-leetcode-121-best-time-to-buy-and-sell-stock-solution-519i)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
 - [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
