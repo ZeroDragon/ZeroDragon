@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implement Sign in with Google using Supabase Auth in NextJS](https://dev.to/irwanphan/implement-sign-in-with-google-using-supabase-auth-in-nextjs-1jj1)
 - [Dev.to/JS] [5 Simple Steps to Enhance SEO in Your React Application](https://dev.to/digvijayjadhav98/5-simple-steps-to-enhance-seo-in-your-react-application-2jh5)
 - [Dev.to/JS] [animtion n canvas](https://dev.to/nagvanshi9275/animtion-n-canvas-l29)
 - [Dev.to/JS] [Node.js-Create an online chat application](https://dev.to/henryshi101/nodejs-create-an-online-chat-application-45ma)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode - Minimum Operations to Make Array Equal](https://dev.to/_alkesh26/leetcode-minimum-operations-to-make-array-equal-306o)
 - [Dev.to/JS] [Building the backend for a full stack web app](https://dev.to/jsongcodes/building-a-backend-for-a-full-stack-web-app-4if)
 - [Dev.to/JS] [Use Prisma with an SQLite DATETIME datatype](https://dev.to/chingu/use-prisma-with-an-sqlite-datetime-datatype-29o9)
-- [Dev.to/JS] [Design 3d en JAVASCRIPT](https://dev.to/venegaz10/design-3d-en-javascript-1l53)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
 - [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
