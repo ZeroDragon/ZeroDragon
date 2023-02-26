@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Systeme.io Reviews : The All-in-One Marketing Tool](https://dev.to/outofboxrevieww/systemeio-reviews-the-all-in-one-marketing-tool-3i12)
+- [Dev.to/JS] [AI taking over!!!!](https://dev.to/mannega/ai-taking-over-33k2)
+- [Dev.to/JS] [Let&#39;s build the ultimate clinical calculator Android App with NativeScript](https://dev.to/oreoyona/lets-build-the-ultimate-clinical-calculator-android-app-with-nativescript-44g8)
+- [Dev.to/JS] [Just learning...](https://dev.to/mannega/just-learning-3el8)
 - [Dev.to/JS] [Creating Custom RxJS Operators](https://dev.to/henriquecustodia/creating-custom-rxjs-operators-2o0)
 - [Dev.to/JS] [Optimising Javascript function performance](https://dev.to/gilesdring/optimising-javascript-function-performance-42le)
 - [Dev.to/JS] [Intro to Nest.js 🪺](https://dev.to/omher/intro-to-nestjs-39m6)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Technical Exercises &lpar;2&rpar; from a Software Engineering Internship Application Process](https://dev.to/benboorstein/technical-exercises-2-from-a-software-engineering-internship-application-process-4i3n)
 - [Dev.to/JS] [Getting Started With Kafka with Node JS](https://dev.to/tejachundru/getting-started-with-kafka-with-node-js-i22)
 - [Dev.to/JS] [AbortController &lpar;Cancelable Async Code&rpar;](https://dev.to/fernandosouza/abortcontroller-cancelable-async-code-2cb4)
-- [Dev.to/JS] [Looking for a new CMS? Here are the top 22 CMS features to look for](https://dev.to/momciloo/looking-for-a-new-cms-here-are-the-top-22-cms-features-to-look-for-15pp)
-- [Dev.to/JS] [Setting up authentication in Astro with Prisma and Planetscale](https://dev.to/thomasledoux1/setting-up-authentication-in-astro-with-prisma-and-planetscale-4g4h)
-- [Dev.to/JS] [Send email using reactjs](https://dev.to/rajamanickam/send-email-using-reactjs-7ij)
 - [Lifehacker] [How to Clean Unsealed Concrete Floors in Your Basement or Garage](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
-- [Dev.to/JS] [Display current time](https://dev.to/zuzexx/display-current-time-2b69)
 - [Lifehacker] [The Best American Cities for Remote Workers Right Now](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
 - [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
