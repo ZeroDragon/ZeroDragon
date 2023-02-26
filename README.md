@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating Custom RxJS Operators](https://dev.to/henriquecustodia/creating-custom-rxjs-operators-2o0)
+- [Dev.to/JS] [Optimising Javascript function performance](https://dev.to/gilesdring/optimising-javascript-function-performance-42le)
+- [Dev.to/JS] [Intro to Nest.js 🪺](https://dev.to/omher/intro-to-nestjs-39m6)
 - [Dev.to/JS] [Getting Started with React Native and Expo: An Introduction to.env Files](https://dev.to/niksseif/getting-started-with-react-native-and-expo-an-introduction-toenv-files-35d1)
 - [Dev.to/JS] [Whats Medusa an introduction part 2 Next.js storefront](https://dev.to/nfuhs/whats-medusa-an-introduction-part-2-nextjs-storefront-4543)
 - [Dev.to/JS] [Technical Exercises &lpar;2&rpar; from a Software Engineering Internship Application Process](https://dev.to/benboorstein/technical-exercises-2-from-a-software-engineering-internship-application-process-4i3n)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Send email using reactjs](https://dev.to/rajamanickam/send-email-using-reactjs-7ij)
 - [Lifehacker] [How to Clean Unsealed Concrete Floors in Your Basement or Garage](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
 - [Dev.to/JS] [Display current time](https://dev.to/zuzexx/display-current-time-2b69)
-- [Dev.to/JS] [Catch up on JavaScript: Cookie-es, TW Classed, Devalue, and more](https://dev.to/marcin_codes/catch-up-on-javascript-cookie-es-tw-classed-devalue-and-more-mpb)
-- [Dev.to/JS] [Using Fetch API For Executing GraphQL Queries And Mutations](https://dev.to/atherosai/using-fetch-api-for-executing-graphql-queries-and-mutations-n3f)
-- [Dev.to/JS] [O que é o protocolo GraphQL?](https://dev.to/madrade1472/o-que-e-o-protocolo-graphql-phk)
 - [Lifehacker] [The Best American Cities for Remote Workers Right Now](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
 - [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
