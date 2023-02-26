@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building the backend for a full stack web app](https://dev.to/jsongcodes/building-a-backend-for-a-full-stack-web-app-4if)
+- [Dev.to/JS] [Use Prisma with an SQLite DATETIME datatype](https://dev.to/chingu/use-prisma-with-an-sqlite-datetime-datatype-29o9)
 - [Dev.to/JS] [Design 3d en JAVASCRIPT](https://dev.to/venegaz10/design-3d-en-javascript-1l53)
 - [Dev.to/JS] [Learning JavaScript with Scrimba - A Beginners Journey](https://dev.to/alexeatsburgers/learning-javascript-with-scrimba-58b4)
 - [Dev.to/JS] [Variable Declaration in JavaScript](https://dev.to/victor1890/variable-declaration-in-javascript-3o52)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HTTP Headers](https://dev.to/jacopo/http-headers-5je)
 - [Dev.to/JS] [How to increase your Hedera staking rewards with 0.2%](https://dev.to/louweal/how-to-increase-your-hedera-staking-rewards-with-02-59ah)
 - [Dev.to/JS] [Add Firebase v9 to your JavaScript App in 10 mins](https://dev.to/hirajatamil/add-firebase-v9-to-your-javascript-app-in-10-mins-2ijd)
-- [Dev.to/JS] [Optimizing performance with Apache AGE Part 2](https://dev.to/farakhshahid/optimizing-performance-with-apache-age-part-2-57b3)
-- [Dev.to/JS] [How to implement and draw external SVG sprites](https://dev.to/kostas2509/how-to-implement-and-draw-external-svg-sprites-fde)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
 - [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
