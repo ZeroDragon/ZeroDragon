@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Catch up on JavaScript: Cookie-es, TW Classed, Devalue, and more](https://dev.to/marcin_codes/catch-up-on-javascript-cookie-es-tw-classed-devalue-and-more-mpb)
+- [Dev.to/JS] [Using Fetch API For Executing GraphQL Queries And Mutations](https://dev.to/atherosai/using-fetch-api-for-executing-graphql-queries-and-mutations-n3f)
+- [Dev.to/JS] [O que é o protocolo GraphQL?](https://dev.to/madrade1472/o-que-e-o-protocolo-graphql-phk)
+- [Dev.to/JS] [Angular Part 1 : Creating Angular Project EAccessoriesShop Setup Project| Angular Project ecommerce](https://dev.to/softwaretechit/angular-part-1-creating-angular-project-eaccessoriesshop-setup-project-angular-project-ecommerce-12jh)
+- [Dev.to/JS] [How a single line code change, improved my performance](https://dev.to/mrh0200/how-a-single-line-code-change-improved-my-performance-be5)
 - [Lifehacker] [The Best American Cities for Remote Workers Right Now](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)
 - [Dev.to/JS] [Build a Responsive Modal using CSS 🚀](https://dev.to/ananiket/build-a-responsive-modal-using-css-1h5k)
 - [Dev.to/JS] [the Power of Web3: Your Complete Guide to Building Decentralized Applications](https://dev.to/outofboxrevieww/the-power-of-web3-your-complete-guide-to-building-decentralized-applications-1p1c)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Event based state control example: Create a TipTap module with Vanilla JS](https://dev.to/efpage/event-based-state-control-example-create-a-tiptap-module-with-vanilla-js-7j4)
 - [Dev.to/JS] [What indeed is `this` in JavaScript](https://dev.to/yw662/what-indeed-is-this-in-javascript-1f3g)
 - [Dev.to/JS] [Next.js vs. React: Which is the Best for Your Project](https://dev.to/ishratumar/nextjs-vs-react-which-is-the-best-for-your-project-1eim)
-- [Dev.to/JS] [Typescript Interface vs Type](https://dev.to/cloudysarah/typescript-interface-vs-type-4877)
-- [Dev.to/JS] [I can help with &#39;this&#39; Confusion](https://dev.to/stevepurpose/i-can-help-with-this-confusion-3g81)
-- [Dev.to/JS] [Optimizing Web Performance: The Benefits of Using SVGs Over PNGs](https://dev.to/ugurkellecioglu/optimizing-web-performance-the-benefits-of-using-svgs-over-pngs-385c)
-- [Dev.to/JS] [Stripe Multipartner platform for the express or custom-connected account.](https://dev.to/silviaplabon/stripe-multipartner-platform-for-the-express-or-custom-connected-account-19f4)
-- [Dev.to/JS] [Being properly funded for your open-source is now a choice](https://dev.to/opensourceregistry/being-properly-funded-for-your-open-source-is-now-a-choice-10kj)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
 - [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
