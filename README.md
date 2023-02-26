@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Variable Declaration in JavaScript](https://dev.to/victor1890/variable-declaration-in-javascript-3o52)
 - [Dev.to/JS] [Day 1: Leetcode | 121. Best Time To Buy And Sell Stock Solution](https://dev.to/izzyo/day-1-leetcode-121-best-time-to-buy-and-sell-stock-solution-519i)
 - [Dev.to/JS] [Encapsulating Third-Party Libraries for Improved Code Organization and Maintenance](https://dev.to/noneundefined/encapsulating-third-party-libraries-for-improved-code-organization-and-maintenance-27hi)
 - [Dev.to/JS] [JavaScript Tutorial Series: Function expressions](https://dev.to/fullstackjo/javascript-tutorial-series-function-expressions-4ofj)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to implement and draw external SVG sprites](https://dev.to/kostas2509/how-to-implement-and-draw-external-svg-sprites-fde)
 - [Dev.to/JS] [Turning 14...](https://dev.to/vulcanwm/turning-14-1ifm)
 - [Dev.to/JS] [Cheap way to host a Javascript project. &lpar;e.g. Node APIs &amp; React Apps&rpar;](https://dev.to/lukeecart/cheap-way-to-host-a-javascript-projects-eg-node-apis-react-apps-4ohb)
-- [Dev.to/JS] [How do I prepare for Deloitte Interview](https://dev.to/talentbattle1/how-do-i-prepare-for-deloitte-interview-16fi)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
 - [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
