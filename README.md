@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HEIC 格式的圖片怎麼辦？使用 heic2any.js 轉換為 JPEG 或 PNG](https://dev.to/letswrite/heic-ge-shi-de-tu-pian-zen-mo-ban-shi-yong-heic2anyjs-zhuan-huan-wei-jpeg-huo-png-5gmb)
+- [Dev.to/JS] [Cookie Management in ExpressJS to Authenticate Users](https://dev.to/permify/cookie-management-in-expressjs-to-authenticate-users-285o)
 - [Dev.to/JS] [Why you shouldn&#39;t use slow regular expressions](https://dev.to/leduc1901/why-you-shouldnt-use-slow-regular-expressions-2bnc)
 - [Dev.to/JS] [𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 - 𝗗𝗮𝘁𝗮𝗧𝘆𝗽𝗲𝘀 𝗮𝗻𝗱 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲](https://dev.to/sahinur/--32n0)
 - [Dev.to/JS] [Passing Props UP ^ from Child to Parent Component](https://dev.to/abflatiron/passing-props-up-from-child-to-parent-component-50nf)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learning JavaScript with Scrimba - A Beginners Journey](https://dev.to/alexeatsburgers/learning-javascript-with-scrimba-58b4)
 - [Dev.to/JS] [Variable Declaration in JavaScript](https://dev.to/victor1890/variable-declaration-in-javascript-3o52)
 - [Dev.to/JS] [Day 1: Leetcode | 121. Best Time To Buy And Sell Stock Solution](https://dev.to/izzyo/day-1-leetcode-121-best-time-to-buy-and-sell-stock-solution-519i)
-- [Dev.to/JS] [Encapsulating Third-Party Libraries for Improved Code Organization and Maintenance](https://dev.to/noneundefined/encapsulating-third-party-libraries-for-improved-code-organization-and-maintenance-27hi)
-- [Dev.to/JS] [JavaScript Tutorial Series: Function expressions](https://dev.to/fullstackjo/javascript-tutorial-series-function-expressions-4ofj)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
 - [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
