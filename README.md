@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Apps to Help You Clean Your Home](https://lifehacker.com/the-best-apps-to-help-you-clean-your-home-1850164086)
+- [Lifehacker] [Keep Cannoli Cream in Your Fridge at All Times](https://lifehacker.com/keep-cannoli-cream-in-your-fridge-at-all-times-1850165117)
 - [Lifehacker] [The Cheapest iPad Just Got Cheaper](https://lifehacker.com/the-cheapest-ipad-just-got-cheaper-1850164778)
 - [Dev.to/JS] [Easily Add User Authentication to Your Application With Google Cloud &lpar;While Preserving Time and Nerves&rpar;](https://dev.to/kaykleinvogel/easily-add-user-authentication-to-your-application-with-google-cloud-while-preserving-time-and-nerves-255b)
 - [Lifehacker] [What&#39;s New on Disney+ in March 2023](https://lifehacker.com/whats-new-on-disney-in-march-2023-1850164481)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Better Meatballs With Anchovies](https://lifehacker.com/make-better-meatballs-with-anchovies-1850156439)
 - [Lifehacker] [You Can Save Your ChatGPT Conversations for Later](https://lifehacker.com/you-can-save-your-chatgpt-conversations-for-later-1850157559)
 - [Lifehacker] [You Can Finally Get Google’s Magic Eraser on Your iPhone or Android](https://lifehacker.com/you-can-finally-get-google-s-magic-eraser-on-your-iphon-1850157142)
-- [Lifehacker] [Your Marinara Needs Onions or Garlic, but Not Both](https://lifehacker.com/your-marinara-needs-onions-or-garlic-but-not-both-1850156719)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is Competitive Hobbyhorsing?](https://lifehacker.com/what-is-competitive-hobbyhorsing-1850156770)
-- [Lifehacker] [12 Ways to Transform Your Backyard Shed Into Something More Useful](https://lifehacker.com/12-ways-to-transform-your-backyard-shed-into-something-1850155913)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Marinara Needs Onions or Garlic, but Not Both](https://lifehacker.com/your-marinara-needs-onions-or-garlic-but-not-both-1850156719)<!-- TECH-POSTS:END -->
 
 ---
 
