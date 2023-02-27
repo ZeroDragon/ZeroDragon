@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the New Android Features Google Announced Today](https://lifehacker.com/all-the-new-android-features-google-announced-today-1850164030)
+- [Lifehacker] [Get a Free Short Stack at IHOP for National Pancake Day](https://lifehacker.com/get-a-free-short-stack-at-ihop-for-national-pancake-day-1850164139)
+- [Dev.to/JS] [The Evolution of Signals in JavaScript](https://dev.to/this-is-learning/the-evolution-of-signals-in-javascript-8ob)
 - [Lifehacker] [Go Ahead, Burn Dinner &lpar;a Little&rpar;](https://lifehacker.com/go-ahead-burn-dinner-a-little-1850163092)
 - [Lifehacker] [This YouTube Video Could Crash Your Pixel](https://lifehacker.com/this-youtube-video-could-crash-your-pixel-1850163530)
 - [Dev.to/JS] [Complete Guide to useState Hook in React](https://dev.to/sebduta/complete-guide-to-usestate-hook-in-react-5d78)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Only Aldi Quarter Hack You&#39;ll Ever Need](https://lifehacker.com/the-only-aldi-quarter-hack-youll-ever-need-1850162914)
 - [Dev.to/JS] [Cómo comprobar si el usuario está en línea con JavaScript](https://dev.to/asjordi/como-comprobar-si-el-usuario-esta-en-linea-con-javascript-5878)
 - [Lifehacker] [How to Start Sexting With Someone](https://lifehacker.com/how-to-start-sexting-with-someone-1850158017)
-- [Dev.to/JS] [What is Chakra ui?](https://dev.to/aribamemon/what-is-chakra-ui-5dj)
 - [Lifehacker] [Maybe You Should Try a Relationship With an Expiration Date](https://lifehacker.com/maybe-you-should-try-a-relationship-with-an-expiration-1850158038)
 - [Lifehacker] [Get EU Citizenship Through Portugal&#39;s Golden Visa Program Before It&#39;s Gone](https://lifehacker.com/get-eu-citizenship-through-portugals-golden-visa-progra-1850157528)
 - [Lifehacker] [That Viral &#39;PYREX&#39; Brand Hack Is Completely Wrong, Folks](https://lifehacker.com/that-viral-pyrex-brand-hack-is-horseshit-folks-1850157381)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The One Thing You Should Do With Poaching Liquid Before Adding Your Protein](https://lifehacker.com/the-one-thing-you-should-do-with-poaching-liquid-before-1850156303)
 - [Lifehacker] [The Trick to Fixing a Broken Buttercream Frosting](https://lifehacker.com/the-trick-to-fixing-a-broken-buttercream-frosting-1850155047)
 - [Lifehacker] [How Rising Interest Rates Will Affect Your Finances the Rest of the Year](https://lifehacker.com/how-rising-interest-rates-will-affect-your-finances-the-1850155359)
-- [Lifehacker] [You Can Get a Lifetime Subscription to Scrivener for $30 Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-scrivener-for-3-1850155969)
-- [Lifehacker] [You Can Get Peacock Premium for 50% Off Right Now](https://lifehacker.com/you-can-get-peacock-premium-for-50-off-right-now-1850155513)
-- [Lifehacker] [The Easiest Ways to Make Your Fake Plants Look Real](https://lifehacker.com/the-easiest-ways-to-make-your-fake-plants-look-real-1850155426)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a Lifetime Subscription to Scrivener for $30 Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-scrivener-for-3-1850155969)<!-- TECH-POSTS:END -->
 
 ---
 
