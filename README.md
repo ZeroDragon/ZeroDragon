@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Explaining &quot;this&quot; Keyword In JavaScript Like You&#39;re Five](https://dev.to/vayo/explaining-this-keyword-in-javascript-like-youre-five-191)
+- [Dev.to/JS] [10 Best React Libraries for Building Amazing User Interfaces](https://dev.to/0xdarknight_/10-best-react-libraries-for-building-amazing-user-interfaces-2mll)
+- [Lifehacker] [What&#39;s New on HBO Max in March 2023](https://lifehacker.com/whats-new-on-hbo-max-in-march-2023-1850163361)
+- [Dev.to/JS] [Supabase edge functions - a quick start](https://dev.to/po8rewq/supabase-edge-functions-a-quick-start-a3p)
+- [Lifehacker] [Create Your Own Personal Streaming Service With Jellyfin](https://lifehacker.com/create-your-own-personal-streaming-service-with-jellyfi-1850162103)
 - [Dev.to/JS] [#ThisMonthInSWA - January 2023](https://dev.to/azure/thismonthinswa-january-2023-45cc)
 - [Dev.to/JS] [Thoughts as a web dev newbie after a month and a half](https://dev.to/platinumfish/thoughts-as-a-web-dev-newbie-after-a-month-and-a-half-2kek)
 - [Dev.to/JS] [How To Cross-Post The Same Article On Different Blogging Platforms To Reach More Readers.](https://dev.to/the_greatbonnie/how-to-cross-post-the-same-article-on-different-blogging-platforms-to-reach-more-readers-2306)
@@ -36,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TIL How Casing Can Break Netlify Functions](https://dev.to/spiderpig86/til-how-casing-can-break-netlify-functions-4c4f)
 - [Lifehacker] [Get EU Citizenship Through Portugal&#39;s Golden Visa Program Before It&#39;s Gone](https://lifehacker.com/get-eu-citizenship-through-portugals-golden-visa-progra-1850157528)
 - [Dev.to/JS] [Caro game - Developing game modes for Humans and Computers with JavaScript](https://dev.to/nguyenvantuan2391996/caro-game-developing-game-modes-for-humans-and-computers-with-javascript-2c3c)
-- [Dev.to/JS] [Why Qovery Preview Environments Are So Valuable to Development Teams](https://dev.to/livecycle/why-qovery-preview-environments-are-so-valuable-to-development-teams-3ggk)
 - [Lifehacker] [That Viral &#39;PYREX&#39; Brand Hack Is Completely Wrong, Folks](https://lifehacker.com/that-viral-pyrex-brand-hack-is-horseshit-folks-1850157381)
-- [Dev.to/JS] [Criando todas as rotas de Category no CrazyStack Node.js](https://dev.to/devdoido/criando-todas-as-rotas-de-category-no-crazystack-nodejs-c91)
-- [Dev.to/JS] [Owner e RatingResult Controllers no CrazyStack Node.js](https://dev.to/devdoido/owner-e-ratingresult-controllers-no-crazystack-nodejs-49kn)
 - [Lifehacker] [What If You Tried Saying ‘Yes’ to Your Kids More Often?](https://lifehacker.com/what-if-you-tried-saying-yes-to-your-kids-more-often-1850157063)
 - [Lifehacker] [How to Clean Unsealed Concrete Floors in Your Basement or Garage](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
 - [Lifehacker] [The Best American Cities for Remote Workers Right Now](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Make Your Fake Plants Look Real](https://lifehacker.com/the-easiest-ways-to-make-your-fake-plants-look-real-1850155426)
 - [Lifehacker] [Pirating Final Cut Pro Is More Dangerous Than You Think](https://lifehacker.com/pirating-final-cut-pro-is-more-dangerous-than-you-think-1850154779)
 - [Crazy Programmer] [Why Outsource Website Development?](https://www.thecrazyprogrammer.com/2023/02/why-outsource-website-development.html)
-- [Lifehacker] [Yes, Any Drink Can Be Cake Icing](https://lifehacker.com/yes-any-drink-can-be-cake-icing-1850155174)
-- [Lifehacker] [Make Your Own Red Lobster Cheddar Bay Biscuit Loaf](https://lifehacker.com/make-your-own-red-lobster-cheddar-bay-biscuit-loaf-1850152900)
-- [Lifehacker] [These Airlines Don&#39;t Charge Extra for Families to Sit Together](https://lifehacker.com/these-airlines-dont-charge-extra-for-families-to-sit-to-1850152473)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Yes, Any Drink Can Be Cake Icing](https://lifehacker.com/yes-any-drink-can-be-cake-icing-1850155174)<!-- TECH-POSTS:END -->
 
 ---
 
