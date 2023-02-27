@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Episode 23/08: Angular 15.2, Content on Signals](https://dev.to/ng_news/episode-2308-angular-152-content-on-signals-325m)
+- [Lifehacker] [The 7 Deadly Sins of Learning a New Hobby](https://lifehacker.com/the-7-deadly-sins-of-learning-a-new-hobby-1850163682)
 - [Lifehacker] [All the New Android Features Google Announced Today](https://lifehacker.com/all-the-new-android-features-google-announced-today-1850164030)
 - [Lifehacker] [Get a Free Short Stack at IHOP for National Pancake Day](https://lifehacker.com/get-a-free-short-stack-at-ihop-for-national-pancake-day-1850164139)
 - [Dev.to/JS] [The Evolution of Signals in JavaScript](https://dev.to/this-is-learning/the-evolution-of-signals-in-javascript-8ob)
@@ -42,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Cross-Post The Same Article On Different Blogging Platforms To Reach More Readers.](https://dev.to/the_greatbonnie/how-to-cross-post-the-same-article-on-different-blogging-platforms-to-reach-more-readers-2306)
 - [Dev.to/JS] [IndexedDB on steroids using Dexie.js](https://dev.to/bgopikrishna/indexeddb-on-steroids-using-dexiejs-1ej4)
 - [Lifehacker] [The Only Aldi Quarter Hack You&#39;ll Ever Need](https://lifehacker.com/the-only-aldi-quarter-hack-youll-ever-need-1850162914)
-- [Dev.to/JS] [Cómo comprobar si el usuario está en línea con JavaScript](https://dev.to/asjordi/como-comprobar-si-el-usuario-esta-en-linea-con-javascript-5878)
 - [Lifehacker] [How to Start Sexting With Someone](https://lifehacker.com/how-to-start-sexting-with-someone-1850158017)
 - [Lifehacker] [Maybe You Should Try a Relationship With an Expiration Date](https://lifehacker.com/maybe-you-should-try-a-relationship-with-an-expiration-1850158038)
 - [Lifehacker] [Get EU Citizenship Through Portugal&#39;s Golden Visa Program Before It&#39;s Gone](https://lifehacker.com/get-eu-citizenship-through-portugals-golden-visa-progra-1850157528)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Ways to Transform Your Backyard Shed Into Something More Useful](https://lifehacker.com/12-ways-to-transform-your-backyard-shed-into-something-1850155913)
 - [Lifehacker] [The One Thing You Should Do With Poaching Liquid Before Adding Your Protein](https://lifehacker.com/the-one-thing-you-should-do-with-poaching-liquid-before-1850156303)
 - [Lifehacker] [The Trick to Fixing a Broken Buttercream Frosting](https://lifehacker.com/the-trick-to-fixing-a-broken-buttercream-frosting-1850155047)
-- [Lifehacker] [How Rising Interest Rates Will Affect Your Finances the Rest of the Year](https://lifehacker.com/how-rising-interest-rates-will-affect-your-finances-the-1850155359)
-- [Lifehacker] [You Can Get a Lifetime Subscription to Scrivener for $30 Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-scrivener-for-3-1850155969)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Rising Interest Rates Will Affect Your Finances the Rest of the Year](https://lifehacker.com/how-rising-interest-rates-will-affect-your-finances-the-1850155359)<!-- TECH-POSTS:END -->
 
 ---
 
