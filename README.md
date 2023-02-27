@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Upload file to Google cloud storage without middleman server](https://dev.to/kamalhossain/upload-file-to-google-cloud-storage-without-middleman-server-4a6c)
+- [Dev.to/JS] [JavaScript Code Challenges: Array Manipulation](https://dev.to/sidramaqbool/javascript-code-challenges-array-manipulation-2nf4)
+- [Dev.to/JS] [Best Practices for Debugging JavaScript Code: A Guide for Developers](https://dev.to/eckdev/best-practices-for-debugging-javascript-code-a-guide-for-developers-1lha)
+- [Dev.to/JS] [Are you looking for a svelte plugin for file upload?](https://dev.to/girish1729/are-you-looking-for-a-svelte-plugin-for-file-upload-1khf)
+- [Dev.to/JS] [Static vs Dynamic Data Typed Languages](https://dev.to/cyborglaksh/static-vs-dynamic-data-typed-languages-2mn7)
 - [Dev.to/JS] [Website Designing Company in Noida](https://dev.to/sonadhan/website-designing-company-in-noida-392f)
 - [Dev.to/JS] [RS engine](https://dev.to/rakibsardar/rs-engine-3cp7)
 - [Dev.to/JS] [10 Reasons Why Next.js is the Superior Choice over create-react-app for Your Next Project](https://dev.to/sarveshh/10-reasons-why-nextjs-is-the-superior-choice-over-create-react-app-for-your-next-project-1c5i)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Array Manipulation with Map, Filter, and Reduce in JavaScript](https://dev.to/amnahk/mastering-array-manipulation-with-map-filter-and-reduce-in-javascript-37p5)
 - [Dev.to/JS] [Recoil is the Samurai Sword of React State Management](https://dev.to/codeofrelevancy/recoil-is-the-samurai-sword-of-react-state-management-5h3c)
 - [Dev.to/JS] [The Basics you need to know to start with TypeScript](https://dev.to/thedeepakyadav/the-basics-you-need-to-know-to-start-with-typescript-1pem)
-- [Dev.to/JS] [Expo SDK Update 48 - Elevating the Best to Even Better.](https://dev.to/adii9/expo-sdk-update-48-elevating-the-best-to-even-better-nph)
-- [Dev.to/JS] [React, Web Components, and Me &lpar;Week 7&rpar;](https://dev.to/pandaalifter/react-web-components-and-me-week-7-560a)
-- [Dev.to/JS] [You Are Using the “useState” Hook Wrong](https://dev.to/ecorreia/you-are-using-the-usestate-hook-wrong-41al)
-- [Dev.to/JS] [What is Mocha &amp; Chai?](https://dev.to/itsbrotherdan/what-is-mocha-chai-2kpn)
-- [Dev.to/JS] [Ultimate Caching Guide 2: Javascript/React](https://dev.to/csjcode/ultimate-caching-guide-2-javascriptreact-2lie)
 - [Lifehacker] [How to Clean Unsealed Concrete Floors in Your Basement or Garage](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
 - [Lifehacker] [The Best American Cities for Remote Workers Right Now](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
