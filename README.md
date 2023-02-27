@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Recoil is the Samurai Sword of React State Management](https://dev.to/codeofrelevancy/recoil-is-the-samurai-sword-of-react-state-management-5h3c)
+- [Dev.to/JS] [The Basics you need to know to start with TypeScript](https://dev.to/thedeepakyadav/the-basics-you-need-to-know-to-start-with-typescript-1pem)
 - [Dev.to/JS] [Expo SDK Update 48 - Elevating the Best to Even Better.](https://dev.to/adii9/expo-sdk-update-48-elevating-the-best-to-even-better-nph)
 - [Dev.to/JS] [React, Web Components, and Me &lpar;Week 7&rpar;](https://dev.to/pandaalifter/react-web-components-and-me-week-7-560a)
 - [Dev.to/JS] [You Are Using the “useState” Hook Wrong](https://dev.to/ecorreia/you-are-using-the-usestate-hook-wrong-41al)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding the this keyword in JavaScript](https://dev.to/brandonbawe/understanding-the-this-keyword-in-javascript-2kmh)
 - [Dev.to/JS] [How to create truly const object in JavaScript?](https://dev.to/yoha_js/how-to-create-truly-const-object-in-javascript-5al7)
 - [Dev.to/JS] [How to create an Internet status viewer using JavaScript?](https://dev.to/flurabula/how-to-create-an-internet-status-viewer-using-javascript-2b6b)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Página por página](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-pagina-por-pagina-2m0d)
-- [Dev.to/JS] [💰 Currency Formatting in JavaScript](https://dev.to/dhrn/currency-formatting-in-javascript-10h1)
 - [Lifehacker] [How to Clean Unsealed Concrete Floors in Your Basement or Garage](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
 - [Lifehacker] [The Best American Cities for Remote Workers Right Now](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
