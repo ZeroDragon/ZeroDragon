@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Cheapest iPad Just Got Cheaper](https://lifehacker.com/the-cheapest-ipad-just-got-cheaper-1850164778)
+- [Dev.to/JS] [Easily Add User Authentication to Your Application With Google Cloud &lpar;While Preserving Time and Nerves&rpar;](https://dev.to/kaykleinvogel/easily-add-user-authentication-to-your-application-with-google-cloud-while-preserving-time-and-nerves-255b)
+- [Lifehacker] [What&#39;s New on Disney+ in March 2023](https://lifehacker.com/whats-new-on-disney-in-march-2023-1850164481)
+- [Dev.to/JS] [The Coolest JavaScript Features from the Last 5 Years](https://dev.to/ppiippaa/some-cool-javascript-features-from-the-last-5-years-4alp)
+- [Dev.to/JS] [Creating a GuestBook in Next.js](https://dev.to/vulcanwm/creating-a-guestbook-in-nextjs-462)
+- [Dev.to/JS] [JavaScript Tutorial Series: practice 2](https://dev.to/fullstackjo/javascript-tutorial-series-practice-2-40gj)
+- [Lifehacker] [How to Avoid Going Broke When a Loved One Dies](https://lifehacker.com/how-to-avoid-going-broke-when-a-loved-one-dies-1850164088)
 - [Dev.to/JS] [Episode 23/08: Angular 15.2, Content on Signals](https://dev.to/ng_news/episode-2308-angular-152-content-on-signals-325m)
 - [Lifehacker] [The 7 Deadly Sins of Learning a New Hobby](https://lifehacker.com/the-7-deadly-sins-of-learning-a-new-hobby-1850163682)
 - [Lifehacker] [All the New Android Features Google Announced Today](https://lifehacker.com/all-the-new-android-features-google-announced-today-1850164030)
@@ -39,10 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on HBO Max in March 2023](https://lifehacker.com/whats-new-on-hbo-max-in-march-2023-1850163361)
 - [Dev.to/JS] [Supabase edge functions - a quick start](https://dev.to/po8rewq/supabase-edge-functions-a-quick-start-a3p)
 - [Lifehacker] [Create Your Own Personal Streaming Service With Jellyfin](https://lifehacker.com/create-your-own-personal-streaming-service-with-jellyfi-1850162103)
-- [Dev.to/JS] [#ThisMonthInSWA - January 2023](https://dev.to/azure/thismonthinswa-january-2023-45cc)
-- [Dev.to/JS] [Thoughts as a web dev newbie after a month and a half](https://dev.to/platinumfish/thoughts-as-a-web-dev-newbie-after-a-month-and-a-half-2kek)
-- [Dev.to/JS] [How To Cross-Post The Same Article On Different Blogging Platforms To Reach More Readers.](https://dev.to/the_greatbonnie/how-to-cross-post-the-same-article-on-different-blogging-platforms-to-reach-more-readers-2306)
-- [Dev.to/JS] [IndexedDB on steroids using Dexie.js](https://dev.to/bgopikrishna/indexeddb-on-steroids-using-dexiejs-1ej4)
 - [Lifehacker] [The Only Aldi Quarter Hack You&#39;ll Ever Need](https://lifehacker.com/the-only-aldi-quarter-hack-youll-ever-need-1850162914)
 - [Lifehacker] [How to Start Sexting With Someone](https://lifehacker.com/how-to-start-sexting-with-someone-1850158017)
 - [Lifehacker] [Maybe You Should Try a Relationship With an Expiration Date](https://lifehacker.com/maybe-you-should-try-a-relationship-with-an-expiration-1850158038)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Get Google’s Magic Eraser on Your iPhone or Android](https://lifehacker.com/you-can-finally-get-google-s-magic-eraser-on-your-iphon-1850157142)
 - [Lifehacker] [Your Marinara Needs Onions or Garlic, but Not Both](https://lifehacker.com/your-marinara-needs-onions-or-garlic-but-not-both-1850156719)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is Competitive Hobbyhorsing?](https://lifehacker.com/what-is-competitive-hobbyhorsing-1850156770)
-- [Lifehacker] [12 Ways to Transform Your Backyard Shed Into Something More Useful](https://lifehacker.com/12-ways-to-transform-your-backyard-shed-into-something-1850155913)
-- [Lifehacker] [The One Thing You Should Do With Poaching Liquid Before Adding Your Protein](https://lifehacker.com/the-one-thing-you-should-do-with-poaching-liquid-before-1850156303)
-- [Lifehacker] [The Trick to Fixing a Broken Buttercream Frosting](https://lifehacker.com/the-trick-to-fixing-a-broken-buttercream-frosting-1850155047)
-- [Lifehacker] [How Rising Interest Rates Will Affect Your Finances the Rest of the Year](https://lifehacker.com/how-rising-interest-rates-will-affect-your-finances-the-1850155359)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Ways to Transform Your Backyard Shed Into Something More Useful](https://lifehacker.com/12-ways-to-transform-your-backyard-shed-into-something-1850155913)<!-- TECH-POSTS:END -->
 
 ---
 
