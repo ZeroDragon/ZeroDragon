@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Paracetamol.ts💊| #20: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-20-explica-este-codigo-typescript-3bpk)
-- [Dev.to/JS] [Criando Middleware de autenticação no CrazyStack Node.js](https://dev.to/devdoido/criando-middleware-de-autenticacao-no-crazystack-nodejs-22c7)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, Feb 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-4-feb-2023-1fog)
-- [Dev.to/JS] [Criando LogController e LogRepository para geração de logs de erro CrazyStack Node.js](https://dev.to/devdoido/criando-logcontroller-e-logrepository-para-geracao-de-logs-de-erro-crazystack-nodejs-4d23)
-- [Dev.to/JS] [Criando interfaces e classes abstratas na camada main da aplicação no CrazyStack Node.js](https://dev.to/devdoido/criando-interfaces-e-classes-abstratas-na-camada-main-da-aplicacao-no-crazystack-nodejs-1apf)
-- [Dev.to/JS] [Explorando novos Plugins e Hooks no Fastify do CrazyStack Node.js](https://dev.to/devdoido/explorando-novos-plugins-e-hooks-no-fastify-do-crazystack-nodejs-2elf)
-- [Dev.to/JS] [Introduzindo Fastify no projeto do CrazyStack Node.js](https://dev.to/devdoido/introduzindo-fastify-no-projeto-do-crazystack-nodejs-3521)
-- [Dev.to/JS] [Criando Adapter para lidar com tokens JWT no CrazyStack Node.js](https://dev.to/devdoido/criando-adapter-para-lidar-com-tokens-jwt-no-crazystack-nodejs-51bh)
-- [Dev.to/JS] [Build an e-commerce product catalog with Nuxt.js and GraphQL](https://dev.to/hackmamba/build-an-e-commerce-product-catalog-with-nuxtjs-and-graphql-4e7m)
-- [Dev.to/JS] [Criptografia com Bcrypt no CrazyStack Node.js](https://dev.to/devdoido/criptografia-com-bcrypt-no-crazystack-nodejs-59g6)
-- [Dev.to/JS] [Listagem da média de avaliações no RatingResultRepository do CrazyStack Node.js](https://dev.to/devdoido/listagem-da-media-de-avaliacoes-no-ratingresultrepository-do-crazystack-nodejs-436g)
-- [Dev.to/JS] [Listagem de horários disponíveis do AppointmentRepository no CrazyStack Node.js](https://dev.to/devdoido/listagem-de-horarios-disponiveis-do-appointmentrepository-no-crazystack-nodejs-27pf)
+- [Dev.to/JS] [Why Qovery Preview Environments Are So Valuable to Development Teams](https://dev.to/livecycle/why-qovery-preview-environments-are-so-valuable-to-development-teams-3ggk)
+- [Lifehacker] [That Viral &#39;PYREX&#39; Brand Hack Is Completely Wrong, Folks](https://lifehacker.com/that-viral-pyrex-brand-hack-is-horseshit-folks-1850157381)
+- [Dev.to/JS] [Criando todas as rotas de Category no CrazyStack Node.js](https://dev.to/devdoido/criando-todas-as-rotas-de-category-no-crazystack-nodejs-c91)
+- [Dev.to/JS] [Owner e RatingResult Controllers no CrazyStack Node.js](https://dev.to/devdoido/owner-e-ratingresult-controllers-no-crazystack-nodejs-49kn)
+- [Dev.to/JS] [Controllers de User no CrazyStack Node.js](https://dev.to/devdoido/controllers-de-user-no-crazystack-nodejs-kpm)
+- [Dev.to/JS] [Controllers de Request no CrazyStack Node.js](https://dev.to/devdoido/controllers-de-request-no-crazystack-nodejs-2ja5)
+- [Dev.to/JS] [Gerador de Controllers Dinâmico no CrazyStack Node.js](https://dev.to/devdoido/gerador-de-controllers-dinamico-no-crazystack-nodejs-49if)
+- [Dev.to/JS] [Update e Delete Category Controller no CrazyStack Node.js](https://dev.to/devdoido/update-e-delete-category-controller-no-crazystack-nodejs-2ed9)
+- [Dev.to/JS] [LoadCategory e ByPage Controllers no CrazyStack Node.js](https://dev.to/devdoido/loadcategory-e-bypage-controllers-no-crazystack-nodejs-p1k)
+- [Dev.to/JS] [Criando o AddCategoryController no CrazyStack Node.js](https://dev.to/devdoido/criando-o-addcategorycontroller-no-crazystack-nodejs-4moa)
+- [Dev.to/JS] [Endpoint que retorna User dono do Refresh Token no CrazyStack Node.js](https://dev.to/devdoido/endpoint-que-retorna-user-dono-do-refresh-token-no-crazystack-nodejs-484f)
+- [Dev.to/JS] [Load Account Router + Test no CrazyStack Node.js](https://dev.to/devdoido/load-account-router-test-no-crazystack-nodejs-38cl)
+- [Dev.to/JS] [Validando Refresh Token com o LoadAccountController no CrazyStack Node.js](https://dev.to/devdoido/validando-refresh-token-com-o-loadaccountcontroller-no-crazystack-nodejs-fb)
+- [Lifehacker] [What If You Tried Saying ‘Yes’ to Your Kids More Often?](https://lifehacker.com/what-if-you-tried-saying-yes-to-your-kids-more-often-1850157063)
 - [Lifehacker] [How to Clean Unsealed Concrete Floors in Your Basement or Garage](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
 - [Lifehacker] [The Best American Cities for Remote Workers Right Now](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Blue Algae Latte, Golden Milk, and 11 More Coffee Alternatives You Will Love or Hate](https://lifehacker.com/blue-algae-latte-golden-milk-and-11-more-coffee-alter-1850153484)
 - [Lifehacker] [15 of the Best Reboots of Shows You Loved As a Kid](https://lifehacker.com/15-of-the-best-reboots-of-shows-you-loved-as-a-kid-1850145098)
 - [Lifehacker] [You Should Make Dessert Pasta Immediately](https://lifehacker.com/you-should-make-dessert-pasta-immediately-1850151506)
-- [Lifehacker] [What&#39;s New on Paramount+ in March 2023](https://lifehacker.com/whats-new-on-paramount-in-march-2023-1850151677)
-- [Lifehacker] [11 Ways to Make a Better Tuna Sandwich](https://lifehacker.com/11-ways-to-make-a-better-tuna-sandwich-1850150470)
-- [Lifehacker] [7 Objects Floating in US Airspace Right Now](https://lifehacker.com/7-objects-floating-in-us-airspace-right-now-1850151473)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Paramount+ in March 2023](https://lifehacker.com/whats-new-on-paramount-in-march-2023-1850151677)<!-- TECH-POSTS:END -->
 
 ---
 
