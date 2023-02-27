@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adding Sound to JS](https://dev.to/colinwilliams91/adding-sound-to-js-b3i)
+- [Dev.to/JS] [React Performance Optimization: Tips and Techniques for Faster Apps](https://dev.to/agboolaidris/react-performance-optimization-tips-and-techniques-for-faster-apps-44pl)
+- [Dev.to/JS] [Day 2: Leetcode | 72. Edit Distance](https://dev.to/izzyo/day-2-leetcode-72-edit-distance-4n1k)
 - [Dev.to/JS] [Learn how to use React Portals and improve your React development skills](https://dev.to/abhishekrawe/learn-how-to-use-react-portals-and-improve-your-react-development-skills-igc)
 - [Dev.to/JS] [Custom Hooks - useTime&lpar;&rpar;](https://dev.to/mertcannkocerr/custom-hooks-usetime-db0)
 - [Dev.to/JS] [I built a Hacker News Client. Check It Out 🥺](https://dev.to/daviduzondu/i-built-a-hacker-news-client-check-it-out-1jh4)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dithering Images with React/JavaScript](https://dev.to/bytebodger/dithering-images-with-reactjavascript-och)
 - [Dev.to/JS] [Systeme.io Reviews : The All-in-One Marketing Tool](https://dev.to/outofboxrevieww/systemeio-reviews-the-all-in-one-marketing-tool-3i12)
 - [Dev.to/JS] [AI taking over!!!!](https://dev.to/mannega/ai-taking-over-33k2)
-- [Dev.to/JS] [Let&#39;s build the ultimate clinical calculator Android App with NativeScript](https://dev.to/oreoyona/lets-build-the-ultimate-clinical-calculator-android-app-with-nativescript-44g8)
-- [Dev.to/JS] [Just learning...](https://dev.to/mannega/just-learning-3el8)
-- [Dev.to/JS] [Creating Custom RxJS Operators](https://dev.to/henriquecustodia/creating-custom-rxjs-operators-2o0)
 - [Lifehacker] [How to Clean Unsealed Concrete Floors in Your Basement or Garage](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
 - [Lifehacker] [The Best American Cities for Remote Workers Right Now](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
