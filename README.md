@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#ThisMonthInSWA - January 2023](https://dev.to/azure/thismonthinswa-january-2023-45cc)
+- [Dev.to/JS] [Thoughts as a web dev newbie after a month and a half](https://dev.to/platinumfish/thoughts-as-a-web-dev-newbie-after-a-month-and-a-half-2kek)
+- [Dev.to/JS] [How To Cross-Post The Same Article On Different Blogging Platforms To Reach More Readers.](https://dev.to/the_greatbonnie/how-to-cross-post-the-same-article-on-different-blogging-platforms-to-reach-more-readers-2306)
+- [Dev.to/JS] [Top 20 backlink sources 2023: Your List of Bookmarkable Links to Build](https://dev.to/outofboxrevieww/top-20-backlink-sources-2023-your-list-of-bookmarkable-links-to-build-462h)
+- [Dev.to/JS] [IndexedDB on steroids using Dexie.js](https://dev.to/bgopikrishna/indexeddb-on-steroids-using-dexiejs-1ej4)
+- [Lifehacker] [The Only Aldi Quarter Hack You&#39;ll Ever Need](https://lifehacker.com/the-only-aldi-quarter-hack-youll-ever-need-1850162914)
 - [Dev.to/JS] [Cómo comprobar si el usuario está en línea con JavaScript](https://dev.to/asjordi/como-comprobar-si-el-usuario-esta-en-linea-con-javascript-5878)
+- [Lifehacker] [How to Start Sexting With Someone](https://lifehacker.com/how-to-start-sexting-with-someone-1850158017)
 - [Dev.to/JS] [What is Chakra ui?](https://dev.to/aribamemon/what-is-chakra-ui-5dj)
 - [Lifehacker] [Maybe You Should Try a Relationship With an Expiration Date](https://lifehacker.com/maybe-you-should-try-a-relationship-with-an-expiration-1850158038)
 - [Dev.to/JS] [TIL How Casing Can Break Netlify Functions](https://dev.to/spiderpig86/til-how-casing-can-break-netlify-functions-4c4f)
@@ -33,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [That Viral &#39;PYREX&#39; Brand Hack Is Completely Wrong, Folks](https://lifehacker.com/that-viral-pyrex-brand-hack-is-horseshit-folks-1850157381)
 - [Dev.to/JS] [Criando todas as rotas de Category no CrazyStack Node.js](https://dev.to/devdoido/criando-todas-as-rotas-de-category-no-crazystack-nodejs-c91)
 - [Dev.to/JS] [Owner e RatingResult Controllers no CrazyStack Node.js](https://dev.to/devdoido/owner-e-ratingresult-controllers-no-crazystack-nodejs-49kn)
-- [Dev.to/JS] [Controllers de User no CrazyStack Node.js](https://dev.to/devdoido/controllers-de-user-no-crazystack-nodejs-kpm)
-- [Dev.to/JS] [Controllers de Request no CrazyStack Node.js](https://dev.to/devdoido/controllers-de-request-no-crazystack-nodejs-2ja5)
-- [Dev.to/JS] [Gerador de Controllers Dinâmico no CrazyStack Node.js](https://dev.to/devdoido/gerador-de-controllers-dinamico-no-crazystack-nodejs-49if)
-- [Dev.to/JS] [Update e Delete Category Controller no CrazyStack Node.js](https://dev.to/devdoido/update-e-delete-category-controller-no-crazystack-nodejs-2ed9)
-- [Dev.to/JS] [LoadCategory e ByPage Controllers no CrazyStack Node.js](https://dev.to/devdoido/loadcategory-e-bypage-controllers-no-crazystack-nodejs-p1k)
 - [Lifehacker] [What If You Tried Saying ‘Yes’ to Your Kids More Often?](https://lifehacker.com/what-if-you-tried-saying-yes-to-your-kids-more-often-1850157063)
 - [Lifehacker] [How to Clean Unsealed Concrete Floors in Your Basement or Garage](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
 - [Lifehacker] [The Best American Cities for Remote Workers Right Now](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Why Outsource Website Development?](https://www.thecrazyprogrammer.com/2023/02/why-outsource-website-development.html)
 - [Lifehacker] [Yes, Any Drink Can Be Cake Icing](https://lifehacker.com/yes-any-drink-can-be-cake-icing-1850155174)
 - [Lifehacker] [Make Your Own Red Lobster Cheddar Bay Biscuit Loaf](https://lifehacker.com/make-your-own-red-lobster-cheddar-bay-biscuit-loaf-1850152900)
-- [Lifehacker] [These Airlines Don&#39;t Charge Extra for Families to Sit Together](https://lifehacker.com/these-airlines-dont-charge-extra-for-families-to-sit-to-1850152473)
-- [Lifehacker] [Blue Algae Latte, Golden Milk, and 11 More Coffee Alternatives You Will Love or Hate](https://lifehacker.com/blue-algae-latte-golden-milk-and-11-more-coffee-alter-1850153484)
-- [Lifehacker] [15 of the Best Reboots of Shows You Loved As a Kid](https://lifehacker.com/15-of-the-best-reboots-of-shows-you-loved-as-a-kid-1850145098)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Airlines Don&#39;t Charge Extra for Families to Sit Together](https://lifehacker.com/these-airlines-dont-charge-extra-for-families-to-sit-to-1850152473)<!-- TECH-POSTS:END -->
 
 ---
 
