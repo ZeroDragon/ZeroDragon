@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Webpack 5 Module Federation : Exchange code between applications](https://dev.to/isnan__h/webpack-5-module-federation-exchange-code-between-applications-3l07)
+- [Dev.to/JS] [First Experience With Next.js](https://dev.to/this-is-learning/first-experience-with-nextjs-2a58)
+- [Dev.to/JS] [Criando um clone do Jogo Wordle com JavaScript e praticando TDD](https://dev.to/laisfrigerio/criando-um-clone-do-jogo-wordle-com-javascript-e-praticando-tdd-2o57)
 - [Dev.to/JS] [Implement a Dynamically Displayed Header With Window &amp; Element Scroll Positions](https://dev.to/jessewei/implement-a-dynamically-displayed-header-with-window-element-scroll-positions-4cm1)
 - [Dev.to/JS] [How to Handle Outside Clicks in React with TypeScript](https://dev.to/rashed_iqbal/how-to-handle-outside-clicks-in-react-with-typescript-4lmc)
 - [Dev.to/JS] [Best Full Stack Developer Course in Pune](https://dev.to/technobrilliant/best-full-stack-developer-course-in-pune-4hag)
 - [Dev.to/JS] [7 React UI Component Libraries for Building Beautiful Interfaces](https://dev.to/surajondev/7-react-ui-component-libraries-for-buliding-beautiful-interfaces-4o5)
 - [Dev.to/JS] [Arrays in JavaScript: A Cheat sheet for a developer](https://dev.to/manishkc104/arrays-in-javascript-a-cheat-sheet-for-a-developer-3644)
+- [Dev.to/JS] [5 Best Practices in Handling HTTP Errors in JavaScript](https://dev.to/syncfusion/5-best-practices-in-handling-http-errors-in-javascript-4k1e)
 - [Dev.to/JS] [ANEKASLOT | SITUS JUDI SLOT GACOR ONLINE HARI INI GAMPANG MENANG](https://dev.to/loginanekaslot/anekaslot-situs-judi-slot-gacor-online-hari-ini-gampang-menang-2613)
 - [Dev.to/JS] [Advise of better and correct approach in creating object and using in Type script and angular?](https://dev.to/acharyaks90/advise-of-better-and-correct-approach-in-creating-object-and-using-in-type-script-and-angular-58b5)
 - [Dev.to/JS] [You must know JavaScript array methods](https://dev.to/himanshudevgupta/you-must-know-javascript-array-methods-1e2b)
-- [Dev.to/JS] [Navigating Mutability and Reference Issues in JavaScript](https://dev.to/colocodes/navigating-mutability-and-reference-issues-in-javascript-1lip)
-- [Dev.to/JS] [Building Scalable Web Applications with React and Firebase](https://dev.to/haszankauna/building-scalable-web-applications-with-react-and-firebase-2di4)
-- [Dev.to/JS] [Nuxt, Medusa, TailwindCSS Crash Course](https://dev.to/jacobandrewsky/nuxt-medusa-tailwindcss-crash-course-46jf)
-- [Dev.to/JS] [Upload file to Google cloud storage without middleman server](https://dev.to/kamalhossain/upload-file-to-google-cloud-storage-without-middleman-server-4a6c)
 - [Lifehacker] [How to Clean Unsealed Concrete Floors in Your Basement or Garage](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
 - [Lifehacker] [The Best American Cities for Remote Workers Right Now](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
