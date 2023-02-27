@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create truly const object in JavaScript?](https://dev.to/yoha_js/how-to-create-truly-const-object-in-javascript-5al7)
+- [Dev.to/JS] [How to create an Internet status viewer using JavaScript?](https://dev.to/flurabula/how-to-create-an-internet-status-viewer-using-javascript-2b6b)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Página por página](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-pagina-por-pagina-2m0d)
+- [Dev.to/JS] [💰 Currency Formatting in JavaScript](https://dev.to/dhrn/currency-formatting-in-javascript-10h1)
 - [Dev.to/JS] [Adding Sound to JS](https://dev.to/colinwilliams91/adding-sound-to-js-b3i)
 - [Dev.to/JS] [React Performance Optimization: Tips and Techniques for Faster Apps](https://dev.to/agboolaidris/react-performance-optimization-tips-and-techniques-for-faster-apps-44pl)
 - [Dev.to/JS] [Day 2: Leetcode | 72. Edit Distance](https://dev.to/izzyo/day-2-leetcode-72-edit-distance-4n1k)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I built a Hacker News Client. Check It Out 🥺](https://dev.to/daviduzondu/i-built-a-hacker-news-client-check-it-out-1jh4)
 - [Dev.to/JS] [How healthy would a programming language be if it was a food?](https://dev.to/spiropoulos94/how-healthy-would-a-programming-language-be-if-it-was-a-food-2df9)
 - [Dev.to/JS] [JavaScript Tutorial Series: Arrow functions](https://dev.to/fullstackjo/javascript-tutorial-series-arrow-functions-a31)
-- [Dev.to/JS] [Remove Duplicate Elements From An Array In JavaScript / TypeScript](https://dev.to/damiensedgwick/remove-duplicate-elements-from-an-array-in-javascript-or-typescript-o9m)
-- [Dev.to/JS] [Dithering Images with React/JavaScript](https://dev.to/bytebodger/dithering-images-with-reactjavascript-och)
-- [Dev.to/JS] [Systeme.io Reviews : The All-in-One Marketing Tool](https://dev.to/outofboxrevieww/systemeio-reviews-the-all-in-one-marketing-tool-3i12)
-- [Dev.to/JS] [AI taking over!!!!](https://dev.to/mannega/ai-taking-over-33k2)
 - [Lifehacker] [How to Clean Unsealed Concrete Floors in Your Basement or Garage](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
 - [Lifehacker] [The Best American Cities for Remote Workers Right Now](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
