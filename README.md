@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ANEKASLOT | SITUS JUDI SLOT GACOR ONLINE HARI INI GAMPANG MENANG](https://dev.to/loginanekaslot/anekaslot-situs-judi-slot-gacor-online-hari-ini-gampang-menang-2613)
+- [Dev.to/JS] [Advise of better and correct approach in creating object and using in Type script and angular?](https://dev.to/acharyaks90/advise-of-better-and-correct-approach-in-creating-object-and-using-in-type-script-and-angular-58b5)
+- [Dev.to/JS] [You must know JavaScript array methods](https://dev.to/himanshudevgupta/you-must-know-javascript-array-methods-1e2b)
 - [Dev.to/JS] [Navigating Mutability and Reference Issues in JavaScript](https://dev.to/colocodes/navigating-mutability-and-reference-issues-in-javascript-1lip)
 - [Dev.to/JS] [Building Scalable Web Applications with React and Firebase](https://dev.to/haszankauna/building-scalable-web-applications-with-react-and-firebase-2di4)
 - [Dev.to/JS] [Nuxt, Medusa, TailwindCSS Crash Course](https://dev.to/jacobandrewsky/nuxt-medusa-tailwindcss-crash-course-46jf)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Are you looking for a svelte plugin for file upload?](https://dev.to/girish1729/are-you-looking-for-a-svelte-plugin-for-file-upload-1khf)
 - [Dev.to/JS] [Static vs Dynamic Data Typed Languages](https://dev.to/cyborglaksh/static-vs-dynamic-data-typed-languages-2mn7)
 - [Dev.to/JS] [Website Designing Company in Noida](https://dev.to/sonadhan/website-designing-company-in-noida-392f)
-- [Dev.to/JS] [RS engine](https://dev.to/rakibsardar/rs-engine-3cp7)
-- [Dev.to/JS] [10 Reasons Why Next.js is the Superior Choice over create-react-app for Your Next Project](https://dev.to/sarveshh/10-reasons-why-nextjs-is-the-superior-choice-over-create-react-app-for-your-next-project-1c5i)
-- [Dev.to/JS] [Building a Dashboard with Chakra UI and ReactJS](https://dev.to/souravbandyopadhyay/building-a-dashboard-with-chakra-ui-and-reactjs-4nk)
 - [Lifehacker] [How to Clean Unsealed Concrete Floors in Your Basement or Garage](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
 - [Lifehacker] [The Best American Cities for Remote Workers Right Now](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
