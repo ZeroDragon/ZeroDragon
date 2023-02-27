@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implement a Dynamically Displayed Header With Window &amp; Element Scroll Positions](https://dev.to/jessewei/implement-a-dynamically-displayed-header-with-window-element-scroll-positions-4cm1)
+- [Dev.to/JS] [How to Handle Outside Clicks in React with TypeScript](https://dev.to/rashed_iqbal/how-to-handle-outside-clicks-in-react-with-typescript-4lmc)
+- [Dev.to/JS] [Best Full Stack Developer Course in Pune](https://dev.to/technobrilliant/best-full-stack-developer-course-in-pune-4hag)
+- [Dev.to/JS] [7 React UI Component Libraries for Building Beautiful Interfaces](https://dev.to/surajondev/7-react-ui-component-libraries-for-buliding-beautiful-interfaces-4o5)
+- [Dev.to/JS] [Arrays in JavaScript: A Cheat sheet for a developer](https://dev.to/manishkc104/arrays-in-javascript-a-cheat-sheet-for-a-developer-3644)
 - [Dev.to/JS] [ANEKASLOT | SITUS JUDI SLOT GACOR ONLINE HARI INI GAMPANG MENANG](https://dev.to/loginanekaslot/anekaslot-situs-judi-slot-gacor-online-hari-ini-gampang-menang-2613)
 - [Dev.to/JS] [Advise of better and correct approach in creating object and using in Type script and angular?](https://dev.to/acharyaks90/advise-of-better-and-correct-approach-in-creating-object-and-using-in-type-script-and-angular-58b5)
 - [Dev.to/JS] [You must know JavaScript array methods](https://dev.to/himanshudevgupta/you-must-know-javascript-array-methods-1e2b)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building Scalable Web Applications with React and Firebase](https://dev.to/haszankauna/building-scalable-web-applications-with-react-and-firebase-2di4)
 - [Dev.to/JS] [Nuxt, Medusa, TailwindCSS Crash Course](https://dev.to/jacobandrewsky/nuxt-medusa-tailwindcss-crash-course-46jf)
 - [Dev.to/JS] [Upload file to Google cloud storage without middleman server](https://dev.to/kamalhossain/upload-file-to-google-cloud-storage-without-middleman-server-4a6c)
-- [Dev.to/JS] [JavaScript Code Challenges: Array Manipulation](https://dev.to/sidramaqbool/javascript-code-challenges-array-manipulation-2nf4)
-- [Dev.to/JS] [Best Practices for Debugging JavaScript Code: A Guide for Developers](https://dev.to/eckdev/best-practices-for-debugging-javascript-code-a-guide-for-developers-1lha)
-- [Dev.to/JS] [Are you looking for a svelte plugin for file upload?](https://dev.to/girish1729/are-you-looking-for-a-svelte-plugin-for-file-upload-1khf)
-- [Dev.to/JS] [Static vs Dynamic Data Typed Languages](https://dev.to/cyborglaksh/static-vs-dynamic-data-typed-languages-2mn7)
-- [Dev.to/JS] [Website Designing Company in Noida](https://dev.to/sonadhan/website-designing-company-in-noida-392f)
 - [Lifehacker] [How to Clean Unsealed Concrete Floors in Your Basement or Garage](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
 - [Lifehacker] [The Best American Cities for Remote Workers Right Now](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
