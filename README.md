@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Go Ahead, Burn Dinner &lpar;a Little&rpar;](https://lifehacker.com/go-ahead-burn-dinner-a-little-1850163092)
+- [Lifehacker] [This YouTube Video Could Crash Your Pixel](https://lifehacker.com/this-youtube-video-could-crash-your-pixel-1850163530)
+- [Dev.to/JS] [Complete Guide to useState Hook in React](https://dev.to/sebduta/complete-guide-to-usestate-hook-in-react-5d78)
+- [Dev.to/JS] [Optimizing Performance in React: Tips and Tricks](https://dev.to/0xdarknight_/optimizing-performance-in-react-tips-and-tricks-7k4)
+- [Dev.to/JS] [Custom Hooks - useDebounce&lpar;&rpar;](https://dev.to/mertcannkocerr/custom-hooks-usedebounce-p7h)
+- [Lifehacker] [These SNAP Benefits Are About to Expire in 32 States](https://lifehacker.com/these-snap-benefits-are-about-to-expire-in-32-states-1850163339)
 - [Dev.to/JS] [Explaining &quot;this&quot; Keyword In JavaScript Like You&#39;re Five](https://dev.to/vayo/explaining-this-keyword-in-javascript-like-youre-five-191)
 - [Dev.to/JS] [10 Best React Libraries for Building Amazing User Interfaces](https://dev.to/0xdarknight_/10-best-react-libraries-for-building-amazing-user-interfaces-2mll)
 - [Lifehacker] [What&#39;s New on HBO Max in March 2023](https://lifehacker.com/whats-new-on-hbo-max-in-march-2023-1850163361)
@@ -31,16 +37,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#ThisMonthInSWA - January 2023](https://dev.to/azure/thismonthinswa-january-2023-45cc)
 - [Dev.to/JS] [Thoughts as a web dev newbie after a month and a half](https://dev.to/platinumfish/thoughts-as-a-web-dev-newbie-after-a-month-and-a-half-2kek)
 - [Dev.to/JS] [How To Cross-Post The Same Article On Different Blogging Platforms To Reach More Readers.](https://dev.to/the_greatbonnie/how-to-cross-post-the-same-article-on-different-blogging-platforms-to-reach-more-readers-2306)
-- [Dev.to/JS] [Top 20 backlink sources 2023: Your List of Bookmarkable Links to Build](https://dev.to/outofboxrevieww/top-20-backlink-sources-2023-your-list-of-bookmarkable-links-to-build-462h)
 - [Dev.to/JS] [IndexedDB on steroids using Dexie.js](https://dev.to/bgopikrishna/indexeddb-on-steroids-using-dexiejs-1ej4)
 - [Lifehacker] [The Only Aldi Quarter Hack You&#39;ll Ever Need](https://lifehacker.com/the-only-aldi-quarter-hack-youll-ever-need-1850162914)
 - [Dev.to/JS] [Cómo comprobar si el usuario está en línea con JavaScript](https://dev.to/asjordi/como-comprobar-si-el-usuario-esta-en-linea-con-javascript-5878)
 - [Lifehacker] [How to Start Sexting With Someone](https://lifehacker.com/how-to-start-sexting-with-someone-1850158017)
 - [Dev.to/JS] [What is Chakra ui?](https://dev.to/aribamemon/what-is-chakra-ui-5dj)
 - [Lifehacker] [Maybe You Should Try a Relationship With an Expiration Date](https://lifehacker.com/maybe-you-should-try-a-relationship-with-an-expiration-1850158038)
-- [Dev.to/JS] [TIL How Casing Can Break Netlify Functions](https://dev.to/spiderpig86/til-how-casing-can-break-netlify-functions-4c4f)
 - [Lifehacker] [Get EU Citizenship Through Portugal&#39;s Golden Visa Program Before It&#39;s Gone](https://lifehacker.com/get-eu-citizenship-through-portugals-golden-visa-progra-1850157528)
-- [Dev.to/JS] [Caro game - Developing game modes for Humans and Computers with JavaScript](https://dev.to/nguyenvantuan2391996/caro-game-developing-game-modes-for-humans-and-computers-with-javascript-2c3c)
 - [Lifehacker] [That Viral &#39;PYREX&#39; Brand Hack Is Completely Wrong, Folks](https://lifehacker.com/that-viral-pyrex-brand-hack-is-horseshit-folks-1850157381)
 - [Lifehacker] [What If You Tried Saying ‘Yes’ to Your Kids More Often?](https://lifehacker.com/what-if-you-tried-saying-yes-to-your-kids-more-often-1850157063)
 - [Lifehacker] [How to Clean Unsealed Concrete Floors in Your Basement or Garage](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Rising Interest Rates Will Affect Your Finances the Rest of the Year](https://lifehacker.com/how-rising-interest-rates-will-affect-your-finances-the-1850155359)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Scrivener for $30 Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-scrivener-for-3-1850155969)
 - [Lifehacker] [You Can Get Peacock Premium for 50% Off Right Now](https://lifehacker.com/you-can-get-peacock-premium-for-50-off-right-now-1850155513)
-- [Lifehacker] [The Easiest Ways to Make Your Fake Plants Look Real](https://lifehacker.com/the-easiest-ways-to-make-your-fake-plants-look-real-1850155426)
-- [Lifehacker] [Pirating Final Cut Pro Is More Dangerous Than You Think](https://lifehacker.com/pirating-final-cut-pro-is-more-dangerous-than-you-think-1850154779)
-- [Crazy Programmer] [Why Outsource Website Development?](https://www.thecrazyprogrammer.com/2023/02/why-outsource-website-development.html)
-- [Lifehacker] [Yes, Any Drink Can Be Cake Icing](https://lifehacker.com/yes-any-drink-can-be-cake-icing-1850155174)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Ways to Make Your Fake Plants Look Real](https://lifehacker.com/the-easiest-ways-to-make-your-fake-plants-look-real-1850155426)<!-- TECH-POSTS:END -->
 
 ---
 
