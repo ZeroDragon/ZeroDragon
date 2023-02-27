@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cómo comprobar si el usuario está en línea con JavaScript](https://dev.to/asjordi/como-comprobar-si-el-usuario-esta-en-linea-con-javascript-5878)
+- [Dev.to/JS] [What is Chakra ui?](https://dev.to/aribamemon/what-is-chakra-ui-5dj)
+- [Lifehacker] [Maybe You Should Try a Relationship With an Expiration Date](https://lifehacker.com/maybe-you-should-try-a-relationship-with-an-expiration-1850158038)
+- [Dev.to/JS] [TIL How Casing Can Break Netlify Functions](https://dev.to/spiderpig86/til-how-casing-can-break-netlify-functions-4c4f)
+- [Lifehacker] [Get EU Citizenship Through Portugal&#39;s Golden Visa Program Before It&#39;s Gone](https://lifehacker.com/get-eu-citizenship-through-portugals-golden-visa-progra-1850157528)
+- [Dev.to/JS] [Caro game - Developing game modes for Humans and Computers with JavaScript](https://dev.to/nguyenvantuan2391996/caro-game-developing-game-modes-for-humans-and-computers-with-javascript-2c3c)
 - [Dev.to/JS] [Why Qovery Preview Environments Are So Valuable to Development Teams](https://dev.to/livecycle/why-qovery-preview-environments-are-so-valuable-to-development-teams-3ggk)
 - [Lifehacker] [That Viral &#39;PYREX&#39; Brand Hack Is Completely Wrong, Folks](https://lifehacker.com/that-viral-pyrex-brand-hack-is-horseshit-folks-1850157381)
 - [Dev.to/JS] [Criando todas as rotas de Category no CrazyStack Node.js](https://dev.to/devdoido/criando-todas-as-rotas-de-category-no-crazystack-nodejs-c91)
@@ -32,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Gerador de Controllers Dinâmico no CrazyStack Node.js](https://dev.to/devdoido/gerador-de-controllers-dinamico-no-crazystack-nodejs-49if)
 - [Dev.to/JS] [Update e Delete Category Controller no CrazyStack Node.js](https://dev.to/devdoido/update-e-delete-category-controller-no-crazystack-nodejs-2ed9)
 - [Dev.to/JS] [LoadCategory e ByPage Controllers no CrazyStack Node.js](https://dev.to/devdoido/loadcategory-e-bypage-controllers-no-crazystack-nodejs-p1k)
-- [Dev.to/JS] [Criando o AddCategoryController no CrazyStack Node.js](https://dev.to/devdoido/criando-o-addcategorycontroller-no-crazystack-nodejs-4moa)
-- [Dev.to/JS] [Endpoint que retorna User dono do Refresh Token no CrazyStack Node.js](https://dev.to/devdoido/endpoint-que-retorna-user-dono-do-refresh-token-no-crazystack-nodejs-484f)
-- [Dev.to/JS] [Load Account Router + Test no CrazyStack Node.js](https://dev.to/devdoido/load-account-router-test-no-crazystack-nodejs-38cl)
-- [Dev.to/JS] [Validando Refresh Token com o LoadAccountController no CrazyStack Node.js](https://dev.to/devdoido/validando-refresh-token-com-o-loadaccountcontroller-no-crazystack-nodejs-fb)
 - [Lifehacker] [What If You Tried Saying ‘Yes’ to Your Kids More Often?](https://lifehacker.com/what-if-you-tried-saying-yes-to-your-kids-more-often-1850157063)
 - [Lifehacker] [How to Clean Unsealed Concrete Floors in Your Basement or Garage](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
 - [Lifehacker] [The Best American Cities for Remote Workers Right Now](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Your Own Red Lobster Cheddar Bay Biscuit Loaf](https://lifehacker.com/make-your-own-red-lobster-cheddar-bay-biscuit-loaf-1850152900)
 - [Lifehacker] [These Airlines Don&#39;t Charge Extra for Families to Sit Together](https://lifehacker.com/these-airlines-dont-charge-extra-for-families-to-sit-to-1850152473)
 - [Lifehacker] [Blue Algae Latte, Golden Milk, and 11 More Coffee Alternatives You Will Love or Hate](https://lifehacker.com/blue-algae-latte-golden-milk-and-11-more-coffee-alter-1850153484)
-- [Lifehacker] [15 of the Best Reboots of Shows You Loved As a Kid](https://lifehacker.com/15-of-the-best-reboots-of-shows-you-loved-as-a-kid-1850145098)
-- [Lifehacker] [You Should Make Dessert Pasta Immediately](https://lifehacker.com/you-should-make-dessert-pasta-immediately-1850151506)
-- [Lifehacker] [What&#39;s New on Paramount+ in March 2023](https://lifehacker.com/whats-new-on-paramount-in-march-2023-1850151677)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 of the Best Reboots of Shows You Loved As a Kid](https://lifehacker.com/15-of-the-best-reboots-of-shows-you-loved-as-a-kid-1850145098)<!-- TECH-POSTS:END -->
 
 ---
 
