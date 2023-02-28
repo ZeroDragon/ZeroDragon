@@ -23,12 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Grocery Store Apps for Every Need](https://lifehacker.com/the-best-grocery-store-apps-for-every-need-1850168630)
+- [Lifehacker] [10 Professional Baking Tools I Use at Home](https://lifehacker.com/10-professional-baking-tools-i-use-at-home-1850168766)
+- [Dev.to/JS] [Intro a Custom Hooks](https://dev.to/sebastianmaciel/intro-a-custom-hooks-4blg)
+- [Lifehacker] [Stop Using Cheap Plastic Drywall Anchors](https://lifehacker.com/stop-using-cheap-plastic-drywall-anchors-1850168414)
 - [Dev.to/JS] [Teacher Feature: Christopher Lis](https://dev.to/michaellarocca/teacher-feature-christopher-lis-19n5)
 - [Dev.to/JS] [Learn and programming mind of developer](https://dev.to/kaustavkarmakar2/learn-and-programming-mind-of-developer-3k52)
 - [Dev.to/JS] [Learning Babel](https://dev.to/tmchuynh/learning-babel-39ll)
 - [Dev.to/JS] [Your life will be changed by these chrome extensions](https://dev.to/jon_snow789/your-life-will-be-changed-by-these-chrome-extensions-5cck)
 - [Lifehacker] [Don’t Trust Your iPhone’s Passcode to Keep Your Data Safe](https://lifehacker.com/don-t-trust-your-iphone-s-passcode-to-keep-your-data-sa-1850166806)
-- [Dev.to/JS] [Unlock the Power of SEO: Optimize Your Next.js App with These Pro Tips](https://dev.to/sarveshh/next-level-seo-how-to-get-your-nextjs-app-to-rank-higher-5g1e)
+- [Dev.to/JS] [How to optimise SEO in NextJs](https://dev.to/sarveshh/next-level-seo-how-to-get-your-nextjs-app-to-rank-higher-5g1e)
 - [Dev.to/JS] [Flowchart editor dgrm.net / announcement / copy function](https://dev.to/alexboyko/flowchart-editor-dgrmnet-announcement-copy-function-1cj0)
 - [Lifehacker] [Use ‘Hydro-Dipping’ to Give Anything a Faux Marble Finish](https://lifehacker.com/use-hydro-dipping-to-give-anything-a-faux-marble-fini-1850168235)
 - [Dev.to/JS] [Five basic TypeScript Fundamentals you must know?](https://dev.to/syedateeq160/five-basic-typescript-fundamentals-you-must-know-4d5l)
@@ -38,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Moonly weekly progress update #38](https://dev.to/moonly/moonly-weekly-progress-update-38-3d95)
 - [Lifehacker] [What to Do When You Can Smell Layoffs Coming](https://lifehacker.com/what-to-do-when-you-can-smell-layoffs-coming-1850162589)
 - [Dev.to/JS] [React.js, behind the scenes](https://dev.to/diogorodrigues/reactjs-behind-the-scenes-3cin)
-- [Dev.to/JS] [How to run the first React Native iOS app in 2023](https://dev.to/aneeqakhan/how-to-run-the-first-react-native-ios-app-in-2023-27na)
 - [Lifehacker] [How to Get Off a Scammer&#39;s &#39;Sucker List&#39;](https://lifehacker.com/how-to-get-off-a-scammers-sucker-list-1850166269)
 - [Lifehacker] [How to Tell If Your Cat&#39;s Teeth Are Hurting](https://lifehacker.com/how-to-tell-if-your-cats-teeth-are-hurting-1850166169)
 - [Lifehacker] [The Best &lpar;and Most Affordable&rpar; Way to Store Old Video Games](https://lifehacker.com/the-best-and-most-affordable-way-to-store-old-video-g-1850166193)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These SNAP Benefits Are About to Expire in 32 States](https://lifehacker.com/these-snap-benefits-are-about-to-expire-in-32-states-1850163339)
 - [Lifehacker] [What&#39;s New on HBO Max in March 2023](https://lifehacker.com/whats-new-on-hbo-max-in-march-2023-1850163361)
 - [Lifehacker] [Create Your Own Personal Streaming Service With Jellyfin](https://lifehacker.com/create-your-own-personal-streaming-service-with-jellyfi-1850162103)
-- [Lifehacker] [The Only Aldi Quarter Hack You&#39;ll Ever Need](https://lifehacker.com/the-only-aldi-quarter-hack-youll-ever-need-1850162914)
-- [Lifehacker] [How to Start Sexting With Someone](https://lifehacker.com/how-to-start-sexting-with-someone-1850158017)
-- [Lifehacker] [Maybe You Should Try a Relationship With an Expiration Date](https://lifehacker.com/maybe-you-should-try-a-relationship-with-an-expiration-1850158038)
-- [Lifehacker] [Get EU Citizenship Through Portugal&#39;s Golden Visa Program Before It&#39;s Gone](https://lifehacker.com/get-eu-citizenship-through-portugals-golden-visa-progra-1850157528)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Only Aldi Quarter Hack You&#39;ll Ever Need](https://lifehacker.com/the-only-aldi-quarter-hack-youll-ever-need-1850162914)<!-- TECH-POSTS:END -->
 
 ---
 
