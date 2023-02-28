@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Handling pagination with NgRx component stores](https://dev.to/this-is-angular/handling-pagination-with-ngrx-component-stores-1j1p)
+- [Dev.to/JS] [How to secure your first software engineering job](https://dev.to/spiropoulos94/how-to-secure-your-first-software-engineering-job-2j5c)
+- [Dev.to/JS] [How to create API Documentation?](https://dev.to/devsimc/how-to-create-api-documentation-2f5c)
+- [Dev.to/JS] [What&#39;s new in Novu 0.12.0?](https://dev.to/novu/whats-new-in-novu-0120-m3)
+- [Dev.to/JS] [Advanced JavaScript ES6/ES7](https://dev.to/shaikhmd007/advanced-javascript-es6es7-3p1b)
 - [Dev.to/JS] [Creating better Modals using Vue Teleport](https://dev.to/alexandergekov/creating-better-modals-using-vue-teleport-3cd4)
 - [Dev.to/JS] [Liba - Weight Loss Benefits, Price, Ingredients, Scam Or Legit?](https://dev.to/libaprice1/liba-weight-loss-benefits-price-ingredients-scam-or-legit-243h)
 - [Dev.to/JS] [Chrome Extensions of the Month - February 2023](https://dev.to/j471n/chrome-extensions-of-the-month-february-2023-55do)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Frontend development roadmap 2023](https://dev.to/frontendcareers/frontend-development-roadmap-2023-4jm6)
 - [Dev.to/JS] [Building on Reddit&#39;s API with JavaScript](https://dev.to/honeybadger/building-on-reddits-api-with-javascript-3f9h)
 - [Dev.to/JS] [Create HTML using JavaScript in 5 Minutes](https://dev.to/binaryhub/create-html-using-javascript-in-5-minutes-2b27)
-- [Dev.to/JS] [How to optimize Cypress tests using JavaScript abilities? &lpar;Part 1. Loops&rpar;](https://dev.to/sanzhanov/how-to-optimize-cypress-tests-using-javascript-abilities-part-1-loops-12mn)
-- [Dev.to/JS] [What is programming in intellectual health?](https://dev.to/jerry32410/what-is-programming-in-intellectual-health-2c72)
-- [Dev.to/JS] [Error Handling In Javascript](https://dev.to/shamsulhuda/error-handling-in-javascript-4b1a)
-- [Dev.to/JS] [Color Mixing With JavaScript](https://dev.to/bytebodger/color-mixing-with-javascript-1llh)
-- [Dev.to/JS] [Virtual and Augmented Reality - Is It the Future Already?](https://dev.to/magerman714/virtual-and-augmented-reality-is-it-the-future-already-3ofe)
 - [Lifehacker] [Why You Need to Stop Clicking Sponsored Google Links](https://lifehacker.com/why-you-need-to-stop-clicking-sponsored-google-links-1850163992)
 - [Lifehacker] [The Best Apps to Help You Clean Your Home](https://lifehacker.com/the-best-apps-to-help-you-clean-your-home-1850164086)
 - [Lifehacker] [Keep Cannoli Cream in Your Fridge at All Times](https://lifehacker.com/keep-cannoli-cream-in-your-fridge-at-all-times-1850165117)
