@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sernam: The Easy Way to Generate Unique Usernames with Javascript and NodeJS](https://dev.to/m3r4j/sernam-the-easy-way-to-generate-unique-usernames-with-javascript-and-nodejs-593l)
+- [Dev.to/JS] [&lpar;Mern&rpar; How do you delete an object in a one to many relationship?](https://dev.to/andresam321/mern-how-do-you-delete-an-object-in-a-one-to-many-relationship-589a)
+- [Dev.to/JS] [React Architectures: FLUX vs REDUX](https://dev.to/lovepreetsingh/react-architectures-flux-vs-redux-249l)
+- [Dev.to/JS] [How to read and write JSON files using Node.js](https://dev.to/michaelburrows/how-to-read-and-write-json-files-using-nodejs-413a)
 - [Dev.to/JS] [Using ChatGPT to reply my Whatsapp ?](https://dev.to/cyril_ogoh/using-chatgpt-to-reply-my-whatsapp--4l8d)
 - [Dev.to/JS] [Regular Expressions—a Rite of Passage: Completing the Application](https://dev.to/rhieger/regular-expressions-a-rite-of-passage-completing-the-application-6kj)
 - [Dev.to/JS] [Introducing... The 2023 College Javascript Tournament](https://dev.to/lentsbraydyn/introducing-the-2023-college-javascript-tournament-3eml)
@@ -37,15 +41,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a GuestBook in Next.js](https://dev.to/vulcanwm/creating-a-guestbook-in-nextjs-462)
 - [Dev.to/JS] [JavaScript Tutorial Series: practice 2](https://dev.to/fullstackjo/javascript-tutorial-series-practice-2-40gj)
 - [Lifehacker] [How to Avoid Going Broke When a Loved One Dies](https://lifehacker.com/how-to-avoid-going-broke-when-a-loved-one-dies-1850164088)
-- [Dev.to/JS] [Episode 23/08: Angular 15.2, Content on Signals](https://dev.to/ng_news/episode-2308-angular-152-content-on-signals-325m)
 - [Lifehacker] [The 7 Deadly Sins of Learning a New Hobby](https://lifehacker.com/the-7-deadly-sins-of-learning-a-new-hobby-1850163682)
 - [Lifehacker] [All the New Android Features Google Announced Today](https://lifehacker.com/all-the-new-android-features-google-announced-today-1850164030)
 - [Lifehacker] [Get a Free Short Stack at IHOP for National Pancake Day](https://lifehacker.com/get-a-free-short-stack-at-ihop-for-national-pancake-day-1850164139)
-- [Dev.to/JS] [The Evolution of Signals in JavaScript](https://dev.to/this-is-learning/the-evolution-of-signals-in-javascript-8ob)
 - [Lifehacker] [Go Ahead, Burn Dinner &lpar;a Little&rpar;](https://lifehacker.com/go-ahead-burn-dinner-a-little-1850163092)
 - [Lifehacker] [This YouTube Video Could Crash Your Pixel](https://lifehacker.com/this-youtube-video-could-crash-your-pixel-1850163530)
-- [Dev.to/JS] [Complete Guide to useState Hook in React](https://dev.to/sebduta/complete-guide-to-usestate-hook-in-react-5d78)
-- [Dev.to/JS] [Optimizing Performance in React: Tips and Tricks](https://dev.to/0xdarknight_/optimizing-performance-in-react-tips-and-tricks-7k4)
 - [Lifehacker] [These SNAP Benefits Are About to Expire in 32 States](https://lifehacker.com/these-snap-benefits-are-about-to-expire-in-32-states-1850163339)
 - [Lifehacker] [What&#39;s New on HBO Max in March 2023](https://lifehacker.com/whats-new-on-hbo-max-in-march-2023-1850163361)
 - [Lifehacker] [Create Your Own Personal Streaming Service With Jellyfin](https://lifehacker.com/create-your-own-personal-streaming-service-with-jellyfi-1850162103)
