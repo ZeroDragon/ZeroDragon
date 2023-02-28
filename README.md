@@ -23,13 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Color Mixing With JavaScript](https://dev.to/bytebodger/color-mixing-with-javascript-1llh)
 - [Dev.to/JS] [Virtual and Augmented Reality - Is It the Future Already?](https://dev.to/magerman714/virtual-and-augmented-reality-is-it-the-future-already-3ofe)
 - [Dev.to/JS] [About Javascript from the very basics](https://dev.to/himankbhalla/about-javascript-from-the-very-basics-k26)
 - [Dev.to/JS] [Sernam: The Easy Way to Generate Unique Usernames with Javascript and NodeJS](https://dev.to/m3r4j/sernam-the-easy-way-to-generate-unique-usernames-with-javascript-and-nodejs-593l)
 - [Dev.to/JS] [&lpar;Mern&rpar; How do you delete an object in a one to many relationship?](https://dev.to/andresam321/mern-how-do-you-delete-an-object-in-a-one-to-many-relationship-589a)
 - [Dev.to/JS] [React Architectures: FLUX vs REDUX](https://dev.to/lovepreetsingh/react-architectures-flux-vs-redux-249l)
 - [Dev.to/JS] [How to read and write JSON files using Node.js](https://dev.to/michaelburrows/how-to-read-and-write-json-files-using-nodejs-413a)
-- [Dev.to/JS] [🌍🏠 Localizing Address Formats: How to Format Addresses Based on Different Countries?](https://dev.to/dhrn/localizing-address-formats-how-to-format-addresses-based-on-different-countries-4id8)
+- [Dev.to/JS] [🏠 Localizing Address Formats: How to Format Addresses Based on Different Countries?](https://dev.to/dhrn/localizing-address-formats-how-to-format-addresses-based-on-different-countries-4id8)
 - [Dev.to/JS] [Using ChatGPT to reply my Whatsapp ?](https://dev.to/cyril_ogoh/using-chatgpt-to-reply-my-whatsapp--4l8d)
 - [Dev.to/JS] [Regular Expressions—a Rite of Passage: Completing the Application](https://dev.to/rhieger/regular-expressions-a-rite-of-passage-completing-the-application-6kj)
 - [Dev.to/JS] [Introducing... The 2023 College Javascript Tournament](https://dev.to/lentsbraydyn/introducing-the-2023-college-javascript-tournament-3eml)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Apps to Help You Clean Your Home](https://lifehacker.com/the-best-apps-to-help-you-clean-your-home-1850164086)
 - [Lifehacker] [Keep Cannoli Cream in Your Fridge at All Times](https://lifehacker.com/keep-cannoli-cream-in-your-fridge-at-all-times-1850165117)
 - [Lifehacker] [The Cheapest iPad Just Got Cheaper](https://lifehacker.com/the-cheapest-ipad-just-got-cheaper-1850164778)
-- [Dev.to/JS] [Easily Add User Authentication to Your Application With Google Cloud &lpar;While Preserving Time and Nerves&rpar;](https://dev.to/kaykleinvogel/easily-add-user-authentication-to-your-application-with-google-cloud-while-preserving-time-and-nerves-255b)
 - [Lifehacker] [What&#39;s New on Disney+ in March 2023](https://lifehacker.com/whats-new-on-disney-in-march-2023-1850164481)
 - [Lifehacker] [How to Avoid Going Broke When a Loved One Dies](https://lifehacker.com/how-to-avoid-going-broke-when-a-loved-one-dies-1850164088)
 - [Lifehacker] [The 7 Deadly Sins of Learning a New Hobby](https://lifehacker.com/the-7-deadly-sins-of-learning-a-new-hobby-1850163682)
