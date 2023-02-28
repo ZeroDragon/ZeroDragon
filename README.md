@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Storybook - what is it and why you should use it?](https://dev.to/likimobile/storybook-what-is-it-and-why-you-should-use-it-4g5k)
+- [Dev.to/JS] [HTML input 숫자만 허용](https://dev.to/soonwoochoi/html-input-susjaman-heoyong-o1o)
+- [Lifehacker] [Make Easier Mashed Potatoes With a Cooling Rack](https://lifehacker.com/make-easier-mashed-potatoes-with-a-cooling-rack-1850165708)
+- [Dev.to/JS] [ProgressBar - JS](https://dev.to/986913/progressbar-js-2jgb)
+- [Dev.to/JS] [HTML Templating in NodeJs](https://dev.to/devtenshi/html-templating-in-nodejs-298g)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Subindo um vale!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-subindo-um-vale-37km)
+- [Lifehacker] [11 Ways to Make a Frozen Pizza Less Sad](https://lifehacker.com/11-ways-to-make-a-frozen-pizza-less-sad-1850158066)
 - [Dev.to/JS] [Create A Beautiful Hero Section Using React and TailwindCSS](https://dev.to/nitinfab/create-a-beautiful-hero-section-using-react-and-tailwindcss-274g)
 - [Dev.to/JS] [Why Modern JavaScript Matters](https://dev.to/david_bilsonn/why-modern-javascript-matters-3opk)
 - [Dev.to/JS] [Leveraging the Power of map&lpar;&rpar; in React.js: Best Practices for Efficient Data Rendering](https://dev.to/sidramaqbool/leveraging-the-power-of-map-in-reactjs-best-practices-for-efficient-data-rendering-3ioe)
@@ -30,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Clean code, de Avril Lavigne a batatas](https://dev.to/fabiodeandrade/clean-code-de-avril-lavigne-a-batatas-3c9m)
 - [Dev.to/JS] [You will love Next JS 13&lpar;beta&rpar; changes](https://dev.to/tkssharma/lets-explore-next-js-13-56c3)
 - [Dev.to/JS] [What do you do to get into the work flow?](https://dev.to/skykryst/what-do-you-do-to-get-into-the-work-flow-4cee)
-- [Dev.to/JS] [Solving File Path Errors in Node.js: Lessons Learned](https://dev.to/moshkh/solving-file-path-errors-in-nodejs-lessons-learned-1ppn)
-- [Dev.to/JS] [SETTING UP ENVIRONMENT VARIABLES IN REACT-VITE PROJECTS](https://dev.to/afikode_emma/setting-up-environment-variables-in-react-vite-projects-549)
-- [Dev.to/JS] [Por que Elm é uma linguagem tão deliciosa?](https://dev.to/marciofrayze/por-que-elm-e-uma-linguagem-tao-deliciosa-41on)
-- [Dev.to/JS] [Interview Q.1&lpar;React&rpar;](https://dev.to/afrin127329/interview-q1react-12nd)
-- [Dev.to/JS] [Destructuring in Javascript](https://dev.to/sayantani96/destructuring-in-javascript-5851)
 - [Lifehacker] [Why You Need to Stop Clicking Sponsored Google Links](https://lifehacker.com/why-you-need-to-stop-clicking-sponsored-google-links-1850163992)
 - [Lifehacker] [The Best Apps to Help You Clean Your Home](https://lifehacker.com/the-best-apps-to-help-you-clean-your-home-1850164086)
 - [Lifehacker] [Keep Cannoli Cream in Your Fridge at All Times](https://lifehacker.com/keep-cannoli-cream-in-your-fridge-at-all-times-1850165117)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
 - [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
-- [Lifehacker] [Make Better Meatballs With Anchovies](https://lifehacker.com/make-better-meatballs-with-anchovies-1850156439)
-- [Lifehacker] [You Can Save Your ChatGPT Conversations for Later](https://lifehacker.com/you-can-save-your-chatgpt-conversations-for-later-1850157559)
-- [Lifehacker] [You Can Finally Get Google’s Magic Eraser on Your iPhone or Android](https://lifehacker.com/you-can-finally-get-google-s-magic-eraser-on-your-iphon-1850157142)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Better Meatballs With Anchovies](https://lifehacker.com/make-better-meatballs-with-anchovies-1850156439)<!-- TECH-POSTS:END -->
 
 ---
 
