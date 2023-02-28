@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building on Reddit&#39;s API with JavaScript](https://dev.to/honeybadger/building-on-reddits-api-with-javascript-3f9h)
+- [Dev.to/JS] [Create HTML using JavaScript in 5 Minutes](https://dev.to/binaryhub/create-html-using-javascript-in-5-minutes-2b27)
+- [Dev.to/JS] [How to optimize Cypress tests using JavaScript abilities? &lpar;Part 1. Loops&rpar;](https://dev.to/sanzhanov/how-to-optimize-cypress-tests-using-javascript-abilities-part-1-loops-12mn)
+- [Dev.to/JS] [What is programming in intellectual health?](https://dev.to/jerry32410/what-is-programming-in-intellectual-health-2c72)
+- [Dev.to/JS] [Error Handling In Javascript](https://dev.to/shamsulhuda/error-handling-in-javascript-4b1a)
 - [Dev.to/JS] [Color Mixing With JavaScript](https://dev.to/bytebodger/color-mixing-with-javascript-1llh)
 - [Dev.to/JS] [Virtual and Augmented Reality - Is It the Future Already?](https://dev.to/magerman714/virtual-and-augmented-reality-is-it-the-future-already-3ofe)
 - [Dev.to/JS] [About Javascript from the very basics](https://dev.to/himankbhalla/about-javascript-from-the-very-basics-k26)
@@ -30,12 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&lpar;Mern&rpar; How do you delete an object in a one to many relationship?](https://dev.to/andresam321/mern-how-do-you-delete-an-object-in-a-one-to-many-relationship-589a)
 - [Dev.to/JS] [React Architectures: FLUX vs REDUX](https://dev.to/lovepreetsingh/react-architectures-flux-vs-redux-249l)
 - [Dev.to/JS] [How to read and write JSON files using Node.js](https://dev.to/michaelburrows/how-to-read-and-write-json-files-using-nodejs-413a)
-- [Dev.to/JS] [🏠 Localizing Address Formats: How to Format Addresses Based on Different Countries?](https://dev.to/dhrn/localizing-address-formats-how-to-format-addresses-based-on-different-countries-4id8)
-- [Dev.to/JS] [Using ChatGPT to reply my Whatsapp ?](https://dev.to/cyril_ogoh/using-chatgpt-to-reply-my-whatsapp--4l8d)
-- [Dev.to/JS] [Regular Expressions—a Rite of Passage: Completing the Application](https://dev.to/rhieger/regular-expressions-a-rite-of-passage-completing-the-application-6kj)
-- [Dev.to/JS] [Introducing... The 2023 College Javascript Tournament](https://dev.to/lentsbraydyn/introducing-the-2023-college-javascript-tournament-3eml)
 - [Lifehacker] [Why You Need to Stop Clicking Sponsored Google Links](https://lifehacker.com/why-you-need-to-stop-clicking-sponsored-google-links-1850163992)
-- [Dev.to/JS] [First Look At Pinia: A VueJS State Management System](https://dev.to/karleb/first-look-at-pinia-a-vuejs-state-management-system-4odj)
 - [Lifehacker] [The Best Apps to Help You Clean Your Home](https://lifehacker.com/the-best-apps-to-help-you-clean-your-home-1850164086)
 - [Lifehacker] [Keep Cannoli Cream in Your Fridge at All Times](https://lifehacker.com/keep-cannoli-cream-in-your-fridge-at-all-times-1850165117)
 - [Lifehacker] [The Cheapest iPad Just Got Cheaper](https://lifehacker.com/the-cheapest-ipad-just-got-cheaper-1850164778)
