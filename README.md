@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best &lpar;and Most Affordable&rpar; Way to Store Old Video Games](https://lifehacker.com/the-best-and-most-affordable-way-to-store-old-video-g-1850166193)
+- [Dev.to/JS] [Radio Code Calculator for JavaScript](https://dev.to/pelock/radio-code-calculator-for-javascript-3gin)
+- [Dev.to/JS] [Optimizing JavaScript Collections: Comparing Sets and Arrays](https://dev.to/abdulghaffar349/optimizing-javascript-collections-comparing-sets-and-arrays-e07)
+- [Dev.to/JS] [I made a developer portfolio template using React and Next](https://dev.to/umutyesildal/i-made-a-developer-portfolio-template-using-react-and-next-3g2e)
+- [Dev.to/JS] [The psychological impact of having BTOPRO as your professor&lpar;not clickbait&rpar;](https://dev.to/newjerkey/the-psychological-impact-of-having-btopro-as-your-professornot-clickbait-3d30)
+- [Dev.to/JS] [React Error Boundary](https://dev.to/graciesharma/react-error-boundary-28n1)
+- [Lifehacker] [Find a Relationship by &#39;Home Depot Dating&#39;](https://lifehacker.com/find-a-relationship-by-home-depot-dating-1850165628)
 - [Dev.to/JS] [Storybook - what is it and why you should use it?](https://dev.to/likimobile/storybook-what-is-it-and-why-you-should-use-it-4g5k)
 - [Dev.to/JS] [HTML input 숫자만 허용](https://dev.to/soonwoochoi/html-input-susjaman-heoyong-o1o)
 - [Lifehacker] [Make Easier Mashed Potatoes With a Cooling Rack](https://lifehacker.com/make-easier-mashed-potatoes-with-a-cooling-rack-1850165708)
@@ -32,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Ways to Make a Frozen Pizza Less Sad](https://lifehacker.com/11-ways-to-make-a-frozen-pizza-less-sad-1850158066)
 - [Dev.to/JS] [Create A Beautiful Hero Section Using React and TailwindCSS](https://dev.to/nitinfab/create-a-beautiful-hero-section-using-react-and-tailwindcss-274g)
 - [Dev.to/JS] [Why Modern JavaScript Matters](https://dev.to/david_bilsonn/why-modern-javascript-matters-3opk)
-- [Dev.to/JS] [Leveraging the Power of map&lpar;&rpar; in React.js: Best Practices for Efficient Data Rendering](https://dev.to/sidramaqbool/leveraging-the-power-of-map-in-reactjs-best-practices-for-efficient-data-rendering-3ioe)
-- [Dev.to/JS] [Paracetamol.ts💊| #21: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-21-explica-este-codigo-typescript-1m86)
-- [Dev.to/JS] [Clean code, de Avril Lavigne a batatas](https://dev.to/fabiodeandrade/clean-code-de-avril-lavigne-a-batatas-3c9m)
-- [Dev.to/JS] [You will love Next JS 13&lpar;beta&rpar; changes](https://dev.to/tkssharma/lets-explore-next-js-13-56c3)
-- [Dev.to/JS] [What do you do to get into the work flow?](https://dev.to/skykryst/what-do-you-do-to-get-into-the-work-flow-4cee)
 - [Lifehacker] [Why You Need to Stop Clicking Sponsored Google Links](https://lifehacker.com/why-you-need-to-stop-clicking-sponsored-google-links-1850163992)
 - [Lifehacker] [The Best Apps to Help You Clean Your Home](https://lifehacker.com/the-best-apps-to-help-you-clean-your-home-1850164086)
 - [Lifehacker] [Keep Cannoli Cream in Your Fridge at All Times](https://lifehacker.com/keep-cannoli-cream-in-your-fridge-at-all-times-1850165117)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Clean Unsealed Concrete Floors in Your Basement or Garage](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
 - [Lifehacker] [The Best American Cities for Remote Workers Right Now](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)
 - [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
-- [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)
-- [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
-- [Lifehacker] [Make Better Meatballs With Anchovies](https://lifehacker.com/make-better-meatballs-with-anchovies-1850156439)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)<!-- TECH-POSTS:END -->
 
 ---
 
