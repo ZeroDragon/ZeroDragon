@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Deal With “Element is not clickable at point” Exception Using Selenium](https://dev.to/lambdatest/how-to-deal-with-element-is-not-clickable-at-point-exception-using-selenium-49h2)
+- [Lifehacker] [What&#39;s New on Prime Video in March 2023](https://lifehacker.com/whats-new-on-prime-video-in-march-2023-1850169834)
+- [Lifehacker] [Get These Gift Card Deals While You Can](https://lifehacker.com/get-these-gift-card-deals-while-you-can-1850168858)
 - [Dev.to/JS] [ProgressBars - JS](https://dev.to/986913/progressbars-js-36ik)
 - [Lifehacker] [What&#39;s New on Hulu in March 2023](https://lifehacker.com/whats-new-on-hulu-in-march-2023-1850169381)
 - [Dev.to/JS] [ProgressBars- React](https://dev.to/986913/progressbars-react-5c5n)
@@ -40,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Using Cheap Plastic Drywall Anchors](https://lifehacker.com/stop-using-cheap-plastic-drywall-anchors-1850168414)
 - [Dev.to/JS] [Teacher Feature: Christopher Lis](https://dev.to/michaellarocca/teacher-feature-christopher-lis-19n5)
 - [Dev.to/JS] [Learn and programming mind of developer](https://dev.to/kaustavkarmakar2/learn-and-programming-mind-of-developer-3k52)
-- [Dev.to/JS] [Learning Babel](https://dev.to/tmchuynh/learning-babel-39ll)
 - [Lifehacker] [Don’t Trust Your iPhone’s Passcode to Keep Your Data Safe](https://lifehacker.com/don-t-trust-your-iphone-s-passcode-to-keep-your-data-sa-1850166806)
 - [Lifehacker] [Use ‘Hydro-Dipping’ to Give Anything a Faux Marble Finish](https://lifehacker.com/use-hydro-dipping-to-give-anything-a-faux-marble-fini-1850168235)
 - [Lifehacker] [That ‘Compliment’ Might Actually Be Offensive](https://lifehacker.com/that-compliment-might-actually-be-offensive-1850165585)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Learning a New Hobby](https://lifehacker.com/the-7-deadly-sins-of-learning-a-new-hobby-1850163682)
 - [Lifehacker] [All the New Android Features Google Announced Today](https://lifehacker.com/all-the-new-android-features-google-announced-today-1850164030)
 - [Lifehacker] [Get a Free Short Stack at IHOP for National Pancake Day](https://lifehacker.com/get-a-free-short-stack-at-ihop-for-national-pancake-day-1850164139)
-- [Lifehacker] [Go Ahead, Burn Dinner &lpar;a Little&rpar;](https://lifehacker.com/go-ahead-burn-dinner-a-little-1850163092)
-- [Lifehacker] [This YouTube Video Could Crash Your Pixel](https://lifehacker.com/this-youtube-video-could-crash-your-pixel-1850163530)
-- [Lifehacker] [These SNAP Benefits Are About to Expire in 32 States](https://lifehacker.com/these-snap-benefits-are-about-to-expire-in-32-states-1850163339)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Go Ahead, Burn Dinner &lpar;a Little&rpar;](https://lifehacker.com/go-ahead-burn-dinner-a-little-1850163092)<!-- TECH-POSTS:END -->
 
 ---
 
