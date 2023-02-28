@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use different environment variables for development and production in Node.js](https://dev.to/istiak/how-to-use-different-environment-variables-for-development-and-production-in-nodejs-2dlh)
+- [Dev.to/JS] [Analytics with Django &amp; Chart.js - Simpler Than Expected](https://dev.to/qosha1/analytics-with-django-chartjs-simpler-than-expected-37li)
+- [Lifehacker] [That ‘Compliment’ Might Actually Be Offensive](https://lifehacker.com/that-compliment-might-actually-be-offensive-1850165585)
+- [Dev.to/JS] [Moonly weekly progress update #38](https://dev.to/moonly/moonly-weekly-progress-update-38-3d95)
+- [Lifehacker] [What to Do When You Can Smell Layoffs Coming](https://lifehacker.com/what-to-do-when-you-can-smell-layoffs-coming-1850162589)
 - [Dev.to/JS] [React.js, behind the scenes](https://dev.to/diogorodrigues/reactjs-behind-the-scenes-3cin)
 - [Dev.to/JS] [How to run the first React Native iOS app in 2023](https://dev.to/aneeqakhan/how-to-run-the-first-react-native-ios-app-in-2023-27na)
 - [Dev.to/JS] [Array same length challenge](https://dev.to/lausuarez02/array-same-length-challenge-4923)
@@ -35,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Radio Code Calculator for JavaScript](https://dev.to/pelock/radio-code-calculator-for-javascript-3gin)
 - [Dev.to/JS] [Optimizing JavaScript Collections: Comparing Sets and Arrays](https://dev.to/abdulghaffar349/optimizing-javascript-collections-comparing-sets-and-arrays-e07)
 - [Dev.to/JS] [I made a developer portfolio template using React and Next](https://dev.to/umutyesildal/i-made-a-developer-portfolio-template-using-react-and-next-3g2e)
-- [Dev.to/JS] [The psychological impact of having BTOPRO as your professor&lpar;not clickbait&rpar;](https://dev.to/newjerkey/the-psychological-impact-of-having-btopro-as-your-professornot-clickbait-3d30)
-- [Dev.to/JS] [React Error Boundary](https://dev.to/graciesharma/react-error-boundary-28n1)
 - [Lifehacker] [Find a Relationship by &#39;Home Depot Dating&#39;](https://lifehacker.com/find-a-relationship-by-home-depot-dating-1850165628)
-- [Dev.to/JS] [Storybook - what is it and why you should use it?](https://dev.to/likimobile/storybook-what-is-it-and-why-you-should-use-it-4g5k)
 - [Lifehacker] [Make Easier Mashed Potatoes With a Cooling Rack](https://lifehacker.com/make-easier-mashed-potatoes-with-a-cooling-rack-1850165708)
 - [Lifehacker] [11 Ways to Make a Frozen Pizza Less Sad](https://lifehacker.com/11-ways-to-make-a-frozen-pizza-less-sad-1850158066)
 - [Lifehacker] [Why You Need to Stop Clicking Sponsored Google Links](https://lifehacker.com/why-you-need-to-stop-clicking-sponsored-google-links-1850163992)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Maybe You Should Try a Relationship With an Expiration Date](https://lifehacker.com/maybe-you-should-try-a-relationship-with-an-expiration-1850158038)
 - [Lifehacker] [Get EU Citizenship Through Portugal&#39;s Golden Visa Program Before It&#39;s Gone](https://lifehacker.com/get-eu-citizenship-through-portugals-golden-visa-progra-1850157528)
 - [Lifehacker] [That Viral &#39;PYREX&#39; Brand Hack Is Completely Wrong, Folks](https://lifehacker.com/that-viral-pyrex-brand-hack-is-horseshit-folks-1850157381)
-- [Lifehacker] [What If You Tried Saying ‘Yes’ to Your Kids More Often?](https://lifehacker.com/what-if-you-tried-saying-yes-to-your-kids-more-often-1850157063)
-- [Lifehacker] [How to Clean Unsealed Concrete Floors in Your Basement or Garage](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
-- [Lifehacker] [The Best American Cities for Remote Workers Right Now](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What If You Tried Saying ‘Yes’ to Your Kids More Often?](https://lifehacker.com/what-if-you-tried-saying-yes-to-your-kids-more-often-1850157063)<!-- TECH-POSTS:END -->
 
 ---
 
