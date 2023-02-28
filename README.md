@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SETTING UP ENVIRONMENT VARIABLES IN REACT-VITE PROJECTS](https://dev.to/afikode_emma/setting-up-environment-variables-in-react-vite-projects-549)
+- [Dev.to/JS] [Por que Elm é uma linguagem tão deliciosa?](https://dev.to/marciofrayze/por-que-elm-e-uma-linguagem-tao-deliciosa-41on)
+- [Dev.to/JS] [Interview Q.1&lpar;React&rpar;](https://dev.to/afrin127329/interview-q1react-12nd)
+- [Dev.to/JS] [Destructuring in Javascript](https://dev.to/sayantani96/destructuring-in-javascript-5851)
 - [Dev.to/JS] [Exit Function &lpar;Javascript&rpar;](https://dev.to/edgaras98/exit-function-javascript-7c8)
 - [Dev.to/JS] [Debugging JavaScript Like a Pro: Mastering the Different Types of Console Logs](https://dev.to/blackkspydo/debugging-javascript-like-a-pro-mastering-the-different-types-of-console-logs-11pa)
 - [Dev.to/JS] [Graphql easy/lazy documentation](https://dev.to/yutro/graphql-easylazy-documentation-251h)
 - [Dev.to/JS] [Handling pagination with NgRx component stores](https://dev.to/this-is-angular/handling-pagination-with-ngrx-component-stores-1j1p)
 - [Dev.to/JS] [How to secure your first software engineering job](https://dev.to/spiropoulos94/how-to-secure-your-first-software-engineering-job-2j5c)
 - [Dev.to/JS] [How to create API Documentation?](https://dev.to/devsimc/how-to-create-api-documentation-2f5c)
-- [Dev.to/JS] [What&#39;s new in Novu 0.12.0?](https://dev.to/novu/whats-new-in-novu-0120-m3)
 - [Dev.to/JS] [Advanced JavaScript ES6/ES7](https://dev.to/shaikhmd007/advanced-javascript-es6es7-3p1b)
 - [Dev.to/JS] [Creating better Modals using Vue Teleport](https://dev.to/alexandergekov/creating-better-modals-using-vue-teleport-3cd4)
-- [Dev.to/JS] [Liba - Weight Loss Benefits, Price, Ingredients, Scam Or Legit?](https://dev.to/libaprice1/liba-weight-loss-benefits-price-ingredients-scam-or-legit-243h)
-- [Dev.to/JS] [Chrome Extensions of the Month - February 2023](https://dev.to/j471n/chrome-extensions-of-the-month-february-2023-55do)
-- [Dev.to/JS] [Les intercepteurs en NestJS](https://dev.to/201richk/les-intercepteurs-en-nestjs-1oma)
 - [Lifehacker] [Why You Need to Stop Clicking Sponsored Google Links](https://lifehacker.com/why-you-need-to-stop-clicking-sponsored-google-links-1850163992)
 - [Lifehacker] [The Best Apps to Help You Clean Your Home](https://lifehacker.com/the-best-apps-to-help-you-clean-your-home-1850164086)
 - [Lifehacker] [Keep Cannoli Cream in Your Fridge at All Times](https://lifehacker.com/keep-cannoli-cream-in-your-fridge-at-all-times-1850165117)
