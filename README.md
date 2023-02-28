@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Need to Stop Clicking Sponsored Google Links](https://lifehacker.com/why-you-need-to-stop-clicking-sponsored-google-links-1850163992)
+- [Dev.to/JS] [First Look At Pinia: A VueJS State Management System](https://dev.to/karleb/first-look-at-pinia-a-vuejs-state-management-system-4odj)
 - [Lifehacker] [The Best Apps to Help You Clean Your Home](https://lifehacker.com/the-best-apps-to-help-you-clean-your-home-1850164086)
 - [Lifehacker] [Keep Cannoli Cream in Your Fridge at All Times](https://lifehacker.com/keep-cannoli-cream-in-your-fridge-at-all-times-1850165117)
 - [Lifehacker] [The Cheapest iPad Just Got Cheaper](https://lifehacker.com/the-cheapest-ipad-just-got-cheaper-1850164778)
@@ -46,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Explaining &quot;this&quot; Keyword In JavaScript Like You&#39;re Five](https://dev.to/vayo/explaining-this-keyword-in-javascript-like-youre-five-191)
 - [Dev.to/JS] [10 Best React Libraries for Building Amazing User Interfaces](https://dev.to/0xdarknight_/10-best-react-libraries-for-building-amazing-user-interfaces-2mll)
 - [Lifehacker] [What&#39;s New on HBO Max in March 2023](https://lifehacker.com/whats-new-on-hbo-max-in-march-2023-1850163361)
-- [Dev.to/JS] [Supabase edge functions - a quick start](https://dev.to/po8rewq/supabase-edge-functions-a-quick-start-a3p)
 - [Lifehacker] [Create Your Own Personal Streaming Service With Jellyfin](https://lifehacker.com/create-your-own-personal-streaming-service-with-jellyfi-1850162103)
 - [Lifehacker] [The Only Aldi Quarter Hack You&#39;ll Ever Need](https://lifehacker.com/the-only-aldi-quarter-hack-youll-ever-need-1850162914)
 - [Lifehacker] [How to Start Sexting With Someone](https://lifehacker.com/how-to-start-sexting-with-someone-1850158017)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Remove Blood From Fabrics and Surfaces &lpar;and What Not to Do&rpar;](https://lifehacker.com/how-to-remove-blood-from-fabrics-and-surfaces-and-what-1850157321)
 - [Lifehacker] [Make Better Meatballs With Anchovies](https://lifehacker.com/make-better-meatballs-with-anchovies-1850156439)
 - [Lifehacker] [You Can Save Your ChatGPT Conversations for Later](https://lifehacker.com/you-can-save-your-chatgpt-conversations-for-later-1850157559)
-- [Lifehacker] [You Can Finally Get Google’s Magic Eraser on Your iPhone or Android](https://lifehacker.com/you-can-finally-get-google-s-magic-eraser-on-your-iphon-1850157142)
-- [Lifehacker] [Your Marinara Needs Onions or Garlic, but Not Both](https://lifehacker.com/your-marinara-needs-onions-or-garlic-but-not-both-1850156719)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Finally Get Google’s Magic Eraser on Your iPhone or Android](https://lifehacker.com/you-can-finally-get-google-s-magic-eraser-on-your-iphon-1850157142)<!-- TECH-POSTS:END -->
 
 ---
 
