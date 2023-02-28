@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React.js, behind the scenes](https://dev.to/diogorodrigues/reactjs-behind-the-scenes-3cin)
+- [Dev.to/JS] [How to run the first React Native iOS app in 2023](https://dev.to/aneeqakhan/how-to-run-the-first-react-native-ios-app-in-2023-27na)
+- [Dev.to/JS] [Array same length challenge](https://dev.to/lausuarez02/array-same-length-challenge-4923)
+- [Lifehacker] [How to Get Off a Scammer&#39;s &#39;Sucker List&#39;](https://lifehacker.com/how-to-get-off-a-scammers-sucker-list-1850166269)
+- [Dev.to/JS] [Understanding the React Context API](https://dev.to/abukavictor/understanding-the-react-context-api-2gg0)
+- [Dev.to/JS] [Redefining Developer Experience](https://dev.to/begin/redefining-developer-experience-12g7)
+- [Dev.to/JS] [FPTV - Website](https://dev.to/rfabreu/fptv-website-1d9i)
+- [Lifehacker] [How to Tell If Your Cat&#39;s Teeth Are Hurting](https://lifehacker.com/how-to-tell-if-your-cats-teeth-are-hurting-1850166169)
 - [Lifehacker] [The Best &lpar;and Most Affordable&rpar; Way to Store Old Video Games](https://lifehacker.com/the-best-and-most-affordable-way-to-store-old-video-g-1850166193)
 - [Dev.to/JS] [Radio Code Calculator for JavaScript](https://dev.to/pelock/radio-code-calculator-for-javascript-3gin)
 - [Dev.to/JS] [Optimizing JavaScript Collections: Comparing Sets and Arrays](https://dev.to/abdulghaffar349/optimizing-javascript-collections-comparing-sets-and-arrays-e07)
@@ -31,14 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Error Boundary](https://dev.to/graciesharma/react-error-boundary-28n1)
 - [Lifehacker] [Find a Relationship by &#39;Home Depot Dating&#39;](https://lifehacker.com/find-a-relationship-by-home-depot-dating-1850165628)
 - [Dev.to/JS] [Storybook - what is it and why you should use it?](https://dev.to/likimobile/storybook-what-is-it-and-why-you-should-use-it-4g5k)
-- [Dev.to/JS] [HTML input 숫자만 허용](https://dev.to/soonwoochoi/html-input-susjaman-heoyong-o1o)
 - [Lifehacker] [Make Easier Mashed Potatoes With a Cooling Rack](https://lifehacker.com/make-easier-mashed-potatoes-with-a-cooling-rack-1850165708)
-- [Dev.to/JS] [ProgressBar - JS](https://dev.to/986913/progressbar-js-2jgb)
-- [Dev.to/JS] [HTML Templating in NodeJs](https://dev.to/devtenshi/html-templating-in-nodejs-298g)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Subindo um vale!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-subindo-um-vale-37km)
 - [Lifehacker] [11 Ways to Make a Frozen Pizza Less Sad](https://lifehacker.com/11-ways-to-make-a-frozen-pizza-less-sad-1850158066)
-- [Dev.to/JS] [Create A Beautiful Hero Section Using React and TailwindCSS](https://dev.to/nitinfab/create-a-beautiful-hero-section-using-react-and-tailwindcss-274g)
-- [Dev.to/JS] [Why Modern JavaScript Matters](https://dev.to/david_bilsonn/why-modern-javascript-matters-3opk)
 - [Lifehacker] [Why You Need to Stop Clicking Sponsored Google Links](https://lifehacker.com/why-you-need-to-stop-clicking-sponsored-google-links-1850163992)
 - [Lifehacker] [The Best Apps to Help You Clean Your Home](https://lifehacker.com/the-best-apps-to-help-you-clean-your-home-1850164086)
 - [Lifehacker] [Keep Cannoli Cream in Your Fridge at All Times](https://lifehacker.com/keep-cannoli-cream-in-your-fridge-at-all-times-1850165117)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [That Viral &#39;PYREX&#39; Brand Hack Is Completely Wrong, Folks](https://lifehacker.com/that-viral-pyrex-brand-hack-is-horseshit-folks-1850157381)
 - [Lifehacker] [What If You Tried Saying ‘Yes’ to Your Kids More Often?](https://lifehacker.com/what-if-you-tried-saying-yes-to-your-kids-more-often-1850157063)
 - [Lifehacker] [How to Clean Unsealed Concrete Floors in Your Basement or Garage](https://lifehacker.com/how-to-clean-unsealed-concrete-floors-in-your-basement-1850146224)
-- [Lifehacker] [The Best American Cities for Remote Workers Right Now](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)
-- [Lifehacker] [The Best Way to Stop Subvocalizing and Read Faster](https://lifehacker.com/the-best-way-to-stop-subvocalizing-and-read-faster-1850146267)
-- [Lifehacker] [The Most &lpar;And Least&rpar; Annoying Corporate Jargon](https://lifehacker.com/the-most-and-least-annoying-corporate-jargon-1850146290)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best American Cities for Remote Workers Right Now](https://lifehacker.com/the-best-american-cities-for-remote-workers-right-now-1850146243)<!-- TECH-POSTS:END -->
 
 ---
 
