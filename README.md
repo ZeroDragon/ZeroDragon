@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Teacher Feature: Christopher Lis](https://dev.to/michaellarocca/teacher-feature-christopher-lis-19n5)
+- [Dev.to/JS] [Learn and programming mind of developer](https://dev.to/kaustavkarmakar2/learn-and-programming-mind-of-developer-3k52)
+- [Dev.to/JS] [Learning Babel](https://dev.to/tmchuynh/learning-babel-39ll)
+- [Dev.to/JS] [Your life will be changed by these chrome extensions](https://dev.to/jon_snow789/your-life-will-be-changed-by-these-chrome-extensions-5cck)
+- [Lifehacker] [Don’t Trust Your iPhone’s Passcode to Keep Your Data Safe](https://lifehacker.com/don-t-trust-your-iphone-s-passcode-to-keep-your-data-sa-1850166806)
+- [Dev.to/JS] [Unlock the Power of SEO: Optimize Your Next.js App with These Pro Tips](https://dev.to/sarveshh/next-level-seo-how-to-get-your-nextjs-app-to-rank-higher-5g1e)
+- [Dev.to/JS] [Flowchart editor dgrm.net / announcement / copy function](https://dev.to/alexboyko/flowchart-editor-dgrmnet-announcement-copy-function-1cj0)
+- [Lifehacker] [Use ‘Hydro-Dipping’ to Give Anything a Faux Marble Finish](https://lifehacker.com/use-hydro-dipping-to-give-anything-a-faux-marble-fini-1850168235)
+- [Dev.to/JS] [Five basic TypeScript Fundamentals you must know?](https://dev.to/syedateeq160/five-basic-typescript-fundamentals-you-must-know-4d5l)
 - [Dev.to/JS] [How to use different environment variables for development and production in Node.js](https://dev.to/istiak/how-to-use-different-environment-variables-for-development-and-production-in-nodejs-2dlh)
 - [Dev.to/JS] [Analytics with Django &amp; Chart.js - Simpler Than Expected](https://dev.to/qosha1/analytics-with-django-chartjs-simpler-than-expected-37li)
 - [Lifehacker] [That ‘Compliment’ Might Actually Be Offensive](https://lifehacker.com/that-compliment-might-actually-be-offensive-1850165585)
@@ -30,16 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do When You Can Smell Layoffs Coming](https://lifehacker.com/what-to-do-when-you-can-smell-layoffs-coming-1850162589)
 - [Dev.to/JS] [React.js, behind the scenes](https://dev.to/diogorodrigues/reactjs-behind-the-scenes-3cin)
 - [Dev.to/JS] [How to run the first React Native iOS app in 2023](https://dev.to/aneeqakhan/how-to-run-the-first-react-native-ios-app-in-2023-27na)
-- [Dev.to/JS] [Array same length challenge](https://dev.to/lausuarez02/array-same-length-challenge-4923)
 - [Lifehacker] [How to Get Off a Scammer&#39;s &#39;Sucker List&#39;](https://lifehacker.com/how-to-get-off-a-scammers-sucker-list-1850166269)
-- [Dev.to/JS] [Understanding the React Context API](https://dev.to/abukavictor/understanding-the-react-context-api-2gg0)
-- [Dev.to/JS] [Redefining Developer Experience](https://dev.to/begin/redefining-developer-experience-12g7)
-- [Dev.to/JS] [FPTV - Website](https://dev.to/rfabreu/fptv-website-1d9i)
 - [Lifehacker] [How to Tell If Your Cat&#39;s Teeth Are Hurting](https://lifehacker.com/how-to-tell-if-your-cats-teeth-are-hurting-1850166169)
 - [Lifehacker] [The Best &lpar;and Most Affordable&rpar; Way to Store Old Video Games](https://lifehacker.com/the-best-and-most-affordable-way-to-store-old-video-g-1850166193)
-- [Dev.to/JS] [Radio Code Calculator for JavaScript](https://dev.to/pelock/radio-code-calculator-for-javascript-3gin)
-- [Dev.to/JS] [Optimizing JavaScript Collections: Comparing Sets and Arrays](https://dev.to/abdulghaffar349/optimizing-javascript-collections-comparing-sets-and-arrays-e07)
-- [Dev.to/JS] [I made a developer portfolio template using React and Next](https://dev.to/umutyesildal/i-made-a-developer-portfolio-template-using-react-and-next-3g2e)
 - [Lifehacker] [Find a Relationship by &#39;Home Depot Dating&#39;](https://lifehacker.com/find-a-relationship-by-home-depot-dating-1850165628)
 - [Lifehacker] [Make Easier Mashed Potatoes With a Cooling Rack](https://lifehacker.com/make-easier-mashed-potatoes-with-a-cooling-rack-1850165708)
 - [Lifehacker] [11 Ways to Make a Frozen Pizza Less Sad](https://lifehacker.com/11-ways-to-make-a-frozen-pizza-less-sad-1850158066)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Only Aldi Quarter Hack You&#39;ll Ever Need](https://lifehacker.com/the-only-aldi-quarter-hack-youll-ever-need-1850162914)
 - [Lifehacker] [How to Start Sexting With Someone](https://lifehacker.com/how-to-start-sexting-with-someone-1850158017)
 - [Lifehacker] [Maybe You Should Try a Relationship With an Expiration Date](https://lifehacker.com/maybe-you-should-try-a-relationship-with-an-expiration-1850158038)
-- [Lifehacker] [Get EU Citizenship Through Portugal&#39;s Golden Visa Program Before It&#39;s Gone](https://lifehacker.com/get-eu-citizenship-through-portugals-golden-visa-progra-1850157528)
-- [Lifehacker] [That Viral &#39;PYREX&#39; Brand Hack Is Completely Wrong, Folks](https://lifehacker.com/that-viral-pyrex-brand-hack-is-horseshit-folks-1850157381)
-- [Lifehacker] [What If You Tried Saying ‘Yes’ to Your Kids More Often?](https://lifehacker.com/what-if-you-tried-saying-yes-to-your-kids-more-often-1850157063)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Get EU Citizenship Through Portugal&#39;s Golden Visa Program Before It&#39;s Gone](https://lifehacker.com/get-eu-citizenship-through-portugals-golden-visa-progra-1850157528)<!-- TECH-POSTS:END -->
 
 ---
 
