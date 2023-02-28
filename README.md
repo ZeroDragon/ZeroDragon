@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ProgressBars - JS](https://dev.to/986913/progressbars-js-36ik)
+- [Lifehacker] [What&#39;s New on Hulu in March 2023](https://lifehacker.com/whats-new-on-hulu-in-march-2023-1850169381)
+- [Dev.to/JS] [ProgressBars- React](https://dev.to/986913/progressbars-react-5c5n)
+- [Dev.to/JS] [JavaScript Tutorial Series: Intro to JS DOM](https://dev.to/fullstackjo/javascript-tutorial-series-intro-to-js-dom-3j28)
+- [Dev.to/JS] [Call Stack - A simplified intro](https://dev.to/kurgeye/call-stack-a-simplified-intro-c74)
+- [Lifehacker] [You Can Finally Search for Comments in Reddit Threads](https://lifehacker.com/you-can-finally-search-for-comments-in-reddit-threads-1850168769)
 - [Dev.to/JS] [A first look at Svelte for React Developers](https://dev.to/jordharr/a-first-look-at-svelte-for-react-developers-4mb8)
 - [Lifehacker] [9 Extremely Niche &lpar;but Still Useful&rpar; Mobile Apps](https://lifehacker.com/9-extremely-niche-but-still-useful-mobile-apps-1850168829)
 - [Dev.to/JS] [Simple PHP AJAX using JQuery](https://dev.to/adeleyeayodeji/simple-php-ajax-using-jquery-2mcd)
@@ -35,12 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Teacher Feature: Christopher Lis](https://dev.to/michaellarocca/teacher-feature-christopher-lis-19n5)
 - [Dev.to/JS] [Learn and programming mind of developer](https://dev.to/kaustavkarmakar2/learn-and-programming-mind-of-developer-3k52)
 - [Dev.to/JS] [Learning Babel](https://dev.to/tmchuynh/learning-babel-39ll)
-- [Dev.to/JS] [Your life will be changed by these chrome extensions](https://dev.to/jon_snow789/your-life-will-be-changed-by-these-chrome-extensions-5cck)
 - [Lifehacker] [Don’t Trust Your iPhone’s Passcode to Keep Your Data Safe](https://lifehacker.com/don-t-trust-your-iphone-s-passcode-to-keep-your-data-sa-1850166806)
-- [Dev.to/JS] [How to optimise SEO in NextJs](https://dev.to/sarveshh/next-level-seo-how-to-get-your-nextjs-app-to-rank-higher-5g1e)
-- [Dev.to/JS] [Flowchart editor dgrm.net / announcement / copy function](https://dev.to/alexboyko/flowchart-editor-dgrmnet-announcement-copy-function-1cj0)
 - [Lifehacker] [Use ‘Hydro-Dipping’ to Give Anything a Faux Marble Finish](https://lifehacker.com/use-hydro-dipping-to-give-anything-a-faux-marble-fini-1850168235)
-- [Dev.to/JS] [Five basic TypeScript Fundamentals you must know?](https://dev.to/syedateeq160/five-basic-typescript-fundamentals-you-must-know-4d5l)
 - [Lifehacker] [That ‘Compliment’ Might Actually Be Offensive](https://lifehacker.com/that-compliment-might-actually-be-offensive-1850165585)
 - [Lifehacker] [What to Do When You Can Smell Layoffs Coming](https://lifehacker.com/what-to-do-when-you-can-smell-layoffs-coming-1850162589)
 - [Lifehacker] [How to Get Off a Scammer&#39;s &#39;Sucker List&#39;](https://lifehacker.com/how-to-get-off-a-scammers-sucker-list-1850166269)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get a Free Short Stack at IHOP for National Pancake Day](https://lifehacker.com/get-a-free-short-stack-at-ihop-for-national-pancake-day-1850164139)
 - [Lifehacker] [Go Ahead, Burn Dinner &lpar;a Little&rpar;](https://lifehacker.com/go-ahead-burn-dinner-a-little-1850163092)
 - [Lifehacker] [This YouTube Video Could Crash Your Pixel](https://lifehacker.com/this-youtube-video-could-crash-your-pixel-1850163530)
-- [Lifehacker] [These SNAP Benefits Are About to Expire in 32 States](https://lifehacker.com/these-snap-benefits-are-about-to-expire-in-32-states-1850163339)
-- [Lifehacker] [What&#39;s New on HBO Max in March 2023](https://lifehacker.com/whats-new-on-hbo-max-in-march-2023-1850163361)
-- [Lifehacker] [Create Your Own Personal Streaming Service With Jellyfin](https://lifehacker.com/create-your-own-personal-streaming-service-with-jellyfi-1850162103)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These SNAP Benefits Are About to Expire in 32 States](https://lifehacker.com/these-snap-benefits-are-about-to-expire-in-32-states-1850163339)<!-- TECH-POSTS:END -->
 
 ---
 
