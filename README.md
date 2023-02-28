@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating better Modals using Vue Teleport](https://dev.to/alexandergekov/creating-better-modals-using-vue-teleport-3cd4)
+- [Dev.to/JS] [Liba - Weight Loss Benefits, Price, Ingredients, Scam Or Legit?](https://dev.to/libaprice1/liba-weight-loss-benefits-price-ingredients-scam-or-legit-243h)
+- [Dev.to/JS] [Chrome Extensions of the Month - February 2023](https://dev.to/j471n/chrome-extensions-of-the-month-february-2023-55do)
+- [Dev.to/JS] [Les intercepteurs en NestJS](https://dev.to/201richk/les-intercepteurs-en-nestjs-1oma)
+- [Dev.to/JS] [Frontend development roadmap 2023](https://dev.to/frontendcareers/frontend-development-roadmap-2023-4jm6)
 - [Dev.to/JS] [Building on Reddit&#39;s API with JavaScript](https://dev.to/honeybadger/building-on-reddits-api-with-javascript-3f9h)
 - [Dev.to/JS] [Create HTML using JavaScript in 5 Minutes](https://dev.to/binaryhub/create-html-using-javascript-in-5-minutes-2b27)
 - [Dev.to/JS] [How to optimize Cypress tests using JavaScript abilities? &lpar;Part 1. Loops&rpar;](https://dev.to/sanzhanov/how-to-optimize-cypress-tests-using-javascript-abilities-part-1-loops-12mn)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Error Handling In Javascript](https://dev.to/shamsulhuda/error-handling-in-javascript-4b1a)
 - [Dev.to/JS] [Color Mixing With JavaScript](https://dev.to/bytebodger/color-mixing-with-javascript-1llh)
 - [Dev.to/JS] [Virtual and Augmented Reality - Is It the Future Already?](https://dev.to/magerman714/virtual-and-augmented-reality-is-it-the-future-already-3ofe)
-- [Dev.to/JS] [About Javascript from the very basics](https://dev.to/himankbhalla/about-javascript-from-the-very-basics-k26)
-- [Dev.to/JS] [Sernam: The Easy Way to Generate Unique Usernames with Javascript and NodeJS](https://dev.to/m3r4j/sernam-the-easy-way-to-generate-unique-usernames-with-javascript-and-nodejs-593l)
-- [Dev.to/JS] [&lpar;Mern&rpar; How do you delete an object in a one to many relationship?](https://dev.to/andresam321/mern-how-do-you-delete-an-object-in-a-one-to-many-relationship-589a)
-- [Dev.to/JS] [React Architectures: FLUX vs REDUX](https://dev.to/lovepreetsingh/react-architectures-flux-vs-redux-249l)
-- [Dev.to/JS] [How to read and write JSON files using Node.js](https://dev.to/michaelburrows/how-to-read-and-write-json-files-using-nodejs-413a)
 - [Lifehacker] [Why You Need to Stop Clicking Sponsored Google Links](https://lifehacker.com/why-you-need-to-stop-clicking-sponsored-google-links-1850163992)
 - [Lifehacker] [The Best Apps to Help You Clean Your Home](https://lifehacker.com/the-best-apps-to-help-you-clean-your-home-1850164086)
 - [Lifehacker] [Keep Cannoli Cream in Your Fridge at All Times](https://lifehacker.com/keep-cannoli-cream-in-your-fridge-at-all-times-1850165117)
