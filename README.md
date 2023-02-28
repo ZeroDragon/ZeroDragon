@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A first look at Svelte for React Developers](https://dev.to/jordharr/a-first-look-at-svelte-for-react-developers-4mb8)
+- [Lifehacker] [9 Extremely Niche &lpar;but Still Useful&rpar; Mobile Apps](https://lifehacker.com/9-extremely-niche-but-still-useful-mobile-apps-1850168829)
+- [Dev.to/JS] [Simple PHP AJAX using JQuery](https://dev.to/adeleyeayodeji/simple-php-ajax-using-jquery-2mcd)
+- [Dev.to/JS] [Event delegation in JavaScript, a good use case for binding to events on dynamically generated elements.](https://dev.to/kabakiantony/event-delegation-in-javascript-a-good-use-case-for-binding-to-events-on-dynamically-generated-elements-1fp3)
+- [Dev.to/JS] [You probably don&#39;t need loops](https://dev.to/tahazsh/you-probably-dont-need-loops-4lic)
 - [Lifehacker] [The Best Grocery Store Apps for Every Need](https://lifehacker.com/the-best-grocery-store-apps-for-every-need-1850168630)
 - [Lifehacker] [10 Professional Baking Tools I Use at Home](https://lifehacker.com/10-professional-baking-tools-i-use-at-home-1850168766)
 - [Dev.to/JS] [Intro a Custom Hooks](https://dev.to/sebastianmaciel/intro-a-custom-hooks-4blg)
@@ -36,12 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Flowchart editor dgrm.net / announcement / copy function](https://dev.to/alexboyko/flowchart-editor-dgrmnet-announcement-copy-function-1cj0)
 - [Lifehacker] [Use ‘Hydro-Dipping’ to Give Anything a Faux Marble Finish](https://lifehacker.com/use-hydro-dipping-to-give-anything-a-faux-marble-fini-1850168235)
 - [Dev.to/JS] [Five basic TypeScript Fundamentals you must know?](https://dev.to/syedateeq160/five-basic-typescript-fundamentals-you-must-know-4d5l)
-- [Dev.to/JS] [How to use different environment variables for development and production in Node.js](https://dev.to/istiak/how-to-use-different-environment-variables-for-development-and-production-in-nodejs-2dlh)
-- [Dev.to/JS] [Analytics with Django &amp; Chart.js - Simpler Than Expected](https://dev.to/qosha1/analytics-with-django-chartjs-simpler-than-expected-37li)
 - [Lifehacker] [That ‘Compliment’ Might Actually Be Offensive](https://lifehacker.com/that-compliment-might-actually-be-offensive-1850165585)
-- [Dev.to/JS] [Moonly weekly progress update #38](https://dev.to/moonly/moonly-weekly-progress-update-38-3d95)
 - [Lifehacker] [What to Do When You Can Smell Layoffs Coming](https://lifehacker.com/what-to-do-when-you-can-smell-layoffs-coming-1850162589)
-- [Dev.to/JS] [React.js, behind the scenes](https://dev.to/diogorodrigues/reactjs-behind-the-scenes-3cin)
 - [Lifehacker] [How to Get Off a Scammer&#39;s &#39;Sucker List&#39;](https://lifehacker.com/how-to-get-off-a-scammers-sucker-list-1850166269)
 - [Lifehacker] [How to Tell If Your Cat&#39;s Teeth Are Hurting](https://lifehacker.com/how-to-tell-if-your-cats-teeth-are-hurting-1850166169)
 - [Lifehacker] [The Best &lpar;and Most Affordable&rpar; Way to Store Old Video Games](https://lifehacker.com/the-best-and-most-affordable-way-to-store-old-video-g-1850166193)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This YouTube Video Could Crash Your Pixel](https://lifehacker.com/this-youtube-video-could-crash-your-pixel-1850163530)
 - [Lifehacker] [These SNAP Benefits Are About to Expire in 32 States](https://lifehacker.com/these-snap-benefits-are-about-to-expire-in-32-states-1850163339)
 - [Lifehacker] [What&#39;s New on HBO Max in March 2023](https://lifehacker.com/whats-new-on-hbo-max-in-march-2023-1850163361)
-- [Lifehacker] [Create Your Own Personal Streaming Service With Jellyfin](https://lifehacker.com/create-your-own-personal-streaming-service-with-jellyfi-1850162103)
-- [Lifehacker] [The Only Aldi Quarter Hack You&#39;ll Ever Need](https://lifehacker.com/the-only-aldi-quarter-hack-youll-ever-need-1850162914)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Create Your Own Personal Streaming Service With Jellyfin](https://lifehacker.com/create-your-own-personal-streaming-service-with-jellyfi-1850162103)<!-- TECH-POSTS:END -->
 
 ---
 
