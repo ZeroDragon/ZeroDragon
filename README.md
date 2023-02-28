@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create A Beautiful Hero Section Using React and TailwindCSS](https://dev.to/nitinfab/create-a-beautiful-hero-section-using-react-and-tailwindcss-274g)
+- [Dev.to/JS] [Why Modern JavaScript Matters](https://dev.to/david_bilsonn/why-modern-javascript-matters-3opk)
+- [Dev.to/JS] [Leveraging the Power of map&lpar;&rpar; in React.js: Best Practices for Efficient Data Rendering](https://dev.to/sidramaqbool/leveraging-the-power-of-map-in-reactjs-best-practices-for-efficient-data-rendering-3ioe)
 - [Dev.to/JS] [Paracetamol.ts💊| #21: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-21-explica-este-codigo-typescript-1m86)
 - [Dev.to/JS] [Clean code, de Avril Lavigne a batatas](https://dev.to/fabiodeandrade/clean-code-de-avril-lavigne-a-batatas-3c9m)
 - [Dev.to/JS] [You will love Next JS 13&lpar;beta&rpar; changes](https://dev.to/tkssharma/lets-explore-next-js-13-56c3)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Por que Elm é uma linguagem tão deliciosa?](https://dev.to/marciofrayze/por-que-elm-e-uma-linguagem-tao-deliciosa-41on)
 - [Dev.to/JS] [Interview Q.1&lpar;React&rpar;](https://dev.to/afrin127329/interview-q1react-12nd)
 - [Dev.to/JS] [Destructuring in Javascript](https://dev.to/sayantani96/destructuring-in-javascript-5851)
-- [Dev.to/JS] [Exit Function &lpar;Javascript&rpar;](https://dev.to/edgaras98/exit-function-javascript-7c8)
-- [Dev.to/JS] [Debugging JavaScript Like a Pro: Mastering the Different Types of Console Logs](https://dev.to/blackkspydo/debugging-javascript-like-a-pro-mastering-the-different-types-of-console-logs-11pa)
-- [Dev.to/JS] [Graphql easy/lazy documentation](https://dev.to/yutro/graphql-easylazy-documentation-251h)
 - [Lifehacker] [Why You Need to Stop Clicking Sponsored Google Links](https://lifehacker.com/why-you-need-to-stop-clicking-sponsored-google-links-1850163992)
 - [Lifehacker] [The Best Apps to Help You Clean Your Home](https://lifehacker.com/the-best-apps-to-help-you-clean-your-home-1850164086)
 - [Lifehacker] [Keep Cannoli Cream in Your Fridge at All Times](https://lifehacker.com/keep-cannoli-cream-in-your-fridge-at-all-times-1850165117)
