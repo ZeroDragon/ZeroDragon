@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Regular Expressions—a Rite of Passage: Completing the Application](https://dev.to/rhieger/regular-expressions-a-rite-of-passage-completing-the-application-6kj)
+- [Dev.to/JS] [Introducing... The 2023 College Javascript Tournament](https://dev.to/lentsbraydyn/introducing-the-2023-college-javascript-tournament-3eml)
 - [Lifehacker] [Why You Need to Stop Clicking Sponsored Google Links](https://lifehacker.com/why-you-need-to-stop-clicking-sponsored-google-links-1850163992)
 - [Dev.to/JS] [First Look At Pinia: A VueJS State Management System](https://dev.to/karleb/first-look-at-pinia-a-vuejs-state-management-system-4odj)
 - [Lifehacker] [The Best Apps to Help You Clean Your Home](https://lifehacker.com/the-best-apps-to-help-you-clean-your-home-1850164086)
@@ -45,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimizing Performance in React: Tips and Tricks](https://dev.to/0xdarknight_/optimizing-performance-in-react-tips-and-tricks-7k4)
 - [Dev.to/JS] [Custom Hooks - useDebounce&lpar;&rpar;](https://dev.to/mertcannkocerr/custom-hooks-usedebounce-p7h)
 - [Lifehacker] [These SNAP Benefits Are About to Expire in 32 States](https://lifehacker.com/these-snap-benefits-are-about-to-expire-in-32-states-1850163339)
-- [Dev.to/JS] [Explaining &quot;this&quot; Keyword In JavaScript Like You&#39;re Five](https://dev.to/vayo/explaining-this-keyword-in-javascript-like-youre-five-191)
-- [Dev.to/JS] [10 Best React Libraries for Building Amazing User Interfaces](https://dev.to/0xdarknight_/10-best-react-libraries-for-building-amazing-user-interfaces-2mll)
 - [Lifehacker] [What&#39;s New on HBO Max in March 2023](https://lifehacker.com/whats-new-on-hbo-max-in-march-2023-1850163361)
 - [Lifehacker] [Create Your Own Personal Streaming Service With Jellyfin](https://lifehacker.com/create-your-own-personal-streaming-service-with-jellyfi-1850162103)
 - [Lifehacker] [The Only Aldi Quarter Hack You&#39;ll Ever Need](https://lifehacker.com/the-only-aldi-quarter-hack-youll-ever-need-1850162914)
