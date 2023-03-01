@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Functions Are Killing Your React App&#39;s Performance](https://dev.to/crutchcorn/functions-are-killing-your-react-apps-performance-222a)
+- [Dev.to/JS] [3 Programming Languages That You Need to Learn for Web3 Development](https://dev.to/labslumos/3-programming-languages-that-you-need-to-learn-for-web3-development-1i86)
+- [Dev.to/JS] [Understanding DOM&lpar;Document Object Model&rpar;](https://dev.to/anothereader_22/understanding-domdocument-object-model-1c32)
 - [Dev.to/JS] [FANG Interview Success: Learn These 5 LeetCode Algorithm Patterns](https://dev.to/foxbuka/fang-interview-success-learn-these-5-leetcode-algorithm-patterns-2g2f)
 - [Dev.to/JS] [How recreate javascript array method without filter&lpar;&rpar;, sort&lpar;&rpar;, map&lpar;&rpar; and reduce&lpar;&rpar; ?](https://dev.to/rardooba/how-recreate-javascript-array-method-without-filter-sort-map-and-reduce--46gk)
 - [Dev.to/JS] [How to Highlight Duplicate Rows in Google Sheets?](https://dev.to/kcl/how-to-highlight-duplicate-rows-in-google-sheets-19mo)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Most Popular Backend Frameworks for Web Development in 2023](https://dev.to/viplavzenesys/the-most-popular-backend-frameworks-for-web-development-in-2023-1hi5)
 - [Dev.to/JS] [Top 9 JavaScript Flavours](https://dev.to/hidaytrahman/top-9-javascript-flavours-nb6)
 - [Dev.to/JS] [How to learn UI/UX Design?-Volume](https://dev.to/mathivanan8/how-to-learn-uiux-design-volume-51im)
-- [Dev.to/JS] [Differences Between Component and Module in Angular](https://dev.to/himanshudevgupta/differences-between-component-and-module-in-angular-2ih7)
-- [Dev.to/JS] [Merge Sort On Array](https://dev.to/zeeshanali0704/merge-sort-on-array-3h5i)
-- [Dev.to/JS] [Improving your React Native code using Path Aliases](https://dev.to/luizrebelatto/improving-your-react-native-code-using-path-aliases-138h)
 - [Lifehacker] [What Is Erythritol &lpar;and How Bad Is It for You&rpar;?](https://lifehacker.com/what-is-erythritol-and-how-bad-is-it-for-you-1850170222)
 - [Lifehacker] [What&#39;s New on Prime Video in March 2023](https://lifehacker.com/whats-new-on-prime-video-in-march-2023-1850169834)
 - [Lifehacker] [Get These Gift Card Deals While You Can](https://lifehacker.com/get-these-gift-card-deals-while-you-can-1850168858)
