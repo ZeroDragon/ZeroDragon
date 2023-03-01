@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Stop Using Express.js in 2023](https://dev.to/ronanru/stop-using-expressjs-in-202-3kc)
+- [Dev.to/JS] [How to use the spread operator &lpar;...&rpar; in React](https://dev.to/ladoppiaesse/how-to-use-the-spread-operator-in-react-3oni)
 - [Dev.to/JS] [Puzzle Classic &quot;Baba is You&quot; recreated in JavaScript - Behind the Code](https://dev.to/michi/puzzle-classic-baba-is-you-recreated-in-javascript-behind-the-code-f7f)
 - [Dev.to/JS] [Overview of the React.js framework](https://dev.to/mahmoudessam/overview-of-the-reactjs-framework-4ieg)
 - [Dev.to/JS] [🙏 Cultural Differences in Frontend Development 🌍](https://dev.to/dhrn/cultural-differences-in-frontend-development-49gp)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Hulu in March 2023](https://lifehacker.com/whats-new-on-hulu-in-march-2023-1850169381)
 - [Dev.to/JS] [ProgressBars- React](https://dev.to/986913/progressbars-react-5c5n)
 - [Dev.to/JS] [JavaScript Tutorial Series: Intro to JS DOM](https://dev.to/fullstackjo/javascript-tutorial-series-intro-to-js-dom-3j28)
-- [Dev.to/JS] [Call Stack - A simplified intro](https://dev.to/kurgeye/call-stack-a-simplified-intro-c74)
 - [Lifehacker] [You Can Finally Search for Comments in Reddit Threads](https://lifehacker.com/you-can-finally-search-for-comments-in-reddit-threads-1850168769)
-- [Dev.to/JS] [A first look at Svelte for React Developers](https://dev.to/jordharr/a-first-look-at-svelte-for-react-developers-4mb8)
 - [Lifehacker] [9 Extremely Niche &lpar;but Still Useful&rpar; Mobile Apps](https://lifehacker.com/9-extremely-niche-but-still-useful-mobile-apps-1850168829)
 - [Lifehacker] [The Best Grocery Store Apps for Every Need](https://lifehacker.com/the-best-grocery-store-apps-for-every-need-1850168630)
 - [Lifehacker] [10 Professional Baking Tools I Use at Home](https://lifehacker.com/10-professional-baking-tools-i-use-at-home-1850168766)
