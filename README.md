@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Here&#39;s the Latest Date You&#39;ll Receive Tax Forms This Year](https://lifehacker.com/heres-the-latest-date-youll-receive-tax-forms-this-year-1850173434)
+- [Dev.to/JS] [Global Error Management in Nuxt.js Projects](https://dev.to/muhammederdinc/global-error-management-in-nuxtjs-projects-3d16)
+- [Dev.to/JS] [Nuxt.js Projelerinde Global Hata Yönetimi](https://dev.to/muhammederdinc/nuxtjs-projelerinde-global-hata-yonetimi-22d4)
+- [Dev.to/JS] [Graduated: Working from home.](https://dev.to/mweerb1976/graduated-working-from-home-4ie8)
 - [Lifehacker] [You Can Make a Tiny Yard Look a Lot Bigger](https://lifehacker.com/you-can-make-a-tiny-yard-look-a-lot-bigger-1850171585)
 - [Lifehacker] [You Can Get a Free Year of Tripadvisor Plus Right Now](https://lifehacker.com/you-can-get-a-free-year-of-tripadvisor-plus-right-now-1850173915)
 - [Lifehacker] [How to Cultivate a Houseplant Collection on a Budget](https://lifehacker.com/how-to-cultivate-a-houseplant-collection-on-a-budget-1850168112)
@@ -40,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in March 2023 &lpar;So Far&rpar;](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1850170782)
 - [Dev.to/JS] [JSTools Weekly — ✨2023#8: TS-Reset: A ‘CSS reset’ For TS, Improving JS Types](https://dev.to/jstoolsweekly/jstools-weekly-20238-ts-reset-a-css-reset-for-ts-improving-js-types-1hk7)
 - [Dev.to/JS] [JSTools Weekly — 🔥2023#8: YoBulk: CSV Importer By GPT3](https://dev.to/jstoolsweekly/jstools-weekly-20238-yobulk-csv-importer-by-gpt3-4ken)
-- [Dev.to/JS] [JSTools Weekly — ⭐2023#8: Deno v1.31, Next v13.2, Gatsby v5.7](https://dev.to/jstoolsweekly/jstools-weekly-20238-deno-v131-next-v132-gatsby-v57-44dj)
-- [Dev.to/JS] [JavaScript Tutorial Series: Nodes and elements](https://dev.to/fullstackjo/javascript-tutorial-series-nodes-and-elements-15pk)
-- [Dev.to/JS] [Use Payment Links as an embedded button](https://dev.to/stripe/use-payment-links-as-an-embedded-button-1bdp)
 - [Lifehacker] [Your $2 Bill Might Actually Be Worth a Lot More](https://lifehacker.com/your-2-bill-might-actually-be-worth-a-lot-more-1850170790)
 - [Lifehacker] [Watch ‘Ted Lasso’ for Free With This Apple TV+ Deal](https://lifehacker.com/watch-ted-lasso-for-free-with-this-apple-tv-deal-1850170102)
 - [Lifehacker] [Hide Dog Treats in Your Dish Towels](https://lifehacker.com/hide-dog-treats-in-your-dish-towels-1850170131)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Grocery Store Apps for Every Need](https://lifehacker.com/the-best-grocery-store-apps-for-every-need-1850168630)
 - [Lifehacker] [10 Professional Baking Tools I Use at Home](https://lifehacker.com/10-professional-baking-tools-i-use-at-home-1850168766)
 - [Lifehacker] [Stop Using Cheap Plastic Drywall Anchors](https://lifehacker.com/stop-using-cheap-plastic-drywall-anchors-1850168414)
-- [Lifehacker] [Don’t Trust Your iPhone’s Passcode to Keep Your Data Safe](https://lifehacker.com/don-t-trust-your-iphone-s-passcode-to-keep-your-data-sa-1850166806)
-- [Lifehacker] [Use ‘Hydro-Dipping’ to Give Anything a Faux Marble Finish](https://lifehacker.com/use-hydro-dipping-to-give-anything-a-faux-marble-fini-1850168235)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Trust Your iPhone’s Passcode to Keep Your Data Safe](https://lifehacker.com/don-t-trust-your-iphone-s-passcode-to-keep-your-data-sa-1850166806)<!-- TECH-POSTS:END -->
 
 ---
 
