@@ -23,21 +23,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Renderprops vs Custom Hooks: Which one to use?](https://dev.to/chaituknag/renderprops-vs-custom-hooks-which-one-to-use-5a0)
+- [Dev.to/JS] [How to save a string to clipboard in JavaScript](https://dev.to/david_bilsonn/how-to-save-a-string-to-clipboard-in-javascript-13ie)
+- [Lifehacker] [Hide Dog Treats in Your Dish Towels](https://lifehacker.com/hide-dog-treats-in-your-dish-towels-1850170131)
+- [Dev.to/JS] [Best Practices for Using the filter&lpar;&rpar; Method in React.js](https://dev.to/sidramaqbool/best-practices-for-using-the-filter-method-in-reactjs-3dog)
+- [Dev.to/JS] [Advantages and disadvantages of server side rendering in react.js -Frontend Interview Question](https://dev.to/saurabhnative/advantages-and-disadvantages-of-server-side-rendering-in-reactjs-frontend-interview-question-55b3)
+- [Dev.to/JS] [How to write great logs](https://dev.to/borysshulyak/how-to-write-great-logs-3ch8)
+- [Dev.to/JS] [How to use Explicit Content Detection API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-explicit-content-detection-api-with-javascript-in-5-minutes-36ji)
+- [Dev.to/JS] [Next.js 13 special files, data fetching and head tag — page, layout and template](https://dev.to/oskidev/nextjs-13-special-files-data-fetching-and-head-tag-page-layout-and-template-1hh)
+- [Lifehacker] [The Most Strategic Time to Pay Your Credit Card Balance](https://lifehacker.com/the-most-strategic-time-to-pay-your-credit-card-balance-1850169559)
+- [Dev.to/JS] [How I used LangChain 🦜🔗 and GPT-3 to Automate my Boss 🤖](https://dev.to/ironcladdev/how-i-used-langchain-and-gpt-3-to-automate-my-boss-3bk4)
 - [Dev.to/JS] [Obtener el valor mínimo y máximo de un array de objetos en JavaScript](https://dev.to/asjordi/obtener-el-valor-minimo-y-maximo-de-un-array-de-objetos-en-javascript-2066)
+- [Lifehacker] [What to Do When a Company Won’t Honor a Warranty](https://lifehacker.com/what-to-do-when-a-company-won-t-honor-a-warranty-1850169034)
 - [Dev.to/JS] [Removing Duplicates In Arrays](https://dev.to/oluwatrillions/removing-duplicates-in-arrays-1lof)
 - [Dev.to/JS] [Using HTML attribute `inert` to disable copy paste and user events on a web page/elements](https://dev.to/kipyegonline/using-html-attribute-inert-to-disable-copy-paste-and-user-events-on-a-web-pageelements-17ml)
 - [Lifehacker] [Your Air Fryer Isn&#39;t a Toaster](https://lifehacker.com/your-air-fryer-isnt-a-toaster-1850169974)
 - [Dev.to/JS] [Typescript as a javascript developer - I](https://dev.to/soumavabanerjee/typescript-as-a-javascript-developer-i-3ij7)
-- [Dev.to/JS] [Image Processing with JavaScript](https://dev.to/mohamedsoliman21/image-processing-with-javascript-3k67)
 - [Lifehacker] [Please Do Not Try to Sharpen Your Blender Blades With Eggshells](https://lifehacker.com/please-do-not-try-to-sharpen-your-blender-blades-with-e-1850169625)
-- [Dev.to/JS] [Accordion - JS](https://dev.to/986913/accordion-js-1eip)
-- [Dev.to/JS] [JavaScript - Event Loop](https://dev.to/nascimento_/javascript-event-loop-5636)
-- [Dev.to/JS] [These courses will help you land your first job for less than $100](https://dev.to/albert_hadacek/these-courses-will-help-you-land-your-first-job-for-less-than-100-16ph)
 - [Lifehacker] [15 Times Oscar-Winners Slummed It in Popcorn Movies](https://lifehacker.com/15-times-oscar-winners-slummed-it-in-popcorn-movies-1850163179)
-- [Dev.to/JS] [Why SVG over Other Image formats?](https://dev.to/anuj8126/why-svg-over-other-image-formats-2041)
-- [Dev.to/JS] [What CHAT GPT Resume Tips for Frontend Developers](https://dev.to/anuj8126/what-chat-gpt-resume-tips-for-frontend-developers-2h3o)
-- [Dev.to/JS] [Processing massive amounts of data on demand without crashing nodejs main thread](https://dev.to/wesleymreng7/processing-massive-amount-of-data-on-demand-without-crashing-nodejs-main-thread-2epl)
-- [Dev.to/JS] [Loops and Iteration in JavaScript](https://dev.to/gcodes/loops-and-iteration-in-javascript-2mpd)
 - [Lifehacker] [How to Survive Quicksand, Falling Elevators, and 10 Other Movie ‘Dangers’](https://lifehacker.com/how-to-survive-quicksand-falling-elevators-and-10-oth-1850165549)
 - [Lifehacker] [What Is Erythritol &lpar;and How Bad Is It for You&rpar;?](https://lifehacker.com/what-is-erythritol-and-how-bad-is-it-for-you-1850170222)
 - [Lifehacker] [What&#39;s New on Prime Video in March 2023](https://lifehacker.com/whats-new-on-prime-video-in-march-2023-1850169834)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Easier Mashed Potatoes With a Cooling Rack](https://lifehacker.com/make-easier-mashed-potatoes-with-a-cooling-rack-1850165708)
 - [Lifehacker] [11 Ways to Make a Frozen Pizza Less Sad](https://lifehacker.com/11-ways-to-make-a-frozen-pizza-less-sad-1850158066)
 - [Lifehacker] [Why You Need to Stop Clicking Sponsored Google Links](https://lifehacker.com/why-you-need-to-stop-clicking-sponsored-google-links-1850163992)
-- [Lifehacker] [The Best Apps to Help You Clean Your Home](https://lifehacker.com/the-best-apps-to-help-you-clean-your-home-1850164086)
-- [Lifehacker] [Keep Cannoli Cream in Your Fridge at All Times](https://lifehacker.com/keep-cannoli-cream-in-your-fridge-at-all-times-1850165117)
-- [Lifehacker] [The Cheapest iPad Just Got Cheaper](https://lifehacker.com/the-cheapest-ipad-just-got-cheaper-1850164778)
-- [Lifehacker] [What&#39;s New on Disney+ in March 2023](https://lifehacker.com/whats-new-on-disney-in-march-2023-1850164481)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Apps to Help You Clean Your Home](https://lifehacker.com/the-best-apps-to-help-you-clean-your-home-1850164086)<!-- TECH-POSTS:END -->
 
 ---
 
