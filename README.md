@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Merge Sort On Array](https://dev.to/zeeshanali0704/merge-sort-on-array-3h5i)
+- [Dev.to/JS] [Improving your React Native code using Path Aliases](https://dev.to/luizrebelatto/improving-your-react-native-code-using-path-aliases-138h)
 - [Dev.to/JS] [Stop Using Express.js in 2023](https://dev.to/ronanru/stop-using-expressjs-in-202-3kc)
 - [Dev.to/JS] [How to use the spread operator &lpar;...&rpar; in React](https://dev.to/ladoppiaesse/how-to-use-the-spread-operator-in-react-3oni)
 - [Dev.to/JS] [Puzzle Classic &quot;Baba is You&quot; recreated in JavaScript - Behind the Code](https://dev.to/michi/puzzle-classic-baba-is-you-recreated-in-javascript-behind-the-code-f7f)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get These Gift Card Deals While You Can](https://lifehacker.com/get-these-gift-card-deals-while-you-can-1850168858)
 - [Dev.to/JS] [ProgressBars - JS](https://dev.to/986913/progressbars-js-36ik)
 - [Lifehacker] [What&#39;s New on Hulu in March 2023](https://lifehacker.com/whats-new-on-hulu-in-march-2023-1850169381)
-- [Dev.to/JS] [ProgressBars- React](https://dev.to/986913/progressbars-react-5c5n)
-- [Dev.to/JS] [JavaScript Tutorial Series: Intro to JS DOM](https://dev.to/fullstackjo/javascript-tutorial-series-intro-to-js-dom-3j28)
 - [Lifehacker] [You Can Finally Search for Comments in Reddit Threads](https://lifehacker.com/you-can-finally-search-for-comments-in-reddit-threads-1850168769)
 - [Lifehacker] [9 Extremely Niche &lpar;but Still Useful&rpar; Mobile Apps](https://lifehacker.com/9-extremely-niche-but-still-useful-mobile-apps-1850168829)
 - [Lifehacker] [The Best Grocery Store Apps for Every Need](https://lifehacker.com/the-best-grocery-store-apps-for-every-need-1850168630)
