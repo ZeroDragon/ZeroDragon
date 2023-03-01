@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Virtual Color Mixing to Extend Your Palette in React/JavaScript](https://dev.to/bytebodger/using-virtual-color-mixing-to-extend-your-palette-in-reactjavascript-l41)
+- [Dev.to/JS] [Top CSS-In-JS libraries, Compared](https://dev.to/haidar_ezio/top-css-in-js-libraries-compared-2o14)
+- [Lifehacker] [What Is Erythritol &lpar;and How Bad Is It for You&rpar;?](https://lifehacker.com/what-is-erythritol-and-how-bad-is-it-for-you-1850170222)
 - [Dev.to/JS] [How To Deal With “Element is not clickable at point” Exception Using Selenium](https://dev.to/lambdatest/how-to-deal-with-element-is-not-clickable-at-point-exception-using-selenium-49h2)
 - [Lifehacker] [What&#39;s New on Prime Video in March 2023](https://lifehacker.com/whats-new-on-prime-video-in-march-2023-1850169834)
 - [Lifehacker] [Get These Gift Card Deals While You Can](https://lifehacker.com/get-these-gift-card-deals-while-you-can-1850168858)
@@ -41,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Professional Baking Tools I Use at Home](https://lifehacker.com/10-professional-baking-tools-i-use-at-home-1850168766)
 - [Dev.to/JS] [Intro a Custom Hooks](https://dev.to/sebastianmaciel/intro-a-custom-hooks-4blg)
 - [Lifehacker] [Stop Using Cheap Plastic Drywall Anchors](https://lifehacker.com/stop-using-cheap-plastic-drywall-anchors-1850168414)
-- [Dev.to/JS] [Teacher Feature: Christopher Lis](https://dev.to/michaellarocca/teacher-feature-christopher-lis-19n5)
-- [Dev.to/JS] [Learn and programming mind of developer](https://dev.to/kaustavkarmakar2/learn-and-programming-mind-of-developer-3k52)
 - [Lifehacker] [Don’t Trust Your iPhone’s Passcode to Keep Your Data Safe](https://lifehacker.com/don-t-trust-your-iphone-s-passcode-to-keep-your-data-sa-1850166806)
 - [Lifehacker] [Use ‘Hydro-Dipping’ to Give Anything a Faux Marble Finish](https://lifehacker.com/use-hydro-dipping-to-give-anything-a-faux-marble-fini-1850168235)
 - [Lifehacker] [That ‘Compliment’ Might Actually Be Offensive](https://lifehacker.com/that-compliment-might-actually-be-offensive-1850165585)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Avoid Going Broke When a Loved One Dies](https://lifehacker.com/how-to-avoid-going-broke-when-a-loved-one-dies-1850164088)
 - [Lifehacker] [The 7 Deadly Sins of Learning a New Hobby](https://lifehacker.com/the-7-deadly-sins-of-learning-a-new-hobby-1850163682)
 - [Lifehacker] [All the New Android Features Google Announced Today](https://lifehacker.com/all-the-new-android-features-google-announced-today-1850164030)
-- [Lifehacker] [Get a Free Short Stack at IHOP for National Pancake Day](https://lifehacker.com/get-a-free-short-stack-at-ihop-for-national-pancake-day-1850164139)
-- [Lifehacker] [Go Ahead, Burn Dinner &lpar;a Little&rpar;](https://lifehacker.com/go-ahead-burn-dinner-a-little-1850163092)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Get a Free Short Stack at IHOP for National Pancake Day](https://lifehacker.com/get-a-free-short-stack-at-ihop-for-national-pancake-day-1850164139)<!-- TECH-POSTS:END -->
 
 ---
 
