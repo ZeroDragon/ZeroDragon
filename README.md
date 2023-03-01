@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Upgrade text-davinci-003 to gpt-3.5-turbo](https://dev.to/luckey/how-to-upgrade-text-davinci-003-to-gpt-35-turbo-2b6e)
+- [Lifehacker] [Security Keys Are the Best Way to Protect Your Apple ID](https://lifehacker.com/security-keys-are-the-best-way-to-protect-your-apple-id-1850172412)
+- [Dev.to/JS] [Server-render your SPA in CI at deploy time 📸](https://dev.to/bryce/server-render-your-spa-in-ci-at-deploy-time-2eag)
 - [Lifehacker] [7 Todoist Features You’re Not Using &lpar;but Should Be&rpar;](https://lifehacker.com/7-todoist-features-you-re-not-using-but-should-be-1850171967)
 - [Dev.to/JS] [How to Merge Excel XLSX Workbooks in Your JavaScript Application](https://dev.to/grapecity/how-to-merge-excel-xlsx-workbooks-in-your-javascript-application-3dbk)
 - [Lifehacker] [How to Get iMessage on Windows](https://lifehacker.com/how-to-get-imessage-on-windows-1850170042)
@@ -37,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JSTools Weekly — ⭐2023#8: Deno v1.31, Next v13.2, Gatsby v5.7](https://dev.to/jstoolsweekly/jstools-weekly-20238-deno-v131-next-v132-gatsby-v57-44dj)
 - [Dev.to/JS] [JavaScript Tutorial Series: Nodes and elements](https://dev.to/fullstackjo/javascript-tutorial-series-nodes-and-elements-15pk)
 - [Dev.to/JS] [Use Payment Links as an embedded button](https://dev.to/stripe/use-payment-links-as-an-embedded-button-1bdp)
-- [Dev.to/JS] [Experimental Performance Insights Panel in Chrome DevTools](https://dev.to/builderio/experimental-performance-insights-panel-in-chrome-devtools-4i2j)
 - [Lifehacker] [Your $2 Bill Might Actually Be Worth a Lot More](https://lifehacker.com/your-2-bill-might-actually-be-worth-a-lot-more-1850170790)
-- [Dev.to/JS] [JavaScript DOM Manipulation Cheatsheet✨](https://dev.to/codewithtee/javascript-dom-manipulation-cheatsheet-2d18)
 - [Lifehacker] [Watch ‘Ted Lasso’ for Free With This Apple TV+ Deal](https://lifehacker.com/watch-ted-lasso-for-free-with-this-apple-tv-deal-1850170102)
 - [Lifehacker] [Hide Dog Treats in Your Dish Towels](https://lifehacker.com/hide-dog-treats-in-your-dish-towels-1850170131)
 - [Lifehacker] [The Most Strategic Time to Pay Your Credit Card Balance](https://lifehacker.com/the-most-strategic-time-to-pay-your-credit-card-balance-1850169559)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use ‘Hydro-Dipping’ to Give Anything a Faux Marble Finish](https://lifehacker.com/use-hydro-dipping-to-give-anything-a-faux-marble-fini-1850168235)
 - [Lifehacker] [That ‘Compliment’ Might Actually Be Offensive](https://lifehacker.com/that-compliment-might-actually-be-offensive-1850165585)
 - [Lifehacker] [What to Do When You Can Smell Layoffs Coming](https://lifehacker.com/what-to-do-when-you-can-smell-layoffs-coming-1850162589)
-- [Lifehacker] [How to Get Off a Scammer&#39;s &#39;Sucker List&#39;](https://lifehacker.com/how-to-get-off-a-scammers-sucker-list-1850166269)
-- [Lifehacker] [How to Tell If Your Cat&#39;s Teeth Are Hurting](https://lifehacker.com/how-to-tell-if-your-cats-teeth-are-hurting-1850166169)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get Off a Scammer&#39;s &#39;Sucker List&#39;](https://lifehacker.com/how-to-get-off-a-scammers-sucker-list-1850166269)<!-- TECH-POSTS:END -->
 
 ---
 
