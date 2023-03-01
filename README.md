@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [7 Todoist Features You’re Not Using &lpar;but Should Be&rpar;](https://lifehacker.com/7-todoist-features-you-re-not-using-but-should-be-1850171967)
+- [Dev.to/JS] [How to Merge Excel XLSX Workbooks in Your JavaScript Application](https://dev.to/grapecity/how-to-merge-excel-xlsx-workbooks-in-your-javascript-application-3dbk)
+- [Lifehacker] [How to Get iMessage on Windows](https://lifehacker.com/how-to-get-imessage-on-windows-1850170042)
+- [Dev.to/JS] [The Top 10 React UI Component Libraries](https://dev.to/kalinacode/the-top-10-react-ui-component-libraries-51mn)
+- [Dev.to/JS] [Prevent re-loading](https://dev.to/lausuarez02/prevent-re-loading-3d4m)
+- [Dev.to/JS] [JavaScript DOM Changes](https://dev.to/nsantiago/javascript-dom-changes-39me)
 - [Lifehacker] [Make a Crispy Tapioca Shell With Only Two Ingredients](https://lifehacker.com/make-a-crispy-tapioca-shell-with-only-two-ingredients-1850170397)
 - [Dev.to/JS] [Visualizing your photos on a map with React Native](https://dev.to/bohdanstupak1/visualizing-your-photos-on-a-map-with-react-native-212c)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in March 2023 &lpar;So Far&rpar;](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1850170782)
@@ -35,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your $2 Bill Might Actually Be Worth a Lot More](https://lifehacker.com/your-2-bill-might-actually-be-worth-a-lot-more-1850170790)
 - [Dev.to/JS] [JavaScript DOM Manipulation Cheatsheet✨](https://dev.to/codewithtee/javascript-dom-manipulation-cheatsheet-2d18)
 - [Lifehacker] [Watch ‘Ted Lasso’ for Free With This Apple TV+ Deal](https://lifehacker.com/watch-ted-lasso-for-free-with-this-apple-tv-deal-1850170102)
-- [Dev.to/JS] [ChatGPT - Complex Coding Challenges: Part 1](https://dev.to/damiensedgwick/using-chatgpt-to-solve-complex-coding-challenges-part-1-4b7n)
-- [Dev.to/JS] [React vs Signals: 10 Years Later](https://dev.to/this-is-learning/react-vs-signals-10-years-later-3k71)
-- [Dev.to/JS] [Getting Eta to work with Deno Deploy](https://dev.to/christiandale/getting-eta-to-work-with-deno-deploy-45hc)
-- [Dev.to/JS] [Renderprops vs Custom Hooks: Which one to use?](https://dev.to/chaituknag/renderprops-vs-custom-hooks-which-one-to-use-5a0)
 - [Lifehacker] [Hide Dog Treats in Your Dish Towels](https://lifehacker.com/hide-dog-treats-in-your-dish-towels-1850170131)
 - [Lifehacker] [The Most Strategic Time to Pay Your Credit Card Balance](https://lifehacker.com/the-most-strategic-time-to-pay-your-credit-card-balance-1850169559)
 - [Lifehacker] [What to Do When a Company Won’t Honor a Warranty](https://lifehacker.com/what-to-do-when-a-company-won-t-honor-a-warranty-1850169034)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [That ‘Compliment’ Might Actually Be Offensive](https://lifehacker.com/that-compliment-might-actually-be-offensive-1850165585)
 - [Lifehacker] [What to Do When You Can Smell Layoffs Coming](https://lifehacker.com/what-to-do-when-you-can-smell-layoffs-coming-1850162589)
 - [Lifehacker] [How to Get Off a Scammer&#39;s &#39;Sucker List&#39;](https://lifehacker.com/how-to-get-off-a-scammers-sucker-list-1850166269)
-- [Lifehacker] [How to Tell If Your Cat&#39;s Teeth Are Hurting](https://lifehacker.com/how-to-tell-if-your-cats-teeth-are-hurting-1850166169)
-- [Lifehacker] [The Best &lpar;and Most Affordable&rpar; Way to Store Old Video Games](https://lifehacker.com/the-best-and-most-affordable-way-to-store-old-video-g-1850166193)
-- [Lifehacker] [Find a Relationship by &#39;Home Depot Dating&#39;](https://lifehacker.com/find-a-relationship-by-home-depot-dating-1850165628)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If Your Cat&#39;s Teeth Are Hurting](https://lifehacker.com/how-to-tell-if-your-cats-teeth-are-hurting-1850166169)<!-- TECH-POSTS:END -->
 
 ---
 
