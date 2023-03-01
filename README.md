@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What &amp; Why Syntax In Programing??](https://dev.to/shaikhmd007/what-why-syntax-in-programing-31nk)
+- [Dev.to/JS] [User management with Supabase](https://dev.to/guillaumeduhan/user-management-with-supabase-b93)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Analisando o orçamento.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-analisando-o-orcamento-154o)
+- [Dev.to/JS] [Learning How To Code | Lessons I have learned](https://dev.to/brendamichellle/learning-how-to-code-lessons-i-have-learned-54mg)
 - [Dev.to/JS] [Local Storage and Session Storage - Web Storage API](https://dev.to/nikolasbarwicki/local-storage-and-session-storage-web-storage-api-4f86)
 - [Dev.to/JS] [How to Use Image Enhancers to Improve your Photos](https://dev.to/ideradevtools/how-to-use-image-enhancers-to-improve-your-photos-1b9e)
 - [Dev.to/JS] [Convert HTML To Notion Blocks](https://dev.to/zirkelc/convert-html-to-notion-blocks-3fcm)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Console Tips. Other console tools in JavaScript](https://dev.to/himanshudevgupta/javascript-console-tips-other-console-tools-in-javascript-2l2e)
 - [Dev.to/JS] [Top 5+ Free Tailwind CSS React Admin Dashboards &amp; Templates for 2023](https://dev.to/fredy/top-5-free-tailwind-css-react-admin-dashboards-templates-for-2023-ob)
 - [Dev.to/JS] [Functions Are Killing Your React App&#39;s Performance](https://dev.to/crutchcorn/functions-are-killing-your-react-apps-performance-222a)
-- [Dev.to/JS] [3 Programming Languages That You Need to Learn for Web3 Development](https://dev.to/labslumos/3-programming-languages-that-you-need-to-learn-for-web3-development-1i86)
-- [Dev.to/JS] [Understanding DOM&lpar;Document Object Model&rpar;](https://dev.to/anothereader_22/understanding-domdocument-object-model-1c32)
-- [Dev.to/JS] [FANG Interview Success: Learn These 5 LeetCode Algorithm Patterns](https://dev.to/foxbuka/fang-interview-success-learn-these-5-leetcode-algorithm-patterns-2g2f)
-- [Dev.to/JS] [How recreate javascript array method without filter&lpar;&rpar;, sort&lpar;&rpar;, map&lpar;&rpar; and reduce&lpar;&rpar; ?](https://dev.to/rardooba/how-recreate-javascript-array-method-without-filter-sort-map-and-reduce--46gk)
 - [Lifehacker] [What Is Erythritol &lpar;and How Bad Is It for You&rpar;?](https://lifehacker.com/what-is-erythritol-and-how-bad-is-it-for-you-1850170222)
 - [Lifehacker] [What&#39;s New on Prime Video in March 2023](https://lifehacker.com/whats-new-on-prime-video-in-march-2023-1850169834)
 - [Lifehacker] [Get These Gift Card Deals While You Can](https://lifehacker.com/get-these-gift-card-deals-while-you-can-1850168858)
