@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [FANG Interview Success: Learn These 5 LeetCode Algorithm Patterns](https://dev.to/foxbuka/fang-interview-success-learn-these-5-leetcode-algorithm-patterns-2g2f)
+- [Dev.to/JS] [How recreate javascript array method without filter&lpar;&rpar;, sort&lpar;&rpar;, map&lpar;&rpar; and reduce&lpar;&rpar; ?](https://dev.to/rardooba/how-recreate-javascript-array-method-without-filter-sort-map-and-reduce--46gk)
+- [Dev.to/JS] [How to Highlight Duplicate Rows in Google Sheets?](https://dev.to/kcl/how-to-highlight-duplicate-rows-in-google-sheets-19mo)
+- [Dev.to/JS] [Ultimate blog website starter kit](https://dev.to/shreyvijayvargiya/ultimate-blog-website-starter-kit-4pdm)
 - [Dev.to/JS] [Top 7 Things for React Native Developer to Follow](https://dev.to/wilkuintheair/top-7-things-for-react-native-developer-to-follow-3a48)
 - [Dev.to/JS] [Weekly web development resources #138](https://dev.to/vincenius/weekly-web-development-resources-138-ooh)
 - [Dev.to/JS] [The Most Popular Backend Frameworks for Web Development in 2023](https://dev.to/viplavzenesys/the-most-popular-backend-frameworks-for-web-development-in-2023-1hi5)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Differences Between Component and Module in Angular](https://dev.to/himanshudevgupta/differences-between-component-and-module-in-angular-2ih7)
 - [Dev.to/JS] [Merge Sort On Array](https://dev.to/zeeshanali0704/merge-sort-on-array-3h5i)
 - [Dev.to/JS] [Improving your React Native code using Path Aliases](https://dev.to/luizrebelatto/improving-your-react-native-code-using-path-aliases-138h)
-- [Dev.to/JS] [Stop Using Express.js in 2023](https://dev.to/ronanru/stop-using-expressjs-in-202-3kc)
-- [Dev.to/JS] [How to use the spread operator &lpar;...&rpar; in React](https://dev.to/ladoppiaesse/how-to-use-the-spread-operator-in-react-3oni)
-- [Dev.to/JS] [Puzzle Classic &quot;Baba is You&quot; recreated in JavaScript - Behind the Code](https://dev.to/michi/puzzle-classic-baba-is-you-recreated-in-javascript-behind-the-code-f7f)
-- [Dev.to/JS] [Overview of the React.js framework](https://dev.to/mahmoudessam/overview-of-the-reactjs-framework-4ieg)
 - [Lifehacker] [What Is Erythritol &lpar;and How Bad Is It for You&rpar;?](https://lifehacker.com/what-is-erythritol-and-how-bad-is-it-for-you-1850170222)
 - [Lifehacker] [What&#39;s New on Prime Video in March 2023](https://lifehacker.com/whats-new-on-prime-video-in-march-2023-1850169834)
 - [Lifehacker] [Get These Gift Card Deals While You Can](https://lifehacker.com/get-these-gift-card-deals-while-you-can-1850168858)
