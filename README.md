@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Journey in Open Source - soft-delete-migrator](https://dev.to/cadienvan/my-journey-in-open-source-soft-delete-migrator-6oo)
+- [Dev.to/JS] [Paracetamol.ts💊| #22: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-22-explica-este-codigo-typescript-299n)
+- [Lifehacker] [How to Survive Quicksand, Falling Elevators, and 10 Other Movie ‘Dangers’](https://lifehacker.com/how-to-survive-quicksand-falling-elevators-and-10-oth-1850165549)
+- [Dev.to/JS] [var, let or const: what&#39;s the real difference?](https://dev.to/ppiippaa/var-let-or-const-whats-the-real-difference-37l9)
+- [Dev.to/JS] [How to create a carousel in React](https://dev.to/diorla/how-to-create-a-carousel-in-react-37n9)
+- [Dev.to/JS] [Learn serverless on AWS step-by-step - Databases](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-databases-kkg)
+- [Dev.to/JS] [What are the best Plugins for IntelliJ-Based IDEs?](https://dev.to/denis_miriti/what-are-the-best-plugins-for-intellij-based-ides-keb)
 - [Dev.to/JS] [5 essential automated testing tools for Node.js](https://dev.to/zvone187/5-essential-automated-testing-tools-for-nodejs-14lj)
 - [Dev.to/JS] [What &amp; Why Syntax In Programing??](https://dev.to/shaikhmd007/what-why-syntax-in-programing-31nk)
 - [Dev.to/JS] [User management with Supabase](https://dev.to/guillaumeduhan/user-management-with-supabase-b93)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Analisando o orçamento.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-analisando-o-orcamento-154o)
 - [Dev.to/JS] [Learning How To Code | Lessons I have learned](https://dev.to/brendamichellle/learning-how-to-code-lessons-i-have-learned-54mg)
 - [Dev.to/JS] [Local Storage and Session Storage - Web Storage API](https://dev.to/nikolasbarwicki/local-storage-and-session-storage-web-storage-api-4f86)
-- [Dev.to/JS] [How to Use Image Enhancers to Improve your Photos](https://dev.to/ideradevtools/how-to-use-image-enhancers-to-improve-your-photos-1b9e)
-- [Dev.to/JS] [Convert HTML To Notion Blocks](https://dev.to/zirkelc/convert-html-to-notion-blocks-3fcm)
-- [Dev.to/JS] [5 Reasons Why Vue 3 is the Best Framework for Modern Web Applications in 2023](https://dev.to/itsalimanuel/5-reasons-why-vue-3-is-the-best-framework-for-modern-web-applications-in-2023-5efp)
-- [Dev.to/JS] [Take Your Code to The Other Side](https://dev.to/codeofrelevancy/take-your-code-to-the-other-side-48p3)
-- [Dev.to/JS] [JavaScript Console Tips. Other console tools in JavaScript](https://dev.to/himanshudevgupta/javascript-console-tips-other-console-tools-in-javascript-2l2e)
-- [Dev.to/JS] [Top 5+ Free Tailwind CSS React Admin Dashboards &amp; Templates for 2023](https://dev.to/fredy/top-5-free-tailwind-css-react-admin-dashboards-templates-for-2023-ob)
 - [Lifehacker] [What Is Erythritol &lpar;and How Bad Is It for You&rpar;?](https://lifehacker.com/what-is-erythritol-and-how-bad-is-it-for-you-1850170222)
 - [Lifehacker] [What&#39;s New on Prime Video in March 2023](https://lifehacker.com/whats-new-on-prime-video-in-march-2023-1850169834)
 - [Lifehacker] [Get These Gift Card Deals While You Can](https://lifehacker.com/get-these-gift-card-deals-while-you-can-1850168858)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Disney+ in March 2023](https://lifehacker.com/whats-new-on-disney-in-march-2023-1850164481)
 - [Lifehacker] [How to Avoid Going Broke When a Loved One Dies](https://lifehacker.com/how-to-avoid-going-broke-when-a-loved-one-dies-1850164088)
 - [Lifehacker] [The 7 Deadly Sins of Learning a New Hobby](https://lifehacker.com/the-7-deadly-sins-of-learning-a-new-hobby-1850163682)
-- [Lifehacker] [All the New Android Features Google Announced Today](https://lifehacker.com/all-the-new-android-features-google-announced-today-1850164030)
-- [Lifehacker] [Get a Free Short Stack at IHOP for National Pancake Day](https://lifehacker.com/get-a-free-short-stack-at-ihop-for-national-pancake-day-1850164139)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the New Android Features Google Announced Today](https://lifehacker.com/all-the-new-android-features-google-announced-today-1850164030)<!-- TECH-POSTS:END -->
 
 ---
 
