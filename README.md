@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Puzzle Classic &quot;Baba is You&quot; recreated in JavaScript - Behind the Code](https://dev.to/michi/puzzle-classic-baba-is-you-recreated-in-javascript-behind-the-code-f7f)
+- [Dev.to/JS] [Overview of the React.js framework](https://dev.to/mahmoudessam/overview-of-the-reactjs-framework-4ieg)
+- [Dev.to/JS] [🙏 Cultural Differences in Frontend Development 🌍](https://dev.to/dhrn/cultural-differences-in-frontend-development-49gp)
+- [Dev.to/JS] [The Benefits of Using Dark Mode on Twitter: A Dark Theme Template Example](https://dev.to/payasabun/the-benefits-of-using-dark-mode-on-twitter-a-dark-theme-template-example-1110)
 - [Dev.to/JS] [Using Virtual Color Mixing to Extend Your Palette in React/JavaScript](https://dev.to/bytebodger/using-virtual-color-mixing-to-extend-your-palette-in-reactjavascript-l41)
 - [Dev.to/JS] [Top CSS-In-JS libraries, Compared](https://dev.to/haidar_ezio/top-css-in-js-libraries-compared-2o14)
 - [Lifehacker] [What Is Erythritol &lpar;and How Bad Is It for You&rpar;?](https://lifehacker.com/what-is-erythritol-and-how-bad-is-it-for-you-1850170222)
@@ -37,12 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Search for Comments in Reddit Threads](https://lifehacker.com/you-can-finally-search-for-comments-in-reddit-threads-1850168769)
 - [Dev.to/JS] [A first look at Svelte for React Developers](https://dev.to/jordharr/a-first-look-at-svelte-for-react-developers-4mb8)
 - [Lifehacker] [9 Extremely Niche &lpar;but Still Useful&rpar; Mobile Apps](https://lifehacker.com/9-extremely-niche-but-still-useful-mobile-apps-1850168829)
-- [Dev.to/JS] [Simple PHP AJAX using JQuery](https://dev.to/adeleyeayodeji/simple-php-ajax-using-jquery-2mcd)
-- [Dev.to/JS] [Event delegation in JavaScript, a good use case for binding to events on dynamically generated elements.](https://dev.to/kabakiantony/event-delegation-in-javascript-a-good-use-case-for-binding-to-events-on-dynamically-generated-elements-1fp3)
-- [Dev.to/JS] [You probably don&#39;t need loops](https://dev.to/tahazsh/you-probably-dont-need-loops-4lic)
 - [Lifehacker] [The Best Grocery Store Apps for Every Need](https://lifehacker.com/the-best-grocery-store-apps-for-every-need-1850168630)
 - [Lifehacker] [10 Professional Baking Tools I Use at Home](https://lifehacker.com/10-professional-baking-tools-i-use-at-home-1850168766)
-- [Dev.to/JS] [Intro a Custom Hooks](https://dev.to/sebastianmaciel/intro-a-custom-hooks-4blg)
 - [Lifehacker] [Stop Using Cheap Plastic Drywall Anchors](https://lifehacker.com/stop-using-cheap-plastic-drywall-anchors-1850168414)
 - [Lifehacker] [Don’t Trust Your iPhone’s Passcode to Keep Your Data Safe](https://lifehacker.com/don-t-trust-your-iphone-s-passcode-to-keep-your-data-sa-1850166806)
 - [Lifehacker] [Use ‘Hydro-Dipping’ to Give Anything a Faux Marble Finish](https://lifehacker.com/use-hydro-dipping-to-give-anything-a-faux-marble-fini-1850168235)
