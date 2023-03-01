@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your $2 Bill Might Actually Be Worth a Lot More](https://lifehacker.com/your-2-bill-might-actually-be-worth-a-lot-more-1850170790)
+- [Dev.to/JS] [JavaScript DOM Manipulation Cheatsheet✨](https://dev.to/codewithtee/javascript-dom-manipulation-cheatsheet-2d18)
+- [Lifehacker] [Watch ‘Ted Lasso’ for Free With This Apple TV+ Deal](https://lifehacker.com/watch-ted-lasso-for-free-with-this-apple-tv-deal-1850170102)
+- [Dev.to/JS] [ChatGPT - Complex Coding Challenges: Part 1](https://dev.to/damiensedgwick/using-chatgpt-to-solve-complex-coding-challenges-part-1-4b7n)
+- [Dev.to/JS] [React vs Signals: 10 Years Later](https://dev.to/this-is-learning/react-vs-signals-10-years-later-3k71)
+- [Dev.to/JS] [Getting Eta to work with Deno Deploy](https://dev.to/christiandale/getting-eta-to-work-with-deno-deploy-45hc)
 - [Dev.to/JS] [Renderprops vs Custom Hooks: Which one to use?](https://dev.to/chaituknag/renderprops-vs-custom-hooks-which-one-to-use-5a0)
 - [Dev.to/JS] [How to save a string to clipboard in JavaScript](https://dev.to/david_bilsonn/how-to-save-a-string-to-clipboard-in-javascript-13ie)
 - [Lifehacker] [Hide Dog Treats in Your Dish Towels](https://lifehacker.com/hide-dog-treats-in-your-dish-towels-1850170131)
@@ -33,12 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js 13 special files, data fetching and head tag — page, layout and template](https://dev.to/oskidev/nextjs-13-special-files-data-fetching-and-head-tag-page-layout-and-template-1hh)
 - [Lifehacker] [The Most Strategic Time to Pay Your Credit Card Balance](https://lifehacker.com/the-most-strategic-time-to-pay-your-credit-card-balance-1850169559)
 - [Dev.to/JS] [How I used LangChain 🦜🔗 and GPT-3 to Automate my Boss 🤖](https://dev.to/ironcladdev/how-i-used-langchain-and-gpt-3-to-automate-my-boss-3bk4)
-- [Dev.to/JS] [Obtener el valor mínimo y máximo de un array de objetos en JavaScript](https://dev.to/asjordi/obtener-el-valor-minimo-y-maximo-de-un-array-de-objetos-en-javascript-2066)
 - [Lifehacker] [What to Do When a Company Won’t Honor a Warranty](https://lifehacker.com/what-to-do-when-a-company-won-t-honor-a-warranty-1850169034)
-- [Dev.to/JS] [Removing Duplicates In Arrays](https://dev.to/oluwatrillions/removing-duplicates-in-arrays-1lof)
-- [Dev.to/JS] [Using HTML attribute `inert` to disable copy paste and user events on a web page/elements](https://dev.to/kipyegonline/using-html-attribute-inert-to-disable-copy-paste-and-user-events-on-a-web-pageelements-17ml)
 - [Lifehacker] [Your Air Fryer Isn&#39;t a Toaster](https://lifehacker.com/your-air-fryer-isnt-a-toaster-1850169974)
-- [Dev.to/JS] [Typescript as a javascript developer - I](https://dev.to/soumavabanerjee/typescript-as-a-javascript-developer-i-3ij7)
 - [Lifehacker] [Please Do Not Try to Sharpen Your Blender Blades With Eggshells](https://lifehacker.com/please-do-not-try-to-sharpen-your-blender-blades-with-e-1850169625)
 - [Lifehacker] [15 Times Oscar-Winners Slummed It in Popcorn Movies](https://lifehacker.com/15-times-oscar-winners-slummed-it-in-popcorn-movies-1850163179)
 - [Lifehacker] [How to Survive Quicksand, Falling Elevators, and 10 Other Movie ‘Dangers’](https://lifehacker.com/how-to-survive-quicksand-falling-elevators-and-10-oth-1850165549)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best &lpar;and Most Affordable&rpar; Way to Store Old Video Games](https://lifehacker.com/the-best-and-most-affordable-way-to-store-old-video-g-1850166193)
 - [Lifehacker] [Find a Relationship by &#39;Home Depot Dating&#39;](https://lifehacker.com/find-a-relationship-by-home-depot-dating-1850165628)
 - [Lifehacker] [Make Easier Mashed Potatoes With a Cooling Rack](https://lifehacker.com/make-easier-mashed-potatoes-with-a-cooling-rack-1850165708)
-- [Lifehacker] [11 Ways to Make a Frozen Pizza Less Sad](https://lifehacker.com/11-ways-to-make-a-frozen-pizza-less-sad-1850158066)
-- [Lifehacker] [Why You Need to Stop Clicking Sponsored Google Links](https://lifehacker.com/why-you-need-to-stop-clicking-sponsored-google-links-1850163992)
-- [Lifehacker] [The Best Apps to Help You Clean Your Home](https://lifehacker.com/the-best-apps-to-help-you-clean-your-home-1850164086)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 Ways to Make a Frozen Pizza Less Sad](https://lifehacker.com/11-ways-to-make-a-frozen-pizza-less-sad-1850158066)<!-- TECH-POSTS:END -->
 
 ---
 
