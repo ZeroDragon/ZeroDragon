@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Obtener el valor mínimo y máximo de un array de objetos en JavaScript](https://dev.to/asjordi/obtener-el-valor-minimo-y-maximo-de-un-array-de-objetos-en-javascript-2066)
+- [Dev.to/JS] [Removing Duplicates In Arrays](https://dev.to/oluwatrillions/removing-duplicates-in-arrays-1lof)
+- [Dev.to/JS] [Using HTML attribute `inert` to disable copy paste and user events on a web page/elements](https://dev.to/kipyegonline/using-html-attribute-inert-to-disable-copy-paste-and-user-events-on-a-web-pageelements-17ml)
+- [Lifehacker] [Your Air Fryer Isn&#39;t a Toaster](https://lifehacker.com/your-air-fryer-isnt-a-toaster-1850169974)
+- [Dev.to/JS] [Typescript as a javascript developer - I](https://dev.to/soumavabanerjee/typescript-as-a-javascript-developer-i-3ij7)
+- [Dev.to/JS] [Image Processing with JavaScript](https://dev.to/mohamedsoliman21/image-processing-with-javascript-3k67)
+- [Lifehacker] [Please Do Not Try to Sharpen Your Blender Blades With Eggshells](https://lifehacker.com/please-do-not-try-to-sharpen-your-blender-blades-with-e-1850169625)
 - [Dev.to/JS] [Accordion - JS](https://dev.to/986913/accordion-js-1eip)
 - [Dev.to/JS] [JavaScript - Event Loop](https://dev.to/nascimento_/javascript-event-loop-5636)
 - [Dev.to/JS] [These courses will help you land your first job for less than $100](https://dev.to/albert_hadacek/these-courses-will-help-you-land-your-first-job-for-less-than-100-16ph)
@@ -31,12 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What CHAT GPT Resume Tips for Frontend Developers](https://dev.to/anuj8126/what-chat-gpt-resume-tips-for-frontend-developers-2h3o)
 - [Dev.to/JS] [Processing massive amounts of data on demand without crashing nodejs main thread](https://dev.to/wesleymreng7/processing-massive-amount-of-data-on-demand-without-crashing-nodejs-main-thread-2epl)
 - [Dev.to/JS] [Loops and Iteration in JavaScript](https://dev.to/gcodes/loops-and-iteration-in-javascript-2mpd)
-- [Dev.to/JS] [My Journey in Open Source - soft-delete-migrator](https://dev.to/cadienvan/my-journey-in-open-source-soft-delete-migrator-6oo)
-- [Dev.to/JS] [Paracetamol.ts💊| #22: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-22-explica-este-codigo-typescript-299n)
 - [Lifehacker] [How to Survive Quicksand, Falling Elevators, and 10 Other Movie ‘Dangers’](https://lifehacker.com/how-to-survive-quicksand-falling-elevators-and-10-oth-1850165549)
-- [Dev.to/JS] [var, let or const: what&#39;s the real difference?](https://dev.to/ppiippaa/var-let-or-const-whats-the-real-difference-37l9)
-- [Dev.to/JS] [How to create a carousel in React](https://dev.to/diorla/how-to-create-a-carousel-in-react-37n9)
-- [Dev.to/JS] [Learn serverless on AWS step-by-step - Databases](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-databases-kkg)
 - [Lifehacker] [What Is Erythritol &lpar;and How Bad Is It for You&rpar;?](https://lifehacker.com/what-is-erythritol-and-how-bad-is-it-for-you-1850170222)
 - [Lifehacker] [What&#39;s New on Prime Video in March 2023](https://lifehacker.com/whats-new-on-prime-video-in-march-2023-1850169834)
 - [Lifehacker] [Get These Gift Card Deals While You Can](https://lifehacker.com/get-these-gift-card-deals-while-you-can-1850168858)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Apps to Help You Clean Your Home](https://lifehacker.com/the-best-apps-to-help-you-clean-your-home-1850164086)
 - [Lifehacker] [Keep Cannoli Cream in Your Fridge at All Times](https://lifehacker.com/keep-cannoli-cream-in-your-fridge-at-all-times-1850165117)
 - [Lifehacker] [The Cheapest iPad Just Got Cheaper](https://lifehacker.com/the-cheapest-ipad-just-got-cheaper-1850164778)
-- [Lifehacker] [What&#39;s New on Disney+ in March 2023](https://lifehacker.com/whats-new-on-disney-in-march-2023-1850164481)
-- [Lifehacker] [How to Avoid Going Broke When a Loved One Dies](https://lifehacker.com/how-to-avoid-going-broke-when-a-loved-one-dies-1850164088)
-- [Lifehacker] [The 7 Deadly Sins of Learning a New Hobby](https://lifehacker.com/the-7-deadly-sins-of-learning-a-new-hobby-1850163682)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Disney+ in March 2023](https://lifehacker.com/whats-new-on-disney-in-march-2023-1850164481)<!-- TECH-POSTS:END -->
 
 ---
 
