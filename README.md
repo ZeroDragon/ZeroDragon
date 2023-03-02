@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reducing Color Depth with React/JavaScript](https://dev.to/bytebodger/reducing-color-depth-with-reactjavascript-4gg5)
+- [Dev.to/JS] [Host your Remix app on Fastly Compute@Edge](https://dev.to/fastly/host-your-remix-app-on-fastly-computeedge-1k6f)
+- [Dev.to/JS] [25 Fun and Useful ReactJS Project Ideas for Beginners](https://dev.to/xaypanya/25-fun-and-useful-reactjs-project-ideas-for-beginners-2ckm)
 - [Dev.to/JS] [New beginnings](https://dev.to/felixw01/new-beginnings-3f33)
 - [Dev.to/JS] [Complete front- end developer in just 3 mouths](https://dev.to/nhshanto/complete-front-end-developer-in-just-3-mouths-893)
 - [Dev.to/JS] [⚖️ Legal Compliance for Web Apps: Considerations](https://dev.to/dhrn/legal-compliance-for-web-apps-considerations-and-examples-37ih)
@@ -37,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Cultivate a Houseplant Collection on a Budget](https://lifehacker.com/how-to-cultivate-a-houseplant-collection-on-a-budget-1850168112)
 - [Dev.to/JS] [Upgrade text-davinci-003 to gpt-3.5-turbo](https://dev.to/luckey/how-to-upgrade-text-davinci-003-to-gpt-35-turbo-2b6e)
 - [Lifehacker] [Security Keys Are the Best Way to Protect Your Apple ID](https://lifehacker.com/security-keys-are-the-best-way-to-protect-your-apple-id-1850172412)
-- [Dev.to/JS] [Server-render your SPA in CI at deploy time 📸](https://dev.to/bryce/server-render-your-spa-in-ci-at-deploy-time-2eag)
 - [Lifehacker] [7 Todoist Features You’re Not Using &lpar;but Should Be&rpar;](https://lifehacker.com/7-todoist-features-you-re-not-using-but-should-be-1850171967)
-- [Dev.to/JS] [How to Merge Excel XLSX Workbooks in Your JavaScript Application](https://dev.to/grapecity/how-to-merge-excel-xlsx-workbooks-in-your-javascript-application-3dbk)
 - [Lifehacker] [How to Get iMessage on Windows](https://lifehacker.com/how-to-get-imessage-on-windows-1850170042)
-- [Dev.to/JS] [The Top 10 React UI Component Libraries](https://dev.to/kalinacode/the-top-10-react-ui-component-libraries-51mn)
 - [Lifehacker] [Make a Crispy Tapioca Shell With Only Two Ingredients](https://lifehacker.com/make-a-crispy-tapioca-shell-with-only-two-ingredients-1850170397)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in March 2023 &lpar;So Far&rpar;](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1850170782)
 - [Lifehacker] [Your $2 Bill Might Actually Be Worth a Lot More](https://lifehacker.com/your-2-bill-might-actually-be-worth-a-lot-more-1850170790)
