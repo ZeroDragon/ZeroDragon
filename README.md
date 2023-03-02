@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This App Creates Step-by-Step How-to Guides for Anything You Do on Your Computer](https://lifehacker.com/this-app-creates-step-by-step-how-to-guides-for-anythin-1850177460)
+- [Dev.to/JS] [Pipe a file stream from AWS S3 to OpenAI Whisper in Node.js](https://dev.to/antondosov/pipe-a-file-stream-from-aws-s3-to-openai-whisper-in-nodejs-3bkb)
+- [Dev.to/JS] [7 React native libraries and packages for UI design](https://dev.to/sergioholgado/7-react-native-libraries-and-packages-for-ui-design-59j0)
+- [Dev.to/JS] [Data storytelling with Plotteus](https://dev.to/bprusinowski/data-storytelling-with-plotteus-11mi)
+- [Dev.to/JS] [The React Tunnel Vision](https://dev.to/ignacioliotti/the-react-tunnel-vision-9c7)
+- [Dev.to/JS] [Build a custom tooltip directive with CSS and Vue](https://dev.to/mayashavin/build-a-custom-tooltip-directive-with-css-and-vue-3a8h)
+- [Lifehacker] [Don’t Fall for This Fake Authenticator App Scam](https://lifehacker.com/don-t-fall-for-this-fake-authenticator-app-scam-1850177439)
+- [Dev.to/JS] [Comprised Mac Studio — Hacked Developer Server - Remote Access Technology](https://dev.to/jesse_mink_27b5376f80f19b/comprised-mac-studio-hacked-developer-server-remote-access-technology-39hi)
 - [Lifehacker] [Why You Should Pour Drinks Upside Down](https://lifehacker.com/why-you-should-pour-drinks-upside-down-1850178027)
 - [Dev.to/JS] [JavaScript Variables](https://dev.to/lenacodes/javascript-variables-3p1g)
 - [Dev.to/JS] [Hoisting](https://dev.to/biplavmz/hoisting-32hp)
@@ -34,12 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advanced JavaScript concepts: closures, Promises, and Async/Await](https://dev.to/kinjames/advanced-javascript-concepts-closures-promises-and-asyncawait-4m04)
 - [Lifehacker] [Plan to Wait a Long Time for Your Passport](https://lifehacker.com/plan-to-wait-a-long-time-for-your-passport-1850174798)
 - [Lifehacker] [You Must Make These Air-Fried Caramel Pasta Crisps](https://lifehacker.com/you-must-make-these-air-fried-caramel-pasta-crisps-1850174639)
-- [Dev.to/JS] [4 Full-Stack Project ideas for Developers](https://dev.to/hardikgohilhlr/4-full-stack-project-ideas-for-developers-23dc)
-- [Dev.to/JS] [3 Kinds of Loops That We Use All The Time Without Knowing Their Names.](https://dev.to/codeguage/3-kinds-of-loops-that-we-use-all-the-time-without-knowing-their-names-4oh1)
-- [Dev.to/JS] [Learn React Server Components in 7 easy to follow steps](https://dev.to/kulkarniankita9/learn-react-server-components-in-7-easy-to-follow-steps-52mb)
-- [Dev.to/JS] [Free resources that helped me master React as a Self Taught Web Developer](https://dev.to/asheeshh/free-resources-that-helped-me-master-react-as-a-self-taught-web-developer-58k2)
-- [Dev.to/JS] [Paint-by-Numbers From Digital Images With React/JavaScript](https://dev.to/bytebodger/create-paint-by-numbers-from-digital-images-with-reactjavascript-2dc9)
-- [Dev.to/JS] [How to extract title, description or metadata from markdown](https://dev.to/codingnninja/how-to-extract-title-description-or-metadata-from-markdown-3nn8)
 - [Lifehacker] [11 Compound Butters That Will Get You Out of a Butter Rut](https://lifehacker.com/11-compound-butters-that-will-get-you-out-of-a-butter-r-1850174627)
 - [Lifehacker] [In Defense of the Landline Telephone](https://lifehacker.com/in-defense-of-the-landline-telephone-1850177268)
 - [Lifehacker] [This AI Will Create a ‘SparkNotes’ Summary of Any Article](https://lifehacker.com/this-ai-will-create-a-sparknotes-summary-of-any-artic-1850173701)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do When a Company Won’t Honor a Warranty](https://lifehacker.com/what-to-do-when-a-company-won-t-honor-a-warranty-1850169034)
 - [Lifehacker] [Your Air Fryer Isn&#39;t a Toaster](https://lifehacker.com/your-air-fryer-isnt-a-toaster-1850169974)
 - [Lifehacker] [Please Do Not Try to Sharpen Your Blender Blades With Eggshells](https://lifehacker.com/please-do-not-try-to-sharpen-your-blender-blades-with-e-1850169625)
-- [Lifehacker] [15 Times Oscar-Winners Slummed It in Popcorn Movies](https://lifehacker.com/15-times-oscar-winners-slummed-it-in-popcorn-movies-1850163179)
-- [Lifehacker] [How to Survive Quicksand, Falling Elevators, and 10 Other Movie ‘Dangers’](https://lifehacker.com/how-to-survive-quicksand-falling-elevators-and-10-oth-1850165549)
-- [Lifehacker] [What Is Erythritol &lpar;and How Bad Is It for You&rpar;?](https://lifehacker.com/what-is-erythritol-and-how-bad-is-it-for-you-1850170222)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 Times Oscar-Winners Slummed It in Popcorn Movies](https://lifehacker.com/15-times-oscar-winners-slummed-it-in-popcorn-movies-1850163179)<!-- TECH-POSTS:END -->
 
 ---
 
