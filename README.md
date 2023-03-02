@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CMD commands every programmer should know](https://dev.to/jon_snow789/cmd-commands-every-programmer-should-know-417f)
+- [Dev.to/JS] [CMD commands every programmer should know](https://dev.to/jon_snow789/cmd-commands-every-programmer-should-know-447e)
+- [Dev.to/JS] [Next.js vs React: 5 Fun Fact You Don&#39;t Know](https://dev.to/ferry/nextjs-vs-react-5-fun-fact-you-dont-know-5b8f)
 - [Dev.to/JS] [Exploring Expo Application Services: Building, Deploying and Managing Mobile Apps with Ease.](https://dev.to/adii9/exploring-expo-application-services-building-deploying-and-managing-mobile-apps-with-ease-b0e)
 - [Dev.to/JS] [How to compare mongoose model objects in jest while excluding _id](https://dev.to/codever/how-to-compare-mongoose-model-objects-in-jest-while-excluding-id-gj8)
 - [Dev.to/JS] [Best Angular Development Companies - 2023](https://dev.to/codersnews/best-angular-development-companies-2023-3p14)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [7 Alternative Lebih Baik daripada Create React App](https://dev.to/rifkiandriyanto/7-alternative-lebih-baik-daripada-create-react-app-1g2b)
 - [Dev.to/JS] [Top 11 Freelancing Websites for Software Testers&amp; QA. &lpar;Even as Manual Tester&rpar;](https://dev.to/promode/top-11-freelancing-websites-for-software-testers-qa-even-as-manual-tester-4kd2)
 - [Dev.to/JS] [Truthy And Falsy Value In JavaScript.](https://dev.to/azadulkabir455/truthy-and-falsy-value-in-javascript-4gjg)
-- [Dev.to/JS] [Machine learning with Django and React.js](https://dev.to/syedkashifnaqvi/machine-learning-with-django-and-reactjs-26ln)
-- [Dev.to/JS] [Challenge #7: 🎁 SVG NFT 🎫 Building Cohort Challenge](https://dev.to/kevinjoshi46b/challenge-7-svg-nft-building-cohort-challenge-28a9)
-- [Dev.to/JS] [Why I like Signals in Angular and the importance of Declarative code](https://dev.to/michelestieven/why-i-like-signals-in-angular-and-the-importance-of-declarative-code-4lh9)
 - [Lifehacker] [Here&#39;s the Latest Date You&#39;ll Receive Tax Forms This Year](https://lifehacker.com/heres-the-latest-date-youll-receive-tax-forms-this-year-1850173434)
 - [Lifehacker] [You Can Make a Tiny Yard Look a Lot Bigger](https://lifehacker.com/you-can-make-a-tiny-yard-look-a-lot-bigger-1850171585)
 - [Lifehacker] [You Can Get a Free Year of Tripadvisor Plus Right Now](https://lifehacker.com/you-can-get-a-free-year-of-tripadvisor-plus-right-now-1850173915)
