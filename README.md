@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Challenge #7: 🎁 SVG NFT 🎫 Building Cohort Challenge](https://dev.to/kevinjoshi46b/challenge-7-svg-nft-building-cohort-challenge-28a9)
 - [Dev.to/JS] [Why I like Signals in Angular and the importance of Declarative code](https://dev.to/michelestieven/why-i-like-signals-in-angular-and-the-importance-of-declarative-code-4lh9)
 - [Dev.to/JS] [Tagged templates in JavaScript](https://dev.to/mrh0200/tagged-templates-in-javascript-n44)
 - [Dev.to/JS] [Reducing Color Depth with React/JavaScript](https://dev.to/bytebodger/reducing-color-depth-with-reactjavascript-4gg5)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a Newsletter feedback form using React and Supabase](https://dev.to/gbadeboife/how-to-create-a-newsletter-feedback-form-using-react-and-supabase-30oe)
 - [Lifehacker] [Here&#39;s the Latest Date You&#39;ll Receive Tax Forms This Year](https://lifehacker.com/heres-the-latest-date-youll-receive-tax-forms-this-year-1850173434)
 - [Dev.to/JS] [Global Error Management in Nuxt.js Projects](https://dev.to/muhammederdinc/global-error-management-in-nuxtjs-projects-3d16)
-- [Dev.to/JS] [Nuxt.js Projelerinde Global Hata Yönetimi](https://dev.to/muhammederdinc/nuxtjs-projelerinde-global-hata-yonetimi-22d4)
 - [Lifehacker] [You Can Make a Tiny Yard Look a Lot Bigger](https://lifehacker.com/you-can-make-a-tiny-yard-look-a-lot-bigger-1850171585)
 - [Lifehacker] [You Can Get a Free Year of Tripadvisor Plus Right Now](https://lifehacker.com/you-can-get-a-free-year-of-tripadvisor-plus-right-now-1850173915)
 - [Lifehacker] [How to Cultivate a Houseplant Collection on a Budget](https://lifehacker.com/how-to-cultivate-a-houseplant-collection-on-a-budget-1850168112)
