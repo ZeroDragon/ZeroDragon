@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Component Series: Element Plus Table part 2](https://dev.to/rax/component-series-element-plus-table-part-2-3gl0)
+- [Dev.to/JS] [Código Limpo em Javascript para Iniciantes](https://dev.to/robsonamendonca/codigo-limpo-em-javascript-para-iniciantes-41hm)
 - [Dev.to/JS] [Paracetamol.ts💊| #23: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-23-explica-este-codigo-typescript-48ip)
 - [Dev.to/JS] [NestJs RBAC tutorial](https://dev.to/vladwulf/nestjs-rbac-tutorial-33gf)
 - [Dev.to/JS] [The Essential Guide to Creating a Dating App from Scratch](https://dev.to/johnsongrowth/the-essential-guide-to-creating-a-dating-app-from-scratch-1b4a)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Zelzele . io](https://dev.to/ahmetilhan24/zelzele-io-37g6)
 - [Dev.to/JS] [Server-render your SPA in CI at deploy time 📸](https://dev.to/bryce/server-render-your-spa-in-ci-at-deploy-time-2798)
 - [Dev.to/JS] [Temporal Dead Zone - the less obvious part and how to avoid it](https://dev.to/hotjar/temporal-dead-zone-the-less-obvious-part-and-how-to-avoid-it-3k56)
-- [Dev.to/JS] [How to Create an Online Quiz or Assessment test using SurveyJS and add Scoring and Timing to It &lpar;Part 1&rpar;](https://dev.to/surveyjs/how-to-create-an-online-quiz-or-assessment-test-using-surveyjs-and-add-scoring-and-timing-to-it-part-1-520e)
-- [Dev.to/JS] [How to Scrape Websites with Tampermonkey and Express JS: A Guide](https://dev.to/pradnyanandana/how-to-scrape-websites-with-tampermonkey-and-express-js-a-guide-3ahb)
 - [Lifehacker] [Here&#39;s the Latest Date You&#39;ll Receive Tax Forms This Year](https://lifehacker.com/heres-the-latest-date-youll-receive-tax-forms-this-year-1850173434)
 - [Lifehacker] [You Can Make a Tiny Yard Look a Lot Bigger](https://lifehacker.com/you-can-make-a-tiny-yard-look-a-lot-bigger-1850171585)
 - [Lifehacker] [You Can Get a Free Year of Tripadvisor Plus Right Now](https://lifehacker.com/you-can-get-a-free-year-of-tripadvisor-plus-right-now-1850173915)
