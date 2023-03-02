@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a Newsletter feedback form using React and Supabase](https://dev.to/gbadeboife/how-to-create-a-newsletter-feedback-form-using-react-and-supabase-30oe)
 - [Lifehacker] [Here&#39;s the Latest Date You&#39;ll Receive Tax Forms This Year](https://lifehacker.com/heres-the-latest-date-youll-receive-tax-forms-this-year-1850173434)
 - [Dev.to/JS] [Global Error Management in Nuxt.js Projects](https://dev.to/muhammederdinc/global-error-management-in-nuxtjs-projects-3d16)
 - [Dev.to/JS] [Nuxt.js Projelerinde Global Hata Yönetimi](https://dev.to/muhammederdinc/nuxtjs-projelerinde-global-hata-yonetimi-22d4)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Visualizing your photos on a map with React Native](https://dev.to/bohdanstupak1/visualizing-your-photos-on-a-map-with-react-native-212c)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in March 2023 &lpar;So Far&rpar;](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1850170782)
 - [Dev.to/JS] [JSTools Weekly — ✨2023#8: TS-Reset: A ‘CSS reset’ For TS, Improving JS Types](https://dev.to/jstoolsweekly/jstools-weekly-20238-ts-reset-a-css-reset-for-ts-improving-js-types-1hk7)
-- [Dev.to/JS] [JSTools Weekly — 🔥2023#8: YoBulk: CSV Importer By GPT3](https://dev.to/jstoolsweekly/jstools-weekly-20238-yobulk-csv-importer-by-gpt3-4ken)
 - [Lifehacker] [Your $2 Bill Might Actually Be Worth a Lot More](https://lifehacker.com/your-2-bill-might-actually-be-worth-a-lot-more-1850170790)
 - [Lifehacker] [Watch ‘Ted Lasso’ for Free With This Apple TV+ Deal](https://lifehacker.com/watch-ted-lasso-for-free-with-this-apple-tv-deal-1850170102)
 - [Lifehacker] [Hide Dog Treats in Your Dish Towels](https://lifehacker.com/hide-dog-treats-in-your-dish-towels-1850170131)
