@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [In Defense of the Landline Telephone](https://lifehacker.com/in-defense-of-the-landline-telephone-1850177268)
+- [Dev.to/JS] [Introducing Vanilla-extract.style: A Modern and Efficient Way to Write Styles in JavaScript](https://dev.to/sidramaqbool/introducing-vanilla-extractstyle-a-modern-and-efficient-way-to-write-styles-in-javascript-30i3)
+- [Dev.to/JS] [Five minute maintainers: Meet Felix Böhm 👋🏾](https://dev.to/tidelift/five-minute-maintainers-meet-felix-bohm-5ki)
+- [Lifehacker] [This AI Will Create a ‘SparkNotes’ Summary of Any Article](https://lifehacker.com/this-ai-will-create-a-sparknotes-summary-of-any-artic-1850173701)
+- [Dev.to/JS] [How to Build Real-time Weather App Using Vanilla JavaScript and API](https://dev.to/codewithsadee/how-to-build-real-time-weather-app-using-vanilla-javascript-and-api-4j21)
+- [Dev.to/JS] [Comprehensive List of React Concepts for Beginners and Intermediate Developers](https://dev.to/sidramaqbool/comprehensive-list-of-react-concepts-for-beginners-and-intermediate-developers-1ogp)
 - [Lifehacker] [Your Nissan Rogue Key Might Turn Your Engine Off Mid-Drive](https://lifehacker.com/your-nissan-rogue-key-might-turn-your-engine-off-mid-dr-1850174795)
+- [Dev.to/JS] [YOUR SOFTWARE PERFORMANCE IS LOSING YOU MONEY](https://dev.to/juwoncaleb/your-software-performance-is-losing-you-money-41o)
 - [Dev.to/JS] [Angular Interview Questions : ChatGPT Answers](https://dev.to/manmohan/angular-interview-questions-chatgpt-answers-3f9c)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Entre gato e rato](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-entre-gato-e-rato-4n5)
 - [Dev.to/JS] [JavaScript News, Updates, and Tutorials: February 2023 Edition](https://dev.to/plazarev/javascript-news-updates-and-tutorials-february-2023-edition-3fpo)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Component Series: Element Plus Table part 2](https://dev.to/rax/component-series-element-plus-table-part-2-3gl0)
 - [Dev.to/JS] [Código Limpo em Javascript para Iniciantes](https://dev.to/robsonamendonca/codigo-limpo-em-javascript-para-iniciantes-41hm)
 - [Dev.to/JS] [Paracetamol.ts💊| #23: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-23-explica-este-codigo-typescript-48ip)
-- [Dev.to/JS] [NestJs RBAC tutorial](https://dev.to/vladwulf/nestjs-rbac-tutorial-33gf)
-- [Dev.to/JS] [The Essential Guide to Creating a Dating App from Scratch](https://dev.to/johnsongrowth/the-essential-guide-to-creating-a-dating-app-from-scratch-1b4a)
-- [Dev.to/JS] [Protonshub Technologies: Top Software Development Company in the USA](https://dev.to/protonshub_technologies/protonshub-technologies-top-software-development-company-in-the-usa-1848)
-- [Dev.to/JS] [Compatibility Testing to Create Perfectly Working Apps](https://dev.to/kavithar/compatibility-testing-to-create-perfectly-working-apps-1k7g)
-- [Dev.to/JS] [Exploring the Top Charting Libraries for React](https://dev.to/surajondev/exploring-the-top-charting-libraries-for-react-22bp)
 - [Lifehacker] [Here&#39;s the Latest Date You&#39;ll Receive Tax Forms This Year](https://lifehacker.com/heres-the-latest-date-youll-receive-tax-forms-this-year-1850173434)
 - [Lifehacker] [You Can Make a Tiny Yard Look a Lot Bigger](https://lifehacker.com/you-can-make-a-tiny-yard-look-a-lot-bigger-1850171585)
 - [Lifehacker] [You Can Get a Free Year of Tripadvisor Plus Right Now](https://lifehacker.com/you-can-get-a-free-year-of-tripadvisor-plus-right-now-1850173915)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Hulu in March 2023](https://lifehacker.com/whats-new-on-hulu-in-march-2023-1850169381)
 - [Lifehacker] [You Can Finally Search for Comments in Reddit Threads](https://lifehacker.com/you-can-finally-search-for-comments-in-reddit-threads-1850168769)
 - [Lifehacker] [9 Extremely Niche &lpar;but Still Useful&rpar; Mobile Apps](https://lifehacker.com/9-extremely-niche-but-still-useful-mobile-apps-1850168829)
-- [Lifehacker] [The Best Grocery Store Apps for Every Need](https://lifehacker.com/the-best-grocery-store-apps-for-every-need-1850168630)
-- [Lifehacker] [10 Professional Baking Tools I Use at Home](https://lifehacker.com/10-professional-baking-tools-i-use-at-home-1850168766)
-- [Lifehacker] [Stop Using Cheap Plastic Drywall Anchors](https://lifehacker.com/stop-using-cheap-plastic-drywall-anchors-1850168414)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Grocery Store Apps for Every Need](https://lifehacker.com/the-best-grocery-store-apps-for-every-need-1850168630)<!-- TECH-POSTS:END -->
 
 ---
 
