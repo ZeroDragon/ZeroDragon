@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why I like Signals in Angular and the importance of Declarative code](https://dev.to/michelestieven/why-i-like-signals-in-angular-and-the-importance-of-declarative-code-4lh9)
+- [Dev.to/JS] [Tagged templates in JavaScript](https://dev.to/mrh0200/tagged-templates-in-javascript-n44)
 - [Dev.to/JS] [Reducing Color Depth with React/JavaScript](https://dev.to/bytebodger/reducing-color-depth-with-reactjavascript-4gg5)
 - [Dev.to/JS] [Host your Remix app on Fastly Compute@Edge](https://dev.to/fastly/host-your-remix-app-on-fastly-computeedge-1k6f)
 - [Dev.to/JS] [25 Fun and Useful ReactJS Project Ideas for Beginners](https://dev.to/xaypanya/25-fun-and-useful-reactjs-project-ideas-for-beginners-2ckm)
@@ -34,11 +36,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s the Latest Date You&#39;ll Receive Tax Forms This Year](https://lifehacker.com/heres-the-latest-date-youll-receive-tax-forms-this-year-1850173434)
 - [Dev.to/JS] [Global Error Management in Nuxt.js Projects](https://dev.to/muhammederdinc/global-error-management-in-nuxtjs-projects-3d16)
 - [Dev.to/JS] [Nuxt.js Projelerinde Global Hata Yönetimi](https://dev.to/muhammederdinc/nuxtjs-projelerinde-global-hata-yonetimi-22d4)
-- [Dev.to/JS] [Graduated: Working from home.](https://dev.to/mweerb1976/graduated-working-from-home-4ie8)
 - [Lifehacker] [You Can Make a Tiny Yard Look a Lot Bigger](https://lifehacker.com/you-can-make-a-tiny-yard-look-a-lot-bigger-1850171585)
 - [Lifehacker] [You Can Get a Free Year of Tripadvisor Plus Right Now](https://lifehacker.com/you-can-get-a-free-year-of-tripadvisor-plus-right-now-1850173915)
 - [Lifehacker] [How to Cultivate a Houseplant Collection on a Budget](https://lifehacker.com/how-to-cultivate-a-houseplant-collection-on-a-budget-1850168112)
-- [Dev.to/JS] [Upgrade text-davinci-003 to gpt-3.5-turbo](https://dev.to/luckey/how-to-upgrade-text-davinci-003-to-gpt-35-turbo-2b6e)
 - [Lifehacker] [Security Keys Are the Best Way to Protect Your Apple ID](https://lifehacker.com/security-keys-are-the-best-way-to-protect-your-apple-id-1850172412)
 - [Lifehacker] [7 Todoist Features You’re Not Using &lpar;but Should Be&rpar;](https://lifehacker.com/7-todoist-features-you-re-not-using-but-should-be-1850171967)
 - [Lifehacker] [How to Get iMessage on Windows](https://lifehacker.com/how-to-get-imessage-on-windows-1850170042)
