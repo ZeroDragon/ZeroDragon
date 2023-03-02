@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Pour Drinks Upside Down](https://lifehacker.com/why-you-should-pour-drinks-upside-down-1850178027)
+- [Dev.to/JS] [JavaScript Variables](https://dev.to/lenacodes/javascript-variables-3p1g)
+- [Dev.to/JS] [Hoisting](https://dev.to/biplavmz/hoisting-32hp)
+- [Lifehacker] [Things You Should Never Vacuum With a Regular Vacuum Cleaner](https://lifehacker.com/things-you-should-never-vacuum-with-a-regular-vacuum-cl-1850175466)
+- [Dev.to/JS] [Mastering JS Event Bubbling and Delegation](https://dev.to/sakethkowtha/mastering-js-event-bubbling-and-delegation-5bf5)
+- [Dev.to/JS] [Equality Algorithms in JavaScript](https://dev.to/ahmedmohmd/equality-algorithms-in-javascript-4bfd)
+- [Lifehacker] [Why You Shouldn&#39;t Warm Up Your Car For Longer Than a Minute](https://lifehacker.com/why-you-shouldnt-warm-up-your-car-for-longer-than-a-min-1850175671)
 - [Dev.to/JS] [Build your own Tana clone with this new frontend](https://dev.to/progrium/build-your-own-tana-clone-with-this-new-frontend-15ao)
 - [Dev.to/JS] [Advanced JavaScript concepts: closures, Promises, and Async/Await](https://dev.to/kinjames/advanced-javascript-concepts-closures-promises-and-asyncawait-4m04)
 - [Lifehacker] [Plan to Wait a Long Time for Your Passport](https://lifehacker.com/plan-to-wait-a-long-time-for-your-passport-1850174798)
@@ -33,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Free resources that helped me master React as a Self Taught Web Developer](https://dev.to/asheeshh/free-resources-that-helped-me-master-react-as-a-self-taught-web-developer-58k2)
 - [Dev.to/JS] [Paint-by-Numbers From Digital Images With React/JavaScript](https://dev.to/bytebodger/create-paint-by-numbers-from-digital-images-with-reactjavascript-2dc9)
 - [Dev.to/JS] [How to extract title, description or metadata from markdown](https://dev.to/codingnninja/how-to-extract-title-description-or-metadata-from-markdown-3nn8)
-- [Dev.to/JS] [How To Embed Tweets Without a Performance Penalty](https://dev.to/builderio/how-to-embed-tweets-without-a-performance-penalty-494k)
-- [Dev.to/JS] [Help needed](https://dev.to/mabediaby/help-needed-51of)
-- [Dev.to/JS] [Testes no Front-end: Escrevendo seu primeiro teste](https://dev.to/neiltonseguins/testes-no-front-end-escrevendo-seu-primeiro-teste-go4)
 - [Lifehacker] [11 Compound Butters That Will Get You Out of a Butter Rut](https://lifehacker.com/11-compound-butters-that-will-get-you-out-of-a-butter-r-1850174627)
-- [Dev.to/JS] [The Challenges of Lazy Loading in JavaScript](https://dev.to/builderio/the-challenges-of-lazy-loading-in-javascript-7j6)
 - [Lifehacker] [In Defense of the Landline Telephone](https://lifehacker.com/in-defense-of-the-landline-telephone-1850177268)
 - [Lifehacker] [This AI Will Create a ‘SparkNotes’ Summary of Any Article](https://lifehacker.com/this-ai-will-create-a-sparknotes-summary-of-any-artic-1850173701)
 - [Lifehacker] [Your Nissan Rogue Key Might Turn Your Engine Off Mid-Drive](https://lifehacker.com/your-nissan-rogue-key-might-turn-your-engine-off-mid-dr-1850174795)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Please Do Not Try to Sharpen Your Blender Blades With Eggshells](https://lifehacker.com/please-do-not-try-to-sharpen-your-blender-blades-with-e-1850169625)
 - [Lifehacker] [15 Times Oscar-Winners Slummed It in Popcorn Movies](https://lifehacker.com/15-times-oscar-winners-slummed-it-in-popcorn-movies-1850163179)
 - [Lifehacker] [How to Survive Quicksand, Falling Elevators, and 10 Other Movie ‘Dangers’](https://lifehacker.com/how-to-survive-quicksand-falling-elevators-and-10-oth-1850165549)
-- [Lifehacker] [What Is Erythritol &lpar;and How Bad Is It for You&rpar;?](https://lifehacker.com/what-is-erythritol-and-how-bad-is-it-for-you-1850170222)
-- [Lifehacker] [What&#39;s New on Prime Video in March 2023](https://lifehacker.com/whats-new-on-prime-video-in-march-2023-1850169834)
-- [Lifehacker] [Get These Gift Card Deals While You Can](https://lifehacker.com/get-these-gift-card-deals-while-you-can-1850168858)
-- [Lifehacker] [What&#39;s New on Hulu in March 2023](https://lifehacker.com/whats-new-on-hulu-in-march-2023-1850169381)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Is Erythritol &lpar;and How Bad Is It for You&rpar;?](https://lifehacker.com/what-is-erythritol-and-how-bad-is-it-for-you-1850170222)<!-- TECH-POSTS:END -->
 
 ---
 
