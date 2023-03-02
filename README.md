@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [11 New Windows 11 Features You Need to Know About](https://lifehacker.com/11-new-windows-11-features-you-need-to-know-about-1850178464)
+- [Dev.to/JS] [JavaScript Tutorial Series: Selecting elements](https://dev.to/fullstackjo/javascript-tutorial-series-selecting-elements-1fe3)
+- [Dev.to/JS] [O que é Hoisting no JavaScript](https://dev.to/joeldorosarioo/o-que-e-hoisting-4f85)
+- [Dev.to/JS] [GraphQL&#39;s @defer and @stream Directives are overkill](https://dev.to/wundergraph/graphqls-defer-and-stream-directives-are-overkill-52jp)
+- [Dev.to/JS] [Introducing the new Solid Query client](https://dev.to/wundergraph/introducing-the-new-solid-query-client-21mo)
 - [Lifehacker] [Why 11 Minutes a Day Is Your New Exercise Target](https://lifehacker.com/why-11-minutes-a-day-is-your-new-exercise-target-1850178554)
+- [Dev.to/JS] [Feedback required : My portfolio website project](https://dev.to/ziadoua/feedback-required-my-portfolio-website-project-3aah)
 - [Lifehacker] [17 Surprising Household Uses for Tennis Balls](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)
 - [Dev.to/JS] [The Revenge Official Clothing Brand](https://dev.to/revengeofficial/the-revenge-official-clothing-brand-2n5)
 - [Lifehacker] [This App Creates Step-by-Step How-to Guides for Anything You Do on Your Computer](https://lifehacker.com/this-app-creates-step-by-step-how-to-guides-for-anythin-1850177460)
@@ -35,13 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Fall for This Fake Authenticator App Scam](https://lifehacker.com/don-t-fall-for-this-fake-authenticator-app-scam-1850177439)
 - [Dev.to/JS] [Comprised Mac Studio — Hacked Developer Server - Remote Access Technology](https://dev.to/jesse_mink_27b5376f80f19b/comprised-mac-studio-hacked-developer-server-remote-access-technology-39hi)
 - [Lifehacker] [Why You Should Pour Drinks Upside Down](https://lifehacker.com/why-you-should-pour-drinks-upside-down-1850178027)
-- [Dev.to/JS] [JavaScript Variables](https://dev.to/lenacodes/javascript-variables-3p1g)
-- [Dev.to/JS] [Hoisting](https://dev.to/biplavmz/hoisting-32hp)
 - [Lifehacker] [Things You Should Never Vacuum With a Regular Vacuum Cleaner](https://lifehacker.com/things-you-should-never-vacuum-with-a-regular-vacuum-cl-1850175466)
-- [Dev.to/JS] [Mastering JS Event Bubbling and Delegation](https://dev.to/sakethkowtha/mastering-js-event-bubbling-and-delegation-5bf5)
-- [Dev.to/JS] [Equality Algorithms in JavaScript](https://dev.to/ahmedmohmd/equality-algorithms-in-javascript-4bfd)
 - [Lifehacker] [Why You Shouldn&#39;t Warm Up Your Car For Longer Than a Minute](https://lifehacker.com/why-you-shouldnt-warm-up-your-car-for-longer-than-a-min-1850175671)
-- [Dev.to/JS] [Build your own Tana clone with this new frontend](https://dev.to/progrium/build-your-own-tana-clone-with-this-new-frontend-15ao)
 - [Lifehacker] [Plan to Wait a Long Time for Your Passport](https://lifehacker.com/plan-to-wait-a-long-time-for-your-passport-1850174798)
 - [Lifehacker] [You Must Make These Air-Fried Caramel Pasta Crisps](https://lifehacker.com/you-must-make-these-air-fried-caramel-pasta-crisps-1850174639)
 - [Lifehacker] [11 Compound Butters That Will Get You Out of a Butter Rut](https://lifehacker.com/11-compound-butters-that-will-get-you-out-of-a-butter-r-1850174627)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Watch ‘Ted Lasso’ for Free With This Apple TV+ Deal](https://lifehacker.com/watch-ted-lasso-for-free-with-this-apple-tv-deal-1850170102)
 - [Lifehacker] [Hide Dog Treats in Your Dish Towels](https://lifehacker.com/hide-dog-treats-in-your-dish-towels-1850170131)
 - [Lifehacker] [The Most Strategic Time to Pay Your Credit Card Balance](https://lifehacker.com/the-most-strategic-time-to-pay-your-credit-card-balance-1850169559)
-- [Lifehacker] [What to Do When a Company Won’t Honor a Warranty](https://lifehacker.com/what-to-do-when-a-company-won-t-honor-a-warranty-1850169034)
-- [Lifehacker] [Your Air Fryer Isn&#39;t a Toaster](https://lifehacker.com/your-air-fryer-isnt-a-toaster-1850169974)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do When a Company Won’t Honor a Warranty](https://lifehacker.com/what-to-do-when-a-company-won-t-honor-a-warranty-1850169034)<!-- TECH-POSTS:END -->
 
 ---
 
