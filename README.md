@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Scrape Websites with Tampermonkey and Express JS: A Guide](https://dev.to/pradnyanandana/how-to-scrape-websites-with-tampermonkey-and-express-js-a-guide-3ahb)
+- [Dev.to/JS] [Build a ToDo App With React and Firebase](https://dev.to/devland/build-a-todo-app-with-react-and-firebase-47m1)
+- [Dev.to/JS] [Write Smart Contract In Solidity](https://dev.to/m_tribed/write-smart-contract-in-solidity-4l0p)
 - [Dev.to/JS] [Comprehensive Guide To Solidity Syntax](https://dev.to/m_tribed/comprehensive-guide-to-solidity-syntax-2aam)
 - [Dev.to/JS] [What is meme stock in the financial market?](https://dev.to/techstorror/what-is-meme-stock-in-the-financial-market-hdh)
 - [Dev.to/JS] [Compound components in React](https://dev.to/vikas2426/compound-components-in-react-14o2)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to Svelte](https://dev.to/arpitjalan/introduction-to-svelte-3i4k)
 - [Dev.to/JS] [CMD commands every programmer should know](https://dev.to/jon_snow789/cmd-commands-every-programmer-should-know-417f)
 - [Dev.to/JS] [CMD commands every programmer should know](https://dev.to/jon_snow789/cmd-commands-every-programmer-should-know-447e)
-- [Dev.to/JS] [Next.js vs React: 5 Fun Fact You Don&#39;t Know](https://dev.to/ferry/nextjs-vs-react-5-fun-fact-you-dont-know-5b8f)
-- [Dev.to/JS] [Exploring Expo Application Services: Building, Deploying and Managing Mobile Apps with Ease.](https://dev.to/adii9/exploring-expo-application-services-building-deploying-and-managing-mobile-apps-with-ease-b0e)
-- [Dev.to/JS] [How to compare mongoose model objects in jest while excluding _id](https://dev.to/codever/how-to-compare-mongoose-model-objects-in-jest-while-excluding-id-gj8)
 - [Lifehacker] [Here&#39;s the Latest Date You&#39;ll Receive Tax Forms This Year](https://lifehacker.com/heres-the-latest-date-youll-receive-tax-forms-this-year-1850173434)
 - [Lifehacker] [You Can Make a Tiny Yard Look a Lot Bigger](https://lifehacker.com/you-can-make-a-tiny-yard-look-a-lot-bigger-1850171585)
 - [Lifehacker] [You Can Get a Free Year of Tripadvisor Plus Right Now](https://lifehacker.com/you-can-get-a-free-year-of-tripadvisor-plus-right-now-1850173915)
