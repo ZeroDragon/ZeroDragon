@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Scraping With Puppeteer for Total Noobs: Part 3](https://dev.to/juniordevforlife/web-scraping-with-puppeteer-for-total-noobs-part-3-2il0)
+- [Dev.to/JS] [My dream habit tracker](https://dev.to/fromaline/my-dream-habit-tracker-10g8)
+- [Dev.to/JS] [Choosing Between ReactJS and VueJS: A Developer&#39;s Guide.](https://dev.to/alekiie/choosing-between-reactjs-and-vuejs-a-developers-guide-4bpp)
+- [Lifehacker] [Venus and Jupiter Are Kissing Again](https://lifehacker.com/venus-and-jupiter-are-kissing-again-1850178779)
+- [Dev.to/JS] [The Single-Threaded Nature of JavaScript/Typescript: Async Programming](https://dev.to/egimata/the-single-threaded-nature-of-javascripttypescript-async-programming-494d)
+- [Lifehacker] [10 Essential Uses for Rubbing Alcohol That Aren’t…Rubbing](https://lifehacker.com/10-essential-uses-for-rubbing-alcohol-that-aren-t-rubbi-1850179150)
 - [Lifehacker] [11 New Windows 11 Features You Need to Know About](https://lifehacker.com/11-new-windows-11-features-you-need-to-know-about-1850178464)
 - [Dev.to/JS] [JavaScript Tutorial Series: Selecting elements](https://dev.to/fullstackjo/javascript-tutorial-series-selecting-elements-1fe3)
 - [Dev.to/JS] [O que é Hoisting no JavaScript](https://dev.to/joeldorosarioo/o-que-e-hoisting-4f85)
@@ -35,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This App Creates Step-by-Step How-to Guides for Anything You Do on Your Computer](https://lifehacker.com/this-app-creates-step-by-step-how-to-guides-for-anythin-1850177460)
 - [Dev.to/JS] [Pipe a file stream from AWS S3 to OpenAI Whisper in Node.js](https://dev.to/antondosov/pipe-a-file-stream-from-aws-s3-to-openai-whisper-in-nodejs-3bkb)
 - [Dev.to/JS] [7 React native libraries and packages for UI design](https://dev.to/sergioholgado/7-react-native-libraries-and-packages-for-ui-design-59j0)
-- [Dev.to/JS] [Data storytelling with Plotteus](https://dev.to/bprusinowski/data-storytelling-with-plotteus-11mi)
-- [Dev.to/JS] [The React Tunnel Vision](https://dev.to/ignacioliotti/the-react-tunnel-vision-9c7)
-- [Dev.to/JS] [Build a custom tooltip directive with CSS and Vue](https://dev.to/mayashavin/build-a-custom-tooltip-directive-with-css-and-vue-3a8h)
 - [Lifehacker] [Don’t Fall for This Fake Authenticator App Scam](https://lifehacker.com/don-t-fall-for-this-fake-authenticator-app-scam-1850177439)
-- [Dev.to/JS] [Comprised Mac Studio — Hacked Developer Server - Remote Access Technology](https://dev.to/jesse_mink_27b5376f80f19b/comprised-mac-studio-hacked-developer-server-remote-access-technology-39hi)
 - [Lifehacker] [Why You Should Pour Drinks Upside Down](https://lifehacker.com/why-you-should-pour-drinks-upside-down-1850178027)
 - [Lifehacker] [Things You Should Never Vacuum With a Regular Vacuum Cleaner](https://lifehacker.com/things-you-should-never-vacuum-with-a-regular-vacuum-cl-1850175466)
 - [Lifehacker] [Why You Shouldn&#39;t Warm Up Your Car For Longer Than a Minute](https://lifehacker.com/why-you-shouldnt-warm-up-your-car-for-longer-than-a-min-1850175671)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in March 2023 &lpar;So Far&rpar;](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1850170782)
 - [Lifehacker] [Your $2 Bill Might Actually Be Worth a Lot More](https://lifehacker.com/your-2-bill-might-actually-be-worth-a-lot-more-1850170790)
 - [Lifehacker] [Watch ‘Ted Lasso’ for Free With This Apple TV+ Deal](https://lifehacker.com/watch-ted-lasso-for-free-with-this-apple-tv-deal-1850170102)
-- [Lifehacker] [Hide Dog Treats in Your Dish Towels](https://lifehacker.com/hide-dog-treats-in-your-dish-towels-1850170131)
-- [Lifehacker] [The Most Strategic Time to Pay Your Credit Card Balance](https://lifehacker.com/the-most-strategic-time-to-pay-your-credit-card-balance-1850169559)
-- [Lifehacker] [What to Do When a Company Won’t Honor a Warranty](https://lifehacker.com/what-to-do-when-a-company-won-t-honor-a-warranty-1850169034)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Hide Dog Treats in Your Dish Towels](https://lifehacker.com/hide-dog-treats-in-your-dish-towels-1850170131)<!-- TECH-POSTS:END -->
 
 ---
 
