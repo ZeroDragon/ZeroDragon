@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 11 Freelancing Websites for Software Testers&amp; QA. &lpar;Even as Manual Tester&rpar;](https://dev.to/promode/top-11-freelancing-websites-for-software-testers-qa-even-as-manual-tester-4kd2)
+- [Dev.to/JS] [Truthy And Falsy Value In JavaScript.](https://dev.to/azadulkabir455/truthy-and-falsy-value-in-javascript-4gjg)
+- [Dev.to/JS] [Machine learning with Django and React.js](https://dev.to/syedkashifnaqvi/machine-learning-with-django-and-reactjs-26ln)
 - [Dev.to/JS] [Challenge #7: 🎁 SVG NFT 🎫 Building Cohort Challenge](https://dev.to/kevinjoshi46b/challenge-7-svg-nft-building-cohort-challenge-28a9)
 - [Dev.to/JS] [Why I like Signals in Angular and the importance of Declarative code](https://dev.to/michelestieven/why-i-like-signals-in-angular-and-the-importance-of-declarative-code-4lh9)
 - [Dev.to/JS] [Tagged templates in JavaScript](https://dev.to/mrh0200/tagged-templates-in-javascript-n44)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New beginnings](https://dev.to/felixw01/new-beginnings-3f33)
 - [Dev.to/JS] [Complete front- end developer in just 3 mouths](https://dev.to/nhshanto/complete-front-end-developer-in-just-3-mouths-893)
 - [Dev.to/JS] [⚖️ Legal Compliance for Web Apps: Considerations](https://dev.to/dhrn/legal-compliance-for-web-apps-considerations-and-examples-37ih)
-- [Dev.to/JS] [Creating Web Accessibility: CSS Best Practices](https://dev.to/frontend_jedi/creating-web-accessibility-css-best-practices-46fm)
-- [Dev.to/JS] [How to create a Newsletter feedback form using React and Supabase](https://dev.to/gbadeboife/how-to-create-a-newsletter-feedback-form-using-react-and-supabase-30oe)
 - [Lifehacker] [Here&#39;s the Latest Date You&#39;ll Receive Tax Forms This Year](https://lifehacker.com/heres-the-latest-date-youll-receive-tax-forms-this-year-1850173434)
-- [Dev.to/JS] [Global Error Management in Nuxt.js Projects](https://dev.to/muhammederdinc/global-error-management-in-nuxtjs-projects-3d16)
 - [Lifehacker] [You Can Make a Tiny Yard Look a Lot Bigger](https://lifehacker.com/you-can-make-a-tiny-yard-look-a-lot-bigger-1850171585)
 - [Lifehacker] [You Can Get a Free Year of Tripadvisor Plus Right Now](https://lifehacker.com/you-can-get-a-free-year-of-tripadvisor-plus-right-now-1850173915)
 - [Lifehacker] [How to Cultivate a Houseplant Collection on a Budget](https://lifehacker.com/how-to-cultivate-a-houseplant-collection-on-a-budget-1850168112)
