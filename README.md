@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why 11 Minutes a Day Is Your New Exercise Target](https://lifehacker.com/why-11-minutes-a-day-is-your-new-exercise-target-1850178554)
+- [Lifehacker] [17 Surprising Household Uses for Tennis Balls](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)
+- [Dev.to/JS] [The Revenge Official Clothing Brand](https://dev.to/revengeofficial/the-revenge-official-clothing-brand-2n5)
 - [Lifehacker] [This App Creates Step-by-Step How-to Guides for Anything You Do on Your Computer](https://lifehacker.com/this-app-creates-step-by-step-how-to-guides-for-anythin-1850177460)
 - [Dev.to/JS] [Pipe a file stream from AWS S3 to OpenAI Whisper in Node.js](https://dev.to/antondosov/pipe-a-file-stream-from-aws-s3-to-openai-whisper-in-nodejs-3bkb)
 - [Dev.to/JS] [7 React native libraries and packages for UI design](https://dev.to/sergioholgado/7-react-native-libraries-and-packages-for-ui-design-59j0)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Equality Algorithms in JavaScript](https://dev.to/ahmedmohmd/equality-algorithms-in-javascript-4bfd)
 - [Lifehacker] [Why You Shouldn&#39;t Warm Up Your Car For Longer Than a Minute](https://lifehacker.com/why-you-shouldnt-warm-up-your-car-for-longer-than-a-min-1850175671)
 - [Dev.to/JS] [Build your own Tana clone with this new frontend](https://dev.to/progrium/build-your-own-tana-clone-with-this-new-frontend-15ao)
-- [Dev.to/JS] [Advanced JavaScript concepts: closures, Promises, and Async/Await](https://dev.to/kinjames/advanced-javascript-concepts-closures-promises-and-asyncawait-4m04)
 - [Lifehacker] [Plan to Wait a Long Time for Your Passport](https://lifehacker.com/plan-to-wait-a-long-time-for-your-passport-1850174798)
 - [Lifehacker] [You Must Make These Air-Fried Caramel Pasta Crisps](https://lifehacker.com/you-must-make-these-air-fried-caramel-pasta-crisps-1850174639)
 - [Lifehacker] [11 Compound Butters That Will Get You Out of a Butter Rut](https://lifehacker.com/11-compound-butters-that-will-get-you-out-of-a-butter-r-1850174627)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Hide Dog Treats in Your Dish Towels](https://lifehacker.com/hide-dog-treats-in-your-dish-towels-1850170131)
 - [Lifehacker] [The Most Strategic Time to Pay Your Credit Card Balance](https://lifehacker.com/the-most-strategic-time-to-pay-your-credit-card-balance-1850169559)
 - [Lifehacker] [What to Do When a Company Won’t Honor a Warranty](https://lifehacker.com/what-to-do-when-a-company-won-t-honor-a-warranty-1850169034)
-- [Lifehacker] [Your Air Fryer Isn&#39;t a Toaster](https://lifehacker.com/your-air-fryer-isnt-a-toaster-1850169974)
-- [Lifehacker] [Please Do Not Try to Sharpen Your Blender Blades With Eggshells](https://lifehacker.com/please-do-not-try-to-sharpen-your-blender-blades-with-e-1850169625)
-- [Lifehacker] [15 Times Oscar-Winners Slummed It in Popcorn Movies](https://lifehacker.com/15-times-oscar-winners-slummed-it-in-popcorn-movies-1850163179)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Air Fryer Isn&#39;t a Toaster](https://lifehacker.com/your-air-fryer-isnt-a-toaster-1850169974)<!-- TECH-POSTS:END -->
 
 ---
 
