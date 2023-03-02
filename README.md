@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Server-render your SPA in CI at deploy time 📸](https://dev.to/bryce/server-render-your-spa-in-ci-at-deploy-time-2798)
+- [Dev.to/JS] [Temporal Dead Zone - the less obvious part and how to avoid it](https://dev.to/hotjar/temporal-dead-zone-the-less-obvious-part-and-how-to-avoid-it-3k56)
+- [Dev.to/JS] [How to Create an Online Quiz or Assessment test using SurveyJS and add Scoring and Timing to It &lpar;Part 1&rpar;](https://dev.to/surveyjs/how-to-create-an-online-quiz-or-assessment-test-using-surveyjs-and-add-scoring-and-timing-to-it-part-1-520e)
 - [Dev.to/JS] [How to Scrape Websites with Tampermonkey and Express JS: A Guide](https://dev.to/pradnyanandana/how-to-scrape-websites-with-tampermonkey-and-express-js-a-guide-3ahb)
 - [Dev.to/JS] [Build a ToDo App With React and Firebase](https://dev.to/devland/build-a-todo-app-with-react-and-firebase-47m1)
 - [Dev.to/JS] [Write Smart Contract In Solidity](https://dev.to/m_tribed/write-smart-contract-in-solidity-4l0p)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What Is Solidity?](https://dev.to/m_tribed/what-is-solidity-2pao)
 - [Dev.to/JS] [How to setup SvelteKit with Tailwind CSS](https://dev.to/arpitjalan/how-to-setup-sveltekit-with-tailwind-css-49go)
 - [Dev.to/JS] [Have you wanted progress display for uploads?](https://dev.to/girish1729/have-you-wanted-progress-display-for-uploads-15n1)
-- [Dev.to/JS] [Introduction to Svelte](https://dev.to/arpitjalan/introduction-to-svelte-3i4k)
-- [Dev.to/JS] [CMD commands every programmer should know](https://dev.to/jon_snow789/cmd-commands-every-programmer-should-know-417f)
-- [Dev.to/JS] [CMD commands every programmer should know](https://dev.to/jon_snow789/cmd-commands-every-programmer-should-know-447e)
 - [Lifehacker] [Here&#39;s the Latest Date You&#39;ll Receive Tax Forms This Year](https://lifehacker.com/heres-the-latest-date-youll-receive-tax-forms-this-year-1850173434)
 - [Lifehacker] [You Can Make a Tiny Yard Look a Lot Bigger](https://lifehacker.com/you-can-make-a-tiny-yard-look-a-lot-bigger-1850171585)
 - [Lifehacker] [You Can Get a Free Year of Tripadvisor Plus Right Now](https://lifehacker.com/you-can-get-a-free-year-of-tripadvisor-plus-right-now-1850173915)
