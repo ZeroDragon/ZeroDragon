@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build your own Tana clone with this new frontend](https://dev.to/progrium/build-your-own-tana-clone-with-this-new-frontend-15ao)
+- [Dev.to/JS] [Advanced JavaScript concepts: closures, Promises, and Async/Await](https://dev.to/kinjames/advanced-javascript-concepts-closures-promises-and-asyncawait-4m04)
+- [Lifehacker] [Plan to Wait a Long Time for Your Passport](https://lifehacker.com/plan-to-wait-a-long-time-for-your-passport-1850174798)
+- [Lifehacker] [You Must Make These Air-Fried Caramel Pasta Crisps](https://lifehacker.com/you-must-make-these-air-fried-caramel-pasta-crisps-1850174639)
 - [Dev.to/JS] [4 Full-Stack Project ideas for Developers](https://dev.to/hardikgohilhlr/4-full-stack-project-ideas-for-developers-23dc)
 - [Dev.to/JS] [3 Kinds of Loops That We Use All The Time Without Knowing Their Names.](https://dev.to/codeguage/3-kinds-of-loops-that-we-use-all-the-time-without-knowing-their-names-4oh1)
 - [Dev.to/JS] [Learn React Server Components in 7 easy to follow steps](https://dev.to/kulkarniankita9/learn-react-server-components-in-7-easy-to-follow-steps-52mb)
@@ -34,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Testes no Front-end: Escrevendo seu primeiro teste](https://dev.to/neiltonseguins/testes-no-front-end-escrevendo-seu-primeiro-teste-go4)
 - [Lifehacker] [11 Compound Butters That Will Get You Out of a Butter Rut](https://lifehacker.com/11-compound-butters-that-will-get-you-out-of-a-butter-r-1850174627)
 - [Dev.to/JS] [The Challenges of Lazy Loading in JavaScript](https://dev.to/builderio/the-challenges-of-lazy-loading-in-javascript-7j6)
-- [Dev.to/JS] [Let&#39;s learn Solid.js quickly, by creating a useDebounce hook](https://dev.to/aderchox/lets-learn-solidjs-quickly-by-creating-a-usedebounce-hook-3hf0)
 - [Lifehacker] [In Defense of the Landline Telephone](https://lifehacker.com/in-defense-of-the-landline-telephone-1850177268)
-- [Dev.to/JS] [Introducing Vanilla-extract.style: A Modern and Efficient Way to Write Styles in JavaScript](https://dev.to/sidramaqbool/introducing-vanilla-extractstyle-a-modern-and-efficient-way-to-write-styles-in-javascript-30i3)
 - [Lifehacker] [This AI Will Create a ‘SparkNotes’ Summary of Any Article](https://lifehacker.com/this-ai-will-create-a-sparknotes-summary-of-any-artic-1850173701)
 - [Lifehacker] [Your Nissan Rogue Key Might Turn Your Engine Off Mid-Drive](https://lifehacker.com/your-nissan-rogue-key-might-turn-your-engine-off-mid-dr-1850174795)
 - [Lifehacker] [Here&#39;s the Latest Date You&#39;ll Receive Tax Forms This Year](https://lifehacker.com/heres-the-latest-date-youll-receive-tax-forms-this-year-1850173434)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is Erythritol &lpar;and How Bad Is It for You&rpar;?](https://lifehacker.com/what-is-erythritol-and-how-bad-is-it-for-you-1850170222)
 - [Lifehacker] [What&#39;s New on Prime Video in March 2023](https://lifehacker.com/whats-new-on-prime-video-in-march-2023-1850169834)
 - [Lifehacker] [Get These Gift Card Deals While You Can](https://lifehacker.com/get-these-gift-card-deals-while-you-can-1850168858)
-- [Lifehacker] [What&#39;s New on Hulu in March 2023](https://lifehacker.com/whats-new-on-hulu-in-march-2023-1850169381)
-- [Lifehacker] [You Can Finally Search for Comments in Reddit Threads](https://lifehacker.com/you-can-finally-search-for-comments-in-reddit-threads-1850168769)
-- [Lifehacker] [9 Extremely Niche &lpar;but Still Useful&rpar; Mobile Apps](https://lifehacker.com/9-extremely-niche-but-still-useful-mobile-apps-1850168829)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Hulu in March 2023](https://lifehacker.com/whats-new-on-hulu-in-march-2023-1850169381)<!-- TECH-POSTS:END -->
 
 ---
 
