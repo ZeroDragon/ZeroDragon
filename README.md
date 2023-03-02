@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Nissan Rogue Key Might Turn Your Engine Off Mid-Drive](https://lifehacker.com/your-nissan-rogue-key-might-turn-your-engine-off-mid-dr-1850174795)
+- [Dev.to/JS] [Angular Interview Questions : ChatGPT Answers](https://dev.to/manmohan/angular-interview-questions-chatgpt-answers-3f9c)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Entre gato e rato](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-entre-gato-e-rato-4n5)
+- [Dev.to/JS] [JavaScript News, Updates, and Tutorials: February 2023 Edition](https://dev.to/plazarev/javascript-news-updates-and-tutorials-february-2023-edition-3fpo)
+- [Dev.to/JS] [Circular dependency in Nest JS](https://dev.to/matbami/circular-dependency-in-nest-js-3764)
 - [Dev.to/JS] [Component Series: Element Plus Table part 2](https://dev.to/rax/component-series-element-plus-table-part-2-3gl0)
 - [Dev.to/JS] [Código Limpo em Javascript para Iniciantes](https://dev.to/robsonamendonca/codigo-limpo-em-javascript-para-iniciantes-41hm)
 - [Dev.to/JS] [Paracetamol.ts💊| #23: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-23-explica-este-codigo-typescript-48ip)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Protonshub Technologies: Top Software Development Company in the USA](https://dev.to/protonshub_technologies/protonshub-technologies-top-software-development-company-in-the-usa-1848)
 - [Dev.to/JS] [Compatibility Testing to Create Perfectly Working Apps](https://dev.to/kavithar/compatibility-testing-to-create-perfectly-working-apps-1k7g)
 - [Dev.to/JS] [Exploring the Top Charting Libraries for React](https://dev.to/surajondev/exploring-the-top-charting-libraries-for-react-22bp)
-- [Dev.to/JS] [Evolution of Frontend Frameworks over the Last Decade](https://dev.to/chaituknag/evolution-of-frontend-frameworks-over-the-last-decade-84f)
-- [Dev.to/JS] [Zelzele . io](https://dev.to/ahmetilhan24/zelzele-io-37g6)
-- [Dev.to/JS] [Server-render your SPA in CI at deploy time 📸](https://dev.to/bryce/server-render-your-spa-in-ci-at-deploy-time-2798)
-- [Dev.to/JS] [Temporal Dead Zone - the less obvious part and how to avoid it](https://dev.to/hotjar/temporal-dead-zone-the-less-obvious-part-and-how-to-avoid-it-3k56)
 - [Lifehacker] [Here&#39;s the Latest Date You&#39;ll Receive Tax Forms This Year](https://lifehacker.com/heres-the-latest-date-youll-receive-tax-forms-this-year-1850173434)
 - [Lifehacker] [You Can Make a Tiny Yard Look a Lot Bigger](https://lifehacker.com/you-can-make-a-tiny-yard-look-a-lot-bigger-1850171585)
 - [Lifehacker] [You Can Get a Free Year of Tripadvisor Plus Right Now](https://lifehacker.com/you-can-get-a-free-year-of-tripadvisor-plus-right-now-1850173915)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Extremely Niche &lpar;but Still Useful&rpar; Mobile Apps](https://lifehacker.com/9-extremely-niche-but-still-useful-mobile-apps-1850168829)
 - [Lifehacker] [The Best Grocery Store Apps for Every Need](https://lifehacker.com/the-best-grocery-store-apps-for-every-need-1850168630)
 - [Lifehacker] [10 Professional Baking Tools I Use at Home](https://lifehacker.com/10-professional-baking-tools-i-use-at-home-1850168766)
-- [Lifehacker] [Stop Using Cheap Plastic Drywall Anchors](https://lifehacker.com/stop-using-cheap-plastic-drywall-anchors-1850168414)
-- [Lifehacker] [Don’t Trust Your iPhone’s Passcode to Keep Your Data Safe](https://lifehacker.com/don-t-trust-your-iphone-s-passcode-to-keep-your-data-sa-1850166806)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stop Using Cheap Plastic Drywall Anchors](https://lifehacker.com/stop-using-cheap-plastic-drywall-anchors-1850168414)<!-- TECH-POSTS:END -->
 
 ---
 
