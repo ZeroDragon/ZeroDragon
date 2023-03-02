@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [New beginnings](https://dev.to/felixw01/new-beginnings-3f33)
+- [Dev.to/JS] [Complete front- end developer in just 3 mouths](https://dev.to/nhshanto/complete-front-end-developer-in-just-3-mouths-893)
+- [Dev.to/JS] [⚖️ Legal Compliance for Web Apps: Considerations](https://dev.to/dhrn/legal-compliance-for-web-apps-considerations-and-examples-37ih)
+- [Dev.to/JS] [Creating Web Accessibility: CSS Best Practices](https://dev.to/frontend_jedi/creating-web-accessibility-css-best-practices-46fm)
 - [Dev.to/JS] [How to create a Newsletter feedback form using React and Supabase](https://dev.to/gbadeboife/how-to-create-a-newsletter-feedback-form-using-react-and-supabase-30oe)
 - [Lifehacker] [Here&#39;s the Latest Date You&#39;ll Receive Tax Forms This Year](https://lifehacker.com/heres-the-latest-date-youll-receive-tax-forms-this-year-1850173434)
 - [Dev.to/JS] [Global Error Management in Nuxt.js Projects](https://dev.to/muhammederdinc/global-error-management-in-nuxtjs-projects-3d16)
@@ -38,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Merge Excel XLSX Workbooks in Your JavaScript Application](https://dev.to/grapecity/how-to-merge-excel-xlsx-workbooks-in-your-javascript-application-3dbk)
 - [Lifehacker] [How to Get iMessage on Windows](https://lifehacker.com/how-to-get-imessage-on-windows-1850170042)
 - [Dev.to/JS] [The Top 10 React UI Component Libraries](https://dev.to/kalinacode/the-top-10-react-ui-component-libraries-51mn)
-- [Dev.to/JS] [Prevent re-loading](https://dev.to/lausuarez02/prevent-re-loading-3d4m)
-- [Dev.to/JS] [JavaScript DOM Changes](https://dev.to/nsantiago/javascript-dom-changes-39me)
 - [Lifehacker] [Make a Crispy Tapioca Shell With Only Two Ingredients](https://lifehacker.com/make-a-crispy-tapioca-shell-with-only-two-ingredients-1850170397)
-- [Dev.to/JS] [Visualizing your photos on a map with React Native](https://dev.to/bohdanstupak1/visualizing-your-photos-on-a-map-with-react-native-212c)
 - [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in March 2023 &lpar;So Far&rpar;](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1850170782)
-- [Dev.to/JS] [JSTools Weekly — ✨2023#8: TS-Reset: A ‘CSS reset’ For TS, Improving JS Types](https://dev.to/jstoolsweekly/jstools-weekly-20238-ts-reset-a-css-reset-for-ts-improving-js-types-1hk7)
 - [Lifehacker] [Your $2 Bill Might Actually Be Worth a Lot More](https://lifehacker.com/your-2-bill-might-actually-be-worth-a-lot-more-1850170790)
 - [Lifehacker] [Watch ‘Ted Lasso’ for Free With This Apple TV+ Deal](https://lifehacker.com/watch-ted-lasso-for-free-with-this-apple-tv-deal-1850170102)
 - [Lifehacker] [Hide Dog Treats in Your Dish Towels](https://lifehacker.com/hide-dog-treats-in-your-dish-towels-1850170131)
