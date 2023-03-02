@@ -23,21 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [4 Full-Stack Project ideas for Developers](https://dev.to/hardikgohilhlr/4-full-stack-project-ideas-for-developers-23dc)
+- [Dev.to/JS] [3 Kinds of Loops That We Use All The Time Without Knowing Their Names.](https://dev.to/codeguage/3-kinds-of-loops-that-we-use-all-the-time-without-knowing-their-names-4oh1)
+- [Dev.to/JS] [Learn React Server Components in 7 easy to follow steps](https://dev.to/kulkarniankita9/learn-react-server-components-in-7-easy-to-follow-steps-52mb)
+- [Dev.to/JS] [Free resources that helped me master React as a Self Taught Web Developer](https://dev.to/asheeshh/free-resources-that-helped-me-master-react-as-a-self-taught-web-developer-58k2)
+- [Dev.to/JS] [Paint-by-Numbers From Digital Images With React/JavaScript](https://dev.to/bytebodger/create-paint-by-numbers-from-digital-images-with-reactjavascript-2dc9)
+- [Dev.to/JS] [How to extract title, description or metadata from markdown](https://dev.to/codingnninja/how-to-extract-title-description-or-metadata-from-markdown-3nn8)
+- [Dev.to/JS] [How To Embed Tweets Without a Performance Penalty](https://dev.to/builderio/how-to-embed-tweets-without-a-performance-penalty-494k)
+- [Dev.to/JS] [Help needed](https://dev.to/mabediaby/help-needed-51of)
+- [Dev.to/JS] [Testes no Front-end: Escrevendo seu primeiro teste](https://dev.to/neiltonseguins/testes-no-front-end-escrevendo-seu-primeiro-teste-go4)
+- [Lifehacker] [11 Compound Butters That Will Get You Out of a Butter Rut](https://lifehacker.com/11-compound-butters-that-will-get-you-out-of-a-butter-r-1850174627)
+- [Dev.to/JS] [The Challenges of Lazy Loading in JavaScript](https://dev.to/builderio/the-challenges-of-lazy-loading-in-javascript-7j6)
+- [Dev.to/JS] [Let&#39;s learn Solid.js quickly, by creating a useDebounce hook](https://dev.to/aderchox/lets-learn-solidjs-quickly-by-creating-a-usedebounce-hook-3hf0)
 - [Lifehacker] [In Defense of the Landline Telephone](https://lifehacker.com/in-defense-of-the-landline-telephone-1850177268)
 - [Dev.to/JS] [Introducing Vanilla-extract.style: A Modern and Efficient Way to Write Styles in JavaScript](https://dev.to/sidramaqbool/introducing-vanilla-extractstyle-a-modern-and-efficient-way-to-write-styles-in-javascript-30i3)
-- [Dev.to/JS] [Five minute maintainers: Meet Felix Böhm 👋🏾](https://dev.to/tidelift/five-minute-maintainers-meet-felix-bohm-5ki)
 - [Lifehacker] [This AI Will Create a ‘SparkNotes’ Summary of Any Article](https://lifehacker.com/this-ai-will-create-a-sparknotes-summary-of-any-artic-1850173701)
-- [Dev.to/JS] [How to Build Real-time Weather App Using Vanilla JavaScript and API](https://dev.to/codewithsadee/how-to-build-real-time-weather-app-using-vanilla-javascript-and-api-4j21)
-- [Dev.to/JS] [Comprehensive List of React Concepts for Beginners and Intermediate Developers](https://dev.to/sidramaqbool/comprehensive-list-of-react-concepts-for-beginners-and-intermediate-developers-1ogp)
 - [Lifehacker] [Your Nissan Rogue Key Might Turn Your Engine Off Mid-Drive](https://lifehacker.com/your-nissan-rogue-key-might-turn-your-engine-off-mid-dr-1850174795)
-- [Dev.to/JS] [YOUR SOFTWARE PERFORMANCE IS LOSING YOU MONEY](https://dev.to/juwoncaleb/your-software-performance-is-losing-you-money-41o)
-- [Dev.to/JS] [Angular Interview Questions : ChatGPT Answers](https://dev.to/manmohan/angular-interview-questions-chatgpt-answers-3f9c)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Entre gato e rato](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-entre-gato-e-rato-4n5)
-- [Dev.to/JS] [JavaScript News, Updates, and Tutorials: February 2023 Edition](https://dev.to/plazarev/javascript-news-updates-and-tutorials-february-2023-edition-3fpo)
-- [Dev.to/JS] [Circular dependency in Nest JS](https://dev.to/matbami/circular-dependency-in-nest-js-3764)
-- [Dev.to/JS] [Component Series: Element Plus Table part 2](https://dev.to/rax/component-series-element-plus-table-part-2-3gl0)
-- [Dev.to/JS] [Código Limpo em Javascript para Iniciantes](https://dev.to/robsonamendonca/codigo-limpo-em-javascript-para-iniciantes-41hm)
-- [Dev.to/JS] [Paracetamol.ts💊| #23: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-23-explica-este-codigo-typescript-48ip)
 - [Lifehacker] [Here&#39;s the Latest Date You&#39;ll Receive Tax Forms This Year](https://lifehacker.com/heres-the-latest-date-youll-receive-tax-forms-this-year-1850173434)
 - [Lifehacker] [You Can Make a Tiny Yard Look a Lot Bigger](https://lifehacker.com/you-can-make-a-tiny-yard-look-a-lot-bigger-1850171585)
 - [Lifehacker] [You Can Get a Free Year of Tripadvisor Plus Right Now](https://lifehacker.com/you-can-get-a-free-year-of-tripadvisor-plus-right-now-1850173915)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get These Gift Card Deals While You Can](https://lifehacker.com/get-these-gift-card-deals-while-you-can-1850168858)
 - [Lifehacker] [What&#39;s New on Hulu in March 2023](https://lifehacker.com/whats-new-on-hulu-in-march-2023-1850169381)
 - [Lifehacker] [You Can Finally Search for Comments in Reddit Threads](https://lifehacker.com/you-can-finally-search-for-comments-in-reddit-threads-1850168769)
-- [Lifehacker] [9 Extremely Niche &lpar;but Still Useful&rpar; Mobile Apps](https://lifehacker.com/9-extremely-niche-but-still-useful-mobile-apps-1850168829)
-- [Lifehacker] [The Best Grocery Store Apps for Every Need](https://lifehacker.com/the-best-grocery-store-apps-for-every-need-1850168630)<!-- TECH-POSTS:END -->
+- [Lifehacker] [9 Extremely Niche &lpar;but Still Useful&rpar; Mobile Apps](https://lifehacker.com/9-extremely-niche-but-still-useful-mobile-apps-1850168829)<!-- TECH-POSTS:END -->
 
 ---
 
