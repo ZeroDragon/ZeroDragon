@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build an accordion component with Alpine.js](https://dev.to/michaelburrows/build-an-accordion-component-with-alpinejs-2nl6)
 - [Dev.to/JS] [How to Consume an API with Vanilla Javascript](https://dev.to/aikay/how-to-consume-an-api-with-vanilla-javascript-5ec7)
 - [Dev.to/JS] [Web Scraping With Puppeteer for Total Noobs: Part 3](https://dev.to/juniordevforlife/web-scraping-with-puppeteer-for-total-noobs-part-3-2il0)
 - [Lifehacker] [Use This Map to Find BOGO Subway Footlongs Near You](https://lifehacker.com/use-this-map-to-find-bogo-subway-footlongs-near-you-1850180204)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [17 Surprising Household Uses for Tennis Balls](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)
 - [Dev.to/JS] [The Revenge Official Clothing Brand](https://dev.to/revengeofficial/the-revenge-official-clothing-brand-2n5)
 - [Lifehacker] [This App Creates Step-by-Step How-to Guides for Anything You Do on Your Computer](https://lifehacker.com/this-app-creates-step-by-step-how-to-guides-for-anythin-1850177460)
-- [Dev.to/JS] [Pipe a file stream from AWS S3 to OpenAI Whisper in Node.js](https://dev.to/antondosov/pipe-a-file-stream-from-aws-s3-to-openai-whisper-in-nodejs-3bkb)
 - [Lifehacker] [Don’t Fall for This Fake Authenticator App Scam](https://lifehacker.com/don-t-fall-for-this-fake-authenticator-app-scam-1850177439)
 - [Lifehacker] [Why You Should Pour Drinks Upside Down](https://lifehacker.com/why-you-should-pour-drinks-upside-down-1850178027)
 - [Lifehacker] [Things You Should Never Vacuum With a Regular Vacuum Cleaner](https://lifehacker.com/things-you-should-never-vacuum-with-a-regular-vacuum-cl-1850175466)
