@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Install Node.js as a Non-Root User Using NVM: A Step-by-Step Guide](https://dev.to/hasidicdevs/how-to-install-nodejs-as-a-non-root-user-using-nvm-a-step-by-step-guide-424e)
+- [Crazy Programmer] [5 Generations of Computer](https://www.thecrazyprogrammer.com/2023/03/generations-of-computer.html)
+- [Lifehacker] [Don’t Let These March Class-Action Settlement Deadlines Pass You By](https://lifehacker.com/don-t-let-these-march-class-action-settlement-deadlines-1850181301)
+- [Dev.to/JS] [Dashboard for laptop monitoring!!!!](https://dev.to/bytesofusman/dashboard-for-laptop-monitoring-1oeo)
 - [Lifehacker] [Six Hidden Costs That Make Moving Even More Expensive](https://lifehacker.com/six-hidden-costs-that-make-moving-even-more-expensive-1850181842)
+- [Dev.to/JS] [Paracetamol.ts💊| #24: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-24-explica-este-codigo-typescript-2hfc)
 - [Dev.to/JS] [Improve your Javascript debugging Skills](https://dev.to/silentcoder52626/improve-your-javascript-debugging-skills-50ia)
 - [Dev.to/JS] [Shadow DOM: What it is and how it works](https://dev.to/stefannieuwenhuis/shadow-dom-what-it-is-and-how-it-works-4d4h)
 - [Lifehacker] [Shaken Baileys Is the Best St. Patrick&#39;s Day Cocktail](https://lifehacker.com/shaken-baileys-is-the-best-st-patricks-day-cocktail-1850181410)
@@ -36,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code splitting en React JS.](https://dev.to/franklin030601/code-splitting-en-react-js-19mc)
 - [Dev.to/JS] [Code splitting in React JS](https://dev.to/franklin030601/code-splitting-in-react-js-4o2g)
 - [Dev.to/JS] [TypeScript - Por que usar?](https://dev.to/dsiqueira/typescript-por-que-usar-387n)
-- [Dev.to/JS] [Improve the speed of your AWS lambda API &lpar;NodeJS&rpar; with these two easy techniques.](https://dev.to/aws-builders/improve-the-speed-of-your-aws-lambda-api-nodejs-with-these-two-easy-techniques-373c)
-- [Dev.to/JS] [PrismaJS - O que é?](https://dev.to/dsiqueira/prismajs-o-que-e-ppo)
-- [Dev.to/JS] [Wasp Beta Update — February 2023](https://dev.to/matijasos/wasp-beta-update-february-2023-177j)
 - [Lifehacker] [20 of the Best Boxing Movies of All Time](https://lifehacker.com/20-of-the-best-boxing-movies-of-all-time-1850172719)
 - [Lifehacker] [Use This Map to Find BOGO Subway Footlongs Near You](https://lifehacker.com/use-this-map-to-find-bogo-subway-footlongs-near-you-1850180204)
 - [Lifehacker] [Venus and Jupiter Are Kissing Again](https://lifehacker.com/venus-and-jupiter-are-kissing-again-1850178779)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s the Latest Date You&#39;ll Receive Tax Forms This Year](https://lifehacker.com/heres-the-latest-date-youll-receive-tax-forms-this-year-1850173434)
 - [Lifehacker] [You Can Make a Tiny Yard Look a Lot Bigger](https://lifehacker.com/you-can-make-a-tiny-yard-look-a-lot-bigger-1850171585)
 - [Lifehacker] [You Can Get a Free Year of Tripadvisor Plus Right Now](https://lifehacker.com/you-can-get-a-free-year-of-tripadvisor-plus-right-now-1850173915)
-- [Lifehacker] [How to Cultivate a Houseplant Collection on a Budget](https://lifehacker.com/how-to-cultivate-a-houseplant-collection-on-a-budget-1850168112)
-- [Lifehacker] [Security Keys Are the Best Way to Protect Your Apple ID](https://lifehacker.com/security-keys-are-the-best-way-to-protect-your-apple-id-1850172412)
-- [Lifehacker] [7 Todoist Features You’re Not Using &lpar;but Should Be&rpar;](https://lifehacker.com/7-todoist-features-you-re-not-using-but-should-be-1850171967)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Cultivate a Houseplant Collection on a Budget](https://lifehacker.com/how-to-cultivate-a-houseplant-collection-on-a-budget-1850168112)<!-- TECH-POSTS:END -->
 
 ---
 
