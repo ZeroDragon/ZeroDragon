@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Different Hoisting Behaviour between var, let &amp; const](https://dev.to/riyadhossain/different-hoisting-behaviour-between-var-let-const-3io5)
+- [Dev.to/JS] [Choosing Your First Programming Language: A Beginner’s Guide](https://dev.to/jakeroid/choosing-your-first-programming-language-a-beginners-guide-2i04)
+- [Dev.to/JS] [One easy way to set the name in jest repetitive tests &lpar;test.each&rpar;](https://dev.to/codever/an-easy-way-to-set-test-name-in-jest-repetitive-tests-testeach-12ah)
+- [Dev.to/JS] [Are variables with let and const keywords hoisted?](https://dev.to/riyadhossain/different-hoisting-behaviour-between-var-let-const-3io5)
 - [Dev.to/JS] [Faking private class constructors in JavaScript](https://dev.to/tylerlwsmith/faking-private-class-constructors-in-javascript-21eh)
 - [Dev.to/JS] [Practical Examples of TypeScript](https://dev.to/riyadhossain/typescirpt-2g3)
 - [Dev.to/JS] [Build an accordion component with Alpine.js](https://dev.to/michaelburrows/build-an-accordion-component-with-alpinejs-2nl6)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Essential Uses for Rubbing Alcohol That Aren’t…Rubbing](https://lifehacker.com/10-essential-uses-for-rubbing-alcohol-that-aren-t-rubbi-1850179150)
 - [Lifehacker] [11 New Windows 11 Features You Need to Know About](https://lifehacker.com/11-new-windows-11-features-you-need-to-know-about-1850178464)
 - [Dev.to/JS] [JavaScript Tutorial Series: Selecting elements](https://dev.to/fullstackjo/javascript-tutorial-series-selecting-elements-1fe3)
-- [Dev.to/JS] [O que é Hoisting no JavaScript](https://dev.to/joeldorosarioo/o-que-e-hoisting-4f85)
-- [Dev.to/JS] [GraphQL&#39;s @defer and @stream Directives are overkill](https://dev.to/wundergraph/graphqls-defer-and-stream-directives-are-overkill-52jp)
 - [Lifehacker] [Why 11 Minutes a Day Is Your New Exercise Target](https://lifehacker.com/why-11-minutes-a-day-is-your-new-exercise-target-1850178554)
 - [Lifehacker] [17 Surprising Household Uses for Tennis Balls](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)
 - [Lifehacker] [This App Creates Step-by-Step How-to Guides for Anything You Do on Your Computer](https://lifehacker.com/this-app-creates-step-by-step-how-to-guides-for-anythin-1850177460)
