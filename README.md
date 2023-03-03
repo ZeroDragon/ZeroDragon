@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Dominate Your Kid’s Next ‘Sugar Rush’ Before It Starts](https://lifehacker.com/dominate-your-kid-s-next-sugar-rush-before-it-starts-1850181643)
+- [Dev.to/JS] [JavaScript Tutorial Series: Traversing elements](https://dev.to/fullstackjo/javascript-tutorial-series-traversing-elements-122i)
+- [Lifehacker] [How to Give the Best Presentation of Your Life](https://lifehacker.com/how-to-give-the-best-presentation-of-your-life-1850183217)
+- [Dev.to/JS] [Making the Case for Signals in JavaScript](https://dev.to/this-is-learning/making-the-case-for-signals-in-javascript-4c7i)
+- [Lifehacker] [10 Ways to Build a Better Smoothie](https://lifehacker.com/10-ways-to-build-a-better-smoothie-1850184624)
 - [Dev.to/JS] [how to make dynamic element center horizontally in react js?](https://dev.to/jacksonkasi/how-to-make-dynamic-element-center-horizontally-in-react-js-a1e)
 - [Lifehacker] [Stalk Yelp Users With Good Taste](https://lifehacker.com/stalk-yelp-users-with-good-taste-1850182047)
 - [Dev.to/JS] [Final Thoughts on Speed Run Ethereum 🚀](https://dev.to/kevinjoshi46b/final-thoughts-on-speed-run-ethereum-1ib2)
@@ -42,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Shadow DOM: What it is and how it works](https://dev.to/stefannieuwenhuis/shadow-dom-what-it-is-and-how-it-works-4d4h)
 - [Lifehacker] [Shaken Baileys Is the Best St. Patrick&#39;s Day Cocktail](https://lifehacker.com/shaken-baileys-is-the-best-st-patricks-day-cocktail-1850181410)
 - [Lifehacker] [The Best Drink to Order at a Work Function Is the One You Don’t Like](https://lifehacker.com/the-best-drink-to-order-at-a-work-function-is-the-one-y-1850179894)
-- [Dev.to/JS] [How to jQuery to Javascript ?](https://dev.to/codentools/how-to-jquery-to-javascript--514j)
-- [Dev.to/JS] [O que são e como usar Promises e Async/Await?](https://dev.to/dsiqueira/o-que-sao-e-como-usar-promises-e-asyncawait-5ce2)
 - [Lifehacker] [When It’s OK to Pay Bills With Your Credit Card &lpar;and When It Isn’t&rpar;](https://lifehacker.com/when-it-s-ok-to-pay-bills-with-your-credit-card-and-wh-1850169655)
 - [Lifehacker] [20 of the Best Boxing Movies of All Time](https://lifehacker.com/20-of-the-best-boxing-movies-of-all-time-1850172719)
 - [Lifehacker] [Use This Map to Find BOGO Subway Footlongs Near You](https://lifehacker.com/use-this-map-to-find-bogo-subway-footlongs-near-you-1850180204)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Shouldn&#39;t Warm Up Your Car For Longer Than a Minute](https://lifehacker.com/why-you-shouldnt-warm-up-your-car-for-longer-than-a-min-1850175671)
 - [Lifehacker] [Plan to Wait a Long Time for Your Passport](https://lifehacker.com/plan-to-wait-a-long-time-for-your-passport-1850174798)
 - [Lifehacker] [You Must Make These Air-Fried Caramel Pasta Crisps](https://lifehacker.com/you-must-make-these-air-fried-caramel-pasta-crisps-1850174639)
-- [Lifehacker] [11 Compound Butters That Will Get You Out of a Butter Rut](https://lifehacker.com/11-compound-butters-that-will-get-you-out-of-a-butter-r-1850174627)
-- [Lifehacker] [In Defense of the Landline Telephone](https://lifehacker.com/in-defense-of-the-landline-telephone-1850177268)
-- [Lifehacker] [This AI Will Create a ‘SparkNotes’ Summary of Any Article](https://lifehacker.com/this-ai-will-create-a-sparknotes-summary-of-any-artic-1850173701)
-- [Lifehacker] [Your Nissan Rogue Key Might Turn Your Engine Off Mid-Drive](https://lifehacker.com/your-nissan-rogue-key-might-turn-your-engine-off-mid-dr-1850174795)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 Compound Butters That Will Get You Out of a Butter Rut](https://lifehacker.com/11-compound-butters-that-will-get-you-out-of-a-butter-r-1850174627)<!-- TECH-POSTS:END -->
 
 ---
 
