@@ -23,18 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Drink to Order at a Work Function Is the One You Don’t Like](https://lifehacker.com/the-best-drink-to-order-at-a-work-function-is-the-one-y-1850179894)
+- [Dev.to/JS] [O que são e como usar Promises e Async/Await?](https://dev.to/dsiqueira/o-que-sao-e-como-usar-promises-e-asyncawait-5ce2)
+- [Dev.to/JS] [Form Validation with Asynchronous JavaScript](https://dev.to/mattryanmtl/form-validation-with-asynchronous-javascript-k61)
+- [Dev.to/JS] [Mastering Email Sending with NodeJS and Express: A Step-by-Step Guide](https://dev.to/anujkumaraj/mastering-email-sending-with-nodejs-and-express-a-step-by-step-guide-4nkn)
+- [Lifehacker] [When It’s OK to Pay Bills With Your Credit Card &lpar;and When It Isn’t&rpar;](https://lifehacker.com/when-it-s-ok-to-pay-bills-with-your-credit-card-and-wh-1850169655)
+- [Dev.to/JS] [Code splitting en React JS.](https://dev.to/franklin030601/code-splitting-en-react-js-19mc)
+- [Dev.to/JS] [Code splitting in React JS](https://dev.to/franklin030601/code-splitting-in-react-js-4o2g)
+- [Dev.to/JS] [TypeScript - Por que usar?](https://dev.to/dsiqueira/typescript-por-que-usar-387n)
+- [Dev.to/JS] [Improve the speed of your AWS lambda API &lpar;NodeJS&rpar; with these two easy techniques.](https://dev.to/aws-builders/improve-the-speed-of-your-aws-lambda-api-nodejs-with-these-two-easy-techniques-373c)
+- [Dev.to/JS] [PrismaJS - O que é?](https://dev.to/dsiqueira/prismajs-o-que-e-ppo)
+- [Dev.to/JS] [Wasp Beta Update — February 2023](https://dev.to/matijasos/wasp-beta-update-february-2023-177j)
+- [Lifehacker] [20 of the Best Boxing Movies of All Time](https://lifehacker.com/20-of-the-best-boxing-movies-of-all-time-1850172719)
 - [Dev.to/JS] [Seeding your database with Prisma ORM](https://dev.to/isnan__h/seeding-your-database-with-prisma-orm-935)
 - [Dev.to/JS] [Setting Up Firebase Via NPM &lpar;JavaScript/Node&rpar;](https://dev.to/rajatamil/setting-up-firebase-via-npm-javascriptnode-5d0h)
 - [Dev.to/JS] [Some Problems I Face When Building React Single Page Application And How I Solve Them](https://dev.to/karleb/some-problems-i-face-when-building-react-single-page-application-and-how-i-solve-them-3n9o)
-- [Dev.to/JS] [Typescript Fundamentals Part 2:](https://dev.to/jamesoyanna/typescript-fundamentals-part-2-38d0)
-- [Dev.to/JS] [Tiny Chat App UI](https://dev.to/devlazar/tiny-chat-app-ui-2gn5)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: A caixa mágica](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-a-caixa-magica-3ah6)
-- [Dev.to/JS] [How To Easily Seed Data Into MongoDB Using Faker](https://dev.to/fredabod/how-to-easily-seed-data-into-mongodb-using-faker-2fni)
-- [Dev.to/JS] [How to Convert Decimal to Hexadecimal in JavaScript and Python](https://dev.to/nielsenjared/how-to-convert-decimal-to-hexadecimal-in-javascript-and-python-4758)
-- [Dev.to/JS] [javaScript Class](https://dev.to/anateotfw/javascript-class-5hi1)
-- [Dev.to/JS] [The Benefits of Learning a New Programming Language](https://dev.to/judevector/the-benefits-of-learning-a-new-programming-language-eh0)
-- [Dev.to/JS] [iOS Widget with react-native](https://dev.to/coderreviewio/ios-widget-with-react-native-2kl0)
-- [Dev.to/JS] [I&#39;m frontend learner and I need your feedback](https://dev.to/william2214/im-front-end-edveloper-and-i-need-your-feedback-44ah)
 - [Lifehacker] [Use This Map to Find BOGO Subway Footlongs Near You](https://lifehacker.com/use-this-map-to-find-bogo-subway-footlongs-near-you-1850180204)
 - [Lifehacker] [Venus and Jupiter Are Kissing Again](https://lifehacker.com/venus-and-jupiter-are-kissing-again-1850178779)
 - [Lifehacker] [10 Essential Uses for Rubbing Alcohol That Aren’t…Rubbing](https://lifehacker.com/10-essential-uses-for-rubbing-alcohol-that-aren-t-rubbi-1850179150)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Security Keys Are the Best Way to Protect Your Apple ID](https://lifehacker.com/security-keys-are-the-best-way-to-protect-your-apple-id-1850172412)
 - [Lifehacker] [7 Todoist Features You’re Not Using &lpar;but Should Be&rpar;](https://lifehacker.com/7-todoist-features-you-re-not-using-but-should-be-1850171967)
 - [Lifehacker] [How to Get iMessage on Windows](https://lifehacker.com/how-to-get-imessage-on-windows-1850170042)
-- [Lifehacker] [Make a Crispy Tapioca Shell With Only Two Ingredients](https://lifehacker.com/make-a-crispy-tapioca-shell-with-only-two-ingredients-1850170397)
-- [Lifehacker] [Everything Coming to PlayStation Plus and Xbox Game Pass in March 2023 &lpar;So Far&rpar;](https://lifehacker.com/everything-coming-to-playstation-plus-and-xbox-game-pas-1850170782)
-- [Lifehacker] [Your $2 Bill Might Actually Be Worth a Lot More](https://lifehacker.com/your-2-bill-might-actually-be-worth-a-lot-more-1850170790)
-- [Lifehacker] [Watch ‘Ted Lasso’ for Free With This Apple TV+ Deal](https://lifehacker.com/watch-ted-lasso-for-free-with-this-apple-tv-deal-1850170102)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make a Crispy Tapioca Shell With Only Two Ingredients](https://lifehacker.com/make-a-crispy-tapioca-shell-with-only-two-ingredients-1850170397)<!-- TECH-POSTS:END -->
 
 ---
 
