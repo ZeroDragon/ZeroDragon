@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Different Hoisting Behaviour between var, let &amp; const](https://dev.to/riyadhossain/different-hoisting-behaviour-between-var-let-const-3io5)
+- [Dev.to/JS] [Faking private class constructors in JavaScript](https://dev.to/tylerlwsmith/faking-private-class-constructors-in-javascript-21eh)
 - [Dev.to/JS] [Practical Examples of TypeScript](https://dev.to/riyadhossain/typescirpt-2g3)
 - [Dev.to/JS] [Build an accordion component with Alpine.js](https://dev.to/michaelburrows/build-an-accordion-component-with-alpinejs-2nl6)
 - [Dev.to/JS] [How to Consume an API with Vanilla Javascript](https://dev.to/aikay/how-to-consume-an-api-with-vanilla-javascript-5ec7)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Tutorial Series: Selecting elements](https://dev.to/fullstackjo/javascript-tutorial-series-selecting-elements-1fe3)
 - [Dev.to/JS] [O que é Hoisting no JavaScript](https://dev.to/joeldorosarioo/o-que-e-hoisting-4f85)
 - [Dev.to/JS] [GraphQL&#39;s @defer and @stream Directives are overkill](https://dev.to/wundergraph/graphqls-defer-and-stream-directives-are-overkill-52jp)
-- [Dev.to/JS] [Introducing the new Solid Query client](https://dev.to/wundergraph/introducing-the-new-solid-query-client-21mo)
 - [Lifehacker] [Why 11 Minutes a Day Is Your New Exercise Target](https://lifehacker.com/why-11-minutes-a-day-is-your-new-exercise-target-1850178554)
-- [Dev.to/JS] [Feedback required : My portfolio website project](https://dev.to/ziadoua/feedback-required-my-portfolio-website-project-3aah)
 - [Lifehacker] [17 Surprising Household Uses for Tennis Balls](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)
 - [Lifehacker] [This App Creates Step-by-Step How-to Guides for Anything You Do on Your Computer](https://lifehacker.com/this-app-creates-step-by-step-how-to-guides-for-anythin-1850177460)
 - [Lifehacker] [Don’t Fall for This Fake Authenticator App Scam](https://lifehacker.com/don-t-fall-for-this-fake-authenticator-app-scam-1850177439)
