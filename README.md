@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learning JavaScript for web dev](https://dev.to/kvcardosa/learning-js-for-web-dev-3off)
+- [Dev.to/JS] [All You Need To Know About The Console Object Method](https://dev.to/kareemsulaimon/all-you-need-to-know-about-the-console-object-method-aic)
+- [Dev.to/JS] [Introduction to React &lpar;for beginners&rpar;](https://dev.to/noclipping/introduction-to-react-for-beginners-4gj0)
 - [Dev.to/JS] [Choosing Your First Programming Language: A Beginner’s Guide](https://dev.to/jakeroid/choosing-your-first-programming-language-a-beginners-guide-2i04)
 - [Dev.to/JS] [One easy way to set the name in jest repetitive tests &lpar;test.each&rpar;](https://dev.to/codever/an-easy-way-to-set-test-name-in-jest-repetitive-tests-testeach-12ah)
 - [Dev.to/JS] [Are variables with let and const keywords hoisted?](https://dev.to/riyadhossain/different-hoisting-behaviour-between-var-let-const-3io5)
@@ -33,12 +36,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web Scraping With Puppeteer for Total Noobs: Part 3](https://dev.to/juniordevforlife/web-scraping-with-puppeteer-for-total-noobs-part-3-2il0)
 - [Lifehacker] [Use This Map to Find BOGO Subway Footlongs Near You](https://lifehacker.com/use-this-map-to-find-bogo-subway-footlongs-near-you-1850180204)
 - [Dev.to/JS] [My dream habit tracker](https://dev.to/fromaline/my-dream-habit-tracker-10g8)
-- [Dev.to/JS] [Choosing Between ReactJS and VueJS: A Developer&#39;s Guide.](https://dev.to/alekiie/choosing-between-reactjs-and-vuejs-a-developers-guide-4bpp)
 - [Lifehacker] [Venus and Jupiter Are Kissing Again](https://lifehacker.com/venus-and-jupiter-are-kissing-again-1850178779)
-- [Dev.to/JS] [The Single-Threaded Nature of JavaScript/Typescript: Async Programming](https://dev.to/egimata/the-single-threaded-nature-of-javascripttypescript-async-programming-494d)
 - [Lifehacker] [10 Essential Uses for Rubbing Alcohol That Aren’t…Rubbing](https://lifehacker.com/10-essential-uses-for-rubbing-alcohol-that-aren-t-rubbi-1850179150)
 - [Lifehacker] [11 New Windows 11 Features You Need to Know About](https://lifehacker.com/11-new-windows-11-features-you-need-to-know-about-1850178464)
-- [Dev.to/JS] [JavaScript Tutorial Series: Selecting elements](https://dev.to/fullstackjo/javascript-tutorial-series-selecting-elements-1fe3)
 - [Lifehacker] [Why 11 Minutes a Day Is Your New Exercise Target](https://lifehacker.com/why-11-minutes-a-day-is-your-new-exercise-target-1850178554)
 - [Lifehacker] [17 Surprising Household Uses for Tennis Balls](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)
 - [Lifehacker] [This App Creates Step-by-Step How-to Guides for Anything You Do on Your Computer](https://lifehacker.com/this-app-creates-step-by-step-how-to-guides-for-anythin-1850177460)
