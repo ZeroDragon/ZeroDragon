@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [how to make dynamic element center horizontally in react js?](https://dev.to/jacksonkasi/how-to-make-dynamic-element-center-horizontally-in-react-js-a1e)
+- [Lifehacker] [Stalk Yelp Users With Good Taste](https://lifehacker.com/stalk-yelp-users-with-good-taste-1850182047)
+- [Dev.to/JS] [Final Thoughts on Speed Run Ethereum 🚀](https://dev.to/kevinjoshi46b/final-thoughts-on-speed-run-ethereum-1ib2)
+- [Dev.to/JS] [Optimizing AWS Lambda: How to Reduce Node.js Application Bundle Size](https://dev.to/alanneves/optimizing-aws-lambda-how-to-reduce-nodejs-application-bundle-size-2hi1)
 - [Lifehacker] [You Can Try the New Windows 11 Volume Mixer Before It Comes Out](https://lifehacker.com/you-can-try-the-new-windows-11-volume-mixer-before-it-c-1850183952)
 - [Dev.to/JS] [How to limit input length or lines in React-codemirror](https://dev.to/thewatchmaker/how-to-limit-input-length-or-lines-in-react-codemirror-5bcg)
 - [Dev.to/JS] [How to simplify your if statements](https://dev.to/tahazsh/how-to-simplify-your-if-statements-57mn)
@@ -40,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Drink to Order at a Work Function Is the One You Don’t Like](https://lifehacker.com/the-best-drink-to-order-at-a-work-function-is-the-one-y-1850179894)
 - [Dev.to/JS] [How to jQuery to Javascript ?](https://dev.to/codentools/how-to-jquery-to-javascript--514j)
 - [Dev.to/JS] [O que são e como usar Promises e Async/Await?](https://dev.to/dsiqueira/o-que-sao-e-como-usar-promises-e-asyncawait-5ce2)
-- [Dev.to/JS] [Form Validation with Asynchronous JavaScript](https://dev.to/mattryanmtl/form-validation-with-asynchronous-javascript-k61)
-- [Dev.to/JS] [Mastering Email Sending with NodeJS and Express: A Step-by-Step Guide](https://dev.to/anujkumaraj/mastering-email-sending-with-nodejs-and-express-a-step-by-step-guide-4nkn)
 - [Lifehacker] [When It’s OK to Pay Bills With Your Credit Card &lpar;and When It Isn’t&rpar;](https://lifehacker.com/when-it-s-ok-to-pay-bills-with-your-credit-card-and-wh-1850169655)
-- [Dev.to/JS] [Code splitting en React JS.](https://dev.to/franklin030601/code-splitting-en-react-js-19mc)
 - [Lifehacker] [20 of the Best Boxing Movies of All Time](https://lifehacker.com/20-of-the-best-boxing-movies-of-all-time-1850172719)
 - [Lifehacker] [Use This Map to Find BOGO Subway Footlongs Near You](https://lifehacker.com/use-this-map-to-find-bogo-subway-footlongs-near-you-1850180204)
 - [Lifehacker] [Venus and Jupiter Are Kissing Again](https://lifehacker.com/venus-and-jupiter-are-kissing-again-1850178779)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Compound Butters That Will Get You Out of a Butter Rut](https://lifehacker.com/11-compound-butters-that-will-get-you-out-of-a-butter-r-1850174627)
 - [Lifehacker] [In Defense of the Landline Telephone](https://lifehacker.com/in-defense-of-the-landline-telephone-1850177268)
 - [Lifehacker] [This AI Will Create a ‘SparkNotes’ Summary of Any Article](https://lifehacker.com/this-ai-will-create-a-sparknotes-summary-of-any-artic-1850173701)
-- [Lifehacker] [Your Nissan Rogue Key Might Turn Your Engine Off Mid-Drive](https://lifehacker.com/your-nissan-rogue-key-might-turn-your-engine-off-mid-dr-1850174795)
-- [Lifehacker] [Here&#39;s the Latest Date You&#39;ll Receive Tax Forms This Year](https://lifehacker.com/heres-the-latest-date-youll-receive-tax-forms-this-year-1850173434)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Nissan Rogue Key Might Turn Your Engine Off Mid-Drive](https://lifehacker.com/your-nissan-rogue-key-might-turn-your-engine-off-mid-dr-1850174795)<!-- TECH-POSTS:END -->
 
 ---
 
