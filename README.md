@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Keep Your Gardening Tools Sharp and Clean](https://lifehacker.com/the-easiest-way-to-keep-your-gardening-tools-sharp-and-1850185955)
+- [Dev.to/JS] [Configure multiple ssh credentials with git](https://dev.to/dashpy/configure-multiple-ssh-credentials-with-git-2k38)
+- [Lifehacker] [Use a Can of Soup to Make a Lazy Chicken Pot Pie](https://lifehacker.com/use-a-can-of-soup-to-make-a-lazy-chicken-pot-pie-1850185408)
+- [Dev.to/JS] [Build an EMI Calculator with Next.js, TypeScript, Tailwind CSS, Recoil and Recharts](https://dev.to/codeofrelevancy/build-an-emi-calculator-with-nextjs-typescript-tailwind-css-recoil-and-recharts-4op3)
 - [Lifehacker] [The Cheapest Alternatives to Expensive Home Improvements](https://lifehacker.com/the-cheapest-alternatives-to-expensive-home-improvement-1850181860)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Everyone Beezin’?](https://lifehacker.com/why-is-everyone-beezin-1850185805)
 - [Dev.to/JS] [Capturing the Bubble of Event Propagation in JavaScript ;&rpar;](https://dev.to/rounit08/capturing-the-bubble-of-event-propagation-in-javascript--591c)
@@ -44,10 +48,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to simplify your if statements](https://dev.to/tahazsh/how-to-simplify-your-if-statements-57mn)
 - [Lifehacker] [Don&#39;t Let Rain Water Ruin Your Garage](https://lifehacker.com/dont-let-rain-water-ruin-your-garage-1850181529)
 - [Lifehacker] [12 Podcasts to Obsess Over If You Like &#39;You&#39;re Wrong About&#39;](https://lifehacker.com/12-podcasts-to-obsess-over-if-you-like-youre-wrong-abou-1850134481)
-- [Dev.to/JS] [How to Install Node.js as a Non-Root User Using NVM: A Step-by-Step Guide](https://dev.to/hasidicdevs/how-to-install-nodejs-as-a-non-root-user-using-nvm-a-step-by-step-guide-424e)
 - [Crazy Programmer] [5 Generations of Computer](https://www.thecrazyprogrammer.com/2023/03/generations-of-computer.html)
 - [Lifehacker] [Don’t Let These March Class-Action Settlement Deadlines Pass You By](https://lifehacker.com/don-t-let-these-march-class-action-settlement-deadlines-1850181301)
-- [Dev.to/JS] [Dashboard for laptop monitoring!!!!](https://dev.to/bytesofusman/dashboard-for-laptop-monitoring-1oeo)
 - [Lifehacker] [Six Hidden Costs That Make Moving Even More Expensive](https://lifehacker.com/six-hidden-costs-that-make-moving-even-more-expensive-1850181842)
 - [Lifehacker] [Shaken Baileys Is the Best St. Patrick&#39;s Day Cocktail](https://lifehacker.com/shaken-baileys-is-the-best-st-patricks-day-cocktail-1850181410)
 - [Lifehacker] [The Best Drink to Order at a Work Function Is the One You Don’t Like](https://lifehacker.com/the-best-drink-to-order-at-a-work-function-is-the-one-y-1850179894)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why 11 Minutes a Day Is Your New Exercise Target](https://lifehacker.com/why-11-minutes-a-day-is-your-new-exercise-target-1850178554)
 - [Lifehacker] [17 Surprising Household Uses for Tennis Balls](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)
 - [Lifehacker] [This App Creates Step-by-Step How-to Guides for Anything You Do on Your Computer](https://lifehacker.com/this-app-creates-step-by-step-how-to-guides-for-anythin-1850177460)
-- [Lifehacker] [Don’t Fall for This Fake Authenticator App Scam](https://lifehacker.com/don-t-fall-for-this-fake-authenticator-app-scam-1850177439)
-- [Lifehacker] [Why You Should Pour Drinks Upside Down](https://lifehacker.com/why-you-should-pour-drinks-upside-down-1850178027)
-- [Lifehacker] [Things You Should Never Vacuum With a Regular Vacuum Cleaner](https://lifehacker.com/things-you-should-never-vacuum-with-a-regular-vacuum-cl-1850175466)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Fall for This Fake Authenticator App Scam](https://lifehacker.com/don-t-fall-for-this-fake-authenticator-app-scam-1850177439)<!-- TECH-POSTS:END -->
 
 ---
 
