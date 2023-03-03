@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to know if your test is flaky?](https://dev.to/woovi/how-to-know-if-your-test-is-flaky-4n8o)
+- [Lifehacker] [How to Host Friends Who Smoke Weed, Even If You Don&#39;t](https://lifehacker.com/how-to-host-friends-who-smoke-weed-even-if-you-dont-1850184973)
+- [Dev.to/JS] [What I Learned Building the Base Apparel Landing Page](https://dev.to/mikenjuki/what-i-learned-building-the-base-apparel-landing-page-onb)
 - [Lifehacker] [Dominate Your Kid’s Next ‘Sugar Rush’ Before It Starts](https://lifehacker.com/dominate-your-kid-s-next-sugar-rush-before-it-starts-1850181643)
 - [Dev.to/JS] [JavaScript Tutorial Series: Traversing elements](https://dev.to/fullstackjo/javascript-tutorial-series-traversing-elements-122i)
 - [Lifehacker] [How to Give the Best Presentation of Your Life](https://lifehacker.com/how-to-give-the-best-presentation-of-your-life-1850183217)
@@ -43,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dashboard for laptop monitoring!!!!](https://dev.to/bytesofusman/dashboard-for-laptop-monitoring-1oeo)
 - [Lifehacker] [Six Hidden Costs That Make Moving Even More Expensive](https://lifehacker.com/six-hidden-costs-that-make-moving-even-more-expensive-1850181842)
 - [Dev.to/JS] [Paracetamol.ts💊| #24: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-24-explica-este-codigo-typescript-2hfc)
-- [Dev.to/JS] [Improve your Javascript debugging Skills](https://dev.to/silentcoder52626/improve-your-javascript-debugging-skills-50ia)
-- [Dev.to/JS] [Shadow DOM: What it is and how it works](https://dev.to/stefannieuwenhuis/shadow-dom-what-it-is-and-how-it-works-4d4h)
 - [Lifehacker] [Shaken Baileys Is the Best St. Patrick&#39;s Day Cocktail](https://lifehacker.com/shaken-baileys-is-the-best-st-patricks-day-cocktail-1850181410)
 - [Lifehacker] [The Best Drink to Order at a Work Function Is the One You Don’t Like](https://lifehacker.com/the-best-drink-to-order-at-a-work-function-is-the-one-y-1850179894)
 - [Lifehacker] [When It’s OK to Pay Bills With Your Credit Card &lpar;and When It Isn’t&rpar;](https://lifehacker.com/when-it-s-ok-to-pay-bills-with-your-credit-card-and-wh-1850169655)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Things You Should Never Vacuum With a Regular Vacuum Cleaner](https://lifehacker.com/things-you-should-never-vacuum-with-a-regular-vacuum-cl-1850175466)
 - [Lifehacker] [Why You Shouldn&#39;t Warm Up Your Car For Longer Than a Minute](https://lifehacker.com/why-you-shouldnt-warm-up-your-car-for-longer-than-a-min-1850175671)
 - [Lifehacker] [Plan to Wait a Long Time for Your Passport](https://lifehacker.com/plan-to-wait-a-long-time-for-your-passport-1850174798)
-- [Lifehacker] [You Must Make These Air-Fried Caramel Pasta Crisps](https://lifehacker.com/you-must-make-these-air-fried-caramel-pasta-crisps-1850174639)
-- [Lifehacker] [11 Compound Butters That Will Get You Out of a Butter Rut](https://lifehacker.com/11-compound-butters-that-will-get-you-out-of-a-butter-r-1850174627)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Must Make These Air-Fried Caramel Pasta Crisps](https://lifehacker.com/you-must-make-these-air-fried-caramel-pasta-crisps-1850174639)<!-- TECH-POSTS:END -->
 
 ---
 
