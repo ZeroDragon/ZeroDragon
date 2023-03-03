@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Six Hidden Costs That Make Moving Even More Expensive](https://lifehacker.com/six-hidden-costs-that-make-moving-even-more-expensive-1850181842)
+- [Dev.to/JS] [Improve your Javascript debugging Skills](https://dev.to/silentcoder52626/improve-your-javascript-debugging-skills-50ia)
+- [Dev.to/JS] [Shadow DOM: What it is and how it works](https://dev.to/stefannieuwenhuis/shadow-dom-what-it-is-and-how-it-works-4d4h)
+- [Lifehacker] [Shaken Baileys Is the Best St. Patrick&#39;s Day Cocktail](https://lifehacker.com/shaken-baileys-is-the-best-st-patricks-day-cocktail-1850181410)
 - [Lifehacker] [The Best Drink to Order at a Work Function Is the One You Don’t Like](https://lifehacker.com/the-best-drink-to-order-at-a-work-function-is-the-one-y-1850179894)
+- [Dev.to/JS] [How to jQuery to Javascript ?](https://dev.to/codentools/how-to-jquery-to-javascript--514j)
 - [Dev.to/JS] [O que são e como usar Promises e Async/Await?](https://dev.to/dsiqueira/o-que-sao-e-como-usar-promises-e-asyncawait-5ce2)
 - [Dev.to/JS] [Form Validation with Asynchronous JavaScript](https://dev.to/mattryanmtl/form-validation-with-asynchronous-javascript-k61)
 - [Dev.to/JS] [Mastering Email Sending with NodeJS and Express: A Step-by-Step Guide](https://dev.to/anujkumaraj/mastering-email-sending-with-nodejs-and-express-a-step-by-step-guide-4nkn)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PrismaJS - O que é?](https://dev.to/dsiqueira/prismajs-o-que-e-ppo)
 - [Dev.to/JS] [Wasp Beta Update — February 2023](https://dev.to/matijasos/wasp-beta-update-february-2023-177j)
 - [Lifehacker] [20 of the Best Boxing Movies of All Time](https://lifehacker.com/20-of-the-best-boxing-movies-of-all-time-1850172719)
-- [Dev.to/JS] [Seeding your database with Prisma ORM](https://dev.to/isnan__h/seeding-your-database-with-prisma-orm-935)
-- [Dev.to/JS] [Setting Up Firebase Via NPM &lpar;JavaScript/Node&rpar;](https://dev.to/rajatamil/setting-up-firebase-via-npm-javascriptnode-5d0h)
-- [Dev.to/JS] [Some Problems I Face When Building React Single Page Application And How I Solve Them](https://dev.to/karleb/some-problems-i-face-when-building-react-single-page-application-and-how-i-solve-them-3n9o)
 - [Lifehacker] [Use This Map to Find BOGO Subway Footlongs Near You](https://lifehacker.com/use-this-map-to-find-bogo-subway-footlongs-near-you-1850180204)
 - [Lifehacker] [Venus and Jupiter Are Kissing Again](https://lifehacker.com/venus-and-jupiter-are-kissing-again-1850178779)
 - [Lifehacker] [10 Essential Uses for Rubbing Alcohol That Aren’t…Rubbing](https://lifehacker.com/10-essential-uses-for-rubbing-alcohol-that-aren-t-rubbi-1850179150)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Free Year of Tripadvisor Plus Right Now](https://lifehacker.com/you-can-get-a-free-year-of-tripadvisor-plus-right-now-1850173915)
 - [Lifehacker] [How to Cultivate a Houseplant Collection on a Budget](https://lifehacker.com/how-to-cultivate-a-houseplant-collection-on-a-budget-1850168112)
 - [Lifehacker] [Security Keys Are the Best Way to Protect Your Apple ID](https://lifehacker.com/security-keys-are-the-best-way-to-protect-your-apple-id-1850172412)
-- [Lifehacker] [7 Todoist Features You’re Not Using &lpar;but Should Be&rpar;](https://lifehacker.com/7-todoist-features-you-re-not-using-but-should-be-1850171967)
-- [Lifehacker] [How to Get iMessage on Windows](https://lifehacker.com/how-to-get-imessage-on-windows-1850170042)
-- [Lifehacker] [Make a Crispy Tapioca Shell With Only Two Ingredients](https://lifehacker.com/make-a-crispy-tapioca-shell-with-only-two-ingredients-1850170397)<!-- TECH-POSTS:END -->
+- [Lifehacker] [7 Todoist Features You’re Not Using &lpar;but Should Be&rpar;](https://lifehacker.com/7-todoist-features-you-re-not-using-but-should-be-1850171967)<!-- TECH-POSTS:END -->
 
 ---
 
