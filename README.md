@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What new CSS and JavaScript features can we expect soon? Or is it all unexpected?](https://dev.to/robole/what-new-css-and-javascript-features-can-we-expect-soon-or-is-it-all-unexpected-2o7b)
+- [Dev.to/JS] [&lpar;CONTRIBUTIONS WELCOME&rpar; Django React website to storage contacts data.](https://dev.to/szymcode/contributions-welcome-django-react-website-to-storage-contacts-data-4kfj)
+- [Dev.to/JS] [Maximizing Business Efficiency: The Benefits of AWS Cloud Support](https://dev.to/neilsmith23/maximizing-business-efficiency-the-benefits-of-aws-cloud-support-531f)
+- [Dev.to/JS] [FATAL Cannot destructure property &#39;nuxt&#39; of &#39;this&#39; as it is undefined.](https://dev.to/ruanaragao/fatal-cannot-destructure-property-nuxt-of-this-as-it-is-undefined-16l0)
 - [Dev.to/JS] [Learning JavaScript for web dev](https://dev.to/kvcardosa/learning-js-for-web-dev-3off)
 - [Dev.to/JS] [All You Need To Know About The Console Object Method](https://dev.to/kareemsulaimon/all-you-need-to-know-about-the-console-object-method-aic)
 - [Dev.to/JS] [Introduction to React &lpar;for beginners&rpar;](https://dev.to/noclipping/introduction-to-react-for-beginners-4gj0)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Are variables with let and const keywords hoisted?](https://dev.to/riyadhossain/different-hoisting-behaviour-between-var-let-const-3io5)
 - [Dev.to/JS] [Faking private class constructors in JavaScript](https://dev.to/tylerlwsmith/faking-private-class-constructors-in-javascript-21eh)
 - [Dev.to/JS] [Practical Examples of TypeScript](https://dev.to/riyadhossain/typescirpt-2g3)
-- [Dev.to/JS] [Build an accordion component with Alpine.js](https://dev.to/michaelburrows/build-an-accordion-component-with-alpinejs-2nl6)
-- [Dev.to/JS] [How to Consume an API with Vanilla Javascript](https://dev.to/aikay/how-to-consume-an-api-with-vanilla-javascript-5ec7)
-- [Dev.to/JS] [Web Scraping With Puppeteer for Total Noobs: Part 3](https://dev.to/juniordevforlife/web-scraping-with-puppeteer-for-total-noobs-part-3-2il0)
 - [Lifehacker] [Use This Map to Find BOGO Subway Footlongs Near You](https://lifehacker.com/use-this-map-to-find-bogo-subway-footlongs-near-you-1850180204)
-- [Dev.to/JS] [My dream habit tracker](https://dev.to/fromaline/my-dream-habit-tracker-10g8)
 - [Lifehacker] [Venus and Jupiter Are Kissing Again](https://lifehacker.com/venus-and-jupiter-are-kissing-again-1850178779)
 - [Lifehacker] [10 Essential Uses for Rubbing Alcohol That Aren’t…Rubbing](https://lifehacker.com/10-essential-uses-for-rubbing-alcohol-that-aren-t-rubbi-1850179150)
 - [Lifehacker] [11 New Windows 11 Features You Need to Know About](https://lifehacker.com/11-new-windows-11-features-you-need-to-know-about-1850178464)
