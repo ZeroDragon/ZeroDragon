@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Try the New Windows 11 Volume Mixer Before It Comes Out](https://lifehacker.com/you-can-try-the-new-windows-11-volume-mixer-before-it-c-1850183952)
+- [Dev.to/JS] [How to limit input length or lines in React-codemirror](https://dev.to/thewatchmaker/how-to-limit-input-length-or-lines-in-react-codemirror-5bcg)
+- [Dev.to/JS] [How to simplify your if statements](https://dev.to/tahazsh/how-to-simplify-your-if-statements-57mn)
+- [Lifehacker] [Don&#39;t Let Rain Water Ruin Your Garage](https://lifehacker.com/dont-let-rain-water-ruin-your-garage-1850181529)
+- [Lifehacker] [12 Podcasts to Obsess Over If You Like &#39;You&#39;re Wrong About&#39;](https://lifehacker.com/12-podcasts-to-obsess-over-if-you-like-youre-wrong-abou-1850134481)
 - [Dev.to/JS] [How to Install Node.js as a Non-Root User Using NVM: A Step-by-Step Guide](https://dev.to/hasidicdevs/how-to-install-nodejs-as-a-non-root-user-using-nvm-a-step-by-step-guide-424e)
 - [Crazy Programmer] [5 Generations of Computer](https://www.thecrazyprogrammer.com/2023/03/generations-of-computer.html)
 - [Lifehacker] [Don’t Let These March Class-Action Settlement Deadlines Pass You By](https://lifehacker.com/don-t-let-these-march-class-action-settlement-deadlines-1850181301)
@@ -39,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Email Sending with NodeJS and Express: A Step-by-Step Guide](https://dev.to/anujkumaraj/mastering-email-sending-with-nodejs-and-express-a-step-by-step-guide-4nkn)
 - [Lifehacker] [When It’s OK to Pay Bills With Your Credit Card &lpar;and When It Isn’t&rpar;](https://lifehacker.com/when-it-s-ok-to-pay-bills-with-your-credit-card-and-wh-1850169655)
 - [Dev.to/JS] [Code splitting en React JS.](https://dev.to/franklin030601/code-splitting-en-react-js-19mc)
-- [Dev.to/JS] [Code splitting in React JS](https://dev.to/franklin030601/code-splitting-in-react-js-4o2g)
-- [Dev.to/JS] [TypeScript - Por que usar?](https://dev.to/dsiqueira/typescript-por-que-usar-387n)
 - [Lifehacker] [20 of the Best Boxing Movies of All Time](https://lifehacker.com/20-of-the-best-boxing-movies-of-all-time-1850172719)
 - [Lifehacker] [Use This Map to Find BOGO Subway Footlongs Near You](https://lifehacker.com/use-this-map-to-find-bogo-subway-footlongs-near-you-1850180204)
 - [Lifehacker] [Venus and Jupiter Are Kissing Again](https://lifehacker.com/venus-and-jupiter-are-kissing-again-1850178779)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [In Defense of the Landline Telephone](https://lifehacker.com/in-defense-of-the-landline-telephone-1850177268)
 - [Lifehacker] [This AI Will Create a ‘SparkNotes’ Summary of Any Article](https://lifehacker.com/this-ai-will-create-a-sparknotes-summary-of-any-artic-1850173701)
 - [Lifehacker] [Your Nissan Rogue Key Might Turn Your Engine Off Mid-Drive](https://lifehacker.com/your-nissan-rogue-key-might-turn-your-engine-off-mid-dr-1850174795)
-- [Lifehacker] [Here&#39;s the Latest Date You&#39;ll Receive Tax Forms This Year](https://lifehacker.com/heres-the-latest-date-youll-receive-tax-forms-this-year-1850173434)
-- [Lifehacker] [You Can Make a Tiny Yard Look a Lot Bigger](https://lifehacker.com/you-can-make-a-tiny-yard-look-a-lot-bigger-1850171585)
-- [Lifehacker] [You Can Get a Free Year of Tripadvisor Plus Right Now](https://lifehacker.com/you-can-get-a-free-year-of-tripadvisor-plus-right-now-1850173915)
-- [Lifehacker] [How to Cultivate a Houseplant Collection on a Budget](https://lifehacker.com/how-to-cultivate-a-houseplant-collection-on-a-budget-1850168112)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s the Latest Date You&#39;ll Receive Tax Forms This Year](https://lifehacker.com/heres-the-latest-date-youll-receive-tax-forms-this-year-1850173434)<!-- TECH-POSTS:END -->
 
 ---
 
