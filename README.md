@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Become a better you with these 10 visuals](https://dev.to/jon_snow789/become-a-better-you-with-these-10-visuals-1adh)
+- [Dev.to/JS] [Some tips when using T3 Stack: Part 1](https://dev.to/tawaliou/some-tips-when-using-t3-stack-part-1-2ai2)
+- [Dev.to/JS] [JavaScript Event Loop Simplified](https://dev.to/mateocodes/javascript-event-loop-simplified-5329)
+- [Dev.to/JS] [A gentle introduction to Vitest](https://dev.to/shaswatprabhat/a-gentle-introduction-to-vitest-14fp)
+- [Dev.to/JS] [Next.js Routing: A Comprehensive Guide to Building Single-Page Applications](https://dev.to/sarveshh/nextjs-routing-a-comprehensive-guide-to-building-single-page-applications-3l90)
 - [Dev.to/JS] [State management with Redux in React](https://dev.to/ebuberoderick/state-management-with-redux-in-react-bao)
 - [Dev.to/JS] [using llama finder and deno to scrape websites](https://dev.to/dwarft/using-llama-finder-and-deno-to-scrape-websites-117)
 - [Dev.to/JS] [How to set up Styled Components in NextJS](https://dev.to/mohammadfaisal/how-to-set-up-styled-components-in-nextjs-11mj)
@@ -30,13 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;04-03-2023&rpar; - Murderers](https://dev.to/mjgs/this-weeks-newsletter-is-out-04-03-2023-murderers-159k)
 - [Dev.to/JS] [Converter texto &lpar;string&rpar; para número em JavaScript e suas diferenças](https://dev.to/ruanaragao/converter-texto-string-para-numero-em-javascript-e-suas-diferencas-5hd1)
 - [Dev.to/JS] [Introducing Defer: A Zero Infrastructure background jobs Node.js platform](https://dev.to/defer/introducing-defer-a-zero-infrastructure-background-jobs-nodejs-platform-43jb)
-- [Dev.to/JS] [PSA For Referencing Properties in Functions!](https://dev.to/greenteaisgreat/psa-for-referencing-properties-in-functions-2810)
-- [Dev.to/JS] [Easy website headers in JS](https://dev.to/cgwebdev2003/easy-website-headers-in-js-p3e)
-- [Dev.to/JS] [ChatGPT - Complex Coding Challenges: Part 2](https://dev.to/damiensedgwick/chatgpt-complex-coding-challenges-part-2-1h38)
 - [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
-- [Dev.to/JS] [Flatiron: Phase 1 Project](https://dev.to/jvertt/flatiron-phase-1-project-4n50)
 - [Lifehacker] [The Easiest Way to Keep Your Gardening Tools Sharp and Clean](https://lifehacker.com/the-easiest-way-to-keep-your-gardening-tools-sharp-and-1850185955)
-- [Dev.to/JS] [Configure multiple ssh credentials with git](https://dev.to/dashpy/configure-multiple-ssh-credentials-with-git-2k38)
 - [Lifehacker] [Use a Can of Soup to Make a Lazy Chicken Pot Pie](https://lifehacker.com/use-a-can-of-soup-to-make-a-lazy-chicken-pot-pie-1850185408)
 - [Lifehacker] [The Cheapest Alternatives to Expensive Home Improvements](https://lifehacker.com/the-cheapest-alternatives-to-expensive-home-improvement-1850181860)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Everyone Beezin’?](https://lifehacker.com/why-is-everyone-beezin-1850185805)
