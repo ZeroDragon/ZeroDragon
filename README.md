@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Accessing function in object or redux](https://dev.to/lausuarez02/accessing-function-in-object-or-redux-3eg)
+- [Dev.to/JS] [Can You Solve These 10 HTML DOM Exercises?](https://dev.to/codeguage/can-you-solve-these-10-html-dom-exercises-26bk)
+- [Dev.to/JS] [How to modify the color of the address bar when a visitor navigates to your website?](https://dev.to/rawsting/how-to-modify-the-color-of-the-address-bar-when-a-visitor-navigates-to-your-website-4df2)
 - [Dev.to/JS] [Starting with JavaScript](https://dev.to/pk50sshowa/starting-with-javascript-1687)
 - [Dev.to/JS] [Build A Password Generator](https://dev.to/kalashin1/build-a-password-generator-11oo)
 - [Dev.to/JS] [What is Hashicorp Vault? Manage your secrets in production.](https://dev.to/tush_tr/what-is-hashicorp-vault-manage-your-secrets-in-production-4n4a)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Online TikTok Video Downloaders Without Watermark](https://dev.to/yajindragautam/best-online-tiktok-video-downloaders-without-watermark-28m9)
 - [Dev.to/JS] [Paracetamol.ts💊| #25: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-25-explica-este-codigo-typescript-222f)
 - [Lifehacker] [How to Get Wrinkles Out of Your Clothes Without an Iron or Dryer](https://lifehacker.com/how-to-get-wrinkles-out-of-your-clothes-without-an-iron-1850176547)
-- [Dev.to/JS] [Strings vs Arrays in JS](https://dev.to/mallchel/strings-vs-arrays-in-js-amo)
-- [Dev.to/JS] [Declarative and inferable types way in React Redux](https://dev.to/tkow/declarative-and-inferable-types-way-in-react-redux-21in)
-- [Dev.to/JS] [10 Helpful JavaScript Utility Functions](https://dev.to/dostonnabotov/10-helpful-javascript-utility-functions-35oc)
 - [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
 - [Lifehacker] [The Easiest Way to Keep Your Gardening Tools Sharp and Clean](https://lifehacker.com/the-easiest-way-to-keep-your-gardening-tools-sharp-and-1850185955)
 - [Lifehacker] [Use a Can of Soup to Make a Lazy Chicken Pot Pie](https://lifehacker.com/use-a-can-of-soup-to-make-a-lazy-chicken-pot-pie-1850185408)
