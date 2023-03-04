@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ServiceNow: 1 thing for safer GlideRecord scripts](https://dev.to/mkrcma/servicenow-1-thing-for-safer-gliderecord-scripts-le2)
+- [Dev.to/JS] [Linear search algorithm](https://dev.to/lausuarez02/linear-search-algorithm-1o48)
 - [Dev.to/JS] [Accessing function in object or redux](https://dev.to/lausuarez02/accessing-function-in-object-or-redux-3eg)
 - [Dev.to/JS] [Can You Solve These 10 HTML DOM Exercises?](https://dev.to/codeguage/can-you-solve-these-10-html-dom-exercises-26bk)
 - [Dev.to/JS] [How to modify the color of the address bar when a visitor navigates to your website?](https://dev.to/rawsting/how-to-modify-the-color-of-the-address-bar-when-a-visitor-navigates-to-your-website-4df2)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web Worker, Service Worker, and Worklets: A Comprehensive Guide](https://dev.to/bharat5604/web-worker-service-worker-and-worklets-a-comprehensive-guide-1f64)
 - [Dev.to/JS] [5 Simple ways to check for undefined or null values](https://dev.to/anuva312/5-simple-ways-to-check-for-undefined-or-null-values-1bfb)
 - [Dev.to/JS] [How to Avoid JavaScript Type Conversions &lpar;Type Coercion&rpar;](https://dev.to/biplavmz/how-to-avoid-javascript-type-conversions-type-coercion-37ce)
-- [Dev.to/JS] [Best Online TikTok Video Downloaders Without Watermark](https://dev.to/yajindragautam/best-online-tiktok-video-downloaders-without-watermark-28m9)
-- [Dev.to/JS] [Paracetamol.ts💊| #25: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-25-explica-este-codigo-typescript-222f)
 - [Lifehacker] [How to Get Wrinkles Out of Your Clothes Without an Iron or Dryer](https://lifehacker.com/how-to-get-wrinkles-out-of-your-clothes-without-an-iron-1850176547)
 - [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
 - [Lifehacker] [The Easiest Way to Keep Your Gardening Tools Sharp and Clean](https://lifehacker.com/the-easiest-way-to-keep-your-gardening-tools-sharp-and-1850185955)
