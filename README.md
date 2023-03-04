@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;04-03-2023&rpar; - Murderers](https://dev.to/mjgs/this-weeks-newsletter-is-out-04-03-2023-murderers-159k)
 - [Dev.to/JS] [Converter texto &lpar;string&rpar; para número em JavaScript e suas diferenças](https://dev.to/ruanaragao/converter-texto-string-para-numero-em-javascript-e-suas-diferencas-5hd1)
 - [Dev.to/JS] [Introducing Defer: A Zero Infrastructure background jobs Node.js platform](https://dev.to/defer/introducing-defer-a-zero-infrastructure-background-jobs-nodejs-platform-43jb)
 - [Dev.to/JS] [PSA For Referencing Properties in Functions!](https://dev.to/greenteaisgreat/psa-for-referencing-properties-in-functions-2810)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Host Friends Who Smoke Weed, Even If You Don&#39;t](https://lifehacker.com/how-to-host-friends-who-smoke-weed-even-if-you-dont-1850184973)
 - [Dev.to/JS] [What I Learned Building the Base Apparel Landing Page](https://dev.to/mikenjuki/what-i-learned-building-the-base-apparel-landing-page-onb)
 - [Lifehacker] [Dominate Your Kid’s Next ‘Sugar Rush’ Before It Starts](https://lifehacker.com/dominate-your-kid-s-next-sugar-rush-before-it-starts-1850181643)
-- [Dev.to/JS] [JavaScript Tutorial Series: Traversing elements](https://dev.to/fullstackjo/javascript-tutorial-series-traversing-elements-122i)
 - [Lifehacker] [How to Give the Best Presentation of Your Life](https://lifehacker.com/how-to-give-the-best-presentation-of-your-life-1850183217)
 - [Lifehacker] [10 Ways to Build a Better Smoothie](https://lifehacker.com/10-ways-to-build-a-better-smoothie-1850184624)
 - [Lifehacker] [Stalk Yelp Users With Good Taste](https://lifehacker.com/stalk-yelp-users-with-good-taste-1850182047)
