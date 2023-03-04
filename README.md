@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [State management with Redux in React](https://dev.to/ebuberoderick/state-management-with-redux-in-react-bao)
+- [Dev.to/JS] [using llama finder and deno to scrape websites](https://dev.to/dwarft/using-llama-finder-and-deno-to-scrape-websites-117)
 - [Dev.to/JS] [How to set up Styled Components in NextJS](https://dev.to/mohammadfaisal/how-to-set-up-styled-components-in-nextjs-11mj)
 - [Dev.to/JS] [Deep Dive into JavaScript.](https://dev.to/mrakib007/deep-dive-into-javascript-3fle)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;04-03-2023&rpar; - Murderers](https://dev.to/mjgs/this-weeks-newsletter-is-out-04-03-2023-murderers-159k)
@@ -36,10 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Keep Your Gardening Tools Sharp and Clean](https://lifehacker.com/the-easiest-way-to-keep-your-gardening-tools-sharp-and-1850185955)
 - [Dev.to/JS] [Configure multiple ssh credentials with git](https://dev.to/dashpy/configure-multiple-ssh-credentials-with-git-2k38)
 - [Lifehacker] [Use a Can of Soup to Make a Lazy Chicken Pot Pie](https://lifehacker.com/use-a-can-of-soup-to-make-a-lazy-chicken-pot-pie-1850185408)
-- [Dev.to/JS] [Build an EMI Calculator with Next.js, TypeScript, Tailwind CSS, Recoil and Recharts](https://dev.to/codeofrelevancy/build-an-emi-calculator-with-nextjs-typescript-tailwind-css-recoil-and-recharts-4op3)
 - [Lifehacker] [The Cheapest Alternatives to Expensive Home Improvements](https://lifehacker.com/the-cheapest-alternatives-to-expensive-home-improvement-1850181860)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Everyone Beezin’?](https://lifehacker.com/why-is-everyone-beezin-1850185805)
-- [Dev.to/JS] [Capturing the Bubble of Event Propagation in JavaScript ;&rpar;](https://dev.to/rounit08/capturing-the-bubble-of-event-propagation-in-javascript--591c)
 - [Lifehacker] [Turn Your Glut of Spice Rubs Into Smokey Cheese Spreads](https://lifehacker.com/turn-your-glut-of-spice-rubs-into-smokey-cheese-spreads-1850185851)
 - [Lifehacker] [How to Host Friends Who Smoke Weed, Even If You Don&#39;t](https://lifehacker.com/how-to-host-friends-who-smoke-weed-even-if-you-dont-1850184973)
 - [Lifehacker] [Dominate Your Kid’s Next ‘Sugar Rush’ Before It Starts](https://lifehacker.com/dominate-your-kid-s-next-sugar-rush-before-it-starts-1850181643)
