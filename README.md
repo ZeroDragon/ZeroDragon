@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build A Password Generator](https://dev.to/kalashin1/build-a-password-generator-11oo)
+- [Dev.to/JS] [What is Hashicorp Vault? Manage your secrets in production.](https://dev.to/tush_tr/what-is-hashicorp-vault-manage-your-secrets-in-production-4n4a)
+- [Dev.to/JS] [The power of &quot;js generators&quot; revamped](https://dev.to/bsorrentino/the-power-of-js-generators-revamped-5365)
+- [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
 - [Dev.to/JS] [Web Worker, Service Worker, and Worklets: A Comprehensive Guide](https://dev.to/bharat5604/web-worker-service-worker-and-worklets-a-comprehensive-guide-1f64)
 - [Dev.to/JS] [5 Simple ways to check for undefined or null values](https://dev.to/anuva312/5-simple-ways-to-check-for-undefined-or-null-values-1bfb)
 - [Dev.to/JS] [How to Avoid JavaScript Type Conversions &lpar;Type Coercion&rpar;](https://dev.to/biplavmz/how-to-avoid-javascript-type-conversions-type-coercion-37ce)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Declarative and inferable types way in React Redux](https://dev.to/tkow/declarative-and-inferable-types-way-in-react-redux-21in)
 - [Dev.to/JS] [10 Helpful JavaScript Utility Functions](https://dev.to/dostonnabotov/10-helpful-javascript-utility-functions-35oc)
 - [Dev.to/JS] [Blogging with Sveltekit and Markdown](https://dev.to/kylebuildsstuff/building-a-blog-with-sveltekit-and-markdown-2oaa)
-- [Dev.to/JS] [Polymorphism with React](https://dev.to/helderberto/polymorphism-with-react-3ld9)
-- [Dev.to/JS] [Pointer Events in JavaScript](https://dev.to/supminn/pointer-events-in-javascript-1lol)
-- [Dev.to/JS] [Recover your password with Supabase](https://dev.to/guillaumeduhan/recover-your-password-with-supabase-egc)
 - [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
 - [Lifehacker] [The Easiest Way to Keep Your Gardening Tools Sharp and Clean](https://lifehacker.com/the-easiest-way-to-keep-your-gardening-tools-sharp-and-1850185955)
 - [Lifehacker] [Use a Can of Soup to Make a Lazy Chicken Pot Pie](https://lifehacker.com/use-a-can-of-soup-to-make-a-lazy-chicken-pot-pie-1850185408)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Venus and Jupiter Are Kissing Again](https://lifehacker.com/venus-and-jupiter-are-kissing-again-1850178779)
 - [Lifehacker] [10 Essential Uses for Rubbing Alcohol That Aren’t…Rubbing](https://lifehacker.com/10-essential-uses-for-rubbing-alcohol-that-aren-t-rubbi-1850179150)
 - [Lifehacker] [11 New Windows 11 Features You Need to Know About](https://lifehacker.com/11-new-windows-11-features-you-need-to-know-about-1850178464)
-- [Lifehacker] [Why 11 Minutes a Day Is Your New Exercise Target](https://lifehacker.com/why-11-minutes-a-day-is-your-new-exercise-target-1850178554)
-- [Lifehacker] [17 Surprising Household Uses for Tennis Balls](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why 11 Minutes a Day Is Your New Exercise Target](https://lifehacker.com/why-11-minutes-a-day-is-your-new-exercise-target-1850178554)<!-- TECH-POSTS:END -->
 
 ---
 
