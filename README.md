@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ReactJS : When to use Class Component Over Function Component?](https://dev.to/imparmarjatin/reactjs-when-to-use-class-component-over-function-component-1ob5)
+- [Dev.to/JS] [How To Use Supabase Database in React Native - Complete Guide](https://dev.to/sebduta/how-to-use-supabase-database-in-react-native-complete-guide-11ih)
+- [Dev.to/JS] [HelmetJS and SwaggerUI: Avoiding headaches in your NodeJS app](https://dev.to/starlingroot/helmetjs-and-swaggerui-avoiding-headaches-in-your-nodejs-app-29l3)
+- [Dev.to/JS] [Searching through JSON logs locally](https://dev.to/the_spyke/searching-through-json-logs-locally-2k0m)
+- [Dev.to/JS] [Activate the first Bootstrap collapse in Django for dynamic data.](https://dev.to/swesadiqul/activate-the-first-bootstrap-collapse-in-django-for-dynamic-data-3b22)
 - [Dev.to/JS] [ServiceNow: 1 thing for safer GlideRecord scripts](https://dev.to/mkrcma/servicenow-1-thing-for-safer-gliderecord-scripts-le2)
 - [Dev.to/JS] [Linear search algorithm](https://dev.to/lausuarez02/linear-search-algorithm-1o48)
 - [Dev.to/JS] [Accessing function in object or redux](https://dev.to/lausuarez02/accessing-function-in-object-or-redux-3eg)
@@ -30,12 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to modify the color of the address bar when a visitor navigates to your website?](https://dev.to/rawsting/how-to-modify-the-color-of-the-address-bar-when-a-visitor-navigates-to-your-website-4df2)
 - [Dev.to/JS] [Starting with JavaScript](https://dev.to/pk50sshowa/starting-with-javascript-1687)
 - [Dev.to/JS] [Build A Password Generator](https://dev.to/kalashin1/build-a-password-generator-11oo)
-- [Dev.to/JS] [What is Hashicorp Vault? Manage your secrets in production.](https://dev.to/tush_tr/what-is-hashicorp-vault-manage-your-secrets-in-production-4n4a)
-- [Dev.to/JS] [The power of &quot;js generators&quot; revamped](https://dev.to/bsorrentino/the-power-of-js-generators-revamped-5365)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
-- [Dev.to/JS] [Web Worker, Service Worker, and Worklets: A Comprehensive Guide](https://dev.to/bharat5604/web-worker-service-worker-and-worklets-a-comprehensive-guide-1f64)
-- [Dev.to/JS] [5 Simple ways to check for undefined or null values](https://dev.to/anuva312/5-simple-ways-to-check-for-undefined-or-null-values-1bfb)
-- [Dev.to/JS] [How to Avoid JavaScript Type Conversions &lpar;Type Coercion&rpar;](https://dev.to/biplavmz/how-to-avoid-javascript-type-conversions-type-coercion-37ce)
 - [Lifehacker] [How to Get Wrinkles Out of Your Clothes Without an Iron or Dryer](https://lifehacker.com/how-to-get-wrinkles-out-of-your-clothes-without-an-iron-1850176547)
 - [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
 - [Lifehacker] [The Easiest Way to Keep Your Gardening Tools Sharp and Clean](https://lifehacker.com/the-easiest-way-to-keep-your-gardening-tools-sharp-and-1850185955)
