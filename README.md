@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.ts💊| #25: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-25-explica-este-codigo-typescript-222f)
+- [Lifehacker] [How to Get Wrinkles Out of Your Clothes Without an Iron or Dryer](https://lifehacker.com/how-to-get-wrinkles-out-of-your-clothes-without-an-iron-1850176547)
+- [Dev.to/JS] [Declarative and inferable types way in React Redux](https://dev.to/tkow/declarative-and-inferable-types-way-in-react-redux-21in)
+- [Dev.to/JS] [10 Helpful JavaScript Utility Functions](https://dev.to/dostonnabotov/10-helpful-javascript-utility-functions-35oc)
 - [Dev.to/JS] [Blogging with Sveltekit and Markdown](https://dev.to/kylebuildsstuff/building-a-blog-with-sveltekit-and-markdown-2oaa)
 - [Dev.to/JS] [Polymorphism with React](https://dev.to/helderberto/polymorphism-with-react-3ld9)
 - [Dev.to/JS] [Pointer Events in JavaScript](https://dev.to/supminn/pointer-events-in-javascript-1lol)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A simple trick for your dotenv files](https://dev.to/victorocna/a-simple-trick-for-your-dotenv-files-115p)
 - [Dev.to/JS] [Help Needed !!](https://dev.to/jagroop2000/help-needed--24ln)
 - [Dev.to/JS] [Fetching Data Made Easy with the useQuery Hook in React](https://dev.to/xaypanya/fetching-data-made-easy-with-the-usequery-hook-in-react-2b22)
-- [Dev.to/JS] [5 NPM Alternatives You Should Try](https://dev.to/devland/5-npm-alternatives-you-should-try-a28)
-- [Dev.to/JS] [Become a better you with these 10 visuals](https://dev.to/jon_snow789/become-a-better-you-with-these-10-visuals-1adh)
-- [Dev.to/JS] [Some tips when using T3 Stack: Part 1](https://dev.to/tawaliou/some-tips-when-using-t3-stack-part-1-2ai2)
 - [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
 - [Lifehacker] [The Easiest Way to Keep Your Gardening Tools Sharp and Clean](https://lifehacker.com/the-easiest-way-to-keep-your-gardening-tools-sharp-and-1850185955)
 - [Lifehacker] [Use a Can of Soup to Make a Lazy Chicken Pot Pie](https://lifehacker.com/use-a-can-of-soup-to-make-a-lazy-chicken-pot-pie-1850185408)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Essential Uses for Rubbing Alcohol That Aren’t…Rubbing](https://lifehacker.com/10-essential-uses-for-rubbing-alcohol-that-aren-t-rubbi-1850179150)
 - [Lifehacker] [11 New Windows 11 Features You Need to Know About](https://lifehacker.com/11-new-windows-11-features-you-need-to-know-about-1850178464)
 - [Lifehacker] [Why 11 Minutes a Day Is Your New Exercise Target](https://lifehacker.com/why-11-minutes-a-day-is-your-new-exercise-target-1850178554)
-- [Lifehacker] [17 Surprising Household Uses for Tennis Balls](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)
-- [Lifehacker] [This App Creates Step-by-Step How-to Guides for Anything You Do on Your Computer](https://lifehacker.com/this-app-creates-step-by-step-how-to-guides-for-anythin-1850177460)<!-- TECH-POSTS:END -->
+- [Lifehacker] [17 Surprising Household Uses for Tennis Balls](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)<!-- TECH-POSTS:END -->
 
 ---
 
