@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Worker, Service Worker, and Worklets: A Comprehensive Guide](https://dev.to/bharat5604/web-worker-service-worker-and-worklets-a-comprehensive-guide-1f64)
 - [Dev.to/JS] [5 Simple ways to check for undefined or null values](https://dev.to/anuva312/5-simple-ways-to-check-for-undefined-or-null-values-1bfb)
 - [Dev.to/JS] [How to Avoid JavaScript Type Conversions &lpar;Type Coercion&rpar;](https://dev.to/biplavmz/how-to-avoid-javascript-type-conversions-type-coercion-37ce)
 - [Dev.to/JS] [Best Online TikTok Video Downloaders Without Watermark](https://dev.to/yajindragautam/best-online-tiktok-video-downloaders-without-watermark-28m9)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Polymorphism with React](https://dev.to/helderberto/polymorphism-with-react-3ld9)
 - [Dev.to/JS] [Pointer Events in JavaScript](https://dev.to/supminn/pointer-events-in-javascript-1lol)
 - [Dev.to/JS] [Recover your password with Supabase](https://dev.to/guillaumeduhan/recover-your-password-with-supabase-egc)
-- [Dev.to/JS] [How to integrate swagger ui in your node project with auto generation ?](https://dev.to/raviagheda/how-to-integrate-swagger-ui-in-your-node-project-with-auto-generation--5aei)
 - [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
 - [Lifehacker] [The Easiest Way to Keep Your Gardening Tools Sharp and Clean](https://lifehacker.com/the-easiest-way-to-keep-your-gardening-tools-sharp-and-1850185955)
 - [Lifehacker] [Use a Can of Soup to Make a Lazy Chicken Pot Pie](https://lifehacker.com/use-a-can-of-soup-to-make-a-lazy-chicken-pot-pie-1850185408)
