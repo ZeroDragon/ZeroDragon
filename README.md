@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing Defer: A Zero Infrastructure background jobs Node.js platform](https://dev.to/defer/introducing-defer-a-zero-infrastructure-background-jobs-nodejs-platform-43jb)
+- [Dev.to/JS] [PSA For Referencing Properties in Functions!](https://dev.to/greenteaisgreat/psa-for-referencing-properties-in-functions-2810)
 - [Dev.to/JS] [Easy website headers in JS](https://dev.to/cgwebdev2003/easy-website-headers-in-js-p3e)
 - [Dev.to/JS] [ChatGPT - Complex Coding Challenges: Part 2](https://dev.to/damiensedgwick/chatgpt-complex-coding-challenges-part-2-1h38)
 - [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
@@ -43,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Give the Best Presentation of Your Life](https://lifehacker.com/how-to-give-the-best-presentation-of-your-life-1850183217)
 - [Dev.to/JS] [Making the Case for Signals in JavaScript](https://dev.to/this-is-learning/making-the-case-for-signals-in-javascript-4c7i)
 - [Lifehacker] [10 Ways to Build a Better Smoothie](https://lifehacker.com/10-ways-to-build-a-better-smoothie-1850184624)
-- [Dev.to/JS] [how to make dynamic element center horizontally in react js?](https://dev.to/jacksonkasi/how-to-make-dynamic-element-center-horizontally-in-react-js-a1e)
 - [Lifehacker] [Stalk Yelp Users With Good Taste](https://lifehacker.com/stalk-yelp-users-with-good-taste-1850182047)
-- [Dev.to/JS] [Final Thoughts on Speed Run Ethereum 🚀](https://dev.to/kevinjoshi46b/final-thoughts-on-speed-run-ethereum-1ib2)
 - [Lifehacker] [You Can Try the New Windows 11 Volume Mixer Before It Comes Out](https://lifehacker.com/you-can-try-the-new-windows-11-volume-mixer-before-it-c-1850183952)
 - [Lifehacker] [Don&#39;t Let Rain Water Ruin Your Garage](https://lifehacker.com/dont-let-rain-water-ruin-your-garage-1850181529)
 - [Lifehacker] [12 Podcasts to Obsess Over If You Like &#39;You&#39;re Wrong About&#39;](https://lifehacker.com/12-podcasts-to-obsess-over-if-you-like-youre-wrong-abou-1850134481)
