@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ChatGPT - Complex Coding Challenges: Part 2](https://dev.to/damiensedgwick/chatgpt-complex-coding-challenges-part-2-1h38)
+- [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
+- [Dev.to/JS] [Flatiron: Phase 1 Project](https://dev.to/jvertt/flatiron-phase-1-project-4n50)
 - [Lifehacker] [The Easiest Way to Keep Your Gardening Tools Sharp and Clean](https://lifehacker.com/the-easiest-way-to-keep-your-gardening-tools-sharp-and-1850185955)
 - [Dev.to/JS] [Configure multiple ssh credentials with git](https://dev.to/dashpy/configure-multiple-ssh-credentials-with-git-2k38)
 - [Lifehacker] [Use a Can of Soup to Make a Lazy Chicken Pot Pie](https://lifehacker.com/use-a-can-of-soup-to-make-a-lazy-chicken-pot-pie-1850185408)
@@ -44,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Final Thoughts on Speed Run Ethereum 🚀](https://dev.to/kevinjoshi46b/final-thoughts-on-speed-run-ethereum-1ib2)
 - [Dev.to/JS] [Optimizing AWS Lambda: How to Reduce Node.js Application Bundle Size](https://dev.to/alanneves/optimizing-aws-lambda-how-to-reduce-nodejs-application-bundle-size-2hi1)
 - [Lifehacker] [You Can Try the New Windows 11 Volume Mixer Before It Comes Out](https://lifehacker.com/you-can-try-the-new-windows-11-volume-mixer-before-it-c-1850183952)
-- [Dev.to/JS] [How to limit input length or lines in React-codemirror](https://dev.to/thewatchmaker/how-to-limit-input-length-or-lines-in-react-codemirror-5bcg)
-- [Dev.to/JS] [How to simplify your if statements](https://dev.to/tahazsh/how-to-simplify-your-if-statements-57mn)
 - [Lifehacker] [Don&#39;t Let Rain Water Ruin Your Garage](https://lifehacker.com/dont-let-rain-water-ruin-your-garage-1850181529)
 - [Lifehacker] [12 Podcasts to Obsess Over If You Like &#39;You&#39;re Wrong About&#39;](https://lifehacker.com/12-podcasts-to-obsess-over-if-you-like-youre-wrong-abou-1850134481)
 - [Crazy Programmer] [5 Generations of Computer](https://www.thecrazyprogrammer.com/2023/03/generations-of-computer.html)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 New Windows 11 Features You Need to Know About](https://lifehacker.com/11-new-windows-11-features-you-need-to-know-about-1850178464)
 - [Lifehacker] [Why 11 Minutes a Day Is Your New Exercise Target](https://lifehacker.com/why-11-minutes-a-day-is-your-new-exercise-target-1850178554)
 - [Lifehacker] [17 Surprising Household Uses for Tennis Balls](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)
-- [Lifehacker] [This App Creates Step-by-Step How-to Guides for Anything You Do on Your Computer](https://lifehacker.com/this-app-creates-step-by-step-how-to-guides-for-anythin-1850177460)
-- [Lifehacker] [Don’t Fall for This Fake Authenticator App Scam](https://lifehacker.com/don-t-fall-for-this-fake-authenticator-app-scam-1850177439)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This App Creates Step-by-Step How-to Guides for Anything You Do on Your Computer](https://lifehacker.com/this-app-creates-step-by-step-how-to-guides-for-anythin-1850177460)<!-- TECH-POSTS:END -->
 
 ---
 
