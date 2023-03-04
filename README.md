@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Hide JavaScript Code in View Source](https://dev.to/dhairyashah/how-to-hide-javascript-code-in-view-source-39kg)
+- [Dev.to/JS] [A simple trick for your dotenv files](https://dev.to/victorocna/a-simple-trick-for-your-dotenv-files-115p)
 - [Dev.to/JS] [Help Needed !!](https://dev.to/jagroop2000/help-needed--24ln)
 - [Dev.to/JS] [Fetching Data Made Easy with the useQuery Hook in React](https://dev.to/xaypanya/fetching-data-made-easy-with-the-usequery-hook-in-react-2b22)
 - [Dev.to/JS] [Explore the Ways to be a Front-runner in the US Online Grocery Market with a Kroger Clone App](https://dev.to/morrison/explore-the-ways-to-be-a-front-runner-in-the-us-online-grocery-market-with-a-kroger-clone-app-26b0)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Event Loop Simplified](https://dev.to/mateocodes/javascript-event-loop-simplified-5329)
 - [Dev.to/JS] [A gentle introduction to Vitest](https://dev.to/shaswatprabhat/a-gentle-introduction-to-vitest-14fp)
 - [Dev.to/JS] [Next.js Routing: A Comprehensive Guide to Building Single-Page Applications](https://dev.to/sarveshh/nextjs-routing-a-comprehensive-guide-to-building-single-page-applications-3l90)
-- [Dev.to/JS] [State management with Redux in React](https://dev.to/ebuberoderick/state-management-with-redux-in-react-bao)
-- [Dev.to/JS] [using llama finder and deno to scrape websites](https://dev.to/dwarft/using-llama-finder-and-deno-to-scrape-websites-117)
 - [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
 - [Lifehacker] [The Easiest Way to Keep Your Gardening Tools Sharp and Clean](https://lifehacker.com/the-easiest-way-to-keep-your-gardening-tools-sharp-and-1850185955)
 - [Lifehacker] [Use a Can of Soup to Make a Lazy Chicken Pot Pie](https://lifehacker.com/use-a-can-of-soup-to-make-a-lazy-chicken-pot-pie-1850185408)
