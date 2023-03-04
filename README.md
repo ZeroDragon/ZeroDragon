@@ -23,8 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Simple ways to check for undefined or null values](https://dev.to/anuva312/5-simple-ways-to-check-for-undefined-or-null-values-1bfb)
+- [Dev.to/JS] [How to Avoid JavaScript Type Conversions &lpar;Type Coercion&rpar;](https://dev.to/biplavmz/how-to-avoid-javascript-type-conversions-type-coercion-37ce)
+- [Dev.to/JS] [Best Online TikTok Video Downloaders Without Watermark](https://dev.to/yajindragautam/best-online-tiktok-video-downloaders-without-watermark-28m9)
 - [Dev.to/JS] [Paracetamol.ts💊| #25: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-25-explica-este-codigo-typescript-222f)
 - [Lifehacker] [How to Get Wrinkles Out of Your Clothes Without an Iron or Dryer](https://lifehacker.com/how-to-get-wrinkles-out-of-your-clothes-without-an-iron-1850176547)
+- [Dev.to/JS] [Strings vs Arrays in JS](https://dev.to/mallchel/strings-vs-arrays-in-js-amo)
 - [Dev.to/JS] [Declarative and inferable types way in React Redux](https://dev.to/tkow/declarative-and-inferable-types-way-in-react-redux-21in)
 - [Dev.to/JS] [10 Helpful JavaScript Utility Functions](https://dev.to/dostonnabotov/10-helpful-javascript-utility-functions-35oc)
 - [Dev.to/JS] [Blogging with Sveltekit and Markdown](https://dev.to/kylebuildsstuff/building-a-blog-with-sveltekit-and-markdown-2oaa)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pointer Events in JavaScript](https://dev.to/supminn/pointer-events-in-javascript-1lol)
 - [Dev.to/JS] [Recover your password with Supabase](https://dev.to/guillaumeduhan/recover-your-password-with-supabase-egc)
 - [Dev.to/JS] [How to integrate swagger ui in your node project with auto generation ?](https://dev.to/raviagheda/how-to-integrate-swagger-ui-in-your-node-project-with-auto-generation--5aei)
-- [Dev.to/JS] [How to Hide JavaScript Code in View Source](https://dev.to/dhairyashah/how-to-hide-javascript-code-in-view-source-39kg)
-- [Dev.to/JS] [A simple trick for your dotenv files](https://dev.to/victorocna/a-simple-trick-for-your-dotenv-files-115p)
-- [Dev.to/JS] [Help Needed !!](https://dev.to/jagroop2000/help-needed--24ln)
-- [Dev.to/JS] [Fetching Data Made Easy with the useQuery Hook in React](https://dev.to/xaypanya/fetching-data-made-easy-with-the-usequery-hook-in-react-2b22)
 - [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
 - [Lifehacker] [The Easiest Way to Keep Your Gardening Tools Sharp and Clean](https://lifehacker.com/the-easiest-way-to-keep-your-gardening-tools-sharp-and-1850185955)
 - [Lifehacker] [Use a Can of Soup to Make a Lazy Chicken Pot Pie](https://lifehacker.com/use-a-can-of-soup-to-make-a-lazy-chicken-pot-pie-1850185408)
