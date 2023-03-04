@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Starting with JavaScript](https://dev.to/pk50sshowa/starting-with-javascript-1687)
 - [Dev.to/JS] [Build A Password Generator](https://dev.to/kalashin1/build-a-password-generator-11oo)
 - [Dev.to/JS] [What is Hashicorp Vault? Manage your secrets in production.](https://dev.to/tush_tr/what-is-hashicorp-vault-manage-your-secrets-in-production-4n4a)
 - [Dev.to/JS] [The power of &quot;js generators&quot; revamped](https://dev.to/bsorrentino/the-power-of-js-generators-revamped-5365)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Strings vs Arrays in JS](https://dev.to/mallchel/strings-vs-arrays-in-js-amo)
 - [Dev.to/JS] [Declarative and inferable types way in React Redux](https://dev.to/tkow/declarative-and-inferable-types-way-in-react-redux-21in)
 - [Dev.to/JS] [10 Helpful JavaScript Utility Functions](https://dev.to/dostonnabotov/10-helpful-javascript-utility-functions-35oc)
-- [Dev.to/JS] [Blogging with Sveltekit and Markdown](https://dev.to/kylebuildsstuff/building-a-blog-with-sveltekit-and-markdown-2oaa)
 - [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
 - [Lifehacker] [The Easiest Way to Keep Your Gardening Tools Sharp and Clean](https://lifehacker.com/the-easiest-way-to-keep-your-gardening-tools-sharp-and-1850185955)
 - [Lifehacker] [Use a Can of Soup to Make a Lazy Chicken Pot Pie](https://lifehacker.com/use-a-can-of-soup-to-make-a-lazy-chicken-pot-pie-1850185408)
