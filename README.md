@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a CRUD DApp using Solidity | Nextjs | Thirdweb | Tailwind CSS](https://dev.to/thisisgazzar/build-a-crud-dapp-using-solidity-nextjs-thirdweb-tailwind-css-44m8)
+- [Dev.to/JS] [JavaScript Tutorial Series: Manipulating elements part 1](https://dev.to/fullstackjo/javascript-tutorial-series-manipulating-elements-part-1-35lh)
+- [Dev.to/JS] [Learning Object Destructuring in JavaScript](https://dev.to/ypdev19/learning-object-destructuring-in-javascript-3gj5)
 - [Dev.to/JS] [ReactJS : When to use Class Component Over Function Component?](https://dev.to/imparmarjatin/reactjs-when-to-use-class-component-over-function-component-1ob5)
 - [Dev.to/JS] [How To Use Supabase Database in React Native - Complete Guide](https://dev.to/sebduta/how-to-use-supabase-database-in-react-native-complete-guide-11ih)
 - [Dev.to/JS] [HelmetJS and SwaggerUI: Avoiding headaches in your NodeJS app](https://dev.to/starlingroot/helmetjs-and-swaggerui-avoiding-headaches-in-your-nodejs-app-29l3)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Linear search algorithm](https://dev.to/lausuarez02/linear-search-algorithm-1o48)
 - [Dev.to/JS] [Accessing function in object or redux](https://dev.to/lausuarez02/accessing-function-in-object-or-redux-3eg)
 - [Dev.to/JS] [Can You Solve These 10 HTML DOM Exercises?](https://dev.to/codeguage/can-you-solve-these-10-html-dom-exercises-26bk)
-- [Dev.to/JS] [How to modify the color of the address bar when a visitor navigates to your website?](https://dev.to/rawsting/how-to-modify-the-color-of-the-address-bar-when-a-visitor-navigates-to-your-website-4df2)
-- [Dev.to/JS] [Starting with JavaScript](https://dev.to/pk50sshowa/starting-with-javascript-1687)
-- [Dev.to/JS] [Build A Password Generator](https://dev.to/kalashin1/build-a-password-generator-11oo)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
 - [Lifehacker] [How to Get Wrinkles Out of Your Clothes Without an Iron or Dryer](https://lifehacker.com/how-to-get-wrinkles-out-of-your-clothes-without-an-iron-1850176547)
 - [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
