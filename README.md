@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Blogging with Sveltekit and Markdown](https://dev.to/kylebuildsstuff/building-a-blog-with-sveltekit-and-markdown-2oaa)
+- [Dev.to/JS] [Polymorphism with React](https://dev.to/helderberto/polymorphism-with-react-3ld9)
+- [Dev.to/JS] [Pointer Events in JavaScript](https://dev.to/supminn/pointer-events-in-javascript-1lol)
+- [Dev.to/JS] [Recover your password with Supabase](https://dev.to/guillaumeduhan/recover-your-password-with-supabase-egc)
+- [Dev.to/JS] [How to integrate swagger ui in your node project with auto generation ?](https://dev.to/raviagheda/how-to-integrate-swagger-ui-in-your-node-project-with-auto-generation--5aei)
 - [Dev.to/JS] [How to Hide JavaScript Code in View Source](https://dev.to/dhairyashah/how-to-hide-javascript-code-in-view-source-39kg)
 - [Dev.to/JS] [A simple trick for your dotenv files](https://dev.to/victorocna/a-simple-trick-for-your-dotenv-files-115p)
 - [Dev.to/JS] [Help Needed !!](https://dev.to/jagroop2000/help-needed--24ln)
 - [Dev.to/JS] [Fetching Data Made Easy with the useQuery Hook in React](https://dev.to/xaypanya/fetching-data-made-easy-with-the-usequery-hook-in-react-2b22)
-- [Dev.to/JS] [Explore the Ways to be a Front-runner in the US Online Grocery Market with a Kroger Clone App](https://dev.to/morrison/explore-the-ways-to-be-a-front-runner-in-the-us-online-grocery-market-with-a-kroger-clone-app-26b0)
-- [Dev.to/JS] [Neuroevolution: Genetic Algo and Artificial Neural Network - Free Course](https://dev.to/apssouza22/deep-evolution-genetic-algo-and-artificial-neural-network-free-course-ikn)
 - [Dev.to/JS] [5 NPM Alternatives You Should Try](https://dev.to/devland/5-npm-alternatives-you-should-try-a28)
 - [Dev.to/JS] [Become a better you with these 10 visuals](https://dev.to/jon_snow789/become-a-better-you-with-these-10-visuals-1adh)
 - [Dev.to/JS] [Some tips when using T3 Stack: Part 1](https://dev.to/tawaliou/some-tips-when-using-t3-stack-part-1-2ai2)
-- [Dev.to/JS] [JavaScript Event Loop Simplified](https://dev.to/mateocodes/javascript-event-loop-simplified-5329)
-- [Dev.to/JS] [A gentle introduction to Vitest](https://dev.to/shaswatprabhat/a-gentle-introduction-to-vitest-14fp)
-- [Dev.to/JS] [Next.js Routing: A Comprehensive Guide to Building Single-Page Applications](https://dev.to/sarveshh/nextjs-routing-a-comprehensive-guide-to-building-single-page-applications-3l90)
 - [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
 - [Lifehacker] [The Easiest Way to Keep Your Gardening Tools Sharp and Clean](https://lifehacker.com/the-easiest-way-to-keep-your-gardening-tools-sharp-and-1850185955)
 - [Lifehacker] [Use a Can of Soup to Make a Lazy Chicken Pot Pie](https://lifehacker.com/use-a-can-of-soup-to-make-a-lazy-chicken-pot-pie-1850185408)
