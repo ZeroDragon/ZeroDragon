@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 5 Books to Become a Pro Javascript Developer](https://dev.to/onlinearfan/top-5-books-to-become-a-pro-javascript-developer-276b)
+- [Dev.to/JS] [How to Create a Simple Counter Application with React Hooks](https://dev.to/sidramaqbool/how-to-create-a-simple-counter-application-with-react-hooks-3643)
 - [Dev.to/JS] [Explaining Headless CMS to a web designer](https://dev.to/momciloo/explaining-headless-cms-to-a-web-designer-4pa2)
 - [Dev.to/JS] [Is Webflow going over the edge? Is it too expensive?](https://dev.to/momciloo/is-webflow-going-over-the-edge-is-it-too-expensive-o78)
 - [Dev.to/JS] [Like Button - JS](https://dev.to/986913/like-button-js-3ic2)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [[Node.js] Why using sync versions of async functions is bad.](https://dev.to/gaurang847/nodejs-why-using-sync-versions-of-async-functions-is-bad-586)
 - [Dev.to/JS] [Why Node.js is a Must-Have for Modern Web Development and its Role in React Development](https://dev.to/sidramaqbool/why-nodejs-is-a-must-have-for-modern-web-development-and-its-role-in-react-development-53e8)
 - [Dev.to/JS] [Add to cart using javascript](https://dev.to/rajamanickam/add-to-cart-using-javascript-3nom)
-- [Dev.to/JS] [Let&#39;s finally build our app](https://dev.to/oreoyona/lets-finally-build-our-app-la0)
-- [Dev.to/JS] [What is the DOM &amp; How Does HTML Rendering Happen in Browsers?](https://dev.to/muhammederdinc/what-is-the-dom-how-does-html-rendering-happen-in-browsers-1ehm)
 - [Lifehacker] [The Happiest U.S. Cities Right Now](https://lifehacker.com/the-happiest-u-s-cities-right-now-1850176534)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
 - [Lifehacker] [How to Get Wrinkles Out of Your Clothes Without an Iron or Dryer](https://lifehacker.com/how-to-get-wrinkles-out-of-your-clothes-without-an-iron-1850176547)
