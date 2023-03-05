@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Further Understanding Hooks: How to Properly Understand the Lifecycle of Function Components?](https://dev.to/yukooshima/further-understanding-hooks-how-to-properly-understand-the-lifecycle-of-function-components-3p7j)
+- [Dev.to/JS] [6 Useful JavaScript Tips for Beginners](https://dev.to/hardikgohilhlr/6-useful-javascript-tips-for-beginners-225o)
+- [Dev.to/JS] [Page does not automatically scroll to the top when switching routes React JS](https://dev.to/pawanjs/page-does-not-automatically-scroll-to-the-top-when-switching-routes-react-js-165f)
+- [Dev.to/JS] [Build a Video Transcriber using Whisper Speech to Text API](https://dev.to/kylebuildsstuff/build-a-video-transcriber-using-whisper-speech-to-text-api-jhl)
+- [Dev.to/JS] [Frontend System Design — Spotify Playlist Architecture](https://dev.to/teekay/frontend-system-design-spotify-playlist-architecture-1b98)
 - [Dev.to/JS] [Building a RESTful API with Node.js, Express.js, and MongoDB — Part 1](https://dev.to/smsp/building-a-restful-api-with-nodejs-expressjs-and-mongodb-part-1-2gbk)
 - [Dev.to/JS] [LeetCode - Count Good Nodes in Binary Tree](https://dev.to/_alkesh26/leetcode-count-good-nodes-in-binary-tree-2j7b)
 - [Dev.to/JS] [Reset CSS](https://dev.to/navinso92429049/reset-css-4am)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Write React Hooks More Effectively](https://dev.to/shubhamb/how-to-write-react-hooks-more-effectively-2ale)
 - [Dev.to/JS] [How to Scale your WebSocket Server with DynamoDB and SNS.](https://dev.to/stretch0/how-to-scale-your-websocket-server-with-dynamodb-and-sns-3pfa)
 - [Dev.to/JS] [Nit Code App](https://dev.to/ivendf/nit-code-app-3gl5)
-- [Dev.to/JS] [Vite: The Next Generation Build Tool for Modern Web Applications](https://dev.to/spyder15/vite-the-next-generation-build-tool-for-modern-web-applications-3m8m)
-- [Dev.to/JS] [Vanilla JS for selecting a local text file and reading its content](https://dev.to/tobychui/vanilla-js-for-selecting-a-local-text-file-and-reading-its-content-31oh)
-- [Dev.to/JS] [How Work Event Loop in JavaScript](https://dev.to/dbarabashdev/how-work-event-loop-in-javascript-122e)
-- [Dev.to/JS] [Introducing the Naruto DB: The most extensive public API for Naruto Universe](https://dev.to/hellskater/introducing-the-naruto-db-the-most-extensive-public-api-for-naruto-universe-hg1)
-- [Dev.to/JS] [Polyfill for map in javascript](https://dev.to/binarysingh/polyfill-for-map-in-javascript-1d6k)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
 - [Lifehacker] [How to Get Wrinkles Out of Your Clothes Without an Iron or Dryer](https://lifehacker.com/how-to-get-wrinkles-out-of-your-clothes-without-an-iron-1850176547)
 - [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
