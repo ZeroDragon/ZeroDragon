@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Add a second remote origin with Git](https://dev.to/hshoja/add-a-second-remote-origin-to-git-35a7)
+- [Dev.to/JS] [What is Profiler in ReactJS?](https://dev.to/souravbandyopadhyay/what-is-profiler-in-reactjs-4ebi)
+- [Dev.to/JS] [Pixi pixel](https://dev.to/alrmatveev/pixi-pixel-4hh3)
+- [Dev.to/JS] [11 Powerful AI Tools for Crafting Your Perfect Resume Resumestar](https://dev.to/foxbuka/11-powerful-ai-tools-for-crafting-your-perfect-resumeresumestar-2m65)
+- [Dev.to/JS] [AWS SES with NodeJS - Send E-Mails with Amazon AWS&#39;s SES utility and Lambda functions.](https://dev.to/mrsrv7/aws-ses-with-nodejs-send-e-mails-with-amazon-awss-ses-utility-and-lambda-functions-3l9n)
+- [Dev.to/JS] [Connecting to a WeatherAPI in Google Sheets via Google Apps Script](https://dev.to/damilare_abogunrin/connecting-to-a-weatherapi-in-google-sheets-via-google-apps-script-2ofa)
 - [Dev.to/JS] [Top 5 Books to Become a Pro Javascript Developer](https://dev.to/onlinearfan/top-5-books-to-become-a-pro-javascript-developer-276b)
 - [Dev.to/JS] [How to Create a Simple Counter Application with React Hooks](https://dev.to/sidramaqbool/how-to-create-a-simple-counter-application-with-react-hooks-3643)
 - [Dev.to/JS] [Explaining Headless CMS to a web designer](https://dev.to/momciloo/explaining-headless-cms-to-a-web-designer-4pa2)
@@ -30,12 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Like Button - JS](https://dev.to/986913/like-button-js-3ic2)
 - [Lifehacker] [These Household Products Can Sub for WD-40](https://lifehacker.com/these-household-products-can-sub-for-wd-40-1850176503)
 - [Dev.to/JS] [Increase tailwind classes readability with this eslint plugin](https://dev.to/kalimahapps/increate-tailwind-readability-with-this-eslint-plugin-2cg2)
-- [Dev.to/JS] [Why Types and Tests are Both Essential in Programming](https://dev.to/neilchaudhuri/why-types-and-tests-are-both-essential-in-programming-4cip)
-- [Dev.to/JS] [Handling Form Data in React](https://dev.to/oluwatrillions/handling-form-data-in-react-lh8)
-- [Dev.to/JS] [JavaScript hoisting](https://dev.to/navinso92429049/javascript-hoisting-118c)
-- [Dev.to/JS] [[Node.js] Why using sync versions of async functions is bad.](https://dev.to/gaurang847/nodejs-why-using-sync-versions-of-async-functions-is-bad-586)
-- [Dev.to/JS] [Why Node.js is a Must-Have for Modern Web Development and its Role in React Development](https://dev.to/sidramaqbool/why-nodejs-is-a-must-have-for-modern-web-development-and-its-role-in-react-development-53e8)
-- [Dev.to/JS] [Add to cart using javascript](https://dev.to/rajamanickam/add-to-cart-using-javascript-3nom)
 - [Lifehacker] [The Happiest U.S. Cities Right Now](https://lifehacker.com/the-happiest-u-s-cities-right-now-1850176534)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
 - [Lifehacker] [How to Get Wrinkles Out of Your Clothes Without an Iron or Dryer](https://lifehacker.com/how-to-get-wrinkles-out-of-your-clothes-without-an-iron-1850176547)
