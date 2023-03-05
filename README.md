@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nit Code App](https://dev.to/ivendf/nit-code-app-3gl5)
+- [Dev.to/JS] [Vite: The Next Generation Build Tool for Modern Web Applications](https://dev.to/spyder15/vite-the-next-generation-build-tool-for-modern-web-applications-3m8m)
+- [Dev.to/JS] [Vanilla JS for selecting a local text file and reading its content](https://dev.to/tobychui/vanilla-js-for-selecting-a-local-text-file-and-reading-its-content-31oh)
 - [Dev.to/JS] [How Work Event Loop in JavaScript](https://dev.to/dbarabashdev/how-work-event-loop-in-javascript-122e)
 - [Dev.to/JS] [Introducing the Naruto DB: The most extensive public API for Naruto Universe](https://dev.to/hellskater/introducing-the-naruto-db-the-most-extensive-public-api-for-naruto-universe-hg1)
 - [Dev.to/JS] [Polyfill for map in javascript](https://dev.to/binarysingh/polyfill-for-map-in-javascript-1d6k)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React State - Avoiding Object Duplication](https://dev.to/nakzyu/react-state-avoiding-object-duplication-2hfj)
 - [Dev.to/JS] [Web Storage: Purpose, Usage, Benefits, Risks &amp; Limitations with Examples](https://dev.to/sidramaqbool/web-storage-purpose-usage-benefits-risks-limitations-with-examples-o46)
 - [Dev.to/JS] [Red Boost Powder - Blood Sugar Reviews, Benefits, Complaints &amp; Warnings?](https://dev.to/boostpowder/red-boost-powder-blood-sugar-reviews-benefits-complaints-warnings-4708)
-- [Dev.to/JS] [Node.js boilerplate / Authentication from scratch - &lpar;express, mongodb&rpar; Rest-API, Typescript.](https://dev.to/watscho/nodejs-boilerplate-authentication-from-scratch-express-mongodb-rest-api-typescript-25i3)
-- [Dev.to/JS] [7 Libraries You Should Know as a React Developer 💯🔥](https://dev.to/ruppysuppy/7-libraries-you-should-know-as-a-react-developer-2ib5)
-- [Dev.to/JS] [Simplifying DTO Management In Express.js with Class-Transformer](https://dev.to/mdmostafizurrahaman/simplifying-dto-management-in-expressjs-with-class-transformer-56mh)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
 - [Lifehacker] [How to Get Wrinkles Out of Your Clothes Without an Iron or Dryer](https://lifehacker.com/how-to-get-wrinkles-out-of-your-clothes-without-an-iron-1850176547)
 - [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
