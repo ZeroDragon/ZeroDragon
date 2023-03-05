@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a RESTful API with Node.js, Express.js, and MongoDB — Part 1](https://dev.to/smsp/building-a-restful-api-with-nodejs-expressjs-and-mongodb-part-1-2gbk)
+- [Dev.to/JS] [LeetCode - Count Good Nodes in Binary Tree](https://dev.to/_alkesh26/leetcode-count-good-nodes-in-binary-tree-2j7b)
+- [Dev.to/JS] [Reset CSS](https://dev.to/navinso92429049/reset-css-4am)
+- [Dev.to/JS] [Why to useMemo hook?](https://dev.to/shubhamb/why-to-usememo-hook-415c)
 - [Dev.to/JS] [How to Write React Hooks More Effectively](https://dev.to/shubhamb/how-to-write-react-hooks-more-effectively-2ale)
 - [Dev.to/JS] [How to Scale your WebSocket Server with DynamoDB and SNS.](https://dev.to/stretch0/how-to-scale-your-websocket-server-with-dynamodb-and-sns-3pfa)
 - [Dev.to/JS] [Nit Code App](https://dev.to/ivendf/nit-code-app-3gl5)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Work Event Loop in JavaScript](https://dev.to/dbarabashdev/how-work-event-loop-in-javascript-122e)
 - [Dev.to/JS] [Introducing the Naruto DB: The most extensive public API for Naruto Universe](https://dev.to/hellskater/introducing-the-naruto-db-the-most-extensive-public-api-for-naruto-universe-hg1)
 - [Dev.to/JS] [Polyfill for map in javascript](https://dev.to/binarysingh/polyfill-for-map-in-javascript-1d6k)
-- [Dev.to/JS] [Common mistakes when using React - Why the screen value does not change](https://dev.to/nakzyu/common-mistakes-when-using-react-why-the-screen-value-does-not-change-1966)
-- [Dev.to/JS] [React - Preventing Event Propagation from Parent Elements, Event Bubbling, Capturing, and Propagation](https://dev.to/nakzyu/react-preventing-event-propagation-from-parent-elements-event-bubbling-capturing-and-propagation-4npp)
-- [Dev.to/JS] [The Backpacker website in PHP | Web Development Project |](https://dev.to/madhubankhatri/the-backpacker-website-in-php-web-development-project--55fn)
-- [Dev.to/JS] [React State - Avoiding Object Duplication](https://dev.to/nakzyu/react-state-avoiding-object-duplication-2hfj)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
 - [Lifehacker] [How to Get Wrinkles Out of Your Clothes Without an Iron or Dryer](https://lifehacker.com/how-to-get-wrinkles-out-of-your-clothes-without-an-iron-1850176547)
 - [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
