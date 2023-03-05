@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Tutorial Series: Manipulating elements part 2.](https://dev.to/fullstackjo/javascript-tutorial-series-manipulating-elements-part-2-18og)
 - [Dev.to/JS] [Integrate Web3 of Algorand Blockchain](https://dev.to/frankdevstar/integrate-web3-of-algorand-blockchain-4dcj)
 - [Dev.to/JS] [Pin Save on Fantom - Fantom Q1 Devpost Hackathon submission](https://dev.to/pfedprog/pin-save-on-fantom-fantom-q1-devpost-hackathon-submission-451b)
 - [Dev.to/JS] [React vs Angular](https://dev.to/frankdevstar/react-vs-angular-2nn)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pixi pixel](https://dev.to/alrmatveev/pixi-pixel-4hh3)
 - [Dev.to/JS] [11 Powerful AI Tools for Crafting Your Perfect Resume Resumestar](https://dev.to/foxbuka/11-powerful-ai-tools-for-crafting-your-perfect-resumeresumestar-2m65)
 - [Dev.to/JS] [AWS SES with NodeJS - Send E-Mails with Amazon AWS&#39;s SES utility and Lambda functions.](https://dev.to/mrsrv7/aws-ses-with-nodejs-send-e-mails-with-amazon-awss-ses-utility-and-lambda-functions-3l9n)
-- [Dev.to/JS] [Connecting to a WeatherAPI in Google Sheets via Google Apps Script](https://dev.to/damilare_abogunrin/connecting-to-a-weatherapi-in-google-sheets-via-google-apps-script-2ofa)
 - [Lifehacker] [These Household Products Can Sub for WD-40](https://lifehacker.com/these-household-products-can-sub-for-wd-40-1850176503)
 - [Lifehacker] [The Happiest U.S. Cities Right Now](https://lifehacker.com/the-happiest-u-s-cities-right-now-1850176534)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
