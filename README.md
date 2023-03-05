@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Write React Hooks More Effectively](https://dev.to/shubhamb/how-to-write-react-hooks-more-effectively-2ale)
+- [Dev.to/JS] [How to Scale your WebSocket Server with DynamoDB and SNS.](https://dev.to/stretch0/how-to-scale-your-websocket-server-with-dynamodb-and-sns-3pfa)
 - [Dev.to/JS] [Nit Code App](https://dev.to/ivendf/nit-code-app-3gl5)
 - [Dev.to/JS] [Vite: The Next Generation Build Tool for Modern Web Applications](https://dev.to/spyder15/vite-the-next-generation-build-tool-for-modern-web-applications-3m8m)
 - [Dev.to/JS] [Vanilla JS for selecting a local text file and reading its content](https://dev.to/tobychui/vanilla-js-for-selecting-a-local-text-file-and-reading-its-content-31oh)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React - Preventing Event Propagation from Parent Elements, Event Bubbling, Capturing, and Propagation](https://dev.to/nakzyu/react-preventing-event-propagation-from-parent-elements-event-bubbling-capturing-and-propagation-4npp)
 - [Dev.to/JS] [The Backpacker website in PHP | Web Development Project |](https://dev.to/madhubankhatri/the-backpacker-website-in-php-web-development-project--55fn)
 - [Dev.to/JS] [React State - Avoiding Object Duplication](https://dev.to/nakzyu/react-state-avoiding-object-duplication-2hfj)
-- [Dev.to/JS] [Web Storage: Purpose, Usage, Benefits, Risks &amp; Limitations with Examples](https://dev.to/sidramaqbool/web-storage-purpose-usage-benefits-risks-limitations-with-examples-o46)
-- [Dev.to/JS] [Red Boost Powder - Blood Sugar Reviews, Benefits, Complaints &amp; Warnings?](https://dev.to/boostpowder/red-boost-powder-blood-sugar-reviews-benefits-complaints-warnings-4708)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
 - [Lifehacker] [How to Get Wrinkles Out of Your Clothes Without an Iron or Dryer](https://lifehacker.com/how-to-get-wrinkles-out-of-your-clothes-without-an-iron-1850176547)
 - [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
