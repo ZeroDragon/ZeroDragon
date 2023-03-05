@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Red Boost Powder - Blood Sugar Reviews, Benefits, Complaints &amp; Warnings?](https://dev.to/boostpowder/red-boost-powder-blood-sugar-reviews-benefits-complaints-warnings-4708)
+- [Dev.to/JS] [Node.js boilerplate / Authentication from scratch - &lpar;express, mongodb&rpar; Rest-API, Typescript.](https://dev.to/watscho/nodejs-boilerplate-authentication-from-scratch-express-mongodb-rest-api-typescript-25i3)
 - [Dev.to/JS] [7 Libraries You Should Know as a React Developer 💯🔥](https://dev.to/ruppysuppy/7-libraries-you-should-know-as-a-react-developer-2ib5)
 - [Dev.to/JS] [Simplifying DTO Management In Express.js with Class-Transformer](https://dev.to/mdmostafizurrahaman/simplifying-dto-management-in-expressjs-with-class-transformer-56mh)
 - [Dev.to/JS] [React.JS components, props &amp; state](https://dev.to/jriveraddiaz/reactjs-components-props-state-3nl4)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a CRUD DApp using Solidity | Nextjs | Thirdweb | Tailwind CSS](https://dev.to/thisisgazzar/build-a-crud-dapp-using-solidity-nextjs-thirdweb-tailwind-css-44m8)
 - [Dev.to/JS] [JavaScript Tutorial Series: Manipulating elements part 1](https://dev.to/fullstackjo/javascript-tutorial-series-manipulating-elements-part-1-35lh)
 - [Dev.to/JS] [Learning Object Destructuring in JavaScript](https://dev.to/ypdev19/learning-object-destructuring-in-javascript-3gj5)
-- [Dev.to/JS] [ReactJS : When to use Class Component Over Function Component?](https://dev.to/imparmarjatin/reactjs-when-to-use-class-component-over-function-component-1ob5)
-- [Dev.to/JS] [How To Use Supabase Database in React Native - Complete Guide](https://dev.to/sebduta/how-to-use-supabase-database-in-react-native-complete-guide-11ih)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
 - [Lifehacker] [How to Get Wrinkles Out of Your Clothes Without an Iron or Dryer](https://lifehacker.com/how-to-get-wrinkles-out-of-your-clothes-without-an-iron-1850176547)
 - [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
