@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Promises](https://dev.to/rivea0/javascript-promises-1med)
+- [Dev.to/JS] [Learning Recursion](https://dev.to/higokian/learning-recursion-lja)
 - [Dev.to/JS] [Controle de Fluxo no JavaScript](https://dev.to/joeldorosarioo/-controle-de-fluxo-no-javascript-4n74)
 - [Dev.to/JS] [Build a CRUD DApp using Solidity | Nextjs | Thirdweb | Tailwind CSS](https://dev.to/thisisgazzar/build-a-crud-dapp-using-solidity-nextjs-thirdweb-tailwind-css-44m8)
 - [Dev.to/JS] [JavaScript Tutorial Series: Manipulating elements part 1](https://dev.to/fullstackjo/javascript-tutorial-series-manipulating-elements-part-1-35lh)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Searching through JSON logs locally](https://dev.to/the_spyke/searching-through-json-logs-locally-2k0m)
 - [Dev.to/JS] [Activate the first Bootstrap collapse in Django for dynamic data.](https://dev.to/swesadiqul/activate-the-first-bootstrap-collapse-in-django-for-dynamic-data-3b22)
 - [Dev.to/JS] [ServiceNow: 1 thing for safer GlideRecord scripts](https://dev.to/mkrcma/servicenow-1-thing-for-safer-gliderecord-scripts-le2)
-- [Dev.to/JS] [Linear search algorithm](https://dev.to/lausuarez02/linear-search-algorithm-1o48)
-- [Dev.to/JS] [Accessing function in object or redux](https://dev.to/lausuarez02/accessing-function-in-object-or-redux-3eg)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
 - [Lifehacker] [How to Get Wrinkles Out of Your Clothes Without an Iron or Dryer](https://lifehacker.com/how-to-get-wrinkles-out-of-your-clothes-without-an-iron-1850176547)
 - [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
