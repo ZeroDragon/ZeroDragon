@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let&#39;s finally build our app](https://dev.to/oreoyona/lets-finally-build-our-app-la0)
+- [Dev.to/JS] [What is the DOM &amp; How Does HTML Rendering Happen in Browsers?](https://dev.to/muhammederdinc/what-is-the-dom-how-does-html-rendering-happen-in-browsers-1ehm)
+- [Dev.to/JS] [DOM Nedir &amp; Tarayıcılarda HTML Render İşlemi Nasıl Gerçekleşir?](https://dev.to/muhammederdinc/dom-nedir-tarayicilarda-html-render-islemi-nasil-gerceklesir-54a1)
+- [Lifehacker] [The Happiest U.S. Cities Right Now](https://lifehacker.com/the-happiest-u-s-cities-right-now-1850176534)
 - [Dev.to/JS] [Further Understanding Hooks: How to Properly Understand the Lifecycle of Function Components?](https://dev.to/yukooshima/further-understanding-hooks-how-to-properly-understand-the-lifecycle-of-function-components-3p7j)
 - [Dev.to/JS] [6 Useful JavaScript Tips for Beginners](https://dev.to/hardikgohilhlr/6-useful-javascript-tips-for-beginners-225o)
 - [Dev.to/JS] [Page does not automatically scroll to the top when switching routes React JS](https://dev.to/pawanjs/page-does-not-automatically-scroll-to-the-top-when-switching-routes-react-js-165f)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode - Count Good Nodes in Binary Tree](https://dev.to/_alkesh26/leetcode-count-good-nodes-in-binary-tree-2j7b)
 - [Dev.to/JS] [Reset CSS](https://dev.to/navinso92429049/reset-css-4am)
 - [Dev.to/JS] [Why to useMemo hook?](https://dev.to/shubhamb/why-to-usememo-hook-415c)
-- [Dev.to/JS] [How to Write React Hooks More Effectively](https://dev.to/shubhamb/how-to-write-react-hooks-more-effectively-2ale)
-- [Dev.to/JS] [How to Scale your WebSocket Server with DynamoDB and SNS.](https://dev.to/stretch0/how-to-scale-your-websocket-server-with-dynamodb-and-sns-3pfa)
-- [Dev.to/JS] [Nit Code App](https://dev.to/ivendf/nit-code-app-3gl5)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
 - [Lifehacker] [How to Get Wrinkles Out of Your Clothes Without an Iron or Dryer](https://lifehacker.com/how-to-get-wrinkles-out-of-your-clothes-without-an-iron-1850176547)
 - [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Map to Find BOGO Subway Footlongs Near You](https://lifehacker.com/use-this-map-to-find-bogo-subway-footlongs-near-you-1850180204)
 - [Lifehacker] [Venus and Jupiter Are Kissing Again](https://lifehacker.com/venus-and-jupiter-are-kissing-again-1850178779)
 - [Lifehacker] [10 Essential Uses for Rubbing Alcohol That Aren’t…Rubbing](https://lifehacker.com/10-essential-uses-for-rubbing-alcohol-that-aren-t-rubbi-1850179150)
-- [Lifehacker] [11 New Windows 11 Features You Need to Know About](https://lifehacker.com/11-new-windows-11-features-you-need-to-know-about-1850178464)
-- [Lifehacker] [Why 11 Minutes a Day Is Your New Exercise Target](https://lifehacker.com/why-11-minutes-a-day-is-your-new-exercise-target-1850178554)<!-- TECH-POSTS:END -->
+- [Lifehacker] [11 New Windows 11 Features You Need to Know About](https://lifehacker.com/11-new-windows-11-features-you-need-to-know-about-1850178464)<!-- TECH-POSTS:END -->
 
 ---
 
