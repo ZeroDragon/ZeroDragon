@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.ts💊| #26: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-26-explica-este-codigo-typescript-5665)
+- [Lifehacker] [Use a Rubber Mat As a Ramp for Your Robot Vacuum](https://lifehacker.com/use-a-rubber-mat-as-a-ramp-for-your-robot-vacuum-1850179553)
+- [Dev.to/JS] [Synchronize Chrome Extensions state](https://dev.to/codegino/syncronize-chrome-extensions-state-2bn0)
+- [Dev.to/JS] [useDebounce Hook 🚀](https://dev.to/cagatayunal/usedebounce-hook-gaf)
+- [Dev.to/JS] [Applying for a new job with React and NodeJS and AI](https://dev.to/novu/applying-for-a-new-job-with-react-and-nodejs-and-ai-17a9)
 - [Dev.to/JS] [Interactive SQL Examples in JavaScript](https://dev.to/nalgeon/interactive-sql-examples-in-javascript-59bl)
 - [Dev.to/JS] [Medusa Vs. Sylius: Which Should You Use for Your Ecommerce?](https://dev.to/women__leader/medusa-vs-sylius-which-should-you-use-for-your-ecommerce-2clf)
 - [Dev.to/JS] [How to get the current date time of other countries in JavaScript](https://dev.to/dhairyashah/how-to-get-the-current-date-time-of-other-countries-in-javascript-hpb)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [DOM vs Virtual DOM](https://dev.to/amrguaily/dom-vs-virtual-dom-2d3p)
 - [Dev.to/JS] [Unravelling the Ternary Operator](https://dev.to/jasmond/unravelling-the-ternary-operator-4j12)
 - [Dev.to/JS] [How to make Webpack Faster in a Monorepo?](https://dev.to/woovi/how-to-make-webpack-faster-in-a-monorepo-2f87)
-- [Dev.to/JS] [I open sourced an AI that creates any UI in seconds.](https://dev.to/suede/i-open-sourced-an-ai-that-creates-any-ui-in-seconds-8hf)
-- [Dev.to/JS] [Minify private methods in a TypeScript class](https://dev.to/przemyslawjanbeigert/minify-private-methods-in-a-typescript-class-3kk4)
-- [Dev.to/JS] [Fatigue.js: The revolutionary new framework...](https://dev.to/devmehta/fatiguejs-the-revolutionary-new-framework-2oe)
-- [Dev.to/JS] [Road to Employment: A Junior Dev&#39;s Job Search Adventure &lpar;Ep. I&rpar;](https://dev.to/therealmakariuz/road-to-employment-a-junior-devs-job-search-adventure-ep-i-4d6n)
 - [Lifehacker] [These Household Products Can Sub for WD-40](https://lifehacker.com/these-household-products-can-sub-for-wd-40-1850176503)
 - [Lifehacker] [The Happiest U.S. Cities Right Now](https://lifehacker.com/the-happiest-u-s-cities-right-now-1850176534)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When It’s OK to Pay Bills With Your Credit Card &lpar;and When It Isn’t&rpar;](https://lifehacker.com/when-it-s-ok-to-pay-bills-with-your-credit-card-and-wh-1850169655)
 - [Lifehacker] [20 of the Best Boxing Movies of All Time](https://lifehacker.com/20-of-the-best-boxing-movies-of-all-time-1850172719)
 - [Lifehacker] [Use This Map to Find BOGO Subway Footlongs Near You](https://lifehacker.com/use-this-map-to-find-bogo-subway-footlongs-near-you-1850180204)
-- [Lifehacker] [Venus and Jupiter Are Kissing Again](https://lifehacker.com/venus-and-jupiter-are-kissing-again-1850178779)
-- [Lifehacker] [10 Essential Uses for Rubbing Alcohol That Aren’t…Rubbing](https://lifehacker.com/10-essential-uses-for-rubbing-alcohol-that-aren-t-rubbi-1850179150)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Venus and Jupiter Are Kissing Again](https://lifehacker.com/venus-and-jupiter-are-kissing-again-1850178779)<!-- TECH-POSTS:END -->
 
 ---
 
