@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Play ‘Run Until’ to Stay Motivated During Your Workout](https://lifehacker.com/play-run-until-to-stay-motivated-during-your-workout-1850192880)
+- [Dev.to/JS] [Show loading animation with custom hook in react](https://dev.to/abkarim/show-loading-animation-with-custom-hook-in-react-np1)
+- [Lifehacker] [Grate Frozen Chili Peppers Directly Into Your Food](https://lifehacker.com/grate-frozen-chili-peppers-directly-into-your-food-1850192795)
+- [Dev.to/JS] [RxJS 7 - Getting Started](https://dev.to/barisbll/rxjs-7-getting-started-2oni)
+- [Dev.to/JS] [Call, apply i bind metode u JavaScriptu](https://dev.to/bslaven/call-apply-i-bind-metode-u-javascriptu-3pdj)
+- [Lifehacker] [Why You Need a Little Spray Bottle on Your Bar Cart](https://lifehacker.com/why-you-need-a-little-spray-bottle-on-your-bar-cart-1850193174)
 - [Dev.to/JS] [my links](https://dev.to/hichmyh654/my-links-1ad6)
 - [Lifehacker] [This &#39;Oscar Wordle&#39; Is the Best Way to Share Your Awards Predictions](https://lifehacker.com/this-oscar-wordle-is-the-best-way-to-share-your-awards-1850193520)
 - [Lifehacker] [Don&#39;t Rely on Your Pixel Watch to Wake You Up](https://lifehacker.com/dont-rely-on-your-pixel-watch-to-wake-you-up-1850192861)
@@ -38,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript reduce&lpar;&rpar; method: absolute beginner&#39;s guide](https://dev.to/bolajibolajoko51/javascript-reduce-method-absolute-beginners-guide-i6o)
 - [Dev.to/JS] [&lpar;SHOWCASE&rpar; Amazon Clone in SvelteKit, Svelte, TailwindCSS.](https://dev.to/vanshcodes/showcase-amazon-clone-in-sveltekit-svelte-tailwindcss-4nf1)
 - [Lifehacker] [How the End of Medicaid Continuous Enrollment Could Affect You](https://lifehacker.com/how-the-end-of-medicaid-continuous-enrollment-could-aff-1850186427)
-- [Dev.to/JS] [How to draw beautiful connections with SVG](https://dev.to/iscorekin/how-to-draw-beautiful-connections-with-svg-17ii)
-- [Dev.to/JS] [Catch up on JavaScript 2: Easepick, magic-regexp, Token CSS, and more](https://dev.to/marcin_codes/catch-up-on-javascript-2-easepick-magic-regexp-token-css-and-more-2agp)
 - [Lifehacker] [The 7 Deadly Sins of Giving First Aid](https://lifehacker.com/the-7-deadly-sins-of-giving-first-aid-1850191482)
-- [Dev.to/JS] [Obtener el valor mínimo y máximo de un array de arrays en JavaScript](https://dev.to/asjordi/obtener-el-valor-minimo-y-maximo-de-un-array-de-arrays-en-javascript-kjk)
 - [Lifehacker] [22 Things You Should’ve Learned in High School &lpar;and Where to Learn Them Now&rpar;](https://lifehacker.com/22-things-you-should-ve-learned-in-high-school-and-whe-1850185124)
 - [Lifehacker] [When to Share Personal Info With Your Child&#39;s Teacher &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-share-personal-info-with-your-childs-teacher-a-1850185766)
 - [Lifehacker] [Get Ready to Start Paying Student Loans Again](https://lifehacker.com/get-ready-to-start-paying-student-loans-again-1850180350)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Turn Your Glut of Spice Rubs Into Smokey Cheese Spreads](https://lifehacker.com/turn-your-glut-of-spice-rubs-into-smokey-cheese-spreads-1850185851)
 - [Lifehacker] [How to Host Friends Who Smoke Weed, Even If You Don&#39;t](https://lifehacker.com/how-to-host-friends-who-smoke-weed-even-if-you-dont-1850184973)
 - [Lifehacker] [Dominate Your Kid’s Next ‘Sugar Rush’ Before It Starts](https://lifehacker.com/dominate-your-kid-s-next-sugar-rush-before-it-starts-1850181643)
-- [Lifehacker] [How to Give the Best Presentation of Your Life](https://lifehacker.com/how-to-give-the-best-presentation-of-your-life-1850183217)
-- [Lifehacker] [10 Ways to Build a Better Smoothie](https://lifehacker.com/10-ways-to-build-a-better-smoothie-1850184624)
-- [Lifehacker] [Stalk Yelp Users With Good Taste](https://lifehacker.com/stalk-yelp-users-with-good-taste-1850182047)
-- [Lifehacker] [You Can Try the New Windows 11 Volume Mixer Before It Comes Out](https://lifehacker.com/you-can-try-the-new-windows-11-volume-mixer-before-it-c-1850183952)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Give the Best Presentation of Your Life](https://lifehacker.com/how-to-give-the-best-presentation-of-your-life-1850183217)<!-- TECH-POSTS:END -->
 
 ---
 
