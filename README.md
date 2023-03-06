@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Bubbles](https://dev.to/honda02/bubbles-iko)
+- [Dev.to/JS] [Interactive SQL Examples in JavaScript](https://dev.to/nalgeon/interactive-sql-examples-in-javascript-59bl)
+- [Dev.to/JS] [Medusa Vs. Sylius: Which Should You Use for Your Ecommerce?](https://dev.to/women__leader/medusa-vs-sylius-which-should-you-use-for-your-ecommerce-2clf)
+- [Dev.to/JS] [How to get the current date time of other countries in JavaScript](https://dev.to/dhairyashah/how-to-get-the-current-date-time-of-other-countries-in-javascript-hpb)
+- [Dev.to/JS] [F/OSS Spotlight: 📑 VuePress](https://dev.to/awsmfoss/foss-spotlight-vuepress-3bac)
+- [Dev.to/JS] [Bubbles](https://dev.to/jaegon/bubbles-iko)
 - [Dev.to/JS] [DOM vs Virtual DOM](https://dev.to/amrguaily/dom-vs-virtual-dom-2d3p)
 - [Dev.to/JS] [Unravelling the Ternary Operator](https://dev.to/jasmond/unravelling-the-ternary-operator-4j12)
 - [Dev.to/JS] [How to make Webpack Faster in a Monorepo?](https://dev.to/woovi/how-to-make-webpack-faster-in-a-monorepo-2f87)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Minify private methods in a TypeScript class](https://dev.to/przemyslawjanbeigert/minify-private-methods-in-a-typescript-class-3kk4)
 - [Dev.to/JS] [Fatigue.js: The revolutionary new framework...](https://dev.to/devmehta/fatiguejs-the-revolutionary-new-framework-2oe)
 - [Dev.to/JS] [Road to Employment: A Junior Dev&#39;s Job Search Adventure &lpar;Ep. I&rpar;](https://dev.to/therealmakariuz/road-to-employment-a-junior-devs-job-search-adventure-ep-i-4d6n)
-- [Dev.to/JS] [How to add a &quot;load more&quot; button to your blog](https://dev.to/seven/how-to-add-a-load-more-button-to-your-blog-noa)
-- [Dev.to/JS] [Understanding React Components: Functional vs Class, Naming Convention, Usage, Access, and Lifecycle Methods](https://dev.to/sidramaqbool/understanding-react-components-functional-vs-class-naming-convention-usage-access-and-lifecycle-methods-1b4e)
-- [Dev.to/JS] [Implement Click-And-Copy With Clipboard API](https://dev.to/jessewei/navigatorclipboard-ije)
-- [Dev.to/JS] [GitHub eMarket Project](https://dev.to/emarketproject/github-emarket-project-2lln)
 - [Lifehacker] [These Household Products Can Sub for WD-40](https://lifehacker.com/these-household-products-can-sub-for-wd-40-1850176503)
 - [Lifehacker] [The Happiest U.S. Cities Right Now](https://lifehacker.com/the-happiest-u-s-cities-right-now-1850176534)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
