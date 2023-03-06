@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JWT authentication explained in simplest way possible ✌️](https://dev.to/sahilgt9995/jwt-authentication-explained-in-simplest-way-possible-29j9)
+- [Lifehacker] [Everything You Need to Meal Prep Like a Pro](https://lifehacker.com/everything-you-need-to-meal-prep-like-a-pro-1850186840)
+- [Dev.to/JS] [React information flow.](https://dev.to/marthaeochoa/react-information-flow-4jem)
+- [Dev.to/JS] [Built In Data Type in Ruby](https://dev.to/bhartee_sahare/built-in-data-type-in-ruby-140k)
+- [Dev.to/JS] [Top 10 Programming Languages to Learn in 2023: A Comprehensive Guide for Beginners and Professionals](https://dev.to/priteshbhoi/top-10-programming-languages-to-learn-in-2023-a-comprehensive-guide-for-beginners-and-professionals-4alk)
+- [Lifehacker] [How to Be a ‘Digital Nomad’ When You Have Kids](https://lifehacker.com/how-to-be-a-digital-nomad-when-you-have-kids-1850191095)
 - [Dev.to/JS] [What you need to know before transitioning from JavaScript to React: A Guide](https://dev.to/kelvintech_99/what-you-need-to-know-before-transitioning-from-javascript-to-react-a-guide-1ij7)
 - [Dev.to/JS] [New VSCode extension to to build free Bootstrap templates visually and get clean HTML &amp; CSS](https://dev.to/kumarkalyan/new-vscode-extension-to-to-build-free-bootstrap-templates-visually-and-get-clean-html-css-5gmi)
 - [Lifehacker] [Get Violent With Your Cake Batter](https://lifehacker.com/get-violent-with-your-cake-batter-1850185920)
@@ -35,12 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Obtener el valor mínimo y máximo de un array de arrays en JavaScript](https://dev.to/asjordi/obtener-el-valor-minimo-y-maximo-de-un-array-de-arrays-en-javascript-kjk)
 - [Lifehacker] [22 Things You Should’ve Learned in High School &lpar;and Where to Learn Them Now&rpar;](https://lifehacker.com/22-things-you-should-ve-learned-in-high-school-and-whe-1850185124)
 - [Dev.to/JS] [Xata Plus OpenAI: ChatGPT on Your Data](https://dev.to/deverts/xata-plus-openai-chatgpt-on-your-data-5bdc)
-- [Dev.to/JS] [Recursion](https://dev.to/biplavmz/recursion-2de4)
-- [Dev.to/JS] [Testes no Front-end: métodos de consulta do RTL](https://dev.to/neiltonseguins/testes-no-front-end-metodos-de-consulta-do-rtl-4obf)
 - [Lifehacker] [When to Share Personal Info With Your Child&#39;s Teacher &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-share-personal-info-with-your-childs-teacher-a-1850185766)
-- [Dev.to/JS] [FREE RESOURCE 🤩 GPT Prompt Engineering Primer 👨‍💻 Chapters 4-6](https://dev.to/godsol_art/free-resource-gpt-prompt-engineering-primer-chapters-4-6-5g8c)
 - [Lifehacker] [Get Ready to Start Paying Student Loans Again](https://lifehacker.com/get-ready-to-start-paying-student-loans-again-1850180350)
-- [Dev.to/JS] [How to handle custom error handling in express js](https://dev.to/krishnacyber/how-to-handle-custom-error-handling-in-express-js-1gpo)
 - [Lifehacker] [25 of the Best Beaches in the World, According to Tripadvisor](https://lifehacker.com/25-of-the-best-beaches-in-the-world-according-to-tripa-1850178898)
 - [Lifehacker] [Use a Rubber Mat As a Ramp for Your Robot Vacuum](https://lifehacker.com/use-a-rubber-mat-as-a-ramp-for-your-robot-vacuum-1850179553)
 - [Lifehacker] [These Household Products Can Sub for WD-40](https://lifehacker.com/these-household-products-can-sub-for-wd-40-1850176503)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stalk Yelp Users With Good Taste](https://lifehacker.com/stalk-yelp-users-with-good-taste-1850182047)
 - [Lifehacker] [You Can Try the New Windows 11 Volume Mixer Before It Comes Out](https://lifehacker.com/you-can-try-the-new-windows-11-volume-mixer-before-it-c-1850183952)
 - [Lifehacker] [Don&#39;t Let Rain Water Ruin Your Garage](https://lifehacker.com/dont-let-rain-water-ruin-your-garage-1850181529)
-- [Lifehacker] [12 Podcasts to Obsess Over If You Like &#39;You&#39;re Wrong About&#39;](https://lifehacker.com/12-podcasts-to-obsess-over-if-you-like-youre-wrong-abou-1850134481)
-- [Crazy Programmer] [5 Generations of Computer](https://www.thecrazyprogrammer.com/2023/03/generations-of-computer.html)
-- [Lifehacker] [Don’t Let These March Class-Action Settlement Deadlines Pass You By](https://lifehacker.com/don-t-let-these-march-class-action-settlement-deadlines-1850181301)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Podcasts to Obsess Over If You Like &#39;You&#39;re Wrong About&#39;](https://lifehacker.com/12-podcasts-to-obsess-over-if-you-like-youre-wrong-abou-1850134481)<!-- TECH-POSTS:END -->
 
 ---
 
