@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dive into functions in JS🧑‍💻](https://dev.to/dhrn/deep-dive-into-functions-478l)
+- [Dev.to/JS] [Best Practices for Building React Apps with Code Splitting and Lazy Loading to Improve Performance and Maintainability](https://dev.to/haszankauna/best-practices-for-building-react-apps-with-code-splitting-and-lazy-loading-to-improve-performance-and-maintainability-11d8)
 - [Dev.to/JS] [Understanding the Difference Between props and state in React](https://dev.to/haszankauna/understanding-the-difference-between-props-and-state-in-react-2mg3)
 - [Dev.to/JS] [yOU DON&#39;T nEEd a fRamEWoRk](https://dev.to/gravy59/you-dont-need-a-framework-59ka)
 - [Dev.to/JS] [Como fazer web scrape com Node.js](https://dev.to/artgmrs/como-fazer-web-scrape-com-nodejs-3bbf)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React vs Angular](https://dev.to/frankdevstar/react-vs-angular-2nn)
 - [Dev.to/JS] [Why I Left React](https://dev.to/gravy59/why-i-left-react-4k3p)
 - [Dev.to/JS] [Site Search Powered by JSON Feed](https://dev.to/lightpohl/site-search-powered-by-json-feed-1hl4)
-- [Dev.to/JS] [Headless Ecommerce for Developers: Integrating Medusa with Strapi CMS](https://dev.to/dmuasya/headless-ecommerce-for-developers-integrating-medusa-with-strapi-cms-26a4)
-- [Dev.to/JS] [Add a second remote origin with Git](https://dev.to/hshoja/add-a-second-remote-origin-to-git-35a7)
 - [Lifehacker] [These Household Products Can Sub for WD-40](https://lifehacker.com/these-household-products-can-sub-for-wd-40-1850176503)
 - [Lifehacker] [The Happiest U.S. Cities Right Now](https://lifehacker.com/the-happiest-u-s-cities-right-now-1850176534)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
