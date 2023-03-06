@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NodeList vs Array](https://dev.to/ramez_cesar/nodelist-vs-array-87)
+- [Dev.to/JS] [JavaScript Data Types](https://dev.to/lenacodes/javascript-data-types-318n)
 - [Dev.to/JS] [console.log&lpar;&quot;Week 1 of Coding with COVID&quot;&rpar;;](https://dev.to/devpreneurpro/consolelogweek-1-of-coding-with-covid-1pdn)
 - [Dev.to/JS] [The Importance of DSA and Networking in the Tech Industry](https://dev.to/jonaaldas/the-importance-of-dsa-and-networking-in-the-tech-industry-4njh)
 - [Dev.to/JS] [Dealing with Dates and Times: Alternatives to Moment.js](https://dev.to/asayerio_techblog/dealing-with-dates-and-times-alternatives-to-momentjs-3g5m)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [yOU DON&#39;T nEEd a fRamEWoRk](https://dev.to/gravy59/you-dont-need-a-framework-59ka)
 - [Dev.to/JS] [Como fazer web scrape com Node.js](https://dev.to/artgmrs/como-fazer-web-scrape-com-nodejs-3bbf)
 - [Dev.to/JS] [Service Worker lifecycle](https://dev.to/santisbon/service-worker-lifecycle-32op)
-- [Dev.to/JS] [JavaScript Tutorial Series: Manipulating elements part 2.](https://dev.to/fullstackjo/javascript-tutorial-series-manipulating-elements-part-2-18og)
-- [Dev.to/JS] [How to build Web3 in Algorand Blockchain](https://dev.to/frankdevstar/integrate-web3-of-algorand-blockchain-4dcj)
 - [Lifehacker] [These Household Products Can Sub for WD-40](https://lifehacker.com/these-household-products-can-sub-for-wd-40-1850176503)
 - [Lifehacker] [The Happiest U.S. Cities Right Now](https://lifehacker.com/the-happiest-u-s-cities-right-now-1850176534)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
