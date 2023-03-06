@@ -23,20 +23,26 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What you need to know before transitioning from JavaScript to React: A Guide](https://dev.to/kelvintech_99/what-you-need-to-know-before-transitioning-from-javascript-to-react-a-guide-1ij7)
+- [Dev.to/JS] [New VSCode extension to to build free Bootstrap templates visually and get clean HTML &amp; CSS](https://dev.to/kumarkalyan/new-vscode-extension-to-to-build-free-bootstrap-templates-visually-and-get-clean-html-css-5gmi)
+- [Lifehacker] [Get Violent With Your Cake Batter](https://lifehacker.com/get-violent-with-your-cake-batter-1850185920)
+- [Dev.to/JS] [JavaScript reduce&lpar;&rpar; method: absolute beginner&#39;s guide](https://dev.to/bolajibolajoko51/javascript-reduce-method-absolute-beginners-guide-i6o)
+- [Dev.to/JS] [&lpar;SHOWCASE&rpar; Amazon Clone in SvelteKit, Svelte, TailwindCSS.](https://dev.to/vanshcodes/showcase-amazon-clone-in-sveltekit-svelte-tailwindcss-4nf1)
+- [Lifehacker] [How the End of Medicaid Continuous Enrollment Could Affect You](https://lifehacker.com/how-the-end-of-medicaid-continuous-enrollment-could-aff-1850186427)
 - [Dev.to/JS] [How to draw beautiful connections with SVG](https://dev.to/iscorekin/how-to-draw-beautiful-connections-with-svg-17ii)
 - [Dev.to/JS] [Catch up on JavaScript 2: Easepick, magic-regexp, Token CSS, and more](https://dev.to/marcin_codes/catch-up-on-javascript-2-easepick-magic-regexp-token-css-and-more-2agp)
+- [Lifehacker] [The 7 Deadly Sins of Giving First Aid](https://lifehacker.com/the-7-deadly-sins-of-giving-first-aid-1850191482)
 - [Dev.to/JS] [Obtener el valor mínimo y máximo de un array de arrays en JavaScript](https://dev.to/asjordi/obtener-el-valor-minimo-y-maximo-de-un-array-de-arrays-en-javascript-kjk)
 - [Lifehacker] [22 Things You Should’ve Learned in High School &lpar;and Where to Learn Them Now&rpar;](https://lifehacker.com/22-things-you-should-ve-learned-in-high-school-and-whe-1850185124)
 - [Dev.to/JS] [Xata Plus OpenAI: ChatGPT on Your Data](https://dev.to/deverts/xata-plus-openai-chatgpt-on-your-data-5bdc)
 - [Dev.to/JS] [Recursion](https://dev.to/biplavmz/recursion-2de4)
 - [Dev.to/JS] [Testes no Front-end: métodos de consulta do RTL](https://dev.to/neiltonseguins/testes-no-front-end-metodos-de-consulta-do-rtl-4obf)
+- [Lifehacker] [When to Share Personal Info With Your Child&#39;s Teacher &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-share-personal-info-with-your-childs-teacher-a-1850185766)
 - [Dev.to/JS] [FREE RESOURCE 🤩 GPT Prompt Engineering Primer 👨‍💻 Chapters 4-6](https://dev.to/godsol_art/free-resource-gpt-prompt-engineering-primer-chapters-4-6-5g8c)
 - [Lifehacker] [Get Ready to Start Paying Student Loans Again](https://lifehacker.com/get-ready-to-start-paying-student-loans-again-1850180350)
 - [Dev.to/JS] [How to handle custom error handling in express js](https://dev.to/krishnacyber/how-to-handle-custom-error-handling-in-express-js-1gpo)
-- [Dev.to/JS] [Une petite introduction à PixiJS](https://dev.to/tass2t/une-petite-introduction-a-pixijs-3n1i)
-- [Dev.to/JS] [Build portals and intranets in Node.js](https://dev.to/petersirka/build-portals-and-intranets-in-nodejs-b2e)
-- [Dev.to/JS] [useCallback vs useMemo](https://dev.to/shubhamb/usecallback-vs-usememo-47h8)
-- [Dev.to/JS] [Make your monorepo CI better! Adjust rush.js changelog!](https://dev.to/borysshulyak/make-your-monorepo-ci-better-adjust-rushjs-changelog-3f0a)
+- [Lifehacker] [25 of the Best Beaches in the World, According to Tripadvisor](https://lifehacker.com/25-of-the-best-beaches-in-the-world-according-to-tripa-1850178898)
+- [Lifehacker] [Use a Rubber Mat As a Ramp for Your Robot Vacuum](https://lifehacker.com/use-a-rubber-mat-as-a-ramp-for-your-robot-vacuum-1850179553)
 - [Lifehacker] [These Household Products Can Sub for WD-40](https://lifehacker.com/these-household-products-can-sub-for-wd-40-1850176503)
 - [Lifehacker] [The Happiest U.S. Cities Right Now](https://lifehacker.com/the-happiest-u-s-cities-right-now-1850176534)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
@@ -56,13 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Let Rain Water Ruin Your Garage](https://lifehacker.com/dont-let-rain-water-ruin-your-garage-1850181529)
 - [Lifehacker] [12 Podcasts to Obsess Over If You Like &#39;You&#39;re Wrong About&#39;](https://lifehacker.com/12-podcasts-to-obsess-over-if-you-like-youre-wrong-abou-1850134481)
 - [Crazy Programmer] [5 Generations of Computer](https://www.thecrazyprogrammer.com/2023/03/generations-of-computer.html)
-- [Lifehacker] [Don’t Let These March Class-Action Settlement Deadlines Pass You By](https://lifehacker.com/don-t-let-these-march-class-action-settlement-deadlines-1850181301)
-- [Lifehacker] [Six Hidden Costs That Make Moving Even More Expensive](https://lifehacker.com/six-hidden-costs-that-make-moving-even-more-expensive-1850181842)
-- [Lifehacker] [Shaken Baileys Is the Best St. Patrick&#39;s Day Cocktail](https://lifehacker.com/shaken-baileys-is-the-best-st-patricks-day-cocktail-1850181410)
-- [Lifehacker] [The Best Drink to Order at a Work Function Is the One You Don’t Like](https://lifehacker.com/the-best-drink-to-order-at-a-work-function-is-the-one-y-1850179894)
-- [Lifehacker] [When It’s OK to Pay Bills With Your Credit Card &lpar;and When It Isn’t&rpar;](https://lifehacker.com/when-it-s-ok-to-pay-bills-with-your-credit-card-and-wh-1850169655)
-- [Lifehacker] [20 of the Best Boxing Movies of All Time](https://lifehacker.com/20-of-the-best-boxing-movies-of-all-time-1850172719)
-- [Lifehacker] [Use This Map to Find BOGO Subway Footlongs Near You](https://lifehacker.com/use-this-map-to-find-bogo-subway-footlongs-near-you-1850180204)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Let These March Class-Action Settlement Deadlines Pass You By](https://lifehacker.com/don-t-let-these-march-class-action-settlement-deadlines-1850181301)<!-- TECH-POSTS:END -->
 
 ---
 
