@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Admin Panel Tutorial with Chakra UI and Strapi](https://dev.to/refine/react-admin-panel-tutorial-with-chakra-ui-and-strapi-32pj)
+- [Dev.to/JS] [Why should you use Typescript in React App ?](https://dev.to/rardooba/why-should-you-use-typescript-in-react-app--mm7)
+- [Dev.to/JS] [ZOD is Typescript for Runtime - Less code but more Reliable](https://dev.to/seyyedkhandon/zod-is-typescript-for-runtime-less-code-but-more-reliable-2o9)
+- [Dev.to/JS] [Implement These 7 JavaScript Web APIs for a Futuristic Website Experience](https://dev.to/devbambhaniya/implement-these-7-javascript-web-apis-for-a-futuristic-website-experience-3ckk)
 - [Dev.to/JS] [6 DIMENSI BERPIKIR UNTUK MAKSIMALKAN OTAK KAMU](https://dev.to/apppardana/6-dimensi-berpikir-untuk-maksimalkan-otak-kamu-1n07)
-- [Dev.to/JS] [Resend - How to add an Email API Provider to Novu](https://dev.to/unicodeveloper/resend-how-to-add-an-email-api-provider-to-novu-49cd)
+- [Dev.to/JS] [Resend - How to add an Email API Provider to Novu](https://dev.to/novu/resend-how-to-add-an-email-api-provider-to-novu-49cd)
 - [Dev.to/JS] [How To Perform Local Website Testing Using Selenium And Java](https://dev.to/lambdatest/how-to-perform-local-website-testing-using-selenium-and-java-2h5j)
 - [Dev.to/JS] [ChangeDetectionStrategy dans Angular &lpar;de zéro à héros&rpar; - Partie 1/2](https://dev.to/houdass/changedetectionstrategy-dans-angular-de-zero-a-heros-partie-12-2eij)
 - [Dev.to/JS] [Record Screen App with Javascript](https://dev.to/sumankalia/record-screen-app-with-javascript-1dif)
 - [Dev.to/JS] [Using Fetch requests with api.weather.gov](https://dev.to/marksman98/using-fetch-requests-with-apiweathergov-djk)
 - [Dev.to/JS] [Why JavaScript is so Popular?](https://dev.to/mehedibangladeshi/why-javascript-is-so-popular-5e5m)
 - [Dev.to/JS] [Mastering Docker: Writing Optimal Dockerfiles and Optimizing Image Size for Smarter Deployments](https://dev.to/rokibulhasan114/mastering-docker-writing-optimal-dockerfiles-and-optimizing-image-size-for-smarter-deployments-13h2)
-- [Dev.to/JS] [NodeList vs Array](https://dev.to/ramez_cesar/nodelist-vs-array-87)
-- [Dev.to/JS] [JavaScript Data Types](https://dev.to/lenacodes/javascript-data-types-318n)
-- [Dev.to/JS] [console.log&lpar;&quot;Week 1 of Coding with COVID&quot;&rpar;;](https://dev.to/devpreneurpro/consolelogweek-1-of-coding-with-covid-1pdn)
-- [Dev.to/JS] [The Importance of DSA and Networking in the Tech Industry](https://dev.to/jonaaldas/the-importance-of-dsa-and-networking-in-the-tech-industry-4njh)
 - [Lifehacker] [These Household Products Can Sub for WD-40](https://lifehacker.com/these-household-products-can-sub-for-wd-40-1850176503)
 - [Lifehacker] [The Happiest U.S. Cities Right Now](https://lifehacker.com/the-happiest-u-s-cities-right-now-1850176534)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
