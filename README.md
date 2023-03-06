@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dealing with Dates and Times: Alternatives to Moment.js](https://dev.to/asayerio_techblog/dealing-with-dates-and-times-alternatives-to-momentjs-3g5m)
 - [Dev.to/JS] [Web Animations API](https://dev.to/mattryanmtl/web-animations-api-1h5i)
 - [Dev.to/JS] [Dive into functions in JS🧑‍💻](https://dev.to/dhrn/deep-dive-into-functions-478l)
 - [Dev.to/JS] [Best Practices for Building React Apps with Code Splitting and Lazy Loading to Improve Performance and Maintainability](https://dev.to/haszankauna/best-practices-for-building-react-apps-with-code-splitting-and-lazy-loading-to-improve-performance-and-maintainability-11d8)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to build Web3 in Algorand Blockchain](https://dev.to/frankdevstar/integrate-web3-of-algorand-blockchain-4dcj)
 - [Dev.to/JS] [Pin Save on Fantom - Fantom Q1 Devpost Hackathon submission](https://dev.to/pfedprog/pin-save-on-fantom-fantom-q1-devpost-hackathon-submission-451b)
 - [Dev.to/JS] [The Differences between React and Angular](https://dev.to/frankdevstar/react-vs-angular-2nn)
-- [Dev.to/JS] [Why I Left React](https://dev.to/gravy59/why-i-left-react-4k3p)
 - [Lifehacker] [These Household Products Can Sub for WD-40](https://lifehacker.com/these-household-products-can-sub-for-wd-40-1850176503)
 - [Lifehacker] [The Happiest U.S. Cities Right Now](https://lifehacker.com/the-happiest-u-s-cities-right-now-1850176534)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
