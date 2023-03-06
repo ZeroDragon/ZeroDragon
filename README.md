@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [JWT authentication explained in simplest way possible ✌️](https://dev.to/sahilgt9995/jwt-authentication-explained-in-simplest-way-possible-29j9)
+- [Dev.to/JS] [my links](https://dev.to/hichmyh654/my-links-1ad6)
+- [Lifehacker] [This &#39;Oscar Wordle&#39; Is the Best Way to Share Your Awards Predictions](https://lifehacker.com/this-oscar-wordle-is-the-best-way-to-share-your-awards-1850193520)
+- [Lifehacker] [Don&#39;t Rely on Your Pixel Watch to Wake You Up](https://lifehacker.com/dont-rely-on-your-pixel-watch-to-wake-you-up-1850192861)
+- [Dev.to/JS] [JWT authentication explained in simplest way possible ✌️](https://dev.to/sahilghanwatdev/jwt-authentication-explained-in-simplest-way-possible-29j9)
 - [Lifehacker] [Everything You Need to Meal Prep Like a Pro](https://lifehacker.com/everything-you-need-to-meal-prep-like-a-pro-1850186840)
 - [Dev.to/JS] [React information flow.](https://dev.to/marthaeochoa/react-information-flow-4jem)
 - [Dev.to/JS] [Built In Data Type in Ruby](https://dev.to/bhartee_sahare/built-in-data-type-in-ruby-140k)
@@ -40,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Giving First Aid](https://lifehacker.com/the-7-deadly-sins-of-giving-first-aid-1850191482)
 - [Dev.to/JS] [Obtener el valor mínimo y máximo de un array de arrays en JavaScript](https://dev.to/asjordi/obtener-el-valor-minimo-y-maximo-de-un-array-de-arrays-en-javascript-kjk)
 - [Lifehacker] [22 Things You Should’ve Learned in High School &lpar;and Where to Learn Them Now&rpar;](https://lifehacker.com/22-things-you-should-ve-learned-in-high-school-and-whe-1850185124)
-- [Dev.to/JS] [Xata Plus OpenAI: ChatGPT on Your Data](https://dev.to/deverts/xata-plus-openai-chatgpt-on-your-data-5bdc)
 - [Lifehacker] [When to Share Personal Info With Your Child&#39;s Teacher &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-share-personal-info-with-your-childs-teacher-a-1850185766)
 - [Lifehacker] [Get Ready to Start Paying Student Loans Again](https://lifehacker.com/get-ready-to-start-paying-student-loans-again-1850180350)
 - [Lifehacker] [25 of the Best Beaches in the World, According to Tripadvisor](https://lifehacker.com/25-of-the-best-beaches-in-the-world-according-to-tripa-1850178898)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Give the Best Presentation of Your Life](https://lifehacker.com/how-to-give-the-best-presentation-of-your-life-1850183217)
 - [Lifehacker] [10 Ways to Build a Better Smoothie](https://lifehacker.com/10-ways-to-build-a-better-smoothie-1850184624)
 - [Lifehacker] [Stalk Yelp Users With Good Taste](https://lifehacker.com/stalk-yelp-users-with-good-taste-1850182047)
-- [Lifehacker] [You Can Try the New Windows 11 Volume Mixer Before It Comes Out](https://lifehacker.com/you-can-try-the-new-windows-11-volume-mixer-before-it-c-1850183952)
-- [Lifehacker] [Don&#39;t Let Rain Water Ruin Your Garage](https://lifehacker.com/dont-let-rain-water-ruin-your-garage-1850181529)
-- [Lifehacker] [12 Podcasts to Obsess Over If You Like &#39;You&#39;re Wrong About&#39;](https://lifehacker.com/12-podcasts-to-obsess-over-if-you-like-youre-wrong-abou-1850134481)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Try the New Windows 11 Volume Mixer Before It Comes Out](https://lifehacker.com/you-can-try-the-new-windows-11-volume-mixer-before-it-c-1850183952)<!-- TECH-POSTS:END -->
 
 ---
 
