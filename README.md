@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Truthy and Falsy in JavaScript](https://dev.to/ypdev19/understanding-truthy-and-falsy-in-javascript-ih0)
+- [Dev.to/JS] [JavaScript Tutorial Series: HTML attributes &amp; DOM object properties.](https://dev.to/fullstackjo/javascript-tutorial-series-html-attributes-dom-object-properties-311o)
+- [Lifehacker] [All the Ways You Didn’t Know You Could Raise Your Credit Score](https://lifehacker.com/all-the-ways-you-didn-t-know-you-could-raise-your-credi-1850192800)
+- [Dev.to/JS] [Testing](https://dev.to/agjs/testing-48gf)
+- [Dev.to/JS] [Intern&#39;s Guide Chat GPT Full Stack: Nest, React, Typescript](https://dev.to/teodeleanu/interns-guide-chat-gpt-full-stack-nest-react-typescript-21a8)
 - [Lifehacker] [Play ‘Run Until’ to Stay Motivated During Your Workout](https://lifehacker.com/play-run-until-to-stay-motivated-during-your-workout-1850192880)
 - [Dev.to/JS] [Show loading animation with custom hook in react](https://dev.to/abkarim/show-loading-animation-with-custom-hook-in-react-np1)
 - [Lifehacker] [Grate Frozen Chili Peppers Directly Into Your Food](https://lifehacker.com/grate-frozen-chili-peppers-directly-into-your-food-1850192795)
@@ -38,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Built In Data Type in Ruby](https://dev.to/bhartee_sahare/built-in-data-type-in-ruby-140k)
 - [Dev.to/JS] [Top 10 Programming Languages to Learn in 2023: A Comprehensive Guide for Beginners and Professionals](https://dev.to/priteshbhoi/top-10-programming-languages-to-learn-in-2023-a-comprehensive-guide-for-beginners-and-professionals-4alk)
 - [Lifehacker] [How to Be a ‘Digital Nomad’ When You Have Kids](https://lifehacker.com/how-to-be-a-digital-nomad-when-you-have-kids-1850191095)
-- [Dev.to/JS] [What you need to know before transitioning from JavaScript to React: A Guide](https://dev.to/kelvintech_99/what-you-need-to-know-before-transitioning-from-javascript-to-react-a-guide-1ij7)
-- [Dev.to/JS] [New VSCode extension to to build free Bootstrap templates visually and get clean HTML &amp; CSS](https://dev.to/kumarkalyan/new-vscode-extension-to-to-build-free-bootstrap-templates-visually-and-get-clean-html-css-5gmi)
 - [Lifehacker] [Get Violent With Your Cake Batter](https://lifehacker.com/get-violent-with-your-cake-batter-1850185920)
-- [Dev.to/JS] [JavaScript reduce&lpar;&rpar; method: absolute beginner&#39;s guide](https://dev.to/bolajibolajoko51/javascript-reduce-method-absolute-beginners-guide-i6o)
-- [Dev.to/JS] [&lpar;SHOWCASE&rpar; Amazon Clone in SvelteKit, Svelte, TailwindCSS.](https://dev.to/vanshcodes/showcase-amazon-clone-in-sveltekit-svelte-tailwindcss-4nf1)
 - [Lifehacker] [How the End of Medicaid Continuous Enrollment Could Affect You](https://lifehacker.com/how-the-end-of-medicaid-continuous-enrollment-could-aff-1850186427)
 - [Lifehacker] [The 7 Deadly Sins of Giving First Aid](https://lifehacker.com/the-7-deadly-sins-of-giving-first-aid-1850191482)
 - [Lifehacker] [22 Things You Should’ve Learned in High School &lpar;and Where to Learn Them Now&rpar;](https://lifehacker.com/22-things-you-should-ve-learned-in-high-school-and-whe-1850185124)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Everyone Beezin’?](https://lifehacker.com/why-is-everyone-beezin-1850185805)
 - [Lifehacker] [Turn Your Glut of Spice Rubs Into Smokey Cheese Spreads](https://lifehacker.com/turn-your-glut-of-spice-rubs-into-smokey-cheese-spreads-1850185851)
 - [Lifehacker] [How to Host Friends Who Smoke Weed, Even If You Don&#39;t](https://lifehacker.com/how-to-host-friends-who-smoke-weed-even-if-you-dont-1850184973)
-- [Lifehacker] [Dominate Your Kid’s Next ‘Sugar Rush’ Before It Starts](https://lifehacker.com/dominate-your-kid-s-next-sugar-rush-before-it-starts-1850181643)
-- [Lifehacker] [How to Give the Best Presentation of Your Life](https://lifehacker.com/how-to-give-the-best-presentation-of-your-life-1850183217)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Dominate Your Kid’s Next ‘Sugar Rush’ Before It Starts](https://lifehacker.com/dominate-your-kid-s-next-sugar-rush-before-it-starts-1850181643)<!-- TECH-POSTS:END -->
 
 ---
 
