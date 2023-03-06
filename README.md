@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [6 DIMENSI BERPIKIR UNTUK MAKSIMALKAN OTAK KAMU](https://dev.to/apppardana/6-dimensi-berpikir-untuk-maksimalkan-otak-kamu-1n07)
+- [Dev.to/JS] [Resend - How to add an Email API Provider to Novu](https://dev.to/unicodeveloper/resend-how-to-add-an-email-api-provider-to-novu-49cd)
+- [Dev.to/JS] [How To Perform Local Website Testing Using Selenium And Java](https://dev.to/lambdatest/how-to-perform-local-website-testing-using-selenium-and-java-2h5j)
+- [Dev.to/JS] [ChangeDetectionStrategy dans Angular &lpar;de zéro à héros&rpar; - Partie 1/2](https://dev.to/houdass/changedetectionstrategy-dans-angular-de-zero-a-heros-partie-12-2eij)
+- [Dev.to/JS] [Record Screen App with Javascript](https://dev.to/sumankalia/record-screen-app-with-javascript-1dif)
 - [Dev.to/JS] [Using Fetch requests with api.weather.gov](https://dev.to/marksman98/using-fetch-requests-with-apiweathergov-djk)
 - [Dev.to/JS] [Why JavaScript is so Popular?](https://dev.to/mehedibangladeshi/why-javascript-is-so-popular-5e5m)
 - [Dev.to/JS] [Mastering Docker: Writing Optimal Dockerfiles and Optimizing Image Size for Smarter Deployments](https://dev.to/rokibulhasan114/mastering-docker-writing-optimal-dockerfiles-and-optimizing-image-size-for-smarter-deployments-13h2)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Data Types](https://dev.to/lenacodes/javascript-data-types-318n)
 - [Dev.to/JS] [console.log&lpar;&quot;Week 1 of Coding with COVID&quot;&rpar;;](https://dev.to/devpreneurpro/consolelogweek-1-of-coding-with-covid-1pdn)
 - [Dev.to/JS] [The Importance of DSA and Networking in the Tech Industry](https://dev.to/jonaaldas/the-importance-of-dsa-and-networking-in-the-tech-industry-4njh)
-- [Dev.to/JS] [Dealing with Dates and Times: Alternatives to Moment.js](https://dev.to/asayerio_techblog/dealing-with-dates-and-times-alternatives-to-momentjs-3g5m)
-- [Dev.to/JS] [Web Animations API](https://dev.to/mattryanmtl/web-animations-api-1h5i)
-- [Dev.to/JS] [Dive into functions in JS🧑‍💻](https://dev.to/dhrn/deep-dive-into-functions-478l)
-- [Dev.to/JS] [Best Practices for Building React Apps with Code Splitting and Lazy Loading to Improve Performance and Maintainability](https://dev.to/haszankauna/best-practices-for-building-react-apps-with-code-splitting-and-lazy-loading-to-improve-performance-and-maintainability-11d8)
-- [Dev.to/JS] [Understanding the Difference Between props and state in React](https://dev.to/haszankauna/understanding-the-difference-between-props-and-state-in-react-2mg3)
 - [Lifehacker] [These Household Products Can Sub for WD-40](https://lifehacker.com/these-household-products-can-sub-for-wd-40-1850176503)
 - [Lifehacker] [The Happiest U.S. Cities Right Now](https://lifehacker.com/the-happiest-u-s-cities-right-now-1850176534)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
