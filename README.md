@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bubbles](https://dev.to/honda02/bubbles-iko)
+- [Dev.to/JS] [DOM vs Virtual DOM](https://dev.to/amrguaily/dom-vs-virtual-dom-2d3p)
+- [Dev.to/JS] [Unravelling the Ternary Operator](https://dev.to/jasmond/unravelling-the-ternary-operator-4j12)
+- [Dev.to/JS] [How to make Webpack Faster in a Monorepo?](https://dev.to/woovi/how-to-make-webpack-faster-in-a-monorepo-2f87)
 - [Dev.to/JS] [I open sourced an AI that creates any UI in seconds.](https://dev.to/suede/i-open-sourced-an-ai-that-creates-any-ui-in-seconds-8hf)
 - [Dev.to/JS] [Minify private methods in a TypeScript class](https://dev.to/przemyslawjanbeigert/minify-private-methods-in-a-typescript-class-3kk4)
 - [Dev.to/JS] [Fatigue.js: The revolutionary new framework...](https://dev.to/devmehta/fatiguejs-the-revolutionary-new-framework-2oe)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding React Components: Functional vs Class, Naming Convention, Usage, Access, and Lifecycle Methods](https://dev.to/sidramaqbool/understanding-react-components-functional-vs-class-naming-convention-usage-access-and-lifecycle-methods-1b4e)
 - [Dev.to/JS] [Implement Click-And-Copy With Clipboard API](https://dev.to/jessewei/navigatorclipboard-ije)
 - [Dev.to/JS] [GitHub eMarket Project](https://dev.to/emarketproject/github-emarket-project-2lln)
-- [Dev.to/JS] [My Favorite free Courses to Learn Programming and Coding in 2023](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-programming-and-coding-in-2023-5f0e)
-- [Dev.to/JS] [Boost Your Productivity with a Node JS Code Generator](https://dev.to/gokulnathp/boost-your-productivity-with-a-node-js-code-generator-51mk)
-- [Dev.to/JS] [7 Libraries You Should Know as a React Developer](https://dev.to/ikramulhasan1/7-libraries-you-should-know-as-a-react-developer-e8o)
-- [Dev.to/JS] [Data Migration: Strategy, Steps and Best Practices](https://dev.to/getnuvo/data-migration-strategy-steps-and-best-practices-1eoh)
 - [Lifehacker] [These Household Products Can Sub for WD-40](https://lifehacker.com/these-household-products-can-sub-for-wd-40-1850176503)
 - [Lifehacker] [The Happiest U.S. Cities Right Now](https://lifehacker.com/the-happiest-u-s-cities-right-now-1850176534)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
