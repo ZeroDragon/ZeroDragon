@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding the Difference Between props and state in React](https://dev.to/haszankauna/understanding-the-difference-between-props-and-state-in-react-2mg3)
+- [Dev.to/JS] [yOU DON&#39;T nEEd a fRamEWoRk](https://dev.to/gravy59/you-dont-need-a-framework-59ka)
+- [Dev.to/JS] [Como fazer web scrape com Node.js](https://dev.to/artgmrs/como-fazer-web-scrape-com-nodejs-3bbf)
 - [Dev.to/JS] [Service Worker lifecycle](https://dev.to/santisbon/service-worker-lifecycle-32op)
 - [Dev.to/JS] [JavaScript Tutorial Series: Manipulating elements part 2.](https://dev.to/fullstackjo/javascript-tutorial-series-manipulating-elements-part-2-18og)
 - [Dev.to/JS] [Integrate Web3 of Algorand Blockchain](https://dev.to/frankdevstar/integrate-web3-of-algorand-blockchain-4dcj)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Site Search Powered by JSON Feed](https://dev.to/lightpohl/site-search-powered-by-json-feed-1hl4)
 - [Dev.to/JS] [Headless Ecommerce for Developers: Integrating Medusa with Strapi CMS](https://dev.to/dmuasya/headless-ecommerce-for-developers-integrating-medusa-with-strapi-cms-26a4)
 - [Dev.to/JS] [Add a second remote origin with Git](https://dev.to/hshoja/add-a-second-remote-origin-to-git-35a7)
-- [Dev.to/JS] [What is Profiler in ReactJS?](https://dev.to/souravbandyopadhyay/what-is-profiler-in-reactjs-4ebi)
-- [Dev.to/JS] [Pixi pixel](https://dev.to/alrmatveev/pixi-pixel-4hh3)
-- [Dev.to/JS] [11 Powerful AI Tools for Crafting Your Perfect Resume Resumestar](https://dev.to/foxbuka/11-powerful-ai-tools-for-crafting-your-perfect-resumeresumestar-2m65)
 - [Lifehacker] [These Household Products Can Sub for WD-40](https://lifehacker.com/these-household-products-can-sub-for-wd-40-1850176503)
 - [Lifehacker] [The Happiest U.S. Cities Right Now](https://lifehacker.com/the-happiest-u-s-cities-right-now-1850176534)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
