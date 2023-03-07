@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lost in Space! or Just Lost in the Sauce! &lpar;Week 1&rpar;](https://dev.to/tacific/lost-in-space-or-just-lost-in-the-sauce-week-1-4l5m)
 - [Dev.to/JS] [Tabs - JS](https://dev.to/986913/tabs-js-11ge)
 - [Dev.to/JS] [Techniques for developing JavaScript targets in Nim](https://dev.to/dumblepytech1/techniques-for-developing-javascript-targets-in-nim-27nj)
 - [Dev.to/JS] [&quot;broadcast&quot; a window from an electron app to my local network?](https://dev.to/spookysnek/broadcast-a-window-from-an-electron-app-to-my-local-network-4ima)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Rely on Your Pixel Watch to Wake You Up](https://lifehacker.com/dont-rely-on-your-pixel-watch-to-wake-you-up-1850192861)
 - [Dev.to/JS] [JWT authentication explained in simplest way possible ✌️](https://dev.to/sahilghanwatdev/jwt-authentication-explained-in-simplest-way-possible-29j9)
 - [Lifehacker] [Everything You Need to Meal Prep Like a Pro](https://lifehacker.com/everything-you-need-to-meal-prep-like-a-pro-1850186840)
-- [Dev.to/JS] [React information flow.](https://dev.to/marthaeochoa/react-information-flow-4jem)
 - [Lifehacker] [How to Be a ‘Digital Nomad’ When You Have Kids](https://lifehacker.com/how-to-be-a-digital-nomad-when-you-have-kids-1850191095)
 - [Lifehacker] [Get Violent With Your Cake Batter](https://lifehacker.com/get-violent-with-your-cake-batter-1850185920)
 - [Lifehacker] [How the End of Medicaid Continuous Enrollment Could Affect You](https://lifehacker.com/how-the-end-of-medicaid-continuous-enrollment-could-aff-1850186427)
