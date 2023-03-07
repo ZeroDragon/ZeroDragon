@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use Command Line Arguments in Node.js](https://dev.to/pratyushsawan/how-to-use-command-line-arguments-in-nodejs-16gc)
+- [Lifehacker] [Do These Things Now to Prepare for Daylight Saving Time](https://lifehacker.com/do-these-things-now-to-prepare-for-daylight-saving-time-1850194365)
+- [Dev.to/JS] [What are functions?](https://dev.to/cindyhernandez/what-are-functions-29pn)
+- [Dev.to/JS] [Speculative Module Fetching: a Modern Approach to Faster App Interactivity](https://dev.to/builderio/speculative-module-fetching-a-modern-approach-to-faster-app-interactivity-4g40)
 - [Lifehacker] [Fried Onions Belong on Your Spring Vegetables](https://lifehacker.com/fried-onions-belong-on-your-spring-vegetables-1850193639)
 - [Dev.to/JS] [What is Reconciliation in React?](https://dev.to/anjankarmakar/what-is-reconciliation-in-react-523m)
 - [Dev.to/JS] [How to Install .DEB files in Arch Based Distros &lpar;e.g Manjaro Linux&rpar;](https://dev.to/vincod/how-to-install-deb-files-in-arch-based-distros-eg-manjaro-linux-20ge)
@@ -37,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding mappings in Solidity](https://dev.to/muratcanyuksel/understanding-mappings-in-solidity-44ma)
 - [Lifehacker] [8 Ways You Can Turn Your Smartphone Into a Dumbphone](https://lifehacker.com/8-ways-you-can-turn-your-smartphone-into-a-dumbphone-1850192492)
 - [Dev.to/JS] [Avoiding UI Regressions With Jest](https://dev.to/woovi/avoiding-ui-regressions-with-jest-49f3)
-- [Dev.to/JS] [Arrow functions in JavaScript](https://dev.to/alexerdei73/arrow-functions-in-javascript-30eb)
-- [Dev.to/JS] [Ultimate Caching Guide 3: Browser/Chrome](https://dev.to/csjcode/ultimate-caching-guide-3-browserchrome-37h1)
-- [Dev.to/JS] [11 Essential Considerations When Implementing an Ecommerce Cart](https://dev.to/medusajs/11-essential-considerations-when-implementing-an-ecommerce-cart-2n43)
 - [Lifehacker] [All the Ways You Didn’t Know You Could Raise Your Credit Score](https://lifehacker.com/all-the-ways-you-didn-t-know-you-could-raise-your-credi-1850192800)
 - [Lifehacker] [Play ‘Run Until’ to Stay Motivated During Your Workout](https://lifehacker.com/play-run-until-to-stay-motivated-during-your-workout-1850192880)
 - [Lifehacker] [Grate Frozen Chili Peppers Directly Into Your Food](https://lifehacker.com/grate-frozen-chili-peppers-directly-into-your-food-1850192795)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
 - [Lifehacker] [How to Get Wrinkles Out of Your Clothes Without an Iron or Dryer](https://lifehacker.com/how-to-get-wrinkles-out-of-your-clothes-without-an-iron-1850176547)
 - [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
-- [Lifehacker] [The Easiest Way to Keep Your Gardening Tools Sharp and Clean](https://lifehacker.com/the-easiest-way-to-keep-your-gardening-tools-sharp-and-1850185955)
-- [Lifehacker] [Use a Can of Soup to Make a Lazy Chicken Pot Pie](https://lifehacker.com/use-a-can-of-soup-to-make-a-lazy-chicken-pot-pie-1850185408)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Keep Your Gardening Tools Sharp and Clean](https://lifehacker.com/the-easiest-way-to-keep-your-gardening-tools-sharp-and-1850185955)<!-- TECH-POSTS:END -->
 
 ---
 
