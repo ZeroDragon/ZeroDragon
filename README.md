@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Fried Onions Belong on Your Spring Vegetables](https://lifehacker.com/fried-onions-belong-on-your-spring-vegetables-1850193639)
+- [Dev.to/JS] [What is Reconciliation in React?](https://dev.to/anjankarmakar/what-is-reconciliation-in-react-523m)
+- [Dev.to/JS] [How to Install .DEB files in Arch Based Distros &lpar;e.g Manjaro Linux&rpar;](https://dev.to/vincod/how-to-install-deb-files-in-arch-based-distros-eg-manjaro-linux-20ge)
+- [Lifehacker] [13 of the Best Movies the Oscars Snubbed This Year](https://lifehacker.com/13-of-the-best-movies-the-oscars-snubbed-this-year-1850190594)
+- [Dev.to/JS] [Web development...](https://dev.to/josunlp/web-development-1hom)
 - [Lifehacker] [You Need a Desk Lemon](https://lifehacker.com/you-need-a-desk-lemon-1850193451)
 - [Dev.to/JS] [How to create an online quiz or assessment test using SurveyJS and add scoring and timing to it &lpar;Part 2&rpar;](https://dev.to/surveyjs/how-to-create-an-online-quiz-or-assessment-test-using-surveyjs-and-add-scoring-and-timing-to-it-part-2-3maf)
 - [Dev.to/JS] [Remix CMS Faceoff: What&#39;s The Best CMS for Remix?](https://dev.to/maxikius/remix-cms-faceoff-whats-the-best-cms-for-remix-481g)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Arrow functions in JavaScript](https://dev.to/alexerdei73/arrow-functions-in-javascript-30eb)
 - [Dev.to/JS] [Ultimate Caching Guide 3: Browser/Chrome](https://dev.to/csjcode/ultimate-caching-guide-3-browserchrome-37h1)
 - [Dev.to/JS] [11 Essential Considerations When Implementing an Ecommerce Cart](https://dev.to/medusajs/11-essential-considerations-when-implementing-an-ecommerce-cart-2n43)
-- [Dev.to/JS] [How to add JavaScript to a Webpage – for Beginners](https://dev.to/max88git/how-to-add-javascript-to-a-webpage-for-beginners-4kk2)
-- [Dev.to/JS] [Start docks](https://dev.to/kemenykin/start-docks-3634)
-- [Dev.to/JS] [UNDERSTANDING MEMOIZATION IN JS](https://dev.to/rounit08/understanding-memoization-in-js-15do)
 - [Lifehacker] [All the Ways You Didn’t Know You Could Raise Your Credit Score](https://lifehacker.com/all-the-ways-you-didn-t-know-you-could-raise-your-credi-1850192800)
 - [Lifehacker] [Play ‘Run Until’ to Stay Motivated During Your Workout](https://lifehacker.com/play-run-until-to-stay-motivated-during-your-workout-1850192880)
 - [Lifehacker] [Grate Frozen Chili Peppers Directly Into Your Food](https://lifehacker.com/grate-frozen-chili-peppers-directly-into-your-food-1850192795)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Wrinkles Out of Your Clothes Without an Iron or Dryer](https://lifehacker.com/how-to-get-wrinkles-out-of-your-clothes-without-an-iron-1850176547)
 - [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
 - [Lifehacker] [The Easiest Way to Keep Your Gardening Tools Sharp and Clean](https://lifehacker.com/the-easiest-way-to-keep-your-gardening-tools-sharp-and-1850185955)
-- [Lifehacker] [Use a Can of Soup to Make a Lazy Chicken Pot Pie](https://lifehacker.com/use-a-can-of-soup-to-make-a-lazy-chicken-pot-pie-1850185408)
-- [Lifehacker] [The Cheapest Alternatives to Expensive Home Improvements](https://lifehacker.com/the-cheapest-alternatives-to-expensive-home-improvement-1850181860)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Everyone Beezin’?](https://lifehacker.com/why-is-everyone-beezin-1850185805)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use a Can of Soup to Make a Lazy Chicken Pot Pie](https://lifehacker.com/use-a-can-of-soup-to-make-a-lazy-chicken-pot-pie-1850185408)<!-- TECH-POSTS:END -->
 
 ---
 
