@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Now Roll Over Unused 529 Funds to Your Kid’s Roth IRA](https://lifehacker.com/you-can-now-roll-over-unused-529-funds-to-your-kid-s-ro-1850196919)
+- [Dev.to/JS] [Do yourself a favor &amp; Write IT down](https://dev.to/amera/do-yourself-a-favor-write-that-sht-down-261g)
+- [Lifehacker] [The ‘New’ iPhone Actually Isn’t New](https://lifehacker.com/the-new-iphone-actually-isn-t-new-1850196882)
 - [Dev.to/JS] [I tried making this reflective UI using HTML CSS and Javascript](https://dev.to/namanvyas/i-tried-making-this-reflective-ui-using-html-css-and-javascript-52ij)
 - [Dev.to/JS] [Recording and replaying network requests with Playwright](https://dev.to/michalkuncio/recording-and-replaying-network-requests-with-playwright-3f7)
 - [Dev.to/JS] [Top 5 Programming Languages to Learn in 2023 for Career Growth and Job Opportunities](https://dev.to/aathikshan_/top-5-programming-languages-to-learn-in-2023-for-career-growth-and-job-opportunities-2c48)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Reconciliation in React?](https://dev.to/anjankarmakar/what-is-reconciliation-in-react-523m)
 - [Dev.to/JS] [How to Install .DEB files in Arch Based Distros &lpar;e.g Manjaro Linux&rpar;](https://dev.to/vincod/how-to-install-deb-files-in-arch-based-distros-eg-manjaro-linux-20ge)
 - [Lifehacker] [13 of the Best Movies the Oscars Snubbed This Year](https://lifehacker.com/13-of-the-best-movies-the-oscars-snubbed-this-year-1850190594)
-- [Dev.to/JS] [Web development...](https://dev.to/josunlp/web-development-1hom)
 - [Lifehacker] [You Need a Desk Lemon](https://lifehacker.com/you-need-a-desk-lemon-1850193451)
 - [Lifehacker] [How to Teach Kids to Better Manage Life’s Disappointments](https://lifehacker.com/how-to-teach-kids-to-better-manage-life-s-disappointmen-1850193102)
 - [Lifehacker] [8 Ways You Can Turn Your Smartphone Into a Dumbphone](https://lifehacker.com/8-ways-you-can-turn-your-smartphone-into-a-dumbphone-1850192492)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [25 of the Best Beaches in the World, According to Tripadvisor](https://lifehacker.com/25-of-the-best-beaches-in-the-world-according-to-tripa-1850178898)
 - [Lifehacker] [Use a Rubber Mat As a Ramp for Your Robot Vacuum](https://lifehacker.com/use-a-rubber-mat-as-a-ramp-for-your-robot-vacuum-1850179553)
 - [Lifehacker] [These Household Products Can Sub for WD-40](https://lifehacker.com/these-household-products-can-sub-for-wd-40-1850176503)
-- [Lifehacker] [The Happiest U.S. Cities Right Now](https://lifehacker.com/the-happiest-u-s-cities-right-now-1850176534)
-- [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
-- [Lifehacker] [How to Get Wrinkles Out of Your Clothes Without an Iron or Dryer](https://lifehacker.com/how-to-get-wrinkles-out-of-your-clothes-without-an-iron-1850176547)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Happiest U.S. Cities Right Now](https://lifehacker.com/the-happiest-u-s-cities-right-now-1850176534)<!-- TECH-POSTS:END -->
 
 ---
 
