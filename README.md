@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Is global data bad?](https://dev.to/tahazsh/is-global-data-bad-4f5d)
+- [Dev.to/JS] [How NodeJS Interacts with the C/C++ language](https://dev.to/jrmatanda/how-nodejs-interacts-with-the-cc-language-11n0)
+- [Dev.to/JS] [ChatGPT - Complex Coding Challenges: 6 KYU](https://dev.to/damiensedgwick/chatgpt-complex-coding-challenges-part-3-27m2)
+- [Dev.to/JS] [Tabs II - JS](https://dev.to/986913/tabs-ii-js-34hd)
+- [Dev.to/JS] [best link](https://dev.to/hicham755t/best-link-4126)
+- [Dev.to/JS] [React Custom Hooks: Reusable and Efficient Stateful Logic](https://dev.to/judeebekes67/react-custom-hooks-reusable-and-efficient-stateful-logic-4nja)
+- [Dev.to/JS] [Weird Things about the Internet and lies about JavaScript](https://dev.to/adamaslan/weird-things-about-the-internet-and-lies-about-javascript-567j)
+- [Dev.to/JS] [Mockando a propriedade window.screen com Jest](https://dev.to/ronniegchagas/mockando-a-propriedade-windowscreen-com-jest-8fo)
+- [Lifehacker] [When &lpar;and How&rpar; to Disinfect Your Carpet](https://lifehacker.com/when-and-how-to-disinfect-your-carpet-1850197247)
 - [Lifehacker] [All the New Android Features Coming in the Next Pixel Drop](https://lifehacker.com/all-the-new-android-features-coming-in-the-next-pixel-d-1850197626)
 - [Dev.to/JS] [What is a Promise Callback](https://dev.to/mattryanmtl/what-is-a-promise-callback-7ke)
 - [Dev.to/JS] [&quot;Function makes the dependencies of useEffect Hook change on every render&quot; warning in React](https://dev.to/amitaldo/function-makes-the-dependencies-of-useeffect-hook-change-on-every-render-warning-in-react-35hd)
@@ -31,17 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Do yourself a favor &amp; Write IT down](https://dev.to/amera/do-yourself-a-favor-write-that-sht-down-261g)
 - [Lifehacker] [The ‘New’ iPhone Actually Isn’t New](https://lifehacker.com/the-new-iphone-actually-isn-t-new-1850196882)
 - [Dev.to/JS] [I tried making this reflective UI using HTML CSS and Javascript](https://dev.to/namanvyas/i-tried-making-this-reflective-ui-using-html-css-and-javascript-52ij)
-- [Dev.to/JS] [Recording and replaying network requests with Playwright](https://dev.to/michalkuncio/recording-and-replaying-network-requests-with-playwright-3f7)
-- [Dev.to/JS] [Top 5 Programming Languages to Learn in 2023 for Career Growth and Job Opportunities](https://dev.to/aathikshan_/top-5-programming-languages-to-learn-in-2023-for-career-growth-and-job-opportunities-2c48)
-- [Dev.to/JS] [5 Real-world Projects for Practicing With NextJS](https://dev.to/devland/5-real-world-projects-for-practicing-with-nextjs-55g7)
 - [Lifehacker] [The Easiest Ways to Get Rid of Your Popcorn Ceiling](https://lifehacker.com/the-easiest-ways-to-get-rid-of-your-popcorn-ceiling-1850195900)
-- [Dev.to/JS] [Tabnine, programa con IA](https://dev.to/yourgeekweb/tabnine-programa-con-ia-1eo7)
-- [Dev.to/JS] [50 chart types for data visualization explained](https://dev.to/jscharting/50-chart-types-for-data-visualization-explained-1f5g)
 - [Lifehacker] [Make Creamier, Spicier Scrambled Eggs With Buffalo Sauce](https://lifehacker.com/make-creamier-spicier-scrambled-eggs-with-buffalo-sauc-1850194283)
-- [Dev.to/JS] [How to use Command Line Arguments in Node.js](https://dev.to/pratyushsawan/how-to-use-command-line-arguments-in-nodejs-16gc)
 - [Lifehacker] [Do These Things Now to Prepare for Daylight Saving Time](https://lifehacker.com/do-these-things-now-to-prepare-for-daylight-saving-time-1850194365)
-- [Dev.to/JS] [What are functions?](https://dev.to/cindyhernandez/what-are-functions-29pn)
-- [Dev.to/JS] [Speculative Module Fetching: a Modern Approach to Faster App Interactivity](https://dev.to/builderio/speculative-module-fetching-a-modern-approach-to-faster-app-interactivity-4g40)
 - [Lifehacker] [Fried Onions Belong on Your Spring Vegetables](https://lifehacker.com/fried-onions-belong-on-your-spring-vegetables-1850193639)
 - [Lifehacker] [13 of the Best Movies the Oscars Snubbed This Year](https://lifehacker.com/13-of-the-best-movies-the-oscars-snubbed-this-year-1850190594)
 - [Lifehacker] [You Need a Desk Lemon](https://lifehacker.com/you-need-a-desk-lemon-1850193451)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [22 Things You Should’ve Learned in High School &lpar;and Where to Learn Them Now&rpar;](https://lifehacker.com/22-things-you-should-ve-learned-in-high-school-and-whe-1850185124)
 - [Lifehacker] [When to Share Personal Info With Your Child&#39;s Teacher &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-share-personal-info-with-your-childs-teacher-a-1850185766)
 - [Lifehacker] [Get Ready to Start Paying Student Loans Again](https://lifehacker.com/get-ready-to-start-paying-student-loans-again-1850180350)
-- [Lifehacker] [25 of the Best Beaches in the World, According to Tripadvisor](https://lifehacker.com/25-of-the-best-beaches-in-the-world-according-to-tripa-1850178898)
-- [Lifehacker] [Use a Rubber Mat As a Ramp for Your Robot Vacuum](https://lifehacker.com/use-a-rubber-mat-as-a-ramp-for-your-robot-vacuum-1850179553)<!-- TECH-POSTS:END -->
+- [Lifehacker] [25 of the Best Beaches in the World, According to Tripadvisor](https://lifehacker.com/25-of-the-best-beaches-in-the-world-according-to-tripa-1850178898)<!-- TECH-POSTS:END -->
 
 ---
 
