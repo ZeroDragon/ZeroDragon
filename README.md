@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [8 Ways You Can Turn Your Smartphone Into a Dumbphone](https://lifehacker.com/8-ways-you-can-turn-your-smartphone-into-a-dumbphone-1850192492)
+- [Dev.to/JS] [Avoiding UI Regressions With Jest](https://dev.to/woovi/avoiding-ui-regressions-with-jest-49f3)
+- [Dev.to/JS] [Arrow functions in JavaScript](https://dev.to/alexerdei73/arrow-functions-in-javascript-30eb)
+- [Dev.to/JS] [Ultimate Caching Guide 3: Browser/Chrome](https://dev.to/csjcode/ultimate-caching-guide-3-browserchrome-37h1)
+- [Dev.to/JS] [11 Essential Considerations When Implementing an Ecommerce Cart](https://dev.to/medusajs/11-essential-considerations-when-implementing-an-ecommerce-cart-2n43)
 - [Dev.to/JS] [How to add JavaScript to a Webpage – for Beginners](https://dev.to/max88git/how-to-add-javascript-to-a-webpage-for-beginners-4kk2)
 - [Dev.to/JS] [Start docks](https://dev.to/kemenykin/start-docks-3634)
 - [Dev.to/JS] [UNDERSTANDING MEMOIZATION IN JS](https://dev.to/rounit08/understanding-memoization-in-js-15do)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Framer Motion: The Ultimate Keyframe Tutorial for Mind-Blowing Animations](https://dev.to/code_queen/framer-motion-the-ultimate-keyframe-tutorial-for-mind-blowing-animations-1242)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Posições ranqueadas](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-posicoes-ranqueadas-5dna)
 - [Dev.to/JS] [Sneakers 3d Product Card Hover HTML CSS 🔥🙌](https://dev.to/backlinkss/sneakers-3d-product-card-hover-html-css-4chm)
-- [Dev.to/JS] [Boost Your JavaScript Efficiency: 20 One-Liner Examples for Quick Coding](https://dev.to/sh20raj/boost-your-javascript-efficiency-20-one-liner-examples-for-quick-coding-39jp)
-- [Dev.to/JS] [Mastering JavaScript with One-Liners: Top 20 Examples for Efficient Coding](https://dev.to/sh20raj/mastering-javascript-with-one-liners-top-20-examples-for-efficient-coding-20gl)
-- [Dev.to/JS] [Component Series: Element Plus Table part 3](https://dev.to/rax/component-series-element-plus-table-part-3-42mb)
-- [Dev.to/JS] [Build a Portfolio Website with HTML, CSS, and JavaScript](https://dev.to/taradwyer17/build-a-portfolio-website-with-html-css-and-javascript-193k)
 - [Lifehacker] [All the Ways You Didn’t Know You Could Raise Your Credit Score](https://lifehacker.com/all-the-ways-you-didn-t-know-you-could-raise-your-credi-1850192800)
 - [Lifehacker] [Play ‘Run Until’ to Stay Motivated During Your Workout](https://lifehacker.com/play-run-until-to-stay-motivated-during-your-workout-1850192880)
 - [Lifehacker] [Grate Frozen Chili Peppers Directly Into Your Food](https://lifehacker.com/grate-frozen-chili-peppers-directly-into-your-food-1850192795)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Cheapest Alternatives to Expensive Home Improvements](https://lifehacker.com/the-cheapest-alternatives-to-expensive-home-improvement-1850181860)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Everyone Beezin’?](https://lifehacker.com/why-is-everyone-beezin-1850185805)
 - [Lifehacker] [Turn Your Glut of Spice Rubs Into Smokey Cheese Spreads](https://lifehacker.com/turn-your-glut-of-spice-rubs-into-smokey-cheese-spreads-1850185851)
-- [Lifehacker] [How to Host Friends Who Smoke Weed, Even If You Don&#39;t](https://lifehacker.com/how-to-host-friends-who-smoke-weed-even-if-you-dont-1850184973)
-- [Lifehacker] [Dominate Your Kid’s Next ‘Sugar Rush’ Before It Starts](https://lifehacker.com/dominate-your-kid-s-next-sugar-rush-before-it-starts-1850181643)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Host Friends Who Smoke Weed, Even If You Don&#39;t](https://lifehacker.com/how-to-host-friends-who-smoke-weed-even-if-you-dont-1850184973)<!-- TECH-POSTS:END -->
 
 ---
 
