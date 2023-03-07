@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Stop Instagram From Sharing Your Posts on Facebook](https://lifehacker.com/you-can-stop-instagram-from-sharing-your-posts-on-faceb-1850199241)
+- [Dev.to/JS] [JavaScript Tutorial Series: Manipulating elements styles](https://dev.to/fullstackjo/javascript-tutorial-series-manipulating-elements-styles-4k0i)
+- [Lifehacker] [11 Spectacular Vertical Gardens You Can Grow in Small Spaces](https://lifehacker.com/11-spectacular-vertical-gardens-you-can-grow-in-small-s-1850197734)
 - [Dev.to/JS] [Is global data bad?](https://dev.to/tahazsh/is-global-data-bad-4f5d)
 - [Dev.to/JS] [How NodeJS Interacts with the C/C++ language](https://dev.to/jrmatanda/how-nodejs-interacts-with-the-cc-language-11n0)
 - [Dev.to/JS] [ChatGPT - Complex Coding Challenges: 6 KYU](https://dev.to/damiensedgwick/chatgpt-complex-coding-challenges-part-3-27m2)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Roll Over Unused 529 Funds to Your Kid’s Roth IRA](https://lifehacker.com/you-can-now-roll-over-unused-529-funds-to-your-kid-s-ro-1850196919)
 - [Dev.to/JS] [Do yourself a favor &amp; Write IT down](https://dev.to/amera/do-yourself-a-favor-write-that-sht-down-261g)
 - [Lifehacker] [The ‘New’ iPhone Actually Isn’t New](https://lifehacker.com/the-new-iphone-actually-isn-t-new-1850196882)
-- [Dev.to/JS] [I tried making this reflective UI using HTML CSS and Javascript](https://dev.to/namanvyas/i-tried-making-this-reflective-ui-using-html-css-and-javascript-52ij)
 - [Lifehacker] [The Easiest Ways to Get Rid of Your Popcorn Ceiling](https://lifehacker.com/the-easiest-ways-to-get-rid-of-your-popcorn-ceiling-1850195900)
 - [Lifehacker] [Make Creamier, Spicier Scrambled Eggs With Buffalo Sauce](https://lifehacker.com/make-creamier-spicier-scrambled-eggs-with-buffalo-sauc-1850194283)
 - [Lifehacker] [Do These Things Now to Prepare for Daylight Saving Time](https://lifehacker.com/do-these-things-now-to-prepare-for-daylight-saving-time-1850194365)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How the End of Medicaid Continuous Enrollment Could Affect You](https://lifehacker.com/how-the-end-of-medicaid-continuous-enrollment-could-aff-1850186427)
 - [Lifehacker] [The 7 Deadly Sins of Giving First Aid](https://lifehacker.com/the-7-deadly-sins-of-giving-first-aid-1850191482)
 - [Lifehacker] [22 Things You Should’ve Learned in High School &lpar;and Where to Learn Them Now&rpar;](https://lifehacker.com/22-things-you-should-ve-learned-in-high-school-and-whe-1850185124)
-- [Lifehacker] [When to Share Personal Info With Your Child&#39;s Teacher &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-share-personal-info-with-your-childs-teacher-a-1850185766)
-- [Lifehacker] [Get Ready to Start Paying Student Loans Again](https://lifehacker.com/get-ready-to-start-paying-student-loans-again-1850180350)
-- [Lifehacker] [25 of the Best Beaches in the World, According to Tripadvisor](https://lifehacker.com/25-of-the-best-beaches-in-the-world-according-to-tripa-1850178898)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When to Share Personal Info With Your Child&#39;s Teacher &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-share-personal-info-with-your-childs-teacher-a-1850185766)<!-- TECH-POSTS:END -->
 
 ---
 
