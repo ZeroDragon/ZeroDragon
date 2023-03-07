@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Moonly weekly progress update #39](https://dev.to/moonly/moonly-weekly-progress-update-39-2bfj)
+- [Dev.to/JS] [Deploying a React app to production](https://dev.to/haszankauna/deploying-a-react-app-to-production-4i61)
+- [Dev.to/JS] [Build an Infinite Nested Comments System in React JS | System Design + Code](https://dev.to/xplodivity/build-an-infinite-nested-comments-system-in-react-js-system-design-code-gi8)
 - [Dev.to/JS] [Paracetamol.ts💊| #27: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-27-explica-este-codigo-typescript-4856)
 - [Dev.to/JS] [A Short Handbook for TypeScript](https://dev.to/mushfiqweb/a-short-handbook-for-typescript-36o6)
 - [Dev.to/JS] [How to scrape the web with Puppeteer in 2023](https://dev.to/apify/how-to-scrape-the-web-with-puppeteer-in-2023-25d2)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Guide to writing integration tests in express js with Jest and Supertest](https://dev.to/ali_adeku/guide-to-writing-integration-tests-in-express-js-with-jest-and-supertest-1059)
 - [Dev.to/JS] [Rebuild an EMI Calculator without Next.js, TypeScript, Tailwind CSS, Recoil and Recharts](https://dev.to/efpage/rebuild-an-emi-calculator-without-nextjs-typescript-tailwind-css-recoil-and-recharts-3d0n)
 - [Dev.to/JS] [Level Up Your React Skills: Build a Stopwatch App with Hooks](https://dev.to/sidramaqbool/level-up-your-react-skills-build-a-stopwatch-app-with-hooks-5an3)
-- [Dev.to/JS] [JAVASCRIPT CONDITIONALS](https://dev.to/anothereader_22/javascript-conditionals-bp9)
-- [Dev.to/JS] [Monitoring Nuxt.js app with Datadog 🔍](https://dev.to/adrienmornet/monitoring-nuxtjs-app-with-datadog-1f39)
-- [Dev.to/JS] [How to create a Rock Paper Scissors game with an AI opponent using JavaScript](https://dev.to/ozboware/how-to-create-a-rock-paper-scissors-game-with-an-ai-opponent-using-javascript-m70)
 - [Lifehacker] [All the Ways You Didn’t Know You Could Raise Your Credit Score](https://lifehacker.com/all-the-ways-you-didn-t-know-you-could-raise-your-credi-1850192800)
 - [Lifehacker] [Play ‘Run Until’ to Stay Motivated During Your Workout](https://lifehacker.com/play-run-until-to-stay-motivated-during-your-workout-1850192880)
 - [Lifehacker] [Grate Frozen Chili Peppers Directly Into Your Food](https://lifehacker.com/grate-frozen-chili-peppers-directly-into-your-food-1850192795)
