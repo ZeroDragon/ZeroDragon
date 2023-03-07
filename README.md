@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tabs - JS](https://dev.to/986913/tabs-js-11ge)
+- [Dev.to/JS] [Techniques for developing JavaScript targets in Nim](https://dev.to/dumblepytech1/techniques-for-developing-javascript-targets-in-nim-27nj)
+- [Dev.to/JS] [&quot;broadcast&quot; a window from an electron app to my local network?](https://dev.to/spookysnek/broadcast-a-window-from-an-electron-app-to-my-local-network-4ima)
 - [Dev.to/JS] [Understanding Truthy and Falsy in JavaScript](https://dev.to/ypdev19/understanding-truthy-and-falsy-in-javascript-ih0)
 - [Dev.to/JS] [JavaScript Tutorial Series: HTML attributes &amp; DOM object properties.](https://dev.to/fullstackjo/javascript-tutorial-series-html-attributes-dom-object-properties-311o)
 - [Lifehacker] [All the Ways You Didn’t Know You Could Raise Your Credit Score](https://lifehacker.com/all-the-ways-you-didn-t-know-you-could-raise-your-credi-1850192800)
@@ -39,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JWT authentication explained in simplest way possible ✌️](https://dev.to/sahilghanwatdev/jwt-authentication-explained-in-simplest-way-possible-29j9)
 - [Lifehacker] [Everything You Need to Meal Prep Like a Pro](https://lifehacker.com/everything-you-need-to-meal-prep-like-a-pro-1850186840)
 - [Dev.to/JS] [React information flow.](https://dev.to/marthaeochoa/react-information-flow-4jem)
-- [Dev.to/JS] [Built In Data Type in Ruby](https://dev.to/bhartee_sahare/built-in-data-type-in-ruby-140k)
-- [Dev.to/JS] [Top 10 Programming Languages to Learn in 2023: A Comprehensive Guide for Beginners and Professionals](https://dev.to/priteshbhoi/top-10-programming-languages-to-learn-in-2023-a-comprehensive-guide-for-beginners-and-professionals-4alk)
 - [Lifehacker] [How to Be a ‘Digital Nomad’ When You Have Kids](https://lifehacker.com/how-to-be-a-digital-nomad-when-you-have-kids-1850191095)
-- [Dev.to/JS] [What you need to know before transitioning from JavaScript to React: A Guide](https://dev.to/kelvintech_99/what-you-need-to-know-before-transitioning-from-javascript-to-react-a-guide-1ij7)
 - [Lifehacker] [Get Violent With Your Cake Batter](https://lifehacker.com/get-violent-with-your-cake-batter-1850185920)
 - [Lifehacker] [How the End of Medicaid Continuous Enrollment Could Affect You](https://lifehacker.com/how-the-end-of-medicaid-continuous-enrollment-could-aff-1850186427)
 - [Lifehacker] [The 7 Deadly Sins of Giving First Aid](https://lifehacker.com/the-7-deadly-sins-of-giving-first-aid-1850191482)
