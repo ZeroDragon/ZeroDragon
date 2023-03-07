@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the New Android Features Coming in the Next Pixel Drop](https://lifehacker.com/all-the-new-android-features-coming-in-the-next-pixel-d-1850197626)
+- [Dev.to/JS] [What is a Promise Callback](https://dev.to/mattryanmtl/what-is-a-promise-callback-7ke)
+- [Dev.to/JS] [&quot;Function makes the dependencies of useEffect Hook change on every render&quot; warning in React](https://dev.to/amitaldo/function-makes-the-dependencies-of-useeffect-hook-change-on-every-render-warning-in-react-35hd)
+- [Lifehacker] [&#39;Cities: Skylines 2&#39; and 9 More Immersive World-Building Games Coming This Year](https://lifehacker.com/cities-skylines-2-and-9-more-immersive-world-building-1850197796)
 - [Lifehacker] [You Can Now Roll Over Unused 529 Funds to Your Kid’s Roth IRA](https://lifehacker.com/you-can-now-roll-over-unused-529-funds-to-your-kid-s-ro-1850196919)
 - [Dev.to/JS] [Do yourself a favor &amp; Write IT down](https://dev.to/amera/do-yourself-a-favor-write-that-sht-down-261g)
 - [Lifehacker] [The ‘New’ iPhone Actually Isn’t New](https://lifehacker.com/the-new-iphone-actually-isn-t-new-1850196882)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are functions?](https://dev.to/cindyhernandez/what-are-functions-29pn)
 - [Dev.to/JS] [Speculative Module Fetching: a Modern Approach to Faster App Interactivity](https://dev.to/builderio/speculative-module-fetching-a-modern-approach-to-faster-app-interactivity-4g40)
 - [Lifehacker] [Fried Onions Belong on Your Spring Vegetables](https://lifehacker.com/fried-onions-belong-on-your-spring-vegetables-1850193639)
-- [Dev.to/JS] [What is Reconciliation in React?](https://dev.to/anjankarmakar/what-is-reconciliation-in-react-523m)
-- [Dev.to/JS] [How to Install .DEB files in Arch Based Distros &lpar;e.g Manjaro Linux&rpar;](https://dev.to/vincod/how-to-install-deb-files-in-arch-based-distros-eg-manjaro-linux-20ge)
 - [Lifehacker] [13 of the Best Movies the Oscars Snubbed This Year](https://lifehacker.com/13-of-the-best-movies-the-oscars-snubbed-this-year-1850190594)
 - [Lifehacker] [You Need a Desk Lemon](https://lifehacker.com/you-need-a-desk-lemon-1850193451)
 - [Lifehacker] [How to Teach Kids to Better Manage Life’s Disappointments](https://lifehacker.com/how-to-teach-kids-to-better-manage-life-s-disappointmen-1850193102)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to Share Personal Info With Your Child&#39;s Teacher &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-share-personal-info-with-your-childs-teacher-a-1850185766)
 - [Lifehacker] [Get Ready to Start Paying Student Loans Again](https://lifehacker.com/get-ready-to-start-paying-student-loans-again-1850180350)
 - [Lifehacker] [25 of the Best Beaches in the World, According to Tripadvisor](https://lifehacker.com/25-of-the-best-beaches-in-the-world-according-to-tripa-1850178898)
-- [Lifehacker] [Use a Rubber Mat As a Ramp for Your Robot Vacuum](https://lifehacker.com/use-a-rubber-mat-as-a-ramp-for-your-robot-vacuum-1850179553)
-- [Lifehacker] [These Household Products Can Sub for WD-40](https://lifehacker.com/these-household-products-can-sub-for-wd-40-1850176503)
-- [Lifehacker] [The Happiest U.S. Cities Right Now](https://lifehacker.com/the-happiest-u-s-cities-right-now-1850176534)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use a Rubber Mat As a Ramp for Your Robot Vacuum](https://lifehacker.com/use-a-rubber-mat-as-a-ramp-for-your-robot-vacuum-1850179553)<!-- TECH-POSTS:END -->
 
 ---
 
