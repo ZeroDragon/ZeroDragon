@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.ts💊| #27: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-27-explica-este-codigo-typescript-4856)
+- [Dev.to/JS] [A Short Handbook for TypeScript](https://dev.to/mushfiqweb/a-short-handbook-for-typescript-36o6)
+- [Dev.to/JS] [How to scrape the web with Puppeteer in 2023](https://dev.to/apify/how-to-scrape-the-web-with-puppeteer-in-2023-25d2)
 - [Dev.to/JS] [How to use Locomotive Scroll with Svelte ?](https://dev.to/eliott/how-to-use-locomotive-scroll-with-svelte--2dkl)
 - [Dev.to/JS] [[1/4] Passez de zéro à héro avec ces méthodes JavaScript](https://dev.to/vincent_react/14-passez-de-zero-a-hero-avec-ces-methodes-javascript-11f)
 - [Dev.to/JS] [Top 5 JavaScript tools for Ecommerce Platforms](https://dev.to/shosenwales/top-5-javascript-tools-for-ecommerce-platforms-59nb)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JAVASCRIPT CONDITIONALS](https://dev.to/anothereader_22/javascript-conditionals-bp9)
 - [Dev.to/JS] [Monitoring Nuxt.js app with Datadog 🔍](https://dev.to/adrienmornet/monitoring-nuxtjs-app-with-datadog-1f39)
 - [Dev.to/JS] [How to create a Rock Paper Scissors game with an AI opponent using JavaScript](https://dev.to/ozboware/how-to-create-a-rock-paper-scissors-game-with-an-ai-opponent-using-javascript-m70)
-- [Dev.to/JS] [Step-by-Step Guide: Running Your First React Native android App in 2023](https://dev.to/aneeqakhan/step-by-step-guide-running-your-first-react-native-android-app-in-2023-1hh6)
-- [Dev.to/JS] [How to Export an Array of JSON Objects to Excel with SheetJS](https://dev.to/raielly/how-to-export-an-array-of-json-objects-to-excel-with-sheetjs-2oa5)
-- [Dev.to/JS] [What is Global variables in javascript?](https://dev.to/souravbandyopadhyay/what-is-global-variables-in-javascript-29n4)
 - [Lifehacker] [All the Ways You Didn’t Know You Could Raise Your Credit Score](https://lifehacker.com/all-the-ways-you-didn-t-know-you-could-raise-your-credi-1850192800)
 - [Lifehacker] [Play ‘Run Until’ to Stay Motivated During Your Workout](https://lifehacker.com/play-run-until-to-stay-motivated-during-your-workout-1850192880)
 - [Lifehacker] [Grate Frozen Chili Peppers Directly Into Your Food](https://lifehacker.com/grate-frozen-chili-peppers-directly-into-your-food-1850192795)
