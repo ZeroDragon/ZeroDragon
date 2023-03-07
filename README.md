@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Step-by-Step Guide: Running Your First React Native android App in 2023](https://dev.to/aneeqakhan/step-by-step-guide-running-your-first-react-native-android-app-in-2023-1hh6)
+- [Dev.to/JS] [How to Export an Array of JSON Objects to Excel with SheetJS](https://dev.to/raielly/how-to-export-an-array-of-json-objects-to-excel-with-sheetjs-2oa5)
+- [Dev.to/JS] [What is Global variables in javascript?](https://dev.to/souravbandyopadhyay/what-is-global-variables-in-javascript-29n4)
+- [Dev.to/JS] [Multi line chart with D3.js and React.js](https://dev.to/tasfiaislam/multi-line-chart-with-d3js-and-reactjs-4gm2)
 - [Dev.to/JS] [Creating a responsive navbar with React](https://dev.to/haszankauna/creating-a-responsive-navbar-with-react-3b2c)
 - [Dev.to/JS] [Creating a responsive navbar with React](https://dev.to/haszankauna/creating-a-responsive-navbar-with-react-38d4)
 - [Dev.to/JS] [How to use Web Workers in ReactJS: A step-by-step guide](https://dev.to/ifourtechnolab/how-to-use-web-workers-in-reactjs-a-step-by-step-guide-2oo1)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a Modern, Simple Landing Page Using React with TypeScript](https://dev.to/haszankauna/build-a-modern-simple-landing-page-using-react-with-typescript-51f2)
 - [Dev.to/JS] [Developer Updates - March Edition](https://dev.to/paypaldeveloper/developer-updates-march-55lb)
 - [Dev.to/JS] [Lost in Space! or Just Lost in the Sauce! &lpar;Week 1&rpar;](https://dev.to/tacific/lost-in-space-or-just-lost-in-the-sauce-week-1-4l5m)
-- [Dev.to/JS] [Tabs - JS](https://dev.to/986913/tabs-js-11ge)
-- [Dev.to/JS] [Techniques for developing JavaScript targets in Nim](https://dev.to/dumblepytech1/techniques-for-developing-javascript-targets-in-nim-27nj)
-- [Dev.to/JS] [&quot;broadcast&quot; a window from an electron app to my local network?](https://dev.to/spookysnek/broadcast-a-window-from-an-electron-app-to-my-local-network-4ima)
-- [Dev.to/JS] [Understanding Truthy and Falsy in JavaScript](https://dev.to/ypdev19/understanding-truthy-and-falsy-in-javascript-ih0)
 - [Lifehacker] [All the Ways You Didn’t Know You Could Raise Your Credit Score](https://lifehacker.com/all-the-ways-you-didn-t-know-you-could-raise-your-credi-1850192800)
 - [Lifehacker] [Play ‘Run Until’ to Stay Motivated During Your Workout](https://lifehacker.com/play-run-until-to-stay-motivated-during-your-workout-1850192880)
 - [Lifehacker] [Grate Frozen Chili Peppers Directly Into Your Food](https://lifehacker.com/grate-frozen-chili-peppers-directly-into-your-food-1850192795)
