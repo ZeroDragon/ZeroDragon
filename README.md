@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Eseguire test unitari su VanillaJS](https://dev.to/ieeah/eseguire-test-unitari-su-vanillajs-453o)
+- [Dev.to/JS] [How to create and publish a TypeScript library with ease](https://dev.to/amelspahic/how-to-create-and-publish-a-typescript-library-with-ease-29j9)
+- [Dev.to/JS] [Building a Quiz App with Vuejs &amp; Pinia](https://dev.to/andrewzach/building-a-quiz-app-with-vuejs-pinia-12d6)
+- [Lifehacker] [The Best &#39;Mario Day&#39; Deals Nintendo Has to Offer](https://lifehacker.com/the-best-mario-day-deals-nintendo-has-to-offer-1850199311)
 - [Lifehacker] [You Can Stop Instagram From Sharing Your Posts on Facebook](https://lifehacker.com/you-can-stop-instagram-from-sharing-your-posts-on-faceb-1850199241)
 - [Dev.to/JS] [JavaScript Tutorial Series: Manipulating elements styles](https://dev.to/fullstackjo/javascript-tutorial-series-manipulating-elements-styles-4k0i)
 - [Lifehacker] [11 Spectacular Vertical Gardens You Can Grow in Small Spaces](https://lifehacker.com/11-spectacular-vertical-gardens-you-can-grow-in-small-s-1850197734)
@@ -36,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mockando a propriedade window.screen com Jest](https://dev.to/ronniegchagas/mockando-a-propriedade-windowscreen-com-jest-8fo)
 - [Lifehacker] [When &lpar;and How&rpar; to Disinfect Your Carpet](https://lifehacker.com/when-and-how-to-disinfect-your-carpet-1850197247)
 - [Lifehacker] [All the New Android Features Coming in the Next Pixel Drop](https://lifehacker.com/all-the-new-android-features-coming-in-the-next-pixel-d-1850197626)
-- [Dev.to/JS] [What is a Promise Callback](https://dev.to/mattryanmtl/what-is-a-promise-callback-7ke)
-- [Dev.to/JS] [&quot;Function makes the dependencies of useEffect Hook change on every render&quot; warning in React](https://dev.to/amitaldo/function-makes-the-dependencies-of-useeffect-hook-change-on-every-render-warning-in-react-35hd)
 - [Lifehacker] [&#39;Cities: Skylines 2&#39; and 9 More Immersive World-Building Games Coming This Year](https://lifehacker.com/cities-skylines-2-and-9-more-immersive-world-building-1850197796)
 - [Lifehacker] [You Can Now Roll Over Unused 529 Funds to Your Kid’s Roth IRA](https://lifehacker.com/you-can-now-roll-over-unused-529-funds-to-your-kid-s-ro-1850196919)
-- [Dev.to/JS] [Do yourself a favor &amp; Write IT down](https://dev.to/amera/do-yourself-a-favor-write-that-sht-down-261g)
 - [Lifehacker] [The ‘New’ iPhone Actually Isn’t New](https://lifehacker.com/the-new-iphone-actually-isn-t-new-1850196882)
 - [Lifehacker] [The Easiest Ways to Get Rid of Your Popcorn Ceiling](https://lifehacker.com/the-easiest-ways-to-get-rid-of-your-popcorn-ceiling-1850195900)
 - [Lifehacker] [Make Creamier, Spicier Scrambled Eggs With Buffalo Sauce](https://lifehacker.com/make-creamier-spicier-scrambled-eggs-with-buffalo-sauc-1850194283)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get Violent With Your Cake Batter](https://lifehacker.com/get-violent-with-your-cake-batter-1850185920)
 - [Lifehacker] [How the End of Medicaid Continuous Enrollment Could Affect You](https://lifehacker.com/how-the-end-of-medicaid-continuous-enrollment-could-aff-1850186427)
 - [Lifehacker] [The 7 Deadly Sins of Giving First Aid](https://lifehacker.com/the-7-deadly-sins-of-giving-first-aid-1850191482)
-- [Lifehacker] [22 Things You Should’ve Learned in High School &lpar;and Where to Learn Them Now&rpar;](https://lifehacker.com/22-things-you-should-ve-learned-in-high-school-and-whe-1850185124)
-- [Lifehacker] [When to Share Personal Info With Your Child&#39;s Teacher &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-share-personal-info-with-your-childs-teacher-a-1850185766)<!-- TECH-POSTS:END -->
+- [Lifehacker] [22 Things You Should’ve Learned in High School &lpar;and Where to Learn Them Now&rpar;](https://lifehacker.com/22-things-you-should-ve-learned-in-high-school-and-whe-1850185124)<!-- TECH-POSTS:END -->
 
 ---
 
