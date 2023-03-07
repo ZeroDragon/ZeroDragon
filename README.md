@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Developer Updates - March Edition](https://dev.to/paypaldeveloper/developer-updates-march-55lb)
 - [Dev.to/JS] [Lost in Space! or Just Lost in the Sauce! &lpar;Week 1&rpar;](https://dev.to/tacific/lost-in-space-or-just-lost-in-the-sauce-week-1-4l5m)
 - [Dev.to/JS] [Tabs - JS](https://dev.to/986913/tabs-js-11ge)
 - [Dev.to/JS] [Techniques for developing JavaScript targets in Nim](https://dev.to/dumblepytech1/techniques-for-developing-javascript-targets-in-nim-27nj)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [my links](https://dev.to/hichmyh654/my-links-1ad6)
 - [Lifehacker] [This &#39;Oscar Wordle&#39; Is the Best Way to Share Your Awards Predictions](https://lifehacker.com/this-oscar-wordle-is-the-best-way-to-share-your-awards-1850193520)
 - [Lifehacker] [Don&#39;t Rely on Your Pixel Watch to Wake You Up](https://lifehacker.com/dont-rely-on-your-pixel-watch-to-wake-you-up-1850192861)
-- [Dev.to/JS] [JWT authentication explained in simplest way possible ✌️](https://dev.to/sahilghanwatdev/jwt-authentication-explained-in-simplest-way-possible-29j9)
 - [Lifehacker] [Everything You Need to Meal Prep Like a Pro](https://lifehacker.com/everything-you-need-to-meal-prep-like-a-pro-1850186840)
 - [Lifehacker] [How to Be a ‘Digital Nomad’ When You Have Kids](https://lifehacker.com/how-to-be-a-digital-nomad-when-you-have-kids-1850191095)
 - [Lifehacker] [Get Violent With Your Cake Batter](https://lifehacker.com/get-violent-with-your-cake-batter-1850185920)
