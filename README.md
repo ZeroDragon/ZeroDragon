@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Monitoring Nuxt.js app with Datadog 🔍](https://dev.to/adrienmornet/monitoring-nuxtjs-app-with-datadog-1f39)
+- [Dev.to/JS] [How to create a Rock Paper Scissors game with an AI opponent using JavaScript](https://dev.to/ozboware/how-to-create-a-rock-paper-scissors-game-with-an-ai-opponent-using-javascript-m70)
 - [Dev.to/JS] [Step-by-Step Guide: Running Your First React Native android App in 2023](https://dev.to/aneeqakhan/step-by-step-guide-running-your-first-react-native-android-app-in-2023-1hh6)
 - [Dev.to/JS] [How to Export an Array of JSON Objects to Excel with SheetJS](https://dev.to/raielly/how-to-export-an-array-of-json-objects-to-excel-with-sheetjs-2oa5)
 - [Dev.to/JS] [What is Global variables in javascript?](https://dev.to/souravbandyopadhyay/what-is-global-variables-in-javascript-29n4)
@@ -30,11 +32,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a responsive navbar with React](https://dev.to/haszankauna/creating-a-responsive-navbar-with-react-3b2c)
 - [Dev.to/JS] [Creating a responsive navbar with React](https://dev.to/haszankauna/creating-a-responsive-navbar-with-react-38d4)
 - [Dev.to/JS] [How to use Web Workers in ReactJS: A step-by-step guide](https://dev.to/ifourtechnolab/how-to-use-web-workers-in-reactjs-a-step-by-step-guide-2oo1)
-- [Dev.to/JS] [DynamoDB using AWS SDK for Javascript/Node.js](https://dev.to/rashiagarwal/dynamodb-using-aws-sdk-for-javascriptnodejs-43j1)
+- [Dev.to/JS] [DynamoDB using AWS SDK for Javascript/Node.js](https://dev.to/aws-builders/dynamodb-using-aws-sdk-for-javascriptnodejs-43j1)
 - [Dev.to/JS] [Feeling lost on Dom Events?](https://dev.to/familymanjosh/feeling-lost-on-dom-events-2m8d)
 - [Dev.to/JS] [Build a Modern, Simple Landing Page Using React with TypeScript](https://dev.to/haszankauna/build-a-modern-simple-landing-page-using-react-with-typescript-51f2)
-- [Dev.to/JS] [Developer Updates - March Edition](https://dev.to/paypaldeveloper/developer-updates-march-55lb)
-- [Dev.to/JS] [Lost in Space! or Just Lost in the Sauce! &lpar;Week 1&rpar;](https://dev.to/tacific/lost-in-space-or-just-lost-in-the-sauce-week-1-4l5m)
 - [Lifehacker] [All the Ways You Didn’t Know You Could Raise Your Credit Score](https://lifehacker.com/all-the-ways-you-didn-t-know-you-could-raise-your-credi-1850192800)
 - [Lifehacker] [Play ‘Run Until’ to Stay Motivated During Your Workout](https://lifehacker.com/play-run-until-to-stay-motivated-during-your-workout-1850192880)
 - [Lifehacker] [Grate Frozen Chili Peppers Directly Into Your Food](https://lifehacker.com/grate-frozen-chili-peppers-directly-into-your-food-1850192795)
