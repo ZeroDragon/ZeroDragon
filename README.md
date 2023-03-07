@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I tried making this reflective UI using HTML CSS and Javascript](https://dev.to/namanvyas/i-tried-making-this-reflective-ui-using-html-css-and-javascript-52ij)
+- [Dev.to/JS] [Recording and replaying network requests with Playwright](https://dev.to/michalkuncio/recording-and-replaying-network-requests-with-playwright-3f7)
+- [Dev.to/JS] [Top 5 Programming Languages to Learn in 2023 for Career Growth and Job Opportunities](https://dev.to/aathikshan_/top-5-programming-languages-to-learn-in-2023-for-career-growth-and-job-opportunities-2c48)
+- [Dev.to/JS] [5 Real-world Projects for Practicing With NextJS](https://dev.to/devland/5-real-world-projects-for-practicing-with-nextjs-55g7)
+- [Lifehacker] [The Easiest Ways to Get Rid of Your Popcorn Ceiling](https://lifehacker.com/the-easiest-ways-to-get-rid-of-your-popcorn-ceiling-1850195900)
+- [Dev.to/JS] [Tabnine, programa con IA](https://dev.to/yourgeekweb/tabnine-programa-con-ia-1eo7)
+- [Dev.to/JS] [50 chart types for data visualization explained](https://dev.to/jscharting/50-chart-types-for-data-visualization-explained-1f5g)
+- [Lifehacker] [Make Creamier, Spicier Scrambled Eggs With Buffalo Sauce](https://lifehacker.com/make-creamier-spicier-scrambled-eggs-with-buffalo-sauc-1850194283)
 - [Dev.to/JS] [How to use Command Line Arguments in Node.js](https://dev.to/pratyushsawan/how-to-use-command-line-arguments-in-nodejs-16gc)
 - [Lifehacker] [Do These Things Now to Prepare for Daylight Saving Time](https://lifehacker.com/do-these-things-now-to-prepare-for-daylight-saving-time-1850194365)
 - [Dev.to/JS] [What are functions?](https://dev.to/cindyhernandez/what-are-functions-29pn)
@@ -33,14 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 of the Best Movies the Oscars Snubbed This Year](https://lifehacker.com/13-of-the-best-movies-the-oscars-snubbed-this-year-1850190594)
 - [Dev.to/JS] [Web development...](https://dev.to/josunlp/web-development-1hom)
 - [Lifehacker] [You Need a Desk Lemon](https://lifehacker.com/you-need-a-desk-lemon-1850193451)
-- [Dev.to/JS] [How to create an online quiz or assessment test using SurveyJS and add scoring and timing to it &lpar;Part 2&rpar;](https://dev.to/surveyjs/how-to-create-an-online-quiz-or-assessment-test-using-surveyjs-and-add-scoring-and-timing-to-it-part-2-3maf)
-- [Dev.to/JS] [Remix CMS Faceoff: What&#39;s The Best CMS for Remix?](https://dev.to/maxikius/remix-cms-faceoff-whats-the-best-cms-for-remix-481g)
 - [Lifehacker] [How to Teach Kids to Better Manage Life’s Disappointments](https://lifehacker.com/how-to-teach-kids-to-better-manage-life-s-disappointmen-1850193102)
-- [Dev.to/JS] [From Zero to Hero! The long way…](https://dev.to/borysshulyak/from-zero-to-hero-the-long-way-2hpl)
-- [Dev.to/JS] [Métodos de Manipulação de Arrays](https://dev.to/joeldorosarioo/metodos-de-manipulacao-de-arrays-3o8d)
-- [Dev.to/JS] [Understanding mappings in Solidity](https://dev.to/muratcanyuksel/understanding-mappings-in-solidity-44ma)
 - [Lifehacker] [8 Ways You Can Turn Your Smartphone Into a Dumbphone](https://lifehacker.com/8-ways-you-can-turn-your-smartphone-into-a-dumbphone-1850192492)
-- [Dev.to/JS] [Avoiding UI Regressions With Jest](https://dev.to/woovi/avoiding-ui-regressions-with-jest-49f3)
 - [Lifehacker] [All the Ways You Didn’t Know You Could Raise Your Credit Score](https://lifehacker.com/all-the-ways-you-didn-t-know-you-could-raise-your-credi-1850192800)
 - [Lifehacker] [Play ‘Run Until’ to Stay Motivated During Your Workout](https://lifehacker.com/play-run-until-to-stay-motivated-during-your-workout-1850192880)
 - [Lifehacker] [Grate Frozen Chili Peppers Directly Into Your Food](https://lifehacker.com/grate-frozen-chili-peppers-directly-into-your-food-1850192795)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Household Products Can Sub for WD-40](https://lifehacker.com/these-household-products-can-sub-for-wd-40-1850176503)
 - [Lifehacker] [The Happiest U.S. Cities Right Now](https://lifehacker.com/the-happiest-u-s-cities-right-now-1850176534)
 - [Lifehacker] [How to Remove Built-Up Corrosion on Your Car&#39;s Battery Terminals](https://lifehacker.com/how-to-remove-built-up-corrosion-on-your-cars-battery-t-1850176538)
-- [Lifehacker] [How to Get Wrinkles Out of Your Clothes Without an Iron or Dryer](https://lifehacker.com/how-to-get-wrinkles-out-of-your-clothes-without-an-iron-1850176547)
-- [Lifehacker] [Here&#39;s the Deal With &#39;Clean Energy&#39; Charging](https://lifehacker.com/heres-the-deal-with-clean-energy-charging-1850179710)
-- [Lifehacker] [The Easiest Way to Keep Your Gardening Tools Sharp and Clean](https://lifehacker.com/the-easiest-way-to-keep-your-gardening-tools-sharp-and-1850185955)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get Wrinkles Out of Your Clothes Without an Iron or Dryer](https://lifehacker.com/how-to-get-wrinkles-out-of-your-clothes-without-an-iron-1850176547)<!-- TECH-POSTS:END -->
 
 ---
 
