@@ -23,9 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Weekly web development resources #139](https://dev.to/vincenius/weekly-web-development-resources-139-42j6)
 - [Dev.to/JS] [Using array spreads to prevent array overriding](https://dev.to/bomoniyi/using-array-spreads-to-prevent-array-overriding-2c6f)
 - [Dev.to/JS] [How to Verify AI Results on Blockchain](https://dev.to/scofieldidehen/how-to-verify-ai-results-on-blockchain-1n2d)
-- [Dev.to/JS] [Critical error in Java](https://dev.to/mluqmansarewar/critical-error-in-java-34ie)
 - [Dev.to/JS] [3 ways to turn String to Array in JavaScript, and the fastest one is...](https://dev.to/hankxdev/3-ways-to-turn-string-to-array-in-javascript-and-the-fastest-one-is-39ih)
 - [Dev.to/JS] [Resources You Should Follow to Stay updated with Latest Tech Trends](https://dev.to/patilganesh1010/resources-you-should-follow-to-stay-updated-with-latest-tech-trends-1dmf)
 - [Dev.to/JS] [Generics in typescript](https://dev.to/iamndeleva/generics-in-typescript-hjj)
