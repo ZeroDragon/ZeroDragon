@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Resources You Should Follow to Stay updated with Latest Tech Trends](https://dev.to/patilganesh1010/resources-you-should-follow-to-stay-updated-with-latest-tech-trends-1dmf)
+- [Dev.to/JS] [Generics in typescript](https://dev.to/iamndeleva/generics-in-typescript-hjj)
 - [Dev.to/JS] [Building Better React Components with useState: An In-Depth Understanding](https://dev.to/ranjittherapids/building-better-react-components-with-usestate-an-in-depth-understanding-4fph)
 - [Dev.to/JS] [JavaScript Sets](https://dev.to/abdelrahmanm18/javascript-sets-5g4f)
 - [Dev.to/JS] [🔥7 Mind-Blowing React Libraries That Will Turn Your Coding Experience Into an Epic Adventure!🔥](https://dev.to/mnq11/7-mind-blowing-react-libraries-that-will-turn-your-coding-experience-into-an-epic-adventure-2hnb)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Spectacular Vertical Gardens You Can Grow in Small Spaces](https://lifehacker.com/11-spectacular-vertical-gardens-you-can-grow-in-small-s-1850197734)
 - [Dev.to/JS] [Is global data bad?](https://dev.to/tahazsh/is-global-data-bad-4f5d)
 - [Dev.to/JS] [How NodeJS Interacts with the C/C++ language](https://dev.to/jrmatanda/how-nodejs-interacts-with-the-cc-language-11n0)
-- [Dev.to/JS] [ChatGPT - Complex Coding Challenges: 6 KYU](https://dev.to/damiensedgwick/chatgpt-complex-coding-challenges-part-3-27m2)
-- [Dev.to/JS] [Tabs II - JS](https://dev.to/986913/tabs-ii-js-34hd)
 - [Lifehacker] [When &lpar;and How&rpar; to Disinfect Your Carpet](https://lifehacker.com/when-and-how-to-disinfect-your-carpet-1850197247)
 - [Lifehacker] [All the New Android Features Coming in the Next Pixel Drop](https://lifehacker.com/all-the-new-android-features-coming-in-the-next-pixel-d-1850197626)
 - [Lifehacker] [&#39;Cities: Skylines 2&#39; and 9 More Immersive World-Building Games Coming This Year](https://lifehacker.com/cities-skylines-2-and-9-more-immersive-world-building-1850197796)
