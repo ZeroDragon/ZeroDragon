@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to work javascript file in flutter web ?](https://dev.to/esmaeilahmadipour/how-to-work-javascript-file-in-flutter-web--1ak5)
+- [Lifehacker] [How to Make Truly Great Irish Soda Bread](https://lifehacker.com/how-to-make-truly-great-irish-soda-bread-1850203472)
+- [Dev.to/JS] [10 Best React Libraries for Building User Interfaces](https://dev.to/jsandaruwan/10-best-react-libraries-for-building-user-interfaces-dg9)
+- [Dev.to/JS] [Build on Flow: JS Testing - 1. Introduction](https://dev.to/onflow/build-on-flow-js-testing-1-introduction-2g16)
+- [Dev.to/JS] [Como criar requisição de Crud Básico em Javascript usando Fetch API](https://dev.to/tgmarinhodev/como-criar-requisicao-de-crud-basico-em-javascript-usando-fetch-api-22b9)
+- [Lifehacker] [Your Student Loan Payment Might Be Dropping](https://lifehacker.com/your-student-loan-payment-might-be-dropping-1850203158)
 - [Dev.to/JS] [Testmail.app visual inbox](https://dev.to/annisearif/testmailapp-visual-inbox-for-testmailapp-open-source-temp-mail-unlimited-temporary-mail-temp-mail-test-mail-33f7)
 - [Dev.to/JS] [Template Language for JSON data](https://dev.to/koladilip/template-language-for-json-data-4g6n)
 - [Dev.to/JS] [Deploy express server in 8 simple step using firebase](https://dev.to/iamazeez/deploy-express-server-in-8-simple-step-using-firebase-37l5)
@@ -32,12 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Regex? JavaScript regular expressions in 5 minutes](https://dev.to/educative/what-is-regex-javascript-regular-expressions-in-5-minutes-2b8o)
 - [Lifehacker] [Discord Integration, and More New Features Coming to Your PS5](https://lifehacker.com/discord-integration-and-more-new-features-coming-to-yo-1850202421)
 - [Dev.to/JS] [If anybody is kind here please any give a second hand laptop I will that money when get tech job For me...](https://dev.to/annaparthicode/if-anybody-is-kind-here-please-any-give-a-second-hand-laptop-i-will-that-money-when-get-tech-job-for-me-2fnb)
-- [Dev.to/JS] [Accessing Data from API](https://dev.to/oluwatrillions/accessing-data-from-api-12mi)
-- [Dev.to/JS] [🚀Learning about the !! operator in Javascript](https://dev.to/ypdev19/learning-about-the-operator-in-javascript-2c0o)
 - [Lifehacker] [How to Spot a Fine Motor Delay in Your Child](https://lifehacker.com/how-to-spot-a-fine-motor-delay-in-your-child-1850200747)
-- [Dev.to/JS] [Subscribing to server sent events with Angular](https://dev.to/icolomina/subscribing-to-server-sent-events-with-angular-ee8)
 - [Lifehacker] [The Best Pizza Deals For Pi Day](https://lifehacker.com/the-best-pizza-deals-for-pi-day-1850200301)
-- [Dev.to/JS] [React Form Validations Made Easy — The Ultimate Cheat Sheet](https://dev.to/nitinfab/react-form-validations-made-easy-the-ultimate-cheat-sheet-1f33)
 - [Lifehacker] [Why All Your Love is Unrequited &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-all-your-love-is-unrequited-and-what-to-do-about-i-1850199210)
 - [Lifehacker] [What&#39;s Your Favorite Way to Reuse a Little Plastic Pizza Table?](https://lifehacker.com/whats-your-favorite-way-to-reuse-a-little-plastic-pizza-1850199512)
 - [Lifehacker] [All the Things Renters Insurance Doesn&#39;t Cover](https://lifehacker.com/all-the-things-renters-insurance-doesnt-cover-1850198661)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need a Desk Lemon](https://lifehacker.com/you-need-a-desk-lemon-1850193451)
 - [Lifehacker] [How to Teach Kids to Better Manage Life’s Disappointments](https://lifehacker.com/how-to-teach-kids-to-better-manage-life-s-disappointmen-1850193102)
 - [Lifehacker] [8 Ways You Can Turn Your Smartphone Into a Dumbphone](https://lifehacker.com/8-ways-you-can-turn-your-smartphone-into-a-dumbphone-1850192492)
-- [Lifehacker] [All the Ways You Didn’t Know You Could Raise Your Credit Score](https://lifehacker.com/all-the-ways-you-didn-t-know-you-could-raise-your-credi-1850192800)
-- [Lifehacker] [Play ‘Run Until’ to Stay Motivated During Your Workout](https://lifehacker.com/play-run-until-to-stay-motivated-during-your-workout-1850192880)
-- [Lifehacker] [Grate Frozen Chili Peppers Directly Into Your Food](https://lifehacker.com/grate-frozen-chili-peppers-directly-into-your-food-1850192795)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Ways You Didn’t Know You Could Raise Your Credit Score](https://lifehacker.com/all-the-ways-you-didn-t-know-you-could-raise-your-credi-1850192800)<!-- TECH-POSTS:END -->
 
 ---
 
