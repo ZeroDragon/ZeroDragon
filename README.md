@@ -23,21 +23,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Maybe You Should Put Your Partner on a &#39;Performance Improvement Plan&#39;](https://lifehacker.com/maybe-you-should-put-your-partner-on-a-performance-impr-1850199254)
+- [Dev.to/JS] [Nx 15.8 - Rust Hasher, Nx Console for IntelliJ, Deno, Node and Storybook](https://dev.to/nx/nx-158-rust-hasher-nx-console-for-intellij-deno-node-and-storybook-27ng)
+- [Lifehacker] [14 Things You Should Never Do to Your Lawn](https://lifehacker.com/14-things-you-should-never-do-to-your-lawn-1850203382)
+- [Dev.to/JS] [Criando Form genérico no CrazyStack Next.js](https://dev.to/devdoido/criando-form-generico-no-crazystack-nextjs-2kb8)
+- [Dev.to/JS] [Tela de login no CrazyStack Next.js](https://dev.to/devdoido/tela-de-login-no-crazystack-nextjs-3ml7)
+- [Dev.to/JS] [React Query no CrazyStack Next.js](https://dev.to/devdoido/react-query-no-crazystack-nextjs-18c)
+- [Dev.to/JS] [Configuração do Plop.js no CrazyStack Next.js](https://dev.to/devdoido/configuracao-do-plopjs-no-crazystack-nextjs-30ab)
+- [Dev.to/JS] [Introdução ao Chakra UI no CrazyStack Next.js](https://dev.to/devdoido/introducao-ao-chakra-ui-no-crazystack-nextjs-17f6)
+- [Dev.to/JS] [Configuração de PWA no CrazyStack Next.js](https://dev.to/devdoido/configuracao-de-pwa-no-crazystack-nextjs-18i7)
+- [Dev.to/JS] [Criação do projeto e primeiro teste unitário no CrazyStack Next.js](https://dev.to/devdoido/criacao-do-projeto-e-primeiro-teste-unitario-no-crazystack-nextjs-4lm2)
+- [Lifehacker] [How TikTok’s ‘Audio Torture’ Actually Works](https://lifehacker.com/how-tiktok-s-audio-torture-actually-works-1850203899)
 - [Dev.to/JS] [How to work javascript file in flutter web ?](https://dev.to/esmaeilahmadipour/how-to-work-javascript-file-in-flutter-web--1ak5)
 - [Lifehacker] [How to Make Truly Great Irish Soda Bread](https://lifehacker.com/how-to-make-truly-great-irish-soda-bread-1850203472)
 - [Dev.to/JS] [10 Best React Libraries for Building User Interfaces](https://dev.to/jsandaruwan/10-best-react-libraries-for-building-user-interfaces-dg9)
 - [Dev.to/JS] [Build on Flow: JS Testing - 1. Introduction](https://dev.to/onflow/build-on-flow-js-testing-1-introduction-2g16)
 - [Dev.to/JS] [Como criar requisição de Crud Básico em Javascript usando Fetch API](https://dev.to/tgmarinhodev/como-criar-requisicao-de-crud-basico-em-javascript-usando-fetch-api-22b9)
 - [Lifehacker] [Your Student Loan Payment Might Be Dropping](https://lifehacker.com/your-student-loan-payment-might-be-dropping-1850203158)
-- [Dev.to/JS] [Testmail.app visual inbox](https://dev.to/annisearif/testmailapp-visual-inbox-for-testmailapp-open-source-temp-mail-unlimited-temporary-mail-temp-mail-test-mail-33f7)
-- [Dev.to/JS] [Template Language for JSON data](https://dev.to/koladilip/template-language-for-json-data-4g6n)
-- [Dev.to/JS] [Deploy express server in 8 simple step using firebase](https://dev.to/iamazeez/deploy-express-server-in-8-simple-step-using-firebase-37l5)
-- [Dev.to/JS] [JSTools Weekly —✨2023#9: ai2ui, AI Component Generator with ChatGPT](https://dev.to/jstoolsweekly/jstools-weekly-20239-ai2ui-ai-component-generator-with-chatgpt-33gj)
-- [Dev.to/JS] [JSTools Weekly —🔥2023#9: Docus: Write beautiful docs with Nuxt &amp; Markdown](https://dev.to/jstoolsweekly/jstools-weekly-20239-docus-write-beautiful-docs-with-nuxt-markdown-3m24)
-- [Dev.to/JS] [JSTools Weekly —⭐2023#9: Prisma 4.11, Remix 1.14, Qwik 0.20](https://dev.to/jstoolsweekly/jstools-weekly-20239-prisma-411-remix-114-qwik-020-54ep)
-- [Dev.to/JS] [What is Regex? JavaScript regular expressions in 5 minutes](https://dev.to/educative/what-is-regex-javascript-regular-expressions-in-5-minutes-2b8o)
 - [Lifehacker] [Discord Integration, and More New Features Coming to Your PS5](https://lifehacker.com/discord-integration-and-more-new-features-coming-to-yo-1850202421)
-- [Dev.to/JS] [If anybody is kind here please any give a second hand laptop I will that money when get tech job For me...](https://dev.to/annaparthicode/if-anybody-is-kind-here-please-any-give-a-second-hand-laptop-i-will-that-money-when-get-tech-job-for-me-2fnb)
 - [Lifehacker] [How to Spot a Fine Motor Delay in Your Child](https://lifehacker.com/how-to-spot-a-fine-motor-delay-in-your-child-1850200747)
 - [Lifehacker] [The Best Pizza Deals For Pi Day](https://lifehacker.com/the-best-pizza-deals-for-pi-day-1850200301)
 - [Lifehacker] [Why All Your Love is Unrequited &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-all-your-love-is-unrequited-and-what-to-do-about-i-1850199210)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do These Things Now to Prepare for Daylight Saving Time](https://lifehacker.com/do-these-things-now-to-prepare-for-daylight-saving-time-1850194365)
 - [Lifehacker] [Fried Onions Belong on Your Spring Vegetables](https://lifehacker.com/fried-onions-belong-on-your-spring-vegetables-1850193639)
 - [Lifehacker] [13 of the Best Movies the Oscars Snubbed This Year](https://lifehacker.com/13-of-the-best-movies-the-oscars-snubbed-this-year-1850190594)
-- [Lifehacker] [You Need a Desk Lemon](https://lifehacker.com/you-need-a-desk-lemon-1850193451)
-- [Lifehacker] [How to Teach Kids to Better Manage Life’s Disappointments](https://lifehacker.com/how-to-teach-kids-to-better-manage-life-s-disappointmen-1850193102)
-- [Lifehacker] [8 Ways You Can Turn Your Smartphone Into a Dumbphone](https://lifehacker.com/8-ways-you-can-turn-your-smartphone-into-a-dumbphone-1850192492)
-- [Lifehacker] [All the Ways You Didn’t Know You Could Raise Your Credit Score](https://lifehacker.com/all-the-ways-you-didn-t-know-you-could-raise-your-credi-1850192800)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Need a Desk Lemon](https://lifehacker.com/you-need-a-desk-lemon-1850193451)<!-- TECH-POSTS:END -->
 
 ---
 
