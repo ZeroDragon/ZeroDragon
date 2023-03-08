@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Try DuckDuckGo&#39;s AI Search Right Now](https://lifehacker.com/you-can-try-duckduckgos-ai-search-right-now-1850203857)
+- [Lifehacker] [Don’t Fall for This Fake Parking Ticket Scam](https://lifehacker.com/don-t-fall-for-this-fake-parking-ticket-scam-1850204139)
+- [Dev.to/JS] [Meet banditypes — the smallest TypeScript validation library](https://dev.to/thoughtspile/meet-banditypes-the-smallest-typescript-validation-library-58go)
 - [Lifehacker] [Maybe You Should Put Your Partner on a &#39;Performance Improvement Plan&#39;](https://lifehacker.com/maybe-you-should-put-your-partner-on-a-performance-impr-1850199254)
 - [Dev.to/JS] [Nx 15.8 - Rust Hasher, Nx Console for IntelliJ, Deno, Node and Storybook](https://dev.to/nx/nx-158-rust-hasher-nx-console-for-intellij-deno-node-and-storybook-27ng)
 - [Lifehacker] [14 Things You Should Never Do to Your Lawn](https://lifehacker.com/14-things-you-should-never-do-to-your-lawn-1850203382)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Truly Great Irish Soda Bread](https://lifehacker.com/how-to-make-truly-great-irish-soda-bread-1850203472)
 - [Dev.to/JS] [10 Best React Libraries for Building User Interfaces](https://dev.to/jsandaruwan/10-best-react-libraries-for-building-user-interfaces-dg9)
 - [Dev.to/JS] [Build on Flow: JS Testing - 1. Introduction](https://dev.to/onflow/build-on-flow-js-testing-1-introduction-2g16)
-- [Dev.to/JS] [Como criar requisição de Crud Básico em Javascript usando Fetch API](https://dev.to/tgmarinhodev/como-criar-requisicao-de-crud-basico-em-javascript-usando-fetch-api-22b9)
 - [Lifehacker] [Your Student Loan Payment Might Be Dropping](https://lifehacker.com/your-student-loan-payment-might-be-dropping-1850203158)
 - [Lifehacker] [Discord Integration, and More New Features Coming to Your PS5](https://lifehacker.com/discord-integration-and-more-new-features-coming-to-yo-1850202421)
 - [Lifehacker] [How to Spot a Fine Motor Delay in Your Child](https://lifehacker.com/how-to-spot-a-fine-motor-delay-in-your-child-1850200747)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Get Rid of Your Popcorn Ceiling](https://lifehacker.com/the-easiest-ways-to-get-rid-of-your-popcorn-ceiling-1850195900)
 - [Lifehacker] [Make Creamier, Spicier Scrambled Eggs With Buffalo Sauce](https://lifehacker.com/make-creamier-spicier-scrambled-eggs-with-buffalo-sauc-1850194283)
 - [Lifehacker] [Do These Things Now to Prepare for Daylight Saving Time](https://lifehacker.com/do-these-things-now-to-prepare-for-daylight-saving-time-1850194365)
-- [Lifehacker] [Fried Onions Belong on Your Spring Vegetables](https://lifehacker.com/fried-onions-belong-on-your-spring-vegetables-1850193639)
-- [Lifehacker] [13 of the Best Movies the Oscars Snubbed This Year](https://lifehacker.com/13-of-the-best-movies-the-oscars-snubbed-this-year-1850190594)
-- [Lifehacker] [You Need a Desk Lemon](https://lifehacker.com/you-need-a-desk-lemon-1850193451)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Fried Onions Belong on Your Spring Vegetables](https://lifehacker.com/fried-onions-belong-on-your-spring-vegetables-1850193639)<!-- TECH-POSTS:END -->
 
 ---
 
