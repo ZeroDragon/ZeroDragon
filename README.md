@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Testmail.app visual inbox](https://dev.to/annisearif/testmailapp-visual-inbox-for-testmailapp-open-source-temp-mail-unlimited-temporary-mail-temp-mail-test-mail-33f7)
+- [Dev.to/JS] [Template Language for JSON data](https://dev.to/koladilip/template-language-for-json-data-4g6n)
+- [Dev.to/JS] [Deploy express server in 8 simple step using firebase](https://dev.to/iamazeez/deploy-express-server-in-8-simple-step-using-firebase-37l5)
+- [Dev.to/JS] [JSTools Weekly —✨2023#9: ai2ui, AI Component Generator with ChatGPT](https://dev.to/jstoolsweekly/jstools-weekly-20239-ai2ui-ai-component-generator-with-chatgpt-33gj)
+- [Dev.to/JS] [JSTools Weekly —🔥2023#9: Docus: Write beautiful docs with Nuxt &amp; Markdown](https://dev.to/jstoolsweekly/jstools-weekly-20239-docus-write-beautiful-docs-with-nuxt-markdown-3m24)
+- [Dev.to/JS] [JSTools Weekly —⭐2023#9: Prisma 4.11, Remix 1.14, Qwik 0.20](https://dev.to/jstoolsweekly/jstools-weekly-20239-prisma-411-remix-114-qwik-020-54ep)
+- [Dev.to/JS] [What is Regex? JavaScript regular expressions in 5 minutes](https://dev.to/educative/what-is-regex-javascript-regular-expressions-in-5-minutes-2b8o)
+- [Lifehacker] [Discord Integration, and More New Features Coming to Your PS5](https://lifehacker.com/discord-integration-and-more-new-features-coming-to-yo-1850202421)
 - [Dev.to/JS] [If anybody is kind here please any give a second hand laptop I will that money when get tech job For me...](https://dev.to/annaparthicode/if-anybody-is-kind-here-please-any-give-a-second-hand-laptop-i-will-that-money-when-get-tech-job-for-me-2fnb)
 - [Dev.to/JS] [Accessing Data from API](https://dev.to/oluwatrillions/accessing-data-from-api-12mi)
 - [Dev.to/JS] [🚀Learning about the !! operator in Javascript](https://dev.to/ypdev19/learning-about-the-operator-in-javascript-2c0o)
@@ -30,17 +38,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Subscribing to server sent events with Angular](https://dev.to/icolomina/subscribing-to-server-sent-events-with-angular-ee8)
 - [Lifehacker] [The Best Pizza Deals For Pi Day](https://lifehacker.com/the-best-pizza-deals-for-pi-day-1850200301)
 - [Dev.to/JS] [React Form Validations Made Easy — The Ultimate Cheat Sheet](https://dev.to/nitinfab/react-form-validations-made-easy-the-ultimate-cheat-sheet-1f33)
-- [Dev.to/JS] [How to make button to be visible whole time and not to work only on click?](https://dev.to/tasospy505/how-to-make-button-to-be-visible-whole-time-and-not-to-work-only-on-click-2d20)
 - [Lifehacker] [Why All Your Love is Unrequited &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-all-your-love-is-unrequited-and-what-to-do-about-i-1850199210)
-- [Dev.to/JS] [JavaScript Console Methods: Beyond console.log&lpar;&rpar;](https://dev.to/danireptor/javascript-console-methods-beyond-consolelog-4m64)
 - [Lifehacker] [What&#39;s Your Favorite Way to Reuse a Little Plastic Pizza Table?](https://lifehacker.com/whats-your-favorite-way-to-reuse-a-little-plastic-pizza-1850199512)
-- [Dev.to/JS] [Building Applications with React](https://dev.to/mikacodez/building-applications-with-react-355b)
 - [Lifehacker] [All the Things Renters Insurance Doesn&#39;t Cover](https://lifehacker.com/all-the-things-renters-insurance-doesnt-cover-1850198661)
-- [Dev.to/JS] [Maximum subarray](https://dev.to/lausuarez02/maximum-subarray-2oaj)
-- [Dev.to/JS] [Comparing ReactJS and Laravel: Understanding the Differences in Purpose and Functionality](https://dev.to/elmonickcool/comparing-reactjs-and-laravel-understanding-the-differences-in-purpose-and-functionality-5e3a)
 - [Lifehacker] [18 Must-Play Vintage Games on Nintendo Switch Online](https://lifehacker.com/18-must-play-vintage-games-on-nintendo-switch-online-1850125303)
-- [Dev.to/JS] [A Musician&#39;s Guide to React](https://dev.to/sjamescarter/a-musicians-guide-to-react-2g9i)
-- [Dev.to/JS] [Why is Elm such a delightful programming language?](https://dev.to/marciofrayze/why-is-elm-such-a-delightful-programming-language-2em8)
 - [Lifehacker] [15 Ways You Should Be Eating Whipped Cream &lpar;but Aren’t, Sadly&rpar;](https://lifehacker.com/15-ways-you-should-be-eating-whipped-cream-but-aren-t-1850195209)
 - [Lifehacker] [The Recruiting Buzzwords Every Job Seeker Should Know](https://lifehacker.com/the-recruiting-buzzwords-every-job-seeker-should-know-1850193599)
 - [Lifehacker] [The Best &#39;Mario Day&#39; Deals Nintendo Has to Offer](https://lifehacker.com/the-best-mario-day-deals-nintendo-has-to-offer-1850199311)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 Ways You Can Turn Your Smartphone Into a Dumbphone](https://lifehacker.com/8-ways-you-can-turn-your-smartphone-into-a-dumbphone-1850192492)
 - [Lifehacker] [All the Ways You Didn’t Know You Could Raise Your Credit Score](https://lifehacker.com/all-the-ways-you-didn-t-know-you-could-raise-your-credi-1850192800)
 - [Lifehacker] [Play ‘Run Until’ to Stay Motivated During Your Workout](https://lifehacker.com/play-run-until-to-stay-motivated-during-your-workout-1850192880)
-- [Lifehacker] [Grate Frozen Chili Peppers Directly Into Your Food](https://lifehacker.com/grate-frozen-chili-peppers-directly-into-your-food-1850192795)
-- [Lifehacker] [Why You Need a Little Spray Bottle on Your Bar Cart](https://lifehacker.com/why-you-need-a-little-spray-bottle-on-your-bar-cart-1850193174)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Grate Frozen Chili Peppers Directly Into Your Food](https://lifehacker.com/grate-frozen-chili-peppers-directly-into-your-food-1850192795)<!-- TECH-POSTS:END -->
 
 ---
 
