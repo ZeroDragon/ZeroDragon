@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Choosing The Best Programming Language For Beginners](https://dev.to/devleader/choosing-the-best-programming-language-for-beginners-2i7j)
+- [Lifehacker] [The Recruiting Buzzwords Every Job Seeker Should Know](https://lifehacker.com/the-recruiting-buzzwords-every-job-seeker-should-know-1850193599)
+- [Dev.to/JS] [Redirects in Payload — Retaining SEO Value and Avoiding 404s](https://dev.to/payloadcms/redirects-in-payload-retaining-seo-value-and-avoiding-404s-23ed)
 - [Dev.to/JS] [Ecmascript 6: Uma introdução](https://dev.to/ramonborges15/ecmascript-6-uma-introducao-35fb)
 - [Dev.to/JS] [Svelte or React: Which Framework is Best for Your Next Project?](https://dev.to/likimobile/svelte-or-react-which-framework-is-best-for-your-next-project-1pi4)
 - [Dev.to/JS] [ReactJS e2e testing with Puppeteer](https://dev.to/mohammadfaisal/reactjs-e2e-testing-with-puppeteer-1ncn)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to develop a UI and an API at the same time, with no headaches](https://dev.to/metal3d/how-to-develop-a-ui-and-an-api-at-the-same-time-with-no-headaches-1gol)
 - [Dev.to/JS] [Paracetamol.ts💊| #28: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-28-explica-este-codigo-typescript-2odb)
 - [Dev.to/JS] [Writing an action for Ideckia](https://dev.to/josuigoa/writing-an-action-for-ideckia-1pki)
-- [Dev.to/JS] [Weekly web development resources #139](https://dev.to/vincenius/weekly-web-development-resources-139-42j6)
-- [Dev.to/JS] [Using array spreads to prevent array overriding](https://dev.to/bomoniyi/using-array-spreads-to-prevent-array-overriding-2c6f)
 - [Lifehacker] [The Best &#39;Mario Day&#39; Deals Nintendo Has to Offer](https://lifehacker.com/the-best-mario-day-deals-nintendo-has-to-offer-1850199311)
 - [Lifehacker] [You Can Stop Instagram From Sharing Your Posts on Facebook](https://lifehacker.com/you-can-stop-instagram-from-sharing-your-posts-on-faceb-1850199241)
 - [Lifehacker] [11 Spectacular Vertical Gardens You Can Grow in Small Spaces](https://lifehacker.com/11-spectacular-vertical-gardens-you-can-grow-in-small-s-1850197734)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Be a ‘Digital Nomad’ When You Have Kids](https://lifehacker.com/how-to-be-a-digital-nomad-when-you-have-kids-1850191095)
 - [Lifehacker] [Get Violent With Your Cake Batter](https://lifehacker.com/get-violent-with-your-cake-batter-1850185920)
 - [Lifehacker] [How the End of Medicaid Continuous Enrollment Could Affect You](https://lifehacker.com/how-the-end-of-medicaid-continuous-enrollment-could-aff-1850186427)
-- [Lifehacker] [The 7 Deadly Sins of Giving First Aid](https://lifehacker.com/the-7-deadly-sins-of-giving-first-aid-1850191482)
-- [Lifehacker] [22 Things You Should’ve Learned in High School &lpar;and Where to Learn Them Now&rpar;](https://lifehacker.com/22-things-you-should-ve-learned-in-high-school-and-whe-1850185124)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 7 Deadly Sins of Giving First Aid](https://lifehacker.com/the-7-deadly-sins-of-giving-first-aid-1850191482)<!-- TECH-POSTS:END -->
 
 ---
 
