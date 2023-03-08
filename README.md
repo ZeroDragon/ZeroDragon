@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.ts💊| #28: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-28-explica-este-codigo-typescript-2odb)
+- [Dev.to/JS] [Writing an action for Ideckia](https://dev.to/josuigoa/writing-an-action-for-ideckia-1pki)
 - [Dev.to/JS] [Weekly web development resources #139](https://dev.to/vincenius/weekly-web-development-resources-139-42j6)
 - [Dev.to/JS] [Using array spreads to prevent array overriding](https://dev.to/bomoniyi/using-array-spreads-to-prevent-array-overriding-2c6f)
 - [Dev.to/JS] [How to Verify AI Results on Blockchain](https://dev.to/scofieldidehen/how-to-verify-ai-results-on-blockchain-1n2d)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Sets](https://dev.to/abdelrahmanm18/javascript-sets-5g4f)
 - [Dev.to/JS] [🔥7 Mind-Blowing React Libraries That Will Turn Your Coding Experience Into an Epic Adventure!🔥](https://dev.to/mnq11/7-mind-blowing-react-libraries-that-will-turn-your-coding-experience-into-an-epic-adventure-2hnb)
 - [Dev.to/JS] [🌎🚀 Error Handling in Web Application](https://dev.to/dhrn/error-handling-in-web-app-4276)
-- [Dev.to/JS] [Eseguire test unitari su VanillaJS](https://dev.to/ieeah/eseguire-test-unitari-su-vanillajs-453o)
-- [Dev.to/JS] [How to create and publish a TypeScript library with ease](https://dev.to/amelspahic/how-to-create-and-publish-a-typescript-library-with-ease-29j9)
 - [Lifehacker] [The Best &#39;Mario Day&#39; Deals Nintendo Has to Offer](https://lifehacker.com/the-best-mario-day-deals-nintendo-has-to-offer-1850199311)
 - [Lifehacker] [You Can Stop Instagram From Sharing Your Posts on Facebook](https://lifehacker.com/you-can-stop-instagram-from-sharing-your-posts-on-faceb-1850199241)
 - [Lifehacker] [11 Spectacular Vertical Gardens You Can Grow in Small Spaces](https://lifehacker.com/11-spectacular-vertical-gardens-you-can-grow-in-small-s-1850197734)
