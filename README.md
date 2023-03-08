@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ReactJS e2e testing with Puppeteer](https://dev.to/mohammadfaisal/reactjs-e2e-testing-with-puppeteer-1ncn)
+- [Dev.to/JS] [Resolvendo problemas no HackeRank: Corrida de obstáculos!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerank-corrida-de-obstaculos-1g2i)
 - [Dev.to/JS] [Unlocking the Secrets to Success - How to Thrive as a Technical Writer and Earn a Living](https://dev.to/andrewbaisden/unlocking-the-secrets-to-success-how-to-thrive-as-a-technical-writer-and-earn-a-living-5epl)
 - [Dev.to/JS] [10 repositories to star if you are a Javascript developer](https://dev.to/tejakummarikuntla/10-repositories-to-star-if-you-are-a-javascript-developer-40aj)
 - [Dev.to/JS] [MelbJS March 2023 notes](https://dev.to/cultureamp/melbjs-march-2023-notes-4nli)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using array spreads to prevent array overriding](https://dev.to/bomoniyi/using-array-spreads-to-prevent-array-overriding-2c6f)
 - [Dev.to/JS] [How to Verify AI Results on Blockchain](https://dev.to/scofieldidehen/how-to-verify-ai-results-on-blockchain-1n2d)
 - [Dev.to/JS] [3 ways to turn String to Array in JavaScript, and the fastest one is...](https://dev.to/hankxdev/3-ways-to-turn-string-to-array-in-javascript-and-the-fastest-one-is-39ih)
-- [Dev.to/JS] [Resources You Should Follow to Stay updated with Latest Tech Trends](https://dev.to/patilganesh1010/resources-you-should-follow-to-stay-updated-with-latest-tech-trends-1dmf)
-- [Dev.to/JS] [Generics in typescript](https://dev.to/iamndeleva/generics-in-typescript-hjj)
 - [Lifehacker] [The Best &#39;Mario Day&#39; Deals Nintendo Has to Offer](https://lifehacker.com/the-best-mario-day-deals-nintendo-has-to-offer-1850199311)
 - [Lifehacker] [You Can Stop Instagram From Sharing Your Posts on Facebook](https://lifehacker.com/you-can-stop-instagram-from-sharing-your-posts-on-faceb-1850199241)
 - [Lifehacker] [11 Spectacular Vertical Gardens You Can Grow in Small Spaces](https://lifehacker.com/11-spectacular-vertical-gardens-you-can-grow-in-small-s-1850197734)
