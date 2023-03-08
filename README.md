@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🔥7 Mind-Blowing React Libraries That Will Turn Your Coding Experience Into an Epic Adventure!🔥](https://dev.to/mnq11/7-mind-blowing-react-libraries-that-will-turn-your-coding-experience-into-an-epic-adventure-2hnb)
+- [Dev.to/JS] [🌎🚀 Error Handling in Web Application](https://dev.to/dhrn/error-handling-in-web-app-4276)
 - [Dev.to/JS] [Eseguire test unitari su VanillaJS](https://dev.to/ieeah/eseguire-test-unitari-su-vanillajs-453o)
 - [Dev.to/JS] [How to create and publish a TypeScript library with ease](https://dev.to/amelspahic/how-to-create-and-publish-a-typescript-library-with-ease-29j9)
 - [Dev.to/JS] [Building a Quiz App with Vuejs &amp; Pinia](https://dev.to/andrewzach/building-a-quiz-app-with-vuejs-pinia-12d6)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tabs II - JS](https://dev.to/986913/tabs-ii-js-34hd)
 - [Dev.to/JS] [best link](https://dev.to/hicham755t/best-link-4126)
 - [Dev.to/JS] [React Custom Hooks: Reusable and Efficient Stateful Logic](https://dev.to/judeebekes67/react-custom-hooks-reusable-and-efficient-stateful-logic-4nja)
-- [Dev.to/JS] [Weird Things about the Internet and lies about JavaScript](https://dev.to/adamaslan/weird-things-about-the-internet-and-lies-about-javascript-567j)
-- [Dev.to/JS] [Mockando a propriedade window.screen com Jest](https://dev.to/ronniegchagas/mockando-a-propriedade-windowscreen-com-jest-8fo)
 - [Lifehacker] [When &lpar;and How&rpar; to Disinfect Your Carpet](https://lifehacker.com/when-and-how-to-disinfect-your-carpet-1850197247)
 - [Lifehacker] [All the New Android Features Coming in the Next Pixel Drop](https://lifehacker.com/all-the-new-android-features-coming-in-the-next-pixel-d-1850197626)
 - [Lifehacker] [&#39;Cities: Skylines 2&#39; and 9 More Immersive World-Building Games Coming This Year](https://lifehacker.com/cities-skylines-2-and-9-more-immersive-world-building-1850197796)
