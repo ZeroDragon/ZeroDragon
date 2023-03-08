@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Applications with React](https://dev.to/mikacodez/building-applications-with-react-355b)
+- [Lifehacker] [All the Things Renters Insurance Doesn&#39;t Cover](https://lifehacker.com/all-the-things-renters-insurance-doesnt-cover-1850198661)
+- [Dev.to/JS] [Maximum subarray](https://dev.to/lausuarez02/maximum-subarray-2oaj)
+- [Dev.to/JS] [Comparing ReactJS and Laravel: Understanding the Differences in Purpose and Functionality](https://dev.to/elmonickcool/comparing-reactjs-and-laravel-understanding-the-differences-in-purpose-and-functionality-5e3a)
 - [Lifehacker] [18 Must-Play Vintage Games on Nintendo Switch Online](https://lifehacker.com/18-must-play-vintage-games-on-nintendo-switch-online-1850125303)
 - [Dev.to/JS] [A Musician&#39;s Guide to React](https://dev.to/sjamescarter/a-musicians-guide-to-react-2g9i)
 - [Dev.to/JS] [Why is Elm such a delightful programming language?](https://dev.to/marciofrayze/why-is-elm-such-a-delightful-programming-language-2em8)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ecmascript 6: Uma introdução](https://dev.to/ramonborges15/ecmascript-6-uma-introducao-35fb)
 - [Dev.to/JS] [Svelte or React: Which Framework is Best for Your Next Project?](https://dev.to/likimobile/svelte-or-react-which-framework-is-best-for-your-next-project-1pi4)
 - [Dev.to/JS] [ReactJS e2e testing with Puppeteer](https://dev.to/mohammadfaisal/reactjs-e2e-testing-with-puppeteer-1ncn)
-- [Dev.to/JS] [Resolvendo problemas no HackeRank: Corrida de obstáculos!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerank-corrida-de-obstaculos-1g2i)
-- [Dev.to/JS] [Unlocking the Secrets to Success - How to Thrive as a Technical Writer and Earn a Living](https://dev.to/andrewbaisden/unlocking-the-secrets-to-success-how-to-thrive-as-a-technical-writer-and-earn-a-living-5epl)
-- [Dev.to/JS] [10 repositories to star if you are a Javascript developer](https://dev.to/tejakummarikuntla/10-repositories-to-star-if-you-are-a-javascript-developer-40aj)
 - [Lifehacker] [The Best &#39;Mario Day&#39; Deals Nintendo Has to Offer](https://lifehacker.com/the-best-mario-day-deals-nintendo-has-to-offer-1850199311)
 - [Lifehacker] [You Can Stop Instagram From Sharing Your Posts on Facebook](https://lifehacker.com/you-can-stop-instagram-from-sharing-your-posts-on-faceb-1850199241)
 - [Lifehacker] [11 Spectacular Vertical Gardens You Can Grow in Small Spaces](https://lifehacker.com/11-spectacular-vertical-gardens-you-can-grow-in-small-s-1850197734)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This &#39;Oscar Wordle&#39; Is the Best Way to Share Your Awards Predictions](https://lifehacker.com/this-oscar-wordle-is-the-best-way-to-share-your-awards-1850193520)
 - [Lifehacker] [Don&#39;t Rely on Your Pixel Watch to Wake You Up](https://lifehacker.com/dont-rely-on-your-pixel-watch-to-wake-you-up-1850192861)
 - [Lifehacker] [Everything You Need to Meal Prep Like a Pro](https://lifehacker.com/everything-you-need-to-meal-prep-like-a-pro-1850186840)
-- [Lifehacker] [How to Be a ‘Digital Nomad’ When You Have Kids](https://lifehacker.com/how-to-be-a-digital-nomad-when-you-have-kids-1850191095)
-- [Lifehacker] [Get Violent With Your Cake Batter](https://lifehacker.com/get-violent-with-your-cake-batter-1850185920)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Be a ‘Digital Nomad’ When You Have Kids](https://lifehacker.com/how-to-be-a-digital-nomad-when-you-have-kids-1850191095)<!-- TECH-POSTS:END -->
 
 ---
 
