@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using array spreads to prevent array overriding](https://dev.to/bomoniyi/using-array-spreads-to-prevent-array-overriding-2c6f)
+- [Dev.to/JS] [How to Verify AI Results on Blockchain](https://dev.to/scofieldidehen/how-to-verify-ai-results-on-blockchain-1n2d)
+- [Dev.to/JS] [Critical error in Java](https://dev.to/mluqmansarewar/critical-error-in-java-34ie)
+- [Dev.to/JS] [3 ways to turn String to Array in JavaScript, and the fastest one is...](https://dev.to/hankxdev/3-ways-to-turn-string-to-array-in-javascript-and-the-fastest-one-is-39ih)
 - [Dev.to/JS] [Resources You Should Follow to Stay updated with Latest Tech Trends](https://dev.to/patilganesh1010/resources-you-should-follow-to-stay-updated-with-latest-tech-trends-1dmf)
 - [Dev.to/JS] [Generics in typescript](https://dev.to/iamndeleva/generics-in-typescript-hjj)
 - [Dev.to/JS] [Building Better React Components with useState: An In-Depth Understanding](https://dev.to/ranjittherapids/building-better-react-components-with-usestate-an-in-depth-understanding-4fph)
@@ -31,13 +35,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🌎🚀 Error Handling in Web Application](https://dev.to/dhrn/error-handling-in-web-app-4276)
 - [Dev.to/JS] [Eseguire test unitari su VanillaJS](https://dev.to/ieeah/eseguire-test-unitari-su-vanillajs-453o)
 - [Dev.to/JS] [How to create and publish a TypeScript library with ease](https://dev.to/amelspahic/how-to-create-and-publish-a-typescript-library-with-ease-29j9)
-- [Dev.to/JS] [Building a Quiz App with Vuejs &amp; Pinia](https://dev.to/andrewzach/building-a-quiz-app-with-vuejs-pinia-12d6)
 - [Lifehacker] [The Best &#39;Mario Day&#39; Deals Nintendo Has to Offer](https://lifehacker.com/the-best-mario-day-deals-nintendo-has-to-offer-1850199311)
 - [Lifehacker] [You Can Stop Instagram From Sharing Your Posts on Facebook](https://lifehacker.com/you-can-stop-instagram-from-sharing-your-posts-on-faceb-1850199241)
-- [Dev.to/JS] [JavaScript Tutorial Series: Manipulating elements styles](https://dev.to/fullstackjo/javascript-tutorial-series-manipulating-elements-styles-4k0i)
 - [Lifehacker] [11 Spectacular Vertical Gardens You Can Grow in Small Spaces](https://lifehacker.com/11-spectacular-vertical-gardens-you-can-grow-in-small-s-1850197734)
-- [Dev.to/JS] [Is global data bad?](https://dev.to/tahazsh/is-global-data-bad-4f5d)
-- [Dev.to/JS] [How NodeJS Interacts with the C/C++ language](https://dev.to/jrmatanda/how-nodejs-interacts-with-the-cc-language-11n0)
 - [Lifehacker] [When &lpar;and How&rpar; to Disinfect Your Carpet](https://lifehacker.com/when-and-how-to-disinfect-your-carpet-1850197247)
 - [Lifehacker] [All the New Android Features Coming in the Next Pixel Drop](https://lifehacker.com/all-the-new-android-features-coming-in-the-next-pixel-d-1850197626)
 - [Lifehacker] [&#39;Cities: Skylines 2&#39; and 9 More Immersive World-Building Games Coming This Year](https://lifehacker.com/cities-skylines-2-and-9-more-immersive-world-building-1850197796)
