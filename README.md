@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ecmascript 6: Uma introdução](https://dev.to/ramonborges15/ecmascript-6-uma-introducao-35fb)
+- [Dev.to/JS] [Svelte or React: Which Framework is Best for Your Next Project?](https://dev.to/likimobile/svelte-or-react-which-framework-is-best-for-your-next-project-1pi4)
 - [Dev.to/JS] [ReactJS e2e testing with Puppeteer](https://dev.to/mohammadfaisal/reactjs-e2e-testing-with-puppeteer-1ncn)
 - [Dev.to/JS] [Resolvendo problemas no HackeRank: Corrida de obstáculos!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerank-corrida-de-obstaculos-1g2i)
 - [Dev.to/JS] [Unlocking the Secrets to Success - How to Thrive as a Technical Writer and Earn a Living](https://dev.to/andrewbaisden/unlocking-the-secrets-to-success-how-to-thrive-as-a-technical-writer-and-earn-a-living-5epl)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Writing an action for Ideckia](https://dev.to/josuigoa/writing-an-action-for-ideckia-1pki)
 - [Dev.to/JS] [Weekly web development resources #139](https://dev.to/vincenius/weekly-web-development-resources-139-42j6)
 - [Dev.to/JS] [Using array spreads to prevent array overriding](https://dev.to/bomoniyi/using-array-spreads-to-prevent-array-overriding-2c6f)
-- [Dev.to/JS] [How to Verify AI Results on Blockchain](https://dev.to/scofieldidehen/how-to-verify-ai-results-on-blockchain-1n2d)
-- [Dev.to/JS] [3 ways to turn String to Array in JavaScript, and the fastest one is...](https://dev.to/hankxdev/3-ways-to-turn-string-to-array-in-javascript-and-the-fastest-one-is-39ih)
 - [Lifehacker] [The Best &#39;Mario Day&#39; Deals Nintendo Has to Offer](https://lifehacker.com/the-best-mario-day-deals-nintendo-has-to-offer-1850199311)
 - [Lifehacker] [You Can Stop Instagram From Sharing Your Posts on Facebook](https://lifehacker.com/you-can-stop-instagram-from-sharing-your-posts-on-faceb-1850199241)
 - [Lifehacker] [11 Spectacular Vertical Gardens You Can Grow in Small Spaces](https://lifehacker.com/11-spectacular-vertical-gardens-you-can-grow-in-small-s-1850197734)
