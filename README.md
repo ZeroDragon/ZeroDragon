@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [If anybody is kind here please any give a second hand laptop I will that money when get tech job For me...](https://dev.to/annaparthicode/if-anybody-is-kind-here-please-any-give-a-second-hand-laptop-i-will-that-money-when-get-tech-job-for-me-2fnb)
+- [Dev.to/JS] [Accessing Data from API](https://dev.to/oluwatrillions/accessing-data-from-api-12mi)
+- [Dev.to/JS] [🚀Learning about the !! operator in Javascript](https://dev.to/ypdev19/learning-about-the-operator-in-javascript-2c0o)
+- [Lifehacker] [How to Spot a Fine Motor Delay in Your Child](https://lifehacker.com/how-to-spot-a-fine-motor-delay-in-your-child-1850200747)
+- [Dev.to/JS] [Subscribing to server sent events with Angular](https://dev.to/icolomina/subscribing-to-server-sent-events-with-angular-ee8)
 - [Lifehacker] [The Best Pizza Deals For Pi Day](https://lifehacker.com/the-best-pizza-deals-for-pi-day-1850200301)
 - [Dev.to/JS] [React Form Validations Made Easy — The Ultimate Cheat Sheet](https://dev.to/nitinfab/react-form-validations-made-easy-the-ultimate-cheat-sheet-1f33)
 - [Dev.to/JS] [How to make button to be visible whole time and not to work only on click?](https://dev.to/tasospy505/how-to-make-button-to-be-visible-whole-time-and-not-to-work-only-on-click-2d20)
@@ -37,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Musician&#39;s Guide to React](https://dev.to/sjamescarter/a-musicians-guide-to-react-2g9i)
 - [Dev.to/JS] [Why is Elm such a delightful programming language?](https://dev.to/marciofrayze/why-is-elm-such-a-delightful-programming-language-2em8)
 - [Lifehacker] [15 Ways You Should Be Eating Whipped Cream &lpar;but Aren’t, Sadly&rpar;](https://lifehacker.com/15-ways-you-should-be-eating-whipped-cream-but-aren-t-1850195209)
-- [Dev.to/JS] [Newbie in programming? Learn from others!](https://dev.to/indianboy/newbie-in-programming-learn-from-others-3j1c)
-- [Dev.to/JS] [Como usar error cause no Javascript e no Typescript](https://dev.to/laracarvalho/como-usar-error-cause-no-javascript-e-no-typescript-4kmp)
-- [Dev.to/JS] [Choosing The Best Programming Language For Beginners](https://dev.to/devleader/choosing-the-best-programming-language-for-beginners-2i7j)
 - [Lifehacker] [The Recruiting Buzzwords Every Job Seeker Should Know](https://lifehacker.com/the-recruiting-buzzwords-every-job-seeker-should-know-1850193599)
-- [Dev.to/JS] [Redirects in Payload — Retaining SEO Value and Avoiding 404s](https://dev.to/payloadcms/redirects-in-payload-retaining-seo-value-and-avoiding-404s-23ed)
 - [Lifehacker] [The Best &#39;Mario Day&#39; Deals Nintendo Has to Offer](https://lifehacker.com/the-best-mario-day-deals-nintendo-has-to-offer-1850199311)
 - [Lifehacker] [You Can Stop Instagram From Sharing Your Posts on Facebook](https://lifehacker.com/you-can-stop-instagram-from-sharing-your-posts-on-faceb-1850199241)
 - [Lifehacker] [11 Spectacular Vertical Gardens You Can Grow in Small Spaces](https://lifehacker.com/11-spectacular-vertical-gardens-you-can-grow-in-small-s-1850197734)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways You Didn’t Know You Could Raise Your Credit Score](https://lifehacker.com/all-the-ways-you-didn-t-know-you-could-raise-your-credi-1850192800)
 - [Lifehacker] [Play ‘Run Until’ to Stay Motivated During Your Workout](https://lifehacker.com/play-run-until-to-stay-motivated-during-your-workout-1850192880)
 - [Lifehacker] [Grate Frozen Chili Peppers Directly Into Your Food](https://lifehacker.com/grate-frozen-chili-peppers-directly-into-your-food-1850192795)
-- [Lifehacker] [Why You Need a Little Spray Bottle on Your Bar Cart](https://lifehacker.com/why-you-need-a-little-spray-bottle-on-your-bar-cart-1850193174)
-- [Lifehacker] [This &#39;Oscar Wordle&#39; Is the Best Way to Share Your Awards Predictions](https://lifehacker.com/this-oscar-wordle-is-the-best-way-to-share-your-awards-1850193520)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Need a Little Spray Bottle on Your Bar Cart](https://lifehacker.com/why-you-need-a-little-spray-bottle-on-your-bar-cart-1850193174)<!-- TECH-POSTS:END -->
 
 ---
 
