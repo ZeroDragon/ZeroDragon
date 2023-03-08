@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Pizza Deals For Pi Day](https://lifehacker.com/the-best-pizza-deals-for-pi-day-1850200301)
+- [Dev.to/JS] [React Form Validations Made Easy — The Ultimate Cheat Sheet](https://dev.to/nitinfab/react-form-validations-made-easy-the-ultimate-cheat-sheet-1f33)
+- [Dev.to/JS] [How to make button to be visible whole time and not to work only on click?](https://dev.to/tasospy505/how-to-make-button-to-be-visible-whole-time-and-not-to-work-only-on-click-2d20)
+- [Lifehacker] [Why All Your Love is Unrequited &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-all-your-love-is-unrequited-and-what-to-do-about-i-1850199210)
+- [Dev.to/JS] [JavaScript Console Methods: Beyond console.log&lpar;&rpar;](https://dev.to/danireptor/javascript-console-methods-beyond-consolelog-4m64)
+- [Lifehacker] [What&#39;s Your Favorite Way to Reuse a Little Plastic Pizza Table?](https://lifehacker.com/whats-your-favorite-way-to-reuse-a-little-plastic-pizza-1850199512)
 - [Dev.to/JS] [Building Applications with React](https://dev.to/mikacodez/building-applications-with-react-355b)
 - [Lifehacker] [All the Things Renters Insurance Doesn&#39;t Cover](https://lifehacker.com/all-the-things-renters-insurance-doesnt-cover-1850198661)
 - [Dev.to/JS] [Maximum subarray](https://dev.to/lausuarez02/maximum-subarray-2oaj)
@@ -36,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Choosing The Best Programming Language For Beginners](https://dev.to/devleader/choosing-the-best-programming-language-for-beginners-2i7j)
 - [Lifehacker] [The Recruiting Buzzwords Every Job Seeker Should Know](https://lifehacker.com/the-recruiting-buzzwords-every-job-seeker-should-know-1850193599)
 - [Dev.to/JS] [Redirects in Payload — Retaining SEO Value and Avoiding 404s](https://dev.to/payloadcms/redirects-in-payload-retaining-seo-value-and-avoiding-404s-23ed)
-- [Dev.to/JS] [Ecmascript 6: Uma introdução](https://dev.to/ramonborges15/ecmascript-6-uma-introducao-35fb)
-- [Dev.to/JS] [Svelte or React: Which Framework is Best for Your Next Project?](https://dev.to/likimobile/svelte-or-react-which-framework-is-best-for-your-next-project-1pi4)
-- [Dev.to/JS] [ReactJS e2e testing with Puppeteer](https://dev.to/mohammadfaisal/reactjs-e2e-testing-with-puppeteer-1ncn)
 - [Lifehacker] [The Best &#39;Mario Day&#39; Deals Nintendo Has to Offer](https://lifehacker.com/the-best-mario-day-deals-nintendo-has-to-offer-1850199311)
 - [Lifehacker] [You Can Stop Instagram From Sharing Your Posts on Facebook](https://lifehacker.com/you-can-stop-instagram-from-sharing-your-posts-on-faceb-1850199241)
 - [Lifehacker] [11 Spectacular Vertical Gardens You Can Grow in Small Spaces](https://lifehacker.com/11-spectacular-vertical-gardens-you-can-grow-in-small-s-1850197734)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Play ‘Run Until’ to Stay Motivated During Your Workout](https://lifehacker.com/play-run-until-to-stay-motivated-during-your-workout-1850192880)
 - [Lifehacker] [Grate Frozen Chili Peppers Directly Into Your Food](https://lifehacker.com/grate-frozen-chili-peppers-directly-into-your-food-1850192795)
 - [Lifehacker] [Why You Need a Little Spray Bottle on Your Bar Cart](https://lifehacker.com/why-you-need-a-little-spray-bottle-on-your-bar-cart-1850193174)
-- [Lifehacker] [This &#39;Oscar Wordle&#39; Is the Best Way to Share Your Awards Predictions](https://lifehacker.com/this-oscar-wordle-is-the-best-way-to-share-your-awards-1850193520)
-- [Lifehacker] [Don&#39;t Rely on Your Pixel Watch to Wake You Up](https://lifehacker.com/dont-rely-on-your-pixel-watch-to-wake-you-up-1850192861)
-- [Lifehacker] [Everything You Need to Meal Prep Like a Pro](https://lifehacker.com/everything-you-need-to-meal-prep-like-a-pro-1850186840)
-- [Lifehacker] [How to Be a ‘Digital Nomad’ When You Have Kids](https://lifehacker.com/how-to-be-a-digital-nomad-when-you-have-kids-1850191095)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This &#39;Oscar Wordle&#39; Is the Best Way to Share Your Awards Predictions](https://lifehacker.com/this-oscar-wordle-is-the-best-way-to-share-your-awards-1850193520)<!-- TECH-POSTS:END -->
 
 ---
 
