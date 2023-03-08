@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlocking the Secrets to Success - How to Thrive as a Technical Writer and Earn a Living](https://dev.to/andrewbaisden/unlocking-the-secrets-to-success-how-to-thrive-as-a-technical-writer-and-earn-a-living-5epl)
+- [Dev.to/JS] [10 repositories to star if you are a Javascript developer](https://dev.to/tejakummarikuntla/10-repositories-to-star-if-you-are-a-javascript-developer-40aj)
+- [Dev.to/JS] [MelbJS March 2023 notes](https://dev.to/cultureamp/melbjs-march-2023-notes-4nli)
+- [Dev.to/JS] [How to develop a UI and an API at the same time, with no headaches](https://dev.to/metal3d/how-to-develop-a-ui-and-an-api-at-the-same-time-with-no-headaches-1gol)
 - [Dev.to/JS] [Paracetamol.ts💊| #28: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-28-explica-este-codigo-typescript-2odb)
 - [Dev.to/JS] [Writing an action for Ideckia](https://dev.to/josuigoa/writing-an-action-for-ideckia-1pki)
 - [Dev.to/JS] [Weekly web development resources #139](https://dev.to/vincenius/weekly-web-development-resources-139-42j6)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3 ways to turn String to Array in JavaScript, and the fastest one is...](https://dev.to/hankxdev/3-ways-to-turn-string-to-array-in-javascript-and-the-fastest-one-is-39ih)
 - [Dev.to/JS] [Resources You Should Follow to Stay updated with Latest Tech Trends](https://dev.to/patilganesh1010/resources-you-should-follow-to-stay-updated-with-latest-tech-trends-1dmf)
 - [Dev.to/JS] [Generics in typescript](https://dev.to/iamndeleva/generics-in-typescript-hjj)
-- [Dev.to/JS] [Building Better React Components with useState: An In-Depth Understanding](https://dev.to/ranjittherapids/building-better-react-components-with-usestate-an-in-depth-understanding-4fph)
-- [Dev.to/JS] [JavaScript Sets](https://dev.to/abdelrahmanm18/javascript-sets-5g4f)
-- [Dev.to/JS] [🔥7 Mind-Blowing React Libraries That Will Turn Your Coding Experience Into an Epic Adventure!🔥](https://dev.to/mnq11/7-mind-blowing-react-libraries-that-will-turn-your-coding-experience-into-an-epic-adventure-2hnb)
-- [Dev.to/JS] [🌎🚀 Error Handling in Web Application](https://dev.to/dhrn/error-handling-in-web-app-4276)
 - [Lifehacker] [The Best &#39;Mario Day&#39; Deals Nintendo Has to Offer](https://lifehacker.com/the-best-mario-day-deals-nintendo-has-to-offer-1850199311)
 - [Lifehacker] [You Can Stop Instagram From Sharing Your Posts on Facebook](https://lifehacker.com/you-can-stop-instagram-from-sharing-your-posts-on-faceb-1850199241)
 - [Lifehacker] [11 Spectacular Vertical Gardens You Can Grow in Small Spaces](https://lifehacker.com/11-spectacular-vertical-gardens-you-can-grow-in-small-s-1850197734)
