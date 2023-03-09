@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code-Collab](https://dev.to/harshilshah99/code-collab-2hkn)
+- [Dev.to/JS] [[ดู-หนัง] หุ่นพยนต์ &lpar;2566&rpar; เต็มเรื่อง HD พากย์ไทย -ออนไลน์ 1080p/MP4](https://dev.to/hoonpayon2023mthai/duu-hnang-hunphynt-2566-etmeruueng-hd-phaakyaithy-nailn-1080pmp4-4gn6)
+- [Dev.to/JS] [A Form Builder for a dynamic form render in SolidJS](https://dev.to/ginollerena/a-form-builder-for-a-dynamic-form-render-in-solidjs-41f2)
 - [Dev.to/JS] [[ดู-] ขุนพันธ์ 3 &lpar;2566&rpar; เต็มเรื่อง HD พากย์ไทย -ออนไลน์ 1080p/MP4](https://dev.to/khunpan3thaifri/duu-khunphanth-3-2566-etmeruueng-hd-phaakyaithy-nailn-1080pmp4-12j1)
 - [Dev.to/JS] [142. Leetcode Solution in JavaScript](https://dev.to/chiki1601/142-leetcode-solution-in-javascript-5g5g)
 - [Dev.to/JS] [O que os símbolos&lpar;~&rpar; e &lpar;^&rpar; representam nas dependências de projetos?](https://dev.to/jessilyneh/o-que-os-simbolos-e-representam-nas-dependencias-de-projetos-jm0)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Fall for This Fake Parking Ticket Scam](https://lifehacker.com/don-t-fall-for-this-fake-parking-ticket-scam-1850204139)
 - [Dev.to/JS] [Meet banditypes — the smallest TypeScript validation library](https://dev.to/thoughtspile/meet-banditypes-the-smallest-typescript-validation-library-58go)
 - [Lifehacker] [Maybe You Should Put Your Partner on a &#39;Performance Improvement Plan&#39;](https://lifehacker.com/maybe-you-should-put-your-partner-on-a-performance-impr-1850199254)
-- [Dev.to/JS] [Nx 15.8 - Rust Hasher, Nx Console for IntelliJ, Deno, Node and Storybook](https://dev.to/nx/nx-158-rust-hasher-nx-console-for-intellij-deno-node-and-storybook-27ng)
 - [Lifehacker] [14 Things You Should Never Do to Your Lawn](https://lifehacker.com/14-things-you-should-never-do-to-your-lawn-1850203382)
-- [Dev.to/JS] [Criando Form genérico no CrazyStack Next.js](https://dev.to/devdoido/criando-form-generico-no-crazystack-nextjs-2kb8)
-- [Dev.to/JS] [Tela de login no CrazyStack Next.js](https://dev.to/devdoido/tela-de-login-no-crazystack-nextjs-3ml7)
 - [Lifehacker] [How TikTok’s ‘Audio Torture’ Actually Works](https://lifehacker.com/how-tiktok-s-audio-torture-actually-works-1850203899)
 - [Lifehacker] [How to Make Truly Great Irish Soda Bread](https://lifehacker.com/how-to-make-truly-great-irish-soda-bread-1850203472)
 - [Lifehacker] [Your Student Loan Payment Might Be Dropping](https://lifehacker.com/your-student-loan-payment-might-be-dropping-1850203158)
