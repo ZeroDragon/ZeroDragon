@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hydration: What is it?](https://dev.to/costamatheus97/hydration-what-is-it-1lgl)
+- [Lifehacker] [No, Celebrities Don&#39;t Need to Eat 8,000 Calories to Get Swole](https://lifehacker.com/no-celebrities-dont-need-to-eat-8-000-calories-to-get-1850208846)
+- [Dev.to/JS] [The Journey Begins](https://dev.to/keoshaug/the-journey-begins-1o97)
 - [Lifehacker] [Get CityPASS Tickets for up to 60% Off in These Cities Right Now](https://lifehacker.com/get-citypass-tickets-for-up-to-60-off-in-these-cities-1850208748)
 - [Dev.to/JS] [Those three things about TypeScript will shock you](https://dev.to/devdufutur/those-three-things-about-typescript-will-shock-you-2bc9)
 - [Lifehacker] [Braised Scallions Are the Perfect Cheap Weeknight Side Dish](https://lifehacker.com/braised-scallions-are-the-perfect-cheap-weeknight-side-1850209034)
@@ -40,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Things Your Local Bakery Is Probably Freezing](https://lifehacker.com/9-things-your-local-bakery-is-probably-freezing-1850207246)
 - [Dev.to/JS] [What is an interface in TypeScript](https://dev.to/bobbyhalljr/what-is-an-interface-in-typescript-1n5)
 - [Lifehacker] [How to Recover From a Browser Hijacking Attack](https://lifehacker.com/how-to-recover-from-a-browser-hijacking-attack-1850206361)
-- [Dev.to/JS] [Ditch date-fns &amp; momentjs: Use Temporal Date API Instead](https://dev.to/ananddas/ditch-date-fns-momentjs-use-temporal-date-api-instead-4l90)
-- [Dev.to/JS] [How to add TypeScript to a NextJS project](https://dev.to/bobbyhalljr/how-to-add-typescript-to-a-nextjs-project-enf)
 - [Lifehacker] [You Can Get a Free Mini Wok With Your Panda Express Order Right Now](https://lifehacker.com/you-can-get-a-free-mini-wok-with-your-panda-express-ord-1850207507)
 - [Lifehacker] [This Bathroom Staple Will Keep Your Trash Cans From Smelling Awful](https://lifehacker.com/this-bathroom-staple-will-keep-your-trash-cans-from-sme-1850207453)
 - [Lifehacker] [You&#39;re Probably Eligible to File Your Taxes for Free](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Spot a Fine Motor Delay in Your Child](https://lifehacker.com/how-to-spot-a-fine-motor-delay-in-your-child-1850200747)
 - [Lifehacker] [The Best Pizza Deals For Pi Day](https://lifehacker.com/the-best-pizza-deals-for-pi-day-1850200301)
 - [Lifehacker] [Why All Your Love is Unrequited &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-all-your-love-is-unrequited-and-what-to-do-about-i-1850199210)
-- [Lifehacker] [What&#39;s Your Favorite Way to Reuse a Little Plastic Pizza Table?](https://lifehacker.com/whats-your-favorite-way-to-reuse-a-little-plastic-pizza-1850199512)
-- [Lifehacker] [All the Things Renters Insurance Doesn&#39;t Cover](https://lifehacker.com/all-the-things-renters-insurance-doesnt-cover-1850198661)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s Your Favorite Way to Reuse a Little Plastic Pizza Table?](https://lifehacker.com/whats-your-favorite-way-to-reuse-a-little-plastic-pizza-1850199512)<!-- TECH-POSTS:END -->
 
 ---
 
