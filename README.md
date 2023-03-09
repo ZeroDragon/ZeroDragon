@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ditch date-fns &amp; momentjs: Use Temporal Date API Instead](https://dev.to/ananddas/ditch-date-fns-momentjs-use-temporal-date-api-instead-4l90)
+- [Dev.to/JS] [How to add TypeScript to a NextJS project](https://dev.to/bobbyhalljr/how-to-add-typescript-to-a-nextjs-project-enf)
+- [Dev.to/JS] [JavaScript Scope](https://dev.to/hgerner19/javascript-scope-317n)
+- [Dev.to/JS] [JavaScript Execution Context: A Deep Dive](https://dev.to/jahid6597/javascript-execution-context-a-deep-dive-4kno)
+- [Dev.to/JS] [Getting started with React](https://dev.to/gabygalv/getting-started-with-react-4217)
+- [Dev.to/JS] [Star Rating - JS](https://dev.to/986913/star-rating-js-1oji)
+- [Lifehacker] [You Can Get a Free Mini Wok With Your Panda Express Order Right Now](https://lifehacker.com/you-can-get-a-free-mini-wok-with-your-panda-express-ord-1850207507)
+- [Dev.to/JS] [holi animation in canvas](https://dev.to/nagvanshi9275/holi-animation-in-canvas-27o8)
+- [Dev.to/JS] [10 dicas para o desenvolvedor Angular](https://dev.to/andrebezbirolo/10-dicas-para-o-desenvolvedor-angular-4469)
 - [Lifehacker] [This Bathroom Staple Will Keep Your Trash Cans From Smelling Awful](https://lifehacker.com/this-bathroom-staple-will-keep-your-trash-cans-from-sme-1850207453)
 - [Dev.to/JS] [Easily modify your most used websites with this extension](https://dev.to/lucasvtiradentes/easily-modify-your-most-used-websites-with-this-extension-2hgf)
 - [Dev.to/JS] [Read, insert, update or delete with Supabase](https://dev.to/guillaumeduhan/read-insert-update-or-delete-with-supabase-4hej)
@@ -30,17 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You&#39;re Probably Eligible to File Your Taxes for Free](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)
 - [Dev.to/JS] [Send SMTP email with Node.js using Nodemailer](https://dev.to/deogadkarravina/send-smtp-email-with-nodejs-using-nodemailer-45l0)
 - [Lifehacker] [This Scam Is Making Payday Loans Even Worse](https://lifehacker.com/this-scam-is-making-payday-loans-even-worse-1850205618)
-- [Dev.to/JS] [Javascript Reduce method](https://dev.to/dprincecoder/javascript-reduce-method-2af9)
-- [Dev.to/JS] [High Order Function Explained](https://dev.to/rv90904/high-order-function-explained-20b1)
 - [Lifehacker] [How to Choose Between Stocks and Index Funds](https://lifehacker.com/how-to-choose-between-stocks-and-index-funds-1850204507)
 - [Lifehacker] [How to Respond When Your Kid Shuts You Out](https://lifehacker.com/how-to-respond-when-your-kid-shuts-you-out-1850202747)
-- [Dev.to/JS] [Using Apps Script to Count Checkboxes in Google Sheets](https://dev.to/kcl/using-apps-script-to-count-checkboxes-in-google-sheets-217g)
-- [Dev.to/JS] [Undetectable YouTube automation - The Challenge | Part -2](https://dev.to/abhiprojectz/undetectable-youtube-automation-the-challenge-part-2-18lm)
 - [Lifehacker] [18 Times Someone Won an Oscar for the Wrong Movie](https://lifehacker.com/18-times-someone-won-an-oscar-for-the-wrong-movie-1850197213)
-- [Dev.to/JS] [Create event-driven applications with Cloudflare queues and Dapr](https://dev.to/diagrid/create-event-driven-applications-with-cloudflare-queues-and-dapr-3an8)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Visualizando PDF](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-visualizando-pdf-2608)
-- [Dev.to/JS] [Building Single-Page Applications: A Comprehensive Guide &lpar;Series&rpar;](https://dev.to/scofieldidehen/building-single-page-applications-a-comprehensive-guide-series-3g0p)
-- [Dev.to/JS] [Actiflow - Prostate Health Results, Price, Complaints &amp; Warnings?](https://dev.to/actiflowinfo/actiflow-prostate-health-results-price-complaints-warnings-3gf9)
 - [Lifehacker] [Caramelize a Lemon Immediately](https://lifehacker.com/caramelize-a-lemon-immediately-1850204476)
 - [Lifehacker] [You Can Try DuckDuckGo&#39;s AI Search Right Now](https://lifehacker.com/you-can-try-duckduckgos-ai-search-right-now-1850203857)
 - [Lifehacker] [Don’t Fall for This Fake Parking Ticket Scam](https://lifehacker.com/don-t-fall-for-this-fake-parking-ticket-scam-1850204139)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best &#39;Mario Day&#39; Deals Nintendo Has to Offer](https://lifehacker.com/the-best-mario-day-deals-nintendo-has-to-offer-1850199311)
 - [Lifehacker] [You Can Stop Instagram From Sharing Your Posts on Facebook](https://lifehacker.com/you-can-stop-instagram-from-sharing-your-posts-on-faceb-1850199241)
 - [Lifehacker] [11 Spectacular Vertical Gardens You Can Grow in Small Spaces](https://lifehacker.com/11-spectacular-vertical-gardens-you-can-grow-in-small-s-1850197734)
-- [Lifehacker] [When &lpar;and How&rpar; to Disinfect Your Carpet](https://lifehacker.com/when-and-how-to-disinfect-your-carpet-1850197247)
-- [Lifehacker] [All the New Android Features Coming in the Next Pixel Drop](https://lifehacker.com/all-the-new-android-features-coming-in-the-next-pixel-d-1850197626)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When &lpar;and How&rpar; to Disinfect Your Carpet](https://lifehacker.com/when-and-how-to-disinfect-your-carpet-1850197247)<!-- TECH-POSTS:END -->
 
 ---
 
