@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Scam Is Making Payday Loans Even Worse](https://lifehacker.com/this-scam-is-making-payday-loans-even-worse-1850205618)
+- [Dev.to/JS] [Javascript Reduce method](https://dev.to/dprincecoder/javascript-reduce-method-2af9)
+- [Dev.to/JS] [High Order Function Explained](https://dev.to/rv90904/high-order-function-explained-20b1)
+- [Lifehacker] [How to Choose Between Stocks and Index Funds](https://lifehacker.com/how-to-choose-between-stocks-and-index-funds-1850204507)
 - [Lifehacker] [How to Respond When Your Kid Shuts You Out](https://lifehacker.com/how-to-respond-when-your-kid-shuts-you-out-1850202747)
 - [Dev.to/JS] [Using Apps Script to Count Checkboxes in Google Sheets](https://dev.to/kcl/using-apps-script-to-count-checkboxes-in-google-sheets-217g)
 - [Dev.to/JS] [Undetectable YouTube automation - The Challenge | Part -2](https://dev.to/abhiprojectz/undetectable-youtube-automation-the-challenge-part-2-18lm)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Drag and Drop Sortable List using HTML CSS &amp; JS: A Comprehensive Guide](https://dev.to/hassan_coder/drag-and-drop-sortable-list-using-html-css-js-a-comprehensive-guide-10po)
 - [Dev.to/JS] [Understanding the Advantages of JavaScript Frameworks for Beginners](https://dev.to/viktoriabors/understanding-the-advantages-of-javascript-frameworks-for-beginners-1hh8)
 - [Dev.to/JS] [I Switched to Low-code, Here&#39;s Why](https://dev.to/tranquilpuma830/i-switched-to-low-code-heres-why-4jm6)
-- [Dev.to/JS] [my top links](https://dev.to/hichamelaziz767/my-top-links-5785)
-- [Dev.to/JS] [linkooo](https://dev.to/elazizhicham2/linkooo-33g)
 - [Dev.to/JS] [Light up Your Website with These Top Lightbox NPM Packages](https://dev.to/galebert/light-up-your-website-with-these-top-lightbox-npm-packages-417h)
 - [Lifehacker] [You Can Try DuckDuckGo&#39;s AI Search Right Now](https://lifehacker.com/you-can-try-duckduckgos-ai-search-right-now-1850203857)
 - [Lifehacker] [Don’t Fall for This Fake Parking Ticket Scam](https://lifehacker.com/don-t-fall-for-this-fake-parking-ticket-scam-1850204139)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When &lpar;and How&rpar; to Disinfect Your Carpet](https://lifehacker.com/when-and-how-to-disinfect-your-carpet-1850197247)
 - [Lifehacker] [All the New Android Features Coming in the Next Pixel Drop](https://lifehacker.com/all-the-new-android-features-coming-in-the-next-pixel-d-1850197626)
 - [Lifehacker] [&#39;Cities: Skylines 2&#39; and 9 More Immersive World-Building Games Coming This Year](https://lifehacker.com/cities-skylines-2-and-9-more-immersive-world-building-1850197796)
-- [Lifehacker] [You Can Now Roll Over Unused 529 Funds to Your Kid’s Roth IRA](https://lifehacker.com/you-can-now-roll-over-unused-529-funds-to-your-kid-s-ro-1850196919)
-- [Lifehacker] [The ‘New’ iPhone Actually Isn’t New](https://lifehacker.com/the-new-iphone-actually-isn-t-new-1850196882)
-- [Lifehacker] [The Easiest Ways to Get Rid of Your Popcorn Ceiling](https://lifehacker.com/the-easiest-ways-to-get-rid-of-your-popcorn-ceiling-1850195900)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Now Roll Over Unused 529 Funds to Your Kid’s Roth IRA](https://lifehacker.com/you-can-now-roll-over-unused-529-funds-to-your-kid-s-ro-1850196919)<!-- TECH-POSTS:END -->
 
 ---
 
