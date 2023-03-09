@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Episode 23/09: RouterTestingHarness, Signals, &quot;TypeScript Magic&quot; behind NgRx](https://dev.to/ng_news/episode-2309-routertestingharness-signals-typescript-magic-behind-ngrx-14nc)
+- [Dev.to/JS] [How To: Controlled Forms with React](https://dev.to/codybarker/how-to-controlled-forms-with-react-55h7)
+- [Lifehacker] [10 Psychoactive Drugs You Can Grow at Home](https://lifehacker.com/10-psychoactive-drugs-you-can-grow-at-home-1850208296)
+- [Dev.to/JS] [Using TRPC in Astro and its &lpar;React&rpar; islands](https://dev.to/thomasledoux1/using-trpc-in-astro-and-its-react-islands-3021)
+- [Dev.to/JS] [Using React Hook Form with Controller? No more](https://dev.to/enyelsequeira/using-react-hook-form-with-controller-no-more-4341)
+- [Lifehacker] [ChatGPT Created Its Own Puzzle Game, and You Can Play It Right Now](https://lifehacker.com/chatgpt-created-its-own-puzzle-game-and-you-can-play-i-1850207733)
+- [Dev.to/JS] [Stop typing in typescript. &lpar;At least most of the time&rpar; 🛑](https://dev.to/nectres/dont-type-in-typescript-at-least-most-of-the-time-5b0j)
 - [Dev.to/JS] [Node.js Revealed: A Comprehensive Guide to Its Inner Workings](https://dev.to/ritikbanger/nodejs-revealed-a-comprehensive-guide-to-its-inner-workings-209i)
 - [Dev.to/JS] [Boost Your Productivity with Code Generators: A Guide to Simplify Your Workflow](https://dev.to/ederchrono/boost-your-productivity-with-code-generators-a-guide-to-simplify-your-workflow-25im)
 - [Lifehacker] [9 Things Your Local Bakery Is Probably Freezing](https://lifehacker.com/9-things-your-local-bakery-is-probably-freezing-1850207246)
@@ -32,13 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to add TypeScript to a NextJS project](https://dev.to/bobbyhalljr/how-to-add-typescript-to-a-nextjs-project-enf)
 - [Dev.to/JS] [JavaScript Scope](https://dev.to/hgerner19/javascript-scope-317n)
 - [Dev.to/JS] [JavaScript Execution Context: A Deep Dive](https://dev.to/jahid6597/javascript-execution-context-a-deep-dive-4kno)
-- [Dev.to/JS] [Getting started with React](https://dev.to/gabygalv/getting-started-with-react-4217)
-- [Dev.to/JS] [Star Rating - JS](https://dev.to/986913/star-rating-js-1oji)
 - [Lifehacker] [You Can Get a Free Mini Wok With Your Panda Express Order Right Now](https://lifehacker.com/you-can-get-a-free-mini-wok-with-your-panda-express-ord-1850207507)
-- [Dev.to/JS] [holi animation in canvas](https://dev.to/nagvanshi9275/holi-animation-in-canvas-27o8)
-- [Dev.to/JS] [10 dicas para o desenvolvedor Angular](https://dev.to/andrebezbirolo/10-dicas-para-o-desenvolvedor-angular-4469)
 - [Lifehacker] [This Bathroom Staple Will Keep Your Trash Cans From Smelling Awful](https://lifehacker.com/this-bathroom-staple-will-keep-your-trash-cans-from-sme-1850207453)
-- [Dev.to/JS] [Easily modify your most used websites with this extension](https://dev.to/lucasvtiradentes/easily-modify-your-most-used-websites-with-this-extension-2hgf)
 - [Lifehacker] [You&#39;re Probably Eligible to File Your Taxes for Free](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)
 - [Lifehacker] [This Scam Is Making Payday Loans Even Worse](https://lifehacker.com/this-scam-is-making-payday-loans-even-worse-1850205618)
 - [Lifehacker] [How to Choose Between Stocks and Index Funds](https://lifehacker.com/how-to-choose-between-stocks-and-index-funds-1850204507)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Things Renters Insurance Doesn&#39;t Cover](https://lifehacker.com/all-the-things-renters-insurance-doesnt-cover-1850198661)
 - [Lifehacker] [18 Must-Play Vintage Games on Nintendo Switch Online](https://lifehacker.com/18-must-play-vintage-games-on-nintendo-switch-online-1850125303)
 - [Lifehacker] [15 Ways You Should Be Eating Whipped Cream &lpar;but Aren’t, Sadly&rpar;](https://lifehacker.com/15-ways-you-should-be-eating-whipped-cream-but-aren-t-1850195209)
-- [Lifehacker] [The Recruiting Buzzwords Every Job Seeker Should Know](https://lifehacker.com/the-recruiting-buzzwords-every-job-seeker-should-know-1850193599)
-- [Lifehacker] [The Best &#39;Mario Day&#39; Deals Nintendo Has to Offer](https://lifehacker.com/the-best-mario-day-deals-nintendo-has-to-offer-1850199311)
-- [Lifehacker] [You Can Stop Instagram From Sharing Your Posts on Facebook](https://lifehacker.com/you-can-stop-instagram-from-sharing-your-posts-on-faceb-1850199241)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Recruiting Buzzwords Every Job Seeker Should Know](https://lifehacker.com/the-recruiting-buzzwords-every-job-seeker-should-know-1850193599)<!-- TECH-POSTS:END -->
 
 ---
 
