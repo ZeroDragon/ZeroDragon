@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Journey In The Open Source World - Contributing to other libraries #2](https://dev.to/cadienvan/my-journey-in-the-open-source-world-contributing-to-other-libraries-2-3mmk)
+- [Dev.to/JS] [LeetCode - Reverse Words in a String](https://dev.to/_alkesh26/leetcode-reverse-words-in-a-string-1o5h)
+- [Dev.to/JS] [IT-Trends 2023 und Top 10 der Programmiersprachen mit den besten Job-Aussichten](https://dev.to/octoparse_deutschland/it-trends-2023-und-top-10-der-programmiersprachen-mit-den-besten-job-aussichten-3a04)
+- [Dev.to/JS] [&lpar;TDZ&rpar; Temporal Dead Zone in JavaScript – Simple Explained](https://dev.to/muhibullah/tdz-temporal-dead-zone-in-javascript-simple-explained-29ok)
+- [Dev.to/JS] [I reduced loop from 100K to 1K](https://dev.to/mrh0200/i-reduced-loop-from-100k-to-1k-4267)
 - [Dev.to/JS] [Props in React JS: A Comprehensive Guide to Passing Data Between Components](https://dev.to/sidramaqbool/props-in-react-js-a-comprehensive-guide-to-passing-data-between-components-34do)
 - [Dev.to/JS] [Easy Beauty Components for React](https://dev.to/mdwahiduzzamanemon/easy-beauty-components-for-react-1amh)
 - [Dev.to/JS] [Code-Collab](https://dev.to/harshilshah99/code-collab-2hkn)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Form Builder for a dynamic form render in SolidJS](https://dev.to/ginollerena/a-form-builder-for-a-dynamic-form-render-in-solidjs-41f2)
 - [Dev.to/JS] [[ดู-] ขุนพันธ์ 3 &lpar;2566&rpar; เต็มเรื่อง HD พากย์ไทย -ออนไลน์ 1080p/MP4](https://dev.to/khunpan3thaifri/duu-khunphanth-3-2566-etmeruueng-hd-phaakyaithy-nailn-1080pmp4-12j1)
 - [Dev.to/JS] [142. Leetcode Solution in JavaScript](https://dev.to/chiki1601/142-leetcode-solution-in-javascript-5g5g)
-- [Dev.to/JS] [O que os símbolos&lpar;~&rpar; e &lpar;^&rpar; representam nas dependências de projetos?](https://dev.to/jessilyneh/o-que-os-simbolos-e-representam-nas-dependencias-de-projetos-jm0)
-- [Dev.to/JS] [My Journey as a Software Developer: Starting a Blog to Document My Progress](https://dev.to/abdurahman/my-journey-as-a-software-developer-starting-a-blog-to-document-my-progress-44pd)
-- [Dev.to/JS] [Thinking Back and Coding Forward](https://dev.to/nullivex/thinking-back-and-coding-forward-4e9k)
-- [Dev.to/JS] [Switch and Sort](https://dev.to/ccarlson249/switch-and-sort-36pb)
-- [Dev.to/JS] [A better useReducer: useHyperState](https://dev.to/zaceno/a-better-usereducer-usehyperstate-26db)
 - [Lifehacker] [You Can Try DuckDuckGo&#39;s AI Search Right Now](https://lifehacker.com/you-can-try-duckduckgos-ai-search-right-now-1850203857)
 - [Lifehacker] [Don’t Fall for This Fake Parking Ticket Scam](https://lifehacker.com/don-t-fall-for-this-fake-parking-ticket-scam-1850204139)
 - [Lifehacker] [Maybe You Should Put Your Partner on a &#39;Performance Improvement Plan&#39;](https://lifehacker.com/maybe-you-should-put-your-partner-on-a-performance-impr-1850199254)
