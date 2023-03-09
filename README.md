@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [O que os símbolos&lpar;~&rpar; e &lpar;^&rpar; representam nas dependências de projetos?](https://dev.to/jessilyneh/o-que-os-simbolos-e-representam-nas-dependencias-de-projetos-jm0)
+- [Dev.to/JS] [My Journey as a Software Developer: Starting a Blog to Document My Progress](https://dev.to/abdurahman/my-journey-as-a-software-developer-starting-a-blog-to-document-my-progress-44pd)
 - [Dev.to/JS] [Thinking Back and Coding Forward](https://dev.to/nullivex/thinking-back-and-coding-forward-4e9k)
 - [Dev.to/JS] [Switch and Sort](https://dev.to/ccarlson249/switch-and-sort-36pb)
 - [Dev.to/JS] [A better useReducer: useHyperState](https://dev.to/zaceno/a-better-usereducer-usehyperstate-26db)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tela de login no CrazyStack Next.js](https://dev.to/devdoido/tela-de-login-no-crazystack-nextjs-3ml7)
 - [Dev.to/JS] [React Query no CrazyStack Next.js](https://dev.to/devdoido/react-query-no-crazystack-nextjs-18c)
 - [Dev.to/JS] [Configuração do Plop.js no CrazyStack Next.js](https://dev.to/devdoido/configuracao-do-plopjs-no-crazystack-nextjs-30ab)
-- [Dev.to/JS] [Introdução ao Chakra UI no CrazyStack Next.js](https://dev.to/devdoido/introducao-ao-chakra-ui-no-crazystack-nextjs-17f6)
-- [Dev.to/JS] [Configuração de PWA no CrazyStack Next.js](https://dev.to/devdoido/configuracao-de-pwa-no-crazystack-nextjs-18i7)
 - [Lifehacker] [How TikTok’s ‘Audio Torture’ Actually Works](https://lifehacker.com/how-tiktok-s-audio-torture-actually-works-1850203899)
 - [Lifehacker] [How to Make Truly Great Irish Soda Bread](https://lifehacker.com/how-to-make-truly-great-irish-soda-bread-1850203472)
 - [Lifehacker] [Your Student Loan Payment Might Be Dropping](https://lifehacker.com/your-student-loan-payment-might-be-dropping-1850203158)
