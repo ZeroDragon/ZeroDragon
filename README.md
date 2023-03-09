@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Safely and Effectively Use String.replaceAll&lpar;&rpar; in JavaScript](https://dev.to/silence717/how-to-safely-and-effectively-use-stringreplaceall-in-javascript-3p3m)
+- [Dev.to/JS] [How to Fix the Next.js TailwindCSS Sticky Footer](https://dev.to/darkterminal/how-to-fix-the-nextjs-tailwindcss-sticky-footer-1hbk)
+- [Dev.to/JS] [What is Reconciliation in ReactJS?](https://dev.to/souravbandyopadhyay/what-is-reconciliation-in-reactjs-ile)
 - [Dev.to/JS] [My Journey In The Open Source World - Contributing to other libraries #2](https://dev.to/cadienvan/my-journey-in-the-open-source-world-contributing-to-other-libraries-2-3mmk)
 - [Dev.to/JS] [LeetCode - Reverse Words in a String](https://dev.to/_alkesh26/leetcode-reverse-words-in-a-string-1o5h)
 - [Dev.to/JS] [IT-Trends 2023 und Top 10 der Programmiersprachen mit den besten Job-Aussichten](https://dev.to/octoparse_deutschland/it-trends-2023-und-top-10-der-programmiersprachen-mit-den-besten-job-aussichten-3a04)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Easy Beauty Components for React](https://dev.to/mdwahiduzzamanemon/easy-beauty-components-for-react-1amh)
 - [Dev.to/JS] [Code-Collab](https://dev.to/harshilshah99/code-collab-2hkn)
 - [Dev.to/JS] [[ดู-หนัง] หุ่นพยนต์ &lpar;2566&rpar; เต็มเรื่อง HD พากย์ไทย -ออนไลน์ 1080p/MP4](https://dev.to/hoonpayon2023mthai/duu-hnang-hunphynt-2566-etmeruueng-hd-phaakyaithy-nailn-1080pmp4-4gn6)
-- [Dev.to/JS] [A Form Builder for a dynamic form render in SolidJS](https://dev.to/ginollerena/a-form-builder-for-a-dynamic-form-render-in-solidjs-41f2)
-- [Dev.to/JS] [[ดู-] ขุนพันธ์ 3 &lpar;2566&rpar; เต็มเรื่อง HD พากย์ไทย -ออนไลน์ 1080p/MP4](https://dev.to/khunpan3thaifri/duu-khunphanth-3-2566-etmeruueng-hd-phaakyaithy-nailn-1080pmp4-12j1)
-- [Dev.to/JS] [142. Leetcode Solution in JavaScript](https://dev.to/chiki1601/142-leetcode-solution-in-javascript-5g5g)
 - [Lifehacker] [You Can Try DuckDuckGo&#39;s AI Search Right Now](https://lifehacker.com/you-can-try-duckduckgos-ai-search-right-now-1850203857)
 - [Lifehacker] [Don’t Fall for This Fake Parking Ticket Scam](https://lifehacker.com/don-t-fall-for-this-fake-parking-ticket-scam-1850204139)
 - [Lifehacker] [Maybe You Should Put Your Partner on a &#39;Performance Improvement Plan&#39;](https://lifehacker.com/maybe-you-should-put-your-partner-on-a-performance-impr-1850199254)
