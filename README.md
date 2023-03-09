@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Switch and Sort](https://dev.to/ccarlson249/switch-and-sort-36pb)
 - [Dev.to/JS] [A better useReducer: useHyperState](https://dev.to/zaceno/a-better-usereducer-usehyperstate-26db)
 - [Dev.to/JS] [NestJS - Unit and E2E testing](https://dev.to/rohithart/nestjs-unit-and-e2e-testing-7pb)
 - [Lifehacker] [You Can Try DuckDuckGo&#39;s AI Search Right Now](https://lifehacker.com/you-can-try-duckduckgos-ai-search-right-now-1850203857)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Configuração de PWA no CrazyStack Next.js](https://dev.to/devdoido/configuracao-de-pwa-no-crazystack-nextjs-18i7)
 - [Dev.to/JS] [Criação do projeto e primeiro teste unitário no CrazyStack Next.js](https://dev.to/devdoido/criacao-do-projeto-e-primeiro-teste-unitario-no-crazystack-nextjs-4lm2)
 - [Lifehacker] [How TikTok’s ‘Audio Torture’ Actually Works](https://lifehacker.com/how-tiktok-s-audio-torture-actually-works-1850203899)
-- [Dev.to/JS] [How to work javascript file in flutter web ?](https://dev.to/esmaeilahmadipour/how-to-work-javascript-file-in-flutter-web--1ak5)
 - [Lifehacker] [How to Make Truly Great Irish Soda Bread](https://lifehacker.com/how-to-make-truly-great-irish-soda-bread-1850203472)
 - [Lifehacker] [Your Student Loan Payment Might Be Dropping](https://lifehacker.com/your-student-loan-payment-might-be-dropping-1850203158)
 - [Lifehacker] [Discord Integration, and More New Features Coming to Your PS5](https://lifehacker.com/discord-integration-and-more-new-features-coming-to-yo-1850202421)
