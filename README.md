@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node.js Revealed: A Comprehensive Guide to Its Inner Workings](https://dev.to/ritikbanger/nodejs-revealed-a-comprehensive-guide-to-its-inner-workings-209i)
+- [Dev.to/JS] [Boost Your Productivity with Code Generators: A Guide to Simplify Your Workflow](https://dev.to/ederchrono/boost-your-productivity-with-code-generators-a-guide-to-simplify-your-workflow-25im)
+- [Lifehacker] [9 Things Your Local Bakery Is Probably Freezing](https://lifehacker.com/9-things-your-local-bakery-is-probably-freezing-1850207246)
+- [Dev.to/JS] [What is an interface in TypeScript](https://dev.to/bobbyhalljr/what-is-an-interface-in-typescript-1n5)
+- [Lifehacker] [How to Recover From a Browser Hijacking Attack](https://lifehacker.com/how-to-recover-from-a-browser-hijacking-attack-1850206361)
 - [Dev.to/JS] [Ditch date-fns &amp; momentjs: Use Temporal Date API Instead](https://dev.to/ananddas/ditch-date-fns-momentjs-use-temporal-date-api-instead-4l90)
 - [Dev.to/JS] [How to add TypeScript to a NextJS project](https://dev.to/bobbyhalljr/how-to-add-typescript-to-a-nextjs-project-enf)
 - [Dev.to/JS] [JavaScript Scope](https://dev.to/hgerner19/javascript-scope-317n)
@@ -34,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 dicas para o desenvolvedor Angular](https://dev.to/andrebezbirolo/10-dicas-para-o-desenvolvedor-angular-4469)
 - [Lifehacker] [This Bathroom Staple Will Keep Your Trash Cans From Smelling Awful](https://lifehacker.com/this-bathroom-staple-will-keep-your-trash-cans-from-sme-1850207453)
 - [Dev.to/JS] [Easily modify your most used websites with this extension](https://dev.to/lucasvtiradentes/easily-modify-your-most-used-websites-with-this-extension-2hgf)
-- [Dev.to/JS] [Read, insert, update or delete with Supabase](https://dev.to/guillaumeduhan/read-insert-update-or-delete-with-supabase-4hej)
-- [Dev.to/JS] [When numbers don&#39;t make sense](https://dev.to/miguelmj/when-numbers-dont-make-sense-10gi)
 - [Lifehacker] [You&#39;re Probably Eligible to File Your Taxes for Free](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)
-- [Dev.to/JS] [Send SMTP email with Node.js using Nodemailer](https://dev.to/deogadkarravina/send-smtp-email-with-nodejs-using-nodemailer-45l0)
 - [Lifehacker] [This Scam Is Making Payday Loans Even Worse](https://lifehacker.com/this-scam-is-making-payday-loans-even-worse-1850205618)
 - [Lifehacker] [How to Choose Between Stocks and Index Funds](https://lifehacker.com/how-to-choose-between-stocks-and-index-funds-1850204507)
 - [Lifehacker] [How to Respond When Your Kid Shuts You Out](https://lifehacker.com/how-to-respond-when-your-kid-shuts-you-out-1850202747)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 Ways You Should Be Eating Whipped Cream &lpar;but Aren’t, Sadly&rpar;](https://lifehacker.com/15-ways-you-should-be-eating-whipped-cream-but-aren-t-1850195209)
 - [Lifehacker] [The Recruiting Buzzwords Every Job Seeker Should Know](https://lifehacker.com/the-recruiting-buzzwords-every-job-seeker-should-know-1850193599)
 - [Lifehacker] [The Best &#39;Mario Day&#39; Deals Nintendo Has to Offer](https://lifehacker.com/the-best-mario-day-deals-nintendo-has-to-offer-1850199311)
-- [Lifehacker] [You Can Stop Instagram From Sharing Your Posts on Facebook](https://lifehacker.com/you-can-stop-instagram-from-sharing-your-posts-on-faceb-1850199241)
-- [Lifehacker] [11 Spectacular Vertical Gardens You Can Grow in Small Spaces](https://lifehacker.com/11-spectacular-vertical-gardens-you-can-grow-in-small-s-1850197734)
-- [Lifehacker] [When &lpar;and How&rpar; to Disinfect Your Carpet](https://lifehacker.com/when-and-how-to-disinfect-your-carpet-1850197247)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Stop Instagram From Sharing Your Posts on Facebook](https://lifehacker.com/you-can-stop-instagram-from-sharing-your-posts-on-faceb-1850199241)<!-- TECH-POSTS:END -->
 
 ---
 
