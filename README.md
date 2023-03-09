@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Ionic Capacitor Plugins In A VueJS Vite Mobile Application](https://dev.to/aaronksaunders/using-ionic-capacitor-plugins-in-a-vuejs-vite-mobile-application-1k45)
+- [Dev.to/JS] [LWC Custom Mixins](https://dev.to/lukethacoder/lwc-custom-mixins-1ac2)
 - [Dev.to/JS] [Hydration: What is it?](https://dev.to/costamatheus97/hydration-what-is-it-1lgl)
 - [Lifehacker] [No, Celebrities Don&#39;t Need to Eat 8,000 Calories to Get Swole](https://lifehacker.com/no-celebrities-dont-need-to-eat-8-000-calories-to-get-1850208846)
 - [Dev.to/JS] [The Journey Begins](https://dev.to/keoshaug/the-journey-begins-1o97)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [ChatGPT Created Its Own Puzzle Game, and You Can Play It Right Now](https://lifehacker.com/chatgpt-created-its-own-puzzle-game-and-you-can-play-i-1850207733)
 - [Dev.to/JS] [Stop typing in typescript. &lpar;At least most of the time&rpar; 🛑](https://dev.to/nectres/dont-type-in-typescript-at-least-most-of-the-time-5b0j)
 - [Dev.to/JS] [Node.js Revealed: A Comprehensive Guide to Its Inner Workings](https://dev.to/ritikbanger/nodejs-revealed-a-comprehensive-guide-to-its-inner-workings-209i)
-- [Dev.to/JS] [Boost Your Productivity with Code Generators: A Guide to Simplify Your Workflow](https://dev.to/ederchrono/boost-your-productivity-with-code-generators-a-guide-to-simplify-your-workflow-25im)
 - [Lifehacker] [9 Things Your Local Bakery Is Probably Freezing](https://lifehacker.com/9-things-your-local-bakery-is-probably-freezing-1850207246)
-- [Dev.to/JS] [What is an interface in TypeScript](https://dev.to/bobbyhalljr/what-is-an-interface-in-typescript-1n5)
 - [Lifehacker] [How to Recover From a Browser Hijacking Attack](https://lifehacker.com/how-to-recover-from-a-browser-hijacking-attack-1850206361)
 - [Lifehacker] [You Can Get a Free Mini Wok With Your Panda Express Order Right Now](https://lifehacker.com/you-can-get-a-free-mini-wok-with-your-panda-express-ord-1850207507)
 - [Lifehacker] [This Bathroom Staple Will Keep Your Trash Cans From Smelling Awful](https://lifehacker.com/this-bathroom-staple-will-keep-your-trash-cans-from-sme-1850207453)
