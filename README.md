@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I improve my skills in Typescript #5 : Satisfies operator](https://dev.to/codeoz/how-i-improve-my-skills-in-typescript-5-satisfies-operator-2312)
+- [Dev.to/JS] [5 Essential Google Chrome Extension for Web Developers](https://dev.to/surajondev/5-essential-google-chrome-extension-for-web-developers-4mpf)
+- [Dev.to/JS] [Important Skills to a NodeJS Developer](https://dev.to/danities316/important-skills-to-a-nodejs-developer-12nh)
+- [Dev.to/JS] [Adding TypingDNA Verify as a 2FA to your Auth0 login](https://dev.to/yongdev/adding-typingdna-verify-as-a-2fa-to-your-auth0-login-fcj)
 - [Dev.to/JS] [Paracetamol.ts💊| #29: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-29-explica-este-codigo-typescript-2ndi)
 - [Dev.to/JS] [React.js + Typescript Clean Architecture](https://dev.to/danialdezfouli/reactjs-typescript-clean-architecture-5ig)
 - [Dev.to/JS] [How to create a Nodejs server and Add Swagger to a Project 🔥 and deployed on vercel CLI](https://dev.to/milan960/how-to-create-a-nodejs-server-and-add-swagger-to-a-project-and-deployed-on-vercel-cli-39a8)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Troubleshooting Hydration Failed Error in Next.js or react app](https://dev.to/ranjittherapids/troubleshooting-hydration-failed-error-in-nextjs-or-react-app-47fe)
 - [Dev.to/JS] [liinnkkko](https://dev.to/hichamelaziz855/liinnkkko-2cf9)
 - [Dev.to/JS] [my tiop link](https://dev.to/hichamelaziz212/my-tiop-link-130)
-- [Dev.to/JS] [linkouy](https://dev.to/hichamconstructeur420/linkouy-556)
-- [Dev.to/JS] [linkooo](https://dev.to/hichamelaziz60/linkooo-3f21)
-- [Dev.to/JS] [top linkh](https://dev.to/hichamazhari888/top-linkh-5c3o)
-- [Dev.to/JS] [my links](https://dev.to/hivftdr43/my-links-29gp)
 - [Lifehacker] [You Can Try DuckDuckGo&#39;s AI Search Right Now](https://lifehacker.com/you-can-try-duckduckgos-ai-search-right-now-1850203857)
 - [Lifehacker] [Don’t Fall for This Fake Parking Ticket Scam](https://lifehacker.com/don-t-fall-for-this-fake-parking-ticket-scam-1850204139)
 - [Lifehacker] [Maybe You Should Put Your Partner on a &#39;Performance Improvement Plan&#39;](https://lifehacker.com/maybe-you-should-put-your-partner-on-a-performance-impr-1850199254)
