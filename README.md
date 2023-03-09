@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Props in React JS: A Comprehensive Guide to Passing Data Between Components](https://dev.to/sidramaqbool/props-in-react-js-a-comprehensive-guide-to-passing-data-between-components-34do)
+- [Dev.to/JS] [Easy Beauty Components for React](https://dev.to/mdwahiduzzamanemon/easy-beauty-components-for-react-1amh)
 - [Dev.to/JS] [Code-Collab](https://dev.to/harshilshah99/code-collab-2hkn)
 - [Dev.to/JS] [[ดู-หนัง] หุ่นพยนต์ &lpar;2566&rpar; เต็มเรื่อง HD พากย์ไทย -ออนไลน์ 1080p/MP4](https://dev.to/hoonpayon2023mthai/duu-hnang-hunphynt-2566-etmeruueng-hd-phaakyaithy-nailn-1080pmp4-4gn6)
 - [Dev.to/JS] [A Form Builder for a dynamic form render in SolidJS](https://dev.to/ginollerena/a-form-builder-for-a-dynamic-form-render-in-solidjs-41f2)
@@ -33,10 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Thinking Back and Coding Forward](https://dev.to/nullivex/thinking-back-and-coding-forward-4e9k)
 - [Dev.to/JS] [Switch and Sort](https://dev.to/ccarlson249/switch-and-sort-36pb)
 - [Dev.to/JS] [A better useReducer: useHyperState](https://dev.to/zaceno/a-better-usereducer-usehyperstate-26db)
-- [Dev.to/JS] [NestJS - Unit and E2E testing](https://dev.to/rohithart/nestjs-unit-and-e2e-testing-7pb)
 - [Lifehacker] [You Can Try DuckDuckGo&#39;s AI Search Right Now](https://lifehacker.com/you-can-try-duckduckgos-ai-search-right-now-1850203857)
 - [Lifehacker] [Don’t Fall for This Fake Parking Ticket Scam](https://lifehacker.com/don-t-fall-for-this-fake-parking-ticket-scam-1850204139)
-- [Dev.to/JS] [Meet banditypes — the smallest TypeScript validation library](https://dev.to/thoughtspile/meet-banditypes-the-smallest-typescript-validation-library-58go)
 - [Lifehacker] [Maybe You Should Put Your Partner on a &#39;Performance Improvement Plan&#39;](https://lifehacker.com/maybe-you-should-put-your-partner-on-a-performance-impr-1850199254)
 - [Lifehacker] [14 Things You Should Never Do to Your Lawn](https://lifehacker.com/14-things-you-should-never-do-to-your-lawn-1850203382)
 - [Lifehacker] [How TikTok’s ‘Audio Torture’ Actually Works](https://lifehacker.com/how-tiktok-s-audio-torture-actually-works-1850203899)
