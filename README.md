@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Get CityPASS Tickets for up to 60% Off in These Cities Right Now](https://lifehacker.com/get-citypass-tickets-for-up-to-60-off-in-these-cities-1850208748)
+- [Dev.to/JS] [Those three things about TypeScript will shock you](https://dev.to/devdufutur/those-three-things-about-typescript-will-shock-you-2bc9)
+- [Lifehacker] [Braised Scallions Are the Perfect Cheap Weeknight Side Dish](https://lifehacker.com/braised-scallions-are-the-perfect-cheap-weeknight-side-1850209034)
+- [Dev.to/JS] [How to learn and use TypeScript + the bits no one teaches you.](https://dev.to/brianschnee/how-to-learn-and-use-typescript-the-bits-no-one-teaches-you-2667)
+- [Lifehacker] [Stop Eating Cold, Rubbery Pancakes](https://lifehacker.com/stop-eating-cold-rubbery-pancakes-1850207799)
 - [Dev.to/JS] [Episode 23/09: RouterTestingHarness, Signals, &quot;TypeScript Magic&quot; behind NgRx](https://dev.to/ng_news/episode-2309-routertestingharness-signals-typescript-magic-behind-ngrx-14nc)
 - [Dev.to/JS] [How To: Controlled Forms with React](https://dev.to/codybarker/how-to-controlled-forms-with-react-55h7)
 - [Lifehacker] [10 Psychoactive Drugs You Can Grow at Home](https://lifehacker.com/10-psychoactive-drugs-you-can-grow-at-home-1850208296)
@@ -37,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Recover From a Browser Hijacking Attack](https://lifehacker.com/how-to-recover-from-a-browser-hijacking-attack-1850206361)
 - [Dev.to/JS] [Ditch date-fns &amp; momentjs: Use Temporal Date API Instead](https://dev.to/ananddas/ditch-date-fns-momentjs-use-temporal-date-api-instead-4l90)
 - [Dev.to/JS] [How to add TypeScript to a NextJS project](https://dev.to/bobbyhalljr/how-to-add-typescript-to-a-nextjs-project-enf)
-- [Dev.to/JS] [JavaScript Scope](https://dev.to/hgerner19/javascript-scope-317n)
-- [Dev.to/JS] [JavaScript Execution Context: A Deep Dive](https://dev.to/jahid6597/javascript-execution-context-a-deep-dive-4kno)
 - [Lifehacker] [You Can Get a Free Mini Wok With Your Panda Express Order Right Now](https://lifehacker.com/you-can-get-a-free-mini-wok-with-your-panda-express-ord-1850207507)
 - [Lifehacker] [This Bathroom Staple Will Keep Your Trash Cans From Smelling Awful](https://lifehacker.com/this-bathroom-staple-will-keep-your-trash-cans-from-sme-1850207453)
 - [Lifehacker] [You&#39;re Probably Eligible to File Your Taxes for Free](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Pizza Deals For Pi Day](https://lifehacker.com/the-best-pizza-deals-for-pi-day-1850200301)
 - [Lifehacker] [Why All Your Love is Unrequited &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-all-your-love-is-unrequited-and-what-to-do-about-i-1850199210)
 - [Lifehacker] [What&#39;s Your Favorite Way to Reuse a Little Plastic Pizza Table?](https://lifehacker.com/whats-your-favorite-way-to-reuse-a-little-plastic-pizza-1850199512)
-- [Lifehacker] [All the Things Renters Insurance Doesn&#39;t Cover](https://lifehacker.com/all-the-things-renters-insurance-doesnt-cover-1850198661)
-- [Lifehacker] [18 Must-Play Vintage Games on Nintendo Switch Online](https://lifehacker.com/18-must-play-vintage-games-on-nintendo-switch-online-1850125303)
-- [Lifehacker] [15 Ways You Should Be Eating Whipped Cream &lpar;but Aren’t, Sadly&rpar;](https://lifehacker.com/15-ways-you-should-be-eating-whipped-cream-but-aren-t-1850195209)
-- [Lifehacker] [The Recruiting Buzzwords Every Job Seeker Should Know](https://lifehacker.com/the-recruiting-buzzwords-every-job-seeker-should-know-1850193599)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Things Renters Insurance Doesn&#39;t Cover](https://lifehacker.com/all-the-things-renters-insurance-doesnt-cover-1850198661)<!-- TECH-POSTS:END -->
 
 ---
 
