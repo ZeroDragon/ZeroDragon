@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Bathroom Staple Will Keep Your Trash Cans From Smelling Awful](https://lifehacker.com/this-bathroom-staple-will-keep-your-trash-cans-from-sme-1850207453)
+- [Dev.to/JS] [Easily modify your most used websites with this extension](https://dev.to/lucasvtiradentes/easily-modify-your-most-used-websites-with-this-extension-2hgf)
+- [Dev.to/JS] [Read, insert, update or delete with Supabase](https://dev.to/guillaumeduhan/read-insert-update-or-delete-with-supabase-4hej)
+- [Dev.to/JS] [When numbers don&#39;t make sense](https://dev.to/miguelmj/when-numbers-dont-make-sense-10gi)
+- [Lifehacker] [You&#39;re Probably Eligible to File Your Taxes for Free](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)
+- [Dev.to/JS] [Send SMTP email with Node.js using Nodemailer](https://dev.to/deogadkarravina/send-smtp-email-with-nodejs-using-nodemailer-45l0)
 - [Lifehacker] [This Scam Is Making Payday Loans Even Worse](https://lifehacker.com/this-scam-is-making-payday-loans-even-worse-1850205618)
 - [Dev.to/JS] [Javascript Reduce method](https://dev.to/dprincecoder/javascript-reduce-method-2af9)
 - [Dev.to/JS] [High Order Function Explained](https://dev.to/rv90904/high-order-function-explained-20b1)
@@ -36,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building Single-Page Applications: A Comprehensive Guide &lpar;Series&rpar;](https://dev.to/scofieldidehen/building-single-page-applications-a-comprehensive-guide-series-3g0p)
 - [Dev.to/JS] [Actiflow - Prostate Health Results, Price, Complaints &amp; Warnings?](https://dev.to/actiflowinfo/actiflow-prostate-health-results-price-complaints-warnings-3gf9)
 - [Lifehacker] [Caramelize a Lemon Immediately](https://lifehacker.com/caramelize-a-lemon-immediately-1850204476)
-- [Dev.to/JS] [Drag and Drop Sortable List using HTML CSS &amp; JS: A Comprehensive Guide](https://dev.to/hassan_coder/drag-and-drop-sortable-list-using-html-css-js-a-comprehensive-guide-10po)
-- [Dev.to/JS] [Understanding the Advantages of JavaScript Frameworks for Beginners](https://dev.to/viktoriabors/understanding-the-advantages-of-javascript-frameworks-for-beginners-1hh8)
-- [Dev.to/JS] [I Switched to Low-code, Here&#39;s Why](https://dev.to/tranquilpuma830/i-switched-to-low-code-heres-why-4jm6)
-- [Dev.to/JS] [Light up Your Website with These Top Lightbox NPM Packages](https://dev.to/galebert/light-up-your-website-with-these-top-lightbox-npm-packages-417h)
 - [Lifehacker] [You Can Try DuckDuckGo&#39;s AI Search Right Now](https://lifehacker.com/you-can-try-duckduckgos-ai-search-right-now-1850203857)
 - [Lifehacker] [Don’t Fall for This Fake Parking Ticket Scam](https://lifehacker.com/don-t-fall-for-this-fake-parking-ticket-scam-1850204139)
 - [Lifehacker] [Maybe You Should Put Your Partner on a &#39;Performance Improvement Plan&#39;](https://lifehacker.com/maybe-you-should-put-your-partner-on-a-performance-impr-1850199254)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Stop Instagram From Sharing Your Posts on Facebook](https://lifehacker.com/you-can-stop-instagram-from-sharing-your-posts-on-faceb-1850199241)
 - [Lifehacker] [11 Spectacular Vertical Gardens You Can Grow in Small Spaces](https://lifehacker.com/11-spectacular-vertical-gardens-you-can-grow-in-small-s-1850197734)
 - [Lifehacker] [When &lpar;and How&rpar; to Disinfect Your Carpet](https://lifehacker.com/when-and-how-to-disinfect-your-carpet-1850197247)
-- [Lifehacker] [All the New Android Features Coming in the Next Pixel Drop](https://lifehacker.com/all-the-new-android-features-coming-in-the-next-pixel-d-1850197626)
-- [Lifehacker] [&#39;Cities: Skylines 2&#39; and 9 More Immersive World-Building Games Coming This Year](https://lifehacker.com/cities-skylines-2-and-9-more-immersive-world-building-1850197796)
-- [Lifehacker] [You Can Now Roll Over Unused 529 Funds to Your Kid’s Roth IRA](https://lifehacker.com/you-can-now-roll-over-unused-529-funds-to-your-kid-s-ro-1850196919)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the New Android Features Coming in the Next Pixel Drop](https://lifehacker.com/all-the-new-android-features-coming-in-the-next-pixel-d-1850197626)<!-- TECH-POSTS:END -->
 
 ---
 
