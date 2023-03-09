@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[ดู-] ขุนพันธ์ 3 &lpar;2566&rpar; เต็มเรื่อง HD พากย์ไทย -ออนไลน์ 1080p/MP4](https://dev.to/khunpan3thaifri/duu-khunphanth-3-2566-etmeruueng-hd-phaakyaithy-nailn-1080pmp4-12j1)
+- [Dev.to/JS] [142. Leetcode Solution in JavaScript](https://dev.to/chiki1601/142-leetcode-solution-in-javascript-5g5g)
 - [Dev.to/JS] [O que os símbolos&lpar;~&rpar; e &lpar;^&rpar; representam nas dependências de projetos?](https://dev.to/jessilyneh/o-que-os-simbolos-e-representam-nas-dependencias-de-projetos-jm0)
 - [Dev.to/JS] [My Journey as a Software Developer: Starting a Blog to Document My Progress](https://dev.to/abdurahman/my-journey-as-a-software-developer-starting-a-blog-to-document-my-progress-44pd)
 - [Dev.to/JS] [Thinking Back and Coding Forward](https://dev.to/nullivex/thinking-back-and-coding-forward-4e9k)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [14 Things You Should Never Do to Your Lawn](https://lifehacker.com/14-things-you-should-never-do-to-your-lawn-1850203382)
 - [Dev.to/JS] [Criando Form genérico no CrazyStack Next.js](https://dev.to/devdoido/criando-form-generico-no-crazystack-nextjs-2kb8)
 - [Dev.to/JS] [Tela de login no CrazyStack Next.js](https://dev.to/devdoido/tela-de-login-no-crazystack-nextjs-3ml7)
-- [Dev.to/JS] [React Query no CrazyStack Next.js](https://dev.to/devdoido/react-query-no-crazystack-nextjs-18c)
-- [Dev.to/JS] [Configuração do Plop.js no CrazyStack Next.js](https://dev.to/devdoido/configuracao-do-plopjs-no-crazystack-nextjs-30ab)
 - [Lifehacker] [How TikTok’s ‘Audio Torture’ Actually Works](https://lifehacker.com/how-tiktok-s-audio-torture-actually-works-1850203899)
 - [Lifehacker] [How to Make Truly Great Irish Soda Bread](https://lifehacker.com/how-to-make-truly-great-irish-soda-bread-1850203472)
 - [Lifehacker] [Your Student Loan Payment Might Be Dropping](https://lifehacker.com/your-student-loan-payment-might-be-dropping-1850203158)
