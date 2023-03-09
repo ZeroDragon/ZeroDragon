@@ -23,19 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Respond When Your Kid Shuts You Out](https://lifehacker.com/how-to-respond-when-your-kid-shuts-you-out-1850202747)
+- [Dev.to/JS] [Using Apps Script to Count Checkboxes in Google Sheets](https://dev.to/kcl/using-apps-script-to-count-checkboxes-in-google-sheets-217g)
+- [Dev.to/JS] [Undetectable YouTube automation - The Challenge | Part -2](https://dev.to/abhiprojectz/undetectable-youtube-automation-the-challenge-part-2-18lm)
+- [Lifehacker] [18 Times Someone Won an Oscar for the Wrong Movie](https://lifehacker.com/18-times-someone-won-an-oscar-for-the-wrong-movie-1850197213)
+- [Dev.to/JS] [Create event-driven applications with Cloudflare queues and Dapr](https://dev.to/diagrid/create-event-driven-applications-with-cloudflare-queues-and-dapr-3an8)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Visualizando PDF](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-visualizando-pdf-2608)
+- [Dev.to/JS] [Building Single-Page Applications: A Comprehensive Guide &lpar;Series&rpar;](https://dev.to/scofieldidehen/building-single-page-applications-a-comprehensive-guide-series-3g0p)
 - [Dev.to/JS] [Actiflow - Prostate Health Results, Price, Complaints &amp; Warnings?](https://dev.to/actiflowinfo/actiflow-prostate-health-results-price-complaints-warnings-3gf9)
 - [Lifehacker] [Caramelize a Lemon Immediately](https://lifehacker.com/caramelize-a-lemon-immediately-1850204476)
+- [Dev.to/JS] [Drag and Drop Sortable List using HTML CSS &amp; JS: A Comprehensive Guide](https://dev.to/hassan_coder/drag-and-drop-sortable-list-using-html-css-js-a-comprehensive-guide-10po)
 - [Dev.to/JS] [Understanding the Advantages of JavaScript Frameworks for Beginners](https://dev.to/viktoriabors/understanding-the-advantages-of-javascript-frameworks-for-beginners-1hh8)
 - [Dev.to/JS] [I Switched to Low-code, Here&#39;s Why](https://dev.to/tranquilpuma830/i-switched-to-low-code-heres-why-4jm6)
 - [Dev.to/JS] [my top links](https://dev.to/hichamelaziz767/my-top-links-5785)
 - [Dev.to/JS] [linkooo](https://dev.to/elazizhicham2/linkooo-33g)
 - [Dev.to/JS] [Light up Your Website with These Top Lightbox NPM Packages](https://dev.to/galebert/light-up-your-website-with-these-top-lightbox-npm-packages-417h)
-- [Dev.to/JS] [my linkoo](https://dev.to/hichamelaziz454/my-linkoo-482b)
-- [Dev.to/JS] [API Fetch](https://dev.to/marcopolello/api-fetch-2g6p)
-- [Dev.to/JS] [my linkd](https://dev.to/hichamelaziz434/my-linkd-2elk)
-- [Dev.to/JS] [top linkkk](https://dev.to/hichamelaziz48/top-linkkk-4mej)
-- [Dev.to/JS] [top linkooo](https://dev.to/hichamelaziz66/top-linkooo-188i)
-- [Dev.to/JS] [linkoo](https://dev.to/hichamelaziz455/linkoo-e5j)
 - [Lifehacker] [You Can Try DuckDuckGo&#39;s AI Search Right Now](https://lifehacker.com/you-can-try-duckduckgos-ai-search-right-now-1850203857)
 - [Lifehacker] [Don’t Fall for This Fake Parking Ticket Scam](https://lifehacker.com/don-t-fall-for-this-fake-parking-ticket-scam-1850204139)
 - [Lifehacker] [Maybe You Should Put Your Partner on a &#39;Performance Improvement Plan&#39;](https://lifehacker.com/maybe-you-should-put-your-partner-on-a-performance-impr-1850199254)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;Cities: Skylines 2&#39; and 9 More Immersive World-Building Games Coming This Year](https://lifehacker.com/cities-skylines-2-and-9-more-immersive-world-building-1850197796)
 - [Lifehacker] [You Can Now Roll Over Unused 529 Funds to Your Kid’s Roth IRA](https://lifehacker.com/you-can-now-roll-over-unused-529-funds-to-your-kid-s-ro-1850196919)
 - [Lifehacker] [The ‘New’ iPhone Actually Isn’t New](https://lifehacker.com/the-new-iphone-actually-isn-t-new-1850196882)
-- [Lifehacker] [The Easiest Ways to Get Rid of Your Popcorn Ceiling](https://lifehacker.com/the-easiest-ways-to-get-rid-of-your-popcorn-ceiling-1850195900)
-- [Lifehacker] [Make Creamier, Spicier Scrambled Eggs With Buffalo Sauce](https://lifehacker.com/make-creamier-spicier-scrambled-eggs-with-buffalo-sauc-1850194283)
-- [Lifehacker] [Do These Things Now to Prepare for Daylight Saving Time](https://lifehacker.com/do-these-things-now-to-prepare-for-daylight-saving-time-1850194365)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Ways to Get Rid of Your Popcorn Ceiling](https://lifehacker.com/the-easiest-ways-to-get-rid-of-your-popcorn-ceiling-1850195900)<!-- TECH-POSTS:END -->
 
 ---
 
