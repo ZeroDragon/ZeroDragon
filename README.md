@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Integrate Dynamic Web TWAIN into Flutter Windows Desktop Application](https://dev.to/yushulx/how-to-integrate-dynamic-web-twain-into-flutter-windows-desktop-application-2o06)
+- [Dev.to/JS] [How to use test.each to avoid repetitive tests in jest](https://dev.to/codepedia/how-to-use-testeach-to-avoid-repetitive-tests-in-jest-325e)
+- [Dev.to/JS] [The most popular programming languages on GitHub](https://dev.to/szabgab/the-most-popular-programming-languages-on-github-2i6b)
 - [Dev.to/JS] [Module Federation in Production: architecture, development workflow, and deployments](https://dev.to/burhanuday/module-federation-in-production-architecture-development-workflow-and-deployments-3ahf)
 - [Dev.to/JS] [Redux Basic Configuration and folder &amp; files Mid.](https://dev.to/jriveraddiaz/redux-basic-configuration-and-folder-files-mid-48ef)
 - [Dev.to/JS] [5 Tips for Optimizing the Performance of Your NodeJS Application](https://dev.to/devhoangkien/5-tips-for-optimizing-the-performance-of-your-nodejs-application-2b68)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The importance of use Infinity on your JavaScript code.](https://dev.to/jesusjimenezc/the-importance-of-use-infinity-on-your-javascript-code-28cb)
 - [Dev.to/JS] [Creating a tab component in React](https://dev.to/michaelburrows/creating-a-tab-component-in-react-46hk)
 - [Dev.to/JS] [Rspack: The Rust-Based Web Bundler that Combines High Performance with Interoperability](https://dev.to/valorsoftware/rspack-the-rust-based-web-bundler-that-combines-high-performance-with-interoperability-45m8)
-- [Dev.to/JS] [Building a Pokemon Card Collection with React and Chakra UI](https://dev.to/kristend/building-a-pokemon-card-collection-with-react-and-chakra-ui-1odc)
-- [Dev.to/JS] [Solid.js: The Lightweight, Reactive JavaScript Library You Need to Know About](https://dev.to/brunoromero/solidjs-the-lightweight-reactive-javascript-library-you-need-to-know-about-4nnb)
-- [Dev.to/JS] [Getting back to writing...](https://dev.to/resotap/getting-back-to-writing-5cg7)
 - [Lifehacker] [No, Celebrities Don&#39;t Need to Eat 8,000 Calories to Get Swole](https://lifehacker.com/no-celebrities-dont-need-to-eat-8-000-calories-to-get-1850208846)
 - [Lifehacker] [Get CityPASS Tickets for up to 60% Off in These Cities Right Now](https://lifehacker.com/get-citypass-tickets-for-up-to-60-off-in-these-cities-1850208748)
 - [Lifehacker] [Braised Scallions Are the Perfect Cheap Weeknight Side Dish](https://lifehacker.com/braised-scallions-are-the-perfect-cheap-weeknight-side-1850209034)
