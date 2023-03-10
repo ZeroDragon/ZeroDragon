@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Hassle-free way to find my address](https://dev.to/arifhosen/the-hassle-free-way-to-find-my-address-1217)
+- [Dev.to/JS] [Conditional Statements: A Quick Intro](https://dev.to/gabetronic/conditional-statements-a-quick-intro-705)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is a &#39;Tradwife Influencer&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-a-1850210814)
+- [Dev.to/JS] [Add a Google Font to Tailwind CSS | 2023](https://dev.to/jonesrussell/add-a-google-font-to-tailwind-css-2023-651)
+- [Dev.to/JS] [Steps to adopt micro frontends architecture for your frontend application in Angular](https://dev.to/hardiquedasore/steps-to-adopt-micro-frontends-architecture-for-your-frontend-application-in-angular-36ce)
 - [Lifehacker] [How to Identify and Report an Illegal Job Posting](https://lifehacker.com/how-to-identify-and-report-an-illegal-job-posting-1833295818)
 - [Lifehacker] [20 Times the Oscars Got It Exactly Right](https://lifehacker.com/20-times-the-oscars-got-it-exactly-right-1850206612)
 - [Dev.to/JS] [Autoplaying Amazon IVS Live Streams](https://dev.to/aws/autoplaying-amazon-ivs-live-streams-15bd)
@@ -36,12 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Code the Sieve of Eratosthenes Algorithm](https://dev.to/nielsenjared/how-to-code-the-sieve-of-eratosthenes-algorithm-2n8g)
 - [Dev.to/JS] [Paracetamol.ts💊| #30: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-30-explica-este-codigo-typescript-295p)
 - [Lifehacker] [Use Google to Translate Text in Any Image](https://lifehacker.com/use-google-to-translate-text-in-any-image-1850209008)
-- [Dev.to/JS] [Formularios dinámicos con React Hook Form. 📝](https://dev.to/franklin030601/formularios-dinamicos-con-react-hook-form-22if)
-- [Dev.to/JS] [Dynamic forms with React Hook Form. 📝](https://dev.to/franklin030601/dynamic-forms-with-react-hook-form-2ml8)
-- [Dev.to/JS] [Review of state management in React: reducer-like solutions - Redux and its family](https://dev.to/licg9999/review-of-state-management-in-react-reducer-like-solutions-redux-and-its-family-4eb)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Uma árvore com ciclos diferentes](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-uma-arvore-com-ciclos-diferentes-813)
 - [Lifehacker] [No, Celebrities Don&#39;t Need to Eat 8,000 Calories to Get Swole](https://lifehacker.com/no-celebrities-dont-need-to-eat-8-000-calories-to-get-1850208846)
-- [Lifehacker] [Get CityPASS Tickets for up to 60% Off in These Cities Right Now](https://lifehacker.com/get-citypass-tickets-for-up-to-60-off-in-these-cities-1850208748)
+- [Lifehacker] [Get CityPASS Tickets for up to 53% Off in These Cities Right Now](https://lifehacker.com/get-citypass-tickets-for-up-to-60-off-in-these-cities-1850208748)
 - [Lifehacker] [Braised Scallions Are the Perfect Cheap Weeknight Side Dish](https://lifehacker.com/braised-scallions-are-the-perfect-cheap-weeknight-side-1850209034)
 - [Lifehacker] [Stop Eating Cold, Rubbery Pancakes](https://lifehacker.com/stop-eating-cold-rubbery-pancakes-1850207799)
 - [Lifehacker] [10 Psychoactive Drugs You Can Grow at Home](https://lifehacker.com/10-psychoactive-drugs-you-can-grow-at-home-1850208296)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Maybe You Should Put Your Partner on a &#39;Performance Improvement Plan&#39;](https://lifehacker.com/maybe-you-should-put-your-partner-on-a-performance-impr-1850199254)
 - [Lifehacker] [14 Things You Should Never Do to Your Lawn](https://lifehacker.com/14-things-you-should-never-do-to-your-lawn-1850203382)
 - [Lifehacker] [How TikTok’s ‘Audio Torture’ Actually Works](https://lifehacker.com/how-tiktok-s-audio-torture-actually-works-1850203899)
-- [Lifehacker] [How to Make Truly Great Irish Soda Bread](https://lifehacker.com/how-to-make-truly-great-irish-soda-bread-1850203472)
-- [Lifehacker] [Your Student Loan Payment Might Be Dropping](https://lifehacker.com/your-student-loan-payment-might-be-dropping-1850203158)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make Truly Great Irish Soda Bread](https://lifehacker.com/how-to-make-truly-great-irish-soda-bread-1850203472)<!-- TECH-POSTS:END -->
 
 ---
 
