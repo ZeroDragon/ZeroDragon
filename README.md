@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Identify and Report an Illegal Job Posting](https://lifehacker.com/how-to-identify-and-report-an-illegal-job-posting-1833295818)
+- [Lifehacker] [20 Times the Oscars Got It Exactly Right](https://lifehacker.com/20-times-the-oscars-got-it-exactly-right-1850206612)
+- [Dev.to/JS] [Autoplaying Amazon IVS Live Streams](https://dev.to/aws/autoplaying-amazon-ivs-live-streams-15bd)
+- [Dev.to/JS] [Criando componente de modal genérico com Chakra UI no CrazyStack Next.js](https://dev.to/devdoido/criando-componente-de-modal-generico-com-chakra-ui-no-crazystack-nextjs-494a)
+- [Dev.to/JS] [Carregando usuário logado do cookie no CrazyStack Next.js](https://dev.to/devdoido/carregando-usuario-logado-do-cookie-no-crazystack-nextjs-1gk)
+- [Dev.to/JS] [Feature completa de login no CrazyStack Next.js](https://dev.to/devdoido/feature-completa-de-login-no-crazystack-nextjs-2l52)
+- [Lifehacker] [Get up to 95% Off Bike Parts and Accessories in This Liquidation Sale](https://lifehacker.com/get-up-to-95-off-bike-parts-and-accessories-in-this-li-1850210022)
 - [Dev.to/JS] [12 Unusual VS Code Extensions You Definitely Need As a Developer](https://dev.to/metamark/12-unusual-vs-code-extensions-you-definitely-need-as-a-developer-3b0l)
 - [Lifehacker] [How to Make the TikTok Banana Coffee Even Better](https://lifehacker.com/how-to-make-the-tiktok-banana-coffee-even-better-1850209892)
 - [Dev.to/JS] [switch-case statement in PHP learn free Guide](https://dev.to/monabarik1997/switch-case-statement-in-php-learn-free-guide-49a5)
@@ -33,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dynamic forms with React Hook Form. 📝](https://dev.to/franklin030601/dynamic-forms-with-react-hook-form-2ml8)
 - [Dev.to/JS] [Review of state management in React: reducer-like solutions - Redux and its family](https://dev.to/licg9999/review-of-state-management-in-react-reducer-like-solutions-redux-and-its-family-4eb)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Uma árvore com ciclos diferentes](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-uma-arvore-com-ciclos-diferentes-813)
-- [Dev.to/JS] [Introduction to ReactJS and its key features](https://dev.to/codewithsom/introduction-to-reactjs-and-its-key-features-4dii)
-- [Dev.to/JS] [Money-Saving Made Easy: Expert Tips On Budgeting To Help You Save Big](https://dev.to/savewithblogs/money-saving-made-easy-expert-tips-on-budgeting-to-help-you-save-big-8h4)
-- [Dev.to/JS] [Vite Integration](https://dev.to/mdbootstrap/vite-integration-3hp9)
-- [Dev.to/JS] [Get Ahead of the Competition: 17 Common Interview Questions and Answers for DBA, Sys-Admin, Security, Hackathon, and JavaScript](https://dev.to/ananddas/get-ahead-of-the-competition-17-common-interview-questions-and-answers-for-dba-sys-admin-security-hackathon-and-javascript-he8)
 - [Lifehacker] [No, Celebrities Don&#39;t Need to Eat 8,000 Calories to Get Swole](https://lifehacker.com/no-celebrities-dont-need-to-eat-8-000-calories-to-get-1850208846)
 - [Lifehacker] [Get CityPASS Tickets for up to 60% Off in These Cities Right Now](https://lifehacker.com/get-citypass-tickets-for-up-to-60-off-in-these-cities-1850208748)
 - [Lifehacker] [Braised Scallions Are the Perfect Cheap Weeknight Side Dish](https://lifehacker.com/braised-scallions-are-the-perfect-cheap-weeknight-side-1850209034)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [14 Things You Should Never Do to Your Lawn](https://lifehacker.com/14-things-you-should-never-do-to-your-lawn-1850203382)
 - [Lifehacker] [How TikTok’s ‘Audio Torture’ Actually Works](https://lifehacker.com/how-tiktok-s-audio-torture-actually-works-1850203899)
 - [Lifehacker] [How to Make Truly Great Irish Soda Bread](https://lifehacker.com/how-to-make-truly-great-irish-soda-bread-1850203472)
-- [Lifehacker] [Your Student Loan Payment Might Be Dropping](https://lifehacker.com/your-student-loan-payment-might-be-dropping-1850203158)
-- [Lifehacker] [Discord Integration, and More New Features Coming to Your PS5](https://lifehacker.com/discord-integration-and-more-new-features-coming-to-yo-1850202421)
-- [Lifehacker] [How to Spot a Fine Motor Delay in Your Child](https://lifehacker.com/how-to-spot-a-fine-motor-delay-in-your-child-1850200747)
-- [Lifehacker] [The Best Pizza Deals For Pi Day](https://lifehacker.com/the-best-pizza-deals-for-pi-day-1850200301)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Student Loan Payment Might Be Dropping](https://lifehacker.com/your-student-loan-payment-might-be-dropping-1850203158)<!-- TECH-POSTS:END -->
 
 ---
 
