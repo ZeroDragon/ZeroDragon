@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing js-file_downloader--emon: A Powerful JavaScript File Downloader Package](https://dev.to/mdwahiduzzamanemon/introducing-js-filedownloader-emon-a-powerful-javascript-file-downloader-package-226l)
+- [Dev.to/JS] [How To Hire Packers and Movers in Hisar](https://dev.to/shiftingway/how-to-hire-packers-and-movers-in-hisar-4kk6)
+- [Dev.to/JS] [Intermediate Git commands](https://dev.to/vincod/intermediate-git-commands-38kd)
+- [Lifehacker] [Make Brittle, Crunchy Cookies &lpar;on Purpose&rpar; With Melted Butter](https://lifehacker.com/make-brittle-crunchy-cookies-on-purpose-with-melted-1850212465)
+- [Dev.to/JS] [Closures in JavaScript](https://dev.to/santhoshdhadi/closures-in-javascript-4e6f)
+- [Dev.to/JS] [Functional Email Form in React with EmailJS](https://dev.to/cedsengine/functional-email-form-in-react-with-emailjs-5ehn)
 - [Lifehacker] [Make a DIY Lazy Susan](https://lifehacker.com/make-a-diy-lazy-susan-1850212626)
 - [Lifehacker] [Why You Shouldn&#39;t Use Winter Gas in the Summer &lpar;or Vice Versa&rpar;](https://lifehacker.com/why-you-shouldnt-use-winter-gas-in-the-summer-or-vice-1850212633)
 - [Dev.to/JS] [How to Create a Simple Calculator Application Using the useState Hook](https://dev.to/sidramaqbool/how-to-create-a-simple-calculator-application-using-the-usestate-hook-2pfm)
@@ -36,13 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Identify and Report an Illegal Job Posting](https://lifehacker.com/how-to-identify-and-report-an-illegal-job-posting-1833295818)
 - [Lifehacker] [20 Times the Oscars Got It Exactly Right](https://lifehacker.com/20-times-the-oscars-got-it-exactly-right-1850206612)
 - [Dev.to/JS] [Autoplaying Amazon IVS Live Streams](https://dev.to/aws/autoplaying-amazon-ivs-live-streams-15bd)
-- [Dev.to/JS] [Criando componente de modal genérico com Chakra UI no CrazyStack Next.js](https://dev.to/devdoido/criando-componente-de-modal-generico-com-chakra-ui-no-crazystack-nextjs-494a)
-- [Dev.to/JS] [Carregando usuário logado do cookie no CrazyStack Next.js](https://dev.to/devdoido/carregando-usuario-logado-do-cookie-no-crazystack-nextjs-1gk)
-- [Dev.to/JS] [Feature completa de login no CrazyStack Next.js](https://dev.to/devdoido/feature-completa-de-login-no-crazystack-nextjs-2l52)
 - [Lifehacker] [Get up to 95% Off Bike Parts and Accessories in This Liquidation Sale](https://lifehacker.com/get-up-to-95-off-bike-parts-and-accessories-in-this-li-1850210022)
-- [Dev.to/JS] [12 Unusual VS Code Extensions You Definitely Need As a Developer](https://dev.to/metamark/12-unusual-vs-code-extensions-you-definitely-need-as-a-developer-3b0l)
 - [Lifehacker] [How to Make the TikTok Banana Coffee Even Better](https://lifehacker.com/how-to-make-the-tiktok-banana-coffee-even-better-1850209892)
-- [Dev.to/JS] [switch-case statement in PHP learn free Guide](https://dev.to/monabarik1997/switch-case-statement-in-php-learn-free-guide-49a5)
 - [Lifehacker] [Use Google to Translate Text in Any Image](https://lifehacker.com/use-google-to-translate-text-in-any-image-1850209008)
 - [Lifehacker] [No, Celebrities Don&#39;t Need to Eat 8,000 Calories to Get Swole](https://lifehacker.com/no-celebrities-dont-need-to-eat-8-000-calories-to-get-1850208846)
 - [Lifehacker] [Get CityPASS Tickets for up to 53% Off in These Cities Right Now](https://lifehacker.com/get-citypass-tickets-for-up-to-60-off-in-these-cities-1850208748)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [18 Times Someone Won an Oscar for the Wrong Movie](https://lifehacker.com/18-times-someone-won-an-oscar-for-the-wrong-movie-1850197213)
 - [Lifehacker] [Caramelize a Lemon Immediately](https://lifehacker.com/caramelize-a-lemon-immediately-1850204476)
 - [Lifehacker] [You Can Try DuckDuckGo&#39;s AI Search Right Now](https://lifehacker.com/you-can-try-duckduckgos-ai-search-right-now-1850203857)
-- [Lifehacker] [Don’t Fall for This Fake Parking Ticket Scam](https://lifehacker.com/don-t-fall-for-this-fake-parking-ticket-scam-1850204139)
-- [Lifehacker] [Maybe You Should Put Your Partner on a &#39;Performance Improvement Plan&#39;](https://lifehacker.com/maybe-you-should-put-your-partner-on-a-performance-impr-1850199254)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Fall for This Fake Parking Ticket Scam](https://lifehacker.com/don-t-fall-for-this-fake-parking-ticket-scam-1850204139)<!-- TECH-POSTS:END -->
 
 ---
 
