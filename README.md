@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make a DIY Lazy Susan](https://lifehacker.com/make-a-diy-lazy-susan-1850212626)
+- [Lifehacker] [Why You Shouldn&#39;t Use Winter Gas in the Summer &lpar;or Vice Versa&rpar;](https://lifehacker.com/why-you-shouldnt-use-winter-gas-in-the-summer-or-vice-1850212633)
+- [Dev.to/JS] [How to Create a Simple Calculator Application Using the useState Hook](https://dev.to/sidramaqbool/how-to-create-a-simple-calculator-application-using-the-usestate-hook-2pfm)
+- [Dev.to/JS] [How to use SolidJS library with ReactJS](https://dev.to/dbarabashdev/how-to-use-solidjs-library-with-reactjs-and-typescript-202e)
+- [Lifehacker] [Do This Before Asking for More Flexibility at Work](https://lifehacker.com/do-this-before-asking-for-more-flexibility-at-work-1850211566)
 - [Dev.to/JS] [The Hassle-free way to find my address](https://dev.to/arifhosen/the-hassle-free-way-to-find-my-address-1217)
 - [Dev.to/JS] [Conditional Statements: A Quick Intro](https://dev.to/gabetronic/conditional-statements-a-quick-intro-705)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is a &#39;Tradwife Influencer&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-a-1850210814)
@@ -38,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [12 Unusual VS Code Extensions You Definitely Need As a Developer](https://dev.to/metamark/12-unusual-vs-code-extensions-you-definitely-need-as-a-developer-3b0l)
 - [Lifehacker] [How to Make the TikTok Banana Coffee Even Better](https://lifehacker.com/how-to-make-the-tiktok-banana-coffee-even-better-1850209892)
 - [Dev.to/JS] [switch-case statement in PHP learn free Guide](https://dev.to/monabarik1997/switch-case-statement-in-php-learn-free-guide-49a5)
-- [Dev.to/JS] [How to Code the Sieve of Eratosthenes Algorithm](https://dev.to/nielsenjared/how-to-code-the-sieve-of-eratosthenes-algorithm-2n8g)
-- [Dev.to/JS] [Paracetamol.ts💊| #30: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-30-explica-este-codigo-typescript-295p)
 - [Lifehacker] [Use Google to Translate Text in Any Image](https://lifehacker.com/use-google-to-translate-text-in-any-image-1850209008)
 - [Lifehacker] [No, Celebrities Don&#39;t Need to Eat 8,000 Calories to Get Swole](https://lifehacker.com/no-celebrities-dont-need-to-eat-8-000-calories-to-get-1850208846)
 - [Lifehacker] [Get CityPASS Tickets for up to 53% Off in These Cities Right Now](https://lifehacker.com/get-citypass-tickets-for-up-to-60-off-in-these-cities-1850208748)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Caramelize a Lemon Immediately](https://lifehacker.com/caramelize-a-lemon-immediately-1850204476)
 - [Lifehacker] [You Can Try DuckDuckGo&#39;s AI Search Right Now](https://lifehacker.com/you-can-try-duckduckgos-ai-search-right-now-1850203857)
 - [Lifehacker] [Don’t Fall for This Fake Parking Ticket Scam](https://lifehacker.com/don-t-fall-for-this-fake-parking-ticket-scam-1850204139)
-- [Lifehacker] [Maybe You Should Put Your Partner on a &#39;Performance Improvement Plan&#39;](https://lifehacker.com/maybe-you-should-put-your-partner-on-a-performance-impr-1850199254)
-- [Lifehacker] [14 Things You Should Never Do to Your Lawn](https://lifehacker.com/14-things-you-should-never-do-to-your-lawn-1850203382)
-- [Lifehacker] [How TikTok’s ‘Audio Torture’ Actually Works](https://lifehacker.com/how-tiktok-s-audio-torture-actually-works-1850203899)
-- [Lifehacker] [How to Make Truly Great Irish Soda Bread](https://lifehacker.com/how-to-make-truly-great-irish-soda-bread-1850203472)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Maybe You Should Put Your Partner on a &#39;Performance Improvement Plan&#39;](https://lifehacker.com/maybe-you-should-put-your-partner-on-a-performance-impr-1850199254)<!-- TECH-POSTS:END -->
 
 ---
 
