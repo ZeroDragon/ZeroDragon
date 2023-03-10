@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Part 1: From OOP to FP...](https://dev.to/tfnielsonse/part-1-from-oop-to-fp-2ajm)
 - [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
 - [Dev.to/JS] [Reasons Why Class Selectors Shouldn&#39;t Be Used in JavaScript!](https://dev.to/fpaghar/reasons-why-class-selectors-shouldnt-be-used-in-javascript-3pff)
 - [Dev.to/JS] [elephant project](https://dev.to/sw06041981/elephant-project-coo)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Podcasts That Are Basically Game Shows](https://lifehacker.com/12-podcasts-that-are-basically-game-shows-1850194507)
 - [Dev.to/JS] [How to Learn and Use TypeScript: A Comprehensive Beginner&#39;s Guide](https://dev.to/brianschnee/how-to-learn-and-use-typescript-a-comprehensive-beginners-guide-5l)
 - [Dev.to/JS] [Introducing js-file_downloader--emon: A Powerful JavaScript File Downloader Package](https://dev.to/mdwahiduzzamanemon/introducing-js-filedownloader-emon-a-powerful-javascript-file-downloader-package-226l)
-- [Dev.to/JS] [Intermediate Git commands](https://dev.to/vincod/intermediate-git-commands-38kd)
 - [Lifehacker] [Make Brittle, Crunchy Cookies &lpar;on Purpose&rpar; With Melted Butter](https://lifehacker.com/make-brittle-crunchy-cookies-on-purpose-with-melted-1850212465)
 - [Lifehacker] [Make a DIY Lazy Susan](https://lifehacker.com/make-a-diy-lazy-susan-1850212626)
 - [Lifehacker] [Why You Shouldn&#39;t Use Winter Gas in the Summer &lpar;or Vice Versa&rpar;](https://lifehacker.com/why-you-shouldnt-use-winter-gas-in-the-summer-or-vice-1850212633)
