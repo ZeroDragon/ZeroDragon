@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is blocking off my JavaScript?](https://dev.to/monetor4/what-is-blocking-off-my-javascript-4akc)
+- [Dev.to/JS] [that one time I pushed multiple bugs into production](https://dev.to/cybergenie/that-one-time-i-pushed-multiple-bugs-into-production-acg)
 - [Dev.to/JS] [How to Integrate Dynamic Web TWAIN into Flutter Windows Desktop Application](https://dev.to/yushulx/how-to-integrate-dynamic-web-twain-into-flutter-windows-desktop-application-2o06)
 - [Dev.to/JS] [How to use test.each to avoid repetitive tests in jest](https://dev.to/codepedia/how-to-use-testeach-to-avoid-repetitive-tests-in-jest-325e)
 - [Dev.to/JS] [The most popular programming languages on GitHub](https://dev.to/szabgab/the-most-popular-programming-languages-on-github-2i6b)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating AWS CloudWatch Logs using .NET Console Application: A Step-by-Step Guide](https://dev.to/dileepamabulage/creating-aws-cloudwatch-logs-using-net-console-application-a-step-by-step-guide-2a1m)
 - [Dev.to/JS] [JavaScript Variables](https://dev.to/cooptothe/javascript-variables-23bl)
 - [Dev.to/JS] [The importance of use Infinity on your JavaScript code.](https://dev.to/jesusjimenezc/the-importance-of-use-infinity-on-your-javascript-code-28cb)
-- [Dev.to/JS] [Creating a tab component in React](https://dev.to/michaelburrows/creating-a-tab-component-in-react-46hk)
-- [Dev.to/JS] [Rspack: The Rust-Based Web Bundler that Combines High Performance with Interoperability](https://dev.to/valorsoftware/rspack-the-rust-based-web-bundler-that-combines-high-performance-with-interoperability-45m8)
 - [Lifehacker] [No, Celebrities Don&#39;t Need to Eat 8,000 Calories to Get Swole](https://lifehacker.com/no-celebrities-dont-need-to-eat-8-000-calories-to-get-1850208846)
 - [Lifehacker] [Get CityPASS Tickets for up to 60% Off in These Cities Right Now](https://lifehacker.com/get-citypass-tickets-for-up-to-60-off-in-these-cities-1850208748)
 - [Lifehacker] [Braised Scallions Are the Perfect Cheap Weeknight Side Dish](https://lifehacker.com/braised-scallions-are-the-perfect-cheap-weeknight-side-1850209034)
