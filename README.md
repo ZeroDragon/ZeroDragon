@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [12 Unusual VS Code Extensions You Definitely Need As a Developer](https://dev.to/metamark/12-unusual-vs-code-extensions-you-definitely-need-as-a-developer-3b0l)
+- [Lifehacker] [How to Make the TikTok Banana Coffee Even Better](https://lifehacker.com/how-to-make-the-tiktok-banana-coffee-even-better-1850209892)
+- [Dev.to/JS] [switch-case statement in PHP learn free Guide](https://dev.to/monabarik1997/switch-case-statement-in-php-learn-free-guide-49a5)
+- [Dev.to/JS] [How to Code the Sieve of Eratosthenes Algorithm](https://dev.to/nielsenjared/how-to-code-the-sieve-of-eratosthenes-algorithm-2n8g)
 - [Dev.to/JS] [Paracetamol.ts💊| #30: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-30-explica-este-codigo-typescript-295p)
+- [Lifehacker] [Use Google to Translate Text in Any Image](https://lifehacker.com/use-google-to-translate-text-in-any-image-1850209008)
 - [Dev.to/JS] [Formularios dinámicos con React Hook Form. 📝](https://dev.to/franklin030601/formularios-dinamicos-con-react-hook-form-22if)
 - [Dev.to/JS] [Dynamic forms with React Hook Form. 📝](https://dev.to/franklin030601/dynamic-forms-with-react-hook-form-2ml8)
 - [Dev.to/JS] [Review of state management in React: reducer-like solutions - Redux and its family](https://dev.to/licg9999/review-of-state-management-in-react-reducer-like-solutions-redux-and-its-family-4eb)
@@ -32,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Money-Saving Made Easy: Expert Tips On Budgeting To Help You Save Big](https://dev.to/savewithblogs/money-saving-made-easy-expert-tips-on-budgeting-to-help-you-save-big-8h4)
 - [Dev.to/JS] [Vite Integration](https://dev.to/mdbootstrap/vite-integration-3hp9)
 - [Dev.to/JS] [Get Ahead of the Competition: 17 Common Interview Questions and Answers for DBA, Sys-Admin, Security, Hackathon, and JavaScript](https://dev.to/ananddas/get-ahead-of-the-competition-17-common-interview-questions-and-answers-for-dba-sys-admin-security-hackathon-and-javascript-he8)
-- [Dev.to/JS] [How to navigate without BuildContext](https://dev.to/sunflowerlab/how-to-navigate-without-buildcontext-5ddl)
-- [Dev.to/JS] [A Beginner’s Guide to TypeScript: Understanding the Benefits and Getting Started](https://dev.to/imran_1997/a-beginners-guide-to-typescript-understanding-the-benefits-and-getting-started-42op)
-- [Dev.to/JS] [In what areas ChatGPT can help?](https://dev.to/baljeet975/in-what-areas-chatgpt-can-help-4ig)
 - [Lifehacker] [No, Celebrities Don&#39;t Need to Eat 8,000 Calories to Get Swole](https://lifehacker.com/no-celebrities-dont-need-to-eat-8-000-calories-to-get-1850208846)
 - [Lifehacker] [Get CityPASS Tickets for up to 60% Off in These Cities Right Now](https://lifehacker.com/get-citypass-tickets-for-up-to-60-off-in-these-cities-1850208748)
 - [Lifehacker] [Braised Scallions Are the Perfect Cheap Weeknight Side Dish](https://lifehacker.com/braised-scallions-are-the-perfect-cheap-weeknight-side-1850209034)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Student Loan Payment Might Be Dropping](https://lifehacker.com/your-student-loan-payment-might-be-dropping-1850203158)
 - [Lifehacker] [Discord Integration, and More New Features Coming to Your PS5](https://lifehacker.com/discord-integration-and-more-new-features-coming-to-yo-1850202421)
 - [Lifehacker] [How to Spot a Fine Motor Delay in Your Child](https://lifehacker.com/how-to-spot-a-fine-motor-delay-in-your-child-1850200747)
-- [Lifehacker] [The Best Pizza Deals For Pi Day](https://lifehacker.com/the-best-pizza-deals-for-pi-day-1850200301)
-- [Lifehacker] [Why All Your Love is Unrequited &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-all-your-love-is-unrequited-and-what-to-do-about-i-1850199210)
-- [Lifehacker] [What&#39;s Your Favorite Way to Reuse a Little Plastic Pizza Table?](https://lifehacker.com/whats-your-favorite-way-to-reuse-a-little-plastic-pizza-1850199512)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Pizza Deals For Pi Day](https://lifehacker.com/the-best-pizza-deals-for-pi-day-1850200301)<!-- TECH-POSTS:END -->
 
 ---
 
