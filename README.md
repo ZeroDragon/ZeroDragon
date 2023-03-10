@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [firstyy](https://dev.to/oussamaelbenney/firstyy-2bl9)
+- [Dev.to/JS] [Constantly Changing Technology](https://dev.to/beaucoburn/constantly-changing-technology-2jfp)
+- [Lifehacker] [The Simple Difference Between a Farm and a Garden](https://lifehacker.com/the-simple-difference-between-a-farm-and-a-garden-1850211980)
+- [Dev.to/JS] [Facing problem in JS](https://dev.to/vandit34/facing-problem-in-js-286f)
+- [Lifehacker] [12 Podcasts That Are Basically Game Shows](https://lifehacker.com/12-podcasts-that-are-basically-game-shows-1850194507)
+- [Dev.to/JS] [How to Learn and Use TypeScript: A Comprehensive Beginner&#39;s Guide](https://dev.to/brianschnee/how-to-learn-and-use-typescript-a-comprehensive-beginners-guide-5l)
 - [Dev.to/JS] [Introducing js-file_downloader--emon: A Powerful JavaScript File Downloader Package](https://dev.to/mdwahiduzzamanemon/introducing-js-filedownloader-emon-a-powerful-javascript-file-downloader-package-226l)
 - [Dev.to/JS] [How To Hire Packers and Movers in Hisar](https://dev.to/shiftingway/how-to-hire-packers-and-movers-in-hisar-4kk6)
 - [Dev.to/JS] [Intermediate Git commands](https://dev.to/vincod/intermediate-git-commands-38kd)
@@ -35,13 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use SolidJS library with ReactJS](https://dev.to/dbarabashdev/how-to-use-solidjs-library-with-reactjs-and-typescript-202e)
 - [Lifehacker] [Do This Before Asking for More Flexibility at Work](https://lifehacker.com/do-this-before-asking-for-more-flexibility-at-work-1850211566)
 - [Dev.to/JS] [The Hassle-free way to find my address](https://dev.to/arifhosen/the-hassle-free-way-to-find-my-address-1217)
-- [Dev.to/JS] [Conditional Statements: A Quick Intro](https://dev.to/gabetronic/conditional-statements-a-quick-intro-705)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is a &#39;Tradwife Influencer&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-a-1850210814)
-- [Dev.to/JS] [Add a Google Font to Tailwind CSS | 2023](https://dev.to/jonesrussell/add-a-google-font-to-tailwind-css-2023-651)
-- [Dev.to/JS] [Steps to adopt micro frontends architecture for your frontend application in Angular](https://dev.to/hardiquedasore/steps-to-adopt-micro-frontends-architecture-for-your-frontend-application-in-angular-36ce)
 - [Lifehacker] [How to Identify and Report an Illegal Job Posting](https://lifehacker.com/how-to-identify-and-report-an-illegal-job-posting-1833295818)
 - [Lifehacker] [20 Times the Oscars Got It Exactly Right](https://lifehacker.com/20-times-the-oscars-got-it-exactly-right-1850206612)
-- [Dev.to/JS] [Autoplaying Amazon IVS Live Streams](https://dev.to/aws/autoplaying-amazon-ivs-live-streams-15bd)
 - [Lifehacker] [Get up to 95% Off Bike Parts and Accessories in This Liquidation Sale](https://lifehacker.com/get-up-to-95-off-bike-parts-and-accessories-in-this-li-1850210022)
 - [Lifehacker] [How to Make the TikTok Banana Coffee Even Better](https://lifehacker.com/how-to-make-the-tiktok-banana-coffee-even-better-1850209892)
 - [Lifehacker] [Use Google to Translate Text in Any Image](https://lifehacker.com/use-google-to-translate-text-in-any-image-1850209008)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose Between Stocks and Index Funds](https://lifehacker.com/how-to-choose-between-stocks-and-index-funds-1850204507)
 - [Lifehacker] [How to Respond When Your Kid Shuts You Out](https://lifehacker.com/how-to-respond-when-your-kid-shuts-you-out-1850202747)
 - [Lifehacker] [18 Times Someone Won an Oscar for the Wrong Movie](https://lifehacker.com/18-times-someone-won-an-oscar-for-the-wrong-movie-1850197213)
-- [Lifehacker] [Caramelize a Lemon Immediately](https://lifehacker.com/caramelize-a-lemon-immediately-1850204476)
-- [Lifehacker] [You Can Try DuckDuckGo&#39;s AI Search Right Now](https://lifehacker.com/you-can-try-duckduckgos-ai-search-right-now-1850203857)
-- [Lifehacker] [Don’t Fall for This Fake Parking Ticket Scam](https://lifehacker.com/don-t-fall-for-this-fake-parking-ticket-scam-1850204139)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Caramelize a Lemon Immediately](https://lifehacker.com/caramelize-a-lemon-immediately-1850204476)<!-- TECH-POSTS:END -->
 
 ---
 
