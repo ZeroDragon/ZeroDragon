@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
+- [Dev.to/JS] [Reasons Why Class Selectors Shouldn&#39;t Be Used in JavaScript!](https://dev.to/fpaghar/reasons-why-class-selectors-shouldnt-be-used-in-javascript-3pff)
+- [Dev.to/JS] [elephant project](https://dev.to/sw06041981/elephant-project-coo)
+- [Lifehacker] [You Can Get a Dave’s Single Burger From Wendy’s for $1 Right Now](https://lifehacker.com/you-can-get-a-dave-s-single-burger-from-wendy-s-for-1-1850213329)
+- [Dev.to/JS] [React: useState Hooks](https://dev.to/gageharmon/react-usestate-hooks-fp4)
 - [Lifehacker] [You Can Try Out Android 14&#39;s New Swipe Back Gesture Early](https://lifehacker.com/you-can-try-out-android-14s-new-swipe-back-gesture-earl-1850213318)
 - [Dev.to/JS] [Unleashing Million.js v2.0.0](https://dev.to/aidenybai/unleashing-millionjs-v200-2f96)
 - [Dev.to/JS] [Help Build a Revolutionary Social Media Platform for the Agriculture Industry](https://dev.to/ghassentrepreneur/help-build-a-revolutionary-social-media-platform-for-the-agriculture-industry-117b)
@@ -36,11 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Podcasts That Are Basically Game Shows](https://lifehacker.com/12-podcasts-that-are-basically-game-shows-1850194507)
 - [Dev.to/JS] [How to Learn and Use TypeScript: A Comprehensive Beginner&#39;s Guide](https://dev.to/brianschnee/how-to-learn-and-use-typescript-a-comprehensive-beginners-guide-5l)
 - [Dev.to/JS] [Introducing js-file_downloader--emon: A Powerful JavaScript File Downloader Package](https://dev.to/mdwahiduzzamanemon/introducing-js-filedownloader-emon-a-powerful-javascript-file-downloader-package-226l)
-- [Dev.to/JS] [How To Hire Packers and Movers in Hisar](https://dev.to/shiftingway/how-to-hire-packers-and-movers-in-hisar-4kk6)
 - [Dev.to/JS] [Intermediate Git commands](https://dev.to/vincod/intermediate-git-commands-38kd)
 - [Lifehacker] [Make Brittle, Crunchy Cookies &lpar;on Purpose&rpar; With Melted Butter](https://lifehacker.com/make-brittle-crunchy-cookies-on-purpose-with-melted-1850212465)
-- [Dev.to/JS] [Closures in JavaScript](https://dev.to/santhoshdhadi/closures-in-javascript-4e6f)
-- [Dev.to/JS] [Functional Email Form in React with EmailJS](https://dev.to/cedsengine/functional-email-form-in-react-with-emailjs-5ehn)
 - [Lifehacker] [Make a DIY Lazy Susan](https://lifehacker.com/make-a-diy-lazy-susan-1850212626)
 - [Lifehacker] [Why You Shouldn&#39;t Use Winter Gas in the Summer &lpar;or Vice Versa&rpar;](https://lifehacker.com/why-you-shouldnt-use-winter-gas-in-the-summer-or-vice-1850212633)
 - [Lifehacker] [Do This Before Asking for More Flexibility at Work](https://lifehacker.com/do-this-before-asking-for-more-flexibility-at-work-1850211566)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Recover From a Browser Hijacking Attack](https://lifehacker.com/how-to-recover-from-a-browser-hijacking-attack-1850206361)
 - [Lifehacker] [You Can Get a Free Mini Wok With Your Panda Express Order Right Now](https://lifehacker.com/you-can-get-a-free-mini-wok-with-your-panda-express-ord-1850207507)
 - [Lifehacker] [This Bathroom Staple Will Keep Your Trash Cans From Smelling Awful](https://lifehacker.com/this-bathroom-staple-will-keep-your-trash-cans-from-sme-1850207453)
-- [Lifehacker] [You&#39;re Probably Eligible to File Your Taxes for Free](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)
-- [Lifehacker] [This Scam Is Making Payday Loans Even Worse](https://lifehacker.com/this-scam-is-making-payday-loans-even-worse-1850205618)
-- [Lifehacker] [How to Choose Between Stocks and Index Funds](https://lifehacker.com/how-to-choose-between-stocks-and-index-funds-1850204507)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You&#39;re Probably Eligible to File Your Taxes for Free](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)<!-- TECH-POSTS:END -->
 
 ---
 
