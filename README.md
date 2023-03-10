@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Tips for Optimizing the Performance of Your NodeJS Application](https://dev.to/devhoangkien/5-tips-for-optimizing-the-performance-of-your-nodejs-application-2b68)
+- [Dev.to/JS] [Building Resilient Systems: Retry Pattern in Microservices](https://dev.to/apoorvtyagi/building-resilient-systems-retry-pattern-in-microservices-1ngj)
 - [Dev.to/JS] [Creating AWS CloudWatch Logs using .NET Console Application: A Step-by-Step Guide](https://dev.to/dileepamabulage/creating-aws-cloudwatch-logs-using-net-console-application-a-step-by-step-guide-2a1m)
 - [Dev.to/JS] [JavaScript Variables](https://dev.to/cooptothe/javascript-variables-23bl)
 - [Dev.to/JS] [The importance of use Infinity on your JavaScript code.](https://dev.to/jesusjimenezc/the-importance-of-use-infinity-on-your-javascript-code-28cb)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting back to writing...](https://dev.to/resotap/getting-back-to-writing-5cg7)
 - [Dev.to/JS] [Using Ionic Capacitor Plugins In A VueJS Vite Mobile Application](https://dev.to/aaronksaunders/using-ionic-capacitor-plugins-in-a-vuejs-vite-mobile-application-1k45)
 - [Dev.to/JS] [Building Custom Mixins in Lightning Web Components &lpar;LWC&rpar;](https://dev.to/lukethacoder/lwc-custom-mixins-1ac2)
-- [Dev.to/JS] [Hydration: What is it?](https://dev.to/costamatheus97/hydration-what-is-it-1lgl)
 - [Lifehacker] [No, Celebrities Don&#39;t Need to Eat 8,000 Calories to Get Swole](https://lifehacker.com/no-celebrities-dont-need-to-eat-8-000-calories-to-get-1850208846)
-- [Dev.to/JS] [The Journey Begins](https://dev.to/keoshaug/the-journey-begins-1o97)
 - [Lifehacker] [Get CityPASS Tickets for up to 60% Off in These Cities Right Now](https://lifehacker.com/get-citypass-tickets-for-up-to-60-off-in-these-cities-1850208748)
 - [Lifehacker] [Braised Scallions Are the Perfect Cheap Weeknight Side Dish](https://lifehacker.com/braised-scallions-are-the-perfect-cheap-weeknight-side-1850209034)
 - [Lifehacker] [Stop Eating Cold, Rubbery Pancakes](https://lifehacker.com/stop-eating-cold-rubbery-pancakes-1850207799)
