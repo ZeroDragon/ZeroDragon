@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a tab component in React](https://dev.to/michaelburrows/creating-a-tab-component-in-react-46hk)
+- [Dev.to/JS] [Rspack: The Rust-Based Web Bundler that Combines High Performance with Interoperability](https://dev.to/valorsoftware/rspack-the-rust-based-web-bundler-that-combines-high-performance-with-interoperability-45m8)
+- [Dev.to/JS] [Building a Pokemon Card Collection with React and Chakra UI](https://dev.to/kristend/building-a-pokemon-card-collection-with-react-and-chakra-ui-1odc)
+- [Dev.to/JS] [Solid.js: The Lightweight, Reactive JavaScript Library You Need to Know About](https://dev.to/brunoromero/solidjs-the-lightweight-reactive-javascript-library-you-need-to-know-about-4nnb)
+- [Dev.to/JS] [Getting back to writing...](https://dev.to/resotap/getting-back-to-writing-5cg7)
 - [Dev.to/JS] [Using Ionic Capacitor Plugins In A VueJS Vite Mobile Application](https://dev.to/aaronksaunders/using-ionic-capacitor-plugins-in-a-vuejs-vite-mobile-application-1k45)
 - [Dev.to/JS] [LWC Custom Mixins](https://dev.to/lukethacoder/lwc-custom-mixins-1ac2)
 - [Dev.to/JS] [Hydration: What is it?](https://dev.to/costamatheus97/hydration-what-is-it-1lgl)
@@ -34,13 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to learn and use TypeScript + the bits no one teaches you.](https://dev.to/brianschnee/how-to-learn-and-use-typescript-the-bits-no-one-teaches-you-2667)
 - [Lifehacker] [Stop Eating Cold, Rubbery Pancakes](https://lifehacker.com/stop-eating-cold-rubbery-pancakes-1850207799)
 - [Dev.to/JS] [Episode 23/09: RouterTestingHarness, Signals, &quot;TypeScript Magic&quot; behind NgRx](https://dev.to/ng_news/episode-2309-routertestingharness-signals-typescript-magic-behind-ngrx-14nc)
-- [Dev.to/JS] [How To: Controlled Forms with React](https://dev.to/codybarker/how-to-controlled-forms-with-react-55h7)
 - [Lifehacker] [10 Psychoactive Drugs You Can Grow at Home](https://lifehacker.com/10-psychoactive-drugs-you-can-grow-at-home-1850208296)
-- [Dev.to/JS] [Using TRPC in Astro and its &lpar;React&rpar; islands](https://dev.to/thomasledoux1/using-trpc-in-astro-and-its-react-islands-3021)
-- [Dev.to/JS] [Using React Hook Form with Controller? No more](https://dev.to/enyelsequeira/using-react-hook-form-with-controller-no-more-4341)
 - [Lifehacker] [ChatGPT Created Its Own Puzzle Game, and You Can Play It Right Now](https://lifehacker.com/chatgpt-created-its-own-puzzle-game-and-you-can-play-i-1850207733)
-- [Dev.to/JS] [Stop typing in typescript. &lpar;At least most of the time&rpar; 🛑](https://dev.to/nectres/dont-type-in-typescript-at-least-most-of-the-time-5b0j)
-- [Dev.to/JS] [Node.js Revealed: A Comprehensive Guide to Its Inner Workings](https://dev.to/ritikbanger/nodejs-revealed-a-comprehensive-guide-to-its-inner-workings-209i)
 - [Lifehacker] [9 Things Your Local Bakery Is Probably Freezing](https://lifehacker.com/9-things-your-local-bakery-is-probably-freezing-1850207246)
 - [Lifehacker] [How to Recover From a Browser Hijacking Attack](https://lifehacker.com/how-to-recover-from-a-browser-hijacking-attack-1850206361)
 - [Lifehacker] [You Can Get a Free Mini Wok With Your Panda Express Order Right Now](https://lifehacker.com/you-can-get-a-free-mini-wok-with-your-panda-express-ord-1850207507)
