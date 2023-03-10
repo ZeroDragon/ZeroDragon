@@ -36,7 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get CityPASS Tickets for up to 60% Off in These Cities Right Now](https://lifehacker.com/get-citypass-tickets-for-up-to-60-off-in-these-cities-1850208748)
 - [Dev.to/JS] [Those three things about TypeScript will shock you](https://dev.to/devdufutur/those-three-things-about-typescript-will-shock-you-2bc9)
 - [Lifehacker] [Braised Scallions Are the Perfect Cheap Weeknight Side Dish](https://lifehacker.com/braised-scallions-are-the-perfect-cheap-weeknight-side-1850209034)
-- [Dev.to/JS] [How to learn and use TypeScript + the bits no one teaches you.](https://dev.to/brianschnee/how-to-learn-and-use-typescript-the-bits-no-one-teaches-you-2667)
+- [Dev.to/JS] [A Beginners Guide to TypeScript: Key Concepts + Techniques No One Teaches You.](https://dev.to/brianschnee/how-to-learn-and-use-typescript-the-bits-no-one-teaches-you-2667)
 - [Lifehacker] [Stop Eating Cold, Rubbery Pancakes](https://lifehacker.com/stop-eating-cold-rubbery-pancakes-1850207799)
 - [Dev.to/JS] [Episode 23/09: RouterTestingHarness, Signals, &quot;TypeScript Magic&quot; behind NgRx](https://dev.to/ng_news/episode-2309-routertestingharness-signals-typescript-magic-behind-ngrx-14nc)
 - [Lifehacker] [10 Psychoactive Drugs You Can Grow at Home](https://lifehacker.com/10-psychoactive-drugs-you-can-grow-at-home-1850208296)
