@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Try Out Android 14&#39;s New Swipe Back Gesture Early](https://lifehacker.com/you-can-try-out-android-14s-new-swipe-back-gesture-earl-1850213318)
+- [Dev.to/JS] [Unleashing Million.js v2.0.0](https://dev.to/aidenybai/unleashing-millionjs-v200-2f96)
+- [Dev.to/JS] [Help Build a Revolutionary Social Media Platform for the Agriculture Industry](https://dev.to/ghassentrepreneur/help-build-a-revolutionary-social-media-platform-for-the-agriculture-industry-117b)
+- [Lifehacker] [The Most Confusing Car Insurance Terms Every Driver Should Learn](https://lifehacker.com/the-most-confusing-car-insurance-terms-every-driver-sho-1850212379)
+- [Dev.to/JS] [When to use map ,filter and reduce?](https://dev.to/apoorv266/when-to-use-map-filter-and-reduce-2a3k)
+- [Lifehacker] [You Should Pre-Order Apple Music Classical Today](https://lifehacker.com/you-should-pre-order-apple-music-classical-today-1850212685)
 - [Dev.to/JS] [firstyy](https://dev.to/oussamaelbenney/firstyy-2bl9)
 - [Dev.to/JS] [Constantly Changing Technology](https://dev.to/beaucoburn/constantly-changing-technology-2jfp)
 - [Lifehacker] [The Simple Difference Between a Farm and a Garden](https://lifehacker.com/the-simple-difference-between-a-farm-and-a-garden-1850211980)
@@ -37,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Functional Email Form in React with EmailJS](https://dev.to/cedsengine/functional-email-form-in-react-with-emailjs-5ehn)
 - [Lifehacker] [Make a DIY Lazy Susan](https://lifehacker.com/make-a-diy-lazy-susan-1850212626)
 - [Lifehacker] [Why You Shouldn&#39;t Use Winter Gas in the Summer &lpar;or Vice Versa&rpar;](https://lifehacker.com/why-you-shouldnt-use-winter-gas-in-the-summer-or-vice-1850212633)
-- [Dev.to/JS] [How to Create a Simple Calculator Application Using the useState Hook](https://dev.to/sidramaqbool/how-to-create-a-simple-calculator-application-using-the-usestate-hook-2pfm)
-- [Dev.to/JS] [How to use SolidJS library with ReactJS](https://dev.to/dbarabashdev/how-to-use-solidjs-library-with-reactjs-and-typescript-202e)
 - [Lifehacker] [Do This Before Asking for More Flexibility at Work](https://lifehacker.com/do-this-before-asking-for-more-flexibility-at-work-1850211566)
-- [Dev.to/JS] [The Hassle-free way to find my address](https://dev.to/arifhosen/the-hassle-free-way-to-find-my-address-1217)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is a &#39;Tradwife Influencer&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-a-1850210814)
 - [Lifehacker] [How to Identify and Report an Illegal Job Posting](https://lifehacker.com/how-to-identify-and-report-an-illegal-job-posting-1833295818)
 - [Lifehacker] [20 Times the Oscars Got It Exactly Right](https://lifehacker.com/20-times-the-oscars-got-it-exactly-right-1850206612)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Bathroom Staple Will Keep Your Trash Cans From Smelling Awful](https://lifehacker.com/this-bathroom-staple-will-keep-your-trash-cans-from-sme-1850207453)
 - [Lifehacker] [You&#39;re Probably Eligible to File Your Taxes for Free](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)
 - [Lifehacker] [This Scam Is Making Payday Loans Even Worse](https://lifehacker.com/this-scam-is-making-payday-loans-even-worse-1850205618)
-- [Lifehacker] [How to Choose Between Stocks and Index Funds](https://lifehacker.com/how-to-choose-between-stocks-and-index-funds-1850204507)
-- [Lifehacker] [How to Respond When Your Kid Shuts You Out](https://lifehacker.com/how-to-respond-when-your-kid-shuts-you-out-1850202747)
-- [Lifehacker] [18 Times Someone Won an Oscar for the Wrong Movie](https://lifehacker.com/18-times-someone-won-an-oscar-for-the-wrong-movie-1850197213)
-- [Lifehacker] [Caramelize a Lemon Immediately](https://lifehacker.com/caramelize-a-lemon-immediately-1850204476)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Choose Between Stocks and Index Funds](https://lifehacker.com/how-to-choose-between-stocks-and-index-funds-1850204507)<!-- TECH-POSTS:END -->
 
 ---
 
