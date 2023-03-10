@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.ts💊| #30: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-30-explica-este-codigo-typescript-295p)
+- [Dev.to/JS] [Formularios dinámicos con React Hook Form. 📝](https://dev.to/franklin030601/formularios-dinamicos-con-react-hook-form-22if)
+- [Dev.to/JS] [Dynamic forms with React Hook Form. 📝](https://dev.to/franklin030601/dynamic-forms-with-react-hook-form-2ml8)
 - [Dev.to/JS] [Review of state management in React: reducer-like solutions - Redux and its family](https://dev.to/licg9999/review-of-state-management-in-react-reducer-like-solutions-redux-and-its-family-4eb)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Uma árvore com ciclos diferentes](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-uma-arvore-com-ciclos-diferentes-813)
 - [Dev.to/JS] [Introduction to ReactJS and its key features](https://dev.to/codewithsom/introduction-to-reactjs-and-its-key-features-4dii)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to navigate without BuildContext](https://dev.to/sunflowerlab/how-to-navigate-without-buildcontext-5ddl)
 - [Dev.to/JS] [A Beginner’s Guide to TypeScript: Understanding the Benefits and Getting Started](https://dev.to/imran_1997/a-beginners-guide-to-typescript-understanding-the-benefits-and-getting-started-42op)
 - [Dev.to/JS] [In what areas ChatGPT can help?](https://dev.to/baljeet975/in-what-areas-chatgpt-can-help-4ig)
-- [Dev.to/JS] [Getting Started with Bootstrap Testing](https://dev.to/lambdatest/getting-started-with-bootstrap-testing-4jpe)
-- [Dev.to/JS] [Rspack - Getting up to speed with Nx](https://dev.to/nx/rspack-getting-up-to-speed-with-nx-56f2)
-- [Dev.to/JS] [Effortlessly Schedule Appointments with Google Calendar Integration on Your HTML Page](https://dev.to/sidramaqbool/effortlessly-schedule-appointments-with-google-calendar-integration-on-your-html-page-2e4o)
 - [Lifehacker] [No, Celebrities Don&#39;t Need to Eat 8,000 Calories to Get Swole](https://lifehacker.com/no-celebrities-dont-need-to-eat-8-000-calories-to-get-1850208846)
 - [Lifehacker] [Get CityPASS Tickets for up to 60% Off in These Cities Right Now](https://lifehacker.com/get-citypass-tickets-for-up-to-60-off-in-these-cities-1850208748)
 - [Lifehacker] [Braised Scallions Are the Perfect Cheap Weeknight Side Dish](https://lifehacker.com/braised-scallions-are-the-perfect-cheap-weeknight-side-1850209034)
