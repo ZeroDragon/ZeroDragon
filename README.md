@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Money-Saving Made Easy: Expert Tips On Budgeting To Help You Save Big](https://dev.to/savewithblogs/money-saving-made-easy-expert-tips-on-budgeting-to-help-you-save-big-8h4)
+- [Dev.to/JS] [Vite Integration](https://dev.to/mdbootstrap/vite-integration-3hp9)
 - [Dev.to/JS] [Get Ahead of the Competition: 17 Common Interview Questions and Answers for DBA, Sys-Admin, Security, Hackathon, and JavaScript](https://dev.to/ananddas/get-ahead-of-the-competition-17-common-interview-questions-and-answers-for-dba-sys-admin-security-hackathon-and-javascript-he8)
 - [Dev.to/JS] [How to navigate without BuildContext](https://dev.to/sunflowerlab/how-to-navigate-without-buildcontext-5ddl)
 - [Dev.to/JS] [A Beginner’s Guide to TypeScript: Understanding the Benefits and Getting Started](https://dev.to/imran_1997/a-beginners-guide-to-typescript-understanding-the-benefits-and-getting-started-42op)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Distinguishing Websites and Web Apps for Better Performance](https://dev.to/erwin__98b0e4dcdf7d57717/distinguishing-websites-and-web-apps-for-better-performance-3bbg)
 - [Dev.to/JS] [20 JavaScript Basic Questions and Answers](https://dev.to/bookerrjanee/javascript-basic-questions-and-answers-1nhj)
 - [Dev.to/JS] [How to use CSSTransition](https://dev.to/haszankauna/how-to-use-csstransition-5727)
-- [Dev.to/JS] [Normal Build Vs SSR Build](https://dev.to/himanshudevgupta/normal-build-vs-ssr-build-12fn)
-- [Dev.to/JS] [How should SEO be done to perform Awesomely?](https://dev.to/baljeet975/how-should-seo-be-done-to-perform-awesomely-bb1)
 - [Lifehacker] [No, Celebrities Don&#39;t Need to Eat 8,000 Calories to Get Swole](https://lifehacker.com/no-celebrities-dont-need-to-eat-8-000-calories-to-get-1850208846)
 - [Lifehacker] [Get CityPASS Tickets for up to 60% Off in These Cities Right Now](https://lifehacker.com/get-citypass-tickets-for-up-to-60-off-in-these-cities-1850208748)
 - [Lifehacker] [Braised Scallions Are the Perfect Cheap Weeknight Side Dish](https://lifehacker.com/braised-scallions-are-the-perfect-cheap-weeknight-side-1850209034)
