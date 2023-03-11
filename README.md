@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Brand Reputation](https://dev.to/nullivex/brand-reputation-4k3k)
+- [Dev.to/JS] [Debouncing and Throttling in ReactJs](https://dev.to/abhishekrawe/debouncing-and-throttling-in-reactjs-4fhf)
+- [Dev.to/JS] [A Journey Towards a More Accessible and Inclusive Web.](https://dev.to/wiseai/a-journey-towards-a-more-accessible-and-inclusive-web-1ad5)
 - [Dev.to/JS] [[2/4] Passez de zéro à héro avec ces méthodes JavaScript](https://dev.to/vincent_react/24-passez-de-zero-a-hero-avec-ces-methodes-javascript-4aja)
 - [Dev.to/JS] [Stahhp Screening for TLDs in Your Email Fields](https://dev.to/bytebodger/stahhp-screening-for-tlds-in-your-email-fields-585l)
 - [Dev.to/JS] [Handling Events in React with Best Practices and Examples](https://dev.to/sidramaqbool/handling-events-in-react-with-best-practices-and-examples-1d75)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Transform Your Codebase with Prettier: A Guide with Husky Integration](https://dev.to/kazemm_dev/transform-your-codebase-with-prettier-a-guide-with-husky-integration-35fk)
 - [Dev.to/JS] [How React is Reshaping the Future of Development](https://dev.to/haszankauna/how-react-is-reshaping-the-future-of-development-e8b)
 - [Dev.to/JS] [How to Integrate React with Redux: Step-by-Step Tutorial](https://dev.to/haszankauna/how-to-integrate-react-with-redux-step-by-step-tutorial-4dm5)
-- [Dev.to/JS] [Performance API: A Guide to Measuring, Monitoring, and A/B Testing](https://dev.to/costamatheus97/performance-api-a-guide-to-measuring-monitoring-and-ab-testing-4235)
-- [Dev.to/JS] [Chaining State Update in ReactJS Efficiently](https://dev.to/dryluigi/chaining-state-update-in-reactjs-efficiently-4ibh)
-- [Dev.to/JS] [Using composition to optimize React rendering](https://dev.to/coder4_life/using-composition-to-optimize-react-rendering-12dg)
 - [Lifehacker] [The Best Food Deals and Freebies for St. Patrick&#39;s Day](https://lifehacker.com/the-best-food-deals-and-freebies-for-st-patricks-day-1850208431)
 - [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
 - [Lifehacker] [You Can Get a Dave’s Single Burger From Wendy’s for $1 Right Now](https://lifehacker.com/you-can-get-a-dave-s-single-burger-from-wendy-s-for-1-1850213329)
