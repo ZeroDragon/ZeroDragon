@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to remove a property from an object in JavaScript](https://dev.to/david_bilsonn/how-to-remove-a-property-from-an-object-in-javascript-bcg)
+- [Dev.to/JS] [109. Leetcode Solution in JavaScript](https://dev.to/chiki1601/109-leetcode-solution-in-javascript-51ef)
+- [Dev.to/JS] [Starchart: Matching Database With SAML Claims](https://dev.to/cychu42/starchart-matching-database-with-saml-claims-1mki)
 - [Dev.to/JS] [Building Graphics with Code: Zdog and JS, a quick overview](https://dev.to/kriegercisneros/building-graphics-with-code-zdog-and-js-a-quick-overview-37gb)
 - [Dev.to/JS] [My First Post](https://dev.to/masumbillah6778/my-first-post-1bd)
 - [Dev.to/JS] [How to write Regex without writing regex](https://dev.to/nicolasmontielf/how-to-write-regex-without-writing-regex-1lfm)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Dave’s Single Burger From Wendy’s for $1 Right Now](https://lifehacker.com/you-can-get-a-dave-s-single-burger-from-wendy-s-for-1-1850213329)
 - [Dev.to/JS] [React: useState Hooks](https://dev.to/gageharmon/react-usestate-hooks-fp4)
 - [Lifehacker] [You Can Try Out Android 14&#39;s New Swipe Back Gesture Early](https://lifehacker.com/you-can-try-out-android-14s-new-swipe-back-gesture-earl-1850213318)
-- [Dev.to/JS] [Unleashing Million.js v2.0.0](https://dev.to/aidenybai/unleashing-millionjs-v200-2f96)
-- [Dev.to/JS] [Help Build a Revolutionary Social Media Platform for the Agriculture Industry](https://dev.to/ghassentrepreneur/help-build-a-revolutionary-social-media-platform-for-the-agriculture-industry-117b)
 - [Lifehacker] [The Most Confusing Car Insurance Terms Every Driver Should Learn](https://lifehacker.com/the-most-confusing-car-insurance-terms-every-driver-sho-1850212379)
-- [Dev.to/JS] [When to use map ,filter and reduce?](https://dev.to/apoorv266/when-to-use-map-filter-and-reduce-2a3k)
 - [Lifehacker] [You Should Pre-Order Apple Music Classical Today](https://lifehacker.com/you-should-pre-order-apple-music-classical-today-1850212685)
 - [Lifehacker] [The Simple Difference Between a Farm and a Garden](https://lifehacker.com/the-simple-difference-between-a-farm-and-a-garden-1850211980)
 - [Lifehacker] [12 Podcasts That Are Basically Game Shows](https://lifehacker.com/12-podcasts-that-are-basically-game-shows-1850194507)
