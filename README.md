@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Type Safe, Promise Based, Vue 3 Modals That&#39;ll Have You Popping with Joy](https://dev.to/neophen/type-safe-promise-based-vue-3-modals-thatll-have-you-popping-with-joy-4299)
+- [Dev.to/JS] [Three Ways to Make an Async Request in JavaScript: XHR, Promise, Async/Await](https://dev.to/losnikitos/three-ways-to-make-an-async-request-in-javascript-xhr-promise-asyncawait-1bff)
 - [Dev.to/JS] [How to Build and Test a Blog with Svelte and SvelteKit](https://dev.to/uncle_ben/how-to-build-and-test-a-blog-with-svelte-and-sveltekit-1eaa)
 - [Dev.to/JS] [Dynamic Navigation in AEM using Sling Models and HTL](https://dev.to/avi413/dynamic-navigation-in-aem-using-sling-models-and-htl-2794)
 - [Dev.to/JS] [Master full-stack development](https://dev.to/ishratumar/master-full-stack-development-51cn)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [[2/4] Passez de zéro à héro avec ces méthodes JavaScript](https://dev.to/vincent_react/24-passez-de-zero-a-hero-avec-ces-methodes-javascript-4aja)
 - [Dev.to/JS] [Stahhp Screening for TLDs in Your Email Fields](https://dev.to/bytebodger/stahhp-screening-for-tlds-in-your-email-fields-585l)
 - [Dev.to/JS] [Handling Events in React with Best Practices and Examples](https://dev.to/sidramaqbool/handling-events-in-react-with-best-practices-and-examples-1d75)
-- [Dev.to/JS] [#4: Median of Two Sorted Arrays](https://dev.to/jd2r/4-median-of-two-sorted-arrays-4bc6)
-- [Dev.to/JS] [Hello InfrontJS](https://dev.to/benny00100/hello-infrontjs-4adi)
 - [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
 - [Lifehacker] [The Best Food Deals and Freebies for St. Patrick&#39;s Day](https://lifehacker.com/the-best-food-deals-and-freebies-for-st-patricks-day-1850208431)
 - [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
