@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Food Deals and Freebies for St. Patrick&#39;s Day](https://lifehacker.com/the-best-food-deals-and-freebies-for-st-patricks-day-1850208431)
+- [Dev.to/JS] [Important Vscode Extensions In 2023](https://dev.to/oluwatrillions/important-vscode-extensions-in-2023-265c)
 - [Dev.to/JS] [Introducing CVBuild 🎉](https://dev.to/chryzcode/introducing-cvbuild-57mn)
 - [Dev.to/JS] [From Classroom to Open Source 🌐- Open Source : The New Way of Learning](https://dev.to/mithindev/from-classroom-to-open-source-open-source-the-new-way-of-learning-20h2)
 - [Dev.to/JS] [Building Cross-Browser Compatible Web Apps with Babel: A Step-by-Step Guide](https://dev.to/kazemm_dev/building-cross-browser-compatible-web-apps-with-babel-a-step-by-step-guide-5c5h)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [State and its Lifecycles in React JS: A Comprehensive Guide](https://dev.to/sidramaqbool/state-and-its-lifecycles-in-react-js-a-comprehensive-guide-1kfm)
 - [Dev.to/JS] [How to Integrate ChatGPT in WhatsApp for iOS? Sample Codes Added!](https://dev.to/dhruvjoshi9/how-to-integrate-chatgpt-in-whatsapp-on-ios-sample-codes-added-333h)
 - [Dev.to/JS] [5 Unusual Signs That You’re a Great Developer](https://dev.to/metamark/5-unusual-signs-that-youre-a-great-developer-3a6e)
-- [Dev.to/JS] [Ultra CBD Gummies - Pain Relief Solution, Results, Benefits, Customer Reviews?](https://dev.to/ultracbdgummie2/ultra-cbd-gummies-pain-relief-solution-results-benefits-customer-reviews-1l8a)
 - [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
 - [Lifehacker] [You Can Get a Dave’s Single Burger From Wendy’s for $1 Right Now](https://lifehacker.com/you-can-get-a-dave-s-single-burger-from-wendy-s-for-1-1850213329)
 - [Lifehacker] [You Can Try Out Android 14&#39;s New Swipe Back Gesture Early](https://lifehacker.com/you-can-try-out-android-14s-new-swipe-back-gesture-earl-1850213318)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Things Your Local Bakery Is Probably Freezing](https://lifehacker.com/9-things-your-local-bakery-is-probably-freezing-1850207246)
 - [Lifehacker] [How to Recover From a Browser Hijacking Attack](https://lifehacker.com/how-to-recover-from-a-browser-hijacking-attack-1850206361)
 - [Lifehacker] [You Can Get a Free Mini Wok With Your Panda Express Order Right Now](https://lifehacker.com/you-can-get-a-free-mini-wok-with-your-panda-express-ord-1850207507)
-- [Lifehacker] [This Bathroom Staple Will Keep Your Trash Cans From Smelling Awful](https://lifehacker.com/this-bathroom-staple-will-keep-your-trash-cans-from-sme-1850207453)
-- [Lifehacker] [You&#39;re Probably Eligible to File Your Taxes for Free](https://lifehacker.com/youre-probably-eligible-to-file-your-taxes-for-free-1850207431)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Bathroom Staple Will Keep Your Trash Cans From Smelling Awful](https://lifehacker.com/this-bathroom-staple-will-keep-your-trash-cans-from-sme-1850207453)<!-- TECH-POSTS:END -->
 
 ---
 
