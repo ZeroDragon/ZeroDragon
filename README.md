@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hello InfrontJS](https://dev.to/benny00100/hello-infrontjs-4adi)
+- [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
 - [Dev.to/JS] [Using foreach&lpar;&rpar; To Iterate Through an Array in JavaScript](https://dev.to/rahxuls/using-foreach-to-iterate-through-an-array-in-javascript-5g1e)
 - [Dev.to/JS] [Transform Your Codebase with Prettier: A Guide with Husky Integration](https://dev.to/kazemm_dev/transform-your-codebase-with-prettier-a-guide-with-husky-integration-35fk)
 - [Dev.to/JS] [How React is Reshaping the Future of Development](https://dev.to/haszankauna/how-react-is-reshaping-the-future-of-development-e8b)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building an AI Chatbot using Open AI API &quot;GPT-3&quot; model with Node.js and React.js](https://dev.to/vectorware/building-an-ai-chatbot-using-open-ai-api-gpt-3-model-with-nodejs-and-reactjs-8ia)
 - [Dev.to/JS] [Tools and Libraries in Streamlining Your Development](https://dev.to/haszankauna/tools-and-libraries-in-streamlining-your-development-4dp8)
 - [Dev.to/JS] [React Typescript Code Snippet: How to smoothly scroll + focus to invalid input on form validation?](https://dev.to/cauen/react-typescript-code-snippet-how-to-smoothly-scroll-focus-to-invalid-input-on-form-validation-589k)
-- [Dev.to/JS] [7 Common Mistakes to Avoid When Writing JavaScript Code](https://dev.to/haszankauna/7-common-mistakes-to-avoid-when-writing-javascript-code-609)
 - [Lifehacker] [The Best Food Deals and Freebies for St. Patrick&#39;s Day](https://lifehacker.com/the-best-food-deals-and-freebies-for-st-patricks-day-1850208431)
 - [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
 - [Lifehacker] [You Can Get a Dave’s Single Burger From Wendy’s for $1 Right Now](https://lifehacker.com/you-can-get-a-dave-s-single-burger-from-wendy-s-for-1-1850213329)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [ChatGPT Created Its Own Puzzle Game, and You Can Play It Right Now](https://lifehacker.com/chatgpt-created-its-own-puzzle-game-and-you-can-play-i-1850207733)
 - [Lifehacker] [9 Things Your Local Bakery Is Probably Freezing](https://lifehacker.com/9-things-your-local-bakery-is-probably-freezing-1850207246)
 - [Lifehacker] [How to Recover From a Browser Hijacking Attack](https://lifehacker.com/how-to-recover-from-a-browser-hijacking-attack-1850206361)
-- [Lifehacker] [You Can Get a Free Mini Wok With Your Panda Express Order Right Now](https://lifehacker.com/you-can-get-a-free-mini-wok-with-your-panda-express-ord-1850207507)
-- [Lifehacker] [This Bathroom Staple Will Keep Your Trash Cans From Smelling Awful](https://lifehacker.com/this-bathroom-staple-will-keep-your-trash-cans-from-sme-1850207453)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a Free Mini Wok With Your Panda Express Order Right Now](https://lifehacker.com/you-can-get-a-free-mini-wok-with-your-panda-express-ord-1850207507)<!-- TECH-POSTS:END -->
 
 ---
 
