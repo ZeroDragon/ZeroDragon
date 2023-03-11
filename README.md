@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build and Test a Blog with Svelte and SvelteKit](https://dev.to/uncle_ben/how-to-build-and-test-a-blog-with-svelte-and-sveltekit-1eaa)
+- [Dev.to/JS] [Dynamic Navigation in AEM using Sling Models and HTL](https://dev.to/avi413/dynamic-navigation-in-aem-using-sling-models-and-htl-2794)
+- [Dev.to/JS] [Master full-stack development](https://dev.to/ishratumar/master-full-stack-development-51cn)
+- [Dev.to/JS] [Implementing Tic Tac Toe in Vue](https://dev.to/diseyi/implementing-tic-tac-toe-in-vue-57go)
 - [Dev.to/JS] [Brand Reputation](https://dev.to/nullivex/brand-reputation-4k3k)
 - [Dev.to/JS] [Debouncing and Throttling in ReactJs](https://dev.to/abhishekrawe/debouncing-and-throttling-in-reactjs-4fhf)
 - [Dev.to/JS] [A Journey Towards a More Accessible and Inclusive Web.](https://dev.to/wiseai/a-journey-towards-a-more-accessible-and-inclusive-web-1ad5)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#4: Median of Two Sorted Arrays](https://dev.to/jd2r/4-median-of-two-sorted-arrays-4bc6)
 - [Dev.to/JS] [Hello InfrontJS](https://dev.to/benny00100/hello-infrontjs-4adi)
 - [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
-- [Dev.to/JS] [Using foreach&lpar;&rpar; To Iterate Through an Array in JavaScript](https://dev.to/rahxuls/using-foreach-to-iterate-through-an-array-in-javascript-5g1e)
-- [Dev.to/JS] [Transform Your Codebase with Prettier: A Guide with Husky Integration](https://dev.to/kazemm_dev/transform-your-codebase-with-prettier-a-guide-with-husky-integration-35fk)
-- [Dev.to/JS] [How React is Reshaping the Future of Development](https://dev.to/haszankauna/how-react-is-reshaping-the-future-of-development-e8b)
-- [Dev.to/JS] [How to Integrate React with Redux: Step-by-Step Tutorial](https://dev.to/haszankauna/how-to-integrate-react-with-redux-step-by-step-tutorial-4dm5)
 - [Lifehacker] [The Best Food Deals and Freebies for St. Patrick&#39;s Day](https://lifehacker.com/the-best-food-deals-and-freebies-for-st-patricks-day-1850208431)
 - [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
 - [Lifehacker] [You Can Get a Dave’s Single Burger From Wendy’s for $1 Right Now](https://lifehacker.com/you-can-get-a-dave-s-single-burger-from-wendy-s-for-1-1850213329)
