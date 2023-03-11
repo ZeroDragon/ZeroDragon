@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to write Regex without writing regex](https://dev.to/nicolasmontielf/how-to-write-regex-without-writing-regex-1lfm)
+- [Dev.to/JS] [ReactJS - Multi-select/deselect selection input using MUI Autocomplete](https://dev.to/nj145/reactjs-multi-selectdeselect-selection-input-using-mui-autocomplete-56c8)
+- [Dev.to/JS] [Confidential Optical Character Recognition Service With Cape](https://dev.to/yanndupis/confidential-optical-character-recognition-service-with-cape-3kha)
 - [Dev.to/JS] [Part 1: From OOP to FP...](https://dev.to/tfnielsonse/part-1-from-oop-to-fp-2ajm)
 - [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
 - [Dev.to/JS] [Reasons Why Class Selectors Shouldn&#39;t Be Used in JavaScript!](https://dev.to/fpaghar/reasons-why-class-selectors-shouldnt-be-used-in-javascript-3pff)
@@ -38,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [firstyy](https://dev.to/oussamaelbenney/firstyy-2bl9)
 - [Dev.to/JS] [Constantly Changing Technology](https://dev.to/beaucoburn/constantly-changing-technology-2jfp)
 - [Lifehacker] [The Simple Difference Between a Farm and a Garden](https://lifehacker.com/the-simple-difference-between-a-farm-and-a-garden-1850211980)
-- [Dev.to/JS] [Facing problem in JS](https://dev.to/vandit34/facing-problem-in-js-286f)
 - [Lifehacker] [12 Podcasts That Are Basically Game Shows](https://lifehacker.com/12-podcasts-that-are-basically-game-shows-1850194507)
-- [Dev.to/JS] [How to Learn and Use TypeScript: A Comprehensive Beginner&#39;s Guide](https://dev.to/brianschnee/how-to-learn-and-use-typescript-a-comprehensive-beginners-guide-5l)
-- [Dev.to/JS] [Introducing js-file_downloader--emon: A Powerful JavaScript File Downloader Package](https://dev.to/mdwahiduzzamanemon/introducing-js-filedownloader-emon-a-powerful-javascript-file-downloader-package-226l)
 - [Lifehacker] [Make Brittle, Crunchy Cookies &lpar;on Purpose&rpar; With Melted Butter](https://lifehacker.com/make-brittle-crunchy-cookies-on-purpose-with-melted-1850212465)
 - [Lifehacker] [Make a DIY Lazy Susan](https://lifehacker.com/make-a-diy-lazy-susan-1850212626)
 - [Lifehacker] [Why You Shouldn&#39;t Use Winter Gas in the Summer &lpar;or Vice Versa&rpar;](https://lifehacker.com/why-you-shouldnt-use-winter-gas-in-the-summer-or-vice-1850212633)
