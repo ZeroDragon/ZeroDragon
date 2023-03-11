@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 reasons to consider Next.js for your next projects](https://dev.to/terieyenike/5-reasons-to-consider-nextjs-for-your-next-projects-4m38)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;11-03-2023&rpar; - Bleak Beyond Belief](https://dev.to/mjgs/this-weeks-newsletter-is-out-11-03-2023-bleak-beyond-belief-4bah)
 - [Dev.to/JS] [Astro Framework vs NextJS](https://dev.to/jonassanthosh/astro-framework-vs-nextjs-3flp)
 - [Dev.to/JS] [How to Install and Configure the Console ninja Vscode Extension](https://dev.to/reuben09/how-to-install-and-configure-the-console-ninja-vscode-extension-le8)
 - [Dev.to/JS] [How to Lazy Load Html Videos](https://dev.to/reuben09/how-to-lazy-load-html-videos-1fdg)
 - [Dev.to/JS] [State and its Lifecycles in React JS: A Comprehensive Guide](https://dev.to/sidramaqbool/state-and-its-lifecycles-in-react-js-a-comprehensive-guide-1kfm)
-- [Dev.to/JS] [How to Integrate ChatGPT in WhatsApp on iOS? Sample Codes Added!](https://dev.to/dhruvjoshi9/how-to-integrate-chatgpt-in-whatsapp-on-ios-sample-codes-added-333h)
+- [Dev.to/JS] [How to Integrate ChatGPT in WhatsApp for iOS? Sample Codes Added!](https://dev.to/dhruvjoshi9/how-to-integrate-chatgpt-in-whatsapp-on-ios-sample-codes-added-333h)
 - [Dev.to/JS] [5 Unusual Signs That You’re a Great Developer](https://dev.to/metamark/5-unusual-signs-that-youre-a-great-developer-3a6e)
 - [Dev.to/JS] [Ultra CBD Gummies - Pain Relief Solution, Results, Benefits, Customer Reviews?](https://dev.to/ultracbdgummie2/ultra-cbd-gummies-pain-relief-solution-results-benefits-customer-reviews-1l8a)
 - [Dev.to/JS] [Mastering D3.js: Advanced Techniques for Data Visualization](https://dev.to/andersonpixel/mastering-d3js-advanced-techniques-for-data-visualization-3ib0)
 - [Dev.to/JS] [How to remove a property from an object in JavaScript](https://dev.to/david_bilsonn/how-to-remove-a-property-from-an-object-in-javascript-bcg)
 - [Dev.to/JS] [109. Leetcode Solution in JavaScript](https://dev.to/chiki1601/109-leetcode-solution-in-javascript-51ef)
-- [Dev.to/JS] [Starchart: Matching Database With SAML Claims](https://dev.to/cychu42/starchart-matching-database-with-saml-claims-1mki)
-- [Dev.to/JS] [Building Graphics with Code: Zdog and JS, a quick overview](https://dev.to/kriegercisneros/building-graphics-with-code-zdog-and-js-a-quick-overview-37gb)
 - [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
 - [Lifehacker] [You Can Get a Dave’s Single Burger From Wendy’s for $1 Right Now](https://lifehacker.com/you-can-get-a-dave-s-single-burger-from-wendy-s-for-1-1850213329)
 - [Lifehacker] [You Can Try Out Android 14&#39;s New Swipe Back Gesture Early](https://lifehacker.com/you-can-try-out-android-14s-new-swipe-back-gesture-earl-1850213318)
