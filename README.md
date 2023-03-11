@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ultra CBD Gummies - Pain Relief Solution, Results, Benefits, Customer Reviews?](https://dev.to/ultracbdgummie2/ultra-cbd-gummies-pain-relief-solution-results-benefits-customer-reviews-1l8a)
 - [Dev.to/JS] [Mastering D3.js: Advanced Techniques for Data Visualization](https://dev.to/andersonpixel/mastering-d3js-advanced-techniques-for-data-visualization-3ib0)
 - [Dev.to/JS] [How to remove a property from an object in JavaScript](https://dev.to/david_bilsonn/how-to-remove-a-property-from-an-object-in-javascript-bcg)
 - [Dev.to/JS] [109. Leetcode Solution in JavaScript](https://dev.to/chiki1601/109-leetcode-solution-in-javascript-51ef)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Part 1: From OOP to FP...](https://dev.to/tfnielsonse/part-1-from-oop-to-fp-2ajm)
 - [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
 - [Dev.to/JS] [Reasons Why Class Selectors Shouldn&#39;t Be Used in JavaScript!](https://dev.to/fpaghar/reasons-why-class-selectors-shouldnt-be-used-in-javascript-3pff)
-- [Dev.to/JS] [elephant project](https://dev.to/sw06041981/elephant-project-coo)
 - [Lifehacker] [You Can Get a Dave’s Single Burger From Wendy’s for $1 Right Now](https://lifehacker.com/you-can-get-a-dave-s-single-burger-from-wendy-s-for-1-1850213329)
 - [Lifehacker] [You Can Try Out Android 14&#39;s New Swipe Back Gesture Early](https://lifehacker.com/you-can-try-out-android-14s-new-swipe-back-gesture-earl-1850213318)
 - [Lifehacker] [The Most Confusing Car Insurance Terms Every Driver Should Learn](https://lifehacker.com/the-most-confusing-car-insurance-terms-every-driver-sho-1850212379)
