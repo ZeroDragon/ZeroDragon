@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Graphics with Code: Zdog and JS, a quick overview](https://dev.to/kriegercisneros/building-graphics-with-code-zdog-and-js-a-quick-overview-37gb)
 - [Dev.to/JS] [My First Post](https://dev.to/masumbillah6778/my-first-post-1bd)
 - [Dev.to/JS] [How to write Regex without writing regex](https://dev.to/nicolasmontielf/how-to-write-regex-without-writing-regex-1lfm)
 - [Dev.to/JS] [ReactJS - Multi-select/deselect selection input using MUI Autocomplete](https://dev.to/nj145/reactjs-multi-selectdeselect-selection-input-using-mui-autocomplete-56c8)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Confusing Car Insurance Terms Every Driver Should Learn](https://lifehacker.com/the-most-confusing-car-insurance-terms-every-driver-sho-1850212379)
 - [Dev.to/JS] [When to use map ,filter and reduce?](https://dev.to/apoorv266/when-to-use-map-filter-and-reduce-2a3k)
 - [Lifehacker] [You Should Pre-Order Apple Music Classical Today](https://lifehacker.com/you-should-pre-order-apple-music-classical-today-1850212685)
-- [Dev.to/JS] [firstyy](https://dev.to/oussamaelbenney/firstyy-2bl9)
 - [Lifehacker] [The Simple Difference Between a Farm and a Garden](https://lifehacker.com/the-simple-difference-between-a-farm-and-a-garden-1850211980)
 - [Lifehacker] [12 Podcasts That Are Basically Game Shows](https://lifehacker.com/12-podcasts-that-are-basically-game-shows-1850194507)
 - [Lifehacker] [Make Brittle, Crunchy Cookies &lpar;on Purpose&rpar; With Melted Butter](https://lifehacker.com/make-brittle-crunchy-cookies-on-purpose-with-melted-1850212465)
