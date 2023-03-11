@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[2/4] Passez de zéro à héro avec ces méthodes JavaScript](https://dev.to/vincent_react/24-passez-de-zero-a-hero-avec-ces-methodes-javascript-4aja)
+- [Dev.to/JS] [Stahhp Screening for TLDs in Your Email Fields](https://dev.to/bytebodger/stahhp-screening-for-tlds-in-your-email-fields-585l)
 - [Dev.to/JS] [Handling Events in React with Best Practices and Examples](https://dev.to/sidramaqbool/handling-events-in-react-with-best-practices-and-examples-1d75)
 - [Dev.to/JS] [#4: Median of Two Sorted Arrays](https://dev.to/jd2r/4-median-of-two-sorted-arrays-4bc6)
 - [Dev.to/JS] [Hello InfrontJS](https://dev.to/benny00100/hello-infrontjs-4adi)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Performance API: A Guide to Measuring, Monitoring, and A/B Testing](https://dev.to/costamatheus97/performance-api-a-guide-to-measuring-monitoring-and-ab-testing-4235)
 - [Dev.to/JS] [Chaining State Update in ReactJS Efficiently](https://dev.to/dryluigi/chaining-state-update-in-reactjs-efficiently-4ibh)
 - [Dev.to/JS] [Using composition to optimize React rendering](https://dev.to/coder4_life/using-composition-to-optimize-react-rendering-12dg)
-- [Dev.to/JS] [7 Common Mistakes to Avoid When Writing JavaScript Code](https://dev.to/delia_code/7-common-mistakes-to-avoid-when-writing-javascript-code-1b0p)
-- [Dev.to/JS] [Building an AI Chatbot using Open AI API &quot;GPT-3&quot; model with Node.js and React.js](https://dev.to/vectorware/building-an-ai-chatbot-using-open-ai-api-gpt-3-model-with-nodejs-and-reactjs-8ia)
 - [Lifehacker] [The Best Food Deals and Freebies for St. Patrick&#39;s Day](https://lifehacker.com/the-best-food-deals-and-freebies-for-st-patricks-day-1850208431)
 - [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
 - [Lifehacker] [You Can Get a Dave’s Single Burger From Wendy’s for $1 Right Now](https://lifehacker.com/you-can-get-a-dave-s-single-burger-from-wendy-s-for-1-1850213329)
