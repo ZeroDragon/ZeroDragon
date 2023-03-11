@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering D3.js: Advanced Techniques for Data Visualization](https://dev.to/andersonpixel/mastering-d3js-advanced-techniques-for-data-visualization-3ib0)
 - [Dev.to/JS] [How to remove a property from an object in JavaScript](https://dev.to/david_bilsonn/how-to-remove-a-property-from-an-object-in-javascript-bcg)
 - [Dev.to/JS] [109. Leetcode Solution in JavaScript](https://dev.to/chiki1601/109-leetcode-solution-in-javascript-51ef)
 - [Dev.to/JS] [Starchart: Matching Database With SAML Claims](https://dev.to/cychu42/starchart-matching-database-with-saml-claims-1mki)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Reasons Why Class Selectors Shouldn&#39;t Be Used in JavaScript!](https://dev.to/fpaghar/reasons-why-class-selectors-shouldnt-be-used-in-javascript-3pff)
 - [Dev.to/JS] [elephant project](https://dev.to/sw06041981/elephant-project-coo)
 - [Lifehacker] [You Can Get a Dave’s Single Burger From Wendy’s for $1 Right Now](https://lifehacker.com/you-can-get-a-dave-s-single-burger-from-wendy-s-for-1-1850213329)
-- [Dev.to/JS] [React: useState Hooks](https://dev.to/gageharmon/react-usestate-hooks-fp4)
 - [Lifehacker] [You Can Try Out Android 14&#39;s New Swipe Back Gesture Early](https://lifehacker.com/you-can-try-out-android-14s-new-swipe-back-gesture-earl-1850213318)
 - [Lifehacker] [The Most Confusing Car Insurance Terms Every Driver Should Learn](https://lifehacker.com/the-most-confusing-car-insurance-terms-every-driver-sho-1850212379)
 - [Lifehacker] [You Should Pre-Order Apple Music Classical Today](https://lifehacker.com/you-should-pre-order-apple-music-classical-today-1850212685)
