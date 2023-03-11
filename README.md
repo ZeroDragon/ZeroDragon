@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Common Mistakes to Avoid When Writing JavaScript Code](https://dev.to/delia_code/7-common-mistakes-to-avoid-when-writing-javascript-code-1b0p)
+- [Dev.to/JS] [Building an AI Chatbot using Open AI API &quot;GPT-3&quot; model with Node.js and React.js](https://dev.to/vectorware/building-an-ai-chatbot-using-open-ai-api-gpt-3-model-with-nodejs-and-reactjs-8ia)
+- [Dev.to/JS] [Tools and Libraries in Streamlining Your Development](https://dev.to/haszankauna/tools-and-libraries-in-streamlining-your-development-4dp8)
+- [Dev.to/JS] [React Typescript Code Snippet: How to smoothly scroll + focus to invalid input on form validation?](https://dev.to/cauen/react-typescript-code-snippet-how-to-smoothly-scroll-focus-to-invalid-input-on-form-validation-589k)
+- [Dev.to/JS] [7 Common Mistakes to Avoid When Writing JavaScript Code](https://dev.to/haszankauna/7-common-mistakes-to-avoid-when-writing-javascript-code-609)
+- [Dev.to/JS] [Add a Dynamic Sitemap to Next.js Website Using Pages or App Directory](https://dev.to/clarity89/add-a-dynamic-sitemap-to-nextjs-website-using-pages-or-app-directory-2e68)
 - [Lifehacker] [The Best Food Deals and Freebies for St. Patrick&#39;s Day](https://lifehacker.com/the-best-food-deals-and-freebies-for-st-patricks-day-1850208431)
 - [Dev.to/JS] [Important Vscode Extensions In 2023](https://dev.to/oluwatrillions/important-vscode-extensions-in-2023-265c)
 - [Dev.to/JS] [Introducing CVBuild 🎉](https://dev.to/chryzcode/introducing-cvbuild-57mn)
@@ -30,12 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building Cross-Browser Compatible Web Apps with Babel: A Step-by-Step Guide](https://dev.to/kazemm_dev/building-cross-browser-compatible-web-apps-with-babel-a-step-by-step-guide-5c5h)
 - [Dev.to/JS] [5 reasons to consider Next.js for your next projects](https://dev.to/terieyenike/5-reasons-to-consider-nextjs-for-your-next-projects-4m38)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;11-03-2023&rpar; - Bleak Beyond Belief](https://dev.to/mjgs/this-weeks-newsletter-is-out-11-03-2023-bleak-beyond-belief-4bah)
-- [Dev.to/JS] [Astro Framework vs NextJS](https://dev.to/jonassanthosh/astro-framework-vs-nextjs-3flp)
-- [Dev.to/JS] [How to Install and Configure the Console ninja Vscode Extension](https://dev.to/reuben09/how-to-install-and-configure-the-console-ninja-vscode-extension-le8)
-- [Dev.to/JS] [How to Lazy Load Html Videos](https://dev.to/reuben09/how-to-lazy-load-html-videos-1fdg)
-- [Dev.to/JS] [State and its Lifecycles in React JS: A Comprehensive Guide](https://dev.to/sidramaqbool/state-and-its-lifecycles-in-react-js-a-comprehensive-guide-1kfm)
-- [Dev.to/JS] [How to Integrate ChatGPT in WhatsApp for iOS? Sample Codes Added!](https://dev.to/dhruvjoshi9/how-to-integrate-chatgpt-in-whatsapp-on-ios-sample-codes-added-333h)
-- [Dev.to/JS] [5 Unusual Signs That You’re a Great Developer](https://dev.to/metamark/5-unusual-signs-that-youre-a-great-developer-3a6e)
 - [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
 - [Lifehacker] [You Can Get a Dave’s Single Burger From Wendy’s for $1 Right Now](https://lifehacker.com/you-can-get-a-dave-s-single-burger-from-wendy-s-for-1-1850213329)
 - [Lifehacker] [You Can Try Out Android 14&#39;s New Swipe Back Gesture Early](https://lifehacker.com/you-can-try-out-android-14s-new-swipe-back-gesture-earl-1850213318)
