@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Webpack Remains a Powerful Choice for Front-End Development](https://dev.to/fritzlolpro/why-webpack-remains-a-powerful-choice-for-front-end-development-mc2)
+- [Dev.to/JS] [Announcing Codedamn Playgrounds](https://dev.to/patilganesh1010/announcing-codedamn-playgrounds-5ec6)
+- [Lifehacker] [The Best Way to Clean Velvet](https://lifehacker.com/the-best-way-to-clean-velvet-1850208394)
 - [Dev.to/JS] [What Is Storybook in React Native?](https://dev.to/kiran_raj_r/what-is-storybook-in-react-native-2i5h)
 - [Dev.to/JS] [Why Use Sass with React Native?](https://dev.to/kiran_raj_r/why-use-sass-with-react-native-lob)
 - [Dev.to/JS] [Maximizing Website Security and User Experience with Frontend Development &lpar;series&rpar;](https://dev.to/scofieldidehen/maximizing-website-security-and-user-experience-with-frontend-development-series-49k4)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ChatGPT created ReactJS Components](https://dev.to/jonesrussell/chatgpt-created-reactjs-components-1el1)
 - [Dev.to/JS] [What is event bubbling and event capturing in JavaScript?](https://dev.to/santan47/what-is-event-bubbling-and-event-capturing-in-javascript-g18)
 - [Dev.to/JS] [What is RedwoodJS](https://dev.to/abhixsh/what-is-redwoodjs-1gf3)
-- [Dev.to/JS] [How to create a calendar in Vue](https://dev.to/owais11art/how-to-create-a-calendar-in-vue-4m0k)
-- [Dev.to/JS] [It works now but will it work in the future?!](https://dev.to/omaradelattia/it-works-now-but-will-it-work-in-the-future-1il0)
 - [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
 - [Lifehacker] [The Best Food Deals and Freebies for St. Patrick&#39;s Day](https://lifehacker.com/the-best-food-deals-and-freebies-for-st-patricks-day-1850208431)
 - [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Eating Cold, Rubbery Pancakes](https://lifehacker.com/stop-eating-cold-rubbery-pancakes-1850207799)
 - [Lifehacker] [10 Psychoactive Drugs You Can Grow at Home](https://lifehacker.com/10-psychoactive-drugs-you-can-grow-at-home-1850208296)
 - [Lifehacker] [ChatGPT Created Its Own Puzzle Game, and You Can Play It Right Now](https://lifehacker.com/chatgpt-created-its-own-puzzle-game-and-you-can-play-i-1850207733)
-- [Lifehacker] [9 Things Your Local Bakery Is Probably Freezing](https://lifehacker.com/9-things-your-local-bakery-is-probably-freezing-1850207246)
-- [Lifehacker] [How to Recover From a Browser Hijacking Attack](https://lifehacker.com/how-to-recover-from-a-browser-hijacking-attack-1850206361)<!-- TECH-POSTS:END -->
+- [Lifehacker] [9 Things Your Local Bakery Is Probably Freezing](https://lifehacker.com/9-things-your-local-bakery-is-probably-freezing-1850207246)<!-- TECH-POSTS:END -->
 
 ---
 
