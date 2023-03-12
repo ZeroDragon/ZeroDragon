@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ChatGPT created ReactJS Components](https://dev.to/jonesrussell/chatgpt-created-reactjs-components-1el1)
 - [Dev.to/JS] [What is event bubbling and event capturing in JavaScript?](https://dev.to/santan47/what-is-event-bubbling-and-event-capturing-in-javascript-g18)
 - [Dev.to/JS] [What is RedwoodJS](https://dev.to/abhixsh/what-is-redwoodjs-1gf3)
 - [Dev.to/JS] [How to create a calendar in Vue](https://dev.to/owais11art/how-to-create-a-calendar-in-vue-4m0k)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [RxJS 7 - Observables](https://dev.to/barisbll/rxjs-7-observables-2kc)
 - [Dev.to/JS] [Cracking the Interview: Essential Advanced JavaScript Concepts You Need to Know](https://dev.to/ritikbanger/cracking-the-interview-essential-advanced-javascript-concepts-you-need-to-know-2e57)
 - [Dev.to/JS] [Greet your visitor](https://dev.to/mayank30/greet-your-visitor-nmp)
-- [Dev.to/JS] [How to display line breaks in React for the &quot;\n&quot; newline character.](https://dev.to/yuya0114/how-to-display-line-breaks-in-react-for-the-n-newline-character-3b0h)
 - [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
 - [Lifehacker] [The Best Food Deals and Freebies for St. Patrick&#39;s Day](https://lifehacker.com/the-best-food-deals-and-freebies-for-st-patricks-day-1850208431)
 - [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
