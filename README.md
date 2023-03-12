@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Split your code into phases](https://dev.to/tahazsh/split-your-code-into-phases-3cbo)
 - [Dev.to/JS] [User Registration in Node JS](https://dev.to/wanguiwaweru/user-registration-in-node-js-a6b)
 - [Dev.to/JS] [The Power of JavaScript: Tips and Tricks for Writing Clean, Efficient Code](https://dev.to/zuzexx/the-power-of-javascript-tips-and-tricks-for-writing-clean-efficient-code-20p)
 - [Dev.to/JS] [Callback functions in Javascript explained](https://dev.to/thehomelessdev/callback-functions-in-javascript-explained-3p3p)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [GraphQXL: the missing language extension](https://dev.to/gabotechs/graphqxl-the-missing-language-extension-4f48)
 - [Dev.to/JS] [TypeScript: Generic Types](https://dev.to/donstefani/typescript-generic-types-4h80)
 - [Dev.to/JS] [The best CMS for SEO &lpar;Or can CMS improve your SEO?&rpar;](https://dev.to/momciloo/the-best-cms-for-seoor-can-cms-improve-your-seo-3eph)
-- [Dev.to/JS] [ReactJS + TailwindCSS + http://hypercolor.dev = Sweet components with sexy gradients! 😁💖](https://dev.to/jonesrussell/reactjs-tailwindcss-httphypercolordev-sweet-components-with-sexy-gradients-3ke2)
 - [Lifehacker] [The Best Way to Clean Velvet](https://lifehacker.com/the-best-way-to-clean-velvet-1850208394)
 - [Lifehacker] [Calm Your Worried Mind With These Self-Soothing Techniques for Adults](https://lifehacker.com/calm-your-worried-mind-with-these-self-soothing-techniq-1850208405)
 - [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
