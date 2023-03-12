@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optimize your workflow with Tailwind CSS: Get class completions and hover previews for classes assigned to variables in VScode](https://dev.to/bhatvikrant/optimize-your-workflow-with-tailwind-css-get-class-completions-and-hover-previews-for-classes-assigned-to-variables-in-vscode-44pj)
+- [Dev.to/JS] [Speed Up ⚡ your React app with these Techniques](https://dev.to/creatorslook/speed-up-your-react-app-with-these-techniques-4k59)
+- [Dev.to/JS] [What&#39;s the matcher?](https://dev.to/gundogduyakici/whats-the-matcher-4b9m)
 - [Lifehacker] [Calm Your Worried Mind With These Self-Soothing Techniques for Adults](https://lifehacker.com/calm-your-worried-mind-with-these-self-soothing-techniq-1850208405)
 - [Dev.to/JS] [3 Ways to Automate Accessibility Testing &lpar;a11y&rpar;](https://dev.to/willkre/3-ways-to-automate-accessibility-testing-a11y-19kc)
 - [Dev.to/JS] [ChatGPT created ReactJS Components](https://dev.to/jonesrussell/chatgpt-created-reactjs-components-1el1)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Mouse Tracking Eye Effect With JavaScript](https://dev.to/salehmubashar/creating-a-mouse-tracking-eye-effect-with-javascript-31i9)
 - [Dev.to/JS] [Javascript arrays are gapped!](https://dev.to/arthurclifford/javascript-arrays-are-gapped-2pd4)
 - [Dev.to/JS] [Are you looking to...](https://dev.to/pandyakaran05/are-you-looking-to-39ln)
-- [Dev.to/JS] [Flowchart editor dgrm.net / announcement / hotkeys](https://dev.to/alexboyko/flowchart-editor-dgrmnet-announcement-hotkeys-1085)
-- [Dev.to/JS] [RxJS 7 - Observables](https://dev.to/barisbll/rxjs-7-observables-2kc)
-- [Dev.to/JS] [Cracking the Interview: Essential Advanced JavaScript Concepts You Need to Know](https://dev.to/ritikbanger/cracking-the-interview-essential-advanced-javascript-concepts-you-need-to-know-2e57)
 - [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
 - [Lifehacker] [The Best Food Deals and Freebies for St. Patrick&#39;s Day](https://lifehacker.com/the-best-food-deals-and-freebies-for-st-patricks-day-1850208431)
 - [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
