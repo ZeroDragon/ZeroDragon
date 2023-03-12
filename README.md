@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Calm Your Worried Mind With These Self-Soothing Techniques for Adults](https://lifehacker.com/calm-your-worried-mind-with-these-self-soothing-techniq-1850208405)
+- [Dev.to/JS] [3 Ways to Automate Accessibility Testing &lpar;a11y&rpar;](https://dev.to/willkre/3-ways-to-automate-accessibility-testing-a11y-19kc)
 - [Dev.to/JS] [ChatGPT created ReactJS Components](https://dev.to/jonesrussell/chatgpt-created-reactjs-components-1el1)
 - [Dev.to/JS] [What is event bubbling and event capturing in JavaScript?](https://dev.to/santan47/what-is-event-bubbling-and-event-capturing-in-javascript-g18)
 - [Dev.to/JS] [What is RedwoodJS](https://dev.to/abhixsh/what-is-redwoodjs-1gf3)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Flowchart editor dgrm.net / announcement / hotkeys](https://dev.to/alexboyko/flowchart-editor-dgrmnet-announcement-hotkeys-1085)
 - [Dev.to/JS] [RxJS 7 - Observables](https://dev.to/barisbll/rxjs-7-observables-2kc)
 - [Dev.to/JS] [Cracking the Interview: Essential Advanced JavaScript Concepts You Need to Know](https://dev.to/ritikbanger/cracking-the-interview-essential-advanced-javascript-concepts-you-need-to-know-2e57)
-- [Dev.to/JS] [Greet your visitor](https://dev.to/mayank30/greet-your-visitor-nmp)
 - [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
 - [Lifehacker] [The Best Food Deals and Freebies for St. Patrick&#39;s Day](https://lifehacker.com/the-best-food-deals-and-freebies-for-st-patricks-day-1850208431)
 - [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Psychoactive Drugs You Can Grow at Home](https://lifehacker.com/10-psychoactive-drugs-you-can-grow-at-home-1850208296)
 - [Lifehacker] [ChatGPT Created Its Own Puzzle Game, and You Can Play It Right Now](https://lifehacker.com/chatgpt-created-its-own-puzzle-game-and-you-can-play-i-1850207733)
 - [Lifehacker] [9 Things Your Local Bakery Is Probably Freezing](https://lifehacker.com/9-things-your-local-bakery-is-probably-freezing-1850207246)
-- [Lifehacker] [How to Recover From a Browser Hijacking Attack](https://lifehacker.com/how-to-recover-from-a-browser-hijacking-attack-1850206361)
-- [Lifehacker] [You Can Get a Free Mini Wok With Your Panda Express Order Right Now](https://lifehacker.com/you-can-get-a-free-mini-wok-with-your-panda-express-ord-1850207507)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Recover From a Browser Hijacking Attack](https://lifehacker.com/how-to-recover-from-a-browser-hijacking-attack-1850206361)<!-- TECH-POSTS:END -->
 
 ---
 
