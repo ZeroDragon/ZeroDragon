@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [who doesn&#39;t love loopholes](https://dev.to/thelegendski/who-doesnt-love-loopholes-1hb)
 - [Dev.to/JS] [Object Oriented Programming in Javascript!🤔](https://dev.to/cybermaxi7/object-oriented-programming-in-javascript-3a9c)
 - [Dev.to/JS] [Scraping Data from Amazon into Google Sheets using ScraperAPI and Google Apps Script](https://dev.to/damilare_abogunrin/scraping-data-from-amazon-into-google-sheets-using-scraperapi-and-google-apps-script-25k9)
 - [Dev.to/JS] [Type Safe, Promise Based, Vue 3 Modals That&#39;ll Have You Popping with Joy](https://dev.to/neophen/type-safe-promise-based-vue-3-modals-thatll-have-you-popping-with-joy-4299)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Brand Reputation](https://dev.to/nullivex/brand-reputation-4k3k)
 - [Dev.to/JS] [Debouncing and Throttling in ReactJs](https://dev.to/abhishekrawe/debouncing-and-throttling-in-reactjs-4fhf)
 - [Dev.to/JS] [A Journey Towards a More Accessible and Inclusive Web.](https://dev.to/wiseai/a-journey-towards-a-more-accessible-and-inclusive-web-1ad5)
-- [Dev.to/JS] [[2/4] Passez de zéro à héro avec ces méthodes JavaScript](https://dev.to/vincent_react/24-passez-de-zero-a-hero-avec-ces-methodes-javascript-4aja)
 - [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
 - [Lifehacker] [The Best Food Deals and Freebies for St. Patrick&#39;s Day](https://lifehacker.com/the-best-food-deals-and-freebies-for-st-patricks-day-1850208431)
 - [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
