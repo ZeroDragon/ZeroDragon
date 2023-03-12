@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Write Clean and Maintainable JavaScript Code](https://dev.to/nesatnayem/how-to-write-clean-and-maintainable-javascript-code-1af2)
+- [Dev.to/JS] [How to Integrate Search Engine Optimization For Frontend Website](https://dev.to/scofieldidehen/how-to-integrate-search-engine-optimization-for-frontend-website-hp8)
 - [Dev.to/JS] [React Hooks Fundamentals -useState&lpar;&rpar;...](https://dev.to/mrraizada/react-hooks-fundamentals-usestate-1b9l)
 - [Dev.to/JS] [who doesn&#39;t love loopholes](https://dev.to/thelegendski/who-doesnt-love-loopholes-1hb)
 - [Dev.to/JS] [Object Oriented Programming in Javascript!🤔](https://dev.to/cybermaxi7/object-oriented-programming-in-javascript-3a9c)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dynamic Navigation in AEM using Sling Models and HTL](https://dev.to/avi413/dynamic-navigation-in-aem-using-sling-models-and-htl-2794)
 - [Dev.to/JS] [Master full-stack development](https://dev.to/ishratumar/master-full-stack-development-51cn)
 - [Dev.to/JS] [Implementing Tic Tac Toe in Vue](https://dev.to/diseyi/implementing-tic-tac-toe-in-vue-57go)
-- [Dev.to/JS] [Brand Reputation](https://dev.to/nullivex/brand-reputation-4k3k)
-- [Dev.to/JS] [Debouncing and Throttling in ReactJs](https://dev.to/abhishekrawe/debouncing-and-throttling-in-reactjs-4fhf)
 - [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
 - [Lifehacker] [The Best Food Deals and Freebies for St. Patrick&#39;s Day](https://lifehacker.com/the-best-food-deals-and-freebies-for-st-patricks-day-1850208431)
 - [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
