@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What Is Storybook in React Native?](https://dev.to/kiran_raj_r/what-is-storybook-in-react-native-2i5h)
+- [Dev.to/JS] [Why Use Sass with React Native?](https://dev.to/kiran_raj_r/why-use-sass-with-react-native-lob)
+- [Dev.to/JS] [Maximizing Website Security and User Experience with Frontend Development &lpar;series&rpar;](https://dev.to/scofieldidehen/maximizing-website-security-and-user-experience-with-frontend-development-series-49k4)
 - [Dev.to/JS] [Optimize your workflow with Tailwind CSS: Get class completions and hover previews for classes assigned to variables in VScode](https://dev.to/bhatvikrant/optimize-your-workflow-with-tailwind-css-get-class-completions-and-hover-previews-for-classes-assigned-to-variables-in-vscode-44pj)
 - [Dev.to/JS] [Speed Up ⚡ your React app with these Techniques](https://dev.to/creatorslook/speed-up-your-react-app-with-these-techniques-4k59)
 - [Dev.to/JS] [What&#39;s the matcher?](https://dev.to/gundogduyakici/whats-the-matcher-4b9m)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is RedwoodJS](https://dev.to/abhixsh/what-is-redwoodjs-1gf3)
 - [Dev.to/JS] [How to create a calendar in Vue](https://dev.to/owais11art/how-to-create-a-calendar-in-vue-4m0k)
 - [Dev.to/JS] [It works now but will it work in the future?!](https://dev.to/omaradelattia/it-works-now-but-will-it-work-in-the-future-1il0)
-- [Dev.to/JS] [Creating a Mouse Tracking Eye Effect With JavaScript](https://dev.to/salehmubashar/creating-a-mouse-tracking-eye-effect-with-javascript-31i9)
-- [Dev.to/JS] [Javascript arrays are gapped!](https://dev.to/arthurclifford/javascript-arrays-are-gapped-2pd4)
-- [Dev.to/JS] [Are you looking to...](https://dev.to/pandyakaran05/are-you-looking-to-39ln)
 - [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
 - [Lifehacker] [The Best Food Deals and Freebies for St. Patrick&#39;s Day](https://lifehacker.com/the-best-food-deals-and-freebies-for-st-patricks-day-1850208431)
 - [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
