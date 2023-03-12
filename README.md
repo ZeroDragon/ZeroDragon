@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Are you looking to...](https://dev.to/pandyakaran05/are-you-looking-to-39ln)
+- [Dev.to/JS] [Flowchart editor dgrm.net / announcement / hotkeys](https://dev.to/alexboyko/flowchart-editor-dgrmnet-announcement-hotkeys-1085)
+- [Dev.to/JS] [RxJS 7 - Observables](https://dev.to/barisbll/rxjs-7-observables-2kc)
 - [Dev.to/JS] [Cracking the Interview: Essential Advanced JavaScript Concepts You Need to Know](https://dev.to/ritikbanger/cracking-the-interview-essential-advanced-javascript-concepts-you-need-to-know-2e57)
 - [Dev.to/JS] [Greet your visitor](https://dev.to/mayank30/greet-your-visitor-nmp)
 - [Dev.to/JS] [How to display line breaks in React for the &quot;\n&quot; newline character.](https://dev.to/yuya0114/how-to-display-line-breaks-in-react-for-the-n-newline-character-3b0h)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [who doesn&#39;t love loopholes](https://dev.to/thelegendski/who-doesnt-love-loopholes-1hb)
 - [Dev.to/JS] [Object Oriented Programming in Javascript!🤔](https://dev.to/cybermaxi7/object-oriented-programming-in-javascript-3a9c)
 - [Dev.to/JS] [Scraping Data from Amazon into Google Sheets using ScraperAPI and Google Apps Script](https://dev.to/damilare_abogunrin/scraping-data-from-amazon-into-google-sheets-using-scraperapi-and-google-apps-script-25k9)
-- [Dev.to/JS] [Type Safe, Promise Based, Vue 3 Modals That&#39;ll Have You Popping with Joy](https://dev.to/neophen/type-safe-promise-based-vue-3-modals-thatll-have-you-popping-with-joy-4299)
-- [Dev.to/JS] [Three Ways to Make an Async Request in JavaScript: XHR, Promise, Async/Await](https://dev.to/losnikitos/three-ways-to-make-an-async-request-in-javascript-xhr-promise-asyncawait-1bff)
-- [Dev.to/JS] [How to Build and Test a Blog with Svelte and SvelteKit](https://dev.to/uncle_ben/how-to-build-and-test-a-blog-with-svelte-and-sveltekit-1eaa)
 - [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
 - [Lifehacker] [The Best Food Deals and Freebies for St. Patrick&#39;s Day](https://lifehacker.com/the-best-food-deals-and-freebies-for-st-patricks-day-1850208431)
 - [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
