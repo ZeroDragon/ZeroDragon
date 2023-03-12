@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Now That React is Dying — Here Are Some Alternatives](https://dev.to/devashishmamgain/now-that-react-is-dying-here-are-some-alternatives-5ga1)
+- [Dev.to/JS] [Code a bus schedule CLI with Node.js and Python [ + Sqlite3 ]](https://dev.to/bekbrace/code-a-bus-schedule-cli-with-nodejs-and-python-sqlite3--6nn)
+- [Dev.to/JS] [What is the difference between null and undefined?](https://dev.to/typescripttv/what-is-the-difference-between-null-and-undefined-5h76)
+- [Dev.to/JS] [Debugging Tales: A Developer&#39;s Guide to Tackling Code Errors](https://dev.to/santhoshdhadi/debugging-tales-a-developers-guide-to-tackling-code-errors-170e)
 - [Dev.to/JS] [Subscribe to events with Supabase](https://dev.to/guillaumeduhan/subscribe-to-events-with-supabase-3i7a)
 - [Dev.to/JS] [GraphQXL: the missing language extension](https://dev.to/gabotechs/graphqxl-the-missing-language-extension-4f48)
 - [Dev.to/JS] [TypeScript: Generic Types](https://dev.to/donstefani/typescript-generic-types-4h80)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Part -2 Become a better you with these 10 visuals](https://dev.to/jon_snow789/part-2-become-a-better-you-with-these-10-visuals-2e03)
 - [Dev.to/JS] [Brief React server component explanation](https://dev.to/usaidpeerzada/brief-react-server-component-explanation-3ogg)
 - [Dev.to/JS] [Pipelining and composition](https://dev.to/mostafakmilly/pipelining-and-composition-fe4)
-- [Dev.to/JS] [🚀 Check out useReducer!](https://dev.to/seeratawan01/check-out-usereducer-1ba3)
-- [Dev.to/JS] [Why Webpack Remains a Powerful Choice for Front-End Development](https://dev.to/fritzlolpro/why-webpack-remains-a-powerful-choice-for-front-end-development-mc2)
-- [Dev.to/JS] [Announcing Codedamn Playgrounds](https://dev.to/patilganesh1010/announcing-codedamn-playgrounds-5ec6)
 - [Lifehacker] [The Best Way to Clean Velvet](https://lifehacker.com/the-best-way-to-clean-velvet-1850208394)
-- [Dev.to/JS] [What Is Storybook in React Native?](https://dev.to/kiran_raj_r/what-is-storybook-in-react-native-2i5h)
 - [Lifehacker] [Calm Your Worried Mind With These Self-Soothing Techniques for Adults](https://lifehacker.com/calm-your-worried-mind-with-these-self-soothing-techniq-1850208405)
 - [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
 - [Lifehacker] [The Best Food Deals and Freebies for St. Patrick&#39;s Day](https://lifehacker.com/the-best-food-deals-and-freebies-for-st-patricks-day-1850208431)
