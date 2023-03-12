@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Object Oriented Programming in Javascript!🤔](https://dev.to/cybermaxi7/object-oriented-programming-in-javascript-3a9c)
+- [Dev.to/JS] [Scraping Data from Amazon into Google Sheets using ScraperAPI and Google Apps Script](https://dev.to/damilare_abogunrin/scraping-data-from-amazon-into-google-sheets-using-scraperapi-and-google-apps-script-25k9)
 - [Dev.to/JS] [Type Safe, Promise Based, Vue 3 Modals That&#39;ll Have You Popping with Joy](https://dev.to/neophen/type-safe-promise-based-vue-3-modals-thatll-have-you-popping-with-joy-4299)
 - [Dev.to/JS] [Three Ways to Make an Async Request in JavaScript: XHR, Promise, Async/Await](https://dev.to/losnikitos/three-ways-to-make-an-async-request-in-javascript-xhr-promise-asyncawait-1bff)
 - [Dev.to/JS] [How to Build and Test a Blog with Svelte and SvelteKit](https://dev.to/uncle_ben/how-to-build-and-test-a-blog-with-svelte-and-sveltekit-1eaa)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Debouncing and Throttling in ReactJs](https://dev.to/abhishekrawe/debouncing-and-throttling-in-reactjs-4fhf)
 - [Dev.to/JS] [A Journey Towards a More Accessible and Inclusive Web.](https://dev.to/wiseai/a-journey-towards-a-more-accessible-and-inclusive-web-1ad5)
 - [Dev.to/JS] [[2/4] Passez de zéro à héro avec ces méthodes JavaScript](https://dev.to/vincent_react/24-passez-de-zero-a-hero-avec-ces-methodes-javascript-4aja)
-- [Dev.to/JS] [Stahhp Screening for TLDs in Your Email Fields](https://dev.to/bytebodger/stahhp-screening-for-tlds-in-your-email-fields-585l)
-- [Dev.to/JS] [Handling Events in React with Best Practices and Examples](https://dev.to/sidramaqbool/handling-events-in-react-with-best-practices-and-examples-1d75)
 - [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
 - [Lifehacker] [The Best Food Deals and Freebies for St. Patrick&#39;s Day](https://lifehacker.com/the-best-food-deals-and-freebies-for-st-patricks-day-1850208431)
 - [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
