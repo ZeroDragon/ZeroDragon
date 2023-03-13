@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Astro and Azure Static Web Apps](https://dev.to/florianrappl/astro-and-azure-static-web-apps-efl)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Mar 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-mar-2023-2bid)
+- [Dev.to/JS] [Conditional Rendering in React: A Brief Guide](https://dev.to/sidramaqbool/conditional-rendering-in-react-a-brief-guide-4dcj)
+- [Dev.to/JS] [Development of a model for secure communication via USB interface](https://dev.to/stevenstephard/development-of-a-model-for-secure-communication-via-usb-interface-40cn)
 - [Dev.to/JS] [Paracetamol.js💊| #202: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-202-explica-este-codigo-javascript-5548)
 - [Dev.to/JS] [Angular Forms: Choosing Between Reactive and Template Driven Forms](https://dev.to/danywalls/choosing-between-reactive-and-template-driven-forms-1onk)
 - [Dev.to/JS] [Make your own React mount/unmount animation](https://dev.to/furkankaynak/make-your-own-react-mountunmount-animation-2ck)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Superpowers with Directives and Dependency Injection: Part 1](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-1-ho7)
 - [Dev.to/JS] [The Importance of Clean Code in JavaScript/TypeScript](https://dev.to/rardooba/the-importance-of-clean-code-in-javascripttypescript-4367)
 - [Dev.to/JS] [Transform objects using array methods](https://dev.to/nikolasbarwicki/transform-objects-using-array-methods-1jh8)
-- [Dev.to/JS] [How &#39;this&#39; keyword&#39;s value is determined in Javascript](https://dev.to/mridultailor/how-this-keywords-value-is-determined-in-javascript-2l66)
-- [Dev.to/JS] [10 Frontend Projects to Take Your Coding Skills to the Next Level](https://dev.to/thefierycoder/10-frontend-projects-to-take-your-coding-skills-to-the-next-level-7ae)
-- [Dev.to/JS] [SVGR for your React app](https://dev.to/rishikeshvedpathak/svgr-for-your-react-app-d4g)
-- [Dev.to/JS] [Split your code into phases](https://dev.to/tahazsh/split-your-code-into-phases-3cbo)
 - [Lifehacker] [The Best Way to Clean Velvet](https://lifehacker.com/the-best-way-to-clean-velvet-1850208394)
 - [Lifehacker] [Calm Your Worried Mind With These Self-Soothing Techniques for Adults](https://lifehacker.com/calm-your-worried-mind-with-these-self-soothing-techniq-1850208405)
 - [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
