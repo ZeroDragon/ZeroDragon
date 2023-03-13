@@ -23,21 +23,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Things to do while programming!](https://dev.to/bluehatcoders/things-to-do-while-programming-3jkg)
-- [Dev.to/JS] [How to build a Drum Kit with javascript](https://dev.to/coderamrin/how-to-build-a-drum-kit-with-javascript-572b)
-- [Dev.to/JS] [Build a realtime board game with Nextjs, Socket.io, Tailwind, Nodejs, Typescript](https://dev.to/nttanh6299/build-a-realtime-board-game-with-nextjs-socketio-tailwind-nodejs-typescript-56ng)
-- [Dev.to/JS] [2.3 A student&#39;s guide to Firebase V9 - A very gentle introduction to React.js](https://dev.to/mjoycemilburn/23-a-students-guide-to-firebase-v9-a-very-gentle-introduction-to-reactjs-d67)
-- [Dev.to/JS] [10.2 Reference - React JSX Templates](https://dev.to/mjoycemilburn/102-reference-react-jsx-templates-156n)
-- [Dev.to/JS] [10.3 Reference - React-router Project Templates](https://dev.to/mjoycemilburn/103-reference-react-router-project-templates-4ifk)
-- [Dev.to/JS] [How to Create a Venn Diagram in JS &lpar;with Some Help of Tolkien&rpar;](https://dev.to/andreykh1985/how-to-create-a-venn-diagram-in-js-with-some-help-of-tolkien-4fn6)
-- [Dev.to/JS] [🚨 All you need to know before using modern JavaScript features](https://dev.to/deivuss331/all-you-need-to-know-before-using-modern-javascript-features-3cpd)
+- [Lifehacker] [Buy a KFC Sandwich, Get Early Access to ‘Diablo IV’](https://lifehacker.com/buy-a-kfc-sandwich-get-early-access-to-diablo-iv-1850219897)
+- [Dev.to/JS] [The Types You Need - Learning TypeScript](https://dev.to/brianschnee/the-types-you-need-learning-typescript-185)
+- [Dev.to/JS] [[Starter]Template of Laravel+Vite+Vuetify3+TypeScript+Router+Sass](https://dev.to/ichii731/starter-templatelaravelvitevuetify3typescriptroutersass-3o4)
+- [Dev.to/JS] [TIL: use Maps with React radio inputs](https://dev.to/ndrean/til-use-maps-with-react-radio-inputs-18mm)
+- [Lifehacker] [21 of the Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
+- [Dev.to/JS] [Hook de gerenciamento de categorias com React Query e Axios no CrazyStack Next.js](https://dev.to/devdoido/hook-de-gerenciamento-de-categorias-com-react-query-e-axios-no-crazystack-nextjs-4a33)
+- [Dev.to/JS] [Função utilitária SSR de autenticação no CrazyStack Next.js](https://dev.to/devdoido/funcao-utilitaria-ssr-de-autenticacao-no-crazystack-nextjs-mj4)
+- [Dev.to/JS] [Criando tabela dinâmica e genérica no CrazyStack Next.js](https://dev.to/devdoido/criando-tabela-dinamica-e-generica-no-crazystack-nextjs-4paf)
+- [Dev.to/JS] [NavBar no CrazyStack Next.js](https://dev.to/devdoido/navbar-no-crazystack-nextjs-26kn)
+- [Dev.to/JS] [Sidebar no painel do CrazyStack Next.js](https://dev.to/devdoido/sidebar-no-painel-do-crazystack-nextjs-456n)
+- [Dev.to/JS] [Loading genérico no CrazyStack Next.js](https://dev.to/devdoido/loading-generico-no-crazystack-nextjs-n32)
+- [Dev.to/JS] [Criando modais genéricos BoxSuccess e BoxError no CrazyStack Next.js](https://dev.to/devdoido/criando-modais-genericos-boxsuccess-e-boxerror-no-crazystack-nextjs-2m97)
+- [Dev.to/JS] [A perspective from a new developer](https://dev.to/msanyal7/a-perspective-from-a-new-developer-dbp)
+- [Dev.to/JS] [Virtual Dom Diffing Algorithm Implementation In Vanilla JavaScript](https://dev.to/joydeep1113/virtual-dom-diffing-algorithm-implementation-in-vanilla-javascript-1ddf)
+- [Lifehacker] [What’s a Home Equity Investment, and Is It Ever a Good Idea?](https://lifehacker.com/what-s-a-home-equity-investment-and-is-it-ever-a-good-1850219402)
 - [Lifehacker] [Don’t Use This TikTok &#39;Hack&#39; to Fix a Leaky Pipe](https://lifehacker.com/don-t-use-this-tiktok-hack-to-fix-a-leaky-pipe-1850218501)
-- [Dev.to/JS] [Generating Tags/Categories for Phrases/Quotes using Chat GPT API and Firebase Cloud Functions](https://dev.to/abhishek_biswal/generating-tagscategories-for-phrasesquotes-using-chat-gpt-api-and-firebase-cloud-functions-2njl)
 - [Lifehacker] [How You Can Really Help a Friend Who&#39;s Been Laid Off](https://lifehacker.com/how-you-can-really-help-a-friend-whos-been-laid-off-1850217478)
-- [Dev.to/JS] [Using Axios more elegantly with Interceptors and Array of URLs](https://dev.to/saulodias/using-axios-more-elegantly-with-interceptors-and-array-of-urls-93c)
-- [Dev.to/JS] [Creating Custom Animations with React.js and GreenSock](https://dev.to/haszankauna/creating-custom-animations-with-reactjs-and-greensock-36eb)
 - [Lifehacker] [These Interactive Tools Reveal Your Home’s Future Flood, Heat, and Wind Risk](https://lifehacker.com/these-interactive-tools-reveal-your-home-s-future-flood-1850214492)
-- [Dev.to/JS] [I re-created my portfolio using Nuxt3](https://dev.to/brojenuel/i-re-created-my-portfolio-using-nuxt3-1nki)
 - [Lifehacker] [The 7 Deadly Sins of Spring Cleaning](https://lifehacker.com/the-7-deadly-sins-of-spring-cleaning-1850214755)
 - [Lifehacker] [9 More Ways You Should Be Using Paper Towels Around the House](https://lifehacker.com/9-more-ways-you-should-be-using-paper-towels-around-the-1850213806)
 - [Lifehacker] [Why It Matters If You Have ‘Dense’ Breast Tissue](https://lifehacker.com/why-it-matters-if-you-have-dense-breast-tissue-1850214162)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do This Before Asking for More Flexibility at Work](https://lifehacker.com/do-this-before-asking-for-more-flexibility-at-work-1850211566)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is a &#39;Tradwife Influencer&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-a-1850210814)
 - [Lifehacker] [How to Identify and Report an Illegal Job Posting](https://lifehacker.com/how-to-identify-and-report-an-illegal-job-posting-1833295818)
-- [Lifehacker] [20 Times the Oscars Got It Exactly Right](https://lifehacker.com/20-times-the-oscars-got-it-exactly-right-1850206612)
-- [Lifehacker] [Get up to 95% Off Bike Parts and Accessories in This Liquidation Sale](https://lifehacker.com/get-up-to-95-off-bike-parts-and-accessories-in-this-li-1850210022)
-- [Lifehacker] [How to Make the TikTok Banana Coffee Even Better](https://lifehacker.com/how-to-make-the-tiktok-banana-coffee-even-better-1850209892)
-- [Lifehacker] [Use Google to Translate Text in Any Image](https://lifehacker.com/use-google-to-translate-text-in-any-image-1850209008)<!-- TECH-POSTS:END -->
+- [Lifehacker] [20 Times the Oscars Got It Exactly Right](https://lifehacker.com/20-times-the-oscars-got-it-exactly-right-1850206612)<!-- TECH-POSTS:END -->
 
 ---
 
