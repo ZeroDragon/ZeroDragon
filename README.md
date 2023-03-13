@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Things I learned recently...](https://dev.to/edriso/things-i-learned-recently-4f1b)
+- [Dev.to/JS] [Have you tried QuickTime Player to debug your React code?](https://dev.to/maxprilutskiy/have-you-tried-quicktime-player-to-debug-your-react-code-23l9)
+- [Dev.to/JS] [Understanding JavaScript Data Types In Web Development](https://dev.to/comfortdeola/understanding-javascript-data-types-in-web-development-maa)
+- [Dev.to/JS] [Staying on Top of the Latest Trends in Cutting Edge Web Development](https://dev.to/ikramulhasan1/staying-on-top-of-the-latest-trends-in-cutting-edge-web-development-4nic)
 - [Dev.to/JS] [Mastering JavaScript Dialog Boxes in Just 2 Minutes](https://dev.to/thisissouray/mastering-javascript-dialog-boxes-in-just-3-minutes-4db2)
 - [Dev.to/JS] [Episode 23/10: Performance Basics, Angular Misconceptions, Panel on Signals &amp; RxJs](https://dev.to/ng_news/episode-2310-performance-basics-angular-misconceptions-panel-on-signals-rxjs-1mg2)
 - [Dev.to/JS] [Exploring How React Follows the Flux Pattern for Building User Interfaces](https://dev.to/judeebekes67/how-react-follows-the-flux-pattern-22co)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [⚡ Announcing the Capacitor ML Kit Barcode Scanning Plugin](https://dev.to/capawesome/announcing-the-capacitor-ml-kit-barcode-scanning-plugin-554g)
 - [Dev.to/JS] [API Requests in Javascript](https://dev.to/shriansh2002/api-requests-in-javascript-4bb1)
 - [Dev.to/JS] [Advanced Web Development: Cutting-Edge Technologies for Creating Dynamic Web Experiences](https://dev.to/ikramulhasan1/advanced-web-development-cutting-edge-technologies-for-creating-dynamic-web-experiences-hhc)
-- [Dev.to/JS] [Types of Requests in API](https://dev.to/shriansh2002/types-of-requests-in-api-38id)
-- [Dev.to/JS] [A Beginner&#39;s Guide to APIs](https://dev.to/shriansh2002/application-programming-interface-api--3po6)
-- [Dev.to/JS] [Cors problem](https://dev.to/lausuarez02/cors-problem-4hj4)
-- [Dev.to/JS] [How to Use ESLint to Boost Your Programming Skills](https://dev.to/kazemm_dev/how-to-use-eslint-to-boost-your-programming-skills-3ced)
 - [Lifehacker] [Buy a KFC Sandwich, Get Early Access to ‘Diablo IV’](https://lifehacker.com/buy-a-kfc-sandwich-get-early-access-to-diablo-iv-1850219897)
 - [Lifehacker] [21 of the Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [What’s a Home Equity Investment, and Is It Ever a Good Idea?](https://lifehacker.com/what-s-a-home-equity-investment-and-is-it-ever-a-good-1850219402)
