@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to Web Audio API](https://dev.to/dyte/introduction-to-web-audio-api-20hp)
+- [Dev.to/JS] [Superpowers with Directives and Dependency Injection: Part 1](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-1-ho7)
+- [Dev.to/JS] [The Importance of Clean Code in JavaScript/TypeScript](https://dev.to/rardooba/the-importance-of-clean-code-in-javascripttypescript-4367)
+- [Dev.to/JS] [Transform objects using array methods](https://dev.to/nikolasbarwicki/transform-objects-using-array-methods-1jh8)
 - [Dev.to/JS] [How &#39;this&#39; keyword&#39;s value is determined in Javascript](https://dev.to/mridultailor/how-this-keywords-value-is-determined-in-javascript-2l66)
 - [Dev.to/JS] [10 Frontend Projects to Take Your Coding Skills to the Next Level](https://dev.to/thefierycoder/10-frontend-projects-to-take-your-coding-skills-to-the-next-level-7ae)
 - [Dev.to/JS] [SVGR for your React app](https://dev.to/rishikeshvedpathak/svgr-for-your-react-app-d4g)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Power of JavaScript: Tips and Tricks for Writing Clean, Efficient Code](https://dev.to/zuzexx/the-power-of-javascript-tips-and-tricks-for-writing-clean-efficient-code-20p)
 - [Dev.to/JS] [Callback functions in Javascript explained](https://dev.to/thehomelessdev/callback-functions-in-javascript-explained-3p3p)
 - [Dev.to/JS] [Now That React is Dying — Here Are Some Alternatives](https://dev.to/devashishmamgain/now-that-react-is-dying-here-are-some-alternatives-5ga1)
-- [Dev.to/JS] [Code a bus schedule CLI with Node.js and Python [ + Sqlite3 ]](https://dev.to/bekbrace/code-a-bus-schedule-cli-with-nodejs-and-python-sqlite3--6nn)
-- [Dev.to/JS] [What is the difference between null and undefined?](https://dev.to/typescripttv/what-is-the-difference-between-null-and-undefined-5h76)
-- [Dev.to/JS] [Debugging Tales: A Developer&#39;s Guide to Tackling Code Errors](https://dev.to/santhoshdhadi/debugging-tales-a-developers-guide-to-tackling-code-errors-170e)
-- [Dev.to/JS] [Subscribe to events with Supabase](https://dev.to/guillaumeduhan/subscribe-to-events-with-supabase-3i7a)
 - [Lifehacker] [The Best Way to Clean Velvet](https://lifehacker.com/the-best-way-to-clean-velvet-1850208394)
 - [Lifehacker] [Calm Your Worried Mind With These Self-Soothing Techniques for Adults](https://lifehacker.com/calm-your-worried-mind-with-these-self-soothing-techniq-1850208405)
 - [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
