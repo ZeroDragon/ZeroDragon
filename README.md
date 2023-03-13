@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don’t Use This TikTok &#39;Hack&#39; to Fix a Leaky Pipe](https://lifehacker.com/don-t-use-this-tiktok-hack-to-fix-a-leaky-pipe-1850218501)
+- [Dev.to/JS] [Generating Tags/Categories for Phrases/Quotes using Chat GPT API and Firebase Cloud Functions](https://dev.to/abhishek_biswal/generating-tagscategories-for-phrasesquotes-using-chat-gpt-api-and-firebase-cloud-functions-2njl)
+- [Lifehacker] [How You Can Really Help a Friend Who&#39;s Been Laid Off](https://lifehacker.com/how-you-can-really-help-a-friend-whos-been-laid-off-1850217478)
+- [Dev.to/JS] [Using Axios more elegantly with Interceptors and Array of URLs](https://dev.to/saulodias/using-axios-more-elegantly-with-interceptors-and-array-of-urls-93c)
+- [Dev.to/JS] [Creating Custom Animations with React.js and GreenSock](https://dev.to/haszankauna/creating-custom-animations-with-reactjs-and-greensock-36eb)
+- [Lifehacker] [These Interactive Tools Reveal Your Home’s Future Flood, Heat, and Wind Risk](https://lifehacker.com/these-interactive-tools-reveal-your-home-s-future-flood-1850214492)
 - [Dev.to/JS] [I re-created my portfolio using Nuxt3](https://dev.to/brojenuel/i-re-created-my-portfolio-using-nuxt3-1nki)
 - [Dev.to/JS] [VanillaJS Cookie Yönetimi](https://dev.to/gurkanbicer/vanillajs-cookie-yonetimi-5cpo)
 - [Dev.to/JS] [Build a Tic Tac Toe Game using HTML, CSS, JavaScript, Tailwind CSS and Canvas Confetti](https://dev.to/codeofrelevancy/build-a-tic-tac-toe-game-using-html-css-javascript-tailwind-css-and-canvas-confetti-c90)
@@ -36,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [DataTypes &amp; Conversion in JavaScript](https://dev.to/shaikhmd007/datatypes-conversion-in-javascript-4bg2)
 - [Dev.to/JS] [Building a JSON to Typescript converter with React, NodeJS and ChatGPT 🚀](https://dev.to/novu/building-a-json-to-typescript-converter-with-react-nodejs-and-chatgpt-46p2)
 - [Lifehacker] [Tuck a Pickle Into a Crispy Cheese Blanket](https://lifehacker.com/tuck-a-pickle-into-a-crispy-cheese-blanket-1850213594)
-- [Dev.to/JS] [Ethics in software development](https://dev.to/folasayosamuel/ethics-in-software-development-3kmp)
-- [Dev.to/JS] [The DataTypes of JavaScript](https://dev.to/shaikhmd007/the-datatypes-of-javascript-3jpe)
-- [Dev.to/JS] [Webpack Integration](https://dev.to/mdbootstrap/webpack-integration-1gdl)
 - [Lifehacker] [The Best Way to Clean Velvet](https://lifehacker.com/the-best-way-to-clean-velvet-1850208394)
 - [Lifehacker] [Calm Your Worried Mind With These Self-Soothing Techniques for Adults](https://lifehacker.com/calm-your-worried-mind-with-these-self-soothing-techniq-1850208405)
 - [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [20 Times the Oscars Got It Exactly Right](https://lifehacker.com/20-times-the-oscars-got-it-exactly-right-1850206612)
 - [Lifehacker] [Get up to 95% Off Bike Parts and Accessories in This Liquidation Sale](https://lifehacker.com/get-up-to-95-off-bike-parts-and-accessories-in-this-li-1850210022)
 - [Lifehacker] [How to Make the TikTok Banana Coffee Even Better](https://lifehacker.com/how-to-make-the-tiktok-banana-coffee-even-better-1850209892)
-- [Lifehacker] [Use Google to Translate Text in Any Image](https://lifehacker.com/use-google-to-translate-text-in-any-image-1850209008)
-- [Lifehacker] [No, Celebrities Don&#39;t Need to Eat 8,000 Calories to Get Swole](https://lifehacker.com/no-celebrities-dont-need-to-eat-8-000-calories-to-get-1850208846)
-- [Lifehacker] [Get CityPASS Tickets for up to 53% Off in These Cities Right Now](https://lifehacker.com/get-citypass-tickets-for-up-to-60-off-in-these-cities-1850208748)
-- [Lifehacker] [Braised Scallions Are the Perfect Cheap Weeknight Side Dish](https://lifehacker.com/braised-scallions-are-the-perfect-cheap-weeknight-side-1850209034)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use Google to Translate Text in Any Image](https://lifehacker.com/use-google-to-translate-text-in-any-image-1850209008)<!-- TECH-POSTS:END -->
 
 ---
 
