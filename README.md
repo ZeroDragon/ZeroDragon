@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Anaconda-installation: package for MX-Linux needed - here is a HowTo](https://dev.to/digital_hub/anaconda-installation-package-for-mx-linux-needed-here-is-a-howto-1ihe)
+- [Dev.to/JS] [Introduction to React!](https://dev.to/sawincp/introduction-to-react-3p8d)
+- [Dev.to/JS] [ChatGPT - Complex Coding Challenges: 5 KYU](https://dev.to/damiensedgwick/chatgpt-complex-coding-challenges-5-kyu-4l2a)
+- [Dev.to/JS] [How to write a debounce function](https://dev.to/cantem/how-to-write-a-debounce-function-1bdf)
+- [Dev.to/JS] [Chakra UI: The Best Kept Secret in Web Development](https://dev.to/nitinfab/chakra-ui-the-best-kept-secret-in-web-development-23gg)
 - [Lifehacker] [Buy a KFC Sandwich, Get Early Access to ‘Diablo IV’](https://lifehacker.com/buy-a-kfc-sandwich-get-early-access-to-diablo-iv-1850219897)
 - [Dev.to/JS] [The Types You Need - Learning TypeScript](https://dev.to/brianschnee/the-types-you-need-learning-typescript-185)
 - [Dev.to/JS] [[Starter]Template of Laravel+Vite+Vuetify3+TypeScript+Router+Sass](https://dev.to/ichii731/starter-templatelaravelvitevuetify3typescriptroutersass-3o4)
@@ -32,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Função utilitária SSR de autenticação no CrazyStack Next.js](https://dev.to/devdoido/funcao-utilitaria-ssr-de-autenticacao-no-crazystack-nextjs-mj4)
 - [Dev.to/JS] [Criando tabela dinâmica e genérica no CrazyStack Next.js](https://dev.to/devdoido/criando-tabela-dinamica-e-generica-no-crazystack-nextjs-4paf)
 - [Dev.to/JS] [NavBar no CrazyStack Next.js](https://dev.to/devdoido/navbar-no-crazystack-nextjs-26kn)
-- [Dev.to/JS] [Sidebar no painel do CrazyStack Next.js](https://dev.to/devdoido/sidebar-no-painel-do-crazystack-nextjs-456n)
-- [Dev.to/JS] [Loading genérico no CrazyStack Next.js](https://dev.to/devdoido/loading-generico-no-crazystack-nextjs-n32)
-- [Dev.to/JS] [Criando modais genéricos BoxSuccess e BoxError no CrazyStack Next.js](https://dev.to/devdoido/criando-modais-genericos-boxsuccess-e-boxerror-no-crazystack-nextjs-2m97)
-- [Dev.to/JS] [A perspective from a new developer](https://dev.to/msanyal7/a-perspective-from-a-new-developer-dbp)
-- [Dev.to/JS] [Virtual Dom Diffing Algorithm Implementation In Vanilla JavaScript](https://dev.to/joydeep1113/virtual-dom-diffing-algorithm-implementation-in-vanilla-javascript-1ddf)
 - [Lifehacker] [What’s a Home Equity Investment, and Is It Ever a Good Idea?](https://lifehacker.com/what-s-a-home-equity-investment-and-is-it-ever-a-good-1850219402)
 - [Lifehacker] [Don’t Use This TikTok &#39;Hack&#39; to Fix a Leaky Pipe](https://lifehacker.com/don-t-use-this-tiktok-hack-to-fix-a-leaky-pipe-1850218501)
 - [Lifehacker] [How You Can Really Help a Friend Who&#39;s Been Laid Off](https://lifehacker.com/how-you-can-really-help-a-friend-whos-been-laid-off-1850217478)
