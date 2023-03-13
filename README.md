@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Frontend Projects to Take Your Coding Skills to the Next Level](https://dev.to/thefierycoder/10-frontend-projects-to-take-your-coding-skills-to-the-next-level-7ae)
 - [Dev.to/JS] [SVGR for your React app](https://dev.to/rishikeshvedpathak/svgr-for-your-react-app-d4g)
 - [Dev.to/JS] [Split your code into phases](https://dev.to/tahazsh/split-your-code-into-phases-3cbo)
 - [Dev.to/JS] [User Registration in Node JS](https://dev.to/wanguiwaweru/user-registration-in-node-js-a6b)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Debugging Tales: A Developer&#39;s Guide to Tackling Code Errors](https://dev.to/santhoshdhadi/debugging-tales-a-developers-guide-to-tackling-code-errors-170e)
 - [Dev.to/JS] [Subscribe to events with Supabase](https://dev.to/guillaumeduhan/subscribe-to-events-with-supabase-3i7a)
 - [Dev.to/JS] [GraphQXL: the missing language extension](https://dev.to/gabotechs/graphqxl-the-missing-language-extension-4f48)
-- [Dev.to/JS] [TypeScript: Generic Types](https://dev.to/donstefani/typescript-generic-types-4h80)
 - [Lifehacker] [The Best Way to Clean Velvet](https://lifehacker.com/the-best-way-to-clean-velvet-1850208394)
 - [Lifehacker] [Calm Your Worried Mind With These Self-Soothing Techniques for Adults](https://lifehacker.com/calm-your-worried-mind-with-these-self-soothing-techniq-1850208405)
 - [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
