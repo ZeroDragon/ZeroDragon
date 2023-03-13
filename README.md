@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I re-created my portfolio using Nuxt3](https://dev.to/brojenuel/i-re-created-my-portfolio-using-nuxt3-1nki)
+- [Dev.to/JS] [VanillaJS Cookie Yönetimi](https://dev.to/gurkanbicer/vanillajs-cookie-yonetimi-5cpo)
+- [Dev.to/JS] [Build a Tic Tac Toe Game using HTML, CSS, JavaScript, Tailwind CSS and Canvas Confetti](https://dev.to/codeofrelevancy/build-a-tic-tac-toe-game-using-html-css-javascript-tailwind-css-and-canvas-confetti-c90)
+- [Lifehacker] [The 7 Deadly Sins of Spring Cleaning](https://lifehacker.com/the-7-deadly-sins-of-spring-cleaning-1850214755)
+- [Dev.to/JS] [FetchApi&lpar;&rpar;.innerHTML = &quot;dive deep into it&quot;](https://dev.to/rounit08/fetchapiinnerhtml-dive-deep-into-it-4p1a)
+- [Lifehacker] [9 More Ways You Should Be Using Paper Towels Around the House](https://lifehacker.com/9-more-ways-you-should-be-using-paper-towels-around-the-1850213806)
+- [Dev.to/JS] [Pinia: Setup syntax ile oluşturulan depoların sıfırlanması](https://dev.to/baris/pinia-setup-syntax-ile-olusturulan-depolarin-sifirlanmasi-57i6)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Professor revoltado](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-professor-revoltado-58gd)
 - [Lifehacker] [Why It Matters If You Have ‘Dense’ Breast Tissue](https://lifehacker.com/why-it-matters-if-you-have-dense-breast-tissue-1850214162)
 - [Dev.to/JS] [Street Programmer: OG:IMAGE Rest Generator](https://dev.to/darkterminal/street-programmer-ogimage-rest-generator-1jod)
@@ -32,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ethics in software development](https://dev.to/folasayosamuel/ethics-in-software-development-3kmp)
 - [Dev.to/JS] [The DataTypes of JavaScript](https://dev.to/shaikhmd007/the-datatypes-of-javascript-3jpe)
 - [Dev.to/JS] [Webpack Integration](https://dev.to/mdbootstrap/webpack-integration-1gdl)
-- [Dev.to/JS] [NodeJS Unit Testing Tutorial: A Comprehensive Guide](https://dev.to/kaperskyguru/nodejs-unit-testing-tutorial-a-comprehensive-guide-6od)
-- [Dev.to/JS] [Interpreting HTML5 Video Events](https://dev.to/video/interpreting-html5-video-events-2j54)
-- [Dev.to/JS] [React.js: The Documentary - How it All Began](https://dev.to/cultbyhoneypot/reactjs-the-documentary-how-it-all-began-4j4e)
-- [Dev.to/JS] [Building a Successful Bitcoin Halving Countdown Website Using Python and JavaScript](https://dev.to/bullrun24/building-a-successful-bitcoin-halving-countdown-website-using-python-and-javascript-47f3)
-- [Dev.to/JS] [How to retrieve specific LWC code from org](https://dev.to/leelasairam/how-to-retrieve-specific-lwc-code-from-org-2n20)
 - [Lifehacker] [The Best Way to Clean Velvet](https://lifehacker.com/the-best-way-to-clean-velvet-1850208394)
 - [Lifehacker] [Calm Your Worried Mind With These Self-Soothing Techniques for Adults](https://lifehacker.com/calm-your-worried-mind-with-these-self-soothing-techniq-1850208405)
 - [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Google to Translate Text in Any Image](https://lifehacker.com/use-google-to-translate-text-in-any-image-1850209008)
 - [Lifehacker] [No, Celebrities Don&#39;t Need to Eat 8,000 Calories to Get Swole](https://lifehacker.com/no-celebrities-dont-need-to-eat-8-000-calories-to-get-1850208846)
 - [Lifehacker] [Get CityPASS Tickets for up to 53% Off in These Cities Right Now](https://lifehacker.com/get-citypass-tickets-for-up-to-60-off-in-these-cities-1850208748)
-- [Lifehacker] [Braised Scallions Are the Perfect Cheap Weeknight Side Dish](https://lifehacker.com/braised-scallions-are-the-perfect-cheap-weeknight-side-1850209034)
-- [Lifehacker] [Stop Eating Cold, Rubbery Pancakes](https://lifehacker.com/stop-eating-cold-rubbery-pancakes-1850207799)
-- [Lifehacker] [10 Psychoactive Drugs You Can Grow at Home](https://lifehacker.com/10-psychoactive-drugs-you-can-grow-at-home-1850208296)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Braised Scallions Are the Perfect Cheap Weeknight Side Dish](https://lifehacker.com/braised-scallions-are-the-perfect-cheap-weeknight-side-1850209034)<!-- TECH-POSTS:END -->
 
 ---
 
