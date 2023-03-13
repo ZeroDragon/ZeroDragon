@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a JSON to Typescript converter with React, NodeJS and ChatGPT 🚀](https://dev.to/novu/building-a-json-to-typescript-converter-with-react-nodejs-and-chatgpt-46p2)
+- [Lifehacker] [Tuck a Pickle Into a Crispy Cheese Blanket](https://lifehacker.com/tuck-a-pickle-into-a-crispy-cheese-blanket-1850213594)
+- [Dev.to/JS] [Ethics in software development](https://dev.to/folasayosamuel/ethics-in-software-development-3kmp)
+- [Dev.to/JS] [The DataTypes of JavaScript](https://dev.to/shaikhmd007/the-datatypes-of-javascript-3jpe)
+- [Dev.to/JS] [Webpack Integration](https://dev.to/mdbootstrap/webpack-integration-1gdl)
+- [Dev.to/JS] [Interpreting HTML5 Video Events](https://dev.to/video/interpreting-html5-video-events-2j54)
 - [Dev.to/JS] [React.js: The Documentary - How it All Began](https://dev.to/cultbyhoneypot/reactjs-the-documentary-how-it-all-began-4j4e)
 - [Dev.to/JS] [Building a Successful Bitcoin Halving Countdown Website Using Python and JavaScript](https://dev.to/bullrun24/building-a-successful-bitcoin-halving-countdown-website-using-python-and-javascript-47f3)
 - [Dev.to/JS] [How to retrieve specific LWC code from org](https://dev.to/leelasairam/how-to-retrieve-specific-lwc-code-from-org-2n20)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Another day as senior dev. &lpar;humour&rpar;](https://dev.to/manuartero/another-day-as-senior-dev-humour-51de)
 - [Dev.to/JS] [Astro and Azure Static Web Apps](https://dev.to/florianrappl/astro-and-azure-static-web-apps-efl)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Mar 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-mar-2023-2bid)
-- [Dev.to/JS] [Conditional Rendering in React: A Brief Guide](https://dev.to/sidramaqbool/conditional-rendering-in-react-a-brief-guide-4dcj)
-- [Dev.to/JS] [Development of a model for secure communication via USB interface](https://dev.to/stevenstephard/development-of-a-model-for-secure-communication-via-usb-interface-40cn)
-- [Dev.to/JS] [Paracetamol.js💊| #202: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-202-explica-este-codigo-javascript-5548)
-- [Dev.to/JS] [Angular Forms: Choosing Between Reactive and Template Driven Forms](https://dev.to/danywalls/choosing-between-reactive-and-template-driven-forms-1onk)
-- [Dev.to/JS] [Make your own React mount/unmount animation](https://dev.to/furkankaynak/make-your-own-react-mountunmount-animation-2ck)
 - [Lifehacker] [The Best Way to Clean Velvet](https://lifehacker.com/the-best-way-to-clean-velvet-1850208394)
 - [Lifehacker] [Calm Your Worried Mind With These Self-Soothing Techniques for Adults](https://lifehacker.com/calm-your-worried-mind-with-these-self-soothing-techniq-1850208405)
 - [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Braised Scallions Are the Perfect Cheap Weeknight Side Dish](https://lifehacker.com/braised-scallions-are-the-perfect-cheap-weeknight-side-1850209034)
 - [Lifehacker] [Stop Eating Cold, Rubbery Pancakes](https://lifehacker.com/stop-eating-cold-rubbery-pancakes-1850207799)
 - [Lifehacker] [10 Psychoactive Drugs You Can Grow at Home](https://lifehacker.com/10-psychoactive-drugs-you-can-grow-at-home-1850208296)
-- [Lifehacker] [ChatGPT Created Its Own Puzzle Game, and You Can Play It Right Now](https://lifehacker.com/chatgpt-created-its-own-puzzle-game-and-you-can-play-i-1850207733)
-- [Lifehacker] [9 Things Your Local Bakery Is Probably Freezing](https://lifehacker.com/9-things-your-local-bakery-is-probably-freezing-1850207246)<!-- TECH-POSTS:END -->
+- [Lifehacker] [ChatGPT Created Its Own Puzzle Game, and You Can Play It Right Now](https://lifehacker.com/chatgpt-created-its-own-puzzle-game-and-you-can-play-i-1850207733)<!-- TECH-POSTS:END -->
 
 ---
 
