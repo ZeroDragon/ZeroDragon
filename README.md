@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Components](https://dev.to/demgoncalves/components-469o)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: O dia perfeito para ver filmes](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-o-dia-perfeito-para-ver-filmes-2hki)
+- [Dev.to/JS] [Introducing Remult: The Backend to Frontend Framework You Always Wanted](https://dev.to/remult/introducing-remult-the-backend-to-frontend-framework-you-always-wanted-34dl)
+- [Dev.to/JS] [Uma nova visão sobre modularidade e componentes javascript](https://dev.to/demgoncalves/components-469o)
 - [Dev.to/JS] [Making a Network Request with Asynchronous JavaScript](https://dev.to/mattryanmtl/making-a-network-request-with-asynchronous-javascript-29od)
 - [Dev.to/JS] [Do you know JavaScript?](https://dev.to/this-is-learning/do-you-know-javascript-1g0b)
 - [Dev.to/JS] [# How to Build a Responsive Navigation Bar using CSS and JavaScript](https://dev.to/iamsatyanchal/-how-to-build-a-responsive-navigation-bar-using-css-and-javascript-41ap)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useEffect and useLayoutEffect: The Differences and Use Cases](https://dev.to/m_adams1909/useeffect-and-uselayouteffect-the-differences-and-use-cases-3pcc)
 - [Dev.to/JS] [Authentication in Angular: Part V, Handling SSR](https://dev.to/ayyash/authentication-in-angular-part-v-handling-ssr-bld)
 - [Dev.to/JS] [JavaScript : Void Operator](https://dev.to/souravbandyopadhyay/javascript-void-operator-1bon)
-- [Dev.to/JS] [Generics in Typescript](https://dev.to/karaca19/generics-in-typescript-3hln)
-- [Dev.to/JS] [Leaning into Typescript: Specific string values and strategies](https://dev.to/nielsabildgaard/leaning-into-typescript-specific-string-values-and-strategies-1m5h)
 - [Lifehacker] [Buy a KFC Sandwich, Get Early Access to ‘Diablo IV’](https://lifehacker.com/buy-a-kfc-sandwich-get-early-access-to-diablo-iv-1850219897)
 - [Lifehacker] [21 of the Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [What’s a Home Equity Investment, and Is It Ever a Good Idea?](https://lifehacker.com/what-s-a-home-equity-investment-and-is-it-ever-a-good-1850219402)
