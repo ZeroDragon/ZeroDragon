@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding the Differences Between Primitive and Object Data Types in JavaScript](https://dev.to/ajipelumi/understanding-the-differences-between-primitive-and-object-data-types-in-javascript-37o)
+- [Dev.to/JS] [129. Leetcode Solution in Javascript](https://dev.to/chiki1601/129-leetcode-solution-in-javascript-4o6k)
+- [Dev.to/JS] [Why I choose CRA &lpar; Create-react-app&rpar; over Vite for this React project ?](https://dev.to/apfirebolt/why-i-choose-cra-create-react-app-over-vite-for-this-react-project--cj8)
+- [Dev.to/JS] [Server Sent Events in Go](https://dev.to/gurleensethi/server-sent-events-in-go-1f7l)
 - [Dev.to/JS] [Monorepo: The Solution to Microfrontend Development Challenges](https://dev.to/junedang/monorepo-the-solution-to-microfrontend-development-challenges-24jh)
 - [Dev.to/JS] [Codes for daily life](https://dev.to/lleamancio/codes-for-daily-life-3eh5)
 - [Dev.to/JS] [📈 🕵️‍♂️Web Analytics: Tracking Your Web App&#39;s Performance](https://dev.to/dhrn/webapp-analytics-5dpf)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Random Nerd Joke App with Public API&#39;s in Javascript .](https://dev.to/ebuka1anthony/building-a-random-nerd-joke-app-with-public-apis-in-javascript--11f3)
 - [Dev.to/JS] [My favorite Chrome extensions in 2023](https://dev.to/starbist/my-favorite-chrome-extensions-in-2023-383m)
 - [Dev.to/JS] [My favorite NPM packages in 2023](https://dev.to/starbist/my-favorite-npm-packages-in-2023-4f05)
-- [Dev.to/JS] [My favorite bash shortcuts in 2023](https://dev.to/starbist/my-favorite-bash-shortcuts-in-2023-o94)
-- [Dev.to/JS] [My favorite VS Code extensions in 2023](https://dev.to/starbist/my-favorite-vs-code-extensions-in-2023-1dlf)
-- [Dev.to/JS] [Things I learned recently...](https://dev.to/edriso/things-i-learned-recently-4f1b)
-- [Dev.to/JS] [Have you tried QuickTime Player to debug your React code?](https://dev.to/maxprilutskiy/have-you-tried-quicktime-player-to-debug-your-react-code-23l9)
 - [Lifehacker] [Buy a KFC Sandwich, Get Early Access to ‘Diablo IV’](https://lifehacker.com/buy-a-kfc-sandwich-get-early-access-to-diablo-iv-1850219897)
 - [Lifehacker] [21 of the Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [What’s a Home Equity Investment, and Is It Ever a Good Idea?](https://lifehacker.com/what-s-a-home-equity-investment-and-is-it-ever-a-good-1850219402)
