@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [All you need to know about Next.js Image Optimization and how to effectively make use of it](https://dev.to/nj145/all-you-need-to-know-about-nextjs-image-optimization-and-how-to-effectively-make-use-of-it-4pmh)
+- [Dev.to/JS] [How to build a URL shortener?](https://dev.to/talenttinaapi/how-to-build-a-url-shortener-3c76)
+- [Dev.to/JS] [Objects in javascript.](https://dev.to/alisinayousofi/objects-in-javascript-2nif)
+- [Dev.to/JS] [How to Create a Local React Environment with Vite](https://dev.to/michaellarocca/how-to-create-a-local-react-environment-with-vite-13j1)
+- [Dev.to/JS] [Struggles of a self taught developer part. 1](https://dev.to/dejuanmitchell/struggles-of-a-self-taught-developer-part-1-5fbb)
 - [Dev.to/JS] [Bored of Boring React Tutorials? Check Out This Awesome Repository for Real-World Projects!](https://dev.to/jakisundays/bored-of-boring-react-tutorials-check-out-this-awesome-repository-for-real-world-projects-1o9h)
 - [Dev.to/JS] [Secure User Sign In Node Using JWT](https://dev.to/wanguiwaweru/secure-user-sign-in-node-using-jwt-3ifi)
 - [Dev.to/JS] [Using Node.js for Ecommerce: Pros and Cons](https://dev.to/medusajs/using-nodejs-for-ecommerce-pros-and-cons-25cl)
@@ -32,12 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using AsyncLocalStorage in Node.js: Real-World Use Cases](https://dev.to/gkrasulya/using-asynclocalstorage-in-nodejs-real-world-use-cases-3ekd)
 - [Dev.to/JS] [Why I Am Going Back To The Basics](https://dev.to/lawlawson/why-i-am-going-back-to-the-basics-3ibc)
 - [Lifehacker] [Roll, Don&#39;t &#39;File,&#39; Clothes in Your Drawer](https://lifehacker.com/roll-dont-file-clothes-in-your-drawer-1850224384)
-- [Dev.to/JS] [Choice CBD gummies - Pain Relief Results, Pros, Cons, Scam Or Legit?](https://dev.to/choicecbdg4785/choice-cbd-gummies-pain-relief-results-pros-cons-scam-or-legit-99i)
-- [Dev.to/JS] [Firestore Get Document Data By ID - Firebase getDocs Query V9](https://dev.to/rajatamil/firestore-get-document-data-by-id-firebase-getdocs-query-v9-1ei8)
 - [Lifehacker] [The Lesser-Known Apps Everyone Should Install on a New Windows PC](https://lifehacker.com/the-lesser-known-apps-everyone-should-install-on-a-new-1850223434)
-- [Dev.to/JS] [How to use multiple layouts in ReactJS app](https://dev.to/deepaksinghkushwah/how-to-use-multiple-layouts-in-reactjs-app-gpa)
-- [Dev.to/JS] [# The Benefits of Using Responsive Web Design](https://dev.to/iamsatyanchal/-the-benefits-of-using-responsive-web-design-1m6l)
-- [Dev.to/JS] [Web Development for [returning] Dummies](https://dev.to/himslf/web-development-for-returning-dummies-kch)
 - [Lifehacker] [How to Quit &#39;Revenge Spending&#39;](https://lifehacker.com/how-to-quit-revenge-spending-1850219784)
 - [Lifehacker] [8 Games to Play Before &#39;Final Fantasy XVI&#39;](https://lifehacker.com/8-games-to-play-before-final-fantasy-xvi-1850221889)
 - [Lifehacker] [Why Every Family Needs a &#39;House Cell Phone&#39;](https://lifehacker.com/maybe-your-family-needs-a-house-cell-phone-1850220171)
