@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Top 10 Benefits of TypeScript: Why You Should Switch from JavaScript Today](https://dev.to/nesatnayem/the-top-10-benefits-of-typescript-why-you-should-switch-from-javascript-today-32j6)
+- [Dev.to/JS] [Introduction To JavaScript Call Stack](https://dev.to/nnekajenny/introduction-to-javascript-call-stack-3946)
+- [Dev.to/JS] [There’s a killer new guide to building for Mastodon and the Fediverse…](https://dev.to/glitch/theres-a-killer-new-guide-to-building-for-mastodon-and-the-fediverse-40i0)
+- [Lifehacker] [8 Games to Play Before &#39;Final Fantasy XVI&#39;](https://lifehacker.com/8-games-to-play-before-final-fantasy-xvi-1850221889)
+- [Dev.to/JS] [Paracetamol.js💊| #203: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-203-explica-este-codigo-javascript-3e26)
+- [Dev.to/JS] [Write custom Javascript to customize tinymce. increase and decrease font size.](https://dev.to/ayowandeapp/write-custom-javascript-to-customize-tinymce-increase-and-decrease-font-size-4hhn)
+- [Dev.to/JS] [Block public access on all your S3 Buckets easily](https://dev.to/kumo/block-public-access-on-all-your-s3-buckets-easily-o7b)
+- [Lifehacker] [Why Every Family Needs a &#39;House Cell Phone&#39;](https://lifehacker.com/maybe-your-family-needs-a-house-cell-phone-1850220171)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: O dia perfeito para ver filmes](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-o-dia-perfeito-para-ver-filmes-2hki)
-- [Dev.to/JS] [Introducing Remult: The Backend to Frontend Framework You Always Wanted](https://dev.to/remult/introducing-remult-the-backend-to-frontend-framework-you-always-wanted-34dl)
+- [Dev.to/JS] [Introducing Remult: The Open Source Backend to Frontend Framework You Always Wanted](https://dev.to/remult/introducing-remult-the-backend-to-frontend-framework-you-always-wanted-34dl)
 - [Dev.to/JS] [Uma nova visão sobre modularidade e componentes javascript](https://dev.to/demgoncalves/components-469o)
 - [Dev.to/JS] [Making a Network Request with Asynchronous JavaScript](https://dev.to/mattryanmtl/making-a-network-request-with-asynchronous-javascript-29od)
 - [Dev.to/JS] [Do you know JavaScript?](https://dev.to/this-is-learning/do-you-know-javascript-1g0b)
 - [Dev.to/JS] [# How to Build a Responsive Navigation Bar using CSS and JavaScript](https://dev.to/iamsatyanchal/-how-to-build-a-responsive-navigation-bar-using-css-and-javascript-41ap)
-- [Dev.to/JS] [Three APIs to understand in 2023 as a Software Developer](https://dev.to/skylinecodes/three-apis-to-understand-in-2023-as-a-software-developer-ego)
-- [Dev.to/JS] [How to Run a Python script from Node.js](https://dev.to/halolab/how-to-run-a-python-script-from-nodejs-3f0a)
-- [Dev.to/JS] [Animating contents on scroll Using the intersection observer API](https://dev.to/estheridabor/animating-contents-on-scroll-using-the-intersection-observer-api-1k9e)
-- [Dev.to/JS] [useEffect and useLayoutEffect: The Differences and Use Cases](https://dev.to/m_adams1909/useeffect-and-uselayouteffect-the-differences-and-use-cases-3pcc)
-- [Dev.to/JS] [Authentication in Angular: Part V, Handling SSR](https://dev.to/ayyash/authentication-in-angular-part-v-handling-ssr-bld)
-- [Dev.to/JS] [JavaScript : Void Operator](https://dev.to/souravbandyopadhyay/javascript-void-operator-1bon)
 - [Lifehacker] [Buy a KFC Sandwich, Get Early Access to ‘Diablo IV’](https://lifehacker.com/buy-a-kfc-sandwich-get-early-access-to-diablo-iv-1850219897)
 - [Lifehacker] [21 of the Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [What’s a Home Equity Investment, and Is It Ever a Good Idea?](https://lifehacker.com/what-s-a-home-equity-investment-and-is-it-ever-a-good-1850219402)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a DIY Lazy Susan](https://lifehacker.com/make-a-diy-lazy-susan-1850212626)
 - [Lifehacker] [Why You Shouldn&#39;t Use Winter Gas in the Summer &lpar;or Vice Versa&rpar;](https://lifehacker.com/why-you-shouldnt-use-winter-gas-in-the-summer-or-vice-1850212633)
 - [Lifehacker] [Do This Before Asking for More Flexibility at Work](https://lifehacker.com/do-this-before-asking-for-more-flexibility-at-work-1850211566)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is a &#39;Tradwife Influencer&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-a-1850210814)
-- [Lifehacker] [How to Identify and Report an Illegal Job Posting](https://lifehacker.com/how-to-identify-and-report-an-illegal-job-posting-1833295818)
-- [Lifehacker] [20 Times the Oscars Got It Exactly Right](https://lifehacker.com/20-times-the-oscars-got-it-exactly-right-1850206612)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is a &#39;Tradwife Influencer&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-a-1850210814)<!-- TECH-POSTS:END -->
 
 ---
 
