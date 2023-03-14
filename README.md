@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [# How to Improve Website Speed and Performance](https://dev.to/iamsatyanchal/-how-to-improve-website-speed-and-performance-5817)
+- [Dev.to/JS] [React and Firestore Part 2](https://dev.to/salehmubashar/react-and-firestore-part-2-104a)
 - [Dev.to/JS] [All you need to know about Next.js Image Optimization and how to effectively make use of it](https://dev.to/nj145/all-you-need-to-know-about-nextjs-image-optimization-and-how-to-effectively-make-use-of-it-4pmh)
 - [Dev.to/JS] [How to build a URL shortener?](https://dev.to/talenttinaapi/how-to-build-a-url-shortener-3c76)
 - [Dev.to/JS] [Objects in javascript.](https://dev.to/alisinayousofi/objects-in-javascript-2nif)
@@ -30,12 +32,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Struggles of a self taught developer part. 1](https://dev.to/dejuanmitchell/struggles-of-a-self-taught-developer-part-1-5fbb)
 - [Dev.to/JS] [Bored of Boring React Tutorials? Check Out This Awesome Repository for Real-World Projects!](https://dev.to/jakisundays/bored-of-boring-react-tutorials-check-out-this-awesome-repository-for-real-world-projects-1o9h)
 - [Dev.to/JS] [Secure User Sign In Node Using JWT](https://dev.to/wanguiwaweru/secure-user-sign-in-node-using-jwt-3ifi)
+- [Dev.to/JS] [How to use Zustand&#39;s persist middleware in Next.js](https://dev.to/abdulsamad/how-to-use-zustands-persist-middleware-in-nextjs-4lb5)
 - [Dev.to/JS] [Using Node.js for Ecommerce: Pros and Cons](https://dev.to/medusajs/using-nodejs-for-ecommerce-pros-and-cons-25cl)
 - [Dev.to/JS] [The design system struggle](https://dev.to/simonxabris/the-design-system-struggle-eco)
-- [Dev.to/JS] [# 5 Tips for Optimizing Your Website&#39;s Page Load Speed](https://dev.to/iamsatyanchal/-5-tips-for-optimizing-your-websites-page-load-speed-2ccp)
 - [Lifehacker] [These Sauces Are Mother, You Listen to Them](https://lifehacker.com/these-sauces-are-mother-you-listen-to-them-1850219813)
-- [Dev.to/JS] [Using AsyncLocalStorage in Node.js: Real-World Use Cases](https://dev.to/gkrasulya/using-asynclocalstorage-in-nodejs-real-world-use-cases-3ekd)
-- [Dev.to/JS] [Why I Am Going Back To The Basics](https://dev.to/lawlawson/why-i-am-going-back-to-the-basics-3ibc)
 - [Lifehacker] [Roll, Don&#39;t &#39;File,&#39; Clothes in Your Drawer](https://lifehacker.com/roll-dont-file-clothes-in-your-drawer-1850224384)
 - [Lifehacker] [The Lesser-Known Apps Everyone Should Install on a New Windows PC](https://lifehacker.com/the-lesser-known-apps-everyone-should-install-on-a-new-1850223434)
 - [Lifehacker] [How to Quit &#39;Revenge Spending&#39;](https://lifehacker.com/how-to-quit-revenge-spending-1850219784)
