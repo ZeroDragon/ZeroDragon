@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Roll, Don&#39;t &#39;File,&#39; Clothes in Your Drawer](https://lifehacker.com/roll-dont-file-clothes-in-your-drawer-1850224384)
+- [Dev.to/JS] [Choice CBD gummies - Pain Relief Results, Pros, Cons, Scam Or Legit?](https://dev.to/choicecbdg4785/choice-cbd-gummies-pain-relief-results-pros-cons-scam-or-legit-99i)
+- [Dev.to/JS] [Firestore Get Document Data By ID - Firebase getDocs Query V9](https://dev.to/rajatamil/firestore-get-document-data-by-id-firebase-getdocs-query-v9-1ei8)
+- [Lifehacker] [The Lesser-Known Apps Everyone Should Install on a New Windows PC](https://lifehacker.com/the-lesser-known-apps-everyone-should-install-on-a-new-1850223434)
+- [Dev.to/JS] [How to use multiple layouts in ReactJS app](https://dev.to/deepaksinghkushwah/how-to-use-multiple-layouts-in-reactjs-app-gpa)
+- [Dev.to/JS] [# The Benefits of Using Responsive Web Design](https://dev.to/iamsatyanchal/-the-benefits-of-using-responsive-web-design-1m6l)
+- [Dev.to/JS] [Web Development for [returning] Dummies](https://dev.to/himslf/web-development-for-returning-dummies-kch)
+- [Lifehacker] [How to Quit &#39;Revenge Spending&#39;](https://lifehacker.com/how-to-quit-revenge-spending-1850219784)
 - [Dev.to/JS] [It is possible to build a full-featured browser using react-native.](https://dev.to/necromansr/it-is-possible-to-build-a-full-featured-browser-using-react-native-2p4i)
 - [Dev.to/JS] [How to Deploy Your React App to Vercel.](https://dev.to/headbwoi/how-to-deploy-your-react-app-to-vercel-1lej)
 - [Dev.to/JS] [Devkeys 😊keycaps](https://dev.to/ductandev/devkeys-d21)
@@ -31,12 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [There’s a killer new guide to building for Mastodon and the Fediverse…](https://dev.to/glitch/theres-a-killer-new-guide-to-building-for-mastodon-and-the-fediverse-40i0)
 - [Lifehacker] [8 Games to Play Before &#39;Final Fantasy XVI&#39;](https://lifehacker.com/8-games-to-play-before-final-fantasy-xvi-1850221889)
 - [Dev.to/JS] [Paracetamol.js💊| #203: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-203-explica-este-codigo-javascript-3e26)
-- [Dev.to/JS] [Write custom Javascript to customize tinymce. increase and decrease font size.](https://dev.to/ayowandeapp/write-custom-javascript-to-customize-tinymce-increase-and-decrease-font-size-4hhn)
-- [Dev.to/JS] [Block public access on all your S3 Buckets easily](https://dev.to/kumo/block-public-access-on-all-your-s3-buckets-easily-o7b)
 - [Lifehacker] [Why Every Family Needs a &#39;House Cell Phone&#39;](https://lifehacker.com/maybe-your-family-needs-a-house-cell-phone-1850220171)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: O dia perfeito para ver filmes](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-o-dia-perfeito-para-ver-filmes-2hki)
-- [Dev.to/JS] [Introducing Remult: The Open Source Backend to Frontend Framework You Always Wanted](https://dev.to/remult/introducing-remult-the-backend-to-frontend-framework-you-always-wanted-34dl)
-- [Dev.to/JS] [Uma nova visão sobre modularidade e componentes javascript](https://dev.to/demgoncalves/components-469o)
 - [Lifehacker] [Buy a KFC Sandwich, Get Early Access to ‘Diablo IV’](https://lifehacker.com/buy-a-kfc-sandwich-get-early-access-to-diablo-iv-1850219897)
 - [Lifehacker] [21 of the Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [What’s a Home Equity Investment, and Is It Ever a Good Idea?](https://lifehacker.com/what-s-a-home-equity-investment-and-is-it-ever-a-good-1850219402)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Simple Difference Between a Farm and a Garden](https://lifehacker.com/the-simple-difference-between-a-farm-and-a-garden-1850211980)
 - [Lifehacker] [12 Podcasts That Are Basically Game Shows](https://lifehacker.com/12-podcasts-that-are-basically-game-shows-1850194507)
 - [Lifehacker] [Make Brittle, Crunchy Cookies &lpar;on Purpose&rpar; With Melted Butter](https://lifehacker.com/make-brittle-crunchy-cookies-on-purpose-with-melted-1850212465)
-- [Lifehacker] [Make a DIY Lazy Susan](https://lifehacker.com/make-a-diy-lazy-susan-1850212626)
-- [Lifehacker] [Why You Shouldn&#39;t Use Winter Gas in the Summer &lpar;or Vice Versa&rpar;](https://lifehacker.com/why-you-shouldnt-use-winter-gas-in-the-summer-or-vice-1850212633)
-- [Lifehacker] [Do This Before Asking for More Flexibility at Work](https://lifehacker.com/do-this-before-asking-for-more-flexibility-at-work-1850211566)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is a &#39;Tradwife Influencer&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-a-1850210814)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make a DIY Lazy Susan](https://lifehacker.com/make-a-diy-lazy-susan-1850212626)<!-- TECH-POSTS:END -->
 
 ---
 
