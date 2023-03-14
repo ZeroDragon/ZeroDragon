@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Monorepo: The Solution to Microfrontend Development Challenges](https://dev.to/junedang/monorepo-the-solution-to-microfrontend-development-challenges-24jh)
 - [Dev.to/JS] [Codes for daily life](https://dev.to/lleamancio/codes-for-daily-life-3eh5)
 - [Dev.to/JS] [📈 🕵️‍♂️Web Analytics: Tracking Your Web App&#39;s Performance](https://dev.to/dhrn/webapp-analytics-5dpf)
 - [Dev.to/JS] [👨🏽‍💻🚀 Discover These 5 Incredible ES6 Features That Will Make You a Better JavaScript Developer 🚀👨🏽‍💻](https://dev.to/almonteluis/discover-these-5-incredible-es6-features-that-will-make-you-a-better-javascript-developer-37lo)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My favorite VS Code extensions in 2023](https://dev.to/starbist/my-favorite-vs-code-extensions-in-2023-1dlf)
 - [Dev.to/JS] [Things I learned recently...](https://dev.to/edriso/things-i-learned-recently-4f1b)
 - [Dev.to/JS] [Have you tried QuickTime Player to debug your React code?](https://dev.to/maxprilutskiy/have-you-tried-quicktime-player-to-debug-your-react-code-23l9)
-- [Dev.to/JS] [Understanding JavaScript Data Types In Web Development](https://dev.to/comfortdeola/understanding-javascript-data-types-in-web-development-maa)
 - [Lifehacker] [Buy a KFC Sandwich, Get Early Access to ‘Diablo IV’](https://lifehacker.com/buy-a-kfc-sandwich-get-early-access-to-diablo-iv-1850219897)
 - [Lifehacker] [21 of the Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [What’s a Home Equity Investment, and Is It Ever a Good Idea?](https://lifehacker.com/what-s-a-home-equity-investment-and-is-it-ever-a-good-1850219402)
