@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [useEffect and useLayoutEffect: The Differences and Use Cases](https://dev.to/m_adams1909/useeffect-and-uselayouteffect-the-differences-and-use-cases-3pcc)
+- [Dev.to/JS] [Authentication in Angular: Part V, Handling SSR](https://dev.to/ayyash/authentication-in-angular-part-v-handling-ssr-bld)
+- [Dev.to/JS] [JavaScript : Void Operator](https://dev.to/souravbandyopadhyay/javascript-void-operator-1bon)
 - [Dev.to/JS] [Generics in Typescript](https://dev.to/karaca19/generics-in-typescript-3hln)
 - [Dev.to/JS] [Leaning into Typescript: Specific string values and strategies](https://dev.to/nielsabildgaard/leaning-into-typescript-specific-string-values-and-strategies-1m5h)
 - [Dev.to/JS] [Top React Performance Optimization Tips for 2023](https://dev.to/veronica_ross1/top-react-performance-optimization-tips-for-2023-2nme)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [# A Beginner&#39;s Guide to Web Development](https://dev.to/iamsatyanchal/-a-beginners-guide-to-web-development-2on6)
 - [Dev.to/JS] [# Learn Web Development: Tips and Tricks](https://dev.to/iamsatyanchal/-learn-web-development-tips-and-tricks-28oa)
 - [Dev.to/JS] [# Best Tools for Frontend Web Development](https://dev.to/iamsatyanchal/-best-tools-for-frontend-web-development-4li3)
-- [Dev.to/JS] [Why You Should Learn the MERN Stack in 2023?](https://dev.to/sumankalia/why-you-should-learn-the-mern-stack-in-2023-335j)
-- [Dev.to/JS] [How To Modify String In Python?](https://dev.to/mrexamples/how-to-modify-string-in-python-371j)
-- [Dev.to/JS] [HTML Editors: What They Are and Why They Matter](https://dev.to/mrexamples/html-editors-what-they-are-and-why-they-matter-5cf7)
 - [Lifehacker] [Buy a KFC Sandwich, Get Early Access to ‘Diablo IV’](https://lifehacker.com/buy-a-kfc-sandwich-get-early-access-to-diablo-iv-1850219897)
 - [Lifehacker] [21 of the Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [What’s a Home Equity Investment, and Is It Ever a Good Idea?](https://lifehacker.com/what-s-a-home-equity-investment-and-is-it-ever-a-good-1850219402)
