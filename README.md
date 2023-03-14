@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Website and Mobile App Development Company in India](https://dev.to/appnwebtechnologies/website-and-mobile-app-development-company-in-india-1j33)
 - [Dev.to/JS] [What happened if Artificial Intelligence &amp; Robotics works together?](https://dev.to/baljeet975/what-happened-if-artificial-intelligence-robotics-works-together-2e8i)
 - [Dev.to/JS] [LERN WEBDEV from THESE RESOURCES for Best Result!](https://dev.to/codebhandari/lern-webdev-from-these-resources-for-best-result-5ad1)
 - [Dev.to/JS] [# The Pros and Cons of Using CSS Frameworks in Web Development](https://dev.to/iamsatyanchal/-the-pros-and-cons-of-using-css-frameworks-in-web-development-c22)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why I choose CRA &lpar; Create-react-app&rpar; over Vite for this React project ?](https://dev.to/apfirebolt/why-i-choose-cra-create-react-app-over-vite-for-this-react-project--cj8)
 - [Dev.to/JS] [Server Sent Events in Go](https://dev.to/gurleensethi/server-sent-events-in-go-1f7l)
 - [Dev.to/JS] [Monorepo: The Solution to Microfrontend Development Challenges](https://dev.to/junedang/monorepo-the-solution-to-microfrontend-development-challenges-24jh)
-- [Dev.to/JS] [Codes for daily life](https://dev.to/lleamancio/codes-for-daily-life-3eh5)
 - [Lifehacker] [Buy a KFC Sandwich, Get Early Access to ‘Diablo IV’](https://lifehacker.com/buy-a-kfc-sandwich-get-early-access-to-diablo-iv-1850219897)
 - [Lifehacker] [21 of the Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [What’s a Home Equity Investment, and Is It Ever a Good Idea?](https://lifehacker.com/what-s-a-home-equity-investment-and-is-it-ever-a-good-1850219402)
