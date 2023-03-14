@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Decentralized Application &lpar;dApp&rpar; with Web3.](https://dev.to/robertsamuel01/building-a-decentralized-application-dapp-with-web3-57hn)
+- [Dev.to/JS] [Here are some of the top CMS development companies in the USA:](https://dev.to/viplavzenesys/here-are-some-of-the-top-cms-development-companies-in-the-usa-3ce4)
+- [Dev.to/JS] [How I optimized my game by adding a stupid clock](https://dev.to/jacklehamster/how-i-optimized-my-game-by-adding-a-stupid-clock-3me5)
 - [Dev.to/JS] [Website and Mobile App Development Company in India](https://dev.to/appnwebtechnologies/website-and-mobile-app-development-company-in-india-1j33)
 - [Dev.to/JS] [What happened if Artificial Intelligence &amp; Robotics works together?](https://dev.to/baljeet975/what-happened-if-artificial-intelligence-robotics-works-together-2e8i)
 - [Dev.to/JS] [LERN WEBDEV from THESE RESOURCES for Best Result!](https://dev.to/codebhandari/lern-webdev-from-these-resources-for-best-result-5ad1)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Map Array Method](https://dev.to/devlawrence/map-array-method-3adk)
 - [Dev.to/JS] [Understanding the Differences Between Primitive and Object Data Types in JavaScript](https://dev.to/ajipelumi/understanding-the-differences-between-primitive-and-object-data-types-in-javascript-37o)
 - [Dev.to/JS] [129. Leetcode Solution in Javascript](https://dev.to/chiki1601/129-leetcode-solution-in-javascript-4o6k)
-- [Dev.to/JS] [Why I choose CRA &lpar; Create-react-app&rpar; over Vite for this React project ?](https://dev.to/apfirebolt/why-i-choose-cra-create-react-app-over-vite-for-this-react-project--cj8)
-- [Dev.to/JS] [Server Sent Events in Go](https://dev.to/gurleensethi/server-sent-events-in-go-1f7l)
-- [Dev.to/JS] [Monorepo: The Solution to Microfrontend Development Challenges](https://dev.to/junedang/monorepo-the-solution-to-microfrontend-development-challenges-24jh)
 - [Lifehacker] [Buy a KFC Sandwich, Get Early Access to ‘Diablo IV’](https://lifehacker.com/buy-a-kfc-sandwich-get-early-access-to-diablo-iv-1850219897)
 - [Lifehacker] [21 of the Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [What’s a Home Equity Investment, and Is It Ever a Good Idea?](https://lifehacker.com/what-s-a-home-equity-investment-and-is-it-ever-a-good-1850219402)
