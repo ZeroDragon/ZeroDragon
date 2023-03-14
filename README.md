@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Components](https://dev.to/demgoncalves/components-469o)
+- [Dev.to/JS] [Making a Network Request with Asynchronous JavaScript](https://dev.to/mattryanmtl/making-a-network-request-with-asynchronous-javascript-29od)
+- [Dev.to/JS] [Do you know JavaScript?](https://dev.to/this-is-learning/do-you-know-javascript-1g0b)
+- [Dev.to/JS] [# How to Build a Responsive Navigation Bar using CSS and JavaScript](https://dev.to/iamsatyanchal/-how-to-build-a-responsive-navigation-bar-using-css-and-javascript-41ap)
 - [Dev.to/JS] [Three APIs to understand in 2023 as a Software Developer](https://dev.to/skylinecodes/three-apis-to-understand-in-2023-as-a-software-developer-ego)
 - [Dev.to/JS] [How to Run a Python script from Node.js](https://dev.to/halolab/how-to-run-a-python-script-from-nodejs-3f0a)
 - [Dev.to/JS] [Animating contents on scroll Using the intersection observer API](https://dev.to/estheridabor/animating-contents-on-scroll-using-the-intersection-observer-api-1k9e)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript : Void Operator](https://dev.to/souravbandyopadhyay/javascript-void-operator-1bon)
 - [Dev.to/JS] [Generics in Typescript](https://dev.to/karaca19/generics-in-typescript-3hln)
 - [Dev.to/JS] [Leaning into Typescript: Specific string values and strategies](https://dev.to/nielsabildgaard/leaning-into-typescript-specific-string-values-and-strategies-1m5h)
-- [Dev.to/JS] [Top React Performance Optimization Tips for 2023](https://dev.to/veronica_ross1/top-react-performance-optimization-tips-for-2023-2nme)
-- [Dev.to/JS] [How to use _activeLink in Chakra UI with Next.js](https://dev.to/tungdt90/how-to-use-activelink-in-chakra-ui-with-nextjs-4l9a)
-- [Dev.to/JS] [CodePen Designs - 45 : CSS Sleeping Blob](https://dev.to/jon_snow789/codepen-designs-45-css-sleeping-blob-499p)
-- [Dev.to/JS] [# How to Create a Responsive Image Gallery using CSS Grid](https://dev.to/iamsatyanchal/how-to-create-a-responsive-image-gallery-using-css-grid-1aki)
 - [Lifehacker] [Buy a KFC Sandwich, Get Early Access to ‘Diablo IV’](https://lifehacker.com/buy-a-kfc-sandwich-get-early-access-to-diablo-iv-1850219897)
 - [Lifehacker] [21 of the Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [What’s a Home Equity Investment, and Is It Ever a Good Idea?](https://lifehacker.com/what-s-a-home-equity-investment-and-is-it-ever-a-good-1850219402)
