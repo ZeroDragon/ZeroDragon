@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Node.js for Ecommerce: Pros and Cons](https://dev.to/medusajs/using-nodejs-for-ecommerce-pros-and-cons-25cl)
+- [Dev.to/JS] [The design system struggle](https://dev.to/simonxabris/the-design-system-struggle-eco)
+- [Dev.to/JS] [# 5 Tips for Optimizing Your Website&#39;s Page Load Speed](https://dev.to/iamsatyanchal/-5-tips-for-optimizing-your-websites-page-load-speed-2ccp)
+- [Lifehacker] [These Sauces Are Mother, You Listen to Them](https://lifehacker.com/these-sauces-are-mother-you-listen-to-them-1850219813)
+- [Dev.to/JS] [Using AsyncLocalStorage in Node.js: Real-World Use Cases](https://dev.to/gkrasulya/using-asynclocalstorage-in-nodejs-real-world-use-cases-3ekd)
+- [Dev.to/JS] [Why I Am Going Back To The Basics](https://dev.to/lawlawson/why-i-am-going-back-to-the-basics-3ibc)
 - [Lifehacker] [Roll, Don&#39;t &#39;File,&#39; Clothes in Your Drawer](https://lifehacker.com/roll-dont-file-clothes-in-your-drawer-1850224384)
 - [Dev.to/JS] [Choice CBD gummies - Pain Relief Results, Pros, Cons, Scam Or Legit?](https://dev.to/choicecbdg4785/choice-cbd-gummies-pain-relief-results-pros-cons-scam-or-legit-99i)
 - [Dev.to/JS] [Firestore Get Document Data By ID - Firebase getDocs Query V9](https://dev.to/rajatamil/firestore-get-document-data-by-id-firebase-getdocs-query-v9-1ei8)
@@ -33,12 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Quit &#39;Revenge Spending&#39;](https://lifehacker.com/how-to-quit-revenge-spending-1850219784)
 - [Dev.to/JS] [It is possible to build a full-featured browser using react-native.](https://dev.to/necromansr/it-is-possible-to-build-a-full-featured-browser-using-react-native-2p4i)
 - [Dev.to/JS] [How to Deploy Your React App to Vercel.](https://dev.to/headbwoi/how-to-deploy-your-react-app-to-vercel-1lej)
-- [Dev.to/JS] [Devkeys 😊keycaps](https://dev.to/ductandev/devkeys-d21)
-- [Dev.to/JS] [The Top 10 Benefits of TypeScript: Why You Should Switch from JavaScript Today](https://dev.to/nesatnayem/the-top-10-benefits-of-typescript-why-you-should-switch-from-javascript-today-32j6)
-- [Dev.to/JS] [Introduction To JavaScript Call Stack](https://dev.to/nnekajenny/introduction-to-javascript-call-stack-3946)
-- [Dev.to/JS] [There’s a killer new guide to building for Mastodon and the Fediverse…](https://dev.to/glitch/theres-a-killer-new-guide-to-building-for-mastodon-and-the-fediverse-40i0)
 - [Lifehacker] [8 Games to Play Before &#39;Final Fantasy XVI&#39;](https://lifehacker.com/8-games-to-play-before-final-fantasy-xvi-1850221889)
-- [Dev.to/JS] [Paracetamol.js💊| #203: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-203-explica-este-codigo-javascript-3e26)
 - [Lifehacker] [Why Every Family Needs a &#39;House Cell Phone&#39;](https://lifehacker.com/maybe-your-family-needs-a-house-cell-phone-1850220171)
 - [Lifehacker] [Buy a KFC Sandwich, Get Early Access to ‘Diablo IV’](https://lifehacker.com/buy-a-kfc-sandwich-get-early-access-to-diablo-iv-1850219897)
 - [Lifehacker] [21 of the Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Pre-Order Apple Music Classical Today](https://lifehacker.com/you-should-pre-order-apple-music-classical-today-1850212685)
 - [Lifehacker] [The Simple Difference Between a Farm and a Garden](https://lifehacker.com/the-simple-difference-between-a-farm-and-a-garden-1850211980)
 - [Lifehacker] [12 Podcasts That Are Basically Game Shows](https://lifehacker.com/12-podcasts-that-are-basically-game-shows-1850194507)
-- [Lifehacker] [Make Brittle, Crunchy Cookies &lpar;on Purpose&rpar; With Melted Butter](https://lifehacker.com/make-brittle-crunchy-cookies-on-purpose-with-melted-1850212465)
-- [Lifehacker] [Make a DIY Lazy Susan](https://lifehacker.com/make-a-diy-lazy-susan-1850212626)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Brittle, Crunchy Cookies &lpar;on Purpose&rpar; With Melted Butter](https://lifehacker.com/make-brittle-crunchy-cookies-on-purpose-with-melted-1850212465)<!-- TECH-POSTS:END -->
 
 ---
 
