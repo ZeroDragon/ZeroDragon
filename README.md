@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bored of Boring React Tutorials? Check Out This Awesome Repository for Real-World Projects!](https://dev.to/jakisundays/bored-of-boring-react-tutorials-check-out-this-awesome-repository-for-real-world-projects-1o9h)
+- [Dev.to/JS] [Secure User Sign In Node Using JWT](https://dev.to/wanguiwaweru/secure-user-sign-in-node-using-jwt-3ifi)
 - [Dev.to/JS] [Using Node.js for Ecommerce: Pros and Cons](https://dev.to/medusajs/using-nodejs-for-ecommerce-pros-and-cons-25cl)
 - [Dev.to/JS] [The design system struggle](https://dev.to/simonxabris/the-design-system-struggle-eco)
 - [Dev.to/JS] [# 5 Tips for Optimizing Your Website&#39;s Page Load Speed](https://dev.to/iamsatyanchal/-5-tips-for-optimizing-your-websites-page-load-speed-2ccp)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [# The Benefits of Using Responsive Web Design](https://dev.to/iamsatyanchal/-the-benefits-of-using-responsive-web-design-1m6l)
 - [Dev.to/JS] [Web Development for [returning] Dummies](https://dev.to/himslf/web-development-for-returning-dummies-kch)
 - [Lifehacker] [How to Quit &#39;Revenge Spending&#39;](https://lifehacker.com/how-to-quit-revenge-spending-1850219784)
-- [Dev.to/JS] [It is possible to build a full-featured browser using react-native.](https://dev.to/necromansr/it-is-possible-to-build-a-full-featured-browser-using-react-native-2p4i)
-- [Dev.to/JS] [How to Deploy Your React App to Vercel.](https://dev.to/headbwoi/how-to-deploy-your-react-app-to-vercel-1lej)
 - [Lifehacker] [8 Games to Play Before &#39;Final Fantasy XVI&#39;](https://lifehacker.com/8-games-to-play-before-final-fantasy-xvi-1850221889)
 - [Lifehacker] [Why Every Family Needs a &#39;House Cell Phone&#39;](https://lifehacker.com/maybe-your-family-needs-a-house-cell-phone-1850220171)
 - [Lifehacker] [Buy a KFC Sandwich, Get Early Access to ‘Diablo IV’](https://lifehacker.com/buy-a-kfc-sandwich-get-early-access-to-diablo-iv-1850219897)
