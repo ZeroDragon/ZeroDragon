@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [It is possible to build a full-featured browser using react-native.](https://dev.to/necromansr/it-is-possible-to-build-a-full-featured-browser-using-react-native-2p4i)
+- [Dev.to/JS] [How to Deploy Your React App to Vercel.](https://dev.to/headbwoi/how-to-deploy-your-react-app-to-vercel-1lej)
+- [Dev.to/JS] [Devkeys 😊keycaps](https://dev.to/ductandev/devkeys-d21)
 - [Dev.to/JS] [The Top 10 Benefits of TypeScript: Why You Should Switch from JavaScript Today](https://dev.to/nesatnayem/the-top-10-benefits-of-typescript-why-you-should-switch-from-javascript-today-32j6)
 - [Dev.to/JS] [Introduction To JavaScript Call Stack](https://dev.to/nnekajenny/introduction-to-javascript-call-stack-3946)
 - [Dev.to/JS] [There’s a killer new guide to building for Mastodon and the Fediverse…](https://dev.to/glitch/theres-a-killer-new-guide-to-building-for-mastodon-and-the-fediverse-40i0)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: O dia perfeito para ver filmes](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-o-dia-perfeito-para-ver-filmes-2hki)
 - [Dev.to/JS] [Introducing Remult: The Open Source Backend to Frontend Framework You Always Wanted](https://dev.to/remult/introducing-remult-the-backend-to-frontend-framework-you-always-wanted-34dl)
 - [Dev.to/JS] [Uma nova visão sobre modularidade e componentes javascript](https://dev.to/demgoncalves/components-469o)
-- [Dev.to/JS] [Making a Network Request with Asynchronous JavaScript](https://dev.to/mattryanmtl/making-a-network-request-with-asynchronous-javascript-29od)
-- [Dev.to/JS] [Do you know JavaScript?](https://dev.to/this-is-learning/do-you-know-javascript-1g0b)
-- [Dev.to/JS] [# How to Build a Responsive Navigation Bar using CSS and JavaScript](https://dev.to/iamsatyanchal/-how-to-build-a-responsive-navigation-bar-using-css-and-javascript-41ap)
 - [Lifehacker] [Buy a KFC Sandwich, Get Early Access to ‘Diablo IV’](https://lifehacker.com/buy-a-kfc-sandwich-get-early-access-to-diablo-iv-1850219897)
 - [Lifehacker] [21 of the Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [What’s a Home Equity Investment, and Is It Ever a Good Idea?](https://lifehacker.com/what-s-a-home-equity-investment-and-is-it-ever-a-good-1850219402)
