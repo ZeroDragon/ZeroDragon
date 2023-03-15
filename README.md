@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Importance of Maintaining Your Website&#39;s Security](https://dev.to/iamsatyanchal/the-importance-of-maintaining-your-websites-security-4h6j)
 - [Dev.to/JS] [My Tailwind CSS Kit](https://dev.to/szymonsadowski/my-tailwind-css-kit-jm6)
 - [Dev.to/JS] [Introduction to Progressive Web Apps](https://dev.to/iamsatyanchal/-introduction-to-progressive-web-apps-ob7)
 - [Dev.to/JS] [Top 5 Latest Frontend Technologies in Web Development](https://dev.to/iamsatyanchal/top-5-latest-frontend-technologies-in-web-development-5a05)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Fix CORS Origin Error in Javascript](https://dev.to/emeka212/how-to-fix-cors-origin-error-in-javascript-3nd3)
 - [Dev.to/JS] [Arrays and Object Destructuring in Javascript](https://dev.to/sarahadewale/arrays-and-object-destructuring-in-javascript-5d4m)
 - [Crazy Programmer] [What is Network Flapping?](https://www.thecrazyprogrammer.com/2023/03/network-flapping.html)
-- [Dev.to/JS] [JS/TS custom sorting order or how to sort weird things](https://dev.to/akabikov/jsts-custom-sorting-order-or-how-to-sort-weird-things-3dfn)
 - [Lifehacker] [Is Your Tea Dead?](https://lifehacker.com/is-your-tea-dead-1850224958)
 - [Lifehacker] [Get a Settlement for That Bulky CRT TV You Bought Ages Ago](https://lifehacker.com/get-a-settlement-for-that-bulky-crt-tv-you-bought-ages-1850225402)
 - [Lifehacker] [10 Fast-Growing Plants for Instant Garden Gratification](https://lifehacker.com/10-fast-growing-plants-for-instant-garden-gratification-1850175200)
