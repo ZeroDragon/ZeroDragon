@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Drag and drop toolkit for React Material UI {custom made}, JSON based react forms Generator.](https://dev.to/amithmoorkoth/drag-and-drop-toolkit-for-react-material-ui-custom-made-json-based-react-forms-generator-2gi2)
+- [Lifehacker] [10 Fast-Growing Plants for Instant Garden Gratification](https://lifehacker.com/10-fast-growing-plants-for-instant-garden-gratification-1850175200)
+- [Dev.to/JS] [Encrypt string in Js and decrypt in Laravel PHP](https://dev.to/vepamirzayev/encrypt-string-in-js-decrypt-in-laravel-1ckl)
+- [Dev.to/JS] [Learn serverless on AWS step-by-step - File storage](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-file-storage-10f7)
 - [Lifehacker] [How to Tell If Your Child Has Oppositional Defiant Disorder](https://lifehacker.com/how-to-tell-if-your-child-has-oppositional-defiant-diso-1850226002)
 - [Dev.to/JS] [Introducing Myself](https://dev.to/adremy/introducing-myself-4b2b)
 - [Dev.to/JS] [The Importance of Web Accessibility in Web Development](https://dev.to/iamsatyanchal/the-importance-of-web-accessibility-in-web-development-2pm8)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Experience In Tackling Critical Dependency Issues In React Native](https://dev.to/narottam04/my-experience-in-tackling-critical-dependency-issues-in-react-native-o26)
 - [Dev.to/JS] [Create DOM nodes from strings](https://dev.to/artydev/create-dom-nodes-from-strings-1igb)
 - [Dev.to/JS] [Adeus, useState! Descubra como @paint &amp; @repaint estão mudando a forma de desenvolver Componentes](https://dev.to/demgoncalves/adeus-usestate-descubra-como-paint-repaint-estao-mudando-a-forma-de-desenvolver-componentes-1ceh)
-- [Dev.to/JS] [Inspecting item like drop-down menu, overlay etc](https://dev.to/zeeshanali0704/inspecting-item-like-drop-down-menu-overlay-etc-4mbl)
-- [Dev.to/JS] [BUILD A JWT LOGIN AND LOGOUT SYSTEM USING EXPRESSJS &lpar;NODEJS&rpar;](https://dev.to/m_josh/build-a-jwt-login-and-logout-system-using-expressjs-nodejs-hd2)
-- [Dev.to/JS] [Moonly weekly progress update #40](https://dev.to/moonly/moonly-weekly-progress-update-40-587f)
 - [Lifehacker] [These Sauces Are Mother, You Listen to Them](https://lifehacker.com/these-sauces-are-mother-you-listen-to-them-1850219813)
 - [Lifehacker] [Roll, Don&#39;t &#39;File,&#39; Clothes in Your Drawer](https://lifehacker.com/roll-dont-file-clothes-in-your-drawer-1850224384)
 - [Lifehacker] [The Lesser-Known Apps Everyone Should Install on a New Windows PC](https://lifehacker.com/the-lesser-known-apps-everyone-should-install-on-a-new-1850223434)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Try Out Android 14&#39;s New Swipe Back Gesture Early](https://lifehacker.com/you-can-try-out-android-14s-new-swipe-back-gesture-earl-1850213318)
 - [Lifehacker] [The Most Confusing Car Insurance Terms Every Driver Should Learn](https://lifehacker.com/the-most-confusing-car-insurance-terms-every-driver-sho-1850212379)
 - [Lifehacker] [You Should Pre-Order Apple Music Classical Today](https://lifehacker.com/you-should-pre-order-apple-music-classical-today-1850212685)
-- [Lifehacker] [The Simple Difference Between a Farm and a Garden](https://lifehacker.com/the-simple-difference-between-a-farm-and-a-garden-1850211980)
-- [Lifehacker] [12 Podcasts That Are Basically Game Shows](https://lifehacker.com/12-podcasts-that-are-basically-game-shows-1850194507)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Simple Difference Between a Farm and a Garden](https://lifehacker.com/the-simple-difference-between-a-farm-and-a-garden-1850211980)<!-- TECH-POSTS:END -->
 
 ---
 
