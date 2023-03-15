@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Desestructuración en ES6, tips para obtener un código limpio](https://dev.to/victorhugoaguilar/desestructuracion-en-es6-tips-para-obtener-un-codigo-limpio-1e9o)
+- [Dev.to/JS] [5 Tips for Developing Accessible Websites](https://dev.to/iamsatyanchal/5-tips-for-developing-accessible-websites-4h56)
+- [Dev.to/JS] [TypeScript and Node.js: Building Scalable and Robust Applications.](https://dev.to/kingowisdom/typescript-and-nodejs-building-scalable-and-robust-applications-1ddm)
+- [Dev.to/JS] [Desestructuración en ES6, consejos para obtener un código limpio](https://dev.to/victorhugoaguilar/desestructuracion-en-es6-tips-para-obtener-un-codigo-limpio-1e9o)
 - [Dev.to/JS] [Best 13 Tools To Test JavaScript Code](https://dev.to/lambdatest/best-13-tools-to-test-javascript-code-da3)
 - [Dev.to/JS] [Top 5 GraphQL Disadvantages Everyone Should Know](https://dev.to/borysshulyak/top-5-graphql-disadvantages-everyone-should-know-3jh0)
 - [Dev.to/JS] [Weekly web development resources #140](https://dev.to/vincenius/weekly-web-development-resources-140-286j)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [When and Why We Don&#39;t Use Serverless Framework](https://dev.to/rahulladumor/when-and-why-we-dont-use-serverless-framework-3obc)
 - [Dev.to/JS] [🚀🔮Unlocking the Power 🔓 of Blockchain Technology: A Comprehensive Guide 🔑](https://dev.to/akshaykurhekar/unlocking-the-power-of-blockchain-a-comprehensive-guide-412f)
 - [Dev.to/JS] [React App Showing Blank](https://dev.to/cjordan29/react-app-showing-blank-52a8)
-- [Dev.to/JS] [The Future of Web Development: An Overview](https://dev.to/iamsatyanchal/the-future-of-web-development-an-overview-1mb2)
-- [Dev.to/JS] [How to use useRef&lpar;&rpar; in React to improve your app&#39;s performance and manage component state efficiently](https://dev.to/haltim/how-to-use-useref-in-react-to-improve-your-apps-performance-and-manage-component-state-efficiently-4f7l)
 - [Lifehacker] [These Sauces Are Mother, You Listen to Them](https://lifehacker.com/these-sauces-are-mother-you-listen-to-them-1850219813)
 - [Lifehacker] [Roll, Don&#39;t &#39;File,&#39; Clothes in Your Drawer](https://lifehacker.com/roll-dont-file-clothes-in-your-drawer-1850224384)
 - [Lifehacker] [The Lesser-Known Apps Everyone Should Install on a New Windows PC](https://lifehacker.com/the-lesser-known-apps-everyone-should-install-on-a-new-1850223434)
