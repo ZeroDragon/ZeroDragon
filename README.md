@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 5 GraphQL Disadvantages Everyone Should Know](https://dev.to/borysshulyak/top-5-graphql-disadvantages-everyone-should-know-3jh0)
 - [Dev.to/JS] [Weekly web development resources #140](https://dev.to/vincenius/weekly-web-development-resources-140-286j)
 - [Dev.to/JS] [8 Javascript useful techniques](https://dev.to/navinmishra1717/10-javascript-useful-techniques-m1g)
 - [Dev.to/JS] [Are JavaScript and Java the same?](https://dev.to/hosseindorosti/are-javascript-and-java-the-same-27p1)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use useRef&lpar;&rpar; in React to improve your app&#39;s performance and manage component state efficiently](https://dev.to/haltim/how-to-use-useref-in-react-to-improve-your-apps-performance-and-manage-component-state-efficiently-4f7l)
 - [Dev.to/JS] [Awesome UI Interactions with Scroll Reveal](https://dev.to/asayerio_techblog/awesome-ui-interactions-with-scroll-reveal-1pfi)
 - [Dev.to/JS] [Mastering JavaScript: optional chaining and nullish coalescing](https://dev.to/asayerio_techblog/mastering-javascript-optional-chaining-and-nullish-coalescing-1b5n)
-- [Dev.to/JS] [Entendendo as diferenças entre Throttling e Debouncing no JavaScript](https://dev.to/joeldorosarioo/entendendo-as-diferencas-entre-throttling-e-debouncing-no-javascript-4obi)
 - [Lifehacker] [These Sauces Are Mother, You Listen to Them](https://lifehacker.com/these-sauces-are-mother-you-listen-to-them-1850219813)
 - [Lifehacker] [Roll, Don&#39;t &#39;File,&#39; Clothes in Your Drawer](https://lifehacker.com/roll-dont-file-clothes-in-your-drawer-1850224384)
 - [Lifehacker] [The Lesser-Known Apps Everyone Should Install on a New Windows PC](https://lifehacker.com/the-lesser-known-apps-everyone-should-install-on-a-new-1850223434)
