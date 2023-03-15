@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SCRIMBA IS THE BEST FOR BEGINNERS](https://dev.to/yasuafrique/scrimba-is-the-best-for-beginners-3cdf)
+- [Dev.to/JS] [🧮 JavaScript for Beginners: Data Structures](https://dev.to/catherineisonline/javascript-for-beginners-data-structures-2j6i)
+- [Dev.to/JS] [Relations with Supabase](https://dev.to/guillaumeduhan/relations-with-supabase-1be1)
+- [Dev.to/JS] [📈 Analy - My Latest OSS Project &amp; Documenting My Experience w/ #buildinpublic!](https://dev.to/kuvambhardwaj/analy-my-latest-oss-project-documenting-my-experience-w-buildinpublic-3da3)
 - [Dev.to/JS] [Copy Objects in JS : Shallow Copy vs Deep copy](https://dev.to/mp214/copy-objects-in-js-shallow-copy-vs-deep-copy-1m4c)
 - [Dev.to/JS] [Display Your Website or Application in a Realistic Device Layout Using the device-layouts NPM Package](https://dev.to/jacksonkasi/display-your-website-or-application-in-a-realistic-device-layout-using-the-device-layouts-npm-package-562h)
 - [Dev.to/JS] [In React is setState is Synchronous or Asynchronous ?](https://dev.to/mp214/in-react-is-setstate-is-synchronous-or-asynchronous--3dap)
@@ -31,12 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Importance of Maintaining Your Website&#39;s Security](https://dev.to/iamsatyanchal/the-importance-of-maintaining-your-websites-security-4h6j)
 - [Dev.to/JS] [My Tailwind CSS Kit](https://dev.to/szymonsadowski/my-tailwind-css-kit-jm6)
 - [Dev.to/JS] [Introduction to Progressive Web Apps](https://dev.to/iamsatyanchal/-introduction-to-progressive-web-apps-ob7)
-- [Dev.to/JS] [Top 5 Latest Frontend Technologies in Web Development](https://dev.to/iamsatyanchal/top-5-latest-frontend-technologies-in-web-development-5a05)
-- [Dev.to/JS] [How To Create A Mobile App Using Vite, Vue, and Ionic Capacitor - Adding Firebase &amp; Firebase Emulator To Project](https://dev.to/aaronksaunders/how-to-create-a-mobile-app-using-vite-vue-and-ionic-capacitor-adding-firebase-firebase-emulator-to-project-584o)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
-- [Dev.to/JS] [Call Web API from angular 8 Example |API In Angular Create Website](https://dev.to/softwaretechit/call-web-api-from-angular-8-example-api-in-angular-create-website-3115)
 - [Lifehacker] [Store Blankets by Turning Them Into &#39;Pillows&#39;](https://lifehacker.com/store-blankets-by-turning-them-into-pillows-1850228558)
-- [Dev.to/JS] [Micro Frontend Discovery - The Driver for Scalability](https://dev.to/florianrappl/micro-frontend-discovery-the-driver-for-scalability-oai)
 - [Crazy Programmer] [What is Network Flapping?](https://www.thecrazyprogrammer.com/2023/03/network-flapping.html)
 - [Lifehacker] [Is Your Tea Dead?](https://lifehacker.com/is-your-tea-dead-1850224958)
 - [Lifehacker] [Get a Settlement for That Bulky CRT TV You Bought Ages Ago](https://lifehacker.com/get-a-settlement-for-that-bulky-crt-tv-you-bought-ages-1850225402)
