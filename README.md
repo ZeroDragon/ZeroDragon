@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Moonly weekly progress update #40](https://dev.to/moonly/moonly-weekly-progress-update-40-587f)
+- [Dev.to/JS] [[3/4] Passez de zéro à héro avec ces méthodes JavaScript](https://dev.to/vincent_react/34-passez-de-zero-a-hero-avec-ces-methodes-javascript-4m92)
+- [Dev.to/JS] [Paracetamol.js💊| #204: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-204-explica-este-codigo-javascript-2oi9)
+- [Dev.to/JS] [Inquiry on remote jobs for entry level front end developers](https://dev.to/kemiade/inquiry-on-remote-jobs-for-entry-level-front-end-developers-1mc3)
 - [Dev.to/JS] [passing Props through link componet](https://dev.to/moizsheraz/passing-props-through-link-componet-1f5)
 - [Dev.to/JS] [10+ JavaScript Tips And Tricks for Writing Clean and Efficient Code](https://dev.to/raghavmri/10-javascript-tips-and-tricks-for-writing-clean-and-efficient-code-2148)
 - [Dev.to/JS] [5 Tips for Developing Accessible Websites](https://dev.to/iamsatyanchal/5-tips-for-developing-accessible-websites-4h56)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best 13 Tools To Test JavaScript Code](https://dev.to/lambdatest/best-13-tools-to-test-javascript-code-da3)
 - [Dev.to/JS] [Top 5 GraphQL Disadvantages Everyone Should Know](https://dev.to/borysshulyak/top-5-graphql-disadvantages-everyone-should-know-3jh0)
 - [Dev.to/JS] [Weekly web development resources #140](https://dev.to/vincenius/weekly-web-development-resources-140-286j)
-- [Dev.to/JS] [8 Javascript useful techniques](https://dev.to/navinmishra1717/10-javascript-useful-techniques-m1g)
-- [Dev.to/JS] [Are JavaScript and Java the same?](https://dev.to/hosseindorosti/are-javascript-and-java-the-same-27p1)
-- [Dev.to/JS] [Transform Your Portfolio Website with These Expert Tips](https://dev.to/abberdeen/transform-your-portfolio-website-with-these-expert-tips-2eha)
-- [Dev.to/JS] [When and Why We Don&#39;t Use Serverless Framework](https://dev.to/rahulladumor/when-and-why-we-dont-use-serverless-framework-3obc)
 - [Lifehacker] [These Sauces Are Mother, You Listen to Them](https://lifehacker.com/these-sauces-are-mother-you-listen-to-them-1850219813)
 - [Lifehacker] [Roll, Don&#39;t &#39;File,&#39; Clothes in Your Drawer](https://lifehacker.com/roll-dont-file-clothes-in-your-drawer-1850224384)
 - [Lifehacker] [The Lesser-Known Apps Everyone Should Install on a New Windows PC](https://lifehacker.com/the-lesser-known-apps-everyone-should-install-on-a-new-1850223434)
