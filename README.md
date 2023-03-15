@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Tell If Your Child Has Oppositional Defiant Disorder](https://lifehacker.com/how-to-tell-if-your-child-has-oppositional-defiant-diso-1850226002)
+- [Dev.to/JS] [Introducing Myself](https://dev.to/adremy/introducing-myself-4b2b)
+- [Dev.to/JS] [The Importance of Web Accessibility in Web Development](https://dev.to/iamsatyanchal/the-importance-of-web-accessibility-in-web-development-2pm8)
+- [Dev.to/JS] [PandaScope, an extension](https://dev.to/greenitpanda/pandascope-an-extension-2gkd)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Anúncios virais.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-anuncios-virais-2an0)
+- [Dev.to/JS] [List and Keys in React.js: Usage, Benefits, Best Practices with Example](https://dev.to/sidramaqbool/list-and-keys-in-reactjs-usage-benefits-best-practices-with-example-4k59)
 - [Dev.to/JS] [Analyzing and visualizing trace data to identify performance bottlenecks and optimize system performance.](https://dev.to/kingowisdom/analyzing-and-visualizing-trace-data-to-identify-performance-bottlenecks-and-optimize-system-performance-53po)
 - [Dev.to/JS] [My Experience In Tackling Critical Dependency Issues In React Native](https://dev.to/narottam04/my-experience-in-tackling-critical-dependency-issues-in-react-native-o26)
 - [Dev.to/JS] [Create DOM nodes from strings](https://dev.to/artydev/create-dom-nodes-from-strings-1igb)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Inspecting item like drop-down menu, overlay etc](https://dev.to/zeeshanali0704/inspecting-item-like-drop-down-menu-overlay-etc-4mbl)
 - [Dev.to/JS] [BUILD A JWT LOGIN AND LOGOUT SYSTEM USING EXPRESSJS &lpar;NODEJS&rpar;](https://dev.to/m_josh/build-a-jwt-login-and-logout-system-using-expressjs-nodejs-hd2)
 - [Dev.to/JS] [Moonly weekly progress update #40](https://dev.to/moonly/moonly-weekly-progress-update-40-587f)
-- [Dev.to/JS] [[3/4] Passez de zéro à héro avec ces méthodes JavaScript](https://dev.to/vincent_react/34-passez-de-zero-a-hero-avec-ces-methodes-javascript-4m92)
-- [Dev.to/JS] [Paracetamol.js💊| #204: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-204-explica-este-codigo-javascript-2oi9)
-- [Dev.to/JS] [Inquiry on remote jobs for entry level front end developers](https://dev.to/kemiade/inquiry-on-remote-jobs-for-entry-level-front-end-developers-1mc3)
-- [Dev.to/JS] [passing Props through link componet](https://dev.to/moizsheraz/passing-props-through-link-componet-1f5)
-- [Dev.to/JS] [10+ JavaScript Tips And Tricks for Writing Clean and Efficient Code](https://dev.to/raghavmri/10-javascript-tips-and-tricks-for-writing-clean-and-efficient-code-2148)
 - [Lifehacker] [These Sauces Are Mother, You Listen to Them](https://lifehacker.com/these-sauces-are-mother-you-listen-to-them-1850219813)
 - [Lifehacker] [Roll, Don&#39;t &#39;File,&#39; Clothes in Your Drawer](https://lifehacker.com/roll-dont-file-clothes-in-your-drawer-1850224384)
 - [Lifehacker] [The Lesser-Known Apps Everyone Should Install on a New Windows PC](https://lifehacker.com/the-lesser-known-apps-everyone-should-install-on-a-new-1850223434)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Confusing Car Insurance Terms Every Driver Should Learn](https://lifehacker.com/the-most-confusing-car-insurance-terms-every-driver-sho-1850212379)
 - [Lifehacker] [You Should Pre-Order Apple Music Classical Today](https://lifehacker.com/you-should-pre-order-apple-music-classical-today-1850212685)
 - [Lifehacker] [The Simple Difference Between a Farm and a Garden](https://lifehacker.com/the-simple-difference-between-a-farm-and-a-garden-1850211980)
-- [Lifehacker] [12 Podcasts That Are Basically Game Shows](https://lifehacker.com/12-podcasts-that-are-basically-game-shows-1850194507)
-- [Lifehacker] [Make Brittle, Crunchy Cookies &lpar;on Purpose&rpar; With Melted Butter](https://lifehacker.com/make-brittle-crunchy-cookies-on-purpose-with-melted-1850212465)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Podcasts That Are Basically Game Shows](https://lifehacker.com/12-podcasts-that-are-basically-game-shows-1850194507)<!-- TECH-POSTS:END -->
 
 ---
 
