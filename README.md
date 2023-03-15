@@ -23,21 +23,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Tailwind CSS Kit](https://dev.to/szymonsadowski/my-tailwind-css-kit-jm6)
+- [Dev.to/JS] [Introduction to Progressive Web Apps](https://dev.to/iamsatyanchal/-introduction-to-progressive-web-apps-ob7)
+- [Dev.to/JS] [Top 5 Latest Frontend Technologies in Web Development](https://dev.to/iamsatyanchal/top-5-latest-frontend-technologies-in-web-development-5a05)
+- [Dev.to/JS] [How To Create A Mobile App Using Vite, Vue, and Ionic Capacitor - Adding Firebase &amp; Firebase Emulator To Project](https://dev.to/aaronksaunders/how-to-create-a-mobile-app-using-vite-vue-and-ionic-capacitor-adding-firebase-firebase-emulator-to-project-584o)
+- [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
+- [Dev.to/JS] [Call Web API from angular 8 Example |API In Angular Create Website](https://dev.to/softwaretechit/call-web-api-from-angular-8-example-api-in-angular-create-website-3115)
+- [Lifehacker] [Store Blankets by Turning Them Into &#39;Pillows&#39;](https://lifehacker.com/store-blankets-by-turning-them-into-pillows-1850228558)
+- [Dev.to/JS] [Micro Frontend Discovery - The Driver for Scalability](https://dev.to/florianrappl/micro-frontend-discovery-the-driver-for-scalability-oai)
+- [Dev.to/JS] [Understanding the Compose Function in JavaScript](https://dev.to/frontend_jedi/understanding-the-compose-function-in-javascript-3g34)
 - [Dev.to/JS] [Commonly Used String Methods](https://dev.to/oluwatrillions/commonly-used-string-methods-jod)
 - [Dev.to/JS] [Provide an API for your complex arrays](https://dev.to/tahazsh/provide-an-api-for-your-complex-arrays-54ec)
 - [Dev.to/JS] [How to Fix CORS Origin Error in Javascript](https://dev.to/emeka212/how-to-fix-cors-origin-error-in-javascript-3nd3)
 - [Dev.to/JS] [Arrays and Object Destructuring in Javascript](https://dev.to/sarahadewale/arrays-and-object-destructuring-in-javascript-5d4m)
 - [Crazy Programmer] [What is Network Flapping?](https://www.thecrazyprogrammer.com/2023/03/network-flapping.html)
 - [Dev.to/JS] [JS/TS custom sorting order or how to sort weird things](https://dev.to/akabikov/jsts-custom-sorting-order-or-how-to-sort-weird-things-3dfn)
-- [Dev.to/JS] [A criação de aplicações usando Next.js, e sua incrementação com React.](https://dev.to/altencirsilvajr/a-criacao-de-aplicacoes-usando-nextjs-e-sua-incrementacao-com-react-1c0n)
-- [Dev.to/JS] [Avoiding Async/Await Footguns](https://dev.to/builderio/avoiding-asyncawait-footguns-fbe)
-- [Dev.to/JS] [User Profile React Component](https://dev.to/irwingb/user-profile-react-component-hen)
-- [Dev.to/JS] [Hosting a vite project on cloud](https://dev.to/dutdavid/hosting-a-vite-project-on-cloud-53fb)
 - [Lifehacker] [Is Your Tea Dead?](https://lifehacker.com/is-your-tea-dead-1850224958)
-- [Dev.to/JS] [Shopify vs. Medusa](https://dev.to/tyaga001/shopify-vs-medusa-1gfm)
-- [Dev.to/JS] [All about React](https://dev.to/abhixsh/all-about-react-1bmm)
 - [Lifehacker] [Get a Settlement for That Bulky CRT TV You Bought Ages Ago](https://lifehacker.com/get-a-settlement-for-that-bulky-crt-tv-you-bought-ages-1850225402)
-- [Dev.to/JS] [Drag and drop toolkit for React Material UI {custom made}, JSON based react forms Generator.](https://dev.to/amithmoorkoth/drag-and-drop-toolkit-for-react-material-ui-custom-made-json-based-react-forms-generator-2gi2)
 - [Lifehacker] [10 Fast-Growing Plants for Instant Garden Gratification](https://lifehacker.com/10-fast-growing-plants-for-instant-garden-gratification-1850175200)
 - [Lifehacker] [How to Tell If Your Child Has Oppositional Defiant Disorder](https://lifehacker.com/how-to-tell-if-your-child-has-oppositional-defiant-diso-1850226002)
 - [Lifehacker] [These Sauces Are Mother, You Listen to Them](https://lifehacker.com/these-sauces-are-mother-you-listen-to-them-1850219813)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Calm Your Worried Mind With These Self-Soothing Techniques for Adults](https://lifehacker.com/calm-your-worried-mind-with-these-self-soothing-techniq-1850208405)
 - [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
 - [Lifehacker] [The Best Food Deals and Freebies for St. Patrick&#39;s Day](https://lifehacker.com/the-best-food-deals-and-freebies-for-st-patricks-day-1850208431)
-- [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
-- [Lifehacker] [You Can Get a Dave’s Single Burger From Wendy’s for $1 Right Now](https://lifehacker.com/you-can-get-a-dave-s-single-burger-from-wendy-s-for-1-1850213329)
-- [Lifehacker] [You Can Try Out Android 14&#39;s New Swipe Back Gesture Early](https://lifehacker.com/you-can-try-out-android-14s-new-swipe-back-gesture-earl-1850213318)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)<!-- TECH-POSTS:END -->
 
 ---
 
