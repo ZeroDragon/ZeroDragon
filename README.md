@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Transform Your Portfolio Website with These Expert Tips](https://dev.to/abberdeen/transform-your-portfolio-website-with-these-expert-tips-2eha)
+- [Dev.to/JS] [The Importance of Responsive Web Design](https://dev.to/iamsatyanchal/the-importance-of-responsive-web-design-5en2)
+- [Dev.to/JS] [When and Why We Don&#39;t Use Serverless Framework](https://dev.to/rahulladumor/when-and-why-we-dont-use-serverless-framework-3obc)
 - [Dev.to/JS] [🚀🔮Unlocking the Power 🔓 of Blockchain: A Comprehensive Guide 🔑](https://dev.to/akshaykurhekar/unlocking-the-power-of-blockchain-a-comprehensive-guide-412f)
 - [Dev.to/JS] [React App Showing Blank](https://dev.to/cjordan29/react-app-showing-blank-52a8)
 - [Dev.to/JS] [The Future of Web Development: An Overview](https://dev.to/iamsatyanchal/the-future-of-web-development-an-overview-1mb2)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Entendendo as diferenças entre Throttling e Debouncing no JavaScript](https://dev.to/joeldorosarioo/entendendo-as-diferencas-entre-throttling-e-debouncing-no-javascript-4obi)
 - [Dev.to/JS] [🌎🚀💻 Web App Performance: Metrics](https://dev.to/dhrn/web-app-performance-strategies-metrics-and-automation-593k)
 - [Dev.to/JS] [Are You Bored Setting Up Node/Express Server Everytime You Start New Project? Setup Express App In Seconds](https://dev.to/heyitsuzair/are-you-bored-setting-up-nodeexpress-server-everytime-you-start-new-project-setup-express-app-in-seconds-339h)
-- [Dev.to/JS] [Code Smell 201 - Nested Ternaries](https://dev.to/mcsee/code-smell-201-nested-ternaries-4mof)
-- [Dev.to/JS] [Quit Tracker](https://dev.to/erkamesen/quit-tracker-24bc)
-- [Dev.to/JS] [Understanding Cross-site Scripting &lpar;XSS&rpar; Vulnerability](https://dev.to/iamsatyanchal/understanding-cross-site-scripting-xss-vulnerability-34bo)
 - [Lifehacker] [These Sauces Are Mother, You Listen to Them](https://lifehacker.com/these-sauces-are-mother-you-listen-to-them-1850219813)
 - [Lifehacker] [Roll, Don&#39;t &#39;File,&#39; Clothes in Your Drawer](https://lifehacker.com/roll-dont-file-clothes-in-your-drawer-1850224384)
 - [Lifehacker] [The Lesser-Known Apps Everyone Should Install on a New Windows PC](https://lifehacker.com/the-lesser-known-apps-everyone-should-install-on-a-new-1850223434)
