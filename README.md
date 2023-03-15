@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [User Profile React Component](https://dev.to/irwingb/user-profile-react-component-hen)
+- [Dev.to/JS] [Hosting a vite project on cloud](https://dev.to/dutdavid/hosting-a-vite-project-on-cloud-53fb)
+- [Lifehacker] [Is Your Tea Dead?](https://lifehacker.com/is-your-tea-dead-1850224958)
+- [Dev.to/JS] [Shopify vs. Medusa](https://dev.to/tyaga001/shopify-vs-medusa-1gfm)
+- [Dev.to/JS] [All about React](https://dev.to/abhixsh/all-about-react-1bmm)
+- [Lifehacker] [Get a Settlement for That Bulky CRT TV You Bought Ages Ago](https://lifehacker.com/get-a-settlement-for-that-bulky-crt-tv-you-bought-ages-1850225402)
 - [Dev.to/JS] [Drag and drop toolkit for React Material UI {custom made}, JSON based react forms Generator.](https://dev.to/amithmoorkoth/drag-and-drop-toolkit-for-react-material-ui-custom-made-json-based-react-forms-generator-2gi2)
 - [Lifehacker] [10 Fast-Growing Plants for Instant Garden Gratification](https://lifehacker.com/10-fast-growing-plants-for-instant-garden-gratification-1850175200)
 - [Dev.to/JS] [Encrypt string in Js and decrypt in Laravel PHP](https://dev.to/vepamirzayev/encrypt-string-in-js-decrypt-in-laravel-1ckl)
@@ -33,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PandaScope, an extension](https://dev.to/greenitpanda/pandascope-an-extension-2gkd)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Anúncios virais.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-anuncios-virais-2an0)
 - [Dev.to/JS] [List and Keys in React.js: Usage, Benefits, Best Practices with Example](https://dev.to/sidramaqbool/list-and-keys-in-reactjs-usage-benefits-best-practices-with-example-4k59)
-- [Dev.to/JS] [Analyzing and visualizing trace data to identify performance bottlenecks and optimize system performance.](https://dev.to/kingowisdom/analyzing-and-visualizing-trace-data-to-identify-performance-bottlenecks-and-optimize-system-performance-53po)
-- [Dev.to/JS] [My Experience In Tackling Critical Dependency Issues In React Native](https://dev.to/narottam04/my-experience-in-tackling-critical-dependency-issues-in-react-native-o26)
-- [Dev.to/JS] [Create DOM nodes from strings](https://dev.to/artydev/create-dom-nodes-from-strings-1igb)
-- [Dev.to/JS] [Adeus, useState! Descubra como @paint &amp; @repaint estão mudando a forma de desenvolver Componentes](https://dev.to/demgoncalves/adeus-usestate-descubra-como-paint-repaint-estao-mudando-a-forma-de-desenvolver-componentes-1ceh)
 - [Lifehacker] [These Sauces Are Mother, You Listen to Them](https://lifehacker.com/these-sauces-are-mother-you-listen-to-them-1850219813)
 - [Lifehacker] [Roll, Don&#39;t &#39;File,&#39; Clothes in Your Drawer](https://lifehacker.com/roll-dont-file-clothes-in-your-drawer-1850224384)
 - [Lifehacker] [The Lesser-Known Apps Everyone Should Install on a New Windows PC](https://lifehacker.com/the-lesser-known-apps-everyone-should-install-on-a-new-1850223434)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
 - [Lifehacker] [You Can Get a Dave’s Single Burger From Wendy’s for $1 Right Now](https://lifehacker.com/you-can-get-a-dave-s-single-burger-from-wendy-s-for-1-1850213329)
 - [Lifehacker] [You Can Try Out Android 14&#39;s New Swipe Back Gesture Early](https://lifehacker.com/you-can-try-out-android-14s-new-swipe-back-gesture-earl-1850213318)
-- [Lifehacker] [The Most Confusing Car Insurance Terms Every Driver Should Learn](https://lifehacker.com/the-most-confusing-car-insurance-terms-every-driver-sho-1850212379)
-- [Lifehacker] [You Should Pre-Order Apple Music Classical Today](https://lifehacker.com/you-should-pre-order-apple-music-classical-today-1850212685)
-- [Lifehacker] [The Simple Difference Between a Farm and a Garden](https://lifehacker.com/the-simple-difference-between-a-farm-and-a-garden-1850211980)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Most Confusing Car Insurance Terms Every Driver Should Learn](https://lifehacker.com/the-most-confusing-car-insurance-terms-every-driver-sho-1850212379)<!-- TECH-POSTS:END -->
 
 ---
 
