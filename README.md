@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚀🔮Unlocking the Power 🔓 of Blockchain: A Comprehensive Guide 🔑](https://dev.to/akshaykurhekar/unlocking-the-power-of-blockchain-a-comprehensive-guide-412f)
+- [Dev.to/JS] [React App Showing Blank](https://dev.to/cjordan29/react-app-showing-blank-52a8)
 - [Dev.to/JS] [The Future of Web Development: An Overview](https://dev.to/iamsatyanchal/the-future-of-web-development-an-overview-1mb2)
 - [Dev.to/JS] [How to use useRef&lpar;&rpar; in React to improve your app&#39;s performance and manage component state efficiently](https://dev.to/haltim/how-to-use-useref-in-react-to-improve-your-apps-performance-and-manage-component-state-efficiently-4f7l)
 - [Dev.to/JS] [Awesome UI Interactions with Scroll Reveal](https://dev.to/asayerio_techblog/awesome-ui-interactions-with-scroll-reveal-1pfi)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code Smell 201 - Nested Ternaries](https://dev.to/mcsee/code-smell-201-nested-ternaries-4mof)
 - [Dev.to/JS] [Quit Tracker](https://dev.to/erkamesen/quit-tracker-24bc)
 - [Dev.to/JS] [Understanding Cross-site Scripting &lpar;XSS&rpar; Vulnerability](https://dev.to/iamsatyanchal/understanding-cross-site-scripting-xss-vulnerability-34bo)
-- [Dev.to/JS] [What is Responsive Web Design?](https://dev.to/iamsatyanchal/what-is-responsive-web-design-3p2b)
-- [Dev.to/JS] [Understanding React JS Components](https://dev.to/iamsatyanchal/understanding-react-js-components-2824)
 - [Lifehacker] [These Sauces Are Mother, You Listen to Them](https://lifehacker.com/these-sauces-are-mother-you-listen-to-them-1850219813)
 - [Lifehacker] [Roll, Don&#39;t &#39;File,&#39; Clothes in Your Drawer](https://lifehacker.com/roll-dont-file-clothes-in-your-drawer-1850224384)
 - [Lifehacker] [The Lesser-Known Apps Everyone Should Install on a New Windows PC](https://lifehacker.com/the-lesser-known-apps-everyone-should-install-on-a-new-1850223434)
