@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Commonly Used String Methods](https://dev.to/oluwatrillions/commonly-used-string-methods-jod)
+- [Dev.to/JS] [Provide an API for your complex arrays](https://dev.to/tahazsh/provide-an-api-for-your-complex-arrays-54ec)
+- [Dev.to/JS] [How to Fix CORS Origin Error in Javascript](https://dev.to/emeka212/how-to-fix-cors-origin-error-in-javascript-3nd3)
+- [Dev.to/JS] [Arrays and Object Destructuring in Javascript](https://dev.to/sarahadewale/arrays-and-object-destructuring-in-javascript-5d4m)
+- [Crazy Programmer] [What is Network Flapping?](https://www.thecrazyprogrammer.com/2023/03/network-flapping.html)
+- [Dev.to/JS] [JS/TS custom sorting order or how to sort weird things](https://dev.to/akabikov/jsts-custom-sorting-order-or-how-to-sort-weird-things-3dfn)
+- [Dev.to/JS] [A criação de aplicações usando Next.js, e sua incrementação com React.](https://dev.to/altencirsilvajr/a-criacao-de-aplicacoes-usando-nextjs-e-sua-incrementacao-com-react-1c0n)
+- [Dev.to/JS] [Avoiding Async/Await Footguns](https://dev.to/builderio/avoiding-asyncawait-footguns-fbe)
 - [Dev.to/JS] [User Profile React Component](https://dev.to/irwingb/user-profile-react-component-hen)
 - [Dev.to/JS] [Hosting a vite project on cloud](https://dev.to/dutdavid/hosting-a-vite-project-on-cloud-53fb)
 - [Lifehacker] [Is Your Tea Dead?](https://lifehacker.com/is-your-tea-dead-1850224958)
@@ -31,14 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get a Settlement for That Bulky CRT TV You Bought Ages Ago](https://lifehacker.com/get-a-settlement-for-that-bulky-crt-tv-you-bought-ages-1850225402)
 - [Dev.to/JS] [Drag and drop toolkit for React Material UI {custom made}, JSON based react forms Generator.](https://dev.to/amithmoorkoth/drag-and-drop-toolkit-for-react-material-ui-custom-made-json-based-react-forms-generator-2gi2)
 - [Lifehacker] [10 Fast-Growing Plants for Instant Garden Gratification](https://lifehacker.com/10-fast-growing-plants-for-instant-garden-gratification-1850175200)
-- [Dev.to/JS] [Encrypt string in Js and decrypt in Laravel PHP](https://dev.to/vepamirzayev/encrypt-string-in-js-decrypt-in-laravel-1ckl)
-- [Dev.to/JS] [Learn serverless on AWS step-by-step - File storage](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-file-storage-10f7)
 - [Lifehacker] [How to Tell If Your Child Has Oppositional Defiant Disorder](https://lifehacker.com/how-to-tell-if-your-child-has-oppositional-defiant-diso-1850226002)
-- [Dev.to/JS] [Introducing Myself](https://dev.to/adremy/introducing-myself-4b2b)
-- [Dev.to/JS] [The Importance of Web Accessibility in Web Development](https://dev.to/iamsatyanchal/the-importance-of-web-accessibility-in-web-development-2pm8)
-- [Dev.to/JS] [PandaScope, an extension](https://dev.to/greenitpanda/pandascope-an-extension-2gkd)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Anúncios virais.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-anuncios-virais-2an0)
-- [Dev.to/JS] [List and Keys in React.js: Usage, Benefits, Best Practices with Example](https://dev.to/sidramaqbool/list-and-keys-in-reactjs-usage-benefits-best-practices-with-example-4k59)
 - [Lifehacker] [These Sauces Are Mother, You Listen to Them](https://lifehacker.com/these-sauces-are-mother-you-listen-to-them-1850219813)
 - [Lifehacker] [Roll, Don&#39;t &#39;File,&#39; Clothes in Your Drawer](https://lifehacker.com/roll-dont-file-clothes-in-your-drawer-1850224384)
 - [Lifehacker] [The Lesser-Known Apps Everyone Should Install on a New Windows PC](https://lifehacker.com/the-lesser-known-apps-everyone-should-install-on-a-new-1850223434)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Food Deals and Freebies for St. Patrick&#39;s Day](https://lifehacker.com/the-best-food-deals-and-freebies-for-st-patricks-day-1850208431)
 - [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)
 - [Lifehacker] [You Can Get a Dave’s Single Burger From Wendy’s for $1 Right Now](https://lifehacker.com/you-can-get-a-dave-s-single-burger-from-wendy-s-for-1-1850213329)
-- [Lifehacker] [You Can Try Out Android 14&#39;s New Swipe Back Gesture Early](https://lifehacker.com/you-can-try-out-android-14s-new-swipe-back-gesture-earl-1850213318)
-- [Lifehacker] [The Most Confusing Car Insurance Terms Every Driver Should Learn](https://lifehacker.com/the-most-confusing-car-insurance-terms-every-driver-sho-1850212379)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Try Out Android 14&#39;s New Swipe Back Gesture Early](https://lifehacker.com/you-can-try-out-android-14s-new-swipe-back-gesture-earl-1850213318)<!-- TECH-POSTS:END -->
 
 ---
 
