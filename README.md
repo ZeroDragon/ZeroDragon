@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Copy Objects in JS : Shallow Copy vs Deep copy](https://dev.to/mp214/copy-objects-in-js-shallow-copy-vs-deep-copy-1m4c)
+- [Dev.to/JS] [Display Your Website or Application in a Realistic Device Layout Using the device-layouts NPM Package](https://dev.to/jacksonkasi/display-your-website-or-application-in-a-realistic-device-layout-using-the-device-layouts-npm-package-562h)
 - [Dev.to/JS] [In React is setState is Synchronous or Asynchronous ?](https://dev.to/mp214/in-react-is-setstate-is-synchronous-or-asynchronous--3dap)
 - [Dev.to/JS] [Example post](https://dev.to/openhuman_ai/example-post-3mea)
 - [Dev.to/JS] [Is learning TypeScript worth it?](https://dev.to/vulcanwm/is-learning-typescript-worth-it-29gi)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Call Web API from angular 8 Example |API In Angular Create Website](https://dev.to/softwaretechit/call-web-api-from-angular-8-example-api-in-angular-create-website-3115)
 - [Lifehacker] [Store Blankets by Turning Them Into &#39;Pillows&#39;](https://lifehacker.com/store-blankets-by-turning-them-into-pillows-1850228558)
 - [Dev.to/JS] [Micro Frontend Discovery - The Driver for Scalability](https://dev.to/florianrappl/micro-frontend-discovery-the-driver-for-scalability-oai)
-- [Dev.to/JS] [Understanding the Compose Function in JavaScript](https://dev.to/frontend_jedi/understanding-the-compose-function-in-javascript-3g34)
-- [Dev.to/JS] [Commonly Used String Methods](https://dev.to/oluwatrillions/commonly-used-string-methods-jod)
 - [Crazy Programmer] [What is Network Flapping?](https://www.thecrazyprogrammer.com/2023/03/network-flapping.html)
 - [Lifehacker] [Is Your Tea Dead?](https://lifehacker.com/is-your-tea-dead-1850224958)
 - [Lifehacker] [Get a Settlement for That Bulky CRT TV You Bought Ages Ago](https://lifehacker.com/get-a-settlement-for-that-bulky-crt-tv-you-bought-ages-1850225402)
