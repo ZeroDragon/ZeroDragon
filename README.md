@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Are You Bored Setting Up Node/Express Server Everytime You Start New Project? Setup Express App In Seconds](https://dev.to/heyitsuzair/are-you-bored-setting-up-nodeexpress-server-everytime-you-start-new-project-setup-express-app-in-seconds-339h)
+- [Dev.to/JS] [Code Smell 201 - Nested Ternaries](https://dev.to/mcsee/code-smell-201-nested-ternaries-4mof)
 - [Dev.to/JS] [Quit Tracker](https://dev.to/erkamesen/quit-tracker-24bc)
 - [Dev.to/JS] [Understanding Cross-site Scripting &lpar;XSS&rpar; Vulnerability](https://dev.to/iamsatyanchal/understanding-cross-site-scripting-xss-vulnerability-34bo)
 - [Dev.to/JS] [What is Responsive Web Design?](https://dev.to/iamsatyanchal/what-is-responsive-web-design-3p2b)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [So what exactly are those pesky versions in your package.json and Gemfiles anyway? An introduction to Semantic Versioning](https://dev.to/ackshaey/so-what-exactly-are-those-pesky-versions-in-your-packagejson-and-gemfiles-anyway-an-introduction-to-semantic-versioning-2ccg)
 - [Dev.to/JS] [node --save-*](https://dev.to/adderek/node-save--1ci4)
 - [Dev.to/JS] [Avocado](https://dev.to/megdiv/avocado-3im3)
-- [Dev.to/JS] [How to Improve Website Speed and Performance](https://dev.to/iamsatyanchal/-how-to-improve-website-speed-and-performance-5817)
-- [Dev.to/JS] [React and Firestore Part 2](https://dev.to/salehmubashar/react-and-firestore-part-2-104a)
 - [Lifehacker] [These Sauces Are Mother, You Listen to Them](https://lifehacker.com/these-sauces-are-mother-you-listen-to-them-1850219813)
 - [Lifehacker] [Roll, Don&#39;t &#39;File,&#39; Clothes in Your Drawer](https://lifehacker.com/roll-dont-file-clothes-in-your-drawer-1850224384)
 - [Lifehacker] [The Lesser-Known Apps Everyone Should Install on a New Windows PC](https://lifehacker.com/the-lesser-known-apps-everyone-should-install-on-a-new-1850223434)
