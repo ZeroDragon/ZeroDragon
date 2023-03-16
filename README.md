@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)
+- [Dev.to/JS] [React Project for Beginners: Todo App with Drag and Drop - React DnD Tutorial](https://dev.to/chaoocharles/react-project-for-beginners-todo-app-with-drag-and-drop-react-dnd-tutorial-4cfc)
+- [Dev.to/JS] [refine vs Blitz.js](https://dev.to/refine/refine-vs-blitzjs-18h2)
+- [Dev.to/JS] [Creating a Simple Todo App with React🖥️](https://dev.to/harry2gks/creating-a-simple-todo-app-with-react-552g)
 - [Dev.to/JS] [Desacoplando o ciclo de vida: simplifique a gestão de componentes com @advices](https://dev.to/demgoncalves/desacoplando-o-ciclo-de-vida-simplifique-a-gestao-de-componentes-com-advices-4ii4)
 - [Dev.to/JS] [What is MERN stack?](https://dev.to/ali_here/what-is-mern-stack-1bpa)
 - [Dev.to/JS] [💼 Create Responsive NFT Personal Portfolio | HTML &amp; CSS &amp; JAVASCRIPT](https://dev.to/webmonster/create-responsive-nft-personal-portfolio-html-css-javascript-4ab)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Beginner&#39;s Guide to Responsive Web Design](https://dev.to/iamsatyanchal/a-beginners-guide-to-responsive-web-design-19fa)
 - [Dev.to/JS] [How to generate random color hex codes with JavaScript](https://dev.to/aliyuadeniji/how-to-generate-random-color-hex-codes-with-javascript-2haf)
 - [Dev.to/JS] [The Power of CSS Grid](https://dev.to/iamsatyanchal/the-power-of-css-grid-50ep)
-- [Dev.to/JS] [How to Use useEffect, useContext, useRef, useCallback, and useMemo in React.](https://dev.to/adii9/how-to-use-useeffect-usecontext-useref-usecallback-and-usememo-in-react-3an8)
-- [Dev.to/JS] [The Use of Intl Keyword in JavaScript](https://dev.to/akintoluvic/the-use-of-intl-keyword-in-javascript-1cl5)
-- [Dev.to/JS] [What is Javasript in India.](https://dev.to/drumcircle/what-is-javasript-in-india-5cca)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
 - [Lifehacker] [Store Blankets by Turning Them Into &#39;Pillows&#39;](https://lifehacker.com/store-blankets-by-turning-them-into-pillows-1850228558)
 - [Crazy Programmer] [What is Network Flapping?](https://www.thecrazyprogrammer.com/2023/03/network-flapping.html)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Clean Velvet](https://lifehacker.com/the-best-way-to-clean-velvet-1850208394)
 - [Lifehacker] [Calm Your Worried Mind With These Self-Soothing Techniques for Adults](https://lifehacker.com/calm-your-worried-mind-with-these-self-soothing-techniq-1850208405)
 - [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)
-- [Lifehacker] [The Best Food Deals and Freebies for St. Patrick&#39;s Day](https://lifehacker.com/the-best-food-deals-and-freebies-for-st-patricks-day-1850208431)
-- [Lifehacker] [You Don&#39;t Need a Pie Bird](https://lifehacker.com/you-dont-need-a-pie-bird-1850213445)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Food Deals and Freebies for St. Patrick&#39;s Day](https://lifehacker.com/the-best-food-deals-and-freebies-for-st-patricks-day-1850208431)<!-- TECH-POSTS:END -->
 
 ---
 
