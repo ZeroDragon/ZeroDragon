@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nuxt-Medusa Module: Integrate Medusa with your Nuxt.js application](https://dev.to/medusajs/nuxt-medusa-module-integrate-medusa-with-your-nuxtjs-application-2jc9)
+- [Dev.to/JS] [What Virtual Reality &lpar;VR&rpar; can bring to various industries?](https://dev.to/hightopo/what-virtual-reality-vr-can-bring-to-various-industries-4jgm)
+- [Dev.to/JS] [123123](https://dev.to/windddd1/123123-4pik)
+- [Dev.to/JS] [PERFECT ROADMAP FOR REACT DEVELOPER](https://dev.to/apppardana/perfect-roadmap-for-react-developer-20j0)
 - [Dev.to/JS] [Superpowers with Directives and Dependency Injection: Part 2](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-2-16ea)
 - [Dev.to/JS] [Major JavaScript Frameworks For Web Development 2023](https://dev.to/krishna49create/major-javascript-frameworks-for-web-development-2023-m4l)
 - [Dev.to/JS] [JWT User Authentification in Node.js using Express.js and MongoDB](https://dev.to/kristinadev/jwt-user-authentification-in-nodejs-using-expressjs-and-mongodb-8ko)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ajax polling in Laravel](https://dev.to/debo2696/ajax-polling-in-laravel-5cm3)
 - [Dev.to/JS] [Robotics *Artificial Intelligence](https://dev.to/baljeet975/robotics-artificial-intelligence-38j1)
 - [Dev.to/JS] [Design an art using Artificial Intelligence](https://dev.to/baljeet975/design-an-art-using-artificial-intelligence-1l13)
-- [Dev.to/JS] [Javascript Basic Topics you need to know #1 &lpar; Scope, Hoisting, Temporal Dead Zone&rpar;](https://dev.to/liobouchan/javascript-basic-topics-you-need-to-know-1-scope-hoisting-temporal-dead-zone-1h9f)
-- [Dev.to/JS] [My first time implementing SSR using Vue 3 and Vite.](https://dev.to/akbarnafisa/my-first-time-implementing-ssr-using-vue-3-and-vite-e06)
-- [Dev.to/JS] [Building Robust Node.js Applications with Socket.io: Best Practices](https://dev.to/olatisunkanmi/building-robust-nodejs-applications-with-socketio-best-practices-5hm5)
-- [Dev.to/JS] [Demystifying Create React Signals Internals](https://dev.to/dai_shi/demystifying-create-react-signals-internals-5f40)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
 - [Lifehacker] [Store Blankets by Turning Them Into &#39;Pillows&#39;](https://lifehacker.com/store-blankets-by-turning-them-into-pillows-1850228558)
 - [Crazy Programmer] [What is Network Flapping?](https://www.thecrazyprogrammer.com/2023/03/network-flapping.html)
