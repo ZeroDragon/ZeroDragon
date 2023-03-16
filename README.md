@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JWT User Authentification in Node.js using Express.js and MongoDB](https://dev.to/kristinadev/jwt-user-authentification-in-nodejs-using-expressjs-and-mongodb-8ko)
+- [Dev.to/JS] [async/await](https://dev.to/stackdiary/asyncawait-35im)
+- [Dev.to/JS] [SonoFit - Ear Benefits, Price, Reviews, Ingredients &amp; Results?](https://dev.to/sonofitfac80908/sonofit-ear-benefits-price-reviews-ingredients-results-2d5a)
 - [Dev.to/JS] [Ajax polling in Laravel](https://dev.to/debo2696/ajax-polling-in-laravel-5cm3)
 - [Dev.to/JS] [Robotics *Artificial Intelligence](https://dev.to/baljeet975/robotics-artificial-intelligence-38j1)
 - [Dev.to/JS] [Design an art using Artificial Intelligence](https://dev.to/baljeet975/design-an-art-using-artificial-intelligence-1l13)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Demystifying Create React Signals Internals](https://dev.to/dai_shi/demystifying-create-react-signals-internals-5f40)
 - [Dev.to/JS] [10 Common Web Development Mistakes to Avoid](https://dev.to/iamsatyanchal/10-common-web-development-mistakes-to-avoid-2895)
 - [Dev.to/JS] [this is an post title haha :part 1 and maybe part 2 in next phase whatever phase hehe](https://dev.to/narenmagarz/this-is-an-post-title-haha-part-1-and-maybe-part-2-in-next-phase-18b7)
-- [Dev.to/JS] [30 Days of React JS: Tips and Tricks for Building Powerful Web Applications](https://dev.to/tejas2805/30-days-of-react-js-tips-and-tricks-for-building-powerful-web-applications-egc)
-- [Dev.to/JS] [MVC or Model-View-Controller](https://dev.to/lausuarez02/mvc-or-model-view-controller-5942)
-- [Dev.to/JS] [How to use AI as a developer?](https://dev.to/rohitjethoe/how-to-use-ai-as-a-developer-488j)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
 - [Lifehacker] [Store Blankets by Turning Them Into &#39;Pillows&#39;](https://lifehacker.com/store-blankets-by-turning-them-into-pillows-1850228558)
 - [Crazy Programmer] [What is Network Flapping?](https://www.thecrazyprogrammer.com/2023/03/network-flapping.html)
