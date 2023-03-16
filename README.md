@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building an Image Gallery with Pure JavaScript](https://dev.to/lucashdoa/building-an-image-gallery-with-pure-javascript-151a)
+- [Dev.to/JS] [Running GPT-4 generated code vs GPT-3.5 code 🦾 👨‍💻](https://dev.to/godsol_art/running-gpt-4-generated-code-vs-gpt-35-code-5b7n)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Salve o prisioneiro!!!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-salve-o-prisioneiro-3b9f)
 - [Dev.to/JS] [React and Firestore Part 1](https://dev.to/salehmubashar/react-and-firestore-part-1-51me)
 - [Dev.to/JS] [Testing Web Components with @web/test-runner](https://dev.to/westbrook/testing-web-components-with-webtest-runner-51g6)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JSTools Weekly —✨2023#10: SQL Translator: Convert Natural Language into SQL](https://dev.to/jstoolsweekly/jstools-weekly-202310-sql-translator-convert-natural-language-into-sql-ki9)
 - [Dev.to/JS] [JSTools Weekly —🔥2023#10: Rspack: A fast Rust-based web bundler](https://dev.to/jstoolsweekly/jstools-weekly-202310-rspack-a-fast-rust-based-web-bundler-dhg)
 - [Dev.to/JS] [JSTools Weekly —⭐2023#10: Ant-Design v5.3, Astro: v2.1, Qwik v0.21](https://dev.to/jstoolsweekly/jstools-weekly-202310-ant-design-v53-astro-v21-qwik-v021-4o56)
-- [Dev.to/JS] [How to use gif.js from CDN](https://dev.to/simzer/how-to-use-gifjs-from-cdn-2bc8)
-- [Dev.to/JS] [300 React JS Interview Questions and Answers](https://dev.to/in/300-react-js-interview-questions-and-answers-1nnf)
 - [Lifehacker] [&#39;SpaceEngine&#39; Is Your Ticket to Exploring the Universe](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
 - [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
