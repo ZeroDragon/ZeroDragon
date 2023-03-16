@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use gif.js from CDN](https://dev.to/simzer/how-to-use-gifjs-from-cdn-2bc8)
+- [Dev.to/JS] [300 React JS Interview Questions and Answers](https://dev.to/in/300-react-js-interview-questions-and-answers-1nnf)
+- [Dev.to/JS] [Does Typescript make you slower?](https://dev.to/itskunal/does-typescript-make-you-slower-1bh1)
+- [Dev.to/JS] [Lets hit the road running!](https://dev.to/sluvish1/my-first-post-48l7)
 - [Dev.to/JS] [Easiest way to create integration tests for GraphQL server with 80% code coverage in 30 minutes](https://dev.to/zvone187/easiest-way-to-create-integration-tests-for-graphql-server-with-80-code-coverage-in-30-minutes-3674)
 - [Dev.to/JS] [10 Reasons Why React is the Ultimate Front-End Technology in 2023](https://dev.to/nesatnayem/10-reasons-why-react-is-the-ultimate-front-end-technology-in-2023-5h64)
 - [Dev.to/JS] [How to Semantic Search API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-semantic-search-api-with-javascript-in-5-minutes-333o)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering JavaScript&#39;s `this` keyword using `bind`](https://dev.to/this-is-learning/mastering-javascripts-this-keyword-using-bind-17m1)
 - [Dev.to/JS] [What i learned from a &quot;simple&quot; Table in Javasript](https://dev.to/fatlum404/what-i-learned-from-a-simple-table-in-javasript-13m1)
 - [Dev.to/JS] [How to Fix a NullPointerException in Java](https://dev.to/ananddas/how-to-fix-a-nullpointerexception-in-java-5e51)
-- [Dev.to/JS] [Paracetamol.js💊| #205: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-205-explica-este-codigo-javascript-4eno)
-- [Dev.to/JS] [Kopiranje i kloniranje objekata u JavaScriptu. Jedan &#39;novi&#39; trik za pomoć svima nama.](https://dev.to/bslaven/kopiranje-i-kloniranje-objekata-u-javascriptu-jedan-novi-trik-za-pomoc-svima-nama-5g4m)
-- [Dev.to/JS] [Building a full-stack app for learning Italian: Supabase vs. Wasp](https://dev.to/wasp/building-a-full-stack-app-for-learning-italian-supabase-vs-wasp-3djg)
-- [Dev.to/JS] [How to create a Web Development Client Questionnaire with a TOC and add it to your JS application using SurveyJS.](https://dev.to/surveyjs/how-to-create-a-web-development-client-questionnaire-with-a-toc-navigation-and-add-it-to-your-js-application-using-surveyjs-58fl)
 - [Lifehacker] [&#39;SpaceEngine&#39; Is Your Ticket to Exploring the Universe](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
 - [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
