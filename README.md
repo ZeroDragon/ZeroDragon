@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hoisting in JavaScript](https://dev.to/deepachaurasia1/hoisting-in-javascript-48b8)
+- [Dev.to/JS] [5 Reasons to Use Vue.js for Your Next Web Development Project](https://dev.to/iamsatyanchal/5-reasons-to-use-vuejs-for-your-next-web-development-project-3jg0)
+- [Dev.to/JS] [Writing a curried add in JavaScript](https://dev.to/lydiayuan/writing-a-curried-add-in-javascript-1ion)
 - [Dev.to/JS] [Introducing ts-react-kit: A Comprehensive Boilerplate for Building Modern React Apps with TypeScript](https://dev.to/dpejic/introducing-ts-react-kit-a-comprehensive-boilerplate-for-building-modern-react-apps-with-typescript-2h1)
 - [Dev.to/JS] [JSTools Weekly —✨2023#10: SQL Translator: Convert Natural Language into SQL](https://dev.to/jstoolsweekly/jstools-weekly-202310-sql-translator-convert-natural-language-into-sql-ki9)
 - [Dev.to/JS] [JSTools Weekly —🔥2023#10: Rspack: A fast Rust-based web bundler](https://dev.to/jstoolsweekly/jstools-weekly-202310-rspack-a-fast-rust-based-web-bundler-dhg)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Does Typescript make you slower?](https://dev.to/itskunal/does-typescript-make-you-slower-1bh1)
 - [Dev.to/JS] [Lets hit the road running!](https://dev.to/sluvish1/my-first-post-48l7)
 - [Dev.to/JS] [Easiest way to create integration tests for GraphQL server with 80% code coverage in 30 minutes](https://dev.to/zvone187/easiest-way-to-create-integration-tests-for-graphql-server-with-80-code-coverage-in-30-minutes-3674)
-- [Dev.to/JS] [10 Reasons Why React is the Ultimate Front-End Technology in 2023](https://dev.to/nesatnayem/10-reasons-why-react-is-the-ultimate-front-end-technology-in-2023-5h64)
-- [Dev.to/JS] [How to Semantic Search API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-semantic-search-api-with-javascript-in-5-minutes-333o)
-- [Dev.to/JS] [A joy of working with JSON using PureScript](https://dev.to/zelenya/a-joy-of-working-with-json-using-purescript-7l5)
 - [Lifehacker] [&#39;SpaceEngine&#39; Is Your Ticket to Exploring the Universe](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
 - [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
