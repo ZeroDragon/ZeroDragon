@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Robotics *Artificial Intelligence](https://dev.to/baljeet975/robotics-artificial-intelligence-38j1)
+- [Dev.to/JS] [Design an art using Artificial Intelligence](https://dev.to/baljeet975/design-an-art-using-artificial-intelligence-1l13)
+- [Dev.to/JS] [Javascript Basic Topics you need to know #1 &lpar; Scope, Hoisting, Temporal Dead Zone&rpar;](https://dev.to/liobouchan/javascript-basic-topics-you-need-to-know-1-scope-hoisting-temporal-dead-zone-1h9f)
 - [Dev.to/JS] [My first time implementing SSR using Vue 3 and Vite.](https://dev.to/akbarnafisa/my-first-time-implementing-ssr-using-vue-3-and-vite-e06)
 - [Dev.to/JS] [Building Robust Node.js Applications with Socket.io: Best Practices](https://dev.to/olatisunkanmi/building-robust-nodejs-applications-with-socketio-best-practices-5hm5)
 - [Dev.to/JS] [Demystifying Create React Signals Internals](https://dev.to/dai_shi/demystifying-create-react-signals-internals-5f40)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MVC or Model-View-Controller](https://dev.to/lausuarez02/mvc-or-model-view-controller-5942)
 - [Dev.to/JS] [How to use AI as a developer?](https://dev.to/rohitjethoe/how-to-use-ai-as-a-developer-488j)
 - [Dev.to/JS] [JavaScript Data Types](https://dev.to/phuongcatngo/javascript-data-types-1a5j)
-- [Dev.to/JS] [The Power of CSS Grid: Perfecting Responsive Web Design](https://dev.to/iamsatyanchal/the-power-of-css-grid-perfecting-responsive-web-design-158h)
-- [Dev.to/JS] [The most repeated questions I met with on job interviews &lpar;part 2&rpar;](https://dev.to/smetankajakub/the-most-repeated-questions-i-met-with-on-job-interviews-part-2-2kan)
-- [Dev.to/JS] [SCRIMBA IS THE BEST FOR BEGINNERS](https://dev.to/yasuafrique/scrimba-is-the-best-for-beginners-3cdf)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
 - [Lifehacker] [Store Blankets by Turning Them Into &#39;Pillows&#39;](https://lifehacker.com/store-blankets-by-turning-them-into-pillows-1850228558)
 - [Crazy Programmer] [What is Network Flapping?](https://www.thecrazyprogrammer.com/2023/03/network-flapping.html)
