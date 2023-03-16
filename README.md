@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React useEffect Gotcha&#39;s](https://dev.to/solancer/react-useeffect-gotchas-4hab)
+- [Dev.to/JS] [Active / Offline state of browser tab](https://dev.to/krixnaas/active-offline-state-of-browser-tab-551b)
+- [Dev.to/JS] [Scopes in Javascript](https://dev.to/efpage/scopes-in-javascript-920)
+- [Dev.to/JS] [Eatsy.](https://dev.to/binhsta/eatsy-5clc)
 - [Dev.to/JS] [The problem with TypeScript and its practices](https://dev.to/idleman/the-problem-with-typescript-and-its-practices-5fc)
 - [Dev.to/JS] [Embracing the use-change library: a lightweight state management solution for React](https://dev.to/finom/embracing-the-use-change-library-a-lightweight-state-management-solution-for-react-2da6)
 - [Dev.to/JS] [Pikashow App Latest Version Download Free For Android, Watch Movies Online](https://dev.to/ameliejohn287/pikashow-app-latest-version-download-free-for-android-watch-movies-online-13b7)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building an Image Gallery with Pure JavaScript](https://dev.to/lucashdoa/building-an-image-gallery-with-pure-javascript-151a)
 - [Dev.to/JS] [Running GPT-4 generated code vs GPT-3.5 code 🦾 👨‍💻](https://dev.to/godsol_art/running-gpt-4-generated-code-vs-gpt-35-code-5b7n)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Salve o prisioneiro!!!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-salve-o-prisioneiro-3b9f)
-- [Dev.to/JS] [React and Firestore Part 1](https://dev.to/salehmubashar/react-and-firestore-part-1-51me)
-- [Dev.to/JS] [Testing Web Components with @web/test-runner](https://dev.to/westbrook/testing-web-components-with-webtest-runner-51g6)
-- [Dev.to/JS] [Hoisting in JavaScript](https://dev.to/deepachaurasia1/hoisting-in-javascript-48b8)
-- [Dev.to/JS] [Writing a curried add in JavaScript](https://dev.to/lydiayuan/writing-a-curried-add-in-javascript-1ion)
 - [Lifehacker] [&#39;SpaceEngine&#39; Is Your Ticket to Exploring the Universe](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
 - [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
