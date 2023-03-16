@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MVC or Model-View-Controller](https://dev.to/lausuarez02/mvc-or-model-view-controller-5942)
+- [Dev.to/JS] [How to use AI as a developer?](https://dev.to/rohitjethoe/how-to-use-ai-as-a-developer-488j)
+- [Dev.to/JS] [JavaScript Data Types](https://dev.to/phuongcatngo/javascript-data-types-1a5j)
 - [Dev.to/JS] [The Power of CSS Grid: Perfecting Responsive Web Design](https://dev.to/iamsatyanchal/the-power-of-css-grid-perfecting-responsive-web-design-158h)
 - [Dev.to/JS] [The most repeated questions I met with on job interviews &lpar;part 2&rpar;](https://dev.to/smetankajakub/the-most-repeated-questions-i-met-with-on-job-interviews-part-2-2kan)
 - [Dev.to/JS] [SCRIMBA IS THE BEST FOR BEGINNERS](https://dev.to/yasuafrique/scrimba-is-the-best-for-beginners-3cdf)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Copy Objects in JS : Shallow Copy vs Deep copy](https://dev.to/mp214/copy-objects-in-js-shallow-copy-vs-deep-copy-1m4c)
 - [Dev.to/JS] [Display Your Website or Application in a Realistic Device Layout Using the device-layouts NPM Package](https://dev.to/jacksonkasi/display-your-website-or-application-in-a-realistic-device-layout-using-the-device-layouts-npm-package-562h)
 - [Dev.to/JS] [In React is setState is Synchronous or Asynchronous ?](https://dev.to/mp214/in-react-is-setstate-is-synchronous-or-asynchronous--3dap)
-- [Dev.to/JS] [Example post](https://dev.to/openhuman_ai/example-post-3mea)
-- [Dev.to/JS] [Is learning TypeScript worth it?](https://dev.to/vulcanwm/is-learning-typescript-worth-it-29gi)
-- [Dev.to/JS] [The Importance of Maintaining Your Website&#39;s Security](https://dev.to/iamsatyanchal/the-importance-of-maintaining-your-websites-security-4h6j)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
 - [Lifehacker] [Store Blankets by Turning Them Into &#39;Pillows&#39;](https://lifehacker.com/store-blankets-by-turning-them-into-pillows-1850228558)
 - [Crazy Programmer] [What is Network Flapping?](https://www.thecrazyprogrammer.com/2023/03/network-flapping.html)
