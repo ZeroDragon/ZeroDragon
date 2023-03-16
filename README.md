@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The problem with TypeScript and its practices](https://dev.to/idleman/the-problem-with-typescript-and-its-practices-5fc)
+- [Dev.to/JS] [Embracing the use-change library: a lightweight state management solution for React](https://dev.to/finom/embracing-the-use-change-library-a-lightweight-state-management-solution-for-react-2da6)
+- [Dev.to/JS] [Pikashow App Latest Version Download Free For Android, Watch Movies Online](https://dev.to/ameliejohn287/pikashow-app-latest-version-download-free-for-android-watch-movies-online-13b7)
+- [Dev.to/JS] [Download Free Pikashow APK, For android, Watch free movie online &lpar;Latest Version&rpar;](https://dev.to/ameliejohn287/download-free-pikashow-apk-for-android-watch-free-movie-online-latest-version-52c7)
+- [Dev.to/JS] [custom cancel button call inside react-toastify](https://dev.to/taiseen/react-toastify-with-custom-cancel-button-in-react-h67)
 - [Dev.to/JS] [Building an Image Gallery with Pure JavaScript](https://dev.to/lucashdoa/building-an-image-gallery-with-pure-javascript-151a)
 - [Dev.to/JS] [Running GPT-4 generated code vs GPT-3.5 code 🦾 👨‍💻](https://dev.to/godsol_art/running-gpt-4-generated-code-vs-gpt-35-code-5b7n)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Salve o prisioneiro!!!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-salve-o-prisioneiro-3b9f)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Testing Web Components with @web/test-runner](https://dev.to/westbrook/testing-web-components-with-webtest-runner-51g6)
 - [Dev.to/JS] [Hoisting in JavaScript](https://dev.to/deepachaurasia1/hoisting-in-javascript-48b8)
 - [Dev.to/JS] [Writing a curried add in JavaScript](https://dev.to/lydiayuan/writing-a-curried-add-in-javascript-1ion)
-- [Dev.to/JS] [Algebraic Data Types with TypeScript](https://dev.to/goodpic/algebraic-data-types-with-typescript-15j7)
-- [Dev.to/JS] [Introducing ts-react-kit: A Comprehensive Boilerplate for Building Modern React Apps with TypeScript](https://dev.to/dpejic/introducing-ts-react-kit-a-comprehensive-boilerplate-for-building-modern-react-apps-with-typescript-2h1)
-- [Dev.to/JS] [JSTools Weekly —✨2023#10: SQL Translator: Convert Natural Language into SQL](https://dev.to/jstoolsweekly/jstools-weekly-202310-sql-translator-convert-natural-language-into-sql-ki9)
-- [Dev.to/JS] [JSTools Weekly —🔥2023#10: Rspack: A fast Rust-based web bundler](https://dev.to/jstoolsweekly/jstools-weekly-202310-rspack-a-fast-rust-based-web-bundler-dhg)
-- [Dev.to/JS] [JSTools Weekly —⭐2023#10: Ant-Design v5.3, Astro: v2.1, Qwik v0.21](https://dev.to/jstoolsweekly/jstools-weekly-202310-ant-design-v53-astro-v21-qwik-v021-4o56)
 - [Lifehacker] [&#39;SpaceEngine&#39; Is Your Ticket to Exploring the Universe](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
 - [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
