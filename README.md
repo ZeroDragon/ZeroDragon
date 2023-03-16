@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What i learned from a &quot;simple&quot; Table in Javasript](https://dev.to/fatlum404/what-i-learned-from-a-simple-table-in-javasript-13m1)
+- [Dev.to/JS] [How to Fix a NullPointerException in Java](https://dev.to/ananddas/how-to-fix-a-nullpointerexception-in-java-5e51)
+- [Dev.to/JS] [Paracetamol.js💊| #205: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-205-explica-este-codigo-javascript-4eno)
 - [Dev.to/JS] [Kopiranje i kloniranje objekata u JavaScriptu. Jedan &#39;novi&#39; trik za pomoć svima nama.](https://dev.to/bslaven/kopiranje-i-kloniranje-objekata-u-javascriptu-jedan-novi-trik-za-pomoc-svima-nama-5g4m)
 - [Dev.to/JS] [Building a full-stack app for learning Italian: Supabase vs. Wasp](https://dev.to/wasp/building-a-full-stack-app-for-learning-italian-supabase-vs-wasp-3djg)
 - [Dev.to/JS] [How to create a Web Development Client Questionnaire with a TOC and add it to your JS application using SurveyJS.](https://dev.to/surveyjs/how-to-create-a-web-development-client-questionnaire-with-a-toc-navigation-and-add-it-to-your-js-application-using-surveyjs-58fl)
@@ -32,11 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to fix &#39;Unsupported platform for fsevents@1.2.9: wanted {&quot;os&quot;:&quot;darwin&quot;,&quot;arch&quot;:&quot;any&quot;} &lpar;current: {&quot;os&quot;:&quot;win32&quot;,&quot;arch&quot;:&quot;x64&quot;}&rpar;](https://dev.to/codarbind/how-to-fix-unsupported-platform-for-fsevents129-wanted-osdarwinarchany-current-oswin32archx64-505o)
 - [Dev.to/JS] [Getting Started With Web Components Using Stencil](https://dev.to/dyte/getting-started-with-web-components-using-stencil-59la)
 - [Dev.to/JS] [split in JavaScript](https://dev.to/capscode/split-in-javascript-3de1)
-- [Dev.to/JS] [Paracetamol.js💊| #206: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-206-explica-este-codigo-javascript-33ii)
 - [Dev.to/JS] [Review of state management in React: facebook&#39;s experiment - Recoil](https://dev.to/licg9999/review-of-state-management-in-react-facebooks-experiment-recoil-3m6g)
 - [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)
-- [Dev.to/JS] [React Project for Beginners: Todo App with Drag and Drop - React DnD Tutorial](https://dev.to/chaoocharles/react-project-for-beginners-todo-app-with-drag-and-drop-react-dnd-tutorial-4cfc)
-- [Dev.to/JS] [refine vs Blitz.js](https://dev.to/refine/refine-vs-blitzjs-18h2)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
 - [Lifehacker] [Store Blankets by Turning Them Into &#39;Pillows&#39;](https://lifehacker.com/store-blankets-by-turning-them-into-pillows-1850228558)
 - [Crazy Programmer] [What is Network Flapping?](https://www.thecrazyprogrammer.com/2023/03/network-flapping.html)
