@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Desacoplando o ciclo de vida: simplifique a gestão de componentes com @advices](https://dev.to/demgoncalves/desacoplando-o-ciclo-de-vida-simplifique-a-gestao-de-componentes-com-advices-4ii4)
 - [Dev.to/JS] [What is MERN stack?](https://dev.to/ali_here/what-is-mern-stack-1bpa)
 - [Dev.to/JS] [💼 Create Responsive NFT Personal Portfolio | HTML &amp; CSS &amp; JAVASCRIPT](https://dev.to/webmonster/create-responsive-nft-personal-portfolio-html-css-javascript-4ab)
 - [Dev.to/JS] [Microsoft Azure Online Job Support](https://dev.to/tara2k/microsoft-azure-online-job-support-2o50)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Use useEffect, useContext, useRef, useCallback, and useMemo in React.](https://dev.to/adii9/how-to-use-useeffect-usecontext-useref-usecallback-and-usememo-in-react-3an8)
 - [Dev.to/JS] [The Use of Intl Keyword in JavaScript](https://dev.to/akintoluvic/the-use-of-intl-keyword-in-javascript-1cl5)
 - [Dev.to/JS] [What is Javasript in India.](https://dev.to/drumcircle/what-is-javasript-in-india-5cca)
-- [Dev.to/JS] [Laravel Echo: An Introduction and How to Install It](https://dev.to/zouhairghaidoud/laravel-echo-an-introduction-and-how-to-install-it-3foj)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
 - [Lifehacker] [Store Blankets by Turning Them Into &#39;Pillows&#39;](https://lifehacker.com/store-blankets-by-turning-them-into-pillows-1850228558)
 - [Crazy Programmer] [What is Network Flapping?](https://www.thecrazyprogrammer.com/2023/03/network-flapping.html)
