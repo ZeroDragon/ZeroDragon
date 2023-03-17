@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Salt Your Cheap Candy](https://lifehacker.com/you-should-salt-your-cheap-candy-1850229507)
+- [Dev.to/JS] [Internationalize NextJs URLs with next-translate](https://dev.to/martinratinaud/internationalize-nextjs-urls-with-next-translate-49d8)
+- [Dev.to/JS] [Manifesto: O que me levou a criar o kuba](https://dev.to/demgoncalves/manifesto-o-que-me-levou-a-criar-o-kuba-5ble)
+- [Dev.to/JS] [Mastering Docker for Node.js: Advanced Techniques and Best Practices](https://dev.to/davydocsurg/mastering-docker-for-nodejs-advanced-techniques-and-best-practices-55m9)
 - [Dev.to/JS] [Convert everything to a drag and drop input](https://dev.to/rasimandiran/convert-everything-to-a-drag-and-drop-input-ml)
 - [Dev.to/JS] [Micro Frontends: A Scalable Approach to Front-end Development](https://dev.to/scofieldidehen/micro-frontends-a-scalable-approach-to-front-end-development-1i6)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Uma rotação de array circular](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-uma-rotacao-de-array-circular-51f3)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Debugging Your Way to Success: Essential Techniques for Frontend Developers](https://dev.to/clericcoder/debugging-your-way-to-success-essential-techniques-for-frontend-developers-176h)
 - [Dev.to/JS] [Smoke Testing Vs Sanity Testing: Top 9 Key Differences You Need to Know](https://dev.to/himadripatelace/smoke-testing-vs-sanity-testing-top-9-key-differences-you-need-to-know-4k51)
 - [Dev.to/JS] [Enhancing user experience with real-time health data insights in Nuxt.js](https://dev.to/hackmamba/enhancing-user-experience-with-real-time-health-data-insights-in-nuxtjs-5a1k)
-- [Dev.to/JS] [Mastering the “this” Keyword in JavaScript: A Guide to Understanding its Behaviors in Arrow and Anonymous Functions](https://dev.to/gg_dev/mastering-the-this-keyword-in-javascript-a-guide-to-understanding-its-behaviors-in-arrow-and-anonymous-functions-4e7k)
-- [Dev.to/JS] [Top ReactJS Development Comapnies in 2023](https://dev.to/amandacowell/top-reactjs-development-comapnies-in-2023-1232)
-- [Dev.to/JS] [Create a Web App to Read Multiple Barcodes Using Dynamsoft](https://dev.to/iamparkereric/create-a-web-app-to-read-multiple-barcodes-using-dynamsoft-2npb)
 - [Lifehacker] [&#39;SpaceEngine&#39; Is Your Ticket to Exploring the Universe](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
 - [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why It Matters If You Have ‘Dense’ Breast Tissue](https://lifehacker.com/why-it-matters-if-you-have-dense-breast-tissue-1850214162)
 - [Lifehacker] [Tuck a Pickle Into a Crispy Cheese Blanket](https://lifehacker.com/tuck-a-pickle-into-a-crispy-cheese-blanket-1850213594)
 - [Lifehacker] [The Best Way to Clean Velvet](https://lifehacker.com/the-best-way-to-clean-velvet-1850208394)
-- [Lifehacker] [Calm Your Worried Mind With These Self-Soothing Techniques for Adults](https://lifehacker.com/calm-your-worried-mind-with-these-self-soothing-techniq-1850208405)
-- [Lifehacker] [How to Polish Your Car &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-polish-your-car-and-why-you-should-1850208412)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Calm Your Worried Mind With These Self-Soothing Techniques for Adults](https://lifehacker.com/calm-your-worried-mind-with-these-self-soothing-techniq-1850208405)<!-- TECH-POSTS:END -->
 
 ---
 
