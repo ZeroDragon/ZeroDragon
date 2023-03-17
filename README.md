@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ultra K9 Pro - Benefits, Pros, Cons, Uses, Warnings &amp; Conplaints?](https://dev.to/ultrak9pro71562/ultra-k9-pro-benefits-pros-cons-uses-warnings-conplaints-46gf)
+- [Dev.to/JS] [Merge Array Interval](https://dev.to/zeeshanali0704/merge-array-interval-1j91)
 - [Dev.to/JS] [Thinking in React &lpar;Visualized&rpar;](https://dev.to/jareechang/thinking-in-react-visualized-g4p)
 - [Dev.to/JS] [KAVIYA OFC](https://dev.to/kaviyaofc1/httpstelegraphfilebbb1fad085141048598cfjpg-j4i)
 - [Dev.to/JS] [Breaking Through Imposter Syndrome: How I Learned JavaScript Variables and Data Types at Flatiron Bootcamp](https://dev.to/phoenix_deinert/breaking-through-imposter-syndrome-how-i-learned-javascript-variables-and-data-types-at-flatiron-bootcamp-242c)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Calculating Transparency of an HTML5 Canvas](https://dev.to/abjt14/calculating-transparency-of-an-html5-canvas-14lh)
 - [Dev.to/JS] [Determine this in JS](https://dev.to/dhrn/determine-this-in-js-493a)
 - [Dev.to/JS] [How to Retrieve Data from Contentful CMS in a React App](https://dev.to/kingswillwariboko/how-to-retrieve-data-from-contentful-cms-in-a-react-app-48l2)
-- [Dev.to/JS] [🚀 Ways to Title Case Strings with Javascript](https://dev.to/ypdev19/ways-to-title-case-strings-with-javascript-1dpe)
-- [Dev.to/JS] [An introduction to Babel](https://dev.to/asayerio_techblog/an-introduction-to-babel-5hef)
 - [Lifehacker] [&#39;SpaceEngine&#39; Is Your Ticket to Exploring the Universe](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
 - [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
