@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use the Intl.ListFormat built-in WEB API](https://dev.to/wdp/how-to-use-the-intllistformat-built-in-web-api-24i7)
 - [Dev.to/JS] [Calculating Transparency of an HTML5 Canvas](https://dev.to/abjt14/calculating-transparency-of-an-html5-canvas-14lh)
 - [Dev.to/JS] [Determine this in JS](https://dev.to/dhrn/determine-this-in-js-493a)
 - [Dev.to/JS] [How to Retrieve Data from Contentful CMS in a React App](https://dev.to/kingswillwariboko/how-to-retrieve-data-from-contentful-cms-in-a-react-app-48l2)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Eatsy.](https://dev.to/binhsta/eatsy-5clc)
 - [Dev.to/JS] [The problem with TypeScript and its practices](https://dev.to/idleman/the-problem-with-typescript-and-its-practices-5fc)
 - [Dev.to/JS] [Embracing the use-change library: a lightweight state management solution for React](https://dev.to/finom/embracing-the-use-change-library-a-lightweight-state-management-solution-for-react-2da6)
-- [Dev.to/JS] [Pikashow App Latest Version Download Free For Android, Watch Movies Online](https://dev.to/ameliejohn287/pikashow-app-latest-version-download-free-for-android-watch-movies-online-13b7)
 - [Lifehacker] [&#39;SpaceEngine&#39; Is Your Ticket to Exploring the Universe](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
 - [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
