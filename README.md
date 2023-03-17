@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Convert everything to a drag and drop input](https://dev.to/rasimandiran/convert-everything-to-a-drag-and-drop-input-ml)
+- [Dev.to/JS] [Micro Frontends: A Scalable Approach to Front-end Development](https://dev.to/scofieldidehen/micro-frontends-a-scalable-approach-to-front-end-development-1i6)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Uma rotação de array circular](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-uma-rotacao-de-array-circular-51f3)
+- [Dev.to/JS] [Dealing with Floating Point Numbers in JavaScript: Lessons Learned](https://dev.to/kyosifov/dealing-with-floating-point-numbers-in-javascript-lessons-learned-2070)
 - [Dev.to/JS] [I open sourced Jasper.ai alternative built in 4 days only using ChatGPT](https://dev.to/suede/i-open-sourced-jasperai-alternative-built-in-4-days-only-using-chatgpt-3a9a)
 - [Dev.to/JS] [Anomm - how i created an open source anonymous messaging service](https://dev.to/pushkarydv/anomm-how-i-created-an-open-source-anonymous-messaging-service-2nja)
 - [Dev.to/JS] [Debugging Your Way to Success: Essential Techniques for Frontend Developers](https://dev.to/clericcoder/debugging-your-way-to-success-essential-techniques-for-frontend-developers-176h)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering the “this” Keyword in JavaScript: A Guide to Understanding its Behaviors in Arrow and Anonymous Functions](https://dev.to/gg_dev/mastering-the-this-keyword-in-javascript-a-guide-to-understanding-its-behaviors-in-arrow-and-anonymous-functions-4e7k)
 - [Dev.to/JS] [Top ReactJS Development Comapnies in 2023](https://dev.to/amandacowell/top-reactjs-development-comapnies-in-2023-1232)
 - [Dev.to/JS] [Create a Web App to Read Multiple Barcodes Using Dynamsoft](https://dev.to/iamparkereric/create-a-web-app-to-read-multiple-barcodes-using-dynamsoft-2npb)
-- [Dev.to/JS] [Regular Functions vs Arrow Functions](https://dev.to/himanshudevgupta/regular-functions-vs-arrow-functions-33o4)
-- [Dev.to/JS] [Time for JS brain teasers](https://dev.to/akashkumaravel/time-for-js-brain-teasers-2afa)
-- [Dev.to/JS] [test](https://dev.to/msbalacse/test-4acn)
-- [Dev.to/JS] [print&lpar;&quot;wagtail&quot;&rpar;](https://dev.to/allenvtran/wagtail-17a8)
 - [Lifehacker] [&#39;SpaceEngine&#39; Is Your Ticket to Exploring the Universe](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
 - [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
