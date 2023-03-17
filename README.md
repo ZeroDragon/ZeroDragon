@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚀 Ways to Title Case Strings with Javascript](https://dev.to/ypdev19/ways-to-title-case-strings-with-javascript-1dpe)
+- [Dev.to/JS] [An introduction to Babel](https://dev.to/asayerio_techblog/an-introduction-to-babel-5hef)
 - [Dev.to/JS] [React useEffect Gotcha&#39;s](https://dev.to/solancer/react-useeffect-gotchas-4hab)
 - [Dev.to/JS] [Active / Offline state of browser tab](https://dev.to/krixnaas/active-offline-state-of-browser-tab-551b)
 - [Dev.to/JS] [Scopes in Javascript](https://dev.to/efpage/scopes-in-javascript-920)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Download Free Pikashow APK, For android, Watch free movie online &lpar;Latest Version&rpar;](https://dev.to/ameliejohn287/download-free-pikashow-apk-for-android-watch-free-movie-online-latest-version-52c7)
 - [Dev.to/JS] [custom cancel button call inside react-toastify](https://dev.to/taiseen/react-toastify-with-custom-cancel-button-in-react-h67)
 - [Dev.to/JS] [Building an Image Gallery with Pure JavaScript](https://dev.to/lucashdoa/building-an-image-gallery-with-pure-javascript-151a)
-- [Dev.to/JS] [Running GPT-4 generated code vs GPT-3.5 code 🦾 👨‍💻](https://dev.to/godsol_art/running-gpt-4-generated-code-vs-gpt-35-code-5b7n)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Salve o prisioneiro!!!](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-salve-o-prisioneiro-3b9f)
 - [Lifehacker] [&#39;SpaceEngine&#39; Is Your Ticket to Exploring the Universe](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
 - [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
