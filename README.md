@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Time for JS brain teasers](https://dev.to/akashkumaravel/time-for-js-brain-teasers-2afa)
+- [Dev.to/JS] [test](https://dev.to/msbalacse/test-4acn)
+- [Dev.to/JS] [print&lpar;&quot;wagtail&quot;&rpar;](https://dev.to/allenvtran/wagtail-17a8)
+- [Dev.to/JS] [How does UAE hold protection and security?](https://dev.to/monetor4/how-does-uae-hold-protection-and-security-188l)
 - [Dev.to/JS] [Ultra K9 Pro - Benefits, Pros, Cons, Uses, Warnings &amp; Conplaints?](https://dev.to/ultrak9pro71562/ultra-k9-pro-benefits-pros-cons-uses-warnings-conplaints-46gf)
 - [Dev.to/JS] [Merge Array Interval](https://dev.to/zeeshanali0704/merge-array-interval-1j91)
 - [Dev.to/JS] [Thinking in React &lpar;Visualized&rpar;](https://dev.to/jareechang/thinking-in-react-visualized-g4p)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Practices for Optimizing Frontend Performance](https://dev.to/sameer_trimade/best-practices-for-optimizing-frontend-performance-2c8i)
 - [Dev.to/JS] [How to Build Your Own E-Commerce Site with Medusa](https://dev.to/durgesh4993/how-to-build-your-own-e-commerce-site-with-medusa-12jd)
 - [Dev.to/JS] [Capture VS Bubble](https://dev.to/mrh0200/capture-vs-bubble-3ao2)
-- [Dev.to/JS] [How to use the Intl.ListFormat built-in WEB API](https://dev.to/wdp/how-to-use-the-intllistformat-built-in-web-api-24i7)
-- [Dev.to/JS] [Calculating Transparency of an HTML5 Canvas](https://dev.to/abjt14/calculating-transparency-of-an-html5-canvas-14lh)
-- [Dev.to/JS] [Determine this in JS](https://dev.to/dhrn/determine-this-in-js-493a)
-- [Dev.to/JS] [How to Retrieve Data from Contentful CMS in a React App](https://dev.to/kingswillwariboko/how-to-retrieve-data-from-contentful-cms-in-a-react-app-48l2)
 - [Lifehacker] [&#39;SpaceEngine&#39; Is Your Ticket to Exploring the Universe](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
 - [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
