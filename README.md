@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Basic D3.js components tree visualization feat. chatGPT](https://dev.to/vtcaregorodtcev/basic-d3js-components-tree-visualization-feat-chatgpt-1icb)
+- [Lifehacker] [The One Area You Should Clean When You Feel Too Sad to Clean Anything](https://lifehacker.com/the-one-area-you-should-clean-when-you-feel-too-sad-to-1850236992)
+- [Dev.to/JS] [Administrando el estado con React Query. 〽️](https://dev.to/franklin030601/administrando-el-estado-con-react-query-2b2j)
+- [Dev.to/JS] [Managing state with React Query. 〽️](https://dev.to/franklin030601/managing-state-with-react-query-1842)
 - [Dev.to/JS] [How to Setup and Structure Your GraphQL Project](https://dev.to/thatanjan/how-to-setup-and-structure-your-graphql-project-5136)
 - [Dev.to/JS] [Creating a Box-and-Whisker Plot &lpar;JS&rpar;](https://dev.to/andreykh1985/creating-a-box-and-whisker-plot-js-o8p)
 - [Lifehacker] [15 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
@@ -33,10 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Code the Longest Increasing Subsequence Algorithm](https://dev.to/nielsenjared/how-to-code-the-longest-increasing-subsequence-algorithm-238p)
 - [Dev.to/JS] [A Closer Look at Recursion: Examples in Popular Programming Languages](https://dev.to/divine016/a-closer-look-at-recursion-examples-in-popular-programming-languages-5am9)
 - [Dev.to/JS] [Catatan Belajar dari kelas &quot;Belajar Membuat Aplikasi BE untuk Pemula&quot;](https://dev.to/badruti94/catatan-belajar-dari-kelas-belajar-membuat-aplikasi-be-untuk-pemula-2do9)
-- [Dev.to/JS] [Uploading 10 Million records to backend in 10 seconds](https://dev.to/yobulkmaster/uploading-10-million-records-to-backend-in-10-seconds-4llk)
 - [Lifehacker] [You Should Salt Your Cheap Candy](https://lifehacker.com/you-should-salt-your-cheap-candy-1850229507)
-- [Dev.to/JS] [Processing promises in Batch](https://dev.to/woovi/processing-promises-in-batch-2le6)
-- [Dev.to/JS] [Internationalize NextJs URLs with next-translate &lpar;Part 1&rpar;](https://dev.to/martinratinaud/internationalize-nextjs-urls-with-next-translate-49d8)
 - [Lifehacker] [&#39;SpaceEngine&#39; Is Your Ticket to Exploring the Universe](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
 - [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Spring Cleaning](https://lifehacker.com/the-7-deadly-sins-of-spring-cleaning-1850214755)
 - [Lifehacker] [9 More Ways You Should Be Using Paper Towels Around the House](https://lifehacker.com/9-more-ways-you-should-be-using-paper-towels-around-the-1850213806)
 - [Lifehacker] [Why It Matters If You Have ‘Dense’ Breast Tissue](https://lifehacker.com/why-it-matters-if-you-have-dense-breast-tissue-1850214162)
-- [Lifehacker] [Tuck a Pickle Into a Crispy Cheese Blanket](https://lifehacker.com/tuck-a-pickle-into-a-crispy-cheese-blanket-1850213594)
-- [Lifehacker] [The Best Way to Clean Velvet](https://lifehacker.com/the-best-way-to-clean-velvet-1850208394)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Tuck a Pickle Into a Crispy Cheese Blanket](https://lifehacker.com/tuck-a-pickle-into-a-crispy-cheese-blanket-1850213594)<!-- TECH-POSTS:END -->
 
 ---
 
