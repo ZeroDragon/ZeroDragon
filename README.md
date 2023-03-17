@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Auto-fix missing imports in VS Code ✨](https://dev.to/krisplatis/auto-fix-missing-imports-in-vs-code-3fna)
+- [Dev.to/JS] [Reference vs Value - Javascript](https://dev.to/ezilemdodana/reference-vs-value-javascript-hmh)
+- [Dev.to/JS] [Make your own jQuery from scratch](https://dev.to/joydeep23/make-your-own-jquery-from-scratch-2nhl)
+- [Dev.to/JS] [Traffic Light - JS](https://dev.to/986913/traffic-light-js-2k8c)
+- [Dev.to/JS] [Auto-add missing imports on file save in VS Code ✨](https://dev.to/krisplatis/auto-add-missing-imports-on-file-save-in-vs-code-1b89)
 - [Dev.to/JS] [Cloudflare Workers Explained Like You&#39;re Five](https://dev.to/maj07/cloudflare-workers-explained-like-youre-five-217g)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
 - [Dev.to/JS] [The new React docs](https://dev.to/thexdev/the-new-react-docs-3e7)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Administrando el estado con React Query. 〽️](https://dev.to/franklin030601/administrando-el-estado-con-react-query-2b2j)
 - [Dev.to/JS] [Managing state with React Query. 〽️](https://dev.to/franklin030601/managing-state-with-react-query-1842)
 - [Dev.to/JS] [How to Setup and Structure Your GraphQL Project](https://dev.to/thatanjan/how-to-setup-and-structure-your-graphql-project-5136)
-- [Dev.to/JS] [Creating a Box-and-Whisker Plot &lpar;JS&rpar;](https://dev.to/andreykh1985/creating-a-box-and-whisker-plot-js-o8p)
 - [Lifehacker] [15 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
-- [Dev.to/JS] [Mastering JavaScript Array Methods: Your Ultimate Guide — part 1 —](https://dev.to/gg_dev/mastering-javascript-array-methods-your-ultimate-guide-part-1--5b8i)
-- [Dev.to/JS] [Using ChatGPT to write Pong in the browser](https://dev.to/accreditly/using-chatgpt-to-write-pong-in-the-browser-3fid)
 - [Lifehacker] [You Should Salt Your Cheap Candy](https://lifehacker.com/you-should-salt-your-cheap-candy-1850229507)
 - [Lifehacker] [&#39;SpaceEngine&#39; Is Your Ticket to Exploring the Universe](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
 - [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)
