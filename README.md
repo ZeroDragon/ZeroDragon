@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Code the Longest Increasing Subsequence Algorithm](https://dev.to/nielsenjared/how-to-code-the-longest-increasing-subsequence-algorithm-238p)
+- [Dev.to/JS] [A Closer Look at Recursion: Examples in Popular Programming Languages](https://dev.to/divine016/a-closer-look-at-recursion-examples-in-popular-programming-languages-5am9)
+- [Dev.to/JS] [Catatan Belajar dari kelas &quot;Belajar Membuat Aplikasi BE untuk Pemula&quot;](https://dev.to/badruti94/catatan-belajar-dari-kelas-belajar-membuat-aplikasi-be-untuk-pemula-2do9)
+- [Dev.to/JS] [Uploading 10 Million records to backend in 10 seconds](https://dev.to/yobulkmaster/uploading-10-million-records-to-backend-in-10-seconds-4llk)
 - [Lifehacker] [You Should Salt Your Cheap Candy](https://lifehacker.com/you-should-salt-your-cheap-candy-1850229507)
+- [Dev.to/JS] [Processing promises in Batch](https://dev.to/woovi/processing-promises-in-batch-2le6)
 - [Dev.to/JS] [Internationalize NextJs URLs with next-translate](https://dev.to/martinratinaud/internationalize-nextjs-urls-with-next-translate-49d8)
 - [Dev.to/JS] [Manifesto: O que me levou a criar o kuba](https://dev.to/demgoncalves/manifesto-o-que-me-levou-a-criar-o-kuba-5ble)
 - [Dev.to/JS] [Mastering Docker for Node.js: Advanced Techniques and Best Practices](https://dev.to/davydocsurg/mastering-docker-for-nodejs-advanced-techniques-and-best-practices-55m9)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Micro Frontends: A Scalable Approach to Front-end Development](https://dev.to/scofieldidehen/micro-frontends-a-scalable-approach-to-front-end-development-1i6)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Uma rotação de array circular](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-uma-rotacao-de-array-circular-51f3)
 - [Dev.to/JS] [Dealing with Floating Point Numbers in JavaScript: Lessons Learned](https://dev.to/kyosifov/dealing-with-floating-point-numbers-in-javascript-lessons-learned-2070)
-- [Dev.to/JS] [I open sourced Jasper.ai alternative built in 4 days only using ChatGPT](https://dev.to/suede/i-open-sourced-jasperai-alternative-built-in-4-days-only-using-chatgpt-3a9a)
-- [Dev.to/JS] [Anomm - how i created an open source anonymous messaging service](https://dev.to/pushkarydv/anomm-how-i-created-an-open-source-anonymous-messaging-service-2nja)
-- [Dev.to/JS] [Debugging Your Way to Success: Essential Techniques for Frontend Developers](https://dev.to/clericcoder/debugging-your-way-to-success-essential-techniques-for-frontend-developers-176h)
-- [Dev.to/JS] [Smoke Testing Vs Sanity Testing: Top 9 Key Differences You Need to Know](https://dev.to/himadripatelace/smoke-testing-vs-sanity-testing-top-9-key-differences-you-need-to-know-4k51)
-- [Dev.to/JS] [Enhancing user experience with real-time health data insights in Nuxt.js](https://dev.to/hackmamba/enhancing-user-experience-with-real-time-health-data-insights-in-nuxtjs-5a1k)
 - [Lifehacker] [&#39;SpaceEngine&#39; Is Your Ticket to Exploring the Universe](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
 - [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
