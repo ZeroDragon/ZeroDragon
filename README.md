@@ -23,7 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [React is a Framework, a Library, or both?](https://dev.to/demianoid/react-j6b)
+- [Dev.to/JS] [Testing a button with jest](https://dev.to/lausuarez02/testing-a-button-with-jest-2j1o)
+- [Dev.to/JS] [React is a Framework, a Library, or both?](https://dev.to/d_mind/react-j6b)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Dev.to/JS] [Creating Countdown Timer with Vuejs Composables](https://dev.to/andrewzach/creating-countdown-timer-with-vuejs-composables-m52)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cloudflare Workers Explained Like You&#39;re Five](https://dev.to/maj07/cloudflare-workers-explained-like-youre-five-217g)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
 - [Dev.to/JS] [The new React docs](https://dev.to/thexdev/the-new-react-docs-3e7)
-- [Dev.to/JS] [The Problem With React](https://dev.to/steveblue/the-problem-with-react-46mg)
 - [Lifehacker] [You Can Completely Reset Your TikTok ‘For You’ Feed](https://lifehacker.com/you-can-completely-reset-your-tiktok-for-you-feed-1850237165)
 - [Lifehacker] [The One Area You Should Clean When You Feel Too Sad to Clean Anything](https://lifehacker.com/the-one-area-you-should-clean-when-you-feel-too-sad-to-1850236992)
 - [Lifehacker] [15 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
