@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Thinking in React &lpar;Visualized&rpar;](https://dev.to/jareechang/thinking-in-react-visualized-g4p)
+- [Dev.to/JS] [KAVIYA OFC](https://dev.to/kaviyaofc1/httpstelegraphfilebbb1fad085141048598cfjpg-j4i)
 - [Dev.to/JS] [Breaking Through Imposter Syndrome: How I Learned JavaScript Variables and Data Types at Flatiron Bootcamp](https://dev.to/phoenix_deinert/breaking-through-imposter-syndrome-how-i-learned-javascript-variables-and-data-types-at-flatiron-bootcamp-242c)
 - [Dev.to/JS] [Best Practices for Optimizing Frontend Performance](https://dev.to/sameer_trimade/best-practices-for-optimizing-frontend-performance-2c8i)
 - [Dev.to/JS] [How to Build Your Own E-Commerce Site with Medusa](https://dev.to/durgesh4993/how-to-build-your-own-e-commerce-site-with-medusa-12jd)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Retrieve Data from Contentful CMS in a React App](https://dev.to/kingswillwariboko/how-to-retrieve-data-from-contentful-cms-in-a-react-app-48l2)
 - [Dev.to/JS] [🚀 Ways to Title Case Strings with Javascript](https://dev.to/ypdev19/ways-to-title-case-strings-with-javascript-1dpe)
 - [Dev.to/JS] [An introduction to Babel](https://dev.to/asayerio_techblog/an-introduction-to-babel-5hef)
-- [Dev.to/JS] [React useEffect Gotcha&#39;s](https://dev.to/solancer/react-useeffect-gotchas-4hab)
-- [Dev.to/JS] [Active / Offline state of browser tab](https://dev.to/krixnaas/active-offline-state-of-browser-tab-551b)
 - [Lifehacker] [&#39;SpaceEngine&#39; Is Your Ticket to Exploring the Universe](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
 - [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
