@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I open sourced Jasper.ai alternative built in 4 days only using ChatGPT](https://dev.to/suede/i-open-sourced-jasperai-alternative-built-in-4-days-only-using-chatgpt-3a9a)
+- [Dev.to/JS] [Anomm - how i created an open source anonymous messaging service](https://dev.to/pushkarydv/anomm-how-i-created-an-open-source-anonymous-messaging-service-2nja)
 - [Dev.to/JS] [Debugging Your Way to Success: Essential Techniques for Frontend Developers](https://dev.to/clericcoder/debugging-your-way-to-success-essential-techniques-for-frontend-developers-176h)
 - [Dev.to/JS] [Smoke Testing Vs Sanity Testing: Top 9 Key Differences You Need to Know](https://dev.to/himadripatelace/smoke-testing-vs-sanity-testing-top-9-key-differences-you-need-to-know-4k51)
 - [Dev.to/JS] [Enhancing user experience with real-time health data insights in Nuxt.js](https://dev.to/hackmamba/enhancing-user-experience-with-real-time-health-data-insights-in-nuxtjs-5a1k)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Time for JS brain teasers](https://dev.to/akashkumaravel/time-for-js-brain-teasers-2afa)
 - [Dev.to/JS] [test](https://dev.to/msbalacse/test-4acn)
 - [Dev.to/JS] [print&lpar;&quot;wagtail&quot;&rpar;](https://dev.to/allenvtran/wagtail-17a8)
-- [Dev.to/JS] [How does UAE hold protection and security?](https://dev.to/monetor4/how-does-uae-hold-protection-and-security-188l)
-- [Dev.to/JS] [Ultra K9 Pro - Benefits, Pros, Cons, Uses, Warnings &amp; Conplaints?](https://dev.to/ultrak9pro71562/ultra-k9-pro-benefits-pros-cons-uses-warnings-conplaints-46gf)
 - [Lifehacker] [&#39;SpaceEngine&#39; Is Your Ticket to Exploring the Universe](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
 - [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
