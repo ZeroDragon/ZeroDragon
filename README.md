@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React is a Framework, a Library, or both?](https://dev.to/demianoid/react-j6b)
+- [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Dev.to/JS] [Creating Countdown Timer with Vuejs Composables](https://dev.to/andrewzach/creating-countdown-timer-with-vuejs-composables-m52)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Dev.to/JS] [Excellent Effect Management in React with 𝗥𝘅𝑓𝑥 and RxJS](https://dev.to/deanius/excellent-effect-management-in-react-with-and-rxjs-35cn)
@@ -36,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
 - [Dev.to/JS] [The new React docs](https://dev.to/thexdev/the-new-react-docs-3e7)
 - [Dev.to/JS] [The Problem With React](https://dev.to/steveblue/the-problem-with-react-46mg)
-- [Dev.to/JS] [How to Set Up Rollup for a React Application?](https://dev.to/codeguage/how-to-set-up-rollup-for-a-react-application-2322)
 - [Lifehacker] [You Can Completely Reset Your TikTok ‘For You’ Feed](https://lifehacker.com/you-can-completely-reset-your-tiktok-for-you-feed-1850237165)
 - [Lifehacker] [The One Area You Should Clean When You Feel Too Sad to Clean Anything](https://lifehacker.com/the-one-area-you-should-clean-when-you-feel-too-sad-to-1850236992)
 - [Lifehacker] [15 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What’s a Home Equity Investment, and Is It Ever a Good Idea?](https://lifehacker.com/what-s-a-home-equity-investment-and-is-it-ever-a-good-1850219402)
 - [Lifehacker] [Don’t Use This TikTok &#39;Hack&#39; to Fix a Leaky Pipe](https://lifehacker.com/don-t-use-this-tiktok-hack-to-fix-a-leaky-pipe-1850218501)
 - [Lifehacker] [How You Can Really Help a Friend Who&#39;s Been Laid Off](https://lifehacker.com/how-you-can-really-help-a-friend-whos-been-laid-off-1850217478)
-- [Lifehacker] [These Interactive Tools Reveal Your Home’s Future Flood, Heat, and Wind Risk](https://lifehacker.com/these-interactive-tools-reveal-your-home-s-future-flood-1850214492)
-- [Lifehacker] [The 7 Deadly Sins of Spring Cleaning](https://lifehacker.com/the-7-deadly-sins-of-spring-cleaning-1850214755)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Interactive Tools Reveal Your Home’s Future Flood, Heat, and Wind Risk](https://lifehacker.com/these-interactive-tools-reveal-your-home-s-future-flood-1850214492)<!-- TECH-POSTS:END -->
 
 ---
 
