@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Excellent Effect Management in React with 𝗥𝘅𝑓𝑥 and RxJS](https://dev.to/deanius/excellent-effect-management-in-react-with-and-rxjs-35cn)
+- [Dev.to/JS] [Using uuid in Knex.js and PostgreSQL](https://dev.to/alvesjessica/using-uuid-in-knexjs-and-postgresql-1o46)
+- [Dev.to/JS] [Everything You Need to Know About the Updated React Docs](https://dev.to/kathryngrayson/whats-new-in-the-updated-react-docs-on2)
 - [Dev.to/JS] [Reference vs Value - Javascript](https://dev.to/ezilemdodana/reference-vs-value-javascript-hmh)
 - [Dev.to/JS] [Make your own jQuery from scratch](https://dev.to/joydeep23/make-your-own-jquery-from-scratch-2nhl)
 - [Dev.to/JS] [Traffic Light - JS](https://dev.to/986913/traffic-light-js-2k8c)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Completely Reset Your TikTok ‘For You’ Feed](https://lifehacker.com/you-can-completely-reset-your-tiktok-for-you-feed-1850237165)
 - [Dev.to/JS] [Basic D3.js components tree visualization feat. chatGPT](https://dev.to/vtcaregorodtcev/basic-d3js-components-tree-visualization-feat-chatgpt-1icb)
 - [Lifehacker] [The One Area You Should Clean When You Feel Too Sad to Clean Anything](https://lifehacker.com/the-one-area-you-should-clean-when-you-feel-too-sad-to-1850236992)
-- [Dev.to/JS] [Administrando el estado con React Query. 〽️](https://dev.to/franklin030601/administrando-el-estado-con-react-query-2b2j)
-- [Dev.to/JS] [Managing state with React Query. 〽️](https://dev.to/franklin030601/managing-state-with-react-query-1842)
-- [Dev.to/JS] [How to Setup and Structure Your GraphQL Project](https://dev.to/thatanjan/how-to-setup-and-structure-your-graphql-project-5136)
 - [Lifehacker] [15 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
 - [Lifehacker] [You Should Salt Your Cheap Candy](https://lifehacker.com/you-should-salt-your-cheap-candy-1850229507)
 - [Lifehacker] [&#39;SpaceEngine&#39; Is Your Ticket to Exploring the Universe](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
