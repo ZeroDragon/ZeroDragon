@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Auto-fix missing imports in VS Code ✨](https://dev.to/krisplatis/auto-fix-missing-imports-in-vs-code-3fna)
+- [Dev.to/JS] [Cloudflare Workers Explained Like You&#39;re Five](https://dev.to/maj07/cloudflare-workers-explained-like-youre-five-217g)
+- [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
+- [Dev.to/JS] [The new React docs](https://dev.to/thexdev/the-new-react-docs-3e7)
+- [Dev.to/JS] [The Problem With React](https://dev.to/steveblue/the-problem-with-react-46mg)
+- [Dev.to/JS] [How to Set Up Rollup for a React Application?](https://dev.to/codeguage/how-to-set-up-rollup-for-a-react-application-2322)
+- [Lifehacker] [You Can Completely Reset Your TikTok ‘For You’ Feed](https://lifehacker.com/you-can-completely-reset-your-tiktok-for-you-feed-1850237165)
 - [Dev.to/JS] [Basic D3.js components tree visualization feat. chatGPT](https://dev.to/vtcaregorodtcev/basic-d3js-components-tree-visualization-feat-chatgpt-1icb)
 - [Lifehacker] [The One Area You Should Clean When You Feel Too Sad to Clean Anything](https://lifehacker.com/the-one-area-you-should-clean-when-you-feel-too-sad-to-1850236992)
 - [Dev.to/JS] [Administrando el estado con React Query. 〽️](https://dev.to/franklin030601/administrando-el-estado-con-react-query-2b2j)
@@ -32,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
 - [Dev.to/JS] [Mastering JavaScript Array Methods: Your Ultimate Guide — part 1 —](https://dev.to/gg_dev/mastering-javascript-array-methods-your-ultimate-guide-part-1--5b8i)
 - [Dev.to/JS] [Using ChatGPT to write Pong in the browser](https://dev.to/accreditly/using-chatgpt-to-write-pong-in-the-browser-3fid)
-- [Dev.to/JS] [Paracetamol.js💊| #207: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-207-explica-este-codigo-javascript-2e0l)
-- [Dev.to/JS] [3D Graphics in ReactJS with ThreeJS](https://dev.to/mohammadfaisal/3d-graphics-in-reactjs-with-threejs-1bd0)
-- [Dev.to/JS] [How to Code the Longest Increasing Subsequence Algorithm](https://dev.to/nielsenjared/how-to-code-the-longest-increasing-subsequence-algorithm-238p)
-- [Dev.to/JS] [A Closer Look at Recursion: Examples in Popular Programming Languages](https://dev.to/divine016/a-closer-look-at-recursion-examples-in-popular-programming-languages-5am9)
-- [Dev.to/JS] [Catatan Belajar dari kelas &quot;Belajar Membuat Aplikasi BE untuk Pemula&quot;](https://dev.to/badruti94/catatan-belajar-dari-kelas-belajar-membuat-aplikasi-be-untuk-pemula-2do9)
 - [Lifehacker] [You Should Salt Your Cheap Candy](https://lifehacker.com/you-should-salt-your-cheap-candy-1850229507)
 - [Lifehacker] [&#39;SpaceEngine&#39; Is Your Ticket to Exploring the Universe](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
 - [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How You Can Really Help a Friend Who&#39;s Been Laid Off](https://lifehacker.com/how-you-can-really-help-a-friend-whos-been-laid-off-1850217478)
 - [Lifehacker] [These Interactive Tools Reveal Your Home’s Future Flood, Heat, and Wind Risk](https://lifehacker.com/these-interactive-tools-reveal-your-home-s-future-flood-1850214492)
 - [Lifehacker] [The 7 Deadly Sins of Spring Cleaning](https://lifehacker.com/the-7-deadly-sins-of-spring-cleaning-1850214755)
-- [Lifehacker] [9 More Ways You Should Be Using Paper Towels Around the House](https://lifehacker.com/9-more-ways-you-should-be-using-paper-towels-around-the-1850213806)
-- [Lifehacker] [Why It Matters If You Have ‘Dense’ Breast Tissue](https://lifehacker.com/why-it-matters-if-you-have-dense-breast-tissue-1850214162)
-- [Lifehacker] [Tuck a Pickle Into a Crispy Cheese Blanket](https://lifehacker.com/tuck-a-pickle-into-a-crispy-cheese-blanket-1850213594)<!-- TECH-POSTS:END -->
+- [Lifehacker] [9 More Ways You Should Be Using Paper Towels Around the House](https://lifehacker.com/9-more-ways-you-should-be-using-paper-towels-around-the-1850213806)<!-- TECH-POSTS:END -->
 
 ---
 
