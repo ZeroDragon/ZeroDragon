@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Uncaught TypeError &lpar;I need help&rpar; &lpar;null&rpar;](https://dev.to/albertoooooooo/uncaught-typeerror-i-need-help-null-ge4)
+- [Dev.to/JS] [PHP Search Box with MYSQL and AJAX JQuery](https://dev.to/adeleyeayodeji/php-search-box-with-mysql-and-ajax-jquery-3ba0)
+- [Dev.to/JS] [10 Common Mistakes to Avoid While Writing JavaScript Code](https://dev.to/dhanushnehru/10-common-mistakes-to-avoid-while-writing-javascript-code-39cg)
+- [Dev.to/JS] [JavaScript `console` Methods: A Comprehensive Guide](https://dev.to/accreditly/javascript-console-methods-a-comprehensive-guide-icj)
 - [Dev.to/JS] [🇫🇷 Comment trier des tableaux en JavaScript](https://dev.to/pierre/trier-tableaux-javascript-5g43)
 - [Dev.to/JS] [Esplorare i Metodi degli Array di JavaScript: La Tua Guida Definitiva - Parte 1](https://dev.to/gg_dev/esplorare-i-metodi-degli-array-di-javascript-la-tua-guida-definitiva-parte-1-16b3)
 - [Dev.to/JS] [Unexpected Moments of JavaScript That Will Challenge Your Understanding of the Language](https://dev.to/codeofrelevancy/unexpected-moments-of-javascript-that-will-challenge-your-understanding-of-the-language-4834)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Shuffle An Array In Javascript](https://dev.to/kalashin1/shuffle-an-array-in-javascript-ekb)
 - [Dev.to/JS] [Comprendere &#39;this&#39; in JavaScript: una guida per padroneggiare il suo comportamento nelle funzioni freccia e anonime](https://dev.to/gg_dev/comprendere-this-in-javascript-una-guida-per-padroneggiare-il-suo-comportamento-nelle-funzioni-freccia-e-anonime-361h)
 - [Dev.to/JS] [Why Lodash?](https://dev.to/nily/why-lodash-2690)
-- [Dev.to/JS] [The first classified-ads web-app in JavaScript](https://dev.to/benbengen/the-first-classified-ads-web-app-in-javascript-45nf)
-- [Dev.to/JS] [One App 5 Frameworks - Chapter 4: Svelte/ SvelteKit](https://dev.to/killswitchh/one-app-5-frameworks-chapter-4-svelte-5gh4)
-- [Dev.to/JS] [The React documentation has been revamped!](https://dev.to/lukeecart/the-react-documentation-has-been-revamped-4n0j)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;18-03-2023&rpar; - Probably Dead](https://dev.to/mjgs/this-weeks-newsletter-is-out-18-03-2023-probably-dead-3cjk)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
