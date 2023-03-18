@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to sniff out the Glue Monster](https://dev.to/timbenniks/how-to-sniff-out-the-glue-monster-4nko)
+- [Dev.to/JS] [Boostaro - Reviews, Benefits, Price, Uses &amp; Where To Buy?](https://dev.to/boostarofa67868/boostaro-reviews-benefits-price-uses-where-to-buy-4cj1)
+- [Dev.to/JS] [Building a Movie App with React and OMBD API: A Step-by-Step Guide](https://dev.to/willochs316/building-a-movie-app-with-react-and-ombd-api-a-step-by-step-guide-2p33)
+- [Dev.to/JS] [InterOp - what can we actually expect this year?](https://dev.to/robole/interop-what-can-we-actually-expect-this-year-1p66)
+- [Dev.to/JS] [HOW TO MAKE BMI CALCULATOR](https://dev.to/anothereader_22/how-to-make-bmi-calculator-4ii6)
 - [Dev.to/JS] [Ever wonder why React&#39;s setState doesn&#39;t update immediately?](https://dev.to/vatana7/ever-wonder-why-reacts-setstate-doesnt-update-immediately-3nbc)
 - [Dev.to/JS] [One App 5 Frameworks - Chapter 5: Qwik](https://dev.to/killswitchh/one-app-5-frameworks-chapter-5-qwik-24oe)
 - [Dev.to/JS] [Uncaught TypeError &lpar;I need help&rpar; &lpar;null&rpar;](https://dev.to/albertoooooooo/uncaught-typeerror-i-need-help-null-ge4)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Common Mistakes to Avoid While Writing JavaScript Code](https://dev.to/dhanushnehru/10-common-mistakes-to-avoid-while-writing-javascript-code-39cg)
 - [Dev.to/JS] [JavaScript `console` Methods: A Comprehensive Guide](https://dev.to/accreditly/javascript-console-methods-a-comprehensive-guide-icj)
 - [Dev.to/JS] [🇫🇷 Comment trier des tableaux en JavaScript](https://dev.to/pierre/trier-tableaux-javascript-5g43)
-- [Dev.to/JS] [Esplorare i Metodi degli Array di JavaScript: La Tua Guida Definitiva - Parte 1](https://dev.to/gg_dev/esplorare-i-metodi-degli-array-di-javascript-la-tua-guida-definitiva-parte-1-16b3)
-- [Dev.to/JS] [Unexpected Moments of JavaScript That Will Challenge Your Understanding of the Language](https://dev.to/codeofrelevancy/unexpected-moments-of-javascript-that-will-challenge-your-understanding-of-the-language-4834)
-- [Dev.to/JS] [Closures🚀](https://dev.to/vikas2426/closures-564e)
-- [Dev.to/JS] [innerhtml hates event listeners](https://dev.to/infinity01012003/innerhtml-hates-event-listeners-1c7p)
-- [Dev.to/JS] [Shuffle An Array In Javascript](https://dev.to/kalashin1/shuffle-an-array-in-javascript-ekb)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
