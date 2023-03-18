@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NestJS vs. Express: Which Framework to Choose for Your Next Project?](https://dev.to/muratcanyuksel/nestjs-vs-express-which-framework-to-choose-for-your-next-project-4ook)
 - [Dev.to/JS] [React and Firestore Part 1](https://dev.to/salehmubashar/react-and-firestore-part-1-5446)
 - [Dev.to/JS] [radio toggle button in react](https://dev.to/taiseen/radio-toggle-button-in-react-227d)
 - [Dev.to/JS] [The button to submit the form on click is disabled](https://dev.to/gullycz/the-button-to-submit-the-form-on-click-is-disabled-2p69)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating Countdown Timer with Vuejs Composables](https://dev.to/andrewzach/creating-countdown-timer-with-vuejs-composables-m52)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Dev.to/JS] [Excellent Effect Management in React with 𝗥𝘅𝑓𝑥 and RxJS](https://dev.to/deanius/excellent-effect-management-in-react-with-and-rxjs-35cn)
-- [Dev.to/JS] [Using uuid in Knex.js and PostgreSQL](https://dev.to/alvesjessica/using-uuid-in-knexjs-and-postgresql-1o46)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
 - [Lifehacker] [You Can Completely Reset Your TikTok ‘For You’ Feed](https://lifehacker.com/you-can-completely-reset-your-tiktok-for-you-feed-1850237165)
 - [Lifehacker] [The One Area You Should Clean When You Feel Too Sad to Clean Anything](https://lifehacker.com/the-one-area-you-should-clean-when-you-feel-too-sad-to-1850236992)
