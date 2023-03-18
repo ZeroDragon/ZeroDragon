@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Country Phone Extension Search Javascript package.](https://dev.to/mayank30/country-phone-extension-search-javascript-package-3pa0)
+- [Dev.to/JS] [TANStack Query: How It Changes the Way You Query APIs](https://dev.to/codewithonye/tanstack-query-how-it-changes-the-way-you-query-apis-5fog)
+- [Dev.to/JS] [[Weekly Js Perf] Fastest way to initialize a Map with initial values](https://dev.to/autumnlight/weekly-js-perf-fastest-way-to-initialize-a-map-with-initial-values-4kel)
 - [Dev.to/JS] [JavaScript hoisting behind the scenes.](https://dev.to/hariszulfiqar054/javascript-hoisting-behind-the-scenes-5b6j)
 - [Dev.to/JS] [var, let and const.](https://dev.to/oluwatrillions/var-let-and-const-27nj)
 - [Dev.to/JS] [Understanding the Number Type in JavaScript](https://dev.to/jessev6/understanding-the-number-type-in-javascript-1ppf)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Constructor Functions Explained with MASALA DOSA](https://dev.to/kamlesh21/constructor-functions-explained-with-masala-dosa-2ald)
 - [Dev.to/JS] [How to Bring Your Business Online?](https://dev.to/ramsharma1983/how-to-bring-your-business-online-4i2l)
 - [Dev.to/JS] [Node.js what?benifits?where?](https://dev.to/saisathish/nodejs-whatbenifitswhere-5560)
-- [Dev.to/JS] [Code Smell 202 - God Constant Class](https://dev.to/mcsee/code-smell-202-god-constant-class-36jk)
-- [Dev.to/JS] [React Server Components and Client Components with Rollup](https://dev.to/mryechkin/react-server-components-and-client-components-with-rollup-3c05)
-- [Dev.to/JS] [Redux Simplified: A Beginner’s Guide to the Core Concepts of Redux](https://dev.to/nesatnayem/redux-simplified-a-beginners-guide-to-the-core-concepts-of-redux-4hg7)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
