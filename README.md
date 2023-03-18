@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Weekend Reading](https://dev.to/sporter/weekend-reading-16i7)
+- [Dev.to/JS] [How to create NPM packages with TypeScript](https://dev.to/p14/how-to-create-npm-packages-with-typescript-2dh9)
 - [Dev.to/JS] [8 Animated Backgrounds to Add Glamour to Your Web Design](https://dev.to/yamaou/8-animated-backgrounds-to-add-glamour-to-your-web-design-28hc)
 - [Dev.to/JS] [Lazy Loading Routes in React: The Key to Faster Load Times](https://dev.to/franciscomendes10866/lazy-loading-routes-in-react-the-key-to-faster-load-times-15bi)
 - [Dev.to/JS] [Express Rest API Simple CRUD using SQLite](https://dev.to/mayank30/express-rest-api-simple-crud-using-sqlite-i94)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to Tensorflow.js](https://dev.to/eteimz/introduction-to-tensorflowjs-443h)
 - [Dev.to/JS] [Country Phone Extension Search Javascript package.](https://dev.to/mayank30/country-phone-extension-search-javascript-package-3pa0)
 - [Dev.to/JS] [TANStack Query: How It Changes the Way You Query APIs](https://dev.to/codewithonye/tanstack-query-how-it-changes-the-way-you-query-apis-5fog)
-- [Dev.to/JS] [[Weekly Js Perf] Fastest way to initialize a Map with initial values](https://dev.to/autumnlight/weekly-js-perf-fastest-way-to-initialize-a-map-with-initial-values-4kel)
-- [Dev.to/JS] [JavaScript hoisting behind the scenes.](https://dev.to/hariszulfiqar054/javascript-hoisting-behind-the-scenes-5b6j)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
