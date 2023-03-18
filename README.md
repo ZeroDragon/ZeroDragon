@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript hoisting behind the scenes.](https://dev.to/hariszulfiqar054/javascript-hoisting-behind-the-scenes-5b6j)
+- [Dev.to/JS] [var, let and const.](https://dev.to/oluwatrillions/var-let-and-const-27nj)
+- [Dev.to/JS] [Understanding the Number Type in JavaScript](https://dev.to/jessev6/understanding-the-number-type-in-javascript-1ppf)
 - [Dev.to/JS] [Next.js Authentication using Higher-Order Components](https://dev.to/theodorusclarence/nextjs-authentication-using-higher-order-components-23ac)
 - [Dev.to/JS] [Paracetamol.js💊| #208: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-208-explica-este-codigo-javascript-3b29)
 - [Dev.to/JS] [Roadmap To Become A Full Stack Web Developer In 2023](https://dev.to/heyitsuzair/roadmap-to-become-a-full-stack-web-developer-in-2023-2237)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code Smell 202 - God Constant Class](https://dev.to/mcsee/code-smell-202-god-constant-class-36jk)
 - [Dev.to/JS] [React Server Components and Client Components with Rollup](https://dev.to/mryechkin/react-server-components-and-client-components-with-rollup-3c05)
 - [Dev.to/JS] [Redux Simplified: A Beginner’s Guide to the Core Concepts of Redux](https://dev.to/nesatnayem/redux-simplified-a-beginners-guide-to-the-core-concepts-of-redux-4hg7)
-- [Dev.to/JS] [Part -3 Become a better you with these 10 visuals](https://dev.to/jon_snow789/part-3-become-a-better-you-with-these-10-visuals-b8o)
-- [Dev.to/JS] [Software Development Best Practices&lpar;DRY, KISS and YAGNI&rpar;](https://dev.to/jodavid444/software-development-best-practicesdry-kiss-and-yagni-5ac4)
-- [Dev.to/JS] [☯️🧘 React.js Components Best Practices: A Developer&#39;s Guide to Zen 🧘☯️](https://dev.to/almonteluis/reactjs-components-best-practices-a-developers-guide-to-zen-2n4m)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
