@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Webmentions in Eleventy](https://dev.to/cdransf/webmentions-in-eleventy-1n8d)
+- [Dev.to/JS] [Starchart: &quot;Mocking&quot; A Database Part 2](https://dev.to/cychu42/starchart-mocking-a-database-part-2-2a88)
+- [Dev.to/JS] [Build Restaurant website](https://dev.to/mertyuusf/build-restaurant-website-23no)
 - [Dev.to/JS] [Testing a button with jest](https://dev.to/lausuarez02/testing-a-button-with-jest-2j1o)
 - [Dev.to/JS] [React is a Framework, a Library, or both?](https://dev.to/d_mind/react-j6b)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
@@ -34,10 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Reference vs Value - Javascript](https://dev.to/ezilemdodana/reference-vs-value-javascript-hmh)
 - [Dev.to/JS] [Make your own jQuery from scratch](https://dev.to/joydeep23/make-your-own-jquery-from-scratch-2nhl)
 - [Dev.to/JS] [Traffic Light - JS](https://dev.to/986913/traffic-light-js-2k8c)
-- [Dev.to/JS] [Auto-add missing imports on file save in VS Code ✨](https://dev.to/krisplatis/auto-add-missing-imports-on-file-save-in-vs-code-1b89)
-- [Dev.to/JS] [Cloudflare Workers Explained Like You&#39;re Five](https://dev.to/maj07/cloudflare-workers-explained-like-youre-five-217g)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
-- [Dev.to/JS] [The new React docs](https://dev.to/thexdev/the-new-react-docs-3e7)
 - [Lifehacker] [You Can Completely Reset Your TikTok ‘For You’ Feed](https://lifehacker.com/you-can-completely-reset-your-tiktok-for-you-feed-1850237165)
 - [Lifehacker] [The One Area You Should Clean When You Feel Too Sad to Clean Anything](https://lifehacker.com/the-one-area-you-should-clean-when-you-feel-too-sad-to-1850236992)
 - [Lifehacker] [15 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
