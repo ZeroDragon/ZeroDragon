@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The button to submit the form on click is disabled](https://dev.to/gullycz/the-button-to-submit-the-form-on-click-is-disabled-2p69)
+- [Dev.to/JS] [Learn More About DevOps](https://dev.to/gixa789/learn-more-about-devops-3e06)
 - [Dev.to/JS] [Webmentions in Eleventy](https://dev.to/cdransf/webmentions-in-eleventy-1n8d)
 - [Dev.to/JS] [Starchart: &quot;Mocking&quot; A Database Part 2](https://dev.to/cychu42/starchart-mocking-a-database-part-2-2a88)
 - [Dev.to/JS] [Build Restaurant website](https://dev.to/mertyuusf/build-restaurant-website-23no)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using uuid in Knex.js and PostgreSQL](https://dev.to/alvesjessica/using-uuid-in-knexjs-and-postgresql-1o46)
 - [Dev.to/JS] [Everything You Need to Know About the Updated React Docs](https://dev.to/kathryngrayson/whats-new-in-the-updated-react-docs-on2)
 - [Dev.to/JS] [Reference vs Value - Javascript](https://dev.to/ezilemdodana/reference-vs-value-javascript-hmh)
-- [Dev.to/JS] [Make your own jQuery from scratch](https://dev.to/joydeep23/make-your-own-jquery-from-scratch-2nhl)
-- [Dev.to/JS] [Traffic Light - JS](https://dev.to/986913/traffic-light-js-2k8c)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
 - [Lifehacker] [You Can Completely Reset Your TikTok ‘For You’ Feed](https://lifehacker.com/you-can-completely-reset-your-tiktok-for-you-feed-1850237165)
 - [Lifehacker] [The One Area You Should Clean When You Feel Too Sad to Clean Anything](https://lifehacker.com/the-one-area-you-should-clean-when-you-feel-too-sad-to-1850236992)
