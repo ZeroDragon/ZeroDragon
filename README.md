@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js Authentication using Higher-Order Components](https://dev.to/theodorusclarence/nextjs-authentication-using-higher-order-components-23ac)
+- [Dev.to/JS] [Paracetamol.js💊| #208: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-208-explica-este-codigo-javascript-3b29)
 - [Dev.to/JS] [Roadmap To Become A Full Stack Web Developer In 2023](https://dev.to/heyitsuzair/roadmap-to-become-a-full-stack-web-developer-in-2023-2237)
 - [Dev.to/JS] [Constructor Functions Explained with MASALA DOSA](https://dev.to/kamlesh21/constructor-functions-explained-with-masala-dosa-2ald)
 - [Dev.to/JS] [How to Bring Your Business Online?](https://dev.to/ramsharma1983/how-to-bring-your-business-online-4i2l)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Part -3 Become a better you with these 10 visuals](https://dev.to/jon_snow789/part-3-become-a-better-you-with-these-10-visuals-b8o)
 - [Dev.to/JS] [Software Development Best Practices&lpar;DRY, KISS and YAGNI&rpar;](https://dev.to/jodavid444/software-development-best-practicesdry-kiss-and-yagni-5ac4)
 - [Dev.to/JS] [☯️🧘 React.js Components Best Practices: A Developer&#39;s Guide to Zen 🧘☯️](https://dev.to/almonteluis/reactjs-components-best-practices-a-developers-guide-to-zen-2n4m)
-- [Dev.to/JS] [React Team Launches New React.dev Site for Improved Learning Experience](https://dev.to/coderj001/react-team-launches-new-reactdev-site-for-improved-learning-experience-50c9)
-- [Dev.to/JS] [Uniform is Nuxt 3 ready](https://dev.to/timbenniks/uniform-is-nuxt-3-ready-25l)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
