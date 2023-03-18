@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ever wonder why React&#39;s setState doesn&#39;t update immediately?](https://dev.to/vatana7/ever-wonder-why-reacts-setstate-doesnt-update-immediately-3nbc)
+- [Dev.to/JS] [One App 5 Frameworks - Chapter 5: Qwik](https://dev.to/killswitchh/one-app-5-frameworks-chapter-5-qwik-24oe)
 - [Dev.to/JS] [Uncaught TypeError &lpar;I need help&rpar; &lpar;null&rpar;](https://dev.to/albertoooooooo/uncaught-typeerror-i-need-help-null-ge4)
 - [Dev.to/JS] [PHP Search Box with MYSQL and AJAX JQuery](https://dev.to/adeleyeayodeji/php-search-box-with-mysql-and-ajax-jquery-3ba0)
 - [Dev.to/JS] [10 Common Mistakes to Avoid While Writing JavaScript Code](https://dev.to/dhanushnehru/10-common-mistakes-to-avoid-while-writing-javascript-code-39cg)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Closures🚀](https://dev.to/vikas2426/closures-564e)
 - [Dev.to/JS] [innerhtml hates event listeners](https://dev.to/infinity01012003/innerhtml-hates-event-listeners-1c7p)
 - [Dev.to/JS] [Shuffle An Array In Javascript](https://dev.to/kalashin1/shuffle-an-array-in-javascript-ekb)
-- [Dev.to/JS] [Comprendere &#39;this&#39; in JavaScript: una guida per padroneggiare il suo comportamento nelle funzioni freccia e anonime](https://dev.to/gg_dev/comprendere-this-in-javascript-una-guida-per-padroneggiare-il-suo-comportamento-nelle-funzioni-freccia-e-anonime-361h)
-- [Dev.to/JS] [Why Lodash?](https://dev.to/nily/why-lodash-2690)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
