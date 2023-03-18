@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to Tensorflow.js](https://dev.to/eteimz/introduction-to-tensorflowjs-443h)
 - [Dev.to/JS] [Country Phone Extension Search Javascript package.](https://dev.to/mayank30/country-phone-extension-search-javascript-package-3pa0)
 - [Dev.to/JS] [TANStack Query: How It Changes the Way You Query APIs](https://dev.to/codewithonye/tanstack-query-how-it-changes-the-way-you-query-apis-5fog)
 - [Dev.to/JS] [[Weekly Js Perf] Fastest way to initialize a Map with initial values](https://dev.to/autumnlight/weekly-js-perf-fastest-way-to-initialize-a-map-with-initial-values-4kel)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Roadmap To Become A Full Stack Web Developer In 2023](https://dev.to/heyitsuzair/roadmap-to-become-a-full-stack-web-developer-in-2023-2237)
 - [Dev.to/JS] [Constructor Functions Explained with MASALA DOSA](https://dev.to/kamlesh21/constructor-functions-explained-with-masala-dosa-2ald)
 - [Dev.to/JS] [How to Bring Your Business Online?](https://dev.to/ramsharma1983/how-to-bring-your-business-online-4i2l)
-- [Dev.to/JS] [Node.js what?benifits?where?](https://dev.to/saisathish/nodejs-whatbenifitswhere-5560)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
