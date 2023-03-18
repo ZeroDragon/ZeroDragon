@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Comprendere &#39;this&#39; in JavaScript: una guida per padroneggiare il suo comportamento nelle funzioni freccia e anonime](https://dev.to/gg_dev/comprendere-this-in-javascript-una-guida-per-padroneggiare-il-suo-comportamento-nelle-funzioni-freccia-e-anonime-361h)
+- [Dev.to/JS] [Why Lodash?](https://dev.to/nily/why-lodash-2690)
+- [Dev.to/JS] [The first classified-ads web-app in JavaScript](https://dev.to/benbengen/the-first-classified-ads-web-app-in-javascript-45nf)
+- [Dev.to/JS] [One App 5 Frameworks - Chapter 4: Svelte/ SvelteKit](https://dev.to/killswitchh/one-app-5-frameworks-chapter-4-svelte-5gh4)
 - [Dev.to/JS] [The React documentation has been revamped!](https://dev.to/lukeecart/the-react-documentation-has-been-revamped-4n0j)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;18-03-2023&rpar; - Probably Dead](https://dev.to/mjgs/this-weeks-newsletter-is-out-18-03-2023-probably-dead-3cjk)
 - [Dev.to/JS] [TINYMCE Editor with angular](https://dev.to/deepakjaiswal/tinymce-editor-with-angular-1cd3)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using JavaScript in Hacking](https://dev.to/incidiousweb/using-javascript-in-hacking-1cba)
 - [Dev.to/JS] [NestJS vs. Express: Which Framework to Choose for Your Next Project?](https://dev.to/muratcanyuksel/nestjs-vs-express-which-framework-to-choose-for-your-next-project-4ook)
 - [Dev.to/JS] [React and Firestore Part 1](https://dev.to/salehmubashar/react-and-firestore-part-1-5446)
-- [Dev.to/JS] [radio toggle button in react](https://dev.to/taiseen/radio-toggle-button-in-react-227d)
-- [Dev.to/JS] [The button to submit the form on click is disabled](https://dev.to/gullycz/the-button-to-submit-the-form-on-click-is-disabled-2p69)
-- [Dev.to/JS] [Learn More About DevOps](https://dev.to/gixa789/learn-more-about-devops-3e06)
-- [Dev.to/JS] [Webmentions in Eleventy](https://dev.to/cdransf/webmentions-in-eleventy-1n8d)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
