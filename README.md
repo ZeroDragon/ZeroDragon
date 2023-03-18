@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dom Diffing Algorithm Implementation In Vanilla JavaScript](https://dev.to/joydeep23/virtual-dom-diffing-algorithm-implementation-in-vanilla-javascript-2324)
+- [Dev.to/JS] [Make your own jQuery from scratch](https://dev.to/joydeep23/make-your-own-jquery-from-scratch-20mh)
+- [Dev.to/JS] [Using JavaScript in Hacking](https://dev.to/incidiousweb/using-javascript-in-hacking-1cba)
 - [Dev.to/JS] [NestJS vs. Express: Which Framework to Choose for Your Next Project?](https://dev.to/muratcanyuksel/nestjs-vs-express-which-framework-to-choose-for-your-next-project-4ook)
 - [Dev.to/JS] [React and Firestore Part 1](https://dev.to/salehmubashar/react-and-firestore-part-1-5446)
 - [Dev.to/JS] [radio toggle button in react](https://dev.to/taiseen/radio-toggle-button-in-react-227d)
@@ -32,11 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Starchart: &quot;Mocking&quot; A Database Part 2](https://dev.to/cychu42/starchart-mocking-a-database-part-2-2a88)
 - [Dev.to/JS] [Build Restaurant website](https://dev.to/mertyuusf/build-restaurant-website-23no)
 - [Dev.to/JS] [Testing a button with jest](https://dev.to/lausuarez02/testing-a-button-with-jest-2j1o)
-- [Dev.to/JS] [React is a Framework, a Library, or both?](https://dev.to/d_mind/react-j6b)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
-- [Dev.to/JS] [Creating Countdown Timer with Vuejs Composables](https://dev.to/andrewzach/creating-countdown-timer-with-vuejs-composables-m52)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
-- [Dev.to/JS] [Excellent Effect Management in React with 𝗥𝘅𝑓𝑥 and RxJS](https://dev.to/deanius/excellent-effect-management-in-react-with-and-rxjs-35cn)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
 - [Lifehacker] [You Can Completely Reset Your TikTok ‘For You’ Feed](https://lifehacker.com/you-can-completely-reset-your-tiktok-for-you-feed-1850237165)
 - [Lifehacker] [The One Area You Should Clean When You Feel Too Sad to Clean Anything](https://lifehacker.com/the-one-area-you-should-clean-when-you-feel-too-sad-to-1850236992)
