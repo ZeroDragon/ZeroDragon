@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let your customers subscribe to an out of stock product with Spree Commerce -- Refactored --](https://dev.to/mirmayne/let-your-customers-subscribe-to-an-out-of-stock-product-with-spree-commerce-refactored--2jp0)
+- [Dev.to/JS] [React release new official documentation](https://dev.to/tusharjagi/react-release-new-official-documentation-5371)
 - [Dev.to/JS] [Revolutionizing APIs: The GraphQL Future](https://dev.to/jagroop2000/revolutionizing-apis-the-graphql-future-2gc9)
 - [Dev.to/JS] [Understanding Value Types and Reference Types in JavaScript](https://dev.to/ajnashibnumer/understanding-value-types-and-reference-types-in-javascript-4cba)
 - [Dev.to/JS] [Custom Software Development Service in the world](https://dev.to/masudulherry/custom-software-development-service-in-the-world-43ef)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Suspense for Data Fetching - React](https://dev.to/ezilemdodana/suspense-for-data-fetching-react-3hie)
 - [Dev.to/JS] [Why useState returns an array in React?](https://dev.to/bezlant/why-usestate-returns-an-array-364b)
 - [Dev.to/JS] [Dark light mode toggle](https://dev.to/rajamanickam/dark-light-mode-toggle-15p0)
-- [Dev.to/JS] [Live Create Personal Portfolio Website Figma Vue Js](https://dev.to/kewcoder/live-create-personal-portfolio-website-figma-vue-js-1kp9)
-- [Dev.to/JS] [Deep dive into How Web Browsers work &lpar;with illustrations&rpar; ⚙️🚀](https://dev.to/ruppysuppy/deep-dive-into-how-web-browsers-work-with-illustrations-249b)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
