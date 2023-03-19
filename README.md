@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Revolutionizing APIs: The GraphQL Future](https://dev.to/jagroop2000/revolutionizing-apis-the-graphql-future-2gc9)
+- [Dev.to/JS] [Understanding Value Types and Reference Types in JavaScript](https://dev.to/ajnashibnumer/understanding-value-types-and-reference-types-in-javascript-4cba)
+- [Dev.to/JS] [Custom Software Development Service in the world](https://dev.to/masudulherry/custom-software-development-service-in-the-world-43ef)
 - [Dev.to/JS] [Say Goodbye to Boring Dropdowns: Create Custom Dropdown Menus with Headless UI](https://dev.to/nitinfab/say-goodbye-to-boring-dropdowns-create-custom-dropdown-menus-with-headless-ui-1p5b)
 - [Dev.to/JS] [You can simply make a extension that will save your lot of time](https://dev.to/skfahimhossain/you-can-simply-make-a-extension-that-will-save-your-lot-of-time-54do)
 - [Dev.to/JS] [Optional vs. Undefined: Understanding TypeScript&#39;s Approach to Required Properties](https://dev.to/nikolasbarwicki/optional-vs-undefined-understanding-typescripts-approach-to-required-properties-l8p)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dark light mode toggle](https://dev.to/rajamanickam/dark-light-mode-toggle-15p0)
 - [Dev.to/JS] [Live Create Personal Portfolio Website Figma Vue Js](https://dev.to/kewcoder/live-create-personal-portfolio-website-figma-vue-js-1kp9)
 - [Dev.to/JS] [Deep dive into How Web Browsers work &lpar;with illustrations&rpar; ⚙️🚀](https://dev.to/ruppysuppy/deep-dive-into-how-web-browsers-work-with-illustrations-249b)
-- [Dev.to/JS] [JavaScript Object Functions Cheat Sheet: Your Ultimate Guide](https://dev.to/sarveshh/javascript-object-functions-cheat-sheet-your-ultimate-guide-27el)
-- [Dev.to/JS] [Unlocking the Full Potential of React with Essential and Overlooked Hooks](https://dev.to/ebube111/unlocking-the-full-potential-of-react-with-essential-and-overlooked-hooks-1gc8)
-- [Dev.to/JS] [Debounce search in react](https://dev.to/huzaima/debounce-search-in-react-49og)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
