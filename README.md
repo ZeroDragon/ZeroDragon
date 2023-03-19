@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optional vs. Undefined: Understanding TypeScript&#39;s Approach to Required Properties](https://dev.to/nikolasbarwicki/optional-vs-undefined-understanding-typescripts-approach-to-required-properties-l8p)
+- [Dev.to/JS] [How to Learn Frontend Web Development from Scratch](https://dev.to/faisaljawedkhan/how-to-learn-frontend-web-development-from-scratch-5fod)
 - [Dev.to/JS] [Suspense for Data Fetching - React](https://dev.to/ezilemdodana/suspense-for-data-fetching-react-3hie)
 - [Dev.to/JS] [Why useState returns an array in React?](https://dev.to/bezlant/why-usestate-returns-an-array-364b)
 - [Dev.to/JS] [Dark light mode toggle](https://dev.to/rajamanickam/dark-light-mode-toggle-15p0)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Debounce search in react](https://dev.to/huzaima/debounce-search-in-react-49og)
 - [Dev.to/JS] [How to build a link-shortening app with React and Bitly API.](https://dev.to/amissah17/how-to-build-a-link-shortening-app-with-react-and-bitly-api-4poe)
 - [Dev.to/JS] [Weekend Reading](https://dev.to/sporter/weekend-reading-16i7)
-- [Dev.to/JS] [How to create NPM packages with TypeScript](https://dev.to/p14/how-to-create-npm-packages-with-typescript-2dh9)
-- [Dev.to/JS] [8 Animated Backgrounds to Add Glamour to Your Web Design](https://dev.to/yamaou/8-animated-backgrounds-to-add-glamour-to-your-web-design-28hc)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
