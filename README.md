@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Say Goodbye to Boring Dropdowns: Create Custom Dropdown Menus with Headless UI](https://dev.to/nitinfab/say-goodbye-to-boring-dropdowns-create-custom-dropdown-menus-with-headless-ui-1p5b)
+- [Dev.to/JS] [You can simply make a extension that will save your lot of time](https://dev.to/skfahimhossain/you-can-simply-make-a-extension-that-will-save-your-lot-of-time-54do)
 - [Dev.to/JS] [Optional vs. Undefined: Understanding TypeScript&#39;s Approach to Required Properties](https://dev.to/nikolasbarwicki/optional-vs-undefined-understanding-typescripts-approach-to-required-properties-l8p)
 - [Dev.to/JS] [How to Learn Frontend Web Development from Scratch](https://dev.to/faisaljawedkhan/how-to-learn-frontend-web-development-from-scratch-5fod)
 - [Dev.to/JS] [Suspense for Data Fetching - React](https://dev.to/ezilemdodana/suspense-for-data-fetching-react-3hie)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Object Functions Cheat Sheet: Your Ultimate Guide](https://dev.to/sarveshh/javascript-object-functions-cheat-sheet-your-ultimate-guide-27el)
 - [Dev.to/JS] [Unlocking the Full Potential of React with Essential and Overlooked Hooks](https://dev.to/ebube111/unlocking-the-full-potential-of-react-with-essential-and-overlooked-hooks-1gc8)
 - [Dev.to/JS] [Debounce search in react](https://dev.to/huzaima/debounce-search-in-react-49og)
-- [Dev.to/JS] [How to build a link-shortening app with React and Bitly API.](https://dev.to/amissah17/how-to-build-a-link-shortening-app-with-react-and-bitly-api-4poe)
-- [Dev.to/JS] [Weekend Reading](https://dev.to/sporter/weekend-reading-16i7)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
