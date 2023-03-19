@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlocking the Full Potential of React with Essential and Overlooked Hooks](https://dev.to/ebube111/unlocking-the-full-potential-of-react-with-essential-and-overlooked-hooks-1gc8)
 - [Dev.to/JS] [Debounce search in react](https://dev.to/huzaima/debounce-search-in-react-49og)
 - [Dev.to/JS] [How to build a link-shortening app with React and Bitly API.](https://dev.to/amissah17/how-to-build-a-link-shortening-app-with-react-and-bitly-api-4poe)
 - [Dev.to/JS] [Weekend Reading](https://dev.to/sporter/weekend-reading-16i7)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlocking The Power of Conversational AI: A Look at GPT-4 in Azure HealthBot](https://dev.to/gerelltroche/the-power-of-conversational-ai-a-look-at-gpt-4-in-azure-healthbot-2ffe)
 - [Dev.to/JS] [Validate Disposable Email with Regex.](https://dev.to/mayank30/validate-disposable-email-with-regex-4e9p)
 - [Dev.to/JS] [DALL-E with node.js](https://dev.to/djibrilm/dall-e-with-nodejs-5chb)
-- [Dev.to/JS] [Introduction to Tensorflow.js](https://dev.to/eteimz/introduction-to-tensorflowjs-443h)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
