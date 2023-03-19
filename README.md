@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Signup Form](https://dev.to/986913/signup-form-38j4)
+- [Dev.to/JS] [Curso Backend com NodeJS Gratuito](https://dev.to/tuliocalil/curso-backend-com-nodejs-gratuito-193a)
+- [Dev.to/JS] [Understanding Data type](https://dev.to/ebakecode/understanding-data-type-d1p)
+- [Dev.to/JS] [You Don&#39;t know JS](https://dev.to/juratbekoff/you-dont-know-js-2b6g)
 - [Dev.to/JS] [Scheduled Eleventy builds on Vercel with cron-triggered GitHub actions](https://dev.to/cdransf/scheduled-eleventy-builds-on-vercel-with-cron-triggered-github-actions-54ho)
 - [Dev.to/JS] [Building my /now page using Eleventy](https://dev.to/cdransf/building-my-now-page-using-eleventy-4nj9)
 - [Dev.to/JS] [Setting a Theme in Svelte using Hooks](https://dev.to/brewhousedigital/setting-a-theme-in-svelte-using-hooks-162i)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to manipulate arrays using array methods in JavaScript](https://dev.to/kingdanny295/how-to-manipulate-arrays-using-array-methods-in-javascript-29pa)
 - [Dev.to/JS] [Secure Authentication in Svelte using Hooks](https://dev.to/brewhousedigital/secure-authentication-in-svelte-using-hooks-k5j)
 - [Dev.to/JS] [4 Ways to Automate Visual Regression Tests](https://dev.to/willkre/4-ways-to-automate-visual-regression-tests-39f5)
-- [Dev.to/JS] [Mobile Web Page Debugging Without a Desktop or USB Cable](https://dev.to/rouilj/mobile-web-page-debugging-without-a-desktop-or-usb-cable-4ckl)
-- [Dev.to/JS] [How to Integrate PayPal into Your HTML, CSS, and JS Product Pages](https://dev.to/durgesh4993/how-to-integrate-paypal-into-your-html-css-and-js-product-pages-863)
-- [Dev.to/JS] [Major difference between Encryption, Hashing and Salting](https://dev.to/famakinwaris/major-difference-between-encryption-hashing-and-salting-4heg)
-- [Dev.to/JS] [JavaScript Type Conversions](https://dev.to/ocxigin/javascript-type-conversions-1p3g)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
