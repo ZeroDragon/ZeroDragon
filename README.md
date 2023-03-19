@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optimizing React Apps: Tree Shaking and Bundle Splitting Essentials](https://dev.to/franciscomendes10866/optimizing-react-apps-tree-shaking-and-bundle-splitting-essentials-3bg)
+- [Dev.to/JS] [Yet Another Newsletter LOL: Good Looking Content](https://dev.to/nickytonline/yet-another-newsletter-lol-good-looking-content-1bib)
 - [Dev.to/JS] [How to comment in Javascript?](https://dev.to/mbuguadennis/how-to-comment-in-javascript-1c6c)
 - [Dev.to/JS] [Handling exception in Node Js Express](https://dev.to/codeagboro/handling-exception-in-node-js-express-4nmf)
 - [Dev.to/JS] [Debugging Web Applications.](https://dev.to/aniketsingh98571/debugging-web-applications-2g96)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Custom Software Development Service in the world](https://dev.to/masudulherry/custom-software-development-service-in-the-world-43ef)
 - [Dev.to/JS] [Say Goodbye to Boring Dropdowns: Create Custom Dropdown Menus with Headless UI](https://dev.to/nitinfab/say-goodbye-to-boring-dropdowns-create-custom-dropdown-menus-with-headless-ui-1p5b)
 - [Dev.to/JS] [You can simply make a extension that will save your lot of time](https://dev.to/skfahimhossain/you-can-simply-make-a-extension-that-will-save-your-lot-of-time-54do)
-- [Dev.to/JS] [Optional vs. Undefined: Understanding TypeScript&#39;s Approach to Required Properties](https://dev.to/nikolasbarwicki/optional-vs-undefined-understanding-typescripts-approach-to-required-properties-l8p)
-- [Dev.to/JS] [How to Learn Frontend Web Development from Scratch](https://dev.to/faisaljawedkhan/how-to-learn-frontend-web-development-from-scratch-5fod)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
