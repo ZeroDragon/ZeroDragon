@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Generate Table - JS](https://dev.to/986913/generate-table-js-olf)
+- [Dev.to/JS] [16 React Tools to Help You Keep Your Sanity in a Crazy World](https://dev.to/rahul3002/16-react-tools-to-help-you-keep-your-sanity-in-a-crazy-world-33o4)
+- [Dev.to/JS] [Free Tailwind CSS personal portfolio template](https://dev.to/medmya/free-tailwind-css-personal-portfolio-template-2al1)
+- [Dev.to/JS] [🍕 A Slice of React: Master JSX and Props with a Tasty Twist!](https://dev.to/almonteluis/a-slice-of-react-master-jsx-and-props-with-a-tasty-twist-1i6h)
 - [Dev.to/JS] [Handling Communication Between Microfrontends and Wrapper Application](https://dev.to/johnantony92/handling-communication-between-microfrontends-and-wrapper-application-1c)
 - [Dev.to/JS] [Learn the basics of Axios in just 4 simple methods](https://dev.to/devxvaibhav/learn-the-basics-of-axios-in-just-4-simple-methods-3bdh)
 - [Dev.to/JS] [Managing Projects in the JavaScript Ecosystem with Monorepos: Challenges and some Tips](https://dev.to/franciscomendes10866/managing-projects-in-the-javascript-ecosystem-with-monorepos-challenges-and-some-tips-58o2)
 - [Dev.to/JS] [Weekly Awesome JS KT Part-2: Promise.all&lpar;&rpar; vs multiple awaits](https://dev.to/ishanextreme/weekly-awesome-js-kt-part-2-promiseall-vs-multiple-awaits-mo4)
 - [Dev.to/JS] [Working Of Compiler In JavaScript](https://dev.to/voidmain1812/working-of-compiler-in-javascript-kmo)
 - [Dev.to/JS] [Using advanced ES6 functions and unit testing in a UI app](https://dev.to/lawrencekarasek/using-advanced-es6-functions-and-unit-testing-in-a-ui-app-1kbc)
+- [Dev.to/JS] [“JavaScript for Beginners: 5 Common Mistakes to Avoid When Starting Your Development Journey”](https://dev.to/tmayank860/javascript-for-beginners-5-common-mistakes-to-avoid-when-starting-your-development-journey-2a4b)
 - [Dev.to/JS] [Esplorare i Metodi degli Array di JavaScript: La Tua Guida Definitiva - Parte 2](https://dev.to/gg_dev/esplorare-i-metodi-degli-array-di-javascript-la-tua-guida-definitiva-parte-2-2a6g)
-- [Dev.to/JS] [Functions in Supabase](https://dev.to/guillaumeduhan/functions-in-supabase-2ja8)
-- [Dev.to/JS] [Optimizing React Apps: Tree Shaking and Bundle Splitting Essentials](https://dev.to/franciscomendes10866/optimizing-react-apps-tree-shaking-and-bundle-splitting-essentials-3bg)
-- [Dev.to/JS] [Yet Another Newsletter LOL: Good Looking Content](https://dev.to/nickytonline/yet-another-newsletter-lol-good-looking-content-1bib)
-- [Dev.to/JS] [How to comment in Javascript?](https://dev.to/mbuguadennis/how-to-comment-in-javascript-1c6c)
-- [Dev.to/JS] [Handling exception in Node Js Express](https://dev.to/codeagboro/handling-exception-in-node-js-express-4nmf)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
