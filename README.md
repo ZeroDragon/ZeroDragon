@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Remover vocales de un String con JavaScript](https://dev.to/asjordi/remover-vocales-de-un-string-con-javascript-4lbh)
+- [Lifehacker] [Teas Aren’t As Useful As You Might Think](https://lifehacker.com/teas-aren-t-as-useful-as-you-might-think-1850205204)
+- [Dev.to/JS] [TypeScript 5.0 for JavaScript devs](https://dev.to/voxpelli/typescript-50-for-javascript-devs-3661)
+- [Dev.to/JS] [Welcome to the world of tours](https://dev.to/sagarhost/welcome-to-the-world-of-tours-54i5)
+- [Dev.to/JS] [Call for Presentations - React Summit US Edition November 13 &amp; 15, 2023](https://dev.to/reactsummit/call-for-presentations-react-summit-us-edition-november-13-15-2023-g87)
+- [Lifehacker] [How to Do a Saltwater Rinse &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-do-a-saltwater-rinse-and-when-you-should-1850195735)
 - [Lifehacker] [A Beginner&#39;s Guide to Using a Neti Pot to Clear Your Sinuses](https://lifehacker.com/a-beginners-guide-to-using-a-neti-pot-to-clear-your-sin-1850179574)
 - [Dev.to/JS] [Unleashing the Power of Memphis.dev: A Guide for Developers and Data Engineers](https://dev.to/judevector/unleashing-the-power-of-memphisdev-a-guide-for-developers-and-data-engineers-2m77)
 - [Lifehacker] [What to Do If You Just Can&#39;t Poop](https://lifehacker.com/what-to-do-if-you-just-cant-poop-1850182662)
@@ -37,12 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [FizzBuzz Algorithm](https://dev.to/alisamirali/fizzbuzz-algorithm-3jo7)
 - [Lifehacker] [Home Remedies Are Actually Better for Kids Than Cold Medicine](https://lifehacker.com/home-remedies-are-actually-better-for-kids-than-cold-me-1850146661)
 - [Dev.to/JS] [JavaScript Dependency Management with npm and Yarn](https://dev.to/thawkin3/javascript-dependency-management-with-npm-and-yarn-2iig)
-- [Dev.to/JS] [Paracetamol.ts💊| #31: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-31-explica-este-codigo-typescript-1b0)
 - [Lifehacker] [15 Popular Home Remedies, and Whether or Not They Actually Work](https://lifehacker.com/15-popular-home-remedies-and-whether-or-not-they-actua-1850192541)
-- [Dev.to/JS] [How to create a cron job in Vercel](https://dev.to/cemdev/how-to-create-a-cron-job-in-vercel-57le)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Sequência de Equação.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-sequencia-de-equacao-3ga)
 - [Lifehacker] [Home Remedies and Homeopathy Aren’t the Same Thing, and One of Them Is BS](https://lifehacker.com/home-remedies-and-homeopathy-aren-t-the-same-thing-and-1850147006)
-- [Dev.to/JS] [React and Firestore Part 1](https://dev.to/salehmubashar/react-and-firestore-part-1-2ab2)
 - [Lifehacker] [Your Complete Guide to Home Remedies: Safe, Dangerous, Fake, and Everything in Between](https://lifehacker.com/your-complete-guide-to-home-remedies-safe-dangerous-1850157618)
 - [Crazy Programmer] [7 Different Types of Computer](https://www.thecrazyprogrammer.com/2023/03/types-of-computer.html)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is Your Tea Dead?](https://lifehacker.com/is-your-tea-dead-1850224958)
 - [Lifehacker] [Get a Settlement for That Bulky CRT TV You Bought Ages Ago](https://lifehacker.com/get-a-settlement-for-that-bulky-crt-tv-you-bought-ages-1850225402)
 - [Lifehacker] [10 Fast-Growing Plants for Instant Garden Gratification](https://lifehacker.com/10-fast-growing-plants-for-instant-garden-gratification-1850175200)
-- [Lifehacker] [How to Tell If Your Child Has Oppositional Defiant Disorder](https://lifehacker.com/how-to-tell-if-your-child-has-oppositional-defiant-diso-1850226002)
-- [Lifehacker] [These Sauces Are Mother, You Listen to Them](https://lifehacker.com/these-sauces-are-mother-you-listen-to-them-1850219813)
-- [Lifehacker] [Roll, Don&#39;t &#39;File,&#39; Clothes in Your Drawer](https://lifehacker.com/roll-dont-file-clothes-in-your-drawer-1850224384)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If Your Child Has Oppositional Defiant Disorder](https://lifehacker.com/how-to-tell-if-your-child-has-oppositional-defiant-diso-1850226002)<!-- TECH-POSTS:END -->
 
 ---
 
