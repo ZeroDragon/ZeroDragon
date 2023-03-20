@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Uso Assíncrono: Entenda a diferença sobre Callbacks, Promises e Async/Await!](https://dev.to/altencirsilvajr/uso-assincrono-entenda-a-diferenca-sobre-callbacks-promises-e-asyncawait-439l)
+- [Dev.to/JS] [Astro-Storyblok Previews Site with Netlify&#39;s Branch Deploys Feature](https://dev.to/sandrarodgers/astro-storyblok-previews-site-with-netlifys-branch-deploys-feature-44dh)
+- [Dev.to/JS] [Improve performance using javascript Maps](https://dev.to/squackycom/improve-performance-using-javascript-maps-pj)
+- [Lifehacker] [Marinate Your Dried Herbs for Better Vinaigrettes](https://lifehacker.com/marinate-your-dried-herbs-for-better-vinaigrettes-1850238997)
+- [Lifehacker] [10 Home Remedies That May Do More Harm Than Good](https://lifehacker.com/10-home-remedies-that-may-do-more-harm-than-good-1850157348)
 - [Dev.to/JS] [Declaring variables in JavaScript &lpar;What happens when you don’t&rpar;](https://dev.to/jesseilc123/declaring-variables-in-javascript-what-happens-when-you-dont-1e6h)
 - [Dev.to/JS] [Optimistic and Pessimistic UI Rendering](https://dev.to/manishkc104/optimistic-and-pessimistic-ui-rendering-2n55)
 - [Lifehacker] [Do Essential Oils Actually Do Anything?](https://lifehacker.com/do-essential-oils-actually-do-anything-1850174659)
@@ -37,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Beginner&#39;s Guide to Using a Neti Pot to Clear Your Sinuses](https://lifehacker.com/a-beginners-guide-to-using-a-neti-pot-to-clear-your-sin-1850179574)
 - [Dev.to/JS] [Unleashing the Power of Memphis.dev: A Guide for Developers and Data Engineers](https://dev.to/judevector/unleashing-the-power-of-memphisdev-a-guide-for-developers-and-data-engineers-2m77)
 - [Lifehacker] [What to Do If You Just Can&#39;t Poop](https://lifehacker.com/what-to-do-if-you-just-cant-poop-1850182662)
-- [Dev.to/JS] [Como evitar SQL Injection utilizando client do BigQuery](https://dev.to/gabrielferreiraa/como-evitar-sql-injection-utilizando-client-do-bigquery-27jn)
 - [Lifehacker] [The Easiest Way to Get Rid of a Wart on Your Own](https://lifehacker.com/the-easiest-way-to-get-rid-of-a-wart-on-your-own-1850151669)
-- [Dev.to/JS] [New Suspense Hooks for Meteor](https://dev.to/grubba/new-suspense-hooks-for-meteor-3ddg)
-- [Dev.to/JS] [Making Promises Suspendable](https://dev.to/grubba/making-promises-suspendable-452f)
 - [Lifehacker] [When to Use Ice on an Injury, and When to Use Heat](https://lifehacker.com/when-to-use-ice-on-an-injury-and-when-to-use-heat-1850155779)
 - [Lifehacker] [The Best Ways to Relieve Itchy Skin Without a Prescription](https://lifehacker.com/the-best-ways-to-relieve-itchy-skin-without-a-prescript-1850146899)
 - [Lifehacker] [Home Remedies Are Actually Better for Kids Than Cold Medicine](https://lifehacker.com/home-remedies-are-actually-better-for-kids-than-cold-me-1850146661)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
 - [Lifehacker] [Store Blankets by Turning Them Into &#39;Pillows&#39;](https://lifehacker.com/store-blankets-by-turning-them-into-pillows-1850228558)
 - [Crazy Programmer] [What is Network Flapping?](https://www.thecrazyprogrammer.com/2023/03/network-flapping.html)
-- [Lifehacker] [Is Your Tea Dead?](https://lifehacker.com/is-your-tea-dead-1850224958)
-- [Lifehacker] [Get a Settlement for That Bulky CRT TV You Bought Ages Ago](https://lifehacker.com/get-a-settlement-for-that-bulky-crt-tv-you-bought-ages-1850225402)
-- [Lifehacker] [10 Fast-Growing Plants for Instant Garden Gratification](https://lifehacker.com/10-fast-growing-plants-for-instant-garden-gratification-1850175200)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Is Your Tea Dead?](https://lifehacker.com/is-your-tea-dead-1850224958)<!-- TECH-POSTS:END -->
 
 ---
 
