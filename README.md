@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Ref: Everything You Need to Know in Simple Terms](https://dev.to/thelamina/react-ref-everything-you-need-to-know-in-simple-terms-doi)
+- [Crazy Programmer] [7 Different Types of Computer](https://www.thecrazyprogrammer.com/2023/03/types-of-computer.html)
 - [Dev.to/JS] [DOM Manipulation](https://dev.to/ahmed_onour/dom-manipulation-3ee8)
 - [Dev.to/JS] [Top 5 React Admin Dashboard Libraries in 2023](https://dev.to/refine/top-5-react-admin-dashboard-libraries-in-2023-2ekb)
 - [Dev.to/JS] [Promises vs Async callbacks](https://dev.to/souravbandyopadhyay/promises-vs-async-callbacks-2366)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How can natural language processing &lpar;NLP&rpar; be used to improve communication between humans and computers?](https://dev.to/baljeet975/how-can-natural-language-processing-nlp-be-used-to-improve-communication-between-humans-and-computers-9e0)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Mar 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-mar-2023-42g9)
 - [Dev.to/JS] [Unleashing Twitter&#39;s Data: How to Access the Twitter API with JavaScript](https://dev.to/nimeshbrt/unleashing-twitters-data-how-to-access-the-twitter-api-with-javascript-24mp)
-- [Dev.to/JS] [The beginning to project 2](https://dev.to/msanyal7/the-beginning-to-project-2-3eg4)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [21 of the Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [What’s a Home Equity Investment, and Is It Ever a Good Idea?](https://lifehacker.com/what-s-a-home-equity-investment-and-is-it-ever-a-good-1850219402)
 - [Lifehacker] [Don’t Use This TikTok &#39;Hack&#39; to Fix a Leaky Pipe](https://lifehacker.com/don-t-use-this-tiktok-hack-to-fix-a-leaky-pipe-1850218501)
-- [Lifehacker] [How You Can Really Help a Friend Who&#39;s Been Laid Off](https://lifehacker.com/how-you-can-really-help-a-friend-whos-been-laid-off-1850217478)
-- [Lifehacker] [These Interactive Tools Reveal Your Home’s Future Flood, Heat, and Wind Risk](https://lifehacker.com/these-interactive-tools-reveal-your-home-s-future-flood-1850214492)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How You Can Really Help a Friend Who&#39;s Been Laid Off](https://lifehacker.com/how-you-can-really-help-a-friend-whos-been-laid-off-1850217478)<!-- TECH-POSTS:END -->
 
 ---
 
