@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on Hulu in April 2023](https://lifehacker.com/whats-new-on-hulu-in-april-2023-1850245415)
+- [Dev.to/JS] [Javascript Factory Design Pattern](https://dev.to/bvnkumar/javascript-factory-design-pattern-31n4)
+- [Dev.to/JS] [Angular.json structure for beginners - what we can set](https://dev.to/tomwebwalker/angularjson-structure-for-beginners-what-we-can-set-27f3)
 - [Dev.to/JS] [ChatGPT - Complex Coding Challenges: 4 KYU](https://dev.to/damiensedgwick/chatgpt-complex-coding-challenges-4-kyu-2e5m)
 - [Lifehacker] [Foods You Should Be Grating, But Probably Aren&#39;t](https://lifehacker.com/foods-you-should-be-grating-aside-from-cheese-1850214371)
 - [Dev.to/JS] [Spice Up Your Svelte App with Sound Interactions using svelte-sound 😎](https://dev.to/rajaniraiyn/spice-up-your-svelte-app-with-sound-interactions-using-svelte-sound-4i6b)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Trick: Guessing Users&#39; Country Calling Codes by Time Zone](https://dev.to/suikodev/javascript-trick-guessing-users-country-calling-codes-by-time-zone-2p9a)
 - [Dev.to/JS] [What Is Requirement Management](https://dev.to/sardarmudassaralikhan/what-is-requirement-management-5de)
 - [Dev.to/JS] [Desestruturação em Javascript](https://dev.to/matheusm/desestruturacao-em-javascript-48f7)
-- [Dev.to/JS] [Web Dev Projects For Beginners](https://dev.to/hyggedev/web-dev-projects-for-beginners-5fop)
-- [Dev.to/JS] [Uso Assíncrono: Entenda a diferença sobre Callbacks, Promises e Async/Await!](https://dev.to/altencirsilvajr/uso-assincrono-entenda-a-diferenca-sobre-callbacks-promises-e-asyncawait-439l)
 - [Lifehacker] [Marinate Your Dried Herbs for Better Vinaigrettes](https://lifehacker.com/marinate-your-dried-herbs-for-better-vinaigrettes-1850238997)
 - [Lifehacker] [10 Home Remedies That May Do More Harm Than Good](https://lifehacker.com/10-home-remedies-that-may-do-more-harm-than-good-1850157348)
 - [Lifehacker] [Do Essential Oils Actually Do Anything?](https://lifehacker.com/do-essential-oils-actually-do-anything-1850174659)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;SpaceEngine&#39; Is Your Ticket to Exploring the Universe](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
 - [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)
 - [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
-- [Lifehacker] [Store Blankets by Turning Them Into &#39;Pillows&#39;](https://lifehacker.com/store-blankets-by-turning-them-into-pillows-1850228558)
-- [Crazy Programmer] [What is Network Flapping?](https://www.thecrazyprogrammer.com/2023/03/network-flapping.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Store Blankets by Turning Them Into &#39;Pillows&#39;](https://lifehacker.com/store-blankets-by-turning-them-into-pillows-1850228558)<!-- TECH-POSTS:END -->
 
 ---
 
