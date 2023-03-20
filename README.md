@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [A Beginner&#39;s Guide to Using a Neti Pot to Clear Your Sinuses](https://lifehacker.com/a-beginners-guide-to-using-a-neti-pot-to-clear-your-sin-1850179574)
+- [Dev.to/JS] [Unleashing the Power of Memphis.dev: A Guide for Developers and Data Engineers](https://dev.to/judevector/unleashing-the-power-of-memphisdev-a-guide-for-developers-and-data-engineers-2m77)
+- [Lifehacker] [What to Do If You Just Can&#39;t Poop](https://lifehacker.com/what-to-do-if-you-just-cant-poop-1850182662)
+- [Dev.to/JS] [Como evitar SQL Injection utilizando client do BigQuery](https://dev.to/gabrielferreiraa/como-evitar-sql-injection-utilizando-client-do-bigquery-27jn)
 - [Lifehacker] [The Easiest Way to Get Rid of a Wart on Your Own](https://lifehacker.com/the-easiest-way-to-get-rid-of-a-wart-on-your-own-1850151669)
 - [Dev.to/JS] [New Suspense Hooks for Meteor](https://dev.to/grubba/new-suspense-hooks-for-meteor-3ddg)
 - [Dev.to/JS] [Making Promises Suspendable](https://dev.to/grubba/making-promises-suspendable-452f)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Sequência de Equação.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-sequencia-de-equacao-3ga)
 - [Lifehacker] [Home Remedies and Homeopathy Aren’t the Same Thing, and One of Them Is BS](https://lifehacker.com/home-remedies-and-homeopathy-aren-t-the-same-thing-and-1850147006)
 - [Dev.to/JS] [React and Firestore Part 1](https://dev.to/salehmubashar/react-and-firestore-part-1-2ab2)
-- [Dev.to/JS] [Setting up ESLINT with TS/JS in your React project in 2023](https://dev.to/anukr98/setting-up-eslint-with-tsjs-in-your-react-project-in-2023-57o)
-- [Dev.to/JS] [Build AI Template Engine to create amazing content with Next.js and ChatGPT](https://dev.to/suede/build-ai-template-engine-to-create-amazing-content-with-nextjs-and-chatgpt-3f89)
 - [Lifehacker] [Your Complete Guide to Home Remedies: Safe, Dangerous, Fake, and Everything in Between](https://lifehacker.com/your-complete-guide-to-home-remedies-safe-dangerous-1850157618)
 - [Crazy Programmer] [7 Different Types of Computer](https://www.thecrazyprogrammer.com/2023/03/types-of-computer.html)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Fast-Growing Plants for Instant Garden Gratification](https://lifehacker.com/10-fast-growing-plants-for-instant-garden-gratification-1850175200)
 - [Lifehacker] [How to Tell If Your Child Has Oppositional Defiant Disorder](https://lifehacker.com/how-to-tell-if-your-child-has-oppositional-defiant-diso-1850226002)
 - [Lifehacker] [These Sauces Are Mother, You Listen to Them](https://lifehacker.com/these-sauces-are-mother-you-listen-to-them-1850219813)
-- [Lifehacker] [Roll, Don&#39;t &#39;File,&#39; Clothes in Your Drawer](https://lifehacker.com/roll-dont-file-clothes-in-your-drawer-1850224384)
-- [Lifehacker] [The Lesser-Known Apps Everyone Should Install on a New Windows PC](https://lifehacker.com/the-lesser-known-apps-everyone-should-install-on-a-new-1850223434)
-- [Lifehacker] [How to Quit &#39;Revenge Spending&#39;](https://lifehacker.com/how-to-quit-revenge-spending-1850219784)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Roll, Don&#39;t &#39;File,&#39; Clothes in Your Drawer](https://lifehacker.com/roll-dont-file-clothes-in-your-drawer-1850224384)<!-- TECH-POSTS:END -->
 
 ---
 
