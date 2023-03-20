@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JSON compression in the browser, with gzip and the Compression Streams API.](https://dev.to/samternent/json-compression-in-the-browser-with-gzip-and-the-compression-streams-api-4135)
 - [Dev.to/JS] [Writing A Custom Paragraph Component in React](https://dev.to/ademoyejohn/writing-a-custom-paragraph-component-in-react-4026)
 - [Dev.to/JS] [Creating a Link Preview App: An Easy Step-by-Step Guide](https://dev.to/sanket_dev/creating-a-link-preview-app-an-easy-step-by-step-guide-1kge)
 - [Dev.to/JS] [Reducing a cryptic memory leak](https://dev.to/craigmorten/reducing-a-cryptic-memory-leak-237o)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Signup Form](https://dev.to/986913/signup-form-38j4)
 - [Dev.to/JS] [Curso Backend com NodeJS Gratuito](https://dev.to/tuliocalil/curso-backend-com-nodejs-gratuito-193a)
 - [Dev.to/JS] [Understanding Data type](https://dev.to/ebakecode/understanding-data-type-d1p)
-- [Dev.to/JS] [You Don&#39;t know JS](https://dev.to/juratbekoff/you-dont-know-js-2b6g)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
