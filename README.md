@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tealium iQ basics concepts pt 1](https://dev.to/laisramos123/tealium-iq-basics-concepts-pt-1-3elg)
+- [Dev.to/JS] [Tetris timer - the first part](https://dev.to/firemark/tetris-timer-the-first-part-haf)
 - [Lifehacker] [What&#39;s New on Hulu in April 2023](https://lifehacker.com/whats-new-on-hulu-in-april-2023-1850245415)
 - [Dev.to/JS] [Javascript Factory Design Pattern](https://dev.to/bvnkumar/javascript-factory-design-pattern-31n4)
 - [Dev.to/JS] [Angular.json structure for beginners - what we can set](https://dev.to/tomwebwalker/angularjson-structure-for-beginners-what-we-can-set-27f3)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Blockchain using JavaScript Class](https://dev.to/callezenwaka/understanding-blockchain-using-javascript-class-1lak)
 - [Dev.to/JS] [What are software process models?](https://dev.to/sardarmudassaralikhan/what-are-software-process-models-53e5)
 - [Dev.to/JS] [JavaScript Trick: Guessing Users&#39; Country Calling Codes by Time Zone](https://dev.to/suikodev/javascript-trick-guessing-users-country-calling-codes-by-time-zone-2p9a)
-- [Dev.to/JS] [What Is Requirement Management](https://dev.to/sardarmudassaralikhan/what-is-requirement-management-5de)
-- [Dev.to/JS] [Desestruturação em Javascript](https://dev.to/matheusm/desestruturacao-em-javascript-48f7)
 - [Lifehacker] [Marinate Your Dried Herbs for Better Vinaigrettes](https://lifehacker.com/marinate-your-dried-herbs-for-better-vinaigrettes-1850238997)
 - [Lifehacker] [10 Home Remedies That May Do More Harm Than Good](https://lifehacker.com/10-home-remedies-that-may-do-more-harm-than-good-1850157348)
 - [Lifehacker] [Do Essential Oils Actually Do Anything?](https://lifehacker.com/do-essential-oils-actually-do-anything-1850174659)
