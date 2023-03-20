@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Display PDF in React or Vuejs Application using PDF.js](https://dev.to/stephengade/how-to-display-pdf-in-react-or-vuejs-application-using-pdfjs-4d6c)
+- [Dev.to/JS] [HOW TO ADD LOCKS TO RESOURCE GROUP](https://dev.to/dunk_wee/how-to-add-locks-to-resource-group-248a)
+- [Dev.to/JS] [Top React UI Libraries for Simplifying Frontend Development and How to Implement Them](https://dev.to/david_bilsonn/top-react-ui-libraries-for-simplifying-frontend-development-and-how-to-implement-them-48g6)
+- [Dev.to/JS] [Async-first communication &lpar;Comunicação assíncrona&rpar;](https://dev.to/wilsonlucena/async-first-communication-comunicacao-assincrona-1cl2)
 - [Dev.to/JS] [JSON compression in the browser, with gzip and the Compression Streams API.](https://dev.to/samternent/json-compression-in-the-browser-with-gzip-and-the-compression-streams-api-4135)
 - [Dev.to/JS] [Writing A Custom Paragraph Component in React](https://dev.to/ademoyejohn/writing-a-custom-paragraph-component-in-react-4026)
 - [Dev.to/JS] [Creating a Link Preview App: An Easy Step-by-Step Guide](https://dev.to/sanket_dev/creating-a-link-preview-app-an-easy-step-by-step-guide-1kge)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Project 2 Intro](https://dev.to/epicman2boop/project-2-intro-47d1)
 - [Dev.to/JS] [What are Elements?](https://dev.to/abflatiron/what-are-elements-1hpf)
 - [Dev.to/JS] [Design Patterns in C# Programming](https://dev.to/sardarmudassaralikhan/design-patterns-in-c-programming-204g)
-- [Dev.to/JS] [Microsoft Azure Functions](https://dev.to/sardarmudassaralikhan/microsoft-azure-functions-5g2n)
-- [Dev.to/JS] [Signup Form](https://dev.to/986913/signup-form-38j4)
-- [Dev.to/JS] [Curso Backend com NodeJS Gratuito](https://dev.to/tuliocalil/curso-backend-com-nodejs-gratuito-193a)
-- [Dev.to/JS] [Understanding Data type](https://dev.to/ebakecode/understanding-data-type-d1p)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
