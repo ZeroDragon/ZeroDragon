@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lightning Web Components: Custom Nested Components](https://dev.to/lukethacoder/lightning-web-components-custom-nested-components-171n)
+- [Dev.to/JS] [html+css+js=ola mundo](https://dev.to/99mvps/htmlcssjsola-mundo-291m)
+- [Dev.to/JS] [What!? ReactJS isn’t for SPAs anymore?](https://dev.to/talk2megooseman/what-reactjs-isnt-for-spas-anymore-325a)
 - [Dev.to/JS] [How to Display PDF in React or Vuejs Application using PDF.js](https://dev.to/stephengade/how-to-display-pdf-in-react-or-vuejs-application-using-pdfjs-4d6c)
 - [Dev.to/JS] [HOW TO ADD LOCKS TO RESOURCE GROUP](https://dev.to/dunk_wee/how-to-add-locks-to-resource-group-248a)
 - [Dev.to/JS] [Top React UI Libraries for Simplifying Frontend Development and How to Implement Them](https://dev.to/david_bilsonn/top-react-ui-libraries-for-simplifying-frontend-development-and-how-to-implement-them-48g6)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Link Preview App: An Easy Step-by-Step Guide](https://dev.to/sanket_dev/creating-a-link-preview-app-an-easy-step-by-step-guide-1kge)
 - [Dev.to/JS] [Reducing a cryptic memory leak](https://dev.to/craigmorten/reducing-a-cryptic-memory-leak-237o)
 - [Dev.to/JS] [Tuples in TypeScript](https://dev.to/tomoy/tuples-in-typescript-1gn7)
-- [Dev.to/JS] [Project 2 Intro](https://dev.to/epicman2boop/project-2-intro-47d1)
-- [Dev.to/JS] [What are Elements?](https://dev.to/abflatiron/what-are-elements-1hpf)
-- [Dev.to/JS] [Design Patterns in C# Programming](https://dev.to/sardarmudassaralikhan/design-patterns-in-c-programming-204g)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
