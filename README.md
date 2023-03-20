@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Documenting Node.js API using Swagger](https://dev.to/desmondsanctity/documenting-nodejs-api-using-swagger-4klp)
+- [Dev.to/JS] [RxJS 7 - Creation Functions](https://dev.to/barisbll/rxjs-7-creation-functions-f8o)
+- [Dev.to/JS] [RxJS 7 - Types of Observables](https://dev.to/barisbll/rxjs-7-types-of-observables-48le)
+- [Dev.to/JS] [RxJS 7 - Observable, Observer and Subscription](https://dev.to/barisbll/rxjs-7-observable-observer-and-subscription-37fk)
 - [Dev.to/JS] [How to use metadata client-side? v13.2](https://dev.to/gundogduyakici/how-to-use-metadata-client-side-v132-19m9)
 - [Dev.to/JS] [Building Composable Commerce with Nuxt, Shopify, and Storyblok Crash Course Part One](https://dev.to/jacobandrewsky/building-composable-commerce-with-nuxt-shopify-and-storyblok-crash-course-part-one-3ffb)
 - [Dev.to/JS] [IT Consulting Services](https://dev.to/mishainfotech_23/it-consulting-services-10pp)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 5 React Admin Dashboard Libraries in 2023](https://dev.to/refine/top-5-react-admin-dashboard-libraries-in-2023-2ekb)
 - [Dev.to/JS] [Promises vs Async callbacks](https://dev.to/souravbandyopadhyay/promises-vs-async-callbacks-2366)
 - [Dev.to/JS] [Reusable component store for pagination using generics](https://dev.to/this-is-angular/reusable-component-store-for-pagination-using-generics-1na6)
-- [Dev.to/JS] [Asynchronous JavaScript](https://dev.to/mohamedzurfudeen/asynchronous-javascript-54fa)
-- [Dev.to/JS] [Use of the Javascript keywords var, let, and const in a variable declaration](https://dev.to/mbuguadennis/use-of-the-javascript-keywords-var-let-and-const-in-a-variable-declaration-11j7)
-- [Dev.to/JS] [Object-Oriented Programming in JavaScript](https://dev.to/mohamedzurfudeen/object-oriented-programming-in-javascript-1ofn)
-- [Dev.to/JS] [An important guide on Angular Directives and their types](https://dev.to/ifourtechnolab/an-important-guide-on-angular-directives-and-their-types-2anj)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
