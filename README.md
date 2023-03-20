@@ -23,19 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Dependency Management with npm and Yarn](https://dev.to/thawkin3/javascript-dependency-management-with-npm-and-yarn-2iig)
+- [Dev.to/JS] [Paracetamol.ts💊| #31: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-31-explica-este-codigo-typescript-1b0)
+- [Lifehacker] [15 Popular Home Remedies, and Whether or Not They Actually Work](https://lifehacker.com/15-popular-home-remedies-and-whether-or-not-they-actua-1850192541)
+- [Dev.to/JS] [How to create a cron job in Vercel](https://dev.to/cemdev/how-to-create-a-cron-job-in-vercel-57le)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Sequência de Equação.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-sequencia-de-equacao-3ga)
+- [Lifehacker] [Home Remedies and Homeopathy Aren’t the Same Thing, and One of Them Is BS](https://lifehacker.com/home-remedies-and-homeopathy-aren-t-the-same-thing-and-1850147006)
+- [Dev.to/JS] [React and Firestore Part 1](https://dev.to/salehmubashar/react-and-firestore-part-1-2ab2)
+- [Dev.to/JS] [Setting up ESLINT with TS/JS in your React project in 2023](https://dev.to/anukr98/setting-up-eslint-with-tsjs-in-your-react-project-in-2023-57o)
+- [Dev.to/JS] [Build AI Template Engine to create amazing content with Next.js and ChatGPT](https://dev.to/suede/build-ai-template-engine-to-create-amazing-content-with-nextjs-and-chatgpt-3f89)
 - [Lifehacker] [Your Complete Guide to Home Remedies: Safe, Dangerous, Fake, and Everything in Between](https://lifehacker.com/your-complete-guide-to-home-remedies-safe-dangerous-1850157618)
 - [Dev.to/JS] [Improving Webpage Performance with Webpack and Babel](https://dev.to/fritzlolpro/improving-webpage-performance-with-webpack-and-babel-2ef9)
 - [Dev.to/JS] [How to Remove Punctuation from Text Using JavaScript?](https://dev.to/foxinfotech/how-to-remove-punctuation-from-text-using-javascript-59pe)
 - [Dev.to/JS] [Color Magic - JS Library](https://dev.to/dhnchandan/color-magic-js-library-557d)
 - [Dev.to/JS] [What is Azure Site Recovery Service](https://dev.to/sardarmudassaralikhan/what-is-azure-site-recovery-service-4m83)
 - [Dev.to/JS] [Documenting Node.js API using Swagger](https://dev.to/desmondsanctity/documenting-nodejs-api-using-swagger-4klp)
-- [Dev.to/JS] [RxJS 7 - Creation Functions](https://dev.to/barisbll/rxjs-7-creation-functions-f8o)
-- [Dev.to/JS] [RxJS 7 - Types of Observables](https://dev.to/barisbll/rxjs-7-types-of-observables-48le)
-- [Dev.to/JS] [RxJS 7 - Observable, Observer and Subscription](https://dev.to/barisbll/rxjs-7-observable-observer-and-subscription-37fk)
-- [Dev.to/JS] [How to use metadata client-side? v13.2](https://dev.to/gundogduyakici/how-to-use-metadata-client-side-v132-19m9)
-- [Dev.to/JS] [Building Composable Commerce with Nuxt, Shopify, and Storyblok Crash Course Part One](https://dev.to/jacobandrewsky/building-composable-commerce-with-nuxt-shopify-and-storyblok-crash-course-part-one-3ffb)
-- [Dev.to/JS] [IT Consulting Services](https://dev.to/mishainfotech_23/it-consulting-services-10pp)
-- [Dev.to/JS] [React Ref: Everything You Need to Know in Simple Terms](https://dev.to/thelamina/react-ref-everything-you-need-to-know-in-simple-terms-doi)
 - [Crazy Programmer] [7 Different Types of Computer](https://www.thecrazyprogrammer.com/2023/03/types-of-computer.html)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 Games to Play Before &#39;Final Fantasy XVI&#39;](https://lifehacker.com/8-games-to-play-before-final-fantasy-xvi-1850221889)
 - [Lifehacker] [Why Every Family Needs a &#39;House Cell Phone&#39;](https://lifehacker.com/maybe-your-family-needs-a-house-cell-phone-1850220171)
 - [Lifehacker] [Buy a KFC Sandwich, Get Early Access to ‘Diablo IV’](https://lifehacker.com/buy-a-kfc-sandwich-get-early-access-to-diablo-iv-1850219897)
-- [Lifehacker] [21 of the Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
-- [Lifehacker] [What’s a Home Equity Investment, and Is It Ever a Good Idea?](https://lifehacker.com/what-s-a-home-equity-investment-and-is-it-ever-a-good-1850219402)
-- [Lifehacker] [Don’t Use This TikTok &#39;Hack&#39; to Fix a Leaky Pipe](https://lifehacker.com/don-t-use-this-tiktok-hack-to-fix-a-leaky-pipe-1850218501)<!-- TECH-POSTS:END -->
+- [Lifehacker] [21 of the Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)<!-- TECH-POSTS:END -->
 
 ---
 
