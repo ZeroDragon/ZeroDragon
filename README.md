@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Asynchronous JavaScript](https://dev.to/mohamedzurfudeen/asynchronous-javascript-54fa)
+- [Dev.to/JS] [Use of the Javascript keywords var, let, and const in a variable declaration](https://dev.to/mbuguadennis/use-of-the-javascript-keywords-var-let-and-const-in-a-variable-declaration-11j7)
+- [Dev.to/JS] [Object-Oriented Programming in JavaScript](https://dev.to/mohamedzurfudeen/object-oriented-programming-in-javascript-1ofn)
+- [Dev.to/JS] [An important guide on Angular Directives and their types](https://dev.to/ifourtechnolab/an-important-guide-on-angular-directives-and-their-types-2anj)
 - [Dev.to/JS] [How can natural language processing &lpar;NLP&rpar; be used to improve communication between humans and computers?](https://dev.to/baljeet975/how-can-natural-language-processing-nlp-be-used-to-improve-communication-between-humans-and-computers-9e0)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Mar 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-mar-2023-42g9)
 - [Dev.to/JS] [Unleashing Twitter&#39;s Data: How to Access the Twitter API with JavaScript](https://dev.to/nimeshbrt/unleashing-twitters-data-how-to-access-the-twitter-api-with-javascript-24mp)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Python Melodies: Building a Music Player with Playlists and Album Art.](https://dev.to/inibambam/python-melodies-building-a-music-player-with-playlists-and-album-art-197c)
 - [Dev.to/JS] [Lightning Web Components: Custom Nested Components](https://dev.to/lukethacoder/lightning-web-components-custom-nested-components-171n)
 - [Dev.to/JS] [html+css+js=ola mundo](https://dev.to/99mvps/htmlcssjsola-mundo-291m)
-- [Dev.to/JS] [What!? ReactJS isn’t for SPAs anymore?](https://dev.to/talk2megooseman/what-reactjs-isnt-for-spas-anymore-325a)
-- [Dev.to/JS] [How to Display PDF in React or Vuejs Application using PDF.js](https://dev.to/stephengade/how-to-display-pdf-in-react-or-vuejs-application-using-pdfjs-4d6c)
-- [Dev.to/JS] [HOW TO ADD LOCKS TO RESOURCE GROUP](https://dev.to/dunk_wee/how-to-add-locks-to-resource-group-248a)
-- [Dev.to/JS] [Top React UI Libraries for Simplifying Frontend Development and How to Implement Them](https://dev.to/david_bilsonn/top-react-ui-libraries-for-simplifying-frontend-development-and-how-to-implement-them-48g6)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
