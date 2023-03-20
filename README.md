@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DOM Manipulation](https://dev.to/ahmed_onour/dom-manipulation-3ee8)
+- [Dev.to/JS] [Top 5 React Admin Dashboard Libraries in 2023](https://dev.to/refine/top-5-react-admin-dashboard-libraries-in-2023-2ekb)
+- [Dev.to/JS] [Promises vs Async callbacks](https://dev.to/souravbandyopadhyay/promises-vs-async-callbacks-2366)
+- [Dev.to/JS] [Reusable component store for pagination using generics](https://dev.to/this-is-angular/reusable-component-store-for-pagination-using-generics-1na6)
 - [Dev.to/JS] [Asynchronous JavaScript](https://dev.to/mohamedzurfudeen/asynchronous-javascript-54fa)
 - [Dev.to/JS] [Use of the Javascript keywords var, let, and const in a variable declaration](https://dev.to/mbuguadennis/use-of-the-javascript-keywords-var-let-and-const-in-a-variable-declaration-11j7)
 - [Dev.to/JS] [Object-Oriented Programming in JavaScript](https://dev.to/mohamedzurfudeen/object-oriented-programming-in-javascript-1ofn)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Mar 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-mar-2023-42g9)
 - [Dev.to/JS] [Unleashing Twitter&#39;s Data: How to Access the Twitter API with JavaScript](https://dev.to/nimeshbrt/unleashing-twitters-data-how-to-access-the-twitter-api-with-javascript-24mp)
 - [Dev.to/JS] [The beginning to project 2](https://dev.to/msanyal7/the-beginning-to-project-2-3eg4)
-- [Dev.to/JS] [ChatGPT Quicklink Chrome Extension](https://dev.to/obetomuniz/chatgpt-quicklink-chrome-extension-1co)
-- [Dev.to/JS] [Python Melodies: Building a Music Player with Playlists and Album Art.](https://dev.to/inibambam/python-melodies-building-a-music-player-with-playlists-and-album-art-197c)
-- [Dev.to/JS] [Lightning Web Components: Custom Nested Components](https://dev.to/lukethacoder/lightning-web-components-custom-nested-components-171n)
-- [Dev.to/JS] [html+css+js=ola mundo](https://dev.to/99mvps/htmlcssjsola-mundo-291m)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
