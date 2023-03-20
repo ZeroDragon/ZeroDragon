@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Trick: Guessing Users&#39; Country Calling Codes by Time Zone](https://dev.to/suikodev/javascript-trick-guessing-users-country-calling-codes-by-time-zone-2p9a)
+- [Dev.to/JS] [What Is Requirement Management](https://dev.to/sardarmudassaralikhan/what-is-requirement-management-5de)
+- [Dev.to/JS] [Desestruturação em Javascript](https://dev.to/matheusm/desestruturacao-em-javascript-48f7)
+- [Dev.to/JS] [Web Dev Projects For Beginners](https://dev.to/hyggedev/web-dev-projects-for-beginners-5fop)
 - [Dev.to/JS] [Uso Assíncrono: Entenda a diferença sobre Callbacks, Promises e Async/Await!](https://dev.to/altencirsilvajr/uso-assincrono-entenda-a-diferenca-sobre-callbacks-promises-e-asyncawait-439l)
 - [Dev.to/JS] [Astro-Storyblok Previews Site with Netlify&#39;s Branch Deploys Feature](https://dev.to/sandrarodgers/astro-storyblok-previews-site-with-netlifys-branch-deploys-feature-44dh)
 - [Dev.to/JS] [Improve performance using javascript Maps](https://dev.to/squackycom/improve-performance-using-javascript-maps-pj)
@@ -35,12 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Converting our Backbone.js Admin Dashboard to Vue, and how great it was.](https://dev.to/ambush3/converting-our-backbonejs-admin-dashboard-to-vue-and-how-great-it-was-4b56)
 - [Dev.to/JS] [Remover vocales de un String con JavaScript](https://dev.to/asjordi/remover-vocales-de-un-string-con-javascript-4lbh)
 - [Lifehacker] [Teas Aren’t As Useful As You Might Think](https://lifehacker.com/teas-aren-t-as-useful-as-you-might-think-1850205204)
-- [Dev.to/JS] [TypeScript 5.0 for JavaScript devs](https://dev.to/voxpelli/typescript-50-for-javascript-devs-3661)
-- [Dev.to/JS] [Welcome to the world of tours](https://dev.to/sagarhost/welcome-to-the-world-of-tours-54i5)
-- [Dev.to/JS] [Call for Presentations - React Summit US Edition November 13 &amp; 15, 2023](https://dev.to/reactsummit/call-for-presentations-react-summit-us-edition-november-13-15-2023-g87)
 - [Lifehacker] [How to Do a Saltwater Rinse &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-do-a-saltwater-rinse-and-when-you-should-1850195735)
 - [Lifehacker] [A Beginner&#39;s Guide to Using a Neti Pot to Clear Your Sinuses](https://lifehacker.com/a-beginners-guide-to-using-a-neti-pot-to-clear-your-sin-1850179574)
-- [Dev.to/JS] [Unleashing the Power of Memphis.dev: A Guide for Developers and Data Engineers](https://dev.to/judevector/unleashing-the-power-of-memphisdev-a-guide-for-developers-and-data-engineers-2m77)
 - [Lifehacker] [What to Do If You Just Can&#39;t Poop](https://lifehacker.com/what-to-do-if-you-just-cant-poop-1850182662)
 - [Lifehacker] [The Easiest Way to Get Rid of a Wart on Your Own](https://lifehacker.com/the-easiest-way-to-get-rid-of-a-wart-on-your-own-1850151669)
 - [Lifehacker] [When to Use Ice on an Injury, and When to Use Heat](https://lifehacker.com/when-to-use-ice-on-an-injury-and-when-to-use-heat-1850155779)
