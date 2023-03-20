@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleashing Twitter&#39;s Data: How to Access the Twitter API with JavaScript](https://dev.to/nimeshbrt/unleashing-twitters-data-how-to-access-the-twitter-api-with-javascript-24mp)
+- [Dev.to/JS] [The beginning to project 2](https://dev.to/msanyal7/the-beginning-to-project-2-3eg4)
+- [Dev.to/JS] [ChatGPT Quicklink Chrome Extension](https://dev.to/obetomuniz/chatgpt-quicklink-chrome-extension-1co)
+- [Dev.to/JS] [Python Melodies: Building a Music Player with Playlists and Album Art.](https://dev.to/inibambam/python-melodies-building-a-music-player-with-playlists-and-album-art-197c)
 - [Dev.to/JS] [Lightning Web Components: Custom Nested Components](https://dev.to/lukethacoder/lightning-web-components-custom-nested-components-171n)
 - [Dev.to/JS] [html+css+js=ola mundo](https://dev.to/99mvps/htmlcssjsola-mundo-291m)
 - [Dev.to/JS] [What!? ReactJS isn’t for SPAs anymore?](https://dev.to/talk2megooseman/what-reactjs-isnt-for-spas-anymore-325a)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top React UI Libraries for Simplifying Frontend Development and How to Implement Them](https://dev.to/david_bilsonn/top-react-ui-libraries-for-simplifying-frontend-development-and-how-to-implement-them-48g6)
 - [Dev.to/JS] [Async-first communication &lpar;Comunicação assíncrona&rpar;](https://dev.to/wilsonlucena/async-first-communication-comunicacao-assincrona-1cl2)
 - [Dev.to/JS] [JSON compression in the browser, with gzip and the Compression Streams API.](https://dev.to/samternent/json-compression-in-the-browser-with-gzip-and-the-compression-streams-api-4135)
-- [Dev.to/JS] [Writing A Custom Paragraph Component in React](https://dev.to/ademoyejohn/writing-a-custom-paragraph-component-in-react-4026)
-- [Dev.to/JS] [Creating a Link Preview App: An Easy Step-by-Step Guide](https://dev.to/sanket_dev/creating-a-link-preview-app-an-easy-step-by-step-guide-1kge)
-- [Dev.to/JS] [Reducing a cryptic memory leak](https://dev.to/craigmorten/reducing-a-cryptic-memory-leak-237o)
-- [Dev.to/JS] [Tuples in TypeScript](https://dev.to/tomoy/tuples-in-typescript-1gn7)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
