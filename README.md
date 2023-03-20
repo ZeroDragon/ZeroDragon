@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Get Rid of a Wart on Your Own](https://lifehacker.com/the-easiest-way-to-get-rid-of-a-wart-on-your-own-1850151669)
+- [Dev.to/JS] [New Suspense Hooks for Meteor](https://dev.to/grubba/new-suspense-hooks-for-meteor-3ddg)
+- [Dev.to/JS] [Making Promises Suspendable](https://dev.to/grubba/making-promises-suspendable-452f)
+- [Lifehacker] [When to Use Ice on an Injury, and When to Use Heat](https://lifehacker.com/when-to-use-ice-on-an-injury-and-when-to-use-heat-1850155779)
+- [Dev.to/JS] [Node.js HTTP server without any frameworks.](https://dev.to/gftz/nodejs-http-server-without-any-frameworks-5h14)
 - [Dev.to/JS] [Make a video about the best contributor of the month with React and NodeJS 🚀](https://dev.to/novu/make-a-video-about-the-best-contributor-of-the-month-with-react-and-nodejs-2feg)
 - [Lifehacker] [The Best Ways to Relieve Itchy Skin Without a Prescription](https://lifehacker.com/the-best-ways-to-relieve-itchy-skin-without-a-prescript-1850146899)
 - [Dev.to/JS] [FizzBuzz Algorithm](https://dev.to/alisamirali/fizzbuzz-algorithm-3jo7)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Setting up ESLINT with TS/JS in your React project in 2023](https://dev.to/anukr98/setting-up-eslint-with-tsjs-in-your-react-project-in-2023-57o)
 - [Dev.to/JS] [Build AI Template Engine to create amazing content with Next.js and ChatGPT](https://dev.to/suede/build-ai-template-engine-to-create-amazing-content-with-nextjs-and-chatgpt-3f89)
 - [Lifehacker] [Your Complete Guide to Home Remedies: Safe, Dangerous, Fake, and Everything in Between](https://lifehacker.com/your-complete-guide-to-home-remedies-safe-dangerous-1850157618)
-- [Dev.to/JS] [Improving Webpage Performance with Webpack and Babel](https://dev.to/fritzlolpro/improving-webpage-performance-with-webpack-and-babel-2ef9)
-- [Dev.to/JS] [How to Remove Punctuation from Text Using JavaScript?](https://dev.to/foxinfotech/how-to-remove-punctuation-from-text-using-javascript-59pe)
-- [Dev.to/JS] [Color Magic - JS Library](https://dev.to/dhnchandan/color-magic-js-library-557d)
 - [Crazy Programmer] [7 Different Types of Computer](https://www.thecrazyprogrammer.com/2023/03/types-of-computer.html)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Sauces Are Mother, You Listen to Them](https://lifehacker.com/these-sauces-are-mother-you-listen-to-them-1850219813)
 - [Lifehacker] [Roll, Don&#39;t &#39;File,&#39; Clothes in Your Drawer](https://lifehacker.com/roll-dont-file-clothes-in-your-drawer-1850224384)
 - [Lifehacker] [The Lesser-Known Apps Everyone Should Install on a New Windows PC](https://lifehacker.com/the-lesser-known-apps-everyone-should-install-on-a-new-1850223434)
-- [Lifehacker] [How to Quit &#39;Revenge Spending&#39;](https://lifehacker.com/how-to-quit-revenge-spending-1850219784)
-- [Lifehacker] [8 Games to Play Before &#39;Final Fantasy XVI&#39;](https://lifehacker.com/8-games-to-play-before-final-fantasy-xvi-1850221889)
-- [Lifehacker] [Why Every Family Needs a &#39;House Cell Phone&#39;](https://lifehacker.com/maybe-your-family-needs-a-house-cell-phone-1850220171)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Quit &#39;Revenge Spending&#39;](https://lifehacker.com/how-to-quit-revenge-spending-1850219784)<!-- TECH-POSTS:END -->
 
 ---
 
