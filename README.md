@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How can natural language processing &lpar;NLP&rpar; be used to improve communication between humans and computers?](https://dev.to/baljeet975/how-can-natural-language-processing-nlp-be-used-to-improve-communication-between-humans-and-computers-9e0)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Mar 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-mar-2023-42g9)
 - [Dev.to/JS] [Unleashing Twitter&#39;s Data: How to Access the Twitter API with JavaScript](https://dev.to/nimeshbrt/unleashing-twitters-data-how-to-access-the-twitter-api-with-javascript-24mp)
 - [Dev.to/JS] [The beginning to project 2](https://dev.to/msanyal7/the-beginning-to-project-2-3eg4)
 - [Dev.to/JS] [ChatGPT Quicklink Chrome Extension](https://dev.to/obetomuniz/chatgpt-quicklink-chrome-extension-1co)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Display PDF in React or Vuejs Application using PDF.js](https://dev.to/stephengade/how-to-display-pdf-in-react-or-vuejs-application-using-pdfjs-4d6c)
 - [Dev.to/JS] [HOW TO ADD LOCKS TO RESOURCE GROUP](https://dev.to/dunk_wee/how-to-add-locks-to-resource-group-248a)
 - [Dev.to/JS] [Top React UI Libraries for Simplifying Frontend Development and How to Implement Them](https://dev.to/david_bilsonn/top-react-ui-libraries-for-simplifying-frontend-development-and-how-to-implement-them-48g6)
-- [Dev.to/JS] [Async-first communication &lpar;Comunicação assíncrona&rpar;](https://dev.to/wilsonlucena/async-first-communication-comunicacao-assincrona-1cl2)
-- [Dev.to/JS] [JSON compression in the browser, with gzip and the Compression Streams API.](https://dev.to/samternent/json-compression-in-the-browser-with-gzip-and-the-compression-streams-api-4135)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
