@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Make a video about the best contributor of the month with React and NodeJS 🚀](https://dev.to/novu/make-a-video-about-the-best-contributor-of-the-month-with-react-and-nodejs-2feg)
+- [Lifehacker] [The Best Ways to Relieve Itchy Skin Without a Prescription](https://lifehacker.com/the-best-ways-to-relieve-itchy-skin-without-a-prescript-1850146899)
+- [Dev.to/JS] [FizzBuzz Algorithm](https://dev.to/alisamirali/fizzbuzz-algorithm-3jo7)
+- [Lifehacker] [Home Remedies Are Actually Better for Kids Than Cold Medicine](https://lifehacker.com/home-remedies-are-actually-better-for-kids-than-cold-me-1850146661)
 - [Dev.to/JS] [JavaScript Dependency Management with npm and Yarn](https://dev.to/thawkin3/javascript-dependency-management-with-npm-and-yarn-2iig)
 - [Dev.to/JS] [Paracetamol.ts💊| #31: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-31-explica-este-codigo-typescript-1b0)
 - [Lifehacker] [15 Popular Home Remedies, and Whether or Not They Actually Work](https://lifehacker.com/15-popular-home-remedies-and-whether-or-not-they-actua-1850192541)
@@ -36,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Improving Webpage Performance with Webpack and Babel](https://dev.to/fritzlolpro/improving-webpage-performance-with-webpack-and-babel-2ef9)
 - [Dev.to/JS] [How to Remove Punctuation from Text Using JavaScript?](https://dev.to/foxinfotech/how-to-remove-punctuation-from-text-using-javascript-59pe)
 - [Dev.to/JS] [Color Magic - JS Library](https://dev.to/dhnchandan/color-magic-js-library-557d)
-- [Dev.to/JS] [What is Azure Site Recovery Service](https://dev.to/sardarmudassaralikhan/what-is-azure-site-recovery-service-4m83)
-- [Dev.to/JS] [Documenting Node.js API using Swagger](https://dev.to/desmondsanctity/documenting-nodejs-api-using-swagger-4klp)
 - [Crazy Programmer] [7 Different Types of Computer](https://www.thecrazyprogrammer.com/2023/03/types-of-computer.html)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Lesser-Known Apps Everyone Should Install on a New Windows PC](https://lifehacker.com/the-lesser-known-apps-everyone-should-install-on-a-new-1850223434)
 - [Lifehacker] [How to Quit &#39;Revenge Spending&#39;](https://lifehacker.com/how-to-quit-revenge-spending-1850219784)
 - [Lifehacker] [8 Games to Play Before &#39;Final Fantasy XVI&#39;](https://lifehacker.com/8-games-to-play-before-final-fantasy-xvi-1850221889)
-- [Lifehacker] [Why Every Family Needs a &#39;House Cell Phone&#39;](https://lifehacker.com/maybe-your-family-needs-a-house-cell-phone-1850220171)
-- [Lifehacker] [Buy a KFC Sandwich, Get Early Access to ‘Diablo IV’](https://lifehacker.com/buy-a-kfc-sandwich-get-early-access-to-diablo-iv-1850219897)
-- [Lifehacker] [21 of the Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Every Family Needs a &#39;House Cell Phone&#39;](https://lifehacker.com/maybe-your-family-needs-a-house-cell-phone-1850220171)<!-- TECH-POSTS:END -->
 
 ---
 
