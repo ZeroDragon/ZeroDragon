@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Complete Guide to Home Remedies: Safe, Dangerous, Fake, and Everything in Between](https://lifehacker.com/your-complete-guide-to-home-remedies-safe-dangerous-1850157618)
+- [Dev.to/JS] [Improving Webpage Performance with Webpack and Babel](https://dev.to/fritzlolpro/improving-webpage-performance-with-webpack-and-babel-2ef9)
+- [Dev.to/JS] [How to Remove Punctuation from Text Using JavaScript?](https://dev.to/foxinfotech/how-to-remove-punctuation-from-text-using-javascript-59pe)
+- [Dev.to/JS] [Color Magic - JS Library](https://dev.to/dhnchandan/color-magic-js-library-557d)
+- [Dev.to/JS] [What is Azure Site Recovery Service](https://dev.to/sardarmudassaralikhan/what-is-azure-site-recovery-service-4m83)
 - [Dev.to/JS] [Documenting Node.js API using Swagger](https://dev.to/desmondsanctity/documenting-nodejs-api-using-swagger-4klp)
 - [Dev.to/JS] [RxJS 7 - Creation Functions](https://dev.to/barisbll/rxjs-7-creation-functions-f8o)
 - [Dev.to/JS] [RxJS 7 - Types of Observables](https://dev.to/barisbll/rxjs-7-types-of-observables-48le)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [IT Consulting Services](https://dev.to/mishainfotech_23/it-consulting-services-10pp)
 - [Dev.to/JS] [React Ref: Everything You Need to Know in Simple Terms](https://dev.to/thelamina/react-ref-everything-you-need-to-know-in-simple-terms-doi)
 - [Crazy Programmer] [7 Different Types of Computer](https://www.thecrazyprogrammer.com/2023/03/types-of-computer.html)
-- [Dev.to/JS] [DOM Manipulation](https://dev.to/ahmed_onour/dom-manipulation-3ee8)
-- [Dev.to/JS] [Top 5 React Admin Dashboard Libraries in 2023](https://dev.to/refine/top-5-react-admin-dashboard-libraries-in-2023-2ekb)
-- [Dev.to/JS] [Promises vs Async callbacks](https://dev.to/souravbandyopadhyay/promises-vs-async-callbacks-2366)
-- [Dev.to/JS] [Reusable component store for pagination using generics](https://dev.to/this-is-angular/reusable-component-store-for-pagination-using-generics-1na6)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Buy a KFC Sandwich, Get Early Access to ‘Diablo IV’](https://lifehacker.com/buy-a-kfc-sandwich-get-early-access-to-diablo-iv-1850219897)
 - [Lifehacker] [21 of the Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [What’s a Home Equity Investment, and Is It Ever a Good Idea?](https://lifehacker.com/what-s-a-home-equity-investment-and-is-it-ever-a-good-1850219402)
-- [Lifehacker] [Don’t Use This TikTok &#39;Hack&#39; to Fix a Leaky Pipe](https://lifehacker.com/don-t-use-this-tiktok-hack-to-fix-a-leaky-pipe-1850218501)
-- [Lifehacker] [How You Can Really Help a Friend Who&#39;s Been Laid Off](https://lifehacker.com/how-you-can-really-help-a-friend-whos-been-laid-off-1850217478)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Use This TikTok &#39;Hack&#39; to Fix a Leaky Pipe](https://lifehacker.com/don-t-use-this-tiktok-hack-to-fix-a-leaky-pipe-1850218501)<!-- TECH-POSTS:END -->
 
 ---
 
