@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Declaring variables in JavaScript &lpar;What happens when you don’t&rpar;](https://dev.to/jesseilc123/declaring-variables-in-javascript-what-happens-when-you-dont-1e6h)
+- [Dev.to/JS] [Optimistic and Pessimistic UI Rendering](https://dev.to/manishkc104/optimistic-and-pessimistic-ui-rendering-2n55)
+- [Lifehacker] [Do Essential Oils Actually Do Anything?](https://lifehacker.com/do-essential-oils-actually-do-anything-1850174659)
+- [Dev.to/JS] [How to be Better in React Code Reusability - Part2](https://dev.to/aradwan20/how-to-be-better-in-react-code-reusability-part2-5cc2)
+- [Dev.to/JS] [Converting our Backbone.js Admin Dashboard to Vue, and how great it was.](https://dev.to/ambush3/converting-our-backbonejs-admin-dashboard-to-vue-and-how-great-it-was-4b56)
 - [Dev.to/JS] [Remover vocales de un String con JavaScript](https://dev.to/asjordi/remover-vocales-de-un-string-con-javascript-4lbh)
 - [Lifehacker] [Teas Aren’t As Useful As You Might Think](https://lifehacker.com/teas-aren-t-as-useful-as-you-might-think-1850205204)
 - [Dev.to/JS] [TypeScript 5.0 for JavaScript devs](https://dev.to/voxpelli/typescript-50-for-javascript-devs-3661)
@@ -37,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New Suspense Hooks for Meteor](https://dev.to/grubba/new-suspense-hooks-for-meteor-3ddg)
 - [Dev.to/JS] [Making Promises Suspendable](https://dev.to/grubba/making-promises-suspendable-452f)
 - [Lifehacker] [When to Use Ice on an Injury, and When to Use Heat](https://lifehacker.com/when-to-use-ice-on-an-injury-and-when-to-use-heat-1850155779)
-- [Dev.to/JS] [Node.js HTTP server without any frameworks.](https://dev.to/gftz/nodejs-http-server-without-any-frameworks-5h14)
-- [Dev.to/JS] [Make a video about the best contributor of the month with React and NodeJS 🚀](https://dev.to/novu/make-a-video-about-the-best-contributor-of-the-month-with-react-and-nodejs-2feg)
 - [Lifehacker] [The Best Ways to Relieve Itchy Skin Without a Prescription](https://lifehacker.com/the-best-ways-to-relieve-itchy-skin-without-a-prescript-1850146899)
-- [Dev.to/JS] [FizzBuzz Algorithm](https://dev.to/alisamirali/fizzbuzz-algorithm-3jo7)
 - [Lifehacker] [Home Remedies Are Actually Better for Kids Than Cold Medicine](https://lifehacker.com/home-remedies-are-actually-better-for-kids-than-cold-me-1850146661)
-- [Dev.to/JS] [JavaScript Dependency Management with npm and Yarn](https://dev.to/thawkin3/javascript-dependency-management-with-npm-and-yarn-2iig)
 - [Lifehacker] [15 Popular Home Remedies, and Whether or Not They Actually Work](https://lifehacker.com/15-popular-home-remedies-and-whether-or-not-they-actua-1850192541)
 - [Lifehacker] [Home Remedies and Homeopathy Aren’t the Same Thing, and One of Them Is BS](https://lifehacker.com/home-remedies-and-homeopathy-aren-t-the-same-thing-and-1850147006)
 - [Lifehacker] [Your Complete Guide to Home Remedies: Safe, Dangerous, Fake, and Everything in Between](https://lifehacker.com/your-complete-guide-to-home-remedies-safe-dangerous-1850157618)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [What is Network Flapping?](https://www.thecrazyprogrammer.com/2023/03/network-flapping.html)
 - [Lifehacker] [Is Your Tea Dead?](https://lifehacker.com/is-your-tea-dead-1850224958)
 - [Lifehacker] [Get a Settlement for That Bulky CRT TV You Bought Ages Ago](https://lifehacker.com/get-a-settlement-for-that-bulky-crt-tv-you-bought-ages-1850225402)
-- [Lifehacker] [10 Fast-Growing Plants for Instant Garden Gratification](https://lifehacker.com/10-fast-growing-plants-for-instant-garden-gratification-1850175200)
-- [Lifehacker] [How to Tell If Your Child Has Oppositional Defiant Disorder](https://lifehacker.com/how-to-tell-if-your-child-has-oppositional-defiant-diso-1850226002)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Fast-Growing Plants for Instant Garden Gratification](https://lifehacker.com/10-fast-growing-plants-for-instant-garden-gratification-1850175200)<!-- TECH-POSTS:END -->
 
 ---
 
