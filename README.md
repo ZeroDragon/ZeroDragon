@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [localStorage VS sessionStorage: A Comprehensive Comparison](https://dev.to/asayerio_techblog/localstorage-vs-sessionstorage-a-comprehensive-comparison-147j)
+- [Dev.to/JS] [Testlash o&#39;zi nimaga kerak, tinchgina yashasak bo&#39;lmaydimi!](https://dev.to/humoyun/testlash-ozi-nimaga-kerak-tinchgina-yashasak-bolmaydimi-2elj)
+- [Dev.to/JS] [A Beginner&#39;s Guide to OOP in JavaScript](https://dev.to/asayerio_techblog/a-beginners-guide-to-oop-in-javascript-5b0p)
 - [Dev.to/JS] [notas sobre IndexedDB](https://dev.to/diniremix/notas-sobre-indexeddb-17bp)
 - [Dev.to/JS] [⚔React vs. Vue.js: A Batalha dos Gigantes do Front-end](https://dev.to/mpetry/react-vs-vuejs-a-batalha-dos-gigantes-do-front-end-2pdk)
 - [Dev.to/JS] [Understanding Prop Types in React - Day 1 of 30 Days of React Tips and Tricks](https://dev.to/tejas2805/understanding-prop-types-in-react-day-1-of-30-days-of-react-tips-and-tricks-1in7)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tetris timer - the first part](https://dev.to/firemark/tetris-timer-the-first-part-haf)
 - [Lifehacker] [What&#39;s New on Hulu in April 2023](https://lifehacker.com/whats-new-on-hulu-in-april-2023-1850245415)
 - [Dev.to/JS] [Javascript Factory Design Pattern](https://dev.to/bvnkumar/javascript-factory-design-pattern-31n4)
-- [Dev.to/JS] [Angular.json structure for beginners - what we can set](https://dev.to/tomwebwalker/angularjson-structure-for-beginners-what-we-can-set-27f3)
-- [Dev.to/JS] [ChatGPT - Complex Coding Challenges: 4 KYU](https://dev.to/damiensedgwick/chatgpt-complex-coding-challenges-4-kyu-2e5m)
 - [Lifehacker] [Foods You Should Be Grating, But Probably Aren&#39;t](https://lifehacker.com/foods-you-should-be-grating-aside-from-cheese-1850214371)
-- [Dev.to/JS] [Spice Up Your Svelte App with Sound Interactions using svelte-sound 😎](https://dev.to/rajaniraiyn/spice-up-your-svelte-app-with-sound-interactions-using-svelte-sound-4i6b)
 - [Lifehacker] [Marinate Your Dried Herbs for Better Vinaigrettes](https://lifehacker.com/marinate-your-dried-herbs-for-better-vinaigrettes-1850238997)
 - [Lifehacker] [10 Home Remedies That May Do More Harm Than Good](https://lifehacker.com/10-home-remedies-that-may-do-more-harm-than-good-1850157348)
 - [Lifehacker] [Do Essential Oils Actually Do Anything?](https://lifehacker.com/do-essential-oils-actually-do-anything-1850174659)
