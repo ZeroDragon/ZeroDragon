@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Migrating a Vite / React app from JavaScript to TypeScript](https://dev.to/rashidshamloo/migrating-a-vite-react-app-from-javascript-to-typescript-5dmn)
+- [Lifehacker] [This Caramelized Pickle Dip Slaps](https://lifehacker.com/this-caramelized-pickle-dip-slaps-1850245734)
+- [Dev.to/JS] [Building my Notes App Front-end using React and Tailwind part 2](https://dev.to/ki3ani/building-my-notes-app-front-end-using-react-and-tailwind-part-2-4lkd)
+- [Lifehacker] [Teach Your Teen to Start Cooking With These Easy Meal Ideas](https://lifehacker.com/teach-your-teen-to-start-cooking-with-these-easy-meal-i-1850245763)
 - [Dev.to/JS] [Something ChatGPT is good for?](https://dev.to/adatole/something-chatgpt-is-good-for-2m79)
 - [Dev.to/JS] [Advanced Ts: Type Predicates, Narrowing &amp; func Overrides.](https://dev.to/manuartero/advanced-ts-type-predicates-narrowing-func-override-51bl)
 - [Lifehacker] [Your Old Mac Might End Up in the Trash If You Don’t Do This](https://lifehacker.com/your-old-mac-might-end-up-in-the-trash-if-you-don-t-do-1850244023)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is the best example to learn the ES6 spread operator &lpar;...&rpar; ?](https://dev.to/mbshehzad/what-is-the-best-example-to-learn-about-the-es6-spread-operator--2aj8)
 - [Dev.to/JS] [Animated Spinner - React Native](https://dev.to/ezilemdodana/animated-spinner-react-native-1mo4)
 - [Dev.to/JS] [Superpowers with Directives and Dependency Injection: Part 3](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-3-18ja)
-- [Dev.to/JS] [Creating a SQL generator app with ChatGPT, PostgreSQL, and ToolJet](https://dev.to/tooljet/creating-a-sql-generator-app-with-chatgpt-postgresql-and-tooljet-e2k)
-- [Dev.to/JS] [Using custom Svelte stores](https://dev.to/finiam/using-custom-svelte-stores-1dma)
 - [Lifehacker] [What&#39;s New on Hulu in April 2023](https://lifehacker.com/whats-new-on-hulu-in-april-2023-1850245415)
 - [Lifehacker] [Foods You Should Be Grating, But Probably Aren&#39;t](https://lifehacker.com/foods-you-should-be-grating-aside-from-cheese-1850214371)
 - [Lifehacker] [Marinate Your Dried Herbs for Better Vinaigrettes](https://lifehacker.com/marinate-your-dried-herbs-for-better-vinaigrettes-1850238997)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
 - [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
 - [Lifehacker] [You Can Completely Reset Your TikTok ‘For You’ Feed](https://lifehacker.com/you-can-completely-reset-your-tiktok-for-you-feed-1850237165)
-- [Lifehacker] [The One Area You Should Clean When You Feel Too Sad to Clean Anything](https://lifehacker.com/the-one-area-you-should-clean-when-you-feel-too-sad-to-1850236992)
-- [Lifehacker] [15 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
-- [Lifehacker] [You Should Salt Your Cheap Candy](https://lifehacker.com/you-should-salt-your-cheap-candy-1850229507)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The One Area You Should Clean When You Feel Too Sad to Clean Anything](https://lifehacker.com/the-one-area-you-should-clean-when-you-feel-too-sad-to-1850236992)<!-- TECH-POSTS:END -->
 
 ---
 
