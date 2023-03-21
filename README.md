@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [notas sobre IndexedDB](https://dev.to/diniremix/notas-sobre-indexeddb-17bp)
+- [Dev.to/JS] [⚔React vs. Vue.js: A Batalha dos Gigantes do Front-end](https://dev.to/mpetry/react-vs-vuejs-a-batalha-dos-gigantes-do-front-end-2pdk)
+- [Dev.to/JS] [Understanding Prop Types in React - Day 1 of 30 Days of React Tips and Tricks](https://dev.to/tejas2805/understanding-prop-types-in-react-day-1-of-30-days-of-react-tips-and-tricks-1in7)
 - [Dev.to/JS] [The history of the JavaScript Language](https://dev.to/devpedrofurquim/the-history-of-the-javascript-language-99b)
 - [Dev.to/JS] [Solving FreeCodeCamp JavaScript Algorithms and Data Structures projects](https://dev.to/brihoum/solving-freecodecamp-javascript-algorithms-and-data-structures-projects-2bi5)
 - [Dev.to/JS] [World of Goo](https://dev.to/diniremix/world-of-goo-521k)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ChatGPT - Complex Coding Challenges: 4 KYU](https://dev.to/damiensedgwick/chatgpt-complex-coding-challenges-4-kyu-2e5m)
 - [Lifehacker] [Foods You Should Be Grating, But Probably Aren&#39;t](https://lifehacker.com/foods-you-should-be-grating-aside-from-cheese-1850214371)
 - [Dev.to/JS] [Spice Up Your Svelte App with Sound Interactions using svelte-sound 😎](https://dev.to/rajaniraiyn/spice-up-your-svelte-app-with-sound-interactions-using-svelte-sound-4i6b)
-- [Dev.to/JS] [How to make long functions more readable](https://dev.to/tahazsh/how-to-make-long-functions-more-readable-1bmo)
-- [Dev.to/JS] [Understanding JavaScript API Requests and Responses in the Data Fetching lifecycle](https://dev.to/rodcast/understanding-javascript-api-requests-and-responses-in-the-data-fetching-lifecycle-30np)
-- [Dev.to/JS] [Learn Javascript My Way](https://dev.to/jonesrussell/learn-javascript-my-way-5bh2)
 - [Lifehacker] [Marinate Your Dried Herbs for Better Vinaigrettes](https://lifehacker.com/marinate-your-dried-herbs-for-better-vinaigrettes-1850238997)
 - [Lifehacker] [10 Home Remedies That May Do More Harm Than Good](https://lifehacker.com/10-home-remedies-that-may-do-more-harm-than-good-1850157348)
 - [Lifehacker] [Do Essential Oils Actually Do Anything?](https://lifehacker.com/do-essential-oils-actually-do-anything-1850174659)
