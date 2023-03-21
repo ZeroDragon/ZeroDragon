@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a React CRUD App using a RESTful API](https://dev.to/irfanfanen/build-a-react-crud-app-using-a-restful-api-2aej)
+- [Dev.to/JS] [Bitcoin Era - Results, Benefits, Reviews, Price &amp; Where To Buy?](https://dev.to/bitcoinera21682/bitcoin-era-results-benefits-reviews-price-where-to-buy-499k)
+- [Dev.to/JS] [Blog Website](https://dev.to/parthk57/blog-website-1og7)
+- [Lifehacker] [Avoid Distractions by Cleaning Your House in ‘Rounds’](https://lifehacker.com/avoid-distractions-by-cleaning-your-house-in-rounds-1850243990)
+- [Lifehacker] [Here’s When You Should Be Screened for the Most Common Cancers](https://lifehacker.com/here-s-when-you-should-be-screened-for-the-most-common-1850229849)
 - [Dev.to/JS] [What is the best example to learn the ES6 spread operator &lpar;...&rpar; ?](https://dev.to/mbshehzad/what-is-the-best-example-to-learn-about-the-es6-spread-operator--2aj8)
 - [Dev.to/JS] [Animated Spinner - React Native](https://dev.to/ezilemdodana/animated-spinner-react-native-1mo4)
 - [Dev.to/JS] [Superpowers with Directives and Dependency Injection: Part 3](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-3-18ja)
+- [Dev.to/JS] [Creating a SQL generator app with ChatGPT, PostgreSQL, and ToolJet](https://dev.to/tooljet/creating-a-sql-generator-app-with-chatgpt-postgresql-and-tooljet-e2k)
 - [Dev.to/JS] [Using custom Svelte stores](https://dev.to/finiam/using-custom-svelte-stores-1dma)
 - [Dev.to/JS] [Managing Dependencies with Yarn: Understanding Dependency Conflicts.](https://dev.to/mayurjagtap/managing-dependencies-with-yarn-understanding-dependency-conflicts-28c7)
 - [Dev.to/JS] [Paracetamol.ts💊| #32: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-32-explica-este-codigo-typescript-336j)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Pulando as nuvens&lpar;revisado&rpar;](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-pulando-as-nuvensrevisado-2421)
 - [Dev.to/JS] [Revisiting SQL composition in JavaScript and TypeScript](https://dev.to/tureluren/revisiting-sql-composition-in-javascript-and-typescript-46a2)
-- [Dev.to/JS] [How to integration ChatGPT with JavaScript?](https://dev.to/shraddhadeshmukh/how-to-integration-chatgpt-with-javascript-17hl)
-- [Dev.to/JS] [Node.js Modules: CommonJS vs. ECMAScript](https://dev.to/saisathish/nodejs-modules-commonjs-vs-ecmascript-28da)
-- [Dev.to/JS] [Fast Project Start with NestJS Boilerplate](https://dev.to/rodik/fast-project-start-with-nestjs-boilerplate-3992)
-- [Dev.to/JS] [13 Overstanding Options Of The Best Inkjet Printer When Fax](https://dev.to/shopoffice87/13-overstanding-options-of-the-best-inkjet-printer-when-fax-1f0g)
 - [Lifehacker] [What&#39;s New on Hulu in April 2023](https://lifehacker.com/whats-new-on-hulu-in-april-2023-1850245415)
 - [Lifehacker] [Foods You Should Be Grating, But Probably Aren&#39;t](https://lifehacker.com/foods-you-should-be-grating-aside-from-cheese-1850214371)
 - [Lifehacker] [Marinate Your Dried Herbs for Better Vinaigrettes](https://lifehacker.com/marinate-your-dried-herbs-for-better-vinaigrettes-1850238997)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
 - [Lifehacker] [You Should Salt Your Cheap Candy](https://lifehacker.com/you-should-salt-your-cheap-candy-1850229507)
 - [Lifehacker] [&#39;SpaceEngine&#39; Is Your Ticket to Exploring the Universe](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
-- [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)
-- [Lifehacker] [Claim Your Piece of the IKEA Privacy Settlement](https://lifehacker.com/ikea-violated-your-privacy-get-your-settlement-1850228778)
-- [Lifehacker] [Store Blankets by Turning Them Into &#39;Pillows&#39;](https://lifehacker.com/store-blankets-by-turning-them-into-pillows-1850228558)<!-- TECH-POSTS:END -->
+- [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)<!-- TECH-POSTS:END -->
 
 ---
 
