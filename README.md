@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Valid Sudoku Algo - Leetcode](https://dev.to/rhuzaifa/valid-sudoku-algo-leetcode-5f3h)
+- [Dev.to/JS] [Importing ES 6 Modules from CommonJS](https://dev.to/adambrandizzi/importing-es-6-modules-from-commonjs-1g0p)
+- [Lifehacker] [Make Black and White Cookies With Boxed Muffin Mix](https://lifehacker.com/make-black-and-white-cookies-with-boxed-muffin-mix-1850247611)
+- [Dev.to/JS] [Create text change hover effect with JavaScript](https://dev.to/rmmgc/create-text-change-hover-effect-with-javascript-4k5g)
+- [Dev.to/JS] [Tips before you choose to attend a coding bootcamp!](https://dev.to/xensan_dev/tips-before-you-choose-to-attend-a-coding-bootcamp-17g7)
+- [Dev.to/JS] [Deep dive into the browser events with mindmaps](https://dev.to/avinash8847/deep-dive-into-the-browser-events-with-mindmaps-4eel)
 - [Lifehacker] [You Can &lpar;Finally&rpar; Safely Edit a Screenshot on Your Pixel Without Someone Stealing Your Info](https://lifehacker.com/you-can-finally-safely-edit-a-screenshot-on-your-pixe-1850244750)
 - [Dev.to/JS] [10 Best Practices for JavaScript Testing and Debugging](https://dev.to/fannynyayic/10-best-practices-for-javascript-testing-and-debugging-3fgc)
 - [Dev.to/JS] [How set default value to select in angular template driven form](https://dev.to/julesadonsi/how-set-default-value-to-select-in-angular-template-driven-form-d33)
@@ -36,13 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Secret to Perfect Poached Eggs Is in the Shell](https://lifehacker.com/the-secret-to-perfect-poached-eggs-is-in-the-shell-1850244053)
 - [Dev.to/JS] [Migrating a Vite / React app from JavaScript to TypeScript](https://dev.to/rashidshamloo/migrating-a-vite-react-app-from-javascript-to-typescript-5dmn)
 - [Lifehacker] [This Caramelized Pickle Dip Slaps](https://lifehacker.com/this-caramelized-pickle-dip-slaps-1850245734)
-- [Dev.to/JS] [Building my Notes App Front-end using React and Tailwind part 2](https://dev.to/ki3ani/building-my-notes-app-front-end-using-react-and-tailwind-part-2-4lkd)
 - [Lifehacker] [Teach Your Teen to Start Cooking With These Easy Meal Ideas](https://lifehacker.com/teach-your-teen-to-start-cooking-with-these-easy-meal-i-1850245763)
-- [Dev.to/JS] [Something ChatGPT is good for?](https://dev.to/adatole/something-chatgpt-is-good-for-2m79)
-- [Dev.to/JS] [Advanced Ts: Type Predicates, Narrowing &amp; func Overrides.](https://dev.to/manuartero/advanced-ts-type-predicates-narrowing-func-override-51bl)
 - [Lifehacker] [Your Old Mac Might End Up in the Trash If You Don’t Do This](https://lifehacker.com/your-old-mac-might-end-up-in-the-trash-if-you-don-t-do-1850244023)
-- [Dev.to/JS] [10 Best Practices for Ecommerce Checkout Design](https://dev.to/medusajs/10-best-practices-for-ecommerce-checkout-design-81e)
-- [Dev.to/JS] [Moonly weekly progress update #41](https://dev.to/moonly/moonly-weekly-progress-update-41-3cod)
 - [Lifehacker] [You Can Make Money by Reviewing Books and Recording Audiobooks](https://lifehacker.com/you-can-money-by-reviewing-books-and-recording-audioboo-1850238880)
 - [Lifehacker] [Avoid Distractions by Cleaning Your House in ‘Rounds’](https://lifehacker.com/avoid-distractions-by-cleaning-your-house-in-rounds-1850243990)
 - [Lifehacker] [Here’s When You Should Be Screened for the Most Common Cancers](https://lifehacker.com/here-s-when-you-should-be-screened-for-the-most-common-1850229849)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Home Remedies Are Actually Better for Kids Than Cold Medicine](https://lifehacker.com/home-remedies-are-actually-better-for-kids-than-cold-me-1850146661)
 - [Lifehacker] [15 Popular Home Remedies, and Whether or Not They Actually Work](https://lifehacker.com/15-popular-home-remedies-and-whether-or-not-they-actua-1850192541)
 - [Lifehacker] [Home Remedies and Homeopathy Aren’t the Same Thing, and One of Them Is BS](https://lifehacker.com/home-remedies-and-homeopathy-aren-t-the-same-thing-and-1850147006)
-- [Lifehacker] [Your Complete Guide to Home Remedies: Safe, Dangerous, Fake, and Everything in Between](https://lifehacker.com/your-complete-guide-to-home-remedies-safe-dangerous-1850157618)
-- [Crazy Programmer] [7 Different Types of Computer](https://www.thecrazyprogrammer.com/2023/03/types-of-computer.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Complete Guide to Home Remedies: Safe, Dangerous, Fake, and Everything in Between](https://lifehacker.com/your-complete-guide-to-home-remedies-safe-dangerous-1850157618)<!-- TECH-POSTS:END -->
 
 ---
 
