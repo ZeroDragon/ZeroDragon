@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Slow days](https://dev.to/xensan_dev/slow-days-5aak)
+- [Dev.to/JS] [Microsoft Azure Maps Service](https://dev.to/sardarmudassaralikhan/microsoft-azure-maps-service-5630)
+- [Lifehacker] [You Can Sign Up for Google&#39;s AI Chatbot Right Now](https://lifehacker.com/you-can-sign-up-for-googles-ai-chatbot-right-now-1850247839)
+- [Dev.to/JS] [Adding &lpar;Partial&rpar; Skill Sets](https://dev.to/letmypeoplecode/adding-partial-skill-sets-142o)
+- [Lifehacker] [The Secret to Perfect Poached Eggs Is in the Shell](https://lifehacker.com/the-secret-to-perfect-poached-eggs-is-in-the-shell-1850244053)
 - [Dev.to/JS] [Migrating a Vite / React app from JavaScript to TypeScript](https://dev.to/rashidshamloo/migrating-a-vite-react-app-from-javascript-to-typescript-5dmn)
 - [Lifehacker] [This Caramelized Pickle Dip Slaps](https://lifehacker.com/this-caramelized-pickle-dip-slaps-1850245734)
 - [Dev.to/JS] [Building my Notes App Front-end using React and Tailwind part 2](https://dev.to/ki3ani/building-my-notes-app-front-end-using-react-and-tailwind-part-2-4lkd)
@@ -32,15 +37,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Old Mac Might End Up in the Trash If You Don’t Do This](https://lifehacker.com/your-old-mac-might-end-up-in-the-trash-if-you-don-t-do-1850244023)
 - [Dev.to/JS] [10 Best Practices for Ecommerce Checkout Design](https://dev.to/medusajs/10-best-practices-for-ecommerce-checkout-design-81e)
 - [Dev.to/JS] [Moonly weekly progress update #41](https://dev.to/moonly/moonly-weekly-progress-update-41-3cod)
-- [Lifehacker] [You Can Money by Reviewing Books and Recording Audiobooks](https://lifehacker.com/you-can-money-by-reviewing-books-and-recording-audioboo-1850238880)
+- [Lifehacker] [You Can Make Money by Reviewing Books and Recording Audiobooks](https://lifehacker.com/you-can-money-by-reviewing-books-and-recording-audioboo-1850238880)
 - [Dev.to/JS] [Build a React CRUD App using a RESTful API](https://dev.to/irfanfanen/build-a-react-crud-app-using-a-restful-api-2aej)
 - [Dev.to/JS] [Bitcoin Era - Results, Benefits, Reviews, Price &amp; Where To Buy?](https://dev.to/bitcoinera21682/bitcoin-era-results-benefits-reviews-price-where-to-buy-499k)
 - [Dev.to/JS] [Blog Website](https://dev.to/parthk57/blog-website-1og7)
 - [Lifehacker] [Avoid Distractions by Cleaning Your House in ‘Rounds’](https://lifehacker.com/avoid-distractions-by-cleaning-your-house-in-rounds-1850243990)
 - [Lifehacker] [Here’s When You Should Be Screened for the Most Common Cancers](https://lifehacker.com/here-s-when-you-should-be-screened-for-the-most-common-1850229849)
-- [Dev.to/JS] [What is the best example to learn the ES6 spread operator &lpar;...&rpar; ?](https://dev.to/mbshehzad/what-is-the-best-example-to-learn-about-the-es6-spread-operator--2aj8)
-- [Dev.to/JS] [Animated Spinner - React Native](https://dev.to/ezilemdodana/animated-spinner-react-native-1mo4)
-- [Dev.to/JS] [Superpowers with Directives and Dependency Injection: Part 3](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-3-18ja)
 - [Lifehacker] [What&#39;s New on Hulu in April 2023](https://lifehacker.com/whats-new-on-hulu-in-april-2023-1850245415)
 - [Lifehacker] [Foods You Should Be Grating, But Probably Aren&#39;t](https://lifehacker.com/foods-you-should-be-grating-aside-from-cheese-1850214371)
 - [Lifehacker] [Marinate Your Dried Herbs for Better Vinaigrettes](https://lifehacker.com/marinate-your-dried-herbs-for-better-vinaigrettes-1850238997)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [7 Different Types of Computer](https://www.thecrazyprogrammer.com/2023/03/types-of-computer.html)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2023](https://lifehacker.com/whats-new-on-disney-in-april-2023-1850238731)
 - [Lifehacker] [How to Unclog a Vape Pen](https://lifehacker.com/how-to-unclog-a-vape-pen-1850238482)
-- [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)
-- [Lifehacker] [You Can Completely Reset Your TikTok ‘For You’ Feed](https://lifehacker.com/you-can-completely-reset-your-tiktok-for-you-feed-1850237165)
-- [Lifehacker] [The One Area You Should Clean When You Feel Too Sad to Clean Anything](https://lifehacker.com/the-one-area-you-should-clean-when-you-feel-too-sad-to-1850236992)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Interview Podcasts Way Better Than Joe Rogan](https://lifehacker.com/12-interview-podcasts-way-better-than-joe-rogan-1850222565)<!-- TECH-POSTS:END -->
 
 ---
 
