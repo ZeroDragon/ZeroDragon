@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Episode 23/11: TypeScript 5, Ng-Poland Videos, Cypress 12.8 &amp; NgRx 15.4](https://dev.to/ng_news/episode-2311-typescript-5-ng-poland-videos-cypress-128-ngrx-154-3f40)
+- [Dev.to/JS] [How to add Nprogress to SvelteKit](https://dev.to/posandu/how-to-add-nprogress-to-sveltekit-48pc)
+- [Dev.to/JS] [How to upload images to Cloudinary using Express and Template Engines](https://dev.to/terieyenike/how-to-upload-images-to-cloudinary-using-express-and-template-engines-7g4)
 - [Dev.to/JS] [The easy approach to learning Object-Oriented Programming in JavaScript](https://dev.to/efkumah/the-easy-approach-to-learning-object-oriented-programming-in-javascript-5e24)
 - [Dev.to/JS] [Learning TypeScript with Exercism](https://dev.to/vulcanwm/learning-typescript-with-exercism-36fo)
 - [Dev.to/JS] [What the fuss is about RPC](https://dev.to/marcin_codes/what-the-fuss-is-about-rpc-16ki)
@@ -37,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deep dive into the browser events with mindmaps](https://dev.to/avinash8847/deep-dive-into-the-browser-events-with-mindmaps-4eel)
 - [Lifehacker] [You Can &lpar;Finally&rpar; Safely Edit a Screenshot on Your Pixel Without Someone Stealing Your Info](https://lifehacker.com/you-can-finally-safely-edit-a-screenshot-on-your-pixe-1850244750)
 - [Dev.to/JS] [10 Best Practices for JavaScript Testing and Debugging](https://dev.to/fannynyayic/10-best-practices-for-javascript-testing-and-debugging-3fgc)
-- [Dev.to/JS] [How set default value to select in angular template driven form](https://dev.to/julesadonsi/how-set-default-value-to-select-in-angular-template-driven-form-d33)
-- [Dev.to/JS] [Create A Passwordless Authentication System](https://dev.to/kalashin1/create-a-passwordless-authentication-system-ci3)
 - [Lifehacker] [How Virtual Reality Workouts Can Improve Your Body Image](https://lifehacker.com/how-virtual-reality-workouts-can-improve-your-body-imag-1850246571)
 - [Lifehacker] [You Can Get the Apple M2 Mac Mini for $100 Off Right Now](https://lifehacker.com/the-new-apple-m2-mac-mini-is-99-off-right-now-1850244694)
-- [Dev.to/JS] [Slow days](https://dev.to/xensan_dev/slow-days-5aak)
 - [Lifehacker] [You Can Sign Up for Google&#39;s AI Chatbot Right Now](https://lifehacker.com/you-can-sign-up-for-googles-ai-chatbot-right-now-1850247839)
 - [Lifehacker] [The Secret to Perfect Poached Eggs Is in the Shell](https://lifehacker.com/the-secret-to-perfect-poached-eggs-is-in-the-shell-1850244053)
 - [Lifehacker] [This Caramelized Pickle Dip Slaps](https://lifehacker.com/this-caramelized-pickle-dip-slaps-1850245734)
