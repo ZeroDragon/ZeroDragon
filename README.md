@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The easy approach to learning Object-Oriented Programming in JavaScript](https://dev.to/efkumah/the-easy-approach-to-learning-object-oriented-programming-in-javascript-5e24)
+- [Dev.to/JS] [Learning TypeScript with Exercism](https://dev.to/vulcanwm/learning-typescript-with-exercism-36fo)
+- [Dev.to/JS] [What the fuss is about RPC](https://dev.to/marcin_codes/what-the-fuss-is-about-rpc-16ki)
+- [Lifehacker] [Grab These Nine Kick-Ass PC Games While They’re Up to 75% Off](https://lifehacker.com/you-have-two-days-left-to-grab-killer-pc-games-in-the-s-1850245490)
 - [Lifehacker] [You Can Clean Your Dishwasher With Lemonade Kool-Aid](https://lifehacker.com/you-can-clean-your-dishwasher-with-lemonade-kool-aid-1850248114)
 - [Lifehacker] [Three Surprisingly Practical Uses for Dryer Lint](https://lifehacker.com/three-surprisingly-practical-uses-for-dryer-lint-1850244107)
 - [Dev.to/JS] [Valid Sudoku Algo - Leetcode](https://dev.to/rhuzaifa/valid-sudoku-algo-leetcode-5f3h)
@@ -38,11 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Virtual Reality Workouts Can Improve Your Body Image](https://lifehacker.com/how-virtual-reality-workouts-can-improve-your-body-imag-1850246571)
 - [Lifehacker] [You Can Get the Apple M2 Mac Mini for $100 Off Right Now](https://lifehacker.com/the-new-apple-m2-mac-mini-is-99-off-right-now-1850244694)
 - [Dev.to/JS] [Slow days](https://dev.to/xensan_dev/slow-days-5aak)
-- [Dev.to/JS] [Microsoft Azure Maps Service](https://dev.to/sardarmudassaralikhan/microsoft-azure-maps-service-5630)
 - [Lifehacker] [You Can Sign Up for Google&#39;s AI Chatbot Right Now](https://lifehacker.com/you-can-sign-up-for-googles-ai-chatbot-right-now-1850247839)
-- [Dev.to/JS] [Adding &lpar;Partial&rpar; Skill Sets](https://dev.to/letmypeoplecode/adding-partial-skill-sets-142o)
 - [Lifehacker] [The Secret to Perfect Poached Eggs Is in the Shell](https://lifehacker.com/the-secret-to-perfect-poached-eggs-is-in-the-shell-1850244053)
-- [Dev.to/JS] [Migrating a Vite / React app from JavaScript to TypeScript](https://dev.to/rashidshamloo/migrating-a-vite-react-app-from-javascript-to-typescript-5dmn)
 - [Lifehacker] [This Caramelized Pickle Dip Slaps](https://lifehacker.com/this-caramelized-pickle-dip-slaps-1850245734)
 - [Lifehacker] [Teach Your Teen to Start Cooking With These Easy Meal Ideas](https://lifehacker.com/teach-your-teen-to-start-cooking-with-these-easy-meal-i-1850245763)
 - [Lifehacker] [Your Old Mac Might End Up in the Trash If You Don’t Do This](https://lifehacker.com/your-old-mac-might-end-up-in-the-trash-if-you-don-t-do-1850244023)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Get Rid of a Wart on Your Own](https://lifehacker.com/the-easiest-way-to-get-rid-of-a-wart-on-your-own-1850151669)
 - [Lifehacker] [When to Use Ice on an Injury, and When to Use Heat](https://lifehacker.com/when-to-use-ice-on-an-injury-and-when-to-use-heat-1850155779)
 - [Lifehacker] [The Best Ways to Relieve Itchy Skin Without a Prescription](https://lifehacker.com/the-best-ways-to-relieve-itchy-skin-without-a-prescript-1850146899)
-- [Lifehacker] [Home Remedies Are Actually Better for Kids Than Cold Medicine](https://lifehacker.com/home-remedies-are-actually-better-for-kids-than-cold-me-1850146661)
-- [Lifehacker] [15 Popular Home Remedies, and Whether or Not They Actually Work](https://lifehacker.com/15-popular-home-remedies-and-whether-or-not-they-actua-1850192541)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Home Remedies Are Actually Better for Kids Than Cold Medicine](https://lifehacker.com/home-remedies-are-actually-better-for-kids-than-cold-me-1850146661)<!-- TECH-POSTS:END -->
 
 ---
 
