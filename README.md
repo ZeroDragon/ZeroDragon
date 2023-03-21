@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The history of the JavaScript Language](https://dev.to/devpedrofurquim/the-history-of-the-javascript-language-99b)
+- [Dev.to/JS] [Solving FreeCodeCamp JavaScript Algorithms and Data Structures projects](https://dev.to/brihoum/solving-freecodecamp-javascript-algorithms-and-data-structures-projects-2bi5)
+- [Dev.to/JS] [World of Goo](https://dev.to/diniremix/world-of-goo-521k)
 - [Dev.to/JS] [Tealium iQ basics concepts pt 1](https://dev.to/laisramos123/tealium-iq-basics-concepts-pt-1-3elg)
 - [Dev.to/JS] [Tetris timer - the first part](https://dev.to/firemark/tetris-timer-the-first-part-haf)
 - [Lifehacker] [What&#39;s New on Hulu in April 2023](https://lifehacker.com/whats-new-on-hulu-in-april-2023-1850245415)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to make long functions more readable](https://dev.to/tahazsh/how-to-make-long-functions-more-readable-1bmo)
 - [Dev.to/JS] [Understanding JavaScript API Requests and Responses in the Data Fetching lifecycle](https://dev.to/rodcast/understanding-javascript-api-requests-and-responses-in-the-data-fetching-lifecycle-30np)
 - [Dev.to/JS] [Learn Javascript My Way](https://dev.to/jonesrussell/learn-javascript-my-way-5bh2)
-- [Dev.to/JS] [Understanding Blockchain using JavaScript Class](https://dev.to/callezenwaka/understanding-blockchain-using-javascript-class-1lak)
-- [Dev.to/JS] [What are software process models?](https://dev.to/sardarmudassaralikhan/what-are-software-process-models-53e5)
-- [Dev.to/JS] [JavaScript Trick: Guessing Users&#39; Country Calling Codes by Time Zone](https://dev.to/suikodev/javascript-trick-guessing-users-country-calling-codes-by-time-zone-2p9a)
 - [Lifehacker] [Marinate Your Dried Herbs for Better Vinaigrettes](https://lifehacker.com/marinate-your-dried-herbs-for-better-vinaigrettes-1850238997)
 - [Lifehacker] [10 Home Remedies That May Do More Harm Than Good](https://lifehacker.com/10-home-remedies-that-may-do-more-harm-than-good-1850157348)
 - [Lifehacker] [Do Essential Oils Actually Do Anything?](https://lifehacker.com/do-essential-oils-actually-do-anything-1850174659)
