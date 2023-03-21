@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I Used ChatGPT to Create Something Ugly](https://dev.to/damsalem/i-used-chatgpt-to-create-something-ugly-52bj)
+- [Dev.to/JS] [Performance Optimization using Code Splitting - Day 2 of 30 Days of React Tips and Tricks](https://dev.to/tejas2805/performance-optimization-using-code-splitting-day-2-of-30-days-of-react-tips-and-tricks-1oh7)
 - [Dev.to/JS] [Episode 23/11: TypeScript 5, Ng-Poland Videos, Cypress 12.8 &amp; NgRx 15.4](https://dev.to/ng_news/episode-2311-typescript-5-ng-poland-videos-cypress-128-ngrx-154-3f40)
 - [Dev.to/JS] [How to add Nprogress to SvelteKit](https://dev.to/posandu/how-to-add-nprogress-to-sveltekit-48pc)
 - [Dev.to/JS] [How to upload images to Cloudinary using Express and Template Engines](https://dev.to/terieyenike/how-to-upload-images-to-cloudinary-using-express-and-template-engines-7g4)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Black and White Cookies With Boxed Muffin Mix](https://lifehacker.com/make-black-and-white-cookies-with-boxed-muffin-mix-1850247611)
 - [Dev.to/JS] [Create text change hover effect with JavaScript](https://dev.to/rmmgc/create-text-change-hover-effect-with-javascript-4k5g)
 - [Dev.to/JS] [Tips before you choose to attend a coding bootcamp!](https://dev.to/xensan_dev/tips-before-you-choose-to-attend-a-coding-bootcamp-17g7)
-- [Dev.to/JS] [Deep dive into the browser events with mindmaps](https://dev.to/avinash8847/deep-dive-into-the-browser-events-with-mindmaps-4eel)
 - [Lifehacker] [You Can &lpar;Finally&rpar; Safely Edit a Screenshot on Your Pixel Without Someone Stealing Your Info](https://lifehacker.com/you-can-finally-safely-edit-a-screenshot-on-your-pixe-1850244750)
-- [Dev.to/JS] [10 Best Practices for JavaScript Testing and Debugging](https://dev.to/fannynyayic/10-best-practices-for-javascript-testing-and-debugging-3fgc)
 - [Lifehacker] [How Virtual Reality Workouts Can Improve Your Body Image](https://lifehacker.com/how-virtual-reality-workouts-can-improve-your-body-imag-1850246571)
 - [Lifehacker] [You Can Get the Apple M2 Mac Mini for $100 Off Right Now](https://lifehacker.com/the-new-apple-m2-mac-mini-is-99-off-right-now-1850244694)
 - [Lifehacker] [You Can Sign Up for Google&#39;s AI Chatbot Right Now](https://lifehacker.com/you-can-sign-up-for-googles-ai-chatbot-right-now-1850247839)
