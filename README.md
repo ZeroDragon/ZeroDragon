@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to write your own zod](https://dev.to/jarvispact/how-to-write-your-own-zod-2dok)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;21-03-2023&rpar; - Mid-week special: Catching up](https://dev.to/mjgs/this-weeks-newsletter-is-out-21-03-2023-mid-week-special-catching-up-4bfb)
 - [Dev.to/JS] [A Complete Guide to CSS Refactoring](https://dev.to/lambdatest/a-complete-guide-to-css-refactoring-152m)
 - [Dev.to/JS] [TypeScript vs JavaScript : A Comprehensive Comparison](https://dev.to/himadripatelace/typescript-vs-javascript-a-comprehensive-comparison-e02)
 - [Dev.to/JS] [We Care health website](https://dev.to/kaarthikrishna/we-care-health-website-25k2)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [FAMEUX](https://dev.to/_fameux_/fameux-56ii)
 - [Dev.to/JS] [creating badge-lists, fancy stuff](https://dev.to/lizblake/creating-badge-lists-fancy-stuff-o30)
 - [Dev.to/JS] [Boost Your Next Project with My Comprehensive List of Free APIs – 1000+ and Counting!](https://dev.to/ritesh2204/boost-your-next-project-with-my-comprehensive-list-of-free-apis-1000-and-counting-2eh1)
-- [Dev.to/JS] [How Use Circuit Breaker in NodeJS](https://dev.to/lovepreetsingh/how-use-circuit-breaker-in-nodejs-4ake)
-- [Dev.to/JS] [React e POO: Um guia para iniciantes](https://dev.to/1mayk/react-e-poo-um-guia-para-iniciantes-ka3)
 - [Lifehacker] [What&#39;s New on Hulu in April 2023](https://lifehacker.com/whats-new-on-hulu-in-april-2023-1850245415)
 - [Lifehacker] [Foods You Should Be Grating, But Probably Aren&#39;t](https://lifehacker.com/foods-you-should-be-grating-aside-from-cheese-1850214371)
 - [Lifehacker] [Marinate Your Dried Herbs for Better Vinaigrettes](https://lifehacker.com/marinate-your-dried-herbs-for-better-vinaigrettes-1850238997)
