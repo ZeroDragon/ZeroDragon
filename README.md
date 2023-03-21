@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Does it Work Geolocation IP Address ?](https://dev.to/meenal_01/how-does-it-work-geolocation-ip-address--4lcn)
 - [Dev.to/JS] [Hello Dev.to](https://dev.to/xensan_dev/hello-devto-28h0)
 - [Dev.to/JS] [Lexical Scoping vs Closures](https://dev.to/souravbandyopadhyay/lexical-scoping-vs-closures-52cd)
 - [Dev.to/JS] [Top Most Popular Website Development Frameworks in 2023](https://dev.to/amandacowell/top-most-popular-website-development-frameworks-in-2023-42d0)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Length of a string](https://dev.to/sujeetpro/length-of-a-string-4cb0)
 - [Dev.to/JS] [Awesome Rust Projects, EP 1 &lpar;Tauri&rpar;](https://dev.to/chandrapenugonda/awesome-rust-projects-ep-1-tauri-56i)
 - [Dev.to/JS] [localStorage VS sessionStorage: A Comprehensive Comparison](https://dev.to/asayerio_techblog/localstorage-vs-sessionstorage-a-comprehensive-comparison-147j)
-- [Dev.to/JS] [Testlash o&#39;zi nimaga kerak, tinchgina yashasak bo&#39;lmaydimi!](https://dev.to/humoyun/testlash-ozi-nimaga-kerak-tinchgina-yashasak-bolmaydimi-2elj)
 - [Lifehacker] [What&#39;s New on Hulu in April 2023](https://lifehacker.com/whats-new-on-hulu-in-april-2023-1850245415)
 - [Lifehacker] [Foods You Should Be Grating, But Probably Aren&#39;t](https://lifehacker.com/foods-you-should-be-grating-aside-from-cheese-1850214371)
 - [Lifehacker] [Marinate Your Dried Herbs for Better Vinaigrettes](https://lifehacker.com/marinate-your-dried-herbs-for-better-vinaigrettes-1850238997)
