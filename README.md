@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Something ChatGPT is good for?](https://dev.to/adatole/something-chatgpt-is-good-for-2m79)
+- [Dev.to/JS] [Advanced Ts: Type Predicates, Narrowing &amp; func Overrides.](https://dev.to/manuartero/advanced-ts-type-predicates-narrowing-func-override-51bl)
+- [Lifehacker] [Your Old Mac Might End Up in the Trash If You Don’t Do This](https://lifehacker.com/your-old-mac-might-end-up-in-the-trash-if-you-don-t-do-1850244023)
+- [Dev.to/JS] [10 Best Practices for Ecommerce Checkout Design](https://dev.to/medusajs/10-best-practices-for-ecommerce-checkout-design-81e)
+- [Dev.to/JS] [Moonly weekly progress update #41](https://dev.to/moonly/moonly-weekly-progress-update-41-3cod)
+- [Lifehacker] [You Can Money by Reviewing Books and Recording Audiobooks](https://lifehacker.com/you-can-money-by-reviewing-books-and-recording-audioboo-1850238880)
 - [Dev.to/JS] [Build a React CRUD App using a RESTful API](https://dev.to/irfanfanen/build-a-react-crud-app-using-a-restful-api-2aej)
 - [Dev.to/JS] [Bitcoin Era - Results, Benefits, Reviews, Price &amp; Where To Buy?](https://dev.to/bitcoinera21682/bitcoin-era-results-benefits-reviews-price-where-to-buy-499k)
 - [Dev.to/JS] [Blog Website](https://dev.to/parthk57/blog-website-1og7)
@@ -33,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Superpowers with Directives and Dependency Injection: Part 3](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-3-18ja)
 - [Dev.to/JS] [Creating a SQL generator app with ChatGPT, PostgreSQL, and ToolJet](https://dev.to/tooljet/creating-a-sql-generator-app-with-chatgpt-postgresql-and-tooljet-e2k)
 - [Dev.to/JS] [Using custom Svelte stores](https://dev.to/finiam/using-custom-svelte-stores-1dma)
-- [Dev.to/JS] [Managing Dependencies with Yarn: Understanding Dependency Conflicts.](https://dev.to/mayurjagtap/managing-dependencies-with-yarn-understanding-dependency-conflicts-28c7)
-- [Dev.to/JS] [Paracetamol.ts💊| #32: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-32-explica-este-codigo-typescript-336j)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Pulando as nuvens&lpar;revisado&rpar;](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-pulando-as-nuvensrevisado-2421)
-- [Dev.to/JS] [Revisiting SQL composition in JavaScript and TypeScript](https://dev.to/tureluren/revisiting-sql-composition-in-javascript-and-typescript-46a2)
 - [Lifehacker] [What&#39;s New on Hulu in April 2023](https://lifehacker.com/whats-new-on-hulu-in-april-2023-1850245415)
 - [Lifehacker] [Foods You Should Be Grating, But Probably Aren&#39;t](https://lifehacker.com/foods-you-should-be-grating-aside-from-cheese-1850214371)
 - [Lifehacker] [Marinate Your Dried Herbs for Better Vinaigrettes](https://lifehacker.com/marinate-your-dried-herbs-for-better-vinaigrettes-1850238997)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Completely Reset Your TikTok ‘For You’ Feed](https://lifehacker.com/you-can-completely-reset-your-tiktok-for-you-feed-1850237165)
 - [Lifehacker] [The One Area You Should Clean When You Feel Too Sad to Clean Anything](https://lifehacker.com/the-one-area-you-should-clean-when-you-feel-too-sad-to-1850236992)
 - [Lifehacker] [15 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
-- [Lifehacker] [You Should Salt Your Cheap Candy](https://lifehacker.com/you-should-salt-your-cheap-candy-1850229507)
-- [Lifehacker] [&#39;SpaceEngine&#39; Is Your Ticket to Exploring the Universe](https://lifehacker.com/spaceengine-is-your-ticket-to-exploring-the-universe-1850228567)
-- [Lifehacker] [30 Movies That Are Somehow Turning 30 This Year](https://lifehacker.com/30-movies-that-are-somehow-turning-30-this-year-1850218605)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Salt Your Cheap Candy](https://lifehacker.com/you-should-salt-your-cheap-candy-1850229507)<!-- TECH-POSTS:END -->
 
 ---
 
