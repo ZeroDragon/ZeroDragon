@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Clean Your Dishwasher With Lemonade Kool-Aid](https://lifehacker.com/you-can-clean-your-dishwasher-with-lemonade-kool-aid-1850248114)
+- [Lifehacker] [Three Surprisingly Practical Uses for Dryer Lint](https://lifehacker.com/three-surprisingly-practical-uses-for-dryer-lint-1850244107)
 - [Dev.to/JS] [Valid Sudoku Algo - Leetcode](https://dev.to/rhuzaifa/valid-sudoku-algo-leetcode-5f3h)
 - [Dev.to/JS] [Importing ES 6 Modules from CommonJS](https://dev.to/adambrandizzi/importing-es-6-modules-from-commonjs-1g0p)
 - [Lifehacker] [Make Black and White Cookies With Boxed Muffin Mix](https://lifehacker.com/make-black-and-white-cookies-with-boxed-muffin-mix-1850247611)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to Use Ice on an Injury, and When to Use Heat](https://lifehacker.com/when-to-use-ice-on-an-injury-and-when-to-use-heat-1850155779)
 - [Lifehacker] [The Best Ways to Relieve Itchy Skin Without a Prescription](https://lifehacker.com/the-best-ways-to-relieve-itchy-skin-without-a-prescript-1850146899)
 - [Lifehacker] [Home Remedies Are Actually Better for Kids Than Cold Medicine](https://lifehacker.com/home-remedies-are-actually-better-for-kids-than-cold-me-1850146661)
-- [Lifehacker] [15 Popular Home Remedies, and Whether or Not They Actually Work](https://lifehacker.com/15-popular-home-remedies-and-whether-or-not-they-actua-1850192541)
-- [Lifehacker] [Home Remedies and Homeopathy Aren’t the Same Thing, and One of Them Is BS](https://lifehacker.com/home-remedies-and-homeopathy-aren-t-the-same-thing-and-1850147006)
-- [Lifehacker] [Your Complete Guide to Home Remedies: Safe, Dangerous, Fake, and Everything in Between](https://lifehacker.com/your-complete-guide-to-home-remedies-safe-dangerous-1850157618)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 Popular Home Remedies, and Whether or Not They Actually Work](https://lifehacker.com/15-popular-home-remedies-and-whether-or-not-they-actua-1850192541)<!-- TECH-POSTS:END -->
 
 ---
 
