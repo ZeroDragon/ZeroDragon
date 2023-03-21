@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is the best example to learn the ES6 spread operator &lpar;...&rpar; ?](https://dev.to/mbshehzad/what-is-the-best-example-to-learn-about-the-es6-spread-operator--2aj8)
+- [Dev.to/JS] [Animated Spinner - React Native](https://dev.to/ezilemdodana/animated-spinner-react-native-1mo4)
+- [Dev.to/JS] [Superpowers with Directives and Dependency Injection: Part 3](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-3-18ja)
+- [Dev.to/JS] [Using custom Svelte stores](https://dev.to/finiam/using-custom-svelte-stores-1dma)
+- [Dev.to/JS] [Managing Dependencies with Yarn: Understanding Dependency Conflicts.](https://dev.to/mayurjagtap/managing-dependencies-with-yarn-understanding-dependency-conflicts-28c7)
 - [Dev.to/JS] [Paracetamol.ts💊| #32: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-32-explica-este-codigo-typescript-336j)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Pulando as nuvens&lpar;revisado&rpar;](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-pulando-as-nuvensrevisado-2421)
 - [Dev.to/JS] [Revisiting SQL composition in JavaScript and TypeScript](https://dev.to/tureluren/revisiting-sql-composition-in-javascript-and-typescript-46a2)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node.js Modules: CommonJS vs. ECMAScript](https://dev.to/saisathish/nodejs-modules-commonjs-vs-ecmascript-28da)
 - [Dev.to/JS] [Fast Project Start with NestJS Boilerplate](https://dev.to/rodik/fast-project-start-with-nestjs-boilerplate-3992)
 - [Dev.to/JS] [13 Overstanding Options Of The Best Inkjet Printer When Fax](https://dev.to/shopoffice87/13-overstanding-options-of-the-best-inkjet-printer-when-fax-1f0g)
-- [Dev.to/JS] [How to write your own zod](https://dev.to/jarvispact/how-to-write-your-own-zod-2dok)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;21-03-2023&rpar; - Mid-week special: Catching up](https://dev.to/mjgs/this-weeks-newsletter-is-out-21-03-2023-mid-week-special-catching-up-4bfb)
-- [Dev.to/JS] [A Complete Guide to CSS Refactoring](https://dev.to/lambdatest/a-complete-guide-to-css-refactoring-152m)
-- [Dev.to/JS] [TypeScript vs JavaScript : A Comprehensive Comparison](https://dev.to/himadripatelace/typescript-vs-javascript-a-comprehensive-comparison-e02)
-- [Dev.to/JS] [We Care health website](https://dev.to/kaarthikrishna/we-care-health-website-25k2)
 - [Lifehacker] [What&#39;s New on Hulu in April 2023](https://lifehacker.com/whats-new-on-hulu-in-april-2023-1850245415)
 - [Lifehacker] [Foods You Should Be Grating, But Probably Aren&#39;t](https://lifehacker.com/foods-you-should-be-grating-aside-from-cheese-1850214371)
 - [Lifehacker] [Marinate Your Dried Herbs for Better Vinaigrettes](https://lifehacker.com/marinate-your-dried-herbs-for-better-vinaigrettes-1850238997)
