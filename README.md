@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hello Dev.to](https://dev.to/xensan_dev/hello-devto-28h0)
+- [Dev.to/JS] [Lexical Scoping vs Closures](https://dev.to/souravbandyopadhyay/lexical-scoping-vs-closures-52cd)
+- [Dev.to/JS] [Top Most Popular Website Development Frameworks in 2023](https://dev.to/amandacowell/top-most-popular-website-development-frameworks-in-2023-42d0)
+- [Dev.to/JS] [FAMEUX](https://dev.to/_fameux_/fameux-56ii)
+- [Dev.to/JS] [creating badge-lists, fancy stuff](https://dev.to/lizblake/creating-badge-lists-fancy-stuff-o30)
 - [Dev.to/JS] [Boost Your Next Project with My Comprehensive List of Free APIs – 1000+ and Counting!](https://dev.to/ritesh2204/boost-your-next-project-with-my-comprehensive-list-of-free-apis-1000-and-counting-2eh1)
 - [Dev.to/JS] [How Use Circuit Breaker in NodeJS](https://dev.to/lovepreetsingh/how-use-circuit-breaker-in-nodejs-4ake)
 - [Dev.to/JS] [React e POO: Um guia para iniciantes](https://dev.to/1mayk/react-e-poo-um-guia-para-iniciantes-ka3)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Awesome Rust Projects, EP 1 &lpar;Tauri&rpar;](https://dev.to/chandrapenugonda/awesome-rust-projects-ep-1-tauri-56i)
 - [Dev.to/JS] [localStorage VS sessionStorage: A Comprehensive Comparison](https://dev.to/asayerio_techblog/localstorage-vs-sessionstorage-a-comprehensive-comparison-147j)
 - [Dev.to/JS] [Testlash o&#39;zi nimaga kerak, tinchgina yashasak bo&#39;lmaydimi!](https://dev.to/humoyun/testlash-ozi-nimaga-kerak-tinchgina-yashasak-bolmaydimi-2elj)
-- [Dev.to/JS] [A Beginner&#39;s Guide to OOP in JavaScript](https://dev.to/asayerio_techblog/a-beginners-guide-to-oop-in-javascript-5b0p)
-- [Dev.to/JS] [notas sobre IndexedDB](https://dev.to/diniremix/notas-sobre-indexeddb-17bp)
-- [Dev.to/JS] [⚔React vs. Vue.js: A Batalha dos Gigantes do Front-end](https://dev.to/mpetry/react-vs-vuejs-a-batalha-dos-gigantes-do-front-end-2pdk)
-- [Dev.to/JS] [Understanding Prop Types in React - Day 1 of 30 Days of React Tips and Tricks](https://dev.to/tejas2805/understanding-prop-types-in-react-day-1-of-30-days-of-react-tips-and-tricks-1in7)
-- [Dev.to/JS] [The history of the JavaScript Language](https://dev.to/devpedrofurquim/the-history-of-the-javascript-language-99b)
 - [Lifehacker] [What&#39;s New on Hulu in April 2023](https://lifehacker.com/whats-new-on-hulu-in-april-2023-1850245415)
 - [Lifehacker] [Foods You Should Be Grating, But Probably Aren&#39;t](https://lifehacker.com/foods-you-should-be-grating-aside-from-cheese-1850214371)
 - [Lifehacker] [Marinate Your Dried Herbs for Better Vinaigrettes](https://lifehacker.com/marinate-your-dried-herbs-for-better-vinaigrettes-1850238997)
