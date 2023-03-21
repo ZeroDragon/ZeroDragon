@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React e POO: Um guia para iniciantes](https://dev.to/1mayk/react-e-poo-um-guia-para-iniciantes-ka3)
+- [Dev.to/JS] [Length of a string](https://dev.to/sujeetpro/length-of-a-string-4cb0)
+- [Dev.to/JS] [Awesome Rust Projects, EP 1 &lpar;Tauri&rpar;](https://dev.to/chandrapenugonda/awesome-rust-projects-ep-1-tauri-56i)
 - [Dev.to/JS] [localStorage VS sessionStorage: A Comprehensive Comparison](https://dev.to/asayerio_techblog/localstorage-vs-sessionstorage-a-comprehensive-comparison-147j)
 - [Dev.to/JS] [Testlash o&#39;zi nimaga kerak, tinchgina yashasak bo&#39;lmaydimi!](https://dev.to/humoyun/testlash-ozi-nimaga-kerak-tinchgina-yashasak-bolmaydimi-2elj)
 - [Dev.to/JS] [A Beginner&#39;s Guide to OOP in JavaScript](https://dev.to/asayerio_techblog/a-beginners-guide-to-oop-in-javascript-5b0p)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The history of the JavaScript Language](https://dev.to/devpedrofurquim/the-history-of-the-javascript-language-99b)
 - [Dev.to/JS] [Solving FreeCodeCamp JavaScript Algorithms and Data Structures projects](https://dev.to/brihoum/solving-freecodecamp-javascript-algorithms-and-data-structures-projects-2bi5)
 - [Dev.to/JS] [World of Goo](https://dev.to/diniremix/world-of-goo-521k)
-- [Dev.to/JS] [Tealium iQ basics concepts pt 1](https://dev.to/laisramos123/tealium-iq-basics-concepts-pt-1-3elg)
-- [Dev.to/JS] [Tetris timer - the first part](https://dev.to/firemark/tetris-timer-the-first-part-haf)
 - [Lifehacker] [What&#39;s New on Hulu in April 2023](https://lifehacker.com/whats-new-on-hulu-in-april-2023-1850245415)
-- [Dev.to/JS] [Javascript Factory Design Pattern](https://dev.to/bvnkumar/javascript-factory-design-pattern-31n4)
 - [Lifehacker] [Foods You Should Be Grating, But Probably Aren&#39;t](https://lifehacker.com/foods-you-should-be-grating-aside-from-cheese-1850214371)
 - [Lifehacker] [Marinate Your Dried Herbs for Better Vinaigrettes](https://lifehacker.com/marinate-your-dried-herbs-for-better-vinaigrettes-1850238997)
 - [Lifehacker] [10 Home Remedies That May Do More Harm Than Good](https://lifehacker.com/10-home-remedies-that-may-do-more-harm-than-good-1850157348)
