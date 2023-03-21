@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.ts💊| #32: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-32-explica-este-codigo-typescript-336j)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Pulando as nuvens&lpar;revisado&rpar;](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-pulando-as-nuvensrevisado-2421)
+- [Dev.to/JS] [Revisiting SQL composition in JavaScript and TypeScript](https://dev.to/tureluren/revisiting-sql-composition-in-javascript-and-typescript-46a2)
+- [Dev.to/JS] [How to integration ChatGPT with JavaScript?](https://dev.to/shraddhadeshmukh/how-to-integration-chatgpt-with-javascript-17hl)
 - [Dev.to/JS] [Node.js Modules: CommonJS vs. ECMAScript](https://dev.to/saisathish/nodejs-modules-commonjs-vs-ecmascript-28da)
 - [Dev.to/JS] [Fast Project Start with NestJS Boilerplate](https://dev.to/rodik/fast-project-start-with-nestjs-boilerplate-3992)
 - [Dev.to/JS] [13 Overstanding Options Of The Best Inkjet Printer When Fax](https://dev.to/shopoffice87/13-overstanding-options-of-the-best-inkjet-printer-when-fax-1f0g)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Complete Guide to CSS Refactoring](https://dev.to/lambdatest/a-complete-guide-to-css-refactoring-152m)
 - [Dev.to/JS] [TypeScript vs JavaScript : A Comprehensive Comparison](https://dev.to/himadripatelace/typescript-vs-javascript-a-comprehensive-comparison-e02)
 - [Dev.to/JS] [We Care health website](https://dev.to/kaarthikrishna/we-care-health-website-25k2)
-- [Dev.to/JS] [How Does it Work Geolocation IP Address ?](https://dev.to/meenal_01/how-does-it-work-geolocation-ip-address--4lcn)
-- [Dev.to/JS] [Hello Dev.to](https://dev.to/xensan_dev/hello-devto-28h0)
-- [Dev.to/JS] [Lexical Scoping vs Closures](https://dev.to/souravbandyopadhyay/lexical-scoping-vs-closures-52cd)
-- [Dev.to/JS] [Top Most Popular Website Development Frameworks in 2023](https://dev.to/amandacowell/top-most-popular-website-development-frameworks-in-2023-42d0)
 - [Lifehacker] [What&#39;s New on Hulu in April 2023](https://lifehacker.com/whats-new-on-hulu-in-april-2023-1850245415)
 - [Lifehacker] [Foods You Should Be Grating, But Probably Aren&#39;t](https://lifehacker.com/foods-you-should-be-grating-aside-from-cheese-1850214371)
 - [Lifehacker] [Marinate Your Dried Herbs for Better Vinaigrettes](https://lifehacker.com/marinate-your-dried-herbs-for-better-vinaigrettes-1850238997)
