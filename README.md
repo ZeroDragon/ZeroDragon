@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MERN Stack Chat App #1](https://dev.to/xensan_dev/mern-stack-chat-app-1-4gln)
+- [Dev.to/JS] [Command Pattern in Programming using a uber as a case study](https://dev.to/walosha/command-pattern-in-programming-using-a-uber-app-pjd)
 - [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)
 - [Dev.to/JS] [Namespaces Abstracted](https://dev.to/itsmohamedyahia/namespaces-abstracted-2ghn)
 - [Lifehacker] [Xbox Is Having a Massive Sale on Games Right Now](https://lifehacker.com/xbox-is-having-a-massive-sale-on-games-right-now-1850253578)
@@ -46,9 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Coding Journey.](https://dev.to/k224912/my-coding-journey-2158)
 - [Lifehacker] [This Move-Out Checklist Will Help You Get Your Security Deposit Back](https://lifehacker.com/this-move-out-checklist-will-help-you-get-your-security-1850248576)
 - [Lifehacker] [Your Car Needs These Hospital-Grade Barf Bags](https://lifehacker.com/your-car-needs-these-hospital-grade-barf-bags-1850249065)
-- [Dev.to/JS] [It&#39;s Showtime: Rendering Lists and Conditional Content in React.js, the Fun Way! 🎬](https://dev.to/almonteluis/its-showtime-rendering-lists-and-conditional-content-in-reactjs-the-fun-way-161j)
 - [Lifehacker] [The Better Way to Cut a Clean Slice of Cake](https://lifehacker.com/the-better-way-to-cut-a-clean-slice-of-cake-1850249102)
-- [Dev.to/JS] [HTTP request: Fetch vs Axios](https://dev.to/oluwatrillions/http-request-fetch-vs-axios-591f)
 - [Lifehacker] [Should You Have a Lobotomy?](https://lifehacker.com/should-you-have-a-lobotomy-1850244972)
 - [Lifehacker] [Grab These Nine Kick-Ass PC Games While They’re Up to 75% Off](https://lifehacker.com/you-have-two-days-left-to-grab-killer-pc-games-in-the-s-1850245490)
 - [Lifehacker] [You Can Clean Your Dishwasher With Lemonade Kool-Aid](https://lifehacker.com/you-can-clean-your-dishwasher-with-lemonade-kool-aid-1850248114)
