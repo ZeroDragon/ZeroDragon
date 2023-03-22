@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Kodansha USA Is Giving Away a Ton of Free Manga Right Now](https://lifehacker.com/kodansha-usa-is-giving-away-a-ton-of-free-manga-right-n-1850250066)
+- [Dev.to/JS] [I&#39;m planning to build a new OS for embedded smart displays](https://dev.to/souviktests/im-planning-to-build-a-new-os-for-embedded-smart-displays-319e)
+- [Dev.to/JS] [Aprende a utilizar el operador ternario en JavaScript](https://dev.to/asjordi/aprende-a-utilizar-el-operador-ternario-en-javascript-48go)
+- [Dev.to/JS] [Paracetamol.ts💊| #33: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-33-explica-este-codigo-typescript-1gp0)
+- [Lifehacker] [Domino’s Pizza Is Better When It’s Half Off](https://lifehacker.com/domino-s-pizza-is-better-when-it-s-half-off-1850249607)
+- [Dev.to/JS] [Web-Based Secure Password Reset with tru.ID and Vonage](https://dev.to/tru-id/web-based-secure-password-reset-with-truid-and-vonage-4aak)
 - [Lifehacker] [Protect Your Elderly Parents From Medicaid’s ‘Five-Year Look-Back’ Rule](https://lifehacker.com/protect-your-elderly-parents-from-medicaid-s-five-year-1850250694)
 - [Dev.to/JS] [[4/4] Passez de zéro à héro avec ces méthodes JavaScript](https://dev.to/vincent_react/44-passez-de-zero-a-hero-avec-ces-methodes-javascript-3kl)
 - [Lifehacker] [Buy These Nintendo 3DS Games Before They Disappear Forever](https://lifehacker.com/buy-these-nintendo-3ds-games-before-they-disappear-fore-1850249379)
@@ -37,10 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Have a Lobotomy?](https://lifehacker.com/should-you-have-a-lobotomy-1850244972)
 - [Dev.to/JS] [Exploring the Power of Node.js for Real-time Communication and WebSockets](https://dev.to/folasayosamuel/exploring-the-power-of-nodejs-for-real-time-communication-and-websockets-555k)
 - [Dev.to/JS] [VBucks Generator - Reviews, Benefits, Results, Warnings &amp; Conplaints?](https://dev.to/freevbucks11051/vbucks-generator-reviews-benefits-results-warnings-conplaints-bdg)
-- [Dev.to/JS] [Optimizing Real-Time Suggestion Dropdowns in React: Using useCallback and useEffect](https://dev.to/jocrgb/optimizing-real-time-suggestion-dropdowns-in-react-using-usecallback-and-useeffect-54md)
-- [Dev.to/JS] [Using Feature Flags for API Version upgrades](https://dev.to/builderio/using-feature-flags-for-api-version-upgrades-158m)
-- [Dev.to/JS] [Top 5 React Admin Templates](https://dev.to/necatiozmen/top-5-react-admin-templates-j0b)
-- [Dev.to/JS] [Elm for React developers](https://dev.to/rhg/elm-for-react-developers-p8o)
 - [Lifehacker] [Grab These Nine Kick-Ass PC Games While They’re Up to 75% Off](https://lifehacker.com/you-have-two-days-left-to-grab-killer-pc-games-in-the-s-1850245490)
 - [Lifehacker] [You Can Clean Your Dishwasher With Lemonade Kool-Aid](https://lifehacker.com/you-can-clean-your-dishwasher-with-lemonade-kool-aid-1850248114)
 - [Lifehacker] [Three Surprisingly Practical Uses for Dryer Lint](https://lifehacker.com/three-surprisingly-practical-uses-for-dryer-lint-1850244107)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Foods You Should Be Grating, But Probably Aren&#39;t](https://lifehacker.com/foods-you-should-be-grating-aside-from-cheese-1850214371)
 - [Lifehacker] [Marinate Your Dried Herbs for Better Vinaigrettes](https://lifehacker.com/marinate-your-dried-herbs-for-better-vinaigrettes-1850238997)
 - [Lifehacker] [10 Home Remedies That May Do More Harm Than Good](https://lifehacker.com/10-home-remedies-that-may-do-more-harm-than-good-1850157348)
-- [Lifehacker] [Do Essential Oils Actually Do Anything?](https://lifehacker.com/do-essential-oils-actually-do-anything-1850174659)
-- [Lifehacker] [Teas Aren’t As Useful As You Might Think](https://lifehacker.com/teas-aren-t-as-useful-as-you-might-think-1850205204)
-- [Lifehacker] [How to Do a Saltwater Rinse &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-do-a-saltwater-rinse-and-when-you-should-1850195735)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Do Essential Oils Actually Do Anything?](https://lifehacker.com/do-essential-oils-actually-do-anything-1850174659)<!-- TECH-POSTS:END -->
 
 ---
 
