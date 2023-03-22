@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Protect Your Elderly Parents From Medicaid’s ‘Five-Year Look-Back’ Rule](https://lifehacker.com/protect-your-elderly-parents-from-medicaid-s-five-year-1850250694)
+- [Dev.to/JS] [[4/4] Passez de zéro à héro avec ces méthodes JavaScript](https://dev.to/vincent_react/44-passez-de-zero-a-hero-avec-ces-methodes-javascript-3kl)
+- [Lifehacker] [Buy These Nintendo 3DS Games Before They Disappear Forever](https://lifehacker.com/buy-these-nintendo-3ds-games-before-they-disappear-fore-1850249379)
 - [Dev.to/JS] [My Coding Journey.](https://dev.to/k224912/my-coding-journey-2158)
 - [Lifehacker] [This Move-Out Checklist Will Help You Get Your Security Deposit Back](https://lifehacker.com/this-move-out-checklist-will-help-you-get-your-security-1850248576)
 - [Lifehacker] [Your Car Needs These Hospital-Grade Barf Bags](https://lifehacker.com/your-car-needs-these-hospital-grade-barf-bags-1850249065)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Feature Flags for API Version upgrades](https://dev.to/builderio/using-feature-flags-for-api-version-upgrades-158m)
 - [Dev.to/JS] [Top 5 React Admin Templates](https://dev.to/necatiozmen/top-5-react-admin-templates-j0b)
 - [Dev.to/JS] [Elm for React developers](https://dev.to/rhg/elm-for-react-developers-p8o)
-- [Dev.to/JS] [Native vs Cross-Platform Development](https://dev.to/fireartd/native-vs-cross-platform-development-29ml)
 - [Lifehacker] [Grab These Nine Kick-Ass PC Games While They’re Up to 75% Off](https://lifehacker.com/you-have-two-days-left-to-grab-killer-pc-games-in-the-s-1850245490)
 - [Lifehacker] [You Can Clean Your Dishwasher With Lemonade Kool-Aid](https://lifehacker.com/you-can-clean-your-dishwasher-with-lemonade-kool-aid-1850248114)
 - [Lifehacker] [Three Surprisingly Practical Uses for Dryer Lint](https://lifehacker.com/three-surprisingly-practical-uses-for-dryer-lint-1850244107)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Home Remedies That May Do More Harm Than Good](https://lifehacker.com/10-home-remedies-that-may-do-more-harm-than-good-1850157348)
 - [Lifehacker] [Do Essential Oils Actually Do Anything?](https://lifehacker.com/do-essential-oils-actually-do-anything-1850174659)
 - [Lifehacker] [Teas Aren’t As Useful As You Might Think](https://lifehacker.com/teas-aren-t-as-useful-as-you-might-think-1850205204)
-- [Lifehacker] [How to Do a Saltwater Rinse &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-do-a-saltwater-rinse-and-when-you-should-1850195735)
-- [Lifehacker] [A Beginner&#39;s Guide to Using a Neti Pot to Clear Your Sinuses](https://lifehacker.com/a-beginners-guide-to-using-a-neti-pot-to-clear-your-sin-1850179574)
-- [Lifehacker] [What to Do If You Just Can&#39;t Poop](https://lifehacker.com/what-to-do-if-you-just-cant-poop-1850182662)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Do a Saltwater Rinse &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-do-a-saltwater-rinse-and-when-you-should-1850195735)<!-- TECH-POSTS:END -->
 
 ---
 
