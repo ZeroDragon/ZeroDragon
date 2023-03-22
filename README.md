@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a customized medication dashboard in NuxtJS](https://dev.to/hackmamba/creating-a-customized-medication-dashboard-in-nuxtjs-23i9)
+- [Dev.to/JS] [Setting up Node.js TDD with ESLint](https://dev.to/arminafa/setting-up-nodejs-tdd-with-eslint-4hfm)
 - [Dev.to/JS] [Instance and Non-instance properties](https://dev.to/souravbandyopadhyay/instance-and-non-instance-properties-3l64)
 - [Dev.to/JS] [Geocode with OpenCage and MapLibre](https://dev.to/tsamaya/geocode-with-opencage-and-maplibre-50l)
 - [Dev.to/JS] [Tuples in C# vs JavaScript: A Comparative Analysis](https://dev.to/arminafa/tuples-in-c-vs-javascript-a-comparative-analysis-1nf8)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [usState when to use?](https://dev.to/golam_mostafa/usstate-when-to-use-12gc)
 - [Dev.to/JS] [Weekly web development resources #141](https://dev.to/vincenius/weekly-web-development-resources-141-3725)
 - [Dev.to/JS] [How to prioritize test cases in end-to-end testing](https://dev.to/how-to-dev/how-to-prioritize-test-cases-in-end-to-end-testing-131n)
-- [Dev.to/JS] [Mastering JavaScript Functions: A Complete Guide from Beginner to Advanced In 2023](https://dev.to/devxvaibhav/mastering-javascript-functions-a-complete-guide-from-beginner-to-advanced-in-2023-5hik)
-- [Dev.to/JS] [How to Create Smart Contracts with Web3](https://dev.to/ancelalmeida/how-to-create-smart-contracts-with-web3-2h44)
 - [Lifehacker] [Grab These Nine Kick-Ass PC Games While They’re Up to 75% Off](https://lifehacker.com/you-have-two-days-left-to-grab-killer-pc-games-in-the-s-1850245490)
 - [Lifehacker] [You Can Clean Your Dishwasher With Lemonade Kool-Aid](https://lifehacker.com/you-can-clean-your-dishwasher-with-lemonade-kool-aid-1850248114)
 - [Lifehacker] [Three Surprisingly Practical Uses for Dryer Lint](https://lifehacker.com/three-surprisingly-practical-uses-for-dryer-lint-1850244107)
