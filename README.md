@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [custom cancel component call with react-toastify](https://dev.to/taiseen/custom-cancel-component-call-with-react-toastify-2p79)
+- [Dev.to/JS] [Fetch data using RxJs &amp; validate them using Zod](https://dev.to/aminnairi/fetch-data-using-rxjs-validate-them-using-zod-kpe)
 - [Dev.to/JS] [MERN Stack Chat App #1](https://dev.to/xensan_dev/mern-stack-chat-app-1-4gln)
 - [Dev.to/JS] [Command Pattern in Programming using a uber as a case study](https://dev.to/walosha/command-pattern-in-programming-using-a-uber-app-pjd)
 - [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)
@@ -43,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Domino’s Pizza Is Better When It’s Half Off](https://lifehacker.com/domino-s-pizza-is-better-when-it-s-half-off-1850249607)
 - [Dev.to/JS] [Web-Based Secure Password Reset with tru.ID and Vonage](https://dev.to/tru-id/web-based-secure-password-reset-with-truid-and-vonage-4aak)
 - [Lifehacker] [Protect Your Elderly Parents From Medicaid’s ‘Five-Year Look-Back’ Rule](https://lifehacker.com/protect-your-elderly-parents-from-medicaid-s-five-year-1850250694)
-- [Dev.to/JS] [[4/4] Passez de zéro à héro avec ces méthodes JavaScript](https://dev.to/vincent_react/44-passez-de-zero-a-hero-avec-ces-methodes-javascript-3kl)
 - [Lifehacker] [Buy These Nintendo 3DS Games Before They Disappear Forever](https://lifehacker.com/buy-these-nintendo-3ds-games-before-they-disappear-fore-1850249379)
-- [Dev.to/JS] [My Coding Journey.](https://dev.to/k224912/my-coding-journey-2158)
 - [Lifehacker] [This Move-Out Checklist Will Help You Get Your Security Deposit Back](https://lifehacker.com/this-move-out-checklist-will-help-you-get-your-security-1850248576)
 - [Lifehacker] [Your Car Needs These Hospital-Grade Barf Bags](https://lifehacker.com/your-car-needs-these-hospital-grade-barf-bags-1850249065)
 - [Lifehacker] [The Better Way to Cut a Clean Slice of Cake](https://lifehacker.com/the-better-way-to-cut-a-clean-slice-of-cake-1850249102)
