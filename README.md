@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Speed Up your Applications by Caching at the Edge with HarperDB](https://dev.to/doabledanny/how-to-speed-up-your-applications-by-caching-at-the-edge-with-harperdb-3o2l)
+- [Dev.to/JS] [If, else in javascript.](https://dev.to/alisinayousofi/if-else-in-javascript-1450)
+- [Lifehacker] [Fry an Egg in a Ring of Mashed Potatoes](https://lifehacker.com/fry-an-egg-in-a-ring-of-mashed-potatoes-1850249890)
+- [Lifehacker] [The Difference Between Overdraft and Non-Sufficient Funds Fees &lpar;and How to Avoid Them Both&rpar;](https://lifehacker.com/the-difference-between-overdraft-and-non-sufficient-fun-1850244606)
 - [Lifehacker] [Kodansha USA Is Giving Away a Ton of Free Manga Right Now](https://lifehacker.com/kodansha-usa-is-giving-away-a-ton-of-free-manga-right-n-1850250066)
 - [Dev.to/JS] [I&#39;m planning to build a new OS for embedded smart displays](https://dev.to/souviktests/im-planning-to-build-a-new-os-for-embedded-smart-displays-319e)
 - [Dev.to/JS] [Aprende a utilizar el operador ternario en JavaScript](https://dev.to/asjordi/aprende-a-utilizar-el-operador-ternario-en-javascript-48go)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is an API? How does it work?](https://dev.to/bhaviksadhu/what-is-an-api-how-does-it-work-2e2k)
 - [Dev.to/JS] [Melhorando a manutenibilidade e escalabilidade do código com Módulos ES6](https://dev.to/ramonborges15/melhorando-a-manutenibilidade-e-escalabilidade-do-codigo-com-modulos-es6-5eda)
 - [Lifehacker] [Should You Have a Lobotomy?](https://lifehacker.com/should-you-have-a-lobotomy-1850244972)
-- [Dev.to/JS] [Exploring the Power of Node.js for Real-time Communication and WebSockets](https://dev.to/folasayosamuel/exploring-the-power-of-nodejs-for-real-time-communication-and-websockets-555k)
-- [Dev.to/JS] [VBucks Generator - Reviews, Benefits, Results, Warnings &amp; Conplaints?](https://dev.to/freevbucks11051/vbucks-generator-reviews-benefits-results-warnings-conplaints-bdg)
 - [Lifehacker] [Grab These Nine Kick-Ass PC Games While They’re Up to 75% Off](https://lifehacker.com/you-have-two-days-left-to-grab-killer-pc-games-in-the-s-1850245490)
 - [Lifehacker] [You Can Clean Your Dishwasher With Lemonade Kool-Aid](https://lifehacker.com/you-can-clean-your-dishwasher-with-lemonade-kool-aid-1850248114)
 - [Lifehacker] [Three Surprisingly Practical Uses for Dryer Lint](https://lifehacker.com/three-surprisingly-practical-uses-for-dryer-lint-1850244107)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s When You Should Be Screened for the Most Common Cancers](https://lifehacker.com/here-s-when-you-should-be-screened-for-the-most-common-1850229849)
 - [Lifehacker] [What&#39;s New on Hulu in April 2023](https://lifehacker.com/whats-new-on-hulu-in-april-2023-1850245415)
 - [Lifehacker] [Foods You Should Be Grating, But Probably Aren&#39;t](https://lifehacker.com/foods-you-should-be-grating-aside-from-cheese-1850214371)
-- [Lifehacker] [Marinate Your Dried Herbs for Better Vinaigrettes](https://lifehacker.com/marinate-your-dried-herbs-for-better-vinaigrettes-1850238997)
-- [Lifehacker] [10 Home Remedies That May Do More Harm Than Good](https://lifehacker.com/10-home-remedies-that-may-do-more-harm-than-good-1850157348)
-- [Lifehacker] [Do Essential Oils Actually Do Anything?](https://lifehacker.com/do-essential-oils-actually-do-anything-1850174659)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Marinate Your Dried Herbs for Better Vinaigrettes](https://lifehacker.com/marinate-your-dried-herbs-for-better-vinaigrettes-1850238997)<!-- TECH-POSTS:END -->
 
 ---
 
