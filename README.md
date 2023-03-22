@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Capture Documents On the Go and Collaborate with Web TWAIN Scanning SDK](https://dev.to/yushulx/how-to-capture-documents-on-the-go-and-collaborate-with-web-twain-scanning-sdk-5g1l)
 - [Dev.to/JS] [Discovering promise.All&lpar;&rpar;](https://dev.to/emuldaka/discovering-promiseall-24n0)
 - [Dev.to/JS] [Setting up Node.js Email Server with Nodemailer and Mailtrap](https://dev.to/desmondsanctity/setting-up-nodejs-email-server-with-nodemailer-and-mailtrap-404)
 - [Dev.to/JS] [Embedding Data Into React/JSX Elements](https://dev.to/bytebodger/embedding-data-into-reactjsx-elements-3jcp)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I Used ChatGPT to Create Something Ugly](https://dev.to/damsalem/i-used-chatgpt-to-create-something-ugly-52bj)
 - [Dev.to/JS] [Performance Optimization using Code Splitting - Day 2 of 30 Days of React Tips and Tricks](https://dev.to/tejas2805/performance-optimization-using-code-splitting-day-2-of-30-days-of-react-tips-and-tricks-1oh7)
 - [Dev.to/JS] [Episode 23/11: TypeScript 5, Ng-Poland Videos, Cypress 12.8 &amp; NgRx 15.4](https://dev.to/ng_news/episode-2311-typescript-5-ng-poland-videos-cypress-128-ngrx-154-3f40)
-- [Dev.to/JS] [How to add Nprogress to SvelteKit](https://dev.to/posandu/how-to-add-nprogress-to-sveltekit-48pc)
 - [Lifehacker] [Grab These Nine Kick-Ass PC Games While They’re Up to 75% Off](https://lifehacker.com/you-have-two-days-left-to-grab-killer-pc-games-in-the-s-1850245490)
 - [Lifehacker] [You Can Clean Your Dishwasher With Lemonade Kool-Aid](https://lifehacker.com/you-can-clean-your-dishwasher-with-lemonade-kool-aid-1850248114)
 - [Lifehacker] [Three Surprisingly Practical Uses for Dryer Lint](https://lifehacker.com/three-surprisingly-practical-uses-for-dryer-lint-1850244107)
