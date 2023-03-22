@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build counter](https://dev.to/kolja/build-counter-1mlf)
 - [Dev.to/JS] [custom cancel component call with react-toastify](https://dev.to/taiseen/custom-cancel-component-call-with-react-toastify-2p79)
 - [Dev.to/JS] [Fetch data using RxJs &amp; validate them using Zod](https://dev.to/aminnairi/fetch-data-using-rxjs-validate-them-using-zod-kpe)
 - [Dev.to/JS] [MERN Stack Chat App #1](https://dev.to/xensan_dev/mern-stack-chat-app-1-4gln)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Aprende a utilizar el operador ternario en JavaScript](https://dev.to/asjordi/aprende-a-utilizar-el-operador-ternario-en-javascript-48go)
 - [Dev.to/JS] [Paracetamol.ts💊| #33: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-33-explica-este-codigo-typescript-1gp0)
 - [Lifehacker] [Domino’s Pizza Is Better When It’s Half Off](https://lifehacker.com/domino-s-pizza-is-better-when-it-s-half-off-1850249607)
-- [Dev.to/JS] [Web-Based Secure Password Reset with tru.ID and Vonage](https://dev.to/tru-id/web-based-secure-password-reset-with-truid-and-vonage-4aak)
 - [Lifehacker] [Protect Your Elderly Parents From Medicaid’s ‘Five-Year Look-Back’ Rule](https://lifehacker.com/protect-your-elderly-parents-from-medicaid-s-five-year-1850250694)
 - [Lifehacker] [Buy These Nintendo 3DS Games Before They Disappear Forever](https://lifehacker.com/buy-these-nintendo-3ds-games-before-they-disappear-fore-1850249379)
 - [Lifehacker] [This Move-Out Checklist Will Help You Get Your Security Deposit Back](https://lifehacker.com/this-move-out-checklist-will-help-you-get-your-security-1850248576)
