@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)
+- [Dev.to/JS] [Namespaces Abstracted](https://dev.to/itsmohamedyahia/namespaces-abstracted-2ghn)
+- [Lifehacker] [Xbox Is Having a Massive Sale on Games Right Now](https://lifehacker.com/xbox-is-having-a-massive-sale-on-games-right-now-1850253578)
+- [Dev.to/JS] [Dynamic Render Inertia from different file path in using Laravel](https://dev.to/hareom284/dynamic-render-inertia-from-different-file-path-in-using-laravel-47n2)
 - [Lifehacker] [Fruit Roll-Up Ice Cream Is a Textural Delight](https://lifehacker.com/fruit-roll-up-ice-cream-is-a-textural-delight-1850253022)
 - [Lifehacker] [What&#39;s New on Netflix in April 2023](https://lifehacker.com/whats-new-on-netflix-in-april-2023-1850253229)
 - [Lifehacker] [An Adult’s Guide to Finally Learning to Like Vegetables](https://lifehacker.com/an-adult-s-guide-to-finally-learning-to-like-vegetables-1850249698)
@@ -45,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [It&#39;s Showtime: Rendering Lists and Conditional Content in React.js, the Fun Way! 🎬](https://dev.to/almonteluis/its-showtime-rendering-lists-and-conditional-content-in-reactjs-the-fun-way-161j)
 - [Lifehacker] [The Better Way to Cut a Clean Slice of Cake](https://lifehacker.com/the-better-way-to-cut-a-clean-slice-of-cake-1850249102)
 - [Dev.to/JS] [HTTP request: Fetch vs Axios](https://dev.to/oluwatrillions/http-request-fetch-vs-axios-591f)
-- [Dev.to/JS] [What is an API? How does it work?](https://dev.to/bhaviksadhu/what-is-an-api-how-does-it-work-2e2k)
-- [Dev.to/JS] [Melhorando a manutenibilidade e escalabilidade do código com Módulos ES6](https://dev.to/ramonborges15/melhorando-a-manutenibilidade-e-escalabilidade-do-codigo-com-modulos-es6-5eda)
 - [Lifehacker] [Should You Have a Lobotomy?](https://lifehacker.com/should-you-have-a-lobotomy-1850244972)
 - [Lifehacker] [Grab These Nine Kick-Ass PC Games While They’re Up to 75% Off](https://lifehacker.com/you-have-two-days-left-to-grab-killer-pc-games-in-the-s-1850245490)
 - [Lifehacker] [You Can Clean Your Dishwasher With Lemonade Kool-Aid](https://lifehacker.com/you-can-clean-your-dishwasher-with-lemonade-kool-aid-1850248114)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Caramelized Pickle Dip Slaps](https://lifehacker.com/this-caramelized-pickle-dip-slaps-1850245734)
 - [Lifehacker] [Teach Your Teen to Start Cooking With These Easy Meal Ideas](https://lifehacker.com/teach-your-teen-to-start-cooking-with-these-easy-meal-i-1850245763)
 - [Lifehacker] [Your Old Mac Might End Up in the Trash If You Don’t Do This](https://lifehacker.com/your-old-mac-might-end-up-in-the-trash-if-you-don-t-do-1850244023)
-- [Lifehacker] [You Can Make Money by Reviewing Books and Recording Audiobooks](https://lifehacker.com/you-can-money-by-reviewing-books-and-recording-audioboo-1850238880)
-- [Lifehacker] [Avoid Distractions by Cleaning Your House in ‘Rounds’](https://lifehacker.com/avoid-distractions-by-cleaning-your-house-in-rounds-1850243990)
-- [Lifehacker] [Here’s When You Should Be Screened for the Most Common Cancers](https://lifehacker.com/here-s-when-you-should-be-screened-for-the-most-common-1850229849)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Make Money by Reviewing Books and Recording Audiobooks](https://lifehacker.com/you-can-money-by-reviewing-books-and-recording-audioboo-1850238880)<!-- TECH-POSTS:END -->
 
 ---
 
