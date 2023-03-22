@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Coding Journey.](https://dev.to/k224912/my-coding-journey-2158)
+- [Lifehacker] [This Move-Out Checklist Will Help You Get Your Security Deposit Back](https://lifehacker.com/this-move-out-checklist-will-help-you-get-your-security-1850248576)
 - [Lifehacker] [Your Car Needs These Hospital-Grade Barf Bags](https://lifehacker.com/your-car-needs-these-hospital-grade-barf-bags-1850249065)
 - [Dev.to/JS] [It&#39;s Showtime: Rendering Lists and Conditional Content in React.js, the Fun Way! 🎬](https://dev.to/almonteluis/its-showtime-rendering-lists-and-conditional-content-in-reactjs-the-fun-way-161j)
 - [Lifehacker] [The Better Way to Cut a Clean Slice of Cake](https://lifehacker.com/the-better-way-to-cut-a-clean-slice-of-cake-1850249102)
@@ -35,9 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimizing Real-Time Suggestion Dropdowns in React: Using useCallback and useEffect](https://dev.to/jocrgb/optimizing-real-time-suggestion-dropdowns-in-react-using-usecallback-and-useeffect-54md)
 - [Dev.to/JS] [Using Feature Flags for API Version upgrades](https://dev.to/builderio/using-feature-flags-for-api-version-upgrades-158m)
 - [Dev.to/JS] [Top 5 React Admin Templates](https://dev.to/necatiozmen/top-5-react-admin-templates-j0b)
+- [Dev.to/JS] [Elm for React developers](https://dev.to/rhg/elm-for-react-developers-p8o)
 - [Dev.to/JS] [Native vs Cross-Platform Development](https://dev.to/fireartd/native-vs-cross-platform-development-29ml)
-- [Dev.to/JS] [React.js](https://dev.to/_fameux_/reactjs-pl1)
-- [Dev.to/JS] [Exploring the Benefits of Watching Live Sports on FirstRowSports](https://dev.to/ggggaga2/exploring-the-benefits-of-watching-live-sports-on-firstrowsports-3n5b)
 - [Lifehacker] [Grab These Nine Kick-Ass PC Games While They’re Up to 75% Off](https://lifehacker.com/you-have-two-days-left-to-grab-killer-pc-games-in-the-s-1850245490)
 - [Lifehacker] [You Can Clean Your Dishwasher With Lemonade Kool-Aid](https://lifehacker.com/you-can-clean-your-dishwasher-with-lemonade-kool-aid-1850248114)
 - [Lifehacker] [Three Surprisingly Practical Uses for Dryer Lint](https://lifehacker.com/three-surprisingly-practical-uses-for-dryer-lint-1850244107)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Teas Aren’t As Useful As You Might Think](https://lifehacker.com/teas-aren-t-as-useful-as-you-might-think-1850205204)
 - [Lifehacker] [How to Do a Saltwater Rinse &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-do-a-saltwater-rinse-and-when-you-should-1850195735)
 - [Lifehacker] [A Beginner&#39;s Guide to Using a Neti Pot to Clear Your Sinuses](https://lifehacker.com/a-beginners-guide-to-using-a-neti-pot-to-clear-your-sin-1850179574)
-- [Lifehacker] [What to Do If You Just Can&#39;t Poop](https://lifehacker.com/what-to-do-if-you-just-cant-poop-1850182662)
-- [Lifehacker] [The Easiest Way to Get Rid of a Wart on Your Own](https://lifehacker.com/the-easiest-way-to-get-rid-of-a-wart-on-your-own-1850151669)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do If You Just Can&#39;t Poop](https://lifehacker.com/what-to-do-if-you-just-cant-poop-1850182662)<!-- TECH-POSTS:END -->
 
 ---
 
