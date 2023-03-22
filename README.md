@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Weekly web development resources #141](https://dev.to/vincenius/weekly-web-development-resources-141-3725)
 - [Dev.to/JS] [Mastering JavaScript Functions: A Complete Guide from Beginner to Advanced In 2023](https://dev.to/devxvaibhav/mastering-javascript-functions-a-complete-guide-from-beginner-to-advanced-in-2023-5hik)
 - [Dev.to/JS] [How to Create Smart Contracts with Web3](https://dev.to/ancelalmeida/how-to-create-smart-contracts-with-web3-2h44)
 - [Dev.to/JS] [Introducing Muerta Toolbox: The Ultimate Developer&#39;s Toolkit!](https://dev.to/dereknguyen269/introducing-muerta-toolbox-the-ultimate-developers-toolkit-364i)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Flattening Arrays with flat&lpar;&rpar; and flatMap&lpar;&rpar; in JavaScript](https://dev.to/lucasjstifano/flattening-arrays-with-flat-and-flatmap-in-javascript-omo)
 - [Dev.to/JS] [A Guide to Combining React and Google Model Viewer](https://dev.to/kingswillwariboko/a-guide-to-combining-react-and-google-model-viewer-3i4j)
 - [Dev.to/JS] [Expressjs? Nestjs?... or both?](https://dev.to/tiseysoft/expressjs-nestjs-or-both-bh2)
-- [Dev.to/JS] [Async/Await in Javascript](https://dev.to/valentinaperic/asyncawait-in-javascript-2i8c)
 - [Lifehacker] [Grab These Nine Kick-Ass PC Games While They’re Up to 75% Off](https://lifehacker.com/you-have-two-days-left-to-grab-killer-pc-games-in-the-s-1850245490)
 - [Lifehacker] [You Can Clean Your Dishwasher With Lemonade Kool-Aid](https://lifehacker.com/you-can-clean-your-dishwasher-with-lemonade-kool-aid-1850248114)
 - [Lifehacker] [Three Surprisingly Practical Uses for Dryer Lint](https://lifehacker.com/three-surprisingly-practical-uses-for-dryer-lint-1850244107)
