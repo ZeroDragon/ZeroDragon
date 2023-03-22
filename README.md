@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Melhorando a manutenibilidade e escalabilidade do código com Módulos ES6](https://dev.to/ramonborges15/melhorando-a-manutenibilidade-e-escalabilidade-do-codigo-com-modulos-es6-5eda)
+- [Lifehacker] [Should You Have a Lobotomy?](https://lifehacker.com/should-you-have-a-lobotomy-1850244972)
+- [Dev.to/JS] [Exploring the Power of Node.js for Real-time Communication and WebSockets](https://dev.to/folasayosamuel/exploring-the-power-of-nodejs-for-real-time-communication-and-websockets-555k)
+- [Dev.to/JS] [VBucks Generator - Reviews, Benefits, Results, Warnings &amp; Conplaints?](https://dev.to/freevbucks11051/vbucks-generator-reviews-benefits-results-warnings-conplaints-bdg)
+- [Dev.to/JS] [Optimizing Real-Time Suggestion Dropdowns in React: Using useCallback and useEffect](https://dev.to/jocrgb/optimizing-real-time-suggestion-dropdowns-in-react-using-usecallback-and-useeffect-54md)
+- [Dev.to/JS] [Using Feature Flags for API Version upgrades](https://dev.to/builderio/using-feature-flags-for-api-version-upgrades-158m)
+- [Dev.to/JS] [Top 5 React Admin Templates](https://dev.to/necatiozmen/top-5-react-admin-templates-j0b)
 - [Dev.to/JS] [Native vs Cross-Platform Development](https://dev.to/fireartd/native-vs-cross-platform-development-29ml)
 - [Dev.to/JS] [React.js](https://dev.to/_fameux_/reactjs-pl1)
 - [Dev.to/JS] [Exploring the Benefits of Watching Live Sports on FirstRowSports](https://dev.to/ggggaga2/exploring-the-benefits-of-watching-live-sports-on-firstrowsports-3n5b)
 - [Dev.to/JS] [Top CMS Platforms For Your Website Development](https://dev.to/msbalacse/top-cms-platforms-for-your-website-development-1a3n)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Contando divisores de um número inteiro.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-contando-divisores-de-um-numero-inteiro-2lgf)
 - [Dev.to/JS] [Beginner&#39;s Guide to REST API in JavaScript using Express](https://dev.to/nikkbh/beginners-guide-to-rest-api-in-javascript-using-express-jp)
-- [Dev.to/JS] [Programação funcional: o que são funções puras, determinísticas e que não provocam efeitos colaterais](https://dev.to/laisfrigerio/programacao-funcional-o-que-sao-funcoes-puras-deterministicas-e-que-nao-provocam-efeitos-colaterais-1i2g)
-- [Dev.to/JS] [Trig.JS - The easy way to create CSS animations that react to the element&#39;s position on screen.](https://dev.to/idevgames/trigjs-the-easy-way-to-create-css-animations-that-react-to-the-elements-position-on-screen-8k6)
-- [Dev.to/JS] [Mastering Agile development as a beginner](https://dev.to/bieru/mastering-agile-development-as-a-beginner-4a9c)
-- [Dev.to/JS] [Understanding Errors In JavaScript: Error Objects](https://dev.to/noruwa/understanding-errors-in-javascript-error-objects-3db4)
-- [Dev.to/JS] [Creating a customized medication dashboard in NuxtJS](https://dev.to/hackmamba/creating-a-customized-medication-dashboard-in-nuxtjs-23i9)
-- [Dev.to/JS] [Setting up Node.js TDD with ESLint](https://dev.to/arminafa/setting-up-nodejs-tdd-with-eslint-4hfm)
 - [Lifehacker] [Grab These Nine Kick-Ass PC Games While They’re Up to 75% Off](https://lifehacker.com/you-have-two-days-left-to-grab-killer-pc-games-in-the-s-1850245490)
 - [Lifehacker] [You Can Clean Your Dishwasher With Lemonade Kool-Aid](https://lifehacker.com/you-can-clean-your-dishwasher-with-lemonade-kool-aid-1850248114)
 - [Lifehacker] [Three Surprisingly Practical Uses for Dryer Lint](https://lifehacker.com/three-surprisingly-practical-uses-for-dryer-lint-1850244107)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If You Just Can&#39;t Poop](https://lifehacker.com/what-to-do-if-you-just-cant-poop-1850182662)
 - [Lifehacker] [The Easiest Way to Get Rid of a Wart on Your Own](https://lifehacker.com/the-easiest-way-to-get-rid-of-a-wart-on-your-own-1850151669)
 - [Lifehacker] [When to Use Ice on an Injury, and When to Use Heat](https://lifehacker.com/when-to-use-ice-on-an-injury-and-when-to-use-heat-1850155779)
-- [Lifehacker] [The Best Ways to Relieve Itchy Skin Without a Prescription](https://lifehacker.com/the-best-ways-to-relieve-itchy-skin-without-a-prescript-1850146899)
-- [Lifehacker] [Home Remedies Are Actually Better for Kids Than Cold Medicine](https://lifehacker.com/home-remedies-are-actually-better-for-kids-than-cold-me-1850146661)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Relieve Itchy Skin Without a Prescription](https://lifehacker.com/the-best-ways-to-relieve-itchy-skin-without-a-prescript-1850146899)<!-- TECH-POSTS:END -->
 
 ---
 
