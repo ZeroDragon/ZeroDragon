@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Car Needs These Hospital-Grade Barf Bags](https://lifehacker.com/your-car-needs-these-hospital-grade-barf-bags-1850249065)
+- [Dev.to/JS] [It&#39;s Showtime: Rendering Lists and Conditional Content in React.js, the Fun Way! 🎬](https://dev.to/almonteluis/its-showtime-rendering-lists-and-conditional-content-in-reactjs-the-fun-way-161j)
+- [Lifehacker] [The Better Way to Cut a Clean Slice of Cake](https://lifehacker.com/the-better-way-to-cut-a-clean-slice-of-cake-1850249102)
+- [Dev.to/JS] [HTTP request: Fetch vs Axios](https://dev.to/oluwatrillions/http-request-fetch-vs-axios-591f)
+- [Dev.to/JS] [What is an API? How does it work?](https://dev.to/bhaviksadhu/what-is-an-api-how-does-it-work-2e2k)
 - [Dev.to/JS] [Melhorando a manutenibilidade e escalabilidade do código com Módulos ES6](https://dev.to/ramonborges15/melhorando-a-manutenibilidade-e-escalabilidade-do-codigo-com-modulos-es6-5eda)
 - [Lifehacker] [Should You Have a Lobotomy?](https://lifehacker.com/should-you-have-a-lobotomy-1850244972)
 - [Dev.to/JS] [Exploring the Power of Node.js for Real-time Communication and WebSockets](https://dev.to/folasayosamuel/exploring-the-power-of-nodejs-for-real-time-communication-and-websockets-555k)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Native vs Cross-Platform Development](https://dev.to/fireartd/native-vs-cross-platform-development-29ml)
 - [Dev.to/JS] [React.js](https://dev.to/_fameux_/reactjs-pl1)
 - [Dev.to/JS] [Exploring the Benefits of Watching Live Sports on FirstRowSports](https://dev.to/ggggaga2/exploring-the-benefits-of-watching-live-sports-on-firstrowsports-3n5b)
-- [Dev.to/JS] [Top CMS Platforms For Your Website Development](https://dev.to/msbalacse/top-cms-platforms-for-your-website-development-1a3n)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Contando divisores de um número inteiro.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-contando-divisores-de-um-numero-inteiro-2lgf)
-- [Dev.to/JS] [Beginner&#39;s Guide to REST API in JavaScript using Express](https://dev.to/nikkbh/beginners-guide-to-rest-api-in-javascript-using-express-jp)
 - [Lifehacker] [Grab These Nine Kick-Ass PC Games While They’re Up to 75% Off](https://lifehacker.com/you-have-two-days-left-to-grab-killer-pc-games-in-the-s-1850245490)
 - [Lifehacker] [You Can Clean Your Dishwasher With Lemonade Kool-Aid](https://lifehacker.com/you-can-clean-your-dishwasher-with-lemonade-kool-aid-1850248114)
 - [Lifehacker] [Three Surprisingly Practical Uses for Dryer Lint](https://lifehacker.com/three-surprisingly-practical-uses-for-dryer-lint-1850244107)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Do a Saltwater Rinse &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-do-a-saltwater-rinse-and-when-you-should-1850195735)
 - [Lifehacker] [A Beginner&#39;s Guide to Using a Neti Pot to Clear Your Sinuses](https://lifehacker.com/a-beginners-guide-to-using-a-neti-pot-to-clear-your-sin-1850179574)
 - [Lifehacker] [What to Do If You Just Can&#39;t Poop](https://lifehacker.com/what-to-do-if-you-just-cant-poop-1850182662)
-- [Lifehacker] [The Easiest Way to Get Rid of a Wart on Your Own](https://lifehacker.com/the-easiest-way-to-get-rid-of-a-wart-on-your-own-1850151669)
-- [Lifehacker] [When to Use Ice on an Injury, and When to Use Heat](https://lifehacker.com/when-to-use-ice-on-an-injury-and-when-to-use-heat-1850155779)
-- [Lifehacker] [The Best Ways to Relieve Itchy Skin Without a Prescription](https://lifehacker.com/the-best-ways-to-relieve-itchy-skin-without-a-prescript-1850146899)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Get Rid of a Wart on Your Own](https://lifehacker.com/the-easiest-way-to-get-rid-of-a-wart-on-your-own-1850151669)<!-- TECH-POSTS:END -->
 
 ---
 
