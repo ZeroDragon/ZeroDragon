@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Async/Await in Javascript](https://dev.to/valentinaperic/asyncawait-in-javascript-2i8c)
 - [Dev.to/JS] [I Used ChatGPT to Create Something Ugly](https://dev.to/damsalem/i-used-chatgpt-to-create-something-ugly-52bj)
 - [Dev.to/JS] [Performance Optimization using Code Splitting - Day 2 of 30 Days of React Tips and Tricks](https://dev.to/tejas2805/performance-optimization-using-code-splitting-day-2-of-30-days-of-react-tips-and-tricks-1oh7)
 - [Dev.to/JS] [Episode 23/11: TypeScript 5, Ng-Poland Videos, Cypress 12.8 &amp; NgRx 15.4](https://dev.to/ng_news/episode-2311-typescript-5-ng-poland-videos-cypress-128-ngrx-154-3f40)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Importing ES 6 Modules from CommonJS](https://dev.to/adambrandizzi/importing-es-6-modules-from-commonjs-1g0p)
 - [Lifehacker] [Make Black and White Cookies With Boxed Muffin Mix](https://lifehacker.com/make-black-and-white-cookies-with-boxed-muffin-mix-1850247611)
 - [Dev.to/JS] [Create text change hover effect with JavaScript](https://dev.to/rmmgc/create-text-change-hover-effect-with-javascript-4k5g)
-- [Dev.to/JS] [Tips before you choose to attend a coding bootcamp!](https://dev.to/xensan_dev/tips-before-you-choose-to-attend-a-coding-bootcamp-17g7)
 - [Lifehacker] [You Can &lpar;Finally&rpar; Safely Edit a Screenshot on Your Pixel Without Someone Stealing Your Info](https://lifehacker.com/you-can-finally-safely-edit-a-screenshot-on-your-pixe-1850244750)
 - [Lifehacker] [How Virtual Reality Workouts Can Improve Your Body Image](https://lifehacker.com/how-virtual-reality-workouts-can-improve-your-body-imag-1850246571)
 - [Lifehacker] [You Can Get the Apple M2 Mac Mini for $100 Off Right Now](https://lifehacker.com/the-new-apple-m2-mac-mini-is-99-off-right-now-1850244694)
