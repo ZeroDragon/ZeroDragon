@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Fruit Roll-Up Ice Cream Is a Textural Delight](https://lifehacker.com/fruit-roll-up-ice-cream-is-a-textural-delight-1850253022)
+- [Lifehacker] [What&#39;s New on Netflix in April 2023](https://lifehacker.com/whats-new-on-netflix-in-april-2023-1850253229)
+- [Lifehacker] [An Adult’s Guide to Finally Learning to Like Vegetables](https://lifehacker.com/an-adult-s-guide-to-finally-learning-to-like-vegetables-1850249698)
 - [Dev.to/JS] [How to Speed Up your Applications by Caching at the Edge with HarperDB](https://dev.to/doabledanny/how-to-speed-up-your-applications-by-caching-at-the-edge-with-harperdb-3o2l)
 - [Dev.to/JS] [If, else in javascript.](https://dev.to/alisinayousofi/if-else-in-javascript-1450)
 - [Lifehacker] [Fry an Egg in a Ring of Mashed Potatoes](https://lifehacker.com/fry-an-egg-in-a-ring-of-mashed-potatoes-1850249890)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Old Mac Might End Up in the Trash If You Don’t Do This](https://lifehacker.com/your-old-mac-might-end-up-in-the-trash-if-you-don-t-do-1850244023)
 - [Lifehacker] [You Can Make Money by Reviewing Books and Recording Audiobooks](https://lifehacker.com/you-can-money-by-reviewing-books-and-recording-audioboo-1850238880)
 - [Lifehacker] [Avoid Distractions by Cleaning Your House in ‘Rounds’](https://lifehacker.com/avoid-distractions-by-cleaning-your-house-in-rounds-1850243990)
-- [Lifehacker] [Here’s When You Should Be Screened for the Most Common Cancers](https://lifehacker.com/here-s-when-you-should-be-screened-for-the-most-common-1850229849)
-- [Lifehacker] [What&#39;s New on Hulu in April 2023](https://lifehacker.com/whats-new-on-hulu-in-april-2023-1850245415)
-- [Lifehacker] [Foods You Should Be Grating, But Probably Aren&#39;t](https://lifehacker.com/foods-you-should-be-grating-aside-from-cheese-1850214371)
-- [Lifehacker] [Marinate Your Dried Herbs for Better Vinaigrettes](https://lifehacker.com/marinate-your-dried-herbs-for-better-vinaigrettes-1850238997)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here’s When You Should Be Screened for the Most Common Cancers](https://lifehacker.com/here-s-when-you-should-be-screened-for-the-most-common-1850229849)<!-- TECH-POSTS:END -->
 
 ---
 
