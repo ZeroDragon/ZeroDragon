@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Roast Your Broccoli at a Lower Temperature](https://lifehacker.com/roast-your-broccoli-at-a-lower-temperature-1850253028)
+- [Dev.to/JS] [What Actually Happened to Faker.js: Open Source Contribution Lessons](https://dev.to/khoubaibsudo/what-actually-happened-to-fakerjs-open-source-contribution-lessons-4n8n)
+- [Dev.to/JS] [Build a Tic-Tac-Toe Game with TypeScript, React and Minimax](https://dev.to/clarity89/build-a-tic-tac-toe-game-with-typescript-react-and-minimax-32ag)
+- [Dev.to/JS] [Paracetamol.ts💊| #34: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-34-explica-este-codigo-typescript-18e8)
+- [Lifehacker] [Why You Should Never Cook Chili Peppers In the Microwave](https://lifehacker.com/why-you-should-never-cook-chili-peppers-in-the-microwav-1850254355)
+- [Lifehacker] [How to Tell Whether Your Money Is Safe in the Bank](https://lifehacker.com/how-to-tell-whether-your-money-is-safe-in-the-bank-1850253688)
 - [Lifehacker] [Buy a Subway ‘Footlong Pass’ to Get 50% Off All April](https://lifehacker.com/buy-a-subway-footlong-pass-to-get-50-off-all-april-1850248573)
 - [Dev.to/JS] [React: Lessons from the Trenches - useEffect x Infinity](https://dev.to/codux/react-lessons-from-the-trenches-useeffect-x-infinity-1e3d)
 - [Dev.to/JS] [Node with docker &lpar;JS/TS&rpar;](https://dev.to/dnsmnds/node-with-docker-jsts-55a6)
@@ -34,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A flexible nodejs crawler library — x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-crawler-library-x-crawl-50gl)
 - [Dev.to/JS] [Apenas uma parte da programação é codificação. Os outros 90% é entendimento do código.](https://dev.to/demgoncalves/apenas-uma-parte-da-programacao-e-codificacao-os-outros-90-e-entendimento-do-codigo-3j8n)
 - [Dev.to/JS] [How to build a countdown timer with JavaScript](https://dev.to/aliyuadeniji/how-to-build-a-countdown-timer-with-javascript-bgc)
-- [Dev.to/JS] [Automate Your Deployment Workflow: Continuously Deploying Next.js Website to DigitalOcean Using GitHub Actions](https://dev.to/clarity89/automate-your-deployment-workflow-continuously-deploying-nextjs-website-to-digitalocean-using-github-actions-4i86)
-- [Dev.to/JS] [0](https://dev.to/linhntptit143/linhaa-3bl7)
-- [Dev.to/JS] [What is HTMLCollection in JavaScript](https://dev.to/ocxigin/what-is-htmlcollection-in-javascript-8i9)
 - [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)
 - [Lifehacker] [Xbox Is Having a Massive Sale on Games Right Now](https://lifehacker.com/xbox-is-having-a-massive-sale-on-games-right-now-1850253578)
 - [Lifehacker] [Fruit Roll-Up Ice Cream Is a Textural Delight](https://lifehacker.com/fruit-roll-up-ice-cream-is-a-textural-delight-1850253022)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can &lpar;Finally&rpar; Safely Edit a Screenshot on Your Pixel Without Someone Stealing Your Info](https://lifehacker.com/you-can-finally-safely-edit-a-screenshot-on-your-pixe-1850244750)
 - [Lifehacker] [How Virtual Reality Workouts Can Improve Your Body Image](https://lifehacker.com/how-virtual-reality-workouts-can-improve-your-body-imag-1850246571)
 - [Lifehacker] [You Can Get the Apple M2 Mac Mini for $100 Off Right Now](https://lifehacker.com/the-new-apple-m2-mac-mini-is-99-off-right-now-1850244694)
-- [Lifehacker] [You Can Sign Up for Google&#39;s AI Chatbot Right Now](https://lifehacker.com/you-can-sign-up-for-googles-ai-chatbot-right-now-1850247839)
-- [Lifehacker] [The Secret to Perfect Poached Eggs Is in the Shell](https://lifehacker.com/the-secret-to-perfect-poached-eggs-is-in-the-shell-1850244053)
-- [Lifehacker] [This Caramelized Pickle Dip Slaps](https://lifehacker.com/this-caramelized-pickle-dip-slaps-1850245734)
-- [Lifehacker] [Teach Your Teen to Start Cooking With These Easy Meal Ideas](https://lifehacker.com/teach-your-teen-to-start-cooking-with-these-easy-meal-i-1850245763)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Sign Up for Google&#39;s AI Chatbot Right Now](https://lifehacker.com/you-can-sign-up-for-googles-ai-chatbot-right-now-1850247839)<!-- TECH-POSTS:END -->
 
 ---
 
