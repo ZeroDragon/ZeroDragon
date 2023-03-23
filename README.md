@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Avoid These Sophisticated Employment Scams](https://lifehacker.com/how-to-avoid-these-sophisticated-employment-scams-1850254679)
+- [Lifehacker] [Dry Roast Some Nuts for a Better Bowl of Cereal](https://lifehacker.com/dry-roast-some-nuts-for-a-better-bowl-of-cereal-1850254048)
+- [Dev.to/JS] [Circular Text with CSS?](https://dev.to/jh3y/circular-text-with-css-57jf)
+- [Lifehacker] [How to Start Growing Your Own Edible Mushrooms](https://lifehacker.com/how-to-start-growing-your-own-edible-mushrooms-1850255627)
+- [Dev.to/JS] [how to create post like this cover photo with below code?](https://dev.to/ashrafulazom/how-to-create-post-like-this-cover-photo-with-below-code-5b1p)
+- [Dev.to/JS] [Several ways to handle request side effect that you should know](https://dev.to/shandamengcheng/several-ways-to-handle-request-side-effect-that-you-should-know-4jgg)
+- [Dev.to/JS] [HTML Tags with Example](https://dev.to/nitjsr12/html-tags-with-example-5a43)
 - [Dev.to/JS] [Microfrontend: Registro dinâmico de componentes &lpar;module federation&rpar;](https://dev.to/alisonjr/microfrontend-registro-dinamico-de-componentes-module-federation-6ib)
 - [Dev.to/JS] [Thoughts on React Native vs Ionic Framework Developer Experience and Application Quality](https://dev.to/aaronksaunders/thoughts-on-react-native-vs-ionic-framework-developer-experience-and-application-quality-odf)
 - [Dev.to/JS] [One Wizard to Rule Them All: The Magic of Array.prototype.some&lpar;&rpar;](https://dev.to/almonteluis/one-wizard-to-rule-them-all-the-magic-of-arrayprototypesome-4gl2)
@@ -36,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Never Cook Chili Peppers In the Microwave](https://lifehacker.com/why-you-should-never-cook-chili-peppers-in-the-microwav-1850254355)
 - [Lifehacker] [How to Tell Whether Your Money Is Safe in the Bank](https://lifehacker.com/how-to-tell-whether-your-money-is-safe-in-the-bank-1850253688)
 - [Lifehacker] [Buy a Subway ‘Footlong Pass’ to Get 50% Off All April](https://lifehacker.com/buy-a-subway-footlong-pass-to-get-50-off-all-april-1850248573)
-- [Dev.to/JS] [React: Lessons from the Trenches - useEffect x Infinity](https://dev.to/codux/react-lessons-from-the-trenches-useeffect-x-infinity-1e3d)
-- [Dev.to/JS] [Node with Docker &lpar;JS/TS&rpar;](https://dev.to/dnsmnds/node-with-docker-jsts-55a6)
 - [Lifehacker] [Block People From Seeing That You Opened Their Emails](https://lifehacker.com/block-people-from-seeing-that-you-opened-their-emails-1850253379)
-- [Dev.to/JS] [Mastering Blazor - Part 2: Hot Reloading](https://dev.to/florianrappl/mastering-blazor-part-2-hot-reloading-2b87)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Números Extra Longos em Fatorial&lpar;!&rpar;.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-numeros-extra-longos-em-fatorial-1jb9)
 - [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)
 - [Lifehacker] [Xbox Is Having a Massive Sale on Games Right Now](https://lifehacker.com/xbox-is-having-a-massive-sale-on-games-right-now-1850253578)
 - [Lifehacker] [Fruit Roll-Up Ice Cream Is a Textural Delight](https://lifehacker.com/fruit-roll-up-ice-cream-is-a-textural-delight-1850253022)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Grab These Nine Kick-Ass PC Games While They’re Up to 75% Off](https://lifehacker.com/you-have-two-days-left-to-grab-killer-pc-games-in-the-s-1850245490)
 - [Lifehacker] [You Can Clean Your Dishwasher With Lemonade Kool-Aid](https://lifehacker.com/you-can-clean-your-dishwasher-with-lemonade-kool-aid-1850248114)
 - [Lifehacker] [Three Surprisingly Practical Uses for Dryer Lint](https://lifehacker.com/three-surprisingly-practical-uses-for-dryer-lint-1850244107)
-- [Lifehacker] [Make Black and White Cookies With Boxed Muffin Mix](https://lifehacker.com/make-black-and-white-cookies-with-boxed-muffin-mix-1850247611)
-- [Lifehacker] [You Can &lpar;Finally&rpar; Safely Edit a Screenshot on Your Pixel Without Someone Stealing Your Info](https://lifehacker.com/you-can-finally-safely-edit-a-screenshot-on-your-pixe-1850244750)
-- [Lifehacker] [How Virtual Reality Workouts Can Improve Your Body Image](https://lifehacker.com/how-virtual-reality-workouts-can-improve-your-body-imag-1850246571)
-- [Lifehacker] [You Can Get the Apple M2 Mac Mini for $100 Off Right Now](https://lifehacker.com/the-new-apple-m2-mac-mini-is-99-off-right-now-1850244694)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Black and White Cookies With Boxed Muffin Mix](https://lifehacker.com/make-black-and-white-cookies-with-boxed-muffin-mix-1850247611)<!-- TECH-POSTS:END -->
 
 ---
 
