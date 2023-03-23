@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Benefits of Using a Phone Number Validator API](https://dev.to/meenal_01/benefits-of-using-a-phone-number-validator-api-l37)
+- [Dev.to/JS] [JS Customization to Generate QR Code from Kintone Record Values](https://dev.to/kintonedevprogram/js-customization-to-generate-qr-code-from-kintone-record-values-27e8)
+- [Dev.to/JS] [python:izohlar yani kamentariyalar](https://dev.to/yaxyotojiboyev/pythonizohlar-yani-kamentariyalar-2daj)
 - [Dev.to/JS] [What is React Redux? Discuss its key concepts and benefits.](https://dev.to/baljeet975/what-is-react-redux-discuss-its-key-concepts-and-benefits-1ld7)
 - [Dev.to/JS] [What is Blockchain and how it works? Also, discuss its benefits and drawbacks.](https://dev.to/baljeet975/what-is-blockchain-and-how-it-works-also-discuss-its-benefits-and-drawbacks-3nml)
 - [Dev.to/JS] [Print&lpar;&rpar;- funksiyasi haqida](https://dev.to/asilbek20/print-funksiyasi-haqida-1p1g)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array.prototype.square](https://dev.to/986913/arrayprototypesquare-1hii)
 - [Dev.to/JS] [Practices and tools for a startup](https://dev.to/roman_m/practices-and-tools-for-a-startup-39h7)
 - [Dev.to/JS] [Forever Functional: Three ways of Polling](https://dev.to/asayerio_techblog/forever-functional-three-ways-of-polling-36po)
-- [Dev.to/JS] [Top Visual Studio Code extensions for Svelte developers](https://dev.to/asayerio_techblog/top-visual-studio-code-extensions-for-svelte-developers-i2k)
-- [Dev.to/JS] [JavaScript Asynchronous Programming Tips, Tricks, and Gotchas](https://dev.to/asayerio_techblog/javascript-asynchronous-programming-tips-tricks-and-gotchas-3phj)
-- [Dev.to/JS] [🔍 RxDB: The Reactive Database Solution for Angular Apps 🌐](https://dev.to/dhrn/rxdb-the-reactive-database-solution-for-angular-apps-5013)
 - [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)
 - [Lifehacker] [Xbox Is Having a Massive Sale on Games Right Now](https://lifehacker.com/xbox-is-having-a-massive-sale-on-games-right-now-1850253578)
 - [Lifehacker] [Fruit Roll-Up Ice Cream Is a Textural Delight](https://lifehacker.com/fruit-roll-up-ice-cream-is-a-textural-delight-1850253022)
