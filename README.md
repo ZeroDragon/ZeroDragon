@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MutationObserver](https://dev.to/hasantezcan/mutationobserver-3f0p)
+- [Dev.to/JS] [Perfect UI library using Chat GPT](https://dev.to/shreyvijayvargiya/perfect-ui-library-using-chat-gpt-3ken)
+- [Dev.to/JS] [Form Input Validation: Ensure Valid, Meaningful, and Reliable Responses in Questionnaires and Online Forms](https://dev.to/surveyjs/form-input-validation-ensure-valid-meaningful-and-reliable-responses-in-questionnaires-and-online-forms-h74)
+- [Dev.to/JS] [Remix without Limits on vercel](https://dev.to/chandrapenugonda/remix-without-limits-on-vercel-34ie)
+- [Dev.to/JS] [Web Dev EP 1 : JavaScript 101](https://dev.to/debasishsahoo10/web-dev-ep-1-javascript-101-4fla)
 - [Dev.to/JS] [Asset&lpar;Image/Video&rpar; Picker with javascript&lpar;react/nextjs&rpar; on button click](https://dev.to/babou360/assetimagevideo-picker-with-javascriptreactnextjs-on-button-click-1ol0)
 - [Dev.to/JS] [Image position and displaying flex.. question](https://dev.to/babybaks/image-position-and-displaying-flex-question-5369)
 - [Dev.to/JS] [LeetCode - Reverse Nodes in k-Group](https://dev.to/_alkesh26/leetcode-reverse-nodes-in-k-group-3jeb)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Mysterious ‘this’](https://dev.to/prithviraj/the-mysterious-this-5bp1)
 - [Dev.to/JS] [Benefits of Using a Phone Number Validator API](https://dev.to/meenal_01/benefits-of-using-a-phone-number-validator-api-l37)
 - [Dev.to/JS] [JS Customization to Generate QR Code from Kintone Record Values](https://dev.to/kintonedevprogram/js-customization-to-generate-qr-code-from-kintone-record-values-27e8)
-- [Dev.to/JS] [python:izohlar yani kamentariyalar](https://dev.to/yaxyotojiboyev/pythonizohlar-yani-kamentariyalar-2daj)
-- [Dev.to/JS] [What is React Redux? Discuss its key concepts and benefits.](https://dev.to/baljeet975/what-is-react-redux-discuss-its-key-concepts-and-benefits-1ld7)
-- [Dev.to/JS] [What is Blockchain and how it works? Also, discuss its benefits and drawbacks.](https://dev.to/baljeet975/what-is-blockchain-and-how-it-works-also-discuss-its-benefits-and-drawbacks-3nml)
-- [Dev.to/JS] [Print&lpar;&rpar;- funksiyasi haqida](https://dev.to/asilbek20/print-funksiyasi-haqida-1p1g)
-- [Dev.to/JS] [What is REST? Rest API Definition for Beginners](https://dev.to/usmanahmedgoray/what-is-rest-rest-api-definition-for-beginners-cbk)
 - [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)
 - [Lifehacker] [Xbox Is Having a Massive Sale on Games Right Now](https://lifehacker.com/xbox-is-having-a-massive-sale-on-games-right-now-1850253578)
 - [Lifehacker] [Fruit Roll-Up Ice Cream Is a Textural Delight](https://lifehacker.com/fruit-roll-up-ice-cream-is-a-textural-delight-1850253022)
