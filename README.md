@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started with TypeScript](https://dev.to/ishanbagchi/getting-started-with-typescript-157c)
+- [Dev.to/JS] [Basics Of Javascript](https://dev.to/tech_olaide/basics-of-javascript-25dh)
 - [Dev.to/JS] [Decoupling Hoisting In React](https://dev.to/sam4rano/decoupling-hoisting-in-react-1420)
 - [Dev.to/JS] [DeGore - Celebrating Two Tremendous Years](https://dev.to/savvydev06/degore-celebrating-two-tremendous-years-4fa6)
 - [Dev.to/JS] [Login Authentication in react js](https://dev.to/shiwani295/login-authentication-in-react-js-43ln)
@@ -34,12 +36,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Selecting elements in Cypress tests &lpar;useful Cheatsheet&rpar;](https://dev.to/sanzhanov/selecting-elements-in-cypress-tests-useful-cheatsheet-1bko)
 - [Dev.to/JS] [[JS/TS] Don&#39;t declare regex with flags in property of object](https://dev.to/karbashevskyi/jsts-dont-declare-regex-with-flags-in-property-of-object-e67)
 - [Lifehacker] [Why You Should Film Yourself Cleaning, According to Reddit](https://lifehacker.com/why-you-should-film-yourself-cleaning-according-to-red-1850257796)
-- [Dev.to/JS] [Deploying Node Application using Render](https://dev.to/phanimurari/deploying-node-application-using-render-1223)
 - [Lifehacker] [Just Because You Don’t Use a Bidet Doesn’t Mean Your Butt Is Covered in Poop](https://lifehacker.com/just-because-you-don-t-use-a-bidet-doesn-t-mean-your-bu-1850254040)
 - [Lifehacker] [Stop Hackers From Taking Over Your Android With Just Your Phone Number](https://lifehacker.com/stop-hackers-from-taking-over-your-android-with-just-yo-1850256819)
 - [Lifehacker] [How to Avoid These Sophisticated Employment Scams](https://lifehacker.com/how-to-avoid-these-sophisticated-employment-scams-1850254679)
 - [Lifehacker] [Dry Roast Some Nuts for a Better Bowl of Cereal](https://lifehacker.com/dry-roast-some-nuts-for-a-better-bowl-of-cereal-1850254048)
-- [Dev.to/JS] [Circular Text with CSS?](https://dev.to/jh3y/circular-text-with-css-57jf)
 - [Lifehacker] [How to Start Growing Your Own Edible Mushrooms](https://lifehacker.com/how-to-start-growing-your-own-edible-mushrooms-1850255627)
 - [Lifehacker] [Here Is Your Car&#39;s Spring Cleaning Checklist](https://lifehacker.com/here-is-your-cars-spring-cleaning-checklist-1850253441)
 - [Lifehacker] [Roast Your Broccoli at a Lower Temperature](https://lifehacker.com/roast-your-broccoli-at-a-lower-temperature-1850253028)
