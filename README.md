@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Forever Functional: Three ways of Polling](https://dev.to/asayerio_techblog/forever-functional-three-ways-of-polling-36po)
+- [Dev.to/JS] [Top Visual Studio Code extensions for Svelte developers](https://dev.to/asayerio_techblog/top-visual-studio-code-extensions-for-svelte-developers-i2k)
+- [Dev.to/JS] [JavaScript Asynchronous Programming Tips, Tricks, and Gotchas](https://dev.to/asayerio_techblog/javascript-asynchronous-programming-tips-tricks-and-gotchas-3phj)
+- [Dev.to/JS] [🔍 RxDB: The Reactive Database Solution for Angular Apps 🌐](https://dev.to/dhrn/rxdb-the-reactive-database-solution-for-angular-apps-5013)
 - [Dev.to/JS] [Build counter](https://dev.to/kolja/build-counter-1mlf)
 - [Dev.to/JS] [custom cancel component call with react-toastify](https://dev.to/taiseen/custom-cancel-component-call-with-react-toastify-2p79)
 - [Dev.to/JS] [Fetch data using RxJs &amp; validate them using Zod](https://dev.to/aminnairi/fetch-data-using-rxjs-validate-them-using-zod-kpe)
@@ -36,13 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Netflix in April 2023](https://lifehacker.com/whats-new-on-netflix-in-april-2023-1850253229)
 - [Lifehacker] [An Adult’s Guide to Finally Learning to Like Vegetables](https://lifehacker.com/an-adult-s-guide-to-finally-learning-to-like-vegetables-1850249698)
 - [Dev.to/JS] [How to Speed Up your Applications by Caching at the Edge with HarperDB](https://dev.to/doabledanny/how-to-speed-up-your-applications-by-caching-at-the-edge-with-harperdb-3o2l)
-- [Dev.to/JS] [If, else in javascript.](https://dev.to/alisinayousofi/if-else-in-javascript-1450)
 - [Lifehacker] [Fry an Egg in a Ring of Mashed Potatoes](https://lifehacker.com/fry-an-egg-in-a-ring-of-mashed-potatoes-1850249890)
 - [Lifehacker] [The Difference Between Overdraft and Non-Sufficient Funds Fees &lpar;and How to Avoid Them Both&rpar;](https://lifehacker.com/the-difference-between-overdraft-and-non-sufficient-fun-1850244606)
 - [Lifehacker] [Kodansha USA Is Giving Away a Ton of Free Manga Right Now](https://lifehacker.com/kodansha-usa-is-giving-away-a-ton-of-free-manga-right-n-1850250066)
-- [Dev.to/JS] [I&#39;m planning to build a new OS for embedded smart displays](https://dev.to/souviktests/im-planning-to-build-a-new-os-for-embedded-smart-displays-319e)
-- [Dev.to/JS] [Aprende a utilizar el operador ternario en JavaScript](https://dev.to/asjordi/aprende-a-utilizar-el-operador-ternario-en-javascript-48go)
-- [Dev.to/JS] [Paracetamol.ts💊| #33: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-33-explica-este-codigo-typescript-1gp0)
 - [Lifehacker] [Domino’s Pizza Is Better When It’s Half Off](https://lifehacker.com/domino-s-pizza-is-better-when-it-s-half-off-1850249607)
 - [Lifehacker] [Protect Your Elderly Parents From Medicaid’s ‘Five-Year Look-Back’ Rule](https://lifehacker.com/protect-your-elderly-parents-from-medicaid-s-five-year-1850250694)
 - [Lifehacker] [Buy These Nintendo 3DS Games Before They Disappear Forever](https://lifehacker.com/buy-these-nintendo-3ds-games-before-they-disappear-fore-1850249379)
