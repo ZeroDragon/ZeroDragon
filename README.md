@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Selecting elements in Cypress tests &lpar;useful Cheatsheet&rpar;](https://dev.to/sanzhanov/selecting-elements-in-cypress-tests-useful-cheatsheet-1bko)
+- [Dev.to/JS] [[JS/TS] Don&#39;t declare regex with flags in property of object](https://dev.to/karbashevskyi/jsts-dont-declare-regex-with-flags-in-property-of-object-e67)
+- [Lifehacker] [Why You Should Film Yourself Cleaning, According to Reddit](https://lifehacker.com/why-you-should-film-yourself-cleaning-according-to-red-1850257796)
+- [Dev.to/JS] [Deploying Node Application using Render](https://dev.to/phanimurari/deploying-node-application-using-render-1223)
+- [Lifehacker] [Just Because You Don’t Use a Bidet Doesn’t Mean Your Butt Is Covered in Poop](https://lifehacker.com/just-because-you-don-t-use-a-bidet-doesn-t-mean-your-bu-1850254040)
 - [Lifehacker] [Stop Hackers From Taking Over Your Android With Just Your Phone Number](https://lifehacker.com/stop-hackers-from-taking-over-your-android-with-just-yo-1850256819)
 - [Lifehacker] [How to Avoid These Sophisticated Employment Scams](https://lifehacker.com/how-to-avoid-these-sophisticated-employment-scams-1850254679)
 - [Lifehacker] [Dry Roast Some Nuts for a Better Bowl of Cereal](https://lifehacker.com/dry-roast-some-nuts-for-a-better-bowl-of-cereal-1850254048)
@@ -38,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here Is Your Car&#39;s Spring Cleaning Checklist](https://lifehacker.com/here-is-your-cars-spring-cleaning-checklist-1850253441)
 - [Dev.to/JS] [Iniciando com Micro front-end &lpar;module federation&rpar;](https://dev.to/alisonjr/iniciando-com-micro-front-end-module-federation-5bfm)
 - [Lifehacker] [Roast Your Broccoli at a Lower Temperature](https://lifehacker.com/roast-your-broccoli-at-a-lower-temperature-1850253028)
-- [Dev.to/JS] [What Actually Happened to Faker.js: Open Source Contribution Lessons](https://dev.to/khoubaibsudo/what-actually-happened-to-fakerjs-open-source-contribution-lessons-4n8n)
-- [Dev.to/JS] [Build a Tic-Tac-Toe Game with TypeScript, React and Minimax](https://dev.to/clarity89/build-a-tic-tac-toe-game-with-typescript-react-and-minimax-32ag)
-- [Dev.to/JS] [Paracetamol.ts💊| #34: Explica este código TypeScript](https://dev.to/duxtech/paracetamolts-34-explica-este-codigo-typescript-18e8)
 - [Lifehacker] [Why You Should Never Cook Chili Peppers In the Microwave](https://lifehacker.com/why-you-should-never-cook-chili-peppers-in-the-microwav-1850254355)
 - [Lifehacker] [How to Tell Whether Your Money Is Safe in the Bank](https://lifehacker.com/how-to-tell-whether-your-money-is-safe-in-the-bank-1850253688)
 - [Lifehacker] [Buy a Subway ‘Footlong Pass’ to Get 50% Off All April](https://lifehacker.com/buy-a-subway-footlong-pass-to-get-50-off-all-april-1850248573)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Car Needs These Hospital-Grade Barf Bags](https://lifehacker.com/your-car-needs-these-hospital-grade-barf-bags-1850249065)
 - [Lifehacker] [The Better Way to Cut a Clean Slice of Cake](https://lifehacker.com/the-better-way-to-cut-a-clean-slice-of-cake-1850249102)
 - [Lifehacker] [Should You Have a Lobotomy?](https://lifehacker.com/should-you-have-a-lobotomy-1850244972)
-- [Lifehacker] [Grab These Nine Kick-Ass PC Games While They’re Up to 75% Off](https://lifehacker.com/you-have-two-days-left-to-grab-killer-pc-games-in-the-s-1850245490)
-- [Lifehacker] [You Can Clean Your Dishwasher With Lemonade Kool-Aid](https://lifehacker.com/you-can-clean-your-dishwasher-with-lemonade-kool-aid-1850248114)
-- [Lifehacker] [Three Surprisingly Practical Uses for Dryer Lint](https://lifehacker.com/three-surprisingly-practical-uses-for-dryer-lint-1850244107)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Grab These Nine Kick-Ass PC Games While They’re Up to 75% Off](https://lifehacker.com/you-have-two-days-left-to-grab-killer-pc-games-in-the-s-1850245490)<!-- TECH-POSTS:END -->
 
 ---
 
