@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Qu&#39;est-ce qu&#39;un composant React ?](https://dev.to/semihgkl/quest-ce-quun-composant-react--3hcj)
+- [Dev.to/JS] [I Created An Open-Source Portfolio Template For Developers Called WowFolio 🦄](https://dev.to/rammcodes/i-created-an-open-source-portfolio-template-for-developers-called-wowfolio-457k)
+- [Dev.to/JS] [Filter PNGs for Acropalypse using Compute@Edge](https://dev.to/fastly/filter-pngs-for-acropalypse-using-computeedge-1c58)
 - [Dev.to/JS] [Getting started with Reactjs and Nextjs](https://dev.to/sarahadewale/getting-started-with-reactjs-and-nextjs-4g1g)
 - [Dev.to/JS] [With or without the JS framework](https://dev.to/starbist/with-or-without-the-js-framework-2k58)
 - [Dev.to/JS] [MutationObserver](https://dev.to/hasantezcan/mutationobserver-3f0p)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web Dev EP 1 : JavaScript 101](https://dev.to/debasishsahoo10/web-dev-ep-1-javascript-101-4fla)
 - [Dev.to/JS] [Asset&lpar;Image/Video&rpar; Picker with javascript&lpar;react/nextjs&rpar; on button click](https://dev.to/babou360/assetimagevideo-picker-with-javascriptreactnextjs-on-button-click-1ol0)
 - [Dev.to/JS] [Image position and displaying flex.. question](https://dev.to/babybaks/image-position-and-displaying-flex-question-5369)
-- [Dev.to/JS] [LeetCode - Reverse Nodes in k-Group](https://dev.to/_alkesh26/leetcode-reverse-nodes-in-k-group-3jeb)
-- [Dev.to/JS] [Adding keys to our DOM diffing algorithm](https://dev.to/joydeep23/adding-keys-our-dom-diffing-algorithm-4d7g)
-- [Dev.to/JS] [The Mysterious ‘this’](https://dev.to/prithviraj/the-mysterious-this-5bp1)
 - [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)
 - [Lifehacker] [Xbox Is Having a Massive Sale on Games Right Now](https://lifehacker.com/xbox-is-having-a-massive-sale-on-games-right-now-1850253578)
 - [Lifehacker] [Fruit Roll-Up Ice Cream Is a Textural Delight](https://lifehacker.com/fruit-roll-up-ice-cream-is-a-textural-delight-1850253022)
