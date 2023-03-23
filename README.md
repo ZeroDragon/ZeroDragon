@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ServiceNow: reference vs. primitive data types](https://dev.to/mkrcma/servicenow-reference-vs-primitive-data-types-2bjp)
+- [Dev.to/JS] [JavaScript Tutorial Series: Introduction to JavaScript events.](https://dev.to/fullstackjo/javascript-tutorial-series-introduction-to-javascript-events-4mlp)
 - [Dev.to/JS] [Getting Started with TypeScript](https://dev.to/ishanbagchi/getting-started-with-typescript-157c)
 - [Dev.to/JS] [Basics Of Javascript](https://dev.to/tech_olaide/basics-of-javascript-25dh)
 - [Dev.to/JS] [Decoupling Hoisting In React](https://dev.to/sam4rano/decoupling-hoisting-in-react-1420)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Show specific h5 tag](https://dev.to/denkyira5544/show-specific-h5-tag-21m2)
 - [Dev.to/JS] [Triggers with Supabase](https://dev.to/guillaumeduhan/triggers-with-supabase-266f)
 - [Dev.to/JS] [The Electron Saga 3️⃣: All beginings have an end.](https://dev.to/scriptjayt/the-electron-saga-3-all-beginings-have-an-end-m65)
-- [Dev.to/JS] [Selecting elements in Cypress tests &lpar;useful Cheatsheet&rpar;](https://dev.to/sanzhanov/selecting-elements-in-cypress-tests-useful-cheatsheet-1bko)
-- [Dev.to/JS] [[JS/TS] Don&#39;t declare regex with flags in property of object](https://dev.to/karbashevskyi/jsts-dont-declare-regex-with-flags-in-property-of-object-e67)
 - [Lifehacker] [Why You Should Film Yourself Cleaning, According to Reddit](https://lifehacker.com/why-you-should-film-yourself-cleaning-according-to-red-1850257796)
 - [Lifehacker] [Just Because You Don’t Use a Bidet Doesn’t Mean Your Butt Is Covered in Poop](https://lifehacker.com/just-because-you-don-t-use-a-bidet-doesn-t-mean-your-bu-1850254040)
 - [Lifehacker] [Stop Hackers From Taking Over Your Android With Just Your Phone Number](https://lifehacker.com/stop-hackers-from-taking-over-your-android-with-just-yo-1850256819)
