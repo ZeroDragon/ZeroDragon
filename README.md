@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Microfrontend: Registro dinâmico de componentes &lpar;module federation&rpar;](https://dev.to/alisonjr/microfrontend-registro-dinamico-de-componentes-module-federation-6ib)
+- [Dev.to/JS] [Thoughts on React Native vs Ionic Framework Developer Experience and Application Quality](https://dev.to/aaronksaunders/thoughts-on-react-native-vs-ionic-framework-developer-experience-and-application-quality-odf)
+- [Dev.to/JS] [One Wizard to Rule Them All: The Magic of Array.prototype.some&lpar;&rpar;](https://dev.to/almonteluis/one-wizard-to-rule-them-all-the-magic-of-arrayprototypesome-4gl2)
+- [Dev.to/JS] [Build a Crypto Finder app in React.js](https://dev.to/bekbrace/build-a-crypto-finder-app-in-reactjs-2ei)
+- [Lifehacker] [Here Is Your Car&#39;s Spring Cleaning Checklist](https://lifehacker.com/here-is-your-cars-spring-cleaning-checklist-1850253441)
+- [Dev.to/JS] [Iniciando com Micro front-end &lpar;module federation&rpar;](https://dev.to/alisonjr/iniciando-com-micro-front-end-module-federation-5bfm)
 - [Lifehacker] [Roast Your Broccoli at a Lower Temperature](https://lifehacker.com/roast-your-broccoli-at-a-lower-temperature-1850253028)
 - [Dev.to/JS] [What Actually Happened to Faker.js: Open Source Contribution Lessons](https://dev.to/khoubaibsudo/what-actually-happened-to-fakerjs-open-source-contribution-lessons-4n8n)
 - [Dev.to/JS] [Build a Tic-Tac-Toe Game with TypeScript, React and Minimax](https://dev.to/clarity89/build-a-tic-tac-toe-game-with-typescript-react-and-minimax-32ag)
@@ -31,15 +37,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell Whether Your Money Is Safe in the Bank](https://lifehacker.com/how-to-tell-whether-your-money-is-safe-in-the-bank-1850253688)
 - [Lifehacker] [Buy a Subway ‘Footlong Pass’ to Get 50% Off All April](https://lifehacker.com/buy-a-subway-footlong-pass-to-get-50-off-all-april-1850248573)
 - [Dev.to/JS] [React: Lessons from the Trenches - useEffect x Infinity](https://dev.to/codux/react-lessons-from-the-trenches-useeffect-x-infinity-1e3d)
-- [Dev.to/JS] [Node with docker &lpar;JS/TS&rpar;](https://dev.to/dnsmnds/node-with-docker-jsts-55a6)
+- [Dev.to/JS] [Node with Docker &lpar;JS/TS&rpar;](https://dev.to/dnsmnds/node-with-docker-jsts-55a6)
 - [Lifehacker] [Block People From Seeing That You Opened Their Emails](https://lifehacker.com/block-people-from-seeing-that-you-opened-their-emails-1850253379)
 - [Dev.to/JS] [Mastering Blazor - Part 2: Hot Reloading](https://dev.to/florianrappl/mastering-blazor-part-2-hot-reloading-2b87)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Números Extra Longos em Fatorial&lpar;!&rpar;.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-numeros-extra-longos-em-fatorial-1jb9)
-- [Dev.to/JS] [JavaScript Closure](https://dev.to/makstyle119/javascript-closure-2nb5)
-- [Dev.to/JS] [Setting Up a Vanilla TypeScript Project](https://dev.to/anyiamchimdia/setting-up-a-vanilla-typescript-project-4me1)
-- [Dev.to/JS] [A flexible nodejs crawler library — x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-crawler-library-x-crawl-50gl)
-- [Dev.to/JS] [Apenas uma parte da programação é codificação. Os outros 90% é entendimento do código.](https://dev.to/demgoncalves/apenas-uma-parte-da-programacao-e-codificacao-os-outros-90-e-entendimento-do-codigo-3j8n)
-- [Dev.to/JS] [How to build a countdown timer with JavaScript](https://dev.to/aliyuadeniji/how-to-build-a-countdown-timer-with-javascript-bgc)
 - [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)
 - [Lifehacker] [Xbox Is Having a Massive Sale on Games Right Now](https://lifehacker.com/xbox-is-having-a-massive-sale-on-games-right-now-1850253578)
 - [Lifehacker] [Fruit Roll-Up Ice Cream Is a Textural Delight](https://lifehacker.com/fruit-roll-up-ice-cream-is-a-textural-delight-1850253022)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Black and White Cookies With Boxed Muffin Mix](https://lifehacker.com/make-black-and-white-cookies-with-boxed-muffin-mix-1850247611)
 - [Lifehacker] [You Can &lpar;Finally&rpar; Safely Edit a Screenshot on Your Pixel Without Someone Stealing Your Info](https://lifehacker.com/you-can-finally-safely-edit-a-screenshot-on-your-pixe-1850244750)
 - [Lifehacker] [How Virtual Reality Workouts Can Improve Your Body Image](https://lifehacker.com/how-virtual-reality-workouts-can-improve-your-body-imag-1850246571)
-- [Lifehacker] [You Can Get the Apple M2 Mac Mini for $100 Off Right Now](https://lifehacker.com/the-new-apple-m2-mac-mini-is-99-off-right-now-1850244694)
-- [Lifehacker] [You Can Sign Up for Google&#39;s AI Chatbot Right Now](https://lifehacker.com/you-can-sign-up-for-googles-ai-chatbot-right-now-1850247839)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get the Apple M2 Mac Mini for $100 Off Right Now](https://lifehacker.com/the-new-apple-m2-mac-mini-is-99-off-right-now-1850244694)<!-- TECH-POSTS:END -->
 
 ---
 
