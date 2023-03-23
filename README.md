@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Block People From Seeing That You Opened Their Emails](https://lifehacker.com/block-people-from-seeing-that-you-opened-their-emails-1850253379)
+- [Dev.to/JS] [Mastering Blazor - Part 2: Hot Reloading](https://dev.to/florianrappl/mastering-blazor-part-2-hot-reloading-2b87)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Números Extra Longos em Fatorial&lpar;!&rpar;.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-numeros-extra-longos-em-fatorial-1jb9)
+- [Dev.to/JS] [JavaScript Closure](https://dev.to/makstyle119/javascript-closure-2nb5)
 - [Dev.to/JS] [Setting Up a Vanilla TypeScript Project](https://dev.to/anyiamchimdia/setting-up-a-vanilla-typescript-project-4me1)
 - [Dev.to/JS] [A flexible nodejs crawler library — x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-crawler-library-x-crawl-50gl)
 - [Dev.to/JS] [Apenas uma parte da programação é codificação. Os outros 90% é entendimento do código.](https://dev.to/demgoncalves/apenas-uma-parte-da-programacao-e-codificacao-os-outros-90-e-entendimento-do-codigo-3j8n)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is HTMLCollection in JavaScript](https://dev.to/ocxigin/what-is-htmlcollection-in-javascript-8i9)
 - [Dev.to/JS] [Qu&#39;est-ce qu&#39;un composant React ?](https://dev.to/semihgkl/quest-ce-quun-composant-react--3hcj)
 - [Dev.to/JS] [I Created An Open-Source Portfolio Website Template For Developers Called WowFolio 🦄](https://dev.to/rammcodes/i-created-an-open-source-portfolio-template-for-developers-called-wowfolio-457k)
-- [Dev.to/JS] [Filter PNGs for Acropalypse using Compute@Edge](https://dev.to/fastly/filter-pngs-for-acropalypse-using-computeedge-1c58)
-- [Dev.to/JS] [Getting started with Reactjs and Nextjs](https://dev.to/sarahadewale/getting-started-with-reactjs-and-nextjs-4g1g)
-- [Dev.to/JS] [With or without the JS framework](https://dev.to/starbist/with-or-without-the-js-framework-2k58)
 - [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)
 - [Lifehacker] [Xbox Is Having a Massive Sale on Games Right Now](https://lifehacker.com/xbox-is-having-a-massive-sale-on-games-right-now-1850253578)
 - [Lifehacker] [Fruit Roll-Up Ice Cream Is a Textural Delight](https://lifehacker.com/fruit-roll-up-ice-cream-is-a-textural-delight-1850253022)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Secret to Perfect Poached Eggs Is in the Shell](https://lifehacker.com/the-secret-to-perfect-poached-eggs-is-in-the-shell-1850244053)
 - [Lifehacker] [This Caramelized Pickle Dip Slaps](https://lifehacker.com/this-caramelized-pickle-dip-slaps-1850245734)
 - [Lifehacker] [Teach Your Teen to Start Cooking With These Easy Meal Ideas](https://lifehacker.com/teach-your-teen-to-start-cooking-with-these-easy-meal-i-1850245763)
-- [Lifehacker] [Your Old Mac Might End Up in the Trash If You Don’t Do This](https://lifehacker.com/your-old-mac-might-end-up-in-the-trash-if-you-don-t-do-1850244023)
-- [Lifehacker] [You Can Make Money by Reviewing Books and Recording Audiobooks](https://lifehacker.com/you-can-money-by-reviewing-books-and-recording-audioboo-1850238880)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Old Mac Might End Up in the Trash If You Don’t Do This](https://lifehacker.com/your-old-mac-might-end-up-in-the-trash-if-you-don-t-do-1850244023)<!-- TECH-POSTS:END -->
 
 ---
 
