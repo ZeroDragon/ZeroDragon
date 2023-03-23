@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Array.prototype.square](https://dev.to/986913/arrayprototypesquare-1hii)
+- [Dev.to/JS] [Practices and tools for a startup](https://dev.to/roman_m/practices-and-tools-for-a-startup-39h7)
 - [Dev.to/JS] [Forever Functional: Three ways of Polling](https://dev.to/asayerio_techblog/forever-functional-three-ways-of-polling-36po)
 - [Dev.to/JS] [Top Visual Studio Code extensions for Svelte developers](https://dev.to/asayerio_techblog/top-visual-studio-code-extensions-for-svelte-developers-i2k)
 - [Dev.to/JS] [JavaScript Asynchronous Programming Tips, Tricks, and Gotchas](https://dev.to/asayerio_techblog/javascript-asynchronous-programming-tips-tricks-and-gotchas-3phj)
@@ -35,11 +37,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)
 - [Dev.to/JS] [Namespaces Abstracted](https://dev.to/itsmohamedyahia/namespaces-abstracted-2ghn)
 - [Lifehacker] [Xbox Is Having a Massive Sale on Games Right Now](https://lifehacker.com/xbox-is-having-a-massive-sale-on-games-right-now-1850253578)
-- [Dev.to/JS] [Dynamic Render Inertia from different file path in using Laravel](https://dev.to/hareom284/dynamic-render-inertia-from-different-file-path-in-using-laravel-47n2)
 - [Lifehacker] [Fruit Roll-Up Ice Cream Is a Textural Delight](https://lifehacker.com/fruit-roll-up-ice-cream-is-a-textural-delight-1850253022)
 - [Lifehacker] [What&#39;s New on Netflix in April 2023](https://lifehacker.com/whats-new-on-netflix-in-april-2023-1850253229)
 - [Lifehacker] [An Adult’s Guide to Finally Learning to Like Vegetables](https://lifehacker.com/an-adult-s-guide-to-finally-learning-to-like-vegetables-1850249698)
-- [Dev.to/JS] [How to Speed Up your Applications by Caching at the Edge with HarperDB](https://dev.to/doabledanny/how-to-speed-up-your-applications-by-caching-at-the-edge-with-harperdb-3o2l)
 - [Lifehacker] [Fry an Egg in a Ring of Mashed Potatoes](https://lifehacker.com/fry-an-egg-in-a-ring-of-mashed-potatoes-1850249890)
 - [Lifehacker] [The Difference Between Overdraft and Non-Sufficient Funds Fees &lpar;and How to Avoid Them Both&rpar;](https://lifehacker.com/the-difference-between-overdraft-and-non-sufficient-fun-1850244606)
 - [Lifehacker] [Kodansha USA Is Giving Away a Ton of Free Manga Right Now](https://lifehacker.com/kodansha-usa-is-giving-away-a-ton-of-free-manga-right-n-1850250066)
