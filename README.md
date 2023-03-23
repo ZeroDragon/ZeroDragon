@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ordinare la numerazione di un documento o lista espressa a livelli: 5.2.7](https://dev.to/pix303/ordinare-la-numerazione-di-un-documento-o-lista-espressa-a-livelli-527-5bj3)
+- [Dev.to/JS] [10 HTML, CSS &amp; JavaScript mistakes from a beginner](https://dev.to/urwissen/10-html-css-javascript-mistakes-from-a-beginner-22pf)
 - [Dev.to/JS] [ServiceNow: reference vs. primitive data types](https://dev.to/mkrcma/servicenow-reference-vs-primitive-data-types-2bjp)
 - [Dev.to/JS] [JavaScript Tutorial Series: Introduction to JavaScript events.](https://dev.to/fullstackjo/javascript-tutorial-series-introduction-to-javascript-events-4mlp)
 - [Dev.to/JS] [Getting Started with TypeScript](https://dev.to/ishanbagchi/getting-started-with-typescript-157c)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Transparent Upgradable Smart Contracts: A Guide with Code Explanation](https://dev.to/muhindogalien/transparent-upgradable-smart-contracts-a-guide-with-code-explanation-i71)
 - [Dev.to/JS] [Currying with placeholder support : Explained with detail.](https://dev.to/rounit08/currying-with-placeholder-support-explained-with-detail-2jf1)
 - [Dev.to/JS] [Show specific h5 tag](https://dev.to/denkyira5544/show-specific-h5-tag-21m2)
-- [Dev.to/JS] [Triggers with Supabase](https://dev.to/guillaumeduhan/triggers-with-supabase-266f)
-- [Dev.to/JS] [The Electron Saga 3️⃣: All beginings have an end.](https://dev.to/scriptjayt/the-electron-saga-3-all-beginings-have-an-end-m65)
 - [Lifehacker] [Why You Should Film Yourself Cleaning, According to Reddit](https://lifehacker.com/why-you-should-film-yourself-cleaning-according-to-red-1850257796)
 - [Lifehacker] [Just Because You Don’t Use a Bidet Doesn’t Mean Your Butt Is Covered in Poop](https://lifehacker.com/just-because-you-don-t-use-a-bidet-doesn-t-mean-your-bu-1850254040)
 - [Lifehacker] [Stop Hackers From Taking Over Your Android With Just Your Phone Number](https://lifehacker.com/stop-hackers-from-taking-over-your-android-with-just-yo-1850256819)
