@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Asset&lpar;Image/Video&rpar; Picker with javascript&lpar;react/nextjs&rpar; on button click](https://dev.to/babou360/assetimagevideo-picker-with-javascriptreactnextjs-on-button-click-1ol0)
+- [Dev.to/JS] [Image position and displaying flex.. question](https://dev.to/babybaks/image-position-and-displaying-flex-question-5369)
+- [Dev.to/JS] [LeetCode - Reverse Nodes in k-Group](https://dev.to/_alkesh26/leetcode-reverse-nodes-in-k-group-3jeb)
+- [Dev.to/JS] [Adding keys to our DOM diffing algorithm](https://dev.to/joydeep23/adding-keys-our-dom-diffing-algorithm-4d7g)
 - [Dev.to/JS] [The Mysterious ‘this’](https://dev.to/prithviraj/the-mysterious-this-5bp1)
 - [Dev.to/JS] [Benefits of Using a Phone Number Validator API](https://dev.to/meenal_01/benefits-of-using-a-phone-number-validator-api-l37)
 - [Dev.to/JS] [JS Customization to Generate QR Code from Kintone Record Values](https://dev.to/kintonedevprogram/js-customization-to-generate-qr-code-from-kintone-record-values-27e8)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Blockchain and how it works? Also, discuss its benefits and drawbacks.](https://dev.to/baljeet975/what-is-blockchain-and-how-it-works-also-discuss-its-benefits-and-drawbacks-3nml)
 - [Dev.to/JS] [Print&lpar;&rpar;- funksiyasi haqida](https://dev.to/asilbek20/print-funksiyasi-haqida-1p1g)
 - [Dev.to/JS] [What is REST? Rest API Definition for Beginners](https://dev.to/usmanahmedgoray/what-is-rest-rest-api-definition-for-beginners-cbk)
-- [Dev.to/JS] [JavaScript || &lpar;Logical OR&rpar; vs ?? &lpar;Nullish Coalescing&rpar;](https://dev.to/hamidtips/javascript-vs--26o7)
-- [Dev.to/JS] [Lodash&#39;s Once](https://dev.to/986913/lodashs-once-5b7m)
-- [Dev.to/JS] [Array.prototype.square](https://dev.to/986913/arrayprototypesquare-1hii)
-- [Dev.to/JS] [Practices and tools for a startup](https://dev.to/roman_m/practices-and-tools-for-a-startup-39h7)
 - [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)
 - [Lifehacker] [Xbox Is Having a Massive Sale on Games Right Now](https://lifehacker.com/xbox-is-having-a-massive-sale-on-games-right-now-1850253578)
 - [Lifehacker] [Fruit Roll-Up Ice Cream Is a Textural Delight](https://lifehacker.com/fruit-roll-up-ice-cream-is-a-textural-delight-1850253022)
