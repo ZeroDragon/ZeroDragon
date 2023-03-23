@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Mysterious ‘this’](https://dev.to/prithviraj/the-mysterious-this-5bp1)
 - [Dev.to/JS] [Benefits of Using a Phone Number Validator API](https://dev.to/meenal_01/benefits-of-using-a-phone-number-validator-api-l37)
 - [Dev.to/JS] [JS Customization to Generate QR Code from Kintone Record Values](https://dev.to/kintonedevprogram/js-customization-to-generate-qr-code-from-kintone-record-values-27e8)
 - [Dev.to/JS] [python:izohlar yani kamentariyalar](https://dev.to/yaxyotojiboyev/pythonizohlar-yani-kamentariyalar-2daj)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lodash&#39;s Once](https://dev.to/986913/lodashs-once-5b7m)
 - [Dev.to/JS] [Array.prototype.square](https://dev.to/986913/arrayprototypesquare-1hii)
 - [Dev.to/JS] [Practices and tools for a startup](https://dev.to/roman_m/practices-and-tools-for-a-startup-39h7)
-- [Dev.to/JS] [Forever Functional: Three ways of Polling](https://dev.to/asayerio_techblog/forever-functional-three-ways-of-polling-36po)
 - [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)
 - [Lifehacker] [Xbox Is Having a Massive Sale on Games Right Now](https://lifehacker.com/xbox-is-having-a-massive-sale-on-games-right-now-1850253578)
 - [Lifehacker] [Fruit Roll-Up Ice Cream Is a Textural Delight](https://lifehacker.com/fruit-roll-up-ice-cream-is-a-textural-delight-1850253022)
