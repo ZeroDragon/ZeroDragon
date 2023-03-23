@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is React Redux? Discuss its key concepts and benefits.](https://dev.to/baljeet975/what-is-react-redux-discuss-its-key-concepts-and-benefits-1ld7)
+- [Dev.to/JS] [What is Blockchain and how it works? Also, discuss its benefits and drawbacks.](https://dev.to/baljeet975/what-is-blockchain-and-how-it-works-also-discuss-its-benefits-and-drawbacks-3nml)
+- [Dev.to/JS] [Print&lpar;&rpar;- funksiyasi haqida](https://dev.to/asilbek20/print-funksiyasi-haqida-1p1g)
+- [Dev.to/JS] [What is REST? Rest API Definition for Beginners](https://dev.to/usmanahmedgoray/what-is-rest-rest-api-definition-for-beginners-cbk)
 - [Dev.to/JS] [JavaScript || &lpar;Logical OR&rpar; vs ?? &lpar;Nullish Coalescing&rpar;](https://dev.to/hamidtips/javascript-vs--26o7)
 - [Dev.to/JS] [Lodash&#39;s Once](https://dev.to/986913/lodashs-once-5b7m)
 - [Dev.to/JS] [Array.prototype.square](https://dev.to/986913/arrayprototypesquare-1hii)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top Visual Studio Code extensions for Svelte developers](https://dev.to/asayerio_techblog/top-visual-studio-code-extensions-for-svelte-developers-i2k)
 - [Dev.to/JS] [JavaScript Asynchronous Programming Tips, Tricks, and Gotchas](https://dev.to/asayerio_techblog/javascript-asynchronous-programming-tips-tricks-and-gotchas-3phj)
 - [Dev.to/JS] [🔍 RxDB: The Reactive Database Solution for Angular Apps 🌐](https://dev.to/dhrn/rxdb-the-reactive-database-solution-for-angular-apps-5013)
-- [Dev.to/JS] [Build counter](https://dev.to/kolja/build-counter-1mlf)
-- [Dev.to/JS] [custom cancel component call with react-toastify](https://dev.to/taiseen/custom-cancel-component-call-with-react-toastify-2p79)
-- [Dev.to/JS] [Fetch data using RxJs &amp; validate them using Zod](https://dev.to/aminnairi/fetch-data-using-rxjs-validate-them-using-zod-kpe)
-- [Dev.to/JS] [MERN Stack Chat App #1](https://dev.to/xensan_dev/mern-stack-chat-app-1-4gln)
 - [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)
 - [Lifehacker] [Xbox Is Having a Massive Sale on Games Right Now](https://lifehacker.com/xbox-is-having-a-massive-sale-on-games-right-now-1850253578)
 - [Lifehacker] [Fruit Roll-Up Ice Cream Is a Textural Delight](https://lifehacker.com/fruit-roll-up-ice-cream-is-a-textural-delight-1850253022)
