@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript || &lpar;Logical OR&rpar; vs ?? &lpar;Nullish Coalescing&rpar;](https://dev.to/hamidtips/javascript-vs--26o7)
 - [Dev.to/JS] [Lodash&#39;s Once](https://dev.to/986913/lodashs-once-5b7m)
 - [Dev.to/JS] [Array.prototype.square](https://dev.to/986913/arrayprototypesquare-1hii)
 - [Dev.to/JS] [Practices and tools for a startup](https://dev.to/roman_m/practices-and-tools-for-a-startup-39h7)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [custom cancel component call with react-toastify](https://dev.to/taiseen/custom-cancel-component-call-with-react-toastify-2p79)
 - [Dev.to/JS] [Fetch data using RxJs &amp; validate them using Zod](https://dev.to/aminnairi/fetch-data-using-rxjs-validate-them-using-zod-kpe)
 - [Dev.to/JS] [MERN Stack Chat App #1](https://dev.to/xensan_dev/mern-stack-chat-app-1-4gln)
-- [Dev.to/JS] [Command Pattern in Programming using a uber as a case study](https://dev.to/walosha/command-pattern-in-programming-using-a-uber-app-pjd)
 - [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)
 - [Lifehacker] [Xbox Is Having a Massive Sale on Games Right Now](https://lifehacker.com/xbox-is-having-a-massive-sale-on-games-right-now-1850253578)
 - [Lifehacker] [Fruit Roll-Up Ice Cream Is a Textural Delight](https://lifehacker.com/fruit-roll-up-ice-cream-is-a-textural-delight-1850253022)
