@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Buy a Subway ‘Footlong Pass’ to Get 50% Off All April](https://lifehacker.com/buy-a-subway-footlong-pass-to-get-50-off-all-april-1850248573)
+- [Dev.to/JS] [React: Lessons from the Trenches - useEffect x Infinity](https://dev.to/codux/react-lessons-from-the-trenches-useeffect-x-infinity-1e3d)
+- [Dev.to/JS] [Node with docker &lpar;JS/TS&rpar;](https://dev.to/dnsmnds/node-with-docker-jsts-55a6)
 - [Lifehacker] [Block People From Seeing That You Opened Their Emails](https://lifehacker.com/block-people-from-seeing-that-you-opened-their-emails-1850253379)
 - [Dev.to/JS] [Mastering Blazor - Part 2: Hot Reloading](https://dev.to/florianrappl/mastering-blazor-part-2-hot-reloading-2b87)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Números Extra Longos em Fatorial&lpar;!&rpar;.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-numeros-extra-longos-em-fatorial-1jb9)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Automate Your Deployment Workflow: Continuously Deploying Next.js Website to DigitalOcean Using GitHub Actions](https://dev.to/clarity89/automate-your-deployment-workflow-continuously-deploying-nextjs-website-to-digitalocean-using-github-actions-4i86)
 - [Dev.to/JS] [0](https://dev.to/linhntptit143/linhaa-3bl7)
 - [Dev.to/JS] [What is HTMLCollection in JavaScript](https://dev.to/ocxigin/what-is-htmlcollection-in-javascript-8i9)
-- [Dev.to/JS] [Qu&#39;est-ce qu&#39;un composant React ?](https://dev.to/semihgkl/quest-ce-quun-composant-react--3hcj)
-- [Dev.to/JS] [I Created An Open-Source Portfolio Website Template For Developers Called WowFolio 🦄](https://dev.to/rammcodes/i-created-an-open-source-portfolio-template-for-developers-called-wowfolio-457k)
 - [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)
 - [Lifehacker] [Xbox Is Having a Massive Sale on Games Right Now](https://lifehacker.com/xbox-is-having-a-massive-sale-on-games-right-now-1850253578)
 - [Lifehacker] [Fruit Roll-Up Ice Cream Is a Textural Delight](https://lifehacker.com/fruit-roll-up-ice-cream-is-a-textural-delight-1850253022)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Sign Up for Google&#39;s AI Chatbot Right Now](https://lifehacker.com/you-can-sign-up-for-googles-ai-chatbot-right-now-1850247839)
 - [Lifehacker] [The Secret to Perfect Poached Eggs Is in the Shell](https://lifehacker.com/the-secret-to-perfect-poached-eggs-is-in-the-shell-1850244053)
 - [Lifehacker] [This Caramelized Pickle Dip Slaps](https://lifehacker.com/this-caramelized-pickle-dip-slaps-1850245734)
-- [Lifehacker] [Teach Your Teen to Start Cooking With These Easy Meal Ideas](https://lifehacker.com/teach-your-teen-to-start-cooking-with-these-easy-meal-i-1850245763)
-- [Lifehacker] [Your Old Mac Might End Up in the Trash If You Don’t Do This](https://lifehacker.com/your-old-mac-might-end-up-in-the-trash-if-you-don-t-do-1850244023)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Teach Your Teen to Start Cooking With These Easy Meal Ideas](https://lifehacker.com/teach-your-teen-to-start-cooking-with-these-easy-meal-i-1850245763)<!-- TECH-POSTS:END -->
 
 ---
 
