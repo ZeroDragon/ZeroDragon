@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Stop Hackers From Taking Over Your Android With Just Your Phone Number](https://lifehacker.com/stop-hackers-from-taking-over-your-android-with-just-yo-1850256819)
 - [Lifehacker] [How to Avoid These Sophisticated Employment Scams](https://lifehacker.com/how-to-avoid-these-sophisticated-employment-scams-1850254679)
 - [Lifehacker] [Dry Roast Some Nuts for a Better Bowl of Cereal](https://lifehacker.com/dry-roast-some-nuts-for-a-better-bowl-of-cereal-1850254048)
 - [Dev.to/JS] [Circular Text with CSS?](https://dev.to/jh3y/circular-text-with-css-57jf)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Have a Lobotomy?](https://lifehacker.com/should-you-have-a-lobotomy-1850244972)
 - [Lifehacker] [Grab These Nine Kick-Ass PC Games While They’re Up to 75% Off](https://lifehacker.com/you-have-two-days-left-to-grab-killer-pc-games-in-the-s-1850245490)
 - [Lifehacker] [You Can Clean Your Dishwasher With Lemonade Kool-Aid](https://lifehacker.com/you-can-clean-your-dishwasher-with-lemonade-kool-aid-1850248114)
-- [Lifehacker] [Three Surprisingly Practical Uses for Dryer Lint](https://lifehacker.com/three-surprisingly-practical-uses-for-dryer-lint-1850244107)
-- [Lifehacker] [Make Black and White Cookies With Boxed Muffin Mix](https://lifehacker.com/make-black-and-white-cookies-with-boxed-muffin-mix-1850247611)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Three Surprisingly Practical Uses for Dryer Lint](https://lifehacker.com/three-surprisingly-practical-uses-for-dryer-lint-1850244107)<!-- TECH-POSTS:END -->
 
 ---
 
