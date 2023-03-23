@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting started with Reactjs and Nextjs](https://dev.to/sarahadewale/getting-started-with-reactjs-and-nextjs-4g1g)
+- [Dev.to/JS] [With or without the JS framework](https://dev.to/starbist/with-or-without-the-js-framework-2k58)
 - [Dev.to/JS] [MutationObserver](https://dev.to/hasantezcan/mutationobserver-3f0p)
 - [Dev.to/JS] [Perfect UI library using Chat GPT](https://dev.to/shreyvijayvargiya/perfect-ui-library-using-chat-gpt-3ken)
 - [Dev.to/JS] [Form Input Validation: Ensure Valid, Meaningful, and Reliable Responses in Questionnaires and Online Forms](https://dev.to/surveyjs/form-input-validation-ensure-valid-meaningful-and-reliable-responses-in-questionnaires-and-online-forms-h74)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode - Reverse Nodes in k-Group](https://dev.to/_alkesh26/leetcode-reverse-nodes-in-k-group-3jeb)
 - [Dev.to/JS] [Adding keys to our DOM diffing algorithm](https://dev.to/joydeep23/adding-keys-our-dom-diffing-algorithm-4d7g)
 - [Dev.to/JS] [The Mysterious ‘this’](https://dev.to/prithviraj/the-mysterious-this-5bp1)
-- [Dev.to/JS] [Benefits of Using a Phone Number Validator API](https://dev.to/meenal_01/benefits-of-using-a-phone-number-validator-api-l37)
-- [Dev.to/JS] [JS Customization to Generate QR Code from Kintone Record Values](https://dev.to/kintonedevprogram/js-customization-to-generate-qr-code-from-kintone-record-values-27e8)
 - [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)
 - [Lifehacker] [Xbox Is Having a Massive Sale on Games Right Now](https://lifehacker.com/xbox-is-having-a-massive-sale-on-games-right-now-1850253578)
 - [Lifehacker] [Fruit Roll-Up Ice Cream Is a Textural Delight](https://lifehacker.com/fruit-roll-up-ice-cream-is-a-textural-delight-1850253022)
