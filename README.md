@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Animation -15 : CSS PB JLoader Animation](https://dev.to/jon_snow789/animation-14-css-pb-jloader-animation-1e19)
+- [Dev.to/JS] [Automating AJAX Forms](https://dev.to/tohodo/automating-ajax-forms-2ph9)
+- [Dev.to/JS] [Which is Best NodeJS Development Firms](https://dev.to/amandacowell/which-is-best-nodejs-development-firms-528c)
 - [Dev.to/JS] [How to make a digital clock using JavaScript](https://dev.to/michaelburrows/how-to-make-a-digital-clock-using-javascript-4lja)
 - [Dev.to/JS] [How to use sequel.ai to convert natural language queries into SQL queries](https://dev.to/trinly01/how-to-use-sequelai-to-convert-natural-language-queries-into-sql-queries-3f7o)
 - [Dev.to/JS] [Alpine.js Tutorial: Getting Started with Interactive Web Applications](https://dev.to/shibun/alpinejs-tutorial-getting-started-with-interactive-web-applications-484c)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Updates from the 95th TC39 meeting](https://dev.to/hemanth/updates-from-the-95th-tc39-meeting-ne5)
 - [Dev.to/JS] [What is Dynamic Programming?](https://dev.to/hugos/what-is-dynamic-programming-16f7)
 - [Dev.to/JS] [Complete Reactjs Tutorial for Beginners: Step-by-step Guide &lpar;Part 1&rpar;](https://dev.to/stephengade/complete-reactjs-tutorial-for-beginners-step-by-step-guide-part-1-3ihl)
-- [Dev.to/JS] [Ordinare la numerazione di un documento o lista espressa a livelli: 5.2.7](https://dev.to/pix303/ordinare-la-numerazione-di-un-documento-o-lista-espressa-a-livelli-527-5bj3)
-- [Dev.to/JS] [10 HTML, CSS &amp; JavaScript mistakes from a beginner](https://dev.to/urwissen/10-html-css-javascript-mistakes-from-a-beginner-22pf)
-- [Dev.to/JS] [ServiceNow: reference vs. primitive data types](https://dev.to/mkrcma/servicenow-reference-vs-primitive-data-types-2bjp)
 - [Lifehacker] [Why You Should Film Yourself Cleaning, According to Reddit](https://lifehacker.com/why-you-should-film-yourself-cleaning-according-to-red-1850257796)
 - [Lifehacker] [Just Because You Don’t Use a Bidet Doesn’t Mean Your Butt Is Covered in Poop](https://lifehacker.com/just-because-you-don-t-use-a-bidet-doesn-t-mean-your-bu-1850254040)
 - [Lifehacker] [Stop Hackers From Taking Over Your Android With Just Your Phone Number](https://lifehacker.com/stop-hackers-from-taking-over-your-android-with-just-yo-1850256819)
