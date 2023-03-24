@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular Signals](https://dev.to/jrohatiner/angular-signals-3n6k)
+- [Dev.to/JS] [Breaking down Promises in JavaScript](https://dev.to/valentinaperic/breaking-down-promises-in-javascript-34a8)
+- [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
+- [Dev.to/JS] [Exception Handling in JavaScript](https://dev.to/honeybadger/exception-handling-in-javascript-3901)
+- [Dev.to/JS] [7 Must Know Custom React Hooks in React 18](https://dev.to/lucasjstifano/7-must-know-custom-react-hooks-in-react-18-32ne)
+- [Dev.to/JS] [Automate Your Code Formatting with Prettier and Husky: A Complete Guide](https://dev.to/arindam1997007/automate-your-code-formatting-with-prettier-and-husky-a-complete-guide-15eb)
 - [Dev.to/JS] [Clarity on logical operator js](https://dev.to/ebakecode/clarity-on-logical-operator-js-416)
 - [Dev.to/JS] [Creating a Telegram News Bot - post 1](https://dev.to/dshaw0004/creating-a-telegram-news-bot-part-1-355f)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
@@ -33,12 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Share your technical posts experience](https://dev.to/ravijhabit/share-your-technical-posts-experience-547b)
 - [Lifehacker] [These Are the Most Savage Ways to Start or End an Email](https://lifehacker.com/these-are-the-most-savage-ways-to-start-or-end-an-email-1850260223)
 - [Lifehacker] [You Can Get March Madness Tickets for As Low As $18 Right Now](https://lifehacker.com/you-can-get-march-madness-tickets-for-as-low-as-18-rig-1850261888)
-- [Dev.to/JS] [Starchart: 1,2,3, Testing!](https://dev.to/cychu42/starchart-123-testing-58f8)
 - [Lifehacker] [What&#39;s New on HBO Max in April 2023](https://lifehacker.com/whats-new-on-hbo-max-in-april-2023-1850261885)
-- [Dev.to/JS] [Getting started with nuxt content v2](https://dev.to/johnpaul/getting-started-with-nuxt-content-v2-5g6e)
-- [Dev.to/JS] [Why Should You Prefer TypeScript over JavaScript in React.JS?](https://dev.to/jordandev/why-should-you-prefer-typescript-over-javascript-in-reactjs-2d1)
-- [Dev.to/JS] [What is Strict Mode in React?](https://dev.to/codeofrelevancy/what-is-strict-mode-in-react-3p5b)
-- [Dev.to/JS] [Ways to optimize React App](https://dev.to/ishanbagchi/ways-to-optimize-react-app-2hpa)
 - [Lifehacker] [Here&#39;s What Happens If the US Bans TikTok](https://lifehacker.com/heres-what-happens-if-the-us-bans-tiktok-1850261170)
 - [Lifehacker] [Park These Dangerous Hyundais and Kias Outside](https://lifehacker.com/park-these-dangerous-hyundais-and-kias-outside-1850257677)
 - [Lifehacker] [These Bacon-Wrapped Banana Bites Are Self Care](https://lifehacker.com/these-bacon-wrapped-banana-bites-are-self-care-1850258827)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Block People From Seeing That You Opened Their Emails](https://lifehacker.com/block-people-from-seeing-that-you-opened-their-emails-1850253379)
 - [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)
 - [Lifehacker] [Xbox Is Having a Massive Sale on Games Right Now](https://lifehacker.com/xbox-is-having-a-massive-sale-on-games-right-now-1850253578)
-- [Lifehacker] [Fruit Roll-Up Ice Cream Is a Textural Delight](https://lifehacker.com/fruit-roll-up-ice-cream-is-a-textural-delight-1850253022)
-- [Lifehacker] [What&#39;s New on Netflix in April 2023](https://lifehacker.com/whats-new-on-netflix-in-april-2023-1850253229)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Fruit Roll-Up Ice Cream Is a Textural Delight](https://lifehacker.com/fruit-roll-up-ice-cream-is-a-textural-delight-1850253022)<!-- TECH-POSTS:END -->
 
 ---
 
