@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Bacon-Wrapped Banana Bites Are Self Care](https://lifehacker.com/these-bacon-wrapped-banana-bites-are-self-care-1850258827)
+- [Dev.to/JS] [JavaScript Hoisting](https://dev.to/makstyle119/javascript-hoisting-4lja)
+- [Dev.to/JS] [9 Hidden Websites For Programmers](https://dev.to/jon_snow789/9-hidden-websites-for-programmers-278f)
+- [Lifehacker] [Help These Fish in the Netherlands Ring a Doorbell](https://lifehacker.com/help-these-fish-in-the-netherlands-ring-a-doorbell-1850258433)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Anexando e Excluindo strings;](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-anexando-e-excluindo-strings-47np)
 - [Lifehacker] [Why You Need to Stop ‘Rage Applying’ for Jobs](https://lifehacker.com/why-you-need-to-stop-rage-applying-for-jobs-1850258293)
 - [Lifehacker] [How to Make Pineapple Pizza Even Better](https://lifehacker.com/how-to-make-pineapple-pizza-even-better-1850258012)
 - [Dev.to/JS] [Announcing React-Chrono 2.0: Exciting New Features and Improvements](https://dev.to/prabhuignoto/announcing-react-chrono-20-exciting-new-features-and-improvements-3onp)
@@ -36,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MAKING API REQUEST WITH JAVASCRIPT.](https://dev.to/arisekola177/making-api-request-with-javascript-3ja6)
 - [Dev.to/JS] [Pinia - Crash Course for Beginners](https://dev.to/alexandergekov/pinia-crash-course-for-beginners-3ef7)
 - [Dev.to/JS] [The impact of artificial intelligence &lpar;AI&rpar; on society and culture is unprecedented.](https://dev.to/chidiebereomasi/the-impact-of-artificial-intelligence-ai-on-society-and-culture-is-unprecedented-3740)
-- [Dev.to/JS] [What is Node.js](https://dev.to/bsk98/what-is-nodejs-g2h)
-- [Dev.to/JS] [Enzyme vs React Testing Library: A Migration Guide](https://dev.to/clarity89/enzyme-vs-react-testing-library-a-migration-guide-53jc)
-- [Dev.to/JS] [HOW TO MAKE A MOVE ON A INDEPENDENT DELHI ESCORTS GIRLS](https://dev.to/raniescort/how-to-make-a-move-on-a-independent-delhi-escorts-girls-2hpo)
 - [Lifehacker] [Why You Should Film Yourself Cleaning, According to Reddit](https://lifehacker.com/why-you-should-film-yourself-cleaning-according-to-red-1850257796)
 - [Lifehacker] [Just Because You Don’t Use a Bidet Doesn’t Mean Your Butt Is Covered in Poop](https://lifehacker.com/just-because-you-don-t-use-a-bidet-doesn-t-mean-your-bu-1850254040)
 - [Lifehacker] [Stop Hackers From Taking Over Your Android With Just Your Phone Number](https://lifehacker.com/stop-hackers-from-taking-over-your-android-with-just-yo-1850256819)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Overdraft and Non-Sufficient Funds Fees &lpar;and How to Avoid Them Both&rpar;](https://lifehacker.com/the-difference-between-overdraft-and-non-sufficient-fun-1850244606)
 - [Lifehacker] [Kodansha USA Is Giving Away a Ton of Free Manga Right Now](https://lifehacker.com/kodansha-usa-is-giving-away-a-ton-of-free-manga-right-n-1850250066)
 - [Lifehacker] [Domino’s Pizza Is Better When It’s Half Off](https://lifehacker.com/domino-s-pizza-is-better-when-it-s-half-off-1850249607)
-- [Lifehacker] [Protect Your Elderly Parents From Medicaid’s ‘Five-Year Look-Back’ Rule](https://lifehacker.com/protect-your-elderly-parents-from-medicaid-s-five-year-1850250694)
-- [Lifehacker] [Buy These Nintendo 3DS Games Before They Disappear Forever](https://lifehacker.com/buy-these-nintendo-3ds-games-before-they-disappear-fore-1850249379)
-- [Lifehacker] [This Move-Out Checklist Will Help You Get Your Security Deposit Back](https://lifehacker.com/this-move-out-checklist-will-help-you-get-your-security-1850248576)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Protect Your Elderly Parents From Medicaid’s ‘Five-Year Look-Back’ Rule](https://lifehacker.com/protect-your-elderly-parents-from-medicaid-s-five-year-1850250694)<!-- TECH-POSTS:END -->
 
 ---
 
