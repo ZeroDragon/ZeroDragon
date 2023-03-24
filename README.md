@@ -23,9 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Stop doing component unit testing](https://dev.to/frandev/stop-doing-component-unit-testing-22l5)
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Dev.to/JS] [Angular Signals](https://dev.to/jrohatiner/angular-signals-3n6k)
 - [Dev.to/JS] [Breaking down Promises in JavaScript](https://dev.to/valentinaperic/breaking-down-promises-in-javascript-34a8)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
+- [Dev.to/JS] [How to make a website in HTML/CSS](https://dev.to/azedeveloper/how-to-make-a-website-in-htmlcss-5bpc)
 - [Dev.to/JS] [Exception Handling in JavaScript](https://dev.to/honeybadger/exception-handling-in-javascript-3901)
 - [Dev.to/JS] [7 Must Know Custom React Hooks in React 18](https://dev.to/lucasjstifano/7-must-know-custom-react-hooks-in-react-18-32ne)
 - [Dev.to/JS] [Automate Your Code Formatting with Prettier and Husky: A Complete Guide](https://dev.to/arindam1997007/automate-your-code-formatting-with-prettier-and-husky-a-complete-guide-15eb)
@@ -35,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to make good DX&lpar;Developer Experience&rpar;: Empathize](https://dev.to/zenstack/how-to-make-good-dxdeveloper-experience-empathize-4h9i)
 - [Dev.to/JS] [Unidirectional State Management: How React&#39;s useReducer Implements the Flux Pattern](https://dev.to/judeebekes67/unidirectional-state-management-how-reacts-usereducer-implements-the-flux-pattern-19d9)
 - [Dev.to/JS] [React Hooks Fundamentals: A Beginner&#39;s Guide](https://dev.to/alvisonhunter/top-javascript-interview-questions-mo4)
-- [Dev.to/JS] [Upload image with loader using Angular and Template driven form.](https://dev.to/julesadonsi/upload-image-with-loader-using-angular-and-template-driven-form-4c19)
-- [Dev.to/JS] [Share your technical posts experience](https://dev.to/ravijhabit/share-your-technical-posts-experience-547b)
 - [Lifehacker] [These Are the Most Savage Ways to Start or End an Email](https://lifehacker.com/these-are-the-most-savage-ways-to-start-or-end-an-email-1850260223)
 - [Lifehacker] [You Can Get March Madness Tickets for As Low As $18 Right Now](https://lifehacker.com/you-can-get-march-madness-tickets-for-as-low-as-18-rig-1850261888)
 - [Lifehacker] [What&#39;s New on HBO Max in April 2023](https://lifehacker.com/whats-new-on-hbo-max-in-april-2023-1850261885)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Buy a Subway ‘Footlong Pass’ to Get 50% Off All April](https://lifehacker.com/buy-a-subway-footlong-pass-to-get-50-off-all-april-1850248573)
 - [Lifehacker] [Block People From Seeing That You Opened Their Emails](https://lifehacker.com/block-people-from-seeing-that-you-opened-their-emails-1850253379)
 - [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)
-- [Lifehacker] [Xbox Is Having a Massive Sale on Games Right Now](https://lifehacker.com/xbox-is-having-a-massive-sale-on-games-right-now-1850253578)
-- [Lifehacker] [Fruit Roll-Up Ice Cream Is a Textural Delight](https://lifehacker.com/fruit-roll-up-ice-cream-is-a-textural-delight-1850253022)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Xbox Is Having a Massive Sale on Games Right Now](https://lifehacker.com/xbox-is-having-a-massive-sale-on-games-right-now-1850253578)<!-- TECH-POSTS:END -->
 
 ---
 
