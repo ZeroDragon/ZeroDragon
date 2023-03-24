@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unidirectional State Management: How React&#39;s useReducer Implements the Flux Pattern](https://dev.to/judeebekes67/unidirectional-state-management-how-reacts-usereducer-implements-the-flux-pattern-19d9)
+- [Dev.to/JS] [React Hooks Fundamentals: A Beginner&#39;s Guide](https://dev.to/alvisonhunter/top-javascript-interview-questions-mo4)
+- [Dev.to/JS] [Upload image with loader using Angular and Template driven form.](https://dev.to/julesadonsi/upload-image-with-loader-using-angular-and-template-driven-form-4c19)
+- [Dev.to/JS] [Share your technical posts experience](https://dev.to/ravijhabit/share-your-technical-posts-experience-547b)
+- [Lifehacker] [These Are the Most Savage Ways to Start or End an Email](https://lifehacker.com/these-are-the-most-savage-ways-to-start-or-end-an-email-1850260223)
+- [Lifehacker] [You Can Get March Madness Tickets for As Low As $18 Right Now](https://lifehacker.com/you-can-get-march-madness-tickets-for-as-low-as-18-rig-1850261888)
 - [Dev.to/JS] [Starchart: 1,2,3, Testing!](https://dev.to/cychu42/starchart-123-testing-58f8)
 - [Lifehacker] [What&#39;s New on HBO Max in April 2023](https://lifehacker.com/whats-new-on-hbo-max-in-april-2023-1850261885)
 - [Dev.to/JS] [Getting started with nuxt content v2](https://dev.to/johnpaul/getting-started-with-nuxt-content-v2-5g6e)
@@ -34,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to Stencil.js](https://dev.to/precious654/introduction-to-stenciljs-4e63)
 - [Dev.to/JS] [Using TailwindCSS with Nuxt efficiently](https://dev.to/mayashavin/using-tailwindcss-with-nuxt-efficiently-41p7)
 - [Lifehacker] [Park These Dangerous Hyundais and Kias Outside](https://lifehacker.com/park-these-dangerous-hyundais-and-kias-outside-1850257677)
-- [Dev.to/JS] [JavaScript 🐲 challenges_2 ⚔️](https://dev.to/mahmoudessam/javascript-challenges2-29i1)
-- [Dev.to/JS] [Paracetamol.js💊| #209: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-209-explica-este-codigo-javascript-5hf1)
-- [Dev.to/JS] [JavaScript Promises: Making Sense of the Madness 😤](https://dev.to/almonteluis/javascript-promises-making-sense-of-the-madness-4nla)
 - [Lifehacker] [These Bacon-Wrapped Banana Bites Are Self Care](https://lifehacker.com/these-bacon-wrapped-banana-bites-are-self-care-1850258827)
-- [Dev.to/JS] [JavaScript Hoisting](https://dev.to/makstyle119/javascript-hoisting-4lja)
 - [Lifehacker] [Help These Fish in the Netherlands Ring a Doorbell](https://lifehacker.com/help-these-fish-in-the-netherlands-ring-a-doorbell-1850258433)
 - [Lifehacker] [Why You Need to Stop ‘Rage Applying’ for Jobs](https://lifehacker.com/why-you-need-to-stop-rage-applying-for-jobs-1850258293)
 - [Lifehacker] [How to Make Pineapple Pizza Even Better](https://lifehacker.com/how-to-make-pineapple-pizza-even-better-1850258012)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Xbox Is Having a Massive Sale on Games Right Now](https://lifehacker.com/xbox-is-having-a-massive-sale-on-games-right-now-1850253578)
 - [Lifehacker] [Fruit Roll-Up Ice Cream Is a Textural Delight](https://lifehacker.com/fruit-roll-up-ice-cream-is-a-textural-delight-1850253022)
 - [Lifehacker] [What&#39;s New on Netflix in April 2023](https://lifehacker.com/whats-new-on-netflix-in-april-2023-1850253229)
-- [Lifehacker] [An Adult’s Guide to Finally Learning to Like Vegetables](https://lifehacker.com/an-adult-s-guide-to-finally-learning-to-like-vegetables-1850249698)
-- [Lifehacker] [Fry an Egg in a Ring of Mashed Potatoes](https://lifehacker.com/fry-an-egg-in-a-ring-of-mashed-potatoes-1850249890)
-- [Lifehacker] [The Difference Between Overdraft and Non-Sufficient Funds Fees &lpar;and How to Avoid Them Both&rpar;](https://lifehacker.com/the-difference-between-overdraft-and-non-sufficient-fun-1850244606)<!-- TECH-POSTS:END -->
+- [Lifehacker] [An Adult’s Guide to Finally Learning to Like Vegetables](https://lifehacker.com/an-adult-s-guide-to-finally-learning-to-like-vegetables-1850249698)<!-- TECH-POSTS:END -->
 
 ---
 
