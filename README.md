@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MAKING API REQUEST WITH JAVASCRIPT](https://dev.to/arisekola177/making-api-request-with-javascript-37be)
+- [Dev.to/JS] [What&#39;s the difference between logical OR || and nullish coalescing ??](https://dev.to/edriso/whats-the-difference-between-logical-or-and-nullish-coalescing--3g7d)
 - [Dev.to/JS] [Python If/else statements](https://dev.to/m_shkreli21/python-ifelse-statements-n27)
 - [Dev.to/JS] [Optimize React Context Step-by-step in 4 examples](https://dev.to/mahdita97/optimize-react-context-step-by-step-in-4-examples-4i3f)
 - [Dev.to/JS] [Stop doing component unit testing](https://dev.to/frandev/stop-doing-component-unit-testing-22l5)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [7 Must Know Custom React Hooks in React 18](https://dev.to/lucasjstifano/7-must-know-custom-react-hooks-in-react-18-32ne)
 - [Dev.to/JS] [Automate Your Code Formatting with Prettier and Husky: A Complete Guide](https://dev.to/arindam1997007/automate-your-code-formatting-with-prettier-and-husky-a-complete-guide-15eb)
 - [Dev.to/JS] [Clarity on logical operator js](https://dev.to/ebakecode/clarity-on-logical-operator-js-416)
-- [Dev.to/JS] [Creating a Telegram News Bot - post 1](https://dev.to/dshaw0004/creating-a-telegram-news-bot-part-1-355f)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
-- [Dev.to/JS] [How to make good DX&lpar;Developer Experience&rpar;: Empathize](https://dev.to/zenstack/how-to-make-good-dxdeveloper-experience-empathize-4h9i)
 - [Lifehacker] [These Are the Most Savage Ways to Start or End an Email](https://lifehacker.com/these-are-the-most-savage-ways-to-start-or-end-an-email-1850260223)
 - [Lifehacker] [You Can Get March Madness Tickets for As Low As $18 Right Now](https://lifehacker.com/you-can-get-march-madness-tickets-for-as-low-as-18-rig-1850261888)
 - [Lifehacker] [What&#39;s New on HBO Max in April 2023](https://lifehacker.com/whats-new-on-hbo-max-in-april-2023-1850261885)
