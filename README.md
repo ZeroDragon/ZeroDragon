@@ -23,10 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Magic: Making a Range Syntax](https://dev.to/jonrandy/js-magic-making-a-range-syntax-55im)
 - [Dev.to/JS] [MAKING API REQUEST WITH JAVASCRIPT.](https://dev.to/arisekola177/making-api-request-with-javascript-3ja6)
 - [Dev.to/JS] [Pinia - Crash Course for Beginners](https://dev.to/alexandergekov/pinia-crash-course-for-beginners-3ef7)
 - [Dev.to/JS] [The impact of artificial intelligence &lpar;AI&rpar; on society and culture is unprecedented.](https://dev.to/chidiebereomasi/the-impact-of-artificial-intelligence-ai-on-society-and-culture-is-unprecedented-3740)
-- [Dev.to/JS] [JS Magic: Making a Range Syntax](https://dev.to/jonrandy/js-magic-making-a-range-syntax-jab)
 - [Dev.to/JS] [What is Node.js](https://dev.to/bsk98/what-is-nodejs-g2h)
 - [Dev.to/JS] [Enzyme vs React Testing Library: A Migration Guide](https://dev.to/clarity89/enzyme-vs-react-testing-library-a-migration-guide-53jc)
 - [Dev.to/JS] [HOW TO MAKE A MOVE ON A INDEPENDENT DELHI ESCORTS GIRLS](https://dev.to/raniescort/how-to-make-a-move-on-a-independent-delhi-escorts-girls-2hpo)
