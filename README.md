@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Starchart: 1,2,3, Testing!](https://dev.to/cychu42/starchart-123-testing-58f8)
+- [Lifehacker] [What&#39;s New on HBO Max in April 2023](https://lifehacker.com/whats-new-on-hbo-max-in-april-2023-1850261885)
+- [Dev.to/JS] [Getting started with nuxt content v2](https://dev.to/johnpaul/getting-started-with-nuxt-content-v2-5g6e)
+- [Dev.to/JS] [Why Should You Prefer TypeScript over JavaScript in React.JS?](https://dev.to/jordandev/why-should-you-prefer-typescript-over-javascript-in-reactjs-2d1)
+- [Dev.to/JS] [What is Strict Mode in React?](https://dev.to/codeofrelevancy/what-is-strict-mode-in-react-3p5b)
+- [Dev.to/JS] [Ways to optimize React App](https://dev.to/ishanbagchi/ways-to-optimize-react-app-2hpa)
+- [Dev.to/JS] [GitHub repositories for TypeScript enthusiasts](https://dev.to/brownrita460/github-repositories-for-typescript-enthusiasts-2pmg)
+- [Lifehacker] [Here&#39;s What Happens If the US Bans TikTok](https://lifehacker.com/heres-what-happens-if-the-us-bans-tiktok-1850261170)
 - [Dev.to/JS] [Introduction to Stencil.js](https://dev.to/precious654/introduction-to-stenciljs-4e63)
 - [Dev.to/JS] [Using TailwindCSS with Nuxt efficiently](https://dev.to/mayashavin/using-tailwindcss-with-nuxt-efficiently-41p7)
 - [Lifehacker] [Park These Dangerous Hyundais and Kias Outside](https://lifehacker.com/park-these-dangerous-hyundais-and-kias-outside-1850257677)
@@ -31,17 +39,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Promises: Making Sense of the Madness 😤](https://dev.to/almonteluis/javascript-promises-making-sense-of-the-madness-4nla)
 - [Lifehacker] [These Bacon-Wrapped Banana Bites Are Self Care](https://lifehacker.com/these-bacon-wrapped-banana-bites-are-self-care-1850258827)
 - [Dev.to/JS] [JavaScript Hoisting](https://dev.to/makstyle119/javascript-hoisting-4lja)
-- [Dev.to/JS] [9 Hidden Websites For Programmers](https://dev.to/jon_snow789/9-hidden-websites-for-programmers-278f)
 - [Lifehacker] [Help These Fish in the Netherlands Ring a Doorbell](https://lifehacker.com/help-these-fish-in-the-netherlands-ring-a-doorbell-1850258433)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Anexando e Excluindo strings;](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-anexando-e-excluindo-strings-47np)
 - [Lifehacker] [Why You Need to Stop ‘Rage Applying’ for Jobs](https://lifehacker.com/why-you-need-to-stop-rage-applying-for-jobs-1850258293)
 - [Lifehacker] [How to Make Pineapple Pizza Even Better](https://lifehacker.com/how-to-make-pineapple-pizza-even-better-1850258012)
-- [Dev.to/JS] [Announcing React-Chrono 2.0: Exciting New Features and Improvements](https://dev.to/prabhuignoto/announcing-react-chrono-20-exciting-new-features-and-improvements-3onp)
 - [Lifehacker] [Enable This Setting to Squeeze Extra Juice Out of Your Smartphone’s Battery](https://lifehacker.com/enable-this-setting-to-squeeze-extra-juice-out-of-your-1850258011)
-- [Dev.to/JS] [Utility Types In Typescript](https://dev.to/kalashin1/utility-types-in-typescript-4nfo)
-- [Dev.to/JS] [Internal of RXDB: Plugins, Storages Adapters 🚀](https://dev.to/dhrn/internal-of-rxdb-plugins-storages-adapters-3bi3)
 - [Crazy Programmer] [Encapsulation and Decapsulation in Networking](https://www.thecrazyprogrammer.com/2023/03/encapsulation-and-decapsulation-in-networking.html)
-- [Dev.to/JS] [Boost Your Productivity with These Top Free Notion Templates](https://dev.to/surajondev/boost-your-productivity-with-these-top-free-notion-templates-8e0)
 - [Lifehacker] [Why You Should Film Yourself Cleaning, According to Reddit](https://lifehacker.com/why-you-should-film-yourself-cleaning-according-to-red-1850257796)
 - [Lifehacker] [Just Because You Don’t Use a Bidet Doesn’t Mean Your Butt Is Covered in Poop](https://lifehacker.com/just-because-you-don-t-use-a-bidet-doesn-t-mean-your-bu-1850254040)
 - [Lifehacker] [Stop Hackers From Taking Over Your Android With Just Your Phone Number](https://lifehacker.com/stop-hackers-from-taking-over-your-android-with-just-yo-1850256819)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Netflix in April 2023](https://lifehacker.com/whats-new-on-netflix-in-april-2023-1850253229)
 - [Lifehacker] [An Adult’s Guide to Finally Learning to Like Vegetables](https://lifehacker.com/an-adult-s-guide-to-finally-learning-to-like-vegetables-1850249698)
 - [Lifehacker] [Fry an Egg in a Ring of Mashed Potatoes](https://lifehacker.com/fry-an-egg-in-a-ring-of-mashed-potatoes-1850249890)
-- [Lifehacker] [The Difference Between Overdraft and Non-Sufficient Funds Fees &lpar;and How to Avoid Them Both&rpar;](https://lifehacker.com/the-difference-between-overdraft-and-non-sufficient-fun-1850244606)
-- [Lifehacker] [Kodansha USA Is Giving Away a Ton of Free Manga Right Now](https://lifehacker.com/kodansha-usa-is-giving-away-a-ton-of-free-manga-right-n-1850250066)
-- [Lifehacker] [Domino’s Pizza Is Better When It’s Half Off](https://lifehacker.com/domino-s-pizza-is-better-when-it-s-half-off-1850249607)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Difference Between Overdraft and Non-Sufficient Funds Fees &lpar;and How to Avoid Them Both&rpar;](https://lifehacker.com/the-difference-between-overdraft-and-non-sufficient-fun-1850244606)<!-- TECH-POSTS:END -->
 
 ---
 
