@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Python If/else statements](https://dev.to/m_shkreli21/python-ifelse-statements-n27)
+- [Dev.to/JS] [Optimize React Context Step-by-step in 4 examples](https://dev.to/mahdita97/optimize-react-context-step-by-step-in-4-examples-4i3f)
 - [Dev.to/JS] [Stop doing component unit testing](https://dev.to/frandev/stop-doing-component-unit-testing-22l5)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Dev.to/JS] [Angular Signals](https://dev.to/jrohatiner/angular-signals-3n6k)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Telegram News Bot - post 1](https://dev.to/dshaw0004/creating-a-telegram-news-bot-part-1-355f)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
 - [Dev.to/JS] [How to make good DX&lpar;Developer Experience&rpar;: Empathize](https://dev.to/zenstack/how-to-make-good-dxdeveloper-experience-empathize-4h9i)
-- [Dev.to/JS] [Unidirectional State Management: How React&#39;s useReducer Implements the Flux Pattern](https://dev.to/judeebekes67/unidirectional-state-management-how-reacts-usereducer-implements-the-flux-pattern-19d9)
-- [Dev.to/JS] [React Hooks Fundamentals: A Beginner&#39;s Guide](https://dev.to/alvisonhunter/top-javascript-interview-questions-mo4)
 - [Lifehacker] [These Are the Most Savage Ways to Start or End an Email](https://lifehacker.com/these-are-the-most-savage-ways-to-start-or-end-an-email-1850260223)
 - [Lifehacker] [You Can Get March Madness Tickets for As Low As $18 Right Now](https://lifehacker.com/you-can-get-march-madness-tickets-for-as-low-as-18-rig-1850261888)
 - [Lifehacker] [What&#39;s New on HBO Max in April 2023](https://lifehacker.com/whats-new-on-hbo-max-in-april-2023-1850261885)
