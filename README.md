@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Magic: Making a Range Syntax](https://dev.to/jonrandy/js-magic-making-a-range-syntax-jab)
+- [Dev.to/JS] [What is Node.js](https://dev.to/bsk98/what-is-nodejs-g2h)
+- [Dev.to/JS] [Enzyme vs React Testing Library: A Migration Guide](https://dev.to/clarity89/enzyme-vs-react-testing-library-a-migration-guide-53jc)
+- [Dev.to/JS] [HOW TO MAKE A MOVE ON A INDEPENDENT DELHI ESCORTS GIRLS](https://dev.to/raniescort/how-to-make-a-move-on-a-independent-delhi-escorts-girls-2hpo)
 - [Dev.to/JS] [Animation -15 : CSS PB JLoader Animation](https://dev.to/jon_snow789/animation-14-css-pb-jloader-animation-1e19)
 - [Dev.to/JS] [Automating AJAX Forms](https://dev.to/tohodo/automating-ajax-forms-2ph9)
 - [Dev.to/JS] [Which is Best NodeJS Development Firms](https://dev.to/amandacowell/which-is-best-nodejs-development-firms-528c)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Alpine.js Tutorial: Getting Started with Interactive Web Applications](https://dev.to/shibun/alpinejs-tutorial-getting-started-with-interactive-web-applications-484c)
 - [Dev.to/JS] [How to write simple intelligent code search with Open AI](https://dev.to/hokid/how-to-write-simple-intelligent-code-search-with-open-ai-3eo0)
 - [Dev.to/JS] [An introduction to Redux](https://dev.to/ccarlson249/an-introduction-to-redux-2p96)
-- [Dev.to/JS] [Choice CBD Gummies - Pain Relief Solution, Uses, Price, Reviews &amp; Where To Buy?](https://dev.to/choicecbdi26502/choice-cbd-gummies-pain-relief-solution-uses-price-reviews-where-to-buy-53g2)
-- [Dev.to/JS] [Updates from the 95th TC39 meeting](https://dev.to/hemanth/updates-from-the-95th-tc39-meeting-ne5)
-- [Dev.to/JS] [What is Dynamic Programming?](https://dev.to/hugos/what-is-dynamic-programming-16f7)
-- [Dev.to/JS] [Complete Reactjs Tutorial for Beginners: Step-by-step Guide &lpar;Part 1&rpar;](https://dev.to/stephengade/complete-reactjs-tutorial-for-beginners-step-by-step-guide-part-1-3ihl)
 - [Lifehacker] [Why You Should Film Yourself Cleaning, According to Reddit](https://lifehacker.com/why-you-should-film-yourself-cleaning-according-to-red-1850257796)
 - [Lifehacker] [Just Because You Don’t Use a Bidet Doesn’t Mean Your Butt Is Covered in Poop](https://lifehacker.com/just-because-you-don-t-use-a-bidet-doesn-t-mean-your-bu-1850254040)
 - [Lifehacker] [Stop Hackers From Taking Over Your Android With Just Your Phone Number](https://lifehacker.com/stop-hackers-from-taking-over-your-android-with-just-yo-1850256819)
