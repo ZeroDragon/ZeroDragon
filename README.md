@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MAKING API REQUEST WITH JAVASCRIPT.](https://dev.to/arisekola177/making-api-request-with-javascript-3ja6)
 - [Dev.to/JS] [Pinia - Crash Course for Beginners](https://dev.to/alexandergekov/pinia-crash-course-for-beginners-3ef7)
 - [Dev.to/JS] [The impact of artificial intelligence &lpar;AI&rpar; on society and culture is unprecedented.](https://dev.to/chidiebereomasi/the-impact-of-artificial-intelligence-ai-on-society-and-culture-is-unprecedented-3740)
 - [Dev.to/JS] [JS Magic: Making a Range Syntax](https://dev.to/jonrandy/js-magic-making-a-range-syntax-jab)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Which is Best NodeJS Development Firms](https://dev.to/amandacowell/which-is-best-nodejs-development-firms-528c)
 - [Dev.to/JS] [How to make a digital clock using JavaScript](https://dev.to/michaelburrows/how-to-make-a-digital-clock-using-javascript-4lja)
 - [Dev.to/JS] [How to use sequel.ai to convert natural language queries into SQL queries](https://dev.to/trinly01/how-to-use-sequelai-to-convert-natural-language-queries-into-sql-queries-3f7o)
-- [Dev.to/JS] [Alpine.js Tutorial: Getting Started with Interactive Web Applications](https://dev.to/shibun/alpinejs-tutorial-getting-started-with-interactive-web-applications-484c)
 - [Lifehacker] [Why You Should Film Yourself Cleaning, According to Reddit](https://lifehacker.com/why-you-should-film-yourself-cleaning-according-to-red-1850257796)
 - [Lifehacker] [Just Because You Don’t Use a Bidet Doesn’t Mean Your Butt Is Covered in Poop](https://lifehacker.com/just-because-you-don-t-use-a-bidet-doesn-t-mean-your-bu-1850254040)
 - [Lifehacker] [Stop Hackers From Taking Over Your Android With Just Your Phone Number](https://lifehacker.com/stop-hackers-from-taking-over-your-android-with-just-yo-1850256819)
