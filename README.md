@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ProDentim - Dental Benefits, Pros, Cons, Results &amp; Customer Reviews?](https://dev.to/prodent85626323/prodentim-dental-benefits-pros-cons-results-customer-reviews-40d1)
+- [Dev.to/JS] [Utility Types In Typescript](https://dev.to/kalashin1/utility-types-in-typescript-4nfo)
+- [Dev.to/JS] [Internal of RXDB: Plugins, Storages Adapters 🚀](https://dev.to/dhrn/internal-of-rxdb-plugins-storages-adapters-3bi3)
+- [Crazy Programmer] [Encapsulation and Decapsulation in Networking](https://www.thecrazyprogrammer.com/2023/03/encapsulation-and-decapsulation-in-networking.html)
 - [Dev.to/JS] [Boost Your Productivity with These Top Free Notion Templates](https://dev.to/surajondev/boost-your-productivity-with-these-top-free-notion-templates-8e0)
 - [Dev.to/JS] [5 Common Mistakes to Avoid in React Native Development](https://dev.to/aspiresoftserv/5-common-mistakes-to-avoid-in-react-native-development-2ln3)
 - [Dev.to/JS] [JS Magic: Making a Range Syntax](https://dev.to/jonrandy/js-magic-making-a-range-syntax-55im)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Node.js](https://dev.to/bsk98/what-is-nodejs-g2h)
 - [Dev.to/JS] [Enzyme vs React Testing Library: A Migration Guide](https://dev.to/clarity89/enzyme-vs-react-testing-library-a-migration-guide-53jc)
 - [Dev.to/JS] [HOW TO MAKE A MOVE ON A INDEPENDENT DELHI ESCORTS GIRLS](https://dev.to/raniescort/how-to-make-a-move-on-a-independent-delhi-escorts-girls-2hpo)
-- [Dev.to/JS] [Animation -15 : CSS PB JLoader Animation](https://dev.to/jon_snow789/animation-14-css-pb-jloader-animation-1e19)
-- [Dev.to/JS] [Automating AJAX Forms](https://dev.to/tohodo/automating-ajax-forms-2ph9)
-- [Dev.to/JS] [Which is Best NodeJS Development Firms](https://dev.to/amandacowell/which-is-best-nodejs-development-firms-528c)
 - [Lifehacker] [Why You Should Film Yourself Cleaning, According to Reddit](https://lifehacker.com/why-you-should-film-yourself-cleaning-according-to-red-1850257796)
 - [Lifehacker] [Just Because You Don’t Use a Bidet Doesn’t Mean Your Butt Is Covered in Poop](https://lifehacker.com/just-because-you-don-t-use-a-bidet-doesn-t-mean-your-bu-1850254040)
 - [Lifehacker] [Stop Hackers From Taking Over Your Android With Just Your Phone Number](https://lifehacker.com/stop-hackers-from-taking-over-your-android-with-just-yo-1850256819)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Move-Out Checklist Will Help You Get Your Security Deposit Back](https://lifehacker.com/this-move-out-checklist-will-help-you-get-your-security-1850248576)
 - [Lifehacker] [Your Car Needs These Hospital-Grade Barf Bags](https://lifehacker.com/your-car-needs-these-hospital-grade-barf-bags-1850249065)
 - [Lifehacker] [The Better Way to Cut a Clean Slice of Cake](https://lifehacker.com/the-better-way-to-cut-a-clean-slice-of-cake-1850249102)
-- [Lifehacker] [Should You Have a Lobotomy?](https://lifehacker.com/should-you-have-a-lobotomy-1850244972)
-- [Lifehacker] [Grab These Nine Kick-Ass PC Games While They’re Up to 75% Off](https://lifehacker.com/you-have-two-days-left-to-grab-killer-pc-games-in-the-s-1850245490)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Should You Have a Lobotomy?](https://lifehacker.com/should-you-have-a-lobotomy-1850244972)<!-- TECH-POSTS:END -->
 
 ---
 
