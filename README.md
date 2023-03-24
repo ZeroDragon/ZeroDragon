@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to write simple intelligent code search with Open AI](https://dev.to/hokid/how-to-write-simple-intelligent-code-search-with-open-ai-3eo0)
+- [Dev.to/JS] [An introduction to Redux](https://dev.to/ccarlson249/an-introduction-to-redux-2p96)
 - [Dev.to/JS] [Choice CBD Gummies - Pain Relief Solution, Uses, Price, Reviews &amp; Where To Buy?](https://dev.to/choicecbdi26502/choice-cbd-gummies-pain-relief-solution-uses-price-reviews-where-to-buy-53g2)
 - [Dev.to/JS] [Updates from the 95th TC39 meeting](https://dev.to/hemanth/updates-from-the-95th-tc39-meeting-ne5)
 - [Dev.to/JS] [What is Dynamic Programming?](https://dev.to/hugos/what-is-dynamic-programming-16f7)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Tutorial Series: Introduction to JavaScript events.](https://dev.to/fullstackjo/javascript-tutorial-series-introduction-to-javascript-events-4mlp)
 - [Dev.to/JS] [Getting Started with TypeScript](https://dev.to/ishanbagchi/getting-started-with-typescript-157c)
 - [Dev.to/JS] [Basics Of Javascript](https://dev.to/tech_olaide/basics-of-javascript-25dh)
-- [Dev.to/JS] [Decoupling Hoisting In React](https://dev.to/sam4rano/decoupling-hoisting-in-react-1420)
-- [Dev.to/JS] [DeGore - Celebrating Two Tremendous Years](https://dev.to/savvydev06/degore-celebrating-two-tremendous-years-4fa6)
 - [Lifehacker] [Why You Should Film Yourself Cleaning, According to Reddit](https://lifehacker.com/why-you-should-film-yourself-cleaning-according-to-red-1850257796)
 - [Lifehacker] [Just Because You Don’t Use a Bidet Doesn’t Mean Your Butt Is Covered in Poop](https://lifehacker.com/just-because-you-don-t-use-a-bidet-doesn-t-mean-your-bu-1850254040)
 - [Lifehacker] [Stop Hackers From Taking Over Your Android With Just Your Phone Number](https://lifehacker.com/stop-hackers-from-taking-over-your-android-with-just-yo-1850256819)
