@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [ProDentim - Dental Benefits, Pros, Cons, Results &amp; Customer Reviews?](https://dev.to/prodent85626323/prodentim-dental-benefits-pros-cons-results-customer-reviews-40d1)
+- [Lifehacker] [Why You Need to Stop ‘Rage Applying’ for Jobs](https://lifehacker.com/why-you-need-to-stop-rage-applying-for-jobs-1850258293)
+- [Lifehacker] [How to Make Pineapple Pizza Even Better](https://lifehacker.com/how-to-make-pineapple-pizza-even-better-1850258012)
+- [Dev.to/JS] [Announcing React-Chrono 2.0: Exciting New Features and Improvements](https://dev.to/prabhuignoto/announcing-react-chrono-20-exciting-new-features-and-improvements-3onp)
+- [Lifehacker] [Enable This Setting to Squeeze Extra Juice Out of Your Smartphone’s Battery](https://lifehacker.com/enable-this-setting-to-squeeze-extra-juice-out-of-your-1850258011)
 - [Dev.to/JS] [Utility Types In Typescript](https://dev.to/kalashin1/utility-types-in-typescript-4nfo)
 - [Dev.to/JS] [Internal of RXDB: Plugins, Storages Adapters 🚀](https://dev.to/dhrn/internal-of-rxdb-plugins-storages-adapters-3bi3)
 - [Crazy Programmer] [Encapsulation and Decapsulation in Networking](https://www.thecrazyprogrammer.com/2023/03/encapsulation-and-decapsulation-in-networking.html)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Domino’s Pizza Is Better When It’s Half Off](https://lifehacker.com/domino-s-pizza-is-better-when-it-s-half-off-1850249607)
 - [Lifehacker] [Protect Your Elderly Parents From Medicaid’s ‘Five-Year Look-Back’ Rule](https://lifehacker.com/protect-your-elderly-parents-from-medicaid-s-five-year-1850250694)
 - [Lifehacker] [Buy These Nintendo 3DS Games Before They Disappear Forever](https://lifehacker.com/buy-these-nintendo-3ds-games-before-they-disappear-fore-1850249379)
-- [Lifehacker] [This Move-Out Checklist Will Help You Get Your Security Deposit Back](https://lifehacker.com/this-move-out-checklist-will-help-you-get-your-security-1850248576)
-- [Lifehacker] [Your Car Needs These Hospital-Grade Barf Bags](https://lifehacker.com/your-car-needs-these-hospital-grade-barf-bags-1850249065)
-- [Lifehacker] [The Better Way to Cut a Clean Slice of Cake](https://lifehacker.com/the-better-way-to-cut-a-clean-slice-of-cake-1850249102)
-- [Lifehacker] [Should You Have a Lobotomy?](https://lifehacker.com/should-you-have-a-lobotomy-1850244972)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Move-Out Checklist Will Help You Get Your Security Deposit Back](https://lifehacker.com/this-move-out-checklist-will-help-you-get-your-security-1850248576)<!-- TECH-POSTS:END -->
 
 ---
 
