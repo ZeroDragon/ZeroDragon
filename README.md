@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Choice CBD Gummies - Pain Relief Solution, Uses, Price, Reviews &amp; Where To Buy?](https://dev.to/choicecbdi26502/choice-cbd-gummies-pain-relief-solution-uses-price-reviews-where-to-buy-53g2)
+- [Dev.to/JS] [Updates from the 95th TC39 meeting](https://dev.to/hemanth/updates-from-the-95th-tc39-meeting-ne5)
+- [Dev.to/JS] [What is Dynamic Programming?](https://dev.to/hugos/what-is-dynamic-programming-16f7)
+- [Dev.to/JS] [Complete Reactjs Tutorial for Beginners: Step-by-step Guide &lpar;Part 1&rpar;](https://dev.to/stephengade/complete-reactjs-tutorial-for-beginners-step-by-step-guide-part-1-3ihl)
 - [Dev.to/JS] [Ordinare la numerazione di un documento o lista espressa a livelli: 5.2.7](https://dev.to/pix303/ordinare-la-numerazione-di-un-documento-o-lista-espressa-a-livelli-527-5bj3)
 - [Dev.to/JS] [10 HTML, CSS &amp; JavaScript mistakes from a beginner](https://dev.to/urwissen/10-html-css-javascript-mistakes-from-a-beginner-22pf)
 - [Dev.to/JS] [ServiceNow: reference vs. primitive data types](https://dev.to/mkrcma/servicenow-reference-vs-primitive-data-types-2bjp)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Basics Of Javascript](https://dev.to/tech_olaide/basics-of-javascript-25dh)
 - [Dev.to/JS] [Decoupling Hoisting In React](https://dev.to/sam4rano/decoupling-hoisting-in-react-1420)
 - [Dev.to/JS] [DeGore - Celebrating Two Tremendous Years](https://dev.to/savvydev06/degore-celebrating-two-tremendous-years-4fa6)
-- [Dev.to/JS] [Login Authentication in react js](https://dev.to/shiwani295/login-authentication-in-react-js-43ln)
-- [Dev.to/JS] [Transparent Upgradable Smart Contracts: A Guide with Code Explanation](https://dev.to/muhindogalien/transparent-upgradable-smart-contracts-a-guide-with-code-explanation-i71)
-- [Dev.to/JS] [Currying with placeholder support : Explained with detail.](https://dev.to/rounit08/currying-with-placeholder-support-explained-with-detail-2jf1)
-- [Dev.to/JS] [Show specific h5 tag](https://dev.to/denkyira5544/show-specific-h5-tag-21m2)
 - [Lifehacker] [Why You Should Film Yourself Cleaning, According to Reddit](https://lifehacker.com/why-you-should-film-yourself-cleaning-according-to-red-1850257796)
 - [Lifehacker] [Just Because You Don’t Use a Bidet Doesn’t Mean Your Butt Is Covered in Poop](https://lifehacker.com/just-because-you-don-t-use-a-bidet-doesn-t-mean-your-bu-1850254040)
 - [Lifehacker] [Stop Hackers From Taking Over Your Android With Just Your Phone Number](https://lifehacker.com/stop-hackers-from-taking-over-your-android-with-just-yo-1850256819)
