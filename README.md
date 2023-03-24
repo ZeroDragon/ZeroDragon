@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Clarity on logical operator js](https://dev.to/ebakecode/clarity-on-logical-operator-js-416)
+- [Dev.to/JS] [Creating a Telegram News Bot - post 1](https://dev.to/dshaw0004/creating-a-telegram-news-bot-part-1-355f)
+- [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
+- [Dev.to/JS] [How to make good DX&lpar;Developer Experience&rpar;: Empathize](https://dev.to/zenstack/how-to-make-good-dxdeveloper-experience-empathize-4h9i)
 - [Dev.to/JS] [Unidirectional State Management: How React&#39;s useReducer Implements the Flux Pattern](https://dev.to/judeebekes67/unidirectional-state-management-how-reacts-usereducer-implements-the-flux-pattern-19d9)
 - [Dev.to/JS] [React Hooks Fundamentals: A Beginner&#39;s Guide](https://dev.to/alvisonhunter/top-javascript-interview-questions-mo4)
 - [Dev.to/JS] [Upload image with loader using Angular and Template driven form.](https://dev.to/julesadonsi/upload-image-with-loader-using-angular-and-template-driven-form-4c19)
@@ -35,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Should You Prefer TypeScript over JavaScript in React.JS?](https://dev.to/jordandev/why-should-you-prefer-typescript-over-javascript-in-reactjs-2d1)
 - [Dev.to/JS] [What is Strict Mode in React?](https://dev.to/codeofrelevancy/what-is-strict-mode-in-react-3p5b)
 - [Dev.to/JS] [Ways to optimize React App](https://dev.to/ishanbagchi/ways-to-optimize-react-app-2hpa)
-- [Dev.to/JS] [GitHub repositories for TypeScript enthusiasts](https://dev.to/brownrita460/github-repositories-for-typescript-enthusiasts-2pmg)
 - [Lifehacker] [Here&#39;s What Happens If the US Bans TikTok](https://lifehacker.com/heres-what-happens-if-the-us-bans-tiktok-1850261170)
-- [Dev.to/JS] [Introduction to Stencil.js](https://dev.to/precious654/introduction-to-stenciljs-4e63)
-- [Dev.to/JS] [Using TailwindCSS with Nuxt efficiently](https://dev.to/mayashavin/using-tailwindcss-with-nuxt-efficiently-41p7)
 - [Lifehacker] [Park These Dangerous Hyundais and Kias Outside](https://lifehacker.com/park-these-dangerous-hyundais-and-kias-outside-1850257677)
 - [Lifehacker] [These Bacon-Wrapped Banana Bites Are Self Care](https://lifehacker.com/these-bacon-wrapped-banana-bites-are-self-care-1850258827)
 - [Lifehacker] [Help These Fish in the Netherlands Ring a Doorbell](https://lifehacker.com/help-these-fish-in-the-netherlands-ring-a-doorbell-1850258433)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)
 - [Lifehacker] [Xbox Is Having a Massive Sale on Games Right Now](https://lifehacker.com/xbox-is-having-a-massive-sale-on-games-right-now-1850253578)
 - [Lifehacker] [Fruit Roll-Up Ice Cream Is a Textural Delight](https://lifehacker.com/fruit-roll-up-ice-cream-is-a-textural-delight-1850253022)
-- [Lifehacker] [What&#39;s New on Netflix in April 2023](https://lifehacker.com/whats-new-on-netflix-in-april-2023-1850253229)
-- [Lifehacker] [An Adult’s Guide to Finally Learning to Like Vegetables](https://lifehacker.com/an-adult-s-guide-to-finally-learning-to-like-vegetables-1850249698)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Netflix in April 2023](https://lifehacker.com/whats-new-on-netflix-in-april-2023-1850253229)<!-- TECH-POSTS:END -->
 
 ---
 
