@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Boost Your Productivity with These Top Free Notion Templates](https://dev.to/surajondev/boost-your-productivity-with-these-top-free-notion-templates-8e0)
+- [Dev.to/JS] [5 Common Mistakes to Avoid in React Native Development](https://dev.to/aspiresoftserv/5-common-mistakes-to-avoid-in-react-native-development-2ln3)
 - [Dev.to/JS] [JS Magic: Making a Range Syntax](https://dev.to/jonrandy/js-magic-making-a-range-syntax-55im)
 - [Dev.to/JS] [MAKING API REQUEST WITH JAVASCRIPT.](https://dev.to/arisekola177/making-api-request-with-javascript-3ja6)
 - [Dev.to/JS] [Pinia - Crash Course for Beginners](https://dev.to/alexandergekov/pinia-crash-course-for-beginners-3ef7)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Animation -15 : CSS PB JLoader Animation](https://dev.to/jon_snow789/animation-14-css-pb-jloader-animation-1e19)
 - [Dev.to/JS] [Automating AJAX Forms](https://dev.to/tohodo/automating-ajax-forms-2ph9)
 - [Dev.to/JS] [Which is Best NodeJS Development Firms](https://dev.to/amandacowell/which-is-best-nodejs-development-firms-528c)
-- [Dev.to/JS] [How to make a digital clock using JavaScript](https://dev.to/michaelburrows/how-to-make-a-digital-clock-using-javascript-4lja)
-- [Dev.to/JS] [How to use sequel.ai to convert natural language queries into SQL queries](https://dev.to/trinly01/how-to-use-sequelai-to-convert-natural-language-queries-into-sql-queries-3f7o)
 - [Lifehacker] [Why You Should Film Yourself Cleaning, According to Reddit](https://lifehacker.com/why-you-should-film-yourself-cleaning-according-to-red-1850257796)
 - [Lifehacker] [Just Because You Don’t Use a Bidet Doesn’t Mean Your Butt Is Covered in Poop](https://lifehacker.com/just-because-you-don-t-use-a-bidet-doesn-t-mean-your-bu-1850254040)
 - [Lifehacker] [Stop Hackers From Taking Over Your Android With Just Your Phone Number](https://lifehacker.com/stop-hackers-from-taking-over-your-android-with-just-yo-1850256819)
