@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to make a digital clock using JavaScript](https://dev.to/michaelburrows/how-to-make-a-digital-clock-using-javascript-4lja)
 - [Dev.to/JS] [How to use sequel.ai to convert natural language queries into SQL queries](https://dev.to/trinly01/how-to-use-sequelai-to-convert-natural-language-queries-into-sql-queries-3f7o)
 - [Dev.to/JS] [Alpine.js Tutorial: Getting Started with Interactive Web Applications](https://dev.to/shibun/alpinejs-tutorial-getting-started-with-interactive-web-applications-484c)
 - [Dev.to/JS] [How to write simple intelligent code search with Open AI](https://dev.to/hokid/how-to-write-simple-intelligent-code-search-with-open-ai-3eo0)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ordinare la numerazione di un documento o lista espressa a livelli: 5.2.7](https://dev.to/pix303/ordinare-la-numerazione-di-un-documento-o-lista-espressa-a-livelli-527-5bj3)
 - [Dev.to/JS] [10 HTML, CSS &amp; JavaScript mistakes from a beginner](https://dev.to/urwissen/10-html-css-javascript-mistakes-from-a-beginner-22pf)
 - [Dev.to/JS] [ServiceNow: reference vs. primitive data types](https://dev.to/mkrcma/servicenow-reference-vs-primitive-data-types-2bjp)
-- [Dev.to/JS] [JavaScript Tutorial Series: Introduction to JavaScript events.](https://dev.to/fullstackjo/javascript-tutorial-series-introduction-to-javascript-events-4mlp)
 - [Lifehacker] [Why You Should Film Yourself Cleaning, According to Reddit](https://lifehacker.com/why-you-should-film-yourself-cleaning-according-to-red-1850257796)
 - [Lifehacker] [Just Because You Don’t Use a Bidet Doesn’t Mean Your Butt Is Covered in Poop](https://lifehacker.com/just-because-you-don-t-use-a-bidet-doesn-t-mean-your-bu-1850254040)
 - [Lifehacker] [Stop Hackers From Taking Over Your Android With Just Your Phone Number](https://lifehacker.com/stop-hackers-from-taking-over-your-android-with-just-yo-1850256819)
