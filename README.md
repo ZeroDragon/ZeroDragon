@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to Stencil.js](https://dev.to/precious654/introduction-to-stenciljs-4e63)
+- [Dev.to/JS] [Using TailwindCSS with Nuxt efficiently](https://dev.to/mayashavin/using-tailwindcss-with-nuxt-efficiently-41p7)
+- [Lifehacker] [Park These Dangerous Hyundais and Kias Outside](https://lifehacker.com/park-these-dangerous-hyundais-and-kias-outside-1850257677)
+- [Dev.to/JS] [JavaScript 🐲 challenges_2 ⚔️](https://dev.to/mahmoudessam/javascript-challenges2-29i1)
+- [Dev.to/JS] [Paracetamol.js💊| #209: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-209-explica-este-codigo-javascript-5hf1)
+- [Dev.to/JS] [JavaScript Promises: Making Sense of the Madness 😤](https://dev.to/almonteluis/javascript-promises-making-sense-of-the-madness-4nla)
 - [Lifehacker] [These Bacon-Wrapped Banana Bites Are Self Care](https://lifehacker.com/these-bacon-wrapped-banana-bites-are-self-care-1850258827)
 - [Dev.to/JS] [JavaScript Hoisting](https://dev.to/makstyle119/javascript-hoisting-4lja)
 - [Dev.to/JS] [9 Hidden Websites For Programmers](https://dev.to/jon_snow789/9-hidden-websites-for-programmers-278f)
@@ -36,11 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Internal of RXDB: Plugins, Storages Adapters 🚀](https://dev.to/dhrn/internal-of-rxdb-plugins-storages-adapters-3bi3)
 - [Crazy Programmer] [Encapsulation and Decapsulation in Networking](https://www.thecrazyprogrammer.com/2023/03/encapsulation-and-decapsulation-in-networking.html)
 - [Dev.to/JS] [Boost Your Productivity with These Top Free Notion Templates](https://dev.to/surajondev/boost-your-productivity-with-these-top-free-notion-templates-8e0)
-- [Dev.to/JS] [5 Common Mistakes to Avoid in React Native Development](https://dev.to/aspiresoftserv/5-common-mistakes-to-avoid-in-react-native-development-2ln3)
-- [Dev.to/JS] [JS Magic: Making a Range Syntax](https://dev.to/jonrandy/js-magic-making-a-range-syntax-55im)
-- [Dev.to/JS] [MAKING API REQUEST WITH JAVASCRIPT.](https://dev.to/arisekola177/making-api-request-with-javascript-3ja6)
-- [Dev.to/JS] [Pinia - Crash Course for Beginners](https://dev.to/alexandergekov/pinia-crash-course-for-beginners-3ef7)
-- [Dev.to/JS] [The impact of artificial intelligence &lpar;AI&rpar; on society and culture is unprecedented.](https://dev.to/chidiebereomasi/the-impact-of-artificial-intelligence-ai-on-society-and-culture-is-unprecedented-3740)
 - [Lifehacker] [Why You Should Film Yourself Cleaning, According to Reddit](https://lifehacker.com/why-you-should-film-yourself-cleaning-according-to-red-1850257796)
 - [Lifehacker] [Just Because You Don’t Use a Bidet Doesn’t Mean Your Butt Is Covered in Poop](https://lifehacker.com/just-because-you-don-t-use-a-bidet-doesn-t-mean-your-bu-1850254040)
 - [Lifehacker] [Stop Hackers From Taking Over Your Android With Just Your Phone Number](https://lifehacker.com/stop-hackers-from-taking-over-your-android-with-just-yo-1850256819)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Fry an Egg in a Ring of Mashed Potatoes](https://lifehacker.com/fry-an-egg-in-a-ring-of-mashed-potatoes-1850249890)
 - [Lifehacker] [The Difference Between Overdraft and Non-Sufficient Funds Fees &lpar;and How to Avoid Them Both&rpar;](https://lifehacker.com/the-difference-between-overdraft-and-non-sufficient-fun-1850244606)
 - [Lifehacker] [Kodansha USA Is Giving Away a Ton of Free Manga Right Now](https://lifehacker.com/kodansha-usa-is-giving-away-a-ton-of-free-manga-right-n-1850250066)
-- [Lifehacker] [Domino’s Pizza Is Better When It’s Half Off](https://lifehacker.com/domino-s-pizza-is-better-when-it-s-half-off-1850249607)
-- [Lifehacker] [Protect Your Elderly Parents From Medicaid’s ‘Five-Year Look-Back’ Rule](https://lifehacker.com/protect-your-elderly-parents-from-medicaid-s-five-year-1850250694)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Domino’s Pizza Is Better When It’s Half Off](https://lifehacker.com/domino-s-pizza-is-better-when-it-s-half-off-1850249607)<!-- TECH-POSTS:END -->
 
 ---
 
