@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Alpine.js Tutorial: Getting Started with Interactive Web Applications](https://dev.to/shibun/alpinejs-tutorial-getting-started-with-interactive-web-applications-484c)
 - [Dev.to/JS] [How to write simple intelligent code search with Open AI](https://dev.to/hokid/how-to-write-simple-intelligent-code-search-with-open-ai-3eo0)
 - [Dev.to/JS] [An introduction to Redux](https://dev.to/ccarlson249/an-introduction-to-redux-2p96)
 - [Dev.to/JS] [Choice CBD Gummies - Pain Relief Solution, Uses, Price, Reviews &amp; Where To Buy?](https://dev.to/choicecbdi26502/choice-cbd-gummies-pain-relief-solution-uses-price-reviews-where-to-buy-53g2)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ServiceNow: reference vs. primitive data types](https://dev.to/mkrcma/servicenow-reference-vs-primitive-data-types-2bjp)
 - [Dev.to/JS] [JavaScript Tutorial Series: Introduction to JavaScript events.](https://dev.to/fullstackjo/javascript-tutorial-series-introduction-to-javascript-events-4mlp)
 - [Dev.to/JS] [Getting Started with TypeScript](https://dev.to/ishanbagchi/getting-started-with-typescript-157c)
-- [Dev.to/JS] [Basics Of Javascript](https://dev.to/tech_olaide/basics-of-javascript-25dh)
 - [Lifehacker] [Why You Should Film Yourself Cleaning, According to Reddit](https://lifehacker.com/why-you-should-film-yourself-cleaning-according-to-red-1850257796)
 - [Lifehacker] [Just Because You Don’t Use a Bidet Doesn’t Mean Your Butt Is Covered in Poop](https://lifehacker.com/just-because-you-don-t-use-a-bidet-doesn-t-mean-your-bu-1850254040)
 - [Lifehacker] [Stop Hackers From Taking Over Your Android With Just Your Phone Number](https://lifehacker.com/stop-hackers-from-taking-over-your-android-with-just-yo-1850256819)
