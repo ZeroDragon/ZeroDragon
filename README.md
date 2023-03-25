@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Ultimate Guide To Scraping LinkedIn Jobs](https://dev.to/serpdogapi/the-ultimate-guide-to-scraping-linkedin-jobs-5866)
+- [Dev.to/JS] [Stop Wishing for TypeScript and Start Using JSDocScript in your Vanilla JS!](https://dev.to/noriller/stop-wishing-for-typescript-and-start-using-jsdocscript-in-your-vanilla-js-1319)
 - [Dev.to/JS] [How to remove a specific item from an array in javascript ?](https://dev.to/snangunurikrishna/how-to-remove-a-specific-item-from-an-array-in-javascript--35o9)
 - [Dev.to/JS] [LeetCode - First Missing Positive](https://dev.to/_alkesh26/leetcode-first-missing-positive-ik7)
 - [Dev.to/JS] [Understanding React Context: A Comprehensive Tutorial for Beginners](https://dev.to/nitinfab/understanding-react-context-a-comprehensive-tutorial-for-beginners-2cpl)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Jest essentials](https://dev.to/lausuarez02/jest-essentials-729)
 - [Dev.to/JS] [Simplifying Business Logic with Domain Functions in JavaScript](https://dev.to/franciscomendes10866/simplifying-business-logic-with-domain-functions-in-javascript-4ce3)
 - [Dev.to/JS] [Creating very nice dashboard using bootstrap in your ecommerce site](https://dev.to/gcizman/creating-very-nice-dashboard-using-bootstrap-in-your-ecommerce-site-482f)
-- [Dev.to/JS] [জাভাস্ক্রিপ্ট ডেটা স্ট্রাকচার - অ্যারে](https://dev.to/muhidhossain/jaabhaaskriptt-ddettaa-sttraakcaar-ayaare-2h1)
-- [Dev.to/JS] [Free Sign in/up page Templates](https://dev.to/jon_snow789/free-sign-inup-page-templates-553l)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
