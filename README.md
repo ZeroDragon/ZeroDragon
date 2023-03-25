@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sinatra/Active Record Full CRUD](https://dev.to/jdoud1993/sinatraactive-record-full-crud-53nc)
 - [Dev.to/JS] [MAKING API REQUEST WITH JAVASCRIPT](https://dev.to/arisekola177/making-api-request-with-javascript-37be)
 - [Dev.to/JS] [What&#39;s the difference between logical OR || and nullish coalescing ??](https://dev.to/edriso/whats-the-difference-between-logical-or-and-nullish-coalescing--3g7d)
 - [Dev.to/JS] [Python If/else statements](https://dev.to/m_shkreli21/python-ifelse-statements-n27)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exception Handling in JavaScript](https://dev.to/honeybadger/exception-handling-in-javascript-3901)
 - [Dev.to/JS] [7 Must Know Custom React Hooks in React 18](https://dev.to/lucasjstifano/7-must-know-custom-react-hooks-in-react-18-32ne)
 - [Dev.to/JS] [Automate Your Code Formatting with Prettier and Husky: A Complete Guide](https://dev.to/arindam1997007/automate-your-code-formatting-with-prettier-and-husky-a-complete-guide-15eb)
-- [Dev.to/JS] [Clarity on logical operator js](https://dev.to/ebakecode/clarity-on-logical-operator-js-416)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
 - [Lifehacker] [These Are the Most Savage Ways to Start or End an Email](https://lifehacker.com/these-are-the-most-savage-ways-to-start-or-end-an-email-1850260223)
 - [Lifehacker] [You Can Get March Madness Tickets for As Low As $18 Right Now](https://lifehacker.com/you-can-get-march-madness-tickets-for-as-low-as-18-rig-1850261888)
