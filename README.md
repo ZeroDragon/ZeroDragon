@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fake C++ Compiler with Node.js - Part 1](https://dev.to/gurigraphics/fake-c-compiler-with-nodejs-part-1-38a6)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;25-03-2023&rpar; - Aftermath](https://dev.to/mjgs/this-weeks-newsletter-is-out-25-03-2023-aftermath-41ef)
 - [Dev.to/JS] [Going from JS to TS](https://dev.to/mgaroz/going-from-js-to-ts-15ik)
 - [Dev.to/JS] [how use Local Storage in React?](https://dev.to/luthfiadilal/how-use-local-storage-in-react-51if)
 - [Dev.to/JS] [SvelteKit, What is it and why should I care?](https://dev.to/ahmed_onour/sveltekit-what-is-it-and-why-should-i-care-63j)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MAKING API REQUEST WITH JAVASCRIPT](https://dev.to/arisekola177/making-api-request-with-javascript-37be)
 - [Dev.to/JS] [What&#39;s the difference between logical OR || and nullish coalescing ??](https://dev.to/edriso/whats-the-difference-between-logical-or-and-nullish-coalescing--3g7d)
 - [Dev.to/JS] [Python If/else statements](https://dev.to/m_shkreli21/python-ifelse-statements-n27)
-- [Dev.to/JS] [Optimize React Context Step-by-step in 4 examples](https://dev.to/mahdita97/optimize-react-context-step-by-step-in-4-examples-4i3f)
-- [Dev.to/JS] [Stop doing component unit testing](https://dev.to/frandev/stop-doing-component-unit-testing-22l5)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
