@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code-Magic](https://dev.to/tanmaytiwaricyber/code-magic-2anl)
+- [Dev.to/JS] [I asked GPT-4 to build a Shopify app. In an hour. And it did.](https://dev.to/ralfelfving/i-asked-gpt-4-to-build-a-shopify-app-in-an-hour-and-it-did-3gd6)
 - [Dev.to/JS] [An Introduction to Object Oriented Programming in JavaScript](https://dev.to/akpevwe11/an-introduction-to-object-oriented-programming-in-javascript-og1)
 - [Dev.to/JS] [Paracetamol.js💊| #210: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-210-explica-este-codigo-javascript-2ho6)
 - [Dev.to/JS] [Scope in JavaScript](https://dev.to/makstyle119/scope-in-javascript-4b9n)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring the Inner Workings of the JavaScript Event Loop](https://dev.to/yogiyiorgos/exploring-the-inner-workings-of-the-javascript-event-loop-1j)
 - [Dev.to/JS] [Review of state management in React: kinds of lightweight trials - MobX, Zustand, Jotai and Valtio](https://dev.to/licg9999/review-of-state-management-in-react-kinds-of-lightweight-trials-mobx-zustand-jotai-and-valtio-4fae)
 - [Dev.to/JS] [Upload your NFTs](https://dev.to/publr/upload-your-nfts-1a5g)
-- [Dev.to/JS] [The most effective strategy for pursuing a career in technology](https://dev.to/chidiebereomasi/the-most-effective-strategy-for-pursuing-a-career-in-technology-16le)
-- [Dev.to/JS] [A Beginner&#39;s Guide to React Custom Hooks](https://dev.to/olaleyeblessing/a-beginners-guide-to-react-custom-hooks-20ke)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
