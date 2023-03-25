@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Don&#39;t use create-react-app anymore, try these instead](https://dev.to/haidar_ezio/dont-use-create-react-app-anymore-try-these-instead-ack)
+- [Dev.to/JS] [Describing How to Use Constraint Validation API to Validate Forms on the Frontend](https://dev.to/blessingmichael/describing-how-to-use-constraint-validation-api-to-validate-forms-on-the-frontend-10dh)
 - [Dev.to/JS] [Weekend Reading](https://dev.to/sporter/weekend-reading-2269)
 - [Dev.to/JS] [What It Was Like To Code For Amazon &lpar;Part 1&rpar;](https://dev.to/bytebodger/what-it-was-like-to-code-for-amazon-part-1-5034)
 - [Dev.to/JS] [Functional Programming Made Easy with TypeScript](https://dev.to/franciscomendes10866/functional-programming-made-easy-with-typescript-1lmp)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Stop Wishing for TypeScript and Start Using JSDocScript in your Vanilla JS!](https://dev.to/noriller/stop-wishing-for-typescript-and-start-using-jsdocscript-in-your-vanilla-js-1319)
 - [Dev.to/JS] [How to remove a specific item from an array in javascript ?](https://dev.to/snangunurikrishna/how-to-remove-a-specific-item-from-an-array-in-javascript--35o9)
 - [Dev.to/JS] [LeetCode - First Missing Positive](https://dev.to/_alkesh26/leetcode-first-missing-positive-ik7)
-- [Dev.to/JS] [Understanding React Context: A Comprehensive Tutorial for Beginners](https://dev.to/nitinfab/understanding-react-context-a-comprehensive-tutorial-for-beginners-2cpl)
-- [Dev.to/JS] [How to get the two maximum values from reduce method javascript.](https://dev.to/uzairsamad/how-to-get-the-two-maximum-values-from-reduce-method-javascript-3a1l)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
