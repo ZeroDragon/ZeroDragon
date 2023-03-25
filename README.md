@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LeetCode - First Missing Positive](https://dev.to/_alkesh26/leetcode-first-missing-positive-ik7)
+- [Dev.to/JS] [Understanding React Context: A Comprehensive Tutorial for Beginners](https://dev.to/nitinfab/understanding-react-context-a-comprehensive-tutorial-for-beginners-2cpl)
+- [Dev.to/JS] [How to get the two maximum values from reduce method javascript.](https://dev.to/uzairsamad/how-to-get-the-two-maximum-values-from-reduce-method-javascript-3a1l)
+- [Dev.to/JS] [Master VS Code Like a Pro with These Game-Changing Extensions](https://dev.to/clericcoder/master-vs-code-like-a-pro-with-these-game-changing-extensions-1bkb)
+- [Dev.to/JS] [Get Ready to Play &quot;Zero Kata&quot; - The Ultimate Multiplayer Tic Tac Toe Game! 🎮](https://dev.to/harshilsharmaa/get-ready-to-play-zero-kata-the-ultimate-multiplayer-tic-tac-toe-game-jp3)
 - [Dev.to/JS] [React Series: Introduction](https://dev.to/oluwatrillions/react-series-introduction-55dj)
 - [Dev.to/JS] [Jest essentials](https://dev.to/lausuarez02/jest-essentials-729)
 - [Dev.to/JS] [Simplifying Business Logic with Domain Functions in JavaScript](https://dev.to/franciscomendes10866/simplifying-business-logic-with-domain-functions-in-javascript-4ce3)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [জাভাস্ক্রিপ্ট ডেটা স্ট্রাকচার - অ্যারে](https://dev.to/muhidhossain/jaabhaaskriptt-ddettaa-sttraakcaar-ayaare-2h1)
 - [Dev.to/JS] [Free Sign in/up page Templates](https://dev.to/jon_snow789/free-sign-inup-page-templates-553l)
 - [Dev.to/JS] [Code-Magic](https://dev.to/tanmaytiwaricyber/code-magic-2anl)
-- [Dev.to/JS] [I asked GPT-4 to build a Shopify app. In an hour. And it did.](https://dev.to/ralfelfving/i-asked-gpt-4-to-build-a-shopify-app-in-an-hour-and-it-did-3gd6)
-- [Dev.to/JS] [An Introduction to Object Oriented Programming in JavaScript](https://dev.to/akpevwe11/an-introduction-to-object-oriented-programming-in-javascript-og1)
-- [Dev.to/JS] [Paracetamol.js💊| #210: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-210-explica-este-codigo-javascript-2ho6)
-- [Dev.to/JS] [Scope in JavaScript](https://dev.to/makstyle119/scope-in-javascript-4b9n)
-- [Dev.to/JS] [Multiple title tags in source code](https://dev.to/gundogduyakici/multiple-title-tags-in-source-code-oe2)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
