@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The most effective strategy for pursuing a career in technology](https://dev.to/chidiebereomasi/the-most-effective-strategy-for-pursuing-a-career-in-technology-16le)
+- [Dev.to/JS] [A Beginner&#39;s Guide to React Custom Hooks](https://dev.to/olaleyeblessing/a-beginners-guide-to-react-custom-hooks-20ke)
+- [Dev.to/JS] [How to use Postman for API testing](https://dev.to/terieyenike/how-to-use-postman-for-api-testing-10cl)
 - [Dev.to/JS] [Simplify Your Package Management with OneLinePackages](https://dev.to/itsalimanuel/simplify-your-package-management-with-onelinepackages-3blm)
 - [Dev.to/JS] [Package React Applications using Docker](https://dev.to/imvedanshmehra/package-react-applications-using-docker-47dk)
 - [Dev.to/JS] [Introduction To HTML](https://dev.to/guonnie/introduction-to-html-11nb)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Going from JS to TS](https://dev.to/mgaroz/going-from-js-to-ts-15ik)
 - [Dev.to/JS] [how use Local Storage in React?](https://dev.to/luthfiadilal/how-use-local-storage-in-react-51if)
 - [Dev.to/JS] [SvelteKit, What is it and why should I care?](https://dev.to/ahmed_onour/sveltekit-what-is-it-and-why-should-i-care-63j)
-- [Dev.to/JS] [26 Ways to log &quot;Hello World&quot; in Javascript.](https://dev.to/itsyuvraj/26-ways-to-log-hello-world-in-javascript-32go)
-- [Dev.to/JS] [Intro to Singly Linked Lists for the JavaScript Developer](https://dev.to/colbysanchbach/intro-to-singly-linked-lists-for-the-javascript-developer-24mk)
-- [Dev.to/JS] [Generic Types in TypeScript](https://dev.to/alvisonhunter/generic-types-in-typescript-6hh)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
