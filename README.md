@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simplify Your Package Management with OneLinePackages](https://dev.to/itsalimanuel/simplify-your-package-management-with-onelinepackages-3blm)
+- [Dev.to/JS] [Package React Applications using Docker](https://dev.to/imvedanshmehra/package-react-applications-using-docker-47dk)
+- [Dev.to/JS] [Introduction To HTML](https://dev.to/guonnie/introduction-to-html-11nb)
 - [Dev.to/JS] [My last project I launched on Dev.to got acquired. Here&#39;s a new one](https://dev.to/fayaz/my-last-project-i-launched-on-devto-got-acquired-heres-a-new-one-5158)
 - [Dev.to/JS] [Fake C++ Compiler with Node.js - Part 1](https://dev.to/gurigraphics/fake-c-compiler-with-nodejs-part-1-38a6)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;25-03-2023&rpar; - Aftermath](https://dev.to/mjgs/this-weeks-newsletter-is-out-25-03-2023-aftermath-41ef)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [26 Ways to log &quot;Hello World&quot; in Javascript.](https://dev.to/itsyuvraj/26-ways-to-log-hello-world-in-javascript-32go)
 - [Dev.to/JS] [Intro to Singly Linked Lists for the JavaScript Developer](https://dev.to/colbysanchbach/intro-to-singly-linked-lists-for-the-javascript-developer-24mk)
 - [Dev.to/JS] [Generic Types in TypeScript](https://dev.to/alvisonhunter/generic-types-in-typescript-6hh)
-- [Dev.to/JS] [Sinatra/Active Record Full CRUD](https://dev.to/jdoud1993/sinatraactive-record-full-crud-53nc)
-- [Dev.to/JS] [MAKING API REQUEST WITH JAVASCRIPT](https://dev.to/arisekola177/making-api-request-with-javascript-37be)
-- [Dev.to/JS] [What&#39;s the difference between logical OR || and nullish coalescing ??](https://dev.to/edriso/whats-the-difference-between-logical-or-and-nullish-coalescing--3g7d)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
