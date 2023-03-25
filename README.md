@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SvelteKit, What is it and why should I care?](https://dev.to/ahmed_onour/sveltekit-what-is-it-and-why-should-i-care-63j)
 - [Dev.to/JS] [26 Ways to log &quot;Hello World&quot; in Javascript.](https://dev.to/itsyuvraj/26-ways-to-log-hello-world-in-javascript-32go)
 - [Dev.to/JS] [Intro to Singly Linked Lists for the JavaScript Developer](https://dev.to/colbysanchbach/intro-to-singly-linked-lists-for-the-javascript-developer-24mk)
 - [Dev.to/JS] [Generic Types in TypeScript](https://dev.to/alvisonhunter/generic-types-in-typescript-6hh)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular Signals](https://dev.to/jrohatiner/angular-signals-3n6k)
 - [Dev.to/JS] [Breaking down Promises in JavaScript](https://dev.to/valentinaperic/breaking-down-promises-in-javascript-34a8)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
-- [Dev.to/JS] [How to make a website in HTML/CSS](https://dev.to/azedeveloper/how-to-make-a-website-in-htmlcss-5bpc)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
 - [Lifehacker] [These Are the Most Savage Ways to Start or End an Email](https://lifehacker.com/these-are-the-most-savage-ways-to-start-or-end-an-email-1850260223)
 - [Lifehacker] [You Can Get March Madness Tickets for As Low As $18 Right Now](https://lifehacker.com/you-can-get-march-madness-tickets-for-as-low-as-18-rig-1850261888)
