@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Going from JS to TS](https://dev.to/mgaroz/going-from-js-to-ts-15ik)
+- [Dev.to/JS] [how use Local Storage in React?](https://dev.to/luthfiadilal/how-use-local-storage-in-react-51if)
 - [Dev.to/JS] [SvelteKit, What is it and why should I care?](https://dev.to/ahmed_onour/sveltekit-what-is-it-and-why-should-i-care-63j)
 - [Dev.to/JS] [26 Ways to log &quot;Hello World&quot; in Javascript.](https://dev.to/itsyuvraj/26-ways-to-log-hello-world-in-javascript-32go)
 - [Dev.to/JS] [Intro to Singly Linked Lists for the JavaScript Developer](https://dev.to/colbysanchbach/intro-to-singly-linked-lists-for-the-javascript-developer-24mk)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimize React Context Step-by-step in 4 examples](https://dev.to/mahdita97/optimize-react-context-step-by-step-in-4-examples-4i3f)
 - [Dev.to/JS] [Stop doing component unit testing](https://dev.to/frandev/stop-doing-component-unit-testing-22l5)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
-- [Dev.to/JS] [Angular Signals](https://dev.to/jrohatiner/angular-signals-3n6k)
-- [Dev.to/JS] [Breaking down Promises in JavaScript](https://dev.to/valentinaperic/breaking-down-promises-in-javascript-34a8)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
 - [Lifehacker] [These Are the Most Savage Ways to Start or End an Email](https://lifehacker.com/these-are-the-most-savage-ways-to-start-or-end-an-email-1850260223)
