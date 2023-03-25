@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Review of state management in React: kinds of lightweight trials - MobX, Zustand, Jotai and Valtio](https://dev.to/licg9999/review-of-state-management-in-react-kinds-of-lightweight-trials-mobx-zustand-jotai-and-valtio-4fae)
+- [Dev.to/JS] [Upload your NFTs](https://dev.to/publr/upload-your-nfts-1a5g)
 - [Dev.to/JS] [The most effective strategy for pursuing a career in technology](https://dev.to/chidiebereomasi/the-most-effective-strategy-for-pursuing-a-career-in-technology-16le)
 - [Dev.to/JS] [A Beginner&#39;s Guide to React Custom Hooks](https://dev.to/olaleyeblessing/a-beginners-guide-to-react-custom-hooks-20ke)
 - [Dev.to/JS] [How to use Postman for API testing](https://dev.to/terieyenike/how-to-use-postman-for-api-testing-10cl)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fake C++ Compiler with Node.js - Part 1](https://dev.to/gurigraphics/fake-c-compiler-with-nodejs-part-1-38a6)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;25-03-2023&rpar; - Aftermath](https://dev.to/mjgs/this-weeks-newsletter-is-out-25-03-2023-aftermath-41ef)
 - [Dev.to/JS] [Going from JS to TS](https://dev.to/mgaroz/going-from-js-to-ts-15ik)
-- [Dev.to/JS] [how use Local Storage in React?](https://dev.to/luthfiadilal/how-use-local-storage-in-react-51if)
-- [Dev.to/JS] [SvelteKit, What is it and why should I care?](https://dev.to/ahmed_onour/sveltekit-what-is-it-and-why-should-i-care-63j)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
