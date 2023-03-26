@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is shadow DOM?](https://dev.to/souravbandyopadhyay/what-is-shadow-dom-1lm3)
+- [Dev.to/JS] [Crafting Effective Chaos Error Messages](https://dev.to/ayushsoni1010/crafting-effective-chaos-error-messages-i52)
+- [Dev.to/JS] [Overcoming Developer Shiny Object Syndrome: How to Stay Focused on Your Goals](https://dev.to/joepari_codes/overcoming-developer-shiny-object-syndrome-how-to-stay-focused-on-your-goals-2an)
+- [Dev.to/JS] [How to implement undo in your apps](https://dev.to/tahazsh/how-to-implement-undo-in-your-apps-59je)
 - [Dev.to/JS] [What It Was Like To Code For Amazon &lpar;Part 2&rpar;](https://dev.to/bytebodger/what-it-was-like-to-code-for-amazon-part-2-5aon)
 - [Dev.to/JS] [IST 256 Week 11 Homework](https://dev.to/rasaighul/ist-256-week-11-homework-3ndb)
 - [Dev.to/JS] [Different Ways to fetch data from API in Reactjs](https://dev.to/msbalacse/different-ways-to-fetch-data-from-api-in-reactjs-298o)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create Two RGB cursor following lines using html, CSS and JavaScript](https://dev.to/awbscode/create-two-rgb-cursor-following-lines-using-html-css-and-javascript-11e8)
 - [Dev.to/JS] [IST 256 Week 7 Homework](https://dev.to/rasaighul/ist-256-week-7-homework-311m)
 - [Dev.to/JS] [How to Use Async Typescript 5.0 Decorators](https://dev.to/benank/how-to-use-async-typescript-50-decorators-116j)
-- [Dev.to/JS] [Angular Universal is the Problem, not Angular](https://dev.to/jdgamble555/angular-universal-is-the-problem-not-angular-5801)
-- [Dev.to/JS] [State Uplifting In ReactJS](https://dev.to/abhishek305/state-uplifting-in-reactjs-37lm)
-- [Dev.to/JS] [Kill node_modules 😡](https://dev.to/itskunal/kill-nodemodules-38hp)
-- [Dev.to/JS] [Animate Burger Menu with React-Spring](https://dev.to/pavophilip/animate-burger-menu-with-react-spring-4j1d)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
