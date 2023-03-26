@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Upgrade Your Tailwind CSS Experience: Here&#39;s How to Get Started](https://dev.to/mdbootstrap/upgrade-your-tailwind-css-experience-heres-how-to-get-started-5eng)
+- [Dev.to/JS] [React Hooks Best Practices](https://dev.to/aminnairi/react-hooks-best-practices-nkd)
 - [Dev.to/JS] [Using Key Pairs with JWTs](https://dev.to/croccifixio/using-key-pairs-with-jwts-o33)
 - [Dev.to/JS] [Processing 13 million rows from a CSV file in the Browser &lpar;Without freezing the screen&rpar;](https://dev.to/wesleymreng7/processing-13-million-rows-from-a-csv-file-in-the-browser-without-freezing-the-screen-1nih)
 - [Dev.to/JS] [What is shadow DOM?](https://dev.to/souravbandyopadhyay/what-is-shadow-dom-1lm3)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [IST 256 Week 11 Homework](https://dev.to/rasaighul/ist-256-week-11-homework-3ndb)
 - [Dev.to/JS] [Different Ways to fetch data from API in Reactjs](https://dev.to/msbalacse/different-ways-to-fetch-data-from-api-in-reactjs-298o)
 - [Dev.to/JS] [Optimizing React Components: When to Use and Not Use useEffect](https://dev.to/yeshwanthkondraau45/optimizing-react-components-when-to-use-and-not-use-useeffect-e49)
-- [Dev.to/JS] [How the use of JavaScript has transformed how we engage with contemporary technology.](https://dev.to/chidiebereomasi/how-the-use-of-javascript-has-transformed-how-we-engage-with-contemporary-technology-5e1a)
-- [Dev.to/JS] [Create Two RGB cursor following lines using html, CSS and JavaScript](https://dev.to/awbscode/create-two-rgb-cursor-following-lines-using-html-css-and-javascript-11e8)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
