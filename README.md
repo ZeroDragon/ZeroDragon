@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What It Was Like To Code For Amazon &lpar;Part 2&rpar;](https://dev.to/bytebodger/what-it-was-like-to-code-for-amazon-part-2-5aon)
+- [Dev.to/JS] [IST 256 Week 11 Homework](https://dev.to/rasaighul/ist-256-week-11-homework-3ndb)
+- [Dev.to/JS] [Different Ways to fetch data from API in Reactjs](https://dev.to/msbalacse/different-ways-to-fetch-data-from-api-in-reactjs-298o)
 - [Dev.to/JS] [Optimizing React Components: When to Use and Not Use useEffect](https://dev.to/yeshwanthkondraau45/optimizing-react-components-when-to-use-and-not-use-useeffect-e49)
 - [Dev.to/JS] [How the use of JavaScript has transformed how we engage with contemporary technology.](https://dev.to/chidiebereomasi/how-the-use-of-javascript-has-transformed-how-we-engage-with-contemporary-technology-5e1a)
 - [Dev.to/JS] [Create Two RGB cursor following lines using html, CSS and JavaScript](https://dev.to/awbscode/create-two-rgb-cursor-following-lines-using-html-css-and-javascript-11e8)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [State Uplifting In ReactJS](https://dev.to/abhishek305/state-uplifting-in-reactjs-37lm)
 - [Dev.to/JS] [Kill node_modules 😡](https://dev.to/itskunal/kill-nodemodules-38hp)
 - [Dev.to/JS] [Animate Burger Menu with React-Spring](https://dev.to/pavophilip/animate-burger-menu-with-react-spring-4j1d)
-- [Dev.to/JS] [JavaScript Module Bundlers and all that Jazz ✨](https://dev.to/harshitakanal/javascript-module-bundlers-and-all-that-jazz-3hbi)
-- [Dev.to/JS] [Schemas with Supabase](https://dev.to/guillaumeduhan/schemas-with-supabase-1apn)
-- [Dev.to/JS] [Introduction To The Head Section in HTML](https://dev.to/guonnie/introduction-to-the-head-section-in-html-33nb)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
