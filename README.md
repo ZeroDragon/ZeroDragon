@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript From Scratch](https://dev.to/lakharashubham007/javascript-from-scratch-3oag)
+- [Dev.to/JS] [About Me](https://dev.to/ij03l/about-me-2i5j)
+- [Dev.to/JS] [Secure your data: cryptography in Nodejs](https://dev.to/kalashin1/secure-your-data-cryptography-in-nodejs-1jeo)
+- [Dev.to/JS] [Variables In JavaScript](https://dev.to/makstyle119/variables-in-javascript-206o)
 - [Dev.to/JS] [Learn Front-end Web Development for Free](https://dev.to/faisaljawedkhan/learn-front-end-web-development-for-free-1emh)
 - [Dev.to/JS] [Hello world](https://dev.to/asawriter/hello-world-182g)
 - [Dev.to/JS] [Issue with canvas straight lines](https://dev.to/achifa/issue-with-canvas-straight-lines-4pcp)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Best🔥 Free Notion Template I found for Developer in 2023💥](https://dev.to/ahmed_onour/the-best-free-notion-template-i-found-for-developer-in-2023-45gf)
 - [Dev.to/JS] [Implementing Best Practices for Developing an NPM Package with Automated Testing and Deployment](https://dev.to/msrajawat298/implementing-best-practices-for-developing-an-npm-package-with-automated-testing-and-deployment-1pff)
 - [Dev.to/JS] [Need of useEffect Cleanup Function](https://dev.to/sanchitbajaj02/need-of-useeffect-cleanup-function-3gnb)
-- [Dev.to/JS] [A Beginner&#39;s Guide to Bitwise Operators: Understanding NOT, AND, OR, and XOR?](https://dev.to/syedmuzamilm_43/a-beginners-guide-to-bitwise-operators-understanding-not-and-or-and-xor-3fom)
-- [Dev.to/JS] [Javascript Dictionary: globalThis](https://dev.to/scottbeeker/javascript-dictionary-globalthis-267c)
-- [Dev.to/JS] [Minimalizing Witness weight for Taproot spend script paths with Huffman&#39;s Algorithm](https://dev.to/eunovo/minimalizing-witness-weight-for-taproot-spend-script-paths-with-huffmans-algorithm-1j74)
-- [Dev.to/JS] [Mastering JavaScript in 100 Days: A Structured Plan for Proficiency](https://dev.to/abhixsh/mastering-javascript-in-100-days-a-structured-plan-for-proficiency-1jbo)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
