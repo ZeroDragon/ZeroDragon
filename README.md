@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implementing Best Practices for Developing an NPM Package with Automated Testing and Deployment](https://dev.to/msrajawat298/implementing-best-practices-for-developing-an-npm-package-with-automated-testing-and-deployment-1pff)
+- [Dev.to/JS] [Need of useEffect Cleanup Function](https://dev.to/sanchitbajaj02/need-of-useeffect-cleanup-function-3gnb)
+- [Dev.to/JS] [A Beginner&#39;s Guide to Bitwise Operators: Understanding NOT, AND, OR, and XOR?](https://dev.to/syedmuzamilm_43/a-beginners-guide-to-bitwise-operators-understanding-not-and-or-and-xor-3fom)
+- [Dev.to/JS] [Javascript Dictionary: globalThis](https://dev.to/scottbeeker/javascript-dictionary-globalthis-267c)
 - [Dev.to/JS] [Minimalizing Witness weight for Taproot spend script paths with Huffman&#39;s Algorithm](https://dev.to/eunovo/minimalizing-witness-weight-for-taproot-spend-script-paths-with-huffmans-algorithm-1j74)
 - [Dev.to/JS] [Mastering JavaScript in 100 Days: A Structured Plan for Proficiency](https://dev.to/abhixsh/mastering-javascript-in-100-days-a-structured-plan-for-proficiency-1jbo)
 - [Dev.to/JS] [Optimización del rendimiento de una aplicación Node.js](https://dev.to/fernandochata/optimizacion-del-rendimiento-de-una-aplicacion-nodejs-1nge)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Load Content into a Bootstrap Offcanvas Component with HTMX and Save State as a Hash in the URL](https://dev.to/marcusatlocalhost/how-to-load-content-into-a-bootstrap-offcanvas-component-with-htmx-and-save-state-as-a-hash-in-the-url-27k6)
 - [Dev.to/JS] [Don&#39;t use create-react-app anymore, try these instead](https://dev.to/haidar_ezio/dont-use-create-react-app-anymore-try-these-instead-ack)
 - [Dev.to/JS] [Describing How to Use Constraint Validation API to Validate Forms on the Frontend](https://dev.to/blessingmichael/describing-how-to-use-constraint-validation-api-to-validate-forms-on-the-frontend-10dh)
-- [Dev.to/JS] [Weekend Reading](https://dev.to/sporter/weekend-reading-2269)
-- [Dev.to/JS] [What It Was Like To Code For Amazon &lpar;Part 1&rpar;](https://dev.to/bytebodger/what-it-was-like-to-code-for-amazon-part-1-5034)
-- [Dev.to/JS] [Functional Programming Made Easy with TypeScript](https://dev.to/franciscomendes10866/functional-programming-made-easy-with-typescript-1lmp)
-- [Dev.to/JS] [React App for beginners+: Crypto Finder SPA](https://dev.to/bekbrace/react-app-for-beginners-crypto-finder-spa-3362)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
