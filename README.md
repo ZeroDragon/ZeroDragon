@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Generate tsconfig.json without installing typescript globally](https://dev.to/medaminefh/generate-tsconfigjson-without-installing-typescript-globally-4l34)
+- [Dev.to/JS] [Fetch This! How to Make API Calls So Dope, Even Your Dog Will Be Impressed 🐶🚀](https://dev.to/almonteluis/fetch-this-how-to-make-api-calls-so-dope-even-your-dog-will-be-impressed-60p)
+- [Dev.to/JS] [How To Optimize Your React App’s Performance](https://dev.to/devland/how-to-optimize-your-react-apps-performance-1045)
 - [Dev.to/JS] [JavaScript From Scratch](https://dev.to/lakharashubham007/javascript-from-scratch-3oag)
 - [Dev.to/JS] [About Me](https://dev.to/ij03l/about-me-2i5j)
 - [Dev.to/JS] [Secure your data: cryptography in Nodejs](https://dev.to/kalashin1/secure-your-data-cryptography-in-nodejs-1jeo)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Issue with canvas straight lines](https://dev.to/achifa/issue-with-canvas-straight-lines-4pcp)
 - [Dev.to/JS] [Debugging Your Code: Tips and Tools for Finding and Fixing Bugs in Your Web Applications](https://dev.to/zuzexx/debugging-your-code-tips-and-tools-for-finding-and-fixing-bugs-in-your-web-applications-2ab4)
 - [Dev.to/JS] [A story of let, const, object mutation, and a bug in my code](https://dev.to/this-is-learning/a-story-of-let-const-object-mutation-and-a-bug-in-my-code-1del)
-- [Dev.to/JS] [The Best🔥 Free Notion Template I found for Developer in 2023💥](https://dev.to/ahmed_onour/the-best-free-notion-template-i-found-for-developer-in-2023-45gf)
-- [Dev.to/JS] [Implementing Best Practices for Developing an NPM Package with Automated Testing and Deployment](https://dev.to/msrajawat298/implementing-best-practices-for-developing-an-npm-package-with-automated-testing-and-deployment-1pff)
-- [Dev.to/JS] [Need of useEffect Cleanup Function](https://dev.to/sanchitbajaj02/need-of-useeffect-cleanup-function-3gnb)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
