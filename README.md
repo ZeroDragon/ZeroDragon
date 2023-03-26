@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optimizing React Components: When to Use and Not Use useEffect](https://dev.to/yeshwanthkondraau45/optimizing-react-components-when-to-use-and-not-use-useeffect-e49)
+- [Dev.to/JS] [How the use of JavaScript has transformed how we engage with contemporary technology.](https://dev.to/chidiebereomasi/how-the-use-of-javascript-has-transformed-how-we-engage-with-contemporary-technology-5e1a)
+- [Dev.to/JS] [Create Two RGB cursor following lines using html, CSS and JavaScript](https://dev.to/awbscode/create-two-rgb-cursor-following-lines-using-html-css-and-javascript-11e8)
+- [Dev.to/JS] [IST 256 Week 7 Homework](https://dev.to/rasaighul/ist-256-week-7-homework-311m)
 - [Dev.to/JS] [How to Use Async Typescript 5.0 Decorators](https://dev.to/benank/how-to-use-async-typescript-50-decorators-116j)
 - [Dev.to/JS] [Angular Universal is the Problem, not Angular](https://dev.to/jdgamble555/angular-universal-is-the-problem-not-angular-5801)
 - [Dev.to/JS] [State Uplifting In ReactJS](https://dev.to/abhishek305/state-uplifting-in-reactjs-37lm)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Module Bundlers and all that Jazz ✨](https://dev.to/harshitakanal/javascript-module-bundlers-and-all-that-jazz-3hbi)
 - [Dev.to/JS] [Schemas with Supabase](https://dev.to/guillaumeduhan/schemas-with-supabase-1apn)
 - [Dev.to/JS] [Introduction To The Head Section in HTML](https://dev.to/guonnie/introduction-to-the-head-section-in-html-33nb)
-- [Dev.to/JS] [Folder Arrangement in a Node Js application](https://dev.to/codeagboro/folder-arrangement-in-a-node-js-application-2033)
-- [Dev.to/JS] [8 Picture you need to see before you die](https://dev.to/jon_snow789/8-picture-you-need-to-see-before-you-die-6oi)
-- [Dev.to/JS] [100+ YouTube Channels For Programmers &lpar;20+ Programming Languages Covered&rpar;](https://dev.to/faijanofficial/100-youtube-channels-for-programmers-20-programming-languages-covered-2pik)
-- [Dev.to/JS] [Ultimate Guide to Mutations in Javascript.](https://dev.to/amissah17/ultimate-guide-to-mutations-in-javascript-2a80)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
