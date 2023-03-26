@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Minimalizing Witness weight for Taproot spend script paths with Huffman&#39;s Algorithm](https://dev.to/eunovo/minimalizing-witness-weight-for-taproot-spend-script-paths-with-huffmans-algorithm-1j74)
+- [Dev.to/JS] [Mastering JavaScript in 100 Days: A Structured Plan for Proficiency](https://dev.to/abhixsh/mastering-javascript-in-100-days-a-structured-plan-for-proficiency-1jbo)
 - [Dev.to/JS] [Optimización del rendimiento de una aplicación Node.js](https://dev.to/fernandochata/optimizacion-del-rendimiento-de-una-aplicacion-nodejs-1nge)
 - [Dev.to/JS] [PELISPLUS* - Ver películas &quot;¡Que Viva México!&quot; completa online gratis en Español HD](https://dev.to/habra43076883/pelisplus-ver-peliculas-que-viva-mexico-completa-online-gratis-en-espanol-hd-1ii)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Creating a RESTful API with Node.js](https://dev.to/khaleelhabeeb/a-beginners-guide-to-creating-a-restful-api-with-nodejs-2k27)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What It Was Like To Code For Amazon &lpar;Part 1&rpar;](https://dev.to/bytebodger/what-it-was-like-to-code-for-amazon-part-1-5034)
 - [Dev.to/JS] [Functional Programming Made Easy with TypeScript](https://dev.to/franciscomendes10866/functional-programming-made-easy-with-typescript-1lmp)
 - [Dev.to/JS] [React App for beginners+: Crypto Finder SPA](https://dev.to/bekbrace/react-app-for-beginners-crypto-finder-spa-3362)
-- [Dev.to/JS] [Week 10 - Completing an order](https://dev.to/dadolhay/week-10-completing-an-order-333n)
-- [Dev.to/JS] [Vite+Svelte+Tailwind, basic setup by ChatGPT](https://dev.to/chaosprint/vitesveltetailwind-basic-setup-by-chatgpt-96i)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
