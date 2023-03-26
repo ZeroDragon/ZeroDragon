@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to speed up your web application](https://dev.to/yurich84/how-to-speed-up-your-web-application-52m0)
+- [Dev.to/JS] [Jest &#39;spyOn&#39; and typeScript](https://dev.to/lausuarez02/jest-spyon-and-typescript-1a58)
+- [Dev.to/JS] [Show: Responsive Image Generator - multiple WEBPs and responsive HTML from a single image](https://dev.to/johnfraney/show-responsive-image-generator-multiple-webps-and-responsive-html-from-a-single-image-50ld)
+- [Dev.to/JS] [How to Build a React App with Redux for State Management](https://dev.to/jsandaruwan/how-to-build-a-react-app-with-redux-for-state-management-2j87)
 - [Dev.to/JS] [Upgrade Your Tailwind CSS Experience: Here&#39;s How to Get Started](https://dev.to/mdbootstrap/upgrade-your-tailwind-css-experience-heres-how-to-get-started-5eng)
 - [Dev.to/JS] [React Hooks Best Practices](https://dev.to/aminnairi/react-hooks-best-practices-nkd)
 - [Dev.to/JS] [Using Key Pairs with JWTs](https://dev.to/croccifixio/using-key-pairs-with-jwts-o33)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Crafting Effective Chaos Error Messages](https://dev.to/ayushsoni1010/crafting-effective-chaos-error-messages-i52)
 - [Dev.to/JS] [Overcoming Developer Shiny Object Syndrome: How to Stay Focused on Your Goals](https://dev.to/joepari_codes/overcoming-developer-shiny-object-syndrome-how-to-stay-focused-on-your-goals-2an)
 - [Dev.to/JS] [How to implement undo in your apps](https://dev.to/tahazsh/how-to-implement-undo-in-your-apps-59je)
-- [Dev.to/JS] [What It Was Like To Code For Amazon &lpar;Part 2&rpar;](https://dev.to/bytebodger/what-it-was-like-to-code-for-amazon-part-2-5aon)
-- [Dev.to/JS] [IST 256 Week 11 Homework](https://dev.to/rasaighul/ist-256-week-11-homework-3ndb)
-- [Dev.to/JS] [Different Ways to fetch data from API in Reactjs](https://dev.to/msbalacse/different-ways-to-fetch-data-from-api-in-reactjs-298o)
-- [Dev.to/JS] [Optimizing React Components: When to Use and Not Use useEffect](https://dev.to/yeshwanthkondraau45/optimizing-react-components-when-to-use-and-not-use-useeffect-e49)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
