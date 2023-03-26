@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn Front-end Web Development for Free](https://dev.to/faisaljawedkhan/learn-front-end-web-development-for-free-1emh)
+- [Dev.to/JS] [Hello world](https://dev.to/asawriter/hello-world-182g)
 - [Dev.to/JS] [Issue with canvas straight lines](https://dev.to/achifa/issue-with-canvas-straight-lines-4pcp)
 - [Dev.to/JS] [Debugging Your Code: Tips and Tools for Finding and Fixing Bugs in Your Web Applications](https://dev.to/zuzexx/debugging-your-code-tips-and-tools-for-finding-and-fixing-bugs-in-your-web-applications-2ab4)
 - [Dev.to/JS] [A story of let, const, object mutation, and a bug in my code](https://dev.to/this-is-learning/a-story-of-let-const-object-mutation-and-a-bug-in-my-code-1del)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Dictionary: globalThis](https://dev.to/scottbeeker/javascript-dictionary-globalthis-267c)
 - [Dev.to/JS] [Minimalizing Witness weight for Taproot spend script paths with Huffman&#39;s Algorithm](https://dev.to/eunovo/minimalizing-witness-weight-for-taproot-spend-script-paths-with-huffmans-algorithm-1j74)
 - [Dev.to/JS] [Mastering JavaScript in 100 Days: A Structured Plan for Proficiency](https://dev.to/abhixsh/mastering-javascript-in-100-days-a-structured-plan-for-proficiency-1jbo)
-- [Dev.to/JS] [Optimización del rendimiento de una aplicación Node.js](https://dev.to/fernandochata/optimizacion-del-rendimiento-de-una-aplicacion-nodejs-1nge)
-- [Dev.to/JS] [PELISPLUS* - Ver películas &quot;¡Que Viva México!&quot; completa online gratis en Español HD](https://dev.to/habra43076883/pelisplus-ver-peliculas-que-viva-mexico-completa-online-gratis-en-espanol-hd-1ii)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
