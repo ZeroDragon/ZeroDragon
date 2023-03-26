@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Use Async Typescript 5.0 Decorators](https://dev.to/benank/how-to-use-async-typescript-50-decorators-116j)
+- [Dev.to/JS] [Angular Universal is the Problem, not Angular](https://dev.to/jdgamble555/angular-universal-is-the-problem-not-angular-5801)
+- [Dev.to/JS] [State Uplifting In ReactJS](https://dev.to/abhishek305/state-uplifting-in-reactjs-37lm)
+- [Dev.to/JS] [Kill node_modules 😡](https://dev.to/itskunal/kill-nodemodules-38hp)
+- [Dev.to/JS] [Animate Burger Menu with React-Spring](https://dev.to/pavophilip/animate-burger-menu-with-react-spring-4j1d)
 - [Dev.to/JS] [JavaScript Module Bundlers and all that Jazz ✨](https://dev.to/harshitakanal/javascript-module-bundlers-and-all-that-jazz-3hbi)
 - [Dev.to/JS] [Schemas with Supabase](https://dev.to/guillaumeduhan/schemas-with-supabase-1apn)
 - [Dev.to/JS] [Introduction To The Head Section in HTML](https://dev.to/guonnie/introduction-to-the-head-section-in-html-33nb)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [8 Picture you need to see before you die](https://dev.to/jon_snow789/8-picture-you-need-to-see-before-you-die-6oi)
 - [Dev.to/JS] [100+ YouTube Channels For Programmers &lpar;20+ Programming Languages Covered&rpar;](https://dev.to/faijanofficial/100-youtube-channels-for-programmers-20-programming-languages-covered-2pik)
 - [Dev.to/JS] [Ultimate Guide to Mutations in Javascript.](https://dev.to/amissah17/ultimate-guide-to-mutations-in-javascript-2a80)
-- [Dev.to/JS] [A Directory Of 100+ Tools For Developers &lpar;Tools That Can Save Your 1000s Of Minutes&rpar;](https://dev.to/faijanofficial/a-directory-of-100-tools-for-developers-tools-that-can-save-your-1000s-of-minutes-1d2g)
-- [Dev.to/JS] [Fake C++ Compiler with Node.js - Frontend - Part 3](https://dev.to/gurigraphics/fake-c-compiler-with-nodejs-frontend-part-3-1m18)
-- [Dev.to/JS] [Create a React app with Vite and deploy it on GitHub](https://dev.to/badr21/create-a-react-app-with-vite-and-deploy-it-on-github-224n)
-- [Dev.to/JS] [Fake C++ Compiler with Node.js - Server - Part 2](https://dev.to/gurigraphics/fake-c-compiler-with-nodejs-server-part-2-eag)
-- [Dev.to/JS] [Generate tsconfig.json without installing typescript globally](https://dev.to/medaminefh/generate-tsconfigjson-without-installing-typescript-globally-4l34)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
