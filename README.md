@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Top 11 Web Application Development Companies &amp; firms — Best Developers in 2023](https://dev.to/viplavzenesys/top-11-web-application-development-companies-firms-best-developers-in-2023-1gkp)
-- [Dev.to/JS] [Regex learning by creating URL regex](https://dev.to/prachi09051999/regex-learning-by-creating-url-regex-3g7h)
-- [Dev.to/JS] [The Importance of Website Performance for User Experience](https://dev.to/fritzlolpro/the-importance-of-website-performance-for-user-experience-2808)
-- [Dev.to/JS] [How to Reverse string in JavaScript](https://dev.to/uyaiabasi/how-to-reverse-string-in-javascript-ppj)
-- [Dev.to/JS] [Javascript Object #1](https://dev.to/samr/javascript-object-1-e7b)
-- [Dev.to/JS] [MERN Stack Project Structure: Best Practices](https://dev.to/kingsley/mern-stack-project-structure-best-practices-2adk)
-- [Dev.to/JS] [The development of fintech businesses and how it has altered current practices](https://dev.to/chidiebereomasi/the-development-of-fintech-businesses-and-how-it-has-altered-current-practices-klb)
-- [Dev.to/JS] [A Detailed Explanation on Radio Button Helper and CheckBox Helper in MVC](https://dev.to/ifourtechnolab/a-detailed-explanation-on-radio-button-helper-and-checkbox-helper-in-mvc-3l71)
-- [Dev.to/JS] [Redis with Nodejs](https://dev.to/shubhamb/redis-with-nodejs-dg6)
-- [Dev.to/JS] [Introduction — Understanding JavaScript API Requests and Responses in the Data Fetching lifecycle](https://dev.to/rodcast/introduction-understanding-javascript-api-requests-and-responses-in-the-data-fetching-lifecycle-2f08)
-- [Dev.to/JS] [Advanced Notion Features : Tips and tricks on using advanced features such as databases, formulas, and relations.](https://dev.to/ahmed_onour/advanced-notion-features-tips-and-tricks-on-using-advanced-features-such-as-databases-formulas-and-relations-2pn2)
-- [Dev.to/JS] [Schedule / Timeline for React with Planby 2.2.3 🚀](https://dev.to/kozerkarol/schedule-timeline-for-react-with-planby-223-2djf)
+- [Dev.to/JS] [What do you need to know to become proficient in JavaScript?](https://dev.to/atapas/what-do-you-need-to-know-to-become-proficient-in-javascript-4ggd)
+- [Dev.to/JS] [How Woovi handles complex date generation with Javascript](https://dev.to/daniloab/how-woovi-handles-complex-date-generation-with-javascript-kml)
+- [Dev.to/JS] [Introducing React PropTypes](https://dev.to/asayerio_techblog/introducing-react-proptypes-3m0a)
+- [Dev.to/JS] [React 18 - Transitions](https://dev.to/5ucr4m/react-18-transitions-3ljh)
+- [Dev.to/JS] [A Beginner’s Guide to IndexedDB](https://dev.to/asayerio_techblog/a-beginners-guide-to-indexeddb-10m8)
+- [Dev.to/JS] [Paracetamol.js💊| #211: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-211-explica-este-codigo-javascript-4jic)
+- [Lifehacker] [These PB&amp;J Bars Are Next Level Baked Oats](https://lifehacker.com/these-pb-j-bars-are-next-level-baked-oats-1850263076)
+- [Dev.to/JS] [7 Proven Practices to Boost Development Speed and Project Quality](https://dev.to/dsitdikov/7-proven-practices-to-boost-development-speed-and-project-quality-122k)
+- [Dev.to/JS] [useEffect, what you don&#39;t know](https://dev.to/ifeanyichima/useeffectwhat-you-should-know-jnc)
+- [Dev.to/JS] [JavaScript Cheatsheet](https://dev.to/vedvyas/javascript-cheatsheet-67c)
+- [Dev.to/JS] [Street Programmer: 📸 REST Screenshoot](https://dev.to/darkterminal/rest-screenshoot-2a4o)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Um novo desafio para Sherlock](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-um-novo-desafio-para-sherlock-587c)
+- [Dev.to/JS] [What are the most common programming languages used in machine learning?](https://dev.to/baljeet975/what-are-the-most-common-programming-languages-used-in-machine-learning-3j3l)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell Whether Your Money Is Safe in the Bank](https://lifehacker.com/how-to-tell-whether-your-money-is-safe-in-the-bank-1850253688)
 - [Lifehacker] [Buy a Subway ‘Footlong Pass’ to Get 50% Off All April](https://lifehacker.com/buy-a-subway-footlong-pass-to-get-50-off-all-april-1850248573)
 - [Lifehacker] [Block People From Seeing That You Opened Their Emails](https://lifehacker.com/block-people-from-seeing-that-you-opened-their-emails-1850253379)
-- [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)
-- [Lifehacker] [Xbox Is Having a Massive Sale on Games Right Now](https://lifehacker.com/xbox-is-having-a-massive-sale-on-games-right-now-1850253578)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)<!-- TECH-POSTS:END -->
 
 ---
 
