@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MERN Stack Project Structure: Best Practices](https://dev.to/kingsley/mern-stack-project-structure-best-practices-2adk)
 - [Dev.to/JS] [The development of fintech businesses and how it has altered current practices](https://dev.to/chidiebereomasi/the-development-of-fintech-businesses-and-how-it-has-altered-current-practices-klb)
 - [Dev.to/JS] [A Detailed Explanation on Radio Button Helper and CheckBox Helper in MVC](https://dev.to/ifourtechnolab/a-detailed-explanation-on-radio-button-helper-and-checkbox-helper-in-mvc-3l71)
 - [Dev.to/JS] [Redis with Nodejs](https://dev.to/shubhamb/redis-with-nodejs-dg6)
@@ -30,7 +31,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advanced Notion Features : Tips and tricks on using advanced features such as databases, formulas, and relations.](https://dev.to/ahmed_onour/advanced-notion-features-tips-and-tricks-on-using-advanced-features-such-as-databases-formulas-and-relations-2pn2)
 - [Dev.to/JS] [Schedule / Timeline for React with Planby 2.2.3 🚀](https://dev.to/kozerkarol/schedule-timeline-for-react-with-planby-223-2djf)
 - [Dev.to/JS] [Superpowers with Directives and Dependency Injection: Part 4](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-4-2gi8)
-- [Dev.to/JS] [Red Boost - Read Reviews, Benefits, Side Effects And Ingredients?](https://dev.to/redboostfa14532/red-boost-read-reviews-benefits-side-effects-and-ingredients-4ibk)
 - [Dev.to/JS] [Most Developers Can&#39;t Answer This Question About Anonymous Functions 🤯](https://dev.to/jonrandy/most-developers-cant-answer-this-question-about-anonymous-functions-kfm)
 - [Dev.to/JS] [A flexible nodejs crawler library —— x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-crawler-library-x-crawl-5dcj)
 - [Dev.to/JS] [Building Composable Commerce with Nuxt, Shopify, and Storyblok Crash Course Part Two](https://dev.to/jacobandrewsky/building-composable-commerce-with-nuxt-shopify-and-storyblok-crash-course-part-two-3j9j)
