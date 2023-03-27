@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Custom LinkedIn CV Generator](https://dev.to/saulodias/custom-linkedin-cv-generator-4mbh)
+- [Lifehacker] [Why Your Electrical Stuff Sometimes Stops Working Until You Push the Magic Red Button](https://lifehacker.com/why-your-electrical-stuff-sometimes-stops-working-until-1850263390)
 - [Lifehacker] [How to Prep Potatoes Ahead of Time Without Any Browning](https://lifehacker.com/how-to-prep-potatoes-ahead-of-time-without-any-browning-1850263483)
 - [Dev.to/JS] [Read/Write On Local JSON File With Next.js - part 5.1](https://dev.to/this-is-learning/readwrite-on-local-json-file-with-nextjs-part-51-8gg)
 - [Lifehacker] [Finally, There’s an Easy Way to Reduce Background Noise on Your iPhone](https://lifehacker.com/finally-there-s-an-easy-way-to-reduce-background-noise-1850262365)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useEffect, what you don&#39;t know](https://dev.to/ifeanyichima/useeffectwhat-you-should-know-jnc)
 - [Dev.to/JS] [JavaScript Cheatsheet](https://dev.to/vedvyas/javascript-cheatsheet-67c)
 - [Dev.to/JS] [Street Programmer: 📸 REST Screenshoot](https://dev.to/darkterminal/rest-screenshoot-2a4o)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Um novo desafio para Sherlock](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-um-novo-desafio-para-sherlock-587c)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here Is Your Car&#39;s Spring Cleaning Checklist](https://lifehacker.com/here-is-your-cars-spring-cleaning-checklist-1850253441)
 - [Lifehacker] [Roast Your Broccoli at a Lower Temperature](https://lifehacker.com/roast-your-broccoli-at-a-lower-temperature-1850253028)
 - [Lifehacker] [Why You Should Never Cook Chili Peppers In the Microwave](https://lifehacker.com/why-you-should-never-cook-chili-peppers-in-the-microwav-1850254355)
-- [Lifehacker] [How to Tell Whether Your Money Is Safe in the Bank](https://lifehacker.com/how-to-tell-whether-your-money-is-safe-in-the-bank-1850253688)
-- [Lifehacker] [Buy a Subway ‘Footlong Pass’ to Get 50% Off All April](https://lifehacker.com/buy-a-subway-footlong-pass-to-get-50-off-all-april-1850248573)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell Whether Your Money Is Safe in the Bank](https://lifehacker.com/how-to-tell-whether-your-money-is-safe-in-the-bank-1850253688)<!-- TECH-POSTS:END -->
 
 ---
 
