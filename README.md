@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Array.sort&lpar;&rpar;: defining the sort order](https://dev.to/alvesjessica/arraysort-defining-the-sort-order-4efg)
 - [Dev.to/JS] [How to speed up your web application](https://dev.to/yurich84/how-to-speed-up-your-web-application-52m0)
 - [Dev.to/JS] [Jest &#39;spyOn&#39; and typeScript](https://dev.to/lausuarez02/jest-spyon-and-typescript-1a58)
 - [Dev.to/JS] [Show: Responsive Image Generator - multiple WEBPs and responsive HTML from a single image](https://dev.to/johnfraney/show-responsive-image-generator-multiple-webps-and-responsive-html-from-a-single-image-50ld)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is shadow DOM?](https://dev.to/souravbandyopadhyay/what-is-shadow-dom-1lm3)
 - [Dev.to/JS] [Crafting Effective Chaos Error Messages](https://dev.to/ayushsoni1010/crafting-effective-chaos-error-messages-i52)
 - [Dev.to/JS] [Overcoming Developer Shiny Object Syndrome: How to Stay Focused on Your Goals](https://dev.to/joepari_codes/overcoming-developer-shiny-object-syndrome-how-to-stay-focused-on-your-goals-2an)
-- [Dev.to/JS] [How to implement undo in your apps](https://dev.to/tahazsh/how-to-implement-undo-in-your-apps-59je)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
