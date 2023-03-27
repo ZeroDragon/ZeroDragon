@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Prep Potatoes Ahead of Time Without Any Browning](https://lifehacker.com/how-to-prep-potatoes-ahead-of-time-without-any-browning-1850263483)
+- [Dev.to/JS] [Read/Write On Local JSON File With Next.js - part 5.1](https://dev.to/this-is-learning/readwrite-on-local-json-file-with-nextjs-part-51-8gg)
+- [Lifehacker] [Finally, There’s an Easy Way to Reduce Background Noise on Your iPhone](https://lifehacker.com/finally-there-s-an-easy-way-to-reduce-background-noise-1850262365)
 - [Dev.to/JS] [What do you need to know to become proficient in JavaScript?](https://dev.to/atapas/what-do-you-need-to-know-to-become-proficient-in-javascript-4ggd)
-- [Dev.to/JS] [How Woovi handles complex date generation with Javascript](https://dev.to/daniloab/how-woovi-handles-complex-date-generation-with-javascript-kml)
+- [Dev.to/JS] [How Woovi handles complex date generation with Javascript](https://dev.to/woovi/how-woovi-handles-complex-date-generation-with-javascript-kml)
 - [Dev.to/JS] [Introducing React PropTypes](https://dev.to/asayerio_techblog/introducing-react-proptypes-3m0a)
 - [Dev.to/JS] [React 18 - Transitions](https://dev.to/5ucr4m/react-18-transitions-3ljh)
 - [Dev.to/JS] [A Beginner’s Guide to IndexedDB](https://dev.to/asayerio_techblog/a-beginners-guide-to-indexeddb-10m8)
@@ -35,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Cheatsheet](https://dev.to/vedvyas/javascript-cheatsheet-67c)
 - [Dev.to/JS] [Street Programmer: 📸 REST Screenshoot](https://dev.to/darkterminal/rest-screenshoot-2a4o)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Um novo desafio para Sherlock](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-um-novo-desafio-para-sherlock-587c)
-- [Dev.to/JS] [What are the most common programming languages used in machine learning?](https://dev.to/baljeet975/what-are-the-most-common-programming-languages-used-in-machine-learning-3j3l)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Roast Your Broccoli at a Lower Temperature](https://lifehacker.com/roast-your-broccoli-at-a-lower-temperature-1850253028)
 - [Lifehacker] [Why You Should Never Cook Chili Peppers In the Microwave](https://lifehacker.com/why-you-should-never-cook-chili-peppers-in-the-microwav-1850254355)
 - [Lifehacker] [How to Tell Whether Your Money Is Safe in the Bank](https://lifehacker.com/how-to-tell-whether-your-money-is-safe-in-the-bank-1850253688)
-- [Lifehacker] [Buy a Subway ‘Footlong Pass’ to Get 50% Off All April](https://lifehacker.com/buy-a-subway-footlong-pass-to-get-50-off-all-april-1850248573)
-- [Lifehacker] [Block People From Seeing That You Opened Their Emails](https://lifehacker.com/block-people-from-seeing-that-you-opened-their-emails-1850253379)
-- [Lifehacker] [How to Scrub an App Purchase From Your Apple or Google Account](https://lifehacker.com/how-to-scrub-an-app-purchase-from-your-apple-or-google-1850252395)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Buy a Subway ‘Footlong Pass’ to Get 50% Off All April](https://lifehacker.com/buy-a-subway-footlong-pass-to-get-50-off-all-april-1850248573)<!-- TECH-POSTS:END -->
 
 ---
 
