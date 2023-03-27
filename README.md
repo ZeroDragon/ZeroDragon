@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Safest, Quickest Way to Get Hot Grease Out of a Pan](https://lifehacker.com/the-safest-quickest-way-to-get-hot-grease-out-of-a-pan-1850269466)
+- [Dev.to/JS] [Pokémon JavaScript Game Tutorial with Kaboom.js](https://dev.to/jslegenddev/pokemon-javascript-game-tutorial-with-kaboomjs-3iba)
+- [Dev.to/JS] [Building a Multi-User Chatbot with Langchain and Pinecone in Next.JS](https://dev.to/rschwabco/building-a-multi-user-chatbot-with-langchain-and-pinecone-in-nextjs-1kc8)
 - [Lifehacker] [Make These Spanakopita Pockets for Your Next Snack Dinner](https://lifehacker.com/make-these-spanakopita-pockets-for-your-next-snack-dinn-1850269433)
 - [Lifehacker] [Try Putting Your Clutter in ‘Purgatory’](https://lifehacker.com/try-putting-your-clutter-in-purgatory-1850268872)
 - [Dev.to/JS] [Creating a Telegram News Bot - post 2](https://dev.to/dshaw0004/creating-a-telegram-news-bot-post-2-430b)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Data processing on-demand with Node.js streams](https://dev.to/gftz/data-processing-on-demand-with-nodejs-streams-3265)
 - [Dev.to/JS] [Use Bing to convert API endpoint call-out from Sequential to Parallel](https://dev.to/hardik/call-api-endpoint-sequential-vs-parallel-5ceh)
 - [Dev.to/JS] [Using the Inject Function in Angular 15](https://dev.to/danywalls/using-the-inject-function-in-angular-15-1dee)
-- [Dev.to/JS] [Bugun izohlar haqida gaplashamiz&lt;](https://dev.to/sardorbek20/bugun-izohlar-haqida-gaplashamiz-2iaa)
-- [Dev.to/JS] [How to Create an NFT Viewer with Infura&#39;s New NFT API](https://dev.to/alvinslee/how-to-create-an-nft-viewer-with-infuras-new-nft-api-3pjg)
 - [Lifehacker] [You Should Use ChatGPT for These Mundane Tasks](https://lifehacker.com/you-should-use-chatgpt-for-these-mundane-tasks-1850263749)
 - [Lifehacker] [When Decorating, Stick to the ‘Rule of Three’](https://lifehacker.com/when-decorating-stick-to-the-rule-of-three-1850262726)
 - [Lifehacker] [You Can Get Ring’s Video Doorbell for $39 Right Now](https://lifehacker.com/you-can-get-ring-s-video-doorbell-for-39-right-now-1850263294)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Need to Stop ‘Rage Applying’ for Jobs](https://lifehacker.com/why-you-need-to-stop-rage-applying-for-jobs-1850258293)
 - [Lifehacker] [How to Make Pineapple Pizza Even Better](https://lifehacker.com/how-to-make-pineapple-pizza-even-better-1850258012)
 - [Lifehacker] [Enable This Setting to Squeeze Extra Juice Out of Your Smartphone’s Battery](https://lifehacker.com/enable-this-setting-to-squeeze-extra-juice-out-of-your-1850258011)
-- [Crazy Programmer] [Encapsulation and Decapsulation in Networking](https://www.thecrazyprogrammer.com/2023/03/encapsulation-and-decapsulation-in-networking.html)
-- [Lifehacker] [Why You Should Film Yourself Cleaning, According to Reddit](https://lifehacker.com/why-you-should-film-yourself-cleaning-according-to-red-1850257796)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Encapsulation and Decapsulation in Networking](https://www.thecrazyprogrammer.com/2023/03/encapsulation-and-decapsulation-in-networking.html)<!-- TECH-POSTS:END -->
 
 ---
 
