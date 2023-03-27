@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#ThisMonthInSWA - March 2023](https://dev.to/azure/thismonthinswa-march-2023-gnm)
 - [Dev.to/JS] [how to pass dynamically text at pseudo class in tailwind css - after:content-[?] in react js inside .map](https://dev.to/taiseen/how-to-pass-dynamically-text-at-pseudo-class-in-tailwind-css-aftercontent-in-react-js-inside-map-3gg9)
 - [Dev.to/JS] [Welcome to a common life in an uncommon place!](https://dev.to/iosonoagenda/welcome-to-a-common-life-in-an-uncommon-place-1ea1)
 - [Lifehacker] [The Safest, Quickest Way to Get Hot Grease Out of a Pan](https://lifehacker.com/the-safest-quickest-way-to-get-hot-grease-out-of-a-pan-1850269466)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ChatGPT Goldmine: Top 5 Money-Making Opportunities You Can&#39;t Miss!](https://dev.to/thenomadevel/chatgpt-goldmine-top-5-money-making-opportunities-you-cant-miss-1paj)
 - [Dev.to/JS] [Building a Phone Book Application with Typescript and React](https://dev.to/jamesoyanna/building-a-phone-book-application-with-typescript-and-react-c2g)
 - [Lifehacker] [All the Ways You’re Risking a House Fire &lpar;Without Realizing It&rpar;](https://lifehacker.com/all-the-ways-you-re-risking-a-house-fire-without-reali-1850267641)
-- [Dev.to/JS] [Data processing on-demand with Node.js streams](https://dev.to/gftz/data-processing-on-demand-with-nodejs-streams-3265)
 - [Lifehacker] [You Should Use ChatGPT for These Mundane Tasks](https://lifehacker.com/you-should-use-chatgpt-for-these-mundane-tasks-1850263749)
 - [Lifehacker] [When Decorating, Stick to the ‘Rule of Three’](https://lifehacker.com/when-decorating-stick-to-the-rule-of-three-1850262726)
 - [Lifehacker] [You Can Get Ring’s Video Doorbell for $39 Right Now](https://lifehacker.com/you-can-get-ring-s-video-doorbell-for-39-right-now-1850263294)
