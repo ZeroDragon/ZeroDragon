@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🤯Most Developers Can&#39;t Answer This Question About Anonymous Functions](https://dev.to/jonrandy/most-developers-cant-answer-this-question-about-anonymous-functions-kfm)
+- [Dev.to/JS] [A flexible nodejs crawler library —— x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-crawler-library-x-crawl-5dcj)
+- [Dev.to/JS] [Building Composable Commerce with Nuxt, Shopify, and Storyblok Crash Course Part Two](https://dev.to/jacobandrewsky/building-composable-commerce-with-nuxt-shopify-and-storyblok-crash-course-part-two-3j9j)
+- [Dev.to/JS] [How to Create a Chatbot for Squarespace Website](https://dev.to/devashishmamgain/how-to-create-a-chatbot-for-squarespace-website-440m)
+- [Dev.to/JS] [20 Best JavaScript Frameworks For 2023](https://dev.to/lambdatest/20-best-javascript-frameworks-for-2023-32a2)
 - [Dev.to/JS] [Creating Animated Typing Effects in React using react -typing-animator](https://dev.to/j3rry320/creating-animated-typing-effects-in-react-using-react-typing-animator-2534)
 - [Dev.to/JS] [Conquering the Beast: My Battle with the Complex Recursive Algorithm](https://dev.to/rardooba/conquering-the-beast-my-battle-with-the-complex-recursive-algorithm-10gf)
 - [Dev.to/JS] [What It Was Like To Code For Amazon &lpar;Conclusion&rpar;](https://dev.to/bytebodger/what-it-was-like-to-code-for-amazon-conclusion-3468)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript. Work with clipboard, Ctrl+C Ctrl+V](https://dev.to/alexboyko/javascript-work-with-clipboard-ctrlc-ctrlv-5103)
 - [Dev.to/JS] [Different ways to check if an array includes a value in javascript 🤔🤔](https://dev.to/snangunurikrishna/different-ways-to-check-if-an-array-includes-a-value-in-javascript-4cen)
 - [Dev.to/JS] [Best NDIS community access service provides melbourne](https://dev.to/natashaa002/best-ndis-community-access-service-provides-melbourne-3h77)
-- [Dev.to/JS] [TS: Combining Interfaces and Types](https://dev.to/benhultin/ts-combining-interfaces-and-types-2icg)
-- [Dev.to/JS] [Building a Modern Document Website for React Native Library Like React Native ECharts](https://dev.to/zhiqingchen/building-a-modern-document-website-for-react-native-library-like-react-native-echarts-2aph)
-- [Dev.to/JS] [Segurança e eficiência: por que evitar incluir o arquivo .env no processo de build do projeto](https://dev.to/brduarte/seguranca-e-eficiencia-por-que-evitar-incluir-o-arquivo-env-no-processo-de-build-do-projeto-3j24)
-- [Dev.to/JS] [My takes on EsLint and Prettier against TypeScript](https://dev.to/ndohjapan/my-takes-on-eslint-and-prettier-against-typescript-4p27)
-- [Dev.to/JS] [TS: Defining String Values](https://dev.to/benhultin/ts-defining-string-values-4h4i)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
