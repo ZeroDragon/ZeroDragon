@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The development of fintech businesses and how it has altered current practices](https://dev.to/chidiebereomasi/the-development-of-fintech-businesses-and-how-it-has-altered-current-practices-klb)
+- [Dev.to/JS] [A Detailed Explanation on Radio Button Helper and CheckBox Helper in MVC](https://dev.to/ifourtechnolab/a-detailed-explanation-on-radio-button-helper-and-checkbox-helper-in-mvc-3l71)
+- [Dev.to/JS] [Redis with Nodejs](https://dev.to/shubhamb/redis-with-nodejs-dg6)
+- [Dev.to/JS] [Introduction — Understanding JavaScript API Requests and Responses in the Data Fetching lifecycle](https://dev.to/rodcast/introduction-understanding-javascript-api-requests-and-responses-in-the-data-fetching-lifecycle-2f08)
 - [Dev.to/JS] [Advanced Notion Features : Tips and tricks on using advanced features such as databases, formulas, and relations.](https://dev.to/ahmed_onour/advanced-notion-features-tips-and-tricks-on-using-advanced-features-such-as-databases-formulas-and-relations-2pn2)
 - [Dev.to/JS] [Schedule / Timeline for React with Planby 2.2.3 🚀](https://dev.to/kozerkarol/schedule-timeline-for-react-with-planby-223-2djf)
 - [Dev.to/JS] [Superpowers with Directives and Dependency Injection: Part 4](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-4-2gi8)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A flexible nodejs crawler library —— x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-crawler-library-x-crawl-5dcj)
 - [Dev.to/JS] [Building Composable Commerce with Nuxt, Shopify, and Storyblok Crash Course Part Two](https://dev.to/jacobandrewsky/building-composable-commerce-with-nuxt-shopify-and-storyblok-crash-course-part-two-3j9j)
 - [Dev.to/JS] [How to Create a Chatbot for Squarespace Website](https://dev.to/devashishmamgain/how-to-create-a-chatbot-for-squarespace-website-440m)
-- [Dev.to/JS] [20 Best JavaScript Frameworks For 2023](https://dev.to/lambdatest/20-best-javascript-frameworks-for-2023-32a2)
-- [Dev.to/JS] [Creating Animated Typing Effects in React using react -typing-animator](https://dev.to/j3rry320/creating-animated-typing-effects-in-react-using-react-typing-animator-2534)
-- [Dev.to/JS] [Conquering the Beast: My Battle with the Complex Recursive Algorithm](https://dev.to/rardooba/conquering-the-beast-my-battle-with-the-complex-recursive-algorithm-10gf)
-- [Dev.to/JS] [What It Was Like To Code For Amazon &lpar;Conclusion&rpar;](https://dev.to/bytebodger/what-it-was-like-to-code-for-amazon-conclusion-3468)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
