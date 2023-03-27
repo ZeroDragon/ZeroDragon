@@ -23,23 +23,26 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [That Email Is Not the IRS, It’s a Scam](https://lifehacker.com/that-email-is-not-the-irs-it-s-a-scam-1850268576)
+- [Dev.to/JS] [ChatGPT Goldmine: Top 5 Money-Making Opportunities You Can&#39;t Miss!](https://dev.to/thenomadevel/chatgpt-goldmine-top-5-money-making-opportunities-you-cant-miss-1paj)
+- [Dev.to/JS] [Building a Phone Book Application with Typescript and React](https://dev.to/jamesoyanna/building-a-phone-book-application-with-typescript-and-react-c2g)
+- [Lifehacker] [All the Ways You’re Risking a House Fire &lpar;Without Realizing It&rpar;](https://lifehacker.com/all-the-ways-you-re-risking-a-house-fire-without-reali-1850267641)
+- [Dev.to/JS] [Data processing on-demand with Node.js streams](https://dev.to/gftz/data-processing-on-demand-with-nodejs-streams-3265)
+- [Dev.to/JS] [Use Bing to convert API endpoint call-out from Sequential to Parallel](https://dev.to/hardik/call-api-endpoint-sequential-vs-parallel-5ceh)
+- [Dev.to/JS] [What A Promise !](https://dev.to/rahmanii/what-a-promise--3lpp)
+- [Dev.to/JS] [Using the Inject Function in Angular 15](https://dev.to/danywalls/using-the-inject-function-in-angular-15-1dee)
+- [Dev.to/JS] [Bugun izohlar haqida gaplashamiz&lt;](https://dev.to/sardorbek20/bugun-izohlar-haqida-gaplashamiz-2iaa)
+- [Dev.to/JS] [How to Create an NFT Viewer with Infura&#39;s New NFT API](https://dev.to/alvinslee/how-to-create-an-nft-viewer-with-infuras-new-nft-api-3pjg)
 - [Dev.to/JS] [Condicionales sin else en JavaScript](https://dev.to/asjordi/condicionales-sin-else-en-javascript-1de3)
+- [Lifehacker] [You Should Use ChatGPT for These Mundane Tasks](https://lifehacker.com/you-should-use-chatgpt-for-these-mundane-tasks-1850263749)
 - [Dev.to/JS] [How to Implement Session Management in Node.js Applications](https://dev.to/folasayosamuel/how-to-implement-session-management-in-nodejs-applications-5emm)
 - [Lifehacker] [When Decorating, Stick to the ‘Rule of Three’](https://lifehacker.com/when-decorating-stick-to-the-rule-of-three-1850262726)
 - [Dev.to/JS] [Functions in JavaScript](https://dev.to/makstyle119/functions-in-javascript-pb2)
 - [Dev.to/JS] [How to use Speech-to-text API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-speech-to-text-api-with-javascript-in-5-minutes-58ne)
-- [Dev.to/JS] [Animation -17 : Staggered Stair Loading Animation](https://dev.to/jon_snow789/animation-17-staggered-stair-loading-animation-1jap)
 - [Lifehacker] [You Can Get Ring’s Video Doorbell for $39 Right Now](https://lifehacker.com/you-can-get-ring-s-video-doorbell-for-39-right-now-1850263294)
-- [Dev.to/JS] [Custom LinkedIn CV Generator](https://dev.to/saulodias/custom-linkedin-cv-generator-4mbh)
 - [Lifehacker] [Why Your Electrical Stuff Sometimes Stops Working Until You Push the Magic Red Button](https://lifehacker.com/why-your-electrical-stuff-sometimes-stops-working-until-1850263390)
 - [Lifehacker] [How to Prep Potatoes Ahead of Time Without Any Browning](https://lifehacker.com/how-to-prep-potatoes-ahead-of-time-without-any-browning-1850263483)
-- [Dev.to/JS] [Read/Write On Local JSON File With Next.js - part 5.1](https://dev.to/this-is-learning/readwrite-on-local-json-file-with-nextjs-part-51-8gg)
 - [Lifehacker] [Finally, There’s an Easy Way to Reduce Background Noise on Your iPhone](https://lifehacker.com/finally-there-s-an-easy-way-to-reduce-background-noise-1850262365)
-- [Dev.to/JS] [What do you need to know to become proficient in JavaScript?](https://dev.to/atapas/what-do-you-need-to-know-to-become-proficient-in-javascript-4ggd)
-- [Dev.to/JS] [How Woovi handles complex date generation with Javascript](https://dev.to/woovi/how-woovi-handles-complex-date-generation-with-javascript-kml)
-- [Dev.to/JS] [Introducing React PropTypes](https://dev.to/asayerio_techblog/introducing-react-proptypes-3m0a)
-- [Dev.to/JS] [React 18 - Transitions](https://dev.to/5ucr4m/react-18-transitions-3ljh)
-- [Dev.to/JS] [A Beginner’s Guide to IndexedDB](https://dev.to/asayerio_techblog/a-beginners-guide-to-indexeddb-10m8)
 - [Lifehacker] [These PB&amp;J Bars Are Next Level Baked Oats](https://lifehacker.com/these-pb-j-bars-are-next-level-baked-oats-1850263076)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Just Because You Don’t Use a Bidet Doesn’t Mean Your Butt Is Covered in Poop](https://lifehacker.com/just-because-you-don-t-use-a-bidet-doesn-t-mean-your-bu-1850254040)
 - [Lifehacker] [Stop Hackers From Taking Over Your Android With Just Your Phone Number](https://lifehacker.com/stop-hackers-from-taking-over-your-android-with-just-yo-1850256819)
 - [Lifehacker] [How to Avoid These Sophisticated Employment Scams](https://lifehacker.com/how-to-avoid-these-sophisticated-employment-scams-1850254679)
-- [Lifehacker] [Dry Roast Some Nuts for a Better Bowl of Cereal](https://lifehacker.com/dry-roast-some-nuts-for-a-better-bowl-of-cereal-1850254048)
-- [Lifehacker] [How to Start Growing Your Own Edible Mushrooms](https://lifehacker.com/how-to-start-growing-your-own-edible-mushrooms-1850255627)
-- [Lifehacker] [Here Is Your Car&#39;s Spring Cleaning Checklist](https://lifehacker.com/here-is-your-cars-spring-cleaning-checklist-1850253441)
-- [Lifehacker] [Roast Your Broccoli at a Lower Temperature](https://lifehacker.com/roast-your-broccoli-at-a-lower-temperature-1850253028)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Dry Roast Some Nuts for a Better Bowl of Cereal](https://lifehacker.com/dry-roast-some-nuts-for-a-better-bowl-of-cereal-1850254048)<!-- TECH-POSTS:END -->
 
 ---
 
