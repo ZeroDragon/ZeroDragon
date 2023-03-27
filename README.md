@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating Animated Typing Effects in React using react -typing-animator](https://dev.to/j3rry320/creating-animated-typing-effects-in-react-using-react-typing-animator-2534)
+- [Dev.to/JS] [Conquering the Beast: My Battle with the Complex Recursive Algorithm](https://dev.to/rardooba/conquering-the-beast-my-battle-with-the-complex-recursive-algorithm-10gf)
+- [Dev.to/JS] [What It Was Like To Code For Amazon &lpar;Conclusion&rpar;](https://dev.to/bytebodger/what-it-was-like-to-code-for-amazon-conclusion-3468)
+- [Dev.to/JS] [Learn How to Test Serverless Applications](https://dev.to/pavanbelagatti/learn-how-to-test-serverless-applications-1bib)
 - [Dev.to/JS] [JavaScript. Work with clipboard, Ctrl+C Ctrl+V](https://dev.to/alexboyko/javascript-work-with-clipboard-ctrlc-ctrlv-5103)
 - [Dev.to/JS] [Different ways to check if an array includes a value in javascript 🤔🤔](https://dev.to/snangunurikrishna/different-ways-to-check-if-an-array-includes-a-value-in-javascript-4cen)
 - [Dev.to/JS] [Best NDIS community access service provides melbourne](https://dev.to/natashaa002/best-ndis-community-access-service-provides-melbourne-3h77)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Segurança e eficiência: por que evitar incluir o arquivo .env no processo de build do projeto](https://dev.to/brduarte/seguranca-e-eficiencia-por-que-evitar-incluir-o-arquivo-env-no-processo-de-build-do-projeto-3j24)
 - [Dev.to/JS] [My takes on EsLint and Prettier against TypeScript](https://dev.to/ndohjapan/my-takes-on-eslint-and-prettier-against-typescript-4p27)
 - [Dev.to/JS] [TS: Defining String Values](https://dev.to/benhultin/ts-defining-string-values-4h4i)
-- [Dev.to/JS] [Array.sort&lpar;&rpar;: defining the sort order](https://dev.to/alvesjessica/arraysort-defining-the-sort-order-4efg)
-- [Dev.to/JS] [How to speed up your web application](https://dev.to/yurich84/how-to-speed-up-your-web-application-52m0)
-- [Dev.to/JS] [Jest &#39;spyOn&#39; and typeScript](https://dev.to/lausuarez02/jest-spyon-and-typescript-1a58)
-- [Dev.to/JS] [Show: Responsive Image Generator - multiple WEBPs and responsive HTML from a single image](https://dev.to/johnfraney/show-responsive-image-generator-multiple-webps-and-responsive-html-from-a-single-image-50ld)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
