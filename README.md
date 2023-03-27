@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make These Spanakopita Pockets for Your Next Snack Dinner](https://lifehacker.com/make-these-spanakopita-pockets-for-your-next-snack-dinn-1850269433)
+- [Lifehacker] [Try Putting Your Clutter in ‘Purgatory’](https://lifehacker.com/try-putting-your-clutter-in-purgatory-1850268872)
+- [Dev.to/JS] [Creating a Telegram News Bot - post 2](https://dev.to/dshaw0004/creating-a-telegram-news-bot-post-2-430b)
+- [Dev.to/JS] [How to Create a Discord Bot to Get GitHub Repository Issues](https://dev.to/daniloab/how-to-create-a-discord-bot-to-get-github-repository-issues-2646)
+- [Lifehacker] [Take These Steps to Heal Your Relationship With Money](https://lifehacker.com/take-these-steps-to-heal-your-relationship-with-money-1850269034)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, Mar 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-4-mar-2023-2cia)
 - [Dev.to/JS] [What A Promise ! &#39;1st&#39;](https://dev.to/rahmanii/what-a-promise-1st-4dam)
 - [Lifehacker] [The Best New iPhone Features in iOS 16.4](https://lifehacker.com/the-best-new-iphone-features-in-ios-16-4-1850268879)
@@ -36,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using the Inject Function in Angular 15](https://dev.to/danywalls/using-the-inject-function-in-angular-15-1dee)
 - [Dev.to/JS] [Bugun izohlar haqida gaplashamiz&lt;](https://dev.to/sardorbek20/bugun-izohlar-haqida-gaplashamiz-2iaa)
 - [Dev.to/JS] [How to Create an NFT Viewer with Infura&#39;s New NFT API](https://dev.to/alvinslee/how-to-create-an-nft-viewer-with-infuras-new-nft-api-3pjg)
-- [Dev.to/JS] [Condicionales sin else en JavaScript](https://dev.to/asjordi/condicionales-sin-else-en-javascript-1de3)
 - [Lifehacker] [You Should Use ChatGPT for These Mundane Tasks](https://lifehacker.com/you-should-use-chatgpt-for-these-mundane-tasks-1850263749)
-- [Dev.to/JS] [How to Implement Session Management in Node.js Applications](https://dev.to/folasayosamuel/how-to-implement-session-management-in-nodejs-applications-5emm)
 - [Lifehacker] [When Decorating, Stick to the ‘Rule of Three’](https://lifehacker.com/when-decorating-stick-to-the-rule-of-three-1850262726)
 - [Lifehacker] [You Can Get Ring’s Video Doorbell for $39 Right Now](https://lifehacker.com/you-can-get-ring-s-video-doorbell-for-39-right-now-1850263294)
 - [Lifehacker] [Why Your Electrical Stuff Sometimes Stops Working Until You Push the Magic Red Button](https://lifehacker.com/why-your-electrical-stuff-sometimes-stops-working-until-1850263390)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Pineapple Pizza Even Better](https://lifehacker.com/how-to-make-pineapple-pizza-even-better-1850258012)
 - [Lifehacker] [Enable This Setting to Squeeze Extra Juice Out of Your Smartphone’s Battery](https://lifehacker.com/enable-this-setting-to-squeeze-extra-juice-out-of-your-1850258011)
 - [Crazy Programmer] [Encapsulation and Decapsulation in Networking](https://www.thecrazyprogrammer.com/2023/03/encapsulation-and-decapsulation-in-networking.html)
-- [Lifehacker] [Why You Should Film Yourself Cleaning, According to Reddit](https://lifehacker.com/why-you-should-film-yourself-cleaning-according-to-red-1850257796)
-- [Lifehacker] [Just Because You Don’t Use a Bidet Doesn’t Mean Your Butt Is Covered in Poop](https://lifehacker.com/just-because-you-don-t-use-a-bidet-doesn-t-mean-your-bu-1850254040)
-- [Lifehacker] [Stop Hackers From Taking Over Your Android With Just Your Phone Number](https://lifehacker.com/stop-hackers-from-taking-over-your-android-with-just-yo-1850256819)
-- [Lifehacker] [How to Avoid These Sophisticated Employment Scams](https://lifehacker.com/how-to-avoid-these-sophisticated-employment-scams-1850254679)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Film Yourself Cleaning, According to Reddit](https://lifehacker.com/why-you-should-film-yourself-cleaning-according-to-red-1850257796)<!-- TECH-POSTS:END -->
 
 ---
 
