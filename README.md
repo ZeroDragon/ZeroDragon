@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Modern Document Website for React Native Library Like React Native ECharts](https://dev.to/zhiqingchen/building-a-modern-document-website-for-react-native-library-like-react-native-echarts-2aph)
+- [Dev.to/JS] [Segurança e eficiência: por que evitar incluir o arquivo .env no processo de build do projeto](https://dev.to/brduarte/seguranca-e-eficiencia-por-que-evitar-incluir-o-arquivo-env-no-processo-de-build-do-projeto-3j24)
 - [Dev.to/JS] [My takes on EsLint and Prettier against TypeScript](https://dev.to/ndohjapan/my-takes-on-eslint-and-prettier-against-typescript-4p27)
 - [Dev.to/JS] [TS: Defining String Values](https://dev.to/benhultin/ts-defining-string-values-4h4i)
 - [Dev.to/JS] [Array.sort&lpar;&rpar;: defining the sort order](https://dev.to/alvesjessica/arraysort-defining-the-sort-order-4efg)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Upgrade Your Tailwind CSS Experience: Here&#39;s How to Get Started](https://dev.to/mdbootstrap/upgrade-your-tailwind-css-experience-heres-how-to-get-started-5eng)
 - [Dev.to/JS] [React Hooks Best Practices](https://dev.to/aminnairi/react-hooks-best-practices-nkd)
 - [Dev.to/JS] [Using Key Pairs with JWTs](https://dev.to/croccifixio/using-key-pairs-with-jwts-o33)
-- [Dev.to/JS] [Processing 13 million rows from a CSV file in the Browser &lpar;Without freezing the screen&rpar;](https://dev.to/wesleymreng7/processing-13-million-rows-from-a-csv-file-in-the-browser-without-freezing-the-screen-1nih)
-- [Dev.to/JS] [What is shadow DOM?](https://dev.to/souravbandyopadhyay/what-is-shadow-dom-1lm3)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
