@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript. Work with clipboard, Ctrl+C Ctrl+V](https://dev.to/alexboyko/javascript-work-with-clipboard-ctrlc-ctrlv-5103)
+- [Dev.to/JS] [Different ways to check if an array includes a value in javascript 🤔🤔](https://dev.to/snangunurikrishna/different-ways-to-check-if-an-array-includes-a-value-in-javascript-4cen)
+- [Dev.to/JS] [Best NDIS community access service provides melbourne](https://dev.to/natashaa002/best-ndis-community-access-service-provides-melbourne-3h77)
 - [Dev.to/JS] [TS: Combining Interfaces and Types](https://dev.to/benhultin/ts-combining-interfaces-and-types-2icg)
 - [Dev.to/JS] [Building a Modern Document Website for React Native Library Like React Native ECharts](https://dev.to/zhiqingchen/building-a-modern-document-website-for-react-native-library-like-react-native-echarts-2aph)
 - [Dev.to/JS] [Segurança e eficiência: por que evitar incluir o arquivo .env no processo de build do projeto](https://dev.to/brduarte/seguranca-e-eficiencia-por-que-evitar-incluir-o-arquivo-env-no-processo-de-build-do-projeto-3j24)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to speed up your web application](https://dev.to/yurich84/how-to-speed-up-your-web-application-52m0)
 - [Dev.to/JS] [Jest &#39;spyOn&#39; and typeScript](https://dev.to/lausuarez02/jest-spyon-and-typescript-1a58)
 - [Dev.to/JS] [Show: Responsive Image Generator - multiple WEBPs and responsive HTML from a single image](https://dev.to/johnfraney/show-responsive-image-generator-multiple-webps-and-responsive-html-from-a-single-image-50ld)
-- [Dev.to/JS] [How to Build a React App with Redux for State Management](https://dev.to/jsandaruwan/how-to-build-a-react-app-with-redux-for-state-management-2j87)
-- [Dev.to/JS] [Upgrade Your Tailwind CSS Experience: Here&#39;s How to Get Started](https://dev.to/mdbootstrap/upgrade-your-tailwind-css-experience-heres-how-to-get-started-5eng)
-- [Dev.to/JS] [React Hooks Best Practices](https://dev.to/aminnairi/react-hooks-best-practices-nkd)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
