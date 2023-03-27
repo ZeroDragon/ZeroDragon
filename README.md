@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TS: Combining Interfaces and Types](https://dev.to/benhultin/ts-combining-interfaces-and-types-2icg)
 - [Dev.to/JS] [Building a Modern Document Website for React Native Library Like React Native ECharts](https://dev.to/zhiqingchen/building-a-modern-document-website-for-react-native-library-like-react-native-echarts-2aph)
 - [Dev.to/JS] [Segurança e eficiência: por que evitar incluir o arquivo .env no processo de build do projeto](https://dev.to/brduarte/seguranca-e-eficiencia-por-que-evitar-incluir-o-arquivo-env-no-processo-de-build-do-projeto-3j24)
 - [Dev.to/JS] [My takes on EsLint and Prettier against TypeScript](https://dev.to/ndohjapan/my-takes-on-eslint-and-prettier-against-typescript-4p27)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build a React App with Redux for State Management](https://dev.to/jsandaruwan/how-to-build-a-react-app-with-redux-for-state-management-2j87)
 - [Dev.to/JS] [Upgrade Your Tailwind CSS Experience: Here&#39;s How to Get Started](https://dev.to/mdbootstrap/upgrade-your-tailwind-css-experience-heres-how-to-get-started-5eng)
 - [Dev.to/JS] [React Hooks Best Practices](https://dev.to/aminnairi/react-hooks-best-practices-nkd)
-- [Dev.to/JS] [Using Key Pairs with JWTs](https://dev.to/croccifixio/using-key-pairs-with-jwts-o33)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
