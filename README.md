@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [🤯Most Developers Can&#39;t Answer This Question About Anonymous Functions](https://dev.to/jonrandy/most-developers-cant-answer-this-question-about-anonymous-functions-kfm)
+- [Dev.to/JS] [Advanced Notion Features : Tips and tricks on using advanced features such as databases, formulas, and relations.](https://dev.to/ahmed_onour/advanced-notion-features-tips-and-tricks-on-using-advanced-features-such-as-databases-formulas-and-relations-2pn2)
+- [Dev.to/JS] [Schedule / Timeline for React with Planby 2.2.3 🚀](https://dev.to/kozerkarol/schedule-timeline-for-react-with-planby-223-2djf)
+- [Dev.to/JS] [Superpowers with Directives and Dependency Injection: Part 4](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-4-2gi8)
+- [Dev.to/JS] [Red Boost - Read Reviews, Benefits, Side Effects And Ingredients?](https://dev.to/redboostfa14532/red-boost-read-reviews-benefits-side-effects-and-ingredients-4ibk)
+- [Dev.to/JS] [Most Developers Can&#39;t Answer This Question About Anonymous Functions 🤯](https://dev.to/jonrandy/most-developers-cant-answer-this-question-about-anonymous-functions-kfm)
 - [Dev.to/JS] [A flexible nodejs crawler library —— x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-crawler-library-x-crawl-5dcj)
 - [Dev.to/JS] [Building Composable Commerce with Nuxt, Shopify, and Storyblok Crash Course Part Two](https://dev.to/jacobandrewsky/building-composable-commerce-with-nuxt-shopify-and-storyblok-crash-course-part-two-3j9j)
 - [Dev.to/JS] [How to Create a Chatbot for Squarespace Website](https://dev.to/devashishmamgain/how-to-create-a-chatbot-for-squarespace-website-440m)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating Animated Typing Effects in React using react -typing-animator](https://dev.to/j3rry320/creating-animated-typing-effects-in-react-using-react-typing-animator-2534)
 - [Dev.to/JS] [Conquering the Beast: My Battle with the Complex Recursive Algorithm](https://dev.to/rardooba/conquering-the-beast-my-battle-with-the-complex-recursive-algorithm-10gf)
 - [Dev.to/JS] [What It Was Like To Code For Amazon &lpar;Conclusion&rpar;](https://dev.to/bytebodger/what-it-was-like-to-code-for-amazon-conclusion-3468)
-- [Dev.to/JS] [Learn How to Test Serverless Applications](https://dev.to/pavanbelagatti/learn-how-to-test-serverless-applications-1bib)
-- [Dev.to/JS] [JavaScript. Work with clipboard, Ctrl+C Ctrl+V](https://dev.to/alexboyko/javascript-work-with-clipboard-ctrlc-ctrlv-5103)
-- [Dev.to/JS] [Different ways to check if an array includes a value in javascript 🤔🤔](https://dev.to/snangunurikrishna/different-ways-to-check-if-an-array-includes-a-value-in-javascript-4cen)
-- [Dev.to/JS] [Best NDIS community access service provides melbourne](https://dev.to/natashaa002/best-ndis-community-access-service-provides-melbourne-3h77)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
