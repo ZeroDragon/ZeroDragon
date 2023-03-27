@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Condicionales sin else en JavaScript](https://dev.to/asjordi/condicionales-sin-else-en-javascript-1de3)
+- [Dev.to/JS] [How to Implement Session Management in Node.js Applications](https://dev.to/folasayosamuel/how-to-implement-session-management-in-nodejs-applications-5emm)
+- [Lifehacker] [When Decorating, Stick to the ‘Rule of Three’](https://lifehacker.com/when-decorating-stick-to-the-rule-of-three-1850262726)
+- [Dev.to/JS] [Functions in JavaScript](https://dev.to/makstyle119/functions-in-javascript-pb2)
+- [Dev.to/JS] [How to use Speech-to-text API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-speech-to-text-api-with-javascript-in-5-minutes-58ne)
+- [Dev.to/JS] [Animation -17 : Staggered Stair Loading Animation](https://dev.to/jon_snow789/animation-17-staggered-stair-loading-animation-1jap)
+- [Lifehacker] [You Can Get Ring’s Video Doorbell for $39 Right Now](https://lifehacker.com/you-can-get-ring-s-video-doorbell-for-39-right-now-1850263294)
 - [Dev.to/JS] [Custom LinkedIn CV Generator](https://dev.to/saulodias/custom-linkedin-cv-generator-4mbh)
 - [Lifehacker] [Why Your Electrical Stuff Sometimes Stops Working Until You Push the Magic Red Button](https://lifehacker.com/why-your-electrical-stuff-sometimes-stops-working-until-1850263390)
 - [Lifehacker] [How to Prep Potatoes Ahead of Time Without Any Browning](https://lifehacker.com/how-to-prep-potatoes-ahead-of-time-without-any-browning-1850263483)
@@ -33,12 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing React PropTypes](https://dev.to/asayerio_techblog/introducing-react-proptypes-3m0a)
 - [Dev.to/JS] [React 18 - Transitions](https://dev.to/5ucr4m/react-18-transitions-3ljh)
 - [Dev.to/JS] [A Beginner’s Guide to IndexedDB](https://dev.to/asayerio_techblog/a-beginners-guide-to-indexeddb-10m8)
-- [Dev.to/JS] [Paracetamol.js💊| #211: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-211-explica-este-codigo-javascript-4jic)
 - [Lifehacker] [These PB&amp;J Bars Are Next Level Baked Oats](https://lifehacker.com/these-pb-j-bars-are-next-level-baked-oats-1850263076)
-- [Dev.to/JS] [7 Proven Practices to Boost Development Speed and Project Quality](https://dev.to/dsitdikov/7-proven-practices-to-boost-development-speed-and-project-quality-122k)
-- [Dev.to/JS] [useEffect, what you don&#39;t know](https://dev.to/ifeanyichima/useeffectwhat-you-should-know-jnc)
-- [Dev.to/JS] [JavaScript Cheatsheet](https://dev.to/vedvyas/javascript-cheatsheet-67c)
-- [Dev.to/JS] [Street Programmer: 📸 REST Screenshoot](https://dev.to/darkterminal/rest-screenshoot-2a4o)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Dry Roast Some Nuts for a Better Bowl of Cereal](https://lifehacker.com/dry-roast-some-nuts-for-a-better-bowl-of-cereal-1850254048)
 - [Lifehacker] [How to Start Growing Your Own Edible Mushrooms](https://lifehacker.com/how-to-start-growing-your-own-edible-mushrooms-1850255627)
 - [Lifehacker] [Here Is Your Car&#39;s Spring Cleaning Checklist](https://lifehacker.com/here-is-your-cars-spring-cleaning-checklist-1850253441)
-- [Lifehacker] [Roast Your Broccoli at a Lower Temperature](https://lifehacker.com/roast-your-broccoli-at-a-lower-temperature-1850253028)
-- [Lifehacker] [Why You Should Never Cook Chili Peppers In the Microwave](https://lifehacker.com/why-you-should-never-cook-chili-peppers-in-the-microwav-1850254355)
-- [Lifehacker] [How to Tell Whether Your Money Is Safe in the Bank](https://lifehacker.com/how-to-tell-whether-your-money-is-safe-in-the-bank-1850253688)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Roast Your Broccoli at a Lower Temperature](https://lifehacker.com/roast-your-broccoli-at-a-lower-temperature-1850253028)<!-- TECH-POSTS:END -->
 
 ---
 
