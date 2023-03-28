@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Multi-window JavaScript App](https://dev.to/devrelieffred/multi-window-javascript-app-326d)
 - [Dev.to/JS] [GPT is my new BFF &lpar;Backend for Frontends&rpar;](https://dev.to/sylvhama/gpt-is-my-new-bff-backend-for-frontends-1g03)
 - [Dev.to/JS] [Node JS Custom Streams Part 2](https://dev.to/thebridge2/node-js-custom-streams-part-2-57dn)
 - [Dev.to/JS] [Intro to Binary with NodeJS Buffer examples](https://dev.to/thebridge2/intro-to-binary-with-nodejs-buffer-examples-c0k)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Here is the developer portfolio template that will get you hired](https://dev.to/umutyesildal/here-is-the-developer-portfolio-template-that-will-get-you-hired-2dbp)
 - [Dev.to/JS] [Paracetamol.js💊| #212: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-212-explica-este-codigo-javascript-6f1)
 - [Dev.to/JS] [JavaScript 🐲 challenges_3 ⚔️](https://dev.to/mahmoudessam/javascript-challenges3-1dpk)
-- [Dev.to/JS] [TNT Stack.](https://dev.to/gautamvaishnav/tnt-stack-3o6d)
 - [Lifehacker] [Why You Should Start Reading a Book Before You Leave for a Trip](https://lifehacker.com/why-you-should-start-reading-a-book-before-you-leave-fo-1850273384)
 - [Lifehacker] [The &#39;Real&#39; History of April Fools&#39; Day &lpar;and Why It Isn’t Funny Anymore&rpar;](https://lifehacker.com/the-real-history-of-april-fool-s-day-and-why-it-isn-t-1850271968)
 - [Lifehacker] [You Should Waffle Some Mozzarella Sticks](https://lifehacker.com/you-should-waffle-some-mozzarella-sticks-1850270871)
