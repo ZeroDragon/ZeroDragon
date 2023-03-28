@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Need a help...](https://dev.to/malshan222/need-a-help-1mcp)
+- [Dev.to/JS] [🔎 What is Lexical Scope in JavaScript?](https://dev.to/catherineisonline/what-is-lexical-scope-in-javascript-4gi8)
+- [Dev.to/JS] [Creating Moody - A minimalistic Brown noise player for focusing](https://dev.to/gewzk/creating-moody-a-minimalistic-brown-noise-player-for-focusing-32mc)
 - [Dev.to/JS] [Pipes! Pipes everywhere!](https://dev.to/padcom/pipes-pipes-everywhere-2moo)
 - [Dev.to/JS] [Understanding the Benefits of &quot;Quirky&quot; Web Languages](https://dev.to/ingosteinke/understanding-the-benefits-of-quirky-web-languages-24o3)
 - [Dev.to/JS] [The Best Ways to Check if a Value is a Number in JavaScript](https://dev.to/dhairyashah/the-best-ways-to-check-if-a-value-is-a-number-in-javascript-51ml)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [We Created a Low-Code IDE for Rapidly Building MySQL Web Applications](https://dev.to/fivedotco/we-created-a-low-code-ide-for-rapidly-building-mysql-web-applications-415h)
 - [Dev.to/JS] [Top AngularJS Development Compnies](https://dev.to/leahgreene67/top-angularjs-development-compnies-25bi)
 - [Dev.to/JS] [Build your own CMS using low-code](https://dev.to/tooljet/build-your-own-cms-using-low-code-2lgo)
-- [Dev.to/JS] [Interface Extensions/Merging in TypeScript](https://dev.to/tomoy/interface-extendingmerging-in-typescript-3fjb)
-- [Dev.to/JS] [SyntaxError: Unexpected token &#39;export&#39; in JavaScript](https://dev.to/coder9/syntaxerror-unexpected-token-export-in-javascript-3emf)
-- [Dev.to/JS] [Top 5 MERN STACK projects to improve your practical understanding🚀](https://dev.to/documatic/top-5-mern-stack-projects-to-improve-your-practical-understanding-554k)
 - [Lifehacker] [The Safest, Quickest Way to Get Hot Grease Out of a Pan](https://lifehacker.com/the-safest-quickest-way-to-get-hot-grease-out-of-a-pan-1850269466)
 - [Lifehacker] [Make These Spanakopita Pockets for Your Next Snack Dinner](https://lifehacker.com/make-these-spanakopita-pockets-for-your-next-snack-dinn-1850269433)
 - [Lifehacker] [Try Putting Your Clutter in ‘Purgatory’](https://lifehacker.com/try-putting-your-clutter-in-purgatory-1850268872)
