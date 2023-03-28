@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 10 Cross-Platform App Development Frameworks in 2023](https://dev.to/christinek989/top-10-cross-platform-app-development-frameworks-in-2023-4c5d)
+- [Dev.to/JS] [Notion Revaluation : How Notion is Revolutionizing the Way We Collaborate and Manage Projects](https://dev.to/ahmed_onour/notion-revaluation-how-notion-is-revolutionizing-the-way-we-collaborate-and-manage-projects-27fk)
+- [Dev.to/JS] [Comparing Bubble Sort with Selection Sort](https://dev.to/blessingmichael/comparing-bubble-sort-with-selection-sort-2iki)
 - [Dev.to/JS] [Need a help...](https://dev.to/malshan222/need-a-help-1mcp)
 - [Dev.to/JS] [🔎 What is Lexical Scope in JavaScript?](https://dev.to/catherineisonline/what-is-lexical-scope-in-javascript-4gi8)
 - [Dev.to/JS] [Creating Moody - A minimalistic Brown noise player for focusing](https://dev.to/gewzk/creating-moody-a-minimalistic-brown-noise-player-for-focusing-32mc)
+- [Dev.to/JS] [Don&#39;t misunderstand the Array.【JavaScript】](https://dev.to/yuya0114/dont-misunderstand-the-arrayjavascript-2hec)
 - [Dev.to/JS] [Pipes! Pipes everywhere!](https://dev.to/padcom/pipes-pipes-everywhere-2moo)
 - [Dev.to/JS] [Understanding the Benefits of &quot;Quirky&quot; Web Languages](https://dev.to/ingosteinke/understanding-the-benefits-of-quirky-web-languages-24o3)
 - [Dev.to/JS] [The Best Ways to Check if a Value is a Number in JavaScript](https://dev.to/dhairyashah/the-best-ways-to-check-if-a-value-is-a-number-in-javascript-51ml)
 - [Dev.to/JS] [JavaScript Package Managers: NPM, YARN And PNPM](https://dev.to/ibrahimraimi/javascript-package-managers-npm-yarn-and-pnpm-5e9f)
 - [Dev.to/JS] [Alpilean - Weight Loss Solution, Reviews, Benefits, Price And Results?](https://dev.to/alpileanbu37061/alpilean-weight-loss-solution-reviews-benefits-price-and-results-2ich)
-- [Dev.to/JS] [Discovering package.json](https://dev.to/roerohan/discovering-packagejson-5166)
-- [Dev.to/JS] [We Created a Low-Code IDE for Rapidly Building MySQL Web Applications](https://dev.to/fivedotco/we-created-a-low-code-ide-for-rapidly-building-mysql-web-applications-415h)
-- [Dev.to/JS] [Top AngularJS Development Compnies](https://dev.to/leahgreene67/top-angularjs-development-compnies-25bi)
-- [Dev.to/JS] [Build your own CMS using low-code](https://dev.to/tooljet/build-your-own-cms-using-low-code-2lgo)
 - [Lifehacker] [The Safest, Quickest Way to Get Hot Grease Out of a Pan](https://lifehacker.com/the-safest-quickest-way-to-get-hot-grease-out-of-a-pan-1850269466)
 - [Lifehacker] [Make These Spanakopita Pockets for Your Next Snack Dinner](https://lifehacker.com/make-these-spanakopita-pockets-for-your-next-snack-dinn-1850269433)
 - [Lifehacker] [Try Putting Your Clutter in ‘Purgatory’](https://lifehacker.com/try-putting-your-clutter-in-purgatory-1850268872)
