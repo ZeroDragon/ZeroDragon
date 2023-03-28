@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Alpilean - Weight Loss Solution, Reviews, Benefits, Price And Results?](https://dev.to/alpileanbu37061/alpilean-weight-loss-solution-reviews-benefits-price-and-results-2ich)
+- [Dev.to/JS] [Discovering package.json](https://dev.to/roerohan/discovering-packagejson-5166)
 - [Dev.to/JS] [We Created a Low-Code IDE for Rapidly Building MySQL Web Applications](https://dev.to/fivedotco/we-created-a-low-code-ide-for-rapidly-building-mysql-web-applications-415h)
 - [Dev.to/JS] [Top AngularJS Development Compnies](https://dev.to/leahgreene67/top-angularjs-development-compnies-25bi)
 - [Dev.to/JS] [Build your own CMS using low-code](https://dev.to/tooljet/build-your-own-cms-using-low-code-2lgo)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [You Need to Know About Pure Functions &amp; Impure Functions in JavaScript](https://dev.to/codeofrelevancy/you-need-to-know-about-pure-functions-impure-functions-in-javascript-57)
 - [Dev.to/JS] [Phase 1 Project](https://dev.to/ccjavier87/phase-1-project-2635)
 - [Dev.to/JS] [Lazy select-based pagination in Eleventy](https://dev.to/cdransf/lazy-select-based-pagination-in-eleventy-3fcb)
-- [Dev.to/JS] [Automate and syndicate content from Eleventy to Mastodon](https://dev.to/cdransf/automate-and-syndicate-content-from-eleventy-to-mastodon-74j)
-- [Dev.to/JS] [Testing useNavigate](https://dev.to/lausuarez02/testing-usenavigate-1mg3)
 - [Lifehacker] [The Safest, Quickest Way to Get Hot Grease Out of a Pan](https://lifehacker.com/the-safest-quickest-way-to-get-hot-grease-out-of-a-pan-1850269466)
 - [Lifehacker] [Make These Spanakopita Pockets for Your Next Snack Dinner](https://lifehacker.com/make-these-spanakopita-pockets-for-your-next-snack-dinn-1850269433)
 - [Lifehacker] [Try Putting Your Clutter in ‘Purgatory’](https://lifehacker.com/try-putting-your-clutter-in-purgatory-1850268872)
