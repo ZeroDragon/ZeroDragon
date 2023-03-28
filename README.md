@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Phase 1 Project](https://dev.to/ccjavier87/phase-1-project-2635)
+- [Dev.to/JS] [Lazy select-based pagination in Eleventy](https://dev.to/cdransf/lazy-select-based-pagination-in-eleventy-3fcb)
+- [Dev.to/JS] [Automate and syndicate content from Eleventy to Mastodon](https://dev.to/cdransf/automate-and-syndicate-content-from-eleventy-to-mastodon-74j)
+- [Dev.to/JS] [Testing useNavigate](https://dev.to/lausuarez02/testing-usenavigate-1mg3)
 - [Dev.to/JS] [Blog post about recreating website badges querying system- week 11](https://dev.to/platinumfish/blog-post-about-recreating-website-badges-querying-system-week-11-1bb0)
 - [Dev.to/JS] [Eight&lpar;8&rpar; ES6&lpar;ECMAScript 6&rpar; features that you need to know before learning React](https://dev.to/badr21/eight8-es6ecmascript-6-features-that-you-need-to-know-before-learning-react-4hmn)
 - [Dev.to/JS] [&quot;ChatGPT&quot; locally for everyone](https://dev.to/benherbst/chatgpt-locally-for-everyone-3plj)
@@ -31,13 +35,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Avoid this common mistakes when building a websites](https://dev.to/brojenuel/avoid-this-common-mistakes-when-building-a-websites-1plk)
 - [Dev.to/JS] [#ThisMonthInSWA - March 2023](https://dev.to/azure/thismonthinswa-march-2023-gnm)
 - [Dev.to/JS] [how to pass dynamically text at pseudo class in tailwind css - after:content-[?] in react js inside .map](https://dev.to/taiseen/how-to-pass-dynamically-text-at-pseudo-class-in-tailwind-css-aftercontent-in-react-js-inside-map-3gg9)
-- [Dev.to/JS] [Welcome to a common life in an uncommon place!](https://dev.to/iosonoagenda/welcome-to-a-common-life-in-an-uncommon-place-1ea1)
 - [Lifehacker] [The Safest, Quickest Way to Get Hot Grease Out of a Pan](https://lifehacker.com/the-safest-quickest-way-to-get-hot-grease-out-of-a-pan-1850269466)
-- [Dev.to/JS] [Pokémon JavaScript Game Tutorial with Kaboom.js](https://dev.to/jslegenddev/pokemon-javascript-game-tutorial-with-kaboomjs-3iba)
-- [Dev.to/JS] [Building a Multi-User Chatbot with Langchain and Pinecone in Next.JS](https://dev.to/rschwabco/building-a-multi-user-chatbot-with-langchain-and-pinecone-in-nextjs-1kc8)
 - [Lifehacker] [Make These Spanakopita Pockets for Your Next Snack Dinner](https://lifehacker.com/make-these-spanakopita-pockets-for-your-next-snack-dinn-1850269433)
 - [Lifehacker] [Try Putting Your Clutter in ‘Purgatory’](https://lifehacker.com/try-putting-your-clutter-in-purgatory-1850268872)
-- [Dev.to/JS] [Creating a Telegram News Bot - post 2](https://dev.to/dshaw0004/creating-a-telegram-news-bot-post-2-430b)
 - [Lifehacker] [Take These Steps to Heal Your Relationship With Money](https://lifehacker.com/take-these-steps-to-heal-your-relationship-with-money-1850269034)
 - [Lifehacker] [The Best New iPhone Features in iOS 16.4](https://lifehacker.com/the-best-new-iphone-features-in-ios-16-4-1850268879)
 - [Lifehacker] [That Email Is Not the IRS, It’s a Scam](https://lifehacker.com/that-email-is-not-the-irs-it-s-a-scam-1850268576)
