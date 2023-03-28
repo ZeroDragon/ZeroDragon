@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Lifehacker] [You Can Grab the Nintendo Switch OLED for $40 off Right Now](https://lifehacker.com/you-can-grab-the-nintendo-switch-oled-for-40-off-right-1850273753)
+- [Dev.to/JS] [Arrow Function In JavaScript](https://dev.to/makstyle119/arrow-function-in-javascript-ofd)
+- [Lifehacker] [This Service Will Hang Onto Your Luggage While You Explore a New City](https://lifehacker.com/this-service-will-hang-onto-your-luggage-while-you-expl-1850274154)
+- [Lifehacker] [You Can Grab the Nintendo Switch OLED for $40 Off Right Now](https://lifehacker.com/you-can-grab-the-nintendo-switch-oled-for-40-off-right-1850273753)
 - [Dev.to/JS] [Leer archivos ICS en Javascript con iCalendar.js](https://dev.to/jondotsoy/leer-archivos-ics-en-javascript-con-icalendarjs-4fg0)
 - [Dev.to/JS] [Why You Should Use a React Framework for Your Next Project](https://dev.to/nilanth/why-you-should-use-a-react-framework-for-your-next-project-5enb)
 - [Lifehacker] [How to Stop Turning Your Apple Watch’s Alarm Off in Your Sleep](https://lifehacker.com/how-to-stop-turning-your-apple-watch-s-alarm-off-in-you-1850273443)
@@ -42,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [File Uploads for the Web &lpar;2&rpar;: Upload Files with JavaScript](https://dev.to/austingil/file-uploads-for-the-web-2-upload-files-with-javascript-1j5k)
 - [Lifehacker] [You Can See Five Planets and the Moon Line Up This Week](https://lifehacker.com/you-can-see-five-planets-and-the-moon-line-up-this-week-1850270173)
 - [Lifehacker] [There Might Be Wood in Your Impossible Chicken Nuggets](https://lifehacker.com/there-might-be-wood-in-your-impossible-chicken-nuggets-1850269855)
-- [Dev.to/JS] [Jet-Speed JavaScript Learning Resources](https://dev.to/furkangulsen/jet-speed-javascript-learning-resources-k4b)
 - [Lifehacker] [The Safest, Quickest Way to Get Hot Grease Out of a Pan](https://lifehacker.com/the-safest-quickest-way-to-get-hot-grease-out-of-a-pan-1850269466)
 - [Lifehacker] [Make These Spanakopita Pockets for Your Next Snack Dinner](https://lifehacker.com/make-these-spanakopita-pockets-for-your-next-snack-dinn-1850269433)
 - [Lifehacker] [Try Putting Your Clutter in ‘Purgatory’](https://lifehacker.com/try-putting-your-clutter-in-purgatory-1850268872)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
 - [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
 - [Lifehacker] [These Are the Most Savage Ways to Start or End an Email](https://lifehacker.com/these-are-the-most-savage-ways-to-start-or-end-an-email-1850260223)
-- [Lifehacker] [You Can Get March Madness Tickets for As Low As $18 Right Now](https://lifehacker.com/you-can-get-march-madness-tickets-for-as-low-as-18-rig-1850261888)
-- [Lifehacker] [What&#39;s New on HBO Max in April 2023](https://lifehacker.com/whats-new-on-hbo-max-in-april-2023-1850261885)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get March Madness Tickets for As Low As $18 Right Now](https://lifehacker.com/you-can-get-march-madness-tickets-for-as-low-as-18-rig-1850261888)<!-- TECH-POSTS:END -->
 
 ---
 
