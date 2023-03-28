@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The &#39;Real&#39; History of April Fools&#39; Day &lpar;and Why It Isn’t Funny Anymore&rpar;](https://lifehacker.com/the-real-history-of-april-fool-s-day-and-why-it-isn-t-1850271968)
+- [Dev.to/JS] [🧠 Boost Your Chatbot&#39;s IQ: Integrating ChatGPT with Your Software Engineering Projects](https://dev.to/jimmymcbride/boost-your-chatbots-iq-integrating-chatgpt-with-your-software-engineering-projects-3cpp)
+- [Lifehacker] [You Should Waffle Some Mozzarella Sticks](https://lifehacker.com/you-should-waffle-some-mozzarella-sticks-1850270871)
 - [Dev.to/JS] [These images are better than your AI images](https://dev.to/jon_snow789/these-images-are-better-than-your-ai-images-4fn1)
 - [Dev.to/JS] [I need your JavaScript challenge! - JSCodebox](https://dev.to/webdeasy/i-need-your-javascript-challenge-jscodebox-11mc)
 - [Lifehacker] [What&#39;s New on Prime Video in April 2023](https://lifehacker.com/whats-new-on-prime-video-in-april-2023-1850270516)
@@ -37,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Beginner&#39;s Guide to Building Your First Next.js Application: Step-by-Step Tutorial](https://dev.to/joshhortt/a-beginners-guide-to-building-your-first-nextjs-application-step-by-step-tutorial-glf)
 - [Dev.to/JS] [Too many useState? Let&#39;s useReducer!](https://dev.to/pankajpatel/too-many-usestate-lets-usereducer-4j56)
 - [Dev.to/JS] [What&#39;s New in Novu 0.13.0?](https://dev.to/novu/whats-new-in-novu-0130-7a3)
-- [Dev.to/JS] [How to force update a mobile app when a new version is available?](https://dev.to/sophiad66476195/how-to-force-update-a-mobile-app-when-a-new-version-is-available-4cm5)
 - [Lifehacker] [The Safest, Quickest Way to Get Hot Grease Out of a Pan](https://lifehacker.com/the-safest-quickest-way-to-get-hot-grease-out-of-a-pan-1850269466)
 - [Lifehacker] [Make These Spanakopita Pockets for Your Next Snack Dinner](https://lifehacker.com/make-these-spanakopita-pockets-for-your-next-snack-dinn-1850269433)
 - [Lifehacker] [Try Putting Your Clutter in ‘Purgatory’](https://lifehacker.com/try-putting-your-clutter-in-purgatory-1850268872)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on HBO Max in April 2023](https://lifehacker.com/whats-new-on-hbo-max-in-april-2023-1850261885)
 - [Lifehacker] [Here&#39;s What Happens If the US Bans TikTok](https://lifehacker.com/heres-what-happens-if-the-us-bans-tiktok-1850261170)
 - [Lifehacker] [Park These Dangerous Hyundais and Kias Outside](https://lifehacker.com/park-these-dangerous-hyundais-and-kias-outside-1850257677)
-- [Lifehacker] [These Bacon-Wrapped Banana Bites Are Self Care](https://lifehacker.com/these-bacon-wrapped-banana-bites-are-self-care-1850258827)
-- [Lifehacker] [Help These Fish in the Netherlands Ring a Doorbell](https://lifehacker.com/help-these-fish-in-the-netherlands-ring-a-doorbell-1850258433)
-- [Lifehacker] [Why You Need to Stop ‘Rage Applying’ for Jobs](https://lifehacker.com/why-you-need-to-stop-rage-applying-for-jobs-1850258293)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Bacon-Wrapped Banana Bites Are Self Care](https://lifehacker.com/these-bacon-wrapped-banana-bites-are-self-care-1850258827)<!-- TECH-POSTS:END -->
 
 ---
 
