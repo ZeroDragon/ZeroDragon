@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pipes! Pipes everywhere!](https://dev.to/padcom/pipes-pipes-everywhere-2moo)
+- [Dev.to/JS] [Understanding the Benefits of &quot;Quirky&quot; Web Languages](https://dev.to/ingosteinke/understanding-the-benefits-of-quirky-web-languages-24o3)
+- [Dev.to/JS] [The Best Ways to Check if a Value is a Number in JavaScript](https://dev.to/dhairyashah/the-best-ways-to-check-if-a-value-is-a-number-in-javascript-51ml)
+- [Dev.to/JS] [JavaScript Package Managers: NPM, YARN And PNPM](https://dev.to/ibrahimraimi/javascript-package-managers-npm-yarn-and-pnpm-5e9f)
 - [Dev.to/JS] [Alpilean - Weight Loss Solution, Reviews, Benefits, Price And Results?](https://dev.to/alpileanbu37061/alpilean-weight-loss-solution-reviews-benefits-price-and-results-2ich)
 - [Dev.to/JS] [Discovering package.json](https://dev.to/roerohan/discovering-packagejson-5166)
 - [Dev.to/JS] [We Created a Low-Code IDE for Rapidly Building MySQL Web Applications](https://dev.to/fivedotco/we-created-a-low-code-ide-for-rapidly-building-mysql-web-applications-415h)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Interface Extensions/Merging in TypeScript](https://dev.to/tomoy/interface-extendingmerging-in-typescript-3fjb)
 - [Dev.to/JS] [SyntaxError: Unexpected token &#39;export&#39; in JavaScript](https://dev.to/coder9/syntaxerror-unexpected-token-export-in-javascript-3emf)
 - [Dev.to/JS] [Top 5 MERN STACK projects to improve your practical understanding🚀](https://dev.to/documatic/top-5-mern-stack-projects-to-improve-your-practical-understanding-554k)
-- [Dev.to/JS] [Django with React](https://dev.to/sem_60/django-with-react-cli)
-- [Dev.to/JS] [You Need to Know About Pure Functions &amp; Impure Functions in JavaScript](https://dev.to/codeofrelevancy/you-need-to-know-about-pure-functions-impure-functions-in-javascript-57)
-- [Dev.to/JS] [Phase 1 Project](https://dev.to/ccjavier87/phase-1-project-2635)
-- [Dev.to/JS] [Lazy select-based pagination in Eleventy](https://dev.to/cdransf/lazy-select-based-pagination-in-eleventy-3fcb)
 - [Lifehacker] [The Safest, Quickest Way to Get Hot Grease Out of a Pan](https://lifehacker.com/the-safest-quickest-way-to-get-hot-grease-out-of-a-pan-1850269466)
 - [Lifehacker] [Make These Spanakopita Pockets for Your Next Snack Dinner](https://lifehacker.com/make-these-spanakopita-pockets-for-your-next-snack-dinn-1850269433)
 - [Lifehacker] [Try Putting Your Clutter in ‘Purgatory’](https://lifehacker.com/try-putting-your-clutter-in-purgatory-1850268872)
