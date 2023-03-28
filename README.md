@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Blog post about recreating website badges querying system- week 11](https://dev.to/platinumfish/blog-post-about-recreating-website-badges-querying-system-week-11-1bb0)
+- [Dev.to/JS] [Eight&lpar;8&rpar; ES6&lpar;ECMAScript 6&rpar; features that you need to know before learning React](https://dev.to/badr21/eight8-es6ecmascript-6-features-that-you-need-to-know-before-learning-react-4hmn)
+- [Dev.to/JS] [&quot;ChatGPT&quot; locally for everyone](https://dev.to/benherbst/chatgpt-locally-for-everyone-3plj)
 - [Dev.to/JS] [TS: Next Level Index Signatures Inside Interfaces and Types](https://dev.to/benhultin/ts-next-level-index-signatures-inside-interfaces-and-types-ld7)
 - [Dev.to/JS] [Observer Design Pattern using Javascript](https://dev.to/bvnkumar/observer-pattern-using-javascript-1nh3)
 - [Dev.to/JS] [Avoid this common mistakes when building a websites](https://dev.to/brojenuel/avoid-this-common-mistakes-when-building-a-websites-1plk)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make These Spanakopita Pockets for Your Next Snack Dinner](https://lifehacker.com/make-these-spanakopita-pockets-for-your-next-snack-dinn-1850269433)
 - [Lifehacker] [Try Putting Your Clutter in ‘Purgatory’](https://lifehacker.com/try-putting-your-clutter-in-purgatory-1850268872)
 - [Dev.to/JS] [Creating a Telegram News Bot - post 2](https://dev.to/dshaw0004/creating-a-telegram-news-bot-post-2-430b)
-- [Dev.to/JS] [How to Create a Discord Bot to Get GitHub Repository Issues](https://dev.to/daniloab/how-to-create-a-discord-bot-to-get-github-repository-issues-2646)
 - [Lifehacker] [Take These Steps to Heal Your Relationship With Money](https://lifehacker.com/take-these-steps-to-heal-your-relationship-with-money-1850269034)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, Mar 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-4-mar-2023-2cia)
-- [Dev.to/JS] [What A Promise ! &#39;1st&#39;](https://dev.to/rahmanii/what-a-promise-1st-4dam)
 - [Lifehacker] [The Best New iPhone Features in iOS 16.4](https://lifehacker.com/the-best-new-iphone-features-in-ios-16-4-1850268879)
 - [Lifehacker] [That Email Is Not the IRS, It’s a Scam](https://lifehacker.com/that-email-is-not-the-irs-it-s-a-scam-1850268576)
 - [Lifehacker] [All the Ways You’re Risking a House Fire &lpar;Without Realizing It&rpar;](https://lifehacker.com/all-the-ways-you-re-risking-a-house-fire-without-reali-1850267641)
