@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [These images are better than your AI images](https://dev.to/jon_snow789/these-images-are-better-than-your-ai-images-4fn1)
+- [Dev.to/JS] [I need your JavaScript challenge! - JSCodebox](https://dev.to/webdeasy/i-need-your-javascript-challenge-jscodebox-11mc)
+- [Lifehacker] [What&#39;s New on Prime Video in April 2023](https://lifehacker.com/whats-new-on-prime-video-in-april-2023-1850270516)
+- [Dev.to/JS] [File Uploads for the Web &lpar;2&rpar;: Upload Files with JavaScript](https://dev.to/austingil/file-uploads-for-the-web-2-upload-files-with-javascript-1j5k)
 - [Lifehacker] [You Can See Five Planets and the Moon Line Up This Week](https://lifehacker.com/you-can-see-five-planets-and-the-moon-line-up-this-week-1850270173)
 - [Lifehacker] [There Might Be Wood in Your Impossible Chicken Nuggets](https://lifehacker.com/there-might-be-wood-in-your-impossible-chicken-nuggets-1850269855)
 - [Dev.to/JS] [Jet-Speed JavaScript Learning Resources](https://dev.to/furkangulsen/jet-speed-javascript-learning-resources-k4b)
@@ -34,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Too many useState? Let&#39;s useReducer!](https://dev.to/pankajpatel/too-many-usestate-lets-usereducer-4j56)
 - [Dev.to/JS] [What&#39;s New in Novu 0.13.0?](https://dev.to/novu/whats-new-in-novu-0130-7a3)
 - [Dev.to/JS] [How to force update a mobile app when a new version is available?](https://dev.to/sophiad66476195/how-to-force-update-a-mobile-app-when-a-new-version-is-available-4cm5)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Prazos na Biblioteca](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-prazos-na-biblioteca-47bn)
-- [Dev.to/JS] [My notes on Javascript functions and related things.](https://dev.to/ngquan/my-notes-on-javascript-functions-and-related-things-4k3g)
-- [Dev.to/JS] [Spin 1.0 — The Developer Tool for Serverless WebAssembly](https://dev.to/matei_radu/spin-10-the-developer-tool-for-serverless-webassembly-2bhk)
 - [Lifehacker] [The Safest, Quickest Way to Get Hot Grease Out of a Pan](https://lifehacker.com/the-safest-quickest-way-to-get-hot-grease-out-of-a-pan-1850269466)
 - [Lifehacker] [Make These Spanakopita Pockets for Your Next Snack Dinner](https://lifehacker.com/make-these-spanakopita-pockets-for-your-next-snack-dinn-1850269433)
 - [Lifehacker] [Try Putting Your Clutter in ‘Purgatory’](https://lifehacker.com/try-putting-your-clutter-in-purgatory-1850268872)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Park These Dangerous Hyundais and Kias Outside](https://lifehacker.com/park-these-dangerous-hyundais-and-kias-outside-1850257677)
 - [Lifehacker] [These Bacon-Wrapped Banana Bites Are Self Care](https://lifehacker.com/these-bacon-wrapped-banana-bites-are-self-care-1850258827)
 - [Lifehacker] [Help These Fish in the Netherlands Ring a Doorbell](https://lifehacker.com/help-these-fish-in-the-netherlands-ring-a-doorbell-1850258433)
-- [Lifehacker] [Why You Need to Stop ‘Rage Applying’ for Jobs](https://lifehacker.com/why-you-need-to-stop-rage-applying-for-jobs-1850258293)
-- [Lifehacker] [How to Make Pineapple Pizza Even Better](https://lifehacker.com/how-to-make-pineapple-pizza-even-better-1850258012)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Need to Stop ‘Rage Applying’ for Jobs](https://lifehacker.com/why-you-need-to-stop-rage-applying-for-jobs-1850258293)<!-- TECH-POSTS:END -->
 
 ---
 
