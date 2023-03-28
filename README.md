@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a simple Chrome extension with JS](https://dev.to/audreymengue/building-a-simple-chrome-extension-with-js-1143)
+- [Dev.to/JS] [PLEASE how do i effectively learn API as a frontend developer?](https://dev.to/sagemanolo/please-how-do-i-effectively-learn-api-as-a-frontend-developer-59ib)
+- [Dev.to/JS] [Promises&lpar;&rpar;](https://dev.to/marcellecode/promises-d8a)
+- [Dev.to/JS] [Free Next.js Templates and Hidden Gems 2023](https://dev.to/iskurbanov/free-nextjs-templates-and-hidden-gems-2023-22m8)
 - [Dev.to/JS] [What is JavaScript?](https://dev.to/mahfuzurrahman01/what-is-javascript-3m8o)
 - [Dev.to/JS] [Setting up a TypeORM, MySQL with Apollo graphQL server](https://dev.to/kalashin1/setting-up-a-typeorm-mysql-with-apollo-graphql-server-55pd)
 - [Dev.to/JS] [Why TypeScript is Essential for Modern Software Development](https://dev.to/hakki/why-typescript-is-essential-for-modern-software-development-3edl)
@@ -32,13 +36,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Intro to Binary with NodeJS Buffer examples](https://dev.to/thebridge2/intro-to-binary-with-nodejs-buffer-examples-c0k)
 - [Lifehacker] [You Can Download the Out-of-Print ‘Zelda: Breath of the Wild’ Explorer’s Guide for Free](https://lifehacker.com/you-can-download-the-out-of-print-zelda-breath-of-the-1850274795)
 - [Dev.to/JS] [Mastering the Compound Components Pattern in React](https://dev.to/i_shahmeer/mastering-the-compound-components-pattern-in-react-385d)
-- [Dev.to/JS] [NodeJS Custom Streams.](https://dev.to/thebridge2/nodejs-custom-streams-348h)
 - [Lifehacker] [How to Spot If Your Food Is Coming From a Ghost Kitchen](https://lifehacker.com/is-your-food-delivery-coming-from-a-ghost-kitchen-1848907749)
-- [Dev.to/JS] [Arrow Function In JavaScript](https://dev.to/makstyle119/arrow-function-in-javascript-ofd)
 - [Lifehacker] [This Service Will Hang Onto Your Luggage While You Explore a New City](https://lifehacker.com/this-service-will-hang-onto-your-luggage-while-you-expl-1850274154)
 - [Lifehacker] [You Can Grab the Nintendo Switch OLED for $40 Off Right Now](https://lifehacker.com/you-can-grab-the-nintendo-switch-oled-for-40-off-right-1850273753)
-- [Dev.to/JS] [Leer archivos ICS en Javascript con iCalendar.js](https://dev.to/jondotsoy/leer-archivos-ics-en-javascript-con-icalendarjs-4fg0)
-- [Dev.to/JS] [Why You Should Use a React Framework for Your Next Project](https://dev.to/nilanth/why-you-should-use-a-react-framework-for-your-next-project-5enb)
 - [Lifehacker] [How to Stop Turning Your Apple Watch’s Alarm Off in Your Sleep](https://lifehacker.com/how-to-stop-turning-your-apple-watch-s-alarm-off-in-you-1850273443)
 - [Lifehacker] [Why You Should Start Reading a Book Before You Leave for a Trip](https://lifehacker.com/why-you-should-start-reading-a-book-before-you-leave-fo-1850273384)
 - [Lifehacker] [The &#39;Real&#39; History of April Fools&#39; Day &lpar;and Why It Isn’t Funny Anymore&rpar;](https://lifehacker.com/the-real-history-of-april-fool-s-day-and-why-it-isn-t-1850271968)
