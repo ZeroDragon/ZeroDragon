@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Stop Turning Your Apple Watch’s Alarm Off in Your Sleep](https://lifehacker.com/how-to-stop-turning-your-apple-watch-s-alarm-off-in-you-1850273443)
+- [Dev.to/JS] [Here is the developer portfolio template that will get you hired](https://dev.to/umutyesildal/here-is-the-developer-portfolio-template-that-will-get-you-hired-2dbp)
+- [Dev.to/JS] [Paracetamol.js💊| #212: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-212-explica-este-codigo-javascript-6f1)
+- [Dev.to/JS] [JavaScript 🐲 challenges_3 ⚔️](https://dev.to/mahmoudessam/javascript-challenges3-1dpk)
+- [Dev.to/JS] [TNT Stack.](https://dev.to/gautamvaishnav/tnt-stack-3o6d)
+- [Dev.to/JS] [Javascript Arrays](https://dev.to/talenttinaapi/javascript-arrays-9k6)
+- [Lifehacker] [Why You Should Start Reading a Book Before You Leave for a Trip](https://lifehacker.com/why-you-should-start-reading-a-book-before-you-leave-fo-1850273384)
 - [Lifehacker] [The &#39;Real&#39; History of April Fools&#39; Day &lpar;and Why It Isn’t Funny Anymore&rpar;](https://lifehacker.com/the-real-history-of-april-fool-s-day-and-why-it-isn-t-1850271968)
 - [Dev.to/JS] [🧠 Boost Your Chatbot&#39;s IQ: Integrating ChatGPT with Your Software Engineering Projects](https://dev.to/jimmymcbride/boost-your-chatbots-iq-integrating-chatgpt-with-your-software-engineering-projects-3cpp)
 - [Lifehacker] [You Should Waffle Some Mozzarella Sticks](https://lifehacker.com/you-should-waffle-some-mozzarella-sticks-1850270871)
@@ -35,11 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Jet-Speed JavaScript Learning Resources](https://dev.to/furkangulsen/jet-speed-javascript-learning-resources-k4b)
 - [Dev.to/JS] [Бесконечная прокрутка на React](https://dev.to/lira_bazh/bieskoniechnaia-prokrutka-na-react-c3h)
 - [Dev.to/JS] [Static Testlash: Linting va Formatting](https://dev.to/humoyun/static-testlash-linting-va-formatting-106b)
-- [Dev.to/JS] [Automated Testing with Playwright](https://dev.to/redbit/automated-testing-with-playwright-1ni7)
-- [Dev.to/JS] [Code Smell 204 - Tests Depending on Dates](https://dev.to/mcsee/code-smell-204-tests-depending-on-dates-4o8j)
-- [Dev.to/JS] [A Beginner&#39;s Guide to Building Your First Next.js Application: Step-by-Step Tutorial](https://dev.to/joshhortt/a-beginners-guide-to-building-your-first-nextjs-application-step-by-step-tutorial-glf)
-- [Dev.to/JS] [Too many useState? Let&#39;s useReducer!](https://dev.to/pankajpatel/too-many-usestate-lets-usereducer-4j56)
-- [Dev.to/JS] [What&#39;s New in Novu 0.13.0?](https://dev.to/novu/whats-new-in-novu-0130-7a3)
 - [Lifehacker] [The Safest, Quickest Way to Get Hot Grease Out of a Pan](https://lifehacker.com/the-safest-quickest-way-to-get-hot-grease-out-of-a-pan-1850269466)
 - [Lifehacker] [Make These Spanakopita Pockets for Your Next Snack Dinner](https://lifehacker.com/make-these-spanakopita-pockets-for-your-next-snack-dinn-1850269433)
 - [Lifehacker] [Try Putting Your Clutter in ‘Purgatory’](https://lifehacker.com/try-putting-your-clutter-in-purgatory-1850268872)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Most Savage Ways to Start or End an Email](https://lifehacker.com/these-are-the-most-savage-ways-to-start-or-end-an-email-1850260223)
 - [Lifehacker] [You Can Get March Madness Tickets for As Low As $18 Right Now](https://lifehacker.com/you-can-get-march-madness-tickets-for-as-low-as-18-rig-1850261888)
 - [Lifehacker] [What&#39;s New on HBO Max in April 2023](https://lifehacker.com/whats-new-on-hbo-max-in-april-2023-1850261885)
-- [Lifehacker] [Here&#39;s What Happens If the US Bans TikTok](https://lifehacker.com/heres-what-happens-if-the-us-bans-tiktok-1850261170)
-- [Lifehacker] [Park These Dangerous Hyundais and Kias Outside](https://lifehacker.com/park-these-dangerous-hyundais-and-kias-outside-1850257677)
-- [Lifehacker] [These Bacon-Wrapped Banana Bites Are Self Care](https://lifehacker.com/these-bacon-wrapped-banana-bites-are-self-care-1850258827)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s What Happens If the US Bans TikTok](https://lifehacker.com/heres-what-happens-if-the-us-bans-tiktok-1850261170)<!-- TECH-POSTS:END -->
 
 ---
 
