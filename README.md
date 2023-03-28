@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Desenvolvendo um input de &lt;Telephone /&gt;: um exemplo de design de software eficiente](https://dev.to/demgoncalves/desenvolvendo-um-input-de-um-exemplo-de-design-de-software-eficiente-ed6)
+- [Dev.to/JS] [It&#39;s my first post here](https://dev.to/rajat619/its-my-first-post-here-5bhf)
+- [Dev.to/JS] [Semantic Versioning: A Quick Guide](https://dev.to/kodrillar/semantic-versioning-a-quick-guide-17fo)
 - [Dev.to/JS] [Top 10 Cross-Platform App Development Frameworks in 2023](https://dev.to/christinek989/top-10-cross-platform-app-development-frameworks-in-2023-4c5d)
 - [Dev.to/JS] [Notion Revaluation : How Notion is Revolutionizing the Way We Collaborate and Manage Projects](https://dev.to/ahmed_onour/notion-revaluation-how-notion-is-revolutionizing-the-way-we-collaborate-and-manage-projects-27fk)
 - [Dev.to/JS] [Comparing Bubble Sort with Selection Sort](https://dev.to/blessingmichael/comparing-bubble-sort-with-selection-sort-2iki)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Don&#39;t misunderstand the Array.【JavaScript】](https://dev.to/yuya0114/dont-misunderstand-the-arrayjavascript-2hec)
 - [Dev.to/JS] [Pipes! Pipes everywhere!](https://dev.to/padcom/pipes-pipes-everywhere-2moo)
 - [Dev.to/JS] [Understanding the Benefits of &quot;Quirky&quot; Web Languages](https://dev.to/ingosteinke/understanding-the-benefits-of-quirky-web-languages-24o3)
-- [Dev.to/JS] [The Best Ways to Check if a Value is a Number in JavaScript](https://dev.to/dhairyashah/the-best-ways-to-check-if-a-value-is-a-number-in-javascript-51ml)
-- [Dev.to/JS] [JavaScript Package Managers: NPM, YARN And PNPM](https://dev.to/ibrahimraimi/javascript-package-managers-npm-yarn-and-pnpm-5e9f)
-- [Dev.to/JS] [Alpilean - Weight Loss Solution, Reviews, Benefits, Price And Results?](https://dev.to/alpileanbu37061/alpilean-weight-loss-solution-reviews-benefits-price-and-results-2ich)
 - [Lifehacker] [The Safest, Quickest Way to Get Hot Grease Out of a Pan](https://lifehacker.com/the-safest-quickest-way-to-get-hot-grease-out-of-a-pan-1850269466)
 - [Lifehacker] [Make These Spanakopita Pockets for Your Next Snack Dinner](https://lifehacker.com/make-these-spanakopita-pockets-for-your-next-snack-dinn-1850269433)
 - [Lifehacker] [Try Putting Your Clutter in ‘Purgatory’](https://lifehacker.com/try-putting-your-clutter-in-purgatory-1850268872)
