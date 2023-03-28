@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [You Need to Know About Pure Functions &amp; Impure Functions in JavaScript](https://dev.to/codeofrelevancy/you-need-to-know-about-pure-functions-impure-functions-in-javascript-57)
 - [Dev.to/JS] [Phase 1 Project](https://dev.to/ccjavier87/phase-1-project-2635)
 - [Dev.to/JS] [Lazy select-based pagination in Eleventy](https://dev.to/cdransf/lazy-select-based-pagination-in-eleventy-3fcb)
 - [Dev.to/JS] [Automate and syndicate content from Eleventy to Mastodon](https://dev.to/cdransf/automate-and-syndicate-content-from-eleventy-to-mastodon-74j)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Observer Design Pattern using Javascript](https://dev.to/bvnkumar/observer-pattern-using-javascript-1nh3)
 - [Dev.to/JS] [Avoid this common mistakes when building a websites](https://dev.to/brojenuel/avoid-this-common-mistakes-when-building-a-websites-1plk)
 - [Dev.to/JS] [#ThisMonthInSWA - March 2023](https://dev.to/azure/thismonthinswa-march-2023-gnm)
-- [Dev.to/JS] [how to pass dynamically text at pseudo class in tailwind css - after:content-[?] in react js inside .map](https://dev.to/taiseen/how-to-pass-dynamically-text-at-pseudo-class-in-tailwind-css-aftercontent-in-react-js-inside-map-3gg9)
 - [Lifehacker] [The Safest, Quickest Way to Get Hot Grease Out of a Pan](https://lifehacker.com/the-safest-quickest-way-to-get-hot-grease-out-of-a-pan-1850269466)
 - [Lifehacker] [Make These Spanakopita Pockets for Your Next Snack Dinner](https://lifehacker.com/make-these-spanakopita-pockets-for-your-next-snack-dinn-1850269433)
 - [Lifehacker] [Try Putting Your Clutter in ‘Purgatory’](https://lifehacker.com/try-putting-your-clutter-in-purgatory-1850268872)
