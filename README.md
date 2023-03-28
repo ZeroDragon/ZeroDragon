@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can See Five Planets and the Moon Line Up This Week](https://lifehacker.com/you-can-see-five-planets-and-the-moon-line-up-this-week-1850270173)
+- [Lifehacker] [There Might Be Wood in Your Impossible Chicken Nuggets](https://lifehacker.com/there-might-be-wood-in-your-impossible-chicken-nuggets-1850269855)
+- [Dev.to/JS] [Jet-Speed JavaScript Learning Resources](https://dev.to/furkangulsen/jet-speed-javascript-learning-resources-k4b)
+- [Dev.to/JS] [Бесконечная прокрутка на React](https://dev.to/lira_bazh/bieskoniechnaia-prokrutka-na-react-c3h)
+- [Dev.to/JS] [Static Testlash: Linting va Formatting](https://dev.to/humoyun/static-testlash-linting-va-formatting-106b)
+- [Dev.to/JS] [Automated Testing with Playwright](https://dev.to/redbit/automated-testing-with-playwright-1ni7)
 - [Dev.to/JS] [Code Smell 204 - Tests Depending on Dates](https://dev.to/mcsee/code-smell-204-tests-depending-on-dates-4o8j)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Building Your First Next.js Application: Step-by-Step Tutorial](https://dev.to/joshhortt/a-beginners-guide-to-building-your-first-nextjs-application-step-by-step-tutorial-glf)
 - [Dev.to/JS] [Too many useState? Let&#39;s useReducer!](https://dev.to/pankajpatel/too-many-usestate-lets-usereducer-4j56)
@@ -31,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Prazos na Biblioteca](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-prazos-na-biblioteca-47bn)
 - [Dev.to/JS] [My notes on Javascript functions and related things.](https://dev.to/ngquan/my-notes-on-javascript-functions-and-related-things-4k3g)
 - [Dev.to/JS] [Spin 1.0 — The Developer Tool for Serverless WebAssembly](https://dev.to/matei_radu/spin-10-the-developer-tool-for-serverless-webassembly-2bhk)
-- [Dev.to/JS] [`useState` and `prevState`](https://dev.to/ngquan/usestate-and-prevstate-kjh)
-- [Dev.to/JS] [Looking for NextJS Developer](https://dev.to/yakushev7/looking-for-nextjs-developer-4o7o)
-- [Dev.to/JS] [Introducing Genez-io: An Exciting New Open Source Project! 🚀](https://dev.to/radu1122/introducing-genez-io-an-exciting-new-open-source-project-bdc)
-- [Dev.to/JS] [Desenvolvendo um input de &lt;Telephone /&gt;: um exemplo de design de software eficiente](https://dev.to/demgoncalves/desenvolvendo-um-input-de-um-exemplo-de-design-de-software-eficiente-ed6)
 - [Lifehacker] [The Safest, Quickest Way to Get Hot Grease Out of a Pan](https://lifehacker.com/the-safest-quickest-way-to-get-hot-grease-out-of-a-pan-1850269466)
 - [Lifehacker] [Make These Spanakopita Pockets for Your Next Snack Dinner](https://lifehacker.com/make-these-spanakopita-pockets-for-your-next-snack-dinn-1850269433)
 - [Lifehacker] [Try Putting Your Clutter in ‘Purgatory’](https://lifehacker.com/try-putting-your-clutter-in-purgatory-1850268872)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Bacon-Wrapped Banana Bites Are Self Care](https://lifehacker.com/these-bacon-wrapped-banana-bites-are-self-care-1850258827)
 - [Lifehacker] [Help These Fish in the Netherlands Ring a Doorbell](https://lifehacker.com/help-these-fish-in-the-netherlands-ring-a-doorbell-1850258433)
 - [Lifehacker] [Why You Need to Stop ‘Rage Applying’ for Jobs](https://lifehacker.com/why-you-need-to-stop-rage-applying-for-jobs-1850258293)
-- [Lifehacker] [How to Make Pineapple Pizza Even Better](https://lifehacker.com/how-to-make-pineapple-pizza-even-better-1850258012)
-- [Lifehacker] [Enable This Setting to Squeeze Extra Juice Out of Your Smartphone’s Battery](https://lifehacker.com/enable-this-setting-to-squeeze-extra-juice-out-of-your-1850258011)
-- [Crazy Programmer] [Encapsulation and Decapsulation in Networking](https://www.thecrazyprogrammer.com/2023/03/encapsulation-and-decapsulation-in-networking.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make Pineapple Pizza Even Better](https://lifehacker.com/how-to-make-pineapple-pizza-even-better-1850258012)<!-- TECH-POSTS:END -->
 
 ---
 
