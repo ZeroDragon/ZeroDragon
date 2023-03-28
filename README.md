@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GPT is my new BFF &lpar;Backend for Frontends&rpar;](https://dev.to/sylvhama/gpt-is-my-new-bff-backend-for-frontends-1g03)
+- [Dev.to/JS] [Node JS Custom Streams Part 2](https://dev.to/thebridge2/node-js-custom-streams-part-2-57dn)
+- [Dev.to/JS] [Intro to Binary with NodeJS Buffer examples](https://dev.to/thebridge2/intro-to-binary-with-nodejs-buffer-examples-c0k)
+- [Lifehacker] [You Can Download the Out-of-Print ‘Zelda: Breath of the Wild’ Explorer’s Guide for Free](https://lifehacker.com/you-can-download-the-out-of-print-zelda-breath-of-the-1850274795)
+- [Dev.to/JS] [Mastering the Compound Components Pattern in React](https://dev.to/i_shahmeer/mastering-the-compound-components-pattern-in-react-385d)
+- [Dev.to/JS] [NodeJS Custom Streams.](https://dev.to/thebridge2/nodejs-custom-streams-348h)
+- [Lifehacker] [How to Spot If Your Food Is Coming From a Ghost Kitchen](https://lifehacker.com/is-your-food-delivery-coming-from-a-ghost-kitchen-1848907749)
 - [Dev.to/JS] [Arrow Function In JavaScript](https://dev.to/makstyle119/arrow-function-in-javascript-ofd)
 - [Lifehacker] [This Service Will Hang Onto Your Luggage While You Explore a New City](https://lifehacker.com/this-service-will-hang-onto-your-luggage-while-you-expl-1850274154)
 - [Lifehacker] [You Can Grab the Nintendo Switch OLED for $40 Off Right Now](https://lifehacker.com/you-can-grab-the-nintendo-switch-oled-for-40-off-right-1850273753)
@@ -33,15 +40,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #212: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-212-explica-este-codigo-javascript-6f1)
 - [Dev.to/JS] [JavaScript 🐲 challenges_3 ⚔️](https://dev.to/mahmoudessam/javascript-challenges3-1dpk)
 - [Dev.to/JS] [TNT Stack.](https://dev.to/gautamvaishnav/tnt-stack-3o6d)
-- [Dev.to/JS] [Javascript Arrays](https://dev.to/talenttinaapi/javascript-arrays-9k6)
 - [Lifehacker] [Why You Should Start Reading a Book Before You Leave for a Trip](https://lifehacker.com/why-you-should-start-reading-a-book-before-you-leave-fo-1850273384)
 - [Lifehacker] [The &#39;Real&#39; History of April Fools&#39; Day &lpar;and Why It Isn’t Funny Anymore&rpar;](https://lifehacker.com/the-real-history-of-april-fool-s-day-and-why-it-isn-t-1850271968)
-- [Dev.to/JS] [🧠 Boost Your Chatbot&#39;s IQ: Integrating ChatGPT with Your Software Engineering Projects](https://dev.to/jimmymcbride/boost-your-chatbots-iq-integrating-chatgpt-with-your-software-engineering-projects-3cpp)
 - [Lifehacker] [You Should Waffle Some Mozzarella Sticks](https://lifehacker.com/you-should-waffle-some-mozzarella-sticks-1850270871)
-- [Dev.to/JS] [These images are better than your AI images](https://dev.to/jon_snow789/these-images-are-better-than-your-ai-images-4fn1)
-- [Dev.to/JS] [I need your JavaScript challenge! - JSCodebox](https://dev.to/webdeasy/i-need-your-javascript-challenge-jscodebox-11mc)
 - [Lifehacker] [What&#39;s New on Prime Video in April 2023](https://lifehacker.com/whats-new-on-prime-video-in-april-2023-1850270516)
-- [Dev.to/JS] [File Uploads for the Web &lpar;2&rpar;: Upload Files with JavaScript](https://dev.to/austingil/file-uploads-for-the-web-2-upload-files-with-javascript-1j5k)
 - [Lifehacker] [You Can See Five Planets and the Moon Line Up This Week](https://lifehacker.com/you-can-see-five-planets-and-the-moon-line-up-this-week-1850270173)
 - [Lifehacker] [There Might Be Wood in Your Impossible Chicken Nuggets](https://lifehacker.com/there-might-be-wood-in-your-impossible-chicken-nuggets-1850269855)
 - [Lifehacker] [The Safest, Quickest Way to Get Hot Grease Out of a Pan](https://lifehacker.com/the-safest-quickest-way-to-get-hot-grease-out-of-a-pan-1850269466)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These PB&amp;J Bars Are Next Level Baked Oats](https://lifehacker.com/these-pb-j-bars-are-next-level-baked-oats-1850263076)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
-- [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)
-- [Lifehacker] [These Are the Most Savage Ways to Start or End an Email](https://lifehacker.com/these-are-the-most-savage-ways-to-start-or-end-an-email-1850260223)
-- [Lifehacker] [You Can Get March Madness Tickets for As Low As $18 Right Now](https://lifehacker.com/you-can-get-march-madness-tickets-for-as-low-as-18-rig-1850261888)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)<!-- TECH-POSTS:END -->
 
 ---
 
