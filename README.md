@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TS: Next Level Index Signatures Inside Interfaces and Types](https://dev.to/benhultin/ts-next-level-index-signatures-inside-interfaces-and-types-ld7)
+- [Dev.to/JS] [Observer Design Pattern using Javascript](https://dev.to/bvnkumar/observer-pattern-using-javascript-1nh3)
+- [Dev.to/JS] [Avoid this common mistakes when building a websites](https://dev.to/brojenuel/avoid-this-common-mistakes-when-building-a-websites-1plk)
 - [Dev.to/JS] [#ThisMonthInSWA - March 2023](https://dev.to/azure/thismonthinswa-march-2023-gnm)
 - [Dev.to/JS] [how to pass dynamically text at pseudo class in tailwind css - after:content-[?] in react js inside .map](https://dev.to/taiseen/how-to-pass-dynamically-text-at-pseudo-class-in-tailwind-css-aftercontent-in-react-js-inside-map-3gg9)
 - [Dev.to/JS] [Welcome to a common life in an uncommon place!](https://dev.to/iosonoagenda/welcome-to-a-common-life-in-an-uncommon-place-1ea1)
@@ -37,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, Mar 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-4-mar-2023-2cia)
 - [Dev.to/JS] [What A Promise ! &#39;1st&#39;](https://dev.to/rahmanii/what-a-promise-1st-4dam)
 - [Lifehacker] [The Best New iPhone Features in iOS 16.4](https://lifehacker.com/the-best-new-iphone-features-in-ios-16-4-1850268879)
-- [Dev.to/JS] [Understanding Array Filtering in JavaScript](https://dev.to/ananddas/understanding-array-filtering-in-javascript-2bbc)
 - [Lifehacker] [That Email Is Not the IRS, It’s a Scam](https://lifehacker.com/that-email-is-not-the-irs-it-s-a-scam-1850268576)
-- [Dev.to/JS] [ChatGPT Goldmine: Top 5 Money-Making Opportunities You Can&#39;t Miss!](https://dev.to/thenomadevel/chatgpt-goldmine-top-5-money-making-opportunities-you-cant-miss-1paj)
-- [Dev.to/JS] [Building a Phone Book Application with Typescript and React](https://dev.to/jamesoyanna/building-a-phone-book-application-with-typescript-and-react-c2g)
 - [Lifehacker] [All the Ways You’re Risking a House Fire &lpar;Without Realizing It&rpar;](https://lifehacker.com/all-the-ways-you-re-risking-a-house-fire-without-reali-1850267641)
 - [Lifehacker] [You Should Use ChatGPT for These Mundane Tasks](https://lifehacker.com/you-should-use-chatgpt-for-these-mundane-tasks-1850263749)
 - [Lifehacker] [When Decorating, Stick to the ‘Rule of Three’](https://lifehacker.com/when-decorating-stick-to-the-rule-of-three-1850262726)
