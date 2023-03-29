@@ -23,6 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Update all the Values in an Object using JavaScript](https://dev.to/coder9/update-all-the-values-in-an-object-using-javascript-4pbc)
+- [Lifehacker] [This Is How to Tell Whether a Recipe Really Is ‘Easy’](https://lifehacker.com/this-is-how-to-tell-whether-a-recipe-really-is-easy-1850277957)
+- [Crazy Programmer] [How to Declare a Variable in SQL and Assign a Value?](https://www.thecrazyprogrammer.com/2023/03/how-to-declare-a-variable-in-sql.html)
+- [Lifehacker] [Don&#39;t Buy &#39;The Last of Us, Part 1&#39; on PC](https://lifehacker.com/dont-buy-the-last-of-us-part-1-on-pc-1850278163)
+- [Dev.to/JS] [10 GraphQL Developer Tools I Use To Make Building APIs Easier](https://dev.to/wundergraph/10-graphql-developer-tools-i-use-to-make-building-apis-easier-pgf)
+- [Dev.to/JS] [React Server Components Without a Framework](https://dev.to/shiftyp/react-server-components-without-a-framework-2jpf)
+- [Dev.to/JS] [Insertar elementos en un índice específico de un array en JavaScript](https://dev.to/asjordi/insertar-elementos-en-un-indice-especifico-de-un-array-en-javascript-3j1n)
+- [Lifehacker] [The Best Apps You’ve Never Used to Sell Your Used Furniture](https://lifehacker.com/the-best-apps-you-ve-never-used-to-sell-your-used-furni-1850278382)
+- [Lifehacker] [What Is Zone 2 Cardio and How Do I Actually Do It?](https://lifehacker.com/what-is-zone-2-cardio-and-how-do-i-actually-do-it-1850275966)
+- [Dev.to/JS] [How to be the worst engineer on your team?](https://dev.to/wundergraph/how-to-be-the-worst-engineer-on-your-team-18d)
 - [Dev.to/JS] [เครื่องมือการสร้างแผนที่ในเกมโดยใช้ Random Walk Algorithm](https://dev.to/nuttapon026/ekhruuengmuuekaarsraangaephnthiiainekmodyaich-random-walk-algorithm-53og)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Cortando palitos](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-cortando-palitos-336p)
 - [Dev.to/JS] [Regular Expressions aka REGEX crash course](https://dev.to/nikolasbarwicki/regular-expressions-aka-regex-crash-course-52b1)
@@ -33,12 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [USE MICROFRONT-END FOR SPA OR MPA BECAUSE AND WHY?](https://dev.to/gianlucasms/use-microfront-end-for-spa-or-mpa-because-and-why-15og)
 - [Dev.to/JS] [Next.js 13.2.4](https://dev.to/ifeanyichima/nextjs-1324-16fe)
 - [Lifehacker] [Attention: I Have Revolutionized Cheese Fries](https://lifehacker.com/attention-i-have-revolutionized-cheese-fries-1850276074)
-- [Dev.to/JS] [Paracetamol.js💊| #213: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-213-explica-este-codigo-javascript-k8e)
-- [Dev.to/JS] [Using ChatGPT for productivity in JavaScript: Quick wins](https://dev.to/wraldpyk/5-ways-to-improve-your-javascript-productivity-with-chatgpt-2lgn)
 - [Lifehacker] [Everything You Can Clean With a Hand-Steamer &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/everything-you-can-clean-with-a-hand-steamer-but-arent-1850275364)
-- [Dev.to/JS] [Working With Azure Synapse Analytics Service Using Azure Cloud Portal](https://dev.to/sardarmudassaralikhan/working-with-azure-synapse-analytics-service-using-azure-cloud-portal-ao4)
-- [Dev.to/JS] [3 Analogies to Describe TypeScript 👩‍💻](https://dev.to/c_yatteau/what-is-typescript-5h59)
-- [Dev.to/JS] [Storage with Supabase](https://dev.to/guillaumeduhan/storage-with-supabase-doa)
 - [Lifehacker] [There&#39;s a Better Way to Open That Bag of Snacks](https://lifehacker.com/theres-a-better-way-to-open-that-bag-of-snacks-1850274532)
 - [Lifehacker] [You Can Download the Out-of-Print ‘Zelda: Breath of the Wild’ Explorer’s Guide for Free](https://lifehacker.com/you-can-download-the-out-of-print-zelda-breath-of-the-1850274795)
 - [Lifehacker] [How to Spot If Your Food Is Coming From a Ghost Kitchen](https://lifehacker.com/is-your-food-delivery-coming-from-a-ghost-kitchen-1848907749)
@@ -57,12 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Take These Steps to Heal Your Relationship With Money](https://lifehacker.com/take-these-steps-to-heal-your-relationship-with-money-1850269034)
 - [Lifehacker] [The Best New iPhone Features in iOS 16.4](https://lifehacker.com/the-best-new-iphone-features-in-ios-16-4-1850268879)
 - [Lifehacker] [That Email Is Not the IRS, It’s a Scam](https://lifehacker.com/that-email-is-not-the-irs-it-s-a-scam-1850268576)
-- [Lifehacker] [All the Ways You’re Risking a House Fire &lpar;Without Realizing It&rpar;](https://lifehacker.com/all-the-ways-you-re-risking-a-house-fire-without-reali-1850267641)
-- [Lifehacker] [You Should Use ChatGPT for These Mundane Tasks](https://lifehacker.com/you-should-use-chatgpt-for-these-mundane-tasks-1850263749)
-- [Lifehacker] [When Decorating, Stick to the ‘Rule of Three’](https://lifehacker.com/when-decorating-stick-to-the-rule-of-three-1850262726)
-- [Lifehacker] [You Can Get Ring’s Video Doorbell for $39 Right Now](https://lifehacker.com/you-can-get-ring-s-video-doorbell-for-39-right-now-1850263294)
-- [Lifehacker] [Why Your Electrical Stuff Sometimes Stops Working Until You Push the Magic Red Button](https://lifehacker.com/why-your-electrical-stuff-sometimes-stops-working-until-1850263390)
-- [Lifehacker] [How to Prep Potatoes Ahead of Time Without Any Browning](https://lifehacker.com/how-to-prep-potatoes-ahead-of-time-without-any-browning-1850263483)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Ways You’re Risking a House Fire &lpar;Without Realizing It&rpar;](https://lifehacker.com/all-the-ways-you-re-risking-a-house-fire-without-reali-1850267641)<!-- TECH-POSTS:END -->
 
 ---
 
