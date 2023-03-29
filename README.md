@@ -23,20 +23,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [เครื่องมือการสร้างแผนที่ในเกมโดยใช้ Random Walk Algorithm](https://dev.to/nuttapon026/ekhruuengmuuekaarsraangaephnthiiainekmodyaich-random-walk-algorithm-53og)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Cortando palitos](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-cortando-palitos-336p)
+- [Dev.to/JS] [Regular Expressions aka REGEX crash course](https://dev.to/nikolasbarwicki/regular-expressions-aka-regex-crash-course-52b1)
+- [Lifehacker] [Here&#39;s the Best Time to Book Your Summer Travel](https://lifehacker.com/heres-the-best-time-to-book-your-summer-travel-1850273155)
+- [Dev.to/JS] [Arrow Function vs Normal Function in JavaScript](https://dev.to/makstyle119/arrow-function-vs-normal-function-in-javascript-4fe3)
+- [Dev.to/JS] [React Hooks: useState](https://dev.to/oluwatrillions/react-hooks-usestate-o4k)
+- [Lifehacker] [How to Respond to Every Type of Annoying Airline Passenger](https://lifehacker.com/how-to-respond-to-every-type-of-annoying-airline-passen-1850277050)
+- [Dev.to/JS] [USE MICROFRONT-END FOR SPA OR MPA BECAUSE AND WHY?](https://dev.to/gianlucasms/use-microfront-end-for-spa-or-mpa-because-and-why-15og)
+- [Dev.to/JS] [Next.js 13.2.4](https://dev.to/ifeanyichima/nextjs-1324-16fe)
+- [Lifehacker] [Attention: I Have Revolutionized Cheese Fries](https://lifehacker.com/attention-i-have-revolutionized-cheese-fries-1850276074)
 - [Dev.to/JS] [Paracetamol.js💊| #213: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-213-explica-este-codigo-javascript-k8e)
 - [Dev.to/JS] [Using ChatGPT for productivity in JavaScript: Quick wins](https://dev.to/wraldpyk/5-ways-to-improve-your-javascript-productivity-with-chatgpt-2lgn)
 - [Lifehacker] [Everything You Can Clean With a Hand-Steamer &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/everything-you-can-clean-with-a-hand-steamer-but-arent-1850275364)
 - [Dev.to/JS] [Working With Azure Synapse Analytics Service Using Azure Cloud Portal](https://dev.to/sardarmudassaralikhan/working-with-azure-synapse-analytics-service-using-azure-cloud-portal-ao4)
-- [Dev.to/JS] [What is TypeScript? 👩‍💻](https://dev.to/c_yatteau/what-is-typescript-5h59)
+- [Dev.to/JS] [3 Analogies to Describe TypeScript 👩‍💻](https://dev.to/c_yatteau/what-is-typescript-5h59)
 - [Dev.to/JS] [Storage with Supabase](https://dev.to/guillaumeduhan/storage-with-supabase-doa)
-- [Dev.to/JS] [Moonly weekly progress update #42](https://dev.to/moonly/moonly-weekly-progress-update-42-582k)
-- [Dev.to/JS] [📚 34 JavaScript String Methods Cheatsheet](https://dev.to/catherineisonline/34-javascript-string-methods-cheatsheet-43e7)
 - [Lifehacker] [There&#39;s a Better Way to Open That Bag of Snacks](https://lifehacker.com/theres-a-better-way-to-open-that-bag-of-snacks-1850274532)
-- [Dev.to/JS] [Working with the Azure Cognitive Search Service Using Azure Cloud Portal](https://dev.to/sardarmudassaralikhan/working-with-the-azure-cognitive-search-service-using-azure-cloud-portal-cmk)
-- [Dev.to/JS] [How to Build a Blog with the Apostrophe Blog Module](https://dev.to/apostrophecms/how-to-build-a-blog-with-the-apostrophe-blog-module-57ml)
-- [Dev.to/JS] [usePrevious + useEffect =  🕺](https://dev.to/receter/useprevious-useeffect--33p0)
-- [Dev.to/JS] [Get to know the Monster Button Bar](https://dev.to/schukai/get-to-know-the-monster-button-bar-5c7l)
-- [Dev.to/JS] [Don&#39;t use dynamic [lang] segment for your i18n Next.js routes](https://dev.to/svobik7/dont-use-dynamic-lang-segment-for-your-i18n-nextjs-routes-3k05)
 - [Lifehacker] [You Can Download the Out-of-Print ‘Zelda: Breath of the Wild’ Explorer’s Guide for Free](https://lifehacker.com/you-can-download-the-out-of-print-zelda-breath-of-the-1850274795)
 - [Lifehacker] [How to Spot If Your Food Is Coming From a Ghost Kitchen](https://lifehacker.com/is-your-food-delivery-coming-from-a-ghost-kitchen-1848907749)
 - [Lifehacker] [This Service Will Hang Onto Your Luggage While You Explore a New City](https://lifehacker.com/this-service-will-hang-onto-your-luggage-while-you-expl-1850274154)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When Decorating, Stick to the ‘Rule of Three’](https://lifehacker.com/when-decorating-stick-to-the-rule-of-three-1850262726)
 - [Lifehacker] [You Can Get Ring’s Video Doorbell for $39 Right Now](https://lifehacker.com/you-can-get-ring-s-video-doorbell-for-39-right-now-1850263294)
 - [Lifehacker] [Why Your Electrical Stuff Sometimes Stops Working Until You Push the Magic Red Button](https://lifehacker.com/why-your-electrical-stuff-sometimes-stops-working-until-1850263390)
-- [Lifehacker] [How to Prep Potatoes Ahead of Time Without Any Browning](https://lifehacker.com/how-to-prep-potatoes-ahead-of-time-without-any-browning-1850263483)
-- [Lifehacker] [Finally, There’s an Easy Way to Reduce Background Noise on Your iPhone](https://lifehacker.com/finally-there-s-an-easy-way-to-reduce-background-noise-1850262365)
-- [Lifehacker] [These PB&amp;J Bars Are Next Level Baked Oats](https://lifehacker.com/these-pb-j-bars-are-next-level-baked-oats-1850263076)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Prep Potatoes Ahead of Time Without Any Browning](https://lifehacker.com/how-to-prep-potatoes-ahead-of-time-without-any-browning-1850263483)<!-- TECH-POSTS:END -->
 
 ---
 
