@@ -23,19 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #213: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-213-explica-este-codigo-javascript-k8e)
+- [Dev.to/JS] [Using ChatGPT for productivity in JavaScript: Quick wins](https://dev.to/wraldpyk/5-ways-to-improve-your-javascript-productivity-with-chatgpt-2lgn)
+- [Lifehacker] [Everything You Can Clean With a Hand-Steamer &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/everything-you-can-clean-with-a-hand-steamer-but-arent-1850275364)
+- [Dev.to/JS] [Working With Azure Synapse Analytics Service Using Azure Cloud Portal](https://dev.to/sardarmudassaralikhan/working-with-azure-synapse-analytics-service-using-azure-cloud-portal-ao4)
+- [Dev.to/JS] [What is TypeScript? 👩‍💻](https://dev.to/c_yatteau/what-is-typescript-5h59)
+- [Dev.to/JS] [Storage with Supabase](https://dev.to/guillaumeduhan/storage-with-supabase-doa)
+- [Dev.to/JS] [Moonly weekly progress update #42](https://dev.to/moonly/moonly-weekly-progress-update-42-582k)
+- [Dev.to/JS] [📚 34 JavaScript String Methods Cheatsheet](https://dev.to/catherineisonline/34-javascript-string-methods-cheatsheet-43e7)
 - [Lifehacker] [There&#39;s a Better Way to Open That Bag of Snacks](https://lifehacker.com/theres-a-better-way-to-open-that-bag-of-snacks-1850274532)
 - [Dev.to/JS] [Working with the Azure Cognitive Search Service Using Azure Cloud Portal](https://dev.to/sardarmudassaralikhan/working-with-the-azure-cognitive-search-service-using-azure-cloud-portal-cmk)
 - [Dev.to/JS] [How to Build a Blog with the Apostrophe Blog Module](https://dev.to/apostrophecms/how-to-build-a-blog-with-the-apostrophe-blog-module-57ml)
 - [Dev.to/JS] [usePrevious + useEffect =  🕺](https://dev.to/receter/useprevious-useeffect--33p0)
 - [Dev.to/JS] [Get to know the Monster Button Bar](https://dev.to/schukai/get-to-know-the-monster-button-bar-5c7l)
 - [Dev.to/JS] [Don&#39;t use dynamic [lang] segment for your i18n Next.js routes](https://dev.to/svobik7/dont-use-dynamic-lang-segment-for-your-i18n-nextjs-routes-3k05)
-- [Dev.to/JS] [How to create a dynamic fixed navigation system on a web page.](https://dev.to/rebelnii/how-to-create-a-dynamic-fixed-navigation-system-on-a-web-page-1a6h)
-- [Dev.to/JS] [What’s The Difference Between a Junior, Mid-Level, and Senior Developer?](https://dev.to/cultbyhoneypot/whats-the-difference-between-a-junior-mid-level-and-senior-developer-41pn)
-- [Dev.to/JS] [Top Programming Language for Blockchain Development](https://dev.to/mayanks01798115/top-programming-language-for-blockchain-development-4dc9)
-- [Dev.to/JS] [A detailed guide on how to implement Server-side Rendering &lpar;SSR&rpar; in a NextJs Application](https://dev.to/onlyoneerin/a-detailed-guide-on-how-to-implement-server-side-rendering-ssr-in-a-nextjs-application-1mpp)
-- [Dev.to/JS] [What Is Cross Platform Application Development](https://dev.to/bhaviksadhu/what-is-cross-platform-application-development-1d4e)
-- [Dev.to/JS] [Creating Reusable Components with the Composition API &amp; Composables](https://dev.to/muhammederdinc/creating-reusable-components-with-the-composition-api-composables-hbh)
-- [Dev.to/JS] [Composition API ve Composable’lar ile Yeniden Kullanılabilir Component’ler Oluşturmak](https://dev.to/muhammederdinc/composition-api-ve-composablelar-ile-yeniden-kullanilabilir-componentler-olusturmak-4ph8)
 - [Lifehacker] [You Can Download the Out-of-Print ‘Zelda: Breath of the Wild’ Explorer’s Guide for Free](https://lifehacker.com/you-can-download-the-out-of-print-zelda-breath-of-the-1850274795)
 - [Lifehacker] [How to Spot If Your Food Is Coming From a Ghost Kitchen](https://lifehacker.com/is-your-food-delivery-coming-from-a-ghost-kitchen-1848907749)
 - [Lifehacker] [This Service Will Hang Onto Your Luggage While You Explore a New City](https://lifehacker.com/this-service-will-hang-onto-your-luggage-while-you-expl-1850274154)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Prep Potatoes Ahead of Time Without Any Browning](https://lifehacker.com/how-to-prep-potatoes-ahead-of-time-without-any-browning-1850263483)
 - [Lifehacker] [Finally, There’s an Easy Way to Reduce Background Noise on Your iPhone](https://lifehacker.com/finally-there-s-an-easy-way-to-reduce-background-noise-1850262365)
 - [Lifehacker] [These PB&amp;J Bars Are Next Level Baked Oats](https://lifehacker.com/these-pb-j-bars-are-next-level-baked-oats-1850263076)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
-- [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)<!-- TECH-POSTS:END -->
 
 ---
 
