@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Blog tag index pages in Astro](https://dev.to/eliancodes/building-blog-tag-index-pages-in-astro-9kb)
+- [Lifehacker] [These JBL Noise-Canceling Earbuds Are Only $50 Right Now](https://lifehacker.com/these-jbl-noise-canceling-earbuds-are-only-50-right-no-1850278993)
+- [Dev.to/JS] [Vue JS Essentials: A Beginners Series on Pinia, Vitest, and Supabase #2 Pinia, Tests And Mocking](https://dev.to/aaronksaunders/vue-js-essentials-a-beginners-series-on-pinia-vitest-and-supabase-2-pinia-tests-and-mocking-5fb1)
+- [Lifehacker] [Make Cinnamon Extract With Only Two Ingredients](https://lifehacker.com/make-cinnamon-extract-with-only-two-ingredients-1850278864)
 - [Dev.to/JS] [Update all the Values in an Object using JavaScript](https://dev.to/coder9/update-all-the-values-in-an-object-using-javascript-4pbc)
 - [Lifehacker] [This Is How to Tell Whether a Recipe Really Is ‘Easy’](https://lifehacker.com/this-is-how-to-tell-whether-a-recipe-really-is-easy-1850277957)
 - [Crazy Programmer] [How to Declare a Variable in SQL and Assign a Value?](https://www.thecrazyprogrammer.com/2023/03/how-to-declare-a-variable-in-sql.html)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Arrow Function vs Normal Function in JavaScript](https://dev.to/makstyle119/arrow-function-vs-normal-function-in-javascript-4fe3)
 - [Dev.to/JS] [React Hooks: useState](https://dev.to/oluwatrillions/react-hooks-usestate-o4k)
 - [Lifehacker] [How to Respond to Every Type of Annoying Airline Passenger](https://lifehacker.com/how-to-respond-to-every-type-of-annoying-airline-passen-1850277050)
-- [Dev.to/JS] [USE MICROFRONT-END FOR SPA OR MPA BECAUSE AND WHY?](https://dev.to/gianlucasms/use-microfront-end-for-spa-or-mpa-because-and-why-15og)
-- [Dev.to/JS] [Next.js 13.2.4](https://dev.to/ifeanyichima/nextjs-1324-16fe)
 - [Lifehacker] [Attention: I Have Revolutionized Cheese Fries](https://lifehacker.com/attention-i-have-revolutionized-cheese-fries-1850276074)
 - [Lifehacker] [Everything You Can Clean With a Hand-Steamer &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/everything-you-can-clean-with-a-hand-steamer-but-arent-1850275364)
 - [Lifehacker] [There&#39;s a Better Way to Open That Bag of Snacks](https://lifehacker.com/theres-a-better-way-to-open-that-bag-of-snacks-1850274532)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make These Spanakopita Pockets for Your Next Snack Dinner](https://lifehacker.com/make-these-spanakopita-pockets-for-your-next-snack-dinn-1850269433)
 - [Lifehacker] [Try Putting Your Clutter in ‘Purgatory’](https://lifehacker.com/try-putting-your-clutter-in-purgatory-1850268872)
 - [Lifehacker] [Take These Steps to Heal Your Relationship With Money](https://lifehacker.com/take-these-steps-to-heal-your-relationship-with-money-1850269034)
-- [Lifehacker] [The Best New iPhone Features in iOS 16.4](https://lifehacker.com/the-best-new-iphone-features-in-ios-16-4-1850268879)
-- [Lifehacker] [That Email Is Not the IRS, It’s a Scam](https://lifehacker.com/that-email-is-not-the-irs-it-s-a-scam-1850268576)
-- [Lifehacker] [All the Ways You’re Risking a House Fire &lpar;Without Realizing It&rpar;](https://lifehacker.com/all-the-ways-you-re-risking-a-house-fire-without-reali-1850267641)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best New iPhone Features in iOS 16.4](https://lifehacker.com/the-best-new-iphone-features-in-ios-16-4-1850268879)<!-- TECH-POSTS:END -->
 
 ---
 
