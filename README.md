@@ -23,10 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scroll Indicator using React](https://dev.to/sarahcssiqueira/scroll-indicator-using-react-22pk)
 - [Dev.to/JS] [first year of coding](https://dev.to/hanoon02/first-year-of-coding-200o)
 - [Dev.to/JS] [Gnarly Learnings from March 2023](https://dev.to/thegnarco/gnarly-learnings-from-march-2023-17a2)
 - [Lifehacker] [You Can Argue Against a Rent Increase](https://lifehacker.com/you-can-argue-against-a-rent-increase-1850278581)
-- [Dev.to/JS] [Tree shaking 🌳](https://dev.to/adriancl/tree-shaking-1ffp)
+- [Dev.to/JS] [Tree shaking 🌳](https://dev.to/productosdigitales/tree-shaking-1ffp)
 - [Dev.to/JS] [ejc-cli: Manage your json data better with visual excel sheets](https://dev.to/limingcan562/ejc-cli-manage-your-json-data-better-with-visual-excel-sheets-4llo)
 - [Dev.to/JS] [Building Blog tag index pages in Astro](https://dev.to/eliancodes/building-blog-tag-index-pages-in-astro-9kb)
 - [Lifehacker] [These JBL Noise-Canceling Earbuds Are Only $50 Right Now](https://lifehacker.com/these-jbl-noise-canceling-earbuds-are-only-50-right-no-1850278993)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Apps You’ve Never Used to Sell Your Used Furniture](https://lifehacker.com/the-best-apps-you-ve-never-used-to-sell-your-used-furni-1850278382)
 - [Lifehacker] [What Is Zone 2 Cardio and How Do I Actually Do It?](https://lifehacker.com/what-is-zone-2-cardio-and-how-do-i-actually-do-it-1850275966)
 - [Dev.to/JS] [How to be the worst engineer on your team?](https://dev.to/wundergraph/how-to-be-the-worst-engineer-on-your-team-18d)
-- [Dev.to/JS] [เครื่องมือการสร้างแผนที่ในเกมโดยใช้ Random Walk Algorithm](https://dev.to/nuttapon026/ekhruuengmuuekaarsraangaephnthiiainekmodyaich-random-walk-algorithm-53og)
 - [Lifehacker] [Here&#39;s the Best Time to Book Your Summer Travel](https://lifehacker.com/heres-the-best-time-to-book-your-summer-travel-1850273155)
 - [Lifehacker] [How to Respond to Every Type of Annoying Airline Passenger](https://lifehacker.com/how-to-respond-to-every-type-of-annoying-airline-passen-1850277050)
 - [Lifehacker] [Attention: I Have Revolutionized Cheese Fries](https://lifehacker.com/attention-i-have-revolutionized-cheese-fries-1850276074)
