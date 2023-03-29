@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let’s talk about APIs, shall we?](https://dev.to/svenherr/lets-talk-about-apis-shall-we-2bc4)
+- [Dev.to/JS] [Episode 23/12: Alex Rickabaugh on Signals, Playwright 1.32](https://dev.to/ng_news/episode-2312-2623)
 - [Dev.to/JS] [Scroll Indicator using React](https://dev.to/sarahcssiqueira/scroll-indicator-using-react-22pk)
 - [Dev.to/JS] [first year of coding](https://dev.to/hanoon02/first-year-of-coding-200o)
 - [Dev.to/JS] [Gnarly Learnings from March 2023](https://dev.to/thegnarco/gnarly-learnings-from-march-2023-17a2)
@@ -39,10 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Buy &#39;The Last of Us, Part 1&#39; on PC](https://lifehacker.com/dont-buy-the-last-of-us-part-1-on-pc-1850278163)
 - [Dev.to/JS] [10 GraphQL Developer Tools I Use To Make Building APIs Easier](https://dev.to/wundergraph/10-graphql-developer-tools-i-use-to-make-building-apis-easier-pgf)
 - [Dev.to/JS] [React Server Components Without a Framework](https://dev.to/shiftyp/react-server-components-without-a-framework-2jpf)
-- [Dev.to/JS] [Insertar elementos en un índice específico de un array en JavaScript](https://dev.to/asjordi/insertar-elementos-en-un-indice-especifico-de-un-array-en-javascript-3j1n)
 - [Lifehacker] [The Best Apps You’ve Never Used to Sell Your Used Furniture](https://lifehacker.com/the-best-apps-you-ve-never-used-to-sell-your-used-furni-1850278382)
 - [Lifehacker] [What Is Zone 2 Cardio and How Do I Actually Do It?](https://lifehacker.com/what-is-zone-2-cardio-and-how-do-i-actually-do-it-1850275966)
-- [Dev.to/JS] [How to be the worst engineer on your team?](https://dev.to/wundergraph/how-to-be-the-worst-engineer-on-your-team-18d)
 - [Lifehacker] [Here&#39;s the Best Time to Book Your Summer Travel](https://lifehacker.com/heres-the-best-time-to-book-your-summer-travel-1850273155)
 - [Lifehacker] [How to Respond to Every Type of Annoying Airline Passenger](https://lifehacker.com/how-to-respond-to-every-type-of-annoying-airline-passen-1850277050)
 - [Lifehacker] [Attention: I Have Revolutionized Cheese Fries](https://lifehacker.com/attention-i-have-revolutionized-cheese-fries-1850276074)
