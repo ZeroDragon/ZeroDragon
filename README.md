@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Weekly web development resources #142](https://dev.to/vincenius/weekly-web-development-resources-142-1kk9)
+- [Dev.to/JS] [Introduction to flutter](https://dev.to/helen1/introduction-to-flutter-19ik)
 - [Dev.to/JS] [Nodejs class-based server](https://dev.to/ralexs0096/nodejs-class-based-server-1anb)
 - [Dev.to/JS] [A Beginner&#39;s Guide to React](https://dev.to/jjpark987/a-beginners-guide-to-react-2h0f)
 - [Dev.to/JS] [Understanding event bubbling and capturing](https://dev.to/asayerio_techblog/understanding-event-bubbling-and-capturing-4b6p)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Promises&lpar;&rpar;](https://dev.to/marcellecode/promises-d8a)
 - [Dev.to/JS] [10 Free Next.js Templates and Hidden Gems 2023](https://dev.to/iskurbanov/free-nextjs-templates-and-hidden-gems-2023-22m8)
 - [Dev.to/JS] [What is JavaScript?](https://dev.to/mahfuzurrahman01/what-is-javascript-3m8o)
-- [Dev.to/JS] [Setting up a TypeORM, MySQL with Apollo graphQL server](https://dev.to/kalashin1/setting-up-a-typeorm-mysql-with-apollo-graphql-server-55pd)
-- [Dev.to/JS] [Why TypeScript is Essential for Modern Software Development](https://dev.to/hakki/why-typescript-is-essential-for-modern-software-development-3edl)
 - [Lifehacker] [You Can Download the Out-of-Print ‘Zelda: Breath of the Wild’ Explorer’s Guide for Free](https://lifehacker.com/you-can-download-the-out-of-print-zelda-breath-of-the-1850274795)
 - [Lifehacker] [How to Spot If Your Food Is Coming From a Ghost Kitchen](https://lifehacker.com/is-your-food-delivery-coming-from-a-ghost-kitchen-1848907749)
 - [Lifehacker] [This Service Will Hang Onto Your Luggage While You Explore a New City](https://lifehacker.com/this-service-will-hang-onto-your-luggage-while-you-expl-1850274154)
