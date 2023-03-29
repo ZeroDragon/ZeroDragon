@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Journey in Open Source - super-simple-signal](https://dev.to/cadienvan/my-journey-in-open-source-super-simple-signal-1hkj)
+- [Dev.to/JS] [10 open-source alternatives to run your businesses](https://dev.to/tejakummarikuntla/10-open-source-alternatives-to-run-your-businesses-193c)
+- [Dev.to/JS] [Only 34% of developers got this JS concept right 😱❗️❗️](https://dev.to/jareechang/only-34-of-developers-got-this-js-concept-right-1ok8)
+- [Dev.to/JS] [Best Web Development Languages To Learn in 2023](https://dev.to/infowindtechno/best-web-development-languages-to-learn-in-2023-1na9)
 - [Dev.to/JS] [Weekly web development resources #142](https://dev.to/vincenius/weekly-web-development-resources-142-1kk9)
 - [Dev.to/JS] [Introduction to flutter](https://dev.to/helen1/introduction-to-flutter-19ik)
 - [Dev.to/JS] [Nodejs class-based server](https://dev.to/ralexs0096/nodejs-class-based-server-1anb)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Node.js?](https://dev.to/mahmoudessam/what-is-nodejs--12e1)
 - [Dev.to/JS] [TypeScript , A brief introduction.](https://dev.to/hagarabdelzaher/typescript-a-brief-introduction-4663)
 - [Dev.to/JS] [Building a simple Chrome extension with JS](https://dev.to/audreymengue/building-a-simple-chrome-extension-with-js-1143)
-- [Dev.to/JS] [PLEASE how do i effectively learn API as a frontend developer?](https://dev.to/sagemanolo/please-how-do-i-effectively-learn-api-as-a-frontend-developer-59ib)
-- [Dev.to/JS] [Promises&lpar;&rpar;](https://dev.to/marcellecode/promises-d8a)
-- [Dev.to/JS] [10 Free Next.js Templates and Hidden Gems 2023](https://dev.to/iskurbanov/free-nextjs-templates-and-hidden-gems-2023-22m8)
-- [Dev.to/JS] [What is JavaScript?](https://dev.to/mahfuzurrahman01/what-is-javascript-3m8o)
 - [Lifehacker] [You Can Download the Out-of-Print ‘Zelda: Breath of the Wild’ Explorer’s Guide for Free](https://lifehacker.com/you-can-download-the-out-of-print-zelda-breath-of-the-1850274795)
 - [Lifehacker] [How to Spot If Your Food Is Coming From a Ghost Kitchen](https://lifehacker.com/is-your-food-delivery-coming-from-a-ghost-kitchen-1848907749)
 - [Lifehacker] [This Service Will Hang Onto Your Luggage While You Explore a New City](https://lifehacker.com/this-service-will-hang-onto-your-luggage-while-you-expl-1850274154)
