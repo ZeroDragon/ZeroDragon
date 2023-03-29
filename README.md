@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Composition API ve Composable’lar ile Yeniden Kullanılabilir Component’ler Oluşturmak](https://dev.to/muhammederdinc/composition-api-ve-composablelar-ile-yeniden-kullanilabilir-componentler-olusturmak-4ph8)
+- [Dev.to/JS] [Type Narrowing vs Type Casting in TypeScript](https://dev.to/bybydev/type-narrowing-vs-type-casting-in-typescript-1jef)
 - [Dev.to/JS] [Send background props to other component](https://dev.to/gundogduyakici/send-background-props-to-other-component-468d)
 - [Dev.to/JS] [How to load large mp4 video as frames on canvas with konvajs](https://dev.to/puneetjindal/how-to-load-large-mp4-video-as-frames-on-canvas-with-konvajs-2p7d)
 - [Dev.to/JS] [RxJS 7 - Pipeable Operators](https://dev.to/barisbll/rxjs-7-pipeable-operators-2ie7)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Web Development Languages To Learn in 2023](https://dev.to/infowindtechno/best-web-development-languages-to-learn-in-2023-1na9)
 - [Dev.to/JS] [Weekly web development resources #142](https://dev.to/vincenius/weekly-web-development-resources-142-1kk9)
 - [Dev.to/JS] [Introduction to flutter](https://dev.to/helen1/introduction-to-flutter-19ik)
-- [Dev.to/JS] [What causes end-to-end flakiness and how to address it](https://dev.to/how-to-dev/what-causes-end-to-end-flakiness-and-how-to-address-it-48ob)
-- [Dev.to/JS] [Nodejs class-based server](https://dev.to/ralexs0096/nodejs-class-based-server-1anb)
 - [Lifehacker] [You Can Download the Out-of-Print ‘Zelda: Breath of the Wild’ Explorer’s Guide for Free](https://lifehacker.com/you-can-download-the-out-of-print-zelda-breath-of-the-1850274795)
 - [Lifehacker] [How to Spot If Your Food Is Coming From a Ghost Kitchen](https://lifehacker.com/is-your-food-delivery-coming-from-a-ghost-kitchen-1848907749)
 - [Lifehacker] [This Service Will Hang Onto Your Luggage While You Explore a New City](https://lifehacker.com/this-service-will-hang-onto-your-luggage-while-you-expl-1850274154)
