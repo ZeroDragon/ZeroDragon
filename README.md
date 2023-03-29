@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Send background props to other component](https://dev.to/gundogduyakici/send-background-props-to-other-component-468d)
+- [Dev.to/JS] [How to load large mp4 video as frames on canvas with konvajs](https://dev.to/puneetjindal/how-to-load-large-mp4-video-as-frames-on-canvas-with-konvajs-2p7d)
+- [Dev.to/JS] [RxJS 7 - Pipeable Operators](https://dev.to/barisbll/rxjs-7-pipeable-operators-2ie7)
 - [Dev.to/JS] [ProDentim - Dental Reviews, Benefits, Ingredients And Side Effects?](https://dev.to/prodentimi43670/prodentim-dental-reviews-benefits-ingredients-and-side-effects-4adj)
 - [Dev.to/JS] [My Journey in Open Source - super-simple-signal](https://dev.to/cadienvan/my-journey-in-open-source-super-simple-signal-1hkj)
 - [Dev.to/JS] [10 open-source alternatives to run your businesses](https://dev.to/tejakummarikuntla/10-open-source-alternatives-to-run-your-businesses-193c)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to flutter](https://dev.to/helen1/introduction-to-flutter-19ik)
 - [Dev.to/JS] [What causes end-to-end flakiness and how to address it](https://dev.to/how-to-dev/what-causes-end-to-end-flakiness-and-how-to-address-it-48ob)
 - [Dev.to/JS] [Nodejs class-based server](https://dev.to/ralexs0096/nodejs-class-based-server-1anb)
-- [Dev.to/JS] [A Beginner&#39;s Guide to React](https://dev.to/jjpark987/a-beginners-guide-to-react-2h0f)
-- [Dev.to/JS] [Understanding event bubbling and capturing](https://dev.to/asayerio_techblog/understanding-event-bubbling-and-capturing-4b6p)
-- [Dev.to/JS] [What is Node.js?](https://dev.to/mahmoudessam/what-is-nodejs--12e1)
 - [Lifehacker] [You Can Download the Out-of-Print ‘Zelda: Breath of the Wild’ Explorer’s Guide for Free](https://lifehacker.com/you-can-download-the-out-of-print-zelda-breath-of-the-1850274795)
 - [Lifehacker] [How to Spot If Your Food Is Coming From a Ghost Kitchen](https://lifehacker.com/is-your-food-delivery-coming-from-a-ghost-kitchen-1848907749)
 - [Lifehacker] [This Service Will Hang Onto Your Luggage While You Explore a New City](https://lifehacker.com/this-service-will-hang-onto-your-luggage-while-you-expl-1850274154)
