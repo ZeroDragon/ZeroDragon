@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TypeScript , A brief introduction.](https://dev.to/hagarabdelzaher/typescript-a-brief-introduction-4663)
 - [Dev.to/JS] [Building a simple Chrome extension with JS](https://dev.to/audreymengue/building-a-simple-chrome-extension-with-js-1143)
 - [Dev.to/JS] [PLEASE how do i effectively learn API as a frontend developer?](https://dev.to/sagemanolo/please-how-do-i-effectively-learn-api-as-a-frontend-developer-59ib)
 - [Dev.to/JS] [Promises&lpar;&rpar;](https://dev.to/marcellecode/promises-d8a)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node JS Custom Streams Part 2](https://dev.to/thebridge2/node-js-custom-streams-part-2-57dn)
 - [Dev.to/JS] [Intro to Binary with NodeJS Buffer examples](https://dev.to/thebridge2/intro-to-binary-with-nodejs-buffer-examples-c0k)
 - [Lifehacker] [You Can Download the Out-of-Print ‘Zelda: Breath of the Wild’ Explorer’s Guide for Free](https://lifehacker.com/you-can-download-the-out-of-print-zelda-breath-of-the-1850274795)
-- [Dev.to/JS] [Mastering the Compound Components Pattern in React](https://dev.to/i_shahmeer/mastering-the-compound-components-pattern-in-react-385d)
 - [Lifehacker] [How to Spot If Your Food Is Coming From a Ghost Kitchen](https://lifehacker.com/is-your-food-delivery-coming-from-a-ghost-kitchen-1848907749)
 - [Lifehacker] [This Service Will Hang Onto Your Luggage While You Explore a New City](https://lifehacker.com/this-service-will-hang-onto-your-luggage-while-you-expl-1850274154)
 - [Lifehacker] [You Can Grab the Nintendo Switch OLED for $40 Off Right Now](https://lifehacker.com/you-can-grab-the-nintendo-switch-oled-for-40-off-right-1850273753)
