@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [first year of coding](https://dev.to/hanoon02/first-year-of-coding-200o)
+- [Dev.to/JS] [Gnarly Learnings from March 2023](https://dev.to/thegnarco/gnarly-learnings-from-march-2023-17a2)
+- [Lifehacker] [You Can Argue Against a Rent Increase](https://lifehacker.com/you-can-argue-against-a-rent-increase-1850278581)
+- [Dev.to/JS] [Tree shaking 🌳](https://dev.to/adriancl/tree-shaking-1ffp)
+- [Dev.to/JS] [ejc-cli: Manage your json data better with visual excel sheets](https://dev.to/limingcan562/ejc-cli-manage-your-json-data-better-with-visual-excel-sheets-4llo)
 - [Dev.to/JS] [Building Blog tag index pages in Astro](https://dev.to/eliancodes/building-blog-tag-index-pages-in-astro-9kb)
 - [Lifehacker] [These JBL Noise-Canceling Earbuds Are Only $50 Right Now](https://lifehacker.com/these-jbl-noise-canceling-earbuds-are-only-50-right-no-1850278993)
 - [Dev.to/JS] [Vue JS Essentials: A Beginners Series on Pinia, Vitest, and Supabase #2 Pinia, Tests And Mocking](https://dev.to/aaronksaunders/vue-js-essentials-a-beginners-series-on-pinia-vitest-and-supabase-2-pinia-tests-and-mocking-5fb1)
@@ -38,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is Zone 2 Cardio and How Do I Actually Do It?](https://lifehacker.com/what-is-zone-2-cardio-and-how-do-i-actually-do-it-1850275966)
 - [Dev.to/JS] [How to be the worst engineer on your team?](https://dev.to/wundergraph/how-to-be-the-worst-engineer-on-your-team-18d)
 - [Dev.to/JS] [เครื่องมือการสร้างแผนที่ในเกมโดยใช้ Random Walk Algorithm](https://dev.to/nuttapon026/ekhruuengmuuekaarsraangaephnthiiainekmodyaich-random-walk-algorithm-53og)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Cortando palitos](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-cortando-palitos-336p)
-- [Dev.to/JS] [Regular Expressions aka REGEX crash course](https://dev.to/nikolasbarwicki/regular-expressions-aka-regex-crash-course-52b1)
 - [Lifehacker] [Here&#39;s the Best Time to Book Your Summer Travel](https://lifehacker.com/heres-the-best-time-to-book-your-summer-travel-1850273155)
-- [Dev.to/JS] [Arrow Function vs Normal Function in JavaScript](https://dev.to/makstyle119/arrow-function-vs-normal-function-in-javascript-4fe3)
-- [Dev.to/JS] [React Hooks: useState](https://dev.to/oluwatrillions/react-hooks-usestate-o4k)
 - [Lifehacker] [How to Respond to Every Type of Annoying Airline Passenger](https://lifehacker.com/how-to-respond-to-every-type-of-annoying-airline-passen-1850277050)
 - [Lifehacker] [Attention: I Have Revolutionized Cheese Fries](https://lifehacker.com/attention-i-have-revolutionized-cheese-fries-1850276074)
 - [Lifehacker] [Everything You Can Clean With a Hand-Steamer &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/everything-you-can-clean-with-a-hand-steamer-but-arent-1850275364)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Safest, Quickest Way to Get Hot Grease Out of a Pan](https://lifehacker.com/the-safest-quickest-way-to-get-hot-grease-out-of-a-pan-1850269466)
 - [Lifehacker] [Make These Spanakopita Pockets for Your Next Snack Dinner](https://lifehacker.com/make-these-spanakopita-pockets-for-your-next-snack-dinn-1850269433)
 - [Lifehacker] [Try Putting Your Clutter in ‘Purgatory’](https://lifehacker.com/try-putting-your-clutter-in-purgatory-1850268872)
-- [Lifehacker] [Take These Steps to Heal Your Relationship With Money](https://lifehacker.com/take-these-steps-to-heal-your-relationship-with-money-1850269034)
-- [Lifehacker] [The Best New iPhone Features in iOS 16.4](https://lifehacker.com/the-best-new-iphone-features-in-ios-16-4-1850268879)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Take These Steps to Heal Your Relationship With Money](https://lifehacker.com/take-these-steps-to-heal-your-relationship-with-money-1850269034)<!-- TECH-POSTS:END -->
 
 ---
 
