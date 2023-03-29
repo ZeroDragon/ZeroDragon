@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nodejs class-based server](https://dev.to/ralexs0096/nodejs-class-based-server-1anb)
+- [Dev.to/JS] [A Beginner&#39;s Guide to React](https://dev.to/jjpark987/a-beginners-guide-to-react-2h0f)
 - [Dev.to/JS] [Understanding event bubbling and capturing](https://dev.to/asayerio_techblog/understanding-event-bubbling-and-capturing-4b6p)
 - [Dev.to/JS] [What is Node.js?](https://dev.to/mahmoudessam/what-is-nodejs--12e1)
 - [Dev.to/JS] [TypeScript , A brief introduction.](https://dev.to/hagarabdelzaher/typescript-a-brief-introduction-4663)
 - [Dev.to/JS] [Building a simple Chrome extension with JS](https://dev.to/audreymengue/building-a-simple-chrome-extension-with-js-1143)
 - [Dev.to/JS] [PLEASE how do i effectively learn API as a frontend developer?](https://dev.to/sagemanolo/please-how-do-i-effectively-learn-api-as-a-frontend-developer-59ib)
 - [Dev.to/JS] [Promises&lpar;&rpar;](https://dev.to/marcellecode/promises-d8a)
-- [Dev.to/JS] [Free Next.js Templates and Hidden Gems 2023](https://dev.to/iskurbanov/free-nextjs-templates-and-hidden-gems-2023-22m8)
+- [Dev.to/JS] [10 Free Next.js Templates and Hidden Gems 2023](https://dev.to/iskurbanov/free-nextjs-templates-and-hidden-gems-2023-22m8)
 - [Dev.to/JS] [What is JavaScript?](https://dev.to/mahfuzurrahman01/what-is-javascript-3m8o)
 - [Dev.to/JS] [Setting up a TypeORM, MySQL with Apollo graphQL server](https://dev.to/kalashin1/setting-up-a-typeorm-mysql-with-apollo-graphql-server-55pd)
 - [Dev.to/JS] [Why TypeScript is Essential for Modern Software Development](https://dev.to/hakki/why-typescript-is-essential-for-modern-software-development-3edl)
-- [Dev.to/JS] [Multi-window JavaScript App](https://dev.to/devrelieffred/multi-window-javascript-app-326d)
-- [Dev.to/JS] [GPT is my new BFF &lpar;Backend for Frontends&rpar;](https://dev.to/sylvhama/gpt-is-my-new-bff-backend-for-frontends-1g03)
 - [Lifehacker] [You Can Download the Out-of-Print ‘Zelda: Breath of the Wild’ Explorer’s Guide for Free](https://lifehacker.com/you-can-download-the-out-of-print-zelda-breath-of-the-1850274795)
 - [Lifehacker] [How to Spot If Your Food Is Coming From a Ghost Kitchen](https://lifehacker.com/is-your-food-delivery-coming-from-a-ghost-kitchen-1848907749)
 - [Lifehacker] [This Service Will Hang Onto Your Luggage While You Explore a New City](https://lifehacker.com/this-service-will-hang-onto-your-luggage-while-you-expl-1850274154)
