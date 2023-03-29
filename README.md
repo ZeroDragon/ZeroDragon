@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Don&#39;t use dynamic [lang] segment for your i18n Next.js routes](https://dev.to/svobik7/dont-use-dynamic-lang-segment-for-your-i18n-nextjs-routes-3k05)
+- [Dev.to/JS] [How to create a dynamic fixed navigation system on a web page.](https://dev.to/rebelnii/how-to-create-a-dynamic-fixed-navigation-system-on-a-web-page-1a6h)
+- [Dev.to/JS] [What’s The Difference Between a Junior, Mid-Level, and Senior Developer?](https://dev.to/cultbyhoneypot/whats-the-difference-between-a-junior-mid-level-and-senior-developer-41pn)
+- [Dev.to/JS] [Top Programming Language for Blockchain Development](https://dev.to/mayanks01798115/top-programming-language-for-blockchain-development-4dc9)
 - [Dev.to/JS] [A detailed guide on how to implement Server-side Rendering &lpar;SSR&rpar; in a NextJs Application](https://dev.to/onlyoneerin/a-detailed-guide-on-how-to-implement-server-side-rendering-ssr-in-a-nextjs-application-1mpp)
 - [Dev.to/JS] [What Is Cross Platform Application Development](https://dev.to/bhaviksadhu/what-is-cross-platform-application-development-1d4e)
 - [Dev.to/JS] [Creating Reusable Components with the Composition API &amp; Composables](https://dev.to/muhammederdinc/creating-reusable-components-with-the-composition-api-composables-hbh)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Send background props to other component](https://dev.to/gundogduyakici/send-background-props-to-other-component-468d)
 - [Dev.to/JS] [How to load large mp4 video as frames on canvas with konvajs](https://dev.to/puneetjindal/how-to-load-large-mp4-video-as-frames-on-canvas-with-konvajs-2p7d)
 - [Dev.to/JS] [RxJS 7 - Pipeable Operators](https://dev.to/barisbll/rxjs-7-pipeable-operators-2ie7)
-- [Dev.to/JS] [ProDentim - Dental Reviews, Benefits, Ingredients And Side Effects?](https://dev.to/prodentimi43670/prodentim-dental-reviews-benefits-ingredients-and-side-effects-4adj)
-- [Dev.to/JS] [My Journey in Open Source - super-simple-signal](https://dev.to/cadienvan/my-journey-in-open-source-super-simple-signal-1hkj)
-- [Dev.to/JS] [10 open-source alternatives to run your businesses](https://dev.to/tejakummarikuntla/10-open-source-alternatives-to-run-your-businesses-193c)
-- [Dev.to/JS] [Only 34% of developers got this JS concept right 😱❗️❗️](https://dev.to/jareechang/only-34-of-developers-got-this-js-concept-right-1ok8)
 - [Lifehacker] [You Can Download the Out-of-Print ‘Zelda: Breath of the Wild’ Explorer’s Guide for Free](https://lifehacker.com/you-can-download-the-out-of-print-zelda-breath-of-the-1850274795)
 - [Lifehacker] [How to Spot If Your Food Is Coming From a Ghost Kitchen](https://lifehacker.com/is-your-food-delivery-coming-from-a-ghost-kitchen-1848907749)
 - [Lifehacker] [This Service Will Hang Onto Your Luggage While You Explore a New City](https://lifehacker.com/this-service-will-hang-onto-your-luggage-while-you-expl-1850274154)
