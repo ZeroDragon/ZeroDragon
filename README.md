@@ -23,7 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Combining two api responses in node](https://dev.to/lutefd/combining-two-api-responses-in-node-4n47)
+- [Dev.to/JS] [Combining APIs Responses in Node](https://dev.to/lutefd/combining-two-api-responses-in-node-4n47)
 - [Dev.to/JS] [Build a Live Search Bar in React: A Step-by-Step Guide](https://dev.to/ma7moud3bas/build-a-live-search-bar-in-react-a-step-by-step-guide-2ibh)
 - [Dev.to/JS] [Beginner’s Walkthrough of React Framework 2023](https://dev.to/i_shahmeer/beginners-walkthrough-of-react-framework-2023-553a)
 - [Dev.to/JS] [Let’s talk about APIs, shall we?](https://dev.to/svenherr/lets-talk-about-apis-shall-we-2bc4)
