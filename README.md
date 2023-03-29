@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A detailed guide on how to implement Server-side Rendering &lpar;SSR&rpar; in a NextJs Application](https://dev.to/onlyoneerin/a-detailed-guide-on-how-to-implement-server-side-rendering-ssr-in-a-nextjs-application-1mpp)
+- [Dev.to/JS] [What Is Cross Platform Application Development](https://dev.to/bhaviksadhu/what-is-cross-platform-application-development-1d4e)
+- [Dev.to/JS] [Creating Reusable Components with the Composition API &amp; Composables](https://dev.to/muhammederdinc/creating-reusable-components-with-the-composition-api-composables-hbh)
 - [Dev.to/JS] [Composition API ve Composable’lar ile Yeniden Kullanılabilir Component’ler Oluşturmak](https://dev.to/muhammederdinc/composition-api-ve-composablelar-ile-yeniden-kullanilabilir-componentler-olusturmak-4ph8)
 - [Dev.to/JS] [Type Narrowing vs Type Casting in TypeScript](https://dev.to/bybydev/type-narrowing-vs-type-casting-in-typescript-1jef)
 - [Dev.to/JS] [Send background props to other component](https://dev.to/gundogduyakici/send-background-props-to-other-component-468d)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Journey in Open Source - super-simple-signal](https://dev.to/cadienvan/my-journey-in-open-source-super-simple-signal-1hkj)
 - [Dev.to/JS] [10 open-source alternatives to run your businesses](https://dev.to/tejakummarikuntla/10-open-source-alternatives-to-run-your-businesses-193c)
 - [Dev.to/JS] [Only 34% of developers got this JS concept right 😱❗️❗️](https://dev.to/jareechang/only-34-of-developers-got-this-js-concept-right-1ok8)
-- [Dev.to/JS] [Best Web Development Languages To Learn in 2023](https://dev.to/infowindtechno/best-web-development-languages-to-learn-in-2023-1na9)
-- [Dev.to/JS] [Weekly web development resources #142](https://dev.to/vincenius/weekly-web-development-resources-142-1kk9)
-- [Dev.to/JS] [Introduction to flutter](https://dev.to/helen1/introduction-to-flutter-19ik)
 - [Lifehacker] [You Can Download the Out-of-Print ‘Zelda: Breath of the Wild’ Explorer’s Guide for Free](https://lifehacker.com/you-can-download-the-out-of-print-zelda-breath-of-the-1850274795)
 - [Lifehacker] [How to Spot If Your Food Is Coming From a Ghost Kitchen](https://lifehacker.com/is-your-food-delivery-coming-from-a-ghost-kitchen-1848907749)
 - [Lifehacker] [This Service Will Hang Onto Your Luggage While You Explore a New City](https://lifehacker.com/this-service-will-hang-onto-your-luggage-while-you-expl-1850274154)
