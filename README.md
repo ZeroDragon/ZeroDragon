@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [There&#39;s a Better Way to Open That Bag of Snacks](https://lifehacker.com/theres-a-better-way-to-open-that-bag-of-snacks-1850274532)
+- [Dev.to/JS] [Working with the Azure Cognitive Search Service Using Azure Cloud Portal](https://dev.to/sardarmudassaralikhan/working-with-the-azure-cognitive-search-service-using-azure-cloud-portal-cmk)
+- [Dev.to/JS] [How to Build a Blog with the Apostrophe Blog Module](https://dev.to/apostrophecms/how-to-build-a-blog-with-the-apostrophe-blog-module-57ml)
+- [Dev.to/JS] [usePrevious + useEffect =  🕺](https://dev.to/receter/useprevious-useeffect--33p0)
+- [Dev.to/JS] [Get to know the Monster Button Bar](https://dev.to/schukai/get-to-know-the-monster-button-bar-5c7l)
 - [Dev.to/JS] [Don&#39;t use dynamic [lang] segment for your i18n Next.js routes](https://dev.to/svobik7/dont-use-dynamic-lang-segment-for-your-i18n-nextjs-routes-3k05)
 - [Dev.to/JS] [How to create a dynamic fixed navigation system on a web page.](https://dev.to/rebelnii/how-to-create-a-dynamic-fixed-navigation-system-on-a-web-page-1a6h)
 - [Dev.to/JS] [What’s The Difference Between a Junior, Mid-Level, and Senior Developer?](https://dev.to/cultbyhoneypot/whats-the-difference-between-a-junior-mid-level-and-senior-developer-41pn)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What Is Cross Platform Application Development](https://dev.to/bhaviksadhu/what-is-cross-platform-application-development-1d4e)
 - [Dev.to/JS] [Creating Reusable Components with the Composition API &amp; Composables](https://dev.to/muhammederdinc/creating-reusable-components-with-the-composition-api-composables-hbh)
 - [Dev.to/JS] [Composition API ve Composable’lar ile Yeniden Kullanılabilir Component’ler Oluşturmak](https://dev.to/muhammederdinc/composition-api-ve-composablelar-ile-yeniden-kullanilabilir-componentler-olusturmak-4ph8)
-- [Dev.to/JS] [Type Narrowing vs Type Casting in TypeScript](https://dev.to/bybydev/type-narrowing-vs-type-casting-in-typescript-1jef)
-- [Dev.to/JS] [Send background props to other component](https://dev.to/gundogduyakici/send-background-props-to-other-component-468d)
-- [Dev.to/JS] [How to load large mp4 video as frames on canvas with konvajs](https://dev.to/puneetjindal/how-to-load-large-mp4-video-as-frames-on-canvas-with-konvajs-2p7d)
-- [Dev.to/JS] [RxJS 7 - Pipeable Operators](https://dev.to/barisbll/rxjs-7-pipeable-operators-2ie7)
 - [Lifehacker] [You Can Download the Out-of-Print ‘Zelda: Breath of the Wild’ Explorer’s Guide for Free](https://lifehacker.com/you-can-download-the-out-of-print-zelda-breath-of-the-1850274795)
 - [Lifehacker] [How to Spot If Your Food Is Coming From a Ghost Kitchen](https://lifehacker.com/is-your-food-delivery-coming-from-a-ghost-kitchen-1848907749)
 - [Lifehacker] [This Service Will Hang Onto Your Luggage While You Explore a New City](https://lifehacker.com/this-service-will-hang-onto-your-luggage-while-you-expl-1850274154)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Finally, There’s an Easy Way to Reduce Background Noise on Your iPhone](https://lifehacker.com/finally-there-s-an-easy-way-to-reduce-background-noise-1850262365)
 - [Lifehacker] [These PB&amp;J Bars Are Next Level Baked Oats](https://lifehacker.com/these-pb-j-bars-are-next-level-baked-oats-1850263076)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Is #DeathTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-1850263009)
-- [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)
-- [Lifehacker] [All the Ways You Can Use Wax Paper Around the House &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/all-the-ways-you-can-use-wax-paper-around-the-house-bu-1850262074)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Paramount+ in April 2023](https://lifehacker.com/whats-new-on-paramount-in-april-2023-1850263032)<!-- TECH-POSTS:END -->
 
 ---
 
