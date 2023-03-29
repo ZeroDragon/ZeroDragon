@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Combining two api responses in node](https://dev.to/lutefd/combining-two-api-responses-in-node-4n47)
+- [Dev.to/JS] [Build a Live Search Bar in React: A Step-by-Step Guide](https://dev.to/ma7moud3bas/build-a-live-search-bar-in-react-a-step-by-step-guide-2ibh)
+- [Dev.to/JS] [Beginner’s Walkthrough of React Framework 2023](https://dev.to/i_shahmeer/beginners-walkthrough-of-react-framework-2023-553a)
 - [Dev.to/JS] [Let’s talk about APIs, shall we?](https://dev.to/svenherr/lets-talk-about-apis-shall-we-2bc4)
 - [Dev.to/JS] [Episode 23/12: Alex Rickabaugh on Signals, Playwright 1.32](https://dev.to/ng_news/episode-2312-2623)
 - [Dev.to/JS] [Scroll Indicator using React](https://dev.to/sarahcssiqueira/scroll-indicator-using-react-22pk)
@@ -35,12 +38,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These JBL Noise-Canceling Earbuds Are Only $50 Right Now](https://lifehacker.com/these-jbl-noise-canceling-earbuds-are-only-50-right-no-1850278993)
 - [Dev.to/JS] [Vue JS Essentials: A Beginners Series on Pinia, Vitest, and Supabase #2 Pinia, Tests And Mocking](https://dev.to/aaronksaunders/vue-js-essentials-a-beginners-series-on-pinia-vitest-and-supabase-2-pinia-tests-and-mocking-5fb1)
 - [Lifehacker] [Make Cinnamon Extract With Only Two Ingredients](https://lifehacker.com/make-cinnamon-extract-with-only-two-ingredients-1850278864)
-- [Dev.to/JS] [Update all the Values in an Object using JavaScript](https://dev.to/coder9/update-all-the-values-in-an-object-using-javascript-4pbc)
 - [Lifehacker] [This Is How to Tell Whether a Recipe Really Is ‘Easy’](https://lifehacker.com/this-is-how-to-tell-whether-a-recipe-really-is-easy-1850277957)
 - [Crazy Programmer] [How to Declare a Variable in SQL and Assign a Value?](https://www.thecrazyprogrammer.com/2023/03/how-to-declare-a-variable-in-sql.html)
 - [Lifehacker] [Don&#39;t Buy &#39;The Last of Us, Part 1&#39; on PC](https://lifehacker.com/dont-buy-the-last-of-us-part-1-on-pc-1850278163)
-- [Dev.to/JS] [10 GraphQL Developer Tools I Use To Make Building APIs Easier](https://dev.to/wundergraph/10-graphql-developer-tools-i-use-to-make-building-apis-easier-pgf)
-- [Dev.to/JS] [React Server Components Without a Framework](https://dev.to/shiftyp/react-server-components-without-a-framework-2jpf)
 - [Lifehacker] [The Best Apps You’ve Never Used to Sell Your Used Furniture](https://lifehacker.com/the-best-apps-you-ve-never-used-to-sell-your-used-furni-1850278382)
 - [Lifehacker] [What Is Zone 2 Cardio and How Do I Actually Do It?](https://lifehacker.com/what-is-zone-2-cardio-and-how-do-i-actually-do-it-1850275966)
 - [Lifehacker] [Here&#39;s the Best Time to Book Your Summer Travel](https://lifehacker.com/heres-the-best-time-to-book-your-summer-travel-1850273155)
