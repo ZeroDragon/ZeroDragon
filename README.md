@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Great Vue Vs Svelte Debate Finally Settled*](https://dev.to/philipjohnbasile/the-great-vue-vs-svelte-debate-finally-settled-52gh)
+- [Dev.to/JS] [The reconciler queue](https://dev.to/dadolhay/the-reconciler-queue-36a6)
+- [Dev.to/JS] [The reconciler concept](https://dev.to/dadolhay/the-reconciler-concept-5dpp)
 - [Dev.to/JS] [Removing outdated records](https://dev.to/dadolhay/removing-outdated-records-23am)
 - [Dev.to/JS] [Top JavaScript Libraries and Frameworks: A Comprehensive Guide 🌈](https://dev.to/hyuncafe/top-javascript-libraries-and-frameworks-a-comprehensive-guide-58jd)
 - [Dev.to/JS] [Uma experiência com arquitetura e princípios SOLID no front-end](https://dev.to/guilhermeafonsomb/uma-experiencia-com-arquitetura-e-principios-solid-no-front-end-4jk8)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Basics Part 1](https://dev.to/spiritdivine/javascript-basics-part-1-28h7)
 - [Dev.to/JS] [Understanding Vue.js Single-File Components &lpar;SFCs&rpar;](https://dev.to/xinnks/understanding-vuejs-single-file-components-sfcs-fa6)
 - [Dev.to/JS] [JavaScript is a bully!](https://dev.to/sluvish1/javascript-is-a-bully-26k0)
-- [Dev.to/JS] [What is FaceIO Facial Recognition? - Face Recognition Software and Face Analysis Explained](https://dev.to/ahmedqureshi54/what-is-faceio-facial-recognition-face-recognition-software-and-face-analysis-explained-3e7m)
-- [Dev.to/JS] [Combining APIs Responses in Node](https://dev.to/lutefd/combining-two-api-responses-in-node-4n47)
-- [Dev.to/JS] [Build a Live Search Bar in React: A Step-by-Step Guide](https://dev.to/ma7moud3bas/build-a-live-search-bar-in-react-a-step-by-step-guide-2ibh)
 - [Lifehacker] [You Can Argue Against a Rent Increase](https://lifehacker.com/you-can-argue-against-a-rent-increase-1850278581)
 - [Lifehacker] [These JBL Noise-Canceling Earbuds Are Only $50 Right Now](https://lifehacker.com/these-jbl-noise-canceling-earbuds-are-only-50-right-no-1850278993)
 - [Lifehacker] [Make Cinnamon Extract With Only Two Ingredients](https://lifehacker.com/make-cinnamon-extract-with-only-two-ingredients-1850278864)
