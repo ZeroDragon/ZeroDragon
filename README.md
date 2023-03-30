@@ -23,22 +23,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #214: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-214-explica-este-codigo-javascript-74j)
+- [Dev.to/JS] [Build a simple AI-powered Q&amp;A using Next.js and OpenAI Text Completion](https://dev.to/codegino/how-to-build-a-simple-qa-using-openai-and-nextjs-34d7)
+- [Dev.to/JS] [Validate an OpenID Connect JWT using a public key in JWKS](https://dev.to/cloudx/validate-an-openid-connect-jwt-using-a-public-key-in-jwks-14jh)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Subconjuntos não divisíveis](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-subconjuntos-nao-divisiveis-pg5)
+- [Lifehacker] [These Small Purchases Will Change Your Life, According to Reddit](https://lifehacker.com/these-small-purchases-will-change-your-life-according-1850279880)
+- [Dev.to/JS] [Operatorlar haqida](https://dev.to/sardorbek20/operatorlar-haqida-2e7j)
+- [Dev.to/JS] [My life is a party!](https://dev.to/iosonoagenda/my-life-is-a-party-3epi)
+- [Dev.to/JS] [Build automated test suite with 150 tests and 80% code coverage in 30 minutes](https://dev.to/zvone187/build-automated-test-suite-with-150-tests-and-80-code-coverage-in-30-minutes-352c)
+- [Dev.to/JS] [Bounie Launching On Product Hunt Tomorrow](https://dev.to/dougben/bounie-launching-on-product-hunt-tomorrow-4gje)
+- [Dev.to/JS] [How to build a responsive navigation section for a website with HTML, CSS and JavaScript](https://dev.to/musab1258/how-to-build-a-responsive-navigation-section-for-a-website-with-html-css-and-javascript-dc0)
 - [Lifehacker] [The Easiest Way to Clean Your Electric Waffle Iron](https://lifehacker.com/the-easiest-way-to-clean-your-electric-waffle-iron-1850279466)
 - [Dev.to/JS] [Build a Telegram voice chatbot using ChatGPT API and Whisper](https://dev.to/ngviethoang/build-a-telegram-voice-chatbot-using-chatgpt-api-and-whisper-53e2)
 - [Lifehacker] [How to Use Microsoft Bing’s AI Image Generator](https://lifehacker.com/how-to-use-bing-s-ai-image-generator-to-make-weird-shit-1850279194)
 - [Dev.to/JS] [Qancha Code Coverage yetarli?](https://dev.to/humoyun/qancha-code-coverage-yetarli-2c12)
 - [Dev.to/JS] [Como criar um Array com N elementos com o mesmo valor no JS](https://dev.to/renatarko/como-criar-um-array-com-n-elementos-com-o-mesmo-valor-no-js-28k7)
 - [Lifehacker] [How Job-hopping Impacts Your Retirement Savings](https://lifehacker.com/how-job-hopping-impacts-your-retirement-savings-1850274503)
-- [Dev.to/JS] [Observe Typescript Classes](https://dev.to/xsip/observe-typescript-classes-3a61)
-- [Dev.to/JS] [Building a new type of testing framework](https://dev.to/nirga/building-a-new-type-of-testing-framework-553h)
 - [Lifehacker] [A New Beginning for Lifehacker](https://lifehacker.com/a-new-beginning-for-lifehacker-1850278940)
-- [Dev.to/JS] [Announcing DHTMLX JavaScript Booking Widget](https://dev.to/plazarev/announcing-dhtmlx-javascript-booking-widget-d7d)
-- [Dev.to/JS] [How to add translation to your website](https://dev.to/luisbeqja/how-to-add-translation-to-your-website-3m1n)
-- [Dev.to/JS] [Common mistakes Web Developers make when they start with React Native](https://dev.to/rv90904/common-mistakes-web-developers-make-when-they-start-with-react-native-434i)
-- [Dev.to/JS] [LeetCode - Valid Number](https://dev.to/_alkesh26/leetcode-valid-number-108m)
-- [Dev.to/JS] [ExpressJS, MongoDB and React on Docker containers](https://dev.to/vilce/expressjs-mongodb-and-react-on-docker-containers-3hg9)
-- [Dev.to/JS] [Creating Robust Front-End Validation using react-hooks-form 👑](https://dev.to/peterchu999/creating-robust-front-end-validation-in-react-hooks-form-2ome)
-- [Dev.to/JS] [The Ultimate Guide to Becoming a Ghost CMS Theme Developer](https://dev.to/universe/the-ultimate-guide-to-becoming-a-ghost-cms-theme-developer-5fk3)
 - [Lifehacker] [You Can Argue Against a Rent Increase](https://lifehacker.com/you-can-argue-against-a-rent-increase-1850278581)
 - [Lifehacker] [These JBL Noise-Canceling Earbuds Are Only $50 Right Now](https://lifehacker.com/these-jbl-noise-canceling-earbuds-are-only-50-right-no-1850278993)
 - [Lifehacker] [Make Cinnamon Extract With Only Two Ingredients](https://lifehacker.com/make-cinnamon-extract-with-only-two-ingredients-1850278864)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The &#39;Real&#39; History of April Fools&#39; Day &lpar;and Why It Isn’t Funny Anymore&rpar;](https://lifehacker.com/the-real-history-of-april-fool-s-day-and-why-it-isn-t-1850271968)
 - [Lifehacker] [You Should Waffle Some Mozzarella Sticks](https://lifehacker.com/you-should-waffle-some-mozzarella-sticks-1850270871)
 - [Lifehacker] [What&#39;s New on Prime Video in April 2023](https://lifehacker.com/whats-new-on-prime-video-in-april-2023-1850270516)
-- [Lifehacker] [You Can See Five Planets and the Moon Line Up This Week](https://lifehacker.com/you-can-see-five-planets-and-the-moon-line-up-this-week-1850270173)
-- [Lifehacker] [There Might Be Wood in Your Impossible Chicken Nuggets](https://lifehacker.com/there-might-be-wood-in-your-impossible-chicken-nuggets-1850269855)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can See Five Planets and the Moon Line Up This Week](https://lifehacker.com/you-can-see-five-planets-and-the-moon-line-up-this-week-1850270173)<!-- TECH-POSTS:END -->
 
 ---
 
