@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Basic Concepts to get started with JavaScript](https://dev.to/raju1693/basic-concepts-to-get-started-with-javascript-19ni)
+- [Dev.to/JS] [JavaScript EP1: Event Loop♻️](https://dev.to/phatsss/javascript-ep1-event-loop-2mop)
+- [Lifehacker] [Make a Lazy Version of This Classic French Onion Sauce](https://lifehacker.com/make-a-lazy-version-of-this-classic-french-onion-sauce-1850283430)
+- [Dev.to/JS] [Deploying your React App to Firebase Hosting](https://dev.to/muhammadui/deploying-your-react-app-to-firebase-hosting-4jkn)
+- [Lifehacker] [Beware This Nightmarish New Android Banking Malware](https://lifehacker.com/beware-this-nightmarish-new-android-banking-malware-1850282946)
 - [Dev.to/JS] [Application Deployment On Azure Cloud using Azure Web App Service](https://dev.to/sardarmudassaralikhan/application-deployment-on-azure-cloud-using-azure-web-app-service-2lh8)
 - [Lifehacker] [These Restaurant Rewards Programs Give You the Most Free Food](https://lifehacker.com/these-restaurant-rewards-programs-give-you-the-most-fre-1850280785)
 - [Dev.to/JS] [How to Create an Azure App Using the Azure Cloud Portal](https://dev.to/sardarmudassaralikhan/how-to-create-an-azure-app-using-the-azure-cloud-portal-46an)
@@ -36,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Pour Boiling Water on Your Chicken Thighs](https://lifehacker.com/you-should-pour-boiling-water-on-your-chicken-thighs-1850280449)
 - [Lifehacker] [How to Tell When an Artificial Intelligence Is &#39;Hallucinating&#39;](https://lifehacker.com/how-to-tell-when-an-artificial-intelligence-is-hallucin-1850280001)
 - [Dev.to/JS] [Paracetamol.js💊| #214: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-214-explica-este-codigo-javascript-74j)
-- [Dev.to/JS] [Build a simple AI-powered Q&amp;A using Next.js and OpenAI Text Completion](https://dev.to/codegino/how-to-build-a-simple-qa-using-openai-and-nextjs-34d7)
-- [Dev.to/JS] [Validate an OpenID Connect JWT using a public key in JWKS](https://dev.to/cloudx/validate-an-openid-connect-jwt-using-a-public-key-in-jwks-14jh)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Subconjuntos não divisíveis](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-subconjuntos-nao-divisiveis-pg5)
 - [Lifehacker] [These Small Purchases Will Change Your Life, According to Reddit](https://lifehacker.com/these-small-purchases-will-change-your-life-according-1850279880)
 - [Lifehacker] [The Easiest Way to Clean Your Electric Waffle Iron](https://lifehacker.com/the-easiest-way-to-clean-your-electric-waffle-iron-1850279466)
 - [Lifehacker] [How to Use Microsoft Bing’s AI Image Generator](https://lifehacker.com/how-to-use-bing-s-ai-image-generator-to-make-weird-shit-1850279194)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Download the Out-of-Print ‘Zelda: Breath of the Wild’ Explorer’s Guide for Free](https://lifehacker.com/you-can-download-the-out-of-print-zelda-breath-of-the-1850274795)
 - [Lifehacker] [How to Spot If Your Food Is Coming From a Ghost Kitchen](https://lifehacker.com/is-your-food-delivery-coming-from-a-ghost-kitchen-1848907749)
 - [Lifehacker] [This Service Will Hang Onto Your Luggage While You Explore a New City](https://lifehacker.com/this-service-will-hang-onto-your-luggage-while-you-expl-1850274154)
-- [Lifehacker] [You Can Grab the Nintendo Switch OLED for $40 Off Right Now](https://lifehacker.com/you-can-grab-the-nintendo-switch-oled-for-40-off-right-1850273753)
-- [Lifehacker] [How to Stop Turning Your Apple Watch’s Alarm Off in Your Sleep](https://lifehacker.com/how-to-stop-turning-your-apple-watch-s-alarm-off-in-you-1850273443)
-- [Lifehacker] [Why You Should Start Reading a Book Before You Leave for a Trip](https://lifehacker.com/why-you-should-start-reading-a-book-before-you-leave-fo-1850273384)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Grab the Nintendo Switch OLED for $40 Off Right Now](https://lifehacker.com/you-can-grab-the-nintendo-switch-oled-for-40-off-right-1850273753)<!-- TECH-POSTS:END -->
 
 ---
 
