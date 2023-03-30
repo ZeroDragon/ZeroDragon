@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Como criar um Array com N elementos com o mesmo valor no JS](https://dev.to/renatarko/como-criar-um-array-com-n-elementos-com-o-mesmo-valor-no-js-28k7)
+- [Lifehacker] [How Job-hopping Impacts Your Retirement Savings](https://lifehacker.com/how-job-hopping-impacts-your-retirement-savings-1850274503)
+- [Dev.to/JS] [Observe Typescript Classes](https://dev.to/xsip/observe-typescript-classes-3a61)
+- [Dev.to/JS] [Building a new type of testing framework](https://dev.to/nirga/building-a-new-type-of-testing-framework-553h)
+- [Lifehacker] [A New Beginning for Lifehacker](https://lifehacker.com/a-new-beginning-for-lifehacker-1850278940)
+- [Dev.to/JS] [Announcing DHTMLX JavaScript Booking Widget](https://dev.to/plazarev/announcing-dhtmlx-javascript-booking-widget-d7d)
 - [Dev.to/JS] [How to add translation to your website](https://dev.to/luisbeqja/how-to-add-translation-to-your-website-3m1n)
 - [Dev.to/JS] [Common mistakes Web Developers make when they start with React Native](https://dev.to/rv90904/common-mistakes-web-developers-make-when-they-start-with-react-native-434i)
 - [Dev.to/JS] [LeetCode - Valid Number](https://dev.to/_alkesh26/leetcode-valid-number-108m)
@@ -31,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to copy text to your clipboard in JavaScript?](https://dev.to/bashamega/how-to-copy-text-to-your-clipboard-in-javascript-3870)
 - [Dev.to/JS] [How to convert ChatRWKV to Web API and talk to it from Web chat UIChat UI](https://dev.to/riversun/how-to-convert-chatrwkv-to-web-api-and-talk-to-it-from-web-chat-uichat-ui-13da)
 - [Dev.to/JS] [Choosing the Right Script Loading Strategy: Async vs Defer in JavaScript](https://dev.to/talenttinaapi/choosing-the-right-script-loading-strategy-async-vs-defer-in-javascript-6fl)
-- [Dev.to/JS] [SSH cheatsheet](https://dev.to/hshoja/ssh-for-cheatsheet-2e72)
-- [Dev.to/JS] [Software Development Services](https://dev.to/sukanyabisht/software-development-services-1k0k)
-- [Dev.to/JS] [JavaScript, useState React Array Handling methods.](https://dev.to/itskunal/javascript-usestate-react-array-handling-methods-1lag)
-- [Dev.to/JS] [Digital banking for all good business...](https://dev.to/tonibrown20/digital-banking-for-all-good-business-2m9)
 - [Lifehacker] [You Can Argue Against a Rent Increase](https://lifehacker.com/you-can-argue-against-a-rent-increase-1850278581)
 - [Lifehacker] [These JBL Noise-Canceling Earbuds Are Only $50 Right Now](https://lifehacker.com/these-jbl-noise-canceling-earbuds-are-only-50-right-no-1850278993)
 - [Lifehacker] [Make Cinnamon Extract With Only Two Ingredients](https://lifehacker.com/make-cinnamon-extract-with-only-two-ingredients-1850278864)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can See Five Planets and the Moon Line Up This Week](https://lifehacker.com/you-can-see-five-planets-and-the-moon-line-up-this-week-1850270173)
 - [Lifehacker] [There Might Be Wood in Your Impossible Chicken Nuggets](https://lifehacker.com/there-might-be-wood-in-your-impossible-chicken-nuggets-1850269855)
 - [Lifehacker] [The Safest, Quickest Way to Get Hot Grease Out of a Pan](https://lifehacker.com/the-safest-quickest-way-to-get-hot-grease-out-of-a-pan-1850269466)
-- [Lifehacker] [Make These Spanakopita Pockets for Your Next Snack Dinner](https://lifehacker.com/make-these-spanakopita-pockets-for-your-next-snack-dinn-1850269433)
-- [Lifehacker] [Try Putting Your Clutter in ‘Purgatory’](https://lifehacker.com/try-putting-your-clutter-in-purgatory-1850268872)
-- [Lifehacker] [Take These Steps to Heal Your Relationship With Money](https://lifehacker.com/take-these-steps-to-heal-your-relationship-with-money-1850269034)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make These Spanakopita Pockets for Your Next Snack Dinner](https://lifehacker.com/make-these-spanakopita-pockets-for-your-next-snack-dinn-1850269433)<!-- TECH-POSTS:END -->
 
 ---
 
