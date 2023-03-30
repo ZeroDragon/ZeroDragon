@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [20 Github repositories every developer should bookmark&lpar;high value resources&rpar;](https://dev.to/jon_snow789/20-github-repositories-every-developer-should-bookmarkhigh-value-resources-4jm6)
+- [Dev.to/JS] [How fast we can go now?](https://dev.to/iosonoagenda/how-fast-we-can-go-now-3590)
+- [Dev.to/JS] [How to Work with Microsoft Azure Cloud SQL Service](https://dev.to/sardarmudassaralikhan/how-to-work-with-microsoft-azure-cloud-sql-service-3e7f)
+- [Lifehacker] [You Should Pour Boiling Water on Your Chicken Thighs](https://lifehacker.com/you-should-pour-boiling-water-on-your-chicken-thighs-1850280449)
+- [Lifehacker] [How to Tell When an Artificial Intelligence Is &#39;Hallucinating&#39;](https://lifehacker.com/how-to-tell-when-an-artificial-intelligence-is-hallucin-1850280001)
 - [Dev.to/JS] [Paracetamol.js💊| #214: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-214-explica-este-codigo-javascript-74j)
 - [Dev.to/JS] [Build a simple AI-powered Q&amp;A using Next.js and OpenAI Text Completion](https://dev.to/codegino/how-to-build-a-simple-qa-using-openai-and-nextjs-34d7)
 - [Dev.to/JS] [Validate an OpenID Connect JWT using a public key in JWKS](https://dev.to/cloudx/validate-an-openid-connect-jwt-using-a-public-key-in-jwks-14jh)
@@ -34,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bounie Launching On Product Hunt Tomorrow](https://dev.to/dougben/bounie-launching-on-product-hunt-tomorrow-4gje)
 - [Dev.to/JS] [How to build a responsive navigation section for a website with HTML, CSS and JavaScript](https://dev.to/musab1258/how-to-build-a-responsive-navigation-section-for-a-website-with-html-css-and-javascript-dc0)
 - [Lifehacker] [The Easiest Way to Clean Your Electric Waffle Iron](https://lifehacker.com/the-easiest-way-to-clean-your-electric-waffle-iron-1850279466)
-- [Dev.to/JS] [Build a Telegram voice chatbot using ChatGPT API and Whisper](https://dev.to/ngviethoang/build-a-telegram-voice-chatbot-using-chatgpt-api-and-whisper-53e2)
 - [Lifehacker] [How to Use Microsoft Bing’s AI Image Generator](https://lifehacker.com/how-to-use-bing-s-ai-image-generator-to-make-weird-shit-1850279194)
-- [Dev.to/JS] [Qancha Code Coverage yetarli?](https://dev.to/humoyun/qancha-code-coverage-yetarli-2c12)
-- [Dev.to/JS] [Como criar um Array com N elementos com o mesmo valor no JS](https://dev.to/renatarko/como-criar-um-array-com-n-elementos-com-o-mesmo-valor-no-js-28k7)
 - [Lifehacker] [How Job-hopping Impacts Your Retirement Savings](https://lifehacker.com/how-job-hopping-impacts-your-retirement-savings-1850274503)
 - [Lifehacker] [A New Beginning for Lifehacker](https://lifehacker.com/a-new-beginning-for-lifehacker-1850278940)
 - [Lifehacker] [You Can Argue Against a Rent Increase](https://lifehacker.com/you-can-argue-against-a-rent-increase-1850278581)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Turning Your Apple Watch’s Alarm Off in Your Sleep](https://lifehacker.com/how-to-stop-turning-your-apple-watch-s-alarm-off-in-you-1850273443)
 - [Lifehacker] [Why You Should Start Reading a Book Before You Leave for a Trip](https://lifehacker.com/why-you-should-start-reading-a-book-before-you-leave-fo-1850273384)
 - [Lifehacker] [The &#39;Real&#39; History of April Fools&#39; Day &lpar;and Why It Isn’t Funny Anymore&rpar;](https://lifehacker.com/the-real-history-of-april-fool-s-day-and-why-it-isn-t-1850271968)
-- [Lifehacker] [You Should Waffle Some Mozzarella Sticks](https://lifehacker.com/you-should-waffle-some-mozzarella-sticks-1850270871)
-- [Lifehacker] [What&#39;s New on Prime Video in April 2023](https://lifehacker.com/whats-new-on-prime-video-in-april-2023-1850270516)
-- [Lifehacker] [You Can See Five Planets and the Moon Line Up This Week](https://lifehacker.com/you-can-see-five-planets-and-the-moon-line-up-this-week-1850270173)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Waffle Some Mozzarella Sticks](https://lifehacker.com/you-should-waffle-some-mozzarella-sticks-1850270871)<!-- TECH-POSTS:END -->
 
 ---
 
