@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript 🐲 challenges_4 ⚔️](https://dev.to/mahmoudessam/javascript-challenges4-1bl7)
+- [Dev.to/JS] [React Information Flow](https://dev.to/hgerner19/react-information-flow-51nd)
+- [Dev.to/JS] [Why persisting incremental user states is hard](https://dev.to/karthikramen/why-persisting-incremental-user-states-is-hard-2klk)
+- [Dev.to/JS] [Get longer responses from ChatGPT / GPT-4: New Personality Demo 🦾🧠](https://dev.to/dougbutner/get-longer-responses-from-chatgpt-gpt-4-new-personality-demo-1akp)
+- [Lifehacker] [Set Up Your Phone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
 - [Dev.to/JS] [Basic Concepts to get started with JavaScript](https://dev.to/raju1693/basic-concepts-to-get-started-with-javascript-19ni)
 - [Dev.to/JS] [JavaScript EP1: Event Loop♻️](https://dev.to/phatsss/javascript-ep1-event-loop-2mop)
 - [Lifehacker] [Make a Lazy Version of This Classic French Onion Sauce](https://lifehacker.com/make-a-lazy-version-of-this-classic-french-onion-sauce-1850283430)
@@ -35,12 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is Tailwind CSS The Best Framework?](https://dev.to/tech_olaide/is-tailwind-css-the-best-framework-2abh)
 - [Dev.to/JS] [12 JavaScript Number Methods Cheatsheet](https://dev.to/catherineisonline/12-javascript-number-methods-cheatsheet-1oie)
 - [Lifehacker] [How to Spot the Worst Tourist Traps &lpar;and When to Just Give in and Visit Them&rpar;](https://lifehacker.com/how-to-spot-the-worst-tourist-traps-and-when-to-just-g-1850281093)
-- [Dev.to/JS] [20 Github repositories every developer should bookmark&lpar;high value resources&rpar;](https://dev.to/jon_snow789/20-github-repositories-every-developer-should-bookmarkhigh-value-resources-4jm6)
-- [Dev.to/JS] [How fast we can go now?](https://dev.to/iosonoagenda/how-fast-we-can-go-now-3590)
-- [Dev.to/JS] [How to Work with Microsoft Azure Cloud SQL Service](https://dev.to/sardarmudassaralikhan/how-to-work-with-microsoft-azure-cloud-sql-service-3e7f)
 - [Lifehacker] [You Should Pour Boiling Water on Your Chicken Thighs](https://lifehacker.com/you-should-pour-boiling-water-on-your-chicken-thighs-1850280449)
 - [Lifehacker] [How to Tell When an Artificial Intelligence Is &#39;Hallucinating&#39;](https://lifehacker.com/how-to-tell-when-an-artificial-intelligence-is-hallucin-1850280001)
-- [Dev.to/JS] [Paracetamol.js💊| #214: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-214-explica-este-codigo-javascript-74j)
 - [Lifehacker] [These Small Purchases Will Change Your Life, According to Reddit](https://lifehacker.com/these-small-purchases-will-change-your-life-according-1850279880)
 - [Lifehacker] [The Easiest Way to Clean Your Electric Waffle Iron](https://lifehacker.com/the-easiest-way-to-clean-your-electric-waffle-iron-1850279466)
 - [Lifehacker] [How to Use Microsoft Bing’s AI Image Generator](https://lifehacker.com/how-to-use-bing-s-ai-image-generator-to-make-weird-shit-1850279194)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There&#39;s a Better Way to Open That Bag of Snacks](https://lifehacker.com/theres-a-better-way-to-open-that-bag-of-snacks-1850274532)
 - [Lifehacker] [You Can Download the Out-of-Print ‘Zelda: Breath of the Wild’ Explorer’s Guide for Free](https://lifehacker.com/you-can-download-the-out-of-print-zelda-breath-of-the-1850274795)
 - [Lifehacker] [How to Spot If Your Food Is Coming From a Ghost Kitchen](https://lifehacker.com/is-your-food-delivery-coming-from-a-ghost-kitchen-1848907749)
-- [Lifehacker] [This Service Will Hang Onto Your Luggage While You Explore a New City](https://lifehacker.com/this-service-will-hang-onto-your-luggage-while-you-expl-1850274154)
-- [Lifehacker] [You Can Grab the Nintendo Switch OLED for $40 Off Right Now](https://lifehacker.com/you-can-grab-the-nintendo-switch-oled-for-40-off-right-1850273753)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Service Will Hang Onto Your Luggage While You Explore a New City](https://lifehacker.com/this-service-will-hang-onto-your-luggage-while-you-expl-1850274154)<!-- TECH-POSTS:END -->
 
 ---
 
