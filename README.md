@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering React&#39;s useEffect Hook: A Comprehensive Guide](https://dev.to/fatimaola/mastering-reacts-useeffect-hook-a-comprehensive-guide-21kh)
+- [Dev.to/JS] [Animation -19 : Simple preloader CSS Animation](https://dev.to/jon_snow789/animation-19-simple-preloader-css-animation-h7d)
 - [Dev.to/JS] [The Pros and Cons of Live Coding Interviews: A FrontEnd Dev Analysis](https://dev.to/c0mmand3rj/the-pros-and-cons-of-live-coding-interviews-a-frontend-dev-analysis-31fl)
 - [Dev.to/JS] [Javascript Basics Part 1](https://dev.to/spiritdivine/javascript-basics-part-1-28h7)
 - [Dev.to/JS] [Understanding Vue.js Single-File Components &lpar;SFCs&rpar;](https://dev.to/xinnks/understanding-vuejs-single-file-components-sfcs-fa6)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beginner’s Walkthrough of React Framework 2023](https://dev.to/i_shahmeer/beginners-walkthrough-of-react-framework-2023-553a)
 - [Dev.to/JS] [Let’s talk about APIs, shall we?](https://dev.to/svenherr/lets-talk-about-apis-shall-we-2bc4)
 - [Dev.to/JS] [Episode 23/12: Alex Rickabaugh on Signals, Playwright 1.32](https://dev.to/ng_news/episode-2312-2623)
-- [Dev.to/JS] [Scroll Indicator using React](https://dev.to/sarahcssiqueira/scroll-indicator-using-react-22pk)
-- [Dev.to/JS] [first year of coding](https://dev.to/hanoon02/first-year-of-coding-200o)
 - [Lifehacker] [You Can Argue Against a Rent Increase](https://lifehacker.com/you-can-argue-against-a-rent-increase-1850278581)
 - [Lifehacker] [These JBL Noise-Canceling Earbuds Are Only $50 Right Now](https://lifehacker.com/these-jbl-noise-canceling-earbuds-are-only-50-right-no-1850278993)
 - [Lifehacker] [Make Cinnamon Extract With Only Two Ingredients](https://lifehacker.com/make-cinnamon-extract-with-only-two-ingredients-1850278864)
