@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Clean Your Electric Waffle Iron](https://lifehacker.com/the-easiest-way-to-clean-your-electric-waffle-iron-1850279466)
+- [Dev.to/JS] [Build a Telegram voice chatbot using ChatGPT API and Whisper](https://dev.to/ngviethoang/build-a-telegram-voice-chatbot-using-chatgpt-api-and-whisper-53e2)
+- [Lifehacker] [How to Use Microsoft Bing’s AI Image Generator](https://lifehacker.com/how-to-use-bing-s-ai-image-generator-to-make-weird-shit-1850279194)
+- [Dev.to/JS] [Qancha Code Coverage yetarli?](https://dev.to/humoyun/qancha-code-coverage-yetarli-2c12)
 - [Dev.to/JS] [Como criar um Array com N elementos com o mesmo valor no JS](https://dev.to/renatarko/como-criar-um-array-com-n-elementos-com-o-mesmo-valor-no-js-28k7)
 - [Lifehacker] [How Job-hopping Impacts Your Retirement Savings](https://lifehacker.com/how-job-hopping-impacts-your-retirement-savings-1850274503)
 - [Dev.to/JS] [Observe Typescript Classes](https://dev.to/xsip/observe-typescript-classes-3a61)
@@ -33,10 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Common mistakes Web Developers make when they start with React Native](https://dev.to/rv90904/common-mistakes-web-developers-make-when-they-start-with-react-native-434i)
 - [Dev.to/JS] [LeetCode - Valid Number](https://dev.to/_alkesh26/leetcode-valid-number-108m)
 - [Dev.to/JS] [ExpressJS, MongoDB and React on Docker containers](https://dev.to/vilce/expressjs-mongodb-and-react-on-docker-containers-3hg9)
+- [Dev.to/JS] [Creating Robust Front-End Validation using react-hooks-form 👑](https://dev.to/peterchu999/creating-robust-front-end-validation-in-react-hooks-form-2ome)
 - [Dev.to/JS] [The Ultimate Guide to Becoming a Ghost CMS Theme Developer](https://dev.to/universe/the-ultimate-guide-to-becoming-a-ghost-cms-theme-developer-5fk3)
-- [Dev.to/JS] [How to copy text to your clipboard in JavaScript?](https://dev.to/bashamega/how-to-copy-text-to-your-clipboard-in-javascript-3870)
-- [Dev.to/JS] [How to convert ChatRWKV to Web API and talk to it from Web chat UIChat UI](https://dev.to/riversun/how-to-convert-chatrwkv-to-web-api-and-talk-to-it-from-web-chat-uichat-ui-13da)
-- [Dev.to/JS] [Choosing the Right Script Loading Strategy: Async vs Defer in JavaScript](https://dev.to/talenttinaapi/choosing-the-right-script-loading-strategy-async-vs-defer-in-javascript-6fl)
 - [Lifehacker] [You Can Argue Against a Rent Increase](https://lifehacker.com/you-can-argue-against-a-rent-increase-1850278581)
 - [Lifehacker] [These JBL Noise-Canceling Earbuds Are Only $50 Right Now](https://lifehacker.com/these-jbl-noise-canceling-earbuds-are-only-50-right-no-1850278993)
 - [Lifehacker] [Make Cinnamon Extract With Only Two Ingredients](https://lifehacker.com/make-cinnamon-extract-with-only-two-ingredients-1850278864)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Waffle Some Mozzarella Sticks](https://lifehacker.com/you-should-waffle-some-mozzarella-sticks-1850270871)
 - [Lifehacker] [What&#39;s New on Prime Video in April 2023](https://lifehacker.com/whats-new-on-prime-video-in-april-2023-1850270516)
 - [Lifehacker] [You Can See Five Planets and the Moon Line Up This Week](https://lifehacker.com/you-can-see-five-planets-and-the-moon-line-up-this-week-1850270173)
-- [Lifehacker] [There Might Be Wood in Your Impossible Chicken Nuggets](https://lifehacker.com/there-might-be-wood-in-your-impossible-chicken-nuggets-1850269855)
-- [Lifehacker] [The Safest, Quickest Way to Get Hot Grease Out of a Pan](https://lifehacker.com/the-safest-quickest-way-to-get-hot-grease-out-of-a-pan-1850269466)
-- [Lifehacker] [Make These Spanakopita Pockets for Your Next Snack Dinner](https://lifehacker.com/make-these-spanakopita-pockets-for-your-next-snack-dinn-1850269433)<!-- TECH-POSTS:END -->
+- [Lifehacker] [There Might Be Wood in Your Impossible Chicken Nuggets](https://lifehacker.com/there-might-be-wood-in-your-impossible-chicken-nuggets-1850269855)<!-- TECH-POSTS:END -->
 
 ---
 
