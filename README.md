@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Removing outdated records](https://dev.to/dadolhay/removing-outdated-records-23am)
+- [Dev.to/JS] [Top JavaScript Libraries and Frameworks: A Comprehensive Guide 🌈](https://dev.to/hyuncafe/top-javascript-libraries-and-frameworks-a-comprehensive-guide-58jd)
+- [Dev.to/JS] [Uma experiência com arquitetura e princípios SOLID no front-end](https://dev.to/guilhermeafonsomb/uma-experiencia-com-arquitetura-e-principios-solid-no-front-end-4jk8)
 - [Dev.to/JS] [Mastering React&#39;s useEffect Hook: A Comprehensive Guide](https://dev.to/fatimaola/mastering-reacts-useeffect-hook-a-comprehensive-guide-21kh)
 - [Dev.to/JS] [Animation -19 : Simple preloader CSS Animation](https://dev.to/jon_snow789/animation-19-simple-preloader-css-animation-h7d)
 - [Dev.to/JS] [The Pros and Cons of Live Coding Interviews: A FrontEnd Dev Analysis](https://dev.to/c0mmand3rj/the-pros-and-cons-of-live-coding-interviews-a-frontend-dev-analysis-31fl)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is FaceIO Facial Recognition? - Face Recognition Software and Face Analysis Explained](https://dev.to/ahmedqureshi54/what-is-faceio-facial-recognition-face-recognition-software-and-face-analysis-explained-3e7m)
 - [Dev.to/JS] [Combining APIs Responses in Node](https://dev.to/lutefd/combining-two-api-responses-in-node-4n47)
 - [Dev.to/JS] [Build a Live Search Bar in React: A Step-by-Step Guide](https://dev.to/ma7moud3bas/build-a-live-search-bar-in-react-a-step-by-step-guide-2ibh)
-- [Dev.to/JS] [Beginner’s Walkthrough of React Framework 2023](https://dev.to/i_shahmeer/beginners-walkthrough-of-react-framework-2023-553a)
-- [Dev.to/JS] [Let’s talk about APIs, shall we?](https://dev.to/svenherr/lets-talk-about-apis-shall-we-2bc4)
-- [Dev.to/JS] [Episode 23/12: Alex Rickabaugh on Signals, Playwright 1.32](https://dev.to/ng_news/episode-2312-2623)
 - [Lifehacker] [You Can Argue Against a Rent Increase](https://lifehacker.com/you-can-argue-against-a-rent-increase-1850278581)
 - [Lifehacker] [These JBL Noise-Canceling Earbuds Are Only $50 Right Now](https://lifehacker.com/these-jbl-noise-canceling-earbuds-are-only-50-right-no-1850278993)
 - [Lifehacker] [Make Cinnamon Extract With Only Two Ingredients](https://lifehacker.com/make-cinnamon-extract-with-only-two-ingredients-1850278864)
