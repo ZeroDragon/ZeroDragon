@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Object #3](https://dev.to/samr/javascript-object-3-ep7)
+- [Dev.to/JS] [Mastering API Calls in React: A Beginner&#39;s Guide to Building and Consuming REST APIs](https://dev.to/devxvaibhav/mastering-api-calls-in-react-a-beginners-guide-to-building-and-consuming-rest-apis-e2j)
+- [Dev.to/JS] [My First react webpage](https://dev.to/malshan222/my-first-react-webpage-3gam)
+- [Dev.to/JS] [Javascript Object #2](https://dev.to/samr/javascript-object-2-bp8)
 - [Dev.to/JS] [Handling TXT records with Route53](https://dev.to/dadolhay/handling-txt-records-with-route53-353d)
 - [Dev.to/JS] [The Great Vue Vs Svelte Debate Finally Settled*](https://dev.to/philipjohnbasile/the-great-vue-vs-svelte-debate-finally-settled-52gh)
 - [Dev.to/JS] [The reconciler queue](https://dev.to/dadolhay/the-reconciler-queue-36a6)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top JavaScript Libraries and Frameworks: A Comprehensive Guide 🌈](https://dev.to/hyuncafe/top-javascript-libraries-and-frameworks-a-comprehensive-guide-58jd)
 - [Dev.to/JS] [Uma experiência com arquitetura e princípios SOLID no front-end](https://dev.to/guilhermeafonsomb/uma-experiencia-com-arquitetura-e-principios-solid-no-front-end-4jk8)
 - [Dev.to/JS] [Mastering React&#39;s useEffect Hook: A Comprehensive Guide](https://dev.to/fatimaola/mastering-reacts-useeffect-hook-a-comprehensive-guide-21kh)
-- [Dev.to/JS] [Animation -19 : Simple preloader CSS Animation](https://dev.to/jon_snow789/animation-19-simple-preloader-css-animation-h7d)
-- [Dev.to/JS] [The Pros and Cons of Live Coding Interviews: A FrontEnd Dev Analysis](https://dev.to/c0mmand3rj/the-pros-and-cons-of-live-coding-interviews-a-frontend-dev-analysis-31fl)
-- [Dev.to/JS] [Javascript Basics Part 1](https://dev.to/spiritdivine/javascript-basics-part-1-28h7)
-- [Dev.to/JS] [Understanding Vue.js Single-File Components &lpar;SFCs&rpar;](https://dev.to/xinnks/understanding-vuejs-single-file-components-sfcs-fa6)
 - [Lifehacker] [You Can Argue Against a Rent Increase](https://lifehacker.com/you-can-argue-against-a-rent-increase-1850278581)
 - [Lifehacker] [These JBL Noise-Canceling Earbuds Are Only $50 Right Now](https://lifehacker.com/these-jbl-noise-canceling-earbuds-are-only-50-right-no-1850278993)
 - [Lifehacker] [Make Cinnamon Extract With Only Two Ingredients](https://lifehacker.com/make-cinnamon-extract-with-only-two-ingredients-1850278864)
