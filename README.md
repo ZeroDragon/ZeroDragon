@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Transactional Try Blocks in ValueScript](https://dev.to/voltrevo/transactional-try-blocks-in-valuescript-8g7)
+- [Dev.to/JS] [Fetching Data With Next.js - part 6](https://dev.to/this-is-learning/fetching-data-with-nextjs-part-6-3hf)
 - [Dev.to/JS] [Javascript Object #3](https://dev.to/samr/javascript-object-3-ep7)
 - [Dev.to/JS] [Mastering API Calls in React: A Beginner&#39;s Guide to Building and Consuming REST APIs](https://dev.to/devxvaibhav/mastering-api-calls-in-react-a-beginners-guide-to-building-and-consuming-rest-apis-e2j)
 - [Dev.to/JS] [My First react webpage](https://dev.to/malshan222/my-first-react-webpage-3gam)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The reconciler concept](https://dev.to/dadolhay/the-reconciler-concept-5dpp)
 - [Dev.to/JS] [Removing outdated records](https://dev.to/dadolhay/removing-outdated-records-23am)
 - [Dev.to/JS] [Top JavaScript Libraries and Frameworks: A Comprehensive Guide 🌈](https://dev.to/hyuncafe/top-javascript-libraries-and-frameworks-a-comprehensive-guide-58jd)
-- [Dev.to/JS] [Uma experiência com arquitetura e princípios SOLID no front-end](https://dev.to/guilhermeafonsomb/uma-experiencia-com-arquitetura-e-principios-solid-no-front-end-4jk8)
-- [Dev.to/JS] [Mastering React&#39;s useEffect Hook: A Comprehensive Guide](https://dev.to/fatimaola/mastering-reacts-useeffect-hook-a-comprehensive-guide-21kh)
 - [Lifehacker] [You Can Argue Against a Rent Increase](https://lifehacker.com/you-can-argue-against-a-rent-increase-1850278581)
 - [Lifehacker] [These JBL Noise-Canceling Earbuds Are Only $50 Right Now](https://lifehacker.com/these-jbl-noise-canceling-earbuds-are-only-50-right-no-1850278993)
 - [Lifehacker] [Make Cinnamon Extract With Only Two Ingredients](https://lifehacker.com/make-cinnamon-extract-with-only-two-ingredients-1850278864)
