@@ -23,20 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Shadow DOM and Shadow Roots in JavaScript: A Simple Guide for Beginners](https://dev.to/schukai/understanding-shadow-dom-and-shadow-roots-in-javascript-a-simple-guide-for-beginners-4479)
 - [Dev.to/JS] [Why JavaScript is a Prototype-based OOP](https://dev.to/efkumah/why-javascript-is-a-prototype-based-oop-4b4g)
 - [Dev.to/JS] [Buttons](https://dev.to/najatulhaque/buttons-3867)
 - [Dev.to/JS] [O poder do pipe no kuba: uma abordagem simples e eficiente](https://dev.to/demgoncalves/o-poder-do-pipe-no-kuba-uma-abordagem-simples-e-eficiente-h1p)
 - [Dev.to/JS] [How to Regex in Javascript](https://dev.to/fabienschlegel/how-to-regex-in-javascript-lcp)
 - [Dev.to/JS] [Understanding Providers and Dependency Injection in NestJS](https://dev.to/patrick0806/understanding-providers-and-dependency-injection-in-nestjs-248e)
+- [Dev.to/JS] [🏆⚛️React Roadmap Guide for Beginners 2023](https://dev.to/ypdev19/react-roadmap-guide-for-beginners-2023-3oah)
 - [Dev.to/JS] [JavaScript 🐲 challenges_4 ⚔️](https://dev.to/mahmoudessam/javascript-challenges4-1bl7)
 - [Dev.to/JS] [React Information Flow](https://dev.to/hgerner19/react-information-flow-51nd)
 - [Dev.to/JS] [Why persisting incremental user states is hard](https://dev.to/karthikramen/why-persisting-incremental-user-states-is-hard-2klk)
 - [Dev.to/JS] [Get longer responses from ChatGPT / GPT-4: New Personality Demo 🦾🧠](https://dev.to/dougbutner/get-longer-responses-from-chatgpt-gpt-4-new-personality-demo-1akp)
 - [Lifehacker] [Set Up Your Phone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
 - [Dev.to/JS] [Basic Concepts to get started with JavaScript](https://dev.to/raju1693/basic-concepts-to-get-started-with-javascript-19ni)
-- [Dev.to/JS] [JavaScript EP1: Event Loop♻️](https://dev.to/phatsss/javascript-ep1-event-loop-2mop)
 - [Lifehacker] [Make a Lazy Version of This Classic French Onion Sauce](https://lifehacker.com/make-a-lazy-version-of-this-classic-french-onion-sauce-1850283430)
-- [Dev.to/JS] [Deploying your React App to Firebase Hosting](https://dev.to/muhammadui/deploying-your-react-app-to-firebase-hosting-4jkn)
 - [Lifehacker] [Beware This Nightmarish New Android Banking Malware](https://lifehacker.com/beware-this-nightmarish-new-android-banking-malware-1850282946)
 - [Lifehacker] [These Restaurant Rewards Programs Give You the Most Free Food](https://lifehacker.com/these-restaurant-rewards-programs-give-you-the-most-fre-1850280785)
 - [Lifehacker] [How to Spot the Worst Tourist Traps &lpar;and When to Just Give in and Visit Them&rpar;](https://lifehacker.com/how-to-spot-the-worst-tourist-traps-and-when-to-just-g-1850281093)
