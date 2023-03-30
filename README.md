@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Application Deployment On Azure Cloud using Azure Web App Service](https://dev.to/sardarmudassaralikhan/application-deployment-on-azure-cloud-using-azure-web-app-service-2lh8)
+- [Lifehacker] [These Restaurant Rewards Programs Give You the Most Free Food](https://lifehacker.com/these-restaurant-rewards-programs-give-you-the-most-fre-1850280785)
+- [Dev.to/JS] [How to Create an Azure App Using the Azure Cloud Portal](https://dev.to/sardarmudassaralikhan/how-to-create-an-azure-app-using-the-azure-cloud-portal-46an)
+- [Dev.to/JS] [Understanding Promises in JavaScript](https://dev.to/makstyle119/understanding-promises-in-javascript-430l)
+- [Dev.to/JS] [Is Tailwind CSS The Best Framework?](https://dev.to/tech_olaide/is-tailwind-css-the-best-framework-2abh)
+- [Dev.to/JS] [12 JavaScript Number Methods Cheatsheet](https://dev.to/catherineisonline/12-javascript-number-methods-cheatsheet-1oie)
+- [Lifehacker] [How to Spot the Worst Tourist Traps &lpar;and When to Just Give in and Visit Them&rpar;](https://lifehacker.com/how-to-spot-the-worst-tourist-traps-and-when-to-just-g-1850281093)
 - [Dev.to/JS] [20 Github repositories every developer should bookmark&lpar;high value resources&rpar;](https://dev.to/jon_snow789/20-github-repositories-every-developer-should-bookmarkhigh-value-resources-4jm6)
 - [Dev.to/JS] [How fast we can go now?](https://dev.to/iosonoagenda/how-fast-we-can-go-now-3590)
 - [Dev.to/JS] [How to Work with Microsoft Azure Cloud SQL Service](https://dev.to/sardarmudassaralikhan/how-to-work-with-microsoft-azure-cloud-sql-service-3e7f)
@@ -33,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Validate an OpenID Connect JWT using a public key in JWKS](https://dev.to/cloudx/validate-an-openid-connect-jwt-using-a-public-key-in-jwks-14jh)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Subconjuntos não divisíveis](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-subconjuntos-nao-divisiveis-pg5)
 - [Lifehacker] [These Small Purchases Will Change Your Life, According to Reddit](https://lifehacker.com/these-small-purchases-will-change-your-life-according-1850279880)
-- [Dev.to/JS] [Operatorlar haqida](https://dev.to/sardorbek20/operatorlar-haqida-2e7j)
-- [Dev.to/JS] [My life is a party!](https://dev.to/iosonoagenda/my-life-is-a-party-3epi)
-- [Dev.to/JS] [Build automated test suite with 150 tests and 80% code coverage in 30 minutes](https://dev.to/zvone187/build-automated-test-suite-with-150-tests-and-80-code-coverage-in-30-minutes-352c)
-- [Dev.to/JS] [Bounie Launching On Product Hunt Tomorrow](https://dev.to/dougben/bounie-launching-on-product-hunt-tomorrow-4gje)
-- [Dev.to/JS] [How to build a responsive navigation section for a website with HTML, CSS and JavaScript](https://dev.to/musab1258/how-to-build-a-responsive-navigation-section-for-a-website-with-html-css-and-javascript-dc0)
 - [Lifehacker] [The Easiest Way to Clean Your Electric Waffle Iron](https://lifehacker.com/the-easiest-way-to-clean-your-electric-waffle-iron-1850279466)
 - [Lifehacker] [How to Use Microsoft Bing’s AI Image Generator](https://lifehacker.com/how-to-use-bing-s-ai-image-generator-to-make-weird-shit-1850279194)
 - [Lifehacker] [How Job-hopping Impacts Your Retirement Savings](https://lifehacker.com/how-job-hopping-impacts-your-retirement-savings-1850274503)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Service Will Hang Onto Your Luggage While You Explore a New City](https://lifehacker.com/this-service-will-hang-onto-your-luggage-while-you-expl-1850274154)
 - [Lifehacker] [You Can Grab the Nintendo Switch OLED for $40 Off Right Now](https://lifehacker.com/you-can-grab-the-nintendo-switch-oled-for-40-off-right-1850273753)
 - [Lifehacker] [How to Stop Turning Your Apple Watch’s Alarm Off in Your Sleep](https://lifehacker.com/how-to-stop-turning-your-apple-watch-s-alarm-off-in-you-1850273443)
-- [Lifehacker] [Why You Should Start Reading a Book Before You Leave for a Trip](https://lifehacker.com/why-you-should-start-reading-a-book-before-you-leave-fo-1850273384)
-- [Lifehacker] [The &#39;Real&#39; History of April Fools&#39; Day &lpar;and Why It Isn’t Funny Anymore&rpar;](https://lifehacker.com/the-real-history-of-april-fool-s-day-and-why-it-isn-t-1850271968)
-- [Lifehacker] [You Should Waffle Some Mozzarella Sticks](https://lifehacker.com/you-should-waffle-some-mozzarella-sticks-1850270871)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Start Reading a Book Before You Leave for a Trip](https://lifehacker.com/why-you-should-start-reading-a-book-before-you-leave-fo-1850273384)<!-- TECH-POSTS:END -->
 
 ---
 
