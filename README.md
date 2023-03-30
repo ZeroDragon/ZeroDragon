@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why JavaScript is a Prototype-based OOP](https://dev.to/efkumah/why-javascript-is-a-prototype-based-oop-4b4g)
 - [Dev.to/JS] [Buttons](https://dev.to/najatulhaque/buttons-3867)
 - [Dev.to/JS] [O poder do pipe no kuba: uma abordagem simples e eficiente](https://dev.to/demgoncalves/o-poder-do-pipe-no-kuba-uma-abordagem-simples-e-eficiente-h1p)
 - [Dev.to/JS] [How to Regex in Javascript](https://dev.to/fabienschlegel/how-to-regex-in-javascript-lcp)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a Lazy Version of This Classic French Onion Sauce](https://lifehacker.com/make-a-lazy-version-of-this-classic-french-onion-sauce-1850283430)
 - [Dev.to/JS] [Deploying your React App to Firebase Hosting](https://dev.to/muhammadui/deploying-your-react-app-to-firebase-hosting-4jkn)
 - [Lifehacker] [Beware This Nightmarish New Android Banking Malware](https://lifehacker.com/beware-this-nightmarish-new-android-banking-malware-1850282946)
-- [Dev.to/JS] [Application Deployment On Azure Cloud using Azure Web App Service](https://dev.to/sardarmudassaralikhan/application-deployment-on-azure-cloud-using-azure-web-app-service-2lh8)
 - [Lifehacker] [These Restaurant Rewards Programs Give You the Most Free Food](https://lifehacker.com/these-restaurant-rewards-programs-give-you-the-most-fre-1850280785)
 - [Lifehacker] [How to Spot the Worst Tourist Traps &lpar;and When to Just Give in and Visit Them&rpar;](https://lifehacker.com/how-to-spot-the-worst-tourist-traps-and-when-to-just-g-1850281093)
 - [Lifehacker] [You Should Pour Boiling Water on Your Chicken Thighs](https://lifehacker.com/you-should-pour-boiling-water-on-your-chicken-thighs-1850280449)
