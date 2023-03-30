@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Ultimate Guide to Becoming a Ghost CMS Theme Developer](https://dev.to/universe/the-ultimate-guide-to-becoming-a-ghost-cms-theme-developer-5fk3)
+- [Dev.to/JS] [How to copy text to your clipboard in JavaScript?](https://dev.to/bashamega/how-to-copy-text-to-your-clipboard-in-javascript-3870)
+- [Dev.to/JS] [How to convert ChatRWKV to Web API and talk to it from Web chat UIChat UI](https://dev.to/riversun/how-to-convert-chatrwkv-to-web-api-and-talk-to-it-from-web-chat-uichat-ui-13da)
 - [Dev.to/JS] [Choosing the Right Script Loading Strategy: Async vs Defer in JavaScript](https://dev.to/talenttinaapi/choosing-the-right-script-loading-strategy-async-vs-defer-in-javascript-6fl)
 - [Dev.to/JS] [SSH cheatsheet](https://dev.to/hshoja/ssh-for-cheatsheet-2e72)
 - [Dev.to/JS] [Software Development Services](https://dev.to/sukanyabisht/software-development-services-1k0k)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [training an image model with tenserflow in nodejs](https://dev.to/atordvairn/training-an-image-model-with-tenserflow-in-nodejs-18em)
 - [Dev.to/JS] [Async Constructors in TS](https://dev.to/xsip/async-constructors-in-ts-5h6f)
 - [Dev.to/JS] [Mobile App Development Company in India - iRoid Technologies](https://dev.to/lenawillson/mobile-app-development-company-in-india-iroid-technologies-5d5f)
-- [Dev.to/JS] [Transactional Try Blocks in ValueScript](https://dev.to/voltrevo/transactional-try-blocks-in-valuescript-8g7)
-- [Dev.to/JS] [Fetching Data With Next.js - part 6](https://dev.to/this-is-learning/fetching-data-with-nextjs-part-6-3hf)
-- [Dev.to/JS] [Javascript Object #3](https://dev.to/samr/javascript-object-3-ep7)
 - [Lifehacker] [You Can Argue Against a Rent Increase](https://lifehacker.com/you-can-argue-against-a-rent-increase-1850278581)
 - [Lifehacker] [These JBL Noise-Canceling Earbuds Are Only $50 Right Now](https://lifehacker.com/these-jbl-noise-canceling-earbuds-are-only-50-right-no-1850278993)
 - [Lifehacker] [Make Cinnamon Extract With Only Two Ingredients](https://lifehacker.com/make-cinnamon-extract-with-only-two-ingredients-1850278864)
