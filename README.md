@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Pros and Cons of Live Coding Interviews: A FrontEnd Dev Analysis](https://dev.to/c0mmand3rj/the-pros-and-cons-of-live-coding-interviews-a-frontend-dev-analysis-31fl)
+- [Dev.to/JS] [Javascript Basics Part 1](https://dev.to/spiritdivine/javascript-basics-part-1-28h7)
+- [Dev.to/JS] [Understanding Vue.js Single-File Components &lpar;SFCs&rpar;](https://dev.to/xinnks/understanding-vuejs-single-file-components-sfcs-fa6)
+- [Dev.to/JS] [JavaScript is a bully!](https://dev.to/sluvish1/javascript-is-a-bully-26k0)
+- [Dev.to/JS] [What is FaceIO Facial Recognition? - Face Recognition Software and Face Analysis Explained](https://dev.to/ahmedqureshi54/what-is-faceio-facial-recognition-face-recognition-software-and-face-analysis-explained-3e7m)
 - [Dev.to/JS] [Combining APIs Responses in Node](https://dev.to/lutefd/combining-two-api-responses-in-node-4n47)
 - [Dev.to/JS] [Build a Live Search Bar in React: A Step-by-Step Guide](https://dev.to/ma7moud3bas/build-a-live-search-bar-in-react-a-step-by-step-guide-2ibh)
 - [Dev.to/JS] [Beginner’s Walkthrough of React Framework 2023](https://dev.to/i_shahmeer/beginners-walkthrough-of-react-framework-2023-553a)
@@ -30,13 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Episode 23/12: Alex Rickabaugh on Signals, Playwright 1.32](https://dev.to/ng_news/episode-2312-2623)
 - [Dev.to/JS] [Scroll Indicator using React](https://dev.to/sarahcssiqueira/scroll-indicator-using-react-22pk)
 - [Dev.to/JS] [first year of coding](https://dev.to/hanoon02/first-year-of-coding-200o)
-- [Dev.to/JS] [Gnarly Learnings from March 2023](https://dev.to/thegnarco/gnarly-learnings-from-march-2023-17a2)
 - [Lifehacker] [You Can Argue Against a Rent Increase](https://lifehacker.com/you-can-argue-against-a-rent-increase-1850278581)
-- [Dev.to/JS] [Tree shaking 🌳](https://dev.to/productosdigitales/tree-shaking-1ffp)
-- [Dev.to/JS] [ejc-cli: Manage your json data better with visual excel sheets](https://dev.to/limingcan562/ejc-cli-manage-your-json-data-better-with-visual-excel-sheets-4llo)
-- [Dev.to/JS] [Building Blog tag index pages in Astro](https://dev.to/eliancodes/building-blog-tag-index-pages-in-astro-9kb)
 - [Lifehacker] [These JBL Noise-Canceling Earbuds Are Only $50 Right Now](https://lifehacker.com/these-jbl-noise-canceling-earbuds-are-only-50-right-no-1850278993)
-- [Dev.to/JS] [Vue JS Essentials: A Beginners Series on Pinia, Vitest, and Supabase #2 Pinia, Tests And Mocking](https://dev.to/aaronksaunders/vue-js-essentials-a-beginners-series-on-pinia-vitest-and-supabase-2-pinia-tests-and-mocking-5fb1)
 - [Lifehacker] [Make Cinnamon Extract With Only Two Ingredients](https://lifehacker.com/make-cinnamon-extract-with-only-two-ingredients-1850278864)
 - [Lifehacker] [This Is How to Tell Whether a Recipe Really Is ‘Easy’](https://lifehacker.com/this-is-how-to-tell-whether-a-recipe-really-is-easy-1850277957)
 - [Crazy Programmer] [How to Declare a Variable in SQL and Assign a Value?](https://www.thecrazyprogrammer.com/2023/03/how-to-declare-a-variable-in-sql.html)
