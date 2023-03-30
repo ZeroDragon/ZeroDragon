@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Common mistakes Web Developers make when they start with React Native](https://dev.to/rv90904/common-mistakes-web-developers-make-when-they-start-with-react-native-434i)
+- [Dev.to/JS] [LeetCode - Valid Number](https://dev.to/_alkesh26/leetcode-valid-number-108m)
+- [Dev.to/JS] [ExpressJS, MongoDB and React on Docker containers](https://dev.to/vilce/expressjs-mongodb-and-react-on-docker-containers-3hg9)
 - [Dev.to/JS] [The Ultimate Guide to Becoming a Ghost CMS Theme Developer](https://dev.to/universe/the-ultimate-guide-to-becoming-a-ghost-cms-theme-developer-5fk3)
 - [Dev.to/JS] [How to copy text to your clipboard in JavaScript?](https://dev.to/bashamega/how-to-copy-text-to-your-clipboard-in-javascript-3870)
 - [Dev.to/JS] [How to convert ChatRWKV to Web API and talk to it from Web chat UIChat UI](https://dev.to/riversun/how-to-convert-chatrwkv-to-web-api-and-talk-to-it-from-web-chat-uichat-ui-13da)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript, useState React Array Handling methods.](https://dev.to/itskunal/javascript-usestate-react-array-handling-methods-1lag)
 - [Dev.to/JS] [Digital banking for all good business...](https://dev.to/tonibrown20/digital-banking-for-all-good-business-2m9)
 - [Dev.to/JS] [Why Free APIs Matter and How to Use Them](https://dev.to/meenal_01/why-free-apis-matter-and-how-to-use-them-2fah)
-- [Dev.to/JS] [training an image model with tenserflow in nodejs](https://dev.to/atordvairn/training-an-image-model-with-tenserflow-in-nodejs-18em)
-- [Dev.to/JS] [Async Constructors in TS](https://dev.to/xsip/async-constructors-in-ts-5h6f)
-- [Dev.to/JS] [Mobile App Development Company in India - iRoid Technologies](https://dev.to/lenawillson/mobile-app-development-company-in-india-iroid-technologies-5d5f)
 - [Lifehacker] [You Can Argue Against a Rent Increase](https://lifehacker.com/you-can-argue-against-a-rent-increase-1850278581)
 - [Lifehacker] [These JBL Noise-Canceling Earbuds Are Only $50 Right Now](https://lifehacker.com/these-jbl-noise-canceling-earbuds-are-only-50-right-no-1850278993)
 - [Lifehacker] [Make Cinnamon Extract With Only Two Ingredients](https://lifehacker.com/make-cinnamon-extract-with-only-two-ingredients-1850278864)
