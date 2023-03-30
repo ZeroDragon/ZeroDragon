@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Handling TXT records with Route53](https://dev.to/dadolhay/handling-txt-records-with-route53-353d)
 - [Dev.to/JS] [The Great Vue Vs Svelte Debate Finally Settled*](https://dev.to/philipjohnbasile/the-great-vue-vs-svelte-debate-finally-settled-52gh)
 - [Dev.to/JS] [The reconciler queue](https://dev.to/dadolhay/the-reconciler-queue-36a6)
 - [Dev.to/JS] [The reconciler concept](https://dev.to/dadolhay/the-reconciler-concept-5dpp)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Pros and Cons of Live Coding Interviews: A FrontEnd Dev Analysis](https://dev.to/c0mmand3rj/the-pros-and-cons-of-live-coding-interviews-a-frontend-dev-analysis-31fl)
 - [Dev.to/JS] [Javascript Basics Part 1](https://dev.to/spiritdivine/javascript-basics-part-1-28h7)
 - [Dev.to/JS] [Understanding Vue.js Single-File Components &lpar;SFCs&rpar;](https://dev.to/xinnks/understanding-vuejs-single-file-components-sfcs-fa6)
-- [Dev.to/JS] [JavaScript is a bully!](https://dev.to/sluvish1/javascript-is-a-bully-26k0)
 - [Lifehacker] [You Can Argue Against a Rent Increase](https://lifehacker.com/you-can-argue-against-a-rent-increase-1850278581)
 - [Lifehacker] [These JBL Noise-Canceling Earbuds Are Only $50 Right Now](https://lifehacker.com/these-jbl-noise-canceling-earbuds-are-only-50-right-no-1850278993)
 - [Lifehacker] [Make Cinnamon Extract With Only Two Ingredients](https://lifehacker.com/make-cinnamon-extract-with-only-two-ingredients-1850278864)
