@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Buttons](https://dev.to/najatulhaque/buttons-3867)
+- [Dev.to/JS] [O poder do pipe no kuba: uma abordagem simples e eficiente](https://dev.to/demgoncalves/o-poder-do-pipe-no-kuba-uma-abordagem-simples-e-eficiente-h1p)
+- [Dev.to/JS] [How to Regex in Javascript](https://dev.to/fabienschlegel/how-to-regex-in-javascript-lcp)
+- [Dev.to/JS] [Understanding Providers and Dependency Injection in NestJS](https://dev.to/patrick0806/understanding-providers-and-dependency-injection-in-nestjs-248e)
 - [Dev.to/JS] [JavaScript 🐲 challenges_4 ⚔️](https://dev.to/mahmoudessam/javascript-challenges4-1bl7)
 - [Dev.to/JS] [React Information Flow](https://dev.to/hgerner19/react-information-flow-51nd)
 - [Dev.to/JS] [Why persisting incremental user states is hard](https://dev.to/karthikramen/why-persisting-incremental-user-states-is-hard-2klk)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Beware This Nightmarish New Android Banking Malware](https://lifehacker.com/beware-this-nightmarish-new-android-banking-malware-1850282946)
 - [Dev.to/JS] [Application Deployment On Azure Cloud using Azure Web App Service](https://dev.to/sardarmudassaralikhan/application-deployment-on-azure-cloud-using-azure-web-app-service-2lh8)
 - [Lifehacker] [These Restaurant Rewards Programs Give You the Most Free Food](https://lifehacker.com/these-restaurant-rewards-programs-give-you-the-most-fre-1850280785)
-- [Dev.to/JS] [How to Create an Azure App Using the Azure Cloud Portal](https://dev.to/sardarmudassaralikhan/how-to-create-an-azure-app-using-the-azure-cloud-portal-46an)
-- [Dev.to/JS] [Understanding Promises in JavaScript](https://dev.to/makstyle119/understanding-promises-in-javascript-430l)
-- [Dev.to/JS] [Is Tailwind CSS The Best Framework?](https://dev.to/tech_olaide/is-tailwind-css-the-best-framework-2abh)
-- [Dev.to/JS] [12 JavaScript Number Methods Cheatsheet](https://dev.to/catherineisonline/12-javascript-number-methods-cheatsheet-1oie)
 - [Lifehacker] [How to Spot the Worst Tourist Traps &lpar;and When to Just Give in and Visit Them&rpar;](https://lifehacker.com/how-to-spot-the-worst-tourist-traps-and-when-to-just-g-1850281093)
 - [Lifehacker] [You Should Pour Boiling Water on Your Chicken Thighs](https://lifehacker.com/you-should-pour-boiling-water-on-your-chicken-thighs-1850280449)
 - [Lifehacker] [How to Tell When an Artificial Intelligence Is &#39;Hallucinating&#39;](https://lifehacker.com/how-to-tell-when-an-artificial-intelligence-is-hallucin-1850280001)
