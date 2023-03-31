@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Three ways to reverse a string in JavaScript](https://dev.to/ahmadadibzad/three-ways-to-reverse-a-string-in-javascript-k71)
+- [Dev.to/JS] [The Best Way to Reduce Complex if-else Statements](https://dev.to/pavelkeyzik/the-best-way-to-reduce-complex-if-else-statements-3j3l)
 - [Dev.to/JS] [Python vs Javascript: The differences.](https://dev.to/gageharmon/python-vs-javascript-the-differences-22jn)
 - [Dev.to/JS] [Interfaces in typescript](https://dev.to/shanshaji/interfaces-in-typescript-55f8)
 - [Dev.to/JS] [Full Stack Developers vs. Front End/Back End Developers: Demystifying the Differences](https://dev.to/c0mmand3rj/full-stack-developers-vs-front-end-developers-demystifying-the-differences-5hi7)
@@ -35,10 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Dev.to/JS] [Control the function internals with callbacks](https://dev.to/tahazsh/control-the-function-internals-with-callbacks-4fba)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
-- [Dev.to/JS] [Event Loop in JavaScript](https://dev.to/makstyle119/event-loop-in-javascript-55f3)
 - [Lifehacker] [What Happens When You Get Indicted](https://lifehacker.com/what-happens-when-you-get-indicted-1850287686)
 - [Lifehacker] [Celebrate With a Well-Timed Free Cone From Ben &amp; Jerry’s](https://lifehacker.com/celebrate-with-a-well-timed-free-cone-from-ben-jerry-1850284677)
-- [Dev.to/JS] [We Knows Object In 🧑🏻‍💻JavaScript⤵️](https://dev.to/shaikhmd007/we-knows-object-in-javascript-3a6h)
 - [Lifehacker] [You Can Use Newspaper and Other Household Junk to Deter Weeds](https://lifehacker.com/you-can-use-newspaper-and-other-household-junk-to-deter-1850287806)
 - [Lifehacker] [Surprisingly Useful Ways to Use Tension Rods Around Your Home](https://lifehacker.com/surprisingly-useful-ways-to-use-tension-rods-around-you-1850287393)
 - [Lifehacker] [Turn Cottage Cheese Into a Creamy, Protein-Packed Pasta Sauce](https://lifehacker.com/turn-cottage-cheese-into-a-creamy-protein-packed-pasta-1850285219)
