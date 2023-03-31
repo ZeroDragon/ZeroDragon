@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [how to filter in the dynamic zone in strapi using graphl?](https://dev.to/jacksonkasi/how-to-filter-in-the-dynamic-zone-in-strapi-using-graphl-4k8g)
+- [Dev.to/JS] [Auto deploy reactjs application on cpanel using github actions&lpar;CI/CD&rpar;.](https://dev.to/techfortified/auto-deploy-reactjs-application-on-cpanel-using-github-actionscicd-3l74)
+- [Lifehacker] [Get an Extra Subway Footlong for Free While You Can](https://lifehacker.com/get-an-extra-subway-footlong-for-free-while-you-can-1850283913)
+- [Dev.to/JS] [fdasfds](https://dev.to/zawzawmyatnyein/fdasfds-42a7)
+- [Dev.to/JS] [Should I add a not-found.jsx file for each page?](https://dev.to/gundogduyakici/should-i-add-a-not-foundjsx-file-for-each-page-4oo5)
+- [Dev.to/JS] [Advanced ReactJS Tutorial: Master Context In A Few Simple Examples](https://dev.to/kadiemq/advanced-reactjs-tutorial-master-context-in-a-few-simple-examples-4olb)
 - [Dev.to/JS] [Next.js News in 3min: Streaming Support, Static Exports, React Email, Shadcn/UI](https://dev.to/erfanebrahimnia/nextjs-weekly-report-1-streaming-support-static-exports-react-email-shadcnui-1d98)
 - [Dev.to/JS] [Get Ready To Hire Istanbul Escorts?](https://dev.to/alisha2023/get-ready-to-hire-istanbul-escorts-1o7m)
 - [Dev.to/JS] [The key to Your Fulfillment is in Hands of Dubai Escorts Services](https://dev.to/alisha2023/the-key-to-your-fulfillment-is-in-hands-of-dubai-escorts-services-1l45)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [take data from webpage as nextedform to mongodb using node js](https://dev.to/albinnj/take-data-from-webpage-as-nextedform-to-mongodb-using-node-js-4ihn)
 - [Dev.to/JS] [Creating a Minesweeper Game in SolidJS - Score, Timer and Game State](https://dev.to/mbarzeev/creating-a-minesweeper-game-in-solidjs-score-timer-and-game-state-56n0)
 - [Dev.to/JS] [real estate](https://dev.to/florida2789/real-estate-1hl7)
-- [Dev.to/JS] [real estate](https://dev.to/florida2789/real-estate-62k)
-- [Dev.to/JS] [741*0.15 caclulate using javascript editor and calculator](https://dev.to/sachinsahu7311/741015-caclulate-using-javascript-editor-and-calculator-6m4)
-- [Dev.to/JS] [Calculate life span and age in years in javascript/typescript](https://dev.to/codever/calculate-life-span-and-age-in-years-in-javascripttypescript-5f99)
-- [Dev.to/JS] [Choosing the Right tool: JavaScript Libraries vs Frameworks?](https://dev.to/miteshpatel/choosing-the-right-tool-javascript-libraries-vs-frameworks-4fa3)
-- [Dev.to/JS] [Insertion Sort](https://dev.to/conrad96/insertion-sort-28kb)
 - [Lifehacker] [Set Up Your Phone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
 - [Lifehacker] [Make a Lazy Version of This Classic French Onion Sauce](https://lifehacker.com/make-a-lazy-version-of-this-classic-french-onion-sauce-1850283430)
 - [Lifehacker] [Beware This Nightmarish New Android Banking Malware](https://lifehacker.com/beware-this-nightmarish-new-android-banking-malware-1850282946)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Can Clean With a Hand-Steamer &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/everything-you-can-clean-with-a-hand-steamer-but-arent-1850275364)
 - [Lifehacker] [There&#39;s a Better Way to Open That Bag of Snacks](https://lifehacker.com/theres-a-better-way-to-open-that-bag-of-snacks-1850274532)
 - [Lifehacker] [You Can Download the Out-of-Print ‘Zelda: Breath of the Wild’ Explorer’s Guide for Free](https://lifehacker.com/you-can-download-the-out-of-print-zelda-breath-of-the-1850274795)
-- [Lifehacker] [How to Spot If Your Food Is Coming From a Ghost Kitchen](https://lifehacker.com/is-your-food-delivery-coming-from-a-ghost-kitchen-1848907749)
-- [Lifehacker] [This Service Will Hang Onto Your Luggage While You Explore a New City](https://lifehacker.com/this-service-will-hang-onto-your-luggage-while-you-expl-1850274154)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Spot If Your Food Is Coming From a Ghost Kitchen](https://lifehacker.com/is-your-food-delivery-coming-from-a-ghost-kitchen-1848907749)<!-- TECH-POSTS:END -->
 
 ---
 
