@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Newbie Framework: SvelteKit🔥](https://dev.to/ahmed_onour/the-newbie-framework-sveltekit-35d1)
+- [Dev.to/JS] [Notion: The Ultimate Productivity Space for Developers](https://dev.to/ahmed_onour/notion-the-ultimate-productivity-space-for-developers-2671)
 - [Dev.to/JS] [Reactotron- Debugging tool for React Native and React Project](https://dev.to/singhvishal802/reactotron-debugging-tool-for-react-native-and-react-project-33ic)
 - [Dev.to/JS] [buy online medicine from publicpill.com](https://dev.to/jessi/buy-online-medicine-from-publicpillcom-3ppc)
 - [Dev.to/JS] [A beginner&#39;s guide to study algorithms](https://dev.to/shangguanwang/a-beginners-guide-to-study-algorithms-202c)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Think Twice Before You Use the forEach Array Method](https://dev.to/jeffsalive/think-twice-before-you-use-the-foreach-array-method-2i0a)
 - [Dev.to/JS] [React JS](https://dev.to/lakharashubham007/react-js-m61)
 - [Dev.to/JS] [Value type vs Reference type in JavaScript](https://dev.to/badr21/value-type-vs-reference-type-in-javascript-4fp6)
-- [Dev.to/JS] [real estate](https://dev.to/user_deb4ad679e/real-estate-17g2)
-- [Dev.to/JS] [Developing the Face Detective App: A Tale of Creativity, Problem Solving, and Growth](https://dev.to/ritabradley_dev/developing-the-face-detective-app-a-tale-of-creativity-problem-solving-and-growth-5ga4)
 - [Lifehacker] [Set Up Your Phone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
 - [Lifehacker] [Make a Lazy Version of This Classic French Onion Sauce](https://lifehacker.com/make-a-lazy-version-of-this-classic-french-onion-sauce-1850283430)
 - [Lifehacker] [Beware This Nightmarish New Android Banking Malware](https://lifehacker.com/beware-this-nightmarish-new-android-banking-malware-1850282946)
