@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React JS](https://dev.to/lakharashubham007/react-js-m61)
+- [Dev.to/JS] [Value type vs Reference type in JavaScript](https://dev.to/badr21/value-type-vs-reference-type-in-javascript-4fp6)
+- [Dev.to/JS] [real estate](https://dev.to/user_deb4ad679e/real-estate-17g2)
 - [Dev.to/JS] [Developing the Face Detective App: A Tale of Creativity, Problem Solving, and Growth](https://dev.to/ritabradley_dev/developing-the-face-detective-app-a-tale-of-creativity-problem-solving-and-growth-5ga4)
 - [Dev.to/JS] [Understanding Shadow DOM and Shadow Roots in JavaScript: A Simple Guide for Beginners](https://dev.to/schukai/understanding-shadow-dom-and-shadow-roots-in-javascript-a-simple-guide-for-beginners-4479)
 - [Dev.to/JS] [Why JavaScript is a Prototype-based OOP](https://dev.to/efkumah/why-javascript-is-a-prototype-based-oop-4b4g)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Providers and Dependency Injection in NestJS](https://dev.to/patrick0806/understanding-providers-and-dependency-injection-in-nestjs-248e)
 - [Dev.to/JS] [🏆⚛️React Roadmap Guide for Beginners 2023](https://dev.to/ypdev19/react-roadmap-guide-for-beginners-2023-3oah)
 - [Dev.to/JS] [JavaScript 🐲 challenges_4 ⚔️](https://dev.to/mahmoudessam/javascript-challenges4-1bl7)
-- [Dev.to/JS] [React Information Flow](https://dev.to/hgerner19/react-information-flow-51nd)
-- [Dev.to/JS] [Why persisting incremental user states is hard](https://dev.to/karthikramen/why-persisting-incremental-user-states-is-hard-2klk)
-- [Dev.to/JS] [Get longer responses from ChatGPT / GPT-4: New Personality Demo 🦾🧠](https://dev.to/dougbutner/get-longer-responses-from-chatgpt-gpt-4-new-personality-demo-1akp)
 - [Lifehacker] [Set Up Your Phone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
 - [Lifehacker] [Make a Lazy Version of This Classic French Onion Sauce](https://lifehacker.com/make-a-lazy-version-of-this-classic-french-onion-sauce-1850283430)
 - [Lifehacker] [Beware This Nightmarish New Android Banking Malware](https://lifehacker.com/beware-this-nightmarish-new-android-banking-malware-1850282946)
