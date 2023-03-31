@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Functions are DRY](https://dev.to/momokid/functions-are-dry-25nd)
+- [Dev.to/JS] [Level Up Your React Projects: A Beginner&#39;s Guide to Custom Hooks](https://dev.to/zigzagoon1/level-up-your-react-projects-a-beginners-guide-to-custom-hooks-2m77)
 - [Dev.to/JS] [React Native - Making a POST Request with an Image from Image Picker](https://dev.to/natedegoey/react-native-making-a-post-request-with-an-image-from-image-picker-20dl)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Dev.to/JS] [3 ways to reverse a string in JavaScript](https://dev.to/ahmadadibzad/three-ways-to-reverse-a-string-in-javascript-k71)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Async-Await in JavaScript](https://dev.to/jps27cse/async-await-in-javascript-144o)
 - [Dev.to/JS] [🚀 Fastest way to bundle JavaScript in 2023](https://dev.to/s1owjke/fastest-way-to-bundle-javascript-in-2023-2oml)
 - [Dev.to/JS] [why whenever I am adding any svg with animate tag in my vite react app it is crashing for no reason](https://dev.to/dhatrishdixit/why-whenever-i-am-adding-any-svg-with-animate-tag-in-my-vite-react-app-it-is-crashing-for-no-reason-1b4)
-- [Dev.to/JS] [How to start into web Development?](https://dev.to/abijithgabriel/how-to-start-into-web-development-47ai)
-- [Dev.to/JS] [Näme üçin HTML öwrenmeli?](https://dev.to/tmprogrammer/name-ucin-html-owrenmeli-4oh)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
 - [Lifehacker] [What Happens When You Get Indicted](https://lifehacker.com/what-happens-when-you-get-indicted-1850287686)
