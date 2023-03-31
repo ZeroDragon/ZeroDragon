@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Calculate life span and age in years in javascript/typescript](https://dev.to/codever/calculate-life-span-and-age-in-years-in-javascripttypescript-5f99)
+- [Dev.to/JS] [Choosing the Right tool: JavaScript Libraries vs Frameworks?](https://dev.to/miteshpatel/choosing-the-right-tool-javascript-libraries-vs-frameworks-4fa3)
+- [Dev.to/JS] [Insertion Sort](https://dev.to/conrad96/insertion-sort-28kb)
+- [Dev.to/JS] [While seeking for a job, having a portfolio website is helpful for showcasing your abilities.](https://dev.to/chidiebereomasi/while-seeking-for-a-job-having-a-portfolio-website-is-helpful-for-showcasing-your-abilities-47lb)
 - [Dev.to/JS] [Prostadine - Prostate Health Results, Price, Benefits &amp; Ingredients?](https://dev.to/prostadine96677/prostadine-prostate-health-results-price-benefits-ingredients-5c2g)
 - [Dev.to/JS] [Add a Context Menu Item to Chrome Extension](https://dev.to/franzwong/add-a-context-menu-item-to-chrome-extension-c71)
 - [Dev.to/JS] [The Benefits of a Free Carrier Lookup API](https://dev.to/meenal_01/the-benefits-of-a-free-carrier-lookup-api-5445)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a simple AI-powered Q&amp;A using Next.js and OpenAI Text Completion](https://dev.to/codegino/build-a-simple-ai-powered-qa-using-nextjs-and-openai-text-completion-3m94)
 - [Dev.to/JS] [The Newbie Framework: SvelteKit🔥](https://dev.to/ahmed_onour/the-newbie-framework-sveltekit-35d1)
 - [Dev.to/JS] [Notion: The Ultimate Productivity Space for Developers](https://dev.to/ahmed_onour/notion-the-ultimate-productivity-space-for-developers-2671)
-- [Dev.to/JS] [Reactotron- Debugging tool for React Native and React Project](https://dev.to/singhvishal802/reactotron-debugging-tool-for-react-native-and-react-project-33ic)
-- [Dev.to/JS] [buy online medicine from publicpill.com](https://dev.to/jessi/buy-online-medicine-from-publicpillcom-3ppc)
-- [Dev.to/JS] [A beginner&#39;s guide to study algorithms](https://dev.to/shangguanwang/a-beginners-guide-to-study-algorithms-202c)
-- [Dev.to/JS] [What’s new in Handsontable: March 2023](https://dev.to/handsontable/whats-new-in-handsontable-march-2023-3ie8)
 - [Lifehacker] [Set Up Your Phone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
 - [Lifehacker] [Make a Lazy Version of This Classic French Onion Sauce](https://lifehacker.com/make-a-lazy-version-of-this-classic-french-onion-sauce-1850283430)
 - [Lifehacker] [Beware This Nightmarish New Android Banking Malware](https://lifehacker.com/beware-this-nightmarish-new-android-banking-malware-1850282946)
