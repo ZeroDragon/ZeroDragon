@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Add a Context Menu Item to Chrome Extension](https://dev.to/franzwong/add-a-context-menu-item-to-chrome-extension-c71)
+- [Dev.to/JS] [The Benefits of a Free Carrier Lookup API](https://dev.to/meenal_01/the-benefits-of-a-free-carrier-lookup-api-5445)
+- [Dev.to/JS] [Mastering React Router: The Ultimate Guide to Navigation and Routing in React Apps!](https://dev.to/clericcoder/mastering-react-router-the-ultimate-guide-to-navigation-and-routing-in-react-apps-1fie)
+- [Dev.to/JS] [Crypto Exchange Development Company](https://dev.to/dikshaverma2988/crypto-exchange-development-company-2oj8)
+- [Dev.to/JS] [Build a simple AI-powered Q&amp;A using Next.js and OpenAI Text Completion](https://dev.to/codegino/build-a-simple-ai-powered-qa-using-nextjs-and-openai-text-completion-3m94)
 - [Dev.to/JS] [The Newbie Framework: SvelteKit🔥](https://dev.to/ahmed_onour/the-newbie-framework-sveltekit-35d1)
 - [Dev.to/JS] [Notion: The Ultimate Productivity Space for Developers](https://dev.to/ahmed_onour/notion-the-ultimate-productivity-space-for-developers-2671)
 - [Dev.to/JS] [Reactotron- Debugging tool for React Native and React Project](https://dev.to/singhvishal802/reactotron-debugging-tool-for-react-native-and-react-project-33ic)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A beginner&#39;s guide to study algorithms](https://dev.to/shangguanwang/a-beginners-guide-to-study-algorithms-202c)
 - [Dev.to/JS] [What’s new in Handsontable: March 2023](https://dev.to/handsontable/whats-new-in-handsontable-march-2023-3ie8)
 - [Dev.to/JS] [Debugging Techniques for JavaScript Developers](https://dev.to/asayerio_techblog/debugging-techniques-for-javascript-developers-26jf)
-- [Dev.to/JS] [My Journey Learning to Code: Reflections on My First Month](https://dev.to/bahamustafa/my-journey-learning-to-code-reflections-on-my-first-month-3ajk)
-- [Dev.to/JS] [Introduction to Symbols Using Type Script](https://dev.to/mahmoudawd/introduction-to-symbols-using-type-script-1727)
-- [Dev.to/JS] [Think Twice Before You Use the forEach Array Method](https://dev.to/jeffsalive/think-twice-before-you-use-the-foreach-array-method-2i0a)
-- [Dev.to/JS] [React JS](https://dev.to/lakharashubham007/react-js-m61)
-- [Dev.to/JS] [Value type vs Reference type in JavaScript](https://dev.to/badr21/value-type-vs-reference-type-in-javascript-4fp6)
 - [Lifehacker] [Set Up Your Phone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
 - [Lifehacker] [Make a Lazy Version of This Classic French Onion Sauce](https://lifehacker.com/make-a-lazy-version-of-this-classic-french-onion-sauce-1850283430)
 - [Lifehacker] [Beware This Nightmarish New Android Banking Malware](https://lifehacker.com/beware-this-nightmarish-new-android-banking-malware-1850282946)
