@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Happens When You Get Indicted](https://lifehacker.com/what-happens-when-you-get-indicted-1850287686)
+- [Lifehacker] [Celebrate With a Well-Timed Free Cone From Ben &amp; Jerry’s](https://lifehacker.com/celebrate-with-a-well-timed-free-cone-from-ben-jerry-1850284677)
+- [Dev.to/JS] [We Knows Object In 🧑🏻‍💻JavaScript⤵️](https://dev.to/shaikhmd007/we-knows-object-in-javascript-3a6h)
+- [Dev.to/JS] [Introducing 50 Carefully Curated Cheat Sheets You&#39;ll Ever Need](https://dev.to/jon_snow789/introducing-50-carefully-curated-cheat-sheets-youll-ever-need-32fj)
+- [Dev.to/JS] [Metodos para Arrays en Javascript](https://dev.to/alexcordobainc/metodos-para-arrays-en-javascript-30bg)
 - [Lifehacker] [You Can Use Newspaper and Other Household Junk to Deter Weeds](https://lifehacker.com/you-can-use-newspaper-and-other-household-junk-to-deter-1850287806)
 - [Dev.to/JS] [How does pnpm work](https://dev.to/chlorine/how-does-pnpm-work-5mh)
 - [Lifehacker] [Surprisingly Useful Ways to Use Tension Rods Around Your Home](https://lifehacker.com/surprisingly-useful-ways-to-use-tension-rods-around-you-1850287393)
@@ -39,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [how to filter in the dynamic zone in strapi using graphql?](https://dev.to/jacksonkasi/how-to-filter-in-the-dynamic-zone-in-strapi-using-graphl-4k8g)
 - [Dev.to/JS] [Auto deploy reactjs application on cpanel using github actions&lpar;CI/CD&rpar;.](https://dev.to/techfortified/auto-deploy-reactjs-application-on-cpanel-using-github-actionscicd-3l74)
 - [Lifehacker] [Get an Extra Subway Footlong for Free While You Can](https://lifehacker.com/get-an-extra-subway-footlong-for-free-while-you-can-1850283913)
-- [Dev.to/JS] [fdasfds](https://dev.to/zawzawmyatnyein/fdasfds-42a7)
-- [Dev.to/JS] [Should I add a not-found.jsx file for each page?](https://dev.to/gundogduyakici/should-i-add-a-not-foundjsx-file-for-each-page-4oo5)
-- [Dev.to/JS] [Advanced ReactJS Tutorial: Master Context In A Few Simple Examples](https://dev.to/kadiemq/advanced-reactjs-tutorial-master-context-in-a-few-simple-examples-4olb)
 - [Lifehacker] [Set Up Your Phone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
 - [Lifehacker] [Make a Lazy Version of This Classic French Onion Sauce](https://lifehacker.com/make-a-lazy-version-of-this-classic-french-onion-sauce-1850283430)
 - [Lifehacker] [Beware This Nightmarish New Android Banking Malware](https://lifehacker.com/beware-this-nightmarish-new-android-banking-malware-1850282946)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is How to Tell Whether a Recipe Really Is ‘Easy’](https://lifehacker.com/this-is-how-to-tell-whether-a-recipe-really-is-easy-1850277957)
 - [Crazy Programmer] [How to Declare a Variable in SQL and Assign a Value?](https://www.thecrazyprogrammer.com/2023/03/how-to-declare-a-variable-in-sql.html)
 - [Lifehacker] [Don&#39;t Buy &#39;The Last of Us, Part 1&#39; on PC](https://lifehacker.com/dont-buy-the-last-of-us-part-1-on-pc-1850278163)
-- [Lifehacker] [The Best Apps You’ve Never Used to Sell Your Used Furniture](https://lifehacker.com/the-best-apps-you-ve-never-used-to-sell-your-used-furni-1850278382)
-- [Lifehacker] [What Is Zone 2 Cardio and How Do I Actually Do It?](https://lifehacker.com/what-is-zone-2-cardio-and-how-do-i-actually-do-it-1850275966)
-- [Lifehacker] [Here&#39;s the Best Time to Book Your Summer Travel](https://lifehacker.com/heres-the-best-time-to-book-your-summer-travel-1850273155)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Apps You’ve Never Used to Sell Your Used Furniture](https://lifehacker.com/the-best-apps-you-ve-never-used-to-sell-your-used-furni-1850278382)<!-- TECH-POSTS:END -->
 
 ---
 
