@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Prostadine - Prostate Health Results, Price, Benefits &amp; Ingredients?](https://dev.to/prostadine96677/prostadine-prostate-health-results-price-benefits-ingredients-5c2g)
 - [Dev.to/JS] [Add a Context Menu Item to Chrome Extension](https://dev.to/franzwong/add-a-context-menu-item-to-chrome-extension-c71)
 - [Dev.to/JS] [The Benefits of a Free Carrier Lookup API](https://dev.to/meenal_01/the-benefits-of-a-free-carrier-lookup-api-5445)
 - [Dev.to/JS] [Mastering React Router: The Ultimate Guide to Navigation and Routing in React Apps!](https://dev.to/clericcoder/mastering-react-router-the-ultimate-guide-to-navigation-and-routing-in-react-apps-1fie)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [buy online medicine from publicpill.com](https://dev.to/jessi/buy-online-medicine-from-publicpillcom-3ppc)
 - [Dev.to/JS] [A beginner&#39;s guide to study algorithms](https://dev.to/shangguanwang/a-beginners-guide-to-study-algorithms-202c)
 - [Dev.to/JS] [What’s new in Handsontable: March 2023](https://dev.to/handsontable/whats-new-in-handsontable-march-2023-3ie8)
-- [Dev.to/JS] [Debugging Techniques for JavaScript Developers](https://dev.to/asayerio_techblog/debugging-techniques-for-javascript-developers-26jf)
 - [Lifehacker] [Set Up Your Phone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
 - [Lifehacker] [Make a Lazy Version of This Classic French Onion Sauce](https://lifehacker.com/make-a-lazy-version-of-this-classic-french-onion-sauce-1850283430)
 - [Lifehacker] [Beware This Nightmarish New Android Banking Malware](https://lifehacker.com/beware-this-nightmarish-new-android-banking-malware-1850282946)
