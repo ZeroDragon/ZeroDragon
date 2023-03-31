@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reactotron- Debugging tool for React Native and React Project](https://dev.to/singhvishal802/reactotron-debugging-tool-for-react-native-and-react-project-33ic)
+- [Dev.to/JS] [buy online medicine from publicpill.com](https://dev.to/jessi/buy-online-medicine-from-publicpillcom-3ppc)
+- [Dev.to/JS] [A beginner&#39;s guide to study algorithms](https://dev.to/shangguanwang/a-beginners-guide-to-study-algorithms-202c)
 - [Dev.to/JS] [What’s new in Handsontable: March 2023](https://dev.to/handsontable/whats-new-in-handsontable-march-2023-3ie8)
 - [Dev.to/JS] [Debugging Techniques for JavaScript Developers](https://dev.to/asayerio_techblog/debugging-techniques-for-javascript-developers-26jf)
 - [Dev.to/JS] [My Journey Learning to Code: Reflections on My First Month](https://dev.to/bahamustafa/my-journey-learning-to-code-reflections-on-my-first-month-3ajk)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Value type vs Reference type in JavaScript](https://dev.to/badr21/value-type-vs-reference-type-in-javascript-4fp6)
 - [Dev.to/JS] [real estate](https://dev.to/user_deb4ad679e/real-estate-17g2)
 - [Dev.to/JS] [Developing the Face Detective App: A Tale of Creativity, Problem Solving, and Growth](https://dev.to/ritabradley_dev/developing-the-face-detective-app-a-tale-of-creativity-problem-solving-and-growth-5ga4)
-- [Dev.to/JS] [Understanding Shadow DOM and Shadow Roots in JavaScript: A Simple Guide for Beginners](https://dev.to/schukai/understanding-shadow-dom-and-shadow-roots-in-javascript-a-simple-guide-for-beginners-4479)
-- [Dev.to/JS] [Why JavaScript is a Prototype-based OOP](https://dev.to/efkumah/why-javascript-is-a-prototype-based-oop-4b4g)
-- [Dev.to/JS] [Buttons](https://dev.to/najatulhaque/buttons-3867)
 - [Lifehacker] [Set Up Your Phone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
 - [Lifehacker] [Make a Lazy Version of This Classic French Onion Sauce](https://lifehacker.com/make-a-lazy-version-of-this-classic-french-onion-sauce-1850283430)
 - [Lifehacker] [Beware This Nightmarish New Android Banking Malware](https://lifehacker.com/beware-this-nightmarish-new-android-banking-malware-1850282946)
