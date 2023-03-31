@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js News in 3min: Streaming Support, Static Exports, React Email, Shadcn/UI](https://dev.to/erfanebrahimnia/nextjs-weekly-report-1-streaming-support-static-exports-react-email-shadcnui-1d98)
+- [Dev.to/JS] [Get Ready To Hire Istanbul Escorts?](https://dev.to/alisha2023/get-ready-to-hire-istanbul-escorts-1o7m)
 - [Dev.to/JS] [The key to Your Fulfillment is in Hands of Dubai Escorts Services](https://dev.to/alisha2023/the-key-to-your-fulfillment-is-in-hands-of-dubai-escorts-services-1l45)
 - [Dev.to/JS] [Optimizing React Native Development: The Importance of a Clean Console](https://dev.to/adii9/optimizing-react-native-development-the-importance-of-a-clean-console-1d4m)
 - [Dev.to/JS] [take data from webpage as nextedform to mongodb using node js](https://dev.to/albinnj/take-data-from-webpage-as-nextedform-to-mongodb-using-node-js-4ihn)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Calculate life span and age in years in javascript/typescript](https://dev.to/codever/calculate-life-span-and-age-in-years-in-javascripttypescript-5f99)
 - [Dev.to/JS] [Choosing the Right tool: JavaScript Libraries vs Frameworks?](https://dev.to/miteshpatel/choosing-the-right-tool-javascript-libraries-vs-frameworks-4fa3)
 - [Dev.to/JS] [Insertion Sort](https://dev.to/conrad96/insertion-sort-28kb)
-- [Dev.to/JS] [While seeking for a job, having a portfolio website is helpful for showcasing your abilities.](https://dev.to/chidiebereomasi/while-seeking-for-a-job-having-a-portfolio-website-is-helpful-for-showcasing-your-abilities-47lb)
-- [Dev.to/JS] [Prostadine - Prostate Health Results, Price, Benefits &amp; Ingredients?](https://dev.to/prostadine96677/prostadine-prostate-health-results-price-benefits-ingredients-5c2g)
 - [Lifehacker] [Set Up Your Phone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
 - [Lifehacker] [Make a Lazy Version of This Classic French Onion Sauce](https://lifehacker.com/make-a-lazy-version-of-this-classic-french-onion-sauce-1850283430)
 - [Lifehacker] [Beware This Nightmarish New Android Banking Malware](https://lifehacker.com/beware-this-nightmarish-new-android-banking-malware-1850282946)
