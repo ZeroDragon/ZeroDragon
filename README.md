@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Python vs Javascript: The differences.](https://dev.to/gageharmon/python-vs-javascript-the-differences-22jn)
 - [Dev.to/JS] [Interfaces in typescript](https://dev.to/shanshaji/interfaces-in-typescript-55f8)
 - [Dev.to/JS] [Full Stack Developers vs. Front End/Back End Developers: Demystifying the Differences](https://dev.to/c0mmand3rj/full-stack-developers-vs-front-end-developers-demystifying-the-differences-5hi7)
 - [Dev.to/JS] [Pastries Website](https://dev.to/devlipeunim/pastries-website-23kh)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Happens When You Get Indicted](https://lifehacker.com/what-happens-when-you-get-indicted-1850287686)
 - [Lifehacker] [Celebrate With a Well-Timed Free Cone From Ben &amp; Jerry’s](https://lifehacker.com/celebrate-with-a-well-timed-free-cone-from-ben-jerry-1850284677)
 - [Dev.to/JS] [We Knows Object In 🧑🏻‍💻JavaScript⤵️](https://dev.to/shaikhmd007/we-knows-object-in-javascript-3a6h)
-- [Dev.to/JS] [Introducing 50 Carefully Curated Cheat Sheets You&#39;ll Ever Need](https://dev.to/jon_snow789/introducing-50-carefully-curated-cheat-sheets-youll-ever-need-32fj)
 - [Lifehacker] [You Can Use Newspaper and Other Household Junk to Deter Weeds](https://lifehacker.com/you-can-use-newspaper-and-other-household-junk-to-deter-1850287806)
 - [Lifehacker] [Surprisingly Useful Ways to Use Tension Rods Around Your Home](https://lifehacker.com/surprisingly-useful-ways-to-use-tension-rods-around-you-1850287393)
 - [Lifehacker] [Turn Cottage Cheese Into a Creamy, Protein-Packed Pasta Sauce](https://lifehacker.com/turn-cottage-cheese-into-a-creamy-protein-packed-pasta-1850285219)
