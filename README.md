@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Interfaces in typescript](https://dev.to/shanshaji/interfaces-in-typescript-55f8)
+- [Dev.to/JS] [Full Stack Developers vs. Front End/Back End Developers: Demystifying the Differences](https://dev.to/c0mmand3rj/full-stack-developers-vs-front-end-developers-demystifying-the-differences-5hi7)
+- [Dev.to/JS] [Pastries Website](https://dev.to/devlipeunim/pastries-website-23kh)
+- [Dev.to/JS] [Async-Await in JavaScript](https://dev.to/jps27cse/async-await-in-javascript-144o)
+- [Dev.to/JS] [🚀 Fastest way to bundle JavaScript in 2023](https://dev.to/s1owjke/fastest-way-to-bundle-javascript-in-2023-2oml)
+- [Dev.to/JS] [why whenever I am adding any svg with animate tag in my vite react app it is crashing for no reason](https://dev.to/dhatrishdixit/why-whenever-i-am-adding-any-svg-with-animate-tag-in-my-vite-react-app-it-is-crashing-for-no-reason-1b4)
+- [Dev.to/JS] [How to start into web Development?](https://dev.to/abijithgabriel/how-to-start-into-web-development-47ai)
+- [Dev.to/JS] [Näme üçin HTML öwrenmeli?](https://dev.to/tmprogrammer/name-ucin-html-owrenmeli-4oh)
+- [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Dev.to/JS] [Control the function internals with callbacks](https://dev.to/tahazsh/control-the-function-internals-with-callbacks-4fba)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
 - [Dev.to/JS] [Event Loop in JavaScript](https://dev.to/makstyle119/event-loop-in-javascript-55f3)
@@ -30,20 +39,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Celebrate With a Well-Timed Free Cone From Ben &amp; Jerry’s](https://lifehacker.com/celebrate-with-a-well-timed-free-cone-from-ben-jerry-1850284677)
 - [Dev.to/JS] [We Knows Object In 🧑🏻‍💻JavaScript⤵️](https://dev.to/shaikhmd007/we-knows-object-in-javascript-3a6h)
 - [Dev.to/JS] [Introducing 50 Carefully Curated Cheat Sheets You&#39;ll Ever Need](https://dev.to/jon_snow789/introducing-50-carefully-curated-cheat-sheets-youll-ever-need-32fj)
-- [Dev.to/JS] [Metodos para Arrays en Javascript](https://dev.to/alexcordobainc/metodos-para-arrays-en-javascript-30bg)
 - [Lifehacker] [You Can Use Newspaper and Other Household Junk to Deter Weeds](https://lifehacker.com/you-can-use-newspaper-and-other-household-junk-to-deter-1850287806)
-- [Dev.to/JS] [How does pnpm work](https://dev.to/chlorine/how-does-pnpm-work-5mh)
 - [Lifehacker] [Surprisingly Useful Ways to Use Tension Rods Around Your Home](https://lifehacker.com/surprisingly-useful-ways-to-use-tension-rods-around-you-1850287393)
-- [Dev.to/JS] [Understanding Hoisting in JavaScript: Different forms of Hoisting - part 2](https://dev.to/haastrupea/understanding-hoisting-in-javascript-different-forms-of-hoisting-part-2-1lc4)
-- [Dev.to/JS] [Understanding Hoisting in JavaScript: Building a mental model- part 1](https://dev.to/haastrupea/understanding-hoisting-in-javascript-building-a-mental-model-part-1-45og)
 - [Lifehacker] [Turn Cottage Cheese Into a Creamy, Protein-Packed Pasta Sauce](https://lifehacker.com/turn-cottage-cheese-into-a-creamy-protein-packed-pasta-1850285219)
 - [Lifehacker] [Give Your Cheeseball a Festive Easter Makeover](https://lifehacker.com/give-your-cheeseball-a-festive-easter-makeover-1850284595)
-- [Dev.to/JS] [The Benefits of Using Node.js for Big Data Processing](https://dev.to/folasayosamuel/the-benefits-of-using-nodejs-for-big-data-processing-afe)
 - [Lifehacker] [There’s a Better Way to Organize Your Freezer](https://lifehacker.com/there-s-a-better-way-to-organize-your-freezer-1850284246)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Contando Strings repetidas](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-contando-strings-repetidas-16kf)
 - [Lifehacker] [Why You Should Always Report a Scam](https://lifehacker.com/why-you-should-always-report-a-scam-1850282865)
-- [Dev.to/JS] [How to Code the Array Partition Algorithm in JavaScript and Python](https://dev.to/nielsenjared/how-to-code-the-array-partition-algorithm-in-javascript-and-python-1m0n)
-- [Dev.to/JS] [Top 10 Bagisto Development Companies](https://dev.to/mukeshram/top-10-bagisto-development-companies-64k)
 - [Lifehacker] [Get an Extra Subway Footlong for Free While You Can](https://lifehacker.com/get-an-extra-subway-footlong-for-free-while-you-can-1850283913)
 - [Lifehacker] [Set Up Your Phone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
 - [Lifehacker] [Make a Lazy Version of This Classic French Onion Sauce](https://lifehacker.com/make-a-lazy-version-of-this-classic-french-onion-sauce-1850283430)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These JBL Noise-Canceling Earbuds Are Only $50 Right Now](https://lifehacker.com/these-jbl-noise-canceling-earbuds-are-only-50-right-no-1850278993)
 - [Lifehacker] [Make Cinnamon Extract With Only Two Ingredients](https://lifehacker.com/make-cinnamon-extract-with-only-two-ingredients-1850278864)
 - [Lifehacker] [This Is How to Tell Whether a Recipe Really Is ‘Easy’](https://lifehacker.com/this-is-how-to-tell-whether-a-recipe-really-is-easy-1850277957)
-- [Crazy Programmer] [How to Declare a Variable in SQL and Assign a Value?](https://www.thecrazyprogrammer.com/2023/03/how-to-declare-a-variable-in-sql.html)
-- [Lifehacker] [Don&#39;t Buy &#39;The Last of Us, Part 1&#39; on PC](https://lifehacker.com/dont-buy-the-last-of-us-part-1-on-pc-1850278163)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [How to Declare a Variable in SQL and Assign a Value?](https://www.thecrazyprogrammer.com/2023/03/how-to-declare-a-variable-in-sql.html)<!-- TECH-POSTS:END -->
 
 ---
 
