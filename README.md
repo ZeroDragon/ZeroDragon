@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Use Newspaper and Other Household Junk to Deter Weeds](https://lifehacker.com/you-can-use-newspaper-and-other-household-junk-to-deter-1850287806)
+- [Dev.to/JS] [How does pnpm work](https://dev.to/chlorine/how-does-pnpm-work-5mh)
+- [Lifehacker] [Surprisingly Useful Ways to Use Tension Rods Around Your Home](https://lifehacker.com/surprisingly-useful-ways-to-use-tension-rods-around-you-1850287393)
+- [Dev.to/JS] [Understanding Hoisting in JavaScript: Different forms of Hoisting - part 2](https://dev.to/haastrupea/understanding-hoisting-in-javascript-different-forms-of-hoisting-part-2-1lc4)
+- [Dev.to/JS] [Understanding Hoisting in JavaScript: Building a mental model- part 1](https://dev.to/haastrupea/understanding-hoisting-in-javascript-building-a-mental-model-part-1-45og)
+- [Lifehacker] [Turn Cottage Cheese Into a Creamy, Protein-Packed Pasta Sauce](https://lifehacker.com/turn-cottage-cheese-into-a-creamy-protein-packed-pasta-1850285219)
 - [Lifehacker] [Give Your Cheeseball a Festive Easter Makeover](https://lifehacker.com/give-your-cheeseball-a-festive-easter-makeover-1850284595)
 - [Dev.to/JS] [The Benefits of Using Node.js for Big Data Processing](https://dev.to/folasayosamuel/the-benefits-of-using-nodejs-for-big-data-processing-afe)
 - [Lifehacker] [There’s a Better Way to Organize Your Freezer](https://lifehacker.com/there-s-a-better-way-to-organize-your-freezer-1850284246)
@@ -36,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [fdasfds](https://dev.to/zawzawmyatnyein/fdasfds-42a7)
 - [Dev.to/JS] [Should I add a not-found.jsx file for each page?](https://dev.to/gundogduyakici/should-i-add-a-not-foundjsx-file-for-each-page-4oo5)
 - [Dev.to/JS] [Advanced ReactJS Tutorial: Master Context In A Few Simple Examples](https://dev.to/kadiemq/advanced-reactjs-tutorial-master-context-in-a-few-simple-examples-4olb)
-- [Dev.to/JS] [Next.js News in 3min: Streaming Support, Static Exports, React Email, Shadcn/UI](https://dev.to/erfanebrahimnia/nextjs-weekly-report-1-streaming-support-static-exports-react-email-shadcnui-1d98)
-- [Dev.to/JS] [Get Ready To Hire Istanbul Escorts?](https://dev.to/alisha2023/get-ready-to-hire-istanbul-escorts-1o7m)
-- [Dev.to/JS] [The key to Your Fulfillment is in Hands of Dubai Escorts Services](https://dev.to/alisha2023/the-key-to-your-fulfillment-is-in-hands-of-dubai-escorts-services-1l45)
 - [Lifehacker] [Set Up Your Phone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
 - [Lifehacker] [Make a Lazy Version of This Classic French Onion Sauce](https://lifehacker.com/make-a-lazy-version-of-this-classic-french-onion-sauce-1850283430)
 - [Lifehacker] [Beware This Nightmarish New Android Banking Malware](https://lifehacker.com/beware-this-nightmarish-new-android-banking-malware-1850282946)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Buy &#39;The Last of Us, Part 1&#39; on PC](https://lifehacker.com/dont-buy-the-last-of-us-part-1-on-pc-1850278163)
 - [Lifehacker] [The Best Apps You’ve Never Used to Sell Your Used Furniture](https://lifehacker.com/the-best-apps-you-ve-never-used-to-sell-your-used-furni-1850278382)
 - [Lifehacker] [What Is Zone 2 Cardio and How Do I Actually Do It?](https://lifehacker.com/what-is-zone-2-cardio-and-how-do-i-actually-do-it-1850275966)
-- [Lifehacker] [Here&#39;s the Best Time to Book Your Summer Travel](https://lifehacker.com/heres-the-best-time-to-book-your-summer-travel-1850273155)
-- [Lifehacker] [How to Respond to Every Type of Annoying Airline Passenger](https://lifehacker.com/how-to-respond-to-every-type-of-annoying-airline-passen-1850277050)
-- [Lifehacker] [Attention: I Have Revolutionized Cheese Fries](https://lifehacker.com/attention-i-have-revolutionized-cheese-fries-1850276074)
-- [Lifehacker] [Everything You Can Clean With a Hand-Steamer &lpar;but Aren&#39;t&rpar;](https://lifehacker.com/everything-you-can-clean-with-a-hand-steamer-but-arent-1850275364)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s the Best Time to Book Your Summer Travel](https://lifehacker.com/heres-the-best-time-to-book-your-summer-travel-1850273155)<!-- TECH-POSTS:END -->
 
 ---
 
