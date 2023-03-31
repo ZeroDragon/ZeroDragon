@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Debugging Techniques for JavaScript Developers](https://dev.to/asayerio_techblog/debugging-techniques-for-javascript-developers-26jf)
 - [Dev.to/JS] [My Journey Learning to Code: Reflections on My First Month](https://dev.to/bahamustafa/my-journey-learning-to-code-reflections-on-my-first-month-3ajk)
 - [Dev.to/JS] [Introduction to Symbols Using Type Script](https://dev.to/mahmoudawd/introduction-to-symbols-using-type-script-1727)
 - [Dev.to/JS] [Think Twice Before You Use the forEach Array Method](https://dev.to/jeffsalive/think-twice-before-you-use-the-foreach-array-method-2i0a)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why JavaScript is a Prototype-based OOP](https://dev.to/efkumah/why-javascript-is-a-prototype-based-oop-4b4g)
 - [Dev.to/JS] [Buttons](https://dev.to/najatulhaque/buttons-3867)
 - [Dev.to/JS] [O poder do pipe no kuba: uma abordagem simples e eficiente](https://dev.to/demgoncalves/o-poder-do-pipe-no-kuba-uma-abordagem-simples-e-eficiente-h1p)
-- [Dev.to/JS] [How to Regex in Javascript](https://dev.to/fabienschlegel/how-to-regex-in-javascript-lcp)
 - [Lifehacker] [Set Up Your Phone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
 - [Lifehacker] [Make a Lazy Version of This Classic French Onion Sauce](https://lifehacker.com/make-a-lazy-version-of-this-classic-french-onion-sauce-1850283430)
 - [Lifehacker] [Beware This Nightmarish New Android Banking Malware](https://lifehacker.com/beware-this-nightmarish-new-android-banking-malware-1850282946)
