@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Comprendre React Context en faisant un Dark mode](https://dev.to/ahmedbouras/comprendre-react-context-en-faisant-un-dark-mode-3h0j)
+- [Dev.to/JS] [Coersão de tipo em Javascript &lpar;typecasting&rpar;](https://dev.to/juniormartinxo/coersao-de-tipo-em-javascript-306b)
+- [Dev.to/JS] [Understanding Data Types in JavaScript &lpar; Part - 1 &rpar;](https://dev.to/makstyle119/understanding-data-types-in-javascript-part-1--2957)
+- [Dev.to/JS] [A Comprehensive Guide to JavaScript Execution Process.](https://dev.to/amissah17/a-comprehensive-guide-to-javascript-execution-process-56d0)
 - [Dev.to/JS] [Hoisting In Javascript &lpar; Part - 1 &rpar;:](https://dev.to/sachink07/hoisting-in-javascript-part-1--4bne)
 - [Dev.to/JS] [Paracetamol.js💊| #215: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-215-explica-este-codigo-javascript-4j4e)
 - [Dev.to/JS] [How to create a vue project using vite](https://dev.to/owais11art/how-to-create-a-vue-project-using-vite-3c02)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [wwdwd](https://dev.to/kartik7120/wwdwd-p0a)
 - [Dev.to/JS] [The mystery of “this” in JavaScript.](https://dev.to/mohitcodes/the-mystery-of-this-in-javascript-19b6)
 - [Dev.to/JS] [JavaScript EP2: Hoisting🫵🏻](https://dev.to/phatsss/javascript-ep2-hoisting-jc1)
-- [Dev.to/JS] [Use ALL the Features: How To Create a Fancy Password Input With Vue3 🔑✅](https://dev.to/thormeier/use-all-the-features-how-to-create-a-fancy-password-input-with-vue3-ggi)
-- [Dev.to/JS] [Cypress Best Practices that are actually bad](https://dev.to/evgenyorekhov/cypress-best-practices-that-are-actually-bad-2m3m)
-- [Dev.to/JS] [Flutter Vs React Native. Which one to choose in 2023?](https://dev.to/heyitsuzair/flutter-vs-react-native-which-one-to-choose-in-2023-496j)
-- [Dev.to/JS] [Weekend Reading](https://dev.to/sporter/weekend-reading-4g1)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
