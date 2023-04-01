@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Best Practices for Writing Clean and Maintainable React Code](https://dev.to/setgram/10-best-practices-for-writing-clean-and-maintainable-react-code-23dp)
+- [Dev.to/JS] [How to Hide Features from Production Environment in React](https://dev.to/eduardojm/how-to-hide-features-from-production-environment-in-react-1mcn)
 - [Dev.to/JS] [Functions are DRY](https://dev.to/momokid/functions-are-dry-25nd)
 - [Dev.to/JS] [Level Up Your React Projects: A Beginner&#39;s Guide to Custom Hooks](https://dev.to/zigzagoon1/level-up-your-react-projects-a-beginners-guide-to-custom-hooks-2m77)
 - [Dev.to/JS] [React Native - Making a POST Request with an Image from Image Picker](https://dev.to/natedegoey/react-native-making-a-post-request-with-an-image-from-image-picker-20dl)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Full Stack Developers vs. Front End/Back End Developers: Demystifying the Differences](https://dev.to/c0mmand3rj/full-stack-developers-vs-front-end-developers-demystifying-the-differences-5hi7)
 - [Dev.to/JS] [Pastries Website](https://dev.to/devlipeunim/pastries-website-23kh)
 - [Dev.to/JS] [Async-Await in JavaScript](https://dev.to/jps27cse/async-await-in-javascript-144o)
-- [Dev.to/JS] [🚀 Fastest way to bundle JavaScript in 2023](https://dev.to/s1owjke/fastest-way-to-bundle-javascript-in-2023-2oml)
-- [Dev.to/JS] [why whenever I am adding any svg with animate tag in my vite react app it is crashing for no reason](https://dev.to/dhatrishdixit/why-whenever-i-am-adding-any-svg-with-animate-tag-in-my-vite-react-app-it-is-crashing-for-no-reason-1b4)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
 - [Lifehacker] [What Happens When You Get Indicted](https://lifehacker.com/what-happens-when-you-get-indicted-1850287686)
