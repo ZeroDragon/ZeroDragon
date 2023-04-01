@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [##Freecodecamp JavaScript course](https://dev.to/massaquoi716/freecodecamp-javascript-course-2641)
+- [Dev.to/JS] [wwdwd](https://dev.to/kartik7120/wwdwd-p0a)
+- [Dev.to/JS] [The mystery of “this” in JavaScript.](https://dev.to/mohitcodes/the-mystery-of-this-in-javascript-19b6)
 - [Dev.to/JS] [JavaScript EP2: Hoisting🫵🏻](https://dev.to/phatsss/javascript-ep2-hoisting-jc1)
 - [Dev.to/JS] [Use ALL the Features: How To Create a Fancy Password Input With Vue3 🔑✅](https://dev.to/thormeier/use-all-the-features-how-to-create-a-fancy-password-input-with-vue3-ggi)
 - [Dev.to/JS] [Cypress Best Practices that are actually bad](https://dev.to/evgenyorekhov/cypress-best-practices-that-are-actually-bad-2m3m)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;01-04-2023&rpar; - World Says No](https://dev.to/mjgs/this-weeks-newsletter-is-out-01-04-2023-world-says-no-2dbm)
 - [Dev.to/JS] [Build an API with Serverless Functions in Next.js](https://dev.to/ayushsoni1010/build-an-api-with-serverless-functions-in-nextjs-52n1)
 - [Dev.to/JS] [Minze Inside Vue.js](https://dev.to/nnivxix/create-a-native-custom-element-using-minze-inside-vuejs-2mdo)
-- [Dev.to/JS] [How to use react-to-print in react.js](https://dev.to/asapconet/how-to-use-react-to-print-in-reactjs-501g)
-- [Dev.to/JS] [Serverless Stack, a Terraform alternative for developers](https://dev.to/jei/serverless-stack-a-terraform-alternative-for-developers-2jnb)
-- [Dev.to/JS] [Top React Data Fetching Libraries](https://dev.to/bybydev/top-react-data-fetching-libraries-4e9e)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
