@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Graceful Shutdown in Node.js: Handling Stranger Danger](https://dev.to/superiqbal7/graceful-shutdown-in-nodejs-handling-stranger-danger-29jo)
+- [Dev.to/JS] [JS Module Imports](https://dev.to/jacopo/js-module-imports-17n4)
 - [Dev.to/JS] [A Beginner&#39;s Guide to React Redux Toolkit: Simplify Your State Management](https://dev.to/ezzahirtaha/a-beginners-guide-to-react-redux-toolkit-simplify-your-state-management-1he1)
 - [Dev.to/JS] [An Open Letter to JavaScript](https://dev.to/mrdanishsaleem/an-open-letter-to-javascript-3nnf)
 - [Dev.to/JS] [Shopify Email Automation – How to Automatically Send Emails](https://dev.to/durgesh4993/shopify-email-automation-how-to-automatically-send-emails-4gkf)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Advantages of Error-First Callbacks in Node.js](https://dev.to/wacieni/the-advantages-of-error-first-callbacks-in-nodejs-28d0)
 - [Dev.to/JS] [Memoization Simplified](https://dev.to/rv90904/memoization-simplified-30pk)
 - [Dev.to/JS] [Setting up a Phaser.js Development Environment](https://dev.to/jd2r/setting-up-a-phaserjs-development-environment-2cbc)
-- [Dev.to/JS] [Building a calendar component with Tailwind and date-fns](https://dev.to/vivekalhat/building-a-calendar-component-with-tailwind-and-date-fns-2c0i)
-- [Dev.to/JS] [Comprendre React Context en faisant un Dark mode](https://dev.to/ahmedbouras/comprendre-react-context-en-faisant-un-dark-mode-3h0j)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
