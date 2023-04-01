@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build an API with Serverless Functions in Next.js](https://dev.to/ayushsoni1010/build-an-api-with-serverless-functions-in-nextjs-52n1)
+- [Dev.to/JS] [How to use react-to-print in react.js](https://dev.to/asapconet/how-to-use-react-to-print-in-reactjs-501g)
+- [Dev.to/JS] [Serverless Stack, a Terraform alternative for developers](https://dev.to/jei/serverless-stack-a-terraform-alternative-for-developers-2jnb)
+- [Dev.to/JS] [Top React Data Fetching Libraries](https://dev.to/bybydev/top-react-data-fetching-libraries-4e9e)
 - [Dev.to/JS] [Exception Handling and Logging Errors in REST API using Javascript &amp; Express](https://dev.to/nikkbh/exception-handling-and-logging-errors-in-rest-api-using-javascript-express-5h93)
 - [Dev.to/JS] [Starting a React app in 2023](https://dev.to/kirilltregubov/starting-a-react-app-in-2023-4ak7)
 - [Dev.to/JS] [Most Important Javascript Methods](https://dev.to/gabrielmodog/most-important-javascript-methods-59bi)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Hide Features from Production Environment in React](https://dev.to/eduardojm/how-to-hide-features-from-production-environment-in-react-1mcn)
 - [Dev.to/JS] [Functions are DRY](https://dev.to/momokid/functions-are-dry-25nd)
 - [Dev.to/JS] [Level Up Your React Projects: A Beginner&#39;s Guide to Custom Hooks](https://dev.to/zigzagoon1/level-up-your-react-projects-a-beginners-guide-to-custom-hooks-2m77)
-- [Dev.to/JS] [React Native - Making a POST Request with an Image from Image Picker](https://dev.to/natedegoey/react-native-making-a-post-request-with-an-image-from-image-picker-20dl)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
-- [Dev.to/JS] [3 ways to reverse a string in JavaScript](https://dev.to/ahmadadibzad/three-ways-to-reverse-a-string-in-javascript-k71)
-- [Dev.to/JS] [The Best Way to Reduce Complex if-else Statements](https://dev.to/pavelkeyzik/the-best-way-to-reduce-complex-if-else-statements-3j3l)
-- [Dev.to/JS] [Python vs Javascript: The differences.](https://dev.to/gageharmon/python-vs-javascript-the-differences-22jn)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
 - [Lifehacker] [What Happens When You Get Indicted](https://lifehacker.com/what-happens-when-you-get-indicted-1850287686)
