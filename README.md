@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Verifying Integrity of Files using NodeJS](https://dev.to/orkhanhuseyn/verifying-integrity-of-files-using-nodejs-1gnd)
+- [Dev.to/JS] [A Developer&#39;s Journey: Building GPT-in-Terminal, a Side Project That Unlocks the Power of OpenAI&#39;s GPT-3 in terminal](https://dev.to/bijishjs/a-developers-journey-building-gpt-in-terminal-a-side-project-that-unlocks-the-power-of-openais-gpt-3-in-terminal-cg3)
 - [Dev.to/JS] [Graceful Shutdown in Node.js: Handling Stranger Danger](https://dev.to/superiqbal7/graceful-shutdown-in-nodejs-handling-stranger-danger-29jo)
 - [Dev.to/JS] [JS Module Imports](https://dev.to/jacopo/js-module-imports-17n4)
 - [Dev.to/JS] [A Beginner&#39;s Guide to React Redux Toolkit: Simplify Your State Management](https://dev.to/ezzahirtaha/a-beginners-guide-to-react-redux-toolkit-simplify-your-state-management-1he1)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array &amp; Hashing: Group Anagrams](https://dev.to/bibinjaimon/array-hashing-group-anagrams-pc4)
 - [Dev.to/JS] [How to Use Higher Order Functions for Reusability and Abstraction in React](https://dev.to/msbalacse/how-to-use-higher-order-functions-for-reusability-and-abstraction-in-react-3dia)
 - [Dev.to/JS] [The Advantages of Error-First Callbacks in Node.js](https://dev.to/wacieni/the-advantages-of-error-first-callbacks-in-nodejs-28d0)
-- [Dev.to/JS] [Memoization Simplified](https://dev.to/rv90904/memoization-simplified-30pk)
-- [Dev.to/JS] [Setting up a Phaser.js Development Environment](https://dev.to/jd2r/setting-up-a-phaserjs-development-environment-2cbc)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
