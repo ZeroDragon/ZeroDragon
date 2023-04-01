@@ -23,8 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Setting up a Phaser.js Development Environment](https://dev.to/jd2r/setting-up-a-phaserjs-development-environment-2cbc)
+- [Dev.to/JS] [Building a calendar component with Tailwind and date-fns](https://dev.to/vivekalhat/building-a-calendar-component-with-tailwind-and-date-fns-2c0i)
 - [Dev.to/JS] [Comprendre React Context en faisant un Dark mode](https://dev.to/ahmedbouras/comprendre-react-context-en-faisant-un-dark-mode-3h0j)
-- [Dev.to/JS] [Coersão de tipo em Javascript &lpar;typecasting&rpar;](https://dev.to/juniormartinxo/coersao-de-tipo-em-javascript-306b)
 - [Dev.to/JS] [Understanding Data Types in JavaScript &lpar; Part - 1 &rpar;](https://dev.to/makstyle119/understanding-data-types-in-javascript-part-1--2957)
 - [Dev.to/JS] [A Comprehensive Guide to JavaScript Execution Process.](https://dev.to/amissah17/a-comprehensive-guide-to-javascript-execution-process-56d0)
 - [Dev.to/JS] [Hoisting In Javascript &lpar; Part - 1 &rpar;:](https://dev.to/sachink07/hoisting-in-javascript-part-1--4bne)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [##Freecodecamp JavaScript course](https://dev.to/massaquoi716/freecodecamp-javascript-course-2641)
 - [Dev.to/JS] [wwdwd](https://dev.to/kartik7120/wwdwd-p0a)
 - [Dev.to/JS] [The mystery of “this” in JavaScript.](https://dev.to/mohitcodes/the-mystery-of-this-in-javascript-19b6)
-- [Dev.to/JS] [JavaScript EP2: Hoisting🫵🏻](https://dev.to/phatsss/javascript-ep2-hoisting-jc1)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
