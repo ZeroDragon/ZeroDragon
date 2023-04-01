@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Most Important Javascript Methods](https://dev.to/gabrielmodog/most-important-javascript-methods-59bi)
+- [Dev.to/JS] [Creating Releases And Returned Error](https://dev.to/cychu42/creating-releases-and-returned-error-ob4)
 - [Dev.to/JS] [10 Best Practices for Writing Clean and Maintainable React Code](https://dev.to/setgram/10-best-practices-for-writing-clean-and-maintainable-react-code-23dp)
 - [Dev.to/JS] [How to Hide Features from Production Environment in React](https://dev.to/eduardojm/how-to-hide-features-from-production-environment-in-react-1mcn)
 - [Dev.to/JS] [Functions are DRY](https://dev.to/momokid/functions-are-dry-25nd)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Python vs Javascript: The differences.](https://dev.to/gageharmon/python-vs-javascript-the-differences-22jn)
 - [Dev.to/JS] [Interfaces in typescript](https://dev.to/shanshaji/interfaces-in-typescript-55f8)
 - [Dev.to/JS] [Full Stack Developers vs. Front End/Back End Developers: Demystifying the Differences](https://dev.to/c0mmand3rj/full-stack-developers-vs-front-end-developers-demystifying-the-differences-5hi7)
-- [Dev.to/JS] [Pastries Website](https://dev.to/devlipeunim/pastries-website-23kh)
-- [Dev.to/JS] [Async-Await in JavaScript](https://dev.to/jps27cse/async-await-in-javascript-144o)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
 - [Lifehacker] [What Happens When You Get Indicted](https://lifehacker.com/what-happens-when-you-get-indicted-1850287686)
