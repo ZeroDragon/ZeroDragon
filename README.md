@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hoisting In Javascript &lpar; Part - 1 &rpar;:](https://dev.to/sachink07/hoisting-in-javascript-part-1--4bne)
+- [Dev.to/JS] [Paracetamol.js💊| #215: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-215-explica-este-codigo-javascript-4j4e)
+- [Dev.to/JS] [How to create a vue project using vite](https://dev.to/owais11art/how-to-create-a-vue-project-using-vite-3c02)
+- [Dev.to/JS] [Getting Started with React Hooks?: Learn Here With Examples in 2023](https://dev.to/devxvaibhav/getting-started-with-react-hooks-learn-here-with-examples-in-2023-1352)
 - [Dev.to/JS] [##Freecodecamp JavaScript course](https://dev.to/massaquoi716/freecodecamp-javascript-course-2641)
 - [Dev.to/JS] [wwdwd](https://dev.to/kartik7120/wwdwd-p0a)
 - [Dev.to/JS] [The mystery of “this” in JavaScript.](https://dev.to/mohitcodes/the-mystery-of-this-in-javascript-19b6)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cypress Best Practices that are actually bad](https://dev.to/evgenyorekhov/cypress-best-practices-that-are-actually-bad-2m3m)
 - [Dev.to/JS] [Flutter Vs React Native. Which one to choose in 2023?](https://dev.to/heyitsuzair/flutter-vs-react-native-which-one-to-choose-in-2023-496j)
 - [Dev.to/JS] [Weekend Reading](https://dev.to/sporter/weekend-reading-4g1)
-- [Dev.to/JS] [Ultra K9 Pro - Price, Reviews, Benefits, Warnings &amp; Complaints?](https://dev.to/ultrap14414/ultra-k9-pro-price-reviews-benefits-warnings-complaints-5g8b)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;01-04-2023&rpar; - World Says No](https://dev.to/mjgs/this-weeks-newsletter-is-out-01-04-2023-world-says-no-2dbm)
-- [Dev.to/JS] [Build an API with Serverless Functions in Next.js](https://dev.to/ayushsoni1010/build-an-api-with-serverless-functions-in-nextjs-52n1)
-- [Dev.to/JS] [Minze Inside Vue.js](https://dev.to/nnivxix/create-a-native-custom-element-using-minze-inside-vuejs-2mdo)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
