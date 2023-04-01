@@ -24,6 +24,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Build an API with Serverless Functions in Next.js](https://dev.to/ayushsoni1010/build-an-api-with-serverless-functions-in-nextjs-52n1)
+- [Dev.to/JS] [Minze Inside Vue.js](https://dev.to/nnivxix/create-a-native-custom-element-using-minze-inside-vuejs-2mdo)
 - [Dev.to/JS] [How to use react-to-print in react.js](https://dev.to/asapconet/how-to-use-react-to-print-in-reactjs-501g)
 - [Dev.to/JS] [Serverless Stack, a Terraform alternative for developers](https://dev.to/jei/serverless-stack-a-terraform-alternative-for-developers-2jnb)
 - [Dev.to/JS] [Top React Data Fetching Libraries](https://dev.to/bybydev/top-react-data-fetching-libraries-4e9e)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Best Practices for Writing Clean and Maintainable React Code](https://dev.to/setgram/10-best-practices-for-writing-clean-and-maintainable-react-code-23dp)
 - [Dev.to/JS] [How to Hide Features from Production Environment in React](https://dev.to/eduardojm/how-to-hide-features-from-production-environment-in-react-1mcn)
 - [Dev.to/JS] [Functions are DRY](https://dev.to/momokid/functions-are-dry-25nd)
-- [Dev.to/JS] [Level Up Your React Projects: A Beginner&#39;s Guide to Custom Hooks](https://dev.to/zigzagoon1/level-up-your-react-projects-a-beginners-guide-to-custom-hooks-2m77)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
