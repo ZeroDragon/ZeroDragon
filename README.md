@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Shopify Email Automation – How to Automatically Send Emails](https://dev.to/durgesh4993/shopify-email-automation-how-to-automatically-send-emails-4gkf)
+- [Dev.to/JS] [GOOGLE CHROME USER GUIDE FOR MOBILE](https://dev.to/akanni_i/google-chrome-user-guide-for-mobile-4a7b)
+- [Dev.to/JS] [Mastering Higher-Order Components in React JS: A Comprehensive Guide 🚀](https://dev.to/almonteluis/mastering-higher-order-components-in-react-js-a-comprehensive-guide-oh7)
+- [Dev.to/JS] [Array &amp; Hashing: Group Anagrams](https://dev.to/bibinjaimon/array-hashing-group-anagrams-pc4)
 - [Dev.to/JS] [How to Use Higher Order Functions for Reusability and Abstraction in React](https://dev.to/msbalacse/how-to-use-higher-order-functions-for-reusability-and-abstraction-in-react-3dia)
 - [Dev.to/JS] [The Advantages of Error-First Callbacks in Node.js](https://dev.to/wacieni/the-advantages-of-error-first-callbacks-in-nodejs-28d0)
 - [Dev.to/JS] [Memoization Simplified](https://dev.to/rv90904/memoization-simplified-30pk)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Comprendre React Context en faisant un Dark mode](https://dev.to/ahmedbouras/comprendre-react-context-en-faisant-un-dark-mode-3h0j)
 - [Dev.to/JS] [Understanding Data Types in JavaScript &lpar; Part - 1 &rpar;](https://dev.to/makstyle119/understanding-data-types-in-javascript-part-1--2957)
 - [Dev.to/JS] [A Comprehensive Guide to JavaScript Execution Process.](https://dev.to/amissah17/a-comprehensive-guide-to-javascript-execution-process-56d0)
-- [Dev.to/JS] [Hoisting In Javascript &lpar; Part - 1 &rpar;:](https://dev.to/sachink07/hoisting-in-javascript-part-1--4bne)
-- [Dev.to/JS] [Paracetamol.js💊| #215: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-215-explica-este-codigo-javascript-4j4e)
-- [Dev.to/JS] [How to create a vue project using vite](https://dev.to/owais11art/how-to-create-a-vue-project-using-vite-3c02)
-- [Dev.to/JS] [Getting Started with React Hooks?: Learn Here With Examples in 2023](https://dev.to/devxvaibhav/getting-started-with-react-hooks-learn-here-with-examples-in-2023-1352)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
