@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LeetCode - Count of Smaller Numbers After Self](https://dev.to/_alkesh26/leetcode-count-of-smaller-numbers-after-self-2gb1)
+- [Dev.to/JS] [Bootstrap 5 and Razor pages](https://dev.to/karenpayneoregon/bootstrap-5-and-razor-pages-4521)
 - [Dev.to/JS] [Imports absolutos con React y Vite 🚀](https://dev.to/jeanvittory/imports-absolutos-con-react-y-vite-20o7)
 - [Dev.to/JS] [Verifying Integrity of Files using NodeJS](https://dev.to/orkhanhuseyn/verifying-integrity-of-files-using-nodejs-1gnd)
 - [Dev.to/JS] [A Developer&#39;s Journey: Building GPT-in-Terminal, a Side Project That Unlocks the Power of OpenAI&#39;s GPT-3 in terminal](https://dev.to/bijishjs/a-developers-journey-building-gpt-in-terminal-a-side-project-that-unlocks-the-power-of-openais-gpt-3-in-terminal-cg3)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Shopify Email Automation – How to Automatically Send Emails](https://dev.to/durgesh4993/shopify-email-automation-how-to-automatically-send-emails-4gkf)
 - [Dev.to/JS] [GOOGLE CHROME USER GUIDE FOR MOBILE](https://dev.to/akanni_i/google-chrome-user-guide-for-mobile-4a7b)
 - [Dev.to/JS] [Mastering Higher-Order Components in React JS: A Comprehensive Guide 🚀](https://dev.to/almonteluis/mastering-higher-order-components-in-react-js-a-comprehensive-guide-oh7)
-- [Dev.to/JS] [Array &amp; Hashing: Group Anagrams](https://dev.to/bibinjaimon/array-hashing-group-anagrams-pc4)
-- [Dev.to/JS] [How to Use Higher Order Functions for Reusability and Abstraction in React](https://dev.to/msbalacse/how-to-use-higher-order-functions-for-reusability-and-abstraction-in-react-3dia)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
