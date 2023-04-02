@@ -23,7 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Jest: A Beginner&#39;s Guide](https://dev.to/mihrilp/jest-a-beginners-guide-5e0)
+- [Dev.to/JS] [Code Challenge Tutorial](https://dev.to/familymanjosh/code-challenge-tutorial-4jf6)
 - [Dev.to/JS] [LeetCode - Count of Smaller Numbers After Self](https://dev.to/_alkesh26/leetcode-count-of-smaller-numbers-after-self-2gb1)
 - [Dev.to/JS] [Bootstrap 5 and Razor pages](https://dev.to/karenpayneoregon/bootstrap-5-and-razor-pages-4521)
 - [Dev.to/JS] [Imports absolutos con React y Vite 🚀](https://dev.to/jeanvittory/imports-absolutos-con-react-y-vite-20o7)
