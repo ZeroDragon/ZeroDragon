@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Review of state management in React: summary and prospect](https://dev.to/licg9999/review-of-state-management-in-react-summary-and-prospect-5b2)
+- [Dev.to/JS] [Getting started with Express: Building your first app](https://dev.to/ankitdevelops/getting-started-with-express-building-your-first-app-g1f)
+- [Dev.to/JS] [Animated Hamburger Menu with Tailwindcss](https://dev.to/noruwa/animated-hamburger-menu-with-tailwindcss-1j0b)
+- [Dev.to/JS] [What&#39;s Pure Function in JavaScript](https://dev.to/ezzdinatef/whats-pure-function-in-javascript-44ck)
 - [Dev.to/JS] [Link G3n9rator demo v1](https://dev.to/_et9rnal9arner/link-g3n9rator-demo-v1-3mo1)
 - [Dev.to/JS] [Unit Testing in JavaScript: Jest](https://dev.to/mihrilp/unit-testing-in-javascript-jest-cff)
 - [Dev.to/JS] [Deploy Your Next.js App with AWS Amplify Like a Pro — It’s Easier Than You Think](https://dev.to/nitinfab/deploy-your-nextjs-app-with-aws-amplify-like-a-pro-its-easier-than-you-think-4c41)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Turborepo: A better way to implement a mono-repo architecture](https://dev.to/rishikeshvedpathak/turborepo-a-better-way-to-implement-a-mono-repo-architecture-5a46)
 - [Dev.to/JS] [Promise.all&lpar;&rpar; vs. Promise.allSettled&lpar;&rpar;: Understanding the differences](https://dev.to/nikolasbarwicki/promiseall-vs-promiseallsettled-understanding-the-differences-3n39)
 - [Dev.to/JS] [100 Days of Code: The Complete Full Stack Web Development 2023 - Day 1 &lpar;Intro&rpar;](https://dev.to/shakir_h7/100-days-of-code-the-complete-full-stack-web-development-2023-day-1-intro-37kh)
-- [Dev.to/JS] [React for Beginners: Your First Steps with the Popular JavaScript Library.](https://dev.to/sfundomhlungu/react-for-beginners-your-first-steps-with-the-popular-javascript-library-1ae)
-- [Dev.to/JS] [GraphQL in your rest API with one line](https://dev.to/ahmedsudani/graphql-in-your-rest-api-with-one-line-2olp)
-- [Dev.to/JS] [Concurrent.js, Non-blocking Computation for JavaScript RTEs &lpar;Web Browsers, Node.js &amp; Deno&rpar;](https://dev.to/beshan/concurrentjs-non-blocking-computation-for-javascript-rtes-web-browsers-nodejs-deno-251l)
-- [Dev.to/JS] [How javascript Event Loop Works?](https://dev.to/arslanyounis/how-javascript-event-loop-works-5604)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
