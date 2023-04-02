@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [FullyStacked](https://dev.to/hypeddev/fullystacked-4okk)
+- [Dev.to/JS] [Unlocking the Power of Next.js Pre-Rendering with Server-Side Props](https://dev.to/hi_iam_chris/unlocking-the-power-of-nextjs-pre-rendering-with-server-side-props-1od4)
+- [Dev.to/JS] [Unlock the Power of JavaScript&#39;s Spread Operator: Tips and Tricks for Mastery!](https://dev.to/wizdomtek/unlock-the-power-of-javascripts-spread-operator-tips-and-tricks-for-mastery-1d5i)
 - [Dev.to/JS] [SSG Static Site Generation VS. SSR Server-Side Rendering?](https://dev.to/momciloo/ssg-static-site-generation-vs-ssr-server-side-rendering-5ih)
 - [Dev.to/JS] [React Series: useEffect](https://dev.to/oluwatrillions/react-series-useeffect-43ki)
 - [Dev.to/JS] [16 don’ts: when JavaScript code review feels like watching a thriller movie](https://dev.to/kolodziejczakm/16-donts-when-javascript-code-review-feels-like-watching-a-thriller-movie-4dbb)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Three JS Examples : 2. Three js rocket animation](https://dev.to/jon_snow789/three-js-examples-2-three-js-rocket-animation-175i)
 - [Dev.to/JS] [Unconventional Toggling Functionality in JS](https://dev.to/alishata128/unconventional-toggling-functionality-in-js-3ea6)
 - [Dev.to/JS] [You Should know 7 Popular React Hooks for State Management, Side Effects, and More](https://dev.to/msbalacse/7-popular-react-hooks-for-state-management-side-effects-and-more-9ii)
-- [Dev.to/JS] [Understanding Data Types in JavaScript &lpar; Part - 2 &rpar;](https://dev.to/makstyle119/understanding-data-types-in-javascript-part-2--5gj6)
-- [Dev.to/JS] [Different Ways to Access Object Properties in JavaScript](https://dev.to/surbhidighe/different-ways-to-access-object-properties-in-javascript-4g12)
-- [Dev.to/JS] [More Cypress Best Practices](https://dev.to/evgenyorekhov/more-cypress-best-practices-266g)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
