@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [You Should know 7 Popular React Hooks for State Management, Side Effects, and More](https://dev.to/msbalacse/7-popular-react-hooks-for-state-management-side-effects-and-more-9ii)
+- [Dev.to/JS] [Understanding Data Types in JavaScript &lpar; Part - 2 &rpar;](https://dev.to/makstyle119/understanding-data-types-in-javascript-part-2--5gj6)
+- [Dev.to/JS] [More Cypress Best Practices](https://dev.to/evgenyorekhov/more-cypress-best-practices-266g)
+- [Dev.to/JS] [Efficient React Uploads: Implementing Drag and Drop with Image Preview using Dropzone.js A Comprehensive Guide](https://dev.to/joepari_codes/efficient-react-uploads-implementing-drag-and-drop-with-image-preview-using-dropzonejs-a-comprehensive-guide-2nmo)
 - [Dev.to/JS] [TCP/IP protocol suite](https://dev.to/abhixsh/tcpip-protocol-suite-7h3)
 - [Dev.to/JS] [boring life turns into a little joy](https://dev.to/vandal1sm/boring-life-turns-into-a-little-joy-200o)
 - [Dev.to/JS] [Review of state management in React: summary and prospect](https://dev.to/licg9999/review-of-state-management-in-react-summary-and-prospect-5b2)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s Pure Function in JavaScript](https://dev.to/ezzdinatef/whats-pure-function-in-javascript-44ck)
 - [Dev.to/JS] [Link G3n9rator demo v1](https://dev.to/_et9rnal9arner/link-g3n9rator-demo-v1-3mo1)
 - [Dev.to/JS] [Unit Testing in JavaScript: Jest](https://dev.to/mihrilp/unit-testing-in-javascript-jest-cff)
-- [Dev.to/JS] [Deploy Your Next.js App with AWS Amplify Like a Pro — It’s Easier Than You Think](https://dev.to/nitinfab/deploy-your-nextjs-app-with-aws-amplify-like-a-pro-its-easier-than-you-think-4c41)
-- [Dev.to/JS] [React Hooks 101: A Comprehensive Introduction.](https://dev.to/sfundomhlungu/react-hooks-101-a-comprehensive-introduction-5g7o)
-- [Dev.to/JS] [Using Cloudflare Workers as a Proxy for Firebase Authentication](https://dev.to/thraizz/using-cloudflare-workers-as-a-proxy-for-firebase-authentication-388j)
-- [Dev.to/JS] [Turborepo: A better way to implement a mono-repo architecture](https://dev.to/rishikeshvedpathak/turborepo-a-better-way-to-implement-a-mono-repo-architecture-5a46)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
