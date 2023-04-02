@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hey there!](https://dev.to/iosonoagenda/hey-there-1lng)
 - [Dev.to/JS] [Hello World: Reflections of a Newbie Developer](https://dev.to/jocelynvargas123/hello-world-reflections-of-a-newbie-developer-7ho)
 - [Dev.to/JS] [Creating your own ExpressJS from scratch &lpar;Part 1&rpar; - Basics, Methods, and Routing](https://dev.to/wesleymreng7/creating-your-own-expressjs-from-scratch-part-1-basics-methods-and-routing-a8)
 - [Dev.to/JS] [How to Generate a Quick Node.js Project with TypeScript.](https://dev.to/chrisciokler/how-to-generate-a-quick-nodejs-project-with-typescript-5fom)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Series: useEffect](https://dev.to/oluwatrillions/react-series-useeffect-43ki)
 - [Dev.to/JS] [16 don’ts: when JavaScript code review feels like watching a thriller movie](https://dev.to/kolodziejczakm/16-donts-when-javascript-code-review-feels-like-watching-a-thriller-movie-4dbb)
 - [Dev.to/JS] [How to USE API with Javascript?](https://dev.to/shubhadip_bhowmik/how-to-use-api-with-javascript-84d)
-- [Dev.to/JS] [Build a Responsive Admin Dashboard Using HTML CSS &amp; JS &amp; Bootstrap](https://dev.to/webmonster/build-a-responsive-admin-dashboard-using-html-css-js-bootstrap-48if)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
