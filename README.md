@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Javascript Slice? practical example and guides](https://dev.to/rahul3002/what-is-javascript-slice-practical-example-and-guides-18c2)
+- [Dev.to/JS] [CS2 just had an update](https://dev.to/kartik7120/cs2-just-had-an-update-176o)
+- [Dev.to/JS] [Build Your Tech Skills: Best Udemy Courses to Take in 2023](https://dev.to/javinpaul/build-your-tech-skills-best-udemy-courses-to-take-in-2023-bf4)
 - [Dev.to/JS] [7 Tricks to take the Performance of your Website to the Moon 🚀🌙](https://dev.to/ruppysuppy/7-tricks-to-take-the-performance-of-your-website-to-the-moon-1kpl)
 - [Dev.to/JS] [I need help 😵‍💫 with a 🚨coding problem. I can&#39;t seems to get it to console log the string...😩 Am I missing something here? 🤔🧐](https://dev.to/syahiruddin/i-need-help-with-a-coding-problem-i-cant-seems-to-get-it-to-console-log-the-string-am-i-missing-something-here-17gn)
 - [Dev.to/JS] [Adding Google Maps to the Keith Lee food app &lpar;React.js&rpar;](https://dev.to/cmcoffeedev/adding-google-maps-to-the-keith-lee-food-app-reactjs-93i)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code Challenge Tutorial](https://dev.to/familymanjosh/code-challenge-tutorial-4jf6)
 - [Dev.to/JS] [LeetCode - Count of Smaller Numbers After Self](https://dev.to/_alkesh26/leetcode-count-of-smaller-numbers-after-self-2gb1)
 - [Dev.to/JS] [Bootstrap 5 and Razor pages](https://dev.to/karenpayneoregon/bootstrap-5-and-razor-pages-4521)
-- [Dev.to/JS] [Imports absolutos con React y Vite 🚀](https://dev.to/jeanvittory/imports-absolutos-con-react-y-vite-20o7)
-- [Dev.to/JS] [Verifying Integrity of Files using NodeJS](https://dev.to/orkhanhuseyn/verifying-integrity-of-files-using-nodejs-1gnd)
-- [Dev.to/JS] [A Developer&#39;s Journey: Building GPT-in-Terminal, a Side Project That Unlocks the Power of OpenAI&#39;s GPT-3 in terminal](https://dev.to/bijishjs/a-developers-journey-building-gpt-in-terminal-a-side-project-that-unlocks-the-power-of-openais-gpt-3-in-terminal-cg3)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
