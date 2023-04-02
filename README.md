@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How javascript Event Loop Works?](https://dev.to/arslanyounis/how-javascript-event-loop-works-5604)
+- [Dev.to/JS] [Binance Clone App Development](https://dev.to/shakshichinnah/binance-clone-app-development-4d4k)
+- [Dev.to/JS] [Algorithms for Pagination &lpar;part two of two&rpar;](https://dev.to/tracygjg/algorithms-for-pagination-part-two-of-two-43ln)
+- [Dev.to/JS] [Parsing JSON data with Python](https://dev.to/dvir/parsing-json-data-with-python-596c)
 - [Dev.to/JS] [What is Javascript Slice? practical example and guides](https://dev.to/rahul3002/what-is-javascript-slice-practical-example-and-guides-18c2)
 - [Dev.to/JS] [CS2 just had an update](https://dev.to/kartik7120/cs2-just-had-an-update-176o)
 - [Dev.to/JS] [Build Your Tech Skills: Best Udemy Courses to Take in 2023](https://dev.to/javinpaul/build-your-tech-skills-best-udemy-courses-to-take-in-2023-bf4)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adding Google Maps to the Keith Lee food app &lpar;React.js&rpar;](https://dev.to/cmcoffeedev/adding-google-maps-to-the-keith-lee-food-app-reactjs-93i)
 - [Dev.to/JS] [Creating a Keith Lee Food App w/ React.js &amp; ChatGPT](https://dev.to/cmcoffeedev/creating-a-keith-lee-food-app-w-reactjs-chatgpt-2no5)
 - [Dev.to/JS] [The Best Locations for Software Outsourcing in Asia](https://dev.to/jasonlee/the-best-locations-for-software-outsourcing-in-asia-1c13)
-- [Dev.to/JS] [The Pros and Cons of Using Node.js for Mobile Development](https://dev.to/folasayosamuel/the-pros-and-cons-of-using-nodejs-for-mobile-development-4n76)
-- [Dev.to/JS] [Code Challenge Tutorial](https://dev.to/familymanjosh/code-challenge-tutorial-4jf6)
-- [Dev.to/JS] [LeetCode - Count of Smaller Numbers After Self](https://dev.to/_alkesh26/leetcode-count-of-smaller-numbers-after-self-2gb1)
-- [Dev.to/JS] [Bootstrap 5 and Razor pages](https://dev.to/karenpayneoregon/bootstrap-5-and-razor-pages-4521)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
