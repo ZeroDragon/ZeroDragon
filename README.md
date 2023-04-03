@@ -23,7 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Writing cleaner React code](https://dev.to/kachiic/writing-cleaner-react-code-23k)
+- [Dev.to/JS] [Creating a Travel Journal with React](https://dev.to/michaellarocca/creating-a-travel-journal-with-react-579j)
+- [Dev.to/JS] [How to use chat gpt as a developer?🚀](https://dev.to/rafikadir/how-to-use-chat-gpt-as-a-developer-gcd)
 - [Dev.to/JS] [Building a Large Scale Micro-frontend Application.](https://dev.to/cesscode/building-a-large-scale-micro-frontend-application-dh5)
 - [Dev.to/JS] [📺 Video React Hooks](https://dev.to/davidkern13/video-react-hooks-485k)
 - [Dev.to/JS] [Designing Scalable and High-performance E-commerce Systems with MedusaJS and Microservices Architecture](https://dev.to/umoren/designing-scalable-and-high-performance-e-commerce-systems-with-medusajs-and-microservices-architecture-2mdh)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Beginner&#39;s Guide to Lining a Bamboo Steamer](https://lifehacker.com/the-beginners-guide-to-lining-a-bamboo-steamer-1850289545)
 - [Lifehacker] [How to Pose for the Perfect Mugshot](https://lifehacker.com/how-to-pose-for-the-perfect-mugshot-1850290334)
 - [Dev.to/JS] [There are some similarities between coders and athlete](https://dev.to/jon_snow789/there-are-some-similarities-between-coders-and-athlete-1ekj)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Saltando em nuvens &lpar;2&rpar;](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-saltando-em-nuvens-2-5de2)
 - [Lifehacker] [This App Is BeReal but for Music](https://lifehacker.com/this-app-is-bereal-but-for-music-1850293764)
 - [Lifehacker] [Now Scammers Can Use AI to Fake Anyone’s Voice](https://lifehacker.com/now-scammers-can-use-ai-to-fake-anyone-s-voice-1850289863)
 - [Lifehacker] [Make This Bacon Salad Immediately](https://lifehacker.com/make-this-bacon-salad-immediately-1850287971)
