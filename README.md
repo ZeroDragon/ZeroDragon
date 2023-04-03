@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Various ways to make an Input mandatory in Angular](https://dev.to/this-is-angular/various-ways-to-make-an-input-mandatory-in-angular-2jko)
+- [Dev.to/JS] [Javascript Closure #1](https://dev.to/samr/javascript-closure-1-3c15)
 - [Dev.to/JS] [Migrating from Medium to Ghost: A Step-by-Step Guide for Beginners](https://dev.to/universe/migrating-from-medium-to-ghost-a-step-by-step-guide-for-beginners-oh6)
 - [Dev.to/JS] [Project 2: Week 12 Check-in](https://dev.to/pandaalifter/project-2-week-12-check-in-40e7)
 - [Dev.to/JS] [The Beginning Of A Journey](https://dev.to/jstellmacher/the-beginning-of-a-journey-2ake)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hello World: Reflections of a Newbie Developer](https://dev.to/jocelynvargas123/hello-world-reflections-of-a-newbie-developer-7ho)
 - [Dev.to/JS] [Creating your own ExpressJS from scratch &lpar;Part 1&rpar; - Basics, Methods, and Routing](https://dev.to/wesleymreng7/creating-your-own-expressjs-from-scratch-part-1-basics-methods-and-routing-a8)
 - [Dev.to/JS] [How to Generate a Quick Node.js Project with TypeScript.](https://dev.to/chrisciokler/how-to-generate-a-quick-nodejs-project-with-typescript-5fom)
-- [Dev.to/JS] [uptimerobot 2.0](https://dev.to/dshaw0004/uptimerobot-20-15if)
-- [Dev.to/JS] [FullyStacked](https://dev.to/hypeddev/fullystacked-4okk)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
