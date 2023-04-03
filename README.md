@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [UserTesting: A Key Ingredient for Successful Software Development](https://dev.to/adetunjijay/usertesting-a-key-ingredient-for-successful-software-development-1dif)
+- [Dev.to/JS] [Differences between Nextjs and Nuxtjs &lpar;Summary&rpar;](https://dev.to/homezonic/differences-between-nextjs-and-nuxtjs-summary-18la)
 - [Dev.to/JS] [IGCSE Economics tutor](https://dev.to/baccalaureateacademy/igcse-economics-tutor-3hk7)
 - [Dev.to/JS] [The Hardest Concept in JavaScript](https://dev.to/chidiebereomasi/the-hardest-concept-in-javascript-g02)
 - [Dev.to/JS] [Superpowers with Directives and Dependency Injection: Part 5](https://dev.to/armandotrue/superpowers-with-directives-and-dependency-injection-part-5-29ff)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mobile App Development Trends To Follow In 2023](https://dev.to/infowindtechno/mobile-app-development-trends-to-follow-in-2023-ip)
 - [Dev.to/JS] [Our AI-Powered TechCrunch Clone Went Viral, This Is How We Built It](https://dev.to/appwrite/our-ai-powered-techcrunch-clone-went-viral-this-is-how-we-built-it-495d)
 - [Dev.to/JS] [Making a Speedrun Timer: Chapter 2](https://dev.to/kevthedev/making-a-speedrun-timer-chapter-2-382d)
-- [Dev.to/JS] [Comparing Full Page Screenshots, Cross-Device](https://dev.to/ingosteinke/comparing-full-page-screenshots-cross-device-5ahc)
-- [Dev.to/JS] [Adding Material UI to Next.js TypeScript](https://dev.to/arshadalisoomro/adding-material-ui-to-nextjs-typescript-28bg)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
