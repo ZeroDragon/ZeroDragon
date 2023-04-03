@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Wagmi: React Hooks for Ethereum](https://dev.to/hasretozkan/wagmi-react-hooks-for-ethereum-1ico)
+- [Dev.to/JS] [A Low-Latency Live Stream React App](https://dev.to/dolbyio/a-low-latency-live-stream-react-app-53pj)
+- [Dev.to/JS] [No-code Editor for Domain Models](https://dev.to/surveyjs/no-code-editor-for-domain-models-kgp)
+- [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
+- [Dev.to/JS] [Titanium News #15](https://dev.to/miga/titanium-news-15-3am0)
+- [Lifehacker] [The Beginner&#39;s Guide to Lining a Bamboo Steamer](https://lifehacker.com/the-beginners-guide-to-lining-a-bamboo-steamer-1850289545)
 - [Lifehacker] [How to Pose for the Perfect Mugshot](https://lifehacker.com/how-to-pose-for-the-perfect-mugshot-1850290334)
 - [Dev.to/JS] [There are some similarities between coders and athlete](https://dev.to/jon_snow789/there-are-some-similarities-between-coders-and-athlete-1ekj)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Saltando em nuvens &lpar;2&rpar;](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-saltando-em-nuvens-2-5de2)
@@ -34,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Flutter vs React Native comparison](https://dev.to/shibun/flutter-vs-react-native-comparison-8da)
 - [Dev.to/JS] [Caddy, Go, Docker and a Single Page App](https://dev.to/clubside/caddy-go-docker-and-a-single-page-app-5g40)
 - [Dev.to/JS] [WebRtc Websocket](https://dev.to/veercodeprog/webrtc-websocket-142i)
-- [Dev.to/JS] [Operador de encadenamiento opcional en JavaScript](https://dev.to/asjordi/operador-de-encadenamiento-opcional-en-javascript-4dj0)
 - [Lifehacker] [Make This Bacon Salad Immediately](https://lifehacker.com/make-this-bacon-salad-immediately-1850287971)
-- [Dev.to/JS] [Conditional Statements in JavaScript: If-Else](https://dev.to/max24816/conditional-statements-in-javascript-if-else-15jc)
-- [Dev.to/JS] [Download 20 Best Free Dashboard UI for your next project](https://dev.to/jon_snow789/download-20-best-free-dashboard-ui-for-your-next-project-2nl)
-- [Dev.to/JS] [5 Resources to Cure Coding Block | The Best Resources to Practice Frontend and Full Stack Development](https://dev.to/bytesofbree/5-resources-to-cure-coding-block-the-best-resources-to-practice-frontend-and-full-stack-development-3fdo)
 - [Lifehacker] [Threaten to Cancel Every Single Subscription](https://lifehacker.com/threaten-to-cancel-every-single-subscription-1850283968)
 - [Lifehacker] [How to Spot Signs of Burnout Culture Before You Accept a Job](https://lifehacker.com/how-to-spot-signs-of-burnout-culture-before-you-accept-1850286182)
 - [Lifehacker] [Fries Are a Crouton](https://lifehacker.com/fries-are-a-crouton-1850289396)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get an Extra Subway Footlong for Free While You Can](https://lifehacker.com/get-an-extra-subway-footlong-for-free-while-you-can-1850283913)
 - [Lifehacker] [Set Up Your Phone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
 - [Lifehacker] [Make a Lazy Version of This Classic French Onion Sauce](https://lifehacker.com/make-a-lazy-version-of-this-classic-french-onion-sauce-1850283430)
-- [Lifehacker] [Beware This Nightmarish New Android Banking Malware](https://lifehacker.com/beware-this-nightmarish-new-android-banking-malware-1850282946)
-- [Lifehacker] [These Restaurant Rewards Programs Give You the Most Free Food](https://lifehacker.com/these-restaurant-rewards-programs-give-you-the-most-fre-1850280785)
-- [Lifehacker] [How to Spot the Worst Tourist Traps &lpar;and When to Just Give in and Visit Them&rpar;](https://lifehacker.com/how-to-spot-the-worst-tourist-traps-and-when-to-just-g-1850281093)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Beware This Nightmarish New Android Banking Malware](https://lifehacker.com/beware-this-nightmarish-new-android-banking-malware-1850282946)<!-- TECH-POSTS:END -->
 
 ---
 
