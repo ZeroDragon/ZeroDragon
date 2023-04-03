@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Beginning Of A Journey](https://dev.to/jstellmacher/the-beginning-of-a-journey-2ake)
+- [Dev.to/JS] [Have questions about ESLint?](https://dev.to/nickytonline/have-questions-about-eslint-2ahp)
 - [Dev.to/JS] [Mastering Angular&#39;s Change Detection Strategies for Enhanced Performance](https://dev.to/renaisense_/mastering-angulars-change-detection-strategies-for-enhanced-performance-5055)
 - [Dev.to/JS] [Beginner&#39;s Guide to Storybook](https://dev.to/zeeshanhshaheen/beginners-guide-to-storybook-59ib)
 - [Dev.to/JS] [Hey there!](https://dev.to/iosonoagenda/hey-there-1lng)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [FullyStacked](https://dev.to/hypeddev/fullystacked-4okk)
 - [Dev.to/JS] [Unlocking the Power of Next.js Pre-Rendering with Server-Side Props](https://dev.to/hi_iam_chris/unlocking-the-power-of-nextjs-pre-rendering-with-server-side-props-1od4)
 - [Dev.to/JS] [Unlock the Power of JavaScript&#39;s Spread Operator: Tips and Tricks for Mastery!](https://dev.to/wizdomtek/unlock-the-power-of-javascripts-spread-operator-tips-and-tricks-for-mastery-1d5i)
-- [Dev.to/JS] [SSG Static Site Generation VS. SSR Server-Side Rendering?](https://dev.to/momciloo/ssg-static-site-generation-vs-ssr-server-side-rendering-5ih)
-- [Dev.to/JS] [React Series: useEffect](https://dev.to/oluwatrillions/react-series-useeffect-43ki)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
