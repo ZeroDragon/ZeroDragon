@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Master your Debugging Skills with These 5 Essential JavaScript Console Methods](https://dev.to/wizdomtek/master-your-debugging-skills-with-these-5-essential-javascript-console-methods-1kgp)
+- [Dev.to/JS] [Building Composable Commerce with Nuxt, Shopify, and Storyblok Crash Course Part Three](https://dev.to/jacobandrewsky/building-composable-commerce-with-nuxt-shopify-and-storyblok-crash-course-part-three-386e)
+- [Dev.to/JS] [Starting my Side Projects Journey After 7 Years in Software Engineering](https://dev.to/geraldb/starting-my-side-projects-journey-after-7-years-in-software-engineering-lpf)
 - [Dev.to/JS] [10 Trending Node.js Libraries and Frameworks to Boost Your Web Development](https://dev.to/rahulladumor/10-trending-nodejs-libraries-and-frameworks-to-boost-your-web-development-3aa5)
 - [Dev.to/JS] [Various ways to make an Input mandatory in Angular](https://dev.to/this-is-angular/various-ways-to-make-an-input-mandatory-in-angular-2jko)
 - [Dev.to/JS] [Javascript Closure #1](https://dev.to/samr/javascript-closure-1-3c15)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Have questions about ESLint?](https://dev.to/nickytonline/have-questions-about-eslint-2ahp)
 - [Dev.to/JS] [Mastering Angular&#39;s Change Detection Strategies for Enhanced Performance](https://dev.to/renaisense_/mastering-angulars-change-detection-strategies-for-enhanced-performance-5055)
 - [Dev.to/JS] [Beginner&#39;s Guide to Storybook](https://dev.to/zeeshanhshaheen/beginners-guide-to-storybook-59ib)
-- [Dev.to/JS] [Hey there!](https://dev.to/iosonoagenda/hey-there-1lng)
-- [Dev.to/JS] [Hello World: Reflections of a Newbie Developer](https://dev.to/jocelynvargas123/hello-world-reflections-of-a-newbie-developer-7ho)
-- [Dev.to/JS] [Creating your own ExpressJS from scratch &lpar;Part 1&rpar; - Basics, Methods, and Routing](https://dev.to/wesleymreng7/creating-your-own-expressjs-from-scratch-part-1-basics-methods-and-routing-a8)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
