@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Backup and disaster recovery for Microsoft Azure applications](https://dev.to/sardarmudassaralikhan/backup-and-disaster-recovery-for-microsoft-azure-applications-2e0e)
+- [Dev.to/JS] [Episode 23/13: Upcoming Signals RFC, Vite in Angular, ng-be Recordings](https://dev.to/ng_news/episode-2313-upcoming-signals-rfc-vite-in-angular-ng-be-recordings-13h8)
+- [Dev.to/JS] [🤖 Building a personal agent to use on your portfolio page &lpar;with NextJS, tRPC, Typescript, Tailwindcss and GPT-3.5-turbo&rpar;](https://dev.to/vincentdorian/building-a-personal-agent-to-use-on-your-portfolio-page-with-nextjs-trpc-typescript-tailwindcss-and-gpt-35-turbo-27en)
+- [Dev.to/JS] [Using Node.js for Automated Testing and Continuous Integration](https://dev.to/folasayosamuel/using-nodejs-for-automated-testing-and-continuous-integration-36k5)
 - [Dev.to/JS] [Creating a Travel Journal with React](https://dev.to/michaellarocca/creating-a-travel-journal-with-react-579j)
 - [Dev.to/JS] [How to use chat gpt as a developer?🚀](https://dev.to/rafikadir/how-to-use-chat-gpt-as-a-developer-gcd)
 - [Dev.to/JS] [Building a Large Scale Micro-frontend Application.](https://dev.to/cesscode/building-a-large-scale-micro-frontend-application-dh5)
@@ -31,13 +35,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create an API layer with React Hooks and TypeScript…and why](https://dev.to/jeeny/how-to-create-an-api-layer-with-react-hooks-and-typescriptand-why-3a8o)
 - [Dev.to/JS] [Callback Hell and Promises](https://dev.to/mdanassabah/callback-hell-and-promises-4mo1)
 - [Dev.to/JS] [Wagmi: React Hooks for Ethereum](https://dev.to/hasretozkan/wagmi-react-hooks-for-ethereum-1ico)
-- [Dev.to/JS] [A Low-Latency Live Stream React App](https://dev.to/dolbyio/a-low-latency-live-stream-react-app-53pj)
-- [Dev.to/JS] [No-code Editor for Domain Models](https://dev.to/surveyjs/no-code-editor-for-domain-models-kgp)
 - [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
-- [Dev.to/JS] [Titanium News #15](https://dev.to/miga/titanium-news-15-3am0)
 - [Lifehacker] [The Beginner&#39;s Guide to Lining a Bamboo Steamer](https://lifehacker.com/the-beginners-guide-to-lining-a-bamboo-steamer-1850289545)
 - [Lifehacker] [How to Pose for the Perfect Mugshot](https://lifehacker.com/how-to-pose-for-the-perfect-mugshot-1850290334)
-- [Dev.to/JS] [There are some similarities between coders and athlete](https://dev.to/jon_snow789/there-are-some-similarities-between-coders-and-athlete-1ekj)
 - [Lifehacker] [This App Is BeReal but for Music](https://lifehacker.com/this-app-is-bereal-but-for-music-1850293764)
 - [Lifehacker] [Now Scammers Can Use AI to Fake Anyone’s Voice](https://lifehacker.com/now-scammers-can-use-ai-to-fake-anyone-s-voice-1850289863)
 - [Lifehacker] [Make This Bacon Salad Immediately](https://lifehacker.com/make-this-bacon-salad-immediately-1850287971)
