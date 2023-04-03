@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Pose for the Perfect Mugshot](https://lifehacker.com/how-to-pose-for-the-perfect-mugshot-1850290334)
+- [Dev.to/JS] [There are some similarities between coders and athlete](https://dev.to/jon_snow789/there-are-some-similarities-between-coders-and-athlete-1ekj)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Saltando em nuvens &lpar;2&rpar;](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-saltando-em-nuvens-2-5de2)
+- [Dev.to/JS] [What are JavaScript Promises? Explain with practical Examples](https://dev.to/rahul3002/what-are-javascript-promises-explain-with-practical-examples-4g7h)
+- [Dev.to/JS] [File Uploads for the Web &lpar;3&rpar;: File Uploads in Node &amp; Nuxt](https://dev.to/austingil/file-uploads-for-the-web-3-file-uploads-in-node-nuxt-3gd3)
+- [Dev.to/JS] [Fast Matrix Math in JS](https://dev.to/ndesmic/fast-matrix-math-in-js-11cj)
 - [Lifehacker] [This App Is BeReal but for Music](https://lifehacker.com/this-app-is-bereal-but-for-music-1850293764)
 - [Lifehacker] [Now Scammers Can Use AI to Fake Anyone’s Voice](https://lifehacker.com/now-scammers-can-use-ai-to-fake-anyone-s-voice-1850289863)
 - [Dev.to/JS] [Flutter vs React Native comparison](https://dev.to/shibun/flutter-vs-react-native-comparison-8da)
@@ -34,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Download 20 Best Free Dashboard UI for your next project](https://dev.to/jon_snow789/download-20-best-free-dashboard-ui-for-your-next-project-2nl)
 - [Dev.to/JS] [5 Resources to Cure Coding Block | The Best Resources to Practice Frontend and Full Stack Development](https://dev.to/bytesofbree/5-resources-to-cure-coding-block-the-best-resources-to-practice-frontend-and-full-stack-development-3fdo)
 - [Lifehacker] [Threaten to Cancel Every Single Subscription](https://lifehacker.com/threaten-to-cancel-every-single-subscription-1850283968)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 5, Mar 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-5-mar-2023-4hae)
-- [Dev.to/JS] [React: The QWERTY Keyboard of Web Development](https://dev.to/ederchrono/react-the-qwerty-keyboard-of-web-development-45bo)
 - [Lifehacker] [How to Spot Signs of Burnout Culture Before You Accept a Job](https://lifehacker.com/how-to-spot-signs-of-burnout-culture-before-you-accept-1850286182)
-- [Dev.to/JS] [How I improve my skills in Typescript #2 : Mapped Type](https://dev.to/codeoz/how-i-improve-my-skills-in-typescript-2-mapped-type-dag)
-- [Dev.to/JS] [How to Incorporate Real-Time Data in a JavaScript Spreadsheet](https://dev.to/grapecity/how-to-incorporate-real-time-data-in-a-javascript-spreadsheet-4oi6)
 - [Lifehacker] [Fries Are a Crouton](https://lifehacker.com/fries-are-a-crouton-1850289396)
-- [Dev.to/JS] [#interpreted_language](https://dev.to/mahfuzurrahman01/interpretedlanguage-318l)
 - [Lifehacker] [Why Your Back Hurts, and What You Can Do About It](https://lifehacker.com/why-your-back-hurts-and-what-you-can-do-about-it-1850289525)
 - [Lifehacker] [Weirdly Practical Ways to Use Toothpaste in Your Yard](https://lifehacker.com/weirdly-practical-ways-to-use-toothpaste-in-your-yard-1850287899)
 - [Lifehacker] [These Are the Best Cheap and Easy No-Cook Foods, According to Reddit](https://lifehacker.com/these-are-the-best-cheap-and-easy-no-cook-foods-accord-1850284712)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a Lazy Version of This Classic French Onion Sauce](https://lifehacker.com/make-a-lazy-version-of-this-classic-french-onion-sauce-1850283430)
 - [Lifehacker] [Beware This Nightmarish New Android Banking Malware](https://lifehacker.com/beware-this-nightmarish-new-android-banking-malware-1850282946)
 - [Lifehacker] [These Restaurant Rewards Programs Give You the Most Free Food](https://lifehacker.com/these-restaurant-rewards-programs-give-you-the-most-fre-1850280785)
-- [Lifehacker] [How to Spot the Worst Tourist Traps &lpar;and When to Just Give in and Visit Them&rpar;](https://lifehacker.com/how-to-spot-the-worst-tourist-traps-and-when-to-just-g-1850281093)
-- [Lifehacker] [You Should Pour Boiling Water on Your Chicken Thighs](https://lifehacker.com/you-should-pour-boiling-water-on-your-chicken-thighs-1850280449)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Spot the Worst Tourist Traps &lpar;and When to Just Give in and Visit Them&rpar;](https://lifehacker.com/how-to-spot-the-worst-tourist-traps-and-when-to-just-g-1850281093)<!-- TECH-POSTS:END -->
 
 ---
 
