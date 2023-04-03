@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Spot Signs of Burnout Culture Before You Accept a Job](https://lifehacker.com/how-to-spot-signs-of-burnout-culture-before-you-accept-1850286182)
+- [Dev.to/JS] [How I improve my skills in Typescript #2 : Mapped Type](https://dev.to/codeoz/how-i-improve-my-skills-in-typescript-2-mapped-type-dag)
+- [Dev.to/JS] [How to Incorporate Real-Time Data in a JavaScript Spreadsheet](https://dev.to/grapecity/how-to-incorporate-real-time-data-in-a-javascript-spreadsheet-4oi6)
+- [Lifehacker] [Fries Are a Crouton](https://lifehacker.com/fries-are-a-crouton-1850289396)
+- [Dev.to/JS] [#interpreted_language](https://dev.to/mahfuzurrahman01/interpretedlanguage-318l)
+- [Dev.to/JS] [Virtual Coffee Lightning Talks](https://dev.to/jarvisscript/virtual-coffee-lightning-talks-48km)
+- [Lifehacker] [Why Your Back Hurts, and What You Can Do About It](https://lifehacker.com/why-your-back-hurts-and-what-you-can-do-about-it-1850289525)
 - [Dev.to/JS] [Awesome Database for your Project](https://dev.to/documatic/awesome-database-for-your-project-3380)
 - [Dev.to/JS] [Understanding Data Types in JavaScript &lpar; Part - 3 &rpar;](https://dev.to/makstyle119/understanding-data-types-in-javascript-part-3--3joi)
 - [Lifehacker] [Weirdly Practical Ways to Use Toothpaste in Your Yard](https://lifehacker.com/weirdly-practical-ways-to-use-toothpaste-in-your-yard-1850287899)
@@ -34,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to Esbuild](https://dev.to/nikokaranatsios/introduction-to-esbuild-14oh)
 - [Crazy Programmer] [Django 4.2 Released: New Features and Long-Term Support](https://www.thecrazyprogrammer.com/2023/04/django-4-2-released.html)
 - [Dev.to/JS] [Free Next.js Courses](https://dev.to/alisamirali/free-nextjs-courses-1nmb)
-- [Dev.to/JS] [Paso a paso: Cómo mejorar la seguridad de tu aplicación frontend usando AWS Secret Manager, ejemplo con VueJs](https://dev.to/aws-builders/paso-a-paso-como-mejorar-la-seguridad-de-tu-aplicacion-frontend-usando-aws-secret-manager-ejemplo-con-vuejs-41hi)
-- [Dev.to/JS] [Help with countdown conflict on WP product page.](https://dev.to/katiol/help-with-countdown-conflict-on-wp-product-page-23fb)
-- [Dev.to/JS] [UserTesting: A Key Ingredient for Successful Software Development](https://dev.to/adetunjijay/usertesting-a-key-ingredient-for-successful-software-development-1dif)
-- [Dev.to/JS] [Differences between Nextjs and Nuxtjs &lpar;Summary&rpar;](https://dev.to/homezonic/differences-between-nextjs-and-nuxtjs-summary-18la)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell When an Artificial Intelligence Is &#39;Hallucinating&#39;](https://lifehacker.com/how-to-tell-when-an-artificial-intelligence-is-hallucin-1850280001)
 - [Lifehacker] [These Small Purchases Will Change Your Life, According to Reddit](https://lifehacker.com/these-small-purchases-will-change-your-life-according-1850279880)
 - [Lifehacker] [The Easiest Way to Clean Your Electric Waffle Iron](https://lifehacker.com/the-easiest-way-to-clean-your-electric-waffle-iron-1850279466)
-- [Lifehacker] [How to Use Microsoft Bing’s AI Image Generator](https://lifehacker.com/how-to-use-bing-s-ai-image-generator-to-make-weird-shit-1850279194)
-- [Lifehacker] [How Job-hopping Impacts Your Retirement Savings](https://lifehacker.com/how-job-hopping-impacts-your-retirement-savings-1850274503)
-- [Lifehacker] [A New Beginning for Lifehacker](https://lifehacker.com/a-new-beginning-for-lifehacker-1850278940)
-- [Lifehacker] [You Can Argue Against a Rent Increase](https://lifehacker.com/you-can-argue-against-a-rent-increase-1850278581)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Use Microsoft Bing’s AI Image Generator](https://lifehacker.com/how-to-use-bing-s-ai-image-generator-to-make-weird-shit-1850279194)<!-- TECH-POSTS:END -->
 
 ---
 
