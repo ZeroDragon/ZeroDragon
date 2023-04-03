@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Writing cleaner React code](https://dev.to/kachiic/writing-cleaner-react-code-23k)
+- [Dev.to/JS] [Building a Large Scale Micro-frontend Application.](https://dev.to/cesscode/building-a-large-scale-micro-frontend-application-dh5)
+- [Dev.to/JS] [📺 Video React Hooks](https://dev.to/davidkern13/video-react-hooks-485k)
+- [Dev.to/JS] [Designing Scalable and High-performance E-commerce Systems with MedusaJS and Microservices Architecture](https://dev.to/umoren/designing-scalable-and-high-performance-e-commerce-systems-with-medusajs-and-microservices-architecture-2mdh)
+- [Dev.to/JS] [How to create an API layer with React Hooks and TypeScript…and why](https://dev.to/jeeny/how-to-create-an-api-layer-with-react-hooks-and-typescriptand-why-3a8o)
+- [Dev.to/JS] [Callback Hell and Promises](https://dev.to/mdanassabah/callback-hell-and-promises-4mo1)
 - [Dev.to/JS] [Wagmi: React Hooks for Ethereum](https://dev.to/hasretozkan/wagmi-react-hooks-for-ethereum-1ico)
 - [Dev.to/JS] [A Low-Latency Live Stream React App](https://dev.to/dolbyio/a-low-latency-live-stream-react-app-53pj)
 - [Dev.to/JS] [No-code Editor for Domain Models](https://dev.to/surveyjs/no-code-editor-for-domain-models-kgp)
@@ -32,14 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Pose for the Perfect Mugshot](https://lifehacker.com/how-to-pose-for-the-perfect-mugshot-1850290334)
 - [Dev.to/JS] [There are some similarities between coders and athlete](https://dev.to/jon_snow789/there-are-some-similarities-between-coders-and-athlete-1ekj)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Saltando em nuvens &lpar;2&rpar;](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-saltando-em-nuvens-2-5de2)
-- [Dev.to/JS] [What are JavaScript Promises? Explain with practical Examples](https://dev.to/rahul3002/what-are-javascript-promises-explain-with-practical-examples-4g7h)
-- [Dev.to/JS] [File Uploads for the Web &lpar;3&rpar;: File Uploads in Node &amp; Nuxt](https://dev.to/austingil/file-uploads-for-the-web-3-file-uploads-in-node-nuxt-3gd3)
-- [Dev.to/JS] [Fast Matrix Math in JS](https://dev.to/ndesmic/fast-matrix-math-in-js-11cj)
 - [Lifehacker] [This App Is BeReal but for Music](https://lifehacker.com/this-app-is-bereal-but-for-music-1850293764)
 - [Lifehacker] [Now Scammers Can Use AI to Fake Anyone’s Voice](https://lifehacker.com/now-scammers-can-use-ai-to-fake-anyone-s-voice-1850289863)
-- [Dev.to/JS] [Flutter vs React Native comparison](https://dev.to/shibun/flutter-vs-react-native-comparison-8da)
-- [Dev.to/JS] [Caddy, Go, Docker and a Single Page App](https://dev.to/clubside/caddy-go-docker-and-a-single-page-app-5g40)
-- [Dev.to/JS] [WebRtc Websocket](https://dev.to/veercodeprog/webrtc-websocket-142i)
 - [Lifehacker] [Make This Bacon Salad Immediately](https://lifehacker.com/make-this-bacon-salad-immediately-1850287971)
 - [Lifehacker] [Threaten to Cancel Every Single Subscription](https://lifehacker.com/threaten-to-cancel-every-single-subscription-1850283968)
 - [Lifehacker] [How to Spot Signs of Burnout Culture Before You Accept a Job](https://lifehacker.com/how-to-spot-signs-of-burnout-culture-before-you-accept-1850286182)
