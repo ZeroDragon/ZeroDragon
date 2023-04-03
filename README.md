@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Migrating from Medium to Ghost: A Step-by-Step Guide for Beginners](https://dev.to/universe/migrating-from-medium-to-ghost-a-step-by-step-guide-for-beginners-oh6)
+- [Dev.to/JS] [Project 2: Week 12 Check-in](https://dev.to/pandaalifter/project-2-week-12-check-in-40e7)
 - [Dev.to/JS] [The Beginning Of A Journey](https://dev.to/jstellmacher/the-beginning-of-a-journey-2ake)
 - [Dev.to/JS] [Have questions about ESLint?](https://dev.to/nickytonline/have-questions-about-eslint-2ahp)
 - [Dev.to/JS] [Mastering Angular&#39;s Change Detection Strategies for Enhanced Performance](https://dev.to/renaisense_/mastering-angulars-change-detection-strategies-for-enhanced-performance-5055)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Generate a Quick Node.js Project with TypeScript.](https://dev.to/chrisciokler/how-to-generate-a-quick-nodejs-project-with-typescript-5fom)
 - [Dev.to/JS] [uptimerobot 2.0](https://dev.to/dshaw0004/uptimerobot-20-15if)
 - [Dev.to/JS] [FullyStacked](https://dev.to/hypeddev/fullystacked-4okk)
-- [Dev.to/JS] [Unlocking the Power of Next.js Pre-Rendering with Server-Side Props](https://dev.to/hi_iam_chris/unlocking-the-power-of-nextjs-pre-rendering-with-server-side-props-1od4)
-- [Dev.to/JS] [Unlock the Power of JavaScript&#39;s Spread Operator: Tips and Tricks for Mastery!](https://dev.to/wizdomtek/unlock-the-power-of-javascripts-spread-operator-tips-and-tricks-for-mastery-1d5i)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
