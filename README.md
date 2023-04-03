@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Awesome Database for your Project](https://dev.to/documatic/awesome-database-for-your-project-3380)
+- [Dev.to/JS] [Understanding Data Types in JavaScript &lpar; Part - 3 &rpar;](https://dev.to/makstyle119/understanding-data-types-in-javascript-part-3--3joi)
+- [Lifehacker] [Weirdly Practical Ways to Use Toothpaste in Your Yard](https://lifehacker.com/weirdly-practical-ways-to-use-toothpaste-in-your-yard-1850287899)
+- [Dev.to/JS] [JavaScript EP3: Scope &lpar;Chain&rpar;⛓️🚧](https://dev.to/phatsss/javascript-ep3-scope-chain-43ej)
+- [Dev.to/JS] [I made Express faster than Fastify &lpar;100x faster JSON&rpar;](https://dev.to/samchon/i-made-express-faster-than-fastify-4h8g)
 - [Dev.to/JS] [Understanding Basics of Node.js](https://dev.to/suyash200/understanding-basics-of-nodejs-3e80)
 - [Lifehacker] [These Are the Best Cheap and Easy No-Cook Foods, According to Reddit](https://lifehacker.com/these-are-the-best-cheap-and-easy-no-cook-foods-accord-1850284712)
 - [Dev.to/JS] [Modale federation &amp; MFEs](https://dev.to/nikokaranatsios/modale-federation-mfes-40jm)
@@ -33,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Help with countdown conflict on WP product page.](https://dev.to/katiol/help-with-countdown-conflict-on-wp-product-page-23fb)
 - [Dev.to/JS] [UserTesting: A Key Ingredient for Successful Software Development](https://dev.to/adetunjijay/usertesting-a-key-ingredient-for-successful-software-development-1dif)
 - [Dev.to/JS] [Differences between Nextjs and Nuxtjs &lpar;Summary&rpar;](https://dev.to/homezonic/differences-between-nextjs-and-nuxtjs-summary-18la)
-- [Dev.to/JS] [IGCSE Economics tutor](https://dev.to/baccalaureateacademy/igcse-economics-tutor-3hk7)
-- [Dev.to/JS] [The Hardest Concept in JavaScript](https://dev.to/chidiebereomasi/the-hardest-concept-in-javascript-g02)
-- [Dev.to/JS] [Superpowers with Directives and Dependency Injection: Part 5](https://dev.to/armandotrue/superpowers-with-directives-and-dependency-injection-part-5-29ff)
-- [Dev.to/JS] [3 Ways to Optimize Your Node.js Application Performance](https://dev.to/pavanbelagatti/3-ways-to-optimize-your-nodejs-application-performance-2mo5)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use Microsoft Bing’s AI Image Generator](https://lifehacker.com/how-to-use-bing-s-ai-image-generator-to-make-weird-shit-1850279194)
 - [Lifehacker] [How Job-hopping Impacts Your Retirement Savings](https://lifehacker.com/how-job-hopping-impacts-your-retirement-savings-1850274503)
 - [Lifehacker] [A New Beginning for Lifehacker](https://lifehacker.com/a-new-beginning-for-lifehacker-1850278940)
-- [Lifehacker] [You Can Argue Against a Rent Increase](https://lifehacker.com/you-can-argue-against-a-rent-increase-1850278581)
-- [Lifehacker] [These JBL Noise-Canceling Earbuds Are Only $50 Right Now](https://lifehacker.com/these-jbl-noise-canceling-earbuds-are-only-50-right-no-1850278993)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Argue Against a Rent Increase](https://lifehacker.com/you-can-argue-against-a-rent-increase-1850278581)<!-- TECH-POSTS:END -->
 
 ---
 
