@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This App Is BeReal but for Music](https://lifehacker.com/this-app-is-bereal-but-for-music-1850293764)
+- [Lifehacker] [Now Scammers Can Use AI to Fake Anyone’s Voice](https://lifehacker.com/now-scammers-can-use-ai-to-fake-anyone-s-voice-1850289863)
+- [Dev.to/JS] [Flutter vs React Native comparison](https://dev.to/shibun/flutter-vs-react-native-comparison-8da)
+- [Dev.to/JS] [Caddy, Go, Docker and a Single Page App](https://dev.to/clubside/caddy-go-docker-and-a-single-page-app-5g40)
+- [Dev.to/JS] [WebRtc Websocket](https://dev.to/veercodeprog/webrtc-websocket-142i)
+- [Dev.to/JS] [Operador de encadenamiento opcional en JavaScript](https://dev.to/asjordi/operador-de-encadenamiento-opcional-en-javascript-4dj0)
+- [Lifehacker] [Make This Bacon Salad Immediately](https://lifehacker.com/make-this-bacon-salad-immediately-1850287971)
+- [Dev.to/JS] [Conditional Statements in JavaScript: If-Else](https://dev.to/max24816/conditional-statements-in-javascript-if-else-15jc)
 - [Dev.to/JS] [Download 20 Best Free Dashboard UI for your next project](https://dev.to/jon_snow789/download-20-best-free-dashboard-ui-for-your-next-project-2nl)
 - [Dev.to/JS] [5 Resources to Cure Coding Block | The Best Resources to Practice Frontend and Full Stack Development](https://dev.to/bytesofbree/5-resources-to-cure-coding-block-the-best-resources-to-practice-frontend-and-full-stack-development-3fdo)
 - [Lifehacker] [Threaten to Cancel Every Single Subscription](https://lifehacker.com/threaten-to-cancel-every-single-subscription-1850283968)
@@ -33,13 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Incorporate Real-Time Data in a JavaScript Spreadsheet](https://dev.to/grapecity/how-to-incorporate-real-time-data-in-a-javascript-spreadsheet-4oi6)
 - [Lifehacker] [Fries Are a Crouton](https://lifehacker.com/fries-are-a-crouton-1850289396)
 - [Dev.to/JS] [#interpreted_language](https://dev.to/mahfuzurrahman01/interpretedlanguage-318l)
-- [Dev.to/JS] [Virtual Coffee Lightning Talks](https://dev.to/jarvisscript/virtual-coffee-lightning-talks-48km)
 - [Lifehacker] [Why Your Back Hurts, and What You Can Do About It](https://lifehacker.com/why-your-back-hurts-and-what-you-can-do-about-it-1850289525)
-- [Dev.to/JS] [Awesome Database for your Project](https://dev.to/documatic/awesome-database-for-your-project-3380)
-- [Dev.to/JS] [Understanding Data Types in JavaScript &lpar; Part - 3 &rpar;](https://dev.to/makstyle119/understanding-data-types-in-javascript-part-3--3joi)
 - [Lifehacker] [Weirdly Practical Ways to Use Toothpaste in Your Yard](https://lifehacker.com/weirdly-practical-ways-to-use-toothpaste-in-your-yard-1850287899)
-- [Dev.to/JS] [JavaScript EP3: Scope &lpar;Chain&rpar;⛓️🚧](https://dev.to/phatsss/javascript-ep3-scope-chain-43ej)
-- [Dev.to/JS] [I made Express faster than Fastify &lpar;100x faster JSON&rpar;](https://dev.to/samchon/i-made-express-faster-than-fastify-4h8g)
 - [Lifehacker] [These Are the Best Cheap and Easy No-Cook Foods, According to Reddit](https://lifehacker.com/these-are-the-best-cheap-and-easy-no-cook-foods-accord-1850284712)
 - [Crazy Programmer] [Django 4.2 Released: New Features and Long-Term Support](https://www.thecrazyprogrammer.com/2023/04/django-4-2-released.html)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Beware This Nightmarish New Android Banking Malware](https://lifehacker.com/beware-this-nightmarish-new-android-banking-malware-1850282946)
 - [Lifehacker] [These Restaurant Rewards Programs Give You the Most Free Food](https://lifehacker.com/these-restaurant-rewards-programs-give-you-the-most-fre-1850280785)
 - [Lifehacker] [How to Spot the Worst Tourist Traps &lpar;and When to Just Give in and Visit Them&rpar;](https://lifehacker.com/how-to-spot-the-worst-tourist-traps-and-when-to-just-g-1850281093)
-- [Lifehacker] [You Should Pour Boiling Water on Your Chicken Thighs](https://lifehacker.com/you-should-pour-boiling-water-on-your-chicken-thighs-1850280449)
-- [Lifehacker] [How to Tell When an Artificial Intelligence Is &#39;Hallucinating&#39;](https://lifehacker.com/how-to-tell-when-an-artificial-intelligence-is-hallucin-1850280001)
-- [Lifehacker] [These Small Purchases Will Change Your Life, According to Reddit](https://lifehacker.com/these-small-purchases-will-change-your-life-according-1850279880)
-- [Lifehacker] [The Easiest Way to Clean Your Electric Waffle Iron](https://lifehacker.com/the-easiest-way-to-clean-your-electric-waffle-iron-1850279466)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Pour Boiling Water on Your Chicken Thighs](https://lifehacker.com/you-should-pour-boiling-water-on-your-chicken-thighs-1850280449)<!-- TECH-POSTS:END -->
 
 ---
 
