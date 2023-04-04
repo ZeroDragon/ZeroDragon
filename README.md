@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Guide to HTTP POST requests in JavaScript](https://dev.to/asayerio_techblog/a-guide-to-http-post-requests-in-javascript-54f6)
+- [Dev.to/JS] [Build a Weather App with Vanilla JS](https://dev.to/asayerio_techblog/build-a-weather-app-with-vanilla-js-2lfc)
+- [Dev.to/JS] [The Imposter](https://dev.to/sluvish1/the-imposter-5769)
 - [Dev.to/JS] [Backup and disaster recovery for Microsoft Azure applications](https://dev.to/sardarmudassaralikhan/backup-and-disaster-recovery-for-microsoft-azure-applications-2e0e)
 - [Dev.to/JS] [Episode 23/13: Upcoming Signals RFC, Vite in Angular, ng-be Recordings](https://dev.to/ng_news/episode-2313-upcoming-signals-rfc-vite-in-angular-ng-be-recordings-13h8)
 - [Dev.to/JS] [🤖 Building a personal agent to use on your portfolio page &lpar;with NextJS, tRPC, Typescript, Tailwindcss and GPT-3.5-turbo&rpar;](https://dev.to/vincentdorian/building-a-personal-agent-to-use-on-your-portfolio-page-with-nextjs-trpc-typescript-tailwindcss-and-gpt-35-turbo-27en)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Large Scale Micro-frontend Application.](https://dev.to/cesscode/building-a-large-scale-micro-frontend-application-dh5)
 - [Dev.to/JS] [📺 Video React Hooks](https://dev.to/davidkern13/video-react-hooks-485k)
 - [Dev.to/JS] [Designing Scalable and High-performance E-commerce Systems with MedusaJS and Microservices Architecture](https://dev.to/umoren/designing-scalable-and-high-performance-e-commerce-systems-with-medusajs-and-microservices-architecture-2mdh)
-- [Dev.to/JS] [How to create an API layer with React Hooks and TypeScript…and why](https://dev.to/jeeny/how-to-create-an-api-layer-with-react-hooks-and-typescriptand-why-3a8o)
-- [Dev.to/JS] [Callback Hell and Promises](https://dev.to/mdanassabah/callback-hell-and-promises-4mo1)
-- [Dev.to/JS] [Wagmi: React Hooks for Ethereum](https://dev.to/hasretozkan/wagmi-react-hooks-for-ethereum-1ico)
 - [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
 - [Lifehacker] [The Beginner&#39;s Guide to Lining a Bamboo Steamer](https://lifehacker.com/the-beginners-guide-to-lining-a-bamboo-steamer-1850289545)
 - [Lifehacker] [How to Pose for the Perfect Mugshot](https://lifehacker.com/how-to-pose-for-the-perfect-mugshot-1850290334)
