@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React: The Reconciliation Algorithm](https://dev.to/anoopsingh1996/react-the-reconciliation-algorithm-1231)
+- [Dev.to/JS] [Difference Between Artificial Intelligence and Machine Learning](https://dev.to/alikazizeeshan/difference-between-artificial-intelligence-and-machine-learning-5f3c)
+- [Dev.to/JS] [Desenvolvimento de aplicativos web com frameworks JavaScript e os princípios do PESPA](https://dev.to/angellicaaraujo/desenvolvimento-de-aplicativos-web-com-frameworks-javascript-e-os-principios-do-pespa-j1)
+- [Dev.to/JS] [Refs in React: from access to DOM to imperative API](https://dev.to/adevnadia/refs-in-react-from-access-to-dom-to-imperative-api-j2l)
+- [Dev.to/JS] [React Fundamentals](https://dev.to/fredie_aponte_28c04a9b601/react-fundamentals-49m1)
 - [Dev.to/JS] [How to Integrate PayPal with HTML, CSS and Javascript](https://dev.to/evansifyke/how-to-integrate-paypal-with-html-css-and-javascript-2mnb)
 - [Dev.to/JS] [How to find Top AngularJS Development Companies?](https://dev.to/leahgreene67/how-to-find-top-angularjs-development-companies-1mld)
 - [Dev.to/JS] [Deploy your React app using GitHub pages](https://dev.to/ayushsoni1010/deploy-your-react-app-using-github-pages-526i)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Custom validation for nested loop,](https://dev.to/narendra1623/custom-validation-for-nested-loop-2abh)
 - [Dev.to/JS] [Linux Devs Rejoice: A Comprehensive Guide to Setting Up Your React Native Development Environment](https://dev.to/pratik280/linux-devs-rejoice-a-comprehensive-guide-to-setting-up-your-react-native-development-environment-55p4)
 - [Dev.to/JS] [Mastering JavaScript: Copy Items like a Pro with These Simple Tips!](https://dev.to/wizdomtek/mastering-javascript-copy-items-like-a-pro-with-these-simple-tips-1m7b)
-- [Dev.to/JS] [Conditional Statements in JavaScript: Switch](https://dev.to/max24816/conditional-statements-in-javascript-switch-53l)
-- [Dev.to/JS] [Henlo](https://dev.to/karanberrysauce/henlo-2ojc)
-- [Dev.to/JS] [useState or useReducer – which to choose for your application](https://dev.to/m_adams1909/usestate-or-usereducer-which-to-choose-for-your-application-ia5)
-- [Dev.to/JS] [Implementando o Debounce no React: Melhorando a Experiência do Usuário em Eventos de Entrada](https://dev.to/bduarte10/implementando-o-debounce-no-react-melhorando-a-experiencia-do-usuario-em-eventos-de-entrada-56nc)
-- [Dev.to/JS] [How to add hours to datetime using javascript](https://dev.to/rinaldycodes/how-to-add-hours-to-datetime-using-javascript-37of)
 - [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
 - [Lifehacker] [The Beginner&#39;s Guide to Lining a Bamboo Steamer](https://lifehacker.com/the-beginners-guide-to-lining-a-bamboo-steamer-1850289545)
 - [Lifehacker] [How to Pose for the Perfect Mugshot](https://lifehacker.com/how-to-pose-for-the-perfect-mugshot-1850290334)
