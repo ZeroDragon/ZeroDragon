@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fetch&lpar;&rpar; Requests](https://dev.to/alelda/fetch-requests-2obe)
 - [Dev.to/JS] [[React] Render Props Pattern](https://dev.to/jgamaraalv/react-render-props-pattern-314j)
 - [Dev.to/JS] [Nextjs 13 on demand revalidation](https://dev.to/wiktorkujawa/nextjs-13-on-demand-revalidation-5ig)
 - [Dev.to/JS] [POC Custom Street View for Vienna](https://dev.to/waquner/poc-custom-street-view-for-vienna-2hii)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Medusa: A New Way to Build Commerce](https://dev.to/medusajs/medusa-a-new-way-to-build-commerce-4hia)
 - [Lifehacker] [Some of You Are Tying Your Shoes Wrong](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979)
 - [Dev.to/JS] [Moonly weekly progress update #43](https://dev.to/moonly/moonly-weekly-progress-update-43-2mh9)
-- [Dev.to/JS] [Unleashing the Power of Google Maps API in Your React App](https://dev.to/darkterminal/unleashing-the-power-of-google-maps-api-in-your-react-app-17cd)
 - [Lifehacker] [You Should Waffle Your Sausage Biscuit](https://lifehacker.com/easy-breakfast-waffle-your-next-sausage-biscuit-1850296206)
 - [Lifehacker] [How to Not Get Scammed Buying Event Tickets](https://lifehacker.com/how-to-not-get-scammed-buying-event-tickets-1850296220)
 - [Lifehacker] [Don’t Let These April Class-Action Settlement Deadlines Pass You By](https://lifehacker.com/don-t-let-these-april-class-action-settlement-deadlines-1850295701)
