@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ultimate Guide to Big O Notation in 2023 | A Comprehensive Cheatsheet](https://dev.to/fueler/ultimate-guide-to-big-o-notation-in-2023-a-comprehensive-cheatsheet-589o)
+- [Lifehacker] [How to Spot a Fake-Ass Website](https://lifehacker.com/how-to-spot-a-fake-ass-website-1850289388)
+- [Dev.to/JS] [How to clean up useEffect&#39;s code](https://dev.to/ist4/how-to-clean-up-useeffects-code-c5e)
+- [Dev.to/JS] [Django Review Points](https://dev.to/ajith_56/django-review-points-2fom)
 - [Dev.to/JS] [Why JavaScript is a Great Programming Language for Beginners](https://dev.to/max88git/why-javascript-is-a-great-programming-language-for-beginners-2fj6)
 - [Dev.to/JS] [Getting Started with React Testing Library](https://dev.to/abdulkareemtpm/getting-started-with-react-testing-library-nl7)
 - [Dev.to/JS] [Flutterwave vs JavaScript](https://dev.to/admud97/flutterwave-vs-javascript-34j9)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vue.js for beginners](https://dev.to/ehab24/vuejs-for-beginners-1oee)
 - [Dev.to/JS] [How to Promote your Online Business](https://dev.to/webvyaparindia/how-to-promote-your-online-business-40eb)
 - [Dev.to/JS] [GraphQL VS API Graph with 2 same examples](https://dev.to/ahmedsudani/graphql-vs-api-graph-with-2-examples-34f6)
-- [Dev.to/JS] [Leetcode 409: Longest Palindrome](https://dev.to/blakeahalt/leetcode-409-longest-palindrome-2o3l)
-- [Dev.to/JS] [Create a snake game using ChatGPT-4.](https://dev.to/hr21don/create-a-snake-game-using-chatgpt-4-3977)
-- [Dev.to/JS] [How to upload files/images to Netlify Functions](https://dev.to/willkre/how-to-upload-filesimages-to-netlify-functions-32m7)
 - [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
 - [Lifehacker] [The Beginner&#39;s Guide to Lining a Bamboo Steamer](https://lifehacker.com/the-beginners-guide-to-lining-a-bamboo-steamer-1850289545)
 - [Lifehacker] [How to Pose for the Perfect Mugshot](https://lifehacker.com/how-to-pose-for-the-perfect-mugshot-1850290334)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Always Report a Scam](https://lifehacker.com/why-you-should-always-report-a-scam-1850282865)
 - [Lifehacker] [Get an Extra Subway Footlong for Free While You Can](https://lifehacker.com/get-an-extra-subway-footlong-for-free-while-you-can-1850283913)
 - [Lifehacker] [Set Up Your Phone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
-- [Lifehacker] [Make a Lazy Version of This Classic French Onion Sauce](https://lifehacker.com/make-a-lazy-version-of-this-classic-french-onion-sauce-1850283430)
-- [Lifehacker] [Beware This Nightmarish New Android Banking Malware](https://lifehacker.com/beware-this-nightmarish-new-android-banking-malware-1850282946)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make a Lazy Version of This Classic French Onion Sauce](https://lifehacker.com/make-a-lazy-version-of-this-classic-french-onion-sauce-1850283430)<!-- TECH-POSTS:END -->
 
 ---
 
