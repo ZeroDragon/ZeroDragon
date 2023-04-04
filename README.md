@@ -23,19 +23,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Launch Week Day 1 - Payload Cloud is here](https://dev.to/payloadcms/launch-week-day-1-payload-cloud-is-here-563f)
+- [Dev.to/JS] [Understanding npm Versioning](https://dev.to/typescripttv/understanding-npm-versioning-3hn4)
+- [Lifehacker] [Make Hand-Held French Onion Soup Bites](https://lifehacker.com/make-hand-held-french-onion-soup-bites-1850295202)
+- [Dev.to/JS] [JavaScript Destructuring.](https://dev.to/frankyob/javascript-destructuring-314e)
+- [Lifehacker] [Apple Weather Is Broken, but These Alternatives Aren’t](https://lifehacker.com/the-7-best-weather-apps-to-replace-dark-sky-on-iphone-a-1849951456)
+- [Dev.to/JS] [API basics and React](https://dev.to/amera/api-basics-and-react-5fpk)
+- [Dev.to/JS] [10 GitHub Learning Repositories for Beginner Developers](https://dev.to/ibrahimraimi/10-github-learning-repositories-for-beginner-developers-432)
+- [Lifehacker] [Stop Believing These College Scholarship Myths](https://lifehacker.com/stop-believing-these-college-scholarship-myths-1850287370)
 - [Dev.to/JS] [About Amazon SNS &amp; Pub/Sub Architecture](https://dev.to/aws-builders/about-amazon-sns-pubsub-architecture-3n07)
 - [Dev.to/JS] [How to Consume GraphQL API with Apollo Client in a Reactjs Application](https://dev.to/stephengade/how-to-consume-graphql-api-with-apollo-client-in-a-reactjs-application-d1o)
+- [Lifehacker] [The Easiest Way to Make Small Talk Less Painful](https://lifehacker.com/the-easiest-way-to-make-small-talk-less-painful-1850294888)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Equalização de Matrix sobre Inteiros.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-equalizacao-de-matrix-sobre-inteiros-4e3o)
 - [Dev.to/JS] [How I made my first 1000$ as a technical writer](https://dev.to/obeyadaniel/how-i-made-my-first-1000-as-a-technical-writer-5fm)
 - [Dev.to/JS] [How to check update react PWA app](https://dev.to/rinaldycodes/how-to-check-update-react-pwa-app-1792)
 - [Dev.to/JS] [Gerenciando estados globais de forma eficiente](https://dev.to/demgoncalves/gerenciando-estados-globais-de-forma-eficiente-3bkb)
 - [Dev.to/JS] [Ultimate Guide to Big O Notation in 2023 | A Comprehensive Cheatsheet](https://dev.to/fueler/ultimate-guide-to-big-o-notation-in-2023-a-comprehensive-cheatsheet-589o)
 - [Lifehacker] [How to Spot a Fake-Ass Website](https://lifehacker.com/how-to-spot-a-fake-ass-website-1850289388)
-- [Dev.to/JS] [What’s New in Essential JS 2: 2023 Volume 1](https://dev.to/syncfusion/whats-new-in-essential-js-2-2023-volume-1-230l)
-- [Dev.to/JS] [How to clean up useEffect&#39;s code](https://dev.to/ist4/how-to-clean-up-useeffects-code-c5e)
-- [Dev.to/JS] [Django Review Points](https://dev.to/ajith_56/django-review-points-2fom)
-- [Dev.to/JS] [Why JavaScript is a Great Programming Language for Beginners](https://dev.to/max88git/why-javascript-is-a-great-programming-language-for-beginners-2fj6)
-- [Dev.to/JS] [Getting Started with React Testing Library](https://dev.to/abdulkareemtpm/getting-started-with-react-testing-library-nl7)
 - [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
 - [Lifehacker] [The Beginner&#39;s Guide to Lining a Bamboo Steamer](https://lifehacker.com/the-beginners-guide-to-lining-a-bamboo-steamer-1850289545)
 - [Lifehacker] [How to Pose for the Perfect Mugshot](https://lifehacker.com/how-to-pose-for-the-perfect-mugshot-1850290334)
@@ -58,11 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Surprisingly Useful Ways to Use Tension Rods Around Your Home](https://lifehacker.com/surprisingly-useful-ways-to-use-tension-rods-around-you-1850287393)
 - [Lifehacker] [Turn Cottage Cheese Into a Creamy, Protein-Packed Pasta Sauce](https://lifehacker.com/turn-cottage-cheese-into-a-creamy-protein-packed-pasta-1850285219)
 - [Lifehacker] [Give Your Cheeseball a Festive Easter Makeover](https://lifehacker.com/give-your-cheeseball-a-festive-easter-makeover-1850284595)
-- [Lifehacker] [There’s a Better Way to Organize Your Freezer](https://lifehacker.com/there-s-a-better-way-to-organize-your-freezer-1850284246)
-- [Lifehacker] [Why You Should Always Report a Scam](https://lifehacker.com/why-you-should-always-report-a-scam-1850282865)
-- [Lifehacker] [Get an Extra Subway Footlong for Free While You Can](https://lifehacker.com/get-an-extra-subway-footlong-for-free-while-you-can-1850283913)
-- [Lifehacker] [Set Up Your Phone to Keep You Focused During Workouts](https://lifehacker.com/set-up-your-phone-to-keep-you-focused-during-workouts-1850283863)
-- [Lifehacker] [Make a Lazy Version of This Classic French Onion Sauce](https://lifehacker.com/make-a-lazy-version-of-this-classic-french-onion-sauce-1850283430)<!-- TECH-POSTS:END -->
+- [Lifehacker] [There’s a Better Way to Organize Your Freezer](https://lifehacker.com/there-s-a-better-way-to-organize-your-freezer-1850284246)<!-- TECH-POSTS:END -->
 
 ---
 
