@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[React] Render Props Pattern](https://dev.to/jgamaraalv/react-render-props-pattern-314j)
+- [Dev.to/JS] [Nextjs 13 on demand revalidation](https://dev.to/wiktorkujawa/nextjs-13-on-demand-revalidation-5ig)
+- [Dev.to/JS] [POC Custom Street View for Vienna](https://dev.to/waquner/poc-custom-street-view-for-vienna-2hii)
+- [Dev.to/JS] [Level Up TS: Extend Interfaces with Generics](https://dev.to/benhultin/level-up-ts-extend-interfaces-with-generics-i6a)
+- [Dev.to/JS] [🚫 Stop using SWITCH, please 🙏](https://dev.to/ivanzm123/stop-using-switch-please-2hif)
 - [Dev.to/JS] [Performance of the spread operator](https://dev.to/petrtcoi/performance-of-the-spread-operator-2bpk)
 - [Dev.to/JS] [API testing for the win](https://dev.to/philipfong/api-testing-for-the-win-1o2i)
 - [Dev.to/JS] [Paracetamol.js💊| #216: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-216-explica-este-codigo-javascript-4g6d)
@@ -35,12 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unleashing the Power of Google Maps API in Your React App](https://dev.to/darkterminal/unleashing-the-power-of-google-maps-api-in-your-react-app-17cd)
 - [Lifehacker] [You Should Waffle Your Sausage Biscuit](https://lifehacker.com/easy-breakfast-waffle-your-next-sausage-biscuit-1850296206)
 - [Lifehacker] [How to Not Get Scammed Buying Event Tickets](https://lifehacker.com/how-to-not-get-scammed-buying-event-tickets-1850296220)
-- [Dev.to/JS] [framer-motion-carousel](https://dev.to/jiangbo2015/framer-motion-carousel-2d7l)
-- [Dev.to/JS] [Javascript map&lpar;&rpar; vs forEach&lpar;&rpar;](https://dev.to/renardo1985/javascript-map-vs-foreach-lg)
-- [Dev.to/JS] [Boost Your React Performance with useDeferredValue Hook: An Example-driven Guide](https://dev.to/ritikbanger/boost-your-react-performance-with-usedeferredvalue-hook-an-example-driven-guide-24f5)
 - [Lifehacker] [Don’t Let These April Class-Action Settlement Deadlines Pass You By](https://lifehacker.com/don-t-let-these-april-class-action-settlement-deadlines-1850295701)
-- [Dev.to/JS] [REACT 2023 still the masterpiece, The Paradigm, serious business](https://dev.to/ecrider/react-2023-still-the-masterpiece-the-paradigm-serious-business-27g3)
-- [Dev.to/JS] [JavaScript Destructuring.](https://dev.to/frankymolina/javascript-destructuring-55bo)
 - [Lifehacker] [Make This Seven-Minute Breakfast Taco in Your Air Fryer](https://lifehacker.com/make-this-five-minute-breakfast-taco-in-your-air-fryer-1850295508)
 - [Lifehacker] [Make Hand-Held French Onion Soup Bites](https://lifehacker.com/make-hand-held-french-onion-soup-bites-1850295202)
 - [Lifehacker] [Apple Weather Is Broken, but These Alternatives Aren’t](https://lifehacker.com/the-7-best-weather-apps-to-replace-dark-sky-on-iphone-a-1849951456)
