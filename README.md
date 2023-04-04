@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Conditional Statements in JavaScript: Switch](https://dev.to/max24816/conditional-statements-in-javascript-switch-53l)
+- [Dev.to/JS] [Henlo](https://dev.to/karanberrysauce/henlo-2ojc)
 - [Dev.to/JS] [useState or useReducer – which to choose for your application](https://dev.to/m_adams1909/usestate-or-usereducer-which-to-choose-for-your-application-ia5)
 - [Dev.to/JS] [Implementando o Debounce no React: Melhorando a Experiência do Usuário em Eventos de Entrada](https://dev.to/bduarte10/implementando-o-debounce-no-react-melhorando-a-experiencia-do-usuario-em-eventos-de-entrada-56nc)
 - [Dev.to/JS] [How to add hours to datetime using javascript](https://dev.to/rinaldycodes/how-to-add-hours-to-datetime-using-javascript-37of)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Imposter](https://dev.to/sluvish1/the-imposter-5769)
 - [Dev.to/JS] [Backup and disaster recovery for Microsoft Azure applications](https://dev.to/sardarmudassaralikhan/backup-and-disaster-recovery-for-microsoft-azure-applications-2e0e)
 - [Dev.to/JS] [Episode 23/13: Upcoming Signals RFC, Vite in Angular, ng-be Recordings](https://dev.to/ng_news/episode-2313-upcoming-signals-rfc-vite-in-angular-ng-be-recordings-13h8)
-- [Dev.to/JS] [🤖 Building a personal agent to use on your portfolio page &lpar;with NextJS, tRPC, Typescript, Tailwindcss and GPT-3.5-turbo&rpar;](https://dev.to/vincentdorian/building-a-personal-agent-to-use-on-your-portfolio-page-with-nextjs-trpc-typescript-tailwindcss-and-gpt-35-turbo-27en)
-- [Dev.to/JS] [Using Node.js for Automated Testing and Continuous Integration](https://dev.to/folasayosamuel/using-nodejs-for-automated-testing-and-continuous-integration-36k5)
 - [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
 - [Lifehacker] [The Beginner&#39;s Guide to Lining a Bamboo Steamer](https://lifehacker.com/the-beginners-guide-to-lining-a-bamboo-steamer-1850289545)
 - [Lifehacker] [How to Pose for the Perfect Mugshot](https://lifehacker.com/how-to-pose-for-the-perfect-mugshot-1850290334)
