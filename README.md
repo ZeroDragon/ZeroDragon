@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build A Simple Web App With Sveltekit and Appwrite](https://dev.to/n3rd/build-a-simple-web-app-with-sveltekit-and-appwrite-1bb8)
+- [Dev.to/JS] [Buy Ivermectin Online](https://dev.to/paxtonpark44/buy-ivermectin-online-4km8)
+- [Dev.to/JS] [The Ethics of Artificial Intelligence in Modern Technology](https://dev.to/chidiebereomasi/the-ethics-of-artificial-intelligence-in-modern-technology-1p96)
+- [Dev.to/JS] [Vue.js for beginners](https://dev.to/ehab24/vuejs-for-beginners-1oee)
 - [Dev.to/JS] [How to Promote your Online Business](https://dev.to/webvyaparindia/how-to-promote-your-online-business-40eb)
 - [Dev.to/JS] [GraphQL VS API Graph with 2 same examples](https://dev.to/ahmedsudani/graphql-vs-api-graph-with-2-examples-34f6)
 - [Dev.to/JS] [Leetcode 409: Longest Palindrome](https://dev.to/blakeahalt/leetcode-409-longest-palindrome-2o3l)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React: The Reconciliation Algorithm](https://dev.to/anoopsingh1996/react-the-reconciliation-algorithm-1231)
 - [Dev.to/JS] [Difference Between Artificial Intelligence and Machine Learning](https://dev.to/alikazizeeshan/difference-between-artificial-intelligence-and-machine-learning-5f3c)
 - [Dev.to/JS] [Desenvolvimento de aplicativos web com frameworks JavaScript e os princípios do PESPA](https://dev.to/angellicaaraujo/desenvolvimento-de-aplicativos-web-com-frameworks-javascript-e-os-principios-do-pespa-j1)
-- [Dev.to/JS] [Refs in React: from access to DOM to imperative API](https://dev.to/adevnadia/refs-in-react-from-access-to-dom-to-imperative-api-j2l)
-- [Dev.to/JS] [React Fundamentals](https://dev.to/fredie_aponte_28c04a9b601/react-fundamentals-49m1)
-- [Dev.to/JS] [How to Integrate PayPal with HTML, CSS and Javascript](https://dev.to/evansifyke/how-to-integrate-paypal-with-html-css-and-javascript-2mnb)
-- [Dev.to/JS] [How to find Top AngularJS Development Companies?](https://dev.to/leahgreene67/how-to-find-top-angularjs-development-companies-1mld)
 - [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
 - [Lifehacker] [The Beginner&#39;s Guide to Lining a Bamboo Steamer](https://lifehacker.com/the-beginners-guide-to-lining-a-bamboo-steamer-1850289545)
 - [Lifehacker] [How to Pose for the Perfect Mugshot](https://lifehacker.com/how-to-pose-for-the-perfect-mugshot-1850290334)
