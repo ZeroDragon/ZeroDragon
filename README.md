@@ -23,10 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Waffle Your Sausage Biscuit](https://lifehacker.com/easy-breakfast-waffle-your-next-sausage-biscuit-1850296206)
+- [Lifehacker] [How to Not Get Scammed Buying Event Tickets](https://lifehacker.com/how-to-not-get-scammed-buying-event-tickets-1850296220)
+- [Dev.to/JS] [framer-motion-carousel](https://dev.to/jiangbo2015/framer-motion-carousel-2d7l)
+- [Dev.to/JS] [Javascript map&lpar;&rpar; vs forEach&lpar;&rpar;](https://dev.to/renardo1985/javascript-map-vs-foreach-lg)
+- [Dev.to/JS] [Boost Your React Performance with useDeferredValue Hook: An Example-driven Guide](https://dev.to/ritikbanger/boost-your-react-performance-with-usedeferredvalue-hook-an-example-driven-guide-24f5)
 - [Lifehacker] [Don’t Let These April Class-Action Settlement Deadlines Pass You By](https://lifehacker.com/don-t-let-these-april-class-action-settlement-deadlines-1850295701)
 - [Dev.to/JS] [REACT 2023 still the masterpiece, The Paradigm, serious business](https://dev.to/ecrider/react-2023-still-the-masterpiece-the-paradigm-serious-business-27g3)
 - [Dev.to/JS] [JavaScript Destructuring.](https://dev.to/frankymolina/javascript-destructuring-55bo)
-- [Lifehacker] [Make This Five-Minute Breakfast Taco in Your Air Fryer](https://lifehacker.com/make-this-five-minute-breakfast-taco-in-your-air-fryer-1850295508)
+- [Lifehacker] [Make This Seven-Minute Breakfast Taco in Your Air Fryer](https://lifehacker.com/make-this-five-minute-breakfast-taco-in-your-air-fryer-1850295508)
 - [Dev.to/JS] [Super Apps: React Optimizations Tools that are Nice to Use](https://dev.to/judeebekes67/super-apps-react-optimizations-tools-that-are-nice-to-use-2649)
 - [Dev.to/JS] [Hiệp Dương Phát](https://dev.to/hiepduongphat/hiep-duong-phat-4gk1)
 - [Dev.to/JS] [Get Started with Replit](https://dev.to/patilganesh1010/get-started-with-replit-24bf)
@@ -36,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Hand-Held French Onion Soup Bites](https://lifehacker.com/make-hand-held-french-onion-soup-bites-1850295202)
 - [Lifehacker] [Apple Weather Is Broken, but These Alternatives Aren’t](https://lifehacker.com/the-7-best-weather-apps-to-replace-dark-sky-on-iphone-a-1849951456)
 - [Dev.to/JS] [API basics and React](https://dev.to/amera/api-basics-and-react-5fpk)
-- [Dev.to/JS] [10 GitHub Learning Repositories for Beginner Developers](https://dev.to/ibrahimraimi/10-github-learning-repositories-for-beginner-developers-432)
 - [Lifehacker] [Stop Believing These College Scholarship Myths](https://lifehacker.com/stop-believing-these-college-scholarship-myths-1850287370)
-- [Dev.to/JS] [About Amazon SNS &amp; Pub/Sub Architecture](https://dev.to/aws-builders/about-amazon-sns-pubsub-architecture-3n07)
-- [Dev.to/JS] [How to Consume GraphQL API with Apollo Client in a Reactjs Application](https://dev.to/stephengade/how-to-consume-graphql-api-with-apollo-client-in-a-reactjs-application-d1o)
 - [Lifehacker] [The Easiest Way to Make Small Talk Less Painful](https://lifehacker.com/the-easiest-way-to-make-small-talk-less-painful-1850294888)
 - [Lifehacker] [How to Spot a Fake-Ass Website](https://lifehacker.com/how-to-spot-a-fake-ass-website-1850289388)
 - [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
 - [Lifehacker] [What Happens When You Get Indicted](https://lifehacker.com/what-happens-when-you-get-indicted-1850287686)
 - [Lifehacker] [Celebrate With a Well-Timed Free Cone From Ben &amp; Jerry’s](https://lifehacker.com/celebrate-with-a-well-timed-free-cone-from-ben-jerry-1850284677)
-- [Lifehacker] [You Can Use Newspaper and Other Household Junk to Deter Weeds](https://lifehacker.com/you-can-use-newspaper-and-other-household-junk-to-deter-1850287806)
-- [Lifehacker] [Surprisingly Useful Ways to Use Tension Rods Around Your Home](https://lifehacker.com/surprisingly-useful-ways-to-use-tension-rods-around-you-1850287393)
-- [Lifehacker] [Turn Cottage Cheese Into a Creamy, Protein-Packed Pasta Sauce](https://lifehacker.com/turn-cottage-cheese-into-a-creamy-protein-packed-pasta-1850285219)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Use Newspaper and Other Household Junk to Deter Weeds](https://lifehacker.com/you-can-use-newspaper-and-other-household-junk-to-deter-1850287806)<!-- TECH-POSTS:END -->
 
 ---
 
