@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Design Pattern: Strategy &lpar;TS&rpar;](https://dev.to/daniyarotynshin/design-pattern-strategy-ts-3e55)
+- [Dev.to/JS] [Hello Developer](https://dev.to/samuela10019253/hello-developer-p07)
 - [Dev.to/JS] [Fetch&lpar;&rpar; Requests](https://dev.to/alelda/fetch-requests-2obe)
 - [Dev.to/JS] [[React] Render Props Pattern](https://dev.to/jgamaraalv/react-render-props-pattern-314j)
 - [Dev.to/JS] [Nextjs 13 on demand revalidation](https://dev.to/wiktorkujawa/nextjs-13-on-demand-revalidation-5ig)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding the typeof Operator in JavaScript](https://dev.to/makstyle119/understanding-the-typeof-operator-in-javascript-1pa4)
 - [Lifehacker] [This Southwest Airlines Deal Will Let Your Companion Fly for Free](https://lifehacker.com/this-southwest-airlines-deal-will-let-your-companion-fl-1850299192)
 - [Lifehacker] [Give Your Cookies a Helpful Oat Bottom](https://lifehacker.com/give-your-cookies-a-helpful-oat-bottom-1850296277)
-- [Dev.to/JS] [Medusa: A New Way to Build Commerce](https://dev.to/medusajs/medusa-a-new-way-to-build-commerce-4hia)
 - [Lifehacker] [Some of You Are Tying Your Shoes Wrong](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979)
-- [Dev.to/JS] [Moonly weekly progress update #43](https://dev.to/moonly/moonly-weekly-progress-update-43-2mh9)
 - [Lifehacker] [You Should Waffle Your Sausage Biscuit](https://lifehacker.com/easy-breakfast-waffle-your-next-sausage-biscuit-1850296206)
 - [Lifehacker] [How to Not Get Scammed Buying Event Tickets](https://lifehacker.com/how-to-not-get-scammed-buying-event-tickets-1850296220)
 - [Lifehacker] [Don’t Let These April Class-Action Settlement Deadlines Pass You By](https://lifehacker.com/don-t-let-these-april-class-action-settlement-deadlines-1850295701)
