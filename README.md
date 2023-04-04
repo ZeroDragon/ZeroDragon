@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Integrate PayPal with HTML, CSS and Javascript](https://dev.to/evansifyke/how-to-integrate-paypal-with-html-css-and-javascript-2mnb)
+- [Dev.to/JS] [How to find Top AngularJS Development Companies?](https://dev.to/leahgreene67/how-to-find-top-angularjs-development-companies-1mld)
+- [Dev.to/JS] [Deploy your React app using GitHub pages](https://dev.to/ayushsoni1010/deploy-your-react-app-using-github-pages-526i)
+- [Dev.to/JS] [The Future of JavaScript](https://dev.to/ellaidevs/the-future-of-javascript-1aeb)
+- [Dev.to/JS] [Custom validation for nested loop,](https://dev.to/narendra1623/custom-validation-for-nested-loop-2abh)
 - [Dev.to/JS] [Linux Devs Rejoice: A Comprehensive Guide to Setting Up Your React Native Development Environment](https://dev.to/pratik280/linux-devs-rejoice-a-comprehensive-guide-to-setting-up-your-react-native-development-environment-55p4)
 - [Dev.to/JS] [Mastering JavaScript: Copy Items like a Pro with These Simple Tips!](https://dev.to/wizdomtek/mastering-javascript-copy-items-like-a-pro-with-these-simple-tips-1m7b)
 - [Dev.to/JS] [Conditional Statements in JavaScript: Switch](https://dev.to/max24816/conditional-statements-in-javascript-switch-53l)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useState or useReducer – which to choose for your application](https://dev.to/m_adams1909/usestate-or-usereducer-which-to-choose-for-your-application-ia5)
 - [Dev.to/JS] [Implementando o Debounce no React: Melhorando a Experiência do Usuário em Eventos de Entrada](https://dev.to/bduarte10/implementando-o-debounce-no-react-melhorando-a-experiencia-do-usuario-em-eventos-de-entrada-56nc)
 - [Dev.to/JS] [How to add hours to datetime using javascript](https://dev.to/rinaldycodes/how-to-add-hours-to-datetime-using-javascript-37of)
-- [Dev.to/JS] [Migrating from Monolithic E-commerce Platforms to MedusaJS: A Guide for Team Leads and Project managers](https://dev.to/umoren/migrating-from-monolithic-e-commerce-platforms-to-medusajs-a-guide-for-team-leads-and-project-managers-1d22)
-- [Dev.to/JS] [What programming languages should I learn to become a software engineer?](https://dev.to/sukr92329/what-programming-languages-should-i-learn-to-become-a-software-engineer-5f6f)
-- [Dev.to/JS] [A Guide to HTTP POST requests in JavaScript](https://dev.to/asayerio_techblog/a-guide-to-http-post-requests-in-javascript-54f6)
-- [Dev.to/JS] [Build a Weather App with Vanilla JS](https://dev.to/asayerio_techblog/build-a-weather-app-with-vanilla-js-2lfc)
-- [Dev.to/JS] [The Imposter](https://dev.to/sluvish1/the-imposter-5769)
 - [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
 - [Lifehacker] [The Beginner&#39;s Guide to Lining a Bamboo Steamer](https://lifehacker.com/the-beginners-guide-to-lining-a-bamboo-steamer-1850289545)
 - [Lifehacker] [How to Pose for the Perfect Mugshot](https://lifehacker.com/how-to-pose-for-the-perfect-mugshot-1850290334)
