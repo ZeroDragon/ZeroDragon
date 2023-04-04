@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Medusa: A New Way to Build Commerce](https://dev.to/medusajs/medusa-a-new-way-to-build-commerce-4hia)
+- [Lifehacker] [Some of You Are Tying Your Shoes Wrong](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979)
+- [Dev.to/JS] [Moonly weekly progress update #43](https://dev.to/moonly/moonly-weekly-progress-update-43-2mh9)
+- [Dev.to/JS] [Unleashing the Power of Google Maps API in Your React App](https://dev.to/darkterminal/unleashing-the-power-of-google-maps-api-in-your-react-app-17cd)
 - [Lifehacker] [You Should Waffle Your Sausage Biscuit](https://lifehacker.com/easy-breakfast-waffle-your-next-sausage-biscuit-1850296206)
 - [Lifehacker] [How to Not Get Scammed Buying Event Tickets](https://lifehacker.com/how-to-not-get-scammed-buying-event-tickets-1850296220)
 - [Dev.to/JS] [framer-motion-carousel](https://dev.to/jiangbo2015/framer-motion-carousel-2d7l)
@@ -36,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hiệp Dương Phát](https://dev.to/hiepduongphat/hiep-duong-phat-4gk1)
 - [Dev.to/JS] [Get Started with Replit](https://dev.to/patilganesh1010/get-started-with-replit-24bf)
 - [Dev.to/JS] [Launch Week Day 2 - Community Help](https://dev.to/payloadcms/launch-week-day-2-community-help-2l0g)
-- [Dev.to/JS] [Launch Week Day 1 - Payload Cloud is here](https://dev.to/payloadcms/launch-week-day-1-payload-cloud-is-here-563f)
-- [Dev.to/JS] [Understanding npm Versioning](https://dev.to/typescripttv/understanding-npm-versioning-3hn4)
 - [Lifehacker] [Make Hand-Held French Onion Soup Bites](https://lifehacker.com/make-hand-held-french-onion-soup-bites-1850295202)
 - [Lifehacker] [Apple Weather Is Broken, but These Alternatives Aren’t](https://lifehacker.com/the-7-best-weather-apps-to-replace-dark-sky-on-iphone-a-1849951456)
-- [Dev.to/JS] [API basics and React](https://dev.to/amera/api-basics-and-react-5fpk)
 - [Lifehacker] [Stop Believing These College Scholarship Myths](https://lifehacker.com/stop-believing-these-college-scholarship-myths-1850287370)
 - [Lifehacker] [The Easiest Way to Make Small Talk Less Painful](https://lifehacker.com/the-easiest-way-to-make-small-talk-less-painful-1850294888)
 - [Lifehacker] [How to Spot a Fake-Ass Website](https://lifehacker.com/how-to-spot-a-fake-ass-website-1850289388)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
 - [Lifehacker] [What Happens When You Get Indicted](https://lifehacker.com/what-happens-when-you-get-indicted-1850287686)
-- [Lifehacker] [Celebrate With a Well-Timed Free Cone From Ben &amp; Jerry’s](https://lifehacker.com/celebrate-with-a-well-timed-free-cone-from-ben-jerry-1850284677)
-- [Lifehacker] [You Can Use Newspaper and Other Household Junk to Deter Weeds](https://lifehacker.com/you-can-use-newspaper-and-other-household-junk-to-deter-1850287806)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Celebrate With a Well-Timed Free Cone From Ben &amp; Jerry’s](https://lifehacker.com/celebrate-with-a-well-timed-free-cone-from-ben-jerry-1850284677)<!-- TECH-POSTS:END -->
 
 ---
 
