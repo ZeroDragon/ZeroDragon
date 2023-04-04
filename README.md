@@ -23,10 +23,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don’t Let These April Class-Action Settlement Deadlines Pass You By](https://lifehacker.com/don-t-let-these-april-class-action-settlement-deadlines-1850295701)
+- [Dev.to/JS] [REACT 2023 still the masterpiece, The Paradigm, serious business](https://dev.to/ecrider/react-2023-still-the-masterpiece-the-paradigm-serious-business-27g3)
+- [Dev.to/JS] [JavaScript Destructuring.](https://dev.to/frankymolina/javascript-destructuring-55bo)
+- [Lifehacker] [Make This Five-Minute Breakfast Taco in Your Air Fryer](https://lifehacker.com/make-this-five-minute-breakfast-taco-in-your-air-fryer-1850295508)
+- [Dev.to/JS] [Super Apps: React Optimizations Tools that are Nice to Use](https://dev.to/judeebekes67/super-apps-react-optimizations-tools-that-are-nice-to-use-2649)
+- [Dev.to/JS] [Hiệp Dương Phát](https://dev.to/hiepduongphat/hiep-duong-phat-4gk1)
+- [Dev.to/JS] [Get Started with Replit](https://dev.to/patilganesh1010/get-started-with-replit-24bf)
+- [Dev.to/JS] [Launch Week Day 2 - Community Help](https://dev.to/payloadcms/launch-week-day-2-community-help-2l0g)
 - [Dev.to/JS] [Launch Week Day 1 - Payload Cloud is here](https://dev.to/payloadcms/launch-week-day-1-payload-cloud-is-here-563f)
 - [Dev.to/JS] [Understanding npm Versioning](https://dev.to/typescripttv/understanding-npm-versioning-3hn4)
 - [Lifehacker] [Make Hand-Held French Onion Soup Bites](https://lifehacker.com/make-hand-held-french-onion-soup-bites-1850295202)
-- [Dev.to/JS] [JavaScript Destructuring.](https://dev.to/frankyob/javascript-destructuring-314e)
 - [Lifehacker] [Apple Weather Is Broken, but These Alternatives Aren’t](https://lifehacker.com/the-7-best-weather-apps-to-replace-dark-sky-on-iphone-a-1849951456)
 - [Dev.to/JS] [API basics and React](https://dev.to/amera/api-basics-and-react-5fpk)
 - [Dev.to/JS] [10 GitHub Learning Repositories for Beginner Developers](https://dev.to/ibrahimraimi/10-github-learning-repositories-for-beginner-developers-432)
@@ -34,11 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [About Amazon SNS &amp; Pub/Sub Architecture](https://dev.to/aws-builders/about-amazon-sns-pubsub-architecture-3n07)
 - [Dev.to/JS] [How to Consume GraphQL API with Apollo Client in a Reactjs Application](https://dev.to/stephengade/how-to-consume-graphql-api-with-apollo-client-in-a-reactjs-application-d1o)
 - [Lifehacker] [The Easiest Way to Make Small Talk Less Painful](https://lifehacker.com/the-easiest-way-to-make-small-talk-less-painful-1850294888)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Equalização de Matrix sobre Inteiros.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-equalizacao-de-matrix-sobre-inteiros-4e3o)
-- [Dev.to/JS] [How I made my first 1000$ as a technical writer](https://dev.to/obeyadaniel/how-i-made-my-first-1000-as-a-technical-writer-5fm)
-- [Dev.to/JS] [How to check update react PWA app](https://dev.to/rinaldycodes/how-to-check-update-react-pwa-app-1792)
-- [Dev.to/JS] [Gerenciando estados globais de forma eficiente](https://dev.to/demgoncalves/gerenciando-estados-globais-de-forma-eficiente-3bkb)
-- [Dev.to/JS] [Ultimate Guide to Big O Notation in 2023 | A Comprehensive Cheatsheet](https://dev.to/fueler/ultimate-guide-to-big-o-notation-in-2023-a-comprehensive-cheatsheet-589o)
 - [Lifehacker] [How to Spot a Fake-Ass Website](https://lifehacker.com/how-to-spot-a-fake-ass-website-1850289388)
 - [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
 - [Lifehacker] [The Beginner&#39;s Guide to Lining a Bamboo Steamer](https://lifehacker.com/the-beginners-guide-to-lining-a-bamboo-steamer-1850289545)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Celebrate With a Well-Timed Free Cone From Ben &amp; Jerry’s](https://lifehacker.com/celebrate-with-a-well-timed-free-cone-from-ben-jerry-1850284677)
 - [Lifehacker] [You Can Use Newspaper and Other Household Junk to Deter Weeds](https://lifehacker.com/you-can-use-newspaper-and-other-household-junk-to-deter-1850287806)
 - [Lifehacker] [Surprisingly Useful Ways to Use Tension Rods Around Your Home](https://lifehacker.com/surprisingly-useful-ways-to-use-tension-rods-around-you-1850287393)
-- [Lifehacker] [Turn Cottage Cheese Into a Creamy, Protein-Packed Pasta Sauce](https://lifehacker.com/turn-cottage-cheese-into-a-creamy-protein-packed-pasta-1850285219)
-- [Lifehacker] [Give Your Cheeseball a Festive Easter Makeover](https://lifehacker.com/give-your-cheeseball-a-festive-easter-makeover-1850284595)
-- [Lifehacker] [There’s a Better Way to Organize Your Freezer](https://lifehacker.com/there-s-a-better-way-to-organize-your-freezer-1850284246)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Turn Cottage Cheese Into a Creamy, Protein-Packed Pasta Sauce](https://lifehacker.com/turn-cottage-cheese-into-a-creamy-protein-packed-pasta-1850285219)<!-- TECH-POSTS:END -->
 
 ---
 
