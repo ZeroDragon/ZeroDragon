@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why JavaScript is a Great Programming Language for Beginners](https://dev.to/max88git/why-javascript-is-a-great-programming-language-for-beginners-2fj6)
+- [Dev.to/JS] [Getting Started with React Testing Library](https://dev.to/abdulkareemtpm/getting-started-with-react-testing-library-nl7)
+- [Dev.to/JS] [Flutterwave vs JavaScript](https://dev.to/admud97/flutterwave-vs-javascript-34j9)
 - [Dev.to/JS] [Build A Simple Web App With Sveltekit and Appwrite](https://dev.to/n3rd/build-a-simple-web-app-with-sveltekit-and-appwrite-1bb8)
 - [Dev.to/JS] [Buy Ivermectin Online](https://dev.to/paxtonpark44/buy-ivermectin-online-4km8)
 - [Dev.to/JS] [The Ethics of Artificial Intelligence in Modern Technology](https://dev.to/chidiebereomasi/the-ethics-of-artificial-intelligence-in-modern-technology-1p96)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Leetcode 409: Longest Palindrome](https://dev.to/blakeahalt/leetcode-409-longest-palindrome-2o3l)
 - [Dev.to/JS] [Create a snake game using ChatGPT-4.](https://dev.to/hr21don/create-a-snake-game-using-chatgpt-4-3977)
 - [Dev.to/JS] [How to upload files/images to Netlify Functions](https://dev.to/willkre/how-to-upload-filesimages-to-netlify-functions-32m7)
-- [Dev.to/JS] [React: The Reconciliation Algorithm](https://dev.to/anoopsingh1996/react-the-reconciliation-algorithm-1231)
-- [Dev.to/JS] [Difference Between Artificial Intelligence and Machine Learning](https://dev.to/alikazizeeshan/difference-between-artificial-intelligence-and-machine-learning-5f3c)
-- [Dev.to/JS] [Desenvolvimento de aplicativos web com frameworks JavaScript e os princípios do PESPA](https://dev.to/angellicaaraujo/desenvolvimento-de-aplicativos-web-com-frameworks-javascript-e-os-principios-do-pespa-j1)
 - [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
 - [Lifehacker] [The Beginner&#39;s Guide to Lining a Bamboo Steamer](https://lifehacker.com/the-beginners-guide-to-lining-a-bamboo-steamer-1850289545)
 - [Lifehacker] [How to Pose for the Perfect Mugshot](https://lifehacker.com/how-to-pose-for-the-perfect-mugshot-1850290334)
