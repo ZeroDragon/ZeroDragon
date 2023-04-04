@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding the typeof Operator in JavaScript](https://dev.to/makstyle119/understanding-the-typeof-operator-in-javascript-1pa4)
+- [Lifehacker] [This Southwest Airlines Deal Will Let Your Companion Fly for Free](https://lifehacker.com/this-southwest-airlines-deal-will-let-your-companion-fl-1850299192)
+- [Lifehacker] [Give Your Cookies a Helpful Oat Bottom](https://lifehacker.com/give-your-cookies-a-helpful-oat-bottom-1850296277)
 - [Dev.to/JS] [Medusa: A New Way to Build Commerce](https://dev.to/medusajs/medusa-a-new-way-to-build-commerce-4hia)
 - [Lifehacker] [Some of You Are Tying Your Shoes Wrong](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979)
 - [Dev.to/JS] [Moonly weekly progress update #43](https://dev.to/moonly/moonly-weekly-progress-update-43-2mh9)
@@ -37,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Destructuring.](https://dev.to/frankymolina/javascript-destructuring-55bo)
 - [Lifehacker] [Make This Seven-Minute Breakfast Taco in Your Air Fryer](https://lifehacker.com/make-this-five-minute-breakfast-taco-in-your-air-fryer-1850295508)
 - [Dev.to/JS] [Super Apps: React Optimizations Tools that are Nice to Use](https://dev.to/judeebekes67/super-apps-react-optimizations-tools-that-are-nice-to-use-2649)
-- [Dev.to/JS] [Hiệp Dương Phát](https://dev.to/hiepduongphat/hiep-duong-phat-4gk1)
 - [Dev.to/JS] [Get Started with Replit](https://dev.to/patilganesh1010/get-started-with-replit-24bf)
 - [Dev.to/JS] [Launch Week Day 2 - Community Help](https://dev.to/payloadcms/launch-week-day-2-community-help-2l0g)
 - [Lifehacker] [Make Hand-Held French Onion Soup Bites](https://lifehacker.com/make-hand-held-french-onion-soup-bites-1850295202)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Django 4.2 Released: New Features and Long-Term Support](https://www.thecrazyprogrammer.com/2023/04/django-4-2-released.html)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
 - [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)
-- [Lifehacker] [What Happens When You Get Indicted](https://lifehacker.com/what-happens-when-you-get-indicted-1850287686)
-- [Lifehacker] [Celebrate With a Well-Timed Free Cone From Ben &amp; Jerry’s](https://lifehacker.com/celebrate-with-a-well-timed-free-cone-from-ben-jerry-1850284677)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)<!-- TECH-POSTS:END -->
 
 ---
 
