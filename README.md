@@ -23,7 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [graphQL VS api-graph with 2 examples](https://dev.to/ahmedsudani/graphql-vs-api-graph-with-2-examples-34f6)
+- [Dev.to/JS] [How to Promote your Online Business](https://dev.to/webvyaparindia/how-to-promote-your-online-business-40eb)
+- [Dev.to/JS] [GraphQL VS API Graph with 2 same examples](https://dev.to/ahmedsudani/graphql-vs-api-graph-with-2-examples-34f6)
 - [Dev.to/JS] [Leetcode 409: Longest Palindrome](https://dev.to/blakeahalt/leetcode-409-longest-palindrome-2o3l)
 - [Dev.to/JS] [Create a snake game using ChatGPT-4.](https://dev.to/hr21don/create-a-snake-game-using-chatgpt-4-3977)
 - [Dev.to/JS] [How to upload files/images to Netlify Functions](https://dev.to/willkre/how-to-upload-filesimages-to-netlify-functions-32m7)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Fundamentals](https://dev.to/fredie_aponte_28c04a9b601/react-fundamentals-49m1)
 - [Dev.to/JS] [How to Integrate PayPal with HTML, CSS and Javascript](https://dev.to/evansifyke/how-to-integrate-paypal-with-html-css-and-javascript-2mnb)
 - [Dev.to/JS] [How to find Top AngularJS Development Companies?](https://dev.to/leahgreene67/how-to-find-top-angularjs-development-companies-1mld)
-- [Dev.to/JS] [Deploy your React app using GitHub pages](https://dev.to/ayushsoni1010/deploy-your-react-app-using-github-pages-526i)
 - [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
 - [Lifehacker] [The Beginner&#39;s Guide to Lining a Bamboo Steamer](https://lifehacker.com/the-beginners-guide-to-lining-a-bamboo-steamer-1850289545)
 - [Lifehacker] [How to Pose for the Perfect Mugshot](https://lifehacker.com/how-to-pose-for-the-perfect-mugshot-1850290334)
