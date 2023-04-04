@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Performance of the spread operator](https://dev.to/petrtcoi/performance-of-the-spread-operator-2bpk)
+- [Dev.to/JS] [API testing for the win](https://dev.to/philipfong/api-testing-for-the-win-1o2i)
+- [Dev.to/JS] [Paracetamol.js💊| #216: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-216-explica-este-codigo-javascript-4g6d)
 - [Dev.to/JS] [Understanding the typeof Operator in JavaScript](https://dev.to/makstyle119/understanding-the-typeof-operator-in-javascript-1pa4)
 - [Lifehacker] [This Southwest Airlines Deal Will Let Your Companion Fly for Free](https://lifehacker.com/this-southwest-airlines-deal-will-let-your-companion-fl-1850299192)
 - [Lifehacker] [Give Your Cookies a Helpful Oat Bottom](https://lifehacker.com/give-your-cookies-a-helpful-oat-bottom-1850296277)
@@ -39,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [REACT 2023 still the masterpiece, The Paradigm, serious business](https://dev.to/ecrider/react-2023-still-the-masterpiece-the-paradigm-serious-business-27g3)
 - [Dev.to/JS] [JavaScript Destructuring.](https://dev.to/frankymolina/javascript-destructuring-55bo)
 - [Lifehacker] [Make This Seven-Minute Breakfast Taco in Your Air Fryer](https://lifehacker.com/make-this-five-minute-breakfast-taco-in-your-air-fryer-1850295508)
-- [Dev.to/JS] [Super Apps: React Optimizations Tools that are Nice to Use](https://dev.to/judeebekes67/super-apps-react-optimizations-tools-that-are-nice-to-use-2649)
-- [Dev.to/JS] [Get Started with Replit](https://dev.to/patilganesh1010/get-started-with-replit-24bf)
-- [Dev.to/JS] [Launch Week Day 2 - Community Help](https://dev.to/payloadcms/launch-week-day-2-community-help-2l0g)
 - [Lifehacker] [Make Hand-Held French Onion Soup Bites](https://lifehacker.com/make-hand-held-french-onion-soup-bites-1850295202)
 - [Lifehacker] [Apple Weather Is Broken, but These Alternatives Aren’t](https://lifehacker.com/the-7-best-weather-apps-to-replace-dark-sky-on-iphone-a-1849951456)
 - [Lifehacker] [Stop Believing These College Scholarship Myths](https://lifehacker.com/stop-believing-these-college-scholarship-myths-1850287370)
