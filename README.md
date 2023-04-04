@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to add hours to datetime using javascript](https://dev.to/rinaldycodes/how-to-add-hours-to-datetime-using-javascript-37of)
 - [Dev.to/JS] [Migrating from Monolithic E-commerce Platforms to MedusaJS: A Guide for Team Leads and Project managers](https://dev.to/umoren/migrating-from-monolithic-e-commerce-platforms-to-medusajs-a-guide-for-team-leads-and-project-managers-1d22)
 - [Dev.to/JS] [What programming languages should I learn to become a software engineer?](https://dev.to/sukr92329/what-programming-languages-should-i-learn-to-become-a-software-engineer-5f6f)
 - [Dev.to/JS] [A Guide to HTTP POST requests in JavaScript](https://dev.to/asayerio_techblog/a-guide-to-http-post-requests-in-javascript-54f6)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Node.js for Automated Testing and Continuous Integration](https://dev.to/folasayosamuel/using-nodejs-for-automated-testing-and-continuous-integration-36k5)
 - [Dev.to/JS] [Creating a Travel Journal with React](https://dev.to/michaellarocca/creating-a-travel-journal-with-react-579j)
 - [Dev.to/JS] [How to use chat gpt as a developer?🚀](https://dev.to/rafikadir/how-to-use-chat-gpt-as-a-developer-gcd)
-- [Dev.to/JS] [Building a Large Scale Micro-frontend Application.](https://dev.to/cesscode/building-a-large-scale-micro-frontend-application-dh5)
 - [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
 - [Lifehacker] [The Beginner&#39;s Guide to Lining a Bamboo Steamer](https://lifehacker.com/the-beginners-guide-to-lining-a-bamboo-steamer-1850289545)
 - [Lifehacker] [How to Pose for the Perfect Mugshot](https://lifehacker.com/how-to-pose-for-the-perfect-mugshot-1850290334)
