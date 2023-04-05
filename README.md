@@ -23,7 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Lifehacker] [These Are the Best National Burrito Day Deals](https://lifehacker.com/these-are-the-best-national-burrito-day-deals-1850304305)
+- [Dev.to/JS] [Loop Types &amp; Working With Arrays](https://dev.to/sarahjones016/loop-types-working-with-arrays-1idg)
+- [Lifehacker] [Where to Stuff Your Face With Free &lpar;or Cheap&rpar; Burritos on National Burrito Day](https://lifehacker.com/these-are-the-best-national-burrito-day-deals-1850304305)
 - [Dev.to/JS] [Alas... Tetris](https://dev.to/tjstoll/alas-tetris-51fe)
 - [Dev.to/JS] [3.7 - Astro 2.0 with Matthew Phillips](https://dev.to/codingcatdev/37-astro-20-with-matthew-phillips-1m4k)
 - [Lifehacker] [How to Become an Astronaut](https://lifehacker.com/how-to-become-an-astronaut-1850301846)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simulating SIMD in JS](https://dev.to/tracygjg/simulating-simd-in-js-3914)
 - [Dev.to/JS] [From padawan to Jedi - boost your dev skills with the Ultimate Todo App](https://dev.to/sergiopereira/from-padawan-to-jedi-boost-your-dev-skills-with-the-ultimate-todo-app-155l)
 - [Lifehacker] [Do You Tip Every Time You’re Asked?](https://lifehacker.com/do-you-tip-every-time-you-re-asked-1850299586)
-- [Dev.to/JS] [console.log is slow](https://dev.to/adam_cyclones/consolelog-is-slow-2a2b)
 - [Lifehacker] [The Best Grilled Cheese Bread Is an Inside-Out Croissant](https://lifehacker.com/best-grilled-cheese-bread-is-a-croissant-1850299203)
 - [Lifehacker] [This Is the Cheapest and Easiest Way to Clean Up Pet Hair](https://lifehacker.com/this-is-the-cheapest-and-easiest-way-to-clean-up-pet-ha-1850298203)
 - [Lifehacker] [Why You Should Always Sign Up for Subscriptions in a Browser, Not the App](https://lifehacker.com/dont-sign-up-for-subscriptions-in-the-app-1850298355)
