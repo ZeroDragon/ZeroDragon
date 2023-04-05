@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rust-Based Web Development Tools -- The Future of Infrastructure, but be cautious!](https://dev.to/fritzlolpro/rust-based-web-development-tools-the-future-of-infrastructure-but-be-cautious-46kl)
+- [Dev.to/JS] [Revolutionize Your React App with Redux: A Beginner&#39;s Guide to Simplifying State Management&lpar;PART 1&rpar;](https://dev.to/clericcoder/revolutionize-your-react-app-with-redux-a-beginners-guide-to-simplifying-state-managementpart-1-1ef7)
+- [Dev.to/JS] [DevOps for people](https://dev.to/dimensioncloud/devops-for-people-176l)
 - [Dev.to/JS] [Linting with Eslint](https://dev.to/zsevic/linting-with-eslint-1ae7)
 - [Dev.to/JS] [Asynchronous JavaScript: Promises Async Await!](https://dev.to/cybermaxi7/asynchronous-javascript-promises-async-await-1402)
 - [Dev.to/JS] [Loop Types &amp; Working With Arrays](https://dev.to/sarahjones016/loop-types-working-with-arrays-1idg)
@@ -37,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get Crispy Fish Skin Every Time, Without Resorting to Gimmicks](https://lifehacker.com/get-crispy-fish-skin-every-time-without-resorting-to-g-1850300533)
 - [Lifehacker] [It&#39;s Time for a Spending Audit](https://lifehacker.com/its-time-for-a-spending-audit-1850297815)
 - [Dev.to/JS] [TED Talks That all programmers must see](https://dev.to/jon_snow789/ted-talks-that-all-programmers-must-see-480b)
-- [Dev.to/JS] [Ordenar un array en JavaScript basado en el valor de un subarray](https://dev.to/asjordi/ordenar-un-array-en-javascript-basado-en-el-valor-de-un-subarray-924)
 - [Lifehacker] [Try These Exercises Instead of Hip Thrusts](https://lifehacker.com/try-these-exercises-instead-of-hip-thrusts-1850299216)
-- [Dev.to/JS] [How to use Object Detection API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-object-detection-api-with-javascript-in-5-minutes-174b)
 - [Lifehacker] [Put a &#39;Mess Basket&#39; in Every Room](https://lifehacker.com/put-a-mess-basket-in-every-room-1850299149)
-- [Dev.to/JS] [Angular starting files explanation for beginners](https://dev.to/tomwebwalker/angular-starting-files-explanation-for-beginners-15cp)
 - [Lifehacker] [Do You Tip Every Time You’re Asked?](https://lifehacker.com/do-you-tip-every-time-you-re-asked-1850299586)
 - [Lifehacker] [The Best Grilled Cheese Bread Is an Inside-Out Croissant](https://lifehacker.com/best-grilled-cheese-bread-is-a-croissant-1850299203)
 - [Lifehacker] [This Is the Cheapest and Easiest Way to Clean Up Pet Hair](https://lifehacker.com/this-is-the-cheapest-and-easiest-way-to-clean-up-pet-ha-1850298203)
