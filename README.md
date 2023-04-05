@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to make all card height is same in mui?](https://dev.to/jacksonkasi/how-to-make-all-card-height-is-same-in-mui-3j57)
 - [Dev.to/JS] [Javascript Proxy](https://dev.to/mrh0200/javascript-proxy-1lfn)
 - [Dev.to/JS] [10 Cool CodePen Demos &lpar;March 23&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-march-23-484p)
 - [Dev.to/JS] [Material UI, etc.../How much needed are bookstores like UI Material, etc...](https://dev.to/duendeintemporal/material-ui-etchow-much-needed-are-bookstores-like-ui-material-etc-dpp)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hello Developer](https://dev.to/samuela10019253/hello-developer-p07)
 - [Dev.to/JS] [Fetch&lpar;&rpar; Requests](https://dev.to/alelda/fetch-requests-2obe)
 - [Dev.to/JS] [[React] Render Props Pattern](https://dev.to/jgamaraalv/react-render-props-pattern-314j)
-- [Dev.to/JS] [Nextjs 13 on demand revalidation](https://dev.to/wiktorkujawa/nextjs-13-on-demand-revalidation-5ig)
 - [Lifehacker] [This Southwest Airlines Deal Will Let Your Companion Fly for Free](https://lifehacker.com/this-southwest-airlines-deal-will-let-your-companion-fl-1850299192)
 - [Lifehacker] [Give Your Cookies a Helpful Oat Bottom](https://lifehacker.com/give-your-cookies-a-helpful-oat-bottom-1850296277)
 - [Lifehacker] [Some of You Are Tying Your Shoes Wrong](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979)
