@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Object #5](https://dev.to/samr/javascript-object-5-4nke)
+- [Dev.to/JS] [MongoDB Ditches Tradition, Pushes Developers to Download Software Separately.](https://dev.to/zenodavids/mongodb-ditches-tradition-pushes-developers-to-download-software-separately-4bo2)
+- [Dev.to/JS] [Some of the most prevalent tech stacks that programmers frequently use.](https://dev.to/chidiebereomasi/some-of-the-most-prevalent-tech-stacks-that-programmers-frequently-use-295l)
 - [Dev.to/JS] [My first glance at functional programming](https://dev.to/allieschen/my-first-glance-at-functional-programming-281j)
 - [Dev.to/JS] [Javascript Object #4](https://dev.to/samr/javascript-object-4-26n7)
 - [Dev.to/JS] [Is this &lpar;keyword&rpar; a problem?](https://dev.to/nikolasbarwicki/is-this-keyword-a-problem-1ind)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [8 Awesome VS Code Extensions for JavaScript Developers](https://dev.to/bobbyiliev/8-awesome-vs-code-extensions-for-javascript-developers-4dh1)
 - [Dev.to/JS] [Effortlessly Deploy 🚀 Next.js Projects with Vercel](https://dev.to/sidjs/effortlessly-deploy-nextjs-projects-with-vercel-2omg)
 - [Dev.to/JS] [How to Build My First Deno Application](https://dev.to/danywalls/how-to-build-my-first-deno-application-5g8j)
-- [Dev.to/JS] [5+ Tips For Building Custom Headless CMS](https://dev.to/flatlogic/5-tips-for-building-custom-headless-cms-4gmm)
-- [Dev.to/JS] [Creating a Custom Theme System With TailwindCSS](https://dev.to/nitinfab/creating-a-custom-theme-system-with-tailwindcss-abk)
-- [Dev.to/JS] [google chrome pdf extension](https://dev.to/gurupetach/google-chrome-pdf-extension-15k5)
 - [Lifehacker] [This Southwest Airlines Deal Will Let Your Companion Fly for Free](https://lifehacker.com/this-southwest-airlines-deal-will-let-your-companion-fl-1850299192)
 - [Lifehacker] [Give Your Cookies a Helpful Oat Bottom](https://lifehacker.com/give-your-cookies-a-helpful-oat-bottom-1850296277)
 - [Lifehacker] [Some of You Are Tying Your Shoes Wrong](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979)
