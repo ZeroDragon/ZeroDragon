@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ordenar un array en JavaScript basado en el valor de un subarray](https://dev.to/asjordi/ordenar-un-array-en-javascript-basado-en-el-valor-de-un-subarray-924)
+- [Lifehacker] [Try These Exercises Instead of Hip Thrusts](https://lifehacker.com/try-these-exercises-instead-of-hip-thrusts-1850299216)
+- [Dev.to/JS] [How to use Object Detection API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-object-detection-api-with-javascript-in-5-minutes-174b)
+- [Lifehacker] [Put a &#39;Mess Basket&#39; in Every Room](https://lifehacker.com/put-a-mess-basket-in-every-room-1850299149)
+- [Dev.to/JS] [Angular starting files explanation for beginners](https://dev.to/tomwebwalker/angular-starting-files-explanation-for-beginners-15cp)
+- [Dev.to/JS] [Simulating SIMD in JS](https://dev.to/tracygjg/simulating-simd-in-js-3914)
 - [Dev.to/JS] [From padawan to Jedi - boost your dev skills with the Ultimate Todo App](https://dev.to/sergiopereira/from-padawan-to-jedi-boost-your-dev-skills-with-the-ultimate-todo-app-155l)
+- [Lifehacker] [Do You Tip Every Time You’re Asked?](https://lifehacker.com/do-you-tip-every-time-you-re-asked-1850299586)
 - [Dev.to/JS] [console.log is slow](https://dev.to/adam_cyclones/consolelog-is-slow-2a2b)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Contando Strings repetidas](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-contando-strings-repetidas-19d3)
 - [Lifehacker] [The Best Grilled Cheese Bread Is an Inside-Out Croissant](https://lifehacker.com/best-grilled-cheese-bread-is-a-croissant-1850299203)
@@ -35,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #217: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-217-explica-este-codigo-javascript-4ci)
 - [Lifehacker] [How to Get Mud Out of Basically Anything](https://lifehacker.com/get-mud-stains-out-of-anything-1850295339)
 - [Dev.to/JS] [Building React Hooks - Copy to Clipboard](https://dev.to/ekqt/building-react-hooks-copy-to-clipboard-2m9h)
-- [Dev.to/JS] [Why you should learn JavaScript in 2023](https://dev.to/talenttinaapi/why-you-should-learn-javascript-in-2023-14ea)
-- [Dev.to/JS] [A Step-by-Step Guide to Comment Blocking in Python](https://dev.to/fueler/a-step-by-step-guide-to-comment-blocking-in-python-gih)
-- [Dev.to/JS] [DEVELOPER ON FIRE⚡⚡](https://dev.to/sudhanshusingh705/developer-on-fire-4jj8)
-- [Dev.to/JS] [Javascript Object #5](https://dev.to/samr/javascript-object-5-4nke)
 - [Lifehacker] [This Southwest Airlines Deal Will Let Your Companion Fly for Free](https://lifehacker.com/this-southwest-airlines-deal-will-let-your-companion-fl-1850299192)
 - [Lifehacker] [Give Your Cookies a Helpful Oat Bottom](https://lifehacker.com/give-your-cookies-a-helpful-oat-bottom-1850296277)
 - [Lifehacker] [Some of You Are Tying Your Shoes Wrong](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Bacon Salad Immediately](https://lifehacker.com/make-this-bacon-salad-immediately-1850287971)
 - [Lifehacker] [Threaten to Cancel Every Single Subscription](https://lifehacker.com/threaten-to-cancel-every-single-subscription-1850283968)
 - [Lifehacker] [How to Spot Signs of Burnout Culture Before You Accept a Job](https://lifehacker.com/how-to-spot-signs-of-burnout-culture-before-you-accept-1850286182)
-- [Lifehacker] [Fries Are a Crouton](https://lifehacker.com/fries-are-a-crouton-1850289396)
-- [Lifehacker] [Why Your Back Hurts, and What You Can Do About It](https://lifehacker.com/why-your-back-hurts-and-what-you-can-do-about-it-1850289525)
-- [Lifehacker] [Weirdly Practical Ways to Use Toothpaste in Your Yard](https://lifehacker.com/weirdly-practical-ways-to-use-toothpaste-in-your-yard-1850287899)
-- [Lifehacker] [These Are the Best Cheap and Easy No-Cook Foods, According to Reddit](https://lifehacker.com/these-are-the-best-cheap-and-easy-no-cook-foods-accord-1850284712)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Fries Are a Crouton](https://lifehacker.com/fries-are-a-crouton-1850289396)<!-- TECH-POSTS:END -->
 
 ---
 
