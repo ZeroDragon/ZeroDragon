@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code Refactoring Made Easy:5 Proven Tips for Streamlining Your Programming Process](https://dev.to/wizdomtek/code-refactoring-made-easy5-proven-tips-for-streamlining-your-programming-process-3in3)
+- [Dev.to/JS] [How to create a div with a curved bottom](https://dev.to/arnosolo/how-to-create-a-div-with-a-curved-bottom-4i6l)
 - [Dev.to/JS] [Design Pattern: Strategy &lpar;TS&rpar;](https://dev.to/daniyarotynshin/design-pattern-strategy-ts-3e55)
 - [Dev.to/JS] [Hello Developer](https://dev.to/samuela10019253/hello-developer-p07)
 - [Dev.to/JS] [Fetch&lpar;&rpar; Requests](https://dev.to/alelda/fetch-requests-2obe)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚫 Stop using SWITCH, please 🙏](https://dev.to/ivanzm123/stop-using-switch-please-2hif)
 - [Dev.to/JS] [Performance of the spread operator](https://dev.to/petrtcoi/performance-of-the-spread-operator-2bpk)
 - [Dev.to/JS] [API testing for the win](https://dev.to/philipfong/api-testing-for-the-win-1o2i)
-- [Dev.to/JS] [Paracetamol.js💊| #216: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-216-explica-este-codigo-javascript-4g6d)
-- [Dev.to/JS] [Understanding the typeof Operator in JavaScript](https://dev.to/makstyle119/understanding-the-typeof-operator-in-javascript-1pa4)
 - [Lifehacker] [This Southwest Airlines Deal Will Let Your Companion Fly for Free](https://lifehacker.com/this-southwest-airlines-deal-will-let-your-companion-fl-1850299192)
 - [Lifehacker] [Give Your Cookies a Helpful Oat Bottom](https://lifehacker.com/give-your-cookies-a-helpful-oat-bottom-1850296277)
 - [Lifehacker] [Some of You Are Tying Your Shoes Wrong](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979)
