@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Get Crispy Fish Skin Every Time, Without Resorting to Gimmicks](https://lifehacker.com/get-crispy-fish-skin-every-time-without-resorting-to-g-1850300533)
+- [Lifehacker] [It&#39;s Time for a Spending Audit](https://lifehacker.com/its-time-for-a-spending-audit-1850297815)
+- [Dev.to/JS] [TED Talks That all programmers must see](https://dev.to/jon_snow789/ted-talks-that-all-programmers-must-see-480b)
 - [Dev.to/JS] [Ordenar un array en JavaScript basado en el valor de un subarray](https://dev.to/asjordi/ordenar-un-array-en-javascript-basado-en-el-valor-de-un-subarray-924)
 - [Lifehacker] [Try These Exercises Instead of Hip Thrusts](https://lifehacker.com/try-these-exercises-instead-of-hip-thrusts-1850299216)
 - [Dev.to/JS] [How to use Object Detection API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-object-detection-api-with-javascript-in-5-minutes-174b)
@@ -34,14 +37,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [console.log is slow](https://dev.to/adam_cyclones/consolelog-is-slow-2a2b)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Contando Strings repetidas](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-contando-strings-repetidas-19d3)
 - [Lifehacker] [The Best Grilled Cheese Bread Is an Inside-Out Croissant](https://lifehacker.com/best-grilled-cheese-bread-is-a-croissant-1850299203)
-- [Dev.to/JS] [uk mi](https://dev.to/arampq/uk-mi-2i3e)
+- [Dev.to/JS] [Unique ID in Javascript](https://dev.to/arampq/uk-mi-2i3e)
 - [Lifehacker] [This Is the Cheapest and Easiest Way to Clean Up Pet Hair](https://lifehacker.com/this-is-the-cheapest-and-easiest-way-to-clean-up-pet-ha-1850298203)
 - [Dev.to/JS] [Understanding Events in JavaScript](https://dev.to/makstyle119/understanding-events-in-javascript-3n28)
 - [Lifehacker] [Why You Should Always Sign Up for Subscriptions in a Browser, Not the App](https://lifehacker.com/dont-sign-up-for-subscriptions-in-the-app-1850298355)
 - [Dev.to/JS] [File System Javascript Question](https://dev.to/shreyvijayvargiya/file-system-javascript-question-2eg9)
 - [Dev.to/JS] [Paracetamol.js💊| #217: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-217-explica-este-codigo-javascript-4ci)
 - [Lifehacker] [How to Get Mud Out of Basically Anything](https://lifehacker.com/get-mud-stains-out-of-anything-1850295339)
-- [Dev.to/JS] [Building React Hooks - Copy to Clipboard](https://dev.to/ekqt/building-react-hooks-copy-to-clipboard-2m9h)
 - [Lifehacker] [This Southwest Airlines Deal Will Let Your Companion Fly for Free](https://lifehacker.com/this-southwest-airlines-deal-will-let-your-companion-fl-1850299192)
 - [Lifehacker] [Give Your Cookies a Helpful Oat Bottom](https://lifehacker.com/give-your-cookies-a-helpful-oat-bottom-1850296277)
 - [Lifehacker] [Some of You Are Tying Your Shoes Wrong](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This App Is BeReal but for Music](https://lifehacker.com/this-app-is-bereal-but-for-music-1850293764)
 - [Lifehacker] [Now Scammers Can Use AI to Fake Anyone’s Voice](https://lifehacker.com/now-scammers-can-use-ai-to-fake-anyone-s-voice-1850289863)
 - [Lifehacker] [Make This Bacon Salad Immediately](https://lifehacker.com/make-this-bacon-salad-immediately-1850287971)
-- [Lifehacker] [Threaten to Cancel Every Single Subscription](https://lifehacker.com/threaten-to-cancel-every-single-subscription-1850283968)
-- [Lifehacker] [How to Spot Signs of Burnout Culture Before You Accept a Job](https://lifehacker.com/how-to-spot-signs-of-burnout-culture-before-you-accept-1850286182)
-- [Lifehacker] [Fries Are a Crouton](https://lifehacker.com/fries-are-a-crouton-1850289396)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Threaten to Cancel Every Single Subscription](https://lifehacker.com/threaten-to-cancel-every-single-subscription-1850283968)<!-- TECH-POSTS:END -->
 
 ---
 
