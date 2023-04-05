@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [From padawan to Jedi - boost your dev skills with the Ultimate Todo App](https://dev.to/sergiopereira/from-padawan-to-jedi-boost-your-dev-skills-with-the-ultimate-todo-app-155l)
+- [Dev.to/JS] [console.log is slow](https://dev.to/adam_cyclones/consolelog-is-slow-2a2b)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Contando Strings repetidas](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-contando-strings-repetidas-19d3)
+- [Lifehacker] [The Best Grilled Cheese Bread Is an Inside-Out Croissant](https://lifehacker.com/best-grilled-cheese-bread-is-a-croissant-1850299203)
+- [Dev.to/JS] [uk mi](https://dev.to/arampq/uk-mi-2i3e)
 - [Lifehacker] [This Is the Cheapest and Easiest Way to Clean Up Pet Hair](https://lifehacker.com/this-is-the-cheapest-and-easiest-way-to-clean-up-pet-ha-1850298203)
 - [Dev.to/JS] [Understanding Events in JavaScript](https://dev.to/makstyle119/understanding-events-in-javascript-3n28)
 - [Lifehacker] [Why You Should Always Sign Up for Subscriptions in a Browser, Not the App](https://lifehacker.com/dont-sign-up-for-subscriptions-in-the-app-1850298355)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Step-by-Step Guide to Comment Blocking in Python](https://dev.to/fueler/a-step-by-step-guide-to-comment-blocking-in-python-gih)
 - [Dev.to/JS] [DEVELOPER ON FIRE⚡⚡](https://dev.to/sudhanshusingh705/developer-on-fire-4jj8)
 - [Dev.to/JS] [Javascript Object #5](https://dev.to/samr/javascript-object-5-4nke)
-- [Dev.to/JS] [MongoDB Ditches Tradition, Pushes Developers to Download Software Separately.](https://dev.to/zenodavids/mongodb-ditches-tradition-pushes-developers-to-download-software-separately-4bo2)
-- [Dev.to/JS] [Some of the most prevalent tech stacks that programmers frequently use.](https://dev.to/chidiebereomasi/some-of-the-most-prevalent-tech-stacks-that-programmers-frequently-use-295l)
-- [Dev.to/JS] [Primitive &amp; Non-Primitive Data Types](https://dev.to/codeofaccuracy/primitive-non-primitive-data-types-1ghf)
-- [Dev.to/JS] [My first glance at functional programming](https://dev.to/allieschen/my-first-glance-at-functional-programming-281j)
 - [Lifehacker] [This Southwest Airlines Deal Will Let Your Companion Fly for Free](https://lifehacker.com/this-southwest-airlines-deal-will-let-your-companion-fl-1850299192)
 - [Lifehacker] [Give Your Cookies a Helpful Oat Bottom](https://lifehacker.com/give-your-cookies-a-helpful-oat-bottom-1850296277)
 - [Lifehacker] [Some of You Are Tying Your Shoes Wrong](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Fries Are a Crouton](https://lifehacker.com/fries-are-a-crouton-1850289396)
 - [Lifehacker] [Why Your Back Hurts, and What You Can Do About It](https://lifehacker.com/why-your-back-hurts-and-what-you-can-do-about-it-1850289525)
 - [Lifehacker] [Weirdly Practical Ways to Use Toothpaste in Your Yard](https://lifehacker.com/weirdly-practical-ways-to-use-toothpaste-in-your-yard-1850287899)
-- [Lifehacker] [These Are the Best Cheap and Easy No-Cook Foods, According to Reddit](https://lifehacker.com/these-are-the-best-cheap-and-easy-no-cook-foods-accord-1850284712)
-- [Crazy Programmer] [Django 4.2 Released: New Features and Long-Term Support](https://www.thecrazyprogrammer.com/2023/04/django-4-2-released.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Cheap and Easy No-Cook Foods, According to Reddit](https://lifehacker.com/these-are-the-best-cheap-and-easy-no-cook-foods-accord-1850284712)<!-- TECH-POSTS:END -->
 
 ---
 
