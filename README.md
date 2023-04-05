@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Become an Astronaut](https://lifehacker.com/how-to-become-an-astronaut-1850301846)
+- [Dev.to/JS] [Unit testing with Jest and React Testing Library.](https://dev.to/syedosamabinazhar/unit-testing-with-jest-and-react-testing-library-4ogk)
+- [Dev.to/JS] [Which is better? Axios or Fetch?](https://dev.to/javicodev11/which-is-better-axios-or-fetch-g48)
+- [Lifehacker] [Lies I Tell Myself in the Gym](https://lifehacker.com/lies-i-tell-myself-in-the-gym-1850300670)
+- [Dev.to/JS] [React routing library with Navigation API](https://dev.to/romaintrotard/react-routing-library-with-navigation-api-1afa)
 - [Lifehacker] [Get Crispy Fish Skin Every Time, Without Resorting to Gimmicks](https://lifehacker.com/get-crispy-fish-skin-every-time-without-resorting-to-g-1850300533)
 - [Lifehacker] [It&#39;s Time for a Spending Audit](https://lifehacker.com/its-time-for-a-spending-audit-1850297815)
 - [Dev.to/JS] [TED Talks That all programmers must see](https://dev.to/jon_snow789/ted-talks-that-all-programmers-must-see-480b)
@@ -39,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Grilled Cheese Bread Is an Inside-Out Croissant](https://lifehacker.com/best-grilled-cheese-bread-is-a-croissant-1850299203)
 - [Dev.to/JS] [Unique ID in Javascript](https://dev.to/arampq/uk-mi-2i3e)
 - [Lifehacker] [This Is the Cheapest and Easiest Way to Clean Up Pet Hair](https://lifehacker.com/this-is-the-cheapest-and-easiest-way-to-clean-up-pet-ha-1850298203)
-- [Dev.to/JS] [Understanding Events in JavaScript](https://dev.to/makstyle119/understanding-events-in-javascript-3n28)
 - [Lifehacker] [Why You Should Always Sign Up for Subscriptions in a Browser, Not the App](https://lifehacker.com/dont-sign-up-for-subscriptions-in-the-app-1850298355)
-- [Dev.to/JS] [File System Javascript Question](https://dev.to/shreyvijayvargiya/file-system-javascript-question-2eg9)
-- [Dev.to/JS] [Paracetamol.js💊| #217: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-217-explica-este-codigo-javascript-4ci)
 - [Lifehacker] [How to Get Mud Out of Basically Anything](https://lifehacker.com/get-mud-stains-out-of-anything-1850295339)
 - [Lifehacker] [This Southwest Airlines Deal Will Let Your Companion Fly for Free](https://lifehacker.com/this-southwest-airlines-deal-will-let-your-companion-fl-1850299192)
 - [Lifehacker] [Give Your Cookies a Helpful Oat Bottom](https://lifehacker.com/give-your-cookies-a-helpful-oat-bottom-1850296277)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Beginner&#39;s Guide to Lining a Bamboo Steamer](https://lifehacker.com/the-beginners-guide-to-lining-a-bamboo-steamer-1850289545)
 - [Lifehacker] [How to Pose for the Perfect Mugshot](https://lifehacker.com/how-to-pose-for-the-perfect-mugshot-1850290334)
 - [Lifehacker] [This App Is BeReal but for Music](https://lifehacker.com/this-app-is-bereal-but-for-music-1850293764)
-- [Lifehacker] [Now Scammers Can Use AI to Fake Anyone’s Voice](https://lifehacker.com/now-scammers-can-use-ai-to-fake-anyone-s-voice-1850289863)
-- [Lifehacker] [Make This Bacon Salad Immediately](https://lifehacker.com/make-this-bacon-salad-immediately-1850287971)
-- [Lifehacker] [Threaten to Cancel Every Single Subscription](https://lifehacker.com/threaten-to-cancel-every-single-subscription-1850283968)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Now Scammers Can Use AI to Fake Anyone’s Voice](https://lifehacker.com/now-scammers-can-use-ai-to-fake-anyone-s-voice-1850289863)<!-- TECH-POSTS:END -->
 
 ---
 
