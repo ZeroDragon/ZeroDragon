@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Is the Cheapest and Easiest Way to Clean Up Pet Hair](https://lifehacker.com/this-is-the-cheapest-and-easiest-way-to-clean-up-pet-ha-1850298203)
+- [Dev.to/JS] [Understanding Events in JavaScript](https://dev.to/makstyle119/understanding-events-in-javascript-3n28)
+- [Lifehacker] [Why You Should Always Sign Up for Subscriptions in a Browser, Not the App](https://lifehacker.com/dont-sign-up-for-subscriptions-in-the-app-1850298355)
+- [Dev.to/JS] [File System Javascript Question](https://dev.to/shreyvijayvargiya/file-system-javascript-question-2eg9)
+- [Dev.to/JS] [Paracetamol.js💊| #217: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-217-explica-este-codigo-javascript-4ci)
 - [Lifehacker] [How to Get Mud Out of Basically Anything](https://lifehacker.com/get-mud-stains-out-of-anything-1850295339)
 - [Dev.to/JS] [Building React Hooks - Copy to Clipboard](https://dev.to/ekqt/building-react-hooks-copy-to-clipboard-2m9h)
 - [Dev.to/JS] [Why you should learn JavaScript in 2023](https://dev.to/talenttinaapi/why-you-should-learn-javascript-in-2023-14ea)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Some of the most prevalent tech stacks that programmers frequently use.](https://dev.to/chidiebereomasi/some-of-the-most-prevalent-tech-stacks-that-programmers-frequently-use-295l)
 - [Dev.to/JS] [Primitive &amp; Non-Primitive Data Types](https://dev.to/codeofaccuracy/primitive-non-primitive-data-types-1ghf)
 - [Dev.to/JS] [My first glance at functional programming](https://dev.to/allieschen/my-first-glance-at-functional-programming-281j)
-- [Dev.to/JS] [Javascript Object #4](https://dev.to/samr/javascript-object-4-26n7)
-- [Dev.to/JS] [Is this &lpar;keyword&rpar; a problem?](https://dev.to/nikolasbarwicki/is-this-keyword-a-problem-1ind)
-- [Dev.to/JS] [Resume, resuyou](https://dev.to/alexandertarler/resume-resuyou-ano)
 - [Lifehacker] [This Southwest Airlines Deal Will Let Your Companion Fly for Free](https://lifehacker.com/this-southwest-airlines-deal-will-let-your-companion-fl-1850299192)
 - [Lifehacker] [Give Your Cookies a Helpful Oat Bottom](https://lifehacker.com/give-your-cookies-a-helpful-oat-bottom-1850296277)
 - [Lifehacker] [Some of You Are Tying Your Shoes Wrong](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your Back Hurts, and What You Can Do About It](https://lifehacker.com/why-your-back-hurts-and-what-you-can-do-about-it-1850289525)
 - [Lifehacker] [Weirdly Practical Ways to Use Toothpaste in Your Yard](https://lifehacker.com/weirdly-practical-ways-to-use-toothpaste-in-your-yard-1850287899)
 - [Lifehacker] [These Are the Best Cheap and Easy No-Cook Foods, According to Reddit](https://lifehacker.com/these-are-the-best-cheap-and-easy-no-cook-foods-accord-1850284712)
-- [Crazy Programmer] [Django 4.2 Released: New Features and Long-Term Support](https://www.thecrazyprogrammer.com/2023/04/django-4-2-released.html)
-- [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
-- [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Django 4.2 Released: New Features and Long-Term Support](https://www.thecrazyprogrammer.com/2023/04/django-4-2-released.html)<!-- TECH-POSTS:END -->
 
 ---
 
