@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Weekly web development resources #143](https://dev.to/vincenius/weekly-web-development-resources-143-4f5l)
+- [Dev.to/JS] [Algorithms for Pagination &lpar;part one of two&rpar;](https://dev.to/tracygjg/algorithms-for-pagination-part-one-of-two-f58)
+- [Dev.to/JS] [What is prop drilling in React?](https://dev.to/codeofrelevancy/what-is-prop-drilling-in-react-3kol)
 - [Dev.to/JS] [How to make all card height is same in mui?](https://dev.to/jacksonkasi/how-to-make-all-card-height-is-same-in-mui-3j57)
 - [Dev.to/JS] [Javascript Proxy](https://dev.to/mrh0200/javascript-proxy-1lfn)
 - [Dev.to/JS] [10 Cool CodePen Demos &lpar;March 23&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-march-23-484p)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code Refactoring Made Easy:5 Proven Tips for Streamlining Your Programming Process](https://dev.to/wizdomtek/code-refactoring-made-easy5-proven-tips-for-streamlining-your-programming-process-3in3)
 - [Dev.to/JS] [How to create a div with a curved bottom](https://dev.to/arnosolo/how-to-create-a-div-with-a-curved-bottom-4i6l)
 - [Dev.to/JS] [Design Pattern: Strategy &lpar;TS&rpar;](https://dev.to/daniyarotynshin/design-pattern-strategy-ts-3e55)
-- [Dev.to/JS] [Hello Developer](https://dev.to/samuela10019253/hello-developer-p07)
-- [Dev.to/JS] [Fetch&lpar;&rpar; Requests](https://dev.to/alelda/fetch-requests-2obe)
-- [Dev.to/JS] [[React] Render Props Pattern](https://dev.to/jgamaraalv/react-render-props-pattern-314j)
 - [Lifehacker] [This Southwest Airlines Deal Will Let Your Companion Fly for Free](https://lifehacker.com/this-southwest-airlines-deal-will-let-your-companion-fl-1850299192)
 - [Lifehacker] [Give Your Cookies a Helpful Oat Bottom](https://lifehacker.com/give-your-cookies-a-helpful-oat-bottom-1850296277)
 - [Lifehacker] [Some of You Are Tying Your Shoes Wrong](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979)
