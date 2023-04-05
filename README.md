@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best National Burrito Day Deals](https://lifehacker.com/these-are-the-best-national-burrito-day-deals-1850304305)
+- [Dev.to/JS] [Alas... Tetris](https://dev.to/tjstoll/alas-tetris-51fe)
+- [Dev.to/JS] [3.7 - Astro 2.0 with Matthew Phillips](https://dev.to/codingcatdev/37-astro-20-with-matthew-phillips-1m4k)
 - [Lifehacker] [How to Become an Astronaut](https://lifehacker.com/how-to-become-an-astronaut-1850301846)
-- [Dev.to/JS] [Unit testing with Jest and React Testing Library.](https://dev.to/syedosamabinazhar/unit-testing-with-jest-and-react-testing-library-4ogk)
+- [Dev.to/JS] [Libraries and dependencies commonly used when writing unit tests for a React App?](https://dev.to/syedosamabinazhar/unit-testing-with-jest-and-react-testing-library-4ogk)
 - [Dev.to/JS] [Which is better? Axios or Fetch?](https://dev.to/javicodev11/which-is-better-axios-or-fetch-g48)
 - [Lifehacker] [Lies I Tell Myself in the Gym](https://lifehacker.com/lies-i-tell-myself-in-the-gym-1850300670)
 - [Dev.to/JS] [React routing library with Navigation API](https://dev.to/romaintrotard/react-routing-library-with-navigation-api-1afa)
@@ -40,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From padawan to Jedi - boost your dev skills with the Ultimate Todo App](https://dev.to/sergiopereira/from-padawan-to-jedi-boost-your-dev-skills-with-the-ultimate-todo-app-155l)
 - [Lifehacker] [Do You Tip Every Time You’re Asked?](https://lifehacker.com/do-you-tip-every-time-you-re-asked-1850299586)
 - [Dev.to/JS] [console.log is slow](https://dev.to/adam_cyclones/consolelog-is-slow-2a2b)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Contando Strings repetidas](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-contando-strings-repetidas-19d3)
 - [Lifehacker] [The Best Grilled Cheese Bread Is an Inside-Out Croissant](https://lifehacker.com/best-grilled-cheese-bread-is-a-croissant-1850299203)
-- [Dev.to/JS] [Unique ID in Javascript](https://dev.to/arampq/uk-mi-2i3e)
 - [Lifehacker] [This Is the Cheapest and Easiest Way to Clean Up Pet Hair](https://lifehacker.com/this-is-the-cheapest-and-easiest-way-to-clean-up-pet-ha-1850298203)
 - [Lifehacker] [Why You Should Always Sign Up for Subscriptions in a Browser, Not the App](https://lifehacker.com/dont-sign-up-for-subscriptions-in-the-app-1850298355)
 - [Lifehacker] [How to Get Mud Out of Basically Anything](https://lifehacker.com/get-mud-stains-out-of-anything-1850295339)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
 - [Lifehacker] [The Beginner&#39;s Guide to Lining a Bamboo Steamer](https://lifehacker.com/the-beginners-guide-to-lining-a-bamboo-steamer-1850289545)
 - [Lifehacker] [How to Pose for the Perfect Mugshot](https://lifehacker.com/how-to-pose-for-the-perfect-mugshot-1850290334)
-- [Lifehacker] [This App Is BeReal but for Music](https://lifehacker.com/this-app-is-bereal-but-for-music-1850293764)
-- [Lifehacker] [Now Scammers Can Use AI to Fake Anyone’s Voice](https://lifehacker.com/now-scammers-can-use-ai-to-fake-anyone-s-voice-1850289863)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This App Is BeReal but for Music](https://lifehacker.com/this-app-is-bereal-but-for-music-1850293764)<!-- TECH-POSTS:END -->
 
 ---
 
