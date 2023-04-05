@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My first glance at functional programming](https://dev.to/allieschen/my-first-glance-at-functional-programming-281j)
+- [Dev.to/JS] [Javascript Object #4](https://dev.to/samr/javascript-object-4-26n7)
 - [Dev.to/JS] [Is this &lpar;keyword&rpar; a problem?](https://dev.to/nikolasbarwicki/is-this-keyword-a-problem-1ind)
 - [Dev.to/JS] [Resume, resuyou](https://dev.to/alexandertarler/resume-resuyou-ano)
 - [Dev.to/JS] [Create a simple web3 app to connect and sign with your wallet in 7 minutes](https://dev.to/alexkubica/create-a-simple-web3-app-to-connect-and-sign-with-your-wallet-in-7-minutes-3fp7)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5+ Tips For Building Custom Headless CMS](https://dev.to/flatlogic/5-tips-for-building-custom-headless-cms-4gmm)
 - [Dev.to/JS] [Creating a Custom Theme System With TailwindCSS](https://dev.to/nitinfab/creating-a-custom-theme-system-with-tailwindcss-abk)
 - [Dev.to/JS] [google chrome pdf extension](https://dev.to/gurupetach/google-chrome-pdf-extension-15k5)
-- [Dev.to/JS] [Introduction to JavaScript : basic part 1](https://dev.to/rishabh07r/introduction-to-javascript-basic-part-1-291g)
-- [Dev.to/JS] [Mastering Javascript async/await - The Ultimate Guide for Developers](https://dev.to/wizdomtek/mastering-javascript-asyncawait-the-ultimate-guide-for-developers-833)
 - [Lifehacker] [This Southwest Airlines Deal Will Let Your Companion Fly for Free](https://lifehacker.com/this-southwest-airlines-deal-will-let-your-companion-fl-1850299192)
 - [Lifehacker] [Give Your Cookies a Helpful Oat Bottom](https://lifehacker.com/give-your-cookies-a-helpful-oat-bottom-1850296277)
 - [Lifehacker] [Some of You Are Tying Your Shoes Wrong](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979)
