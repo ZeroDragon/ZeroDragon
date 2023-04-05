@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Mud Out of Basically Anything](https://lifehacker.com/get-mud-stains-out-of-anything-1850295339)
+- [Dev.to/JS] [Building React Hooks - Copy to Clipboard](https://dev.to/ekqt/building-react-hooks-copy-to-clipboard-2m9h)
+- [Dev.to/JS] [Why you should learn JavaScript in 2023](https://dev.to/talenttinaapi/why-you-should-learn-javascript-in-2023-14ea)
+- [Dev.to/JS] [A Step-by-Step Guide to Comment Blocking in Python](https://dev.to/fueler/a-step-by-step-guide-to-comment-blocking-in-python-gih)
+- [Dev.to/JS] [DEVELOPER ON FIRE⚡⚡](https://dev.to/sudhanshusingh705/developer-on-fire-4jj8)
 - [Dev.to/JS] [Javascript Object #5](https://dev.to/samr/javascript-object-5-4nke)
 - [Dev.to/JS] [MongoDB Ditches Tradition, Pushes Developers to Download Software Separately.](https://dev.to/zenodavids/mongodb-ditches-tradition-pushes-developers-to-download-software-separately-4bo2)
 - [Dev.to/JS] [Some of the most prevalent tech stacks that programmers frequently use.](https://dev.to/chidiebereomasi/some-of-the-most-prevalent-tech-stacks-that-programmers-frequently-use-295l)
+- [Dev.to/JS] [Primitive &amp; Non-Primitive Data Types](https://dev.to/codeofaccuracy/primitive-non-primitive-data-types-1ghf)
 - [Dev.to/JS] [My first glance at functional programming](https://dev.to/allieschen/my-first-glance-at-functional-programming-281j)
 - [Dev.to/JS] [Javascript Object #4](https://dev.to/samr/javascript-object-4-26n7)
 - [Dev.to/JS] [Is this &lpar;keyword&rpar; a problem?](https://dev.to/nikolasbarwicki/is-this-keyword-a-problem-1ind)
 - [Dev.to/JS] [Resume, resuyou](https://dev.to/alexandertarler/resume-resuyou-ano)
-- [Dev.to/JS] [Create a simple web3 app to connect and sign with your wallet in 7 minutes](https://dev.to/alexkubica/create-a-simple-web3-app-to-connect-and-sign-with-your-wallet-in-7-minutes-3fp7)
-- [Dev.to/JS] [function declaration vs function expression](https://dev.to/himanshudevgupta/function-declaration-vs-function-expression-bbm)
-- [Dev.to/JS] [8 Awesome VS Code Extensions for JavaScript Developers](https://dev.to/bobbyiliev/8-awesome-vs-code-extensions-for-javascript-developers-4dh1)
-- [Dev.to/JS] [Effortlessly Deploy 🚀 Next.js Projects with Vercel](https://dev.to/sidjs/effortlessly-deploy-nextjs-projects-with-vercel-2omg)
-- [Dev.to/JS] [How to Build My First Deno Application](https://dev.to/danywalls/how-to-build-my-first-deno-application-5g8j)
 - [Lifehacker] [This Southwest Airlines Deal Will Let Your Companion Fly for Free](https://lifehacker.com/this-southwest-airlines-deal-will-let-your-companion-fl-1850299192)
 - [Lifehacker] [Give Your Cookies a Helpful Oat Bottom](https://lifehacker.com/give-your-cookies-a-helpful-oat-bottom-1850296277)
 - [Lifehacker] [Some of You Are Tying Your Shoes Wrong](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Cheap and Easy No-Cook Foods, According to Reddit](https://lifehacker.com/these-are-the-best-cheap-and-easy-no-cook-foods-accord-1850284712)
 - [Crazy Programmer] [Django 4.2 Released: New Features and Long-Term Support](https://www.thecrazyprogrammer.com/2023/04/django-4-2-released.html)
 - [Lifehacker] [Why You Shouldn&#39;t Gloat &lpar;Even When It Feels Good&rpar;](https://lifehacker.com/why-you-shouldnt-gloat-even-when-it-feels-good-1850289355)
-- [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are We Too Thirsty for Pedro Pascal?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-we-to-1850287874)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Those Roku Ads Are Just a Setting, Actually](https://lifehacker.com/those-roku-ads-are-just-a-setting-actually-1850287959)<!-- TECH-POSTS:END -->
 
 ---
 
