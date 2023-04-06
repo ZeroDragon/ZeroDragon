@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tutorial on developing Yelp Clone](https://dev.to/habeebahmed/tutorial-on-developing-yelp-clone-2cid)
+- [Dev.to/JS] [New Next.js API just dropped!](https://dev.to/kartik7120/new-nextjs-api-just-dropped-54l5)
+- [Dev.to/JS] [Have you ever feel strongest human in the world?](https://dev.to/iosonoagenda/have-you-ever-feel-strongest-human-in-the-world-14ek)
 - [Dev.to/JS] [Say Goodbye to Frustrated Users with React-Network-Notifier! 🚀](https://dev.to/j3rry320/say-goodbye-to-frustrated-users-with-react-network-notifier-4hb3)
 - [Dev.to/JS] [HOW TO INSTALL VueJs IN LARAVEL WITH Vite?](https://dev.to/hv30003/how-to-install-vuejs-in-laravel-with-vite-19eb)
 - [Dev.to/JS] [UI dev help](https://dev.to/keerthi_km_bb29a5b3d49fc7/ui-dev-help-li0)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [IFSul disponibiliza 21 cursos online gratuitos em programação, incluindo JavaScript e PHP](https://dev.to/guiadeti/ifsul-disponibiliza-21-cursos-online-gratuitos-em-programacao-incluindo-javascript-e-php-2b5f)
 - [Dev.to/JS] [Open &amp; Close Your Bootstrap 3 Modal with Back &amp; Forward Button](https://dev.to/syanaputra/open-close-your-bootstrap-3-modal-with-back-forward-button-5bj0)
 - [Dev.to/JS] [What&#39;s the best way to do animations with JavaScript?](https://dev.to/asayerio_techblog/whats-the-best-way-to-do-animations-with-javascript-cba)
-- [Dev.to/JS] [Devs in Vancouver](https://dev.to/tfantina/devs-in-vancouver-54d3)
-- [Dev.to/JS] [Rust-Based Web Development Tools -- The Future of Infrastructure, but be cautious!](https://dev.to/fritzlolpro/rust-based-web-development-tools-the-future-of-infrastructure-but-be-cautious-46kl)
-- [Dev.to/JS] [Revolutionize Your React App with Redux: A Beginner&#39;s Guide to Simplifying State Management&lpar;PART 1&rpar;](https://dev.to/clericcoder/revolutionize-your-react-app-with-redux-a-beginners-guide-to-simplifying-state-managementpart-1-1ef7)
 - [Lifehacker] [Where to Stuff Your Face With Free &lpar;or Cheap&rpar; Burritos on National Burrito Day](https://lifehacker.com/these-are-the-best-national-burrito-day-deals-1850304305)
 - [Lifehacker] [How to Become an Astronaut](https://lifehacker.com/how-to-become-an-astronaut-1850301846)
 - [Lifehacker] [Lies I Tell Myself in the Gym](https://lifehacker.com/lies-i-tell-myself-in-the-gym-1850300670)
