@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [From Art to Coding](https://dev.to/othmmahmoud/from-art-to-coding-39ka)
+- [Dev.to/JS] [What is hoisting in Javascript?](https://dev.to/charliekroon/what-is-hoisting-in-javascript-4ppp)
+- [Lifehacker] [Why You Should Never Buy Your Child a Blue Swimsuit](https://lifehacker.com/why-you-should-never-buy-your-child-a-blue-swimsuit-1850305524)
+- [Dev.to/JS] [Asynchronous Programming in JavaScript](https://dev.to/irfankhan501/asynchronous-programming-in-javascript-58im)
+- [Lifehacker] [This Company Saves Your AirPods From Planned Obsolescence](https://lifehacker.com/this-company-saves-your-airpods-from-planned-obsolescen-1850302733)
 - [Dev.to/JS] [How to install Yarn](https://dev.to/amphilip/how-to-install-yarn-1gpf)
 - [Dev.to/JS] [JavaScript DOM: A Complete Guide for Web Developers](https://dev.to/almonteluis/javascript-dom-a-complete-guide-for-web-developers-4f16)
 - [Lifehacker] [These Spreadsheet Tricks Make Budgeting &#39;Fun&#39;](https://lifehacker.com/these-spreadsheet-tricks-make-budgeting-fun-1850297820)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to find an object in an Array of objects in JavaScript](https://dev.to/collegewap/how-to-find-an-object-in-an-array-of-objects-in-javascript-5n3)
 - [Dev.to/JS] [A small JavaScript pattern I enjoy using](https://dev.to/kilianvalkhof/a-small-javascript-pattern-i-enjoy-using-1i0j)
 - [Dev.to/JS] [Best Practices for Testing React Apps](https://dev.to/dpkreativ/best-practices-for-testing-react-apps-3dfi)
-- [Dev.to/JS] [How to find Top AngularJS Development Companies?](https://dev.to/leahgreene67/how-to-find-top-angularjs-development-companies-4dp9)
 - [Lifehacker] [Where to Stuff Your Face With Free &lpar;or Cheap&rpar; Burritos on National Burrito Day](https://lifehacker.com/these-are-the-best-national-burrito-day-deals-1850304305)
 - [Lifehacker] [How to Become an Astronaut](https://lifehacker.com/how-to-become-an-astronaut-1850301846)
 - [Lifehacker] [Lies I Tell Myself in the Gym](https://lifehacker.com/lies-i-tell-myself-in-the-gym-1850300670)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Let These April Class-Action Settlement Deadlines Pass You By](https://lifehacker.com/don-t-let-these-april-class-action-settlement-deadlines-1850295701)
 - [Lifehacker] [Make This Seven-Minute Breakfast Taco in Your Air Fryer](https://lifehacker.com/make-this-five-minute-breakfast-taco-in-your-air-fryer-1850295508)
 - [Lifehacker] [Make Hand-Held French Onion Soup Bites](https://lifehacker.com/make-hand-held-french-onion-soup-bites-1850295202)
-- [Lifehacker] [Apple Weather Is Broken, but These Alternatives Aren’t](https://lifehacker.com/the-7-best-weather-apps-to-replace-dark-sky-on-iphone-a-1849951456)
-- [Lifehacker] [Stop Believing These College Scholarship Myths](https://lifehacker.com/stop-believing-these-college-scholarship-myths-1850287370)
-- [Lifehacker] [The Easiest Way to Make Small Talk Less Painful](https://lifehacker.com/the-easiest-way-to-make-small-talk-less-painful-1850294888)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Apple Weather Is Broken, but These Alternatives Aren’t](https://lifehacker.com/the-7-best-weather-apps-to-replace-dark-sky-on-iphone-a-1849951456)<!-- TECH-POSTS:END -->
 
 ---
 
