@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating an Infinite Looping Image Carousel with CSS and JavaScript](https://dev.to/arindam1997007/creating-an-infinite-looping-image-carousel-with-css-and-javascript-4pao)
+- [Lifehacker] [There&#39;s Finally An AirDrop for Windows and Android Users](https://lifehacker.com/theres-finally-an-airdrop-for-windows-and-android-users-1850306548)
+- [Dev.to/JS] [JavaScript EP4: JavaScript Engine 🛠️⚙️](https://dev.to/phatsss/javascript-ep4-javascript-engine-2jol)
+- [Lifehacker] [How to Clean Tree Sap From Your Clothes &lpar;and Everything Else&rpar;](https://lifehacker.com/how-to-clean-tree-sap-from-your-clothes-and-everything-1850304507)
 - [Lifehacker] [How to Make Your Own ‘Barbie’ Movie Poster Meme](https://lifehacker.com/how-to-make-your-own-barbie-movie-poster-meme-1850307581)
 - [Dev.to/JS] [6 JavaScript File Uploaders](https://dev.to/frontendsolutions/6-javascript-file-uploaders-1b7l)
 - [Lifehacker] [The Better Way to Use Your Wearable’s ‘Readiness’ Data](https://lifehacker.com/the-better-way-to-use-your-wearable-s-readiness-data-1850304587)
@@ -40,10 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Three-Ingredient Matzo Confection is Sweet and Salty Perfection](https://lifehacker.com/this-three-ingredient-matzo-confection-is-sweet-and-sal-1850305039)
 - [Dev.to/JS] [Ecomify - React Js E-Commerce App](https://dev.to/dulanjalisenarathna/ecomify-react-js-e-commerce-app-bj2)
 - [Dev.to/JS] [Simplicidade vs Padrões de Programação: Como encontrar um equilíbrio saudável](https://dev.to/demgoncalves/simplicidade-vs-padroes-de-programacao-como-encontrar-um-equilibrio-saudavel-2bk2)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Presenteando um amigo.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-presenteando-um-amigo-3ci7)
 - [Lifehacker] [Turn Papa John&#39;s Garlic Sauce Into a Fancy Compound Butter](https://lifehacker.com/turn-papa-johns-garlic-sauce-into-a-fancy-compound-butt-1850304805)
 - [Lifehacker] [Cooking With Packaged Food Is Great, Actually](https://lifehacker.com/cooking-with-packaged-food-is-great-actually-1850299969)
-- [Dev.to/JS] [How to find an object in an Array of objects in JavaScript](https://dev.to/collegewap/how-to-find-an-object-in-an-array-of-objects-in-javascript-5n3)
 - [Lifehacker] [Where to Stuff Your Face With Free &lpar;or Cheap&rpar; Burritos on National Burrito Day](https://lifehacker.com/these-are-the-best-national-burrito-day-deals-1850304305)
 - [Lifehacker] [How to Become an Astronaut](https://lifehacker.com/how-to-become-an-astronaut-1850301846)
 - [Lifehacker] [Lies I Tell Myself in the Gym](https://lifehacker.com/lies-i-tell-myself-in-the-gym-1850300670)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Give Your Cookies a Helpful Oat Bottom](https://lifehacker.com/give-your-cookies-a-helpful-oat-bottom-1850296277)
 - [Lifehacker] [Some of You Are Tying Your Shoes Wrong](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979)
 - [Lifehacker] [You Should Waffle Your Sausage Biscuit](https://lifehacker.com/easy-breakfast-waffle-your-next-sausage-biscuit-1850296206)
-- [Lifehacker] [How to Not Get Scammed Buying Event Tickets](https://lifehacker.com/how-to-not-get-scammed-buying-event-tickets-1850296220)
-- [Lifehacker] [Don’t Let These April Class-Action Settlement Deadlines Pass You By](https://lifehacker.com/don-t-let-these-april-class-action-settlement-deadlines-1850295701)
-- [Lifehacker] [Make This Seven-Minute Breakfast Taco in Your Air Fryer](https://lifehacker.com/make-this-five-minute-breakfast-taco-in-your-air-fryer-1850295508)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Not Get Scammed Buying Event Tickets](https://lifehacker.com/how-to-not-get-scammed-buying-event-tickets-1850296220)<!-- TECH-POSTS:END -->
 
 ---
 
