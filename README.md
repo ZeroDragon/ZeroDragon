@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [IFSul disponibiliza 21 cursos online gratuitos em programação, incluindo JavaScript e PHP](https://dev.to/guiadeti/ifsul-disponibiliza-21-cursos-online-gratuitos-em-programacao-incluindo-javascript-e-php-2b5f)
+- [Dev.to/JS] [Open &amp; Close Your Bootstrap 3 Modal with Back &amp; Forward Button](https://dev.to/syanaputra/open-close-your-bootstrap-3-modal-with-back-forward-button-5bj0)
+- [Dev.to/JS] [What&#39;s the best way to do animations with JavaScript?](https://dev.to/asayerio_techblog/whats-the-best-way-to-do-animations-with-javascript-cba)
 - [Dev.to/JS] [Devs in Vancouver](https://dev.to/tfantina/devs-in-vancouver-54d3)
 - [Dev.to/JS] [Rust-Based Web Development Tools -- The Future of Infrastructure, but be cautious!](https://dev.to/fritzlolpro/rust-based-web-development-tools-the-future-of-infrastructure-but-be-cautious-46kl)
 - [Dev.to/JS] [Revolutionize Your React App with Redux: A Beginner&#39;s Guide to Simplifying State Management&lpar;PART 1&rpar;](https://dev.to/clericcoder/revolutionize-your-react-app-with-redux-a-beginners-guide-to-simplifying-state-managementpart-1-1ef7)
@@ -34,10 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Alas... Tetris](https://dev.to/tjstoll/alas-tetris-51fe)
 - [Dev.to/JS] [3.7 - Astro 2.0 with Matthew Phillips](https://dev.to/codingcatdev/37-astro-20-with-matthew-phillips-1m4k)
 - [Lifehacker] [How to Become an Astronaut](https://lifehacker.com/how-to-become-an-astronaut-1850301846)
-- [Dev.to/JS] [Libraries and dependencies commonly used when writing unit tests for a React App?](https://dev.to/syedosamabinazhar/unit-testing-with-jest-and-react-testing-library-4ogk)
-- [Dev.to/JS] [Which is better? Axios or Fetch?](https://dev.to/javicodev11/which-is-better-axios-or-fetch-g48)
 - [Lifehacker] [Lies I Tell Myself in the Gym](https://lifehacker.com/lies-i-tell-myself-in-the-gym-1850300670)
-- [Dev.to/JS] [React routing library with Navigation API](https://dev.to/romaintrotard/react-routing-library-with-navigation-api-1afa)
 - [Lifehacker] [Get Crispy Fish Skin Every Time, Without Resorting to Gimmicks](https://lifehacker.com/get-crispy-fish-skin-every-time-without-resorting-to-g-1850300533)
 - [Lifehacker] [It&#39;s Time for a Spending Audit](https://lifehacker.com/its-time-for-a-spending-audit-1850297815)
 - [Lifehacker] [Try These Exercises Instead of Hip Thrusts](https://lifehacker.com/try-these-exercises-instead-of-hip-thrusts-1850299216)
