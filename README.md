@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Variáveis primitivas no JavaScript &lpar;string, number&rpar; são imutáveis](https://dev.to/laisfrigerio/variaveis-primitivas-no-javascript-string-number-sao-imutaveis-5118)
+- [Dev.to/JS] [My Tech Journey: Lessons Learned as a Junior Developer](https://dev.to/ifetolu5/my-tech-journey-lessons-learned-as-a-junior-developer-1k28)
+- [Dev.to/JS] [Web Storage &lpar;Cookies, localStorage, and sessionStorage&rpar;](https://dev.to/ahmed0saber/web-storage-cookies-localstorage-and-sessionstorage-11bh)
 - [Dev.to/JS] [Wrangling GraphQL Data Schemas with AWS AppSync](https://dev.to/brianhhough/wrangling-graphql-data-schemas-with-aws-appsync-24mj)
 - [Dev.to/JS] [React Series: useRef Hook](https://dev.to/oluwatrillions/react-series-useref-hook-29m8)
 - [Dev.to/JS] [The &quot;suspension of the request&quot; technique with Axios](https://dev.to/mohammadbrzbrz72/the-suspension-of-the-request-technique-with-axios-33oc)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Remove That Stupid Doge Icon From Your Twitter Feed](https://lifehacker.com/you-can-remove-that-stupid-doge-icon-from-your-twitter-1850308507)
 - [Dev.to/JS] [A web security story from 2008: silently securing JSON.parse](https://dev.to/mikesamuel/2008-silently-securing-jsonparse-5cbb)
 - [Dev.to/JS] [How To Enhance Your Web Development Process with Stackbit and Storybook](https://dev.to/stackbit/how-to-enhance-your-web-development-process-with-stackbit-and-storybook-1pne)
-- [Dev.to/JS] [Como usar autenticação 2 fatores no GitHub](https://dev.to/github/como-usar-autenticacao-2-fatores-no-github-53h3)
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free If You Have Apple Pay](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-if-you-ha-1850308128)
-- [Dev.to/JS] [ResponseHunt - Scavenger hunt for programmers ⛏](https://dev.to/nectres/responsehunt-scavenger-hunt-for-programmers-1ok2)
-- [Dev.to/JS] [Node.js Cron: Handling Overlapping Tasks Like a Noob](https://dev.to/shrihari/nodejs-cron-handling-overlapping-tasks-like-a-noob-c32)
 - [Lifehacker] [Get a Dairy Queen Blizzard for Less Than a Buck](https://lifehacker.com/get-a-dairy-queen-blizzard-for-less-than-a-buck-1850305132)
 - [Lifehacker] [There&#39;s Finally An AirDrop for Windows and Android Users](https://lifehacker.com/theres-finally-an-airdrop-for-windows-and-android-users-1850306548)
 - [Lifehacker] [How to Clean Tree Sap From Your Clothes &lpar;and Everything Else&rpar;](https://lifehacker.com/how-to-clean-tree-sap-from-your-clothes-and-everything-1850304507)
