@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [UI dev help](https://dev.to/keerthi_km_bb29a5b3d49fc7/ui-dev-help-li0)
+- [Dev.to/JS] [Understanding FP: Overcoming Intuition and Ease Hurdles &lpar;loops vs. recursion&rpar;](https://dev.to/zelenya/understanding-fp-overcoming-intuition-and-ease-hurdles-loops-vs-recursion-2hfn)
 - [Dev.to/JS] [4 VSCode extensions I use when developing with Tailwind](https://dev.to/kalimahapps/4-vscode-extensions-i-use-for-tailwind-2him)
 - [Dev.to/JS] [How to Build GraphQL APIs with Node.js](https://dev.to/folasayosamuel/how-to-build-graphql-apis-with-nodejs-1ai0)
 - [Dev.to/JS] [IFSul disponibiliza 21 cursos online gratuitos em programação, incluindo JavaScript e PHP](https://dev.to/guiadeti/ifsul-disponibiliza-21-cursos-online-gratuitos-em-programacao-incluindo-javascript-e-php-2b5f)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Revolutionize Your React App with Redux: A Beginner&#39;s Guide to Simplifying State Management&lpar;PART 1&rpar;](https://dev.to/clericcoder/revolutionize-your-react-app-with-redux-a-beginners-guide-to-simplifying-state-managementpart-1-1ef7)
 - [Dev.to/JS] [DevOps for people](https://dev.to/dimensioncloud/devops-for-people-176l)
 - [Dev.to/JS] [Linting with Eslint](https://dev.to/zsevic/linting-with-eslint-1ae7)
-- [Dev.to/JS] [Asynchronous JavaScript: Promises Async Await!](https://dev.to/cybermaxi7/asynchronous-javascript-promises-async-await-1402)
-- [Dev.to/JS] [Loop Types &amp; Working With Arrays](https://dev.to/sarahjones016/loop-types-working-with-arrays-1idg)
 - [Lifehacker] [Where to Stuff Your Face With Free &lpar;or Cheap&rpar; Burritos on National Burrito Day](https://lifehacker.com/these-are-the-best-national-burrito-day-deals-1850304305)
 - [Lifehacker] [How to Become an Astronaut](https://lifehacker.com/how-to-become-an-astronaut-1850301846)
 - [Lifehacker] [Lies I Tell Myself in the Gym](https://lifehacker.com/lies-i-tell-myself-in-the-gym-1850300670)
