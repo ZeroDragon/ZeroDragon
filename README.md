@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are Computer Vision and why do we use it?](https://dev.to/baljeet975/what-are-computer-vision-and-why-do-we-use-it-1ep)
+- [Dev.to/JS] [The Page Visibility API: Improve User Experience and Performance](https://dev.to/nialljoemaher/the-page-visibility-api-improve-user-experience-and-performance-451)
 - [Dev.to/JS] [The Advantages of Serverless Functions: Why You Should Care?](https://dev.to/ahmed_onour/the-advantages-of-serverless-functions-why-you-should-care-44d6)
 - [Dev.to/JS] [Fun and Creative React Projects to Enhance Your Learning Experience](https://dev.to/j3rry320/fun-and-creative-react-projects-to-enhance-your-learning-experience-15ja)
 - [Dev.to/JS] [LeetCode - Count and Say](https://dev.to/_alkesh26/leetcode-count-and-say-1cf6)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Underrated disparities b/w var, let and const you should be aware of [Part-1]](https://dev.to/kotesh_mudila/underrated-disparities-bw-var-let-and-const-you-should-be-aware-of-part-1-4543)
 - [Dev.to/JS] [ProDentim - Dental Results, Benefits. Uses, Price And Ingredients?](https://dev.to/prodentimf34662/prodentim-dental-results-benefits-uses-price-and-ingredients-feh)
 - [Dev.to/JS] [A Beginner&#39;s Guide to For, While, and Nested Loops in JavaScript-](https://dev.to/hmmalic/a-beginners-guide-to-for-while-and-nested-loops-in-javascript--4g2f)
-- [Dev.to/JS] [Javascript bilimlaringizni oshiring: Siz bilmagan 5 ta operatorlar bilan tanishamiz.](https://dev.to/davronnormuminov/javascript-bilimlaringizni-oshiring-siz-bilmagan-5-ta-operatorlar-bilan-tanishamiz-8kf)
-- [Dev.to/JS] [Tutorial on developing Yelp Clone](https://dev.to/habeebahmed/tutorial-on-developing-yelp-clone-2cid)
 - [Lifehacker] [Where to Stuff Your Face With Free &lpar;or Cheap&rpar; Burritos on National Burrito Day](https://lifehacker.com/these-are-the-best-national-burrito-day-deals-1850304305)
 - [Lifehacker] [How to Become an Astronaut](https://lifehacker.com/how-to-become-an-astronaut-1850301846)
 - [Lifehacker] [Lies I Tell Myself in the Gym](https://lifehacker.com/lies-i-tell-myself-in-the-gym-1850300670)
