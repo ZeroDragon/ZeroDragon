@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Wrangling GraphQL Data Schemas with AWS AppSync](https://dev.to/brianhhough/wrangling-graphql-data-schemas-with-aws-appsync-24mj)
 - [Dev.to/JS] [React Series: useRef Hook](https://dev.to/oluwatrillions/react-series-useref-hook-29m8)
 - [Dev.to/JS] [The &quot;suspension of the request&quot; technique with Axios](https://dev.to/mohammadbrzbrz72/the-suspension-of-the-request-technique-with-axios-33oc)
 - [Dev.to/JS] [Variable Scope in JavaScript: Beginner&#39;s Guide](https://dev.to/katbruce/variable-scope-in-javascript-beginners-guide-246i)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ResponseHunt - Scavenger hunt for programmers ⛏](https://dev.to/nectres/responsehunt-scavenger-hunt-for-programmers-1ok2)
 - [Dev.to/JS] [Node.js Cron: Handling Overlapping Tasks Like a Noob](https://dev.to/shrihari/nodejs-cron-handling-overlapping-tasks-like-a-noob-c32)
 - [Lifehacker] [Get a Dairy Queen Blizzard for Less Than a Buck](https://lifehacker.com/get-a-dairy-queen-blizzard-for-less-than-a-buck-1850305132)
-- [Dev.to/JS] [Web Design Glory](https://dev.to/webdesignglory/web-design-glory-3d05)
 - [Lifehacker] [There&#39;s Finally An AirDrop for Windows and Android Users](https://lifehacker.com/theres-finally-an-airdrop-for-windows-and-android-users-1850306548)
 - [Lifehacker] [How to Clean Tree Sap From Your Clothes &lpar;and Everything Else&rpar;](https://lifehacker.com/how-to-clean-tree-sap-from-your-clothes-and-everything-1850304507)
 - [Lifehacker] [How to Make Your Own ‘Barbie’ Movie Poster Meme](https://lifehacker.com/how-to-make-your-own-barbie-movie-poster-meme-1850307581)
