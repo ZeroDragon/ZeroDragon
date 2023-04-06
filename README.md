@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ProDentim - Dental Results, Benefits. Uses, Price And Ingredients?](https://dev.to/prodentimf34662/prodentim-dental-results-benefits-uses-price-and-ingredients-feh)
+- [Dev.to/JS] [A Beginner&#39;s Guide to For, While, and Nested Loops in JavaScript-](https://dev.to/hmmalic/a-beginners-guide-to-for-while-and-nested-loops-in-javascript--4g2f)
+- [Dev.to/JS] [Javascript bilimlaringizni oshiring: Siz bilmagan 5 ta operatorlar bilan tanishamiz.](https://dev.to/davronnormuminov/javascript-bilimlaringizni-oshiring-siz-bilmagan-5-ta-operatorlar-bilan-tanishamiz-8kf)
 - [Dev.to/JS] [Tutorial on developing Yelp Clone](https://dev.to/habeebahmed/tutorial-on-developing-yelp-clone-2cid)
 - [Dev.to/JS] [New Next.js API just dropped!](https://dev.to/kartik7120/new-nextjs-api-just-dropped-54l5)
 - [Dev.to/JS] [Have you ever feel strongest human in the world?](https://dev.to/iosonoagenda/have-you-ever-feel-strongest-human-in-the-world-14ek)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding FP: Overcoming Intuition and Ease Hurdles &lpar;loops vs. recursion&rpar;](https://dev.to/zelenya/understanding-fp-overcoming-intuition-and-ease-hurdles-loops-vs-recursion-2hfn)
 - [Dev.to/JS] [4 VSCode extensions I use when developing with Tailwind](https://dev.to/kalimahapps/4-vscode-extensions-i-use-for-tailwind-2him)
 - [Dev.to/JS] [How to Build GraphQL APIs with Node.js](https://dev.to/folasayosamuel/how-to-build-graphql-apis-with-nodejs-1ai0)
-- [Dev.to/JS] [IFSul disponibiliza 21 cursos online gratuitos em programação, incluindo JavaScript e PHP](https://dev.to/guiadeti/ifsul-disponibiliza-21-cursos-online-gratuitos-em-programacao-incluindo-javascript-e-php-2b5f)
-- [Dev.to/JS] [Open &amp; Close Your Bootstrap 3 Modal with Back &amp; Forward Button](https://dev.to/syanaputra/open-close-your-bootstrap-3-modal-with-back-forward-button-5bj0)
-- [Dev.to/JS] [What&#39;s the best way to do animations with JavaScript?](https://dev.to/asayerio_techblog/whats-the-best-way-to-do-animations-with-javascript-cba)
 - [Lifehacker] [Where to Stuff Your Face With Free &lpar;or Cheap&rpar; Burritos on National Burrito Day](https://lifehacker.com/these-are-the-best-national-burrito-day-deals-1850304305)
 - [Lifehacker] [How to Become an Astronaut](https://lifehacker.com/how-to-become-an-astronaut-1850301846)
 - [Lifehacker] [Lies I Tell Myself in the Gym](https://lifehacker.com/lies-i-tell-myself-in-the-gym-1850300670)
