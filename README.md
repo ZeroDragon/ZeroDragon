@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Always Get a Second Opinion on a Tech Repair](https://lifehacker.com/always-get-a-second-opinion-on-a-tech-repair-1850299664)
+- [Lifehacker] [This Three-Ingredient Matzo Confection is Sweet and Salty Perfection](https://lifehacker.com/this-three-ingredient-matzo-confection-is-sweet-and-sal-1850305039)
+- [Dev.to/JS] [Ecomify - React Js E-Commerce App](https://dev.to/dulanjalisenarathna/ecomify-react-js-e-commerce-app-bj2)
+- [Dev.to/JS] [Simplicidade vs Padrões de Programação: Como encontrar um equilíbrio saudável](https://dev.to/demgoncalves/simplicidade-vs-padroes-de-programacao-como-encontrar-um-equilibrio-saudavel-2bk2)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Presenteando um amigo.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-presenteando-um-amigo-3ci7)
 - [Lifehacker] [Turn Papa John&#39;s Garlic Sauce Into a Fancy Compound Butter](https://lifehacker.com/turn-papa-johns-garlic-sauce-into-a-fancy-compound-butt-1850304805)
 - [Lifehacker] [Cooking With Packaged Food Is Great, Actually](https://lifehacker.com/cooking-with-packaged-food-is-great-actually-1850299969)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Awesome VS Code Extensions for 2023](https://dev.to/surajondev/awesome-vs-code-extensions-for-2023-2i1b)
 - [Dev.to/JS] [What are Computer Vision and why do we use it?](https://dev.to/baljeet975/what-are-computer-vision-and-why-do-we-use-it-1ep)
 - [Dev.to/JS] [What is React State Management?](https://dev.to/ishratumar/what-is-react-state-management-3na6)
-- [Dev.to/JS] [The Page Visibility API: Improve User Experience and Performance](https://dev.to/nialljoemaher/the-page-visibility-api-improve-user-experience-and-performance-451)
-- [Dev.to/JS] [The Advantages of Serverless Functions: Why You Should Care?](https://dev.to/ahmed_onour/the-advantages-of-serverless-functions-why-you-should-care-44d6)
 - [Lifehacker] [Where to Stuff Your Face With Free &lpar;or Cheap&rpar; Burritos on National Burrito Day](https://lifehacker.com/these-are-the-best-national-burrito-day-deals-1850304305)
 - [Lifehacker] [How to Become an Astronaut](https://lifehacker.com/how-to-become-an-astronaut-1850301846)
 - [Lifehacker] [Lies I Tell Myself in the Gym](https://lifehacker.com/lies-i-tell-myself-in-the-gym-1850300670)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Apple Weather Is Broken, but These Alternatives Aren’t](https://lifehacker.com/the-7-best-weather-apps-to-replace-dark-sky-on-iphone-a-1849951456)
 - [Lifehacker] [Stop Believing These College Scholarship Myths](https://lifehacker.com/stop-believing-these-college-scholarship-myths-1850287370)
 - [Lifehacker] [The Easiest Way to Make Small Talk Less Painful](https://lifehacker.com/the-easiest-way-to-make-small-talk-less-painful-1850294888)
-- [Lifehacker] [How to Spot a Fake-Ass Website](https://lifehacker.com/how-to-spot-a-fake-ass-website-1850289388)
-- [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
-- [Lifehacker] [The Beginner&#39;s Guide to Lining a Bamboo Steamer](https://lifehacker.com/the-beginners-guide-to-lining-a-bamboo-steamer-1850289545)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Spot a Fake-Ass Website](https://lifehacker.com/how-to-spot-a-fake-ass-website-1850289388)<!-- TECH-POSTS:END -->
 
 ---
 
