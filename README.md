@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Devs in Vancouver](https://dev.to/tfantina/devs-in-vancouver-54d3)
 - [Dev.to/JS] [Rust-Based Web Development Tools -- The Future of Infrastructure, but be cautious!](https://dev.to/fritzlolpro/rust-based-web-development-tools-the-future-of-infrastructure-but-be-cautious-46kl)
 - [Dev.to/JS] [Revolutionize Your React App with Redux: A Beginner&#39;s Guide to Simplifying State Management&lpar;PART 1&rpar;](https://dev.to/clericcoder/revolutionize-your-react-app-with-redux-a-beginners-guide-to-simplifying-state-managementpart-1-1ef7)
 - [Dev.to/JS] [DevOps for people](https://dev.to/dimensioncloud/devops-for-people-176l)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React routing library with Navigation API](https://dev.to/romaintrotard/react-routing-library-with-navigation-api-1afa)
 - [Lifehacker] [Get Crispy Fish Skin Every Time, Without Resorting to Gimmicks](https://lifehacker.com/get-crispy-fish-skin-every-time-without-resorting-to-g-1850300533)
 - [Lifehacker] [It&#39;s Time for a Spending Audit](https://lifehacker.com/its-time-for-a-spending-audit-1850297815)
-- [Dev.to/JS] [TED Talks That all programmers must see](https://dev.to/jon_snow789/ted-talks-that-all-programmers-must-see-480b)
 - [Lifehacker] [Try These Exercises Instead of Hip Thrusts](https://lifehacker.com/try-these-exercises-instead-of-hip-thrusts-1850299216)
 - [Lifehacker] [Put a &#39;Mess Basket&#39; in Every Room](https://lifehacker.com/put-a-mess-basket-in-every-room-1850299149)
 - [Lifehacker] [Do You Tip Every Time You’re Asked?](https://lifehacker.com/do-you-tip-every-time-you-re-asked-1850299586)
