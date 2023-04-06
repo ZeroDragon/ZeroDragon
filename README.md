@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [4 VSCode extensions I use when developing with Tailwind](https://dev.to/kalimahapps/4-vscode-extensions-i-use-for-tailwind-2him)
+- [Dev.to/JS] [How to Build GraphQL APIs with Node.js](https://dev.to/folasayosamuel/how-to-build-graphql-apis-with-nodejs-1ai0)
 - [Dev.to/JS] [IFSul disponibiliza 21 cursos online gratuitos em programação, incluindo JavaScript e PHP](https://dev.to/guiadeti/ifsul-disponibiliza-21-cursos-online-gratuitos-em-programacao-incluindo-javascript-e-php-2b5f)
 - [Dev.to/JS] [Open &amp; Close Your Bootstrap 3 Modal with Back &amp; Forward Button](https://dev.to/syanaputra/open-close-your-bootstrap-3-modal-with-back-forward-button-5bj0)
 - [Dev.to/JS] [What&#39;s the best way to do animations with JavaScript?](https://dev.to/asayerio_techblog/whats-the-best-way-to-do-animations-with-javascript-cba)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Asynchronous JavaScript: Promises Async Await!](https://dev.to/cybermaxi7/asynchronous-javascript-promises-async-await-1402)
 - [Dev.to/JS] [Loop Types &amp; Working With Arrays](https://dev.to/sarahjones016/loop-types-working-with-arrays-1idg)
 - [Lifehacker] [Where to Stuff Your Face With Free &lpar;or Cheap&rpar; Burritos on National Burrito Day](https://lifehacker.com/these-are-the-best-national-burrito-day-deals-1850304305)
-- [Dev.to/JS] [Alas... Tetris](https://dev.to/tjstoll/alas-tetris-51fe)
-- [Dev.to/JS] [3.7 - Astro 2.0 with Matthew Phillips](https://dev.to/codingcatdev/37-astro-20-with-matthew-phillips-1m4k)
 - [Lifehacker] [How to Become an Astronaut](https://lifehacker.com/how-to-become-an-astronaut-1850301846)
 - [Lifehacker] [Lies I Tell Myself in the Gym](https://lifehacker.com/lies-i-tell-myself-in-the-gym-1850300670)
 - [Lifehacker] [Get Crispy Fish Skin Every Time, Without Resorting to Gimmicks](https://lifehacker.com/get-crispy-fish-skin-every-time-without-resorting-to-g-1850300533)
