@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [2008: silently securing JSON.parse](https://dev.to/mikesamuel/2008-silently-securing-jsonparse-5cbb)
+- [Dev.to/JS] [How To Enhance Your Web Development Process with Stackbit and Storybook](https://dev.to/stackbit/how-to-enhance-your-web-development-process-with-stackbit-and-storybook-1pne)
+- [Dev.to/JS] [Como usar autenticação 2 fatores no GitHub](https://dev.to/github/como-usar-autenticacao-2-fatores-no-github-53h3)
+- [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free If You Have Apple Pay](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-if-you-ha-1850308128)
+- [Dev.to/JS] [ResponseHunt - Scavenger hunt for programmers ⛏](https://dev.to/nectres/responsehunt-scavenger-hunt-for-programmers-1ok2)
+- [Dev.to/JS] [Node.js Cron: Handling Overlapping Tasks Like a Noob](https://dev.to/shrihari/nodejs-cron-handling-overlapping-tasks-like-a-noob-c32)
+- [Lifehacker] [Get a Dairy Queen Blizzard for Less Than a Buck](https://lifehacker.com/get-a-dairy-queen-blizzard-for-less-than-a-buck-1850305132)
+- [Dev.to/JS] [Web Design Glory](https://dev.to/webdesignglory/web-design-glory-3d05)
+- [Dev.to/JS] [How to Create a video player with video.js](https://dev.to/gabrielalao/how-to-create-a-video-player-with-videojs-43fp)
 - [Dev.to/JS] [Creating an Infinite Looping Image Carousel with CSS and JavaScript](https://dev.to/arindam1997007/creating-an-infinite-looping-image-carousel-with-css-and-javascript-4pao)
 - [Lifehacker] [There&#39;s Finally An AirDrop for Windows and Android Users](https://lifehacker.com/theres-finally-an-airdrop-for-windows-and-android-users-1850306548)
 - [Dev.to/JS] [JavaScript EP4: JavaScript Engine 🛠️⚙️](https://dev.to/phatsss/javascript-ep4-javascript-engine-2jol)
@@ -33,17 +42,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript for Beginners: Kick-starting Your Web Development Journey](https://dev.to/hzeghari/javascript-for-beginners-kick-starting-your-web-development-journey-3jjb)
 - [Dev.to/JS] [What is hoisting in Javascript?](https://dev.to/charliekroon/what-is-hoisting-in-javascript-4ppp)
 - [Lifehacker] [Why You Should Never Buy Your Child a Blue Swimsuit](https://lifehacker.com/why-you-should-never-buy-your-child-a-blue-swimsuit-1850305524)
-- [Dev.to/JS] [Asynchronous Programming in JavaScript](https://dev.to/irfankhan501/asynchronous-programming-in-javascript-58im)
 - [Lifehacker] [This Company Saves Your AirPods From Planned Obsolescence](https://lifehacker.com/this-company-saves-your-airpods-from-planned-obsolescen-1850302733)
-- [Dev.to/JS] [How to install Yarn](https://dev.to/amphilip/how-to-install-yarn-1gpf)
-- [Dev.to/JS] [JavaScript DOM: A Complete Guide for Web Developers](https://dev.to/almonteluis/javascript-dom-a-complete-guide-for-web-developers-4f16)
 - [Lifehacker] [These Spreadsheet Tricks Make Budgeting &#39;Fun&#39;](https://lifehacker.com/these-spreadsheet-tricks-make-budgeting-fun-1850297820)
-- [Dev.to/JS] [How I made free OCR chrome extension for Japanese language learners.](https://dev.to/spacehobo/how-i-made-free-ocr-chrome-extension-for-japanese-language-learners-41bm)
-- [Dev.to/JS] [Understanding if, else, and else if statements in JavaScript](https://dev.to/makstyle119/understanding-if-else-and-else-if-statements-in-javascript-12im)
 - [Lifehacker] [Always Get a Second Opinion on a Tech Repair](https://lifehacker.com/always-get-a-second-opinion-on-a-tech-repair-1850299664)
 - [Lifehacker] [This Three-Ingredient Matzo Confection is Sweet and Salty Perfection](https://lifehacker.com/this-three-ingredient-matzo-confection-is-sweet-and-sal-1850305039)
-- [Dev.to/JS] [Ecomify - React Js E-Commerce App](https://dev.to/dulanjalisenarathna/ecomify-react-js-e-commerce-app-bj2)
-- [Dev.to/JS] [Simplicidade vs Padrões de Programação: Como encontrar um equilíbrio saudável](https://dev.to/demgoncalves/simplicidade-vs-padroes-de-programacao-como-encontrar-um-equilibrio-saudavel-2bk2)
 - [Lifehacker] [Turn Papa John&#39;s Garlic Sauce Into a Fancy Compound Butter](https://lifehacker.com/turn-papa-johns-garlic-sauce-into-a-fancy-compound-butt-1850304805)
 - [Lifehacker] [Cooking With Packaged Food Is Great, Actually](https://lifehacker.com/cooking-with-packaged-food-is-great-actually-1850299969)
 - [Lifehacker] [Where to Stuff Your Face With Free &lpar;or Cheap&rpar; Burritos on National Burrito Day](https://lifehacker.com/these-are-the-best-national-burrito-day-deals-1850304305)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Mud Out of Basically Anything](https://lifehacker.com/get-mud-stains-out-of-anything-1850295339)
 - [Lifehacker] [This Southwest Airlines Deal Will Let Your Companion Fly for Free](https://lifehacker.com/this-southwest-airlines-deal-will-let-your-companion-fl-1850299192)
 - [Lifehacker] [Give Your Cookies a Helpful Oat Bottom](https://lifehacker.com/give-your-cookies-a-helpful-oat-bottom-1850296277)
-- [Lifehacker] [Some of You Are Tying Your Shoes Wrong](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979)
-- [Lifehacker] [You Should Waffle Your Sausage Biscuit](https://lifehacker.com/easy-breakfast-waffle-your-next-sausage-biscuit-1850296206)
-- [Lifehacker] [How to Not Get Scammed Buying Event Tickets](https://lifehacker.com/how-to-not-get-scammed-buying-event-tickets-1850296220)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Some of You Are Tying Your Shoes Wrong](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979)<!-- TECH-POSTS:END -->
 
 ---
 
