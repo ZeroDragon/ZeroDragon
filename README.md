@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Presenteando um amigo.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-presenteando-um-amigo-3ci7)
+- [Lifehacker] [Turn Papa John&#39;s Garlic Sauce Into a Fancy Compound Butter](https://lifehacker.com/turn-papa-johns-garlic-sauce-into-a-fancy-compound-butt-1850304805)
+- [Lifehacker] [Cooking With Packaged Food Is Great, Actually](https://lifehacker.com/cooking-with-packaged-food-is-great-actually-1850299969)
+- [Dev.to/JS] [How to find an object in an Array of objects in JavaScript](https://dev.to/collegewap/how-to-find-an-object-in-an-array-of-objects-in-javascript-5n3)
+- [Dev.to/JS] [A small JavaScript pattern I enjoy using](https://dev.to/kilianvalkhof/a-small-javascript-pattern-i-enjoy-using-1i0j)
 - [Dev.to/JS] [Best Practices for Testing React Apps](https://dev.to/dpkreativ/best-practices-for-testing-react-apps-3dfi)
 - [Dev.to/JS] [How to find Top AngularJS Development Companies?](https://dev.to/leahgreene67/how-to-find-top-angularjs-development-companies-4dp9)
 - [Dev.to/JS] [How to use process.env in Vite](https://dev.to/whchi/how-to-use-processenv-in-vite-ho9)
 - [Dev.to/JS] [Promises in JavaScript: A Beginner’s Guide](https://dev.to/ftwoli/promises-in-javascript-a-beginners-guide-3hk3)
 - [Dev.to/JS] [Awesome VS Code Extensions for 2023](https://dev.to/surajondev/awesome-vs-code-extensions-for-2023-2i1b)
 - [Dev.to/JS] [What are Computer Vision and why do we use it?](https://dev.to/baljeet975/what-are-computer-vision-and-why-do-we-use-it-1ep)
+- [Dev.to/JS] [What is React State Management?](https://dev.to/ishratumar/what-is-react-state-management-3na6)
 - [Dev.to/JS] [The Page Visibility API: Improve User Experience and Performance](https://dev.to/nialljoemaher/the-page-visibility-api-improve-user-experience-and-performance-451)
 - [Dev.to/JS] [The Advantages of Serverless Functions: Why You Should Care?](https://dev.to/ahmed_onour/the-advantages-of-serverless-functions-why-you-should-care-44d6)
-- [Dev.to/JS] [Fun and Creative React Projects to Enhance Your Learning Experience](https://dev.to/j3rry320/fun-and-creative-react-projects-to-enhance-your-learning-experience-15ja)
-- [Dev.to/JS] [LeetCode - Count and Say](https://dev.to/_alkesh26/leetcode-count-and-say-1cf6)
-- [Dev.to/JS] [THE TECHNICALITIES OF AMBIGUITY DETECTION](https://dev.to/liamdawson7379/the-technicalities-of-ambiguity-detection-46c1)
-- [Dev.to/JS] [New](https://dev.to/otherwa/new-3f7o)
 - [Lifehacker] [Where to Stuff Your Face With Free &lpar;or Cheap&rpar; Burritos on National Burrito Day](https://lifehacker.com/these-are-the-best-national-burrito-day-deals-1850304305)
 - [Lifehacker] [How to Become an Astronaut](https://lifehacker.com/how-to-become-an-astronaut-1850301846)
 - [Lifehacker] [Lies I Tell Myself in the Gym](https://lifehacker.com/lies-i-tell-myself-in-the-gym-1850300670)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Make Small Talk Less Painful](https://lifehacker.com/the-easiest-way-to-make-small-talk-less-painful-1850294888)
 - [Lifehacker] [How to Spot a Fake-Ass Website](https://lifehacker.com/how-to-spot-a-fake-ass-website-1850289388)
 - [Lifehacker] [How to Tell If Someone Paid for Their Twitter Verification](https://lifehacker.com/how-to-tell-if-someone-paid-for-their-twitter-verificat-1849767131)
-- [Lifehacker] [The Beginner&#39;s Guide to Lining a Bamboo Steamer](https://lifehacker.com/the-beginners-guide-to-lining-a-bamboo-steamer-1850289545)
-- [Lifehacker] [How to Pose for the Perfect Mugshot](https://lifehacker.com/how-to-pose-for-the-perfect-mugshot-1850290334)
-- [Lifehacker] [This App Is BeReal but for Music](https://lifehacker.com/this-app-is-bereal-but-for-music-1850293764)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Beginner&#39;s Guide to Lining a Bamboo Steamer](https://lifehacker.com/the-beginners-guide-to-lining-a-bamboo-steamer-1850289545)<!-- TECH-POSTS:END -->
 
 ---
 
