@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Series: useRef Hook](https://dev.to/oluwatrillions/react-series-useref-hook-29m8)
+- [Dev.to/JS] [The &quot;suspension of the request&quot; technique with Axios](https://dev.to/mohammadbrzbrz72/the-suspension-of-the-request-technique-with-axios-33oc)
+- [Dev.to/JS] [Variable Scope in JavaScript: Beginner&#39;s Guide](https://dev.to/katbruce/variable-scope-in-javascript-beginners-guide-246i)
+- [Dev.to/JS] [Adding &#39;Sign in with Google&#39; to your site with vanilla JS](https://dev.to/mikecoux/adding-sign-in-with-google-to-your-site-with-vanilla-js-g2e)
 - [Dev.to/JS] [querySelector&lpar;&rpar; vs. getElementById&lpar;&rpar;](https://dev.to/colelevy/queryselector-vs-getelementbyid-166n)
 - [Dev.to/JS] [Make a serverless phone proxy and voicemail in Twilio](https://dev.to/conzorkingkong/make-a-serverless-phone-proxy-and-voicemail-in-twilio-53j0)
 - [Lifehacker] [You Can Remove That Stupid Doge Icon From Your Twitter Feed](https://lifehacker.com/you-can-remove-that-stupid-doge-icon-from-your-twitter-1850308507)
@@ -34,13 +38,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node.js Cron: Handling Overlapping Tasks Like a Noob](https://dev.to/shrihari/nodejs-cron-handling-overlapping-tasks-like-a-noob-c32)
 - [Lifehacker] [Get a Dairy Queen Blizzard for Less Than a Buck](https://lifehacker.com/get-a-dairy-queen-blizzard-for-less-than-a-buck-1850305132)
 - [Dev.to/JS] [Web Design Glory](https://dev.to/webdesignglory/web-design-glory-3d05)
-- [Dev.to/JS] [How to Create a video player with video.js](https://dev.to/gabrielalao/how-to-create-a-video-player-with-videojs-43fp)
-- [Dev.to/JS] [Creating an Infinite Looping Image Carousel with CSS and JavaScript](https://dev.to/arindam1997007/creating-an-infinite-looping-image-carousel-with-css-and-javascript-4pao)
 - [Lifehacker] [There&#39;s Finally An AirDrop for Windows and Android Users](https://lifehacker.com/theres-finally-an-airdrop-for-windows-and-android-users-1850306548)
-- [Dev.to/JS] [JavaScript EP4: JavaScript Engine 🛠️⚙️](https://dev.to/phatsss/javascript-ep4-javascript-engine-2jol)
 - [Lifehacker] [How to Clean Tree Sap From Your Clothes &lpar;and Everything Else&rpar;](https://lifehacker.com/how-to-clean-tree-sap-from-your-clothes-and-everything-1850304507)
 - [Lifehacker] [How to Make Your Own ‘Barbie’ Movie Poster Meme](https://lifehacker.com/how-to-make-your-own-barbie-movie-poster-meme-1850307581)
-- [Dev.to/JS] [6 JavaScript File Uploaders](https://dev.to/frontendsolutions/6-javascript-file-uploaders-1b7l)
 - [Lifehacker] [The Better Way to Use Your Wearable’s ‘Readiness’ Data](https://lifehacker.com/the-better-way-to-use-your-wearable-s-readiness-data-1850304587)
 - [Lifehacker] [Why You Should Never Buy Your Child a Blue Swimsuit](https://lifehacker.com/why-you-should-never-buy-your-child-a-blue-swimsuit-1850305524)
 - [Lifehacker] [This Company Saves Your AirPods From Planned Obsolescence](https://lifehacker.com/this-company-saves-your-airpods-from-planned-obsolescen-1850302733)
