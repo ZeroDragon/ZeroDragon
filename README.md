@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [2008: silently securing JSON.parse](https://dev.to/mikesamuel/2008-silently-securing-jsonparse-5cbb)
+- [Dev.to/JS] [querySelector&lpar;&rpar; vs. getElementById&lpar;&rpar;](https://dev.to/colelevy/queryselector-vs-getelementbyid-166n)
+- [Dev.to/JS] [Make a serverless phone proxy and voicemail in Twilio](https://dev.to/conzorkingkong/make-a-serverless-phone-proxy-and-voicemail-in-twilio-53j0)
+- [Lifehacker] [You Can Remove That Stupid Doge Icon From Your Twitter Feed](https://lifehacker.com/you-can-remove-that-stupid-doge-icon-from-your-twitter-1850308507)
+- [Dev.to/JS] [A web security story from 2008: silently securing JSON.parse](https://dev.to/mikesamuel/2008-silently-securing-jsonparse-5cbb)
 - [Dev.to/JS] [How To Enhance Your Web Development Process with Stackbit and Storybook](https://dev.to/stackbit/how-to-enhance-your-web-development-process-with-stackbit-and-storybook-1pne)
 - [Dev.to/JS] [Como usar autenticação 2 fatores no GitHub](https://dev.to/github/como-usar-autenticacao-2-fatores-no-github-53h3)
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free If You Have Apple Pay](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-if-you-ha-1850308128)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Your Own ‘Barbie’ Movie Poster Meme](https://lifehacker.com/how-to-make-your-own-barbie-movie-poster-meme-1850307581)
 - [Dev.to/JS] [6 JavaScript File Uploaders](https://dev.to/frontendsolutions/6-javascript-file-uploaders-1b7l)
 - [Lifehacker] [The Better Way to Use Your Wearable’s ‘Readiness’ Data](https://lifehacker.com/the-better-way-to-use-your-wearable-s-readiness-data-1850304587)
-- [Dev.to/JS] [JavaScript for Beginners: Kick-starting Your Web Development Journey](https://dev.to/hzeghari/javascript-for-beginners-kick-starting-your-web-development-journey-3jjb)
-- [Dev.to/JS] [What is hoisting in Javascript?](https://dev.to/charliekroon/what-is-hoisting-in-javascript-4ppp)
 - [Lifehacker] [Why You Should Never Buy Your Child a Blue Swimsuit](https://lifehacker.com/why-you-should-never-buy-your-child-a-blue-swimsuit-1850305524)
 - [Lifehacker] [This Company Saves Your AirPods From Planned Obsolescence](https://lifehacker.com/this-company-saves-your-airpods-from-planned-obsolescen-1850302733)
 - [Lifehacker] [These Spreadsheet Tricks Make Budgeting &#39;Fun&#39;](https://lifehacker.com/these-spreadsheet-tricks-make-budgeting-fun-1850297820)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Always Sign Up for Subscriptions in a Browser, Not the App](https://lifehacker.com/dont-sign-up-for-subscriptions-in-the-app-1850298355)
 - [Lifehacker] [How to Get Mud Out of Basically Anything](https://lifehacker.com/get-mud-stains-out-of-anything-1850295339)
 - [Lifehacker] [This Southwest Airlines Deal Will Let Your Companion Fly for Free](https://lifehacker.com/this-southwest-airlines-deal-will-let-your-companion-fl-1850299192)
-- [Lifehacker] [Give Your Cookies a Helpful Oat Bottom](https://lifehacker.com/give-your-cookies-a-helpful-oat-bottom-1850296277)
-- [Lifehacker] [Some of You Are Tying Your Shoes Wrong](https://lifehacker.com/some-of-you-are-tying-your-shoes-wrong-1850295979)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Give Your Cookies a Helpful Oat Bottom](https://lifehacker.com/give-your-cookies-a-helpful-oat-bottom-1850296277)<!-- TECH-POSTS:END -->
 
 ---
 
