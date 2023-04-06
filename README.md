@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [From Art to Coding](https://dev.to/othmmahmoud/from-art-to-coding-39ka)
+- [Dev.to/JS] [How to install Yarn](https://dev.to/amphilip/how-to-install-yarn-1gpf)
+- [Dev.to/JS] [JavaScript DOM: A Complete Guide for Web Developers](https://dev.to/almonteluis/javascript-dom-a-complete-guide-for-web-developers-4f16)
+- [Lifehacker] [These Spreadsheet Tricks Make Budgeting &#39;Fun&#39;](https://lifehacker.com/these-spreadsheet-tricks-make-budgeting-fun-1850297820)
+- [Dev.to/JS] [How I made free OCR chrome extension for Japanese language learners.](https://dev.to/spacehobo/how-i-made-free-ocr-chrome-extension-for-japanese-language-learners-41bm)
+- [Dev.to/JS] [Understanding if, else, and else if statements in JavaScript](https://dev.to/makstyle119/understanding-if-else-and-else-if-statements-in-javascript-12im)
 - [Lifehacker] [Always Get a Second Opinion on a Tech Repair](https://lifehacker.com/always-get-a-second-opinion-on-a-tech-repair-1850299664)
 - [Lifehacker] [This Three-Ingredient Matzo Confection is Sweet and Salty Perfection](https://lifehacker.com/this-three-ingredient-matzo-confection-is-sweet-and-sal-1850305039)
 - [Dev.to/JS] [Ecomify - React Js E-Commerce App](https://dev.to/dulanjalisenarathna/ecomify-react-js-e-commerce-app-bj2)
@@ -34,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A small JavaScript pattern I enjoy using](https://dev.to/kilianvalkhof/a-small-javascript-pattern-i-enjoy-using-1i0j)
 - [Dev.to/JS] [Best Practices for Testing React Apps](https://dev.to/dpkreativ/best-practices-for-testing-react-apps-3dfi)
 - [Dev.to/JS] [How to find Top AngularJS Development Companies?](https://dev.to/leahgreene67/how-to-find-top-angularjs-development-companies-4dp9)
-- [Dev.to/JS] [How to use process.env in Vite](https://dev.to/whchi/how-to-use-processenv-in-vite-ho9)
-- [Dev.to/JS] [Promises in JavaScript: A Beginner’s Guide](https://dev.to/ftwoli/promises-in-javascript-a-beginners-guide-3hk3)
-- [Dev.to/JS] [Awesome VS Code Extensions for 2023](https://dev.to/surajondev/awesome-vs-code-extensions-for-2023-2i1b)
-- [Dev.to/JS] [What are Computer Vision and why do we use it?](https://dev.to/baljeet975/what-are-computer-vision-and-why-do-we-use-it-1ep)
-- [Dev.to/JS] [What is React State Management?](https://dev.to/ishratumar/what-is-react-state-management-3na6)
 - [Lifehacker] [Where to Stuff Your Face With Free &lpar;or Cheap&rpar; Burritos on National Burrito Day](https://lifehacker.com/these-are-the-best-national-burrito-day-deals-1850304305)
 - [Lifehacker] [How to Become an Astronaut](https://lifehacker.com/how-to-become-an-astronaut-1850301846)
 - [Lifehacker] [Lies I Tell Myself in the Gym](https://lifehacker.com/lies-i-tell-myself-in-the-gym-1850300670)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Hand-Held French Onion Soup Bites](https://lifehacker.com/make-hand-held-french-onion-soup-bites-1850295202)
 - [Lifehacker] [Apple Weather Is Broken, but These Alternatives Aren’t](https://lifehacker.com/the-7-best-weather-apps-to-replace-dark-sky-on-iphone-a-1849951456)
 - [Lifehacker] [Stop Believing These College Scholarship Myths](https://lifehacker.com/stop-believing-these-college-scholarship-myths-1850287370)
-- [Lifehacker] [The Easiest Way to Make Small Talk Less Painful](https://lifehacker.com/the-easiest-way-to-make-small-talk-less-painful-1850294888)
-- [Lifehacker] [How to Spot a Fake-Ass Website](https://lifehacker.com/how-to-spot-a-fake-ass-website-1850289388)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Make Small Talk Less Painful](https://lifehacker.com/the-easiest-way-to-make-small-talk-less-painful-1850294888)<!-- TECH-POSTS:END -->
 
 ---
 
