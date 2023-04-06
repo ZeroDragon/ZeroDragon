@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Practices for Testing React Apps](https://dev.to/dpkreativ/best-practices-for-testing-react-apps-3dfi)
+- [Dev.to/JS] [How to find Top AngularJS Development Companies?](https://dev.to/leahgreene67/how-to-find-top-angularjs-development-companies-4dp9)
+- [Dev.to/JS] [How to use process.env in Vite](https://dev.to/whchi/how-to-use-processenv-in-vite-ho9)
+- [Dev.to/JS] [Promises in JavaScript: A Beginner’s Guide](https://dev.to/ftwoli/promises-in-javascript-a-beginners-guide-3hk3)
+- [Dev.to/JS] [Awesome VS Code Extensions for 2023](https://dev.to/surajondev/awesome-vs-code-extensions-for-2023-2i1b)
 - [Dev.to/JS] [What are Computer Vision and why do we use it?](https://dev.to/baljeet975/what-are-computer-vision-and-why-do-we-use-it-1ep)
 - [Dev.to/JS] [The Page Visibility API: Improve User Experience and Performance](https://dev.to/nialljoemaher/the-page-visibility-api-improve-user-experience-and-performance-451)
 - [Dev.to/JS] [The Advantages of Serverless Functions: Why You Should Care?](https://dev.to/ahmed_onour/the-advantages-of-serverless-functions-why-you-should-care-44d6)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode - Count and Say](https://dev.to/_alkesh26/leetcode-count-and-say-1cf6)
 - [Dev.to/JS] [THE TECHNICALITIES OF AMBIGUITY DETECTION](https://dev.to/liamdawson7379/the-technicalities-of-ambiguity-detection-46c1)
 - [Dev.to/JS] [New](https://dev.to/otherwa/new-3f7o)
-- [Dev.to/JS] [Showing off my crazy JS projects](https://dev.to/marcisbee/showing-off-my-crazy-js-projects-5fop)
-- [Dev.to/JS] [RxJS 7 - Subjects](https://dev.to/barisbll/rxjs-7-subjects-1gke)
-- [Dev.to/JS] [Underrated disparities b/w var, let and const you should be aware of [Part-1]](https://dev.to/kotesh_mudila/underrated-disparities-bw-var-let-and-const-you-should-be-aware-of-part-1-4543)
-- [Dev.to/JS] [ProDentim - Dental Results, Benefits. Uses, Price And Ingredients?](https://dev.to/prodentimf34662/prodentim-dental-results-benefits-uses-price-and-ingredients-feh)
-- [Dev.to/JS] [A Beginner&#39;s Guide to For, While, and Nested Loops in JavaScript-](https://dev.to/hmmalic/a-beginners-guide-to-for-while-and-nested-loops-in-javascript--4g2f)
 - [Lifehacker] [Where to Stuff Your Face With Free &lpar;or Cheap&rpar; Burritos on National Burrito Day](https://lifehacker.com/these-are-the-best-national-burrito-day-deals-1850304305)
 - [Lifehacker] [How to Become an Astronaut](https://lifehacker.com/how-to-become-an-astronaut-1850301846)
 - [Lifehacker] [Lies I Tell Myself in the Gym](https://lifehacker.com/lies-i-tell-myself-in-the-gym-1850300670)
