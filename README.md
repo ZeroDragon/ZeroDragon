@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [BÓNG ĐÁ LIVE 247](https://dev.to/bongdalive247co/bong-da-live-247-1he8)
+- [Lifehacker] [Take These Steps to Protect Your Data After a Cyberattack](https://lifehacker.com/take-these-steps-to-protect-your-data-after-a-cyberatta-1850304604)
+- [Lifehacker] [What &#39;Genuine Leather&#39; Really Means](https://lifehacker.com/what-genuine-leather-really-means-1850309049)
+- [Dev.to/JS] [Ditch Create-React-App: Unleash the Power of Reactivize to Level Up Your React Projects 🚀](https://dev.to/j3rry320/ditch-create-react-app-unleash-the-power-of-reactivize-to-level-up-your-react-projects-b0n)
+- [Dev.to/JS] [how to show my post like Last image with below code?](https://dev.to/ashrafulazom/how-to-show-my-post-like-last-image-with-below-code-kfi)
+- [Dev.to/JS] [Best Practices for Writing Clean Code](https://dev.to/armanidrisi/best-practices-for-writing-clean-code-5ce3)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is the Mario Movie Actually...Good?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-the-ma-1850309148)
 - [Dev.to/JS] [Mastering Navigation Menus in React Native: 3 Types You Must Know [With Examples]](https://dev.to/avionmission/mastering-navigation-menus-in-react-native-3-types-you-must-know-with-examples-11of)
 - [Dev.to/JS] [Authentication in React Applications using Firebase and its services. Part 2](https://dev.to/dev_cody/authentication-in-react-applications-using-firebase-and-its-services-part-2-a3c)
 - [Dev.to/JS] [Real-world usage of Map and Set data types of JavaScript](https://dev.to/orahul1/real-world-usage-of-map-and-set-data-types-of-javascript-1fbf)
@@ -34,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From Callback Hell to Promise Chains](https://dev.to/yurich84/from-callback-hell-to-promise-chains-7hd)
 - [Dev.to/JS] [Discover The Royal City of Rajasthan, India](https://dev.to/alightindia/discover-the-royal-city-of-rajasthan-india-1dol)
 - [Dev.to/JS] [Readymade MLM Script | Networking Software Development Company](https://dev.to/lokeshinet/readymade-mlm-script-networking-software-development-company-451g)
-- [Dev.to/JS] [How to Send Email in Node.js Using Nodemailer Package](https://dev.to/dinapal_dev/how-to-send-email-in-nodejs-using-nodemailer-package-15a5)
-- [Dev.to/JS] [What is JSON](https://dev.to/ocxigin/what-is-json-30e7)
-- [Dev.to/JS] [Typescript, neden lazım?](https://dev.to/tankotun/typescript-neden-lazim-1cea)
-- [Dev.to/JS] [This is The Fastest and Simplest Chrome Extension on the Chrome Web Store!](https://dev.to/anasdew/this-is-the-fastest-and-simplest-chrome-extension-on-the-chrome-web-store-211c)
 - [Lifehacker] [You Can Remove That Stupid Doge Icon From Your Twitter Feed](https://lifehacker.com/you-can-remove-that-stupid-doge-icon-from-your-twitter-1850308507)
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free If You Have Apple Pay](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-if-you-ha-1850308128)
 - [Lifehacker] [Get a Dairy Queen Blizzard for Less Than a Buck](https://lifehacker.com/get-a-dairy-queen-blizzard-for-less-than-a-buck-1850305132)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It&#39;s Time for a Spending Audit](https://lifehacker.com/its-time-for-a-spending-audit-1850297815)
 - [Lifehacker] [Try These Exercises Instead of Hip Thrusts](https://lifehacker.com/try-these-exercises-instead-of-hip-thrusts-1850299216)
 - [Lifehacker] [Put a &#39;Mess Basket&#39; in Every Room](https://lifehacker.com/put-a-mess-basket-in-every-room-1850299149)
-- [Lifehacker] [Do You Tip Every Time You’re Asked?](https://lifehacker.com/do-you-tip-every-time-you-re-asked-1850299586)
-- [Lifehacker] [The Best Grilled Cheese Bread Is an Inside-Out Croissant](https://lifehacker.com/best-grilled-cheese-bread-is-a-croissant-1850299203)
-- [Lifehacker] [This Is the Cheapest and Easiest Way to Clean Up Pet Hair](https://lifehacker.com/this-is-the-cheapest-and-easiest-way-to-clean-up-pet-ha-1850298203)
-- [Lifehacker] [Why You Should Always Sign Up for Subscriptions in a Browser, Not the App](https://lifehacker.com/dont-sign-up-for-subscriptions-in-the-app-1850298355)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Do You Tip Every Time You’re Asked?](https://lifehacker.com/do-you-tip-every-time-you-re-asked-1850299586)<!-- TECH-POSTS:END -->
 
 ---
 
