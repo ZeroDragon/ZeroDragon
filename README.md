@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Chat GPT Clone with Laravel Inertia and VueJS Full Tutorial](https://dev.to/laravellercom/chat-gpt-clone-with-laravel-inertia-and-vuejs-full-tutorial-51h9)
+- [Dev.to/JS] [Reduce null checks in your code](https://dev.to/tahazsh/reduce-null-checks-in-your-code-1oim)
+- [Dev.to/JS] [&quot;Say what, now?&quot; Breaking Down JavaScript Building Blocks for Algorithmically-Challenged Thinkers](https://dev.to/lslayman/say-what-now-breaking-down-javascript-building-blocks-for-algorithmically-challenged-thinkers-4p0p)
+- [Dev.to/JS] [Breaking the Language Barrier: A Journey through &#39;Hello, World!&#39; in 20 Different Programming Languages](https://dev.to/rajaniraiyn/breaking-the-language-barrier-a-journey-through-hello-world-in-20-different-programming-languages-42bc)
+- [Lifehacker] [Take Easter Eggs to the Fiery Depths of Hell With Chili and Garlic](https://lifehacker.com/take-easter-eggs-to-the-fiery-depths-of-hell-with-chili-1850313422)
 - [Dev.to/JS] [How To Scale Your React Applications](https://dev.to/devland/how-to-scale-your-react-applications-b0a)
 - [Lifehacker] [The Right Way to Use &#39;Honor Among Thieves&#39; Characters in Your Next D&amp;D Campaign](https://lifehacker.com/the-right-way-to-use-honor-among-thieves-characters-in-1850313225)
 - [Dev.to/JS] [3 Top Features of JavaScript ES6: A Guide for Beginners](https://dev.to/imekinox/3-top-features-of-javascript-es6-a-guide-for-beginners-1olp)
@@ -37,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Maximize Your Upload Efficiency: How to Perform Parallel File Uploads with Node.js and Cloudinary](https://dev.to/jeffsalive/maximize-your-upload-efficiency-how-to-perform-parallel-file-uploads-with-nodejs-and-cloudinary-42hn)
 - [Lifehacker] [Four Clever Ways to Reuse an Old Garden Hose](https://lifehacker.com/four-clever-ways-to-reuse-an-old-garden-hose-1850312495)
 - [Dev.to/JS] [Build classified ads project with React and Firebase](https://dev.to/itsmefarhan/build-classified-ads-project-with-react-and-firebase-19p5)
-- [Dev.to/JS] [Binary Tree Basics and Different Views](https://dev.to/gajananwatt/binary-tree-basics-and-different-views-8i2)
-- [Dev.to/JS] [BÓNG ĐÁ LIVE 247](https://dev.to/bongdalive247co/bong-da-live-247-1he8)
 - [Lifehacker] [Take These Steps to Protect Your Data After a Cyberattack](https://lifehacker.com/take-these-steps-to-protect-your-data-after-a-cyberatta-1850304604)
 - [Lifehacker] [What &#39;Genuine Leather&#39; Really Means](https://lifehacker.com/what-genuine-leather-really-means-1850309049)
-- [Dev.to/JS] [Ditch Create-React-App: Unleash the Power of Reactivize to Level Up Your React Projects 🚀](https://dev.to/j3rry320/ditch-create-react-app-unleash-the-power-of-reactivize-to-level-up-your-react-projects-b0n)
-- [Dev.to/JS] [how to show my post like Last image with below code?](https://dev.to/ashrafulazom/how-to-show-my-post-like-last-image-with-below-code-kfi)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is the Mario Movie Actually...Good?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-the-ma-1850309148)
 - [Lifehacker] [TikTok Diet Culture Is Ruining Cottage Cheese](https://lifehacker.com/tiktok-diet-culture-is-ruining-cottage-cheese-1850308811)
 - [Lifehacker] [Donate Blood to Get This Cool Snoopy Shirt](https://lifehacker.com/donate-blood-to-get-this-cool-snoopy-shirt-1850309648)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Always Get a Second Opinion on a Tech Repair](https://lifehacker.com/always-get-a-second-opinion-on-a-tech-repair-1850299664)
 - [Lifehacker] [This Three-Ingredient Matzo Confection is Sweet and Salty Perfection](https://lifehacker.com/this-three-ingredient-matzo-confection-is-sweet-and-sal-1850305039)
 - [Lifehacker] [Turn Papa John&#39;s Garlic Sauce Into a Fancy Compound Butter](https://lifehacker.com/turn-papa-johns-garlic-sauce-into-a-fancy-compound-butt-1850304805)
-- [Lifehacker] [Cooking With Packaged Food Is Great, Actually](https://lifehacker.com/cooking-with-packaged-food-is-great-actually-1850299969)
-- [Lifehacker] [Where to Stuff Your Face With Free &lpar;or Cheap&rpar; Burritos on National Burrito Day](https://lifehacker.com/these-are-the-best-national-burrito-day-deals-1850304305)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Cooking With Packaged Food Is Great, Actually](https://lifehacker.com/cooking-with-packaged-food-is-great-actually-1850299969)<!-- TECH-POSTS:END -->
 
 ---
 
