@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Navigation Menus in React Native: 3 Types You Must Know [With Examples]](https://dev.to/avionmission/mastering-navigation-menus-in-react-native-3-types-you-must-know-with-examples-11of)
+- [Dev.to/JS] [Authentication in React Applications using Firebase and its services. Part 2](https://dev.to/dev_cody/authentication-in-react-applications-using-firebase-and-its-services-part-2-a3c)
+- [Dev.to/JS] [Real-world usage of Map and Set data types of JavaScript](https://dev.to/orahul1/real-world-usage-of-map-and-set-data-types-of-javascript-1fbf)
+- [Dev.to/JS] [Get the distance between the given date and now in words using date-fns](https://dev.to/ist4/get-the-distance-between-the-given-date-and-now-in-words-using-date-fns-35j7)
 - [Lifehacker] [TikTok Diet Culture Is Ruining Cottage Cheese](https://lifehacker.com/tiktok-diet-culture-is-ruining-cottage-cheese-1850308811)
 - [Dev.to/JS] [How to Merge Two Arrays in JavaScript and Python](https://dev.to/nielsenjared/how-to-merge-two-arrays-in-javascript-and-python-38ba)
 - [Lifehacker] [Donate Blood to Get This Cool Snoopy Shirt](https://lifehacker.com/donate-blood-to-get-this-cool-snoopy-shirt-1850309648)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is JSON](https://dev.to/ocxigin/what-is-json-30e7)
 - [Dev.to/JS] [Typescript, neden lazım?](https://dev.to/tankotun/typescript-neden-lazim-1cea)
 - [Dev.to/JS] [This is The Fastest and Simplest Chrome Extension on the Chrome Web Store!](https://dev.to/anasdew/this-is-the-fastest-and-simplest-chrome-extension-on-the-chrome-web-store-211c)
-- [Dev.to/JS] [Elasticsearch to Meilisearch migration guide](https://dev.to/shivaylamba/elasticsearch-migration-guide-383p)
-- [Dev.to/JS] [How to display events from start to end date in a calendar view in JavaScript](https://dev.to/jacksonkasi/how-to-display-events-from-start-to-end-date-in-a-calendar-view-in-javascript-1de3)
-- [Dev.to/JS] [The Future of Node.js in Internet of Things &lpar;IoT&rpar; Development](https://dev.to/folasayosamuel/the-future-of-nodejs-in-internet-of-things-iot-development-d17)
-- [Dev.to/JS] [Authentication in React Applications using Firebase and its services. Part 1.](https://dev.to/dev_cody/authentication-in-react-applications-using-firebase-and-its-services-part-1-2fel)
 - [Lifehacker] [You Can Remove That Stupid Doge Icon From Your Twitter Feed](https://lifehacker.com/you-can-remove-that-stupid-doge-icon-from-your-twitter-1850308507)
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free If You Have Apple Pay](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-if-you-ha-1850308128)
 - [Lifehacker] [Get a Dairy Queen Blizzard for Less Than a Buck](https://lifehacker.com/get-a-dairy-queen-blizzard-for-less-than-a-buck-1850305132)
