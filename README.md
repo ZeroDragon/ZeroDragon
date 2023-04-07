@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Entendendo Promises: Como funcionam e seus benefícios em JavaScript](https://dev.to/ramonborges15/entendendo-promises-como-funcionam-e-seus-beneficios-em-javascript-5eaa)
 - [Dev.to/JS] [Variáveis primitivas no JavaScript &lpar;string, number&rpar; são imutáveis](https://dev.to/laisfrigerio/variaveis-primitivas-no-javascript-string-number-sao-imutaveis-5118)
 - [Dev.to/JS] [My Tech Journey: Lessons Learned as a Junior Developer](https://dev.to/ifetolu5/my-tech-journey-lessons-learned-as-a-junior-developer-1k28)
 - [Dev.to/JS] [Web Storage &lpar;Cookies, localStorage, and sessionStorage&rpar;](https://dev.to/ahmed0saber/web-storage-cookies-localstorage-and-sessionstorage-11bh)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Make a serverless phone proxy and voicemail in Twilio](https://dev.to/conzorkingkong/make-a-serverless-phone-proxy-and-voicemail-in-twilio-53j0)
 - [Lifehacker] [You Can Remove That Stupid Doge Icon From Your Twitter Feed](https://lifehacker.com/you-can-remove-that-stupid-doge-icon-from-your-twitter-1850308507)
 - [Dev.to/JS] [A web security story from 2008: silently securing JSON.parse](https://dev.to/mikesamuel/2008-silently-securing-jsonparse-5cbb)
-- [Dev.to/JS] [How To Enhance Your Web Development Process with Stackbit and Storybook](https://dev.to/stackbit/how-to-enhance-your-web-development-process-with-stackbit-and-storybook-1pne)
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free If You Have Apple Pay](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-if-you-ha-1850308128)
 - [Lifehacker] [Get a Dairy Queen Blizzard for Less Than a Buck](https://lifehacker.com/get-a-dairy-queen-blizzard-for-less-than-a-buck-1850305132)
 - [Lifehacker] [There&#39;s Finally An AirDrop for Windows and Android Users](https://lifehacker.com/theres-finally-an-airdrop-for-windows-and-android-users-1850306548)
