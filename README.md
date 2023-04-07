@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [⛏ Rewriting Minecraft&#39;s World Generation Algorithm in JavaScript](https://dev.to/niduy/rewriting-minecrafts-world-generation-algorithm-in-javascript-2ijj)
+- [Dev.to/JS] [SneakerShop Tutorial : Home Screen ✨👟✨](https://dev.to/maj07/sneakershop-tutorial-reactnative-tailwind-part-2-4c9m)
+- [Lifehacker] [You Can Use AI to Summarize YouTube Videos and Boring Emails](https://lifehacker.com/you-can-actually-use-ai-to-summarize-youtube-videos-and-1850311347)
+- [Dev.to/JS] [Maximize Your Upload Efficiency: How to Perform Parallel File Uploads with Node.js and Cloudinary](https://dev.to/jeffsalive/maximize-your-upload-efficiency-how-to-perform-parallel-file-uploads-with-nodejs-and-cloudinary-42hn)
+- [Lifehacker] [Four Clever Ways to Reuse an Old Garden Hose](https://lifehacker.com/four-clever-ways-to-reuse-an-old-garden-hose-1850312495)
+- [Dev.to/JS] [Build classified ads project with React and Firebase](https://dev.to/itsmefarhan/build-classified-ads-project-with-react-and-firebase-19p5)
+- [Dev.to/JS] [Binary Tree Basics and Different Views](https://dev.to/gajananwatt/binary-tree-basics-and-different-views-8i2)
 - [Dev.to/JS] [BÓNG ĐÁ LIVE 247](https://dev.to/bongdalive247co/bong-da-live-247-1he8)
 - [Lifehacker] [Take These Steps to Protect Your Data After a Cyberattack](https://lifehacker.com/take-these-steps-to-protect-your-data-after-a-cyberatta-1850304604)
 - [Lifehacker] [What &#39;Genuine Leather&#39; Really Means](https://lifehacker.com/what-genuine-leather-really-means-1850309049)
@@ -33,18 +40,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Navigation Menus in React Native: 3 Types You Must Know [With Examples]](https://dev.to/avionmission/mastering-navigation-menus-in-react-native-3-types-you-must-know-with-examples-11of)
 - [Dev.to/JS] [Authentication in React Applications using Firebase and its services. Part 2](https://dev.to/dev_cody/authentication-in-react-applications-using-firebase-and-its-services-part-2-a3c)
 - [Dev.to/JS] [Real-world usage of Map and Set data types of JavaScript](https://dev.to/orahul1/real-world-usage-of-map-and-set-data-types-of-javascript-1fbf)
-- [Dev.to/JS] [Get the distance between the given date and now in words using date-fns](https://dev.to/ist4/get-the-distance-between-the-given-date-and-now-in-words-using-date-fns-35j7)
 - [Lifehacker] [TikTok Diet Culture Is Ruining Cottage Cheese](https://lifehacker.com/tiktok-diet-culture-is-ruining-cottage-cheese-1850308811)
-- [Dev.to/JS] [How to Merge Two Arrays in JavaScript and Python](https://dev.to/nielsenjared/how-to-merge-two-arrays-in-javascript-and-python-38ba)
 - [Lifehacker] [Donate Blood to Get This Cool Snoopy Shirt](https://lifehacker.com/donate-blood-to-get-this-cool-snoopy-shirt-1850309648)
 - [Lifehacker] [The Best Stim-Free Preworkout Supplement Is Eating a Damn Snack](https://lifehacker.com/the-best-stim-free-preworkout-supplement-is-eating-a-da-1850308539)
-- [Dev.to/JS] [From Callback Hell to Promise Chains](https://dev.to/yurich84/from-callback-hell-to-promise-chains-7hd)
-- [Dev.to/JS] [Discover The Royal City of Rajasthan, India](https://dev.to/alightindia/discover-the-royal-city-of-rajasthan-india-1dol)
-- [Dev.to/JS] [Readymade MLM Script | Networking Software Development Company](https://dev.to/lokeshinet/readymade-mlm-script-networking-software-development-company-451g)
 - [Lifehacker] [You Can Remove That Stupid Doge Icon From Your Twitter Feed](https://lifehacker.com/you-can-remove-that-stupid-doge-icon-from-your-twitter-1850308507)
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free If You Have Apple Pay](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-if-you-ha-1850308128)
 - [Lifehacker] [Get a Dairy Queen Blizzard for Less Than a Buck](https://lifehacker.com/get-a-dairy-queen-blizzard-for-less-than-a-buck-1850305132)
 - [Lifehacker] [There&#39;s Finally An AirDrop for Windows and Android Users](https://lifehacker.com/theres-finally-an-airdrop-for-windows-and-android-users-1850306548)
+- [Lifehacker] [How a Custodial Brokerage Account Can Help You Invest for Your Kids&#39; Future Now](https://lifehacker.com/how-to-start-investing-for-your-kids-future-now-1850309774)
 - [Lifehacker] [How to Clean Tree Sap From Your Clothes &lpar;and Everything Else&rpar;](https://lifehacker.com/how-to-clean-tree-sap-from-your-clothes-and-everything-1850304507)
 - [Lifehacker] [How to Make Your Own ‘Barbie’ Movie Poster Meme](https://lifehacker.com/how-to-make-your-own-barbie-movie-poster-meme-1850307581)
 - [Lifehacker] [The Better Way to Use Your Wearable’s ‘Readiness’ Data](https://lifehacker.com/the-better-way-to-use-your-wearable-s-readiness-data-1850304587)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Become an Astronaut](https://lifehacker.com/how-to-become-an-astronaut-1850301846)
 - [Lifehacker] [Lies I Tell Myself in the Gym](https://lifehacker.com/lies-i-tell-myself-in-the-gym-1850300670)
 - [Lifehacker] [Get Crispy Fish Skin Every Time, Without Resorting to Gimmicks](https://lifehacker.com/get-crispy-fish-skin-every-time-without-resorting-to-g-1850300533)
-- [Lifehacker] [It&#39;s Time for a Spending Audit](https://lifehacker.com/its-time-for-a-spending-audit-1850297815)
-- [Lifehacker] [Try These Exercises Instead of Hip Thrusts](https://lifehacker.com/try-these-exercises-instead-of-hip-thrusts-1850299216)
-- [Lifehacker] [Put a &#39;Mess Basket&#39; in Every Room](https://lifehacker.com/put-a-mess-basket-in-every-room-1850299149)
-- [Lifehacker] [Do You Tip Every Time You’re Asked?](https://lifehacker.com/do-you-tip-every-time-you-re-asked-1850299586)<!-- TECH-POSTS:END -->
+- [Lifehacker] [It&#39;s Time for a Spending Audit](https://lifehacker.com/its-time-for-a-spending-audit-1850297815)<!-- TECH-POSTS:END -->
 
 ---
 
