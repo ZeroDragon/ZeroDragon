@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🌸 A elegant way to consume API&#39;s at front-end](https://dev.to/daniellimae/a-elegant-way-to-consume-apis-at-front-end-3m8m)
+- [Dev.to/JS] [Losing Control](https://dev.to/hillswor/losing-control-5d8o)
+- [Dev.to/JS] [Introducing AWS Lambda Response Streaming](https://dev.to/aws-builders/introducing-streaming-response-from-aws-lambda-511f)
 - [Dev.to/JS] [Week&#39;s Digest : Variables and Data Types in JavaScript](https://dev.to/lotfijb/weeks-digest-variables-and-data-types-in-javascript-44pb)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Portals in React: Everything You Need to Know](https://dev.to/israelmitolu/a-beginners-guide-to-portals-in-react-everything-you-need-to-know-ifa)
 - [Dev.to/JS] [Building a RESTful API with Java Spring Boot](https://dev.to/moesif/building-a-restful-api-with-java-spring-boot-38j4)
@@ -34,12 +37,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Scale Your React Applications](https://dev.to/devland/how-to-scale-your-react-applications-b0a)
 - [Lifehacker] [The Right Way to Use &#39;Honor Among Thieves&#39; Characters in Your Next D&amp;D Campaign](https://lifehacker.com/the-right-way-to-use-honor-among-thieves-characters-in-1850313225)
 - [Dev.to/JS] [3 Top Features of JavaScript ES6: A Guide for Beginners](https://dev.to/imekinox/3-top-features-of-javascript-es6-a-guide-for-beginners-1olp)
-- [Dev.to/JS] [A Fun React Exercise](https://dev.to/nishanth_bs_77d4622972ebb/a-fun-react-exercise-3f10)
 - [Lifehacker] [Three Unexpected Ways to Eat Leftover Easter Eggs](https://lifehacker.com/three-unexpected-ways-to-eat-leftover-easter-eggs-1850312627)
 - [Lifehacker] [This Flourless Coconut Cake Is Perfect for Snacking](https://lifehacker.com/this-flourless-coconut-cake-is-perfect-for-snacking-1850312613)
-- [Dev.to/JS] [The DOM Whisperer: How to Communicate Effectively with the Document Object Model](https://dev.to/sterlingbarton/the-dom-whisperer-how-to-communicate-effectively-with-the-document-object-model-1031)
 - [Crazy Programmer] [Download Turbo C++ for Mac 2023](https://www.thecrazyprogrammer.com/2023/04/turbo-c-for-mac.html)
-- [Dev.to/JS] [⛏ Rewriting Minecraft&#39;s World Generation Algorithm in JavaScript](https://dev.to/niduy/rewriting-minecrafts-world-generation-algorithm-in-javascript-2ijj)
 - [Lifehacker] [You Can Use AI to Summarize YouTube Videos and Boring Emails](https://lifehacker.com/you-can-actually-use-ai-to-summarize-youtube-videos-and-1850311347)
 - [Lifehacker] [Four Clever Ways to Reuse an Old Garden Hose](https://lifehacker.com/four-clever-ways-to-reuse-an-old-garden-hose-1850312495)
 - [Lifehacker] [Take These Steps to Protect Your Data After a Cyberattack](https://lifehacker.com/take-these-steps-to-protect-your-data-after-a-cyberatta-1850304604)
