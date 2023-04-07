@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Develop a Backend for a Food Ordering and Delivery App Shortly with SpotnEats?](https://dev.to/emmy/how-to-develop-a-backend-for-a-food-ordering-and-delivery-app-shortly-with-spotneats-ki1)
+- [Dev.to/JS] [Complete roadmap to become a pro in MERN STACK🚀](https://dev.to/qbentil/complete-roadmap-to-become-a-pro-in-mern-stack-30cf)
 - [Dev.to/JS] [qqqqqqqqqqqqqqq](https://dev.to/kartik7120/qqqqqqqqqqqqqqq-5b7d)
 - [Dev.to/JS] [aaaaaaaaaaaaaaaaaa](https://dev.to/kartik7120/aaaaaaaaaaaaaaaaaa-83g)
 - [Dev.to/JS] [Crbug/1173575, non-JS module files deprecated error](https://dev.to/coder9/crbug1173575-non-js-module-files-deprecated-error-1anj)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cracking the Frontend Interview](https://dev.to/bybydev/cracking-the-frontend-interview-3njm)
 - [Dev.to/JS] [Which file is run if I just write nodemon and press enter to run it ?](https://dev.to/mbshehzad/which-file-is-run-if-i-just-write-nodemon-and-press-enter-to-run-it--5a8j)
 - [Dev.to/JS] [Pattern Proxy](https://dev.to/higordiego/pattern-proxy-197)
-- [Dev.to/JS] [Padrão Proxy](https://dev.to/higordiego/padrao-proxy-190c)
-- [Dev.to/JS] [Entendendo Promises: Como funcionam e seus benefícios em JavaScript](https://dev.to/ramonborges15/entendendo-promises-como-funcionam-e-seus-beneficios-em-javascript-5eaa)
 - [Lifehacker] [You Can Remove That Stupid Doge Icon From Your Twitter Feed](https://lifehacker.com/you-can-remove-that-stupid-doge-icon-from-your-twitter-1850308507)
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free If You Have Apple Pay](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-if-you-ha-1850308128)
 - [Lifehacker] [Get a Dairy Queen Blizzard for Less Than a Buck](https://lifehacker.com/get-a-dairy-queen-blizzard-for-less-than-a-buck-1850305132)
