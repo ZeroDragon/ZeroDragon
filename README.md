@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to display events from start to end date in a calendar view in JavaScript](https://dev.to/jacksonkasi/how-to-display-events-from-start-to-end-date-in-a-calendar-view-in-javascript-1de3)
+- [Dev.to/JS] [The Future of Node.js in Internet of Things &lpar;IoT&rpar; Development](https://dev.to/folasayosamuel/the-future-of-nodejs-in-internet-of-things-iot-development-d17)
+- [Dev.to/JS] [Authentication in React Applications using Firebase and its services. Part 1.](https://dev.to/dev_cody/authentication-in-react-applications-using-firebase-and-its-services-part-1-2fel)
+- [Dev.to/JS] [Recycle Code: CNAME &amp; Re-request](https://dev.to/cychu42/recycle-code-cname-re-request-3c1f)
+- [Dev.to/JS] [WHY USE HTML IN A WEBSITES ?](https://dev.to/theprithwisingh/why-use-html-in-a-websites--3igj)
 - [Dev.to/JS] [You might not use == &lpar;Double&rpar; Again!](https://dev.to/devlawrence/you-might-not-use-double-again-4mf5)
 - [Dev.to/JS] [Simplify Your DOM Manipulation with These Essential DOM API Tips](https://dev.to/wizdomtek/simplify-your-dom-manipulation-with-these-essential-dom-api-tips-olp)
 - [Dev.to/JS] [Beyond Angular Signals: Signals &amp; Custom Render Strategies](https://dev.to/yjaaidi/beyond-angular-signals-signals-custom-render-strategies-489j)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Develop a Backend for a Food Ordering and Delivery App Shortly with SpotnEats?](https://dev.to/emmy/how-to-develop-a-backend-for-a-food-ordering-and-delivery-app-shortly-with-spotneats-ki1)
 - [Dev.to/JS] [Complete roadmap to become a pro in MERN STACK🚀](https://dev.to/qbentil/complete-roadmap-to-become-a-pro-in-mern-stack-30cf)
 - [Dev.to/JS] [qqqqqqqqqqqqqqq](https://dev.to/kartik7120/qqqqqqqqqqqqqqq-5b7d)
-- [Dev.to/JS] [aaaaaaaaaaaaaaaaaa](https://dev.to/kartik7120/aaaaaaaaaaaaaaaaaa-83g)
-- [Dev.to/JS] [Crbug/1173575, non-JS module files deprecated error](https://dev.to/coder9/crbug1173575-non-js-module-files-deprecated-error-1anj)
-- [Dev.to/JS] [Audio Resampling in Node.js - JavaScript](https://dev.to/arhamrumi/audio-resampling-in-nodejs-javascript-4h7m)
-- [Dev.to/JS] [About HTML CSS](https://dev.to/muhammadazizesonboyev/about-html-css-2b96)
-- [Dev.to/JS] [WordPress Widgets User Meta Pro](https://dev.to/usermeta/wordpress-widgets-user-meta-pro-57e8)
 - [Lifehacker] [You Can Remove That Stupid Doge Icon From Your Twitter Feed](https://lifehacker.com/you-can-remove-that-stupid-doge-icon-from-your-twitter-1850308507)
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free If You Have Apple Pay](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-if-you-ha-1850308128)
 - [Lifehacker] [Get a Dairy Queen Blizzard for Less Than a Buck](https://lifehacker.com/get-a-dairy-queen-blizzard-for-less-than-a-buck-1850305132)
