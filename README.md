@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Elasticsearch to Meilisearch migration guide](https://dev.to/shivaylamba/elasticsearch-migration-guide-383p)
 - [Dev.to/JS] [How to display events from start to end date in a calendar view in JavaScript](https://dev.to/jacksonkasi/how-to-display-events-from-start-to-end-date-in-a-calendar-view-in-javascript-1de3)
 - [Dev.to/JS] [The Future of Node.js in Internet of Things &lpar;IoT&rpar; Development](https://dev.to/folasayosamuel/the-future-of-nodejs-in-internet-of-things-iot-development-d17)
 - [Dev.to/JS] [Authentication in React Applications using Firebase and its services. Part 1.](https://dev.to/dev_cody/authentication-in-react-applications-using-firebase-and-its-services-part-1-2fel)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&quot;That Is So Fetch&quot;: Weather API Webapp](https://dev.to/jstellmacher/that-is-so-fetch-weather-api-webapp-1fo5)
 - [Dev.to/JS] [How to Develop a Backend for a Food Ordering and Delivery App Shortly with SpotnEats?](https://dev.to/emmy/how-to-develop-a-backend-for-a-food-ordering-and-delivery-app-shortly-with-spotneats-ki1)
 - [Dev.to/JS] [Complete roadmap to become a pro in MERN STACK🚀](https://dev.to/qbentil/complete-roadmap-to-become-a-pro-in-mern-stack-30cf)
-- [Dev.to/JS] [qqqqqqqqqqqqqqq](https://dev.to/kartik7120/qqqqqqqqqqqqqqq-5b7d)
 - [Lifehacker] [You Can Remove That Stupid Doge Icon From Your Twitter Feed](https://lifehacker.com/you-can-remove-that-stupid-doge-icon-from-your-twitter-1850308507)
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free If You Have Apple Pay](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-if-you-ha-1850308128)
 - [Lifehacker] [Get a Dairy Queen Blizzard for Less Than a Buck](https://lifehacker.com/get-a-dairy-queen-blizzard-for-less-than-a-buck-1850305132)
