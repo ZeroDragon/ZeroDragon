@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pattern Proxy](https://dev.to/higordiego/pattern-proxy-197)
+- [Dev.to/JS] [Padrão Proxy](https://dev.to/higordiego/padrao-proxy-190c)
 - [Dev.to/JS] [Entendendo Promises: Como funcionam e seus benefícios em JavaScript](https://dev.to/ramonborges15/entendendo-promises-como-funcionam-e-seus-beneficios-em-javascript-5eaa)
 - [Dev.to/JS] [Variáveis primitivas no JavaScript &lpar;string, number&rpar; são imutáveis](https://dev.to/laisfrigerio/variaveis-primitivas-no-javascript-string-number-sao-imutaveis-5118)
 - [Dev.to/JS] [My Tech Journey: Lessons Learned as a Junior Developer](https://dev.to/ifetolu5/my-tech-journey-lessons-learned-as-a-junior-developer-1k28)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Variable Scope in JavaScript: Beginner&#39;s Guide](https://dev.to/katbruce/variable-scope-in-javascript-beginners-guide-246i)
 - [Dev.to/JS] [Adding &#39;Sign in with Google&#39; to your site with vanilla JS](https://dev.to/mikecoux/adding-sign-in-with-google-to-your-site-with-vanilla-js-g2e)
 - [Dev.to/JS] [querySelector&lpar;&rpar; vs. getElementById&lpar;&rpar;](https://dev.to/colelevy/queryselector-vs-getelementbyid-166n)
-- [Dev.to/JS] [Make a serverless phone proxy and voicemail in Twilio](https://dev.to/conzorkingkong/make-a-serverless-phone-proxy-and-voicemail-in-twilio-53j0)
 - [Lifehacker] [You Can Remove That Stupid Doge Icon From Your Twitter Feed](https://lifehacker.com/you-can-remove-that-stupid-doge-icon-from-your-twitter-1850308507)
-- [Dev.to/JS] [A web security story from 2008: silently securing JSON.parse](https://dev.to/mikesamuel/2008-silently-securing-jsonparse-5cbb)
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free If You Have Apple Pay](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-if-you-ha-1850308128)
 - [Lifehacker] [Get a Dairy Queen Blizzard for Less Than a Buck](https://lifehacker.com/get-a-dairy-queen-blizzard-for-less-than-a-buck-1850305132)
 - [Lifehacker] [There&#39;s Finally An AirDrop for Windows and Android Users](https://lifehacker.com/theres-finally-an-airdrop-for-windows-and-android-users-1850306548)
