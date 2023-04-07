@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Week&#39;s Digest : Variables and Data Types in JavaScript](https://dev.to/lotfijb/weeks-digest-variables-and-data-types-in-javascript-44pb)
+- [Dev.to/JS] [A Beginner&#39;s Guide to Portals in React: Everything You Need to Know](https://dev.to/israelmitolu/a-beginners-guide-to-portals-in-react-everything-you-need-to-know-ifa)
+- [Dev.to/JS] [Building a RESTful API with Java Spring Boot](https://dev.to/moesif/building-a-restful-api-with-java-spring-boot-38j4)
 - [Dev.to/JS] [Chat GPT Clone with Laravel Inertia and VueJS Full Tutorial](https://dev.to/laravellercom/chat-gpt-clone-with-laravel-inertia-and-vuejs-full-tutorial-51h9)
 - [Dev.to/JS] [Reduce null checks in your code](https://dev.to/tahazsh/reduce-null-checks-in-your-code-1oim)
 - [Dev.to/JS] [&quot;Say what, now?&quot; Breaking Down JavaScript Building Blocks for Algorithmically-Challenged Thinkers](https://dev.to/lslayman/say-what-now-breaking-down-javascript-building-blocks-for-algorithmically-challenged-thinkers-4p0p)
@@ -37,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The DOM Whisperer: How to Communicate Effectively with the Document Object Model](https://dev.to/sterlingbarton/the-dom-whisperer-how-to-communicate-effectively-with-the-document-object-model-1031)
 - [Crazy Programmer] [Download Turbo C++ for Mac 2023](https://www.thecrazyprogrammer.com/2023/04/turbo-c-for-mac.html)
 - [Dev.to/JS] [⛏ Rewriting Minecraft&#39;s World Generation Algorithm in JavaScript](https://dev.to/niduy/rewriting-minecrafts-world-generation-algorithm-in-javascript-2ijj)
-- [Dev.to/JS] [SneakerShop Tutorial : Home Screen ✨👟✨](https://dev.to/maj07/sneakershop-tutorial-reactnative-tailwind-part-2-4c9m)
 - [Lifehacker] [You Can Use AI to Summarize YouTube Videos and Boring Emails](https://lifehacker.com/you-can-actually-use-ai-to-summarize-youtube-videos-and-1850311347)
-- [Dev.to/JS] [Maximize Your Upload Efficiency: How to Perform Parallel File Uploads with Node.js and Cloudinary](https://dev.to/jeffsalive/maximize-your-upload-efficiency-how-to-perform-parallel-file-uploads-with-nodejs-and-cloudinary-42hn)
 - [Lifehacker] [Four Clever Ways to Reuse an Old Garden Hose](https://lifehacker.com/four-clever-ways-to-reuse-an-old-garden-hose-1850312495)
-- [Dev.to/JS] [Build classified ads project with React and Firebase](https://dev.to/itsmefarhan/build-classified-ads-project-with-react-and-firebase-19p5)
 - [Lifehacker] [Take These Steps to Protect Your Data After a Cyberattack](https://lifehacker.com/take-these-steps-to-protect-your-data-after-a-cyberatta-1850304604)
 - [Lifehacker] [What &#39;Genuine Leather&#39; Really Means](https://lifehacker.com/what-genuine-leather-really-means-1850309049)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is the Mario Movie Actually...Good?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-the-ma-1850309148)
