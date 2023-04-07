@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [TikTok Diet Culture Is Ruining Cottage Cheese](https://lifehacker.com/tiktok-diet-culture-is-ruining-cottage-cheese-1850308811)
+- [Dev.to/JS] [How to Merge Two Arrays in JavaScript and Python](https://dev.to/nielsenjared/how-to-merge-two-arrays-in-javascript-and-python-38ba)
+- [Lifehacker] [Donate Blood to Get This Cool Snoopy Shirt](https://lifehacker.com/donate-blood-to-get-this-cool-snoopy-shirt-1850309648)
 - [Lifehacker] [The Best Stim-Free Preworkout Supplement Is Eating a Damn Snack](https://lifehacker.com/the-best-stim-free-preworkout-supplement-is-eating-a-da-1850308539)
 - [Dev.to/JS] [From Callback Hell to Promise Chains](https://dev.to/yurich84/from-callback-hell-to-promise-chains-7hd)
 - [Dev.to/JS] [Discover The Royal City of Rajasthan, India](https://dev.to/alightindia/discover-the-royal-city-of-rajasthan-india-1dol)
@@ -35,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to display events from start to end date in a calendar view in JavaScript](https://dev.to/jacksonkasi/how-to-display-events-from-start-to-end-date-in-a-calendar-view-in-javascript-1de3)
 - [Dev.to/JS] [The Future of Node.js in Internet of Things &lpar;IoT&rpar; Development](https://dev.to/folasayosamuel/the-future-of-nodejs-in-internet-of-things-iot-development-d17)
 - [Dev.to/JS] [Authentication in React Applications using Firebase and its services. Part 1.](https://dev.to/dev_cody/authentication-in-react-applications-using-firebase-and-its-services-part-1-2fel)
-- [Dev.to/JS] [Recycle Code: CNAME &amp; Re-request](https://dev.to/cychu42/recycle-code-cname-re-request-3c1f)
 - [Lifehacker] [You Can Remove That Stupid Doge Icon From Your Twitter Feed](https://lifehacker.com/you-can-remove-that-stupid-doge-icon-from-your-twitter-1850308507)
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free If You Have Apple Pay](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-if-you-ha-1850308128)
 - [Lifehacker] [Get a Dairy Queen Blizzard for Less Than a Buck](https://lifehacker.com/get-a-dairy-queen-blizzard-for-less-than-a-buck-1850305132)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do You Tip Every Time You’re Asked?](https://lifehacker.com/do-you-tip-every-time-you-re-asked-1850299586)
 - [Lifehacker] [The Best Grilled Cheese Bread Is an Inside-Out Croissant](https://lifehacker.com/best-grilled-cheese-bread-is-a-croissant-1850299203)
 - [Lifehacker] [This Is the Cheapest and Easiest Way to Clean Up Pet Hair](https://lifehacker.com/this-is-the-cheapest-and-easiest-way-to-clean-up-pet-ha-1850298203)
-- [Lifehacker] [Why You Should Always Sign Up for Subscriptions in a Browser, Not the App](https://lifehacker.com/dont-sign-up-for-subscriptions-in-the-app-1850298355)
-- [Lifehacker] [How to Get Mud Out of Basically Anything](https://lifehacker.com/get-mud-stains-out-of-anything-1850295339)
-- [Lifehacker] [This Southwest Airlines Deal Will Let Your Companion Fly for Free](https://lifehacker.com/this-southwest-airlines-deal-will-let-your-companion-fl-1850299192)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Always Sign Up for Subscriptions in a Browser, Not the App](https://lifehacker.com/dont-sign-up-for-subscriptions-in-the-app-1850298355)<!-- TECH-POSTS:END -->
 
 ---
 
