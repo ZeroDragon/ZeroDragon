@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [You might not use == &lpar;Double&rpar; Again!](https://dev.to/devlawrence/you-might-not-use-double-again-4mf5)
+- [Dev.to/JS] [Simplify Your DOM Manipulation with These Essential DOM API Tips](https://dev.to/wizdomtek/simplify-your-dom-manipulation-with-these-essential-dom-api-tips-olp)
+- [Dev.to/JS] [Beyond Angular Signals: Signals &amp; Custom Render Strategies](https://dev.to/yjaaidi/beyond-angular-signals-signals-custom-render-strategies-489j)
+- [Dev.to/JS] [&quot;That Is So Fetch&quot;: Weather API Webapp](https://dev.to/jstellmacher/that-is-so-fetch-weather-api-webapp-1fo5)
 - [Dev.to/JS] [How to Develop a Backend for a Food Ordering and Delivery App Shortly with SpotnEats?](https://dev.to/emmy/how-to-develop-a-backend-for-a-food-ordering-and-delivery-app-shortly-with-spotneats-ki1)
 - [Dev.to/JS] [Complete roadmap to become a pro in MERN STACK🚀](https://dev.to/qbentil/complete-roadmap-to-become-a-pro-in-mern-stack-30cf)
 - [Dev.to/JS] [qqqqqqqqqqqqqqq](https://dev.to/kartik7120/qqqqqqqqqqqqqqq-5b7d)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Audio Resampling in Node.js - JavaScript](https://dev.to/arhamrumi/audio-resampling-in-nodejs-javascript-4h7m)
 - [Dev.to/JS] [About HTML CSS](https://dev.to/muhammadazizesonboyev/about-html-css-2b96)
 - [Dev.to/JS] [WordPress Widgets User Meta Pro](https://dev.to/usermeta/wordpress-widgets-user-meta-pro-57e8)
-- [Dev.to/JS] [Easy guide to localize your Next.js project.](https://dev.to/hewrsrood/easy-guide-to-localize-your-nextjs-project-3ljc)
-- [Dev.to/JS] [Cracking the Frontend Interview](https://dev.to/bybydev/cracking-the-frontend-interview-3njm)
-- [Dev.to/JS] [Which file is run if I just write nodemon and press enter to run it ?](https://dev.to/mbshehzad/which-file-is-run-if-i-just-write-nodemon-and-press-enter-to-run-it--5a8j)
-- [Dev.to/JS] [Pattern Proxy](https://dev.to/higordiego/pattern-proxy-197)
 - [Lifehacker] [You Can Remove That Stupid Doge Icon From Your Twitter Feed](https://lifehacker.com/you-can-remove-that-stupid-doge-icon-from-your-twitter-1850308507)
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free If You Have Apple Pay](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-if-you-ha-1850308128)
 - [Lifehacker] [Get a Dairy Queen Blizzard for Less Than a Buck](https://lifehacker.com/get-a-dairy-queen-blizzard-for-less-than-a-buck-1850305132)
