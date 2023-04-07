@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cracking the Frontend Interview](https://dev.to/bybydev/cracking-the-frontend-interview-3njm)
+- [Dev.to/JS] [Which file is run if I just write nodemon and press enter to run it ?](https://dev.to/mbshehzad/which-file-is-run-if-i-just-write-nodemon-and-press-enter-to-run-it--5a8j)
 - [Dev.to/JS] [Pattern Proxy](https://dev.to/higordiego/pattern-proxy-197)
 - [Dev.to/JS] [Padrão Proxy](https://dev.to/higordiego/padrao-proxy-190c)
 - [Dev.to/JS] [Entendendo Promises: Como funcionam e seus benefícios em JavaScript](https://dev.to/ramonborges15/entendendo-promises-como-funcionam-e-seus-beneficios-em-javascript-5eaa)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Series: useRef Hook](https://dev.to/oluwatrillions/react-series-useref-hook-29m8)
 - [Dev.to/JS] [The &quot;suspension of the request&quot; technique with Axios](https://dev.to/mohammadbrzbrz72/the-suspension-of-the-request-technique-with-axios-33oc)
 - [Dev.to/JS] [Variable Scope in JavaScript: Beginner&#39;s Guide](https://dev.to/katbruce/variable-scope-in-javascript-beginners-guide-246i)
-- [Dev.to/JS] [Adding &#39;Sign in with Google&#39; to your site with vanilla JS](https://dev.to/mikecoux/adding-sign-in-with-google-to-your-site-with-vanilla-js-g2e)
-- [Dev.to/JS] [querySelector&lpar;&rpar; vs. getElementById&lpar;&rpar;](https://dev.to/colelevy/queryselector-vs-getelementbyid-166n)
 - [Lifehacker] [You Can Remove That Stupid Doge Icon From Your Twitter Feed](https://lifehacker.com/you-can-remove-that-stupid-doge-icon-from-your-twitter-1850308507)
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free If You Have Apple Pay](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-if-you-ha-1850308128)
 - [Lifehacker] [Get a Dairy Queen Blizzard for Less Than a Buck](https://lifehacker.com/get-a-dairy-queen-blizzard-for-less-than-a-buck-1850305132)
