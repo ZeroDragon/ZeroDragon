@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Flourless Coconut Cake Is Perfect for Snacking](https://lifehacker.com/this-flourless-coconut-cake-is-perfect-for-snacking-1850312613)
+- [Dev.to/JS] [The DOM Whisperer: How to Communicate Effectively with the Document Object Model](https://dev.to/sterlingbarton/the-dom-whisperer-how-to-communicate-effectively-with-the-document-object-model-1031)
+- [Crazy Programmer] [Download Turbo C++ for Mac 2023](https://www.thecrazyprogrammer.com/2023/04/turbo-c-for-mac.html)
 - [Dev.to/JS] [⛏ Rewriting Minecraft&#39;s World Generation Algorithm in JavaScript](https://dev.to/niduy/rewriting-minecrafts-world-generation-algorithm-in-javascript-2ijj)
 - [Dev.to/JS] [SneakerShop Tutorial : Home Screen ✨👟✨](https://dev.to/maj07/sneakershop-tutorial-reactnative-tailwind-part-2-4c9m)
 - [Lifehacker] [You Can Use AI to Summarize YouTube Videos and Boring Emails](https://lifehacker.com/you-can-actually-use-ai-to-summarize-youtube-videos-and-1850311347)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is the Mario Movie Actually...Good?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-the-ma-1850309148)
 - [Dev.to/JS] [Mastering Navigation Menus in React Native: 3 Types You Must Know [With Examples]](https://dev.to/avionmission/mastering-navigation-menus-in-react-native-3-types-you-must-know-with-examples-11of)
 - [Dev.to/JS] [Authentication in React Applications using Firebase and its services. Part 2](https://dev.to/dev_cody/authentication-in-react-applications-using-firebase-and-its-services-part-2-a3c)
-- [Dev.to/JS] [Real-world usage of Map and Set data types of JavaScript](https://dev.to/orahul1/real-world-usage-of-map-and-set-data-types-of-javascript-1fbf)
 - [Lifehacker] [TikTok Diet Culture Is Ruining Cottage Cheese](https://lifehacker.com/tiktok-diet-culture-is-ruining-cottage-cheese-1850308811)
 - [Lifehacker] [Donate Blood to Get This Cool Snoopy Shirt](https://lifehacker.com/donate-blood-to-get-this-cool-snoopy-shirt-1850309648)
 - [Lifehacker] [The Best Stim-Free Preworkout Supplement Is Eating a Damn Snack](https://lifehacker.com/the-best-stim-free-preworkout-supplement-is-eating-a-da-1850308539)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Cooking With Packaged Food Is Great, Actually](https://lifehacker.com/cooking-with-packaged-food-is-great-actually-1850299969)
 - [Lifehacker] [Where to Stuff Your Face With Free &lpar;or Cheap&rpar; Burritos on National Burrito Day](https://lifehacker.com/these-are-the-best-national-burrito-day-deals-1850304305)
 - [Lifehacker] [How to Become an Astronaut](https://lifehacker.com/how-to-become-an-astronaut-1850301846)
-- [Lifehacker] [Lies I Tell Myself in the Gym](https://lifehacker.com/lies-i-tell-myself-in-the-gym-1850300670)
-- [Lifehacker] [Get Crispy Fish Skin Every Time, Without Resorting to Gimmicks](https://lifehacker.com/get-crispy-fish-skin-every-time-without-resorting-to-g-1850300533)
-- [Lifehacker] [It&#39;s Time for a Spending Audit](https://lifehacker.com/its-time-for-a-spending-audit-1850297815)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Lies I Tell Myself in the Gym](https://lifehacker.com/lies-i-tell-myself-in-the-gym-1850300670)<!-- TECH-POSTS:END -->
 
 ---
 
