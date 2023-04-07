@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Audio Resampling in Node.js - JavaScript](https://dev.to/arhamrumi/audio-resampling-in-nodejs-javascript-4h7m)
+- [Dev.to/JS] [About HTML CSS](https://dev.to/muhammadazizesonboyev/about-html-css-2b96)
 - [Dev.to/JS] [WordPress Widgets User Meta Pro](https://dev.to/usermeta/wordpress-widgets-user-meta-pro-57e8)
 - [Dev.to/JS] [Easy guide to localize your Next.js project.](https://dev.to/hewrsrood/easy-guide-to-localize-your-nextjs-project-3ljc)
 - [Dev.to/JS] [Cracking the Frontend Interview](https://dev.to/bybydev/cracking-the-frontend-interview-3njm)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Variáveis primitivas no JavaScript &lpar;string, number&rpar; são imutáveis](https://dev.to/laisfrigerio/variaveis-primitivas-no-javascript-string-number-sao-imutaveis-5118)
 - [Dev.to/JS] [My Tech Journey: Lessons Learned as a Junior Developer](https://dev.to/ifetolu5/my-tech-journey-lessons-learned-as-a-junior-developer-1k28)
 - [Dev.to/JS] [Web Storage &lpar;Cookies, localStorage, and sessionStorage&rpar;](https://dev.to/ahmed0saber/web-storage-cookies-localstorage-and-sessionstorage-11bh)
-- [Dev.to/JS] [Wrangling GraphQL Data Schemas with AWS AppSync](https://dev.to/brianhhough/wrangling-graphql-data-schemas-with-aws-appsync-24mj)
-- [Dev.to/JS] [React Series: useRef Hook](https://dev.to/oluwatrillions/react-series-useref-hook-29m8)
 - [Lifehacker] [You Can Remove That Stupid Doge Icon From Your Twitter Feed](https://lifehacker.com/you-can-remove-that-stupid-doge-icon-from-your-twitter-1850308507)
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free If You Have Apple Pay](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-if-you-ha-1850308128)
 - [Lifehacker] [Get a Dairy Queen Blizzard for Less Than a Buck](https://lifehacker.com/get-a-dairy-queen-blizzard-for-less-than-a-buck-1850305132)
