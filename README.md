@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WordPress Widgets User Meta Pro](https://dev.to/usermeta/wordpress-widgets-user-meta-pro-57e8)
 - [Dev.to/JS] [Easy guide to localize your Next.js project.](https://dev.to/hewrsrood/easy-guide-to-localize-your-nextjs-project-3ljc)
 - [Dev.to/JS] [Cracking the Frontend Interview](https://dev.to/bybydev/cracking-the-frontend-interview-3njm)
 - [Dev.to/JS] [Which file is run if I just write nodemon and press enter to run it ?](https://dev.to/mbshehzad/which-file-is-run-if-i-just-write-nodemon-and-press-enter-to-run-it--5a8j)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web Storage &lpar;Cookies, localStorage, and sessionStorage&rpar;](https://dev.to/ahmed0saber/web-storage-cookies-localstorage-and-sessionstorage-11bh)
 - [Dev.to/JS] [Wrangling GraphQL Data Schemas with AWS AppSync](https://dev.to/brianhhough/wrangling-graphql-data-schemas-with-aws-appsync-24mj)
 - [Dev.to/JS] [React Series: useRef Hook](https://dev.to/oluwatrillions/react-series-useref-hook-29m8)
-- [Dev.to/JS] [The &quot;suspension of the request&quot; technique with Axios](https://dev.to/mohammadbrzbrz72/the-suspension-of-the-request-technique-with-axios-33oc)
 - [Lifehacker] [You Can Remove That Stupid Doge Icon From Your Twitter Feed](https://lifehacker.com/you-can-remove-that-stupid-doge-icon-from-your-twitter-1850308507)
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free If You Have Apple Pay](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-if-you-ha-1850308128)
 - [Lifehacker] [Get a Dairy Queen Blizzard for Less Than a Buck](https://lifehacker.com/get-a-dairy-queen-blizzard-for-less-than-a-buck-1850305132)
