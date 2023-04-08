@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Easter Food Deals and Freebies](https://lifehacker.com/the-best-easter-food-deals-and-freebies-1850305940)
+- [Dev.to/JS] [&quot;JavaScript: The Powerhouse of Web Development!&quot;](https://dev.to/codingstella/javascript-the-powerhouse-of-web-development-1jhe)
+- [Dev.to/JS] [Boost Your JavaScript with JSDoc Typing](https://dev.to/samuel-braun/boost-your-javascript-with-jsdoc-typing-3hb3)
 - [Dev.to/JS] [Next.js vs React.js: Which JavaScript Framework is Right for You?](https://dev.to/atharvamali/nextjs-vs-reactjs-which-javascript-framework-is-right-for-you-4efe)
 - [Dev.to/JS] [Find unused exports with this bash script](https://dev.to/muikku/find-unused-exports-with-this-bash-script-33bf)
 - [Dev.to/JS] [LeetCode - Construct Binary Tree from Preorder and Inorder Traversal](https://dev.to/_alkesh26/leetcode-construct-binary-tree-from-preorder-and-inorder-traversal-2iil)
 - [Dev.to/JS] [Debouncing Simplified](https://dev.to/rv90904/debouncing-simplified-1pif)
-- [Dev.to/JS] [What&#39;s new with reactjs?](https://dev.to/highcenburg/whats-new-with-reactjs-5f22)
 - [Dev.to/JS] [How to call async/await functions in parallel](https://dev.to/collegewap/how-to-call-asyncawait-functions-in-parallel-5h73)
 - [Dev.to/JS] [Programing During Ramadan !](https://dev.to/mohamedsdz/programing-during-ramadan--4fkl)
 - [Dev.to/JS] [Introduction of Angular for Beginner](https://dev.to/kafeel_ahmad/introduction-of-angular-for-beginner-45n9)
 - [Dev.to/JS] [Weekend Reading](https://dev.to/sporter/weekend-reading-3enn)
 - [Dev.to/JS] [Starter Code - Object Detector Codelab](https://dev.to/mohamedsdz/starter-code-object-detector-codelab-4j8b)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;08-04-2023&rpar; - World Continues To Say No](https://dev.to/mjgs/this-weeks-newsletter-is-out-08-04-2023-world-continues-to-say-no-1o3d)
-- [Dev.to/JS] [React Query Cheat Sheet](https://dev.to/sahilverma_dev/react-query-cheat-sheet-58l3)
 - [Lifehacker] [Take Easter Eggs to the Fiery Depths of Hell With Chili and Garlic](https://lifehacker.com/take-easter-eggs-to-the-fiery-depths-of-hell-with-chili-1850313422)
 - [Lifehacker] [The Right Way to Use &#39;Honor Among Thieves&#39; Characters in Your Next D&amp;D Campaign](https://lifehacker.com/the-right-way-to-use-honor-among-thieves-characters-in-1850313225)
 - [Lifehacker] [Three Unexpected Ways to Eat Leftover Easter Eggs](https://lifehacker.com/three-unexpected-ways-to-eat-leftover-easter-eggs-1850312627)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Spreadsheet Tricks Make Budgeting &#39;Fun&#39;](https://lifehacker.com/these-spreadsheet-tricks-make-budgeting-fun-1850297820)
 - [Lifehacker] [Always Get a Second Opinion on a Tech Repair](https://lifehacker.com/always-get-a-second-opinion-on-a-tech-repair-1850299664)
 - [Lifehacker] [This Three-Ingredient Matzo Confection is Sweet and Salty Perfection](https://lifehacker.com/this-three-ingredient-matzo-confection-is-sweet-and-sal-1850305039)
-- [Lifehacker] [Turn Papa John&#39;s Garlic Sauce Into a Fancy Compound Butter](https://lifehacker.com/turn-papa-johns-garlic-sauce-into-a-fancy-compound-butt-1850304805)
-- [Lifehacker] [Cooking With Packaged Food Is Great, Actually](https://lifehacker.com/cooking-with-packaged-food-is-great-actually-1850299969)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Turn Papa John&#39;s Garlic Sauce Into a Fancy Compound Butter](https://lifehacker.com/turn-papa-johns-garlic-sauce-into-a-fancy-compound-butt-1850304805)<!-- TECH-POSTS:END -->
 
 ---
 
