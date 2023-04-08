@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Children Props in React](https://dev.to/taukirsheikh/understanding-children-props-in-react-1g28)
+- [Dev.to/JS] [Phase 1 blog post](https://dev.to/layneandrews/phase-1-blog-post-eli)
 - [Dev.to/JS] [How I Earned 40,000rs on My First Freelancing Project: Experience and Lessons Learned !!!](https://dev.to/sanket00900/how-i-earned-40000rs-on-my-first-freelancing-project-experience-and-lessons-learned--44mn)
 - [Dev.to/JS] [Olivia Casta: The Rising Star of Hollywood](https://dev.to/rockmiz661/olivia-casta-the-rising-star-of-hollywood-5hdo)
 - [Dev.to/JS] [Creating a new array on the basis of dates inside array of objects](https://dev.to/pawanjs/creating-a-new-array-on-the-basis-of-dates-inside-array-of-objects-2jpj)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hackaflag Academy oferece 6 cursos gratuitos em Pentest, Linux e mais para você aprender!](https://dev.to/guiadeti/hackaflag-academy-oferece-6-cursos-gratuitos-em-pentest-linux-e-mais-para-voce-aprender-19fo)
 - [Dev.to/JS] [Easy explanation of Async/Await in JavaScript](https://dev.to/zeeshanhshaheen/fundamental-concept-of-asyncawait-in-javascript-23i7)
 - [Dev.to/JS] [🌸 A elegant way to consume API&#39;s at front-end](https://dev.to/daniellimae/a-elegant-way-to-consume-apis-at-front-end-3m8m)
-- [Dev.to/JS] [Losing Control](https://dev.to/hillswor/losing-control-5d8o)
-- [Dev.to/JS] [Introducing AWS Lambda Response Streaming](https://dev.to/aws-builders/introducing-streaming-response-from-aws-lambda-511f)
 - [Lifehacker] [Take Easter Eggs to the Fiery Depths of Hell With Chili and Garlic](https://lifehacker.com/take-easter-eggs-to-the-fiery-depths-of-hell-with-chili-1850313422)
 - [Lifehacker] [The Right Way to Use &#39;Honor Among Thieves&#39; Characters in Your Next D&amp;D Campaign](https://lifehacker.com/the-right-way-to-use-honor-among-thieves-characters-in-1850313225)
 - [Lifehacker] [Three Unexpected Ways to Eat Leftover Easter Eggs](https://lifehacker.com/three-unexpected-ways-to-eat-leftover-easter-eggs-1850312627)
