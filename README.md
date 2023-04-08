@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [One moment, and all your problems are gone.](https://dev.to/inanoniloquent/one-moment-and-all-your-problems-are-gone-5d1p)
+- [Dev.to/JS] [Deferred &lpar;promise&rpar; pattern](https://dev.to/webduvet/deferred-promise-pattern-2j59)
+- [Dev.to/JS] [Customizing Swiper.js prev/next arrow buttons and pagination bullets in React](https://dev.to/ivadyhabimana/customizing-swiperjs-prevnext-arrow-buttons-and-pagination-bullets-in-react-3gkh)
+- [Dev.to/JS] [One moment, and all your problems are gone](https://dev.to/inanoniloquent/one-moment-and-all-your-problems-are-gone-5d1p)
 - [Lifehacker] [Never Store These Items on a Windowsill](https://lifehacker.com/never-store-these-items-on-a-windowsill-1850314993)
 - [Dev.to/JS] [Never Store Derived State! Here’s Why!](https://dev.to/fpaghar/never-store-derived-state-heres-why-25o6)
 - [Dev.to/JS] [Introducing SingularGPT - automate your device with AI Vision](https://dev.to/abhiprojectz/introducing-singulargpt-automate-your-device-with-ai-vision-1che)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ecmascript](https://dev.to/navinso92429049/ecmascript-j94)
 - [Dev.to/JS] [WebGL](https://dev.to/navinso92429049/webgl-1ich)
 - [Lifehacker] [The Best Easter Food Deals and Freebies](https://lifehacker.com/the-best-easter-food-deals-and-freebies-1850305940)
-- [Dev.to/JS] [&quot;JavaScript: The Powerhouse of Web Development!&quot;](https://dev.to/codingstella/javascript-the-powerhouse-of-web-development-1jhe)
-- [Dev.to/JS] [Boost Your JavaScript with JSDoc Typing](https://dev.to/samuel-braun/boost-your-javascript-with-jsdoc-typing-3hb3)
 - [Lifehacker] [Take Easter Eggs to the Fiery Depths of Hell With Chili and Garlic](https://lifehacker.com/take-easter-eggs-to-the-fiery-depths-of-hell-with-chili-1850313422)
 - [Lifehacker] [The Right Way to Use &#39;Honor Among Thieves&#39; Characters in Your Next D&amp;D Campaign](https://lifehacker.com/the-right-way-to-use-honor-among-thieves-characters-in-1850313225)
 - [Lifehacker] [Three Unexpected Ways to Eat Leftover Easter Eggs](https://lifehacker.com/three-unexpected-ways-to-eat-leftover-easter-eggs-1850312627)
