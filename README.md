@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to keep a persistent class on a LitElement](https://dev.to/konnorrogers/how-to-keep-a-persistent-class-on-a-litelement-35io)
+- [Dev.to/JS] [Polymorphism With TypeScript](https://dev.to/ayako_yk/polymorphism-with-typescript-1pk9)
 - [Dev.to/JS] [Leveraging OpenTelemetry in Deno](https://dev.to/grunet/leveraging-opentelemetry-in-deno-45bj)
 - [Dev.to/JS] [Hackaflag Academy oferece 6 cursos gratuitos em Pentest, Linux e mais para você aprender!](https://dev.to/guiadeti/hackaflag-academy-oferece-6-cursos-gratuitos-em-pentest-linux-e-mais-para-voce-aprender-19fo)
 - [Dev.to/JS] [Easy explanation of Async/Await in JavaScript](https://dev.to/zeeshanhshaheen/fundamental-concept-of-asyncawait-in-javascript-23i7)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Beginner&#39;s Guide to Portals in React: Everything You Need to Know](https://dev.to/israelmitolu/a-beginners-guide-to-portals-in-react-everything-you-need-to-know-ifa)
 - [Dev.to/JS] [Building a RESTful API with Java Spring Boot](https://dev.to/moesif/building-a-restful-api-with-java-spring-boot-38j4)
 - [Dev.to/JS] [Chat GPT Clone with Laravel Inertia and VueJS Full Tutorial](https://dev.to/laravellercom/chat-gpt-clone-with-laravel-inertia-and-vuejs-full-tutorial-51h9)
-- [Dev.to/JS] [Reduce null checks in your code](https://dev.to/tahazsh/reduce-null-checks-in-your-code-1oim)
-- [Dev.to/JS] [&quot;Say what, now?&quot; Breaking Down JavaScript Building Blocks for Algorithmically-Challenged Thinkers](https://dev.to/lslayman/say-what-now-breaking-down-javascript-building-blocks-for-algorithmically-challenged-thinkers-4p0p)
 - [Lifehacker] [Take Easter Eggs to the Fiery Depths of Hell With Chili and Garlic](https://lifehacker.com/take-easter-eggs-to-the-fiery-depths-of-hell-with-chili-1850313422)
 - [Lifehacker] [The Right Way to Use &#39;Honor Among Thieves&#39; Characters in Your Next D&amp;D Campaign](https://lifehacker.com/the-right-way-to-use-honor-among-thieves-characters-in-1850313225)
 - [Lifehacker] [Three Unexpected Ways to Eat Leftover Easter Eggs](https://lifehacker.com/three-unexpected-ways-to-eat-leftover-easter-eggs-1850312627)
