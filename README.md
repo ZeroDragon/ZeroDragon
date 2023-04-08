@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Never Store These Items on a Windowsill](https://lifehacker.com/never-store-these-items-on-a-windowsill-1850314993)
+- [Dev.to/JS] [Never Store Derived State! Here’s Why!](https://dev.to/fpaghar/never-store-derived-state-heres-why-25o6)
+- [Dev.to/JS] [Introducing SingularGPT - automate your device with AI Vision](https://dev.to/abhiprojectz/introducing-singulargpt-automate-your-device-with-ai-vision-1che)
 - [Dev.to/JS] [10 visuals to boost your mood](https://dev.to/jon_snow789/10-visuals-to-boost-your-mood-12c2)
 - [Lifehacker] [How to Make a Pocket Garden](https://lifehacker.com/how-to-make-a-pocket-garden-1850314990)
 - [Dev.to/JS] [Edge functions with Supabase](https://dev.to/guillaumeduhan/edge-functions-with-supabase-139c)
@@ -35,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&quot;JavaScript: The Powerhouse of Web Development!&quot;](https://dev.to/codingstella/javascript-the-powerhouse-of-web-development-1jhe)
 - [Dev.to/JS] [Boost Your JavaScript with JSDoc Typing](https://dev.to/samuel-braun/boost-your-javascript-with-jsdoc-typing-3hb3)
 - [Dev.to/JS] [Next.js vs React.js: Which JavaScript Framework is Right for You?](https://dev.to/atharvamali/nextjs-vs-reactjs-which-javascript-framework-is-right-for-you-4efe)
-- [Dev.to/JS] [Find unused exports with this bash script](https://dev.to/muikku/find-unused-exports-with-this-bash-script-33bf)
-- [Dev.to/JS] [LeetCode - Construct Binary Tree from Preorder and Inorder Traversal](https://dev.to/_alkesh26/leetcode-construct-binary-tree-from-preorder-and-inorder-traversal-2iil)
 - [Lifehacker] [Take Easter Eggs to the Fiery Depths of Hell With Chili and Garlic](https://lifehacker.com/take-easter-eggs-to-the-fiery-depths-of-hell-with-chili-1850313422)
 - [Lifehacker] [The Right Way to Use &#39;Honor Among Thieves&#39; Characters in Your Next D&amp;D Campaign](https://lifehacker.com/the-right-way-to-use-honor-among-thieves-characters-in-1850313225)
 - [Lifehacker] [Three Unexpected Ways to Eat Leftover Easter Eggs](https://lifehacker.com/three-unexpected-ways-to-eat-leftover-easter-eggs-1850312627)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Never Buy Your Child a Blue Swimsuit](https://lifehacker.com/why-you-should-never-buy-your-child-a-blue-swimsuit-1850305524)
 - [Lifehacker] [This Company Saves Your AirPods From Planned Obsolescence](https://lifehacker.com/this-company-saves-your-airpods-from-planned-obsolescen-1850302733)
 - [Lifehacker] [These Spreadsheet Tricks Make Budgeting &#39;Fun&#39;](https://lifehacker.com/these-spreadsheet-tricks-make-budgeting-fun-1850297820)
-- [Lifehacker] [Always Get a Second Opinion on a Tech Repair](https://lifehacker.com/always-get-a-second-opinion-on-a-tech-repair-1850299664)
-- [Lifehacker] [This Three-Ingredient Matzo Confection is Sweet and Salty Perfection](https://lifehacker.com/this-three-ingredient-matzo-confection-is-sweet-and-sal-1850305039)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Always Get a Second Opinion on a Tech Repair](https://lifehacker.com/always-get-a-second-opinion-on-a-tech-repair-1850299664)<!-- TECH-POSTS:END -->
 
 ---
 
