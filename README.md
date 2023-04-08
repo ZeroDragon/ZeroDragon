@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&quot;Secret Weapons: 10 VS Code Extensions You Didn&#39;t Know You Needed&quot;](https://dev.to/mojodev/secret-weapons-10-vs-code-extensions-you-didnt-know-you-needed-2k02)
 - [Dev.to/JS] [Mastering JavaScript Variables: Hoisting, Temporal Dead Zone, and Top 10 Best Practices](https://dev.to/bolouie/mastering-javascript-variables-hoisting-temporal-dead-zone-and-top-10-best-practices-38bo)
 - [Dev.to/JS] [Building a Node.js Application to Search and Display GitHub Profiles Using GitHub API](https://dev.to/iamstepaul/building-a-nodejs-application-to-search-and-display-github-profiles-using-github-api-4kc2)
 - [Dev.to/JS] [How to Create a Digital Clock Using JavaScript](https://dev.to/rutikkpatel/how-to-create-a-digital-clock-using-javascript-59ji)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Never Store These Items on a Windowsill](https://lifehacker.com/never-store-these-items-on-a-windowsill-1850314993)
 - [Dev.to/JS] [Never Store Derived State! Here’s Why!](https://dev.to/fpaghar/never-store-derived-state-heres-why-25o6)
 - [Dev.to/JS] [Introducing SingularGPT - automate your device with AI Vision](https://dev.to/abhiprojectz/introducing-singulargpt-automate-your-device-with-ai-vision-1che)
-- [Dev.to/JS] [10 visuals to boost your mood](https://dev.to/jon_snow789/10-visuals-to-boost-your-mood-12c2)
 - [Lifehacker] [How to Make a Pocket Garden](https://lifehacker.com/how-to-make-a-pocket-garden-1850314990)
 - [Lifehacker] [The Best Easter Food Deals and Freebies](https://lifehacker.com/the-best-easter-food-deals-and-freebies-1850305940)
 - [Lifehacker] [Take Easter Eggs to the Fiery Depths of Hell With Chili and Garlic](https://lifehacker.com/take-easter-eggs-to-the-fiery-depths-of-hell-with-chili-1850313422)
