@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A flexible nodejs crawler library —— x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-crawler-library-x-crawl-38ge)
+- [Dev.to/JS] [Aptos client sample - Do 10 times wallet transfer](https://dev.to/airicyu/aptos-client-sample-do-10-times-wallet-transfer-40i5)
+- [Dev.to/JS] [Solana client sample - Do 100 times wallet transfer](https://dev.to/airicyu/solana-client-sample-do-100-times-wallet-transfer-356l)
+- [Dev.to/JS] [Closures: A Powerful Concept in JavaScript](https://dev.to/koushikmaratha/closures-a-powerful-concept-in-javascript-17p1)
+- [Dev.to/JS] [Ranger: JS Range Syntax for Anything](https://dev.to/jonrandy/ranger-js-range-syntax-for-anything-4djc)
 - [Dev.to/JS] [Understanding Children Props in React](https://dev.to/taukirsheikh/understanding-children-props-in-react-1g28)
 - [Dev.to/JS] [Phase 1 blog post](https://dev.to/layneandrews/phase-1-blog-post-eli)
 - [Dev.to/JS] [How I Earned 40,000rs on My First Freelancing Project: Experience and Lessons Learned !!!](https://dev.to/sanket00900/how-i-earned-40000rs-on-my-first-freelancing-project-experience-and-lessons-learned--44mn)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a new array on the basis of dates inside array of objects](https://dev.to/pawanjs/creating-a-new-array-on-the-basis-of-dates-inside-array-of-objects-2jpj)
 - [Dev.to/JS] [Declaration of Variables in JS](https://dev.to/yinsont/declaration-of-variables-in-js-pl4)
 - [Dev.to/JS] [How to keep a persistent class on a LitElement](https://dev.to/konnorrogers/how-to-keep-a-persistent-class-on-a-litelement-35io)
-- [Dev.to/JS] [Polymorphism With TypeScript](https://dev.to/ayako_yk/polymorphism-with-typescript-1pk9)
-- [Dev.to/JS] [Leveraging OpenTelemetry in Deno](https://dev.to/grunet/leveraging-opentelemetry-in-deno-45bj)
-- [Dev.to/JS] [Hackaflag Academy oferece 6 cursos gratuitos em Pentest, Linux e mais para você aprender!](https://dev.to/guiadeti/hackaflag-academy-oferece-6-cursos-gratuitos-em-pentest-linux-e-mais-para-voce-aprender-19fo)
-- [Dev.to/JS] [Easy explanation of Async/Await in JavaScript](https://dev.to/zeeshanhshaheen/fundamental-concept-of-asyncawait-in-javascript-23i7)
-- [Dev.to/JS] [🌸 A elegant way to consume API&#39;s at front-end](https://dev.to/daniellimae/a-elegant-way-to-consume-apis-at-front-end-3m8m)
 - [Lifehacker] [Take Easter Eggs to the Fiery Depths of Hell With Chili and Garlic](https://lifehacker.com/take-easter-eggs-to-the-fiery-depths-of-hell-with-chili-1850313422)
 - [Lifehacker] [The Right Way to Use &#39;Honor Among Thieves&#39; Characters in Your Next D&amp;D Campaign](https://lifehacker.com/the-right-way-to-use-honor-among-thieves-characters-in-1850313225)
 - [Lifehacker] [Three Unexpected Ways to Eat Leftover Easter Eggs](https://lifehacker.com/three-unexpected-ways-to-eat-leftover-easter-eggs-1850312627)
