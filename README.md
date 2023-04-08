@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js vs React.js: Which JavaScript Framework is Right for You?](https://dev.to/atharvamali/nextjs-vs-reactjs-which-javascript-framework-is-right-for-you-4efe)
+- [Dev.to/JS] [Find unused exports with this bash script](https://dev.to/muikku/find-unused-exports-with-this-bash-script-33bf)
 - [Dev.to/JS] [LeetCode - Construct Binary Tree from Preorder and Inorder Traversal](https://dev.to/_alkesh26/leetcode-construct-binary-tree-from-preorder-and-inorder-traversal-2iil)
 - [Dev.to/JS] [Debouncing Simplified](https://dev.to/rv90904/debouncing-simplified-1pif)
 - [Dev.to/JS] [What&#39;s new with reactjs?](https://dev.to/highcenburg/whats-new-with-reactjs-5f22)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Starter Code - Object Detector Codelab](https://dev.to/mohamedsdz/starter-code-object-detector-codelab-4j8b)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;08-04-2023&rpar; - World Continues To Say No](https://dev.to/mjgs/this-weeks-newsletter-is-out-08-04-2023-world-continues-to-say-no-1o3d)
 - [Dev.to/JS] [React Query Cheat Sheet](https://dev.to/sahilverma_dev/react-query-cheat-sheet-58l3)
-- [Dev.to/JS] [Building a RESTful API with Node.js and Express](https://dev.to/kingsley/building-a-restful-api-with-nodejs-and-express-2pp8)
-- [Dev.to/JS] [Top React Native App Development Companies in 2023](https://dev.to/leahgreene67/top-react-native-app-development-companies-in-2023-68o)
 - [Lifehacker] [Take Easter Eggs to the Fiery Depths of Hell With Chili and Garlic](https://lifehacker.com/take-easter-eggs-to-the-fiery-depths-of-hell-with-chili-1850313422)
 - [Lifehacker] [The Right Way to Use &#39;Honor Among Thieves&#39; Characters in Your Next D&amp;D Campaign](https://lifehacker.com/the-right-way-to-use-honor-among-thieves-characters-in-1850313225)
 - [Lifehacker] [Three Unexpected Ways to Eat Leftover Easter Eggs](https://lifehacker.com/three-unexpected-ways-to-eat-leftover-easter-eggs-1850312627)
