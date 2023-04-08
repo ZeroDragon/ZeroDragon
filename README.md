@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a new array on the basis of dates inside array of objects](https://dev.to/pawanjs/creating-a-new-array-on-the-basis-of-dates-inside-array-of-objects-2jpj)
+- [Dev.to/JS] [Declaration of Variables in JS](https://dev.to/yinsont/declaration-of-variables-in-js-pl4)
 - [Dev.to/JS] [How to keep a persistent class on a LitElement](https://dev.to/konnorrogers/how-to-keep-a-persistent-class-on-a-litelement-35io)
 - [Dev.to/JS] [Polymorphism With TypeScript](https://dev.to/ayako_yk/polymorphism-with-typescript-1pk9)
 - [Dev.to/JS] [Leveraging OpenTelemetry in Deno](https://dev.to/grunet/leveraging-opentelemetry-in-deno-45bj)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing AWS Lambda Response Streaming](https://dev.to/aws-builders/introducing-streaming-response-from-aws-lambda-511f)
 - [Dev.to/JS] [Week&#39;s Digest : Variables and Data Types in JavaScript](https://dev.to/lotfijb/weeks-digest-variables-and-data-types-in-javascript-44pb)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Portals in React: Everything You Need to Know](https://dev.to/israelmitolu/a-beginners-guide-to-portals-in-react-everything-you-need-to-know-ifa)
-- [Dev.to/JS] [Building a RESTful API with Java Spring Boot](https://dev.to/moesif/building-a-restful-api-with-java-spring-boot-38j4)
-- [Dev.to/JS] [Chat GPT Clone with Laravel Inertia and VueJS Full Tutorial](https://dev.to/laravellercom/chat-gpt-clone-with-laravel-inertia-and-vuejs-full-tutorial-51h9)
 - [Lifehacker] [Take Easter Eggs to the Fiery Depths of Hell With Chili and Garlic](https://lifehacker.com/take-easter-eggs-to-the-fiery-depths-of-hell-with-chili-1850313422)
 - [Lifehacker] [The Right Way to Use &#39;Honor Among Thieves&#39; Characters in Your Next D&amp;D Campaign](https://lifehacker.com/the-right-way-to-use-honor-among-thieves-characters-in-1850313225)
 - [Lifehacker] [Three Unexpected Ways to Eat Leftover Easter Eggs](https://lifehacker.com/three-unexpected-ways-to-eat-leftover-easter-eggs-1850312627)
