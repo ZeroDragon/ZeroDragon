@@ -24,6 +24,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Leveraging OpenTelemetry in Deno](https://dev.to/grunet/leveraging-opentelemetry-in-deno-45bj)
+- [Dev.to/JS] [Hackaflag Academy oferece 6 cursos gratuitos em Pentest, Linux e mais para você aprender!](https://dev.to/guiadeti/hackaflag-academy-oferece-6-cursos-gratuitos-em-pentest-linux-e-mais-para-voce-aprender-19fo)
 - [Dev.to/JS] [Easy explanation of Async/Await in JavaScript](https://dev.to/zeeshanhshaheen/fundamental-concept-of-asyncawait-in-javascript-23i7)
 - [Dev.to/JS] [🌸 A elegant way to consume API&#39;s at front-end](https://dev.to/daniellimae/a-elegant-way-to-consume-apis-at-front-end-3m8m)
 - [Dev.to/JS] [Losing Control](https://dev.to/hillswor/losing-control-5d8o)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Chat GPT Clone with Laravel Inertia and VueJS Full Tutorial](https://dev.to/laravellercom/chat-gpt-clone-with-laravel-inertia-and-vuejs-full-tutorial-51h9)
 - [Dev.to/JS] [Reduce null checks in your code](https://dev.to/tahazsh/reduce-null-checks-in-your-code-1oim)
 - [Dev.to/JS] [&quot;Say what, now?&quot; Breaking Down JavaScript Building Blocks for Algorithmically-Challenged Thinkers](https://dev.to/lslayman/say-what-now-breaking-down-javascript-building-blocks-for-algorithmically-challenged-thinkers-4p0p)
-- [Dev.to/JS] [Breaking the Language Barrier: A Journey through &#39;Hello, World!&#39; in 20 Different Programming Languages](https://dev.to/rajaniraiyn/breaking-the-language-barrier-a-journey-through-hello-world-in-20-different-programming-languages-42bc)
 - [Lifehacker] [Take Easter Eggs to the Fiery Depths of Hell With Chili and Garlic](https://lifehacker.com/take-easter-eggs-to-the-fiery-depths-of-hell-with-chili-1850313422)
 - [Lifehacker] [The Right Way to Use &#39;Honor Among Thieves&#39; Characters in Your Next D&amp;D Campaign](https://lifehacker.com/the-right-way-to-use-honor-among-thieves-characters-in-1850313225)
 - [Lifehacker] [Three Unexpected Ways to Eat Leftover Easter Eggs](https://lifehacker.com/three-unexpected-ways-to-eat-leftover-easter-eggs-1850312627)
