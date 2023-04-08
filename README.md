@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering JavaScript Variables: Hoisting, Temporal Dead Zone, and Top 10 Best Practices](https://dev.to/bolouie/mastering-javascript-variables-hoisting-temporal-dead-zone-and-top-10-best-practices-38bo)
+- [Dev.to/JS] [Building a Node.js Application to Search and Display GitHub Profiles Using GitHub API](https://dev.to/iamstepaul/building-a-nodejs-application-to-search-and-display-github-profiles-using-github-api-4kc2)
 - [Dev.to/JS] [How to Create a Digital Clock Using JavaScript](https://dev.to/rutikkpatel/how-to-create-a-digital-clock-using-javascript-59ji)
 - [Dev.to/JS] [Uploading and Managing Images with Node.js, Multer, and Cloudinary: A Comprehensive Guide](https://dev.to/titre123/uploading-and-managing-images-with-nodejs-multer-and-cloudinary-a-comprehensive-guide-520a)
 - [Dev.to/JS] [From JavaScript To Python](https://dev.to/tomeraitz/from-javascript-to-python-27l6)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing SingularGPT - automate your device with AI Vision](https://dev.to/abhiprojectz/introducing-singulargpt-automate-your-device-with-ai-vision-1che)
 - [Dev.to/JS] [10 visuals to boost your mood](https://dev.to/jon_snow789/10-visuals-to-boost-your-mood-12c2)
 - [Lifehacker] [How to Make a Pocket Garden](https://lifehacker.com/how-to-make-a-pocket-garden-1850314990)
-- [Dev.to/JS] [Edge functions with Supabase](https://dev.to/guillaumeduhan/edge-functions-with-supabase-139c)
-- [Dev.to/JS] [Jogja, the project generator for web frameworks](https://dev.to/sonyarianto/jogja-the-project-generator-for-web-frameworks-3keo)
 - [Lifehacker] [The Best Easter Food Deals and Freebies](https://lifehacker.com/the-best-easter-food-deals-and-freebies-1850305940)
 - [Lifehacker] [Take Easter Eggs to the Fiery Depths of Hell With Chili and Garlic](https://lifehacker.com/take-easter-eggs-to-the-fiery-depths-of-hell-with-chili-1850313422)
 - [Lifehacker] [The Right Way to Use &#39;Honor Among Thieves&#39; Characters in Your Next D&amp;D Campaign](https://lifehacker.com/the-right-way-to-use-honor-among-thieves-characters-in-1850313225)
