@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Edge functions with Supabase](https://dev.to/guillaumeduhan/edge-functions-with-supabase-139c)
+- [Dev.to/JS] [Jogja, the project generator for web frameworks](https://dev.to/sonyarianto/jogja-the-project-generator-for-web-frameworks-3keo)
+- [Dev.to/JS] [Adding Emojis to Your Website with Twemoji Made Easy](https://dev.to/danielsebesta/adding-emojis-to-your-website-with-twemoji-made-easy-mc8)
 - [Dev.to/JS] [Web Development.](https://dev.to/jatinbisht2308/web-development-5dp3)
 - [Dev.to/JS] [ecmascript](https://dev.to/navinso92429049/ecmascript-j94)
 - [Dev.to/JS] [WebGL](https://dev.to/navinso92429049/webgl-1ich)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Find unused exports with this bash script](https://dev.to/muikku/find-unused-exports-with-this-bash-script-33bf)
 - [Dev.to/JS] [LeetCode - Construct Binary Tree from Preorder and Inorder Traversal](https://dev.to/_alkesh26/leetcode-construct-binary-tree-from-preorder-and-inorder-traversal-2iil)
 - [Dev.to/JS] [Debouncing Simplified](https://dev.to/rv90904/debouncing-simplified-1pif)
-- [Dev.to/JS] [How to call async/await functions in parallel](https://dev.to/collegewap/how-to-call-asyncawait-functions-in-parallel-5h73)
-- [Dev.to/JS] [Programing During Ramadan !](https://dev.to/mohamedsdz/programing-during-ramadan--4fkl)
-- [Dev.to/JS] [Introduction of Angular for Beginner](https://dev.to/kafeel_ahmad/introduction-of-angular-for-beginner-45n9)
 - [Lifehacker] [Take Easter Eggs to the Fiery Depths of Hell With Chili and Garlic](https://lifehacker.com/take-easter-eggs-to-the-fiery-depths-of-hell-with-chili-1850313422)
 - [Lifehacker] [The Right Way to Use &#39;Honor Among Thieves&#39; Characters in Your Next D&amp;D Campaign](https://lifehacker.com/the-right-way-to-use-honor-among-thieves-characters-in-1850313225)
 - [Lifehacker] [Three Unexpected Ways to Eat Leftover Easter Eggs](https://lifehacker.com/three-unexpected-ways-to-eat-leftover-easter-eggs-1850312627)
