@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create a Digital Clock Using JavaScript](https://dev.to/rutikkpatel/how-to-create-a-digital-clock-using-javascript-59ji)
+- [Dev.to/JS] [Uploading and Managing Images with Node.js, Multer, and Cloudinary: A Comprehensive Guide](https://dev.to/titre123/uploading-and-managing-images-with-nodejs-multer-and-cloudinary-a-comprehensive-guide-520a)
+- [Dev.to/JS] [From JavaScript To Python](https://dev.to/tomeraitz/from-javascript-to-python-27l6)
+- [Dev.to/JS] [ERC20 for Javascript developers](https://dev.to/muratcanyuksel/erc20-for-javascript-developers-2ep4)
 - [Dev.to/JS] [Deferred &lpar;promise&rpar; pattern](https://dev.to/webduvet/deferred-promise-pattern-2j59)
 - [Dev.to/JS] [Customizing Swiper.js prev/next arrow buttons and pagination bullets in React](https://dev.to/ivadyhabimana/customizing-swiperjs-prevnext-arrow-buttons-and-pagination-bullets-in-react-3gkh)
 - [Dev.to/JS] [One moment, and all your problems are gone](https://dev.to/inanoniloquent/one-moment-and-all-your-problems-are-gone-5d1p)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make a Pocket Garden](https://lifehacker.com/how-to-make-a-pocket-garden-1850314990)
 - [Dev.to/JS] [Edge functions with Supabase](https://dev.to/guillaumeduhan/edge-functions-with-supabase-139c)
 - [Dev.to/JS] [Jogja, the project generator for web frameworks](https://dev.to/sonyarianto/jogja-the-project-generator-for-web-frameworks-3keo)
-- [Dev.to/JS] [Adding Emojis to Your Website with Twemoji Made Easy](https://dev.to/danielsebesta/adding-emojis-to-your-website-with-twemoji-made-easy-mc8)
-- [Dev.to/JS] [Web Development.](https://dev.to/jatinbisht2308/web-development-5dp3)
-- [Dev.to/JS] [ecmascript](https://dev.to/navinso92429049/ecmascript-j94)
-- [Dev.to/JS] [WebGL](https://dev.to/navinso92429049/webgl-1ich)
 - [Lifehacker] [The Best Easter Food Deals and Freebies](https://lifehacker.com/the-best-easter-food-deals-and-freebies-1850305940)
 - [Lifehacker] [Take Easter Eggs to the Fiery Depths of Hell With Chili and Garlic](https://lifehacker.com/take-easter-eggs-to-the-fiery-depths-of-hell-with-chili-1850313422)
 - [Lifehacker] [The Right Way to Use &#39;Honor Among Thieves&#39; Characters in Your Next D&amp;D Campaign](https://lifehacker.com/the-right-way-to-use-honor-among-thieves-characters-in-1850313225)
