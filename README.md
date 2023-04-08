@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a RESTful API with Node.js and Express](https://dev.to/kingsley/building-a-restful-api-with-nodejs-and-express-2pp8)
+- [Dev.to/JS] [Top React Native App Development Companies in 2023](https://dev.to/leahgreene67/top-react-native-app-development-companies-in-2023-68o)
+- [Dev.to/JS] [🤑🔮List of Jobs Available in Blockchain 2023 🚀](https://dev.to/akshaykurhekar/list-of-jobs-available-in-blockchain-2023-j5p)
+- [Dev.to/JS] [Watchlist application using ReactJS, NodeJS](https://dev.to/deepakjaiswal/watchlist-application-using-reactjs-nodejs-47b8)
 - [Dev.to/JS] [A flexible nodejs crawler library —— x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-crawler-library-x-crawl-38ge)
 - [Dev.to/JS] [Aptos client sample - Do 10 times wallet transfer](https://dev.to/airicyu/aptos-client-sample-do-10-times-wallet-transfer-40i5)
 - [Dev.to/JS] [Solana client sample - Do 100 times wallet transfer](https://dev.to/airicyu/solana-client-sample-do-100-times-wallet-transfer-356l)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Children Props in React](https://dev.to/taukirsheikh/understanding-children-props-in-react-1g28)
 - [Dev.to/JS] [Phase 1 blog post](https://dev.to/layneandrews/phase-1-blog-post-eli)
 - [Dev.to/JS] [How I Earned 40,000rs on My First Freelancing Project: Experience and Lessons Learned !!!](https://dev.to/sanket00900/how-i-earned-40000rs-on-my-first-freelancing-project-experience-and-lessons-learned--44mn)
-- [Dev.to/JS] [Olivia Casta: The Rising Star of Hollywood](https://dev.to/rockmiz661/olivia-casta-the-rising-star-of-hollywood-5hdo)
-- [Dev.to/JS] [Creating a new array on the basis of dates inside array of objects](https://dev.to/pawanjs/creating-a-new-array-on-the-basis-of-dates-inside-array-of-objects-2jpj)
-- [Dev.to/JS] [Declaration of Variables in JS](https://dev.to/yinsont/declaration-of-variables-in-js-pl4)
-- [Dev.to/JS] [How to keep a persistent class on a LitElement](https://dev.to/konnorrogers/how-to-keep-a-persistent-class-on-a-litelement-35io)
 - [Lifehacker] [Take Easter Eggs to the Fiery Depths of Hell With Chili and Garlic](https://lifehacker.com/take-easter-eggs-to-the-fiery-depths-of-hell-with-chili-1850313422)
 - [Lifehacker] [The Right Way to Use &#39;Honor Among Thieves&#39; Characters in Your Next D&amp;D Campaign](https://lifehacker.com/the-right-way-to-use-honor-among-thieves-characters-in-1850313225)
 - [Lifehacker] [Three Unexpected Ways to Eat Leftover Easter Eggs](https://lifehacker.com/three-unexpected-ways-to-eat-leftover-easter-eggs-1850312627)
