@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Development.](https://dev.to/jatinbisht2308/web-development-5dp3)
+- [Dev.to/JS] [ecmascript](https://dev.to/navinso92429049/ecmascript-j94)
+- [Dev.to/JS] [WebGL](https://dev.to/navinso92429049/webgl-1ich)
 - [Lifehacker] [The Best Easter Food Deals and Freebies](https://lifehacker.com/the-best-easter-food-deals-and-freebies-1850305940)
 - [Dev.to/JS] [&quot;JavaScript: The Powerhouse of Web Development!&quot;](https://dev.to/codingstella/javascript-the-powerhouse-of-web-development-1jhe)
 - [Dev.to/JS] [Boost Your JavaScript with JSDoc Typing](https://dev.to/samuel-braun/boost-your-javascript-with-jsdoc-typing-3hb3)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to call async/await functions in parallel](https://dev.to/collegewap/how-to-call-asyncawait-functions-in-parallel-5h73)
 - [Dev.to/JS] [Programing During Ramadan !](https://dev.to/mohamedsdz/programing-during-ramadan--4fkl)
 - [Dev.to/JS] [Introduction of Angular for Beginner](https://dev.to/kafeel_ahmad/introduction-of-angular-for-beginner-45n9)
-- [Dev.to/JS] [Weekend Reading](https://dev.to/sporter/weekend-reading-3enn)
-- [Dev.to/JS] [Starter Code - Object Detector Codelab](https://dev.to/mohamedsdz/starter-code-object-detector-codelab-4j8b)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;08-04-2023&rpar; - World Continues To Say No](https://dev.to/mjgs/this-weeks-newsletter-is-out-08-04-2023-world-continues-to-say-no-1o3d)
 - [Lifehacker] [Take Easter Eggs to the Fiery Depths of Hell With Chili and Garlic](https://lifehacker.com/take-easter-eggs-to-the-fiery-depths-of-hell-with-chili-1850313422)
 - [Lifehacker] [The Right Way to Use &#39;Honor Among Thieves&#39; Characters in Your Next D&amp;D Campaign](https://lifehacker.com/the-right-way-to-use-honor-among-thieves-characters-in-1850313225)
 - [Lifehacker] [Three Unexpected Ways to Eat Leftover Easter Eggs](https://lifehacker.com/three-unexpected-ways-to-eat-leftover-easter-eggs-1850312627)
