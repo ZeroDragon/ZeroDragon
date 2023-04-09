@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node.js Roadmap: A Comprehensive Learning Template for Developers](https://dev.to/shreyvijayvargiya/nodejs-roadmap-a-comprehensive-learning-template-for-developers-132b)
+- [Dev.to/JS] [Creating your own ExpressJS from scratch &lpar;Part 2&rpar; - Middlewares and Controllers](https://dev.to/wesleymreng7/creating-your-own-expressjs-from-scratch-part-2-middlewares-and-controllers-2fbc)
+- [Dev.to/JS] [How To Setup An AWS S3 Bucket And Configure In Node.js - Part 1](https://dev.to/rockyessel/how-to-setup-an-aws-s3-bucket-and-configure-in-nodejs-part-1-1bko)
 - [Dev.to/JS] [Using forEach to render components in React](https://dev.to/iraklitchiglad5/using-foreach-to-render-components-in-react-4n9f)
 - [Dev.to/JS] [Making a chat bot ai](https://dev.to/ghalbeyou/making-a-chat-bot-ai-384e)
 - [Dev.to/JS] [Expand and Collapse a List in React](https://dev.to/iraklitchiglad5/expand-and-collapse-a-list-in-react-37j0)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Nullish coalescing operator &lpar;??&rpar;](https://dev.to/ahmadjoya/the-nullish-coalescing-operator--186d)
 - [Dev.to/JS] [Pourquoi mon component ne se re-render pas](https://dev.to/yacinec/pourquoi-mon-component-ne-se-re-render-pas-2j9o)
 - [Dev.to/JS] [JS vs. TS: Should you use JavaScript or TypeScript?](https://dev.to/momciloo/js-vs-ts-should-you-use-javascript-or-typescript-2np4)
-- [Dev.to/JS] [Angular Reactive Form](https://dev.to/kafeel_ahmad/angular-reactive-form-28gi)
-- [Dev.to/JS] [Becoming a Frontend Developer in 100 Days: A Step-by-Step Guide](https://dev.to/abhixsh/becoming-a-frontend-developer-in-100-days-a-step-by-step-guide-28jp)
-- [Dev.to/JS] [How to create an incremental and decremental Counter App using HTML, CSS &amp; JavaScript](https://dev.to/faisaljawedkhan/how-to-create-an-incremental-and-decremental-counter-app-using-html-css-javascript-591n)
 - [Lifehacker] [How to Attract Bats to Your Yard &lpar;and Why You&#39;d Want To&rpar;](https://lifehacker.com/how-to-attract-bats-to-your-yard-and-why-youd-want-to-1850315881)
 - [Lifehacker] [Unexpected Ways You Can Use Orange Peels In Your Kitchen](https://lifehacker.com/unexpected-ways-you-can-use-orange-peels-in-your-kitche-1850315885)
 - [Lifehacker] [Never Store These Items on a Windowsill](https://lifehacker.com/never-store-these-items-on-a-windowsill-1850314993)
