@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hoisting in JavaScript &lpar; Part -2 &rpar; Practise Question.](https://dev.to/sachink07/hoisting-in-javascript-part-2-practise-question-608)
 - [Dev.to/JS] [Online chat room with Node.js](https://dev.to/henryshi101/online-chat-room-with-nodejs-3dm8)
 - [Dev.to/JS] [Creating a Progressive Web App in React A Beginners Guide](https://dev.to/varshithvhegde/creating-a-progressive-web-app-in-react-a-beginners-guide-3l9g)
 - [Dev.to/JS] [Using &quot;forEach&quot; versus other loops in JavaScript](https://dev.to/ctaylor0326/using-foreach-versus-other-loops-in-javascript-56nb)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Node.js Application to Search and Display GitHub Profiles Using GitHub API](https://dev.to/iamstepaul/building-a-nodejs-application-to-search-and-display-github-profiles-using-github-api-4kc2)
 - [Dev.to/JS] [How to Create a Digital Clock Using JavaScript](https://dev.to/rutikkpatel/how-to-create-a-digital-clock-using-javascript-59ji)
 - [Dev.to/JS] [Uploading and Managing Images with Node.js, Multer, and Cloudinary: A Comprehensive Guide](https://dev.to/titre123/uploading-and-managing-images-with-nodejs-multer-and-cloudinary-a-comprehensive-guide-520a)
-- [Dev.to/JS] [From JavaScript To Python](https://dev.to/tomeraitz/from-javascript-to-python-27l6)
 - [Lifehacker] [Never Store These Items on a Windowsill](https://lifehacker.com/never-store-these-items-on-a-windowsill-1850314993)
 - [Lifehacker] [How to Make a Pocket Garden](https://lifehacker.com/how-to-make-a-pocket-garden-1850314990)
 - [Lifehacker] [The Best Easter Food Deals and Freebies](https://lifehacker.com/the-best-easter-food-deals-and-freebies-1850305940)
