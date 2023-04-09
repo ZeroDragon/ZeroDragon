@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Redux and Redux Toolkit](https://dev.to/melihs/redux-and-redux-toolkit-38f4)
 - [Dev.to/JS] [Context API and useContext](https://dev.to/oluwatrillions/context-api-and-usecontext-4430)
 - [Lifehacker] [Unexpected Ways You Can Use Orange Peels In Your Kitchen](https://lifehacker.com/unexpected-ways-you-can-use-orange-peels-in-your-kitche-1850315885)
 - [Dev.to/JS] [Working with the Reflect API in JavaScript](https://dev.to/asayerio_techblog/working-with-the-reflect-api-in-javascript-3n2c)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting started with nuxt content - a simple blog page](https://dev.to/johnpaul/getting-started-with-nuxt-content-a-simple-blog-page-2l6h)
 - [Dev.to/JS] [Best Flight Tickets Mumbai By One Click Travel Company](https://dev.to/oneclicktravels/best-flight-tickets-mumbai-by-one-click-travel-company-27h0)
 - [Dev.to/JS] [Authentication in React Applications using Firebase and its services. Part 3](https://dev.to/dev_cody/authentication-in-react-applications-using-firebase-and-its-services-part-3-1j7o)
-- [Dev.to/JS] [Achieve streaming output like the ChatGPT mainframe](https://dev.to/moekidev/achieve-streaming-output-like-the-chatgpt-mainframe-1lbl)
 - [Lifehacker] [Never Store These Items on a Windowsill](https://lifehacker.com/never-store-these-items-on-a-windowsill-1850314993)
 - [Lifehacker] [How to Make a Pocket Garden](https://lifehacker.com/how-to-make-a-pocket-garden-1850314990)
 - [Lifehacker] [The Best Easter Food Deals and Freebies](https://lifehacker.com/the-best-easter-food-deals-and-freebies-1850305940)
