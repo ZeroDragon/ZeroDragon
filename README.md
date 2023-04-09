@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deferred Promise Queue](https://dev.to/webduvet/deferred-promise-queue-2eej)
+- [Dev.to/JS] [Getting started with nuxt content - a simple blog page](https://dev.to/johnpaul/getting-started-with-nuxt-content-a-simple-blog-page-2l6h)
 - [Dev.to/JS] [Best Flight Tickets Mumbai By One Click Travel Company](https://dev.to/oneclicktravels/best-flight-tickets-mumbai-by-one-click-travel-company-27h0)
 - [Dev.to/JS] [Authentication in React Applications using Firebase and its services. Part 3](https://dev.to/dev_cody/authentication-in-react-applications-using-firebase-and-its-services-part-3-1j7o)
 - [Dev.to/JS] [Achieve streaming output like the ChatGPT mainframe](https://dev.to/moekidev/achieve-streaming-output-like-the-chatgpt-mainframe-1lbl)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using &quot;forEach&quot; versus other loops in JavaScript](https://dev.to/ctaylor0326/using-foreach-versus-other-loops-in-javascript-56nb)
 - [Dev.to/JS] [Different Ways to Fetch API in ReactJS](https://dev.to/elmonickcool/different-ways-to-fetch-api-in-reactjs-5272)
 - [Dev.to/JS] [6 Frontend Award Websites For Developers To Get Inspired or Recognized](https://dev.to/snowiewdev/6-frontend-award-websites-for-developers-to-get-inspired-or-recognized-47pa)
-- [Dev.to/JS] [Creating hot-keys for web applications](https://dev.to/karenpayneoregon/creating-hot-keys-for-web-applications-cp2)
-- [Dev.to/JS] [&quot;Secret Weapons: 10 VS Code Extensions You Didn&#39;t Know You Needed&quot;](https://dev.to/mojodev/secret-weapons-10-vs-code-extensions-you-didnt-know-you-needed-2k02)
 - [Lifehacker] [Never Store These Items on a Windowsill](https://lifehacker.com/never-store-these-items-on-a-windowsill-1850314993)
 - [Lifehacker] [How to Make a Pocket Garden](https://lifehacker.com/how-to-make-a-pocket-garden-1850314990)
 - [Lifehacker] [The Best Easter Food Deals and Freebies](https://lifehacker.com/the-best-easter-food-deals-and-freebies-1850305940)
