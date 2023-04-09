@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Your Vacuum Smells Bad &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-your-vacuum-smells-bad-and-how-to-fix-it-1850315877)
+- [Dev.to/JS] [What is Artificial Intelligence and how does it work?](https://dev.to/newslekhak/what-is-artificial-intelligence-and-how-does-it-work-2k3f)
+- [Dev.to/JS] [The Nullish coalescing operator &lpar;??&rpar;](https://dev.to/ahmadjoya/the-nullish-coalescing-operator--186d)
+- [Dev.to/JS] [JS vs. TS: Should you use JavaScript or TypeScript?](https://dev.to/momciloo/js-vs-ts-should-you-use-javascript-or-typescript-2np4)
+- [Dev.to/JS] [Angular Reactive Form](https://dev.to/kafeel_ahmad/angular-reactive-form-28gi)
+- [Dev.to/JS] [Becoming a Frontend Developer in 100 Days: A Step-by-Step Guide](https://dev.to/abhixsh/becoming-a-frontend-developer-in-100-days-a-step-by-step-guide-28jp)
 - [Dev.to/JS] [How to create an incremental and decremental Counter App using HTML, CSS &amp; JavaScript](https://dev.to/faisaljawedkhan/how-to-create-an-incremental-and-decremental-counter-app-using-html-css-javascript-591n)
 - [Dev.to/JS] [Getting Started with ElevenLabs Text-to-Speech API](https://dev.to/ssk14/getting-started-with-elevenlabs-text-to-speech-api-21j4)
 - [Dev.to/JS] [How to Use Electron.js for Building Desktop Applications with JavaScript, HTML, and CSS](https://dev.to/bellatrick/how-to-use-electronjs-for-building-desktop-applications-with-javascript-html-and-css-4kpn)
@@ -31,12 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Attract Bats to Your Yard &lpar;and Why You&#39;d Want To&rpar;](https://lifehacker.com/how-to-attract-bats-to-your-yard-and-why-youd-want-to-1850315881)
 - [Dev.to/JS] [Best Ways to Strip Punctuation from Strings in Python and JavaScript](https://dev.to/aradwan20/best-ways-to-strip-punctuation-from-strings-in-python-and-javascript-14j7)
 - [Dev.to/JS] [Announcing Lucia 1.0 - A simple and flexible auth library with support for multiple databases and frameworks](https://dev.to/pilcrowonpaper/announcing-lucia-10-a-simple-and-flexible-auth-library-with-support-for-multiple-databases-and-frameworks-4pi1)
-- [Dev.to/JS] [Musifyd](https://dev.to/rileydev_official/musifyd-4hkn)
-- [Dev.to/JS] [How to Build Your First GitHub App with JavaScript and GitHub API: Easy and Fast](https://dev.to/codewithsadee/how-to-build-your-first-github-app-with-javascript-and-github-api-easy-and-fast-50jc)
-- [Dev.to/JS] [Redux and Redux Toolkit](https://dev.to/melihs/redux-and-redux-toolkit-38f4)
-- [Dev.to/JS] [Context API and useContext](https://dev.to/oluwatrillions/context-api-and-usecontext-4430)
 - [Lifehacker] [Unexpected Ways You Can Use Orange Peels In Your Kitchen](https://lifehacker.com/unexpected-ways-you-can-use-orange-peels-in-your-kitche-1850315885)
-- [Dev.to/JS] [Working with the Reflect API in JavaScript](https://dev.to/asayerio_techblog/working-with-the-reflect-api-in-javascript-3n2c)
 - [Lifehacker] [Never Store These Items on a Windowsill](https://lifehacker.com/never-store-these-items-on-a-windowsill-1850314993)
 - [Lifehacker] [How to Make a Pocket Garden](https://lifehacker.com/how-to-make-a-pocket-garden-1850314990)
 - [Lifehacker] [The Best Easter Food Deals and Freebies](https://lifehacker.com/the-best-easter-food-deals-and-freebies-1850305940)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Clean Tree Sap From Your Clothes &lpar;and Everything Else&rpar;](https://lifehacker.com/how-to-clean-tree-sap-from-your-clothes-and-everything-1850304507)
 - [Lifehacker] [How to Make Your Own ‘Barbie’ Movie Poster Meme](https://lifehacker.com/how-to-make-your-own-barbie-movie-poster-meme-1850307581)
 - [Lifehacker] [The Better Way to Use Your Wearable’s ‘Readiness’ Data](https://lifehacker.com/the-better-way-to-use-your-wearable-s-readiness-data-1850304587)
-- [Lifehacker] [Why You Should Never Buy Your Child a Blue Swimsuit](https://lifehacker.com/why-you-should-never-buy-your-child-a-blue-swimsuit-1850305524)
-- [Lifehacker] [This Company Saves Your AirPods From Planned Obsolescence](https://lifehacker.com/this-company-saves-your-airpods-from-planned-obsolescen-1850302733)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Never Buy Your Child a Blue Swimsuit](https://lifehacker.com/why-you-should-never-buy-your-child-a-blue-swimsuit-1850305524)<!-- TECH-POSTS:END -->
 
 ---
 
