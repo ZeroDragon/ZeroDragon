@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [6 Frontend Award Websites For Developers To Get Inspired or Recognized](https://dev.to/snowiewdev/6-frontend-award-websites-for-developers-to-get-inspired-or-recognized-47pa)
 - [Dev.to/JS] [Creating hot-keys for web applications](https://dev.to/karenpayneoregon/creating-hot-keys-for-web-applications-cp2)
 - [Dev.to/JS] [&quot;Secret Weapons: 10 VS Code Extensions You Didn&#39;t Know You Needed&quot;](https://dev.to/mojodev/secret-weapons-10-vs-code-extensions-you-didnt-know-you-needed-2k02)
 - [Dev.to/JS] [Mastering JavaScript Variables: Hoisting, Temporal Dead Zone, and Top 10 Best Practices](https://dev.to/bolouie/mastering-javascript-variables-hoisting-temporal-dead-zone-and-top-10-best-practices-38bo)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Customizing Swiper.js prev/next arrow buttons and pagination bullets in React](https://dev.to/ivadyhabimana/customizing-swiperjs-prevnext-arrow-buttons-and-pagination-bullets-in-react-3gkh)
 - [Dev.to/JS] [One moment, and all your problems are gone](https://dev.to/inanoniloquent/one-moment-and-all-your-problems-are-gone-5d1p)
 - [Lifehacker] [Never Store These Items on a Windowsill](https://lifehacker.com/never-store-these-items-on-a-windowsill-1850314993)
-- [Dev.to/JS] [Never Store Derived State! Here’s Why!](https://dev.to/fpaghar/never-store-derived-state-heres-why-25o6)
 - [Lifehacker] [How to Make a Pocket Garden](https://lifehacker.com/how-to-make-a-pocket-garden-1850314990)
 - [Lifehacker] [The Best Easter Food Deals and Freebies](https://lifehacker.com/the-best-easter-food-deals-and-freebies-1850305940)
 - [Lifehacker] [Take Easter Eggs to the Fiery Depths of Hell With Chili and Garlic](https://lifehacker.com/take-easter-eggs-to-the-fiery-depths-of-hell-with-chili-1850313422)
