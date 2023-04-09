@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Working with streams in Node.js](https://dev.to/padcom/working-with-streams-in-nodejs-288f)
+- [Dev.to/JS] [Best State Management Libraries in React.js](https://dev.to/alisamirali/best-state-management-libraries-in-reactjs-511l)
+- [Dev.to/JS] [why a computer science degree is not necessary for success in the tech industry](https://dev.to/chidiebereomasi/why-a-computer-science-degree-is-not-necessary-for-success-in-the-tech-industry-7o0)
+- [Dev.to/JS] [Typescript project template &lpar;NodeJS&rpar;](https://dev.to/airicyu/typescript-project-template-nodejs-1ojn)
 - [Dev.to/JS] [Deferred Promise Queue](https://dev.to/webduvet/deferred-promise-queue-2eej)
 - [Dev.to/JS] [Getting started with nuxt content - a simple blog page](https://dev.to/johnpaul/getting-started-with-nuxt-content-a-simple-blog-page-2l6h)
 - [Dev.to/JS] [Best Flight Tickets Mumbai By One Click Travel Company](https://dev.to/oneclicktravels/best-flight-tickets-mumbai-by-one-click-travel-company-27h0)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dockerize Your Nextjs App Like a Pro: Advanced Tips for Next-Level Optimization](https://dev.to/nitinfab/dockerize-your-nextjs-app-like-a-pro-advanced-tips-for-next-level-optimization-nb2)
 - [Dev.to/JS] [Hoisting in JavaScript &lpar; Part -2 &rpar; Practise Question.](https://dev.to/sachink07/hoisting-in-javascript-part-2-practise-question-608)
 - [Dev.to/JS] [Online chat room with Node.js](https://dev.to/henryshi101/online-chat-room-with-nodejs-3dm8)
-- [Dev.to/JS] [Creating a Progressive Web App in React A Beginners Guide](https://dev.to/varshithvhegde/creating-a-progressive-web-app-in-react-a-beginners-guide-3l9g)
-- [Dev.to/JS] [Using &quot;forEach&quot; versus other loops in JavaScript](https://dev.to/ctaylor0326/using-foreach-versus-other-loops-in-javascript-56nb)
-- [Dev.to/JS] [Different Ways to Fetch API in ReactJS](https://dev.to/elmonickcool/different-ways-to-fetch-api-in-reactjs-5272)
-- [Dev.to/JS] [6 Frontend Award Websites For Developers To Get Inspired or Recognized](https://dev.to/snowiewdev/6-frontend-award-websites-for-developers-to-get-inspired-or-recognized-47pa)
 - [Lifehacker] [Never Store These Items on a Windowsill](https://lifehacker.com/never-store-these-items-on-a-windowsill-1850314993)
 - [Lifehacker] [How to Make a Pocket Garden](https://lifehacker.com/how-to-make-a-pocket-garden-1850314990)
 - [Lifehacker] [The Best Easter Food Deals and Freebies](https://lifehacker.com/the-best-easter-food-deals-and-freebies-1850305940)
