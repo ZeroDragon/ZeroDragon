@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Flight Tickets Mumbai By One Click Travel Company](https://dev.to/oneclicktravels/best-flight-tickets-mumbai-by-one-click-travel-company-27h0)
+- [Dev.to/JS] [Authentication in React Applications using Firebase and its services. Part 3](https://dev.to/dev_cody/authentication-in-react-applications-using-firebase-and-its-services-part-3-1j7o)
 - [Dev.to/JS] [Achieve streaming output like the ChatGPT mainframe](https://dev.to/moekidev/achieve-streaming-output-like-the-chatgpt-mainframe-1lbl)
 - [Dev.to/JS] [Dockerize Your Nextjs App Like a Pro: Advanced Tips for Next-Level Optimization](https://dev.to/nitinfab/dockerize-your-nextjs-app-like-a-pro-advanced-tips-for-next-level-optimization-nb2)
 - [Dev.to/JS] [Hoisting in JavaScript &lpar; Part -2 &rpar; Practise Question.](https://dev.to/sachink07/hoisting-in-javascript-part-2-practise-question-608)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [6 Frontend Award Websites For Developers To Get Inspired or Recognized](https://dev.to/snowiewdev/6-frontend-award-websites-for-developers-to-get-inspired-or-recognized-47pa)
 - [Dev.to/JS] [Creating hot-keys for web applications](https://dev.to/karenpayneoregon/creating-hot-keys-for-web-applications-cp2)
 - [Dev.to/JS] [&quot;Secret Weapons: 10 VS Code Extensions You Didn&#39;t Know You Needed&quot;](https://dev.to/mojodev/secret-weapons-10-vs-code-extensions-you-didnt-know-you-needed-2k02)
-- [Dev.to/JS] [Mastering JavaScript Variables: Hoisting, Temporal Dead Zone, and Top 10 Best Practices](https://dev.to/bolouie/mastering-javascript-variables-hoisting-temporal-dead-zone-and-top-10-best-practices-38bo)
-- [Dev.to/JS] [Building a Node.js Application to Search and Display GitHub Profiles Using GitHub API](https://dev.to/iamstepaul/building-a-nodejs-application-to-search-and-display-github-profiles-using-github-api-4kc2)
 - [Lifehacker] [Never Store These Items on a Windowsill](https://lifehacker.com/never-store-these-items-on-a-windowsill-1850314993)
 - [Lifehacker] [How to Make a Pocket Garden](https://lifehacker.com/how-to-make-a-pocket-garden-1850314990)
 - [Lifehacker] [The Best Easter Food Deals and Freebies](https://lifehacker.com/the-best-easter-food-deals-and-freebies-1850305940)
