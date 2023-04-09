@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Ways to Strip Punctuation from Strings in Python and JavaScript](https://dev.to/aradwan20/best-ways-to-strip-punctuation-from-strings-in-python-and-javascript-14j7)
+- [Dev.to/JS] [Announcing Lucia 1.0 - A simple and flexible auth library with support for multiple databases and frameworks](https://dev.to/pilcrowonpaper/announcing-lucia-10-a-simple-and-flexible-auth-library-with-support-for-multiple-databases-and-frameworks-4pi1)
+- [Dev.to/JS] [Musifyd](https://dev.to/rileydev_official/musifyd-4hkn)
+- [Dev.to/JS] [How to Build Your First GitHub App with JavaScript and GitHub API: Easy and Fast](https://dev.to/codewithsadee/how-to-build-your-first-github-app-with-javascript-and-github-api-easy-and-fast-50jc)
 - [Dev.to/JS] [Redux and Redux Toolkit](https://dev.to/melihs/redux-and-redux-toolkit-38f4)
 - [Dev.to/JS] [Context API and useContext](https://dev.to/oluwatrillions/context-api-and-usecontext-4430)
 - [Lifehacker] [Unexpected Ways You Can Use Orange Peels In Your Kitchen](https://lifehacker.com/unexpected-ways-you-can-use-orange-peels-in-your-kitche-1850315885)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best State Management Libraries in React.js](https://dev.to/alisamirali/best-state-management-libraries-in-reactjs-511l)
 - [Dev.to/JS] [why a computer science degree is not necessary for success in the tech industry](https://dev.to/chidiebereomasi/why-a-computer-science-degree-is-not-necessary-for-success-in-the-tech-industry-7o0)
 - [Dev.to/JS] [Typescript project template &lpar;NodeJS&rpar;](https://dev.to/airicyu/typescript-project-template-nodejs-1ojn)
-- [Dev.to/JS] [Deferred Promise Queue](https://dev.to/webduvet/deferred-promise-queue-2eej)
-- [Dev.to/JS] [Getting started with nuxt content - a simple blog page](https://dev.to/johnpaul/getting-started-with-nuxt-content-a-simple-blog-page-2l6h)
-- [Dev.to/JS] [Best Flight Tickets Mumbai By One Click Travel Company](https://dev.to/oneclicktravels/best-flight-tickets-mumbai-by-one-click-travel-company-27h0)
-- [Dev.to/JS] [Authentication in React Applications using Firebase and its services. Part 3](https://dev.to/dev_cody/authentication-in-react-applications-using-firebase-and-its-services-part-3-1j7o)
 - [Lifehacker] [Never Store These Items on a Windowsill](https://lifehacker.com/never-store-these-items-on-a-windowsill-1850314993)
 - [Lifehacker] [How to Make a Pocket Garden](https://lifehacker.com/how-to-make-a-pocket-garden-1850314990)
 - [Lifehacker] [The Best Easter Food Deals and Freebies](https://lifehacker.com/the-best-easter-food-deals-and-freebies-1850305940)
