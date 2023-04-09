@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using forEach to render components in React](https://dev.to/iraklitchiglad5/using-foreach-to-render-components-in-react-4n9f)
 - [Dev.to/JS] [Making a chat bot ai](https://dev.to/ghalbeyou/making-a-chat-bot-ai-384e)
 - [Dev.to/JS] [Expand and Collapse a List in React](https://dev.to/iraklitchiglad5/expand-and-collapse-a-list-in-react-37j0)
 - [Dev.to/JS] [21 Programming Memes Refresh Your Mind](https://dev.to/jon_snow789/21-programming-memes-refresh-your-mind-1fa0)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular Reactive Form](https://dev.to/kafeel_ahmad/angular-reactive-form-28gi)
 - [Dev.to/JS] [Becoming a Frontend Developer in 100 Days: A Step-by-Step Guide](https://dev.to/abhixsh/becoming-a-frontend-developer-in-100-days-a-step-by-step-guide-28jp)
 - [Dev.to/JS] [How to create an incremental and decremental Counter App using HTML, CSS &amp; JavaScript](https://dev.to/faisaljawedkhan/how-to-create-an-incremental-and-decremental-counter-app-using-html-css-javascript-591n)
-- [Dev.to/JS] [Getting Started with ElevenLabs Text-to-Speech API](https://dev.to/ssk14/getting-started-with-elevenlabs-text-to-speech-api-21j4)
 - [Lifehacker] [How to Attract Bats to Your Yard &lpar;and Why You&#39;d Want To&rpar;](https://lifehacker.com/how-to-attract-bats-to-your-yard-and-why-youd-want-to-1850315881)
 - [Lifehacker] [Unexpected Ways You Can Use Orange Peels In Your Kitchen](https://lifehacker.com/unexpected-ways-you-can-use-orange-peels-in-your-kitche-1850315885)
 - [Lifehacker] [Never Store These Items on a Windowsill](https://lifehacker.com/never-store-these-items-on-a-windowsill-1850314993)
