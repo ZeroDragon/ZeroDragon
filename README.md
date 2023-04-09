@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Achieve streaming output like the ChatGPT mainframe](https://dev.to/moekidev/achieve-streaming-output-like-the-chatgpt-mainframe-1lbl)
+- [Dev.to/JS] [Dockerize Your Nextjs App Like a Pro: Advanced Tips for Next-Level Optimization](https://dev.to/nitinfab/dockerize-your-nextjs-app-like-a-pro-advanced-tips-for-next-level-optimization-nb2)
 - [Dev.to/JS] [Hoisting in JavaScript &lpar; Part -2 &rpar; Practise Question.](https://dev.to/sachink07/hoisting-in-javascript-part-2-practise-question-608)
 - [Dev.to/JS] [Online chat room with Node.js](https://dev.to/henryshi101/online-chat-room-with-nodejs-3dm8)
 - [Dev.to/JS] [Creating a Progressive Web App in React A Beginners Guide](https://dev.to/varshithvhegde/creating-a-progressive-web-app-in-react-a-beginners-guide-3l9g)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&quot;Secret Weapons: 10 VS Code Extensions You Didn&#39;t Know You Needed&quot;](https://dev.to/mojodev/secret-weapons-10-vs-code-extensions-you-didnt-know-you-needed-2k02)
 - [Dev.to/JS] [Mastering JavaScript Variables: Hoisting, Temporal Dead Zone, and Top 10 Best Practices](https://dev.to/bolouie/mastering-javascript-variables-hoisting-temporal-dead-zone-and-top-10-best-practices-38bo)
 - [Dev.to/JS] [Building a Node.js Application to Search and Display GitHub Profiles Using GitHub API](https://dev.to/iamstepaul/building-a-nodejs-application-to-search-and-display-github-profiles-using-github-api-4kc2)
-- [Dev.to/JS] [How to Create a Digital Clock Using JavaScript](https://dev.to/rutikkpatel/how-to-create-a-digital-clock-using-javascript-59ji)
-- [Dev.to/JS] [Uploading and Managing Images with Node.js, Multer, and Cloudinary: A Comprehensive Guide](https://dev.to/titre123/uploading-and-managing-images-with-nodejs-multer-and-cloudinary-a-comprehensive-guide-520a)
 - [Lifehacker] [Never Store These Items on a Windowsill](https://lifehacker.com/never-store-these-items-on-a-windowsill-1850314993)
 - [Lifehacker] [How to Make a Pocket Garden](https://lifehacker.com/how-to-make-a-pocket-garden-1850314990)
 - [Lifehacker] [The Best Easter Food Deals and Freebies](https://lifehacker.com/the-best-easter-food-deals-and-freebies-1850305940)
