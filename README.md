@@ -23,9 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlocking the Power of Closures in Rust: Closures in rust are different and powerful](https://dev.to/doziestar/unlocking-the-power-of-closures-in-rust-closures-in-rust-are-different-and-powerful-55bk)
 - [Dev.to/JS] [Creating a Social Network for Bakers with the use of Generative Artificial Intelligence as an Assistant. part 1](https://dev.to/narradorww/creating-a-social-network-for-bakers-with-the-use-of-generative-artificial-intelligence-as-an-assistant-part-1-5ec5)
 - [Dev.to/JS] [USA Sales Tax CLI App in Node.js and Sqlite](https://dev.to/bekbrace/usa-sales-tax-cli-app-in-nodejs-and-sqlite-2963)
 - [Dev.to/JS] [This is the best way to compress images on a website.](https://dev.to/wbojczuk/this-is-the-best-way-to-compress-images-on-a-website-4nik)
+- [Dev.to/JS] [Unlocking Rust’s Power: A Deep Dive into Associated Functions &amp; Methods](https://dev.to/doziestar/unlocking-rusts-power-a-deep-dive-into-associated-functions-methods-5po)
 - [Dev.to/JS] [Escaping from Callback Hell](https://dev.to/vit0rr/escaping-from-callback-hell-3kjo)
 - [Dev.to/JS] [Final blog post for wrapping up badge query project](https://dev.to/platinumfish/final-blog-post-for-wrapping-up-badge-query-project-6pa)
 - [Dev.to/JS] [How to empty out the form after it is submitted](https://dev.to/iraklitchiglad5/how-to-empty-out-the-form-after-it-is-submitted-4oe5)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10+ Open-Source Projects For Web Developers In 2023](https://dev.to/alesiasirotka/10-open-source-projects-for-web-developers-in-2023-1ol9)
 - [Dev.to/JS] [JavaScript Family](https://dev.to/ludkamotylikova/javascript-family-3jn8)
 - [Lifehacker] [Three Creative Ways to Paint Your Boring Room](https://lifehacker.com/three-creative-ways-to-paint-your-boring-room-1850313019)
-- [Dev.to/JS] [How to create a scroll to top btn in react js](https://dev.to/jon_snow789/how-to-create-a-scroll-to-top-btn-in-react-js-2jo8)
-- [Dev.to/JS] [Deploy Multi-service Applications on Google App Engine](https://dev.to/callezenwaka/deploy-multi-service-applications-on-google-app-engine-41l8)
 - [Lifehacker] [Your iPhone Is Still Vulnerable When It Is Locked](https://lifehacker.com/your-iphone-is-still-vulnerable-when-it-is-locked-1850318663)
 - [Lifehacker] [Over Half a Million of These Hondas Are Being Recalled](https://lifehacker.com/over-half-a-million-of-these-hondas-are-being-recalled-1850314065)
 - [Lifehacker] [It&#39;s Time to Start Taking Your Spring Allergies Seriously](https://lifehacker.com/its-time-to-start-taking-your-spring-allergies-seriousl-1850313310)
