@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Beginner&#39;s Guide to JavaScript&#39;s Single Thread and Event Loop](https://dev.to/fernandakipper/a-beginners-guide-to-javascripts-single-thread-and-event-loop-1a9h)
+- [Dev.to/JS] [Using ChatGPT as a Coding Buddy](https://dev.to/ananfito/using-chatgpt-as-a-coding-buddy-5bg9)
+- [Dev.to/JS] [The Benefits of Functional Programming in React](https://dev.to/yuya0114/the-benefits-of-functional-programming-in-react-237e)
 - [Dev.to/JS] [Crea tu primer app con Angular](https://dev.to/juanchehin/crea-tu-primer-app-con-angular-18ak)
 - [Dev.to/JS] [Invoking multiple functions on a single element](https://dev.to/greenteaisgreat/invoking-multiple-functions-on-a-single-element-5845)
 - [Dev.to/JS] [Making a Speedrun Timer: Chapter 3](https://dev.to/kevthedev/making-a-speedrun-timer-chapter-3-f8k)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Setup An AWS S3 Bucket And Configure In Node.js - Part 1](https://dev.to/rockyessel/how-to-setup-an-aws-s3-bucket-and-configure-in-nodejs-part-1-1bko)
 - [Dev.to/JS] [Using forEach to render components in React](https://dev.to/iraklitchiglad5/using-foreach-to-render-components-in-react-4n9f)
 - [Dev.to/JS] [Making a chat bot ai](https://dev.to/ghalbeyou/making-a-chat-bot-ai-384e)
-- [Dev.to/JS] [Expand and Collapse a List in React](https://dev.to/iraklitchiglad5/expand-and-collapse-a-list-in-react-37j0)
-- [Dev.to/JS] [21 Programming Memes Refresh Your Mind](https://dev.to/jon_snow789/21-programming-memes-refresh-your-mind-1fa0)
-- [Dev.to/JS] [Try our new AI on Discord!](https://dev.to/heexy/try-our-new-ai-on-discord-2a25)
 - [Lifehacker] [Why Your Vacuum Smells Bad &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-your-vacuum-smells-bad-and-how-to-fix-it-1850315877)
 - [Lifehacker] [How to Attract Bats to Your Yard &lpar;and Why You&#39;d Want To&rpar;](https://lifehacker.com/how-to-attract-bats-to-your-yard-and-why-youd-want-to-1850315881)
 - [Lifehacker] [Unexpected Ways You Can Use Orange Peels In Your Kitchen](https://lifehacker.com/unexpected-ways-you-can-use-orange-peels-in-your-kitche-1850315885)
