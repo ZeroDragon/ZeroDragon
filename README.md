@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create drag and drop in reactjs](https://dev.to/pdevfahad/how-to-create-drag-and-drop-in-reactjs-1go9)
+- [Dev.to/JS] [Building a CRM System: Does CRM Require Coding?](https://dev.to/flatlogic/building-a-crm-system-does-crm-require-coding-1jb6)
 - [Dev.to/JS] [O Futuro do Gerenciamento de Dependências com Import Maps](https://dev.to/angellicaaraujo/o-futuro-do-gerenciamento-de-dependencias-com-import-maps-5dg6)
 - [Dev.to/JS] [Custom filter options in Ag Grid - Angular](https://dev.to/bl4ckst0n3/custom-filter-options-in-ag-grid-angular-4n1k)
 - [Dev.to/JS] [Boostaro - Results, Reviews, Benefits, Uses &amp; Side Effects?](https://dev.to/boostarofa79021/boostaro-results-reviews-benefits-uses-side-effects-224m)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hoisting in JavaScript: Understanding the Inner Workings](https://dev.to/koushikmaratha/hoisting-in-javascript-understanding-the-inner-workings-2ej9)
 - [Dev.to/JS] [react_devtools_backend.js:2655 Warning: Each child in a list should have a unique &quot;key&quot; prop](https://dev.to/highcenburg/reactdevtoolsbackendjs2655-warning-each-child-in-a-list-should-have-a-unique-key-prop-249l)
 - [Dev.to/JS] [Hi There! I&#39;m new here](https://dev.to/kholiylulloh/hi-there-im-new-here-181c)
-- [Dev.to/JS] [The &#39;...&#39; operator and common uses - Ellipsis or the yada yada yada operator](https://dev.to/kainoah/the-operator-and-common-uses-ellipsis-or-the-yada-yada-yada-operator-5a33)
-- [Dev.to/JS] [Project 2 Final Post](https://dev.to/pandaalifter/project-2-final-post-51o8)
 - [Lifehacker] [Why Your Vacuum Smells Bad &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-your-vacuum-smells-bad-and-how-to-fix-it-1850315877)
 - [Lifehacker] [How to Attract Bats to Your Yard &lpar;and Why You&#39;d Want To&rpar;](https://lifehacker.com/how-to-attract-bats-to-your-yard-and-why-youd-want-to-1850315881)
 - [Lifehacker] [Unexpected Ways You Can Use Orange Peels In Your Kitchen](https://lifehacker.com/unexpected-ways-you-can-use-orange-peels-in-your-kitche-1850315885)
