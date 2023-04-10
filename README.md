@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A wrap on project 2](https://dev.to/msanyal7/a-wrap-on-project-2-19mi)
 - [Dev.to/JS] [Use x-crawl to help you fetch data](https://dev.to/coderhxl/use-x-crawl-to-help-you-fetch-data-550i)
 - [Dev.to/JS] [CREATING A SIMPLE TO-DO LIST &lpar;USING HTML,CSS AND JAVASCRIPT&rpar;](https://dev.to/maame_afia/creating-a-simple-to-do-list-using-htmlcss-and-javascript-2klc)
 - [Dev.to/JS] [A Beginner&#39;s Guide to JavaScript&#39;s Single Thread and Event Loop](https://dev.to/fernandakipper/a-beginners-guide-to-javascripts-single-thread-and-event-loop-1a9h)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Beginner&#39;s Guide to APIs: Simplifying the Complex World of API Technology](https://dev.to/titre123/the-beginners-guide-to-apis-simplifying-the-complex-world-of-api-technology-1m6k)
 - [Dev.to/JS] [Node.js Roadmap: A Comprehensive Learning Template for Developers](https://dev.to/shreyvijayvargiya/nodejs-roadmap-a-comprehensive-learning-template-for-developers-132b)
 - [Dev.to/JS] [Creating your own ExpressJS from scratch &lpar;Part 2&rpar; - Middlewares and Controllers](https://dev.to/wesleymreng7/creating-your-own-expressjs-from-scratch-part-2-middlewares-and-controllers-2fbc)
-- [Dev.to/JS] [How To Setup An AWS S3 Bucket And Configure In Node.js - Part 1](https://dev.to/rockyessel/how-to-setup-an-aws-s3-bucket-and-configure-in-nodejs-part-1-1bko)
 - [Lifehacker] [Why Your Vacuum Smells Bad &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-your-vacuum-smells-bad-and-how-to-fix-it-1850315877)
 - [Lifehacker] [How to Attract Bats to Your Yard &lpar;and Why You&#39;d Want To&rpar;](https://lifehacker.com/how-to-attract-bats-to-your-yard-and-why-youd-want-to-1850315881)
 - [Lifehacker] [Unexpected Ways You Can Use Orange Peels In Your Kitchen](https://lifehacker.com/unexpected-ways-you-can-use-orange-peels-in-your-kitche-1850315885)
