@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Baby Your Eggs, Coddle Them](https://lifehacker.com/dont-baby-your-eggs-coddle-them-1850314208)
+- [Dev.to/JS] [GPTAgent.js: Build your own AI Agents with TypeScript and JavaScript!](https://dev.to/lgrammel/gptagentjs-build-your-own-ai-agents-with-typescript-and-javascript-448f)
+- [Dev.to/JS] [Using context in React to solve some issues](https://dev.to/ist4/using-context-in-react-to-solve-some-issues-o96)
+- [Lifehacker] [The Lies Employers Tell You During Job Interviews](https://lifehacker.com/the-lies-employers-tell-you-during-job-interviews-1850307753)
+- [Dev.to/JS] [How To Build a Food Delivery App Like UberEats Using NextBillion.ai](https://dev.to/nextbillion-ai/how-to-build-a-food-delivery-app-like-ubereats-using-nextbillionai-1p0a)
+- [Dev.to/JS] [Step-by-Step Guide: Setting Up a NestJS Application with Docker and PostgreSQL](https://dev.to/chukwutosin_/step-by-step-guide-setting-up-a-nestjs-application-with-docker-and-postgresql-5hei)
 - [Lifehacker] [All the Ways Your Bank Will Try to Rip You Off](https://lifehacker.com/all-the-ways-your-bank-will-try-to-rip-you-off-1850312694)
 - [Dev.to/JS] [Native HTML5 Input Validation: Build Better Forms](https://dev.to/pujux/native-html5-input-validation-build-better-forms-3363)
 - [Dev.to/JS] [Programação funcional e a imutabilidade: 4 maneiras de clonar objetos no JavaScript](https://dev.to/laisfrigerio/programacao-funcional-e-a-imutabilidade-4-maneiras-de-clonar-objetos-no-javascript-1h8l)
@@ -33,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Generating Sitemaps for SvelteKit Apps on Cloudflare Pages](https://dev.to/mellenio/generating-sitemaps-for-sveltekit-apps-on-cloudflare-pages-1216)
 - [Dev.to/JS] [User Permissions and the Principle of Least Privilege on API Endpoints using Firebase Part 2.](https://dev.to/callezenwaka/user-permissions-and-the-principle-of-least-privilege-on-api-endpoints-using-firebase-part-2-29hn)
 - [Dev.to/JS] [Building Pagination in React with React Paginate](https://dev.to/documatic/building-pagination-in-react-with-react-paginate-4nol)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, Apr 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-apr-2023-70d)
-- [Dev.to/JS] [Mastering Dates in JavaScript: Effortlessly Run Date Manipulations with Latenode.com](https://dev.to/latenode/mastering-dates-in-javascript-effortlessly-run-date-manipulations-with-latenodecom-2f83)
-- [Dev.to/JS] [Object Oriented Programming with Typescript](https://dev.to/cliff123tech/oop-typescript-jk4)
-- [Dev.to/JS] [User Permissions and the Principle of Least Privilege on API Endpoints using Firebase Part 1.](https://dev.to/callezenwaka/user-permissions-and-the-principle-of-least-privilege-on-api-endpoints-using-firebase-part-1-16if)
 - [Lifehacker] [Why Your Vacuum Smells Bad &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-your-vacuum-smells-bad-and-how-to-fix-it-1850315877)
 - [Lifehacker] [How to Attract Bats to Your Yard &lpar;and Why You&#39;d Want To&rpar;](https://lifehacker.com/how-to-attract-bats-to-your-yard-and-why-youd-want-to-1850315881)
 - [Lifehacker] [Unexpected Ways You Can Use Orange Peels In Your Kitchen](https://lifehacker.com/unexpected-ways-you-can-use-orange-peels-in-your-kitche-1850315885)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free If You Have Apple Pay](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-if-you-ha-1850308128)
 - [Lifehacker] [Get a Dairy Queen Blizzard for Less Than a Buck](https://lifehacker.com/get-a-dairy-queen-blizzard-for-less-than-a-buck-1850305132)
 - [Lifehacker] [There&#39;s Finally An AirDrop for Windows and Android Users](https://lifehacker.com/theres-finally-an-airdrop-for-windows-and-android-users-1850306548)
-- [Lifehacker] [How a Custodial Brokerage Account Can Help You Invest for Your Kids&#39; Future Now](https://lifehacker.com/how-to-start-investing-for-your-kids-future-now-1850309774)
-- [Lifehacker] [How to Clean Tree Sap From Your Clothes &lpar;and Everything Else&rpar;](https://lifehacker.com/how-to-clean-tree-sap-from-your-clothes-and-everything-1850304507)
-- [Lifehacker] [How to Make Your Own ‘Barbie’ Movie Poster Meme](https://lifehacker.com/how-to-make-your-own-barbie-movie-poster-meme-1850307581)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How a Custodial Brokerage Account Can Help You Invest for Your Kids&#39; Future Now](https://lifehacker.com/how-to-start-investing-for-your-kids-future-now-1850309774)<!-- TECH-POSTS:END -->
 
 ---
 
