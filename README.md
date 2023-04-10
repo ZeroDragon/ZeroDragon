@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [gojs for dummies &lpar;para mi :D&rpar; #Español](https://dev.to/julio_santacruz/gojs-for-dummies-para-mi-d-espanol-3d55)
+- [Dev.to/JS] [Next.js Weekly Recap #2: App Router, Background Functions, YakGPT, Vercel KV](https://dev.to/erfanebrahimnia/nextjs-weekly-recap-2-app-router-background-functions-yakgpt-vercel-kv-3m3n)
 - [Dev.to/JS] [Unlocking the Power of Closures in Rust: Closures in rust are different and powerful](https://dev.to/doziestar/unlocking-the-power-of-closures-in-rust-closures-in-rust-are-different-and-powerful-55bk)
 - [Dev.to/JS] [Creating a Social Network for Bakers with the use of Generative Artificial Intelligence as an Assistant. part 1](https://dev.to/narradorww/creating-a-social-network-for-bakers-with-the-use-of-generative-artificial-intelligence-as-an-assistant-part-1-5ec5)
 - [Dev.to/JS] [USA Sales Tax CLI App in Node.js and Sqlite](https://dev.to/bekbrace/usa-sales-tax-cli-app-in-nodejs-and-sqlite-2963)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to empty out the form after it is submitted](https://dev.to/iraklitchiglad5/how-to-empty-out-the-form-after-it-is-submitted-4oe5)
 - [Dev.to/JS] [Loop through an array of objects in React](https://dev.to/iraklitchiglad5/loop-through-an-array-of-objects-in-react-9gl)
 - [Dev.to/JS] [Yarn essentials](https://dev.to/harireddy7/yarn-essentials-1307)
-- [Dev.to/JS] [10+ Open-Source Projects For Web Developers In 2023](https://dev.to/alesiasirotka/10-open-source-projects-for-web-developers-in-2023-1ol9)
-- [Dev.to/JS] [JavaScript Family](https://dev.to/ludkamotylikova/javascript-family-3jn8)
 - [Lifehacker] [Three Creative Ways to Paint Your Boring Room](https://lifehacker.com/three-creative-ways-to-paint-your-boring-room-1850313019)
 - [Lifehacker] [Your iPhone Is Still Vulnerable When It Is Locked](https://lifehacker.com/your-iphone-is-still-vulnerable-when-it-is-locked-1850318663)
 - [Lifehacker] [Over Half a Million of These Hondas Are Being Recalled](https://lifehacker.com/over-half-a-million-of-these-hondas-are-being-recalled-1850314065)
