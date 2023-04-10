@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Over Half a Million of These Hondas Are Being Recalled](https://lifehacker.com/over-half-a-million-of-these-hondas-are-being-recalled-1850314065)
+- [Dev.to/JS] [Queuing API](https://dev.to/soorajsnblaze333/queuing-api-25oa)
+- [Lifehacker] [It&#39;s Time to Start Taking Your Spring Allergies Seriously](https://lifehacker.com/its-time-to-start-taking-your-spring-allergies-seriousl-1850313310)
+- [Dev.to/JS] [A Very Simple Game in plain JS](https://dev.to/artydev/a-very-simple-game-in-plain-js-p5c)
+- [Dev.to/JS] [Streamline your workflow with CourierJS: Our new client-side SDK](https://dev.to/courier/streamline-your-workflow-with-courierjs-our-new-client-side-sdk-3fkk)
 - [Lifehacker] [OpenAI’s &#39;Pay As You Go&#39; Is the Best Way to Use ChatGPT](https://lifehacker.com/openai-s-pay-as-you-go-is-the-best-way-to-use-chatgpt-1850318349)
 - [Lifehacker] [How to Spot a Gross Motor Delay in Your Child](https://lifehacker.com/how-to-spot-a-gross-motor-delay-in-your-child-1850313484)
 - [Lifehacker] [How to Get Reimbursed for COVID Tests Before Insurance Stops Paying](https://lifehacker.com/how-to-get-reimbursed-for-covid-tests-before-insurance-1850314482)
@@ -40,9 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Native HTML5 Input Validation: Build Better Forms](https://dev.to/pujux/native-html5-input-validation-build-better-forms-3363)
 - [Dev.to/JS] [Programação funcional e a imutabilidade: 4 maneiras de clonar objetos no JavaScript](https://dev.to/laisfrigerio/programacao-funcional-e-a-imutabilidade-4-maneiras-de-clonar-objetos-no-javascript-1h8l)
 - [Lifehacker] [You Should Be Browsing the Web in Split-Screen](https://lifehacker.com/you-should-be-browsing-the-web-in-split-screen-1850311393)
-- [Dev.to/JS] [React Clean Code with Absolute Imports](https://dev.to/tasawarhussain/react-clean-code-with-absolute-imports-1028)
-- [Dev.to/JS] [Introduction to Object-Oriented Programming &lpar;OOP&rpar;](https://dev.to/igmrrf/introduction-to-object-oriented-programming-oop-357o)
-- [Dev.to/JS] [Building my first VS Code Extension](https://dev.to/bladearya/building-my-first-vs-code-extension-1h7d)
 - [Lifehacker] [Why Your Vacuum Smells Bad &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-your-vacuum-smells-bad-and-how-to-fix-it-1850315877)
 - [Lifehacker] [How to Attract Bats to Your Yard &lpar;and Why You&#39;d Want To&rpar;](https://lifehacker.com/how-to-attract-bats-to-your-yard-and-why-youd-want-to-1850315881)
 - [Lifehacker] [Unexpected Ways You Can Use Orange Peels In Your Kitchen](https://lifehacker.com/unexpected-ways-you-can-use-orange-peels-in-your-kitche-1850315885)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What &#39;Genuine Leather&#39; Really Means](https://lifehacker.com/what-genuine-leather-really-means-1850309049)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is the Mario Movie Actually...Good?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-the-ma-1850309148)
 - [Lifehacker] [TikTok Diet Culture Is Ruining Cottage Cheese](https://lifehacker.com/tiktok-diet-culture-is-ruining-cottage-cheese-1850308811)
-- [Lifehacker] [Donate Blood to Get This Cool Snoopy Shirt](https://lifehacker.com/donate-blood-to-get-this-cool-snoopy-shirt-1850309648)
-- [Lifehacker] [The Best Stim-Free Preworkout Supplement Is Eating a Damn Snack](https://lifehacker.com/the-best-stim-free-preworkout-supplement-is-eating-a-da-1850308539)
-- [Lifehacker] [You Can Remove That Stupid Doge Icon From Your Twitter Feed](https://lifehacker.com/you-can-remove-that-stupid-doge-icon-from-your-twitter-1850308507)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Donate Blood to Get This Cool Snoopy Shirt](https://lifehacker.com/donate-blood-to-get-this-cool-snoopy-shirt-1850309648)<!-- TECH-POSTS:END -->
 
 ---
 
