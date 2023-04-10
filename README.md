@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a Social Network for Bakers with the use of Generative Artificial Intelligence as an Assistant. part 1](https://dev.to/narradorww/creating-a-social-network-for-bakers-with-the-use-of-generative-artificial-intelligence-as-an-assistant-part-1-5ec5)
+- [Dev.to/JS] [USA Sales Tax CLI App in Node.js and Sqlite](https://dev.to/bekbrace/usa-sales-tax-cli-app-in-nodejs-and-sqlite-2963)
+- [Dev.to/JS] [This is the best way to compress images on a website.](https://dev.to/wbojczuk/this-is-the-best-way-to-compress-images-on-a-website-4nik)
 - [Dev.to/JS] [Escaping from Callback Hell](https://dev.to/vit0rr/escaping-from-callback-hell-3kjo)
 - [Dev.to/JS] [Final blog post for wrapping up badge query project](https://dev.to/platinumfish/final-blog-post-for-wrapping-up-badge-query-project-6pa)
 - [Dev.to/JS] [How to empty out the form after it is submitted](https://dev.to/iraklitchiglad5/how-to-empty-out-the-form-after-it-is-submitted-4oe5)
@@ -34,11 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a scroll to top btn in react js](https://dev.to/jon_snow789/how-to-create-a-scroll-to-top-btn-in-react-js-2jo8)
 - [Dev.to/JS] [Deploy Multi-service Applications on Google App Engine](https://dev.to/callezenwaka/deploy-multi-service-applications-on-google-app-engine-41l8)
 - [Lifehacker] [Your iPhone Is Still Vulnerable When It Is Locked](https://lifehacker.com/your-iphone-is-still-vulnerable-when-it-is-locked-1850318663)
-- [Dev.to/JS] [JavaScript for loop](https://dev.to/max24816/javascript-for-loop-380f)
 - [Lifehacker] [Over Half a Million of These Hondas Are Being Recalled](https://lifehacker.com/over-half-a-million-of-these-hondas-are-being-recalled-1850314065)
-- [Dev.to/JS] [Queuing Rest Apis using JavaScript](https://dev.to/soorajsnblaze333/queuing-api-25oa)
 - [Lifehacker] [It&#39;s Time to Start Taking Your Spring Allergies Seriously](https://lifehacker.com/its-time-to-start-taking-your-spring-allergies-seriousl-1850313310)
-- [Dev.to/JS] [A Very Simple Game in plain JS](https://dev.to/artydev/a-very-simple-game-in-plain-js-p5c)
 - [Lifehacker] [OpenAI’s &#39;Pay As You Go&#39; Is the Best Way to Use ChatGPT](https://lifehacker.com/openai-s-pay-as-you-go-is-the-best-way-to-use-chatgpt-1850318349)
 - [Lifehacker] [How to Spot a Gross Motor Delay in Your Child](https://lifehacker.com/how-to-spot-a-gross-motor-delay-in-your-child-1850313484)
 - [Lifehacker] [How to Get Reimbursed for COVID Tests Before Insurance Stops Paying](https://lifehacker.com/how-to-get-reimbursed-for-covid-tests-before-insurance-1850314482)
