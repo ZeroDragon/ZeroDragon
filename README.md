@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [O Futuro do Gerenciamento de Dependências com Import Maps](https://dev.to/angellicaaraujo/o-futuro-do-gerenciamento-de-dependencias-com-import-maps-5dg6)
+- [Dev.to/JS] [Custom filter options in Ag Grid - Angular](https://dev.to/bl4ckst0n3/custom-filter-options-in-ag-grid-angular-4n1k)
+- [Dev.to/JS] [Boostaro - Results, Reviews, Benefits, Uses &amp; Side Effects?](https://dev.to/boostarofa79021/boostaro-results-reviews-benefits-uses-side-effects-224m)
+- [Dev.to/JS] [thedevlog 1 - Shinobi Tactics](https://dev.to/kimsean/thedevlog-1-shinobi-tactics-172j)
 - [Dev.to/JS] [Unraveling the Magic Behind React 18: A Comprehensive Guide🚀](https://dev.to/ranaharoon3222/unraveling-the-magic-behind-react-18-a-comprehensive-guide-3pp3)
 - [Dev.to/JS] [Building a Basic Neural Network with Brain.js](https://dev.to/koushikmaratha/building-a-basic-neural-network-with-brainjs-2o7d)
 - [Dev.to/JS] [Difference Between Undeclared &amp; Undefined Variables?](https://dev.to/rpjayadev/difference-between-undeclared-undefined-variables-54n6)
@@ -30,11 +34,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [react_devtools_backend.js:2655 Warning: Each child in a list should have a unique &quot;key&quot; prop](https://dev.to/highcenburg/reactdevtoolsbackendjs2655-warning-each-child-in-a-list-should-have-a-unique-key-prop-249l)
 - [Dev.to/JS] [Hi There! I&#39;m new here](https://dev.to/kholiylulloh/hi-there-im-new-here-181c)
 - [Dev.to/JS] [The &#39;...&#39; operator and common uses - Ellipsis or the yada yada yada operator](https://dev.to/kainoah/the-operator-and-common-uses-ellipsis-or-the-yada-yada-yada-operator-5a33)
-- [Dev.to/JS] [Project 2 Wrap Up](https://dev.to/jjw6545/project-2-wrap-up-1neg)
-- [Dev.to/JS] [Most frequent JavaScript symbols and what they perform.](https://dev.to/bahamustafa/most-frequent-javascript-symbols-and-what-they-perform-4g07)
-- [Dev.to/JS] [A wrap on project 2](https://dev.to/msanyal7/a-wrap-on-project-2-19mi)
-- [Dev.to/JS] [Use x-crawl to help you fetch data](https://dev.to/coderhxl/use-x-crawl-to-help-you-fetch-data-550i)
-- [Dev.to/JS] [CREATING A SIMPLE TO-DO LIST &lpar;USING HTML,CSS AND JAVASCRIPT&rpar;](https://dev.to/maame_afia/creating-a-simple-to-do-list-using-htmlcss-and-javascript-2klc)
+- [Dev.to/JS] [Project 2 Final Post](https://dev.to/pandaalifter/project-2-final-post-51o8)
 - [Lifehacker] [Why Your Vacuum Smells Bad &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-your-vacuum-smells-bad-and-how-to-fix-it-1850315877)
 - [Lifehacker] [How to Attract Bats to Your Yard &lpar;and Why You&#39;d Want To&rpar;](https://lifehacker.com/how-to-attract-bats-to-your-yard-and-why-youd-want-to-1850315881)
 - [Lifehacker] [Unexpected Ways You Can Use Orange Peels In Your Kitchen](https://lifehacker.com/unexpected-ways-you-can-use-orange-peels-in-your-kitche-1850315885)
