@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Shipping Labels.](https://dev.to/sasuke002a/shipping-labels-1in6)
+- [Dev.to/JS] [Maximize your learning and productivity with this Chrome extension](https://dev.to/jgamaraalv/maximize-your-learning-and-productivity-with-this-chrome-extension-nhj)
+- [Lifehacker] [Get a Free Sonic Cheeseburger When You Buy Anything. Even a Cup of Ice](https://lifehacker.com/get-a-free-sonic-cheeseburger-when-you-buy-anything-ev-1850313703)
 - [Lifehacker] [Don&#39;t Baby Your Eggs, Coddle Them](https://lifehacker.com/dont-baby-your-eggs-coddle-them-1850314208)
 - [Dev.to/JS] [GPTAgent.js: Build your own AI Agents with TypeScript and JavaScript!](https://dev.to/lgrammel/gptagentjs-build-your-own-ai-agents-with-typescript-and-javascript-448f)
 - [Dev.to/JS] [Using context in React to solve some issues](https://dev.to/ist4/using-context-in-react-to-solve-some-issues-o96)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to Object-Oriented Programming &lpar;OOP&rpar;](https://dev.to/igmrrf/introduction-to-object-oriented-programming-oop-357o)
 - [Dev.to/JS] [Building my first VS Code Extension](https://dev.to/bladearya/building-my-first-vs-code-extension-1h7d)
 - [Dev.to/JS] [Generating Sitemaps for SvelteKit Apps on Cloudflare Pages](https://dev.to/mellenio/generating-sitemaps-for-sveltekit-apps-on-cloudflare-pages-1216)
-- [Dev.to/JS] [User Permissions and the Principle of Least Privilege on API Endpoints using Firebase Part 2.](https://dev.to/callezenwaka/user-permissions-and-the-principle-of-least-privilege-on-api-endpoints-using-firebase-part-2-29hn)
-- [Dev.to/JS] [Building Pagination in React with React Paginate](https://dev.to/documatic/building-pagination-in-react-with-react-paginate-4nol)
 - [Lifehacker] [Why Your Vacuum Smells Bad &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-your-vacuum-smells-bad-and-how-to-fix-it-1850315877)
 - [Lifehacker] [How to Attract Bats to Your Yard &lpar;and Why You&#39;d Want To&rpar;](https://lifehacker.com/how-to-attract-bats-to-your-yard-and-why-youd-want-to-1850315881)
 - [Lifehacker] [Unexpected Ways You Can Use Orange Peels In Your Kitchen](https://lifehacker.com/unexpected-ways-you-can-use-orange-peels-in-your-kitche-1850315885)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Remove That Stupid Doge Icon From Your Twitter Feed](https://lifehacker.com/you-can-remove-that-stupid-doge-icon-from-your-twitter-1850308507)
 - [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free If You Have Apple Pay](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-if-you-ha-1850308128)
 - [Lifehacker] [Get a Dairy Queen Blizzard for Less Than a Buck](https://lifehacker.com/get-a-dairy-queen-blizzard-for-less-than-a-buck-1850305132)
-- [Lifehacker] [There&#39;s Finally An AirDrop for Windows and Android Users](https://lifehacker.com/theres-finally-an-airdrop-for-windows-and-android-users-1850306548)
-- [Lifehacker] [How a Custodial Brokerage Account Can Help You Invest for Your Kids&#39; Future Now](https://lifehacker.com/how-to-start-investing-for-your-kids-future-now-1850309774)<!-- TECH-POSTS:END -->
+- [Lifehacker] [There&#39;s Finally An AirDrop for Windows and Android Users](https://lifehacker.com/theres-finally-an-airdrop-for-windows-and-android-users-1850306548)<!-- TECH-POSTS:END -->
 
 ---
 
