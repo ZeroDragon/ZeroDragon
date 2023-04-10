@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Three Creative Ways to Paint Your Boring Room](https://lifehacker.com/three-creative-ways-to-paint-your-boring-room-1850313019)
+- [Dev.to/JS] [How to create a scroll to top btn in react js](https://dev.to/jon_snow789/how-to-create-a-scroll-to-top-btn-in-react-js-2jo8)
+- [Dev.to/JS] [Deploy Multi-service Applications on Google App Engine](https://dev.to/callezenwaka/deploy-multi-service-applications-on-google-app-engine-41l8)
+- [Lifehacker] [Your iPhone Is Still Vulnerable When It Is Locked](https://lifehacker.com/your-iphone-is-still-vulnerable-when-it-is-locked-1850318663)
+- [Dev.to/JS] [JavaScript for loop](https://dev.to/max24816/javascript-for-loop-380f)
 - [Lifehacker] [Over Half a Million of These Hondas Are Being Recalled](https://lifehacker.com/over-half-a-million-of-these-hondas-are-being-recalled-1850314065)
 - [Dev.to/JS] [Queuing API](https://dev.to/soorajsnblaze333/queuing-api-25oa)
 - [Lifehacker] [It&#39;s Time to Start Taking Your Spring Allergies Seriously](https://lifehacker.com/its-time-to-start-taking-your-spring-allergies-seriousl-1850313310)
@@ -40,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using context in React to solve some issues](https://dev.to/ist4/using-context-in-react-to-solve-some-issues-o96)
 - [Lifehacker] [The Lies Employers Tell You During Job Interviews](https://lifehacker.com/the-lies-employers-tell-you-during-job-interviews-1850307753)
 - [Dev.to/JS] [How To Build a Food Delivery App Like UberEats Using NextBillion.ai](https://dev.to/nextbillion-ai/how-to-build-a-food-delivery-app-like-ubereats-using-nextbillionai-1p0a)
-- [Dev.to/JS] [Step-by-Step Guide: Setting Up a NestJS Application with Docker and PostgreSQL](https://dev.to/chukwutosin_/step-by-step-guide-setting-up-a-nestjs-application-with-docker-and-postgresql-5hei)
 - [Lifehacker] [All the Ways Your Bank Will Try to Rip You Off](https://lifehacker.com/all-the-ways-your-bank-will-try-to-rip-you-off-1850312694)
-- [Dev.to/JS] [Native HTML5 Input Validation: Build Better Forms](https://dev.to/pujux/native-html5-input-validation-build-better-forms-3363)
-- [Dev.to/JS] [Programação funcional e a imutabilidade: 4 maneiras de clonar objetos no JavaScript](https://dev.to/laisfrigerio/programacao-funcional-e-a-imutabilidade-4-maneiras-de-clonar-objetos-no-javascript-1h8l)
 - [Lifehacker] [You Should Be Browsing the Web in Split-Screen](https://lifehacker.com/you-should-be-browsing-the-web-in-split-screen-1850311393)
 - [Lifehacker] [Why Your Vacuum Smells Bad &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-your-vacuum-smells-bad-and-how-to-fix-it-1850315877)
 - [Lifehacker] [How to Attract Bats to Your Yard &lpar;and Why You&#39;d Want To&rpar;](https://lifehacker.com/how-to-attract-bats-to-your-yard-and-why-youd-want-to-1850315881)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Four Clever Ways to Reuse an Old Garden Hose](https://lifehacker.com/four-clever-ways-to-reuse-an-old-garden-hose-1850312495)
 - [Lifehacker] [Take These Steps to Protect Your Data After a Cyberattack](https://lifehacker.com/take-these-steps-to-protect-your-data-after-a-cyberatta-1850304604)
 - [Lifehacker] [What &#39;Genuine Leather&#39; Really Means](https://lifehacker.com/what-genuine-leather-really-means-1850309049)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is the Mario Movie Actually...Good?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-the-ma-1850309148)
-- [Lifehacker] [TikTok Diet Culture Is Ruining Cottage Cheese](https://lifehacker.com/tiktok-diet-culture-is-ruining-cottage-cheese-1850308811)
-- [Lifehacker] [Donate Blood to Get This Cool Snoopy Shirt](https://lifehacker.com/donate-blood-to-get-this-cool-snoopy-shirt-1850309648)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is the Mario Movie Actually...Good?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-the-ma-1850309148)<!-- TECH-POSTS:END -->
 
 ---
 
