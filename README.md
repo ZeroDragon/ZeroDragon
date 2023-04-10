@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Crea tu primer app con Angular](https://dev.to/juanchehin/crea-tu-primer-app-con-angular-18ak)
 - [Dev.to/JS] [Invoking multiple functions on a single element](https://dev.to/greenteaisgreat/invoking-multiple-functions-on-a-single-element-5845)
 - [Dev.to/JS] [Making a Speedrun Timer: Chapter 3](https://dev.to/kevthedev/making-a-speedrun-timer-chapter-3-f8k)
 - [Dev.to/JS] [The Beginner&#39;s Guide to APIs: Simplifying the Complex World of API Technology](https://dev.to/titre123/the-beginners-guide-to-apis-simplifying-the-complex-world-of-api-technology-1m6k)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [21 Programming Memes Refresh Your Mind](https://dev.to/jon_snow789/21-programming-memes-refresh-your-mind-1fa0)
 - [Dev.to/JS] [Try our new AI on Discord!](https://dev.to/heexy/try-our-new-ai-on-discord-2a25)
 - [Lifehacker] [Why Your Vacuum Smells Bad &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-your-vacuum-smells-bad-and-how-to-fix-it-1850315877)
-- [Dev.to/JS] [What is Artificial Intelligence and how does it work?](https://dev.to/newslekhak/what-is-artificial-intelligence-and-how-does-it-work-2k3f)
 - [Lifehacker] [How to Attract Bats to Your Yard &lpar;and Why You&#39;d Want To&rpar;](https://lifehacker.com/how-to-attract-bats-to-your-yard-and-why-youd-want-to-1850315881)
 - [Lifehacker] [Unexpected Ways You Can Use Orange Peels In Your Kitchen](https://lifehacker.com/unexpected-ways-you-can-use-orange-peels-in-your-kitche-1850315885)
 - [Lifehacker] [Never Store These Items on a Windowsill](https://lifehacker.com/never-store-these-items-on-a-windowsill-1850314993)
