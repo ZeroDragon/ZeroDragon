@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unraveling the Magic Behind React 18: A Comprehensive Guide🚀](https://dev.to/ranaharoon3222/unraveling-the-magic-behind-react-18-a-comprehensive-guide-3pp3)
 - [Dev.to/JS] [Building a Basic Neural Network with Brain.js](https://dev.to/koushikmaratha/building-a-basic-neural-network-with-brainjs-2o7d)
 - [Dev.to/JS] [Difference Between Undeclared &amp; Undefined Variables?](https://dev.to/rpjayadev/difference-between-undeclared-undefined-variables-54n6)
 - [Dev.to/JS] [Hoisting in JavaScript: Understanding the Inner Workings](https://dev.to/koushikmaratha/hoisting-in-javascript-understanding-the-inner-workings-2ej9)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A wrap on project 2](https://dev.to/msanyal7/a-wrap-on-project-2-19mi)
 - [Dev.to/JS] [Use x-crawl to help you fetch data](https://dev.to/coderhxl/use-x-crawl-to-help-you-fetch-data-550i)
 - [Dev.to/JS] [CREATING A SIMPLE TO-DO LIST &lpar;USING HTML,CSS AND JAVASCRIPT&rpar;](https://dev.to/maame_afia/creating-a-simple-to-do-list-using-htmlcss-and-javascript-2klc)
-- [Dev.to/JS] [A Beginner&#39;s Guide to JavaScript&#39;s Single Thread and Event Loop](https://dev.to/fernandakipper/a-beginners-guide-to-javascripts-single-thread-and-event-loop-1a9h)
 - [Lifehacker] [Why Your Vacuum Smells Bad &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-your-vacuum-smells-bad-and-how-to-fix-it-1850315877)
 - [Lifehacker] [How to Attract Bats to Your Yard &lpar;and Why You&#39;d Want To&rpar;](https://lifehacker.com/how-to-attract-bats-to-your-yard-and-why-youd-want-to-1850315881)
 - [Lifehacker] [Unexpected Ways You Can Use Orange Peels In Your Kitchen](https://lifehacker.com/unexpected-ways-you-can-use-orange-peels-in-your-kitche-1850315885)
