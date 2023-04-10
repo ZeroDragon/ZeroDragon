@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building my first VS Code Extension](https://dev.to/bladearya/building-my-first-vs-code-extension-1h7d)
+- [Dev.to/JS] [Generating Sitemaps for SvelteKit Apps on Cloudflare Pages](https://dev.to/mellenio/generating-sitemaps-for-sveltekit-apps-on-cloudflare-pages-1216)
+- [Dev.to/JS] [User Permissions and the Principle of Least Privilege on API Endpoints using Firebase Part 2.](https://dev.to/callezenwaka/user-permissions-and-the-principle-of-least-privilege-on-api-endpoints-using-firebase-part-2-29hn)
+- [Dev.to/JS] [Building Pagination in React with React Paginate](https://dev.to/documatic/building-pagination-in-react-with-react-paginate-4nol)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, Apr 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-apr-2023-70d)
 - [Dev.to/JS] [Mastering Dates in JavaScript: Effortlessly Run Date Manipulations with Latenode.com](https://dev.to/latenode/mastering-dates-in-javascript-effortlessly-run-date-manipulations-with-latenodecom-2f83)
 - [Dev.to/JS] [OOP in TypeScript](https://dev.to/cliff123tech/oop-typescript-jk4)
 - [Dev.to/JS] [User Permissions and the Principle of Least Privilege on API Endpoints using Firebase Part 1.](https://dev.to/callezenwaka/user-permissions-and-the-principle-of-least-privilege-on-api-endpoints-using-firebase-part-1-16if)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Integrate Barcode Reading Functionality into .NET Applications](https://dev.to/iamparkereric/how-to-integrate-barcode-reading-functionality-into-net-applications-498a)
 - [Dev.to/JS] [16 awesome frontend projects you need to build now](https://dev.to/xplodivity/16-awesome-frontend-projects-you-need-to-build-now-44f5)
 - [Dev.to/JS] [Create Multilingual Websites with Ease Part1: A Step-by-Step Guide to Next.js and i18next Integration!](https://dev.to/codewithonye/create-multilingual-websites-with-ease-part1-a-step-by-step-guide-to-nextjs-and-i18next-integration-34g9)
-- [Dev.to/JS] [Building Composable Commerce with Nuxt, Shopify, and Storyblok Crash Course Part Four](https://dev.to/jacobandrewsky/building-composable-commerce-with-nuxt-shopify-and-storyblok-crash-course-part-four-5edn)
-- [Dev.to/JS] [Unlocking the True Power of Const with ValueScript](https://dev.to/voltrevo/unlocking-the-true-power-of-const-with-valuescript-34mn)
-- [Dev.to/JS] [JavaScript EP5: Prototypal Inheritance🤰🏻👨‍👩‍👧‍👦](https://dev.to/phatsss/javascript-ep5-prototypal-inheritance-g67)
-- [Dev.to/JS] [Callbacks — Understanding JavaScript API Requests and Responses in the Data Fetching lifecycle](https://dev.to/rodcast/callbacks-understanding-javascript-api-requests-and-responses-in-the-data-fetching-lifecycle-41b9)
-- [Dev.to/JS] [A Comprehensive Guide to Writing Your First GraphQL Query](https://dev.to/onlyoneerin/a-comprehensive-guide-to-writing-your-first-graphql-query-21f4)
 - [Lifehacker] [Why Your Vacuum Smells Bad &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-your-vacuum-smells-bad-and-how-to-fix-it-1850315877)
 - [Lifehacker] [How to Attract Bats to Your Yard &lpar;and Why You&#39;d Want To&rpar;](https://lifehacker.com/how-to-attract-bats-to-your-yard-and-why-youd-want-to-1850315881)
 - [Lifehacker] [Unexpected Ways You Can Use Orange Peels In Your Kitchen](https://lifehacker.com/unexpected-ways-you-can-use-orange-peels-in-your-kitche-1850315885)
