@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Ways Your Bank Will Try to Rip You Off](https://lifehacker.com/all-the-ways-your-bank-will-try-to-rip-you-off-1850312694)
+- [Dev.to/JS] [Native HTML5 Input Validation: Build Better Forms](https://dev.to/pujux/native-html5-input-validation-build-better-forms-3363)
+- [Dev.to/JS] [Programação funcional e a imutabilidade: 4 maneiras de clonar objetos no JavaScript](https://dev.to/laisfrigerio/programacao-funcional-e-a-imutabilidade-4-maneiras-de-clonar-objetos-no-javascript-1h8l)
+- [Lifehacker] [You Should Be Browsing the Web in Split-Screen](https://lifehacker.com/you-should-be-browsing-the-web-in-split-screen-1850311393)
+- [Dev.to/JS] [React Clean Code with Absolute Imports](https://dev.to/tasawarhussain/react-clean-code-with-absolute-imports-1028)
+- [Dev.to/JS] [Introduction to Object-Oriented Programming &lpar;OOP&rpar;](https://dev.to/igmrrf/introduction-to-object-oriented-programming-oop-357o)
 - [Dev.to/JS] [Building my first VS Code Extension](https://dev.to/bladearya/building-my-first-vs-code-extension-1h7d)
 - [Dev.to/JS] [Generating Sitemaps for SvelteKit Apps on Cloudflare Pages](https://dev.to/mellenio/generating-sitemaps-for-sveltekit-apps-on-cloudflare-pages-1216)
 - [Dev.to/JS] [User Permissions and the Principle of Least Privilege on API Endpoints using Firebase Part 2.](https://dev.to/callezenwaka/user-permissions-and-the-principle-of-least-privilege-on-api-endpoints-using-firebase-part-2-29hn)
 - [Dev.to/JS] [Building Pagination in React with React Paginate](https://dev.to/documatic/building-pagination-in-react-with-react-paginate-4nol)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, Apr 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-apr-2023-70d)
 - [Dev.to/JS] [Mastering Dates in JavaScript: Effortlessly Run Date Manipulations with Latenode.com](https://dev.to/latenode/mastering-dates-in-javascript-effortlessly-run-date-manipulations-with-latenodecom-2f83)
-- [Dev.to/JS] [OOP in TypeScript](https://dev.to/cliff123tech/oop-typescript-jk4)
+- [Dev.to/JS] [Object Oriented Programming with Typescript](https://dev.to/cliff123tech/oop-typescript-jk4)
 - [Dev.to/JS] [User Permissions and the Principle of Least Privilege on API Endpoints using Firebase Part 1.](https://dev.to/callezenwaka/user-permissions-and-the-principle-of-least-privilege-on-api-endpoints-using-firebase-part-1-16if)
-- [Dev.to/JS] [Auto Writing Effect](https://dev.to/vasanths/auto-writing-effect-g9o)
-- [Dev.to/JS] [How to Integrate Barcode Reading Functionality into .NET Applications](https://dev.to/iamparkereric/how-to-integrate-barcode-reading-functionality-into-net-applications-498a)
-- [Dev.to/JS] [16 awesome frontend projects you need to build now](https://dev.to/xplodivity/16-awesome-frontend-projects-you-need-to-build-now-44f5)
-- [Dev.to/JS] [Create Multilingual Websites with Ease Part1: A Step-by-Step Guide to Next.js and i18next Integration!](https://dev.to/codewithonye/create-multilingual-websites-with-ease-part1-a-step-by-step-guide-to-nextjs-and-i18next-integration-34g9)
 - [Lifehacker] [Why Your Vacuum Smells Bad &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-your-vacuum-smells-bad-and-how-to-fix-it-1850315877)
 - [Lifehacker] [How to Attract Bats to Your Yard &lpar;and Why You&#39;d Want To&rpar;](https://lifehacker.com/how-to-attract-bats-to-your-yard-and-why-youd-want-to-1850315881)
 - [Lifehacker] [Unexpected Ways You Can Use Orange Peels In Your Kitchen](https://lifehacker.com/unexpected-ways-you-can-use-orange-peels-in-your-kitche-1850315885)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There&#39;s Finally An AirDrop for Windows and Android Users](https://lifehacker.com/theres-finally-an-airdrop-for-windows-and-android-users-1850306548)
 - [Lifehacker] [How a Custodial Brokerage Account Can Help You Invest for Your Kids&#39; Future Now](https://lifehacker.com/how-to-start-investing-for-your-kids-future-now-1850309774)
 - [Lifehacker] [How to Clean Tree Sap From Your Clothes &lpar;and Everything Else&rpar;](https://lifehacker.com/how-to-clean-tree-sap-from-your-clothes-and-everything-1850304507)
-- [Lifehacker] [How to Make Your Own ‘Barbie’ Movie Poster Meme](https://lifehacker.com/how-to-make-your-own-barbie-movie-poster-meme-1850307581)
-- [Lifehacker] [The Better Way to Use Your Wearable’s ‘Readiness’ Data](https://lifehacker.com/the-better-way-to-use-your-wearable-s-readiness-data-1850304587)
-- [Lifehacker] [Why You Should Never Buy Your Child a Blue Swimsuit](https://lifehacker.com/why-you-should-never-buy-your-child-a-blue-swimsuit-1850305524)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make Your Own ‘Barbie’ Movie Poster Meme](https://lifehacker.com/how-to-make-your-own-barbie-movie-poster-meme-1850307581)<!-- TECH-POSTS:END -->
 
 ---
 
