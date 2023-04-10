@@ -23,9 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [OpenAI’s &#39;Pay As You Go&#39; Is the Best Way to Use ChatGPT](https://lifehacker.com/openai-s-pay-as-you-go-is-the-best-way-to-use-chatgpt-1850318349)
+- [Lifehacker] [How to Spot a Gross Motor Delay in Your Child](https://lifehacker.com/how-to-spot-a-gross-motor-delay-in-your-child-1850313484)
+- [Lifehacker] [How to Get Reimbursed for COVID Tests Before Insurance Stops Paying](https://lifehacker.com/how-to-get-reimbursed-for-covid-tests-before-insurance-1850314482)
 - [Dev.to/JS] [Shipping Labels.](https://dev.to/sasuke002a/shipping-labels-1in6)
 - [Dev.to/JS] [Maximize your learning and productivity with this Chrome extension](https://dev.to/jgamaraalv/maximize-your-learning-and-productivity-with-this-chrome-extension-nhj)
 - [Lifehacker] [Get a Free Sonic Cheeseburger When You Buy Anything. Even a Cup of Ice](https://lifehacker.com/get-a-free-sonic-cheeseburger-when-you-buy-anything-ev-1850313703)
+- [Dev.to/JS] [I Created a Responsive Portfolio Website Using HTML, CSS and GSAP](https://dev.to/chaoocharles/i-created-a-responsive-portfolio-website-using-html-css-and-gsap-238l)
 - [Lifehacker] [Don&#39;t Baby Your Eggs, Coddle Them](https://lifehacker.com/dont-baby-your-eggs-coddle-them-1850314208)
 - [Dev.to/JS] [GPTAgent.js: Build your own AI Agents with TypeScript and JavaScript!](https://dev.to/lgrammel/gptagentjs-build-your-own-ai-agents-with-typescript-and-javascript-448f)
 - [Dev.to/JS] [Using context in React to solve some issues](https://dev.to/ist4/using-context-in-react-to-solve-some-issues-o96)
@@ -39,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Clean Code with Absolute Imports](https://dev.to/tasawarhussain/react-clean-code-with-absolute-imports-1028)
 - [Dev.to/JS] [Introduction to Object-Oriented Programming &lpar;OOP&rpar;](https://dev.to/igmrrf/introduction-to-object-oriented-programming-oop-357o)
 - [Dev.to/JS] [Building my first VS Code Extension](https://dev.to/bladearya/building-my-first-vs-code-extension-1h7d)
-- [Dev.to/JS] [Generating Sitemaps for SvelteKit Apps on Cloudflare Pages](https://dev.to/mellenio/generating-sitemaps-for-sveltekit-apps-on-cloudflare-pages-1216)
 - [Lifehacker] [Why Your Vacuum Smells Bad &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-your-vacuum-smells-bad-and-how-to-fix-it-1850315877)
 - [Lifehacker] [How to Attract Bats to Your Yard &lpar;and Why You&#39;d Want To&rpar;](https://lifehacker.com/how-to-attract-bats-to-your-yard-and-why-youd-want-to-1850315881)
 - [Lifehacker] [Unexpected Ways You Can Use Orange Peels In Your Kitchen](https://lifehacker.com/unexpected-ways-you-can-use-orange-peels-in-your-kitche-1850315885)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [TikTok Diet Culture Is Ruining Cottage Cheese](https://lifehacker.com/tiktok-diet-culture-is-ruining-cottage-cheese-1850308811)
 - [Lifehacker] [Donate Blood to Get This Cool Snoopy Shirt](https://lifehacker.com/donate-blood-to-get-this-cool-snoopy-shirt-1850309648)
 - [Lifehacker] [The Best Stim-Free Preworkout Supplement Is Eating a Damn Snack](https://lifehacker.com/the-best-stim-free-preworkout-supplement-is-eating-a-da-1850308539)
-- [Lifehacker] [You Can Remove That Stupid Doge Icon From Your Twitter Feed](https://lifehacker.com/you-can-remove-that-stupid-doge-icon-from-your-twitter-1850308507)
-- [Lifehacker] [McDonald’s Chicken Nuggets Are Basically Free If You Have Apple Pay](https://lifehacker.com/mcdonald-s-chicken-nuggets-are-basically-free-if-you-ha-1850308128)
-- [Lifehacker] [Get a Dairy Queen Blizzard for Less Than a Buck](https://lifehacker.com/get-a-dairy-queen-blizzard-for-less-than-a-buck-1850305132)
-- [Lifehacker] [There&#39;s Finally An AirDrop for Windows and Android Users](https://lifehacker.com/theres-finally-an-airdrop-for-windows-and-android-users-1850306548)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Remove That Stupid Doge Icon From Your Twitter Feed](https://lifehacker.com/you-can-remove-that-stupid-doge-icon-from-your-twitter-1850308507)<!-- TECH-POSTS:END -->
 
 ---
 
