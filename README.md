@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My First JavaScript Practice: Building a Drum Kit](https://dev.to/adremy/my-first-javascript-practice-building-a-drum-kit-2kk5)
+- [Dev.to/JS] [SASS with React.JS](https://dev.to/kiransm/sass-with-reactjs-2d62)
+- [Dev.to/JS] [CSS in React.JS](https://dev.to/kiransm/css-in-reactjs-1beo)
+- [Dev.to/JS] [Step-by-Step Guide to Build an Auction Website with WordPress](https://dev.to/hirendhaduk_/step-by-step-guide-to-build-an-auction-website-with-wordpress-gjg)
 - [Dev.to/JS] [Understanding ID Token vs. Access Token in AWS Amplify](https://dev.to/zirkelc/understanding-id-token-vs-access-token-in-aws-amplify-2oen)
 - [Dev.to/JS] [The Sliding Window Technique: A Powerful Algorithm for JavaScript Developers](https://dev.to/sanukhandev/the-sliding-window-technique-a-powerful-algorithm-for-javascript-developers-3nfm)
 - [Dev.to/JS] [5 More JavaScript Performance Gotchas](https://dev.to/andreasbergstrom/5-more-javascript-performance-gotchas-4k5g)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Asynchronous Programming in JavaScript: The Basics](https://dev.to/haastrupea/asynchronous-programming-in-javascript-the-basics-4b0)
 - [Dev.to/JS] [How to harness the power of LinkedIn to land your first role as a newbie in tech.](https://dev.to/chidiebereomasi/how-to-harness-the-power-of-linkedin-to-land-your-first-role-as-a-newbie-in-tech-3k1c)
 - [Dev.to/JS] [This open-source package has changed the way web devs think about high scale](https://dev.to/odedshimoni/this-open-source-package-easily-and-automatically-retries-your-actions-and-even-reverts-whole-groups-if-even-one-failed-f91)
-- [Dev.to/JS] [The Revealing Module Pattern](https://dev.to/nickap/the-revealing-module-pattern-586d)
-- [Dev.to/JS] [Cortexi - Price, Benefits, Ingredients, Uses &amp; Side Effects?](https://dev.to/cortexib44333/cortexi-price-benefits-ingredients-uses-side-effects-3j87)
-- [Dev.to/JS] [JavaScript Performance Gotchas: Avoid scaling issues through under-the-hood knowledge](https://dev.to/andreasbergstrom/javascript-performance-gotchas-avoid-doing-this-cgm)
-- [Dev.to/JS] [Customizing Vizzu Charts - GIF export using gif.js](https://dev.to/simzer/customizing-vizzu-charts-gif-export-using-gifjs-21e5)
 - [Lifehacker] [Three Creative Ways to Paint Your Boring Room](https://lifehacker.com/three-creative-ways-to-paint-your-boring-room-1850313019)
 - [Lifehacker] [Your iPhone Is Still Vulnerable When It Is Locked](https://lifehacker.com/your-iphone-is-still-vulnerable-when-it-is-locked-1850318663)
 - [Lifehacker] [Over Half a Million of These Hondas Are Being Recalled](https://lifehacker.com/over-half-a-million-of-these-hondas-are-being-recalled-1850314065)
