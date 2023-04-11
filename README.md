@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get a Free McDonald’s Big Mac Right Now](https://lifehacker.com/you-can-get-a-free-mcdonald-s-big-mac-right-now-1850319970)
+- [Dev.to/JS] [Mind Your Metrics: How to use Telemetry to Make Your Chatbot More Effective in Azure HealthBot](https://dev.to/gerelltroche/mind-your-metrics-how-to-use-telemetry-to-make-your-chatbot-more-effective-in-azure-healthbot-46nb)
+- [Dev.to/JS] [React Native WebView: Make Android pullToRefresh work without any glitches](https://dev.to/muskanparashar/react-native-webview-make-android-pulltorefresh-work-without-any-glitches-467)
 - [Lifehacker] [Keep a Melted Butter Jar Near Your Stove](https://lifehacker.com/keep-a-melted-butter-jar-near-your-stove-1850320132)
 - [Dev.to/JS] [You DON&#39;T know Reactjs - Part I](https://dev.to/jgamaraalv/you-dont-know-reactjs-part-i-342p)
 - [Dev.to/JS] [The right ways to accept optional parameters in JavaScript.](https://dev.to/wbojczuk/the-right-ways-to-accept-optional-parameters-in-javascript-3bg)
@@ -37,11 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adeus, Axios! Descubra como esse novo código pode substituir completamente a biblioteca de requisições HTTP mais popular.](https://dev.to/demgoncalves/adeus-axios-descubra-como-esse-novo-codigo-pode-substituir-completamente-a-biblioteca-de-requisicoes-http-mais-popular-41p1)
 - [Dev.to/JS] [Introducing the CV Schema Proposal: A More Streamlined Approach to Applicant Information](https://dev.to/saulodias/introducing-the-cv-schema-proposal-a-more-streamlined-approach-to-applicant-information-4ncg)
 - [Lifehacker] [Products From Targeted Ads Might Be Worse Than You Think](https://lifehacker.com/products-from-targeted-ads-might-be-worse-than-you-thin-1850313265)
-- [Dev.to/JS] [NestJS Boilerplates Comparison](https://dev.to/rodik/nestjs-boilerplates-comparison-7fj)
+- [Dev.to/JS] [How to encrypt a text using Python &lpar;key and text&rpar; and decrypt that cipher in JavaScript using the same key.](https://dev.to/guardianangel/how-to-encrypt-a-text-using-python-key-and-text-and-decrypt-that-cipher-in-javascript-using-the-same-key-5dbm)
 - [Lifehacker] [Five Things That Could Save Your Life If You&#39;re Immunocompromised](https://lifehacker.com/five-things-that-could-save-your-life-if-youre-immunoco-1850315127)
-- [Dev.to/JS] [Top 4 JavaScript Notification Libraries](https://dev.to/trinhcamminh/top-4-javascript-notification-libraries-487)
 - [Lifehacker] [Your Twitter Circle Isn’t Actually Private Right Now](https://lifehacker.com/your-twitter-circle-isn-t-actually-private-right-now-1850320575)
-- [Dev.to/JS] [Pop-Up](https://dev.to/sena_ozcn/pop-up-2dl6)
 - [Lifehacker] [Wrap Your Mozzarella Sticks in a Blanket of Crispy Cheese](https://lifehacker.com/wrap-your-mozzarella-sticks-in-a-blanket-of-crispy-chee-1850320920)
 - [Lifehacker] [Three Creative Ways to Paint Your Boring Room](https://lifehacker.com/three-creative-ways-to-paint-your-boring-room-1850313019)
 - [Lifehacker] [Your iPhone Is Still Vulnerable When It Is Locked](https://lifehacker.com/your-iphone-is-still-vulnerable-when-it-is-locked-1850318663)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Never Store These Items on a Windowsill](https://lifehacker.com/never-store-these-items-on-a-windowsill-1850314993)
 - [Lifehacker] [How to Make a Pocket Garden](https://lifehacker.com/how-to-make-a-pocket-garden-1850314990)
 - [Lifehacker] [The Best Easter Food Deals and Freebies](https://lifehacker.com/the-best-easter-food-deals-and-freebies-1850305940)
-- [Lifehacker] [Take Easter Eggs to the Fiery Depths of Hell With Chili and Garlic](https://lifehacker.com/take-easter-eggs-to-the-fiery-depths-of-hell-with-chili-1850313422)
-- [Lifehacker] [The Right Way to Use &#39;Honor Among Thieves&#39; Characters in Your Next D&amp;D Campaign](https://lifehacker.com/the-right-way-to-use-honor-among-thieves-characters-in-1850313225)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Take Easter Eggs to the Fiery Depths of Hell With Chili and Garlic](https://lifehacker.com/take-easter-eggs-to-the-fiery-depths-of-hell-with-chili-1850313422)<!-- TECH-POSTS:END -->
 
 ---
 
