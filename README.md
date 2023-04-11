@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using &#39;Faker&#39; to Generate Fake Data](https://dev.to/dfarlz97/using-faker-to-generate-fake-data-39in)
+- [Dev.to/JS] [How to integrate Google Calendar events using Google OAuth2](https://dev.to/juancmandev/how-to-integrate-google-calendar-events-using-google-oauth2-51b9)
 - [Dev.to/JS] [Micro Frontends using React, Module Federation, Webpack 5](https://dev.to/sandeepchintala/micro-frontends-using-react-module-federation-webpack-5-jio)
 - [Dev.to/JS] [Vue.js for Beginners #2](https://dev.to/ericnanhu/vuejs-for-beginners-2-766)
 - [Dev.to/JS] [Criando um algoritmo de pesquisa em largura em grafos](https://dev.to/antiduhring/criando-um-algoritmo-de-pesquisa-em-largura-em-grafos-3af3)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Event Handling.](https://dev.to/taahahussainkhan/react-event-handling-2d0g)
 - [Lifehacker] [Don&#39;t Use a Wire Brush to Clean Your Grill &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-a-wire-brush-to-clean-your-grill-do-this-inst-1850320096)
 - [Lifehacker] [You Can Get a Free McDonald’s Big Mac Right Now](https://lifehacker.com/you-can-get-a-free-mcdonald-s-big-mac-right-now-1850319970)
-- [Dev.to/JS] [Mind Your Metrics: How to use Telemetry to Make Your Chatbot More Effective in Azure HealthBot](https://dev.to/gerelltroche/mind-your-metrics-how-to-use-telemetry-to-make-your-chatbot-more-effective-in-azure-healthbot-46nb)
-- [Dev.to/JS] [React Native WebView: Make Android pullToRefresh work without any glitches](https://dev.to/muskanparashar/react-native-webview-make-android-pulltorefresh-work-without-any-glitches-467)
 - [Lifehacker] [Keep a Melted Butter Jar Near Your Stove](https://lifehacker.com/keep-a-melted-butter-jar-near-your-stove-1850320132)
 - [Lifehacker] [Now You Can Talk to ChatGPT With Your Voice](https://lifehacker.com/now-you-can-talk-to-chatgpt-with-your-voice-1850319026)
 - [Lifehacker] [Gamify Your Savings Goals With Sticky Notes](https://lifehacker.com/gamify-your-savings-goals-with-sticky-notes-1850319878)
