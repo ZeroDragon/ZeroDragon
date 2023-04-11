@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Micro Frontends using React, Module Federation, Webpack 5](https://dev.to/sandeepchintala/micro-frontends-using-react-module-federation-webpack-5-jio)
 - [Dev.to/JS] [Vue.js for Beginners #2](https://dev.to/ericnanhu/vuejs-for-beginners-2-766)
 - [Dev.to/JS] [Criando um algoritmo de pesquisa em largura em grafos](https://dev.to/antiduhring/criando-um-algoritmo-de-pesquisa-em-largura-em-grafos-3af3)
 - [Dev.to/JS] [Vue.js for Beginners #1](https://dev.to/ericnanhu/vuejs-for-beginners-1-4ilc)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mind Your Metrics: How to use Telemetry to Make Your Chatbot More Effective in Azure HealthBot](https://dev.to/gerelltroche/mind-your-metrics-how-to-use-telemetry-to-make-your-chatbot-more-effective-in-azure-healthbot-46nb)
 - [Dev.to/JS] [React Native WebView: Make Android pullToRefresh work without any glitches](https://dev.to/muskanparashar/react-native-webview-make-android-pulltorefresh-work-without-any-glitches-467)
 - [Lifehacker] [Keep a Melted Butter Jar Near Your Stove](https://lifehacker.com/keep-a-melted-butter-jar-near-your-stove-1850320132)
-- [Dev.to/JS] [You DON&#39;T know Reactjs - Part I](https://dev.to/jgamaraalv/you-dont-know-reactjs-part-i-342p)
 - [Lifehacker] [Now You Can Talk to ChatGPT With Your Voice](https://lifehacker.com/now-you-can-talk-to-chatgpt-with-your-voice-1850319026)
 - [Lifehacker] [Gamify Your Savings Goals With Sticky Notes](https://lifehacker.com/gamify-your-savings-goals-with-sticky-notes-1850319878)
 - [Lifehacker] [Here&#39;s When You Should Pay Your Taxes With a Credit Card](https://lifehacker.com/heres-when-you-should-pay-your-taxes-with-a-credit-card-1850319198)
