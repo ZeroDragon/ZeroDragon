@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Twitter Circle Isn’t Actually Private Right Now](https://lifehacker.com/your-twitter-circle-isn-t-actually-private-right-now-1850320575)
+- [Dev.to/JS] [Pop-Up](https://dev.to/sena_ozcn/pop-up-2dl6)
+- [Dev.to/JS] [Immutability vs. Mutability in JavaScript: Performance Trade-offs and the Role of JIT](https://dev.to/andreasbergstrom/immutability-vs-mutability-in-javascript-performance-trade-offs-and-the-role-of-jit-m4e)
+- [Lifehacker] [Wrap Your Mozzarella Sticks in a Blanket of Crispy Cheese](https://lifehacker.com/wrap-your-mozzarella-sticks-in-a-blanket-of-crispy-chee-1850320920)
 - [Dev.to/JS] [My First JavaScript Practice: Building a Drum Kit](https://dev.to/adremy/my-first-javascript-practice-building-a-drum-kit-2kk5)
 - [Dev.to/JS] [SASS with React.JS](https://dev.to/kiransm/sass-with-reactjs-2d62)
 - [Dev.to/JS] [CSS in React.JS](https://dev.to/kiransm/css-in-reactjs-1beo)
@@ -33,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlock The Power Of Creative Writing With Google Bard](https://dev.to/infowindtechno/unlock-the-power-of-creative-writing-with-google-bard-bmb)
 - [Dev.to/JS] [Extending the JavaScript Map](https://dev.to/retraigo/extending-the-javascript-map-ae3)
 - [Dev.to/JS] [Asynchronous Programming in JavaScript: The Basics](https://dev.to/haastrupea/asynchronous-programming-in-javascript-the-basics-4b0)
-- [Dev.to/JS] [How to harness the power of LinkedIn to land your first role as a newbie in tech.](https://dev.to/chidiebereomasi/how-to-harness-the-power-of-linkedin-to-land-your-first-role-as-a-newbie-in-tech-3k1c)
-- [Dev.to/JS] [This open-source package has changed the way web devs think about high scale](https://dev.to/odedshimoni/this-open-source-package-easily-and-automatically-retries-your-actions-and-even-reverts-whole-groups-if-even-one-failed-f91)
 - [Lifehacker] [Three Creative Ways to Paint Your Boring Room](https://lifehacker.com/three-creative-ways-to-paint-your-boring-room-1850313019)
 - [Lifehacker] [Your iPhone Is Still Vulnerable When It Is Locked](https://lifehacker.com/your-iphone-is-still-vulnerable-when-it-is-locked-1850318663)
 - [Lifehacker] [Over Half a Million of These Hondas Are Being Recalled](https://lifehacker.com/over-half-a-million-of-these-hondas-are-being-recalled-1850314065)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Download Turbo C++ for Mac 2023](https://www.thecrazyprogrammer.com/2023/04/turbo-c-for-mac.html)
 - [Lifehacker] [You Can Use AI to Summarize YouTube Videos and Boring Emails](https://lifehacker.com/you-can-actually-use-ai-to-summarize-youtube-videos-and-1850311347)
 - [Lifehacker] [Four Clever Ways to Reuse an Old Garden Hose](https://lifehacker.com/four-clever-ways-to-reuse-an-old-garden-hose-1850312495)
-- [Lifehacker] [Take These Steps to Protect Your Data After a Cyberattack](https://lifehacker.com/take-these-steps-to-protect-your-data-after-a-cyberatta-1850304604)
-- [Lifehacker] [What &#39;Genuine Leather&#39; Really Means](https://lifehacker.com/what-genuine-leather-really-means-1850309049)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is the Mario Movie Actually...Good?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-the-ma-1850309148)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Take These Steps to Protect Your Data After a Cyberattack](https://lifehacker.com/take-these-steps-to-protect-your-data-after-a-cyberatta-1850304604)<!-- TECH-POSTS:END -->
 
 ---
 
