@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#day 1 react create react app](https://dev.to/mohitshrivas/day-1-react-create-react-app-1i22)
 - [Dev.to/JS] [Beginning My Coding Journey](https://dev.to/jmedel1/beginning-my-coding-journey-3ja)
 - [Dev.to/JS] [Eventful Learning: Discovering the Power of Event Listeners in JavaScript](https://dev.to/natashabartley/eventful-learning-discovering-the-power-of-event-listeners-in-javascript-223k)
 - [Dev.to/JS] [Code Smell 206 - Long Ternaries](https://dev.to/mcsee/code-smell-206-long-ternaries-2fk)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlocking the Power of Closures in Rust: Closures in rust are different and powerful](https://dev.to/doziestar/unlocking-the-power-of-closures-in-rust-closures-in-rust-are-different-and-powerful-55bk)
 - [Dev.to/JS] [Creating a Social Network for Bakers with the use of Generative Artificial Intelligence as an Assistant. part 1](https://dev.to/narradorww/creating-a-social-network-for-bakers-with-the-use-of-generative-artificial-intelligence-as-an-assistant-part-1-5ec5)
 - [Dev.to/JS] [USA Sales Tax CLI App in Node.js and Sqlite](https://dev.to/bekbrace/usa-sales-tax-cli-app-in-nodejs-and-sqlite-2963)
-- [Dev.to/JS] [This is the best way to compress images on a website.](https://dev.to/wbojczuk/this-is-the-best-way-to-compress-images-on-a-website-4nik)
 - [Lifehacker] [Three Creative Ways to Paint Your Boring Room](https://lifehacker.com/three-creative-ways-to-paint-your-boring-room-1850313019)
 - [Lifehacker] [Your iPhone Is Still Vulnerable When It Is Locked](https://lifehacker.com/your-iphone-is-still-vulnerable-when-it-is-locked-1850318663)
 - [Lifehacker] [Over Half a Million of These Hondas Are Being Recalled](https://lifehacker.com/over-half-a-million-of-these-hondas-are-being-recalled-1850314065)
