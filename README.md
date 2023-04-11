@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Importance of Responsive Design and How to Achieve it with Uikit](https://dev.to/azmideliaslan/the-importance-of-responsive-design-and-how-to-achieve-it-with-uikit-2ng3)
+- [Dev.to/JS] [Utilize a desestruturação &lpar;destructuring&rpar; para extrair valores de objetos e arrays de forma mais concisa e legível.](https://dev.to/eliasgabriel1/utilize-a-desestruturacao-destructuring-para-extrair-valores-de-objetos-e-arrays-de-forma-mais-concisa-e-legivel-25ai)
 - [Lifehacker] [Here&#39;s What Happens When Everyone Panics and Pulls Money Out of Banks](https://lifehacker.com/heres-what-happens-when-everyone-panics-and-pulls-money-1850323040)
 - [Lifehacker] [You Should Absolutely Make This Spam and Tater Tot Casserole](https://lifehacker.com/you-should-absolutely-make-this-spam-and-tater-tot-cass-1850321231)
 - [Dev.to/JS] [☞ Should we use Global State?](https://dev.to/saxenanickk/should-we-use-global-state-177d)
@@ -40,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [12 helpful websites that will save you 100s of hours &amp; change your life](https://dev.to/jon_snow789/12-helpful-websites-that-will-save-you-100s-of-hours-change-your-life-64o)
 - [Dev.to/JS] [How to Build a Chrome Extension using React and Tailwindcss](https://dev.to/ibukunfolay/how-to-build-a-chrome-extension-using-react-and-tailwindcss-55pa)
 - [Lifehacker] [Now You Can Talk to ChatGPT With Your Voice](https://lifehacker.com/now-you-can-talk-to-chatgpt-with-your-voice-1850319026)
-- [Dev.to/JS] [🦖3 minutes to create a game using JavaScript](https://dev.to/hieule/3-minutes-to-create-a-game-using-javascript-1jgn)
 - [Lifehacker] [Gamify Your Savings Goals With Sticky Notes](https://lifehacker.com/gamify-your-savings-goals-with-sticky-notes-1850319878)
-- [Dev.to/JS] [Unlock the Power of Static Sites with Next.js: A Guide to Static Site Generation](https://dev.to/hi_iam_chris/unlock-the-power-of-static-sites-with-nextjs-a-guide-to-static-site-generation-4c5j)
 - [Lifehacker] [Here&#39;s When You Should Pay Your Taxes With a Credit Card](https://lifehacker.com/heres-when-you-should-pay-your-taxes-with-a-credit-card-1850319198)
 - [Lifehacker] [Products From Targeted Ads Might Be Worse Than You Think](https://lifehacker.com/products-from-targeted-ads-might-be-worse-than-you-thin-1850313265)
 - [Lifehacker] [Five Things That Could Save Your Life If You&#39;re Immunocompromised](https://lifehacker.com/five-things-that-could-save-your-life-if-youre-immunoco-1850315127)
