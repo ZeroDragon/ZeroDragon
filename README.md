@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Keep a Melted Butter Jar Near Your Stove](https://lifehacker.com/keep-a-melted-butter-jar-near-your-stove-1850320132)
+- [Dev.to/JS] [You DON&#39;T know Reactjs - Part I](https://dev.to/jgamaraalv/you-dont-know-reactjs-part-i-342p)
+- [Dev.to/JS] [The right ways to accept optional parameters in JavaScript.](https://dev.to/wbojczuk/the-right-ways-to-accept-optional-parameters-in-javascript-3bg)
+- [Dev.to/JS] [12 helpful websites that will save you 100s of hours &amp; change your life](https://dev.to/jon_snow789/12-helpful-websites-that-will-save-you-100s-of-hours-change-your-life-64o)
+- [Dev.to/JS] [How to Build a Chrome Extension using React and Tailwindcss](https://dev.to/ibukunfolay/how-to-build-a-chrome-extension-using-react-and-tailwindcss-55pa)
+- [Lifehacker] [Now You Can Talk to ChatGPT With Your Voice](https://lifehacker.com/now-you-can-talk-to-chatgpt-with-your-voice-1850319026)
+- [Dev.to/JS] [🦖3 minutes to create a game using JavaScript](https://dev.to/hieule/3-minutes-to-create-a-game-using-javascript-1jgn)
 - [Lifehacker] [Gamify Your Savings Goals With Sticky Notes](https://lifehacker.com/gamify-your-savings-goals-with-sticky-notes-1850319878)
 - [Dev.to/JS] [Unlock the Power of Static Sites with Next.js: A Guide to Static Site Generation](https://dev.to/hi_iam_chris/unlock-the-power-of-static-sites-with-nextjs-a-guide-to-static-site-generation-4c5j)
 - [Dev.to/JS] [TypeScript 5.0: new mode bundler &amp; ESM](https://dev.to/ayc0/typescript-50-new-mode-bundler-esm-1jic)
@@ -35,12 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 4 JavaScript Notification Libraries](https://dev.to/trinhcamminh/top-4-javascript-notification-libraries-487)
 - [Lifehacker] [Your Twitter Circle Isn’t Actually Private Right Now](https://lifehacker.com/your-twitter-circle-isn-t-actually-private-right-now-1850320575)
 - [Dev.to/JS] [Pop-Up](https://dev.to/sena_ozcn/pop-up-2dl6)
-- [Dev.to/JS] [Immutability vs. Mutability in JavaScript: Performance Trade-offs and the Role of JIT](https://dev.to/andreasbergstrom/immutability-vs-mutability-in-javascript-performance-trade-offs-and-the-role-of-jit-m4e)
 - [Lifehacker] [Wrap Your Mozzarella Sticks in a Blanket of Crispy Cheese](https://lifehacker.com/wrap-your-mozzarella-sticks-in-a-blanket-of-crispy-chee-1850320920)
-- [Dev.to/JS] [My First JavaScript Practice: Building a Drum Kit](https://dev.to/adremy/my-first-javascript-practice-building-a-drum-kit-2kk5)
-- [Dev.to/JS] [SASS with React.JS](https://dev.to/kiransm/sass-with-reactjs-2d62)
-- [Dev.to/JS] [CSS in React.JS](https://dev.to/kiransm/css-in-reactjs-1beo)
-- [Dev.to/JS] [Step-by-Step Guide to Build an Auction Website with WordPress](https://dev.to/hirendhaduk_/step-by-step-guide-to-build-an-auction-website-with-wordpress-gjg)
 - [Lifehacker] [Three Creative Ways to Paint Your Boring Room](https://lifehacker.com/three-creative-ways-to-paint-your-boring-room-1850313019)
 - [Lifehacker] [Your iPhone Is Still Vulnerable When It Is Locked](https://lifehacker.com/your-iphone-is-still-vulnerable-when-it-is-locked-1850318663)
 - [Lifehacker] [Over Half a Million of These Hondas Are Being Recalled](https://lifehacker.com/over-half-a-million-of-these-hondas-are-being-recalled-1850314065)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make a Pocket Garden](https://lifehacker.com/how-to-make-a-pocket-garden-1850314990)
 - [Lifehacker] [The Best Easter Food Deals and Freebies](https://lifehacker.com/the-best-easter-food-deals-and-freebies-1850305940)
 - [Lifehacker] [Take Easter Eggs to the Fiery Depths of Hell With Chili and Garlic](https://lifehacker.com/take-easter-eggs-to-the-fiery-depths-of-hell-with-chili-1850313422)
-- [Lifehacker] [The Right Way to Use &#39;Honor Among Thieves&#39; Characters in Your Next D&amp;D Campaign](https://lifehacker.com/the-right-way-to-use-honor-among-thieves-characters-in-1850313225)
-- [Lifehacker] [Three Unexpected Ways to Eat Leftover Easter Eggs](https://lifehacker.com/three-unexpected-ways-to-eat-leftover-easter-eggs-1850312627)
-- [Lifehacker] [This Flourless Coconut Cake Is Perfect for Snacking](https://lifehacker.com/this-flourless-coconut-cake-is-perfect-for-snacking-1850312613)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Right Way to Use &#39;Honor Among Thieves&#39; Characters in Your Next D&amp;D Campaign](https://lifehacker.com/the-right-way-to-use-honor-among-thieves-characters-in-1850313225)<!-- TECH-POSTS:END -->
 
 ---
 
