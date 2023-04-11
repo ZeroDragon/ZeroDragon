@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Eventful Learning: Discovering the Power of Event Listeners in JavaScript](https://dev.to/natashabartley/eventful-learning-discovering-the-power-of-event-listeners-in-javascript-223k)
+- [Dev.to/JS] [Code Smell 206 - Long Ternaries](https://dev.to/mcsee/code-smell-206-long-ternaries-2fk)
 - [Dev.to/JS] [Understanding the React Component Lifecycle!](https://dev.to/ezzahirtaha/understanding-the-react-component-lifecycle-2ohb)
 - [Dev.to/JS] [Where Shall We Have Lunch? - From Survival To Sophistication](https://dev.to/zenstack/where-shall-we-have-lunch-from-survival-to-sophistication-4nnf)
 - [Dev.to/JS] [How to refresh-token](https://dev.to/daniellimae/how-to-refresh-token-170n)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [USA Sales Tax CLI App in Node.js and Sqlite](https://dev.to/bekbrace/usa-sales-tax-cli-app-in-nodejs-and-sqlite-2963)
 - [Dev.to/JS] [This is the best way to compress images on a website.](https://dev.to/wbojczuk/this-is-the-best-way-to-compress-images-on-a-website-4nik)
 - [Dev.to/JS] [Unlocking Rust’s Power: A Deep Dive into Associated Functions &amp; Methods](https://dev.to/doziestar/unlocking-rusts-power-a-deep-dive-into-associated-functions-methods-5po)
-- [Dev.to/JS] [Escaping from Callback Hell](https://dev.to/vit0rr/escaping-from-callback-hell-3kjo)
-- [Dev.to/JS] [Final blog post for wrapping up badge query project](https://dev.to/platinumfish/final-blog-post-for-wrapping-up-badge-query-project-6pa)
 - [Lifehacker] [Three Creative Ways to Paint Your Boring Room](https://lifehacker.com/three-creative-ways-to-paint-your-boring-room-1850313019)
 - [Lifehacker] [Your iPhone Is Still Vulnerable When It Is Locked](https://lifehacker.com/your-iphone-is-still-vulnerable-when-it-is-locked-1850318663)
 - [Lifehacker] [Over Half a Million of These Hondas Are Being Recalled](https://lifehacker.com/over-half-a-million-of-these-hondas-are-being-recalled-1850314065)
