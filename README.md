@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Weird JavaScript Features](https://dev.to/arslanyounis/weird-javascript-features-15cm)
 - [Dev.to/JS] [uses of kentico cms by various enterprises &amp; its benefits](https://dev.to/viplavzenesys/uses-of-kentico-cms-by-various-enterprises-its-benefits-9d2)
 - [Dev.to/JS] [Dynamic Website 101](https://dev.to/ulisesvina/dynamic-website-101-4dbo)
 - [Dev.to/JS] [CUSTOM SCROLLBAR MAKER](https://dev.to/robin-ivi/custom-scrollbar-maker-3f6k)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code Smell 206 - Long Ternaries](https://dev.to/mcsee/code-smell-206-long-ternaries-2fk)
 - [Dev.to/JS] [Understanding the React Component Lifecycle!](https://dev.to/ezzahirtaha/understanding-the-react-component-lifecycle-2ohb)
 - [Dev.to/JS] [Where Shall We Have Lunch? - From Survival To Sophistication](https://dev.to/zenstack/where-shall-we-have-lunch-from-survival-to-sophistication-4nnf)
-- [Dev.to/JS] [How to refresh-token](https://dev.to/daniellimae/how-to-refresh-token-170n)
 - [Lifehacker] [Three Creative Ways to Paint Your Boring Room](https://lifehacker.com/three-creative-ways-to-paint-your-boring-room-1850313019)
 - [Lifehacker] [Your iPhone Is Still Vulnerable When It Is Locked](https://lifehacker.com/your-iphone-is-still-vulnerable-when-it-is-locked-1850318663)
 - [Lifehacker] [Over Half a Million of These Hondas Are Being Recalled](https://lifehacker.com/over-half-a-million-of-these-hondas-are-being-recalled-1850314065)
