@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [uses of kentico cms by various enterprises &amp; its benefits](https://dev.to/viplavzenesys/uses-of-kentico-cms-by-various-enterprises-its-benefits-9d2)
+- [Dev.to/JS] [Dynamic Website 101](https://dev.to/ulisesvina/dynamic-website-101-4dbo)
+- [Dev.to/JS] [CUSTOM SCROLLBAR MAKER](https://dev.to/robin-ivi/custom-scrollbar-maker-3f6k)
+- [Dev.to/JS] [How to make Responsive Web designs in CSS: Tips and Tricks](https://dev.to/hy_piyush/how-to-make-responsive-web-designs-in-css-tips-and-tricks-22m9)
 - [Dev.to/JS] [Javascript Object #6](https://dev.to/samr/javascript-object-6-2a71)
 - [Dev.to/JS] [#day 1 react create react app](https://dev.to/mohitshrivas/day-1-react-create-react-app-1i22)
 - [Dev.to/JS] [Beginning My Coding Journey](https://dev.to/jmedel1/beginning-my-coding-journey-3ja)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding the React Component Lifecycle!](https://dev.to/ezzahirtaha/understanding-the-react-component-lifecycle-2ohb)
 - [Dev.to/JS] [Where Shall We Have Lunch? - From Survival To Sophistication](https://dev.to/zenstack/where-shall-we-have-lunch-from-survival-to-sophistication-4nnf)
 - [Dev.to/JS] [How to refresh-token](https://dev.to/daniellimae/how-to-refresh-token-170n)
-- [Dev.to/JS] [gojs for dummies &lpar;para mi :D&rpar; #Español](https://dev.to/julio_santacruz/gojs-for-dummies-para-mi-d-espanol-3d55)
-- [Dev.to/JS] [Next.js Weekly Recap #2: App Router, Background Functions, YakGPT, Vercel KV](https://dev.to/erfanebrahimnia/nextjs-weekly-recap-2-app-router-background-functions-yakgpt-vercel-kv-3m3n)
-- [Dev.to/JS] [Unlocking the Power of Closures in Rust: Closures in rust are different and powerful](https://dev.to/doziestar/unlocking-the-power-of-closures-in-rust-closures-in-rust-are-different-and-powerful-55bk)
-- [Dev.to/JS] [Creating a Social Network for Bakers with the use of Generative Artificial Intelligence as an Assistant. part 1](https://dev.to/narradorww/creating-a-social-network-for-bakers-with-the-use-of-generative-artificial-intelligence-as-an-assistant-part-1-5ec5)
 - [Lifehacker] [Three Creative Ways to Paint Your Boring Room](https://lifehacker.com/three-creative-ways-to-paint-your-boring-room-1850313019)
 - [Lifehacker] [Your iPhone Is Still Vulnerable When It Is Locked](https://lifehacker.com/your-iphone-is-still-vulnerable-when-it-is-locked-1850318663)
 - [Lifehacker] [Over Half a Million of These Hondas Are Being Recalled](https://lifehacker.com/over-half-a-million-of-these-hondas-are-being-recalled-1850314065)
