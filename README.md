@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding ID Token vs. Access Token in AWS Amplify](https://dev.to/zirkelc/understanding-id-token-vs-access-token-in-aws-amplify-2oen)
+- [Dev.to/JS] [The Sliding Window Technique: A Powerful Algorithm for JavaScript Developers](https://dev.to/sanukhandev/the-sliding-window-technique-a-powerful-algorithm-for-javascript-developers-3nfm)
+- [Dev.to/JS] [5 More JavaScript Performance Gotchas](https://dev.to/andreasbergstrom/5-more-javascript-performance-gotchas-4k5g)
 - [Dev.to/JS] [Unlock The Power Of Creative Writing With Google Bard](https://dev.to/infowindtechno/unlock-the-power-of-creative-writing-with-google-bard-bmb)
 - [Dev.to/JS] [Extending the JavaScript Map](https://dev.to/retraigo/extending-the-javascript-map-ae3)
 - [Dev.to/JS] [Asynchronous Programming in JavaScript: The Basics](https://dev.to/haastrupea/asynchronous-programming-in-javascript-the-basics-4b0)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cortexi - Price, Benefits, Ingredients, Uses &amp; Side Effects?](https://dev.to/cortexib44333/cortexi-price-benefits-ingredients-uses-side-effects-3j87)
 - [Dev.to/JS] [JavaScript Performance Gotchas: Avoid scaling issues through under-the-hood knowledge](https://dev.to/andreasbergstrom/javascript-performance-gotchas-avoid-doing-this-cgm)
 - [Dev.to/JS] [Customizing Vizzu Charts - GIF export using gif.js](https://dev.to/simzer/customizing-vizzu-charts-gif-export-using-gifjs-21e5)
-- [Dev.to/JS] [How&#39;s your Side Project going?](https://dev.to/zubairanwarkhan/hows-your-side-project-going-41p1)
-- [Dev.to/JS] [Create a useful Newsletter automation with Node and Google Spreadsheet 🧑‍💻](https://dev.to/alagrede/create-a-useful-newsletter-automation-with-node-and-google-spreadsheet-33e)
-- [Dev.to/JS] [Weird JavaScript Features](https://dev.to/arslanyounis/weird-javascript-features-15cm)
 - [Lifehacker] [Three Creative Ways to Paint Your Boring Room](https://lifehacker.com/three-creative-ways-to-paint-your-boring-room-1850313019)
 - [Lifehacker] [Your iPhone Is Still Vulnerable When It Is Locked](https://lifehacker.com/your-iphone-is-still-vulnerable-when-it-is-locked-1850318663)
 - [Lifehacker] [Over Half a Million of These Hondas Are Being Recalled](https://lifehacker.com/over-half-a-million-of-these-hondas-are-being-recalled-1850314065)
