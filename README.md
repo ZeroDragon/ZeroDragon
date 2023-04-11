@@ -23,8 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This open-source package has changed the way web devs think about high scale](https://dev.to/odedshimoni/this-open-source-package-easily-and-automatically-retries-your-actions-and-even-reverts-whole-groups-if-even-one-failed-f91)
+- [Dev.to/JS] [The Revealing Module Pattern](https://dev.to/nickap/the-revealing-module-pattern-586d)
 - [Dev.to/JS] [Cortexi - Price, Benefits, Ingredients, Uses &amp; Side Effects?](https://dev.to/cortexib44333/cortexi-price-benefits-ingredients-uses-side-effects-3j87)
-- [Dev.to/JS] [JavaScript Performance Gotchas: avoid doing this](https://dev.to/andreasbergstrom/javascript-performance-gotchas-avoid-doing-this-cgm)
+- [Dev.to/JS] [JavaScript Performance Gotchas: Avoid scaling issues through under-the-hood knowledge](https://dev.to/andreasbergstrom/javascript-performance-gotchas-avoid-doing-this-cgm)
 - [Dev.to/JS] [How&#39;s your Side Project going?](https://dev.to/zubairanwarkhan/hows-your-side-project-going-41p1)
 - [Dev.to/JS] [Create a useful Newsletter automation with Node and Google Spreadsheet 🧑‍💻](https://dev.to/alagrede/create-a-useful-newsletter-automation-with-node-and-google-spreadsheet-33e)
 - [Dev.to/JS] [Weird JavaScript Features](https://dev.to/arslanyounis/weird-javascript-features-15cm)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CUSTOM SCROLLBAR MAKER](https://dev.to/robin-ivi/custom-scrollbar-maker-3f6k)
 - [Dev.to/JS] [How to make Responsive Web designs in CSS: Tips and Tricks](https://dev.to/hy_piyush/how-to-make-responsive-web-designs-in-css-tips-and-tricks-22m9)
 - [Dev.to/JS] [Javascript Object #6](https://dev.to/samr/javascript-object-6-2a71)
-- [Dev.to/JS] [#day 1 react create react app](https://dev.to/mohitshrivas/day-1-react-create-react-app-1i22)
-- [Dev.to/JS] [Beginning My Coding Journey](https://dev.to/jmedel1/beginning-my-coding-journey-3ja)
 - [Lifehacker] [Three Creative Ways to Paint Your Boring Room](https://lifehacker.com/three-creative-ways-to-paint-your-boring-room-1850313019)
 - [Lifehacker] [Your iPhone Is Still Vulnerable When It Is Locked](https://lifehacker.com/your-iphone-is-still-vulnerable-when-it-is-locked-1850318663)
 - [Lifehacker] [Over Half a Million of These Hondas Are Being Recalled](https://lifehacker.com/over-half-a-million-of-these-hondas-are-being-recalled-1850314065)
