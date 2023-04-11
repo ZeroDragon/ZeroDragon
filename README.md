@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Here&#39;s What Happens When Everyone Panics and Pulls Money Out of Banks](https://lifehacker.com/heres-what-happens-when-everyone-panics-and-pulls-money-1850323040)
 - [Lifehacker] [You Should Absolutely Make This Spam and Tater Tot Casserole](https://lifehacker.com/you-should-absolutely-make-this-spam-and-tater-tot-cass-1850321231)
+- [Dev.to/JS] [☞ Should we use Global State?](https://dev.to/saxenanickk/should-we-use-global-state-177d)
 - [Dev.to/JS] [জাভাস্ক্রিপ্ট ডেটা স্ট্রাকচার - অবজেক্ট](https://dev.to/muhidhossain/jaabhaaskriptt-ddettaa-sttraakcaar-abjektt-ege)
 - [Lifehacker] [Travel Cheap and Watch the 2024 Paris Olympics Ceremony for Free](https://lifehacker.com/travel-cheap-and-watch-the-2024-paris-olympics-ceremony-1850320924)
 - [Dev.to/JS] [What&#39;s up with so many Javascript frameworks?](https://dev.to/laurxnemeth/whats-up-with-so-many-javascript-frameworks-3335)
@@ -41,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🦖3 minutes to create a game using JavaScript](https://dev.to/hieule/3-minutes-to-create-a-game-using-javascript-1jgn)
 - [Lifehacker] [Gamify Your Savings Goals With Sticky Notes](https://lifehacker.com/gamify-your-savings-goals-with-sticky-notes-1850319878)
 - [Dev.to/JS] [Unlock the Power of Static Sites with Next.js: A Guide to Static Site Generation](https://dev.to/hi_iam_chris/unlock-the-power-of-static-sites-with-nextjs-a-guide-to-static-site-generation-4c5j)
-- [Dev.to/JS] [TypeScript 5.0: new mode bundler &amp; ESM](https://dev.to/ayc0/typescript-50-new-mode-bundler-esm-1jic)
 - [Lifehacker] [Here&#39;s When You Should Pay Your Taxes With a Credit Card](https://lifehacker.com/heres-when-you-should-pay-your-taxes-with-a-credit-card-1850319198)
 - [Lifehacker] [Products From Targeted Ads Might Be Worse Than You Think](https://lifehacker.com/products-from-targeted-ads-might-be-worse-than-you-thin-1850313265)
 - [Lifehacker] [Five Things That Could Save Your Life If You&#39;re Immunocompromised](https://lifehacker.com/five-things-that-could-save-your-life-if-youre-immunoco-1850315127)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Be Browsing the Web in Split-Screen](https://lifehacker.com/you-should-be-browsing-the-web-in-split-screen-1850311393)
 - [Lifehacker] [Why Your Vacuum Smells Bad &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-your-vacuum-smells-bad-and-how-to-fix-it-1850315877)
 - [Lifehacker] [How to Attract Bats to Your Yard &lpar;and Why You&#39;d Want To&rpar;](https://lifehacker.com/how-to-attract-bats-to-your-yard-and-why-youd-want-to-1850315881)
-- [Lifehacker] [Unexpected Ways You Can Use Orange Peels In Your Kitchen](https://lifehacker.com/unexpected-ways-you-can-use-orange-peels-in-your-kitche-1850315885)
-- [Lifehacker] [Never Store These Items on a Windowsill](https://lifehacker.com/never-store-these-items-on-a-windowsill-1850314993)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Unexpected Ways You Can Use Orange Peels In Your Kitchen](https://lifehacker.com/unexpected-ways-you-can-use-orange-peels-in-your-kitche-1850315885)<!-- TECH-POSTS:END -->
 
 ---
 
