@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Gamify Your Savings Goals With Sticky Notes](https://lifehacker.com/gamify-your-savings-goals-with-sticky-notes-1850319878)
+- [Dev.to/JS] [Unlock the Power of Static Sites with Next.js: A Guide to Static Site Generation](https://dev.to/hi_iam_chris/unlock-the-power-of-static-sites-with-nextjs-a-guide-to-static-site-generation-4c5j)
+- [Dev.to/JS] [TypeScript 5.0: new mode bundler &amp; ESM](https://dev.to/ayc0/typescript-50-new-mode-bundler-esm-1jic)
+- [Lifehacker] [Here&#39;s When You Should Pay Your Taxes With a Credit Card](https://lifehacker.com/heres-when-you-should-pay-your-taxes-with-a-credit-card-1850319198)
+- [Dev.to/JS] [Adeus, Axios! Descubra como esse novo código pode substituir completamente a biblioteca de requisições HTTP mais popular.](https://dev.to/demgoncalves/adeus-axios-descubra-como-esse-novo-codigo-pode-substituir-completamente-a-biblioteca-de-requisicoes-http-mais-popular-41p1)
+- [Dev.to/JS] [Introducing the CV Schema Proposal: A More Streamlined Approach to Applicant Information](https://dev.to/saulodias/introducing-the-cv-schema-proposal-a-more-streamlined-approach-to-applicant-information-4ncg)
 - [Lifehacker] [Products From Targeted Ads Might Be Worse Than You Think](https://lifehacker.com/products-from-targeted-ads-might-be-worse-than-you-thin-1850313265)
+- [Dev.to/JS] [NestJS Boilerplates Comparison](https://dev.to/rodik/nestjs-boilerplates-comparison-7fj)
 - [Lifehacker] [Five Things That Could Save Your Life If You&#39;re Immunocompromised](https://lifehacker.com/five-things-that-could-save-your-life-if-youre-immunoco-1850315127)
 - [Dev.to/JS] [Top 4 JavaScript Notification Libraries](https://dev.to/trinhcamminh/top-4-javascript-notification-libraries-487)
 - [Lifehacker] [Your Twitter Circle Isn’t Actually Private Right Now](https://lifehacker.com/your-twitter-circle-isn-t-actually-private-right-now-1850320575)
@@ -34,11 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SASS with React.JS](https://dev.to/kiransm/sass-with-reactjs-2d62)
 - [Dev.to/JS] [CSS in React.JS](https://dev.to/kiransm/css-in-reactjs-1beo)
 - [Dev.to/JS] [Step-by-Step Guide to Build an Auction Website with WordPress](https://dev.to/hirendhaduk_/step-by-step-guide-to-build-an-auction-website-with-wordpress-gjg)
-- [Dev.to/JS] [Understanding ID Token vs. Access Token in AWS Amplify](https://dev.to/zirkelc/understanding-id-token-vs-access-token-in-aws-amplify-2oen)
-- [Dev.to/JS] [The Sliding Window Technique: A Powerful Algorithm for JavaScript Developers](https://dev.to/sanukhandev/the-sliding-window-technique-a-powerful-algorithm-for-javascript-developers-3nfm)
-- [Dev.to/JS] [5 More JavaScript Performance Gotchas](https://dev.to/andreasbergstrom/5-more-javascript-performance-gotchas-4k5g)
-- [Dev.to/JS] [Unlock The Power Of Creative Writing With Google Bard](https://dev.to/infowindtechno/unlock-the-power-of-creative-writing-with-google-bard-bmb)
-- [Dev.to/JS] [Extending the JavaScript Map](https://dev.to/retraigo/extending-the-javascript-map-ae3)
 - [Lifehacker] [Three Creative Ways to Paint Your Boring Room](https://lifehacker.com/three-creative-ways-to-paint-your-boring-room-1850313019)
 - [Lifehacker] [Your iPhone Is Still Vulnerable When It Is Locked](https://lifehacker.com/your-iphone-is-still-vulnerable-when-it-is-locked-1850318663)
 - [Lifehacker] [Over Half a Million of These Hondas Are Being Recalled](https://lifehacker.com/over-half-a-million-of-these-hondas-are-being-recalled-1850314065)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Take Easter Eggs to the Fiery Depths of Hell With Chili and Garlic](https://lifehacker.com/take-easter-eggs-to-the-fiery-depths-of-hell-with-chili-1850313422)
 - [Lifehacker] [The Right Way to Use &#39;Honor Among Thieves&#39; Characters in Your Next D&amp;D Campaign](https://lifehacker.com/the-right-way-to-use-honor-among-thieves-characters-in-1850313225)
 - [Lifehacker] [Three Unexpected Ways to Eat Leftover Easter Eggs](https://lifehacker.com/three-unexpected-ways-to-eat-leftover-easter-eggs-1850312627)
-- [Lifehacker] [This Flourless Coconut Cake Is Perfect for Snacking](https://lifehacker.com/this-flourless-coconut-cake-is-perfect-for-snacking-1850312613)
-- [Crazy Programmer] [Download Turbo C++ for Mac 2023](https://www.thecrazyprogrammer.com/2023/04/turbo-c-for-mac.html)
-- [Lifehacker] [You Can Use AI to Summarize YouTube Videos and Boring Emails](https://lifehacker.com/you-can-actually-use-ai-to-summarize-youtube-videos-and-1850311347)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Flourless Coconut Cake Is Perfect for Snacking](https://lifehacker.com/this-flourless-coconut-cake-is-perfect-for-snacking-1850312613)<!-- TECH-POSTS:END -->
 
 ---
 
