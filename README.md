@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Absolutely Make This Spam and Tater Tot Casserole](https://lifehacker.com/you-should-absolutely-make-this-spam-and-tater-tot-cass-1850321231)
+- [Dev.to/JS] [জাভাস্ক্রিপ্ট ডেটা স্ট্রাকচার - অবজেক্ট](https://dev.to/muhidhossain/jaabhaaskriptt-ddettaa-sttraakcaar-abjektt-ege)
+- [Lifehacker] [Travel Cheap and Watch the 2024 Paris Olympics Ceremony for Free](https://lifehacker.com/travel-cheap-and-watch-the-2024-paris-olympics-ceremony-1850320924)
+- [Dev.to/JS] [What&#39;s up with so many Javascript frameworks?](https://dev.to/laurxnemeth/whats-up-with-so-many-javascript-frameworks-3335)
+- [Dev.to/JS] [React Event Handling.](https://dev.to/taahahussainkhan/react-event-handling-2d0g)
+- [Lifehacker] [Don&#39;t Use a Wire Brush to Clean Your Grill &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-a-wire-brush-to-clean-your-grill-do-this-inst-1850320096)
 - [Lifehacker] [You Can Get a Free McDonald’s Big Mac Right Now](https://lifehacker.com/you-can-get-a-free-mcdonald-s-big-mac-right-now-1850319970)
 - [Dev.to/JS] [Mind Your Metrics: How to use Telemetry to Make Your Chatbot More Effective in Azure HealthBot](https://dev.to/gerelltroche/mind-your-metrics-how-to-use-telemetry-to-make-your-chatbot-more-effective-in-azure-healthbot-46nb)
 - [Dev.to/JS] [React Native WebView: Make Android pullToRefresh work without any glitches](https://dev.to/muskanparashar/react-native-webview-make-android-pulltorefresh-work-without-any-glitches-467)
@@ -37,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlock the Power of Static Sites with Next.js: A Guide to Static Site Generation](https://dev.to/hi_iam_chris/unlock-the-power-of-static-sites-with-nextjs-a-guide-to-static-site-generation-4c5j)
 - [Dev.to/JS] [TypeScript 5.0: new mode bundler &amp; ESM](https://dev.to/ayc0/typescript-50-new-mode-bundler-esm-1jic)
 - [Lifehacker] [Here&#39;s When You Should Pay Your Taxes With a Credit Card](https://lifehacker.com/heres-when-you-should-pay-your-taxes-with-a-credit-card-1850319198)
-- [Dev.to/JS] [Adeus, Axios! Descubra como esse novo código pode substituir completamente a biblioteca de requisições HTTP mais popular.](https://dev.to/demgoncalves/adeus-axios-descubra-como-esse-novo-codigo-pode-substituir-completamente-a-biblioteca-de-requisicoes-http-mais-popular-41p1)
-- [Dev.to/JS] [Introducing the CV Schema Proposal: A More Streamlined Approach to Applicant Information](https://dev.to/saulodias/introducing-the-cv-schema-proposal-a-more-streamlined-approach-to-applicant-information-4ncg)
 - [Lifehacker] [Products From Targeted Ads Might Be Worse Than You Think](https://lifehacker.com/products-from-targeted-ads-might-be-worse-than-you-thin-1850313265)
-- [Dev.to/JS] [How to encrypt a text using Python &lpar;key and text&rpar; and decrypt that cipher in JavaScript using the same key.](https://dev.to/guardianangel/how-to-encrypt-a-text-using-python-key-and-text-and-decrypt-that-cipher-in-javascript-using-the-same-key-5dbm)
 - [Lifehacker] [Five Things That Could Save Your Life If You&#39;re Immunocompromised](https://lifehacker.com/five-things-that-could-save-your-life-if-youre-immunoco-1850315127)
 - [Lifehacker] [Your Twitter Circle Isn’t Actually Private Right Now](https://lifehacker.com/your-twitter-circle-isn-t-actually-private-right-now-1850320575)
 - [Lifehacker] [Wrap Your Mozzarella Sticks in a Blanket of Crispy Cheese](https://lifehacker.com/wrap-your-mozzarella-sticks-in-a-blanket-of-crispy-chee-1850320920)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your Vacuum Smells Bad &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-your-vacuum-smells-bad-and-how-to-fix-it-1850315877)
 - [Lifehacker] [How to Attract Bats to Your Yard &lpar;and Why You&#39;d Want To&rpar;](https://lifehacker.com/how-to-attract-bats-to-your-yard-and-why-youd-want-to-1850315881)
 - [Lifehacker] [Unexpected Ways You Can Use Orange Peels In Your Kitchen](https://lifehacker.com/unexpected-ways-you-can-use-orange-peels-in-your-kitche-1850315885)
-- [Lifehacker] [Never Store These Items on a Windowsill](https://lifehacker.com/never-store-these-items-on-a-windowsill-1850314993)
-- [Lifehacker] [How to Make a Pocket Garden](https://lifehacker.com/how-to-make-a-pocket-garden-1850314990)
-- [Lifehacker] [The Best Easter Food Deals and Freebies](https://lifehacker.com/the-best-easter-food-deals-and-freebies-1850305940)
-- [Lifehacker] [Take Easter Eggs to the Fiery Depths of Hell With Chili and Garlic](https://lifehacker.com/take-easter-eggs-to-the-fiery-depths-of-hell-with-chili-1850313422)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Never Store These Items on a Windowsill](https://lifehacker.com/never-store-these-items-on-a-windowsill-1850314993)<!-- TECH-POSTS:END -->
 
 ---
 
