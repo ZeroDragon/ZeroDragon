@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Products From Targeted Ads Might Be Worse Than You Think](https://lifehacker.com/products-from-targeted-ads-might-be-worse-than-you-thin-1850313265)
+- [Lifehacker] [Five Things That Could Save Your Life If You&#39;re Immunocompromised](https://lifehacker.com/five-things-that-could-save-your-life-if-youre-immunoco-1850315127)
+- [Dev.to/JS] [Top 4 JavaScript Notification Libraries](https://dev.to/trinhcamminh/top-4-javascript-notification-libraries-487)
 - [Lifehacker] [Your Twitter Circle Isn’t Actually Private Right Now](https://lifehacker.com/your-twitter-circle-isn-t-actually-private-right-now-1850320575)
 - [Dev.to/JS] [Pop-Up](https://dev.to/sena_ozcn/pop-up-2dl6)
 - [Dev.to/JS] [Immutability vs. Mutability in JavaScript: Performance Trade-offs and the Role of JIT](https://dev.to/andreasbergstrom/immutability-vs-mutability-in-javascript-performance-trade-offs-and-the-role-of-jit-m4e)
@@ -36,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 More JavaScript Performance Gotchas](https://dev.to/andreasbergstrom/5-more-javascript-performance-gotchas-4k5g)
 - [Dev.to/JS] [Unlock The Power Of Creative Writing With Google Bard](https://dev.to/infowindtechno/unlock-the-power-of-creative-writing-with-google-bard-bmb)
 - [Dev.to/JS] [Extending the JavaScript Map](https://dev.to/retraigo/extending-the-javascript-map-ae3)
-- [Dev.to/JS] [Asynchronous Programming in JavaScript: The Basics](https://dev.to/haastrupea/asynchronous-programming-in-javascript-the-basics-4b0)
 - [Lifehacker] [Three Creative Ways to Paint Your Boring Room](https://lifehacker.com/three-creative-ways-to-paint-your-boring-room-1850313019)
 - [Lifehacker] [Your iPhone Is Still Vulnerable When It Is Locked](https://lifehacker.com/your-iphone-is-still-vulnerable-when-it-is-locked-1850318663)
 - [Lifehacker] [Over Half a Million of These Hondas Are Being Recalled](https://lifehacker.com/over-half-a-million-of-these-hondas-are-being-recalled-1850314065)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Unexpected Ways to Eat Leftover Easter Eggs](https://lifehacker.com/three-unexpected-ways-to-eat-leftover-easter-eggs-1850312627)
 - [Lifehacker] [This Flourless Coconut Cake Is Perfect for Snacking](https://lifehacker.com/this-flourless-coconut-cake-is-perfect-for-snacking-1850312613)
 - [Crazy Programmer] [Download Turbo C++ for Mac 2023](https://www.thecrazyprogrammer.com/2023/04/turbo-c-for-mac.html)
-- [Lifehacker] [You Can Use AI to Summarize YouTube Videos and Boring Emails](https://lifehacker.com/you-can-actually-use-ai-to-summarize-youtube-videos-and-1850311347)
-- [Lifehacker] [Four Clever Ways to Reuse an Old Garden Hose](https://lifehacker.com/four-clever-ways-to-reuse-an-old-garden-hose-1850312495)
-- [Lifehacker] [Take These Steps to Protect Your Data After a Cyberattack](https://lifehacker.com/take-these-steps-to-protect-your-data-after-a-cyberatta-1850304604)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Use AI to Summarize YouTube Videos and Boring Emails](https://lifehacker.com/you-can-actually-use-ai-to-summarize-youtube-videos-and-1850311347)<!-- TECH-POSTS:END -->
 
 ---
 
