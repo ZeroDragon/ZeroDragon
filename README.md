@@ -23,6 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why &#39;Foodscaping&#39; Is Better Than Regular Landscaping](https://lifehacker.com/why-foodscaping-is-better-than-regular-landscaping-1850323854)
+- [Dev.to/JS] [A typed HTTP client for SvelteKit](https://dev.to/fbjorn/a-typed-http-client-for-sveltekit-88b)
+- [Dev.to/JS] [Buildless workflow through import maps &lpar;featuring Lit, Shoelace and more&rpar;](https://dev.to/matsuuu/buildless-workflow-through-import-maps-featuring-lit-shoelace-and-more-4ill)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Modificando números Kaprekar.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-modificando-numeros-kaprekar-1bp1)
+- [Dev.to/JS] [Mobile-first or Desktop-first development?](https://dev.to/dumebii/mobile-first-or-desktop-first-development-4m24)
+- [Lifehacker] [Turn a Garden Planter Into Secret Storage](https://lifehacker.com/turn-a-garden-planter-into-secret-storage-1850323898)
+- [Dev.to/JS] [Please Help!](https://dev.to/blutoo_0/please-help-189j)
+- [Dev.to/JS] [Desvendendo Closure Javascript](https://dev.to/taisesoares/desvendendo-closure-javascript-35mk)
+- [Dev.to/JS] [Javascript: on clone des robots !](https://dev.to/younup/javascript-on-clone-des-robots--4afn)
+- [Dev.to/JS] [How Authentication and Authorization Work for SPAs](https://dev.to/oktadev/how-authentication-and-authorization-work-for-spas-1e4h)
 - [Lifehacker] [You Can Get a Year of Peacock Premium for $20 Right Now](https://lifehacker.com/you-can-get-a-year-of-peacock-premium-for-20-right-now-1850324923)
 - [Dev.to/JS] [How does useEffect really work?](https://dev.to/charliekroon/how-does-useeffect-really-work-5496)
 - [Lifehacker] [Understand YouTube&#39;s New &#39;1080p Premium&#39; Before You Subscribe for It](https://lifehacker.com/understand-youtubes-new-1080p-premium-before-you-subscr-1850323235)
@@ -31,17 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Let a Shoelace Water Your Plants for You](https://lifehacker.com/let-a-shoelace-water-your-plants-for-you-1850323984)
 - [Lifehacker] [The Comstock Act Is One of America&#39;s Weirdest and Dumbest Laws](https://lifehacker.com/the-comstock-act-is-one-of-americas-weirdest-and-dumbes-1850323620)
 - [Dev.to/JS] [How to Create React Tabs with Tailwind CSS.](https://dev.to/devwares/how-to-create-react-tabs-with-tailwind-css-554l)
-- [Dev.to/JS] [Revolutionize Your React App with Redux: A Beginner&#39;s Guide to Simplifying State Management&lpar;PART 2&rpar;](https://dev.to/clericcoder/revolutionize-your-react-app-with-redux-a-beginners-guide-to-simplifying-state-managementpart-2-ffi)
-- [Dev.to/JS] [How to implement dark mode in React using tailwind CSS](https://dev.to/devwares/how-to-implement-dark-mode-in-react-using-tailwind-css-1hhk)
-- [Dev.to/JS] [How to Implement a React Step Progress Bar Using Tailwind CSS.](https://dev.to/devwares/how-to-implement-a-react-step-progress-bar-using-tailwind-css-olb)
 - [Lifehacker] [It&#39;s Time to Start Growing Your Own Seedlings](https://lifehacker.com/its-time-to-start-growing-your-own-seedlings-1850320150)
-- [Dev.to/JS] [Java and Typescript](https://dev.to/cricketsamya/java-and-typescript-4pdh)
-- [Dev.to/JS] [What Is Vite.js &amp; Why It Is Better Than Webpack?](https://dev.to/makemychance/what-is-vitejs-why-it-is-better-than-webpack-4lde)
 - [Lifehacker] [How to Eat Magic Mushrooms Without Gagging](https://lifehacker.com/how-to-eat-magic-mushrooms-without-gagging-1850320771)
-- [Dev.to/JS] [Use Vue Exit Intent | A Vue Composable](https://dev.to/nickap/use-vue-exit-intent-a-vue-composable-396l)
-- [Dev.to/JS] [The Most Common Mistakes When Using React](https://dev.to/clarity89/the-most-common-mistakes-when-using-react-nbj)
 - [Lifehacker] [This Pancake Breakfast Sandwich Is Better Than a McGriddle](https://lifehacker.com/this-pancake-breakfast-sandwich-is-better-than-a-mcgrid-1850325458)
-- [Dev.to/JS] [Minimum Window Substring | JavaScript](https://dev.to/nickap/minimum-window-substring-javascript-2nnd)
 - [Lifehacker] [Here&#39;s What Happens When Everyone Panics and Pulls Money Out of Banks](https://lifehacker.com/heres-what-happens-when-everyone-panics-and-pulls-money-1850323040)
 - [Lifehacker] [You Should Absolutely Make This Spam and Tater Tot Casserole](https://lifehacker.com/you-should-absolutely-make-this-spam-and-tater-tot-cass-1850321231)
 - [Lifehacker] [Travel Cheap and Watch the 2024 Paris Olympics Ceremony for Free](https://lifehacker.com/travel-cheap-and-watch-the-2024-paris-olympics-ceremony-1850320924)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Over Half a Million of These Hondas Are Being Recalled](https://lifehacker.com/over-half-a-million-of-these-hondas-are-being-recalled-1850314065)
 - [Lifehacker] [It&#39;s Time to Start Taking Your Spring Allergies Seriously](https://lifehacker.com/its-time-to-start-taking-your-spring-allergies-seriousl-1850313310)
 - [Lifehacker] [OpenAI’s &#39;Pay As You Go&#39; Is the Best Way to Use ChatGPT](https://lifehacker.com/openai-s-pay-as-you-go-is-the-best-way-to-use-chatgpt-1850318349)
-- [Lifehacker] [How to Spot a Gross Motor Delay in Your Child](https://lifehacker.com/how-to-spot-a-gross-motor-delay-in-your-child-1850313484)
-- [Lifehacker] [How to Get Reimbursed for COVID Tests Before Insurance Stops Paying](https://lifehacker.com/how-to-get-reimbursed-for-covid-tests-before-insurance-1850314482)
-- [Lifehacker] [Get a Free Sonic Cheeseburger When You Buy Anything. Even a Cup of Ice](https://lifehacker.com/get-a-free-sonic-cheeseburger-when-you-buy-anything-ev-1850313703)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Spot a Gross Motor Delay in Your Child](https://lifehacker.com/how-to-spot-a-gross-motor-delay-in-your-child-1850313484)<!-- TECH-POSTS:END -->
 
 ---
 
