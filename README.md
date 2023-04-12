@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Comstock Act Is One of America&#39;s Weirdest and Dumbest Laws](https://lifehacker.com/the-comstock-act-is-one-of-americas-weirdest-and-dumbes-1850323620)
+- [Dev.to/JS] [How to Create React Tabs with Tailwind CSS.](https://dev.to/devwares/how-to-create-react-tabs-with-tailwind-css-554l)
+- [Dev.to/JS] [Revolutionize Your React App with Redux: A Beginner&#39;s Guide to Simplifying State Management&lpar;PART 2&rpar;](https://dev.to/clericcoder/revolutionize-your-react-app-with-redux-a-beginners-guide-to-simplifying-state-managementpart-2-ffi)
+- [Dev.to/JS] [How to implement dark mode in React using tailwind CSS](https://dev.to/devwares/how-to-implement-dark-mode-in-react-using-tailwind-css-1hhk)
+- [Dev.to/JS] [How to Implement a React Step Progress Bar Using Tailwind CSS.](https://dev.to/devwares/how-to-implement-a-react-step-progress-bar-using-tailwind-css-olb)
 - [Lifehacker] [It&#39;s Time to Start Growing Your Own Seedlings](https://lifehacker.com/its-time-to-start-growing-your-own-seedlings-1850320150)
 - [Dev.to/JS] [Java and Typescript](https://dev.to/cricketsamya/java-and-typescript-4pdh)
 - [Dev.to/JS] [What Is Vite.js &amp; Why It Is Better Than Webpack?](https://dev.to/makemychance/what-is-vitejs-why-it-is-better-than-webpack-4lde)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [7 best practices for arrays in javascript](https://dev.to/navinmishra1717/7-best-practices-for-arrays-in-javascript-9ge)
 - [Dev.to/JS] [Javascript Object #8](https://dev.to/samr/javascript-object-8-3k6m)
 - [Dev.to/JS] [How to Write a GraphQL Query](https://dev.to/fimber01/how-to-write-a-graphql-query-5bbn)
-- [Dev.to/JS] [Coding Backwards](https://dev.to/omarkhiary/coding-backwards-2mh9)
-- [Dev.to/JS] [A flexible nodejs crawler library —— x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-crawler-library-x-crawl-2pla)
-- [Dev.to/JS] [openGauss Known Issues](https://dev.to/olivia_ma_350e4f6e00893e3/opengauss-known-issues-4gbl)
-- [Dev.to/JS] [Internationalization &lpar;i18n&rpar; in Next.js 13 with React Server Components](https://dev.to/crowdin/internationalization-i18n-in-nextjs-13-with-react-server-components-2jod)
 - [Lifehacker] [Here&#39;s What Happens When Everyone Panics and Pulls Money Out of Banks](https://lifehacker.com/heres-what-happens-when-everyone-panics-and-pulls-money-1850323040)
 - [Lifehacker] [You Should Absolutely Make This Spam and Tater Tot Casserole](https://lifehacker.com/you-should-absolutely-make-this-spam-and-tater-tot-cass-1850321231)
 - [Lifehacker] [Travel Cheap and Watch the 2024 Paris Olympics Ceremony for Free](https://lifehacker.com/travel-cheap-and-watch-the-2024-paris-olympics-ceremony-1850320924)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get a Free Sonic Cheeseburger When You Buy Anything. Even a Cup of Ice](https://lifehacker.com/get-a-free-sonic-cheeseburger-when-you-buy-anything-ev-1850313703)
 - [Lifehacker] [Don&#39;t Baby Your Eggs, Coddle Them](https://lifehacker.com/dont-baby-your-eggs-coddle-them-1850314208)
 - [Lifehacker] [The Lies Employers Tell You During Job Interviews](https://lifehacker.com/the-lies-employers-tell-you-during-job-interviews-1850307753)
-- [Lifehacker] [All the Ways Your Bank Will Try to Rip You Off](https://lifehacker.com/all-the-ways-your-bank-will-try-to-rip-you-off-1850312694)
-- [Lifehacker] [You Should Be Browsing the Web in Split-Screen](https://lifehacker.com/you-should-be-browsing-the-web-in-split-screen-1850311393)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Ways Your Bank Will Try to Rip You Off](https://lifehacker.com/all-the-ways-your-bank-will-try-to-rip-you-off-1850312694)<!-- TECH-POSTS:END -->
 
 ---
 
