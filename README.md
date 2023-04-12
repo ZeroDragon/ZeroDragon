@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Most Common Mistakes When Using React](https://dev.to/clarity89/the-most-common-mistakes-when-using-react-nbj)
+- [Dev.to/JS] [How to implement dark mode in React using tailwind CSS](https://dev.to/devwares/how-to-implement-dark-mode-in-react-using-tailwind-css-18i4)
+- [Dev.to/JS] [Minimum Window Substring | JavaScript](https://dev.to/nickap/minimum-window-substring-javascript-2nnd)
 - [Dev.to/JS] [7 best practices for arrays in javascript](https://dev.to/navinmishra1717/7-best-practices-for-arrays-in-javascript-9ge)
 - [Dev.to/JS] [Javascript Object #8](https://dev.to/samr/javascript-object-8-3k6m)
 - [Dev.to/JS] [How to Write a GraphQL Query](https://dev.to/fimber01/how-to-write-a-graphql-query-5bbn)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Internationalization &lpar;i18n&rpar; in Next.js 13 with React Server Components](https://dev.to/crowdin/internationalization-i18n-in-nextjs-13-with-react-server-components-2jod)
 - [Dev.to/JS] [Automation of API Testing using CodeParrot](https://dev.to/royaljain/automation-of-api-testing-using-codeparrot-3ic2)
 - [Dev.to/JS] [openGauss Operating Environment](https://dev.to/olivia_ma_350e4f6e00893e3/opengauss-operating-environment-4790)
-- [Dev.to/JS] [The End of Create-React-App](https://dev.to/codenamegrant/the-end-of-create-react-app-4o01)
-- [Dev.to/JS] [How to Learn React — A step-by-step guide from beginner to advanced.](https://dev.to/sukr92329/how-to-learn-react-a-step-by-step-guide-from-beginner-to-advanced-1gek)
-- [Dev.to/JS] [Weekly web development resources #144](https://dev.to/vincenius/weekly-web-development-resources-144-3m1j)
 - [Lifehacker] [Here&#39;s What Happens When Everyone Panics and Pulls Money Out of Banks](https://lifehacker.com/heres-what-happens-when-everyone-panics-and-pulls-money-1850323040)
 - [Lifehacker] [You Should Absolutely Make This Spam and Tater Tot Casserole](https://lifehacker.com/you-should-absolutely-make-this-spam-and-tater-tot-cass-1850321231)
 - [Lifehacker] [Travel Cheap and Watch the 2024 Paris Olympics Ceremony for Free](https://lifehacker.com/travel-cheap-and-watch-the-2024-paris-olympics-ceremony-1850320924)
