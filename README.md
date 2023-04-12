@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Axios in Node? Have a look at got](https://dev.to/andreasbergstrom/using-axios-in-node-have-a-look-at-got-2690)
+- [Dev.to/JS] [Javascript Object #7](https://dev.to/samr/javascript-object-7-9ie)
+- [Dev.to/JS] [Currying in Javascript](https://dev.to/ngquan/currying-in-javascript-45ce)
 - [Dev.to/JS] [The Often-Overlooked Secret to Building Your Reputation as a Software Engineer](https://dev.to/ashutosh00710/the-often-overlooked-secret-to-building-your-reputation-as-a-software-engineer-53pp)
 - [Dev.to/JS] [Coding Subconsciously 🤯](https://dev.to/aoppman/coding-subconsciously-5g80)
 - [Dev.to/JS] [🎒 localStorage or 🍪 cookies : What&#39;s the difference?](https://dev.to/daniellimae/localstorage-or-cookies-whats-the-difference-25ho)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [UseEffect vs UseLayoutEffect in React](https://dev.to/asayerio_techblog/useeffect-vs-uselayouteffect-in-react-28pf)
 - [Dev.to/JS] [Forever Functional: Decorators - new style higher order functions](https://dev.to/asayerio_techblog/forever-functional-decorators-new-style-higher-order-functions-2apc)
 - [Dev.to/JS] [Episode 23/14: Signals RFC Distilled](https://dev.to/ng_news/episode-2314-signals-rfc-distilled-32kd)
-- [Dev.to/JS] [Understanding the power of eth_getBlockReceipts](https://dev.to/tabasco/understanding-the-power-of-ethgetblockreceipts-3hbg)
-- [Dev.to/JS] [Using &#39;Faker&#39; to Generate Fake Data](https://dev.to/dfarlz97/using-faker-to-generate-fake-data-39in)
-- [Dev.to/JS] [How to integrate Google Calendar events using Google OAuth2](https://dev.to/juancmandev/how-to-integrate-google-calendar-events-using-google-oauth2-51b9)
 - [Lifehacker] [Here&#39;s What Happens When Everyone Panics and Pulls Money Out of Banks](https://lifehacker.com/heres-what-happens-when-everyone-panics-and-pulls-money-1850323040)
 - [Lifehacker] [You Should Absolutely Make This Spam and Tater Tot Casserole](https://lifehacker.com/you-should-absolutely-make-this-spam-and-tater-tot-cass-1850321231)
 - [Lifehacker] [Travel Cheap and Watch the 2024 Paris Olympics Ceremony for Free](https://lifehacker.com/travel-cheap-and-watch-the-2024-paris-olympics-ceremony-1850320924)
