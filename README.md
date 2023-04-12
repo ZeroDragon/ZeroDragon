@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Weekly web development resources #144](https://dev.to/vincenius/weekly-web-development-resources-144-3m1j)
+- [Dev.to/JS] [Launch of The Most Requested Youtube Channel Related To Web Development](https://dev.to/myogeshchavan97/launch-of-the-most-requested-youtube-channel-related-to-web-development-4n6c)
+- [Dev.to/JS] [Javascript scope and closure](https://dev.to/ngquan/javascript-scope-and-closure-4lca)
 - [Dev.to/JS] [Using Axios in Node? Have a look at got](https://dev.to/andreasbergstrom/using-axios-in-node-have-a-look-at-got-2690)
 - [Dev.to/JS] [Javascript Object #7](https://dev.to/samr/javascript-object-7-9ie)
 - [Dev.to/JS] [Currying in Javascript](https://dev.to/ngquan/currying-in-javascript-45ce)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Nice to be here!](https://dev.to/dave126/nice-to-be-here-1no0)
 - [Dev.to/JS] [DIFFERENCE BETWEEN BACK-END , FRONT-END AND API TOGETHER WITH TOOLS AND FRAMEWORKS FOR EACH.](https://dev.to/kamauruth/difference-between-back-end-front-end-and-api-together-with-tools-and-frameworks-for-each-1b73)
 - [Dev.to/JS] [3 principles of OOP in JavaScript](https://dev.to/keento0809/3-principles-of-oop-in-javascript-ml9)
-- [Dev.to/JS] [UseEffect vs UseLayoutEffect in React](https://dev.to/asayerio_techblog/useeffect-vs-uselayouteffect-in-react-28pf)
-- [Dev.to/JS] [Forever Functional: Decorators - new style higher order functions](https://dev.to/asayerio_techblog/forever-functional-decorators-new-style-higher-order-functions-2apc)
-- [Dev.to/JS] [Episode 23/14: Signals RFC Distilled](https://dev.to/ng_news/episode-2314-signals-rfc-distilled-32kd)
 - [Lifehacker] [Here&#39;s What Happens When Everyone Panics and Pulls Money Out of Banks](https://lifehacker.com/heres-what-happens-when-everyone-panics-and-pulls-money-1850323040)
 - [Lifehacker] [You Should Absolutely Make This Spam and Tater Tot Casserole](https://lifehacker.com/you-should-absolutely-make-this-spam-and-tater-tot-cass-1850321231)
 - [Lifehacker] [Travel Cheap and Watch the 2024 Paris Olympics Ceremony for Free](https://lifehacker.com/travel-cheap-and-watch-the-2024-paris-olympics-ceremony-1850320924)
