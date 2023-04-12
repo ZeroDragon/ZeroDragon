@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Coding Subconsciously 🤯](https://dev.to/aoppman/coding-subconsciously-5g80)
+- [Dev.to/JS] [🎒 localStorage or 🍪 cookies : What&#39;s the difference?](https://dev.to/daniellimae/localstorage-or-cookies-whats-the-difference-25ho)
 - [Dev.to/JS] [Nice to be here!](https://dev.to/dave126/nice-to-be-here-1no0)
 - [Dev.to/JS] [DIFFERENCE BETWEEN BACK-END , FRONT-END AND API TOGETHER WITH TOOLS AND FRAMEWORKS FOR EACH.](https://dev.to/kamauruth/difference-between-back-end-front-end-and-api-together-with-tools-and-frameworks-for-each-1b73)
 - [Dev.to/JS] [3 principles of OOP in JavaScript](https://dev.to/keento0809/3-principles-of-oop-in-javascript-ml9)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using &#39;Faker&#39; to Generate Fake Data](https://dev.to/dfarlz97/using-faker-to-generate-fake-data-39in)
 - [Dev.to/JS] [How to integrate Google Calendar events using Google OAuth2](https://dev.to/juancmandev/how-to-integrate-google-calendar-events-using-google-oauth2-51b9)
 - [Dev.to/JS] [Micro Frontends using React, Module Federation, Webpack 5](https://dev.to/sandeepchintala/micro-frontends-using-react-module-federation-webpack-5-jio)
-- [Dev.to/JS] [Vue.js for Beginners #2](https://dev.to/ericnanhu/vuejs-for-beginners-2-766)
-- [Dev.to/JS] [Criando um algoritmo de pesquisa em largura em grafos](https://dev.to/antiduhring/criando-um-algoritmo-de-pesquisa-em-largura-em-grafos-3af3)
 - [Lifehacker] [Here&#39;s What Happens When Everyone Panics and Pulls Money Out of Banks](https://lifehacker.com/heres-what-happens-when-everyone-panics-and-pulls-money-1850323040)
 - [Lifehacker] [You Should Absolutely Make This Spam and Tater Tot Casserole](https://lifehacker.com/you-should-absolutely-make-this-spam-and-tater-tot-cass-1850321231)
 - [Lifehacker] [Travel Cheap and Watch the 2024 Paris Olympics Ceremony for Free](https://lifehacker.com/travel-cheap-and-watch-the-2024-paris-olympics-ceremony-1850320924)
