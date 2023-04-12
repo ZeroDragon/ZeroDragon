@@ -23,14 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing tutim.io - A Headless, API-first, and Developer-led User Flow Platform](https://dev.to/eylonmiz/introducing-tutimio-a-headless-api-first-and-developer-led-user-flow-platform-295n)
+- [Dev.to/JS] [I made Ultimate Random Generator which can make Everything](https://dev.to/samchon/i-made-ultimate-random-generator-which-can-make-everything-5a65)
+- [Lifehacker] [Freeze This Fancy Citrus Fruit Before the Season Ends](https://lifehacker.com/freeze-this-fancy-citrus-fruit-before-the-season-ends-1850325665)
 - [Lifehacker] [Why &#39;Foodscaping&#39; Is Better Than Regular Landscaping](https://lifehacker.com/why-foodscaping-is-better-than-regular-landscaping-1850323854)
-- [Dev.to/JS] [A typed HTTP client for SvelteKit](https://dev.to/fbjorn/a-typed-http-client-for-sveltekit-88b)
+- [Dev.to/JS] [Apity: A typed HTTP client for Svelte&lpar;Kit&rpar;](https://dev.to/fbjorn/a-typed-http-client-for-sveltekit-88b)
 - [Dev.to/JS] [Buildless workflow through import maps &lpar;featuring Lit, Shoelace and more&rpar;](https://dev.to/matsuuu/buildless-workflow-through-import-maps-featuring-lit-shoelace-and-more-4ill)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Modificando números Kaprekar.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-modificando-numeros-kaprekar-1bp1)
 - [Dev.to/JS] [Mobile-first or Desktop-first development?](https://dev.to/dumebii/mobile-first-or-desktop-first-development-4m24)
 - [Lifehacker] [Turn a Garden Planter Into Secret Storage](https://lifehacker.com/turn-a-garden-planter-into-secret-storage-1850323898)
 - [Dev.to/JS] [Please Help!](https://dev.to/blutoo_0/please-help-189j)
-- [Dev.to/JS] [Desvendendo Closure Javascript](https://dev.to/taisesoares/desvendendo-closure-javascript-35mk)
 - [Dev.to/JS] [Javascript: on clone des robots !](https://dev.to/younup/javascript-on-clone-des-robots--4afn)
 - [Dev.to/JS] [How Authentication and Authorization Work for SPAs](https://dev.to/oktadev/how-authentication-and-authorization-work-for-spas-1e4h)
 - [Lifehacker] [You Can Get a Year of Peacock Premium for $20 Right Now](https://lifehacker.com/you-can-get-a-year-of-peacock-premium-for-20-right-now-1850324923)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to serverless databases with faunadb and python](https://dev.to/feranmiodugbemi/introduction-to-serverless-databases-with-faunadb-and-python-4gb8)
 - [Lifehacker] [Let a Shoelace Water Your Plants for You](https://lifehacker.com/let-a-shoelace-water-your-plants-for-you-1850323984)
 - [Lifehacker] [The Comstock Act Is One of America&#39;s Weirdest and Dumbest Laws](https://lifehacker.com/the-comstock-act-is-one-of-americas-weirdest-and-dumbes-1850323620)
-- [Dev.to/JS] [How to Create React Tabs with Tailwind CSS.](https://dev.to/devwares/how-to-create-react-tabs-with-tailwind-css-554l)
 - [Lifehacker] [It&#39;s Time to Start Growing Your Own Seedlings](https://lifehacker.com/its-time-to-start-growing-your-own-seedlings-1850320150)
 - [Lifehacker] [How to Eat Magic Mushrooms Without Gagging](https://lifehacker.com/how-to-eat-magic-mushrooms-without-gagging-1850320771)
 - [Lifehacker] [This Pancake Breakfast Sandwich Is Better Than a McGriddle](https://lifehacker.com/this-pancake-breakfast-sandwich-is-better-than-a-mcgrid-1850325458)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your iPhone Is Still Vulnerable When It Is Locked](https://lifehacker.com/your-iphone-is-still-vulnerable-when-it-is-locked-1850318663)
 - [Lifehacker] [Over Half a Million of These Hondas Are Being Recalled](https://lifehacker.com/over-half-a-million-of-these-hondas-are-being-recalled-1850314065)
 - [Lifehacker] [It&#39;s Time to Start Taking Your Spring Allergies Seriously](https://lifehacker.com/its-time-to-start-taking-your-spring-allergies-seriousl-1850313310)
-- [Lifehacker] [OpenAI’s &#39;Pay As You Go&#39; Is the Best Way to Use ChatGPT](https://lifehacker.com/openai-s-pay-as-you-go-is-the-best-way-to-use-chatgpt-1850318349)
-- [Lifehacker] [How to Spot a Gross Motor Delay in Your Child](https://lifehacker.com/how-to-spot-a-gross-motor-delay-in-your-child-1850313484)<!-- TECH-POSTS:END -->
+- [Lifehacker] [OpenAI’s &#39;Pay As You Go&#39; Is the Best Way to Use ChatGPT](https://lifehacker.com/openai-s-pay-as-you-go-is-the-best-way-to-use-chatgpt-1850318349)<!-- TECH-POSTS:END -->
 
 ---
 
