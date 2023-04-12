@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Write a GraphQL Query](https://dev.to/fimber01/how-to-write-a-graphql-query-5bbn)
+- [Dev.to/JS] [Coding Backwards](https://dev.to/omarkhiary/coding-backwards-2mh9)
 - [Dev.to/JS] [A flexible nodejs crawler library —— x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-crawler-library-x-crawl-2pla)
 - [Dev.to/JS] [openGauss Known Issues](https://dev.to/olivia_ma_350e4f6e00893e3/opengauss-known-issues-4gbl)
 - [Dev.to/JS] [Internationalization &lpar;i18n&rpar; in Next.js 13 with React Server Components](https://dev.to/crowdin/internationalization-i18n-in-nextjs-13-with-react-server-components-2jod)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Launch of The Most Requested Youtube Channel Related To Web Development](https://dev.to/myogeshchavan97/launch-of-the-most-requested-youtube-channel-related-to-web-development-4n6c)
 - [Dev.to/JS] [Javascript scope and closure](https://dev.to/ngquan/javascript-scope-and-closure-4lca)
 - [Dev.to/JS] [Using Axios in Node? Have a look at got](https://dev.to/andreasbergstrom/using-axios-in-node-have-a-look-at-got-2690)
-- [Dev.to/JS] [Javascript Object #7](https://dev.to/samr/javascript-object-7-9ie)
-- [Dev.to/JS] [Currying in Javascript](https://dev.to/ngquan/currying-in-javascript-45ce)
 - [Lifehacker] [Here&#39;s What Happens When Everyone Panics and Pulls Money Out of Banks](https://lifehacker.com/heres-what-happens-when-everyone-panics-and-pulls-money-1850323040)
 - [Lifehacker] [You Should Absolutely Make This Spam and Tater Tot Casserole](https://lifehacker.com/you-should-absolutely-make-this-spam-and-tater-tot-cass-1850321231)
 - [Lifehacker] [Travel Cheap and Watch the 2024 Paris Olympics Ceremony for Free](https://lifehacker.com/travel-cheap-and-watch-the-2024-paris-olympics-ceremony-1850320924)
