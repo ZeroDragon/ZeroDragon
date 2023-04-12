@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [When to use currying in JavaScript](https://dev.to/slimtim10/when-to-use-currying-in-javascript-1cn4)
 - [Dev.to/JS] [Creating a browser extension that generates strong passwords!💪](https://dev.to/ramirezmz/creating-a-browser-extension-that-generates-strong-passwords-59je)
 - [Dev.to/JS] [Making Your NPM Package Executable](https://dev.to/orkhanhuseyn/making-your-npm-package-executable-1j0b)
 - [Dev.to/JS] [Don&#39;t join Tech](https://dev.to/ifeanyichima/dont-join-tech-2e8m)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Freeze This Fancy Citrus Fruit Before the Season Ends](https://lifehacker.com/freeze-this-fancy-citrus-fruit-before-the-season-ends-1850325665)
 - [Dev.to/JS] [Desvendando Closure Javascript](https://dev.to/taisesoares/desvendando-closure-javascript-26nn)
 - [Lifehacker] [Why &#39;Foodscaping&#39; Is Better Than Regular Landscaping](https://lifehacker.com/why-foodscaping-is-better-than-regular-landscaping-1850323854)
-- [Dev.to/JS] [Apity: A typed HTTP client for Svelte&lpar;Kit&rpar;](https://dev.to/fbjorn/a-typed-http-client-for-sveltekit-88b)
 - [Lifehacker] [Turn a Garden Planter Into Secret Storage](https://lifehacker.com/turn-a-garden-planter-into-secret-storage-1850323898)
 - [Lifehacker] [You Can Get a Year of Peacock Premium for $20 Right Now](https://lifehacker.com/you-can-get-a-year-of-peacock-premium-for-20-right-now-1850324923)
 - [Lifehacker] [Understand YouTube&#39;s New &#39;1080p Premium&#39; Before You Subscribe for It](https://lifehacker.com/understand-youtubes-new-1080p-premium-before-you-subscr-1850323235)
