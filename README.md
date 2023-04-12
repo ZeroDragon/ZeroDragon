@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The End of Create-React-App](https://dev.to/codenamegrant/the-end-of-create-react-app-4o01)
 - [Dev.to/JS] [How to Learn React — A step-by-step guide from beginner to advanced.](https://dev.to/sukr92329/how-to-learn-react-a-step-by-step-guide-from-beginner-to-advanced-1gek)
 - [Dev.to/JS] [Weekly web development resources #144](https://dev.to/vincenius/weekly-web-development-resources-144-3m1j)
 - [Dev.to/JS] [Launch of The Most Requested Youtube Channel Related To Web Development](https://dev.to/myogeshchavan97/launch-of-the-most-requested-youtube-channel-related-to-web-development-4n6c)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Coding Subconsciously 🤯](https://dev.to/aoppman/coding-subconsciously-5g80)
 - [Dev.to/JS] [🎒 localStorage or 🍪 cookies : What&#39;s the difference?](https://dev.to/daniellimae/localstorage-or-cookies-whats-the-difference-25ho)
 - [Dev.to/JS] [Nice to be here!](https://dev.to/dave126/nice-to-be-here-1no0)
-- [Dev.to/JS] [DIFFERENCE BETWEEN BACK-END , FRONT-END AND API TOGETHER WITH TOOLS AND FRAMEWORKS FOR EACH.](https://dev.to/kamauruth/difference-between-back-end-front-end-and-api-together-with-tools-and-frameworks-for-each-1b73)
 - [Lifehacker] [Here&#39;s What Happens When Everyone Panics and Pulls Money Out of Banks](https://lifehacker.com/heres-what-happens-when-everyone-panics-and-pulls-money-1850323040)
 - [Lifehacker] [You Should Absolutely Make This Spam and Tater Tot Casserole](https://lifehacker.com/you-should-absolutely-make-this-spam-and-tater-tot-cass-1850321231)
 - [Lifehacker] [Travel Cheap and Watch the 2024 Paris Olympics Ceremony for Free](https://lifehacker.com/travel-cheap-and-watch-the-2024-paris-olympics-ceremony-1850320924)
