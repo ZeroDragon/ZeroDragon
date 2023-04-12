@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nice to be here!](https://dev.to/dave126/nice-to-be-here-1no0)
+- [Dev.to/JS] [DIFFERENCE BETWEEN BACK-END , FRONT-END AND API TOGETHER WITH TOOLS AND FRAMEWORKS FOR EACH.](https://dev.to/kamauruth/difference-between-back-end-front-end-and-api-together-with-tools-and-frameworks-for-each-1b73)
+- [Dev.to/JS] [3 principles of OOP in JavaScript](https://dev.to/keento0809/3-principles-of-oop-in-javascript-ml9)
 - [Dev.to/JS] [UseEffect vs UseLayoutEffect in React](https://dev.to/asayerio_techblog/useeffect-vs-uselayouteffect-in-react-28pf)
 - [Dev.to/JS] [Forever Functional: Decorators - new style higher order functions](https://dev.to/asayerio_techblog/forever-functional-decorators-new-style-higher-order-functions-2apc)
 - [Dev.to/JS] [Episode 23/14: Signals RFC Distilled](https://dev.to/ng_news/episode-2314-signals-rfc-distilled-32kd)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Micro Frontends using React, Module Federation, Webpack 5](https://dev.to/sandeepchintala/micro-frontends-using-react-module-federation-webpack-5-jio)
 - [Dev.to/JS] [Vue.js for Beginners #2](https://dev.to/ericnanhu/vuejs-for-beginners-2-766)
 - [Dev.to/JS] [Criando um algoritmo de pesquisa em largura em grafos](https://dev.to/antiduhring/criando-um-algoritmo-de-pesquisa-em-largura-em-grafos-3af3)
-- [Dev.to/JS] [Vue.js for Beginners #1](https://dev.to/ericnanhu/vuejs-for-beginners-1-4ilc)
-- [Dev.to/JS] [The Importance of Responsive Design and How to Achieve it with Uikit](https://dev.to/azmideliaslan/the-importance-of-responsive-design-and-how-to-achieve-it-with-uikit-2ng3)
-- [Dev.to/JS] [Utilize a desestruturação &lpar;destructuring&rpar; para extrair valores de objetos e arrays de forma mais concisa e legível.](https://dev.to/eliasgabriel1/utilize-a-desestruturacao-destructuring-para-extrair-valores-de-objetos-e-arrays-de-forma-mais-concisa-e-legivel-25ai)
 - [Lifehacker] [Here&#39;s What Happens When Everyone Panics and Pulls Money Out of Banks](https://lifehacker.com/heres-what-happens-when-everyone-panics-and-pulls-money-1850323040)
 - [Lifehacker] [You Should Absolutely Make This Spam and Tater Tot Casserole](https://lifehacker.com/you-should-absolutely-make-this-spam-and-tater-tot-cass-1850321231)
 - [Lifehacker] [Travel Cheap and Watch the 2024 Paris Olympics Ceremony for Free](https://lifehacker.com/travel-cheap-and-watch-the-2024-paris-olympics-ceremony-1850320924)
