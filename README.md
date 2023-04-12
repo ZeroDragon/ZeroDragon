@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [UseEffect vs UseLayoutEffect in React](https://dev.to/asayerio_techblog/useeffect-vs-uselayouteffect-in-react-28pf)
+- [Dev.to/JS] [Forever Functional: Decorators - new style higher order functions](https://dev.to/asayerio_techblog/forever-functional-decorators-new-style-higher-order-functions-2apc)
+- [Dev.to/JS] [Episode 23/14: Signals RFC Distilled](https://dev.to/ng_news/episode-2314-signals-rfc-distilled-32kd)
+- [Dev.to/JS] [Understanding the power of eth_getBlockReceipts](https://dev.to/tabasco/understanding-the-power-of-ethgetblockreceipts-3hbg)
 - [Dev.to/JS] [Using &#39;Faker&#39; to Generate Fake Data](https://dev.to/dfarlz97/using-faker-to-generate-fake-data-39in)
 - [Dev.to/JS] [How to integrate Google Calendar events using Google OAuth2](https://dev.to/juancmandev/how-to-integrate-google-calendar-events-using-google-oauth2-51b9)
 - [Dev.to/JS] [Micro Frontends using React, Module Federation, Webpack 5](https://dev.to/sandeepchintala/micro-frontends-using-react-module-federation-webpack-5-jio)
@@ -33,11 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Utilize a desestruturação &lpar;destructuring&rpar; para extrair valores de objetos e arrays de forma mais concisa e legível.](https://dev.to/eliasgabriel1/utilize-a-desestruturacao-destructuring-para-extrair-valores-de-objetos-e-arrays-de-forma-mais-concisa-e-legivel-25ai)
 - [Lifehacker] [Here&#39;s What Happens When Everyone Panics and Pulls Money Out of Banks](https://lifehacker.com/heres-what-happens-when-everyone-panics-and-pulls-money-1850323040)
 - [Lifehacker] [You Should Absolutely Make This Spam and Tater Tot Casserole](https://lifehacker.com/you-should-absolutely-make-this-spam-and-tater-tot-cass-1850321231)
-- [Dev.to/JS] [☞ Should we use Global State?](https://dev.to/saxenanickk/should-we-use-global-state-177d)
-- [Dev.to/JS] [জাভাস্ক্রিপ্ট ডেটা স্ট্রাকচার - অবজেক্ট](https://dev.to/muhidhossain/jaabhaaskriptt-ddettaa-sttraakcaar-abjektt-ege)
 - [Lifehacker] [Travel Cheap and Watch the 2024 Paris Olympics Ceremony for Free](https://lifehacker.com/travel-cheap-and-watch-the-2024-paris-olympics-ceremony-1850320924)
-- [Dev.to/JS] [What&#39;s up with so many Javascript frameworks?](https://dev.to/laurxnemeth/whats-up-with-so-many-javascript-frameworks-3335)
-- [Dev.to/JS] [React Event Handling.](https://dev.to/taahahussainkhan/react-event-handling-2d0g)
 - [Lifehacker] [Don&#39;t Use a Wire Brush to Clean Your Grill &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-a-wire-brush-to-clean-your-grill-do-this-inst-1850320096)
 - [Lifehacker] [You Can Get a Free McDonald’s Big Mac Right Now](https://lifehacker.com/you-can-get-a-free-mcdonald-s-big-mac-right-now-1850319970)
 - [Lifehacker] [Keep a Melted Butter Jar Near Your Stove](https://lifehacker.com/keep-a-melted-butter-jar-near-your-stove-1850320132)
