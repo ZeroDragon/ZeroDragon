@@ -23,8 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [It&#39;s Time to Start Growing Your Own Seedlings](https://lifehacker.com/its-time-to-start-growing-your-own-seedlings-1850320150)
+- [Dev.to/JS] [Java and Typescript](https://dev.to/cricketsamya/java-and-typescript-4pdh)
+- [Dev.to/JS] [What Is Vite.js &amp; Why It Is Better Than Webpack?](https://dev.to/makemychance/what-is-vitejs-why-it-is-better-than-webpack-4lde)
+- [Lifehacker] [How to Eat Magic Mushrooms Without Gagging](https://lifehacker.com/how-to-eat-magic-mushrooms-without-gagging-1850320771)
+- [Dev.to/JS] [Use Vue Exit Intent | A Vue Composable](https://dev.to/nickap/use-vue-exit-intent-a-vue-composable-396l)
 - [Dev.to/JS] [The Most Common Mistakes When Using React](https://dev.to/clarity89/the-most-common-mistakes-when-using-react-nbj)
-- [Dev.to/JS] [How to implement dark mode in React using tailwind CSS](https://dev.to/devwares/how-to-implement-dark-mode-in-react-using-tailwind-css-18i4)
+- [Lifehacker] [This Pancake Breakfast Sandwich Is Better Than a McGriddle](https://lifehacker.com/this-pancake-breakfast-sandwich-is-better-than-a-mcgrid-1850325458)
 - [Dev.to/JS] [Minimum Window Substring | JavaScript](https://dev.to/nickap/minimum-window-substring-javascript-2nnd)
 - [Dev.to/JS] [7 best practices for arrays in javascript](https://dev.to/navinmishra1717/7-best-practices-for-arrays-in-javascript-9ge)
 - [Dev.to/JS] [Javascript Object #8](https://dev.to/samr/javascript-object-8-3k6m)
@@ -33,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A flexible nodejs crawler library —— x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-crawler-library-x-crawl-2pla)
 - [Dev.to/JS] [openGauss Known Issues](https://dev.to/olivia_ma_350e4f6e00893e3/opengauss-known-issues-4gbl)
 - [Dev.to/JS] [Internationalization &lpar;i18n&rpar; in Next.js 13 with React Server Components](https://dev.to/crowdin/internationalization-i18n-in-nextjs-13-with-react-server-components-2jod)
-- [Dev.to/JS] [Automation of API Testing using CodeParrot](https://dev.to/royaljain/automation-of-api-testing-using-codeparrot-3ic2)
-- [Dev.to/JS] [openGauss Operating Environment](https://dev.to/olivia_ma_350e4f6e00893e3/opengauss-operating-environment-4790)
 - [Lifehacker] [Here&#39;s What Happens When Everyone Panics and Pulls Money Out of Banks](https://lifehacker.com/heres-what-happens-when-everyone-panics-and-pulls-money-1850323040)
 - [Lifehacker] [You Should Absolutely Make This Spam and Tater Tot Casserole](https://lifehacker.com/you-should-absolutely-make-this-spam-and-tater-tot-cass-1850321231)
 - [Lifehacker] [Travel Cheap and Watch the 2024 Paris Olympics Ceremony for Free](https://lifehacker.com/travel-cheap-and-watch-the-2024-paris-olympics-ceremony-1850320924)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Baby Your Eggs, Coddle Them](https://lifehacker.com/dont-baby-your-eggs-coddle-them-1850314208)
 - [Lifehacker] [The Lies Employers Tell You During Job Interviews](https://lifehacker.com/the-lies-employers-tell-you-during-job-interviews-1850307753)
 - [Lifehacker] [All the Ways Your Bank Will Try to Rip You Off](https://lifehacker.com/all-the-ways-your-bank-will-try-to-rip-you-off-1850312694)
-- [Lifehacker] [You Should Be Browsing the Web in Split-Screen](https://lifehacker.com/you-should-be-browsing-the-web-in-split-screen-1850311393)
-- [Lifehacker] [Why Your Vacuum Smells Bad &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-your-vacuum-smells-bad-and-how-to-fix-it-1850315877)
-- [Lifehacker] [How to Attract Bats to Your Yard &lpar;and Why You&#39;d Want To&rpar;](https://lifehacker.com/how-to-attract-bats-to-your-yard-and-why-youd-want-to-1850315881)
-- [Lifehacker] [Unexpected Ways You Can Use Orange Peels In Your Kitchen](https://lifehacker.com/unexpected-ways-you-can-use-orange-peels-in-your-kitche-1850315885)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Be Browsing the Web in Split-Screen](https://lifehacker.com/you-should-be-browsing-the-web-in-split-screen-1850311393)<!-- TECH-POSTS:END -->
 
 ---
 
