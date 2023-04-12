@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A flexible nodejs crawler library —— x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-crawler-library-x-crawl-2pla)
+- [Dev.to/JS] [openGauss Known Issues](https://dev.to/olivia_ma_350e4f6e00893e3/opengauss-known-issues-4gbl)
+- [Dev.to/JS] [Internationalization &lpar;i18n&rpar; in Next.js 13 with React Server Components](https://dev.to/crowdin/internationalization-i18n-in-nextjs-13-with-react-server-components-2jod)
+- [Dev.to/JS] [openGauss Operating Environment](https://dev.to/olivia_ma_350e4f6e00893e3/opengauss-operating-environment-4790)
 - [Dev.to/JS] [The End of Create-React-App](https://dev.to/codenamegrant/the-end-of-create-react-app-4o01)
 - [Dev.to/JS] [How to Learn React — A step-by-step guide from beginner to advanced.](https://dev.to/sukr92329/how-to-learn-react-a-step-by-step-guide-from-beginner-to-advanced-1gek)
 - [Dev.to/JS] [Weekly web development resources #144](https://dev.to/vincenius/weekly-web-development-resources-144-3m1j)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Axios in Node? Have a look at got](https://dev.to/andreasbergstrom/using-axios-in-node-have-a-look-at-got-2690)
 - [Dev.to/JS] [Javascript Object #7](https://dev.to/samr/javascript-object-7-9ie)
 - [Dev.to/JS] [Currying in Javascript](https://dev.to/ngquan/currying-in-javascript-45ce)
-- [Dev.to/JS] [The Often-Overlooked Secret to Building Your Reputation as a Software Engineer](https://dev.to/ashutosh00710/the-often-overlooked-secret-to-building-your-reputation-as-a-software-engineer-53pp)
-- [Dev.to/JS] [Coding Subconsciously 🤯](https://dev.to/aoppman/coding-subconsciously-5g80)
-- [Dev.to/JS] [🎒 localStorage or 🍪 cookies : What&#39;s the difference?](https://dev.to/daniellimae/localstorage-or-cookies-whats-the-difference-25ho)
-- [Dev.to/JS] [Nice to be here!](https://dev.to/dave126/nice-to-be-here-1no0)
 - [Lifehacker] [Here&#39;s What Happens When Everyone Panics and Pulls Money Out of Banks](https://lifehacker.com/heres-what-happens-when-everyone-panics-and-pulls-money-1850323040)
 - [Lifehacker] [You Should Absolutely Make This Spam and Tater Tot Casserole](https://lifehacker.com/you-should-absolutely-make-this-spam-and-tater-tot-cass-1850321231)
 - [Lifehacker] [Travel Cheap and Watch the 2024 Paris Olympics Ceremony for Free](https://lifehacker.com/travel-cheap-and-watch-the-2024-paris-olympics-ceremony-1850320924)
