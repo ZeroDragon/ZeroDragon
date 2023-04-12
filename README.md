@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code-Along: Implementing &#39;Search By Criteria&#39; Functionality with React, Formik, and Flask-SQLAlchemy](https://dev.to/baspin94/code-along-implementing-search-by-criteria-functionality-with-react-formik-and-flask-sqlalchemy-3gh6)
+- [Dev.to/JS] [How to track PICT Container Tracking](https://dev.to/sycie35454/how-to-track-pict-container-tracking-3p62)
 - [Dev.to/JS] [5 Cool Chat GPT Project Ideas Any Developer Can Build!](https://dev.to/hackertab/5-cool-chat-gpt-project-ideas-any-developer-can-build-5f3k)
 - [Dev.to/JS] [Utilize o spread operator para copiar objetos e arrays de forma imutável.](https://dev.to/eliasgabriel1/utilize-o-spread-operator-para-copiar-objetos-e-arrays-de-forma-imutavel-46gp)
 - [Lifehacker] [Why You Should Update Your PC ASAP](https://lifehacker.com/why-you-should-update-your-pc-asap-1850327315)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mobile-first or Desktop-first development?](https://dev.to/dumebii/mobile-first-or-desktop-first-development-4m24)
 - [Lifehacker] [Turn a Garden Planter Into Secret Storage](https://lifehacker.com/turn-a-garden-planter-into-secret-storage-1850323898)
 - [Dev.to/JS] [Please Help!](https://dev.to/blutoo_0/please-help-189j)
-- [Dev.to/JS] [Javascript: on clone des robots !](https://dev.to/younup/javascript-on-clone-des-robots--4afn)
-- [Dev.to/JS] [How Authentication and Authorization Work for SPAs](https://dev.to/oktadev/how-authentication-and-authorization-work-for-spas-1e4h)
 - [Lifehacker] [You Can Get a Year of Peacock Premium for $20 Right Now](https://lifehacker.com/you-can-get-a-year-of-peacock-premium-for-20-right-now-1850324923)
 - [Lifehacker] [Understand YouTube&#39;s New &#39;1080p Premium&#39; Before You Subscribe for It](https://lifehacker.com/understand-youtubes-new-1080p-premium-before-you-subscr-1850323235)
 - [Lifehacker] [Let a Shoelace Water Your Plants for You](https://lifehacker.com/let-a-shoelace-water-your-plants-for-you-1850323984)
