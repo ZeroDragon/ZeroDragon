@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get a Year of Peacock Premium for $20 Right Now](https://lifehacker.com/you-can-get-a-year-of-peacock-premium-for-20-right-now-1850324923)
+- [Dev.to/JS] [How does useEffect really work?](https://dev.to/charliekroon/how-does-useeffect-really-work-5496)
+- [Lifehacker] [Understand YouTube&#39;s New &#39;1080p Premium&#39; Before You Subscribe for It](https://lifehacker.com/understand-youtubes-new-1080p-premium-before-you-subscr-1850323235)
+- [Dev.to/JS] [Signals Sub-RFC 3 — New Angular Reactive Approach or a Path to Confusion?](https://dev.to/this-is-angular/signals-sub-rfc-3-new-angular-reactive-approach-or-a-path-to-confusion-1kkm)
+- [Dev.to/JS] [Introduction to serverless databases with faunadb and python](https://dev.to/feranmiodugbemi/introduction-to-serverless-databases-with-faunadb-and-python-4gb8)
+- [Lifehacker] [Let a Shoelace Water Your Plants for You](https://lifehacker.com/let-a-shoelace-water-your-plants-for-you-1850323984)
 - [Lifehacker] [The Comstock Act Is One of America&#39;s Weirdest and Dumbest Laws](https://lifehacker.com/the-comstock-act-is-one-of-americas-weirdest-and-dumbes-1850323620)
 - [Dev.to/JS] [How to Create React Tabs with Tailwind CSS.](https://dev.to/devwares/how-to-create-react-tabs-with-tailwind-css-554l)
 - [Dev.to/JS] [Revolutionize Your React App with Redux: A Beginner&#39;s Guide to Simplifying State Management&lpar;PART 2&rpar;](https://dev.to/clericcoder/revolutionize-your-react-app-with-redux-a-beginners-guide-to-simplifying-state-managementpart-2-ffi)
@@ -36,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Most Common Mistakes When Using React](https://dev.to/clarity89/the-most-common-mistakes-when-using-react-nbj)
 - [Lifehacker] [This Pancake Breakfast Sandwich Is Better Than a McGriddle](https://lifehacker.com/this-pancake-breakfast-sandwich-is-better-than-a-mcgrid-1850325458)
 - [Dev.to/JS] [Minimum Window Substring | JavaScript](https://dev.to/nickap/minimum-window-substring-javascript-2nnd)
-- [Dev.to/JS] [7 best practices for arrays in javascript](https://dev.to/navinmishra1717/7-best-practices-for-arrays-in-javascript-9ge)
-- [Dev.to/JS] [Javascript Object #8](https://dev.to/samr/javascript-object-8-3k6m)
-- [Dev.to/JS] [How to Write a GraphQL Query](https://dev.to/fimber01/how-to-write-a-graphql-query-5bbn)
 - [Lifehacker] [Here&#39;s What Happens When Everyone Panics and Pulls Money Out of Banks](https://lifehacker.com/heres-what-happens-when-everyone-panics-and-pulls-money-1850323040)
 - [Lifehacker] [You Should Absolutely Make This Spam and Tater Tot Casserole](https://lifehacker.com/you-should-absolutely-make-this-spam-and-tater-tot-cass-1850321231)
 - [Lifehacker] [Travel Cheap and Watch the 2024 Paris Olympics Ceremony for Free](https://lifehacker.com/travel-cheap-and-watch-the-2024-paris-olympics-ceremony-1850320924)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [OpenAI’s &#39;Pay As You Go&#39; Is the Best Way to Use ChatGPT](https://lifehacker.com/openai-s-pay-as-you-go-is-the-best-way-to-use-chatgpt-1850318349)
 - [Lifehacker] [How to Spot a Gross Motor Delay in Your Child](https://lifehacker.com/how-to-spot-a-gross-motor-delay-in-your-child-1850313484)
 - [Lifehacker] [How to Get Reimbursed for COVID Tests Before Insurance Stops Paying](https://lifehacker.com/how-to-get-reimbursed-for-covid-tests-before-insurance-1850314482)
-- [Lifehacker] [Get a Free Sonic Cheeseburger When You Buy Anything. Even a Cup of Ice](https://lifehacker.com/get-a-free-sonic-cheeseburger-when-you-buy-anything-ev-1850313703)
-- [Lifehacker] [Don&#39;t Baby Your Eggs, Coddle Them](https://lifehacker.com/dont-baby-your-eggs-coddle-them-1850314208)
-- [Lifehacker] [The Lies Employers Tell You During Job Interviews](https://lifehacker.com/the-lies-employers-tell-you-during-job-interviews-1850307753)
-- [Lifehacker] [All the Ways Your Bank Will Try to Rip You Off](https://lifehacker.com/all-the-ways-your-bank-will-try-to-rip-you-off-1850312694)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Get a Free Sonic Cheeseburger When You Buy Anything. Even a Cup of Ice](https://lifehacker.com/get-a-free-sonic-cheeseburger-when-you-buy-anything-ev-1850313703)<!-- TECH-POSTS:END -->
 
 ---
 
