@@ -23,8 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Update Your PC ASAP](https://lifehacker.com/why-you-should-update-your-pc-asap-1850327315)
+- [Dev.to/JS] [Independent and flexible: Why Vanilla JavaScript is the best choice for developers to learn](https://dev.to/volker_schukai/independent-and-flexible-why-vanilla-javascript-is-the-best-choice-for-developers-to-learn-4m43)
+- [Lifehacker] [What You Should Know About Strep Throat and the Amoxicillin Shortage](https://lifehacker.com/what-you-should-know-about-strep-throat-and-the-amoxici-1850325262)
 - [Dev.to/JS] [Introducing tutim.io - A Headless, API-first, and Developer-led User Flow Platform](https://dev.to/eylonmiz/introducing-tutimio-a-headless-api-first-and-developer-led-user-flow-platform-295n)
-- [Dev.to/JS] [I made Ultimate Random Generator which can make Everything](https://dev.to/samchon/i-made-ultimate-random-generator-which-can-make-everything-5a65)
+- [Lifehacker] [Don&#39;t Forget the New Federal Tax Deadline This Year](https://lifehacker.com/dont-forget-the-new-federal-tax-deadline-this-year-1850325399)
+- [Dev.to/JS] [[TS] I made Ultimate Random Generator which can make Everything](https://dev.to/samchon/i-made-ultimate-random-generator-which-can-make-everything-5a65)
 - [Lifehacker] [Freeze This Fancy Citrus Fruit Before the Season Ends](https://lifehacker.com/freeze-this-fancy-citrus-fruit-before-the-season-ends-1850325665)
 - [Lifehacker] [Why &#39;Foodscaping&#39; Is Better Than Regular Landscaping](https://lifehacker.com/why-foodscaping-is-better-than-regular-landscaping-1850323854)
 - [Dev.to/JS] [Apity: A typed HTTP client for Svelte&lpar;Kit&rpar;](https://dev.to/fbjorn/a-typed-http-client-for-sveltekit-88b)
@@ -39,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How does useEffect really work?](https://dev.to/charliekroon/how-does-useeffect-really-work-5496)
 - [Lifehacker] [Understand YouTube&#39;s New &#39;1080p Premium&#39; Before You Subscribe for It](https://lifehacker.com/understand-youtubes-new-1080p-premium-before-you-subscr-1850323235)
 - [Dev.to/JS] [Signals Sub-RFC 3 — New Angular Reactive Approach or a Path to Confusion?](https://dev.to/this-is-angular/signals-sub-rfc-3-new-angular-reactive-approach-or-a-path-to-confusion-1kkm)
-- [Dev.to/JS] [Introduction to serverless databases with faunadb and python](https://dev.to/feranmiodugbemi/introduction-to-serverless-databases-with-faunadb-and-python-4gb8)
 - [Lifehacker] [Let a Shoelace Water Your Plants for You](https://lifehacker.com/let-a-shoelace-water-your-plants-for-you-1850323984)
 - [Lifehacker] [The Comstock Act Is One of America&#39;s Weirdest and Dumbest Laws](https://lifehacker.com/the-comstock-act-is-one-of-americas-weirdest-and-dumbes-1850323620)
 - [Lifehacker] [It&#39;s Time to Start Growing Your Own Seedlings](https://lifehacker.com/its-time-to-start-growing-your-own-seedlings-1850320150)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Twitter Circle Isn’t Actually Private Right Now](https://lifehacker.com/your-twitter-circle-isn-t-actually-private-right-now-1850320575)
 - [Lifehacker] [Wrap Your Mozzarella Sticks in a Blanket of Crispy Cheese](https://lifehacker.com/wrap-your-mozzarella-sticks-in-a-blanket-of-crispy-chee-1850320920)
 - [Lifehacker] [Three Creative Ways to Paint Your Boring Room](https://lifehacker.com/three-creative-ways-to-paint-your-boring-room-1850313019)
-- [Lifehacker] [Your iPhone Is Still Vulnerable When It Is Locked](https://lifehacker.com/your-iphone-is-still-vulnerable-when-it-is-locked-1850318663)
-- [Lifehacker] [Over Half a Million of These Hondas Are Being Recalled](https://lifehacker.com/over-half-a-million-of-these-hondas-are-being-recalled-1850314065)
-- [Lifehacker] [It&#39;s Time to Start Taking Your Spring Allergies Seriously](https://lifehacker.com/its-time-to-start-taking-your-spring-allergies-seriousl-1850313310)
-- [Lifehacker] [OpenAI’s &#39;Pay As You Go&#39; Is the Best Way to Use ChatGPT](https://lifehacker.com/openai-s-pay-as-you-go-is-the-best-way-to-use-chatgpt-1850318349)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your iPhone Is Still Vulnerable When It Is Locked](https://lifehacker.com/your-iphone-is-still-vulnerable-when-it-is-locked-1850318663)<!-- TECH-POSTS:END -->
 
 ---
 
