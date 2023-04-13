@@ -23,12 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ReVen: a Reverse Engineering Toolkit AIO](https://dev.to/jakiboy/reven-a-reverse-engineering-toolkit-aio-1obn)
 - [Dev.to/JS] [Hand-built smoothScrollTo&lpar;&rpar; Implementation](https://dev.to/nat_davydova/hand-built-smoothscrollto-implementation-3383)
 - [Dev.to/JS] [Qual a diferença entre .map, .for e .forEach?](https://dev.to/eliasgabriel1/qual-a-diferenca-entre-map-for-e-foreach-20ok)
 - [Lifehacker] [Get a One-Year Sam&#39;s Club Membership for $10 Right Now](https://lifehacker.com/get-a-one-year-sams-club-membership-for-10-right-now-1850333329)
 - [Dev.to/JS] [Set up a modern Node.js API service by running one command](https://dev.to/jinnatul/set-up-a-modern-nodejs-api-service-by-running-one-command-28bm)
 - [Lifehacker] [How to Watch the Lyrid Meteor Shower This Month](https://lifehacker.com/how-to-watch-the-lyrid-meteor-shower-this-month-1850333564)
-- [Dev.to/JS] [Generate thumbhash at edge for tiny progressive images](https://dev.to/bryce/generate-thumbhash-at-edge-for-tiny-progressive-images-282h)
+- [Dev.to/JS] [Generate placeholder images at edge with thumbhash](https://dev.to/bryce/generate-thumbhash-at-edge-for-tiny-progressive-images-282h)
 - [Lifehacker] [How to Win at &#39;Digits,&#39; the New Wordle for Math](https://lifehacker.com/how-to-win-at-digits-the-new-wordle-for-math-1850333000)
 - [Dev.to/JS] [How to include JS in android APP?](https://dev.to/sirhh01/how-to-include-js-in-android-app-5h5o)
 - [Lifehacker] [All the New Features in Android 14&#39;s First Beta](https://lifehacker.com/all-the-new-features-in-android-14s-first-beta-1850332344)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What you have to learn before React](https://dev.to/nicozerpa/what-you-have-to-learn-before-react-1pi7)
 - [Lifehacker] [This Interactive Map Shows the Most Common Scams in Your Area](https://lifehacker.com/this-interactive-map-shows-the-most-common-scams-in-you-1850325327)
 - [Dev.to/JS] [React API for JavaScript Devs](https://dev.to/vivekalhat/react-api-for-javascript-devs-8d4)
-- [Dev.to/JS] [this is for anyone in their later 30s, wanting to get into coding](https://dev.to/mcwhopper63/this-is-for-anyone-in-their-later-30s-wanting-to-get-into-coding-1182)
 - [Lifehacker] [Seven Savory Ways to Use Up That Last Bit of Easter Ham](https://lifehacker.com/seven-savory-ways-to-use-up-that-last-bit-of-easter-ham-1850328105)
 - [Lifehacker] [Your Clothespins Can Tell You When to Do Laundry](https://lifehacker.com/your-clothespins-can-tell-you-when-to-do-laundry-1850327313)
 - [Lifehacker] [Let&#39;s Bring Back the Dumbbell Swing](https://lifehacker.com/lets-bring-back-the-dumbbell-swing-1850328581)
