@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Display your Resumé PDF on your Website](https://dev.to/binhngo/display-your-resume-pdf-on-your-website-50k3)
+- [Dev.to/JS] [Testing React apps with Testing library](https://dev.to/clickpesa/testing-react-apps-with-testing-library-37p4)
 - [Dev.to/JS] [When to use currying in JavaScript](https://dev.to/slimtim10/when-to-use-currying-in-javascript-1cn4)
 - [Dev.to/JS] [Creating a browser extension that generates strong passwords!💪](https://dev.to/ramirezmz/creating-a-browser-extension-that-generates-strong-passwords-59je)
 - [Dev.to/JS] [Making Your NPM Package Executable](https://dev.to/orkhanhuseyn/making-your-npm-package-executable-1j0b)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Niklaus Wirth Biography](https://www.thecrazyprogrammer.com/2023/04/niklaus-wirth-biography.html)
 - [Dev.to/JS] [Introducing tutim.io - A Headless, API-first, and Developer-led User Flow Platform](https://dev.to/eylonmiz/introducing-tutimio-a-headless-api-first-and-developer-led-user-flow-platform-295n)
 - [Lifehacker] [Don&#39;t Forget the New Federal Tax Deadline This Year](https://lifehacker.com/dont-forget-the-new-federal-tax-deadline-this-year-1850325399)
-- [Dev.to/JS] [[TS] I made Ultimate Random Generator which can make Everything](https://dev.to/samchon/i-made-ultimate-random-generator-which-can-make-everything-5a65)
 - [Lifehacker] [Freeze This Fancy Citrus Fruit Before the Season Ends](https://lifehacker.com/freeze-this-fancy-citrus-fruit-before-the-season-ends-1850325665)
-- [Dev.to/JS] [Desvendando Closure Javascript](https://dev.to/taisesoares/desvendando-closure-javascript-26nn)
 - [Lifehacker] [Why &#39;Foodscaping&#39; Is Better Than Regular Landscaping](https://lifehacker.com/why-foodscaping-is-better-than-regular-landscaping-1850323854)
 - [Lifehacker] [Turn a Garden Planter Into Secret Storage](https://lifehacker.com/turn-a-garden-planter-into-secret-storage-1850323898)
 - [Lifehacker] [You Can Get a Year of Peacock Premium for $20 Right Now](https://lifehacker.com/you-can-get-a-year-of-peacock-premium-for-20-right-now-1850324923)
