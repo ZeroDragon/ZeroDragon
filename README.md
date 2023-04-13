@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Rearrange Your Garden by Using &#39;Hidden&#39; Pots](https://lifehacker.com/rearrange-your-garden-by-using-hidden-pots-1850327240)
+- [Dev.to/JS] [Why and When Use Ng-template, NgContent, and NgContainer in Angular](https://dev.to/danywalls/why-and-when-use-ng-template-ngcontent-and-ngcontainer-in-angular-2kho)
+- [Dev.to/JS] [One SVG to Rule Them All: The Dynamic Way](https://dev.to/andreasbergstrom/one-svg-to-rule-them-all-the-dynamic-way-57k2)
+- [Dev.to/JS] [What you have to learn before React](https://dev.to/nicozerpa/what-you-have-to-learn-before-react-1pi7)
+- [Lifehacker] [This Interactive Map Shows the Most Common Scams in Your Area](https://lifehacker.com/this-interactive-map-shows-the-most-common-scams-in-you-1850325327)
+- [Dev.to/JS] [React API for JavaScript Devs](https://dev.to/vivekalhat/react-api-for-javascript-devs-8d4)
+- [Dev.to/JS] [this is for anyone in their later 30s, wanting to get into coding](https://dev.to/mcwhopper63/this-is-for-anyone-in-their-later-30s-wanting-to-get-into-coding-1182)
+- [Dev.to/JS] [How to Fetch and Write data into firestore cloud. Beginners Guide.](https://dev.to/isreal/how-to-fetch-and-write-data-into-firestore-cloud-beginners-guide-4jce)
+- [Dev.to/JS] [Handling Events in React](https://dev.to/shash68i/handling-events-in-react-opa)
 - [Lifehacker] [Seven Savory Ways to Use Up That Last Bit of Easter Ham](https://lifehacker.com/seven-savory-ways-to-use-up-that-last-bit-of-easter-ham-1850328105)
 - [Dev.to/JS] [My Coding](https://dev.to/kryslynn230/my-coding-1dl6)
 - [Dev.to/JS] [Creating a recommender system in 10 lines of javascript](https://dev.to/eerk/creating-a-recommender-system-in-10-lines-of-javascript-2409)
@@ -32,18 +41,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Números Trigêmeos](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-numeros-trigemeos-j03)
 - [Dev.to/JS] [Why use modules in javascript ,](https://dev.to/ikechukwu411/why-use-modules-in-javascript--3j4h)
 - [Lifehacker] [Six Places to Find Inspiration When You Don&#39;t Know WTF to Eat for Dinner](https://lifehacker.com/six-places-to-find-inspiration-when-you-dont-know-wtf-t-1850328218)
-- [Dev.to/JS] [JavaScript Practice: Building an Analog Clock](https://dev.to/adremy/javascript-practice-building-an-analog-clock-3k46)
 - [Lifehacker] [How to Make Your Smart TV ‘Dumber’ &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-make-your-smart-tv-dumber-and-why-you-should-1850327166)
-- [Dev.to/JS] [RESALA SYSTEMS](https://dev.to/resalasystems1/resala-systems-4a1o)
 - [Lifehacker] [Why You Shouldn&#39;t Use Public Phone Chargers, According to the FBI](https://lifehacker.com/why-you-shouldnt-use-public-phone-chargers-according-t-1850323960)
-- [Dev.to/JS] [How to do in-memory Caching using ReactJS](https://dev.to/vijendra/how-to-do-in-memory-caching-using-reactjs-3p55)
 - [Lifehacker] [This Shortcut Brings the Power of AI to Your iPhone](https://lifehacker.com/this-shortcut-brings-the-power-of-ai-to-your-iphone-1850322394)
-- [Dev.to/JS] [Client-Side and Server-side](https://dev.to/izzycious/client-side-and-server-side-cec)
 - [Lifehacker] [You Can Get Spirit Gold Status As a Member of These Other Loyalty Programs](https://lifehacker.com/you-can-get-spirit-gold-status-as-a-member-of-these-oth-1850330147)
 - [Lifehacker] [Here&#39;s How Much a &#39;Max&#39; Subscription Will Cost You After May 23](https://lifehacker.com/heres-how-much-a-max-subscription-will-cost-you-after-m-1850329419)
-- [Dev.to/JS] [6 Free Libraries to Create Tooltips in JavaScript](https://dev.to/syncfusion/6-free-libraries-to-create-tooltips-in-javascript-2bk4)
-- [Dev.to/JS] [Complete Guide to Tracking Website Visitors: IP Addresses, Devices, and City](https://dev.to/ondevw19812/complete-guide-to-tracking-website-visitors-ip-addresses-devices-and-city-3jh9)
-- [Dev.to/JS] [Complete Guide to Creating HTML Forms and Sending Data to Google Sheets Using API](https://dev.to/ondevw19812/complete-guide-to-creating-html-forms-and-sending-data-to-google-sheets-using-api-3584)
 - [Lifehacker] [Why You Should Update Your PC ASAP](https://lifehacker.com/why-you-should-update-your-pc-asap-1850327315)
 - [Lifehacker] [What You Should Know About Strep Throat and the Amoxicillin Shortage](https://lifehacker.com/what-you-should-know-about-strep-throat-and-the-amoxici-1850325262)
 - [Crazy Programmer] [Niklaus Wirth Biography](https://www.thecrazyprogrammer.com/2023/04/niklaus-wirth-biography.html)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Pancake Breakfast Sandwich Is Better Than a McGriddle](https://lifehacker.com/this-pancake-breakfast-sandwich-is-better-than-a-mcgrid-1850325458)
 - [Lifehacker] [Here&#39;s What Happens When Everyone Panics and Pulls Money Out of Banks](https://lifehacker.com/heres-what-happens-when-everyone-panics-and-pulls-money-1850323040)
 - [Lifehacker] [You Should Absolutely Make This Spam and Tater Tot Casserole](https://lifehacker.com/you-should-absolutely-make-this-spam-and-tater-tot-cass-1850321231)
-- [Lifehacker] [Travel Cheap and Watch the 2024 Paris Olympics Ceremony for Free](https://lifehacker.com/travel-cheap-and-watch-the-2024-paris-olympics-ceremony-1850320924)
-- [Lifehacker] [Don&#39;t Use a Wire Brush to Clean Your Grill &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-a-wire-brush-to-clean-your-grill-do-this-inst-1850320096)
-- [Lifehacker] [You Can Get a Free McDonald’s Big Mac Right Now](https://lifehacker.com/you-can-get-a-free-mcdonald-s-big-mac-right-now-1850319970)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Travel Cheap and Watch the 2024 Paris Olympics Ceremony for Free](https://lifehacker.com/travel-cheap-and-watch-the-2024-paris-olympics-ceremony-1850320924)<!-- TECH-POSTS:END -->
 
 ---
 
