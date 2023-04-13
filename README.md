@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Shortcut Brings the Power of AI to Your iPhone](https://lifehacker.com/this-shortcut-brings-the-power-of-ai-to-your-iphone-1850322394)
+- [Dev.to/JS] [Client-Side and Server-side](https://dev.to/izzycious/client-side-and-server-side-cec)
+- [Lifehacker] [You Can Get Spirit Gold Status As a Member of These Other Loyalty Programs](https://lifehacker.com/you-can-get-spirit-gold-status-as-a-member-of-these-oth-1850330147)
 - [Lifehacker] [Here&#39;s How Much a &#39;Max&#39; Subscription Will Cost You After May 23](https://lifehacker.com/heres-how-much-a-max-subscription-will-cost-you-after-m-1850329419)
 - [Dev.to/JS] [Complete Guide to Tracking Website Visitors: IP Addresses, Devices, and City](https://dev.to/ondevw19812/complete-guide-to-tracking-website-visitors-ip-addresses-devices-and-city-3jh9)
 - [Dev.to/JS] [Complete Guide to Creating HTML Forms and Sending Data to Google Sheets Using API](https://dev.to/ondevw19812/complete-guide-to-creating-html-forms-and-sending-data-to-google-sheets-using-api-3584)
@@ -35,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top NodeJS Development Company In 2023](https://dev.to/leahgreene67/top-nodejs-development-company-in-2023-id4)
 - [Dev.to/JS] [How to Improve Node.js Application Scalability](https://dev.to/folasayosamuel/how-to-improve-nodejs-application-scalability-5c1c)
 - [Dev.to/JS] [Free Robux Generator - Results, Benefits, Reviews, Pros, Cons, Scam Or Legit?](https://dev.to/robuxinfo99764/free-robux-generator-results-benefits-reviews-pros-cons-scam-or-legit-21l6)
-- [Dev.to/JS] [The Beginner&#39;s Guide to Caching: How to Improve Code Performance](https://dev.to/rishabh1409/the-beginners-guide-to-caching-how-to-improve-code-performance-hmk)
 - [Lifehacker] [Why You Should Update Your PC ASAP](https://lifehacker.com/why-you-should-update-your-pc-asap-1850327315)
 - [Lifehacker] [What You Should Know About Strep Throat and the Amoxicillin Shortage](https://lifehacker.com/what-you-should-know-about-strep-throat-and-the-amoxici-1850325262)
 - [Crazy Programmer] [Niklaus Wirth Biography](https://www.thecrazyprogrammer.com/2023/04/niklaus-wirth-biography.html)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Gamify Your Savings Goals With Sticky Notes](https://lifehacker.com/gamify-your-savings-goals-with-sticky-notes-1850319878)
 - [Lifehacker] [Here&#39;s When You Should Pay Your Taxes With a Credit Card](https://lifehacker.com/heres-when-you-should-pay-your-taxes-with-a-credit-card-1850319198)
 - [Lifehacker] [Products From Targeted Ads Might Be Worse Than You Think](https://lifehacker.com/products-from-targeted-ads-might-be-worse-than-you-thin-1850313265)
-- [Lifehacker] [Five Things That Could Save Your Life If You&#39;re Immunocompromised](https://lifehacker.com/five-things-that-could-save-your-life-if-youre-immunoco-1850315127)
-- [Lifehacker] [Your Twitter Circle Isn’t Actually Private Right Now](https://lifehacker.com/your-twitter-circle-isn-t-actually-private-right-now-1850320575)
-- [Lifehacker] [Wrap Your Mozzarella Sticks in a Blanket of Crispy Cheese](https://lifehacker.com/wrap-your-mozzarella-sticks-in-a-blanket-of-crispy-chee-1850320920)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five Things That Could Save Your Life If You&#39;re Immunocompromised](https://lifehacker.com/five-things-that-could-save-your-life-if-youre-immunoco-1850315127)<!-- TECH-POSTS:END -->
 
 ---
 
