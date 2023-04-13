@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hand-built smoothScrollTo&lpar;&rpar; Implementation](https://dev.to/nat_davydova/hand-built-smoothscrollto-implementation-3383)
 - [Dev.to/JS] [Qual a diferença entre .map, .for e .forEach?](https://dev.to/eliasgabriel1/qual-a-diferenca-entre-map-for-e-foreach-20ok)
 - [Lifehacker] [Get a One-Year Sam&#39;s Club Membership for $10 Right Now](https://lifehacker.com/get-a-one-year-sams-club-membership-for-10-right-now-1850333329)
 - [Dev.to/JS] [Set up a modern Node.js API service by running one command](https://dev.to/jinnatul/set-up-a-modern-nodejs-api-service-by-running-one-command-28bm)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Interactive Map Shows the Most Common Scams in Your Area](https://lifehacker.com/this-interactive-map-shows-the-most-common-scams-in-you-1850325327)
 - [Dev.to/JS] [React API for JavaScript Devs](https://dev.to/vivekalhat/react-api-for-javascript-devs-8d4)
 - [Dev.to/JS] [this is for anyone in their later 30s, wanting to get into coding](https://dev.to/mcwhopper63/this-is-for-anyone-in-their-later-30s-wanting-to-get-into-coding-1182)
-- [Dev.to/JS] [How to Fetch and Write data into firestore cloud. Beginners Guide.](https://dev.to/isreal/how-to-fetch-and-write-data-into-firestore-cloud-beginners-guide-4jce)
 - [Lifehacker] [Seven Savory Ways to Use Up That Last Bit of Easter Ham](https://lifehacker.com/seven-savory-ways-to-use-up-that-last-bit-of-easter-ham-1850328105)
 - [Lifehacker] [Your Clothespins Can Tell You When to Do Laundry](https://lifehacker.com/your-clothespins-can-tell-you-when-to-do-laundry-1850327313)
 - [Lifehacker] [Let&#39;s Bring Back the Dumbbell Swing](https://lifehacker.com/lets-bring-back-the-dumbbell-swing-1850328581)
