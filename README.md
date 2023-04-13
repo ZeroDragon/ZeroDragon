@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Seven Savory Ways to Use Up That Last Bit of Easter Ham](https://lifehacker.com/seven-savory-ways-to-use-up-that-last-bit-of-easter-ham-1850328105)
+- [Dev.to/JS] [My Coding](https://dev.to/kryslynn230/my-coding-1dl6)
+- [Dev.to/JS] [Creating a recommender system in 10 lines of javascript](https://dev.to/eerk/creating-a-recommender-system-in-10-lines-of-javascript-2409)
+- [Lifehacker] [Your Clothespins Can Tell You When to Do Laundry](https://lifehacker.com/your-clothespins-can-tell-you-when-to-do-laundry-1850327313)
+- [Dev.to/JS] [Request Tracing in Node.js](https://dev.to/amplication/request-tracing-in-nodejs-3k57)
 - [Lifehacker] [Let&#39;s Bring Back the Dumbbell Swing](https://lifehacker.com/lets-bring-back-the-dumbbell-swing-1850328581)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Números Trigêmeos](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-numeros-trigemeos-j03)
 - [Dev.to/JS] [Why use modules in javascript ,](https://dev.to/ikechukwu411/why-use-modules-in-javascript--3j4h)
@@ -39,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [6 Free Libraries to Create Tooltips in JavaScript](https://dev.to/syncfusion/6-free-libraries-to-create-tooltips-in-javascript-2bk4)
 - [Dev.to/JS] [Complete Guide to Tracking Website Visitors: IP Addresses, Devices, and City](https://dev.to/ondevw19812/complete-guide-to-tracking-website-visitors-ip-addresses-devices-and-city-3jh9)
 - [Dev.to/JS] [Complete Guide to Creating HTML Forms and Sending Data to Google Sheets Using API](https://dev.to/ondevw19812/complete-guide-to-creating-html-forms-and-sending-data-to-google-sheets-using-api-3584)
-- [Dev.to/JS] [Becoming an Astro maintainer](https://dev.to/eliancodes/becoming-an-astro-maintainer-4mbh)
-- [Dev.to/JS] [Building a Real-Time Chat App with Node.js and Socket.io](https://dev.to/kingsley/building-a-real-time-chat-app-with-nodejs-and-socketio-320n)
-- [Dev.to/JS] [Free 3D Illustrations library for your project](https://dev.to/jon_snow789/free-3d-illustrations-library-for-your-project-l22)
 - [Lifehacker] [Why You Should Update Your PC ASAP](https://lifehacker.com/why-you-should-update-your-pc-asap-1850327315)
 - [Lifehacker] [What You Should Know About Strep Throat and the Amoxicillin Shortage](https://lifehacker.com/what-you-should-know-about-strep-throat-and-the-amoxici-1850325262)
 - [Crazy Programmer] [Niklaus Wirth Biography](https://www.thecrazyprogrammer.com/2023/04/niklaus-wirth-biography.html)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Absolutely Make This Spam and Tater Tot Casserole](https://lifehacker.com/you-should-absolutely-make-this-spam-and-tater-tot-cass-1850321231)
 - [Lifehacker] [Travel Cheap and Watch the 2024 Paris Olympics Ceremony for Free](https://lifehacker.com/travel-cheap-and-watch-the-2024-paris-olympics-ceremony-1850320924)
 - [Lifehacker] [Don&#39;t Use a Wire Brush to Clean Your Grill &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-a-wire-brush-to-clean-your-grill-do-this-inst-1850320096)
-- [Lifehacker] [You Can Get a Free McDonald’s Big Mac Right Now](https://lifehacker.com/you-can-get-a-free-mcdonald-s-big-mac-right-now-1850319970)
-- [Lifehacker] [Keep a Melted Butter Jar Near Your Stove](https://lifehacker.com/keep-a-melted-butter-jar-near-your-stove-1850320132)
-- [Lifehacker] [Now You Can Talk to ChatGPT With Your Voice](https://lifehacker.com/now-you-can-talk-to-chatgpt-with-your-voice-1850319026)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a Free McDonald’s Big Mac Right Now](https://lifehacker.com/you-can-get-a-free-mcdonald-s-big-mac-right-now-1850319970)<!-- TECH-POSTS:END -->
 
 ---
 
