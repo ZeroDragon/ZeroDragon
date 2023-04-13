@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Delete an element in array](https://dev.to/pnishant23/delete-an-element-in-array-1pk4)
+- [Lifehacker] [How Long to Keep Every Important Financial Document](https://lifehacker.com/how-long-to-keep-every-important-financial-document-1850328770)
+- [Dev.to/JS] [6 CSS Games to help you Learn CSS Easily](https://dev.to/jon_snow789/6-css-games-to-help-you-learn-css-easily-4m3i)
 - [Lifehacker] [Rearrange Your Garden by Using &#39;Hidden&#39; Pots](https://lifehacker.com/rearrange-your-garden-by-using-hidden-pots-1850327240)
 - [Dev.to/JS] [Why and When Use Ng-template, NgContent, and NgContainer in Angular](https://dev.to/danywalls/why-and-when-use-ng-template-ngcontent-and-ngcontainer-in-angular-2kho)
 - [Dev.to/JS] [One SVG to Rule Them All: The Dynamic Way](https://dev.to/andreasbergstrom/one-svg-to-rule-them-all-the-dynamic-way-57k2)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Clothespins Can Tell You When to Do Laundry](https://lifehacker.com/your-clothespins-can-tell-you-when-to-do-laundry-1850327313)
 - [Dev.to/JS] [Request Tracing in Node.js](https://dev.to/amplication/request-tracing-in-nodejs-3k57)
 - [Lifehacker] [Let&#39;s Bring Back the Dumbbell Swing](https://lifehacker.com/lets-bring-back-the-dumbbell-swing-1850328581)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Números Trigêmeos](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-numeros-trigemeos-j03)
-- [Dev.to/JS] [Why use modules in javascript ,](https://dev.to/ikechukwu411/why-use-modules-in-javascript--3j4h)
 - [Lifehacker] [Six Places to Find Inspiration When You Don&#39;t Know WTF to Eat for Dinner](https://lifehacker.com/six-places-to-find-inspiration-when-you-dont-know-wtf-t-1850328218)
 - [Lifehacker] [How to Make Your Smart TV ‘Dumber’ &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-make-your-smart-tv-dumber-and-why-you-should-1850327166)
 - [Lifehacker] [Why You Shouldn&#39;t Use Public Phone Chargers, According to the FBI](https://lifehacker.com/why-you-shouldnt-use-public-phone-chargers-according-t-1850323960)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Eat Magic Mushrooms Without Gagging](https://lifehacker.com/how-to-eat-magic-mushrooms-without-gagging-1850320771)
 - [Lifehacker] [This Pancake Breakfast Sandwich Is Better Than a McGriddle](https://lifehacker.com/this-pancake-breakfast-sandwich-is-better-than-a-mcgrid-1850325458)
 - [Lifehacker] [Here&#39;s What Happens When Everyone Panics and Pulls Money Out of Banks](https://lifehacker.com/heres-what-happens-when-everyone-panics-and-pulls-money-1850323040)
-- [Lifehacker] [You Should Absolutely Make This Spam and Tater Tot Casserole](https://lifehacker.com/you-should-absolutely-make-this-spam-and-tater-tot-cass-1850321231)
-- [Lifehacker] [Travel Cheap and Watch the 2024 Paris Olympics Ceremony for Free](https://lifehacker.com/travel-cheap-and-watch-the-2024-paris-olympics-ceremony-1850320924)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Absolutely Make This Spam and Tater Tot Casserole](https://lifehacker.com/you-should-absolutely-make-this-spam-and-tater-tot-cass-1850321231)<!-- TECH-POSTS:END -->
 
 ---
 
