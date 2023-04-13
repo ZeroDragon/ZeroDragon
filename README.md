@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Easy money loan customer care number 👉 8250474308+/..9111868901](https://dev.to/rajkuau/easy-money-loan-customer-care-number-82504743089111868901-2ahg)
 - [Dev.to/JS] [Becoming an Astro maintainer](https://dev.to/eliancodes/becoming-an-astro-maintainer-4mbh)
 - [Dev.to/JS] [Building a Real-Time Chat App with Node.js and Socket.io](https://dev.to/kingsley/building-a-real-time-chat-app-with-nodejs-and-socketio-320n)
 - [Dev.to/JS] [Free 3D Illustrations library for your project](https://dev.to/jon_snow789/free-3d-illustrations-library-for-your-project-l22)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Without useEffect](https://dev.to/fzaninotto/react-without-useeffect-1h3g)
 - [Dev.to/JS] [Empowering Developers: Why I Built Emulative, a VSCode Extension for TypeScript Type Mocking](https://dev.to/johnfolder/empowering-developers-why-i-built-emulative-a-vscode-extension-for-typescript-type-mocking-53m2)
 - [Dev.to/JS] [What You Need to Know About Becoming a Web Developer](https://dev.to/mohamedsdz/what-you-need-to-know-about-becoming-a-web-developer-51l0)
-- [Dev.to/JS] [Load Image Source by URL React Native](https://dev.to/aspsptyd/load-image-source-by-url-react-native-1nbd)
 - [Lifehacker] [Why You Should Update Your PC ASAP](https://lifehacker.com/why-you-should-update-your-pc-asap-1850327315)
 - [Lifehacker] [What You Should Know About Strep Throat and the Amoxicillin Shortage](https://lifehacker.com/what-you-should-know-about-strep-throat-and-the-amoxici-1850325262)
 - [Crazy Programmer] [Niklaus Wirth Biography](https://www.thecrazyprogrammer.com/2023/04/niklaus-wirth-biography.html)
