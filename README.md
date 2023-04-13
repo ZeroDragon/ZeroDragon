@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Here&#39;s How Much a &#39;Max&#39; Subscription Will Cost You After May 23](https://lifehacker.com/heres-how-much-a-max-subscription-will-cost-you-after-m-1850329419)
+- [Dev.to/JS] [Complete Guide to Tracking Website Visitors: IP Addresses, Devices, and City](https://dev.to/ondevw19812/complete-guide-to-tracking-website-visitors-ip-addresses-devices-and-city-3jh9)
+- [Dev.to/JS] [Complete Guide to Creating HTML Forms and Sending Data to Google Sheets Using API](https://dev.to/ondevw19812/complete-guide-to-creating-html-forms-and-sending-data-to-google-sheets-using-api-3584)
+- [Dev.to/JS] [Apply Online Visa for Saudi](https://dev.to/sundarlalji/apply-online-visa-for-saudi-42lm)
 - [Dev.to/JS] [Easy money loan customer care number 👉 8250474308+/..9111868901](https://dev.to/rajkuau/easy-money-loan-customer-care-number-82504743089111868901-2ahg)
 - [Dev.to/JS] [Becoming an Astro maintainer](https://dev.to/eliancodes/becoming-an-astro-maintainer-4mbh)
 - [Dev.to/JS] [Building a Real-Time Chat App with Node.js and Socket.io](https://dev.to/kingsley/building-a-real-time-chat-app-with-nodejs-and-socketio-320n)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Improve Node.js Application Scalability](https://dev.to/folasayosamuel/how-to-improve-nodejs-application-scalability-5c1c)
 - [Dev.to/JS] [Free Robux Generator - Results, Benefits, Reviews, Pros, Cons, Scam Or Legit?](https://dev.to/robuxinfo99764/free-robux-generator-results-benefits-reviews-pros-cons-scam-or-legit-21l6)
 - [Dev.to/JS] [The Beginner&#39;s Guide to Caching: How to Improve Code Performance](https://dev.to/rishabh1409/the-beginners-guide-to-caching-how-to-improve-code-performance-hmk)
-- [Dev.to/JS] [React Without useEffect](https://dev.to/fzaninotto/react-without-useeffect-1h3g)
-- [Dev.to/JS] [Empowering Developers: Why I Built Emulative, a VSCode Extension for TypeScript Type Mocking](https://dev.to/johnfolder/empowering-developers-why-i-built-emulative-a-vscode-extension-for-typescript-type-mocking-53m2)
-- [Dev.to/JS] [What You Need to Know About Becoming a Web Developer](https://dev.to/mohamedsdz/what-you-need-to-know-about-becoming-a-web-developer-51l0)
 - [Lifehacker] [Why You Should Update Your PC ASAP](https://lifehacker.com/why-you-should-update-your-pc-asap-1850327315)
 - [Lifehacker] [What You Should Know About Strep Throat and the Amoxicillin Shortage](https://lifehacker.com/what-you-should-know-about-strep-throat-and-the-amoxici-1850325262)
 - [Crazy Programmer] [Niklaus Wirth Biography](https://www.thecrazyprogrammer.com/2023/04/niklaus-wirth-biography.html)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Products From Targeted Ads Might Be Worse Than You Think](https://lifehacker.com/products-from-targeted-ads-might-be-worse-than-you-thin-1850313265)
 - [Lifehacker] [Five Things That Could Save Your Life If You&#39;re Immunocompromised](https://lifehacker.com/five-things-that-could-save-your-life-if-youre-immunoco-1850315127)
 - [Lifehacker] [Your Twitter Circle Isn’t Actually Private Right Now](https://lifehacker.com/your-twitter-circle-isn-t-actually-private-right-now-1850320575)
-- [Lifehacker] [Wrap Your Mozzarella Sticks in a Blanket of Crispy Cheese](https://lifehacker.com/wrap-your-mozzarella-sticks-in-a-blanket-of-crispy-chee-1850320920)
-- [Lifehacker] [Three Creative Ways to Paint Your Boring Room](https://lifehacker.com/three-creative-ways-to-paint-your-boring-room-1850313019)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Wrap Your Mozzarella Sticks in a Blanket of Crispy Cheese](https://lifehacker.com/wrap-your-mozzarella-sticks-in-a-blanket-of-crispy-chee-1850320920)<!-- TECH-POSTS:END -->
 
 ---
 
