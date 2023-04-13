@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Save and Play Audio in React Native Expo App](https://dev.to/shilleh/how-to-save-and-play-audio-in-react-native-expo-app-3i01)
 - [Dev.to/JS] [Welcome on board!](https://dev.to/iosonoagenda/welcome-on-board-4jmo)
 - [Dev.to/JS] [Display your Resumé PDF on your Website](https://dev.to/binhngo/display-your-resume-pdf-on-your-website-50k3)
 - [Dev.to/JS] [Testing React apps with Testing library](https://dev.to/clickpesa/testing-react-apps-with-testing-library-37p4)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Cool Chat GPT Project Ideas Any Developer Can Build!](https://dev.to/hackertab/5-cool-chat-gpt-project-ideas-any-developer-can-build-5f3k)
 - [Dev.to/JS] [Utilize o spread operator para copiar objetos e arrays de forma imutável.](https://dev.to/eliasgabriel1/utilize-o-spread-operator-para-copiar-objetos-e-arrays-de-forma-imutavel-46gp)
 - [Lifehacker] [Why You Should Update Your PC ASAP](https://lifehacker.com/why-you-should-update-your-pc-asap-1850327315)
-- [Dev.to/JS] [Independent and flexible: Why Vanilla JavaScript is the best choice for developers to learn](https://dev.to/volker_schukai/independent-and-flexible-why-vanilla-javascript-is-the-best-choice-for-developers-to-learn-4m43)
 - [Lifehacker] [What You Should Know About Strep Throat and the Amoxicillin Shortage](https://lifehacker.com/what-you-should-know-about-strep-throat-and-the-amoxici-1850325262)
 - [Crazy Programmer] [Niklaus Wirth Biography](https://www.thecrazyprogrammer.com/2023/04/niklaus-wirth-biography.html)
 - [Lifehacker] [Don&#39;t Forget the New Federal Tax Deadline This Year](https://lifehacker.com/dont-forget-the-new-federal-tax-deadline-this-year-1850325399)
