@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Object #9](https://dev.to/samr/javascript-object-9-2cpp)
+- [Dev.to/JS] [Top NodeJS Development Company In 2023](https://dev.to/leahgreene67/top-nodejs-development-company-in-2023-id4)
+- [Dev.to/JS] [How to Improve Node.js Application Scalability](https://dev.to/folasayosamuel/how-to-improve-nodejs-application-scalability-5c1c)
+- [Dev.to/JS] [Free Robux Generator - Results, Benefits, Reviews, Pros, Cons, Scam Or Legit?](https://dev.to/robuxinfo99764/free-robux-generator-results-benefits-reviews-pros-cons-scam-or-legit-21l6)
+- [Dev.to/JS] [The Beginner&#39;s Guide to Caching: How to Improve Code Performance](https://dev.to/rishabh1409/the-beginners-guide-to-caching-how-to-improve-code-performance-hmk)
 - [Dev.to/JS] [React Without useEffect](https://dev.to/fzaninotto/react-without-useeffect-1h3g)
 - [Dev.to/JS] [Empowering Developers: Why I Built Emulative, a VSCode Extension for TypeScript Type Mocking](https://dev.to/johnfolder/empowering-developers-why-i-built-emulative-a-vscode-extension-for-typescript-type-mocking-53m2)
 - [Dev.to/JS] [What You Need to Know About Becoming a Web Developer](https://dev.to/mohamedsdz/what-you-need-to-know-about-becoming-a-web-developer-51l0)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Save and Play Audio in React Native Expo App](https://dev.to/shilleh/how-to-save-and-play-audio-in-react-native-expo-app-3i01)
 - [Dev.to/JS] [Welcome on board!](https://dev.to/iosonoagenda/welcome-on-board-4jmo)
 - [Dev.to/JS] [Display your Resumé PDF on your Website](https://dev.to/binhngo/display-your-resume-pdf-on-your-website-50k3)
-- [Dev.to/JS] [Testing React apps with Testing library](https://dev.to/clickpesa/testing-react-apps-with-testing-library-37p4)
-- [Dev.to/JS] [When to use currying in JavaScript](https://dev.to/slimtim10/when-to-use-currying-in-javascript-1cn4)
-- [Dev.to/JS] [Creating a browser extension that generates strong passwords!💪](https://dev.to/ramirezmz/creating-a-browser-extension-that-generates-strong-passwords-59je)
-- [Dev.to/JS] [Making Your NPM Package Executable](https://dev.to/orkhanhuseyn/making-your-npm-package-executable-1j0b)
-- [Dev.to/JS] [Don&#39;t join Tech](https://dev.to/ifeanyichima/dont-join-tech-2e8m)
 - [Lifehacker] [Why You Should Update Your PC ASAP](https://lifehacker.com/why-you-should-update-your-pc-asap-1850327315)
 - [Lifehacker] [What You Should Know About Strep Throat and the Amoxicillin Shortage](https://lifehacker.com/what-you-should-know-about-strep-throat-and-the-amoxici-1850325262)
 - [Crazy Programmer] [Niklaus Wirth Biography](https://www.thecrazyprogrammer.com/2023/04/niklaus-wirth-biography.html)
