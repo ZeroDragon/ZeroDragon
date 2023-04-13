@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Welcome on board!](https://dev.to/iosonoagenda/welcome-on-board-4jmo)
 - [Dev.to/JS] [Display your Resumé PDF on your Website](https://dev.to/binhngo/display-your-resume-pdf-on-your-website-50k3)
 - [Dev.to/JS] [Testing React apps with Testing library](https://dev.to/clickpesa/testing-react-apps-with-testing-library-37p4)
 - [Dev.to/JS] [When to use currying in JavaScript](https://dev.to/slimtim10/when-to-use-currying-in-javascript-1cn4)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Independent and flexible: Why Vanilla JavaScript is the best choice for developers to learn](https://dev.to/volker_schukai/independent-and-flexible-why-vanilla-javascript-is-the-best-choice-for-developers-to-learn-4m43)
 - [Lifehacker] [What You Should Know About Strep Throat and the Amoxicillin Shortage](https://lifehacker.com/what-you-should-know-about-strep-throat-and-the-amoxici-1850325262)
 - [Crazy Programmer] [Niklaus Wirth Biography](https://www.thecrazyprogrammer.com/2023/04/niklaus-wirth-biography.html)
-- [Dev.to/JS] [Introducing tutim.io - A Headless, API-first, and Developer-led User Flow Platform](https://dev.to/eylonmiz/introducing-tutimio-a-headless-api-first-and-developer-led-user-flow-platform-295n)
 - [Lifehacker] [Don&#39;t Forget the New Federal Tax Deadline This Year](https://lifehacker.com/dont-forget-the-new-federal-tax-deadline-this-year-1850325399)
 - [Lifehacker] [Freeze This Fancy Citrus Fruit Before the Season Ends](https://lifehacker.com/freeze-this-fancy-citrus-fruit-before-the-season-ends-1850325665)
 - [Lifehacker] [Why &#39;Foodscaping&#39; Is Better Than Regular Landscaping](https://lifehacker.com/why-foodscaping-is-better-than-regular-landscaping-1850323854)
