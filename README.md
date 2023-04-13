@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Let&#39;s Bring Back the Dumbbell Swing](https://lifehacker.com/lets-bring-back-the-dumbbell-swing-1850328581)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Números Trigêmeos](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-numeros-trigemeos-j03)
+- [Dev.to/JS] [Why use modules in javascript ,](https://dev.to/ikechukwu411/why-use-modules-in-javascript--3j4h)
+- [Lifehacker] [Six Places to Find Inspiration When You Don&#39;t Know WTF to Eat for Dinner](https://lifehacker.com/six-places-to-find-inspiration-when-you-dont-know-wtf-t-1850328218)
+- [Dev.to/JS] [JavaScript Practice: Building an Analog Clock](https://dev.to/adremy/javascript-practice-building-an-analog-clock-3k46)
 - [Lifehacker] [How to Make Your Smart TV ‘Dumber’ &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-make-your-smart-tv-dumber-and-why-you-should-1850327166)
 - [Dev.to/JS] [RESALA SYSTEMS](https://dev.to/resalasystems1/resala-systems-4a1o)
 - [Lifehacker] [Why You Shouldn&#39;t Use Public Phone Chargers, According to the FBI](https://lifehacker.com/why-you-shouldnt-use-public-phone-chargers-according-t-1850323960)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Becoming an Astro maintainer](https://dev.to/eliancodes/becoming-an-astro-maintainer-4mbh)
 - [Dev.to/JS] [Building a Real-Time Chat App with Node.js and Socket.io](https://dev.to/kingsley/building-a-real-time-chat-app-with-nodejs-and-socketio-320n)
 - [Dev.to/JS] [Free 3D Illustrations library for your project](https://dev.to/jon_snow789/free-3d-illustrations-library-for-your-project-l22)
-- [Dev.to/JS] [Javascript Object #9](https://dev.to/samr/javascript-object-9-2cpp)
-- [Dev.to/JS] [Top NodeJS Development Company In 2023](https://dev.to/leahgreene67/top-nodejs-development-company-in-2023-id4)
-- [Dev.to/JS] [How to Improve Node.js Application Scalability](https://dev.to/folasayosamuel/how-to-improve-nodejs-application-scalability-5c1c)
 - [Lifehacker] [Why You Should Update Your PC ASAP](https://lifehacker.com/why-you-should-update-your-pc-asap-1850327315)
 - [Lifehacker] [What You Should Know About Strep Throat and the Amoxicillin Shortage](https://lifehacker.com/what-you-should-know-about-strep-throat-and-the-amoxici-1850325262)
 - [Crazy Programmer] [Niklaus Wirth Biography](https://www.thecrazyprogrammer.com/2023/04/niklaus-wirth-biography.html)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Use a Wire Brush to Clean Your Grill &lpar;Do This Instead&rpar;](https://lifehacker.com/dont-use-a-wire-brush-to-clean-your-grill-do-this-inst-1850320096)
 - [Lifehacker] [You Can Get a Free McDonald’s Big Mac Right Now](https://lifehacker.com/you-can-get-a-free-mcdonald-s-big-mac-right-now-1850319970)
 - [Lifehacker] [Keep a Melted Butter Jar Near Your Stove](https://lifehacker.com/keep-a-melted-butter-jar-near-your-stove-1850320132)
-- [Lifehacker] [Now You Can Talk to ChatGPT With Your Voice](https://lifehacker.com/now-you-can-talk-to-chatgpt-with-your-voice-1850319026)
-- [Lifehacker] [Gamify Your Savings Goals With Sticky Notes](https://lifehacker.com/gamify-your-savings-goals-with-sticky-notes-1850319878)
-- [Lifehacker] [Here&#39;s When You Should Pay Your Taxes With a Credit Card](https://lifehacker.com/heres-when-you-should-pay-your-taxes-with-a-credit-card-1850319198)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Now You Can Talk to ChatGPT With Your Voice](https://lifehacker.com/now-you-can-talk-to-chatgpt-with-your-voice-1850319026)<!-- TECH-POSTS:END -->
 
 ---
 
