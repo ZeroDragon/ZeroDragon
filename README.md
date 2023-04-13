@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Qual a diferença entre .map, .for e .forEach?](https://dev.to/eliasgabriel1/qual-a-diferenca-entre-map-for-e-foreach-20ok)
+- [Lifehacker] [Get a One-Year Sam&#39;s Club Membership for $10 Right Now](https://lifehacker.com/get-a-one-year-sams-club-membership-for-10-right-now-1850333329)
+- [Dev.to/JS] [Set up a modern Node.js API service by running one command](https://dev.to/jinnatul/set-up-a-modern-nodejs-api-service-by-running-one-command-28bm)
+- [Lifehacker] [How to Watch the Lyrid Meteor Shower This Month](https://lifehacker.com/how-to-watch-the-lyrid-meteor-shower-this-month-1850333564)
 - [Dev.to/JS] [Generate thumbhash at edge for tiny progressive images](https://dev.to/bryce/generate-thumbhash-at-edge-for-tiny-progressive-images-282h)
 - [Lifehacker] [How to Win at &#39;Digits,&#39; the New Wordle for Math](https://lifehacker.com/how-to-win-at-digits-the-new-wordle-for-math-1850333000)
 - [Dev.to/JS] [How to include JS in android APP?](https://dev.to/sirhh01/how-to-include-js-in-android-app-5h5o)
@@ -38,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React API for JavaScript Devs](https://dev.to/vivekalhat/react-api-for-javascript-devs-8d4)
 - [Dev.to/JS] [this is for anyone in their later 30s, wanting to get into coding](https://dev.to/mcwhopper63/this-is-for-anyone-in-their-later-30s-wanting-to-get-into-coding-1182)
 - [Dev.to/JS] [How to Fetch and Write data into firestore cloud. Beginners Guide.](https://dev.to/isreal/how-to-fetch-and-write-data-into-firestore-cloud-beginners-guide-4jce)
-- [Dev.to/JS] [Handling Events in React](https://dev.to/shash68i/handling-events-in-react-opa)
 - [Lifehacker] [Seven Savory Ways to Use Up That Last Bit of Easter Ham](https://lifehacker.com/seven-savory-ways-to-use-up-that-last-bit-of-easter-ham-1850328105)
-- [Dev.to/JS] [My Coding](https://dev.to/kryslynn230/my-coding-1dl6)
 - [Lifehacker] [Your Clothespins Can Tell You When to Do Laundry](https://lifehacker.com/your-clothespins-can-tell-you-when-to-do-laundry-1850327313)
 - [Lifehacker] [Let&#39;s Bring Back the Dumbbell Swing](https://lifehacker.com/lets-bring-back-the-dumbbell-swing-1850328581)
 - [Lifehacker] [Six Places to Find Inspiration When You Don&#39;t Know WTF to Eat for Dinner](https://lifehacker.com/six-places-to-find-inspiration-when-you-dont-know-wtf-t-1850328218)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Understand YouTube&#39;s New &#39;1080p Premium&#39; Before You Subscribe for It](https://lifehacker.com/understand-youtubes-new-1080p-premium-before-you-subscr-1850323235)
 - [Lifehacker] [Let a Shoelace Water Your Plants for You](https://lifehacker.com/let-a-shoelace-water-your-plants-for-you-1850323984)
 - [Lifehacker] [The Comstock Act Is One of America&#39;s Weirdest and Dumbest Laws](https://lifehacker.com/the-comstock-act-is-one-of-americas-weirdest-and-dumbes-1850323620)
-- [Lifehacker] [It&#39;s Time to Start Growing Your Own Seedlings](https://lifehacker.com/its-time-to-start-growing-your-own-seedlings-1850320150)
-- [Lifehacker] [How to Eat Magic Mushrooms Without Gagging](https://lifehacker.com/how-to-eat-magic-mushrooms-without-gagging-1850320771)
-- [Lifehacker] [This Pancake Breakfast Sandwich Is Better Than a McGriddle](https://lifehacker.com/this-pancake-breakfast-sandwich-is-better-than-a-mcgrid-1850325458)<!-- TECH-POSTS:END -->
+- [Lifehacker] [It&#39;s Time to Start Growing Your Own Seedlings](https://lifehacker.com/its-time-to-start-growing-your-own-seedlings-1850320150)<!-- TECH-POSTS:END -->
 
 ---
 
