@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Becoming an Astro maintainer](https://dev.to/eliancodes/becoming-an-astro-maintainer-4mbh)
+- [Dev.to/JS] [Building a Real-Time Chat App with Node.js and Socket.io](https://dev.to/kingsley/building-a-real-time-chat-app-with-nodejs-and-socketio-320n)
+- [Dev.to/JS] [Free 3D Illustrations library for your project](https://dev.to/jon_snow789/free-3d-illustrations-library-for-your-project-l22)
 - [Dev.to/JS] [Javascript Object #9](https://dev.to/samr/javascript-object-9-2cpp)
 - [Dev.to/JS] [Top NodeJS Development Company In 2023](https://dev.to/leahgreene67/top-nodejs-development-company-in-2023-id4)
 - [Dev.to/JS] [How to Improve Node.js Application Scalability](https://dev.to/folasayosamuel/how-to-improve-nodejs-application-scalability-5c1c)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Empowering Developers: Why I Built Emulative, a VSCode Extension for TypeScript Type Mocking](https://dev.to/johnfolder/empowering-developers-why-i-built-emulative-a-vscode-extension-for-typescript-type-mocking-53m2)
 - [Dev.to/JS] [What You Need to Know About Becoming a Web Developer](https://dev.to/mohamedsdz/what-you-need-to-know-about-becoming-a-web-developer-51l0)
 - [Dev.to/JS] [Load Image Source by URL React Native](https://dev.to/aspsptyd/load-image-source-by-url-react-native-1nbd)
-- [Dev.to/JS] [How to Save and Play Audio in React Native Expo App](https://dev.to/shilleh/how-to-save-and-play-audio-in-react-native-expo-app-3i01)
-- [Dev.to/JS] [Welcome on board!](https://dev.to/iosonoagenda/welcome-on-board-4jmo)
-- [Dev.to/JS] [Display your Resumé PDF on your Website](https://dev.to/binhngo/display-your-resume-pdf-on-your-website-50k3)
 - [Lifehacker] [Why You Should Update Your PC ASAP](https://lifehacker.com/why-you-should-update-your-pc-asap-1850327315)
 - [Lifehacker] [What You Should Know About Strep Throat and the Amoxicillin Shortage](https://lifehacker.com/what-you-should-know-about-strep-throat-and-the-amoxici-1850325262)
 - [Crazy Programmer] [Niklaus Wirth Biography](https://www.thecrazyprogrammer.com/2023/04/niklaus-wirth-biography.html)
