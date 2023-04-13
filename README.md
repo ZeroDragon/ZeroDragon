@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Without useEffect](https://dev.to/fzaninotto/react-without-useeffect-1h3g)
+- [Dev.to/JS] [Empowering Developers: Why I Built Emulative, a VSCode Extension for TypeScript Type Mocking](https://dev.to/johnfolder/empowering-developers-why-i-built-emulative-a-vscode-extension-for-typescript-type-mocking-53m2)
+- [Dev.to/JS] [What You Need to Know About Becoming a Web Developer](https://dev.to/mohamedsdz/what-you-need-to-know-about-becoming-a-web-developer-51l0)
 - [Dev.to/JS] [Load Image Source by URL React Native](https://dev.to/aspsptyd/load-image-source-by-url-react-native-1nbd)
 - [Dev.to/JS] [How to Save and Play Audio in React Native Expo App](https://dev.to/shilleh/how-to-save-and-play-audio-in-react-native-expo-app-3i01)
 - [Dev.to/JS] [Welcome on board!](https://dev.to/iosonoagenda/welcome-on-board-4jmo)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a browser extension that generates strong passwords!💪](https://dev.to/ramirezmz/creating-a-browser-extension-that-generates-strong-passwords-59je)
 - [Dev.to/JS] [Making Your NPM Package Executable](https://dev.to/orkhanhuseyn/making-your-npm-package-executable-1j0b)
 - [Dev.to/JS] [Don&#39;t join Tech](https://dev.to/ifeanyichima/dont-join-tech-2e8m)
-- [Dev.to/JS] [Code-Along: Implementing &#39;Search By Criteria&#39; Functionality with React, Formik, and Flask-SQLAlchemy](https://dev.to/baspin94/code-along-implementing-search-by-criteria-functionality-with-react-formik-and-flask-sqlalchemy-3gh6)
-- [Dev.to/JS] [How to track PICT Container Tracking](https://dev.to/sycie35454/how-to-track-pict-container-tracking-3p62)
-- [Dev.to/JS] [5 Cool Chat GPT Project Ideas Any Developer Can Build!](https://dev.to/hackertab/5-cool-chat-gpt-project-ideas-any-developer-can-build-5f3k)
 - [Lifehacker] [Why You Should Update Your PC ASAP](https://lifehacker.com/why-you-should-update-your-pc-asap-1850327315)
 - [Lifehacker] [What You Should Know About Strep Throat and the Amoxicillin Shortage](https://lifehacker.com/what-you-should-know-about-strep-throat-and-the-amoxici-1850325262)
 - [Crazy Programmer] [Niklaus Wirth Biography](https://www.thecrazyprogrammer.com/2023/04/niklaus-wirth-biography.html)
