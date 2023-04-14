@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Medical Coding Is In High Demand](https://dev.to/msharma0993/why-medical-coding-is-in-high-demand-2bc9)
+- [Dev.to/JS] [Logical CSS: Padding And Margins In Multi-lingual Web-Apps](https://dev.to/adityatyagi/logical-css-padding-and-margins-in-multi-lingual-web-apps-4j4p)
 - [Dev.to/JS] [Let&#39;s talk about cloud PC security and privacy](https://dev.to/neverinstall/lets-talk-about-cloud-pc-security-and-privacy-5gel)
 - [Dev.to/JS] [How we built a 1% website in 3 days for €7](https://dev.to/polterguy/how-we-built-a-1-website-in-3-days-for-eu7-27e)
 - [Dev.to/JS] [Oracle Database 23c FREE - Developer release](https://dev.to/loiclefevre/oracle-database-23c-free-developer-release-39a3)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Do you really know how setimeout and setinterval work?](https://dev.to/devlawrence/do-you-really-know-how-setimeout-and-setinterval-work-33md)
 - [Dev.to/JS] [Different restfull api and soap api](https://dev.to/himanshudevgupta/different-restfull-api-and-soap-api-4jn1)
 - [Dev.to/JS] [Building Out a Complex Social Media Content Automated Workflow with Airtable, Zapier, ChatGPT, and Google Apps Script](https://dev.to/damilare_abogunrin/building-out-a-complex-social-media-content-automated-workflow-with-airtable-zapier-chatgpt-and-google-apps-script-3hn9)
-- [Dev.to/JS] [Mastering in Javascript Closures, Grandma Style + Tips &amp; Tricks](https://dev.to/sadra/mastering-in-javascript-closures-grandma-style-tips-tricks-2iam)
-- [Dev.to/JS] [Debouncing De-coded](https://dev.to/purohitdheeraj/debouncing-de-coded-41k9)
 - [Lifehacker] [Get a One-Year Sam&#39;s Club Membership for $10 Right Now](https://lifehacker.com/get-a-one-year-sams-club-membership-for-10-right-now-1850333329)
 - [Lifehacker] [How to Watch the Lyrid Meteor Shower This Month](https://lifehacker.com/how-to-watch-the-lyrid-meteor-shower-this-month-1850333564)
 - [Lifehacker] [How to Win at &#39;Digits,&#39; the New Wordle for Math](https://lifehacker.com/how-to-win-at-digits-the-new-wordle-for-math-1850333000)
