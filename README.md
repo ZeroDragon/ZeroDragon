@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Asynchronous Data Fetching Made Fun: Promises, Async/Await, and Functional Programming in JS and React](https://dev.to/wdp/asynchronous-data-fetching-made-fun-promises-asyncawait-and-functional-programming-in-js-and-react-4096)
 - [Dev.to/JS] [What&#39;re the 4 Main CRM Data Types? Which One&#39;s Right For You](https://dev.to/datarecove95829/whatre-the-4-main-crm-data-types-which-ones-right-for-you-1cco)
 - [Dev.to/JS] [Ezpie challenge. React todo CRUD app](https://dev.to/ezpieco/ezpie-challenge-react-todo-crud-app-4jef)
 - [Dev.to/JS] [ChatGPT for Gmail: The Chrome Extension to Fine-Tune Your Emails](https://dev.to/bengreenberg/chatgpt-for-gmail-the-chrome-extension-to-fine-tune-your-emails-1id1)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Google Maps Places Autocomplete with React JS](https://dev.to/abdeldjalilhachimi/how-to-use-google-maps-places-autocomplete-with-react-js-161j)
 - [Dev.to/JS] [ReVen: a Reverse Engineering Toolkit AIO](https://dev.to/jakiboy/reven-a-reverse-engineering-toolkit-aio-1obn)
 - [Dev.to/JS] [Hand-built smoothScrollTo&lpar;&rpar; Implementation](https://dev.to/nat_davydova/hand-built-smoothscrollto-implementation-3383)
-- [Dev.to/JS] [Qual a diferença entre .map, .for e .forEach?](https://dev.to/eliasgabriel1/qual-a-diferenca-entre-map-for-e-foreach-20ok)
 - [Lifehacker] [Get a One-Year Sam&#39;s Club Membership for $10 Right Now](https://lifehacker.com/get-a-one-year-sams-club-membership-for-10-right-now-1850333329)
 - [Lifehacker] [How to Watch the Lyrid Meteor Shower This Month](https://lifehacker.com/how-to-watch-the-lyrid-meteor-shower-this-month-1850333564)
 - [Lifehacker] [How to Win at &#39;Digits,&#39; the New Wordle for Math](https://lifehacker.com/how-to-win-at-digits-the-new-wordle-for-math-1850333000)
