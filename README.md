@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What&#39;re the 4 Main CRM Data Types? Which One&#39;s Right For You](https://dev.to/datarecove95829/whatre-the-4-main-crm-data-types-which-ones-right-for-you-1cco)
+- [Dev.to/JS] [Ezpie challenge. React todo CRUD app](https://dev.to/ezpieco/ezpie-challenge-react-todo-crud-app-4jef)
 - [Dev.to/JS] [ChatGPT for Gmail: The Chrome Extension to Fine-Tune Your Emails](https://dev.to/bengreenberg/chatgpt-for-gmail-the-chrome-extension-to-fine-tune-your-emails-1id1)
 - [Dev.to/JS] [I would tell you a joke about async javascript](https://dev.to/chadgauth/i-would-tell-you-a-joke-about-async-javascript-1d3l)
 - [Dev.to/JS] [Node js design patterns series introduction](https://dev.to/arifkurdi/node-js-design-patterns-series-introduction-40ah)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hand-built smoothScrollTo&lpar;&rpar; Implementation](https://dev.to/nat_davydova/hand-built-smoothscrollto-implementation-3383)
 - [Dev.to/JS] [Qual a diferença entre .map, .for e .forEach?](https://dev.to/eliasgabriel1/qual-a-diferenca-entre-map-for-e-foreach-20ok)
 - [Lifehacker] [Get a One-Year Sam&#39;s Club Membership for $10 Right Now](https://lifehacker.com/get-a-one-year-sams-club-membership-for-10-right-now-1850333329)
-- [Dev.to/JS] [Set up a modern Node.js API service by running one command](https://dev.to/jinnatul/set-up-a-modern-nodejs-api-service-by-running-one-command-28bm)
 - [Lifehacker] [How to Watch the Lyrid Meteor Shower This Month](https://lifehacker.com/how-to-watch-the-lyrid-meteor-shower-this-month-1850333564)
-- [Dev.to/JS] [Generate placeholder images at edge with thumbhash](https://dev.to/bryce/generate-thumbhash-at-edge-for-tiny-progressive-images-282h)
 - [Lifehacker] [How to Win at &#39;Digits,&#39; the New Wordle for Math](https://lifehacker.com/how-to-win-at-digits-the-new-wordle-for-math-1850333000)
 - [Lifehacker] [All the New Features in Android 14&#39;s First Beta](https://lifehacker.com/all-the-new-features-in-android-14s-first-beta-1850332344)
 - [Lifehacker] [How Long to Keep Every Important Financial Document](https://lifehacker.com/how-long-to-keep-every-important-financial-document-1850328770)
