@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Clean Bird Poop From Your Patio](https://lifehacker.com/the-best-and-worst-ways-to-clean-bird-poop-from-your-1850337329)
+- [Dev.to/JS] [Building a Live Code Sharing Platform With Dyte and React](https://dev.to/vishal19111999/building-a-live-code-sharing-platform-with-dyte-and-react-1fbi)
+- [Dev.to/JS] [For all those devs who are just starting out](https://dev.to/ezequielbugnon/para-todos-aquellos-devs-que-recien-estan-comenzando-25o7)
 - [Dev.to/JS] [7 JavaScript librarires to help express yourself on DEV](https://dev.to/jlewis92/7-javascript-librarires-to-help-express-yourself-on-dev-364c)
 - [Lifehacker] [Add Savory Spices to Your Boring Cookies](https://lifehacker.com/add-savory-spices-to-your-boring-cookies-1850334335)
 - [Lifehacker] [How to Finally Lower the Ringtone Volume on Your AirPods](https://lifehacker.com/how-to-finally-lower-the-ringtone-volume-on-your-airpod-1850332170)
@@ -40,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Should Be Using Your Local Extension Office for &lpar;but Aren’t&rpar;](https://lifehacker.com/everything-you-should-be-using-your-local-extension-off-1850329094)
 - [Dev.to/JS] [Effortlessly Tame Concurrency in Golang: A Deep Dive into Worker Pools](https://dev.to/doziestar/effortlessly-tame-concurrency-in-golang-a-deep-dive-into-worker-pools-4pm)
 - [Dev.to/JS] [The Dynamic Component in React?](https://dev.to/composite/the-dynamic-component-in-react-26ij)
-- [Dev.to/JS] [Just a super easy flowchart](https://dev.to/adam_cyclones/just-a-super-easy-flowchart-1af6)
 - [Lifehacker] [Make Your Own Aperitif With Oranges and Crappy Wine](https://lifehacker.com/make-your-own-aperitif-with-oranges-and-shitty-wine-1850330111)
-- [Dev.to/JS] [Must do pattern questions :Part-2 [ Javascript]](https://dev.to/jagroop2000/must-do-pattern-questions-part-2-javascript-4gg5)
 - [Lifehacker] [Whether to Turn on the A/C or Roll Down the Windows, According to Science](https://lifehacker.com/whether-to-turn-on-the-a-c-or-roll-down-the-windows-ac-1850334173)
 - [Lifehacker] [Book Your Next Stay on These Rental Sites Instead of Airbnb](https://lifehacker.com/book-your-next-stay-on-these-rental-sites-instead-of-ai-1850329351)
 - [Lifehacker] [This Dairy-Free Yogurt Makes Incredible French Toast](https://lifehacker.com/this-dairy-free-yogurt-makes-incredible-french-toast-1850329387)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Shouldn&#39;t Use Public Phone Chargers, According to the FBI](https://lifehacker.com/why-you-shouldnt-use-public-phone-chargers-according-t-1850323960)
 - [Lifehacker] [This Shortcut Brings the Power of AI to Your iPhone](https://lifehacker.com/this-shortcut-brings-the-power-of-ai-to-your-iphone-1850322394)
 - [Lifehacker] [You Can Get Spirit Gold Status As a Member of These Other Loyalty Programs](https://lifehacker.com/you-can-get-spirit-gold-status-as-a-member-of-these-oth-1850330147)
-- [Lifehacker] [Here&#39;s How Much a &#39;Max&#39; Subscription Will Cost You After May 23](https://lifehacker.com/heres-how-much-a-max-subscription-will-cost-you-after-m-1850329419)
-- [Lifehacker] [Why You Should Update Your PC ASAP](https://lifehacker.com/why-you-should-update-your-pc-asap-1850327315)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s How Much a &#39;Max&#39; Subscription Will Cost You After May 23](https://lifehacker.com/heres-how-much-a-max-subscription-will-cost-you-after-m-1850329419)<!-- TECH-POSTS:END -->
 
 ---
 
