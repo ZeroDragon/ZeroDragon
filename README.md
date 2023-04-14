@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 JavaScript librarires to help express yourself on DEV](https://dev.to/jlewis92/7-javascript-librarires-to-help-express-yourself-on-dev-364c)
+- [Lifehacker] [Add Savory Spices to Your Boring Cookies](https://lifehacker.com/add-savory-spices-to-your-boring-cookies-1850334335)
+- [Lifehacker] [How to Finally Lower the Ringtone Volume on Your AirPods](https://lifehacker.com/how-to-finally-lower-the-ringtone-volume-on-your-airpod-1850332170)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Gen Z Is Redefining Espionage](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-gen-z-is-1850335727)
 - [Dev.to/JS] [Demystifying React Hooks: Usage, Examples, and Common Mistakes](https://dev.to/koolkishan/demystifying-react-hooks-usage-examples-and-common-mistakes-24ln)
 - [Lifehacker] [Get Paid up to $20,000 for Finding ChatGPT Security Flaws](https://lifehacker.com/get-paid-up-to-20-000-for-finding-chatgpt-security-fla-1850333616)
 - [Dev.to/JS] [Free Robux Generator - Results, Reviews, Pros, Cons, Uses, Scam And Legit?](https://dev.to/robuxfreef58967/free-robux-generator-results-reviews-pros-cons-uses-scam-and-legit-ano)
@@ -39,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Just a super easy flowchart](https://dev.to/adam_cyclones/just-a-super-easy-flowchart-1af6)
 - [Lifehacker] [Make Your Own Aperitif With Oranges and Crappy Wine](https://lifehacker.com/make-your-own-aperitif-with-oranges-and-shitty-wine-1850330111)
 - [Dev.to/JS] [Must do pattern questions :Part-2 [ Javascript]](https://dev.to/jagroop2000/must-do-pattern-questions-part-2-javascript-4gg5)
-- [Dev.to/JS] [Getting Started with SES: Required Permissions to Send Emails](https://dev.to/lakincoder/getting-started-with-ses-required-permissions-to-send-emails-1hf6)
 - [Lifehacker] [Whether to Turn on the A/C or Roll Down the Windows, According to Science](https://lifehacker.com/whether-to-turn-on-the-a-c-or-roll-down-the-windows-ac-1850334173)
 - [Lifehacker] [Book Your Next Stay on These Rental Sites Instead of Airbnb](https://lifehacker.com/book-your-next-stay-on-these-rental-sites-instead-of-ai-1850329351)
 - [Lifehacker] [This Dairy-Free Yogurt Makes Incredible French Toast](https://lifehacker.com/this-dairy-free-yogurt-makes-incredible-french-toast-1850329387)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Shortcut Brings the Power of AI to Your iPhone](https://lifehacker.com/this-shortcut-brings-the-power-of-ai-to-your-iphone-1850322394)
 - [Lifehacker] [You Can Get Spirit Gold Status As a Member of These Other Loyalty Programs](https://lifehacker.com/you-can-get-spirit-gold-status-as-a-member-of-these-oth-1850330147)
 - [Lifehacker] [Here&#39;s How Much a &#39;Max&#39; Subscription Will Cost You After May 23](https://lifehacker.com/heres-how-much-a-max-subscription-will-cost-you-after-m-1850329419)
-- [Lifehacker] [Why You Should Update Your PC ASAP](https://lifehacker.com/why-you-should-update-your-pc-asap-1850327315)
-- [Lifehacker] [What You Should Know About Strep Throat and the Amoxicillin Shortage](https://lifehacker.com/what-you-should-know-about-strep-throat-and-the-amoxici-1850325262)
-- [Crazy Programmer] [Niklaus Wirth Biography](https://www.thecrazyprogrammer.com/2023/04/niklaus-wirth-biography.html)
-- [Lifehacker] [Don&#39;t Forget the New Federal Tax Deadline This Year](https://lifehacker.com/dont-forget-the-new-federal-tax-deadline-this-year-1850325399)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Update Your PC ASAP](https://lifehacker.com/why-you-should-update-your-pc-asap-1850327315)<!-- TECH-POSTS:END -->
 
 ---
 
