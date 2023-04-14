@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Dairy-Free Yogurt Makes Incredible French Toast](https://lifehacker.com/this-dairy-free-yogurt-makes-incredible-french-toast-1850329387)
+- [Dev.to/JS] [K-Tech Assessment: como avaliar o conhecimento tecnológico da sua equipe e guiar investimentos estratégicos](https://dev.to/demgoncalves/k-tech-assessment-como-avaliar-o-conhecimento-tecnologico-da-sua-equipe-e-guiar-investimentos-estrategicos-3ahk)
+- [Dev.to/JS] [Node CLI App - Tax Calculator](https://dev.to/bekbrace/node-cli-app-tax-calculator-1p0b)
 - [Dev.to/JS] [Why Medical Coding Is In High Demand](https://dev.to/msharma0993/why-medical-coding-is-in-high-demand-2bc9)
 - [Dev.to/JS] [Logical CSS: Padding And Margins In Multi-lingual Web-Apps](https://dev.to/adityatyagi/logical-css-padding-and-margins-in-multi-lingual-web-apps-4j4p)
 - [Dev.to/JS] [Let&#39;s talk about cloud PC security and privacy](https://dev.to/neverinstall/lets-talk-about-cloud-pc-security-and-privacy-5gel)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a Weather App with HTML, CSS, and JavaScript](https://dev.to/incoderweb/create-a-weather-app-with-html-css-and-javascript-22h8)
 - [Dev.to/JS] [How to Detect Clicks Outside of an Element in NextJS or React](https://dev.to/mirfayekhossain/how-to-detect-clicks-outside-of-an-element-in-nextjs-or-react-301p)
 - [Dev.to/JS] [Do you really know how setimeout and setinterval work?](https://dev.to/devlawrence/do-you-really-know-how-setimeout-and-setinterval-work-33md)
-- [Dev.to/JS] [Different restfull api and soap api](https://dev.to/himanshudevgupta/different-restfull-api-and-soap-api-4jn1)
-- [Dev.to/JS] [Building Out a Complex Social Media Content Automated Workflow with Airtable, Zapier, ChatGPT, and Google Apps Script](https://dev.to/damilare_abogunrin/building-out-a-complex-social-media-content-automated-workflow-with-airtable-zapier-chatgpt-and-google-apps-script-3hn9)
 - [Lifehacker] [Get a One-Year Sam&#39;s Club Membership for $10 Right Now](https://lifehacker.com/get-a-one-year-sams-club-membership-for-10-right-now-1850333329)
 - [Lifehacker] [How to Watch the Lyrid Meteor Shower This Month](https://lifehacker.com/how-to-watch-the-lyrid-meteor-shower-this-month-1850333564)
 - [Lifehacker] [How to Win at &#39;Digits,&#39; the New Wordle for Math](https://lifehacker.com/how-to-win-at-digits-the-new-wordle-for-math-1850333000)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Year of Peacock Premium for $20 Right Now](https://lifehacker.com/you-can-get-a-year-of-peacock-premium-for-20-right-now-1850324923)
 - [Lifehacker] [Understand YouTube&#39;s New &#39;1080p Premium&#39; Before You Subscribe for It](https://lifehacker.com/understand-youtubes-new-1080p-premium-before-you-subscr-1850323235)
 - [Lifehacker] [Let a Shoelace Water Your Plants for You](https://lifehacker.com/let-a-shoelace-water-your-plants-for-you-1850323984)
-- [Lifehacker] [The Comstock Act Is One of America&#39;s Weirdest and Dumbest Laws](https://lifehacker.com/the-comstock-act-is-one-of-americas-weirdest-and-dumbes-1850323620)
-- [Lifehacker] [It&#39;s Time to Start Growing Your Own Seedlings](https://lifehacker.com/its-time-to-start-growing-your-own-seedlings-1850320150)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Comstock Act Is One of America&#39;s Weirdest and Dumbest Laws](https://lifehacker.com/the-comstock-act-is-one-of-americas-weirdest-and-dumbes-1850323620)<!-- TECH-POSTS:END -->
 
 ---
 
