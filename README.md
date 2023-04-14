@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [strz – Very Strongly Typed String Functions](https://dev.to/dio41020/strz-very-strongly-typed-string-functions-58on)
+- [Lifehacker] [Everything You Should Be Using Your Local Extension Office for &lpar;but Aren’t&rpar;](https://lifehacker.com/everything-you-should-be-using-your-local-extension-off-1850329094)
+- [Dev.to/JS] [The Dynamic Component in React?](https://dev.to/composite/the-dynamic-component-in-react-26ij)
+- [Dev.to/JS] [Just a super easy flowchart](https://dev.to/adam_cyclones/just-a-super-easy-flowchart-1af6)
+- [Lifehacker] [Make Your Own Aperitif With Oranges and Crappy Wine](https://lifehacker.com/make-your-own-aperitif-with-oranges-and-shitty-wine-1850330111)
+- [Dev.to/JS] [Must do pattern questions :Part-2 [ Javascript]](https://dev.to/jagroop2000/must-do-pattern-questions-part-2-javascript-4gg5)
+- [Dev.to/JS] [Getting Started with SES: Required Permissions to Send Emails](https://dev.to/lakincoder/getting-started-with-ses-required-permissions-to-send-emails-1hf6)
+- [Lifehacker] [Whether to Turn on the A/C or Roll Down the Windows, According to Science](https://lifehacker.com/whether-to-turn-on-the-a-c-or-roll-down-the-windows-ac-1850334173)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Diferença mínima dentro de Arrays.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-diferenca-minima-dentro-de-arrays-ibk)
 - [Dev.to/JS] [How to Code the Bubble Sort Algorithm in JavaScript](https://dev.to/nielsenjared/how-to-code-the-bubble-sort-algorithm-in-javascript-2bga)
 - [Dev.to/JS] [React vs Angular vs Vue](https://dev.to/developer_sudip/react-vs-angular-vs-vue-49dj)
@@ -32,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [K-Tech Assessment: como avaliar o conhecimento tecnológico da sua equipe e guiar investimentos estratégicos](https://dev.to/demgoncalves/k-tech-assessment-como-avaliar-o-conhecimento-tecnologico-da-sua-equipe-e-guiar-investimentos-estrategicos-3ahk)
 - [Dev.to/JS] [Node CLI App - Tax Calculator](https://dev.to/bekbrace/node-cli-app-tax-calculator-1p0b)
 - [Dev.to/JS] [Why Medical Coding Is In High Demand](https://dev.to/msharma0993/why-medical-coding-is-in-high-demand-2bc9)
-- [Dev.to/JS] [Logical CSS: Padding And Margins In Multi-lingual Web-Apps](https://dev.to/adityatyagi/logical-css-padding-and-margins-in-multi-lingual-web-apps-4j4p)
-- [Dev.to/JS] [Let&#39;s talk about cloud PC security and privacy](https://dev.to/neverinstall/lets-talk-about-cloud-pc-security-and-privacy-5gel)
-- [Dev.to/JS] [How we built a 1% website in 3 days for €7](https://dev.to/polterguy/how-we-built-a-1-website-in-3-days-for-eu7-27e)
-- [Dev.to/JS] [Oracle Database 23c FREE - Developer release](https://dev.to/loiclefevre/oracle-database-23c-free-developer-release-39a3)
-- [Dev.to/JS] [How to loop through an HTML element using an event listener and for loop in JavaScript](https://dev.to/biljanacodes/how-to-loop-through-an-html-element-using-an-event-listener-and-for-loop-in-javascript-3bpj)
 - [Lifehacker] [Get a One-Year Sam&#39;s Club Membership for $10 Right Now](https://lifehacker.com/get-a-one-year-sams-club-membership-for-10-right-now-1850333329)
 - [Lifehacker] [How to Watch the Lyrid Meteor Shower This Month](https://lifehacker.com/how-to-watch-the-lyrid-meteor-shower-this-month-1850333564)
 - [Lifehacker] [How to Win at &#39;Digits,&#39; the New Wordle for Math](https://lifehacker.com/how-to-win-at-digits-the-new-wordle-for-math-1850333000)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Forget the New Federal Tax Deadline This Year](https://lifehacker.com/dont-forget-the-new-federal-tax-deadline-this-year-1850325399)
 - [Lifehacker] [Freeze This Fancy Citrus Fruit Before the Season Ends](https://lifehacker.com/freeze-this-fancy-citrus-fruit-before-the-season-ends-1850325665)
 - [Lifehacker] [Why &#39;Foodscaping&#39; Is Better Than Regular Landscaping](https://lifehacker.com/why-foodscaping-is-better-than-regular-landscaping-1850323854)
-- [Lifehacker] [Turn a Garden Planter Into Secret Storage](https://lifehacker.com/turn-a-garden-planter-into-secret-storage-1850323898)
-- [Lifehacker] [You Can Get a Year of Peacock Premium for $20 Right Now](https://lifehacker.com/you-can-get-a-year-of-peacock-premium-for-20-right-now-1850324923)
-- [Lifehacker] [Understand YouTube&#39;s New &#39;1080p Premium&#39; Before You Subscribe for It](https://lifehacker.com/understand-youtubes-new-1080p-premium-before-you-subscr-1850323235)
-- [Lifehacker] [Let a Shoelace Water Your Plants for You](https://lifehacker.com/let-a-shoelace-water-your-plants-for-you-1850323984)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Turn a Garden Planter Into Secret Storage](https://lifehacker.com/turn-a-garden-planter-into-secret-storage-1850323898)<!-- TECH-POSTS:END -->
 
 ---
 
