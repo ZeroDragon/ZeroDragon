@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AI is helping developers pull pranks and gags but will it replace us?](https://dev.to/glitch/ai-is-helping-developers-pull-pranks-and-gags-but-will-it-replace-us-42g2)
+- [Dev.to/JS] [Angular standalone components](https://dev.to/raphaelramos/angular-standalone-components-67i)
 - [Dev.to/JS] [Quais os principais hooks do react?](https://dev.to/eliasgabriel1/quais-os-principais-hooks-do-react-4bkd)
 - [Dev.to/JS] [What is a function in coding? explained by a semi-layman](https://dev.to/mcwhopper63/what-is-a-function-in-coding-explained-by-a-semi-layman-id6)
 - [Dev.to/JS] [React Toastify : The complete guide.](https://dev.to/alakkadshaw/react-toastify-the-complete-guide-164j)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Fortune Favors Those Who Add Cheese to Their Smoothies](https://lifehacker.com/fortune-favors-those-who-add-cheese-to-their-smoothies-1850329579)
 - [Dev.to/JS] [How to use Text Summarization API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-text-summarization-api-with-javascript-in-5-minutes-5894)
 - [Lifehacker] [You Can Stop Hidden Windows Apps From Running on Boot Up](https://lifehacker.com/you-can-stop-hidden-windows-apps-from-running-on-boot-u-1850332775)
-- [Dev.to/JS] [How React’s useEffect Hook Changed My Life](https://dev.to/wbojczuk/how-reacts-useeffect-hook-changed-my-life-3b76)
-- [Dev.to/JS] [Introducing React Server: A New Way to Write Server-Side Code as TSX Components](https://dev.to/c5h8nnao4/introducing-react-server-a-new-way-to-write-server-side-code-as-tsx-components-5aif)
 - [Lifehacker] [Everything You Should Be Using Your Local Extension Office for &lpar;but Aren’t&rpar;](https://lifehacker.com/everything-you-should-be-using-your-local-extension-off-1850329094)
 - [Lifehacker] [Make Your Own Aperitif With Oranges and Crappy Wine](https://lifehacker.com/make-your-own-aperitif-with-oranges-and-shitty-wine-1850330111)
 - [Lifehacker] [Whether to Turn on the A/C or Roll Down the Windows, According to Science](https://lifehacker.com/whether-to-turn-on-the-a-c-or-roll-down-the-windows-ac-1850334173)
