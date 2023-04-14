@@ -23,8 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Fortune Favors Those Who Add Cheese to Their Smoothies](https://lifehacker.com/fortune-favors-those-who-add-cheese-to-their-smoothies-1850329579)
+- [Dev.to/JS] [How to use Text Summarization API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-text-summarization-api-with-javascript-in-5-minutes-5894)
+- [Lifehacker] [You Can Stop Hidden Windows Apps From Running on Boot Up](https://lifehacker.com/you-can-stop-hidden-windows-apps-from-running-on-boot-u-1850332775)
+- [Dev.to/JS] [How React’s useEffect Hook Changed My Life](https://dev.to/wbojczuk/how-reacts-useeffect-hook-changed-my-life-3b76)
+- [Dev.to/JS] [Introducing React Server: A New Way to Write Server-Side Code as TSX Components](https://dev.to/c5h8nnao4/introducing-react-server-a-new-way-to-write-server-side-code-as-tsx-components-5aif)
+- [Dev.to/JS] [Main Concepts of React Js !!](https://dev.to/shaikhmd007/main-concepts-of-react-js--4aim)
 - [Dev.to/JS] [strz – Very Strongly Typed String Functions](https://dev.to/dio41020/strz-very-strongly-typed-string-functions-58on)
 - [Lifehacker] [Everything You Should Be Using Your Local Extension Office for &lpar;but Aren’t&rpar;](https://lifehacker.com/everything-you-should-be-using-your-local-extension-off-1850329094)
+- [Dev.to/JS] [Effortlessly Tame Concurrency in Golang: A Deep Dive into Worker Pools](https://dev.to/doziestar/effortlessly-tame-concurrency-in-golang-a-deep-dive-into-worker-pools-4pm)
 - [Dev.to/JS] [The Dynamic Component in React?](https://dev.to/composite/the-dynamic-component-in-react-26ij)
 - [Dev.to/JS] [Just a super easy flowchart](https://dev.to/adam_cyclones/just-a-super-easy-flowchart-1af6)
 - [Lifehacker] [Make Your Own Aperitif With Oranges and Crappy Wine](https://lifehacker.com/make-your-own-aperitif-with-oranges-and-shitty-wine-1850330111)
@@ -33,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Whether to Turn on the A/C or Roll Down the Windows, According to Science](https://lifehacker.com/whether-to-turn-on-the-a-c-or-roll-down-the-windows-ac-1850334173)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Diferença mínima dentro de Arrays.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-diferenca-minima-dentro-de-arrays-ibk)
 - [Dev.to/JS] [How to Code the Bubble Sort Algorithm in JavaScript](https://dev.to/nielsenjared/how-to-code-the-bubble-sort-algorithm-in-javascript-2bga)
-- [Dev.to/JS] [React vs Angular vs Vue](https://dev.to/developer_sudip/react-vs-angular-vs-vue-49dj)
-- [Dev.to/JS] [Lessons Learned: Adding ChatGPT to a Tic-Tac-Toe Game in Next.js](https://dev.to/jeffsalive/lessons-learned-adding-chatgpt-to-a-tic-tac-toe-game-in-nextjs-20dm)
 - [Lifehacker] [Book Your Next Stay on These Rental Sites Instead of Airbnb](https://lifehacker.com/book-your-next-stay-on-these-rental-sites-instead-of-ai-1850329351)
 - [Lifehacker] [This Dairy-Free Yogurt Makes Incredible French Toast](https://lifehacker.com/this-dairy-free-yogurt-makes-incredible-french-toast-1850329387)
-- [Dev.to/JS] [K-Tech Assessment: como avaliar o conhecimento tecnológico da sua equipe e guiar investimentos estratégicos](https://dev.to/demgoncalves/k-tech-assessment-como-avaliar-o-conhecimento-tecnologico-da-sua-equipe-e-guiar-investimentos-estrategicos-3ahk)
-- [Dev.to/JS] [Node CLI App - Tax Calculator](https://dev.to/bekbrace/node-cli-app-tax-calculator-1p0b)
-- [Dev.to/JS] [Why Medical Coding Is In High Demand](https://dev.to/msharma0993/why-medical-coding-is-in-high-demand-2bc9)
 - [Lifehacker] [Get a One-Year Sam&#39;s Club Membership for $10 Right Now](https://lifehacker.com/get-a-one-year-sams-club-membership-for-10-right-now-1850333329)
 - [Lifehacker] [How to Watch the Lyrid Meteor Shower This Month](https://lifehacker.com/how-to-watch-the-lyrid-meteor-shower-this-month-1850333564)
 - [Lifehacker] [How to Win at &#39;Digits,&#39; the New Wordle for Math](https://lifehacker.com/how-to-win-at-digits-the-new-wordle-for-math-1850333000)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What You Should Know About Strep Throat and the Amoxicillin Shortage](https://lifehacker.com/what-you-should-know-about-strep-throat-and-the-amoxici-1850325262)
 - [Crazy Programmer] [Niklaus Wirth Biography](https://www.thecrazyprogrammer.com/2023/04/niklaus-wirth-biography.html)
 - [Lifehacker] [Don&#39;t Forget the New Federal Tax Deadline This Year](https://lifehacker.com/dont-forget-the-new-federal-tax-deadline-this-year-1850325399)
-- [Lifehacker] [Freeze This Fancy Citrus Fruit Before the Season Ends](https://lifehacker.com/freeze-this-fancy-citrus-fruit-before-the-season-ends-1850325665)
-- [Lifehacker] [Why &#39;Foodscaping&#39; Is Better Than Regular Landscaping](https://lifehacker.com/why-foodscaping-is-better-than-regular-landscaping-1850323854)
-- [Lifehacker] [Turn a Garden Planter Into Secret Storage](https://lifehacker.com/turn-a-garden-planter-into-secret-storage-1850323898)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Freeze This Fancy Citrus Fruit Before the Season Ends](https://lifehacker.com/freeze-this-fancy-citrus-fruit-before-the-season-ends-1850325665)<!-- TECH-POSTS:END -->
 
 ---
 
