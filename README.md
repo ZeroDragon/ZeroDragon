@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node js design patterns series introduction](https://dev.to/arifkurdi/node-js-design-patterns-series-introduction-40ah)
 - [Dev.to/JS] [Starchart: Migration!](https://dev.to/cychu42/starchart-migration-3mba)
 - [Dev.to/JS] [👥 How to clone a website into a Chrome Extension.](https://dev.to/daniellimae/how-to-clone-a-website-into-a-chrome-extension-41kg)
 - [Dev.to/JS] [Optimizing your React Project](https://dev.to/ccarlson249/optimizing-your-react-project-40h1)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the New Features in Android 14&#39;s First Beta](https://lifehacker.com/all-the-new-features-in-android-14s-first-beta-1850332344)
 - [Dev.to/JS] [Delete an element in array](https://dev.to/pnishant23/delete-an-element-in-array-1pk4)
 - [Lifehacker] [How Long to Keep Every Important Financial Document](https://lifehacker.com/how-long-to-keep-every-important-financial-document-1850328770)
-- [Dev.to/JS] [6 CSS Games to help you Learn CSS Easily](https://dev.to/jon_snow789/6-css-games-to-help-you-learn-css-easily-4m3i)
 - [Lifehacker] [Rearrange Your Garden by Using &#39;Hidden&#39; Pots](https://lifehacker.com/rearrange-your-garden-by-using-hidden-pots-1850327240)
 - [Lifehacker] [This Interactive Map Shows the Most Common Scams in Your Area](https://lifehacker.com/this-interactive-map-shows-the-most-common-scams-in-you-1850325327)
 - [Lifehacker] [Seven Savory Ways to Use Up That Last Bit of Easter Ham](https://lifehacker.com/seven-savory-ways-to-use-up-that-last-bit-of-easter-ham-1850328105)
