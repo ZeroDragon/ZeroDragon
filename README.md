@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ChatGPT for Gmail: The Chrome Extension to Fine-Tune Your Emails](https://dev.to/bengreenberg/chatgpt-for-gmail-the-chrome-extension-to-fine-tune-your-emails-1id1)
 - [Dev.to/JS] [I would tell you a joke about async javascript](https://dev.to/chadgauth/i-would-tell-you-a-joke-about-async-javascript-1d3l)
 - [Dev.to/JS] [Node js design patterns series introduction](https://dev.to/arifkurdi/node-js-design-patterns-series-introduction-40ah)
 - [Dev.to/JS] [Starchart: Migration!](https://dev.to/cychu42/starchart-migration-3mba)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Watch the Lyrid Meteor Shower This Month](https://lifehacker.com/how-to-watch-the-lyrid-meteor-shower-this-month-1850333564)
 - [Dev.to/JS] [Generate placeholder images at edge with thumbhash](https://dev.to/bryce/generate-thumbhash-at-edge-for-tiny-progressive-images-282h)
 - [Lifehacker] [How to Win at &#39;Digits,&#39; the New Wordle for Math](https://lifehacker.com/how-to-win-at-digits-the-new-wordle-for-math-1850333000)
-- [Dev.to/JS] [How to include JS in android APP?](https://dev.to/sirhh01/how-to-include-js-in-android-app-5h5o)
 - [Lifehacker] [All the New Features in Android 14&#39;s First Beta](https://lifehacker.com/all-the-new-features-in-android-14s-first-beta-1850332344)
 - [Lifehacker] [How Long to Keep Every Important Financial Document](https://lifehacker.com/how-long-to-keep-every-important-financial-document-1850328770)
 - [Lifehacker] [Rearrange Your Garden by Using &#39;Hidden&#39; Pots](https://lifehacker.com/rearrange-your-garden-by-using-hidden-pots-1850327240)
