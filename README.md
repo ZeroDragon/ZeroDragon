@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Career in Tech: How to become a Backend Engineer](https://dev.to/chidiebereomasi/career-in-tech-how-to-become-a-backend-engineer-4aon)
+- [Dev.to/JS] [Create a Weather App with HTML, CSS, and JavaScript](https://dev.to/incoderweb/create-a-weather-app-with-html-css-and-javascript-22h8)
+- [Dev.to/JS] [Do you really know how setimeout and setinterval work?](https://dev.to/devlawrence/do-you-really-know-how-setimeout-and-setinterval-work-33md)
 - [Dev.to/JS] [Different restfull api and soap api](https://dev.to/himanshudevgupta/different-restfull-api-and-soap-api-4jn1)
 - [Dev.to/JS] [Building Out a Complex Social Media Content Automated Workflow with Airtable, Zapier, ChatGPT, and Google Apps Script](https://dev.to/damilare_abogunrin/building-out-a-complex-social-media-content-automated-workflow-with-airtable-zapier-chatgpt-and-google-apps-script-3hn9)
 - [Dev.to/JS] [Mastering in Javascript Closures, Grandma Style + Tips &amp; Tricks](https://dev.to/sadra/mastering-in-javascript-closures-grandma-style-tips-tricks-2iam)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ezpie challenge. React todo CRUD app](https://dev.to/ezpieco/ezpie-challenge-react-todo-crud-app-4jef)
 - [Dev.to/JS] [ChatGPT for Gmail: The Chrome Extension to Fine-Tune Your Emails](https://dev.to/bengreenberg/chatgpt-for-gmail-the-chrome-extension-to-fine-tune-your-emails-1id1)
 - [Dev.to/JS] [I would tell you a joke about async javascript](https://dev.to/chadgauth/i-would-tell-you-a-joke-about-async-javascript-1d3l)
-- [Dev.to/JS] [Node js design patterns series introduction](https://dev.to/arifkurdi/node-js-design-patterns-series-introduction-40ah)
-- [Dev.to/JS] [Starchart: Migration!](https://dev.to/cychu42/starchart-migration-3mba)
-- [Dev.to/JS] [👥 How to clone a website into a Chrome Extension.](https://dev.to/daniellimae/how-to-clone-a-website-into-a-chrome-extension-41kg)
 - [Lifehacker] [Get a One-Year Sam&#39;s Club Membership for $10 Right Now](https://lifehacker.com/get-a-one-year-sams-club-membership-for-10-right-now-1850333329)
 - [Lifehacker] [How to Watch the Lyrid Meteor Shower This Month](https://lifehacker.com/how-to-watch-the-lyrid-meteor-shower-this-month-1850333564)
 - [Lifehacker] [How to Win at &#39;Digits,&#39; the New Wordle for Math](https://lifehacker.com/how-to-win-at-digits-the-new-wordle-for-math-1850333000)
