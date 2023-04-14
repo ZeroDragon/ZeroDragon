@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [👥 How to clone a website into a Chrome Extension.](https://dev.to/daniellimae/how-to-clone-a-website-into-a-chrome-extension-41kg)
+- [Dev.to/JS] [Optimizing your React Project](https://dev.to/ccarlson249/optimizing-your-react-project-40h1)
+- [Dev.to/JS] [How to use Google Maps Places Autocomplete with React JS](https://dev.to/abdeldjalilhachimi/how-to-use-google-maps-places-autocomplete-with-react-js-161j)
 - [Dev.to/JS] [ReVen: a Reverse Engineering Toolkit AIO](https://dev.to/jakiboy/reven-a-reverse-engineering-toolkit-aio-1obn)
 - [Dev.to/JS] [Hand-built smoothScrollTo&lpar;&rpar; Implementation](https://dev.to/nat_davydova/hand-built-smoothscrollto-implementation-3383)
 - [Dev.to/JS] [Qual a diferença entre .map, .for e .forEach?](https://dev.to/eliasgabriel1/qual-a-diferenca-entre-map-for-e-foreach-20ok)
@@ -38,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [6 CSS Games to help you Learn CSS Easily](https://dev.to/jon_snow789/6-css-games-to-help-you-learn-css-easily-4m3i)
 - [Lifehacker] [Rearrange Your Garden by Using &#39;Hidden&#39; Pots](https://lifehacker.com/rearrange-your-garden-by-using-hidden-pots-1850327240)
 - [Dev.to/JS] [Why and When Use Ng-template, NgContent, and NgContainer in Angular](https://dev.to/danywalls/why-and-when-use-ng-template-ngcontent-and-ngcontainer-in-angular-2kho)
-- [Dev.to/JS] [One SVG to Rule Them All: The Dynamic Way](https://dev.to/andreasbergstrom/one-svg-to-rule-them-all-the-dynamic-way-57k2)
-- [Dev.to/JS] [What you have to learn before React](https://dev.to/nicozerpa/what-you-have-to-learn-before-react-1pi7)
 - [Lifehacker] [This Interactive Map Shows the Most Common Scams in Your Area](https://lifehacker.com/this-interactive-map-shows-the-most-common-scams-in-you-1850325327)
-- [Dev.to/JS] [React API for JavaScript Devs](https://dev.to/vivekalhat/react-api-for-javascript-devs-8d4)
 - [Lifehacker] [Seven Savory Ways to Use Up That Last Bit of Easter Ham](https://lifehacker.com/seven-savory-ways-to-use-up-that-last-bit-of-easter-ham-1850328105)
 - [Lifehacker] [Your Clothespins Can Tell You When to Do Laundry](https://lifehacker.com/your-clothespins-can-tell-you-when-to-do-laundry-1850327313)
 - [Lifehacker] [Let&#39;s Bring Back the Dumbbell Swing](https://lifehacker.com/lets-bring-back-the-dumbbell-swing-1850328581)
