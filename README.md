@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I would tell you a joke about async javascript](https://dev.to/chadgauth/i-would-tell-you-a-joke-about-async-javascript-1d3l)
 - [Dev.to/JS] [Node js design patterns series introduction](https://dev.to/arifkurdi/node-js-design-patterns-series-introduction-40ah)
 - [Dev.to/JS] [Starchart: Migration!](https://dev.to/cychu42/starchart-migration-3mba)
 - [Dev.to/JS] [👥 How to clone a website into a Chrome Extension.](https://dev.to/daniellimae/how-to-clone-a-website-into-a-chrome-extension-41kg)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Win at &#39;Digits,&#39; the New Wordle for Math](https://lifehacker.com/how-to-win-at-digits-the-new-wordle-for-math-1850333000)
 - [Dev.to/JS] [How to include JS in android APP?](https://dev.to/sirhh01/how-to-include-js-in-android-app-5h5o)
 - [Lifehacker] [All the New Features in Android 14&#39;s First Beta](https://lifehacker.com/all-the-new-features-in-android-14s-first-beta-1850332344)
-- [Dev.to/JS] [Delete an element in array](https://dev.to/pnishant23/delete-an-element-in-array-1pk4)
 - [Lifehacker] [How Long to Keep Every Important Financial Document](https://lifehacker.com/how-long-to-keep-every-important-financial-document-1850328770)
 - [Lifehacker] [Rearrange Your Garden by Using &#39;Hidden&#39; Pots](https://lifehacker.com/rearrange-your-garden-by-using-hidden-pots-1850327240)
 - [Lifehacker] [This Interactive Map Shows the Most Common Scams in Your Area](https://lifehacker.com/this-interactive-map-shows-the-most-common-scams-in-you-1850325327)
