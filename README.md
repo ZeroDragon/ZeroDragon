@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Demystifying React Hooks: Usage, Examples, and Common Mistakes](https://dev.to/koolkishan/demystifying-react-hooks-usage-examples-and-common-mistakes-24ln)
+- [Lifehacker] [Get Paid up to $20,000 for Finding ChatGPT Security Flaws](https://lifehacker.com/get-paid-up-to-20-000-for-finding-chatgpt-security-fla-1850333616)
+- [Dev.to/JS] [Free Robux Generator - Results, Reviews, Pros, Cons, Uses, Scam And Legit?](https://dev.to/robuxfreef58967/free-robux-generator-results-reviews-pros-cons-uses-scam-and-legit-ano)
 - [Lifehacker] [Fortune Favors Those Who Add Cheese to Their Smoothies](https://lifehacker.com/fortune-favors-those-who-add-cheese-to-their-smoothies-1850329579)
 - [Dev.to/JS] [How to use Text Summarization API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-text-summarization-api-with-javascript-in-5-minutes-5894)
 - [Lifehacker] [You Can Stop Hidden Windows Apps From Running on Boot Up](https://lifehacker.com/you-can-stop-hidden-windows-apps-from-running-on-boot-u-1850332775)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Must do pattern questions :Part-2 [ Javascript]](https://dev.to/jagroop2000/must-do-pattern-questions-part-2-javascript-4gg5)
 - [Dev.to/JS] [Getting Started with SES: Required Permissions to Send Emails](https://dev.to/lakincoder/getting-started-with-ses-required-permissions-to-send-emails-1hf6)
 - [Lifehacker] [Whether to Turn on the A/C or Roll Down the Windows, According to Science](https://lifehacker.com/whether-to-turn-on-the-a-c-or-roll-down-the-windows-ac-1850334173)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Diferença mínima dentro de Arrays.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-diferenca-minima-dentro-de-arrays-ibk)
-- [Dev.to/JS] [How to Code the Bubble Sort Algorithm in JavaScript](https://dev.to/nielsenjared/how-to-code-the-bubble-sort-algorithm-in-javascript-2bga)
 - [Lifehacker] [Book Your Next Stay on These Rental Sites Instead of Airbnb](https://lifehacker.com/book-your-next-stay-on-these-rental-sites-instead-of-ai-1850329351)
 - [Lifehacker] [This Dairy-Free Yogurt Makes Incredible French Toast](https://lifehacker.com/this-dairy-free-yogurt-makes-incredible-french-toast-1850329387)
 - [Lifehacker] [Get a One-Year Sam&#39;s Club Membership for $10 Right Now](https://lifehacker.com/get-a-one-year-sams-club-membership-for-10-right-now-1850333329)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Update Your PC ASAP](https://lifehacker.com/why-you-should-update-your-pc-asap-1850327315)
 - [Lifehacker] [What You Should Know About Strep Throat and the Amoxicillin Shortage](https://lifehacker.com/what-you-should-know-about-strep-throat-and-the-amoxici-1850325262)
 - [Crazy Programmer] [Niklaus Wirth Biography](https://www.thecrazyprogrammer.com/2023/04/niklaus-wirth-biography.html)
-- [Lifehacker] [Don&#39;t Forget the New Federal Tax Deadline This Year](https://lifehacker.com/dont-forget-the-new-federal-tax-deadline-this-year-1850325399)
-- [Lifehacker] [Freeze This Fancy Citrus Fruit Before the Season Ends](https://lifehacker.com/freeze-this-fancy-citrus-fruit-before-the-season-ends-1850325665)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Forget the New Federal Tax Deadline This Year](https://lifehacker.com/dont-forget-the-new-federal-tax-deadline-this-year-1850325399)<!-- TECH-POSTS:END -->
 
 ---
 
