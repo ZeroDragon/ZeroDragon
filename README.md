@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Toastify : The complete guide.](https://dev.to/alakkadshaw/react-toastify-the-complete-guide-164j)
+- [Dev.to/JS] [A Beginner&#39;s Guide to Searching for Elements in Arrays with JavaScript](https://dev.to/pnishant23/a-beginners-guide-to-searching-for-elements-in-arrays-with-javascript-535b)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Clean Bird Poop From Your Patio](https://lifehacker.com/the-best-and-worst-ways-to-clean-bird-poop-from-your-1850337329)
 - [Dev.to/JS] [Building a Live Code Sharing Platform With Dyte and React](https://dev.to/vishal19111999/building-a-live-code-sharing-platform-with-dyte-and-react-1fbi)
 - [Dev.to/JS] [For all those devs who are just starting out](https://dev.to/ezequielbugnon/para-todos-aquellos-devs-que-recien-estan-comenzando-25o7)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Main Concepts of React Js !!](https://dev.to/shaikhmd007/main-concepts-of-react-js--4aim)
 - [Dev.to/JS] [strz – Very Strongly Typed String Functions](https://dev.to/dio41020/strz-very-strongly-typed-string-functions-58on)
 - [Lifehacker] [Everything You Should Be Using Your Local Extension Office for &lpar;but Aren’t&rpar;](https://lifehacker.com/everything-you-should-be-using-your-local-extension-off-1850329094)
-- [Dev.to/JS] [Effortlessly Tame Concurrency in Golang: A Deep Dive into Worker Pools](https://dev.to/doziestar/effortlessly-tame-concurrency-in-golang-a-deep-dive-into-worker-pools-4pm)
-- [Dev.to/JS] [The Dynamic Component in React?](https://dev.to/composite/the-dynamic-component-in-react-26ij)
 - [Lifehacker] [Make Your Own Aperitif With Oranges and Crappy Wine](https://lifehacker.com/make-your-own-aperitif-with-oranges-and-shitty-wine-1850330111)
 - [Lifehacker] [Whether to Turn on the A/C or Roll Down the Windows, According to Science](https://lifehacker.com/whether-to-turn-on-the-a-c-or-roll-down-the-windows-ac-1850334173)
 - [Lifehacker] [Book Your Next Stay on These Rental Sites Instead of Airbnb](https://lifehacker.com/book-your-next-stay-on-these-rental-sites-instead-of-ai-1850329351)
