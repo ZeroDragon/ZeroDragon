@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript array methods](https://dev.to/bansikah/javascript-array-methods-3jfm)
 - [Dev.to/JS] [AI is helping developers pull pranks and gags but will it replace us?](https://dev.to/glitch/ai-is-helping-developers-pull-pranks-and-gags-but-will-it-replace-us-42g2)
 - [Dev.to/JS] [Angular standalone components](https://dev.to/raphaelramos/angular-standalone-components-67i)
 - [Dev.to/JS] [Quais os principais hooks do react?](https://dev.to/eliasgabriel1/quais-os-principais-hooks-do-react-4bkd)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get Paid up to $20,000 for Finding ChatGPT Security Flaws](https://lifehacker.com/get-paid-up-to-20-000-for-finding-chatgpt-security-fla-1850333616)
 - [Dev.to/JS] [Free Robux Generator - Results, Reviews, Pros, Cons, Uses, Scam And Legit?](https://dev.to/robuxfreef58967/free-robux-generator-results-reviews-pros-cons-uses-scam-and-legit-ano)
 - [Lifehacker] [Fortune Favors Those Who Add Cheese to Their Smoothies](https://lifehacker.com/fortune-favors-those-who-add-cheese-to-their-smoothies-1850329579)
-- [Dev.to/JS] [How to use Text Summarization API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-text-summarization-api-with-javascript-in-5-minutes-5894)
 - [Lifehacker] [You Can Stop Hidden Windows Apps From Running on Boot Up](https://lifehacker.com/you-can-stop-hidden-windows-apps-from-running-on-boot-u-1850332775)
 - [Lifehacker] [Everything You Should Be Using Your Local Extension Office for &lpar;but Aren’t&rpar;](https://lifehacker.com/everything-you-should-be-using-your-local-extension-off-1850329094)
 - [Lifehacker] [Make Your Own Aperitif With Oranges and Crappy Wine](https://lifehacker.com/make-your-own-aperitif-with-oranges-and-shitty-wine-1850330111)
