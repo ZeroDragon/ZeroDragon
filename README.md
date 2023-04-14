@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Diferença mínima dentro de Arrays.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-diferenca-minima-dentro-de-arrays-ibk)
+- [Dev.to/JS] [How to Code the Bubble Sort Algorithm in JavaScript](https://dev.to/nielsenjared/how-to-code-the-bubble-sort-algorithm-in-javascript-2bga)
+- [Dev.to/JS] [React vs Angular vs Vue](https://dev.to/developer_sudip/react-vs-angular-vs-vue-49dj)
+- [Dev.to/JS] [Lessons Learned: Adding ChatGPT to a Tic-Tac-Toe Game in Next.js](https://dev.to/jeffsalive/lessons-learned-adding-chatgpt-to-a-tic-tac-toe-game-in-nextjs-20dm)
+- [Lifehacker] [Book Your Next Stay on These Rental Sites Instead of Airbnb](https://lifehacker.com/book-your-next-stay-on-these-rental-sites-instead-of-ai-1850329351)
 - [Lifehacker] [This Dairy-Free Yogurt Makes Incredible French Toast](https://lifehacker.com/this-dairy-free-yogurt-makes-incredible-french-toast-1850329387)
 - [Dev.to/JS] [K-Tech Assessment: como avaliar o conhecimento tecnológico da sua equipe e guiar investimentos estratégicos](https://dev.to/demgoncalves/k-tech-assessment-como-avaliar-o-conhecimento-tecnologico-da-sua-equipe-e-guiar-investimentos-estrategicos-3ahk)
 - [Dev.to/JS] [Node CLI App - Tax Calculator](https://dev.to/bekbrace/node-cli-app-tax-calculator-1p0b)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How we built a 1% website in 3 days for €7](https://dev.to/polterguy/how-we-built-a-1-website-in-3-days-for-eu7-27e)
 - [Dev.to/JS] [Oracle Database 23c FREE - Developer release](https://dev.to/loiclefevre/oracle-database-23c-free-developer-release-39a3)
 - [Dev.to/JS] [How to loop through an HTML element using an event listener and for loop in JavaScript](https://dev.to/biljanacodes/how-to-loop-through-an-html-element-using-an-event-listener-and-for-loop-in-javascript-3bpj)
-- [Dev.to/JS] [Career in Tech: How to become a Backend Engineer](https://dev.to/chidiebereomasi/career-in-tech-how-to-become-a-backend-engineer-4aon)
-- [Dev.to/JS] [Create a Weather App with HTML, CSS, and JavaScript](https://dev.to/incoderweb/create-a-weather-app-with-html-css-and-javascript-22h8)
-- [Dev.to/JS] [How to Detect Clicks Outside of an Element in NextJS or React](https://dev.to/mirfayekhossain/how-to-detect-clicks-outside-of-an-element-in-nextjs-or-react-301p)
-- [Dev.to/JS] [Do you really know how setimeout and setinterval work?](https://dev.to/devlawrence/do-you-really-know-how-setimeout-and-setinterval-work-33md)
 - [Lifehacker] [Get a One-Year Sam&#39;s Club Membership for $10 Right Now](https://lifehacker.com/get-a-one-year-sams-club-membership-for-10-right-now-1850333329)
 - [Lifehacker] [How to Watch the Lyrid Meteor Shower This Month](https://lifehacker.com/how-to-watch-the-lyrid-meteor-shower-this-month-1850333564)
 - [Lifehacker] [How to Win at &#39;Digits,&#39; the New Wordle for Math](https://lifehacker.com/how-to-win-at-digits-the-new-wordle-for-math-1850333000)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Turn a Garden Planter Into Secret Storage](https://lifehacker.com/turn-a-garden-planter-into-secret-storage-1850323898)
 - [Lifehacker] [You Can Get a Year of Peacock Premium for $20 Right Now](https://lifehacker.com/you-can-get-a-year-of-peacock-premium-for-20-right-now-1850324923)
 - [Lifehacker] [Understand YouTube&#39;s New &#39;1080p Premium&#39; Before You Subscribe for It](https://lifehacker.com/understand-youtubes-new-1080p-premium-before-you-subscr-1850323235)
-- [Lifehacker] [Let a Shoelace Water Your Plants for You](https://lifehacker.com/let-a-shoelace-water-your-plants-for-you-1850323984)
-- [Lifehacker] [The Comstock Act Is One of America&#39;s Weirdest and Dumbest Laws](https://lifehacker.com/the-comstock-act-is-one-of-americas-weirdest-and-dumbes-1850323620)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Let a Shoelace Water Your Plants for You](https://lifehacker.com/let-a-shoelace-water-your-plants-for-you-1850323984)<!-- TECH-POSTS:END -->
 
 ---
 
