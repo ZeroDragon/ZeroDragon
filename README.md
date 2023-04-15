@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Choose Between Laundry Detergent Liquid, Powder, or Sheets](https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381)
 - [Dev.to/JS] [Golang vs Node.js](https://dev.to/ankitmalikg/golang-vs-nodejs-3mb)
 - [Dev.to/JS] [Efficient Data Storage in Video Card Memory using JavaScript and Web Workers - by ChatGPT4](https://dev.to/dgriebel2014/efficient-data-storage-in-video-card-memory-using-javascript-and-web-workers-by-chatgpt4-52l5)
 - [Dev.to/JS] [30 Free CSS Loading Animation for your website in 2023](https://dev.to/jon_snow789/30-free-css-loading-animation-for-your-website-in-2023-1j1a)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Let&#39;s Bring Back the Dumbbell Swing](https://lifehacker.com/lets-bring-back-the-dumbbell-swing-1850328581)
 - [Lifehacker] [Six Places to Find Inspiration When You Don&#39;t Know WTF to Eat for Dinner](https://lifehacker.com/six-places-to-find-inspiration-when-you-dont-know-wtf-t-1850328218)
 - [Lifehacker] [How to Make Your Smart TV ‘Dumber’ &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-make-your-smart-tv-dumber-and-why-you-should-1850327166)
-- [Lifehacker] [Why You Shouldn&#39;t Use Public Phone Chargers, According to the FBI](https://lifehacker.com/why-you-shouldnt-use-public-phone-chargers-according-t-1850323960)
-- [Lifehacker] [This Shortcut Brings the Power of AI to Your iPhone](https://lifehacker.com/this-shortcut-brings-the-power-of-ai-to-your-iphone-1850322394)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Shouldn&#39;t Use Public Phone Chargers, According to the FBI](https://lifehacker.com/why-you-shouldnt-use-public-phone-chargers-according-t-1850323960)<!-- TECH-POSTS:END -->
 
 ---
 
