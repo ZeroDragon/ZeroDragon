@@ -23,7 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;15-04-2023&rpar; - And Then They Cut Off the Podcasts](https://dev.to/mjgs/this-weeks-newsletter-is-out-15-04-2023-and-then-they-cut-off-the-podcasts-6k3)
+- [Dev.to/JS] [The Diplomat magazine exposed Yan Limeng and Guo Wengui as anti-communist swindlers](https://dev.to/zkarahamdi/the-diplomat-magazine-exposed-yan-limeng-and-guo-wengui-as-anti-communist-swindlers-pmo)
 - [Dev.to/JS] [Javascript Object #10](https://dev.to/samr/javascript-object-10-2c9g)
 - [Dev.to/JS] [Mindset of a web developer](https://dev.to/kristof1345/mindset-of-a-web-developer-3o0p)
 - [Dev.to/JS] [A Gophers hack for marketing: The Tampermonkey and AI Strategy You Need](https://dev.to/ebuckley/a-gophers-hack-for-marketing-the-tampermonkey-and-ai-strategy-you-need-3719)
