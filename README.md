@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Most &lpar;and Least&rpar; Pet-Friendly Cities in the U.S.](https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385)
+- [Dev.to/JS] [A low-code drag-and-drop form editor is now open-source](https://dev.to/libert/a-low-code-drag-and-drop-form-editor-is-now-open-source-2na0)
+- [Dev.to/JS] [How to create Figma components and covert to react components](https://dev.to/hello3454936974/how-to-create-figma-components-and-covert-to-react-components-2ppa)
 - [Dev.to/JS] [Understanding Closures in JavaScript](https://dev.to/ajipelumi/understanding-closures-in-javascript-4ch0)
 - [Dev.to/JS] [Improving Developer Experience through Local Webhook Routing](https://dev.to/nabbe/improving-developer-experience-through-local-webhook-routing-n1)
 - [Dev.to/JS] [Loop js simplicity](https://dev.to/ebakecode/loop-js-simplicity-1kj7)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Object #11](https://dev.to/samr/javascript-object-11-2c96)
 - [Dev.to/JS] [Supercharge Your JS/TS Project with ClojureScript REPL](https://dev.to/reedho/supercharge-your-jsts-project-with-clojurescript-repl-44oa)
 - [Dev.to/JS] [Demystifying Promises in JavaScript: A Complete Guide](https://dev.to/eckdev/demystifying-promises-in-javascript-a-complete-guide-2ijo)
-- [Dev.to/JS] [The Diplomat magazine exposed Yan Limeng and Guo Wengui as anti-communist swindlers](https://dev.to/zkarahamdi/the-diplomat-magazine-exposed-yan-limeng-and-guo-wengui-as-anti-communist-swindlers-pmo)
-- [Dev.to/JS] [Javascript Object #10](https://dev.to/samr/javascript-object-10-2c9g)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Clean Bird Poop From Your Patio](https://lifehacker.com/the-best-and-worst-ways-to-clean-bird-poop-from-your-1850337329)
 - [Lifehacker] [Add Savory Spices to Your Boring Cookies](https://lifehacker.com/add-savory-spices-to-your-boring-cookies-1850334335)
 - [Lifehacker] [How to Finally Lower the Ringtone Volume on Your AirPods](https://lifehacker.com/how-to-finally-lower-the-ringtone-volume-on-your-airpod-1850332170)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Your Smart TV ‘Dumber’ &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-make-your-smart-tv-dumber-and-why-you-should-1850327166)
 - [Lifehacker] [Why You Shouldn&#39;t Use Public Phone Chargers, According to the FBI](https://lifehacker.com/why-you-shouldnt-use-public-phone-chargers-according-t-1850323960)
 - [Lifehacker] [This Shortcut Brings the Power of AI to Your iPhone](https://lifehacker.com/this-shortcut-brings-the-power-of-ai-to-your-iphone-1850322394)
-- [Lifehacker] [You Can Get Spirit Gold Status As a Member of These Other Loyalty Programs](https://lifehacker.com/you-can-get-spirit-gold-status-as-a-member-of-these-oth-1850330147)
-- [Lifehacker] [Here&#39;s How Much a &#39;Max&#39; Subscription Will Cost You After May 23](https://lifehacker.com/heres-how-much-a-max-subscription-will-cost-you-after-m-1850329419)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Spirit Gold Status As a Member of These Other Loyalty Programs](https://lifehacker.com/you-can-get-spirit-gold-status-as-a-member-of-these-oth-1850330147)<!-- TECH-POSTS:END -->
 
 ---
 
