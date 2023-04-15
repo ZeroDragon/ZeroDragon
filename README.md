@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Art of Debugging: Techniques for Effective Problem-Solving](https://dev.to/raviagheda/the-art-of-debugging-techniques-for-effective-problem-solving-3b66)
+- [Dev.to/JS] [Thiis: A Comprehensive JavaScript/TypeScript Package for Efficient Development](https://dev.to/karbashevskyi/thiis-a-comprehensive-javascripttypescript-package-for-efficient-development-b9m)
 - [Dev.to/JS] [Top 5 Ways to Deploy Static Sites for Free](https://dev.to/armanidrisi/top-5-ways-to-deploy-static-sites-for-free-2oc7)
 - [Dev.to/JS] [React Vs Angular Comparison And Which One To Choose: A Comprehensive Guide](https://dev.to/armanidrisi/react-vs-angular-comparison-and-which-one-to-choose-a-comprehensive-guide-50jg)
 - [Dev.to/JS] [React Series: useReducer](https://dev.to/oluwatrillions/react-series-usereducer-1eh4)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understand the Asynchronous JavaScript: Callbacks, Promises, and Async/Await](https://dev.to/aradwan20/understand-the-asynchronous-javascript-callbacks-promises-and-asyncawait-3oj9)
 - [Dev.to/JS] [Maker tag](https://dev.to/alohe/maker-tag-1mdn)
 - [Lifehacker] [You Shouldn&#39;t Keep These Things In Your Bathroom](https://lifehacker.com/you-shouldnt-keep-these-things-in-your-bathroom-1850339383)
-- [Dev.to/JS] [Best Practices for Debugging Node.js Applications](https://dev.to/folasayosamuel/best-practices-for-debugging-nodejs-applications-2hie)
-- [Dev.to/JS] [Comparison of JavaScript Asynchronous Methods](https://dev.to/snehasishkonger/comparison-of-javascript-asynchronous-methods-2a1h)
 - [Lifehacker] [The Most &lpar;and Least&rpar; Pet-Friendly Cities in the U.S.](https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Clean Bird Poop From Your Patio](https://lifehacker.com/the-best-and-worst-ways-to-clean-bird-poop-from-your-1850337329)
 - [Lifehacker] [Add Savory Spices to Your Boring Cookies](https://lifehacker.com/add-savory-spices-to-your-boring-cookies-1850334335)
