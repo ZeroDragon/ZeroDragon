@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Closures in JavaScript](https://dev.to/ajipelumi/understanding-closures-in-javascript-4ch0)
+- [Dev.to/JS] [Improving Developer Experience through Local Webhook Routing](https://dev.to/nabbe/improving-developer-experience-through-local-webhook-routing-n1)
+- [Dev.to/JS] [Loop js simplicity](https://dev.to/ebakecode/loop-js-simplicity-1kj7)
+- [Dev.to/JS] [Count Number of Times an Item Appears in an Array](https://dev.to/muyixone/count-number-of-times-an-item-appears-in-an-array-56eh)
 - [Dev.to/JS] [Bulletproof Your Node.js Backend: Manage Environment Variables with Confidence](https://dev.to/vibhanshu909/bulletproof-your-nodejs-backend-manage-environment-variables-with-confidence-25j2)
 - [Dev.to/JS] [Redis + 🐂 Bull = Easy Background Jobs in nodeJs](https://dev.to/shrihari/redis-bull-easy-background-jobs-in-nodejs-50le)
 - [Dev.to/JS] [Exploring the Differences Between TypeScript and JavaScript](https://dev.to/katherineblacksmithh/exploring-the-differences-between-typescript-and-javascript-2d3j)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Demystifying Promises in JavaScript: A Complete Guide](https://dev.to/eckdev/demystifying-promises-in-javascript-a-complete-guide-2ijo)
 - [Dev.to/JS] [The Diplomat magazine exposed Yan Limeng and Guo Wengui as anti-communist swindlers](https://dev.to/zkarahamdi/the-diplomat-magazine-exposed-yan-limeng-and-guo-wengui-as-anti-communist-swindlers-pmo)
 - [Dev.to/JS] [Javascript Object #10](https://dev.to/samr/javascript-object-10-2c9g)
-- [Dev.to/JS] [Mindset of a web developer](https://dev.to/kristof1345/mindset-of-a-web-developer-3o0p)
-- [Dev.to/JS] [A Gophers hack for marketing: The Tampermonkey and AI Strategy You Need](https://dev.to/ebuckley/a-gophers-hack-for-marketing-the-tampermonkey-and-ai-strategy-you-need-3719)
-- [Dev.to/JS] [Unleash the power of Partial &lt;T&gt; for mock data perfection!](https://dev.to/sachitsac/unleash-the-power-of-partial-for-mock-data-perfection-5akm)
-- [Dev.to/JS] [How to use JWT Authentication in NodeJs/NextJs](https://dev.to/husnain/how-to-use-jwt-authentication-in-nodejsnextjs-2pp0)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Clean Bird Poop From Your Patio](https://lifehacker.com/the-best-and-worst-ways-to-clean-bird-poop-from-your-1850337329)
 - [Lifehacker] [Add Savory Spices to Your Boring Cookies](https://lifehacker.com/add-savory-spices-to-your-boring-cookies-1850334335)
 - [Lifehacker] [How to Finally Lower the Ringtone Volume on Your AirPods](https://lifehacker.com/how-to-finally-lower-the-ringtone-volume-on-your-airpod-1850332170)
