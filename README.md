@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 5 Ways to Deploy Static Sites for Free](https://dev.to/armanidrisi/top-5-ways-to-deploy-static-sites-for-free-2oc7)
+- [Dev.to/JS] [React Vs Angular Comparison And Which One To Choose: A Comprehensive Guide](https://dev.to/armanidrisi/react-vs-angular-comparison-and-which-one-to-choose-a-comprehensive-guide-50jg)
+- [Dev.to/JS] [React Series: useReducer](https://dev.to/oluwatrillions/react-series-usereducer-1eh4)
 - [Lifehacker] [How to Choose Between Laundry Detergent Liquid, Powder, or Sheets](https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381)
 - [Dev.to/JS] [Golang vs Node.js](https://dev.to/ankitmalikg/golang-vs-nodejs-3mb)
 - [Dev.to/JS] [Efficient Data Storage in Video Card Memory using JavaScript and Web Workers - by ChatGPT4](https://dev.to/dgriebel2014/efficient-data-storage-in-video-card-memory-using-javascript-and-web-workers-by-chatgpt4-52l5)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Shouldn&#39;t Keep These Things In Your Bathroom](https://lifehacker.com/you-shouldnt-keep-these-things-in-your-bathroom-1850339383)
 - [Dev.to/JS] [Best Practices for Debugging Node.js Applications](https://dev.to/folasayosamuel/best-practices-for-debugging-nodejs-applications-2hie)
 - [Dev.to/JS] [Comparison of JavaScript Asynchronous Methods](https://dev.to/snehasishkonger/comparison-of-javascript-asynchronous-methods-2a1h)
-- [Dev.to/JS] [Mastering Functions: How to Write Functions That Will Take Your Skills to the Next Level](https://dev.to/xshapira/mastering-functions-how-to-write-functions-that-will-take-your-skills-to-the-next-level-g6)
-- [Dev.to/JS] [Working on interface UI](https://dev.to/lukeuserex/working-on-interface-ui-37m2)
-- [Dev.to/JS] [Asynchronous processing in JavaScript](https://dev.to/adderek/asynchronous-processing-in-javascript-5adh)
 - [Lifehacker] [The Most &lpar;and Least&rpar; Pet-Friendly Cities in the U.S.](https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Clean Bird Poop From Your Patio](https://lifehacker.com/the-best-and-worst-ways-to-clean-bird-poop-from-your-1850337329)
 - [Lifehacker] [Add Savory Spices to Your Boring Cookies](https://lifehacker.com/add-savory-spices-to-your-boring-cookies-1850334335)
