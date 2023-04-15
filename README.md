@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Working on interface UI](https://dev.to/lukeuserex/working-on-interface-ui-37m2)
+- [Dev.to/JS] [Asynchronous processing in JavaScript](https://dev.to/adderek/asynchronous-processing-in-javascript-5adh)
+- [Dev.to/JS] [Revolutionize Your Web Development with DevOps and JavaScript!](https://dev.to/imsampro/revolutionize-your-web-development-with-devops-and-javascript-1k4b)
+- [Dev.to/JS] [Write a web scraper to get news from Hacker News](https://dev.to/juan_c/write-a-web-scraper-to-get-news-from-hacker-news-1n4c)
 - [Lifehacker] [The Most &lpar;and Least&rpar; Pet-Friendly Cities in the U.S.](https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385)
 - [Dev.to/JS] [A low-code drag-and-drop form editor is now open-source](https://dev.to/libert/a-low-code-drag-and-drop-form-editor-is-now-open-source-2na0)
 - [Dev.to/JS] [How to create Figma components and covert to react components](https://dev.to/hello3454936974/how-to-create-figma-components-and-covert-to-react-components-2ppa)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Count Number of Times an Item Appears in an Array](https://dev.to/muyixone/count-number-of-times-an-item-appears-in-an-array-56eh)
 - [Dev.to/JS] [Bulletproof Your Node.js Backend: Manage Environment Variables with Confidence](https://dev.to/vibhanshu909/bulletproof-your-nodejs-backend-manage-environment-variables-with-confidence-25j2)
 - [Dev.to/JS] [Redis + 🐂 Bull = Easy Background Jobs in nodeJs](https://dev.to/shrihari/redis-bull-easy-background-jobs-in-nodejs-50le)
-- [Dev.to/JS] [Exploring the Differences Between TypeScript and JavaScript](https://dev.to/katherineblacksmithh/exploring-the-differences-between-typescript-and-javascript-2d3j)
-- [Dev.to/JS] [Javascript Object #11](https://dev.to/samr/javascript-object-11-2c96)
-- [Dev.to/JS] [Supercharge Your JS/TS Project with ClojureScript REPL](https://dev.to/reedho/supercharge-your-jsts-project-with-clojurescript-repl-44oa)
-- [Dev.to/JS] [Demystifying Promises in JavaScript: A Complete Guide](https://dev.to/eckdev/demystifying-promises-in-javascript-a-complete-guide-2ijo)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Clean Bird Poop From Your Patio](https://lifehacker.com/the-best-and-worst-ways-to-clean-bird-poop-from-your-1850337329)
 - [Lifehacker] [Add Savory Spices to Your Boring Cookies](https://lifehacker.com/add-savory-spices-to-your-boring-cookies-1850334335)
 - [Lifehacker] [How to Finally Lower the Ringtone Volume on Your AirPods](https://lifehacker.com/how-to-finally-lower-the-ringtone-volume-on-your-airpod-1850332170)
