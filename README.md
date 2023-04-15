@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [For our community 😜 for the family communitys](https://dev.to/kaykash2222/for-our-community-for-the-family-communitys-24ke)
+- [Dev.to/JS] [Are you happy with the time for your code to be reviewed?](https://dev.to/tehaisperlis/are-you-happy-with-your-code-review-process-48el)
 - [Dev.to/JS] [JavaScript array methods](https://dev.to/bansikah/javascript-array-methods-3jfm)
 - [Dev.to/JS] [AI is helping developers pull pranks and gags but will it replace us?](https://dev.to/glitch/ai-is-helping-developers-pull-pranks-and-gags-but-will-it-replace-us-42g2)
 - [Dev.to/JS] [Angular standalone components](https://dev.to/raphaelramos/angular-standalone-components-67i)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Add Savory Spices to Your Boring Cookies](https://lifehacker.com/add-savory-spices-to-your-boring-cookies-1850334335)
 - [Lifehacker] [How to Finally Lower the Ringtone Volume on Your AirPods](https://lifehacker.com/how-to-finally-lower-the-ringtone-volume-on-your-airpod-1850332170)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Gen Z Is Redefining Espionage](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-gen-z-is-1850335727)
-- [Dev.to/JS] [Demystifying React Hooks: Usage, Examples, and Common Mistakes](https://dev.to/koolkishan/demystifying-react-hooks-usage-examples-and-common-mistakes-24ln)
 - [Lifehacker] [Get Paid up to $20,000 for Finding ChatGPT Security Flaws](https://lifehacker.com/get-paid-up-to-20-000-for-finding-chatgpt-security-fla-1850333616)
-- [Dev.to/JS] [Free Robux Generator - Results, Reviews, Pros, Cons, Uses, Scam And Legit?](https://dev.to/robuxfreef58967/free-robux-generator-results-reviews-pros-cons-uses-scam-and-legit-ano)
 - [Lifehacker] [Fortune Favors Those Who Add Cheese to Their Smoothies](https://lifehacker.com/fortune-favors-those-who-add-cheese-to-their-smoothies-1850329579)
 - [Lifehacker] [You Can Stop Hidden Windows Apps From Running on Boot Up](https://lifehacker.com/you-can-stop-hidden-windows-apps-from-running-on-boot-u-1850332775)
 - [Lifehacker] [Everything You Should Be Using Your Local Extension Office for &lpar;but Aren’t&rpar;](https://lifehacker.com/everything-you-should-be-using-your-local-extension-off-1850329094)
