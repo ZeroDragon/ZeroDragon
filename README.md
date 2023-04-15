@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use JWT Authentication in NodeJs/NextJs](https://dev.to/husnain/how-to-use-jwt-authentication-in-nodejsnextjs-2pp0)
+- [Dev.to/JS] [Three ways to set headers with Netlify and Astro](https://dev.to/cassidoo/three-ways-to-set-headers-with-netlify-and-astro-1iib)
 - [Dev.to/JS] [Encapsulation Explained using JavaScript](https://dev.to/akpevwe11/encapsulation-explained-using-javascript-21hl)
 - [Dev.to/JS] [Update on Contractr: Progress on User Authentication, User Profiles, and Chat Feature](https://dev.to/arashjangali/update-on-contractr-progress-on-user-authentication-user-profiles-and-chat-feature-dhj)
 - [Dev.to/JS] [For our community 😜 for the family communitys](https://dev.to/kaykash2222/for-our-community-for-the-family-communitys-24ke)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Quais os principais hooks do react?](https://dev.to/eliasgabriel1/quais-os-principais-hooks-do-react-4bkd)
 - [Dev.to/JS] [What is a function in coding? explained by a semi-layman](https://dev.to/mcwhopper63/what-is-a-function-in-coding-explained-by-a-semi-layman-id6)
 - [Dev.to/JS] [React Toastify : The complete guide.](https://dev.to/alakkadshaw/react-toastify-the-complete-guide-164j)
-- [Dev.to/JS] [A Beginner&#39;s Guide to Searching for Elements in Arrays with JavaScript](https://dev.to/pnishant23/a-beginners-guide-to-searching-for-elements-in-arrays-with-javascript-535b)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Clean Bird Poop From Your Patio](https://lifehacker.com/the-best-and-worst-ways-to-clean-bird-poop-from-your-1850337329)
-- [Dev.to/JS] [Building a Live Code Sharing Platform With Dyte and React](https://dev.to/vishal19111999/building-a-live-code-sharing-platform-with-dyte-and-react-1fbi)
 - [Lifehacker] [Add Savory Spices to Your Boring Cookies](https://lifehacker.com/add-savory-spices-to-your-boring-cookies-1850334335)
 - [Lifehacker] [How to Finally Lower the Ringtone Volume on Your AirPods](https://lifehacker.com/how-to-finally-lower-the-ringtone-volume-on-your-airpod-1850332170)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Gen Z Is Redefining Espionage](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-gen-z-is-1850335727)
