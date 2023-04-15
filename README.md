@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understand the Asynchronous JavaScript: Callbacks, Promises, and Async/Await](https://dev.to/aradwan20/understand-the-asynchronous-javascript-callbacks-promises-and-asyncawait-3oj9)
+- [Dev.to/JS] [Maker tag](https://dev.to/alohe/maker-tag-1mdn)
 - [Lifehacker] [You Shouldn&#39;t Keep These Things In Your Bathroom](https://lifehacker.com/you-shouldnt-keep-these-things-in-your-bathroom-1850339383)
 - [Dev.to/JS] [Best Practices for Debugging Node.js Applications](https://dev.to/folasayosamuel/best-practices-for-debugging-nodejs-applications-2hie)
 - [Dev.to/JS] [Comparison of JavaScript Asynchronous Methods](https://dev.to/snehasishkonger/comparison-of-javascript-asynchronous-methods-2a1h)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A low-code drag-and-drop form editor is now open-source](https://dev.to/libert/a-low-code-drag-and-drop-form-editor-is-now-open-source-2na0)
 - [Dev.to/JS] [How to create Figma components and covert to react components](https://dev.to/hello3454936974/how-to-create-figma-components-and-covert-to-react-components-2ppa)
 - [Dev.to/JS] [Understanding Closures in JavaScript](https://dev.to/ajipelumi/understanding-closures-in-javascript-4ch0)
-- [Dev.to/JS] [Improving Developer Experience through Local Webhook Routing](https://dev.to/nabbe/improving-developer-experience-through-local-webhook-routing-n1)
-- [Dev.to/JS] [Loop js simplicity](https://dev.to/ebakecode/loop-js-simplicity-1kj7)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Clean Bird Poop From Your Patio](https://lifehacker.com/the-best-and-worst-ways-to-clean-bird-poop-from-your-1850337329)
 - [Lifehacker] [Add Savory Spices to Your Boring Cookies](https://lifehacker.com/add-savory-spices-to-your-boring-cookies-1850334335)
 - [Lifehacker] [How to Finally Lower the Ringtone Volume on Your AirPods](https://lifehacker.com/how-to-finally-lower-the-ringtone-volume-on-your-airpod-1850332170)
