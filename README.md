@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Object #11](https://dev.to/samr/javascript-object-11-2c96)
+- [Dev.to/JS] [Supercharge Your JS/TS Project with ClojureScript REPL](https://dev.to/reedho/supercharge-your-jsts-project-with-clojurescript-repl-44oa)
+- [Dev.to/JS] [How to track state after setState with async actions?](https://dev.to/composite/how-to-track-state-after-setstate-with-async-actions-35aa)
+- [Dev.to/JS] [Demystifying Promises in JavaScript: A Complete Guide](https://dev.to/eckdev/demystifying-promises-in-javascript-a-complete-guide-2ijo)
 - [Dev.to/JS] [The Diplomat magazine exposed Yan Limeng and Guo Wengui as anti-communist swindlers](https://dev.to/zkarahamdi/the-diplomat-magazine-exposed-yan-limeng-and-guo-wengui-as-anti-communist-swindlers-pmo)
 - [Dev.to/JS] [Javascript Object #10](https://dev.to/samr/javascript-object-10-2c9g)
 - [Dev.to/JS] [Mindset of a web developer](https://dev.to/kristof1345/mindset-of-a-web-developer-3o0p)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use JWT Authentication in NodeJs/NextJs](https://dev.to/husnain/how-to-use-jwt-authentication-in-nodejsnextjs-2pp0)
 - [Dev.to/JS] [Three ways to set headers with Netlify and Astro](https://dev.to/cassidoo/three-ways-to-set-headers-with-netlify-and-astro-1iib)
 - [Dev.to/JS] [Encapsulation Explained using JavaScript](https://dev.to/akpevwe11/encapsulation-explained-using-javascript-21hl)
-- [Dev.to/JS] [Update on Contractr: Progress on User Authentication, User Profiles, and Chat Feature](https://dev.to/arashjangali/update-on-contractr-progress-on-user-authentication-user-profiles-and-chat-feature-dhj)
-- [Dev.to/JS] [For our community 😜 for the family communitys](https://dev.to/kaykash2222/for-our-community-for-the-family-communitys-24ke)
-- [Dev.to/JS] [Are you happy with the time for your code to be reviewed?](https://dev.to/tehaisperlis/are-you-happy-with-your-code-review-process-48el)
-- [Dev.to/JS] [JavaScript array methods](https://dev.to/bansikah/javascript-array-methods-3jfm)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Clean Bird Poop From Your Patio](https://lifehacker.com/the-best-and-worst-ways-to-clean-bird-poop-from-your-1850337329)
 - [Lifehacker] [Add Savory Spices to Your Boring Cookies](https://lifehacker.com/add-savory-spices-to-your-boring-cookies-1850334335)
 - [Lifehacker] [How to Finally Lower the Ringtone Volume on Your AirPods](https://lifehacker.com/how-to-finally-lower-the-ringtone-volume-on-your-airpod-1850332170)
