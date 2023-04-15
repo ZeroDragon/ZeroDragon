@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Golang vs Node.js](https://dev.to/ankitmalikg/golang-vs-nodejs-3mb)
+- [Dev.to/JS] [Efficient Data Storage in Video Card Memory using JavaScript and Web Workers - by ChatGPT4](https://dev.to/dgriebel2014/efficient-data-storage-in-video-card-memory-using-javascript-and-web-workers-by-chatgpt4-52l5)
+- [Dev.to/JS] [30 Free CSS Loading Animation for your website in 2023](https://dev.to/jon_snow789/30-free-css-loading-animation-for-your-website-in-2023-1j1a)
+- [Dev.to/JS] [Javascript File Handling: 11 Golden Rules to Become a Bill Gates-like Programmer](https://dev.to/karanjrawal/javascript-file-handling-11-golden-rules-to-become-a-bill-gates-like-programmer-2ca3)
+- [Dev.to/JS] [Create a datepicker in React js with &#39;react-datepicker&#39;](https://dev.to/tasfiaislam/create-a-datepicker-in-react-js-with-react-datepicker-2h0o)
 - [Dev.to/JS] [Understand the Asynchronous JavaScript: Callbacks, Promises, and Async/Await](https://dev.to/aradwan20/understand-the-asynchronous-javascript-callbacks-promises-and-asyncawait-3oj9)
 - [Dev.to/JS] [Maker tag](https://dev.to/alohe/maker-tag-1mdn)
 - [Lifehacker] [You Shouldn&#39;t Keep These Things In Your Bathroom](https://lifehacker.com/you-shouldnt-keep-these-things-in-your-bathroom-1850339383)
@@ -31,12 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Functions: How to Write Functions That Will Take Your Skills to the Next Level](https://dev.to/xshapira/mastering-functions-how-to-write-functions-that-will-take-your-skills-to-the-next-level-g6)
 - [Dev.to/JS] [Working on interface UI](https://dev.to/lukeuserex/working-on-interface-ui-37m2)
 - [Dev.to/JS] [Asynchronous processing in JavaScript](https://dev.to/adderek/asynchronous-processing-in-javascript-5adh)
-- [Dev.to/JS] [Revolutionize Your Web Development with DevOps and JavaScript!](https://dev.to/imsampro/revolutionize-your-web-development-with-devops-and-javascript-1k4b)
-- [Dev.to/JS] [Write a web scraper to get news from Hacker News](https://dev.to/juan_c/write-a-web-scraper-to-get-news-from-hacker-news-1n4c)
 - [Lifehacker] [The Most &lpar;and Least&rpar; Pet-Friendly Cities in the U.S.](https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385)
-- [Dev.to/JS] [A low-code drag-and-drop form editor is now open-source](https://dev.to/libert/a-low-code-drag-and-drop-form-editor-is-now-open-source-2na0)
-- [Dev.to/JS] [How to create Figma components and covert to react components](https://dev.to/hello3454936974/how-to-create-figma-components-and-covert-to-react-components-2ppa)
-- [Dev.to/JS] [Understanding Closures in JavaScript](https://dev.to/ajipelumi/understanding-closures-in-javascript-4ch0)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Clean Bird Poop From Your Patio](https://lifehacker.com/the-best-and-worst-ways-to-clean-bird-poop-from-your-1850337329)
 - [Lifehacker] [Add Savory Spices to Your Boring Cookies](https://lifehacker.com/add-savory-spices-to-your-boring-cookies-1850334335)
 - [Lifehacker] [How to Finally Lower the Ringtone Volume on Your AirPods](https://lifehacker.com/how-to-finally-lower-the-ringtone-volume-on-your-airpod-1850332170)
