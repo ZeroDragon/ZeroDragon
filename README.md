@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pop the bubble of JavaScript Closures.](https://dev.to/hariszulfiqar054/pop-the-bubble-of-javascript-closures-482n)
+- [Dev.to/JS] [Weekend Reading](https://dev.to/sporter/weekend-reading-3dk0)
+- [Dev.to/JS] [Why has this stopped working in JQuery](https://dev.to/zaakajarimbo/why-has-this-stopped-working-in-js-55cc)
+- [Dev.to/JS] [Git Web Terminal and Isomorphic Git](https://dev.to/jcubic/git-web-terminal-and-isomorphic-git-2pj)
 - [Dev.to/JS] [Adding server side Open Graph and SEO to an existing SPA](https://dev.to/anatolykopyl/adding-server-side-open-graph-and-seo-to-an-existing-spa-2fea)
 - [Dev.to/JS] [Add Infinite Scroll in React App using React Infinite Scroller](https://dev.to/alakkadshaw/add-infinite-scroll-in-react-app-using-react-infinite-scroller-4lln)
 - [Dev.to/JS] [Getting Started with MedusaJS: A Basic Tutorial](https://dev.to/whizfactor/getting-started-with-medusajs-a-basic-tutorial-e77)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Vs Angular Comparison And Which One To Choose: A Comprehensive Guide](https://dev.to/armanidrisi/react-vs-angular-comparison-and-which-one-to-choose-a-comprehensive-guide-50jg)
 - [Dev.to/JS] [React Series: useReducer](https://dev.to/oluwatrillions/react-series-usereducer-1eh4)
 - [Lifehacker] [How to Choose Between Laundry Detergent Liquid, Powder, or Sheets](https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381)
-- [Dev.to/JS] [Golang vs Node.js](https://dev.to/ankitmalikg/golang-vs-nodejs-3mb)
-- [Dev.to/JS] [Efficient Data Storage in Video Card Memory using JavaScript and Web Workers - by ChatGPT4](https://dev.to/dgriebel2014/efficient-data-storage-in-video-card-memory-using-javascript-and-web-workers-by-chatgpt4-52l5)
-- [Dev.to/JS] [30 Free CSS Loading Animation for your website in 2023](https://dev.to/jon_snow789/30-free-css-loading-animation-for-your-website-in-2023-1j1a)
-- [Dev.to/JS] [Javascript File Handling: 11 Golden Rules to Become a Bill Gates-like Programmer](https://dev.to/karanjrawal/javascript-file-handling-11-golden-rules-to-become-a-bill-gates-like-programmer-2ca3)
 - [Lifehacker] [You Shouldn&#39;t Keep These Things In Your Bathroom](https://lifehacker.com/you-shouldnt-keep-these-things-in-your-bathroom-1850339383)
 - [Lifehacker] [The Most &lpar;and Least&rpar; Pet-Friendly Cities in the U.S.](https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Clean Bird Poop From Your Patio](https://lifehacker.com/the-best-and-worst-ways-to-clean-bird-poop-from-your-1850337329)
