@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React 18 new features](https://dev.to/tusharjagi/react-18-new-features-50k8)
+- [Dev.to/JS] [Efficiently manage repeated requests in Angular with interceptors](https://dev.to/shrihari/efficiently-manage-repeated-requests-in-angular-with-interceptors-4amn)
+- [Dev.to/JS] [Can WebAssembly make your web apps faster?](https://dev.to/canbax/can-webassembly-make-your-web-apps-faster-378j)
+- [Dev.to/JS] [Starting Front-End Web Development...?](https://dev.to/mrrishuraj/starting-front-end-web-development-18fc)
+- [Lifehacker] [How to Clean Suede Furniture Without Ruining It](https://lifehacker.com/how-to-clean-suede-furniture-without-ruining-it-1850340331)
 - [Dev.to/JS] [Server-Driven UI on the web: Examples, what is it and when to use it](https://dev.to/momciloo/server-driven-ui-on-the-web-examples-what-is-it-and-when-to-use-it-a8p)
 - [Dev.to/JS] [Handling HTML Meta tags in BCMS - quickly and easily](https://dev.to/momciloo/handling-html-meta-tags-in-bcms-quickly-and-easily-3oeb)
 - [Dev.to/JS] [The Frontend Cloud](https://dev.to/peibolsang/the-frontend-cloud-f5g)
@@ -31,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Test Functional Guards in Angular 15](https://dev.to/danywalls/how-to-test-functional-guards-in-angular-15-oie)
 - [Dev.to/JS] [Finding the Balance: When to Use Object Destructuring and When to Avoid It](https://dev.to/andreasbergstrom/finding-the-balance-when-to-use-object-destructuring-and-when-to-avoid-it-1f98)
 - [Dev.to/JS] [Testing localhost on multiple devices](https://dev.to/starbist/testing-localhost-on-multiple-devices-1hfp)
-- [Dev.to/JS] [How To Use MVVM in React Using Hooks and TypeScript](https://dev.to/perssondennis/how-to-use-mvvm-in-react-using-hooks-and-typescript-3o4m)
-- [Dev.to/JS] [need some team members to build a store management web app project](https://dev.to/theankansaha/need-some-team-members-to-build-a-store-management-web-app-project-5io)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Applying to Rent an Apartment](https://lifehacker.com/dont-make-these-mistakes-when-applying-to-rent-an-apart-1850340334)
-- [Dev.to/JS] [5 Reasons to Use Next.js: Unlock the Power of React to Create Powerful Web Apps](https://dev.to/hi_iam_chris/5-reasons-to-use-nextjs-unlock-the-power-of-react-to-create-powerful-web-apps-4d7n)
-- [Dev.to/JS] [Starting Web App in 2023 [Research]](https://dev.to/flatlogic/starting-web-app-in-2023-research-2kfa)
 - [Lifehacker] [The Difference Between Soil and Dirt](https://lifehacker.com/the-difference-between-soil-and-dirt-1850340337)
 - [Lifehacker] [How to Choose Between Laundry Detergent Liquid, Powder, or Sheets](https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381)
 - [Lifehacker] [You Shouldn&#39;t Keep These Things In Your Bathroom](https://lifehacker.com/you-shouldnt-keep-these-things-in-your-bathroom-1850339383)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Interactive Map Shows the Most Common Scams in Your Area](https://lifehacker.com/this-interactive-map-shows-the-most-common-scams-in-you-1850325327)
 - [Lifehacker] [Seven Savory Ways to Use Up That Last Bit of Easter Ham](https://lifehacker.com/seven-savory-ways-to-use-up-that-last-bit-of-easter-ham-1850328105)
 - [Lifehacker] [Your Clothespins Can Tell You When to Do Laundry](https://lifehacker.com/your-clothespins-can-tell-you-when-to-do-laundry-1850327313)
-- [Lifehacker] [Let&#39;s Bring Back the Dumbbell Swing](https://lifehacker.com/lets-bring-back-the-dumbbell-swing-1850328581)
-- [Lifehacker] [Six Places to Find Inspiration When You Don&#39;t Know WTF to Eat for Dinner](https://lifehacker.com/six-places-to-find-inspiration-when-you-dont-know-wtf-t-1850328218)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Let&#39;s Bring Back the Dumbbell Swing](https://lifehacker.com/lets-bring-back-the-dumbbell-swing-1850328581)<!-- TECH-POSTS:END -->
 
 ---
 
