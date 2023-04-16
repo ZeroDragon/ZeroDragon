@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Test Functional Guards in Angular 15](https://dev.to/danywalls/how-to-test-functional-guards-in-angular-15-oie)
+- [Dev.to/JS] [Finding the Balance: When to Use Object Destructuring and When to Avoid It](https://dev.to/andreasbergstrom/finding-the-balance-when-to-use-object-destructuring-and-when-to-avoid-it-1f98)
+- [Dev.to/JS] [Testing localhost on multiple devices](https://dev.to/starbist/testing-localhost-on-multiple-devices-1hfp)
+- [Dev.to/JS] [How To Use MVVM in React Using Hooks and TypeScript](https://dev.to/perssondennis/how-to-use-mvvm-in-react-using-hooks-and-typescript-3o4m)
+- [Dev.to/JS] [need some team members to build a store management web app project](https://dev.to/theankansaha/need-some-team-members-to-build-a-store-management-web-app-project-5io)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Applying to Rent an Apartment](https://lifehacker.com/dont-make-these-mistakes-when-applying-to-rent-an-apart-1850340334)
 - [Dev.to/JS] [5 Reasons to Use Next.js: Unlock the Power of React to Create Powerful Web Apps](https://dev.to/hi_iam_chris/5-reasons-to-use-nextjs-unlock-the-power-of-react-to-create-powerful-web-apps-4d7n)
 - [Dev.to/JS] [Starting Web App in 2023 [Research]](https://dev.to/flatlogic/starting-web-app-in-2023-research-2kfa)
@@ -32,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Type Operators &lpar;keyof and typeof&rpar; in TypeScript](https://dev.to/tomoy/type-operators-keyof-and-typeof-in-typescript-3lb2)
 - [Dev.to/JS] [How to consume 3D Tiles &lpar;pnts&rpar; with Cesium](https://dev.to/hfu/how-to-consume-3d-tiles-pnts-with-cesium-5hn1)
 - [Dev.to/JS] [5 Amazing Project Ideas To Get Hired As A Full-Stack Developer 🔥](https://dev.to/rammcodes/5-amazing-project-ideas-to-get-hired-as-a-full-stack-developer-5lg)
-- [Dev.to/JS] [Code Comparison: React vs Angular](https://dev.to/shriram27/code-comparison-react-vs-angular-3j3k)
-- [Dev.to/JS] [Create Music Player using HTML, CSS, and JavaScript](https://dev.to/incoderweb/create-music-player-using-html-css-and-javascript-3k9d)
-- [Dev.to/JS] [How to Create User Interfaces from React Components: A Comprehensive Guide](https://dev.to/sidramaqbool/how-to-create-user-interfaces-from-react-components-a-comprehensive-guide-7n8)
-- [Dev.to/JS] [How to Build a Fully Functional ToDo SaaS Using Next.js and ZenStack&#39;s Access Control Policy](https://dev.to/zenstack/how-to-build-a-fully-functional-todo-saas-using-nextjs-and-zenstacks-access-control-policy-408p)
-- [Dev.to/JS] [Configuration object that does not match the API schema](https://dev.to/aryyhue/configuration-object-that-does-not-match-the-api-schema-ol1)
 - [Lifehacker] [How to Choose Between Laundry Detergent Liquid, Powder, or Sheets](https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381)
 - [Lifehacker] [You Shouldn&#39;t Keep These Things In Your Bathroom](https://lifehacker.com/you-shouldnt-keep-these-things-in-your-bathroom-1850339383)
 - [Lifehacker] [The Most &lpar;and Least&rpar; Pet-Friendly Cities in the U.S.](https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385)
