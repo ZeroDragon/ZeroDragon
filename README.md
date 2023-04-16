@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to consume 3D Tiles &lpar;pnts&rpar; with Cesium](https://dev.to/hfu/how-to-consume-3d-tiles-pnts-with-cesium-5hn1)
 - [Dev.to/JS] [5 Amazing Project Ideas To Get Hired As A Full-Stack Developer 🔥](https://dev.to/rammcodes/5-amazing-project-ideas-to-get-hired-as-a-full-stack-developer-5lg)
 - [Dev.to/JS] [Code Comparison: React vs Angular](https://dev.to/shriram27/code-comparison-react-vs-angular-3j3k)
 - [Dev.to/JS] [Create Music Player using HTML, CSS, and JavaScript](https://dev.to/incoderweb/create-music-player-using-html-css-and-javascript-3k9d)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [💫 The Solution to node_modules 💾](https://dev.to/willkirkmanm/the-solution-to-nodemodules-30m1)
 - [Dev.to/JS] [React v18.0](https://dev.to/devsahil/react-v180-3942)
 - [Dev.to/JS] [Add Geo-search to your website/app in just 9 lines of code](https://dev.to/ruppysuppy/add-geo-search-to-your-websiteapp-in-just-9-lines-of-code-4kp4)
-- [Dev.to/JS] [Next.js + MDX Blog | CodeSamples.dev](https://dev.to/shibun/codesampesdev-nextjs-mdx-blog-2fcg)
 - [Lifehacker] [How to Choose Between Laundry Detergent Liquid, Powder, or Sheets](https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381)
 - [Lifehacker] [You Shouldn&#39;t Keep These Things In Your Bathroom](https://lifehacker.com/you-shouldnt-keep-these-things-in-your-bathroom-1850339383)
 - [Lifehacker] [The Most &lpar;and Least&rpar; Pet-Friendly Cities in the U.S.](https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385)
