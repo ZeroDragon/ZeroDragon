@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The methods underlying current technology that aren&#39;t discussed](https://dev.to/chidiebereomasi/the-methods-underlying-current-technology-that-arent-discussed-7mk)
+- [Dev.to/JS] [React Context: The Detailed Guide](https://dev.to/alakkadshaw/react-context-the-detailed-guide-1p05)
 - [Dev.to/JS] [React Compound Component with forwardRef using TypeScript](https://dev.to/hmaesta/react-compound-component-with-forwardref-using-typescript-2pi7)
 - [Dev.to/JS] [XML Parsing em NodeJS com XMLBuilder2](https://dev.to/marcopollivier/xml-parsing-em-nodejs-com-xmlbuilder2-1p0e)
 - [Dev.to/JS] [Cek paket](https://dev.to/ssms_notip/cek-paket-44ae)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Can WebAssembly make your web apps faster?](https://dev.to/canbax/can-webassembly-make-your-web-apps-faster-378j)
 - [Dev.to/JS] [Starting Front-End Web Development...?](https://dev.to/mrrishuraj/starting-front-end-web-development-18fc)
 - [Lifehacker] [How to Clean Suede Furniture Without Ruining It](https://lifehacker.com/how-to-clean-suede-furniture-without-ruining-it-1850340331)
-- [Dev.to/JS] [Handling HTML Meta tags in BCMS - quickly and easily](https://dev.to/momciloo/handling-html-meta-tags-in-bcms-quickly-and-easily-3oeb)
-- [Dev.to/JS] [Server-Driven UI on the web: Examples, what is it and when to use it](https://dev.to/momciloo/server-driven-ui-on-the-web-examples-what-is-it-and-when-to-use-it-a8p)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Applying to Rent an Apartment](https://lifehacker.com/dont-make-these-mistakes-when-applying-to-rent-an-apart-1850340334)
 - [Lifehacker] [The Difference Between Soil and Dirt](https://lifehacker.com/the-difference-between-soil-and-dirt-1850340337)
 - [Lifehacker] [How to Choose Between Laundry Detergent Liquid, Powder, or Sheets](https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381)
