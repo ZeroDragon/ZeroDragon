@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cek paket](https://dev.to/ssms_notip/cek-paket-44ae)
 - [Dev.to/JS] [How to install and implement GSAP in VUE JS](https://dev.to/fisayomi/how-to-install-and-implement-gsap-in-vue-js-2oof)
 - [Dev.to/JS] [What is Auto GPT : Everything You Need To Know](https://dev.to/jon_snow789/what-is-auto-gpt-everything-you-need-to-know-1pni)
 - [Dev.to/JS] [Simplifying Strategy Pattern with 3 Golang examples](https://dev.to/doziestar/simplifying-strategy-pattern-with-3-golang-examples-236d)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Server-Driven UI on the web: Examples, what is it and when to use it](https://dev.to/momciloo/server-driven-ui-on-the-web-examples-what-is-it-and-when-to-use-it-a8p)
 - [Dev.to/JS] [The Frontend Cloud](https://dev.to/peibolsang/the-frontend-cloud-f5g)
 - [Dev.to/JS] [React Native vs Flutter: A Comprehensive Comparison for Mobile App Development](https://dev.to/nvish007/react-native-vs-flutter-a-comprehensive-comparison-for-mobile-app-development-2fh6)
-- [Dev.to/JS] [Building a Simple Blog with MongoDB, Express JS, and Node in 5 Easy Steps](https://dev.to/omacys/building-a-simple-blog-with-mongodb-express-js-and-node-in-5-easy-steps-5emj)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Applying to Rent an Apartment](https://lifehacker.com/dont-make-these-mistakes-when-applying-to-rent-an-apart-1850340334)
 - [Lifehacker] [The Difference Between Soil and Dirt](https://lifehacker.com/the-difference-between-soil-and-dirt-1850340337)
 - [Lifehacker] [How to Choose Between Laundry Detergent Liquid, Powder, or Sheets](https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381)
