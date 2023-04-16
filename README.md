@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Modules](https://dev.to/akpvt/javascript-modules-2cl4)
+- [Dev.to/JS] [Getting Started with Firebase Authentication: A Comprehensive Guide](https://dev.to/shahabmalikk/getting-started-with-firebase-authentication-a-comprehensive-guide-1j81)
+- [Dev.to/JS] [Update on My Progress with the Contractr Project: Building a Better Platform for Freelancers and Clients](https://dev.to/arashjangali/update-on-my-progress-with-the-contractr-project-building-a-better-platform-for-freelancers-and-clients-210j)
 - [Dev.to/JS] [Creating your own ExpressJS from scratch &lpar;Part 3&rpar; - Treating Request and Response objects](https://dev.to/wesleymreng7/creating-your-own-expressjs-from-scratch-part-3-treating-request-and-response-objects-4ecf)
 - [Dev.to/JS] [Create a Modern Application with Django and Vue](https://dev.to/ericnanhu/create-a-modern-application-with-django-and-vue-242j)
 - [Dev.to/JS] [Pop the bubble of JavaScript Closures.](https://dev.to/hariszulfiqar054/pop-the-bubble-of-javascript-closures-482n)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adding server side Open Graph and SEO to an existing SPA](https://dev.to/anatolykopyl/adding-server-side-open-graph-and-seo-to-an-existing-spa-2fea)
 - [Dev.to/JS] [Add Infinite Scroll in React App using React Infinite Scroller](https://dev.to/alakkadshaw/add-infinite-scroll-in-react-app-using-react-infinite-scroller-4lln)
 - [Dev.to/JS] [Getting Started with MedusaJS: A Basic Tutorial](https://dev.to/whizfactor/getting-started-with-medusajs-a-basic-tutorial-e77)
-- [Dev.to/JS] [The Art of Debugging: Techniques for Effective Problem-Solving](https://dev.to/raviagheda/the-art-of-debugging-techniques-for-effective-problem-solving-3b66)
-- [Dev.to/JS] [Thiis: A Comprehensive JavaScript/TypeScript Package for Efficient Development](https://dev.to/karbashevskyi/thiis-a-comprehensive-javascripttypescript-package-for-efficient-development-b9m)
-- [Dev.to/JS] [Top 5 Ways to Deploy Static Sites for Free](https://dev.to/armanidrisi/top-5-ways-to-deploy-static-sites-for-free-2oc7)
 - [Lifehacker] [How to Choose Between Laundry Detergent Liquid, Powder, or Sheets](https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381)
 - [Lifehacker] [You Shouldn&#39;t Keep These Things In Your Bathroom](https://lifehacker.com/you-shouldnt-keep-these-things-in-your-bathroom-1850339383)
 - [Lifehacker] [The Most &lpar;and Least&rpar; Pet-Friendly Cities in the U.S.](https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385)
