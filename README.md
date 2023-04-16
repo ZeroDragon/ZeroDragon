@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code Comparison: React vs Angular](https://dev.to/shriram27/code-comparison-react-vs-angular-3j3k)
+- [Dev.to/JS] [Create Music Player using HTML, CSS, and JavaScript](https://dev.to/incoderweb/create-music-player-using-html-css-and-javascript-3k9d)
+- [Dev.to/JS] [How to Create User Interfaces from React Components: A Comprehensive Guide](https://dev.to/sidramaqbool/how-to-create-user-interfaces-from-react-components-a-comprehensive-guide-7n8)
+- [Dev.to/JS] [How to Build a Fully Functional ToDo SaaS Using Next.js and ZenStack&#39;s Access Control Policy](https://dev.to/zenstack/how-to-build-a-fully-functional-todo-saas-using-nextjs-and-zenstacks-access-control-policy-408p)
+- [Dev.to/JS] [Configuration object that does not match the API schema](https://dev.to/aryyhue/configuration-object-that-does-not-match-the-api-schema-ol1)
 - [Dev.to/JS] [How to add Github Gist in React Js](https://dev.to/jon_snow789/how-to-add-github-gist-in-react-js-4937)
 - [Dev.to/JS] [Beyond console.log: 8 Powerful Console Methods](https://dev.to/nikolasbarwicki/beyond-consolelog-8-powerful-console-methods-4c0o)
 - [Dev.to/JS] [💫 The Solution to node_modules 💾](https://dev.to/willkirkmanm/the-solution-to-nodemodules-30m1)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add Geo-search to your website/app in just 9 lines of code](https://dev.to/ruppysuppy/add-geo-search-to-your-websiteapp-in-just-9-lines-of-code-4kp4)
 - [Dev.to/JS] [Next.js + MDX Blog | CodeSamples.dev](https://dev.to/shibun/codesampesdev-nextjs-mdx-blog-2fcg)
 - [Dev.to/JS] [Cloudflare Workers: Solusi serverless edge function termudah, tercepat, termurah, what else..?](https://dev.to/reedho/cloudflare-workers-solusi-serverless-edge-function-termudah-tercepat-termurah-what-else-2pbd)
-- [Dev.to/JS] [Building a QR code generator](https://dev.to/cedsengine/building-a-qr-code-generator-onj)
-- [Dev.to/JS] [Greetings everybody!!!](https://dev.to/emarshall215/greetings-everybody-4ha)
-- [Dev.to/JS] [New test](https://dev.to/monik182/new-test-3kil)
-- [Dev.to/JS] [Javascript Modules](https://dev.to/akpvt/javascript-modules-2cl4)
-- [Dev.to/JS] [Getting Started with Firebase Authentication: A Comprehensive Guide](https://dev.to/shahabmalikk/getting-started-with-firebase-authentication-a-comprehensive-guide-1j81)
 - [Lifehacker] [How to Choose Between Laundry Detergent Liquid, Powder, or Sheets](https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381)
 - [Lifehacker] [You Shouldn&#39;t Keep These Things In Your Bathroom](https://lifehacker.com/you-shouldnt-keep-these-things-in-your-bathroom-1850339383)
 - [Lifehacker] [The Most &lpar;and Least&rpar; Pet-Friendly Cities in the U.S.](https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385)
