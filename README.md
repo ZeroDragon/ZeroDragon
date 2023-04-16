@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Reasons to Use Next.js: Unlock the Power of React to Create Powerful Web Apps](https://dev.to/hi_iam_chris/5-reasons-to-use-nextjs-unlock-the-power-of-react-to-create-powerful-web-apps-4d7n)
+- [Dev.to/JS] [Starting Web App in 2023 [Research]](https://dev.to/flatlogic/starting-web-app-in-2023-research-2kfa)
 - [Lifehacker] [The Difference Between Soil and Dirt](https://lifehacker.com/the-difference-between-soil-and-dirt-1850340337)
 - [Dev.to/JS] [Guide to JS Developer Console for beginners](https://dev.to/bellatrix/guide-to-js-developer-console-for-beginners-3n0k)
 - [Dev.to/JS] [How to use React Streaming In Remix](https://dev.to/pmbanugo/how-to-use-react-streaming-in-remix-kj4)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create User Interfaces from React Components: A Comprehensive Guide](https://dev.to/sidramaqbool/how-to-create-user-interfaces-from-react-components-a-comprehensive-guide-7n8)
 - [Dev.to/JS] [How to Build a Fully Functional ToDo SaaS Using Next.js and ZenStack&#39;s Access Control Policy](https://dev.to/zenstack/how-to-build-a-fully-functional-todo-saas-using-nextjs-and-zenstacks-access-control-policy-408p)
 - [Dev.to/JS] [Configuration object that does not match the API schema](https://dev.to/aryyhue/configuration-object-that-does-not-match-the-api-schema-ol1)
-- [Dev.to/JS] [How to add Github Gist in React Js](https://dev.to/jon_snow789/how-to-add-github-gist-in-react-js-4937)
-- [Dev.to/JS] [Beyond console.log: 8 Powerful Console Methods](https://dev.to/nikolasbarwicki/beyond-consolelog-8-powerful-console-methods-4c0o)
 - [Lifehacker] [How to Choose Between Laundry Detergent Liquid, Powder, or Sheets](https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381)
 - [Lifehacker] [You Shouldn&#39;t Keep These Things In Your Bathroom](https://lifehacker.com/you-shouldnt-keep-these-things-in-your-bathroom-1850339383)
 - [Lifehacker] [The Most &lpar;and Least&rpar; Pet-Friendly Cities in the U.S.](https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385)
