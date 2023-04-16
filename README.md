@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between Soil and Dirt](https://lifehacker.com/the-difference-between-soil-and-dirt-1850340337)
+- [Dev.to/JS] [Guide to JS Developer Console for beginners](https://dev.to/bellatrix/guide-to-js-developer-console-for-beginners-3n0k)
+- [Dev.to/JS] [How to use React Streaming In Remix](https://dev.to/pmbanugo/how-to-use-react-streaming-in-remix-kj4)
+- [Dev.to/JS] [Type Operators &lpar;keyof and typeof&rpar; in TypeScript](https://dev.to/tomoy/type-operators-keyof-and-typeof-in-typescript-3lb2)
 - [Dev.to/JS] [How to consume 3D Tiles &lpar;pnts&rpar; with Cesium](https://dev.to/hfu/how-to-consume-3d-tiles-pnts-with-cesium-5hn1)
 - [Dev.to/JS] [5 Amazing Project Ideas To Get Hired As A Full-Stack Developer 🔥](https://dev.to/rammcodes/5-amazing-project-ideas-to-get-hired-as-a-full-stack-developer-5lg)
 - [Dev.to/JS] [Code Comparison: React vs Angular](https://dev.to/shriram27/code-comparison-react-vs-angular-3j3k)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Configuration object that does not match the API schema](https://dev.to/aryyhue/configuration-object-that-does-not-match-the-api-schema-ol1)
 - [Dev.to/JS] [How to add Github Gist in React Js](https://dev.to/jon_snow789/how-to-add-github-gist-in-react-js-4937)
 - [Dev.to/JS] [Beyond console.log: 8 Powerful Console Methods](https://dev.to/nikolasbarwicki/beyond-consolelog-8-powerful-console-methods-4c0o)
-- [Dev.to/JS] [💫 The Solution to node_modules 💾](https://dev.to/willkirkmanm/the-solution-to-nodemodules-30m1)
-- [Dev.to/JS] [React v18.0](https://dev.to/devsahil/react-v180-3942)
-- [Dev.to/JS] [Add Geo-search to your website/app in just 9 lines of code](https://dev.to/ruppysuppy/add-geo-search-to-your-websiteapp-in-just-9-lines-of-code-4kp4)
 - [Lifehacker] [How to Choose Between Laundry Detergent Liquid, Powder, or Sheets](https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381)
 - [Lifehacker] [You Shouldn&#39;t Keep These Things In Your Bathroom](https://lifehacker.com/you-shouldnt-keep-these-things-in-your-bathroom-1850339383)
 - [Lifehacker] [The Most &lpar;and Least&rpar; Pet-Friendly Cities in the U.S.](https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Clothespins Can Tell You When to Do Laundry](https://lifehacker.com/your-clothespins-can-tell-you-when-to-do-laundry-1850327313)
 - [Lifehacker] [Let&#39;s Bring Back the Dumbbell Swing](https://lifehacker.com/lets-bring-back-the-dumbbell-swing-1850328581)
 - [Lifehacker] [Six Places to Find Inspiration When You Don&#39;t Know WTF to Eat for Dinner](https://lifehacker.com/six-places-to-find-inspiration-when-you-dont-know-wtf-t-1850328218)
-- [Lifehacker] [How to Make Your Smart TV ‘Dumber’ &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-make-your-smart-tv-dumber-and-why-you-should-1850327166)
-- [Lifehacker] [Why You Shouldn&#39;t Use Public Phone Chargers, According to the FBI](https://lifehacker.com/why-you-shouldnt-use-public-phone-chargers-according-t-1850323960)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make Your Smart TV ‘Dumber’ &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-make-your-smart-tv-dumber-and-why-you-should-1850327166)<!-- TECH-POSTS:END -->
 
 ---
 
