@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating your own ExpressJS from scratch &lpar;Part 3&rpar; - Treating Request and Response objects](https://dev.to/wesleymreng7/creating-your-own-expressjs-from-scratch-part-3-treating-request-and-response-objects-4ecf)
+- [Dev.to/JS] [Create a Modern Application with Django and Vue](https://dev.to/ericnanhu/create-a-modern-application-with-django-and-vue-242j)
 - [Dev.to/JS] [Pop the bubble of JavaScript Closures.](https://dev.to/hariszulfiqar054/pop-the-bubble-of-javascript-closures-482n)
 - [Dev.to/JS] [Weekend Reading](https://dev.to/sporter/weekend-reading-3dk0)
 - [Dev.to/JS] [Why has this stopped working in JQuery](https://dev.to/zaakajarimbo/why-has-this-stopped-working-in-js-55cc)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Art of Debugging: Techniques for Effective Problem-Solving](https://dev.to/raviagheda/the-art-of-debugging-techniques-for-effective-problem-solving-3b66)
 - [Dev.to/JS] [Thiis: A Comprehensive JavaScript/TypeScript Package for Efficient Development](https://dev.to/karbashevskyi/thiis-a-comprehensive-javascripttypescript-package-for-efficient-development-b9m)
 - [Dev.to/JS] [Top 5 Ways to Deploy Static Sites for Free](https://dev.to/armanidrisi/top-5-ways-to-deploy-static-sites-for-free-2oc7)
-- [Dev.to/JS] [React Vs Angular Comparison And Which One To Choose: A Comprehensive Guide](https://dev.to/armanidrisi/react-vs-angular-comparison-and-which-one-to-choose-a-comprehensive-guide-50jg)
-- [Dev.to/JS] [React Series: useReducer](https://dev.to/oluwatrillions/react-series-usereducer-1eh4)
 - [Lifehacker] [How to Choose Between Laundry Detergent Liquid, Powder, or Sheets](https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381)
 - [Lifehacker] [You Shouldn&#39;t Keep These Things In Your Bathroom](https://lifehacker.com/you-shouldnt-keep-these-things-in-your-bathroom-1850339383)
 - [Lifehacker] [The Most &lpar;and Least&rpar; Pet-Friendly Cities in the U.S.](https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385)
