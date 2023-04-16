@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a QR code generator](https://dev.to/cedsengine/building-a-qr-code-generator-onj)
+- [Dev.to/JS] [Greetings everybody!!!](https://dev.to/emarshall215/greetings-everybody-4ha)
+- [Dev.to/JS] [New test](https://dev.to/monik182/new-test-3kil)
 - [Dev.to/JS] [Javascript Modules](https://dev.to/akpvt/javascript-modules-2cl4)
 - [Dev.to/JS] [Getting Started with Firebase Authentication: A Comprehensive Guide](https://dev.to/shahabmalikk/getting-started-with-firebase-authentication-a-comprehensive-guide-1j81)
 - [Dev.to/JS] [Update on My Progress with the Contractr Project: Building a Better Platform for Freelancers and Clients](https://dev.to/arashjangali/update-on-my-progress-with-the-contractr-project-building-a-better-platform-for-freelancers-and-clients-210j)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Weekend Reading](https://dev.to/sporter/weekend-reading-3dk0)
 - [Dev.to/JS] [Why has this stopped working in JQuery](https://dev.to/zaakajarimbo/why-has-this-stopped-working-in-js-55cc)
 - [Dev.to/JS] [Git Web Terminal and Isomorphic Git](https://dev.to/jcubic/git-web-terminal-and-isomorphic-git-2pj)
-- [Dev.to/JS] [Adding server side Open Graph and SEO to an existing SPA](https://dev.to/anatolykopyl/adding-server-side-open-graph-and-seo-to-an-existing-spa-2fea)
-- [Dev.to/JS] [Add Infinite Scroll in React App using React Infinite Scroller](https://dev.to/alakkadshaw/add-infinite-scroll-in-react-app-using-react-infinite-scroller-4lln)
-- [Dev.to/JS] [Getting Started with MedusaJS: A Basic Tutorial](https://dev.to/whizfactor/getting-started-with-medusajs-a-basic-tutorial-e77)
 - [Lifehacker] [How to Choose Between Laundry Detergent Liquid, Powder, or Sheets](https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381)
 - [Lifehacker] [You Shouldn&#39;t Keep These Things In Your Bathroom](https://lifehacker.com/you-shouldnt-keep-these-things-in-your-bathroom-1850339383)
 - [Lifehacker] [The Most &lpar;and Least&rpar; Pet-Friendly Cities in the U.S.](https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385)
