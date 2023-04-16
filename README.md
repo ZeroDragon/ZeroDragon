@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [💫 The Solution to node_modules 💾](https://dev.to/willkirkmanm/the-solution-to-nodemodules-30m1)
+- [Dev.to/JS] [React v18.0](https://dev.to/devsahil/react-v180-3942)
 - [Dev.to/JS] [Add Geo-search to your website/app in just 9 lines of code](https://dev.to/ruppysuppy/add-geo-search-to-your-websiteapp-in-just-9-lines-of-code-4kp4)
 - [Dev.to/JS] [Next.js + MDX Blog | CodeSamples.dev](https://dev.to/shibun/codesampesdev-nextjs-mdx-blog-2fcg)
 - [Dev.to/JS] [Cloudflare Workers: Solusi serverless edge function termudah, tercepat, termurah, what else..?](https://dev.to/reedho/cloudflare-workers-solusi-serverless-edge-function-termudah-tercepat-termurah-what-else-2pbd)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting Started with Firebase Authentication: A Comprehensive Guide](https://dev.to/shahabmalikk/getting-started-with-firebase-authentication-a-comprehensive-guide-1j81)
 - [Dev.to/JS] [Update on My Progress with the Contractr Project: Building a Better Platform for Freelancers and Clients](https://dev.to/arashjangali/update-on-my-progress-with-the-contractr-project-building-a-better-platform-for-freelancers-and-clients-210j)
 - [Dev.to/JS] [Creating your own ExpressJS from scratch &lpar;Part 3&rpar; - Treating Request and Response objects](https://dev.to/wesleymreng7/creating-your-own-expressjs-from-scratch-part-3-treating-request-and-response-objects-4ecf)
-- [Dev.to/JS] [Create a Modern Application with Django and Vue](https://dev.to/ericnanhu/create-a-modern-application-with-django-and-vue-242j)
-- [Dev.to/JS] [Pop the bubble of JavaScript Closures.](https://dev.to/hariszulfiqar054/pop-the-bubble-of-javascript-closures-482n)
 - [Lifehacker] [How to Choose Between Laundry Detergent Liquid, Powder, or Sheets](https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381)
 - [Lifehacker] [You Shouldn&#39;t Keep These Things In Your Bathroom](https://lifehacker.com/you-shouldnt-keep-these-things-in-your-bathroom-1850339383)
 - [Lifehacker] [The Most &lpar;and Least&rpar; Pet-Friendly Cities in the U.S.](https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385)
