@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cloudflare Workers: Solusi serverless edge function termudah, tercepat, termurah, what else..?](https://dev.to/reedho/cloudflare-workers-solusi-serverless-edge-function-termudah-tercepat-termurah-what-else-2pbd)
 - [Dev.to/JS] [Building a QR code generator](https://dev.to/cedsengine/building-a-qr-code-generator-onj)
 - [Dev.to/JS] [Greetings everybody!!!](https://dev.to/emarshall215/greetings-everybody-4ha)
 - [Dev.to/JS] [New test](https://dev.to/monik182/new-test-3kil)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pop the bubble of JavaScript Closures.](https://dev.to/hariszulfiqar054/pop-the-bubble-of-javascript-closures-482n)
 - [Dev.to/JS] [Weekend Reading](https://dev.to/sporter/weekend-reading-3dk0)
 - [Dev.to/JS] [Why has this stopped working in JQuery](https://dev.to/zaakajarimbo/why-has-this-stopped-working-in-js-55cc)
-- [Dev.to/JS] [Git Web Terminal and Isomorphic Git](https://dev.to/jcubic/git-web-terminal-and-isomorphic-git-2pj)
 - [Lifehacker] [How to Choose Between Laundry Detergent Liquid, Powder, or Sheets](https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381)
 - [Lifehacker] [You Shouldn&#39;t Keep These Things In Your Bathroom](https://lifehacker.com/you-shouldnt-keep-these-things-in-your-bathroom-1850339383)
 - [Lifehacker] [The Most &lpar;and Least&rpar; Pet-Friendly Cities in the U.S.](https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385)
