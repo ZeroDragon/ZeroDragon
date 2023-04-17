@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When to Use Olive Oil to ‘Clean’ &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-use-olive-oil-to-clean-and-when-not-to-1850337919)
+- [Dev.to/JS] [A Better Way to Design a Loading Button Component](https://dev.to/sam585456525/design-a-loading-button-component-for-easier-handling-of-fetching-loading-ui-state-3bhf)
 - [Lifehacker] [This Tool Knows Whether You&#39;re Overpaying for Rent in NYC](https://lifehacker.com/this-tool-knows-whether-youre-overpaying-for-rent-in-ny-1850325047)
 - [Lifehacker] [Cheap and Easy Ways to Keep Water Away From Your Foundation](https://lifehacker.com/cheap-and-easy-ways-to-keep-water-away-from-your-founda-1850342754)
 - [Dev.to/JS] [Exodus Effect - Results, Price, Reviews, Benefits &amp; Where To Buy?](https://dev.to/exoduseffe19803/exodus-effect-results-price-reviews-benefits-where-to-buy-3f4i)
@@ -41,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Promoção de Halloween.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-promocao-de-halloween-dcc)
 - [Dev.to/JS] [Maker tag](https://dev.to/alohe/maker-tag-3148)
 - [Lifehacker] [You Can Make Gnudi With Cheap Grocery Store Ricotta](https://lifehacker.com/you-can-make-gnudi-with-cheap-grocery-store-ricotta-1850334379)
-- [Dev.to/JS] [Function js JavaScript complete guide](https://dev.to/ebakecode/function-js-javascript-complete-guide-2ih1)
 - [Lifehacker] [How to Clean Suede Furniture Without Ruining It](https://lifehacker.com/how-to-clean-suede-furniture-without-ruining-it-1850340331)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Applying to Rent an Apartment](https://lifehacker.com/dont-make-these-mistakes-when-applying-to-rent-an-apart-1850340334)
 - [Lifehacker] [The Difference Between Soil and Dirt](https://lifehacker.com/the-difference-between-soil-and-dirt-1850340337)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Book Your Next Stay on These Rental Sites Instead of Airbnb](https://lifehacker.com/book-your-next-stay-on-these-rental-sites-instead-of-ai-1850329351)
 - [Lifehacker] [This Dairy-Free Yogurt Makes Incredible French Toast](https://lifehacker.com/this-dairy-free-yogurt-makes-incredible-french-toast-1850329387)
 - [Lifehacker] [Get a One-Year Sam&#39;s Club Membership for $10 Right Now](https://lifehacker.com/get-a-one-year-sams-club-membership-for-10-right-now-1850333329)
-- [Lifehacker] [How to Watch the Lyrid Meteor Shower This Month](https://lifehacker.com/how-to-watch-the-lyrid-meteor-shower-this-month-1850333564)
-- [Lifehacker] [How to Win at &#39;Digits,&#39; the New Wordle for Math](https://lifehacker.com/how-to-win-at-digits-the-new-wordle-for-math-1850333000)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Watch the Lyrid Meteor Shower This Month](https://lifehacker.com/how-to-watch-the-lyrid-meteor-shower-this-month-1850333564)<!-- TECH-POSTS:END -->
 
 ---
 
