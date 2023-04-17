@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Javascript Data Visualization Libraries Every Front-End Developer Should Know About](https://dev.to/coderpad/10-javascript-data-visualization-libraries-every-front-end-developer-should-know-about-2iil)
+- [Dev.to/JS] [Signals: what this means for NgRx](https://dev.to/this-is-angular/signals-what-this-means-for-ngrx-eho)
+- [Dev.to/JS] [Get Original Dimension in JavaScript](https://dev.to/mahabubr/get-original-dimension-in-javascript-5m0)
+- [Dev.to/JS] [What is IIFE in JavaScript.](https://dev.to/anshmittal86/what-is-iife-in-javascript-126k)
 - [Dev.to/JS] [Leetcode 435. Non-overlapping Intervals](https://dev.to/blakeahalt/leetcode-435-non-overlapping-intervals-5437)
 - [Dev.to/JS] [RxJS: retry with exponential backoff](https://dev.to/this-is-learning/rxjs-retry-with-exponential-backoff-dpe)
 - [Dev.to/JS] [AJAX and XMLHttpRequest — Understanding JavaScript API Requests and Responses in the Data Fetching lifecycle](https://dev.to/rodcast/ajax-and-xmlhttprequest-understanding-javascript-api-requests-and-responses-in-the-data-fetching-lifecycle-4ap6)
@@ -30,11 +34,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Revealing Module Pattern | Javascript](https://dev.to/nickap/the-revealing-module-pattern-javascript-2ne9)
 - [Dev.to/JS] [Tracing the Journey: A Comprehensive Guide to the Evolution of DevOps](https://dev.to/itsahsanmangal/tracing-the-journey-a-comprehensive-guide-to-the-evolution-of-devops-g4k)
 - [Dev.to/JS] [Beyond Angular Signals: Signals &amp; Custom Render Strategies](https://dev.to/this-is-angular/beyond-angular-signals-signals-custom-render-strategies-46h7)
-- [Dev.to/JS] [User if they are already logged in. Can&#39;t open Login Page](https://dev.to/vamsi_76_89/user-if-they-are-already-logged-in-cant-open-login-page-521p)
-- [Dev.to/JS] [Getting started with Finite State Machine using X-state.](https://dev.to/asapconet/getting-started-with-finite-state-machine-using-x-state-30l8)
-- [Dev.to/JS] [Promises in Javascript](https://dev.to/codeofaccuracy/promises-in-javascript-2e09)
-- [Dev.to/JS] [Dietoxone - Fat Loss Reviews, Pros, Cons, Price, Scam And Legit?](https://dev.to/dietoxone151889/dietoxone-fat-loss-reviews-pros-cons-price-scam-and-legit-31l4)
-- [Dev.to/JS] [Debug Lesson: the problem from Chrome, CookieStore and var](https://dev.to/arpple/debug-lesson-the-problem-from-chrome-cookiestorage-and-var-5fah)
+- [Dev.to/JS] [User if they are already logged in. Can&#39;t open Login Page in Next.js](https://dev.to/vamsi_76_89/user-if-they-are-already-logged-in-cant-open-login-page-521p)
 - [Lifehacker] [How to Clean Suede Furniture Without Ruining It](https://lifehacker.com/how-to-clean-suede-furniture-without-ruining-it-1850340331)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Applying to Rent an Apartment](https://lifehacker.com/dont-make-these-mistakes-when-applying-to-rent-an-apart-1850340334)
 - [Lifehacker] [The Difference Between Soil and Dirt](https://lifehacker.com/the-difference-between-soil-and-dirt-1850340337)
