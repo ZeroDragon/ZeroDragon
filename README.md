@@ -23,10 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is the `new` keyword in JavaScript?](https://dev.to/muhtoyyib/what-is-the-new-keyword-in-javascript-5dn7)
 - [Dev.to/JS] [Improving User Experience: Enabling Both Contractors and Clients to Use Contractr Platform](https://dev.to/arashjangali/improving-user-experience-enabling-both-contractors-and-clients-to-use-contractr-platform-520c)
 - [Dev.to/JS] [The methods underlying current technology that aren&#39;t discussed](https://dev.to/chidiebereomasi/the-methods-underlying-current-technology-that-arent-discussed-7mk)
 - [Dev.to/JS] [React Context: The Detailed Guide](https://dev.to/alakkadshaw/react-context-the-detailed-guide-1p05)
-- [Dev.to/JS] [React Compound Component with forwardRef using TypeScript](https://dev.to/hmaesta/react-compound-component-with-forwardref-using-typescript-2pi7)
 - [Dev.to/JS] [XML Parsing em NodeJS com XMLBuilder2](https://dev.to/marcopollivier/xml-parsing-em-nodejs-com-xmlbuilder2-1p0e)
 - [Dev.to/JS] [Cek paket](https://dev.to/ssms_notip/cek-paket-44ae)
 - [Dev.to/JS] [How to install and implement GSAP in VUE JS](https://dev.to/fisayomi/how-to-install-and-implement-gsap-in-vue-js-2oof)
