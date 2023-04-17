@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Promises in Javascript](https://dev.to/codeofaccuracy/promises-in-javascript-2e09)
+- [Dev.to/JS] [Dietoxone - Fat Loss Reviews, Pros, Cons, Price, Scam And Legit?](https://dev.to/dietoxone151889/dietoxone-fat-loss-reviews-pros-cons-price-scam-and-legit-31l4)
 - [Dev.to/JS] [Debug Lesson: the problem from Chrome, CookieStore and var](https://dev.to/arpple/debug-lesson-the-problem-from-chrome-cookiestorage-and-var-5fah)
 - [Dev.to/JS] [mysql-error-keys : Handling MySQL Error Messages in a More Readable Way](https://dev.to/prettyblueberry/mysql-error-keys-handling-mysql-error-messages-in-a-more-readable-way-2o2i)
 - [Dev.to/JS] [Measure TypeScript Execution Time](https://dev.to/tkminh/measure-typescript-execution-time-18p4)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [XML Parsing em NodeJS com XMLBuilder2](https://dev.to/marcopollivier/xml-parsing-em-nodejs-com-xmlbuilder2-1p0e)
 - [Dev.to/JS] [Cek paket](https://dev.to/ssms_notip/cek-paket-44ae)
 - [Dev.to/JS] [How to install and implement GSAP in VUE JS](https://dev.to/fisayomi/how-to-install-and-implement-gsap-in-vue-js-2oof)
-- [Dev.to/JS] [What is Auto GPT : Everything You Need To Know](https://dev.to/jon_snow789/what-is-auto-gpt-everything-you-need-to-know-1pni)
-- [Dev.to/JS] [Simplifying Strategy Pattern with 3 Golang examples](https://dev.to/doziestar/simplifying-strategy-pattern-with-3-golang-examples-236d)
 - [Lifehacker] [How to Clean Suede Furniture Without Ruining It](https://lifehacker.com/how-to-clean-suede-furniture-without-ruining-it-1850340331)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Applying to Rent an Apartment](https://lifehacker.com/dont-make-these-mistakes-when-applying-to-rent-an-apart-1850340334)
 - [Lifehacker] [The Difference Between Soil and Dirt](https://lifehacker.com/the-difference-between-soil-and-dirt-1850340337)
