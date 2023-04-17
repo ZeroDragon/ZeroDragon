@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Tool Knows Whether You&#39;re Overpaying for Rent in NYC](https://lifehacker.com/this-tool-knows-whether-youre-overpaying-for-rent-in-ny-1850325047)
+- [Lifehacker] [Cheap and Easy Ways to Keep Water Away From Your Foundation](https://lifehacker.com/cheap-and-easy-ways-to-keep-water-away-from-your-founda-1850342754)
+- [Dev.to/JS] [Exodus Effect - Results, Price, Reviews, Benefits &amp; Where To Buy?](https://dev.to/exoduseffe19803/exodus-effect-results-price-reviews-benefits-where-to-buy-3f4i)
+- [Dev.to/JS] [Nested Components - A bad practice? - ReactJS](https://dev.to/sanjampreetsingh/nested-components-a-bad-practice-reactjs-1hbf)
+- [Lifehacker] [Why You Should Never Use Klarna to Buy Groceries](https://lifehacker.com/why-you-should-never-use-klarna-to-buy-groceries-1850336826)
 - [Lifehacker] [How to Train Your New Boss &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-train-your-new-boss-and-why-you-should-1850336703)
 - [Dev.to/JS] [Capture Groups in Regular Expressions](https://dev.to/redbit/capture-groups-in-regular-expressions-4g7o)
 - [Dev.to/JS] [Learn Creational JavaScript Design Patterns with This Easy Guide](https://dev.to/kinsta/learn-to-creational-javascript-design-patterns-with-this-easy-guide-312a)
@@ -37,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Maker tag](https://dev.to/alohe/maker-tag-3148)
 - [Lifehacker] [You Can Make Gnudi With Cheap Grocery Store Ricotta](https://lifehacker.com/you-can-make-gnudi-with-cheap-grocery-store-ricotta-1850334379)
 - [Dev.to/JS] [Function js JavaScript complete guide](https://dev.to/ebakecode/function-js-javascript-complete-guide-2ih1)
-- [Dev.to/JS] [⚡️ Use ChatGPT on any website 🔥](https://dev.to/learnersbucket/use-chatgpt-on-any-website-5h6)
-- [Dev.to/JS] [How To Boost Your Firebase App’s Efficiency with Real-Time Listeners in React.js](https://dev.to/imkrunalkanojiya/how-to-boost-your-firebase-apps-efficiency-with-real-time-listeners-in-reactjs-1p02)
 - [Lifehacker] [How to Clean Suede Furniture Without Ruining It](https://lifehacker.com/how-to-clean-suede-furniture-without-ruining-it-1850340331)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Applying to Rent an Apartment](https://lifehacker.com/dont-make-these-mistakes-when-applying-to-rent-an-apart-1850340334)
 - [Lifehacker] [The Difference Between Soil and Dirt](https://lifehacker.com/the-difference-between-soil-and-dirt-1850340337)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Dairy-Free Yogurt Makes Incredible French Toast](https://lifehacker.com/this-dairy-free-yogurt-makes-incredible-french-toast-1850329387)
 - [Lifehacker] [Get a One-Year Sam&#39;s Club Membership for $10 Right Now](https://lifehacker.com/get-a-one-year-sams-club-membership-for-10-right-now-1850333329)
 - [Lifehacker] [How to Watch the Lyrid Meteor Shower This Month](https://lifehacker.com/how-to-watch-the-lyrid-meteor-shower-this-month-1850333564)
-- [Lifehacker] [How to Win at &#39;Digits,&#39; the New Wordle for Math](https://lifehacker.com/how-to-win-at-digits-the-new-wordle-for-math-1850333000)
-- [Lifehacker] [All the New Features in Android 14&#39;s First Beta](https://lifehacker.com/all-the-new-features-in-android-14s-first-beta-1850332344)
-- [Lifehacker] [How Long to Keep Every Important Financial Document](https://lifehacker.com/how-long-to-keep-every-important-financial-document-1850328770)
-- [Lifehacker] [Rearrange Your Garden by Using &#39;Hidden&#39; Pots](https://lifehacker.com/rearrange-your-garden-by-using-hidden-pots-1850327240)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Win at &#39;Digits,&#39; the New Wordle for Math](https://lifehacker.com/how-to-win-at-digits-the-new-wordle-for-math-1850333000)<!-- TECH-POSTS:END -->
 
 ---
 
