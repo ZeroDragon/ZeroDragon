@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Polyfills in React Application: A Complete Guide](https://dev.to/shubhamdutta2000/polyfills-in-react-application-a-complete-guide-523l)
 - [Dev.to/JS] [Understanding useState and useEffect in React](https://dev.to/taahahussainkhan/understanding-usestate-and-useeffect-in-react-3448)
 - [Dev.to/JS] [Routing in React with React Router](https://dev.to/taahahussainkhan/routing-in-react-with-react-router-5g0m)
 - [Dev.to/JS] [Custom hooks in React](https://dev.to/rahul72925/custom-hooks-in-react-32dm)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Never Use Klarna to Buy Groceries](https://lifehacker.com/why-you-should-never-use-klarna-to-buy-groceries-1850336826)
 - [Lifehacker] [How to Train Your New Boss &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-train-your-new-boss-and-why-you-should-1850336703)
 - [Dev.to/JS] [Capture Groups in Regular Expressions](https://dev.to/redbit/capture-groups-in-regular-expressions-4g7o)
-- [Dev.to/JS] [Learn Creational JavaScript Design Patterns with This Easy Guide](https://dev.to/kinsta/learn-to-creational-javascript-design-patterns-with-this-easy-guide-312a)
 - [Lifehacker] [Use AI to Supercharge Your Smartphone&#39;s Keyboard](https://lifehacker.com/use-ai-to-supercharge-your-smartphones-keyboard-1850337405)
 - [Lifehacker] [The Best Ways to Keep Squirrels Out of Your Potted Plants](https://lifehacker.com/the-best-ways-to-keep-squirrels-out-of-your-potted-plan-1850335743)
 - [Lifehacker] [You Can Make Gnudi With Cheap Grocery Store Ricotta](https://lifehacker.com/you-can-make-gnudi-with-cheap-grocery-store-ricotta-1850334379)
