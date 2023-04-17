@@ -23,19 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn Creational JavaScript Design Patterns with This Easy Guide](https://dev.to/kinsta/learn-to-creational-javascript-design-patterns-with-this-easy-guide-312a)
+- [Dev.to/JS] [Capture Groups in Regular Expressions](https://dev.to/redbit/capture-groups-in-regular-expressions-4g7o)
+- [Lifehacker] [Use AI to Supercharge Your Smartphone&#39;s Keyboard](https://lifehacker.com/use-ai-to-supercharge-your-smartphones-keyboard-1850337405)
+- [Dev.to/JS] [The Acronyms of Rendering on the Web](https://dev.to/whitep4nth3r/the-acronyms-of-rendering-on-the-web-2g8h)
+- [Dev.to/JS] [Full-stack Web Apps Without React](https://dev.to/remotesynth/full-stack-web-apps-without-react-3260)
+- [Lifehacker] [The Best Ways to Keep Squirrels Out of Your Potted Plants](https://lifehacker.com/the-best-ways-to-keep-squirrels-out-of-your-potted-plan-1850335743)
+- [Dev.to/JS] [ChatGPT from OpenAI with React Native](https://dev.to/boopykiki/chatgpt-from-openai-with-react-native-3ih1)
+- [Dev.to/JS] [Implementing Login with Metamask, send Ether, user registration using React, NodeJS, Sequelize and GraphQL](https://dev.to/olivermengich/implementing-login-with-metamask-send-ether-user-registration-using-react-nodejs-sequelize-and-graphql-35k7)
+- [Dev.to/JS] [JavaScript Web Crawler with Node.js: A Step-By-Step Tutorial](https://dev.to/zenrowshq/javascript-web-crawler-with-nodejs-a-step-by-step-tutorial-cmd)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Promoção de Halloween.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-promocao-de-halloween-dcc)
+- [Dev.to/JS] [Maker tag](https://dev.to/alohe/maker-tag-3148)
 - [Lifehacker] [You Can Make Gnudi With Cheap Grocery Store Ricotta](https://lifehacker.com/you-can-make-gnudi-with-cheap-grocery-store-ricotta-1850334379)
 - [Dev.to/JS] [Function js JavaScript complete guide](https://dev.to/ebakecode/function-js-javascript-complete-guide-2ih1)
 - [Dev.to/JS] [⚡️ Use ChatGPT on any website 🔥](https://dev.to/learnersbucket/use-chatgpt-on-any-website-5h6)
 - [Dev.to/JS] [How To Boost Your Firebase App’s Efficiency with Real-Time Listeners in React.js](https://dev.to/imkrunalkanojiya/how-to-boost-your-firebase-apps-efficiency-with-real-time-listeners-in-reactjs-1p02)
-- [Dev.to/JS] [Fetching Data from an API in SolidJS with Axios with Example](https://dev.to/imkrunalkanojiya/fetching-data-from-an-api-in-solidjs-with-axios-with-example-5267)
-- [Dev.to/JS] [10 Javascript Data Visualization Libraries Every Front-End Developer Should Know About](https://dev.to/coderpad/10-javascript-data-visualization-libraries-every-front-end-developer-should-know-about-2iil)
-- [Dev.to/JS] [Signals: what this means for NgRx](https://dev.to/this-is-angular/signals-what-this-means-for-ngrx-eho)
-- [Dev.to/JS] [Get Original Dimension in JavaScript](https://dev.to/mahabubr/get-original-dimension-in-javascript-5m0)
-- [Dev.to/JS] [What is IIFE in JavaScript.](https://dev.to/anshmittal86/what-is-iife-in-javascript-126k)
-- [Dev.to/JS] [Leetcode 435. Non-overlapping Intervals](https://dev.to/blakeahalt/leetcode-435-non-overlapping-intervals-5437)
-- [Dev.to/JS] [RxJS: retry with exponential backoff](https://dev.to/this-is-learning/rxjs-retry-with-exponential-backoff-dpe)
-- [Dev.to/JS] [AJAX and XMLHttpRequest — Understanding JavaScript API Requests and Responses in the Data Fetching lifecycle](https://dev.to/rodcast/ajax-and-xmlhttprequest-understanding-javascript-api-requests-and-responses-in-the-data-fetching-lifecycle-4ap6)
-- [Dev.to/JS] [The Future of Python And JavaScript: Emerging Trends And Possibilities](https://dev.to/krishna49create/the-future-of-python-and-java-script-emerging-trends-and-possibilities-3b7e)
 - [Lifehacker] [How to Clean Suede Furniture Without Ruining It](https://lifehacker.com/how-to-clean-suede-furniture-without-ruining-it-1850340331)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Applying to Rent an Apartment](https://lifehacker.com/dont-make-these-mistakes-when-applying-to-rent-an-apart-1850340334)
 - [Lifehacker] [The Difference Between Soil and Dirt](https://lifehacker.com/the-difference-between-soil-and-dirt-1850340337)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the New Features in Android 14&#39;s First Beta](https://lifehacker.com/all-the-new-features-in-android-14s-first-beta-1850332344)
 - [Lifehacker] [How Long to Keep Every Important Financial Document](https://lifehacker.com/how-long-to-keep-every-important-financial-document-1850328770)
 - [Lifehacker] [Rearrange Your Garden by Using &#39;Hidden&#39; Pots](https://lifehacker.com/rearrange-your-garden-by-using-hidden-pots-1850327240)
-- [Lifehacker] [This Interactive Map Shows the Most Common Scams in Your Area](https://lifehacker.com/this-interactive-map-shows-the-most-common-scams-in-you-1850325327)
-- [Lifehacker] [Seven Savory Ways to Use Up That Last Bit of Easter Ham](https://lifehacker.com/seven-savory-ways-to-use-up-that-last-bit-of-easter-ham-1850328105)
-- [Lifehacker] [Your Clothespins Can Tell You When to Do Laundry](https://lifehacker.com/your-clothespins-can-tell-you-when-to-do-laundry-1850327313)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Interactive Map Shows the Most Common Scams in Your Area](https://lifehacker.com/this-interactive-map-shows-the-most-common-scams-in-you-1850325327)<!-- TECH-POSTS:END -->
 
 ---
 
