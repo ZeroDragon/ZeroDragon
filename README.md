@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding useState and useEffect in React](https://dev.to/taahahussainkhan/understanding-usestate-and-useeffect-in-react-3448)
+- [Dev.to/JS] [Routing in React with React Router](https://dev.to/taahahussainkhan/routing-in-react-with-react-router-5g0m)
 - [Dev.to/JS] [Custom hooks in React](https://dev.to/rahul72925/custom-hooks-in-react-32dm)
 - [Dev.to/JS] [Efficiently Rendering Lists in React](https://dev.to/taahahussainkhan/efficiently-rendering-lists-in-react-ke4)
 - [Lifehacker] [Why You Need to Double Check Your &#39;Safe Food&#39; Ingredients If You’re Allergic to Sesame](https://lifehacker.com/why-you-need-to-double-check-your-safe-food-ingredients-1850338194)
@@ -43,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Capture Groups in Regular Expressions](https://dev.to/redbit/capture-groups-in-regular-expressions-4g7o)
 - [Dev.to/JS] [Learn Creational JavaScript Design Patterns with This Easy Guide](https://dev.to/kinsta/learn-to-creational-javascript-design-patterns-with-this-easy-guide-312a)
 - [Lifehacker] [Use AI to Supercharge Your Smartphone&#39;s Keyboard](https://lifehacker.com/use-ai-to-supercharge-your-smartphones-keyboard-1850337405)
-- [Dev.to/JS] [The Acronyms of Rendering on the Web](https://dev.to/whitep4nth3r/the-acronyms-of-rendering-on-the-web-2g8h)
-- [Dev.to/JS] [Full-stack Web Apps Without React](https://dev.to/remotesynth/full-stack-web-apps-without-react-3260)
 - [Lifehacker] [The Best Ways to Keep Squirrels Out of Your Potted Plants](https://lifehacker.com/the-best-ways-to-keep-squirrels-out-of-your-potted-plan-1850335743)
 - [Lifehacker] [You Can Make Gnudi With Cheap Grocery Store Ricotta](https://lifehacker.com/you-can-make-gnudi-with-cheap-grocery-store-ricotta-1850334379)
 - [Lifehacker] [How to Clean Suede Furniture Without Ruining It](https://lifehacker.com/how-to-clean-suede-furniture-without-ruining-it-1850340331)
