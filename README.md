@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Revealing Module Pattern | Javascript](https://dev.to/nickap/the-revealing-module-pattern-javascript-2ne9)
+- [Dev.to/JS] [Tracing the Journey: A Comprehensive Guide to the Evolution of DevOps](https://dev.to/itsahsanmangal/tracing-the-journey-a-comprehensive-guide-to-the-evolution-of-devops-g4k)
+- [Dev.to/JS] [Beyond Angular Signals: Signals &amp; Custom Render Strategies](https://dev.to/this-is-angular/beyond-angular-signals-signals-custom-render-strategies-46h7)
+- [Dev.to/JS] [User if they are already logged in. Can&#39;t open Login Page](https://dev.to/vamsi_76_89/user-if-they-are-already-logged-in-cant-open-login-page-521p)
 - [Dev.to/JS] [Getting started with Finite State Machine using X-state.](https://dev.to/asapconet/getting-started-with-finite-state-machine-using-x-state-30l8)
 - [Dev.to/JS] [Promises in Javascript](https://dev.to/codeofaccuracy/promises-in-javascript-2e09)
 - [Dev.to/JS] [Dietoxone - Fat Loss Reviews, Pros, Cons, Price, Scam And Legit?](https://dev.to/dietoxone151889/dietoxone-fat-loss-reviews-pros-cons-price-scam-and-legit-31l4)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Measure TypeScript Execution Time](https://dev.to/tkminh/measure-typescript-execution-time-18p4)
 - [Dev.to/JS] [What is the `new` keyword in JavaScript?](https://dev.to/muhtoyyib/what-is-the-new-keyword-in-javascript-5dn7)
 - [Dev.to/JS] [Improving User Experience: Enabling Both Contractors and Clients to Use Contractr Platform](https://dev.to/arashjangali/improving-user-experience-enabling-both-contractors-and-clients-to-use-contractr-platform-520c)
-- [Dev.to/JS] [The methods underlying current technology that aren&#39;t discussed](https://dev.to/chidiebereomasi/the-methods-underlying-current-technology-that-arent-discussed-7mk)
-- [Dev.to/JS] [React Context: The Detailed Guide](https://dev.to/alakkadshaw/react-context-the-detailed-guide-1p05)
-- [Dev.to/JS] [XML Parsing em NodeJS com XMLBuilder2](https://dev.to/marcopollivier/xml-parsing-em-nodejs-com-xmlbuilder2-1p0e)
-- [Dev.to/JS] [Cek paket](https://dev.to/ssms_notip/cek-paket-44ae)
 - [Lifehacker] [How to Clean Suede Furniture Without Ruining It](https://lifehacker.com/how-to-clean-suede-furniture-without-ruining-it-1850340331)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Applying to Rent an Apartment](https://lifehacker.com/dont-make-these-mistakes-when-applying-to-rent-an-apart-1850340334)
 - [Lifehacker] [The Difference Between Soil and Dirt](https://lifehacker.com/the-difference-between-soil-and-dirt-1850340337)
