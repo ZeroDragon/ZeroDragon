@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Custom hooks in React](https://dev.to/rahul72925/custom-hooks-in-react-32dm)
+- [Dev.to/JS] [Efficiently Rendering Lists in React](https://dev.to/taahahussainkhan/efficiently-rendering-lists-in-react-ke4)
 - [Lifehacker] [Why You Need to Double Check Your &#39;Safe Food&#39; Ingredients If You’re Allergic to Sesame](https://lifehacker.com/why-you-need-to-double-check-your-safe-food-ingredients-1850338194)
 - [Dev.to/JS] [🔥 7 Free Resources to Ignite Your Coding Journey!](https://dev.to/jd2r/7-free-resources-to-ignite-your-coding-journey-31di)
 - [Lifehacker] [Don&#39;t Forget to Put Nuts in Your Stews and Soup](https://lifehacker.com/dont-forget-to-put-nuts-in-your-stews-and-soup-1850338202)
@@ -44,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Acronyms of Rendering on the Web](https://dev.to/whitep4nth3r/the-acronyms-of-rendering-on-the-web-2g8h)
 - [Dev.to/JS] [Full-stack Web Apps Without React](https://dev.to/remotesynth/full-stack-web-apps-without-react-3260)
 - [Lifehacker] [The Best Ways to Keep Squirrels Out of Your Potted Plants](https://lifehacker.com/the-best-ways-to-keep-squirrels-out-of-your-potted-plan-1850335743)
-- [Dev.to/JS] [ChatGPT from OpenAI with React Native](https://dev.to/boopykiki/chatgpt-from-openai-with-react-native-3ih1)
-- [Dev.to/JS] [Implementing Login with Metamask, send Ether, user registration using React, NodeJS, Sequelize and GraphQL](https://dev.to/olivermengich/implementing-login-with-metamask-send-ether-user-registration-using-react-nodejs-sequelize-and-graphql-35k7)
 - [Lifehacker] [You Can Make Gnudi With Cheap Grocery Store Ricotta](https://lifehacker.com/you-can-make-gnudi-with-cheap-grocery-store-ricotta-1850334379)
 - [Lifehacker] [How to Clean Suede Furniture Without Ruining It](https://lifehacker.com/how-to-clean-suede-furniture-without-ruining-it-1850340331)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Applying to Rent an Apartment](https://lifehacker.com/dont-make-these-mistakes-when-applying-to-rent-an-apart-1850340334)
