@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Image validation for Angular](https://dev.to/olegmingaleev/image-validation-for-angular-8n9)
+- [Dev.to/JS] [Utilize o hook useMemo para otimizar o desempenho de cálculos caros em componentes funcionais no React.](https://dev.to/eliasgabriel1/utilize-o-hook-usememo-para-otimizar-o-desempenho-de-calculos-caros-em-componentes-funcionais-no-react-1lc0)
+- [Dev.to/JS] [How to use MapLibre GL JS with 3D Tiles &lpar;pnts&rpar;](https://dev.to/hfu/how-to-use-maplibre-gl-js-with-3d-tiles-pnts-g4h)
 - [Dev.to/JS] [Polyfills in React Application: A Complete Guide](https://dev.to/shubhamdutta2000/polyfills-in-react-application-a-complete-guide-523l)
 - [Dev.to/JS] [Understanding useState and useEffect in React](https://dev.to/taahahussainkhan/understanding-usestate-and-useeffect-in-react-3448)
 - [Dev.to/JS] [Routing in React with React Router](https://dev.to/taahahussainkhan/routing-in-react-with-react-router-5g0m)
@@ -39,11 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Better Way to Design a Loading Button Component](https://dev.to/sam585456525/design-a-loading-button-component-for-easier-handling-of-fetching-loading-ui-state-3bhf)
 - [Lifehacker] [This Tool Knows Whether You&#39;re Overpaying for Rent in NYC](https://lifehacker.com/this-tool-knows-whether-youre-overpaying-for-rent-in-ny-1850325047)
 - [Lifehacker] [Cheap and Easy Ways to Keep Water Away From Your Foundation](https://lifehacker.com/cheap-and-easy-ways-to-keep-water-away-from-your-founda-1850342754)
-- [Dev.to/JS] [Exodus Effect - Results, Price, Reviews, Benefits &amp; Where To Buy?](https://dev.to/exoduseffe19803/exodus-effect-results-price-reviews-benefits-where-to-buy-3f4i)
-- [Dev.to/JS] [Nested Components - A bad practice? - ReactJS](https://dev.to/sanjampreetsingh/nested-components-a-bad-practice-reactjs-1hbf)
 - [Lifehacker] [Why You Should Never Use Klarna to Buy Groceries](https://lifehacker.com/why-you-should-never-use-klarna-to-buy-groceries-1850336826)
 - [Lifehacker] [How to Train Your New Boss &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-train-your-new-boss-and-why-you-should-1850336703)
-- [Dev.to/JS] [Capture Groups in Regular Expressions](https://dev.to/redbit/capture-groups-in-regular-expressions-4g7o)
 - [Lifehacker] [Use AI to Supercharge Your Smartphone&#39;s Keyboard](https://lifehacker.com/use-ai-to-supercharge-your-smartphones-keyboard-1850337405)
 - [Lifehacker] [The Best Ways to Keep Squirrels Out of Your Potted Plants](https://lifehacker.com/the-best-ways-to-keep-squirrels-out-of-your-potted-plan-1850335743)
 - [Lifehacker] [You Can Make Gnudi With Cheap Grocery Store Ricotta](https://lifehacker.com/you-can-make-gnudi-with-cheap-grocery-store-ricotta-1850334379)
