@@ -23,8 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Learn Creational JavaScript Design Patterns with This Easy Guide](https://dev.to/kinsta/learn-to-creational-javascript-design-patterns-with-this-easy-guide-312a)
+- [Lifehacker] [How to Train Your New Boss &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-train-your-new-boss-and-why-you-should-1850336703)
 - [Dev.to/JS] [Capture Groups in Regular Expressions](https://dev.to/redbit/capture-groups-in-regular-expressions-4g7o)
+- [Dev.to/JS] [Learn Creational JavaScript Design Patterns with This Easy Guide](https://dev.to/kinsta/learn-to-creational-javascript-design-patterns-with-this-easy-guide-312a)
 - [Lifehacker] [Use AI to Supercharge Your Smartphone&#39;s Keyboard](https://lifehacker.com/use-ai-to-supercharge-your-smartphones-keyboard-1850337405)
 - [Dev.to/JS] [The Acronyms of Rendering on the Web](https://dev.to/whitep4nth3r/the-acronyms-of-rendering-on-the-web-2g8h)
 - [Dev.to/JS] [Full-stack Web Apps Without React](https://dev.to/remotesynth/full-stack-web-apps-without-react-3260)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Win at &#39;Digits,&#39; the New Wordle for Math](https://lifehacker.com/how-to-win-at-digits-the-new-wordle-for-math-1850333000)
 - [Lifehacker] [All the New Features in Android 14&#39;s First Beta](https://lifehacker.com/all-the-new-features-in-android-14s-first-beta-1850332344)
 - [Lifehacker] [How Long to Keep Every Important Financial Document](https://lifehacker.com/how-long-to-keep-every-important-financial-document-1850328770)
-- [Lifehacker] [Rearrange Your Garden by Using &#39;Hidden&#39; Pots](https://lifehacker.com/rearrange-your-garden-by-using-hidden-pots-1850327240)
-- [Lifehacker] [This Interactive Map Shows the Most Common Scams in Your Area](https://lifehacker.com/this-interactive-map-shows-the-most-common-scams-in-you-1850325327)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Rearrange Your Garden by Using &#39;Hidden&#39; Pots](https://lifehacker.com/rearrange-your-garden-by-using-hidden-pots-1850327240)<!-- TECH-POSTS:END -->
 
 ---
 
