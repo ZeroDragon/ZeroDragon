@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Hearing Aids Are For Your Health, Not Just Your Hearing](https://lifehacker.com/hearing-aids-are-for-your-health-not-just-your-hearing-1850337795)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Apr 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-apr-2023-4ni9)
+- [Dev.to/JS] [When Direct DOM Manipulation Outperforms React State Management](https://dev.to/confrontend/when-direct-dom-manipulation-outperforms-react-state-management-3l10)
+- [Lifehacker] [Make These Renovations Before Retirement If You Plan to Stay in Your Home](https://lifehacker.com/make-these-renovations-before-retirement-if-you-plan-to-1850337333)
 - [Lifehacker] [When to Use Olive Oil to ‘Clean’ &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-use-olive-oil-to-clean-and-when-not-to-1850337919)
 - [Dev.to/JS] [A Better Way to Design a Loading Button Component](https://dev.to/sam585456525/design-a-loading-button-component-for-easier-handling-of-fetching-loading-ui-state-3bhf)
 - [Lifehacker] [This Tool Knows Whether You&#39;re Overpaying for Rent in NYC](https://lifehacker.com/this-tool-knows-whether-youre-overpaying-for-rent-in-ny-1850325047)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ChatGPT from OpenAI with React Native](https://dev.to/boopykiki/chatgpt-from-openai-with-react-native-3ih1)
 - [Dev.to/JS] [Implementing Login with Metamask, send Ether, user registration using React, NodeJS, Sequelize and GraphQL](https://dev.to/olivermengich/implementing-login-with-metamask-send-ether-user-registration-using-react-nodejs-sequelize-and-graphql-35k7)
 - [Dev.to/JS] [JavaScript Web Crawler with Node.js: A Step-By-Step Tutorial](https://dev.to/zenrowshq/javascript-web-crawler-with-nodejs-a-step-by-step-tutorial-cmd)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Promoção de Halloween.](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-promocao-de-halloween-dcc)
-- [Dev.to/JS] [Maker tag](https://dev.to/alohe/maker-tag-3148)
 - [Lifehacker] [You Can Make Gnudi With Cheap Grocery Store Ricotta](https://lifehacker.com/you-can-make-gnudi-with-cheap-grocery-store-ricotta-1850334379)
 - [Lifehacker] [How to Clean Suede Furniture Without Ruining It](https://lifehacker.com/how-to-clean-suede-furniture-without-ruining-it-1850340331)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Applying to Rent an Apartment](https://lifehacker.com/dont-make-these-mistakes-when-applying-to-rent-an-apart-1850340334)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Your Own Aperitif With Oranges and Crappy Wine](https://lifehacker.com/make-your-own-aperitif-with-oranges-and-shitty-wine-1850330111)
 - [Lifehacker] [Whether to Turn on the A/C or Roll Down the Windows, According to Science](https://lifehacker.com/whether-to-turn-on-the-a-c-or-roll-down-the-windows-ac-1850334173)
 - [Lifehacker] [Book Your Next Stay on These Rental Sites Instead of Airbnb](https://lifehacker.com/book-your-next-stay-on-these-rental-sites-instead-of-ai-1850329351)
-- [Lifehacker] [This Dairy-Free Yogurt Makes Incredible French Toast](https://lifehacker.com/this-dairy-free-yogurt-makes-incredible-french-toast-1850329387)
-- [Lifehacker] [Get a One-Year Sam&#39;s Club Membership for $10 Right Now](https://lifehacker.com/get-a-one-year-sams-club-membership-for-10-right-now-1850333329)
-- [Lifehacker] [How to Watch the Lyrid Meteor Shower This Month](https://lifehacker.com/how-to-watch-the-lyrid-meteor-shower-this-month-1850333564)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Dairy-Free Yogurt Makes Incredible French Toast](https://lifehacker.com/this-dairy-free-yogurt-makes-incredible-french-toast-1850329387)<!-- TECH-POSTS:END -->
 
 ---
 
