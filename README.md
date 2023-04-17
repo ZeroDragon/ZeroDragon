@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Measure TypeScript Execution Time](https://dev.to/tkminh/measure-typescript-execution-time-18p4)
 - [Dev.to/JS] [What is the `new` keyword in JavaScript?](https://dev.to/muhtoyyib/what-is-the-new-keyword-in-javascript-5dn7)
 - [Dev.to/JS] [Improving User Experience: Enabling Both Contractors and Clients to Use Contractr Platform](https://dev.to/arashjangali/improving-user-experience-enabling-both-contractors-and-clients-to-use-contractr-platform-520c)
 - [Dev.to/JS] [The methods underlying current technology that aren&#39;t discussed](https://dev.to/chidiebereomasi/the-methods-underlying-current-technology-that-arent-discussed-7mk)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simplifying Strategy Pattern with 3 Golang examples](https://dev.to/doziestar/simplifying-strategy-pattern-with-3-golang-examples-236d)
 - [Dev.to/JS] [React 18 new features](https://dev.to/tusharjagi/react-18-new-features-50k8)
 - [Dev.to/JS] [Efficiently manage repeated requests in Angular with interceptors](https://dev.to/shrihari/efficiently-manage-repeated-requests-in-angular-with-interceptors-4amn)
-- [Dev.to/JS] [Can WebAssembly make your web apps faster?](https://dev.to/canbax/can-webassembly-make-your-web-apps-faster-378j)
 - [Lifehacker] [How to Clean Suede Furniture Without Ruining It](https://lifehacker.com/how-to-clean-suede-furniture-without-ruining-it-1850340331)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Applying to Rent an Apartment](https://lifehacker.com/dont-make-these-mistakes-when-applying-to-rent-an-apart-1850340334)
 - [Lifehacker] [The Difference Between Soil and Dirt](https://lifehacker.com/the-difference-between-soil-and-dirt-1850340337)
