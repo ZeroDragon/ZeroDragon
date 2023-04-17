@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Function js JavaScript advance principles](https://dev.to/ebakecode/function-js-javascript-advance-principles-1je0)
+- [Dev.to/JS] [Pure Component in React](https://dev.to/alakkadshaw/pure-component-in-react-e4m)
 - [Dev.to/JS] [Image validation for Angular](https://dev.to/olegmingaleev/image-validation-for-angular-8n9)
 - [Dev.to/JS] [Utilize o hook useMemo para otimizar o desempenho de cálculos caros em componentes funcionais no React.](https://dev.to/eliasgabriel1/utilize-o-hook-usememo-para-otimizar-o-desempenho-de-calculos-caros-em-componentes-funcionais-no-react-1lc0)
 - [Dev.to/JS] [How to use MapLibre GL JS with 3D Tiles &lpar;pnts&rpar;](https://dev.to/hfu/how-to-use-maplibre-gl-js-with-3d-tiles-pnts-g4h)
@@ -36,10 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Forget to Put Nuts in Your Stews and Soup](https://lifehacker.com/dont-forget-to-put-nuts-in-your-stews-and-soup-1850338202)
 - [Lifehacker] [Hearing Aids Are For Your Health, Not Just Your Hearing](https://lifehacker.com/hearing-aids-are-for-your-health-not-just-your-hearing-1850337795)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Apr 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-apr-2023-4ni9)
-- [Dev.to/JS] [When Direct DOM Manipulation Outperforms React State Management](https://dev.to/confrontend/when-direct-dom-manipulation-outperforms-react-state-management-3l10)
 - [Lifehacker] [Make These Renovations Before Retirement If You Plan to Stay in Your Home](https://lifehacker.com/make-these-renovations-before-retirement-if-you-plan-to-1850337333)
 - [Lifehacker] [When to Use Olive Oil to ‘Clean’ &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-use-olive-oil-to-clean-and-when-not-to-1850337919)
-- [Dev.to/JS] [A Better Way to Design a Loading Button Component](https://dev.to/sam585456525/design-a-loading-button-component-for-easier-handling-of-fetching-loading-ui-state-3bhf)
 - [Lifehacker] [This Tool Knows Whether You&#39;re Overpaying for Rent in NYC](https://lifehacker.com/this-tool-knows-whether-youre-overpaying-for-rent-in-ny-1850325047)
 - [Lifehacker] [Cheap and Easy Ways to Keep Water Away From Your Foundation](https://lifehacker.com/cheap-and-easy-ways-to-keep-water-away-from-your-founda-1850342754)
 - [Lifehacker] [Why You Should Never Use Klarna to Buy Groceries](https://lifehacker.com/why-you-should-never-use-klarna-to-buy-groceries-1850336826)
