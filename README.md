@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Leetcode 435. Non-overlapping Intervals](https://dev.to/blakeahalt/leetcode-435-non-overlapping-intervals-5437)
+- [Dev.to/JS] [RxJS: retry with exponential backoff](https://dev.to/this-is-learning/rxjs-retry-with-exponential-backoff-dpe)
+- [Dev.to/JS] [AJAX and XMLHttpRequest — Understanding JavaScript API Requests and Responses in the Data Fetching lifecycle](https://dev.to/rodcast/ajax-and-xmlhttprequest-understanding-javascript-api-requests-and-responses-in-the-data-fetching-lifecycle-4ap6)
+- [Dev.to/JS] [The Future of Python And JavaScript: Emerging Trends And Possibilities](https://dev.to/krishna49create/the-future-of-python-and-java-script-emerging-trends-and-possibilities-3b7e)
 - [Dev.to/JS] [The Revealing Module Pattern | Javascript](https://dev.to/nickap/the-revealing-module-pattern-javascript-2ne9)
 - [Dev.to/JS] [Tracing the Journey: A Comprehensive Guide to the Evolution of DevOps](https://dev.to/itsahsanmangal/tracing-the-journey-a-comprehensive-guide-to-the-evolution-of-devops-g4k)
 - [Dev.to/JS] [Beyond Angular Signals: Signals &amp; Custom Render Strategies](https://dev.to/this-is-angular/beyond-angular-signals-signals-custom-render-strategies-46h7)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Promises in Javascript](https://dev.to/codeofaccuracy/promises-in-javascript-2e09)
 - [Dev.to/JS] [Dietoxone - Fat Loss Reviews, Pros, Cons, Price, Scam And Legit?](https://dev.to/dietoxone151889/dietoxone-fat-loss-reviews-pros-cons-price-scam-and-legit-31l4)
 - [Dev.to/JS] [Debug Lesson: the problem from Chrome, CookieStore and var](https://dev.to/arpple/debug-lesson-the-problem-from-chrome-cookiestorage-and-var-5fah)
-- [Dev.to/JS] [mysql-error-keys : Handling MySQL Error Messages in a More Readable Way](https://dev.to/prettyblueberry/mysql-error-keys-handling-mysql-error-messages-in-a-more-readable-way-2o2i)
-- [Dev.to/JS] [Measure TypeScript Execution Time](https://dev.to/tkminh/measure-typescript-execution-time-18p4)
-- [Dev.to/JS] [What is the `new` keyword in JavaScript?](https://dev.to/muhtoyyib/what-is-the-new-keyword-in-javascript-5dn7)
-- [Dev.to/JS] [Improving User Experience: Enabling Both Contractors and Clients to Use Contractr Platform](https://dev.to/arashjangali/improving-user-experience-enabling-both-contractors-and-clients-to-use-contractr-platform-520c)
 - [Lifehacker] [How to Clean Suede Furniture Without Ruining It](https://lifehacker.com/how-to-clean-suede-furniture-without-ruining-it-1850340331)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Applying to Rent an Apartment](https://lifehacker.com/dont-make-these-mistakes-when-applying-to-rent-an-apart-1850340334)
 - [Lifehacker] [The Difference Between Soil and Dirt](https://lifehacker.com/the-difference-between-soil-and-dirt-1850340337)
