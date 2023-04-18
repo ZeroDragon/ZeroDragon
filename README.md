@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Low-Maintenance Plants for Your Garden](https://lifehacker.com/the-best-low-maintenance-plants-for-your-garden-1850344419)
+- [Dev.to/JS] [Building a production ready LLM application with BerriAI, PropelAuth, and Next.js](https://dev.to/propelauth/building-a-production-ready-llm-application-with-berriai-propelauth-and-nextjs-22an)
+- [Lifehacker] [Where You Can Buy a Bargain Mansion](https://lifehacker.com/where-you-can-buy-a-bargain-mansion-1850344233)
+- [Dev.to/JS] [Powerful alternative to useContext, useMemo and props in the same React JS.](https://dev.to/sebagonzale/powerful-alternative-to-usecontext-usememo-and-props-in-the-same-react-js-4ik5)
+- [Dev.to/JS] [Programación Basada en Slogans](https://dev.to/spersico/programacion-basada-en-slogans-6eb)
 - [Lifehacker] [Barbecue and Doughnuts Are Better Together](https://lifehacker.com/barbecue-and-doughnuts-are-better-together-1850339106)
 - [Dev.to/JS] [Creating AWS EC2 instance with javascript.](https://dev.to/avinash8847/creating-aws-ec2-instance-with-javascript-934)
 - [Dev.to/JS] [Optimizing images in JS apps with IPX](https://dev.to/jacobandrewsky/optimizing-images-in-js-apps-with-ipx-37b1)
@@ -35,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Kubernetes quick tutorial](https://dev.to/francescoxx/kubernetes-quick-tutorial-2el7)
 - [Dev.to/JS] [Cypress JavaScript Tutorial: A Step-by-Step Handbook For Beginners](https://dev.to/kailashpathak7/cypress-javascript-tutorial-a-step-by-step-handbook-for-beginners-2gja)
 - [Dev.to/JS] [Prettier: A Double-Edged Sword for Code Formatting 🎭](https://dev.to/nyxb/prettier-a-double-edged-sword-for-code-formatting-29o9)
-- [Dev.to/JS] [Cross-Platform App Development with Appwrite](https://dev.to/scofieldidehen/cross-platform-app-development-with-appwrite-8c)
 - [Lifehacker] [These Are the New Rules for Tipping, According to Lifehacker Readers](https://lifehacker.com/these-are-the-new-rules-for-tipping-according-to-lifeh-1850338162)
 - [Lifehacker] [Ten Red Flags That You’re Not Really Talking to the IRS](https://lifehacker.com/ten-red-flags-that-you-re-not-really-talking-to-the-irs-1850338065)
-- [Dev.to/JS] [Moonly weekly progress update #45 - First Staking Client](https://dev.to/moonly/moonly-weekly-progress-update-45-first-staking-client-560)
-- [Dev.to/JS] [Naming: Every Developer&#39;s Nightmare](https://dev.to/samuel-braun/naming-every-developers-nightmare-3ge8)
 - [Lifehacker] [Why You Need to Double Check Your &#39;Safe Food&#39; Ingredients If You’re Allergic to Sesame](https://lifehacker.com/why-you-need-to-double-check-your-safe-food-ingredients-1850338194)
 - [Lifehacker] [Don&#39;t Forget to Put Nuts in Your Stews and Soup](https://lifehacker.com/dont-forget-to-put-nuts-in-your-stews-and-soup-1850338202)
 - [Lifehacker] [Hearing Aids Are For Your Health, Not Just Your Hearing](https://lifehacker.com/hearing-aids-are-for-your-health-not-just-your-hearing-1850337795)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most &lpar;and Least&rpar; Pet-Friendly Cities in the U.S.](https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Clean Bird Poop From Your Patio](https://lifehacker.com/the-best-and-worst-ways-to-clean-bird-poop-from-your-1850337329)
 - [Lifehacker] [Add Savory Spices to Your Boring Cookies](https://lifehacker.com/add-savory-spices-to-your-boring-cookies-1850334335)
-- [Lifehacker] [How to Finally Lower the Ringtone Volume on Your AirPods](https://lifehacker.com/how-to-finally-lower-the-ringtone-volume-on-your-airpod-1850332170)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Gen Z Is Redefining Espionage](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-gen-z-is-1850335727)
-- [Lifehacker] [Get Paid up to $20,000 for Finding ChatGPT Security Flaws](https://lifehacker.com/get-paid-up-to-20-000-for-finding-chatgpt-security-fla-1850333616)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Finally Lower the Ringtone Volume on Your AirPods](https://lifehacker.com/how-to-finally-lower-the-ringtone-volume-on-your-airpod-1850332170)<!-- TECH-POSTS:END -->
 
 ---
 
