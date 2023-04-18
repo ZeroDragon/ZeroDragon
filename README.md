@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on Disney+ in May 2023](https://lifehacker.com/whats-new-on-disney-in-may-2023-1850349256)
+- [Dev.to/JS] [Expose Child Component Methods to Parent Components with Vue 3 defineExpose](https://dev.to/caio2k/expose-child-component-methods-to-parent-components-with-vue-3-script-setup-defineexpose-4ghl)
+- [Lifehacker] [How to Tell If You’re Buying Nudes of a Real Person...or AI Porn](https://lifehacker.com/how-to-tell-if-you-re-buying-nudes-of-a-real-person-o-1850344588)
+- [Dev.to/JS] [How to use SVGs in React Native.](https://dev.to/gautham495/how-to-use-svgs-in-react-native-37n9)
+- [Dev.to/JS] [Guide Docs Homepage of Typia &lpar;20,000x faster runtime validator&rpar;](https://dev.to/samchon/guide-docs-homepage-of-typia-20000x-faster-runtime-validator-1df1)
+- [Lifehacker] [These Homemade Syrups Are Better Than the Stuff You See on TikTok](https://lifehacker.com/these-homemade-syrups-are-better-than-the-stuff-you-see-1850339690)
 - [Lifehacker] [Delete These Malware Apps From Your Android Device ASAP](https://lifehacker.com/delete-these-malware-apps-from-your-android-device-asap-1850348143)
 - [Dev.to/JS] [Build Custom Middleware for a React/Next.js App with Context API](https://dev.to/stephengade/build-custom-middleware-for-a-reactnextjs-app-with-context-api-2ed3)
 - [Lifehacker] [You Can Try Auto-GPT, the Next Generation of ChatGPT, Right Now](https://lifehacker.com/you-can-try-auto-gpt-the-next-generation-of-chatgpt-r-1850343691)
@@ -40,9 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Powerful alternative to useContext, useMemo and props in the same React JS.](https://dev.to/sebagonzale/powerful-alternative-to-usecontext-usememo-and-props-in-the-same-react-js-4ik5)
 - [Dev.to/JS] [Programación Basada en Slogans](https://dev.to/spersico/programacion-basada-en-slogans-6eb)
 - [Lifehacker] [Barbecue and Doughnuts Are Better Together](https://lifehacker.com/barbecue-and-doughnuts-are-better-together-1850339106)
-- [Dev.to/JS] [Creating AWS EC2 instance with javascript.](https://dev.to/avinash8847/creating-aws-ec2-instance-with-javascript-934)
-- [Dev.to/JS] [Optimizing images in JS apps with IPX](https://dev.to/jacobandrewsky/optimizing-images-in-js-apps-with-ipx-37b1)
-- [Dev.to/JS] [Creating animated chickens with zdog](https://dev.to/finiam/creating-animated-chickens-with-zdog-1pal)
 - [Lifehacker] [This ATM Scam Is Masquerading As an Act of Kindness](https://lifehacker.com/this-atm-scam-is-masquerading-as-an-act-of-kindness-1850338599)
 - [Lifehacker] [Why You Should Never Sell Your Old Phone Before Setting Up Your New One](https://lifehacker.com/why-you-should-never-sell-your-old-phone-before-setting-1850338691)
 - [Lifehacker] [These Are the New Rules for Tipping, According to Lifehacker Readers](https://lifehacker.com/these-are-the-new-rules-for-tipping-according-to-lifeh-1850338162)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use AI to Supercharge Your Smartphone&#39;s Keyboard](https://lifehacker.com/use-ai-to-supercharge-your-smartphones-keyboard-1850337405)
 - [Lifehacker] [The Best Ways to Keep Squirrels Out of Your Potted Plants](https://lifehacker.com/the-best-ways-to-keep-squirrels-out-of-your-potted-plan-1850335743)
 - [Lifehacker] [You Can Make Gnudi With Cheap Grocery Store Ricotta](https://lifehacker.com/you-can-make-gnudi-with-cheap-grocery-store-ricotta-1850334379)
-- [Lifehacker] [How to Clean Suede Furniture Without Ruining It](https://lifehacker.com/how-to-clean-suede-furniture-without-ruining-it-1850340331)
-- [Lifehacker] [Don&#39;t Make These Mistakes When Applying to Rent an Apartment](https://lifehacker.com/dont-make-these-mistakes-when-applying-to-rent-an-apart-1850340334)
-- [Lifehacker] [The Difference Between Soil and Dirt](https://lifehacker.com/the-difference-between-soil-and-dirt-1850340337)
-- [Lifehacker] [How to Choose Between Laundry Detergent Liquid, Powder, or Sheets](https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Clean Suede Furniture Without Ruining It](https://lifehacker.com/how-to-clean-suede-furniture-without-ruining-it-1850340331)<!-- TECH-POSTS:END -->
 
 ---
 
