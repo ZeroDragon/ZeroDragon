@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn JavaScript: Printing Your First Message](https://dev.to/fahimfba/learn-javascript-printing-your-first-message-2m04)
+- [Dev.to/JS] [Minko Gechev on Angular 16 &amp; 17 — game changer or loss of identity ?](https://dev.to/this-is-angular/minko-gechev-on-angular-16-17-game-changer-or-loss-of-identity--5lk)
+- [Dev.to/JS] [Create Dynamic URLs with URL Constructor in JavaScript](https://dev.to/olaleyeblessing/create-dynamic-urls-with-url-constructor-in-javascript-2o9l)
 - [Dev.to/JS] [Tipos condicionais no TypeScript: exemplos práticos e uso avançado](https://dev.to/angellicaaraujo/tipos-condicionais-no-typescript-exemplos-praticos-e-uso-avancado-3d5f)
 - [Dev.to/JS] [React Native Socket.io](https://dev.to/ajmal_hasan/react-native-socketio-47c)
 - [Dev.to/JS] [How to compare two arrays in Javascript](https://dev.to/tizianocappai_/how-to-compare-two-arrays-in-javascript-1fe2)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deploy Your Next.js App Like a Pro: A Step-by-Step Guide using Nginx, PM2, Certbot, and Git on your Linux Server](https://dev.to/j3rry320/deploy-your-nextjs-app-like-a-pro-a-step-by-step-guide-using-nginx-pm2-certbot-and-git-on-your-linux-server-3286)
 - [Dev.to/JS] [Medusa for Developers: A breakdown](https://dev.to/nobleokechi/medusa-for-developers-a-breakdown-2c40)
 - [Dev.to/JS] [patch-package: The Lifesaver for both Bleeding Edge and Legacy Projects](https://dev.to/andreasbergstrom/patch-package-the-essential-tool-for-managing-dependencies-in-both-modern-and-legacy-projects-4hnn)
-- [Dev.to/JS] [Love Mongodb ? Try Tigris db once.](https://dev.to/raviagheda/love-mongodb-try-tigris-db-once-52pn)
-- [Dev.to/JS] [Why am I doing #100DaysOfJS?](https://dev.to/thesanjeevsharma/why-am-i-doing-100daysofjs-99n)
-- [Dev.to/JS] [Javascript Object #12](https://dev.to/samr/javascript-object-11-2fhj)
 - [Lifehacker] [Why You Need to Double Check Your &#39;Safe Food&#39; Ingredients If You’re Allergic to Sesame](https://lifehacker.com/why-you-need-to-double-check-your-safe-food-ingredients-1850338194)
 - [Lifehacker] [Don&#39;t Forget to Put Nuts in Your Stews and Soup](https://lifehacker.com/dont-forget-to-put-nuts-in-your-stews-and-soup-1850338202)
 - [Lifehacker] [Hearing Aids Are For Your Health, Not Just Your Hearing](https://lifehacker.com/hearing-aids-are-for-your-health-not-just-your-hearing-1850337795)
