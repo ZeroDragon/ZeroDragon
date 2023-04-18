@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Control Flow in JavaScript - The Beginners Guide To Javascript&lpar;Part 2&rpar;](https://dev.to/camskithedev/mastering-control-flow-in-javascript-the-beginners-guide-to-javascriptpart-2-3dpi)
 - [Dev.to/JS] [TypeError: map is not a function in JavaScript](https://dev.to/coder9/typeerror-map-is-not-a-function-in-javascript-540j)
 - [Dev.to/JS] [Exporting a React component to a PDF file on click](https://dev.to/michaelburrows/exporting-a-react-component-to-a-pdf-file-on-click-2j68)
 - [Dev.to/JS] [Building a Better Platform: Contractr Progress Report](https://dev.to/arashjangali/building-a-better-platform-contractr-progress-report-72a)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Function js JavaScript advance principles](https://dev.to/ebakecode/function-js-javascript-advance-principles-1je0)
 - [Dev.to/JS] [Pure Component in React](https://dev.to/alakkadshaw/pure-component-in-react-e4m)
 - [Dev.to/JS] [Image validation for Angular](https://dev.to/olegmingaleev/image-validation-for-angular-8n9)
-- [Dev.to/JS] [Utilize o hook useMemo para otimizar o desempenho de cálculos caros em componentes funcionais no React.](https://dev.to/eliasgabriel1/utilize-o-hook-usememo-para-otimizar-o-desempenho-de-calculos-caros-em-componentes-funcionais-no-react-1lc0)
 - [Lifehacker] [Why You Need to Double Check Your &#39;Safe Food&#39; Ingredients If You’re Allergic to Sesame](https://lifehacker.com/why-you-need-to-double-check-your-safe-food-ingredients-1850338194)
 - [Lifehacker] [Don&#39;t Forget to Put Nuts in Your Stews and Soup](https://lifehacker.com/dont-forget-to-put-nuts-in-your-stews-and-soup-1850338202)
 - [Lifehacker] [Hearing Aids Are For Your Health, Not Just Your Hearing](https://lifehacker.com/hearing-aids-are-for-your-health-not-just-your-hearing-1850337795)
