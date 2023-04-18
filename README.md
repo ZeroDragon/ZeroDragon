@@ -23,7 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Barbecue and Doughnuts Are Better Together](https://lifehacker.com/barbecue-and-doughnuts-are-better-together-1850339106)
+- [Dev.to/JS] [Creating AWS EC2 instance with javascript.](https://dev.to/avinash8847/creating-aws-ec2-instance-with-javascript-934)
+- [Dev.to/JS] [Optimizing images in JS apps with IPX](https://dev.to/jacobandrewsky/optimizing-images-in-js-apps-with-ipx-37b1)
+- [Dev.to/JS] [Creating animated chickens with zdog](https://dev.to/finiam/creating-animated-chickens-with-zdog-1pal)
+- [Dev.to/JS] [How to Add Writing Assistance to Any JavaScript App in Minutes](https://dev.to/grammarlydevs/how-to-add-writing-assistance-to-any-javascript-app-in-minutes-nbh)
+- [Lifehacker] [This ATM Scam Is Masquerading As an Act of Kindness](https://lifehacker.com/this-atm-scam-is-masquerading-as-an-act-of-kindness-1850338599)
+- [Dev.to/JS] [How Pythagora Reduces Debugging Time and Supercharges Your Development Workflow](https://dev.to/zvone187/how-pythagora-reduces-debugging-time-and-supercharges-your-development-workflow-87p)
 - [Dev.to/JS] [Evitando o desperdício de tempo: A importância de se concentrar em uma atividade por vez.](https://dev.to/demgoncalves/evitando-o-desperdicio-de-tempo-a-importancia-de-se-concentrar-em-uma-atividade-por-vez-1dnh)
+- [Lifehacker] [Why You Should Never Sell Your Old Phone Before Setting Up Your New One](https://lifehacker.com/why-you-should-never-sell-your-old-phone-before-setting-1850338691)
 - [Dev.to/JS] [Kubernetes quick tutorial](https://dev.to/francescoxx/kubernetes-quick-tutorial-2el7)
 - [Dev.to/JS] [Cypress JavaScript Tutorial: A Step-by-Step Handbook For Beginners](https://dev.to/kailashpathak7/cypress-javascript-tutorial-a-step-by-step-handbook-for-beginners-2gja)
 - [Dev.to/JS] [Prettier: A Double-Edged Sword for Code Formatting 🎭](https://dev.to/nyxb/prettier-a-double-edged-sword-for-code-formatting-29o9)
@@ -32,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ten Red Flags That You’re Not Really Talking to the IRS](https://lifehacker.com/ten-red-flags-that-you-re-not-really-talking-to-the-irs-1850338065)
 - [Dev.to/JS] [Moonly weekly progress update #45 - First Staking Client](https://dev.to/moonly/moonly-weekly-progress-update-45-first-staking-client-560)
 - [Dev.to/JS] [Naming: Every Developer&#39;s Nightmare](https://dev.to/samuel-braun/naming-every-developers-nightmare-3ge8)
-- [Dev.to/JS] [Start building secure dApps with Archethic Wallet’s communication protocol](https://dev.to/margarita_manzanera/start-building-secure-dapps-with-archethic-wallets-communication-protocol-4pge)
-- [Dev.to/JS] [Supercharge your geolocalized DynamoDB Queries with Z-Order Indexing 🚀](https://dev.to/kumo/supercharge-your-geolocalized-dynamodb-queries-with-z-order-indexing-2oo8)
-- [Dev.to/JS] [Javascript Object #14](https://dev.to/samr/javascript-object-13-1ai9)
-- [Dev.to/JS] [El fin de useContext y useMemo?](https://dev.to/sebagonzale/el-fin-de-usecontext-y-usememo-3g47)
-- [Dev.to/JS] [How You Should Treat NPM Audit Results](https://dev.to/syncfusion/how-you-should-treat-npm-audit-results-2c5o)
 - [Lifehacker] [Why You Need to Double Check Your &#39;Safe Food&#39; Ingredients If You’re Allergic to Sesame](https://lifehacker.com/why-you-need-to-double-check-your-safe-food-ingredients-1850338194)
 - [Lifehacker] [Don&#39;t Forget to Put Nuts in Your Stews and Soup](https://lifehacker.com/dont-forget-to-put-nuts-in-your-stews-and-soup-1850338202)
 - [Lifehacker] [Hearing Aids Are For Your Health, Not Just Your Hearing](https://lifehacker.com/hearing-aids-are-for-your-health-not-just-your-hearing-1850337795)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Add Savory Spices to Your Boring Cookies](https://lifehacker.com/add-savory-spices-to-your-boring-cookies-1850334335)
 - [Lifehacker] [How to Finally Lower the Ringtone Volume on Your AirPods](https://lifehacker.com/how-to-finally-lower-the-ringtone-volume-on-your-airpod-1850332170)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Gen Z Is Redefining Espionage](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-gen-z-is-1850335727)
-- [Lifehacker] [Get Paid up to $20,000 for Finding ChatGPT Security Flaws](https://lifehacker.com/get-paid-up-to-20-000-for-finding-chatgpt-security-fla-1850333616)
-- [Lifehacker] [Fortune Favors Those Who Add Cheese to Their Smoothies](https://lifehacker.com/fortune-favors-those-who-add-cheese-to-their-smoothies-1850329579)
-- [Lifehacker] [You Can Stop Hidden Windows Apps From Running on Boot Up](https://lifehacker.com/you-can-stop-hidden-windows-apps-from-running-on-boot-u-1850332775)
-- [Lifehacker] [Everything You Should Be Using Your Local Extension Office for &lpar;but Aren’t&rpar;](https://lifehacker.com/everything-you-should-be-using-your-local-extension-off-1850329094)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Get Paid up to $20,000 for Finding ChatGPT Security Flaws](https://lifehacker.com/get-paid-up-to-20-000-for-finding-chatgpt-security-fla-1850333616)<!-- TECH-POSTS:END -->
 
 ---
 
