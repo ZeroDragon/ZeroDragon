@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node.js – The Ultimate Guide for Beginners](https://dev.to/nikkilopez2/nodejs-the-ultimate-guide-for-beginners-6e6)
+- [Dev.to/JS] [Javascript Object #13](https://dev.to/samr/javascript-object-13-ad1)
 - [Dev.to/JS] [My Journey in Open Source - github-workflow-migrator](https://dev.to/cadienvan/my-journey-in-open-source-github-workflow-migrator-bp5)
 - [Dev.to/JS] [Synzen: Cursos de Python y JS asistido por IA](https://dev.to/rocioblasquez/synzen-cursos-de-python-y-js-asistido-por-ia-1cjp)
 - [Dev.to/JS] [How To Easily Perform Specflow Parallel Execution With NUnit](https://dev.to/kailashpathak7/how-to-easily-perform-specflow-parallel-execution-with-nunit-3m28)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tipos condicionais no TypeScript: exemplos práticos e uso avançado](https://dev.to/angellicaaraujo/tipos-condicionais-no-typescript-exemplos-praticos-e-uso-avancado-3d5f)
 - [Dev.to/JS] [React Native Socket.io](https://dev.to/ajmal_hasan/react-native-socketio-47c)
 - [Dev.to/JS] [How to compare two arrays in Javascript](https://dev.to/tizianocappai_/how-to-compare-two-arrays-in-javascript-1fe2)
-- [Dev.to/JS] [Making a Speedrun Timer: Chapter 4](https://dev.to/kevthedev/making-a-speedrun-timer-chapter-4-3fi6)
-- [Dev.to/JS] [How to protect routes for different user roles with restricted access?](https://dev.to/bladearya/how-to-set-up-protected-how-to-protect-routes-for-different-user-roles-with-restricted-access-59j5)
 - [Lifehacker] [Why You Need to Double Check Your &#39;Safe Food&#39; Ingredients If You’re Allergic to Sesame](https://lifehacker.com/why-you-need-to-double-check-your-safe-food-ingredients-1850338194)
 - [Lifehacker] [Don&#39;t Forget to Put Nuts in Your Stews and Soup](https://lifehacker.com/dont-forget-to-put-nuts-in-your-stews-and-soup-1850338202)
 - [Lifehacker] [Hearing Aids Are For Your Health, Not Just Your Hearing](https://lifehacker.com/hearing-aids-are-for-your-health-not-just-your-hearing-1850337795)
