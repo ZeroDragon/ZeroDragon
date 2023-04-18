@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Try Auto-GPT, the Next Generation of ChatGPT, Right Now](https://lifehacker.com/you-can-try-auto-gpt-the-next-generation-of-chatgpt-r-1850343691)
+- [Dev.to/JS] [&quot;Undefined&quot; in javascript: Amazing Cases.](https://dev.to/sachink07/undefined-in-javascript-amazing-cases-4gk9)
+- [Dev.to/JS] [Javascript Arrays - The Beginners Guide To Javascript&lpar;Part 3&rpar;](https://dev.to/camskithedev/javascript-arrays-the-beginners-guide-to-javascriptpart-3-5b68)
+- [Lifehacker] [Why You Lost Wordle Today](https://lifehacker.com/why-you-lost-wordle-today-1850348061)
+- [Dev.to/JS] [11 Free Tools to Ignite Your Coding Journey](https://dev.to/jon_snow789/11-free-tools-to-ignite-your-coding-journey-4p4p)
+- [Dev.to/JS] [How to visualize timeline of a Wiki article?](https://dev.to/winkjs/how-to-visualize-timeline-of-a-wiki-article-39jm)
+- [Dev.to/JS] [Client-Side vs Server-Side Form Input Validation](https://dev.to/surveyjs/client-side-vs-server-side-form-input-validation-27lp)
+- [Crazy Programmer] [Barbara Liskov Biography](https://www.thecrazyprogrammer.com/2023/04/barbara-liskov-biography.html)
 - [Lifehacker] [The Best Low-Maintenance Plants for Your Garden](https://lifehacker.com/the-best-low-maintenance-plants-for-your-garden-1850344419)
 - [Dev.to/JS] [Building a production ready LLM application with BerriAI, PropelAuth, and Next.js](https://dev.to/propelauth/building-a-production-ready-llm-application-with-berriai-propelauth-and-nextjs-22an)
 - [Lifehacker] [Where You Can Buy a Bargain Mansion](https://lifehacker.com/where-you-can-buy-a-bargain-mansion-1850344233)
@@ -34,12 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating animated chickens with zdog](https://dev.to/finiam/creating-animated-chickens-with-zdog-1pal)
 - [Dev.to/JS] [How to Add Writing Assistance to Any JavaScript App in Minutes](https://dev.to/grammarlydevs/how-to-add-writing-assistance-to-any-javascript-app-in-minutes-nbh)
 - [Lifehacker] [This ATM Scam Is Masquerading As an Act of Kindness](https://lifehacker.com/this-atm-scam-is-masquerading-as-an-act-of-kindness-1850338599)
-- [Dev.to/JS] [How Pythagora Reduces Debugging Time and Supercharges Your Development Workflow](https://dev.to/zvone187/how-pythagora-reduces-debugging-time-and-supercharges-your-development-workflow-87p)
-- [Dev.to/JS] [Evitando o desperdício de tempo: A importância de se concentrar em uma atividade por vez.](https://dev.to/demgoncalves/evitando-o-desperdicio-de-tempo-a-importancia-de-se-concentrar-em-uma-atividade-por-vez-1dnh)
 - [Lifehacker] [Why You Should Never Sell Your Old Phone Before Setting Up Your New One](https://lifehacker.com/why-you-should-never-sell-your-old-phone-before-setting-1850338691)
-- [Dev.to/JS] [Kubernetes quick tutorial](https://dev.to/francescoxx/kubernetes-quick-tutorial-2el7)
-- [Dev.to/JS] [Cypress JavaScript Tutorial: A Step-by-Step Handbook For Beginners](https://dev.to/kailashpathak7/cypress-javascript-tutorial-a-step-by-step-handbook-for-beginners-2gja)
-- [Dev.to/JS] [Prettier: A Double-Edged Sword for Code Formatting 🎭](https://dev.to/nyxb/prettier-a-double-edged-sword-for-code-formatting-29o9)
 - [Lifehacker] [These Are the New Rules for Tipping, According to Lifehacker Readers](https://lifehacker.com/these-are-the-new-rules-for-tipping-according-to-lifeh-1850338162)
 - [Lifehacker] [Ten Red Flags That You’re Not Really Talking to the IRS](https://lifehacker.com/ten-red-flags-that-you-re-not-really-talking-to-the-irs-1850338065)
 - [Lifehacker] [Why You Need to Double Check Your &#39;Safe Food&#39; Ingredients If You’re Allergic to Sesame](https://lifehacker.com/why-you-need-to-double-check-your-safe-food-ingredients-1850338194)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Soil and Dirt](https://lifehacker.com/the-difference-between-soil-and-dirt-1850340337)
 - [Lifehacker] [How to Choose Between Laundry Detergent Liquid, Powder, or Sheets](https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381)
 - [Lifehacker] [You Shouldn&#39;t Keep These Things In Your Bathroom](https://lifehacker.com/you-shouldnt-keep-these-things-in-your-bathroom-1850339383)
-- [Lifehacker] [The Most &lpar;and Least&rpar; Pet-Friendly Cities in the U.S.](https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385)
-- [Lifehacker] [The Best &lpar;and Worst&rpar; Ways to Clean Bird Poop From Your Patio](https://lifehacker.com/the-best-and-worst-ways-to-clean-bird-poop-from-your-1850337329)
-- [Lifehacker] [Add Savory Spices to Your Boring Cookies](https://lifehacker.com/add-savory-spices-to-your-boring-cookies-1850334335)
-- [Lifehacker] [How to Finally Lower the Ringtone Volume on Your AirPods](https://lifehacker.com/how-to-finally-lower-the-ringtone-volume-on-your-airpod-1850332170)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Most &lpar;and Least&rpar; Pet-Friendly Cities in the U.S.](https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385)<!-- TECH-POSTS:END -->
 
 ---
 
