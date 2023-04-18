@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Delete These Malware Apps From Your Android Device ASAP](https://lifehacker.com/delete-these-malware-apps-from-your-android-device-asap-1850348143)
+- [Dev.to/JS] [Build Custom Middleware for a React/Next.js App with Context API](https://dev.to/stephengade/build-custom-middleware-for-a-reactnextjs-app-with-context-api-2ed3)
 - [Lifehacker] [You Can Try Auto-GPT, the Next Generation of ChatGPT, Right Now](https://lifehacker.com/you-can-try-auto-gpt-the-next-generation-of-chatgpt-r-1850343691)
 - [Dev.to/JS] [&quot;Undefined&quot; in javascript: Amazing Cases.](https://dev.to/sachink07/undefined-in-javascript-amazing-cases-4gk9)
+- [Lifehacker] [42 Highbrow Movies to Watch When You&#39;re Totally High](https://lifehacker.com/42-highbrow-films-to-watch-when-youre-totally-high-1848796343)
 - [Dev.to/JS] [Javascript Arrays - The Beginners Guide To Javascript&lpar;Part 3&rpar;](https://dev.to/camskithedev/javascript-arrays-the-beginners-guide-to-javascriptpart-3-5b68)
 - [Lifehacker] [Why You Lost Wordle Today](https://lifehacker.com/why-you-lost-wordle-today-1850348061)
 - [Dev.to/JS] [11 Free Tools to Ignite Your Coding Journey](https://dev.to/jon_snow789/11-free-tools-to-ignite-your-coding-journey-4p4p)
@@ -40,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating AWS EC2 instance with javascript.](https://dev.to/avinash8847/creating-aws-ec2-instance-with-javascript-934)
 - [Dev.to/JS] [Optimizing images in JS apps with IPX](https://dev.to/jacobandrewsky/optimizing-images-in-js-apps-with-ipx-37b1)
 - [Dev.to/JS] [Creating animated chickens with zdog](https://dev.to/finiam/creating-animated-chickens-with-zdog-1pal)
-- [Dev.to/JS] [How to Add Writing Assistance to Any JavaScript App in Minutes](https://dev.to/grammarlydevs/how-to-add-writing-assistance-to-any-javascript-app-in-minutes-nbh)
 - [Lifehacker] [This ATM Scam Is Masquerading As an Act of Kindness](https://lifehacker.com/this-atm-scam-is-masquerading-as-an-act-of-kindness-1850338599)
 - [Lifehacker] [Why You Should Never Sell Your Old Phone Before Setting Up Your New One](https://lifehacker.com/why-you-should-never-sell-your-old-phone-before-setting-1850338691)
 - [Lifehacker] [These Are the New Rules for Tipping, According to Lifehacker Readers](https://lifehacker.com/these-are-the-new-rules-for-tipping-according-to-lifeh-1850338162)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Clean Suede Furniture Without Ruining It](https://lifehacker.com/how-to-clean-suede-furniture-without-ruining-it-1850340331)
 - [Lifehacker] [Don&#39;t Make These Mistakes When Applying to Rent an Apartment](https://lifehacker.com/dont-make-these-mistakes-when-applying-to-rent-an-apart-1850340334)
 - [Lifehacker] [The Difference Between Soil and Dirt](https://lifehacker.com/the-difference-between-soil-and-dirt-1850340337)
-- [Lifehacker] [How to Choose Between Laundry Detergent Liquid, Powder, or Sheets](https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381)
-- [Lifehacker] [You Shouldn&#39;t Keep These Things In Your Bathroom](https://lifehacker.com/you-shouldnt-keep-these-things-in-your-bathroom-1850339383)
-- [Lifehacker] [The Most &lpar;and Least&rpar; Pet-Friendly Cities in the U.S.](https://lifehacker.com/the-most-and-least-pet-friendly-cities-in-the-u-s-1850339385)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Choose Between Laundry Detergent Liquid, Powder, or Sheets](https://lifehacker.com/how-to-choose-between-laundry-detergent-liquid-powder-1850339381)<!-- TECH-POSTS:END -->
 
 ---
 
