@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Evitando o desperdício de tempo: A importância de se concentrar em uma atividade por vez.](https://dev.to/demgoncalves/evitando-o-desperdicio-de-tempo-a-importancia-de-se-concentrar-em-uma-atividade-por-vez-1dnh)
+- [Dev.to/JS] [Kubernetes quick tutorial](https://dev.to/francescoxx/kubernetes-quick-tutorial-2el7)
+- [Dev.to/JS] [Cypress JavaScript Tutorial: A Step-by-Step Handbook For Beginners](https://dev.to/kailashpathak7/cypress-javascript-tutorial-a-step-by-step-handbook-for-beginners-2gja)
+- [Dev.to/JS] [Prettier: A Double-Edged Sword for Code Formatting 🎭](https://dev.to/nyxb/prettier-a-double-edged-sword-for-code-formatting-29o9)
+- [Dev.to/JS] [Cross-Platform App Development with Appwrite](https://dev.to/scofieldidehen/cross-platform-app-development-with-appwrite-8c)
+- [Lifehacker] [These Are the New Rules for Tipping, According to Lifehacker Readers](https://lifehacker.com/these-are-the-new-rules-for-tipping-according-to-lifeh-1850338162)
 - [Lifehacker] [Ten Red Flags That You’re Not Really Talking to the IRS](https://lifehacker.com/ten-red-flags-that-you-re-not-really-talking-to-the-irs-1850338065)
 - [Dev.to/JS] [Moonly weekly progress update #45 - First Staking Client](https://dev.to/moonly/moonly-weekly-progress-update-45-first-staking-client-560)
 - [Dev.to/JS] [Naming: Every Developer&#39;s Nightmare](https://dev.to/samuel-braun/naming-every-developers-nightmare-3ge8)
@@ -31,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Object #14](https://dev.to/samr/javascript-object-13-1ai9)
 - [Dev.to/JS] [El fin de useContext y useMemo?](https://dev.to/sebagonzale/el-fin-de-usecontext-y-usememo-3g47)
 - [Dev.to/JS] [How You Should Treat NPM Audit Results](https://dev.to/syncfusion/how-you-should-treat-npm-audit-results-2c5o)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Festa de Chocolate](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-festa-de-chocolate-2bdg)
-- [Dev.to/JS] [Use REST API endpoint over SDK for OpenAI](https://dev.to/sip/use-rest-api-endpoint-over-sdk-for-openai-fm3)
-- [Dev.to/JS] [Node.js – The Ultimate Guide for Beginners](https://dev.to/nikkilopez2/nodejs-the-ultimate-guide-for-beginners-6e6)
-- [Dev.to/JS] [Javascript Object #13](https://dev.to/samr/javascript-object-13-ad1)
-- [Dev.to/JS] [My Journey in Open Source - github-workflow-migrator](https://dev.to/cadienvan/my-journey-in-open-source-github-workflow-migrator-bp5)
 - [Lifehacker] [Why You Need to Double Check Your &#39;Safe Food&#39; Ingredients If You’re Allergic to Sesame](https://lifehacker.com/why-you-need-to-double-check-your-safe-food-ingredients-1850338194)
 - [Lifehacker] [Don&#39;t Forget to Put Nuts in Your Stews and Soup](https://lifehacker.com/dont-forget-to-put-nuts-in-your-stews-and-soup-1850338202)
 - [Lifehacker] [Hearing Aids Are For Your Health, Not Just Your Hearing](https://lifehacker.com/hearing-aids-are-for-your-health-not-just-your-hearing-1850337795)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get Paid up to $20,000 for Finding ChatGPT Security Flaws](https://lifehacker.com/get-paid-up-to-20-000-for-finding-chatgpt-security-fla-1850333616)
 - [Lifehacker] [Fortune Favors Those Who Add Cheese to Their Smoothies](https://lifehacker.com/fortune-favors-those-who-add-cheese-to-their-smoothies-1850329579)
 - [Lifehacker] [You Can Stop Hidden Windows Apps From Running on Boot Up](https://lifehacker.com/you-can-stop-hidden-windows-apps-from-running-on-boot-u-1850332775)
-- [Lifehacker] [Everything You Should Be Using Your Local Extension Office for &lpar;but Aren’t&rpar;](https://lifehacker.com/everything-you-should-be-using-your-local-extension-off-1850329094)
-- [Lifehacker] [Make Your Own Aperitif With Oranges and Crappy Wine](https://lifehacker.com/make-your-own-aperitif-with-oranges-and-shitty-wine-1850330111)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Everything You Should Be Using Your Local Extension Office for &lpar;but Aren’t&rpar;](https://lifehacker.com/everything-you-should-be-using-your-local-extension-off-1850329094)<!-- TECH-POSTS:END -->
 
 ---
 
