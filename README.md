@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Ten Red Flags That You’re Not Really Talking to the IRS](https://lifehacker.com/ten-red-flags-that-you-re-not-really-talking-to-the-irs-1850338065)
+- [Dev.to/JS] [Moonly weekly progress update #45 - First Staking Client](https://dev.to/moonly/moonly-weekly-progress-update-45-first-staking-client-560)
+- [Dev.to/JS] [Naming: Every Developer&#39;s Nightmare](https://dev.to/samuel-braun/naming-every-developers-nightmare-3ge8)
+- [Dev.to/JS] [Start building secure dApps with Archethic Wallet’s communication protocol](https://dev.to/margarita_manzanera/start-building-secure-dapps-with-archethic-wallets-communication-protocol-4pge)
+- [Dev.to/JS] [Supercharge your geolocalized DynamoDB Queries with Z-Order Indexing 🚀](https://dev.to/kumo/supercharge-your-geolocalized-dynamodb-queries-with-z-order-indexing-2oo8)
+- [Dev.to/JS] [Javascript Object #14](https://dev.to/samr/javascript-object-13-1ai9)
 - [Dev.to/JS] [El fin de useContext y useMemo?](https://dev.to/sebagonzale/el-fin-de-usecontext-y-usememo-3g47)
+- [Dev.to/JS] [How You Should Treat NPM Audit Results](https://dev.to/syncfusion/how-you-should-treat-npm-audit-results-2c5o)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Festa de Chocolate](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-festa-de-chocolate-2bdg)
 - [Dev.to/JS] [Use REST API endpoint over SDK for OpenAI](https://dev.to/sip/use-rest-api-endpoint-over-sdk-for-openai-fm3)
 - [Dev.to/JS] [Node.js – The Ultimate Guide for Beginners](https://dev.to/nikkilopez2/nodejs-the-ultimate-guide-for-beginners-6e6)
 - [Dev.to/JS] [Javascript Object #13](https://dev.to/samr/javascript-object-13-ad1)
 - [Dev.to/JS] [My Journey in Open Source - github-workflow-migrator](https://dev.to/cadienvan/my-journey-in-open-source-github-workflow-migrator-bp5)
-- [Dev.to/JS] [Synzen: Cursos de Python y JS asistido por IA](https://dev.to/rocioblasquez/synzen-cursos-de-python-y-js-asistido-por-ia-1cjp)
-- [Dev.to/JS] [How To Easily Perform Specflow Parallel Execution With NUnit](https://dev.to/kailashpathak7/how-to-easily-perform-specflow-parallel-execution-with-nunit-3m28)
-- [Dev.to/JS] [7 Game-Changing Websites To Find Remote Jobs For Developers 🔥](https://dev.to/rammcodes/7-game-changing-websites-to-find-remote-jobs-for-developers-4422)
-- [Dev.to/JS] [Learn JavaScript: Printing Your First Message](https://dev.to/fahimfba/learn-javascript-printing-your-first-message-2m04)
-- [Dev.to/JS] [Minko Gechev on Angular 16 &amp; 17 — game changer or loss of identity ?](https://dev.to/this-is-angular/minko-gechev-on-angular-16-17-game-changer-or-loss-of-identity--5lk)
-- [Dev.to/JS] [Create Dynamic URLs with URL Constructor in JavaScript](https://dev.to/olaleyeblessing/create-dynamic-urls-with-url-constructor-in-javascript-2o9l)
 - [Lifehacker] [Why You Need to Double Check Your &#39;Safe Food&#39; Ingredients If You’re Allergic to Sesame](https://lifehacker.com/why-you-need-to-double-check-your-safe-food-ingredients-1850338194)
 - [Lifehacker] [Don&#39;t Forget to Put Nuts in Your Stews and Soup](https://lifehacker.com/dont-forget-to-put-nuts-in-your-stews-and-soup-1850338202)
 - [Lifehacker] [Hearing Aids Are For Your Health, Not Just Your Hearing](https://lifehacker.com/hearing-aids-are-for-your-health-not-just-your-hearing-1850337795)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Fortune Favors Those Who Add Cheese to Their Smoothies](https://lifehacker.com/fortune-favors-those-who-add-cheese-to-their-smoothies-1850329579)
 - [Lifehacker] [You Can Stop Hidden Windows Apps From Running on Boot Up](https://lifehacker.com/you-can-stop-hidden-windows-apps-from-running-on-boot-u-1850332775)
 - [Lifehacker] [Everything You Should Be Using Your Local Extension Office for &lpar;but Aren’t&rpar;](https://lifehacker.com/everything-you-should-be-using-your-local-extension-off-1850329094)
-- [Lifehacker] [Make Your Own Aperitif With Oranges and Crappy Wine](https://lifehacker.com/make-your-own-aperitif-with-oranges-and-shitty-wine-1850330111)
-- [Lifehacker] [Whether to Turn on the A/C or Roll Down the Windows, According to Science](https://lifehacker.com/whether-to-turn-on-the-a-c-or-roll-down-the-windows-ac-1850334173)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Your Own Aperitif With Oranges and Crappy Wine](https://lifehacker.com/make-your-own-aperitif-with-oranges-and-shitty-wine-1850330111)<!-- TECH-POSTS:END -->
 
 ---
 
