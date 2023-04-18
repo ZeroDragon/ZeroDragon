@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [El fin de useContext y useMemo?](https://dev.to/sebagonzale/el-fin-de-usecontext-y-usememo-3g47)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Festa de Chocolate](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-festa-de-chocolate-2bdg)
+- [Dev.to/JS] [Use REST API endpoint over SDK for OpenAI](https://dev.to/sip/use-rest-api-endpoint-over-sdk-for-openai-fm3)
 - [Dev.to/JS] [Node.js – The Ultimate Guide for Beginners](https://dev.to/nikkilopez2/nodejs-the-ultimate-guide-for-beginners-6e6)
 - [Dev.to/JS] [Javascript Object #13](https://dev.to/samr/javascript-object-13-ad1)
 - [Dev.to/JS] [My Journey in Open Source - github-workflow-migrator](https://dev.to/cadienvan/my-journey-in-open-source-github-workflow-migrator-bp5)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn JavaScript: Printing Your First Message](https://dev.to/fahimfba/learn-javascript-printing-your-first-message-2m04)
 - [Dev.to/JS] [Minko Gechev on Angular 16 &amp; 17 — game changer or loss of identity ?](https://dev.to/this-is-angular/minko-gechev-on-angular-16-17-game-changer-or-loss-of-identity--5lk)
 - [Dev.to/JS] [Create Dynamic URLs with URL Constructor in JavaScript](https://dev.to/olaleyeblessing/create-dynamic-urls-with-url-constructor-in-javascript-2o9l)
-- [Dev.to/JS] [Tipos condicionais no TypeScript: exemplos práticos e uso avançado](https://dev.to/angellicaaraujo/tipos-condicionais-no-typescript-exemplos-praticos-e-uso-avancado-3d5f)
-- [Dev.to/JS] [React Native Socket.io](https://dev.to/ajmal_hasan/react-native-socketio-47c)
-- [Dev.to/JS] [How to compare two arrays in Javascript](https://dev.to/tizianocappai_/how-to-compare-two-arrays-in-javascript-1fe2)
 - [Lifehacker] [Why You Need to Double Check Your &#39;Safe Food&#39; Ingredients If You’re Allergic to Sesame](https://lifehacker.com/why-you-need-to-double-check-your-safe-food-ingredients-1850338194)
 - [Lifehacker] [Don&#39;t Forget to Put Nuts in Your Stews and Soup](https://lifehacker.com/dont-forget-to-put-nuts-in-your-stews-and-soup-1850338202)
 - [Lifehacker] [Hearing Aids Are For Your Health, Not Just Your Hearing](https://lifehacker.com/hearing-aids-are-for-your-health-not-just-your-hearing-1850337795)
