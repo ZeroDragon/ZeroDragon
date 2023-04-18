@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Migrating The Monolith - From Vue2 To Nuxt3](https://dev.to/camskithedev/migrating-the-monolith-from-vue2-to-nuxt3-1ikn)
+- [Dev.to/JS] [Three-Layer Architecture Used in Software Development](https://dev.to/sardarmudassaralikhan/three-layer-architecture-used-in-software-development-57ji)
+- [Dev.to/JS] [Introduction to testing](https://dev.to/tahazsh/introduction-to-testing-36im)
+- [Dev.to/JS] [What are different between Normal Copy and Shallow Copy, Deep Copy in JavaScript Object](https://dev.to/abdeldjalilhachimi/what-are-different-between-normal-copy-and-shallow-copy-deep-copy-in-javascript-object-1k45)
 - [Dev.to/JS] [Function js JavaScript advance principles](https://dev.to/ebakecode/function-js-javascript-advance-principles-1je0)
 - [Dev.to/JS] [Pure Component in React](https://dev.to/alakkadshaw/pure-component-in-react-e4m)
 - [Dev.to/JS] [Image validation for Angular](https://dev.to/olegmingaleev/image-validation-for-angular-8n9)
@@ -31,13 +35,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Polyfills in React Application: A Complete Guide](https://dev.to/shubhamdutta2000/polyfills-in-react-application-a-complete-guide-523l)
 - [Dev.to/JS] [Understanding useState and useEffect in React](https://dev.to/taahahussainkhan/understanding-usestate-and-useeffect-in-react-3448)
 - [Dev.to/JS] [Routing in React with React Router](https://dev.to/taahahussainkhan/routing-in-react-with-react-router-5g0m)
-- [Dev.to/JS] [Custom hooks in React](https://dev.to/rahul72925/custom-hooks-in-react-32dm)
-- [Dev.to/JS] [Efficiently Rendering Lists in React](https://dev.to/taahahussainkhan/efficiently-rendering-lists-in-react-ke4)
 - [Lifehacker] [Why You Need to Double Check Your &#39;Safe Food&#39; Ingredients If You’re Allergic to Sesame](https://lifehacker.com/why-you-need-to-double-check-your-safe-food-ingredients-1850338194)
-- [Dev.to/JS] [🔥 7 Free Resources to Ignite Your Coding Journey!](https://dev.to/jd2r/7-free-resources-to-ignite-your-coding-journey-31di)
 - [Lifehacker] [Don&#39;t Forget to Put Nuts in Your Stews and Soup](https://lifehacker.com/dont-forget-to-put-nuts-in-your-stews-and-soup-1850338202)
 - [Lifehacker] [Hearing Aids Are For Your Health, Not Just Your Hearing](https://lifehacker.com/hearing-aids-are-for-your-health-not-just-your-hearing-1850337795)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Apr 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-apr-2023-4ni9)
 - [Lifehacker] [Make These Renovations Before Retirement If You Plan to Stay in Your Home](https://lifehacker.com/make-these-renovations-before-retirement-if-you-plan-to-1850337333)
 - [Lifehacker] [When to Use Olive Oil to ‘Clean’ &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-use-olive-oil-to-clean-and-when-not-to-1850337919)
 - [Lifehacker] [This Tool Knows Whether You&#39;re Overpaying for Rent in NYC](https://lifehacker.com/this-tool-knows-whether-youre-overpaying-for-rent-in-ny-1850325047)
