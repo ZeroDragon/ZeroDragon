@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Medusa for Developers: A breakdown](https://dev.to/nobleokechi/medusa-for-developers-a-breakdown-2c40)
 - [Dev.to/JS] [patch-package: The Lifesaver for both Bleeding Edge and Legacy Projects](https://dev.to/andreasbergstrom/patch-package-the-essential-tool-for-managing-dependencies-in-both-modern-and-legacy-projects-4hnn)
 - [Dev.to/JS] [Love Mongodb ? Try Tigris db once.](https://dev.to/raviagheda/love-mongodb-try-tigris-db-once-52pn)
 - [Dev.to/JS] [Why am I doing #100DaysOfJS?](https://dev.to/thesanjeevsharma/why-am-i-doing-100daysofjs-99n)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Error Handling in Express.js/Node.js - Part One: Synchronous Code](https://dev.to/intangible_pg18/error-handling-in-expressjsnodejs-part-one-synchronous-code-56af)
 - [Dev.to/JS] [Migrating The Monolith - From Vue2 To Nuxt3](https://dev.to/camskithedev/migrating-the-monolith-from-vue2-to-nuxt3-1ikn)
 - [Dev.to/JS] [Three-Layer Architecture Used in Software Development](https://dev.to/sardarmudassaralikhan/three-layer-architecture-used-in-software-development-57ji)
-- [Dev.to/JS] [Introduction to testing](https://dev.to/tahazsh/introduction-to-testing-36im)
 - [Lifehacker] [Why You Need to Double Check Your &#39;Safe Food&#39; Ingredients If You’re Allergic to Sesame](https://lifehacker.com/why-you-need-to-double-check-your-safe-food-ingredients-1850338194)
 - [Lifehacker] [Don&#39;t Forget to Put Nuts in Your Stews and Soup](https://lifehacker.com/dont-forget-to-put-nuts-in-your-stews-and-soup-1850338202)
 - [Lifehacker] [Hearing Aids Are For Your Health, Not Just Your Hearing](https://lifehacker.com/hearing-aids-are-for-your-health-not-just-your-hearing-1850337795)
