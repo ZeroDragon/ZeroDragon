@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a True/False Toggle in React with useState Hook for Beginners](https://dev.to/michaellarocca/creating-a-truefalse-toggle-in-react-with-usestate-hook-for-beginners-aff)
+- [Lifehacker] [What&#39;s New on Hulu in May 2023](https://lifehacker.com/whats-new-on-hulu-in-may-2023-1850349866)
 - [Dev.to/JS] [Modern stack to build a real-time event-driven app](https://dev.to/bobur/modern-stack-to-build-a-real-time-event-driven-app-56i0)
 - [Dev.to/JS] [Node.js 20: What&#39;s New and Exciting Features in the Latest Release](https://dev.to/sureshramani/nodejs-20-whats-new-and-exciting-features-in-the-latest-release-2al6)
 - [Lifehacker] [Memorize These Cheap 4/20 Food Deals Before You&#39;re Too High](https://lifehacker.com/memorize-these-cheap-4-20-food-deals-before-youre-too-h-1850348698)
@@ -42,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Lost Wordle Today](https://lifehacker.com/why-you-lost-wordle-today-1850348061)
 - [Dev.to/JS] [11 Free Tools to Ignite Your Coding Journey](https://dev.to/jon_snow789/11-free-tools-to-ignite-your-coding-journey-4p4p)
 - [Dev.to/JS] [How to visualize timeline of a Wiki article?](https://dev.to/winkjs/how-to-visualize-timeline-of-a-wiki-article-39jm)
-- [Dev.to/JS] [Client-Side vs Server-Side Form Input Validation](https://dev.to/surveyjs/client-side-vs-server-side-form-input-validation-27lp)
 - [Crazy Programmer] [Barbara Liskov Biography](https://www.thecrazyprogrammer.com/2023/04/barbara-liskov-biography.html)
 - [Lifehacker] [The Best Low-Maintenance Plants for Your Garden](https://lifehacker.com/the-best-low-maintenance-plants-for-your-garden-1850344419)
 - [Lifehacker] [Where You Can Buy a Bargain Mansion](https://lifehacker.com/where-you-can-buy-a-bargain-mansion-1850344233)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Never Use Klarna to Buy Groceries](https://lifehacker.com/why-you-should-never-use-klarna-to-buy-groceries-1850336826)
 - [Lifehacker] [How to Train Your New Boss &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-train-your-new-boss-and-why-you-should-1850336703)
 - [Lifehacker] [Use AI to Supercharge Your Smartphone&#39;s Keyboard](https://lifehacker.com/use-ai-to-supercharge-your-smartphones-keyboard-1850337405)
-- [Lifehacker] [The Best Ways to Keep Squirrels Out of Your Potted Plants](https://lifehacker.com/the-best-ways-to-keep-squirrels-out-of-your-potted-plan-1850335743)
-- [Lifehacker] [You Can Make Gnudi With Cheap Grocery Store Ricotta](https://lifehacker.com/you-can-make-gnudi-with-cheap-grocery-store-ricotta-1850334379)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Keep Squirrels Out of Your Potted Plants](https://lifehacker.com/the-best-ways-to-keep-squirrels-out-of-your-potted-plan-1850335743)<!-- TECH-POSTS:END -->
 
 ---
 
