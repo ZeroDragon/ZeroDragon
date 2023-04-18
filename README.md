@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exporting a React component to a PDF file on click](https://dev.to/michaelburrows/exporting-a-react-component-to-a-pdf-file-on-click-2j68)
+- [Dev.to/JS] [Building a Better Platform: Contractr Progress Report](https://dev.to/arashjangali/building-a-better-platform-contractr-progress-report-72a)
+- [Dev.to/JS] [Error Handling in Express.js/Node.js - Part One: Synchronous Code](https://dev.to/intangible_pg18/error-handling-in-expressjsnodejs-part-one-synchronous-code-56af)
 - [Dev.to/JS] [Migrating The Monolith - From Vue2 To Nuxt3](https://dev.to/camskithedev/migrating-the-monolith-from-vue2-to-nuxt3-1ikn)
 - [Dev.to/JS] [Three-Layer Architecture Used in Software Development](https://dev.to/sardarmudassaralikhan/three-layer-architecture-used-in-software-development-57ji)
 - [Dev.to/JS] [Introduction to testing](https://dev.to/tahazsh/introduction-to-testing-36im)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Image validation for Angular](https://dev.to/olegmingaleev/image-validation-for-angular-8n9)
 - [Dev.to/JS] [Utilize o hook useMemo para otimizar o desempenho de cálculos caros em componentes funcionais no React.](https://dev.to/eliasgabriel1/utilize-o-hook-usememo-para-otimizar-o-desempenho-de-calculos-caros-em-componentes-funcionais-no-react-1lc0)
 - [Dev.to/JS] [How to use MapLibre GL JS with 3D Tiles &lpar;pnts&rpar;](https://dev.to/hfu/how-to-use-maplibre-gl-js-with-3d-tiles-pnts-g4h)
-- [Dev.to/JS] [Polyfills in React Application: A Complete Guide](https://dev.to/shubhamdutta2000/polyfills-in-react-application-a-complete-guide-523l)
-- [Dev.to/JS] [Understanding useState and useEffect in React](https://dev.to/taahahussainkhan/understanding-usestate-and-useeffect-in-react-3448)
-- [Dev.to/JS] [Routing in React with React Router](https://dev.to/taahahussainkhan/routing-in-react-with-react-router-5g0m)
 - [Lifehacker] [Why You Need to Double Check Your &#39;Safe Food&#39; Ingredients If You’re Allergic to Sesame](https://lifehacker.com/why-you-need-to-double-check-your-safe-food-ingredients-1850338194)
 - [Lifehacker] [Don&#39;t Forget to Put Nuts in Your Stews and Soup](https://lifehacker.com/dont-forget-to-put-nuts-in-your-stews-and-soup-1850338202)
 - [Lifehacker] [Hearing Aids Are For Your Health, Not Just Your Hearing](https://lifehacker.com/hearing-aids-are-for-your-health-not-just-your-hearing-1850337795)
