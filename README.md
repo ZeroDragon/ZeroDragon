@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [patch-package: The Lifesaver for both Bleeding Edge and Legacy Projects](https://dev.to/andreasbergstrom/patch-package-the-essential-tool-for-managing-dependencies-in-both-modern-and-legacy-projects-4hnn)
+- [Dev.to/JS] [Love Mongodb ? Try Tigris db once.](https://dev.to/raviagheda/love-mongodb-try-tigris-db-once-52pn)
+- [Dev.to/JS] [Why am I doing #100DaysOfJS?](https://dev.to/thesanjeevsharma/why-am-i-doing-100daysofjs-99n)
 - [Dev.to/JS] [Javascript Object #12](https://dev.to/samr/javascript-object-11-2fhj)
 - [Dev.to/JS] [Mastering Control Flow in JavaScript - The Beginners Guide To Javascript&lpar;Part 2&rpar;](https://dev.to/camskithedev/mastering-control-flow-in-javascript-the-beginners-guide-to-javascriptpart-2-3dpi)
 - [Dev.to/JS] [TypeError: map is not a function in JavaScript](https://dev.to/coder9/typeerror-map-is-not-a-function-in-javascript-540j)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Migrating The Monolith - From Vue2 To Nuxt3](https://dev.to/camskithedev/migrating-the-monolith-from-vue2-to-nuxt3-1ikn)
 - [Dev.to/JS] [Three-Layer Architecture Used in Software Development](https://dev.to/sardarmudassaralikhan/three-layer-architecture-used-in-software-development-57ji)
 - [Dev.to/JS] [Introduction to testing](https://dev.to/tahazsh/introduction-to-testing-36im)
-- [Dev.to/JS] [What are different between Normal Copy and Shallow Copy, Deep Copy in JavaScript Object](https://dev.to/abdeldjalilhachimi/what-are-different-between-normal-copy-and-shallow-copy-deep-copy-in-javascript-object-1k45)
-- [Dev.to/JS] [Function js JavaScript advance principles](https://dev.to/ebakecode/function-js-javascript-advance-principles-1je0)
-- [Dev.to/JS] [Pure Component in React](https://dev.to/alakkadshaw/pure-component-in-react-e4m)
 - [Lifehacker] [Why You Need to Double Check Your &#39;Safe Food&#39; Ingredients If You’re Allergic to Sesame](https://lifehacker.com/why-you-need-to-double-check-your-safe-food-ingredients-1850338194)
 - [Lifehacker] [Don&#39;t Forget to Put Nuts in Your Stews and Soup](https://lifehacker.com/dont-forget-to-put-nuts-in-your-stews-and-soup-1850338202)
 - [Lifehacker] [Hearing Aids Are For Your Health, Not Just Your Hearing](https://lifehacker.com/hearing-aids-are-for-your-health-not-just-your-hearing-1850337795)
