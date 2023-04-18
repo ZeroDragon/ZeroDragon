@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Modern stack to build a real-time event-driven app](https://dev.to/bobur/modern-stack-to-build-a-real-time-event-driven-app-56i0)
+- [Dev.to/JS] [Node.js 20: What&#39;s New and Exciting Features in the Latest Release](https://dev.to/sureshramani/nodejs-20-whats-new-and-exciting-features-in-the-latest-release-2al6)
+- [Lifehacker] [Memorize These Cheap 4/20 Food Deals Before You&#39;re Too High](https://lifehacker.com/memorize-these-cheap-4-20-food-deals-before-youre-too-h-1850348698)
+- [Dev.to/JS] [JavaScript Functions &amp; Scope - The Beginners Guide To Javascript&lpar;Part 4&rpar;](https://dev.to/camskithedev/javascript-functions-scope-the-beginners-guide-to-javascriptpart-4-189b)
 - [Lifehacker] [What&#39;s New on Disney+ in May 2023](https://lifehacker.com/whats-new-on-disney-in-may-2023-1850349256)
 - [Dev.to/JS] [Expose Child Component Methods to Parent Components with Vue 3 defineExpose](https://dev.to/caio2k/expose-child-component-methods-to-parent-components-with-vue-3-script-setup-defineexpose-4ghl)
 - [Lifehacker] [How to Tell If You’re Buying Nudes of a Real Person...or AI Porn](https://lifehacker.com/how-to-tell-if-you-re-buying-nudes-of-a-real-person-o-1850344588)
@@ -41,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Client-Side vs Server-Side Form Input Validation](https://dev.to/surveyjs/client-side-vs-server-side-form-input-validation-27lp)
 - [Crazy Programmer] [Barbara Liskov Biography](https://www.thecrazyprogrammer.com/2023/04/barbara-liskov-biography.html)
 - [Lifehacker] [The Best Low-Maintenance Plants for Your Garden](https://lifehacker.com/the-best-low-maintenance-plants-for-your-garden-1850344419)
-- [Dev.to/JS] [Building a production ready LLM application with BerriAI, PropelAuth, and Next.js](https://dev.to/propelauth/building-a-production-ready-llm-application-with-berriai-propelauth-and-nextjs-22an)
 - [Lifehacker] [Where You Can Buy a Bargain Mansion](https://lifehacker.com/where-you-can-buy-a-bargain-mansion-1850344233)
-- [Dev.to/JS] [Powerful alternative to useContext, useMemo and props in the same React JS.](https://dev.to/sebagonzale/powerful-alternative-to-usecontext-usememo-and-props-in-the-same-react-js-4ik5)
-- [Dev.to/JS] [Programación Basada en Slogans](https://dev.to/spersico/programacion-basada-en-slogans-6eb)
 - [Lifehacker] [Barbecue and Doughnuts Are Better Together](https://lifehacker.com/barbecue-and-doughnuts-are-better-together-1850339106)
 - [Lifehacker] [This ATM Scam Is Masquerading As an Act of Kindness](https://lifehacker.com/this-atm-scam-is-masquerading-as-an-act-of-kindness-1850338599)
 - [Lifehacker] [Why You Should Never Sell Your Old Phone Before Setting Up Your New One](https://lifehacker.com/why-you-should-never-sell-your-old-phone-before-setting-1850338691)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Train Your New Boss &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-train-your-new-boss-and-why-you-should-1850336703)
 - [Lifehacker] [Use AI to Supercharge Your Smartphone&#39;s Keyboard](https://lifehacker.com/use-ai-to-supercharge-your-smartphones-keyboard-1850337405)
 - [Lifehacker] [The Best Ways to Keep Squirrels Out of Your Potted Plants](https://lifehacker.com/the-best-ways-to-keep-squirrels-out-of-your-potted-plan-1850335743)
-- [Lifehacker] [You Can Make Gnudi With Cheap Grocery Store Ricotta](https://lifehacker.com/you-can-make-gnudi-with-cheap-grocery-store-ricotta-1850334379)
-- [Lifehacker] [How to Clean Suede Furniture Without Ruining It](https://lifehacker.com/how-to-clean-suede-furniture-without-ruining-it-1850340331)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Make Gnudi With Cheap Grocery Store Ricotta](https://lifehacker.com/you-can-make-gnudi-with-cheap-grocery-store-ricotta-1850334379)<!-- TECH-POSTS:END -->
 
 ---
 
