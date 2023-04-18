@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Journey in Open Source - github-workflow-migrator](https://dev.to/cadienvan/my-journey-in-open-source-github-workflow-migrator-bp5)
+- [Dev.to/JS] [Synzen: Cursos de Python y JS asistido por IA](https://dev.to/rocioblasquez/synzen-cursos-de-python-y-js-asistido-por-ia-1cjp)
+- [Dev.to/JS] [How To Easily Perform Specflow Parallel Execution With NUnit](https://dev.to/kailashpathak7/how-to-easily-perform-specflow-parallel-execution-with-nunit-3m28)
+- [Dev.to/JS] [7 Game-Changing Websites To Find Remote Jobs For Developers 🔥](https://dev.to/rammcodes/7-game-changing-websites-to-find-remote-jobs-for-developers-4422)
 - [Dev.to/JS] [Learn JavaScript: Printing Your First Message](https://dev.to/fahimfba/learn-javascript-printing-your-first-message-2m04)
 - [Dev.to/JS] [Minko Gechev on Angular 16 &amp; 17 — game changer or loss of identity ?](https://dev.to/this-is-angular/minko-gechev-on-angular-16-17-game-changer-or-loss-of-identity--5lk)
 - [Dev.to/JS] [Create Dynamic URLs with URL Constructor in JavaScript](https://dev.to/olaleyeblessing/create-dynamic-urls-with-url-constructor-in-javascript-2o9l)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to compare two arrays in Javascript](https://dev.to/tizianocappai_/how-to-compare-two-arrays-in-javascript-1fe2)
 - [Dev.to/JS] [Making a Speedrun Timer: Chapter 4](https://dev.to/kevthedev/making-a-speedrun-timer-chapter-4-3fi6)
 - [Dev.to/JS] [How to protect routes for different user roles with restricted access?](https://dev.to/bladearya/how-to-set-up-protected-how-to-protect-routes-for-different-user-roles-with-restricted-access-59j5)
-- [Dev.to/JS] [Kind comments😉](https://dev.to/aoppman/kind-comments-5em8)
-- [Dev.to/JS] [Deploy Your Next.js App Like a Pro: A Step-by-Step Guide using Nginx, PM2, Certbot, and Git on your Linux Server](https://dev.to/j3rry320/deploy-your-nextjs-app-like-a-pro-a-step-by-step-guide-using-nginx-pm2-certbot-and-git-on-your-linux-server-3286)
-- [Dev.to/JS] [Medusa for Developers: A breakdown](https://dev.to/nobleokechi/medusa-for-developers-a-breakdown-2c40)
-- [Dev.to/JS] [patch-package: The Lifesaver for both Bleeding Edge and Legacy Projects](https://dev.to/andreasbergstrom/patch-package-the-essential-tool-for-managing-dependencies-in-both-modern-and-legacy-projects-4hnn)
 - [Lifehacker] [Why You Need to Double Check Your &#39;Safe Food&#39; Ingredients If You’re Allergic to Sesame](https://lifehacker.com/why-you-need-to-double-check-your-safe-food-ingredients-1850338194)
 - [Lifehacker] [Don&#39;t Forget to Put Nuts in Your Stews and Soup](https://lifehacker.com/dont-forget-to-put-nuts-in-your-stews-and-soup-1850338202)
 - [Lifehacker] [Hearing Aids Are For Your Health, Not Just Your Hearing](https://lifehacker.com/hearing-aids-are-for-your-health-not-just-your-hearing-1850337795)
