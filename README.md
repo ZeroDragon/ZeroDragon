@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Facebook Probably Owes You Money](https://lifehacker.com/facebook-probably-owes-you-money-1850350640)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Vagas na linha de Serviço](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-vagas-na-linha-de-servico-5e7l)
+- [Lifehacker] [Gamestop Is Having a Buy-One-Get-One Sale for These Popular Games](https://lifehacker.com/gamestop-is-having-a-buy-one-get-one-sale-for-these-pop-1850349375)
+- [Dev.to/JS] [45 ways to break an API server &lpar;negative tests with examples&rpar;](https://dev.to/zvone187/45-ways-to-break-an-api-server-negative-tests-with-examples-4ok3)
+- [Dev.to/JS] [Understanding CSS Min&lpar;&rpar;, Max&lpar;&rpar;, and Clamp&lpar;&rpar; Functions](https://dev.to/scofieldidehen/understanding-css-min-max-and-clamp-functions-gli)
 - [Dev.to/JS] [Building a Browser-Based Synthesizer Using Rust and WebAssembly](https://dev.to/speratus/building-a-browser-based-synthesizer-using-rust-and-webassembly-3kpl)
 - [Lifehacker] [Regal’s ‘Surround-Screen’ Movies Are Just $3 a Ticket Right Now](https://lifehacker.com/regal-s-surround-screen-movies-are-just-3-a-ticket-r-1850345171)
 - [Dev.to/JS] [A JavaScript Odyssey &lpar;GameDev Online Book&rpar;](https://dev.to/hugeen/a-javascript-odyssey-4m00)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Investing in Developer Experience Could Be The Best Growth Hack for Your Business](https://dev.to/vue-storefront/investing-in-developer-experience-could-be-the-best-growth-hack-for-your-business-fnn)
 - [Dev.to/JS] [TypeScript Type Negation: How to Forbid Certain Properties](https://dev.to/zirkelc/typescript-type-negation-how-to-forbid-certain-properties-42d9)
 - [Dev.to/JS] [How to create a real-time classroom chat in Next.js with Appwrite and Pink Design](https://dev.to/hackmamba/how-to-create-a-real-time-classroom-chat-in-nextjs-with-appwrite-and-pink-design-161l)
-- [Dev.to/JS] [Teams Toolkit Cloud Skills Challenge - build apps for Microsoft Teams!](https://dev.to/microsoft365/teams-toolkit-cloud-skills-challenge-build-apps-for-microsoft-teams-3378)
-- [Dev.to/JS] [Extending Medusa Example: Build an Open Source Marketplace](https://dev.to/medusajs/extending-medusa-example-build-an-open-source-marketplace-18km)
-- [Dev.to/JS] [How AI is Revolutionizing the Way We Replace Faces](https://dev.to/rkeyesicons/how-ai-is-revolutionizing-the-way-we-replace-faces-34e6)
 - [Lifehacker] [What&#39;s New on Hulu in May 2023](https://lifehacker.com/whats-new-on-hulu-in-may-2023-1850349866)
 - [Lifehacker] [Memorize These Cheap 4/20 Food Deals Before You&#39;re Too High](https://lifehacker.com/memorize-these-cheap-4-20-food-deals-before-youre-too-h-1850348698)
 - [Lifehacker] [What&#39;s New on Disney+ in May 2023](https://lifehacker.com/whats-new-on-disney-in-may-2023-1850349256)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to Use Olive Oil to ‘Clean’ &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-use-olive-oil-to-clean-and-when-not-to-1850337919)
 - [Lifehacker] [This Tool Knows Whether You&#39;re Overpaying for Rent in NYC](https://lifehacker.com/this-tool-knows-whether-youre-overpaying-for-rent-in-ny-1850325047)
 - [Lifehacker] [Cheap and Easy Ways to Keep Water Away From Your Foundation](https://lifehacker.com/cheap-and-easy-ways-to-keep-water-away-from-your-founda-1850342754)
-- [Lifehacker] [Why You Should Never Use Klarna to Buy Groceries](https://lifehacker.com/why-you-should-never-use-klarna-to-buy-groceries-1850336826)
-- [Lifehacker] [How to Train Your New Boss &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-train-your-new-boss-and-why-you-should-1850336703)
-- [Lifehacker] [Use AI to Supercharge Your Smartphone&#39;s Keyboard](https://lifehacker.com/use-ai-to-supercharge-your-smartphones-keyboard-1850337405)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Never Use Klarna to Buy Groceries](https://lifehacker.com/why-you-should-never-use-klarna-to-buy-groceries-1850336826)<!-- TECH-POSTS:END -->
 
 ---
 
