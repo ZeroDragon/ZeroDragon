@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Best JavaScript Tutorials for Beginners](https://dev.to/sugandha120/7-best-javascript-tutorials-for-beginners-129d)
+- [Dev.to/JS] [SSL Wrapper on existing HTTP server](https://dev.to/raaghu/ssl-wrapper-on-existing-http-server-4ke3)
 - [Dev.to/JS] [Use NestJS, MongoDB and Docker to Create an URL Shortener](https://dev.to/paulknulst/use-nestjs-mongodb-and-docker-to-create-an-url-shortener-226h)
 - [Dev.to/JS] [Weekly web development resources #145](https://dev.to/vincenius/weekly-web-development-resources-145-5dnp)
 - [Dev.to/JS] [React Query vs useSWR](https://dev.to/sakethkowtha/react-query-vs-useswr-122b)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Memorize These Cheap 4/20 Food Deals Before You&#39;re Too High](https://lifehacker.com/memorize-these-cheap-4-20-food-deals-before-youre-too-h-1850348698)
 - [Dev.to/JS] [JavaScript Functions &amp; Scope - The Beginners Guide To Javascript&lpar;Part 4&rpar;](https://dev.to/camskithedev/javascript-functions-scope-the-beginners-guide-to-javascriptpart-4-189b)
 - [Lifehacker] [What&#39;s New on Disney+ in May 2023](https://lifehacker.com/whats-new-on-disney-in-may-2023-1850349256)
-- [Dev.to/JS] [Expose Child Component Methods to Parent Components with Vue 3 defineExpose](https://dev.to/caio2k/expose-child-component-methods-to-parent-components-with-vue-3-script-setup-defineexpose-4ghl)
 - [Lifehacker] [How to Tell If You’re Buying Nudes of a Real Person...or AI Porn](https://lifehacker.com/how-to-tell-if-you-re-buying-nudes-of-a-real-person-o-1850344588)
-- [Dev.to/JS] [How to use SVGs in React Native.](https://dev.to/gautham495/how-to-use-svgs-in-react-native-37n9)
 - [Lifehacker] [These Homemade Syrups Are Better Than the Stuff You See on TikTok](https://lifehacker.com/these-homemade-syrups-are-better-than-the-stuff-you-see-1850339690)
 - [Lifehacker] [Delete These Malware Apps From Your Android Device ASAP](https://lifehacker.com/delete-these-malware-apps-from-your-android-device-asap-1850348143)
 - [Lifehacker] [You Can Try Auto-GPT, the Next Generation of ChatGPT, Right Now](https://lifehacker.com/you-can-try-auto-gpt-the-next-generation-of-chatgpt-r-1850343691)
