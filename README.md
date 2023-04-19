@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Run Windows 11 on Your Apple Silicon Mac for Free](https://lifehacker.com/you-can-run-windows-11-on-your-apple-silicon-mac-for-fr-1850347186)
+- [Dev.to/JS] [JavaScript Objects - The Beginners Guide To Javascript&lpar;Part 5&rpar;](https://dev.to/camskithedev/javascript-objects-the-beginners-guide-to-javascriptpart-5-1c1i)
+- [Dev.to/JS] [Getting Started with Pipes in Angular: A Beginner&#39;s Guide](https://dev.to/ayushdev_24/getting-started-with-pipes-in-angular-a-beginners-guide-p63)
+- [Dev.to/JS] [🍂Simplify the back end with low code solutions: Amplication, Supabase, and Appwirte overview](https://dev.to/hunghvu/simplify-the-back-end-with-low-code-solutions-amplication-supabase-and-appwirte-overview-4ia7)
+- [Lifehacker] [What to Know About Investing in ChatGPT, According to ChatGPT](https://lifehacker.com/what-to-know-about-investing-in-chatgpt-according-to-c-1850344557)
+- [Dev.to/JS] [Updating Monaco broke Fastly Fiddle: here&#39;s how I solved it with useCallback in React](https://dev.to/fastly/updating-monaco-broke-fastly-fiddle-heres-how-i-solved-it-with-usecallback-in-react-2j92)
 - [Lifehacker] [Where to Get Gardening and Landscaping Materials for Free or Cheap](https://lifehacker.com/where-to-get-gardening-and-landscaping-materials-for-fr-1850346771)
 - [Lifehacker] [These Weather Apps Actually Care About Your Privacy](https://lifehacker.com/these-weather-apps-actually-care-about-your-privacy-1850342974)
 - [Lifehacker] [Make Homemade Bialys With Packaged Pizza Dough](https://lifehacker.com/make-homemade-bialys-with-packaged-pizza-dough-1850349658)
@@ -37,10 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A JavaScript Odyssey &lpar;GameDev Online Book&rpar;](https://dev.to/hugeen/a-javascript-odyssey-4m00)
 - [Dev.to/JS] [Create a Shopping Cart with Vuejs and Pinia](https://dev.to/andrewzach/create-a-shopping-cart-with-vuejs-and-pinia-1ooc)
 - [Dev.to/JS] [Object VS Data Structure : The Fight !](https://dev.to/codeoz/object-vs-data-structure-the-fight--k0h)
-- [Dev.to/JS] [Top 5 Best Javascript Icons Libraries 🔥](https://dev.to/rammcodes/top-5-best-javascript-icons-libraries-6c7)
-- [Dev.to/JS] [5 Code Refactoring Techniques to Improve Your Code](https://dev.to/documatic/5-code-refactoring-techniques-to-improve-your-code-2lia)
-- [Dev.to/JS] [Investing in Developer Experience Could Be The Best Growth Hack for Your Business](https://dev.to/vue-storefront/investing-in-developer-experience-could-be-the-best-growth-hack-for-your-business-fnn)
-- [Dev.to/JS] [TypeScript Type Negation: How to Forbid Certain Properties](https://dev.to/zirkelc/typescript-type-negation-how-to-forbid-certain-properties-42d9)
 - [Lifehacker] [What&#39;s New on Hulu in May 2023](https://lifehacker.com/whats-new-on-hulu-in-may-2023-1850349866)
 - [Lifehacker] [Memorize These Cheap 4/20 Food Deals Before You&#39;re Too High](https://lifehacker.com/memorize-these-cheap-4-20-food-deals-before-youre-too-h-1850348698)
 - [Lifehacker] [What&#39;s New on Disney+ in May 2023](https://lifehacker.com/whats-new-on-disney-in-may-2023-1850349256)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ten Red Flags That You’re Not Really Talking to the IRS](https://lifehacker.com/ten-red-flags-that-you-re-not-really-talking-to-the-irs-1850338065)
 - [Lifehacker] [Why You Need to Double Check Your &#39;Safe Food&#39; Ingredients If You’re Allergic to Sesame](https://lifehacker.com/why-you-need-to-double-check-your-safe-food-ingredients-1850338194)
 - [Lifehacker] [Don&#39;t Forget to Put Nuts in Your Stews and Soup](https://lifehacker.com/dont-forget-to-put-nuts-in-your-stews-and-soup-1850338202)
-- [Lifehacker] [Hearing Aids Are For Your Health, Not Just Your Hearing](https://lifehacker.com/hearing-aids-are-for-your-health-not-just-your-hearing-1850337795)
-- [Lifehacker] [Make These Renovations Before Retirement If You Plan to Stay in Your Home](https://lifehacker.com/make-these-renovations-before-retirement-if-you-plan-to-1850337333)
-- [Lifehacker] [When to Use Olive Oil to ‘Clean’ &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-use-olive-oil-to-clean-and-when-not-to-1850337919)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Hearing Aids Are For Your Health, Not Just Your Hearing](https://lifehacker.com/hearing-aids-are-for-your-health-not-just-your-hearing-1850337795)<!-- TECH-POSTS:END -->
 
 ---
 
