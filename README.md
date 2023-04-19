@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering JavaScript: Unraveling the Art of Effective Commenting for Better Code Collaboration](https://dev.to/fahimfba/mastering-javascript-unraveling-the-art-of-effective-commenting-for-better-code-collaboration-46b)
+- [Dev.to/JS] [How to create a random quotes generator api in NodeJS](https://dev.to/armanidrisi/how-to-create-a-random-quotes-generator-api-in-nodejs-1pjn)
+- [Dev.to/JS] [Make a Dream Todo app with Novu, React and Express! ✅](https://dev.to/novu/make-a-dream-todo-app-with-novu-react-and-express-2p9l)
 - [Dev.to/JS] [7 Best JavaScript Tutorials for Beginners](https://dev.to/sugandha120/7-best-javascript-tutorials-for-beginners-129d)
 - [Dev.to/JS] [SSL Wrapper on existing HTTP server](https://dev.to/raaghu/ssl-wrapper-on-existing-http-server-4ke3)
 - [Dev.to/JS] [Use NestJS, MongoDB and Docker to Create an URL Shortener](https://dev.to/paulknulst/use-nestjs-mongodb-and-docker-to-create-an-url-shortener-226h)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Updates on the Contractr Project: Tackling Challenges with the Chat Function and Making Progress on the Matching Feature](https://dev.to/arashjangali/updates-on-the-contractr-project-tackling-challenges-with-the-chat-function-and-making-progress-on-the-matching-feature-ce7)
 - [Dev.to/JS] [Creating a True/False Toggle in React with useState Hook for Beginners](https://dev.to/michaellarocca/creating-a-truefalse-toggle-in-react-with-usestate-hook-for-beginners-aff)
 - [Lifehacker] [What&#39;s New on Hulu in May 2023](https://lifehacker.com/whats-new-on-hulu-in-may-2023-1850349866)
-- [Dev.to/JS] [Modern stack to build a real-time event-driven app](https://dev.to/bobur/modern-stack-to-build-a-real-time-event-driven-app-56i0)
-- [Dev.to/JS] [Node.js 20: What&#39;s New and Exciting Features in the Latest Release](https://dev.to/sureshramani/nodejs-20-whats-new-and-exciting-features-in-the-latest-release-2al6)
 - [Lifehacker] [Memorize These Cheap 4/20 Food Deals Before You&#39;re Too High](https://lifehacker.com/memorize-these-cheap-4-20-food-deals-before-youre-too-h-1850348698)
-- [Dev.to/JS] [JavaScript Functions &amp; Scope - The Beginners Guide To Javascript&lpar;Part 4&rpar;](https://dev.to/camskithedev/javascript-functions-scope-the-beginners-guide-to-javascriptpart-4-189b)
 - [Lifehacker] [What&#39;s New on Disney+ in May 2023](https://lifehacker.com/whats-new-on-disney-in-may-2023-1850349256)
 - [Lifehacker] [How to Tell If You’re Buying Nudes of a Real Person...or AI Porn](https://lifehacker.com/how-to-tell-if-you-re-buying-nudes-of-a-real-person-o-1850344588)
 - [Lifehacker] [These Homemade Syrups Are Better Than the Stuff You See on TikTok](https://lifehacker.com/these-homemade-syrups-are-better-than-the-stuff-you-see-1850339690)
