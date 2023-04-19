@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to Web Animations with GSAP](https://dev.to/topboyasante/introduction-to-web-animations-with-gsap-645)
+- [Dev.to/JS] [Mobile app development company in india](https://dev.to/sophieh59544922/mobile-app-development-company-in-india-3lee)
+- [Lifehacker] [Netflix Is Officially Ending Free Password Sharing &lpar;Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
 - [Lifehacker] [You Can Finally Add Multiple Links to Your Instagram Bio](https://lifehacker.com/you-can-finally-add-multiple-links-to-your-instagram-bi-1850353334)
 - [Lifehacker] [Why Your Tax Refund Wasn’t As Big This Year](https://lifehacker.com/why-your-tax-refund-wasn-t-as-big-this-year-1850350485)
 - [Dev.to/JS] [Utilize o hook useDebugValue para adicionar rótulos personalizados a valores no React DevTools](https://dev.to/eliasgabriel1/utilize-o-hook-usedebugvalue-para-adicionar-rotulos-personalizados-a-valores-no-react-devtools-19j)
@@ -42,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Run Windows 11 on Your Apple Silicon Mac for Free](https://lifehacker.com/you-can-run-windows-11-on-your-apple-silicon-mac-for-fr-1850347186)
 - [Dev.to/JS] [polyfill: Array.Map&lpar;&rpar;](https://dev.to/naveen1995113/polyfill-arraymap-4bd2)
 - [Dev.to/JS] [JavaScript Objects - The Beginners Guide To Javascript&lpar;Part 5&rpar;](https://dev.to/camskithedev/javascript-objects-the-beginners-guide-to-javascriptpart-5-1c1i)
-- [Dev.to/JS] [Getting Started with Pipes in Angular: A Beginner&#39;s Guide](https://dev.to/ayushdev_24/getting-started-with-pipes-in-angular-a-beginners-guide-p63)
-- [Dev.to/JS] [🍂Simplify the back end with low code solutions: Amplication, Supabase, and Appwirte overview](https://dev.to/hunghvu/simplify-the-back-end-with-low-code-solutions-amplication-supabase-and-appwirte-overview-4ia7)
 - [Lifehacker] [What to Know About Investing in ChatGPT, According to ChatGPT](https://lifehacker.com/what-to-know-about-investing-in-chatgpt-according-to-c-1850344557)
 - [Lifehacker] [Where to Get Gardening and Landscaping Materials for Free or Cheap](https://lifehacker.com/where-to-get-gardening-and-landscaping-materials-for-fr-1850346771)
 - [Lifehacker] [These Weather Apps Actually Care About Your Privacy](https://lifehacker.com/these-weather-apps-actually-care-about-your-privacy-1850342974)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [42 Highbrow Movies to Watch When You&#39;re Totally High](https://lifehacker.com/42-highbrow-films-to-watch-when-youre-totally-high-1848796343)
 - [Lifehacker] [Why You Lost Wordle Today](https://lifehacker.com/why-you-lost-wordle-today-1850348061)
 - [Crazy Programmer] [Barbara Liskov Biography](https://www.thecrazyprogrammer.com/2023/04/barbara-liskov-biography.html)
-- [Lifehacker] [The Best Low-Maintenance Plants for Your Garden](https://lifehacker.com/the-best-low-maintenance-plants-for-your-garden-1850344419)
-- [Lifehacker] [Where You Can Buy a Bargain Mansion](https://lifehacker.com/where-you-can-buy-a-bargain-mansion-1850344233)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Low-Maintenance Plants for Your Garden](https://lifehacker.com/the-best-low-maintenance-plants-for-your-garden-1850344419)<!-- TECH-POSTS:END -->
 
 ---
 
