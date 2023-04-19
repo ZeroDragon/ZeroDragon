@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Server Side Rendering a Blog with Web Components](https://dev.to/steveblue/server-side-rendering-a-blog-with-web-components-3ije)
 - [Dev.to/JS] [Services em Angular](https://dev.to/caiohrff/services-em-angular-4k3d)
 - [Dev.to/JS] [Updates on the Contractr Project: Tackling Challenges with the Chat Function and Making Progress on the Matching Feature](https://dev.to/arashjangali/updates-on-the-contractr-project-tackling-challenges-with-the-chat-function-and-making-progress-on-the-matching-feature-ce7)
 - [Dev.to/JS] [Creating a True/False Toggle in React with useState Hook for Beginners](https://dev.to/michaellarocca/creating-a-truefalse-toggle-in-react-with-usestate-hook-for-beginners-aff)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Try Auto-GPT, the Next Generation of ChatGPT, Right Now](https://lifehacker.com/you-can-try-auto-gpt-the-next-generation-of-chatgpt-r-1850343691)
 - [Dev.to/JS] [&quot;Undefined&quot; in javascript: Amazing Cases.](https://dev.to/sachink07/undefined-in-javascript-amazing-cases-4gk9)
 - [Lifehacker] [42 Highbrow Movies to Watch When You&#39;re Totally High](https://lifehacker.com/42-highbrow-films-to-watch-when-youre-totally-high-1848796343)
-- [Dev.to/JS] [Javascript Arrays - The Beginners Guide To Javascript&lpar;Part 3&rpar;](https://dev.to/camskithedev/javascript-arrays-the-beginners-guide-to-javascriptpart-3-5b68)
 - [Lifehacker] [Why You Lost Wordle Today](https://lifehacker.com/why-you-lost-wordle-today-1850348061)
 - [Crazy Programmer] [Barbara Liskov Biography](https://www.thecrazyprogrammer.com/2023/04/barbara-liskov-biography.html)
 - [Lifehacker] [The Best Low-Maintenance Plants for Your Garden](https://lifehacker.com/the-best-low-maintenance-plants-for-your-garden-1850344419)
