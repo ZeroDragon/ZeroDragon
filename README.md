@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Where to Get Gardening and Landscaping Materials for Free or Cheap](https://lifehacker.com/where-to-get-gardening-and-landscaping-materials-for-fr-1850346771)
+- [Lifehacker] [These Weather Apps Actually Care About Your Privacy](https://lifehacker.com/these-weather-apps-actually-care-about-your-privacy-1850342974)
+- [Lifehacker] [Make Homemade Bialys With Packaged Pizza Dough](https://lifehacker.com/make-homemade-bialys-with-packaged-pizza-dough-1850349658)
+- [Dev.to/JS] [Web Scraping + GPT for Data Validation - Credit Cards](https://dev.to/aacitelli/web-scraping-gpt-for-data-validation-credit-cards-1f2k)
 - [Lifehacker] [Facebook Probably Owes You Money](https://lifehacker.com/facebook-probably-owes-you-money-1850350640)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Vagas na linha de Serviço](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-vagas-na-linha-de-servico-5e7l)
 - [Lifehacker] [Gamestop Is Having a Buy-One-Get-One Sale for These Popular Games](https://lifehacker.com/gamestop-is-having-a-buy-one-get-one-sale-for-these-pop-1850349375)
@@ -37,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Code Refactoring Techniques to Improve Your Code](https://dev.to/documatic/5-code-refactoring-techniques-to-improve-your-code-2lia)
 - [Dev.to/JS] [Investing in Developer Experience Could Be The Best Growth Hack for Your Business](https://dev.to/vue-storefront/investing-in-developer-experience-could-be-the-best-growth-hack-for-your-business-fnn)
 - [Dev.to/JS] [TypeScript Type Negation: How to Forbid Certain Properties](https://dev.to/zirkelc/typescript-type-negation-how-to-forbid-certain-properties-42d9)
-- [Dev.to/JS] [How to create a real-time classroom chat in Next.js with Appwrite and Pink Design](https://dev.to/hackmamba/how-to-create-a-real-time-classroom-chat-in-nextjs-with-appwrite-and-pink-design-161l)
 - [Lifehacker] [What&#39;s New on Hulu in May 2023](https://lifehacker.com/whats-new-on-hulu-in-may-2023-1850349866)
 - [Lifehacker] [Memorize These Cheap 4/20 Food Deals Before You&#39;re Too High](https://lifehacker.com/memorize-these-cheap-4-20-food-deals-before-youre-too-h-1850348698)
 - [Lifehacker] [What&#39;s New on Disney+ in May 2023](https://lifehacker.com/whats-new-on-disney-in-may-2023-1850349256)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Forget to Put Nuts in Your Stews and Soup](https://lifehacker.com/dont-forget-to-put-nuts-in-your-stews-and-soup-1850338202)
 - [Lifehacker] [Hearing Aids Are For Your Health, Not Just Your Hearing](https://lifehacker.com/hearing-aids-are-for-your-health-not-just-your-hearing-1850337795)
 - [Lifehacker] [Make These Renovations Before Retirement If You Plan to Stay in Your Home](https://lifehacker.com/make-these-renovations-before-retirement-if-you-plan-to-1850337333)
-- [Lifehacker] [When to Use Olive Oil to ‘Clean’ &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-use-olive-oil-to-clean-and-when-not-to-1850337919)
-- [Lifehacker] [This Tool Knows Whether You&#39;re Overpaying for Rent in NYC](https://lifehacker.com/this-tool-knows-whether-youre-overpaying-for-rent-in-ny-1850325047)
-- [Lifehacker] [Cheap and Easy Ways to Keep Water Away From Your Foundation](https://lifehacker.com/cheap-and-easy-ways-to-keep-water-away-from-your-founda-1850342754)
-- [Lifehacker] [Why You Should Never Use Klarna to Buy Groceries](https://lifehacker.com/why-you-should-never-use-klarna-to-buy-groceries-1850336826)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When to Use Olive Oil to ‘Clean’ &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-use-olive-oil-to-clean-and-when-not-to-1850337919)<!-- TECH-POSTS:END -->
 
 ---
 
