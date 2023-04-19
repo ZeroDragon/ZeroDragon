@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Finally Add Multiple Links to Your Instagram Bio](https://lifehacker.com/you-can-finally-add-multiple-links-to-your-instagram-bi-1850353334)
+- [Lifehacker] [Why Your Tax Refund Wasn’t As Big This Year](https://lifehacker.com/why-your-tax-refund-wasn-t-as-big-this-year-1850350485)
 - [Dev.to/JS] [Utilize o hook useDebugValue para adicionar rótulos personalizados a valores no React DevTools](https://dev.to/eliasgabriel1/utilize-o-hook-usedebugvalue-para-adicionar-rotulos-personalizados-a-valores-no-react-devtools-19j)
 - [Dev.to/JS] [ReactJS Best Practices: Tips and Tricks for Writing Better Code](https://dev.to/beginarjun/reactjs-best-practices-tips-and-tricks-for-writing-better-code-aaf)
 - [Lifehacker] [You Can Experience ‘Pluto Time’ Twice a Day on Earth](https://lifehacker.com/you-can-experience-pluto-time-twice-a-day-on-earth-1850349379)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Lost Wordle Today](https://lifehacker.com/why-you-lost-wordle-today-1850348061)
 - [Crazy Programmer] [Barbara Liskov Biography](https://www.thecrazyprogrammer.com/2023/04/barbara-liskov-biography.html)
 - [Lifehacker] [The Best Low-Maintenance Plants for Your Garden](https://lifehacker.com/the-best-low-maintenance-plants-for-your-garden-1850344419)
-- [Lifehacker] [Where You Can Buy a Bargain Mansion](https://lifehacker.com/where-you-can-buy-a-bargain-mansion-1850344233)
-- [Lifehacker] [Barbecue and Doughnuts Are Better Together](https://lifehacker.com/barbecue-and-doughnuts-are-better-together-1850339106)
-- [Lifehacker] [This ATM Scam Is Masquerading As an Act of Kindness](https://lifehacker.com/this-atm-scam-is-masquerading-as-an-act-of-kindness-1850338599)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where You Can Buy a Bargain Mansion](https://lifehacker.com/where-you-can-buy-a-bargain-mansion-1850344233)<!-- TECH-POSTS:END -->
 
 ---
 
