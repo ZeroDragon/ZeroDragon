@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to set up routing in Angular to create single-page applications](https://dev.to/codev206/how-to-set-up-routing-in-angular-to-create-single-page-applications-4ch2)
+- [Dev.to/JS] [Making Four-In-A-Row - Part 3: Making Moves](https://dev.to/colinkiama/making-four-in-a-row-part-3-making-moves-22m)
+- [Dev.to/JS] [Making Four-In-A-Row - Part 2: Beginning](https://dev.to/colinkiama/making-four-in-a-row-part-2-beginning-14gp)
+- [Dev.to/JS] [Making Four-In-A-Row - Part 1: Setup](https://dev.to/colinkiama/making-four-in-a-row-part-1-setup-18fm)
+- [Dev.to/JS] [Next.js + AWS S3 Upload](https://dev.to/imevanc/nextjs-aws-s3-upload-3njb)
 - [Dev.to/JS] [Introduction to Web Animations with GSAP](https://dev.to/topboyasante/introduction-to-web-animations-with-gsap-645)
 - [Dev.to/JS] [Mobile app development company in india](https://dev.to/sophieh59544922/mobile-app-development-company-in-india-3lee)
 - [Lifehacker] [Netflix Is Officially Ending Free Password Sharing &lpar;Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
@@ -36,15 +41,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [✨2023#15: Unlazy: Universal Lazy Loading](https://dev.to/jstoolsweekly/202315-unlazy-universal-lazy-loading-2817)
 - [Dev.to/JS] [🔥2023#15: X-Crawl, A Flexible Multifunctional Crawler](https://dev.to/jstoolsweekly/202315-x-crawl-a-flexible-multifunctional-crawler-1ae9)
 - [Lifehacker] [Learn a New Language While Casually Browsing the Internet](https://lifehacker.com/learn-a-new-language-while-casually-browsing-the-intern-1850345991)
-- [Dev.to/JS] [⭐2023#15: Nuxt v3.4, unocss v0.15, htmx v1.9](https://dev.to/jstoolsweekly/202315-nuxt-v34-unocss-v015-htmx-v19-5cpe)
-- [Dev.to/JS] [Algorithms and Data Structures: A Comprehensive Guide](https://dev.to/limacodes/algorithms-and-data-structures-a-comprehensive-guide-39oj)
 - [Lifehacker] [Car Rentals Are Overcharging You for Tolls](https://lifehacker.com/car-rentals-are-overcharging-you-for-tolls-1850345927)
 - [Lifehacker] [How to Check If the Government Owes You Stimulus Money From 2022](https://lifehacker.com/how-to-check-if-the-government-owes-you-stimulus-money-1850348381)
 - [Lifehacker] [Netflix Will Still Lend You DVDs Until September](https://lifehacker.com/you-can-still-get-dvds-from-netflix-and-maybe-you-shou-1849586365)
-- [Dev.to/JS] [AI Generated Images of rich as poor](https://dev.to/jon_snow789/ai-generated-images-of-rich-as-poor-1i32)
 - [Lifehacker] [You Can Run Windows 11 on Your Apple Silicon Mac for Free](https://lifehacker.com/you-can-run-windows-11-on-your-apple-silicon-mac-for-fr-1850347186)
-- [Dev.to/JS] [polyfill: Array.Map&lpar;&rpar;](https://dev.to/naveen1995113/polyfill-arraymap-4bd2)
-- [Dev.to/JS] [JavaScript Objects - The Beginners Guide To Javascript&lpar;Part 5&rpar;](https://dev.to/camskithedev/javascript-objects-the-beginners-guide-to-javascriptpart-5-1c1i)
 - [Lifehacker] [What to Know About Investing in ChatGPT, According to ChatGPT](https://lifehacker.com/what-to-know-about-investing-in-chatgpt-according-to-c-1850344557)
 - [Lifehacker] [Where to Get Gardening and Landscaping Materials for Free or Cheap](https://lifehacker.com/where-to-get-gardening-and-landscaping-materials-for-fr-1850346771)
 - [Lifehacker] [These Weather Apps Actually Care About Your Privacy](https://lifehacker.com/these-weather-apps-actually-care-about-your-privacy-1850342974)
