@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Does your application allow users to share links? Turn on secure link previews!](https://dev.to/iamspathan/does-your-application-allow-users-to-share-links-turn-on-secure-link-previews-3ccg)
+- [Dev.to/JS] [What&#39;s new in Angular 16](https://dev.to/this-is-angular/whats-new-in-angular-16-375b)
+- [Dev.to/JS] [Use Vue Exit Intent | A Vue Composable to power your exit intent content](https://dev.to/nickap/use-vue-exit-intent-a-vue-composable-to-power-your-exit-intent-content-4hlh)
 - [Dev.to/JS] [Mastering JavaScript: Unraveling the Art of Effective Commenting for Better Code Collaboration](https://dev.to/fahimfba/mastering-javascript-unraveling-the-art-of-effective-commenting-for-better-code-collaboration-46b)
 - [Dev.to/JS] [How to create a random quotes generator api in NodeJS](https://dev.to/armanidrisi/how-to-create-a-random-quotes-generator-api-in-nodejs-1pjn)
 - [Dev.to/JS] [Make a Dream Todo app with Novu, React and Express! ✅](https://dev.to/novu/make-a-dream-todo-app-with-novu-react-and-express-2p9l)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Weekly web development resources #145](https://dev.to/vincenius/weekly-web-development-resources-145-5dnp)
 - [Dev.to/JS] [React Query vs useSWR](https://dev.to/sakethkowtha/react-query-vs-useswr-122b)
 - [Dev.to/JS] [Server Side Rendering a Blog with Web Components](https://dev.to/steveblue/server-side-rendering-a-blog-with-web-components-3ije)
-- [Dev.to/JS] [Services em Angular](https://dev.to/caiohrff/services-em-angular-4k3d)
-- [Dev.to/JS] [Updates on the Contractr Project: Tackling Challenges with the Chat Function and Making Progress on the Matching Feature](https://dev.to/arashjangali/updates-on-the-contractr-project-tackling-challenges-with-the-chat-function-and-making-progress-on-the-matching-feature-ce7)
-- [Dev.to/JS] [Creating a True/False Toggle in React with useState Hook for Beginners](https://dev.to/michaellarocca/creating-a-truefalse-toggle-in-react-with-usestate-hook-for-beginners-aff)
 - [Lifehacker] [What&#39;s New on Hulu in May 2023](https://lifehacker.com/whats-new-on-hulu-in-may-2023-1850349866)
 - [Lifehacker] [Memorize These Cheap 4/20 Food Deals Before You&#39;re Too High](https://lifehacker.com/memorize-these-cheap-4-20-food-deals-before-youre-too-h-1850348698)
 - [Lifehacker] [What&#39;s New on Disney+ in May 2023](https://lifehacker.com/whats-new-on-disney-in-may-2023-1850349256)
