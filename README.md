@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Frittata Might Need a Piece of Metal in It](https://lifehacker.com/your-frittata-might-need-a-piece-of-metal-in-it-1850346023)
+- [Dev.to/JS] [✨2023#15: Unlazy: Universal Lazy Loading](https://dev.to/jstoolsweekly/202315-unlazy-universal-lazy-loading-2817)
+- [Dev.to/JS] [🔥2023#15: X-Crawl, A Flexible Multifunctional Crawler](https://dev.to/jstoolsweekly/202315-x-crawl-a-flexible-multifunctional-crawler-1ae9)
+- [Lifehacker] [Learn a New Language While Casually Browsing the Internet](https://lifehacker.com/learn-a-new-language-while-casually-browsing-the-intern-1850345991)
+- [Dev.to/JS] [⭐2023#15: Nuxt v3.4, unocss v0.15, htmx v1.9](https://dev.to/jstoolsweekly/202315-nuxt-v34-unocss-v015-htmx-v19-5cpe)
+- [Dev.to/JS] [Algorithms and Data Structures: A Comprehensive Guide](https://dev.to/limacodes/algorithms-and-data-structures-a-comprehensive-guide-39oj)
+- [Lifehacker] [Car Rentals Are Overcharging You for Tolls](https://lifehacker.com/car-rentals-are-overcharging-you-for-tolls-1850345927)
 - [Lifehacker] [How to Check If the Government Owes You Stimulus Money From 2022](https://lifehacker.com/how-to-check-if-the-government-owes-you-stimulus-money-1850348381)
 - [Lifehacker] [Netflix Will Still Lend You DVDs Until September](https://lifehacker.com/you-can-still-get-dvds-from-netflix-and-maybe-you-shou-1849586365)
 - [Dev.to/JS] [AI Generated Images of rich as poor](https://dev.to/jon_snow789/ai-generated-images-of-rich-as-poor-1i32)
@@ -40,11 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Facebook Probably Owes You Money](https://lifehacker.com/facebook-probably-owes-you-money-1850350640)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Vagas na linha de Serviço](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-vagas-na-linha-de-servico-5e7l)
 - [Lifehacker] [Gamestop Is Having a Buy-One-Get-One Sale for These Popular Games](https://lifehacker.com/gamestop-is-having-a-buy-one-get-one-sale-for-these-pop-1850349375)
-- [Dev.to/JS] [45 ways to break an API server &lpar;negative tests with examples&rpar;](https://dev.to/zvone187/45-ways-to-break-an-api-server-negative-tests-with-examples-4ok3)
-- [Dev.to/JS] [Understanding CSS Min&lpar;&rpar;, Max&lpar;&rpar;, and Clamp&lpar;&rpar; Functions](https://dev.to/scofieldidehen/understanding-css-min-max-and-clamp-functions-gli)
-- [Dev.to/JS] [Building a Browser-Based Synthesizer Using Rust and WebAssembly](https://dev.to/speratus/building-a-browser-based-synthesizer-using-rust-and-webassembly-3kpl)
 - [Lifehacker] [Regal’s ‘Surround-Screen’ Movies Are Just $3 a Ticket Right Now](https://lifehacker.com/regal-s-surround-screen-movies-are-just-3-a-ticket-r-1850345171)
-- [Dev.to/JS] [A JavaScript Odyssey &lpar;GameDev Online Book&rpar;](https://dev.to/hugeen/a-javascript-odyssey-4m00)
 - [Lifehacker] [What&#39;s New on Hulu in May 2023](https://lifehacker.com/whats-new-on-hulu-in-may-2023-1850349866)
 - [Lifehacker] [Memorize These Cheap 4/20 Food Deals Before You&#39;re Too High](https://lifehacker.com/memorize-these-cheap-4-20-food-deals-before-youre-too-h-1850348698)
 - [Lifehacker] [What&#39;s New on Disney+ in May 2023](https://lifehacker.com/whats-new-on-disney-in-may-2023-1850349256)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where You Can Buy a Bargain Mansion](https://lifehacker.com/where-you-can-buy-a-bargain-mansion-1850344233)
 - [Lifehacker] [Barbecue and Doughnuts Are Better Together](https://lifehacker.com/barbecue-and-doughnuts-are-better-together-1850339106)
 - [Lifehacker] [This ATM Scam Is Masquerading As an Act of Kindness](https://lifehacker.com/this-atm-scam-is-masquerading-as-an-act-of-kindness-1850338599)
-- [Lifehacker] [Why You Should Never Sell Your Old Phone Before Setting Up Your New One](https://lifehacker.com/why-you-should-never-sell-your-old-phone-before-setting-1850338691)
-- [Lifehacker] [These Are the New Rules for Tipping, According to Lifehacker Readers](https://lifehacker.com/these-are-the-new-rules-for-tipping-according-to-lifeh-1850338162)
-- [Lifehacker] [Ten Red Flags That You’re Not Really Talking to the IRS](https://lifehacker.com/ten-red-flags-that-you-re-not-really-talking-to-the-irs-1850338065)
-- [Lifehacker] [Why You Need to Double Check Your &#39;Safe Food&#39; Ingredients If You’re Allergic to Sesame](https://lifehacker.com/why-you-need-to-double-check-your-safe-food-ingredients-1850338194)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Never Sell Your Old Phone Before Setting Up Your New One](https://lifehacker.com/why-you-should-never-sell-your-old-phone-before-setting-1850338691)<!-- TECH-POSTS:END -->
 
 ---
 
