@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Utilize o hook useDebugValue para adicionar rótulos personalizados a valores no React DevTools](https://dev.to/eliasgabriel1/utilize-o-hook-usedebugvalue-para-adicionar-rotulos-personalizados-a-valores-no-react-devtools-19j)
+- [Dev.to/JS] [ReactJS Best Practices: Tips and Tricks for Writing Better Code](https://dev.to/beginarjun/reactjs-best-practices-tips-and-tricks-for-writing-better-code-aaf)
+- [Lifehacker] [You Can Experience ‘Pluto Time’ Twice a Day on Earth](https://lifehacker.com/you-can-experience-pluto-time-twice-a-day-on-earth-1850349379)
+- [Dev.to/JS] [Nx Cloud 3.0 - Faster Cache, More Powerful DTE, Better Ergonomics](https://dev.to/nx/nx-cloud-30-faster-cache-more-powerful-dte-better-ergonomics-18a4)
 - [Lifehacker] [Your Frittata Might Need a Piece of Metal in It](https://lifehacker.com/your-frittata-might-need-a-piece-of-metal-in-it-1850346023)
 - [Dev.to/JS] [✨2023#15: Unlazy: Universal Lazy Loading](https://dev.to/jstoolsweekly/202315-unlazy-universal-lazy-loading-2817)
 - [Dev.to/JS] [🔥2023#15: X-Crawl, A Flexible Multifunctional Crawler](https://dev.to/jstoolsweekly/202315-x-crawl-a-flexible-multifunctional-crawler-1ae9)
@@ -39,13 +43,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting Started with Pipes in Angular: A Beginner&#39;s Guide](https://dev.to/ayushdev_24/getting-started-with-pipes-in-angular-a-beginners-guide-p63)
 - [Dev.to/JS] [🍂Simplify the back end with low code solutions: Amplication, Supabase, and Appwirte overview](https://dev.to/hunghvu/simplify-the-back-end-with-low-code-solutions-amplication-supabase-and-appwirte-overview-4ia7)
 - [Lifehacker] [What to Know About Investing in ChatGPT, According to ChatGPT](https://lifehacker.com/what-to-know-about-investing-in-chatgpt-according-to-c-1850344557)
-- [Dev.to/JS] [Updating Monaco broke Fastly Fiddle: here&#39;s how I solved it with useCallback in React](https://dev.to/fastly/updating-monaco-broke-fastly-fiddle-heres-how-i-solved-it-with-usecallback-in-react-2j92)
 - [Lifehacker] [Where to Get Gardening and Landscaping Materials for Free or Cheap](https://lifehacker.com/where-to-get-gardening-and-landscaping-materials-for-fr-1850346771)
 - [Lifehacker] [These Weather Apps Actually Care About Your Privacy](https://lifehacker.com/these-weather-apps-actually-care-about-your-privacy-1850342974)
 - [Lifehacker] [Make Homemade Bialys With Packaged Pizza Dough](https://lifehacker.com/make-homemade-bialys-with-packaged-pizza-dough-1850349658)
-- [Dev.to/JS] [Web Scraping + GPT for Data Validation - Credit Cards](https://dev.to/aacitelli/web-scraping-gpt-for-data-validation-credit-cards-1f2k)
 - [Lifehacker] [Facebook Probably Owes You Money](https://lifehacker.com/facebook-probably-owes-you-money-1850350640)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Vagas na linha de Serviço](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-vagas-na-linha-de-servico-5e7l)
 - [Lifehacker] [Gamestop Is Having a Buy-One-Get-One Sale for These Popular Games](https://lifehacker.com/gamestop-is-having-a-buy-one-get-one-sale-for-these-pop-1850349375)
 - [Lifehacker] [Regal’s ‘Surround-Screen’ Movies Are Just $3 a Ticket Right Now](https://lifehacker.com/regal-s-surround-screen-movies-are-just-3-a-ticket-r-1850345171)
 - [Lifehacker] [What&#39;s New on Hulu in May 2023](https://lifehacker.com/whats-new-on-hulu-in-may-2023-1850349866)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Low-Maintenance Plants for Your Garden](https://lifehacker.com/the-best-low-maintenance-plants-for-your-garden-1850344419)
 - [Lifehacker] [Where You Can Buy a Bargain Mansion](https://lifehacker.com/where-you-can-buy-a-bargain-mansion-1850344233)
 - [Lifehacker] [Barbecue and Doughnuts Are Better Together](https://lifehacker.com/barbecue-and-doughnuts-are-better-together-1850339106)
-- [Lifehacker] [This ATM Scam Is Masquerading As an Act of Kindness](https://lifehacker.com/this-atm-scam-is-masquerading-as-an-act-of-kindness-1850338599)
-- [Lifehacker] [Why You Should Never Sell Your Old Phone Before Setting Up Your New One](https://lifehacker.com/why-you-should-never-sell-your-old-phone-before-setting-1850338691)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This ATM Scam Is Masquerading As an Act of Kindness](https://lifehacker.com/this-atm-scam-is-masquerading-as-an-act-of-kindness-1850338599)<!-- TECH-POSTS:END -->
 
 ---
 
