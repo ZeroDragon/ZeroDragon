@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use NestJS, MongoDB and Docker to Create an URL Shortener](https://dev.to/paulknulst/use-nestjs-mongodb-and-docker-to-create-an-url-shortener-226h)
+- [Dev.to/JS] [Weekly web development resources #145](https://dev.to/vincenius/weekly-web-development-resources-145-5dnp)
+- [Dev.to/JS] [React Query vs useSWR](https://dev.to/sakethkowtha/react-query-vs-useswr-122b)
 - [Dev.to/JS] [Server Side Rendering a Blog with Web Components](https://dev.to/steveblue/server-side-rendering-a-blog-with-web-components-3ije)
 - [Dev.to/JS] [Services em Angular](https://dev.to/caiohrff/services-em-angular-4k3d)
 - [Dev.to/JS] [Updates on the Contractr Project: Tackling Challenges with the Chat Function and Making Progress on the Matching Feature](https://dev.to/arashjangali/updates-on-the-contractr-project-tackling-challenges-with-the-chat-function-and-making-progress-on-the-matching-feature-ce7)
@@ -36,12 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Expose Child Component Methods to Parent Components with Vue 3 defineExpose](https://dev.to/caio2k/expose-child-component-methods-to-parent-components-with-vue-3-script-setup-defineexpose-4ghl)
 - [Lifehacker] [How to Tell If You’re Buying Nudes of a Real Person...or AI Porn](https://lifehacker.com/how-to-tell-if-you-re-buying-nudes-of-a-real-person-o-1850344588)
 - [Dev.to/JS] [How to use SVGs in React Native.](https://dev.to/gautham495/how-to-use-svgs-in-react-native-37n9)
-- [Dev.to/JS] [Guide Docs Homepage of Typia &lpar;20,000x faster runtime validator&rpar;](https://dev.to/samchon/guide-docs-homepage-of-typia-20000x-faster-runtime-validator-1df1)
 - [Lifehacker] [These Homemade Syrups Are Better Than the Stuff You See on TikTok](https://lifehacker.com/these-homemade-syrups-are-better-than-the-stuff-you-see-1850339690)
 - [Lifehacker] [Delete These Malware Apps From Your Android Device ASAP](https://lifehacker.com/delete-these-malware-apps-from-your-android-device-asap-1850348143)
-- [Dev.to/JS] [Build Custom Middleware for a React/Next.js App with Context API](https://dev.to/stephengade/build-custom-middleware-for-a-reactnextjs-app-with-context-api-2ed3)
 - [Lifehacker] [You Can Try Auto-GPT, the Next Generation of ChatGPT, Right Now](https://lifehacker.com/you-can-try-auto-gpt-the-next-generation-of-chatgpt-r-1850343691)
-- [Dev.to/JS] [&quot;Undefined&quot; in javascript: Amazing Cases.](https://dev.to/sachink07/undefined-in-javascript-amazing-cases-4gk9)
 - [Lifehacker] [42 Highbrow Movies to Watch When You&#39;re Totally High](https://lifehacker.com/42-highbrow-films-to-watch-when-youre-totally-high-1848796343)
 - [Lifehacker] [Why You Lost Wordle Today](https://lifehacker.com/why-you-lost-wordle-today-1850348061)
 - [Crazy Programmer] [Barbara Liskov Biography](https://www.thecrazyprogrammer.com/2023/04/barbara-liskov-biography.html)
