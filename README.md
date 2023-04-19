@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Browser-Based Synthesizer Using Rust and WebAssembly](https://dev.to/speratus/building-a-browser-based-synthesizer-using-rust-and-webassembly-3kpl)
+- [Lifehacker] [Regal’s ‘Surround-Screen’ Movies Are Just $3 a Ticket Right Now](https://lifehacker.com/regal-s-surround-screen-movies-are-just-3-a-ticket-r-1850345171)
+- [Dev.to/JS] [A JavaScript Odyssey &lpar;GameDev Online Book&rpar;](https://dev.to/hugeen/a-javascript-odyssey-4m00)
+- [Dev.to/JS] [Create a Shopping Cart with Vuejs and Pinia](https://dev.to/andrewzach/create-a-shopping-cart-with-vuejs-and-pinia-1ooc)
 - [Dev.to/JS] [Object VS Data Structure : The Fight !](https://dev.to/codeoz/object-vs-data-structure-the-fight--k0h)
 - [Dev.to/JS] [Top 5 Best Javascript Icons Libraries 🔥](https://dev.to/rammcodes/top-5-best-javascript-icons-libraries-6c7)
 - [Dev.to/JS] [5 Code Refactoring Techniques to Improve Your Code](https://dev.to/documatic/5-code-refactoring-techniques-to-improve-your-code-2lia)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Teams Toolkit Cloud Skills Challenge - build apps for Microsoft Teams!](https://dev.to/microsoft365/teams-toolkit-cloud-skills-challenge-build-apps-for-microsoft-teams-3378)
 - [Dev.to/JS] [Extending Medusa Example: Build an Open Source Marketplace](https://dev.to/medusajs/extending-medusa-example-build-an-open-source-marketplace-18km)
 - [Dev.to/JS] [How AI is Revolutionizing the Way We Replace Faces](https://dev.to/rkeyesicons/how-ai-is-revolutionizing-the-way-we-replace-faces-34e6)
-- [Dev.to/JS] [Internationalize React application with i18n](https://dev.to/nikolasbarwicki/internationalize-react-application-with-i18n-4dgp)
-- [Dev.to/JS] [ProDentim - Results, Pros, Cons, Price, Scam And Legit?](https://dev.to/prodentimf61801/prodentim-results-pros-cons-price-scam-and-legit-2g16)
-- [Dev.to/JS] [Using NGINX to serve React Application &lpar;Static vs Reverse Proxy&rpar;](https://dev.to/mohammadfaisal/using-nginx-to-serve-react-application-static-vs-reverse-proxy-2o8l)
 - [Lifehacker] [What&#39;s New on Hulu in May 2023](https://lifehacker.com/whats-new-on-hulu-in-may-2023-1850349866)
 - [Lifehacker] [Memorize These Cheap 4/20 Food Deals Before You&#39;re Too High](https://lifehacker.com/memorize-these-cheap-4-20-food-deals-before-youre-too-h-1850348698)
 - [Lifehacker] [What&#39;s New on Disney+ in May 2023](https://lifehacker.com/whats-new-on-disney-in-may-2023-1850349256)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Cheap and Easy Ways to Keep Water Away From Your Foundation](https://lifehacker.com/cheap-and-easy-ways-to-keep-water-away-from-your-founda-1850342754)
 - [Lifehacker] [Why You Should Never Use Klarna to Buy Groceries](https://lifehacker.com/why-you-should-never-use-klarna-to-buy-groceries-1850336826)
 - [Lifehacker] [How to Train Your New Boss &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-train-your-new-boss-and-why-you-should-1850336703)
-- [Lifehacker] [Use AI to Supercharge Your Smartphone&#39;s Keyboard](https://lifehacker.com/use-ai-to-supercharge-your-smartphones-keyboard-1850337405)
-- [Lifehacker] [The Best Ways to Keep Squirrels Out of Your Potted Plants](https://lifehacker.com/the-best-ways-to-keep-squirrels-out-of-your-potted-plan-1850335743)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use AI to Supercharge Your Smartphone&#39;s Keyboard](https://lifehacker.com/use-ai-to-supercharge-your-smartphones-keyboard-1850337405)<!-- TECH-POSTS:END -->
 
 ---
 
