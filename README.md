@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Check If the Government Owes You Stimulus Money From 2022](https://lifehacker.com/how-to-check-if-the-government-owes-you-stimulus-money-1850348381)
+- [Lifehacker] [Netflix Will Still Lend You DVDs Until September](https://lifehacker.com/you-can-still-get-dvds-from-netflix-and-maybe-you-shou-1849586365)
+- [Dev.to/JS] [AI Generated Images of rich as poor](https://dev.to/jon_snow789/ai-generated-images-of-rich-as-poor-1i32)
 - [Lifehacker] [You Can Run Windows 11 on Your Apple Silicon Mac for Free](https://lifehacker.com/you-can-run-windows-11-on-your-apple-silicon-mac-for-fr-1850347186)
+- [Dev.to/JS] [polyfill: Array.Map&lpar;&rpar;](https://dev.to/naveen1995113/polyfill-arraymap-4bd2)
 - [Dev.to/JS] [JavaScript Objects - The Beginners Guide To Javascript&lpar;Part 5&rpar;](https://dev.to/camskithedev/javascript-objects-the-beginners-guide-to-javascriptpart-5-1c1i)
 - [Dev.to/JS] [Getting Started with Pipes in Angular: A Beginner&#39;s Guide](https://dev.to/ayushdev_24/getting-started-with-pipes-in-angular-a-beginners-guide-p63)
 - [Dev.to/JS] [🍂Simplify the back end with low code solutions: Amplication, Supabase, and Appwirte overview](https://dev.to/hunghvu/simplify-the-back-end-with-low-code-solutions-amplication-supabase-and-appwirte-overview-4ia7)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Browser-Based Synthesizer Using Rust and WebAssembly](https://dev.to/speratus/building-a-browser-based-synthesizer-using-rust-and-webassembly-3kpl)
 - [Lifehacker] [Regal’s ‘Surround-Screen’ Movies Are Just $3 a Ticket Right Now](https://lifehacker.com/regal-s-surround-screen-movies-are-just-3-a-ticket-r-1850345171)
 - [Dev.to/JS] [A JavaScript Odyssey &lpar;GameDev Online Book&rpar;](https://dev.to/hugeen/a-javascript-odyssey-4m00)
-- [Dev.to/JS] [Create a Shopping Cart with Vuejs and Pinia](https://dev.to/andrewzach/create-a-shopping-cart-with-vuejs-and-pinia-1ooc)
-- [Dev.to/JS] [Object VS Data Structure : The Fight !](https://dev.to/codeoz/object-vs-data-structure-the-fight--k0h)
 - [Lifehacker] [What&#39;s New on Hulu in May 2023](https://lifehacker.com/whats-new-on-hulu-in-may-2023-1850349866)
 - [Lifehacker] [Memorize These Cheap 4/20 Food Deals Before You&#39;re Too High](https://lifehacker.com/memorize-these-cheap-4-20-food-deals-before-youre-too-h-1850348698)
 - [Lifehacker] [What&#39;s New on Disney+ in May 2023](https://lifehacker.com/whats-new-on-disney-in-may-2023-1850349256)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Never Sell Your Old Phone Before Setting Up Your New One](https://lifehacker.com/why-you-should-never-sell-your-old-phone-before-setting-1850338691)
 - [Lifehacker] [These Are the New Rules for Tipping, According to Lifehacker Readers](https://lifehacker.com/these-are-the-new-rules-for-tipping-according-to-lifeh-1850338162)
 - [Lifehacker] [Ten Red Flags That You’re Not Really Talking to the IRS](https://lifehacker.com/ten-red-flags-that-you-re-not-really-talking-to-the-irs-1850338065)
-- [Lifehacker] [Why You Need to Double Check Your &#39;Safe Food&#39; Ingredients If You’re Allergic to Sesame](https://lifehacker.com/why-you-need-to-double-check-your-safe-food-ingredients-1850338194)
-- [Lifehacker] [Don&#39;t Forget to Put Nuts in Your Stews and Soup](https://lifehacker.com/dont-forget-to-put-nuts-in-your-stews-and-soup-1850338202)
-- [Lifehacker] [Hearing Aids Are For Your Health, Not Just Your Hearing](https://lifehacker.com/hearing-aids-are-for-your-health-not-just-your-hearing-1850337795)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Need to Double Check Your &#39;Safe Food&#39; Ingredients If You’re Allergic to Sesame](https://lifehacker.com/why-you-need-to-double-check-your-safe-food-ingredients-1850338194)<!-- TECH-POSTS:END -->
 
 ---
 
