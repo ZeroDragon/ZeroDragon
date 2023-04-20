@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vite, Yarn and Vue with Docker](https://dev.to/the_teacher/vite-yarn-and-vue-with-docker-1mmp)
+- [Dev.to/JS] [My little Markdown Parser](https://dev.to/frankwisniewski/my-little-markdown-parser-4dp8)
 - [Dev.to/JS] [The key things you need to successfully break into tech.](https://dev.to/chidiebereomasi/the-key-things-you-need-to-successfully-break-into-tech-5gjp)
 - [Dev.to/JS] [How to Master Programming: Top Free Courses to Help You Begin Your Journey](https://dev.to/naser_shareef/how-to-master-programming-top-free-courses-to-help-you-begin-your-journey-38k2)
 - [Dev.to/JS] [Make Your Global Components Elegant with EventTarget](https://dev.to/sam585456525/make-your-global-components-elegant-with-eventtarget-22p6)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Conditional Statements in JavaScript: A Beginner&#39;s Guide](https://dev.to/theshrish46/understanding-conditional-statements-in-javascript-a-beginners-guide-2cd)
 - [Dev.to/JS] [async &amp; await](https://dev.to/codeofaccuracy/async-await-4a9f)
 - [Dev.to/JS] [From Tech Tinkerer to Full-Stack Web Developer: My Personal Journey](https://dev.to/techtinkererfullstack/from-tech-tinkerer-to-full-stack-web-developer-my-personal-journey-ohi)
-- [Dev.to/JS] [How to Create Your First Sidebar Using React and Sass: Super Simple and Quick Tutorial](https://dev.to/ziontutorial/how-to-create-your-first-sidebar-using-react-and-sass-super-simple-and-quick-tutorial-556m)
-- [Dev.to/JS] [Building a Custom QR Code Generator with qrcode.js and JavaScript](https://dev.to/incoderweb/building-a-custom-qr-code-generator-with-qrcodejs-and-javascript-3o3e)
 - [Lifehacker] [Netflix Is Officially Ending Free Password Sharing &lpar;Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
 - [Lifehacker] [You Can Finally Add Multiple Links to Your Instagram Bio](https://lifehacker.com/you-can-finally-add-multiple-links-to-your-instagram-bi-1850353334)
 - [Lifehacker] [Why Your Tax Refund Wasn’t As Big This Year](https://lifehacker.com/why-your-tax-refund-wasn-t-as-big-this-year-1850350485)
