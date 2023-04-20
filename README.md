@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [From Tech Tinkerer to Full-Stack Web Developer: My Personal Journey](https://dev.to/techtinkererfullstack/from-tech-tinkerer-to-full-stack-web-developer-my-personal-journey-ohi)
+- [Dev.to/JS] [How to Create Your First Sidebar Using React and Sass: Super Simple and Quick Tutorial](https://dev.to/ziontutorial/how-to-create-your-first-sidebar-using-react-and-sass-super-simple-and-quick-tutorial-556m)
+- [Dev.to/JS] [Building a Custom QR Code Generator with qrcode.js and JavaScript](https://dev.to/incoderweb/building-a-custom-qr-code-generator-with-qrcodejs-and-javascript-3o3e)
 - [Dev.to/JS] [How to Test Custom Hook in ReactJS](https://dev.to/sachinchaurasiya/how-to-test-custom-hook-in-reactjs-12gg)
 - [Dev.to/JS] [The easiest way to create beautiful scroll animations | HTML, CSS, JavaScript](https://dev.to/xplodivity/the-easiest-way-to-create-beautiful-scroll-animations-html-css-javascript-45ek)
 - [Dev.to/JS] [Customizing Vizzu Charts - Mouse-wheel zooming](https://dev.to/simzer/customizing-vizzu-charts-mouse-wheel-zooming-1afk)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [lumigan eye drops price](https://dev.to/michaelsimo7/lumigan-eye-drops-price-1ldo)
 - [Dev.to/JS] [Using Node.js for Serverless Computing and Function as a Service &lpar;FaaS&rpar;](https://dev.to/folasayosamuel/using-nodejs-for-serverless-computing-and-function-as-a-service-faas-29if)
 - [Dev.to/JS] [Mastering JavaScript Debugging: Best Practices and Traps to Avoid](https://dev.to/shubhamdutta2000/mastering-javascript-debugging-best-practices-and-traps-to-avoid-41h6)
-- [Dev.to/JS] [Scope &amp; Closure in Javascript - Army of functions challenge](https://dev.to/ngquan/scope-closure-in-javascript-army-of-functions-challenge-dmg)
-- [Dev.to/JS] [Coercion and Falsy values in Javascript.](https://dev.to/thebooleanboy/coercion-and-falsy-values-in-javascript-iid)
-- [Dev.to/JS] [Boost Your Coding Efficiency with the Laf Assistant in VS Code](https://dev.to/carsonyang/boost-your-coding-efficiency-with-the-laf-assistant-in-vs-code-28h9)
 - [Lifehacker] [Netflix Is Officially Ending Free Password Sharing &lpar;Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
 - [Lifehacker] [You Can Finally Add Multiple Links to Your Instagram Bio](https://lifehacker.com/you-can-finally-add-multiple-links-to-your-instagram-bi-1850353334)
 - [Lifehacker] [Why Your Tax Refund Wasn’t As Big This Year](https://lifehacker.com/why-your-tax-refund-wasn-t-as-big-this-year-1850350485)
