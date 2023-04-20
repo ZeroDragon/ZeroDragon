@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3.8 - Growing your Brand with Ankita Kulkarni](https://dev.to/codingcatdev/38-growing-your-brand-with-ankita-kulkarni-4b4j)
+- [Lifehacker] [Which Fermented Foods Are Actually Good For You?](https://lifehacker.com/which-fermented-foods-are-actually-good-for-you-1850350371)
+- [Dev.to/JS] [LeetCode - Sort list](https://dev.to/_alkesh26/leetcode-sort-list-443o)
+- [Dev.to/JS] [SyntaxError: Unexpected reserved word &#39;await&#39; in JS](https://dev.to/coder9/syntaxerror-unexpected-reserved-word-await-in-js-3pgg)
 - [Lifehacker] [You Should Upcycle That Cardboard Drink Holder As a Kitchen Organizer](https://lifehacker.com/you-should-upcycle-that-cardboard-drink-holder-as-a-kit-1850352532)
 - [Lifehacker] [Are Sleepovers Finally Over?](https://lifehacker.com/are-sleepovers-finally-over-1850352705)
 - [Dev.to/JS] [5 Game-Changing Websites That Every Developer Must Have](https://dev.to/jon_snow789/5-game-changing-websites-that-every-developer-must-have-3ao0)
@@ -39,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Resolvendo problemas no HackerRank:Livro de lições especiais](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerranklivro-de-licoes-especiais-2i5l)
 - [Lifehacker] [Why You Should Exercise Before Studying, According to Science](https://lifehacker.com/why-you-should-exercise-before-studying-according-to-s-1850347857)
 - [Dev.to/JS] [TypeScript](https://dev.to/nguyenphatit/typescript-42e9)
-- [Dev.to/JS] [Typescript](https://dev.to/nguyenphatit/typescript-4hhp)
-- [Dev.to/JS] [8 ways to Handle State in React](https://dev.to/nikkbh/8-ways-to-handle-state-in-react-ch6)
-- [Dev.to/JS] [Podcasts for JavaScript &amp; ReactJS Developers 🎧](https://dev.to/keracudmore/podcasts-for-javascript-reactjs-developers-iod)
 - [Lifehacker] [You Should Plant Artichokes and Asparagus Right Now](https://lifehacker.com/you-should-plant-artichokes-and-asparagus-right-now-1850346525)
 - [Lifehacker] [Get a Free Extra Ticket to See a Movie This Weekend](https://lifehacker.com/get-a-free-extra-ticket-to-see-a-movie-this-weekend-1850354146)
 - [Lifehacker] [Netflix Is Officially Ending Free Password Sharing &lpar;Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Facebook Probably Owes You Money](https://lifehacker.com/facebook-probably-owes-you-money-1850350640)
 - [Lifehacker] [Gamestop Is Having a Buy-One-Get-One Sale for These Popular Games](https://lifehacker.com/gamestop-is-having-a-buy-one-get-one-sale-for-these-pop-1850349375)
 - [Lifehacker] [Regal’s ‘Surround-Screen’ Movies Are Just $3 a Ticket Right Now](https://lifehacker.com/regal-s-surround-screen-movies-are-just-3-a-ticket-r-1850345171)
-- [Lifehacker] [What&#39;s New on Hulu in May 2023](https://lifehacker.com/whats-new-on-hulu-in-may-2023-1850349866)
-- [Lifehacker] [Memorize These Cheap 4/20 Food Deals Before You&#39;re Too High](https://lifehacker.com/memorize-these-cheap-4-20-food-deals-before-youre-too-h-1850348698)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Hulu in May 2023](https://lifehacker.com/whats-new-on-hulu-in-may-2023-1850349866)<!-- TECH-POSTS:END -->
 
 ---
 
