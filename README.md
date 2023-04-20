@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Upcycle That Cardboard Drink Holder As a Kitchen Organizer](https://lifehacker.com/you-should-upcycle-that-cardboard-drink-holder-as-a-kit-1850352532)
+- [Lifehacker] [Are Sleepovers Finally Over?](https://lifehacker.com/are-sleepovers-finally-over-1850352705)
+- [Dev.to/JS] [5 Game-Changing Websites That Every Developer Must Have](https://dev.to/jon_snow789/5-game-changing-websites-that-every-developer-must-have-3ao0)
+- [Dev.to/JS] [Key RxJS Operators Every Angular Developer Should Know](https://dev.to/danywalls/key-rxjs-operators-every-angular-developer-should-know-41n8)
+- [Lifehacker] [What to Say &lpar;and Not Say&rpar; When Handing in Late Assignments, According to Professors](https://lifehacker.com/what-to-say-and-not-say-when-handing-in-late-assignme-1850343910)
 - [Dev.to/JS] [Building a Backend with TypeORM and PostgreSQL](https://dev.to/cricketsamya/building-a-backend-with-typeorm-and-postgresql-60m)
 - [Lifehacker] [You Can ‘Unretire,’ but It Might Cost You](https://lifehacker.com/you-can-unretire-but-it-might-cost-you-1850353487)
 - [Lifehacker] [How to Move Your Seedlings Outside Without Killing Them](https://lifehacker.com/how-to-move-your-seedlings-outside-without-killing-them-1850346123)
@@ -37,10 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Typescript](https://dev.to/nguyenphatit/typescript-4hhp)
 - [Dev.to/JS] [8 ways to Handle State in React](https://dev.to/nikkbh/8-ways-to-handle-state-in-react-ch6)
 - [Dev.to/JS] [Podcasts for JavaScript &amp; ReactJS Developers 🎧](https://dev.to/keracudmore/podcasts-for-javascript-reactjs-developers-iod)
-- [Dev.to/JS] [WordPress VS. JavaScript: Which One Is Better?](https://dev.to/flatlogic/wordpress-vs-javascript-which-one-is-better-296i)
 - [Lifehacker] [You Should Plant Artichokes and Asparagus Right Now](https://lifehacker.com/you-should-plant-artichokes-and-asparagus-right-now-1850346525)
 - [Lifehacker] [Get a Free Extra Ticket to See a Movie This Weekend](https://lifehacker.com/get-a-free-extra-ticket-to-see-a-movie-this-weekend-1850354146)
-- [Dev.to/JS] [17 Dreadful Website Redesign Mistakes To Avoid In 2023](https://dev.to/scofieldidehen/17-dreadful-website-redesign-mistakes-to-avoid-in-2023-2jo5)
 - [Lifehacker] [Netflix Is Officially Ending Free Password Sharing &lpar;Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
 - [Lifehacker] [You Can Finally Add Multiple Links to Your Instagram Bio](https://lifehacker.com/you-can-finally-add-multiple-links-to-your-instagram-bi-1850353334)
 - [Lifehacker] [Why Your Tax Refund Wasn’t As Big This Year](https://lifehacker.com/why-your-tax-refund-wasn-t-as-big-this-year-1850350485)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Gamestop Is Having a Buy-One-Get-One Sale for These Popular Games](https://lifehacker.com/gamestop-is-having-a-buy-one-get-one-sale-for-these-pop-1850349375)
 - [Lifehacker] [Regal’s ‘Surround-Screen’ Movies Are Just $3 a Ticket Right Now](https://lifehacker.com/regal-s-surround-screen-movies-are-just-3-a-ticket-r-1850345171)
 - [Lifehacker] [What&#39;s New on Hulu in May 2023](https://lifehacker.com/whats-new-on-hulu-in-may-2023-1850349866)
-- [Lifehacker] [Memorize These Cheap 4/20 Food Deals Before You&#39;re Too High](https://lifehacker.com/memorize-these-cheap-4-20-food-deals-before-youre-too-h-1850348698)
-- [Lifehacker] [What&#39;s New on Disney+ in May 2023](https://lifehacker.com/whats-new-on-disney-in-may-2023-1850349256)
-- [Lifehacker] [How to Tell If You’re Buying Nudes of a Real Person...or AI Porn](https://lifehacker.com/how-to-tell-if-you-re-buying-nudes-of-a-real-person-o-1850344588)
-- [Lifehacker] [These Homemade Syrups Are Better Than the Stuff You See on TikTok](https://lifehacker.com/these-homemade-syrups-are-better-than-the-stuff-you-see-1850339690)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Memorize These Cheap 4/20 Food Deals Before You&#39;re Too High](https://lifehacker.com/memorize-these-cheap-4-20-food-deals-before-youre-too-h-1850348698)<!-- TECH-POSTS:END -->
 
 ---
 
