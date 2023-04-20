@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The key things you need to successfully break into tech.](https://dev.to/chidiebereomasi/the-key-things-you-need-to-successfully-break-into-tech-5gjp)
+- [Dev.to/JS] [How to Master Programming: Top Free Courses to Help You Begin Your Journey](https://dev.to/naser_shareef/how-to-master-programming-top-free-courses-to-help-you-begin-your-journey-38k2)
+- [Dev.to/JS] [Make Your Global Components Elegant with EventTarget](https://dev.to/sam585456525/make-your-global-components-elegant-with-eventtarget-22p6)
+- [Dev.to/JS] [Fetching Data Made Easy with RTK Query: A Comprehensive Guide](https://dev.to/haszankauna/fetching-data-made-easy-with-rtk-query-a-comprehensive-guide-3k1k)
+- [Dev.to/JS] [From Code to Slope: AgentConf 2023](https://dev.to/pujux/from-code-to-slope-agentconf-2023-1fi5)
 - [Dev.to/JS] [&#39;useEffect&#39; in depth](https://dev.to/lausuarez02/useeffect-in-depth-30hp)
 - [Dev.to/JS] [Using Flight Data API with React.js](https://dev.to/haszankauna/using-flight-data-api-with-reactjs-5050)
 - [Dev.to/JS] [Understanding Conditional Statements in JavaScript: A Beginner&#39;s Guide](https://dev.to/theshrish46/understanding-conditional-statements-in-javascript-a-beginners-guide-2cd)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From Tech Tinkerer to Full-Stack Web Developer: My Personal Journey](https://dev.to/techtinkererfullstack/from-tech-tinkerer-to-full-stack-web-developer-my-personal-journey-ohi)
 - [Dev.to/JS] [How to Create Your First Sidebar Using React and Sass: Super Simple and Quick Tutorial](https://dev.to/ziontutorial/how-to-create-your-first-sidebar-using-react-and-sass-super-simple-and-quick-tutorial-556m)
 - [Dev.to/JS] [Building a Custom QR Code Generator with qrcode.js and JavaScript](https://dev.to/incoderweb/building-a-custom-qr-code-generator-with-qrcodejs-and-javascript-3o3e)
-- [Dev.to/JS] [How to Test Custom Hook in ReactJS](https://dev.to/sachinchaurasiya/how-to-test-custom-hook-in-reactjs-12gg)
-- [Dev.to/JS] [The easiest way to create beautiful scroll animations | HTML, CSS, JavaScript](https://dev.to/xplodivity/the-easiest-way-to-create-beautiful-scroll-animations-html-css-javascript-45ek)
-- [Dev.to/JS] [Customizing Vizzu Charts - Mouse-wheel zooming](https://dev.to/simzer/customizing-vizzu-charts-mouse-wheel-zooming-1afk)
-- [Dev.to/JS] [Streamlining Test Automation with a Layered Framework](https://dev.to/danielwillium9355/streamlining-test-automation-with-a-layered-framework-po3)
-- [Dev.to/JS] [openGauss DML Syntax Overview](https://dev.to/olivia_ma_350e4f6e00893e3/opengauss-dml-syntax-overview-g28)
 - [Lifehacker] [Netflix Is Officially Ending Free Password Sharing &lpar;Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
 - [Lifehacker] [You Can Finally Add Multiple Links to Your Instagram Bio](https://lifehacker.com/you-can-finally-add-multiple-links-to-your-instagram-bi-1850353334)
 - [Lifehacker] [Why Your Tax Refund Wasn’t As Big This Year](https://lifehacker.com/why-your-tax-refund-wasn-t-as-big-this-year-1850350485)
