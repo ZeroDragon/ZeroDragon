@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering JavaScript Debugging: Best Practices and Traps to Avoid](https://dev.to/shubhamdutta2000/mastering-javascript-debugging-best-practices-and-traps-to-avoid-41h6)
+- [Dev.to/JS] [Scope &amp; Closure in Javascript - Army of functions challenge](https://dev.to/ngquan/scope-closure-in-javascript-army-of-functions-challenge-dmg)
 - [Dev.to/JS] [Coercion and Falsy values in Javascript.](https://dev.to/thebooleanboy/coercion-and-falsy-values-in-javascript-iid)
 - [Dev.to/JS] [Boost Your Coding Efficiency with the Laf Assistant in VS Code](https://dev.to/carsonyang/boost-your-coding-efficiency-with-the-laf-assistant-in-vs-code-28h9)
 - [Dev.to/JS] [Day 7. Singly Linked List](https://dev.to/sosunnyproject/day-7-singly-linked-list-2om)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I&#39;m Enhancing Contractr: New Features and Brainstorming for Effective User Matching](https://dev.to/arashjangali/how-im-enhancing-contractr-new-features-and-brainstorming-for-effective-user-matching-23c6)
 - [Dev.to/JS] [Unleash Your E-commerce Potential: Why MedusaJS is the Ultimate Solution for Your Next Application](https://dev.to/balogunmaliko/unleash-your-e-commerce-potential-why-medusajs-is-the-ultimate-solution-for-your-next-application-7ep)
 - [Dev.to/JS] [How to set up routing in Angular to create single-page applications](https://dev.to/codev206/how-to-set-up-routing-in-angular-to-create-single-page-applications-4ch2)
-- [Dev.to/JS] [Making Four-In-A-Row - Part 3: Making Moves](https://dev.to/colinkiama/making-four-in-a-row-part-3-making-moves-22m)
-- [Dev.to/JS] [Making Four-In-A-Row - Part 2: Beginning](https://dev.to/colinkiama/making-four-in-a-row-part-2-beginning-14gp)
 - [Lifehacker] [Netflix Is Officially Ending Free Password Sharing &lpar;Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
 - [Lifehacker] [You Can Finally Add Multiple Links to Your Instagram Bio](https://lifehacker.com/you-can-finally-add-multiple-links-to-your-instagram-bi-1850353334)
 - [Lifehacker] [Why Your Tax Refund Wasn’t As Big This Year](https://lifehacker.com/why-your-tax-refund-wasn-t-as-big-this-year-1850350485)
