@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Router: A Beginners guide to useParams hook.](https://dev.to/stanlisberg/react-router-a-beginners-guide-to-useparams-hook-38pj)
 - [Dev.to/JS] [JavaScript Template Literals - The Beginners Guide To Javascript&lpar;Part 6&rpar;](https://dev.to/camskithedev/javascript-template-literals-the-beginners-guide-to-javascriptpart-6-1fan)
 - [Dev.to/JS] [`zod` Function Definitions in JavaScript Classes](https://dev.to/aacitelli/zod-function-definitions-in-javascript-classes-4b6l)
 - [Dev.to/JS] [How to optimize Cypress tests using JavaScript abilities? &lpar;Part 2. Recursion&rpar;](https://dev.to/sanzhanov/how-to-optimize-cypress-tests-using-javascript-abilities-part-2-recursion-3lb0)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SyntaxError: Unexpected reserved word &#39;await&#39; in JS](https://dev.to/coder9/syntaxerror-unexpected-reserved-word-await-in-js-3pgg)
 - [Lifehacker] [You Should Upcycle That Cardboard Drink Holder As a Kitchen Organizer](https://lifehacker.com/you-should-upcycle-that-cardboard-drink-holder-as-a-kit-1850352532)
 - [Lifehacker] [Are Sleepovers Finally Over?](https://lifehacker.com/are-sleepovers-finally-over-1850352705)
-- [Dev.to/JS] [5 Game-Changing Websites That Every Developer Must Have](https://dev.to/jon_snow789/5-game-changing-websites-that-every-developer-must-have-3ao0)
 - [Lifehacker] [What to Say &lpar;and Not Say&rpar; When Handing in Late Assignments, According to Professors](https://lifehacker.com/what-to-say-and-not-say-when-handing-in-late-assignme-1850343910)
 - [Lifehacker] [You Can ‘Unretire,’ but It Might Cost You](https://lifehacker.com/you-can-unretire-but-it-might-cost-you-1850353487)
 - [Lifehacker] [How to Move Your Seedlings Outside Without Killing Them](https://lifehacker.com/how-to-move-your-seedlings-outside-without-killing-them-1850346123)
