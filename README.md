@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding highWaterMark in Node.js Streams](https://dev.to/hateablestream/understanding-highwatermark-in-nodejs-streams-4fmb)
 - [Dev.to/JS] [Django vs Node js: The Extensive Guide for Decision Makers](https://dev.to/wasava/django-vs-node-js-the-extensive-guide-for-decision-makers-5c53)
 - [Dev.to/JS] [How To Deploy a React / Next.js Application with Apache2 on Ubuntu in AWS EC2 instance?](https://dev.to/aanis434/how-to-deploy-a-react-nextjs-application-with-apache2-on-ubuntu-in-aws-ec2-instance-221o)
 - [Lifehacker] [Prime Video Wants You to Actually Hear the Goddamn Dialogue](https://lifehacker.com/prime-video-wants-you-to-actually-hear-the-goddamn-dial-1850355601)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Move Your Seedlings Outside Without Killing Them](https://lifehacker.com/how-to-move-your-seedlings-outside-without-killing-them-1850346123)
 - [Dev.to/JS] [useMemo](https://dev.to/oluwatrillions/usememo-1ff8)
 - [Dev.to/JS] [Web Development: An Introduction to Working with REST APIs and JSON Data](https://dev.to/beginarjun/web-development-an-introduction-to-working-with-rest-apis-and-json-data-a4j)
-- [Dev.to/JS] [Generating negative tests with GPT-4](https://dev.to/zvone187/generating-negative-tests-with-gpt-4-2gd8)
 - [Lifehacker] [Allow Me to Suggest Inverted Chips and Dip](https://lifehacker.com/allow-me-to-suggest-inverted-chips-and-dip-1850350444)
 - [Lifehacker] [Why You Should Exercise Before Studying, According to Science](https://lifehacker.com/why-you-should-exercise-before-studying-according-to-s-1850347857)
 - [Lifehacker] [You Should Plant Artichokes and Asparagus Right Now](https://lifehacker.com/you-should-plant-artichokes-and-asparagus-right-now-1850346525)
