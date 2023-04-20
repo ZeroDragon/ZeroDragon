@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rest and Spread Operators Demystified: A Beginner’s Guide to Enhancing Your Programming Skills](https://dev.to/amersikira/rest-and-spread-operators-demystified-a-beginners-guide-to-enhancing-your-programming-skills-402o)
+- [Dev.to/JS] [How I&#39;m Enhancing Contractr: New Features and Brainstorming for Effective User Matching](https://dev.to/arashjangali/how-im-enhancing-contractr-new-features-and-brainstorming-for-effective-user-matching-23c6)
 - [Dev.to/JS] [Unleash Your E-commerce Potential: Why MedusaJS is the Ultimate Solution for Your Next Application](https://dev.to/balogunmaliko/unleash-your-e-commerce-potential-why-medusajs-is-the-ultimate-solution-for-your-next-application-7ep)
 - [Dev.to/JS] [How to set up routing in Angular to create single-page applications](https://dev.to/codev206/how-to-set-up-routing-in-angular-to-create-single-page-applications-4ch2)
 - [Dev.to/JS] [Making Four-In-A-Row - Part 3: Making Moves](https://dev.to/colinkiama/making-four-in-a-row-part-3-making-moves-22m)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Utilize o hook useDebugValue para adicionar rótulos personalizados a valores no React DevTools](https://dev.to/eliasgabriel1/utilize-o-hook-usedebugvalue-para-adicionar-rotulos-personalizados-a-valores-no-react-devtools-19j)
 - [Dev.to/JS] [ReactJS Best Practices: Tips and Tricks for Writing Better Code](https://dev.to/beginarjun/reactjs-best-practices-tips-and-tricks-for-writing-better-code-aaf)
 - [Lifehacker] [You Can Experience ‘Pluto Time’ Twice a Day on Earth](https://lifehacker.com/you-can-experience-pluto-time-twice-a-day-on-earth-1850349379)
-- [Dev.to/JS] [Nx Cloud 3.0 - Faster Cache, More Powerful DTE, Better Ergonomics](https://dev.to/nx/nx-cloud-30-faster-cache-more-powerful-dte-better-ergonomics-18a4)
 - [Lifehacker] [Your Frittata Might Need a Piece of Metal in It](https://lifehacker.com/your-frittata-might-need-a-piece-of-metal-in-it-1850346023)
-- [Dev.to/JS] [✨2023#15: Unlazy: Universal Lazy Loading](https://dev.to/jstoolsweekly/202315-unlazy-universal-lazy-loading-2817)
 - [Lifehacker] [Learn a New Language While Casually Browsing the Internet](https://lifehacker.com/learn-a-new-language-while-casually-browsing-the-intern-1850345991)
 - [Lifehacker] [Car Rentals Are Overcharging You for Tolls](https://lifehacker.com/car-rentals-are-overcharging-you-for-tolls-1850345927)
 - [Lifehacker] [How to Check If the Government Owes You Stimulus Money From 2022](https://lifehacker.com/how-to-check-if-the-government-owes-you-stimulus-money-1850348381)
