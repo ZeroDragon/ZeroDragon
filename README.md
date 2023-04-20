@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Starting and Stopping openGauss](https://dev.to/olivia_ma_350e4f6e00893e3/starting-and-stopping-opengauss-5fp5)
+- [Dev.to/JS] [lumigan eye drops price](https://dev.to/michaelsimo7/lumigan-eye-drops-price-1ldo)
+- [Dev.to/JS] [Using Node.js for Serverless Computing and Function as a Service &lpar;FaaS&rpar;](https://dev.to/folasayosamuel/using-nodejs-for-serverless-computing-and-function-as-a-service-faas-29if)
 - [Dev.to/JS] [Mastering JavaScript Debugging: Best Practices and Traps to Avoid](https://dev.to/shubhamdutta2000/mastering-javascript-debugging-best-practices-and-traps-to-avoid-41h6)
 - [Dev.to/JS] [Scope &amp; Closure in Javascript - Army of functions challenge](https://dev.to/ngquan/scope-closure-in-javascript-army-of-functions-challenge-dmg)
 - [Dev.to/JS] [Coercion and Falsy values in Javascript.](https://dev.to/thebooleanboy/coercion-and-falsy-values-in-javascript-iid)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [24H CÁ ĐỘ](https://dev.to/24hcado/24h-ca-do-57c8)
 - [Dev.to/JS] [Axios Network Error when making HTTP request](https://dev.to/coder9/axios-network-error-when-making-http-request-775)
 - [Dev.to/JS] [Rest and Spread Operators Demystified: A Beginner’s Guide to Enhancing Your Programming Skills](https://dev.to/amersikira/rest-and-spread-operators-demystified-a-beginners-guide-to-enhancing-your-programming-skills-402o)
-- [Dev.to/JS] [How I&#39;m Enhancing Contractr: New Features and Brainstorming for Effective User Matching](https://dev.to/arashjangali/how-im-enhancing-contractr-new-features-and-brainstorming-for-effective-user-matching-23c6)
-- [Dev.to/JS] [Unleash Your E-commerce Potential: Why MedusaJS is the Ultimate Solution for Your Next Application](https://dev.to/balogunmaliko/unleash-your-e-commerce-potential-why-medusajs-is-the-ultimate-solution-for-your-next-application-7ep)
-- [Dev.to/JS] [How to set up routing in Angular to create single-page applications](https://dev.to/codev206/how-to-set-up-routing-in-angular-to-create-single-page-applications-4ch2)
 - [Lifehacker] [Netflix Is Officially Ending Free Password Sharing &lpar;Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
 - [Lifehacker] [You Can Finally Add Multiple Links to Your Instagram Bio](https://lifehacker.com/you-can-finally-add-multiple-links-to-your-instagram-bi-1850353334)
 - [Lifehacker] [Why Your Tax Refund Wasn’t As Big This Year](https://lifehacker.com/why-your-tax-refund-wasn-t-as-big-this-year-1850350485)
