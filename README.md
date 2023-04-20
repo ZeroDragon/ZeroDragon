@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Test Custom Hook in ReactJS](https://dev.to/sachinchaurasiya/how-to-test-custom-hook-in-reactjs-12gg)
+- [Dev.to/JS] [The easiest way to create beautiful scroll animations | HTML, CSS, JavaScript](https://dev.to/xplodivity/the-easiest-way-to-create-beautiful-scroll-animations-html-css-javascript-45ek)
+- [Dev.to/JS] [Customizing Vizzu Charts - Mouse-wheel zooming](https://dev.to/simzer/customizing-vizzu-charts-mouse-wheel-zooming-1afk)
+- [Dev.to/JS] [Streamlining Test Automation with a Layered Framework](https://dev.to/danielwillium9355/streamlining-test-automation-with-a-layered-framework-po3)
+- [Dev.to/JS] [openGauss DML Syntax Overview](https://dev.to/olivia_ma_350e4f6e00893e3/opengauss-dml-syntax-overview-g28)
 - [Dev.to/JS] [Starting and Stopping openGauss](https://dev.to/olivia_ma_350e4f6e00893e3/starting-and-stopping-opengauss-5fp5)
 - [Dev.to/JS] [lumigan eye drops price](https://dev.to/michaelsimo7/lumigan-eye-drops-price-1ldo)
 - [Dev.to/JS] [Using Node.js for Serverless Computing and Function as a Service &lpar;FaaS&rpar;](https://dev.to/folasayosamuel/using-nodejs-for-serverless-computing-and-function-as-a-service-faas-29if)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Scope &amp; Closure in Javascript - Army of functions challenge](https://dev.to/ngquan/scope-closure-in-javascript-army-of-functions-challenge-dmg)
 - [Dev.to/JS] [Coercion and Falsy values in Javascript.](https://dev.to/thebooleanboy/coercion-and-falsy-values-in-javascript-iid)
 - [Dev.to/JS] [Boost Your Coding Efficiency with the Laf Assistant in VS Code](https://dev.to/carsonyang/boost-your-coding-efficiency-with-the-laf-assistant-in-vs-code-28h9)
-- [Dev.to/JS] [Day 7. Singly Linked List](https://dev.to/sosunnyproject/day-7-singly-linked-list-2om)
-- [Dev.to/JS] [Text Games using Python and JS](https://dev.to/matias56/text-games-using-python-and-js-23nn)
-- [Dev.to/JS] [24H CÁ ĐỘ](https://dev.to/24hcado/24h-ca-do-57c8)
-- [Dev.to/JS] [Axios Network Error when making HTTP request](https://dev.to/coder9/axios-network-error-when-making-http-request-775)
-- [Dev.to/JS] [Rest and Spread Operators Demystified: A Beginner’s Guide to Enhancing Your Programming Skills](https://dev.to/amersikira/rest-and-spread-operators-demystified-a-beginners-guide-to-enhancing-your-programming-skills-402o)
 - [Lifehacker] [Netflix Is Officially Ending Free Password Sharing &lpar;Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
 - [Lifehacker] [You Can Finally Add Multiple Links to Your Instagram Bio](https://lifehacker.com/you-can-finally-add-multiple-links-to-your-instagram-bi-1850353334)
 - [Lifehacker] [Why Your Tax Refund Wasn’t As Big This Year](https://lifehacker.com/why-your-tax-refund-wasn-t-as-big-this-year-1850350485)
