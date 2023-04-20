@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Django vs Node js: The Extensive Guide for Decision Makers](https://dev.to/wasava/django-vs-node-js-the-extensive-guide-for-decision-makers-5c53)
+- [Dev.to/JS] [How To Deploy a React / Next.js Application with Apache2 on Ubuntu in AWS EC2 instance?](https://dev.to/aanis434/how-to-deploy-a-react-nextjs-application-with-apache2-on-ubuntu-in-aws-ec2-instance-221o)
+- [Lifehacker] [Prime Video Wants You to Actually Hear the Goddamn Dialogue](https://lifehacker.com/prime-video-wants-you-to-actually-hear-the-goddamn-dial-1850355601)
+- [Dev.to/JS] [Cracked: Why Will&#39;s JavaScript The Hard Parts class is so efficient](https://dev.to/mihneasim/cracked-why-wills-javascript-the-hard-parts-class-is-so-efficient-10e4)
+- [Lifehacker] [The Best Technique for Using a Playground Swing, According to Physicists](https://lifehacker.com/the-best-technique-for-using-a-playground-swing-accord-1850355533)
 - [Dev.to/JS] [3.8 - Growing your Brand with Ankita Kulkarni](https://dev.to/codingcatdev/38-growing-your-brand-with-ankita-kulkarni-4b4j)
 - [Lifehacker] [Which Fermented Foods Are Actually Good For You?](https://lifehacker.com/which-fermented-foods-are-actually-good-for-you-1850350371)
 - [Dev.to/JS] [LeetCode - Sort list](https://dev.to/_alkesh26/leetcode-sort-list-443o)
@@ -38,11 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useMemo](https://dev.to/oluwatrillions/usememo-1ff8)
 - [Dev.to/JS] [Web Development: An Introduction to Working with REST APIs and JSON Data](https://dev.to/beginarjun/web-development-an-introduction-to-working-with-rest-apis-and-json-data-a4j)
 - [Dev.to/JS] [Generating negative tests with GPT-4](https://dev.to/zvone187/generating-negative-tests-with-gpt-4-2gd8)
-- [Dev.to/JS] [Svelte Stores x Dexie 2.0](https://dev.to/nicoheinrich/svelte-stores-x-dexie-20-5m6)
 - [Lifehacker] [Allow Me to Suggest Inverted Chips and Dip](https://lifehacker.com/allow-me-to-suggest-inverted-chips-and-dip-1850350444)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank:Livro de lições especiais](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerranklivro-de-licoes-especiais-2i5l)
 - [Lifehacker] [Why You Should Exercise Before Studying, According to Science](https://lifehacker.com/why-you-should-exercise-before-studying-according-to-s-1850347857)
-- [Dev.to/JS] [TypeScript](https://dev.to/nguyenphatit/typescript-42e9)
 - [Lifehacker] [You Should Plant Artichokes and Asparagus Right Now](https://lifehacker.com/you-should-plant-artichokes-and-asparagus-right-now-1850346525)
 - [Lifehacker] [Get a Free Extra Ticket to See a Movie This Weekend](https://lifehacker.com/get-a-free-extra-ticket-to-see-a-movie-this-weekend-1850354146)
 - [Lifehacker] [Netflix Is Officially Ending Free Password Sharing &lpar;Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Weather Apps Actually Care About Your Privacy](https://lifehacker.com/these-weather-apps-actually-care-about-your-privacy-1850342974)
 - [Lifehacker] [Make Homemade Bialys With Packaged Pizza Dough](https://lifehacker.com/make-homemade-bialys-with-packaged-pizza-dough-1850349658)
 - [Lifehacker] [Facebook Probably Owes You Money](https://lifehacker.com/facebook-probably-owes-you-money-1850350640)
-- [Lifehacker] [Gamestop Is Having a Buy-One-Get-One Sale for These Popular Games](https://lifehacker.com/gamestop-is-having-a-buy-one-get-one-sale-for-these-pop-1850349375)
-- [Lifehacker] [Regal’s ‘Surround-Screen’ Movies Are Just $3 a Ticket Right Now](https://lifehacker.com/regal-s-surround-screen-movies-are-just-3-a-ticket-r-1850345171)
-- [Lifehacker] [What&#39;s New on Hulu in May 2023](https://lifehacker.com/whats-new-on-hulu-in-may-2023-1850349866)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Gamestop Is Having a Buy-One-Get-One Sale for These Popular Games](https://lifehacker.com/gamestop-is-having-a-buy-one-get-one-sale-for-these-pop-1850349375)<!-- TECH-POSTS:END -->
 
 ---
 
