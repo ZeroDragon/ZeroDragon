@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WordPress VS. JavaScript: Which One Is Better?](https://dev.to/flatlogic/wordpress-vs-javascript-which-one-is-better-296i)
+- [Lifehacker] [You Should Plant Artichokes and Asparagus Right Now](https://lifehacker.com/you-should-plant-artichokes-and-asparagus-right-now-1850346525)
+- [Lifehacker] [Get a Free Extra Ticket to See a Movie This Weekend](https://lifehacker.com/get-a-free-extra-ticket-to-see-a-movie-this-weekend-1850354146)
+- [Dev.to/JS] [17 Dreadful Website Redesign Mistakes To Avoid In 2023](https://dev.to/scofieldidehen/17-dreadful-website-redesign-mistakes-to-avoid-in-2023-2jo5)
+- [Dev.to/JS] [What is Object Reference in JavaScript](https://dev.to/odudev/what-is-object-reference-in-javascript-43oc)
 - [Dev.to/JS] [Vite, Yarn and Vue with Docker](https://dev.to/the_teacher/vite-yarn-and-vue-with-docker-1mmp)
 - [Dev.to/JS] [My little Markdown Parser](https://dev.to/frankwisniewski/my-little-markdown-parser-4dp8)
 - [Dev.to/JS] [The key things you need to successfully break into tech.](https://dev.to/chidiebereomasi/the-key-things-you-need-to-successfully-break-into-tech-5gjp)
@@ -32,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From Code to Slope: AgentConf 2023](https://dev.to/pujux/from-code-to-slope-agentconf-2023-1fi5)
 - [Dev.to/JS] [&#39;useEffect&#39; in depth](https://dev.to/lausuarez02/useeffect-in-depth-30hp)
 - [Dev.to/JS] [Using Flight Data API with React.js](https://dev.to/haszankauna/using-flight-data-api-with-reactjs-5050)
-- [Dev.to/JS] [Understanding Conditional Statements in JavaScript: A Beginner&#39;s Guide](https://dev.to/theshrish46/understanding-conditional-statements-in-javascript-a-beginners-guide-2cd)
-- [Dev.to/JS] [async &amp; await](https://dev.to/codeofaccuracy/async-await-4a9f)
-- [Dev.to/JS] [From Tech Tinkerer to Full-Stack Web Developer: My Personal Journey](https://dev.to/techtinkererfullstack/from-tech-tinkerer-to-full-stack-web-developer-my-personal-journey-ohi)
 - [Lifehacker] [Netflix Is Officially Ending Free Password Sharing &lpar;Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
 - [Lifehacker] [You Can Finally Add Multiple Links to Your Instagram Bio](https://lifehacker.com/you-can-finally-add-multiple-links-to-your-instagram-bi-1850353334)
 - [Lifehacker] [Why Your Tax Refund Wasn’t As Big This Year](https://lifehacker.com/why-your-tax-refund-wasn-t-as-big-this-year-1850350485)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Delete These Malware Apps From Your Android Device ASAP](https://lifehacker.com/delete-these-malware-apps-from-your-android-device-asap-1850348143)
 - [Lifehacker] [You Can Try Auto-GPT, the Next Generation of ChatGPT, Right Now](https://lifehacker.com/you-can-try-auto-gpt-the-next-generation-of-chatgpt-r-1850343691)
 - [Lifehacker] [42 Highbrow Movies to Watch When You&#39;re Totally High](https://lifehacker.com/42-highbrow-films-to-watch-when-youre-totally-high-1848796343)
-- [Lifehacker] [Why You Lost Wordle Today](https://lifehacker.com/why-you-lost-wordle-today-1850348061)
-- [Crazy Programmer] [Barbara Liskov Biography](https://www.thecrazyprogrammer.com/2023/04/barbara-liskov-biography.html)
-- [Lifehacker] [The Best Low-Maintenance Plants for Your Garden](https://lifehacker.com/the-best-low-maintenance-plants-for-your-garden-1850344419)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Lost Wordle Today](https://lifehacker.com/why-you-lost-wordle-today-1850348061)<!-- TECH-POSTS:END -->
 
 ---
 
