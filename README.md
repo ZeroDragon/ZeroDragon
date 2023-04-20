@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Template Literals - The Beginners Guide To Javascript&lpar;Part 6&rpar;](https://dev.to/camskithedev/javascript-template-literals-the-beginners-guide-to-javascriptpart-6-1fan)
+- [Dev.to/JS] [`zod` Function Definitions in JavaScript Classes](https://dev.to/aacitelli/zod-function-definitions-in-javascript-classes-4b6l)
+- [Dev.to/JS] [How to optimize Cypress tests using JavaScript abilities? &lpar;Part 2. Recursion&rpar;](https://dev.to/sanzhanov/how-to-optimize-cypress-tests-using-javascript-abilities-part-2-recursion-3lb0)
+- [Dev.to/JS] [How I made Image to PDF converter tool in JavaScript](https://dev.to/vaib215/how-i-made-image-to-pdf-converter-tool-in-javascript-3723)
 - [Dev.to/JS] [Understanding highWaterMark in Node.js Streams](https://dev.to/hateablestream/understanding-highwatermark-in-nodejs-streams-4fmb)
 - [Dev.to/JS] [Django vs Node js: The Extensive Guide for Decision Makers](https://dev.to/wasava/django-vs-node-js-the-extensive-guide-for-decision-makers-5c53)
 - [Dev.to/JS] [How To Deploy a React / Next.js Application with Apache2 on Ubuntu in AWS EC2 instance?](https://dev.to/aanis434/how-to-deploy-a-react-nextjs-application-with-apache2-on-ubuntu-in-aws-ec2-instance-221o)
@@ -36,13 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Upcycle That Cardboard Drink Holder As a Kitchen Organizer](https://lifehacker.com/you-should-upcycle-that-cardboard-drink-holder-as-a-kit-1850352532)
 - [Lifehacker] [Are Sleepovers Finally Over?](https://lifehacker.com/are-sleepovers-finally-over-1850352705)
 - [Dev.to/JS] [5 Game-Changing Websites That Every Developer Must Have](https://dev.to/jon_snow789/5-game-changing-websites-that-every-developer-must-have-3ao0)
-- [Dev.to/JS] [Key RxJS Operators Every Angular Developer Should Know](https://dev.to/danywalls/key-rxjs-operators-every-angular-developer-should-know-41n8)
 - [Lifehacker] [What to Say &lpar;and Not Say&rpar; When Handing in Late Assignments, According to Professors](https://lifehacker.com/what-to-say-and-not-say-when-handing-in-late-assignme-1850343910)
-- [Dev.to/JS] [Building a Backend with TypeORM and PostgreSQL](https://dev.to/cricketsamya/building-a-backend-with-typeorm-and-postgresql-60m)
 - [Lifehacker] [You Can ‘Unretire,’ but It Might Cost You](https://lifehacker.com/you-can-unretire-but-it-might-cost-you-1850353487)
 - [Lifehacker] [How to Move Your Seedlings Outside Without Killing Them](https://lifehacker.com/how-to-move-your-seedlings-outside-without-killing-them-1850346123)
-- [Dev.to/JS] [useMemo](https://dev.to/oluwatrillions/usememo-1ff8)
-- [Dev.to/JS] [Web Development: An Introduction to Working with REST APIs and JSON Data](https://dev.to/beginarjun/web-development-an-introduction-to-working-with-rest-apis-and-json-data-a4j)
 - [Lifehacker] [Allow Me to Suggest Inverted Chips and Dip](https://lifehacker.com/allow-me-to-suggest-inverted-chips-and-dip-1850350444)
 - [Lifehacker] [Why You Should Exercise Before Studying, According to Science](https://lifehacker.com/why-you-should-exercise-before-studying-according-to-s-1850347857)
 - [Lifehacker] [You Should Plant Artichokes and Asparagus Right Now](https://lifehacker.com/you-should-plant-artichokes-and-asparagus-right-now-1850346525)
