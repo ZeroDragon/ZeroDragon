@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Move Your Seedlings Outside Without Killing Them](https://lifehacker.com/how-to-move-your-seedlings-outside-without-killing-them-1850346123)
+- [Dev.to/JS] [useMemo](https://dev.to/oluwatrillions/usememo-1ff8)
+- [Dev.to/JS] [Web Development: An Introduction to Working with REST APIs and JSON Data](https://dev.to/beginarjun/web-development-an-introduction-to-working-with-rest-apis-and-json-data-a4j)
+- [Dev.to/JS] [Generating negative tests with GPT-4](https://dev.to/zvone187/generating-negative-tests-with-gpt-4-2gd8)
 - [Lifehacker] [Allow Me to Suggest Inverted Chips and Dip](https://lifehacker.com/allow-me-to-suggest-inverted-chips-and-dip-1850350444)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank:Livro de lições especiais](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerranklivro-de-licoes-especiais-2i5l)
 - [Lifehacker] [Why You Should Exercise Before Studying, According to Science](https://lifehacker.com/why-you-should-exercise-before-studying-according-to-s-1850347857)
@@ -36,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [17 Dreadful Website Redesign Mistakes To Avoid In 2023](https://dev.to/scofieldidehen/17-dreadful-website-redesign-mistakes-to-avoid-in-2023-2jo5)
 - [Dev.to/JS] [What is Object Reference in JavaScript](https://dev.to/odudev/what-is-object-reference-in-javascript-43oc)
 - [Dev.to/JS] [Vite, Yarn and Vue with Docker](https://dev.to/the_teacher/vite-yarn-and-vue-with-docker-1mmp)
-- [Dev.to/JS] [My little Markdown Parser](https://dev.to/frankwisniewski/my-little-markdown-parser-4dp8)
-- [Dev.to/JS] [The key things you need to successfully break into tech.](https://dev.to/chidiebereomasi/the-key-things-you-need-to-successfully-break-into-tech-5gjp)
-- [Dev.to/JS] [How to Master Programming: Top Free Courses to Help You Begin Your Journey](https://dev.to/naser_shareef/how-to-master-programming-top-free-courses-to-help-you-begin-your-journey-38k2)
 - [Lifehacker] [Netflix Is Officially Ending Free Password Sharing &lpar;Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
 - [Lifehacker] [You Can Finally Add Multiple Links to Your Instagram Bio](https://lifehacker.com/you-can-finally-add-multiple-links-to-your-instagram-bi-1850353334)
 - [Lifehacker] [Why Your Tax Refund Wasn’t As Big This Year](https://lifehacker.com/why-your-tax-refund-wasn-t-as-big-this-year-1850350485)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Disney+ in May 2023](https://lifehacker.com/whats-new-on-disney-in-may-2023-1850349256)
 - [Lifehacker] [How to Tell If You’re Buying Nudes of a Real Person...or AI Porn](https://lifehacker.com/how-to-tell-if-you-re-buying-nudes-of-a-real-person-o-1850344588)
 - [Lifehacker] [These Homemade Syrups Are Better Than the Stuff You See on TikTok](https://lifehacker.com/these-homemade-syrups-are-better-than-the-stuff-you-see-1850339690)
-- [Lifehacker] [Delete These Malware Apps From Your Android Device ASAP](https://lifehacker.com/delete-these-malware-apps-from-your-android-device-asap-1850348143)
-- [Lifehacker] [You Can Try Auto-GPT, the Next Generation of ChatGPT, Right Now](https://lifehacker.com/you-can-try-auto-gpt-the-next-generation-of-chatgpt-r-1850343691)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Delete These Malware Apps From Your Android Device ASAP](https://lifehacker.com/delete-these-malware-apps-from-your-android-device-asap-1850348143)<!-- TECH-POSTS:END -->
 
 ---
 
