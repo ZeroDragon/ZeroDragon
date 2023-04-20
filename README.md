@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [24H CÁ ĐỘ](https://dev.to/24hcado/24h-ca-do-57c8)
+- [Dev.to/JS] [Axios Network Error when making HTTP request](https://dev.to/coder9/axios-network-error-when-making-http-request-775)
 - [Dev.to/JS] [Rest and Spread Operators Demystified: A Beginner’s Guide to Enhancing Your Programming Skills](https://dev.to/amersikira/rest-and-spread-operators-demystified-a-beginners-guide-to-enhancing-your-programming-skills-402o)
 - [Dev.to/JS] [How I&#39;m Enhancing Contractr: New Features and Brainstorming for Effective User Matching](https://dev.to/arashjangali/how-im-enhancing-contractr-new-features-and-brainstorming-for-effective-user-matching-23c6)
 - [Dev.to/JS] [Unleash Your E-commerce Potential: Why MedusaJS is the Ultimate Solution for Your Next Application](https://dev.to/balogunmaliko/unleash-your-e-commerce-potential-why-medusajs-is-the-ultimate-solution-for-your-next-application-7ep)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Netflix Is Officially Ending Free Password Sharing &lpar;Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
 - [Lifehacker] [You Can Finally Add Multiple Links to Your Instagram Bio](https://lifehacker.com/you-can-finally-add-multiple-links-to-your-instagram-bi-1850353334)
 - [Lifehacker] [Why Your Tax Refund Wasn’t As Big This Year](https://lifehacker.com/why-your-tax-refund-wasn-t-as-big-this-year-1850350485)
-- [Dev.to/JS] [Utilize o hook useDebugValue para adicionar rótulos personalizados a valores no React DevTools](https://dev.to/eliasgabriel1/utilize-o-hook-usedebugvalue-para-adicionar-rotulos-personalizados-a-valores-no-react-devtools-19j)
-- [Dev.to/JS] [ReactJS Best Practices: Tips and Tricks for Writing Better Code](https://dev.to/beginarjun/reactjs-best-practices-tips-and-tricks-for-writing-better-code-aaf)
 - [Lifehacker] [You Can Experience ‘Pluto Time’ Twice a Day on Earth](https://lifehacker.com/you-can-experience-pluto-time-twice-a-day-on-earth-1850349379)
 - [Lifehacker] [Your Frittata Might Need a Piece of Metal in It](https://lifehacker.com/your-frittata-might-need-a-piece-of-metal-in-it-1850346023)
 - [Lifehacker] [Learn a New Language While Casually Browsing the Internet](https://lifehacker.com/learn-a-new-language-while-casually-browsing-the-intern-1850345991)
