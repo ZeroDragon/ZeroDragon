@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 7. Singly Linked List](https://dev.to/sosunnyproject/day-7-singly-linked-list-2om)
+- [Dev.to/JS] [Text Games using Python and JS](https://dev.to/matias56/text-games-using-python-and-js-23nn)
 - [Dev.to/JS] [24H CÁ ĐỘ](https://dev.to/24hcado/24h-ca-do-57c8)
 - [Dev.to/JS] [Axios Network Error when making HTTP request](https://dev.to/coder9/axios-network-error-when-making-http-request-775)
 - [Dev.to/JS] [Rest and Spread Operators Demystified: A Beginner’s Guide to Enhancing Your Programming Skills](https://dev.to/amersikira/rest-and-spread-operators-demystified-a-beginners-guide-to-enhancing-your-programming-skills-402o)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Making Four-In-A-Row - Part 2: Beginning](https://dev.to/colinkiama/making-four-in-a-row-part-2-beginning-14gp)
 - [Dev.to/JS] [Making Four-In-A-Row - Part 1: Setup](https://dev.to/colinkiama/making-four-in-a-row-part-1-setup-18fm)
 - [Dev.to/JS] [Next.js + AWS S3 Upload](https://dev.to/imevanc/nextjs-aws-s3-upload-3njb)
-- [Dev.to/JS] [Introduction to Web Animations with GSAP](https://dev.to/topboyasante/introduction-to-web-animations-with-gsap-645)
-- [Dev.to/JS] [Mobile app development company in india](https://dev.to/sophieh59544922/mobile-app-development-company-in-india-3lee)
 - [Lifehacker] [Netflix Is Officially Ending Free Password Sharing &lpar;Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
 - [Lifehacker] [You Can Finally Add Multiple Links to Your Instagram Bio](https://lifehacker.com/you-can-finally-add-multiple-links-to-your-instagram-bi-1850353334)
 - [Lifehacker] [Why Your Tax Refund Wasn’t As Big This Year](https://lifehacker.com/why-your-tax-refund-wasn-t-as-big-this-year-1850350485)
