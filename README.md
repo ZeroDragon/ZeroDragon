@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Prom Pictures With Goats?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-prom-pic-1850362453)
 - [Lifehacker] [Snapchat&#39;s AI Bot Might Be the Easiest Way to Access ChatGPT](https://lifehacker.com/snapchats-ai-bot-might-be-the-easiest-way-to-access-cha-1850362083)
 - [Dev.to/JS] [Updates on my #buildinpublic effort](https://dev.to/fpsd/updates-on-my-buildinpublic-effort-1agi)
 - [Lifehacker] [Find Out If You Live in One of the Most Polluted US Cities](https://lifehacker.com/find-out-if-you-live-in-one-of-the-most-polluted-us-cit-1850357768)
@@ -41,9 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [`openapi-endpoint-trimmer` - JavaScript CLI Tool to Trim OpenAPI Paths / Endpoints](https://dev.to/aacitelli/openapi-endpoint-trimmer-javascript-cli-tool-to-trim-openapi-paths-endpoints-4mo4)
 - [Dev.to/JS] [Dark Mode Toggle and prefers-color-scheme](https://dev.to/abbeyperini/dark-mode-toggle-and-prefers-color-scheme-4f3m)
 - [Dev.to/JS] [You Don&#39;t Know The REAL Theory Behind Node.JS!](https://dev.to/atenadadkhah/you-dont-know-the-real-theory-behind-nodejs-2hdo)
+- [Dev.to/JS] [Microfrontends in ReactJS](https://dev.to/giveitatry/microfrontends-in-reactjs-do5)
 - [Lifehacker] [No, You Don’t Need to ‘Balance’ Your Hormones If You Have Period Flu](https://lifehacker.com/no-you-don-t-need-to-balance-your-hormones-if-you-ha-1850354729)
 - [Lifehacker] [Don’t Cash Out Your 401&lpar;k&rpar; When You Leave Your Job](https://lifehacker.com/don-t-cash-out-your-401-k-when-you-leave-your-job-1850354812)
-- [Dev.to/JS] [Shared tests - how to write reusable Storybook Interaction Tests](https://dev.to/scottnath/shared-tests-how-to-write-reusable-storybook-interaction-tests-489c)
 - [Lifehacker] [Construct a DIY Solar-Powered Water Feature for Your Garden](https://lifehacker.com/construct-a-diy-solar-powered-water-feature-for-your-ga-1850346103)
 - [Lifehacker] [How to Harvest Free Food on Your Next Vacation](https://lifehacker.com/how-to-harvest-free-food-on-your-next-vacation-1850321207)
 - [Lifehacker] [10 Movie Trilogies That Actually Stuck the Landing](https://lifehacker.com/10-movie-trilogies-that-actually-stuck-the-landing-1850345569)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Plant Artichokes and Asparagus Right Now](https://lifehacker.com/you-should-plant-artichokes-and-asparagus-right-now-1850346525)
 - [Lifehacker] [Get a Free Extra Ticket to See a Movie This Weekend](https://lifehacker.com/get-a-free-extra-ticket-to-see-a-movie-this-weekend-1850354146)
 - [Lifehacker] [Netflix Is Officially Ending Free Password Sharing &lpar;Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
-- [Lifehacker] [You Can Finally Add Multiple Links to Your Instagram Bio](https://lifehacker.com/you-can-finally-add-multiple-links-to-your-instagram-bi-1850353334)
-- [Lifehacker] [Why Your Tax Refund Wasn’t As Big This Year](https://lifehacker.com/why-your-tax-refund-wasn-t-as-big-this-year-1850350485)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Finally Add Multiple Links to Your Instagram Bio](https://lifehacker.com/you-can-finally-add-multiple-links-to-your-instagram-bi-1850353334)<!-- TECH-POSTS:END -->
 
 ---
 
