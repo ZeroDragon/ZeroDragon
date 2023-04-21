@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 Movie Trilogies That Actually Stuck the Landing](https://lifehacker.com/10-movie-trilogies-that-actually-stuck-the-landing-1850345569)
+- [Dev.to/JS] [Best practices every beginner in React.js must follow to increase productivity](https://dev.to/qbentil/best-practices-every-beginner-in-reactjs-must-follow-to-increase-productivity-2kjc)
+- [Dev.to/JS] [How To Create NEXTJS sitemap without any libraries](https://dev.to/omriluz/how-to-create-nextjs-sitemap-without-any-libraries-3kfg)
+- [Lifehacker] [How to Try Bluesky, the Decentralized Twitter Clone](https://lifehacker.com/how-to-try-bluesky-the-decentralized-twitter-clone-1850358929)
 - [Dev.to/JS] [VS Code Extensions to Take Your Coding to the Next Level](https://dev.to/documatic/vs-code-extensions-to-take-your-coding-to-the-next-level-50od)
 - [Dev.to/JS] [Show active navigation link in JavaScript](https://dev.to/coder4_life/show-active-navigation-link-in-javascript-309g)
 - [Dev.to/JS] [Let’s create a Node CLI for generating files from templates!](https://dev.to/dusan100janovic/lets-create-a-node-cli-for-generating-files-from-templates-4m05)
@@ -33,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js fundamentals](https://dev.to/hassanhabibtahir/nextjs-fundamentals-19ho)
 - [Dev.to/JS] [Rounding errors in JavaScript](https://dev.to/kristof1345/rounding-errors-in-javascript-2b93)
 - [Dev.to/JS] [Hoisting in JavaScript](https://dev.to/devlawrence/hoisting-in-javascript-5bk5)
-- [Dev.to/JS] [Top 5 Must-Have Technologies Every Developer Should Bookmark](https://dev.to/aaikansh_22/top-5-must-have-technologies-every-developer-should-bookmark-bo5)
-- [Dev.to/JS] [Covert Object into Array 😎](https://dev.to/anishkuls/covert-object-into-array-406p)
 - [Lifehacker] [Prime Video Wants You to Actually Hear the Goddamn Dialogue](https://lifehacker.com/prime-video-wants-you-to-actually-hear-the-goddamn-dial-1850355601)
 - [Lifehacker] [The Best Technique for Using a Playground Swing, According to Physicists](https://lifehacker.com/the-best-technique-for-using-a-playground-swing-accord-1850355533)
 - [Lifehacker] [Which Fermented Foods Are Actually Good For You?](https://lifehacker.com/which-fermented-foods-are-actually-good-for-you-1850350371)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Know About Investing in ChatGPT, According to ChatGPT](https://lifehacker.com/what-to-know-about-investing-in-chatgpt-according-to-c-1850344557)
 - [Lifehacker] [Where to Get Gardening and Landscaping Materials for Free or Cheap](https://lifehacker.com/where-to-get-gardening-and-landscaping-materials-for-fr-1850346771)
 - [Lifehacker] [These Weather Apps Actually Care About Your Privacy](https://lifehacker.com/these-weather-apps-actually-care-about-your-privacy-1850342974)
-- [Lifehacker] [Make Homemade Bialys With Packaged Pizza Dough](https://lifehacker.com/make-homemade-bialys-with-packaged-pizza-dough-1850349658)
-- [Lifehacker] [Facebook Probably Owes You Money](https://lifehacker.com/facebook-probably-owes-you-money-1850350640)
-- [Lifehacker] [Gamestop Is Having a Buy-One-Get-One Sale for These Popular Games](https://lifehacker.com/gamestop-is-having-a-buy-one-get-one-sale-for-these-pop-1850349375)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Homemade Bialys With Packaged Pizza Dough](https://lifehacker.com/make-homemade-bialys-with-packaged-pizza-dough-1850349658)<!-- TECH-POSTS:END -->
 
 ---
 
