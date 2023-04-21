@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Preventing Form Input Lag in Material UI ReactJS](https://dev.to/dryluigi/preventing-form-input-lag-in-material-ui-reactjs-5h1d)
+- [Dev.to/JS] [THE VAR, LET &amp; CONST KEYWORDS &lpar;Definitions, differences &amp; when to use them&rpar;](https://dev.to/maame_afia/the-var-let-const-keywords-definitions-differences-when-to-use-them-f4l)
+- [Dev.to/JS] [A minimal ChatGPT client by vanilla javascript, run from local or any web host](https://dev.to/casualwriter/a-minimal-chatgpt-client-by-vanilla-javascript-run-from-local-or-any-web-host-2nim)
 - [Dev.to/JS] [SOCIAL ANXIETY DISORDER IN THE TECH ECOSPACE](https://dev.to/spiritdivine/social-anxiety-disorder-in-the-tech-ecospace-5fe7)
 - [Dev.to/JS] [Building Better Connections: Progress on the Contractr Matching Feature](https://dev.to/arashjangali/building-better-connections-progress-on-the-contractr-matching-feature-29dp)
 - [Dev.to/JS] [How I Used ChatGPT To Improve My Code](https://dev.to/lutterlohdev/how-i-used-chatgpt-to-improve-my-code-168e)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Template Literals - The Beginners Guide To Javascript&lpar;Part 6&rpar;](https://dev.to/camskithedev/javascript-template-literals-the-beginners-guide-to-javascriptpart-6-1fan)
 - [Dev.to/JS] [`zod` Function Definitions in JavaScript Classes](https://dev.to/aacitelli/zod-function-definitions-in-javascript-classes-4b6l)
 - [Dev.to/JS] [How to optimize Cypress tests using JavaScript abilities? &lpar;Part 2. Recursion&rpar;](https://dev.to/sanzhanov/how-to-optimize-cypress-tests-using-javascript-abilities-part-2-recursion-3lb0)
-- [Dev.to/JS] [How I made Image to PDF converter tool in JavaScript](https://dev.to/vaib215/how-i-made-image-to-pdf-converter-tool-in-javascript-3723)
-- [Dev.to/JS] [Understanding highWaterMark in Node.js Streams](https://dev.to/hateablestream/understanding-highwatermark-in-nodejs-streams-4fmb)
-- [Dev.to/JS] [Django vs Node js: The Extensive Guide for Decision Makers](https://dev.to/wasava/django-vs-node-js-the-extensive-guide-for-decision-makers-5c53)
 - [Lifehacker] [Prime Video Wants You to Actually Hear the Goddamn Dialogue](https://lifehacker.com/prime-video-wants-you-to-actually-hear-the-goddamn-dial-1850355601)
 - [Lifehacker] [The Best Technique for Using a Playground Swing, According to Physicists](https://lifehacker.com/the-best-technique-for-using-a-playground-swing-accord-1850355533)
 - [Lifehacker] [Which Fermented Foods Are Actually Good For You?](https://lifehacker.com/which-fermented-foods-are-actually-good-for-you-1850350371)
