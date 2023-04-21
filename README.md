@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Which is better: the Metaverse or Virtual Reality?](https://dev.to/pavandkumar35/which-is-better-the-metaverse-or-virtual-reality-573o)
+- [Dev.to/JS] [Rounding errors in JavaScript](https://dev.to/kristof1345/rounding-errors-in-javascript-2b93)
 - [Dev.to/JS] [Hoisting in JavaScript](https://dev.to/devlawrence/hoisting-in-javascript-5bk5)
 - [Dev.to/JS] [Top 5 Must-Have Technologies Every Developer Should Bookmark](https://dev.to/aaikansh_22/top-5-must-have-technologies-every-developer-should-bookmark-bo5)
 - [Dev.to/JS] [Covert Object into Array 😎](https://dev.to/anishkuls/covert-object-into-array-406p)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A flexible Node.js multifunctional crawler library —— x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-multifunctional-crawler-library-x-crawl-3ja7)
 - [Dev.to/JS] [Testing Excel Data with Cypress](https://dev.to/sanzhanov/testing-excel-data-with-cypress-1f1n)
 - [Dev.to/JS] [Name and Greet Project](https://dev.to/ademto/name-and-greet-project-3ded)
-- [Dev.to/JS] [Preventing Form Input Lag in Material UI ReactJS](https://dev.to/dryluigi/preventing-form-input-lag-in-material-ui-reactjs-5h1d)
-- [Dev.to/JS] [THE VAR, LET &amp; CONST KEYWORDS &lpar;Definitions, differences &amp; when to use them&rpar;](https://dev.to/maame_afia/the-var-let-const-keywords-definitions-differences-when-to-use-them-f4l)
 - [Lifehacker] [Prime Video Wants You to Actually Hear the Goddamn Dialogue](https://lifehacker.com/prime-video-wants-you-to-actually-hear-the-goddamn-dial-1850355601)
 - [Lifehacker] [The Best Technique for Using a Playground Swing, According to Physicists](https://lifehacker.com/the-best-technique-for-using-a-playground-swing-accord-1850355533)
 - [Lifehacker] [Which Fermented Foods Are Actually Good For You?](https://lifehacker.com/which-fermented-foods-are-actually-good-for-you-1850350371)
