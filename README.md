@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SOCIAL ANXIETY DISORDER IN THE TECH ECOSPACE](https://dev.to/spiritdivine/social-anxiety-disorder-in-the-tech-ecospace-5fe7)
+- [Dev.to/JS] [Building Better Connections: Progress on the Contractr Matching Feature](https://dev.to/arashjangali/building-better-connections-progress-on-the-contractr-matching-feature-29dp)
+- [Dev.to/JS] [How I Used ChatGPT To Improve My Code](https://dev.to/lutterlohdev/how-i-used-chatgpt-to-improve-my-code-168e)
 - [Dev.to/JS] [Function&lpar;al&rpar; Thinking 🧠](https://dev.to/aoppman/functional-thinking-4nle)
 - [Dev.to/JS] [Make a JavaScript Chess Board](https://dev.to/kschneider0/make-a-javascript-chess-board-4cmo)
 - [Dev.to/JS] [React Router: A Beginners guide to useParams hook.](https://dev.to/stanlisberg/react-router-a-beginners-guide-to-useparams-hook-38pj)
@@ -32,11 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I made Image to PDF converter tool in JavaScript](https://dev.to/vaib215/how-i-made-image-to-pdf-converter-tool-in-javascript-3723)
 - [Dev.to/JS] [Understanding highWaterMark in Node.js Streams](https://dev.to/hateablestream/understanding-highwatermark-in-nodejs-streams-4fmb)
 - [Dev.to/JS] [Django vs Node js: The Extensive Guide for Decision Makers](https://dev.to/wasava/django-vs-node-js-the-extensive-guide-for-decision-makers-5c53)
-- [Dev.to/JS] [How To Deploy a React / Next.js Application with Apache2 on Ubuntu in AWS EC2 instance?](https://dev.to/aanis434/how-to-deploy-a-react-nextjs-application-with-apache2-on-ubuntu-in-aws-ec2-instance-221o)
 - [Lifehacker] [Prime Video Wants You to Actually Hear the Goddamn Dialogue](https://lifehacker.com/prime-video-wants-you-to-actually-hear-the-goddamn-dial-1850355601)
-- [Dev.to/JS] [Cracked: Why Will&#39;s JavaScript The Hard Parts class is so efficient](https://dev.to/mihneasim/cracked-why-wills-javascript-the-hard-parts-class-is-so-efficient-10e4)
 - [Lifehacker] [The Best Technique for Using a Playground Swing, According to Physicists](https://lifehacker.com/the-best-technique-for-using-a-playground-swing-accord-1850355533)
-- [Dev.to/JS] [3.8 - Growing your Brand with Ankita Kulkarni](https://dev.to/codingcatdev/38-growing-your-brand-with-ankita-kulkarni-4b4j)
 - [Lifehacker] [Which Fermented Foods Are Actually Good For You?](https://lifehacker.com/which-fermented-foods-are-actually-good-for-you-1850350371)
 - [Lifehacker] [You Should Upcycle That Cardboard Drink Holder As a Kitchen Organizer](https://lifehacker.com/you-should-upcycle-that-cardboard-drink-holder-as-a-kit-1850352532)
 - [Lifehacker] [Are Sleepovers Finally Over?](https://lifehacker.com/are-sleepovers-finally-over-1850352705)
