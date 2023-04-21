@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JSON.parse&lpar;&rpar; vs JSON.stringify&lpar;&rpar;](https://dev.to/hjqueeen/jsonparse-vs-jsonstringify-4027)
+- [Dev.to/JS] [Create an Interactive Table of Contents for a Next.js Blog with Remark](https://dev.to/clarity89/create-an-interactive-table-of-contents-for-a-nextjs-blog-with-remark-3icg)
 - [Dev.to/JS] [Good practices in js that I use every day](https://dev.to/viniielopes/good-practices-in-js-that-i-use-every-day-27pj)
 - [Dev.to/JS] [A flexible Node.js multifunctional crawler library —— x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-multifunctional-crawler-library-x-crawl-3ja7)
 - [Dev.to/JS] [Testing Excel Data with Cypress](https://dev.to/sanzhanov/testing-excel-data-with-cypress-1f1n)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SOCIAL ANXIETY DISORDER IN THE TECH ECOSPACE](https://dev.to/spiritdivine/social-anxiety-disorder-in-the-tech-ecospace-5fe7)
 - [Dev.to/JS] [Building Better Connections: Progress on the Contractr Matching Feature](https://dev.to/arashjangali/building-better-connections-progress-on-the-contractr-matching-feature-29dp)
 - [Dev.to/JS] [How I Used ChatGPT To Improve My Code](https://dev.to/lutterlohdev/how-i-used-chatgpt-to-improve-my-code-168e)
-- [Dev.to/JS] [Function&lpar;al&rpar; Thinking 🧠](https://dev.to/aoppman/functional-thinking-4nle)
-- [Dev.to/JS] [Make a JavaScript Chess Board](https://dev.to/kschneider0/make-a-javascript-chess-board-4cmo)
 - [Lifehacker] [Prime Video Wants You to Actually Hear the Goddamn Dialogue](https://lifehacker.com/prime-video-wants-you-to-actually-hear-the-goddamn-dial-1850355601)
 - [Lifehacker] [The Best Technique for Using a Playground Swing, According to Physicists](https://lifehacker.com/the-best-technique-for-using-a-playground-swing-accord-1850355533)
 - [Lifehacker] [Which Fermented Foods Are Actually Good For You?](https://lifehacker.com/which-fermented-foods-are-actually-good-for-you-1850350371)
