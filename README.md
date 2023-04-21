@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Name and Greet Project](https://dev.to/ademto/name-and-greet-project-3ded)
 - [Dev.to/JS] [Preventing Form Input Lag in Material UI ReactJS](https://dev.to/dryluigi/preventing-form-input-lag-in-material-ui-reactjs-5h1d)
 - [Dev.to/JS] [THE VAR, LET &amp; CONST KEYWORDS &lpar;Definitions, differences &amp; when to use them&rpar;](https://dev.to/maame_afia/the-var-let-const-keywords-definitions-differences-when-to-use-them-f4l)
 - [Dev.to/JS] [A minimal ChatGPT client by vanilla javascript, run from local or any web host](https://dev.to/casualwriter/a-minimal-chatgpt-client-by-vanilla-javascript-run-from-local-or-any-web-host-2nim)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Router: A Beginners guide to useParams hook.](https://dev.to/stanlisberg/react-router-a-beginners-guide-to-useparams-hook-38pj)
 - [Dev.to/JS] [JavaScript Template Literals - The Beginners Guide To Javascript&lpar;Part 6&rpar;](https://dev.to/camskithedev/javascript-template-literals-the-beginners-guide-to-javascriptpart-6-1fan)
 - [Dev.to/JS] [`zod` Function Definitions in JavaScript Classes](https://dev.to/aacitelli/zod-function-definitions-in-javascript-classes-4b6l)
-- [Dev.to/JS] [How to optimize Cypress tests using JavaScript abilities? &lpar;Part 2. Recursion&rpar;](https://dev.to/sanzhanov/how-to-optimize-cypress-tests-using-javascript-abilities-part-2-recursion-3lb0)
 - [Lifehacker] [Prime Video Wants You to Actually Hear the Goddamn Dialogue](https://lifehacker.com/prime-video-wants-you-to-actually-hear-the-goddamn-dial-1850355601)
 - [Lifehacker] [The Best Technique for Using a Playground Swing, According to Physicists](https://lifehacker.com/the-best-technique-for-using-a-playground-swing-accord-1850355533)
 - [Lifehacker] [Which Fermented Foods Are Actually Good For You?](https://lifehacker.com/which-fermented-foods-are-actually-good-for-you-1850350371)
