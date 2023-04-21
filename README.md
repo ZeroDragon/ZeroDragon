@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Function&lpar;al&rpar; Thinking 🧠](https://dev.to/aoppman/functional-thinking-4nle)
+- [Dev.to/JS] [Make a JavaScript Chess Board](https://dev.to/kschneider0/make-a-javascript-chess-board-4cmo)
 - [Dev.to/JS] [React Router: A Beginners guide to useParams hook.](https://dev.to/stanlisberg/react-router-a-beginners-guide-to-useparams-hook-38pj)
 - [Dev.to/JS] [JavaScript Template Literals - The Beginners Guide To Javascript&lpar;Part 6&rpar;](https://dev.to/camskithedev/javascript-template-literals-the-beginners-guide-to-javascriptpart-6-1fan)
 - [Dev.to/JS] [`zod` Function Definitions in JavaScript Classes](https://dev.to/aacitelli/zod-function-definitions-in-javascript-classes-4b6l)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Technique for Using a Playground Swing, According to Physicists](https://lifehacker.com/the-best-technique-for-using-a-playground-swing-accord-1850355533)
 - [Dev.to/JS] [3.8 - Growing your Brand with Ankita Kulkarni](https://dev.to/codingcatdev/38-growing-your-brand-with-ankita-kulkarni-4b4j)
 - [Lifehacker] [Which Fermented Foods Are Actually Good For You?](https://lifehacker.com/which-fermented-foods-are-actually-good-for-you-1850350371)
-- [Dev.to/JS] [LeetCode - Sort list](https://dev.to/_alkesh26/leetcode-sort-list-443o)
-- [Dev.to/JS] [SyntaxError: Unexpected reserved word &#39;await&#39; in JS](https://dev.to/coder9/syntaxerror-unexpected-reserved-word-await-in-js-3pgg)
 - [Lifehacker] [You Should Upcycle That Cardboard Drink Holder As a Kitchen Organizer](https://lifehacker.com/you-should-upcycle-that-cardboard-drink-holder-as-a-kit-1850352532)
 - [Lifehacker] [Are Sleepovers Finally Over?](https://lifehacker.com/are-sleepovers-finally-over-1850352705)
 - [Lifehacker] [What to Say &lpar;and Not Say&rpar; When Handing in Late Assignments, According to Professors](https://lifehacker.com/what-to-say-and-not-say-when-handing-in-late-assignme-1850343910)
