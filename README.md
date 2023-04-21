@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A flexible Node.js multifunctional crawler library —— x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-multifunctional-crawler-library-x-crawl-3ja7)
+- [Dev.to/JS] [Testing Excel Data with Cypress](https://dev.to/sanzhanov/testing-excel-data-with-cypress-1f1n)
 - [Dev.to/JS] [Name and Greet Project](https://dev.to/ademto/name-and-greet-project-3ded)
 - [Dev.to/JS] [Preventing Form Input Lag in Material UI ReactJS](https://dev.to/dryluigi/preventing-form-input-lag-in-material-ui-reactjs-5h1d)
 - [Dev.to/JS] [THE VAR, LET &amp; CONST KEYWORDS &lpar;Definitions, differences &amp; when to use them&rpar;](https://dev.to/maame_afia/the-var-let-const-keywords-definitions-differences-when-to-use-them-f4l)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Function&lpar;al&rpar; Thinking 🧠](https://dev.to/aoppman/functional-thinking-4nle)
 - [Dev.to/JS] [Make a JavaScript Chess Board](https://dev.to/kschneider0/make-a-javascript-chess-board-4cmo)
 - [Dev.to/JS] [React Router: A Beginners guide to useParams hook.](https://dev.to/stanlisberg/react-router-a-beginners-guide-to-useparams-hook-38pj)
-- [Dev.to/JS] [JavaScript Template Literals - The Beginners Guide To Javascript&lpar;Part 6&rpar;](https://dev.to/camskithedev/javascript-template-literals-the-beginners-guide-to-javascriptpart-6-1fan)
-- [Dev.to/JS] [`zod` Function Definitions in JavaScript Classes](https://dev.to/aacitelli/zod-function-definitions-in-javascript-classes-4b6l)
 - [Lifehacker] [Prime Video Wants You to Actually Hear the Goddamn Dialogue](https://lifehacker.com/prime-video-wants-you-to-actually-hear-the-goddamn-dial-1850355601)
 - [Lifehacker] [The Best Technique for Using a Playground Swing, According to Physicists](https://lifehacker.com/the-best-technique-for-using-a-playground-swing-accord-1850355533)
 - [Lifehacker] [Which Fermented Foods Are Actually Good For You?](https://lifehacker.com/which-fermented-foods-are-actually-good-for-you-1850350371)
