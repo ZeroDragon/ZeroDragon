@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Gardening Doesn&#39;t Have to Wreck Your Body](https://lifehacker.com/gardening-doesnt-have-to-wreck-your-body-1850351472)
+- [Dev.to/JS] [💡Imagine Svelte with Virtual DOM: A Vision for the Future of Web Frameworks](https://dev.to/rajaniraiyn/imagine-svelte-with-virtual-dom-a-vision-for-the-future-of-web-frameworks-247h)
+- [Lifehacker] [These Countries Won’t Let You Visit If Your Passport Expires in the Next Six Months](https://lifehacker.com/these-countries-won-t-let-you-visit-if-your-passport-ex-1850354540)
+- [Dev.to/JS] [Building APOD color search part III: Deno Search API 🔎](https://dev.to/bryce/building-apod-color-search-part-iii-deno-search-api-3464)
+- [Dev.to/JS] [Unit test in programming](https://dev.to/emhat098/unit-test-in-programming-3nl1)
+- [Dev.to/JS] [Above the Clouds With the New Enhance Landing Page](https://dev.to/begin/above-the-clouds-with-the-new-enhance-landing-page-14ph)
 - [Lifehacker] [Use a USB Condom to Prevent &#39;Juice Jacking&#39;](https://lifehacker.com/use-a-usb-condom-to-prevent-juice-jacking-1850356163)
 - [Dev.to/JS] [How to Code the Selection Sort Algorithm in JavaScript and Python](https://dev.to/nielsenjared/how-to-code-the-selection-sort-algorithm-in-javascript-and-python-npb)
 - [Lifehacker] [You Need to Warn Your Teens About the Benadryl Challenge Again](https://lifehacker.com/warn-your-teens-about-the-benadryl-challenge-1844927737)
@@ -40,10 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Movie Trilogies That Actually Stuck the Landing](https://lifehacker.com/10-movie-trilogies-that-actually-stuck-the-landing-1850345569)
 - [Dev.to/JS] [How To Create NEXTJS sitemap without any libraries](https://dev.to/omriluz/how-to-create-nextjs-sitemap-without-any-libraries-3kfg)
 - [Lifehacker] [How to Try Bluesky, the Decentralized Twitter Clone](https://lifehacker.com/how-to-try-bluesky-the-decentralized-twitter-clone-1850358929)
-- [Dev.to/JS] [VS Code Extensions to Take Your Coding to the Next Level](https://dev.to/j471n/vs-code-extensions-to-take-your-coding-to-the-next-level-50od)
-- [Dev.to/JS] [Show active navigation link in JavaScript](https://dev.to/coder4_life/show-active-navigation-link-in-javascript-309g)
-- [Dev.to/JS] [Let’s create a Node CLI for generating files from templates!](https://dev.to/dusan100janovic/lets-create-a-node-cli-for-generating-files-from-templates-4m05)
-- [Dev.to/JS] [SinonJs - to make the stubvalue random](https://dev.to/vjnvisakh/sinonjs-to-make-the-stubvalue-random-3616)
 - [Lifehacker] [Prime Video Wants You to Actually Hear the Goddamn Dialogue](https://lifehacker.com/prime-video-wants-you-to-actually-hear-the-goddamn-dial-1850355601)
 - [Lifehacker] [The Best Technique for Using a Playground Swing, According to Physicists](https://lifehacker.com/the-best-technique-for-using-a-playground-swing-accord-1850355533)
 - [Lifehacker] [Which Fermented Foods Are Actually Good For You?](https://lifehacker.com/which-fermented-foods-are-actually-good-for-you-1850350371)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Add Multiple Links to Your Instagram Bio](https://lifehacker.com/you-can-finally-add-multiple-links-to-your-instagram-bi-1850353334)
 - [Lifehacker] [Why Your Tax Refund Wasn’t As Big This Year](https://lifehacker.com/why-your-tax-refund-wasn-t-as-big-this-year-1850350485)
 - [Lifehacker] [You Can Experience ‘Pluto Time’ Twice a Day on Earth](https://lifehacker.com/you-can-experience-pluto-time-twice-a-day-on-earth-1850349379)
-- [Lifehacker] [Your Frittata Might Need a Piece of Metal in It](https://lifehacker.com/your-frittata-might-need-a-piece-of-metal-in-it-1850346023)
-- [Lifehacker] [Learn a New Language While Casually Browsing the Internet](https://lifehacker.com/learn-a-new-language-while-casually-browsing-the-intern-1850345991)
-- [Lifehacker] [Car Rentals Are Overcharging You for Tolls](https://lifehacker.com/car-rentals-are-overcharging-you-for-tolls-1850345927)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Frittata Might Need a Piece of Metal in It](https://lifehacker.com/your-frittata-might-need-a-piece-of-metal-in-it-1850346023)<!-- TECH-POSTS:END -->
 
 ---
 
