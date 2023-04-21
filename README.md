@@ -24,6 +24,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Prom Pictures With Goats?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-prom-pic-1850362453)
+- [Dev.to/JS] [ismail hamza omer](https://dev.to/asmahilhamzaomer/ismail-hamza-omer-3fkl)
 - [Lifehacker] [Snapchat&#39;s AI Bot Might Be the Easiest Way to Access ChatGPT](https://lifehacker.com/snapchats-ai-bot-might-be-the-easiest-way-to-access-cha-1850362083)
 - [Dev.to/JS] [Updates on my #buildinpublic effort](https://dev.to/fpsd/updates-on-my-buildinpublic-effort-1agi)
 - [Lifehacker] [Find Out If You Live in One of the Most Polluted US Cities](https://lifehacker.com/find-out-if-you-live-in-one-of-the-most-polluted-us-cit-1850357768)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [`openapi-endpoint-trimmer` - JavaScript CLI Tool to Trim OpenAPI Paths / Endpoints](https://dev.to/aacitelli/openapi-endpoint-trimmer-javascript-cli-tool-to-trim-openapi-paths-endpoints-4mo4)
 - [Dev.to/JS] [Dark Mode Toggle and prefers-color-scheme](https://dev.to/abbeyperini/dark-mode-toggle-and-prefers-color-scheme-4f3m)
 - [Dev.to/JS] [You Don&#39;t Know The REAL Theory Behind Node.JS!](https://dev.to/atenadadkhah/you-dont-know-the-real-theory-behind-nodejs-2hdo)
-- [Dev.to/JS] [Microfrontends in ReactJS](https://dev.to/giveitatry/microfrontends-in-reactjs-do5)
 - [Lifehacker] [No, You Don’t Need to ‘Balance’ Your Hormones If You Have Period Flu](https://lifehacker.com/no-you-don-t-need-to-balance-your-hormones-if-you-ha-1850354729)
 - [Lifehacker] [Don’t Cash Out Your 401&lpar;k&rpar; When You Leave Your Job](https://lifehacker.com/don-t-cash-out-your-401-k-when-you-leave-your-job-1850354812)
 - [Lifehacker] [Construct a DIY Solar-Powered Water Feature for Your Garden](https://lifehacker.com/construct-a-diy-solar-powered-water-feature-for-your-ga-1850346103)
@@ -53,7 +53,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Technique for Using a Playground Swing, According to Physicists](https://lifehacker.com/the-best-technique-for-using-a-playground-swing-accord-1850355533)
 - [Lifehacker] [Which Fermented Foods Are Actually Good For You?](https://lifehacker.com/which-fermented-foods-are-actually-good-for-you-1850350371)
 - [Lifehacker] [You Should Upcycle That Cardboard Drink Holder As a Kitchen Organizer](https://lifehacker.com/you-should-upcycle-that-cardboard-drink-holder-as-a-kit-1850352532)
-- [Lifehacker] [Are Sleepovers Finally Over?](https://lifehacker.com/are-sleepovers-finally-over-1850352705)
+- [Lifehacker] [Are Sleepovers Finally Dead?](https://lifehacker.com/are-sleepovers-finally-over-1850352705)
 - [Lifehacker] [What to Say &lpar;and Not Say&rpar; When Handing in Late Assignments, According to Professors](https://lifehacker.com/what-to-say-and-not-say-when-handing-in-late-assignme-1850343910)
 - [Lifehacker] [You Can ‘Unretire,’ but It Might Cost You](https://lifehacker.com/you-can-unretire-but-it-might-cost-you-1850353487)
 - [Lifehacker] [How to Move Your Seedlings Outside Without Killing Them](https://lifehacker.com/how-to-move-your-seedlings-outside-without-killing-them-1850346123)
