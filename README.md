@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Get network information using JavaScript](https://dev.to/mohsindev369/get-network-information-using-javascript-fn4)
+- [Dev.to/JS] [Operadores básicos en RXJS](https://dev.to/alexcordobainc/operadores-basicos-en-rxjs-170k)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Prom Pictures With Goats?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-prom-pic-1850362453)
 - [Dev.to/JS] [ismail hamza omer](https://dev.to/asmahilhamzaomer/ismail-hamza-omer-3fkl)
 - [Lifehacker] [Snapchat&#39;s AI Bot Might Be the Easiest Way to Access ChatGPT](https://lifehacker.com/snapchats-ai-bot-might-be-the-easiest-way-to-access-cha-1850362083)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Keyword Extraction API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-keyword-extraction-api-with-javascript-in-5-minutes-4loe)
 - [Lifehacker] [Chat With AI to Summarize Obnoxiously Long PDFs](https://lifehacker.com/chat-with-ai-to-summarize-obnoxiously-long-pdfs-1850356065)
 - [Dev.to/JS] [`openapi-endpoint-trimmer` - JavaScript CLI Tool to Trim OpenAPI Paths / Endpoints](https://dev.to/aacitelli/openapi-endpoint-trimmer-javascript-cli-tool-to-trim-openapi-paths-endpoints-4mo4)
-- [Dev.to/JS] [Dark Mode Toggle and prefers-color-scheme](https://dev.to/abbeyperini/dark-mode-toggle-and-prefers-color-scheme-4f3m)
-- [Dev.to/JS] [You Don&#39;t Know The REAL Theory Behind Node.JS!](https://dev.to/atenadadkhah/you-dont-know-the-real-theory-behind-nodejs-2hdo)
 - [Lifehacker] [No, You Don’t Need to ‘Balance’ Your Hormones If You Have Period Flu](https://lifehacker.com/no-you-don-t-need-to-balance-your-hormones-if-you-ha-1850354729)
 - [Lifehacker] [Don’t Cash Out Your 401&lpar;k&rpar; When You Leave Your Job](https://lifehacker.com/don-t-cash-out-your-401-k-when-you-leave-your-job-1850354812)
 - [Lifehacker] [Construct a DIY Solar-Powered Water Feature for Your Garden](https://lifehacker.com/construct-a-diy-solar-powered-water-feature-for-your-ga-1850346103)
