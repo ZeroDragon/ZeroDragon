@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don’t Cash Out Your 401&lpar;k&rpar; When You Leave Your Job](https://lifehacker.com/don-t-cash-out-your-401-k-when-you-leave-your-job-1850354812)
+- [Dev.to/JS] [Shared tests - how to write reusable Storybook Interaction Tests](https://dev.to/scottnath/shared-tests-how-to-write-reusable-storybook-interaction-tests-489c)
 - [Lifehacker] [Construct a DIY Solar-Powered Water Feature for Your Garden](https://lifehacker.com/construct-a-diy-solar-powered-water-feature-for-your-ga-1850346103)
 - [Lifehacker] [How to Harvest Free Food on Your Next Vacation](https://lifehacker.com/how-to-harvest-free-food-on-your-next-vacation-1850321207)
 - [Dev.to/JS] [How to Build an NPM Package for React](https://dev.to/mohammadfaisal/how-to-build-an-npm-package-for-react-4ppc)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Which is better: the Metaverse or Virtual Reality?](https://dev.to/pavandkumar35/which-is-better-the-metaverse-or-virtual-reality-573o)
 - [Dev.to/JS] [Next.js fundamentals](https://dev.to/hassanhabibtahir/nextjs-fundamentals-19ho)
 - [Dev.to/JS] [Rounding errors in JavaScript](https://dev.to/kristof1345/rounding-errors-in-javascript-2b93)
-- [Dev.to/JS] [Hoisting in JavaScript](https://dev.to/devlawrence/hoisting-in-javascript-5bk5)
 - [Lifehacker] [Prime Video Wants You to Actually Hear the Goddamn Dialogue](https://lifehacker.com/prime-video-wants-you-to-actually-hear-the-goddamn-dial-1850355601)
 - [Lifehacker] [The Best Technique for Using a Playground Swing, According to Physicists](https://lifehacker.com/the-best-technique-for-using-a-playground-swing-accord-1850355533)
 - [Lifehacker] [Which Fermented Foods Are Actually Good For You?](https://lifehacker.com/which-fermented-foods-are-actually-good-for-you-1850350371)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Check If the Government Owes You Stimulus Money From 2022](https://lifehacker.com/how-to-check-if-the-government-owes-you-stimulus-money-1850348381)
 - [Lifehacker] [Netflix Will Still Lend You DVDs Until September](https://lifehacker.com/you-can-still-get-dvds-from-netflix-and-maybe-you-shou-1849586365)
 - [Lifehacker] [You Can Run Windows 11 on Your Apple Silicon Mac for Free](https://lifehacker.com/you-can-run-windows-11-on-your-apple-silicon-mac-for-fr-1850347186)
-- [Lifehacker] [What to Know About Investing in ChatGPT, According to ChatGPT](https://lifehacker.com/what-to-know-about-investing-in-chatgpt-according-to-c-1850344557)
-- [Lifehacker] [Where to Get Gardening and Landscaping Materials for Free or Cheap](https://lifehacker.com/where-to-get-gardening-and-landscaping-materials-for-fr-1850346771)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Know About Investing in ChatGPT, According to ChatGPT](https://lifehacker.com/what-to-know-about-investing-in-chatgpt-according-to-c-1850344557)<!-- TECH-POSTS:END -->
 
 ---
 
