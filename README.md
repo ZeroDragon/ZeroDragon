@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Comprehensive Guide on the use of If-Else Statement in JavaScript](https://dev.to/ghloriey/a-comprehensive-guide-on-the-use-of-if-else-statement-in-javascript-3792)
 - [Dev.to/JS] [Which is better: the Metaverse or Virtual Reality?](https://dev.to/pavandkumar35/which-is-better-the-metaverse-or-virtual-reality-573o)
+- [Dev.to/JS] [Next.js fundamentals](https://dev.to/hassanhabibtahir/nextjs-fundamentals-19ho)
 - [Dev.to/JS] [Rounding errors in JavaScript](https://dev.to/kristof1345/rounding-errors-in-javascript-2b93)
 - [Dev.to/JS] [Hoisting in JavaScript](https://dev.to/devlawrence/hoisting-in-javascript-5bk5)
 - [Dev.to/JS] [Top 5 Must-Have Technologies Every Developer Should Bookmark](https://dev.to/aaikansh_22/top-5-must-have-technologies-every-developer-should-bookmark-bo5)
@@ -31,10 +33,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Replace All String Occurrences in JavaScript](https://dev.to/learninglead/how-to-replace-all-string-occurrences-in-javascript-4407)
 - [Dev.to/JS] [JSON.parse&lpar;&rpar; vs JSON.stringify&lpar;&rpar;](https://dev.to/hjqueeen/jsonparse-vs-jsonstringify-4027)
 - [Dev.to/JS] [Create an Interactive Table of Contents for a Next.js Blog with Remark](https://dev.to/clarity89/create-an-interactive-table-of-contents-for-a-nextjs-blog-with-remark-3icg)
+- [Dev.to/JS] [React - Role Based Authorization Tutorial with Example](https://dev.to/coder9/react-role-based-authorization-tutorial-with-example-2k1c)
 - [Dev.to/JS] [Good practices in js that I use every day](https://dev.to/viniielopes/good-practices-in-js-that-i-use-every-day-27pj)
-- [Dev.to/JS] [A flexible Node.js multifunctional crawler library —— x-crawl](https://dev.to/coderhxl/a-flexible-nodejs-multifunctional-crawler-library-x-crawl-3ja7)
-- [Dev.to/JS] [Testing Excel Data with Cypress](https://dev.to/sanzhanov/testing-excel-data-with-cypress-1f1n)
-- [Dev.to/JS] [Name and Greet Project](https://dev.to/ademto/name-and-greet-project-3ded)
 - [Lifehacker] [Prime Video Wants You to Actually Hear the Goddamn Dialogue](https://lifehacker.com/prime-video-wants-you-to-actually-hear-the-goddamn-dial-1850355601)
 - [Lifehacker] [The Best Technique for Using a Playground Swing, According to Physicists](https://lifehacker.com/the-best-technique-for-using-a-playground-swing-accord-1850355533)
 - [Lifehacker] [Which Fermented Foods Are Actually Good For You?](https://lifehacker.com/which-fermented-foods-are-actually-good-for-you-1850350371)
