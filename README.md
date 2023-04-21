@@ -23,8 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Construct a DIY Solar-Powered Water Feature for Your Garden](https://lifehacker.com/construct-a-diy-solar-powered-water-feature-for-your-ga-1850346103)
+- [Lifehacker] [How to Harvest Free Food on Your Next Vacation](https://lifehacker.com/how-to-harvest-free-food-on-your-next-vacation-1850321207)
+- [Dev.to/JS] [How to Build an NPM Package for React](https://dev.to/mohammadfaisal/how-to-build-an-npm-package-for-react-4ppc)
 - [Lifehacker] [10 Movie Trilogies That Actually Stuck the Landing](https://lifehacker.com/10-movie-trilogies-that-actually-stuck-the-landing-1850345569)
-- [Dev.to/JS] [Best practices every beginner in React.js must follow to increase productivity](https://dev.to/qbentil/best-practices-every-beginner-in-reactjs-must-follow-to-increase-productivity-2kjc)
 - [Dev.to/JS] [How To Create NEXTJS sitemap without any libraries](https://dev.to/omriluz/how-to-create-nextjs-sitemap-without-any-libraries-3kfg)
 - [Lifehacker] [How to Try Bluesky, the Decentralized Twitter Clone](https://lifehacker.com/how-to-try-bluesky-the-decentralized-twitter-clone-1850358929)
 - [Dev.to/JS] [VS Code Extensions to Take Your Coding to the Next Level](https://dev.to/documatic/vs-code-extensions-to-take-your-coding-to-the-next-level-50od)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Netflix Will Still Lend You DVDs Until September](https://lifehacker.com/you-can-still-get-dvds-from-netflix-and-maybe-you-shou-1849586365)
 - [Lifehacker] [You Can Run Windows 11 on Your Apple Silicon Mac for Free](https://lifehacker.com/you-can-run-windows-11-on-your-apple-silicon-mac-for-fr-1850347186)
 - [Lifehacker] [What to Know About Investing in ChatGPT, According to ChatGPT](https://lifehacker.com/what-to-know-about-investing-in-chatgpt-according-to-c-1850344557)
-- [Lifehacker] [Where to Get Gardening and Landscaping Materials for Free or Cheap](https://lifehacker.com/where-to-get-gardening-and-landscaping-materials-for-fr-1850346771)
-- [Lifehacker] [These Weather Apps Actually Care About Your Privacy](https://lifehacker.com/these-weather-apps-actually-care-about-your-privacy-1850342974)
-- [Lifehacker] [Make Homemade Bialys With Packaged Pizza Dough](https://lifehacker.com/make-homemade-bialys-with-packaged-pizza-dough-1850349658)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Get Gardening and Landscaping Materials for Free or Cheap](https://lifehacker.com/where-to-get-gardening-and-landscaping-materials-for-fr-1850346771)<!-- TECH-POSTS:END -->
 
 ---
 
