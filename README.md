@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Integrate Node.js with NoSQL Databases](https://dev.to/folasayosamuel/how-to-integrate-nodejs-with-nosql-databases-3b26)
+- [Dev.to/JS] [Fastest Way to Auto Generate Types for Typescript and Input validation](https://dev.to/seyyedkhandon/fastest-way-to-auto-generate-types-for-typescript-and-input-validation-478p)
 - [Lifehacker] [This Is How Much It Costs to Build a New House in Each State](https://lifehacker.com/this-is-how-much-it-costs-to-build-a-new-house-in-each-1850357603)
+- [Dev.to/JS] [The Importance of Clean Code in JavaScript Development](https://dev.to/rahulj9a/the-importance-of-clean-code-in-javascript-development-4d8i)
 - [Dev.to/JS] [What are the best 5 Programming Languages to learn in 2023](https://dev.to/incoderweb/what-are-the-best-5-programming-languages-to-learn-in-2023-312k)
 - [Dev.to/JS] [JavaScript for in loop](https://dev.to/max24816/javascript-for-in-loop-5gne)
 - [Dev.to/JS] [How To Get Clients For Web Development Agencies](https://dev.to/chetanam/how-to-get-clients-for-web-development-agencies-117c)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [List Of JAVASCRIPT Framework- Guide](https://dev.to/makemychance/list-of-javascript-framework-guide-490j)
 - [Dev.to/JS] [Why do you use Typescript with automated tests?](https://dev.to/codingnninja/why-do-you-use-typescript-with-automated-tests-3l91)
 - [Dev.to/JS] [Nested Array Generator](https://dev.to/salahelhossiny/nested-array-generator-40dc)
-- [Dev.to/JS] [Unlock the Power of Node.js Testing with the New Node Test Runner Feature](https://dev.to/hi_iam_chris/unlock-the-power-of-nodejs-testing-with-the-new-node-test-runner-feature-1o96)
-- [Dev.to/JS] [How To Get Clients For Web Development Agencies](https://dev.to/chetanam/how-to-get-clients-for-web-development-agencies-11o5)
-- [Dev.to/JS] [Creating template literals from strings](https://dev.to/efpage/creating-template-literals-from-strings-3bob)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Prom Pictures With Goats?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-prom-pic-1850362453)
 - [Lifehacker] [Snapchat&#39;s AI Bot Might Be the Easiest Way to Access ChatGPT](https://lifehacker.com/snapchats-ai-bot-might-be-the-easiest-way-to-access-cha-1850362083)
 - [Lifehacker] [Find Out If You Live in One of the Most Polluted US Cities](https://lifehacker.com/find-out-if-you-live-in-one-of-the-most-polluted-us-cit-1850357768)
