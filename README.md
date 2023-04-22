@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript for Noobs: The for...of and for...in Loops](https://dev.to/viditmaniyar/javascript-for-noobs-the-forof-and-forin-loops-51m)
+- [Dev.to/JS] [Debugging ReactJS Issues with ChatGPT: 50 Essential Tips and Examples](https://dev.to/nilanth/debugging-reactjs-issues-with-chatgpt-50-essential-tips-and-examples-448)
 - [Dev.to/JS] [Async and Await in JavaScript: Simplifying Asynchronous Programming](https://dev.to/joepari_codes/async-and-await-in-javascript-simplifying-asynchronous-programming-4n47)
 - [Dev.to/JS] [Building a Secure Node.js Application: Best Practices and Tools](https://dev.to/ahmadad62/prevent-common-nodejs-security-vulnerabilities-5d2o)
 - [Dev.to/JS] [Javascript - OOP with Javascript](https://dev.to/babeng/javascript-oops-with-javascript-1pa4)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Python V.S. Javascript: Which is Better for Webscraping?](https://dev.to/jsquared/python-vs-javascript-which-is-better-for-webscraping-1dh0)
 - [Dev.to/JS] [Spice Up Your Website with These Color-Related Functions](https://dev.to/streetcommunityprogrammer/spice-up-your-website-with-these-color-related-functions-2e6j)
 - [Dev.to/JS] [Can anyone recommend good resources to study react hook forms?](https://dev.to/saadyasser/can-anyone-recommend-good-resources-to-study-react-hook-forms-3n6j)
-- [Dev.to/JS] [Contractr Project Update: Implementing the Matching Feature](https://dev.to/arashjangali/contractr-project-update-implementing-the-matching-feature-29op)
-- [Dev.to/JS] [Utilize o conceito de elevação de estado &lpar;lifting state up&rpar; para compartilhar dados entre componentes irmãos no React.](https://dev.to/eliasgabriel1/utilize-o-conceito-de-elevacao-de-estado-lifting-state-up-para-compartilhar-dados-entre-componentes-irmaos-no-react-2cao)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Prom Pictures With Goats?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-prom-pic-1850362453)
 - [Lifehacker] [Snapchat&#39;s AI Bot Might Be the Easiest Way to Access ChatGPT](https://lifehacker.com/snapchats-ai-bot-might-be-the-easiest-way-to-access-cha-1850362083)
 - [Lifehacker] [Find Out If You Live in One of the Most Polluted US Cities](https://lifehacker.com/find-out-if-you-live-in-one-of-the-most-polluted-us-cit-1850357768)
