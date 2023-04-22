@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Ask These Questions Instead of &#39;How Are You?&#39;](https://lifehacker.com/ask-these-questions-instead-of-how-are-you-1850357221)
+- [Dev.to/JS] [Customizing Tailwind CSS Animations: Advancing Your Web Design Skills](https://dev.to/nitinfab/customizing-tailwind-css-animations-advancing-your-web-design-skills-2gb3)
+- [Dev.to/JS] [10 Popular Programming Languages to Learn in 2023: Python, JavaScript, Java, C#, Kotlin...](https://dev.to/abhixsh/10-popular-programming-languages-to-learn-in-2023-python-javascript-java-c-kotlin-1ool)
+- [Dev.to/JS] [List Of JAVASCRIPT Framework- Guide](https://dev.to/makemychance/list-of-javascript-framework-guide-490j)
 - [Dev.to/JS] [Why do you use Typescript with automated tests?](https://dev.to/codingnninja/why-do-you-use-typescript-with-automated-tests-3l91)
 - [Dev.to/JS] [Nested Array Generator](https://dev.to/salahelhossiny/nested-array-generator-40dc)
 - [Dev.to/JS] [Unlock the Power of Node.js Testing with the New Node Test Runner Feature](https://dev.to/hi_iam_chris/unlock-the-power-of-nodejs-testing-with-the-new-node-test-runner-feature-1o96)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a Nodejs Server Using Firebase/Firestore &lpar;CRUD&rpar;](https://dev.to/ibukunfolay/build-a-nodejs-server-using-firebasefirestore-crud-2725)
 - [Dev.to/JS] [Build an AWS API from Scratch: A Comprehensive Step-by-Step Guide with Sample Code](https://dev.to/tingchun0113/build-an-aws-api-from-scratch-a-comprehensive-step-by-step-guide-with-sample-code-2hlb)
 - [Dev.to/JS] [Unleashing the Power of JavaScript Proxy: A Comprehensive Introduction for Developers](https://dev.to/wizdomtek/unleashing-the-power-of-javascript-proxy-a-comprehensive-introduction-for-developers-3f4j)
-- [Dev.to/JS] [From Spotify to YouTube: How I Built a Python Script to Convert Playlists](https://dev.to/yogeshwaran01/from-spotify-to-youtube-how-i-built-a-python-script-to-convert-playlists-2h89)
-- [Dev.to/JS] [Build a Memory Game using React.Js and JavaScript](https://dev.to/krushnachandradash654/build-a-memory-game-using-reactjs-and-javascript-207m)
-- [Dev.to/JS] [Javascript for Noobs: The for...of and for...in Loops](https://dev.to/viditmaniyar/javascript-for-noobs-the-forof-and-forin-loops-51m)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Prom Pictures With Goats?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-prom-pic-1850362453)
 - [Lifehacker] [Snapchat&#39;s AI Bot Might Be the Easiest Way to Access ChatGPT](https://lifehacker.com/snapchats-ai-bot-might-be-the-easiest-way-to-access-cha-1850362083)
 - [Lifehacker] [Find Out If You Live in One of the Most Polluted US Cities](https://lifehacker.com/find-out-if-you-live-in-one-of-the-most-polluted-us-cit-1850357768)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Exercise Before Studying, According to Science](https://lifehacker.com/why-you-should-exercise-before-studying-according-to-s-1850347857)
 - [Lifehacker] [You Should Plant Artichokes and Asparagus Right Now](https://lifehacker.com/you-should-plant-artichokes-and-asparagus-right-now-1850346525)
 - [Lifehacker] [Get a Free Extra Ticket to See a Movie This Weekend](https://lifehacker.com/get-a-free-extra-ticket-to-see-a-movie-this-weekend-1850354146)
-- [Lifehacker] [Netflix Is Officially Ending Free Password Sharing &lpar;Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
-- [Lifehacker] [You Can Finally Add Multiple Links to Your Instagram Bio](https://lifehacker.com/you-can-finally-add-multiple-links-to-your-instagram-bi-1850353334)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Netflix Is Officially Ending Free Password Sharing &lpar;Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)<!-- TECH-POSTS:END -->
 
 ---
 
