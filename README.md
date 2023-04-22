@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why do you use Typescript with automated tests?](https://dev.to/codingnninja/why-do-you-use-typescript-with-automated-tests-3l91)
+- [Dev.to/JS] [Nested Array Generator](https://dev.to/salahelhossiny/nested-array-generator-40dc)
+- [Dev.to/JS] [Unlock the Power of Node.js Testing with the New Node Test Runner Feature](https://dev.to/hi_iam_chris/unlock-the-power-of-nodejs-testing-with-the-new-node-test-runner-feature-1o96)
 - [Dev.to/JS] [How To Get Clients For Web Development Agencies](https://dev.to/chetanam/how-to-get-clients-for-web-development-agencies-11o5)
 - [Dev.to/JS] [Creating template literals from strings](https://dev.to/efpage/creating-template-literals-from-strings-3bob)
 - [Dev.to/JS] [Simpler Async State Management in React Apps with Hyperfetch](https://dev.to/reuben09/simpler-async-state-management-in-react-apps-with-hyperfetch-2p2k)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From Spotify to YouTube: How I Built a Python Script to Convert Playlists](https://dev.to/yogeshwaran01/from-spotify-to-youtube-how-i-built-a-python-script-to-convert-playlists-2h89)
 - [Dev.to/JS] [Build a Memory Game using React.Js and JavaScript](https://dev.to/krushnachandradash654/build-a-memory-game-using-reactjs-and-javascript-207m)
 - [Dev.to/JS] [Javascript for Noobs: The for...of and for...in Loops](https://dev.to/viditmaniyar/javascript-for-noobs-the-forof-and-forin-loops-51m)
-- [Dev.to/JS] [Debugging ReactJS Issues with ChatGPT: 50 Essential Tips and Examples](https://dev.to/nilanth/debugging-reactjs-issues-with-chatgpt-50-essential-tips-and-examples-448)
-- [Dev.to/JS] [Async and Await in JavaScript: Simplifying Asynchronous Programming](https://dev.to/joepari_codes/async-and-await-in-javascript-simplifying-asynchronous-programming-4n47)
-- [Dev.to/JS] [Building a Secure Node.js Application: Best Practices and Tools](https://dev.to/ahmadad62/prevent-common-nodejs-security-vulnerabilities-5d2o)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Prom Pictures With Goats?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-prom-pic-1850362453)
 - [Lifehacker] [Snapchat&#39;s AI Bot Might Be the Easiest Way to Access ChatGPT](https://lifehacker.com/snapchats-ai-bot-might-be-the-easiest-way-to-access-cha-1850362083)
 - [Lifehacker] [Find Out If You Live in One of the Most Polluted US Cities](https://lifehacker.com/find-out-if-you-live-in-one-of-the-most-polluted-us-cit-1850357768)
