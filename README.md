@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;21-04-2023&rpar; - Foie Gras For Everybody](https://dev.to/mjgs/this-weeks-newsletter-is-out-21-04-2023-foie-gras-for-everybody-51af)
+- [Dev.to/JS] [Create a Dynamic Gradient Color Generator with HTML, CSS, and JavaScript](https://dev.to/incoderweb/create-a-dynamic-gradient-color-generator-with-html-css-and-javascript-39ka)
 - [Dev.to/JS] [How to slugify a string in JavaScript](https://dev.to/bybydev/how-to-slugify-a-string-in-javascript-4o9n)
 - [Dev.to/JS] [5 Tips for Optimizing ReactJS Performance and Building Lightning-Fast Applications](https://dev.to/nilanth/5-tips-for-optimizing-reactjs-performance-and-building-lightning-fast-applications-254d)
 - [Dev.to/JS] [Python V.S. Javascript: Which is Better for Webscraping?](https://dev.to/jsquared/python-vs-javascript-which-is-better-for-webscraping-1dh0)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Get network information using JavaScript](https://dev.to/mohsindev369/get-network-information-using-javascript-fn4)
 - [Dev.to/JS] [Operadores básicos en RXJS](https://dev.to/alexcordobainc/operadores-basicos-en-rxjs-170k)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Prom Pictures With Goats?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-prom-pic-1850362453)
-- [Dev.to/JS] [ismail hamza omer](https://dev.to/asmahilhamzaomer/ismail-hamza-omer-3fkl)
 - [Lifehacker] [Snapchat&#39;s AI Bot Might Be the Easiest Way to Access ChatGPT](https://lifehacker.com/snapchats-ai-bot-might-be-the-easiest-way-to-access-cha-1850362083)
-- [Dev.to/JS] [Updates on my #buildinpublic effort](https://dev.to/fpsd/updates-on-my-buildinpublic-effort-1agi)
 - [Lifehacker] [Find Out If You Live in One of the Most Polluted US Cities](https://lifehacker.com/find-out-if-you-live-in-one-of-the-most-polluted-us-cit-1850357768)
 - [Lifehacker] [Gardening Doesn&#39;t Have to Wreck Your Body](https://lifehacker.com/gardening-doesnt-have-to-wreck-your-body-1850351472)
 - [Lifehacker] [These Countries Won’t Let You Visit If Your Passport Expires in the Next Six Months](https://lifehacker.com/these-countries-won-t-let-you-visit-if-your-passport-ex-1850354540)
