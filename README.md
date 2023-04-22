@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Python V.S. Javascript: Which is Better for Webscraping?](https://dev.to/jsquared/python-vs-javascript-which-is-better-for-webscraping-1dh0)
 - [Dev.to/JS] [Spice Up Your Website with These Color-Related Functions](https://dev.to/streetcommunityprogrammer/spice-up-your-website-with-these-color-related-functions-2e6j)
 - [Dev.to/JS] [Can anyone recommend good resources to study react hook forms?](https://dev.to/saadyasser/can-anyone-recommend-good-resources-to-study-react-hook-forms-3n6j)
 - [Dev.to/JS] [Contractr Project Update: Implementing the Matching Feature](https://dev.to/arashjangali/contractr-project-update-implementing-the-matching-feature-29op)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Gardening Doesn&#39;t Have to Wreck Your Body](https://lifehacker.com/gardening-doesnt-have-to-wreck-your-body-1850351472)
 - [Dev.to/JS] [💡Imagine Svelte with Virtual DOM: A Vision for the Future of Web Frameworks](https://dev.to/rajaniraiyn/imagine-svelte-with-virtual-dom-a-vision-for-the-future-of-web-frameworks-247h)
 - [Lifehacker] [These Countries Won’t Let You Visit If Your Passport Expires in the Next Six Months](https://lifehacker.com/these-countries-won-t-let-you-visit-if-your-passport-ex-1850354540)
-- [Dev.to/JS] [Building APOD color search part III: Deno Search API 🔎](https://dev.to/bryce/building-apod-color-search-part-iii-deno-search-api-3464)
 - [Lifehacker] [Use a USB Condom to Prevent &#39;Juice Jacking&#39;](https://lifehacker.com/use-a-usb-condom-to-prevent-juice-jacking-1850356163)
 - [Lifehacker] [You Need to Warn Your Teens About the Benadryl Challenge Again](https://lifehacker.com/warn-your-teens-about-the-benadryl-challenge-1844927737)
 - [Lifehacker] [Chat With AI to Summarize Obnoxiously Long PDFs](https://lifehacker.com/chat-with-ai-to-summarize-obnoxiously-long-pdfs-1850356065)
