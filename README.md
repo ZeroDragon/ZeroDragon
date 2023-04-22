@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Can anyone recommend good resources to study react hook forms?](https://dev.to/saadyasser/can-anyone-recommend-good-resources-to-study-react-hook-forms-3n6j)
+- [Dev.to/JS] [Contractr Project Update: Implementing the Matching Feature](https://dev.to/arashjangali/contractr-project-update-implementing-the-matching-feature-29op)
+- [Dev.to/JS] [Utilize o conceito de elevação de estado &lpar;lifting state up&rpar; para compartilhar dados entre componentes irmãos no React.](https://dev.to/eliasgabriel1/utilize-o-conceito-de-elevacao-de-estado-lifting-state-up-para-compartilhar-dados-entre-componentes-irmaos-no-react-2cao)
 - [Dev.to/JS] [10 things you should &lpar;almost&rpar; never do in Javascript and ReactJS &lpar;with code examples&rpar;](https://dev.to/emiquelito/10-things-you-should-almost-never-do-in-javascript-and-reactjs-with-code-examples-3pgh)
 - [Dev.to/JS] [Get network information using JavaScript](https://dev.to/mohsindev369/get-network-information-using-javascript-fn4)
 - [Dev.to/JS] [Operadores básicos en RXJS](https://dev.to/alexcordobainc/operadores-basicos-en-rxjs-170k)
@@ -37,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Countries Won’t Let You Visit If Your Passport Expires in the Next Six Months](https://lifehacker.com/these-countries-won-t-let-you-visit-if-your-passport-ex-1850354540)
 - [Dev.to/JS] [Building APOD color search part III: Deno Search API 🔎](https://dev.to/bryce/building-apod-color-search-part-iii-deno-search-api-3464)
 - [Dev.to/JS] [Unit test in programming](https://dev.to/emhat098/unit-test-in-programming-3nl1)
-- [Dev.to/JS] [Above the Clouds With the New Enhance Landing Page](https://dev.to/begin/above-the-clouds-with-the-new-enhance-landing-page-14ph)
 - [Lifehacker] [Use a USB Condom to Prevent &#39;Juice Jacking&#39;](https://lifehacker.com/use-a-usb-condom-to-prevent-juice-jacking-1850356163)
-- [Dev.to/JS] [How to Code the Selection Sort Algorithm in JavaScript and Python](https://dev.to/nielsenjared/how-to-code-the-selection-sort-algorithm-in-javascript-and-python-npb)
 - [Lifehacker] [You Need to Warn Your Teens About the Benadryl Challenge Again](https://lifehacker.com/warn-your-teens-about-the-benadryl-challenge-1844927737)
-- [Dev.to/JS] [How to use Keyword Extraction API with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-use-keyword-extraction-api-with-javascript-in-5-minutes-4loe)
 - [Lifehacker] [Chat With AI to Summarize Obnoxiously Long PDFs](https://lifehacker.com/chat-with-ai-to-summarize-obnoxiously-long-pdfs-1850356065)
 - [Lifehacker] [No, You Don’t Need to ‘Balance’ Your Hormones If You Have Period Flu](https://lifehacker.com/no-you-don-t-need-to-balance-your-hormones-if-you-ha-1850354729)
 - [Lifehacker] [Don’t Cash Out Your 401&lpar;k&rpar; When You Leave Your Job](https://lifehacker.com/don-t-cash-out-your-401-k-when-you-leave-your-job-1850354812)
