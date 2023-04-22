@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Nodejs Server Using Firebase/Firestore &lpar;CRUD&rpar;](https://dev.to/ibukunfolay/build-a-nodejs-server-using-firebasefirestore-crud-2725)
+- [Dev.to/JS] [Build an AWS API from Scratch: A Comprehensive Step-by-Step Guide with Sample Code](https://dev.to/tingchun0113/build-an-aws-api-from-scratch-a-comprehensive-step-by-step-guide-with-sample-code-2hlb)
+- [Dev.to/JS] [Unleashing the Power of JavaScript Proxy: A Comprehensive Introduction for Developers](https://dev.to/wizdomtek/unleashing-the-power-of-javascript-proxy-a-comprehensive-introduction-for-developers-3f4j)
+- [Dev.to/JS] [From Spotify to YouTube: How I Built a Python Script to Convert Playlists](https://dev.to/yogeshwaran01/from-spotify-to-youtube-how-i-built-a-python-script-to-convert-playlists-2h89)
+- [Dev.to/JS] [Build a Memory Game using React.Js and JavaScript](https://dev.to/krushnachandradash654/build-a-memory-game-using-reactjs-and-javascript-207m)
 - [Dev.to/JS] [Javascript for Noobs: The for...of and for...in Loops](https://dev.to/viditmaniyar/javascript-for-noobs-the-forof-and-forin-loops-51m)
 - [Dev.to/JS] [Debugging ReactJS Issues with ChatGPT: 50 Essential Tips and Examples](https://dev.to/nilanth/debugging-reactjs-issues-with-chatgpt-50-essential-tips-and-examples-448)
 - [Dev.to/JS] [Async and Await in JavaScript: Simplifying Asynchronous Programming](https://dev.to/joepari_codes/async-and-await-in-javascript-simplifying-asynchronous-programming-4n47)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript - OOP with Javascript](https://dev.to/babeng/javascript-oops-with-javascript-1pa4)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;21-04-2023&rpar; - Foie Gras For Everybody](https://dev.to/mjgs/this-weeks-newsletter-is-out-21-04-2023-foie-gras-for-everybody-51af)
 - [Dev.to/JS] [Create a Dynamic Gradient Color Generator with HTML, CSS, and JavaScript](https://dev.to/incoderweb/create-a-dynamic-gradient-color-generator-with-html-css-and-javascript-39ka)
-- [Dev.to/JS] [How to slugify a string in JavaScript](https://dev.to/bybydev/how-to-slugify-a-string-in-javascript-4o9n)
-- [Dev.to/JS] [5 Tips for Optimizing ReactJS Performance and Building Lightning-Fast Applications](https://dev.to/nilanth/5-tips-for-optimizing-reactjs-performance-and-building-lightning-fast-applications-254d)
-- [Dev.to/JS] [Python V.S. Javascript: Which is Better for Webscraping?](https://dev.to/jsquared/python-vs-javascript-which-is-better-for-webscraping-1dh0)
-- [Dev.to/JS] [Spice Up Your Website with These Color-Related Functions](https://dev.to/streetcommunityprogrammer/spice-up-your-website-with-these-color-related-functions-2e6j)
-- [Dev.to/JS] [Can anyone recommend good resources to study react hook forms?](https://dev.to/saadyasser/can-anyone-recommend-good-resources-to-study-react-hook-forms-3n6j)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Prom Pictures With Goats?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-prom-pic-1850362453)
 - [Lifehacker] [Snapchat&#39;s AI Bot Might Be the Easiest Way to Access ChatGPT](https://lifehacker.com/snapchats-ai-bot-might-be-the-easiest-way-to-access-cha-1850362083)
 - [Lifehacker] [Find Out If You Live in One of the Most Polluted US Cities](https://lifehacker.com/find-out-if-you-live-in-one-of-the-most-polluted-us-cit-1850357768)
