@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get Rid of Mold on Your Roof &lpar;and Stop It From Coming Back&rpar;](https://lifehacker.com/you-can-get-rid-of-mold-on-your-roof-and-stop-it-from-1850357545)
+- [Dev.to/JS] [How to resolve server URLs containing variables in OpenAPI 3.x definitions?](https://dev.to/vinitshahdeo/how-to-resolve-server-urls-containing-variables-in-openapi-3x-definitions-kaj)
+- [Dev.to/JS] [Simplifying Data Management in React with React Query](https://dev.to/samaghapour/simplifying-data-management-in-react-with-react-query-29ef)
+- [Dev.to/JS] [How to Create a Poll and Visualize Collected Responses in Real Time](https://dev.to/surveyjs/how-to-create-a-poll-and-visualize-collected-responses-in-real-time-4bi3)
 - [Dev.to/JS] [How to Integrate Node.js with NoSQL Databases](https://dev.to/folasayosamuel/how-to-integrate-nodejs-with-nosql-databases-3b26)
 - [Dev.to/JS] [Fastest Way to Auto Generate Types for Typescript and Input validation](https://dev.to/seyyedkhandon/fastest-way-to-auto-generate-types-for-typescript-and-input-validation-478p)
 - [Lifehacker] [This Is How Much It Costs to Build a New House in Each State](https://lifehacker.com/this-is-how-much-it-costs-to-build-a-new-house-in-each-1850357603)
@@ -34,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ask These Questions Instead of &#39;How Are You?&#39;](https://lifehacker.com/ask-these-questions-instead-of-how-are-you-1850357221)
 - [Dev.to/JS] [Customizing Tailwind CSS Animations: Advancing Your Web Design Skills](https://dev.to/nitinfab/customizing-tailwind-css-animations-advancing-your-web-design-skills-2gb3)
 - [Dev.to/JS] [10 Popular Programming Languages to Learn in 2023: Python, JavaScript, Java, C#, Kotlin...](https://dev.to/abhixsh/10-popular-programming-languages-to-learn-in-2023-python-javascript-java-c-kotlin-1ool)
-- [Dev.to/JS] [List Of JAVASCRIPT Framework- Guide](https://dev.to/makemychance/list-of-javascript-framework-guide-490j)
-- [Dev.to/JS] [Why do you use Typescript with automated tests?](https://dev.to/codingnninja/why-do-you-use-typescript-with-automated-tests-3l91)
-- [Dev.to/JS] [Nested Array Generator](https://dev.to/salahelhossiny/nested-array-generator-40dc)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Prom Pictures With Goats?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-prom-pic-1850362453)
 - [Lifehacker] [Snapchat&#39;s AI Bot Might Be the Easiest Way to Access ChatGPT](https://lifehacker.com/snapchats-ai-bot-might-be-the-easiest-way-to-access-cha-1850362083)
 - [Lifehacker] [Find Out If You Live in One of the Most Polluted US Cities](https://lifehacker.com/find-out-if-you-live-in-one-of-the-most-polluted-us-cit-1850357768)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Move Your Seedlings Outside Without Killing Them](https://lifehacker.com/how-to-move-your-seedlings-outside-without-killing-them-1850346123)
 - [Lifehacker] [Allow Me to Suggest Inverted Chips and Dip](https://lifehacker.com/allow-me-to-suggest-inverted-chips-and-dip-1850350444)
 - [Lifehacker] [Why You Should Exercise Before Studying, According to Science](https://lifehacker.com/why-you-should-exercise-before-studying-according-to-s-1850347857)
-- [Lifehacker] [You Should Plant Artichokes and Asparagus Right Now](https://lifehacker.com/you-should-plant-artichokes-and-asparagus-right-now-1850346525)
-- [Lifehacker] [Get a Free Extra Ticket to See a Movie This Weekend](https://lifehacker.com/get-a-free-extra-ticket-to-see-a-movie-this-weekend-1850354146)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Plant Artichokes and Asparagus Right Now](https://lifehacker.com/you-should-plant-artichokes-and-asparagus-right-now-1850346525)<!-- TECH-POSTS:END -->
 
 ---
 
