@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Comment développer une extension Google Chrome.](https://dev.to/audreymengue/comment-developper-une-extension-google-chrome-28a0)
+- [Dev.to/JS] [React Custom Hooks](https://dev.to/elozino/react-custom-hooks-484b)
+- [Dev.to/JS] [Acessibilidade na Web necessidade ou dever ?](https://dev.to/oguhpereira/acessibilidade-na-web-necessidade-ou-dever--14ic)
 - [Dev.to/JS] [Measuring Performance of Long Running Tasks in the Browser](https://dev.to/kunaljaydesai/measuring-performance-of-long-running-tasks-in-the-browser-1mpo)
 - [Lifehacker] [You Can Get Rid of Mold on Your Roof &lpar;and Stop It From Coming Back&rpar;](https://lifehacker.com/you-can-get-rid-of-mold-on-your-roof-and-stop-it-from-1850357545)
 - [Dev.to/JS] [How to resolve server URLs containing variables in OpenAPI 3.x definitions?](https://dev.to/vinitshahdeo/how-to-resolve-server-urls-containing-variables-in-openapi-3x-definitions-kaj)
@@ -34,10 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Importance of Clean Code in JavaScript Development](https://dev.to/rahulj9a/the-importance-of-clean-code-in-javascript-development-4d8i)
 - [Dev.to/JS] [What are the best 5 Programming Languages to learn in 2023](https://dev.to/incoderweb/what-are-the-best-5-programming-languages-to-learn-in-2023-312k)
 - [Dev.to/JS] [JavaScript for in loop](https://dev.to/max24816/javascript-for-in-loop-5gne)
-- [Dev.to/JS] [How To Get Clients For Web Development Agencies](https://dev.to/chetanam/how-to-get-clients-for-web-development-agencies-117c)
-- [Dev.to/JS] [How to Retrieve a Google Sheet in JSON Format Using the Google Sheets ID](https://dev.to/sh20raj/how-to-retrieve-a-google-sheet-in-json-format-using-the-google-sheets-id-3m61)
 - [Lifehacker] [Ask These Questions Instead of &#39;How Are You?&#39;](https://lifehacker.com/ask-these-questions-instead-of-how-are-you-1850357221)
-- [Dev.to/JS] [Customizing Tailwind CSS Animations: Advancing Your Web Design Skills](https://dev.to/nitinfab/customizing-tailwind-css-animations-advancing-your-web-design-skills-2gb3)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Prom Pictures With Goats?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-prom-pic-1850362453)
 - [Lifehacker] [Snapchat&#39;s AI Bot Might Be the Easiest Way to Access ChatGPT](https://lifehacker.com/snapchats-ai-bot-might-be-the-easiest-way-to-access-cha-1850362083)
 - [Lifehacker] [Find Out If You Live in One of the Most Polluted US Cities](https://lifehacker.com/find-out-if-you-live-in-one-of-the-most-polluted-us-cit-1850357768)
