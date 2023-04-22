@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Is How Much It Costs to Build a New House in Each State](https://lifehacker.com/this-is-how-much-it-costs-to-build-a-new-house-in-each-1850357603)
+- [Dev.to/JS] [What are the best 5 Programming Languages to learn in 2023](https://dev.to/incoderweb/what-are-the-best-5-programming-languages-to-learn-in-2023-312k)
+- [Dev.to/JS] [JavaScript for in loop](https://dev.to/max24816/javascript-for-in-loop-5gne)
+- [Dev.to/JS] [How To Get Clients For Web Development Agencies](https://dev.to/chetanam/how-to-get-clients-for-web-development-agencies-117c)
 - [Dev.to/JS] [How to Retrieve a Google Sheet in JSON Format Using the Google Sheets ID](https://dev.to/sh20raj/how-to-retrieve-a-google-sheet-in-json-format-using-the-google-sheets-id-3m61)
 - [Lifehacker] [Ask These Questions Instead of &#39;How Are You?&#39;](https://lifehacker.com/ask-these-questions-instead-of-how-are-you-1850357221)
 - [Dev.to/JS] [Customizing Tailwind CSS Animations: Advancing Your Web Design Skills](https://dev.to/nitinfab/customizing-tailwind-css-animations-advancing-your-web-design-skills-2gb3)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlock the Power of Node.js Testing with the New Node Test Runner Feature](https://dev.to/hi_iam_chris/unlock-the-power-of-nodejs-testing-with-the-new-node-test-runner-feature-1o96)
 - [Dev.to/JS] [How To Get Clients For Web Development Agencies](https://dev.to/chetanam/how-to-get-clients-for-web-development-agencies-11o5)
 - [Dev.to/JS] [Creating template literals from strings](https://dev.to/efpage/creating-template-literals-from-strings-3bob)
-- [Dev.to/JS] [Simpler Async State Management in React Apps with Hyperfetch](https://dev.to/reuben09/simpler-async-state-management-in-react-apps-with-hyperfetch-2p2k)
-- [Dev.to/JS] [Build a Nodejs Server Using Firebase/Firestore &lpar;CRUD&rpar;](https://dev.to/ibukunfolay/build-a-nodejs-server-using-firebasefirestore-crud-2725)
-- [Dev.to/JS] [Build an AWS API from Scratch: A Comprehensive Step-by-Step Guide with Sample Code](https://dev.to/tingchun0113/build-an-aws-api-from-scratch-a-comprehensive-step-by-step-guide-with-sample-code-2hlb)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Prom Pictures With Goats?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-prom-pic-1850362453)
 - [Lifehacker] [Snapchat&#39;s AI Bot Might Be the Easiest Way to Access ChatGPT](https://lifehacker.com/snapchats-ai-bot-might-be-the-easiest-way-to-access-cha-1850362083)
 - [Lifehacker] [Find Out If You Live in One of the Most Polluted US Cities](https://lifehacker.com/find-out-if-you-live-in-one-of-the-most-polluted-us-cit-1850357768)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Allow Me to Suggest Inverted Chips and Dip](https://lifehacker.com/allow-me-to-suggest-inverted-chips-and-dip-1850350444)
 - [Lifehacker] [Why You Should Exercise Before Studying, According to Science](https://lifehacker.com/why-you-should-exercise-before-studying-according-to-s-1850347857)
 - [Lifehacker] [You Should Plant Artichokes and Asparagus Right Now](https://lifehacker.com/you-should-plant-artichokes-and-asparagus-right-now-1850346525)
-- [Lifehacker] [Get a Free Extra Ticket to See a Movie This Weekend](https://lifehacker.com/get-a-free-extra-ticket-to-see-a-movie-this-weekend-1850354146)
-- [Lifehacker] [Netflix Is Officially Ending Free Password Sharing &lpar;Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Get a Free Extra Ticket to See a Movie This Weekend](https://lifehacker.com/get-a-free-extra-ticket-to-see-a-movie-this-weekend-1850354146)<!-- TECH-POSTS:END -->
 
 ---
 
