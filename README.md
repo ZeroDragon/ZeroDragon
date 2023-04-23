@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Rakuten Advertising is one of the top Affiliate Programs?](https://dev.to/selfearn160/why-rakuten-advertising-is-one-of-the-top-affiliate-programs-4ano)
+- [Dev.to/JS] [Why Commison Junction is one of the top Affiliate Programs?](https://dev.to/selfearn160/why-commison-junction-is-one-of-the-top-affiliate-programs-534d)
+- [Dev.to/JS] [Why Commison Junction is one of the top Affiliate Programs?](https://dev.to/selfearn160/why-commison-junction-is-one-of-the-top-affiliate-programs-5fhm)
+- [Dev.to/JS] [Reactivity in JavaScript frameworks](https://dev.to/learnersbucket/reactivity-in-javascript-frameworks-2fm3)
 - [Lifehacker] [You Can &#39;Dust&#39; Curtains in Your Dryer](https://lifehacker.com/you-can-dust-curtains-in-your-dryer-1850357206)
 - [Dev.to/JS] [Revitalizing an Outdated Website with EJS and Webpack in 2023](https://dev.to/slobodan4nista/revitalizing-an-outdated-website-with-ejs-and-webpack-in-2023-lle)
 - [Dev.to/JS] [Simplifying state management with useReducer hook](https://dev.to/vivekalhat/simplifying-state-management-with-usereducer-hook-50e4)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sessions &amp; Cookies. Yum.](https://dev.to/gageharmon/sessions-cookies-yum-36d9)
 - [Lifehacker] [Ask Your Best Friend Three Questions to Learn Who You Are Outside of Work](https://lifehacker.com/ask-your-best-friend-three-questions-to-learn-who-you-a-1850357626)
 - [Dev.to/JS] [Django Project Ideas for Beginners to Experts: A Complete Guide](https://dev.to/owoyomi20/django-project-ideas-for-beginners-to-experts-a-complete-guide-4cf7)
-- [Dev.to/JS] [Secure ReactJS Applicaiton on AWS](https://dev.to/mohammadfaisal/secure-reactjs-applicaiton-on-aws-d59)
-- [Dev.to/JS] [New tip for beginner react devs!](https://dev.to/karimucheru/new-tip-for-beginner-react-devs-5gi2)
-- [Dev.to/JS] [Use CSS to Set a Video as the Full Background of Your Website](https://dev.to/sh20raj/how-to-use-css-to-set-a-video-as-the-full-background-of-your-website-d6i)
-- [Dev.to/JS] [Sharing Modules Across Different Applications: Dynamic Module Federation with Nx Workspace](https://dev.to/angellicaaraujo/sharing-modules-across-different-applications-dynamic-module-federation-with-nx-workspace-1j86)
 - [Lifehacker] [You Can Get Rid of Mold on Your Roof &lpar;and Stop It From Coming Back&rpar;](https://lifehacker.com/you-can-get-rid-of-mold-on-your-roof-and-stop-it-from-1850357545)
 - [Lifehacker] [This Is How Much It Costs to Build a New House in Each State](https://lifehacker.com/this-is-how-much-it-costs-to-build-a-new-house-in-each-1850357603)
 - [Lifehacker] [Ask These Questions Instead of &#39;How Are You?&#39;](https://lifehacker.com/ask-these-questions-instead-of-how-are-you-1850357221)
