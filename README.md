@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sessions &amp; Cookies. Yum.](https://dev.to/gageharmon/sessions-cookies-yum-36d9)
+- [Lifehacker] [Ask Your Best Friend Three Questions to Learn Who You Are Outside of Work](https://lifehacker.com/ask-your-best-friend-three-questions-to-learn-who-you-a-1850357626)
 - [Dev.to/JS] [Django Project Ideas for Beginners to Experts: A Complete Guide](https://dev.to/owoyomi20/django-project-ideas-for-beginners-to-experts-a-complete-guide-4cf7)
 - [Dev.to/JS] [Secure ReactJS Applicaiton on AWS](https://dev.to/mohammadfaisal/secure-reactjs-applicaiton-on-aws-d59)
 - [Dev.to/JS] [New tip for beginner react devs!](https://dev.to/karimucheru/new-tip-for-beginner-react-devs-5gi2)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Interacting with Shimmer3 using Node SerialPort](https://dev.to/manufac/interacting-with-shimmer3-using-node-serialport-3ge8)
 - [Dev.to/JS] [Reveal on Scroll with Nuxt and Intersection Observer API](https://dev.to/michaelsynan/reveal-on-scroll-with-nuxt-and-intersection-observer-api-53di)
 - [Dev.to/JS] [How to create a react-app](https://dev.to/candie_code/how-to-create-a-react-app-483n)
-- [Dev.to/JS] [How to generate elements with HTML, JavaScript, and React ?](https://dev.to/akashdeveloper/how-to-generate-elements-with-html-javascript-and-react--3nim)
 - [Lifehacker] [You Can Get Rid of Mold on Your Roof &lpar;and Stop It From Coming Back&rpar;](https://lifehacker.com/you-can-get-rid-of-mold-on-your-roof-and-stop-it-from-1850357545)
 - [Lifehacker] [This Is How Much It Costs to Build a New House in Each State](https://lifehacker.com/this-is-how-much-it-costs-to-build-a-new-house-in-each-1850357603)
 - [Lifehacker] [Ask These Questions Instead of &#39;How Are You?&#39;](https://lifehacker.com/ask-these-questions-instead-of-how-are-you-1850357221)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can ‘Unretire,’ but It Might Cost You](https://lifehacker.com/you-can-unretire-but-it-might-cost-you-1850353487)
 - [Lifehacker] [How to Move Your Seedlings Outside Without Killing Them](https://lifehacker.com/how-to-move-your-seedlings-outside-without-killing-them-1850346123)
 - [Lifehacker] [Allow Me to Suggest Inverted Chips and Dip](https://lifehacker.com/allow-me-to-suggest-inverted-chips-and-dip-1850350444)
-- [Lifehacker] [Why You Should Exercise Before Studying, According to Science](https://lifehacker.com/why-you-should-exercise-before-studying-according-to-s-1850347857)
-- [Lifehacker] [You Should Plant Artichokes and Asparagus Right Now](https://lifehacker.com/you-should-plant-artichokes-and-asparagus-right-now-1850346525)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Exercise Before Studying, According to Science](https://lifehacker.com/why-you-should-exercise-before-studying-according-to-s-1850347857)<!-- TECH-POSTS:END -->
 
 ---
 
