@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Markdown preview in react.js](https://dev.to/djibrilm/markdown-preview-in-reactjs-adp)
+- [Dev.to/JS] [Working on Matching and User Interface Improvements for the project](https://dev.to/arashjangali/working-on-matching-and-user-interface-improvements-for-the-project-d6f)
+- [Dev.to/JS] [Removing Timezones from Dates in Javascript](https://dev.to/shubhampatilsd/removing-timezones-from-dates-in-javascript-46ah)
+- [Dev.to/JS] [Deep Copying Objects with the StructuredClone API](https://dev.to/asayerio_techblog/deep-copying-objects-with-the-structuredclone-api-1edd)
+- [Dev.to/JS] [Best Practices for Async Programming in JavaScript](https://dev.to/asayerio_techblog/best-practices-for-async-programming-in-javascript-gpf)
+- [Dev.to/JS] [Edit and preview Markdown in react.js](https://dev.to/djibrilm/markdown-preview-in-reactjs-adp)
 - [Dev.to/JS] [Comment développer une extension Google Chrome.](https://dev.to/audreymengue/comment-developper-une-extension-google-chrome-28a0)
 - [Dev.to/JS] [React Custom Hooks](https://dev.to/elozino/react-custom-hooks-484b)
 - [Dev.to/JS] [Acessibilidade na Web necessidade ou dever ?](https://dev.to/oguhpereira/acessibilidade-na-web-necessidade-ou-dever--14ic)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to resolve server URLs containing variables in OpenAPI 3.x definitions?](https://dev.to/vinitshahdeo/how-to-resolve-server-urls-containing-variables-in-openapi-3x-definitions-kaj)
 - [Dev.to/JS] [Simplifying Data Management in React with React Query](https://dev.to/samaghapour/simplifying-data-management-in-react-with-react-query-29ef)
 - [Dev.to/JS] [How to Create a Poll and Visualize Collected Responses in Real Time](https://dev.to/surveyjs/how-to-create-a-poll-and-visualize-collected-responses-in-real-time-4bi3)
-- [Dev.to/JS] [How to Integrate Node.js with NoSQL Databases](https://dev.to/folasayosamuel/how-to-integrate-nodejs-with-nosql-databases-3b26)
-- [Dev.to/JS] [Fastest Way to Auto Generate Types for Typescript and Input validation](https://dev.to/seyyedkhandon/fastest-way-to-auto-generate-types-for-typescript-and-input-validation-478p)
 - [Lifehacker] [This Is How Much It Costs to Build a New House in Each State](https://lifehacker.com/this-is-how-much-it-costs-to-build-a-new-house-in-each-1850357603)
-- [Dev.to/JS] [The Importance of Clean Code in JavaScript Development](https://dev.to/rahulj9a/the-importance-of-clean-code-in-javascript-development-4d8i)
-- [Dev.to/JS] [What are the best 5 Programming Languages to learn in 2023](https://dev.to/incoderweb/what-are-the-best-5-programming-languages-to-learn-in-2023-312k)
 - [Lifehacker] [Ask These Questions Instead of &#39;How Are You?&#39;](https://lifehacker.com/ask-these-questions-instead-of-how-are-you-1850357221)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Prom Pictures With Goats?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-prom-pic-1850362453)
 - [Lifehacker] [Snapchat&#39;s AI Bot Might Be the Easiest Way to Access ChatGPT](https://lifehacker.com/snapchats-ai-bot-might-be-the-easiest-way-to-access-cha-1850362083)
