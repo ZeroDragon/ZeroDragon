@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a react-app](https://dev.to/candie_code/how-to-create-a-react-app-483n)
+- [Dev.to/JS] [How to generate elements with HTML, JavaScript, and React ?](https://dev.to/akashdeveloper/how-to-generate-elements-with-html-javascript-and-react--3nim)
 - [Dev.to/JS] [Top Best Practices for Using React in 2023](https://dev.to/avneeshd/top-best-practices-for-using-react-in-2023-135j)
 - [Dev.to/JS] [A Step-by-Step Guide to Deploying Your React Website on Hostinger Hosting](https://dev.to/sandy088/how-to-deploy-your-react-website-on-hostinger-1p2l)
 - [Dev.to/JS] [Bridge Between Lifecycle Methods &amp; Hooks](https://dev.to/dristy03/bridge-between-lifecycle-methods-hooks-54j7)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Promises in JavaScript.](https://dev.to/abiala705/understanding-promises-in-javascript-168b)
 - [Dev.to/JS] [How I Made a Reminder to Write a Blog Post Using GitHub Action](https://dev.to/imamdev_/how-i-made-a-reminder-to-write-a-blog-post-using-github-action-3n88)
 - [Dev.to/JS] [Creating a Custom JavaScript Audio Player with CDN Integration](https://dev.to/sh20raj/creating-a-custom-javascript-audio-player-with-cdn-integration-4pid)
-- [Dev.to/JS] [Tips on making a web site accessible part 1](https://dev.to/karenpayneoregon/tips-on-making-a-web-site-accessible-part-1-5e8b)
-- [Dev.to/JS] [ColPat : The Ultimate Design Tool](https://dev.to/vishwagauravin/colpat-the-ultimate-design-tool-2f0n)
 - [Lifehacker] [You Can Get Rid of Mold on Your Roof &lpar;and Stop It From Coming Back&rpar;](https://lifehacker.com/you-can-get-rid-of-mold-on-your-roof-and-stop-it-from-1850357545)
 - [Lifehacker] [This Is How Much It Costs to Build a New House in Each State](https://lifehacker.com/this-is-how-much-it-costs-to-build-a-new-house-in-each-1850357603)
 - [Lifehacker] [Ask These Questions Instead of &#39;How Are You?&#39;](https://lifehacker.com/ask-these-questions-instead-of-how-are-you-1850357221)
