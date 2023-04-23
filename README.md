@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Markdown preview in react.js](https://dev.to/djibrilm/markdown-preview-in-reactjs-adp)
 - [Dev.to/JS] [Comment développer une extension Google Chrome.](https://dev.to/audreymengue/comment-developper-une-extension-google-chrome-28a0)
 - [Dev.to/JS] [React Custom Hooks](https://dev.to/elozino/react-custom-hooks-484b)
 - [Dev.to/JS] [Acessibilidade na Web necessidade ou dever ?](https://dev.to/oguhpereira/acessibilidade-na-web-necessidade-ou-dever--14ic)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is How Much It Costs to Build a New House in Each State](https://lifehacker.com/this-is-how-much-it-costs-to-build-a-new-house-in-each-1850357603)
 - [Dev.to/JS] [The Importance of Clean Code in JavaScript Development](https://dev.to/rahulj9a/the-importance-of-clean-code-in-javascript-development-4d8i)
 - [Dev.to/JS] [What are the best 5 Programming Languages to learn in 2023](https://dev.to/incoderweb/what-are-the-best-5-programming-languages-to-learn-in-2023-312k)
-- [Dev.to/JS] [JavaScript for in loop](https://dev.to/max24816/javascript-for-in-loop-5gne)
 - [Lifehacker] [Ask These Questions Instead of &#39;How Are You?&#39;](https://lifehacker.com/ask-these-questions-instead-of-how-are-you-1850357221)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Prom Pictures With Goats?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-prom-pic-1850362453)
 - [Lifehacker] [Snapchat&#39;s AI Bot Might Be the Easiest Way to Access ChatGPT](https://lifehacker.com/snapchats-ai-bot-might-be-the-easiest-way-to-access-cha-1850362083)
