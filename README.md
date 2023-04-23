@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Assertions in TypeScript](https://dev.to/tomoy/assertions-in-typescript-3645)
+- [Dev.to/JS] [Creating your own ExpressJS from scratch &lpar;Part 4&rpar; - Modular router and global middlewares](https://dev.to/wesleymreng7/creating-your-own-expressjs-from-scratch-part-4-modular-router-and-global-middlewares-560m)
+- [Dev.to/JS] [Web-Essentials Reminder](https://dev.to/cherypick/web-essentials-reminder-3fn5)
 - [Dev.to/JS] [Vuejs Best practices to always follow:](https://dev.to/niteshsingh29/vuejs-best-practices-to-always-follow-2e9a)
 - [Dev.to/JS] [TypeScript: Type Assertions and Const Assertions](https://dev.to/ayako_yk/typescript-type-assertions-and-const-assertions-3lf1)
 - [Dev.to/JS] [How To Export Unique Barcode to Excel In Laravel](https://dev.to/anik2069/how-to-export-unique-barcode-to-excel-in-laravel-2lma)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can &#39;Dust&#39; Curtains in Your Dryer](https://lifehacker.com/you-can-dust-curtains-in-your-dryer-1850357206)
 - [Dev.to/JS] [Revitalizing an Outdated Website with EJS and Webpack in 2023](https://dev.to/slobodan4nista/revitalizing-an-outdated-website-with-ejs-and-webpack-in-2023-lle)
 - [Dev.to/JS] [Simplifying state management with useReducer hook](https://dev.to/vivekalhat/simplifying-state-management-with-usereducer-hook-50e4)
-- [Dev.to/JS] [Must-know Javascript object property security](https://dev.to/sefatanam/must-know-javascript-object-property-security-1jfa)
-- [Dev.to/JS] [Schedule Cloudflare Worker using Cron Triggers](https://dev.to/hrishiksh/schedule-cloudflare-worker-using-cron-triggers-2glp)
-- [Dev.to/JS] [LeetCode - Divide Two Integers](https://dev.to/_alkesh26/leetcode-divide-two-integers-6gl)
 - [Lifehacker] [How to Get Free Mother&#39;s Day Flowers From Lowe&#39;s](https://lifehacker.com/how-to-get-free-mothers-day-flowers-from-lowes-1850357215)
 - [Lifehacker] [Ask Your Best Friend Three Questions to Learn Who You Are Outside of Work](https://lifehacker.com/ask-your-best-friend-three-questions-to-learn-who-you-a-1850357626)
 - [Lifehacker] [You Can Get Rid of Mold on Your Roof &lpar;and Stop It From Coming Back&rpar;](https://lifehacker.com/you-can-get-rid-of-mold-on-your-roof-and-stop-it-from-1850357545)
