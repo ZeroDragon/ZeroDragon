@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Set Up Tailwind Css With vite-react-app and yarn](https://dev.to/hridoypartho/set-up-tailwind-css-with-vite-react-app-and-yarn-2ge2)
 - [Dev.to/JS] [Understanding Promises in JavaScript.](https://dev.to/abiala705/understanding-promises-in-javascript-168b)
 - [Dev.to/JS] [How I Made a Reminder to Write a Blog Post Using GitHub Action](https://dev.to/imamdev_/how-i-made-a-reminder-to-write-a-blog-post-using-github-action-3n88)
 - [Dev.to/JS] [Creating a Custom JavaScript Audio Player with CDN Integration](https://dev.to/sh20raj/creating-a-custom-javascript-audio-player-with-cdn-integration-4pid)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Practices for Async Programming in JavaScript](https://dev.to/asayerio_techblog/best-practices-for-async-programming-in-javascript-gpf)
 - [Dev.to/JS] [Edit and preview Markdown in react.js](https://dev.to/djibrilm/markdown-preview-in-reactjs-adp)
 - [Dev.to/JS] [Comment développer une extension Google Chrome.](https://dev.to/audreymengue/comment-developper-une-extension-google-chrome-28a0)
-- [Dev.to/JS] [React Custom Hooks](https://dev.to/elozino/react-custom-hooks-484b)
 - [Lifehacker] [You Can Get Rid of Mold on Your Roof &lpar;and Stop It From Coming Back&rpar;](https://lifehacker.com/you-can-get-rid-of-mold-on-your-roof-and-stop-it-from-1850357545)
 - [Lifehacker] [This Is How Much It Costs to Build a New House in Each State](https://lifehacker.com/this-is-how-much-it-costs-to-build-a-new-house-in-each-1850357603)
 - [Lifehacker] [Ask These Questions Instead of &#39;How Are You?&#39;](https://lifehacker.com/ask-these-questions-instead-of-how-are-you-1850357221)
