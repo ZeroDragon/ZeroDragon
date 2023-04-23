@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Free Mother&#39;s Day Flowers From Lowe&#39;s](https://lifehacker.com/how-to-get-free-mothers-day-flowers-from-lowes-1850357215)
+- [Dev.to/JS] [Add simple pagination in Nest.js Mongoose](https://dev.to/grahammorby/add-simple-pagination-in-nestjs-mongoose-n9m)
 - [Dev.to/JS] [Sessions &amp; Cookies. Yum.](https://dev.to/gageharmon/sessions-cookies-yum-36d9)
 - [Lifehacker] [Ask Your Best Friend Three Questions to Learn Who You Are Outside of Work](https://lifehacker.com/ask-your-best-friend-three-questions-to-learn-who-you-a-1850357626)
 - [Dev.to/JS] [Django Project Ideas for Beginners to Experts: A Complete Guide](https://dev.to/owoyomi20/django-project-ideas-for-beginners-to-experts-a-complete-guide-4cf7)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best 3 Bootstrap Alternatives](https://dev.to/badbatunde/best-3-bootstrap-alternatives-4mgm)
 - [Dev.to/JS] [Interacting with Shimmer3 using Node SerialPort](https://dev.to/manufac/interacting-with-shimmer3-using-node-serialport-3ge8)
 - [Dev.to/JS] [Reveal on Scroll with Nuxt and Intersection Observer API](https://dev.to/michaelsynan/reveal-on-scroll-with-nuxt-and-intersection-observer-api-53di)
-- [Dev.to/JS] [How to create a react-app](https://dev.to/candie_code/how-to-create-a-react-app-483n)
 - [Lifehacker] [You Can Get Rid of Mold on Your Roof &lpar;and Stop It From Coming Back&rpar;](https://lifehacker.com/you-can-get-rid-of-mold-on-your-roof-and-stop-it-from-1850357545)
 - [Lifehacker] [This Is How Much It Costs to Build a New House in Each State](https://lifehacker.com/this-is-how-much-it-costs-to-build-a-new-house-in-each-1850357603)
 - [Lifehacker] [Ask These Questions Instead of &#39;How Are You?&#39;](https://lifehacker.com/ask-these-questions-instead-of-how-are-you-1850357221)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Say &lpar;and Not Say&rpar; When Handing in Late Assignments, According to Professors](https://lifehacker.com/what-to-say-and-not-say-when-handing-in-late-assignme-1850343910)
 - [Lifehacker] [You Can ‘Unretire,’ but It Might Cost You](https://lifehacker.com/you-can-unretire-but-it-might-cost-you-1850353487)
 - [Lifehacker] [How to Move Your Seedlings Outside Without Killing Them](https://lifehacker.com/how-to-move-your-seedlings-outside-without-killing-them-1850346123)
-- [Lifehacker] [Allow Me to Suggest Inverted Chips and Dip](https://lifehacker.com/allow-me-to-suggest-inverted-chips-and-dip-1850350444)
-- [Lifehacker] [Why You Should Exercise Before Studying, According to Science](https://lifehacker.com/why-you-should-exercise-before-studying-according-to-s-1850347857)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Allow Me to Suggest Inverted Chips and Dip](https://lifehacker.com/allow-me-to-suggest-inverted-chips-and-dip-1850350444)<!-- TECH-POSTS:END -->
 
 ---
 
