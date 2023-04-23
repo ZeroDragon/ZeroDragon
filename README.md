@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Master Programming: Top Free Courses to Help You Begin Your Journey](https://dev.to/naser_shareef/how-to-master-programming-top-free-courses-to-help-you-begin-your-journey-56ho)
+- [Dev.to/JS] [Are refresh tokens really safe from XSS?](https://dev.to/logharaa/are-refresh-tokens-really-safe-from-xss-2l5e)
+- [Dev.to/JS] [Best 3 Bootstrap Alternatives](https://dev.to/badbatunde/best-3-bootstrap-alternatives-4mgm)
 - [Dev.to/JS] [Interacting with Shimmer3 using Node SerialPort](https://dev.to/manufac/interacting-with-shimmer3-using-node-serialport-3ge8)
 - [Dev.to/JS] [Reveal on Scroll with Nuxt and Intersection Observer API](https://dev.to/michaelsynan/reveal-on-scroll-with-nuxt-and-intersection-observer-api-53di)
 - [Dev.to/JS] [How to create a react-app](https://dev.to/candie_code/how-to-create-a-react-app-483n)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bridge Between Lifecycle Methods &amp; Hooks](https://dev.to/dristy03/bridge-between-lifecycle-methods-hooks-54j7)
 - [Dev.to/JS] [Learn about API Development Types, Tools, and Best Practices](https://dev.to/aradwan20/learn-about-api-development-types-tools-and-best-practices-5fbj)
 - [Dev.to/JS] [Mastering JSDoc: the complete guide for Javascript developers](https://dev.to/nikolasbarwicki/mastering-jsdoc-the-complete-guide-for-javascript-developers-1lic)
-- [Dev.to/JS] [50 ChatGPT Prompts to Debug ReactJS Issues](https://dev.to/nilanth/50-chatgpt-prompts-to-debug-reactjs-issues-35h3)
-- [Dev.to/JS] [Set Up Tailwind Css With vite-react-app and yarn](https://dev.to/hridoypartho/set-up-tailwind-css-with-vite-react-app-and-yarn-2ge2)
-- [Dev.to/JS] [Understanding Promises in JavaScript.](https://dev.to/abiala705/understanding-promises-in-javascript-168b)
 - [Lifehacker] [You Can Get Rid of Mold on Your Roof &lpar;and Stop It From Coming Back&rpar;](https://lifehacker.com/you-can-get-rid-of-mold-on-your-roof-and-stop-it-from-1850357545)
 - [Lifehacker] [This Is How Much It Costs to Build a New House in Each State](https://lifehacker.com/this-is-how-much-it-costs-to-build-a-new-house-in-each-1850357603)
 - [Lifehacker] [Ask These Questions Instead of &#39;How Are You?&#39;](https://lifehacker.com/ask-these-questions-instead-of-how-are-you-1850357221)
