@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can &#39;Dust&#39; Curtains in Your Dryer](https://lifehacker.com/you-can-dust-curtains-in-your-dryer-1850357206)
+- [Dev.to/JS] [Revitalizing an Outdated Website with EJS and Webpack in 2023](https://dev.to/slobodan4nista/revitalizing-an-outdated-website-with-ejs-and-webpack-in-2023-lle)
+- [Dev.to/JS] [Simplifying state management with useReducer hook](https://dev.to/vivekalhat/simplifying-state-management-with-usereducer-hook-50e4)
+- [Dev.to/JS] [Must-know Javascript object property security](https://dev.to/sefatanam/must-know-javascript-object-property-security-1jfa)
 - [Dev.to/JS] [Schedule Cloudflare Worker using Cron Triggers](https://dev.to/hrishiksh/schedule-cloudflare-worker-using-cron-triggers-2glp)
 - [Dev.to/JS] [LeetCode - Divide Two Integers](https://dev.to/_alkesh26/leetcode-divide-two-integers-6gl)
 - [Lifehacker] [How to Get Free Mother&#39;s Day Flowers From Lowe&#39;s](https://lifehacker.com/how-to-get-free-mothers-day-flowers-from-lowes-1850357215)
@@ -34,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New tip for beginner react devs!](https://dev.to/karimucheru/new-tip-for-beginner-react-devs-5gi2)
 - [Dev.to/JS] [Use CSS to Set a Video as the Full Background of Your Website](https://dev.to/sh20raj/how-to-use-css-to-set-a-video-as-the-full-background-of-your-website-d6i)
 - [Dev.to/JS] [Sharing Modules Across Different Applications: Dynamic Module Federation with Nx Workspace](https://dev.to/angellicaaraujo/sharing-modules-across-different-applications-dynamic-module-federation-with-nx-workspace-1j86)
-- [Dev.to/JS] [How to Master Programming: Top Free Courses to Help You Begin Your Journey](https://dev.to/naser_shareef/how-to-master-programming-top-free-courses-to-help-you-begin-your-journey-56ho)
-- [Dev.to/JS] [Are refresh tokens really safe from XSS?](https://dev.to/logharaa/are-refresh-tokens-really-safe-from-xss-2l5e)
-- [Dev.to/JS] [Best 3 Bootstrap Alternatives](https://dev.to/badbatunde/best-3-bootstrap-alternatives-4mgm)
 - [Lifehacker] [You Can Get Rid of Mold on Your Roof &lpar;and Stop It From Coming Back&rpar;](https://lifehacker.com/you-can-get-rid-of-mold-on-your-roof-and-stop-it-from-1850357545)
 - [Lifehacker] [This Is How Much It Costs to Build a New House in Each State](https://lifehacker.com/this-is-how-much-it-costs-to-build-a-new-house-in-each-1850357603)
 - [Lifehacker] [Ask These Questions Instead of &#39;How Are You?&#39;](https://lifehacker.com/ask-these-questions-instead-of-how-are-you-1850357221)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Are Sleepovers Finally Dead?](https://lifehacker.com/are-sleepovers-finally-over-1850352705)
 - [Lifehacker] [What to Say &lpar;and Not Say&rpar; When Handing in Late Assignments, According to Professors](https://lifehacker.com/what-to-say-and-not-say-when-handing-in-late-assignme-1850343910)
 - [Lifehacker] [You Can ‘Unretire,’ but It Might Cost You](https://lifehacker.com/you-can-unretire-but-it-might-cost-you-1850353487)
-- [Lifehacker] [How to Move Your Seedlings Outside Without Killing Them](https://lifehacker.com/how-to-move-your-seedlings-outside-without-killing-them-1850346123)
-- [Lifehacker] [Allow Me to Suggest Inverted Chips and Dip](https://lifehacker.com/allow-me-to-suggest-inverted-chips-and-dip-1850350444)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Move Your Seedlings Outside Without Killing Them](https://lifehacker.com/how-to-move-your-seedlings-outside-without-killing-them-1850346123)<!-- TECH-POSTS:END -->
 
 ---
 
