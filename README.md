@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a Custom JavaScript Audio Player with CDN Integration](https://dev.to/sh20raj/creating-a-custom-javascript-audio-player-with-cdn-integration-4pid)
+- [Dev.to/JS] [Tips on making a web site accessible part 1](https://dev.to/karenpayneoregon/tips-on-making-a-web-site-accessible-part-1-5e8b)
+- [Dev.to/JS] [ColPat : The Ultimate Design Tool](https://dev.to/vishwagauravin/colpat-the-ultimate-design-tool-2f0n)
 - [Dev.to/JS] [Working on Matching and User Interface Improvements for the project](https://dev.to/arashjangali/working-on-matching-and-user-interface-improvements-for-the-project-d6f)
 - [Dev.to/JS] [Removing Timezones from Dates in Javascript](https://dev.to/shubhampatilsd/removing-timezones-from-dates-in-javascript-46ah)
 - [Dev.to/JS] [Deep Copying Objects with the StructuredClone API](https://dev.to/asayerio_techblog/deep-copying-objects-with-the-structuredclone-api-1edd)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Acessibilidade na Web necessidade ou dever ?](https://dev.to/oguhpereira/acessibilidade-na-web-necessidade-ou-dever--14ic)
 - [Dev.to/JS] [Measuring Performance of Long Running Tasks in the Browser](https://dev.to/kunaljaydesai/measuring-performance-of-long-running-tasks-in-the-browser-1mpo)
 - [Lifehacker] [You Can Get Rid of Mold on Your Roof &lpar;and Stop It From Coming Back&rpar;](https://lifehacker.com/you-can-get-rid-of-mold-on-your-roof-and-stop-it-from-1850357545)
-- [Dev.to/JS] [How to resolve server URLs containing variables in OpenAPI 3.x definitions?](https://dev.to/vinitshahdeo/how-to-resolve-server-urls-containing-variables-in-openapi-3x-definitions-kaj)
-- [Dev.to/JS] [Simplifying Data Management in React with React Query](https://dev.to/samaghapour/simplifying-data-management-in-react-with-react-query-29ef)
-- [Dev.to/JS] [How to Create a Poll and Visualize Collected Responses in Real Time](https://dev.to/surveyjs/how-to-create-a-poll-and-visualize-collected-responses-in-real-time-4bi3)
 - [Lifehacker] [This Is How Much It Costs to Build a New House in Each State](https://lifehacker.com/this-is-how-much-it-costs-to-build-a-new-house-in-each-1850357603)
 - [Lifehacker] [Ask These Questions Instead of &#39;How Are You?&#39;](https://lifehacker.com/ask-these-questions-instead-of-how-are-you-1850357221)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Prom Pictures With Goats?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-prom-pic-1850362453)
