@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vuejs Best practices to always follow:](https://dev.to/niteshsingh29/vuejs-best-practices-to-always-follow-2e9a)
 - [Dev.to/JS] [TypeScript: Type Assertions and Const Assertions](https://dev.to/ayako_yk/typescript-type-assertions-and-const-assertions-3lf1)
 - [Dev.to/JS] [How To Export Unique Barcode to Excel In Laravel](https://dev.to/anik2069/how-to-export-unique-barcode-to-excel-in-laravel-2lma)
 - [Dev.to/JS] [Why Rakuten Advertising is one of the top Affiliate Programs?](https://dev.to/selfearn160/why-rakuten-advertising-is-one-of-the-top-affiliate-programs-4ano)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Schedule Cloudflare Worker using Cron Triggers](https://dev.to/hrishiksh/schedule-cloudflare-worker-using-cron-triggers-2glp)
 - [Dev.to/JS] [LeetCode - Divide Two Integers](https://dev.to/_alkesh26/leetcode-divide-two-integers-6gl)
 - [Lifehacker] [How to Get Free Mother&#39;s Day Flowers From Lowe&#39;s](https://lifehacker.com/how-to-get-free-mothers-day-flowers-from-lowes-1850357215)
-- [Dev.to/JS] [Add simple pagination in Nest.js Mongoose](https://dev.to/grahammorby/add-simple-pagination-in-nestjs-mongoose-n9m)
 - [Lifehacker] [Ask Your Best Friend Three Questions to Learn Who You Are Outside of Work](https://lifehacker.com/ask-your-best-friend-three-questions-to-learn-who-you-a-1850357626)
 - [Lifehacker] [You Can Get Rid of Mold on Your Roof &lpar;and Stop It From Coming Back&rpar;](https://lifehacker.com/you-can-get-rid-of-mold-on-your-roof-and-stop-it-from-1850357545)
 - [Lifehacker] [This Is How Much It Costs to Build a New House in Each State](https://lifehacker.com/this-is-how-much-it-costs-to-build-a-new-house-in-each-1850357603)
