@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Observable &amp; RxJS from scratch](https://dev.to/aminnairi/observable-rxjs-from-scratch-hjn)
+- [Dev.to/JS] [Using the &#39;children&#39; Prop as a Function: A New Way to Parse Extra Features in React](https://dev.to/sanchitbajaj02/using-the-children-prop-as-a-function-a-new-way-to-parse-extra-features-in-react-52d0)
+- [Dev.to/JS] [Implementing a Shopping Cart Functionality with Svelte](https://dev.to/dkthelearner/implementing-a-shopping-cart-functionality-with-svelte-16a8)
+- [Dev.to/JS] [React Native Story Book](https://dev.to/shashank2406/react-native-story-book-4210)
+- [Dev.to/JS] [Design handoff done right: how to ensure smooth collaboration between designers and developers](https://dev.to/function12_io/design-handoff-done-right-how-to-ensure-smooth-collaboration-between-designers-and-developers-5501)
 - [Dev.to/JS] [Accessibility in web development: designing for all users](https://dev.to/rahulj9a/accessibility-in-web-development-designing-for-all-users-1kj2)
 - [Dev.to/JS] [How Much Does It Cost To Hire JavaScript Developers In India?](https://dev.to/michaelwilson/how-much-does-it-cost-to-hire-javascript-developers-in-india-inc)
 - [Dev.to/JS] [Frontend Web Performance Checklist](https://dev.to/jacobandrewsky/frontend-web-performance-checklist-2o9j)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Basic Authentication Provider in Next.js](https://dev.to/designly/creating-a-basic-authentication-provider-in-nextjs-4cic)
 - [Dev.to/JS] [Mistakes you should avoid, If you are coding with your Mobile Phone](https://dev.to/teekentx/mistakes-you-should-avoid-if-you-are-coding-with-your-mobile-phone-24i)
 - [Dev.to/JS] [Say Goodbye to Job Hunting Stress: Implementing Match Logic in Contractr](https://dev.to/arashjangali/say-goodbye-to-job-hunting-stress-implementing-match-logic-in-contractr-10j5)
-- [Dev.to/JS] [Best Folder structure for modern Web Application](https://dev.to/devwares/best-folder-structure-for-modern-web-application-4khj)
-- [Dev.to/JS] [Reading Python Documentation the right way](https://dev.to/teekentx/reading-python-documentation-the-right-way-2adm)
-- [Dev.to/JS] [Assertions in TypeScript](https://dev.to/tomoy/assertions-in-typescript-3645)
-- [Dev.to/JS] [Creating your own ExpressJS from scratch &lpar;Part 4&rpar; - Modular router and global middlewares](https://dev.to/wesleymreng7/creating-your-own-expressjs-from-scratch-part-4-modular-router-and-global-middlewares-560m)
-- [Dev.to/JS] [Web-Essentials Reminder](https://dev.to/cherypick/web-essentials-reminder-3fn5)
 - [Lifehacker] [You Can &#39;Dust&#39; Curtains in Your Dryer](https://lifehacker.com/you-can-dust-curtains-in-your-dryer-1850357206)
 - [Lifehacker] [How to Get Free Mother&#39;s Day Flowers From Lowe&#39;s](https://lifehacker.com/how-to-get-free-mothers-day-flowers-from-lowes-1850357215)
 - [Lifehacker] [Ask Your Best Friend Three Questions to Learn Who You Are Outside of Work](https://lifehacker.com/ask-your-best-friend-three-questions-to-learn-who-you-a-1850357626)
