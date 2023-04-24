@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My learning journey through my English Flashcard Project](https://dev.to/kebin20/my-learning-journey-through-my-english-flashcard-project-2odb)
+- [Dev.to/JS] [Understanding the difference between useContext and custom hooks](https://dev.to/kebin20/understanding-the-difference-between-usecontext-and-custom-hooks-4a2h)
 - [Dev.to/JS] [Observable &amp; RxJS from scratch](https://dev.to/aminnairi/observable-rxjs-from-scratch-hjn)
 - [Dev.to/JS] [Using the &#39;children&#39; Prop as a Function: A New Way to Parse Extra Features in React](https://dev.to/sanchitbajaj02/using-the-children-prop-as-a-function-a-new-way-to-parse-extra-features-in-react-52d0)
 - [Dev.to/JS] [Implementing a Shopping Cart Functionality with Svelte](https://dev.to/dkthelearner/implementing-a-shopping-cart-functionality-with-svelte-16a8)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Frontend Web Performance Checklist](https://dev.to/jacobandrewsky/frontend-web-performance-checklist-2o9j)
 - [Dev.to/JS] [OpenAI&#39;s API is fun ASF!](https://dev.to/raaggees/openais-api-is-fun-asf-4nn)
 - [Dev.to/JS] [Creating a Basic Authentication Provider in Next.js](https://dev.to/designly/creating-a-basic-authentication-provider-in-nextjs-4cic)
-- [Dev.to/JS] [Mistakes you should avoid, If you are coding with your Mobile Phone](https://dev.to/teekentx/mistakes-you-should-avoid-if-you-are-coding-with-your-mobile-phone-24i)
-- [Dev.to/JS] [Say Goodbye to Job Hunting Stress: Implementing Match Logic in Contractr](https://dev.to/arashjangali/say-goodbye-to-job-hunting-stress-implementing-match-logic-in-contractr-10j5)
 - [Lifehacker] [You Can &#39;Dust&#39; Curtains in Your Dryer](https://lifehacker.com/you-can-dust-curtains-in-your-dryer-1850357206)
 - [Lifehacker] [How to Get Free Mother&#39;s Day Flowers From Lowe&#39;s](https://lifehacker.com/how-to-get-free-mothers-day-flowers-from-lowes-1850357215)
 - [Lifehacker] [Ask Your Best Friend Three Questions to Learn Who You Are Outside of Work](https://lifehacker.com/ask-your-best-friend-three-questions-to-learn-who-you-a-1850357626)
