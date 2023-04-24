@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do When One Child Thinks They’re the ‘Bad Kid’](https://lifehacker.com/what-to-do-when-one-child-thinks-they-re-the-bad-kid-1850363233)
+- [Dev.to/JS] [The Only Situation To Use ‘==’ In JavaScript](https://dev.to/morninglit/the-only-situation-to-use-in-javascript-4ipd)
+- [Dev.to/JS] [Never Say Never, The never Keyword In TypeScript And Exhaustive Matching](https://dev.to/morninglit/never-say-never-the-never-keyword-in-typescript-and-exhaustive-matching-2bi6)
+- [Lifehacker] [The Items on the ‘Food Disgust Test’ That Are Actually Unsafe to Eat](https://lifehacker.com/the-items-on-the-food-disgust-test-that-are-actually-1850363121)
+- [Dev.to/JS] [Build Yarn Monorepo with Workspaces 🐈](https://dev.to/0x2a/build-yarn-monorepo-with-workspaces-19kp)
+- [Dev.to/JS] [3 Ways To Enforce Object Immutability In JavaScript](https://dev.to/morninglit/3-ways-to-enforce-object-immutability-in-javascript-289k)
+- [Dev.to/JS] [Uma outra forma de reiniciar estados no React](https://dev.to/bluniz/uma-outra-forma-de-reiniciar-estados-no-react-2eod)
 - [Lifehacker] [Why Clothing Subscription Boxes Are Basically Pointless](https://lifehacker.com/why-clothing-subscription-boxes-are-basically-pointless-1850362337)
 - [Dev.to/JS] [How To Learn Coding With ChatGPT? Explore now](https://dev.to/mazaadyportal/how-to-learn-coding-with-chatgpt-explore-now-11e8)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Apr 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-apr-2023-5975)
@@ -30,14 +37,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Explain IntersectionObserver Like I&#39;m Five](https://dev.to/ugbabeog/explain-intersectionobserve-like-im-five-e7m)
 - [Dev.to/JS] [How to create a landing page in 3 steps](https://dev.to/hfnews4/how-to-create-a-landing-page-in-3-steps-2f1p)
 - [Lifehacker] [If You Haven&#39;t Had a Cheese Fries Omelette, Have You Even Lived?](https://lifehacker.com/if-you-havent-had-a-cheese-fries-omelette-have-you-eve-1850361856)
-- [Dev.to/JS] [Creating A Hot New Food Delivery App with Novu](https://dev.to/novu/creating-a-hot-new-food-delivery-app-with-novu-2e75)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Estações Espaciais](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-estacoes-espaciais-cfn)
 - [Dev.to/JS] [low-cost CRM software for nonprofits orgnization](https://dev.to/datarecove95829/low-cost-crm-software-for-nonprofits-orgnization-4531)
-- [Dev.to/JS] [10 more Javascript Challenges!](https://dev.to/this-is-learning/10-more-javascript-challenges-3812)
-- [Dev.to/JS] [Server-Side Rendering: A Comprehensive Guide for Modern Web Developers](https://dev.to/j3rry320/server-side-rendering-a-comprehensive-guide-for-modern-web-developers-24kp)
 - [Lifehacker] [All the Ways Airbnb Hosts Deceive You](https://lifehacker.com/all-the-ways-airbnb-hosts-deceive-you-1850357710)
-- [Dev.to/JS] [Different possible ways to create objects in JS](https://dev.to/shishsingh/different-possible-ways-to-create-objects-in-js-1h74)
-- [Dev.to/JS] [🌐 How to update a DDNS with NodeJS](https://dev.to/alberto/how-to-update-a-ddns-with-nodejs-1e19)
 - [Lifehacker] [You Can &#39;Dust&#39; Curtains in Your Dryer](https://lifehacker.com/you-can-dust-curtains-in-your-dryer-1850357206)
 - [Lifehacker] [How to Get Free Mother&#39;s Day Flowers From Lowe&#39;s](https://lifehacker.com/how-to-get-free-mothers-day-flowers-from-lowes-1850357215)
 - [Lifehacker] [Ask Your Best Friend Three Questions to Learn Who You Are Outside of Work](https://lifehacker.com/ask-your-best-friend-three-questions-to-learn-who-you-a-1850357626)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Try Bluesky, the Decentralized Twitter Clone](https://lifehacker.com/how-to-try-bluesky-the-decentralized-twitter-clone-1850358929)
 - [Lifehacker] [Prime Video Wants You to Actually Hear the Goddamn Dialogue](https://lifehacker.com/prime-video-wants-you-to-actually-hear-the-goddamn-dial-1850355601)
 - [Lifehacker] [The Best Technique for Using a Playground Swing, According to Physicists](https://lifehacker.com/the-best-technique-for-using-a-playground-swing-accord-1850355533)
-- [Lifehacker] [Which Fermented Foods Are Actually Good For You?](https://lifehacker.com/which-fermented-foods-are-actually-good-for-you-1850350371)
-- [Lifehacker] [You Should Upcycle That Cardboard Drink Holder As a Kitchen Organizer](https://lifehacker.com/you-should-upcycle-that-cardboard-drink-holder-as-a-kit-1850352532)
-- [Lifehacker] [Are Sleepovers Finally Dead?](https://lifehacker.com/are-sleepovers-finally-over-1850352705)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Which Fermented Foods Are Actually Good For You?](https://lifehacker.com/which-fermented-foods-are-actually-good-for-you-1850350371)<!-- TECH-POSTS:END -->
 
 ---
 
