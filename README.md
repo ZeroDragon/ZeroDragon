@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [OpenAI&#39;s API is fun ASF!](https://dev.to/raaggees/openais-api-is-fun-asf-4nn)
 - [Dev.to/JS] [Creating a Basic Authentication Provider in Next.js](https://dev.to/designly/creating-a-basic-authentication-provider-in-nextjs-4cic)
 - [Dev.to/JS] [Mistakes you should avoid, If you are coding with your Mobile Phone](https://dev.to/teekentx/mistakes-you-should-avoid-if-you-are-coding-with-your-mobile-phone-24i)
 - [Dev.to/JS] [Say Goodbye to Job Hunting Stress: Implementing Match Logic in Contractr](https://dev.to/arashjangali/say-goodbye-to-job-hunting-stress-implementing-match-logic-in-contractr-10j5)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deep dive into React: State Management Types and its Importance](https://dev.to/fortune42/deep-dive-into-react-state-management-types-and-its-importance-2nn)
 - [Dev.to/JS] [Vuejs Best practices to always follow:](https://dev.to/niteshsingh29/vuejs-best-practices-to-always-follow-2e9a)
 - [Dev.to/JS] [TypeScript: Type Assertions and Const Assertions](https://dev.to/ayako_yk/typescript-type-assertions-and-const-assertions-3lf1)
-- [Dev.to/JS] [How To Export Unique Barcode to Excel In Laravel](https://dev.to/anik2069/how-to-export-unique-barcode-to-excel-in-laravel-2lma)
 - [Lifehacker] [You Can &#39;Dust&#39; Curtains in Your Dryer](https://lifehacker.com/you-can-dust-curtains-in-your-dryer-1850357206)
 - [Lifehacker] [How to Get Free Mother&#39;s Day Flowers From Lowe&#39;s](https://lifehacker.com/how-to-get-free-mothers-day-flowers-from-lowes-1850357215)
 - [Lifehacker] [Ask Your Best Friend Three Questions to Learn Who You Are Outside of Work](https://lifehacker.com/ask-your-best-friend-three-questions-to-learn-who-you-a-1850357626)
