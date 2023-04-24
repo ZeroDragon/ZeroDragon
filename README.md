@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Parametric Polymorphism in TypeScript and how it can help you to write better code](https://dev.to/shadid12/parametric-polymorphism-in-typescript-and-how-it-can-help-you-to-write-better-code-2kih)
+- [Dev.to/JS] [Creating a TypeWriter Effect in Phaser.js v3](https://dev.to/joelnet/creating-a-typewriter-effect-in-phaserjs-v3-4e66)
+- [Dev.to/JS] [Fixing AI generated pixelart](https://dev.to/golota60/fixing-ai-generated-pixelart-32mg)
 - [Dev.to/JS] [How To Use MillionJs In a Next App.](https://dev.to/tobysolutions/how-to-use-millionjs-in-a-next-app-1eim)
 - [Dev.to/JS] [Easiest way to build an API with Node.js Express](https://dev.to/xplodivity/easiest-way-to-build-an-api-with-nodejs-express-2gc3)
 - [Dev.to/JS] [What Happens When You Don&#39;t Provide Keys in ReactJS?](https://dev.to/sanjampreetsingh/what-happens-when-you-dont-provide-keys-in-reactjs-278h)
@@ -30,7 +33,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [15 Awesome CSS Properties You Need to Know 🎯](https://dev.to/ishratumar/15-awesome-css-properties-you-need-to-know-5bj1)
 - [Lifehacker] [How Screen Time Can Save You When Your iPhone Is Stolen](https://lifehacker.com/how-screen-time-can-save-you-when-your-iphone-is-stolen-1850368491)
 - [Lifehacker] [The Case for Never Eating Cold Cake Again](https://lifehacker.com/the-case-for-never-eating-cold-cake-again-1850368553)
-- [Dev.to/JS] [Lucky Cola Online](https://dev.to/adam363666/lucky-cola-online-5fcj)
 - [Dev.to/JS] [Chat App](https://dev.to/alaaealkhatib/chat-app-22io)
 - [Lifehacker] [Use Cheap LED and Solar Lights for Pro-Quality Landscape Lighting](https://lifehacker.com/use-cheap-led-and-solar-lights-for-pro-quality-landscap-1850359585)
 - [Dev.to/JS] [How To Debug a Single Test Case](https://dev.to/zirkelc/how-to-debug-a-single-test-case-308d)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Jamstack: The Future of Web Development](https://dev.to/makemychance/jamstack-the-future-of-web-development-3a8c)
 - [Lifehacker] [Six Basic Knife Techniques Everyone Should Know](https://lifehacker.com/six-basic-knife-techniques-everyone-should-know-1850363702)
 - [Dev.to/JS] [Creating Database-Driven Astro Sites with the Tigris Astro Integration](https://dev.to/tigrisdata/creating-database-driven-astro-sites-with-the-tigris-astro-integration-mpa)
-- [Dev.to/JS] [npm v/s yarn v/s pnpm](https://dev.to/raxraj/npm-vs-yarn-vs-pnpm-fo8)
-- [Dev.to/JS] [Como funciona as variáveis por debaixo do panos.](https://dev.to/fransborges/como-funciona-as-variaveis-por-debaixo-do-panos-47af)
 - [Lifehacker] [What to Do When One Child Thinks They’re the ‘Bad Kid’](https://lifehacker.com/what-to-do-when-one-child-thinks-they-re-the-bad-kid-1850363233)
 - [Lifehacker] [The Items on the ‘Food Disgust Test’ That Are Actually Unsafe to Eat](https://lifehacker.com/the-items-on-the-food-disgust-test-that-are-actually-1850363121)
 - [Lifehacker] [Why Clothing Subscription Boxes Are Basically Pointless](https://lifehacker.com/why-clothing-subscription-boxes-are-basically-pointless-1850362337)
