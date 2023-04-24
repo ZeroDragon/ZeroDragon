@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a Basic Authentication Provider in Next.js](https://dev.to/designly/creating-a-basic-authentication-provider-in-nextjs-4cic)
 - [Dev.to/JS] [Mistakes you should avoid, If you are coding with your Mobile Phone](https://dev.to/teekentx/mistakes-you-should-avoid-if-you-are-coding-with-your-mobile-phone-24i)
 - [Dev.to/JS] [Say Goodbye to Job Hunting Stress: Implementing Match Logic in Contractr](https://dev.to/arashjangali/say-goodbye-to-job-hunting-stress-implementing-match-logic-in-contractr-10j5)
 - [Dev.to/JS] [Best Folder structure for modern Web Application](https://dev.to/devwares/best-folder-structure-for-modern-web-application-4khj)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vuejs Best practices to always follow:](https://dev.to/niteshsingh29/vuejs-best-practices-to-always-follow-2e9a)
 - [Dev.to/JS] [TypeScript: Type Assertions and Const Assertions](https://dev.to/ayako_yk/typescript-type-assertions-and-const-assertions-3lf1)
 - [Dev.to/JS] [How To Export Unique Barcode to Excel In Laravel](https://dev.to/anik2069/how-to-export-unique-barcode-to-excel-in-laravel-2lma)
-- [Dev.to/JS] [Building Better Websites with CSS and JavaScript Motion Design](https://dev.to/azam4code/building-better-websites-with-css-and-javascript-motion-design-1bb9)
 - [Lifehacker] [You Can &#39;Dust&#39; Curtains in Your Dryer](https://lifehacker.com/you-can-dust-curtains-in-your-dryer-1850357206)
 - [Lifehacker] [How to Get Free Mother&#39;s Day Flowers From Lowe&#39;s](https://lifehacker.com/how-to-get-free-mothers-day-flowers-from-lowes-1850357215)
 - [Lifehacker] [Ask Your Best Friend Three Questions to Learn Who You Are Outside of Work](https://lifehacker.com/ask-your-best-friend-three-questions-to-learn-who-you-a-1850357626)
