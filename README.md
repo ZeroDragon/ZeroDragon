@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Different possible ways to create objects in JS](https://dev.to/shishsingh/different-possible-ways-to-create-objects-in-js-1h74)
+- [Dev.to/JS] [🌐 How to update a DDNS with NodeJS](https://dev.to/alberto/how-to-update-a-ddns-with-nodejs-1e19)
+- [Dev.to/JS] [How to create active links using React Router V6](https://dev.to/salehmubashar/how-to-create-active-links-using-react-router-v6-24g0)
 - [Dev.to/JS] [Any javascript developer around to talk right now click the link to join the meeting](https://dev.to/lukeuserex/any-javascript-developer-around-to-talk-right-now-click-the-link-to-join-the-meeting-5ej1)
 - [Dev.to/JS] [JavaScript EP6: Generators and Iterators🔌🩻](https://dev.to/phatsss/javascript-ep6-generators-and-iterators-354l)
 - [Dev.to/JS] [PresenceJS: The Simplest Way to Power Realtime Experience in My Collaborative Apps , From Current to The Future](https://dev.to/murumury/presencejs-the-simplest-way-to-power-realtime-experience-in-my-collaborative-apps-from-current-to-the-future-59gd)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Synchronous and Asynchronous — Understanding JavaScript API Requests and Responses in the Data Fetching lifecycle](https://dev.to/rodcast/synchronous-and-asynchronous-javascript-api-requests-and-responses-in-the-data-fetching-lifecycle-22b3)
 - [Dev.to/JS] [How to create an image editor using cropper.js](https://dev.to/incoderweb/how-to-create-an-image-editor-using-cropperjs-1n9n)
 - [Dev.to/JS] [3 Keys Introduction To Objects Arrays](https://dev.to/accolades_dev/3-keys-introduction-to-objects-arrays-4m6e)
-- [Dev.to/JS] [POC#1-Build online code editor using react+vite, tailwindcss,judge0](https://dev.to/vijendra/poc1-build-online-code-editor-using-reactvite-tailwindcssjudge0-2857)
-- [Dev.to/JS] [My learning journey through my English Flashcard Project](https://dev.to/kebin20/my-learning-journey-through-my-english-flashcard-project-2odb)
-- [Dev.to/JS] [Understanding the difference between useContext and custom hooks](https://dev.to/kebin20/understanding-the-difference-between-usecontext-and-custom-hooks-4a2h)
 - [Lifehacker] [You Can &#39;Dust&#39; Curtains in Your Dryer](https://lifehacker.com/you-can-dust-curtains-in-your-dryer-1850357206)
 - [Lifehacker] [How to Get Free Mother&#39;s Day Flowers From Lowe&#39;s](https://lifehacker.com/how-to-get-free-mothers-day-flowers-from-lowes-1850357215)
 - [Lifehacker] [Ask Your Best Friend Three Questions to Learn Who You Are Outside of Work](https://lifehacker.com/ask-your-best-friend-three-questions-to-learn-who-you-a-1850357626)
