@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Debug a Single Test Case](https://dev.to/zirkelc/how-to-debug-a-single-test-case-308d)
+- [Lifehacker] [A Pool Noodle Is the Best Way to Transport Knives on a Trip](https://lifehacker.com/a-pool-noodle-is-the-best-way-to-transport-knives-on-a-1850363453)
+- [Dev.to/JS] [Closures and callbacks in Javascript](https://dev.to/charliekroon/closures-and-callbacks-in-javascript-5d5f)
 - [Lifehacker] [How to Add Shade to a Treeless Backyard](https://lifehacker.com/how-to-add-shade-to-a-treeless-backyard-1850362835)
 - [Dev.to/JS] [Jamstack: The Future of Web Development](https://dev.to/makemychance/jamstack-the-future-of-web-development-3a8c)
 - [Lifehacker] [Six Basic Knife Techniques Everyone Should Know](https://lifehacker.com/six-basic-knife-techniques-everyone-should-know-1850363702)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3 Ways To Enforce Object Immutability In JavaScript](https://dev.to/morninglit/3-ways-to-enforce-object-immutability-in-javascript-289k)
 - [Dev.to/JS] [Uma outra forma de reiniciar estados no React](https://dev.to/bluniz/uma-outra-forma-de-reiniciar-estados-no-react-2eod)
 - [Lifehacker] [Why Clothing Subscription Boxes Are Basically Pointless](https://lifehacker.com/why-clothing-subscription-boxes-are-basically-pointless-1850362337)
-- [Dev.to/JS] [How To Learn Coding With ChatGPT? Explore now](https://dev.to/mazaadyportal/how-to-learn-coding-with-chatgpt-explore-now-11e8)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Apr 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-apr-2023-5975)
 - [Lifehacker] [If You Haven&#39;t Had a Cheese Fries Omelette, Have You Even Lived?](https://lifehacker.com/if-you-havent-had-a-cheese-fries-omelette-have-you-eve-1850361856)
 - [Lifehacker] [All the Ways Airbnb Hosts Deceive You](https://lifehacker.com/all-the-ways-airbnb-hosts-deceive-you-1850357710)
 - [Lifehacker] [You Can &#39;Dust&#39; Curtains in Your Dryer](https://lifehacker.com/you-can-dust-curtains-in-your-dryer-1850357206)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Construct a DIY Solar-Powered Water Feature for Your Garden](https://lifehacker.com/construct-a-diy-solar-powered-water-feature-for-your-ga-1850346103)
 - [Lifehacker] [How to Harvest Free Food on Your Next Vacation](https://lifehacker.com/how-to-harvest-free-food-on-your-next-vacation-1850321207)
 - [Lifehacker] [10 Movie Trilogies That Actually Stuck the Landing](https://lifehacker.com/10-movie-trilogies-that-actually-stuck-the-landing-1850345569)
-- [Lifehacker] [How to Try Bluesky, the Decentralized Twitter Clone](https://lifehacker.com/how-to-try-bluesky-the-decentralized-twitter-clone-1850358929)
-- [Lifehacker] [Prime Video Wants You to Actually Hear the Goddamn Dialogue](https://lifehacker.com/prime-video-wants-you-to-actually-hear-the-goddamn-dial-1850355601)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Try Bluesky, the Decentralized Twitter Clone](https://lifehacker.com/how-to-try-bluesky-the-decentralized-twitter-clone-1850358929)<!-- TECH-POSTS:END -->
 
 ---
 
