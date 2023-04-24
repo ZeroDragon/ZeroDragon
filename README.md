@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Add Shade to a Treeless Backyard](https://lifehacker.com/how-to-add-shade-to-a-treeless-backyard-1850362835)
+- [Dev.to/JS] [Jamstack: The Future of Web Development](https://dev.to/makemychance/jamstack-the-future-of-web-development-3a8c)
+- [Lifehacker] [Six Basic Knife Techniques Everyone Should Know](https://lifehacker.com/six-basic-knife-techniques-everyone-should-know-1850363702)
+- [Dev.to/JS] [Creating Database-Driven Astro Sites with the Tigris Astro Integration](https://dev.to/tigrisdata/creating-database-driven-astro-sites-with-the-tigris-astro-integration-mpa)
+- [Dev.to/JS] [npm v/s yarn v/s pnpm](https://dev.to/raxraj/npm-vs-yarn-vs-pnpm-fo8)
+- [Dev.to/JS] [Como funciona as variáveis por debaixo do panos.](https://dev.to/fransborges/como-funciona-as-variaveis-por-debaixo-do-panos-47af)
+- [Dev.to/JS] [The Full Practical Guide To Type Coercion In JavaScript: Beware Of These 3 Common Mistakes](https://dev.to/morninglit/the-full-practical-guide-to-type-coercion-in-javascript-beware-of-these-3-common-mistakes-1f7p)
 - [Lifehacker] [What to Do When One Child Thinks They’re the ‘Bad Kid’](https://lifehacker.com/what-to-do-when-one-child-thinks-they-re-the-bad-kid-1850363233)
 - [Dev.to/JS] [The Only Situation To Use ‘==’ In JavaScript](https://dev.to/morninglit/the-only-situation-to-use-in-javascript-4ipd)
 - [Dev.to/JS] [Never Say Never, The never Keyword In TypeScript And Exhaustive Matching](https://dev.to/morninglit/never-say-never-the-never-keyword-in-typescript-and-exhaustive-matching-2bi6)
@@ -33,12 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Clothing Subscription Boxes Are Basically Pointless](https://lifehacker.com/why-clothing-subscription-boxes-are-basically-pointless-1850362337)
 - [Dev.to/JS] [How To Learn Coding With ChatGPT? Explore now](https://dev.to/mazaadyportal/how-to-learn-coding-with-chatgpt-explore-now-11e8)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Apr 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-apr-2023-5975)
-- [Dev.to/JS] [Use Firebase? localStorage? Or both?](https://dev.to/kebin20/use-firebase-localstorage-or-both-4i3)
-- [Dev.to/JS] [Explain IntersectionObserver Like I&#39;m Five](https://dev.to/ugbabeog/explain-intersectionobserve-like-im-five-e7m)
-- [Dev.to/JS] [How to create a landing page in 3 steps](https://dev.to/hfnews4/how-to-create-a-landing-page-in-3-steps-2f1p)
 - [Lifehacker] [If You Haven&#39;t Had a Cheese Fries Omelette, Have You Even Lived?](https://lifehacker.com/if-you-havent-had-a-cheese-fries-omelette-have-you-eve-1850361856)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Estações Espaciais](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-estacoes-espaciais-cfn)
-- [Dev.to/JS] [low-cost CRM software for nonprofits orgnization](https://dev.to/datarecove95829/low-cost-crm-software-for-nonprofits-orgnization-4531)
 - [Lifehacker] [All the Ways Airbnb Hosts Deceive You](https://lifehacker.com/all-the-ways-airbnb-hosts-deceive-you-1850357710)
 - [Lifehacker] [You Can &#39;Dust&#39; Curtains in Your Dryer](https://lifehacker.com/you-can-dust-curtains-in-your-dryer-1850357206)
 - [Lifehacker] [How to Get Free Mother&#39;s Day Flowers From Lowe&#39;s](https://lifehacker.com/how-to-get-free-mothers-day-flowers-from-lowes-1850357215)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Harvest Free Food on Your Next Vacation](https://lifehacker.com/how-to-harvest-free-food-on-your-next-vacation-1850321207)
 - [Lifehacker] [10 Movie Trilogies That Actually Stuck the Landing](https://lifehacker.com/10-movie-trilogies-that-actually-stuck-the-landing-1850345569)
 - [Lifehacker] [How to Try Bluesky, the Decentralized Twitter Clone](https://lifehacker.com/how-to-try-bluesky-the-decentralized-twitter-clone-1850358929)
-- [Lifehacker] [Prime Video Wants You to Actually Hear the Goddamn Dialogue](https://lifehacker.com/prime-video-wants-you-to-actually-hear-the-goddamn-dial-1850355601)
-- [Lifehacker] [The Best Technique for Using a Playground Swing, According to Physicists](https://lifehacker.com/the-best-technique-for-using-a-playground-swing-accord-1850355533)
-- [Lifehacker] [Which Fermented Foods Are Actually Good For You?](https://lifehacker.com/which-fermented-foods-are-actually-good-for-you-1850350371)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Prime Video Wants You to Actually Hear the Goddamn Dialogue](https://lifehacker.com/prime-video-wants-you-to-actually-hear-the-goddamn-dial-1850355601)<!-- TECH-POSTS:END -->
 
 ---
 
