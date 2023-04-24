@@ -23,18 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Clothing Subscription Boxes Are Basically Pointless](https://lifehacker.com/why-clothing-subscription-boxes-are-basically-pointless-1850362337)
+- [Dev.to/JS] [How To Learn Coding With ChatGPT? Explore now](https://dev.to/mazaadyportal/how-to-learn-coding-with-chatgpt-explore-now-11e8)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Apr 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-apr-2023-5975)
+- [Dev.to/JS] [Use Firebase? localStorage? Or both?](https://dev.to/kebin20/use-firebase-localstorage-or-both-4i3)
+- [Dev.to/JS] [Explain IntersectionObserver Like I&#39;m Five](https://dev.to/ugbabeog/explain-intersectionobserve-like-im-five-e7m)
+- [Dev.to/JS] [How to create a landing page in 3 steps](https://dev.to/hfnews4/how-to-create-a-landing-page-in-3-steps-2f1p)
+- [Lifehacker] [If You Haven&#39;t Had a Cheese Fries Omelette, Have You Even Lived?](https://lifehacker.com/if-you-havent-had-a-cheese-fries-omelette-have-you-eve-1850361856)
+- [Dev.to/JS] [Creating A Hot New Food Delivery App with Novu](https://dev.to/novu/creating-a-hot-new-food-delivery-app-with-novu-2e75)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Estações Espaciais](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-estacoes-espaciais-cfn)
+- [Dev.to/JS] [low-cost CRM software for nonprofits orgnization](https://dev.to/datarecove95829/low-cost-crm-software-for-nonprofits-orgnization-4531)
+- [Dev.to/JS] [10 more Javascript Challenges!](https://dev.to/this-is-learning/10-more-javascript-challenges-3812)
+- [Dev.to/JS] [Server-Side Rendering: A Comprehensive Guide for Modern Web Developers](https://dev.to/j3rry320/server-side-rendering-a-comprehensive-guide-for-modern-web-developers-24kp)
+- [Lifehacker] [All the Ways Airbnb Hosts Deceive You](https://lifehacker.com/all-the-ways-airbnb-hosts-deceive-you-1850357710)
 - [Dev.to/JS] [Different possible ways to create objects in JS](https://dev.to/shishsingh/different-possible-ways-to-create-objects-in-js-1h74)
 - [Dev.to/JS] [🌐 How to update a DDNS with NodeJS](https://dev.to/alberto/how-to-update-a-ddns-with-nodejs-1e19)
-- [Dev.to/JS] [How to create active links using React Router V6](https://dev.to/salehmubashar/how-to-create-active-links-using-react-router-v6-24g0)
-- [Dev.to/JS] [Any javascript developer around to talk right now click the link to join the meeting](https://dev.to/lukeuserex/any-javascript-developer-around-to-talk-right-now-click-the-link-to-join-the-meeting-5ej1)
-- [Dev.to/JS] [JavaScript EP6: Generators and Iterators🔌🩻](https://dev.to/phatsss/javascript-ep6-generators-and-iterators-354l)
-- [Dev.to/JS] [PresenceJS: The Simplest Way to Power Realtime Experience in My Collaborative Apps , From Current to The Future](https://dev.to/murumury/presencejs-the-simplest-way-to-power-realtime-experience-in-my-collaborative-apps-from-current-to-the-future-59gd)
-- [Dev.to/JS] [Mastering the Art of Debugging JavaScript Functions: Tips and Tricks for Smooth Functionality](https://dev.to/haszankauna/mastering-the-art-of-debugging-javascript-functions-tips-and-tricks-for-smooth-functionality-4a74)
-- [Dev.to/JS] [Zero Downtime Deployment Strategy for a React Dashboard with NGINX](https://dev.to/4r7ur/zero-downtime-deployment-strategy-for-a-react-dashboard-with-nginx-1i17)
-- [Dev.to/JS] [Custom Elements Language Server Alpha Released](https://dev.to/matsuuu/custom-elements-language-server-alpha-released-2pp8)
-- [Dev.to/JS] [Synchronous and Asynchronous — Understanding JavaScript API Requests and Responses in the Data Fetching lifecycle](https://dev.to/rodcast/synchronous-and-asynchronous-javascript-api-requests-and-responses-in-the-data-fetching-lifecycle-22b3)
-- [Dev.to/JS] [How to create an image editor using cropper.js](https://dev.to/incoderweb/how-to-create-an-image-editor-using-cropperjs-1n9n)
-- [Dev.to/JS] [3 Keys Introduction To Objects Arrays](https://dev.to/accolades_dev/3-keys-introduction-to-objects-arrays-4m6e)
 - [Lifehacker] [You Can &#39;Dust&#39; Curtains in Your Dryer](https://lifehacker.com/you-can-dust-curtains-in-your-dryer-1850357206)
 - [Lifehacker] [How to Get Free Mother&#39;s Day Flowers From Lowe&#39;s](https://lifehacker.com/how-to-get-free-mothers-day-flowers-from-lowes-1850357215)
 - [Lifehacker] [Ask Your Best Friend Three Questions to Learn Who You Are Outside of Work](https://lifehacker.com/ask-your-best-friend-three-questions-to-learn-who-you-a-1850357626)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Technique for Using a Playground Swing, According to Physicists](https://lifehacker.com/the-best-technique-for-using-a-playground-swing-accord-1850355533)
 - [Lifehacker] [Which Fermented Foods Are Actually Good For You?](https://lifehacker.com/which-fermented-foods-are-actually-good-for-you-1850350371)
 - [Lifehacker] [You Should Upcycle That Cardboard Drink Holder As a Kitchen Organizer](https://lifehacker.com/you-should-upcycle-that-cardboard-drink-holder-as-a-kit-1850352532)
-- [Lifehacker] [Are Sleepovers Finally Dead?](https://lifehacker.com/are-sleepovers-finally-over-1850352705)
-- [Lifehacker] [What to Say &lpar;and Not Say&rpar; When Handing in Late Assignments, According to Professors](https://lifehacker.com/what-to-say-and-not-say-when-handing-in-late-assignme-1850343910)
-- [Lifehacker] [You Can ‘Unretire,’ but It Might Cost You](https://lifehacker.com/you-can-unretire-but-it-might-cost-you-1850353487)
-- [Lifehacker] [How to Move Your Seedlings Outside Without Killing Them](https://lifehacker.com/how-to-move-your-seedlings-outside-without-killing-them-1850346123)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Are Sleepovers Finally Dead?](https://lifehacker.com/are-sleepovers-finally-over-1850352705)<!-- TECH-POSTS:END -->
 
 ---
 
