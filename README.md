@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Case for Never Eating Cold Cake Again](https://lifehacker.com/the-case-for-never-eating-cold-cake-again-1850368553)
+- [Dev.to/JS] [Lucky Cola Online](https://dev.to/adam363666/lucky-cola-online-5fcj)
+- [Dev.to/JS] [Chat App](https://dev.to/alaaealkhatib/chat-app-22io)
+- [Lifehacker] [Use Cheap LED and Solar Lights for Pro-Quality Landscape Lighting](https://lifehacker.com/use-cheap-led-and-solar-lights-for-pro-quality-landscap-1850359585)
 - [Dev.to/JS] [How To Debug a Single Test Case](https://dev.to/zirkelc/how-to-debug-a-single-test-case-308d)
 - [Lifehacker] [A Pool Noodle Is the Best Way to Transport Knives on a Trip](https://lifehacker.com/a-pool-noodle-is-the-best-way-to-transport-knives-on-a-1850363453)
 - [Dev.to/JS] [Closures and callbacks in Javascript](https://dev.to/charliekroon/closures-and-callbacks-in-javascript-5d5f)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Never Say Never, The never Keyword In TypeScript And Exhaustive Matching](https://dev.to/morninglit/never-say-never-the-never-keyword-in-typescript-and-exhaustive-matching-2bi6)
 - [Lifehacker] [The Items on the ‘Food Disgust Test’ That Are Actually Unsafe to Eat](https://lifehacker.com/the-items-on-the-food-disgust-test-that-are-actually-1850363121)
 - [Dev.to/JS] [Build Yarn Monorepo with Workspaces 🐈](https://dev.to/0x2a/build-yarn-monorepo-with-workspaces-19kp)
-- [Dev.to/JS] [3 Ways To Enforce Object Immutability In JavaScript](https://dev.to/morninglit/3-ways-to-enforce-object-immutability-in-javascript-289k)
-- [Dev.to/JS] [Uma outra forma de reiniciar estados no React](https://dev.to/bluniz/uma-outra-forma-de-reiniciar-estados-no-react-2eod)
 - [Lifehacker] [Why Clothing Subscription Boxes Are Basically Pointless](https://lifehacker.com/why-clothing-subscription-boxes-are-basically-pointless-1850362337)
 - [Lifehacker] [If You Haven&#39;t Had a Cheese Fries Omelette, Have You Even Lived?](https://lifehacker.com/if-you-havent-had-a-cheese-fries-omelette-have-you-eve-1850361856)
 - [Lifehacker] [All the Ways Airbnb Hosts Deceive You](https://lifehacker.com/all-the-ways-airbnb-hosts-deceive-you-1850357710)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [No, You Don’t Need to ‘Balance’ Your Hormones If You Have Period Flu](https://lifehacker.com/no-you-don-t-need-to-balance-your-hormones-if-you-ha-1850354729)
 - [Lifehacker] [Don’t Cash Out Your 401&lpar;k&rpar; When You Leave Your Job](https://lifehacker.com/don-t-cash-out-your-401-k-when-you-leave-your-job-1850354812)
 - [Lifehacker] [Construct a DIY Solar-Powered Water Feature for Your Garden](https://lifehacker.com/construct-a-diy-solar-powered-water-feature-for-your-ga-1850346103)
-- [Lifehacker] [How to Harvest Free Food on Your Next Vacation](https://lifehacker.com/how-to-harvest-free-food-on-your-next-vacation-1850321207)
-- [Lifehacker] [10 Movie Trilogies That Actually Stuck the Landing](https://lifehacker.com/10-movie-trilogies-that-actually-stuck-the-landing-1850345569)
-- [Lifehacker] [How to Try Bluesky, the Decentralized Twitter Clone](https://lifehacker.com/how-to-try-bluesky-the-decentralized-twitter-clone-1850358929)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Harvest Free Food on Your Next Vacation](https://lifehacker.com/how-to-harvest-free-food-on-your-next-vacation-1850321207)<!-- TECH-POSTS:END -->
 
 ---
 
