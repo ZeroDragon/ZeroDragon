@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Accessibility in web development: designing for all users](https://dev.to/rahulj9a/accessibility-in-web-development-designing-for-all-users-1kj2)
+- [Dev.to/JS] [How Much Does It Cost To Hire JavaScript Developers In India?](https://dev.to/michaelwilson/how-much-does-it-cost-to-hire-javascript-developers-in-india-inc)
+- [Dev.to/JS] [Frontend Web Performance Checklist](https://dev.to/jacobandrewsky/frontend-web-performance-checklist-2o9j)
 - [Dev.to/JS] [OpenAI&#39;s API is fun ASF!](https://dev.to/raaggees/openais-api-is-fun-asf-4nn)
 - [Dev.to/JS] [Creating a Basic Authentication Provider in Next.js](https://dev.to/designly/creating-a-basic-authentication-provider-in-nextjs-4cic)
 - [Dev.to/JS] [Mistakes you should avoid, If you are coding with your Mobile Phone](https://dev.to/teekentx/mistakes-you-should-avoid-if-you-are-coding-with-your-mobile-phone-24i)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Assertions in TypeScript](https://dev.to/tomoy/assertions-in-typescript-3645)
 - [Dev.to/JS] [Creating your own ExpressJS from scratch &lpar;Part 4&rpar; - Modular router and global middlewares](https://dev.to/wesleymreng7/creating-your-own-expressjs-from-scratch-part-4-modular-router-and-global-middlewares-560m)
 - [Dev.to/JS] [Web-Essentials Reminder](https://dev.to/cherypick/web-essentials-reminder-3fn5)
-- [Dev.to/JS] [Deep dive into React: State Management Types and its Importance](https://dev.to/fortune42/deep-dive-into-react-state-management-types-and-its-importance-2nn)
-- [Dev.to/JS] [Vuejs Best practices to always follow:](https://dev.to/niteshsingh29/vuejs-best-practices-to-always-follow-2e9a)
-- [Dev.to/JS] [TypeScript: Type Assertions and Const Assertions](https://dev.to/ayako_yk/typescript-type-assertions-and-const-assertions-3lf1)
 - [Lifehacker] [You Can &#39;Dust&#39; Curtains in Your Dryer](https://lifehacker.com/you-can-dust-curtains-in-your-dryer-1850357206)
 - [Lifehacker] [How to Get Free Mother&#39;s Day Flowers From Lowe&#39;s](https://lifehacker.com/how-to-get-free-mothers-day-flowers-from-lowes-1850357215)
 - [Lifehacker] [Ask Your Best Friend Three Questions to Learn Who You Are Outside of Work](https://lifehacker.com/ask-your-best-friend-three-questions-to-learn-who-you-a-1850357626)
