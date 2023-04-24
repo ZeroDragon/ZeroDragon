@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tips on making a web site accessible part 2](https://dev.to/karenpayneoregon/tips-on-making-a-web-site-accessible-part-2-486p)
+- [Dev.to/JS] [Zedux: Is This the One?](https://dev.to/josh_claunch/zedux-is-this-the-one-3la0)
+- [Dev.to/JS] [Zedux Open-Sourced](https://dev.to/josh_claunch/zedux-open-sourced-m66)
+- [Dev.to/JS] [Simple mutations with TanStack Query and Next.js](https://dev.to/elisabethleonhardt/simple-mutations-with-tanstack-query-and-nextjs-4b0m)
+- [Dev.to/JS] [TypeScript Runtime Type Checking](https://dev.to/aziznal/typescript-runtime-type-checking-dmo)
 - [Dev.to/JS] [JavaScript Data Types](https://dev.to/kibetamos/javascript-data-types-1c7p)
 - [Dev.to/JS] [Melhorias de performance recentes no ecossistema JavaScript](https://dev.to/raphaelramos/melhorias-de-performance-recentes-no-ecossistema-javascript-10ej)
 - [Dev.to/JS] [How to create active links using React Router V6](https://dev.to/salehmubashar/how-to-create-active-links-using-react-router-v6-340n)
@@ -30,15 +35,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a TypeWriter Effect in Phaser.js v3](https://dev.to/joelnet/creating-a-typewriter-effect-in-phaserjs-v3-4e66)
 - [Dev.to/JS] [Fixing AI generated pixelart](https://dev.to/golota60/fixing-ai-generated-pixelart-32mg)
 - [Dev.to/JS] [How To Use MillionJs In a Next App.](https://dev.to/tobysolutions/how-to-use-millionjs-in-a-next-app-1eim)
-- [Dev.to/JS] [Easiest way to build an API with Node.js Express](https://dev.to/xplodivity/easiest-way-to-build-an-api-with-nodejs-express-2gc3)
-- [Dev.to/JS] [What Happens When You Don&#39;t Provide Keys in ReactJS?](https://dev.to/sanjampreetsingh/what-happens-when-you-dont-provide-keys-in-reactjs-278h)
 - [Lifehacker] [The Best Questions to Ask on Your First Day at a New Job](https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396)
-- [Dev.to/JS] [15 Awesome CSS Properties You Need to Know 🎯](https://dev.to/ishratumar/15-awesome-css-properties-you-need-to-know-5bj1)
 - [Lifehacker] [How Screen Time Can Save You When Your iPhone Is Stolen](https://lifehacker.com/how-screen-time-can-save-you-when-your-iphone-is-stolen-1850368491)
 - [Lifehacker] [The Case for Never Eating Cold Cake Again](https://lifehacker.com/the-case-for-never-eating-cold-cake-again-1850368553)
-- [Dev.to/JS] [Chat App](https://dev.to/alaaealkhatib/chat-app-22io)
 - [Lifehacker] [Use Cheap LED and Solar Lights for Pro-Quality Landscape Lighting](https://lifehacker.com/use-cheap-led-and-solar-lights-for-pro-quality-landscap-1850359585)
-- [Dev.to/JS] [How To Debug a Single Test Case](https://dev.to/zirkelc/how-to-debug-a-single-test-case-308d)
 - [Lifehacker] [A Pool Noodle Is the Best Way to Transport Knives on a Trip](https://lifehacker.com/a-pool-noodle-is-the-best-way-to-transport-knives-on-a-1850363453)
 - [Lifehacker] [How to Add Shade to a Treeless Backyard](https://lifehacker.com/how-to-add-shade-to-a-treeless-backyard-1850362835)
 - [Lifehacker] [Six Basic Knife Techniques Everyone Should Know](https://lifehacker.com/six-basic-knife-techniques-everyone-should-know-1850363702)
