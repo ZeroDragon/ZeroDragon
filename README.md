@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Any javascript developer around to talk right now click the link to join the meeting](https://dev.to/lukeuserex/any-javascript-developer-around-to-talk-right-now-click-the-link-to-join-the-meeting-5ej1)
+- [Dev.to/JS] [JavaScript EP6: Generators and Iterators🔌🩻](https://dev.to/phatsss/javascript-ep6-generators-and-iterators-354l)
 - [Dev.to/JS] [PresenceJS: The Simplest Way to Power Realtime Experience in My Collaborative Apps , From Current to The Future](https://dev.to/murumury/presencejs-the-simplest-way-to-power-realtime-experience-in-my-collaborative-apps-from-current-to-the-future-59gd)
 - [Dev.to/JS] [Mastering the Art of Debugging JavaScript Functions: Tips and Tricks for Smooth Functionality](https://dev.to/haszankauna/mastering-the-art-of-debugging-javascript-functions-tips-and-tricks-for-smooth-functionality-4a74)
 - [Dev.to/JS] [Zero Downtime Deployment Strategy for a React Dashboard with NGINX](https://dev.to/4r7ur/zero-downtime-deployment-strategy-for-a-react-dashboard-with-nginx-1i17)
 - [Dev.to/JS] [Custom Elements Language Server Alpha Released](https://dev.to/matsuuu/custom-elements-language-server-alpha-released-2pp8)
 - [Dev.to/JS] [Synchronous and Asynchronous — Understanding JavaScript API Requests and Responses in the Data Fetching lifecycle](https://dev.to/rodcast/synchronous-and-asynchronous-javascript-api-requests-and-responses-in-the-data-fetching-lifecycle-22b3)
 - [Dev.to/JS] [How to create an image editor using cropper.js](https://dev.to/incoderweb/how-to-create-an-image-editor-using-cropperjs-1n9n)
+- [Dev.to/JS] [3 Keys Introduction To Objects Arrays](https://dev.to/accolades_dev/3-keys-introduction-to-objects-arrays-4m6e)
 - [Dev.to/JS] [POC#1-Build online code editor using react+vite, tailwindcss,judge0](https://dev.to/vijendra/poc1-build-online-code-editor-using-reactvite-tailwindcssjudge0-2857)
 - [Dev.to/JS] [My learning journey through my English Flashcard Project](https://dev.to/kebin20/my-learning-journey-through-my-english-flashcard-project-2odb)
 - [Dev.to/JS] [Understanding the difference between useContext and custom hooks](https://dev.to/kebin20/understanding-the-difference-between-usecontext-and-custom-hooks-4a2h)
-- [Dev.to/JS] [Observable &amp; RxJS from scratch](https://dev.to/aminnairi/observable-rxjs-from-scratch-hjn)
-- [Dev.to/JS] [Using the &#39;children&#39; Prop as a Function: A New Way to Parse Extra Features in React](https://dev.to/sanchitbajaj02/using-the-children-prop-as-a-function-a-new-way-to-parse-extra-features-in-react-52d0)
-- [Dev.to/JS] [Implementing a Shopping Cart Functionality with Svelte](https://dev.to/dkthelearner/implementing-a-shopping-cart-functionality-with-svelte-16a8)
 - [Lifehacker] [You Can &#39;Dust&#39; Curtains in Your Dryer](https://lifehacker.com/you-can-dust-curtains-in-your-dryer-1850357206)
 - [Lifehacker] [How to Get Free Mother&#39;s Day Flowers From Lowe&#39;s](https://lifehacker.com/how-to-get-free-mothers-day-flowers-from-lowes-1850357215)
 - [Lifehacker] [Ask Your Best Friend Three Questions to Learn Who You Are Outside of Work](https://lifehacker.com/ask-your-best-friend-three-questions-to-learn-who-you-a-1850357626)
