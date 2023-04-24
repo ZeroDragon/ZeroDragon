@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Use MillionJs In a Next App.](https://dev.to/tobysolutions/how-to-use-millionjs-in-a-next-app-1eim)
+- [Dev.to/JS] [Easiest way to build an API with Node.js Express](https://dev.to/xplodivity/easiest-way-to-build-an-api-with-nodejs-express-2gc3)
+- [Dev.to/JS] [What Happens When You Don&#39;t Provide Keys in ReactJS?](https://dev.to/sanjampreetsingh/what-happens-when-you-dont-provide-keys-in-reactjs-278h)
+- [Lifehacker] [The Best Questions to Ask on Your First Day at a New Job](https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396)
+- [Dev.to/JS] [15 Awesome CSS Properties You Need to Know 🎯](https://dev.to/ishratumar/15-awesome-css-properties-you-need-to-know-5bj1)
+- [Lifehacker] [How Screen Time Can Save You When Your iPhone Is Stolen](https://lifehacker.com/how-screen-time-can-save-you-when-your-iphone-is-stolen-1850368491)
 - [Lifehacker] [The Case for Never Eating Cold Cake Again](https://lifehacker.com/the-case-for-never-eating-cold-cake-again-1850368553)
 - [Dev.to/JS] [Lucky Cola Online](https://dev.to/adam363666/lucky-cola-online-5fcj)
 - [Dev.to/JS] [Chat App](https://dev.to/alaaealkhatib/chat-app-22io)
@@ -36,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating Database-Driven Astro Sites with the Tigris Astro Integration](https://dev.to/tigrisdata/creating-database-driven-astro-sites-with-the-tigris-astro-integration-mpa)
 - [Dev.to/JS] [npm v/s yarn v/s pnpm](https://dev.to/raxraj/npm-vs-yarn-vs-pnpm-fo8)
 - [Dev.to/JS] [Como funciona as variáveis por debaixo do panos.](https://dev.to/fransborges/como-funciona-as-variaveis-por-debaixo-do-panos-47af)
-- [Dev.to/JS] [The Full Practical Guide To Type Coercion In JavaScript: Beware Of These 3 Common Mistakes](https://dev.to/morninglit/the-full-practical-guide-to-type-coercion-in-javascript-beware-of-these-3-common-mistakes-1f7p)
 - [Lifehacker] [What to Do When One Child Thinks They’re the ‘Bad Kid’](https://lifehacker.com/what-to-do-when-one-child-thinks-they-re-the-bad-kid-1850363233)
-- [Dev.to/JS] [The Only Situation To Use ‘==’ In JavaScript](https://dev.to/morninglit/the-only-situation-to-use-in-javascript-4ipd)
-- [Dev.to/JS] [Never Say Never, The never Keyword In TypeScript And Exhaustive Matching](https://dev.to/morninglit/never-say-never-the-never-keyword-in-typescript-and-exhaustive-matching-2bi6)
 - [Lifehacker] [The Items on the ‘Food Disgust Test’ That Are Actually Unsafe to Eat](https://lifehacker.com/the-items-on-the-food-disgust-test-that-are-actually-1850363121)
-- [Dev.to/JS] [Build Yarn Monorepo with Workspaces 🐈](https://dev.to/0x2a/build-yarn-monorepo-with-workspaces-19kp)
 - [Lifehacker] [Why Clothing Subscription Boxes Are Basically Pointless](https://lifehacker.com/why-clothing-subscription-boxes-are-basically-pointless-1850362337)
 - [Lifehacker] [If You Haven&#39;t Had a Cheese Fries Omelette, Have You Even Lived?](https://lifehacker.com/if-you-havent-had-a-cheese-fries-omelette-have-you-eve-1850361856)
 - [Lifehacker] [All the Ways Airbnb Hosts Deceive You](https://lifehacker.com/all-the-ways-airbnb-hosts-deceive-you-1850357710)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need to Warn Your Teens About the Benadryl Challenge Again](https://lifehacker.com/warn-your-teens-about-the-benadryl-challenge-1844927737)
 - [Lifehacker] [Chat With AI to Summarize Obnoxiously Long PDFs](https://lifehacker.com/chat-with-ai-to-summarize-obnoxiously-long-pdfs-1850356065)
 - [Lifehacker] [No, You Don’t Need to ‘Balance’ Your Hormones If You Have Period Flu](https://lifehacker.com/no-you-don-t-need-to-balance-your-hormones-if-you-ha-1850354729)
-- [Lifehacker] [Don’t Cash Out Your 401&lpar;k&rpar; When You Leave Your Job](https://lifehacker.com/don-t-cash-out-your-401-k-when-you-leave-your-job-1850354812)
-- [Lifehacker] [Construct a DIY Solar-Powered Water Feature for Your Garden](https://lifehacker.com/construct-a-diy-solar-powered-water-feature-for-your-ga-1850346103)
-- [Lifehacker] [How to Harvest Free Food on Your Next Vacation](https://lifehacker.com/how-to-harvest-free-food-on-your-next-vacation-1850321207)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Cash Out Your 401&lpar;k&rpar; When You Leave Your Job](https://lifehacker.com/don-t-cash-out-your-401-k-when-you-leave-your-job-1850354812)<!-- TECH-POSTS:END -->
 
 ---
 
