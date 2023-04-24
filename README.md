@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Data Types](https://dev.to/kibetamos/javascript-data-types-1c7p)
+- [Dev.to/JS] [Melhorias de performance recentes no ecossistema JavaScript](https://dev.to/raphaelramos/melhorias-de-performance-recentes-no-ecossistema-javascript-10ej)
+- [Dev.to/JS] [How to create active links using React Router V6](https://dev.to/salehmubashar/how-to-create-active-links-using-react-router-v6-340n)
 - [Dev.to/JS] [Parametric Polymorphism in TypeScript and how it can help you to write better code](https://dev.to/shadid12/parametric-polymorphism-in-typescript-and-how-it-can-help-you-to-write-better-code-2kih)
 - [Dev.to/JS] [Creating a TypeWriter Effect in Phaser.js v3](https://dev.to/joelnet/creating-a-typewriter-effect-in-phaserjs-v3-4e66)
 - [Dev.to/JS] [Fixing AI generated pixelart](https://dev.to/golota60/fixing-ai-generated-pixelart-32mg)
@@ -37,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Cheap LED and Solar Lights for Pro-Quality Landscape Lighting](https://lifehacker.com/use-cheap-led-and-solar-lights-for-pro-quality-landscap-1850359585)
 - [Dev.to/JS] [How To Debug a Single Test Case](https://dev.to/zirkelc/how-to-debug-a-single-test-case-308d)
 - [Lifehacker] [A Pool Noodle Is the Best Way to Transport Knives on a Trip](https://lifehacker.com/a-pool-noodle-is-the-best-way-to-transport-knives-on-a-1850363453)
-- [Dev.to/JS] [Closures and callbacks in Javascript](https://dev.to/charliekroon/closures-and-callbacks-in-javascript-5d5f)
 - [Lifehacker] [How to Add Shade to a Treeless Backyard](https://lifehacker.com/how-to-add-shade-to-a-treeless-backyard-1850362835)
-- [Dev.to/JS] [Jamstack: The Future of Web Development](https://dev.to/makemychance/jamstack-the-future-of-web-development-3a8c)
 - [Lifehacker] [Six Basic Knife Techniques Everyone Should Know](https://lifehacker.com/six-basic-knife-techniques-everyone-should-know-1850363702)
-- [Dev.to/JS] [Creating Database-Driven Astro Sites with the Tigris Astro Integration](https://dev.to/tigrisdata/creating-database-driven-astro-sites-with-the-tigris-astro-integration-mpa)
 - [Lifehacker] [What to Do When One Child Thinks They’re the ‘Bad Kid’](https://lifehacker.com/what-to-do-when-one-child-thinks-they-re-the-bad-kid-1850363233)
 - [Lifehacker] [The Items on the ‘Food Disgust Test’ That Are Actually Unsafe to Eat](https://lifehacker.com/the-items-on-the-food-disgust-test-that-are-actually-1850363121)
 - [Lifehacker] [Why Clothing Subscription Boxes Are Basically Pointless](https://lifehacker.com/why-clothing-subscription-boxes-are-basically-pointless-1850362337)
