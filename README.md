@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Operadores no tan comunes de Rxjs](https://dev.to/alexcordobainc/operadores-no-tan-comunes-de-rxjs-221o)
+- [Dev.to/JS] [Updating React State Inside Loops](https://dev.to/bytebodger/updating-react-state-inside-loops-2dbf)
+- [Dev.to/JS] [I attended my first tech conference... before even getting my first tech job 😳](https://dev.to/alexisintech/i-attended-my-first-tech-conference-before-even-getting-my-first-tech-job-pg2)
+- [Dev.to/JS] [Mock imported modules in Jest](https://dev.to/rafaf/mock-imported-modules-in-jest-26ng)
 - [Dev.to/JS] [Tips on making a web site accessible part 2](https://dev.to/karenpayneoregon/tips-on-making-a-web-site-accessible-part-2-486p)
 - [Dev.to/JS] [Zedux: Is This the One?](https://dev.to/josh_claunch/zedux-is-this-the-one-3la0)
 - [Dev.to/JS] [Zedux Open-Sourced](https://dev.to/josh_claunch/zedux-open-sourced-m66)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Data Types](https://dev.to/kibetamos/javascript-data-types-1c7p)
 - [Dev.to/JS] [Melhorias de performance recentes no ecossistema JavaScript](https://dev.to/raphaelramos/melhorias-de-performance-recentes-no-ecossistema-javascript-10ej)
 - [Dev.to/JS] [How to create active links using React Router V6](https://dev.to/salehmubashar/how-to-create-active-links-using-react-router-v6-340n)
-- [Dev.to/JS] [Parametric Polymorphism in TypeScript and how it can help you to write better code](https://dev.to/shadid12/parametric-polymorphism-in-typescript-and-how-it-can-help-you-to-write-better-code-2kih)
-- [Dev.to/JS] [Creating a TypeWriter Effect in Phaser.js v3](https://dev.to/joelnet/creating-a-typewriter-effect-in-phaserjs-v3-4e66)
-- [Dev.to/JS] [Fixing AI generated pixelart](https://dev.to/golota60/fixing-ai-generated-pixelart-32mg)
-- [Dev.to/JS] [How To Use MillionJs In a Next App.](https://dev.to/tobysolutions/how-to-use-millionjs-in-a-next-app-1eim)
 - [Lifehacker] [The Best Questions to Ask on Your First Day at a New Job](https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396)
 - [Lifehacker] [How Screen Time Can Save You When Your iPhone Is Stolen](https://lifehacker.com/how-screen-time-can-save-you-when-your-iphone-is-stolen-1850368491)
 - [Lifehacker] [The Case for Never Eating Cold Cake Again](https://lifehacker.com/the-case-for-never-eating-cold-cake-again-1850368553)
