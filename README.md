@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Embracing the Peaks and Valleys of Progress.](https://dev.to/arashjangali/embracing-the-peaks-and-valleys-of-progress-3k11)
 - [Dev.to/JS] [Ingesting Financial Tick Data Using a Time-Series Database](https://dev.to/yitaek/ingesting-financial-tick-data-using-a-time-series-database-59l3)
 - [Dev.to/JS] [Série React Hooks: useImperativeHandle](https://dev.to/taisesoares/serie-react-hooks-useimperativehandle-44d)
 - [Dev.to/JS] [Operadores no tan comunes de Rxjs](https://dev.to/alexcordobainc/operadores-no-tan-comunes-de-rxjs-221o)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Zedux Open-Sourced](https://dev.to/josh_claunch/zedux-open-sourced-m66)
 - [Dev.to/JS] [Simple mutations with TanStack Query and Next.js](https://dev.to/elisabethleonhardt/simple-mutations-with-tanstack-query-and-nextjs-4b0m)
 - [Dev.to/JS] [TypeScript Runtime Type Checking](https://dev.to/aziznal/typescript-runtime-type-checking-dmo)
-- [Dev.to/JS] [JavaScript Data Types](https://dev.to/kibetamos/javascript-data-types-1c7p)
 - [Lifehacker] [The Best Questions to Ask on Your First Day at a New Job](https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396)
 - [Lifehacker] [How Screen Time Can Save You When Your iPhone Is Stolen](https://lifehacker.com/how-screen-time-can-save-you-when-your-iphone-is-stolen-1850368491)
 - [Lifehacker] [The Case for Never Eating Cold Cake Again](https://lifehacker.com/the-case-for-never-eating-cold-cake-again-1850368553)
