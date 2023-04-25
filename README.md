@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Tool Reveals How Far You Can Travel on Your Tax Refund](https://lifehacker.com/this-tool-reveals-how-far-you-can-travel-on-your-tax-re-1850373217)
+- [Dev.to/JS] [Understanding methods and functions in JavaScript](https://dev.to/mdjibril/understanding-methods-and-function-in-javascript-ebg)
+- [Lifehacker] [The Smartest Ways to Get a Recruiter&#39;s Attention &lpar;Without Being Obnoxious&rpar;](https://lifehacker.com/the-smartest-ways-to-get-a-recruiters-attention-withou-1850371644)
+- [Dev.to/JS] [Modifying Objects in JavaScript Made Easy](https://dev.to/penncurtis/modifying-objects-in-javascript-made-easy-13e0)
 - [Lifehacker] [All the Wild New Canva AI Features You Should Know About](https://lifehacker.com/all-the-wild-new-canva-ai-features-you-should-know-abou-1850371955)
 - [Dev.to/JS] [Cicada: Write CI/CD pipelines in TypeScript](https://dev.to/brendan/launching-cicada-write-cicd-pipelines-in-typescript-3i31)
 - [Dev.to/JS] [Why Real Estate Business is a Popular Passive Income Idea:](https://dev.to/selfearn160/why-real-estate-business-is-a-popular-passive-income-idea-4nl)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easy Way to Keep Your Brussels Sprouts From Sticking](https://lifehacker.com/the-easy-way-to-keep-your-brussels-sprouts-from-stickin-1850372718)
 - [Dev.to/JS] [How To Create Music Player Using HTML , CSS and JavaScript?](https://dev.to/ondevw19812/how-to-create-music-player-using-html-css-and-javascript-29fd)
 - [Dev.to/JS] [Moving Zeros To The End](https://dev.to/muhmmadawd/moving-zeros-to-the-end-5bbo)
-- [Dev.to/JS] [Redux Toolkit + React: A Perfect Combination for Smooth State Management - A Step-by-Step Tutorial](https://dev.to/krishnacyber/redux-toolkit-react-a-perfect-combination-for-smooth-state-management-a-step-by-step-tutorial-36o8)
-- [Dev.to/JS] [Is Dart better than JavaScript?](https://dev.to/christinek989/is-dart-better-than-javascript-34pf)
 - [Lifehacker] [10 True-Crime Podcasts You Probably Haven&#39;t Binged Yet](https://lifehacker.com/10-true-crime-podcasts-you-probably-havent-binged-yet-1850366929)
 - [Lifehacker] [Why You Shouldn&#39;t Trust AI Detectors](https://lifehacker.com/why-you-shouldnt-trust-ai-detectors-1850369642)
 - [Lifehacker] [You Should Put Your Coffee Table on Casters](https://lifehacker.com/you-should-put-your-coffee-table-on-casters-1850369665)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [If You Haven&#39;t Had a Cheese Fries Omelette, Have You Even Lived?](https://lifehacker.com/if-you-havent-had-a-cheese-fries-omelette-have-you-eve-1850361856)
 - [Lifehacker] [All the Ways Airbnb Hosts Deceive You](https://lifehacker.com/all-the-ways-airbnb-hosts-deceive-you-1850357710)
 - [Lifehacker] [You Can &#39;Dust&#39; Curtains in Your Dryer](https://lifehacker.com/you-can-dust-curtains-in-your-dryer-1850357206)
-- [Lifehacker] [How to Get Free Mother&#39;s Day Flowers From Lowe&#39;s](https://lifehacker.com/how-to-get-free-mothers-day-flowers-from-lowes-1850357215)
-- [Lifehacker] [Ask Your Best Friend Three Questions to Learn Who You Are Outside of Work](https://lifehacker.com/ask-your-best-friend-three-questions-to-learn-who-you-a-1850357626)
-- [Lifehacker] [You Can Get Rid of Mold on Your Roof &lpar;and Stop It From Coming Back&rpar;](https://lifehacker.com/you-can-get-rid-of-mold-on-your-roof-and-stop-it-from-1850357545)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get Free Mother&#39;s Day Flowers From Lowe&#39;s](https://lifehacker.com/how-to-get-free-mothers-day-flowers-from-lowes-1850357215)<!-- TECH-POSTS:END -->
 
 ---
 
