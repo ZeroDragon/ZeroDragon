@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Create Music Player Using HTML , CSS and JavaScript?](https://dev.to/ondevw19812/how-to-create-music-player-using-html-css-and-javascript-29fd)
+- [Dev.to/JS] [Moving Zeros To The End](https://dev.to/muhmmadawd/moving-zeros-to-the-end-5bbo)
+- [Dev.to/JS] [Redux Toolkit + React: A Perfect Combination for Smooth State Management - A Step-by-Step Tutorial](https://dev.to/krishnacyber/redux-toolkit-react-a-perfect-combination-for-smooth-state-management-a-step-by-step-tutorial-36o8)
+- [Dev.to/JS] [Is Dart better than JavaScript?](https://dev.to/christinek989/is-dart-better-than-javascript-34pf)
+- [Dev.to/JS] [5 Tips To Improve Angular Performance](https://dev.to/bitovi/5-tips-to-improve-angular-performance-360h)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Dividindo alimentos](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-dividindo-alimentos-1bh2)
+- [Lifehacker] [10 True-Crime Podcasts You Probably Haven&#39;t Binged Yet](https://lifehacker.com/10-true-crime-podcasts-you-probably-havent-binged-yet-1850366929)
+- [Dev.to/JS] [Using Blockchain Technology Without A Wallet](https://dev.to/tusharojha/using-blockchain-technology-without-a-wallet-1383)
+- [Lifehacker] [Why You Shouldn&#39;t Trust AI Detectors](https://lifehacker.com/why-you-shouldnt-trust-ai-detectors-1850369642)
 - [Dev.to/JS] [The Future of Work: How Automation is Changing the Job Landscape](https://dev.to/contantwriter/the-future-of-work-how-automation-is-changing-the-job-landscape-2dog)
 - [Dev.to/JS] [Mastering React Class Component Life Cycle Methods: A Quick Guide](https://dev.to/ghostaram/mastering-react-class-component-life-cycle-methods-a-quick-guide-3i2h)
 - [Lifehacker] [You Should Put Your Coffee Table on Casters](https://lifehacker.com/you-should-put-your-coffee-table-on-casters-1850369665)
@@ -30,15 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Fictional AI, Ranked by How Likely They Are to Kill Us All](https://lifehacker.com/10-fictional-ai-ranked-by-how-likely-they-are-to-kill-1850368045)
 - [Dev.to/JS] [The OR operator &lpar;||&rpar; vs Nullish Coalescing &lpar;??&rpar;](https://dev.to/findniya/the-or-operator-vs-nullish-coalescing--agp)
 - [Dev.to/JS] [Moonly weekly progress update #46 - New design for a login page](https://dev.to/moonly/moonly-weekly-progress-update-46-new-design-for-a-login-page-17fi)
-- [Dev.to/JS] [Mastering Error Handling in JavaScript](https://dev.to/accreditly/mastering-error-handling-in-javascript-3ice)
 - [Lifehacker] [You Can Use a Pool Noodle to Prop Up Small Plants in Large Pots](https://lifehacker.com/you-can-use-a-pool-noodle-to-prop-up-small-plants-in-la-1850369137)
-- [Dev.to/JS] [Building a language learning tool with Supabase Edge functions + GPT3.5](https://dev.to/jacksbridger/building-a-language-learning-tool-with-supabase-edge-functions-gpt35-3j8k)
-- [Dev.to/JS] [Celebrating Novu @ 20k Stars](https://dev.to/novu/celebrating-novu-20k-stars-14dk)
-- [Dev.to/JS] [Build a Dice Roll Simulator using HTML CSS and JavaScript](https://dev.to/obere4u/build-a-dice-roll-simulator-using-html-css-and-javascript-1n3o)
-- [Dev.to/JS] [Will Node.js replace many Backend Technologies](https://dev.to/devwares/will-nodejs-replace-many-backend-technologies-37k2)
 - [Lifehacker] [How to Organize Your Fridge Without a Million Plastic Bins](https://lifehacker.com/how-to-organize-your-fridge-without-a-million-plastic-b-1850360256)
-- [Dev.to/JS] [How to scale and center path inside svg in javascript](https://dev.to/olatuneday/how-to-scale-and-center-path-inside-svg-in-javascript-12im)
-- [Dev.to/JS] [Maximizing Performance and Flexibility with Server-Side Rendering, Static Site Generators, and Headless CMSs](https://dev.to/_fameux_/maximizing-performance-and-flexibility-with-server-side-rendering-static-site-generators-and-headless-cmss-3n29)
 - [Lifehacker] [Take These Steps to Keep Diseases From Ruining Your Garden](https://lifehacker.com/take-these-steps-to-keep-diseases-from-ruining-your-gar-1850359057)
 - [Lifehacker] [The Best Questions to Ask on Your First Day at a New Job](https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396)
 - [Lifehacker] [How Screen Time Can Save You When Your iPhone Is Stolen](https://lifehacker.com/how-screen-time-can-save-you-when-your-iphone-is-stolen-1850368491)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ask These Questions Instead of &#39;How Are You?&#39;](https://lifehacker.com/ask-these-questions-instead-of-how-are-you-1850357221)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Prom Pictures With Goats?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-prom-pic-1850362453)
 - [Lifehacker] [Snapchat&#39;s AI Bot Might Be the Easiest Way to Access ChatGPT](https://lifehacker.com/snapchats-ai-bot-might-be-the-easiest-way-to-access-cha-1850362083)
-- [Lifehacker] [Find Out If You Live in One of the Most Polluted US Cities](https://lifehacker.com/find-out-if-you-live-in-one-of-the-most-polluted-us-cit-1850357768)
-- [Lifehacker] [Gardening Doesn&#39;t Have to Wreck Your Body](https://lifehacker.com/gardening-doesnt-have-to-wreck-your-body-1850351472)
-- [Lifehacker] [These Countries Won’t Let You Visit If Your Passport Expires in the Next Six Months](https://lifehacker.com/these-countries-won-t-let-you-visit-if-your-passport-ex-1850354540)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Find Out If You Live in One of the Most Polluted US Cities](https://lifehacker.com/find-out-if-you-live-in-one-of-the-most-polluted-us-cit-1850357768)<!-- TECH-POSTS:END -->
 
 ---
 
