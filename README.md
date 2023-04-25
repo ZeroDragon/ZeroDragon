@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [50 ChatGPT Prompts to Debug ReactJS Issues](https://dev.to/nilanth/50-chatgpt-prompts-to-debug-reactjs-issues-481g)
+- [Dev.to/JS] [&quot;react-redux&quot; and &quot;@reduxjs/toolkit&quot; short explanation](https://dev.to/lausuarez02/react-redux-and-reduxjstoolkit-short-explanation-15al)
+- [Lifehacker] [What ‘Breathe Into Your Back’ and Other Weird Yoga Terms Actually Mean](https://lifehacker.com/what-breathe-into-your-back-and-other-weird-yoga-term-1850370689)
+- [Dev.to/JS] [Episode 23/16: Hydration, Angular 17 and Beyond, Webinar on Signals](https://dev.to/ng_news/episode-2316-hydration-angular-17-and-beyond-webinar-on-signals-1pob)
+- [Lifehacker] [The Easy Way to Keep Your Brussels Sprouts From Sticking](https://lifehacker.com/the-easy-way-to-keep-your-brussels-sprouts-from-stickin-1850372718)
 - [Dev.to/JS] [How To Create Music Player Using HTML , CSS and JavaScript?](https://dev.to/ondevw19812/how-to-create-music-player-using-html-css-and-javascript-29fd)
 - [Dev.to/JS] [Moving Zeros To The End](https://dev.to/muhmmadawd/moving-zeros-to-the-end-5bbo)
 - [Dev.to/JS] [Redux Toolkit + React: A Perfect Combination for Smooth State Management - A Step-by-Step Tutorial](https://dev.to/krishnacyber/redux-toolkit-react-a-perfect-combination-for-smooth-state-management-a-step-by-step-tutorial-36o8)
@@ -35,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Future of Work: How Automation is Changing the Job Landscape](https://dev.to/contantwriter/the-future-of-work-how-automation-is-changing-the-job-landscape-2dog)
 - [Dev.to/JS] [Mastering React Class Component Life Cycle Methods: A Quick Guide](https://dev.to/ghostaram/mastering-react-class-component-life-cycle-methods-a-quick-guide-3i2h)
 - [Lifehacker] [You Should Put Your Coffee Table on Casters](https://lifehacker.com/you-should-put-your-coffee-table-on-casters-1850369665)
-- [Dev.to/JS] [Building a replaceAllAsync in TypeScript](https://dev.to/keestalkstech/building-a-replaceallasync-in-typescript-a59)
 - [Lifehacker] [10 Fictional AI, Ranked by How Likely They Are to Kill Us All](https://lifehacker.com/10-fictional-ai-ranked-by-how-likely-they-are-to-kill-1850368045)
-- [Dev.to/JS] [The OR operator &lpar;||&rpar; vs Nullish Coalescing &lpar;??&rpar;](https://dev.to/findniya/the-or-operator-vs-nullish-coalescing--agp)
-- [Dev.to/JS] [Moonly weekly progress update #46 - New design for a login page](https://dev.to/moonly/moonly-weekly-progress-update-46-new-design-for-a-login-page-17fi)
 - [Lifehacker] [You Can Use a Pool Noodle to Prop Up Small Plants in Large Pots](https://lifehacker.com/you-can-use-a-pool-noodle-to-prop-up-small-plants-in-la-1850369137)
 - [Lifehacker] [How to Organize Your Fridge Without a Million Plastic Bins](https://lifehacker.com/how-to-organize-your-fridge-without-a-million-plastic-b-1850360256)
 - [Lifehacker] [Take These Steps to Keep Diseases From Ruining Your Garden](https://lifehacker.com/take-these-steps-to-keep-diseases-from-ruining-your-gar-1850359057)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Rid of Mold on Your Roof &lpar;and Stop It From Coming Back&rpar;](https://lifehacker.com/you-can-get-rid-of-mold-on-your-roof-and-stop-it-from-1850357545)
 - [Lifehacker] [This Is How Much It Costs to Build a New House in Each State](https://lifehacker.com/this-is-how-much-it-costs-to-build-a-new-house-in-each-1850357603)
 - [Lifehacker] [Ask These Questions Instead of &#39;How Are You?&#39;](https://lifehacker.com/ask-these-questions-instead-of-how-are-you-1850357221)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Prom Pictures With Goats?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-prom-pic-1850362453)
-- [Lifehacker] [Snapchat&#39;s AI Bot Might Be the Easiest Way to Access ChatGPT](https://lifehacker.com/snapchats-ai-bot-might-be-the-easiest-way-to-access-cha-1850362083)
-- [Lifehacker] [Find Out If You Live in One of the Most Polluted US Cities](https://lifehacker.com/find-out-if-you-live-in-one-of-the-most-polluted-us-cit-1850357768)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Prom Pictures With Goats?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-prom-pic-1850362453)<!-- TECH-POSTS:END -->
 
 ---
 
