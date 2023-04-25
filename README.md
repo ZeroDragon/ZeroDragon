@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ingesting Financial Tick Data Using a Time-Series Database](https://dev.to/yitaek/ingesting-financial-tick-data-using-a-time-series-database-59l3)
+- [Dev.to/JS] [Série React Hooks: useImperativeHandle](https://dev.to/taisesoares/serie-react-hooks-useimperativehandle-44d)
 - [Dev.to/JS] [Operadores no tan comunes de Rxjs](https://dev.to/alexcordobainc/operadores-no-tan-comunes-de-rxjs-221o)
 - [Dev.to/JS] [Updating React State Inside Loops](https://dev.to/bytebodger/updating-react-state-inside-loops-2dbf)
 - [Dev.to/JS] [I attended my first tech conference... before even getting my first tech job 😳](https://dev.to/alexisintech/i-attended-my-first-tech-conference-before-even-getting-my-first-tech-job-pg2)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple mutations with TanStack Query and Next.js](https://dev.to/elisabethleonhardt/simple-mutations-with-tanstack-query-and-nextjs-4b0m)
 - [Dev.to/JS] [TypeScript Runtime Type Checking](https://dev.to/aziznal/typescript-runtime-type-checking-dmo)
 - [Dev.to/JS] [JavaScript Data Types](https://dev.to/kibetamos/javascript-data-types-1c7p)
-- [Dev.to/JS] [Melhorias de performance recentes no ecossistema JavaScript](https://dev.to/raphaelramos/melhorias-de-performance-recentes-no-ecossistema-javascript-10ej)
-- [Dev.to/JS] [How to create active links using React Router V6](https://dev.to/salehmubashar/how-to-create-active-links-using-react-router-v6-340n)
 - [Lifehacker] [The Best Questions to Ask on Your First Day at a New Job](https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396)
 - [Lifehacker] [How Screen Time Can Save You When Your iPhone Is Stolen](https://lifehacker.com/how-screen-time-can-save-you-when-your-iphone-is-stolen-1850368491)
 - [Lifehacker] [The Case for Never Eating Cold Cake Again](https://lifehacker.com/the-case-for-never-eating-cold-cake-again-1850368553)
