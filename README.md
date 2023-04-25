@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Replace your endless &#39;IF-ELSE&#39; or &#39;SWITCH&#39; Javascript statements with maps](https://dev.to/tqbit/replace-your-endless-if-else-or-switch-javascript-statements-with-maps-3i0a)
+- [Dev.to/JS] [Certificate of web development by Internshala](https://dev.to/prince6202/certificate-of-web-development-by-internshala-361k)
+- [Dev.to/JS] [Create a Simple Digital Clock Using HTML, CSS and JavaScript](https://dev.to/ryandsouza13/create-a-simple-digital-clock-using-html-css-and-javascript-3h53)
+- [Dev.to/JS] [Build a WhatsApp Chatbot Using Node.JS](https://dev.to/devashishmamgain/build-a-whatsapp-chatbot-using-nodejs-51g0)
 - [Dev.to/JS] [PNG vs SVG for Logos and Icons](https://dev.to/raaghu/png-vs-svg-for-logos-and-icons-2bgb)
 - [Dev.to/JS] [The Pros and Cons of Migrating from JavaScript to TypeScript](https://dev.to/i_shahmeer/the-pros-and-cons-of-migrating-from-javascript-to-typescript-536o)
 - [Dev.to/JS] [The Power of .then in JavaScript](https://dev.to/rahulladumor/the-power-of-then-in-javascript-8ma)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Keeping state of data within localStorage in React](https://dev.to/kebin20/keeping-state-of-data-within-localstorage-in-react-224p)
 - [Dev.to/JS] [hello ! all the Js developers present out there](https://dev.to/samarthsaxena10/hello-all-the-js-developers-present-out-there-11mj)
 - [Dev.to/JS] [Top 5 Design Practices of a RESTFUL API using Express.JS](https://dev.to/qbentil/top-5-design-practices-of-a-restful-api-using-expressjs-2i6o)
-- [Dev.to/JS] [Boas praticas no js que utilizo no dia a dia](https://dev.to/viniielopes/boas-praticas-no-js-que-utilizo-no-dia-a-dia-40bo)
-- [Dev.to/JS] [Embracing the Peaks and Valleys of Progress.](https://dev.to/arashjangali/embracing-the-peaks-and-valleys-of-progress-3k11)
-- [Dev.to/JS] [Ingesting Financial Tick Data Using a Time-Series Database](https://dev.to/yitaek/ingesting-financial-tick-data-using-a-time-series-database-59l3)
-- [Dev.to/JS] [Série React Hooks: useImperativeHandle](https://dev.to/taisesoares/serie-react-hooks-useimperativehandle-44d)
 - [Lifehacker] [The Best Questions to Ask on Your First Day at a New Job](https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396)
 - [Lifehacker] [How Screen Time Can Save You When Your iPhone Is Stolen](https://lifehacker.com/how-screen-time-can-save-you-when-your-iphone-is-stolen-1850368491)
 - [Lifehacker] [The Case for Never Eating Cold Cake Again](https://lifehacker.com/the-case-for-never-eating-cold-cake-again-1850368553)
