@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Wild New Canva AI Features You Should Know About](https://lifehacker.com/all-the-wild-new-canva-ai-features-you-should-know-abou-1850371955)
+- [Dev.to/JS] [Cicada: Write CI/CD pipelines in TypeScript](https://dev.to/brendan/launching-cicada-write-cicd-pipelines-in-typescript-3i31)
+- [Dev.to/JS] [Why Real Estate Business is a Popular Passive Income Idea:](https://dev.to/selfearn160/why-real-estate-business-is-a-popular-passive-income-idea-4nl)
+- [Dev.to/JS] [How to Start Dropshipping?](https://dev.to/selfearn160/how-to-start-dropshipping-1lgo)
+- [Lifehacker] [YouTubers You’ll Actually Want Your Tweens to Follow](https://lifehacker.com/youtubers-you-ll-actually-want-your-tweens-to-follow-1850371298)
+- [Dev.to/JS] [Javascript : The Importance of the forEach&lpar;&rpar; Method](https://dev.to/mlbmokey/javascript-the-importance-of-the-foreach-method-pba)
+- [Dev.to/JS] [Add colors to your terminal!](https://dev.to/unarray/add-colors-to-your-terminal-5dcg)
+- [Lifehacker] [10 of the First Things You Should Try With ChatGPT](https://lifehacker.com/10-of-the-first-things-you-should-try-with-chatgpt-1850368802)
 - [Dev.to/JS] [50 ChatGPT Prompts to Debug ReactJS Issues](https://dev.to/nilanth/50-chatgpt-prompts-to-debug-reactjs-issues-481g)
 - [Dev.to/JS] [&quot;react-redux&quot; and &quot;@reduxjs/toolkit&quot; short explanation](https://dev.to/lausuarez02/react-redux-and-reduxjstoolkit-short-explanation-15al)
 - [Lifehacker] [What ‘Breathe Into Your Back’ and Other Weird Yoga Terms Actually Mean](https://lifehacker.com/what-breathe-into-your-back-and-other-weird-yoga-term-1850370689)
@@ -32,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Moving Zeros To The End](https://dev.to/muhmmadawd/moving-zeros-to-the-end-5bbo)
 - [Dev.to/JS] [Redux Toolkit + React: A Perfect Combination for Smooth State Management - A Step-by-Step Tutorial](https://dev.to/krishnacyber/redux-toolkit-react-a-perfect-combination-for-smooth-state-management-a-step-by-step-tutorial-36o8)
 - [Dev.to/JS] [Is Dart better than JavaScript?](https://dev.to/christinek989/is-dart-better-than-javascript-34pf)
-- [Dev.to/JS] [5 Tips To Improve Angular Performance](https://dev.to/bitovi/5-tips-to-improve-angular-performance-360h)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Dividindo alimentos](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-dividindo-alimentos-1bh2)
 - [Lifehacker] [10 True-Crime Podcasts You Probably Haven&#39;t Binged Yet](https://lifehacker.com/10-true-crime-podcasts-you-probably-havent-binged-yet-1850366929)
-- [Dev.to/JS] [Using Blockchain Technology Without A Wallet](https://dev.to/tusharojha/using-blockchain-technology-without-a-wallet-1383)
 - [Lifehacker] [Why You Shouldn&#39;t Trust AI Detectors](https://lifehacker.com/why-you-shouldnt-trust-ai-detectors-1850369642)
-- [Dev.to/JS] [The Future of Work: How Automation is Changing the Job Landscape](https://dev.to/contantwriter/the-future-of-work-how-automation-is-changing-the-job-landscape-2dog)
-- [Dev.to/JS] [Mastering React Class Component Life Cycle Methods: A Quick Guide](https://dev.to/ghostaram/mastering-react-class-component-life-cycle-methods-a-quick-guide-3i2h)
 - [Lifehacker] [You Should Put Your Coffee Table on Casters](https://lifehacker.com/you-should-put-your-coffee-table-on-casters-1850369665)
 - [Lifehacker] [10 Fictional AI, Ranked by How Likely They Are to Kill Us All](https://lifehacker.com/10-fictional-ai-ranked-by-how-likely-they-are-to-kill-1850368045)
 - [Lifehacker] [You Can Use a Pool Noodle to Prop Up Small Plants in Large Pots](https://lifehacker.com/you-can-use-a-pool-noodle-to-prop-up-small-plants-in-la-1850369137)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can &#39;Dust&#39; Curtains in Your Dryer](https://lifehacker.com/you-can-dust-curtains-in-your-dryer-1850357206)
 - [Lifehacker] [How to Get Free Mother&#39;s Day Flowers From Lowe&#39;s](https://lifehacker.com/how-to-get-free-mothers-day-flowers-from-lowes-1850357215)
 - [Lifehacker] [Ask Your Best Friend Three Questions to Learn Who You Are Outside of Work](https://lifehacker.com/ask-your-best-friend-three-questions-to-learn-who-you-a-1850357626)
-- [Lifehacker] [You Can Get Rid of Mold on Your Roof &lpar;and Stop It From Coming Back&rpar;](https://lifehacker.com/you-can-get-rid-of-mold-on-your-roof-and-stop-it-from-1850357545)
-- [Lifehacker] [This Is How Much It Costs to Build a New House in Each State](https://lifehacker.com/this-is-how-much-it-costs-to-build-a-new-house-in-each-1850357603)
-- [Lifehacker] [Ask These Questions Instead of &#39;How Are You?&#39;](https://lifehacker.com/ask-these-questions-instead-of-how-are-you-1850357221)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Prom Pictures With Goats?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-prom-pic-1850362453)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Rid of Mold on Your Roof &lpar;and Stop It From Coming Back&rpar;](https://lifehacker.com/you-can-get-rid-of-mold-on-your-roof-and-stop-it-from-1850357545)<!-- TECH-POSTS:END -->
 
 ---
 
