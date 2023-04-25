@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best way design java based site.](https://dev.to/danigoldmobiletires/best-way-design-java-based-site-38a8)
+- [Dev.to/JS] [Angular Debugging Made Simple: Building a Custom Logging Service](https://dev.to/aru-ku/angular-debugging-made-simple-building-a-custom-logging-service-1084)
+- [Dev.to/JS] [Cortexi - Ear Solution, Results, Reviews, Price And Ingredients?](https://dev.to/cortexifac48864/cortexi-ear-solution-results-reviews-price-and-ingredients-ogh)
 - [Dev.to/JS] [Building Dynamic Web Applications: A Beginner&#39;s Guide to Using Firebase with React.js](https://dev.to/haszankauna/building-dynamic-web-applications-a-beginners-guide-to-using-firebase-with-reactjs-4m44)
 - [Dev.to/JS] [Functional Programming with JavaScript chapter 3 Notes](https://dev.to/rowida46/functional-programming-with-javascript-chapter-notes-44j8)
 - [Dev.to/JS] [How to Create Random Color Generator with 3D Effect](https://dev.to/incoderweb/how-to-create-random-color-generator-with-3d-effect-4921)
@@ -30,11 +33,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Certificate of web development by Internshala](https://dev.to/prince6202/certificate-of-web-development-by-internshala-361k)
 - [Dev.to/JS] [Create a Simple Digital Clock Using HTML, CSS and JavaScript](https://dev.to/ryandsouza13/create-a-simple-digital-clock-using-html-css-and-javascript-3h53)
 - [Dev.to/JS] [Build a WhatsApp Chatbot Using Node.JS](https://dev.to/devashishmamgain/build-a-whatsapp-chatbot-using-nodejs-51g0)
+- [Dev.to/JS] [How to Send Emails Directly from Your React Website: A Step-by-Step Tutorial](https://dev.to/david_bilsonn/how-to-send-emails-directly-from-your-react-website-a-step-by-step-tutorial-144b)
 - [Dev.to/JS] [PNG vs SVG for Logos and Icons](https://dev.to/raaghu/png-vs-svg-for-logos-and-icons-2bgb)
-- [Dev.to/JS] [The Pros and Cons of Migrating from JavaScript to TypeScript](https://dev.to/i_shahmeer/the-pros-and-cons-of-migrating-from-javascript-to-typescript-536o)
-- [Dev.to/JS] [The Power of .then in JavaScript](https://dev.to/rahulladumor/the-power-of-then-in-javascript-8ma)
-- [Dev.to/JS] [My Favorite Free Courses to Learn Design Patterns in Depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-design-patterns-in-depth-5dp5)
-- [Dev.to/JS] [Styled-components: ¿Amigo o enemigo?](https://dev.to/miasalazar/styled-components-amigo-o-enemigo-5d5h)
 - [Lifehacker] [The Best Questions to Ask on Your First Day at a New Job](https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396)
 - [Lifehacker] [How Screen Time Can Save You When Your iPhone Is Stolen](https://lifehacker.com/how-screen-time-can-save-you-when-your-iphone-is-stolen-1850368491)
 - [Lifehacker] [The Case for Never Eating Cold Cake Again](https://lifehacker.com/the-case-for-never-eating-cold-cake-again-1850368553)
