@@ -23,24 +23,26 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Will Node.js replace many Backend Technologies](https://dev.to/devwares/will-nodejs-replace-many-backend-technologies-37k2)
+- [Lifehacker] [How to Organize Your Fridge Without a Million Plastic Bins](https://lifehacker.com/how-to-organize-your-fridge-without-a-million-plastic-b-1850360256)
+- [Dev.to/JS] [How to scale and center path inside svg in javascript](https://dev.to/olatuneday/how-to-scale-and-center-path-inside-svg-in-javascript-12im)
+- [Dev.to/JS] [Maximizing Performance and Flexibility with Server-Side Rendering, Static Site Generators, and Headless CMSs](https://dev.to/_fameux_/maximizing-performance-and-flexibility-with-server-side-rendering-static-site-generators-and-headless-cmss-3n29)
+- [Dev.to/JS] [Avoid Common Pitfalls with Next.js Server-Side Rendering](https://dev.to/hi_iam_chris/avoid-common-pitfalls-with-nextjs-server-side-rendering-2gi6)
+- [Dev.to/JS] [Master JavaScript with these 5 Free Online Resources](https://dev.to/max88git/master-javascript-with-these-5-free-online-resources-3p94)
+- [Lifehacker] [Take These Steps to Keep Diseases From Ruining Your Garden](https://lifehacker.com/take-these-steps-to-keep-diseases-from-ruining-your-gar-1850359057)
+- [Dev.to/JS] [Vuex](https://dev.to/otamurode/vuex-3ig2)
 - [Dev.to/JS] [🚀Discover the Top ERC Tokens for Creating Powerful Smart Contracts!💪🏽💡📈](https://dev.to/akshaykurhekar/discover-the-top-erc-tokens-for-creating-powerful-smart-contracts-56gn)
 - [Dev.to/JS] [Implementing Drag and Drop Upload in React using Supabase](https://dev.to/surajondev/implementing-drag-and-drop-upload-in-react-using-supabase-49pb)
 - [Dev.to/JS] [Best way design java based site.](https://dev.to/danigoldmobiletires/best-way-design-java-based-site-38a8)
 - [Dev.to/JS] [Angular Debugging Made Simple: Building a Custom Logging Service](https://dev.to/aru-ku/angular-debugging-made-simple-building-a-custom-logging-service-1084)
 - [Dev.to/JS] [Cortexi - Ear Solution, Results, Reviews, Price And Ingredients?](https://dev.to/cortexifac48864/cortexi-ear-solution-results-reviews-price-and-ingredients-ogh)
 - [Dev.to/JS] [Building Dynamic Web Applications: A Beginner&#39;s Guide to Using Firebase with React.js](https://dev.to/haszankauna/building-dynamic-web-applications-a-beginners-guide-to-using-firebase-with-reactjs-4m44)
-- [Dev.to/JS] [Functional Programming with JavaScript chapter 3 Notes](https://dev.to/rowida46/functional-programming-with-javascript-chapter-notes-44j8)
-- [Dev.to/JS] [How to Create Random Color Generator with 3D Effect](https://dev.to/incoderweb/how-to-create-random-color-generator-with-3d-effect-4921)
-- [Dev.to/JS] [Replace your endless &#39;IF-ELSE&#39; or &#39;SWITCH&#39; Javascript statements with maps](https://dev.to/tqbit/replace-your-endless-if-else-or-switch-javascript-statements-with-maps-3i0a)
-- [Dev.to/JS] [Certificate of web development by Internshala](https://dev.to/prince6202/certificate-of-web-development-by-internshala-361k)
-- [Dev.to/JS] [Create a Simple Digital Clock Using HTML, CSS and JavaScript](https://dev.to/ryandsouza13/create-a-simple-digital-clock-using-html-css-and-javascript-3h53)
-- [Dev.to/JS] [Build a WhatsApp Chatbot Using Node.JS](https://dev.to/devashishmamgain/build-a-whatsapp-chatbot-using-nodejs-51g0)
 - [Lifehacker] [The Best Questions to Ask on Your First Day at a New Job](https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396)
 - [Lifehacker] [How Screen Time Can Save You When Your iPhone Is Stolen](https://lifehacker.com/how-screen-time-can-save-you-when-your-iphone-is-stolen-1850368491)
 - [Lifehacker] [The Case for Never Eating Cold Cake Again](https://lifehacker.com/the-case-for-never-eating-cold-cake-again-1850368553)
 - [Lifehacker] [Use Cheap LED and Solar Lights for Pro-Quality Landscape Lighting](https://lifehacker.com/use-cheap-led-and-solar-lights-for-pro-quality-landscap-1850359585)
 - [Lifehacker] [A Pool Noodle Is the Best Way to Transport Knives on a Trip](https://lifehacker.com/a-pool-noodle-is-the-best-way-to-transport-knives-on-a-1850363453)
-- [Lifehacker] [How to Add Shade to a Treeless Backyard](https://lifehacker.com/how-to-add-shade-to-a-treeless-backyard-1850362835)
+- [Lifehacker] [How to Add Shade to a Treeless Back Yard](https://lifehacker.com/how-to-add-shade-to-a-treeless-backyard-1850362835)
 - [Lifehacker] [Six Basic Knife Techniques Everyone Should Know](https://lifehacker.com/six-basic-knife-techniques-everyone-should-know-1850363702)
 - [Lifehacker] [What to Do When One Child Thinks They’re the ‘Bad Kid’](https://lifehacker.com/what-to-do-when-one-child-thinks-they-re-the-bad-kid-1850363233)
 - [Lifehacker] [The Items on the ‘Food Disgust Test’ That Are Actually Unsafe to Eat](https://lifehacker.com/the-items-on-the-food-disgust-test-that-are-actually-1850363121)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Countries Won’t Let You Visit If Your Passport Expires in the Next Six Months](https://lifehacker.com/these-countries-won-t-let-you-visit-if-your-passport-ex-1850354540)
 - [Lifehacker] [Use a USB Condom to Prevent &#39;Juice Jacking&#39;](https://lifehacker.com/use-a-usb-condom-to-prevent-juice-jacking-1850356163)
 - [Lifehacker] [You Need to Warn Your Teens About the Benadryl Challenge Again](https://lifehacker.com/warn-your-teens-about-the-benadryl-challenge-1844927737)
-- [Lifehacker] [Chat With AI to Summarize Obnoxiously Long PDFs](https://lifehacker.com/chat-with-ai-to-summarize-obnoxiously-long-pdfs-1850356065)
-- [Lifehacker] [No, You Don’t Need to ‘Balance’ Your Hormones If You Have Period Flu](https://lifehacker.com/no-you-don-t-need-to-balance-your-hormones-if-you-ha-1850354729)
-- [Lifehacker] [Don’t Cash Out Your 401&lpar;k&rpar; When You Leave Your Job](https://lifehacker.com/don-t-cash-out-your-401-k-when-you-leave-your-job-1850354812)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Chat With AI to Summarize Obnoxiously Long PDFs](https://lifehacker.com/chat-with-ai-to-summarize-obnoxiously-long-pdfs-1850356065)<!-- TECH-POSTS:END -->
 
 ---
 
