@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚀Discover the Top ERC Tokens for Creating Powerful Smart Contracts!💪🏽💡📈](https://dev.to/akshaykurhekar/discover-the-top-erc-tokens-for-creating-powerful-smart-contracts-56gn)
+- [Dev.to/JS] [Implementing Drag and Drop Upload in React using Supabase](https://dev.to/surajondev/implementing-drag-and-drop-upload-in-react-using-supabase-49pb)
 - [Dev.to/JS] [Best way design java based site.](https://dev.to/danigoldmobiletires/best-way-design-java-based-site-38a8)
 - [Dev.to/JS] [Angular Debugging Made Simple: Building a Custom Logging Service](https://dev.to/aru-ku/angular-debugging-made-simple-building-a-custom-logging-service-1084)
 - [Dev.to/JS] [Cortexi - Ear Solution, Results, Reviews, Price And Ingredients?](https://dev.to/cortexifac48864/cortexi-ear-solution-results-reviews-price-and-ingredients-ogh)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Certificate of web development by Internshala](https://dev.to/prince6202/certificate-of-web-development-by-internshala-361k)
 - [Dev.to/JS] [Create a Simple Digital Clock Using HTML, CSS and JavaScript](https://dev.to/ryandsouza13/create-a-simple-digital-clock-using-html-css-and-javascript-3h53)
 - [Dev.to/JS] [Build a WhatsApp Chatbot Using Node.JS](https://dev.to/devashishmamgain/build-a-whatsapp-chatbot-using-nodejs-51g0)
-- [Dev.to/JS] [How to Send Emails Directly from Your React Website: A Step-by-Step Tutorial](https://dev.to/david_bilsonn/how-to-send-emails-directly-from-your-react-website-a-step-by-step-tutorial-144b)
-- [Dev.to/JS] [PNG vs SVG for Logos and Icons](https://dev.to/raaghu/png-vs-svg-for-logos-and-icons-2bgb)
 - [Lifehacker] [The Best Questions to Ask on Your First Day at a New Job](https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396)
 - [Lifehacker] [How Screen Time Can Save You When Your iPhone Is Stolen](https://lifehacker.com/how-screen-time-can-save-you-when-your-iphone-is-stolen-1850368491)
 - [Lifehacker] [The Case for Never Eating Cold Cake Again](https://lifehacker.com/the-case-for-never-eating-cold-cake-again-1850368553)
