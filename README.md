@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on HBO Max in May 2023](https://lifehacker.com/whats-new-on-hbo-max-in-may-2023-1850374868)
+- [Dev.to/JS] [Using React useState Hook to Manage Object Props](https://dev.to/michaellarocca/using-react-usestate-hook-to-manage-object-props-k6)
+- [Dev.to/JS] [All about JavaScript promises](https://dev.to/kalyan-jyoti/all-about-javascript-promises-154e)
+- [Lifehacker] [How to Get Rid of Snapchat’s Annoying, Lying AI Bot](https://lifehacker.com/how-to-get-rid-of-snapchat-s-annoying-lying-ai-bot-1850373612)
+- [Dev.to/JS] [React Basics: How to learn React in 2023](https://dev.to/chideracode/react-basics-how-to-learn-react-in-2023-1fd8)
 - [Lifehacker] [This Tool Reveals How Far You Can Travel on Your Tax Refund](https://lifehacker.com/this-tool-reveals-how-far-you-can-travel-on-your-tax-re-1850373217)
 - [Dev.to/JS] [Understanding methods and functions in JavaScript](https://dev.to/mdjibril/understanding-methods-and-function-in-javascript-ebg)
 - [Lifehacker] [The Smartest Ways to Get a Recruiter&#39;s Attention &lpar;Without Being Obnoxious&rpar;](https://lifehacker.com/the-smartest-ways-to-get-a-recruiters-attention-withou-1850371644)
@@ -38,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [50 ChatGPT Prompts to Debug ReactJS Issues](https://dev.to/nilanth/50-chatgpt-prompts-to-debug-reactjs-issues-481g)
 - [Dev.to/JS] [&quot;react-redux&quot; and &quot;@reduxjs/toolkit&quot; short explanation](https://dev.to/lausuarez02/react-redux-and-reduxjstoolkit-short-explanation-15al)
 - [Lifehacker] [What ‘Breathe Into Your Back’ and Other Weird Yoga Terms Actually Mean](https://lifehacker.com/what-breathe-into-your-back-and-other-weird-yoga-term-1850370689)
-- [Dev.to/JS] [Episode 23/16: Hydration, Angular 17 and Beyond, Webinar on Signals](https://dev.to/ng_news/episode-2316-hydration-angular-17-and-beyond-webinar-on-signals-1pob)
 - [Lifehacker] [The Easy Way to Keep Your Brussels Sprouts From Sticking](https://lifehacker.com/the-easy-way-to-keep-your-brussels-sprouts-from-stickin-1850372718)
-- [Dev.to/JS] [How To Create Music Player Using HTML , CSS and JavaScript?](https://dev.to/ondevw19812/how-to-create-music-player-using-html-css-and-javascript-29fd)
-- [Dev.to/JS] [Moving Zeros To The End](https://dev.to/muhmmadawd/moving-zeros-to-the-end-5bbo)
 - [Lifehacker] [10 True-Crime Podcasts You Probably Haven&#39;t Binged Yet](https://lifehacker.com/10-true-crime-podcasts-you-probably-havent-binged-yet-1850366929)
 - [Lifehacker] [Why You Shouldn&#39;t Trust AI Detectors](https://lifehacker.com/why-you-shouldnt-trust-ai-detectors-1850369642)
 - [Lifehacker] [You Should Put Your Coffee Table on Casters](https://lifehacker.com/you-should-put-your-coffee-table-on-casters-1850369665)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Items on the ‘Food Disgust Test’ That Are Actually Unsafe to Eat](https://lifehacker.com/the-items-on-the-food-disgust-test-that-are-actually-1850363121)
 - [Lifehacker] [Why Clothing Subscription Boxes Are Basically Pointless](https://lifehacker.com/why-clothing-subscription-boxes-are-basically-pointless-1850362337)
 - [Lifehacker] [If You Haven&#39;t Had a Cheese Fries Omelette, Have You Even Lived?](https://lifehacker.com/if-you-havent-had-a-cheese-fries-omelette-have-you-eve-1850361856)
-- [Lifehacker] [All the Ways Airbnb Hosts Deceive You](https://lifehacker.com/all-the-ways-airbnb-hosts-deceive-you-1850357710)
-- [Lifehacker] [You Can &#39;Dust&#39; Curtains in Your Dryer](https://lifehacker.com/you-can-dust-curtains-in-your-dryer-1850357206)
-- [Lifehacker] [How to Get Free Mother&#39;s Day Flowers From Lowe&#39;s](https://lifehacker.com/how-to-get-free-mothers-day-flowers-from-lowes-1850357215)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Ways Airbnb Hosts Deceive You](https://lifehacker.com/all-the-ways-airbnb-hosts-deceive-you-1850357710)<!-- TECH-POSTS:END -->
 
 ---
 
