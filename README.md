@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Keeping state of data within localStorage in React](https://dev.to/kebin20/keeping-state-of-data-within-localstorage-in-react-224p)
+- [Dev.to/JS] [hello ! all the Js developers present out there](https://dev.to/samarthsaxena10/hello-all-the-js-developers-present-out-there-11mj)
 - [Dev.to/JS] [Top 5 Design Practices of a RESTFUL API using Express.JS](https://dev.to/qbentil/top-5-design-practices-of-a-restful-api-using-expressjs-2i6o)
 - [Dev.to/JS] [Boas praticas no js que utilizo no dia a dia](https://dev.to/viniielopes/boas-praticas-no-js-que-utilizo-no-dia-a-dia-40bo)
 - [Dev.to/JS] [404 Page with React Router V6.4](https://dev.to/salehmubashar/404-page-with-react-router-v64-35hl)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Updating React State Inside Loops](https://dev.to/bytebodger/updating-react-state-inside-loops-2dbf)
 - [Dev.to/JS] [I attended my first tech conference... before even getting my first tech job 😳](https://dev.to/alexisintech/i-attended-my-first-tech-conference-before-even-getting-my-first-tech-job-pg2)
 - [Dev.to/JS] [Mock imported modules in Jest](https://dev.to/rafaf/mock-imported-modules-in-jest-26ng)
-- [Dev.to/JS] [Tips on making a web site accessible part 2](https://dev.to/karenpayneoregon/tips-on-making-a-web-site-accessible-part-2-486p)
-- [Dev.to/JS] [Zedux: Is This the One?](https://dev.to/josh_claunch/zedux-is-this-the-one-3la0)
 - [Lifehacker] [The Best Questions to Ask on Your First Day at a New Job](https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396)
 - [Lifehacker] [How Screen Time Can Save You When Your iPhone Is Stolen](https://lifehacker.com/how-screen-time-can-save-you-when-your-iphone-is-stolen-1850368491)
 - [Lifehacker] [The Case for Never Eating Cold Cake Again](https://lifehacker.com/the-case-for-never-eating-cold-cake-again-1850368553)
