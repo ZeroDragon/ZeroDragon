@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Future of Work: How Automation is Changing the Job Landscape](https://dev.to/contantwriter/the-future-of-work-how-automation-is-changing-the-job-landscape-2dog)
+- [Dev.to/JS] [Mastering React Class Component Life Cycle Methods: A Quick Guide](https://dev.to/ghostaram/mastering-react-class-component-life-cycle-methods-a-quick-guide-3i2h)
+- [Lifehacker] [You Should Put Your Coffee Table on Casters](https://lifehacker.com/you-should-put-your-coffee-table-on-casters-1850369665)
+- [Dev.to/JS] [Building a replaceAllAsync in TypeScript](https://dev.to/keestalkstech/building-a-replaceallasync-in-typescript-a59)
 - [Lifehacker] [10 Fictional AI, Ranked by How Likely They Are to Kill Us All](https://lifehacker.com/10-fictional-ai-ranked-by-how-likely-they-are-to-kill-1850368045)
+- [Dev.to/JS] [The OR operator &lpar;||&rpar; vs Nullish Coalescing &lpar;??&rpar;](https://dev.to/findniya/the-or-operator-vs-nullish-coalescing--agp)
+- [Dev.to/JS] [Moonly weekly progress update #46 - New design for a login page](https://dev.to/moonly/moonly-weekly-progress-update-46-new-design-for-a-login-page-17fi)
 - [Dev.to/JS] [Mastering Error Handling in JavaScript](https://dev.to/accreditly/mastering-error-handling-in-javascript-3ice)
 - [Lifehacker] [You Can Use a Pool Noodle to Prop Up Small Plants in Large Pots](https://lifehacker.com/you-can-use-a-pool-noodle-to-prop-up-small-plants-in-la-1850369137)
 - [Dev.to/JS] [Building a language learning tool with Supabase Edge functions + GPT3.5](https://dev.to/jacksbridger/building-a-language-learning-tool-with-supabase-edge-functions-gpt35-3j8k)
@@ -33,12 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Organize Your Fridge Without a Million Plastic Bins](https://lifehacker.com/how-to-organize-your-fridge-without-a-million-plastic-b-1850360256)
 - [Dev.to/JS] [How to scale and center path inside svg in javascript](https://dev.to/olatuneday/how-to-scale-and-center-path-inside-svg-in-javascript-12im)
 - [Dev.to/JS] [Maximizing Performance and Flexibility with Server-Side Rendering, Static Site Generators, and Headless CMSs](https://dev.to/_fameux_/maximizing-performance-and-flexibility-with-server-side-rendering-static-site-generators-and-headless-cmss-3n29)
-- [Dev.to/JS] [Avoid Common Pitfalls with Next.js Server-Side Rendering](https://dev.to/hi_iam_chris/avoid-common-pitfalls-with-nextjs-server-side-rendering-2gi6)
-- [Dev.to/JS] [Master JavaScript with these 5 Free Online Resources](https://dev.to/max88git/master-javascript-with-these-5-free-online-resources-3p94)
 - [Lifehacker] [Take These Steps to Keep Diseases From Ruining Your Garden](https://lifehacker.com/take-these-steps-to-keep-diseases-from-ruining-your-gar-1850359057)
-- [Dev.to/JS] [Vuex](https://dev.to/otamurode/vuex-3ig2)
-- [Dev.to/JS] [🚀Discover the Top ERC Tokens for Creating Powerful Smart Contracts!💪🏽💡📈](https://dev.to/akshaykurhekar/discover-the-top-erc-tokens-for-creating-powerful-smart-contracts-56gn)
-- [Dev.to/JS] [Implementing Drag and Drop Upload in React using Supabase](https://dev.to/surajondev/implementing-drag-and-drop-upload-in-react-using-supabase-49pb)
 - [Lifehacker] [The Best Questions to Ask on Your First Day at a New Job](https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396)
 - [Lifehacker] [How Screen Time Can Save You When Your iPhone Is Stolen](https://lifehacker.com/how-screen-time-can-save-you-when-your-iphone-is-stolen-1850368491)
 - [Lifehacker] [The Case for Never Eating Cold Cake Again](https://lifehacker.com/the-case-for-never-eating-cold-cake-again-1850368553)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Snapchat&#39;s AI Bot Might Be the Easiest Way to Access ChatGPT](https://lifehacker.com/snapchats-ai-bot-might-be-the-easiest-way-to-access-cha-1850362083)
 - [Lifehacker] [Find Out If You Live in One of the Most Polluted US Cities](https://lifehacker.com/find-out-if-you-live-in-one-of-the-most-polluted-us-cit-1850357768)
 - [Lifehacker] [Gardening Doesn&#39;t Have to Wreck Your Body](https://lifehacker.com/gardening-doesnt-have-to-wreck-your-body-1850351472)
-- [Lifehacker] [These Countries Won’t Let You Visit If Your Passport Expires in the Next Six Months](https://lifehacker.com/these-countries-won-t-let-you-visit-if-your-passport-ex-1850354540)
-- [Lifehacker] [Use a USB Condom to Prevent &#39;Juice Jacking&#39;](https://lifehacker.com/use-a-usb-condom-to-prevent-juice-jacking-1850356163)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Countries Won’t Let You Visit If Your Passport Expires in the Next Six Months](https://lifehacker.com/these-countries-won-t-let-you-visit-if-your-passport-ex-1850354540)<!-- TECH-POSTS:END -->
 
 ---
 
