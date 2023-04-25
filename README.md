@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 5 Design Practices of a RESTFUL API using Express.JS](https://dev.to/qbentil/top-5-design-practices-of-a-restful-api-using-expressjs-2i6o)
+- [Dev.to/JS] [Boas praticas no js que utilizo no dia a dia](https://dev.to/viniielopes/boas-praticas-no-js-que-utilizo-no-dia-a-dia-40bo)
+- [Dev.to/JS] [404 Page with React Router V6.4](https://dev.to/salehmubashar/404-page-with-react-router-v64-35hl)
 - [Dev.to/JS] [Embracing the Peaks and Valleys of Progress.](https://dev.to/arashjangali/embracing-the-peaks-and-valleys-of-progress-3k11)
 - [Dev.to/JS] [Ingesting Financial Tick Data Using a Time-Series Database](https://dev.to/yitaek/ingesting-financial-tick-data-using-a-time-series-database-59l3)
 - [Dev.to/JS] [Série React Hooks: useImperativeHandle](https://dev.to/taisesoares/serie-react-hooks-useimperativehandle-44d)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mock imported modules in Jest](https://dev.to/rafaf/mock-imported-modules-in-jest-26ng)
 - [Dev.to/JS] [Tips on making a web site accessible part 2](https://dev.to/karenpayneoregon/tips-on-making-a-web-site-accessible-part-2-486p)
 - [Dev.to/JS] [Zedux: Is This the One?](https://dev.to/josh_claunch/zedux-is-this-the-one-3la0)
-- [Dev.to/JS] [Zedux Open-Sourced](https://dev.to/josh_claunch/zedux-open-sourced-m66)
-- [Dev.to/JS] [Simple mutations with TanStack Query and Next.js](https://dev.to/elisabethleonhardt/simple-mutations-with-tanstack-query-and-nextjs-4b0m)
-- [Dev.to/JS] [TypeScript Runtime Type Checking](https://dev.to/aziznal/typescript-runtime-type-checking-dmo)
 - [Lifehacker] [The Best Questions to Ask on Your First Day at a New Job](https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396)
 - [Lifehacker] [How Screen Time Can Save You When Your iPhone Is Stolen](https://lifehacker.com/how-screen-time-can-save-you-when-your-iphone-is-stolen-1850368491)
 - [Lifehacker] [The Case for Never Eating Cold Cake Again](https://lifehacker.com/the-case-for-never-eating-cold-cake-again-1850368553)
