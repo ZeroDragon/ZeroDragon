@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Dynamic Web Applications: A Beginner&#39;s Guide to Using Firebase with React.js](https://dev.to/haszankauna/building-dynamic-web-applications-a-beginners-guide-to-using-firebase-with-reactjs-4m44)
+- [Dev.to/JS] [Functional Programming with JavaScript chapter 3 Notes](https://dev.to/rowida46/functional-programming-with-javascript-chapter-notes-44j8)
+- [Dev.to/JS] [How to Create Random Color Generator with 3D Effect](https://dev.to/incoderweb/how-to-create-random-color-generator-with-3d-effect-4921)
 - [Dev.to/JS] [Replace your endless &#39;IF-ELSE&#39; or &#39;SWITCH&#39; Javascript statements with maps](https://dev.to/tqbit/replace-your-endless-if-else-or-switch-javascript-statements-with-maps-3i0a)
 - [Dev.to/JS] [Certificate of web development by Internshala](https://dev.to/prince6202/certificate-of-web-development-by-internshala-361k)
 - [Dev.to/JS] [Create a Simple Digital Clock Using HTML, CSS and JavaScript](https://dev.to/ryandsouza13/create-a-simple-digital-clock-using-html-css-and-javascript-3h53)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Power of .then in JavaScript](https://dev.to/rahulladumor/the-power-of-then-in-javascript-8ma)
 - [Dev.to/JS] [My Favorite Free Courses to Learn Design Patterns in Depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-design-patterns-in-depth-5dp5)
 - [Dev.to/JS] [Styled-components: ¿Amigo o enemigo?](https://dev.to/miasalazar/styled-components-amigo-o-enemigo-5d5h)
-- [Dev.to/JS] [Keeping state of data within localStorage in React](https://dev.to/kebin20/keeping-state-of-data-within-localstorage-in-react-224p)
-- [Dev.to/JS] [hello ! all the Js developers present out there](https://dev.to/samarthsaxena10/hello-all-the-js-developers-present-out-there-11mj)
-- [Dev.to/JS] [Top 5 Design Practices of a RESTFUL API using Express.JS](https://dev.to/qbentil/top-5-design-practices-of-a-restful-api-using-expressjs-2i6o)
 - [Lifehacker] [The Best Questions to Ask on Your First Day at a New Job](https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396)
 - [Lifehacker] [How Screen Time Can Save You When Your iPhone Is Stolen](https://lifehacker.com/how-screen-time-can-save-you-when-your-iphone-is-stolen-1850368491)
 - [Lifehacker] [The Case for Never Eating Cold Cake Again](https://lifehacker.com/the-case-for-never-eating-cold-cake-again-1850368553)
