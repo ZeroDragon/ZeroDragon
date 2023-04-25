@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 Fictional AI, Ranked by How Likely They Are to Kill Us All](https://lifehacker.com/10-fictional-ai-ranked-by-how-likely-they-are-to-kill-1850368045)
+- [Dev.to/JS] [Mastering Error Handling in JavaScript](https://dev.to/accreditly/mastering-error-handling-in-javascript-3ice)
+- [Lifehacker] [You Can Use a Pool Noodle to Prop Up Small Plants in Large Pots](https://lifehacker.com/you-can-use-a-pool-noodle-to-prop-up-small-plants-in-la-1850369137)
+- [Dev.to/JS] [Building a language learning tool with Supabase Edge functions + GPT3.5](https://dev.to/jacksbridger/building-a-language-learning-tool-with-supabase-edge-functions-gpt35-3j8k)
+- [Dev.to/JS] [Celebrating Novu @ 20k Stars](https://dev.to/novu/celebrating-novu-20k-stars-14dk)
+- [Dev.to/JS] [Build a Dice Roll Simulator using HTML CSS and JavaScript](https://dev.to/obere4u/build-a-dice-roll-simulator-using-html-css-and-javascript-1n3o)
 - [Dev.to/JS] [Will Node.js replace many Backend Technologies](https://dev.to/devwares/will-nodejs-replace-many-backend-technologies-37k2)
 - [Lifehacker] [How to Organize Your Fridge Without a Million Plastic Bins](https://lifehacker.com/how-to-organize-your-fridge-without-a-million-plastic-b-1850360256)
 - [Dev.to/JS] [How to scale and center path inside svg in javascript](https://dev.to/olatuneday/how-to-scale-and-center-path-inside-svg-in-javascript-12im)
@@ -33,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vuex](https://dev.to/otamurode/vuex-3ig2)
 - [Dev.to/JS] [🚀Discover the Top ERC Tokens for Creating Powerful Smart Contracts!💪🏽💡📈](https://dev.to/akshaykurhekar/discover-the-top-erc-tokens-for-creating-powerful-smart-contracts-56gn)
 - [Dev.to/JS] [Implementing Drag and Drop Upload in React using Supabase](https://dev.to/surajondev/implementing-drag-and-drop-upload-in-react-using-supabase-49pb)
-- [Dev.to/JS] [Best way design java based site.](https://dev.to/danigoldmobiletires/best-way-design-java-based-site-38a8)
-- [Dev.to/JS] [Angular Debugging Made Simple: Building a Custom Logging Service](https://dev.to/aru-ku/angular-debugging-made-simple-building-a-custom-logging-service-1084)
-- [Dev.to/JS] [Cortexi - Ear Solution, Results, Reviews, Price And Ingredients?](https://dev.to/cortexifac48864/cortexi-ear-solution-results-reviews-price-and-ingredients-ogh)
-- [Dev.to/JS] [Building Dynamic Web Applications: A Beginner&#39;s Guide to Using Firebase with React.js](https://dev.to/haszankauna/building-dynamic-web-applications-a-beginners-guide-to-using-firebase-with-reactjs-4m44)
 - [Lifehacker] [The Best Questions to Ask on Your First Day at a New Job](https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396)
 - [Lifehacker] [How Screen Time Can Save You When Your iPhone Is Stolen](https://lifehacker.com/how-screen-time-can-save-you-when-your-iphone-is-stolen-1850368491)
 - [Lifehacker] [The Case for Never Eating Cold Cake Again](https://lifehacker.com/the-case-for-never-eating-cold-cake-again-1850368553)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Find Out If You Live in One of the Most Polluted US Cities](https://lifehacker.com/find-out-if-you-live-in-one-of-the-most-polluted-us-cit-1850357768)
 - [Lifehacker] [Gardening Doesn&#39;t Have to Wreck Your Body](https://lifehacker.com/gardening-doesnt-have-to-wreck-your-body-1850351472)
 - [Lifehacker] [These Countries Won’t Let You Visit If Your Passport Expires in the Next Six Months](https://lifehacker.com/these-countries-won-t-let-you-visit-if-your-passport-ex-1850354540)
-- [Lifehacker] [Use a USB Condom to Prevent &#39;Juice Jacking&#39;](https://lifehacker.com/use-a-usb-condom-to-prevent-juice-jacking-1850356163)
-- [Lifehacker] [You Need to Warn Your Teens About the Benadryl Challenge Again](https://lifehacker.com/warn-your-teens-about-the-benadryl-challenge-1844927737)
-- [Lifehacker] [Chat With AI to Summarize Obnoxiously Long PDFs](https://lifehacker.com/chat-with-ai-to-summarize-obnoxiously-long-pdfs-1850356065)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use a USB Condom to Prevent &#39;Juice Jacking&#39;](https://lifehacker.com/use-a-usb-condom-to-prevent-juice-jacking-1850356163)<!-- TECH-POSTS:END -->
 
 ---
 
