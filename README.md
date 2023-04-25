@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [PNG vs SVG for Logos and Icons](https://dev.to/raaghu/png-vs-svg-for-logos-and-icons-2bgb)
+- [Dev.to/JS] [The Pros and Cons of Migrating from JavaScript to TypeScript](https://dev.to/i_shahmeer/the-pros-and-cons-of-migrating-from-javascript-to-typescript-536o)
+- [Dev.to/JS] [The Power of .then in JavaScript](https://dev.to/rahulladumor/the-power-of-then-in-javascript-8ma)
 - [Dev.to/JS] [My Favorite Free Courses to Learn Design Patterns in Depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-design-patterns-in-depth-5dp5)
 - [Dev.to/JS] [Styled-components: ¿Amigo o enemigo?](https://dev.to/miasalazar/styled-components-amigo-o-enemigo-5d5h)
 - [Dev.to/JS] [Keeping state of data within localStorage in React](https://dev.to/kebin20/keeping-state-of-data-within-localstorage-in-react-224p)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Embracing the Peaks and Valleys of Progress.](https://dev.to/arashjangali/embracing-the-peaks-and-valleys-of-progress-3k11)
 - [Dev.to/JS] [Ingesting Financial Tick Data Using a Time-Series Database](https://dev.to/yitaek/ingesting-financial-tick-data-using-a-time-series-database-59l3)
 - [Dev.to/JS] [Série React Hooks: useImperativeHandle](https://dev.to/taisesoares/serie-react-hooks-useimperativehandle-44d)
-- [Dev.to/JS] [Operadores no tan comunes de Rxjs](https://dev.to/alexcordobainc/operadores-no-tan-comunes-de-rxjs-221o)
-- [Dev.to/JS] [Updating React State Inside Loops](https://dev.to/bytebodger/updating-react-state-inside-loops-2dbf)
-- [Dev.to/JS] [I attended my first tech conference... before even getting my first tech job 😳](https://dev.to/alexisintech/i-attended-my-first-tech-conference-before-even-getting-my-first-tech-job-pg2)
 - [Lifehacker] [The Best Questions to Ask on Your First Day at a New Job](https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396)
 - [Lifehacker] [How Screen Time Can Save You When Your iPhone Is Stolen](https://lifehacker.com/how-screen-time-can-save-you-when-your-iphone-is-stolen-1850368491)
 - [Lifehacker] [The Case for Never Eating Cold Cake Again](https://lifehacker.com/the-case-for-never-eating-cold-cake-again-1850368553)
