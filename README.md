@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Need Help](https://dev.to/pearldevman/need-help-3mo1)
 - [Dev.to/JS] [Fast access to the latest deep learning models using node.js](https://dev.to/barqawiz/lightning-fast-access-to-the-latest-deep-learning-models-using-nodejs-4edg)
 - [Dev.to/JS] [Simplifying Code with Event Delegation in Your Javascript Applications](https://dev.to/okafor__mary/simplifying-code-with-event-delegation-in-your-javascript-applications-204n)
 - [Dev.to/JS] [Mozilla Open Source Project: 10 Things I Learnt.](https://dev.to/momokid/mozilla-open-source-project-10-things-i-learnt-b68)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Modifying Objects in JavaScript Made Easy](https://dev.to/penncurtis/modifying-objects-in-javascript-made-easy-13e0)
 - [Lifehacker] [All the Wild New Canva AI Features You Should Know About](https://lifehacker.com/all-the-wild-new-canva-ai-features-you-should-know-abou-1850371955)
 - [Dev.to/JS] [Cicada: Write CI/CD pipelines in TypeScript](https://dev.to/brendan/launching-cicada-write-cicd-pipelines-in-typescript-3i31)
-- [Dev.to/JS] [Why Real Estate Business is a Popular Passive Income Idea:](https://dev.to/selfearn160/why-real-estate-business-is-a-popular-passive-income-idea-4nl)
 - [Lifehacker] [YouTubers You’ll Actually Want Your Tweens to Follow](https://lifehacker.com/youtubers-you-ll-actually-want-your-tweens-to-follow-1850371298)
 - [Lifehacker] [10 of the First Things You Should Try With ChatGPT](https://lifehacker.com/10-of-the-first-things-you-should-try-with-chatgpt-1850368802)
 - [Lifehacker] [What ‘Breathe Into Your Back’ and Other Weird Yoga Terms Actually Mean](https://lifehacker.com/what-breathe-into-your-back-and-other-weird-yoga-term-1850370689)
