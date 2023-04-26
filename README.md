@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[JS TS] Create an object with keys based on enum](https://dev.to/ktrblog/js-ts-create-an-object-with-keys-based-on-enum-2k8c)
+- [Dev.to/JS] [Zero-cost Way on React &amp; D3.](https://dev.to/valorsoftware/zero-cost-way-on-react-d3-3m1e)
 - [Dev.to/JS] [Weekly web development resources #146](https://dev.to/vincenius/weekly-web-development-resources-146-3og4)
 - [Dev.to/JS] [Discovering the Power of JavaScript Proxy After All This Time](https://dev.to/marclipovsky/discovering-the-power-of-javascript-proxy-after-all-this-time-4627)
 - [Dev.to/JS] [JavaScript: Function Types You Should Know!](https://dev.to/renancferro/javascript-function-types-you-should-know-chd)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [FERN 2 - WebDev Boogaloo](https://dev.to/wra-sol/fern-2-webdev-boogaloo-13nb)
 - [Dev.to/JS] [#DEVDiscuss: Naming Things](https://dev.to/devteam/devdiscuss-naming-things-25p4)
 - [Lifehacker] [What&#39;s New on HBO Max in May 2023](https://lifehacker.com/whats-new-on-hbo-max-in-may-2023-1850374868)
-- [Dev.to/JS] [Using React useState Hook to Manage Object Props](https://dev.to/michaellarocca/using-react-usestate-hook-to-manage-object-props-k6)
-- [Dev.to/JS] [All about JavaScript promises](https://dev.to/kalyan-jyoti/all-about-javascript-promises-154e)
 - [Lifehacker] [How to Get Rid of Snapchat’s Annoying, Lying AI Bot](https://lifehacker.com/how-to-get-rid-of-snapchat-s-annoying-lying-ai-bot-1850373612)
 - [Lifehacker] [This Tool Reveals How Far You Can Travel on Your Tax Refund](https://lifehacker.com/this-tool-reveals-how-far-you-can-travel-on-your-tax-re-1850373217)
 - [Lifehacker] [The Smartest Ways to Get a Recruiter&#39;s Attention &lpar;Without Being Obnoxious&rpar;](https://lifehacker.com/the-smartest-ways-to-get-a-recruiters-attention-withou-1850371644)
