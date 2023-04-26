@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Apollo integration with MeteorJS v4.2 release and looking to v5](https://dev.to/storytellercz/apollo-integration-with-meteorjs-v42-release-and-looking-to-v5-m6g)
+- [Dev.to/JS] [React Design Patterns — Best Practices for Building Scalable and Reusable Components](https://dev.to/parthee/react-design-patterns-best-practices-for-building-scalable-and-reusable-components-49bc)
+- [Dev.to/JS] [Writing React like a pro — Tips and Tricks.🧑🏽‍💻](https://dev.to/parthee/writing-react-like-a-pro-tips-and-tricks-b3o)
+- [Dev.to/JS] [Lazy loading services in Angular. What?! Yes, we can.](https://dev.to/this-is-angular/lazy-loading-services-in-angular-what-yes-we-can-2gah)
+- [Dev.to/JS] [Create tor v3 onion address from nodejs](https://dev.to/notreeceharris/create-tor-v3-onion-address-from-nodejs-59an)
 - [Dev.to/JS] [[JS TS] Create an object with keys based on enum](https://dev.to/ktrblog/js-ts-create-an-object-with-keys-based-on-enum-2k8c)
 - [Dev.to/JS] [Zero-cost Way on React &amp; D3.](https://dev.to/valorsoftware/zero-cost-way-on-react-d3-3m1e)
 - [Dev.to/JS] [Weekly web development resources #146](https://dev.to/vincenius/weekly-web-development-resources-146-3og4)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript: Function Types You Should Know!](https://dev.to/renancferro/javascript-function-types-you-should-know-chd)
 - [Dev.to/JS] [Arrow Functions, Implicit Returns and the Optimal Approach to Learning JavaScript](https://dev.to/amdiamond107/arrow-functions-implicit-returns-and-the-optimal-approach-to-learning-javascript-2ol7)
 - [Dev.to/JS] [Need Help](https://dev.to/pearldevman/need-help-3mo1)
-- [Dev.to/JS] [Fast access to the latest deep learning models using node.js](https://dev.to/barqawiz/lightning-fast-access-to-the-latest-deep-learning-models-using-nodejs-4edg)
-- [Dev.to/JS] [Simplifying Code with Event Delegation in Your Javascript Applications](https://dev.to/okafor__mary/simplifying-code-with-event-delegation-in-your-javascript-applications-204n)
-- [Dev.to/JS] [Mozilla Open Source Project: 10 Things I Learnt.](https://dev.to/momokid/mozilla-open-source-project-10-things-i-learnt-b68)
-- [Dev.to/JS] [FERN 2 - WebDev Boogaloo](https://dev.to/wra-sol/fern-2-webdev-boogaloo-13nb)
-- [Dev.to/JS] [#DEVDiscuss: Naming Things](https://dev.to/devteam/devdiscuss-naming-things-25p4)
 - [Lifehacker] [What&#39;s New on HBO Max in May 2023](https://lifehacker.com/whats-new-on-hbo-max-in-may-2023-1850374868)
 - [Lifehacker] [How to Get Rid of Snapchat’s Annoying, Lying AI Bot](https://lifehacker.com/how-to-get-rid-of-snapchat-s-annoying-lying-ai-bot-1850373612)
 - [Lifehacker] [This Tool Reveals How Far You Can Travel on Your Tax Refund](https://lifehacker.com/this-tool-reveals-how-far-you-can-travel-on-your-tax-re-1850373217)
