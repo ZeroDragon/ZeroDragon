@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - CORS and Frontend Integration](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-cors-and-frontend-integration-2j0h)
+- [Lifehacker] [What Magnesium Supplements Can Actually Do](https://lifehacker.com/what-magnesium-supplements-can-actually-do-1850372151)
+- [Dev.to/JS] [Benefits Of Delaying Ajax Calls](https://dev.to/zahoorcodes/benefits-of-delaying-ajax-calls-2f35)
+- [Dev.to/JS] [How does React Query&#39;s useQuery work?](https://dev.to/wra-sol/how-does-react-querys-usequery-work-5gna)
+- [Dev.to/JS] [How do I know if my toddler has developmental issues?](https://dev.to/tec655/how-do-i-know-if-my-toddler-has-developmental-issues-11e3)
 - [Lifehacker] [Seven Ways AI Can Help You Manage Your ADHD](https://lifehacker.com/seven-ways-ai-can-help-you-manage-your-adhd-1850373670)
 - [Dev.to/JS] [Object Oriented Programming in JavaScript](https://dev.to/honeybadger/object-oriented-programming-in-javascript-1jd8)
 - [Dev.to/JS] [🎉 Kotlin for JavaScript and Python Devs: A Friendly Introduction to a Powerful Language 🚀](https://dev.to/jimmymcbride/kotlin-for-javascript-and-python-devs-a-friendly-introduction-to-a-powerful-language-3e7j)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Crawling: How to Crawl JavaScript-Generated Web Pages](https://dev.to/zenrowshq/react-crawling-how-to-crawl-javascript-generated-web-pages-2p23)
 - [Dev.to/JS] [A Importância de Dizer Não: Quando a Ética de um Desenvolvedor é Prejudicada](https://dev.to/demgoncalves/a-importancia-de-dizer-nao-quando-a-etica-de-um-desenvolvedor-e-prejudicada-54l)
 - [Lifehacker] [You Can Use Coffee to Turn Brownie Mix Into &#39;Pudding&#39;](https://lifehacker.com/you-can-use-coffee-to-turn-brownie-mix-into-pudding-1850375158)
-- [Dev.to/JS] [Building a Microservice Architecture with Node.js, TypeScript, and gRPC](https://dev.to/limaleandro1999/building-a-microservice-architecture-with-nodejs-typescript-and-grpc-kgn)
-- [Dev.to/JS] [React Hooks: Intuitive Introduction to useState Hook](https://dev.to/ghostaram/react-hooks-intuitive-introduction-to-usestate-hook-4mol)
-- [Dev.to/JS] [3.9 - Earning Digital Badges with Holopin](https://dev.to/codingcatdev/39-earning-digital-badges-with-holopin-1be2)
-- [Dev.to/JS] [Scoping in JavaScript](https://dev.to/freddiemazzilli/scoping-in-javascript-132g)
 - [Lifehacker] [Why Every Gardener Needs a Visual Diary](https://lifehacker.com/why-every-gardener-needs-a-visual-diary-1850369863)
 - [Lifehacker] [A Mandoline Slicer Will Make You a Better Cook](https://lifehacker.com/a-mandoline-slicer-will-make-you-a-better-cook-1850338671)
 - [Lifehacker] [How to Sell Your Soul to the Devil](https://lifehacker.com/how-to-sell-your-soul-to-the-devil-1850353292)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Questions to Ask on Your First Day at a New Job](https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396)
 - [Lifehacker] [How Screen Time Can Save You When Your iPhone Is Stolen](https://lifehacker.com/how-screen-time-can-save-you-when-your-iphone-is-stolen-1850368491)
 - [Lifehacker] [The Case for Never Eating Cold Cake Again](https://lifehacker.com/the-case-for-never-eating-cold-cake-again-1850368553)
-- [Lifehacker] [Use Cheap LED and Solar Lights for Pro-Quality Landscape Lighting](https://lifehacker.com/use-cheap-led-and-solar-lights-for-pro-quality-landscap-1850359585)
-- [Lifehacker] [A Pool Noodle Is the Best Way to Transport Knives on a Trip](https://lifehacker.com/a-pool-noodle-is-the-best-way-to-transport-knives-on-a-1850363453)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use Cheap LED and Solar Lights for Pro-Quality Landscape Lighting](https://lifehacker.com/use-cheap-led-and-solar-lights-for-pro-quality-landscap-1850359585)<!-- TECH-POSTS:END -->
 
 ---
 
