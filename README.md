@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Finally Use Google Authenticator Without Your Phone](https://lifehacker.com/how-to-finally-use-google-authenticator-without-your-ph-1850376595)
+- [Dev.to/JS] [iOS App developers](https://dev.to/sirhh01/ios-app-developers-1037)
+- [Lifehacker] [You Can Finally Use WhatsApp on More Than One Phone](https://lifehacker.com/you-can-finally-use-whatsapp-on-more-than-one-phone-1850375181)
+- [Dev.to/JS] [Master the Art of DOM Manipulation - The Beginners Guide To Javascript&lpar;Part 7&rpar;](https://dev.to/camskithedev/master-the-art-of-dom-manipulation-the-beginners-guide-to-javascriptpart-7-2n3h)
+- [Dev.to/JS] [Create your nuxt website with Netlify ✨](https://dev.to/thomasbnt/create-your-nuxt-website-with-netlify-34ep)
+- [Lifehacker] [How to Turn a Bad Run Around](https://lifehacker.com/how-to-turn-a-bad-run-around-1850373028)
 - [Dev.to/JS] [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - CORS and Frontend Integration](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-cors-and-frontend-integration-2j0h)
 - [Lifehacker] [What Magnesium Supplements Can Actually Do](https://lifehacker.com/what-magnesium-supplements-can-actually-do-1850372151)
 - [Dev.to/JS] [Benefits Of Delaying Ajax Calls](https://dev.to/zahoorcodes/benefits-of-delaying-ajax-calls-2f35)
@@ -35,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sharing Interaction Tests Between Components](https://dev.to/scottnath/sharing-interaction-tests-between-components-12b8)
 - [Lifehacker] [Grow Your Veggies in a Bag This Summer](https://lifehacker.com/grow-your-veggies-in-a-bag-this-summer-1850373469)
 - [Dev.to/JS] [Python in the browser with Pyscript](https://dev.to/varshithvhegde/python-in-the-browser-with-pyscript-2b9m)
-- [Dev.to/JS] [Creating a RESTful API with Node.js and MongoDB](https://dev.to/limaleandro1999/creating-a-restful-api-with-nodejs-and-mongodb-3o7o)
-- [Dev.to/JS] [React Crawling: How to Crawl JavaScript-Generated Web Pages](https://dev.to/zenrowshq/react-crawling-how-to-crawl-javascript-generated-web-pages-2p23)
-- [Dev.to/JS] [A Importância de Dizer Não: Quando a Ética de um Desenvolvedor é Prejudicada](https://dev.to/demgoncalves/a-importancia-de-dizer-nao-quando-a-etica-de-um-desenvolvedor-e-prejudicada-54l)
 - [Lifehacker] [You Can Use Coffee to Turn Brownie Mix Into &#39;Pudding&#39;](https://lifehacker.com/you-can-use-coffee-to-turn-brownie-mix-into-pudding-1850375158)
 - [Lifehacker] [Why Every Gardener Needs a Visual Diary](https://lifehacker.com/why-every-gardener-needs-a-visual-diary-1850369863)
 - [Lifehacker] [A Mandoline Slicer Will Make You a Better Cook](https://lifehacker.com/a-mandoline-slicer-will-make-you-a-better-cook-1850338671)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Use a Pool Noodle to Prop Up Small Plants in Large Pots](https://lifehacker.com/you-can-use-a-pool-noodle-to-prop-up-small-plants-in-la-1850369137)
 - [Lifehacker] [How to Organize Your Fridge Without a Million Plastic Bins](https://lifehacker.com/how-to-organize-your-fridge-without-a-million-plastic-b-1850360256)
 - [Lifehacker] [Take These Steps to Keep Diseases From Ruining Your Garden](https://lifehacker.com/take-these-steps-to-keep-diseases-from-ruining-your-gar-1850359057)
-- [Lifehacker] [The Best Questions to Ask on Your First Day at a New Job](https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396)
-- [Lifehacker] [How Screen Time Can Save You When Your iPhone Is Stolen](https://lifehacker.com/how-screen-time-can-save-you-when-your-iphone-is-stolen-1850368491)
-- [Lifehacker] [The Case for Never Eating Cold Cake Again](https://lifehacker.com/the-case-for-never-eating-cold-cake-again-1850368553)
-- [Lifehacker] [Use Cheap LED and Solar Lights for Pro-Quality Landscape Lighting](https://lifehacker.com/use-cheap-led-and-solar-lights-for-pro-quality-landscap-1850359585)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Questions to Ask on Your First Day at a New Job](https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396)<!-- TECH-POSTS:END -->
 
 ---
 
