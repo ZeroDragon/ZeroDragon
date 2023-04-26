@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Weekly web development resources #146](https://dev.to/vincenius/weekly-web-development-resources-146-3og4)
 - [Dev.to/JS] [Discovering the Power of JavaScript Proxy After All This Time](https://dev.to/marclipovsky/discovering-the-power-of-javascript-proxy-after-all-this-time-4627)
 - [Dev.to/JS] [JavaScript: Function Types You Should Know!](https://dev.to/renancferro/javascript-function-types-you-should-know-chd)
 - [Dev.to/JS] [Arrow Functions, Implicit Returns and the Optimal Approach to Learning JavaScript](https://dev.to/amdiamond107/arrow-functions-implicit-returns-and-the-optimal-approach-to-learning-javascript-2ol7)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using React useState Hook to Manage Object Props](https://dev.to/michaellarocca/using-react-usestate-hook-to-manage-object-props-k6)
 - [Dev.to/JS] [All about JavaScript promises](https://dev.to/kalyan-jyoti/all-about-javascript-promises-154e)
 - [Lifehacker] [How to Get Rid of Snapchat’s Annoying, Lying AI Bot](https://lifehacker.com/how-to-get-rid-of-snapchat-s-annoying-lying-ai-bot-1850373612)
-- [Dev.to/JS] [React Basics: How to learn React in 2023](https://dev.to/chideracode/react-basics-how-to-learn-react-in-2023-1fd8)
 - [Lifehacker] [This Tool Reveals How Far You Can Travel on Your Tax Refund](https://lifehacker.com/this-tool-reveals-how-far-you-can-travel-on-your-tax-re-1850373217)
 - [Lifehacker] [The Smartest Ways to Get a Recruiter&#39;s Attention &lpar;Without Being Obnoxious&rpar;](https://lifehacker.com/the-smartest-ways-to-get-a-recruiters-attention-withou-1850371644)
 - [Lifehacker] [All the Wild New Canva AI Features You Should Know About](https://lifehacker.com/all-the-wild-new-canva-ai-features-you-should-know-abou-1850371955)
