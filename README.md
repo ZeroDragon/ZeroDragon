@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Your Garden Needs Is a Power Drill](https://lifehacker.com/what-your-garden-needs-is-a-power-drill-1850370026)
+- [Dev.to/JS] [I made a VSCode extension: &quot;Purple Dark Theme&quot;](https://dev.to/waleedcodes/i-made-a-vscode-extension-purple-dark-theme-foo)
 - [Dev.to/JS] [Learning Javascript as a Python Developer](https://dev.to/kachiic/learning-javascript-as-a-python-developer-126g)
 - [Dev.to/JS] [Javascript for Beginners.](https://dev.to/samuelwachira/javascript-for-beginners-4l55)
 - [Dev.to/JS] [⏱️ Caching for the win! How we solved a tough caching issue 🤓](https://dev.to/jaloplo/caching-for-the-win-how-we-solved-a-tough-caching-issue-170n)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Design Patterns — Best Practices for Building Scalable and Reusable Components](https://dev.to/parthee/react-design-patterns-best-practices-for-building-scalable-and-reusable-components-49bc)
 - [Dev.to/JS] [Writing React like a pro — Tips and Tricks.🧑🏽‍💻](https://dev.to/parthee/writing-react-like-a-pro-tips-and-tricks-b3o)
 - [Dev.to/JS] [Lazy loading services in Angular. What?! Yes, we can.](https://dev.to/this-is-angular/lazy-loading-services-in-angular-what-yes-we-can-2gah)
-- [Dev.to/JS] [Create tor v3 onion address from nodejs](https://dev.to/notreeceharris/create-tor-v3-onion-address-from-nodejs-59an)
 - [Lifehacker] [What&#39;s New on HBO Max in May 2023](https://lifehacker.com/whats-new-on-hbo-max-in-may-2023-1850374868)
 - [Lifehacker] [How to Get Rid of Snapchat’s Annoying, Lying AI Bot](https://lifehacker.com/how-to-get-rid-of-snapchat-s-annoying-lying-ai-bot-1850373612)
 - [Lifehacker] [This Tool Reveals How Far You Can Travel on Your Tax Refund](https://lifehacker.com/this-tool-reveals-how-far-you-can-travel-on-your-tax-re-1850373217)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do When One Child Thinks They’re the ‘Bad Kid’](https://lifehacker.com/what-to-do-when-one-child-thinks-they-re-the-bad-kid-1850363233)
 - [Lifehacker] [The Items on the ‘Food Disgust Test’ That Are Actually Unsafe to Eat](https://lifehacker.com/the-items-on-the-food-disgust-test-that-are-actually-1850363121)
 - [Lifehacker] [Why Clothing Subscription Boxes Are Basically Pointless](https://lifehacker.com/why-clothing-subscription-boxes-are-basically-pointless-1850362337)
-- [Lifehacker] [If You Haven&#39;t Had a Cheese Fries Omelette, Have You Even Lived?](https://lifehacker.com/if-you-havent-had-a-cheese-fries-omelette-have-you-eve-1850361856)
-- [Lifehacker] [All the Ways Airbnb Hosts Deceive You](https://lifehacker.com/all-the-ways-airbnb-hosts-deceive-you-1850357710)<!-- TECH-POSTS:END -->
+- [Lifehacker] [If You Haven&#39;t Had a Cheese Fries Omelette, Have You Even Lived?](https://lifehacker.com/if-you-havent-had-a-cheese-fries-omelette-have-you-eve-1850361856)<!-- TECH-POSTS:END -->
 
 ---
 
