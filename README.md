@@ -23,19 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Server Components vs. SSR](https://dev.to/jankoritak/server-components-vs-ssr-1g8c)
+- [Lifehacker] [A Mandoline Slicer Will Make You a Better Cook](https://lifehacker.com/a-mandoline-slicer-will-make-you-a-better-cook-1850338671)
+- [Dev.to/JS] [Programming languages Paradigm](https://dev.to/talenttinaapi/programming-languages-paradigm-1gmd)
+- [Dev.to/JS] [Tutorial: Create an AI agent that reads Wikipedia for you](https://dev.to/lgrammel/tutorial-create-an-ai-agent-that-reads-wikipedia-for-you-31cm)
+- [Dev.to/JS] [Deno Fresh Responsive Images: Resize API](https://dev.to/askrodney/deno-fresh-responsive-images-resize-api-58o2)
+- [Dev.to/JS] [Hello World](https://dev.to/limaleandro1999/hello-world-2m9d)
+- [Dev.to/JS] [Hello World](https://dev.to/limaleandro1999/hello-world-3455)
+- [Dev.to/JS] [Hello, World!](https://dev.to/limaleandro1999/hello-world-47m4)
+- [Lifehacker] [How to Sell Your Soul to the Devil](https://lifehacker.com/how-to-sell-your-soul-to-the-devil-1850353292)
+- [Dev.to/JS] [Learn async v/s defer attributes of Script in JavaScript](https://dev.to/manishmandal77/learn-async-vs-defer-attributes-of-javascript-in-2-minutes-28c6)
 - [Lifehacker] [What Your Garden Needs Is a Power Drill](https://lifehacker.com/what-your-garden-needs-is-a-power-drill-1850370026)
 - [Dev.to/JS] [I made a VSCode extension: &quot;Purple Dark Theme&quot;](https://dev.to/waleedcodes/i-made-a-vscode-extension-purple-dark-theme-foo)
+- [Dev.to/JS] [Top 8 JavaScript Libraries for Data Visualization in 2023](https://dev.to/syncfusion/top-8-javascript-libraries-for-data-visualization-in-2023-40e8)
 - [Dev.to/JS] [Learning Javascript as a Python Developer](https://dev.to/kachiic/learning-javascript-as-a-python-developer-126g)
 - [Dev.to/JS] [Javascript for Beginners.](https://dev.to/samuelwachira/javascript-for-beginners-4l55)
-- [Dev.to/JS] [⏱️ Caching for the win! How we solved a tough caching issue 🤓](https://dev.to/jaloplo/caching-for-the-win-how-we-solved-a-tough-caching-issue-170n)
-- [Dev.to/JS] [Different Ways of Writing JavaScript Functions](https://dev.to/ayodeji75/different-ways-of-writing-javascript-functions-12lf)
-- [Dev.to/JS] [Why you should use Vite in your next React App.](https://dev.to/enigma13/why-you-should-use-vite-in-your-next-react-app-23k6)
-- [Dev.to/JS] [x-crawl v7 has been released](https://dev.to/coderhxl/x-crawl-v7-has-been-released-54pk)
-- [Dev.to/JS] [Coinbase &quot;Wallet as a service&quot;: Here is what you have to know](https://dev.to/maxmiladcrypto/coinbase-wallet-as-a-service-here-is-what-you-have-to-know-42gp)
-- [Dev.to/JS] [Apollo integration with MeteorJS v4.2 release and looking to v5](https://dev.to/storytellercz/apollo-integration-with-meteorjs-v42-release-and-looking-to-v5-m6g)
-- [Dev.to/JS] [React Design Patterns — Best Practices for Building Scalable and Reusable Components](https://dev.to/parthee/react-design-patterns-best-practices-for-building-scalable-and-reusable-components-49bc)
-- [Dev.to/JS] [Writing React like a pro — Tips and Tricks.🧑🏽‍💻](https://dev.to/parthee/writing-react-like-a-pro-tips-and-tricks-b3o)
-- [Dev.to/JS] [Lazy loading services in Angular. What?! Yes, we can.](https://dev.to/this-is-angular/lazy-loading-services-in-angular-what-yes-we-can-2gah)
 - [Lifehacker] [What&#39;s New on HBO Max in May 2023](https://lifehacker.com/whats-new-on-hbo-max-in-may-2023-1850374868)
 - [Lifehacker] [How to Get Rid of Snapchat’s Annoying, Lying AI Bot](https://lifehacker.com/how-to-get-rid-of-snapchat-s-annoying-lying-ai-bot-1850373612)
 - [Lifehacker] [This Tool Reveals How Far You Can Travel on Your Tax Refund](https://lifehacker.com/this-tool-reveals-how-far-you-can-travel-on-your-tax-re-1850373217)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Add Shade to a Treeless Back Yard](https://lifehacker.com/how-to-add-shade-to-a-treeless-backyard-1850362835)
 - [Lifehacker] [Six Basic Knife Techniques Everyone Should Know](https://lifehacker.com/six-basic-knife-techniques-everyone-should-know-1850363702)
 - [Lifehacker] [What to Do When One Child Thinks They’re the ‘Bad Kid’](https://lifehacker.com/what-to-do-when-one-child-thinks-they-re-the-bad-kid-1850363233)
-- [Lifehacker] [The Items on the ‘Food Disgust Test’ That Are Actually Unsafe to Eat](https://lifehacker.com/the-items-on-the-food-disgust-test-that-are-actually-1850363121)
-- [Lifehacker] [Why Clothing Subscription Boxes Are Basically Pointless](https://lifehacker.com/why-clothing-subscription-boxes-are-basically-pointless-1850362337)
-- [Lifehacker] [If You Haven&#39;t Had a Cheese Fries Omelette, Have You Even Lived?](https://lifehacker.com/if-you-havent-had-a-cheese-fries-omelette-have-you-eve-1850361856)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Items on the ‘Food Disgust Test’ That Are Actually Unsafe to Eat](https://lifehacker.com/the-items-on-the-food-disgust-test-that-are-actually-1850363121)<!-- TECH-POSTS:END -->
 
 ---
 
