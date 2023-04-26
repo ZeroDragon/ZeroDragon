@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Plays With Emojis!](https://dev.to/webpajooh/js-plays-with-emojis-2poh)
+- [Dev.to/JS] [First look at my Coding Boot Camp](https://dev.to/sam_steines/first-look-at-my-coding-boot-camp-1ci)
+- [Dev.to/JS] [Let’s play a Javascript Frontend Game](https://dev.to/shreyvijayvargiya/lets-play-a-javascript-frontend-game-3i7o)
+- [Dev.to/JS] [Mozilla Multiple Page Cross browser PDF Viewer](https://dev.to/amithmoorkoth/mozilla-multiple-page-cross-browser-pdf-viewer-heh)
+- [Lifehacker] [You Can Now Use AI to Summarize the News You Read](https://lifehacker.com/you-can-now-use-ai-to-summarize-the-news-you-read-1850377953)
+- [Dev.to/JS] [Control a 3D Model with Your Phone: A React, Three.js, and Socket.io Project 🚀](https://dev.to/namanvyas/control-a-3d-model-with-your-phone-a-react-threejs-and-socketio-project-356c)
 - [Lifehacker] [How to Finally Use Google Authenticator Without Your Phone](https://lifehacker.com/how-to-finally-use-google-authenticator-without-your-ph-1850376595)
 - [Dev.to/JS] [iOS App developers](https://dev.to/sirhh01/ios-app-developers-1037)
 - [Lifehacker] [You Can Finally Use WhatsApp on More Than One Phone](https://lifehacker.com/you-can-finally-use-whatsapp-on-more-than-one-phone-1850375181)
@@ -35,12 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How does React Query&#39;s useQuery work?](https://dev.to/wra-sol/how-does-react-querys-usequery-work-5gna)
 - [Dev.to/JS] [How do I know if my toddler has developmental issues?](https://dev.to/tec655/how-do-i-know-if-my-toddler-has-developmental-issues-11e3)
 - [Lifehacker] [Seven Ways AI Can Help You Manage Your ADHD](https://lifehacker.com/seven-ways-ai-can-help-you-manage-your-adhd-1850373670)
-- [Dev.to/JS] [Object Oriented Programming in JavaScript](https://dev.to/honeybadger/object-oriented-programming-in-javascript-1jd8)
-- [Dev.to/JS] [🎉 Kotlin for JavaScript and Python Devs: A Friendly Introduction to a Powerful Language 🚀](https://dev.to/jimmymcbride/kotlin-for-javascript-and-python-devs-a-friendly-introduction-to-a-powerful-language-3e7j)
-- [Dev.to/JS] [The Beginner&#39;s Guide to ZK-Snark: Setting Up Your First Proof System](https://dev.to/yagnadeepxo/the-beginners-guide-to-zk-snark-setting-up-your-first-proof-system-3le3)
-- [Dev.to/JS] [Sharing Interaction Tests Between Components](https://dev.to/scottnath/sharing-interaction-tests-between-components-12b8)
 - [Lifehacker] [Grow Your Veggies in a Bag This Summer](https://lifehacker.com/grow-your-veggies-in-a-bag-this-summer-1850373469)
-- [Dev.to/JS] [Python in the browser with Pyscript](https://dev.to/varshithvhegde/python-in-the-browser-with-pyscript-2b9m)
 - [Lifehacker] [You Can Use Coffee to Turn Brownie Mix Into &#39;Pudding&#39;](https://lifehacker.com/you-can-use-coffee-to-turn-brownie-mix-into-pudding-1850375158)
 - [Lifehacker] [Why Every Gardener Needs a Visual Diary](https://lifehacker.com/why-every-gardener-needs-a-visual-diary-1850369863)
 - [Lifehacker] [A Mandoline Slicer Will Make You a Better Cook](https://lifehacker.com/a-mandoline-slicer-will-make-you-a-better-cook-1850338671)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Fictional AI, Ranked by How Likely They Are to Kill Us All](https://lifehacker.com/10-fictional-ai-ranked-by-how-likely-they-are-to-kill-1850368045)
 - [Lifehacker] [You Can Use a Pool Noodle to Prop Up Small Plants in Large Pots](https://lifehacker.com/you-can-use-a-pool-noodle-to-prop-up-small-plants-in-la-1850369137)
 - [Lifehacker] [How to Organize Your Fridge Without a Million Plastic Bins](https://lifehacker.com/how-to-organize-your-fridge-without-a-million-plastic-b-1850360256)
-- [Lifehacker] [Take These Steps to Keep Diseases From Ruining Your Garden](https://lifehacker.com/take-these-steps-to-keep-diseases-from-ruining-your-gar-1850359057)
-- [Lifehacker] [The Best Questions to Ask on Your First Day at a New Job](https://lifehacker.com/the-best-questions-to-ask-on-your-first-day-at-a-new-jo-1850363396)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Take These Steps to Keep Diseases From Ruining Your Garden](https://lifehacker.com/take-these-steps-to-keep-diseases-from-ruining-your-gar-1850359057)<!-- TECH-POSTS:END -->
 
 ---
 
