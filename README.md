@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Shallow Copy vs Deep Copy no JavaScript](https://dev.to/antiduhring/shallow-copy-vs-deep-copy-no-javascript-2h7g)
+- [Lifehacker] [What&#39;s New on Netflix in May 2023](https://lifehacker.com/whats-new-on-netflix-in-may-2023-1850378655)
+- [Lifehacker] [How Temping Really Works](https://lifehacker.com/how-temping-really-works-1850373531)
 - [Dev.to/JS] [JS Plays With Emojis!](https://dev.to/webpajooh/js-plays-with-emojis-2poh)
 - [Dev.to/JS] [First look at my Coding Boot Camp](https://dev.to/sam_steines/first-look-at-my-coding-boot-camp-1ci)
 - [Dev.to/JS] [Let’s play a Javascript Frontend Game](https://dev.to/shreyvijayvargiya/lets-play-a-javascript-frontend-game-3i7o)
@@ -38,8 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - CORS and Frontend Integration](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-cors-and-frontend-integration-2j0h)
 - [Lifehacker] [What Magnesium Supplements Can Actually Do](https://lifehacker.com/what-magnesium-supplements-can-actually-do-1850372151)
 - [Dev.to/JS] [Benefits Of Delaying Ajax Calls](https://dev.to/zahoorcodes/benefits-of-delaying-ajax-calls-2f35)
-- [Dev.to/JS] [How does React Query&#39;s useQuery work?](https://dev.to/wra-sol/how-does-react-querys-usequery-work-5gna)
-- [Dev.to/JS] [How do I know if my toddler has developmental issues?](https://dev.to/tec655/how-do-i-know-if-my-toddler-has-developmental-issues-11e3)
+- [Dev.to/JS] [It&#39;s Not About Your Tech Stack: Why Solving Problems Matters More](https://dev.to/lakincoder/its-not-about-your-tech-stack-why-solving-problems-matters-more-1gf3)
 - [Lifehacker] [Seven Ways AI Can Help You Manage Your ADHD](https://lifehacker.com/seven-ways-ai-can-help-you-manage-your-adhd-1850373670)
 - [Lifehacker] [Grow Your Veggies in a Bag This Summer](https://lifehacker.com/grow-your-veggies-in-a-bag-this-summer-1850373469)
 - [Lifehacker] [You Can Use Coffee to Turn Brownie Mix Into &#39;Pudding&#39;](https://lifehacker.com/you-can-use-coffee-to-turn-brownie-mix-into-pudding-1850375158)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Shouldn&#39;t Trust AI Detectors](https://lifehacker.com/why-you-shouldnt-trust-ai-detectors-1850369642)
 - [Lifehacker] [You Should Put Your Coffee Table on Casters](https://lifehacker.com/you-should-put-your-coffee-table-on-casters-1850369665)
 - [Lifehacker] [10 Fictional AI, Ranked by How Likely They Are to Kill Us All](https://lifehacker.com/10-fictional-ai-ranked-by-how-likely-they-are-to-kill-1850368045)
-- [Lifehacker] [You Can Use a Pool Noodle to Prop Up Small Plants in Large Pots](https://lifehacker.com/you-can-use-a-pool-noodle-to-prop-up-small-plants-in-la-1850369137)
-- [Lifehacker] [How to Organize Your Fridge Without a Million Plastic Bins](https://lifehacker.com/how-to-organize-your-fridge-without-a-million-plastic-b-1850360256)
-- [Lifehacker] [Take These Steps to Keep Diseases From Ruining Your Garden](https://lifehacker.com/take-these-steps-to-keep-diseases-from-ruining-your-gar-1850359057)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Use a Pool Noodle to Prop Up Small Plants in Large Pots](https://lifehacker.com/you-can-use-a-pool-noodle-to-prop-up-small-plants-in-la-1850369137)<!-- TECH-POSTS:END -->
 
 ---
 
