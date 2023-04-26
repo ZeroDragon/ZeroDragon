@@ -23,14 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Hooks: Intuitive Introduction to useState Hook](https://dev.to/ghostaram/react-hooks-intuitive-introduction-to-usestate-hook-4mol)
+- [Dev.to/JS] [3.9 - Earning Digital Badges with Holopin](https://dev.to/codingcatdev/39-earning-digital-badges-with-holopin-1be2)
+- [Lifehacker] [Why Every Gardener Needs a Visual Diary](https://lifehacker.com/why-every-gardener-needs-a-visual-diary-1850369863)
+- [Dev.to/JS] [Javascript Anonymous Functions and Event Listeners](https://dev.to/danjpeg/javascript-anonymous-functions-and-event-listeners-2gih)
 - [Dev.to/JS] [Server Components vs. SSR](https://dev.to/jankoritak/server-components-vs-ssr-1g8c)
 - [Lifehacker] [A Mandoline Slicer Will Make You a Better Cook](https://lifehacker.com/a-mandoline-slicer-will-make-you-a-better-cook-1850338671)
 - [Dev.to/JS] [Programming languages Paradigm](https://dev.to/talenttinaapi/programming-languages-paradigm-1gmd)
 - [Dev.to/JS] [Tutorial: Create an AI agent that reads Wikipedia for you](https://dev.to/lgrammel/tutorial-create-an-ai-agent-that-reads-wikipedia-for-you-31cm)
 - [Dev.to/JS] [Deno Fresh Responsive Images: Resize API](https://dev.to/askrodney/deno-fresh-responsive-images-resize-api-58o2)
-- [Dev.to/JS] [Hello World](https://dev.to/limaleandro1999/hello-world-2m9d)
-- [Dev.to/JS] [Hello World](https://dev.to/limaleandro1999/hello-world-3455)
-- [Dev.to/JS] [Hello, World!](https://dev.to/limaleandro1999/hello-world-47m4)
 - [Lifehacker] [How to Sell Your Soul to the Devil](https://lifehacker.com/how-to-sell-your-soul-to-the-devil-1850353292)
 - [Dev.to/JS] [Learn async v/s defer attributes of Script in JavaScript](https://dev.to/manishmandal77/learn-async-vs-defer-attributes-of-javascript-in-2-minutes-28c6)
 - [Lifehacker] [What Your Garden Needs Is a Power Drill](https://lifehacker.com/what-your-garden-needs-is-a-power-drill-1850370026)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Pool Noodle Is the Best Way to Transport Knives on a Trip](https://lifehacker.com/a-pool-noodle-is-the-best-way-to-transport-knives-on-a-1850363453)
 - [Lifehacker] [How to Add Shade to a Treeless Back Yard](https://lifehacker.com/how-to-add-shade-to-a-treeless-backyard-1850362835)
 - [Lifehacker] [Six Basic Knife Techniques Everyone Should Know](https://lifehacker.com/six-basic-knife-techniques-everyone-should-know-1850363702)
-- [Lifehacker] [What to Do When One Child Thinks They’re the ‘Bad Kid’](https://lifehacker.com/what-to-do-when-one-child-thinks-they-re-the-bad-kid-1850363233)
-- [Lifehacker] [The Items on the ‘Food Disgust Test’ That Are Actually Unsafe to Eat](https://lifehacker.com/the-items-on-the-food-disgust-test-that-are-actually-1850363121)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do When One Child Thinks They’re the ‘Bad Kid’](https://lifehacker.com/what-to-do-when-one-child-thinks-they-re-the-bad-kid-1850363233)<!-- TECH-POSTS:END -->
 
 ---
 
