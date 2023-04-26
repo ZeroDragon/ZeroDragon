@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learning Javascript as a Python Developer](https://dev.to/kachiic/learning-javascript-as-a-python-developer-126g)
+- [Dev.to/JS] [Javascript for Beginners.](https://dev.to/samuelwachira/javascript-for-beginners-4l55)
+- [Dev.to/JS] [⏱️ Caching for the win! How we solved a tough caching issue 🤓](https://dev.to/jaloplo/caching-for-the-win-how-we-solved-a-tough-caching-issue-170n)
 - [Dev.to/JS] [Different Ways of Writing JavaScript Functions](https://dev.to/ayodeji75/different-ways-of-writing-javascript-functions-12lf)
 - [Dev.to/JS] [Why you should use Vite in your next React App.](https://dev.to/enigma13/why-you-should-use-vite-in-your-next-react-app-23k6)
 - [Dev.to/JS] [x-crawl v7 has been released](https://dev.to/coderhxl/x-crawl-v7-has-been-released-54pk)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Writing React like a pro — Tips and Tricks.🧑🏽‍💻](https://dev.to/parthee/writing-react-like-a-pro-tips-and-tricks-b3o)
 - [Dev.to/JS] [Lazy loading services in Angular. What?! Yes, we can.](https://dev.to/this-is-angular/lazy-loading-services-in-angular-what-yes-we-can-2gah)
 - [Dev.to/JS] [Create tor v3 onion address from nodejs](https://dev.to/notreeceharris/create-tor-v3-onion-address-from-nodejs-59an)
-- [Dev.to/JS] [[JS TS] Create an object with keys based on enum](https://dev.to/ktrblog/js-ts-create-an-object-with-keys-based-on-enum-2k8c)
-- [Dev.to/JS] [Zero-cost Way on React &amp; D3.](https://dev.to/valorsoftware/zero-cost-way-on-react-d3-3m1e)
-- [Dev.to/JS] [Weekly web development resources #146](https://dev.to/vincenius/weekly-web-development-resources-146-3og4)
 - [Lifehacker] [What&#39;s New on HBO Max in May 2023](https://lifehacker.com/whats-new-on-hbo-max-in-may-2023-1850374868)
 - [Lifehacker] [How to Get Rid of Snapchat’s Annoying, Lying AI Bot](https://lifehacker.com/how-to-get-rid-of-snapchat-s-annoying-lying-ai-bot-1850373612)
 - [Lifehacker] [This Tool Reveals How Far You Can Travel on Your Tax Refund](https://lifehacker.com/this-tool-reveals-how-far-you-can-travel-on-your-tax-re-1850373217)
