@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [x-crawl v7 has been released](https://dev.to/coderhxl/x-crawl-v7-has-been-released-54pk)
+- [Dev.to/JS] [Coinbase &quot;Wallet as a service&quot;: Here is what you have to know](https://dev.to/maxmiladcrypto/coinbase-wallet-as-a-service-here-is-what-you-have-to-know-42gp)
 - [Dev.to/JS] [Apollo integration with MeteorJS v4.2 release and looking to v5](https://dev.to/storytellercz/apollo-integration-with-meteorjs-v42-release-and-looking-to-v5-m6g)
 - [Dev.to/JS] [React Design Patterns — Best Practices for Building Scalable and Reusable Components](https://dev.to/parthee/react-design-patterns-best-practices-for-building-scalable-and-reusable-components-49bc)
 - [Dev.to/JS] [Writing React like a pro — Tips and Tricks.🧑🏽‍💻](https://dev.to/parthee/writing-react-like-a-pro-tips-and-tricks-b3o)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Weekly web development resources #146](https://dev.to/vincenius/weekly-web-development-resources-146-3og4)
 - [Dev.to/JS] [Discovering the Power of JavaScript Proxy After All This Time](https://dev.to/marclipovsky/discovering-the-power-of-javascript-proxy-after-all-this-time-4627)
 - [Dev.to/JS] [JavaScript: Function Types You Should Know!](https://dev.to/renancferro/javascript-function-types-you-should-know-chd)
-- [Dev.to/JS] [Arrow Functions, Implicit Returns and the Optimal Approach to Learning JavaScript](https://dev.to/amdiamond107/arrow-functions-implicit-returns-and-the-optimal-approach-to-learning-javascript-2ol7)
-- [Dev.to/JS] [Need Help](https://dev.to/pearldevman/need-help-3mo1)
 - [Lifehacker] [What&#39;s New on HBO Max in May 2023](https://lifehacker.com/whats-new-on-hbo-max-in-may-2023-1850374868)
 - [Lifehacker] [How to Get Rid of Snapchat’s Annoying, Lying AI Bot](https://lifehacker.com/how-to-get-rid-of-snapchat-s-annoying-lying-ai-bot-1850373612)
 - [Lifehacker] [This Tool Reveals How Far You Can Travel on Your Tax Refund](https://lifehacker.com/this-tool-reveals-how-far-you-can-travel-on-your-tax-re-1850373217)
