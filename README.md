@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript: Function Types You Should Know!](https://dev.to/renancferro/javascript-function-types-you-should-know-chd)
+- [Dev.to/JS] [Arrow Functions, Implicit Returns and the Optimal Approach to Learning JavaScript](https://dev.to/amdiamond107/arrow-functions-implicit-returns-and-the-optimal-approach-to-learning-javascript-2ol7)
 - [Dev.to/JS] [Need Help](https://dev.to/pearldevman/need-help-3mo1)
 - [Dev.to/JS] [Fast access to the latest deep learning models using node.js](https://dev.to/barqawiz/lightning-fast-access-to-the-latest-deep-learning-models-using-nodejs-4edg)
 - [Dev.to/JS] [Simplifying Code with Event Delegation in Your Javascript Applications](https://dev.to/okafor__mary/simplifying-code-with-event-delegation-in-your-javascript-applications-204n)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Tool Reveals How Far You Can Travel on Your Tax Refund](https://lifehacker.com/this-tool-reveals-how-far-you-can-travel-on-your-tax-re-1850373217)
 - [Dev.to/JS] [Understanding methods and functions in JavaScript](https://dev.to/mdjibril/understanding-methods-and-function-in-javascript-ebg)
 - [Lifehacker] [The Smartest Ways to Get a Recruiter&#39;s Attention &lpar;Without Being Obnoxious&rpar;](https://lifehacker.com/the-smartest-ways-to-get-a-recruiters-attention-withou-1850371644)
-- [Dev.to/JS] [Modifying Objects in JavaScript Made Easy](https://dev.to/penncurtis/modifying-objects-in-javascript-made-easy-13e0)
 - [Lifehacker] [All the Wild New Canva AI Features You Should Know About](https://lifehacker.com/all-the-wild-new-canva-ai-features-you-should-know-abou-1850371955)
-- [Dev.to/JS] [Cicada: Write CI/CD pipelines in TypeScript](https://dev.to/brendan/launching-cicada-write-cicd-pipelines-in-typescript-3i31)
 - [Lifehacker] [YouTubers You’ll Actually Want Your Tweens to Follow](https://lifehacker.com/youtubers-you-ll-actually-want-your-tweens-to-follow-1850371298)
 - [Lifehacker] [10 of the First Things You Should Try With ChatGPT](https://lifehacker.com/10-of-the-first-things-you-should-try-with-chatgpt-1850368802)
 - [Lifehacker] [What ‘Breathe Into Your Back’ and Other Weird Yoga Terms Actually Mean](https://lifehacker.com/what-breathe-into-your-back-and-other-weird-yoga-term-1850370689)
