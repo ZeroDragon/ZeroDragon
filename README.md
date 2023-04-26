@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Separate a multi-digit integer into a single-digit array.](https://dev.to/laladiaz/separate-a-multi-digit-integer-into-a-single-digit-array-1ll2)
+- [Dev.to/JS] [Creating a Scrolling Animation for Apple AirPods](https://dev.to/bekbrace/creating-a-scrolling-animation-for-apple-airpods-3ke1)
+- [Lifehacker] [7-Eleven Will Let You Fill &lpar;Almost&rpar; Anything With Slurpee for $2](https://lifehacker.com/7-eleven-will-let-you-fill-almost-anything-with-slurp-1850379239)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Lados do mapa](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-lados-do-mapa-189o)
 - [Dev.to/JS] [Shallow Copy vs Deep Copy no JavaScript](https://dev.to/antiduhring/shallow-copy-vs-deep-copy-no-javascript-2h7g)
 - [Lifehacker] [What&#39;s New on Netflix in May 2023](https://lifehacker.com/whats-new-on-netflix-in-may-2023-1850378655)
 - [Lifehacker] [How Temping Really Works](https://lifehacker.com/how-temping-really-works-1850373531)
@@ -38,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Master the Art of DOM Manipulation - The Beginners Guide To Javascript&lpar;Part 7&rpar;](https://dev.to/camskithedev/master-the-art-of-dom-manipulation-the-beginners-guide-to-javascriptpart-7-2n3h)
 - [Dev.to/JS] [Create your nuxt website with Netlify ✨](https://dev.to/thomasbnt/create-your-nuxt-website-with-netlify-34ep)
 - [Lifehacker] [How to Turn a Bad Run Around](https://lifehacker.com/how-to-turn-a-bad-run-around-1850373028)
-- [Dev.to/JS] [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - CORS and Frontend Integration](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-cors-and-frontend-integration-2j0h)
 - [Lifehacker] [What Magnesium Supplements Can Actually Do](https://lifehacker.com/what-magnesium-supplements-can-actually-do-1850372151)
-- [Dev.to/JS] [Benefits Of Delaying Ajax Calls](https://dev.to/zahoorcodes/benefits-of-delaying-ajax-calls-2f35)
-- [Dev.to/JS] [It&#39;s Not About Your Tech Stack: Why Solving Problems Matters More](https://dev.to/lakincoder/its-not-about-your-tech-stack-why-solving-problems-matters-more-1gf3)
 - [Lifehacker] [Seven Ways AI Can Help You Manage Your ADHD](https://lifehacker.com/seven-ways-ai-can-help-you-manage-your-adhd-1850373670)
 - [Lifehacker] [Grow Your Veggies in a Bag This Summer](https://lifehacker.com/grow-your-veggies-in-a-bag-this-summer-1850373469)
 - [Lifehacker] [You Can Use Coffee to Turn Brownie Mix Into &#39;Pudding&#39;](https://lifehacker.com/you-can-use-coffee-to-turn-brownie-mix-into-pudding-1850375158)
@@ -58,11 +59,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the First Things You Should Try With ChatGPT](https://lifehacker.com/10-of-the-first-things-you-should-try-with-chatgpt-1850368802)
 - [Lifehacker] [What ‘Breathe Into Your Back’ and Other Weird Yoga Terms Actually Mean](https://lifehacker.com/what-breathe-into-your-back-and-other-weird-yoga-term-1850370689)
 - [Lifehacker] [The Easy Way to Keep Your Brussels Sprouts From Sticking](https://lifehacker.com/the-easy-way-to-keep-your-brussels-sprouts-from-stickin-1850372718)
-- [Lifehacker] [10 True-Crime Podcasts You Probably Haven&#39;t Binged Yet](https://lifehacker.com/10-true-crime-podcasts-you-probably-havent-binged-yet-1850366929)
+- [Lifehacker] [10 True Crime Podcasts You Probably Haven&#39;t Binged Yet](https://lifehacker.com/10-true-crime-podcasts-you-probably-havent-binged-yet-1850366929)
 - [Lifehacker] [Why You Shouldn&#39;t Trust AI Detectors](https://lifehacker.com/why-you-shouldnt-trust-ai-detectors-1850369642)
 - [Lifehacker] [You Should Put Your Coffee Table on Casters](https://lifehacker.com/you-should-put-your-coffee-table-on-casters-1850369665)
-- [Lifehacker] [10 Fictional AI, Ranked by How Likely They Are to Kill Us All](https://lifehacker.com/10-fictional-ai-ranked-by-how-likely-they-are-to-kill-1850368045)
-- [Lifehacker] [You Can Use a Pool Noodle to Prop Up Small Plants in Large Pots](https://lifehacker.com/you-can-use-a-pool-noodle-to-prop-up-small-plants-in-la-1850369137)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Fictional AI, Ranked by How Likely They Are to Kill Us All](https://lifehacker.com/10-fictional-ai-ranked-by-how-likely-they-are-to-kill-1850368045)<!-- TECH-POSTS:END -->
 
 ---
 
