@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How can I calculate to make the virtual scroll list display properly? Thank you](https://dev.to/coderwx/how-can-i-calculate-to-make-the-virtual-scroll-list-display-properly-thank-you-2k1n)
+- [Dev.to/JS] [How I built a chat widget with ChatGPT in under an hour](https://dev.to/anantrp/how-i-built-a-chat-widget-with-chatgpt-in-under-an-hour-38kd)
 - [Dev.to/JS] [Building a Message Component for My Project](https://dev.to/arashjangali/building-a-message-component-for-my-project-fbc)
 - [Dev.to/JS] [Object-oriented programming &lpar;OOP&rpar;](https://dev.to/abdulkabirsultan/object-oriented-programming-oop-21mo)
 - [Dev.to/JS] [Build a Basic Note-Taking App with MongoDB, Node.js, Express, and Bootstrap: A Step-by-Step Guide for Beginners](https://dev.to/omacys/build-a-basic-note-taking-app-with-mongodb-nodejs-express-and-bootstrap-a-step-by-step-guide-for-beginners-1f5k)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Netflix in May 2023](https://lifehacker.com/whats-new-on-netflix-in-may-2023-1850378655)
 - [Lifehacker] [How Temping Really Works](https://lifehacker.com/how-temping-really-works-1850373531)
 - [Dev.to/JS] [JS Plays With Emojis!](https://dev.to/webpajooh/js-plays-with-emojis-2poh)
-- [Dev.to/JS] [First look at my Coding Boot Camp](https://dev.to/sam_steines/first-look-at-my-coding-boot-camp-1ci)
-- [Dev.to/JS] [Let’s play a Javascript Frontend Game](https://dev.to/shreyvijayvargiya/lets-play-a-javascript-frontend-game-3i7o)
 - [Lifehacker] [You Can Now Use AI to Summarize the News You Read](https://lifehacker.com/you-can-now-use-ai-to-summarize-the-news-you-read-1850377953)
 - [Lifehacker] [How to Finally Use Google Authenticator Without Your Phone](https://lifehacker.com/how-to-finally-use-google-authenticator-without-your-ph-1850376595)
 - [Lifehacker] [You Can Finally Use WhatsApp on More Than One Phone](https://lifehacker.com/you-can-finally-use-whatsapp-on-more-than-one-phone-1850375181)
