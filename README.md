@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Message Component for My Project](https://dev.to/arashjangali/building-a-message-component-for-my-project-fbc)
+- [Dev.to/JS] [Object-oriented programming &lpar;OOP&rpar;](https://dev.to/abdulkabirsultan/object-oriented-programming-oop-21mo)
 - [Dev.to/JS] [Build a Basic Note-Taking App with MongoDB, Node.js, Express, and Bootstrap: A Step-by-Step Guide for Beginners](https://dev.to/omacys/build-a-basic-note-taking-app-with-mongodb-nodejs-express-and-bootstrap-a-step-by-step-guide-for-beginners-1f5k)
 - [Dev.to/JS] [Earn free tokens from Axia](https://dev.to/oleanji/earn-free-tokens-from-axia-438m)
 - [Dev.to/JS] [Building a full-stack e-commerce web app](https://dev.to/webdynamics/building-a-full-stack-e-commerce-web-app-4i45)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS Plays With Emojis!](https://dev.to/webpajooh/js-plays-with-emojis-2poh)
 - [Dev.to/JS] [First look at my Coding Boot Camp](https://dev.to/sam_steines/first-look-at-my-coding-boot-camp-1ci)
 - [Dev.to/JS] [Let’s play a Javascript Frontend Game](https://dev.to/shreyvijayvargiya/lets-play-a-javascript-frontend-game-3i7o)
-- [Dev.to/JS] [Mozilla Multiple Page Cross browser PDF Viewer](https://dev.to/amithmoorkoth/mozilla-multiple-page-cross-browser-pdf-viewer-heh)
 - [Lifehacker] [You Can Now Use AI to Summarize the News You Read](https://lifehacker.com/you-can-now-use-ai-to-summarize-the-news-you-read-1850377953)
-- [Dev.to/JS] [Control a 3D Model with Your Phone: A React, Three.js, and Socket.io Project 🚀](https://dev.to/namanvyas/control-a-3d-model-with-your-phone-a-react-threejs-and-socketio-project-356c)
 - [Lifehacker] [How to Finally Use Google Authenticator Without Your Phone](https://lifehacker.com/how-to-finally-use-google-authenticator-without-your-ph-1850376595)
 - [Lifehacker] [You Can Finally Use WhatsApp on More Than One Phone](https://lifehacker.com/you-can-finally-use-whatsapp-on-more-than-one-phone-1850375181)
 - [Lifehacker] [How to Turn a Bad Run Around](https://lifehacker.com/how-to-turn-a-bad-run-around-1850373028)
