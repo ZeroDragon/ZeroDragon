@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node.js: Promise In Depth](https://dev.to/vikasvmads/nodejs-promise-in-depth-1008)
+- [Dev.to/JS] [Combining debugger statement and console.trace for faster issue debugging](https://dev.to/varadan13/combining-debugger-statement-and-consoletrace-for-faster-issue-debugging-175j)
+- [Dev.to/JS] [Breaking Down Success: What Separates Top Developers from the Rest](https://dev.to/dhruvindev/breaking-down-success-what-separates-top-developers-from-the-rest-210j)
+- [Dev.to/JS] [A Beginner’s Guide to Creating Basic Routes in Express.js](https://dev.to/vikasvmads/a-beginners-guide-to-creating-basic-routes-in-expressjs-4onk)
+- [Dev.to/JS] [DLF Floors in Gurgaon](https://dev.to/dlffloors/dlf-floors-in-gurgaon-21ie)
 - [Dev.to/JS] [My Tech Learning Journey for 2023: Technologies, Courses, Books, and More](https://dev.to/brnms/my-tech-learning-journey-for-2023-technologies-courses-books-and-more-8g)
 - [Dev.to/JS] [Simple Vanilla One-Time Password &lpar;OTP&rpar; module from scratch.](https://dev.to/josuews303/simple-vanilla-one-time-password-0tp-module-from-scratch-4mn0)
 - [Dev.to/JS] [[JS/TS] Cookie Muncher - Effortless cookie management](https://dev.to/bluzzi/jsts-cookie-muncher-effortless-cookie-management-1nfn)
@@ -30,12 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I built a chat widget with ChatGPT in under an hour](https://dev.to/anantrp/how-i-built-a-chat-widget-with-chatgpt-in-under-an-hour-38kd)
 - [Dev.to/JS] [Building a Message Component for My Project](https://dev.to/arashjangali/building-a-message-component-for-my-project-fbc)
 - [Dev.to/JS] [Object-oriented programming &lpar;OOP&rpar;](https://dev.to/abdulkabirsultan/object-oriented-programming-oop-21mo)
-- [Dev.to/JS] [Build a Basic Note-Taking App with MongoDB, Node.js, Express, and Bootstrap: A Step-by-Step Guide for Beginners](https://dev.to/omacys/build-a-basic-note-taking-app-with-mongodb-nodejs-express-and-bootstrap-a-step-by-step-guide-for-beginners-1f5k)
-- [Dev.to/JS] [Earn free tokens from Axia](https://dev.to/oleanji/earn-free-tokens-from-axia-438m)
-- [Dev.to/JS] [Effortless Scaling and Deployment: A Comprehensive Guide for Solo Developers and Time-Savers](https://dev.to/doziestar/effortless-scaling-and-deployment-a-comprehensive-guide-for-solo-developers-and-time-savers-5917)
-- [Dev.to/JS] [Building a full-stack e-commerce web app](https://dev.to/webdynamics/building-a-full-stack-e-commerce-web-app-4i45)
 - [Lifehacker] [What&#39;s New on Paramount+ in May 2023](https://lifehacker.com/whats-new-on-paramount-in-may-2023-1850379544)
-- [Dev.to/JS] [Separate a multi-digit integer into a single-digit array.](https://dev.to/laladiaz/separate-a-multi-digit-integer-into-a-single-digit-array-1ll2)
 - [Lifehacker] [7-Eleven Will Let You Fill &lpar;Almost&rpar; Anything With Slurpee for $2](https://lifehacker.com/7-eleven-will-let-you-fill-almost-anything-with-slurp-1850379239)
 - [Lifehacker] [What&#39;s New on Netflix in May 2023](https://lifehacker.com/whats-new-on-netflix-in-may-2023-1850378655)
 - [Lifehacker] [How Temping Really Works](https://lifehacker.com/how-temping-really-works-1850373531)
