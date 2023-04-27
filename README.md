@@ -23,27 +23,29 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[Nestia] Boost up your NestJS server much faster and easier &lpar;maximum 20,000x faster&rpar;](https://dev.to/samchon/nestia-boost-up-your-nestjs-server-much-faster-and-easier-maximum-20000x-faster-59o5)
+- [Dev.to/JS] [Unlocking the Secrets of React Hooks](https://dev.to/sanjampreetsingh/unlocking-the-secrets-of-react-hooks-58bj)
+- [Dev.to/JS] [Creating a Scrolling Animation for Apple AirPods](https://dev.to/bekbrace/creating-a-scrolling-animation-for-apple-airpods-1g0m)
+- [Lifehacker] [Some Melatonin Gummies Are Way Stronger Than Advertised](https://lifehacker.com/some-melatonin-gummies-are-way-stronger-than-advertised-1850383023)
+- [Dev.to/JS] [Gamification content ideas for programmers?](https://dev.to/eborebo/gamification-content-ideas-for-programmers-30ld)
+- [Dev.to/JS] [LookUp Table Pattern Javascript](https://dev.to/samsantosb/lookup-table-pattern-javascript-2pm7)
+- [Dev.to/JS] [Javascript Indexing Pattern](https://dev.to/samsantosb/javascript-indexing-pattern-2850)
 - [Lifehacker] [This App Lets You Search for Everything You’ve Ever Done on Your Mac](https://lifehacker.com/this-app-lets-you-search-for-everything-you-ve-ever-don-1850381648)
 - [Dev.to/JS] [How to get started with Redux Toolkit!](https://dev.to/emmalegend/how-to-get-started-with-redux-toolkit-2ikp)
+- [Lifehacker] [Nobody Can Agree on What &#39;Zone 2&#39; Cardio Is](https://lifehacker.com/nobody-can-agree-on-what-zone-2-cardio-is-1850379968)
 - [Lifehacker] [Why You Might Actually Want a Grass Driveway](https://lifehacker.com/why-you-might-actually-want-a-grass-driveway-1850381480)
-- [Dev.to/JS] [Descargar archivo PDF en una aplicación web con Vue.js y JavaScript](https://dev.to/fercarballo/descargar-archivo-pdf-en-una-aplicacion-web-con-vuejs-y-javascript-2glh)
+- [Dev.to/JS] [Download PDF File in a Web Application with Vue.js and JavaScript.](https://dev.to/fercarballo/descargar-archivo-pdf-en-una-aplicacion-web-con-vuejs-y-javascript-2glh)
 - [Lifehacker] [Why You Should Wear Wireless Earbuds to Your Next Concert](https://lifehacker.com/why-you-should-wear-wireless-earbuds-to-your-next-conce-1850381535)
 - [Lifehacker] [Why Haven&#39;t You Wrapped Your Cookies in Phyllo Dough?](https://lifehacker.com/why-havent-you-wrapped-your-cookies-in-phyllo-dough-1850382391)
 - [Dev.to/JS] [The Internet is Like a Convention: Why You Should Grab the Mic and Start Talking](https://dev.to/lakincoder/the-internet-is-like-a-convention-why-you-should-grab-the-mic-and-start-talking-1l1i)
 - [Dev.to/JS] [YAML: A Powerful Data Serialization Language](https://dev.to/sardarmudassaralikhan/yaml-a-powerful-data-serialization-language-4p5m)
 - [Dev.to/JS] [BlazeJS v2.6.2 released!](https://dev.to/storytellercz/blazejs-v262-released-3keo)
 - [Dev.to/JS] [Drop-Shadow](https://dev.to/navinso92429049/drop-shadow-21af)
-- [Dev.to/JS] [GraphQL Vs. REST API](https://dev.to/himanshudevgupta/graphql-vs-rest-api-845)
 - [Lifehacker] [When Can You Legally Shoot Someone on Your Property?](https://lifehacker.com/when-can-you-legally-shoot-someone-on-your-property-1850380021)
 - [Lifehacker] [Your Ground Cumin May Have Been Recalled for Salmonella](https://lifehacker.com/your-ground-cumin-may-have-been-recalled-for-salmonella-1850379635)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Trilha de pedras](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-trilha-de-pedras-2ob2)
 - [Lifehacker] [You Can Stop Training ChatGPT With Your Questions and Conversations](https://lifehacker.com/you-can-stop-training-chatgpt-with-your-questions-and-c-1850378821)
 - [Lifehacker] [These Towns Will Pay You to Move There](https://lifehacker.com/these-towns-will-pay-you-to-move-there-1850378065)
-- [Dev.to/JS] [Axie Infinity Clone Script: The Building Block for Your Own NFT Game Empire](https://dev.to/loganpatrick4x/axie-infinity-clone-script-the-building-block-for-your-own-nft-game-empire-58lp)
-- [Dev.to/JS] [Upgrade to Yarn V3/Berry. But Why?](https://dev.to/raxraj/upgrade-to-yarn-v3berry-but-why-2cfo)
 - [Lifehacker] [What Most People Miss When Doing a Tick Check](https://lifehacker.com/what-most-people-miss-when-doing-a-tick-check-1850377780)
-- [Dev.to/JS] [React Hooks: Exploring the power of `useEffect` Hook.](https://dev.to/ghostaram/react-hooks-exploring-the-power-of-useeffect-hook-b11)
-- [Dev.to/JS] [Improve GitHub issues with AI 🦾](https://dev.to/maurerkrisztian/improve-github-issues-with-ai-4lam)
 - [Lifehacker] [Mustard Is the Key to More Flavorful Breading](https://lifehacker.com/mustard-is-the-key-to-more-flavorful-breading-1850351057)
 - [Lifehacker] [The Easiest Way to Make Your Salad Less Boring](https://lifehacker.com/the-easiest-way-to-make-your-salad-less-boring-1850377567)
 - [Lifehacker] [How to Help Your Child Build Frustration Tolerance](https://lifehacker.com/how-to-help-your-child-build-frustration-tolerance-1850378876)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Grow Your Veggies in a Bag This Summer](https://lifehacker.com/grow-your-veggies-in-a-bag-this-summer-1850373469)
 - [Lifehacker] [You Can Use Coffee to Turn Brownie Mix Into &#39;Pudding&#39;](https://lifehacker.com/you-can-use-coffee-to-turn-brownie-mix-into-pudding-1850375158)
 - [Lifehacker] [Why Every Gardener Needs a Visual Diary](https://lifehacker.com/why-every-gardener-needs-a-visual-diary-1850369863)
-- [Lifehacker] [A Mandoline Slicer Will Make You a Better Cook](https://lifehacker.com/a-mandoline-slicer-will-make-you-a-better-cook-1850338671)
-- [Lifehacker] [How to Sell Your Soul to the Devil](https://lifehacker.com/how-to-sell-your-soul-to-the-devil-1850353292)
-- [Lifehacker] [What Your Garden Needs Is a Power Drill](https://lifehacker.com/what-your-garden-needs-is-a-power-drill-1850370026)<!-- TECH-POSTS:END -->
+- [Lifehacker] [A Mandoline Slicer Will Make You a Better Cook](https://lifehacker.com/a-mandoline-slicer-will-make-you-a-better-cook-1850338671)<!-- TECH-POSTS:END -->
 
 ---
 
