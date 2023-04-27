@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Practices for Securing Vue.js Web Applications](https://dev.to/dhruviljoshi511/best-practices-for-securing-vuejs-web-applications-1j88)
+- [Lifehacker] [Mustard Is the Key to More Flavorful Breading](https://lifehacker.com/mustard-is-the-key-to-more-flavorful-breading-1850351057)
+- [Dev.to/JS] [Customizing Vizzu Charts - Real-time data model](https://dev.to/simzer/customizing-vizzu-charts-real-time-data-model-ie9)
+- [Lifehacker] [The Easiest Way to Make Your Salad Less Boring](https://lifehacker.com/the-easiest-way-to-make-your-salad-less-boring-1850377567)
+- [Dev.to/JS] [Learn serverless on AWS step-by-step - Authentication](https://dev.to/kumo/learn-serverless-on-aws-authentication-with-cognito-19bo)
 - [Lifehacker] [How to Help Your Child Build Frustration Tolerance](https://lifehacker.com/how-to-help-your-child-build-frustration-tolerance-1850378876)
 - [Dev.to/JS] [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - Log in/out, Dockerize and Deploy on fly.io](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-log-inout-dockerize-and-deploy-on-flyio-58pc)
 - [Dev.to/JS] [Immutable Primitive Values](https://dev.to/kristof1345/immutable-primitive-values-1ogl)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a currency converter using Javascript and API](https://dev.to/incoderweb/create-a-currency-converter-using-javascript-and-api-4fi5)
 - [Dev.to/JS] [You must know how to use Generics of Promises in TypeScript](https://dev.to/tomoy/you-must-know-how-to-use-generics-with-promises-in-typescript-1h8g)
 - [Dev.to/JS] [10 Powerful Node.js Libraries Every Developer Should Know About](https://dev.to/emiquelito/10-powerful-nodejs-libraries-every-developer-should-know-about-2c5g)
-- [Dev.to/JS] [Data Storage in Cookies](https://dev.to/mukulbindal/data-storage-in-cookies-2dbd)
-- [Dev.to/JS] [Getting Started with React Query](https://dev.to/emmalegend/getting-started-with-react-query-ia4)
-- [Dev.to/JS] [Real-World Uses for :has&lpar;&rpar; CSS Selector](https://dev.to/ahmed_aarafa/real-world-uses-for-has-css-selector-344m)
 - [Lifehacker] [What&#39;s New on Paramount+ in May 2023](https://lifehacker.com/whats-new-on-paramount-in-may-2023-1850379544)
 - [Lifehacker] [7-Eleven Will Let You Fill &lpar;Almost&rpar; Anything With Slurpee for $2](https://lifehacker.com/7-eleven-will-let-you-fill-almost-anything-with-slurp-1850379239)
 - [Lifehacker] [What&#39;s New on Netflix in May 2023](https://lifehacker.com/whats-new-on-netflix-in-may-2023-1850378655)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [YouTubers You’ll Actually Want Your Tweens to Follow](https://lifehacker.com/youtubers-you-ll-actually-want-your-tweens-to-follow-1850371298)
 - [Lifehacker] [10 of the First Things You Should Try With ChatGPT](https://lifehacker.com/10-of-the-first-things-you-should-try-with-chatgpt-1850368802)
 - [Lifehacker] [What ‘Breathe Into Your Back’ and Other Weird Yoga Terms Actually Mean](https://lifehacker.com/what-breathe-into-your-back-and-other-weird-yoga-term-1850370689)
-- [Lifehacker] [The Easy Way to Keep Your Brussels Sprouts From Sticking](https://lifehacker.com/the-easy-way-to-keep-your-brussels-sprouts-from-stickin-1850372718)
-- [Lifehacker] [10 True Crime Podcasts You Probably Haven&#39;t Binged Yet](https://lifehacker.com/10-true-crime-podcasts-you-probably-havent-binged-yet-1850366929)
-- [Lifehacker] [Why You Shouldn&#39;t Trust AI Detectors](https://lifehacker.com/why-you-shouldnt-trust-ai-detectors-1850369642)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easy Way to Keep Your Brussels Sprouts From Sticking](https://lifehacker.com/the-easy-way-to-keep-your-brussels-sprouts-from-stickin-1850372718)<!-- TECH-POSTS:END -->
 
 ---
 
