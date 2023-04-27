@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Invariant Violation: requireNativeComponent: “RNSScreenStackHeaderSubview” was not found in the UIManager](https://dev.to/okorelens/invariant-violation-requirenativecomponent-rnsscreenstackheadersubview-was-not-found-in-the-uimanager-3op6)
+- [Dev.to/JS] [The Role of Node.js in Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/folasayosamuel/the-role-of-nodejs-in-progressive-web-apps-pwas-35b2)
 - [Dev.to/JS] [Why upgrade to Yarn Berry?](https://dev.to/raxraj/why-upgrade-to-yarn-berry-2pdk)
 - [Dev.to/JS] [Basic and advance Array sorting](https://dev.to/equiman/basic-and-advance-array-sorting-21d4)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in May 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-may-2023-1850383975)
@@ -39,10 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to get started with Redux Toolkit!](https://dev.to/emmalegend/how-to-get-started-with-redux-toolkit-2ikp)
 - [Lifehacker] [Nobody Can Agree on What &#39;Zone 2&#39; Cardio Is](https://lifehacker.com/nobody-can-agree-on-what-zone-2-cardio-is-1850379968)
 - [Lifehacker] [Why You Might Actually Want a Grass Driveway](https://lifehacker.com/why-you-might-actually-want-a-grass-driveway-1850381480)
-- [Dev.to/JS] [Download PDF File in a Web Application with Vue.js and JavaScript.](https://dev.to/fercarballo/descargar-archivo-pdf-en-una-aplicacion-web-con-vuejs-y-javascript-2glh)
 - [Lifehacker] [Why You Should Wear Wireless Earbuds to Your Next Concert](https://lifehacker.com/why-you-should-wear-wireless-earbuds-to-your-next-conce-1850381535)
 - [Lifehacker] [Why Haven&#39;t You Wrapped Your Cookies in Phyllo Dough?](https://lifehacker.com/why-havent-you-wrapped-your-cookies-in-phyllo-dough-1850382391)
-- [Dev.to/JS] [YAML: A Powerful Data Serialization Language](https://dev.to/sardarmudassaralikhan/yaml-a-powerful-data-serialization-language-4p5m)
 - [Lifehacker] [When Can You Legally Shoot Someone on Your Property?](https://lifehacker.com/when-can-you-legally-shoot-someone-on-your-property-1850380021)
 - [Lifehacker] [Your Ground Cumin May Have Been Recalled for Salmonella](https://lifehacker.com/your-ground-cumin-may-have-been-recalled-for-salmonella-1850379635)
 - [Lifehacker] [You Can Stop Training ChatGPT With Your Questions and Conversations](https://lifehacker.com/you-can-stop-training-chatgpt-with-your-questions-and-c-1850378821)
