@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why upgrade to Yarn Berry?](https://dev.to/raxraj/why-upgrade-to-yarn-berry-2pdk)
+- [Dev.to/JS] [Basic and advance Array sorting](https://dev.to/equiman/basic-and-advance-array-sorting-21d4)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in May 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-may-2023-1850383975)
 - [Dev.to/JS] [Here&#39;s how you can write code with codepen using your Mobile phone.](https://dev.to/teekentx/heres-how-you-can-write-code-with-codepen-using-your-mobile-phone-37fc)
 - [Lifehacker] [These Kias and Hyundais Are Being Blacklisted by Some Insurance Companies](https://lifehacker.com/these-kias-and-hyundais-are-being-blacklisted-by-some-i-1850383633)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Wear Wireless Earbuds to Your Next Concert](https://lifehacker.com/why-you-should-wear-wireless-earbuds-to-your-next-conce-1850381535)
 - [Lifehacker] [Why Haven&#39;t You Wrapped Your Cookies in Phyllo Dough?](https://lifehacker.com/why-havent-you-wrapped-your-cookies-in-phyllo-dough-1850382391)
 - [Dev.to/JS] [YAML: A Powerful Data Serialization Language](https://dev.to/sardarmudassaralikhan/yaml-a-powerful-data-serialization-language-4p5m)
-- [Dev.to/JS] [BlazeJS v2.6.2 released!](https://dev.to/storytellercz/blazejs-v262-released-3keo)
-- [Dev.to/JS] [Drop-Shadow](https://dev.to/navinso92429049/drop-shadow-21af)
 - [Lifehacker] [When Can You Legally Shoot Someone on Your Property?](https://lifehacker.com/when-can-you-legally-shoot-someone-on-your-property-1850380021)
 - [Lifehacker] [Your Ground Cumin May Have Been Recalled for Salmonella](https://lifehacker.com/your-ground-cumin-may-have-been-recalled-for-salmonella-1850379635)
 - [Lifehacker] [You Can Stop Training ChatGPT With Your Questions and Conversations](https://lifehacker.com/you-can-stop-training-chatgpt-with-your-questions-and-c-1850378821)
