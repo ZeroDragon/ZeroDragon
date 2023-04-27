@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Axie Infinity Clone Script: The Building Block for Your Own NFT Game Empire](https://dev.to/loganpatrick4x/axie-infinity-clone-script-the-building-block-for-your-own-nft-game-empire-58lp)
+- [Dev.to/JS] [Upgrade to Yarn V3/Berry. But Why?](https://dev.to/raxraj/upgrade-to-yarn-v3berry-but-why-2cfo)
+- [Lifehacker] [What Most People Miss When Doing a Tick Check](https://lifehacker.com/what-most-people-miss-when-doing-a-tick-check-1850377780)
+- [Dev.to/JS] [React Hooks: Exploring the power of `useEffect` Hook.](https://dev.to/ghostaram/react-hooks-exploring-the-power-of-useeffect-hook-b11)
+- [Dev.to/JS] [Improve GitHub issues with AI 🦾](https://dev.to/maurerkrisztian/improve-github-issues-with-ai-4lam)
+- [Dev.to/JS] [Learn Designing with High-tech technology in Karnavati University](https://dev.to/vedantandloi/learn-designing-with-high-tech-technology-in-karnavati-university-42lc)
 - [Dev.to/JS] [Best Practices for Securing Vue.js Web Applications](https://dev.to/dhruviljoshi511/best-practices-for-securing-vuejs-web-applications-1j88)
 - [Lifehacker] [Mustard Is the Key to More Flavorful Breading](https://lifehacker.com/mustard-is-the-key-to-more-flavorful-breading-1850351057)
 - [Dev.to/JS] [Customizing Vizzu Charts - Real-time data model](https://dev.to/simzer/customizing-vizzu-charts-real-time-data-model-ie9)
@@ -33,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Immutable Primitive Values](https://dev.to/kristof1345/immutable-primitive-values-1ogl)
 - [Dev.to/JS] [React JS vs. React Native | Same JS Framework With Different Purposes](https://dev.to/ruqaiya/react-js-vs-react-native-same-js-framework-with-different-purposes-237p)
 - [Dev.to/JS] [DBS FOUNDATION CODING CAMP](https://dev.to/diyawandawan/dbs-foundation-coding-camp-46na)
-- [Dev.to/JS] [STORY OF MY LIFE](https://dev.to/karenzo2001/story-of-my-life-lb9)
-- [Dev.to/JS] [NetSuite Integration with Salesforce](https://dev.to/datarecove95829/netsuite-integration-with-salesforce-1dk4)
-- [Dev.to/JS] [Create a currency converter using Javascript and API](https://dev.to/incoderweb/create-a-currency-converter-using-javascript-and-api-4fi5)
-- [Dev.to/JS] [You must know how to use Generics of Promises in TypeScript](https://dev.to/tomoy/you-must-know-how-to-use-generics-with-promises-in-typescript-1h8g)
-- [Dev.to/JS] [10 Powerful Node.js Libraries Every Developer Should Know About](https://dev.to/emiquelito/10-powerful-nodejs-libraries-every-developer-should-know-about-2c5g)
 - [Lifehacker] [What&#39;s New on Paramount+ in May 2023](https://lifehacker.com/whats-new-on-paramount-in-may-2023-1850379544)
 - [Lifehacker] [7-Eleven Will Let You Fill &lpar;Almost&rpar; Anything With Slurpee for $2](https://lifehacker.com/7-eleven-will-let-you-fill-almost-anything-with-slurp-1850379239)
 - [Lifehacker] [What&#39;s New on Netflix in May 2023](https://lifehacker.com/whats-new-on-netflix-in-may-2023-1850378655)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Wild New Canva AI Features You Should Know About](https://lifehacker.com/all-the-wild-new-canva-ai-features-you-should-know-abou-1850371955)
 - [Lifehacker] [YouTubers You’ll Actually Want Your Tweens to Follow](https://lifehacker.com/youtubers-you-ll-actually-want-your-tweens-to-follow-1850371298)
 - [Lifehacker] [10 of the First Things You Should Try With ChatGPT](https://lifehacker.com/10-of-the-first-things-you-should-try-with-chatgpt-1850368802)
-- [Lifehacker] [What ‘Breathe Into Your Back’ and Other Weird Yoga Terms Actually Mean](https://lifehacker.com/what-breathe-into-your-back-and-other-weird-yoga-term-1850370689)
-- [Lifehacker] [The Easy Way to Keep Your Brussels Sprouts From Sticking](https://lifehacker.com/the-easy-way-to-keep-your-brussels-sprouts-from-stickin-1850372718)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What ‘Breathe Into Your Back’ and Other Weird Yoga Terms Actually Mean](https://lifehacker.com/what-breathe-into-your-back-and-other-weird-yoga-term-1850370689)<!-- TECH-POSTS:END -->
 
 ---
 
