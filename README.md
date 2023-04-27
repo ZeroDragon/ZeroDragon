@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Immutable Primitive Values](https://dev.to/kristof1345/immutable-primitive-values-1ogl)
+- [Dev.to/JS] [React JS vs. React Native | Same JS Framework With Different Purposes](https://dev.to/ruqaiya/react-js-vs-react-native-same-js-framework-with-different-purposes-237p)
+- [Dev.to/JS] [DBS FOUNDATION CODING CAMP](https://dev.to/diyawandawan/dbs-foundation-coding-camp-46na)
+- [Dev.to/JS] [STORY OF MY LIFE](https://dev.to/karenzo2001/story-of-my-life-lb9)
 - [Dev.to/JS] [NetSuite Integration with Salesforce](https://dev.to/datarecove95829/netsuite-integration-with-salesforce-1dk4)
 - [Dev.to/JS] [Create a currency converter using Javascript and API](https://dev.to/incoderweb/create-a-currency-converter-using-javascript-and-api-4fi5)
 - [Dev.to/JS] [You must know how to use Generics of Promises in TypeScript](https://dev.to/tomoy/you-must-know-how-to-use-generics-with-promises-in-typescript-1h8g)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting Started with React Query](https://dev.to/emmalegend/getting-started-with-react-query-ia4)
 - [Dev.to/JS] [Real-World Uses for :has&lpar;&rpar; CSS Selector](https://dev.to/ahmed_aarafa/real-world-uses-for-has-css-selector-344m)
 - [Dev.to/JS] [x-crawl v7 version has been released](https://dev.to/coderhxl/x-crawl-v7-version-has-been-released-kf2)
-- [Dev.to/JS] [How can I view console.log&lpar;&rpar; statements when deploying a Next.js app on Vercel?](https://dev.to/jacksonkasi/how-can-i-view-consolelog-statements-when-deploying-a-nextjs-app-on-vercel-50no)
-- [Dev.to/JS] [This is why you don&#39;t use &lt;div&gt; in React again](https://dev.to/judaaaa/this-is-why-you-dont-use-in-react-again-5ca5)
-- [Dev.to/JS] [Node.js: Promise In Depth](https://dev.to/vikasvmads/nodejs-promise-in-depth-1008)
-- [Dev.to/JS] [Combining debugger statement and console.trace for faster issue debugging](https://dev.to/varadan13/combining-debugger-statement-and-consoletrace-for-faster-issue-debugging-175j)
 - [Lifehacker] [What&#39;s New on Paramount+ in May 2023](https://lifehacker.com/whats-new-on-paramount-in-may-2023-1850379544)
 - [Lifehacker] [7-Eleven Will Let You Fill &lpar;Almost&rpar; Anything With Slurpee for $2](https://lifehacker.com/7-eleven-will-let-you-fill-almost-anything-with-slurp-1850379239)
 - [Lifehacker] [What&#39;s New on Netflix in May 2023](https://lifehacker.com/whats-new-on-netflix-in-may-2023-1850378655)
