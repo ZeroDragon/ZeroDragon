@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [x-crawl v7 version has been released](https://dev.to/coderhxl/x-crawl-v7-version-has-been-released-kf2)
+- [Dev.to/JS] [How can I view console.log&lpar;&rpar; statements when deploying a Next.js app on Vercel?](https://dev.to/jacksonkasi/how-can-i-view-consolelog-statements-when-deploying-a-nextjs-app-on-vercel-50no)
 - [Dev.to/JS] [This is why you don&#39;t use &lt;div&gt; in React again](https://dev.to/judaaaa/this-is-why-you-dont-use-in-react-again-5ca5)
 - [Dev.to/JS] [Node.js: Promise In Depth](https://dev.to/vikasvmads/nodejs-promise-in-depth-1008)
 - [Dev.to/JS] [Combining debugger statement and console.trace for faster issue debugging](https://dev.to/varadan13/combining-debugger-statement-and-consoletrace-for-faster-issue-debugging-175j)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple Vanilla One-Time Password &lpar;OTP&rpar; module from scratch.](https://dev.to/josuews303/simple-vanilla-one-time-password-0tp-module-from-scratch-4mn0)
 - [Dev.to/JS] [[JS/TS] Cookie Muncher - Effortless cookie management](https://dev.to/bluzzi/jsts-cookie-muncher-effortless-cookie-management-1nfn)
 - [Dev.to/JS] [How can I calculate to make the virtual scroll list display properly? Thank you](https://dev.to/coderwx/how-can-i-calculate-to-make-the-virtual-scroll-list-display-properly-thank-you-2k1n)
-- [Dev.to/JS] [How I built a chat widget with ChatGPT in under an hour](https://dev.to/anantrp/how-i-built-a-chat-widget-with-chatgpt-in-under-an-hour-38kd)
-- [Dev.to/JS] [Building a Message Component for My Project](https://dev.to/arashjangali/building-a-message-component-for-my-project-fbc)
 - [Lifehacker] [What&#39;s New on Paramount+ in May 2023](https://lifehacker.com/whats-new-on-paramount-in-may-2023-1850379544)
 - [Lifehacker] [7-Eleven Will Let You Fill &lpar;Almost&rpar; Anything With Slurpee for $2](https://lifehacker.com/7-eleven-will-let-you-fill-almost-anything-with-slurp-1850379239)
 - [Lifehacker] [What&#39;s New on Netflix in May 2023](https://lifehacker.com/whats-new-on-netflix-in-may-2023-1850378655)
