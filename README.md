@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple Vanilla One-Time Password &lpar;OTP&rpar; module from scratch.](https://dev.to/josuews303/simple-vanilla-one-time-password-0tp-module-from-scratch-4mn0)
+- [Dev.to/JS] [[JS/TS] Cookie Muncher - Effortless cookie management](https://dev.to/bluzzi/jsts-cookie-muncher-effortless-cookie-management-1nfn)
 - [Dev.to/JS] [How can I calculate to make the virtual scroll list display properly? Thank you](https://dev.to/coderwx/how-can-i-calculate-to-make-the-virtual-scroll-list-display-properly-thank-you-2k1n)
 - [Dev.to/JS] [How I built a chat widget with ChatGPT in under an hour](https://dev.to/anantrp/how-i-built-a-chat-widget-with-chatgpt-in-under-an-hour-38kd)
 - [Dev.to/JS] [Building a Message Component for My Project](https://dev.to/arashjangali/building-a-message-component-for-my-project-fbc)
@@ -35,10 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Scrolling Animation for Apple AirPods](https://dev.to/bekbrace/creating-a-scrolling-animation-for-apple-airpods-3ke1)
 - [Lifehacker] [7-Eleven Will Let You Fill &lpar;Almost&rpar; Anything With Slurpee for $2](https://lifehacker.com/7-eleven-will-let-you-fill-almost-anything-with-slurp-1850379239)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Lados do mapa](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-lados-do-mapa-189o)
-- [Dev.to/JS] [Shallow Copy vs Deep Copy no JavaScript](https://dev.to/antiduhring/shallow-copy-vs-deep-copy-no-javascript-2h7g)
 - [Lifehacker] [What&#39;s New on Netflix in May 2023](https://lifehacker.com/whats-new-on-netflix-in-may-2023-1850378655)
 - [Lifehacker] [How Temping Really Works](https://lifehacker.com/how-temping-really-works-1850373531)
-- [Dev.to/JS] [JS Plays With Emojis!](https://dev.to/webpajooh/js-plays-with-emojis-2poh)
 - [Lifehacker] [You Can Now Use AI to Summarize the News You Read](https://lifehacker.com/you-can-now-use-ai-to-summarize-the-news-you-read-1850377953)
 - [Lifehacker] [How to Finally Use Google Authenticator Without Your Phone](https://lifehacker.com/how-to-finally-use-google-authenticator-without-your-ph-1850376595)
 - [Lifehacker] [You Can Finally Use WhatsApp on More Than One Phone](https://lifehacker.com/you-can-finally-use-whatsapp-on-more-than-one-phone-1850375181)
