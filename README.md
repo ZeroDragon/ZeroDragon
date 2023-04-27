@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Tech Learning Journey for 2023: Technologies, Courses, Books, and More](https://dev.to/brnms/my-tech-learning-journey-for-2023-technologies-courses-books-and-more-8g)
 - [Dev.to/JS] [Simple Vanilla One-Time Password &lpar;OTP&rpar; module from scratch.](https://dev.to/josuews303/simple-vanilla-one-time-password-0tp-module-from-scratch-4mn0)
 - [Dev.to/JS] [[JS/TS] Cookie Muncher - Effortless cookie management](https://dev.to/bluzzi/jsts-cookie-muncher-effortless-cookie-management-1nfn)
 - [Dev.to/JS] [How can I calculate to make the virtual scroll list display properly? Thank you](https://dev.to/coderwx/how-can-i-calculate-to-make-the-virtual-scroll-list-display-properly-thank-you-2k1n)
@@ -31,12 +32,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Object-oriented programming &lpar;OOP&rpar;](https://dev.to/abdulkabirsultan/object-oriented-programming-oop-21mo)
 - [Dev.to/JS] [Build a Basic Note-Taking App with MongoDB, Node.js, Express, and Bootstrap: A Step-by-Step Guide for Beginners](https://dev.to/omacys/build-a-basic-note-taking-app-with-mongodb-nodejs-express-and-bootstrap-a-step-by-step-guide-for-beginners-1f5k)
 - [Dev.to/JS] [Earn free tokens from Axia](https://dev.to/oleanji/earn-free-tokens-from-axia-438m)
+- [Dev.to/JS] [Effortless Scaling and Deployment: A Comprehensive Guide for Solo Developers and Time-Savers](https://dev.to/doziestar/effortless-scaling-and-deployment-a-comprehensive-guide-for-solo-developers-and-time-savers-5917)
 - [Dev.to/JS] [Building a full-stack e-commerce web app](https://dev.to/webdynamics/building-a-full-stack-e-commerce-web-app-4i45)
 - [Lifehacker] [What&#39;s New on Paramount+ in May 2023](https://lifehacker.com/whats-new-on-paramount-in-may-2023-1850379544)
 - [Dev.to/JS] [Separate a multi-digit integer into a single-digit array.](https://dev.to/laladiaz/separate-a-multi-digit-integer-into-a-single-digit-array-1ll2)
-- [Dev.to/JS] [Creating a Scrolling Animation for Apple AirPods](https://dev.to/bekbrace/creating-a-scrolling-animation-for-apple-airpods-3ke1)
 - [Lifehacker] [7-Eleven Will Let You Fill &lpar;Almost&rpar; Anything With Slurpee for $2](https://lifehacker.com/7-eleven-will-let-you-fill-almost-anything-with-slurp-1850379239)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Lados do mapa](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-lados-do-mapa-189o)
 - [Lifehacker] [What&#39;s New on Netflix in May 2023](https://lifehacker.com/whats-new-on-netflix-in-may-2023-1850378655)
 - [Lifehacker] [How Temping Really Works](https://lifehacker.com/how-temping-really-works-1850373531)
 - [Lifehacker] [You Can Now Use AI to Summarize the News You Read](https://lifehacker.com/you-can-now-use-ai-to-summarize-the-news-you-read-1850377953)
