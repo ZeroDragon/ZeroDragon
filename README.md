@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This App Lets You Search for Everything You’ve Ever Done on Your Mac](https://lifehacker.com/this-app-lets-you-search-for-everything-you-ve-ever-don-1850381648)
+- [Dev.to/JS] [How to get started with Redux Toolkit!](https://dev.to/emmalegend/how-to-get-started-with-redux-toolkit-2ikp)
+- [Lifehacker] [Why You Might Actually Want a Grass Driveway](https://lifehacker.com/why-you-might-actually-want-a-grass-driveway-1850381480)
+- [Dev.to/JS] [Descargar archivo PDF en una aplicación web con Vue.js y JavaScript](https://dev.to/fercarballo/descargar-archivo-pdf-en-una-aplicacion-web-con-vuejs-y-javascript-2glh)
+- [Lifehacker] [Why You Should Wear Wireless Earbuds to Your Next Concert](https://lifehacker.com/why-you-should-wear-wireless-earbuds-to-your-next-conce-1850381535)
 - [Lifehacker] [Why Haven&#39;t You Wrapped Your Cookies in Phyllo Dough?](https://lifehacker.com/why-havent-you-wrapped-your-cookies-in-phyllo-dough-1850382391)
 - [Dev.to/JS] [The Internet is Like a Convention: Why You Should Grab the Mic and Start Talking](https://dev.to/lakincoder/the-internet-is-like-a-convention-why-you-should-grab-the-mic-and-start-talking-1l1i)
 - [Dev.to/JS] [YAML: A Powerful Data Serialization Language](https://dev.to/sardarmudassaralikhan/yaml-a-powerful-data-serialization-language-4p5m)
@@ -39,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Most People Miss When Doing a Tick Check](https://lifehacker.com/what-most-people-miss-when-doing-a-tick-check-1850377780)
 - [Dev.to/JS] [React Hooks: Exploring the power of `useEffect` Hook.](https://dev.to/ghostaram/react-hooks-exploring-the-power-of-useeffect-hook-b11)
 - [Dev.to/JS] [Improve GitHub issues with AI 🦾](https://dev.to/maurerkrisztian/improve-github-issues-with-ai-4lam)
-- [Dev.to/JS] [Learn Designing with High-tech technology in Karnavati University](https://dev.to/vedantandloi/learn-designing-with-high-tech-technology-in-karnavati-university-42lc)
-- [Dev.to/JS] [Best Practices for Securing Vue.js Web Applications](https://dev.to/dhruviljoshi511/best-practices-for-securing-vuejs-web-applications-1j88)
 - [Lifehacker] [Mustard Is the Key to More Flavorful Breading](https://lifehacker.com/mustard-is-the-key-to-more-flavorful-breading-1850351057)
 - [Lifehacker] [The Easiest Way to Make Your Salad Less Boring](https://lifehacker.com/the-easiest-way-to-make-your-salad-less-boring-1850377567)
 - [Lifehacker] [How to Help Your Child Build Frustration Tolerance](https://lifehacker.com/how-to-help-your-child-build-frustration-tolerance-1850378876)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Every Gardener Needs a Visual Diary](https://lifehacker.com/why-every-gardener-needs-a-visual-diary-1850369863)
 - [Lifehacker] [A Mandoline Slicer Will Make You a Better Cook](https://lifehacker.com/a-mandoline-slicer-will-make-you-a-better-cook-1850338671)
 - [Lifehacker] [How to Sell Your Soul to the Devil](https://lifehacker.com/how-to-sell-your-soul-to-the-devil-1850353292)
-- [Lifehacker] [What Your Garden Needs Is a Power Drill](https://lifehacker.com/what-your-garden-needs-is-a-power-drill-1850370026)
-- [Lifehacker] [What&#39;s New on HBO Max in May 2023](https://lifehacker.com/whats-new-on-hbo-max-in-may-2023-1850374868)
-- [Lifehacker] [How to Get Rid of Snapchat’s Annoying, Lying AI Bot](https://lifehacker.com/how-to-get-rid-of-snapchat-s-annoying-lying-ai-bot-1850373612)
-- [Lifehacker] [This Tool Reveals How Far You Can Travel on Your Tax Refund](https://lifehacker.com/this-tool-reveals-how-far-you-can-travel-on-your-tax-re-1850373217)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Your Garden Needs Is a Power Drill](https://lifehacker.com/what-your-garden-needs-is-a-power-drill-1850370026)<!-- TECH-POSTS:END -->
 
 ---
 
