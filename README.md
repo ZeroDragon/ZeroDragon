@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Haven&#39;t You Wrapped Your Cookies in Phyllo Dough?](https://lifehacker.com/why-havent-you-wrapped-your-cookies-in-phyllo-dough-1850382391)
+- [Dev.to/JS] [The Internet is Like a Convention: Why You Should Grab the Mic and Start Talking](https://dev.to/lakincoder/the-internet-is-like-a-convention-why-you-should-grab-the-mic-and-start-talking-1l1i)
+- [Dev.to/JS] [YAML: A Powerful Data Serialization Language](https://dev.to/sardarmudassaralikhan/yaml-a-powerful-data-serialization-language-4p5m)
 - [Dev.to/JS] [BlazeJS v2.6.2 released!](https://dev.to/storytellercz/blazejs-v262-released-3keo)
 - [Dev.to/JS] [Drop-Shadow](https://dev.to/navinso92429049/drop-shadow-21af)
 - [Dev.to/JS] [GraphQL Vs. REST API](https://dev.to/himanshudevgupta/graphql-vs-rest-api-845)
@@ -39,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn Designing with High-tech technology in Karnavati University](https://dev.to/vedantandloi/learn-designing-with-high-tech-technology-in-karnavati-university-42lc)
 - [Dev.to/JS] [Best Practices for Securing Vue.js Web Applications](https://dev.to/dhruviljoshi511/best-practices-for-securing-vuejs-web-applications-1j88)
 - [Lifehacker] [Mustard Is the Key to More Flavorful Breading](https://lifehacker.com/mustard-is-the-key-to-more-flavorful-breading-1850351057)
-- [Dev.to/JS] [Customizing Vizzu Charts - Real-time data model](https://dev.to/simzer/customizing-vizzu-charts-real-time-data-model-ie9)
 - [Lifehacker] [The Easiest Way to Make Your Salad Less Boring](https://lifehacker.com/the-easiest-way-to-make-your-salad-less-boring-1850377567)
-- [Dev.to/JS] [Learn serverless on AWS step-by-step - Authentication](https://dev.to/kumo/learn-serverless-on-aws-authentication-with-cognito-19bo)
 - [Lifehacker] [How to Help Your Child Build Frustration Tolerance](https://lifehacker.com/how-to-help-your-child-build-frustration-tolerance-1850378876)
 - [Lifehacker] [What&#39;s New on Paramount+ in May 2023](https://lifehacker.com/whats-new-on-paramount-in-may-2023-1850379544)
 - [Lifehacker] [7-Eleven Will Let You Fill &lpar;Almost&rpar; Anything With Slurpee for $2](https://lifehacker.com/7-eleven-will-let-you-fill-almost-anything-with-slurp-1850379239)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Your Garden Needs Is a Power Drill](https://lifehacker.com/what-your-garden-needs-is-a-power-drill-1850370026)
 - [Lifehacker] [What&#39;s New on HBO Max in May 2023](https://lifehacker.com/whats-new-on-hbo-max-in-may-2023-1850374868)
 - [Lifehacker] [How to Get Rid of Snapchat’s Annoying, Lying AI Bot](https://lifehacker.com/how-to-get-rid-of-snapchat-s-annoying-lying-ai-bot-1850373612)
-- [Lifehacker] [This Tool Reveals How Far You Can Travel on Your Tax Refund](https://lifehacker.com/this-tool-reveals-how-far-you-can-travel-on-your-tax-re-1850373217)
-- [Lifehacker] [The Smartest Ways to Get a Recruiter&#39;s Attention &lpar;Without Being Obnoxious&rpar;](https://lifehacker.com/the-smartest-ways-to-get-a-recruiters-attention-withou-1850371644)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Tool Reveals How Far You Can Travel on Your Tax Refund](https://lifehacker.com/this-tool-reveals-how-far-you-can-travel-on-your-tax-re-1850373217)<!-- TECH-POSTS:END -->
 
 ---
 
