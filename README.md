@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Basic Note-Taking App with MongoDB, Node.js, Express, and Bootstrap: A Step-by-Step Guide for Beginners](https://dev.to/omacys/build-a-basic-note-taking-app-with-mongodb-nodejs-express-and-bootstrap-a-step-by-step-guide-for-beginners-1f5k)
+- [Dev.to/JS] [Earn free tokens from Axia](https://dev.to/oleanji/earn-free-tokens-from-axia-438m)
 - [Dev.to/JS] [Building a full-stack e-commerce web app](https://dev.to/webdynamics/building-a-full-stack-e-commerce-web-app-4i45)
 - [Lifehacker] [What&#39;s New on Paramount+ in May 2023](https://lifehacker.com/whats-new-on-paramount-in-may-2023-1850379544)
 - [Dev.to/JS] [Separate a multi-digit integer into a single-digit array.](https://dev.to/laladiaz/separate-a-multi-digit-integer-into-a-single-digit-array-1ll2)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Use AI to Summarize the News You Read](https://lifehacker.com/you-can-now-use-ai-to-summarize-the-news-you-read-1850377953)
 - [Dev.to/JS] [Control a 3D Model with Your Phone: A React, Three.js, and Socket.io Project 🚀](https://dev.to/namanvyas/control-a-3d-model-with-your-phone-a-react-threejs-and-socketio-project-356c)
 - [Lifehacker] [How to Finally Use Google Authenticator Without Your Phone](https://lifehacker.com/how-to-finally-use-google-authenticator-without-your-ph-1850376595)
-- [Dev.to/JS] [iOS App developers](https://dev.to/sirhh01/ios-app-developers-1037)
 - [Lifehacker] [You Can Finally Use WhatsApp on More Than One Phone](https://lifehacker.com/you-can-finally-use-whatsapp-on-more-than-one-phone-1850375181)
-- [Dev.to/JS] [Master the Art of DOM Manipulation - The Beginners Guide To Javascript&lpar;Part 7&rpar;](https://dev.to/camskithedev/master-the-art-of-dom-manipulation-the-beginners-guide-to-javascriptpart-7-2n3h)
 - [Lifehacker] [How to Turn a Bad Run Around](https://lifehacker.com/how-to-turn-a-bad-run-around-1850373028)
 - [Lifehacker] [What Magnesium Supplements Can Actually Do](https://lifehacker.com/what-magnesium-supplements-can-actually-do-1850372151)
 - [Lifehacker] [Seven Ways AI Can Help You Manage Your ADHD](https://lifehacker.com/seven-ways-ai-can-help-you-manage-your-adhd-1850373670)
