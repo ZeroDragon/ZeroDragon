@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Powerful Node.js Libraries Every Developer Should Know About](https://dev.to/emiquelito/10-powerful-nodejs-libraries-every-developer-should-know-about-2c5g)
+- [Dev.to/JS] [Data Storage in Cookies](https://dev.to/mukulbindal/data-storage-in-cookies-2dbd)
+- [Dev.to/JS] [Getting Started with React Query](https://dev.to/emmalegend/getting-started-with-react-query-ia4)
+- [Dev.to/JS] [Real-World Uses for :has&lpar;&rpar; CSS Selector](https://dev.to/ahmed_aarafa/real-world-uses-for-has-css-selector-344m)
 - [Dev.to/JS] [x-crawl v7 version has been released](https://dev.to/coderhxl/x-crawl-v7-version-has-been-released-kf2)
 - [Dev.to/JS] [How can I view console.log&lpar;&rpar; statements when deploying a Next.js app on Vercel?](https://dev.to/jacksonkasi/how-can-i-view-consolelog-statements-when-deploying-a-nextjs-app-on-vercel-50no)
 - [Dev.to/JS] [This is why you don&#39;t use &lt;div&gt; in React again](https://dev.to/judaaaa/this-is-why-you-dont-use-in-react-again-5ca5)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Breaking Down Success: What Separates Top Developers from the Rest](https://dev.to/dhruvindev/breaking-down-success-what-separates-top-developers-from-the-rest-210j)
 - [Dev.to/JS] [A Beginner’s Guide to Creating Basic Routes in Express.js](https://dev.to/vikasvmads/a-beginners-guide-to-creating-basic-routes-in-expressjs-4onk)
 - [Dev.to/JS] [DLF Floors in Gurgaon](https://dev.to/dlffloors/dlf-floors-in-gurgaon-21ie)
-- [Dev.to/JS] [My Tech Learning Journey for 2023: Technologies, Courses, Books, and More](https://dev.to/brnms/my-tech-learning-journey-for-2023-technologies-courses-books-and-more-8g)
-- [Dev.to/JS] [Simple Vanilla One-Time Password &lpar;OTP&rpar; module from scratch.](https://dev.to/josuews303/simple-vanilla-one-time-password-0tp-module-from-scratch-4mn0)
-- [Dev.to/JS] [[JS/TS] Cookie Muncher - Effortless cookie management](https://dev.to/bluzzi/jsts-cookie-muncher-effortless-cookie-management-1nfn)
-- [Dev.to/JS] [How can I calculate to make the virtual scroll list display properly? Thank you](https://dev.to/coderwx/how-can-i-calculate-to-make-the-virtual-scroll-list-display-properly-thank-you-2k1n)
 - [Lifehacker] [What&#39;s New on Paramount+ in May 2023](https://lifehacker.com/whats-new-on-paramount-in-may-2023-1850379544)
 - [Lifehacker] [7-Eleven Will Let You Fill &lpar;Almost&rpar; Anything With Slurpee for $2](https://lifehacker.com/7-eleven-will-let-you-fill-almost-anything-with-slurp-1850379239)
 - [Lifehacker] [What&#39;s New on Netflix in May 2023](https://lifehacker.com/whats-new-on-netflix-in-may-2023-1850378655)
