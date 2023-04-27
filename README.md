@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NetSuite Integration with Salesforce](https://dev.to/datarecove95829/netsuite-integration-with-salesforce-1dk4)
+- [Dev.to/JS] [Create a currency converter using Javascript and API](https://dev.to/incoderweb/create-a-currency-converter-using-javascript-and-api-4fi5)
+- [Dev.to/JS] [You must know how to use Generics of Promises in TypeScript](https://dev.to/tomoy/you-must-know-how-to-use-generics-with-promises-in-typescript-1h8g)
 - [Dev.to/JS] [10 Powerful Node.js Libraries Every Developer Should Know About](https://dev.to/emiquelito/10-powerful-nodejs-libraries-every-developer-should-know-about-2c5g)
 - [Dev.to/JS] [Data Storage in Cookies](https://dev.to/mukulbindal/data-storage-in-cookies-2dbd)
 - [Dev.to/JS] [Getting Started with React Query](https://dev.to/emmalegend/getting-started-with-react-query-ia4)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This is why you don&#39;t use &lt;div&gt; in React again](https://dev.to/judaaaa/this-is-why-you-dont-use-in-react-again-5ca5)
 - [Dev.to/JS] [Node.js: Promise In Depth](https://dev.to/vikasvmads/nodejs-promise-in-depth-1008)
 - [Dev.to/JS] [Combining debugger statement and console.trace for faster issue debugging](https://dev.to/varadan13/combining-debugger-statement-and-consoletrace-for-faster-issue-debugging-175j)
-- [Dev.to/JS] [Breaking Down Success: What Separates Top Developers from the Rest](https://dev.to/dhruvindev/breaking-down-success-what-separates-top-developers-from-the-rest-210j)
-- [Dev.to/JS] [A Beginner’s Guide to Creating Basic Routes in Express.js](https://dev.to/vikasvmads/a-beginners-guide-to-creating-basic-routes-in-expressjs-4onk)
-- [Dev.to/JS] [DLF Floors in Gurgaon](https://dev.to/dlffloors/dlf-floors-in-gurgaon-21ie)
 - [Lifehacker] [What&#39;s New on Paramount+ in May 2023](https://lifehacker.com/whats-new-on-paramount-in-may-2023-1850379544)
 - [Lifehacker] [7-Eleven Will Let You Fill &lpar;Almost&rpar; Anything With Slurpee for $2](https://lifehacker.com/7-eleven-will-let-you-fill-almost-anything-with-slurp-1850379239)
 - [Lifehacker] [What&#39;s New on Netflix in May 2023](https://lifehacker.com/whats-new-on-netflix-in-may-2023-1850378655)
