@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use psuedocode to quickly learn React](https://dev.to/mcwhopper63/use-psuedocode-to-quickly-learn-react-2jbi)
 - [Dev.to/JS] [Internationalization: Making Your Web App Accessible to Everyone 🌍](https://dev.to/sajidrsk/internationalization-making-your-web-app-accessible-to-everyone-3ndp)
 - [Dev.to/JS] [TypeScript: A Strongly Typed Hero for Production-Grade Web Apps 🦸‍♂️](https://dev.to/sajidrsk/typescript-a-strongly-typed-hero-for-production-grade-web-apps-46ec)
 - [Dev.to/JS] [Free Production Ready Next.js Template](https://dev.to/sajidrsk/production-ready-nextjs-template-399m)
@@ -38,11 +39,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Viagra Pills Have Been Recalled for Safety, FDA Says](https://lifehacker.com/these-viagra-pills-have-been-recalled-for-safety-fda-s-1850384772)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: A grade de pesquisa](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-a-grade-de-pesquisa-dpa)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Fox News Settlement](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-fox-news-s-1850383991)
-- [Dev.to/JS] [I Built This - Despite a Flaw in Rust&#39;s WebAssembly Toolchain](https://dev.to/speratus/i-built-this-despite-a-flaw-in-rusts-webassembly-toolchain-38p2)
+- [Dev.to/JS] [How to Use Rust Code in a JavaScript Worklet &lpar;Without wasm-pack&rpar;](https://dev.to/speratus/i-built-this-despite-a-flaw-in-rusts-webassembly-toolchain-38p2)
 - [Lifehacker] [Things I Wish I’d Known Before I Bought a Robot Vacuum](https://lifehacker.com/things-i-wish-i-d-known-before-i-bought-a-robot-vacuum-1850382900)
 - [Dev.to/JS] [React Routing: Navigating Pages with `react-router-dom`.](https://dev.to/ghostaram/react-routing-navigating-pages-with-react-router-dom-3o3p)
 - [Dev.to/JS] [Using `.map&lpar;&rpar;` in JavaScript](https://dev.to/drwomble/using-map-in-javascript-499)
-- [Dev.to/JS] [process.env.NODE_ENV.](https://dev.to/shaharyarternion/processenvnodeenv-1ni0)
 - [Lifehacker] [Get a Free Sandwich From Dave&#39;s Hot Chicken](https://lifehacker.com/get-a-free-sandwich-from-daves-hot-chicken-1850384214)
 - [Lifehacker] [Google Meet Now Supports 1080p Video Calls &lpar;for Some of Us&rpar;](https://lifehacker.com/google-meet-now-supports-1080p-video-calls-for-some-of-1850383447)
 - [Lifehacker] [Now You Can Call ChatGPT on the Phone](https://lifehacker.com/now-you-can-call-chatgpt-on-the-phone-1850379770)
