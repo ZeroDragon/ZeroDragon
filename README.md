@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Google Meet Now Supports 1080p Video Calls &lpar;for Some of Us&rpar;](https://lifehacker.com/google-meet-now-supports-1080p-video-calls-for-some-of-1850383447)
+- [Dev.to/JS] [Build a product gallery app easily with TailwindCSS and StorefrontUI](https://dev.to/mayashavin/build-a-product-gallery-app-easily-with-tailwindcss-and-storefrontui-3j75)
+- [Lifehacker] [Now You Can Call ChatGPT on the Phone](https://lifehacker.com/now-you-can-call-chatgpt-on-the-phone-1850379770)
+- [Dev.to/JS] [How I can get the selected option on element upon change in Jquery?](https://dev.to/pcmagas/how-i-can-get-the-selected-option-on-element-upon-change-in-jquery-19ng)
 - [Lifehacker] [Your Old Email Address Is Hurting Your Job Prospects](https://lifehacker.com/your-old-email-address-is-hurting-your-job-prospects-1850348243)
 - [Dev.to/JS] [How to Code the Binary Search Algorithm](https://dev.to/nielsenjared/how-to-code-the-binary-search-algorithm-12e0)
 - [Lifehacker] [This Is the Best Reason to Save Your Champagne Corks](https://lifehacker.com/this-is-the-best-reason-to-save-your-champagne-corks-1850339119)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🤖Discord Bot Programmed ... in Discord!](https://dev.to/mistval/discord-bot-programmed-in-discord-22c)
 - [Lifehacker] [The Easiest Way to Prevent a Runny Omelette](https://lifehacker.com/the-easiest-way-to-prevent-a-runny-omelette-1850382914)
 - [Dev.to/JS] [Creating a Real Time Multi Host Video Chat in a Browser with Amazon IVS](https://dev.to/aws/creating-a-real-time-multi-host-video-chat-in-a-browser-with-amazon-ivs-m44)
-- [Dev.to/JS] [How true is this 🧐🧐](https://dev.to/techbyoscar/how-true-is-this-10bm)
-- [Dev.to/JS] [What the are Prototypes in JavaScript](https://dev.to/akpevwe11/what-the-are-prototypes-in-javascript-50bi)
 - [Lifehacker] [Things You Should Never Clean With Windex](https://lifehacker.com/things-you-should-never-clean-with-windex-1850382510)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in May 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-may-2023-1850383975)
 - [Lifehacker] [These Kias and Hyundais Are Being Blacklisted by Some Insurance Companies](https://lifehacker.com/these-kias-and-hyundais-are-being-blacklisted-by-some-i-1850383633)
@@ -48,7 +50,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Might Actually Want a Grass Driveway](https://lifehacker.com/why-you-might-actually-want-a-grass-driveway-1850381480)
 - [Lifehacker] [Why You Should Wear Wireless Earbuds to Your Next Concert](https://lifehacker.com/why-you-should-wear-wireless-earbuds-to-your-next-conce-1850381535)
 - [Lifehacker] [Why Haven&#39;t You Wrapped Your Cookies in Phyllo Dough?](https://lifehacker.com/why-havent-you-wrapped-your-cookies-in-phyllo-dough-1850382391)
-- [Lifehacker] [When Can You Legally Shoot Someone on Your Property?](https://lifehacker.com/when-can-you-legally-shoot-someone-on-your-property-1850380021)
+- [Lifehacker] [It&#39;s Almost Never Legal to Shoot Someone](https://lifehacker.com/when-can-you-legally-shoot-someone-on-your-property-1850380021)
 - [Lifehacker] [Your Ground Cumin May Have Been Recalled for Salmonella](https://lifehacker.com/your-ground-cumin-may-have-been-recalled-for-salmonella-1850379635)
 - [Lifehacker] [You Can Stop Training ChatGPT With Your Questions and Conversations](https://lifehacker.com/you-can-stop-training-chatgpt-with-your-questions-and-c-1850378821)
 - [Lifehacker] [These Towns Will Pay You to Move There](https://lifehacker.com/these-towns-will-pay-you-to-move-there-1850378065)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7-Eleven Will Let You Fill &lpar;Almost&rpar; Anything With Slurpee for $2](https://lifehacker.com/7-eleven-will-let-you-fill-almost-anything-with-slurp-1850379239)
 - [Lifehacker] [What&#39;s New on Netflix in May 2023](https://lifehacker.com/whats-new-on-netflix-in-may-2023-1850378655)
 - [Lifehacker] [How Temping Really Works](https://lifehacker.com/how-temping-really-works-1850373531)
-- [Lifehacker] [You Can Now Use AI to Summarize the News You Read](https://lifehacker.com/you-can-now-use-ai-to-summarize-the-news-you-read-1850377953)
-- [Lifehacker] [How to Finally Use Google Authenticator Without Your Phone](https://lifehacker.com/how-to-finally-use-google-authenticator-without-your-ph-1850376595)
-- [Lifehacker] [You Can Finally Use WhatsApp on More Than One Phone](https://lifehacker.com/you-can-finally-use-whatsapp-on-more-than-one-phone-1850375181)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Now Use AI to Summarize the News You Read](https://lifehacker.com/you-can-now-use-ai-to-summarize-the-news-you-read-1850377953)<!-- TECH-POSTS:END -->
 
 ---
 
