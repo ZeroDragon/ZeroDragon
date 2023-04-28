@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Do browsers really understand JSX? What are transpilers?](https://dev.to/rounit08/do-browsers-really-understand-jsx-what-are-transpilers-27ij)
+- [Dev.to/JS] [Lerna: Simplifying Multi-Package JavaScript Projects with Monorepo](https://dev.to/prasenjeetsymon/lerna-simplifying-multi-package-javascript-projects-with-monorepo-4a97)
 - [Dev.to/JS] [The new version of x-crawl v7 has been released!](https://dev.to/coderhxl/the-new-version-of-x-crawl-v7-has-been-released-1053)
 - [Dev.to/JS] [Code Smell 209 - Side Effects](https://dev.to/mcsee/code-smell-209-side-effects-13l8)
 - [Dev.to/JS] [Clarity Through Destructuring](https://dev.to/hillswor/clarity-through-destructuring-2eeg)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀 Node.js: Hızlı, Esnek ve Ölçeklenebilir Web Geliştirme Deneyimi!](https://dev.to/aybikedalbul/nodejs-hizli-esnek-ve-olceklenebilir-web-gelistirme-deneyimi-12oj)
 - [Dev.to/JS] [Enabling Communication: Adding Messaging Feature to the Contractr App](https://dev.to/arashjangali/enabling-communication-adding-messaging-feature-to-the-contractr-app-3jd0)
 - [Dev.to/JS] [Dominando Promises em JavaScript: Encadeamento, Promise.all e tratamento de erros](https://dev.to/ramonborges15/dominando-promises-em-javascript-encadeamento-promiseall-e-tratamento-de-erros-1ff5)
-- [Dev.to/JS] [What is JavaScript?](https://dev.to/philipjohnbasile/what-is-javascript-50pc)
-- [Dev.to/JS] [Invariant Violation: requireNativeComponent: “RNSScreenStackHeaderSubview” was not found in the UIManager](https://dev.to/okorelens/invariant-violation-requirenativecomponent-rnsscreenstackheadersubview-was-not-found-in-the-uimanager-3op6)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in May 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-may-2023-1850383975)
 - [Lifehacker] [These Kias and Hyundais Are Being Blacklisted by Some Insurance Companies](https://lifehacker.com/these-kias-and-hyundais-are-being-blacklisted-by-some-i-1850383633)
 - [Lifehacker] [Some Melatonin Gummies Are Way Stronger Than Advertised](https://lifehacker.com/some-melatonin-gummies-are-way-stronger-than-advertised-1850383023)
