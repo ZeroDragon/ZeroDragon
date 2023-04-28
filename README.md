@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a generated honeycomb card with html, css, js.](https://dev.to/joanverhulst/creating-a-generated-honeycomb-card-with-html-css-js-2dep)
+- [Lifehacker] [Microsoft Will Never Update Windows 10 Again &lpar;But You Can Keep Using It&rpar;](https://lifehacker.com/microsoft-will-never-update-windows-10-again-but-you-c-1850386188)
+- [Dev.to/JS] [Understanding how React handles state updates.](https://dev.to/anmoltiwari-dev/understanding-how-react-handles-state-updates-bg0)
+- [Dev.to/JS] [[Design Pattern] Chain of responsibility in Typescript with real world example](https://dev.to/akramsmahmoud/design-pattern-chain-of-responsibility-in-typescript-with-real-world-example-2d4e)
+- [Lifehacker] [This Chrome Extension Quickly Creates Flash Cards Based on Any Article or Video](https://lifehacker.com/this-chrome-extension-quickly-creates-flash-cards-based-1850385363)
 - [Lifehacker] [The Best Way to Know If You&#39;re Ready for a Big Test](https://lifehacker.com/the-best-way-to-know-if-youre-ready-for-a-big-test-1850379720)
 - [Lifehacker] [These Viagra Pills Have Been Recalled for Safety, FDA Says](https://lifehacker.com/these-viagra-pills-have-been-recalled-for-safety-fda-s-1850384772)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: A grade de pesquisa](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-a-grade-de-pesquisa-dpa)
@@ -38,11 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AA credit loan customer care number 👉☎️ 8250474308💥✔️](https://dev.to/fatkumar/aa-credit-loan-customer-care-number-8250474308-3mc)
 - [Dev.to/JS] [AA credit loan customer care number 👉☎️ 8250474308💥✔️](https://dev.to/fatkumar/aa-credit-loan-customer-care-number-8250474308-3c0c)
 - [Lifehacker] [Google Meet Now Supports 1080p Video Calls &lpar;for Some of Us&rpar;](https://lifehacker.com/google-meet-now-supports-1080p-video-calls-for-some-of-1850383447)
-- [Dev.to/JS] [Build a product gallery app easily with TailwindCSS and StorefrontUI](https://dev.to/mayashavin/build-a-product-gallery-app-easily-with-tailwindcss-and-storefrontui-3j75)
 - [Lifehacker] [Now You Can Call ChatGPT on the Phone](https://lifehacker.com/now-you-can-call-chatgpt-on-the-phone-1850379770)
-- [Dev.to/JS] [How I can get the selected option on element upon change in Jquery?](https://dev.to/pcmagas/how-i-can-get-the-selected-option-on-element-upon-change-in-jquery-19ng)
 - [Lifehacker] [Your Old Email Address Is Hurting Your Job Prospects](https://lifehacker.com/your-old-email-address-is-hurting-your-job-prospects-1850348243)
-- [Dev.to/JS] [How to Code the Binary Search Algorithm](https://dev.to/nielsenjared/how-to-code-the-binary-search-algorithm-12e0)
 - [Lifehacker] [This Is the Best Reason to Save Your Champagne Corks](https://lifehacker.com/this-is-the-best-reason-to-save-your-champagne-corks-1850339119)
 - [Lifehacker] [13 Movies That Reveal Hollywood’s Obsession With Nikes](https://lifehacker.com/13-movies-that-made-the-world-fall-in-love-with-nikes-1850374580)
 - [Lifehacker] [The Easiest Way to Prevent a Runny Omelette](https://lifehacker.com/the-easiest-way-to-prevent-a-runny-omelette-1850382914)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Stop Training ChatGPT With Your Questions and Conversations](https://lifehacker.com/you-can-stop-training-chatgpt-with-your-questions-and-c-1850378821)
 - [Lifehacker] [These Towns Will Pay You to Move There](https://lifehacker.com/these-towns-will-pay-you-to-move-there-1850378065)
 - [Lifehacker] [What Most People Miss When Doing a Tick Check](https://lifehacker.com/what-most-people-miss-when-doing-a-tick-check-1850377780)
-- [Lifehacker] [Mustard Is the Key to More Flavorful Breading](https://lifehacker.com/mustard-is-the-key-to-more-flavorful-breading-1850351057)
-- [Lifehacker] [The Easiest Way to Make Your Salad Less Boring](https://lifehacker.com/the-easiest-way-to-make-your-salad-less-boring-1850377567)
-- [Lifehacker] [How to Help Your Child Build Frustration Tolerance](https://lifehacker.com/how-to-help-your-child-build-frustration-tolerance-1850378876)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Mustard Is the Key to More Flavorful Breading](https://lifehacker.com/mustard-is-the-key-to-more-flavorful-breading-1850351057)<!-- TECH-POSTS:END -->
 
 ---
 
