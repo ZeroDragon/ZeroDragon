@@ -23,8 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Old Email Address Is Hurting Your Job Prospects](https://lifehacker.com/your-old-email-address-is-hurting-your-job-prospects-1850348243)
+- [Dev.to/JS] [How to Code the Binary Search Algorithm](https://dev.to/nielsenjared/how-to-code-the-binary-search-algorithm-12e0)
+- [Lifehacker] [This Is the Best Reason to Save Your Champagne Corks](https://lifehacker.com/this-is-the-best-reason-to-save-your-champagne-corks-1850339119)
+- [Dev.to/JS] [Last week top 5 posts tagged&lpar;#javascript&rpar;](https://dev.to/c4r4x35/last-week-top-5-posts-taggedjavascript-1bd9)
+- [Dev.to/JS] [Ezpie Challenge: e-commerce site.](https://dev.to/ezpieco/ezpie-challenge-e-commerce-site-46fg)
+- [Dev.to/JS] [Is JavaScript really the ultimate all-purpose tool in the software world?](https://dev.to/coursepilottech/is-javascript-really-the-ultimate-all-purpose-tool-in-the-software-world-16lb)
 - [Dev.to/JS] [Criando um List Generator com React](https://dev.to/rodrigozan/criando-um-list-generator-com-react-gdp)
-- [Lifehacker] [13 Movies That Made the World Fall in Love With Nikes](https://lifehacker.com/13-movies-that-made-the-world-fall-in-love-with-nikes-1850374580)
+- [Lifehacker] [13 Movies That Also Star a Pair of Nikes](https://lifehacker.com/13-movies-that-made-the-world-fall-in-love-with-nikes-1850374580)
 - [Dev.to/JS] [Loops in React JSX: A Deep Dive into the Basics](https://dev.to/andersonvilela/loops-in-react-jsx-a-deep-dive-into-the-basics-3bn)
 - [Dev.to/JS] [Journey I Learn How to Code](https://dev.to/juanryhn/journey-i-learn-how-to-code-ba8)
 - [Dev.to/JS] [How to Add Chatbot to your Bigcommerce store](https://dev.to/devashishmamgain/how-to-add-chatbot-to-your-bigcommerce-store-3m50)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How true is this 🧐🧐](https://dev.to/techbyoscar/how-true-is-this-10bm)
 - [Dev.to/JS] [What the are Prototypes in JavaScript](https://dev.to/akpevwe11/what-the-are-prototypes-in-javascript-50bi)
 - [Lifehacker] [Things You Should Never Clean With Windex](https://lifehacker.com/things-you-should-never-clean-with-windex-1850382510)
-- [Dev.to/JS] [Everything you need to know about Webpack&#39;s Bundle-Analyzer](https://dev.to/mbarzeev/everything-you-need-to-know-about-webpacks-bundle-analyzer-g0l)
-- [Dev.to/JS] [What&#39;s New in Novu 0.14.0?](https://dev.to/novu/whats-new-in-novu-0140-4p5c)
-- [Dev.to/JS] [How to improve the page speed index of your website? - Part 2](https://dev.to/canopassoftware/how-to-improve-the-page-speed-index-of-your-website-3dl3)
-- [Dev.to/JS] [How To manage Different Versions of Node in Your system](https://dev.to/mumenyam/node-series-2cj5)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in May 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-may-2023-1850383975)
 - [Lifehacker] [These Kias and Hyundais Are Being Blacklisted by Some Insurance Companies](https://lifehacker.com/these-kias-and-hyundais-are-being-blacklisted-by-some-i-1850383633)
 - [Lifehacker] [Some Melatonin Gummies Are Way Stronger Than Advertised](https://lifehacker.com/some-melatonin-gummies-are-way-stronger-than-advertised-1850383023)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Temping Really Works](https://lifehacker.com/how-temping-really-works-1850373531)
 - [Lifehacker] [You Can Now Use AI to Summarize the News You Read](https://lifehacker.com/you-can-now-use-ai-to-summarize-the-news-you-read-1850377953)
 - [Lifehacker] [How to Finally Use Google Authenticator Without Your Phone](https://lifehacker.com/how-to-finally-use-google-authenticator-without-your-ph-1850376595)
-- [Lifehacker] [You Can Finally Use WhatsApp on More Than One Phone](https://lifehacker.com/you-can-finally-use-whatsapp-on-more-than-one-phone-1850375181)
-- [Lifehacker] [How to Turn a Bad Run Around](https://lifehacker.com/how-to-turn-a-bad-run-around-1850373028)
-- [Lifehacker] [What Magnesium Supplements Can Actually Do](https://lifehacker.com/what-magnesium-supplements-can-actually-do-1850372151)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Finally Use WhatsApp on More Than One Phone](https://lifehacker.com/you-can-finally-use-whatsapp-on-more-than-one-phone-1850375181)<!-- TECH-POSTS:END -->
 
 ---
 
