@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My first VSCode Extension](https://dev.to/junsantilla/my-first-vscode-extension-3ke6)
+- [Dev.to/JS] [JavaScript Arrays](https://dev.to/pedromarungo/javascript-arrays-3505)
+- [Dev.to/JS] [Crafting a mobile menu with Tailwind CSS without JavaScript](https://dev.to/seppegadeyne/crafting-a-mobile-menu-with-tailwind-css-without-javascript-1814)
+- [Dev.to/JS] [How to build a Chrome Extension with Flutter in 2023| Guided Tutorial](https://dev.to/sandy088/how-to-build-a-chrome-extension-with-flutter-in-2023-guided-tutorial-be4)
 - [Dev.to/JS] [What I have learned so far in React.](https://dev.to/sanket_kumbhare/what-i-have-learned-so-far-in-react-3jc8)
 - [Dev.to/JS] [How to Use APIs](https://dev.to/blujay0/how-to-use-apis-1ion)
-- [Dev.to/JS] [How JavaScript&#39;s Fetch API works under the hood](https://dev.to/leduc1901/how-javascripts-fetch-api-works-under-the-hood-3n9p)
 - [Dev.to/JS] [Cookies vs Local Storage vs Session Storage](https://dev.to/manthanank/cookies-vs-local-storage-vs-session-storage-1d7i)
 - [Dev.to/JS] [What&#39;s new in Node.js 18: A comprehensive guide](https://dev.to/ifourtechnolab/whats-new-in-nodejs-18-a-comprehensive-guide-41m9)
 - [Dev.to/JS] [Accessing Objects in JavaScript: Dot Notation vs Bracket Notation](https://dev.to/stephikebudu/accessing-objects-in-javascript-dot-notation-vs-bracket-notation-ch3)
 - [Dev.to/JS] [Do browsers really understand JSX? What are transpilers?](https://dev.to/rounit08/do-browsers-really-understand-jsx-what-are-transpilers-27ij)
 - [Dev.to/JS] [Lerna: Simplifying Multi-Package JavaScript Projects with Monorepo](https://dev.to/prasenjeetsymon/lerna-simplifying-multi-package-javascript-projects-with-monorepo-4a97)
 - [Dev.to/JS] [The new version of x-crawl v7 has been released!](https://dev.to/coderhxl/the-new-version-of-x-crawl-v7-has-been-released-1053)
-- [Dev.to/JS] [Code Smell 209 - Side Effects](https://dev.to/mcsee/code-smell-209-side-effects-13l8)
-- [Dev.to/JS] [Clarity Through Destructuring](https://dev.to/hillswor/clarity-through-destructuring-2eeg)
-- [Dev.to/JS] [Variable Scope Pollution](https://dev.to/pedromarungo/variable-scope-pollution-7j1)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in May 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-may-2023-1850383975)
 - [Lifehacker] [These Kias and Hyundais Are Being Blacklisted by Some Insurance Companies](https://lifehacker.com/these-kias-and-hyundais-are-being-blacklisted-by-some-i-1850383633)
 - [Lifehacker] [Some Melatonin Gummies Are Way Stronger Than Advertised](https://lifehacker.com/some-melatonin-gummies-are-way-stronger-than-advertised-1850383023)
