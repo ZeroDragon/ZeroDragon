@@ -23,19 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Criando um List Generator com React](https://dev.to/rodrigozan/criando-um-list-generator-com-react-gdp)
+- [Lifehacker] [13 Movies That Made the World Fall in Love With Nikes](https://lifehacker.com/13-movies-that-made-the-world-fall-in-love-with-nikes-1850374580)
+- [Dev.to/JS] [Loops in React JSX: A Deep Dive into the Basics](https://dev.to/andersonvilela/loops-in-react-jsx-a-deep-dive-into-the-basics-3bn)
+- [Dev.to/JS] [Journey I Learn How to Code](https://dev.to/juanryhn/journey-i-learn-how-to-code-ba8)
+- [Dev.to/JS] [How to Add Chatbot to your Bigcommerce store](https://dev.to/devashishmamgain/how-to-add-chatbot-to-your-bigcommerce-store-3m50)
+- [Dev.to/JS] [🤖Discord Bot Programmed ... in Discord!](https://dev.to/mistval/discord-bot-programmed-in-discord-22c)
+- [Lifehacker] [The Easiest Way to Prevent a Runny Omelette](https://lifehacker.com/the-easiest-way-to-prevent-a-runny-omelette-1850382914)
+- [Dev.to/JS] [Creating a Real Time Multi Host Video Chat in a Browser with Amazon IVS](https://dev.to/aws/creating-a-real-time-multi-host-video-chat-in-a-browser-with-amazon-ivs-m44)
+- [Dev.to/JS] [How true is this 🧐🧐](https://dev.to/techbyoscar/how-true-is-this-10bm)
+- [Dev.to/JS] [What the are Prototypes in JavaScript](https://dev.to/akpevwe11/what-the-are-prototypes-in-javascript-50bi)
 - [Lifehacker] [Things You Should Never Clean With Windex](https://lifehacker.com/things-you-should-never-clean-with-windex-1850382510)
 - [Dev.to/JS] [Everything you need to know about Webpack&#39;s Bundle-Analyzer](https://dev.to/mbarzeev/everything-you-need-to-know-about-webpacks-bundle-analyzer-g0l)
 - [Dev.to/JS] [What&#39;s New in Novu 0.14.0?](https://dev.to/novu/whats-new-in-novu-0140-4p5c)
 - [Dev.to/JS] [How to improve the page speed index of your website? - Part 2](https://dev.to/canopassoftware/how-to-improve-the-page-speed-index-of-your-website-3dl3)
 - [Dev.to/JS] [How To manage Different Versions of Node in Your system](https://dev.to/mumenyam/node-series-2cj5)
-- [Dev.to/JS] [having issue in array in Js](https://dev.to/samarthsaxena10/having-issue-in-array-in-js-2kfp)
-- [Dev.to/JS] [Are refresh tokens really safe from XSS?](https://dev.to/logharaa/are-refresh-tokens-really-safe-from-xss-4208)
-- [Dev.to/JS] [How to build an Accordion Menu](https://dev.to/devlawrence/how-to-build-an-accordion-menu-1e30)
-- [Dev.to/JS] [Frames in Web Development | DataTableDev](https://dev.to/datatabledev/frames-in-web-development-datatabledev-47ih)
-- [Dev.to/JS] [MVU update](https://dev.to/artydev/mvu-update-16h0)
-- [Dev.to/JS] [My first VSCode Extension](https://dev.to/junsantilla/my-first-vscode-extension-3ke6)
-- [Dev.to/JS] [JavaScript Arrays](https://dev.to/pedromarungo/javascript-arrays-3505)
-- [Dev.to/JS] [Crafting a mobile menu with Tailwind CSS without JavaScript](https://dev.to/seppegadeyne/crafting-a-mobile-menu-with-tailwind-css-without-javascript-1814)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in May 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-may-2023-1850383975)
 - [Lifehacker] [These Kias and Hyundais Are Being Blacklisted by Some Insurance Companies](https://lifehacker.com/these-kias-and-hyundais-are-being-blacklisted-by-some-i-1850383633)
 - [Lifehacker] [Some Melatonin Gummies Are Way Stronger Than Advertised](https://lifehacker.com/some-melatonin-gummies-are-way-stronger-than-advertised-1850383023)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Finally Use Google Authenticator Without Your Phone](https://lifehacker.com/how-to-finally-use-google-authenticator-without-your-ph-1850376595)
 - [Lifehacker] [You Can Finally Use WhatsApp on More Than One Phone](https://lifehacker.com/you-can-finally-use-whatsapp-on-more-than-one-phone-1850375181)
 - [Lifehacker] [How to Turn a Bad Run Around](https://lifehacker.com/how-to-turn-a-bad-run-around-1850373028)
-- [Lifehacker] [What Magnesium Supplements Can Actually Do](https://lifehacker.com/what-magnesium-supplements-can-actually-do-1850372151)
-- [Lifehacker] [Seven Ways AI Can Help You Manage Your ADHD](https://lifehacker.com/seven-ways-ai-can-help-you-manage-your-adhd-1850373670)
-- [Lifehacker] [Grow Your Veggies in a Bag This Summer](https://lifehacker.com/grow-your-veggies-in-a-bag-this-summer-1850373469)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Magnesium Supplements Can Actually Do](https://lifehacker.com/what-magnesium-supplements-can-actually-do-1850372151)<!-- TECH-POSTS:END -->
 
 ---
 
