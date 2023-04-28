@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is JavaScript?](https://dev.to/philipjohnbasile/what-is-javascript-50pc)
 - [Dev.to/JS] [Invariant Violation: requireNativeComponent: “RNSScreenStackHeaderSubview” was not found in the UIManager](https://dev.to/okorelens/invariant-violation-requirenativecomponent-rnsscreenstackheadersubview-was-not-found-in-the-uimanager-3op6)
 - [Dev.to/JS] [The Role of Node.js in Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/folasayosamuel/the-role-of-nodejs-in-progressive-web-apps-pwas-35b2)
 - [Dev.to/JS] [Why upgrade to Yarn Berry?](https://dev.to/raxraj/why-upgrade-to-yarn-berry-2pdk)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LookUp Table Pattern Javascript](https://dev.to/samsantosb/lookup-table-pattern-javascript-2pm7)
 - [Dev.to/JS] [Javascript Indexing Pattern](https://dev.to/samsantosb/javascript-indexing-pattern-2850)
 - [Lifehacker] [This App Lets You Search for Everything You’ve Ever Done on Your Mac](https://lifehacker.com/this-app-lets-you-search-for-everything-you-ve-ever-don-1850381648)
-- [Dev.to/JS] [How to get started with Redux Toolkit!](https://dev.to/emmalegend/how-to-get-started-with-redux-toolkit-2ikp)
 - [Lifehacker] [Nobody Can Agree on What &#39;Zone 2&#39; Cardio Is](https://lifehacker.com/nobody-can-agree-on-what-zone-2-cardio-is-1850379968)
 - [Lifehacker] [Why You Might Actually Want a Grass Driveway](https://lifehacker.com/why-you-might-actually-want-a-grass-driveway-1850381480)
 - [Lifehacker] [Why You Should Wear Wireless Earbuds to Your Next Concert](https://lifehacker.com/why-you-should-wear-wireless-earbuds-to-your-next-conce-1850381535)
