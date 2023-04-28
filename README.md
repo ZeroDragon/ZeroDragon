@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Way to Know If You&#39;re Ready for a Big Test](https://lifehacker.com/the-best-way-to-know-if-youre-ready-for-a-big-test-1850379720)
 - [Lifehacker] [These Viagra Pills Have Been Recalled for Safety, FDA Says](https://lifehacker.com/these-viagra-pills-have-been-recalled-for-safety-fda-s-1850384772)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: A grade de pesquisa](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-a-grade-de-pesquisa-dpa)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Fox News Settlement](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-fox-news-s-1850383991)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Most People Miss When Doing a Tick Check](https://lifehacker.com/what-most-people-miss-when-doing-a-tick-check-1850377780)
 - [Lifehacker] [Mustard Is the Key to More Flavorful Breading](https://lifehacker.com/mustard-is-the-key-to-more-flavorful-breading-1850351057)
 - [Lifehacker] [The Easiest Way to Make Your Salad Less Boring](https://lifehacker.com/the-easiest-way-to-make-your-salad-less-boring-1850377567)
-- [Lifehacker] [How to Help Your Child Build Frustration Tolerance](https://lifehacker.com/how-to-help-your-child-build-frustration-tolerance-1850378876)
-- [Lifehacker] [What&#39;s New on Paramount+ in May 2023](https://lifehacker.com/whats-new-on-paramount-in-may-2023-1850379544)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Help Your Child Build Frustration Tolerance](https://lifehacker.com/how-to-help-your-child-build-frustration-tolerance-1850378876)<!-- TECH-POSTS:END -->
 
 ---
 
