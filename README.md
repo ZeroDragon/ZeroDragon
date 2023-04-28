@@ -23,7 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [HTML Unminify](https://dev.to/mrexamples/html-unminify-2d1p)
+- [Dev.to/JS] [How to improve the page speed index of your website? - Part 2](https://dev.to/canopassoftware/how-to-improve-the-page-speed-index-of-your-website-3dl3)
+- [Dev.to/JS] [How To manage Different Versions of Node in Your system](https://dev.to/mumenyam/node-series-2cj5)
 - [Dev.to/JS] [having issue in array in Js](https://dev.to/samarthsaxena10/having-issue-in-array-in-js-2kfp)
 - [Dev.to/JS] [Are refresh tokens really safe from XSS?](https://dev.to/logharaa/are-refresh-tokens-really-safe-from-xss-4208)
 - [Dev.to/JS] [How to build an Accordion Menu](https://dev.to/devlawrence/how-to-build-an-accordion-menu-1e30)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Crafting a mobile menu with Tailwind CSS without JavaScript](https://dev.to/seppegadeyne/crafting-a-mobile-menu-with-tailwind-css-without-javascript-1814)
 - [Dev.to/JS] [How to build a Chrome Extension with Flutter in 2023| Guided Tutorial](https://dev.to/sandy088/how-to-build-a-chrome-extension-with-flutter-in-2023-guided-tutorial-be4)
 - [Dev.to/JS] [What I have learned so far in React.](https://dev.to/sanket_kumbhare/what-i-have-learned-so-far-in-react-3jc8)
-- [Dev.to/JS] [How to Use APIs](https://dev.to/blujay0/how-to-use-apis-1ion)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in May 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-may-2023-1850383975)
 - [Lifehacker] [These Kias and Hyundais Are Being Blacklisted by Some Insurance Companies](https://lifehacker.com/these-kias-and-hyundais-are-being-blacklisted-by-some-i-1850383633)
 - [Lifehacker] [Some Melatonin Gummies Are Way Stronger Than Advertised](https://lifehacker.com/some-melatonin-gummies-are-way-stronger-than-advertised-1850383023)
