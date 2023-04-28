@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I Built This - Despite a Flaw in Rust&#39;s WebAssembly Toolchain](https://dev.to/speratus/i-built-this-despite-a-flaw-in-rusts-webassembly-toolchain-38p2)
+- [Dev.to/JS] [React Routing: Navigating Pages with `react-router-dom`.](https://dev.to/ghostaram/react-routing-navigating-pages-with-react-router-dom-3o3p)
+- [Dev.to/JS] [Using `.map&lpar;&rpar;` in JavaScript](https://dev.to/drwomble/using-map-in-javascript-499)
+- [Dev.to/JS] [process.env.NODE_ENV.](https://dev.to/shaharyarternion/processenvnodeenv-1ni0)
+- [Dev.to/JS] [How to extract Tables in images / PDF with JavaScript in 5 minutes?](https://dev.to/edenai/how-to-extract-tables-in-images-pdf-with-javascript-in-5-minutes-3094)
+- [Dev.to/JS] [AA credit loan customer care number 👉☎️ 8250474308💥✔️ AA credit loan customer care number 👉☎️ 8250474308💥✔️...](https://dev.to/fatkumar/aa-credit-loan-customer-care-number-8250474308-aa-credit-loan-customer-care-number-8250474308-22n9)
+- [Lifehacker] [Get a Free Sandwich From Dave&#39;s Hot Chicken](https://lifehacker.com/get-a-free-sandwich-from-daves-hot-chicken-1850384214)
+- [Dev.to/JS] [AA credit loan customer care number 👉☎️ 8250474308💥✔️](https://dev.to/fatkumar/aa-credit-loan-customer-care-number-8250474308-3mc)
+- [Dev.to/JS] [AA credit loan customer care number 👉☎️ 8250474308💥✔️](https://dev.to/fatkumar/aa-credit-loan-customer-care-number-8250474308-3c0c)
 - [Lifehacker] [Google Meet Now Supports 1080p Video Calls &lpar;for Some of Us&rpar;](https://lifehacker.com/google-meet-now-supports-1080p-video-calls-for-some-of-1850383447)
 - [Dev.to/JS] [Build a product gallery app easily with TailwindCSS and StorefrontUI](https://dev.to/mayashavin/build-a-product-gallery-app-easily-with-tailwindcss-and-storefrontui-3j75)
 - [Lifehacker] [Now You Can Call ChatGPT on the Phone](https://lifehacker.com/now-you-can-call-chatgpt-on-the-phone-1850379770)
@@ -31,16 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Code the Binary Search Algorithm](https://dev.to/nielsenjared/how-to-code-the-binary-search-algorithm-12e0)
 - [Lifehacker] [This Is the Best Reason to Save Your Champagne Corks](https://lifehacker.com/this-is-the-best-reason-to-save-your-champagne-corks-1850339119)
 - [Dev.to/JS] [Last week top 5 posts tagged&lpar;#javascript&rpar;](https://dev.to/c4r4x35/last-week-top-5-posts-taggedjavascript-1bd9)
-- [Dev.to/JS] [Ezpie Challenge: e-commerce site.](https://dev.to/ezpieco/ezpie-challenge-e-commerce-site-46fg)
-- [Dev.to/JS] [Is JavaScript really the ultimate all-purpose tool in the software world?](https://dev.to/coursepilottech/is-javascript-really-the-ultimate-all-purpose-tool-in-the-software-world-16lb)
-- [Dev.to/JS] [Criando um List Generator com React](https://dev.to/rodrigozan/criando-um-list-generator-com-react-gdp)
-- [Lifehacker] [13 Movies That Also Star a Pair of Nikes](https://lifehacker.com/13-movies-that-made-the-world-fall-in-love-with-nikes-1850374580)
-- [Dev.to/JS] [Loops in React JSX: A Deep Dive into the Basics](https://dev.to/andersonvilela/loops-in-react-jsx-a-deep-dive-into-the-basics-3bn)
-- [Dev.to/JS] [Journey I Learn How to Code](https://dev.to/juanryhn/journey-i-learn-how-to-code-ba8)
-- [Dev.to/JS] [How to Add Chatbot to your Bigcommerce store](https://dev.to/devashishmamgain/how-to-add-chatbot-to-your-bigcommerce-store-3m50)
-- [Dev.to/JS] [🤖Discord Bot Programmed ... in Discord!](https://dev.to/mistval/discord-bot-programmed-in-discord-22c)
+- [Lifehacker] [13 Movies That Reveal Hollywood’s Obsession With Nikes](https://lifehacker.com/13-movies-that-made-the-world-fall-in-love-with-nikes-1850374580)
 - [Lifehacker] [The Easiest Way to Prevent a Runny Omelette](https://lifehacker.com/the-easiest-way-to-prevent-a-runny-omelette-1850382914)
-- [Dev.to/JS] [Creating a Real Time Multi Host Video Chat in a Browser with Amazon IVS](https://dev.to/aws/creating-a-real-time-multi-host-video-chat-in-a-browser-with-amazon-ivs-m44)
 - [Lifehacker] [Things You Should Never Clean With Windex](https://lifehacker.com/things-you-should-never-clean-with-windex-1850382510)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in May 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-may-2023-1850383975)
 - [Lifehacker] [These Kias and Hyundais Are Being Blacklisted by Some Insurance Companies](https://lifehacker.com/these-kias-and-hyundais-are-being-blacklisted-by-some-i-1850383633)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Paramount+ in May 2023](https://lifehacker.com/whats-new-on-paramount-in-may-2023-1850379544)
 - [Lifehacker] [7-Eleven Will Let You Fill &lpar;Almost&rpar; Anything With Slurpee for $2](https://lifehacker.com/7-eleven-will-let-you-fill-almost-anything-with-slurp-1850379239)
 - [Lifehacker] [What&#39;s New on Netflix in May 2023](https://lifehacker.com/whats-new-on-netflix-in-may-2023-1850378655)
-- [Lifehacker] [How Temping Really Works](https://lifehacker.com/how-temping-really-works-1850373531)
-- [Lifehacker] [You Can Now Use AI to Summarize the News You Read](https://lifehacker.com/you-can-now-use-ai-to-summarize-the-news-you-read-1850377953)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Temping Really Works](https://lifehacker.com/how-temping-really-works-1850373531)<!-- TECH-POSTS:END -->
 
 ---
 
