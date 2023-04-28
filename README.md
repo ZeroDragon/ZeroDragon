@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Variable Scope Pollution](https://dev.to/pedromarungo/variable-scope-pollution-7j1)
+- [Dev.to/JS] [3 Popular eslint rules that can make your write worse code](https://dev.to/guilhermefront/3-popular-eslint-rules-that-can-make-your-write-worse-code-1l0n)
 - [Dev.to/JS] [ABOUT ME](https://dev.to/dicksonabetoeniya/about-me-dj)
 - [Dev.to/JS] [How to remove elements from array in JavaScript](https://dev.to/bybydev/how-to-remove-elements-from-array-in-javascript-3c7l)
 - [Dev.to/JS] [🚀 Node.js: Hızlı, Esnek ve Ölçeklenebilir Web Geliştirme Deneyimi!](https://dev.to/aybikedalbul/nodejs-hizli-esnek-ve-olceklenebilir-web-gelistirme-deneyimi-12oj)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why upgrade to Yarn Berry?](https://dev.to/raxraj/why-upgrade-to-yarn-berry-2pdk)
 - [Dev.to/JS] [Basic and advance Array sorting](https://dev.to/equiman/basic-and-advance-array-sorting-21d4)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in May 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-may-2023-1850383975)
-- [Dev.to/JS] [Here&#39;s how you can write code with codepen using your Mobile phone.](https://dev.to/teekentx/heres-how-you-can-write-code-with-codepen-using-your-mobile-phone-37fc)
 - [Lifehacker] [These Kias and Hyundais Are Being Blacklisted by Some Insurance Companies](https://lifehacker.com/these-kias-and-hyundais-are-being-blacklisted-by-some-i-1850383633)
-- [Dev.to/JS] [[Nestia] Boost up your NestJS server much faster and easier &lpar;maximum 20,000x faster&rpar;](https://dev.to/samchon/nestia-boost-up-your-nestjs-server-much-faster-and-easier-maximum-20000x-faster-59o5)
 - [Lifehacker] [Some Melatonin Gummies Are Way Stronger Than Advertised](https://lifehacker.com/some-melatonin-gummies-are-way-stronger-than-advertised-1850383023)
 - [Lifehacker] [This App Lets You Search for Everything You’ve Ever Done on Your Mac](https://lifehacker.com/this-app-lets-you-search-for-everything-you-ve-ever-don-1850381648)
 - [Lifehacker] [Nobody Can Agree on What &#39;Zone 2&#39; Cardio Is](https://lifehacker.com/nobody-can-agree-on-what-zone-2-cardio-is-1850379968)
