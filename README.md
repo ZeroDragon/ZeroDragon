@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The new version of x-crawl v7 has been released!](https://dev.to/coderhxl/the-new-version-of-x-crawl-v7-has-been-released-1053)
+- [Dev.to/JS] [Code Smell 209 - Side Effects](https://dev.to/mcsee/code-smell-209-side-effects-13l8)
+- [Dev.to/JS] [Clarity Through Destructuring](https://dev.to/hillswor/clarity-through-destructuring-2eeg)
 - [Dev.to/JS] [Variable Scope Pollution](https://dev.to/pedromarungo/variable-scope-pollution-7j1)
 - [Dev.to/JS] [3 Popular eslint rules that can make your write worse code](https://dev.to/guilhermefront/3-popular-eslint-rules-that-can-make-your-write-worse-code-1l0n)
 - [Dev.to/JS] [ABOUT ME](https://dev.to/dicksonabetoeniya/about-me-dj)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dominando Promises em JavaScript: Encadeamento, Promise.all e tratamento de erros](https://dev.to/ramonborges15/dominando-promises-em-javascript-encadeamento-promiseall-e-tratamento-de-erros-1ff5)
 - [Dev.to/JS] [What is JavaScript?](https://dev.to/philipjohnbasile/what-is-javascript-50pc)
 - [Dev.to/JS] [Invariant Violation: requireNativeComponent: “RNSScreenStackHeaderSubview” was not found in the UIManager](https://dev.to/okorelens/invariant-violation-requirenativecomponent-rnsscreenstackheadersubview-was-not-found-in-the-uimanager-3op6)
-- [Dev.to/JS] [The Role of Node.js in Progressive Web Apps &lpar;PWAs&rpar;](https://dev.to/folasayosamuel/the-role-of-nodejs-in-progressive-web-apps-pwas-35b2)
-- [Dev.to/JS] [Why upgrade to Yarn Berry?](https://dev.to/raxraj/why-upgrade-to-yarn-berry-2pdk)
-- [Dev.to/JS] [Basic and advance Array sorting](https://dev.to/equiman/basic-and-advance-array-sorting-21d4)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in May 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-may-2023-1850383975)
 - [Lifehacker] [These Kias and Hyundais Are Being Blacklisted by Some Insurance Companies](https://lifehacker.com/these-kias-and-hyundais-are-being-blacklisted-by-some-i-1850383633)
 - [Lifehacker] [Some Melatonin Gummies Are Way Stronger Than Advertised](https://lifehacker.com/some-melatonin-gummies-are-way-stronger-than-advertised-1850383023)
