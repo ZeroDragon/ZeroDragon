@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Things You Should Never Clean With Windex](https://lifehacker.com/things-you-should-never-clean-with-windex-1850382510)
+- [Dev.to/JS] [Everything you need to know about Webpack&#39;s Bundle-Analyzer](https://dev.to/mbarzeev/everything-you-need-to-know-about-webpacks-bundle-analyzer-g0l)
+- [Dev.to/JS] [What&#39;s New in Novu 0.14.0?](https://dev.to/novu/whats-new-in-novu-0140-4p5c)
 - [Dev.to/JS] [How to improve the page speed index of your website? - Part 2](https://dev.to/canopassoftware/how-to-improve-the-page-speed-index-of-your-website-3dl3)
 - [Dev.to/JS] [How To manage Different Versions of Node in Your system](https://dev.to/mumenyam/node-series-2cj5)
 - [Dev.to/JS] [having issue in array in Js](https://dev.to/samarthsaxena10/having-issue-in-array-in-js-2kfp)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My first VSCode Extension](https://dev.to/junsantilla/my-first-vscode-extension-3ke6)
 - [Dev.to/JS] [JavaScript Arrays](https://dev.to/pedromarungo/javascript-arrays-3505)
 - [Dev.to/JS] [Crafting a mobile menu with Tailwind CSS without JavaScript](https://dev.to/seppegadeyne/crafting-a-mobile-menu-with-tailwind-css-without-javascript-1814)
-- [Dev.to/JS] [How to build a Chrome Extension with Flutter in 2023| Guided Tutorial](https://dev.to/sandy088/how-to-build-a-chrome-extension-with-flutter-in-2023-guided-tutorial-be4)
-- [Dev.to/JS] [What I have learned so far in React.](https://dev.to/sanket_kumbhare/what-i-have-learned-so-far-in-react-3jc8)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in May 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-may-2023-1850383975)
 - [Lifehacker] [These Kias and Hyundais Are Being Blacklisted by Some Insurance Companies](https://lifehacker.com/these-kias-and-hyundais-are-being-blacklisted-by-some-i-1850383633)
 - [Lifehacker] [Some Melatonin Gummies Are Way Stronger Than Advertised](https://lifehacker.com/some-melatonin-gummies-are-way-stronger-than-advertised-1850383023)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Turn a Bad Run Around](https://lifehacker.com/how-to-turn-a-bad-run-around-1850373028)
 - [Lifehacker] [What Magnesium Supplements Can Actually Do](https://lifehacker.com/what-magnesium-supplements-can-actually-do-1850372151)
 - [Lifehacker] [Seven Ways AI Can Help You Manage Your ADHD](https://lifehacker.com/seven-ways-ai-can-help-you-manage-your-adhd-1850373670)
-- [Lifehacker] [Grow Your Veggies in a Bag This Summer](https://lifehacker.com/grow-your-veggies-in-a-bag-this-summer-1850373469)
-- [Lifehacker] [You Can Use Coffee to Turn Brownie Mix Into &#39;Pudding&#39;](https://lifehacker.com/you-can-use-coffee-to-turn-brownie-mix-into-pudding-1850375158)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Grow Your Veggies in a Bag This Summer](https://lifehacker.com/grow-your-veggies-in-a-bag-this-summer-1850373469)<!-- TECH-POSTS:END -->
 
 ---
 
