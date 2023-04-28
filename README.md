@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Viagra Pills Have Been Recalled for Safety, FDA Says](https://lifehacker.com/these-viagra-pills-have-been-recalled-for-safety-fda-s-1850384772)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: A grade de pesquisa](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-a-grade-de-pesquisa-dpa)
+- [Lifehacker] [What People Are Getting Wrong This Week: The Fox News Settlement](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-fox-news-s-1850383991)
 - [Dev.to/JS] [I Built This - Despite a Flaw in Rust&#39;s WebAssembly Toolchain](https://dev.to/speratus/i-built-this-despite-a-flaw-in-rusts-webassembly-toolchain-38p2)
+- [Lifehacker] [Things I Wish I’d Known Before I Bought a Robot Vacuum](https://lifehacker.com/things-i-wish-i-d-known-before-i-bought-a-robot-vacuum-1850382900)
 - [Dev.to/JS] [React Routing: Navigating Pages with `react-router-dom`.](https://dev.to/ghostaram/react-routing-navigating-pages-with-react-router-dom-3o3p)
 - [Dev.to/JS] [Using `.map&lpar;&rpar;` in JavaScript](https://dev.to/drwomble/using-map-in-javascript-499)
 - [Dev.to/JS] [process.env.NODE_ENV.](https://dev.to/shaharyarternion/processenvnodeenv-1ni0)
@@ -39,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Old Email Address Is Hurting Your Job Prospects](https://lifehacker.com/your-old-email-address-is-hurting-your-job-prospects-1850348243)
 - [Dev.to/JS] [How to Code the Binary Search Algorithm](https://dev.to/nielsenjared/how-to-code-the-binary-search-algorithm-12e0)
 - [Lifehacker] [This Is the Best Reason to Save Your Champagne Corks](https://lifehacker.com/this-is-the-best-reason-to-save-your-champagne-corks-1850339119)
-- [Dev.to/JS] [Last week top 5 posts tagged&lpar;#javascript&rpar;](https://dev.to/c4r4x35/last-week-top-5-posts-taggedjavascript-1bd9)
 - [Lifehacker] [13 Movies That Reveal Hollywood’s Obsession With Nikes](https://lifehacker.com/13-movies-that-made-the-world-fall-in-love-with-nikes-1850374580)
 - [Lifehacker] [The Easiest Way to Prevent a Runny Omelette](https://lifehacker.com/the-easiest-way-to-prevent-a-runny-omelette-1850382914)
 - [Lifehacker] [Things You Should Never Clean With Windex](https://lifehacker.com/things-you-should-never-clean-with-windex-1850382510)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Mustard Is the Key to More Flavorful Breading](https://lifehacker.com/mustard-is-the-key-to-more-flavorful-breading-1850351057)
 - [Lifehacker] [The Easiest Way to Make Your Salad Less Boring](https://lifehacker.com/the-easiest-way-to-make-your-salad-less-boring-1850377567)
 - [Lifehacker] [How to Help Your Child Build Frustration Tolerance](https://lifehacker.com/how-to-help-your-child-build-frustration-tolerance-1850378876)
-- [Lifehacker] [What&#39;s New on Paramount+ in May 2023](https://lifehacker.com/whats-new-on-paramount-in-may-2023-1850379544)
-- [Lifehacker] [7-Eleven Will Let You Fill &lpar;Almost&rpar; Anything With Slurpee for $2](https://lifehacker.com/7-eleven-will-let-you-fill-almost-anything-with-slurp-1850379239)
-- [Lifehacker] [What&#39;s New on Netflix in May 2023](https://lifehacker.com/whats-new-on-netflix-in-may-2023-1850378655)
-- [Lifehacker] [How Temping Really Works](https://lifehacker.com/how-temping-really-works-1850373531)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Paramount+ in May 2023](https://lifehacker.com/whats-new-on-paramount-in-may-2023-1850379544)<!-- TECH-POSTS:END -->
 
 ---
 
