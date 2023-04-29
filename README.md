@@ -23,20 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Easy steps to build the GitHub Globe Effect &lpar;System Design&rpar;](https://dev.to/xplodivity/5-easy-steps-to-build-the-github-globe-effect-system-design-36g8)
+- [Dev.to/JS] [Turning Text into Art with Pixray Text2Img: A Beginner&#39;s Guide](https://dev.to/mikeyoung44/turning-text-into-pixel-art-with-pixray-a-beginners-guide-31am)
 - [Dev.to/JS] [How to Use AI to Give Yourself a Haircut: a Complete Guide to StyleCLIP](https://dev.to/mikeyoung44/how-to-use-ai-to-give-yourself-a-haircut-a-complete-guide-to-styleclip-123d)
 - [Dev.to/JS] [Backend Developer roadmap](https://dev.to/unpandadev/backend-developer-roadmap-480)
 - [Dev.to/JS] [Top 14 VSCode Extensions imo!](https://dev.to/bekbrace/top-14-vscode-extensions-imo-1j4n)
 - [Dev.to/JS] [New updates to Nodejs V20 🔥](https://dev.to/100lvlmaster/new-updates-to-nodejs-v20-32k)
 - [Dev.to/JS] [The NoBS stack](https://dev.to/adam_cyclones/the-nobs-stack-21lp)
 - [Dev.to/JS] [HOW TO PREVIEW AN UPLOADED IMAGE WITH REACT.JS](https://dev.to/candie_code/how-to-preview-an-uploaded-image-with-reactjs-30ak)
+- [Dev.to/JS] [Why I Like Using Maps &lpar;and WeakMaps&rpar; for Handling DOM Nodes](https://dev.to/alexmacarthur/why-i-like-using-maps-and-weakmaps-for-handling-dom-nodes-3k58)
 - [Lifehacker] [Surround Your House With These Foundation Plants](https://lifehacker.com/surround-your-house-with-these-foundation-plants-1850386141)
 - [Dev.to/JS] [Make salary calculator using Chat GPT and Excel](https://dev.to/mizanur919/make-salary-calculator-using-chat-gpt-and-excel-4jeb)
 - [Dev.to/JS] [Microsoft Azure Arc-Enabled Infrastructure Introduction and Implementation Process](https://dev.to/sardarmudassaralikhan/microsoft-azure-arc-enabled-infrastructure-introduction-and-implementation-process-3ipc)
 - [Dev.to/JS] [Best Post of the Month - April 2023](https://dev.to/jon_snow789/best-post-of-the-month-april-2023-3j90)
-- [Dev.to/JS] [Using Redux Toolkit, and differences with action creators, state updates, and async actions](https://dev.to/williamluck/using-redux-toolkit-and-differences-with-action-creators-state-updates-and-async-actions-22fc)
-- [Dev.to/JS] [Why Typescript is our god now.](https://dev.to/nerkmind/why-typescript-is-our-god-now-2m5p)
 - [Crazy Programmer] [Basic Components of Computer](https://www.thecrazyprogrammer.com/2023/04/components-of-computer.html)
-- [Dev.to/JS] [Named Parameters en JavaScript: Mejorando la Legibilidad y Extensibilidad de tus Funciones](https://dev.to/ruben_alapont/named-parameters-en-javascript-mejorando-la-legibilidad-y-extensibilidad-de-tus-funciones-4oa)
 - [Lifehacker] [Don&#39;t Store These Items Near Your Hot Water Heater](https://lifehacker.com/dont-store-these-items-near-your-hot-water-heater-1850386142)
 - [Lifehacker] [How to Tell the Difference Between Wood Rot and Termite Damage](https://lifehacker.com/how-to-tell-the-difference-between-wood-rot-and-termite-1850386149)
 - [Lifehacker] [These Are the Best Teacher Appreciation Day Deals &lpar;and the Absolute Least We Can Do As a Society&rpar;](https://lifehacker.com/these-are-the-best-teacher-appreciation-day-deals-and-1850387094)
