@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [useEffect&lpar;&rpar;: Making Side Effects More Manageable in React Apps Since 2019](https://dev.to/lslayman/useeffect-making-side-effects-more-manageable-in-react-apps-since-2019-eem)
 - [Dev.to/JS] [The Cache API in JavaScript, and how to use it](https://dev.to/asayerio_techblog/the-cache-api-in-javascript-and-how-to-use-it-3d9m)
 - [Dev.to/JS] [How To install React and create your First app](https://dev.to/gaius_001/to-install-react-and-create-your-first-app-50pp)
 - [Dev.to/JS] [NEXT JS](https://dev.to/paulynson/next-js-26bk)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Chrome Extension Quickly Creates Flash Cards Based on Any Article or Video](https://lifehacker.com/this-chrome-extension-quickly-creates-flash-cards-based-1850385363)
 - [Lifehacker] [The Best Way to Know If You&#39;re Ready for a Big Test](https://lifehacker.com/the-best-way-to-know-if-youre-ready-for-a-big-test-1850379720)
 - [Lifehacker] [These Viagra Pills Have Been Recalled for Safety, FDA Says](https://lifehacker.com/these-viagra-pills-have-been-recalled-for-safety-fda-s-1850384772)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: A grade de pesquisa](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-a-grade-de-pesquisa-dpa)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Fox News Settlement](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-fox-news-s-1850383991)
 - [Lifehacker] [Things I Wish I’d Known Before I Bought a Robot Vacuum](https://lifehacker.com/things-i-wish-i-d-known-before-i-bought-a-robot-vacuum-1850382900)
 - [Lifehacker] [Get a Free Sandwich From Dave&#39;s Hot Chicken](https://lifehacker.com/get-a-free-sandwich-from-daves-hot-chicken-1850384214)
