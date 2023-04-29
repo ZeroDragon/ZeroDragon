@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Redux Toolkit, and differences with action creators, state updates, and async actions](https://dev.to/williamluck/using-redux-toolkit-and-differences-with-action-creators-state-updates-and-async-actions-22fc)
+- [Crazy Programmer] [Basic Components of Computer](https://www.thecrazyprogrammer.com/2023/04/components-of-computer.html)
+- [Dev.to/JS] [Named Parameters en JavaScript: Mejorando la Legibilidad y Extensibilidad de tus Funciones](https://dev.to/ruben_alapont/named-parameters-en-javascript-mejorando-la-legibilidad-y-extensibilidad-de-tus-funciones-4oa)
+- [Lifehacker] [Don&#39;t Store These Items Near Your Hot Water Heater](https://lifehacker.com/dont-store-these-items-near-your-hot-water-heater-1850386142)
 - [Dev.to/JS] [JavaScript for of loop tutorial](https://dev.to/max24816/javascript-for-of-loop-tutorial-8bk)
 - [Dev.to/JS] [Microsoft Azure API Management Service](https://dev.to/sardarmudassaralikhan/microsoft-azure-api-management-service-1ndo)
 - [Dev.to/JS] [ESSENTIAL JOB SEARCH TEMPLATES FOR SOFTWARE ENGINEERS](https://dev.to/shacodes/essential-job-search-templates-for-software-engineers-44h1)
@@ -34,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dockerizing a Node.js Application from Scratch](https://dev.to/hossainchisty/dockerizing-a-nodejs-application-from-scratch-adp)
 - [Dev.to/JS] [Mastering React Development: Avoiding Common Pitfalls.](https://dev.to/abomisr/mastering-react-development-avoiding-common-pitfalls-31m6)
 - [Dev.to/JS] [What is Java Thread Life Cycle?](https://dev.to/parasha19nilesh/what-is-java-thread-life-cycle-29di)
-- [Dev.to/JS] [Adding timeout and multiple abort signals to fetch&lpar;&rpar; &lpar;TypeScript/React&rpar;](https://dev.to/rashidshamloo/adding-timeout-and-multiple-abort-signals-to-fetch-typescriptreact-33bb)
-- [Dev.to/JS] [I have created an ecosystem on browser](https://dev.to/sscorpi/i-have-created-an-ecosystem-on-browser-34hi)
 - [Lifehacker] [These Are the Best Teacher Appreciation Day Deals &lpar;and the Absolute Least We Can Do As a Society&rpar;](https://lifehacker.com/these-are-the-best-teacher-appreciation-day-deals-and-1850387094)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Gas Station Heroin&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-g-1850385031)
 - [Lifehacker] [Microsoft Will Never Update Windows 10 Again &lpar;But You Can Keep Using It&rpar;](https://lifehacker.com/microsoft-will-never-update-windows-10-again-but-you-c-1850386188)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Might Actually Want a Grass Driveway](https://lifehacker.com/why-you-might-actually-want-a-grass-driveway-1850381480)
 - [Lifehacker] [Why You Should Wear Wireless Earbuds to Your Next Concert](https://lifehacker.com/why-you-should-wear-wireless-earbuds-to-your-next-conce-1850381535)
 - [Lifehacker] [Why Haven&#39;t You Wrapped Your Cookies in Phyllo Dough?](https://lifehacker.com/why-havent-you-wrapped-your-cookies-in-phyllo-dough-1850382391)
-- [Lifehacker] [It&#39;s Almost Never Legal to Shoot Someone](https://lifehacker.com/when-can-you-legally-shoot-someone-on-your-property-1850380021)
-- [Lifehacker] [Your Ground Cumin May Have Been Recalled for Salmonella](https://lifehacker.com/your-ground-cumin-may-have-been-recalled-for-salmonella-1850379635)
-- [Lifehacker] [You Can Stop Training ChatGPT With Your Questions and Conversations](https://lifehacker.com/you-can-stop-training-chatgpt-with-your-questions-and-c-1850378821)<!-- TECH-POSTS:END -->
+- [Lifehacker] [It&#39;s Almost Never Legal to Shoot Someone](https://lifehacker.com/when-can-you-legally-shoot-someone-on-your-property-1850380021)<!-- TECH-POSTS:END -->
 
 ---
 
