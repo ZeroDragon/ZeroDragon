@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript for of loop tutorial](https://dev.to/max24816/javascript-for-of-loop-tutorial-8bk)
+- [Dev.to/JS] [Microsoft Azure API Management Service](https://dev.to/sardarmudassaralikhan/microsoft-azure-api-management-service-1ndo)
 - [Dev.to/JS] [ESSENTIAL JOB SEARCH TEMPLATES FOR SOFTWARE ENGINEERS](https://dev.to/shacodes/essential-job-search-templates-for-software-engineers-44h1)
 - [Lifehacker] [How to Tell the Difference Between Wood Rot and Termite Damage](https://lifehacker.com/how-to-tell-the-difference-between-wood-rot-and-termite-1850386149)
 - [Dev.to/JS] [50 ChatGPT Prompts to Debug ReactJS Issues - Free EBook](https://dev.to/nilanth/50-chatgpt-prompts-to-debug-reactjs-issues-free-ebook-16og)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Java Thread Life Cycle?](https://dev.to/parasha19nilesh/what-is-java-thread-life-cycle-29di)
 - [Dev.to/JS] [Adding timeout and multiple abort signals to fetch&lpar;&rpar; &lpar;TypeScript/React&rpar;](https://dev.to/rashidshamloo/adding-timeout-and-multiple-abort-signals-to-fetch-typescriptreact-33bb)
 - [Dev.to/JS] [I have created an ecosystem on browser](https://dev.to/sscorpi/i-have-created-an-ecosystem-on-browser-34hi)
-- [Dev.to/JS] [Creating Visual Interest: How to Use MouseMove Hover to Reveal Background Images](https://dev.to/israelmitolu/creating-visual-interest-how-to-use-mousemove-hover-to-reveal-background-images-4cb0)
-- [Dev.to/JS] [Building a SolidJS App With SolidStart From Scratch](https://dev.to/tahazsh/building-a-solidjs-app-with-solidstart-from-scratch-2m5c)
 - [Lifehacker] [These Are the Best Teacher Appreciation Day Deals &lpar;and the Absolute Least We Can Do As a Society&rpar;](https://lifehacker.com/these-are-the-best-teacher-appreciation-day-deals-and-1850387094)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Gas Station Heroin&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-g-1850385031)
 - [Lifehacker] [Microsoft Will Never Update Windows 10 Again &lpar;But You Can Keep Using It&rpar;](https://lifehacker.com/microsoft-will-never-update-windows-10-again-but-you-c-1850386188)
