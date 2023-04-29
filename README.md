@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ESSENTIAL JOB SEARCH TEMPLATES FOR SOFTWARE ENGINEERS](https://dev.to/shacodes/essential-job-search-templates-for-software-engineers-44h1)
 - [Lifehacker] [How to Tell the Difference Between Wood Rot and Termite Damage](https://lifehacker.com/how-to-tell-the-difference-between-wood-rot-and-termite-1850386149)
 - [Dev.to/JS] [50 ChatGPT Prompts to Debug ReactJS Issues - Free EBook](https://dev.to/nilanth/50-chatgpt-prompts-to-debug-reactjs-issues-free-ebook-16og)
 - [Dev.to/JS] [The Hidden Dangers of Client-Side API Requests](https://dev.to/musabdev/the-hidden-dangers-of-client-side-api-requests-bgn)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I have created an ecosystem on browser](https://dev.to/sscorpi/i-have-created-an-ecosystem-on-browser-34hi)
 - [Dev.to/JS] [Creating Visual Interest: How to Use MouseMove Hover to Reveal Background Images](https://dev.to/israelmitolu/creating-visual-interest-how-to-use-mousemove-hover-to-reveal-background-images-4cb0)
 - [Dev.to/JS] [Building a SolidJS App With SolidStart From Scratch](https://dev.to/tahazsh/building-a-solidjs-app-with-solidstart-from-scratch-2m5c)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;29-04-2023&rpar; - Cauldron of Synchronicities](https://dev.to/mjgs/this-weeks-newsletter-is-out-29-04-2023-cauldron-of-synchronicities-5gd7)
 - [Lifehacker] [These Are the Best Teacher Appreciation Day Deals &lpar;and the Absolute Least We Can Do As a Society&rpar;](https://lifehacker.com/these-are-the-best-teacher-appreciation-day-deals-and-1850387094)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Gas Station Heroin&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-g-1850385031)
 - [Lifehacker] [Microsoft Will Never Update Windows 10 Again &lpar;But You Can Keep Using It&rpar;](https://lifehacker.com/microsoft-will-never-update-windows-10-again-but-you-c-1850386188)
