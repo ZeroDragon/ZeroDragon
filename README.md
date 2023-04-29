@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Tell the Difference Between Wood Rot and Termite Damage](https://lifehacker.com/how-to-tell-the-difference-between-wood-rot-and-termite-1850386149)
+- [Dev.to/JS] [50 ChatGPT Prompts to Debug ReactJS Issues - Free EBook](https://dev.to/nilanth/50-chatgpt-prompts-to-debug-reactjs-issues-free-ebook-16og)
+- [Dev.to/JS] [The Hidden Dangers of Client-Side API Requests](https://dev.to/musabdev/the-hidden-dangers-of-client-side-api-requests-bgn)
+- [Dev.to/JS] [Dark Mode in 3 Lines of CSS and Other Adventures](https://dev.to/madsstoumann/dark-mode-in-3-lines-of-css-and-other-adventures-1ljj)
+- [Dev.to/JS] [The JavaScript Interview Bible - A Comprehensive Guide with 1000+ Essential Questions and Answers!](https://dev.to/nezirzahirovic/the-javascript-interview-bible-a-comprehensive-guide-with-1000-essential-questions-and-answers-2g6n)
 - [Dev.to/JS] [Dockerizing a Node.js Application from Scratch](https://dev.to/hossainchisty/dockerizing-a-nodejs-application-from-scratch-adp)
 - [Dev.to/JS] [Mastering React Development: Avoiding Common Pitfalls.](https://dev.to/abomisr/mastering-react-development-avoiding-common-pitfalls-31m6)
 - [Dev.to/JS] [What is Java Thread Life Cycle?](https://dev.to/parasha19nilesh/what-is-java-thread-life-cycle-29di)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating Visual Interest: How to Use MouseMove Hover to Reveal Background Images](https://dev.to/israelmitolu/creating-visual-interest-how-to-use-mousemove-hover-to-reveal-background-images-4cb0)
 - [Dev.to/JS] [Building a SolidJS App With SolidStart From Scratch](https://dev.to/tahazsh/building-a-solidjs-app-with-solidstart-from-scratch-2m5c)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;29-04-2023&rpar; - Cauldron of Synchronicities](https://dev.to/mjgs/this-weeks-newsletter-is-out-29-04-2023-cauldron-of-synchronicities-5gd7)
-- [Dev.to/JS] [What are Pure and Impure functions in JavaScript](https://dev.to/chanchals7/what-are-pure-and-impure-functions-in-javascript-52d6)
-- [Dev.to/JS] [test](https://dev.to/hafidjr/test-2he9)
-- [Dev.to/JS] [I made a todo-list with Preact](https://dev.to/faizbyp/i-made-a-todo-list-with-preact-26oj)
-- [Dev.to/JS] [useEffect&lpar;&rpar;: Making Side Effects More Manageable in React Apps Since 2019](https://dev.to/lslayman/useeffect-making-side-effects-more-manageable-in-react-apps-since-2019-eem)
 - [Lifehacker] [These Are the Best Teacher Appreciation Day Deals &lpar;and the Absolute Least We Can Do As a Society&rpar;](https://lifehacker.com/these-are-the-best-teacher-appreciation-day-deals-and-1850387094)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Gas Station Heroin&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-g-1850385031)
 - [Lifehacker] [Microsoft Will Never Update Windows 10 Again &lpar;But You Can Keep Using It&rpar;](https://lifehacker.com/microsoft-will-never-update-windows-10-again-but-you-c-1850386188)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Haven&#39;t You Wrapped Your Cookies in Phyllo Dough?](https://lifehacker.com/why-havent-you-wrapped-your-cookies-in-phyllo-dough-1850382391)
 - [Lifehacker] [It&#39;s Almost Never Legal to Shoot Someone](https://lifehacker.com/when-can-you-legally-shoot-someone-on-your-property-1850380021)
 - [Lifehacker] [Your Ground Cumin May Have Been Recalled for Salmonella](https://lifehacker.com/your-ground-cumin-may-have-been-recalled-for-salmonella-1850379635)
-- [Lifehacker] [You Can Stop Training ChatGPT With Your Questions and Conversations](https://lifehacker.com/you-can-stop-training-chatgpt-with-your-questions-and-c-1850378821)
-- [Lifehacker] [These Towns Will Pay You to Move There](https://lifehacker.com/these-towns-will-pay-you-to-move-there-1850378065)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Stop Training ChatGPT With Your Questions and Conversations](https://lifehacker.com/you-can-stop-training-chatgpt-with-your-questions-and-c-1850378821)<!-- TECH-POSTS:END -->
 
 ---
 
