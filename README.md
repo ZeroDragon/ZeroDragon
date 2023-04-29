@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 14 VSCode Extensions imo!](https://dev.to/bekbrace/top-14-vscode-extensions-imo-1j4n)
+- [Dev.to/JS] [New updates to Nodejs V20 🔥](https://dev.to/100lvlmaster/new-updates-to-nodejs-v20-32k)
 - [Dev.to/JS] [The NoBS stack](https://dev.to/adam_cyclones/the-nobs-stack-21lp)
 - [Dev.to/JS] [HOW TO PREVIEW AN UPLOADED IMAGE WITH REACT.JS](https://dev.to/candie_code/how-to-preview-an-uploaded-image-with-reactjs-30ak)
 - [Lifehacker] [Surround Your House With These Foundation Plants](https://lifehacker.com/surround-your-house-with-these-foundation-plants-1850386141)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Store These Items Near Your Hot Water Heater](https://lifehacker.com/dont-store-these-items-near-your-hot-water-heater-1850386142)
 - [Dev.to/JS] [JavaScript for of loop tutorial](https://dev.to/max24816/javascript-for-of-loop-tutorial-8bk)
 - [Dev.to/JS] [Microsoft Azure API Management Service](https://dev.to/sardarmudassaralikhan/microsoft-azure-api-management-service-1ndo)
-- [Dev.to/JS] [ESSENTIAL JOB SEARCH TEMPLATES FOR SOFTWARE ENGINEERS](https://dev.to/shacodes/essential-job-search-templates-for-software-engineers-44h1)
 - [Lifehacker] [How to Tell the Difference Between Wood Rot and Termite Damage](https://lifehacker.com/how-to-tell-the-difference-between-wood-rot-and-termite-1850386149)
-- [Dev.to/JS] [50 ChatGPT Prompts to Debug ReactJS Issues - Free EBook](https://dev.to/nilanth/50-chatgpt-prompts-to-debug-reactjs-issues-free-ebook-16og)
 - [Lifehacker] [These Are the Best Teacher Appreciation Day Deals &lpar;and the Absolute Least We Can Do As a Society&rpar;](https://lifehacker.com/these-are-the-best-teacher-appreciation-day-deals-and-1850387094)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Gas Station Heroin&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-g-1850385031)
 - [Lifehacker] [Microsoft Will Never Update Windows 10 Again &lpar;But You Can Keep Using It&rpar;](https://lifehacker.com/microsoft-will-never-update-windows-10-again-but-you-c-1850386188)
