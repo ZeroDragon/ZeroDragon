@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I made a todo-list with Preact](https://dev.to/faizbyp/i-made-a-todo-list-with-preact-26oj)
 - [Dev.to/JS] [useEffect&lpar;&rpar;: Making Side Effects More Manageable in React Apps Since 2019](https://dev.to/lslayman/useeffect-making-side-effects-more-manageable-in-react-apps-since-2019-eem)
 - [Dev.to/JS] [The Cache API in JavaScript, and how to use it](https://dev.to/asayerio_techblog/the-cache-api-in-javascript-and-how-to-use-it-3d9m)
 - [Dev.to/JS] [How To install React and create your First app](https://dev.to/gaius_001/to-install-react-and-create-your-first-app-50pp)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a generated honeycomb card with html, css, js.](https://dev.to/joanverhulst/creating-a-generated-honeycomb-card-with-html-css-js-2dep)
 - [Lifehacker] [Microsoft Will Never Update Windows 10 Again &lpar;But You Can Keep Using It&rpar;](https://lifehacker.com/microsoft-will-never-update-windows-10-again-but-you-c-1850386188)
 - [Dev.to/JS] [Understanding how React handles state updates.](https://dev.to/anmoltiwari-dev/understanding-how-react-handles-state-updates-bg0)
-- [Dev.to/JS] [[Design Pattern] Chain of responsibility in Typescript with real world example](https://dev.to/akramsmahmoud/design-pattern-chain-of-responsibility-in-typescript-with-real-world-example-2d4e)
 - [Lifehacker] [This Chrome Extension Quickly Creates Flash Cards Based on Any Article or Video](https://lifehacker.com/this-chrome-extension-quickly-creates-flash-cards-based-1850385363)
 - [Lifehacker] [The Best Way to Know If You&#39;re Ready for a Big Test](https://lifehacker.com/the-best-way-to-know-if-youre-ready-for-a-big-test-1850379720)
 - [Lifehacker] [These Viagra Pills Have Been Recalled for Safety, FDA Says](https://lifehacker.com/these-viagra-pills-have-been-recalled-for-safety-fda-s-1850384772)
