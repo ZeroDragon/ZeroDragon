@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Surround Your House With These Foundation Plants](https://lifehacker.com/surround-your-house-with-these-foundation-plants-1850386141)
+- [Dev.to/JS] [Make salary calculator using Chat GPT and Excel](https://dev.to/mizanur919/make-salary-calculator-using-chat-gpt-and-excel-4jeb)
+- [Dev.to/JS] [Microsoft Azure Arc-Enabled Infrastructure Introduction and Implementation Process](https://dev.to/sardarmudassaralikhan/microsoft-azure-arc-enabled-infrastructure-introduction-and-implementation-process-3ipc)
+- [Dev.to/JS] [Best Post of the Month - April 2023](https://dev.to/jon_snow789/best-post-of-the-month-april-2023-3j90)
 - [Dev.to/JS] [Using Redux Toolkit, and differences with action creators, state updates, and async actions](https://dev.to/williamluck/using-redux-toolkit-and-differences-with-action-creators-state-updates-and-async-actions-22fc)
+- [Dev.to/JS] [Why Typescript is our god now.](https://dev.to/nerkmind/why-typescript-is-our-god-now-2m5p)
 - [Crazy Programmer] [Basic Components of Computer](https://www.thecrazyprogrammer.com/2023/04/components-of-computer.html)
 - [Dev.to/JS] [Named Parameters en JavaScript: Mejorando la Legibilidad y Extensibilidad de tus Funciones](https://dev.to/ruben_alapont/named-parameters-en-javascript-mejorando-la-legibilidad-y-extensibilidad-de-tus-funciones-4oa)
 - [Lifehacker] [Don&#39;t Store These Items Near Your Hot Water Heater](https://lifehacker.com/dont-store-these-items-near-your-hot-water-heater-1850386142)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [50 ChatGPT Prompts to Debug ReactJS Issues - Free EBook](https://dev.to/nilanth/50-chatgpt-prompts-to-debug-reactjs-issues-free-ebook-16og)
 - [Dev.to/JS] [The Hidden Dangers of Client-Side API Requests](https://dev.to/musabdev/the-hidden-dangers-of-client-side-api-requests-bgn)
 - [Dev.to/JS] [Dark Mode in 3 Lines of CSS and Other Adventures](https://dev.to/madsstoumann/dark-mode-in-3-lines-of-css-and-other-adventures-1ljj)
-- [Dev.to/JS] [The JavaScript Interview Bible - A Comprehensive Guide with 1000+ Essential Questions and Answers!](https://dev.to/nezirzahirovic/the-javascript-interview-bible-a-comprehensive-guide-with-1000-essential-questions-and-answers-2g6n)
-- [Dev.to/JS] [Dockerizing a Node.js Application from Scratch](https://dev.to/hossainchisty/dockerizing-a-nodejs-application-from-scratch-adp)
-- [Dev.to/JS] [Mastering React Development: Avoiding Common Pitfalls.](https://dev.to/abomisr/mastering-react-development-avoiding-common-pitfalls-31m6)
-- [Dev.to/JS] [What is Java Thread Life Cycle?](https://dev.to/parasha19nilesh/what-is-java-thread-life-cycle-29di)
 - [Lifehacker] [These Are the Best Teacher Appreciation Day Deals &lpar;and the Absolute Least We Can Do As a Society&rpar;](https://lifehacker.com/these-are-the-best-teacher-appreciation-day-deals-and-1850387094)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Gas Station Heroin&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-g-1850385031)
 - [Lifehacker] [Microsoft Will Never Update Windows 10 Again &lpar;But You Can Keep Using It&rpar;](https://lifehacker.com/microsoft-will-never-update-windows-10-again-but-you-c-1850386188)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Nobody Can Agree on What &#39;Zone 2&#39; Cardio Is](https://lifehacker.com/nobody-can-agree-on-what-zone-2-cardio-is-1850379968)
 - [Lifehacker] [Why You Might Actually Want a Grass Driveway](https://lifehacker.com/why-you-might-actually-want-a-grass-driveway-1850381480)
 - [Lifehacker] [Why You Should Wear Wireless Earbuds to Your Next Concert](https://lifehacker.com/why-you-should-wear-wireless-earbuds-to-your-next-conce-1850381535)
-- [Lifehacker] [Why Haven&#39;t You Wrapped Your Cookies in Phyllo Dough?](https://lifehacker.com/why-havent-you-wrapped-your-cookies-in-phyllo-dough-1850382391)
-- [Lifehacker] [It&#39;s Almost Never Legal to Shoot Someone](https://lifehacker.com/when-can-you-legally-shoot-someone-on-your-property-1850380021)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Haven&#39;t You Wrapped Your Cookies in Phyllo Dough?](https://lifehacker.com/why-havent-you-wrapped-your-cookies-in-phyllo-dough-1850382391)<!-- TECH-POSTS:END -->
 
 ---
 
