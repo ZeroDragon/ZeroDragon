@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How React, ReactDOM, and JSX Work Together?](https://dev.to/tanmayabiswal/how-react-reactdom-and-jsx-work-together-2o9h)
+- [Dev.to/JS] [React Lifecycle Methods vs React Hooks: Do React Hooks Relate to Lifecycle Methods?](https://dev.to/sanjampreetsingh/react-lifecycle-methods-vs-react-hooks-do-react-hooks-relate-to-lifecycle-methods-472h)
 - [Dev.to/JS] [Unleash the Power of LangChain 🦜️🔗: 10 Cool Use Cases You Can Build.](https://dev.to/codewithyaku/unleash-the-power-of-langchain-10-cool-use-cases-you-can-build-12bo)
 - [Dev.to/JS] [More &quot;FUN-ctions&quot;](https://dev.to/aoppman/more-fun-ctions-3j77)
 - [Dev.to/JS] [My Favorite Free Courses to Learn JavaScript in depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Turning Text into Art with Pixray Text2Img: A Beginner&#39;s Guide](https://dev.to/mikeyoung44/turning-text-into-pixel-art-with-pixray-a-beginners-guide-31am)
 - [Dev.to/JS] [How to Use AI to Give Yourself a Haircut: a Complete Guide to StyleCLIP](https://dev.to/mikeyoung44/how-to-use-ai-to-give-yourself-a-haircut-a-complete-guide-to-styleclip-123d)
 - [Dev.to/JS] [Backend Developer roadmap](https://dev.to/unpandadev/backend-developer-roadmap-480)
-- [Dev.to/JS] [Top 14 VSCode Extensions imo!](https://dev.to/bekbrace/top-14-vscode-extensions-imo-1j4n)
-- [Dev.to/JS] [New updates to Nodejs V20 🔥](https://dev.to/100lvlmaster/new-updates-to-nodejs-v20-32k)
 - [Lifehacker] [Surround Your House With These Foundation Plants](https://lifehacker.com/surround-your-house-with-these-foundation-plants-1850386141)
 - [Crazy Programmer] [Basic Components of Computer](https://www.thecrazyprogrammer.com/2023/04/components-of-computer.html)
 - [Lifehacker] [Don&#39;t Store These Items Near Your Hot Water Heater](https://lifehacker.com/dont-store-these-items-near-your-hot-water-heater-1850386142)
