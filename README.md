@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to configure vite.config.js with a service.js file for local development &lpar; vue &amp; vuetify &rpar;](https://dev.to/fercarballo/how-to-configure-viteconfigjs-with-a-servicejs-file-for-local-development-vue-vuetify--8c5)
 - [Dev.to/JS] [Installing and using Glint in Ember.js](https://dev.to/charlesfries/installing-and-using-glint-in-emberjs-42i1)
 - [Dev.to/JS] [5 Easy steps to build the GitHub Globe Effect &lpar;System Design&rpar;](https://dev.to/xplodivity/5-easy-steps-to-build-the-github-globe-effect-system-design-36g8)
 - [Dev.to/JS] [Turning Text into Art with Pixray Text2Img: A Beginner&#39;s Guide](https://dev.to/mikeyoung44/turning-text-into-pixel-art-with-pixray-a-beginners-guide-31am)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why I Like Using Maps &lpar;and WeakMaps&rpar; for Handling DOM Nodes](https://dev.to/alexmacarthur/why-i-like-using-maps-and-weakmaps-for-handling-dom-nodes-3k58)
 - [Lifehacker] [Surround Your House With These Foundation Plants](https://lifehacker.com/surround-your-house-with-these-foundation-plants-1850386141)
 - [Dev.to/JS] [Make salary calculator using Chat GPT and Excel](https://dev.to/mizanur919/make-salary-calculator-using-chat-gpt-and-excel-4jeb)
-- [Dev.to/JS] [Microsoft Azure Arc-Enabled Infrastructure Introduction and Implementation Process](https://dev.to/sardarmudassaralikhan/microsoft-azure-arc-enabled-infrastructure-introduction-and-implementation-process-3ipc)
 - [Crazy Programmer] [Basic Components of Computer](https://www.thecrazyprogrammer.com/2023/04/components-of-computer.html)
 - [Lifehacker] [Don&#39;t Store These Items Near Your Hot Water Heater](https://lifehacker.com/dont-store-these-items-near-your-hot-water-heater-1850386142)
 - [Lifehacker] [How to Tell the Difference Between Wood Rot and Termite Damage](https://lifehacker.com/how-to-tell-the-difference-between-wood-rot-and-termite-1850386149)
