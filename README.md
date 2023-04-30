@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Download a file with react hook](https://dev.to/orkhanjafarovr/download-a-file-with-react-hook-13pp)
+- [Dev.to/JS] [Redux Oversimplified: Ultimate guide for beginners](https://dev.to/captainprinz/redux-oversimplified-ultimate-guide-for-beginners-4i9l)
 - [Dev.to/JS] [Building a simple real-time chat app with Node.js and Socket.io](https://dev.to/ndulue/building-a-simple-real-time-chat-app-with-nodejs-and-socketio-e9i)
 - [Dev.to/JS] [Best Programming Memes of the Week #1](https://dev.to/ymhaah/best-programming-memes-of-the-week-1-gc3)
 - [Dev.to/JS] [Do you want to publish your own npm package ?](https://dev.to/munavvarsinan/do-you-want-to-publish-your-own-npm-package--mjf)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ez-ux: an invitation to work on this open source project](https://dev.to/livramatheus/ez-ux-an-invitation-to-work-on-this-open-source-project-18fa)
 - [Lifehacker] [How to Get Rid of the Sewage Smell Coming From Your Shower Drain](https://lifehacker.com/how-to-get-rid-of-the-sewage-smell-coming-from-your-sho-1850386182)
 - [Dev.to/JS] [extracting RGBA values of an Image](https://dev.to/pavanrajesh/extracting-rgba-values-of-pixels-142l)
-- [Dev.to/JS] [How I Created an Award-Winning Portfolio Site with Zero Experience](https://dev.to/harryholland/how-i-created-an-award-winning-portfolio-site-with-zero-experience-fdk)
-- [Dev.to/JS] [Responsive Navigation Bar with Dropdown Menu using JavaScript](https://dev.to/incoderweb/responsive-navigation-bar-with-dropdown-menu-using-javascript-1ahf)
 - [Lifehacker] [Surround Your House With These Foundation Plants](https://lifehacker.com/surround-your-house-with-these-foundation-plants-1850386141)
 - [Crazy Programmer] [Basic Components of Computer](https://www.thecrazyprogrammer.com/2023/04/components-of-computer.html)
 - [Lifehacker] [Don&#39;t Store These Items Near Your Water Heater](https://lifehacker.com/dont-store-these-items-near-your-hot-water-heater-1850386142)
