@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Way to Remove Stains From Your Mattress](https://lifehacker.com/the-best-way-to-remove-stains-from-your-mattress-1850386395)
 - [Dev.to/JS] [15 Project Ideas for Developers: From Easy to Hard](https://dev.to/naser_shareef/15-project-ideas-for-developers-from-easy-to-hard-34ed)
 - [Dev.to/JS] [ez-ux: an invitation to work on this open source project](https://dev.to/livramatheus/ez-ux-an-invitation-to-work-on-this-open-source-project-18fa)
 - [Lifehacker] [How to Get Rid of the Sewage Smell Coming From Your Shower Drain](https://lifehacker.com/how-to-get-rid-of-the-sewage-smell-coming-from-your-sho-1850386182)
@@ -33,7 +34,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 5 Javascript ES6 Interview Questions and Answers](https://dev.to/sonvendra/top-5-javascript-es6-interview-questions-and-answers-1010)
 - [Dev.to/JS] [HOW TO GENERATE 4 DIGIT OTP WITH JAVASCRIPT](https://dev.to/candie_code/how-to-generate-4-digit-otp-with-javascript-1f)
 - [Dev.to/JS] [GPT Graph: A Simple Tool for Knowledge Graph Exploration](https://dev.to/melbably/gpt-graph-a-simple-tool-for-knowledge-graph-exploration-257k)
-- [Dev.to/JS] [Javascript event loop](https://dev.to/ngquan/javascript-event-loop-47p8)
+- [Dev.to/JS] [Javascript event loop - approach the first meet](https://dev.to/ngquan/javascript-event-loop-47p8)
 - [Dev.to/JS] [Rest vs. Spread Syntax in JavaScript: Comparison and Differences](https://dev.to/nikolasbarwicki/rest-vs-spread-syntax-in-javascript-comparison-and-differences-1n25)
 - [Dev.to/JS] [Loop over iterable and object with for..in and for..of](https://dev.to/dev_duckling/loop-over-iterable-and-object-with-forin-and-forof-3k51)
 - [Lifehacker] [Surround Your House With These Foundation Plants](https://lifehacker.com/surround-your-house-with-these-foundation-plants-1850386141)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Some Melatonin Gummies Are Way Stronger Than Advertised](https://lifehacker.com/some-melatonin-gummies-are-way-stronger-than-advertised-1850383023)
 - [Lifehacker] [This App Lets You Search for Everything You’ve Ever Done on Your Mac](https://lifehacker.com/this-app-lets-you-search-for-everything-you-ve-ever-don-1850381648)
 - [Lifehacker] [Nobody Can Agree on What &#39;Zone 2&#39; Cardio Is](https://lifehacker.com/nobody-can-agree-on-what-zone-2-cardio-is-1850379968)
-- [Lifehacker] [Why You Might Actually Want a Grass Driveway](https://lifehacker.com/why-you-might-actually-want-a-grass-driveway-1850381480)
-- [Lifehacker] [Why You Should Wear Wireless Earbuds to Your Next Concert](https://lifehacker.com/why-you-should-wear-wireless-earbuds-to-your-next-conce-1850381535)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Might Actually Want a Grass Driveway](https://lifehacker.com/why-you-might-actually-want-a-grass-driveway-1850381480)<!-- TECH-POSTS:END -->
 
 ---
 
