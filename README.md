@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Programming Memes of the Week #1](https://dev.to/ymhaah/best-programming-memes-of-the-week-1-gc3)
+- [Dev.to/JS] [Do you want to publish your own npm package ?](https://dev.to/munavvarsinan/do-you-want-to-publish-your-own-npm-package--mjf)
 - [Dev.to/JS] [Getting started: Blockchain development.](https://dev.to/obodobright/getting-started-blockchain-development-4hm8)
 - [Dev.to/JS] [Recursive GPT and multiple AI-Powered Prompters - Check out these creative projects! 🤖🔥](https://dev.to/synthetixartifacts/recursive-gpt-and-multiple-ai-powered-prompters-check-out-these-creative-projects-2npm)
 - [Lifehacker] [How to Tell Whether Water Damage Is New or Old](https://lifehacker.com/how-to-tell-whether-water-damage-is-new-or-old-1850386390)
@@ -36,11 +38,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I Created an Award-Winning Portfolio Site with Zero Experience](https://dev.to/harryholland/how-i-created-an-award-winning-portfolio-site-with-zero-experience-fdk)
 - [Dev.to/JS] [Responsive Navigation Bar with Dropdown Menu using JavaScript](https://dev.to/incoderweb/responsive-navigation-bar-with-dropdown-menu-using-javascript-1ahf)
 - [Dev.to/JS] [Mostly asked Angular Interview Questions and Answers](https://dev.to/sonvendra/mostly-asked-angular-interview-questions-and-answers-58nc)
-- [Dev.to/JS] [Top 5 Javascript ES6 Interview Questions and Answers](https://dev.to/sonvendra/top-5-javascript-es6-interview-questions-and-answers-1010)
-- [Dev.to/JS] [HOW TO GENERATE 4 DIGIT OTP WITH JAVASCRIPT](https://dev.to/candie_code/how-to-generate-4-digit-otp-with-javascript-1f)
 - [Lifehacker] [Surround Your House With These Foundation Plants](https://lifehacker.com/surround-your-house-with-these-foundation-plants-1850386141)
 - [Crazy Programmer] [Basic Components of Computer](https://www.thecrazyprogrammer.com/2023/04/components-of-computer.html)
-- [Lifehacker] [Don&#39;t Store These Items Near Your Hot Water Heater](https://lifehacker.com/dont-store-these-items-near-your-hot-water-heater-1850386142)
+- [Lifehacker] [Don&#39;t Store These Items Near Your Water Heater](https://lifehacker.com/dont-store-these-items-near-your-hot-water-heater-1850386142)
 - [Lifehacker] [How to Tell the Difference Between Wood Rot and Termite Damage](https://lifehacker.com/how-to-tell-the-difference-between-wood-rot-and-termite-1850386149)
 - [Lifehacker] [These Are the Best Teacher Appreciation Day Deals &lpar;and the Absolute Least We Can Do As a Society&rpar;](https://lifehacker.com/these-are-the-best-teacher-appreciation-day-deals-and-1850387094)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Gas Station Heroin&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-g-1850385031)
