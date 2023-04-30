@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HOW TO GENERATE 4 DIGIT OTP WITH JAVASCRIPT](https://dev.to/candie_code/how-to-generate-4-digit-otp-with-javascript-1f)
+- [Dev.to/JS] [GPT Graph: A Simple Tool for Knowledge Graph Exploration](https://dev.to/melbably/gpt-graph-a-simple-tool-for-knowledge-graph-exploration-257k)
+- [Dev.to/JS] [Javascript event loop](https://dev.to/ngquan/javascript-event-loop-47p8)
 - [Dev.to/JS] [Rest vs. Spread Syntax in JavaScript: Comparison and Differences](https://dev.to/nikolasbarwicki/rest-vs-spread-syntax-in-javascript-comparison-and-differences-1n25)
 - [Dev.to/JS] [Loop over iterable and object with for..in and for..of](https://dev.to/dev_duckling/loop-over-iterable-and-object-with-forin-and-forof-3k51)
 - [Dev.to/JS] [How React, ReactDOM, and JSX Work Together?](https://dev.to/tanmayabiswal/how-react-reactdom-and-jsx-work-together-2o9h)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Favorite Free Courses to Learn JavaScript in depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9)
 - [Dev.to/JS] [Making Four-In-A-Row - Part 4: Winning Ways and Tedious Ties](https://dev.to/colinkiama/making-four-in-a-row-part-4-winning-ways-and-tedious-ties-4115)
 - [Dev.to/JS] [How to configure vite.config.js with a service.js file for local development &lpar; vue &amp; vuetify &rpar;](https://dev.to/fercarballo/how-to-configure-viteconfigjs-with-a-servicejs-file-for-local-development-vue-vuetify--8c5)
-- [Dev.to/JS] [Installing and using Glint in Ember.js](https://dev.to/charlesfries/installing-and-using-glint-in-emberjs-42i1)
-- [Dev.to/JS] [5 Easy steps to build the GitHub Globe Effect &lpar;System Design&rpar;](https://dev.to/xplodivity/5-easy-steps-to-build-the-github-globe-effect-system-design-36g8)
-- [Dev.to/JS] [Turning Text into Art with Pixray Text2Img: A Beginner&#39;s Guide](https://dev.to/mikeyoung44/turning-text-into-pixel-art-with-pixray-a-beginners-guide-31am)
 - [Lifehacker] [Surround Your House With These Foundation Plants](https://lifehacker.com/surround-your-house-with-these-foundation-plants-1850386141)
 - [Crazy Programmer] [Basic Components of Computer](https://www.thecrazyprogrammer.com/2023/04/components-of-computer.html)
 - [Lifehacker] [Don&#39;t Store These Items Near Your Hot Water Heater](https://lifehacker.com/dont-store-these-items-near-your-hot-water-heater-1850386142)
