@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [15 Project Ideas for Developers: From Easy to Hard](https://dev.to/naser_shareef/15-project-ideas-for-developers-from-easy-to-hard-34ed)
+- [Dev.to/JS] [ez-ux: an invitation to work on this open source project](https://dev.to/livramatheus/ez-ux-an-invitation-to-work-on-this-open-source-project-18fa)
 - [Lifehacker] [How to Get Rid of the Sewage Smell Coming From Your Shower Drain](https://lifehacker.com/how-to-get-rid-of-the-sewage-smell-coming-from-your-sho-1850386182)
 - [Dev.to/JS] [extracting RGBA values of an Image](https://dev.to/pavanrajesh/extracting-rgba-values-of-pixels-142l)
 - [Dev.to/JS] [How I Created an Award-Winning Portfolio Site with Zero Experience](https://dev.to/harryholland/how-i-created-an-award-winning-portfolio-site-with-zero-experience-fdk)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript event loop](https://dev.to/ngquan/javascript-event-loop-47p8)
 - [Dev.to/JS] [Rest vs. Spread Syntax in JavaScript: Comparison and Differences](https://dev.to/nikolasbarwicki/rest-vs-spread-syntax-in-javascript-comparison-and-differences-1n25)
 - [Dev.to/JS] [Loop over iterable and object with for..in and for..of](https://dev.to/dev_duckling/loop-over-iterable-and-object-with-forin-and-forof-3k51)
-- [Dev.to/JS] [How React, ReactDOM, and JSX Work Together?](https://dev.to/tanmayabiswal/how-react-reactdom-and-jsx-work-together-2o9h)
-- [Dev.to/JS] [React Lifecycle Methods vs React Hooks: Do React Hooks Relate to Lifecycle Methods?](https://dev.to/sanjampreetsingh/react-lifecycle-methods-vs-react-hooks-do-react-hooks-relate-to-lifecycle-methods-472h)
 - [Lifehacker] [Surround Your House With These Foundation Plants](https://lifehacker.com/surround-your-house-with-these-foundation-plants-1850386141)
 - [Crazy Programmer] [Basic Components of Computer](https://www.thecrazyprogrammer.com/2023/04/components-of-computer.html)
 - [Lifehacker] [Don&#39;t Store These Items Near Your Hot Water Heater](https://lifehacker.com/dont-store-these-items-near-your-hot-water-heater-1850386142)
