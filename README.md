@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Event Listeners, with Turbolinks and AJAX](https://dev.to/joe_66/javascript-event-listeners-with-turbolinks-and-ajax-j97)
 - [Dev.to/JS] [Download a file with react hook](https://dev.to/orkhanjafarovr/download-a-file-with-react-hook-13pp)
 - [Dev.to/JS] [Redux Oversimplified: Ultimate guide for beginners](https://dev.to/captainprinz/redux-oversimplified-ultimate-guide-for-beginners-4i9l)
 - [Dev.to/JS] [Building a simple real-time chat app with Node.js and Socket.io](https://dev.to/ndulue/building-a-simple-real-time-chat-app-with-nodejs-and-socketio-e9i)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [15 Project Ideas for Developers: From Easy to Hard](https://dev.to/naser_shareef/15-project-ideas-for-developers-from-easy-to-hard-34ed)
 - [Dev.to/JS] [ez-ux: an invitation to work on this open source project](https://dev.to/livramatheus/ez-ux-an-invitation-to-work-on-this-open-source-project-18fa)
 - [Lifehacker] [How to Get Rid of the Sewage Smell Coming From Your Shower Drain](https://lifehacker.com/how-to-get-rid-of-the-sewage-smell-coming-from-your-sho-1850386182)
-- [Dev.to/JS] [extracting RGBA values of an Image](https://dev.to/pavanrajesh/extracting-rgba-values-of-pixels-142l)
 - [Lifehacker] [Surround Your House With These Foundation Plants](https://lifehacker.com/surround-your-house-with-these-foundation-plants-1850386141)
 - [Crazy Programmer] [Basic Components of Computer](https://www.thecrazyprogrammer.com/2023/04/components-of-computer.html)
 - [Lifehacker] [Don&#39;t Store These Items Near Your Water Heater](https://lifehacker.com/dont-store-these-items-near-your-hot-water-heater-1850386142)
