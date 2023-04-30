@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Step-by-Step Tutorial on How to Use Next Auth in Next.js 13 using Route Handlers.](https://dev.to/alishirani/step-by-step-tutorial-on-how-to-use-next-auth-in-nextjs-13-using-route-handlers-2jmc)
+- [Dev.to/JS] [How Array.prototype.sort&lpar;&rpar; works?](https://dev.to/bekmurzintimur/how-arrayprototypesort-works-3kcn)
 - [Lifehacker] [The Best Way to Remove Stains From Your Mattress](https://lifehacker.com/the-best-way-to-remove-stains-from-your-mattress-1850386395)
 - [Dev.to/JS] [15 Project Ideas for Developers: From Easy to Hard](https://dev.to/naser_shareef/15-project-ideas-for-developers-from-easy-to-hard-34ed)
 - [Dev.to/JS] [ez-ux: an invitation to work on this open source project](https://dev.to/livramatheus/ez-ux-an-invitation-to-work-on-this-open-source-project-18fa)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HOW TO GENERATE 4 DIGIT OTP WITH JAVASCRIPT](https://dev.to/candie_code/how-to-generate-4-digit-otp-with-javascript-1f)
 - [Dev.to/JS] [GPT Graph: A Simple Tool for Knowledge Graph Exploration](https://dev.to/melbably/gpt-graph-a-simple-tool-for-knowledge-graph-exploration-257k)
 - [Dev.to/JS] [Javascript event loop - approach the first meet](https://dev.to/ngquan/javascript-event-loop-47p8)
-- [Dev.to/JS] [Rest vs. Spread Syntax in JavaScript: Comparison and Differences](https://dev.to/nikolasbarwicki/rest-vs-spread-syntax-in-javascript-comparison-and-differences-1n25)
-- [Dev.to/JS] [Loop over iterable and object with for..in and for..of](https://dev.to/dev_duckling/loop-over-iterable-and-object-with-forin-and-forof-3k51)
 - [Lifehacker] [Surround Your House With These Foundation Plants](https://lifehacker.com/surround-your-house-with-these-foundation-plants-1850386141)
 - [Crazy Programmer] [Basic Components of Computer](https://www.thecrazyprogrammer.com/2023/04/components-of-computer.html)
 - [Lifehacker] [Don&#39;t Store These Items Near Your Hot Water Heater](https://lifehacker.com/dont-store-these-items-near-your-hot-water-heater-1850386142)
