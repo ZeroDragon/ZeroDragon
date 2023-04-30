@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I Created an Award-Winning Portfolio Site with Zero Experience](https://dev.to/harryholland/how-i-created-an-award-winning-portfolio-site-with-zero-experience-fdk)
+- [Dev.to/JS] [Responsive Navigation Bar with Dropdown Menu using JavaScript](https://dev.to/incoderweb/responsive-navigation-bar-with-dropdown-menu-using-javascript-1ahf)
+- [Dev.to/JS] [Mostly asked Angular Interview Questions and Answers](https://dev.to/sonvendra/mostly-asked-angular-interview-questions-and-answers-58nc)
+- [Dev.to/JS] [Top 5 Javascript ES6 Interview Questions and Answers](https://dev.to/sonvendra/top-5-javascript-es6-interview-questions-and-answers-1010)
 - [Dev.to/JS] [HOW TO GENERATE 4 DIGIT OTP WITH JAVASCRIPT](https://dev.to/candie_code/how-to-generate-4-digit-otp-with-javascript-1f)
 - [Dev.to/JS] [GPT Graph: A Simple Tool for Knowledge Graph Exploration](https://dev.to/melbably/gpt-graph-a-simple-tool-for-knowledge-graph-exploration-257k)
 - [Dev.to/JS] [Javascript event loop](https://dev.to/ngquan/javascript-event-loop-47p8)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How React, ReactDOM, and JSX Work Together?](https://dev.to/tanmayabiswal/how-react-reactdom-and-jsx-work-together-2o9h)
 - [Dev.to/JS] [React Lifecycle Methods vs React Hooks: Do React Hooks Relate to Lifecycle Methods?](https://dev.to/sanjampreetsingh/react-lifecycle-methods-vs-react-hooks-do-react-hooks-relate-to-lifecycle-methods-472h)
 - [Dev.to/JS] [Unleash the Power of LangChain 🦜️🔗: 10 Cool Use Cases You Can Build.](https://dev.to/codewithyaku/unleash-the-power-of-langchain-10-cool-use-cases-you-can-build-12bo)
-- [Dev.to/JS] [More &quot;FUN-ctions&quot;](https://dev.to/aoppman/more-fun-ctions-3j77)
-- [Dev.to/JS] [My Favorite Free Courses to Learn JavaScript in depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9)
-- [Dev.to/JS] [Making Four-In-A-Row - Part 4: Winning Ways and Tedious Ties](https://dev.to/colinkiama/making-four-in-a-row-part-4-winning-ways-and-tedious-ties-4115)
-- [Dev.to/JS] [How to configure vite.config.js with a service.js file for local development &lpar; vue &amp; vuetify &rpar;](https://dev.to/fercarballo/how-to-configure-viteconfigjs-with-a-servicejs-file-for-local-development-vue-vuetify--8c5)
 - [Lifehacker] [Surround Your House With These Foundation Plants](https://lifehacker.com/surround-your-house-with-these-foundation-plants-1850386141)
 - [Crazy Programmer] [Basic Components of Computer](https://www.thecrazyprogrammer.com/2023/04/components-of-computer.html)
 - [Lifehacker] [Don&#39;t Store These Items Near Your Hot Water Heater](https://lifehacker.com/dont-store-these-items-near-your-hot-water-heater-1850386142)
