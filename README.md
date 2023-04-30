@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting started: Blockchain development.](https://dev.to/obodobright/getting-started-blockchain-development-4hm8)
+- [Dev.to/JS] [Recursive GPT and multiple AI-Powered Prompters - Check out these creative projects! 🤖🔥](https://dev.to/synthetixartifacts/recursive-gpt-and-multiple-ai-powered-prompters-check-out-these-creative-projects-2npm)
+- [Lifehacker] [How to Tell Whether Water Damage Is New or Old](https://lifehacker.com/how-to-tell-whether-water-damage-is-new-or-old-1850386390)
 - [Dev.to/JS] [Step-by-Step Tutorial on How to Use Next Auth in Next.js 13 using Route Handlers.](https://dev.to/alishirani/step-by-step-tutorial-on-how-to-use-next-auth-in-nextjs-13-using-route-handlers-2jmc)
 - [Dev.to/JS] [How Array.prototype.sort&lpar;&rpar; works?](https://dev.to/bekmurzintimur/how-arrayprototypesort-works-3kcn)
 - [Lifehacker] [The Best Way to Remove Stains From Your Mattress](https://lifehacker.com/the-best-way-to-remove-stains-from-your-mattress-1850386395)
@@ -35,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mostly asked Angular Interview Questions and Answers](https://dev.to/sonvendra/mostly-asked-angular-interview-questions-and-answers-58nc)
 - [Dev.to/JS] [Top 5 Javascript ES6 Interview Questions and Answers](https://dev.to/sonvendra/top-5-javascript-es6-interview-questions-and-answers-1010)
 - [Dev.to/JS] [HOW TO GENERATE 4 DIGIT OTP WITH JAVASCRIPT](https://dev.to/candie_code/how-to-generate-4-digit-otp-with-javascript-1f)
-- [Dev.to/JS] [GPT Graph: A Simple Tool for Knowledge Graph Exploration](https://dev.to/melbably/gpt-graph-a-simple-tool-for-knowledge-graph-exploration-257k)
-- [Dev.to/JS] [Javascript event loop - approach the first meet](https://dev.to/ngquan/javascript-event-loop-47p8)
 - [Lifehacker] [Surround Your House With These Foundation Plants](https://lifehacker.com/surround-your-house-with-these-foundation-plants-1850386141)
 - [Crazy Programmer] [Basic Components of Computer](https://www.thecrazyprogrammer.com/2023/04/components-of-computer.html)
 - [Lifehacker] [Don&#39;t Store These Items Near Your Hot Water Heater](https://lifehacker.com/dont-store-these-items-near-your-hot-water-heater-1850386142)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Kias and Hyundais Are Being Blacklisted by Some Insurance Companies](https://lifehacker.com/these-kias-and-hyundais-are-being-blacklisted-by-some-i-1850383633)
 - [Lifehacker] [Some Melatonin Gummies Are Way Stronger Than Advertised](https://lifehacker.com/some-melatonin-gummies-are-way-stronger-than-advertised-1850383023)
 - [Lifehacker] [This App Lets You Search for Everything You’ve Ever Done on Your Mac](https://lifehacker.com/this-app-lets-you-search-for-everything-you-ve-ever-don-1850381648)
-- [Lifehacker] [Nobody Can Agree on What &#39;Zone 2&#39; Cardio Is](https://lifehacker.com/nobody-can-agree-on-what-zone-2-cardio-is-1850379968)
-- [Lifehacker] [Why You Might Actually Want a Grass Driveway](https://lifehacker.com/why-you-might-actually-want-a-grass-driveway-1850381480)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Nobody Can Agree on What &#39;Zone 2&#39; Cardio Is](https://lifehacker.com/nobody-can-agree-on-what-zone-2-cardio-is-1850379968)<!-- TECH-POSTS:END -->
 
 ---
 
