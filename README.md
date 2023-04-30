@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [More &quot;FUN-ctions&quot;](https://dev.to/aoppman/more-fun-ctions-3j77)
 - [Dev.to/JS] [My Favorite Free Courses to Learn JavaScript in depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9)
 - [Dev.to/JS] [Making Four-In-A-Row - Part 4: Winning Ways and Tedious Ties](https://dev.to/colinkiama/making-four-in-a-row-part-4-winning-ways-and-tedious-ties-4115)
 - [Dev.to/JS] [How to configure vite.config.js with a service.js file for local development &lpar; vue &amp; vuetify &rpar;](https://dev.to/fercarballo/how-to-configure-viteconfigjs-with-a-servicejs-file-for-local-development-vue-vuetify--8c5)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 14 VSCode Extensions imo!](https://dev.to/bekbrace/top-14-vscode-extensions-imo-1j4n)
 - [Dev.to/JS] [New updates to Nodejs V20 🔥](https://dev.to/100lvlmaster/new-updates-to-nodejs-v20-32k)
 - [Dev.to/JS] [The NoBS stack](https://dev.to/adam_cyclones/the-nobs-stack-21lp)
-- [Dev.to/JS] [HOW TO PREVIEW AN UPLOADED IMAGE WITH REACT.JS](https://dev.to/candie_code/how-to-preview-an-uploaded-image-with-reactjs-30ak)
 - [Lifehacker] [Surround Your House With These Foundation Plants](https://lifehacker.com/surround-your-house-with-these-foundation-plants-1850386141)
 - [Crazy Programmer] [Basic Components of Computer](https://www.thecrazyprogrammer.com/2023/04/components-of-computer.html)
 - [Lifehacker] [Don&#39;t Store These Items Near Your Hot Water Heater](https://lifehacker.com/dont-store-these-items-near-your-hot-water-heater-1850386142)
