@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Favorite Free Courses to Learn JavaScript in depth](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9)
+- [Dev.to/JS] [Making Four-In-A-Row - Part 4: Winning Ways and Tedious Ties](https://dev.to/colinkiama/making-four-in-a-row-part-4-winning-ways-and-tedious-ties-4115)
 - [Dev.to/JS] [How to configure vite.config.js with a service.js file for local development &lpar; vue &amp; vuetify &rpar;](https://dev.to/fercarballo/how-to-configure-viteconfigjs-with-a-servicejs-file-for-local-development-vue-vuetify--8c5)
 - [Dev.to/JS] [Installing and using Glint in Ember.js](https://dev.to/charlesfries/installing-and-using-glint-in-emberjs-42i1)
 - [Dev.to/JS] [5 Easy steps to build the GitHub Globe Effect &lpar;System Design&rpar;](https://dev.to/xplodivity/5-easy-steps-to-build-the-github-globe-effect-system-design-36g8)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New updates to Nodejs V20 🔥](https://dev.to/100lvlmaster/new-updates-to-nodejs-v20-32k)
 - [Dev.to/JS] [The NoBS stack](https://dev.to/adam_cyclones/the-nobs-stack-21lp)
 - [Dev.to/JS] [HOW TO PREVIEW AN UPLOADED IMAGE WITH REACT.JS](https://dev.to/candie_code/how-to-preview-an-uploaded-image-with-reactjs-30ak)
-- [Dev.to/JS] [Why I Like Using Maps &lpar;and WeakMaps&rpar; for Handling DOM Nodes](https://dev.to/alexmacarthur/why-i-like-using-maps-and-weakmaps-for-handling-dom-nodes-3k58)
 - [Lifehacker] [Surround Your House With These Foundation Plants](https://lifehacker.com/surround-your-house-with-these-foundation-plants-1850386141)
-- [Dev.to/JS] [Make salary calculator using Chat GPT and Excel](https://dev.to/mizanur919/make-salary-calculator-using-chat-gpt-and-excel-4jeb)
 - [Crazy Programmer] [Basic Components of Computer](https://www.thecrazyprogrammer.com/2023/04/components-of-computer.html)
 - [Lifehacker] [Don&#39;t Store These Items Near Your Hot Water Heater](https://lifehacker.com/dont-store-these-items-near-your-hot-water-heater-1850386142)
 - [Lifehacker] [How to Tell the Difference Between Wood Rot and Termite Damage](https://lifehacker.com/how-to-tell-the-difference-between-wood-rot-and-termite-1850386149)
