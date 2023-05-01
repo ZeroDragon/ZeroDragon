@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Coconut Macaroon Cake Is Easier Than a Batch of Cookies](https://lifehacker.com/this-coconut-macaroon-cake-is-easier-than-a-batch-of-co-1850390862)
+- [Lifehacker] [Use Your Expired Bed Bath &amp; Beyond Coupons at These Stores](https://lifehacker.com/use-your-expired-bed-bath-beyond-coupons-at-these-sto-1850390861)
+- [Dev.to/JS] [Install your package without conflicts](https://dev.to/maliano63717738/install-your-package-without-conflicts-47on)
 - [Lifehacker] [Upgrade Your Browser With a ChatGPT Sidebar](https://lifehacker.com/upgrade-your-browser-with-a-chatgpt-sidebar-1850385569)
 - [Dev.to/JS] [How To Use The Next.js Link Component &lpar;with Examples&rpar;](https://dev.to/ubahthebuilder/how-to-use-the-nextjs-link-component-with-examples-35nn)
 - [Dev.to/JS] [Create Toast Alert Dark Design in HTML &amp; CSS](https://dev.to/incoderweb/create-toast-alert-dark-design-in-html-css-4i7n)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Hurry, Give Your Pizza a Cheesy Bottom](https://lifehacker.com/hurry-give-your-pizza-a-cheesy-bottom-1850386259)
 - [Dev.to/JS] [What&#39;s This Tutorial Hell !](https://dev.to/jasmeetsingh/whats-this-tutorial-hell--49a8)
 - [Dev.to/JS] [From Mechanical Engineering to Software Engineering: Why I Transitioned into Tech](https://dev.to/kingdavidjnr/from-mechanical-engineering-to-software-engineering-why-i-transitioned-into-tech-4mn8)
-- [Dev.to/JS] [Why React is not dying!](https://dev.to/shareef/why-react-is-not-dying-3p25)
 - [Lifehacker] [These Are the Best Free Study Apps for Any Learner](https://lifehacker.com/these-are-the-best-free-study-apps-for-any-learner-1850390146)
 - [Lifehacker] [Don’t Make These Recycling Mistakes](https://lifehacker.com/don-t-make-these-recycling-mistakes-1850382708)
 - [Lifehacker] [The Easiest Ways to Waste Your Money on Running, According to Reddit](https://lifehacker.com/the-easiest-ways-to-waste-your-money-on-running-accord-1850384336)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Know If You&#39;re Ready for a Big Test](https://lifehacker.com/the-best-way-to-know-if-youre-ready-for-a-big-test-1850379720)
 - [Lifehacker] [These Viagra Pills Have Been Recalled for Safety, FDA Says](https://lifehacker.com/these-viagra-pills-have-been-recalled-for-safety-fda-s-1850384772)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Fox News Settlement](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-fox-news-s-1850383991)
-- [Lifehacker] [Things I Wish I’d Known Before I Bought a Robot Vacuum](https://lifehacker.com/things-i-wish-i-d-known-before-i-bought-a-robot-vacuum-1850382900)
-- [Lifehacker] [Get a Free Sandwich From Dave&#39;s Hot Chicken](https://lifehacker.com/get-a-free-sandwich-from-daves-hot-chicken-1850384214)
-- [Lifehacker] [Google Meet Now Supports 1080p Video Calls &lpar;for Some of Us&rpar;](https://lifehacker.com/google-meet-now-supports-1080p-video-calls-for-some-of-1850383447)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Things I Wish I’d Known Before I Bought a Robot Vacuum](https://lifehacker.com/things-i-wish-i-d-known-before-i-bought-a-robot-vacuum-1850382900)<!-- TECH-POSTS:END -->
 
 ---
 
