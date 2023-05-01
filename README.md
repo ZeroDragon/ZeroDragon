@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mutable Object References](https://dev.to/kristof1345/mutable-object-references-big)
+- [Dev.to/JS] [Building a tints and shades colour generator with React and Values.js](https://dev.to/arshadayvid/building-a-tints-and-shades-colour-generator-with-react-and-valuesjs-4n64)
+- [Dev.to/JS] [what i&#39;ve learnt so far using Reactjs](https://dev.to/gutopro/what-ive-learnt-so-far-using-reactjs-b70)
 - [Dev.to/JS] [Hello](https://dev.to/delrosariorovic/hello-2m6h)
 - [Dev.to/JS] [How to Install and Manage Multiple Versions of Nodejs on Windows](https://dev.to/stephengade/how-to-install-and-manage-multiple-versions-of-nodejs-on-windows-5h30)
 - [Dev.to/JS] [Promises — Understanding JavaScript API Requests and Responses in the Data Fetching lifecycle](https://dev.to/rodcast/promises-understanding-javascript-api-requests-and-responses-in-the-data-fetching-lifecycle-2imo)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, Apr 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-4-apr-2023-fe3)
 - [Dev.to/JS] [Prostadine - Prostate Health Reviews, Results, Price And Benefits?](https://dev.to/prostadine71218/prostadine-prostate-health-reviews-results-price-and-benefits-8h3)
 - [Dev.to/JS] [5 Popular libraries you should know as a React Developer](https://dev.to/uttamsharma446/5-popular-libraries-you-should-know-as-a-react-developer-2755)
-- [Dev.to/JS] [How To Host Websites on GitHub Pages](https://dev.to/badbatunde/how-to-host-websites-on-github-pages-4113)
-- [Dev.to/JS] [Exploring Vite.js: The Lightning-Fast Build Tool for Modern Web Apps](https://dev.to/nitinfab/exploring-vitejs-the-lightning-fast-build-tool-for-modern-web-apps-5h0p)
-- [Dev.to/JS] [JavaScript is a powerful and versatile programming language, 1444231 libraries and counting......](https://dev.to/zobaidulofficial/javascript-is-a-powerful-and-versatile-programming-language-1444231-libraries-and-counting-3jn5)
 - [Lifehacker] [How to Tell Whether Water Damage Is New or Old](https://lifehacker.com/how-to-tell-whether-water-damage-is-new-or-old-1850386390)
 - [Lifehacker] [The Best Way to Remove Stains From Your Mattress](https://lifehacker.com/the-best-way-to-remove-stains-from-your-mattress-1850386395)
 - [Lifehacker] [How to Get Rid of the Sewage Smell Coming From Your Shower Drain](https://lifehacker.com/how-to-get-rid-of-the-sewage-smell-coming-from-your-sho-1850386182)
