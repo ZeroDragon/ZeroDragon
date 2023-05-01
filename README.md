@@ -23,6 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Upgrade Your Browser With a ChatGPT Sidebar](https://lifehacker.com/upgrade-your-browser-with-a-chatgpt-sidebar-1850385569)
+- [Dev.to/JS] [How To Use The Next.js Link Component &lpar;with Examples&rpar;](https://dev.to/ubahthebuilder/how-to-use-the-nextjs-link-component-with-examples-35nn)
+- [Dev.to/JS] [Create Toast Alert Dark Design in HTML &amp; CSS](https://dev.to/incoderweb/create-toast-alert-dark-design-in-html-css-4i7n)
+- [Dev.to/JS] [Array-Flatten Array Javascript interview questions-1](https://dev.to/imranmind/array-flatten-array-javascript-interview-questions-1-4bba)
+- [Dev.to/JS] [GSchema - A schematics engine written in go](https://dev.to/hopemanryan/gschema-a-schematics-engine-written-in-go-17pe)
+- [Lifehacker] [Use This Glitch to Get Your Twitter Verification Back for Some Reason](https://lifehacker.com/use-this-glitch-to-get-your-twitter-verification-back-f-1850391025)
+- [Dev.to/JS] [A Fun Introduction to padStart&lpar;&rpar; in JavaScript: Padding Your Strings Like a Pro](https://dev.to/obere4u/a-fun-introduction-to-padstart-in-javascript-padding-your-strings-like-a-pro-3oi)
+- [Dev.to/JS] [Mutable or Immutable: Understanding JavaScript&#39;s Yin and Yang](https://dev.to/akramsmahmoud/mutable-or-immutable-understanding-javascripts-yin-and-yang-4ce4)
+- [Dev.to/JS] [Avoid This Common React Hook Antipattern](https://dev.to/daveturissini/avoid-this-common-react-hook-antipattern-1eh1)
+- [Lifehacker] [Four Basic Job Skills Everyone Needs, But Not Everyone Has](https://lifehacker.com/four-basic-job-skills-everyone-needs-but-not-everyone-1850386104)
 - [Lifehacker] [You Can Get a Free Month of Paramount+ and Showtime Right Now](https://lifehacker.com/you-can-get-a-free-month-of-paramount-and-showtime-rig-1850387511)
 - [Dev.to/JS] [Preparing for Code Challenges](https://dev.to/cindyhernandez/preparing-for-code-challenges-26p5)
 - [Dev.to/JS] [Information Flow in React](https://dev.to/cindyhernandez/information-flow-in-react-14c5)
@@ -31,15 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From Mechanical Engineering to Software Engineering: Why I Transitioned into Tech](https://dev.to/kingdavidjnr/from-mechanical-engineering-to-software-engineering-why-i-transitioned-into-tech-4mn8)
 - [Dev.to/JS] [Why React is not dying!](https://dev.to/shareef/why-react-is-not-dying-3p25)
 - [Lifehacker] [These Are the Best Free Study Apps for Any Learner](https://lifehacker.com/these-are-the-best-free-study-apps-for-any-learner-1850390146)
-- [Dev.to/JS] [Asynchronous JavaScript: From Callbacks to Async/Await - A Journey Through Evolution](https://dev.to/raxraj/asynchronous-javascript-from-callbacks-to-asyncawait-a-journey-through-evolution-5578)
-- [Dev.to/JS] [Creating a Candlestick Chart with JS to Analyze Stocks](https://dev.to/awanshrestha/creating-a-candlestick-chart-with-js-to-analyze-stocks-3b0g)
-- [Dev.to/JS] [JAVASCRIPT ARRAY.MAP&lpar;&rpar; METHOD](https://dev.to/candie_code/javascript-arraymap-method-4jmj)
 - [Lifehacker] [Don’t Make These Recycling Mistakes](https://lifehacker.com/don-t-make-these-recycling-mistakes-1850382708)
-- [Dev.to/JS] [Why Javascript mcq is important?](https://dev.to/mytrendinn/why-javascript-mcq-is-important-1778)
-- [Dev.to/JS] [DOMContentLoaded vs window.onload](https://dev.to/obere4u/domcontentloaded-vs-windowonload-9mc)
 - [Lifehacker] [The Easiest Ways to Waste Your Money on Running, According to Reddit](https://lifehacker.com/the-easiest-ways-to-waste-your-money-on-running-accord-1850384336)
-- [Dev.to/JS] [API Limiting: Best Practices and Implementation](https://dev.to/tijan_io/api-limiting-best-practices-and-implementation-49c8)
-- [Dev.to/JS] [Como adicionar o Bootstrap ao Next.js](https://dev.to/rodrigozan/como-adicionar-o-bootstrap-ao-nextjs-307o)
 - [Lifehacker] [How to Emotionally Detach From Your Home When You Need to Sell It](https://lifehacker.com/how-to-emotionally-detach-from-your-home-when-you-need-1850385929)
 - [Lifehacker] [All the Ways Divorce Can Negatively Impact Your Finances](https://lifehacker.com/all-the-ways-divorce-can-negatively-impact-your-finance-1850382934)
 - [Lifehacker] [Why You Probably Shouldn’t Clean Your Dryer Vent With a Leaf Blower](https://lifehacker.com/why-you-probably-shouldn-t-clean-your-dryer-vent-with-a-1850385269)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What People Are Getting Wrong This Week: The Fox News Settlement](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-fox-news-s-1850383991)
 - [Lifehacker] [Things I Wish I’d Known Before I Bought a Robot Vacuum](https://lifehacker.com/things-i-wish-i-d-known-before-i-bought-a-robot-vacuum-1850382900)
 - [Lifehacker] [Get a Free Sandwich From Dave&#39;s Hot Chicken](https://lifehacker.com/get-a-free-sandwich-from-daves-hot-chicken-1850384214)
-- [Lifehacker] [Google Meet Now Supports 1080p Video Calls &lpar;for Some of Us&rpar;](https://lifehacker.com/google-meet-now-supports-1080p-video-calls-for-some-of-1850383447)
-- [Lifehacker] [Now You Can Call ChatGPT on the Phone](https://lifehacker.com/now-you-can-call-chatgpt-on-the-phone-1850379770)
-- [Lifehacker] [Your Old Email Address Is Hurting Your Job Prospects](https://lifehacker.com/your-old-email-address-is-hurting-your-job-prospects-1850348243)
-- [Lifehacker] [This Is the Best Reason to Save Your Champagne Corks](https://lifehacker.com/this-is-the-best-reason-to-save-your-champagne-corks-1850339119)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Google Meet Now Supports 1080p Video Calls &lpar;for Some of Us&rpar;](https://lifehacker.com/google-meet-now-supports-1080p-video-calls-for-some-of-1850383447)<!-- TECH-POSTS:END -->
 
 ---
 
