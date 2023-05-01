@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Probably Shouldn’t Clean Your Dryer Vent With a Leaf Blower](https://lifehacker.com/why-you-probably-shouldn-t-clean-your-dryer-vent-with-a-1850385269)
+- [Dev.to/JS] [Responsive Navbar with Hide on Scroll down and show on scroll up copy paste ready](https://dev.to/sreeharshrajan/responsive-navbar-with-hide-on-scroll-down-and-show-on-scroll-up-copy-paste-ready-5dba)
+- [Dev.to/JS] [Episode 23/17: Twitter Space on the Future of Angular, Tiny Conf](https://dev.to/ng_news/episode-2317-twitter-space-on-the-future-of-angular-tiny-conf-2okh)
 - [Dev.to/JS] [Mutable Object References](https://dev.to/kristof1345/mutable-object-references-big)
 - [Dev.to/JS] [Building a tints and shades colour generator with React and Values.js](https://dev.to/arshadayvid/building-a-tints-and-shades-colour-generator-with-react-and-valuesjs-4n64)
 - [Dev.to/JS] [what i&#39;ve learnt so far using Reactjs](https://dev.to/gutopro/what-ive-learnt-so-far-using-reactjs-b70)
 - [Dev.to/JS] [Hello](https://dev.to/delrosariorovic/hello-2m6h)
 - [Dev.to/JS] [How to Install and Manage Multiple Versions of Nodejs on Windows](https://dev.to/stephengade/how-to-install-and-manage-multiple-versions-of-nodejs-on-windows-5h30)
 - [Dev.to/JS] [Promises — Understanding JavaScript API Requests and Responses in the Data Fetching lifecycle](https://dev.to/rodcast/promises-understanding-javascript-api-requests-and-responses-in-the-data-fetching-lifecycle-2imo)
+- [Dev.to/JS] [How to serialize responses in nestjs](https://dev.to/alwoch/how-to-serialize-responses-in-nestjs-4khk)
 - [Dev.to/JS] [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - User Profile Update UI](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-user-profile-update-ui-4f78)
 - [Dev.to/JS] [Understanding the Fundamental Differences between API and SDK: A Comprehensive Guide](https://dev.to/ptheodosiou/understanding-the-fundamental-differences-between-api-and-sdk-a-comprehensive-guide-1m69)
 - [Dev.to/JS] [10 ReactJS quizzes](https://dev.to/dovudhonhusanov/10-reactjs-quizzes-3gjh)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, Apr 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-4-apr-2023-fe3)
-- [Dev.to/JS] [Prostadine - Prostate Health Reviews, Results, Price And Benefits?](https://dev.to/prostadine71218/prostadine-prostate-health-reviews-results-price-and-benefits-8h3)
-- [Dev.to/JS] [5 Popular libraries you should know as a React Developer](https://dev.to/uttamsharma446/5-popular-libraries-you-should-know-as-a-react-developer-2755)
 - [Lifehacker] [How to Tell Whether Water Damage Is New or Old](https://lifehacker.com/how-to-tell-whether-water-damage-is-new-or-old-1850386390)
 - [Lifehacker] [The Best Way to Remove Stains From Your Mattress](https://lifehacker.com/the-best-way-to-remove-stains-from-your-mattress-1850386395)
 - [Lifehacker] [How to Get Rid of the Sewage Smell Coming From Your Shower Drain](https://lifehacker.com/how-to-get-rid-of-the-sewage-smell-coming-from-your-sho-1850386182)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in May 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-may-2023-1850383975)
 - [Lifehacker] [These Kias and Hyundais Are Being Blacklisted by Some Insurance Companies](https://lifehacker.com/these-kias-and-hyundais-are-being-blacklisted-by-some-i-1850383633)
 - [Lifehacker] [Some Melatonin Gummies Are Way Stronger Than Advertised](https://lifehacker.com/some-melatonin-gummies-are-way-stronger-than-advertised-1850383023)
-- [Lifehacker] [This App Lets You Search for Everything You’ve Ever Done on Your Mac](https://lifehacker.com/this-app-lets-you-search-for-everything-you-ve-ever-don-1850381648)
-- [Lifehacker] [Nobody Can Agree on What &#39;Zone 2&#39; Cardio Is](https://lifehacker.com/nobody-can-agree-on-what-zone-2-cardio-is-1850379968)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This App Lets You Search for Everything You’ve Ever Done on Your Mac](https://lifehacker.com/this-app-lets-you-search-for-everything-you-ve-ever-don-1850381648)<!-- TECH-POSTS:END -->
 
 ---
 
