@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get a Free Month of Paramount+ and Showtime Right Now](https://lifehacker.com/you-can-get-a-free-month-of-paramount-and-showtime-rig-1850387511)
+- [Dev.to/JS] [Preparing for Code Challenges](https://dev.to/cindyhernandez/preparing-for-code-challenges-26p5)
+- [Dev.to/JS] [Information Flow in React](https://dev.to/cindyhernandez/information-flow-in-react-14c5)
 - [Lifehacker] [Hurry, Give Your Pizza a Cheesy Bottom](https://lifehacker.com/hurry-give-your-pizza-a-cheesy-bottom-1850386259)
 - [Dev.to/JS] [What&#39;s This Tutorial Hell !](https://dev.to/jasmeetsingh/whats-this-tutorial-hell--49a8)
 - [Dev.to/JS] [From Mechanical Engineering to Software Engineering: Why I Transitioned into Tech](https://dev.to/kingdavidjnr/from-mechanical-engineering-to-software-engineering-why-i-transitioned-into-tech-4mn8)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [API Limiting: Best Practices and Implementation](https://dev.to/tijan_io/api-limiting-best-practices-and-implementation-49c8)
 - [Dev.to/JS] [Como adicionar o Bootstrap ao Next.js](https://dev.to/rodrigozan/como-adicionar-o-bootstrap-ao-nextjs-307o)
 - [Lifehacker] [How to Emotionally Detach From Your Home When You Need to Sell It](https://lifehacker.com/how-to-emotionally-detach-from-your-home-when-you-need-1850385929)
-- [Dev.to/JS] [Use the Condense Data Utility and Repair QuickBooks Files](https://dev.to/qbsenterprisesupport/use-the-condense-data-utility-and-repair-quickbooks-files-5gno)
-- [Dev.to/JS] [JavaScript pushes the WebApplication structures from Development to Deployment Stage](https://dev.to/raaghu/javascript-pushes-the-webapplication-structures-from-development-to-deployment-stage-2bbo)
 - [Lifehacker] [All the Ways Divorce Can Negatively Impact Your Finances](https://lifehacker.com/all-the-ways-divorce-can-negatively-impact-your-finance-1850382934)
 - [Lifehacker] [Why You Probably Shouldn’t Clean Your Dryer Vent With a Leaf Blower](https://lifehacker.com/why-you-probably-shouldn-t-clean-your-dryer-vent-with-a-1850385269)
 - [Lifehacker] [How to Tell Whether Water Damage Is New or Old](https://lifehacker.com/how-to-tell-whether-water-damage-is-new-or-old-1850386390)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Google Meet Now Supports 1080p Video Calls &lpar;for Some of Us&rpar;](https://lifehacker.com/google-meet-now-supports-1080p-video-calls-for-some-of-1850383447)
 - [Lifehacker] [Now You Can Call ChatGPT on the Phone](https://lifehacker.com/now-you-can-call-chatgpt-on-the-phone-1850379770)
 - [Lifehacker] [Your Old Email Address Is Hurting Your Job Prospects](https://lifehacker.com/your-old-email-address-is-hurting-your-job-prospects-1850348243)
-- [Lifehacker] [This Is the Best Reason to Save Your Champagne Corks](https://lifehacker.com/this-is-the-best-reason-to-save-your-champagne-corks-1850339119)
-- [Lifehacker] [13 Movies That Reveal Hollywood’s Obsession With Nikes](https://lifehacker.com/13-movies-that-made-the-world-fall-in-love-with-nikes-1850374580)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is the Best Reason to Save Your Champagne Corks](https://lifehacker.com/this-is-the-best-reason-to-save-your-champagne-corks-1850339119)<!-- TECH-POSTS:END -->
 
 ---
 
