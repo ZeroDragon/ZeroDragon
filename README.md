@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Javascript mcq is important?](https://dev.to/mytrendinn/why-javascript-mcq-is-important-1778)
+- [Dev.to/JS] [DOMContentLoaded vs window.onload](https://dev.to/obere4u/domcontentloaded-vs-windowonload-9mc)
+- [Lifehacker] [The Easiest Ways to Waste Your Money on Running, According to Reddit](https://lifehacker.com/the-easiest-ways-to-waste-your-money-on-running-accord-1850384336)
+- [Dev.to/JS] [API Limiting: Best Practices and Implementation](https://dev.to/tijan_io/api-limiting-best-practices-and-implementation-49c8)
+- [Dev.to/JS] [Como adicionar o Bootstrap ao Next.js](https://dev.to/rodrigozan/como-adicionar-o-bootstrap-ao-nextjs-307o)
 - [Lifehacker] [How to Emotionally Detach From Your Home When You Need to Sell It](https://lifehacker.com/how-to-emotionally-detach-from-your-home-when-you-need-1850385929)
 - [Dev.to/JS] [Use the Condense Data Utility and Repair QuickBooks Files](https://dev.to/qbsenterprisesupport/use-the-condense-data-utility-and-repair-quickbooks-files-5gno)
 - [Dev.to/JS] [JavaScript pushes the WebApplication structures from Development to Deployment Stage](https://dev.to/raaghu/javascript-pushes-the-webapplication-structures-from-development-to-deployment-stage-2bbo)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mutable Object References](https://dev.to/kristof1345/mutable-object-references-big)
 - [Dev.to/JS] [Building a tints and shades colour generator with React and Values.js](https://dev.to/arshadayvid/building-a-tints-and-shades-colour-generator-with-react-and-valuesjs-4n64)
 - [Dev.to/JS] [what i&#39;ve learnt so far using Reactjs](https://dev.to/gutopro/what-ive-learnt-so-far-using-reactjs-b70)
-- [Dev.to/JS] [Hello](https://dev.to/delrosariorovic/hello-2m6h)
-- [Dev.to/JS] [How to Install and Manage Multiple Versions of Nodejs on Windows](https://dev.to/stephengade/how-to-install-and-manage-multiple-versions-of-nodejs-on-windows-5h30)
-- [Dev.to/JS] [Promises — Understanding JavaScript API Requests and Responses in the Data Fetching lifecycle](https://dev.to/rodcast/promises-understanding-javascript-api-requests-and-responses-in-the-data-fetching-lifecycle-2imo)
-- [Dev.to/JS] [How to serialize responses in nestjs](https://dev.to/alwoch/how-to-serialize-responses-in-nestjs-4khk)
 - [Lifehacker] [How to Tell Whether Water Damage Is New or Old](https://lifehacker.com/how-to-tell-whether-water-damage-is-new-or-old-1850386390)
 - [Lifehacker] [The Best Way to Remove Stains From Your Mattress](https://lifehacker.com/the-best-way-to-remove-stains-from-your-mattress-1850386395)
 - [Lifehacker] [How to Get Rid of the Sewage Smell Coming From Your Shower Drain](https://lifehacker.com/how-to-get-rid-of-the-sewage-smell-coming-from-your-sho-1850386182)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 Movies That Reveal Hollywood’s Obsession With Nikes](https://lifehacker.com/13-movies-that-made-the-world-fall-in-love-with-nikes-1850374580)
 - [Lifehacker] [The Easiest Way to Prevent a Runny Omelette](https://lifehacker.com/the-easiest-way-to-prevent-a-runny-omelette-1850382914)
 - [Lifehacker] [Things You Should Never Clean With Windex](https://lifehacker.com/things-you-should-never-clean-with-windex-1850382510)
-- [Lifehacker] [What&#39;s New on Prime Video and Freevee in May 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-may-2023-1850383975)
-- [Lifehacker] [These Kias and Hyundais Are Being Blacklisted by Some Insurance Companies](https://lifehacker.com/these-kias-and-hyundais-are-being-blacklisted-by-some-i-1850383633)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Prime Video and Freevee in May 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-may-2023-1850383975)<!-- TECH-POSTS:END -->
 
 ---
 
