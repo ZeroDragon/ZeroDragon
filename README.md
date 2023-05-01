@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Host Websites on GitHub Pages](https://dev.to/badbatunde/how-to-host-websites-on-github-pages-4113)
 - [Dev.to/JS] [Exploring Vite.js: The Lightning-Fast Build Tool for Modern Web Apps](https://dev.to/nitinfab/exploring-vitejs-the-lightning-fast-build-tool-for-modern-web-apps-5h0p)
 - [Dev.to/JS] [JavaScript is a powerful and versatile programming language, 1444231 libraries and counting......](https://dev.to/zobaidulofficial/javascript-is-a-powerful-and-versatile-programming-language-1444231-libraries-and-counting-3jn5)
 - [Dev.to/JS] [Building an Efficient Chat/Message Feature for My Project: My Progress on Day 90 of #100DaysOfCode](https://dev.to/arashjangali/building-an-efficient-chatmessage-feature-for-my-project-my-progress-on-day-90-of-100daysofcode-18d4)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Redux Oversimplified: Ultimate guide for beginners](https://dev.to/captainprinz/redux-oversimplified-ultimate-guide-for-beginners-4i9l)
 - [Dev.to/JS] [Building a simple real-time chat app with Node.js and Socket.io](https://dev.to/ndulue/building-a-simple-real-time-chat-app-with-nodejs-and-socketio-e9i)
 - [Dev.to/JS] [Best Programming Memes of the Week #1](https://dev.to/ymhaah/best-programming-memes-of-the-week-1-gc3)
-- [Dev.to/JS] [Do you want to publish your own npm package ?](https://dev.to/munavvarsinan/do-you-want-to-publish-your-own-npm-package--mjf)
 - [Lifehacker] [How to Tell Whether Water Damage Is New or Old](https://lifehacker.com/how-to-tell-whether-water-damage-is-new-or-old-1850386390)
 - [Lifehacker] [The Best Way to Remove Stains From Your Mattress](https://lifehacker.com/the-best-way-to-remove-stains-from-your-mattress-1850386395)
 - [Lifehacker] [How to Get Rid of the Sewage Smell Coming From Your Shower Drain](https://lifehacker.com/how-to-get-rid-of-the-sewage-smell-coming-from-your-sho-1850386182)
