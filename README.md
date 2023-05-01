@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making Progress: Updates on my Project&#39;s Matching Feature](https://dev.to/arashjangali/making-progress-updates-on-my-projects-matching-feature-33)
+- [Dev.to/JS] [Build a beautiful fireworks animation using only HTML5 Canvas Element and JavaScript](https://dev.to/shrutikapoor08/build-a-beautiful-fireworks-animation-using-only-html5-canvas-element-and-javascript-4e1h)
+- [Dev.to/JS] [Я хотел улучшить React](https://dev.to/isumix/ia-khotiel-uluchshit-react-23mj)
+- [Lifehacker] [Your Switch Probably Doesn’t Have Enough Space for ‘Tears of the Kingdom’](https://lifehacker.com/your-switch-probably-doesn-t-have-enough-space-for-tea-1850391743)
+- [Dev.to/JS] [Teri Meri Dooriyan](https://dev.to/aslamkhan123/teri-meri-dooriyan-1fj8)
 - [Lifehacker] [How to Make Silky Sauces With More Plants and Less Dairy](https://lifehacker.com/how-to-make-silky-sauces-with-more-plants-and-less-dair-1850391960)
 - [Lifehacker] [Use Panko to Add a Buttery Crunch to Your Fried Eggs and Scrambles](https://lifehacker.com/use-panko-to-add-a-buttery-crunch-to-your-fried-eggs-an-1850392330)
 - [Dev.to/JS] [Creating and Using Custom Elements](https://dev.to/webwhispers/creating-and-using-custom-elements-1c6k)
@@ -38,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Upgrade Your Browser With a ChatGPT Sidebar](https://lifehacker.com/upgrade-your-browser-with-a-chatgpt-sidebar-1850385569)
 - [Dev.to/JS] [How To Use The Next.js Link Component &lpar;with Examples&rpar;](https://dev.to/ubahthebuilder/how-to-use-the-nextjs-link-component-with-examples-35nn)
 - [Dev.to/JS] [Create Toast Alert Dark Design in HTML &amp; CSS](https://dev.to/incoderweb/create-toast-alert-dark-design-in-html-css-4i7n)
-- [Dev.to/JS] [Array-Flatten Array Javascript interview questions-1](https://dev.to/imranmind/array-flatten-array-javascript-interview-questions-1-4bba)
-- [Dev.to/JS] [GSchema - A schematics engine written in go](https://dev.to/hopemanryan/gschema-a-schematics-engine-written-in-go-17pe)
 - [Lifehacker] [Use This Glitch to Get Your Twitter Verification Back for Some Reason](https://lifehacker.com/use-this-glitch-to-get-your-twitter-verification-back-f-1850391025)
-- [Dev.to/JS] [A Fun Introduction to padStart&lpar;&rpar; in JavaScript: Padding Your Strings Like a Pro](https://dev.to/obere4u/a-fun-introduction-to-padstart-in-javascript-padding-your-strings-like-a-pro-3oi)
-- [Dev.to/JS] [Mutable or Immutable: Understanding JavaScript&#39;s Yin and Yang](https://dev.to/akramsmahmoud/mutable-or-immutable-understanding-javascripts-yin-and-yang-4ce4)
 - [Lifehacker] [Four Basic Job Skills Everyone Needs, But Not Everyone Has](https://lifehacker.com/four-basic-job-skills-everyone-needs-but-not-everyone-1850386104)
 - [Lifehacker] [You Can Get a Free Month of Paramount+ and Showtime Right Now](https://lifehacker.com/you-can-get-a-free-month-of-paramount-and-showtime-rig-1850387511)
 - [Lifehacker] [Hurry, Give Your Pizza a Cheesy Bottom](https://lifehacker.com/hurry-give-your-pizza-a-cheesy-bottom-1850386259)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell the Difference Between Wood Rot and Termite Damage](https://lifehacker.com/how-to-tell-the-difference-between-wood-rot-and-termite-1850386149)
 - [Lifehacker] [These Are the Best Teacher Appreciation Day Deals &lpar;and the Absolute Least We Can Do As a Society&rpar;](https://lifehacker.com/these-are-the-best-teacher-appreciation-day-deals-and-1850387094)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Gas Station Heroin&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-g-1850385031)
-- [Lifehacker] [Microsoft Will Never Update Windows 10 Again &lpar;But You Can Keep Using It&rpar;](https://lifehacker.com/microsoft-will-never-update-windows-10-again-but-you-c-1850386188)
-- [Lifehacker] [This Chrome Extension Quickly Creates Flash Cards Based on Any Article or Video](https://lifehacker.com/this-chrome-extension-quickly-creates-flash-cards-based-1850385363)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Microsoft Will Never Update Windows 10 Again &lpar;But You Can Keep Using It&rpar;](https://lifehacker.com/microsoft-will-never-update-windows-10-again-but-you-c-1850386188)<!-- TECH-POSTS:END -->
 
 ---
 
