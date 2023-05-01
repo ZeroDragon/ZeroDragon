@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Aspiring Web developer](https://dev.to/ahmedlutfy99/aspiring-web-developer-3151)
+- [Lifehacker] [How the Writers’ Strike Could Affect Everything You Watch](https://lifehacker.com/how-the-writers-strike-could-affect-everything-you-wat-1850392874)
+- [Dev.to/JS] [Node.js vs. Python: Which one is better for web development?](https://dev.to/owoyomi20/nodejs-vs-python-which-one-is-better-for-web-development-1an7)
 - [Dev.to/JS] [Making Progress: Updates on my Project&#39;s Matching Feature](https://dev.to/arashjangali/making-progress-updates-on-my-projects-matching-feature-33)
 - [Dev.to/JS] [Build a beautiful fireworks animation using only HTML5 Canvas Element and JavaScript](https://dev.to/shrutikapoor08/build-a-beautiful-fireworks-animation-using-only-html5-canvas-element-and-javascript-4e1h)
 - [Dev.to/JS] [Я хотел улучшить React](https://dev.to/isumix/ia-khotiel-uluchshit-react-23mj)
@@ -41,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Your Expired Bed Bath &amp; Beyond Coupons at These Stores](https://lifehacker.com/use-your-expired-bed-bath-beyond-coupons-at-these-sto-1850390861)
 - [Dev.to/JS] [Install your package without conflicts](https://dev.to/maliano63717738/install-your-package-without-conflicts-47on)
 - [Lifehacker] [Upgrade Your Browser With a ChatGPT Sidebar](https://lifehacker.com/upgrade-your-browser-with-a-chatgpt-sidebar-1850385569)
-- [Dev.to/JS] [How To Use The Next.js Link Component &lpar;with Examples&rpar;](https://dev.to/ubahthebuilder/how-to-use-the-nextjs-link-component-with-examples-35nn)
-- [Dev.to/JS] [Create Toast Alert Dark Design in HTML &amp; CSS](https://dev.to/incoderweb/create-toast-alert-dark-design-in-html-css-4i7n)
 - [Lifehacker] [Use This Glitch to Get Your Twitter Verification Back for Some Reason](https://lifehacker.com/use-this-glitch-to-get-your-twitter-verification-back-f-1850391025)
 - [Lifehacker] [Four Basic Job Skills Everyone Needs, But Not Everyone Has](https://lifehacker.com/four-basic-job-skills-everyone-needs-but-not-everyone-1850386104)
 - [Lifehacker] [You Can Get a Free Month of Paramount+ and Showtime Right Now](https://lifehacker.com/you-can-get-a-free-month-of-paramount-and-showtime-rig-1850387511)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Store These Items Near Your Water Heater](https://lifehacker.com/dont-store-these-items-near-your-hot-water-heater-1850386142)
 - [Lifehacker] [How to Tell the Difference Between Wood Rot and Termite Damage](https://lifehacker.com/how-to-tell-the-difference-between-wood-rot-and-termite-1850386149)
 - [Lifehacker] [These Are the Best Teacher Appreciation Day Deals &lpar;and the Absolute Least We Can Do As a Society&rpar;](https://lifehacker.com/these-are-the-best-teacher-appreciation-day-deals-and-1850387094)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Gas Station Heroin&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-g-1850385031)
-- [Lifehacker] [Microsoft Will Never Update Windows 10 Again &lpar;But You Can Keep Using It&rpar;](https://lifehacker.com/microsoft-will-never-update-windows-10-again-but-you-c-1850386188)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Gas Station Heroin&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-g-1850385031)<!-- TECH-POSTS:END -->
 
 ---
 
