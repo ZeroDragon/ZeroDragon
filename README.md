@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building an Efficient Chat/Message Feature for My Project: My Progress on Day 90 of #100DaysOfCode](https://dev.to/arashjangali/building-an-efficient-chatmessage-feature-for-my-project-my-progress-on-day-90-of-100daysofcode-18d4)
+- [Dev.to/JS] [Lessons Learned from Tackling a Frontend Mentor Project: Coffee Roasters themed Edition](https://dev.to/kebin20/lessons-learned-from-tackling-a-frontend-mentor-project-coffee-roasters-themed-edition-3ojm)
+- [Dev.to/JS] [Building Stronger Foundations with TypeScript: Insights and Takeaways](https://dev.to/kebin20/building-stronger-foundations-with-typescript-insights-and-takeaways-3if9)
 - [Dev.to/JS] [ActionCable and React for Beginners](https://dev.to/albam476/actioncable-and-react-for-beginners-4gm8)
 - [Dev.to/JS] [JavaScript Event Listeners, with Turbolinks and AJAX](https://dev.to/joe_66/javascript-event-listeners-with-turbolinks-and-ajax-j97)
 - [Dev.to/JS] [Download a file with react hook](https://dev.to/orkhanjafarovr/download-a-file-with-react-hook-13pp)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting started: Blockchain development.](https://dev.to/obodobright/getting-started-blockchain-development-4hm8)
 - [Dev.to/JS] [Recursive GPT and multiple AI-Powered Prompters - Check out these creative projects! 🤖🔥](https://dev.to/synthetixartifacts/recursive-gpt-and-multiple-ai-powered-prompters-check-out-these-creative-projects-2npm)
 - [Lifehacker] [How to Tell Whether Water Damage Is New or Old](https://lifehacker.com/how-to-tell-whether-water-damage-is-new-or-old-1850386390)
-- [Dev.to/JS] [Step-by-Step Tutorial on How to Use Next Auth in Next.js 13 using Route Handlers.](https://dev.to/alishirani/step-by-step-tutorial-on-how-to-use-next-auth-in-nextjs-13-using-route-handlers-2jmc)
-- [Dev.to/JS] [How Array.prototype.sort&lpar;&rpar; works?](https://dev.to/bekmurzintimur/how-arrayprototypesort-works-3kcn)
 - [Lifehacker] [The Best Way to Remove Stains From Your Mattress](https://lifehacker.com/the-best-way-to-remove-stains-from-your-mattress-1850386395)
-- [Dev.to/JS] [15 Project Ideas for Developers: From Easy to Hard](https://dev.to/naser_shareef/15-project-ideas-for-developers-from-easy-to-hard-34ed)
 - [Lifehacker] [How to Get Rid of the Sewage Smell Coming From Your Shower Drain](https://lifehacker.com/how-to-get-rid-of-the-sewage-smell-coming-from-your-sho-1850386182)
 - [Lifehacker] [Surround Your House With These Foundation Plants](https://lifehacker.com/surround-your-house-with-these-foundation-plants-1850386141)
 - [Crazy Programmer] [Basic Components of Computer](https://www.thecrazyprogrammer.com/2023/04/components-of-computer.html)
