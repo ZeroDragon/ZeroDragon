@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Shipping shirts slowly, then faster, with a unique Vue frontend](https://dev.to/carthurhill/shipping-shirts-slowly-then-faster-with-a-unique-vue-frontend-mh)
+- [Lifehacker] [How to Retire When You Have Basically Nothing Saved](https://lifehacker.com/how-to-retire-when-you-have-basically-nothing-saved-1850391373)
 - [Lifehacker] [This Coconut Macaroon Cake Is Easier Than a Batch of Cookies](https://lifehacker.com/this-coconut-macaroon-cake-is-easier-than-a-batch-of-co-1850390862)
 - [Lifehacker] [Use Your Expired Bed Bath &amp; Beyond Coupons at These Stores](https://lifehacker.com/use-your-expired-bed-bath-beyond-coupons-at-these-sto-1850390861)
 - [Dev.to/JS] [Install your package without conflicts](https://dev.to/maliano63717738/install-your-package-without-conflicts-47on)
@@ -41,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Information Flow in React](https://dev.to/cindyhernandez/information-flow-in-react-14c5)
 - [Lifehacker] [Hurry, Give Your Pizza a Cheesy Bottom](https://lifehacker.com/hurry-give-your-pizza-a-cheesy-bottom-1850386259)
 - [Dev.to/JS] [What&#39;s This Tutorial Hell !](https://dev.to/jasmeetsingh/whats-this-tutorial-hell--49a8)
-- [Dev.to/JS] [From Mechanical Engineering to Software Engineering: Why I Transitioned into Tech](https://dev.to/kingdavidjnr/from-mechanical-engineering-to-software-engineering-why-i-transitioned-into-tech-4mn8)
 - [Lifehacker] [These Are the Best Free Study Apps for Any Learner](https://lifehacker.com/these-are-the-best-free-study-apps-for-any-learner-1850390146)
 - [Lifehacker] [Don’t Make These Recycling Mistakes](https://lifehacker.com/don-t-make-these-recycling-mistakes-1850382708)
 - [Lifehacker] [The Easiest Ways to Waste Your Money on Running, According to Reddit](https://lifehacker.com/the-easiest-ways-to-waste-your-money-on-running-accord-1850384336)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Chrome Extension Quickly Creates Flash Cards Based on Any Article or Video](https://lifehacker.com/this-chrome-extension-quickly-creates-flash-cards-based-1850385363)
 - [Lifehacker] [The Best Way to Know If You&#39;re Ready for a Big Test](https://lifehacker.com/the-best-way-to-know-if-youre-ready-for-a-big-test-1850379720)
 - [Lifehacker] [These Viagra Pills Have Been Recalled for Safety, FDA Says](https://lifehacker.com/these-viagra-pills-have-been-recalled-for-safety-fda-s-1850384772)
-- [Lifehacker] [What People Are Getting Wrong This Week: The Fox News Settlement](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-fox-news-s-1850383991)
-- [Lifehacker] [Things I Wish I’d Known Before I Bought a Robot Vacuum](https://lifehacker.com/things-i-wish-i-d-known-before-i-bought-a-robot-vacuum-1850382900)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What People Are Getting Wrong This Week: The Fox News Settlement](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-fox-news-s-1850383991)<!-- TECH-POSTS:END -->
 
 ---
 
