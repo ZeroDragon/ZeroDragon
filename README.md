@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Make Silky Sauces With More Plants and Less Dairy](https://lifehacker.com/how-to-make-silky-sauces-with-more-plants-and-less-dair-1850391960)
+- [Lifehacker] [Use Panko to Add a Buttery Crunch to Your Fried Eggs and Scrambles](https://lifehacker.com/use-panko-to-add-a-buttery-crunch-to-your-fried-eggs-an-1850392330)
+- [Dev.to/JS] [Creating and Using Custom Elements](https://dev.to/webwhispers/creating-and-using-custom-elements-1c6k)
+- [Dev.to/JS] [Getting started with React and GraphQL: A beginner&#39;s guide.](https://dev.to/dev_cody/getting-started-with-react-and-graphql-a-beginners-guide-2ml)
+- [Dev.to/JS] [Enviando arquivos para o Amazon S3 via github actions com uma action personalizada](https://dev.to/wandpsilva/enviando-arquivos-para-o-amazon-s3-via-github-actions-com-uma-action-personalizada-2h78)
+- [Dev.to/JS] [Introduction to Web Components and Why They&#39;re Useful](https://dev.to/webwhispers/introduction-to-web-components-and-why-theyre-useful-57g3)
+- [Lifehacker] [The Data Everyone Should Back Up in Case of a Layoff](https://lifehacker.com/the-data-everyone-should-back-up-in-case-of-a-layoff-1850391262)
 - [Dev.to/JS] [Shipping shirts slowly, then faster, with a unique Vue frontend](https://dev.to/carthurhill/shipping-shirts-slowly-then-faster-with-a-unique-vue-frontend-mh)
 - [Lifehacker] [How to Retire When You Have Basically Nothing Saved](https://lifehacker.com/how-to-retire-when-you-have-basically-nothing-saved-1850391373)
 - [Lifehacker] [This Coconut Macaroon Cake Is Easier Than a Batch of Cookies](https://lifehacker.com/this-coconut-macaroon-cake-is-easier-than-a-batch-of-co-1850390862)
@@ -36,13 +43,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Glitch to Get Your Twitter Verification Back for Some Reason](https://lifehacker.com/use-this-glitch-to-get-your-twitter-verification-back-f-1850391025)
 - [Dev.to/JS] [A Fun Introduction to padStart&lpar;&rpar; in JavaScript: Padding Your Strings Like a Pro](https://dev.to/obere4u/a-fun-introduction-to-padstart-in-javascript-padding-your-strings-like-a-pro-3oi)
 - [Dev.to/JS] [Mutable or Immutable: Understanding JavaScript&#39;s Yin and Yang](https://dev.to/akramsmahmoud/mutable-or-immutable-understanding-javascripts-yin-and-yang-4ce4)
-- [Dev.to/JS] [Avoid This Common React Hook Antipattern](https://dev.to/daveturissini/avoid-this-common-react-hook-antipattern-1eh1)
 - [Lifehacker] [Four Basic Job Skills Everyone Needs, But Not Everyone Has](https://lifehacker.com/four-basic-job-skills-everyone-needs-but-not-everyone-1850386104)
 - [Lifehacker] [You Can Get a Free Month of Paramount+ and Showtime Right Now](https://lifehacker.com/you-can-get-a-free-month-of-paramount-and-showtime-rig-1850387511)
-- [Dev.to/JS] [Preparing for Code Challenges](https://dev.to/cindyhernandez/preparing-for-code-challenges-26p5)
-- [Dev.to/JS] [Information Flow in React](https://dev.to/cindyhernandez/information-flow-in-react-14c5)
 - [Lifehacker] [Hurry, Give Your Pizza a Cheesy Bottom](https://lifehacker.com/hurry-give-your-pizza-a-cheesy-bottom-1850386259)
-- [Dev.to/JS] [What&#39;s This Tutorial Hell !](https://dev.to/jasmeetsingh/whats-this-tutorial-hell--49a8)
 - [Lifehacker] [These Are the Best Free Study Apps for Any Learner](https://lifehacker.com/these-are-the-best-free-study-apps-for-any-learner-1850390146)
 - [Lifehacker] [Don’t Make These Recycling Mistakes](https://lifehacker.com/don-t-make-these-recycling-mistakes-1850382708)
 - [Lifehacker] [The Easiest Ways to Waste Your Money on Running, According to Reddit](https://lifehacker.com/the-easiest-ways-to-waste-your-money-on-running-accord-1850384336)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Teacher Appreciation Day Deals &lpar;and the Absolute Least We Can Do As a Society&rpar;](https://lifehacker.com/these-are-the-best-teacher-appreciation-day-deals-and-1850387094)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Gas Station Heroin&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-g-1850385031)
 - [Lifehacker] [Microsoft Will Never Update Windows 10 Again &lpar;But You Can Keep Using It&rpar;](https://lifehacker.com/microsoft-will-never-update-windows-10-again-but-you-c-1850386188)
-- [Lifehacker] [This Chrome Extension Quickly Creates Flash Cards Based on Any Article or Video](https://lifehacker.com/this-chrome-extension-quickly-creates-flash-cards-based-1850385363)
-- [Lifehacker] [The Best Way to Know If You&#39;re Ready for a Big Test](https://lifehacker.com/the-best-way-to-know-if-youre-ready-for-a-big-test-1850379720)
-- [Lifehacker] [These Viagra Pills Have Been Recalled for Safety, FDA Says](https://lifehacker.com/these-viagra-pills-have-been-recalled-for-safety-fda-s-1850384772)
-- [Lifehacker] [What People Are Getting Wrong This Week: The Fox News Settlement](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-fox-news-s-1850383991)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Chrome Extension Quickly Creates Flash Cards Based on Any Article or Video](https://lifehacker.com/this-chrome-extension-quickly-creates-flash-cards-based-1850385363)<!-- TECH-POSTS:END -->
 
 ---
 
