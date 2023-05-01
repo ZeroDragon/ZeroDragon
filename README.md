@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Popular libraries you should know as a React Developer](https://dev.to/uttamsharma446/5-popular-libraries-you-should-know-as-a-react-developer-2755)
 - [Dev.to/JS] [How To Host Websites on GitHub Pages](https://dev.to/badbatunde/how-to-host-websites-on-github-pages-4113)
 - [Dev.to/JS] [Exploring Vite.js: The Lightning-Fast Build Tool for Modern Web Apps](https://dev.to/nitinfab/exploring-vitejs-the-lightning-fast-build-tool-for-modern-web-apps-5h0p)
 - [Dev.to/JS] [JavaScript is a powerful and versatile programming language, 1444231 libraries and counting......](https://dev.to/zobaidulofficial/javascript-is-a-powerful-and-versatile-programming-language-1444231-libraries-and-counting-3jn5)
@@ -32,9 +33,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ActionCable and React for Beginners](https://dev.to/albam476/actioncable-and-react-for-beginners-4gm8)
 - [Dev.to/JS] [JavaScript Event Listeners, with Turbolinks and AJAX](https://dev.to/joe_66/javascript-event-listeners-with-turbolinks-and-ajax-j97)
 - [Dev.to/JS] [Download a file with react hook](https://dev.to/orkhanjafarovr/download-a-file-with-react-hook-13pp)
-- [Dev.to/JS] [Redux Oversimplified: Ultimate guide for beginners](https://dev.to/captainprinz/redux-oversimplified-ultimate-guide-for-beginners-4i9l)
+- [Dev.to/JS] [Redux for beginners](https://dev.to/captainprinz/redux-oversimplified-ultimate-guide-for-beginners-4i9l)
 - [Dev.to/JS] [Building a simple real-time chat app with Node.js and Socket.io](https://dev.to/ndulue/building-a-simple-real-time-chat-app-with-nodejs-and-socketio-e9i)
-- [Dev.to/JS] [Best Programming Memes of the Week #1](https://dev.to/ymhaah/best-programming-memes-of-the-week-1-gc3)
 - [Lifehacker] [How to Tell Whether Water Damage Is New or Old](https://lifehacker.com/how-to-tell-whether-water-damage-is-new-or-old-1850386390)
 - [Lifehacker] [The Best Way to Remove Stains From Your Mattress](https://lifehacker.com/the-best-way-to-remove-stains-from-your-mattress-1850386395)
 - [Lifehacker] [How to Get Rid of the Sewage Smell Coming From Your Shower Drain](https://lifehacker.com/how-to-get-rid-of-the-sewage-smell-coming-from-your-sho-1850386182)
