@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Turn a Mini Fridge Into a Cheese Cave](https://lifehacker.com/how-to-turn-a-mini-fridge-into-a-cheese-cave-1850371716)
+- [Dev.to/JS] [How to Implement Drag and Drop Feature in React Native](https://dev.to/thetechguruworld/how-to-implement-drag-and-drop-feature-in-react-native-5en3)
+- [Dev.to/JS] [Using MedusaJS with MongoDB](https://dev.to/might_be_harsh/using-medusajs-with-mongodb-10a4)
+- [Lifehacker] [Three Beginner Lifting Mistakes You Can Avoid](https://lifehacker.com/three-beginner-lifting-mistakes-you-can-avoid-1850392501)
+- [Dev.to/JS] [Styled Components and SCSS Which One Should You Use?](https://dev.to/willochs316/styled-components-and-scss-which-one-should-you-use-509a)
+- [Dev.to/JS] [Use your Javascript and Typescript skills in Salesforce](https://dev.to/rajasneha_dev/use-your-javascript-and-typescript-skills-in-salesforce-1ioe)
+- [Dev.to/JS] [Say no to &quot;flickering&quot; UI: useLayoutEffect, painting and browsers story](https://dev.to/adevnadia/say-no-to-flickering-ui-uselayouteffect-painting-and-browsers-story-3aj5)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Contador estranho](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-contador-estranho-1208)
 - [Dev.to/JS] [STORY OF MY LIFE](https://dev.to/dushimimana07828/story-of-my-life-145f)
 - [Dev.to/JS] [Building a course landing page with NextJS and React](https://dev.to/github20k/building-a-course-landing-page-with-nextjs-and-react-56kc)
@@ -30,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [8 Tips to Master JavaScript Programming: From Basics to Frameworks](https://dev.to/ugbabeog/8-tips-to-master-javascript-programming-from-basics-to-frameworks-4mid)
 - [Dev.to/JS] [Share Your Insights: How to master JavaScript.](https://dev.to/ugbabeog/share-your-insights-how-to-master-javascript-3oj1)
 - [Dev.to/JS] [How to create environment variables in Nuxt.js](https://dev.to/hackmamba/how-to-create-environment-variables-in-nuxtjs-2dh4)
-- [Dev.to/JS] [Superpowers with Directives and Dependency Injection: Part 6](https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-6-4ok4)
-- [Dev.to/JS] [why is my intersectionObserver not recognizing &lt;section&gt; tag?](https://dev.to/ugbabeog/why-is-my-intersectionobserver-not-recognizing-tag-ho8)
-- [Dev.to/JS] [How To Add In-App Notifications To Your Angular App](https://dev.to/novu/how-to-add-in-app-notifications-to-your-angular-app-2dp3)
-- [Dev.to/JS] [JavaScript before Framework: Iterating through a multidimensional array using JavaScript.](https://dev.to/aysha/javascript-before-framework-iterating-through-a-multidimensional-array-using-javascript-22gp)
-- [Dev.to/JS] [⭐ An open-source tool for building React enterprise apps effortlessly in your browser](https://dev.to/necatiozmen/an-open-source-tool-for-building-react-enterprise-apps-effortlessly-in-your-browser-1gj7)
 - [Lifehacker] [How the Writers’ Strike Could Affect Everything You Watch](https://lifehacker.com/how-the-writers-strike-could-affect-everything-you-wat-1850392874)
 - [Lifehacker] [Your Switch Probably Doesn’t Have Enough Space for ‘Tears of the Kingdom’](https://lifehacker.com/your-switch-probably-doesn-t-have-enough-space-for-tea-1850391743)
 - [Lifehacker] [How to Make Silky Sauces With More Plants and Less Dairy](https://lifehacker.com/how-to-make-silky-sauces-with-more-plants-and-less-dair-1850391960)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Surround Your House With These Foundation Plants](https://lifehacker.com/surround-your-house-with-these-foundation-plants-1850386141)
 - [Crazy Programmer] [Basic Components of Computer](https://www.thecrazyprogrammer.com/2023/04/components-of-computer.html)
 - [Lifehacker] [Don&#39;t Store These Items Near Your Water Heater](https://lifehacker.com/dont-store-these-items-near-your-hot-water-heater-1850386142)
-- [Lifehacker] [How to Tell the Difference Between Wood Rot and Termite Damage](https://lifehacker.com/how-to-tell-the-difference-between-wood-rot-and-termite-1850386149)
-- [Lifehacker] [These Are the Best Teacher Appreciation Day Deals &lpar;and the Absolute Least We Can Do As a Society&rpar;](https://lifehacker.com/these-are-the-best-teacher-appreciation-day-deals-and-1850387094)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Gas Station Heroin&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-g-1850385031)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell the Difference Between Wood Rot and Termite Damage](https://lifehacker.com/how-to-tell-the-difference-between-wood-rot-and-termite-1850386149)<!-- TECH-POSTS:END -->
 
 ---
 
