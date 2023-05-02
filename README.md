@@ -23,9 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Stop Being Lonely, According to the Surgeon General](https://lifehacker.com/how-to-stop-being-lonely-according-to-the-surgeon-gene-1850397013)
+- [Dev.to/JS] [SET UP 2FA IN NODE.JS WITH SPEAKEASY](https://dev.to/candie_code/set-up-2fa-in-nodejs-with-speakeasy-3389)
 - [Lifehacker] [You Should Air Fry Mushrooms Without Oil, Actually](https://lifehacker.com/you-should-air-fry-mushrooms-without-oil-actually-1850396585)
 - [Dev.to/JS] [7 Ways to Debug Your Code](https://dev.to/naser_shareef/7-ways-to-debug-your-code-1hp)
 - [Dev.to/JS] [First post - Who am I?](https://dev.to/monco_carser/first-post-who-am-i-1op1)
+- [Dev.to/JS] [6 Repositories recommended by GitHub to Boost Your Programming Productivity](https://dev.to/hackertab/6-repositories-recommended-by-github-to-boost-your-programming-productivity-3kfa)
 - [Lifehacker] [Apple Has a New Kind of Security Update](https://lifehacker.com/apple-has-a-new-kind-of-security-update-1850395826)
 - [Dev.to/JS] [Custom Response Statuses and Redirection in Next.js getServerSideProps](https://dev.to/hi_iam_chris/custom-response-statuses-and-redirection-in-nextjs-getserversideprops-b8l)
 - [Lifehacker] [The Difference Between Coconut Milk and Coconut Cream &lpar;and All the Other Coconut Liquids&rpar;](https://lifehacker.com/the-difference-between-coconut-milk-and-coconut-cream-1850395238)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Throw Away This Recalled All-Purpose Flour, FDA Says](https://lifehacker.com/throw-away-this-recalled-all-purpose-flour-fda-says-1850395671)
 - [Dev.to/JS] [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - Enhancing the frontend application with form actions](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-enhancing-the-frontend-application-with-form-actions-3d10)
 - [Dev.to/JS] [Addicted to Interactivity? Unleash the Magic of JavaScript DOM Events - The Beginners Guide To Javascript&lpar;Part 8&rpar;](https://dev.to/camskithedev/addicted-to-interactivity-unleash-the-magic-of-javascript-dom-events-the-beginners-guide-to-javascriptpart-8-4nj2)
-- [Dev.to/JS] [Mastering Asynchrony in the Browser: A Comprehensive Guide](https://dev.to/anatoly314/mastering-asynchrony-in-the-browser-a-comprehensive-guide-34bp)
-- [Dev.to/JS] [A fun content censoring web extension!](https://dev.to/ninadsutrave/a-fun-content-censoring-web-extension-4cl2)
 - [Lifehacker] [Plant These Self-Sowing Flowers for a Low-Maintenance Garden](https://lifehacker.com/plant-these-self-sowing-flowers-for-a-low-maintenance-g-1850394073)
 - [Lifehacker] [Use the Pomodoro Method to Study More Efficiently](https://lifehacker.com/use-the-pomodoro-method-to-study-more-efficiently-1850395495)
 - [Lifehacker] [Get Some Tomato Paste on Your Grilled Cheese Sandwich](https://lifehacker.com/get-some-tomato-paste-on-your-grilled-cheese-sandwich-1850393407)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Coconut Macaroon Cake Is Easier Than a Batch of Cookies](https://lifehacker.com/this-coconut-macaroon-cake-is-easier-than-a-batch-of-co-1850390862)
 - [Lifehacker] [Use Your Expired Bed Bath &amp; Beyond Coupons at These Stores](https://lifehacker.com/use-your-expired-bed-bath-beyond-coupons-at-these-sto-1850390861)
 - [Lifehacker] [Upgrade Your Browser With a ChatGPT Sidebar](https://lifehacker.com/upgrade-your-browser-with-a-chatgpt-sidebar-1850385569)
-- [Lifehacker] [Use This Glitch to Get Your Twitter Verification Back for Some Reason](https://lifehacker.com/use-this-glitch-to-get-your-twitter-verification-back-f-1850391025)
-- [Lifehacker] [Four Basic Job Skills Everyone Needs, But Not Everyone Has](https://lifehacker.com/four-basic-job-skills-everyone-needs-but-not-everyone-1850386104)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use This Glitch to Get Your Twitter Verification Back for Some Reason](https://lifehacker.com/use-this-glitch-to-get-your-twitter-verification-back-f-1850391025)<!-- TECH-POSTS:END -->
 
 ---
 
