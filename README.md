@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [?? in JavaScript: the nullish coalescing operator.](https://dev.to/adnauseum/-in-javascript-the-nullish-coalescing-operator-dcj)
+- [Dev.to/JS] [Understanding ReactJS Lifecycle](https://dev.to/pcabreram1234/understanding-reactjs-lifecycle-193g)
+- [Lifehacker] [Use the ‘Chunking’ Method to Actually Remember What You Studied](https://lifehacker.com/use-the-chunking-method-to-actually-remember-what-you-1850392462)
 - [Lifehacker] [Help Your Kids Name and Talk to Their Big Emotions](https://lifehacker.com/help-your-kids-name-and-talk-to-their-big-emotions-1850392478)
 - [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#18&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-18-1516)
 - [Dev.to/JS] [When Granularity in React Goes Wrong: A Cautionary Tale](https://dev.to/nerkmind/when-granularity-in-react-goes-wrong-a-cautionary-tale-fm6)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Beginner Lifting Mistakes You Can Avoid](https://lifehacker.com/three-beginner-lifting-mistakes-you-can-avoid-1850392501)
 - [Dev.to/JS] [Styled Components and SCSS Which One Should You Use?](https://dev.to/willochs316/styled-components-and-scss-which-one-should-you-use-509a)
 - [Dev.to/JS] [Use your Javascript and Typescript skills in Salesforce](https://dev.to/rajasneha_dev/use-your-javascript-and-typescript-skills-in-salesforce-1ioe)
-- [Dev.to/JS] [Say no to &quot;flickering&quot; UI: useLayoutEffect, painting and browsers story](https://dev.to/adevnadia/say-no-to-flickering-ui-uselayouteffect-painting-and-browsers-story-3aj5)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Contador estranho](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-contador-estranho-1208)
 - [Lifehacker] [How the Writers’ Strike Could Affect Everything You Watch](https://lifehacker.com/how-the-writers-strike-could-affect-everything-you-wat-1850392874)
 - [Lifehacker] [Your Switch Probably Doesn’t Have Enough Space for ‘Tears of the Kingdom’](https://lifehacker.com/your-switch-probably-doesn-t-have-enough-space-for-tea-1850391743)
 - [Lifehacker] [How to Make Silky Sauces With More Plants and Less Dairy](https://lifehacker.com/how-to-make-silky-sauces-with-more-plants-and-less-dair-1850391960)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell Whether Water Damage Is New or Old](https://lifehacker.com/how-to-tell-whether-water-damage-is-new-or-old-1850386390)
 - [Lifehacker] [The Best Way to Remove Stains From Your Mattress](https://lifehacker.com/the-best-way-to-remove-stains-from-your-mattress-1850386395)
 - [Lifehacker] [How to Get Rid of the Sewage Smell Coming From Your Shower Drain](https://lifehacker.com/how-to-get-rid-of-the-sewage-smell-coming-from-your-sho-1850386182)
-- [Lifehacker] [Surround Your House With These Foundation Plants](https://lifehacker.com/surround-your-house-with-these-foundation-plants-1850386141)
-- [Crazy Programmer] [Basic Components of Computer](https://www.thecrazyprogrammer.com/2023/04/components-of-computer.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Surround Your House With These Foundation Plants](https://lifehacker.com/surround-your-house-with-these-foundation-plants-1850386141)<!-- TECH-POSTS:END -->
 
 ---
 
