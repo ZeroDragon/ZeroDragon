@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Short Story of JavaScript](https://dev.to/akgoze/the-short-story-of-javascript-2k65)
 - [Dev.to/JS] [All You Need to Know About Props in React](https://dev.to/debajit13/all-you-need-to-know-about-props-in-react-1l40)
 - [Dev.to/JS] [How to integrate line chart in card [React]](https://dev.to/whoismaruf/how-to-integrate-line-chart-in-card-react-28do)
 - [Dev.to/JS] [Garbage collection](https://dev.to/muhmmadawd/garbage-collection-10n9)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node.js vs. Python: Which one is better for web development?](https://dev.to/owoyomi20/nodejs-vs-python-which-one-is-better-for-web-development-1an7)
 - [Dev.to/JS] [Making Progress: Updates on my Project&#39;s Matching Feature](https://dev.to/arashjangali/making-progress-updates-on-my-projects-matching-feature-33)
 - [Dev.to/JS] [Build a beautiful fireworks animation using only HTML5 Canvas Element and JavaScript](https://dev.to/shrutikapoor08/build-a-beautiful-fireworks-animation-using-only-html5-canvas-element-and-javascript-4e1h)
-- [Dev.to/JS] [Я хотел улучшить React](https://dev.to/isumix/ia-khotiel-uluchshit-react-23mj)
 - [Lifehacker] [Your Switch Probably Doesn’t Have Enough Space for ‘Tears of the Kingdom’](https://lifehacker.com/your-switch-probably-doesn-t-have-enough-space-for-tea-1850391743)
 - [Lifehacker] [How to Make Silky Sauces With More Plants and Less Dairy](https://lifehacker.com/how-to-make-silky-sauces-with-more-plants-and-less-dair-1850391960)
 - [Lifehacker] [Use Panko to Add a Buttery Crunch to Your Fried Eggs and Scrambles](https://lifehacker.com/use-panko-to-add-a-buttery-crunch-to-your-fried-eggs-an-1850392330)
