@@ -23,7 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Re-rendering React Components at Breakpoint Window Resizes: A Better Way](https://dev.to/musselmanth/re-rendering-react-components-at-breakpoint-window-resizes-a-better-way-4343)
+- [Dev.to/JS] [Re-rendering React Components on Window Resizes With a Threshold](https://dev.to/musselmanth/re-rendering-react-components-at-breakpoint-window-resizes-a-better-way-4343)
 - [Dev.to/JS] [Aspiring Web developer](https://dev.to/ahmedlutfy99/aspiring-web-developer-3151)
 - [Lifehacker] [How the Writers’ Strike Could Affect Everything You Watch](https://lifehacker.com/how-the-writers-strike-could-affect-everything-you-wat-1850392874)
 - [Dev.to/JS] [Node.js vs. Python: Which one is better for web development?](https://dev.to/owoyomi20/nodejs-vs-python-which-one-is-better-for-web-development-1an7)
