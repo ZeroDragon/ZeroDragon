@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between Coconut Milk and Coconut Cream &lpar;and All the Other Coconut Liquids&rpar;](https://lifehacker.com/the-difference-between-coconut-milk-and-coconut-cream-1850395238)
+- [Dev.to/JS] [My Journey Into Tech.](https://dev.to/thekalderon/my-journey-into-tech-12l2)
+- [Lifehacker] [Eleven Essential Knots Everyone Should Know How to Tie](https://lifehacker.com/eleven-essential-knots-everyone-should-know-how-to-tie-1850395678)
+- [Lifehacker] [‘Eat the Frog’ First Thing in the Morning](https://lifehacker.com/eat-the-frog-first-thing-in-the-morning-1850396305)
 - [Dev.to/JS] [Dealing with Foreign Keys in a Join Table](https://dev.to/andrewjulian/dealing-with-foreign-keys-in-join-table-2j8o)
 - [Dev.to/JS] [&quot;Axios&quot; vs &quot;Fetch&quot; !depth](https://dev.to/lausuarez02/axios-vs-fetch-depth-19ha)
 - [Dev.to/JS] [Fully FERNished - 🎨Material UI, 🐳Dockerization, and 🌤️ Deployment.](https://dev.to/wra-sol/fully-fernished-material-ui-dockerization-and-deployment-5890)
@@ -41,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Changing careers](https://dev.to/hcoco1/changing-careers-4o4k)
 - [Lifehacker] [Don’t Miss These May Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-may-class-action-settlement-deadlines-1850392712)
 - [Dev.to/JS] [Everything you need to get started with UXP and React JS in one package!](https://dev.to/dailydevtips/everything-you-need-to-get-started-with-uxp-and-react-js-in-one-package-4g28)
-- [Dev.to/JS] [?? in JavaScript: the nullish coalescing operator.](https://dev.to/adnauseum/-in-javascript-the-nullish-coalescing-operator-dcj)
 - [Lifehacker] [Use the ‘Chunking’ Method to Actually Remember What You Studied](https://lifehacker.com/use-the-chunking-method-to-actually-remember-what-you-1850392462)
 - [Lifehacker] [Help Your Kids Name and Talk to Their Big Emotions](https://lifehacker.com/help-your-kids-name-and-talk-to-their-big-emotions-1850392478)
 - [Lifehacker] [Here&#39;s How Long You Can Leave Butter Out of the Fridge](https://lifehacker.com/heres-how-long-you-can-leave-butter-out-of-the-fridge-1850387237)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Glitch to Get Your Twitter Verification Back for Some Reason](https://lifehacker.com/use-this-glitch-to-get-your-twitter-verification-back-f-1850391025)
 - [Lifehacker] [Four Basic Job Skills Everyone Needs, But Not Everyone Has](https://lifehacker.com/four-basic-job-skills-everyone-needs-but-not-everyone-1850386104)
 - [Lifehacker] [You Can Get a Free Month of Paramount+ and Showtime Right Now](https://lifehacker.com/you-can-get-a-free-month-of-paramount-and-showtime-rig-1850387511)
-- [Lifehacker] [Hurry, Give Your Pizza a Cheesy Bottom](https://lifehacker.com/hurry-give-your-pizza-a-cheesy-bottom-1850386259)
-- [Lifehacker] [These Are the Best Free Study Apps for Any Learner](https://lifehacker.com/these-are-the-best-free-study-apps-for-any-learner-1850390146)
-- [Lifehacker] [Don’t Make These Recycling Mistakes](https://lifehacker.com/don-t-make-these-recycling-mistakes-1850382708)
-- [Lifehacker] [The Easiest Ways to Waste Your Money on Running, According to Reddit](https://lifehacker.com/the-easiest-ways-to-waste-your-money-on-running-accord-1850384336)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Hurry, Give Your Pizza a Cheesy Bottom](https://lifehacker.com/hurry-give-your-pizza-a-cheesy-bottom-1850386259)<!-- TECH-POSTS:END -->
 
 ---
 
