@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Get Some Tomato Paste on Your Grilled Cheese Sandwich](https://lifehacker.com/get-some-tomato-paste-on-your-grilled-cheese-sandwich-1850393407)
+- [Lifehacker] [How to Know When &lpar;or If&rpar; You Need Another COVID Vaccine](https://lifehacker.com/how-to-know-when-or-if-you-need-another-covid-vaccine-1850394139)
 - [Lifehacker] [How to Prevent Your Patio Pavers From Shifting Over Time](https://lifehacker.com/how-to-prevent-your-patio-pavers-from-shifting-over-tim-1850394007)
 - [Dev.to/JS] [Generate QR Codes with JavaScript and Tailwind CSS](https://dev.to/netsi1964/generate-qr-codes-with-javascript-and-tailwind-css-1mc8)
 - [Dev.to/JS] [Changing careers](https://dev.to/hcoco1/changing-careers-4o4k)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Waste Your Money on Running, According to Reddit](https://lifehacker.com/the-easiest-ways-to-waste-your-money-on-running-accord-1850384336)
 - [Lifehacker] [How to Emotionally Detach From Your Home When You Need to Sell It](https://lifehacker.com/how-to-emotionally-detach-from-your-home-when-you-need-1850385929)
 - [Lifehacker] [All the Ways Divorce Can Negatively Impact Your Finances](https://lifehacker.com/all-the-ways-divorce-can-negatively-impact-your-finance-1850382934)
-- [Lifehacker] [Why You Probably Shouldn’t Clean Your Dryer Vent With a Leaf Blower](https://lifehacker.com/why-you-probably-shouldn-t-clean-your-dryer-vent-with-a-1850385269)
-- [Lifehacker] [How to Tell Whether Water Damage Is New or Old](https://lifehacker.com/how-to-tell-whether-water-damage-is-new-or-old-1850386390)
-- [Lifehacker] [The Best Way to Remove Stains From Your Mattress](https://lifehacker.com/the-best-way-to-remove-stains-from-your-mattress-1850386395)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Probably Shouldn’t Clean Your Dryer Vent With a Leaf Blower](https://lifehacker.com/why-you-probably-shouldn-t-clean-your-dryer-vent-with-a-1850385269)<!-- TECH-POSTS:END -->
 
 ---
 
