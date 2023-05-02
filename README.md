@@ -23,13 +23,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Prevent Your Patio Pavers From Shifting Over Time](https://lifehacker.com/how-to-prevent-your-patio-pavers-from-shifting-over-tim-1850394007)
+- [Dev.to/JS] [Generate QR Codes with JavaScript and Tailwind CSS](https://dev.to/netsi1964/generate-qr-codes-with-javascript-and-tailwind-css-1mc8)
+- [Dev.to/JS] [Changing careers](https://dev.to/hcoco1/changing-careers-4o4k)
+- [Lifehacker] [Don’t Miss These May Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-may-class-action-settlement-deadlines-1850392712)
+- [Dev.to/JS] [Everything you need to get started with UXP and React JS in one package!](https://dev.to/dailydevtips/everything-you-need-to-get-started-with-uxp-and-react-js-in-one-package-4g28)
 - [Dev.to/JS] [?? in JavaScript: the nullish coalescing operator.](https://dev.to/adnauseum/-in-javascript-the-nullish-coalescing-operator-dcj)
 - [Dev.to/JS] [Understanding ReactJS Lifecycle](https://dev.to/pcabreram1234/understanding-reactjs-lifecycle-193g)
 - [Lifehacker] [Use the ‘Chunking’ Method to Actually Remember What You Studied](https://lifehacker.com/use-the-chunking-method-to-actually-remember-what-you-1850392462)
 - [Lifehacker] [Help Your Kids Name and Talk to Their Big Emotions](https://lifehacker.com/help-your-kids-name-and-talk-to-their-big-emotions-1850392478)
 - [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#18&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-18-1516)
 - [Dev.to/JS] [When Granularity in React Goes Wrong: A Cautionary Tale](https://dev.to/nerkmind/when-granularity-in-react-goes-wrong-a-cautionary-tale-fm6)
-- [Dev.to/JS] [Bigg Boss 17 Watch Online](https://dev.to/biggboss17watchonline/bigg-boss-17-watch-online-2g9)
 - [Lifehacker] [Here&#39;s How Long You Can Leave Butter Out of the Fridge](https://lifehacker.com/heres-how-long-you-can-leave-butter-out-of-the-fridge-1850387237)
 - [Dev.to/JS] [Revolutionize JSON Parsing in Java with Manifold](https://dev.to/codenameone/revolutionize-json-parsing-in-java-with-manifold-33f9)
 - [Dev.to/JS] [Automatic batching for better performance](https://dev.to/dhruvangg/automatic-batching-for-better-performance-19f1)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Implement Drag and Drop Feature in React Native](https://dev.to/thetechguruworld/how-to-implement-drag-and-drop-feature-in-react-native-5en3)
 - [Dev.to/JS] [Using MedusaJS with MongoDB](https://dev.to/might_be_harsh/using-medusajs-with-mongodb-10a4)
 - [Lifehacker] [Three Beginner Lifting Mistakes You Can Avoid](https://lifehacker.com/three-beginner-lifting-mistakes-you-can-avoid-1850392501)
-- [Dev.to/JS] [Styled Components and SCSS Which One Should You Use?](https://dev.to/willochs316/styled-components-and-scss-which-one-should-you-use-509a)
-- [Dev.to/JS] [Use your Javascript and Typescript skills in Salesforce](https://dev.to/rajasneha_dev/use-your-javascript-and-typescript-skills-in-salesforce-1ioe)
 - [Lifehacker] [How the Writers’ Strike Could Affect Everything You Watch](https://lifehacker.com/how-the-writers-strike-could-affect-everything-you-wat-1850392874)
 - [Lifehacker] [Your Switch Probably Doesn’t Have Enough Space for ‘Tears of the Kingdom’](https://lifehacker.com/your-switch-probably-doesn-t-have-enough-space-for-tea-1850391743)
 - [Lifehacker] [How to Make Silky Sauces With More Plants and Less Dairy](https://lifehacker.com/how-to-make-silky-sauces-with-more-plants-and-less-dair-1850391960)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways Divorce Can Negatively Impact Your Finances](https://lifehacker.com/all-the-ways-divorce-can-negatively-impact-your-finance-1850382934)
 - [Lifehacker] [Why You Probably Shouldn’t Clean Your Dryer Vent With a Leaf Blower](https://lifehacker.com/why-you-probably-shouldn-t-clean-your-dryer-vent-with-a-1850385269)
 - [Lifehacker] [How to Tell Whether Water Damage Is New or Old](https://lifehacker.com/how-to-tell-whether-water-damage-is-new-or-old-1850386390)
-- [Lifehacker] [The Best Way to Remove Stains From Your Mattress](https://lifehacker.com/the-best-way-to-remove-stains-from-your-mattress-1850386395)
-- [Lifehacker] [How to Get Rid of the Sewage Smell Coming From Your Shower Drain](https://lifehacker.com/how-to-get-rid-of-the-sewage-smell-coming-from-your-sho-1850386182)
-- [Lifehacker] [Surround Your House With These Foundation Plants](https://lifehacker.com/surround-your-house-with-these-foundation-plants-1850386141)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Remove Stains From Your Mattress](https://lifehacker.com/the-best-way-to-remove-stains-from-your-mattress-1850386395)<!-- TECH-POSTS:END -->
 
 ---
 
