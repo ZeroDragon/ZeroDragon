@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Add In-App Notifications To Your Angular App](https://dev.to/novu/how-to-add-in-app-notifications-to-your-angular-app-2dp3)
+- [Dev.to/JS] [JavaScript before Framework: Iterating through a multidimensional array using JavaScript.](https://dev.to/aysha/javascript-before-framework-iterating-through-a-multidimensional-array-using-javascript-22gp)
+- [Dev.to/JS] [⭐ An open-source tool for building React enterprise apps effortlessly in your browser](https://dev.to/necatiozmen/an-open-source-tool-for-building-react-enterprise-apps-effortlessly-in-your-browser-1gj7)
 - [Dev.to/JS] [The Short Story of JavaScript](https://dev.to/akgoze/the-short-story-of-javascript-2k65)
 - [Dev.to/JS] [All You Need to Know About Props in React](https://dev.to/debajit13/all-you-need-to-know-about-props-in-react-1l40)
 - [Dev.to/JS] [How to integrate line chart in card [React]](https://dev.to/whoismaruf/how-to-integrate-line-chart-in-card-react-28do)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Re-rendering React Components on Window Resizes With a Threshold](https://dev.to/musselmanth/re-rendering-react-components-at-breakpoint-window-resizes-a-better-way-4343)
 - [Dev.to/JS] [Aspiring Web developer](https://dev.to/ahmedlutfy99/aspiring-web-developer-3151)
 - [Lifehacker] [How the Writers’ Strike Could Affect Everything You Watch](https://lifehacker.com/how-the-writers-strike-could-affect-everything-you-wat-1850392874)
-- [Dev.to/JS] [Node.js vs. Python: Which one is better for web development?](https://dev.to/owoyomi20/nodejs-vs-python-which-one-is-better-for-web-development-1an7)
-- [Dev.to/JS] [Making Progress: Updates on my Project&#39;s Matching Feature](https://dev.to/arashjangali/making-progress-updates-on-my-projects-matching-feature-33)
-- [Dev.to/JS] [Build a beautiful fireworks animation using only HTML5 Canvas Element and JavaScript](https://dev.to/shrutikapoor08/build-a-beautiful-fireworks-animation-using-only-html5-canvas-element-and-javascript-4e1h)
 - [Lifehacker] [Your Switch Probably Doesn’t Have Enough Space for ‘Tears of the Kingdom’](https://lifehacker.com/your-switch-probably-doesn-t-have-enough-space-for-tea-1850391743)
 - [Lifehacker] [How to Make Silky Sauces With More Plants and Less Dairy](https://lifehacker.com/how-to-make-silky-sauces-with-more-plants-and-less-dair-1850391960)
 - [Lifehacker] [Use Panko to Add a Buttery Crunch to Your Fried Eggs and Scrambles](https://lifehacker.com/use-panko-to-add-a-buttery-crunch-to-your-fried-eggs-an-1850392330)
