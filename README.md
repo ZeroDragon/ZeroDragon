@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [From Idea to Implementation: Revolutionizing Perishable Goods Management through Software Innovation – A School Project Journey](https://dev.to/virtualmachine/from-idea-to-implementation-revolutionizing-perishable-goods-management-through-software-innovation-a-school-project-journey-8b5)
 - [Dev.to/JS] [Re-rendering React Components on Window Resizes With a Threshold](https://dev.to/musselmanth/re-rendering-react-components-at-breakpoint-window-resizes-a-better-way-4343)
 - [Dev.to/JS] [Aspiring Web developer](https://dev.to/ahmedlutfy99/aspiring-web-developer-3151)
 - [Lifehacker] [How the Writers’ Strike Could Affect Everything You Watch](https://lifehacker.com/how-the-writers-strike-could-affect-everything-you-wat-1850392874)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Enviando arquivos para o Amazon S3 via github actions com uma action personalizada](https://dev.to/wandpsilva/enviando-arquivos-para-o-amazon-s3-via-github-actions-com-uma-action-personalizada-2h78)
 - [Dev.to/JS] [Introduction to Web Components and Why They&#39;re Useful](https://dev.to/webwhispers/introduction-to-web-components-and-why-theyre-useful-57g3)
 - [Lifehacker] [The Data Everyone Should Back Up in Case of a Layoff](https://lifehacker.com/the-data-everyone-should-back-up-in-case-of-a-layoff-1850391262)
-- [Dev.to/JS] [Shipping shirts slowly, then faster, with a unique Vue frontend](https://dev.to/carthurhill/shipping-shirts-slowly-then-faster-with-a-unique-vue-frontend-mh)
 - [Lifehacker] [How to Retire When You Have Basically Nothing Saved](https://lifehacker.com/how-to-retire-when-you-have-basically-nothing-saved-1850391373)
 - [Lifehacker] [This Coconut Macaroon Cake Is Easier Than a Batch of Cookies](https://lifehacker.com/this-coconut-macaroon-cake-is-easier-than-a-batch-of-co-1850390862)
 - [Lifehacker] [Use Your Expired Bed Bath &amp; Beyond Coupons at These Stores](https://lifehacker.com/use-your-expired-bed-bath-beyond-coupons-at-these-sto-1850390861)
