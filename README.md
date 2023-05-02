@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [All You Need to Know About Props in React](https://dev.to/debajit13/all-you-need-to-know-about-props-in-react-1l40)
+- [Dev.to/JS] [How to integrate line chart in card [React]](https://dev.to/whoismaruf/how-to-integrate-line-chart-in-card-react-28do)
+- [Dev.to/JS] [Garbage collection](https://dev.to/muhmmadawd/garbage-collection-10n9)
 - [Dev.to/JS] [Optimize your Angular app&#39;s user experience with preloading strategies](https://dev.to/this-is-angular/optimize-your-angular-apps-user-experience-with-preloading-strategies-3ie7)
 - [Dev.to/JS] [ReactJS Props](https://dev.to/mataoseeker/reactjs-props-4bim)
 - [Dev.to/JS] [From Idea to Implementation: Revolutionizing Perishable Goods Management through Software Innovation – A School Project Journey](https://dev.to/virtualmachine/from-idea-to-implementation-revolutionizing-perishable-goods-management-through-software-innovation-a-school-project-journey-8b5)
@@ -34,11 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a beautiful fireworks animation using only HTML5 Canvas Element and JavaScript](https://dev.to/shrutikapoor08/build-a-beautiful-fireworks-animation-using-only-html5-canvas-element-and-javascript-4e1h)
 - [Dev.to/JS] [Я хотел улучшить React](https://dev.to/isumix/ia-khotiel-uluchshit-react-23mj)
 - [Lifehacker] [Your Switch Probably Doesn’t Have Enough Space for ‘Tears of the Kingdom’](https://lifehacker.com/your-switch-probably-doesn-t-have-enough-space-for-tea-1850391743)
-- [Dev.to/JS] [Teri Meri Dooriyan](https://dev.to/aslamkhan123/teri-meri-dooriyan-1fj8)
 - [Lifehacker] [How to Make Silky Sauces With More Plants and Less Dairy](https://lifehacker.com/how-to-make-silky-sauces-with-more-plants-and-less-dair-1850391960)
 - [Lifehacker] [Use Panko to Add a Buttery Crunch to Your Fried Eggs and Scrambles](https://lifehacker.com/use-panko-to-add-a-buttery-crunch-to-your-fried-eggs-an-1850392330)
-- [Dev.to/JS] [Getting started with React and GraphQL: A beginner&#39;s guide.](https://dev.to/dev_cody/getting-started-with-react-and-graphql-a-beginners-guide-2ml)
-- [Dev.to/JS] [Enviando arquivos para o Amazon S3 via github actions com uma action personalizada](https://dev.to/wandpsilva/enviando-arquivos-para-o-amazon-s3-via-github-actions-com-uma-action-personalizada-2h78)
 - [Lifehacker] [The Data Everyone Should Back Up in Case of a Layoff](https://lifehacker.com/the-data-everyone-should-back-up-in-case-of-a-layoff-1850391262)
 - [Lifehacker] [How to Retire When You Have Basically Nothing Saved](https://lifehacker.com/how-to-retire-when-you-have-basically-nothing-saved-1850391373)
 - [Lifehacker] [This Coconut Macaroon Cake Is Easier Than a Batch of Cookies](https://lifehacker.com/this-coconut-macaroon-cake-is-easier-than-a-batch-of-co-1850390862)
