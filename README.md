@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Throw Away This Recalled All-Purpose Flour, FDA Says](https://lifehacker.com/throw-away-this-recalled-all-purpose-flour-fda-says-1850395671)
+- [Dev.to/JS] [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - Enhancing the frontend application with form actions](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-enhancing-the-frontend-application-with-form-actions-3d10)
+- [Dev.to/JS] [Addicted to Interactivity? Unleash the Magic of JavaScript DOM Events - The Beginners Guide To Javascript&lpar;Part 8&rpar;](https://dev.to/camskithedev/addicted-to-interactivity-unleash-the-magic-of-javascript-dom-events-the-beginners-guide-to-javascriptpart-8-4nj2)
+- [Lifehacker] [Plant These Self-Sowing Flowers for a Low-Maintenance Garden](https://lifehacker.com/plant-these-self-sowing-flowers-for-a-low-maintenance-g-1850394073)
+- [Lifehacker] [Use the Pomodoro Method to Study More Efficiently](https://lifehacker.com/use-the-pomodoro-method-to-study-more-efficiently-1850395495)
 - [Lifehacker] [Get Some Tomato Paste on Your Grilled Cheese Sandwich](https://lifehacker.com/get-some-tomato-paste-on-your-grilled-cheese-sandwich-1850393407)
 - [Lifehacker] [How to Know When &lpar;or If&rpar; You Need Another COVID Vaccine](https://lifehacker.com/how-to-know-when-or-if-you-need-another-covid-vaccine-1850394139)
 - [Lifehacker] [How to Prevent Your Patio Pavers From Shifting Over Time](https://lifehacker.com/how-to-prevent-your-patio-pavers-from-shifting-over-tim-1850394007)
@@ -41,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Automatic batching for better performance](https://dev.to/dhruvangg/automatic-batching-for-better-performance-19f1)
 - [Dev.to/JS] [React Hooks: como usar e por que são úteis](https://dev.to/jhonyaraujooficial/react-hooks-como-usar-e-por-que-sao-uteis-cgg)
 - [Lifehacker] [How to Turn a Mini Fridge Into a Cheese Cave](https://lifehacker.com/how-to-turn-a-mini-fridge-into-a-cheese-cave-1850371716)
-- [Dev.to/JS] [How to Implement Drag and Drop Feature in React Native](https://dev.to/thetechguruworld/how-to-implement-drag-and-drop-feature-in-react-native-5en3)
-- [Dev.to/JS] [Using MedusaJS with MongoDB](https://dev.to/might_be_harsh/using-medusajs-with-mongodb-10a4)
 - [Lifehacker] [Three Beginner Lifting Mistakes You Can Avoid](https://lifehacker.com/three-beginner-lifting-mistakes-you-can-avoid-1850392501)
 - [Lifehacker] [How the Writers’ Strike Could Affect Everything You Watch](https://lifehacker.com/how-the-writers-strike-could-affect-everything-you-wat-1850392874)
 - [Lifehacker] [Your Switch Probably Doesn’t Have Enough Space for ‘Tears of the Kingdom’](https://lifehacker.com/your-switch-probably-doesn-t-have-enough-space-for-tea-1850391743)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Hurry, Give Your Pizza a Cheesy Bottom](https://lifehacker.com/hurry-give-your-pizza-a-cheesy-bottom-1850386259)
 - [Lifehacker] [These Are the Best Free Study Apps for Any Learner](https://lifehacker.com/these-are-the-best-free-study-apps-for-any-learner-1850390146)
 - [Lifehacker] [Don’t Make These Recycling Mistakes](https://lifehacker.com/don-t-make-these-recycling-mistakes-1850382708)
-- [Lifehacker] [The Easiest Ways to Waste Your Money on Running, According to Reddit](https://lifehacker.com/the-easiest-ways-to-waste-your-money-on-running-accord-1850384336)
-- [Lifehacker] [How to Emotionally Detach From Your Home When You Need to Sell It](https://lifehacker.com/how-to-emotionally-detach-from-your-home-when-you-need-1850385929)
-- [Lifehacker] [All the Ways Divorce Can Negatively Impact Your Finances](https://lifehacker.com/all-the-ways-divorce-can-negatively-impact-your-finance-1850382934)
-- [Lifehacker] [Why You Probably Shouldn’t Clean Your Dryer Vent With a Leaf Blower](https://lifehacker.com/why-you-probably-shouldn-t-clean-your-dryer-vent-with-a-1850385269)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Ways to Waste Your Money on Running, According to Reddit](https://lifehacker.com/the-easiest-ways-to-waste-your-money-on-running-accord-1850384336)<!-- TECH-POSTS:END -->
 
 ---
 
