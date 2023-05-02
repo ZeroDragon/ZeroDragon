@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [STORY OF MY LIFE](https://dev.to/dushimimana07828/story-of-my-life-145f)
 - [Dev.to/JS] [Building a course landing page with NextJS and React](https://dev.to/github20k/building-a-course-landing-page-with-nextjs-and-react-56kc)
 - [Dev.to/JS] [Como o React-admin pode ser útil para produtos internos](https://dev.to/oguhpereira/como-o-react-admin-pode-ser-util-para-produtos-internos-3e03)
 - [Dev.to/JS] [8 Tips to Master JavaScript Programming: From Basics to Frameworks](https://dev.to/ugbabeog/8-tips-to-master-javascript-programming-from-basics-to-frameworks-4mid)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript before Framework: Iterating through a multidimensional array using JavaScript.](https://dev.to/aysha/javascript-before-framework-iterating-through-a-multidimensional-array-using-javascript-22gp)
 - [Dev.to/JS] [⭐ An open-source tool for building React enterprise apps effortlessly in your browser](https://dev.to/necatiozmen/an-open-source-tool-for-building-react-enterprise-apps-effortlessly-in-your-browser-1gj7)
 - [Dev.to/JS] [The Short Story of JavaScript](https://dev.to/akgoze/the-short-story-of-javascript-2k65)
-- [Dev.to/JS] [All You Need to Know About Props in React](https://dev.to/debajit13/all-you-need-to-know-about-props-in-react-1l40)
 - [Lifehacker] [How the Writers’ Strike Could Affect Everything You Watch](https://lifehacker.com/how-the-writers-strike-could-affect-everything-you-wat-1850392874)
 - [Lifehacker] [Your Switch Probably Doesn’t Have Enough Space for ‘Tears of the Kingdom’](https://lifehacker.com/your-switch-probably-doesn-t-have-enough-space-for-tea-1850391743)
 - [Lifehacker] [How to Make Silky Sauces With More Plants and Less Dairy](https://lifehacker.com/how-to-make-silky-sauces-with-more-plants-and-less-dair-1850391960)
