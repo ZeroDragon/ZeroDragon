@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Help Your Kids Name and Talk to Their Big Emotions](https://lifehacker.com/help-your-kids-name-and-talk-to-their-big-emotions-1850392478)
+- [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#18&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-18-1516)
+- [Dev.to/JS] [When Granularity in React Goes Wrong: A Cautionary Tale](https://dev.to/nerkmind/when-granularity-in-react-goes-wrong-a-cautionary-tale-fm6)
+- [Dev.to/JS] [Bigg Boss 17 Watch Online](https://dev.to/biggboss17watchonline/bigg-boss-17-watch-online-2g9)
+- [Lifehacker] [Here&#39;s How Long You Can Leave Butter Out of the Fridge](https://lifehacker.com/heres-how-long-you-can-leave-butter-out-of-the-fridge-1850387237)
+- [Dev.to/JS] [Revolutionize JSON Parsing in Java with Manifold](https://dev.to/codenameone/revolutionize-json-parsing-in-java-with-manifold-33f9)
+- [Dev.to/JS] [Automatic batching for better performance](https://dev.to/dhruvangg/automatic-batching-for-better-performance-19f1)
+- [Dev.to/JS] [React Hooks: como usar e por que são úteis](https://dev.to/jhonyaraujooficial/react-hooks-como-usar-e-por-que-sao-uteis-cgg)
 - [Lifehacker] [How to Turn a Mini Fridge Into a Cheese Cave](https://lifehacker.com/how-to-turn-a-mini-fridge-into-a-cheese-cave-1850371716)
 - [Dev.to/JS] [How to Implement Drag and Drop Feature in React Native](https://dev.to/thetechguruworld/how-to-implement-drag-and-drop-feature-in-react-native-5en3)
 - [Dev.to/JS] [Using MedusaJS with MongoDB](https://dev.to/might_be_harsh/using-medusajs-with-mongodb-10a4)
@@ -31,12 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Use your Javascript and Typescript skills in Salesforce](https://dev.to/rajasneha_dev/use-your-javascript-and-typescript-skills-in-salesforce-1ioe)
 - [Dev.to/JS] [Say no to &quot;flickering&quot; UI: useLayoutEffect, painting and browsers story](https://dev.to/adevnadia/say-no-to-flickering-ui-uselayouteffect-painting-and-browsers-story-3aj5)
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Contador estranho](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-contador-estranho-1208)
-- [Dev.to/JS] [STORY OF MY LIFE](https://dev.to/dushimimana07828/story-of-my-life-145f)
-- [Dev.to/JS] [Building a course landing page with NextJS and React](https://dev.to/github20k/building-a-course-landing-page-with-nextjs-and-react-56kc)
-- [Dev.to/JS] [Como o React-admin pode ser útil para produtos internos](https://dev.to/oguhpereira/como-o-react-admin-pode-ser-util-para-produtos-internos-3e03)
-- [Dev.to/JS] [8 Tips to Master JavaScript Programming: From Basics to Frameworks](https://dev.to/ugbabeog/8-tips-to-master-javascript-programming-from-basics-to-frameworks-4mid)
-- [Dev.to/JS] [Share Your Insights: How to master JavaScript.](https://dev.to/ugbabeog/share-your-insights-how-to-master-javascript-3oj1)
-- [Dev.to/JS] [How to create environment variables in Nuxt.js](https://dev.to/hackmamba/how-to-create-environment-variables-in-nuxtjs-2dh4)
 - [Lifehacker] [How the Writers’ Strike Could Affect Everything You Watch](https://lifehacker.com/how-the-writers-strike-could-affect-everything-you-wat-1850392874)
 - [Lifehacker] [Your Switch Probably Doesn’t Have Enough Space for ‘Tears of the Kingdom’](https://lifehacker.com/your-switch-probably-doesn-t-have-enough-space-for-tea-1850391743)
 - [Lifehacker] [How to Make Silky Sauces With More Plants and Less Dairy](https://lifehacker.com/how-to-make-silky-sauces-with-more-plants-and-less-dair-1850391960)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Remove Stains From Your Mattress](https://lifehacker.com/the-best-way-to-remove-stains-from-your-mattress-1850386395)
 - [Lifehacker] [How to Get Rid of the Sewage Smell Coming From Your Shower Drain](https://lifehacker.com/how-to-get-rid-of-the-sewage-smell-coming-from-your-sho-1850386182)
 - [Lifehacker] [Surround Your House With These Foundation Plants](https://lifehacker.com/surround-your-house-with-these-foundation-plants-1850386141)
-- [Crazy Programmer] [Basic Components of Computer](https://www.thecrazyprogrammer.com/2023/04/components-of-computer.html)
-- [Lifehacker] [Don&#39;t Store These Items Near Your Water Heater](https://lifehacker.com/dont-store-these-items-near-your-hot-water-heater-1850386142)
-- [Lifehacker] [How to Tell the Difference Between Wood Rot and Termite Damage](https://lifehacker.com/how-to-tell-the-difference-between-wood-rot-and-termite-1850386149)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Basic Components of Computer](https://www.thecrazyprogrammer.com/2023/04/components-of-computer.html)<!-- TECH-POSTS:END -->
 
 ---
 
