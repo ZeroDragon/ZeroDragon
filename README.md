@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Kick Off Grilling Season With This Open-Faced Sausage Sandwich](https://lifehacker.com/kick-off-grilling-season-with-this-open-faced-sausage-s-1850400529)
+- [Lifehacker] [The Easiest Ways to Eat Cheap and Healthy on a Road Trip](https://lifehacker.com/the-easiest-ways-to-eat-cheap-and-healthy-on-a-road-tri-1850398769)
 - [Dev.to/JS] [A love story of Svelte and JSX 💖](https://dev.to/rajaniraiyn/a-love-story-of-svelte-and-jsx-13j)
 - [Lifehacker] [These Restaurants Are Giving Firefighters and Nurses Free Food This Week](https://lifehacker.com/these-restaurants-are-giving-firefighters-and-nurses-fr-1850399991)
 - [Dev.to/JS] [The Sorting Algorithms you need to know](https://dev.to/jliciagasilva/the-sorting-algorithms-you-need-to-know-kff)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the Pomodoro Method to Study More Efficiently](https://lifehacker.com/use-the-pomodoro-method-to-study-more-efficiently-1850395495)
 - [Lifehacker] [Get Some Tomato Paste on Your Grilled Cheese Sandwich](https://lifehacker.com/get-some-tomato-paste-on-your-grilled-cheese-sandwich-1850393407)
 - [Lifehacker] [How to Know When &lpar;or If&rpar; You Need Another COVID Vaccine](https://lifehacker.com/how-to-know-when-or-if-you-need-another-covid-vaccine-1850394139)
-- [Lifehacker] [How to Prevent Your Patio Pavers From Shifting Over Time](https://lifehacker.com/how-to-prevent-your-patio-pavers-from-shifting-over-tim-1850394007)
-- [Lifehacker] [Don’t Miss These May Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-may-class-action-settlement-deadlines-1850392712)
-- [Lifehacker] [Use the ‘Chunking’ Method to Actually Remember What You Studied](https://lifehacker.com/use-the-chunking-method-to-actually-remember-what-you-1850392462)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Prevent Your Patio Pavers From Shifting Over Time](https://lifehacker.com/how-to-prevent-your-patio-pavers-from-shifting-over-tim-1850394007)<!-- TECH-POSTS:END -->
 
 ---
 
