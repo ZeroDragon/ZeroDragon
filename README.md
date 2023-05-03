@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Easy date and time localization with the time HTML element](https://dev.to/kovah/easy-date-and-time-localization-with-the-time-html-element-3a69)
+- [Dev.to/JS] [Thinking in Regular Expressions](https://dev.to/jatingupta/thinking-in-regular-expressions-jcf)
+- [Dev.to/JS] [10 Tips for Accelerating Frontend Development](https://dev.to/vedvyas/10-tips-for-accelerating-frontend-development-13pc)
 - [Dev.to/JS] [A Practical Introduction to Jamstack](https://dev.to/martinsonuoha/a-practical-introduction-to-jamstack-113b)
 - [Dev.to/JS] [Streamlining Sign-Ups: How to Build a High-Performing Form with Tailwind React](https://dev.to/haszankauna/streamlining-sign-ups-how-to-build-a-high-performing-form-with-tailwind-react-5fp2)
 - [Dev.to/JS] [Javascript: Why do we get empty strings, when we compare them to empty arrays?](https://dev.to/talenttinaapi/javascript-why-do-we-get-empty-strings-when-we-compare-them-to-empty-arrays-21ja)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to monitor changes in JavaScript?](https://dev.to/billalsiddiqi/how-to-monitor-changes-in-javascript-1fof)
 - [Dev.to/JS] [How to Add Report Designer to a JavaScript Application](https://dev.to/boldreports/how-to-add-report-designer-to-a-javascript-application-2kh3)
 - [Dev.to/JS] [Help with Chart js React](https://dev.to/sam16/help-with-chart-js-react-1pj)
-- [Dev.to/JS] [Closures](https://dev.to/chiboycalix/closures-fad)
-- [Dev.to/JS] [Use Chance.js and Fony.js in your SQL queries😎](https://dev.to/loiclefevre/use-chancejs-and-fonyjs-in-your-sql-queries-59f3)
-- [Dev.to/JS] [NodeJS Stream Processing: Build a Simple multipart/form-data parser](https://dev.to/eunovo/nodejs-stream-processing-build-a-simple-multipartform-data-parser-lmn)
 - [Lifehacker] [How to Stop Being Lonely, According to the Surgeon General](https://lifehacker.com/how-to-stop-being-lonely-according-to-the-surgeon-gene-1850397013)
 - [Lifehacker] [You Should Air Fry Mushrooms Without Oil, Actually](https://lifehacker.com/you-should-air-fry-mushrooms-without-oil-actually-1850396585)
 - [Lifehacker] [Apple Has a New Kind of Security Update](https://lifehacker.com/apple-has-a-new-kind-of-security-update-1850395826)
