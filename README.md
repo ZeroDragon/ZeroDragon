@@ -23,10 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Way to Open a Pack of Sausages](https://lifehacker.com/the-best-way-to-open-a-pack-of-sausages-1850397320)
+- [Lifehacker] [Can an App Really Improve Your Mobility?](https://lifehacker.com/can-an-app-really-improve-your-mobility-1850392998)
+- [Dev.to/JS] [Building Web-Based Games and Utility Projects Using JavaScript](https://dev.to/hjain5164/building-web-based-games-and-utility-projects-using-javascript-4pp4)
+- [Dev.to/JS] [Primitives in Javascript](https://dev.to/merudra754/primitives-in-javascript-m5f)
+- [Lifehacker] [How Being &#39;Needy&#39; Can Actually Be Good for Your Relationship](https://lifehacker.com/how-being-needy-can-actually-be-good-for-your-relations-1850388084)
 - [Dev.to/JS] [Qwik reaches the v1, so does qwik-nx!](https://dev.to/valorsoftware/qwik-reaches-the-v1-so-does-qwik-nx-3l6e)
 - [Dev.to/JS] [Simplifying let, const and var!](https://dev.to/merudra754/simplifying-let-const-and-var-3pe5)
 - [Dev.to/JS] [Repeated String Example in JavaScript](https://dev.to/calvinoea/repeated-string-example-in-javascript-2kmj)
-- [Dev.to/JS] [WebRTC video streaming is not in chrome](https://dev.to/janaka1984/webrtc-video-streaming-is-not-in-chrome-4ieg)
 - [Lifehacker] [Teenagers Can Work Out for Free All Summer at Planet Fitness](https://lifehacker.com/teenagers-can-work-out-for-free-all-summer-at-planet-fi-1850396367)
 - [Dev.to/JS] [Why async callback cannot happen in React useEffect hook?](https://dev.to/sanjampreetsingh/why-async-callback-cannot-happen-in-react-useeffect-hook-ff)
 - [Dev.to/JS] [Making Your Own IsOdd Function](https://dev.to/calvinoea/making-your-own-isodd-function-208b)
@@ -37,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Nine Features of Javascript](https://dev.to/merudra754/nine-features-of-javascript-3li1)
 - [Dev.to/JS] [Say Yes to Modals with the Dialog Tag!](https://dev.to/alexandprivate/lets-do-a-modal-right-56k5)
 - [Lifehacker] [How to Cope With Misophonia](https://lifehacker.com/how-to-cope-with-misophonia-1850394815)
-- [Dev.to/JS] [Responsive Image Gallery Layout Using CSS Grid](https://dev.to/onlineittutstutorials/responsive-image-gallery-layout-using-css-grid-1m3p)
 - [Lifehacker] [You Should Plant a Moonlight Garden](https://lifehacker.com/you-should-plant-a-moonlight-garden-1850394213)
 - [Lifehacker] [How to Stop Being Lonely, According to the Surgeon General](https://lifehacker.com/how-to-stop-being-lonely-according-to-the-surgeon-gene-1850397013)
 - [Lifehacker] [You Should Air Fry Mushrooms Without Oil, Actually](https://lifehacker.com/you-should-air-fry-mushrooms-without-oil-actually-1850396585)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Beginner Lifting Mistakes You Can Avoid](https://lifehacker.com/three-beginner-lifting-mistakes-you-can-avoid-1850392501)
 - [Lifehacker] [How the Writers’ Strike Could Affect Everything You Watch](https://lifehacker.com/how-the-writers-strike-could-affect-everything-you-wat-1850392874)
 - [Lifehacker] [Your Switch Probably Doesn’t Have Enough Space for ‘Tears of the Kingdom’](https://lifehacker.com/your-switch-probably-doesn-t-have-enough-space-for-tea-1850391743)
-- [Lifehacker] [How to Make Silky Sauces With More Plants and Less Dairy](https://lifehacker.com/how-to-make-silky-sauces-with-more-plants-and-less-dair-1850391960)
-- [Lifehacker] [Use Panko to Add a Buttery Crunch to Your Fried Eggs and Scrambles](https://lifehacker.com/use-panko-to-add-a-buttery-crunch-to-your-fried-eggs-an-1850392330)
-- [Lifehacker] [The Data Everyone Should Back Up in Case of a Layoff](https://lifehacker.com/the-data-everyone-should-back-up-in-case-of-a-layoff-1850391262)
-- [Lifehacker] [How to Retire When You Have Basically Nothing Saved](https://lifehacker.com/how-to-retire-when-you-have-basically-nothing-saved-1850391373)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make Silky Sauces With More Plants and Less Dairy](https://lifehacker.com/how-to-make-silky-sauces-with-more-plants-and-less-dair-1850391960)<!-- TECH-POSTS:END -->
 
 ---
 
