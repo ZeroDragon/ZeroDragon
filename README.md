@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Add Report Designer to a JavaScript Application](https://dev.to/boldreports/how-to-add-report-designer-to-a-javascript-application-2kh3)
+- [Dev.to/JS] [Help with Chart js React](https://dev.to/sam16/help-with-chart-js-react-1pj)
+- [Dev.to/JS] [Closures](https://dev.to/chiboycalix/closures-fad)
+- [Dev.to/JS] [Use Chance.js and Fony.js in your SQL queries😎](https://dev.to/loiclefevre/use-chancejs-and-fonyjs-in-your-sql-queries-59f3)
 - [Dev.to/JS] [NodeJS Stream Processing: Build a Simple multipart/form-data parser](https://dev.to/eunovo/nodejs-stream-processing-build-a-simple-multipartform-data-parser-lmn)
 - [Dev.to/JS] [سناب تيوب](https://dev.to/an1web/snb-tywb-1e58)
 - [Dev.to/JS] [Pagination with the Rick and Morty API](https://dev.to/rayalva407/pagination-with-the-rick-and-morty-api-4ln)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I Created A Web App That Went Viral On Linkedin 🔥](https://dev.to/rammcodes/i-created-a-web-app-that-went-viral-on-linkedin-e8c)
 - [Dev.to/JS] [Integrating ESRI Maps into your React App](https://dev.to/imkarthikeyan/integrating-esri-maps-into-your-react-app-2e1h)
 - [Dev.to/JS] [Weekly web development resources #147](https://dev.to/vincenius/weekly-web-development-resources-147-49mh)
-- [Dev.to/JS] [React Stopwatch](https://dev.to/rayalva407/react-stopwatch-4hbp)
-- [Dev.to/JS] [Understanding JavaScript Closures](https://dev.to/rayalva407/understanding-javascript-closures-1ej4)
-- [Dev.to/JS] [The ultimate guide to setting up Google Translate’s glossaries in JavaScript](https://dev.to/swekage/the-ultimate-guide-to-setting-up-google-translates-glossaries-in-javascript-3bd2)
-- [Dev.to/JS] [React Hooks: useEffect](https://dev.to/rayalva407/react-hooks-useeffect-8j5)
 - [Lifehacker] [How to Stop Being Lonely, According to the Surgeon General](https://lifehacker.com/how-to-stop-being-lonely-according-to-the-surgeon-gene-1850397013)
 - [Lifehacker] [You Should Air Fry Mushrooms Without Oil, Actually](https://lifehacker.com/you-should-air-fry-mushrooms-without-oil-actually-1850396585)
 - [Lifehacker] [Apple Has a New Kind of Security Update](https://lifehacker.com/apple-has-a-new-kind-of-security-update-1850395826)
