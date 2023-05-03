@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Practical Introduction to Jamstack](https://dev.to/martinsonuoha/a-practical-introduction-to-jamstack-113b)
+- [Dev.to/JS] [Streamlining Sign-Ups: How to Build a High-Performing Form with Tailwind React](https://dev.to/haszankauna/streamlining-sign-ups-how-to-build-a-high-performing-form-with-tailwind-react-5fp2)
+- [Dev.to/JS] [Javascript: Why do we get empty strings, when we compare them to empty arrays?](https://dev.to/talenttinaapi/javascript-why-do-we-get-empty-strings-when-we-compare-them-to-empty-arrays-21ja)
+- [Dev.to/JS] [Five Reasons to Bypass Captcha](https://dev.to/scofieldidehen/five-reasons-to-bypass-captcha-2lck)
 - [Dev.to/JS] [Here are some sample questions you may be asked during a React.js interview](https://dev.to/devroopeshsingh/here-are-some-sample-questions-you-may-be-asked-during-a-reactjs-interview-1kga)
 - [Dev.to/JS] [Common topics and questions you may encounter during a React.js interview](https://dev.to/devroopeshsingh/common-topics-and-questions-you-may-encounter-during-a-reactjs-interview-55e9)
 - [Dev.to/JS] [How to monitor changes in JavaScript?](https://dev.to/billalsiddiqi/how-to-monitor-changes-in-javascript-1fof)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Closures](https://dev.to/chiboycalix/closures-fad)
 - [Dev.to/JS] [Use Chance.js and Fony.js in your SQL queries😎](https://dev.to/loiclefevre/use-chancejs-and-fonyjs-in-your-sql-queries-59f3)
 - [Dev.to/JS] [NodeJS Stream Processing: Build a Simple multipart/form-data parser](https://dev.to/eunovo/nodejs-stream-processing-build-a-simple-multipartform-data-parser-lmn)
-- [Dev.to/JS] [سناب تيوب](https://dev.to/an1web/snb-tywb-1e58)
-- [Dev.to/JS] [Pagination with the Rick and Morty API](https://dev.to/rayalva407/pagination-with-the-rick-and-morty-api-4ln)
-- [Dev.to/JS] [Creating a React Timer](https://dev.to/rayalva407/creating-a-react-timer-ki0)
-- [Dev.to/JS] [Join the Angular v16/17 Development: — Discover How to Collaborate with the Angular Team!](https://dev.to/this-is-angular/join-the-angular-v1617-development-discover-how-to-collaborate-with-the-angular-team-4nm7)
 - [Lifehacker] [How to Stop Being Lonely, According to the Surgeon General](https://lifehacker.com/how-to-stop-being-lonely-according-to-the-surgeon-gene-1850397013)
 - [Lifehacker] [You Should Air Fry Mushrooms Without Oil, Actually](https://lifehacker.com/you-should-air-fry-mushrooms-without-oil-actually-1850396585)
 - [Lifehacker] [Apple Has a New Kind of Security Update](https://lifehacker.com/apple-has-a-new-kind-of-security-update-1850395826)
