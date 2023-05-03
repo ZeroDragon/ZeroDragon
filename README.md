@@ -23,18 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [20 Movies That Have Definitely Not Aged Well](https://lifehacker.com/20-movies-that-have-definitely-not-aged-well-1850320034)
+- [Dev.to/JS] [Nine Features of Javascript](https://dev.to/merudra754/nine-features-of-javascript-3li1)
+- [Lifehacker] [How to Cope With Misophonia](https://lifehacker.com/how-to-cope-with-misophonia-1850394815)
+- [Dev.to/JS] [Responsive Image Gallery Layout Using CSS Grid](https://dev.to/onlineittutstutorials/responsive-image-gallery-layout-using-css-grid-1m3p)
+- [Dev.to/JS] [Responsive Vertical Timeline Using HTML CSS](https://dev.to/onlineittutstutorials/responsive-vertical-timeline-using-html-css-12h1)
+- [Dev.to/JS] [Show / Hide Password using HTML CSS and JavaScript | Toggle Password](https://dev.to/onlineittutstutorials/show-hide-password-using-html-css-and-javascript-toggle-password-4f5a)
+- [Dev.to/JS] [Animated Toast Notification With Progress Bar in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/animated-toast-notification-with-progress-bar-in-html-css-javascript-170f)
+- [Dev.to/JS] [How to Make Roll Dice Game in JavaScript](https://dev.to/onlineittutstutorials/how-to-make-roll-dice-game-in-javascript-1k70)
+- [Lifehacker] [You Should Plant a Moonlight Garden](https://lifehacker.com/you-should-plant-a-moonlight-garden-1850394213)
 - [Dev.to/JS] [Easy date and time localization with the time HTML element](https://dev.to/kovah/easy-date-and-time-localization-with-the-time-html-element-3a69)
 - [Dev.to/JS] [Thinking in Regular Expressions](https://dev.to/jatingupta/thinking-in-regular-expressions-jcf)
 - [Dev.to/JS] [10 Tips for Accelerating Frontend Development](https://dev.to/vedvyas/10-tips-for-accelerating-frontend-development-13pc)
 - [Dev.to/JS] [A Practical Introduction to Jamstack](https://dev.to/martinsonuoha/a-practical-introduction-to-jamstack-113b)
 - [Dev.to/JS] [Streamlining Sign-Ups: How to Build a High-Performing Form with Tailwind React](https://dev.to/haszankauna/streamlining-sign-ups-how-to-build-a-high-performing-form-with-tailwind-react-5fp2)
 - [Dev.to/JS] [Javascript: Why do we get empty strings, when we compare them to empty arrays?](https://dev.to/talenttinaapi/javascript-why-do-we-get-empty-strings-when-we-compare-them-to-empty-arrays-21ja)
-- [Dev.to/JS] [Five Reasons to Bypass Captcha](https://dev.to/scofieldidehen/five-reasons-to-bypass-captcha-2lck)
-- [Dev.to/JS] [Here are some sample questions you may be asked during a React.js interview](https://dev.to/devroopeshsingh/here-are-some-sample-questions-you-may-be-asked-during-a-reactjs-interview-1kga)
-- [Dev.to/JS] [Common topics and questions you may encounter during a React.js interview](https://dev.to/devroopeshsingh/common-topics-and-questions-you-may-encounter-during-a-reactjs-interview-55e9)
-- [Dev.to/JS] [How to monitor changes in JavaScript?](https://dev.to/billalsiddiqi/how-to-monitor-changes-in-javascript-1fof)
-- [Dev.to/JS] [How to Add Report Designer to a JavaScript Application](https://dev.to/boldreports/how-to-add-report-designer-to-a-javascript-application-2kh3)
-- [Dev.to/JS] [Help with Chart js React](https://dev.to/sam16/help-with-chart-js-react-1pj)
 - [Lifehacker] [How to Stop Being Lonely, According to the Surgeon General](https://lifehacker.com/how-to-stop-being-lonely-according-to-the-surgeon-gene-1850397013)
 - [Lifehacker] [You Should Air Fry Mushrooms Without Oil, Actually](https://lifehacker.com/you-should-air-fry-mushrooms-without-oil-actually-1850396585)
 - [Lifehacker] [Apple Has a New Kind of Security Update](https://lifehacker.com/apple-has-a-new-kind-of-security-update-1850395826)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Panko to Add a Buttery Crunch to Your Fried Eggs and Scrambles](https://lifehacker.com/use-panko-to-add-a-buttery-crunch-to-your-fried-eggs-an-1850392330)
 - [Lifehacker] [The Data Everyone Should Back Up in Case of a Layoff](https://lifehacker.com/the-data-everyone-should-back-up-in-case-of-a-layoff-1850391262)
 - [Lifehacker] [How to Retire When You Have Basically Nothing Saved](https://lifehacker.com/how-to-retire-when-you-have-basically-nothing-saved-1850391373)
-- [Lifehacker] [This Coconut Macaroon Cake Is Easier Than a Batch of Cookies](https://lifehacker.com/this-coconut-macaroon-cake-is-easier-than-a-batch-of-co-1850390862)
-- [Lifehacker] [Use Your Expired Bed Bath &amp; Beyond Coupons at These Stores](https://lifehacker.com/use-your-expired-bed-bath-beyond-coupons-at-these-sto-1850390861)
-- [Lifehacker] [Upgrade Your Browser With a ChatGPT Sidebar](https://lifehacker.com/upgrade-your-browser-with-a-chatgpt-sidebar-1850385569)
-- [Lifehacker] [Use This Glitch to Get Your Twitter Verification Back for Some Reason](https://lifehacker.com/use-this-glitch-to-get-your-twitter-verification-back-f-1850391025)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Coconut Macaroon Cake Is Easier Than a Batch of Cookies](https://lifehacker.com/this-coconut-macaroon-cake-is-easier-than-a-batch-of-co-1850390862)<!-- TECH-POSTS:END -->
 
 ---
 
