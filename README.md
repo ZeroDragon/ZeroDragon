@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a Powerful Pix Checkout with Woovi Plugin and HTML, CSS and Js](https://dev.to/woovi/creating-a-powerful-pix-checkout-with-woovi-plugin-and-html-css-and-js-28jn)
+- [Dev.to/JS] [javascript expression vs statement, and their importance in react](https://dev.to/jeetvora331/javascript-expression-vs-statement-and-their-importance-in-react-2k8e)
+- [Lifehacker] [Put Some Plantain Chips in Your PB&amp;J](https://lifehacker.com/put-some-plantain-chips-in-your-pb-j-1850396893)
 - [Lifehacker] [The Best Way to Open a Pack of Sausages](https://lifehacker.com/the-best-way-to-open-a-pack-of-sausages-1850397320)
 - [Lifehacker] [Can an App Really Improve Your Mobility?](https://lifehacker.com/can-an-app-really-improve-your-mobility-1850392998)
 - [Dev.to/JS] [Building Web-Based Games and Utility Projects Using JavaScript](https://dev.to/hjain5164/building-web-based-games-and-utility-projects-using-javascript-4pp4)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Resolvendo problemas no HackerRank: Joaninhas Felizes](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-joaninhas-felizes-5gc)
 - [Dev.to/JS] [Beacon API! Use para telemetria de seus projetos web](https://dev.to/urielsouza29/beacon-api-use-para-telemetria-de-seus-projetos-web-52kn)
 - [Lifehacker] [20 Movies That Have Definitely Not Aged Well](https://lifehacker.com/20-movies-that-have-definitely-not-aged-well-1850320034)
-- [Dev.to/JS] [Nine Features of Javascript](https://dev.to/merudra754/nine-features-of-javascript-3li1)
-- [Dev.to/JS] [Say Yes to Modals with the Dialog Tag!](https://dev.to/alexandprivate/lets-do-a-modal-right-56k5)
 - [Lifehacker] [How to Cope With Misophonia](https://lifehacker.com/how-to-cope-with-misophonia-1850394815)
 - [Lifehacker] [You Should Plant a Moonlight Garden](https://lifehacker.com/you-should-plant-a-moonlight-garden-1850394213)
 - [Lifehacker] [How to Stop Being Lonely, According to the Surgeon General](https://lifehacker.com/how-to-stop-being-lonely-according-to-the-surgeon-gene-1850397013)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Turn a Mini Fridge Into a Cheese Cave](https://lifehacker.com/how-to-turn-a-mini-fridge-into-a-cheese-cave-1850371716)
 - [Lifehacker] [Three Beginner Lifting Mistakes You Can Avoid](https://lifehacker.com/three-beginner-lifting-mistakes-you-can-avoid-1850392501)
 - [Lifehacker] [How the Writers’ Strike Could Affect Everything You Watch](https://lifehacker.com/how-the-writers-strike-could-affect-everything-you-wat-1850392874)
-- [Lifehacker] [Your Switch Probably Doesn’t Have Enough Space for ‘Tears of the Kingdom’](https://lifehacker.com/your-switch-probably-doesn-t-have-enough-space-for-tea-1850391743)
-- [Lifehacker] [How to Make Silky Sauces With More Plants and Less Dairy](https://lifehacker.com/how-to-make-silky-sauces-with-more-plants-and-less-dair-1850391960)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Switch Probably Doesn’t Have Enough Space for ‘Tears of the Kingdom’](https://lifehacker.com/your-switch-probably-doesn-t-have-enough-space-for-tea-1850391743)<!-- TECH-POSTS:END -->
 
 ---
 
