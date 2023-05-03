@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Add Web Push Notifications to Your Web App](https://dev.to/tahazsh/how-to-add-web-push-notifications-to-your-web-app-2hla)
+- [Lifehacker] [10 Marvel Shows You Can Safely Watch With Your Kids](https://lifehacker.com/10-marvel-shows-you-can-safely-watch-with-your-kids-1850399274)
+- [Lifehacker] [Your Productivity Needs More Breaks](https://lifehacker.com/your-productivity-needs-more-breaks-1850400649)
 - [Lifehacker] [Kick Off Grilling Season With This Open-Faced Sausage Sandwich](https://lifehacker.com/kick-off-grilling-season-with-this-open-faced-sausage-s-1850400529)
 - [Lifehacker] [The Easiest Ways to Eat Cheap and Healthy on a Road Trip](https://lifehacker.com/the-easiest-ways-to-eat-cheap-and-healthy-on-a-road-tri-1850398769)
 - [Dev.to/JS] [A love story of Svelte and JSX 💖](https://dev.to/rajaniraiyn/a-love-story-of-svelte-and-jsx-13j)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [memo, useMemo and useCallback ftw](https://dev.to/dougyoshii/when-to-use-memo-in-react-js-2h8)
 - [Lifehacker] [Your Pixel&#39;s Alarm Clock Has a Weird but Fatal Flaw](https://lifehacker.com/your-pixels-alarm-clock-has-a-weird-but-fatal-flaw-1850396832)
 - [Dev.to/JS] [New Team](https://dev.to/abdessattar/new-team-4019)
-- [Dev.to/JS] [Boilerplate code in Node Js](https://dev.to/rcoder0907/boilerplate-code-in-node-js-kjo)
 - [Lifehacker] [You Can Clean Sticker Residue With Something Already in Your Cabinet](https://lifehacker.com/you-can-clean-sticker-residue-with-something-already-in-1850398091)
 - [Lifehacker] [Put Some Plantain Chips in Your PB&amp;J](https://lifehacker.com/put-some-plantain-chips-in-your-pb-j-1850396893)
 - [Lifehacker] [The Best Way to Open a Pack of Sausages](https://lifehacker.com/the-best-way-to-open-a-pack-of-sausages-1850397320)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Throw Away This Recalled All-Purpose Flour, FDA Says](https://lifehacker.com/throw-away-this-recalled-all-purpose-flour-fda-says-1850395671)
 - [Lifehacker] [Plant These Self-Sowing Flowers for a Low-Maintenance Garden](https://lifehacker.com/plant-these-self-sowing-flowers-for-a-low-maintenance-g-1850394073)
 - [Lifehacker] [Use the Pomodoro Method to Study More Efficiently](https://lifehacker.com/use-the-pomodoro-method-to-study-more-efficiently-1850395495)
-- [Lifehacker] [Get Some Tomato Paste on Your Grilled Cheese Sandwich](https://lifehacker.com/get-some-tomato-paste-on-your-grilled-cheese-sandwich-1850393407)
-- [Lifehacker] [How to Know When &lpar;or If&rpar; You Need Another COVID Vaccine](https://lifehacker.com/how-to-know-when-or-if-you-need-another-covid-vaccine-1850394139)
-- [Lifehacker] [How to Prevent Your Patio Pavers From Shifting Over Time](https://lifehacker.com/how-to-prevent-your-patio-pavers-from-shifting-over-tim-1850394007)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Get Some Tomato Paste on Your Grilled Cheese Sandwich](https://lifehacker.com/get-some-tomato-paste-on-your-grilled-cheese-sandwich-1850393407)<!-- TECH-POSTS:END -->
 
 ---
 
