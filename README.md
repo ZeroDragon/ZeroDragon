@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Chocolate Peanut Butter Pie Is Made With Tofu](https://lifehacker.com/the-best-chocolate-peanut-butter-pie-is-made-with-tofu-1850397451)
+- [Dev.to/JS] [We&#39;re organizing a remote hackathon &lpar;with $5k in prizes&rpar;](https://dev.to/gadget/were-organizing-a-remote-hackathon-with-5k-in-prizes-1279)
+- [Dev.to/JS] [Getting Started with Solidity, All you need to know &lpar;A Step by Step Guide&rpar;.](https://dev.to/vinyldavyl/getting-started-with-solidity-all-you-need-to-know-a-step-by-step-guide-p7d)
+- [Lifehacker] [Your Pixel&#39;s Alarm Clock Has a Weird but Fatal Flaw](https://lifehacker.com/your-pixels-alarm-clock-has-a-weird-but-fatal-flaw-1850396832)
+- [Dev.to/JS] [New Team](https://dev.to/abdessattar/new-team-4019)
+- [Dev.to/JS] [Boilerplate code in Node Js](https://dev.to/rcoder0907/boilerplate-code-in-node-js-kjo)
+- [Dev.to/JS] [10 CSS Projects To Earn Big in 2023](https://dev.to/scofieldidehen/10-css-projects-to-earn-big-in-2023-k3l)
+- [Lifehacker] [You Can Clean Sticker Residue With Something Already in Your Cabinet](https://lifehacker.com/you-can-clean-sticker-residue-with-something-already-in-1850398091)
 - [Dev.to/JS] [Creating a Powerful Pix Checkout with Woovi Plugin and HTML, CSS and Js](https://dev.to/woovi/creating-a-powerful-pix-checkout-with-woovi-plugin-and-html-css-and-js-28jn)
 - [Dev.to/JS] [javascript expression vs statement, and their importance in react](https://dev.to/jeetvora331/javascript-expression-vs-statement-and-their-importance-in-react-2k8e)
 - [Lifehacker] [Put Some Plantain Chips in Your PB&amp;J](https://lifehacker.com/put-some-plantain-chips-in-your-pb-j-1850396893)
@@ -35,11 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simplifying let, const and var!](https://dev.to/merudra754/simplifying-let-const-and-var-3pe5)
 - [Dev.to/JS] [Repeated String Example in JavaScript](https://dev.to/calvinoea/repeated-string-example-in-javascript-2kmj)
 - [Lifehacker] [Teenagers Can Work Out for Free All Summer at Planet Fitness](https://lifehacker.com/teenagers-can-work-out-for-free-all-summer-at-planet-fi-1850396367)
-- [Dev.to/JS] [Why async callback cannot happen in React useEffect hook?](https://dev.to/sanjampreetsingh/why-async-callback-cannot-happen-in-react-useeffect-hook-ff)
-- [Dev.to/JS] [Making Your Own IsOdd Function](https://dev.to/calvinoea/making-your-own-isodd-function-208b)
-- [Dev.to/JS] [Top 10 Python Project Ideas for Final Year Students](https://dev.to/kavya_rake22477/top-10-python-project-ideas-for-final-year-students-5eb9)
-- [Dev.to/JS] [Resolvendo problemas no HackerRank: Joaninhas Felizes](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-joaninhas-felizes-5gc)
-- [Dev.to/JS] [Beacon API! Use para telemetria de seus projetos web](https://dev.to/urielsouza29/beacon-api-use-para-telemetria-de-seus-projetos-web-52kn)
 - [Lifehacker] [20 Movies That Have Definitely Not Aged Well](https://lifehacker.com/20-movies-that-have-definitely-not-aged-well-1850320034)
 - [Lifehacker] [How to Cope With Misophonia](https://lifehacker.com/how-to-cope-with-misophonia-1850394815)
 - [Lifehacker] [You Should Plant a Moonlight Garden](https://lifehacker.com/you-should-plant-a-moonlight-garden-1850394213)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the ‘Chunking’ Method to Actually Remember What You Studied](https://lifehacker.com/use-the-chunking-method-to-actually-remember-what-you-1850392462)
 - [Lifehacker] [Help Your Kids Name and Talk to Their Big Emotions](https://lifehacker.com/help-your-kids-name-and-talk-to-their-big-emotions-1850392478)
 - [Lifehacker] [Here&#39;s How Long You Can Leave Butter Out of the Fridge](https://lifehacker.com/heres-how-long-you-can-leave-butter-out-of-the-fridge-1850387237)
-- [Lifehacker] [How to Turn a Mini Fridge Into a Cheese Cave](https://lifehacker.com/how-to-turn-a-mini-fridge-into-a-cheese-cave-1850371716)
-- [Lifehacker] [Three Beginner Lifting Mistakes You Can Avoid](https://lifehacker.com/three-beginner-lifting-mistakes-you-can-avoid-1850392501)
-- [Lifehacker] [How the Writers’ Strike Could Affect Everything You Watch](https://lifehacker.com/how-the-writers-strike-could-affect-everything-you-wat-1850392874)
-- [Lifehacker] [Your Switch Probably Doesn’t Have Enough Space for ‘Tears of the Kingdom’](https://lifehacker.com/your-switch-probably-doesn-t-have-enough-space-for-tea-1850391743)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Turn a Mini Fridge Into a Cheese Cave](https://lifehacker.com/how-to-turn-a-mini-fridge-into-a-cheese-cave-1850371716)<!-- TECH-POSTS:END -->
 
 ---
 
