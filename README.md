@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Here are some sample questions you may be asked during a React.js interview](https://dev.to/devroopeshsingh/here-are-some-sample-questions-you-may-be-asked-during-a-reactjs-interview-1kga)
 - [Dev.to/JS] [Common topics and questions you may encounter during a React.js interview](https://dev.to/devroopeshsingh/common-topics-and-questions-you-may-encounter-during-a-reactjs-interview-55e9)
 - [Dev.to/JS] [How to monitor changes in JavaScript?](https://dev.to/billalsiddiqi/how-to-monitor-changes-in-javascript-1fof)
 - [Dev.to/JS] [How to Add Report Designer to a JavaScript Application](https://dev.to/boldreports/how-to-add-report-designer-to-a-javascript-application-2kh3)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pagination with the Rick and Morty API](https://dev.to/rayalva407/pagination-with-the-rick-and-morty-api-4ln)
 - [Dev.to/JS] [Creating a React Timer](https://dev.to/rayalva407/creating-a-react-timer-ki0)
 - [Dev.to/JS] [Join the Angular v16/17 Development: — Discover How to Collaborate with the Angular Team!](https://dev.to/this-is-angular/join-the-angular-v1617-development-discover-how-to-collaborate-with-the-angular-team-4nm7)
-- [Dev.to/JS] [I Created A Web App That Went Viral On Linkedin 🔥](https://dev.to/rammcodes/i-created-a-web-app-that-went-viral-on-linkedin-e8c)
 - [Lifehacker] [How to Stop Being Lonely, According to the Surgeon General](https://lifehacker.com/how-to-stop-being-lonely-according-to-the-surgeon-gene-1850397013)
 - [Lifehacker] [You Should Air Fry Mushrooms Without Oil, Actually](https://lifehacker.com/you-should-air-fry-mushrooms-without-oil-actually-1850396585)
 - [Lifehacker] [Apple Has a New Kind of Security Update](https://lifehacker.com/apple-has-a-new-kind-of-security-update-1850395826)
