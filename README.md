@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WSOSLOT88 SITUS DAFTAR AKUN WSO SLOT PASTI GACOR](https://dev.to/wsoslot88/wsoslot88-situs-daftar-akun-wso-slot-pasti-gacor-8ec)
+- [Dev.to/JS] [เส้นทางอาชีพการเป็น Software Developer กับ ChatGPT #6.1 JavaScript Track](https://dev.to/devmountaintechfest/esnthaangaachiiphkaarepn-software-developer-kab-chatgpt-61-javascript-track-185a)
+- [Dev.to/JS] [What are JavaScript Cookies?](https://dev.to/elyasshamal/what-are-javascript-cookies-536p)
+- [Dev.to/JS] [Simple Action: YAML Replacement](https://dev.to/okamos102/placeholder-title-1ceh)
 - [Dev.to/JS] [Using Intl.NumberFormat to transform number notation](https://dev.to/ddanielcruzz/using-intlnumberformat-to-transform-number-notation-2dk9)
 - [Dev.to/JS] [Day 92 of #100DaysOfCode: Displaying Matches and Working on Chat Feature](https://dev.to/arashjangali/day-92-of-100daysofcode-displaying-matches-and-working-on-chat-feature-3jje)
 - [Dev.to/JS] [Javascript Password Generator.](https://dev.to/thekalderon/javascript-password-generator-5gg)
@@ -35,12 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Apple Has a New Kind of Security Update](https://lifehacker.com/apple-has-a-new-kind-of-security-update-1850395826)
 - [Dev.to/JS] [Custom Response Statuses and Redirection in Next.js getServerSideProps](https://dev.to/hi_iam_chris/custom-response-statuses-and-redirection-in-nextjs-getserversideprops-b8l)
 - [Lifehacker] [The Difference Between Coconut Milk and Coconut Cream &lpar;and All the Other Coconut Liquids&rpar;](https://lifehacker.com/the-difference-between-coconut-milk-and-coconut-cream-1850395238)
-- [Dev.to/JS] [My Journey Into Tech.](https://dev.to/thekalderon/my-journey-into-tech-12l2)
 - [Lifehacker] [Eleven Essential Knots Everyone Should Know How to Tie](https://lifehacker.com/eleven-essential-knots-everyone-should-know-how-to-tie-1850395678)
 - [Lifehacker] [‘Eat the Frog’ First Thing in the Morning](https://lifehacker.com/eat-the-frog-first-thing-in-the-morning-1850396305)
-- [Dev.to/JS] [Dealing with Foreign Keys in a Join Table](https://dev.to/andrewjulian/dealing-with-foreign-keys-in-join-table-2j8o)
-- [Dev.to/JS] [&quot;Axios&quot; vs &quot;Fetch&quot; !depth](https://dev.to/lausuarez02/axios-vs-fetch-depth-19ha)
-- [Dev.to/JS] [Fully FERNished - 🎨Material UI, 🐳Dockerization, and 🌤️ Deployment.](https://dev.to/wra-sol/fully-fernished-material-ui-dockerization-and-deployment-5890)
 - [Lifehacker] [Throw Away This Recalled All-Purpose Flour, FDA Says](https://lifehacker.com/throw-away-this-recalled-all-purpose-flour-fda-says-1850395671)
 - [Lifehacker] [Plant These Self-Sowing Flowers for a Low-Maintenance Garden](https://lifehacker.com/plant-these-self-sowing-flowers-for-a-low-maintenance-g-1850394073)
 - [Lifehacker] [Use the Pomodoro Method to Study More Efficiently](https://lifehacker.com/use-the-pomodoro-method-to-study-more-efficiently-1850395495)
