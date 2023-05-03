@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make a ‘Personal Podcast’ When You Study](https://lifehacker.com/make-a-personal-podcast-when-you-study-1850399310)
+- [Dev.to/JS] [How can Owl Carousel improve the user experience of an eCommerce website?](https://dev.to/sammulla47/how-can-owl-carousel-improve-the-user-experience-of-an-ecommerce-website-40e6)
+- [Dev.to/JS] [Leetcode#42: Trapping Rain Water](https://dev.to/sharma74542/leetcode42-trapping-rain-water-81o)
+- [Dev.to/JS] [3.10 - WebContainers with Eric Simons](https://dev.to/codingcatdev/310-webcontainers-with-eric-simons-1a2c)
 - [Lifehacker] [The Best Chocolate Peanut Butter Pie Is Made With Tofu](https://lifehacker.com/the-best-chocolate-peanut-butter-pie-is-made-with-tofu-1850397451)
+- [Dev.to/JS] [Method js JavaScript core principles](https://dev.to/ebakecode/method-js-javascript-core-principles-18db)
 - [Dev.to/JS] [We&#39;re organizing a remote hackathon &lpar;with $5k in prizes&rpar;](https://dev.to/gadget/were-organizing-a-remote-hackathon-with-5k-in-prizes-1279)
 - [Dev.to/JS] [Getting Started with Solidity, All you need to know &lpar;A Step by Step Guide&rpar;.](https://dev.to/vinyldavyl/getting-started-with-solidity-all-you-need-to-know-a-step-by-step-guide-p7d)
 - [Lifehacker] [Your Pixel&#39;s Alarm Clock Has a Weird but Fatal Flaw](https://lifehacker.com/your-pixels-alarm-clock-has-a-weird-but-fatal-flaw-1850396832)
@@ -37,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Open a Pack of Sausages](https://lifehacker.com/the-best-way-to-open-a-pack-of-sausages-1850397320)
 - [Lifehacker] [Can an App Really Improve Your Mobility?](https://lifehacker.com/can-an-app-really-improve-your-mobility-1850392998)
 - [Dev.to/JS] [Building Web-Based Games and Utility Projects Using JavaScript](https://dev.to/hjain5164/building-web-based-games-and-utility-projects-using-javascript-4pp4)
-- [Dev.to/JS] [Primitives in Javascript](https://dev.to/merudra754/primitives-in-javascript-m5f)
 - [Lifehacker] [How Being &#39;Needy&#39; Can Actually Be Good for Your Relationship](https://lifehacker.com/how-being-needy-can-actually-be-good-for-your-relations-1850388084)
-- [Dev.to/JS] [Qwik reaches the v1, so does qwik-nx!](https://dev.to/valorsoftware/qwik-reaches-the-v1-so-does-qwik-nx-3l6e)
-- [Dev.to/JS] [Simplifying let, const and var!](https://dev.to/merudra754/simplifying-let-const-and-var-3pe5)
-- [Dev.to/JS] [Repeated String Example in JavaScript](https://dev.to/calvinoea/repeated-string-example-in-javascript-2kmj)
 - [Lifehacker] [Teenagers Can Work Out for Free All Summer at Planet Fitness](https://lifehacker.com/teenagers-can-work-out-for-free-all-summer-at-planet-fi-1850396367)
 - [Lifehacker] [20 Movies That Have Definitely Not Aged Well](https://lifehacker.com/20-movies-that-have-definitely-not-aged-well-1850320034)
 - [Lifehacker] [How to Cope With Misophonia](https://lifehacker.com/how-to-cope-with-misophonia-1850394815)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Miss These May Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-may-class-action-settlement-deadlines-1850392712)
 - [Lifehacker] [Use the ‘Chunking’ Method to Actually Remember What You Studied](https://lifehacker.com/use-the-chunking-method-to-actually-remember-what-you-1850392462)
 - [Lifehacker] [Help Your Kids Name and Talk to Their Big Emotions](https://lifehacker.com/help-your-kids-name-and-talk-to-their-big-emotions-1850392478)
-- [Lifehacker] [Here&#39;s How Long You Can Leave Butter Out of the Fridge](https://lifehacker.com/heres-how-long-you-can-leave-butter-out-of-the-fridge-1850387237)
-- [Lifehacker] [How to Turn a Mini Fridge Into a Cheese Cave](https://lifehacker.com/how-to-turn-a-mini-fridge-into-a-cheese-cave-1850371716)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s How Long You Can Leave Butter Out of the Fridge](https://lifehacker.com/heres-how-long-you-can-leave-butter-out-of-the-fridge-1850387237)<!-- TECH-POSTS:END -->
 
 ---
 
