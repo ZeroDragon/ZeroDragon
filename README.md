@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 92 of #100DaysOfCode: Displaying Matches and Working on Chat Feature](https://dev.to/arashjangali/day-92-of-100daysofcode-displaying-matches-and-working-on-chat-feature-3jje)
 - [Dev.to/JS] [Javascript Password Generator.](https://dev.to/thekalderon/javascript-password-generator-5gg)
 - [Lifehacker] [How to Stop Being Lonely, According to the Surgeon General](https://lifehacker.com/how-to-stop-being-lonely-according-to-the-surgeon-gene-1850397013)
 - [Dev.to/JS] [SET UP 2FA IN NODE.JS WITH SPEAKEASY](https://dev.to/candie_code/set-up-2fa-in-nodejs-with-speakeasy-3389)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fully FERNished - 🎨Material UI, 🐳Dockerization, and 🌤️ Deployment.](https://dev.to/wra-sol/fully-fernished-material-ui-dockerization-and-deployment-5890)
 - [Dev.to/JS] [How to Flatten an Object in Javascript ?](https://dev.to/imranmind/how-to-flatten-an-object-in-javascript--4ojl)
 - [Lifehacker] [Throw Away This Recalled All-Purpose Flour, FDA Says](https://lifehacker.com/throw-away-this-recalled-all-purpose-flour-fda-says-1850395671)
-- [Dev.to/JS] [Authentication system using rust &lpar;actix-web&rpar; and sveltekit - Enhancing the frontend application with form actions](https://dev.to/sirneij/authentication-system-using-rust-actix-web-and-sveltekit-enhancing-the-frontend-application-with-form-actions-3d10)
 - [Lifehacker] [Plant These Self-Sowing Flowers for a Low-Maintenance Garden](https://lifehacker.com/plant-these-self-sowing-flowers-for-a-low-maintenance-g-1850394073)
 - [Lifehacker] [Use the Pomodoro Method to Study More Efficiently](https://lifehacker.com/use-the-pomodoro-method-to-study-more-efficiently-1850395495)
 - [Lifehacker] [Get Some Tomato Paste on Your Grilled Cheese Sandwich](https://lifehacker.com/get-some-tomato-paste-on-your-grilled-cheese-sandwich-1850393407)
