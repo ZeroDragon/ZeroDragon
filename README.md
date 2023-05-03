@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A love story of Svelte and JSX 💖](https://dev.to/rajaniraiyn/a-love-story-of-svelte-and-jsx-13j)
+- [Lifehacker] [These Restaurants Are Giving Firefighters and Nurses Free Food This Week](https://lifehacker.com/these-restaurants-are-giving-firefighters-and-nurses-fr-1850399991)
+- [Dev.to/JS] [The Sorting Algorithms you need to know](https://dev.to/jliciagasilva/the-sorting-algorithms-you-need-to-know-kff)
+- [Dev.to/JS] [Moonly weekly progress update #47 - Testing Raffle Feature](https://dev.to/moonly/moonly-weekly-progress-update-47-testing-raffle-feature-1i81)
+- [Lifehacker] [You Can&#39;t Trust Your Browser&#39;s &#39;Lock&#39; to Tell You a Website Is Safe](https://lifehacker.com/you-cant-trust-your-browsers-lock-to-tell-you-a-website-1850399780)
 - [Lifehacker] [Make a ‘Personal Podcast’ When You Study](https://lifehacker.com/make-a-personal-podcast-when-you-study-1850399310)
 - [Dev.to/JS] [How can Owl Carousel improve the user experience of an eCommerce website?](https://dev.to/sammulla47/how-can-owl-carousel-improve-the-user-experience-of-an-ecommerce-website-40e6)
 - [Dev.to/JS] [Leetcode#42: Trapping Rain Water](https://dev.to/sharma74542/leetcode42-trapping-rain-water-81o)
@@ -31,17 +36,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Method js JavaScript core principles](https://dev.to/ebakecode/method-js-javascript-core-principles-18db)
 - [Dev.to/JS] [We&#39;re organizing a remote hackathon &lpar;with $5k in prizes&rpar;](https://dev.to/gadget/were-organizing-a-remote-hackathon-with-5k-in-prizes-1279)
 - [Dev.to/JS] [Getting Started with Solidity, All you need to know &lpar;A Step by Step Guide&rpar;.](https://dev.to/vinyldavyl/getting-started-with-solidity-all-you-need-to-know-a-step-by-step-guide-p7d)
+- [Dev.to/JS] [memo, useMemo and useCallback ftw](https://dev.to/dougyoshii/when-to-use-memo-in-react-js-2h8)
 - [Lifehacker] [Your Pixel&#39;s Alarm Clock Has a Weird but Fatal Flaw](https://lifehacker.com/your-pixels-alarm-clock-has-a-weird-but-fatal-flaw-1850396832)
 - [Dev.to/JS] [New Team](https://dev.to/abdessattar/new-team-4019)
 - [Dev.to/JS] [Boilerplate code in Node Js](https://dev.to/rcoder0907/boilerplate-code-in-node-js-kjo)
-- [Dev.to/JS] [10 CSS Projects To Earn Big in 2023](https://dev.to/scofieldidehen/10-css-projects-to-earn-big-in-2023-k3l)
 - [Lifehacker] [You Can Clean Sticker Residue With Something Already in Your Cabinet](https://lifehacker.com/you-can-clean-sticker-residue-with-something-already-in-1850398091)
-- [Dev.to/JS] [Creating a Powerful Pix Checkout with Woovi Plugin and HTML, CSS and Js](https://dev.to/woovi/creating-a-powerful-pix-checkout-with-woovi-plugin-and-html-css-and-js-28jn)
-- [Dev.to/JS] [javascript expression vs statement, and their importance in react](https://dev.to/jeetvora331/javascript-expression-vs-statement-and-their-importance-in-react-2k8e)
 - [Lifehacker] [Put Some Plantain Chips in Your PB&amp;J](https://lifehacker.com/put-some-plantain-chips-in-your-pb-j-1850396893)
 - [Lifehacker] [The Best Way to Open a Pack of Sausages](https://lifehacker.com/the-best-way-to-open-a-pack-of-sausages-1850397320)
 - [Lifehacker] [Can an App Really Improve Your Mobility?](https://lifehacker.com/can-an-app-really-improve-your-mobility-1850392998)
-- [Dev.to/JS] [Building Web-Based Games and Utility Projects Using JavaScript](https://dev.to/hjain5164/building-web-based-games-and-utility-projects-using-javascript-4pp4)
 - [Lifehacker] [How Being &#39;Needy&#39; Can Actually Be Good for Your Relationship](https://lifehacker.com/how-being-needy-can-actually-be-good-for-your-relations-1850388084)
 - [Lifehacker] [Teenagers Can Work Out for Free All Summer at Planet Fitness](https://lifehacker.com/teenagers-can-work-out-for-free-all-summer-at-planet-fi-1850396367)
 - [Lifehacker] [20 Movies That Have Definitely Not Aged Well](https://lifehacker.com/20-movies-that-have-definitely-not-aged-well-1850320034)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Know When &lpar;or If&rpar; You Need Another COVID Vaccine](https://lifehacker.com/how-to-know-when-or-if-you-need-another-covid-vaccine-1850394139)
 - [Lifehacker] [How to Prevent Your Patio Pavers From Shifting Over Time](https://lifehacker.com/how-to-prevent-your-patio-pavers-from-shifting-over-tim-1850394007)
 - [Lifehacker] [Don’t Miss These May Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-may-class-action-settlement-deadlines-1850392712)
-- [Lifehacker] [Use the ‘Chunking’ Method to Actually Remember What You Studied](https://lifehacker.com/use-the-chunking-method-to-actually-remember-what-you-1850392462)
-- [Lifehacker] [Help Your Kids Name and Talk to Their Big Emotions](https://lifehacker.com/help-your-kids-name-and-talk-to-their-big-emotions-1850392478)
-- [Lifehacker] [Here&#39;s How Long You Can Leave Butter Out of the Fridge](https://lifehacker.com/heres-how-long-you-can-leave-butter-out-of-the-fridge-1850387237)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the ‘Chunking’ Method to Actually Remember What You Studied](https://lifehacker.com/use-the-chunking-method-to-actually-remember-what-you-1850392462)<!-- TECH-POSTS:END -->
 
 ---
 
