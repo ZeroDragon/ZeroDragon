@@ -23,21 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Qwik reaches the v1, so does qwik-nx!](https://dev.to/valorsoftware/qwik-reaches-the-v1-so-does-qwik-nx-3l6e)
+- [Dev.to/JS] [Simplifying let, const and var!](https://dev.to/merudra754/simplifying-let-const-and-var-3pe5)
+- [Dev.to/JS] [Repeated String Example in JavaScript](https://dev.to/calvinoea/repeated-string-example-in-javascript-2kmj)
+- [Dev.to/JS] [WebRTC video streaming is not in chrome](https://dev.to/janaka1984/webrtc-video-streaming-is-not-in-chrome-4ieg)
+- [Lifehacker] [Teenagers Can Work Out for Free All Summer at Planet Fitness](https://lifehacker.com/teenagers-can-work-out-for-free-all-summer-at-planet-fi-1850396367)
+- [Dev.to/JS] [Why async callback cannot happen in React useEffect hook?](https://dev.to/sanjampreetsingh/why-async-callback-cannot-happen-in-react-useeffect-hook-ff)
+- [Dev.to/JS] [Making Your Own IsOdd Function](https://dev.to/calvinoea/making-your-own-isodd-function-208b)
+- [Dev.to/JS] [Top 10 Python Project Ideas for Final Year Students](https://dev.to/kavya_rake22477/top-10-python-project-ideas-for-final-year-students-5eb9)
+- [Dev.to/JS] [Resolvendo problemas no HackerRank: Joaninhas Felizes](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-joaninhas-felizes-5gc)
+- [Dev.to/JS] [Beacon API! Use para telemetria de seus projetos web](https://dev.to/urielsouza29/beacon-api-use-para-telemetria-de-seus-projetos-web-52kn)
 - [Lifehacker] [20 Movies That Have Definitely Not Aged Well](https://lifehacker.com/20-movies-that-have-definitely-not-aged-well-1850320034)
 - [Dev.to/JS] [Nine Features of Javascript](https://dev.to/merudra754/nine-features-of-javascript-3li1)
+- [Dev.to/JS] [Say Yes to Modals with the Dialog Tag!](https://dev.to/alexandprivate/lets-do-a-modal-right-56k5)
 - [Lifehacker] [How to Cope With Misophonia](https://lifehacker.com/how-to-cope-with-misophonia-1850394815)
 - [Dev.to/JS] [Responsive Image Gallery Layout Using CSS Grid](https://dev.to/onlineittutstutorials/responsive-image-gallery-layout-using-css-grid-1m3p)
-- [Dev.to/JS] [Responsive Vertical Timeline Using HTML CSS](https://dev.to/onlineittutstutorials/responsive-vertical-timeline-using-html-css-12h1)
-- [Dev.to/JS] [Show / Hide Password using HTML CSS and JavaScript | Toggle Password](https://dev.to/onlineittutstutorials/show-hide-password-using-html-css-and-javascript-toggle-password-4f5a)
-- [Dev.to/JS] [Animated Toast Notification With Progress Bar in HTML CSS &amp; JavaScript](https://dev.to/onlineittutstutorials/animated-toast-notification-with-progress-bar-in-html-css-javascript-170f)
-- [Dev.to/JS] [How to Make Roll Dice Game in JavaScript](https://dev.to/onlineittutstutorials/how-to-make-roll-dice-game-in-javascript-1k70)
 - [Lifehacker] [You Should Plant a Moonlight Garden](https://lifehacker.com/you-should-plant-a-moonlight-garden-1850394213)
-- [Dev.to/JS] [Easy date and time localization with the time HTML element](https://dev.to/kovah/easy-date-and-time-localization-with-the-time-html-element-3a69)
-- [Dev.to/JS] [Thinking in Regular Expressions](https://dev.to/jatingupta/thinking-in-regular-expressions-jcf)
-- [Dev.to/JS] [10 Tips for Accelerating Frontend Development](https://dev.to/vedvyas/10-tips-for-accelerating-frontend-development-13pc)
-- [Dev.to/JS] [A Practical Introduction to Jamstack](https://dev.to/martinsonuoha/a-practical-introduction-to-jamstack-113b)
-- [Dev.to/JS] [Streamlining Sign-Ups: How to Build a High-Performing Form with Tailwind React](https://dev.to/haszankauna/streamlining-sign-ups-how-to-build-a-high-performing-form-with-tailwind-react-5fp2)
-- [Dev.to/JS] [Javascript: Why do we get empty strings, when we compare them to empty arrays?](https://dev.to/talenttinaapi/javascript-why-do-we-get-empty-strings-when-we-compare-them-to-empty-arrays-21ja)
 - [Lifehacker] [How to Stop Being Lonely, According to the Surgeon General](https://lifehacker.com/how-to-stop-being-lonely-according-to-the-surgeon-gene-1850397013)
 - [Lifehacker] [You Should Air Fry Mushrooms Without Oil, Actually](https://lifehacker.com/you-should-air-fry-mushrooms-without-oil-actually-1850396585)
 - [Lifehacker] [Apple Has a New Kind of Security Update](https://lifehacker.com/apple-has-a-new-kind-of-security-update-1850395826)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Silky Sauces With More Plants and Less Dairy](https://lifehacker.com/how-to-make-silky-sauces-with-more-plants-and-less-dair-1850391960)
 - [Lifehacker] [Use Panko to Add a Buttery Crunch to Your Fried Eggs and Scrambles](https://lifehacker.com/use-panko-to-add-a-buttery-crunch-to-your-fried-eggs-an-1850392330)
 - [Lifehacker] [The Data Everyone Should Back Up in Case of a Layoff](https://lifehacker.com/the-data-everyone-should-back-up-in-case-of-a-layoff-1850391262)
-- [Lifehacker] [How to Retire When You Have Basically Nothing Saved](https://lifehacker.com/how-to-retire-when-you-have-basically-nothing-saved-1850391373)
-- [Lifehacker] [This Coconut Macaroon Cake Is Easier Than a Batch of Cookies](https://lifehacker.com/this-coconut-macaroon-cake-is-easier-than-a-batch-of-co-1850390862)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Retire When You Have Basically Nothing Saved](https://lifehacker.com/how-to-retire-when-you-have-basically-nothing-saved-1850391373)<!-- TECH-POSTS:END -->
 
 ---
 
