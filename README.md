@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tips to Use Constants File in TypeScript](https://dev.to/thinkeramir/tips-to-use-constants-file-in-typescript-27je)
+- [Dev.to/JS] [5 Repositories to Boost Your Knowledge](https://dev.to/surajondev/5-repositories-to-boost-your-knowledge-2787)
+- [Dev.to/JS] [Why NestJS should be the framework of choice if you want to build enterprise applications in NodeJS?](https://dev.to/muhammadzaidse/why-nestjs-should-be-the-framework-of-choice-if-you-want-to-build-enterprise-applications-in-nodejs-5947)
 - [Dev.to/JS] [isNaN&lpar;&rpar; vs Number.isNaN&lpar;&rpar;](https://dev.to/merudra754/isnan-vs-numberisnan-3e36)
 - [Dev.to/JS] [full stack training in Pune](https://dev.to/ishikadulhani/full-stack-training-in-pune-5h1p)
 - [Dev.to/JS] [How I Use Medusa to Create a Powerful Next.js E-commerce Store](https://dev.to/tyaga001/how-i-use-medusa-to-create-a-powerful-nextjs-e-commerce-store-4j2j)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Frontend development is Hard. Here&#39;s why](https://dev.to/xplodivity/frontend-development-is-hard-heres-why-34cp)
 - [Dev.to/JS] [Washing your code: avoid comments](https://dev.to/sapegin/washing-your-code-avoid-comments-55oa)
 - [Dev.to/JS] [Modules in NodeJS : ESM vs CommonJS](https://dev.to/tsensei/modules-in-nodejs-esm-vs-commonjs-285c)
-- [Dev.to/JS] [How to Deploy a Next.js 13 App to AWS with Amplify Hosting](https://dev.to/femi_dev/how-to-deploy-a-nextjs-13-app-to-aws-with-amplify-hosting-5327)
-- [Dev.to/JS] [How to Tackle Real-Life Software Development Challenges Effectively](https://dev.to/bilashcse/how-to-tackle-real-life-software-development-challenges-effectively-2c9l)
-- [Dev.to/JS] [Javascript Banana](https://dev.to/bilashcse/javascript-banana-k32)
 - [Lifehacker] [10 Marvel Shows You Can Safely Watch With Your Kids](https://lifehacker.com/10-marvel-shows-you-can-safely-watch-with-your-kids-1850399274)
 - [Lifehacker] [Your Productivity Needs More Breaks](https://lifehacker.com/your-productivity-needs-more-breaks-1850400649)
 - [Lifehacker] [Kick Off Grilling Season With This Open-Faced Sausage Sandwich](https://lifehacker.com/kick-off-grilling-season-with-this-open-faced-sausage-s-1850400529)
