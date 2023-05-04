@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Frontend development is Hard. Here&#39;s why](https://dev.to/xplodivity/frontend-development-is-hard-heres-why-34cp)
+- [Dev.to/JS] [Washing your code: avoid comments](https://dev.to/sapegin/washing-your-code-avoid-comments-55oa)
 - [Dev.to/JS] [Modules in NodeJS : ESM vs CommonJS](https://dev.to/tsensei/modules-in-nodejs-esm-vs-commonjs-285c)
 - [Dev.to/JS] [How to Deploy a Next.js 13 App to AWS with Amplify Hosting](https://dev.to/femi_dev/how-to-deploy-a-nextjs-13-app-to-aws-with-amplify-hosting-5327)
 - [Dev.to/JS] [How to Tackle Real-Life Software Development Challenges Effectively](https://dev.to/bilashcse/how-to-tackle-real-life-software-development-challenges-effectively-2c9l)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HTTP ERROR 401 when running npm start](https://dev.to/memodiaz44/http-error-401-when-running-npm-start-c9e)
 - [Dev.to/JS] [Day 93 of #100DaysOfCode: Implementing Undo Button and Removing Matches](https://dev.to/arashjangali/day-93-of-100daysofcode-implementing-undo-button-and-removing-matches-563)
 - [Dev.to/JS] [React: How to Use the Star Wars API for Beginners](https://dev.to/michaellarocca/react-how-to-use-the-star-wars-api-for-beginners-2dl6)
-- [Dev.to/JS] [Don&#39;t use magic strings!](https://dev.to/josuews303/dont-use-magic-strings-2aol)
-- [Dev.to/JS] [How to Add Web Push Notifications to Your Web App](https://dev.to/tahazsh/how-to-add-web-push-notifications-to-your-web-app-2hla)
 - [Lifehacker] [10 Marvel Shows You Can Safely Watch With Your Kids](https://lifehacker.com/10-marvel-shows-you-can-safely-watch-with-your-kids-1850399274)
 - [Lifehacker] [Your Productivity Needs More Breaks](https://lifehacker.com/your-productivity-needs-more-breaks-1850400649)
 - [Lifehacker] [Kick Off Grilling Season With This Open-Faced Sausage Sandwich](https://lifehacker.com/kick-off-grilling-season-with-this-open-faced-sausage-s-1850400529)
