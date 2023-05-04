@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Format one object to another w/out duplicates](https://dev.to/benhultin/format-one-object-to-another-wout-duplicates-2nji)
+- [Lifehacker] [Five Things Scammers Are Hoping You Google](https://lifehacker.com/five-things-scammers-are-hoping-you-google-1850405964)
+- [Dev.to/JS] [useState: la caja de juguetes](https://dev.to/cadifilippo/usestate-la-caja-de-juguetes-256o)
+- [Dev.to/JS] [Want to be able to drag files into a web app? Got ya covered.](https://dev.to/krofdrakula/want-to-be-able-to-drag-files-into-a-web-app-got-ya-covered-jh3)
+- [Dev.to/JS] [how to validate ship address in the USA using JavaScript](https://dev.to/tgmarinhodev/how-to-validate-ship-address-in-the-usa-using-javascript-4k5e)
+- [Lifehacker] [How to Snack, Italian Style](https://lifehacker.com/how-to-snack-italian-style-1850405140)
 - [Lifehacker] [This App Makes Your Mac’s Keyboard Sound Vintage](https://lifehacker.com/this-app-makes-your-mac-s-keyboard-sound-vintage-1850402370)
 - [Dev.to/JS] [Higher-Order Functions in Javascript](https://dev.to/cathrynbmcdonald/higher-order-functions-in-javascript-5gbf)
 - [Lifehacker] [You Can Probably Get Reimbursed If Your Flight Price Drops](https://lifehacker.com/you-can-probably-get-reimbursed-if-your-flight-price-dr-1850405175)
@@ -36,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Explore 7 life-saving JavaScript tips with ChaptGPT.](https://dev.to/hr21don/explore-7-life-saving-javascript-tips-with-chaptgpt-3h43)
 - [Lifehacker] [Save on Your Electric Bill by Creating a ‘Climate Zone’ at Home](https://lifehacker.com/save-on-your-electric-bill-by-creating-a-climate-zone-1850402193)
 - [Dev.to/JS] [Post Bootcamp excitment.](https://dev.to/bobbiehoch/post-bootcamp-excitment-4l4i)
-- [Dev.to/JS] [Learning Solidity as a Javascript Developer](https://dev.to/mohammadfaisal/learning-solidity-as-a-javascript-developer-4cj4)
 - [Lifehacker] [Use the Two Minute Rule to Stop Procrastinating](https://lifehacker.com/use-the-two-minute-rule-to-stop-procrastinating-1850404307)
-- [Dev.to/JS] [FAILURE TO PUBLISH - WORDPRESS](https://dev.to/rafaelgcostaa/failure-to-publish-wordpress-54hn)
-- [Dev.to/JS] [Return an element in console](https://dev.to/anateotfw/return-an-element-in-console-lj6)
-- [Dev.to/JS] [Backend to Frontend communication with Server-Sent Events](https://dev.to/cloudx/backend-to-frontend-communication-with-server-sent-events-56kf)
 - [Lifehacker] [You Can Try Microsoft&#39;s New ChatGPT-Powered AI Search Right Now](https://lifehacker.com/how-to-try-microsofts-new-chatgpt-powered-ai-search-1850113463)
 - [Lifehacker] [These Battery-Powered Appliances Are Actually Worth It](https://lifehacker.com/these-battery-powered-appliances-are-actually-worth-it-1850404299)
 - [Lifehacker] [You’re Probably Lifting a Lot Less Than You Could](https://lifehacker.com/you-re-probably-lifting-half-as-much-as-you-should-1850403997)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a ‘Personal Podcast’ When You Study](https://lifehacker.com/make-a-personal-podcast-when-you-study-1850399310)
 - [Lifehacker] [The Best Chocolate Peanut Butter Pie Is Made With Tofu](https://lifehacker.com/the-best-chocolate-peanut-butter-pie-is-made-with-tofu-1850397451)
 - [Lifehacker] [Your Pixel&#39;s Alarm Clock Has a Weird but Fatal Flaw](https://lifehacker.com/your-pixels-alarm-clock-has-a-weird-but-fatal-flaw-1850396832)
-- [Lifehacker] [You Can Clean Sticker Residue With Something Already in Your Cabinet](https://lifehacker.com/you-can-clean-sticker-residue-with-something-already-in-1850398091)
-- [Lifehacker] [Put Some Plantain Chips in Your PB&amp;J](https://lifehacker.com/put-some-plantain-chips-in-your-pb-j-1850396893)
-- [Lifehacker] [The Best Way to Open a Pack of Sausages](https://lifehacker.com/the-best-way-to-open-a-pack-of-sausages-1850397320)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Clean Sticker Residue With Something Already in Your Cabinet](https://lifehacker.com/you-can-clean-sticker-residue-with-something-already-in-1850398091)<!-- TECH-POSTS:END -->
 
 ---
 
