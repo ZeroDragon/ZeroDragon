@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [isNaN&lpar;&rpar; vs Number.isNaN&lpar;&rpar;](https://dev.to/merudra754/isnan-vs-numberisnan-3e36)
+- [Dev.to/JS] [full stack training in Pune](https://dev.to/ishikadulhani/full-stack-training-in-pune-5h1p)
+- [Dev.to/JS] [How I Use Medusa to Create a Powerful Next.js E-commerce Store](https://dev.to/tyaga001/how-i-use-medusa-to-create-a-powerful-nextjs-e-commerce-store-4j2j)
 - [Dev.to/JS] [What is IT Outstaffing? Everything You Need to Know](https://dev.to/ankurmagan/what-is-it-outstaffing-everything-you-need-to-know-2pfm)
 - [Dev.to/JS] [Redux - Hidden Dependencies](https://dev.to/borysshulyak/redux-hidden-dependecies-4mnb)
 - [Dev.to/JS] [Deploying Strapi on Render free plan](https://dev.to/obiako/deploying-strapi-on-render-free-plan-687)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Deploy a Next.js 13 App to AWS with Amplify Hosting](https://dev.to/femi_dev/how-to-deploy-a-nextjs-13-app-to-aws-with-amplify-hosting-5327)
 - [Dev.to/JS] [How to Tackle Real-Life Software Development Challenges Effectively](https://dev.to/bilashcse/how-to-tackle-real-life-software-development-challenges-effectively-2c9l)
 - [Dev.to/JS] [Javascript Banana](https://dev.to/bilashcse/javascript-banana-k32)
-- [Dev.to/JS] [Importance of Design in React for Chatbot Development](https://dev.to/jessica020799/importance-of-design-in-react-for-chatbot-development-17m6)
-- [Dev.to/JS] [10 Cool CodePen Demos &lpar;April 23&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-april-23-1p0m)
-- [Dev.to/JS] [React Testing Library &amp; Accessibility](https://dev.to/steady5063/react-testing-library-accessibility-4fom)
 - [Lifehacker] [10 Marvel Shows You Can Safely Watch With Your Kids](https://lifehacker.com/10-marvel-shows-you-can-safely-watch-with-your-kids-1850399274)
 - [Lifehacker] [Your Productivity Needs More Breaks](https://lifehacker.com/your-productivity-needs-more-breaks-1850400649)
 - [Lifehacker] [Kick Off Grilling Season With This Open-Faced Sausage Sandwich](https://lifehacker.com/kick-off-grilling-season-with-this-open-faced-sausage-s-1850400529)
