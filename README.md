@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Cool CodePen Demos &lpar;April 23&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-april-23-1p0m)
 - [Dev.to/JS] [React Testing Library &amp; Accessibility](https://dev.to/steady5063/react-testing-library-accessibility-4fom)
 - [Dev.to/JS] [HTTP ERROR 401 when running npm start](https://dev.to/memodiaz44/http-error-401-when-running-npm-start-c9e)
 - [Dev.to/JS] [Day 93 of #100DaysOfCode: Implementing Undo Button and Removing Matches](https://dev.to/arashjangali/day-93-of-100daysofcode-implementing-undo-button-and-removing-matches-563)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a ‘Personal Podcast’ When You Study](https://lifehacker.com/make-a-personal-podcast-when-you-study-1850399310)
 - [Dev.to/JS] [How can Owl Carousel improve the user experience of an eCommerce website?](https://dev.to/sammulla47/how-can-owl-carousel-improve-the-user-experience-of-an-ecommerce-website-40e6)
 - [Dev.to/JS] [Leetcode#42: Trapping Rain Water](https://dev.to/sharma74542/leetcode42-trapping-rain-water-81o)
-- [Dev.to/JS] [3.10 - WebContainers with Eric Simons](https://dev.to/codingcatdev/310-webcontainers-with-eric-simons-1a2c)
 - [Lifehacker] [The Best Chocolate Peanut Butter Pie Is Made With Tofu](https://lifehacker.com/the-best-chocolate-peanut-butter-pie-is-made-with-tofu-1850397451)
 - [Lifehacker] [Your Pixel&#39;s Alarm Clock Has a Weird but Fatal Flaw](https://lifehacker.com/your-pixels-alarm-clock-has-a-weird-but-fatal-flaw-1850396832)
 - [Lifehacker] [You Can Clean Sticker Residue With Something Already in Your Cabinet](https://lifehacker.com/you-can-clean-sticker-residue-with-something-already-in-1850398091)
