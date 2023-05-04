@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Start Your Morning Right With a Bacon, Egg, and Cheese Pancake Casserole](https://lifehacker.com/start-your-morning-right-with-a-bacon-egg-and-cheese-1850401069)
+- [Dev.to/JS] [Resolvendo problemas no hackerRank: Redução de Strings](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-reducao-de-strings-337n)
+- [Dev.to/JS] [slice&lpar;&rpar;](https://dev.to/merudra754/slice-52eg)
+- [Dev.to/JS] [12 Easy and Useful JavaScript Snippets for Beginners.](https://dev.to/ryandsouza13/12-easy-and-useful-javascript-snippets-for-beginners-2n83)
+- [Dev.to/JS] [Best Programming Languages for Mobile App Development](https://dev.to/rahimmakha85054/best-programming-languages-for-mobile-app-development-48ak)
+- [Dev.to/JS] [Secure ReactJS Application on AWS](https://dev.to/mohammadfaisal/secure-reactjs-application-on-aws-ngf)
+- [Dev.to/JS] [ABOUT API COMPLETE INFORMATION](https://dev.to/madhusudhan/about-api-complete-information-4ecd)
 - [Dev.to/JS] [Tips to Use Constants File in TypeScript](https://dev.to/thinkeramir/tips-to-use-constants-file-in-typescript-27je)
 - [Dev.to/JS] [5 Repositories to Boost Your Knowledge](https://dev.to/surajondev/5-repositories-to-boost-your-knowledge-2787)
 - [Dev.to/JS] [Why NestJS should be the framework of choice if you want to build enterprise applications in NodeJS?](https://dev.to/muhammadzaidse/why-nestjs-should-be-the-framework-of-choice-if-you-want-to-build-enterprise-applications-in-nodejs-5947)
 - [Dev.to/JS] [isNaN&lpar;&rpar; vs Number.isNaN&lpar;&rpar;](https://dev.to/merudra754/isnan-vs-numberisnan-3e36)
 - [Dev.to/JS] [full stack training in Pune](https://dev.to/ishikadulhani/full-stack-training-in-pune-5h1p)
 - [Dev.to/JS] [How I Use Medusa to Create a Powerful Next.js E-commerce Store](https://dev.to/tyaga001/how-i-use-medusa-to-create-a-powerful-nextjs-e-commerce-store-4j2j)
-- [Dev.to/JS] [What is IT Outstaffing? Everything You Need to Know](https://dev.to/ankurmagan/what-is-it-outstaffing-everything-you-need-to-know-2pfm)
-- [Dev.to/JS] [Redux - Hidden Dependencies](https://dev.to/borysshulyak/redux-hidden-dependecies-4mnb)
-- [Dev.to/JS] [Deploying Strapi on Render free plan](https://dev.to/obiako/deploying-strapi-on-render-free-plan-687)
-- [Dev.to/JS] [Frontend development is Hard. Here&#39;s why](https://dev.to/xplodivity/frontend-development-is-hard-heres-why-34cp)
-- [Dev.to/JS] [Washing your code: avoid comments](https://dev.to/sapegin/washing-your-code-avoid-comments-55oa)
-- [Dev.to/JS] [Modules in NodeJS : ESM vs CommonJS](https://dev.to/tsensei/modules-in-nodejs-esm-vs-commonjs-285c)
 - [Lifehacker] [10 Marvel Shows You Can Safely Watch With Your Kids](https://lifehacker.com/10-marvel-shows-you-can-safely-watch-with-your-kids-1850399274)
 - [Lifehacker] [Your Productivity Needs More Breaks](https://lifehacker.com/your-productivity-needs-more-breaks-1850400649)
 - [Lifehacker] [Kick Off Grilling Season With This Open-Faced Sausage Sandwich](https://lifehacker.com/kick-off-grilling-season-with-this-open-faced-sausage-s-1850400529)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [‘Eat the Frog’ First Thing in the Morning](https://lifehacker.com/eat-the-frog-first-thing-in-the-morning-1850396305)
 - [Lifehacker] [Throw Away This Recalled All-Purpose Flour, FDA Says](https://lifehacker.com/throw-away-this-recalled-all-purpose-flour-fda-says-1850395671)
 - [Lifehacker] [Plant These Self-Sowing Flowers for a Low-Maintenance Garden](https://lifehacker.com/plant-these-self-sowing-flowers-for-a-low-maintenance-g-1850394073)
-- [Lifehacker] [Use the Pomodoro Method to Study More Efficiently](https://lifehacker.com/use-the-pomodoro-method-to-study-more-efficiently-1850395495)
-- [Lifehacker] [Get Some Tomato Paste on Your Grilled Cheese Sandwich](https://lifehacker.com/get-some-tomato-paste-on-your-grilled-cheese-sandwich-1850393407)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the Pomodoro Method to Study More Efficiently](https://lifehacker.com/use-the-pomodoro-method-to-study-more-efficiently-1850395495)<!-- TECH-POSTS:END -->
 
 ---
 
