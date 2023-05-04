@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learning Solidity as a Javascript Developer](https://dev.to/mohammadfaisal/learning-solidity-as-a-javascript-developer-4cj4)
+- [Lifehacker] [Use the Two Minute Rule to Stop Procrastinating](https://lifehacker.com/use-the-two-minute-rule-to-stop-procrastinating-1850404307)
+- [Dev.to/JS] [FAILURE TO PUBLISH - WORDPRESS](https://dev.to/rafaelgcostaa/failure-to-publish-wordpress-54hn)
+- [Dev.to/JS] [Return an element in console](https://dev.to/anateotfw/return-an-element-in-console-lj6)
+- [Dev.to/JS] [Backend to Frontend communication with Server-Sent Events](https://dev.to/cloudx/backend-to-frontend-communication-with-server-sent-events-56kf)
+- [Lifehacker] [You Can Try Microsoft&#39;s New ChatGPT-Powered AI Search Right Now](https://lifehacker.com/how-to-try-microsofts-new-chatgpt-powered-ai-search-1850113463)
+- [Lifehacker] [These Battery-Powered Appliances Are Actually Worth It](https://lifehacker.com/these-battery-powered-appliances-are-actually-worth-it-1850404299)
 - [Lifehacker] [You’re Probably Lifting Half As Much As You Should](https://lifehacker.com/you-re-probably-lifting-half-as-much-as-you-should-1850403997)
 - [Dev.to/JS] [create html , css and js - without code](https://dev.to/aieeeo/create-html-css-and-js-without-code-d8h)
 - [Lifehacker] [Passkeys Are the New Passwords](https://lifehacker.com/passkeys-are-the-new-passwords-1850402666)
@@ -36,12 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Por que o React JS é uma tecnologia essencial para o desenvolvimento web moderno?](https://dev.to/welderfernandes/por-que-o-react-js-e-uma-tecnologia-essencial-para-o-desenvolvimento-web-moderno-2gh4)
 - [Lifehacker] [A Beginner&#39;s Guide to Buying a Weightlifting Belt](https://lifehacker.com/a-beginners-guide-to-buying-a-weightlifting-belt-1850401310)
 - [Dev.to/JS] [The Bubble Figure: Integrating Tensorflow.js With Three.js and Cannon-es to Create Interactive Art](https://dev.to/idosius/the-bubble-figure-integrating-tensorflowjs-with-threejs-and-cannon-es-to-create-interactive-art-b8e)
-- [Dev.to/JS] [Conditional Rendering and Rendering List in React](https://dev.to/debajit13/conditional-rendering-and-rendering-list-in-react-4886)
 - [Lifehacker] [You Should Make Waffled Chocolate Sandwiches](https://lifehacker.com/you-should-make-waffled-chocolate-sandwiches-1850401619)
-- [Dev.to/JS] [JavaScript for Accessibility: Building Inclusive Web Applications](https://dev.to/eckdev/javascript-for-accessibility-building-inclusive-web-applications-53oc)
-- [Dev.to/JS] [Error, Error Handling and Error Handling Technique](https://dev.to/chiedoxie/error-error-handling-and-error-handling-technique-4ge8)
 - [Lifehacker] [Creative Ways to Spend Just 15 Minutes Outside With Your Kids](https://lifehacker.com/creative-ways-to-spend-just-15-minutes-outside-with-you-1850400548)
-- [Dev.to/JS] [The Solid Choice: Exploring SolidJS for Your Next Web Development Project](https://dev.to/lexissolutions/the-solid-choice-exploring-solidjs-for-your-next-web-development-project-oo8)
 - [Lifehacker] [Start Your Morning Right With a Bacon, Egg, and Cheese Pancake Casserole](https://lifehacker.com/start-your-morning-right-with-a-bacon-egg-and-cheese-1850401069)
 - [Lifehacker] [10 Marvel Shows You Can Safely Watch With Your Kids](https://lifehacker.com/10-marvel-shows-you-can-safely-watch-with-your-kids-1850399274)
 - [Lifehacker] [Your Productivity Needs More Breaks](https://lifehacker.com/your-productivity-needs-more-breaks-1850400649)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Being &#39;Needy&#39; Can Actually Be Good for Your Relationship](https://lifehacker.com/how-being-needy-can-actually-be-good-for-your-relations-1850388084)
 - [Lifehacker] [Teenagers Can Work Out for Free All Summer at Planet Fitness](https://lifehacker.com/teenagers-can-work-out-for-free-all-summer-at-planet-fi-1850396367)
 - [Lifehacker] [20 Movies That Have Definitely Not Aged Well](https://lifehacker.com/20-movies-that-have-definitely-not-aged-well-1850320034)
-- [Lifehacker] [How to Cope With Misophonia](https://lifehacker.com/how-to-cope-with-misophonia-1850394815)
-- [Lifehacker] [You Should Plant a Moonlight Garden](https://lifehacker.com/you-should-plant-a-moonlight-garden-1850394213)
-- [Lifehacker] [How to Stop Being Lonely, According to the Surgeon General](https://lifehacker.com/how-to-stop-being-lonely-according-to-the-surgeon-gene-1850397013)
-- [Lifehacker] [You Should Air Fry Mushrooms Without Oil, Actually](https://lifehacker.com/you-should-air-fry-mushrooms-without-oil-actually-1850396585)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Cope With Misophonia](https://lifehacker.com/how-to-cope-with-misophonia-1850394815)<!-- TECH-POSTS:END -->
 
 ---
 
