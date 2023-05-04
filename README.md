@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Modules in NodeJS : ESM vs CommonJS](https://dev.to/tsensei/modules-in-nodejs-esm-vs-commonjs-285c)
+- [Dev.to/JS] [How to Deploy a Next.js 13 App to AWS with Amplify Hosting](https://dev.to/femi_dev/how-to-deploy-a-nextjs-13-app-to-aws-with-amplify-hosting-5327)
 - [Dev.to/JS] [How to Tackle Real-Life Software Development Challenges Effectively](https://dev.to/bilashcse/how-to-tackle-real-life-software-development-challenges-effectively-2c9l)
 - [Dev.to/JS] [Javascript Banana](https://dev.to/bilashcse/javascript-banana-k32)
 - [Dev.to/JS] [Importance of Design in React for Chatbot Development](https://dev.to/jessica020799/importance-of-design-in-react-for-chatbot-development-17m6)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Productivity Needs More Breaks](https://lifehacker.com/your-productivity-needs-more-breaks-1850400649)
 - [Lifehacker] [Kick Off Grilling Season With This Open-Faced Sausage Sandwich](https://lifehacker.com/kick-off-grilling-season-with-this-open-faced-sausage-s-1850400529)
 - [Lifehacker] [The Easiest Ways to Eat Cheap and Healthy on a Road Trip](https://lifehacker.com/the-easiest-ways-to-eat-cheap-and-healthy-on-a-road-tri-1850398769)
-- [Dev.to/JS] [A love story of Svelte and JSX 💖](https://dev.to/rajaniraiyn/a-love-story-of-svelte-and-jsx-13j)
 - [Lifehacker] [These Restaurants Are Giving Firefighters and Nurses Free Food This Week](https://lifehacker.com/these-restaurants-are-giving-firefighters-and-nurses-fr-1850399991)
-- [Dev.to/JS] [The Sorting Algorithms you need to know](https://dev.to/jliciagasilva/the-sorting-algorithms-you-need-to-know-kff)
 - [Lifehacker] [You Can&#39;t Trust Your Browser&#39;s &#39;Lock&#39; to Tell You a Website Is Safe](https://lifehacker.com/you-cant-trust-your-browsers-lock-to-tell-you-a-website-1850399780)
 - [Lifehacker] [Make a ‘Personal Podcast’ When You Study](https://lifehacker.com/make-a-personal-podcast-when-you-study-1850399310)
 - [Lifehacker] [The Best Chocolate Peanut Butter Pie Is Made With Tofu](https://lifehacker.com/the-best-chocolate-peanut-butter-pie-is-made-with-tofu-1850397451)
