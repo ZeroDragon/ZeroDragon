@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Make Waffled Chocolate Sandwiches](https://lifehacker.com/you-should-make-waffled-chocolate-sandwiches-1850401619)
+- [Dev.to/JS] [JavaScript for Accessibility: Building Inclusive Web Applications](https://dev.to/eckdev/javascript-for-accessibility-building-inclusive-web-applications-53oc)
+- [Dev.to/JS] [Error, Error Handling and Error Handling Technique](https://dev.to/chiedoxie/error-error-handling-and-error-handling-technique-4ge8)
+- [Lifehacker] [Creative Ways to Spend Just 15 Minutes Outside With Your Kids](https://lifehacker.com/creative-ways-to-spend-just-15-minutes-outside-with-you-1850400548)
+- [Dev.to/JS] [The Solid Choice: Exploring SolidJS for Your Next Web Development Project](https://dev.to/lexissolutions/the-solid-choice-exploring-solidjs-for-your-next-web-development-project-oo8)
+- [Dev.to/JS] [Coding for No-Coders: JavaScript Editing](https://dev.to/mikehtmlallthethings/coding-for-no-coders-javascript-editing-1mim)
 - [Lifehacker] [Start Your Morning Right With a Bacon, Egg, and Cheese Pancake Casserole](https://lifehacker.com/start-your-morning-right-with-a-bacon-egg-and-cheese-1850401069)
 - [Dev.to/JS] [Resolvendo problemas no hackerRank: Redução de Strings](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-reducao-de-strings-337n)
 - [Dev.to/JS] [slice&lpar;&rpar;](https://dev.to/merudra754/slice-52eg)
@@ -32,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ABOUT API COMPLETE INFORMATION](https://dev.to/madhusudhan/about-api-complete-information-4ecd)
 - [Dev.to/JS] [Tips to Use Constants File in TypeScript](https://dev.to/thinkeramir/tips-to-use-constants-file-in-typescript-27je)
 - [Dev.to/JS] [5 Repositories to Boost Your Knowledge](https://dev.to/surajondev/5-repositories-to-boost-your-knowledge-2787)
-- [Dev.to/JS] [Why NestJS should be the framework of choice if you want to build enterprise applications in NodeJS?](https://dev.to/muhammadzaidse/why-nestjs-should-be-the-framework-of-choice-if-you-want-to-build-enterprise-applications-in-nodejs-5947)
-- [Dev.to/JS] [isNaN&lpar;&rpar; vs Number.isNaN&lpar;&rpar;](https://dev.to/merudra754/isnan-vs-numberisnan-3e36)
-- [Dev.to/JS] [full stack training in Pune](https://dev.to/ishikadulhani/full-stack-training-in-pune-5h1p)
-- [Dev.to/JS] [How I Use Medusa to Create a Powerful Next.js E-commerce Store](https://dev.to/tyaga001/how-i-use-medusa-to-create-a-powerful-nextjs-e-commerce-store-4j2j)
 - [Lifehacker] [10 Marvel Shows You Can Safely Watch With Your Kids](https://lifehacker.com/10-marvel-shows-you-can-safely-watch-with-your-kids-1850399274)
 - [Lifehacker] [Your Productivity Needs More Breaks](https://lifehacker.com/your-productivity-needs-more-breaks-1850400649)
 - [Lifehacker] [Kick Off Grilling Season With This Open-Faced Sausage Sandwich](https://lifehacker.com/kick-off-grilling-season-with-this-open-faced-sausage-s-1850400529)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Coconut Milk and Coconut Cream &lpar;and All the Other Coconut Liquids&rpar;](https://lifehacker.com/the-difference-between-coconut-milk-and-coconut-cream-1850395238)
 - [Lifehacker] [Eleven Essential Knots Everyone Should Know How to Tie](https://lifehacker.com/eleven-essential-knots-everyone-should-know-how-to-tie-1850395678)
 - [Lifehacker] [‘Eat the Frog’ First Thing in the Morning](https://lifehacker.com/eat-the-frog-first-thing-in-the-morning-1850396305)
-- [Lifehacker] [Throw Away This Recalled All-Purpose Flour, FDA Says](https://lifehacker.com/throw-away-this-recalled-all-purpose-flour-fda-says-1850395671)
-- [Lifehacker] [Plant These Self-Sowing Flowers for a Low-Maintenance Garden](https://lifehacker.com/plant-these-self-sowing-flowers-for-a-low-maintenance-g-1850394073)
-- [Lifehacker] [Use the Pomodoro Method to Study More Efficiently](https://lifehacker.com/use-the-pomodoro-method-to-study-more-efficiently-1850395495)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Throw Away This Recalled All-Purpose Flour, FDA Says](https://lifehacker.com/throw-away-this-recalled-all-purpose-flour-fda-says-1850395671)<!-- TECH-POSTS:END -->
 
 ---
 
