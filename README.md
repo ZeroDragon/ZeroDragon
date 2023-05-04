@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don’t Lick the Spoon &lpar;Make Brownie Toast Instead&rpar;](https://lifehacker.com/don-t-lick-the-spoon-make-brownie-toast-instead-1850402105)
+- [Dev.to/JS] [Tested and Proven Ways to Solve “Error Code: ‘MODULE_NOT_FOUND, requireStack” Error](https://dev.to/ayodeji75/tested-and-proven-ways-to-solve-error-code-modulenotfound-requirestack-error-264j)
+- [Dev.to/JS] [Por que o React JS é uma tecnologia essencial para o desenvolvimento web moderno?](https://dev.to/welderfernandes/por-que-o-react-js-e-uma-tecnologia-essencial-para-o-desenvolvimento-web-moderno-2gh4)
+- [Lifehacker] [A Beginner&#39;s Guide to Buying a Weightlifting Belt](https://lifehacker.com/a-beginners-guide-to-buying-a-weightlifting-belt-1850401310)
+- [Dev.to/JS] [The Bubble Figure: Integrating Tensorflow.js With Three.js and Cannon-es to Create Interactive Art](https://dev.to/idosius/the-bubble-figure-integrating-tensorflowjs-with-threejs-and-cannon-es-to-create-interactive-art-b8e)
+- [Dev.to/JS] [Conditional Rendering and Rendering List in React](https://dev.to/debajit13/conditional-rendering-and-rendering-list-in-react-4886)
 - [Lifehacker] [You Should Make Waffled Chocolate Sandwiches](https://lifehacker.com/you-should-make-waffled-chocolate-sandwiches-1850401619)
 - [Dev.to/JS] [JavaScript for Accessibility: Building Inclusive Web Applications](https://dev.to/eckdev/javascript-for-accessibility-building-inclusive-web-applications-53oc)
 - [Dev.to/JS] [Error, Error Handling and Error Handling Technique](https://dev.to/chiedoxie/error-error-handling-and-error-handling-technique-4ge8)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [slice&lpar;&rpar;](https://dev.to/merudra754/slice-52eg)
 - [Dev.to/JS] [12 Easy and Useful JavaScript Snippets for Beginners.](https://dev.to/ryandsouza13/12-easy-and-useful-javascript-snippets-for-beginners-2n83)
 - [Dev.to/JS] [Best Programming Languages for Mobile App Development](https://dev.to/rahimmakha85054/best-programming-languages-for-mobile-app-development-48ak)
-- [Dev.to/JS] [Secure ReactJS Application on AWS](https://dev.to/mohammadfaisal/secure-reactjs-application-on-aws-ngf)
-- [Dev.to/JS] [ABOUT API COMPLETE INFORMATION](https://dev.to/madhusudhan/about-api-complete-information-4ecd)
-- [Dev.to/JS] [Tips to Use Constants File in TypeScript](https://dev.to/thinkeramir/tips-to-use-constants-file-in-typescript-27je)
-- [Dev.to/JS] [5 Repositories to Boost Your Knowledge](https://dev.to/surajondev/5-repositories-to-boost-your-knowledge-2787)
 - [Lifehacker] [10 Marvel Shows You Can Safely Watch With Your Kids](https://lifehacker.com/10-marvel-shows-you-can-safely-watch-with-your-kids-1850399274)
 - [Lifehacker] [Your Productivity Needs More Breaks](https://lifehacker.com/your-productivity-needs-more-breaks-1850400649)
 - [Lifehacker] [Kick Off Grilling Season With This Open-Faced Sausage Sandwich](https://lifehacker.com/kick-off-grilling-season-with-this-open-faced-sausage-s-1850400529)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Air Fry Mushrooms Without Oil, Actually](https://lifehacker.com/you-should-air-fry-mushrooms-without-oil-actually-1850396585)
 - [Lifehacker] [Apple Has a New Kind of Security Update](https://lifehacker.com/apple-has-a-new-kind-of-security-update-1850395826)
 - [Lifehacker] [The Difference Between Coconut Milk and Coconut Cream &lpar;and All the Other Coconut Liquids&rpar;](https://lifehacker.com/the-difference-between-coconut-milk-and-coconut-cream-1850395238)
-- [Lifehacker] [Eleven Essential Knots Everyone Should Know How to Tie](https://lifehacker.com/eleven-essential-knots-everyone-should-know-how-to-tie-1850395678)
-- [Lifehacker] [‘Eat the Frog’ First Thing in the Morning](https://lifehacker.com/eat-the-frog-first-thing-in-the-morning-1850396305)
-- [Lifehacker] [Throw Away This Recalled All-Purpose Flour, FDA Says](https://lifehacker.com/throw-away-this-recalled-all-purpose-flour-fda-says-1850395671)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Eleven Essential Knots Everyone Should Know How to Tie](https://lifehacker.com/eleven-essential-knots-everyone-should-know-how-to-tie-1850395678)<!-- TECH-POSTS:END -->
 
 ---
 
