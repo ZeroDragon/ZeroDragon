@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Tackle Real-Life Software Development Challenges Effectively](https://dev.to/bilashcse/how-to-tackle-real-life-software-development-challenges-effectively-2c9l)
+- [Dev.to/JS] [Javascript Banana](https://dev.to/bilashcse/javascript-banana-k32)
+- [Dev.to/JS] [Importance of Design in React for Chatbot Development](https://dev.to/jessica020799/importance-of-design-in-react-for-chatbot-development-17m6)
 - [Dev.to/JS] [10 Cool CodePen Demos &lpar;April 23&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-april-23-1p0m)
 - [Dev.to/JS] [React Testing Library &amp; Accessibility](https://dev.to/steady5063/react-testing-library-accessibility-4fom)
 - [Dev.to/JS] [HTTP ERROR 401 when running npm start](https://dev.to/memodiaz44/http-error-401-when-running-npm-start-c9e)
@@ -37,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A love story of Svelte and JSX 💖](https://dev.to/rajaniraiyn/a-love-story-of-svelte-and-jsx-13j)
 - [Lifehacker] [These Restaurants Are Giving Firefighters and Nurses Free Food This Week](https://lifehacker.com/these-restaurants-are-giving-firefighters-and-nurses-fr-1850399991)
 - [Dev.to/JS] [The Sorting Algorithms you need to know](https://dev.to/jliciagasilva/the-sorting-algorithms-you-need-to-know-kff)
-- [Dev.to/JS] [Moonly weekly progress update #47 - Testing Raffle Feature](https://dev.to/moonly/moonly-weekly-progress-update-47-testing-raffle-feature-1i81)
 - [Lifehacker] [You Can&#39;t Trust Your Browser&#39;s &#39;Lock&#39; to Tell You a Website Is Safe](https://lifehacker.com/you-cant-trust-your-browsers-lock-to-tell-you-a-website-1850399780)
 - [Lifehacker] [Make a ‘Personal Podcast’ When You Study](https://lifehacker.com/make-a-personal-podcast-when-you-study-1850399310)
-- [Dev.to/JS] [How can Owl Carousel improve the user experience of an eCommerce website?](https://dev.to/sammulla47/how-can-owl-carousel-improve-the-user-experience-of-an-ecommerce-website-40e6)
-- [Dev.to/JS] [Leetcode#42: Trapping Rain Water](https://dev.to/sharma74542/leetcode42-trapping-rain-water-81o)
 - [Lifehacker] [The Best Chocolate Peanut Butter Pie Is Made With Tofu](https://lifehacker.com/the-best-chocolate-peanut-butter-pie-is-made-with-tofu-1850397451)
 - [Lifehacker] [Your Pixel&#39;s Alarm Clock Has a Weird but Fatal Flaw](https://lifehacker.com/your-pixels-alarm-clock-has-a-weird-but-fatal-flaw-1850396832)
 - [Lifehacker] [You Can Clean Sticker Residue With Something Already in Your Cabinet](https://lifehacker.com/you-can-clean-sticker-residue-with-something-already-in-1850398091)
