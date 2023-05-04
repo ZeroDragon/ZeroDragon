@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You’re Probably Lifting Half As Much As You Should](https://lifehacker.com/you-re-probably-lifting-half-as-much-as-you-should-1850403997)
+- [Dev.to/JS] [create html , css and js - without code](https://dev.to/aieeeo/create-html-css-and-js-without-code-d8h)
+- [Lifehacker] [Passkeys Are the New Passwords](https://lifehacker.com/passkeys-are-the-new-passwords-1850402666)
+- [Dev.to/JS] [A importância dos testes automatizados desde o princípio](https://dev.to/fabriciolak/a-importancia-dos-testes-automatizados-desde-o-principio-35of)
+- [Dev.to/JS] [Gerenciamento de estado em React: Redux vs Context API](https://dev.to/jhonyaraujooficial/gerenciamento-de-estado-em-react-redux-vs-context-api-543e)
+- [Dev.to/JS] [What is Software Deployment and How to Do it?](https://dev.to/snehadigital/what-is-software-deployment-and-how-to-do-it-3hk9)
+- [Lifehacker] [What People Are Getting Wrong This Week: TikTok Challenges](https://lifehacker.com/what-people-are-getting-wrong-this-week-tiktok-challen-1850401970)
+- [Dev.to/JS] [How to Create an Auto-Resizing Textarea Input Element with JavaScript](https://dev.to/thatanjan/how-to-create-an-auto-resizing-textarea-input-element-with-javascript-4h4n)
 - [Lifehacker] [Don’t Lick the Spoon &lpar;Make Brownie Toast Instead&rpar;](https://lifehacker.com/don-t-lick-the-spoon-make-brownie-toast-instead-1850402105)
 - [Dev.to/JS] [Tested and Proven Ways to Solve “Error Code: ‘MODULE_NOT_FOUND, requireStack” Error](https://dev.to/ayodeji75/tested-and-proven-ways-to-solve-error-code-modulenotfound-requirestack-error-264j)
 - [Dev.to/JS] [Por que o React JS é uma tecnologia essencial para o desenvolvimento web moderno?](https://dev.to/welderfernandes/por-que-o-react-js-e-uma-tecnologia-essencial-para-o-desenvolvimento-web-moderno-2gh4)
@@ -34,12 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Error, Error Handling and Error Handling Technique](https://dev.to/chiedoxie/error-error-handling-and-error-handling-technique-4ge8)
 - [Lifehacker] [Creative Ways to Spend Just 15 Minutes Outside With Your Kids](https://lifehacker.com/creative-ways-to-spend-just-15-minutes-outside-with-you-1850400548)
 - [Dev.to/JS] [The Solid Choice: Exploring SolidJS for Your Next Web Development Project](https://dev.to/lexissolutions/the-solid-choice-exploring-solidjs-for-your-next-web-development-project-oo8)
-- [Dev.to/JS] [Coding for No-Coders: JavaScript Editing](https://dev.to/mikehtmlallthethings/coding-for-no-coders-javascript-editing-1mim)
 - [Lifehacker] [Start Your Morning Right With a Bacon, Egg, and Cheese Pancake Casserole](https://lifehacker.com/start-your-morning-right-with-a-bacon-egg-and-cheese-1850401069)
-- [Dev.to/JS] [Resolvendo problemas no hackerRank: Redução de Strings](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-reducao-de-strings-337n)
-- [Dev.to/JS] [slice&lpar;&rpar;](https://dev.to/merudra754/slice-52eg)
-- [Dev.to/JS] [12 Easy and Useful JavaScript Snippets for Beginners.](https://dev.to/ryandsouza13/12-easy-and-useful-javascript-snippets-for-beginners-2n83)
-- [Dev.to/JS] [Best Programming Languages for Mobile App Development](https://dev.to/rahimmakha85054/best-programming-languages-for-mobile-app-development-48ak)
 - [Lifehacker] [10 Marvel Shows You Can Safely Watch With Your Kids](https://lifehacker.com/10-marvel-shows-you-can-safely-watch-with-your-kids-1850399274)
 - [Lifehacker] [Your Productivity Needs More Breaks](https://lifehacker.com/your-productivity-needs-more-breaks-1850400649)
 - [Lifehacker] [Kick Off Grilling Season With This Open-Faced Sausage Sandwich](https://lifehacker.com/kick-off-grilling-season-with-this-open-faced-sausage-s-1850400529)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Cope With Misophonia](https://lifehacker.com/how-to-cope-with-misophonia-1850394815)
 - [Lifehacker] [You Should Plant a Moonlight Garden](https://lifehacker.com/you-should-plant-a-moonlight-garden-1850394213)
 - [Lifehacker] [How to Stop Being Lonely, According to the Surgeon General](https://lifehacker.com/how-to-stop-being-lonely-according-to-the-surgeon-gene-1850397013)
-- [Lifehacker] [You Should Air Fry Mushrooms Without Oil, Actually](https://lifehacker.com/you-should-air-fry-mushrooms-without-oil-actually-1850396585)
-- [Lifehacker] [Apple Has a New Kind of Security Update](https://lifehacker.com/apple-has-a-new-kind-of-security-update-1850395826)
-- [Lifehacker] [The Difference Between Coconut Milk and Coconut Cream &lpar;and All the Other Coconut Liquids&rpar;](https://lifehacker.com/the-difference-between-coconut-milk-and-coconut-cream-1850395238)
-- [Lifehacker] [Eleven Essential Knots Everyone Should Know How to Tie](https://lifehacker.com/eleven-essential-knots-everyone-should-know-how-to-tie-1850395678)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Air Fry Mushrooms Without Oil, Actually](https://lifehacker.com/you-should-air-fry-mushrooms-without-oil-actually-1850396585)<!-- TECH-POSTS:END -->
 
 ---
 
