@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HTTP ERROR 401 when running npm start](https://dev.to/memodiaz44/http-error-401-when-running-npm-start-c9e)
 - [Dev.to/JS] [Day 93 of #100DaysOfCode: Implementing Undo Button and Removing Matches](https://dev.to/arashjangali/day-93-of-100daysofcode-implementing-undo-button-and-removing-matches-563)
 - [Dev.to/JS] [React: How to Use the Star Wars API for Beginners](https://dev.to/michaellarocca/react-how-to-use-the-star-wars-api-for-beginners-2dl6)
 - [Dev.to/JS] [Don&#39;t use magic strings!](https://dev.to/josuews303/dont-use-magic-strings-2aol)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3.10 - WebContainers with Eric Simons](https://dev.to/codingcatdev/310-webcontainers-with-eric-simons-1a2c)
 - [Lifehacker] [The Best Chocolate Peanut Butter Pie Is Made With Tofu](https://lifehacker.com/the-best-chocolate-peanut-butter-pie-is-made-with-tofu-1850397451)
 - [Dev.to/JS] [Method js JavaScript core principles](https://dev.to/ebakecode/method-js-javascript-core-principles-18db)
-- [Dev.to/JS] [We&#39;re organizing a remote hackathon &lpar;with $5k in prizes&rpar;](https://dev.to/gadget/were-organizing-a-remote-hackathon-with-5k-in-prizes-1279)
 - [Lifehacker] [Your Pixel&#39;s Alarm Clock Has a Weird but Fatal Flaw](https://lifehacker.com/your-pixels-alarm-clock-has-a-weird-but-fatal-flaw-1850396832)
 - [Lifehacker] [You Can Clean Sticker Residue With Something Already in Your Cabinet](https://lifehacker.com/you-can-clean-sticker-residue-with-something-already-in-1850398091)
 - [Lifehacker] [Put Some Plantain Chips in Your PB&amp;J](https://lifehacker.com/put-some-plantain-chips-in-your-pb-j-1850396893)
