@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Generate API Documentation with Insomnia](https://dev.to/joselatines/how-to-generate-api-documentation-with-insomnia-18fg)
+- [Dev.to/JS] [Flask app not updating fetched data from database without restart](https://dev.to/mekkaouiredouane/flask-app-not-updating-fetched-data-from-database-without-restart-2ho7)
+- [Dev.to/JS] [Javascript Functions](https://dev.to/wisdomjackie/javascript-functions-jb3)
+- [Dev.to/JS] [How to Enhance Node.js Application Security](https://dev.to/folasayosamuel/how-to-enhance-nodejs-application-security-2kja)
 - [Dev.to/JS] [Format one object to another w/out duplicates](https://dev.to/benhultin/format-one-object-to-another-wout-duplicates-2nji)
 - [Lifehacker] [Five Things Scammers Are Hoping You Google](https://lifehacker.com/five-things-scammers-are-hoping-you-google-1850405964)
 - [Dev.to/JS] [useState: la caja de juguetes](https://dev.to/cadifilippo/usestate-la-caja-de-juguetes-256o)
@@ -37,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Native Way To Configure Path Aliases in Frontend Projects](https://dev.to/nodge/the-native-way-to-configure-path-aliases-in-frontend-projects-ce4)
 - [Dev.to/JS] [Playing with Fire: Serverless PWA with Firebase](https://dev.to/cfedev/playing-with-fire-serverless-pwa-with-firebase-2c53)
 - [Dev.to/JS] [JS Interview Question #4](https://dev.to/learndaily1/js-interview-question-4-134f)
-- [Dev.to/JS] [Async and Await in Vanilla JavaScript](https://dev.to/this-is-learning/async-and-await-in-vanilla-javascript-2mep)
-- [Dev.to/JS] [Node.js: Vantagens e opinião pessoal](https://dev.to/biassumcao/nodejs-vantagens-e-opiniao-pessoal-2318)
-- [Dev.to/JS] [Explore 7 life-saving JavaScript tips with ChaptGPT.](https://dev.to/hr21don/explore-7-life-saving-javascript-tips-with-chaptgpt-3h43)
 - [Lifehacker] [Save on Your Electric Bill by Creating a ‘Climate Zone’ at Home](https://lifehacker.com/save-on-your-electric-bill-by-creating-a-climate-zone-1850402193)
-- [Dev.to/JS] [Post Bootcamp excitment.](https://dev.to/bobbiehoch/post-bootcamp-excitment-4l4i)
 - [Lifehacker] [Use the Two Minute Rule to Stop Procrastinating](https://lifehacker.com/use-the-two-minute-rule-to-stop-procrastinating-1850404307)
 - [Lifehacker] [You Can Try Microsoft&#39;s New ChatGPT-Powered AI Search Right Now](https://lifehacker.com/how-to-try-microsofts-new-chatgpt-powered-ai-search-1850113463)
 - [Lifehacker] [These Battery-Powered Appliances Are Actually Worth It](https://lifehacker.com/these-battery-powered-appliances-are-actually-worth-it-1850404299)
