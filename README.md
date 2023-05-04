@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Interview Question #4](https://dev.to/learndaily1/js-interview-question-4-134f)
+- [Dev.to/JS] [Async and Await in Vanilla JavaScript](https://dev.to/this-is-learning/async-and-await-in-vanilla-javascript-2mep)
+- [Dev.to/JS] [Node.js: Vantagens e opinião pessoal](https://dev.to/biassumcao/nodejs-vantagens-e-opiniao-pessoal-2318)
+- [Dev.to/JS] [Explore 7 life-saving JavaScript tips with ChaptGPT.](https://dev.to/hr21don/explore-7-life-saving-javascript-tips-with-chaptgpt-3h43)
+- [Lifehacker] [Save on Your Electric Bill by Creating a ‘Climate Zone’ at Home](https://lifehacker.com/save-on-your-electric-bill-by-creating-a-climate-zone-1850402193)
+- [Dev.to/JS] [Post Bootcamp excitment.](https://dev.to/bobbiehoch/post-bootcamp-excitment-4l4i)
 - [Dev.to/JS] [Learning Solidity as a Javascript Developer](https://dev.to/mohammadfaisal/learning-solidity-as-a-javascript-developer-4cj4)
 - [Lifehacker] [Use the Two Minute Rule to Stop Procrastinating](https://lifehacker.com/use-the-two-minute-rule-to-stop-procrastinating-1850404307)
 - [Dev.to/JS] [FAILURE TO PUBLISH - WORDPRESS](https://dev.to/rafaelgcostaa/failure-to-publish-wordpress-54hn)
@@ -35,14 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Passkeys Are the New Passwords](https://lifehacker.com/passkeys-are-the-new-passwords-1850402666)
 - [Dev.to/JS] [A importância dos testes automatizados desde o princípio](https://dev.to/fabriciolak/a-importancia-dos-testes-automatizados-desde-o-principio-35of)
 - [Dev.to/JS] [Gerenciamento de estado em React: Redux vs Context API](https://dev.to/jhonyaraujooficial/gerenciamento-de-estado-em-react-redux-vs-context-api-543e)
-- [Dev.to/JS] [What is Software Deployment and How to Do it?](https://dev.to/snehadigital/what-is-software-deployment-and-how-to-do-it-3hk9)
 - [Lifehacker] [What People Are Getting Wrong This Week: TikTok Challenges](https://lifehacker.com/what-people-are-getting-wrong-this-week-tiktok-challen-1850401970)
-- [Dev.to/JS] [How to Create an Auto-Resizing Textarea Input Element with JavaScript](https://dev.to/thatanjan/how-to-create-an-auto-resizing-textarea-input-element-with-javascript-4h4n)
 - [Lifehacker] [Don’t Lick the Spoon &lpar;Make Brownie Toast Instead&rpar;](https://lifehacker.com/don-t-lick-the-spoon-make-brownie-toast-instead-1850402105)
-- [Dev.to/JS] [Tested and Proven Ways to Solve “Error Code: ‘MODULE_NOT_FOUND, requireStack” Error](https://dev.to/ayodeji75/tested-and-proven-ways-to-solve-error-code-modulenotfound-requirestack-error-264j)
-- [Dev.to/JS] [Por que o React JS é uma tecnologia essencial para o desenvolvimento web moderno?](https://dev.to/welderfernandes/por-que-o-react-js-e-uma-tecnologia-essencial-para-o-desenvolvimento-web-moderno-2gh4)
 - [Lifehacker] [A Beginner&#39;s Guide to Buying a Weightlifting Belt](https://lifehacker.com/a-beginners-guide-to-buying-a-weightlifting-belt-1850401310)
-- [Dev.to/JS] [The Bubble Figure: Integrating Tensorflow.js With Three.js and Cannon-es to Create Interactive Art](https://dev.to/idosius/the-bubble-figure-integrating-tensorflowjs-with-threejs-and-cannon-es-to-create-interactive-art-b8e)
 - [Lifehacker] [You Should Make Waffled Chocolate Sandwiches](https://lifehacker.com/you-should-make-waffled-chocolate-sandwiches-1850401619)
 - [Lifehacker] [Creative Ways to Spend Just 15 Minutes Outside With Your Kids](https://lifehacker.com/creative-ways-to-spend-just-15-minutes-outside-with-you-1850400548)
 - [Lifehacker] [Start Your Morning Right With a Bacon, Egg, and Cheese Pancake Casserole](https://lifehacker.com/start-your-morning-right-with-a-bacon-egg-and-cheese-1850401069)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Can an App Really Improve Your Mobility?](https://lifehacker.com/can-an-app-really-improve-your-mobility-1850392998)
 - [Lifehacker] [How Being &#39;Needy&#39; Can Actually Be Good for Your Relationship](https://lifehacker.com/how-being-needy-can-actually-be-good-for-your-relations-1850388084)
 - [Lifehacker] [Teenagers Can Work Out for Free All Summer at Planet Fitness](https://lifehacker.com/teenagers-can-work-out-for-free-all-summer-at-planet-fi-1850396367)
-- [Lifehacker] [20 Movies That Have Definitely Not Aged Well](https://lifehacker.com/20-movies-that-have-definitely-not-aged-well-1850320034)
-- [Lifehacker] [How to Cope With Misophonia](https://lifehacker.com/how-to-cope-with-misophonia-1850394815)<!-- TECH-POSTS:END -->
+- [Lifehacker] [20 Movies That Have Definitely Not Aged Well](https://lifehacker.com/20-movies-that-have-definitely-not-aged-well-1850320034)<!-- TECH-POSTS:END -->
 
 ---
 
