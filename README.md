@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Stop Wet Wipes From Sticking Together](https://lifehacker.com/the-easiest-way-to-stop-wet-wipes-from-sticking-togethe-1850404988)
+- [Lifehacker] [Your Sex Life Needs Regular Exercise](https://lifehacker.com/your-sex-life-needs-regular-exercise-1850401555)
+- [Dev.to/JS] [The Native Way To Configure Path Aliases in Frontend Projects](https://dev.to/nodge/the-native-way-to-configure-path-aliases-in-frontend-projects-ce4)
+- [Dev.to/JS] [Playing with Fire: Serverless PWA with Firebase](https://dev.to/cfedev/playing-with-fire-serverless-pwa-with-firebase-2c53)
 - [Dev.to/JS] [JS Interview Question #4](https://dev.to/learndaily1/js-interview-question-4-134f)
 - [Dev.to/JS] [Async and Await in Vanilla JavaScript](https://dev.to/this-is-learning/async-and-await-in-vanilla-javascript-2mep)
 - [Dev.to/JS] [Node.js: Vantagens e opinião pessoal](https://dev.to/biassumcao/nodejs-vantagens-e-opiniao-pessoal-2318)
@@ -36,11 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Backend to Frontend communication with Server-Sent Events](https://dev.to/cloudx/backend-to-frontend-communication-with-server-sent-events-56kf)
 - [Lifehacker] [You Can Try Microsoft&#39;s New ChatGPT-Powered AI Search Right Now](https://lifehacker.com/how-to-try-microsofts-new-chatgpt-powered-ai-search-1850113463)
 - [Lifehacker] [These Battery-Powered Appliances Are Actually Worth It](https://lifehacker.com/these-battery-powered-appliances-are-actually-worth-it-1850404299)
-- [Lifehacker] [You’re Probably Lifting Half As Much As You Should](https://lifehacker.com/you-re-probably-lifting-half-as-much-as-you-should-1850403997)
+- [Lifehacker] [You’re Probably Lifting a Lot Less Than You Could](https://lifehacker.com/you-re-probably-lifting-half-as-much-as-you-should-1850403997)
 - [Dev.to/JS] [create html , css and js - without code](https://dev.to/aieeeo/create-html-css-and-js-without-code-d8h)
 - [Lifehacker] [Passkeys Are the New Passwords](https://lifehacker.com/passkeys-are-the-new-passwords-1850402666)
-- [Dev.to/JS] [A importância dos testes automatizados desde o princípio](https://dev.to/fabriciolak/a-importancia-dos-testes-automatizados-desde-o-principio-35of)
-- [Dev.to/JS] [Gerenciamento de estado em React: Redux vs Context API](https://dev.to/jhonyaraujooficial/gerenciamento-de-estado-em-react-redux-vs-context-api-543e)
 - [Lifehacker] [What People Are Getting Wrong This Week: TikTok Challenges](https://lifehacker.com/what-people-are-getting-wrong-this-week-tiktok-challen-1850401970)
 - [Lifehacker] [Don’t Lick the Spoon &lpar;Make Brownie Toast Instead&rpar;](https://lifehacker.com/don-t-lick-the-spoon-make-brownie-toast-instead-1850402105)
 - [Lifehacker] [A Beginner&#39;s Guide to Buying a Weightlifting Belt](https://lifehacker.com/a-beginners-guide-to-buying-a-weightlifting-belt-1850401310)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Put Some Plantain Chips in Your PB&amp;J](https://lifehacker.com/put-some-plantain-chips-in-your-pb-j-1850396893)
 - [Lifehacker] [The Best Way to Open a Pack of Sausages](https://lifehacker.com/the-best-way-to-open-a-pack-of-sausages-1850397320)
 - [Lifehacker] [Can an App Really Improve Your Mobility?](https://lifehacker.com/can-an-app-really-improve-your-mobility-1850392998)
-- [Lifehacker] [How Being &#39;Needy&#39; Can Actually Be Good for Your Relationship](https://lifehacker.com/how-being-needy-can-actually-be-good-for-your-relations-1850388084)
-- [Lifehacker] [Teenagers Can Work Out for Free All Summer at Planet Fitness](https://lifehacker.com/teenagers-can-work-out-for-free-all-summer-at-planet-fi-1850396367)
-- [Lifehacker] [20 Movies That Have Definitely Not Aged Well](https://lifehacker.com/20-movies-that-have-definitely-not-aged-well-1850320034)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Being &#39;Needy&#39; Can Actually Be Good for Your Relationship](https://lifehacker.com/how-being-needy-can-actually-be-good-for-your-relations-1850388084)<!-- TECH-POSTS:END -->
 
 ---
 
