@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This App Makes Your Mac’s Keyboard Sound Vintage](https://lifehacker.com/this-app-makes-your-mac-s-keyboard-sound-vintage-1850402370)
+- [Dev.to/JS] [Higher-Order Functions in Javascript](https://dev.to/cathrynbmcdonald/higher-order-functions-in-javascript-5gbf)
+- [Lifehacker] [You Can Probably Get Reimbursed If Your Flight Price Drops](https://lifehacker.com/you-can-probably-get-reimbursed-if-your-flight-price-dr-1850405175)
 - [Lifehacker] [The Easiest Way to Stop Wet Wipes From Sticking Together](https://lifehacker.com/the-easiest-way-to-stop-wet-wipes-from-sticking-togethe-1850404988)
 - [Lifehacker] [Your Sex Life Needs Regular Exercise](https://lifehacker.com/your-sex-life-needs-regular-exercise-1850401555)
 - [Dev.to/JS] [The Native Way To Configure Path Aliases in Frontend Projects](https://dev.to/nodge/the-native-way-to-configure-path-aliases-in-frontend-projects-ce4)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Try Microsoft&#39;s New ChatGPT-Powered AI Search Right Now](https://lifehacker.com/how-to-try-microsofts-new-chatgpt-powered-ai-search-1850113463)
 - [Lifehacker] [These Battery-Powered Appliances Are Actually Worth It](https://lifehacker.com/these-battery-powered-appliances-are-actually-worth-it-1850404299)
 - [Lifehacker] [You’re Probably Lifting a Lot Less Than You Could](https://lifehacker.com/you-re-probably-lifting-half-as-much-as-you-should-1850403997)
-- [Dev.to/JS] [create html , css and js - without code](https://dev.to/aieeeo/create-html-css-and-js-without-code-d8h)
 - [Lifehacker] [Passkeys Are the New Passwords](https://lifehacker.com/passkeys-are-the-new-passwords-1850402666)
 - [Lifehacker] [What People Are Getting Wrong This Week: TikTok Challenges](https://lifehacker.com/what-people-are-getting-wrong-this-week-tiktok-challen-1850401970)
 - [Lifehacker] [Don’t Lick the Spoon &lpar;Make Brownie Toast Instead&rpar;](https://lifehacker.com/don-t-lick-the-spoon-make-brownie-toast-instead-1850402105)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Pixel&#39;s Alarm Clock Has a Weird but Fatal Flaw](https://lifehacker.com/your-pixels-alarm-clock-has-a-weird-but-fatal-flaw-1850396832)
 - [Lifehacker] [You Can Clean Sticker Residue With Something Already in Your Cabinet](https://lifehacker.com/you-can-clean-sticker-residue-with-something-already-in-1850398091)
 - [Lifehacker] [Put Some Plantain Chips in Your PB&amp;J](https://lifehacker.com/put-some-plantain-chips-in-your-pb-j-1850396893)
-- [Lifehacker] [The Best Way to Open a Pack of Sausages](https://lifehacker.com/the-best-way-to-open-a-pack-of-sausages-1850397320)
-- [Lifehacker] [Can an App Really Improve Your Mobility?](https://lifehacker.com/can-an-app-really-improve-your-mobility-1850392998)
-- [Lifehacker] [How Being &#39;Needy&#39; Can Actually Be Good for Your Relationship](https://lifehacker.com/how-being-needy-can-actually-be-good-for-your-relations-1850388084)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Open a Pack of Sausages](https://lifehacker.com/the-best-way-to-open-a-pack-of-sausages-1850397320)<!-- TECH-POSTS:END -->
 
 ---
 
