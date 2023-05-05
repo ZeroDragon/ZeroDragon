@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Conquering the Villains: A Journey of Setting Up Node.js with Express and TypeScript](https://dev.to/_blank/conquering-the-villains-a-journey-of-setting-up-nodejs-with-express-and-typescript-36ck)
+- [Dev.to/JS] [Unlock the Secrets of Web Development: The Ultimate Guide for Beginners](https://dev.to/officialbube/unlock-the-secrets-of-web-development-the-ultimate-guide-for-beginners-59a7)
 - [Dev.to/JS] [Importing Data from Another File in JavaScript: With Examples](https://dev.to/azam4code/importing-data-from-another-file-in-javascript-with-examples-405l)
 - [Dev.to/JS] [Inside the Javascript Variable | Part - 1 &lpar;Beginner thinking&rpar;](https://dev.to/robiulhr/inside-the-javascript-variable-part-1-beginner-thinking-3hnm)
 - [Dev.to/JS] [How to effectively use the Fetch API in JavaScript](https://dev.to/mataoseeker/how-to-effectively-use-the-fetch-api-in-javascript-4lb4)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Primeiros passos com astro](https://dev.to/palast/primeiros-passos-com-astro-2cgj)
 - [Dev.to/JS] [Introducing CoreIDE- The full stack IDE](https://dev.to/se-saurav/introducing-coreide-the-full-stack-ide-5gn6)
 - [Dev.to/JS] [How to add hotlink protection to your web fonts with Netlify Edge Functions and Deno](https://dev.to/notsidney/how-to-add-hotlink-protection-to-your-web-fonts-with-netlify-edge-functions-and-deno-1jj6)
-- [Dev.to/JS] [React State Management for Beginners](https://dev.to/snowlabs/react-state-management-for-beginners-14b5)
-- [Dev.to/JS] [Implementing the Swipe Card Undo Functionality: My Thought Process](https://dev.to/arashjangali/implementing-the-swipe-card-undo-functionality-my-thought-process-41o5)
 - [Lifehacker] [Five Things Scammers Are Hoping You Google](https://lifehacker.com/five-things-scammers-are-hoping-you-google-1850405964)
 - [Lifehacker] [How to Snack, Italian Style](https://lifehacker.com/how-to-snack-italian-style-1850405140)
 - [Lifehacker] [This App Makes Your Mac’s Keyboard Sound Vintage](https://lifehacker.com/this-app-makes-your-mac-s-keyboard-sound-vintage-1850402370)
