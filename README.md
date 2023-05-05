@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I wanted to improve React](https://dev.to/isumix/i-wanted-to-improve-react-1ihm)
+- [Dev.to/JS] [Setup a latest Next.js project with Typescript, Tailwind CSS and Storybook 2023](https://dev.to/anikrauth/setup-a-latest-nextjs-project-with-typescript-tailwind-css-and-storybook-2023-1gn6)
 - [Dev.to/JS] [Cortexi – &lpar;Legit or Scam&rpar; Benefits, Results, Reviews, Uses &amp; Price?](https://dev.to/cortexifac81795/cortexi-legit-or-scam-benefits-results-reviews-uses-price-1b2e)
 - [Dev.to/JS] [Managing Dates, Times and Time Zone Using Moment.js](https://dev.to/singhvishal802/managing-dates-times-and-time-zone-using-momentjs-1h3b)
 - [Dev.to/JS] [Conquering the Villains: A Journey of Setting Up Node.js with Express and TypeScript](https://dev.to/_blank/conquering-the-villains-a-journey-of-setting-up-nodejs-with-express-and-typescript-36ck)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array method .reduce&lpar;&rpar;](https://dev.to/bouquet/array-method-reduce-cmp)
 - [Dev.to/JS] [The Purrfect Loop: Understanding JavaScript&#39;s Event Loop and Call Stack with Cats 🐾](https://dev.to/davidchedrick/the-purrfect-loop-understanding-javascripts-event-loop-and-call-stack-with-cats-4l9a)
 - [Dev.to/JS] [The Correct Way to Use Stores in SvelteKit](https://dev.to/jdgamble555/the-correct-way-to-use-stores-in-sveltekit-3h6i)
-- [Dev.to/JS] [JavaScript: What exactly is Hoisting?](https://dev.to/sleekcodes/what-exactly-is-hoisting-3e8g)
-- [Dev.to/JS] [Primeiros passos com astro](https://dev.to/palast/primeiros-passos-com-astro-2cgj)
 - [Lifehacker] [Five Things Scammers Are Hoping You Google](https://lifehacker.com/five-things-scammers-are-hoping-you-google-1850405964)
 - [Lifehacker] [How to Snack, Italian Style](https://lifehacker.com/how-to-snack-italian-style-1850405140)
 - [Lifehacker] [This App Makes Your Mac’s Keyboard Sound Vintage](https://lifehacker.com/this-app-makes-your-mac-s-keyboard-sound-vintage-1850402370)
