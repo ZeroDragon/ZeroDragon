@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Is Tubi Secretly the Best Streaming Service?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-tubi-1850406662)
+- [Lifehacker] [These Tools Can Tell You If Buying a Car Is Actually Cheaper Than Uber](https://lifehacker.com/these-tools-can-tell-you-if-buying-a-car-is-actually-ch-1850406542)
+- [Lifehacker] [How to Attract Ground-Dwelling Bees to Your Garden &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-attract-ground-dwelling-bees-to-your-garden-and-1850407487)
 - [Dev.to/JS] [React story: useRef vs useState](https://dev.to/shishsingh/react-story-useref-vs-usestate-3a6n)
 - [Lifehacker] [How Traveling Solo Is Actually Good for Your Relationship](https://lifehacker.com/how-traveling-solo-is-actually-good-for-your-relationsh-1850406051)
 - [Dev.to/JS] [The Hidden Impact of CSS Order in Web Development](https://dev.to/ic3dragon/the-hidden-impact-of-css-order-in-web-development-54jj)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make Waffled Chocolate Sandwiches](https://lifehacker.com/you-should-make-waffled-chocolate-sandwiches-1850401619)
 - [Lifehacker] [Creative Ways to Spend Just 15 Minutes Outside With Your Kids](https://lifehacker.com/creative-ways-to-spend-just-15-minutes-outside-with-you-1850400548)
 - [Lifehacker] [Start Your Morning Right With a Bacon, Egg, and Cheese Pancake Casserole](https://lifehacker.com/start-your-morning-right-with-a-bacon-egg-and-cheese-1850401069)
-- [Lifehacker] [10 Marvel Shows You Can Safely Watch With Your Kids](https://lifehacker.com/10-marvel-shows-you-can-safely-watch-with-your-kids-1850399274)
-- [Lifehacker] [Your Productivity Needs More Breaks](https://lifehacker.com/your-productivity-needs-more-breaks-1850400649)
-- [Lifehacker] [Kick Off Grilling Season With This Open-Faced Sausage Sandwich](https://lifehacker.com/kick-off-grilling-season-with-this-open-faced-sausage-s-1850400529)
-- [Lifehacker] [The Easiest Ways to Eat Cheap and Healthy on a Road Trip](https://lifehacker.com/the-easiest-ways-to-eat-cheap-and-healthy-on-a-road-tri-1850398769)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Marvel Shows You Can Safely Watch With Your Kids](https://lifehacker.com/10-marvel-shows-you-can-safely-watch-with-your-kids-1850399274)<!-- TECH-POSTS:END -->
 
 ---
 
