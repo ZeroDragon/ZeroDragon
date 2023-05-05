@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React State Management for Beginners](https://dev.to/snowlabs/react-state-management-for-beginners-14b5)
+- [Dev.to/JS] [Implementing the Swipe Card Undo Functionality: My Thought Process](https://dev.to/arashjangali/implementing-the-swipe-card-undo-functionality-my-thought-process-41o5)
 - [Dev.to/JS] [How to Generate API Documentation with Insomnia](https://dev.to/joselatines/how-to-generate-api-documentation-with-insomnia-18fg)
 - [Dev.to/JS] [Flask app not updating fetched data from database without restart](https://dev.to/mekkaouiredouane/flask-app-not-updating-fetched-data-from-database-without-restart-2ho7)
 - [Dev.to/JS] [Javascript Functions](https://dev.to/wisdomjackie/javascript-functions-jb3)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Stop Wet Wipes From Sticking Together](https://lifehacker.com/the-easiest-way-to-stop-wet-wipes-from-sticking-togethe-1850404988)
 - [Lifehacker] [Your Sex Life Needs Regular Exercise](https://lifehacker.com/your-sex-life-needs-regular-exercise-1850401555)
 - [Dev.to/JS] [The Native Way To Configure Path Aliases in Frontend Projects](https://dev.to/nodge/the-native-way-to-configure-path-aliases-in-frontend-projects-ce4)
-- [Dev.to/JS] [Playing with Fire: Serverless PWA with Firebase](https://dev.to/cfedev/playing-with-fire-serverless-pwa-with-firebase-2c53)
-- [Dev.to/JS] [JS Interview Question #4](https://dev.to/learndaily1/js-interview-question-4-134f)
 - [Lifehacker] [Save on Your Electric Bill by Creating a ‘Climate Zone’ at Home](https://lifehacker.com/save-on-your-electric-bill-by-creating-a-climate-zone-1850402193)
 - [Lifehacker] [Use the Two Minute Rule to Stop Procrastinating](https://lifehacker.com/use-the-two-minute-rule-to-stop-procrastinating-1850404307)
 - [Lifehacker] [You Can Try Microsoft&#39;s New ChatGPT-Powered AI Search Right Now](https://lifehacker.com/how-to-try-microsofts-new-chatgpt-powered-ai-search-1850113463)
