@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Programmatically Extract Signatures from PDF Using a JavaScript Viewer](https://dev.to/grapecity/programmatically-extract-signatures-from-pdf-using-a-javascript-viewer-43ce)
+- [Lifehacker] [This App Can ID Any Bird In Your Neighborhood by Sight or Sound](https://lifehacker.com/this-app-can-id-any-bird-in-your-neighborhood-by-sight-1850409631)
+- [Lifehacker] [&#39;Swedish Death Cleaning&#39; Can Improve Your Life Right Now](https://lifehacker.com/swedish-death-cleaning-can-improve-your-life-right-now-1850409420)
 - [Dev.to/JS] [The Struggles of Becoming a Self Thaught Developer](https://dev.to/kristof1345/the-struggles-of-becoming-a-self-thaught-developer-4njo)
 - [Dev.to/JS] [Build a Loan Calculator with Form Controls in a JavaScript Spreadsheet](https://dev.to/grapecity/build-a-loan-calculator-with-form-controls-in-a-javascript-spreadsheet-340p)
 - [Dev.to/JS] [Lexical vs. In-Memory Scope in JavaScript](https://dev.to/gabetronic/lexical-vs-in-memory-scope-in-javascript-1245)
@@ -44,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Traveling Solo Is Actually Good for Your Relationship](https://lifehacker.com/how-traveling-solo-is-actually-good-for-your-relationsh-1850406051)
 - [Dev.to/JS] [The Hidden Impact of CSS Order in Web Development](https://dev.to/ic3dragon/the-hidden-impact-of-css-order-in-web-development-54jj)
 - [Lifehacker] [How to Ask Someone to Be Your Mentor](https://lifehacker.com/how-to-ask-someone-to-be-your-mentor-1850407986)
-- [Dev.to/JS] [Deep Dive Into the useReducer&lpar;&rpar; hook](https://dev.to/debajit13/deep-dive-into-the-usereducer-hook-1kom)
 - [Lifehacker] [Start Your Day the Brazilian Way, With a Cake](https://lifehacker.com/start-your-day-the-brazilian-way-with-a-cake-1850406333)
 - [Lifehacker] [Your Kitchen Needs a Little Fan](https://lifehacker.com/your-kitchen-needs-a-little-fan-1850406218)
 - [Lifehacker] [You Should Keep a House Diary](https://lifehacker.com/you-should-keep-a-house-diary-1850402253)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Try Microsoft&#39;s New ChatGPT-Powered AI Search Right Now](https://lifehacker.com/how-to-try-microsofts-new-chatgpt-powered-ai-search-1850113463)
 - [Lifehacker] [These Battery-Powered Appliances Are Actually Worth It](https://lifehacker.com/these-battery-powered-appliances-are-actually-worth-it-1850404299)
 - [Lifehacker] [You’re Probably Lifting a Lot Less Than You Could](https://lifehacker.com/you-re-probably-lifting-half-as-much-as-you-should-1850403997)
-- [Lifehacker] [Passkeys Are the New Passwords](https://lifehacker.com/passkeys-are-the-new-passwords-1850402666)
-- [Lifehacker] [What People Are Getting Wrong This Week: TikTok Challenges](https://lifehacker.com/what-people-are-getting-wrong-this-week-tiktok-challen-1850401970)
-- [Lifehacker] [Don’t Lick the Spoon &lpar;Make Brownie Toast Instead&rpar;](https://lifehacker.com/don-t-lick-the-spoon-make-brownie-toast-instead-1850402105)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Passkeys Are the New Passwords](https://lifehacker.com/passkeys-are-the-new-passwords-1850402666)<!-- TECH-POSTS:END -->
 
 ---
 
