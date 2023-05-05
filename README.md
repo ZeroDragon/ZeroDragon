@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Functional Programming in Javascript](https://dev.to/titre123/functional-programming-in-javascript-67m)
+- [Dev.to/JS] [A Beginner&#39;s Guide to Regular Expressions Methods: Simplifying Syntax and Usage](https://dev.to/jnmedina32/a-beginners-guide-to-regular-expressions-methods-simplifying-syntax-and-usage-1jhl)
 - [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-you-can-get-right-now-1850409952)
 - [Dev.to/JS] [Programmatically Extract Signatures from PDF Using a JavaScript Viewer](https://dev.to/grapecity/programmatically-extract-signatures-from-pdf-using-a-javascript-viewer-43ce)
 - [Lifehacker] [This App Can ID Any Bird In Your Neighborhood by Sight or Sound](https://lifehacker.com/this-app-can-id-any-bird-in-your-neighborhood-by-sight-1850409631)
@@ -44,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Is Tubi Secretly the Best Streaming Service?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-tubi-1850406662)
 - [Lifehacker] [These Tools Can Tell You If Buying a Car Is Actually Cheaper Than Uber](https://lifehacker.com/these-tools-can-tell-you-if-buying-a-car-is-actually-ch-1850406542)
 - [Lifehacker] [How to Attract Ground-Dwelling Bees to Your Garden &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-attract-ground-dwelling-bees-to-your-garden-and-1850407487)
-- [Dev.to/JS] [React story: useRef vs useState](https://dev.to/shishsingh/react-story-useref-vs-usestate-3a6n)
 - [Lifehacker] [How Traveling Solo Is Actually Good for Your Relationship](https://lifehacker.com/how-traveling-solo-is-actually-good-for-your-relationsh-1850406051)
-- [Dev.to/JS] [The Hidden Impact of CSS Order in Web Development](https://dev.to/ic3dragon/the-hidden-impact-of-css-order-in-web-development-54jj)
 - [Lifehacker] [How to Ask Someone to Be Your Mentor](https://lifehacker.com/how-to-ask-someone-to-be-your-mentor-1850407986)
 - [Lifehacker] [Start Your Day the Brazilian Way, With a Cake](https://lifehacker.com/start-your-day-the-brazilian-way-with-a-cake-1850406333)
 - [Lifehacker] [Your Kitchen Needs a Little Fan](https://lifehacker.com/your-kitchen-needs-a-little-fan-1850406218)
