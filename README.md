@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Struggles of Becoming a Self Thaught Developer](https://dev.to/kristof1345/the-struggles-of-becoming-a-self-thaught-developer-4njo)
+- [Dev.to/JS] [Build a Loan Calculator with Form Controls in a JavaScript Spreadsheet](https://dev.to/grapecity/build-a-loan-calculator-with-form-controls-in-a-javascript-spreadsheet-340p)
+- [Dev.to/JS] [Lexical vs. In-Memory Scope in JavaScript](https://dev.to/gabetronic/lexical-vs-in-memory-scope-in-javascript-1245)
+- [Lifehacker] [Family Dollar Is Recalling These Advil Products, FDA Says](https://lifehacker.com/family-dollar-is-recalling-these-advil-products-fda-sa-1850409577)
 - [Lifehacker] [Make This Easy, Creamy Four-Ingredient Lemon Dessert](https://lifehacker.com/make-this-easy-creamy-four-ingredient-lemon-dessert-1850409568)
 - [Lifehacker] [The Biggest Home Improvement Rebates You Can Get From the Government](https://lifehacker.com/the-biggest-home-improvement-rebates-you-can-get-from-t-1850407564)
 - [Dev.to/JS] [Stacked Bar Chart using a JSON Data Source, Plain Vanilla Javascript, Plain CSS and no chart libraries](https://dev.to/rickdelpo1/stacked-bar-chart-using-a-json-data-source-plain-vanilla-javascript-plain-css-and-no-chart-libraries-2j29)
@@ -42,9 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Ask Someone to Be Your Mentor](https://lifehacker.com/how-to-ask-someone-to-be-your-mentor-1850407986)
 - [Dev.to/JS] [Deep Dive Into the useReducer&lpar;&rpar; hook](https://dev.to/debajit13/deep-dive-into-the-usereducer-hook-1kom)
 - [Lifehacker] [Start Your Day the Brazilian Way, With a Cake](https://lifehacker.com/start-your-day-the-brazilian-way-with-a-cake-1850406333)
-- [Dev.to/JS] [Custom Snippet do Styled Components no VSCode](https://dev.to/andpeicunha/custom-snippet-do-styled-components-no-vscode-135n)
-- [Dev.to/JS] [Project](https://dev.to/diasce23/project-59bm)
-- [Dev.to/JS] [Higher Order Components in React: Examples with Common Use-case Patterns](https://dev.to/alakkadshaw/higher-order-components-in-react-examples-with-common-use-case-patterns-37n1)
 - [Lifehacker] [Your Kitchen Needs a Little Fan](https://lifehacker.com/your-kitchen-needs-a-little-fan-1850406218)
 - [Lifehacker] [You Should Keep a House Diary](https://lifehacker.com/you-should-keep-a-house-diary-1850402253)
 - [Lifehacker] [10 of the Best Corporate Biopics Ever](https://lifehacker.com/10-of-the-best-corporate-biopics-ever-1850389811)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You’re Probably Lifting a Lot Less Than You Could](https://lifehacker.com/you-re-probably-lifting-half-as-much-as-you-should-1850403997)
 - [Lifehacker] [Passkeys Are the New Passwords](https://lifehacker.com/passkeys-are-the-new-passwords-1850402666)
 - [Lifehacker] [What People Are Getting Wrong This Week: TikTok Challenges](https://lifehacker.com/what-people-are-getting-wrong-this-week-tiktok-challen-1850401970)
-- [Lifehacker] [Don’t Lick the Spoon &lpar;Make Brownie Toast Instead&rpar;](https://lifehacker.com/don-t-lick-the-spoon-make-brownie-toast-instead-1850402105)
-- [Lifehacker] [A Beginner&#39;s Guide to Buying a Weightlifting Belt](https://lifehacker.com/a-beginners-guide-to-buying-a-weightlifting-belt-1850401310)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Lick the Spoon &lpar;Make Brownie Toast Instead&rpar;](https://lifehacker.com/don-t-lick-the-spoon-make-brownie-toast-instead-1850402105)<!-- TECH-POSTS:END -->
 
 ---
 
