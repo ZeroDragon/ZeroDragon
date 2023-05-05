@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-you-can-get-right-now-1850409952)
 - [Dev.to/JS] [Programmatically Extract Signatures from PDF Using a JavaScript Viewer](https://dev.to/grapecity/programmatically-extract-signatures-from-pdf-using-a-javascript-viewer-43ce)
 - [Lifehacker] [This App Can ID Any Bird In Your Neighborhood by Sight or Sound](https://lifehacker.com/this-app-can-id-any-bird-in-your-neighborhood-by-sight-1850409631)
 - [Lifehacker] [&#39;Swedish Death Cleaning&#39; Can Improve Your Life Right Now](https://lifehacker.com/swedish-death-cleaning-can-improve-your-life-right-now-1850409420)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the Two Minute Rule to Stop Procrastinating](https://lifehacker.com/use-the-two-minute-rule-to-stop-procrastinating-1850404307)
 - [Lifehacker] [You Can Try Microsoft&#39;s New ChatGPT-Powered AI Search Right Now](https://lifehacker.com/how-to-try-microsofts-new-chatgpt-powered-ai-search-1850113463)
 - [Lifehacker] [These Battery-Powered Appliances Are Actually Worth It](https://lifehacker.com/these-battery-powered-appliances-are-actually-worth-it-1850404299)
-- [Lifehacker] [You’re Probably Lifting a Lot Less Than You Could](https://lifehacker.com/you-re-probably-lifting-half-as-much-as-you-should-1850403997)
-- [Lifehacker] [Passkeys Are the New Passwords](https://lifehacker.com/passkeys-are-the-new-passwords-1850402666)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You’re Probably Lifting a Lot Less Than You Could](https://lifehacker.com/you-re-probably-lifting-half-as-much-as-you-should-1850403997)<!-- TECH-POSTS:END -->
 
 ---
 
