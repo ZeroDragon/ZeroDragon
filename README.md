@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Effortlessly Nuxt navigation: Crafting Dynamic breadcrumbs with Storefront UI](https://dev.to/mayashavin/effortlessly-nuxt-navigation-crafting-dynamic-breadcrumbs-with-storefront-ui-2p32)
+- [Dev.to/JS] [tes](https://dev.to/ilhamabi66/tes-23e6)
 - [Dev.to/JS] [6 best animation libraries for your next project](https://dev.to/ishratumar/6-best-animation-libraries-for-your-next-project-504e)
 - [Dev.to/JS] [How to find the shortest string in an array in JavaScript](https://dev.to/favycodez/how-to-find-the-shortest-string-in-an-array-in-javascript-20ba)
 - [Dev.to/JS] [How to create an image gallery using Tailwind CSS](https://dev.to/ishratumar/how-to-create-an-image-gallery-using-tailwind-css-20ma)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Do you really know what Typescript is](https://dev.to/kalashin1/do-you-really-know-what-typescript-is-35k4)
 - [Dev.to/JS] [Learn React Js: Step By Step Guide](https://dev.to/priteshbhoi/learn-react-js-step-by-step-guide-mj)
 - [Dev.to/JS] [May the Forms be with You: A Jedi&#39;s Guide to onBlur, onChange, and onTouched](https://dev.to/eelcoverbrugge/may-the-forms-be-with-you-a-jedis-guide-to-onblur-onchange-and-ontouched-7d6)
-- [Dev.to/JS] [Apache Kafka: An Event-Driven Approach for Microservices Communication](https://dev.to/mayur1106/apache-kafka-an-event-driven-approach-for-microservices-communication-5ff8)
-- [Dev.to/JS] [How to connect Apache Kafka using Node Js](https://dev.to/mayur1106/how-to-connect-apache-kafka-using-node-js-32na)
 - [Lifehacker] [Five Things Scammers Are Hoping You Google](https://lifehacker.com/five-things-scammers-are-hoping-you-google-1850405964)
 - [Lifehacker] [How to Snack, Italian Style](https://lifehacker.com/how-to-snack-italian-style-1850405140)
 - [Lifehacker] [This App Makes Your Mac’s Keyboard Sound Vintage](https://lifehacker.com/this-app-makes-your-mac-s-keyboard-sound-vintage-1850402370)
