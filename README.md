@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cortexi – &lpar;Legit or Scam&rpar; Benefits, Results, Reviews, Uses &amp; Price?](https://dev.to/cortexifac81795/cortexi-legit-or-scam-benefits-results-reviews-uses-price-1b2e)
+- [Dev.to/JS] [Managing Dates, Times and Time Zone Using Moment.js](https://dev.to/singhvishal802/managing-dates-times-and-time-zone-using-momentjs-1h3b)
 - [Dev.to/JS] [Conquering the Villains: A Journey of Setting Up Node.js with Express and TypeScript](https://dev.to/_blank/conquering-the-villains-a-journey-of-setting-up-nodejs-with-express-and-typescript-36ck)
 - [Dev.to/JS] [Unlock the Secrets of Web Development: The Ultimate Guide for Beginners](https://dev.to/officialbube/unlock-the-secrets-of-web-development-the-ultimate-guide-for-beginners-59a7)
 - [Dev.to/JS] [Importing Data from Another File in JavaScript: With Examples](https://dev.to/azam4code/importing-data-from-another-file-in-javascript-with-examples-405l)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Correct Way to Use Stores in SvelteKit](https://dev.to/jdgamble555/the-correct-way-to-use-stores-in-sveltekit-3h6i)
 - [Dev.to/JS] [JavaScript: What exactly is Hoisting?](https://dev.to/sleekcodes/what-exactly-is-hoisting-3e8g)
 - [Dev.to/JS] [Primeiros passos com astro](https://dev.to/palast/primeiros-passos-com-astro-2cgj)
-- [Dev.to/JS] [Introducing CoreIDE- The full stack IDE](https://dev.to/se-saurav/introducing-coreide-the-full-stack-ide-5gn6)
-- [Dev.to/JS] [How to add hotlink protection to your web fonts with Netlify Edge Functions and Deno](https://dev.to/notsidney/how-to-add-hotlink-protection-to-your-web-fonts-with-netlify-edge-functions-and-deno-1jj6)
 - [Lifehacker] [Five Things Scammers Are Hoping You Google](https://lifehacker.com/five-things-scammers-are-hoping-you-google-1850405964)
 - [Lifehacker] [How to Snack, Italian Style](https://lifehacker.com/how-to-snack-italian-style-1850405140)
 - [Lifehacker] [This App Makes Your Mac’s Keyboard Sound Vintage](https://lifehacker.com/this-app-makes-your-mac-s-keyboard-sound-vintage-1850402370)
