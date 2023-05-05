@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Purrfect Loop: Understanding JavaScript&#39;s Event Loop and Call Stack with Cats 🐾](https://dev.to/davidchedrick/the-purrfect-loop-understanding-javascripts-event-loop-and-call-stack-with-cats-4l9a)
 - [Dev.to/JS] [The Correct Way to Use Stores in SvelteKit](https://dev.to/jdgamble555/the-correct-way-to-use-stores-in-sveltekit-3h6i)
 - [Dev.to/JS] [JavaScript: What exactly is Hoisting?](https://dev.to/sleekcodes/what-exactly-is-hoisting-3e8g)
 - [Dev.to/JS] [Primeiros passos com astro](https://dev.to/palast/primeiros-passos-com-astro-2cgj)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Flask app not updating fetched data from database without restart](https://dev.to/mekkaouiredouane/flask-app-not-updating-fetched-data-from-database-without-restart-2ho7)
 - [Dev.to/JS] [Javascript Functions](https://dev.to/wisdomjackie/javascript-functions-jb3)
 - [Dev.to/JS] [How to Enhance Node.js Application Security](https://dev.to/folasayosamuel/how-to-enhance-nodejs-application-security-2kja)
-- [Dev.to/JS] [Format one object to another w/out duplicates](https://dev.to/benhultin/format-one-object-to-another-wout-duplicates-2nji)
 - [Lifehacker] [Five Things Scammers Are Hoping You Google](https://lifehacker.com/five-things-scammers-are-hoping-you-google-1850405964)
 - [Lifehacker] [How to Snack, Italian Style](https://lifehacker.com/how-to-snack-italian-style-1850405140)
 - [Lifehacker] [This App Makes Your Mac’s Keyboard Sound Vintage](https://lifehacker.com/this-app-makes-your-mac-s-keyboard-sound-vintage-1850402370)
