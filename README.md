@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deep Dive Into the useReducer&lpar;&rpar; hook](https://dev.to/debajit13/deep-dive-into-the-usereducer-hook-1kom)
+- [Lifehacker] [Start Your Day the Brazilian Way, With a Cake](https://lifehacker.com/start-your-day-the-brazilian-way-with-a-cake-1850406333)
+- [Dev.to/JS] [Custom Snippet do Styled Components no VSCode](https://dev.to/andpeicunha/custom-snippet-do-styled-components-no-vscode-135n)
+- [Dev.to/JS] [Project](https://dev.to/diasce23/project-59bm)
+- [Dev.to/JS] [Higher Order Components in React: Examples with Common Use-case Patterns](https://dev.to/alakkadshaw/higher-order-components-in-react-examples-with-common-use-case-patterns-37n1)
+- [Lifehacker] [Your Kitchen Needs a Little Fan](https://lifehacker.com/your-kitchen-needs-a-little-fan-1850406218)
 - [Dev.to/JS] [MongoDB Relationships&lpar;one-to-one&rpar;&lpar;one-to-many&rpar;&lpar;many-to-many&rpar;](https://dev.to/chafroudtarek/mongodb-relationshipsone-to-oneone-to-manymany-to-many-njc)
 - [Dev.to/JS] [Learn to use useState and useEffect hooks in React to create dynamic user interfaces](https://dev.to/obere4u/learn-to-use-usestate-and-useeffect-hooks-in-react-to-create-dynamic-user-interfaces-20dj)
 - [Lifehacker] [You Should Keep a House Diary](https://lifehacker.com/you-should-keep-a-house-diary-1850402253)
@@ -33,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [tes](https://dev.to/ilhamabi66/tes-23e6)
 - [Dev.to/JS] [6 best animation libraries for your next project](https://dev.to/ishratumar/6-best-animation-libraries-for-your-next-project-504e)
 - [Dev.to/JS] [How to find the shortest string in an array in JavaScript](https://dev.to/favycodez/how-to-find-the-shortest-string-in-an-array-in-javascript-20ba)
-- [Dev.to/JS] [How to create an image gallery using Tailwind CSS](https://dev.to/ishratumar/how-to-create-an-image-gallery-using-tailwind-css-20ma)
-- [Dev.to/JS] [A desire learning girl.](https://dev.to/dong_shx/a-desire-learning-girl-4l6h)
-- [Dev.to/JS] [Mastering Debounce and Throttle: Improve Your Web Performance with Ease](https://dev.to/milan960/mastering-debounce-and-throttle-improve-your-web-performance-with-ease-1p5j)
-- [Dev.to/JS] [Proven Formula for Unbeatable Salesforce Architecture Design](https://dev.to/datarecove95829/proven-formula-for-unbeatable-salesforce-architecture-design-43e0)
 - [Lifehacker] [Five Things Scammers Are Hoping You Google](https://lifehacker.com/five-things-scammers-are-hoping-you-google-1850405964)
 - [Lifehacker] [How to Snack, Italian Style](https://lifehacker.com/how-to-snack-italian-style-1850405140)
 - [Lifehacker] [This App Makes Your Mac’s Keyboard Sound Vintage](https://lifehacker.com/this-app-makes-your-mac-s-keyboard-sound-vintage-1850402370)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Kick Off Grilling Season With This Open-Faced Sausage Sandwich](https://lifehacker.com/kick-off-grilling-season-with-this-open-faced-sausage-s-1850400529)
 - [Lifehacker] [The Easiest Ways to Eat Cheap and Healthy on a Road Trip](https://lifehacker.com/the-easiest-ways-to-eat-cheap-and-healthy-on-a-road-tri-1850398769)
 - [Lifehacker] [These Restaurants Are Giving Firefighters and Nurses Free Food This Week](https://lifehacker.com/these-restaurants-are-giving-firefighters-and-nurses-fr-1850399991)
-- [Lifehacker] [You Can&#39;t Trust Your Browser&#39;s &#39;Lock&#39; to Tell You a Website Is Safe](https://lifehacker.com/you-cant-trust-your-browsers-lock-to-tell-you-a-website-1850399780)
-- [Lifehacker] [Make a ‘Personal Podcast’ When You Study](https://lifehacker.com/make-a-personal-podcast-when-you-study-1850399310)
-- [Lifehacker] [The Best Chocolate Peanut Butter Pie Is Made With Tofu](https://lifehacker.com/the-best-chocolate-peanut-butter-pie-is-made-with-tofu-1850397451)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can&#39;t Trust Your Browser&#39;s &#39;Lock&#39; to Tell You a Website Is Safe](https://lifehacker.com/you-cant-trust-your-browsers-lock-to-tell-you-a-website-1850399780)<!-- TECH-POSTS:END -->
 
 ---
 
