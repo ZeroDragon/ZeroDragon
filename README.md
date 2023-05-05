@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React story: useRef vs useState](https://dev.to/shishsingh/react-story-useref-vs-usestate-3a6n)
+- [Lifehacker] [How Traveling Solo Is Actually Good for Your Relationship](https://lifehacker.com/how-traveling-solo-is-actually-good-for-your-relationsh-1850406051)
+- [Dev.to/JS] [The Hidden Impact of CSS Order in Web Development](https://dev.to/ic3dragon/the-hidden-impact-of-css-order-in-web-development-54jj)
+- [Lifehacker] [How to Ask Someone to Be Your Mentor](https://lifehacker.com/how-to-ask-someone-to-be-your-mentor-1850407986)
 - [Dev.to/JS] [Deep Dive Into the useReducer&lpar;&rpar; hook](https://dev.to/debajit13/deep-dive-into-the-usereducer-hook-1kom)
 - [Lifehacker] [Start Your Day the Brazilian Way, With a Cake](https://lifehacker.com/start-your-day-the-brazilian-way-with-a-cake-1850406333)
 - [Dev.to/JS] [Custom Snippet do Styled Components no VSCode](https://dev.to/andpeicunha/custom-snippet-do-styled-components-no-vscode-135n)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Best Corporate Biopics Ever](https://lifehacker.com/10-of-the-best-corporate-biopics-ever-1850389811)
 - [Dev.to/JS] [Effortlessly Nuxt navigation: Crafting Dynamic breadcrumbs with Storefront UI](https://dev.to/mayashavin/effortlessly-nuxt-navigation-crafting-dynamic-breadcrumbs-with-storefront-ui-2p32)
 - [Dev.to/JS] [tes](https://dev.to/ilhamabi66/tes-23e6)
-- [Dev.to/JS] [6 best animation libraries for your next project](https://dev.to/ishratumar/6-best-animation-libraries-for-your-next-project-504e)
-- [Dev.to/JS] [How to find the shortest string in an array in JavaScript](https://dev.to/favycodez/how-to-find-the-shortest-string-in-an-array-in-javascript-20ba)
 - [Lifehacker] [Five Things Scammers Are Hoping You Google](https://lifehacker.com/five-things-scammers-are-hoping-you-google-1850405964)
 - [Lifehacker] [How to Snack, Italian Style](https://lifehacker.com/how-to-snack-italian-style-1850405140)
 - [Lifehacker] [This App Makes Your Mac’s Keyboard Sound Vintage](https://lifehacker.com/this-app-makes-your-mac-s-keyboard-sound-vintage-1850402370)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Marvel Shows You Can Safely Watch With Your Kids](https://lifehacker.com/10-marvel-shows-you-can-safely-watch-with-your-kids-1850399274)
 - [Lifehacker] [Your Productivity Needs More Breaks](https://lifehacker.com/your-productivity-needs-more-breaks-1850400649)
 - [Lifehacker] [Kick Off Grilling Season With This Open-Faced Sausage Sandwich](https://lifehacker.com/kick-off-grilling-season-with-this-open-faced-sausage-s-1850400529)
-- [Lifehacker] [The Easiest Ways to Eat Cheap and Healthy on a Road Trip](https://lifehacker.com/the-easiest-ways-to-eat-cheap-and-healthy-on-a-road-tri-1850398769)
-- [Lifehacker] [These Restaurants Are Giving Firefighters and Nurses Free Food This Week](https://lifehacker.com/these-restaurants-are-giving-firefighters-and-nurses-fr-1850399991)
-- [Lifehacker] [You Can&#39;t Trust Your Browser&#39;s &#39;Lock&#39; to Tell You a Website Is Safe](https://lifehacker.com/you-cant-trust-your-browsers-lock-to-tell-you-a-website-1850399780)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Ways to Eat Cheap and Healthy on a Road Trip](https://lifehacker.com/the-easiest-ways-to-eat-cheap-and-healthy-on-a-road-tri-1850398769)<!-- TECH-POSTS:END -->
 
 ---
 
