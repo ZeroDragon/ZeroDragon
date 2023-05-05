@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing CoreIDE- The full stack IDE](https://dev.to/se-saurav/introducing-coreide-the-full-stack-ide-5gn6)
+- [Dev.to/JS] [How to add hotlink protection to your web fonts with Netlify Edge Functions and Deno](https://dev.to/notsidney/how-to-add-hotlink-protection-to-your-web-fonts-with-netlify-edge-functions-and-deno-1jj6)
 - [Dev.to/JS] [React State Management for Beginners](https://dev.to/snowlabs/react-state-management-for-beginners-14b5)
 - [Dev.to/JS] [Implementing the Swipe Card Undo Functionality: My Thought Process](https://dev.to/arashjangali/implementing-the-swipe-card-undo-functionality-my-thought-process-41o5)
 - [Dev.to/JS] [How to Generate API Documentation with Insomnia](https://dev.to/joselatines/how-to-generate-api-documentation-with-insomnia-18fg)
@@ -36,11 +38,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [how to validate ship address in the USA using JavaScript](https://dev.to/tgmarinhodev/how-to-validate-ship-address-in-the-usa-using-javascript-4k5e)
 - [Lifehacker] [How to Snack, Italian Style](https://lifehacker.com/how-to-snack-italian-style-1850405140)
 - [Lifehacker] [This App Makes Your Mac’s Keyboard Sound Vintage](https://lifehacker.com/this-app-makes-your-mac-s-keyboard-sound-vintage-1850402370)
-- [Dev.to/JS] [Higher-Order Functions in Javascript](https://dev.to/cathrynbmcdonald/higher-order-functions-in-javascript-5gbf)
 - [Lifehacker] [You Can Probably Get Reimbursed If Your Flight Price Drops](https://lifehacker.com/you-can-probably-get-reimbursed-if-your-flight-price-dr-1850405175)
 - [Lifehacker] [The Easiest Way to Stop Wet Wipes From Sticking Together](https://lifehacker.com/the-easiest-way-to-stop-wet-wipes-from-sticking-togethe-1850404988)
 - [Lifehacker] [Your Sex Life Needs Regular Exercise](https://lifehacker.com/your-sex-life-needs-regular-exercise-1850401555)
-- [Dev.to/JS] [The Native Way To Configure Path Aliases in Frontend Projects](https://dev.to/nodge/the-native-way-to-configure-path-aliases-in-frontend-projects-ce4)
 - [Lifehacker] [Save on Your Electric Bill by Creating a ‘Climate Zone’ at Home](https://lifehacker.com/save-on-your-electric-bill-by-creating-a-climate-zone-1850402193)
 - [Lifehacker] [Use the Two Minute Rule to Stop Procrastinating](https://lifehacker.com/use-the-two-minute-rule-to-stop-procrastinating-1850404307)
 - [Lifehacker] [You Can Try Microsoft&#39;s New ChatGPT-Powered AI Search Right Now](https://lifehacker.com/how-to-try-microsofts-new-chatgpt-powered-ai-search-1850113463)
