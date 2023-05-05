@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Importing Data from Another File in JavaScript: With Examples](https://dev.to/azam4code/importing-data-from-another-file-in-javascript-with-examples-405l)
+- [Dev.to/JS] [Inside the Javascript Variable | Part - 1 &lpar;Beginner thinking&rpar;](https://dev.to/robiulhr/inside-the-javascript-variable-part-1-beginner-thinking-3hnm)
+- [Dev.to/JS] [How to effectively use the Fetch API in JavaScript](https://dev.to/mataoseeker/how-to-effectively-use-the-fetch-api-in-javascript-4lb4)
+- [Dev.to/JS] [Array method .reduce&lpar;&rpar;](https://dev.to/bouquet/array-method-reduce-cmp)
 - [Dev.to/JS] [The Purrfect Loop: Understanding JavaScript&#39;s Event Loop and Call Stack with Cats 🐾](https://dev.to/davidchedrick/the-purrfect-loop-understanding-javascripts-event-loop-and-call-stack-with-cats-4l9a)
 - [Dev.to/JS] [The Correct Way to Use Stores in SvelteKit](https://dev.to/jdgamble555/the-correct-way-to-use-stores-in-sveltekit-3h6i)
 - [Dev.to/JS] [JavaScript: What exactly is Hoisting?](https://dev.to/sleekcodes/what-exactly-is-hoisting-3e8g)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to add hotlink protection to your web fonts with Netlify Edge Functions and Deno](https://dev.to/notsidney/how-to-add-hotlink-protection-to-your-web-fonts-with-netlify-edge-functions-and-deno-1jj6)
 - [Dev.to/JS] [React State Management for Beginners](https://dev.to/snowlabs/react-state-management-for-beginners-14b5)
 - [Dev.to/JS] [Implementing the Swipe Card Undo Functionality: My Thought Process](https://dev.to/arashjangali/implementing-the-swipe-card-undo-functionality-my-thought-process-41o5)
-- [Dev.to/JS] [How to Generate API Documentation with Insomnia](https://dev.to/joselatines/how-to-generate-api-documentation-with-insomnia-18fg)
-- [Dev.to/JS] [Flask app not updating fetched data from database without restart](https://dev.to/mekkaouiredouane/flask-app-not-updating-fetched-data-from-database-without-restart-2ho7)
-- [Dev.to/JS] [Javascript Functions](https://dev.to/wisdomjackie/javascript-functions-jb3)
-- [Dev.to/JS] [How to Enhance Node.js Application Security](https://dev.to/folasayosamuel/how-to-enhance-nodejs-application-security-2kja)
 - [Lifehacker] [Five Things Scammers Are Hoping You Google](https://lifehacker.com/five-things-scammers-are-hoping-you-google-1850405964)
 - [Lifehacker] [How to Snack, Italian Style](https://lifehacker.com/how-to-snack-italian-style-1850405140)
 - [Lifehacker] [This App Makes Your Mac’s Keyboard Sound Vintage](https://lifehacker.com/this-app-makes-your-mac-s-keyboard-sound-vintage-1850402370)
