@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Correct Way to Use Stores in SvelteKit](https://dev.to/jdgamble555/the-correct-way-to-use-stores-in-sveltekit-3h6i)
+- [Dev.to/JS] [JavaScript: What exactly is Hoisting?](https://dev.to/sleekcodes/what-exactly-is-hoisting-3e8g)
+- [Dev.to/JS] [Primeiros passos com astro](https://dev.to/palast/primeiros-passos-com-astro-2cgj)
 - [Dev.to/JS] [Introducing CoreIDE- The full stack IDE](https://dev.to/se-saurav/introducing-coreide-the-full-stack-ide-5gn6)
 - [Dev.to/JS] [How to add hotlink protection to your web fonts with Netlify Edge Functions and Deno](https://dev.to/notsidney/how-to-add-hotlink-protection-to-your-web-fonts-with-netlify-edge-functions-and-deno-1jj6)
 - [Dev.to/JS] [React State Management for Beginners](https://dev.to/snowlabs/react-state-management-for-beginners-14b5)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Enhance Node.js Application Security](https://dev.to/folasayosamuel/how-to-enhance-nodejs-application-security-2kja)
 - [Dev.to/JS] [Format one object to another w/out duplicates](https://dev.to/benhultin/format-one-object-to-another-wout-duplicates-2nji)
 - [Lifehacker] [Five Things Scammers Are Hoping You Google](https://lifehacker.com/five-things-scammers-are-hoping-you-google-1850405964)
-- [Dev.to/JS] [useState: la caja de juguetes](https://dev.to/cadifilippo/usestate-la-caja-de-juguetes-256o)
-- [Dev.to/JS] [Want to be able to drag files into a web app? Got ya covered.](https://dev.to/krofdrakula/want-to-be-able-to-drag-files-into-a-web-app-got-ya-covered-jh3)
-- [Dev.to/JS] [how to validate ship address in the USA using JavaScript](https://dev.to/tgmarinhodev/how-to-validate-ship-address-in-the-usa-using-javascript-4k5e)
 - [Lifehacker] [How to Snack, Italian Style](https://lifehacker.com/how-to-snack-italian-style-1850405140)
 - [Lifehacker] [This App Makes Your Mac’s Keyboard Sound Vintage](https://lifehacker.com/this-app-makes-your-mac-s-keyboard-sound-vintage-1850402370)
 - [Lifehacker] [You Can Probably Get Reimbursed If Your Flight Price Drops](https://lifehacker.com/you-can-probably-get-reimbursed-if-your-flight-price-dr-1850405175)
