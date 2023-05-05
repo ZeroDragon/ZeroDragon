@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make This Easy, Creamy Four-Ingredient Lemon Dessert](https://lifehacker.com/make-this-easy-creamy-four-ingredient-lemon-dessert-1850409568)
+- [Lifehacker] [The Biggest Home Improvement Rebates You Can Get From the Government](https://lifehacker.com/the-biggest-home-improvement-rebates-you-can-get-from-t-1850407564)
+- [Dev.to/JS] [Stacked Bar Chart using a JSON Data Source, Plain Vanilla Javascript, Plain CSS and no chart libraries](https://dev.to/rickdelpo1/stacked-bar-chart-using-a-json-data-source-plain-vanilla-javascript-plain-css-and-no-chart-libraries-2j29)
+- [Dev.to/JS] [Mastering Express: Building Robust TypeScript Servers with Ease.](https://dev.to/itskunal/mastering-express-building-robust-typescript-servers-with-ease-ab9)
+- [Dev.to/JS] [GETTING STARTED WITH CHAKRA UI](https://dev.to/candie_code/getting-started-with-chakra-ui-46pp)
+- [Dev.to/JS] [How I Reduced Docker Image Size from 1.43 GB to 22.4 MB](https://dev.to/mohammadfaisal/how-i-reduced-docker-image-size-from-143-gb-to-224-mb-53nc)
 - [Lifehacker] [Here&#39;s What&#39;s New in the Latest WhatsApp Update](https://lifehacker.com/heres-whats-new-in-the-latest-whatsapp-update-1850408309)
 - [Dev.to/JS] [Can you solve these Javascript Mind Twister Puzzles by ChatGPT? 🤯](https://dev.to/abhisheksrajput/can-you-solve-these-javascript-mind-twister-puzzles-by-chatgpt-58cf)
 - [Lifehacker] [Only Morons Use ChatGPT As a Substitute for Google](https://lifehacker.com/only-morons-use-chatgpt-as-a-substitute-for-google-1850408688)
@@ -40,11 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Project](https://dev.to/diasce23/project-59bm)
 - [Dev.to/JS] [Higher Order Components in React: Examples with Common Use-case Patterns](https://dev.to/alakkadshaw/higher-order-components-in-react-examples-with-common-use-case-patterns-37n1)
 - [Lifehacker] [Your Kitchen Needs a Little Fan](https://lifehacker.com/your-kitchen-needs-a-little-fan-1850406218)
-- [Dev.to/JS] [MongoDB Relationships&lpar;one-to-one&rpar;&lpar;one-to-many&rpar;&lpar;many-to-many&rpar;](https://dev.to/chafroudtarek/mongodb-relationshipsone-to-oneone-to-manymany-to-many-njc)
-- [Dev.to/JS] [Learn to use useState and useEffect hooks in React to create dynamic user interfaces](https://dev.to/obere4u/learn-to-use-usestate-and-useeffect-hooks-in-react-to-create-dynamic-user-interfaces-20dj)
 - [Lifehacker] [You Should Keep a House Diary](https://lifehacker.com/you-should-keep-a-house-diary-1850402253)
-- [Dev.to/JS] [Top 1000 JavaScript Interview Questions in 2023!](https://dev.to/nezirzahirovic/top-1000-javascript-interview-questions-in-2023-2npj)
-- [Dev.to/JS] [We built Plane ✈️ Open Source Project Management Tool &lpar;Next.js + Django&rpar;](https://dev.to/vihar/we-built-plane-open-source-project-management-tool-nextjs-django-3hke)
 - [Lifehacker] [10 of the Best Corporate Biopics Ever](https://lifehacker.com/10-of-the-best-corporate-biopics-ever-1850389811)
 - [Lifehacker] [Five Things Scammers Are Hoping You Google](https://lifehacker.com/five-things-scammers-are-hoping-you-google-1850405964)
 - [Lifehacker] [How to Snack, Italian Style](https://lifehacker.com/how-to-snack-italian-style-1850405140)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Passkeys Are the New Passwords](https://lifehacker.com/passkeys-are-the-new-passwords-1850402666)
 - [Lifehacker] [What People Are Getting Wrong This Week: TikTok Challenges](https://lifehacker.com/what-people-are-getting-wrong-this-week-tiktok-challen-1850401970)
 - [Lifehacker] [Don’t Lick the Spoon &lpar;Make Brownie Toast Instead&rpar;](https://lifehacker.com/don-t-lick-the-spoon-make-brownie-toast-instead-1850402105)
-- [Lifehacker] [A Beginner&#39;s Guide to Buying a Weightlifting Belt](https://lifehacker.com/a-beginners-guide-to-buying-a-weightlifting-belt-1850401310)
-- [Lifehacker] [You Should Make Waffled Chocolate Sandwiches](https://lifehacker.com/you-should-make-waffled-chocolate-sandwiches-1850401619)
-- [Lifehacker] [Creative Ways to Spend Just 15 Minutes Outside With Your Kids](https://lifehacker.com/creative-ways-to-spend-just-15-minutes-outside-with-you-1850400548)<!-- TECH-POSTS:END -->
+- [Lifehacker] [A Beginner&#39;s Guide to Buying a Weightlifting Belt](https://lifehacker.com/a-beginners-guide-to-buying-a-weightlifting-belt-1850401310)<!-- TECH-POSTS:END -->
 
 ---
 
