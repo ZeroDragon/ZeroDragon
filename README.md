@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React VS NextJs](https://dev.to/web-project-school/react-vs-nextjs-14l)
 - [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
+- [Dev.to/JS] [I get data through API but unable to use &lpar;show it&rpar; properly in ReactJS using useState&lpar;&rpar;](https://dev.to/mahroosanwar/i-get-data-through-api-but-unable-to-use-show-it-properly-in-reactjs-using-usestate-cnd)
 - [Dev.to/JS] [How NestJS Design Patterns help building modular, scalable, and maintainable applications](https://dev.to/muhammadzaidse/how-nestjs-design-patterns-help-building-modular-scalable-and-maintainable-applications-53j8)
 - [Dev.to/JS] [Responsive Footer Design Using HTML &amp; CSS](https://dev.to/onlineittutstutorials/responsive-footer-design-using-html-css-2kfo)
 - [Dev.to/JS] [reCaptcha with React Native, domain?](https://dev.to/carlrudling/recaptcha-with-react-native-domain-3715)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;06-05-2023&rpar; - Mindblown Everything](https://dev.to/mjgs/this-weeks-newsletter-is-out-06-05-2023-mindblown-everything-n55)
 - [Dev.to/JS] [Improving Design System Visual Testing Consistency with Docker](https://dev.to/akbarnafisa/improving-design-system-visual-testing-consistency-with-docker-530a)
 - [Dev.to/JS] [Angular Life Cycle Hooks](https://dev.to/kafeel_ahmad/angular-life-cycle-hooks-2n47)
-- [Dev.to/JS] [[Nestia] I made automatic e2e test functions generator for NestJS](https://dev.to/samchon/nestia-i-made-automatic-e2e-test-functions-generator-for-nestjs-4o3p)
-- [Dev.to/JS] [REST API in Angular](https://dev.to/kafeel_ahmad/rest-api-in-angular-4i5c)
 - [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-you-can-get-right-now-1850409952)
 - [Lifehacker] [This App Can ID Any Bird In Your Neighborhood by Sight or Sound](https://lifehacker.com/this-app-can-id-any-bird-in-your-neighborhood-by-sight-1850409631)
 - [Lifehacker] [&#39;Swedish Death Cleaning&#39; Can Improve Your Life Right Now](https://lifehacker.com/swedish-death-cleaning-can-improve-your-life-right-now-1850409420)
