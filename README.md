@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring useRef, useMemo, and the Challenges of Working with Multiple Components](https://dev.to/arashjangali/exploring-useref-usememo-and-the-challenges-of-working-with-multiple-components-227n)
 - [Dev.to/JS] [Functional Programming in Javascript](https://dev.to/titre123/functional-programming-in-javascript-67m)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Regular Expressions Methods: Simplifying Syntax and Usage](https://dev.to/jnmedina32/a-beginners-guide-to-regular-expressions-methods-simplifying-syntax-and-usage-1jhl)
 - [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-you-can-get-right-now-1850409952)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s What&#39;s New in the Latest WhatsApp Update](https://lifehacker.com/heres-whats-new-in-the-latest-whatsapp-update-1850408309)
 - [Dev.to/JS] [Can you solve these Javascript Mind Twister Puzzles by ChatGPT? 🤯](https://dev.to/abhisheksrajput/can-you-solve-these-javascript-mind-twister-puzzles-by-chatgpt-58cf)
 - [Lifehacker] [Only Morons Use ChatGPT As a Substitute for Google](https://lifehacker.com/only-morons-use-chatgpt-as-a-substitute-for-google-1850408688)
-- [Dev.to/JS] [The Pros and Cons of Using Frameworks in Web Development](https://dev.to/sameerulrahman/the-pros-and-cons-of-using-frameworks-in-web-development-94g)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Is Tubi Secretly the Best Streaming Service?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-tubi-1850406662)
 - [Lifehacker] [These Tools Can Tell You If Buying a Car Is Actually Cheaper Than Uber](https://lifehacker.com/these-tools-can-tell-you-if-buying-a-car-is-actually-ch-1850406542)
 - [Lifehacker] [How to Attract Ground-Dwelling Bees to Your Garden &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-attract-ground-dwelling-bees-to-your-garden-and-1850407487)
