@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Improving Design System Visual Testing Consistency with Docker](https://dev.to/akbarnafisa/improving-design-system-visual-testing-consistency-with-docker-530a)
+- [Dev.to/JS] [Angular Life Cycle Hooks](https://dev.to/kafeel_ahmad/angular-life-cycle-hooks-2n47)
+- [Dev.to/JS] [[Nestia] I made automatic e2e test functions generator for NestJS](https://dev.to/samchon/nestia-i-made-automatic-e2e-test-functions-generator-for-nestjs-4o3p)
+- [Dev.to/JS] [REST API in Angular](https://dev.to/kafeel_ahmad/rest-api-in-angular-4i5c)
 - [Dev.to/JS] [Escorts by Patna Escort Agency available 24/7](https://dev.to/rehamalik305/escorts-by-patna-escort-agency-available-247-31mo)
 - [Dev.to/JS] [Hostel management system project in PHP](https://dev.to/neerajm76404554/hostel-management-system-project-in-php-222i)
 - [Dev.to/JS] [Exploring useRef, useMemo, and the Challenges of Working with Multiple Components](https://dev.to/arashjangali/exploring-useref-usememo-and-the-challenges-of-working-with-multiple-components-227n)
@@ -34,13 +38,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;Swedish Death Cleaning&#39; Can Improve Your Life Right Now](https://lifehacker.com/swedish-death-cleaning-can-improve-your-life-right-now-1850409420)
 - [Dev.to/JS] [The Struggles of Becoming a Self Thaught Developer](https://dev.to/kristof1345/the-struggles-of-becoming-a-self-thaught-developer-4njo)
 - [Dev.to/JS] [Build a Loan Calculator with Form Controls in a JavaScript Spreadsheet](https://dev.to/grapecity/build-a-loan-calculator-with-form-controls-in-a-javascript-spreadsheet-340p)
-- [Dev.to/JS] [Lexical vs. In-Memory Scope in JavaScript](https://dev.to/gabetronic/lexical-vs-in-memory-scope-in-javascript-1245)
 - [Lifehacker] [Family Dollar Is Recalling These Advil Products, FDA Says](https://lifehacker.com/family-dollar-is-recalling-these-advil-products-fda-sa-1850409577)
 - [Lifehacker] [Make This Easy, Creamy Four-Ingredient Lemon Dessert](https://lifehacker.com/make-this-easy-creamy-four-ingredient-lemon-dessert-1850409568)
 - [Lifehacker] [The Biggest Home Improvement Rebates You Can Get From the Government](https://lifehacker.com/the-biggest-home-improvement-rebates-you-can-get-from-t-1850407564)
-- [Dev.to/JS] [Stacked Bar Chart using a JSON Data Source, Plain Vanilla Javascript, Plain CSS and no chart libraries](https://dev.to/rickdelpo1/stacked-bar-chart-using-a-json-data-source-plain-vanilla-javascript-plain-css-and-no-chart-libraries-2j29)
-- [Dev.to/JS] [Mastering Express: Building Robust TypeScript Servers with Ease.](https://dev.to/itskunal/mastering-express-building-robust-typescript-servers-with-ease-ab9)
-- [Dev.to/JS] [GETTING STARTED WITH CHAKRA UI](https://dev.to/candie_code/getting-started-with-chakra-ui-46pp)
 - [Lifehacker] [Here&#39;s What&#39;s New in the Latest WhatsApp Update](https://lifehacker.com/heres-whats-new-in-the-latest-whatsapp-update-1850408309)
 - [Lifehacker] [Only Morons Use ChatGPT As a Substitute for Google](https://lifehacker.com/only-morons-use-chatgpt-as-a-substitute-for-google-1850408688)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Is Tubi Secretly the Best Streaming Service?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-tubi-1850406662)
