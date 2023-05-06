@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Escorts by Patna Escort Agency available 24/7](https://dev.to/rehamalik305/escorts-by-patna-escort-agency-available-247-31mo)
 - [Dev.to/JS] [Hostel management system project in PHP](https://dev.to/neerajm76404554/hostel-management-system-project-in-php-222i)
 - [Dev.to/JS] [Exploring useRef, useMemo, and the Challenges of Working with Multiple Components](https://dev.to/arashjangali/exploring-useref-usememo-and-the-challenges-of-working-with-multiple-components-227n)
 - [Dev.to/JS] [Functional Programming in Javascript](https://dev.to/titre123/functional-programming-in-javascript-67m)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Stacked Bar Chart using a JSON Data Source, Plain Vanilla Javascript, Plain CSS and no chart libraries](https://dev.to/rickdelpo1/stacked-bar-chart-using-a-json-data-source-plain-vanilla-javascript-plain-css-and-no-chart-libraries-2j29)
 - [Dev.to/JS] [Mastering Express: Building Robust TypeScript Servers with Ease.](https://dev.to/itskunal/mastering-express-building-robust-typescript-servers-with-ease-ab9)
 - [Dev.to/JS] [GETTING STARTED WITH CHAKRA UI](https://dev.to/candie_code/getting-started-with-chakra-ui-46pp)
-- [Dev.to/JS] [How I Reduced Docker Image Size from 1.43 GB to 22.4 MB](https://dev.to/mohammadfaisal/how-i-reduced-docker-image-size-from-143-gb-to-224-mb-53nc)
 - [Lifehacker] [Here&#39;s What&#39;s New in the Latest WhatsApp Update](https://lifehacker.com/heres-whats-new-in-the-latest-whatsapp-update-1850408309)
 - [Lifehacker] [Only Morons Use ChatGPT As a Substitute for Google](https://lifehacker.com/only-morons-use-chatgpt-as-a-substitute-for-google-1850408688)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Is Tubi Secretly the Best Streaming Service?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-tubi-1850406662)
