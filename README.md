@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Google vs. ChatGPT: Which Tool Do Developers Prefer and Why? Exploring Perspectives and Insights](https://dev.to/chidiebereomasi/google-vs-chatgpt-which-tool-do-developers-prefer-and-why-exploring-perspectives-and-insights-p09)
 - [Dev.to/JS] [Split Larger Serverless Application in to smaller micro-apps](https://dev.to/raaghu/split-larger-serverless-application-in-to-smaller-micro-apps-3l3b)
 - [Dev.to/JS] [Boostaro – &lpar;Legit or Scam&rpar; Reviews, Results, Benefits, Uses &amp; Price?](https://dev.to/boostarofa9291/boostaro-legit-or-scam-reviews-results-benefits-uses-price-1fnk)
 - [Dev.to/JS] [What is MVC? =&gt; 🤔 to 🤩.](https://dev.to/ashutosh7i/what-is-mvc-to--5a1)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Escorts by Patna Escort Agency available 24/7](https://dev.to/rehamalik305/escorts-by-patna-escort-agency-available-247-31mo)
 - [Dev.to/JS] [Hostel management system project in PHP](https://dev.to/neerajm76404554/hostel-management-system-project-in-php-222i)
 - [Dev.to/JS] [Exploring useRef, useMemo, and the Challenges of Working with Multiple Components](https://dev.to/arashjangali/exploring-useref-usememo-and-the-challenges-of-working-with-multiple-components-227n)
-- [Dev.to/JS] [Functional Programming in Javascript](https://dev.to/titre123/functional-programming-in-javascript-67m)
 - [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-you-can-get-right-now-1850409952)
 - [Lifehacker] [This App Can ID Any Bird In Your Neighborhood by Sight or Sound](https://lifehacker.com/this-app-can-id-any-bird-in-your-neighborhood-by-sight-1850409631)
 - [Lifehacker] [&#39;Swedish Death Cleaning&#39; Can Improve Your Life Right Now](https://lifehacker.com/swedish-death-cleaning-can-improve-your-life-right-now-1850409420)
