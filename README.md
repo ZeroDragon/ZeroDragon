@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Closures. ¿Qué son exactamente?](https://dev.to/ruben_alapont/closures-que-son-exactamente-25f2)
 - [Dev.to/JS] [0–3 NestJS Hunter: Slaying Complexity in Node.js with TypeScript.](https://dev.to/refaatalktifan/0-3-nestjs-hunter-slaying-complexity-in-nodejs-with-typescript-461k)
 - [Dev.to/JS] [0–2 NestJS Hunter: Slaying Complexity in Node.js with TypeScript.](https://dev.to/refaatalktifan/0-2-nestjs-hunter-slaying-complexity-in-nodejs-with-typescript-714)
 - [Dev.to/JS] [0–1 NestJS Hunter: Slaying Complexity in Node.js with TypeScript.](https://dev.to/refaatalktifan/0-1-nestjs-hunter-slaying-complexity-in-nodejs-with-typescript-j1j)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
 - [Dev.to/JS] [I get data through API but unable to use &lpar;show it&rpar; properly in ReactJS using useState&lpar;&rpar;](https://dev.to/mahroosanwar/i-get-data-through-api-but-unable-to-use-show-it-properly-in-reactjs-using-usestate-cnd)
 - [Dev.to/JS] [How NestJS Design Patterns help building modular, scalable, and maintainable applications](https://dev.to/muhammadzaidse/how-nestjs-design-patterns-help-building-modular-scalable-and-maintainable-applications-53j8)
-- [Dev.to/JS] [Responsive Footer Design Using HTML &amp; CSS](https://dev.to/onlineittutstutorials/responsive-footer-design-using-html-css-2kfo)
 - [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-you-can-get-right-now-1850409952)
 - [Lifehacker] [This App Can ID Any Bird In Your Neighborhood by Sight or Sound](https://lifehacker.com/this-app-can-id-any-bird-in-your-neighborhood-by-sight-1850409631)
 - [Lifehacker] [&#39;Swedish Death Cleaning&#39; Can Improve Your Life Right Now](https://lifehacker.com/swedish-death-cleaning-can-improve-your-life-right-now-1850409420)
