@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Auto Copilot](https://dev.to/rsaryev/auto-copilot-5833)
+- [Lifehacker] [How to Save Wilted Roses in Your Garden](https://lifehacker.com/how-to-save-wilted-roses-in-your-garden-1850410557)
 - [Dev.to/JS] [Closures. ¿Qué son exactamente?](https://dev.to/ruben_alapont/closures-que-son-exactamente-25f2)
 - [Dev.to/JS] [0–3 NestJS Hunter: Slaying Complexity in Node.js with TypeScript.](https://dev.to/refaatalktifan/0-3-nestjs-hunter-slaying-complexity-in-nodejs-with-typescript-461k)
 - [Dev.to/JS] [0–2 NestJS Hunter: Slaying Complexity in Node.js with TypeScript.](https://dev.to/refaatalktifan/0-2-nestjs-hunter-slaying-complexity-in-nodejs-with-typescript-714)
@@ -36,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React VS NextJs &lpar;in Arabic and English&rpar;](https://dev.to/web-project-school/react-vs-nextjs-14l)
 - [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
 - [Dev.to/JS] [I get data through API but unable to use &lpar;show it&rpar; properly in ReactJS using useState&lpar;&rpar;](https://dev.to/mahroosanwar/i-get-data-through-api-but-unable-to-use-show-it-properly-in-reactjs-using-usestate-cnd)
-- [Dev.to/JS] [How NestJS Design Patterns help building modular, scalable, and maintainable applications](https://dev.to/muhammadzaidse/how-nestjs-design-patterns-help-building-modular-scalable-and-maintainable-applications-53j8)
 - [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-you-can-get-right-now-1850409952)
 - [Lifehacker] [This App Can ID Any Bird In Your Neighborhood by Sight or Sound](https://lifehacker.com/this-app-can-id-any-bird-in-your-neighborhood-by-sight-1850409631)
 - [Lifehacker] [&#39;Swedish Death Cleaning&#39; Can Improve Your Life Right Now](https://lifehacker.com/swedish-death-cleaning-can-improve-your-life-right-now-1850409420)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Stop Wet Wipes From Sticking Together](https://lifehacker.com/the-easiest-way-to-stop-wet-wipes-from-sticking-togethe-1850404988)
 - [Lifehacker] [Your Sex Life Needs Regular Exercise](https://lifehacker.com/your-sex-life-needs-regular-exercise-1850401555)
 - [Lifehacker] [Save on Your Electric Bill by Creating a ‘Climate Zone’ at Home](https://lifehacker.com/save-on-your-electric-bill-by-creating-a-climate-zone-1850402193)
-- [Lifehacker] [Use the Two Minute Rule to Stop Procrastinating](https://lifehacker.com/use-the-two-minute-rule-to-stop-procrastinating-1850404307)
-- [Lifehacker] [You Can Try Microsoft&#39;s New ChatGPT-Powered AI Search Right Now](https://lifehacker.com/how-to-try-microsofts-new-chatgpt-powered-ai-search-1850113463)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the Two Minute Rule to Stop Procrastinating](https://lifehacker.com/use-the-two-minute-rule-to-stop-procrastinating-1850404307)<!-- TECH-POSTS:END -->
 
 ---
 
