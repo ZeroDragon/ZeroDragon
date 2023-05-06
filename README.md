@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CRUD Notes Web App In Javascript.](https://dev.to/thekalderon/crud-notes-web-app-in-javascript-2h36)
+- [Dev.to/JS] [Learn How To Listen: Event Listeners And Dynamic Websites](https://dev.to/svper563/learn-how-to-listen-event-listeners-and-dynamic-websites-46h)
 - [Dev.to/JS] [Creating your own ExpressJS from scratch &lpar;Part 5&rpar; - Serving static files](https://dev.to/wesleymreng7/creating-your-own-expressjs-from-scratch-part-5-serving-static-files-3e11)
 - [Dev.to/JS] [View Transitions API](https://dev.to/link2twenty/view-transitions-api-5980)
 - [Dev.to/JS] [Auto Copilot](https://dev.to/auto-copilot/auto-copilot-5833)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Classes, constructors and objects, oh my!](https://dev.to/resotap/classes-constructors-and-objects-oh-my-1p4d)
 - [Dev.to/JS] [Learning Python and bettering my JavaScript](https://dev.to/jdowns525/learning-python-and-bettering-my-javascript-2j7b)
 - [Lifehacker] [These Are the Best and Worst States for Saving Money](https://lifehacker.com/these-are-the-best-and-worst-states-for-saving-money-1850410531)
-- [Dev.to/JS] [11 Ridiculous NPM Packages I Wish Didn’t Exist](https://dev.to/mohammadfaisal/11-ridiculous-npm-packages-i-wish-didnt-exist-1g2i)
-- [Dev.to/JS] [JavaScript EP7: Promises &amp; Async/Await⏳🪄](https://dev.to/phatsss/javascript-ep7-promises-asyncawait-4nan)
 - [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
 - [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-you-can-get-right-now-1850409952)
 - [Lifehacker] [This App Can ID Any Bird In Your Neighborhood by Sight or Sound](https://lifehacker.com/this-app-can-id-any-bird-in-your-neighborhood-by-sight-1850409631)
