@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Auto Copilot](https://dev.to/rsaryev/auto-copilot-5833)
+- [Dev.to/JS] [Creating your own ExpressJS from scratch &lpar;Part 5&rpar; - Serving static files](https://dev.to/wesleymreng7/creating-your-own-expressjs-from-scratch-part-5-serving-static-files-3e11)
+- [Dev.to/JS] [View Transitions API](https://dev.to/link2twenty/view-transitions-api-5980)
+- [Dev.to/JS] [Auto Copilot](https://dev.to/auto-copilot/auto-copilot-5833)
 - [Lifehacker] [How to Save Wilted Roses in Your Garden](https://lifehacker.com/how-to-save-wilted-roses-in-your-garden-1850410557)
 - [Dev.to/JS] [Closures. ¿Qué son exactamente?](https://dev.to/ruben_alapont/closures-que-son-exactamente-25f2)
 - [Dev.to/JS] [0–3 NestJS Hunter: Slaying Complexity in Node.js with TypeScript.](https://dev.to/refaatalktifan/0-3-nestjs-hunter-slaying-complexity-in-nodejs-with-typescript-461k)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best and Worst States for Saving Money](https://lifehacker.com/these-are-the-best-and-worst-states-for-saving-money-1850410531)
 - [Dev.to/JS] [11 Ridiculous NPM Packages I Wish Didn’t Exist](https://dev.to/mohammadfaisal/11-ridiculous-npm-packages-i-wish-didnt-exist-1g2i)
 - [Dev.to/JS] [JavaScript EP7: Promises &amp; Async/Await⏳🪄](https://dev.to/phatsss/javascript-ep7-promises-asyncawait-4nan)
-- [Dev.to/JS] [React VS NextJs &lpar;in Arabic and English&rpar;](https://dev.to/web-project-school/react-vs-nextjs-14l)
 - [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
-- [Dev.to/JS] [I get data through API but unable to use &lpar;show it&rpar; properly in ReactJS using useState&lpar;&rpar;](https://dev.to/mahroosanwar/i-get-data-through-api-but-unable-to-use-show-it-properly-in-reactjs-using-usestate-cnd)
 - [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-you-can-get-right-now-1850409952)
 - [Lifehacker] [This App Can ID Any Bird In Your Neighborhood by Sight or Sound](https://lifehacker.com/this-app-can-id-any-bird-in-your-neighborhood-by-sight-1850409631)
 - [Lifehacker] [&#39;Swedish Death Cleaning&#39; Can Improve Your Life Right Now](https://lifehacker.com/swedish-death-cleaning-can-improve-your-life-right-now-1850409420)
