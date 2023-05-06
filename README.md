@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Como criar uma packege/lib npm ?](https://dev.to/guiffsouza/como-criar-uma-packegelib-npm--440n)
 - [Dev.to/JS] [The Magical World of JavaScript Engines: Everything you Need to Know](https://dev.to/rajaniraiyn/the-magical-world-of-javascript-engines-everything-you-need-to-know-1fp7)
 - [Dev.to/JS] [Learn How to Solve: LeetCode 46 - Permutations](https://dev.to/niades/learn-how-to-solve-leetcode-46-permutations-3kgj)
 - [Dev.to/JS] [Nos bastidores, como o javascript funciona](https://dev.to/julianosirtori/nos-bastidores-como-o-javascript-funciona-31f0)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Closures. ¿Qué son exactamente?](https://dev.to/ruben_alapont/closures-que-son-exactamente-25f2)
 - [Dev.to/JS] [0–3 NestJS Hunter: Slaying Complexity in Node.js with TypeScript.](https://dev.to/refaatalktifan/0-3-nestjs-hunter-slaying-complexity-in-nodejs-with-typescript-461k)
 - [Dev.to/JS] [0–2 NestJS Hunter: Slaying Complexity in Node.js with TypeScript.](https://dev.to/refaatalktifan/0-2-nestjs-hunter-slaying-complexity-in-nodejs-with-typescript-714)
-- [Dev.to/JS] [0–1 NestJS Hunter: Slaying Complexity in Node.js with TypeScript.](https://dev.to/refaatalktifan/0-1-nestjs-hunter-slaying-complexity-in-nodejs-with-typescript-j1j)
 - [Lifehacker] [These Are the Best and Worst States for Saving Money](https://lifehacker.com/these-are-the-best-and-worst-states-for-saving-money-1850410531)
 - [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
 - [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-you-can-get-right-now-1850409952)
