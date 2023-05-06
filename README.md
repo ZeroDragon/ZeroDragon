@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
+- [Dev.to/JS] [How NestJS Design Patterns help building modular, scalable, and maintainable applications](https://dev.to/muhammadzaidse/how-nestjs-design-patterns-help-building-modular-scalable-and-maintainable-applications-53j8)
+- [Dev.to/JS] [Responsive Footer Design Using HTML &amp; CSS](https://dev.to/onlineittutstutorials/responsive-footer-design-using-html-css-2kfo)
+- [Dev.to/JS] [reCaptcha with React Native, domain?](https://dev.to/carlrudling/recaptcha-with-react-native-domain-3715)
 - [Dev.to/JS] [Google vs. ChatGPT: Which Tool Do Developers Prefer and Why? Exploring Perspectives and Insights](https://dev.to/chidiebereomasi/google-vs-chatgpt-which-tool-do-developers-prefer-and-why-exploring-perspectives-and-insights-p09)
 - [Dev.to/JS] [Split Larger Serverless Application in to smaller micro-apps](https://dev.to/raaghu/split-larger-serverless-application-in-to-smaller-micro-apps-3l3b)
 - [Dev.to/JS] [Boostaro – &lpar;Legit or Scam&rpar; Reviews, Results, Benefits, Uses &amp; Price?](https://dev.to/boostarofa9291/boostaro-legit-or-scam-reviews-results-benefits-uses-price-1fnk)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular Life Cycle Hooks](https://dev.to/kafeel_ahmad/angular-life-cycle-hooks-2n47)
 - [Dev.to/JS] [[Nestia] I made automatic e2e test functions generator for NestJS](https://dev.to/samchon/nestia-i-made-automatic-e2e-test-functions-generator-for-nestjs-4o3p)
 - [Dev.to/JS] [REST API in Angular](https://dev.to/kafeel_ahmad/rest-api-in-angular-4i5c)
-- [Dev.to/JS] [Escorts by Patna Escort Agency available 24/7](https://dev.to/rehamalik305/escorts-by-patna-escort-agency-available-247-31mo)
-- [Dev.to/JS] [Hostel management system project in PHP](https://dev.to/neerajm76404554/hostel-management-system-project-in-php-222i)
-- [Dev.to/JS] [Exploring useRef, useMemo, and the Challenges of Working with Multiple Components](https://dev.to/arashjangali/exploring-useref-usememo-and-the-challenges-of-working-with-multiple-components-227n)
 - [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-you-can-get-right-now-1850409952)
 - [Lifehacker] [This App Can ID Any Bird In Your Neighborhood by Sight or Sound](https://lifehacker.com/this-app-can-id-any-bird-in-your-neighborhood-by-sight-1850409631)
 - [Lifehacker] [&#39;Swedish Death Cleaning&#39; Can Improve Your Life Right Now](https://lifehacker.com/swedish-death-cleaning-can-improve-your-life-right-now-1850409420)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Save on Your Electric Bill by Creating a ‘Climate Zone’ at Home](https://lifehacker.com/save-on-your-electric-bill-by-creating-a-climate-zone-1850402193)
 - [Lifehacker] [Use the Two Minute Rule to Stop Procrastinating](https://lifehacker.com/use-the-two-minute-rule-to-stop-procrastinating-1850404307)
 - [Lifehacker] [You Can Try Microsoft&#39;s New ChatGPT-Powered AI Search Right Now](https://lifehacker.com/how-to-try-microsofts-new-chatgpt-powered-ai-search-1850113463)
-- [Lifehacker] [These Battery-Powered Appliances Are Actually Worth It](https://lifehacker.com/these-battery-powered-appliances-are-actually-worth-it-1850404299)
-- [Lifehacker] [You’re Probably Lifting a Lot Less Than You Could](https://lifehacker.com/you-re-probably-lifting-half-as-much-as-you-should-1850403997)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Battery-Powered Appliances Are Actually Worth It](https://lifehacker.com/these-battery-powered-appliances-are-actually-worth-it-1850404299)<!-- TECH-POSTS:END -->
 
 ---
 
