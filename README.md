@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Constructing a Personalized ChatGPT Assistant: Optimize Your Documentation with SEO Techniques](https://dev.to/itsahsanmangal/constructing-a-personalized-chatgpt-assistant-optimize-your-documentation-with-seo-techniques-1edd)
+- [Dev.to/JS] [AbortController manage memory efficiently to ensure optimal performance](https://dev.to/tgmarinhodev/abortcontroller-manage-memory-efficiently-to-ensure-optimal-performance-2j82)
+- [Dev.to/JS] [How Streams works in Nodejs](https://dev.to/clericcoder/how-streams-works-in-nodejs-580d)
+- [Dev.to/JS] [Presentations with PPtxGenJs in Ruby on Rails](https://dev.to/timnans/presentations-with-pptxgenjs-in-ruby-on-rails-m0b)
 - [Dev.to/JS] [Como criar uma packege/lib npm ?](https://dev.to/guiffsouza/como-criar-uma-packegelib-npm--440n)
 - [Dev.to/JS] [The Magical World of JavaScript Engines: Everything you Need to Know](https://dev.to/rajaniraiyn/the-magical-world-of-javascript-engines-everything-you-need-to-know-1fp7)
 - [Dev.to/JS] [Learn How to Solve: LeetCode 46 - Permutations](https://dev.to/niades/learn-how-to-solve-leetcode-46-permutations-3kgj)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn How To Listen: Event Listeners And Dynamic Websites](https://dev.to/svper563/learn-how-to-listen-event-listeners-and-dynamic-websites-46h)
 - [Dev.to/JS] [Creating your own ExpressJS from scratch &lpar;Part 5&rpar; - Serving static files](https://dev.to/wesleymreng7/creating-your-own-expressjs-from-scratch-part-5-serving-static-files-3e11)
 - [Dev.to/JS] [View Transitions API](https://dev.to/link2twenty/view-transitions-api-5980)
-- [Dev.to/JS] [Auto Copilot](https://dev.to/auto-copilot/auto-copilot-5833)
 - [Lifehacker] [How to Save Wilted Roses in Your Garden](https://lifehacker.com/how-to-save-wilted-roses-in-your-garden-1850410557)
-- [Dev.to/JS] [Closures. ¿Qué son exactamente?](https://dev.to/ruben_alapont/closures-que-son-exactamente-25f2)
-- [Dev.to/JS] [0–3 NestJS Hunter: Slaying Complexity in Node.js with TypeScript.](https://dev.to/refaatalktifan/0-3-nestjs-hunter-slaying-complexity-in-nodejs-with-typescript-461k)
-- [Dev.to/JS] [0–2 NestJS Hunter: Slaying Complexity in Node.js with TypeScript.](https://dev.to/refaatalktifan/0-2-nestjs-hunter-slaying-complexity-in-nodejs-with-typescript-714)
 - [Lifehacker] [These Are the Best and Worst States for Saving Money](https://lifehacker.com/these-are-the-best-and-worst-states-for-saving-money-1850410531)
 - [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
 - [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-you-can-get-right-now-1850409952)
