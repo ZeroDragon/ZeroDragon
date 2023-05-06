@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best and Worst States for Saving Money](https://lifehacker.com/these-are-the-best-and-worst-states-for-saving-money-1850410531)
+- [Dev.to/JS] [11 Ridiculous NPM Packages I Wish Didn’t Exist](https://dev.to/mohammadfaisal/11-ridiculous-npm-packages-i-wish-didnt-exist-1g2i)
+- [Dev.to/JS] [JavaScript EP7: Promises &amp; Async/Await⏳🪄](https://dev.to/phatsss/javascript-ep7-promises-asyncawait-4nan)
 - [Dev.to/JS] [React VS NextJs](https://dev.to/web-project-school/react-vs-nextjs-14l)
 - [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
 - [Dev.to/JS] [I get data through API but unable to use &lpar;show it&rpar; properly in ReactJS using useState&lpar;&rpar;](https://dev.to/mahroosanwar/i-get-data-through-api-but-unable-to-use-show-it-properly-in-reactjs-using-usestate-cnd)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Boostaro – &lpar;Legit or Scam&rpar; Reviews, Results, Benefits, Uses &amp; Price?](https://dev.to/boostarofa9291/boostaro-legit-or-scam-reviews-results-benefits-uses-price-1fnk)
 - [Dev.to/JS] [What is MVC? =&gt; 🤔 to 🤩.](https://dev.to/ashutosh7i/what-is-mvc-to--5a1)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;06-05-2023&rpar; - Mindblown Everything](https://dev.to/mjgs/this-weeks-newsletter-is-out-06-05-2023-mindblown-everything-n55)
-- [Dev.to/JS] [Improving Design System Visual Testing Consistency with Docker](https://dev.to/akbarnafisa/improving-design-system-visual-testing-consistency-with-docker-530a)
-- [Dev.to/JS] [Angular Life Cycle Hooks](https://dev.to/kafeel_ahmad/angular-life-cycle-hooks-2n47)
 - [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-you-can-get-right-now-1850409952)
 - [Lifehacker] [This App Can ID Any Bird In Your Neighborhood by Sight or Sound](https://lifehacker.com/this-app-can-id-any-bird-in-your-neighborhood-by-sight-1850409631)
 - [Lifehacker] [&#39;Swedish Death Cleaning&#39; Can Improve Your Life Right Now](https://lifehacker.com/swedish-death-cleaning-can-improve-your-life-right-now-1850409420)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Sex Life Needs Regular Exercise](https://lifehacker.com/your-sex-life-needs-regular-exercise-1850401555)
 - [Lifehacker] [Save on Your Electric Bill by Creating a ‘Climate Zone’ at Home](https://lifehacker.com/save-on-your-electric-bill-by-creating-a-climate-zone-1850402193)
 - [Lifehacker] [Use the Two Minute Rule to Stop Procrastinating](https://lifehacker.com/use-the-two-minute-rule-to-stop-procrastinating-1850404307)
-- [Lifehacker] [You Can Try Microsoft&#39;s New ChatGPT-Powered AI Search Right Now](https://lifehacker.com/how-to-try-microsofts-new-chatgpt-powered-ai-search-1850113463)
-- [Lifehacker] [These Battery-Powered Appliances Are Actually Worth It](https://lifehacker.com/these-battery-powered-appliances-are-actually-worth-it-1850404299)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Try Microsoft&#39;s New ChatGPT-Powered AI Search Right Now](https://lifehacker.com/how-to-try-microsofts-new-chatgpt-powered-ai-search-1850113463)<!-- TECH-POSTS:END -->
 
 ---
 
