@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Split Larger Serverless Application in to smaller micro-apps](https://dev.to/raaghu/split-larger-serverless-application-in-to-smaller-micro-apps-3l3b)
+- [Dev.to/JS] [Boostaro – &lpar;Legit or Scam&rpar; Reviews, Results, Benefits, Uses &amp; Price?](https://dev.to/boostarofa9291/boostaro-legit-or-scam-reviews-results-benefits-uses-price-1fnk)
 - [Dev.to/JS] [What is MVC? =&gt; 🤔 to 🤩.](https://dev.to/ashutosh7i/what-is-mvc-to--5a1)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;06-05-2023&rpar; - Mindblown Everything](https://dev.to/mjgs/this-weeks-newsletter-is-out-06-05-2023-mindblown-everything-n55)
 - [Dev.to/JS] [Improving Design System Visual Testing Consistency with Docker](https://dev.to/akbarnafisa/improving-design-system-visual-testing-consistency-with-docker-530a)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hostel management system project in PHP](https://dev.to/neerajm76404554/hostel-management-system-project-in-php-222i)
 - [Dev.to/JS] [Exploring useRef, useMemo, and the Challenges of Working with Multiple Components](https://dev.to/arashjangali/exploring-useref-usememo-and-the-challenges-of-working-with-multiple-components-227n)
 - [Dev.to/JS] [Functional Programming in Javascript](https://dev.to/titre123/functional-programming-in-javascript-67m)
-- [Dev.to/JS] [A Beginner&#39;s Guide to Regular Expressions Methods: Simplifying Syntax and Usage](https://dev.to/jnmedina32/a-beginners-guide-to-regular-expressions-methods-simplifying-syntax-and-usage-1jhl)
 - [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-you-can-get-right-now-1850409952)
-- [Dev.to/JS] [Programmatically Extract Signatures from PDF Using a JavaScript Viewer](https://dev.to/grapecity/programmatically-extract-signatures-from-pdf-using-a-javascript-viewer-43ce)
 - [Lifehacker] [This App Can ID Any Bird In Your Neighborhood by Sight or Sound](https://lifehacker.com/this-app-can-id-any-bird-in-your-neighborhood-by-sight-1850409631)
 - [Lifehacker] [&#39;Swedish Death Cleaning&#39; Can Improve Your Life Right Now](https://lifehacker.com/swedish-death-cleaning-can-improve-your-life-right-now-1850409420)
 - [Lifehacker] [Family Dollar Is Recalling These Advil Products, FDA Says](https://lifehacker.com/family-dollar-is-recalling-these-advil-products-fda-sa-1850409577)
