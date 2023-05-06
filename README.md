@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is MVC? =&gt; 🤔 to 🤩.](https://dev.to/ashutosh7i/what-is-mvc-to--5a1)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;06-05-2023&rpar; - Mindblown Everything](https://dev.to/mjgs/this-weeks-newsletter-is-out-06-05-2023-mindblown-everything-n55)
 - [Dev.to/JS] [Improving Design System Visual Testing Consistency with Docker](https://dev.to/akbarnafisa/improving-design-system-visual-testing-consistency-with-docker-530a)
 - [Dev.to/JS] [Angular Life Cycle Hooks](https://dev.to/kafeel_ahmad/angular-life-cycle-hooks-2n47)
 - [Dev.to/JS] [[Nestia] I made automatic e2e test functions generator for NestJS](https://dev.to/samchon/nestia-i-made-automatic-e2e-test-functions-generator-for-nestjs-4o3p)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Programmatically Extract Signatures from PDF Using a JavaScript Viewer](https://dev.to/grapecity/programmatically-extract-signatures-from-pdf-using-a-javascript-viewer-43ce)
 - [Lifehacker] [This App Can ID Any Bird In Your Neighborhood by Sight or Sound](https://lifehacker.com/this-app-can-id-any-bird-in-your-neighborhood-by-sight-1850409631)
 - [Lifehacker] [&#39;Swedish Death Cleaning&#39; Can Improve Your Life Right Now](https://lifehacker.com/swedish-death-cleaning-can-improve-your-life-right-now-1850409420)
-- [Dev.to/JS] [The Struggles of Becoming a Self Thaught Developer](https://dev.to/kristof1345/the-struggles-of-becoming-a-self-thaught-developer-4njo)
-- [Dev.to/JS] [Build a Loan Calculator with Form Controls in a JavaScript Spreadsheet](https://dev.to/grapecity/build-a-loan-calculator-with-form-controls-in-a-javascript-spreadsheet-340p)
 - [Lifehacker] [Family Dollar Is Recalling These Advil Products, FDA Says](https://lifehacker.com/family-dollar-is-recalling-these-advil-products-fda-sa-1850409577)
 - [Lifehacker] [Make This Easy, Creamy Four-Ingredient Lemon Dessert](https://lifehacker.com/make-this-easy-creamy-four-ingredient-lemon-dessert-1850409568)
 - [Lifehacker] [The Biggest Home Improvement Rebates You Can Get From the Government](https://lifehacker.com/the-biggest-home-improvement-rebates-you-can-get-from-t-1850407564)
