@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting started with Monorepo using NX](https://dev.to/thekrprince/getting-started-with-monorepo-using-nx-17j0)
+- [Dev.to/JS] [How to build a music player with HTML, CSS and javascript](https://dev.to/themba_sishuba/how-to-build-a-music-player-with-html-css-and-javascript-1me8)
+- [Dev.to/JS] [Mastering Debugging Techniques: Tips and Tricks to Effectively Find and Fix Errors in Your Code in Javascript](https://dev.to/zahoorcodes/mastering-debugging-techniques-tips-and-tricks-to-effectively-find-and-fix-errors-in-your-code-in-javascript-53ib)
+- [Lifehacker] [Use a Pool Noodle to Hang Dry Your Laundry](https://lifehacker.com/use-a-pool-noodle-to-hang-dry-your-laundry-1850410485)
 - [Dev.to/JS] [0–7 NestJS Hunter: Slaying Complexity in Node.js with TypeScript.](https://dev.to/refaatalktifan/0-7-nestjs-hunter-slaying-complexity-in-nodejs-with-typescript-4i38)
 - [Dev.to/JS] [0–6 NestJS Hunter: Slaying Complexity in Node.js with TypeScript.](https://dev.to/refaatalktifan/0-6-nestjs-hunter-slaying-complexity-in-nodejs-with-typescript-1nom)
 - [Dev.to/JS] [Using Event Bus in Vue.js 3](https://dev.to/certosinolab/using-event-bus-in-vuejs-3-1lg6)
@@ -34,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Yet Another Newsletter LOL: You&#39;re Holding it Wrong](https://dev.to/nickytonline/yet-another-newsletter-lol-youre-holding-it-wrong-2h9o)
 - [Dev.to/JS] [useEffect - The Hook React Never Should Have Rendered](https://dev.to/perssondennis/useeffect-the-hook-react-never-should-have-rendered-195h)
 - [Lifehacker] [The Difference Between Shrubs and Bushes &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-shrubs-and-bushes-and-why-it-ma-1850410499)
-- [Dev.to/JS] [Infinite scrolling](https://dev.to/navinso92429049/infinite-scrolling-58f7)
-- [Dev.to/JS] [Dep Tree - A tool for validating your project&#39;s file dependency graph in the CI](https://dev.to/gabotechs/dep-tree-a-tool-for-validating-your-projects-file-dependency-graph-in-the-ci-3b9a)
-- [Dev.to/JS] [Episode 23/18: Angular 16](https://dev.to/ng_news/episode-2318-angular-16-1f9)
 - [Lifehacker] [How to Save Wilted Roses in Your Garden](https://lifehacker.com/how-to-save-wilted-roses-in-your-garden-1850410557)
 - [Lifehacker] [These Are the Best and Worst States for Saving Money](https://lifehacker.com/these-are-the-best-and-worst-states-for-saving-money-1850410531)
 - [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Snack, Italian Style](https://lifehacker.com/how-to-snack-italian-style-1850405140)
 - [Lifehacker] [This App Makes Your Mac’s Keyboard Sound Vintage](https://lifehacker.com/this-app-makes-your-mac-s-keyboard-sound-vintage-1850402370)
 - [Lifehacker] [You Can Probably Get Reimbursed If Your Flight Price Drops](https://lifehacker.com/you-can-probably-get-reimbursed-if-your-flight-price-dr-1850405175)
-- [Lifehacker] [The Easiest Way to Stop Wet Wipes From Sticking Together](https://lifehacker.com/the-easiest-way-to-stop-wet-wipes-from-sticking-togethe-1850404988)
-- [Lifehacker] [Your Sex Life Needs Regular Exercise](https://lifehacker.com/your-sex-life-needs-regular-exercise-1850401555)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Stop Wet Wipes From Sticking Together](https://lifehacker.com/the-easiest-way-to-stop-wet-wipes-from-sticking-togethe-1850404988)<!-- TECH-POSTS:END -->
 
 ---
 
