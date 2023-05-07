@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Add Multiple Filter using one function in jQuery, Ajax](https://dev.to/shubhamraturi37/add-multiple-filter-using-one-function-in-jquery-ajax-1d56)
+- [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 函式](https://dev.to/sgssy/the-most-familiar-stranger-javascript-han-shi-4j14)
+- [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 陣列](https://dev.to/sgssy/the-most-familiar-stranger-javascript-zhen-lie-39gd)
+- [Dev.to/JS] [The Ultimate React Native Project | Apartments.com Clone](https://dev.to/jeremypersing/the-ultimate-react-native-project-apartmentscom-clone-1gfo)
 - [Dev.to/JS] [Truncate a String](https://dev.to/muhmmadawd/truncate-a-string-2efg)
 - [Dev.to/JS] [Repeat a String for Num times](https://dev.to/muhmmadawd/repeat-a-string-for-num-times-4i5g)
 - [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 物件](https://dev.to/sgssy/the-most-familiar-stranger-javascript-wu-jian-2me1)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Most Familiar Stranger - JavaScript - Garbage Collection](https://dev.to/sgssy/the-most-familiar-stranger-javascript-garbage-collection-1a19)
 - [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 閉包](https://dev.to/sgssy/the-most-familiar-stranger-javascript-bi-bao-bgk)
 - [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 變數](https://dev.to/sgssy/the-most-familiar-stranger-javascript-bian-shu-4mgg)
-- [Dev.to/JS] [An easy way to use a MySQL database in Node.js &lpar;Node.js MySQL vs Node.js MySQL + NanoQL&rpar;](https://dev.to/jahongir2007/an-easy-way-to-use-a-mysql-database-in-nodejs-nodejs-mysql-vs-nodejs-mysql-nanoql-3elb)
-- [Dev.to/JS] [React Components not rendering in browser](https://dev.to/highcenburg/react-components-not-rendering-in-browser-3e1l)
-- [Dev.to/JS] [The Heart of all Vue.js Applications: Vue Instance](https://dev.to/valentinaperic/the-heart-of-all-vuejs-applications-vue-instance-2c3g)
-- [Dev.to/JS] [Conquering the Undo Functionality Challenge: Day 96 of #100DaysOfCode](https://dev.to/arashjangali/conquering-the-undo-functionality-challenge-day-96-of-100daysofcode-4mc1)
 - [Lifehacker] [How to Save Wilted Roses in Your Garden](https://lifehacker.com/how-to-save-wilted-roses-in-your-garden-1850410557)
 - [Lifehacker] [These Are the Best and Worst States for Saving Money](https://lifehacker.com/these-are-the-best-and-worst-states-for-saving-money-1850410531)
 - [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
