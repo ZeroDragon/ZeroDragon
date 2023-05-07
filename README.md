@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Truncate a String](https://dev.to/muhmmadawd/truncate-a-string-2efg)
+- [Dev.to/JS] [Repeat a String for Num times](https://dev.to/muhmmadawd/repeat-a-string-for-num-times-4i5g)
 - [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 物件](https://dev.to/sgssy/the-most-familiar-stranger-javascript-wu-jian-2me1)
 - [Dev.to/JS] [The Most Familiar Stranger - JavaScripts - 型別](https://dev.to/sgssy/the-most-familiar-stranger-javascripts-xing-bie-498m)
 - [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 文法](https://dev.to/sgssy/the-most-familiar-stranger-javascript-wen-fa-258n)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Components not rendering in browser](https://dev.to/highcenburg/react-components-not-rendering-in-browser-3e1l)
 - [Dev.to/JS] [The Heart of all Vue.js Applications: Vue Instance](https://dev.to/valentinaperic/the-heart-of-all-vuejs-applications-vue-instance-2c3g)
 - [Dev.to/JS] [Conquering the Undo Functionality Challenge: Day 96 of #100DaysOfCode](https://dev.to/arashjangali/conquering-the-undo-functionality-challenge-day-96-of-100daysofcode-4mc1)
-- [Dev.to/JS] [[#2] KoreanCoding 101: operators, if... else, ternary operator](https://dev.to/haanna/2-koreancoding-101-operators-if-else-ternary-operator-28bm)
-- [Dev.to/JS] [[#1] KoreanCoding 101: Basic math &lpar;기초 수학&rpar;](https://dev.to/haanna/1-koreancoding-101-basic-math-gico-suhag-146p)
 - [Lifehacker] [How to Save Wilted Roses in Your Garden](https://lifehacker.com/how-to-save-wilted-roses-in-your-garden-1850410557)
 - [Lifehacker] [These Are the Best and Worst States for Saving Money](https://lifehacker.com/these-are-the-best-and-worst-states-for-saving-money-1850410531)
 - [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
