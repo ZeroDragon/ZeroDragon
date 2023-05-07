@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use an icon library to create an animated battery icon](https://dev.to/eyhab333/how-to-use-an-icon-library-to-create-an-animated-battery-icon-3j7f)
 - [Dev.to/JS] [10 Javascript/Typescript features I avoid](https://dev.to/nikolasbarwicki/10-javascripttypescript-features-i-avoid-1fn9)
 - [Dev.to/JS] [How I use NgTemplateOutlet in Angular - Part 1](https://dev.to/dimitarstbc/how-i-use-ngtemplateoutlet-in-angular-part-1-2p8m)
 - [Dev.to/JS] [Add Multiple Filter using one function in jQuery, Ajax](https://dev.to/shubhamraturi37/add-multiple-filter-using-one-function-in-jquery-ajax-1d56)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 物件](https://dev.to/sgssy/the-most-familiar-stranger-javascript-wu-jian-2me1)
 - [Dev.to/JS] [The Most Familiar Stranger - JavaScripts - 型別](https://dev.to/sgssy/the-most-familiar-stranger-javascripts-xing-bie-498m)
 - [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 文法](https://dev.to/sgssy/the-most-familiar-stranger-javascript-wen-fa-258n)
-- [Dev.to/JS] [The Most Familiar Stranger - JavaScript - Garbage Collection](https://dev.to/sgssy/the-most-familiar-stranger-javascript-garbage-collection-1a19)
 - [Lifehacker] [How to Save Wilted Roses in Your Garden](https://lifehacker.com/how-to-save-wilted-roses-in-your-garden-1850410557)
 - [Lifehacker] [These Are the Best and Worst States for Saving Money](https://lifehacker.com/these-are-the-best-and-worst-states-for-saving-money-1850410531)
 - [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
