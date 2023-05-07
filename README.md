@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [An easy way to use a MySQL database in Node.js &lpar;Node.js MySQL vs Node.js MySQL + NanoQL&rpar;](https://dev.to/jahongir2007/an-easy-way-to-use-a-mysql-database-in-nodejs-nodejs-mysql-vs-nodejs-mysql-nanoql-3elb)
+- [Dev.to/JS] [React Components not rendering in browser](https://dev.to/highcenburg/react-components-not-rendering-in-browser-3e1l)
 - [Dev.to/JS] [The Heart of all Vue.js Applications: Vue Instance](https://dev.to/valentinaperic/the-heart-of-all-vuejs-applications-vue-instance-2c3g)
 - [Dev.to/JS] [Conquering the Undo Functionality Challenge: Day 96 of #100DaysOfCode](https://dev.to/arashjangali/conquering-the-undo-functionality-challenge-day-96-of-100daysofcode-4mc1)
 - [Dev.to/JS] [[#2] KoreanCoding 101: operators, if... else, ternary operator](https://dev.to/haanna/2-koreancoding-101-operators-if-else-ternary-operator-28bm)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I built a Tic Tac Toe Game using vanilla Javascript.](https://dev.to/husayn01/how-i-built-a-tic-tac-toe-game-using-vanilla-javascript-40bh)
 - [Dev.to/JS] [Constructing a Personalized ChatGPT Assistant: Optimize Your Documentation with SEO Techniques](https://dev.to/itsahsanmangal/constructing-a-personalized-chatgpt-assistant-optimize-your-documentation-with-seo-techniques-1edd)
 - [Dev.to/JS] [AbortController manage memory efficiently to ensure optimal performance](https://dev.to/tgmarinhodev/abortcontroller-manage-memory-efficiently-to-ensure-optimal-performance-2j82)
-- [Dev.to/JS] [How Streams works in Nodejs](https://dev.to/clericcoder/how-streams-works-in-nodejs-580d)
-- [Dev.to/JS] [Presentations with PPtxGenJs in Ruby on Rails](https://dev.to/timnans/presentations-with-pptxgenjs-in-ruby-on-rails-m0b)
 - [Lifehacker] [How to Save Wilted Roses in Your Garden](https://lifehacker.com/how-to-save-wilted-roses-in-your-garden-1850410557)
 - [Lifehacker] [These Are the Best and Worst States for Saving Money](https://lifehacker.com/these-are-the-best-and-worst-states-for-saving-money-1850410531)
 - [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
