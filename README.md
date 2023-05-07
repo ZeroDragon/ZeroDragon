@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Lambda will enhance your app scalability](https://dev.to/shubhamb/how-lambda-will-enhance-your-app-scalability-m40)
 - [Lifehacker] [How to Save Money When Negotiating to Buy a Certified Pre-Owned Car](https://lifehacker.com/how-to-save-money-when-negotiating-to-buy-a-certified-p-1850410494)
 - [Dev.to/JS] [7 killer web apps you should start using in 2023](https://dev.to/durgesh4993/7-killer-web-apps-you-should-start-using-in-2023-e1p)
 - [Dev.to/JS] [Yet Another Newsletter LOL: You&#39;re Holding it Wrong](https://dev.to/nickytonline/yet-another-newsletter-lol-youre-holding-it-wrong-2h9o)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Javascript/Typescript features I avoid](https://dev.to/nikolasbarwicki/10-javascripttypescript-features-i-avoid-1fn9)
 - [Dev.to/JS] [How I use NgTemplateOutlet in Angular - Part 1](https://dev.to/dimitarstbc/how-i-use-ngtemplateoutlet-in-angular-part-1-2p8m)
 - [Dev.to/JS] [Add Multiple Filter using one function in jQuery, Ajax](https://dev.to/shubhamraturi37/add-multiple-filter-using-one-function-in-jquery-ajax-1d56)
-- [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 函式](https://dev.to/sgssy/the-most-familiar-stranger-javascript-han-shi-4j14)
 - [Lifehacker] [How to Save Wilted Roses in Your Garden](https://lifehacker.com/how-to-save-wilted-roses-in-your-garden-1850410557)
 - [Lifehacker] [These Are the Best and Worst States for Saving Money](https://lifehacker.com/these-are-the-best-and-worst-states-for-saving-money-1850410531)
 - [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
