@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [0–7 NestJS Hunter: Slaying Complexity in Node.js with TypeScript.](https://dev.to/refaatalktifan/0-7-nestjs-hunter-slaying-complexity-in-nodejs-with-typescript-4i38)
+- [Dev.to/JS] [0–6 NestJS Hunter: Slaying Complexity in Node.js with TypeScript.](https://dev.to/refaatalktifan/0-6-nestjs-hunter-slaying-complexity-in-nodejs-with-typescript-1nom)
+- [Dev.to/JS] [Using Event Bus in Vue.js 3](https://dev.to/certosinolab/using-event-bus-in-vuejs-3-1lg6)
+- [Dev.to/JS] [0–5 NestJS Hunter: Slaying Complexity in Node.js with TypeScript.](https://dev.to/refaatalktifan/0-5-nestjs-hunter-slaying-complexity-in-nodejs-with-typescript-1ao9)
+- [Dev.to/JS] [0–4 NestJS Hunter: Slaying Complexity in Node.js with TypeScript.](https://dev.to/refaatalktifan/0-4-nestjs-hunter-slaying-complexity-in-nodejs-with-typescript-akg)
 - [Dev.to/JS] [How Lambda will enhance your app scalability](https://dev.to/shubhamb/how-lambda-will-enhance-your-app-scalability-m40)
 - [Lifehacker] [How to Save Money When Negotiating to Buy a Certified Pre-Owned Car](https://lifehacker.com/how-to-save-money-when-negotiating-to-buy-a-certified-p-1850410494)
 - [Dev.to/JS] [7 killer web apps you should start using in 2023](https://dev.to/durgesh4993/7-killer-web-apps-you-should-start-using-in-2023-e1p)
@@ -32,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Infinite scrolling](https://dev.to/navinso92429049/infinite-scrolling-58f7)
 - [Dev.to/JS] [Dep Tree - A tool for validating your project&#39;s file dependency graph in the CI](https://dev.to/gabotechs/dep-tree-a-tool-for-validating-your-projects-file-dependency-graph-in-the-ci-3b9a)
 - [Dev.to/JS] [Episode 23/18: Angular 16](https://dev.to/ng_news/episode-2318-angular-16-1f9)
-- [Dev.to/JS] [Why URL Shortening is a Must-Have Tool for Affiliate Marketers](https://dev.to/urlty/why-url-shortening-is-a-must-have-tool-for-affiliate-marketers-5b9i)
-- [Dev.to/JS] [How to use an icon library to create an animated battery icon](https://dev.to/eyhab333/how-to-use-an-icon-library-to-create-an-animated-battery-icon-3j7f)
-- [Dev.to/JS] [10 Javascript/Typescript features I avoid](https://dev.to/nikolasbarwicki/10-javascripttypescript-features-i-avoid-1fn9)
-- [Dev.to/JS] [How I use NgTemplateOutlet in Angular - Part 1](https://dev.to/dimitarstbc/how-i-use-ngtemplateoutlet-in-angular-part-1-2p8m)
-- [Dev.to/JS] [Add Multiple Filter using one function in jQuery, Ajax](https://dev.to/shubhamraturi37/add-multiple-filter-using-one-function-in-jquery-ajax-1d56)
 - [Lifehacker] [How to Save Wilted Roses in Your Garden](https://lifehacker.com/how-to-save-wilted-roses-in-your-garden-1850410557)
 - [Lifehacker] [These Are the Best and Worst States for Saving Money](https://lifehacker.com/these-are-the-best-and-worst-states-for-saving-money-1850410531)
 - [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
