@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [{#4}Primitives and Objects in JavaScript | JavaScript](https://dev.to/sksage/4primitives-and-objects-in-javascript-javascript-5984)
+- [Dev.to/JS] [Starting blogs...](https://dev.to/oneplusiota/starting-blogs-4709)
+- [Dev.to/JS] [What is JavaScript](https://dev.to/codeauthor/what-is-javascript-3h94)
 - [Dev.to/JS] [Why TypeScript is the better JavaScript](https://dev.to/typescripttv/why-typescript-is-the-better-javascript-f5p)
 - [Dev.to/JS] [Websites to practice anything&lpar;free&rpar;, Tech only!](https://dev.to/saifullah/websites-to-practice-anythingfree-tech-only-3mkh)
 - [Dev.to/JS] [IMAGE/FILE UPLOAD IN NODE.JS WITH CLOUDINARY](https://dev.to/candie_code/imagefile-upload-in-nodejs-with-cloudinary-3b83)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Debugging Techniques: Tips and Tricks to Effectively Find and Fix Errors in Your Code in Javascript](https://dev.to/zahoorcodes/mastering-debugging-techniques-tips-and-tricks-to-effectively-find-and-fix-errors-in-your-code-in-javascript-53ib)
 - [Lifehacker] [Use a Pool Noodle to Hang Dry Your Laundry](https://lifehacker.com/use-a-pool-noodle-to-hang-dry-your-laundry-1850410485)
 - [Dev.to/JS] [0–7 NestJS Hunter: Slaying Complexity in Node.js with TypeScript.](https://dev.to/refaatalktifan/0-7-nestjs-hunter-slaying-complexity-in-nodejs-with-typescript-4i38)
-- [Dev.to/JS] [0–6 NestJS Hunter: Slaying Complexity in Node.js with TypeScript.](https://dev.to/refaatalktifan/0-6-nestjs-hunter-slaying-complexity-in-nodejs-with-typescript-1nom)
-- [Dev.to/JS] [Using Event Bus in Vue.js 3](https://dev.to/certosinolab/using-event-bus-in-vuejs-3-1lg6)
-- [Dev.to/JS] [0–5 NestJS Hunter: Slaying Complexity in Node.js with TypeScript.](https://dev.to/refaatalktifan/0-5-nestjs-hunter-slaying-complexity-in-nodejs-with-typescript-1ao9)
 - [Lifehacker] [How to Save Money When Negotiating to Buy a Certified Pre-Owned Car](https://lifehacker.com/how-to-save-money-when-negotiating-to-buy-a-certified-p-1850410494)
 - [Lifehacker] [The Difference Between Shrubs and Bushes &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-shrubs-and-bushes-and-why-it-ma-1850410499)
 - [Lifehacker] [How to Save Wilted Roses in Your Garden](https://lifehacker.com/how-to-save-wilted-roses-in-your-garden-1850410557)
