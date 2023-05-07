@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I use NgTemplateOutlet in Angular - Part 1](https://dev.to/dimitarstbc/how-i-use-ngtemplateoutlet-in-angular-part-1-2p8m)
 - [Dev.to/JS] [Add Multiple Filter using one function in jQuery, Ajax](https://dev.to/shubhamraturi37/add-multiple-filter-using-one-function-in-jquery-ajax-1d56)
 - [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 函式](https://dev.to/sgssy/the-most-familiar-stranger-javascript-han-shi-4j14)
 - [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 陣列](https://dev.to/sgssy/the-most-familiar-stranger-javascript-zhen-lie-39gd)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 文法](https://dev.to/sgssy/the-most-familiar-stranger-javascript-wen-fa-258n)
 - [Dev.to/JS] [The Most Familiar Stranger - JavaScript - Garbage Collection](https://dev.to/sgssy/the-most-familiar-stranger-javascript-garbage-collection-1a19)
 - [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 閉包](https://dev.to/sgssy/the-most-familiar-stranger-javascript-bi-bao-bgk)
-- [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 變數](https://dev.to/sgssy/the-most-familiar-stranger-javascript-bian-shu-4mgg)
 - [Lifehacker] [How to Save Wilted Roses in Your Garden](https://lifehacker.com/how-to-save-wilted-roses-in-your-garden-1850410557)
 - [Lifehacker] [These Are the Best and Worst States for Saving Money](https://lifehacker.com/these-are-the-best-and-worst-states-for-saving-money-1850410531)
 - [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
