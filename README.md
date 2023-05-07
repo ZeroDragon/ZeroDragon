@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between Shrubs and Bushes &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-shrubs-and-bushes-and-why-it-ma-1850410499)
+- [Dev.to/JS] [Infinite scrolling](https://dev.to/navinso92429049/infinite-scrolling-58f7)
+- [Dev.to/JS] [Dep Tree - A tool for validating your project&#39;s file dependency graph in the CI](https://dev.to/gabotechs/dep-tree-a-tool-for-validating-your-projects-file-dependency-graph-in-the-ci-3b9a)
 - [Dev.to/JS] [Episode 23/18: Angular 16](https://dev.to/ng_news/episode-2318-angular-16-1f9)
 - [Dev.to/JS] [Why URL Shortening is a Must-Have Tool for Affiliate Marketers](https://dev.to/urlty/why-url-shortening-is-a-must-have-tool-for-affiliate-marketers-5b9i)
 - [Dev.to/JS] [How to use an icon library to create an animated battery icon](https://dev.to/eyhab333/how-to-use-an-icon-library-to-create-an-animated-battery-icon-3j7f)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 陣列](https://dev.to/sgssy/the-most-familiar-stranger-javascript-zhen-lie-39gd)
 - [Dev.to/JS] [The Ultimate React Native Project | Apartments.com Clone](https://dev.to/jeremypersing/the-ultimate-react-native-project-apartmentscom-clone-1gfo)
 - [Dev.to/JS] [Truncate a String](https://dev.to/muhmmadawd/truncate-a-string-2efg)
-- [Dev.to/JS] [Repeat a String for Num times](https://dev.to/muhmmadawd/repeat-a-string-for-num-times-4i5g)
-- [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 物件](https://dev.to/sgssy/the-most-familiar-stranger-javascript-wu-jian-2me1)
 - [Lifehacker] [How to Save Wilted Roses in Your Garden](https://lifehacker.com/how-to-save-wilted-roses-in-your-garden-1850410557)
 - [Lifehacker] [These Are the Best and Worst States for Saving Money](https://lifehacker.com/these-are-the-best-and-worst-states-for-saving-money-1850410531)
 - [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Probably Get Reimbursed If Your Flight Price Drops](https://lifehacker.com/you-can-probably-get-reimbursed-if-your-flight-price-dr-1850405175)
 - [Lifehacker] [The Easiest Way to Stop Wet Wipes From Sticking Together](https://lifehacker.com/the-easiest-way-to-stop-wet-wipes-from-sticking-togethe-1850404988)
 - [Lifehacker] [Your Sex Life Needs Regular Exercise](https://lifehacker.com/your-sex-life-needs-regular-exercise-1850401555)
-- [Lifehacker] [Save on Your Electric Bill by Creating a ‘Climate Zone’ at Home](https://lifehacker.com/save-on-your-electric-bill-by-creating-a-climate-zone-1850402193)
-- [Lifehacker] [Use the Two Minute Rule to Stop Procrastinating](https://lifehacker.com/use-the-two-minute-rule-to-stop-procrastinating-1850404307)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Save on Your Electric Bill by Creating a ‘Climate Zone’ at Home](https://lifehacker.com/save-on-your-electric-bill-by-creating-a-climate-zone-1850402193)<!-- TECH-POSTS:END -->
 
 ---
 
