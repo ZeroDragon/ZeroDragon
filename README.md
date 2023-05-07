@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Debrief on Svelte: Compile before Sending](https://dev.to/drewbxkewb/a-debrief-on-svelte-compile-before-sending-1j8)
+- [Dev.to/JS] [Pokémouille - A Modern, Fast, and Easy-to-Use Pokémon Encyclopedia](https://dev.to/vaalley/pokemouille-a-modern-fast-and-easy-to-use-pokemon-encyclopedia-1pha)
+- [Dev.to/JS] [Planning Ahead: Goals for the Week](https://dev.to/arashjangali/planning-ahead-goals-for-the-week-1d0h)
+- [Dev.to/JS] [POTMY WEB-APP](https://dev.to/insidbyte/potmy-web-app-mj6)
 - [Dev.to/JS] [{#4}Primitives and Objects in JavaScript | JavaScript](https://dev.to/sksage/4primitives-and-objects-in-javascript-javascript-5984)
-- [Dev.to/JS] [Starting blogs...](https://dev.to/oneplusiota/starting-blogs-4709)
 - [Dev.to/JS] [What is JavaScript](https://dev.to/codeauthor/what-is-javascript-3h94)
 - [Dev.to/JS] [Why TypeScript is the better JavaScript](https://dev.to/typescripttv/why-typescript-is-the-better-javascript-f5p)
 - [Dev.to/JS] [Websites to practice anything&lpar;free&rpar;, Tech only!](https://dev.to/saifullah/websites-to-practice-anythingfree-tech-only-3mkh)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What the f*** is TypeScript?](https://dev.to/lausuarez02/what-the-f-is-typescript-53a)
 - [Dev.to/JS] [Redux Middleware: How to use and create Middleware in Redux](https://dev.to/captainprinz/redux-middleware-how-to-use-and-create-middleware-in-redux-2ikh)
 - [Dev.to/JS] [Getting started with Monorepo using NX](https://dev.to/thekrprince/getting-started-with-monorepo-using-nx-17j0)
-- [Dev.to/JS] [How to build a music player with HTML, CSS and javascript](https://dev.to/themba_sishuba/how-to-build-a-music-player-with-html-css-and-javascript-1me8)
-- [Dev.to/JS] [Mastering Debugging Techniques: Tips and Tricks to Effectively Find and Fix Errors in Your Code in Javascript](https://dev.to/zahoorcodes/mastering-debugging-techniques-tips-and-tricks-to-effectively-find-and-fix-errors-in-your-code-in-javascript-53ib)
 - [Lifehacker] [Use a Pool Noodle to Hang Dry Your Laundry](https://lifehacker.com/use-a-pool-noodle-to-hang-dry-your-laundry-1850410485)
-- [Dev.to/JS] [0–7 NestJS Hunter: Slaying Complexity in Node.js with TypeScript.](https://dev.to/refaatalktifan/0-7-nestjs-hunter-slaying-complexity-in-nodejs-with-typescript-4i38)
 - [Lifehacker] [How to Save Money When Negotiating to Buy a Certified Pre-Owned Car](https://lifehacker.com/how-to-save-money-when-negotiating-to-buy-a-certified-p-1850410494)
 - [Lifehacker] [The Difference Between Shrubs and Bushes &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-shrubs-and-bushes-and-why-it-ma-1850410499)
 - [Lifehacker] [How to Save Wilted Roses in Your Garden](https://lifehacker.com/how-to-save-wilted-roses-in-your-garden-1850410557)
