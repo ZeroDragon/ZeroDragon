@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Heart of all Vue.js Applications: Vue Instance](https://dev.to/valentinaperic/the-heart-of-all-vuejs-applications-vue-instance-2c3g)
 - [Dev.to/JS] [Conquering the Undo Functionality Challenge: Day 96 of #100DaysOfCode](https://dev.to/arashjangali/conquering-the-undo-functionality-challenge-day-96-of-100daysofcode-4mc1)
 - [Dev.to/JS] [[#2] KoreanCoding 101: operators, if... else, ternary operator](https://dev.to/haanna/2-koreancoding-101-operators-if-else-ternary-operator-28bm)
 - [Dev.to/JS] [[#1] KoreanCoding 101: Basic math &lpar;기초 수학&rpar;](https://dev.to/haanna/1-koreancoding-101-basic-math-gico-suhag-146p)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AbortController manage memory efficiently to ensure optimal performance](https://dev.to/tgmarinhodev/abortcontroller-manage-memory-efficiently-to-ensure-optimal-performance-2j82)
 - [Dev.to/JS] [How Streams works in Nodejs](https://dev.to/clericcoder/how-streams-works-in-nodejs-580d)
 - [Dev.to/JS] [Presentations with PPtxGenJs in Ruby on Rails](https://dev.to/timnans/presentations-with-pptxgenjs-in-ruby-on-rails-m0b)
-- [Dev.to/JS] [Como criar uma packege/lib npm ?](https://dev.to/guiffsouza/como-criar-uma-packegelib-npm--440n)
 - [Lifehacker] [How to Save Wilted Roses in Your Garden](https://lifehacker.com/how-to-save-wilted-roses-in-your-garden-1850410557)
 - [Lifehacker] [These Are the Best and Worst States for Saving Money](https://lifehacker.com/these-are-the-best-and-worst-states-for-saving-money-1850410531)
 - [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
