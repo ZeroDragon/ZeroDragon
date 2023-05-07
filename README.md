@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Episode 23/18: Angular 16](https://dev.to/ng_news/episode-2318-angular-16-1f9)
+- [Dev.to/JS] [Why URL Shortening is a Must-Have Tool for Affiliate Marketers](https://dev.to/urlty/why-url-shortening-is-a-must-have-tool-for-affiliate-marketers-5b9i)
 - [Dev.to/JS] [How to use an icon library to create an animated battery icon](https://dev.to/eyhab333/how-to-use-an-icon-library-to-create-an-animated-battery-icon-3j7f)
 - [Dev.to/JS] [10 Javascript/Typescript features I avoid](https://dev.to/nikolasbarwicki/10-javascripttypescript-features-i-avoid-1fn9)
 - [Dev.to/JS] [How I use NgTemplateOutlet in Angular - Part 1](https://dev.to/dimitarstbc/how-i-use-ngtemplateoutlet-in-angular-part-1-2p8m)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Truncate a String](https://dev.to/muhmmadawd/truncate-a-string-2efg)
 - [Dev.to/JS] [Repeat a String for Num times](https://dev.to/muhmmadawd/repeat-a-string-for-num-times-4i5g)
 - [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 物件](https://dev.to/sgssy/the-most-familiar-stranger-javascript-wu-jian-2me1)
-- [Dev.to/JS] [The Most Familiar Stranger - JavaScripts - 型別](https://dev.to/sgssy/the-most-familiar-stranger-javascripts-xing-bie-498m)
-- [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 文法](https://dev.to/sgssy/the-most-familiar-stranger-javascript-wen-fa-258n)
 - [Lifehacker] [How to Save Wilted Roses in Your Garden](https://lifehacker.com/how-to-save-wilted-roses-in-your-garden-1850410557)
 - [Lifehacker] [These Are the Best and Worst States for Saving Money](https://lifehacker.com/these-are-the-best-and-worst-states-for-saving-money-1850410531)
 - [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
