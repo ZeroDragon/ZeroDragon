@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Functions vs. Procedures: Keep them separate.](https://dev.to/redbar0n/functions-vs-procedures-keep-them-separate-5ed7)
+- [Dev.to/JS] [Object.seal&lpar;&rpar; vs Object.freeze&lpar;&rpar;](https://dev.to/merudra754/objectseal-vs-objectfreeze-ejm)
 - [Lifehacker] [These Recalled COVID Tests May Be Contaminated With Bacteria](https://lifehacker.com/these-recalled-covid-tests-may-be-contaminated-with-bac-1850415759)
+- [Dev.to/JS] [I built a Formik Alternative 🤫, here&#39;s how](https://dev.to/creatorslook/i-built-a-formik-alternative-heres-how-440o)
 - [Dev.to/JS] [Build a JavaScript Cash Flow Application with Cascading Sparklines](https://dev.to/grapecity/build-a-javascript-cash-flow-application-with-cascading-sparklines-3bf0)
 - [Lifehacker] [Always Ask These Three Questions Before Paying a Medical Bill](https://lifehacker.com/always-ask-these-three-questions-before-paying-a-medica-1850415814)
 - [Dev.to/JS] [Unleash Your Inner AI Superhero: 5 Must-Have Tools for the Modern Innovator](https://dev.to/thenomadevel/unleash-your-inner-ai-superhero-5-must-have-tools-for-the-modern-innovator-pad)
@@ -39,12 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create a Dynamic JavaScript Amortization Table Application](https://dev.to/grapecity/how-to-create-a-dynamic-javascript-amortization-table-application-1llo)
 - [Lifehacker] [Your Guide to 13 Alternative Flours](https://lifehacker.com/your-guide-to-13-alternative-flours-1850414480)
 - [Lifehacker] [The Gross Things Your Kids Eat That Are Dangerous &lpar;and the Ones That Are Just Gross&rpar;](https://lifehacker.com/the-gross-things-your-kids-eat-that-are-dangerous-and-1850414968)
-- [Dev.to/JS] [Improving Angular Rendering Performance with TrackBy Function and Change Detection Strategy](https://dev.to/imbhanu47/improving-angular-rendering-performance-with-trackby-function-and-change-detection-strategy-1llj)
 - [Lifehacker] [You Can Formally Appeal Your Bad &#39;Final&#39; Grade](https://lifehacker.com/you-can-formally-appeal-your-bad-final-grade-1850414707)
 - [Lifehacker] [The Best Way to Stop Jumping Worms From Invading Your Garden](https://lifehacker.com/the-best-way-to-stop-jumping-worms-from-invading-your-g-1850414628)
-- [Dev.to/JS] [Writing Game Mods Changed My Life](https://dev.to/stuyk/writing-game-mods-changed-my-life-17i)
 - [Lifehacker] [Claim These PlayStation Plus Collection Games Before Sony Takes Them Away Forever](https://lifehacker.com/claim-these-playstation-plus-collection-games-before-so-1850414479)
-- [Dev.to/JS] [How to Import and Export Excel XLSX Using Node.js](https://dev.to/grapecity/how-to-import-and-export-excel-xlsx-using-nodejs-1n8g)
 - [Lifehacker] [That Old Bundt Pan Will Make the Perfect Tabletop Flower Pot](https://lifehacker.com/that-old-bundt-pan-will-make-the-perfect-tabletop-flowe-1850414403)
 - [Lifehacker] [When Nutrition Timing Actually Matters](https://lifehacker.com/when-nutrition-timing-actually-matters-1850410324)
 - [Lifehacker] [How to Plant a Low-Maintenance and Drought-Resistant Gravel Garden](https://lifehacker.com/how-to-plant-a-low-maintenance-and-drought-resistant-gr-1850413911)
