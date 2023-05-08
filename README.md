@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Brick House Needs Weep Hole Covers](https://lifehacker.com/your-brick-house-needs-weep-hole-covers-1850415342)
+- [Lifehacker] [Relive Your Childhood Games With This Free CD-ROM Archive](https://lifehacker.com/relive-your-childhood-games-with-this-free-cd-rom-archi-1850408876)
+- [Dev.to/JS] [Decentralized Applications &lpar;dApps&rpar;: Definition, Uses, Pros and Cons](https://dev.to/franklinholguin/decentralized-applications-dapps-definition-uses-pros-and-cons-41mb)
+- [Dev.to/JS] [Spread and Rest operator in JS](https://dev.to/saifullah/spread-and-rest-operator-in-js-jgm)
+- [Dev.to/JS] [How to create a developer blog with Storyblok and Nextjs.](https://dev.to/amissah17/how-to-create-a-developer-blog-with-storyblok-and-nextjs-13ad)
+- [Dev.to/JS] [Understanding Angular ControlValueAccessor](https://dev.to/krishhnaa/understanding-angular-controlvalueaccessor-482h)
+- [Lifehacker] [The Best Places to Sell Your Textbooks &lpar;and When You Can’t&rpar;](https://lifehacker.com/the-best-places-to-sell-your-textbooks-and-when-you-ca-1850415184)
 - [Dev.to/JS] [How to Create a Dynamic JavaScript Amortization Table Application](https://dev.to/grapecity/how-to-create-a-dynamic-javascript-amortization-table-application-1llo)
 - [Lifehacker] [Your Guide to 13 Alternative Flours](https://lifehacker.com/your-guide-to-13-alternative-flours-1850414480)
 - [Lifehacker] [The Gross Things Your Kids Eat That Are Dangerous &lpar;and the Ones That Are Just Gross&rpar;](https://lifehacker.com/the-gross-things-your-kids-eat-that-are-dangerous-and-1850414968)
@@ -37,11 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [23 Best CSS Frameworks For React In 2023](https://dev.to/scofieldidehen/23-best-css-frameworks-for-react-in-2023-4pcg)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, May 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-may-2023-29jb)
 - [Dev.to/JS] [Pastes.io update v1.2.2](https://dev.to/pastes/pastesio-update-v122-1ode)
-- [Dev.to/JS] [My Journey to GSoC&#39;2023](https://dev.to/prerna0202/my-journey-to-gsoc2023-656)
 - [Lifehacker] [When Nutrition Timing Actually Matters](https://lifehacker.com/when-nutrition-timing-actually-matters-1850410324)
-- [Dev.to/JS] [Error handling in the JavaScript Fetch API](https://dev.to/thecharacterv/error-handling-in-the-javascript-fetch-api-1f7a)
-- [Dev.to/JS] [Is writing Modular code that tough in React Js?](https://dev.to/sanjampreetsingh/is-writing-modular-code-that-tough-in-react-js-1l3g)
-- [Dev.to/JS] [I&#39;m tired of searching job](https://dev.to/benlad_1/im-tired-of-searching-job-1iml)
 - [Lifehacker] [How to Plant a Low-Maintenance and Drought-Resistant Gravel Garden](https://lifehacker.com/how-to-plant-a-low-maintenance-and-drought-resistant-gr-1850413911)
 - [Lifehacker] [You Can Overcome &#39;Creative Mortification&#39;](https://lifehacker.com/you-can-overcome-creative-mortification-1850410617)
 - [Lifehacker] [The Best Way to Eat the Crumbs From a Bag of Chips](https://lifehacker.com/the-best-way-to-eat-the-crumbs-from-a-bag-of-chips-1850410597)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;Swedish Death Cleaning&#39; Can Improve Your Life Right Now](https://lifehacker.com/swedish-death-cleaning-can-improve-your-life-right-now-1850409420)
 - [Lifehacker] [Family Dollar Is Recalling These Advil Products, FDA Says](https://lifehacker.com/family-dollar-is-recalling-these-advil-products-fda-sa-1850409577)
 - [Lifehacker] [Make This Easy, Creamy Four-Ingredient Lemon Dessert](https://lifehacker.com/make-this-easy-creamy-four-ingredient-lemon-dessert-1850409568)
-- [Lifehacker] [The Biggest Home Improvement Rebates You Can Get From the Government](https://lifehacker.com/the-biggest-home-improvement-rebates-you-can-get-from-t-1850407564)
-- [Lifehacker] [Here&#39;s What&#39;s New in the Latest WhatsApp Update](https://lifehacker.com/heres-whats-new-in-the-latest-whatsapp-update-1850408309)
-- [Lifehacker] [Only Morons Use ChatGPT As a Substitute for Google](https://lifehacker.com/only-morons-use-chatgpt-as-a-substitute-for-google-1850408688)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Is Tubi Secretly the Best Streaming Service?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-tubi-1850406662)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Biggest Home Improvement Rebates You Can Get From the Government](https://lifehacker.com/the-biggest-home-improvement-rebates-you-can-get-from-t-1850407564)<!-- TECH-POSTS:END -->
 
 ---
 
