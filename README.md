@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [memo vs useMemo in React](https://dev.to/alakkadshaw/memo-vs-usememo-in-react-ddb)
+- [Lifehacker] [You Can Overcome &#39;Creative Mortification&#39;](https://lifehacker.com/you-can-overcome-creative-mortification-1850410617)
+- [Dev.to/JS] [What is a slug and how to create one?](https://dev.to/dhairyashah/what-is-a-slug-and-how-to-create-one-j9f)
+- [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#19&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-19-147b)
 - [Lifehacker] [The Best Way to Eat the Crumbs From a Bag of Chips](https://lifehacker.com/the-best-way-to-eat-the-crumbs-from-a-bag-of-chips-1850410597)
 - [Dev.to/JS] [Looking for somewhere to contribute!](https://dev.to/neryhub/looking-for-somewhere-to-contribute-4c2e)
 - [Lifehacker] [Eight Signs Your Kid Is Starved for Attention](https://lifehacker.com/eight-signs-your-kid-is-starved-for-attention-1850409326)
@@ -36,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Proven Formula for Unbeatable Salesforce Architecture Design](https://dev.to/datarecove95829/proven-formula-for-unbeatable-salesforce-architecture-design-5863)
 - [Dev.to/JS] [Designing a User-Friendly Course Catalog With Pink Design and Nuxt](https://dev.to/hackmamba/designing-a-user-friendly-course-catalog-with-pink-design-and-nuxt-5bdg)
 - [Dev.to/JS] [how to populate a Stacked Bar Chart in plain javascript](https://dev.to/rickdelpo1/how-to-populate-a-stacked-bar-chart-in-plain-javascript-12p9)
-- [Dev.to/JS] [usePersistentState: A simple interface to persists state variables in localStorage](https://dev.to/receter/usepersistentstate-3fn8)
-- [Dev.to/JS] [Create a Number Guessing Game using Node JS](https://dev.to/piyushkdas0611/create-a-number-guessing-game-using-node-js-50a)
-- [Dev.to/JS] [Unlocking your website&#39;s potential: eliminate render-blocking resources](https://dev.to/seppegadeyne/unlocking-your-websites-potential-eliminate-render-blocking-resources-26i2)
 - [Lifehacker] [Use a Pool Noodle to Hang Dry Your Laundry](https://lifehacker.com/use-a-pool-noodle-to-hang-dry-your-laundry-1850410485)
 - [Lifehacker] [How to Save Money When Negotiating to Buy a Certified Pre-Owned Car](https://lifehacker.com/how-to-save-money-when-negotiating-to-buy-a-certified-p-1850410494)
 - [Lifehacker] [The Difference Between Shrubs and Bushes &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-shrubs-and-bushes-and-why-it-ma-1850410499)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Start Your Day the Brazilian Way, With a Cake](https://lifehacker.com/start-your-day-the-brazilian-way-with-a-cake-1850406333)
 - [Lifehacker] [Your Kitchen Needs a Little Fan](https://lifehacker.com/your-kitchen-needs-a-little-fan-1850406218)
 - [Lifehacker] [You Should Keep a House Diary](https://lifehacker.com/you-should-keep-a-house-diary-1850402253)
-- [Lifehacker] [10 of the Best Corporate Biopics Ever](https://lifehacker.com/10-of-the-best-corporate-biopics-ever-1850389811)
-- [Lifehacker] [Five Things Scammers Are Hoping You Google](https://lifehacker.com/five-things-scammers-are-hoping-you-google-1850405964)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 of the Best Corporate Biopics Ever](https://lifehacker.com/10-of-the-best-corporate-biopics-ever-1850389811)<!-- TECH-POSTS:END -->
 
 ---
 
