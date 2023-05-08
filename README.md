@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Common fs module functions in Node js](https://dev.to/isaacttonyloi/common-fs-module-functions-in-node-js-3lh7)
+- [Dev.to/JS] [Leveraging Cache to improve Web Performance](https://dev.to/jacobandrewsky/leveraging-cache-to-improve-web-performance-7d1)
+- [Dev.to/JS] [Repeatedly add all its digits until the result has only one digit.](https://dev.to/isaacttonyloi/repeatedly-add-all-its-digits-until-the-result-has-only-one-digit-57ij)
+- [Dev.to/JS] [Node.js Clustering: An Essential Guide to Scaling and Optimizing Your Applications](https://dev.to/_fameux_/nodejs-clustering-an-essential-guide-to-scaling-and-optimizing-your-applications-3e15)
 - [Dev.to/JS] [New Post for hamidul](https://dev.to/thedailywordpress/new-post-for-hamidul-33jf)
 - [Dev.to/JS] [Understanding Basic Types in TypeScript](https://dev.to/ashutoshbhadauriya/understanding-basic-types-in-typescript-3c10)
 - [Dev.to/JS] [Migrating Azure Functions from JSDoc JavaScript to TypeScript](https://dev.to/johnnyreilly/migrating-azure-functions-from-jsdoc-javascript-to-typescript-43ep)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tudo sobre formulários - HTML](https://dev.to/lixeletto/tudo-sobre-formularios-html-4icg)
 - [Dev.to/JS] [Thiên Địa Club Gái Gọi Đẳng Cấp](https://dev.to/thiendiaclub/thien-dia-club-gai-goi-dang-cap-ldk)
 - [Dev.to/JS] [New TOP Project: Library](https://dev.to/resotap/new-top-project-library-49e6)
-- [Dev.to/JS] [Local Storage vs Session Storage in JavaScript](https://dev.to/valentinaperic/local-storage-vs-session-storage-in-javascript-1p8h)
-- [Dev.to/JS] [A Debrief on Svelte: Compile before Sending](https://dev.to/drewbxkewb/a-debrief-on-svelte-compile-before-sending-1j8)
-- [Dev.to/JS] [Pokémouille - A Modern, Fast, and Easy-to-Use Pokémon Encyclopedia](https://dev.to/vaalley/pokemouille-a-modern-fast-and-easy-to-use-pokemon-encyclopedia-1pha)
-- [Dev.to/JS] [Planning Ahead: Goals for the Week](https://dev.to/arashjangali/planning-ahead-goals-for-the-week-1d0h)
 - [Lifehacker] [Use a Pool Noodle to Hang Dry Your Laundry](https://lifehacker.com/use-a-pool-noodle-to-hang-dry-your-laundry-1850410485)
 - [Lifehacker] [How to Save Money When Negotiating to Buy a Certified Pre-Owned Car](https://lifehacker.com/how-to-save-money-when-negotiating-to-buy-a-certified-p-1850410494)
 - [Lifehacker] [The Difference Between Shrubs and Bushes &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-shrubs-and-bushes-and-why-it-ma-1850410499)
