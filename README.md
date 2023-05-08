@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [usePersistentState](https://dev.to/receter/usepersistentstate-3fn8)
+- [Dev.to/JS] [Proven Formula for Unbeatable Salesforce Architecture Design](https://dev.to/datarecove95829/proven-formula-for-unbeatable-salesforce-architecture-design-5863)
+- [Dev.to/JS] [Designing a User-Friendly Course Catalog With Pink Design and Nuxt](https://dev.to/hackmamba/designing-a-user-friendly-course-catalog-with-pink-design-and-nuxt-5bdg)
+- [Dev.to/JS] [how to populate a Stacked Bar Chart in plain javascript](https://dev.to/rickdelpo1/how-to-populate-a-stacked-bar-chart-in-plain-javascript-12p9)
+- [Dev.to/JS] [usePersistentState: A simple interface to persists state variables in localStorage](https://dev.to/receter/usepersistentstate-3fn8)
 - [Dev.to/JS] [Create a Number Guessing Game using Node JS](https://dev.to/piyushkdas0611/create-a-number-guessing-game-using-node-js-50a)
 - [Dev.to/JS] [Unlocking your website&#39;s potential: eliminate render-blocking resources](https://dev.to/seppegadeyne/unlocking-your-websites-potential-eliminate-render-blocking-resources-26i2)
 - [Dev.to/JS] [Async/Await — Understanding JavaScript API Requests and Responses in the Data Fetching lifecycle](https://dev.to/rodcast/asyncawait-understanding-javascript-api-requests-and-responses-in-the-data-fetching-lifecycle-7o8)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Repeatedly add all its digits until the result has only one digit.](https://dev.to/isaacttonyloi/repeatedly-add-all-its-digits-until-the-result-has-only-one-digit-57ij)
 - [Dev.to/JS] [Node.js Clustering: An Essential Guide to Scaling and Optimizing Your Applications](https://dev.to/_fameux_/nodejs-clustering-an-essential-guide-to-scaling-and-optimizing-your-applications-3e15)
 - [Dev.to/JS] [New Post for hamidul](https://dev.to/thedailywordpress/new-post-for-hamidul-33jf)
-- [Dev.to/JS] [Understanding Basic Types in TypeScript](https://dev.to/ashutoshbhadauriya/understanding-basic-types-in-typescript-3c10)
-- [Dev.to/JS] [Migrating Azure Functions from JSDoc JavaScript to TypeScript](https://dev.to/johnnyreilly/migrating-azure-functions-from-jsdoc-javascript-to-typescript-43ep)
-- [Dev.to/JS] [Implementing Binary Search Tree in Javascript](https://dev.to/merudra754/implementing-binary-search-tree-in-javascript-2j4h)
 - [Lifehacker] [Use a Pool Noodle to Hang Dry Your Laundry](https://lifehacker.com/use-a-pool-noodle-to-hang-dry-your-laundry-1850410485)
 - [Lifehacker] [How to Save Money When Negotiating to Buy a Certified Pre-Owned Car](https://lifehacker.com/how-to-save-money-when-negotiating-to-buy-a-certified-p-1850410494)
 - [Lifehacker] [The Difference Between Shrubs and Bushes &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-shrubs-and-bushes-and-why-it-ma-1850410499)
