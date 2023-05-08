@@ -23,6 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [That Old Bundt Pan Will Make the Perfect Tabletop Flower Pot](https://lifehacker.com/that-old-bundt-pan-will-make-the-perfect-tabletop-flowe-1850414403)
+- [Dev.to/JS] [23 Best CSS Frameworks For React In 2023](https://dev.to/scofieldidehen/23-best-css-frameworks-for-react-in-2023-4pcg)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, May 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-may-2023-29jb)
+- [Dev.to/JS] [Pastes.io update v1.2.2](https://dev.to/pastes/pastesio-update-v122-1ode)
+- [Dev.to/JS] [My Journey to GSoC&#39;2023](https://dev.to/prerna0202/my-journey-to-gsoc2023-656)
+- [Lifehacker] [When Nutrition Timing Actually Matters](https://lifehacker.com/when-nutrition-timing-actually-matters-1850410324)
+- [Dev.to/JS] [Error handling in the JavaScript Fetch API](https://dev.to/thecharacterv/error-handling-in-the-javascript-fetch-api-1f7a)
+- [Dev.to/JS] [Is writing Modular code that tough in React Js?](https://dev.to/sanjampreetsingh/is-writing-modular-code-that-tough-in-react-js-1l3g)
+- [Dev.to/JS] [I&#39;m tired of searching job](https://dev.to/benlad_1/im-tired-of-searching-job-1iml)
+- [Lifehacker] [How to Plant a Low-Maintenance and Drought-Resistant Gravel Garden](https://lifehacker.com/how-to-plant-a-low-maintenance-and-drought-resistant-gr-1850413911)
 - [Dev.to/JS] [memo vs useMemo in React](https://dev.to/alakkadshaw/memo-vs-usememo-in-react-ddb)
 - [Lifehacker] [You Can Overcome &#39;Creative Mortification&#39;](https://lifehacker.com/you-can-overcome-creative-mortification-1850410617)
 - [Dev.to/JS] [What is a slug and how to create one?](https://dev.to/dhairyashah/what-is-a-slug-and-how-to-create-one-j9f)
@@ -32,14 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Eight Signs Your Kid Is Starved for Attention](https://lifehacker.com/eight-signs-your-kid-is-starved-for-attention-1850409326)
 - [Dev.to/JS] [Live Streaming With Multiple Hosts via a Browser With Amazon IVS](https://dev.to/aws/live-streaming-with-multiple-hosts-via-a-browser-with-amazon-ivs-c8l)
 - [Lifehacker] [Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
-- [Dev.to/JS] [Husky with Yarn Monorepo 🐶🐱](https://dev.to/0x2a/husky-with-yarn-monorepo-5gdg)
 - [Lifehacker] [Catch These Bands for $25 During &#39;Concert Week&#39;](https://lifehacker.com/catch-these-bands-for-25-during-concert-week-1850410387)
-- [Dev.to/JS] [Set environment variables in docker](https://dev.to/harireddy7/set-environment-variables-in-docker-274h)
-- [Dev.to/JS] [Automating Node.js Server Start-Up with Bash Script](https://dev.to/geekreflex/automating-nodejs-server-start-up-with-bash-script-1jd3)
-- [Dev.to/JS] [Tableau Salesforce Connector Limitations](https://dev.to/datarecove95829/tableau-salesforce-connector-limitations-450n)
-- [Dev.to/JS] [Proven Formula for Unbeatable Salesforce Architecture Design](https://dev.to/datarecove95829/proven-formula-for-unbeatable-salesforce-architecture-design-5863)
-- [Dev.to/JS] [Designing a User-Friendly Course Catalog With Pink Design and Nuxt](https://dev.to/hackmamba/designing-a-user-friendly-course-catalog-with-pink-design-and-nuxt-5bdg)
-- [Dev.to/JS] [how to populate a Stacked Bar Chart in plain javascript](https://dev.to/rickdelpo1/how-to-populate-a-stacked-bar-chart-in-plain-javascript-12p9)
 - [Lifehacker] [Use a Pool Noodle to Hang Dry Your Laundry](https://lifehacker.com/use-a-pool-noodle-to-hang-dry-your-laundry-1850410485)
 - [Lifehacker] [How to Save Money When Negotiating to Buy a Certified Pre-Owned Car](https://lifehacker.com/how-to-save-money-when-negotiating-to-buy-a-certified-p-1850410494)
 - [Lifehacker] [The Difference Between Shrubs and Bushes &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-shrubs-and-bushes-and-why-it-ma-1850410499)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Attract Ground-Dwelling Bees to Your Garden &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-attract-ground-dwelling-bees-to-your-garden-and-1850407487)
 - [Lifehacker] [How Traveling Solo Is Actually Good for Your Relationship](https://lifehacker.com/how-traveling-solo-is-actually-good-for-your-relationsh-1850406051)
 - [Lifehacker] [How to Ask Someone to Be Your Mentor](https://lifehacker.com/how-to-ask-someone-to-be-your-mentor-1850407986)
-- [Lifehacker] [Start Your Day the Brazilian Way, With a Cake](https://lifehacker.com/start-your-day-the-brazilian-way-with-a-cake-1850406333)
-- [Lifehacker] [Your Kitchen Needs a Little Fan](https://lifehacker.com/your-kitchen-needs-a-little-fan-1850406218)
-- [Lifehacker] [You Should Keep a House Diary](https://lifehacker.com/you-should-keep-a-house-diary-1850402253)
-- [Lifehacker] [10 of the Best Corporate Biopics Ever](https://lifehacker.com/10-of-the-best-corporate-biopics-ever-1850389811)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Start Your Day the Brazilian Way, With a Cake](https://lifehacker.com/start-your-day-the-brazilian-way-with-a-cake-1850406333)<!-- TECH-POSTS:END -->
 
 ---
 
