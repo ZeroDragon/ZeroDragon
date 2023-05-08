@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tudo sobre formulários - HTML](https://dev.to/lixeletto/tudo-sobre-formularios-html-4icg)
+- [Dev.to/JS] [Thiên Địa Club Gái Gọi Đẳng Cấp](https://dev.to/thiendiaclub/thien-dia-club-gai-goi-dang-cap-ldk)
 - [Dev.to/JS] [New TOP Project: Library](https://dev.to/resotap/new-top-project-library-49e6)
 - [Dev.to/JS] [Local Storage vs Session Storage in JavaScript](https://dev.to/valentinaperic/local-storage-vs-session-storage-in-javascript-1p8h)
 - [Dev.to/JS] [A Debrief on Svelte: Compile before Sending](https://dev.to/drewbxkewb/a-debrief-on-svelte-compile-before-sending-1j8)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is JavaScript](https://dev.to/codeauthor/what-is-javascript-3h94)
 - [Dev.to/JS] [Why TypeScript is the better JavaScript](https://dev.to/typescripttv/why-typescript-is-the-better-javascript-f5p)
 - [Dev.to/JS] [Websites to practice anything&lpar;free&rpar;, Tech only!](https://dev.to/saifullah/websites-to-practice-anythingfree-tech-only-3mkh)
-- [Dev.to/JS] [IMAGE/FILE UPLOAD IN NODE.JS WITH CLOUDINARY](https://dev.to/candie_code/imagefile-upload-in-nodejs-with-cloudinary-3b83)
-- [Dev.to/JS] [What the f*** is TypeScript?](https://dev.to/lausuarez02/what-the-f-is-typescript-53a)
 - [Lifehacker] [Use a Pool Noodle to Hang Dry Your Laundry](https://lifehacker.com/use-a-pool-noodle-to-hang-dry-your-laundry-1850410485)
 - [Lifehacker] [How to Save Money When Negotiating to Buy a Certified Pre-Owned Car](https://lifehacker.com/how-to-save-money-when-negotiating-to-buy-a-certified-p-1850410494)
 - [Lifehacker] [The Difference Between Shrubs and Bushes &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-shrubs-and-bushes-and-why-it-ma-1850410499)
