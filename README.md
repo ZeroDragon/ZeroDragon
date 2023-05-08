@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Catch These Bands for $25 During &#39;Concert Week&#39;](https://lifehacker.com/catch-these-bands-for-25-during-concert-week-1850410387)
+- [Dev.to/JS] [Set environment variables in docker](https://dev.to/harireddy7/set-environment-variables-in-docker-274h)
+- [Dev.to/JS] [Automating Node.js Server Start-Up with Bash Script](https://dev.to/geekreflex/automating-nodejs-server-start-up-with-bash-script-1jd3)
+- [Dev.to/JS] [Tableau Salesforce Connector Limitations](https://dev.to/datarecove95829/tableau-salesforce-connector-limitations-450n)
 - [Dev.to/JS] [Proven Formula for Unbeatable Salesforce Architecture Design](https://dev.to/datarecove95829/proven-formula-for-unbeatable-salesforce-architecture-design-5863)
 - [Dev.to/JS] [Designing a User-Friendly Course Catalog With Pink Design and Nuxt](https://dev.to/hackmamba/designing-a-user-friendly-course-catalog-with-pink-design-and-nuxt-5bdg)
 - [Dev.to/JS] [how to populate a Stacked Bar Chart in plain javascript](https://dev.to/rickdelpo1/how-to-populate-a-stacked-bar-chart-in-plain-javascript-12p9)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Async/Await — Understanding JavaScript API Requests and Responses in the Data Fetching lifecycle](https://dev.to/rodcast/asyncawait-understanding-javascript-api-requests-and-responses-in-the-data-fetching-lifecycle-7o8)
 - [Dev.to/JS] [Common fs module functions in Node js](https://dev.to/isaacttonyloi/common-fs-module-functions-in-node-js-3lh7)
 - [Dev.to/JS] [Leveraging Cache to improve Web Performance](https://dev.to/jacobandrewsky/leveraging-cache-to-improve-web-performance-7d1)
-- [Dev.to/JS] [Repeatedly add all its digits until the result has only one digit.](https://dev.to/isaacttonyloi/repeatedly-add-all-its-digits-until-the-result-has-only-one-digit-57ij)
-- [Dev.to/JS] [Node.js Clustering: An Essential Guide to Scaling and Optimizing Your Applications](https://dev.to/_fameux_/nodejs-clustering-an-essential-guide-to-scaling-and-optimizing-your-applications-3e15)
-- [Dev.to/JS] [New Post for hamidul](https://dev.to/thedailywordpress/new-post-for-hamidul-33jf)
 - [Lifehacker] [Use a Pool Noodle to Hang Dry Your Laundry](https://lifehacker.com/use-a-pool-noodle-to-hang-dry-your-laundry-1850410485)
 - [Lifehacker] [How to Save Money When Negotiating to Buy a Certified Pre-Owned Car](https://lifehacker.com/how-to-save-money-when-negotiating-to-buy-a-certified-p-1850410494)
 - [Lifehacker] [The Difference Between Shrubs and Bushes &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-shrubs-and-bushes-and-why-it-ma-1850410499)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Things Scammers Are Hoping You Google](https://lifehacker.com/five-things-scammers-are-hoping-you-google-1850405964)
 - [Lifehacker] [How to Snack, Italian Style](https://lifehacker.com/how-to-snack-italian-style-1850405140)
 - [Lifehacker] [This App Makes Your Mac’s Keyboard Sound Vintage](https://lifehacker.com/this-app-makes-your-mac-s-keyboard-sound-vintage-1850402370)
-- [Lifehacker] [You Can Probably Get Reimbursed If Your Flight Price Drops](https://lifehacker.com/you-can-probably-get-reimbursed-if-your-flight-price-dr-1850405175)
-- [Lifehacker] [The Easiest Way to Stop Wet Wipes From Sticking Together](https://lifehacker.com/the-easiest-way-to-stop-wet-wipes-from-sticking-togethe-1850404988)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Probably Get Reimbursed If Your Flight Price Drops](https://lifehacker.com/you-can-probably-get-reimbursed-if-your-flight-price-dr-1850405175)<!-- TECH-POSTS:END -->
 
 ---
 
