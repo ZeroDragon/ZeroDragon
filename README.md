@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Migrating Azure Functions from JSDoc JavaScript to TypeScript](https://dev.to/johnnyreilly/migrating-azure-functions-from-jsdoc-javascript-to-typescript-43ep)
 - [Dev.to/JS] [Implementing Binary Search Tree in Javascript](https://dev.to/merudra754/implementing-binary-search-tree-in-javascript-2j4h)
 - [Dev.to/JS] [AdaGPT: My Learnings While Building a GitHub Action](https://dev.to/81cuongvn/adagpt-my-learnings-while-building-a-github-action-165h)
 - [Dev.to/JS] [Tudo sobre formulários - HTML](https://dev.to/lixeletto/tudo-sobre-formularios-html-4icg)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Planning Ahead: Goals for the Week](https://dev.to/arashjangali/planning-ahead-goals-for-the-week-1d0h)
 - [Dev.to/JS] [POTMY WEB-APP](https://dev.to/insidbyte/potmy-web-app-mj6)
 - [Dev.to/JS] [{#4}Primitives and Objects in JavaScript | JavaScript](https://dev.to/sksage/4primitives-and-objects-in-javascript-javascript-5984)
-- [Dev.to/JS] [What is JavaScript](https://dev.to/codeauthor/what-is-javascript-3h94)
 - [Lifehacker] [Use a Pool Noodle to Hang Dry Your Laundry](https://lifehacker.com/use-a-pool-noodle-to-hang-dry-your-laundry-1850410485)
 - [Lifehacker] [How to Save Money When Negotiating to Buy a Certified Pre-Owned Car](https://lifehacker.com/how-to-save-money-when-negotiating-to-buy-a-certified-p-1850410494)
 - [Lifehacker] [The Difference Between Shrubs and Bushes &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-shrubs-and-bushes-and-why-it-ma-1850410499)
