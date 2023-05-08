@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Way to Stop Jumping Worms From Invading Your Garden](https://lifehacker.com/the-best-way-to-stop-jumping-worms-from-invading-your-g-1850414628)
+- [Dev.to/JS] [Writing Game Mods Changed My Life](https://dev.to/stuyk/writing-game-mods-changed-my-life-17i)
+- [Lifehacker] [Claim These PlayStation Plus Collection Games Before Sony Takes Them Away Forever](https://lifehacker.com/claim-these-playstation-plus-collection-games-before-so-1850414479)
+- [Dev.to/JS] [How to Import and Export Excel XLSX Using Node.js](https://dev.to/grapecity/how-to-import-and-export-excel-xlsx-using-nodejs-1n8g)
+- [Dev.to/JS] [Exploding Kittens Card Game - React, Nodejs and Redis](https://dev.to/nabajits21/exploding-kittens-card-game-react-nodejs-and-redis-4ci8)
 - [Lifehacker] [That Old Bundt Pan Will Make the Perfect Tabletop Flower Pot](https://lifehacker.com/that-old-bundt-pan-will-make-the-perfect-tabletop-flowe-1850414403)
 - [Dev.to/JS] [23 Best CSS Frameworks For React In 2023](https://dev.to/scofieldidehen/23-best-css-frameworks-for-react-in-2023-4pcg)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, May 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-may-2023-29jb)
@@ -36,11 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [memo vs useMemo in React](https://dev.to/alakkadshaw/memo-vs-usememo-in-react-ddb)
 - [Lifehacker] [You Can Overcome &#39;Creative Mortification&#39;](https://lifehacker.com/you-can-overcome-creative-mortification-1850410617)
 - [Dev.to/JS] [What is a slug and how to create one?](https://dev.to/dhairyashah/what-is-a-slug-and-how-to-create-one-j9f)
-- [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#19&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-19-147b)
 - [Lifehacker] [The Best Way to Eat the Crumbs From a Bag of Chips](https://lifehacker.com/the-best-way-to-eat-the-crumbs-from-a-bag-of-chips-1850410597)
-- [Dev.to/JS] [Looking for somewhere to contribute!](https://dev.to/neryhub/looking-for-somewhere-to-contribute-4c2e)
 - [Lifehacker] [Eight Signs Your Kid Is Starved for Attention](https://lifehacker.com/eight-signs-your-kid-is-starved-for-attention-1850409326)
-- [Dev.to/JS] [Live Streaming With Multiple Hosts via a Browser With Amazon IVS](https://dev.to/aws/live-streaming-with-multiple-hosts-via-a-browser-with-amazon-ivs-c8l)
 - [Lifehacker] [Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
 - [Lifehacker] [Catch These Bands for $25 During &#39;Concert Week&#39;](https://lifehacker.com/catch-these-bands-for-25-during-concert-week-1850410387)
 - [Lifehacker] [Use a Pool Noodle to Hang Dry Your Laundry](https://lifehacker.com/use-a-pool-noodle-to-hang-dry-your-laundry-1850410485)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Is Tubi Secretly the Best Streaming Service?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-tubi-1850406662)
 - [Lifehacker] [These Tools Can Tell You If Buying a Car Is Actually Cheaper Than Uber](https://lifehacker.com/these-tools-can-tell-you-if-buying-a-car-is-actually-ch-1850406542)
 - [Lifehacker] [How to Attract Ground-Dwelling Bees to Your Garden &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-attract-ground-dwelling-bees-to-your-garden-and-1850407487)
-- [Lifehacker] [How Traveling Solo Is Actually Good for Your Relationship](https://lifehacker.com/how-traveling-solo-is-actually-good-for-your-relationsh-1850406051)
-- [Lifehacker] [How to Ask Someone to Be Your Mentor](https://lifehacker.com/how-to-ask-someone-to-be-your-mentor-1850407986)
-- [Lifehacker] [Start Your Day the Brazilian Way, With a Cake](https://lifehacker.com/start-your-day-the-brazilian-way-with-a-cake-1850406333)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Traveling Solo Is Actually Good for Your Relationship](https://lifehacker.com/how-traveling-solo-is-actually-good-for-your-relationsh-1850406051)<!-- TECH-POSTS:END -->
 
 ---
 
