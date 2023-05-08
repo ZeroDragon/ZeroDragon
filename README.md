@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create a Dynamic JavaScript Amortization Table Application](https://dev.to/grapecity/how-to-create-a-dynamic-javascript-amortization-table-application-1llo)
+- [Lifehacker] [Your Guide to 13 Alternative Flours](https://lifehacker.com/your-guide-to-13-alternative-flours-1850414480)
 - [Lifehacker] [The Gross Things Your Kids Eat That Are Dangerous &lpar;and the Ones That Are Just Gross&rpar;](https://lifehacker.com/the-gross-things-your-kids-eat-that-are-dangerous-and-1850414968)
 - [Dev.to/JS] [Improving Angular Rendering Performance with TrackBy Function and Change Detection Strategy](https://dev.to/imbhanu47/improving-angular-rendering-performance-with-trackby-function-and-change-detection-strategy-1llj)
 - [Lifehacker] [You Can Formally Appeal Your Bad &#39;Final&#39; Grade](https://lifehacker.com/you-can-formally-appeal-your-bad-final-grade-1850414707)
@@ -41,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is writing Modular code that tough in React Js?](https://dev.to/sanjampreetsingh/is-writing-modular-code-that-tough-in-react-js-1l3g)
 - [Dev.to/JS] [I&#39;m tired of searching job](https://dev.to/benlad_1/im-tired-of-searching-job-1iml)
 - [Lifehacker] [How to Plant a Low-Maintenance and Drought-Resistant Gravel Garden](https://lifehacker.com/how-to-plant-a-low-maintenance-and-drought-resistant-gr-1850413911)
-- [Dev.to/JS] [memo vs useMemo in React](https://dev.to/alakkadshaw/memo-vs-usememo-in-react-ddb)
 - [Lifehacker] [You Can Overcome &#39;Creative Mortification&#39;](https://lifehacker.com/you-can-overcome-creative-mortification-1850410617)
 - [Lifehacker] [The Best Way to Eat the Crumbs From a Bag of Chips](https://lifehacker.com/the-best-way-to-eat-the-crumbs-from-a-bag-of-chips-1850410597)
 - [Lifehacker] [Eight Signs Your Kid Is Starved for Attention](https://lifehacker.com/eight-signs-your-kid-is-starved-for-attention-1850409326)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Biggest Home Improvement Rebates You Can Get From the Government](https://lifehacker.com/the-biggest-home-improvement-rebates-you-can-get-from-t-1850407564)
 - [Lifehacker] [Here&#39;s What&#39;s New in the Latest WhatsApp Update](https://lifehacker.com/heres-whats-new-in-the-latest-whatsapp-update-1850408309)
 - [Lifehacker] [Only Morons Use ChatGPT As a Substitute for Google](https://lifehacker.com/only-morons-use-chatgpt-as-a-substitute-for-google-1850408688)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Is Tubi Secretly the Best Streaming Service?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-tubi-1850406662)
-- [Lifehacker] [These Tools Can Tell You If Buying a Car Is Actually Cheaper Than Uber](https://lifehacker.com/these-tools-can-tell-you-if-buying-a-car-is-actually-ch-1850406542)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Is Tubi Secretly the Best Streaming Service?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-tubi-1850406662)<!-- TECH-POSTS:END -->
 
 ---
 
