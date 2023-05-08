@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Way to Eat the Crumbs From a Bag of Chips](https://lifehacker.com/the-best-way-to-eat-the-crumbs-from-a-bag-of-chips-1850410597)
+- [Dev.to/JS] [Looking for somewhere to contribute!](https://dev.to/neryhub/looking-for-somewhere-to-contribute-4c2e)
+- [Lifehacker] [Eight Signs Your Kid Is Starved for Attention](https://lifehacker.com/eight-signs-your-kid-is-starved-for-attention-1850409326)
+- [Dev.to/JS] [Live Streaming With Multiple Hosts via a Browser With Amazon IVS](https://dev.to/aws/live-streaming-with-multiple-hosts-via-a-browser-with-amazon-ivs-c8l)
+- [Lifehacker] [Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
+- [Dev.to/JS] [Husky with Yarn Monorepo 🐶🐱](https://dev.to/0x2a/husky-with-yarn-monorepo-5gdg)
 - [Lifehacker] [Catch These Bands for $25 During &#39;Concert Week&#39;](https://lifehacker.com/catch-these-bands-for-25-during-concert-week-1850410387)
 - [Dev.to/JS] [Set environment variables in docker](https://dev.to/harireddy7/set-environment-variables-in-docker-274h)
 - [Dev.to/JS] [Automating Node.js Server Start-Up with Bash Script](https://dev.to/geekreflex/automating-nodejs-server-start-up-with-bash-script-1jd3)
@@ -33,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [usePersistentState: A simple interface to persists state variables in localStorage](https://dev.to/receter/usepersistentstate-3fn8)
 - [Dev.to/JS] [Create a Number Guessing Game using Node JS](https://dev.to/piyushkdas0611/create-a-number-guessing-game-using-node-js-50a)
 - [Dev.to/JS] [Unlocking your website&#39;s potential: eliminate render-blocking resources](https://dev.to/seppegadeyne/unlocking-your-websites-potential-eliminate-render-blocking-resources-26i2)
-- [Dev.to/JS] [Async/Await — Understanding JavaScript API Requests and Responses in the Data Fetching lifecycle](https://dev.to/rodcast/asyncawait-understanding-javascript-api-requests-and-responses-in-the-data-fetching-lifecycle-7o8)
-- [Dev.to/JS] [Common fs module functions in Node js](https://dev.to/isaacttonyloi/common-fs-module-functions-in-node-js-3lh7)
-- [Dev.to/JS] [Leveraging Cache to improve Web Performance](https://dev.to/jacobandrewsky/leveraging-cache-to-improve-web-performance-7d1)
 - [Lifehacker] [Use a Pool Noodle to Hang Dry Your Laundry](https://lifehacker.com/use-a-pool-noodle-to-hang-dry-your-laundry-1850410485)
 - [Lifehacker] [How to Save Money When Negotiating to Buy a Certified Pre-Owned Car](https://lifehacker.com/how-to-save-money-when-negotiating-to-buy-a-certified-p-1850410494)
 - [Lifehacker] [The Difference Between Shrubs and Bushes &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-shrubs-and-bushes-and-why-it-ma-1850410499)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Kitchen Needs a Little Fan](https://lifehacker.com/your-kitchen-needs-a-little-fan-1850406218)
 - [Lifehacker] [You Should Keep a House Diary](https://lifehacker.com/you-should-keep-a-house-diary-1850402253)
 - [Lifehacker] [10 of the Best Corporate Biopics Ever](https://lifehacker.com/10-of-the-best-corporate-biopics-ever-1850389811)
-- [Lifehacker] [Five Things Scammers Are Hoping You Google](https://lifehacker.com/five-things-scammers-are-hoping-you-google-1850405964)
-- [Lifehacker] [How to Snack, Italian Style](https://lifehacker.com/how-to-snack-italian-style-1850405140)
-- [Lifehacker] [This App Makes Your Mac’s Keyboard Sound Vintage](https://lifehacker.com/this-app-makes-your-mac-s-keyboard-sound-vintage-1850402370)
-- [Lifehacker] [You Can Probably Get Reimbursed If Your Flight Price Drops](https://lifehacker.com/you-can-probably-get-reimbursed-if-your-flight-price-dr-1850405175)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five Things Scammers Are Hoping You Google](https://lifehacker.com/five-things-scammers-are-hoping-you-google-1850405964)<!-- TECH-POSTS:END -->
 
 ---
 
