@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [usePersistentState](https://dev.to/receter/usepersistentstate-3fn8)
+- [Dev.to/JS] [Create a Number Guessing Game using Node JS](https://dev.to/piyushkdas0611/create-a-number-guessing-game-using-node-js-50a)
 - [Dev.to/JS] [Unlocking your website&#39;s potential: eliminate render-blocking resources](https://dev.to/seppegadeyne/unlocking-your-websites-potential-eliminate-render-blocking-resources-26i2)
 - [Dev.to/JS] [Async/Await — Understanding JavaScript API Requests and Responses in the Data Fetching lifecycle](https://dev.to/rodcast/asyncawait-understanding-javascript-api-requests-and-responses-in-the-data-fetching-lifecycle-7o8)
 - [Dev.to/JS] [Common fs module functions in Node js](https://dev.to/isaacttonyloi/common-fs-module-functions-in-node-js-3lh7)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Basic Types in TypeScript](https://dev.to/ashutoshbhadauriya/understanding-basic-types-in-typescript-3c10)
 - [Dev.to/JS] [Migrating Azure Functions from JSDoc JavaScript to TypeScript](https://dev.to/johnnyreilly/migrating-azure-functions-from-jsdoc-javascript-to-typescript-43ep)
 - [Dev.to/JS] [Implementing Binary Search Tree in Javascript](https://dev.to/merudra754/implementing-binary-search-tree-in-javascript-2j4h)
-- [Dev.to/JS] [AdaGPT: My Learnings While Building a GitHub Action](https://dev.to/81cuongvn/adagpt-my-learnings-while-building-a-github-action-165h)
-- [Dev.to/JS] [Tudo sobre formulários - HTML](https://dev.to/lixeletto/tudo-sobre-formularios-html-4icg)
 - [Lifehacker] [Use a Pool Noodle to Hang Dry Your Laundry](https://lifehacker.com/use-a-pool-noodle-to-hang-dry-your-laundry-1850410485)
 - [Lifehacker] [How to Save Money When Negotiating to Buy a Certified Pre-Owned Car](https://lifehacker.com/how-to-save-money-when-negotiating-to-buy-a-certified-p-1850410494)
 - [Lifehacker] [The Difference Between Shrubs and Bushes &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-shrubs-and-bushes-and-why-it-ma-1850410499)
