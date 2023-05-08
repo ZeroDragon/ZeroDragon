@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Recalled COVID Tests May Be Contaminated With Bacteria](https://lifehacker.com/these-recalled-covid-tests-may-be-contaminated-with-bac-1850415759)
+- [Dev.to/JS] [Build a JavaScript Cash Flow Application with Cascading Sparklines](https://dev.to/grapecity/build-a-javascript-cash-flow-application-with-cascading-sparklines-3bf0)
+- [Lifehacker] [Always Ask These Three Questions Before Paying a Medical Bill](https://lifehacker.com/always-ask-these-three-questions-before-paying-a-medica-1850415814)
+- [Dev.to/JS] [Unleash Your Inner AI Superhero: 5 Must-Have Tools for the Modern Innovator](https://dev.to/thenomadevel/unleash-your-inner-ai-superhero-5-must-have-tools-for-the-modern-innovator-pad)
+- [Dev.to/JS] [The filter&lpar;&rpar; method](https://dev.to/jdenzel/the-filter-method-8o6)
+- [Dev.to/JS] [How to Import and Export Excel XLSX Using Blazor](https://dev.to/grapecity/how-to-import-and-export-excel-xlsx-using-blazor-bch)
 - [Lifehacker] [Your Brick House Needs Weep Hole Covers](https://lifehacker.com/your-brick-house-needs-weep-hole-covers-1850415342)
 - [Lifehacker] [Relive Your Childhood Games With This Free CD-ROM Archive](https://lifehacker.com/relive-your-childhood-games-with-this-free-cd-rom-archi-1850408876)
 - [Dev.to/JS] [Decentralized Applications &lpar;dApps&rpar;: Definition, Uses, Pros and Cons](https://dev.to/franklinholguin/decentralized-applications-dapps-definition-uses-pros-and-cons-41mb)
@@ -39,11 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Writing Game Mods Changed My Life](https://dev.to/stuyk/writing-game-mods-changed-my-life-17i)
 - [Lifehacker] [Claim These PlayStation Plus Collection Games Before Sony Takes Them Away Forever](https://lifehacker.com/claim-these-playstation-plus-collection-games-before-so-1850414479)
 - [Dev.to/JS] [How to Import and Export Excel XLSX Using Node.js](https://dev.to/grapecity/how-to-import-and-export-excel-xlsx-using-nodejs-1n8g)
-- [Dev.to/JS] [Exploding Kittens Card Game - React, Nodejs and Redis](https://dev.to/nabajits21/exploding-kittens-card-game-react-nodejs-and-redis-4ci8)
 - [Lifehacker] [That Old Bundt Pan Will Make the Perfect Tabletop Flower Pot](https://lifehacker.com/that-old-bundt-pan-will-make-the-perfect-tabletop-flowe-1850414403)
-- [Dev.to/JS] [23 Best CSS Frameworks For React In 2023](https://dev.to/scofieldidehen/23-best-css-frameworks-for-react-in-2023-4pcg)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, May 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-may-2023-29jb)
-- [Dev.to/JS] [Pastes.io update v1.2.2](https://dev.to/pastes/pastesio-update-v122-1ode)
 - [Lifehacker] [When Nutrition Timing Actually Matters](https://lifehacker.com/when-nutrition-timing-actually-matters-1850410324)
 - [Lifehacker] [How to Plant a Low-Maintenance and Drought-Resistant Gravel Garden](https://lifehacker.com/how-to-plant-a-low-maintenance-and-drought-resistant-gr-1850413911)
 - [Lifehacker] [You Can Overcome &#39;Creative Mortification&#39;](https://lifehacker.com/you-can-overcome-creative-mortification-1850410617)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-you-can-get-right-now-1850409952)
 - [Lifehacker] [This App Can ID Any Bird In Your Neighborhood by Sight or Sound](https://lifehacker.com/this-app-can-id-any-bird-in-your-neighborhood-by-sight-1850409631)
 - [Lifehacker] [&#39;Swedish Death Cleaning&#39; Can Improve Your Life Right Now](https://lifehacker.com/swedish-death-cleaning-can-improve-your-life-right-now-1850409420)
-- [Lifehacker] [Family Dollar Is Recalling These Advil Products, FDA Says](https://lifehacker.com/family-dollar-is-recalling-these-advil-products-fda-sa-1850409577)
-- [Lifehacker] [Make This Easy, Creamy Four-Ingredient Lemon Dessert](https://lifehacker.com/make-this-easy-creamy-four-ingredient-lemon-dessert-1850409568)
-- [Lifehacker] [The Biggest Home Improvement Rebates You Can Get From the Government](https://lifehacker.com/the-biggest-home-improvement-rebates-you-can-get-from-t-1850407564)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Family Dollar Is Recalling These Advil Products, FDA Says](https://lifehacker.com/family-dollar-is-recalling-these-advil-products-fda-sa-1850409577)<!-- TECH-POSTS:END -->
 
 ---
 
