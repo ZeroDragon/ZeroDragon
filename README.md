@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Dos and Don&#39;ts of Texting in a New Relationship](https://lifehacker.com/the-dos-and-donts-of-texting-in-a-new-relationship-1850355096)
 - [Lifehacker] [The Most Commonly Wasted Foods &lpar;and How to Stop Wasting Them&rpar;](https://lifehacker.com/the-most-commonly-wasted-foods-and-how-to-stop-wasting-1850359331)
 - [Lifehacker] [Don’t Make These Mistakes When Buying a New Dryer](https://lifehacker.com/don-t-make-these-mistakes-when-buying-a-new-dryer-1850368737)
 - [Dev.to/JS] [How to use regex in javascript:](https://dev.to/themba_sishuba/how-to-use-regex-in-javascript-by-removing-special-characters-and-spaces-and-adding-an-underscore-266f)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Guide to 13 Alternative Flours](https://lifehacker.com/your-guide-to-13-alternative-flours-1850414480)
 - [Lifehacker] [The Gross Things Your Kids Eat That Are Dangerous &lpar;and the Ones That Are Just Gross&rpar;](https://lifehacker.com/the-gross-things-your-kids-eat-that-are-dangerous-and-1850414968)
 - [Lifehacker] [You Can Formally Appeal Your Bad &#39;Final&#39; Grade](https://lifehacker.com/you-can-formally-appeal-your-bad-final-grade-1850414707)
-- [Lifehacker] [The Best Way to Stop Jumping Worms From Invading Your Garden](https://lifehacker.com/the-best-way-to-stop-jumping-worms-from-invading-your-g-1850414628)
-- [Lifehacker] [Claim These PlayStation Plus Collection Games Before Sony Takes Them Away Forever](https://lifehacker.com/claim-these-playstation-plus-collection-games-before-so-1850414479)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Stop Jumping Worms From Invading Your Garden](https://lifehacker.com/the-best-way-to-stop-jumping-worms-from-invading-your-g-1850414628)<!-- TECH-POSTS:END -->
 
 ---
 
