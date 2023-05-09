@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Does react build command automatically put all files inside public folder to inside build folder?](https://dev.to/mbshehzad/does-react-build-command-automatically-put-all-files-inside-public-folder-to-inside-build-folder-5876)
+- [Dev.to/JS] [Resolvendo problemas no hackerRank: Contando CamelCases](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-contando-camelcases-4nl)
+- [Dev.to/JS] [Understanding angular ControlValueAccessor with an example](https://dev.to/krishhnaa/understanding-angular-controlvalueaccessor-with-an-example-33gb)
+- [Dev.to/JS] [Building a Landing Page with Chakra UI and Framer Motion: My Experience as a React Developer](https://dev.to/babafemijk/building-a-landing-page-with-chakra-ui-and-framer-motion-my-experience-as-a-react-developer-1gal)
 - [Dev.to/JS] [Create a select2 input with alpinejs and livewire](https://dev.to/jojomak13/create-a-select2-input-with-alpinejs-and-livewire-3i2a)
 - [Dev.to/JS] [React Suspense for Data Fetching with Axios in React 18](https://dev.to/alakkadshaw/react-suspense-for-data-fetching-with-axios-in-react-18-5c29)
 - [Dev.to/JS] [Functions vs. Procedures: Keep them separate.](https://dev.to/redbar0n/functions-vs-procedures-keep-them-separate-5ed7)
@@ -33,12 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Always Ask These Three Questions Before Paying a Medical Bill](https://lifehacker.com/always-ask-these-three-questions-before-paying-a-medica-1850415814)
 - [Dev.to/JS] [Unleash Your Inner AI Superhero: 5 Must-Have Tools for the Modern Innovator](https://dev.to/thenomadevel/unleash-your-inner-ai-superhero-5-must-have-tools-for-the-modern-innovator-pad)
 - [Dev.to/JS] [The filter&lpar;&rpar; method](https://dev.to/jdenzel/the-filter-method-8o6)
-- [Dev.to/JS] [How to Import and Export Excel XLSX Using Blazor](https://dev.to/grapecity/how-to-import-and-export-excel-xlsx-using-blazor-bch)
 - [Lifehacker] [Your Brick House Needs Weep Hole Covers](https://lifehacker.com/your-brick-house-needs-weep-hole-covers-1850415342)
 - [Lifehacker] [Relive Your Childhood Games With This Free CD-ROM Archive](https://lifehacker.com/relive-your-childhood-games-with-this-free-cd-rom-archi-1850408876)
-- [Dev.to/JS] [Decentralized Applications &lpar;dApps&rpar;: Definition, Uses, Pros and Cons](https://dev.to/franklinholguin/decentralized-applications-dapps-definition-uses-pros-and-cons-41mb)
-- [Dev.to/JS] [Spread and Rest operator in JS](https://dev.to/saifullah/spread-and-rest-operator-in-js-jgm)
-- [Dev.to/JS] [How to create a developer blog with Storyblok and Nextjs.](https://dev.to/amissah17/how-to-create-a-developer-blog-with-storyblok-and-nextjs-13ad)
 - [Lifehacker] [The Best Places to Sell Your Textbooks &lpar;and When You Can’t&rpar;](https://lifehacker.com/the-best-places-to-sell-your-textbooks-and-when-you-ca-1850415184)
 - [Lifehacker] [Your Guide to 13 Alternative Flours](https://lifehacker.com/your-guide-to-13-alternative-flours-1850414480)
 - [Lifehacker] [The Gross Things Your Kids Eat That Are Dangerous &lpar;and the Ones That Are Just Gross&rpar;](https://lifehacker.com/the-gross-things-your-kids-eat-that-are-dangerous-and-1850414968)
