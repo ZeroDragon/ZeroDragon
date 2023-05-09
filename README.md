@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node.js - module.exports vs exports](https://dev.to/finchdev96/nodejs-moduleexports-vs-exports-17l4)
+- [Dev.to/JS] [Resolvendo erro delete `CR` prettier/prettier em projetos react](https://dev.to/mayconbalves/resolvendo-erro-delete-cr-prettierprettier-em-projetos-react-2fc2)
+- [Lifehacker] [What Podcast Made You Fall in Love With Podcasts?](https://lifehacker.com/what-podcast-made-you-fall-in-love-with-podcasts-1850413385)
+- [Dev.to/JS] [The Benefits of Using Node.js for Real-time Data Processing](https://dev.to/folasayosamuel/the-benefits-of-using-nodejs-for-real-time-data-processing-3f0l)
+- [Dev.to/JS] [Add comments to your Docusaurus website in 5 minutes](https://dev.to/anshuman_bhardwaj/add-comments-to-your-docusaurus-website-in-5-minutes-3pck)
+- [Dev.to/JS] [How to Use Promise.all and Promise.race to Speed Up Your JavaScript Code](https://dev.to/this-is-learning/how-to-use-promiseall-and-promiseraceto-speed-up-your-javascript-code-3obh)
+- [Dev.to/JS] [Moonly weekly progress update #48 - Optimizing our Discord Bot](https://dev.to/moonly/moonly-weekly-progress-update-48-optimizing-our-discord-bot-410m)
+- [Dev.to/JS] [Page crash when redirect to Mailchimp OAuth login page](https://dev.to/ccerajagopalan/page-crash-when-redirect-to-mailchimp-oauth-login-page-1187)
+- [Dev.to/JS] [How to Get an Online Typing Job in 2023: A Complete Guide](https://dev.to/intisarsyed16/how-to-get-an-online-typing-job-in-2023-a-complete-guide-4amm)
+- [Dev.to/JS] [Neurorise – Ear Benefits, Results, Reviews, Ingredients, Uses &amp; Price?](https://dev.to/neurorisef90540/neurorise-ear-benefits-results-reviews-ingredients-uses-price-2dfb)
+- [Dev.to/JS] [Angular Zone.js &amp; Change Detection: Understanding the Core Concepts](https://dev.to/vivekdogra02/angular-zonejs-change-detection-understanding-the-core-concepts-16ek)
+- [Dev.to/JS] [What is the Best Platform for Online Typing Jobs in Pakistan?](https://dev.to/intisarsyed16/what-is-the-best-platform-for-online-typing-jobs-in-pakistan-42go)
 - [Dev.to/JS] [Passing Data from a Child Component to a Parent Component](https://dev.to/ikechukwu411/passing-data-from-a-child-component-to-a-parent-component-5g31)
-- [Dev.to/JS] [Debouncing vs Throttling in JS](https://dev.to/shishsingh/debouncing-vs-throttling-in-js-5dpa)
-- [Dev.to/JS] [How to Manage VS Code Extensions](https://dev.to/youngzeji/how-to-manage-vs-code-extensions-2i1i)
-- [Dev.to/JS] [Self Host A FREE Retool Alternative On Ubuntu 22.04 LTS](https://dev.to/iamaestimo/self-host-a-free-retool-alternative-onubuntu-2204-lts-1c7i)
-- [Dev.to/JS] [Can You Improve Your Typing Speed?](https://dev.to/intisarsyed16/can-you-improve-your-typing-speed-ln4)
-- [Dev.to/JS] [Building An Image Slider With Swiper Js](https://dev.to/tracy4code/building-an-image-slider-with-swiper-js-l4o)
-- [Dev.to/JS] [The only React JS Resources Intro you need](https://dev.to/codepapi/the-only-react-js-resources-intro-you-need-1414)
-- [Dev.to/JS] [Announcing the Micro Frontends Conference](https://dev.to/smapiot/announcing-the-micro-frontends-conference-fkg)
-- [Dev.to/JS] [Sketch Free Download 2023](https://dev.to/millioncrack/sketch-free-download-2023-4775)
-- [Dev.to/JS] [vMix Crack + Registration Code 2023 Free {Download}](https://dev.to/millioncrack/vmix-crack-registration-code-2023-free-download-1a4k)
-- [Dev.to/JS] [Angular Addicts #13: Angular v16, NX v16, SPARTAN &amp; more](https://dev.to/this-is-angular/angular-addicts-13-angular-v16-nx-v16-spartan-more-391e)
-- [Dev.to/JS] [Array.map&lpar;JavaScript array method&rpar; under the hood](https://dev.to/danities316/arraymapjavascript-array-method-under-the-hood-2b02)
 - [Lifehacker] [These Recalled COVID Tests May Be Contaminated With Bacteria](https://lifehacker.com/these-recalled-covid-tests-may-be-contaminated-with-bac-1850415759)
 - [Lifehacker] [Always Ask These Three Questions Before Paying a Medical Bill](https://lifehacker.com/always-ask-these-three-questions-before-paying-a-medica-1850415814)
 - [Lifehacker] [Your Brick House Needs Weep Hole Covers](https://lifehacker.com/your-brick-house-needs-weep-hole-covers-1850415342)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
 - [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-you-can-get-right-now-1850409952)
 - [Lifehacker] [This App Can ID Any Bird In Your Neighborhood by Sight or Sound](https://lifehacker.com/this-app-can-id-any-bird-in-your-neighborhood-by-sight-1850409631)
-- [Lifehacker] [&#39;Swedish Death Cleaning&#39; Can Improve Your Life Right Now](https://lifehacker.com/swedish-death-cleaning-can-improve-your-life-right-now-1850409420)
-- [Lifehacker] [Family Dollar Is Recalling These Advil Products, FDA Says](https://lifehacker.com/family-dollar-is-recalling-these-advil-products-fda-sa-1850409577)<!-- TECH-POSTS:END -->
+- [Lifehacker] [&#39;Swedish Death Cleaning&#39; Can Improve Your Life Right Now](https://lifehacker.com/swedish-death-cleaning-can-improve-your-life-right-now-1850409420)<!-- TECH-POSTS:END -->
 
 ---
 
