@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a select2 input with alpinejs and livewire](https://dev.to/jojomak13/create-a-select2-input-with-alpinejs-and-livewire-3i2a)
+- [Dev.to/JS] [React Suspense for Data Fetching with Axios in React 18](https://dev.to/alakkadshaw/react-suspense-for-data-fetching-with-axios-in-react-18-5c29)
 - [Dev.to/JS] [Functions vs. Procedures: Keep them separate.](https://dev.to/redbar0n/functions-vs-procedures-keep-them-separate-5ed7)
 - [Dev.to/JS] [Object.seal&lpar;&rpar; vs Object.freeze&lpar;&rpar;](https://dev.to/merudra754/objectseal-vs-objectfreeze-ejm)
 - [Lifehacker] [These Recalled COVID Tests May Be Contaminated With Bacteria](https://lifehacker.com/these-recalled-covid-tests-may-be-contaminated-with-bac-1850415759)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Decentralized Applications &lpar;dApps&rpar;: Definition, Uses, Pros and Cons](https://dev.to/franklinholguin/decentralized-applications-dapps-definition-uses-pros-and-cons-41mb)
 - [Dev.to/JS] [Spread and Rest operator in JS](https://dev.to/saifullah/spread-and-rest-operator-in-js-jgm)
 - [Dev.to/JS] [How to create a developer blog with Storyblok and Nextjs.](https://dev.to/amissah17/how-to-create-a-developer-blog-with-storyblok-and-nextjs-13ad)
-- [Dev.to/JS] [Understanding Angular ControlValueAccessor](https://dev.to/krishhnaa/understanding-angular-controlvalueaccessor-482h)
 - [Lifehacker] [The Best Places to Sell Your Textbooks &lpar;and When You Can’t&rpar;](https://lifehacker.com/the-best-places-to-sell-your-textbooks-and-when-you-ca-1850415184)
-- [Dev.to/JS] [How to Create a Dynamic JavaScript Amortization Table Application](https://dev.to/grapecity/how-to-create-a-dynamic-javascript-amortization-table-application-1llo)
 - [Lifehacker] [Your Guide to 13 Alternative Flours](https://lifehacker.com/your-guide-to-13-alternative-flours-1850414480)
 - [Lifehacker] [The Gross Things Your Kids Eat That Are Dangerous &lpar;and the Ones That Are Just Gross&rpar;](https://lifehacker.com/the-gross-things-your-kids-eat-that-are-dangerous-and-1850414968)
 - [Lifehacker] [You Can Formally Appeal Your Bad &#39;Final&#39; Grade](https://lifehacker.com/you-can-formally-appeal-your-bad-final-grade-1850414707)
