@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Show Off Your Pet on a Billboard for Free](https://lifehacker.com/you-can-show-off-your-pet-on-a-billboard-for-free-1850419296)
+- [Dev.to/JS] [JavaScript Callback Functions: Because Patience is a Virtue! - The Beginners Guide To Javascript&lpar;Part 9&rpar;](https://dev.to/camskithedev/javascript-callback-functions-because-patience-is-a-virtue-4gg2)
+- [Crazy Programmer] [ScrapingBee API Review 2023 – Features, Pricing, Pros &amp; Cons](https://www.thecrazyprogrammer.com/2023/05/scrapingbee-review.html)
+- [Dev.to/JS] [You don&#39;t need zero JS website for a perfect Lighthouse score](https://dev.to/michalkuncio/you-dont-need-zero-js-website-for-a-perfect-lighthouse-score-25fc)
 - [Dev.to/JS] [15 Rules For Writing Clean JavaScript](https://dev.to/mohammadfaisal/15-rules-for-writing-clean-javascript-1og8)
+- [Lifehacker] [The Best Budgeting Apps Based on Your Savings Goals](https://lifehacker.com/the-best-budgeting-apps-based-on-your-savings-goals-1850419365)
 - [Dev.to/JS] [Do you even write Tests?](https://dev.to/wundergraph/do-you-even-write-tests-8p4)
 - [Dev.to/JS] [RestAPI Code generator](https://dev.to/rams_211/restapi-code-generator-3c78)
 - [Lifehacker] [Embrace the Passwordless Future of Passkeys](https://lifehacker.com/embrace-the-passwordless-future-of-passkeys-1850418024)
@@ -41,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Want To Start working with APIs and backend? Learn how to make HTTP requests in JavaScript](https://dev.to/chideracode/want-to-start-working-with-apis-and-backend-learn-how-to-make-http-requests-in-javascript-a19)
 - [Dev.to/JS] [How to add In-App notifications to any web app!](https://dev.to/novu/how-to-add-in-app-notifications-to-any-web-app-1b4n)
 - [Lifehacker] [Mini Labneh Balls Are the New Cheeseballs](https://lifehacker.com/mini-labneh-balls-are-the-new-cheeseballs-1850416133)
-- [Dev.to/JS] [Esvaziar arrays em JavaScript](https://dev.to/mayconbalves/esvaziar-arrays-em-javascript-34ge)
 - [Lifehacker] [Make This Lazy Dulce De Leche Toast in Three Minutes](https://lifehacker.com/make-this-lazy-dulce-de-leche-toast-in-three-minutes-1850415493)
-- [Dev.to/JS] [Node.js - module.exports vs exports](https://dev.to/finchdev96/nodejs-moduleexports-vs-exports-17l4)
 - [Lifehacker] [What Podcast Made You Fall in Love With Podcasts?](https://lifehacker.com/what-podcast-made-you-fall-in-love-with-podcasts-1850413385)
 - [Lifehacker] [These Recalled COVID Tests May Be Contaminated With Bacteria](https://lifehacker.com/these-recalled-covid-tests-may-be-contaminated-with-bac-1850415759)
 - [Lifehacker] [Always Ask These Three Questions Before Paying a Medical Bill](https://lifehacker.com/always-ask-these-three-questions-before-paying-a-medica-1850415814)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When Nutrition Timing Actually Matters](https://lifehacker.com/when-nutrition-timing-actually-matters-1850410324)
 - [Lifehacker] [How to Plant a Low-Maintenance and Drought-Resistant Gravel Garden](https://lifehacker.com/how-to-plant-a-low-maintenance-and-drought-resistant-gr-1850413911)
 - [Lifehacker] [You Can Overcome &#39;Creative Mortification&#39;](https://lifehacker.com/you-can-overcome-creative-mortification-1850410617)
-- [Lifehacker] [The Best Way to Eat the Crumbs From a Bag of Chips](https://lifehacker.com/the-best-way-to-eat-the-crumbs-from-a-bag-of-chips-1850410597)
-- [Lifehacker] [Eight Signs Your Kid Is Starved for Attention](https://lifehacker.com/eight-signs-your-kid-is-starved-for-attention-1850409326)
-- [Lifehacker] [Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
-- [Lifehacker] [Catch These Bands for $25 During &#39;Concert Week&#39;](https://lifehacker.com/catch-these-bands-for-25-during-concert-week-1850410387)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Eat the Crumbs From a Bag of Chips](https://lifehacker.com/the-best-way-to-eat-the-crumbs-from-a-bag-of-chips-1850410597)<!-- TECH-POSTS:END -->
 
 ---
 
