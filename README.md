@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The only React JS Resources Intro you need](https://dev.to/codepapi/the-only-react-js-resources-intro-you-need-1414)
+- [Dev.to/JS] [Announcing the Micro Frontends Conference](https://dev.to/smapiot/announcing-the-micro-frontends-conference-fkg)
+- [Dev.to/JS] [Sketch Free Download 2023](https://dev.to/millioncrack/sketch-free-download-2023-4775)
+- [Dev.to/JS] [vMix Crack + Registration Code 2023 Free {Download}](https://dev.to/millioncrack/vmix-crack-registration-code-2023-free-download-1a4k)
 - [Dev.to/JS] [Angular Addicts #13: Angular v16, NX v16, SPARTAN &amp; more](https://dev.to/this-is-angular/angular-addicts-13-angular-v16-nx-v16-spartan-more-391e)
 - [Dev.to/JS] [Array.map&lpar;JavaScript array method&rpar; under the hood](https://dev.to/danities316/arraymapjavascript-array-method-under-the-hood-2b02)
 - [Dev.to/JS] [A Night of Coding Triumph: Unmatched Progress and Flawless Undo Button!](https://dev.to/arashjangali/a-night-of-coding-triumph-unmatched-progress-and-flawless-undo-button-33p0)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Does react build command automatically put all files inside public folder to inside build folder?](https://dev.to/mbshehzad/does-react-build-command-automatically-put-all-files-inside-public-folder-to-inside-build-folder-5876)
 - [Dev.to/JS] [Resolvendo problemas no hackerRank: Contando CamelCases](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-contando-camelcases-4nl)
 - [Dev.to/JS] [Understanding angular ControlValueAccessor with an example](https://dev.to/krishhnaa/understanding-angular-controlvalueaccessor-with-an-example-33gb)
-- [Dev.to/JS] [Building a Landing Page with Chakra UI and Framer Motion: My Experience as a React Developer](https://dev.to/babafemijk/building-a-landing-page-with-chakra-ui-and-framer-motion-my-experience-as-a-react-developer-1gal)
-- [Dev.to/JS] [Create a select2 input with alpinejs and livewire](https://dev.to/jojomak13/create-a-select2-input-with-alpinejs-and-livewire-3i2a)
-- [Dev.to/JS] [React Suspense for Data Fetching with Axios in React 18](https://dev.to/alakkadshaw/react-suspense-for-data-fetching-with-axios-in-react-18-5c29)
-- [Dev.to/JS] [Functions vs. Procedures: Keep them separate.](https://dev.to/redbar0n/functions-vs-procedures-keep-them-separate-5ed7)
 - [Lifehacker] [These Recalled COVID Tests May Be Contaminated With Bacteria](https://lifehacker.com/these-recalled-covid-tests-may-be-contaminated-with-bac-1850415759)
 - [Lifehacker] [Always Ask These Three Questions Before Paying a Medical Bill](https://lifehacker.com/always-ask-these-three-questions-before-paying-a-medica-1850415814)
 - [Lifehacker] [Your Brick House Needs Weep Hole Covers](https://lifehacker.com/your-brick-house-needs-weep-hole-covers-1850415342)
