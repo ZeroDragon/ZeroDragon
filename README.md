@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Talking about React Reconciliation](https://dev.to/dougyoshii/talking-about-react-reconciliation-3igi)
+- [Dev.to/JS] [Integrating Kafka with Node.js](https://dev.to/ndulue/integrating-kafka-with-nodejs-104g)
+- [Lifehacker] [Four of the Best Ways to Study &lpar;but Not Cheat&rpar; With ChatGPT](https://lifehacker.com/four-of-the-best-ways-to-study-but-not-cheat-with-cha-1850419522)
+- [Dev.to/JS] [Function Scopes and IIFE Pattern](https://dev.to/pranavbobde/function-scopes-and-iife-pattern-6p7)
+- [Dev.to/JS] [New Meteor.js 2.12 and Blaze 2.6.2 Release](https://dev.to/meteorjs/new-meteorjs-212-and-blaze-262-release-1h37)
+- [Dev.to/JS] [Teste](https://dev.to/tocodando/teste-5cbf)
+- [Lifehacker] [You Can Finally Use Final Cut Pro and Logic Pro on Your iPad](https://lifehacker.com/you-can-finally-use-final-cut-pro-and-logic-pro-on-your-1850418917)
 - [Lifehacker] [You Can Show Off Your Pet on a Billboard for Free](https://lifehacker.com/you-can-show-off-your-pet-on-a-billboard-for-free-1850419296)
 - [Dev.to/JS] [JavaScript Callback Functions: Because Patience is a Virtue! - The Beginners Guide To Javascript&lpar;Part 9&rpar;](https://dev.to/camskithedev/javascript-callback-functions-because-patience-is-a-virtue-4gg2)
 - [Crazy Programmer] [ScrapingBee API Review 2023 – Features, Pricing, Pros &amp; Cons](https://www.thecrazyprogrammer.com/2023/05/scrapingbee-review.html)
@@ -37,14 +44,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Least Stressful Way to Pack Up and Move Out of Your Dorm](https://lifehacker.com/the-least-stressful-way-to-pack-up-and-move-out-of-your-1850418972)
 - [Lifehacker] [Kaya Jam Wants to Be Your New Favorite Condiment](https://lifehacker.com/kaya-jam-wants-to-be-your-new-favorite-condiment-1850417171)
 - [Lifehacker] [Beware of These Personalized ChatGPT Email Scams](https://lifehacker.com/beware-of-these-personalized-chatgpt-email-scams-1850417235)
-- [Dev.to/JS] [Lokalnotes - a on-browser notesapp](https://dev.to/jvondoom/lokalnotes-53bm)
-- [Dev.to/JS] [reduce polyfill](https://dev.to/aman97703/reduce-polyfill-3i4d)
 - [Lifehacker] [Make a Jammy Mass of Caramelized Onions in Your Oven](https://lifehacker.com/make-a-jammy-mass-of-caramelized-onions-in-your-oven-1850417250)
-- [Dev.to/JS] [TOP project: Library - Understanding errors](https://dev.to/resotap/top-project-library-understanding-errors-5853)
 - [Lifehacker] [There&#39;s a Better Way to Vacuum](https://lifehacker.com/theres-a-better-way-to-vacuum-1850415089)
 - [Lifehacker] [Three Unexpected Times You Should Eat Sour Patch Kids](https://lifehacker.com/three-unexpected-times-you-should-eat-sour-patch-kids-1850416642)
-- [Dev.to/JS] [Want To Start working with APIs and backend? Learn how to make HTTP requests in JavaScript](https://dev.to/chideracode/want-to-start-working-with-apis-and-backend-learn-how-to-make-http-requests-in-javascript-a19)
-- [Dev.to/JS] [How to add In-App notifications to any web app!](https://dev.to/novu/how-to-add-in-app-notifications-to-any-web-app-1b4n)
 - [Lifehacker] [Mini Labneh Balls Are the New Cheeseballs](https://lifehacker.com/mini-labneh-balls-are-the-new-cheeseballs-1850416133)
 - [Lifehacker] [Make This Lazy Dulce De Leche Toast in Three Minutes](https://lifehacker.com/make-this-lazy-dulce-de-leche-toast-in-three-minutes-1850415493)
 - [Lifehacker] [What Podcast Made You Fall in Love With Podcasts?](https://lifehacker.com/what-podcast-made-you-fall-in-love-with-podcasts-1850413385)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Claim These PlayStation Plus Collection Games Before Sony Takes Them Away Forever](https://lifehacker.com/claim-these-playstation-plus-collection-games-before-so-1850414479)
 - [Lifehacker] [That Old Bundt Pan Will Make the Perfect Tabletop Flower Pot](https://lifehacker.com/that-old-bundt-pan-will-make-the-perfect-tabletop-flowe-1850414403)
 - [Lifehacker] [When Nutrition Timing Actually Matters](https://lifehacker.com/when-nutrition-timing-actually-matters-1850410324)
-- [Lifehacker] [How to Plant a Low-Maintenance and Drought-Resistant Gravel Garden](https://lifehacker.com/how-to-plant-a-low-maintenance-and-drought-resistant-gr-1850413911)
-- [Lifehacker] [You Can Overcome &#39;Creative Mortification&#39;](https://lifehacker.com/you-can-overcome-creative-mortification-1850410617)
-- [Lifehacker] [The Best Way to Eat the Crumbs From a Bag of Chips](https://lifehacker.com/the-best-way-to-eat-the-crumbs-from-a-bag-of-chips-1850410597)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Plant a Low-Maintenance and Drought-Resistant Gravel Garden](https://lifehacker.com/how-to-plant-a-low-maintenance-and-drought-resistant-gr-1850413911)<!-- TECH-POSTS:END -->
 
 ---
 
