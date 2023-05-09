@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Three Unexpected Times You Should Eat Sour Patch Kids](https://lifehacker.com/three-unexpected-times-you-should-eat-sour-patch-kids-1850416642)
+- [Dev.to/JS] [Want To Start working with APIs and backend? Learn how to make HTTP requests in JavaScript](https://dev.to/chideracode/want-to-start-working-with-apis-and-backend-learn-how-to-make-http-requests-in-javascript-a19)
+- [Dev.to/JS] [How to add In-App notifications to any web app!](https://dev.to/novu/how-to-add-in-app-notifications-to-any-web-app-1b4n)
+- [Lifehacker] [Mini Labneh Balls Are the New Cheeseballs](https://lifehacker.com/mini-labneh-balls-are-the-new-cheeseballs-1850416133)
 - [Dev.to/JS] [Esvaziar arrays em JavaScript](https://dev.to/mayconbalves/esvaziar-arrays-em-javascript-34ge)
 - [Lifehacker] [Make This Lazy Dulce De Leche Toast in Three Minutes](https://lifehacker.com/make-this-lazy-dulce-de-leche-toast-in-three-minutes-1850415493)
 - [Dev.to/JS] [Node.js - module.exports vs exports](https://dev.to/finchdev96/nodejs-moduleexports-vs-exports-17l4)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Page crash when redirect to Mailchimp OAuth login page](https://dev.to/ccerajagopalan/page-crash-when-redirect-to-mailchimp-oauth-login-page-1187)
 - [Dev.to/JS] [How to Get an Online Typing Job in 2023: A Complete Guide](https://dev.to/intisarsyed16/how-to-get-an-online-typing-job-in-2023-a-complete-guide-4amm)
 - [Dev.to/JS] [Neurorise – Ear Benefits, Results, Reviews, Ingredients, Uses &amp; Price?](https://dev.to/neurorisef90540/neurorise-ear-benefits-results-reviews-ingredients-uses-price-2dfb)
-- [Dev.to/JS] [Angular Zone.js &amp; Change Detection: Understanding the Core Concepts](https://dev.to/vivekdogra02/angular-zonejs-change-detection-understanding-the-core-concepts-16ek)
-- [Dev.to/JS] [What is the Best Platform for Online Typing Jobs in Pakistan?](https://dev.to/intisarsyed16/what-is-the-best-platform-for-online-typing-jobs-in-pakistan-42go)
 - [Lifehacker] [These Recalled COVID Tests May Be Contaminated With Bacteria](https://lifehacker.com/these-recalled-covid-tests-may-be-contaminated-with-bac-1850415759)
 - [Lifehacker] [Always Ask These Three Questions Before Paying a Medical Bill](https://lifehacker.com/always-ask-these-three-questions-before-paying-a-medica-1850415814)
 - [Lifehacker] [Your Brick House Needs Weep Hole Covers](https://lifehacker.com/your-brick-house-needs-weep-hole-covers-1850415342)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Shrubs and Bushes &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-shrubs-and-bushes-and-why-it-ma-1850410499)
 - [Lifehacker] [How to Save Wilted Roses in Your Garden](https://lifehacker.com/how-to-save-wilted-roses-in-your-garden-1850410557)
 - [Lifehacker] [These Are the Best and Worst States for Saving Money](https://lifehacker.com/these-are-the-best-and-worst-states-for-saving-money-1850410531)
-- [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
-- [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-you-can-get-right-now-1850409952)
-- [Lifehacker] [This App Can ID Any Bird In Your Neighborhood by Sight or Sound](https://lifehacker.com/this-app-can-id-any-bird-in-your-neighborhood-by-sight-1850409631)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)<!-- TECH-POSTS:END -->
 
 ---
 
