@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [15 Rules For Writing Clean JavaScript](https://dev.to/mohammadfaisal/15-rules-for-writing-clean-javascript-1og8)
+- [Dev.to/JS] [Do you even write Tests?](https://dev.to/wundergraph/do-you-even-write-tests-8p4)
+- [Dev.to/JS] [RestAPI Code generator](https://dev.to/rams_211/restapi-code-generator-3c78)
+- [Lifehacker] [Embrace the Passwordless Future of Passkeys](https://lifehacker.com/embrace-the-passwordless-future-of-passkeys-1850418024)
+- [Dev.to/JS] [Notifications in progressive web apps using web push](https://dev.to/inezabonte/notifications-in-progressive-web-apps-using-web-push-593l)
+- [Dev.to/JS] [20 Best JavaScript Frameworks For 2023](https://dev.to/scofieldidehen/20-best-javascript-frameworks-for-2023-2o39)
+- [Lifehacker] [The Least Stressful Way to Pack Up and Move Out of Your Dorm](https://lifehacker.com/the-least-stressful-way-to-pack-up-and-move-out-of-your-1850418972)
 - [Lifehacker] [Kaya Jam Wants to Be Your New Favorite Condiment](https://lifehacker.com/kaya-jam-wants-to-be-your-new-favorite-condiment-1850417171)
 - [Lifehacker] [Beware of These Personalized ChatGPT Email Scams](https://lifehacker.com/beware-of-these-personalized-chatgpt-email-scams-1850417235)
 - [Dev.to/JS] [Lokalnotes - a on-browser notesapp](https://dev.to/jvondoom/lokalnotes-53bm)
@@ -37,12 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Esvaziar arrays em JavaScript](https://dev.to/mayconbalves/esvaziar-arrays-em-javascript-34ge)
 - [Lifehacker] [Make This Lazy Dulce De Leche Toast in Three Minutes](https://lifehacker.com/make-this-lazy-dulce-de-leche-toast-in-three-minutes-1850415493)
 - [Dev.to/JS] [Node.js - module.exports vs exports](https://dev.to/finchdev96/nodejs-moduleexports-vs-exports-17l4)
-- [Dev.to/JS] [Resolvendo erro delete `CR` prettier/prettier em projetos react](https://dev.to/mayconbalves/resolvendo-erro-delete-cr-prettierprettier-em-projetos-react-2fc2)
 - [Lifehacker] [What Podcast Made You Fall in Love With Podcasts?](https://lifehacker.com/what-podcast-made-you-fall-in-love-with-podcasts-1850413385)
-- [Dev.to/JS] [The Benefits of Using Node.js for Real-time Data Processing](https://dev.to/folasayosamuel/the-benefits-of-using-nodejs-for-real-time-data-processing-3f0l)
-- [Dev.to/JS] [Add comments to your Docusaurus website in 5 minutes](https://dev.to/anshuman_bhardwaj/add-comments-to-your-docusaurus-website-in-5-minutes-3pck)
-- [Dev.to/JS] [How to Use Promise.all and Promise.race to Speed Up Your JavaScript Code](https://dev.to/this-is-learning/how-to-use-promiseall-and-promiseraceto-speed-up-your-javascript-code-3obh)
-- [Dev.to/JS] [Moonly weekly progress update #48 - Optimizing our Discord Bot](https://dev.to/moonly/moonly-weekly-progress-update-48-optimizing-our-discord-bot-410m)
 - [Lifehacker] [These Recalled COVID Tests May Be Contaminated With Bacteria](https://lifehacker.com/these-recalled-covid-tests-may-be-contaminated-with-bac-1850415759)
 - [Lifehacker] [Always Ask These Three Questions Before Paying a Medical Bill](https://lifehacker.com/always-ask-these-three-questions-before-paying-a-medica-1850415814)
 - [Lifehacker] [Your Brick House Needs Weep Hole Covers](https://lifehacker.com/your-brick-house-needs-weep-hole-covers-1850415342)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Eat the Crumbs From a Bag of Chips](https://lifehacker.com/the-best-way-to-eat-the-crumbs-from-a-bag-of-chips-1850410597)
 - [Lifehacker] [Eight Signs Your Kid Is Starved for Attention](https://lifehacker.com/eight-signs-your-kid-is-starved-for-attention-1850409326)
 - [Lifehacker] [Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
-- [Lifehacker] [Catch These Bands for $25 During &#39;Concert Week&#39;](https://lifehacker.com/catch-these-bands-for-25-during-concert-week-1850410387)
-- [Lifehacker] [Use a Pool Noodle to Hang Dry Your Laundry](https://lifehacker.com/use-a-pool-noodle-to-hang-dry-your-laundry-1850410485)
-- [Lifehacker] [How to Save Money When Negotiating to Buy a Certified Pre-Owned Car](https://lifehacker.com/how-to-save-money-when-negotiating-to-buy-a-certified-p-1850410494)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Catch These Bands for $25 During &#39;Concert Week&#39;](https://lifehacker.com/catch-these-bands-for-25-during-concert-week-1850410387)<!-- TECH-POSTS:END -->
 
 ---
 
