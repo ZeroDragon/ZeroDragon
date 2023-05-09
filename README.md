@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [LokalNotes](https://dev.to/jvondoom/lokalnotes-53bm)
+- [Lifehacker] [Kaya Jam Wants to Be Your New Favorite Condiment](https://lifehacker.com/kaya-jam-wants-to-be-your-new-favorite-condiment-1850417171)
+- [Lifehacker] [Beware of These Personalized ChatGPT Email Scams](https://lifehacker.com/beware-of-these-personalized-chatgpt-email-scams-1850417235)
+- [Dev.to/JS] [Lokalnotes - a on-browser notesapp](https://dev.to/jvondoom/lokalnotes-53bm)
 - [Dev.to/JS] [reduce polyfill](https://dev.to/aman97703/reduce-polyfill-3i4d)
 - [Lifehacker] [Make a Jammy Mass of Caramelized Onions in Your Oven](https://lifehacker.com/make-a-jammy-mass-of-caramelized-onions-in-your-oven-1850417250)
 - [Dev.to/JS] [TOP project: Library - Understanding errors](https://dev.to/resotap/top-project-library-understanding-errors-5853)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Guide to Living Secretly in a Stranger&#39;s Home](https://lifehacker.com/your-guide-to-living-secretly-in-a-strangers-home-1850409226)
 - [Lifehacker] [Catch These Bands for $25 During &#39;Concert Week&#39;](https://lifehacker.com/catch-these-bands-for-25-during-concert-week-1850410387)
 - [Lifehacker] [Use a Pool Noodle to Hang Dry Your Laundry](https://lifehacker.com/use-a-pool-noodle-to-hang-dry-your-laundry-1850410485)
-- [Lifehacker] [How to Save Money When Negotiating to Buy a Certified Pre-Owned Car](https://lifehacker.com/how-to-save-money-when-negotiating-to-buy-a-certified-p-1850410494)
-- [Lifehacker] [The Difference Between Shrubs and Bushes &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-shrubs-and-bushes-and-why-it-ma-1850410499)
-- [Lifehacker] [How to Save Wilted Roses in Your Garden](https://lifehacker.com/how-to-save-wilted-roses-in-your-garden-1850410557)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Save Money When Negotiating to Buy a Certified Pre-Owned Car](https://lifehacker.com/how-to-save-money-when-negotiating-to-buy-a-certified-p-1850410494)<!-- TECH-POSTS:END -->
 
 ---
 
