@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Esvaziar arrays em JavaScript](https://dev.to/mayconbalves/esvaziar-arrays-em-javascript-34ge)
+- [Lifehacker] [Make This Lazy Dulce De Leche Toast in Three Minutes](https://lifehacker.com/make-this-lazy-dulce-de-leche-toast-in-three-minutes-1850415493)
 - [Dev.to/JS] [Node.js - module.exports vs exports](https://dev.to/finchdev96/nodejs-moduleexports-vs-exports-17l4)
 - [Dev.to/JS] [Resolvendo erro delete `CR` prettier/prettier em projetos react](https://dev.to/mayconbalves/resolvendo-erro-delete-cr-prettierprettier-em-projetos-react-2fc2)
 - [Lifehacker] [What Podcast Made You Fall in Love With Podcasts?](https://lifehacker.com/what-podcast-made-you-fall-in-love-with-podcasts-1850413385)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Neurorise – Ear Benefits, Results, Reviews, Ingredients, Uses &amp; Price?](https://dev.to/neurorisef90540/neurorise-ear-benefits-results-reviews-ingredients-uses-price-2dfb)
 - [Dev.to/JS] [Angular Zone.js &amp; Change Detection: Understanding the Core Concepts](https://dev.to/vivekdogra02/angular-zonejs-change-detection-understanding-the-core-concepts-16ek)
 - [Dev.to/JS] [What is the Best Platform for Online Typing Jobs in Pakistan?](https://dev.to/intisarsyed16/what-is-the-best-platform-for-online-typing-jobs-in-pakistan-42go)
-- [Dev.to/JS] [Passing Data from a Child Component to a Parent Component](https://dev.to/ikechukwu411/passing-data-from-a-child-component-to-a-parent-component-5g31)
 - [Lifehacker] [These Recalled COVID Tests May Be Contaminated With Bacteria](https://lifehacker.com/these-recalled-covid-tests-may-be-contaminated-with-bac-1850415759)
 - [Lifehacker] [Always Ask These Three Questions Before Paying a Medical Bill](https://lifehacker.com/always-ask-these-three-questions-before-paying-a-medica-1850415814)
 - [Lifehacker] [Your Brick House Needs Weep Hole Covers](https://lifehacker.com/your-brick-house-needs-weep-hole-covers-1850415342)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best and Worst States for Saving Money](https://lifehacker.com/these-are-the-best-and-worst-states-for-saving-money-1850410531)
 - [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)
 - [Lifehacker] [The Best Student Discounts You Can Get Right Now](https://lifehacker.com/the-best-student-discounts-you-can-get-right-now-1850409952)
-- [Lifehacker] [This App Can ID Any Bird In Your Neighborhood by Sight or Sound](https://lifehacker.com/this-app-can-id-any-bird-in-your-neighborhood-by-sight-1850409631)
-- [Lifehacker] [&#39;Swedish Death Cleaning&#39; Can Improve Your Life Right Now](https://lifehacker.com/swedish-death-cleaning-can-improve-your-life-right-now-1850409420)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This App Can ID Any Bird In Your Neighborhood by Sight or Sound](https://lifehacker.com/this-app-can-id-any-bird-in-your-neighborhood-by-sight-1850409631)<!-- TECH-POSTS:END -->
 
 ---
 
