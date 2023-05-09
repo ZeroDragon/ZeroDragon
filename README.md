@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Manage VS Code Extensions](https://dev.to/youngzeji/how-to-manage-vs-code-extensions-2i1i)
+- [Dev.to/JS] [Self Host A FREE Retool Alternative On Ubuntu 22.04 LTS](https://dev.to/iamaestimo/self-host-a-free-retool-alternative-onubuntu-2204-lts-1c7i)
+- [Dev.to/JS] [Can You Improve Your Typing Speed?](https://dev.to/intisarsyed16/can-you-improve-your-typing-speed-ln4)
 - [Dev.to/JS] [Building An Image Slider With Swiper Js](https://dev.to/tracy4code/building-an-image-slider-with-swiper-js-l4o)
 - [Dev.to/JS] [The only React JS Resources Intro you need](https://dev.to/codepapi/the-only-react-js-resources-intro-you-need-1414)
 - [Dev.to/JS] [Announcing the Micro Frontends Conference](https://dev.to/smapiot/announcing-the-micro-frontends-conference-fkg)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array.map&lpar;JavaScript array method&rpar; under the hood](https://dev.to/danities316/arraymapjavascript-array-method-under-the-hood-2b02)
 - [Dev.to/JS] [A Night of Coding Triumph: Unmatched Progress and Flawless Undo Button!](https://dev.to/arashjangali/a-night-of-coding-triumph-unmatched-progress-and-flawless-undo-button-33p0)
 - [Dev.to/JS] [What are global types/interfaces in TypeScript?](https://dev.to/tomoy/what-are-global-typesinterfaces-in-typescript-2h4)
-- [Dev.to/JS] [How to Build Flutter Android Apps to Scan Documents from AirPrint MFPs](https://dev.to/yushulx/how-to-build-flutter-android-apps-to-scan-documents-from-airprint-mfps-5215)
-- [Dev.to/JS] [Does react build command automatically put all files inside public folder to inside build folder?](https://dev.to/mbshehzad/does-react-build-command-automatically-put-all-files-inside-public-folder-to-inside-build-folder-5876)
-- [Dev.to/JS] [Resolvendo problemas no hackerRank: Contando CamelCases](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-contando-camelcases-4nl)
 - [Lifehacker] [These Recalled COVID Tests May Be Contaminated With Bacteria](https://lifehacker.com/these-recalled-covid-tests-may-be-contaminated-with-bac-1850415759)
 - [Lifehacker] [Always Ask These Three Questions Before Paying a Medical Bill](https://lifehacker.com/always-ask-these-three-questions-before-paying-a-medica-1850415814)
 - [Lifehacker] [Your Brick House Needs Weep Hole Covers](https://lifehacker.com/your-brick-house-needs-weep-hole-covers-1850415342)
