@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular Addicts #13: Angular v16, NX v16, SPARTAN &amp; more](https://dev.to/this-is-angular/angular-addicts-13-angular-v16-nx-v16-spartan-more-391e)
 - [Dev.to/JS] [Array.map&lpar;JavaScript array method&rpar; under the hood](https://dev.to/danities316/arraymapjavascript-array-method-under-the-hood-2b02)
 - [Dev.to/JS] [A Night of Coding Triumph: Unmatched Progress and Flawless Undo Button!](https://dev.to/arashjangali/a-night-of-coding-triumph-unmatched-progress-and-flawless-undo-button-33p0)
 - [Dev.to/JS] [What are global types/interfaces in TypeScript?](https://dev.to/tomoy/what-are-global-typesinterfaces-in-typescript-2h4)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a select2 input with alpinejs and livewire](https://dev.to/jojomak13/create-a-select2-input-with-alpinejs-and-livewire-3i2a)
 - [Dev.to/JS] [React Suspense for Data Fetching with Axios in React 18](https://dev.to/alakkadshaw/react-suspense-for-data-fetching-with-axios-in-react-18-5c29)
 - [Dev.to/JS] [Functions vs. Procedures: Keep them separate.](https://dev.to/redbar0n/functions-vs-procedures-keep-them-separate-5ed7)
-- [Dev.to/JS] [Object.seal&lpar;&rpar; vs Object.freeze&lpar;&rpar;](https://dev.to/merudra754/objectseal-vs-objectfreeze-ejm)
 - [Lifehacker] [These Recalled COVID Tests May Be Contaminated With Bacteria](https://lifehacker.com/these-recalled-covid-tests-may-be-contaminated-with-bac-1850415759)
 - [Lifehacker] [Always Ask These Three Questions Before Paying a Medical Bill](https://lifehacker.com/always-ask-these-three-questions-before-paying-a-medica-1850415814)
 - [Lifehacker] [Your Brick House Needs Weep Hole Covers](https://lifehacker.com/your-brick-house-needs-weep-hole-covers-1850415342)
