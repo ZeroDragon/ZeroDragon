@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building An Image Slider With Swiper Js](https://dev.to/tracy4code/building-an-image-slider-with-swiper-js-l4o)
 - [Dev.to/JS] [The only React JS Resources Intro you need](https://dev.to/codepapi/the-only-react-js-resources-intro-you-need-1414)
 - [Dev.to/JS] [Announcing the Micro Frontends Conference](https://dev.to/smapiot/announcing-the-micro-frontends-conference-fkg)
 - [Dev.to/JS] [Sketch Free Download 2023](https://dev.to/millioncrack/sketch-free-download-2023-4775)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build Flutter Android Apps to Scan Documents from AirPrint MFPs](https://dev.to/yushulx/how-to-build-flutter-android-apps-to-scan-documents-from-airprint-mfps-5215)
 - [Dev.to/JS] [Does react build command automatically put all files inside public folder to inside build folder?](https://dev.to/mbshehzad/does-react-build-command-automatically-put-all-files-inside-public-folder-to-inside-build-folder-5876)
 - [Dev.to/JS] [Resolvendo problemas no hackerRank: Contando CamelCases](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-contando-camelcases-4nl)
-- [Dev.to/JS] [Understanding angular ControlValueAccessor with an example](https://dev.to/krishhnaa/understanding-angular-controlvalueaccessor-with-an-example-33gb)
 - [Lifehacker] [These Recalled COVID Tests May Be Contaminated With Bacteria](https://lifehacker.com/these-recalled-covid-tests-may-be-contaminated-with-bac-1850415759)
 - [Lifehacker] [Always Ask These Three Questions Before Paying a Medical Bill](https://lifehacker.com/always-ask-these-three-questions-before-paying-a-medica-1850415814)
 - [Lifehacker] [Your Brick House Needs Weep Hole Covers](https://lifehacker.com/your-brick-house-needs-weep-hole-covers-1850415342)
