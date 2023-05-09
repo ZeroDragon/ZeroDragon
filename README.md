@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are global types/interfaces in TypeScript?](https://dev.to/tomoy/what-are-global-typesinterfaces-in-typescript-2h4)
 - [Dev.to/JS] [How to Build Flutter Android Apps to Scan Documents from AirPrint MFPs](https://dev.to/yushulx/how-to-build-flutter-android-apps-to-scan-documents-from-airprint-mfps-5215)
 - [Dev.to/JS] [Does react build command automatically put all files inside public folder to inside build folder?](https://dev.to/mbshehzad/does-react-build-command-automatically-put-all-files-inside-public-folder-to-inside-build-folder-5876)
 - [Dev.to/JS] [Resolvendo problemas no hackerRank: Contando CamelCases](https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-contando-camelcases-4nl)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I built a Formik Alternative 🤫, here&#39;s how](https://dev.to/creatorslook/i-built-a-formik-alternative-heres-how-440o)
 - [Dev.to/JS] [Build a JavaScript Cash Flow Application with Cascading Sparklines](https://dev.to/grapecity/build-a-javascript-cash-flow-application-with-cascading-sparklines-3bf0)
 - [Lifehacker] [Always Ask These Three Questions Before Paying a Medical Bill](https://lifehacker.com/always-ask-these-three-questions-before-paying-a-medica-1850415814)
-- [Dev.to/JS] [Unleash Your Inner AI Superhero: 5 Must-Have Tools for the Modern Innovator](https://dev.to/thenomadevel/unleash-your-inner-ai-superhero-5-must-have-tools-for-the-modern-innovator-pad)
 - [Lifehacker] [Your Brick House Needs Weep Hole Covers](https://lifehacker.com/your-brick-house-needs-weep-hole-covers-1850415342)
 - [Lifehacker] [Relive Your Childhood Games With This Free CD-ROM Archive](https://lifehacker.com/relive-your-childhood-games-with-this-free-cd-rom-archi-1850408876)
 - [Lifehacker] [The Best Places to Sell Your Textbooks &lpar;and When You Can’t&rpar;](https://lifehacker.com/the-best-places-to-sell-your-textbooks-and-when-you-ca-1850415184)
