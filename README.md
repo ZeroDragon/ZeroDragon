@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Array.map&lpar;JavaScript array method&rpar; under the hood](https://dev.to/danities316/arraymapjavascript-array-method-under-the-hood-2b02)
+- [Dev.to/JS] [A Night of Coding Triumph: Unmatched Progress and Flawless Undo Button!](https://dev.to/arashjangali/a-night-of-coding-triumph-unmatched-progress-and-flawless-undo-button-33p0)
 - [Dev.to/JS] [What are global types/interfaces in TypeScript?](https://dev.to/tomoy/what-are-global-typesinterfaces-in-typescript-2h4)
 - [Dev.to/JS] [How to Build Flutter Android Apps to Scan Documents from AirPrint MFPs](https://dev.to/yushulx/how-to-build-flutter-android-apps-to-scan-documents-from-airprint-mfps-5215)
 - [Dev.to/JS] [Does react build command automatically put all files inside public folder to inside build folder?](https://dev.to/mbshehzad/does-react-build-command-automatically-put-all-files-inside-public-folder-to-inside-build-folder-5876)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Functions vs. Procedures: Keep them separate.](https://dev.to/redbar0n/functions-vs-procedures-keep-them-separate-5ed7)
 - [Dev.to/JS] [Object.seal&lpar;&rpar; vs Object.freeze&lpar;&rpar;](https://dev.to/merudra754/objectseal-vs-objectfreeze-ejm)
 - [Lifehacker] [These Recalled COVID Tests May Be Contaminated With Bacteria](https://lifehacker.com/these-recalled-covid-tests-may-be-contaminated-with-bac-1850415759)
-- [Dev.to/JS] [I built a Formik Alternative 🤫, here&#39;s how](https://dev.to/creatorslook/i-built-a-formik-alternative-heres-how-440o)
-- [Dev.to/JS] [Build a JavaScript Cash Flow Application with Cascading Sparklines](https://dev.to/grapecity/build-a-javascript-cash-flow-application-with-cascading-sparklines-3bf0)
 - [Lifehacker] [Always Ask These Three Questions Before Paying a Medical Bill](https://lifehacker.com/always-ask-these-three-questions-before-paying-a-medica-1850415814)
 - [Lifehacker] [Your Brick House Needs Weep Hole Covers](https://lifehacker.com/your-brick-house-needs-weep-hole-covers-1850415342)
 - [Lifehacker] [Relive Your Childhood Games With This Free CD-ROM Archive](https://lifehacker.com/relive-your-childhood-games-with-this-free-cd-rom-archi-1850408876)
