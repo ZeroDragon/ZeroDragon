@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LokalNotes](https://dev.to/jvondoom/lokalnotes-53bm)
+- [Dev.to/JS] [reduce polyfill](https://dev.to/aman97703/reduce-polyfill-3i4d)
+- [Lifehacker] [Make a Jammy Mass of Caramelized Onions in Your Oven](https://lifehacker.com/make-a-jammy-mass-of-caramelized-onions-in-your-oven-1850417250)
+- [Dev.to/JS] [TOP project: Library - Understanding errors](https://dev.to/resotap/top-project-library-understanding-errors-5853)
+- [Lifehacker] [There&#39;s a Better Way to Vacuum](https://lifehacker.com/theres-a-better-way-to-vacuum-1850415089)
 - [Lifehacker] [Three Unexpected Times You Should Eat Sour Patch Kids](https://lifehacker.com/three-unexpected-times-you-should-eat-sour-patch-kids-1850416642)
 - [Dev.to/JS] [Want To Start working with APIs and backend? Learn how to make HTTP requests in JavaScript](https://dev.to/chideracode/want-to-start-working-with-apis-and-backend-learn-how-to-make-http-requests-in-javascript-a19)
 - [Dev.to/JS] [How to add In-App notifications to any web app!](https://dev.to/novu/how-to-add-in-app-notifications-to-any-web-app-1b4n)
@@ -36,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add comments to your Docusaurus website in 5 minutes](https://dev.to/anshuman_bhardwaj/add-comments-to-your-docusaurus-website-in-5-minutes-3pck)
 - [Dev.to/JS] [How to Use Promise.all and Promise.race to Speed Up Your JavaScript Code](https://dev.to/this-is-learning/how-to-use-promiseall-and-promiseraceto-speed-up-your-javascript-code-3obh)
 - [Dev.to/JS] [Moonly weekly progress update #48 - Optimizing our Discord Bot](https://dev.to/moonly/moonly-weekly-progress-update-48-optimizing-our-discord-bot-410m)
-- [Dev.to/JS] [Page crash when redirect to Mailchimp OAuth login page](https://dev.to/ccerajagopalan/page-crash-when-redirect-to-mailchimp-oauth-login-page-1187)
-- [Dev.to/JS] [How to Get an Online Typing Job in 2023: A Complete Guide](https://dev.to/intisarsyed16/how-to-get-an-online-typing-job-in-2023-a-complete-guide-4amm)
-- [Dev.to/JS] [Neurorise – Ear Benefits, Results, Reviews, Ingredients, Uses &amp; Price?](https://dev.to/neurorisef90540/neurorise-ear-benefits-results-reviews-ingredients-uses-price-2dfb)
 - [Lifehacker] [These Recalled COVID Tests May Be Contaminated With Bacteria](https://lifehacker.com/these-recalled-covid-tests-may-be-contaminated-with-bac-1850415759)
 - [Lifehacker] [Always Ask These Three Questions Before Paying a Medical Bill](https://lifehacker.com/always-ask-these-three-questions-before-paying-a-medica-1850415814)
 - [Lifehacker] [Your Brick House Needs Weep Hole Covers](https://lifehacker.com/your-brick-house-needs-weep-hole-covers-1850415342)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use a Pool Noodle to Hang Dry Your Laundry](https://lifehacker.com/use-a-pool-noodle-to-hang-dry-your-laundry-1850410485)
 - [Lifehacker] [How to Save Money When Negotiating to Buy a Certified Pre-Owned Car](https://lifehacker.com/how-to-save-money-when-negotiating-to-buy-a-certified-p-1850410494)
 - [Lifehacker] [The Difference Between Shrubs and Bushes &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-shrubs-and-bushes-and-why-it-ma-1850410499)
-- [Lifehacker] [How to Save Wilted Roses in Your Garden](https://lifehacker.com/how-to-save-wilted-roses-in-your-garden-1850410557)
-- [Lifehacker] [These Are the Best and Worst States for Saving Money](https://lifehacker.com/these-are-the-best-and-worst-states-for-saving-money-1850410531)
-- [Lifehacker] [These Are the Best Mother&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-mothers-day-food-deals-and-freebies-1850410127)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Save Wilted Roses in Your Garden](https://lifehacker.com/how-to-save-wilted-roses-in-your-garden-1850410557)<!-- TECH-POSTS:END -->
 
 ---
 
