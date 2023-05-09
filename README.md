@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Passing Data from a Child Component to a Parent Component](https://dev.to/ikechukwu411/passing-data-from-a-child-component-to-a-parent-component-5g31)
+- [Dev.to/JS] [Debouncing vs Throttling in JS](https://dev.to/shishsingh/debouncing-vs-throttling-in-js-5dpa)
 - [Dev.to/JS] [How to Manage VS Code Extensions](https://dev.to/youngzeji/how-to-manage-vs-code-extensions-2i1i)
 - [Dev.to/JS] [Self Host A FREE Retool Alternative On Ubuntu 22.04 LTS](https://dev.to/iamaestimo/self-host-a-free-retool-alternative-onubuntu-2204-lts-1c7i)
 - [Dev.to/JS] [Can You Improve Your Typing Speed?](https://dev.to/intisarsyed16/can-you-improve-your-typing-speed-ln4)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [vMix Crack + Registration Code 2023 Free {Download}](https://dev.to/millioncrack/vmix-crack-registration-code-2023-free-download-1a4k)
 - [Dev.to/JS] [Angular Addicts #13: Angular v16, NX v16, SPARTAN &amp; more](https://dev.to/this-is-angular/angular-addicts-13-angular-v16-nx-v16-spartan-more-391e)
 - [Dev.to/JS] [Array.map&lpar;JavaScript array method&rpar; under the hood](https://dev.to/danities316/arraymapjavascript-array-method-under-the-hood-2b02)
-- [Dev.to/JS] [A Night of Coding Triumph: Unmatched Progress and Flawless Undo Button!](https://dev.to/arashjangali/a-night-of-coding-triumph-unmatched-progress-and-flawless-undo-button-33p0)
-- [Dev.to/JS] [What are global types/interfaces in TypeScript?](https://dev.to/tomoy/what-are-global-typesinterfaces-in-typescript-2h4)
 - [Lifehacker] [These Recalled COVID Tests May Be Contaminated With Bacteria](https://lifehacker.com/these-recalled-covid-tests-may-be-contaminated-with-bac-1850415759)
 - [Lifehacker] [Always Ask These Three Questions Before Paying a Medical Bill](https://lifehacker.com/always-ask-these-three-questions-before-paying-a-medica-1850415814)
 - [Lifehacker] [Your Brick House Needs Weep Hole Covers](https://lifehacker.com/your-brick-house-needs-weep-hole-covers-1850415342)
