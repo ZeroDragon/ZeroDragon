@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I have created an application on asp.net web application that creates a range of QRCodes](https://dev.to/adinaparvez/i-have-created-an-application-on-aspnet-web-application-that-creates-a-range-of-qrcodes-mko)
+- [Dev.to/JS] [Scatter chart + Ellipse chart with LightningChart JS](https://dev.to/lightningchart/scatter-chart-ellipse-chart-with-lightningchart-js-36cl)
+- [Dev.to/JS] [Speeding up B2B pricing on your website](https://dev.to/enterspeed/speeding-up-b2b-pricing-on-your-website-112i)
 - [Dev.to/JS] [Secure Coding 101: How to Use Random Function](https://dev.to/smartscanner/secure-coding-101-how-to-use-random-function-50hp)
 - [Dev.to/JS] [How to get rid of QuickBooks error code 15241?](https://dev.to/elinawilliam12/how-to-get-rid-of-quickbooks-error-code-15241-252n)
 - [Dev.to/JS] [React Closure in depth | React State behavior with Closures](https://dev.to/47karimasif/react-closure-in-depth-react-state-behavior-with-closures-2b5e)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Essential React JS Tools for Web Development](https://dev.to/nikhilxd/essential-react-js-tools-for-web-development-29h1)
 - [Dev.to/JS] [Weekly web development resources #148](https://dev.to/vincenius/weekly-web-development-resources-148-4fkl)
 - [Dev.to/JS] [I don&#39;t like js. I don&#39;t like htmx. So I created uajax - library to make form ajaxed](https://dev.to/auct/i-dont-like-js-i-dont-like-htmx-so-i-created-uajax-library-to-make-form-ajaxed-57mh)
-- [Dev.to/JS] [Optional Chaining in JavaScript&lpar;?.&rpar;](https://dev.to/stevepurpose/optional-chaining-in-javascript-2635)
-- [Dev.to/JS] [Unlock the power of array.filter&lpar;&rpar; with a deep dive into its inner workings](https://dev.to/danities316/arrayfilterjavascript-under-the-hood-3kgk)
-- [Dev.to/JS] [Interactivity with Stimulus](https://dev.to/shayanlk/intractivity-with-stimulus-46ej)
 - [Lifehacker] [The Dos and Don&#39;ts of Texting in a New Relationship](https://lifehacker.com/the-dos-and-donts-of-texting-in-a-new-relationship-1850355096)
 - [Lifehacker] [The Most Commonly Wasted Foods &lpar;and How to Stop Wasting Them&rpar;](https://lifehacker.com/the-most-commonly-wasted-foods-and-how-to-stop-wasting-1850359331)
 - [Lifehacker] [Don’t Make These Mistakes When Buying a New Dryer](https://lifehacker.com/don-t-make-these-mistakes-when-buying-a-new-dryer-1850368737)
