@@ -23,6 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Your Phone&#39;s Background Can Help You Study](https://lifehacker.com/how-your-phones-background-can-help-you-study-1850424491)
+- [Dev.to/JS] [Queue Data Structure in JavaScript](https://dev.to/martinsonuoha/queue-data-structure-in-javascript-149n)
+- [Dev.to/JS] [Explanation to React JS hook!](https://dev.to/respect17/explanation-to-react-js-hook-2n12)
+- [Lifehacker] [Dehydrate Some Caramelized Onions and Crumble Them Over Everything](https://lifehacker.com/dehydrate-some-caramelized-onions-and-crumble-them-over-1850424677)
+- [Dev.to/JS] [Integrating Stripe Payments in Ionic Vue JS App with Capacitor and NodeJS](https://dev.to/aaronksaunders/integrating-stripe-payments-in-ionic-vue-js-app-with-capacitor-and-nodejs-13f2)
+- [Dev.to/JS] [How I learned about JavaScript Proxy and why it&#39;s so cool!](https://dev.to/h_sifat/how-i-learned-about-javascript-proxy-and-why-its-so-cool-1mc)
+- [Lifehacker] [Basic Car Maintenance and Repairs You Can &lpar;and Should&rpar; Do Yourself](https://lifehacker.com/basic-car-maintenance-and-repairs-you-can-and-should-1850422201)
+- [Dev.to/JS] [Implement circuit breaker in Javascript](https://dev.to/moniv9/implement-circuit-breaker-in-javascript-3ihk)
+- [Dev.to/JS] [Diff form Two Arrays](https://dev.to/muhmmadawd/diff-form-two-arrays-4je3)
+- [Dev.to/JS] [Implement multi-language Support in React](https://dev.to/mohammadfaisal/implement-multi-language-support-in-react-53j2)
 - [Lifehacker] [When You Might Need a French Drain &lpar;and How to Build One Yourself&rpar;](https://lifehacker.com/when-you-might-need-a-french-drain-and-how-to-build-on-1850421942)
 - [Dev.to/JS] [Django Crypto App Part 1: Functional Requirements and Setup](https://dev.to/highnessatharva/django-crypto-app-part-1-functional-requirements-and-setup-3ji0)
 - [Lifehacker] [Update Your PC Right Now to Fix These Actively Exploited Security Vulnerabilities](https://lifehacker.com/update-your-pc-right-now-to-fix-these-actively-exploite-1850423910)
@@ -33,17 +43,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sum All Numbers in a Range](https://dev.to/muhmmadawd/sum-all-numbers-in-a-range-1p8o)
 - [Dev.to/JS] [React ForwardRef](https://dev.to/alakkadshaw/react-forwardref-1dkn)
 - [Lifehacker] [How to Survive a Mass Shooting, According to the FBI](https://lifehacker.com/how-to-survive-a-mass-shooting-according-to-the-fbi-1850421431)
-- [Dev.to/JS] [Building a Whiteboard with React and Canvas API. Part 1: First steps.](https://dev.to/smirnovw/building-a-whiteboard-with-react-and-canvas-api-part-1-first-steps-40c4)
 - [Lifehacker] [How to Speed Up Your Global Entry Enrollment](https://lifehacker.com/how-to-speed-up-your-global-entry-enrollment-1850422313)
-- [Dev.to/JS] [Building a Custom React Hook for Data Fetching: A Practical Guide](https://dev.to/raxraj/building-a-custom-react-hook-for-data-fetching-a-practical-guide-3jjc)
 - [Lifehacker] [What to Do on Fridays to Make Mondays Easier, According to Reddit](https://lifehacker.com/what-to-do-on-fridays-to-make-mondays-easier-according-1850420777)
-- [Dev.to/JS] [What are functions in JavaScript?](https://dev.to/theshrish46/what-are-functions-in-javascript-j71)
 - [Lifehacker] [You Can Totally Cook Eggs In a Stainless Steel Pan](https://lifehacker.com/you-can-totally-cook-eggs-in-a-stainless-steel-pan-1850421285)
-- [Dev.to/JS] [Getting Started with ElectronJS](https://dev.to/dionziddh/getting-started-with-electronjs-45je)
-- [Dev.to/JS] [JavaScript arrow function](https://dev.to/syedfaysel/javascript-arrow-function-50mc)
 - [Lifehacker] [These Large Retailers Are Closing Stores &lpar;and Will Have Liquidation Sales&rpar;](https://lifehacker.com/these-large-retailers-are-closing-stores-and-will-have-1850420690)
-- [Dev.to/JS] [Rest API with PostgreSQL and Node Js, Step-by-Step Tutorial](https://dev.to/alakkadshaw/rest-api-with-postgresql-and-node-js-step-by-step-tutorial-2d2k)
-- [Dev.to/JS] [Doing much better than your .env file](https://dev.to/dangtony98/doing-much-better-than-your-env-file-46bg)
 - [Lifehacker] [How to Make the Perfect Grain Bowl](https://lifehacker.com/how-to-make-the-perfect-grain-bowl-1850419426)
 - [Lifehacker] [The Dos and Don&#39;ts of Texting in a New Relationship](https://lifehacker.com/the-dos-and-donts-of-texting-in-a-new-relationship-1850355096)
 - [Lifehacker] [The Most Commonly Wasted Foods &lpar;and How to Stop Wasting Them&rpar;](https://lifehacker.com/the-most-commonly-wasted-foods-and-how-to-stop-wasting-1850359331)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Kaya Jam Wants to Be Your New Favorite Condiment](https://lifehacker.com/kaya-jam-wants-to-be-your-new-favorite-condiment-1850417171)
 - [Lifehacker] [Beware of These Personalized ChatGPT Email Scams](https://lifehacker.com/beware-of-these-personalized-chatgpt-email-scams-1850417235)
 - [Lifehacker] [Make a Jammy Mass of Caramelized Onions in Your Oven](https://lifehacker.com/make-a-jammy-mass-of-caramelized-onions-in-your-oven-1850417250)
-- [Lifehacker] [There&#39;s a Better Way to Vacuum](https://lifehacker.com/theres-a-better-way-to-vacuum-1850415089)
-- [Lifehacker] [Three Unexpected Times You Should Eat Sour Patch Kids](https://lifehacker.com/three-unexpected-times-you-should-eat-sour-patch-kids-1850416642)
-- [Lifehacker] [Mini Labneh Balls Are the New Cheeseballs](https://lifehacker.com/mini-labneh-balls-are-the-new-cheeseballs-1850416133)
-- [Lifehacker] [Make This Lazy Dulce De Leche Toast in Three Minutes](https://lifehacker.com/make-this-lazy-dulce-de-leche-toast-in-three-minutes-1850415493)<!-- TECH-POSTS:END -->
+- [Lifehacker] [There&#39;s a Better Way to Vacuum](https://lifehacker.com/theres-a-better-way-to-vacuum-1850415089)<!-- TECH-POSTS:END -->
 
 ---
 
