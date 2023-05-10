@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Array.filter&lpar;javascript&rpar; under the hood](https://dev.to/danities316/arrayfilterjavascript-under-the-hood-3kgk)
+- [Dev.to/JS] [I don&#39;t like js. I don&#39;t like htmx. So I created uajax - library to make form ajaxed](https://dev.to/auct/i-dont-like-js-i-dont-like-htmx-so-i-created-uajax-library-to-make-form-ajaxed-57mh)
+- [Dev.to/JS] [Optional Chaining in JavaScript&lpar;?.&rpar;](https://dev.to/stevepurpose/optional-chaining-in-javascript-2635)
+- [Dev.to/JS] [Unlock the power of array.filter&lpar;&rpar; with a deep dive into its inner workings](https://dev.to/danities316/arrayfilterjavascript-under-the-hood-3kgk)
 - [Dev.to/JS] [Interactivity with Stimulus](https://dev.to/shayanlk/intractivity-with-stimulus-46ej)
 - [Dev.to/JS] [How to Succeed in Open Source Without Really Trying &lpar;Really&rpar;](https://dev.to/tigt/how-to-succeed-in-open-source-without-really-trying-really-55pj)
 - [Dev.to/JS] [Web Engineer Intern at Adobe - Interview](https://dev.to/venkyakshaya/web-engineer-intern-at-adobe-interview-3e96)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to: React Hook useState](https://dev.to/jesseilc123/how-to-react-hook-usestate-298d)
 - [Dev.to/JS] [Power of useLayoutEffect for solving Hydration error in Next js.](https://dev.to/kawanedres/power-of-uselayouteffect-for-solving-hydration-error-in-next-js-4ekm)
 - [Lifehacker] [Five Easy Ways to Add Usable Storage Space Under Your Stairs](https://lifehacker.com/five-easy-ways-to-add-usable-storage-space-under-your-s-1850419374)
-- [Dev.to/JS] [Talking about React Reconciliation](https://dev.to/dougyoshii/talking-about-react-reconciliation-3igi)
-- [Dev.to/JS] [Integrating Kafka with Node.js](https://dev.to/ndulue/integrating-kafka-with-nodejs-104g)
 - [Lifehacker] [Four of the Best Ways to Study &lpar;but Not Cheat&rpar; With ChatGPT](https://lifehacker.com/four-of-the-best-ways-to-study-but-not-cheat-with-cha-1850419522)
 - [Lifehacker] [You Can Finally Use Final Cut Pro and Logic Pro on Your iPad](https://lifehacker.com/you-can-finally-use-final-cut-pro-and-logic-pro-on-your-1850418917)
 - [Lifehacker] [You Can Show Off Your Pet on a Billboard for Free](https://lifehacker.com/you-can-show-off-your-pet-on-a-billboard-for-free-1850419296)
