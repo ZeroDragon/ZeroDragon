@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When You Might Need a French Drain &lpar;and How to Build One Yourself&rpar;](https://lifehacker.com/when-you-might-need-a-french-drain-and-how-to-build-on-1850421942)
+- [Dev.to/JS] [Django Crypto App Part 1: Functional Requirements and Setup](https://dev.to/highnessatharva/django-crypto-app-part-1-functional-requirements-and-setup-3ji0)
+- [Lifehacker] [Update Your PC Right Now to Fix These Actively Exploited Security Vulnerabilities](https://lifehacker.com/update-your-pc-right-now-to-fix-these-actively-exploite-1850423910)
 - [Dev.to/JS] [A beginner&#39;s guide to Objects in JavaScript](https://dev.to/comfortdeola/a-beginners-guide-to-objects-in-javascript-59ac)
 - [Dev.to/JS] [Four ways to check if a variable is a string in JavaScript &lpar;with examples&rpar;](https://dev.to/lavary/four-ways-to-check-if-a-variable-is-a-string-in-javascript-with-examples-3ilm)
 - [Lifehacker] [How to Trade in a Car That Isn&#39;t Paid Off &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/how-to-trade-in-a-car-that-isnt-paid-off-and-when-you-1850420830)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Large Retailers Are Closing Stores &lpar;and Will Have Liquidation Sales&rpar;](https://lifehacker.com/these-large-retailers-are-closing-stores-and-will-have-1850420690)
 - [Dev.to/JS] [Rest API with PostgreSQL and Node Js, Step-by-Step Tutorial](https://dev.to/alakkadshaw/rest-api-with-postgresql-and-node-js-step-by-step-tutorial-2d2k)
 - [Dev.to/JS] [Doing much better than your .env file](https://dev.to/dangtony98/doing-much-better-than-your-env-file-46bg)
-- [Dev.to/JS] [Node.JS vs Python – Which to Choose &amp; Skills of Developers](https://dev.to/sunflowerlab/nodejs-vs-python-which-to-choose-skills-of-developers-2g1i)
 - [Lifehacker] [How to Make the Perfect Grain Bowl](https://lifehacker.com/how-to-make-the-perfect-grain-bowl-1850419426)
 - [Lifehacker] [The Dos and Don&#39;ts of Texting in a New Relationship](https://lifehacker.com/the-dos-and-donts-of-texting-in-a-new-relationship-1850355096)
 - [Lifehacker] [The Most Commonly Wasted Foods &lpar;and How to Stop Wasting Them&rpar;](https://lifehacker.com/the-most-commonly-wasted-foods-and-how-to-stop-wasting-1850359331)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There&#39;s a Better Way to Vacuum](https://lifehacker.com/theres-a-better-way-to-vacuum-1850415089)
 - [Lifehacker] [Three Unexpected Times You Should Eat Sour Patch Kids](https://lifehacker.com/three-unexpected-times-you-should-eat-sour-patch-kids-1850416642)
 - [Lifehacker] [Mini Labneh Balls Are the New Cheeseballs](https://lifehacker.com/mini-labneh-balls-are-the-new-cheeseballs-1850416133)
-- [Lifehacker] [Make This Lazy Dulce De Leche Toast in Three Minutes](https://lifehacker.com/make-this-lazy-dulce-de-leche-toast-in-three-minutes-1850415493)
-- [Lifehacker] [What Podcast Made You Fall in Love With Podcasts?](https://lifehacker.com/what-podcast-made-you-fall-in-love-with-podcasts-1850413385)
-- [Lifehacker] [These Recalled COVID Tests May Be Contaminated With Bacteria](https://lifehacker.com/these-recalled-covid-tests-may-be-contaminated-with-bac-1850415759)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make This Lazy Dulce De Leche Toast in Three Minutes](https://lifehacker.com/make-this-lazy-dulce-de-leche-toast-in-three-minutes-1850415493)<!-- TECH-POSTS:END -->
 
 ---
 
