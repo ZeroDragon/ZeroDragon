@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A beginner&#39;s guide to Objects in JavaScript](https://dev.to/comfortdeola/a-beginners-guide-to-objects-in-javascript-59ac)
+- [Dev.to/JS] [Four ways to check if a variable is a string in JavaScript &lpar;with examples&rpar;](https://dev.to/lavary/four-ways-to-check-if-a-variable-is-a-string-in-javascript-with-examples-3ilm)
+- [Lifehacker] [How to Trade in a Car That Isn&#39;t Paid Off &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/how-to-trade-in-a-car-that-isnt-paid-off-and-when-you-1850420830)
+- [Lifehacker] [Safely Temper Eggs With a Turkey Baster](https://lifehacker.com/safely-temper-eggs-with-a-turkey-baster-1850420840)
+- [Dev.to/JS] [Sum All Numbers in a Range](https://dev.to/muhmmadawd/sum-all-numbers-in-a-range-1p8o)
+- [Dev.to/JS] [React ForwardRef](https://dev.to/alakkadshaw/react-forwardref-1dkn)
+- [Lifehacker] [How to Survive a Mass Shooting, According to the FBI](https://lifehacker.com/how-to-survive-a-mass-shooting-according-to-the-fbi-1850421431)
+- [Dev.to/JS] [Building a Whiteboard with React and Canvas API. Part 1: First steps.](https://dev.to/smirnovw/building-a-whiteboard-with-react-and-canvas-api-part-1-first-steps-40c4)
 - [Lifehacker] [How to Speed Up Your Global Entry Enrollment](https://lifehacker.com/how-to-speed-up-your-global-entry-enrollment-1850422313)
 - [Dev.to/JS] [Building a Custom React Hook for Data Fetching: A Practical Guide](https://dev.to/raxraj/building-a-custom-react-hook-for-data-fetching-a-practical-guide-3jjc)
 - [Lifehacker] [What to Do on Fridays to Make Mondays Easier, According to Reddit](https://lifehacker.com/what-to-do-on-fridays-to-make-mondays-easier-according-1850420777)
@@ -34,12 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rest API with PostgreSQL and Node Js, Step-by-Step Tutorial](https://dev.to/alakkadshaw/rest-api-with-postgresql-and-node-js-step-by-step-tutorial-2d2k)
 - [Dev.to/JS] [Doing much better than your .env file](https://dev.to/dangtony98/doing-much-better-than-your-env-file-46bg)
 - [Dev.to/JS] [Node.JS vs Python – Which to Choose &amp; Skills of Developers](https://dev.to/sunflowerlab/nodejs-vs-python-which-to-choose-skills-of-developers-2g1i)
-- [Dev.to/JS] [New Video: How to get started with the TERN stack](https://dev.to/tigrisdata/new-video-how-to-get-started-with-the-tern-stack-3kl5)
-- [Dev.to/JS] [Learn serverless on AWS step-by-step - Step Functions](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-step-functions-4m7c)
-- [Dev.to/JS] [Our Journey In The Open Source World - performance-logger](https://dev.to/cadienvan/our-journey-in-the-open-source-world-performance-logger-4lkn)
-- [Dev.to/JS] [The Backend-for-Front pattern using NextJS: A Step-by-Step Guide](https://dev.to/wundergraph/the-backend-for-front-pattern-using-nextjs-a-step-by-step-guide-fb2)
 - [Lifehacker] [How to Make the Perfect Grain Bowl](https://lifehacker.com/how-to-make-the-perfect-grain-bowl-1850419426)
-- [Dev.to/JS] [Custom Implementation or Polyfills for Array Methods in JavaScript](https://dev.to/vivekdogra02/custom-implementation-or-polyfills-for-array-methods-in-javascript-45b0)
 - [Lifehacker] [The Dos and Don&#39;ts of Texting in a New Relationship](https://lifehacker.com/the-dos-and-donts-of-texting-in-a-new-relationship-1850355096)
 - [Lifehacker] [The Most Commonly Wasted Foods &lpar;and How to Stop Wasting Them&rpar;](https://lifehacker.com/the-most-commonly-wasted-foods-and-how-to-stop-wasting-1850359331)
 - [Lifehacker] [Don’t Make These Mistakes When Buying a New Dryer](https://lifehacker.com/don-t-make-these-mistakes-when-buying-a-new-dryer-1850368737)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Mini Labneh Balls Are the New Cheeseballs](https://lifehacker.com/mini-labneh-balls-are-the-new-cheeseballs-1850416133)
 - [Lifehacker] [Make This Lazy Dulce De Leche Toast in Three Minutes](https://lifehacker.com/make-this-lazy-dulce-de-leche-toast-in-three-minutes-1850415493)
 - [Lifehacker] [What Podcast Made You Fall in Love With Podcasts?](https://lifehacker.com/what-podcast-made-you-fall-in-love-with-podcasts-1850413385)
-- [Lifehacker] [These Recalled COVID Tests May Be Contaminated With Bacteria](https://lifehacker.com/these-recalled-covid-tests-may-be-contaminated-with-bac-1850415759)
-- [Lifehacker] [Always Ask These Three Questions Before Paying a Medical Bill](https://lifehacker.com/always-ask-these-three-questions-before-paying-a-medica-1850415814)
-- [Lifehacker] [Your Brick House Needs Weep Hole Covers](https://lifehacker.com/your-brick-house-needs-weep-hole-covers-1850415342)
-- [Lifehacker] [Relive Your Childhood Games With This Free CD-ROM Archive](https://lifehacker.com/relive-your-childhood-games-with-this-free-cd-rom-archi-1850408876)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Recalled COVID Tests May Be Contaminated With Bacteria](https://lifehacker.com/these-recalled-covid-tests-may-be-contaminated-with-bac-1850415759)<!-- TECH-POSTS:END -->
 
 ---
 
