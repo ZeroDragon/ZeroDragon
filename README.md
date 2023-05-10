@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CSR and SSR: A must known software development methodology for developers and website owners.](https://dev.to/miracool/csr-and-ssr-a-must-known-software-development-methodology-for-developers-and-website-owners-13pc)
+- [Dev.to/JS] [Free hosting providers for front-end &amp; back-end applications](https://dev.to/richixaws/free-hosting-providers-for-front-end-back-end-applications-b3f)
+- [Lifehacker] [New AI Features, the Pixel Fold, and More Updates From This Year&#39;s Google I/O](https://lifehacker.com/new-ai-features-the-pixel-fold-and-more-updates-from-1850424583)
 - [Lifehacker] [So You&#39;ve Googled Your Symptoms](https://lifehacker.com/so-youve-googled-your-symptoms-1850423805)
 - [Lifehacker] [Here&#39;s Where You Can Still Buy Mother&#39;s Day Flowers](https://lifehacker.com/where-to-buy-last-minute-mothers-day-flowers-1825831926)
 - [Dev.to/JS] [3.11 - Build a Frontend Web Framework &lpar;From Scratch&rpar; Book](https://dev.to/codingcatdev/311-build-a-frontend-web-framework-from-scratch-book-3405)
@@ -39,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Explanation to React JS hook!](https://dev.to/respect17/explanation-to-react-js-hook-2n12)
 - [Lifehacker] [Dehydrate Some Caramelized Onions and Crumble Them Over Everything](https://lifehacker.com/dehydrate-some-caramelized-onions-and-crumble-them-over-1850424677)
 - [Dev.to/JS] [Integrating Stripe Payments in Ionic Vue JS App with Capacitor and NodeJS](https://dev.to/aaronksaunders/integrating-stripe-payments-in-ionic-vue-js-app-with-capacitor-and-nodejs-13f2)
-- [Dev.to/JS] [How I learned about JavaScript Proxy and why it&#39;s so cool!](https://dev.to/h_sifat/how-i-learned-about-javascript-proxy-and-why-its-so-cool-1mc)
 - [Lifehacker] [Basic Car Maintenance and Repairs You Can &lpar;and Should&rpar; Do Yourself](https://lifehacker.com/basic-car-maintenance-and-repairs-you-can-and-should-1850422201)
-- [Dev.to/JS] [Implement circuit breaker in Javascript](https://dev.to/moniv9/implement-circuit-breaker-in-javascript-3ihk)
 - [Lifehacker] [When You Might Need a French Drain &lpar;and How to Build One Yourself&rpar;](https://lifehacker.com/when-you-might-need-a-french-drain-and-how-to-build-on-1850421942)
 - [Lifehacker] [Update Your PC Right Now to Fix These Actively Exploited Security Vulnerabilities](https://lifehacker.com/update-your-pc-right-now-to-fix-these-actively-exploite-1850423910)
 - [Lifehacker] [How to Trade in a Car That Isn&#39;t Paid Off &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/how-to-trade-in-a-car-that-isnt-paid-off-and-when-you-1850420830)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Show Off Your Pet on a Billboard for Free](https://lifehacker.com/you-can-show-off-your-pet-on-a-billboard-for-free-1850419296)
 - [Crazy Programmer] [ScrapingBee API Review 2023 – Features, Pricing, Pros &amp; Cons](https://www.thecrazyprogrammer.com/2023/05/scrapingbee-review.html)
 - [Lifehacker] [The Best Budgeting Apps Based on Your Savings Goals](https://lifehacker.com/the-best-budgeting-apps-based-on-your-savings-goals-1850419365)
-- [Lifehacker] [Embrace the Passwordless Future of Passkeys](https://lifehacker.com/embrace-the-passwordless-future-of-passkeys-1850418024)
-- [Lifehacker] [The Least Stressful Way to Pack Up and Move Out of Your Dorm](https://lifehacker.com/the-least-stressful-way-to-pack-up-and-move-out-of-your-1850418972)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Embrace the Passwordless Future of Passkeys](https://lifehacker.com/embrace-the-passwordless-future-of-passkeys-1850418024)<!-- TECH-POSTS:END -->
 
 ---
 
