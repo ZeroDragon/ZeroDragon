@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Guide to Handling Errors in Preact](https://dev.to/appsignal/a-guide-to-handling-errors-in-preact-3mn9)
+- [Dev.to/JS] [My JavaScript Getter Factory Pattern](https://dev.to/adam_cyclones/my-javascript-getter-factory-pattern-46bj)
 - [Dev.to/JS] [I have created an application on asp.net web application that creates a range of QRCodes](https://dev.to/adinaparvez/i-have-created-an-application-on-aspnet-web-application-that-creates-a-range-of-qrcodes-mko)
 - [Dev.to/JS] [Scatter chart + Ellipse chart with LightningChart JS](https://dev.to/lightningchart/scatter-chart-ellipse-chart-with-lightningchart-js-36cl)
 - [Dev.to/JS] [Speeding up B2B pricing on your website](https://dev.to/enterspeed/speeding-up-b2b-pricing-on-your-website-112i)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Website Designing Services Tenders](https://dev.to/keralatenders/website-designing-services-tenders-47jd)
 - [Dev.to/JS] [Transform Your E-commerce Site with These 5 Innovative APIs](https://dev.to/nikhilxd/transform-your-e-commerce-site-with-these-5-innovative-apis-1362)
 - [Dev.to/JS] [Essential React JS Tools for Web Development](https://dev.to/nikhilxd/essential-react-js-tools-for-web-development-29h1)
-- [Dev.to/JS] [Weekly web development resources #148](https://dev.to/vincenius/weekly-web-development-resources-148-4fkl)
-- [Dev.to/JS] [I don&#39;t like js. I don&#39;t like htmx. So I created uajax - library to make form ajaxed](https://dev.to/auct/i-dont-like-js-i-dont-like-htmx-so-i-created-uajax-library-to-make-form-ajaxed-57mh)
 - [Lifehacker] [The Dos and Don&#39;ts of Texting in a New Relationship](https://lifehacker.com/the-dos-and-donts-of-texting-in-a-new-relationship-1850355096)
 - [Lifehacker] [The Most Commonly Wasted Foods &lpar;and How to Stop Wasting Them&rpar;](https://lifehacker.com/the-most-commonly-wasted-foods-and-how-to-stop-wasting-1850359331)
 - [Lifehacker] [Don’t Make These Mistakes When Buying a New Dryer](https://lifehacker.com/don-t-make-these-mistakes-when-buying-a-new-dryer-1850368737)
