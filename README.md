@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Tell Your Frozen Food Has Gone Bad &lpar;Without Tasting It&rpar;](https://lifehacker.com/how-to-tell-your-frozen-food-has-gone-bad-without-tast-1850424342)
+- [Lifehacker] [‘Temptation Bundling’ Can Help You Complete Tasks You Hate](https://lifehacker.com/temptation-bundling-can-help-you-complete-tasks-you-h-1850424500)
+- [Dev.to/JS] [Revolutionize Your Web Apps: Discover the Game-Changing Features in Vue.js 3](https://dev.to/shayanlk/revolutionize-your-web-apps-discover-the-game-changing-features-in-vuejs-3-dmn)
+- [Dev.to/JS] [Postgresql PL/PgSQL — Raise User-Defined Exception With Custom SQLERRM](https://dev.to/leketo/postgresql-plpgsql-raise-user-defined-exception-with-custom-sqlerrm-3kl3)
 - [Lifehacker] [How Your Phone&#39;s Background Can Help You Study](https://lifehacker.com/how-your-phones-background-can-help-you-study-1850424491)
 - [Dev.to/JS] [Queue Data Structure in JavaScript](https://dev.to/martinsonuoha/queue-data-structure-in-javascript-149n)
 - [Dev.to/JS] [Explanation to React JS hook!](https://dev.to/respect17/explanation-to-react-js-hook-2n12)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Four ways to check if a variable is a string in JavaScript &lpar;with examples&rpar;](https://dev.to/lavary/four-ways-to-check-if-a-variable-is-a-string-in-javascript-with-examples-3ilm)
 - [Lifehacker] [How to Trade in a Car That Isn&#39;t Paid Off &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/how-to-trade-in-a-car-that-isnt-paid-off-and-when-you-1850420830)
 - [Lifehacker] [Safely Temper Eggs With a Turkey Baster](https://lifehacker.com/safely-temper-eggs-with-a-turkey-baster-1850420840)
-- [Dev.to/JS] [Sum All Numbers in a Range](https://dev.to/muhmmadawd/sum-all-numbers-in-a-range-1p8o)
-- [Dev.to/JS] [React ForwardRef](https://dev.to/alakkadshaw/react-forwardref-1dkn)
 - [Lifehacker] [How to Survive a Mass Shooting, According to the FBI](https://lifehacker.com/how-to-survive-a-mass-shooting-according-to-the-fbi-1850421431)
 - [Lifehacker] [How to Speed Up Your Global Entry Enrollment](https://lifehacker.com/how-to-speed-up-your-global-entry-enrollment-1850422313)
 - [Lifehacker] [What to Do on Fridays to Make Mondays Easier, According to Reddit](https://lifehacker.com/what-to-do-on-fridays-to-make-mondays-easier-according-1850420777)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Embrace the Passwordless Future of Passkeys](https://lifehacker.com/embrace-the-passwordless-future-of-passkeys-1850418024)
 - [Lifehacker] [The Least Stressful Way to Pack Up and Move Out of Your Dorm](https://lifehacker.com/the-least-stressful-way-to-pack-up-and-move-out-of-your-1850418972)
 - [Lifehacker] [Kaya Jam Wants to Be Your New Favorite Condiment](https://lifehacker.com/kaya-jam-wants-to-be-your-new-favorite-condiment-1850417171)
-- [Lifehacker] [Beware of These Personalized ChatGPT Email Scams](https://lifehacker.com/beware-of-these-personalized-chatgpt-email-scams-1850417235)
-- [Lifehacker] [Make a Jammy Mass of Caramelized Onions in Your Oven](https://lifehacker.com/make-a-jammy-mass-of-caramelized-onions-in-your-oven-1850417250)
-- [Lifehacker] [There&#39;s a Better Way to Vacuum](https://lifehacker.com/theres-a-better-way-to-vacuum-1850415089)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Beware of These Personalized ChatGPT Email Scams](https://lifehacker.com/beware-of-these-personalized-chatgpt-email-scams-1850417235)<!-- TECH-POSTS:END -->
 
 ---
 
