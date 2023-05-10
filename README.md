@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Weekly web development resources #148](https://dev.to/vincenius/weekly-web-development-resources-148-4fkl)
 - [Dev.to/JS] [I don&#39;t like js. I don&#39;t like htmx. So I created uajax - library to make form ajaxed](https://dev.to/auct/i-dont-like-js-i-dont-like-htmx-so-i-created-uajax-library-to-make-form-ajaxed-57mh)
 - [Dev.to/JS] [Optional Chaining in JavaScript&lpar;?.&rpar;](https://dev.to/stevepurpose/optional-chaining-in-javascript-2635)
 - [Dev.to/JS] [Unlock the power of array.filter&lpar;&rpar; with a deep dive into its inner workings](https://dev.to/danities316/arrayfilterjavascript-under-the-hood-3kgk)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Make These Mistakes When Buying a New Dryer](https://lifehacker.com/don-t-make-these-mistakes-when-buying-a-new-dryer-1850368737)
 - [Dev.to/JS] [How to use regex in javascript:](https://dev.to/themba_sishuba/how-to-use-regex-in-javascript-by-removing-special-characters-and-spaces-and-adding-an-underscore-266f)
 - [Dev.to/JS] [How to: React Hook useState](https://dev.to/jesseilc123/how-to-react-hook-usestate-298d)
-- [Dev.to/JS] [Power of useLayoutEffect for solving Hydration error in Next js.](https://dev.to/kawanedres/power-of-uselayouteffect-for-solving-hydration-error-in-next-js-4ekm)
 - [Lifehacker] [Five Easy Ways to Add Usable Storage Space Under Your Stairs](https://lifehacker.com/five-easy-ways-to-add-usable-storage-space-under-your-s-1850419374)
 - [Lifehacker] [Four of the Best Ways to Study &lpar;but Not Cheat&rpar; With ChatGPT](https://lifehacker.com/four-of-the-best-ways-to-study-but-not-cheat-with-cha-1850419522)
 - [Lifehacker] [You Can Finally Use Final Cut Pro and Logic Pro on Your iPad](https://lifehacker.com/you-can-finally-use-final-cut-pro-and-logic-pro-on-your-1850418917)
