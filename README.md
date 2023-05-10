@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Engineer Intern at Adobe - Interview](https://dev.to/venkyakshaya/web-engineer-intern-at-adobe-interview-3e96)
+- [Dev.to/JS] [Unmatching Users and Adding the Like Button: Day 99 of #100DaysOfCode](https://dev.to/arashjangali/unmatching-users-and-adding-the-like-button-day-99-of-100daysofcode-2po3)
 - [Dev.to/JS] [Combining async requests in the background](https://dev.to/jennieji/combining-async-requests-in-the-background-4g03)
 - [Dev.to/JS] [How to create a pop-up: JavaScript Modal](https://dev.to/tracy4code/how-to-create-a-pop-up-javascript-modal-3652)
 - [Lifehacker] [The Dos and Don&#39;ts of Texting in a New Relationship](https://lifehacker.com/the-dos-and-donts-of-texting-in-a-new-relationship-1850355096)
@@ -40,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Teste](https://dev.to/tocodando/teste-5cbf)
 - [Lifehacker] [You Can Finally Use Final Cut Pro and Logic Pro on Your iPad](https://lifehacker.com/you-can-finally-use-final-cut-pro-and-logic-pro-on-your-1850418917)
 - [Lifehacker] [You Can Show Off Your Pet on a Billboard for Free](https://lifehacker.com/you-can-show-off-your-pet-on-a-billboard-for-free-1850419296)
-- [Dev.to/JS] [JavaScript Callback Functions: Because Patience is a Virtue! - The Beginners Guide To Javascript&lpar;Part 9&rpar;](https://dev.to/camskithedev/javascript-callback-functions-because-patience-is-a-virtue-4gg2)
 - [Crazy Programmer] [ScrapingBee API Review 2023 – Features, Pricing, Pros &amp; Cons](https://www.thecrazyprogrammer.com/2023/05/scrapingbee-review.html)
-- [Dev.to/JS] [You don&#39;t need zero JS website for a perfect Lighthouse score](https://dev.to/michalkuncio/you-dont-need-zero-js-website-for-a-perfect-lighthouse-score-25fc)
 - [Lifehacker] [The Best Budgeting Apps Based on Your Savings Goals](https://lifehacker.com/the-best-budgeting-apps-based-on-your-savings-goals-1850419365)
 - [Lifehacker] [Embrace the Passwordless Future of Passkeys](https://lifehacker.com/embrace-the-passwordless-future-of-passkeys-1850418024)
 - [Lifehacker] [The Least Stressful Way to Pack Up and Move Out of Your Dorm](https://lifehacker.com/the-least-stressful-way-to-pack-up-and-move-out-of-your-1850418972)
