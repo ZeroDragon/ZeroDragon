@@ -23,25 +23,27 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [So You&#39;ve Googled Your Symptoms](https://lifehacker.com/so-youve-googled-your-symptoms-1850423805)
+- [Lifehacker] [Here&#39;s Where You Can Still Buy Mother&#39;s Day Flowers](https://lifehacker.com/where-to-buy-last-minute-mothers-day-flowers-1825831926)
+- [Dev.to/JS] [3.11 - Build a Frontend Web Framework &lpar;From Scratch&rpar; Book](https://dev.to/codingcatdev/311-build-a-frontend-web-framework-from-scratch-book-3405)
+- [Dev.to/JS] [So,What is &quot;this&quot;?](https://dev.to/gisellec60/sowhat-is-this-o6i)
+- [Dev.to/JS] [Master the Magic of JavaScript Classes in Minutes! 🎓🚀 - The Beginners Guide To Javascript&lpar;Part 10&rpar;](https://dev.to/camskithedev/master-the-magic-of-javascript-classes-in-minutes-the-beginners-guide-to-javascriptpart-10-1k61)
 - [Lifehacker] [How to Tell Your Frozen Food Has Gone Bad &lpar;Without Tasting It&rpar;](https://lifehacker.com/how-to-tell-your-frozen-food-has-gone-bad-without-tast-1850424342)
+- [Dev.to/JS] [Understanding Asynchronous Programming in JavaScript](https://dev.to/yisakt/understanding-asynchronous-programming-in-javascript-32j6)
 - [Lifehacker] [‘Temptation Bundling’ Can Help You Complete Tasks You Hate](https://lifehacker.com/temptation-bundling-can-help-you-complete-tasks-you-h-1850424500)
 - [Dev.to/JS] [Revolutionize Your Web Apps: Discover the Game-Changing Features in Vue.js 3](https://dev.to/shayanlk/revolutionize-your-web-apps-discover-the-game-changing-features-in-vuejs-3-dmn)
 - [Dev.to/JS] [Postgresql PL/PgSQL — Raise User-Defined Exception With Custom SQLERRM](https://dev.to/leketo/postgresql-plpgsql-raise-user-defined-exception-with-custom-sqlerrm-3kl3)
 - [Lifehacker] [How Your Phone&#39;s Background Can Help You Study](https://lifehacker.com/how-your-phones-background-can-help-you-study-1850424491)
 - [Dev.to/JS] [Queue Data Structure in JavaScript](https://dev.to/martinsonuoha/queue-data-structure-in-javascript-149n)
+- [Dev.to/JS] [How does the useCallback hook differ from the useMemo hook?](https://dev.to/respect17/how-does-the-usecallback-hook-differ-from-the-usememo-hook-4hf9)
 - [Dev.to/JS] [Explanation to React JS hook!](https://dev.to/respect17/explanation-to-react-js-hook-2n12)
 - [Lifehacker] [Dehydrate Some Caramelized Onions and Crumble Them Over Everything](https://lifehacker.com/dehydrate-some-caramelized-onions-and-crumble-them-over-1850424677)
 - [Dev.to/JS] [Integrating Stripe Payments in Ionic Vue JS App with Capacitor and NodeJS](https://dev.to/aaronksaunders/integrating-stripe-payments-in-ionic-vue-js-app-with-capacitor-and-nodejs-13f2)
 - [Dev.to/JS] [How I learned about JavaScript Proxy and why it&#39;s so cool!](https://dev.to/h_sifat/how-i-learned-about-javascript-proxy-and-why-its-so-cool-1mc)
 - [Lifehacker] [Basic Car Maintenance and Repairs You Can &lpar;and Should&rpar; Do Yourself](https://lifehacker.com/basic-car-maintenance-and-repairs-you-can-and-should-1850422201)
 - [Dev.to/JS] [Implement circuit breaker in Javascript](https://dev.to/moniv9/implement-circuit-breaker-in-javascript-3ihk)
-- [Dev.to/JS] [Diff form Two Arrays](https://dev.to/muhmmadawd/diff-form-two-arrays-4je3)
-- [Dev.to/JS] [Implement multi-language Support in React](https://dev.to/mohammadfaisal/implement-multi-language-support-in-react-53j2)
 - [Lifehacker] [When You Might Need a French Drain &lpar;and How to Build One Yourself&rpar;](https://lifehacker.com/when-you-might-need-a-french-drain-and-how-to-build-on-1850421942)
-- [Dev.to/JS] [Django Crypto App Part 1: Functional Requirements and Setup](https://dev.to/highnessatharva/django-crypto-app-part-1-functional-requirements-and-setup-3ji0)
 - [Lifehacker] [Update Your PC Right Now to Fix These Actively Exploited Security Vulnerabilities](https://lifehacker.com/update-your-pc-right-now-to-fix-these-actively-exploite-1850423910)
-- [Dev.to/JS] [A beginner&#39;s guide to Objects in JavaScript](https://dev.to/comfortdeola/a-beginners-guide-to-objects-in-javascript-59ac)
-- [Dev.to/JS] [Four ways to check if a variable is a string in JavaScript &lpar;with examples&rpar;](https://dev.to/lavary/four-ways-to-check-if-a-variable-is-a-string-in-javascript-with-examples-3ilm)
 - [Lifehacker] [How to Trade in a Car That Isn&#39;t Paid Off &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/how-to-trade-in-a-car-that-isnt-paid-off-and-when-you-1850420830)
 - [Lifehacker] [Safely Temper Eggs With a Turkey Baster](https://lifehacker.com/safely-temper-eggs-with-a-turkey-baster-1850420840)
 - [Lifehacker] [How to Survive a Mass Shooting, According to the FBI](https://lifehacker.com/how-to-survive-a-mass-shooting-according-to-the-fbi-1850421431)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [ScrapingBee API Review 2023 – Features, Pricing, Pros &amp; Cons](https://www.thecrazyprogrammer.com/2023/05/scrapingbee-review.html)
 - [Lifehacker] [The Best Budgeting Apps Based on Your Savings Goals](https://lifehacker.com/the-best-budgeting-apps-based-on-your-savings-goals-1850419365)
 - [Lifehacker] [Embrace the Passwordless Future of Passkeys](https://lifehacker.com/embrace-the-passwordless-future-of-passkeys-1850418024)
-- [Lifehacker] [The Least Stressful Way to Pack Up and Move Out of Your Dorm](https://lifehacker.com/the-least-stressful-way-to-pack-up-and-move-out-of-your-1850418972)
-- [Lifehacker] [Kaya Jam Wants to Be Your New Favorite Condiment](https://lifehacker.com/kaya-jam-wants-to-be-your-new-favorite-condiment-1850417171)
-- [Lifehacker] [Beware of These Personalized ChatGPT Email Scams](https://lifehacker.com/beware-of-these-personalized-chatgpt-email-scams-1850417235)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Least Stressful Way to Pack Up and Move Out of Your Dorm](https://lifehacker.com/the-least-stressful-way-to-pack-up-and-move-out-of-your-1850418972)<!-- TECH-POSTS:END -->
 
 ---
 
