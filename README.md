@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn serverless on AWS step-by-step - Step Functions](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-step-functions-4m7c)
+- [Dev.to/JS] [Our Journey In The Open Source World - performance-logger](https://dev.to/cadienvan/our-journey-in-the-open-source-world-performance-logger-4lkn)
+- [Dev.to/JS] [The Backend-for-Front pattern using NextJS: A Step-by-Step Guide](https://dev.to/wundergraph/the-backend-for-front-pattern-using-nextjs-a-step-by-step-guide-fb2)
+- [Lifehacker] [How to Make the Perfect Grain Bowl](https://lifehacker.com/how-to-make-the-perfect-grain-bowl-1850419426)
+- [Dev.to/JS] [Custom Implementation or Polyfills for Array Methods in JavaScript](https://dev.to/vivekdogra02/custom-implementation-or-polyfills-for-array-methods-in-javascript-45b0)
+- [Dev.to/JS] [Custom Implementation of JavaScript Methods](https://dev.to/vivekdogra02/custom-implementation-of-javascript-methods-2doc)
+- [Dev.to/JS] [Reverse Engineering: NgModuleFactoryLoader in Angular](https://dev.to/vivekdogra02/reverse-engineering-ngmodulefactoryloader-in-angular-lhh)
+- [Dev.to/JS] [Performance Optimization — Can we configure Zone.js to ignore specific events or blacklist them ?](https://dev.to/vivekdogra02/performance-optimization-can-we-configure-zonejs-to-ignore-specific-events-or-blacklist-them--19ek)
+- [Dev.to/JS] [Use Cases for Microsoft Azure Container Service](https://dev.to/sardarmudassaralikhan/use-cases-for-microsoft-azure-container-service-3c0e)
 - [Dev.to/JS] [How to use Material UI Modal](https://dev.to/refine/how-to-use-material-ui-modal-21dh)
 - [Dev.to/JS] [Building a Simple RESTful API using Node.js and Express](https://dev.to/ebuka1anthony/b-3dm5)
 - [Dev.to/JS] [Memoize or Callback? A Comprehensive Guide to Using useMemo and useCallback in React](https://dev.to/shamimio/boost-your-react-apps-performance-with-usememo-vs-usecallback-understanding-the-differences-with-examples-35nh)
 - [Dev.to/JS] [Managing different scripts in separate pages while using barba.js](https://dev.to/rabibsust/managing-different-scripts-in-separate-pages-while-using-barbajs-e4i)
-- [Dev.to/JS] [Intro to Rest API`s](https://dev.to/stanley9646/intro-to-rest-apis-1kie)
-- [Dev.to/JS] [ES Modules or CommonJS: What&#39;s the Deal and Why Should I Care ?](https://dev.to/stalwartcoder/es-modules-or-commonjs-whats-the-deal-and-why-should-i-care--3hem)
-- [Dev.to/JS] [Angular — Facade Design Pattern and how it can improve performance](https://dev.to/vivekdogra02/angular-facade-design-pattern-and-how-it-can-improve-performance-op6)
-- [Dev.to/JS] [Angular — Abstract Design Pattern-DRY &amp; Single Shared Responsibility](https://dev.to/vivekdogra02/angular-abstract-design-pattern-dry-single-shared-responsibility-29j)
-- [Dev.to/JS] [V𝗮𝗹𝗶𝗱𝗮𝘁ing 𝘂𝘀𝗲𝗿 𝗯𝗲𝗳𝗼𝗿𝗲 𝗮𝗻𝘆 𝗔𝗣𝗜 𝗰𝗮𝗹𝗹 𝗶𝘀 𝘂𝘀𝗶𝗻𝗴 𝗔𝘅𝗶𝗼𝘀 𝗶𝗻𝘁𝗲𝗿𝗰𝗲𝗽𝘁𝗼𝗿𝘀](https://dev.to/talenttinaapi/ving-2i22)
-- [Dev.to/JS] [🚀 API Maker 1.0.0 Released - Complete backend solution &amp; Free for 1 Month 🏆](https://dev.to/apimaker/api-maker-100-released-complete-backend-solution-free-for-1-month-4bmh)
-- [Dev.to/JS] [A Guide to Handling Errors in Preact](https://dev.to/appsignal/a-guide-to-handling-errors-in-preact-3mn9)
-- [Dev.to/JS] [JavaScript Getter Factory ~ Properties from thin air ~](https://dev.to/adam_cyclones/my-javascript-getter-factory-pattern-46bj)
 - [Lifehacker] [The Dos and Don&#39;ts of Texting in a New Relationship](https://lifehacker.com/the-dos-and-donts-of-texting-in-a-new-relationship-1850355096)
 - [Lifehacker] [The Most Commonly Wasted Foods &lpar;and How to Stop Wasting Them&rpar;](https://lifehacker.com/the-most-commonly-wasted-foods-and-how-to-stop-wasting-1850359331)
 - [Lifehacker] [Don’t Make These Mistakes When Buying a New Dryer](https://lifehacker.com/don-t-make-these-mistakes-when-buying-a-new-dryer-1850368737)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Places to Sell Your Textbooks &lpar;and When You Can’t&rpar;](https://lifehacker.com/the-best-places-to-sell-your-textbooks-and-when-you-ca-1850415184)
 - [Lifehacker] [Your Guide to 13 Alternative Flours](https://lifehacker.com/your-guide-to-13-alternative-flours-1850414480)
 - [Lifehacker] [The Gross Things Your Kids Eat That Are Dangerous &lpar;and the Ones That Are Just Gross&rpar;](https://lifehacker.com/the-gross-things-your-kids-eat-that-are-dangerous-and-1850414968)
-- [Lifehacker] [You Can Formally Appeal Your Bad &#39;Final&#39; Grade](https://lifehacker.com/you-can-formally-appeal-your-bad-final-grade-1850414707)
-- [Lifehacker] [The Best Way to Stop Jumping Worms From Invading Your Garden](https://lifehacker.com/the-best-way-to-stop-jumping-worms-from-invading-your-g-1850414628)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Formally Appeal Your Bad &#39;Final&#39; Grade](https://lifehacker.com/you-can-formally-appeal-your-bad-final-grade-1850414707)<!-- TECH-POSTS:END -->
 
 ---
 
