@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Speed Up Your Global Entry Enrollment](https://lifehacker.com/how-to-speed-up-your-global-entry-enrollment-1850422313)
+- [Dev.to/JS] [Building a Custom React Hook for Data Fetching: A Practical Guide](https://dev.to/raxraj/building-a-custom-react-hook-for-data-fetching-a-practical-guide-3jjc)
+- [Lifehacker] [What to Do on Fridays to Make Mondays Easier, According to Reddit](https://lifehacker.com/what-to-do-on-fridays-to-make-mondays-easier-according-1850420777)
+- [Dev.to/JS] [What are functions in JavaScript?](https://dev.to/theshrish46/what-are-functions-in-javascript-j71)
 - [Lifehacker] [You Can Totally Cook Eggs In a Stainless Steel Pan](https://lifehacker.com/you-can-totally-cook-eggs-in-a-stainless-steel-pan-1850421285)
 - [Dev.to/JS] [Getting Started with ElectronJS](https://dev.to/dionziddh/getting-started-with-electronjs-45je)
 - [Dev.to/JS] [JavaScript arrow function](https://dev.to/syedfaysel/javascript-arrow-function-50mc)
@@ -36,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Backend-for-Front pattern using NextJS: A Step-by-Step Guide](https://dev.to/wundergraph/the-backend-for-front-pattern-using-nextjs-a-step-by-step-guide-fb2)
 - [Lifehacker] [How to Make the Perfect Grain Bowl](https://lifehacker.com/how-to-make-the-perfect-grain-bowl-1850419426)
 - [Dev.to/JS] [Custom Implementation or Polyfills for Array Methods in JavaScript](https://dev.to/vivekdogra02/custom-implementation-or-polyfills-for-array-methods-in-javascript-45b0)
-- [Dev.to/JS] [Custom Implementation of JavaScript Methods](https://dev.to/vivekdogra02/custom-implementation-of-javascript-methods-2doc)
-- [Dev.to/JS] [Reverse Engineering: NgModuleFactoryLoader in Angular](https://dev.to/vivekdogra02/reverse-engineering-ngmodulefactoryloader-in-angular-lhh)
 - [Lifehacker] [The Dos and Don&#39;ts of Texting in a New Relationship](https://lifehacker.com/the-dos-and-donts-of-texting-in-a-new-relationship-1850355096)
 - [Lifehacker] [The Most Commonly Wasted Foods &lpar;and How to Stop Wasting Them&rpar;](https://lifehacker.com/the-most-commonly-wasted-foods-and-how-to-stop-wasting-1850359331)
 - [Lifehacker] [Don’t Make These Mistakes When Buying a New Dryer](https://lifehacker.com/don-t-make-these-mistakes-when-buying-a-new-dryer-1850368737)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Recalled COVID Tests May Be Contaminated With Bacteria](https://lifehacker.com/these-recalled-covid-tests-may-be-contaminated-with-bac-1850415759)
 - [Lifehacker] [Always Ask These Three Questions Before Paying a Medical Bill](https://lifehacker.com/always-ask-these-three-questions-before-paying-a-medica-1850415814)
 - [Lifehacker] [Your Brick House Needs Weep Hole Covers](https://lifehacker.com/your-brick-house-needs-weep-hole-covers-1850415342)
-- [Lifehacker] [Relive Your Childhood Games With This Free CD-ROM Archive](https://lifehacker.com/relive-your-childhood-games-with-this-free-cd-rom-archi-1850408876)
-- [Lifehacker] [The Best Places to Sell Your Textbooks &lpar;and When You Can’t&rpar;](https://lifehacker.com/the-best-places-to-sell-your-textbooks-and-when-you-ca-1850415184)
-- [Lifehacker] [Your Guide to 13 Alternative Flours](https://lifehacker.com/your-guide-to-13-alternative-flours-1850414480)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Relive Your Childhood Games With This Free CD-ROM Archive](https://lifehacker.com/relive-your-childhood-games-with-this-free-cd-rom-archi-1850408876)<!-- TECH-POSTS:END -->
 
 ---
 
