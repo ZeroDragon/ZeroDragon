@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Secure Coding 101: How to Use Random Function](https://dev.to/smartscanner/secure-coding-101-how-to-use-random-function-50hp)
+- [Dev.to/JS] [How to get rid of QuickBooks error code 15241?](https://dev.to/elinawilliam12/how-to-get-rid-of-quickbooks-error-code-15241-252n)
+- [Dev.to/JS] [React Closure in depth | React State behavior with Closures](https://dev.to/47karimasif/react-closure-in-depth-react-state-behavior-with-closures-2b5e)
+- [Dev.to/JS] [How to measure page loading time with Performance API](https://dev.to/starbist/how-to-measure-page-loading-time-with-performance-api-3gci)
 - [Dev.to/JS] [Website Designing Services Tenders](https://dev.to/keralatenders/website-designing-services-tenders-47jd)
 - [Dev.to/JS] [Transform Your E-commerce Site with These 5 Innovative APIs](https://dev.to/nikhilxd/transform-your-e-commerce-site-with-these-5-innovative-apis-1362)
 - [Dev.to/JS] [Essential React JS Tools for Web Development](https://dev.to/nikhilxd/essential-react-js-tools-for-web-development-29h1)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optional Chaining in JavaScript&lpar;?.&rpar;](https://dev.to/stevepurpose/optional-chaining-in-javascript-2635)
 - [Dev.to/JS] [Unlock the power of array.filter&lpar;&rpar; with a deep dive into its inner workings](https://dev.to/danities316/arrayfilterjavascript-under-the-hood-3kgk)
 - [Dev.to/JS] [Interactivity with Stimulus](https://dev.to/shayanlk/intractivity-with-stimulus-46ej)
-- [Dev.to/JS] [How to Succeed in Open Source Without Really Trying &lpar;Really&rpar;](https://dev.to/tigt/how-to-succeed-in-open-source-without-really-trying-really-55pj)
-- [Dev.to/JS] [Web Engineer Intern at Adobe - Interview](https://dev.to/venkyakshaya/web-engineer-intern-at-adobe-interview-3e96)
-- [Dev.to/JS] [Unmatching Users and Adding the Like Button: Day 99 of #100DaysOfCode](https://dev.to/arashjangali/unmatching-users-and-adding-the-like-button-day-99-of-100daysofcode-2po3)
-- [Dev.to/JS] [Combining async requests in the background](https://dev.to/jennieji/combining-async-requests-in-the-background-4g03)
 - [Lifehacker] [The Dos and Don&#39;ts of Texting in a New Relationship](https://lifehacker.com/the-dos-and-donts-of-texting-in-a-new-relationship-1850355096)
 - [Lifehacker] [The Most Commonly Wasted Foods &lpar;and How to Stop Wasting Them&rpar;](https://lifehacker.com/the-most-commonly-wasted-foods-and-how-to-stop-wasting-1850359331)
 - [Lifehacker] [Don’t Make These Mistakes When Buying a New Dryer](https://lifehacker.com/don-t-make-these-mistakes-when-buying-a-new-dryer-1850368737)
