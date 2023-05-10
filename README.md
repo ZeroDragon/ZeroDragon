@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Totally Cook Eggs In a Stainless Steel Pan](https://lifehacker.com/you-can-totally-cook-eggs-in-a-stainless-steel-pan-1850421285)
+- [Dev.to/JS] [Getting Started with ElectronJS](https://dev.to/dionziddh/getting-started-with-electronjs-45je)
+- [Dev.to/JS] [JavaScript arrow function](https://dev.to/syedfaysel/javascript-arrow-function-50mc)
+- [Lifehacker] [These Large Retailers Are Closing Stores &lpar;and Will Have Liquidation Sales&rpar;](https://lifehacker.com/these-large-retailers-are-closing-stores-and-will-have-1850420690)
+- [Dev.to/JS] [Rest API with PostgreSQL and Node Js, Step-by-Step Tutorial](https://dev.to/alakkadshaw/rest-api-with-postgresql-and-node-js-step-by-step-tutorial-2d2k)
+- [Dev.to/JS] [Doing much better than your .env file](https://dev.to/dangtony98/doing-much-better-than-your-env-file-46bg)
+- [Dev.to/JS] [Node.JS vs Python – Which to Choose &amp; Skills of Developers](https://dev.to/sunflowerlab/nodejs-vs-python-which-to-choose-skills-of-developers-2g1i)
+- [Dev.to/JS] [New Video: How to get started with the TERN stack](https://dev.to/tigrisdata/new-video-how-to-get-started-with-the-tern-stack-3kl5)
 - [Dev.to/JS] [Learn serverless on AWS step-by-step - Step Functions](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-step-functions-4m7c)
 - [Dev.to/JS] [Our Journey In The Open Source World - performance-logger](https://dev.to/cadienvan/our-journey-in-the-open-source-world-performance-logger-4lkn)
 - [Dev.to/JS] [The Backend-for-Front pattern using NextJS: A Step-by-Step Guide](https://dev.to/wundergraph/the-backend-for-front-pattern-using-nextjs-a-step-by-step-guide-fb2)
@@ -30,12 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Custom Implementation or Polyfills for Array Methods in JavaScript](https://dev.to/vivekdogra02/custom-implementation-or-polyfills-for-array-methods-in-javascript-45b0)
 - [Dev.to/JS] [Custom Implementation of JavaScript Methods](https://dev.to/vivekdogra02/custom-implementation-of-javascript-methods-2doc)
 - [Dev.to/JS] [Reverse Engineering: NgModuleFactoryLoader in Angular](https://dev.to/vivekdogra02/reverse-engineering-ngmodulefactoryloader-in-angular-lhh)
-- [Dev.to/JS] [Performance Optimization — Can we configure Zone.js to ignore specific events or blacklist them ?](https://dev.to/vivekdogra02/performance-optimization-can-we-configure-zonejs-to-ignore-specific-events-or-blacklist-them--19ek)
-- [Dev.to/JS] [Use Cases for Microsoft Azure Container Service](https://dev.to/sardarmudassaralikhan/use-cases-for-microsoft-azure-container-service-3c0e)
-- [Dev.to/JS] [How to use Material UI Modal](https://dev.to/refine/how-to-use-material-ui-modal-21dh)
-- [Dev.to/JS] [Building a Simple RESTful API using Node.js and Express](https://dev.to/ebuka1anthony/b-3dm5)
-- [Dev.to/JS] [Memoize or Callback? A Comprehensive Guide to Using useMemo and useCallback in React](https://dev.to/shamimio/boost-your-react-apps-performance-with-usememo-vs-usecallback-understanding-the-differences-with-examples-35nh)
-- [Dev.to/JS] [Managing different scripts in separate pages while using barba.js](https://dev.to/rabibsust/managing-different-scripts-in-separate-pages-while-using-barbajs-e4i)
 - [Lifehacker] [The Dos and Don&#39;ts of Texting in a New Relationship](https://lifehacker.com/the-dos-and-donts-of-texting-in-a-new-relationship-1850355096)
 - [Lifehacker] [The Most Commonly Wasted Foods &lpar;and How to Stop Wasting Them&rpar;](https://lifehacker.com/the-most-commonly-wasted-foods-and-how-to-stop-wasting-1850359331)
 - [Lifehacker] [Don’t Make These Mistakes When Buying a New Dryer](https://lifehacker.com/don-t-make-these-mistakes-when-buying-a-new-dryer-1850368737)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Brick House Needs Weep Hole Covers](https://lifehacker.com/your-brick-house-needs-weep-hole-covers-1850415342)
 - [Lifehacker] [Relive Your Childhood Games With This Free CD-ROM Archive](https://lifehacker.com/relive-your-childhood-games-with-this-free-cd-rom-archi-1850408876)
 - [Lifehacker] [The Best Places to Sell Your Textbooks &lpar;and When You Can’t&rpar;](https://lifehacker.com/the-best-places-to-sell-your-textbooks-and-when-you-ca-1850415184)
-- [Lifehacker] [Your Guide to 13 Alternative Flours](https://lifehacker.com/your-guide-to-13-alternative-flours-1850414480)
-- [Lifehacker] [The Gross Things Your Kids Eat That Are Dangerous &lpar;and the Ones That Are Just Gross&rpar;](https://lifehacker.com/the-gross-things-your-kids-eat-that-are-dangerous-and-1850414968)
-- [Lifehacker] [You Can Formally Appeal Your Bad &#39;Final&#39; Grade](https://lifehacker.com/you-can-formally-appeal-your-bad-final-grade-1850414707)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Guide to 13 Alternative Flours](https://lifehacker.com/your-guide-to-13-alternative-flours-1850414480)<!-- TECH-POSTS:END -->
 
 ---
 
