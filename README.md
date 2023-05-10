@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use Material UI Modal](https://dev.to/refine/how-to-use-material-ui-modal-21dh)
+- [Dev.to/JS] [Building a Simple RESTful API using Node.js and Express](https://dev.to/ebuka1anthony/b-3dm5)
+- [Dev.to/JS] [Memoize or Callback? A Comprehensive Guide to Using useMemo and useCallback in React](https://dev.to/shamimio/boost-your-react-apps-performance-with-usememo-vs-usecallback-understanding-the-differences-with-examples-35nh)
 - [Dev.to/JS] [Managing different scripts in separate pages while using barba.js](https://dev.to/rabibsust/managing-different-scripts-in-separate-pages-while-using-barbajs-e4i)
 - [Dev.to/JS] [Intro to Rest API`s](https://dev.to/stanley9646/intro-to-rest-apis-1kie)
 - [Dev.to/JS] [ES Modules or CommonJS: What&#39;s the Deal and Why Should I Care ?](https://dev.to/stalwartcoder/es-modules-or-commonjs-whats-the-deal-and-why-should-i-care--3hem)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀 API Maker 1.0.0 Released - Complete backend solution &amp; Free for 1 Month 🏆](https://dev.to/apimaker/api-maker-100-released-complete-backend-solution-free-for-1-month-4bmh)
 - [Dev.to/JS] [A Guide to Handling Errors in Preact](https://dev.to/appsignal/a-guide-to-handling-errors-in-preact-3mn9)
 - [Dev.to/JS] [JavaScript Getter Factory ~ Properties from thin air ~](https://dev.to/adam_cyclones/my-javascript-getter-factory-pattern-46bj)
-- [Dev.to/JS] [I have created an application on asp.net web application that creates a range of QRCodes](https://dev.to/adinaparvez/i-have-created-an-application-on-aspnet-web-application-that-creates-a-range-of-qrcodes-mko)
-- [Dev.to/JS] [Scatter chart + Ellipse chart with LightningChart JS](https://dev.to/lightningchart/scatter-chart-ellipse-chart-with-lightningchart-js-36cl)
-- [Dev.to/JS] [Speeding up B2B pricing on your website](https://dev.to/enterspeed/speeding-up-b2b-pricing-on-your-website-112i)
 - [Lifehacker] [The Dos and Don&#39;ts of Texting in a New Relationship](https://lifehacker.com/the-dos-and-donts-of-texting-in-a-new-relationship-1850355096)
 - [Lifehacker] [The Most Commonly Wasted Foods &lpar;and How to Stop Wasting Them&rpar;](https://lifehacker.com/the-most-commonly-wasted-foods-and-how-to-stop-wasting-1850359331)
 - [Lifehacker] [Don’t Make These Mistakes When Buying a New Dryer](https://lifehacker.com/don-t-make-these-mistakes-when-buying-a-new-dryer-1850368737)
