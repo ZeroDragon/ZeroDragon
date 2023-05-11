@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rich Text Editor in React.js with more Powerful features](https://dev.to/johnbabu021/rich-text-editor-in-reactjs-with-more-powerful-features-1oil)
 - [Dev.to/JS] [Completing the #100DaysOfCode Challenge: Reflections and Next Steps](https://dev.to/arashjangali/completing-the-100daysofcode-challenge-reflections-and-next-steps-5cc4)
 - [Dev.to/JS] [Tackling Browser Compatibility Issues: Tips for Web Developers](https://dev.to/tracy4code/tackling-browser-compatibility-issues-tips-for-web-developers-19lk)
 - [Dev.to/JS] [Here we are!](https://dev.to/iosonoagenda/here-we-are-4lm4)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Asynchronous Programming in JavaScript](https://dev.to/yisakt/understanding-asynchronous-programming-in-javascript-32j6)
 - [Lifehacker] [‘Temptation Bundling’ Can Help You Complete Tasks You Hate](https://lifehacker.com/temptation-bundling-can-help-you-complete-tasks-you-h-1850424500)
 - [Dev.to/JS] [Revolutionize Your Web Apps: Discover the Game-Changing Features in Vue.js 3](https://dev.to/shayanlk/revolutionize-your-web-apps-discover-the-game-changing-features-in-vuejs-3-dmn)
-- [Dev.to/JS] [Postgresql PL/PgSQL — Raise User-Defined Exception With Custom SQLERRM](https://dev.to/leketo/postgresql-plpgsql-raise-user-defined-exception-with-custom-sqlerrm-3kl3)
 - [Lifehacker] [How Your Phone&#39;s Background Can Help You Study](https://lifehacker.com/how-your-phones-background-can-help-you-study-1850424491)
 - [Lifehacker] [Dehydrate Some Caramelized Onions and Crumble Them Over Everything](https://lifehacker.com/dehydrate-some-caramelized-onions-and-crumble-them-over-1850424677)
 - [Lifehacker] [Basic Car Maintenance and Repairs You Can &lpar;and Should&rpar; Do Yourself](https://lifehacker.com/basic-car-maintenance-and-repairs-you-can-and-should-1850422201)
