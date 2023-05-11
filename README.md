@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SolidJS: Differences between For and Index](https://dev.to/lico/solidjs-differences-for-and-index-24p9)
+- [Dev.to/JS] [JavaScript Interview Questions for freshers](https://dev.to/satyam_prg/javascript-interview-questions-for-freshers-4he2)
+- [Dev.to/JS] [💻 JavaScript for Beginners: Objects](https://dev.to/catherineisonline/javascript-for-beginners-objects-4khn)
 - [Dev.to/JS] [Learn Node.js for Cheap: My Course is Available for $9.99!!!](https://dev.to/ayka_code/learn-nodejs-for-cheap-my-course-is-available-for-999-36p9)
 - [Dev.to/JS] [#GitHubHack23 - The Action Story](https://dev.to/darkterminal/githubhack23-the-action-story-3d11)
 - [Dev.to/JS] [Using Node.js for Chatbot Development: A Comprehensive Guide](https://dev.to/folasayosamuel/using-nodejs-for-chatbot-development-a-comprehensive-guide-12dg)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is javascript compiled or interpreted language?](https://dev.to/robiulhr/is-javascript-compiled-or-interpreted-language-l20)
 - [Dev.to/JS] [⚡refine.new - Introducing the Fastest Way to Create React Apps](https://dev.to/necatiozmen/refinenew-introducing-the-fastest-way-to-create-refine-apps-3c6n)
 - [Dev.to/JS] [Devlog 1](https://dev.to/developer-harshit/devlog-1-4fl5)
-- [Dev.to/JS] [Creating a Protected Route in React](https://dev.to/coder4_life/creating-a-protected-route-in-react-584i)
-- [Dev.to/JS] [Understanding the difference between Javascript Arrays and python lists.](https://dev.to/teekentx/understanding-the-difference-between-javascript-arrays-and-python-lists-5ci9)
-- [Dev.to/JS] [Introduction to Authentication and Authorization using JSON Web Tokens in Nodejs](https://dev.to/tonieng/introduction-to-authentication-and-authorization-using-json-web-tokens-in-nodejs-p4a)
 - [Lifehacker] [New AI Features, the Pixel Fold, and More Updates From This Year&#39;s Google I/O](https://lifehacker.com/new-ai-features-the-pixel-fold-and-more-updates-from-1850424583)
 - [Lifehacker] [So You&#39;ve Googled Your Symptoms](https://lifehacker.com/so-youve-googled-your-symptoms-1850423805)
 - [Lifehacker] [Here&#39;s Where You Can Still Buy Mother&#39;s Day Flowers](https://lifehacker.com/where-to-buy-last-minute-mothers-day-flowers-1825831926)
