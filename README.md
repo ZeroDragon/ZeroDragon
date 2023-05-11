@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Literally Make It Rain on Your Mac&#39;s Desktop](https://lifehacker.com/you-can-literally-make-it-rain-on-your-macs-desktop-1850428455)
+- [Dev.to/JS] [How To Create Website Using HTML &amp; CSS &amp; JS | Full Responsive Website](https://dev.to/webmonster/how-to-create-website-using-html-css-js-full-responsive-website-3j43)
+- [Dev.to/JS] [CRUD - 4 SQL Commands, their Javascript equivalents and MORE](https://dev.to/rickdelpo1/crud-4-sql-commands-their-javascript-equivalents-and-more-1929)
+- [Dev.to/JS] [Building An Image Slider With Swiper Js](https://dev.to/tracy4code/building-an-image-slider-with-swiper-js-39ng)
+- [Lifehacker] [What We’re Getting Wrong This Week: How Therapy Works](https://lifehacker.com/what-we-re-getting-wrong-this-week-how-therapy-works-1850426868)
+- [Dev.to/JS] [Art Draw Online](https://dev.to/sysmaya/art-draw-online-b20)
 - [Lifehacker] [Blend Spent Citrus Rinds Into a Cocktail Syrup](https://lifehacker.com/blend-spent-citrus-rinds-into-a-cocktail-syrup-1850426045)
 - [Dev.to/JS] [Hide Navbar In Login Component In React.](https://dev.to/quophibonney/hide-navbar-in-login-component-in-react-3in9)
 - [Dev.to/JS] [Js array methods](https://dev.to/nazimudheen_ti/js-array-methods-59)
@@ -37,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Usando mensageria com Amazon SQS + Node](https://dev.to/antiduhring/usando-mensageria-com-amazon-sqs-node-4n8b)
 - [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 非同步](https://dev.to/sgssy/the-most-familiar-stranger-javascript-fei-tong-bu-h1d)
 - [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 原型](https://dev.to/sgssy/the-most-familiar-stranger-javascript-yuan-xing-2ii1)
-- [Dev.to/JS] [Improving Vitest Performance](https://dev.to/thejaredwilcurt/improving-vitest-performance-42c6)
-- [Dev.to/JS] [Introducing the new Svelte Query client](https://dev.to/wundergraph/introducing-the-new-svelte-query-client-4l94)
 - [Lifehacker] [The Difference Between Milkshakes and Concretes &lpar;and How to Make Them&rpar;](https://lifehacker.com/the-difference-between-milkshakes-and-concretes-and-ho-1850424489)
-- [Dev.to/JS] [Get started with Greenhouse APIs: Overview and authentication](https://dev.to/superface/get-started-with-greenhouse-apis-overview-and-authentication-2ip0)
-- [Dev.to/JS] [SolidJS: Differences between For and Index](https://dev.to/lico/solidjs-differences-for-and-index-24p9)
 - [Lifehacker] [New AI Features, the Pixel Fold, and More Updates From This Year&#39;s Google I/O](https://lifehacker.com/new-ai-features-the-pixel-fold-and-more-updates-from-1850424583)
 - [Lifehacker] [So You&#39;ve Googled Your Symptoms](https://lifehacker.com/so-youve-googled-your-symptoms-1850423805)
 - [Lifehacker] [Here&#39;s Where You Can Still Buy Mother&#39;s Day Flowers](https://lifehacker.com/where-to-buy-last-minute-mothers-day-flowers-1825831926)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Totally Cook Eggs In a Stainless Steel Pan](https://lifehacker.com/you-can-totally-cook-eggs-in-a-stainless-steel-pan-1850421285)
 - [Lifehacker] [These Large Retailers Are Closing Stores &lpar;and Will Have Liquidation Sales&rpar;](https://lifehacker.com/these-large-retailers-are-closing-stores-and-will-have-1850420690)
 - [Lifehacker] [How to Make the Perfect Grain Bowl](https://lifehacker.com/how-to-make-the-perfect-grain-bowl-1850419426)
-- [Lifehacker] [The Dos and Don&#39;ts of Texting in a New Relationship](https://lifehacker.com/the-dos-and-donts-of-texting-in-a-new-relationship-1850355096)
-- [Lifehacker] [The Most Commonly Wasted Foods &lpar;and How to Stop Wasting Them&rpar;](https://lifehacker.com/the-most-commonly-wasted-foods-and-how-to-stop-wasting-1850359331)
-- [Lifehacker] [Don’t Make These Mistakes When Buying a New Dryer](https://lifehacker.com/don-t-make-these-mistakes-when-buying-a-new-dryer-1850368737)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Dos and Don&#39;ts of Texting in a New Relationship](https://lifehacker.com/the-dos-and-donts-of-texting-in-a-new-relationship-1850355096)<!-- TECH-POSTS:END -->
 
 ---
 
