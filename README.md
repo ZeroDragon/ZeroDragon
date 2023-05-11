@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between Milkshakes and Concretes &lpar;and How to Make Them&rpar;](https://lifehacker.com/the-difference-between-milkshakes-and-concretes-and-ho-1850424489)
+- [Dev.to/JS] [Get started with Greenhouse APIs: Overview and authentication](https://dev.to/superface/get-started-with-greenhouse-apis-overview-and-authentication-2ip0)
 - [Dev.to/JS] [SolidJS: Differences between For and Index](https://dev.to/lico/solidjs-differences-for-and-index-24p9)
 - [Dev.to/JS] [JavaScript Interview Questions for freshers](https://dev.to/satyam_prg/javascript-interview-questions-for-freshers-4he2)
 - [Dev.to/JS] [💻 JavaScript for Beginners: Objects](https://dev.to/catherineisonline/javascript-for-beginners-objects-4khn)
@@ -33,8 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s Talk About Intl in JavaScript](https://dev.to/vinayveerappaji/introduction-to-intl-in-javascript-4e94)
 - [Dev.to/JS] [What are some reasons to choose Vue.js for new projects?](https://dev.to/amyliumaiyi/what-are-some-reasons-to-choose-vuejs-for-new-projects-38da)
 - [Dev.to/JS] [Is javascript compiled or interpreted language?](https://dev.to/robiulhr/is-javascript-compiled-or-interpreted-language-l20)
-- [Dev.to/JS] [⚡refine.new - Introducing the Fastest Way to Create React Apps](https://dev.to/necatiozmen/refinenew-introducing-the-fastest-way-to-create-refine-apps-3c6n)
-- [Dev.to/JS] [Devlog 1](https://dev.to/developer-harshit/devlog-1-4fl5)
+- [Dev.to/JS] [⚡refine.new - Introducing the Fastest Way to Create React Apps](https://dev.to/refine/refinenew-introducing-the-fastest-way-to-create-refine-apps-3c6n)
 - [Lifehacker] [New AI Features, the Pixel Fold, and More Updates From This Year&#39;s Google I/O](https://lifehacker.com/new-ai-features-the-pixel-fold-and-more-updates-from-1850424583)
 - [Lifehacker] [So You&#39;ve Googled Your Symptoms](https://lifehacker.com/so-youve-googled-your-symptoms-1850423805)
 - [Lifehacker] [Here&#39;s Where You Can Still Buy Mother&#39;s Day Flowers](https://lifehacker.com/where-to-buy-last-minute-mothers-day-flowers-1825831926)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Use Final Cut Pro and Logic Pro on Your iPad](https://lifehacker.com/you-can-finally-use-final-cut-pro-and-logic-pro-on-your-1850418917)
 - [Lifehacker] [You Can Show Off Your Pet on a Billboard for Free](https://lifehacker.com/you-can-show-off-your-pet-on-a-billboard-for-free-1850419296)
 - [Crazy Programmer] [ScrapingBee API Review 2023 – Features, Pricing, Pros &amp; Cons](https://www.thecrazyprogrammer.com/2023/05/scrapingbee-review.html)
-- [Lifehacker] [The Best Budgeting Apps Based on Your Savings Goals](https://lifehacker.com/the-best-budgeting-apps-based-on-your-savings-goals-1850419365)
-- [Lifehacker] [Embrace the Passwordless Future of Passkeys](https://lifehacker.com/embrace-the-passwordless-future-of-passkeys-1850418024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Budgeting Apps Based on Your Savings Goals](https://lifehacker.com/the-best-budgeting-apps-based-on-your-savings-goals-1850419365)<!-- TECH-POSTS:END -->
 
 ---
 
