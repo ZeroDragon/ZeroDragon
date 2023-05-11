@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ECMAScript some features you might find useful](https://dev.to/himanshudevgupta/ecmascript-some-features-you-might-find-useful-ihj)
+- [Dev.to/JS] [How many &lt;div&gt; elements are needed to create the Chart component?](https://dev.to/soundar24/how-many-elements-are-needed-to-create-the-chart-component-15l)
+- [Lifehacker] [How to Take Netflix Screenshots Even Though They Don&#39;t Want You To](https://lifehacker.com/how-to-take-netflix-screenshots-even-though-they-dont-w-1850428571)
+- [Dev.to/JS] [4 JavaScript Techniques Every Developer Should Know](https://dev.to/envitab/4-javascript-techniques-every-developer-should-know-423m)
 - [Dev.to/JS] [Handle Docker Images Like A Pro](https://dev.to/mohammadfaisal/handle-docker-images-like-a-pro-2mjg)
 - [Lifehacker] [Dirty Martini Fried Chicken Is Giving Crunch](https://lifehacker.com/dirty-martini-fried-chicken-is-giving-crunch-1850426230)
 - [Dev.to/JS] [☁️ API Maker Cloud Quick Introduction](https://dev.to/apimaker/api-maker-cloud-quick-introduction-kd6)
@@ -39,12 +43,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Buy One Shake Shack Milkshake, Get One Free This Summer](https://lifehacker.com/buy-one-shake-shack-milkshake-get-one-free-this-summer-1850426086)
 - [Lifehacker] [You Can Plant Your Own Ramps](https://lifehacker.com/you-can-plant-your-own-ramps-1850421622)
 - [Dev.to/JS] [Node.js: Replace your .env file with this awesome tool at scale](https://dev.to/dangtony98/nodejs-replace-your-env-file-with-this-awesome-tool-at-scale-nic)
-- [Dev.to/JS] [Join us for HackTogether: The Microsoft Teams Global Hack](https://dev.to/microsoft365/join-us-for-hacktogether-the-microsoft-teams-global-hack-4p15)
 - [Lifehacker] [These Theme Parks Now Require Tweens and Teens to Have Adult Supervision](https://lifehacker.com/these-theme-parks-now-require-tweens-and-teens-to-have-1850425536)
-- [Dev.to/JS] [How can I optimize my HUGE enterprise application? - React JS](https://dev.to/sanjampreetsingh/how-can-i-optimize-my-huge-enterprise-application-react-js-53go)
 - [Lifehacker] [How a &#39;Study Outfit&#39; Can Actually Help You Learn](https://lifehacker.com/how-a-study-outfit-can-actually-help-you-learn-1850424510)
 - [Lifehacker] [Trellises Will Completely Transform Your Garden](https://lifehacker.com/trellises-will-completely-transform-your-garden-1850422342)
-- [Dev.to/JS] [Usando mensageria com Amazon SQS + Node](https://dev.to/antiduhring/usando-mensageria-com-amazon-sqs-node-4n8b)
 - [Lifehacker] [The Difference Between Milkshakes and Concretes &lpar;and How to Make Them&rpar;](https://lifehacker.com/the-difference-between-milkshakes-and-concretes-and-ho-1850424489)
 - [Lifehacker] [New AI Features, the Pixel Fold, and More Updates From This Year&#39;s Google I/O](https://lifehacker.com/new-ai-features-the-pixel-fold-and-more-updates-from-1850424583)
 - [Lifehacker] [So You&#39;ve Googled Your Symptoms](https://lifehacker.com/so-youve-googled-your-symptoms-1850423805)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Survive a Mass Shooting, According to the FBI](https://lifehacker.com/how-to-survive-a-mass-shooting-according-to-the-fbi-1850421431)
 - [Lifehacker] [How to Speed Up Your Global Entry Enrollment](https://lifehacker.com/how-to-speed-up-your-global-entry-enrollment-1850422313)
 - [Lifehacker] [What to Do on Fridays to Make Mondays Easier, According to Reddit](https://lifehacker.com/what-to-do-on-fridays-to-make-mondays-easier-according-1850420777)
-- [Lifehacker] [You Can Totally Cook Eggs In a Stainless Steel Pan](https://lifehacker.com/you-can-totally-cook-eggs-in-a-stainless-steel-pan-1850421285)
-- [Lifehacker] [These Large Retailers Are Closing Stores &lpar;and Will Have Liquidation Sales&rpar;](https://lifehacker.com/these-large-retailers-are-closing-stores-and-will-have-1850420690)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Totally Cook Eggs In a Stainless Steel Pan](https://lifehacker.com/you-can-totally-cook-eggs-in-a-stainless-steel-pan-1850421285)<!-- TECH-POSTS:END -->
 
 ---
 
