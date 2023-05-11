@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a Protected Route in React](https://dev.to/coder4_life/creating-a-protected-route-in-react-584i)
 - [Dev.to/JS] [Understanding the difference between Javascript Arrays and python lists.](https://dev.to/teekentx/understanding-the-difference-between-javascript-arrays-and-python-lists-5ci9)
 - [Dev.to/JS] [Introduction to Authentication and Authorization using JSON Web Tokens in Nodejs](https://dev.to/tonieng/introduction-to-authentication-and-authorization-using-json-web-tokens-in-nodejs-p4a)
 - [Dev.to/JS] [JavaScript DOM getElementById&lpar;&rpar; Method Example](https://dev.to/webvees/javascript-dom-getelementbyid-method-example-1l08)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [New AI Features, the Pixel Fold, and More Updates From This Year&#39;s Google I/O](https://lifehacker.com/new-ai-features-the-pixel-fold-and-more-updates-from-1850424583)
 - [Lifehacker] [So You&#39;ve Googled Your Symptoms](https://lifehacker.com/so-youve-googled-your-symptoms-1850423805)
 - [Lifehacker] [Here&#39;s Where You Can Still Buy Mother&#39;s Day Flowers](https://lifehacker.com/where-to-buy-last-minute-mothers-day-flowers-1825831926)
-- [Dev.to/JS] [3.11 - Build a Frontend Web Framework &lpar;From Scratch&rpar; Book](https://dev.to/codingcatdev/311-build-a-frontend-web-framework-from-scratch-book-3405)
 - [Lifehacker] [How to Tell Your Frozen Food Has Gone Bad &lpar;Without Tasting It&rpar;](https://lifehacker.com/how-to-tell-your-frozen-food-has-gone-bad-without-tast-1850424342)
 - [Lifehacker] [‘Temptation Bundling’ Can Help You Complete Tasks You Hate](https://lifehacker.com/temptation-bundling-can-help-you-complete-tasks-you-h-1850424500)
 - [Lifehacker] [How Your Phone&#39;s Background Can Help You Study](https://lifehacker.com/how-your-phones-background-can-help-you-study-1850424491)
