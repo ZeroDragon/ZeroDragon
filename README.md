@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Here we are!](https://dev.to/iosonoagenda/here-we-are-4lm4)
 - [Dev.to/JS] [Building RESTful APIs using MERN](https://dev.to/alimalim77/building-restful-apis-using-mern-4pn9)
 - [Dev.to/JS] [CSR and SSR: A must known software development methodology for developers and website owners.](https://dev.to/miracool/csr-and-ssr-a-must-known-software-development-methodology-for-developers-and-website-owners-13pc)
 - [Dev.to/JS] [Free hosting providers for front-end &amp; back-end applications](https://dev.to/richixaws/free-hosting-providers-for-front-end-back-end-applications-b3f)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Your Phone&#39;s Background Can Help You Study](https://lifehacker.com/how-your-phones-background-can-help-you-study-1850424491)
 - [Dev.to/JS] [Queue Data Structure in JavaScript](https://dev.to/martinsonuoha/queue-data-structure-in-javascript-149n)
 - [Dev.to/JS] [How does the useCallback hook differ from the useMemo hook?](https://dev.to/respect17/how-does-the-usecallback-hook-differ-from-the-usememo-hook-4hf9)
-- [Dev.to/JS] [Explanation to React JS hook!](https://dev.to/respect17/explanation-to-react-js-hook-2n12)
 - [Lifehacker] [Dehydrate Some Caramelized Onions and Crumble Them Over Everything](https://lifehacker.com/dehydrate-some-caramelized-onions-and-crumble-them-over-1850424677)
 - [Lifehacker] [Basic Car Maintenance and Repairs You Can &lpar;and Should&rpar; Do Yourself](https://lifehacker.com/basic-car-maintenance-and-repairs-you-can-and-should-1850422201)
 - [Lifehacker] [When You Might Need a French Drain &lpar;and How to Build One Yourself&rpar;](https://lifehacker.com/when-you-might-need-a-french-drain-and-how-to-build-on-1850421942)
