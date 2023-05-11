@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript DOM getElementById&lpar;&rpar; Method Example](https://dev.to/webvees/javascript-dom-getelementbyid-method-example-1l08)
+- [Dev.to/JS] [Interviewing in Software Development Made Easy with Interview Bibles for Ruby, Python, JavaScript, and ReactJS](https://dev.to/nezirzahirovic/interviewing-in-software-development-made-easy-with-interview-bibles-for-ruby-python-javascript-and-reactjs-4al3)
 - [Dev.to/JS] [Rich Text Editor in React.js with more Powerful features](https://dev.to/johnbabu021/rich-text-editor-in-reactjs-with-more-powerful-features-1oil)
 - [Dev.to/JS] [Completing the #100DaysOfCode Challenge: Reflections and Next Steps](https://dev.to/arashjangali/completing-the-100daysofcode-challenge-reflections-and-next-steps-5cc4)
 - [Dev.to/JS] [Tackling Browser Compatibility Issues: Tips for Web Developers](https://dev.to/tracy4code/tackling-browser-compatibility-issues-tips-for-web-developers-19lk)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [So,What is &quot;this&quot;?](https://dev.to/gisellec60/sowhat-is-this-o6i)
 - [Dev.to/JS] [Master the Magic of JavaScript Classes in Minutes! 🎓🚀 - The Beginners Guide To Javascript&lpar;Part 10&rpar;](https://dev.to/camskithedev/master-the-magic-of-javascript-classes-in-minutes-the-beginners-guide-to-javascriptpart-10-1k61)
 - [Lifehacker] [How to Tell Your Frozen Food Has Gone Bad &lpar;Without Tasting It&rpar;](https://lifehacker.com/how-to-tell-your-frozen-food-has-gone-bad-without-tast-1850424342)
-- [Dev.to/JS] [Understanding Asynchronous Programming in JavaScript](https://dev.to/yisakt/understanding-asynchronous-programming-in-javascript-32j6)
 - [Lifehacker] [‘Temptation Bundling’ Can Help You Complete Tasks You Hate](https://lifehacker.com/temptation-bundling-can-help-you-complete-tasks-you-h-1850424500)
-- [Dev.to/JS] [Revolutionize Your Web Apps: Discover the Game-Changing Features in Vue.js 3](https://dev.to/shayanlk/revolutionize-your-web-apps-discover-the-game-changing-features-in-vuejs-3-dmn)
 - [Lifehacker] [How Your Phone&#39;s Background Can Help You Study](https://lifehacker.com/how-your-phones-background-can-help-you-study-1850424491)
 - [Lifehacker] [Dehydrate Some Caramelized Onions and Crumble Them Over Everything](https://lifehacker.com/dehydrate-some-caramelized-onions-and-crumble-them-over-1850424677)
 - [Lifehacker] [Basic Car Maintenance and Repairs You Can &lpar;and Should&rpar; Do Yourself](https://lifehacker.com/basic-car-maintenance-and-repairs-you-can-and-should-1850422201)
