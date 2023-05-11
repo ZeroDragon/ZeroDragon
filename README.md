@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Handle Docker Images Like A Pro](https://dev.to/mohammadfaisal/handle-docker-images-like-a-pro-2mjg)
+- [Lifehacker] [Dirty Martini Fried Chicken Is Giving Crunch](https://lifehacker.com/dirty-martini-fried-chicken-is-giving-crunch-1850426230)
+- [Dev.to/JS] [☁️ API Maker Cloud Quick Introduction](https://dev.to/apimaker/api-maker-cloud-quick-introduction-kd6)
+- [Lifehacker] [Peloton Is Recalling Millions of Bikes](https://lifehacker.com/peloton-is-recalling-millions-of-bikes-1850428672)
 - [Lifehacker] [You Can Literally Make It Rain on Your Mac&#39;s Desktop](https://lifehacker.com/you-can-literally-make-it-rain-on-your-macs-desktop-1850428455)
 - [Dev.to/JS] [How To Create Website Using HTML &amp; CSS &amp; JS | Full Responsive Website](https://dev.to/webmonster/how-to-create-website-using-html-css-js-full-responsive-website-3j43)
 - [Dev.to/JS] [CRUD - 4 SQL Commands, their Javascript equivalents and MORE](https://dev.to/rickdelpo1/crud-4-sql-commands-their-javascript-equivalents-and-more-1929)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How a &#39;Study Outfit&#39; Can Actually Help You Learn](https://lifehacker.com/how-a-study-outfit-can-actually-help-you-learn-1850424510)
 - [Lifehacker] [Trellises Will Completely Transform Your Garden](https://lifehacker.com/trellises-will-completely-transform-your-garden-1850422342)
 - [Dev.to/JS] [Usando mensageria com Amazon SQS + Node](https://dev.to/antiduhring/usando-mensageria-com-amazon-sqs-node-4n8b)
-- [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 非同步](https://dev.to/sgssy/the-most-familiar-stranger-javascript-fei-tong-bu-h1d)
-- [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 原型](https://dev.to/sgssy/the-most-familiar-stranger-javascript-yuan-xing-2ii1)
 - [Lifehacker] [The Difference Between Milkshakes and Concretes &lpar;and How to Make Them&rpar;](https://lifehacker.com/the-difference-between-milkshakes-and-concretes-and-ho-1850424489)
 - [Lifehacker] [New AI Features, the Pixel Fold, and More Updates From This Year&#39;s Google I/O](https://lifehacker.com/new-ai-features-the-pixel-fold-and-more-updates-from-1850424583)
 - [Lifehacker] [So You&#39;ve Googled Your Symptoms](https://lifehacker.com/so-youve-googled-your-symptoms-1850423805)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Speed Up Your Global Entry Enrollment](https://lifehacker.com/how-to-speed-up-your-global-entry-enrollment-1850422313)
 - [Lifehacker] [What to Do on Fridays to Make Mondays Easier, According to Reddit](https://lifehacker.com/what-to-do-on-fridays-to-make-mondays-easier-according-1850420777)
 - [Lifehacker] [You Can Totally Cook Eggs In a Stainless Steel Pan](https://lifehacker.com/you-can-totally-cook-eggs-in-a-stainless-steel-pan-1850421285)
-- [Lifehacker] [These Large Retailers Are Closing Stores &lpar;and Will Have Liquidation Sales&rpar;](https://lifehacker.com/these-large-retailers-are-closing-stores-and-will-have-1850420690)
-- [Lifehacker] [How to Make the Perfect Grain Bowl](https://lifehacker.com/how-to-make-the-perfect-grain-bowl-1850419426)
-- [Lifehacker] [The Dos and Don&#39;ts of Texting in a New Relationship](https://lifehacker.com/the-dos-and-donts-of-texting-in-a-new-relationship-1850355096)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Large Retailers Are Closing Stores &lpar;and Will Have Liquidation Sales&rpar;](https://lifehacker.com/these-large-retailers-are-closing-stores-and-will-have-1850420690)<!-- TECH-POSTS:END -->
 
 ---
 
