@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Make imports more readable. JS/TS and ESLint solutions.](https://dev.to/dmitryprusakov/make-imports-more-readable-jsts-and-eslint-solutions-2n27)
+- [Lifehacker] [How to Use Passkeys on Your iPhone or Mac](https://lifehacker.com/how-to-use-passkeys-on-your-iphone-or-mac-1850428402)
 - [Dev.to/JS] [How the JavaScript code works behind the scene ?](https://dev.to/lovegupta/how-the-javascript-code-works-behind-the-scene--odg)
 - [Lifehacker] [This App Uses AI to Organize Your iPhone Photos](https://lifehacker.com/this-app-uses-ai-to-organize-your-iphone-photos-1850429061)
 - [Dev.to/JS] [Everything you need to know about JavaScript Promises](https://dev.to/xplodivity/everything-you-need-to-know-about-javascript-promises-3pe3)
@@ -40,8 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Create Website Using HTML &amp; CSS &amp; JS | Full Responsive Website](https://dev.to/webmonster/how-to-create-website-using-html-css-js-full-responsive-website-3j43)
 - [Dev.to/JS] [CRUD - 4 SQL Commands, their Javascript equivalents and MORE](https://dev.to/rickdelpo1/crud-4-sql-commands-their-javascript-equivalents-and-more-1929)
 - [Dev.to/JS] [Building An Image Slider With Swiper Js](https://dev.to/tracy4code/building-an-image-slider-with-swiper-js-39ng)
-- [Lifehacker] [What We’re Getting Wrong This Week: How Therapy Works](https://lifehacker.com/what-we-re-getting-wrong-this-week-how-therapy-works-1850426868)
-- [Dev.to/JS] [Art Draw Online](https://dev.to/sysmaya/art-draw-online-b20)
+- [Lifehacker] [What People Are Getting Wrong This Week: How Therapy Works](https://lifehacker.com/what-we-re-getting-wrong-this-week-how-therapy-works-1850426868)
 - [Lifehacker] [Blend Spent Citrus Rinds Into a Cocktail Syrup](https://lifehacker.com/blend-spent-citrus-rinds-into-a-cocktail-syrup-1850426045)
 - [Lifehacker] [Buy One Shake Shack Milkshake, Get One Free This Summer](https://lifehacker.com/buy-one-shake-shack-milkshake-get-one-free-this-summer-1850426086)
 - [Lifehacker] [You Can Plant Your Own Ramps](https://lifehacker.com/you-can-plant-your-own-ramps-1850421622)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Update Your PC Right Now to Fix These Actively Exploited Security Vulnerabilities](https://lifehacker.com/update-your-pc-right-now-to-fix-these-actively-exploite-1850423910)
 - [Lifehacker] [How to Trade in a Car That Isn&#39;t Paid Off &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/how-to-trade-in-a-car-that-isnt-paid-off-and-when-you-1850420830)
 - [Lifehacker] [Safely Temper Eggs With a Turkey Baster](https://lifehacker.com/safely-temper-eggs-with-a-turkey-baster-1850420840)
-- [Lifehacker] [How to Survive a Mass Shooting, According to the FBI](https://lifehacker.com/how-to-survive-a-mass-shooting-according-to-the-fbi-1850421431)
-- [Lifehacker] [How to Speed Up Your Global Entry Enrollment](https://lifehacker.com/how-to-speed-up-your-global-entry-enrollment-1850422313)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Survive a Mass Shooting, According to the FBI](https://lifehacker.com/how-to-survive-a-mass-shooting-according-to-the-fbi-1850421431)<!-- TECH-POSTS:END -->
 
 ---
 
