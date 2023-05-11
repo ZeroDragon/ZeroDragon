@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How the JavaScript code works behind the scene ?](https://dev.to/lovegupta/how-the-javascript-code-works-behind-the-scene--odg)
+- [Lifehacker] [This App Uses AI to Organize Your iPhone Photos](https://lifehacker.com/this-app-uses-ai-to-organize-your-iphone-photos-1850429061)
+- [Dev.to/JS] [Everything you need to know about JavaScript Promises](https://dev.to/xplodivity/everything-you-need-to-know-about-javascript-promises-3pe3)
+- [Dev.to/JS] [Home Steps Following The Cursor &lpar;GSAP&rpar;](https://dev.to/robin-ivi/home-steps-following-the-cursor-gsap-5709)
+- [Lifehacker] [Why You Should Try Color-Coding Your Clock](https://lifehacker.com/why-you-should-try-color-coding-your-clock-1850428961)
 - [Dev.to/JS] [ECMAScript some features you might find useful](https://dev.to/himanshudevgupta/ecmascript-some-features-you-might-find-useful-ihj)
 - [Dev.to/JS] [How many &lt;div&gt; elements are needed to create the Chart component?](https://dev.to/soundar24/how-many-elements-are-needed-to-create-the-chart-component-15l)
 - [Lifehacker] [How to Take Netflix Screenshots Even Though They Don&#39;t Want You To](https://lifehacker.com/how-to-take-netflix-screenshots-even-though-they-dont-w-1850428571)
@@ -38,11 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What We’re Getting Wrong This Week: How Therapy Works](https://lifehacker.com/what-we-re-getting-wrong-this-week-how-therapy-works-1850426868)
 - [Dev.to/JS] [Art Draw Online](https://dev.to/sysmaya/art-draw-online-b20)
 - [Lifehacker] [Blend Spent Citrus Rinds Into a Cocktail Syrup](https://lifehacker.com/blend-spent-citrus-rinds-into-a-cocktail-syrup-1850426045)
-- [Dev.to/JS] [Hide Navbar In Login Component In React.](https://dev.to/quophibonney/hide-navbar-in-login-component-in-react-3in9)
-- [Dev.to/JS] [Js array methods](https://dev.to/nazimudheen_ti/js-array-methods-59)
 - [Lifehacker] [Buy One Shake Shack Milkshake, Get One Free This Summer](https://lifehacker.com/buy-one-shake-shack-milkshake-get-one-free-this-summer-1850426086)
 - [Lifehacker] [You Can Plant Your Own Ramps](https://lifehacker.com/you-can-plant-your-own-ramps-1850421622)
-- [Dev.to/JS] [Node.js: Replace your .env file with this awesome tool at scale](https://dev.to/dangtony98/nodejs-replace-your-env-file-with-this-awesome-tool-at-scale-nic)
 - [Lifehacker] [These Theme Parks Now Require Tweens and Teens to Have Adult Supervision](https://lifehacker.com/these-theme-parks-now-require-tweens-and-teens-to-have-1850425536)
 - [Lifehacker] [How a &#39;Study Outfit&#39; Can Actually Help You Learn](https://lifehacker.com/how-a-study-outfit-can-actually-help-you-learn-1850424510)
 - [Lifehacker] [Trellises Will Completely Transform Your Garden](https://lifehacker.com/trellises-will-completely-transform-your-garden-1850422342)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Trade in a Car That Isn&#39;t Paid Off &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/how-to-trade-in-a-car-that-isnt-paid-off-and-when-you-1850420830)
 - [Lifehacker] [Safely Temper Eggs With a Turkey Baster](https://lifehacker.com/safely-temper-eggs-with-a-turkey-baster-1850420840)
 - [Lifehacker] [How to Survive a Mass Shooting, According to the FBI](https://lifehacker.com/how-to-survive-a-mass-shooting-according-to-the-fbi-1850421431)
-- [Lifehacker] [How to Speed Up Your Global Entry Enrollment](https://lifehacker.com/how-to-speed-up-your-global-entry-enrollment-1850422313)
-- [Lifehacker] [What to Do on Fridays to Make Mondays Easier, According to Reddit](https://lifehacker.com/what-to-do-on-fridays-to-make-mondays-easier-according-1850420777)
-- [Lifehacker] [You Can Totally Cook Eggs In a Stainless Steel Pan](https://lifehacker.com/you-can-totally-cook-eggs-in-a-stainless-steel-pan-1850421285)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Speed Up Your Global Entry Enrollment](https://lifehacker.com/how-to-speed-up-your-global-entry-enrollment-1850422313)<!-- TECH-POSTS:END -->
 
 ---
 
