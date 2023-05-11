@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Plant Your Own Ramps](https://lifehacker.com/you-can-plant-your-own-ramps-1850421622)
+- [Dev.to/JS] [Node.js: Replace your .env file with this awesome tool at scale](https://dev.to/dangtony98/nodejs-replace-your-env-file-with-this-awesome-tool-at-scale-nic)
+- [Dev.to/JS] [Join us for HackTogether: The Microsoft Teams Global Hack](https://dev.to/microsoft365/join-us-for-hacktogether-the-microsoft-teams-global-hack-4p15)
+- [Lifehacker] [These Theme Parks Now Require Tweens and Teens to Have Adult Supervision](https://lifehacker.com/these-theme-parks-now-require-tweens-and-teens-to-have-1850425536)
+- [Dev.to/JS] [How can I optimize my HUGE enterprise application? - React JS](https://dev.to/sanjampreetsingh/how-can-i-optimize-my-huge-enterprise-application-react-js-53go)
+- [Lifehacker] [How a &#39;Study Outfit&#39; Can Actually Help You Learn](https://lifehacker.com/how-a-study-outfit-can-actually-help-you-learn-1850424510)
 - [Lifehacker] [Trellises Will Completely Transform Your Garden](https://lifehacker.com/trellises-will-completely-transform-your-garden-1850422342)
 - [Dev.to/JS] [Usando mensageria com Amazon SQS + Node](https://dev.to/antiduhring/usando-mensageria-com-amazon-sqs-node-4n8b)
 - [Dev.to/JS] [The Most Familiar Stranger - JavaScript - 非同步](https://dev.to/sgssy/the-most-familiar-stranger-javascript-fei-tong-bu-h1d)
@@ -34,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SolidJS: Differences between For and Index](https://dev.to/lico/solidjs-differences-for-and-index-24p9)
 - [Dev.to/JS] [JavaScript Interview Questions for freshers](https://dev.to/satyam_prg/javascript-interview-questions-for-freshers-4he2)
 - [Dev.to/JS] [💻 JavaScript for Beginners: Objects](https://dev.to/catherineisonline/javascript-for-beginners-objects-4khn)
-- [Dev.to/JS] [Learn Node.js for Cheap: My Course is Available for $9.99!!!](https://dev.to/ayka_code/learn-nodejs-for-cheap-my-course-is-available-for-999-36p9)
-- [Dev.to/JS] [#GitHubHack23 - The Action Story](https://dev.to/darkterminal/githubhack23-the-action-story-3d11)
-- [Dev.to/JS] [Using Node.js for Chatbot Development: A Comprehensive Guide](https://dev.to/folasayosamuel/using-nodejs-for-chatbot-development-a-comprehensive-guide-12dg)
 - [Lifehacker] [New AI Features, the Pixel Fold, and More Updates From This Year&#39;s Google I/O](https://lifehacker.com/new-ai-features-the-pixel-fold-and-more-updates-from-1850424583)
 - [Lifehacker] [So You&#39;ve Googled Your Symptoms](https://lifehacker.com/so-youve-googled-your-symptoms-1850423805)
 - [Lifehacker] [Here&#39;s Where You Can Still Buy Mother&#39;s Day Flowers](https://lifehacker.com/where-to-buy-last-minute-mothers-day-flowers-1825831926)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Commonly Wasted Foods &lpar;and How to Stop Wasting Them&rpar;](https://lifehacker.com/the-most-commonly-wasted-foods-and-how-to-stop-wasting-1850359331)
 - [Lifehacker] [Don’t Make These Mistakes When Buying a New Dryer](https://lifehacker.com/don-t-make-these-mistakes-when-buying-a-new-dryer-1850368737)
 - [Lifehacker] [Five Easy Ways to Add Usable Storage Space Under Your Stairs](https://lifehacker.com/five-easy-ways-to-add-usable-storage-space-under-your-s-1850419374)
-- [Lifehacker] [Four of the Best Ways to Study &lpar;but Not Cheat&rpar; With ChatGPT](https://lifehacker.com/four-of-the-best-ways-to-study-but-not-cheat-with-cha-1850419522)
-- [Lifehacker] [You Can Finally Use Final Cut Pro and Logic Pro on Your iPad](https://lifehacker.com/you-can-finally-use-final-cut-pro-and-logic-pro-on-your-1850418917)
-- [Lifehacker] [You Can Show Off Your Pet on a Billboard for Free](https://lifehacker.com/you-can-show-off-your-pet-on-a-billboard-for-free-1850419296)
-- [Crazy Programmer] [ScrapingBee API Review 2023 – Features, Pricing, Pros &amp; Cons](https://www.thecrazyprogrammer.com/2023/05/scrapingbee-review.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Four of the Best Ways to Study &lpar;but Not Cheat&rpar; With ChatGPT](https://lifehacker.com/four-of-the-best-ways-to-study-but-not-cheat-with-cha-1850419522)<!-- TECH-POSTS:END -->
 
 ---
 
