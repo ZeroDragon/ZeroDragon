@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn Node.js for Cheap: My Course is Available for $9.99!!!](https://dev.to/ayka_code/learn-nodejs-for-cheap-my-course-is-available-for-999-36p9)
+- [Dev.to/JS] [#GitHubHack23 - The Action Story](https://dev.to/darkterminal/githubhack23-the-action-story-3d11)
+- [Dev.to/JS] [Using Node.js for Chatbot Development: A Comprehensive Guide](https://dev.to/folasayosamuel/using-nodejs-for-chatbot-development-a-comprehensive-guide-12dg)
 - [Dev.to/JS] [Master &quot;Generics&quot; In Typescript🎉](https://dev.to/arafat4693/master-generics-in-typescript-16ji)
 - [Dev.to/JS] [Let&#39;s Talk About Intl in JavaScript](https://dev.to/vinayveerappaji/introduction-to-intl-in-javascript-4e94)
 - [Dev.to/JS] [What are some reasons to choose Vue.js for new projects?](https://dev.to/amyliumaiyi/what-are-some-reasons-to-choose-vuejs-for-new-projects-38da)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Protected Route in React](https://dev.to/coder4_life/creating-a-protected-route-in-react-584i)
 - [Dev.to/JS] [Understanding the difference between Javascript Arrays and python lists.](https://dev.to/teekentx/understanding-the-difference-between-javascript-arrays-and-python-lists-5ci9)
 - [Dev.to/JS] [Introduction to Authentication and Authorization using JSON Web Tokens in Nodejs](https://dev.to/tonieng/introduction-to-authentication-and-authorization-using-json-web-tokens-in-nodejs-p4a)
-- [Dev.to/JS] [JavaScript DOM getElementById&lpar;&rpar; Method Example](https://dev.to/webvees/javascript-dom-getelementbyid-method-example-1l08)
-- [Dev.to/JS] [Interviewing in Software Development Made Easy with Interview Bibles for Ruby, Python, JavaScript, and ReactJS](https://dev.to/nezirzahirovic/interviewing-in-software-development-made-easy-with-interview-bibles-for-ruby-python-javascript-and-reactjs-4al3)
-- [Dev.to/JS] [Rich Text Editor in React.js with more Powerful features](https://dev.to/johnbabu021/rich-text-editor-in-reactjs-with-more-powerful-features-1oil)
 - [Lifehacker] [New AI Features, the Pixel Fold, and More Updates From This Year&#39;s Google I/O](https://lifehacker.com/new-ai-features-the-pixel-fold-and-more-updates-from-1850424583)
 - [Lifehacker] [So You&#39;ve Googled Your Symptoms](https://lifehacker.com/so-youve-googled-your-symptoms-1850423805)
 - [Lifehacker] [Here&#39;s Where You Can Still Buy Mother&#39;s Day Flowers](https://lifehacker.com/where-to-buy-last-minute-mothers-day-flowers-1825831926)
