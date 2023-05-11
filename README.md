@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Blend Spent Citrus Rinds Into a Cocktail Syrup](https://lifehacker.com/blend-spent-citrus-rinds-into-a-cocktail-syrup-1850426045)
+- [Dev.to/JS] [Hide Navbar In Login Component In React.](https://dev.to/quophibonney/hide-navbar-in-login-component-in-react-3in9)
+- [Dev.to/JS] [Js array methods](https://dev.to/nazimudheen_ti/js-array-methods-59)
+- [Lifehacker] [Buy One Shake Shack Milkshake, Get One Free This Summer](https://lifehacker.com/buy-one-shake-shack-milkshake-get-one-free-this-summer-1850426086)
 - [Lifehacker] [You Can Plant Your Own Ramps](https://lifehacker.com/you-can-plant-your-own-ramps-1850421622)
 - [Dev.to/JS] [Node.js: Replace your .env file with this awesome tool at scale](https://dev.to/dangtony98/nodejs-replace-your-env-file-with-this-awesome-tool-at-scale-nic)
 - [Dev.to/JS] [Join us for HackTogether: The Microsoft Teams Global Hack](https://dev.to/microsoft365/join-us-for-hacktogether-the-microsoft-teams-global-hack-4p15)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Milkshakes and Concretes &lpar;and How to Make Them&rpar;](https://lifehacker.com/the-difference-between-milkshakes-and-concretes-and-ho-1850424489)
 - [Dev.to/JS] [Get started with Greenhouse APIs: Overview and authentication](https://dev.to/superface/get-started-with-greenhouse-apis-overview-and-authentication-2ip0)
 - [Dev.to/JS] [SolidJS: Differences between For and Index](https://dev.to/lico/solidjs-differences-for-and-index-24p9)
-- [Dev.to/JS] [JavaScript Interview Questions for freshers](https://dev.to/satyam_prg/javascript-interview-questions-for-freshers-4he2)
-- [Dev.to/JS] [💻 JavaScript for Beginners: Objects](https://dev.to/catherineisonline/javascript-for-beginners-objects-4khn)
 - [Lifehacker] [New AI Features, the Pixel Fold, and More Updates From This Year&#39;s Google I/O](https://lifehacker.com/new-ai-features-the-pixel-fold-and-more-updates-from-1850424583)
 - [Lifehacker] [So You&#39;ve Googled Your Symptoms](https://lifehacker.com/so-youve-googled-your-symptoms-1850423805)
 - [Lifehacker] [Here&#39;s Where You Can Still Buy Mother&#39;s Day Flowers](https://lifehacker.com/where-to-buy-last-minute-mothers-day-flowers-1825831926)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make the Perfect Grain Bowl](https://lifehacker.com/how-to-make-the-perfect-grain-bowl-1850419426)
 - [Lifehacker] [The Dos and Don&#39;ts of Texting in a New Relationship](https://lifehacker.com/the-dos-and-donts-of-texting-in-a-new-relationship-1850355096)
 - [Lifehacker] [The Most Commonly Wasted Foods &lpar;and How to Stop Wasting Them&rpar;](https://lifehacker.com/the-most-commonly-wasted-foods-and-how-to-stop-wasting-1850359331)
-- [Lifehacker] [Don’t Make These Mistakes When Buying a New Dryer](https://lifehacker.com/don-t-make-these-mistakes-when-buying-a-new-dryer-1850368737)
-- [Lifehacker] [Five Easy Ways to Add Usable Storage Space Under Your Stairs](https://lifehacker.com/five-easy-ways-to-add-usable-storage-space-under-your-s-1850419374)
-- [Lifehacker] [Four of the Best Ways to Study &lpar;but Not Cheat&rpar; With ChatGPT](https://lifehacker.com/four-of-the-best-ways-to-study-but-not-cheat-with-cha-1850419522)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Make These Mistakes When Buying a New Dryer](https://lifehacker.com/don-t-make-these-mistakes-when-buying-a-new-dryer-1850368737)<!-- TECH-POSTS:END -->
 
 ---
 
