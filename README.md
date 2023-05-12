@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing the new Vue Query client](https://dev.to/wundergraph/introducing-the-new-vue-query-client-1gnd)
 - [Dev.to/JS] [Bee Productive with BeeWare: Your Ultimate Web App for Efficiency](https://dev.to/mrexamples/bee-productive-with-beeware-your-ultimate-web-app-for-efficiency-49lc)
 - [Dev.to/JS] [Improve Code Quality with These Tips and Best Practices](https://dev.to/documatic/improve-code-quality-with-these-tips-and-best-practices-2mh2)
 - [Dev.to/JS] [Always experiment first](https://dev.to/merri/always-experiment-first-5854)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Java Coding: Essential Techniques All Programmers Should Know](https://dev.to/javadev/mastering-java-coding-essential-techniques-all-programmers-should-know-1ea6)
 - [Dev.to/JS] [JavaScript Operators and Expressions | JavaScript](https://dev.to/sksage/javascript-operators-and-expressions-javascript-2n6m)
 - [Dev.to/JS] [open-source React GPT LLM Agent](https://dev.to/eylonmiz/open-source-react-gpt-llm-agent-9da)
-- [Dev.to/JS] [Testing and Debugging in MERN Applications](https://dev.to/alimalim77/testing-and-debugging-in-mern-applications-1695)
 - [Lifehacker] [Tame the Heat and Treat Your Thai Curry Like Pasta Sauce](https://lifehacker.com/tame-the-heat-and-treat-your-thai-curry-like-pasta-sauc-1850429761)
 - [Lifehacker] [An Over-the-Counter Birth Control Pill Is &lpar;Probably&rpar; Coming Soon](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
 - [Lifehacker] [How to Use Passkeys on Your iPhone or Mac](https://lifehacker.com/how-to-use-passkeys-on-your-iphone-or-mac-1850428402)
