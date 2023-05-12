@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Advanced Cypress.io Test Automation [Part 4/4]: Writing Custom Functions](https://dev.to/ahsanbilal/mastering-advanced-cypressio-test-automation-part-44-writing-custom-functions-5bkp)
+- [Dev.to/JS] [Mastering Advanced Cypress.io Test Automation [Part 3/4]: Promise Resolving](https://dev.to/ahsanbilal/mastering-advanced-cypressio-test-automation-part-34-promise-resolving-4p3b)
 - [Dev.to/JS] [Mastering Advanced Cypress.io Test Automation [Part 2/4]: Network Stubbing](https://dev.to/ahsanbilal/mastering-advanced-cypressio-test-automation-part-24-network-stubbing-4mgg)
 - [Dev.to/JS] [Mastering Advanced Cypress.io Test Automation [Part 1/4]: Dealing with Iframes](https://dev.to/ahsanbilal/mastering-advanced-cypressio-test-automation-part-14-dealing-with-iframes-422m)
 - [Dev.to/JS] [Expanding Horizons: Adding a Dislike Button and Embracing Python](https://dev.to/arashjangali/expanding-horizons-adding-a-dislike-button-and-embracing-python-5gbj)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use Passkeys on Your iPhone or Mac](https://lifehacker.com/how-to-use-passkeys-on-your-iphone-or-mac-1850428402)
 - [Dev.to/JS] [How the JavaScript code works behind the scene ?](https://dev.to/lovegupta/how-the-javascript-code-works-behind-the-scene--odg)
 - [Lifehacker] [This App Uses AI to Organize Your iPhone Photos](https://lifehacker.com/this-app-uses-ai-to-organize-your-iphone-photos-1850429061)
-- [Dev.to/JS] [Everything you need to know about JavaScript Promises](https://dev.to/xplodivity/everything-you-need-to-know-about-javascript-promises-3pe3)
-- [Dev.to/JS] [Home Steps Following The Cursor &lpar;GSAP&rpar;](https://dev.to/robin-ivi/home-steps-following-the-cursor-gsap-5709)
 - [Lifehacker] [Why You Should Try Color-Coding Your Clock](https://lifehacker.com/why-you-should-try-color-coding-your-clock-1850428961)
 - [Lifehacker] [How to Take Netflix Screenshots Even Though They Don&#39;t Want You To](https://lifehacker.com/how-to-take-netflix-screenshots-even-though-they-dont-w-1850428571)
 - [Lifehacker] [Dirty Martini Fried Chicken Is Giving Crunch](https://lifehacker.com/dirty-martini-fried-chicken-is-giving-crunch-1850426230)
