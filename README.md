@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Your ultimate destination for all things web development](https://dev.to/murtazajooo/your-ultimate-destination-for-all-things-web-development-158e)
+- [Dev.to/JS] [Building a Simple REST API with NodeJS and Express](https://dev.to/dzihnn/building-a-simple-rest-api-with-nodejs-and-express-1gc6)
 - [Dev.to/JS] [Seek and Destroy Algorithm](https://dev.to/muhmmadawd/seek-and-destroy-algorithm-ehc)
 - [Dev.to/JS] [Unlock the Power of Higher-Order Functions: Make Your JavaScript Code More Flexible and Reusable](https://dev.to/danities316/unlock-the-power-of-higher-order-functions-make-your-javascript-code-more-flexible-and-reusable-1k37)
 - [Dev.to/JS] [Automating EC2 Instance Start/Stop using Serverless Code and CloudWatch Rule](https://dev.to/kerisnarendra/automating-ec2-instance-startstop-using-serverless-code-and-cloudwatch-rule-429p)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Advanced Cypress.io Test Automation [Part 2/4]: Network Stubbing](https://dev.to/ahsanbilal/mastering-advanced-cypressio-test-automation-part-24-network-stubbing-4mgg)
 - [Dev.to/JS] [Mastering Advanced Cypress.io Test Automation [Part 1/4]: Dealing with Iframes](https://dev.to/ahsanbilal/mastering-advanced-cypressio-test-automation-part-14-dealing-with-iframes-422m)
 - [Dev.to/JS] [Expanding Horizons: Adding a Dislike Button and Embracing Python](https://dev.to/arashjangali/expanding-horizons-adding-a-dislike-button-and-embracing-python-5gbj)
-- [Dev.to/JS] [JavaScript Closures: Understanding Private Variables, Callbacks, and Memoization for Efficient Code](https://dev.to/husayn01/javascript-closures-understanding-private-variables-callbacks-and-memoization-for-efficient-code-2ph4)
-- [Dev.to/JS] [The Delightful World of JavaScript Arrow Functions 🏹 - The Beginners Guide To Javascript&lpar;Part 11&rpar;](https://dev.to/camskithedev/the-delightful-world-of-javascript-arrow-functions-the-beginners-guide-to-javascriptpart-11-3e7i)
 - [Lifehacker] [Tame the Heat and Treat Your Thai Curry Like Pasta Sauce](https://lifehacker.com/tame-the-heat-and-treat-your-thai-curry-like-pasta-sauc-1850429761)
 - [Lifehacker] [An Over-the-Counter Birth Control Pill Is &lpar;Probably&rpar; Coming Soon](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
 - [Lifehacker] [How to Use Passkeys on Your iPhone or Mac](https://lifehacker.com/how-to-use-passkeys-on-your-iphone-or-mac-1850428402)
