@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is a form?](https://dev.to/tacific/what-is-a-form-4dgn)
+- [Dev.to/JS] [Vibe Check Alpha 0.1 Release Notes](https://dev.to/justinfisher/vibe-check-alpha-01-release-notes-17c3)
 - [Lifehacker] [It&#39;s Safe to Scan QR Codes &lpar;If You&#39;re Careful&rpar;](https://lifehacker.com/its-safe-to-scan-qr-codes-if-youre-careful-1850432586)
 - [Lifehacker] [If Mosquitoes Love You, Maybe Switch Soaps](https://lifehacker.com/if-mosquitoes-love-you-maybe-switch-soaps-1850433477)
 - [Dev.to/JS] [`this` Just In: Discover the Hidden Powers of `this` in Javascript - The Beginners Guide To Javascript&lpar;Part 12&rpar;](https://dev.to/camskithedev/this-just-in-discover-the-hidden-powers-of-this-in-javascript-2m83)
@@ -44,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Beware of These Scams Targeting New Homeowners](https://lifehacker.com/beware-of-these-scams-targeting-new-homeowners-1850432484)
 - [Dev.to/JS] [Beyond Vercel: Hosting Alternatives for Next](https://dev.to/thetombomb/beyond-vercel-hosting-alternatives-for-next-4h5f)
 - [Lifehacker] [You Can Finally Edit Your WhatsApp Messages](https://lifehacker.com/you-can-finally-edit-your-whatsapp-messages-1850432192)
-- [Dev.to/JS] [Document Your React Applications The Right Way](https://dev.to/mohammadfaisal/document-your-react-applications-the-right-way-1k4d)
 - [Lifehacker] [How the ‘Primacy Effect’ Can Help You Remember Information](https://lifehacker.com/how-the-primacy-effect-can-help-you-remember-informat-1850432109)
-- [Dev.to/JS] [Background-Color Library](https://dev.to/navinso92429049/background-color-library-fb1)
 - [Lifehacker] [You Can Grow &lpar;and Eat&rpar; This Sponge](https://lifehacker.com/you-can-grow-and-eat-this-sponge-1850421644)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Why Are Middle-Aged Men Being Called ‘Babygirl’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-1850431313)
 - [Lifehacker] [Make a Breakfast Vinaigrette With Bacon and Mrs. Butterworth’s](https://lifehacker.com/make-a-breakfast-vinaigrette-with-bacon-and-mrs-butter-1850429774)
