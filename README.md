@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Advanced Cypress.io Test Automation [Part 2/4]: Network Stubbing](https://dev.to/ahsanbilal/mastering-advanced-cypressio-test-automation-part-24-network-stubbing-4mgg)
+- [Dev.to/JS] [Mastering Advanced Cypress.io Test Automation [Part 1/4]: Dealing with Iframes](https://dev.to/ahsanbilal/mastering-advanced-cypressio-test-automation-part-14-dealing-with-iframes-422m)
 - [Dev.to/JS] [Expanding Horizons: Adding a Dislike Button and Embracing Python](https://dev.to/arashjangali/expanding-horizons-adding-a-dislike-button-and-embracing-python-5gbj)
 - [Dev.to/JS] [JavaScript Closures: Understanding Private Variables, Callbacks, and Memoization for Efficient Code](https://dev.to/husayn01/javascript-closures-understanding-private-variables-callbacks-and-memoization-for-efficient-code-2ph4)
 - [Dev.to/JS] [The Delightful World of JavaScript Arrow Functions 🏹 - The Beginners Guide To Javascript&lpar;Part 11&rpar;](https://dev.to/camskithedev/the-delightful-world-of-javascript-arrow-functions-the-beginners-guide-to-javascriptpart-11-3e7i)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Everything you need to know about JavaScript Promises](https://dev.to/xplodivity/everything-you-need-to-know-about-javascript-promises-3pe3)
 - [Dev.to/JS] [Home Steps Following The Cursor &lpar;GSAP&rpar;](https://dev.to/robin-ivi/home-steps-following-the-cursor-gsap-5709)
 - [Lifehacker] [Why You Should Try Color-Coding Your Clock](https://lifehacker.com/why-you-should-try-color-coding-your-clock-1850428961)
-- [Dev.to/JS] [ECMAScript some features you might find useful](https://dev.to/himanshudevgupta/ecmascript-some-features-you-might-find-useful-ihj)
-- [Dev.to/JS] [How many &lt;div&gt; elements are needed to create the Chart component?](https://dev.to/soundar24/how-many-elements-are-needed-to-create-the-chart-component-15l)
 - [Lifehacker] [How to Take Netflix Screenshots Even Though They Don&#39;t Want You To](https://lifehacker.com/how-to-take-netflix-screenshots-even-though-they-dont-w-1850428571)
 - [Lifehacker] [Dirty Martini Fried Chicken Is Giving Crunch](https://lifehacker.com/dirty-martini-fried-chicken-is-giving-crunch-1850426230)
 - [Lifehacker] [Peloton Is Recalling Millions of Bikes](https://lifehacker.com/peloton-is-recalling-millions-of-bikes-1850428672)
