@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Five Questions You Should Ask Before Buying a House &#39;As Is&#39;](https://lifehacker.com/five-questions-you-should-ask-before-buying-a-house-as-1850432696)
+- [Dev.to/JS] [Revamp Your Web Development with Ruby on Rails Channels: Create Dynamic Real-Time Apps with Ease](https://dev.to/shayanlk/revamp-your-web-development-with-ruby-on-rails-channels-create-dynamic-real-time-apps-with-ease-2kkp)
+- [Dev.to/JS] [Get Images with JWT Authorization Headers for &lt;img /&gt; src](https://dev.to/jfraziz/get-images-with-jwt-authorization-headers-for-src-2dof)
+- [Lifehacker] [Eight Unexpected Ways Adults Play Too Rough With Kids](https://lifehacker.com/eight-unexpected-ways-adults-play-too-rough-with-kids-1850432796)
 - [Dev.to/JS] [How to Code the Recursive Factorial Algorithm in JavaScript and Python](https://dev.to/nielsenjared/how-to-code-the-recursive-factorial-algorithm-ib1)
 - [Lifehacker] [Add Peanut Powder to Your Cooking Toolkit](https://lifehacker.com/add-peanut-powder-to-your-cooking-toolkit-1850432861)
 - [Dev.to/JS] [The Development Of JavaScript Through Time](https://dev.to/odayibasi2/the-development-of-javascript-through-time-8lk)
@@ -44,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Actually Open a New Google Doc Quickly](https://lifehacker.com/how-to-actually-open-a-new-google-doc-quickly-1850428861)
 - [Dev.to/JS] [git diff - Comparing Changes in Git](https://dev.to/refine/git-diff-comparing-changes-in-git-3n5m)
 - [Lifehacker] [This One Ingredient Will Elevate Your Rice Krispies Treats](https://lifehacker.com/this-one-ingredient-will-elevate-your-rice-krispies-tre-1850427025)
-- [Dev.to/JS] [Deno: a new era in JavaScript land](https://dev.to/rosnerdev/deno-a-new-era-in-javascript-land-4okn)
-- [Dev.to/JS] [Introducing the new Vue Query client](https://dev.to/wundergraph/introducing-the-new-vue-query-client-1gnd)
 - [Lifehacker] [21 Truly Terrible Movie Moms to Make You Feel Better &lpar;or Worse&rpar; About Yours](https://lifehacker.com/21-truly-terrible-movie-moms-to-make-you-feel-better-o-1850424947)
 - [Lifehacker] [Tame the Heat and Treat Your Thai Curry Like Pasta Sauce](https://lifehacker.com/tame-the-heat-and-treat-your-thai-curry-like-pasta-sauc-1850429761)
 - [Lifehacker] [An Over-the-Counter Birth Control Pill Is &lpar;Probably&rpar; Coming Soon](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Blend Spent Citrus Rinds Into a Cocktail Syrup](https://lifehacker.com/blend-spent-citrus-rinds-into-a-cocktail-syrup-1850426045)
 - [Lifehacker] [Buy One Shake Shack Milkshake, Get One Free This Summer](https://lifehacker.com/buy-one-shake-shack-milkshake-get-one-free-this-summer-1850426086)
 - [Lifehacker] [You Can Plant Your Own Ramps](https://lifehacker.com/you-can-plant-your-own-ramps-1850421622)
-- [Lifehacker] [These Theme Parks Now Require Tweens and Teens to Have Adult Supervision](https://lifehacker.com/these-theme-parks-now-require-tweens-and-teens-to-have-1850425536)
-- [Lifehacker] [How a &#39;Study Outfit&#39; Can Actually Help You Learn](https://lifehacker.com/how-a-study-outfit-can-actually-help-you-learn-1850424510)
-- [Lifehacker] [Trellises Will Completely Transform Your Garden](https://lifehacker.com/trellises-will-completely-transform-your-garden-1850422342)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Theme Parks Now Require Tweens and Teens to Have Adult Supervision](https://lifehacker.com/these-theme-parks-now-require-tweens-and-teens-to-have-1850425536)<!-- TECH-POSTS:END -->
 
 ---
 
