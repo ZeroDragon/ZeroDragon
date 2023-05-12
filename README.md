@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The consistent learning of a developer](https://dev.to/kubaho3/the-consistent-learning-of-a-developer-417j)
+- [Lifehacker] [Make a Breakfast Vinaigrette With Bacon and Mrs. Butterworth’s](https://lifehacker.com/make-a-breakfast-vinaigrette-with-bacon-and-mrs-butter-1850429774)
+- [Dev.to/JS] [[#3] KoreanCoding 101: for loops and arrays](https://dev.to/haanna/3-koreancoding-101-for-loops-and-arrays-3noa)
+- [Lifehacker] [How to Actually Open a New Google Doc Quickly](https://lifehacker.com/how-to-actually-open-a-new-google-doc-quickly-1850428861)
 - [Dev.to/JS] [git diff - Comparing Changes in Git](https://dev.to/refine/git-diff-comparing-changes-in-git-3n5m)
 - [Lifehacker] [This One Ingredient Will Elevate Your Rice Krispies Treats](https://lifehacker.com/this-one-ingredient-will-elevate-your-rice-krispies-tre-1850427025)
 - [Dev.to/JS] [Deno: a new era in JavaScript land](https://dev.to/rosnerdev/deno-a-new-era-in-javascript-land-4okn)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Clear All pinia stores](https://dev.to/medaminefh/clear-all-pinia-stores-9kd)
 - [Dev.to/JS] [Next JS Admin Dashboard Template Free](https://dev.to/easetemplates/next-js-admin-dashboard-template-free-2jf1)
 - [Dev.to/JS] [Securing Node.js Applications with the Built-in Crypto Module: A Guide for Developers with code.](https://dev.to/ashsajal/securing-nodejs-applications-with-the-built-in-crypto-module-a-guide-for-developers-with-code-48jo)
-- [Dev.to/JS] [How to get rid of QuickBooks Error code 15227?](https://dev.to/elinawilliam12/how-to-get-rid-of-quickbooks-error-code-15227-5fn0)
-- [Dev.to/JS] [A Multivariate Approach Towards Simplifying Financial Markets With Python](https://dev.to/devfinwiz/a-multivariate-approach-towards-simplifying-financial-markets-with-python-5ghj)
 - [Lifehacker] [Tame the Heat and Treat Your Thai Curry Like Pasta Sauce](https://lifehacker.com/tame-the-heat-and-treat-your-thai-curry-like-pasta-sauc-1850429761)
 - [Lifehacker] [An Over-the-Counter Birth Control Pill Is &lpar;Probably&rpar; Coming Soon](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
 - [Lifehacker] [How to Use Passkeys on Your iPhone or Mac](https://lifehacker.com/how-to-use-passkeys-on-your-iphone-or-mac-1850428402)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell Your Frozen Food Has Gone Bad &lpar;Without Tasting It&rpar;](https://lifehacker.com/how-to-tell-your-frozen-food-has-gone-bad-without-tast-1850424342)
 - [Lifehacker] [‘Temptation Bundling’ Can Help You Complete Tasks You Hate](https://lifehacker.com/temptation-bundling-can-help-you-complete-tasks-you-h-1850424500)
 - [Lifehacker] [How Your Phone&#39;s Background Can Help You Study](https://lifehacker.com/how-your-phones-background-can-help-you-study-1850424491)
-- [Lifehacker] [Dehydrate Some Caramelized Onions and Crumble Them Over Everything](https://lifehacker.com/dehydrate-some-caramelized-onions-and-crumble-them-over-1850424677)
-- [Lifehacker] [Basic Car Maintenance and Repairs You Can &lpar;and Should&rpar; Do Yourself](https://lifehacker.com/basic-car-maintenance-and-repairs-you-can-and-should-1850422201)
-- [Lifehacker] [When You Might Need a French Drain &lpar;and How to Build One Yourself&rpar;](https://lifehacker.com/when-you-might-need-a-french-drain-and-how-to-build-on-1850421942)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Dehydrate Some Caramelized Onions and Crumble Them Over Everything](https://lifehacker.com/dehydrate-some-caramelized-onions-and-crumble-them-over-1850424677)<!-- TECH-POSTS:END -->
 
 ---
 
