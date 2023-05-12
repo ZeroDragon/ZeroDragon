@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding the Basics of Yarn: A Comprehensive Guide](https://dev.to/nikhilxd/understanding-the-basics-of-yarn-a-comprehensive-guide-370a)
+- [Dev.to/JS] [Medusa &lpar;4/4&rpar;: An In-depth Look at Their Admin](https://dev.to/ntyrberg/medusa-44-an-in-depth-look-at-their-admin-14h1)
+- [Dev.to/JS] [Medusa &lpar;3/4&rpar;: Commerce Modules and Features](https://dev.to/ntyrberg/medusa-34-commerce-modules-and-features-2da2)
+- [Dev.to/JS] [Medusa &lpar;2/4&rpar;: Vision, History, and Product](https://dev.to/ntyrberg/medusa-24-vision-history-and-product-207j)
+- [Dev.to/JS] [Medusa&lpar;1/4&rpar; - The future of e-commerce?](https://dev.to/ntyrberg/medusa14-the-future-of-e-commerce-2fae)
 - [Dev.to/JS] [Your ultimate destination for all things web development](https://dev.to/murtazajooo/your-ultimate-destination-for-all-things-web-development-158e)
 - [Dev.to/JS] [Building a Simple REST API with NodeJS and Express](https://dev.to/dzihnn/building-a-simple-rest-api-with-nodejs-and-express-1gc6)
 - [Dev.to/JS] [Seek and Destroy Algorithm](https://dev.to/muhmmadawd/seek-and-destroy-algorithm-ehc)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Automating EC2 Instance Start/Stop using Serverless Code and CloudWatch Rule](https://dev.to/kerisnarendra/automating-ec2-instance-startstop-using-serverless-code-and-cloudwatch-rule-429p)
 - [Dev.to/JS] [How To Use OpenAI&lpar;chatGPT&rpar; As a Javascript developer](https://dev.to/danities316/how-to-use-openaichatgpt-as-a-javascript-developer-n0)
 - [Dev.to/JS] [5 Code Refactoring Techniques to Improve Your Code](https://dev.to/rahul3002/5-code-refactoring-techniques-to-improve-your-code-19b0)
-- [Dev.to/JS] [Mastering Advanced Cypress.io Test Automation [Part 4/4]: Writing Custom Functions](https://dev.to/ahsanbilal/mastering-advanced-cypressio-test-automation-part-44-writing-custom-functions-5bkp)
-- [Dev.to/JS] [Mastering Advanced Cypress.io Test Automation [Part 3/4]: Promise Resolving](https://dev.to/ahsanbilal/mastering-advanced-cypressio-test-automation-part-34-promise-resolving-4p3b)
-- [Dev.to/JS] [Mastering Advanced Cypress.io Test Automation [Part 2/4]: Network Stubbing](https://dev.to/ahsanbilal/mastering-advanced-cypressio-test-automation-part-24-network-stubbing-4mgg)
-- [Dev.to/JS] [Mastering Advanced Cypress.io Test Automation [Part 1/4]: Dealing with Iframes](https://dev.to/ahsanbilal/mastering-advanced-cypressio-test-automation-part-14-dealing-with-iframes-422m)
-- [Dev.to/JS] [Expanding Horizons: Adding a Dislike Button and Embracing Python](https://dev.to/arashjangali/expanding-horizons-adding-a-dislike-button-and-embracing-python-5gbj)
 - [Lifehacker] [Tame the Heat and Treat Your Thai Curry Like Pasta Sauce](https://lifehacker.com/tame-the-heat-and-treat-your-thai-curry-like-pasta-sauc-1850429761)
 - [Lifehacker] [An Over-the-Counter Birth Control Pill Is &lpar;Probably&rpar; Coming Soon](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
 - [Lifehacker] [How to Use Passkeys on Your iPhone or Mac](https://lifehacker.com/how-to-use-passkeys-on-your-iphone-or-mac-1850428402)
