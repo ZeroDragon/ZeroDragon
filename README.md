@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Background-Color Library](https://dev.to/navinso92429049/background-color-library-fb1)
+- [Lifehacker] [You Can Grow &lpar;and Eat&rpar; This Sponge](https://lifehacker.com/you-can-grow-and-eat-this-sponge-1850421644)
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Why Are Middle-Aged Men Being Called ‘Babygirl’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-1850431313)
 - [Dev.to/JS] [The consistent learning of a developer](https://dev.to/kubaho3/the-consistent-learning-of-a-developer-417j)
 - [Lifehacker] [Make a Breakfast Vinaigrette With Bacon and Mrs. Butterworth’s](https://lifehacker.com/make-a-breakfast-vinaigrette-with-bacon-and-mrs-butter-1850429774)
 - [Dev.to/JS] [[#3] KoreanCoding 101: for loops and arrays](https://dev.to/haanna/3-koreancoding-101-for-loops-and-arrays-3noa)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Pass by Value and Pass by Reference](https://dev.to/samyak112/understanding-pass-by-value-and-pass-by-reference-5e5)
 - [Dev.to/JS] [Clear All pinia stores](https://dev.to/medaminefh/clear-all-pinia-stores-9kd)
 - [Dev.to/JS] [Next JS Admin Dashboard Template Free](https://dev.to/easetemplates/next-js-admin-dashboard-template-free-2jf1)
-- [Dev.to/JS] [Securing Node.js Applications with the Built-in Crypto Module: A Guide for Developers with code.](https://dev.to/ashsajal/securing-nodejs-applications-with-the-built-in-crypto-module-a-guide-for-developers-with-code-48jo)
 - [Lifehacker] [Tame the Heat and Treat Your Thai Curry Like Pasta Sauce](https://lifehacker.com/tame-the-heat-and-treat-your-thai-curry-like-pasta-sauc-1850429761)
 - [Lifehacker] [An Over-the-Counter Birth Control Pill Is &lpar;Probably&rpar; Coming Soon](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
 - [Lifehacker] [How to Use Passkeys on Your iPhone or Mac](https://lifehacker.com/how-to-use-passkeys-on-your-iphone-or-mac-1850428402)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [So You&#39;ve Googled Your Symptoms](https://lifehacker.com/so-youve-googled-your-symptoms-1850423805)
 - [Lifehacker] [Here&#39;s Where You Can Still Buy Mother&#39;s Day Flowers](https://lifehacker.com/where-to-buy-last-minute-mothers-day-flowers-1825831926)
 - [Lifehacker] [How to Tell Your Frozen Food Has Gone Bad &lpar;Without Tasting It&rpar;](https://lifehacker.com/how-to-tell-your-frozen-food-has-gone-bad-without-tast-1850424342)
-- [Lifehacker] [‘Temptation Bundling’ Can Help You Complete Tasks You Hate](https://lifehacker.com/temptation-bundling-can-help-you-complete-tasks-you-h-1850424500)
-- [Lifehacker] [How Your Phone&#39;s Background Can Help You Study](https://lifehacker.com/how-your-phones-background-can-help-you-study-1850424491)
-- [Lifehacker] [Dehydrate Some Caramelized Onions and Crumble Them Over Everything](https://lifehacker.com/dehydrate-some-caramelized-onions-and-crumble-them-over-1850424677)<!-- TECH-POSTS:END -->
+- [Lifehacker] [‘Temptation Bundling’ Can Help You Complete Tasks You Hate](https://lifehacker.com/temptation-bundling-can-help-you-complete-tasks-you-h-1850424500)<!-- TECH-POSTS:END -->
 
 ---
 
