@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Finally Edit Your WhatsApp Messages](https://lifehacker.com/you-can-finally-edit-your-whatsapp-messages-1850432192)
+- [Dev.to/JS] [Document Your React Applications The Right Way](https://dev.to/mohammadfaisal/document-your-react-applications-the-right-way-1k4d)
+- [Lifehacker] [How the ‘Primacy Effect’ Can Help You Remember Information](https://lifehacker.com/how-the-primacy-effect-can-help-you-remember-informat-1850432109)
 - [Dev.to/JS] [Background-Color Library](https://dev.to/navinso92429049/background-color-library-fb1)
 - [Lifehacker] [You Can Grow &lpar;and Eat&rpar; This Sponge](https://lifehacker.com/you-can-grow-and-eat-this-sponge-1850421644)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Why Are Middle-Aged Men Being Called ‘Babygirl’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-1850431313)
@@ -40,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Always experiment first](https://dev.to/merri/always-experiment-first-5854)
 - [Dev.to/JS] [Understanding Pass by Value and Pass by Reference](https://dev.to/samyak112/understanding-pass-by-value-and-pass-by-reference-5e5)
 - [Dev.to/JS] [Clear All pinia stores](https://dev.to/medaminefh/clear-all-pinia-stores-9kd)
-- [Dev.to/JS] [Next JS Admin Dashboard Template Free](https://dev.to/easetemplates/next-js-admin-dashboard-template-free-2jf1)
 - [Lifehacker] [Tame the Heat and Treat Your Thai Curry Like Pasta Sauce](https://lifehacker.com/tame-the-heat-and-treat-your-thai-curry-like-pasta-sauc-1850429761)
 - [Lifehacker] [An Over-the-Counter Birth Control Pill Is &lpar;Probably&rpar; Coming Soon](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
 - [Lifehacker] [How to Use Passkeys on Your iPhone or Mac](https://lifehacker.com/how-to-use-passkeys-on-your-iphone-or-mac-1850428402)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Milkshakes and Concretes &lpar;and How to Make Them&rpar;](https://lifehacker.com/the-difference-between-milkshakes-and-concretes-and-ho-1850424489)
 - [Lifehacker] [New AI Features, the Pixel Fold, and More Updates From This Year&#39;s Google I/O](https://lifehacker.com/new-ai-features-the-pixel-fold-and-more-updates-from-1850424583)
 - [Lifehacker] [So You&#39;ve Googled Your Symptoms](https://lifehacker.com/so-youve-googled-your-symptoms-1850423805)
-- [Lifehacker] [Here&#39;s Where You Can Still Buy Mother&#39;s Day Flowers](https://lifehacker.com/where-to-buy-last-minute-mothers-day-flowers-1825831926)
-- [Lifehacker] [How to Tell Your Frozen Food Has Gone Bad &lpar;Without Tasting It&rpar;](https://lifehacker.com/how-to-tell-your-frozen-food-has-gone-bad-without-tast-1850424342)
-- [Lifehacker] [‘Temptation Bundling’ Can Help You Complete Tasks You Hate](https://lifehacker.com/temptation-bundling-can-help-you-complete-tasks-you-h-1850424500)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s Where You Can Still Buy Mother&#39;s Day Flowers](https://lifehacker.com/where-to-buy-last-minute-mothers-day-flowers-1825831926)<!-- TECH-POSTS:END -->
 
 ---
 
