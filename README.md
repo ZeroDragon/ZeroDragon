@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Expanding Horizons: Adding a Dislike Button and Embracing Python](https://dev.to/arashjangali/expanding-horizons-adding-a-dislike-button-and-embracing-python-5gbj)
+- [Dev.to/JS] [JavaScript Closures: Understanding Private Variables, Callbacks, and Memoization for Efficient Code](https://dev.to/husayn01/javascript-closures-understanding-private-variables-callbacks-and-memoization-for-efficient-code-2ph4)
+- [Dev.to/JS] [The Delightful World of JavaScript Arrow Functions 🏹 - The Beginners Guide To Javascript&lpar;Part 11&rpar;](https://dev.to/camskithedev/the-delightful-world-of-javascript-arrow-functions-the-beginners-guide-to-javascriptpart-11-3e7i)
+- [Dev.to/JS] [Demystifying Array Destructuring: A Beginner&#39;s Perspective](https://dev.to/devlawrence/demystifying-array-destructuring-a-beginners-perspective-f5b)
 - [Dev.to/JS] [What is SaaS-based voice?](https://dev.to/workarise/what-is-saas-based-voice-iin)
 - [Lifehacker] [Tame the Heat and Treat Your Thai Curry Like Pasta Sauce](https://lifehacker.com/tame-the-heat-and-treat-your-thai-curry-like-pasta-sauc-1850429761)
 - [Dev.to/JS] [Rapyd: A Comprehensive Payment Solution for Global Businesses](https://dev.to/rapyd/rapyd-a-comprehensive-payment-solution-for-global-businesses-7hb)
@@ -37,13 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ECMAScript some features you might find useful](https://dev.to/himanshudevgupta/ecmascript-some-features-you-might-find-useful-ihj)
 - [Dev.to/JS] [How many &lt;div&gt; elements are needed to create the Chart component?](https://dev.to/soundar24/how-many-elements-are-needed-to-create-the-chart-component-15l)
 - [Lifehacker] [How to Take Netflix Screenshots Even Though They Don&#39;t Want You To](https://lifehacker.com/how-to-take-netflix-screenshots-even-though-they-dont-w-1850428571)
-- [Dev.to/JS] [4 JavaScript Techniques Every Developer Should Know](https://dev.to/envitab/4-javascript-techniques-every-developer-should-know-423m)
-- [Dev.to/JS] [Handle Docker Images Like A Pro](https://dev.to/mohammadfaisal/handle-docker-images-like-a-pro-2mjg)
 - [Lifehacker] [Dirty Martini Fried Chicken Is Giving Crunch](https://lifehacker.com/dirty-martini-fried-chicken-is-giving-crunch-1850426230)
-- [Dev.to/JS] [☁️ API Maker Cloud Quick Introduction](https://dev.to/apimaker/api-maker-cloud-quick-introduction-kd6)
 - [Lifehacker] [Peloton Is Recalling Millions of Bikes](https://lifehacker.com/peloton-is-recalling-millions-of-bikes-1850428672)
 - [Lifehacker] [You Can Literally Make It Rain on Your Mac&#39;s Desktop](https://lifehacker.com/you-can-literally-make-it-rain-on-your-macs-desktop-1850428455)
-- [Dev.to/JS] [How To Create Website Using HTML &amp; CSS &amp; JS | Full Responsive Website](https://dev.to/webmonster/how-to-create-website-using-html-css-js-full-responsive-website-3j43)
 - [Lifehacker] [What People Are Getting Wrong This Week: How Therapy Works](https://lifehacker.com/what-we-re-getting-wrong-this-week-how-therapy-works-1850426868)
 - [Lifehacker] [Blend Spent Citrus Rinds Into a Cocktail Syrup](https://lifehacker.com/blend-spent-citrus-rinds-into-a-cocktail-syrup-1850426045)
 - [Lifehacker] [Buy One Shake Shack Milkshake, Get One Free This Summer](https://lifehacker.com/buy-one-shake-shack-milkshake-get-one-free-this-summer-1850426086)
