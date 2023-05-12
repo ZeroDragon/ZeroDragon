@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [It&#39;s Safe to Scan QR Codes &lpar;If You&#39;re Careful&rpar;](https://lifehacker.com/its-safe-to-scan-qr-codes-if-youre-careful-1850432586)
+- [Lifehacker] [If Mosquitoes Love You, Maybe Switch Soaps](https://lifehacker.com/if-mosquitoes-love-you-maybe-switch-soaps-1850433477)
+- [Dev.to/JS] [`this` Just In: Discover the Hidden Powers of `this` in Javascript - The Beginners Guide To Javascript&lpar;Part 12&rpar;](https://dev.to/camskithedev/this-just-in-discover-the-hidden-powers-of-this-in-javascript-2m83)
+- [Dev.to/JS] [JavaScript Closure](https://dev.to/ayako_yk/javascript-closure-5a45)
+- [Dev.to/JS] [An Overview on how to use State in React](https://dev.to/chris10garcia/an-overview-on-how-to-use-state-in-react-40gk)
+- [Lifehacker] [You Should Buffalo Your Popcorn](https://lifehacker.com/you-should-buffalo-your-popcorn-1850433286)
+- [Lifehacker] [This Orgeat Will Elevate Your At-Home Tiki Drinks](https://lifehacker.com/this-orgeat-will-elevate-your-at-home-tiki-drinks-1850358174)
 - [Lifehacker] [Five Questions You Should Ask Before Buying a House &#39;As Is&#39;](https://lifehacker.com/five-questions-you-should-ask-before-buying-a-house-as-1850432696)
 - [Dev.to/JS] [Revamp Your Web Development with Ruby on Rails Channels: Create Dynamic Real-Time Apps with Ease](https://dev.to/shayanlk/revamp-your-web-development-with-ruby-on-rails-channels-create-dynamic-real-time-apps-with-ease-2kkp)
 - [Dev.to/JS] [Get Images with JWT Authorization Headers for &lt;img /&gt; src](https://dev.to/jfraziz/get-images-with-jwt-authorization-headers-for-src-2dof)
@@ -42,11 +49,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Background-Color Library](https://dev.to/navinso92429049/background-color-library-fb1)
 - [Lifehacker] [You Can Grow &lpar;and Eat&rpar; This Sponge](https://lifehacker.com/you-can-grow-and-eat-this-sponge-1850421644)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Why Are Middle-Aged Men Being Called ‘Babygirl’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-1850431313)
-- [Dev.to/JS] [The consistent learning of a developer](https://dev.to/kubaho3/the-consistent-learning-of-a-developer-417j)
 - [Lifehacker] [Make a Breakfast Vinaigrette With Bacon and Mrs. Butterworth’s](https://lifehacker.com/make-a-breakfast-vinaigrette-with-bacon-and-mrs-butter-1850429774)
-- [Dev.to/JS] [[#3] KoreanCoding 101: for loops and arrays](https://dev.to/haanna/3-koreancoding-101-for-loops-and-arrays-3noa)
 - [Lifehacker] [How to Actually Open a New Google Doc Quickly](https://lifehacker.com/how-to-actually-open-a-new-google-doc-quickly-1850428861)
-- [Dev.to/JS] [git diff - Comparing Changes in Git](https://dev.to/refine/git-diff-comparing-changes-in-git-3n5m)
 - [Lifehacker] [This One Ingredient Will Elevate Your Rice Krispies Treats](https://lifehacker.com/this-one-ingredient-will-elevate-your-rice-krispies-tre-1850427025)
 - [Lifehacker] [21 Truly Terrible Movie Moms to Make You Feel Better &lpar;or Worse&rpar; About Yours](https://lifehacker.com/21-truly-terrible-movie-moms-to-make-you-feel-better-o-1850424947)
 - [Lifehacker] [Tame the Heat and Treat Your Thai Curry Like Pasta Sauce](https://lifehacker.com/tame-the-heat-and-treat-your-thai-curry-like-pasta-sauc-1850429761)
@@ -58,11 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Dirty Martini Fried Chicken Is Giving Crunch](https://lifehacker.com/dirty-martini-fried-chicken-is-giving-crunch-1850426230)
 - [Lifehacker] [Peloton Is Recalling Millions of Bikes](https://lifehacker.com/peloton-is-recalling-millions-of-bikes-1850428672)
 - [Lifehacker] [You Can Literally Make It Rain on Your Mac&#39;s Desktop](https://lifehacker.com/you-can-literally-make-it-rain-on-your-macs-desktop-1850428455)
-- [Lifehacker] [What People Are Getting Wrong This Week: How Therapy Works](https://lifehacker.com/what-we-re-getting-wrong-this-week-how-therapy-works-1850426868)
-- [Lifehacker] [Blend Spent Citrus Rinds Into a Cocktail Syrup](https://lifehacker.com/blend-spent-citrus-rinds-into-a-cocktail-syrup-1850426045)
-- [Lifehacker] [Buy One Shake Shack Milkshake, Get One Free This Summer](https://lifehacker.com/buy-one-shake-shack-milkshake-get-one-free-this-summer-1850426086)
-- [Lifehacker] [You Can Plant Your Own Ramps](https://lifehacker.com/you-can-plant-your-own-ramps-1850421622)
-- [Lifehacker] [These Theme Parks Now Require Tweens and Teens to Have Adult Supervision](https://lifehacker.com/these-theme-parks-now-require-tweens-and-teens-to-have-1850425536)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What People Are Getting Wrong This Week: How Therapy Works](https://lifehacker.com/what-we-re-getting-wrong-this-week-how-therapy-works-1850426868)<!-- TECH-POSTS:END -->
 
 ---
 
