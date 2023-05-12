@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Java Coding: Essential Techniques All Programmers Should Know](https://dev.to/javadev/mastering-java-coding-essential-techniques-all-programmers-should-know-1ea6)
+- [Dev.to/JS] [JavaScript Operators and Expressions | JavaScript](https://dev.to/sksage/javascript-operators-and-expressions-javascript-2n6m)
+- [Dev.to/JS] [open-source React GPT LLM Agent](https://dev.to/eylonmiz/open-source-react-gpt-llm-agent-9da)
 - [Dev.to/JS] [Testing and Debugging in MERN Applications](https://dev.to/alimalim77/testing-and-debugging-in-mern-applications-1695)
 - [Dev.to/JS] [Understanding the Basics of Yarn: A Comprehensive Guide](https://dev.to/nikhilxd/understanding-the-basics-of-yarn-a-comprehensive-guide-370a)
 - [Dev.to/JS] [Medusa &lpar;4/4&rpar;: An In-depth Look at Their Admin](https://dev.to/ntyrberg/medusa-44-an-in-depth-look-at-their-admin-14h1)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Your ultimate destination for all things web development](https://dev.to/murtazajooo/your-ultimate-destination-for-all-things-web-development-158e)
 - [Dev.to/JS] [Building a Simple REST API with NodeJS and Express](https://dev.to/dzihnn/building-a-simple-rest-api-with-nodejs-and-express-1gc6)
 - [Dev.to/JS] [Seek and Destroy Algorithm](https://dev.to/muhmmadawd/seek-and-destroy-algorithm-ehc)
-- [Dev.to/JS] [Unlock the Power of Higher-Order Functions: Make Your JavaScript Code More Flexible and Reusable](https://dev.to/danities316/unlock-the-power-of-higher-order-functions-make-your-javascript-code-more-flexible-and-reusable-1k37)
-- [Dev.to/JS] [Automating EC2 Instance Start/Stop using Serverless Code and CloudWatch Rule](https://dev.to/kerisnarendra/automating-ec2-instance-startstop-using-serverless-code-and-cloudwatch-rule-429p)
-- [Dev.to/JS] [How To Use OpenAI&lpar;chatGPT&rpar; As a Javascript developer](https://dev.to/danities316/how-to-use-openaichatgpt-as-a-javascript-developer-n0)
 - [Lifehacker] [Tame the Heat and Treat Your Thai Curry Like Pasta Sauce](https://lifehacker.com/tame-the-heat-and-treat-your-thai-curry-like-pasta-sauc-1850429761)
 - [Lifehacker] [An Over-the-Counter Birth Control Pill Is &lpar;Probably&rpar; Coming Soon](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
 - [Lifehacker] [How to Use Passkeys on Your iPhone or Mac](https://lifehacker.com/how-to-use-passkeys-on-your-iphone-or-mac-1850428402)
