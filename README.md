@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bee Productive with BeeWare: Your Ultimate Web App for Efficiency](https://dev.to/mrexamples/bee-productive-with-beeware-your-ultimate-web-app-for-efficiency-49lc)
+- [Dev.to/JS] [Improve Code Quality with These Tips and Best Practices](https://dev.to/documatic/improve-code-quality-with-these-tips-and-best-practices-2mh2)
+- [Dev.to/JS] [Always experiment first](https://dev.to/merri/always-experiment-first-5854)
+- [Dev.to/JS] [Understanding Pass by Value and Pass by Reference](https://dev.to/samyak112/understanding-pass-by-value-and-pass-by-reference-5e5)
+- [Dev.to/JS] [Clear All pinia stores](https://dev.to/medaminefh/clear-all-pinia-stores-9kd)
 - [Dev.to/JS] [Securing Node.js Applications with the Built-in Crypto Module: A Guide for Developers with code.](https://dev.to/ashsajal/securing-nodejs-applications-with-the-built-in-crypto-module-a-guide-for-developers-with-code-48jo)
 - [Dev.to/JS] [How to get rid of QuickBooks Error code 15227?](https://dev.to/elinawilliam12/how-to-get-rid-of-quickbooks-error-code-15227-5fn0)
 - [Dev.to/JS] [A Multivariate Approach Towards Simplifying Financial Markets With Python](https://dev.to/devfinwiz/a-multivariate-approach-towards-simplifying-financial-markets-with-python-5ghj)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Operators and Expressions | JavaScript](https://dev.to/sksage/javascript-operators-and-expressions-javascript-2n6m)
 - [Dev.to/JS] [open-source React GPT LLM Agent](https://dev.to/eylonmiz/open-source-react-gpt-llm-agent-9da)
 - [Dev.to/JS] [Testing and Debugging in MERN Applications](https://dev.to/alimalim77/testing-and-debugging-in-mern-applications-1695)
-- [Dev.to/JS] [Understanding the Basics of Yarn: A Comprehensive Guide](https://dev.to/nikhilxd/understanding-the-basics-of-yarn-a-comprehensive-guide-370a)
-- [Dev.to/JS] [Medusa &lpar;4/4&rpar;: An In-depth Look at Their Admin](https://dev.to/ntyrberg/medusa-44-an-in-depth-look-at-their-admin-14h1)
-- [Dev.to/JS] [Medusa &lpar;3/4&rpar;: Commerce Modules and Features](https://dev.to/ntyrberg/medusa-34-commerce-modules-and-features-2da2)
-- [Dev.to/JS] [Medusa &lpar;2/4&rpar;: Vision, History, and Product](https://dev.to/ntyrberg/medusa-24-vision-history-and-product-207j)
-- [Dev.to/JS] [Medusa&lpar;1/4&rpar; - The future of e-commerce?](https://dev.to/ntyrberg/medusa14-the-future-of-e-commerce-2fae)
 - [Lifehacker] [Tame the Heat and Treat Your Thai Curry Like Pasta Sauce](https://lifehacker.com/tame-the-heat-and-treat-your-thai-curry-like-pasta-sauc-1850429761)
 - [Lifehacker] [An Over-the-Counter Birth Control Pill Is &lpar;Probably&rpar; Coming Soon](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
 - [Lifehacker] [How to Use Passkeys on Your iPhone or Mac](https://lifehacker.com/how-to-use-passkeys-on-your-iphone-or-mac-1850428402)
