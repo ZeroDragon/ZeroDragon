@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [git diff - Comparing Changes in Git](https://dev.to/refine/git-diff-comparing-changes-in-git-3n5m)
+- [Lifehacker] [This One Ingredient Will Elevate Your Rice Krispies Treats](https://lifehacker.com/this-one-ingredient-will-elevate-your-rice-krispies-tre-1850427025)
+- [Dev.to/JS] [Deno: a new era in JavaScript land](https://dev.to/rosnerdev/deno-a-new-era-in-javascript-land-4okn)
 - [Dev.to/JS] [Introducing the new Vue Query client](https://dev.to/wundergraph/introducing-the-new-vue-query-client-1gnd)
+- [Lifehacker] [21 Truly Terrible Movie Moms to Make You Feel Better &lpar;or Worse&rpar; About Yours](https://lifehacker.com/21-truly-terrible-movie-moms-to-make-you-feel-better-o-1850424947)
 - [Dev.to/JS] [Bee Productive with BeeWare: Your Ultimate Web App for Efficiency](https://dev.to/mrexamples/bee-productive-with-beeware-your-ultimate-web-app-for-efficiency-49lc)
 - [Dev.to/JS] [Improve Code Quality with These Tips and Best Practices](https://dev.to/documatic/improve-code-quality-with-these-tips-and-best-practices-2mh2)
 - [Dev.to/JS] [Always experiment first](https://dev.to/merri/always-experiment-first-5854)
 - [Dev.to/JS] [Understanding Pass by Value and Pass by Reference](https://dev.to/samyak112/understanding-pass-by-value-and-pass-by-reference-5e5)
 - [Dev.to/JS] [Clear All pinia stores](https://dev.to/medaminefh/clear-all-pinia-stores-9kd)
+- [Dev.to/JS] [Next JS Admin Dashboard Template Free](https://dev.to/easetemplates/next-js-admin-dashboard-template-free-2jf1)
 - [Dev.to/JS] [Securing Node.js Applications with the Built-in Crypto Module: A Guide for Developers with code.](https://dev.to/ashsajal/securing-nodejs-applications-with-the-built-in-crypto-module-a-guide-for-developers-with-code-48jo)
 - [Dev.to/JS] [How to get rid of QuickBooks Error code 15227?](https://dev.to/elinawilliam12/how-to-get-rid-of-quickbooks-error-code-15227-5fn0)
 - [Dev.to/JS] [A Multivariate Approach Towards Simplifying Financial Markets With Python](https://dev.to/devfinwiz/a-multivariate-approach-towards-simplifying-financial-markets-with-python-5ghj)
-- [Dev.to/JS] [Mastering Java Coding: Essential Techniques All Programmers Should Know](https://dev.to/javadev/mastering-java-coding-essential-techniques-all-programmers-should-know-1ea6)
-- [Dev.to/JS] [JavaScript Operators and Expressions | JavaScript](https://dev.to/sksage/javascript-operators-and-expressions-javascript-2n6m)
-- [Dev.to/JS] [open-source React GPT LLM Agent](https://dev.to/eylonmiz/open-source-react-gpt-llm-agent-9da)
 - [Lifehacker] [Tame the Heat and Treat Your Thai Curry Like Pasta Sauce](https://lifehacker.com/tame-the-heat-and-treat-your-thai-curry-like-pasta-sauc-1850429761)
 - [Lifehacker] [An Over-the-Counter Birth Control Pill Is &lpar;Probably&rpar; Coming Soon](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
 - [Lifehacker] [How to Use Passkeys on Your iPhone or Mac](https://lifehacker.com/how-to-use-passkeys-on-your-iphone-or-mac-1850428402)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Your Phone&#39;s Background Can Help You Study](https://lifehacker.com/how-your-phones-background-can-help-you-study-1850424491)
 - [Lifehacker] [Dehydrate Some Caramelized Onions and Crumble Them Over Everything](https://lifehacker.com/dehydrate-some-caramelized-onions-and-crumble-them-over-1850424677)
 - [Lifehacker] [Basic Car Maintenance and Repairs You Can &lpar;and Should&rpar; Do Yourself](https://lifehacker.com/basic-car-maintenance-and-repairs-you-can-and-should-1850422201)
-- [Lifehacker] [When You Might Need a French Drain &lpar;and How to Build One Yourself&rpar;](https://lifehacker.com/when-you-might-need-a-french-drain-and-how-to-build-on-1850421942)
-- [Lifehacker] [Update Your PC Right Now to Fix These Actively Exploited Security Vulnerabilities](https://lifehacker.com/update-your-pc-right-now-to-fix-these-actively-exploite-1850423910)
-- [Lifehacker] [How to Trade in a Car That Isn&#39;t Paid Off &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/how-to-trade-in-a-car-that-isnt-paid-off-and-when-you-1850420830)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When You Might Need a French Drain &lpar;and How to Build One Yourself&rpar;](https://lifehacker.com/when-you-might-need-a-french-drain-and-how-to-build-on-1850421942)<!-- TECH-POSTS:END -->
 
 ---
 
