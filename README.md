@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Securing Node.js Applications with the Built-in Crypto Module: A Guide for Developers with code.](https://dev.to/ashsajal/securing-nodejs-applications-with-the-built-in-crypto-module-a-guide-for-developers-with-code-48jo)
+- [Dev.to/JS] [How to get rid of QuickBooks Error code 15227?](https://dev.to/elinawilliam12/how-to-get-rid-of-quickbooks-error-code-15227-5fn0)
+- [Dev.to/JS] [A Multivariate Approach Towards Simplifying Financial Markets With Python](https://dev.to/devfinwiz/a-multivariate-approach-towards-simplifying-financial-markets-with-python-5ghj)
 - [Dev.to/JS] [Mastering Java Coding: Essential Techniques All Programmers Should Know](https://dev.to/javadev/mastering-java-coding-essential-techniques-all-programmers-should-know-1ea6)
 - [Dev.to/JS] [JavaScript Operators and Expressions | JavaScript](https://dev.to/sksage/javascript-operators-and-expressions-javascript-2n6m)
 - [Dev.to/JS] [open-source React GPT LLM Agent](https://dev.to/eylonmiz/open-source-react-gpt-llm-agent-9da)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Medusa &lpar;3/4&rpar;: Commerce Modules and Features](https://dev.to/ntyrberg/medusa-34-commerce-modules-and-features-2da2)
 - [Dev.to/JS] [Medusa &lpar;2/4&rpar;: Vision, History, and Product](https://dev.to/ntyrberg/medusa-24-vision-history-and-product-207j)
 - [Dev.to/JS] [Medusa&lpar;1/4&rpar; - The future of e-commerce?](https://dev.to/ntyrberg/medusa14-the-future-of-e-commerce-2fae)
-- [Dev.to/JS] [Your ultimate destination for all things web development](https://dev.to/murtazajooo/your-ultimate-destination-for-all-things-web-development-158e)
-- [Dev.to/JS] [Building a Simple REST API with NodeJS and Express](https://dev.to/dzihnn/building-a-simple-rest-api-with-nodejs-and-express-1gc6)
-- [Dev.to/JS] [Seek and Destroy Algorithm](https://dev.to/muhmmadawd/seek-and-destroy-algorithm-ehc)
 - [Lifehacker] [Tame the Heat and Treat Your Thai Curry Like Pasta Sauce](https://lifehacker.com/tame-the-heat-and-treat-your-thai-curry-like-pasta-sauc-1850429761)
 - [Lifehacker] [An Over-the-Counter Birth Control Pill Is &lpar;Probably&rpar; Coming Soon](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
 - [Lifehacker] [How to Use Passkeys on Your iPhone or Mac](https://lifehacker.com/how-to-use-passkeys-on-your-iphone-or-mac-1850428402)
