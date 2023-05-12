@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlock the Power of Higher-Order Functions: Make Your JavaScript Code More Flexible and Reusable](https://dev.to/danities316/unlock-the-power-of-higher-order-functions-make-your-javascript-code-more-flexible-and-reusable-1k37)
+- [Dev.to/JS] [Automating EC2 Instance Start/Stop using Serverless Code and CloudWatch Rule](https://dev.to/kerisnarendra/automating-ec2-instance-startstop-using-serverless-code-and-cloudwatch-rule-429p)
+- [Dev.to/JS] [How To Use OpenAI&lpar;chatGPT&rpar; As a Javascript developer](https://dev.to/danities316/how-to-use-openaichatgpt-as-a-javascript-developer-n0)
+- [Dev.to/JS] [5 Code Refactoring Techniques to Improve Your Code](https://dev.to/rahul3002/5-code-refactoring-techniques-to-improve-your-code-19b0)
 - [Dev.to/JS] [Mastering Advanced Cypress.io Test Automation [Part 4/4]: Writing Custom Functions](https://dev.to/ahsanbilal/mastering-advanced-cypressio-test-automation-part-44-writing-custom-functions-5bkp)
 - [Dev.to/JS] [Mastering Advanced Cypress.io Test Automation [Part 3/4]: Promise Resolving](https://dev.to/ahsanbilal/mastering-advanced-cypressio-test-automation-part-34-promise-resolving-4p3b)
 - [Dev.to/JS] [Mastering Advanced Cypress.io Test Automation [Part 2/4]: Network Stubbing](https://dev.to/ahsanbilal/mastering-advanced-cypressio-test-automation-part-24-network-stubbing-4mgg)
@@ -31,13 +35,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Closures: Understanding Private Variables, Callbacks, and Memoization for Efficient Code](https://dev.to/husayn01/javascript-closures-understanding-private-variables-callbacks-and-memoization-for-efficient-code-2ph4)
 - [Dev.to/JS] [The Delightful World of JavaScript Arrow Functions 🏹 - The Beginners Guide To Javascript&lpar;Part 11&rpar;](https://dev.to/camskithedev/the-delightful-world-of-javascript-arrow-functions-the-beginners-guide-to-javascriptpart-11-3e7i)
 - [Dev.to/JS] [Demystifying Array Destructuring: A Beginner&#39;s Perspective](https://dev.to/devlawrence/demystifying-array-destructuring-a-beginners-perspective-f5b)
-- [Dev.to/JS] [What is SaaS-based voice?](https://dev.to/workarise/what-is-saas-based-voice-iin)
 - [Lifehacker] [Tame the Heat and Treat Your Thai Curry Like Pasta Sauce](https://lifehacker.com/tame-the-heat-and-treat-your-thai-curry-like-pasta-sauc-1850429761)
-- [Dev.to/JS] [Rapyd: A Comprehensive Payment Solution for Global Businesses](https://dev.to/rapyd/rapyd-a-comprehensive-payment-solution-for-global-businesses-7hb)
 - [Lifehacker] [An Over-the-Counter Birth Control Pill Is &lpar;Probably&rpar; Coming Soon](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
-- [Dev.to/JS] [Make imports more readable. JS/TS and ESLint solutions.](https://dev.to/dmitryprusakov/make-imports-more-readable-jsts-and-eslint-solutions-2n27)
 - [Lifehacker] [How to Use Passkeys on Your iPhone or Mac](https://lifehacker.com/how-to-use-passkeys-on-your-iphone-or-mac-1850428402)
-- [Dev.to/JS] [How the JavaScript code works behind the scene ?](https://dev.to/lovegupta/how-the-javascript-code-works-behind-the-scene--odg)
 - [Lifehacker] [This App Uses AI to Organize Your iPhone Photos](https://lifehacker.com/this-app-uses-ai-to-organize-your-iphone-photos-1850429061)
 - [Lifehacker] [Why You Should Try Color-Coding Your Clock](https://lifehacker.com/why-you-should-try-color-coding-your-clock-1850428961)
 - [Lifehacker] [How to Take Netflix Screenshots Even Though They Don&#39;t Want You To](https://lifehacker.com/how-to-take-netflix-screenshots-even-though-they-dont-w-1850428571)
