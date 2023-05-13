@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Power of Web Components in Frontend Development with Angular](https://dev.to/vivekdogra02/the-power-of-web-components-in-frontend-development-with-angular-2ccl)
+- [Dev.to/JS] [Angular — The Builder Pattern -Building Better Objects with TypeScript](https://dev.to/vivekdogra02/angular-the-builder-pattern-building-better-objects-with-typescript-1bed)
 - [Dev.to/JS] [Mapping Arrays with JavaScript](https://dev.to/keoshaug/mapping-arrays-with-javascript-1c9h)
 - [Dev.to/JS] [Node Test Runner: Assertion Cheat Sheet](https://dev.to/hi_iam_chris/node-test-runner-assertion-cheat-sheet-98o)
 - [Dev.to/JS] [Enhancing User Experience with Dislike and Undo Features in a Freelancer-Client Matching App](https://dev.to/arashjangali/enhancing-user-experience-with-dislike-and-undo-features-in-a-freelancer-client-matching-app-3oe2)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Revamp Your Web Development with Ruby on Rails Channels: Create Dynamic Real-Time Apps with Ease](https://dev.to/shayanlk/revamp-your-web-development-with-ruby-on-rails-channels-create-dynamic-real-time-apps-with-ease-2kkp)
 - [Dev.to/JS] [Get Images with JWT Authorization Headers for &lt;img /&gt; src](https://dev.to/jfraziz/get-images-with-jwt-authorization-headers-for-src-2dof)
 - [Lifehacker] [Eight Unexpected Ways Adults Play Too Rough With Kids](https://lifehacker.com/eight-unexpected-ways-adults-play-too-rough-with-kids-1850432796)
-- [Dev.to/JS] [How to Code the Recursive Factorial Algorithm in JavaScript and Python](https://dev.to/nielsenjared/how-to-code-the-recursive-factorial-algorithm-ib1)
 - [Lifehacker] [Add Peanut Powder to Your Cooking Toolkit](https://lifehacker.com/add-peanut-powder-to-your-cooking-toolkit-1850432861)
-- [Dev.to/JS] [The Development Of JavaScript Through Time](https://dev.to/odayibasi2/the-development-of-javascript-through-time-8lk)
 - [Lifehacker] [How Soon You Should Update Your ID and Registration After Moving](https://lifehacker.com/how-soon-you-should-update-your-id-and-registration-aft-1850432376)
 - [Lifehacker] [The Least Obnoxious Ways to Keep in Touch With an Old Professor](https://lifehacker.com/the-least-obnoxious-ways-to-keep-in-touch-with-an-old-p-1850432196)
 - [Lifehacker] [Beware of These Scams Targeting New Homeowners](https://lifehacker.com/beware-of-these-scams-targeting-new-homeowners-1850432484)
