@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Journey as a Beginner in Full Stack Development](https://dev.to/binil_tz/my-journey-as-a-beginner-in-full-stack-development-2llm)
+- [Dev.to/JS] [An Overview of Node.js Build Tools and Task Runners](https://dev.to/folasayosamuel/an-overview-of-nodejs-build-tools-and-task-runners-2ghm)
+- [Dev.to/JS] [Mastering Memory: The Art of Memory Management and Garbage Collection in Go](https://dev.to/doziestar/mastering-memory-the-art-of-memory-management-and-garbage-collection-in-go-5292)
 - [Dev.to/JS] [ASP.NET Core/Razor pages working with Checkboxes](https://dev.to/karenpayneoregon/aspnet-corerazor-pages-working-with-checkboxes-3ck4)
 - [Dev.to/JS] [How I Sold My Project for $30!!](https://dev.to/merudra754/how-i-sold-my-project-for-30-9l0)
 - [Dev.to/JS] [📡 Type Casting in JavaScript](https://dev.to/catherineisonline/type-casting-in-javascript-10la)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rich Harris is NOT Getting Rid of TS Support in Svelte](https://dev.to/jdgamble555/rich-harris-is-not-getting-rid-of-ts-support-in-svelte-pp6)
 - [Dev.to/JS] [HTML CSS 基礎 Part 05 -- 表に font-awesome のアイコンを組み込む](https://dev.to/kaede_io/html-css-ji-chu-part-05-biao-ni-font-awesome-noaikonwozu-miip-mu-4gn7)
 - [Dev.to/JS] [group by month and sum values for each month explained in plain english and done in plain javascript with example](https://dev.to/rickdelpo1/group-by-month-and-sum-values-for-each-month-explained-in-plain-english-and-done-in-plain-javascript-with-example-4o9k)
-- [Dev.to/JS] [Best Practices for Writing Efficient JavaScript Code](https://dev.to/codewithshahmeer/best-practices-for-writing-efficient-javascript-code-160p)
 - [Lifehacker] [Use Baking Soda to Get Rid of Moss Growing on Your Sidewalk and Driveway](https://lifehacker.com/use-baking-soda-to-get-rid-of-moss-growing-on-your-side-1850426990)
-- [Dev.to/JS] [Reference Vs Value in JavaScript?](https://dev.to/billalsiddiqi/reference-vs-value-in-javascript-2dnf)
-- [Dev.to/JS] [Code Smell 212 - Elvis Operator](https://dev.to/mcsee/code-smell-212-elvis-operator-4pap)
 - [Lifehacker] [How Library Book Requests Can Keep You From Impulse Shopping](https://lifehacker.com/how-library-book-requests-can-keep-you-from-impulse-sho-1850427008)
 - [Lifehacker] [It&#39;s Safe to Scan QR Codes &lpar;If You&#39;re Careful&rpar;](https://lifehacker.com/its-safe-to-scan-qr-codes-if-youre-careful-1850432586)
 - [Lifehacker] [If Mosquitoes Love You, Maybe Switch Soaps](https://lifehacker.com/if-mosquitoes-love-you-maybe-switch-soaps-1850433477)
