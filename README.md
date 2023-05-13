@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React js drag and drop todo list](https://dev.to/tasfiaislam/react-js-drag-and-drop-todo-list-51p1)
 - [Dev.to/JS] [What is Redis and How to Use it with Nest.JS](https://dev.to/mohammadfaisal/what-is-redis-and-how-to-use-it-with-nestjs-4b5l)
 - [Lifehacker] [Never Put These Things Down Any Drain in Your Home](https://lifehacker.com/never-put-these-things-down-any-drain-in-your-home-1850426969)
 - [Dev.to/JS] [Rich Harris is NOT Getting Rid of TS Support in Svelte](https://dev.to/jdgamble555/rich-harris-is-not-getting-rid-of-ts-support-in-svelte-pp6)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build Better Apps, Become a Better Developer](https://dev.to/akmandev/build-better-apps-become-a-better-developer-3p9b)
 - [Dev.to/JS] [Working with Dates and Times in JavaScript](https://dev.to/ghloriey/working-with-dates-and-times-in-javascript-35md)
 - [Dev.to/JS] [What motivated me to start working on a secure container?](https://dev.to/alexpgmr/what-motivated-me-to-start-working-on-a-secure-container-3no4)
-- [Dev.to/JS] [Mobile-to-Desktop Menu in 2 Lines of CSS](https://dev.to/madsstoumann/mobile-to-desktop-menu-in-2-lines-of-css-4ikn)
 - [Lifehacker] [It&#39;s Safe to Scan QR Codes &lpar;If You&#39;re Careful&rpar;](https://lifehacker.com/its-safe-to-scan-qr-codes-if-youre-careful-1850432586)
 - [Lifehacker] [If Mosquitoes Love You, Maybe Switch Soaps](https://lifehacker.com/if-mosquitoes-love-you-maybe-switch-soaps-1850433477)
 - [Lifehacker] [You Should Buffalo Your Popcorn](https://lifehacker.com/you-should-buffalo-your-popcorn-1850433286)
