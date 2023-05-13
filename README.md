@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Boost your function&#39;s speed with memoization in JavaScript](https://dev.to/danities316/boost-your-functions-speed-with-memoization-in-javascript-4o19)
 - [Dev.to/JS] [The Power of Web Components in Frontend Development with Angular](https://dev.to/vivekdogra02/the-power-of-web-components-in-frontend-development-with-angular-2ccl)
 - [Dev.to/JS] [Angular — The Builder Pattern -Building Better Objects with TypeScript](https://dev.to/vivekdogra02/angular-the-builder-pattern-building-better-objects-with-typescript-1bed)
 - [Dev.to/JS] [Mapping Arrays with JavaScript](https://dev.to/keoshaug/mapping-arrays-with-javascript-1c9h)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Orgeat Will Elevate Your At-Home Tiki Drinks](https://lifehacker.com/this-orgeat-will-elevate-your-at-home-tiki-drinks-1850358174)
 - [Lifehacker] [Five Questions You Should Ask Before Buying a House &#39;As Is&#39;](https://lifehacker.com/five-questions-you-should-ask-before-buying-a-house-as-1850432696)
 - [Dev.to/JS] [Revamp Your Web Development with Ruby on Rails Channels: Create Dynamic Real-Time Apps with Ease](https://dev.to/shayanlk/revamp-your-web-development-with-ruby-on-rails-channels-create-dynamic-real-time-apps-with-ease-2kkp)
-- [Dev.to/JS] [Get Images with JWT Authorization Headers for &lt;img /&gt; src](https://dev.to/jfraziz/get-images-with-jwt-authorization-headers-for-src-2dof)
 - [Lifehacker] [Eight Unexpected Ways Adults Play Too Rough With Kids](https://lifehacker.com/eight-unexpected-ways-adults-play-too-rough-with-kids-1850432796)
 - [Lifehacker] [Add Peanut Powder to Your Cooking Toolkit](https://lifehacker.com/add-peanut-powder-to-your-cooking-toolkit-1850432861)
 - [Lifehacker] [How Soon You Should Update Your ID and Registration After Moving](https://lifehacker.com/how-soon-you-should-update-your-id-and-registration-aft-1850432376)
