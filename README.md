@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I Sold My Project for $30!!](https://dev.to/merudra754/how-i-sold-my-project-for-30-9l0)
+- [Dev.to/JS] [📡 Type Casting in JavaScript](https://dev.to/catherineisonline/type-casting-in-javascript-10la)
+- [Dev.to/JS] [Trabalhando com autenticação e autorização em Node.js: JWT e Passport.js](https://dev.to/jhonyaraujooficial/trabalhando-com-autenticacao-e-autorizacao-em-nodejs-jwt-e-passportjs-19ho)
 - [Dev.to/JS] [React js drag and drop todo list](https://dev.to/tasfiaislam/react-js-drag-and-drop-todo-list-51p1)
 - [Dev.to/JS] [What is Redis and How to Use it with Nest.JS](https://dev.to/mohammadfaisal/what-is-redis-and-how-to-use-it-with-nestjs-4b5l)
 - [Lifehacker] [Never Put These Things Down Any Drain in Your Home](https://lifehacker.com/never-put-these-things-down-any-drain-in-your-home-1850426969)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code Smell 212 - Elvis Operator](https://dev.to/mcsee/code-smell-212-elvis-operator-4pap)
 - [Lifehacker] [How Library Book Requests Can Keep You From Impulse Shopping](https://lifehacker.com/how-library-book-requests-can-keep-you-from-impulse-sho-1850427008)
 - [Dev.to/JS] [Animated Portfolio Website using HTML CSS and Javascript | STEP BY STEP](https://dev.to/hojjatbandani/animated-portfolio-website-using-html-css-and-javascript-41i3)
-- [Dev.to/JS] [Build Better Apps, Become a Better Developer](https://dev.to/akmandev/build-better-apps-become-a-better-developer-3p9b)
-- [Dev.to/JS] [Working with Dates and Times in JavaScript](https://dev.to/ghloriey/working-with-dates-and-times-in-javascript-35md)
-- [Dev.to/JS] [What motivated me to start working on a secure container?](https://dev.to/alexpgmr/what-motivated-me-to-start-working-on-a-secure-container-3no4)
 - [Lifehacker] [It&#39;s Safe to Scan QR Codes &lpar;If You&#39;re Careful&rpar;](https://lifehacker.com/its-safe-to-scan-qr-codes-if-youre-careful-1850432586)
 - [Lifehacker] [If Mosquitoes Love You, Maybe Switch Soaps](https://lifehacker.com/if-mosquitoes-love-you-maybe-switch-soaps-1850433477)
 - [Lifehacker] [You Should Buffalo Your Popcorn](https://lifehacker.com/you-should-buffalo-your-popcorn-1850433286)
