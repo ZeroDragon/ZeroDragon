@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to be a better developer](https://dev.to/kalashin1/how-to-be-a-better-developer-1lal)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;13-05-2023&rpar; - Optimism in a Constantly Deflationary World](https://dev.to/mjgs/this-weeks-newsletter-is-out-13-05-2023-optimism-in-a-constantly-deflationary-world-59jg)
 - [Dev.to/JS] [Sending messages through WhatsApp cloud API using Javascript](https://dev.to/saikrishnatbijil/sending-messages-through-whatsapp-cloud-api-using-javascript-4mc9)
 - [Dev.to/JS] [Diagram editor dgrm.net / Announcement / Header, bold, forward / backward](https://dev.to/alexboyko/diagram-editor-dgrmnet-announcement-header-bold-forward-backward-k2b)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Power of Web Components in Frontend Development with Angular](https://dev.to/vivekdogra02/the-power-of-web-components-in-frontend-development-with-angular-2ccl)
 - [Dev.to/JS] [Angular — The Builder Pattern -Building Better Objects with TypeScript](https://dev.to/vivekdogra02/angular-the-builder-pattern-building-better-objects-with-typescript-1bed)
 - [Dev.to/JS] [Mapping Arrays with JavaScript](https://dev.to/keoshaug/mapping-arrays-with-javascript-1c9h)
-- [Dev.to/JS] [Node Test Runner: Assertion Cheat Sheet](https://dev.to/hi_iam_chris/node-test-runner-assertion-cheat-sheet-98o)
 - [Lifehacker] [It&#39;s Safe to Scan QR Codes &lpar;If You&#39;re Careful&rpar;](https://lifehacker.com/its-safe-to-scan-qr-codes-if-youre-careful-1850432586)
 - [Lifehacker] [If Mosquitoes Love You, Maybe Switch Soaps](https://lifehacker.com/if-mosquitoes-love-you-maybe-switch-soaps-1850433477)
 - [Lifehacker] [You Should Buffalo Your Popcorn](https://lifehacker.com/you-should-buffalo-your-popcorn-1850433286)
