@@ -23,12 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use Baking Soda to Get Rid of Moss Growing on Your Sidewalk and Driveway](https://lifehacker.com/use-baking-soda-to-get-rid-of-moss-growing-on-your-side-1850426990)
 - [Dev.to/JS] [Reference Vs Value in JavaScript?](https://dev.to/billalsiddiqi/reference-vs-value-in-javascript-2dnf)
 - [Dev.to/JS] [Code Smell 212 - Elvis Operator](https://dev.to/mcsee/code-smell-212-elvis-operator-4pap)
 - [Lifehacker] [How Library Book Requests Can Keep You From Impulse Shopping](https://lifehacker.com/how-library-book-requests-can-keep-you-from-impulse-sho-1850427008)
 - [Dev.to/JS] [Animated Portfolio Website using HTML CSS and Javascript | STEP BY STEP](https://dev.to/hojjatbandani/animated-portfolio-website-using-html-css-and-javascript-41i3)
-- [Dev.to/JS] [Introduction to TypeScript: Adding Types to JavaScript](https://dev.to/limaleandro1999/introduction-to-typescript-adding-types-to-javascript-821)
-- [Dev.to/JS] [Best Websites For Animated Icons😍](https://dev.to/arafat4693/best-websites-for-animated-icons-2m5e)
 - [Dev.to/JS] [Build Better Apps, Become a Better Developer](https://dev.to/akmandev/build-better-apps-become-a-better-developer-3p9b)
 - [Dev.to/JS] [Working with Dates and Times in JavaScript](https://dev.to/ghloriey/working-with-dates-and-times-in-javascript-35md)
 - [Dev.to/JS] [What motivated me to start working on a secure container?](https://dev.to/alexpgmr/what-motivated-me-to-start-working-on-a-secure-container-3no4)
@@ -36,6 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I Created A Web App For Twitter That Went Viral 🔥](https://dev.to/rammcodes/i-created-a-web-app-for-twitter-that-went-viral-4i1a)
 - [Dev.to/JS] [How to be a better developer](https://dev.to/kalashin1/how-to-be-a-better-developer-1lal)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;13-05-2023&rpar; - Optimism in a Constantly Deflationary World](https://dev.to/mjgs/this-weeks-newsletter-is-out-13-05-2023-optimism-in-a-constantly-deflationary-world-59jg)
+- [Dev.to/JS] [Sending messages through WhatsApp cloud API using Javascript](https://dev.to/saikrishnatbijil/sending-messages-through-whatsapp-cloud-api-using-javascript-4mc9)
+- [Dev.to/JS] [Diagram editor dgrm.net / Announcement / Header, bold, forward / backward](https://dev.to/alexboyko/diagram-editor-dgrmnet-announcement-header-bold-forward-backward-k2b)
 - [Lifehacker] [It&#39;s Safe to Scan QR Codes &lpar;If You&#39;re Careful&rpar;](https://lifehacker.com/its-safe-to-scan-qr-codes-if-youre-careful-1850432586)
 - [Lifehacker] [If Mosquitoes Love You, Maybe Switch Soaps](https://lifehacker.com/if-mosquitoes-love-you-maybe-switch-soaps-1850433477)
 - [Lifehacker] [You Should Buffalo Your Popcorn](https://lifehacker.com/you-should-buffalo-your-popcorn-1850433286)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Try Color-Coding Your Clock](https://lifehacker.com/why-you-should-try-color-coding-your-clock-1850428961)
 - [Lifehacker] [How to Take Netflix Screenshots Even Though They Don&#39;t Want You To](https://lifehacker.com/how-to-take-netflix-screenshots-even-though-they-dont-w-1850428571)
 - [Lifehacker] [Dirty Martini Fried Chicken Is Giving Crunch](https://lifehacker.com/dirty-martini-fried-chicken-is-giving-crunch-1850426230)
-- [Lifehacker] [Peloton Is Recalling Millions of Bikes](https://lifehacker.com/peloton-is-recalling-millions-of-bikes-1850428672)
-- [Lifehacker] [You Can Literally Make It Rain on Your Mac&#39;s Desktop](https://lifehacker.com/you-can-literally-make-it-rain-on-your-macs-desktop-1850428455)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Peloton Is Recalling Millions of Bikes](https://lifehacker.com/peloton-is-recalling-millions-of-bikes-1850428672)<!-- TECH-POSTS:END -->
 
 ---
 
