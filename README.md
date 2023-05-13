@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build Better Apps, Become a Better Developer](https://dev.to/akmandev/build-better-apps-become-a-better-developer-3p9b)
 - [Dev.to/JS] [Working with Dates and Times in JavaScript](https://dev.to/ghloriey/working-with-dates-and-times-in-javascript-35md)
 - [Dev.to/JS] [What motivated me to start working on a secure container?](https://dev.to/alexpgmr/what-motivated-me-to-start-working-on-a-secure-container-3no4)
 - [Dev.to/JS] [I Created A Web App For Twitter That Went Viral 🔥](https://dev.to/rammcodes/i-created-a-web-app-for-twitter-that-went-viral-4i1a)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create A Weather App](https://dev.to/atenliao/create-a-weather-app-377p)
 - [Dev.to/JS] [Confused about Virtual DOM &lpar;ReactJS&rpar;](https://dev.to/tilakkhatri/confused-about-virtual-dom-reactjs-1me7)
 - [Dev.to/JS] [ดูหนังเร็ว...แรง ทะลุนรก 10 - 2023 &lpar;Fast X&rpar; เต็มเรื่ [HD] พากย์ไทย M-THAI](https://dev.to/fastxtfullhaidub/duuhnangerwaerng-thalunrk-10-2023-fast-x-etmeruue-hd-phaakyaithy-m-thai-9cc)
-- [Dev.to/JS] [Boost your function&#39;s speed with memoization in JavaScript](https://dev.to/danities316/boost-your-functions-speed-with-memoization-in-javascript-4o19)
 - [Lifehacker] [It&#39;s Safe to Scan QR Codes &lpar;If You&#39;re Careful&rpar;](https://lifehacker.com/its-safe-to-scan-qr-codes-if-youre-careful-1850432586)
 - [Lifehacker] [If Mosquitoes Love You, Maybe Switch Soaps](https://lifehacker.com/if-mosquitoes-love-you-maybe-switch-soaps-1850433477)
 - [Lifehacker] [You Should Buffalo Your Popcorn](https://lifehacker.com/you-should-buffalo-your-popcorn-1850433286)
