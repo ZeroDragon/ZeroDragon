@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HTML CSS 基礎 Part 05 -- 表に font-awesome のアイコンを組み込む](https://dev.to/kaede_io/html-css-ji-chu-part-05-biao-ni-font-awesome-noaikonwozu-miip-mu-4gn7)
+- [Dev.to/JS] [group by month and sum values for each month explained in plain english and done in plain javascript with example](https://dev.to/rickdelpo1/group-by-month-and-sum-values-for-each-month-explained-in-plain-english-and-done-in-plain-javascript-with-example-4o9k)
+- [Dev.to/JS] [Best Practices for Writing Efficient JavaScript Code](https://dev.to/codewithshahmeer/best-practices-for-writing-efficient-javascript-code-160p)
 - [Lifehacker] [Use Baking Soda to Get Rid of Moss Growing on Your Sidewalk and Driveway](https://lifehacker.com/use-baking-soda-to-get-rid-of-moss-growing-on-your-side-1850426990)
 - [Dev.to/JS] [Reference Vs Value in JavaScript?](https://dev.to/billalsiddiqi/reference-vs-value-in-javascript-2dnf)
 - [Dev.to/JS] [Code Smell 212 - Elvis Operator](https://dev.to/mcsee/code-smell-212-elvis-operator-4pap)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mobile-to-Desktop Menu in 2 Lines of CSS](https://dev.to/madsstoumann/mobile-to-desktop-menu-in-2-lines-of-css-4ikn)
 - [Dev.to/JS] [I Created A Web App For Twitter That Went Viral 🔥](https://dev.to/rammcodes/i-created-a-web-app-for-twitter-that-went-viral-4i1a)
 - [Dev.to/JS] [How to be a better developer](https://dev.to/kalashin1/how-to-be-a-better-developer-1lal)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;13-05-2023&rpar; - Optimism in a Constantly Deflationary World](https://dev.to/mjgs/this-weeks-newsletter-is-out-13-05-2023-optimism-in-a-constantly-deflationary-world-59jg)
-- [Dev.to/JS] [Sending messages through WhatsApp cloud API using Javascript](https://dev.to/saikrishnatbijil/sending-messages-through-whatsapp-cloud-api-using-javascript-4mc9)
-- [Dev.to/JS] [Diagram editor dgrm.net / Announcement / Header, bold, forward / backward](https://dev.to/alexboyko/diagram-editor-dgrmnet-announcement-header-bold-forward-backward-k2b)
 - [Lifehacker] [It&#39;s Safe to Scan QR Codes &lpar;If You&#39;re Careful&rpar;](https://lifehacker.com/its-safe-to-scan-qr-codes-if-youre-careful-1850432586)
 - [Lifehacker] [If Mosquitoes Love You, Maybe Switch Soaps](https://lifehacker.com/if-mosquitoes-love-you-maybe-switch-soaps-1850433477)
 - [Lifehacker] [You Should Buffalo Your Popcorn](https://lifehacker.com/you-should-buffalo-your-popcorn-1850433286)
