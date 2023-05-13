@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node Test Runner: Assertion Cheat Sheet](https://dev.to/hi_iam_chris/node-test-runner-assertion-cheat-sheet-98o)
 - [Dev.to/JS] [Enhancing User Experience with Dislike and Undo Features in a Freelancer-Client Matching App](https://dev.to/arashjangali/enhancing-user-experience-with-dislike-and-undo-features-in-a-freelancer-client-matching-app-3oe2)
 - [Dev.to/JS] [What is a form?](https://dev.to/tacific/what-is-a-form-4dgn)
 - [Dev.to/JS] [Vibe Check Alpha 0.1 Release Notes](https://dev.to/justinfisher/vibe-check-alpha-01-release-notes-17c3)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Soon You Should Update Your ID and Registration After Moving](https://lifehacker.com/how-soon-you-should-update-your-id-and-registration-aft-1850432376)
 - [Dev.to/JS] [How to Take Advantage of the GitHub Student Developer Pack](https://dev.to/samuelodan/how-to-take-advantage-of-the-github-student-developer-pack-1d2f)
 - [Lifehacker] [The Least Obnoxious Ways to Keep in Touch With an Old Professor](https://lifehacker.com/the-least-obnoxious-ways-to-keep-in-touch-with-an-old-p-1850432196)
-- [Dev.to/JS] [Time Track Chrome Extension](https://dev.to/alisinayousofi/time-track-chrome-extension-4ngn)
 - [Lifehacker] [Beware of These Scams Targeting New Homeowners](https://lifehacker.com/beware-of-these-scams-targeting-new-homeowners-1850432484)
 - [Lifehacker] [You Can Finally Edit Your WhatsApp Messages](https://lifehacker.com/you-can-finally-edit-your-whatsapp-messages-1850432192)
 - [Lifehacker] [How the ‘Primacy Effect’ Can Help You Remember Information](https://lifehacker.com/how-the-primacy-effect-can-help-you-remember-informat-1850432109)
