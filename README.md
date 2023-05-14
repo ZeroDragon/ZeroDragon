@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dynamically add CSS rules](https://dev.to/efpage/dynamically-add-css-rules-5350)
+- [Dev.to/JS] [Handling Image Loading with JavaScript Promises](https://dev.to/daca-github/handling-image-loading-with-javascript-promises-2l9j)
+- [Dev.to/JS] [Context in JavaScript: What is .this?](https://dev.to/brythewiseguy/context-in-javascript-what-is-this-po3)
+- [Dev.to/JS] [Asynchronous Javascript](https://dev.to/jmyli562/asynchronous-javascript-2j0j)
 - [Dev.to/JS] [Web Scrapper using NodeJS, Express, Cheerio and Axios](https://dev.to/piyushkdas0611/web-scrapper-using-nodejs-express-cheerio-and-axios-32n2)
 - [Dev.to/JS] [JavaScript Scope](https://dev.to/pawankashap/javascript-scope-122d)
 - [Dev.to/JS] [Making Four-In-A-Row - Part 5: Reorganisation](https://dev.to/colinkiama/making-four-in-a-row-part-5-reorganisation-2ea9)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode - Edit Distance](https://dev.to/_alkesh26/leetcode-edit-distance-313a)
 - [Dev.to/JS] [Understanding Const Variable in Javascript](https://dev.to/samyak112/understanding-const-variable-in-javascript-5a3m)
 - [Lifehacker] [How to Tell If You Have Lead Pipes](https://lifehacker.com/how-to-tell-if-you-have-lead-pipes-1850426827)
-- [Dev.to/JS] [➡️👷💪 Linear Class Builder](https://dev.to/reggi/linear-class-builder-1j5m)
-- [Dev.to/JS] [What is Atomic State Management - Create One Yourself](https://dev.to/mohdahmad1/atomic-state-management-in-react-1nbc)
-- [Dev.to/JS] [Project Iconic-Desserts](https://dev.to/renardo1985/project-iconic-desserts-7dg)
-- [Dev.to/JS] [Entendendo Classes, Funções e Métodos no JavaScript: Um Guia Simples para Iniciantes](https://dev.to/pripoliveira50/entendendo-classes-funcoes-e-metodos-no-javascript-um-guia-simples-para-iniciantes-393o)
 - [Lifehacker] [A &#39;National Housing Market&#39; Doesn&#39;t Exist &lpar;and Why That Matters&rpar;](https://lifehacker.com/a-national-housing-market-doesnt-exist-and-why-that-ma-1850426808)
 - [Lifehacker] [What Your Weeds Are Telling You About Your Soil](https://lifehacker.com/what-your-weeds-are-telling-you-about-your-soil-1850426794)
 - [Lifehacker] [Never Put These Things Down Any Drain in Your Home](https://lifehacker.com/never-put-these-things-down-any-drain-in-your-home-1850426969)
