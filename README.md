@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 JavaScript One Liners to save 1000+ hours](https://dev.to/xplodivity/10-javascript-one-liners-to-save-1000-hours-135n)
 - [Dev.to/JS] [Motivational Quote Generator: An App to Help You Stay Inspired](https://dev.to/abhixsh/motivational-quote-generator-an-app-to-help-you-stay-inspired-5h2h)
 - [Dev.to/JS] [You&#39;ll never have to deal with outdated TODO comments again](https://dev.to/maxprilutskiy/youll-never-have-to-deal-with-outdated-todo-comments-again-288o)
 - [Dev.to/JS] [React native expo tenor search Component](https://dev.to/rogueloop/react-native-expo-tenor-search-component-1c6g)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [When to Use Nested Functions](https://dev.to/_elergy_/when-to-use-nested-functions-45ad)
 - [Dev.to/JS] [Mastering array iteration](https://dev.to/pedromarungo/mastering-array-iteration-50cl)
 - [Dev.to/JS] [🔑 Key Habits of Successful Developers](https://dev.to/milan960/key-habits-of-successful-developers-3elj)
-- [Dev.to/JS] [Create NestJS API using Typescript, MongoDB, Docker, Docker Compose](https://dev.to/nyomansunima/create-nestjs-api-using-typescript-mongodb-docker-docker-compose-29k9)
 - [Lifehacker] [Never Put These Things Down Any Drain in Your Home](https://lifehacker.com/never-put-these-things-down-any-drain-in-your-home-1850426969)
 - [Lifehacker] [Use Baking Soda to Get Rid of Moss Growing on Your Sidewalk and Driveway](https://lifehacker.com/use-baking-soda-to-get-rid-of-moss-growing-on-your-side-1850426990)
 - [Lifehacker] [How Library Book Requests Can Keep You From Impulse Shopping](https://lifehacker.com/how-library-book-requests-can-keep-you-from-impulse-sho-1850427008)
