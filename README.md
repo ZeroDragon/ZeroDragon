@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [When to Use Nested Functions](https://dev.to/_elergy_/when-to-use-nested-functions-45ad)
+- [Dev.to/JS] [Mastering array iteration](https://dev.to/pedromarungo/mastering-array-iteration-50cl)
+- [Dev.to/JS] [🔑 Key Habits of Successful Developers](https://dev.to/milan960/key-habits-of-successful-developers-3elj)
 - [Dev.to/JS] [Create NestJS API using Typescript, MongoDB, Docker, Docker Compose](https://dev.to/nyomansunima/create-nestjs-api-using-typescript-mongodb-docker-docker-compose-29k9)
 - [Dev.to/JS] [How to build a To-do list app with JavaSript](https://dev.to/envitab/how-to-build-a-to-do-list-app-with-javasript-5335)
 - [Dev.to/JS] [Ensuring Data Consistency in Concurrent API Requests: Introducing the AbortController](https://dev.to/hat52/ensuring-data-consistency-in-concurrent-api-requests-introducing-the-abortcontroller-27bh)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React: Abstract Design Pattern-DRY &amp; Single Shared Responsibility&lpar;Part-1&rpar;](https://dev.to/vivekdogra02/react-abstract-design-pattern-dry-single-shared-responsibilitypart-1-58me)
 - [Dev.to/JS] [[New] Vue 3.3 `defineModel`](https://dev.to/mayank30/new-vue-33-definemodel-3jnc)
 - [Dev.to/JS] [How to render the lists in ReactJs](https://dev.to/rathoremanpreet/how-to-render-the-lists-in-reactjs-2b9e)
-- [Dev.to/JS] [What is Currying in JavaScript and How to Use It](https://dev.to/danities316/what-is-currying-in-javascript-and-how-to-use-it-4111)
-- [Dev.to/JS] [Custom HTML video player](https://dev.to/codewithlaksh/custom-html-video-player-3pjf)
-- [Dev.to/JS] [Build a testimonial page with Appwrite Cloud using Nuxt](https://dev.to/hackmamba/build-a-testimonial-page-with-appwrite-cloud-using-nuxt-306k)
 - [Lifehacker] [Never Put These Things Down Any Drain in Your Home](https://lifehacker.com/never-put-these-things-down-any-drain-in-your-home-1850426969)
 - [Lifehacker] [Use Baking Soda to Get Rid of Moss Growing on Your Sidewalk and Driveway](https://lifehacker.com/use-baking-soda-to-get-rid-of-moss-growing-on-your-side-1850426990)
 - [Lifehacker] [How Library Book Requests Can Keep You From Impulse Shopping](https://lifehacker.com/how-library-book-requests-can-keep-you-from-impulse-sho-1850427008)
