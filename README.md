@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a testimonial page with Appwrite Cloud using Nuxt](https://dev.to/hackmamba/build-a-testimonial-page-with-appwrite-cloud-using-nuxt-306k)
+- [Dev.to/JS] [Progress Update: Advancing Towards the Finish Line](https://dev.to/arashjangali/progress-update-advancing-towards-the-finish-line-2549)
+- [Dev.to/JS] [Digital Clock Design &lpar;Segment Display Design&rpar;](https://dev.to/o-opeyemi/digital-clock-design-segment-display-design-37n8)
 - [Dev.to/JS] [My Journey as a Beginner in Full Stack Development](https://dev.to/binil_tz/my-journey-as-a-beginner-in-full-stack-development-2llm)
 - [Dev.to/JS] [An Overview of Node.js Build Tools and Task Runners](https://dev.to/folasayosamuel/an-overview-of-nodejs-build-tools-and-task-runners-2ghm)
 - [Dev.to/JS] [Mastering Memory: The Art of Memory Management and Garbage Collection in Go](https://dev.to/doziestar/mastering-memory-the-art-of-memory-management-and-garbage-collection-in-go-5292)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React js drag and drop todo list](https://dev.to/tasfiaislam/react-js-drag-and-drop-todo-list-51p1)
 - [Dev.to/JS] [What is Redis and How to Use it with Nest.JS](https://dev.to/mohammadfaisal/what-is-redis-and-how-to-use-it-with-nestjs-4b5l)
 - [Lifehacker] [Never Put These Things Down Any Drain in Your Home](https://lifehacker.com/never-put-these-things-down-any-drain-in-your-home-1850426969)
-- [Dev.to/JS] [Rich Harris is NOT Getting Rid of TS Support in Svelte](https://dev.to/jdgamble555/rich-harris-is-not-getting-rid-of-ts-support-in-svelte-pp6)
-- [Dev.to/JS] [HTML CSS 基礎 Part 05 -- 表に font-awesome のアイコンを組み込む](https://dev.to/kaede_io/html-css-ji-chu-part-05-biao-ni-font-awesome-noaikonwozu-miip-mu-4gn7)
-- [Dev.to/JS] [group by month and sum values for each month explained in plain english and done in plain javascript with example](https://dev.to/rickdelpo1/group-by-month-and-sum-values-for-each-month-explained-in-plain-english-and-done-in-plain-javascript-with-example-4o9k)
 - [Lifehacker] [Use Baking Soda to Get Rid of Moss Growing on Your Sidewalk and Driveway](https://lifehacker.com/use-baking-soda-to-get-rid-of-moss-growing-on-your-side-1850426990)
 - [Lifehacker] [How Library Book Requests Can Keep You From Impulse Shopping](https://lifehacker.com/how-library-book-requests-can-keep-you-from-impulse-sho-1850427008)
 - [Lifehacker] [It&#39;s Safe to Scan QR Codes &lpar;If You&#39;re Careful&rpar;](https://lifehacker.com/its-safe-to-scan-qr-codes-if-youre-careful-1850432586)
