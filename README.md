@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LeetCode - Edit Distance](https://dev.to/_alkesh26/leetcode-edit-distance-313a)
+- [Dev.to/JS] [Understanding Const Variable in Javascript](https://dev.to/samyak112/understanding-const-variable-in-javascript-5a3m)
+- [Lifehacker] [How to Tell If You Have Lead Pipes](https://lifehacker.com/how-to-tell-if-you-have-lead-pipes-1850426827)
 - [Dev.to/JS] [➡️👷💪 Linear Class Builder](https://dev.to/reggi/linear-class-builder-1j5m)
+- [Dev.to/JS] [What is Atomic State Management - Create One Yourself](https://dev.to/mohdahmad1/atomic-state-management-in-react-1nbc)
 - [Dev.to/JS] [Project Iconic-Desserts](https://dev.to/renardo1985/project-iconic-desserts-7dg)
 - [Dev.to/JS] [Entendendo Classes, Funções e Métodos no JavaScript: Um Guia Simples para Iniciantes](https://dev.to/pripoliveira50/entendendo-classes-funcoes-e-metodos-no-javascript-um-guia-simples-para-iniciantes-393o)
 - [Dev.to/JS] [Revamp Your React Skills with These Must-Know Best Practices for Lightning-Fast Rendering!](https://dev.to/saschadev/revamp-your-react-skills-with-these-must-know-best-practices-for-lightning-fast-rendering-3cb2)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A &#39;National Housing Market&#39; Doesn&#39;t Exist &lpar;and Why That Matters&rpar;](https://lifehacker.com/a-national-housing-market-doesnt-exist-and-why-that-ma-1850426808)
 - [Dev.to/JS] [Finishing off my GuestBook](https://dev.to/vulcanwm/finishing-off-my-guestbook-33bp)
 - [Dev.to/JS] [Create PDF Files in Ruby on Rails](https://dev.to/timnans/create-pdf-files-in-ruby-on-rails-3m5o)
-- [Dev.to/JS] [Unleashing the Power of Async&lpar;&rpar; and Await: Revolutionizing Asynchronous JavaScript](https://dev.to/obere4u/unleashing-the-power-of-async-and-await-revolutionizing-asynchronous-javascript-1d8m)
-- [Dev.to/JS] [Conditional Expressions in JavaScript | JavaScript #6](https://dev.to/sksage/conditional-expressions-in-javascript-javascript-7-133g)
-- [Dev.to/JS] [Creating Dynamic Components in Angular](https://dev.to/dimitarstbc/creating-dynamic-components-in-angular-25bb)
 - [Lifehacker] [What Your Weeds Are Telling You About Your Soil](https://lifehacker.com/what-your-weeds-are-telling-you-about-your-soil-1850426794)
 - [Lifehacker] [Never Put These Things Down Any Drain in Your Home](https://lifehacker.com/never-put-these-things-down-any-drain-in-your-home-1850426969)
 - [Lifehacker] [Use Baking Soda to Get Rid of Moss Growing on Your Sidewalk and Driveway](https://lifehacker.com/use-baking-soda-to-get-rid-of-moss-growing-on-your-side-1850426990)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Tame the Heat and Treat Your Thai Curry Like Pasta Sauce](https://lifehacker.com/tame-the-heat-and-treat-your-thai-curry-like-pasta-sauc-1850429761)
 - [Lifehacker] [An Over-the-Counter Birth Control Pill Is &lpar;Probably&rpar; Coming Soon](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
 - [Lifehacker] [How to Use Passkeys on Your iPhone or Mac](https://lifehacker.com/how-to-use-passkeys-on-your-iphone-or-mac-1850428402)
-- [Lifehacker] [This App Uses AI to Organize Your iPhone Photos](https://lifehacker.com/this-app-uses-ai-to-organize-your-iphone-photos-1850429061)
-- [Lifehacker] [Why You Should Try Color-Coding Your Clock](https://lifehacker.com/why-you-should-try-color-coding-your-clock-1850428961)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This App Uses AI to Organize Your iPhone Photos](https://lifehacker.com/this-app-uses-ai-to-organize-your-iphone-photos-1850429061)<!-- TECH-POSTS:END -->
 
 ---
 
