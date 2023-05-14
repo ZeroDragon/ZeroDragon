@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [All types of loop in JavaScript](https://dev.to/syedfaysel/all-types-of-loop-in-javascript-5a9f)
 - [Dev.to/JS] [Hello , i need know if there is any library that makes this kind of calender &lpar;Help!!&rpar;](https://dev.to/ayoubelsvg/hello-i-need-know-if-there-is-any-library-that-makes-this-kind-of-clender-5k2)
 - [Dev.to/JS] [Scope](https://dev.to/ma835/scope-2g0n)
 - [Dev.to/JS] [LeetCode - Edit Distance](https://dev.to/_alkesh26/leetcode-edit-distance-313a)
@@ -34,8 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Entendendo Classes, Funções e Métodos no JavaScript: Um Guia Simples para Iniciantes](https://dev.to/pripoliveira50/entendendo-classes-funcoes-e-metodos-no-javascript-um-guia-simples-para-iniciantes-393o)
 - [Dev.to/JS] [Revamp Your React Skills with These Must-Know Best Practices for Lightning-Fast Rendering!](https://dev.to/saschadev/revamp-your-react-skills-with-these-must-know-best-practices-for-lightning-fast-rendering-3cb2)
 - [Dev.to/JS] [JavaScript Dynamic List: The DOM Manipulation.](https://dev.to/hcoco1/javascript-dynamic-list-the-dom-manipulation-10c5)
-- [Dev.to/JS] [GitHub Issues Management with AI 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb)
-- [Dev.to/JS] [Closures in javascript](https://dev.to/alisinayousofi/closures-in-javascript-1bog)
+- [Dev.to/JS] [AI-Powered GitHub Issue Management 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb)
 - [Lifehacker] [A &#39;National Housing Market&#39; Doesn&#39;t Exist &lpar;and Why That Matters&rpar;](https://lifehacker.com/a-national-housing-market-doesnt-exist-and-why-that-ma-1850426808)
 - [Lifehacker] [What Your Weeds Are Telling You About Your Soil](https://lifehacker.com/what-your-weeds-are-telling-you-about-your-soil-1850426794)
 - [Lifehacker] [Never Put These Things Down Any Drain in Your Home](https://lifehacker.com/never-put-these-things-down-any-drain-in-your-home-1850426969)
