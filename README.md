@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Which plan is Suitable for react ecommerce website?](https://dev.to/deepakydv9315/which-plan-is-suitable-for-react-ecommerce-website-j0n)
+- [Dev.to/JS] [JavaScript Array method .map&lpar;&rpar;](https://dev.to/anandpatel1986/javascript-array-method-map-a32)
 - [Dev.to/JS] [When to Use Nested Functions](https://dev.to/_elergy_/when-to-use-nested-functions-45ad)
 - [Dev.to/JS] [Mastering array iteration](https://dev.to/pedromarungo/mastering-array-iteration-50cl)
 - [Dev.to/JS] [🔑 Key Habits of Successful Developers](https://dev.to/milan960/key-habits-of-successful-developers-3elj)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [7 Secret TypeScript Tricks Pros Use 😎🤫](https://dev.to/ruppysuppy/7-secret-typescript-tricks-pros-use-3ckg)
 - [Dev.to/JS] [React: Abstract Design Pattern-DRY &amp; Single Shared Responsibility&lpar;Part-2&rpar;](https://dev.to/vivekdogra02/react-abstract-design-pattern-dry-single-shared-responsibilitypart-2-l61)
 - [Dev.to/JS] [React: Abstract Design Pattern-DRY &amp; Single Shared Responsibility&lpar;Part-1&rpar;](https://dev.to/vivekdogra02/react-abstract-design-pattern-dry-single-shared-responsibilitypart-1-58me)
-- [Dev.to/JS] [[New] Vue 3.3 `defineModel`](https://dev.to/mayank30/new-vue-33-definemodel-3jnc)
-- [Dev.to/JS] [How to render the lists in ReactJs](https://dev.to/rathoremanpreet/how-to-render-the-lists-in-reactjs-2b9e)
 - [Lifehacker] [Never Put These Things Down Any Drain in Your Home](https://lifehacker.com/never-put-these-things-down-any-drain-in-your-home-1850426969)
 - [Lifehacker] [Use Baking Soda to Get Rid of Moss Growing on Your Sidewalk and Driveway](https://lifehacker.com/use-baking-soda-to-get-rid-of-moss-growing-on-your-side-1850426990)
 - [Lifehacker] [How Library Book Requests Can Keep You From Impulse Shopping](https://lifehacker.com/how-library-book-requests-can-keep-you-from-impulse-sho-1850427008)
