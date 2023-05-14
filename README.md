@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[New] Vue 3.3 `defineModel`](https://dev.to/mayank30/new-vue-33-definemodel-3jnc)
+- [Dev.to/JS] [How to render the lists in ReactJs](https://dev.to/rathoremanpreet/how-to-render-the-lists-in-reactjs-2b9e)
+- [Dev.to/JS] [What is Currying in JavaScript and How to Use It](https://dev.to/danities316/what-is-currying-in-javascript-and-how-to-use-it-4111)
+- [Dev.to/JS] [Custom HTML video player](https://dev.to/codewithlaksh/custom-html-video-player-3pjf)
 - [Dev.to/JS] [Build a testimonial page with Appwrite Cloud using Nuxt](https://dev.to/hackmamba/build-a-testimonial-page-with-appwrite-cloud-using-nuxt-306k)
 - [Dev.to/JS] [Progress Update: Advancing Towards the Finish Line](https://dev.to/arashjangali/progress-update-advancing-towards-the-finish-line-2549)
 - [Dev.to/JS] [Digital Clock Design &lpar;Segment Display Design&rpar;](https://dev.to/o-opeyemi/digital-clock-design-segment-display-design-37n8)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Memory: The Art of Memory Management and Garbage Collection in Go](https://dev.to/doziestar/mastering-memory-the-art-of-memory-management-and-garbage-collection-in-go-5292)
 - [Dev.to/JS] [ASP.NET Core/Razor pages working with Checkboxes](https://dev.to/karenpayneoregon/aspnet-corerazor-pages-working-with-checkboxes-3ck4)
 - [Dev.to/JS] [How I Sold My Project!](https://dev.to/merudra754/how-i-sold-my-project-for-30-9l0)
-- [Dev.to/JS] [📡 Type Casting in JavaScript](https://dev.to/catherineisonline/type-casting-in-javascript-10la)
-- [Dev.to/JS] [Trabalhando com autenticação e autorização em Node.js: JWT e Passport.js](https://dev.to/jhonyaraujooficial/trabalhando-com-autenticacao-e-autorizacao-em-nodejs-jwt-e-passportjs-19ho)
-- [Dev.to/JS] [React js drag and drop todo list](https://dev.to/tasfiaislam/react-js-drag-and-drop-todo-list-51p1)
-- [Dev.to/JS] [What is Redis and How to Use it with Nest.JS](https://dev.to/mohammadfaisal/what-is-redis-and-how-to-use-it-with-nestjs-4b5l)
 - [Lifehacker] [Never Put These Things Down Any Drain in Your Home](https://lifehacker.com/never-put-these-things-down-any-drain-in-your-home-1850426969)
 - [Lifehacker] [Use Baking Soda to Get Rid of Moss Growing on Your Sidewalk and Driveway](https://lifehacker.com/use-baking-soda-to-get-rid-of-moss-growing-on-your-side-1850426990)
 - [Lifehacker] [How Library Book Requests Can Keep You From Impulse Shopping](https://lifehacker.com/how-library-book-requests-can-keep-you-from-impulse-sho-1850427008)
