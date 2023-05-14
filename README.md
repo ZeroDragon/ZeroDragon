@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ensuring Data Consistency in Concurrent API Requests: Introducing the AbortController](https://dev.to/hat52/ensuring-data-consistency-in-concurrent-api-requests-introducing-the-abortcontroller-27bh)
+- [Dev.to/JS] [HTML Function-ality](https://dev.to/aoppman/html-function-ality-4019)
+- [Dev.to/JS] [7 Secret TypeScript Tricks Pros Use 😎🤫](https://dev.to/ruppysuppy/7-secret-typescript-tricks-pros-use-3ckg)
+- [Dev.to/JS] [React: Abstract Design Pattern-DRY &amp; Single Shared Responsibility&lpar;Part-2&rpar;](https://dev.to/vivekdogra02/react-abstract-design-pattern-dry-single-shared-responsibilitypart-2-l61)
+- [Dev.to/JS] [React: Abstract Design Pattern-DRY &amp; Single Shared Responsibility&lpar;Part-1&rpar;](https://dev.to/vivekdogra02/react-abstract-design-pattern-dry-single-shared-responsibilitypart-1-58me)
 - [Dev.to/JS] [[New] Vue 3.3 `defineModel`](https://dev.to/mayank30/new-vue-33-definemodel-3jnc)
 - [Dev.to/JS] [How to render the lists in ReactJs](https://dev.to/rathoremanpreet/how-to-render-the-lists-in-reactjs-2b9e)
 - [Dev.to/JS] [What is Currying in JavaScript and How to Use It](https://dev.to/danities316/what-is-currying-in-javascript-and-how-to-use-it-4111)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a testimonial page with Appwrite Cloud using Nuxt](https://dev.to/hackmamba/build-a-testimonial-page-with-appwrite-cloud-using-nuxt-306k)
 - [Dev.to/JS] [Progress Update: Advancing Towards the Finish Line](https://dev.to/arashjangali/progress-update-advancing-towards-the-finish-line-2549)
 - [Dev.to/JS] [Digital Clock Design &lpar;Segment Display Design&rpar;](https://dev.to/o-opeyemi/digital-clock-design-segment-display-design-37n8)
-- [Dev.to/JS] [My Journey as a Beginner in Full Stack Development](https://dev.to/binil_tz/my-journey-as-a-beginner-in-full-stack-development-2llm)
-- [Dev.to/JS] [An Overview of Node.js Build Tools and Task Runners](https://dev.to/folasayosamuel/an-overview-of-nodejs-build-tools-and-task-runners-2ghm)
-- [Dev.to/JS] [Mastering Memory: The Art of Memory Management and Garbage Collection in Go](https://dev.to/doziestar/mastering-memory-the-art-of-memory-management-and-garbage-collection-in-go-5292)
-- [Dev.to/JS] [ASP.NET Core/Razor pages working with Checkboxes](https://dev.to/karenpayneoregon/aspnet-corerazor-pages-working-with-checkboxes-3ck4)
-- [Dev.to/JS] [How I Sold My Project!](https://dev.to/merudra754/how-i-sold-my-project-for-30-9l0)
 - [Lifehacker] [Never Put These Things Down Any Drain in Your Home](https://lifehacker.com/never-put-these-things-down-any-drain-in-your-home-1850426969)
 - [Lifehacker] [Use Baking Soda to Get Rid of Moss Growing on Your Sidewalk and Driveway](https://lifehacker.com/use-baking-soda-to-get-rid-of-moss-growing-on-your-side-1850426990)
 - [Lifehacker] [How Library Book Requests Can Keep You From Impulse Shopping](https://lifehacker.com/how-library-book-requests-can-keep-you-from-impulse-sho-1850427008)
