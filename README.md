@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Closures in javascript](https://dev.to/alisinayousofi/closures-in-javascript-1bog)
+- [Lifehacker] [A &#39;National Housing Market&#39; Doesn&#39;t Exist &lpar;and Why That Matters&rpar;](https://lifehacker.com/a-national-housing-market-doesnt-exist-and-why-that-ma-1850426808)
+- [Dev.to/JS] [Finishing off my GuestBook](https://dev.to/vulcanwm/finishing-off-my-guestbook-33bp)
+- [Dev.to/JS] [Create PDF Files in Ruby on Rails](https://dev.to/timnans/create-pdf-files-in-ruby-on-rails-3m5o)
+- [Dev.to/JS] [Unleashing the Power of Async&lpar;&rpar; and Await: Revolutionizing Asynchronous JavaScript](https://dev.to/obere4u/unleashing-the-power-of-async-and-await-revolutionizing-asynchronous-javascript-1d8m)
+- [Dev.to/JS] [Conditional Expressions in JavaScript | JavaScript #6](https://dev.to/sksage/conditional-expressions-in-javascript-javascript-7-133g)
 - [Dev.to/JS] [Creating Dynamic Components in Angular](https://dev.to/dimitarstbc/creating-dynamic-components-in-angular-25bb)
 - [Lifehacker] [What Your Weeds Are Telling You About Your Soil](https://lifehacker.com/what-your-weeds-are-telling-you-about-your-soil-1850426794)
 - [Dev.to/JS] [10 JavaScript One Liners to save 1000+ hours](https://dev.to/xplodivity/10-javascript-one-liners-to-save-1000-hours-135n)
@@ -31,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React native expo tenor search Component](https://dev.to/rogueloop/react-native-expo-tenor-search-component-1c6g)
 - [Dev.to/JS] [Spice Up Your NextJS skills the Pro Way](https://dev.to/ashutoshbhadauriya/spice-up-your-nextjs-skills-the-pro-way-16gn)
 - [Dev.to/JS] [React Dropzone: A Thorough Introduction](https://dev.to/fpaghar/react-dropzone-a-thorough-introduction-5ebj)
-- [Dev.to/JS] [Doi bang lai xe Uc sang Viet Nam NHANH UY TIN NHAT](https://dev.to/capdoigplxantin/doi-bang-lai-xe-uc-sang-viet-nam-nhanh-uy-tin-nhat-4fjm)
-- [Dev.to/JS] [Which plan is Suitable for react ecommerce website?](https://dev.to/deepakydv9315/which-plan-is-suitable-for-react-ecommerce-website-j0n)
-- [Dev.to/JS] [JavaScript Array method .map&lpar;&rpar;](https://dev.to/anandpatel1986/javascript-array-method-map-a32)
-- [Dev.to/JS] [When to Use Nested Functions](https://dev.to/_elergy_/when-to-use-nested-functions-45ad)
-- [Dev.to/JS] [Mastering array iteration](https://dev.to/pedromarungo/mastering-array-iteration-50cl)
 - [Lifehacker] [Never Put These Things Down Any Drain in Your Home](https://lifehacker.com/never-put-these-things-down-any-drain-in-your-home-1850426969)
 - [Lifehacker] [Use Baking Soda to Get Rid of Moss Growing on Your Sidewalk and Driveway](https://lifehacker.com/use-baking-soda-to-get-rid-of-moss-growing-on-your-side-1850426990)
 - [Lifehacker] [How Library Book Requests Can Keep You From Impulse Shopping](https://lifehacker.com/how-library-book-requests-can-keep-you-from-impulse-sho-1850427008)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [An Over-the-Counter Birth Control Pill Is &lpar;Probably&rpar; Coming Soon](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
 - [Lifehacker] [How to Use Passkeys on Your iPhone or Mac](https://lifehacker.com/how-to-use-passkeys-on-your-iphone-or-mac-1850428402)
 - [Lifehacker] [This App Uses AI to Organize Your iPhone Photos](https://lifehacker.com/this-app-uses-ai-to-organize-your-iphone-photos-1850429061)
-- [Lifehacker] [Why You Should Try Color-Coding Your Clock](https://lifehacker.com/why-you-should-try-color-coding-your-clock-1850428961)
-- [Lifehacker] [How to Take Netflix Screenshots Even Though They Don&#39;t Want You To](https://lifehacker.com/how-to-take-netflix-screenshots-even-though-they-dont-w-1850428571)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Try Color-Coding Your Clock](https://lifehacker.com/why-you-should-try-color-coding-your-clock-1850428961)<!-- TECH-POSTS:END -->
 
 ---
 
