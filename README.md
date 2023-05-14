@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create NestJS API using Typescript, MongoDB, Docker, Docker Compose](https://dev.to/nyomansunima/create-nestjs-api-using-typescript-mongodb-docker-docker-compose-29k9)
+- [Dev.to/JS] [How to build a To-do list app with JavaSript](https://dev.to/envitab/how-to-build-a-to-do-list-app-with-javasript-5335)
 - [Dev.to/JS] [Ensuring Data Consistency in Concurrent API Requests: Introducing the AbortController](https://dev.to/hat52/ensuring-data-consistency-in-concurrent-api-requests-introducing-the-abortcontroller-27bh)
 - [Dev.to/JS] [HTML Function-ality](https://dev.to/aoppman/html-function-ality-4019)
 - [Dev.to/JS] [7 Secret TypeScript Tricks Pros Use 😎🤫](https://dev.to/ruppysuppy/7-secret-typescript-tricks-pros-use-3ckg)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Currying in JavaScript and How to Use It](https://dev.to/danities316/what-is-currying-in-javascript-and-how-to-use-it-4111)
 - [Dev.to/JS] [Custom HTML video player](https://dev.to/codewithlaksh/custom-html-video-player-3pjf)
 - [Dev.to/JS] [Build a testimonial page with Appwrite Cloud using Nuxt](https://dev.to/hackmamba/build-a-testimonial-page-with-appwrite-cloud-using-nuxt-306k)
-- [Dev.to/JS] [Progress Update: Advancing Towards the Finish Line](https://dev.to/arashjangali/progress-update-advancing-towards-the-finish-line-2549)
-- [Dev.to/JS] [Digital Clock Design &lpar;Segment Display Design&rpar;](https://dev.to/o-opeyemi/digital-clock-design-segment-display-design-37n8)
 - [Lifehacker] [Never Put These Things Down Any Drain in Your Home](https://lifehacker.com/never-put-these-things-down-any-drain-in-your-home-1850426969)
 - [Lifehacker] [Use Baking Soda to Get Rid of Moss Growing on Your Sidewalk and Driveway](https://lifehacker.com/use-baking-soda-to-get-rid-of-moss-growing-on-your-side-1850426990)
 - [Lifehacker] [How Library Book Requests Can Keep You From Impulse Shopping](https://lifehacker.com/how-library-book-requests-can-keep-you-from-impulse-sho-1850427008)
