@@ -30,7 +30,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [An Overview of Node.js Build Tools and Task Runners](https://dev.to/folasayosamuel/an-overview-of-nodejs-build-tools-and-task-runners-2ghm)
 - [Dev.to/JS] [Mastering Memory: The Art of Memory Management and Garbage Collection in Go](https://dev.to/doziestar/mastering-memory-the-art-of-memory-management-and-garbage-collection-in-go-5292)
 - [Dev.to/JS] [ASP.NET Core/Razor pages working with Checkboxes](https://dev.to/karenpayneoregon/aspnet-corerazor-pages-working-with-checkboxes-3ck4)
-- [Dev.to/JS] [How I Sold My Project for $30!!](https://dev.to/merudra754/how-i-sold-my-project-for-30-9l0)
+- [Dev.to/JS] [How I Sold My Project!](https://dev.to/merudra754/how-i-sold-my-project-for-30-9l0)
 - [Dev.to/JS] [📡 Type Casting in JavaScript](https://dev.to/catherineisonline/type-casting-in-javascript-10la)
 - [Dev.to/JS] [Trabalhando com autenticação e autorização em Node.js: JWT e Passport.js](https://dev.to/jhonyaraujooficial/trabalhando-com-autenticacao-e-autorizacao-em-nodejs-jwt-e-passportjs-19ho)
 - [Dev.to/JS] [React js drag and drop todo list](https://dev.to/tasfiaislam/react-js-drag-and-drop-todo-list-51p1)
