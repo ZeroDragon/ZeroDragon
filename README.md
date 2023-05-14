@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Dynamic List: The DOM Manipulation.](https://dev.to/hcoco1/javascript-dynamic-list-the-dom-manipulation-10c5)
+- [Dev.to/JS] [Building an Innovative AI Tool to Revolutionize GitHub Issues Management 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb)
 - [Dev.to/JS] [Closures in javascript](https://dev.to/alisinayousofi/closures-in-javascript-1bog)
 - [Lifehacker] [A &#39;National Housing Market&#39; Doesn&#39;t Exist &lpar;and Why That Matters&rpar;](https://lifehacker.com/a-national-housing-market-doesnt-exist-and-why-that-ma-1850426808)
 - [Dev.to/JS] [Finishing off my GuestBook](https://dev.to/vulcanwm/finishing-off-my-guestbook-33bp)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Motivational Quote Generator: An App to Help You Stay Inspired](https://dev.to/abhixsh/motivational-quote-generator-an-app-to-help-you-stay-inspired-5h2h)
 - [Dev.to/JS] [You&#39;ll never have to deal with outdated TODO comments again](https://dev.to/maxprilutskiy/youll-never-have-to-deal-with-outdated-todo-comments-again-288o)
 - [Dev.to/JS] [React native expo tenor search Component](https://dev.to/rogueloop/react-native-expo-tenor-search-component-1c6g)
-- [Dev.to/JS] [Spice Up Your NextJS skills the Pro Way](https://dev.to/ashutoshbhadauriya/spice-up-your-nextjs-skills-the-pro-way-16gn)
-- [Dev.to/JS] [React Dropzone: A Thorough Introduction](https://dev.to/fpaghar/react-dropzone-a-thorough-introduction-5ebj)
 - [Lifehacker] [Never Put These Things Down Any Drain in Your Home](https://lifehacker.com/never-put-these-things-down-any-drain-in-your-home-1850426969)
 - [Lifehacker] [Use Baking Soda to Get Rid of Moss Growing on Your Sidewalk and Driveway](https://lifehacker.com/use-baking-soda-to-get-rid-of-moss-growing-on-your-side-1850426990)
 - [Lifehacker] [How Library Book Requests Can Keep You From Impulse Shopping](https://lifehacker.com/how-library-book-requests-can-keep-you-from-impulse-sho-1850427008)
