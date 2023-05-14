@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [➡️👷💪 Linear Class Builder](https://dev.to/reggi/linear-class-builder-1j5m)
+- [Dev.to/JS] [Project Iconic-Desserts](https://dev.to/renardo1985/project-iconic-desserts-7dg)
+- [Dev.to/JS] [Entendendo Classes, Funções e Métodos no JavaScript: Um Guia Simples para Iniciantes](https://dev.to/pripoliveira50/entendendo-classes-funcoes-e-metodos-no-javascript-um-guia-simples-para-iniciantes-393o)
+- [Dev.to/JS] [Revamp Your React Skills with These Must-Know Best Practices for Lightning-Fast Rendering!](https://dev.to/saschadev/revamp-your-react-skills-with-these-must-know-best-practices-for-lightning-fast-rendering-3cb2)
 - [Dev.to/JS] [JavaScript Dynamic List: The DOM Manipulation.](https://dev.to/hcoco1/javascript-dynamic-list-the-dom-manipulation-10c5)
 - [Dev.to/JS] [Building an Innovative AI Tool to Revolutionize GitHub Issues Management 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb)
 - [Dev.to/JS] [Closures in javascript](https://dev.to/alisinayousofi/closures-in-javascript-1bog)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Conditional Expressions in JavaScript | JavaScript #6](https://dev.to/sksage/conditional-expressions-in-javascript-javascript-7-133g)
 - [Dev.to/JS] [Creating Dynamic Components in Angular](https://dev.to/dimitarstbc/creating-dynamic-components-in-angular-25bb)
 - [Lifehacker] [What Your Weeds Are Telling You About Your Soil](https://lifehacker.com/what-your-weeds-are-telling-you-about-your-soil-1850426794)
-- [Dev.to/JS] [10 JavaScript One Liners to save 1000+ hours](https://dev.to/xplodivity/10-javascript-one-liners-to-save-1000-hours-135n)
-- [Dev.to/JS] [Motivational Quote Generator: An App to Help You Stay Inspired](https://dev.to/abhixsh/motivational-quote-generator-an-app-to-help-you-stay-inspired-5h2h)
-- [Dev.to/JS] [You&#39;ll never have to deal with outdated TODO comments again](https://dev.to/maxprilutskiy/youll-never-have-to-deal-with-outdated-todo-comments-again-288o)
-- [Dev.to/JS] [React native expo tenor search Component](https://dev.to/rogueloop/react-native-expo-tenor-search-component-1c6g)
 - [Lifehacker] [Never Put These Things Down Any Drain in Your Home](https://lifehacker.com/never-put-these-things-down-any-drain-in-your-home-1850426969)
 - [Lifehacker] [Use Baking Soda to Get Rid of Moss Growing on Your Sidewalk and Driveway](https://lifehacker.com/use-baking-soda-to-get-rid-of-moss-growing-on-your-side-1850426990)
 - [Lifehacker] [How Library Book Requests Can Keep You From Impulse Shopping](https://lifehacker.com/how-library-book-requests-can-keep-you-from-impulse-sho-1850427008)
