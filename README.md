@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Scrapper using NodeJS, Express, Cheerio and Axios](https://dev.to/piyushkdas0611/web-scrapper-using-nodejs-express-cheerio-and-axios-32n2)
+- [Dev.to/JS] [JavaScript Scope](https://dev.to/pawankashap/javascript-scope-122d)
 - [Dev.to/JS] [Making Four-In-A-Row - Part 5: Reorganisation](https://dev.to/colinkiama/making-four-in-a-row-part-5-reorganisation-2ea9)
 - [Dev.to/JS] [All types of loop in JavaScript](https://dev.to/syedfaysel/all-types-of-loop-in-javascript-5a9f)
 - [Dev.to/JS] [Hello , i need know if there is any library that makes this kind of calender &lpar;Help!!&rpar;](https://dev.to/ayoubelsvg/hello-i-need-know-if-there-is-any-library-that-makes-this-kind-of-clender-5k2)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Atomic State Management - Create One Yourself](https://dev.to/mohdahmad1/atomic-state-management-in-react-1nbc)
 - [Dev.to/JS] [Project Iconic-Desserts](https://dev.to/renardo1985/project-iconic-desserts-7dg)
 - [Dev.to/JS] [Entendendo Classes, Funções e Métodos no JavaScript: Um Guia Simples para Iniciantes](https://dev.to/pripoliveira50/entendendo-classes-funcoes-e-metodos-no-javascript-um-guia-simples-para-iniciantes-393o)
-- [Dev.to/JS] [Revamp Your React Skills with These Must-Know Best Practices for Lightning-Fast Rendering!](https://dev.to/saschadev/revamp-your-react-skills-with-these-must-know-best-practices-for-lightning-fast-rendering-3cb2)
-- [Dev.to/JS] [JavaScript Dynamic List: The DOM Manipulation.](https://dev.to/hcoco1/javascript-dynamic-list-the-dom-manipulation-10c5)
 - [Lifehacker] [A &#39;National Housing Market&#39; Doesn&#39;t Exist &lpar;and Why That Matters&rpar;](https://lifehacker.com/a-national-housing-market-doesnt-exist-and-why-that-ma-1850426808)
 - [Lifehacker] [What Your Weeds Are Telling You About Your Soil](https://lifehacker.com/what-your-weeds-are-telling-you-about-your-soil-1850426794)
 - [Lifehacker] [Never Put These Things Down Any Drain in Your Home](https://lifehacker.com/never-put-these-things-down-any-drain-in-your-home-1850426969)
