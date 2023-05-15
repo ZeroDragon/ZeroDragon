@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deploy NFT Smart Contract without Solidity](https://dev.to/laurenmxv/deploy-nft-smart-contract-without-solidity-5do)
+- [Lifehacker] [Influencers Are Bad at Washing Produce](https://lifehacker.com/influencers-are-bad-at-washing-produce-1850438263)
+- [Dev.to/JS] [Part 2: Folder Structure - Building a Solid Foundation](https://dev.to/sathishskdev/part-2-folder-structure-building-a-solid-foundation-omh)
+- [Lifehacker] [&#39;Perfect&#39; Posture Is Overrated](https://lifehacker.com/perfect-posture-is-overrated-1850438670)
 - [Lifehacker] [Why Not Make Savory Pancakes?](https://lifehacker.com/why-not-make-savory-pancakes-1850438466)
 - [Lifehacker] [Ignore This Bad Financial Advice That’s Everywhere Online](https://lifehacker.com/ignore-this-bad-financial-advice-that-s-everywhere-onli-1850433576)
 - [Dev.to/JS] [How to build dynamic web apps by mastering the Document Object Model &lpar;DOM&rpar;.](https://dev.to/efkumah/how-to-build-dynamic-web-apps-by-mastering-the-document-object-model-dom-2mfm)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Use Storybook v7 With Ionic Framework And Angular](https://dev.to/aaronksaunders/how-to-use-storybook-v7-with-ionic-framework-and-angular-1o48)
 - [Dev.to/JS] [Creating Helper Functions for localStorage Operations](https://dev.to/geekreflex/creating-helper-functions-for-localstorage-operations-1pci)
 - [Lifehacker] [You Should Cure an Egg Yolk in Soy Sauce](https://lifehacker.com/you-should-cure-an-egg-yolk-in-soy-sauce-1850349485)
-- [Dev.to/JS] [docker init - create docker related assets](https://dev.to/sujaypillai/docker-init-create-docker-related-assets-1akh)
-- [Dev.to/JS] [Dockerize an Express app and MongoDB](https://dev.to/charlesloder/dockerize-an-express-app-and-mongodb-1olf)
 - [Lifehacker] [Use This Tool to Get Cheaper Hotel Rates, Even After You Book](https://lifehacker.com/use-this-tool-to-get-cheaper-hotel-rates-even-after-yo-1850436690)
 - [Lifehacker] [You Should Turn Video Dates Into Speed Dating](https://lifehacker.com/you-should-turn-video-dates-into-speed-dating-1850355755)
 - [Lifehacker] [You Should Hand-Pollinate These Fruits and Veggies to Grow More](https://lifehacker.com/you-should-hand-pollinate-these-fruits-and-veggies-to-g-1850436492)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Buffalo Your Popcorn](https://lifehacker.com/you-should-buffalo-your-popcorn-1850433286)
 - [Lifehacker] [This Orgeat Will Elevate Your At-Home Tiki Drinks](https://lifehacker.com/this-orgeat-will-elevate-your-at-home-tiki-drinks-1850358174)
 - [Lifehacker] [Five Questions You Should Ask Before Buying a House &#39;As Is&#39;](https://lifehacker.com/five-questions-you-should-ask-before-buying-a-house-as-1850432696)
-- [Lifehacker] [Eight Unexpected Ways Adults Play Too Rough With Kids](https://lifehacker.com/eight-unexpected-ways-adults-play-too-rough-with-kids-1850432796)
-- [Lifehacker] [Add Peanut Powder to Your Cooking Toolkit](https://lifehacker.com/add-peanut-powder-to-your-cooking-toolkit-1850432861)
-- [Lifehacker] [How Soon You Should Update Your ID and Registration After Moving](https://lifehacker.com/how-soon-you-should-update-your-id-and-registration-aft-1850432376)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Eight Unexpected Ways Adults Play Too Rough With Kids](https://lifehacker.com/eight-unexpected-ways-adults-play-too-rough-with-kids-1850432796)<!-- TECH-POSTS:END -->
 
 ---
 
