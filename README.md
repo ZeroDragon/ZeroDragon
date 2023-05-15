@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 104 of #365DaysOfCode: Implementing OAuth 2.0 and Exploring Python](https://dev.to/arashjangali/day-104-of-365daysofcode-implementing-oauth-20-and-exploring-python-1kkf)
 - [Dev.to/JS] [Dynamically add CSS rules](https://dev.to/efpage/dynamically-add-css-rules-5350)
 - [Dev.to/JS] [Handling Image Loading with JavaScript Promises](https://dev.to/daca-github/handling-image-loading-with-javascript-promises-2l9j)
 - [Dev.to/JS] [Context in JavaScript: What is .this?](https://dev.to/brythewiseguy/context-in-javascript-what-is-this-po3)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hello , i need know if there is any library that makes this kind of calender &lpar;Help!!&rpar;](https://dev.to/ayoubelsvg/hello-i-need-know-if-there-is-any-library-that-makes-this-kind-of-clender-5k2)
 - [Dev.to/JS] [Scope](https://dev.to/ma835/scope-2g0n)
 - [Dev.to/JS] [LeetCode - Edit Distance](https://dev.to/_alkesh26/leetcode-edit-distance-313a)
-- [Dev.to/JS] [Understanding Const Variable in Javascript](https://dev.to/samyak112/understanding-const-variable-in-javascript-5a3m)
 - [Lifehacker] [How to Tell If You Have Lead Pipes](https://lifehacker.com/how-to-tell-if-you-have-lead-pipes-1850426827)
 - [Lifehacker] [A &#39;National Housing Market&#39; Doesn&#39;t Exist &lpar;and Why That Matters&rpar;](https://lifehacker.com/a-national-housing-market-doesnt-exist-and-why-that-ma-1850426808)
 - [Lifehacker] [What Your Weeds Are Telling You About Your Soil](https://lifehacker.com/what-your-weeds-are-telling-you-about-your-soil-1850426794)
