@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, May 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-may-2023-4bke)
+- [Dev.to/JS] [Medusa Community Highlights: Strapi Integration, SES Plugin, and More!](https://dev.to/medusajs/medusa-community-highlights-strapi-integration-ses-plugin-and-more-3mim)
+- [Dev.to/JS] [How to fix QuickBooks error QBW32.exe?](https://dev.to/elinawilliam12/how-to-fix-quickbooks-error-qbw32exe-1d9c)
+- [Dev.to/JS] [Replacing Twind with Tailwind in Fresh](https://dev.to/iasqiti/replacing-twind-with-tailwind-in-fresh-1j4d)
+- [Dev.to/JS] [Browser Games With JavaScript](https://dev.to/anradev/browser-games-with-javascript-2enb)
 - [Dev.to/JS] [.js, .cjs and .mjs defference](https://dev.to/nipu/js-cjs-and-mjs-defference-5f21)
 - [Dev.to/JS] [JSON Demystified: A Comprehensive Guide For Beginers](https://dev.to/joepari_codes/json-demystified-a-comprehensive-guide-to-data-interchange-5gfe)
 - [Dev.to/JS] [Understanding Fetch APIs: A Beginner&#39;s Guide](https://dev.to/joepari_codes/understanding-fetch-apis-a-beginners-guide-3h4o)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s build a Google Maps clone with React, Leaflet, and OneSDK](https://dev.to/superface/lets-build-a-google-maps-clone-with-react-leaflet-and-onesdk-16ci)
 - [Dev.to/JS] [Fetch API — Understanding JavaScript API Requests and Responses in the Data Fetching lifecycle](https://dev.to/rodcast/fetch-api-understanding-javascript-api-requests-and-responses-in-the-data-fetching-lifecycle-407k)
 - [Dev.to/JS] [React Props In Action: Building Flexible and Reusable Components...](https://dev.to/kingsley/react-props-in-action-building-flexible-and-reusable-components-4c2l)
-- [Dev.to/JS] [Low Code Platforms Are Doing the Heavy Lifting for Developers: Here&#39;s How!](https://dev.to/gayatrisachdev1/low-code-platforms-are-doing-the-heavy-lifting-for-developers-heres-how-2l88)
-- [Dev.to/JS] [Mastering Functions in TypeScript: A Comprehensive Guide](https://dev.to/cliff123tech/mastering-functions-in-typescript-a-comprehensive-guide-4fmo)
-- [Dev.to/JS] [Ambitious crowdfunding platform with blockchain integration as the main difference.](https://dev.to/saveplanet/ambitious-crowdfunding-platform-with-blockchain-integration-as-the-main-difference-5821)
-- [Dev.to/JS] [Continuous Performance Audits with Lighthouse CI &amp; GitHub Actions](https://dev.to/jacobandrewsky/continuous-performance-audits-with-lighthouse-ci-github-actions-2lik)
-- [Dev.to/JS] [Node.js Intermediate Level Code](https://dev.to/madhusudhan/nodejs-intermediate-level-code-3g9a)
 - [Lifehacker] [How to Tell If You Have Lead Pipes](https://lifehacker.com/how-to-tell-if-you-have-lead-pipes-1850426827)
 - [Lifehacker] [A &#39;National Housing Market&#39; Doesn&#39;t Exist &lpar;and Why That Matters&rpar;](https://lifehacker.com/a-national-housing-market-doesnt-exist-and-why-that-ma-1850426808)
 - [Lifehacker] [What Your Weeds Are Telling You About Your Soil](https://lifehacker.com/what-your-weeds-are-telling-you-about-your-soil-1850426794)
