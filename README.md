@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Part 1: Naming Conventions - The Foundation of Clean Code](https://dev.to/sathishskdev/part-1-naming-conventions-the-foundation-of-clean-code-51ng)
+- [Dev.to/JS] [The Find , Filter and Reduce Methods](https://dev.to/robertomarungo/the-find-filter-and-reduce-methods-3c12)
+- [Dev.to/JS] [This is my first day in dev.to](https://dev.to/001samir100/this-is-my-first-day-in-devto-12f1)
 - [Dev.to/JS] [The Never-Ending Game of Whack-a-Mole: A Hilarious Take on JavaScript Frameworks](https://dev.to/luisrrv/the-never-ending-game-of-whack-a-mole-a-hilarious-take-on-javascript-frameworks-1n67)
 - [Dev.to/JS] [On my way!! my coding journey.](https://dev.to/kelvinacosta/on-my-way-my-coding-journey-1gda)
 - [Dev.to/JS] [Day 104 of #365DaysOfCode: Implementing OAuth 2.0 and Exploring Python](https://dev.to/arashjangali/day-104-of-365daysofcode-implementing-oauth-20-and-exploring-python-1kkf)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Asynchronous Javascript](https://dev.to/jmyli562/asynchronous-javascript-2j0j)
 - [Dev.to/JS] [Web Scrapper using NodeJS, Express, Cheerio and Axios](https://dev.to/piyushkdas0611/web-scrapper-using-nodejs-express-cheerio-and-axios-32n2)
 - [Dev.to/JS] [JavaScript Scope](https://dev.to/pawankashap/javascript-scope-122d)
-- [Dev.to/JS] [Making Four-In-A-Row - Part 5: Reorganisation](https://dev.to/colinkiama/making-four-in-a-row-part-5-reorganisation-2ea9)
-- [Dev.to/JS] [All types of loop in JavaScript](https://dev.to/syedfaysel/all-types-of-loop-in-javascript-5a9f)
-- [Dev.to/JS] [Hello , i need know if there is any library that makes this kind of calender &lpar;Help!!&rpar;](https://dev.to/ayoubelsvg/hello-i-need-know-if-there-is-any-library-that-makes-this-kind-of-clender-5k2)
 - [Lifehacker] [How to Tell If You Have Lead Pipes](https://lifehacker.com/how-to-tell-if-you-have-lead-pipes-1850426827)
 - [Lifehacker] [A &#39;National Housing Market&#39; Doesn&#39;t Exist &lpar;and Why That Matters&rpar;](https://lifehacker.com/a-national-housing-market-doesnt-exist-and-why-that-ma-1850426808)
 - [Lifehacker] [What Your Weeds Are Telling You About Your Soil](https://lifehacker.com/what-your-weeds-are-telling-you-about-your-soil-1850426794)
