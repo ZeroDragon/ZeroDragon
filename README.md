@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Cache in Node.js Application](https://dev.to/satel/how-to-cache-in-nodejs-application-3j27)
+- [Dev.to/JS] [5 Dicas que te ajudam a nomear variáveis em JavaScript](https://dev.to/maurilosantos/5-dicas-que-te-ajudam-a-nomear-variaveis-em-javascript-28dp)
 - [Lifehacker] [You Can Finally Fix Your Own Damn Pixel](https://lifehacker.com/you-can-finally-fix-your-own-damn-pixel-1850438646)
 - [Dev.to/JS] [Deploy NFT Smart Contract without Solidity](https://dev.to/laurenmxv/deploy-nft-smart-contract-without-solidity-5do)
 - [Lifehacker] [Influencers Are Bad at Washing Produce](https://lifehacker.com/influencers-are-bad-at-washing-produce-1850438263)
@@ -42,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Project: Library - [Completed]](https://dev.to/resotap/project-library-completed-5dbk)
 - [Lifehacker] [How to Disarm a Love-Bomber](https://lifehacker.com/how-to-disarm-a-love-bomber-1850355747)
 - [Dev.to/JS] [Array indexOf&lpar;&rpar; method made simple for Data Analytics in charts and graphs..featuring Grouping, Summing and Rendering](https://dev.to/rickdelpo1/array-indexof-method-made-simple-for-data-analytics-in-charts-and-graphsfeaturing-grouping-summing-and-rendering-17n8)
-- [Dev.to/JS] [How To Use Storybook v7 With Ionic Framework And Angular](https://dev.to/aaronksaunders/how-to-use-storybook-v7-with-ionic-framework-and-angular-1o48)
-- [Dev.to/JS] [Creating Helper Functions for localStorage Operations](https://dev.to/geekreflex/creating-helper-functions-for-localstorage-operations-1pci)
 - [Lifehacker] [You Should Cure an Egg Yolk in Soy Sauce](https://lifehacker.com/you-should-cure-an-egg-yolk-in-soy-sauce-1850349485)
 - [Lifehacker] [Use This Tool to Get Cheaper Hotel Rates, Even After You Book](https://lifehacker.com/use-this-tool-to-get-cheaper-hotel-rates-even-after-yo-1850436690)
 - [Lifehacker] [You Should Turn Video Dates Into Speed Dating](https://lifehacker.com/you-should-turn-video-dates-into-speed-dating-1850355755)
