@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Digital Marketing Course in Chennai](https://dev.to/shivanya21/digital-marketing-course-in-chennai-4ej6)
+- [Dev.to/JS] [Unleash the Power of Promises: A Guide to Asynchronous Programming in JavaScript](https://dev.to/danities316/unleash-the-power-of-promises-a-guide-to-asynchronous-programming-in-javascript-1coo)
 - [Dev.to/JS] [Part 1: Naming Conventions - The Foundation of Clean Code](https://dev.to/sathishskdev/part-1-naming-conventions-the-foundation-of-clean-code-51ng)
 - [Dev.to/JS] [The Find , Filter and Reduce Methods](https://dev.to/robertomarungo/the-find-filter-and-reduce-methods-3c12)
 - [Dev.to/JS] [This is my first day in dev.to](https://dev.to/001samir100/this-is-my-first-day-in-devto-12f1)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Handling Image Loading with JavaScript Promises](https://dev.to/daca-github/handling-image-loading-with-javascript-promises-2l9j)
 - [Dev.to/JS] [Context in JavaScript: What is .this?](https://dev.to/brythewiseguy/context-in-javascript-what-is-this-po3)
 - [Dev.to/JS] [Asynchronous Javascript](https://dev.to/jmyli562/asynchronous-javascript-2j0j)
-- [Dev.to/JS] [Web Scrapper using NodeJS, Express, Cheerio and Axios](https://dev.to/piyushkdas0611/web-scrapper-using-nodejs-express-cheerio-and-axios-32n2)
-- [Dev.to/JS] [JavaScript Scope](https://dev.to/pawankashap/javascript-scope-122d)
 - [Lifehacker] [How to Tell If You Have Lead Pipes](https://lifehacker.com/how-to-tell-if-you-have-lead-pipes-1850426827)
 - [Lifehacker] [A &#39;National Housing Market&#39; Doesn&#39;t Exist &lpar;and Why That Matters&rpar;](https://lifehacker.com/a-national-housing-market-doesnt-exist-and-why-that-ma-1850426808)
 - [Lifehacker] [What Your Weeds Are Telling You About Your Soil](https://lifehacker.com/what-your-weeds-are-telling-you-about-your-soil-1850426794)
