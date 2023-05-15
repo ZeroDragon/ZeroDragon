@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [First 5 Steps of Object-Oriented Design](https://dev.to/mohammadfaisal/first-5-steps-of-object-oriented-design-1lco)
+- [Dev.to/JS] [Drag and Throw](https://dev.to/zyabrik10/drag-and-throw-44kl)
+- [Lifehacker] [Make AI Do the Hard Parts of Spreadsheets for You](https://lifehacker.com/make-ai-do-the-hard-parts-of-spreadsheets-for-you-1850437863)
+- [Dev.to/JS] [Deep Dive into Data structures using Javascript - Red-Black Tree](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-red-black-tree-4lnb)
+- [Dev.to/JS] [Project: Library - [Completed]](https://dev.to/resotap/project-library-completed-5dbk)
 - [Lifehacker] [How to Disarm a Love-Bomber](https://lifehacker.com/how-to-disarm-a-love-bomber-1850355747)
 - [Dev.to/JS] [Array indexOf&lpar;&rpar; method made simple for Data Analytics in charts and graphs..featuring Grouping, Summing and Rendering](https://dev.to/rickdelpo1/array-indexof-method-made-simple-for-data-analytics-in-charts-and-graphsfeaturing-grouping-summing-and-rendering-17n8)
 - [Dev.to/JS] [How To Use Storybook v7 With Ionic Framework And Angular](https://dev.to/aaronksaunders/how-to-use-storybook-v7-with-ionic-framework-and-angular-1o48)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hello!](https://dev.to/facundoesquivel97/hello-1ede)
 - [Dev.to/JS] [How To Use expect.objectContaining With Null and Undefined](https://dev.to/zirkelc/how-to-use-expectobjectcontaining-with-null-and-undefined-3iba)
 - [Lifehacker] [Use This Tool to Get Cheaper Hotel Rates, Even After You Book](https://lifehacker.com/use-this-tool-to-get-cheaper-hotel-rates-even-after-yo-1850436690)
-- [Dev.to/JS] [Tailwind utility classes not working? [SOLVED]](https://dev.to/minatop10/tailwind-utility-classes-not-working-solved-4o9d)
-- [Dev.to/JS] [How I used wasm-pack to build a WebAssembly module for an AudioWorkletProcessor](https://dev.to/speratus/how-i-used-wasm-pack-to-build-a-webassembly-module-for-an-audioworkletprocessor-4aa7)
-- [Dev.to/JS] [Dodging the Vercel Tax](https://dev.to/wundergraph/dodging-the-vercel-tax-47oe)
-- [Dev.to/JS] [Identifier In JavaScript](https://dev.to/capscode/identifier-in-javascript-4nlo)
 - [Lifehacker] [You Should Turn Video Dates Into Speed Dating](https://lifehacker.com/you-should-turn-video-dates-into-speed-dating-1850355755)
 - [Lifehacker] [You Should Hand-Pollinate These Fruits and Veggies to Grow More](https://lifehacker.com/you-should-hand-pollinate-these-fruits-and-veggies-to-g-1850436492)
 - [Lifehacker] [Go From &#39;Shy Girl Workouts&#39; to Using the Whole Gym](https://lifehacker.com/go-from-shy-girl-workouts-to-using-the-whole-gym-1850433915)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Least Obnoxious Ways to Keep in Touch With an Old Professor](https://lifehacker.com/the-least-obnoxious-ways-to-keep-in-touch-with-an-old-p-1850432196)
 - [Lifehacker] [Beware of These Scams Targeting New Homeowners](https://lifehacker.com/beware-of-these-scams-targeting-new-homeowners-1850432484)
 - [Lifehacker] [You Can Finally Edit Your WhatsApp Messages](https://lifehacker.com/you-can-finally-edit-your-whatsapp-messages-1850432192)
-- [Lifehacker] [How the ‘Primacy Effect’ Can Help You Remember Information](https://lifehacker.com/how-the-primacy-effect-can-help-you-remember-informat-1850432109)
-- [Lifehacker] [You Can Grow &lpar;and Eat&rpar; This Sponge](https://lifehacker.com/you-can-grow-and-eat-this-sponge-1850421644)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How the ‘Primacy Effect’ Can Help You Remember Information](https://lifehacker.com/how-the-primacy-effect-can-help-you-remember-informat-1850432109)<!-- TECH-POSTS:END -->
 
 ---
 
