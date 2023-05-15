@@ -23,22 +23,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Disarm a Love-Bomber](https://lifehacker.com/how-to-disarm-a-love-bomber-1850355747)
+- [Dev.to/JS] [Array indexOf&lpar;&rpar; method made simple for Data Analytics in charts and graphs..featuring Grouping, Summing and Rendering](https://dev.to/rickdelpo1/array-indexof-method-made-simple-for-data-analytics-in-charts-and-graphsfeaturing-grouping-summing-and-rendering-17n8)
+- [Dev.to/JS] [How To Use Storybook v7 With Ionic Framework And Angular](https://dev.to/aaronksaunders/how-to-use-storybook-v7-with-ionic-framework-and-angular-1o48)
+- [Dev.to/JS] [Creating Helper Functions for localStorage Operations](https://dev.to/geekreflex/creating-helper-functions-for-localstorage-operations-1pci)
+- [Lifehacker] [You Should Cure an Egg Yolk in Soy Sauce](https://lifehacker.com/you-should-cure-an-egg-yolk-in-soy-sauce-1850349485)
+- [Dev.to/JS] [docker init - create docker related assets](https://dev.to/sujaypillai/docker-init-create-docker-related-assets-1akh)
+- [Dev.to/JS] [Dockerize an Express app and MongoDB](https://dev.to/charlesloder/dockerize-an-express-app-and-mongodb-1olf)
+- [Dev.to/JS] [Creating simple React components with Chakra UI](https://dev.to/minatop10/creating-simple-react-components-with-chakra-ui-31a2)
+- [Dev.to/JS] [Hello!](https://dev.to/facundoesquivel97/hello-1ede)
 - [Dev.to/JS] [How To Use expect.objectContaining With Null and Undefined](https://dev.to/zirkelc/how-to-use-expectobjectcontaining-with-null-and-undefined-3iba)
+- [Lifehacker] [Use This Tool to Get Cheaper Hotel Rates, Even After You Book](https://lifehacker.com/use-this-tool-to-get-cheaper-hotel-rates-even-after-yo-1850436690)
 - [Dev.to/JS] [Tailwind utility classes not working? [SOLVED]](https://dev.to/minatop10/tailwind-utility-classes-not-working-solved-4o9d)
 - [Dev.to/JS] [How I used wasm-pack to build a WebAssembly module for an AudioWorkletProcessor](https://dev.to/speratus/how-i-used-wasm-pack-to-build-a-webassembly-module-for-an-audioworkletprocessor-4aa7)
 - [Dev.to/JS] [Dodging the Vercel Tax](https://dev.to/wundergraph/dodging-the-vercel-tax-47oe)
 - [Dev.to/JS] [Identifier In JavaScript](https://dev.to/capscode/identifier-in-javascript-4nlo)
 - [Lifehacker] [You Should Turn Video Dates Into Speed Dating](https://lifehacker.com/you-should-turn-video-dates-into-speed-dating-1850355755)
 - [Lifehacker] [You Should Hand-Pollinate These Fruits and Veggies to Grow More](https://lifehacker.com/you-should-hand-pollinate-these-fruits-and-veggies-to-g-1850436492)
-- [Dev.to/JS] [Step by step tutorial to add Interactive map and visualize geographic data to web application](https://dev.to/intersystems/step-by-step-tutorial-to-add-interactive-map-and-visualize-geographic-data-to-web-application-15aa)
-- [Dev.to/JS] [Plugin Interactive Maps and Visualize Geographic Data](https://dev.to/intersystems/plugin-interactive-maps-and-visualize-geographic-data-29pb)
-- [Dev.to/JS] [How to deal with Regeneration runtime errors in javascript](https://dev.to/fisayomi/how-to-deal-with-regeneration-runtime-errors-in-javascript-ped)
 - [Lifehacker] [Go From &#39;Shy Girl Workouts&#39; to Using the Whole Gym](https://lifehacker.com/go-from-shy-girl-workouts-to-using-the-whole-gym-1850433915)
-- [Dev.to/JS] [Schooling Starts](https://dev.to/kroelofsen/schooling-starts-2g40)
-- [Dev.to/JS] [A slick animation from Better Call Saul](https://dev.to/robole/a-slick-animation-from-better-call-saul-32pd)
 - [Lifehacker] [Is Your Child a Changeling?](https://lifehacker.com/is-your-child-a-changeling-1850433502)
-- [Dev.to/JS] [Using mixins in Angular — A Comprehensive Guide](https://dev.to/adroitgroup/using-mixins-in-angular-a-comprehensive-guide-1l8o)
-- [Dev.to/JS] [Conditional SSR templates made easy](https://dev.to/eduardtar/conditional-ssr-templates-made-easy-2j7l)
 - [Lifehacker] [Season Your Food Gently With Sea Salt Spray](https://lifehacker.com/season-your-food-gently-with-sea-salt-spray-1850433630)
 - [Lifehacker] [Hack Your SodaStream for Cheaper, Better Tasting Bubbles](https://lifehacker.com/hack-your-sodastream-for-cheaper-better-tasting-bubble-1850433639)
 - [Lifehacker] [How to Tell If You Have Lead Pipes](https://lifehacker.com/how-to-tell-if-you-have-lead-pipes-1850426827)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Beware of These Scams Targeting New Homeowners](https://lifehacker.com/beware-of-these-scams-targeting-new-homeowners-1850432484)
 - [Lifehacker] [You Can Finally Edit Your WhatsApp Messages](https://lifehacker.com/you-can-finally-edit-your-whatsapp-messages-1850432192)
 - [Lifehacker] [How the ‘Primacy Effect’ Can Help You Remember Information](https://lifehacker.com/how-the-primacy-effect-can-help-you-remember-informat-1850432109)
-- [Lifehacker] [You Can Grow &lpar;and Eat&rpar; This Sponge](https://lifehacker.com/you-can-grow-and-eat-this-sponge-1850421644)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Why Are Middle-Aged Men Being Called ‘Babygirl’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-1850431313)
-- [Lifehacker] [Make a Breakfast Vinaigrette With Bacon and Mrs. Butterworth’s](https://lifehacker.com/make-a-breakfast-vinaigrette-with-bacon-and-mrs-butter-1850429774)
-- [Lifehacker] [How to Actually Open a New Google Doc Quickly](https://lifehacker.com/how-to-actually-open-a-new-google-doc-quickly-1850428861)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Grow &lpar;and Eat&rpar; This Sponge](https://lifehacker.com/you-can-grow-and-eat-this-sponge-1850421644)<!-- TECH-POSTS:END -->
 
 ---
 
