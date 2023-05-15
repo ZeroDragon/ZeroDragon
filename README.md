@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JSON Demystified: A Comprehensive Guide For Beginers](https://dev.to/joepari_codes/json-demystified-a-comprehensive-guide-to-data-interchange-5gfe)
+- [Dev.to/JS] [Understanding Fetch APIs: A Beginner&#39;s Guide](https://dev.to/joepari_codes/understanding-fetch-apis-a-beginners-guide-3h4o)
+- [Dev.to/JS] [Why I Chose to Start My Career in Frontend Development: A Personal Journey](https://dev.to/surbhidighe/why-i-chose-to-start-my-career-in-frontend-development-a-personal-journey-5g8h)
+- [Dev.to/JS] [Let&#39;s build a Google Maps clone with React, Leaflet, and OneSDK](https://dev.to/superface/lets-build-a-google-maps-clone-with-react-leaflet-and-onesdk-16ci)
+- [Dev.to/JS] [Fetch API — Understanding JavaScript API Requests and Responses in the Data Fetching lifecycle](https://dev.to/rodcast/fetch-api-understanding-javascript-api-requests-and-responses-in-the-data-fetching-lifecycle-407k)
 - [Dev.to/JS] [React Props In Action: Building Flexible and Reusable Components...](https://dev.to/kingsley/react-props-in-action-building-flexible-and-reusable-components-4c2l)
 - [Dev.to/JS] [Low Code Platforms Are Doing the Heavy Lifting for Developers: Here&#39;s How!](https://dev.to/gayatrisachdev1/low-code-platforms-are-doing-the-heavy-lifting-for-developers-heres-how-2l88)
 - [Dev.to/JS] [Mastering Functions in TypeScript: A Comprehensive Guide](https://dev.to/cliff123tech/mastering-functions-in-typescript-a-comprehensive-guide-4fmo)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Continuous Performance Audits with Lighthouse CI &amp; GitHub Actions](https://dev.to/jacobandrewsky/continuous-performance-audits-with-lighthouse-ci-github-actions-2lik)
 - [Dev.to/JS] [Node.js Intermediate Level Code](https://dev.to/madhusudhan/nodejs-intermediate-level-code-3g9a)
 - [Dev.to/JS] [My first single page app &lpar;SPA&rpar;](https://dev.to/jiyongk84/my-first-single-page-app-spa-2iib)
-- [Dev.to/JS] [Javascript : 12 méthodes essentielles pour les chaînes de caractères](https://dev.to/kureru/javascript-12-methodes-essentielles-pour-les-chaines-de-caracteres-5b6)
-- [Dev.to/JS] [Digital Marketing Course in Chennai](https://dev.to/shivanya21/digital-marketing-course-in-chennai-4ej6)
-- [Dev.to/JS] [Unleash the Power of Promises: A Guide to Asynchronous Programming in JavaScript](https://dev.to/danities316/unleash-the-power-of-promises-a-guide-to-asynchronous-programming-in-javascript-1coo)
-- [Dev.to/JS] [Part 1: Naming Conventions - The Foundation of Clean Code](https://dev.to/sathishskdev/part-1-naming-conventions-the-foundation-of-clean-code-51ng)
-- [Dev.to/JS] [The Find , Filter and Reduce Methods](https://dev.to/robertomarungo/the-find-filter-and-reduce-methods-3c12)
 - [Lifehacker] [How to Tell If You Have Lead Pipes](https://lifehacker.com/how-to-tell-if-you-have-lead-pipes-1850426827)
 - [Lifehacker] [A &#39;National Housing Market&#39; Doesn&#39;t Exist &lpar;and Why That Matters&rpar;](https://lifehacker.com/a-national-housing-market-doesnt-exist-and-why-that-ma-1850426808)
 - [Lifehacker] [What Your Weeds Are Telling You About Your Soil](https://lifehacker.com/what-your-weeds-are-telling-you-about-your-soil-1850426794)
