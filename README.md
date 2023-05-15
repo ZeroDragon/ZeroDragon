@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Continuous Performance Audits with Lighthouse CI &amp; GitHub Actions](https://dev.to/jacobandrewsky/continuous-performance-audits-with-lighthouse-ci-github-actions-2lik)
+- [Dev.to/JS] [Node.js Intermediate Level Code](https://dev.to/madhusudhan/nodejs-intermediate-level-code-3g9a)
 - [Dev.to/JS] [My first single page app &lpar;SPA&rpar;](https://dev.to/jiyongk84/my-first-single-page-app-spa-2iib)
 - [Dev.to/JS] [Javascript : 12 méthodes essentielles pour les chaînes de caractères](https://dev.to/kureru/javascript-12-methodes-essentielles-pour-les-chaines-de-caracteres-5b6)
 - [Dev.to/JS] [Digital Marketing Course in Chennai](https://dev.to/shivanya21/digital-marketing-course-in-chennai-4ej6)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Never-Ending Game of Whack-a-Mole: A Hilarious Take on JavaScript Frameworks](https://dev.to/luisrrv/the-never-ending-game-of-whack-a-mole-a-hilarious-take-on-javascript-frameworks-1n67)
 - [Dev.to/JS] [On my way!! my coding journey.](https://dev.to/kelvinacosta/on-my-way-my-coding-journey-1gda)
 - [Dev.to/JS] [Day 104 of #365DaysOfCode: Implementing OAuth 2.0 and Exploring Python](https://dev.to/arashjangali/day-104-of-365daysofcode-implementing-oauth-20-and-exploring-python-1kkf)
-- [Dev.to/JS] [Dynamically add CSS rules](https://dev.to/efpage/dynamically-add-css-rules-5350)
-- [Dev.to/JS] [Handling Image Loading with JavaScript Promises](https://dev.to/daca-github/handling-image-loading-with-javascript-promises-2l9j)
 - [Lifehacker] [How to Tell If You Have Lead Pipes](https://lifehacker.com/how-to-tell-if-you-have-lead-pipes-1850426827)
 - [Lifehacker] [A &#39;National Housing Market&#39; Doesn&#39;t Exist &lpar;and Why That Matters&rpar;](https://lifehacker.com/a-national-housing-market-doesnt-exist-and-why-that-ma-1850426808)
 - [Lifehacker] [What Your Weeds Are Telling You About Your Soil](https://lifehacker.com/what-your-weeds-are-telling-you-about-your-soil-1850426794)
