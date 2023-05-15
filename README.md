@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [.js, .cjs and .mjs defference](https://dev.to/nipu/js-cjs-and-mjs-defference-5f21)
 - [Dev.to/JS] [JSON Demystified: A Comprehensive Guide For Beginers](https://dev.to/joepari_codes/json-demystified-a-comprehensive-guide-to-data-interchange-5gfe)
 - [Dev.to/JS] [Understanding Fetch APIs: A Beginner&#39;s Guide](https://dev.to/joepari_codes/understanding-fetch-apis-a-beginners-guide-3h4o)
 - [Dev.to/JS] [Why I Chose to Start My Career in Frontend Development: A Personal Journey](https://dev.to/surbhidighe/why-i-chose-to-start-my-career-in-frontend-development-a-personal-journey-5g8h)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ambitious crowdfunding platform with blockchain integration as the main difference.](https://dev.to/saveplanet/ambitious-crowdfunding-platform-with-blockchain-integration-as-the-main-difference-5821)
 - [Dev.to/JS] [Continuous Performance Audits with Lighthouse CI &amp; GitHub Actions](https://dev.to/jacobandrewsky/continuous-performance-audits-with-lighthouse-ci-github-actions-2lik)
 - [Dev.to/JS] [Node.js Intermediate Level Code](https://dev.to/madhusudhan/nodejs-intermediate-level-code-3g9a)
-- [Dev.to/JS] [My first single page app &lpar;SPA&rpar;](https://dev.to/jiyongk84/my-first-single-page-app-spa-2iib)
 - [Lifehacker] [How to Tell If You Have Lead Pipes](https://lifehacker.com/how-to-tell-if-you-have-lead-pipes-1850426827)
 - [Lifehacker] [A &#39;National Housing Market&#39; Doesn&#39;t Exist &lpar;and Why That Matters&rpar;](https://lifehacker.com/a-national-housing-market-doesnt-exist-and-why-that-ma-1850426808)
 - [Lifehacker] [What Your Weeds Are Telling You About Your Soil](https://lifehacker.com/what-your-weeds-are-telling-you-about-your-soil-1850426794)
