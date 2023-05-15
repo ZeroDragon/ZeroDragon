@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Ignore This Bad Financial Advice That’s Everywhere Online](https://lifehacker.com/ignore-this-bad-financial-advice-that-s-everywhere-onli-1850433576)
+- [Dev.to/JS] [How to build dynamic web apps by mastering the Document Object Model &lpar;DOM&rpar;.](https://dev.to/efkumah/how-to-build-dynamic-web-apps-by-mastering-the-document-object-model-dom-2mfm)
+- [Lifehacker] [Why You Should Actually Study Multiple Topics at the Same Time](https://lifehacker.com/why-you-should-actually-study-multiple-topics-at-the-sa-1850438252)
+- [Dev.to/JS] [Understanding Event Propagation in JavaScript](https://dev.to/samyak112/understanding-event-propagation-in-javascript-2l6j)
+- [Dev.to/JS] [Introducing PCER, A CLI Tool](https://dev.to/peterhdd/introducing-pcer-a-cli-tool-2cg7)
 - [Dev.to/JS] [First 5 Steps of Object-Oriented Design](https://dev.to/mohammadfaisal/first-5-steps-of-object-oriented-design-1lco)
+- [Lifehacker] [When You Can Save Partially Spoiled Produce &lpar;and When to Throw It Away&rpar;](https://lifehacker.com/when-you-can-save-partially-spoiled-produce-and-when-t-1850437766)
 - [Dev.to/JS] [Drag and Throw](https://dev.to/zyabrik10/drag-and-throw-44kl)
 - [Lifehacker] [Make AI Do the Hard Parts of Spreadsheets for You](https://lifehacker.com/make-ai-do-the-hard-parts-of-spreadsheets-for-you-1850437863)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Red-Black Tree](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-red-black-tree-4lnb)
@@ -35,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Cure an Egg Yolk in Soy Sauce](https://lifehacker.com/you-should-cure-an-egg-yolk-in-soy-sauce-1850349485)
 - [Dev.to/JS] [docker init - create docker related assets](https://dev.to/sujaypillai/docker-init-create-docker-related-assets-1akh)
 - [Dev.to/JS] [Dockerize an Express app and MongoDB](https://dev.to/charlesloder/dockerize-an-express-app-and-mongodb-1olf)
-- [Dev.to/JS] [Creating simple React components with Chakra UI](https://dev.to/minatop10/creating-simple-react-components-with-chakra-ui-31a2)
-- [Dev.to/JS] [Hello!](https://dev.to/facundoesquivel97/hello-1ede)
-- [Dev.to/JS] [How To Use expect.objectContaining With Null and Undefined](https://dev.to/zirkelc/how-to-use-expectobjectcontaining-with-null-and-undefined-3iba)
 - [Lifehacker] [Use This Tool to Get Cheaper Hotel Rates, Even After You Book](https://lifehacker.com/use-this-tool-to-get-cheaper-hotel-rates-even-after-yo-1850436690)
 - [Lifehacker] [You Should Turn Video Dates Into Speed Dating](https://lifehacker.com/you-should-turn-video-dates-into-speed-dating-1850355755)
 - [Lifehacker] [You Should Hand-Pollinate These Fruits and Veggies to Grow More](https://lifehacker.com/you-should-hand-pollinate-these-fruits-and-veggies-to-g-1850436492)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Eight Unexpected Ways Adults Play Too Rough With Kids](https://lifehacker.com/eight-unexpected-ways-adults-play-too-rough-with-kids-1850432796)
 - [Lifehacker] [Add Peanut Powder to Your Cooking Toolkit](https://lifehacker.com/add-peanut-powder-to-your-cooking-toolkit-1850432861)
 - [Lifehacker] [How Soon You Should Update Your ID and Registration After Moving](https://lifehacker.com/how-soon-you-should-update-your-id-and-registration-aft-1850432376)
-- [Lifehacker] [The Least Obnoxious Ways to Keep in Touch With an Old Professor](https://lifehacker.com/the-least-obnoxious-ways-to-keep-in-touch-with-an-old-p-1850432196)
-- [Lifehacker] [Beware of These Scams Targeting New Homeowners](https://lifehacker.com/beware-of-these-scams-targeting-new-homeowners-1850432484)
-- [Lifehacker] [You Can Finally Edit Your WhatsApp Messages](https://lifehacker.com/you-can-finally-edit-your-whatsapp-messages-1850432192)
-- [Lifehacker] [How the ‘Primacy Effect’ Can Help You Remember Information](https://lifehacker.com/how-the-primacy-effect-can-help-you-remember-informat-1850432109)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Least Obnoxious Ways to Keep in Touch With an Old Professor](https://lifehacker.com/the-least-obnoxious-ways-to-keep-in-touch-with-an-old-p-1850432196)<!-- TECH-POSTS:END -->
 
 ---
 
