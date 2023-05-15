@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Hack Your SodaStream for Cheaper, Better Tasting Bubbles](https://lifehacker.com/hack-your-sodastream-for-cheaper-better-tasting-bubble-1850433639)
+- [Dev.to/JS] [How to Minify CSS and JavaScript in WordPress?](https://dev.to/smitpatel1420/how-to-minify-css-and-javascript-in-wordpress-4kdj)
+- [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#20&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-20-4e18)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, May 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-may-2023-4bke)
 - [Dev.to/JS] [Medusa Community Highlights: Strapi Integration, SES Plugin, and More!](https://dev.to/medusajs/medusa-community-highlights-strapi-integration-ses-plugin-and-more-3mim)
 - [Dev.to/JS] [How to fix QuickBooks error QBW32.exe?](https://dev.to/elinawilliam12/how-to-fix-quickbooks-error-qbw32exe-1d9c)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Fetch APIs: A Beginner&#39;s Guide](https://dev.to/joepari_codes/understanding-fetch-apis-a-beginners-guide-3h4o)
 - [Dev.to/JS] [Why I Chose to Start My Career in Frontend Development: A Personal Journey](https://dev.to/surbhidighe/why-i-chose-to-start-my-career-in-frontend-development-a-personal-journey-5g8h)
 - [Dev.to/JS] [Let&#39;s build a Google Maps clone with React, Leaflet, and OneSDK](https://dev.to/superface/lets-build-a-google-maps-clone-with-react-leaflet-and-onesdk-16ci)
-- [Dev.to/JS] [Fetch API — Understanding JavaScript API Requests and Responses in the Data Fetching lifecycle](https://dev.to/rodcast/fetch-api-understanding-javascript-api-requests-and-responses-in-the-data-fetching-lifecycle-407k)
-- [Dev.to/JS] [React Props In Action: Building Flexible and Reusable Components...](https://dev.to/kingsley/react-props-in-action-building-flexible-and-reusable-components-4c2l)
 - [Lifehacker] [How to Tell If You Have Lead Pipes](https://lifehacker.com/how-to-tell-if-you-have-lead-pipes-1850426827)
 - [Lifehacker] [A &#39;National Housing Market&#39; Doesn&#39;t Exist &lpar;and Why That Matters&rpar;](https://lifehacker.com/a-national-housing-market-doesnt-exist-and-why-that-ma-1850426808)
 - [Lifehacker] [What Your Weeds Are Telling You About Your Soil](https://lifehacker.com/what-your-weeds-are-telling-you-about-your-soil-1850426794)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [21 Truly Terrible Movie Moms to Make You Feel Better &lpar;or Worse&rpar; About Yours](https://lifehacker.com/21-truly-terrible-movie-moms-to-make-you-feel-better-o-1850424947)
 - [Lifehacker] [Tame the Heat and Treat Your Thai Curry Like Pasta Sauce](https://lifehacker.com/tame-the-heat-and-treat-your-thai-curry-like-pasta-sauc-1850429761)
 - [Lifehacker] [An Over-the-Counter Birth Control Pill Is &lpar;Probably&rpar; Coming Soon](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
-- [Lifehacker] [How to Use Passkeys on Your iPhone or Mac](https://lifehacker.com/how-to-use-passkeys-on-your-iphone-or-mac-1850428402)
-- [Lifehacker] [This App Uses AI to Organize Your iPhone Photos](https://lifehacker.com/this-app-uses-ai-to-organize-your-iphone-photos-1850429061)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Use Passkeys on Your iPhone or Mac](https://lifehacker.com/how-to-use-passkeys-on-your-iphone-or-mac-1850428402)<!-- TECH-POSTS:END -->
 
 ---
 
