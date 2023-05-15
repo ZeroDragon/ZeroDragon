@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to deal with Regeneration runtime errors in javascript](https://dev.to/fisayomi/how-to-deal-with-regeneration-runtime-errors-in-javascript-ped)
+- [Lifehacker] [Go From &#39;Shy Girl Workouts&#39; to Using the Whole Gym](https://lifehacker.com/go-from-shy-girl-workouts-to-using-the-whole-gym-1850433915)
+- [Dev.to/JS] [Schooling Starts](https://dev.to/kroelofsen/schooling-starts-2g40)
+- [Dev.to/JS] [A slick animation from Better Call Saul](https://dev.to/robole/a-slick-animation-from-better-call-saul-32pd)
+- [Lifehacker] [Is Your Child a Changeling?](https://lifehacker.com/is-your-child-a-changeling-1850433502)
 - [Dev.to/JS] [Using mixins in Angular — A Comprehensive Guide](https://dev.to/adroitgroup/using-mixins-in-angular-a-comprehensive-guide-1l8o)
 - [Dev.to/JS] [Conditional SSR templates made easy](https://dev.to/eduardtar/conditional-ssr-templates-made-easy-2j7l)
 - [Dev.to/JS] [What is Vite? &amp; Vite vs Webpack](https://dev.to/refine/what-is-vite-vite-vs-webpack-5e27)
@@ -34,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, May 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-may-2023-4bke)
 - [Dev.to/JS] [Medusa Community Highlights: Strapi Integration, SES Plugin, and More!](https://dev.to/medusajs/medusa-community-highlights-strapi-integration-ses-plugin-and-more-3mim)
 - [Dev.to/JS] [How to fix QuickBooks error QBW32.exe?](https://dev.to/elinawilliam12/how-to-fix-quickbooks-error-qbw32exe-1d9c)
-- [Dev.to/JS] [Replacing Twind with Tailwind in Fresh](https://dev.to/iasqiti/replacing-twind-with-tailwind-in-fresh-1j4d)
-- [Dev.to/JS] [Browser Games With JavaScript](https://dev.to/anradev/browser-games-with-javascript-2enb)
-- [Dev.to/JS] [.js, .cjs and .mjs defference](https://dev.to/nipu/js-cjs-and-mjs-defference-5f21)
 - [Lifehacker] [How to Tell If You Have Lead Pipes](https://lifehacker.com/how-to-tell-if-you-have-lead-pipes-1850426827)
 - [Lifehacker] [A &#39;National Housing Market&#39; Doesn&#39;t Exist &lpar;and Why That Matters&rpar;](https://lifehacker.com/a-national-housing-market-doesnt-exist-and-why-that-ma-1850426808)
 - [Lifehacker] [What Your Weeds Are Telling You About Your Soil](https://lifehacker.com/what-your-weeds-are-telling-you-about-your-soil-1850426794)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a Breakfast Vinaigrette With Bacon and Mrs. Butterworth’s](https://lifehacker.com/make-a-breakfast-vinaigrette-with-bacon-and-mrs-butter-1850429774)
 - [Lifehacker] [How to Actually Open a New Google Doc Quickly](https://lifehacker.com/how-to-actually-open-a-new-google-doc-quickly-1850428861)
 - [Lifehacker] [This One Ingredient Will Elevate Your Rice Krispies Treats](https://lifehacker.com/this-one-ingredient-will-elevate-your-rice-krispies-tre-1850427025)
-- [Lifehacker] [21 Truly Terrible Movie Moms to Make You Feel Better &lpar;or Worse&rpar; About Yours](https://lifehacker.com/21-truly-terrible-movie-moms-to-make-you-feel-better-o-1850424947)
-- [Lifehacker] [Tame the Heat and Treat Your Thai Curry Like Pasta Sauce](https://lifehacker.com/tame-the-heat-and-treat-your-thai-curry-like-pasta-sauc-1850429761)
-- [Lifehacker] [An Over-the-Counter Birth Control Pill Is &lpar;Probably&rpar; Coming Soon](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)<!-- TECH-POSTS:END -->
+- [Lifehacker] [21 Truly Terrible Movie Moms to Make You Feel Better &lpar;or Worse&rpar; About Yours](https://lifehacker.com/21-truly-terrible-movie-moms-to-make-you-feel-better-o-1850424947)<!-- TECH-POSTS:END -->
 
 ---
 
