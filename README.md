@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Not Make Savory Pancakes?](https://lifehacker.com/why-not-make-savory-pancakes-1850438466)
 - [Lifehacker] [Ignore This Bad Financial Advice That’s Everywhere Online](https://lifehacker.com/ignore-this-bad-financial-advice-that-s-everywhere-onli-1850433576)
 - [Dev.to/JS] [How to build dynamic web apps by mastering the Document Object Model &lpar;DOM&rpar;.](https://dev.to/efkumah/how-to-build-dynamic-web-apps-by-mastering-the-document-object-model-dom-2mfm)
 - [Lifehacker] [Why You Should Actually Study Multiple Topics at the Same Time](https://lifehacker.com/why-you-should-actually-study-multiple-topics-at-the-sa-1850438252)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Questions You Should Ask Before Buying a House &#39;As Is&#39;](https://lifehacker.com/five-questions-you-should-ask-before-buying-a-house-as-1850432696)
 - [Lifehacker] [Eight Unexpected Ways Adults Play Too Rough With Kids](https://lifehacker.com/eight-unexpected-ways-adults-play-too-rough-with-kids-1850432796)
 - [Lifehacker] [Add Peanut Powder to Your Cooking Toolkit](https://lifehacker.com/add-peanut-powder-to-your-cooking-toolkit-1850432861)
-- [Lifehacker] [How Soon You Should Update Your ID and Registration After Moving](https://lifehacker.com/how-soon-you-should-update-your-id-and-registration-aft-1850432376)
-- [Lifehacker] [The Least Obnoxious Ways to Keep in Touch With an Old Professor](https://lifehacker.com/the-least-obnoxious-ways-to-keep-in-touch-with-an-old-p-1850432196)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Soon You Should Update Your ID and Registration After Moving](https://lifehacker.com/how-soon-you-should-update-your-id-and-registration-aft-1850432376)<!-- TECH-POSTS:END -->
 
 ---
 
