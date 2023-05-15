@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using mixins in Angular — A Comprehensive Guide](https://dev.to/adroitgroup/using-mixins-in-angular-a-comprehensive-guide-1l8o)
+- [Dev.to/JS] [Conditional SSR templates made easy](https://dev.to/eduardtar/conditional-ssr-templates-made-easy-2j7l)
+- [Dev.to/JS] [What is Vite? &amp; Vite vs Webpack](https://dev.to/refine/what-is-vite-vite-vs-webpack-5e27)
+- [Lifehacker] [Season Your Food Gently With Sea Salt Spray](https://lifehacker.com/season-your-food-gently-with-sea-salt-spray-1850433630)
+- [Dev.to/JS] [Making the right choice: WunderGraph or ApolloOS for your API architecture??](https://dev.to/wundergraph/making-the-right-choice-wundergraph-or-apolloos-for-your-api-architecture-3gf2)
 - [Lifehacker] [Hack Your SodaStream for Cheaper, Better Tasting Bubbles](https://lifehacker.com/hack-your-sodastream-for-cheaper-better-tasting-bubble-1850433639)
 - [Dev.to/JS] [How to Minify CSS and JavaScript in WordPress?](https://dev.to/smitpatel1420/how-to-minify-css-and-javascript-in-wordpress-4kdj)
 - [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#20&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-20-4e18)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Replacing Twind with Tailwind in Fresh](https://dev.to/iasqiti/replacing-twind-with-tailwind-in-fresh-1j4d)
 - [Dev.to/JS] [Browser Games With JavaScript](https://dev.to/anradev/browser-games-with-javascript-2enb)
 - [Dev.to/JS] [.js, .cjs and .mjs defference](https://dev.to/nipu/js-cjs-and-mjs-defference-5f21)
-- [Dev.to/JS] [JSON Demystified: A Comprehensive Guide For Beginers](https://dev.to/joepari_codes/json-demystified-a-comprehensive-guide-to-data-interchange-5gfe)
-- [Dev.to/JS] [Understanding Fetch APIs: A Beginner&#39;s Guide](https://dev.to/joepari_codes/understanding-fetch-apis-a-beginners-guide-3h4o)
-- [Dev.to/JS] [Why I Chose to Start My Career in Frontend Development: A Personal Journey](https://dev.to/surbhidighe/why-i-chose-to-start-my-career-in-frontend-development-a-personal-journey-5g8h)
-- [Dev.to/JS] [Let&#39;s build a Google Maps clone with React, Leaflet, and OneSDK](https://dev.to/superface/lets-build-a-google-maps-clone-with-react-leaflet-and-onesdk-16ci)
 - [Lifehacker] [How to Tell If You Have Lead Pipes](https://lifehacker.com/how-to-tell-if-you-have-lead-pipes-1850426827)
 - [Lifehacker] [A &#39;National Housing Market&#39; Doesn&#39;t Exist &lpar;and Why That Matters&rpar;](https://lifehacker.com/a-national-housing-market-doesnt-exist-and-why-that-ma-1850426808)
 - [Lifehacker] [What Your Weeds Are Telling You About Your Soil](https://lifehacker.com/what-your-weeds-are-telling-you-about-your-soil-1850426794)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This One Ingredient Will Elevate Your Rice Krispies Treats](https://lifehacker.com/this-one-ingredient-will-elevate-your-rice-krispies-tre-1850427025)
 - [Lifehacker] [21 Truly Terrible Movie Moms to Make You Feel Better &lpar;or Worse&rpar; About Yours](https://lifehacker.com/21-truly-terrible-movie-moms-to-make-you-feel-better-o-1850424947)
 - [Lifehacker] [Tame the Heat and Treat Your Thai Curry Like Pasta Sauce](https://lifehacker.com/tame-the-heat-and-treat-your-thai-curry-like-pasta-sauc-1850429761)
-- [Lifehacker] [An Over-the-Counter Birth Control Pill Is &lpar;Probably&rpar; Coming Soon](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
-- [Lifehacker] [How to Use Passkeys on Your iPhone or Mac](https://lifehacker.com/how-to-use-passkeys-on-your-iphone-or-mac-1850428402)<!-- TECH-POSTS:END -->
+- [Lifehacker] [An Over-the-Counter Birth Control Pill Is &lpar;Probably&rpar; Coming Soon](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)<!-- TECH-POSTS:END -->
 
 ---
 
