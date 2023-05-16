@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Treat Yourself to Sweet, Buttery Phyllo Chips](https://lifehacker.com/treat-yourself-to-sweet-buttery-phyllo-chips-1850439243)
+- [Dev.to/JS] [Enhancing Node.js Application Usability: Strategies for an Exceptional User Experience](https://dev.to/folasayosamuel/enhancing-nodejs-application-usability-strategies-for-an-exceptional-user-experience-50n2)
 - [Lifehacker] [How to Psych Yourself Up Without Feeling Cringe](https://lifehacker.com/how-to-psych-yourself-up-without-feeling-cringe-1850439173)
 - [Dev.to/JS] [How Top Enterprises Embrace Blockchain Technology to Improve Their Business Operation](https://dev.to/cooper_91/how-top-enterprises-embrace-blockchain-technology-to-improve-their-business-operation-p2c)
 - [Lifehacker] [Why ‘Lazy Geniuses’ Ask Themselves This Question](https://lifehacker.com/why-lazy-geniuses-ask-themselves-this-question-1850438866)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [404 Page with React Router V6.4](https://dev.to/salehmubashar/404-page-with-react-router-v64-145j)
 - [Dev.to/JS] [Build a Real Time Leaderboard in Nuxt.js and Pink Design](https://dev.to/hackmamba/build-a-real-time-leaderboard-in-nuxtjs-and-pink-design-2k65)
 - [Dev.to/JS] [Learning For Loop In Javascript](https://dev.to/danities316/learning-for-loop-in-javascript-1mbk)
-- [Dev.to/JS] [Learn how Array.reduce&lpar;&rpar; works under the hood in JavaScript](https://dev.to/danities316/learn-how-arrayreduce-works-under-the-hood-in-javascript-4l51)
 - [Lifehacker] [You Can Finally Fix Your Own Damn Pixel](https://lifehacker.com/you-can-finally-fix-your-own-damn-pixel-1850438646)
 - [Lifehacker] [Influencers Are Bad at Washing Produce](https://lifehacker.com/influencers-are-bad-at-washing-produce-1850438263)
 - [Lifehacker] [&#39;Perfect&#39; Posture Is Overrated](https://lifehacker.com/perfect-posture-is-overrated-1850438670)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Never Put These Things Down Any Drain in Your Home](https://lifehacker.com/never-put-these-things-down-any-drain-in-your-home-1850426969)
 - [Lifehacker] [Use Baking Soda to Get Rid of Moss Growing on Your Sidewalk and Driveway](https://lifehacker.com/use-baking-soda-to-get-rid-of-moss-growing-on-your-side-1850426990)
 - [Lifehacker] [How Library Book Requests Can Keep You From Impulse Shopping](https://lifehacker.com/how-library-book-requests-can-keep-you-from-impulse-sho-1850427008)
-- [Lifehacker] [It&#39;s Safe to Scan QR Codes &lpar;If You&#39;re Careful&rpar;](https://lifehacker.com/its-safe-to-scan-qr-codes-if-youre-careful-1850432586)
-- [Lifehacker] [If Mosquitoes Love You, Maybe Switch Soaps](https://lifehacker.com/if-mosquitoes-love-you-maybe-switch-soaps-1850433477)<!-- TECH-POSTS:END -->
+- [Lifehacker] [It&#39;s Safe to Scan QR Codes &lpar;If You&#39;re Careful&rpar;](https://lifehacker.com/its-safe-to-scan-qr-codes-if-youre-careful-1850432586)<!-- TECH-POSTS:END -->
 
 ---
 
