@@ -23,9 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Psych Yourself Up Without Feeling Cringe](https://lifehacker.com/how-to-psych-yourself-up-without-feeling-cringe-1850439173)
+- [Dev.to/JS] [How Top Enterprises Embrace Blockchain Technology to Improve Their Business Operation](https://dev.to/cooper_91/how-top-enterprises-embrace-blockchain-technology-to-improve-their-business-operation-p2c)
+- [Lifehacker] [Why ‘Lazy Geniuses’ Ask Themselves This Question](https://lifehacker.com/why-lazy-geniuses-ask-themselves-this-question-1850438866)
+- [Dev.to/JS] [Progressive Web Apps](https://dev.to/anuradha9712/progressive-web-apps-1dd9)
+- [Dev.to/JS] [How to Unleash the Power of Multithreading in JavaScript with Web Workers](https://dev.to/this-is-learning/how-to-unleash-the-power-of-multithreading-in-javascript-with-web-workers-20m5)
 - [Dev.to/JS] [6 Tips for Writing Cleaner and More Efficient JavaScript Code](https://dev.to/max88git/6-tips-for-writing-cleaner-and-more-efficient-javascript-code-3d7g)
 - [Lifehacker] [The Best Thing to Do With Milk That’s Past Its Prime](https://lifehacker.com/the-best-thing-to-do-with-milk-that-s-past-its-prime-1850433979)
-- [Dev.to/JS] [Doi bang lai xe Canada sang Viet Nam ONLINE CAP TOC UY TIN](https://dev.to/capdoigplxantin/doi-bang-lai-xe-canada-sang-viet-nam-online-cap-toc-uy-tin-fcc)
 - [Dev.to/JS] [Survey aimed at software developers and computer science students](https://dev.to/havvakorkmaz/survey-aimed-at-software-developers-and-computer-science-students-1kc7)
 - [Dev.to/JS] [My Journey of Building a Windows 95 Portfolio: Lessons Learned and Tips](https://dev.to/mojsx/my-journey-of-building-a-windows-95-portfolio-lessons-learned-and-tips-g1k)
 - [Dev.to/JS] [JWT Access Tokens &amp; Refresh Tokens](https://dev.to/swapnil09/jwt-access-tokens-refresh-tokens-1c4o)
@@ -34,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a Real Time Leaderboard in Nuxt.js and Pink Design](https://dev.to/hackmamba/build-a-real-time-leaderboard-in-nuxtjs-and-pink-design-2k65)
 - [Dev.to/JS] [Learning For Loop In Javascript](https://dev.to/danities316/learning-for-loop-in-javascript-1mbk)
 - [Dev.to/JS] [Learn how Array.reduce&lpar;&rpar; works under the hood in JavaScript](https://dev.to/danities316/learn-how-arrayreduce-works-under-the-hood-in-javascript-4l51)
-- [Dev.to/JS] [Boost Performance and Responsiveness: Setting Time Limits on Async Actions in JavaScript](https://dev.to/danities316/boost-performance-and-responsiveness-setting-time-limits-on-async-actions-in-javascript-in7)
-- [Dev.to/JS] [Clean Code Principles for JavaScript and TypeScript Developers](https://dev.to/devland/clean-code-principles-for-javascript-and-typescript-developers-3kdn)
 - [Lifehacker] [You Can Finally Fix Your Own Damn Pixel](https://lifehacker.com/you-can-finally-fix-your-own-damn-pixel-1850438646)
 - [Lifehacker] [Influencers Are Bad at Washing Produce](https://lifehacker.com/influencers-are-bad-at-washing-produce-1850438263)
 - [Lifehacker] [&#39;Perfect&#39; Posture Is Overrated](https://lifehacker.com/perfect-posture-is-overrated-1850438670)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Baking Soda to Get Rid of Moss Growing on Your Sidewalk and Driveway](https://lifehacker.com/use-baking-soda-to-get-rid-of-moss-growing-on-your-side-1850426990)
 - [Lifehacker] [How Library Book Requests Can Keep You From Impulse Shopping](https://lifehacker.com/how-library-book-requests-can-keep-you-from-impulse-sho-1850427008)
 - [Lifehacker] [It&#39;s Safe to Scan QR Codes &lpar;If You&#39;re Careful&rpar;](https://lifehacker.com/its-safe-to-scan-qr-codes-if-youre-careful-1850432586)
-- [Lifehacker] [If Mosquitoes Love You, Maybe Switch Soaps](https://lifehacker.com/if-mosquitoes-love-you-maybe-switch-soaps-1850433477)
-- [Lifehacker] [You Should Buffalo Your Popcorn](https://lifehacker.com/you-should-buffalo-your-popcorn-1850433286)
-- [Lifehacker] [This Orgeat Will Elevate Your At-Home Tiki Drinks](https://lifehacker.com/this-orgeat-will-elevate-your-at-home-tiki-drinks-1850358174)<!-- TECH-POSTS:END -->
+- [Lifehacker] [If Mosquitoes Love You, Maybe Switch Soaps](https://lifehacker.com/if-mosquitoes-love-you-maybe-switch-soaps-1850433477)<!-- TECH-POSTS:END -->
 
 ---
 
