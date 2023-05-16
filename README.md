@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React testing with Jest](https://dev.to/pedromarungo/react-testing-with-jest-491k)
+- [Dev.to/JS] [Solving the mystery: where are the promises in the Node.js event loop?](https://dev.to/mpotapov/solving-the-mystery-where-are-the-promises-in-the-nodejs-event-loop-207c)
 - [Dev.to/JS] [JavaScript Metaprogramming: Part 1 - Unleashing the Potential of the Reflect API](https://dev.to/katerinamykhailyk/javascript-metaprogramming-part-1-unleashing-the-potential-of-the-reflect-api-4lka)
 - [Dev.to/JS] [Envio de email com NodeJS e Gmail](https://dev.to/matheusgondra/envio-de-email-com-nodejs-e-gmail-520d)
 - [Dev.to/JS] [Implementing Google OAuth 2.0 Authentication for Multiple User Types in Your Web App](https://dev.to/arashjangali/implementing-google-oauth-20-authentication-for-multiple-user-types-in-your-web-app-5dg1)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Actually Study Multiple Topics at the Same Time](https://lifehacker.com/why-you-should-actually-study-multiple-topics-at-the-sa-1850438252)
 - [Dev.to/JS] [Understanding Event Propagation in JavaScript](https://dev.to/samyak112/understanding-event-propagation-in-javascript-2l6j)
 - [Dev.to/JS] [Introducing PCER, A CLI Tool](https://dev.to/peterhdd/introducing-pcer-a-cli-tool-2cg7)
-- [Dev.to/JS] [First 5 Steps of Object-Oriented Design](https://dev.to/mohammadfaisal/first-5-steps-of-object-oriented-design-1lco)
 - [Lifehacker] [When You Can Save Partially Spoiled Produce &lpar;and When to Throw It Away&rpar;](https://lifehacker.com/when-you-can-save-partially-spoiled-produce-and-when-t-1850437766)
-- [Dev.to/JS] [Drag and Throw](https://dev.to/zyabrik10/drag-and-throw-44kl)
 - [Lifehacker] [Make AI Do the Hard Parts of Spreadsheets for You](https://lifehacker.com/make-ai-do-the-hard-parts-of-spreadsheets-for-you-1850437863)
 - [Lifehacker] [How to Disarm a Love-Bomber](https://lifehacker.com/how-to-disarm-a-love-bomber-1850355747)
 - [Lifehacker] [You Should Cure an Egg Yolk in Soy Sauce](https://lifehacker.com/you-should-cure-an-egg-yolk-in-soy-sauce-1850349485)
