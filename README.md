@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tabs In Vanilla JavaScript](https://dev.to/moek/tabs-in-vanilla-javascript-3abl)
+- [Lifehacker] [This Gerber Infant Formula Is Being Recalled &lpar;Again&rpar;](https://lifehacker.com/this-gerber-infant-formula-is-being-recalled-again-1850441988)
+- [Dev.to/JS] [The Ultimate Guide to JavaScript Array Methods! - The Beginners Guide To Javascript&lpar;Part 13&rpar;](https://dev.to/camskithedev/the-ultimate-guide-to-javascript-array-methods-the-beginners-guide-to-javascriptpart-13-2moj)
+- [Lifehacker] [Here’s What You Can Actually Learn From Meal Kits](https://lifehacker.com/here-s-what-you-can-actually-learn-from-meal-kits-1850441519)
 - [Dev.to/JS] [CSS-in-JS: Why is this bad?](https://dev.to/xantregodlike/css-in-js-why-is-this-bad-36cn)
 - [Dev.to/JS] [Leveraging Currying to Optimize React](https://dev.to/vinayveerappaji/leveraging-currying-to-optimize-react-koa)
 - [Dev.to/JS] [Unleashing the Power of WebAssembly in Modern Web Development](https://dev.to/thewritingdev/unleashing-the-power-of-webassembly-in-modern-web-development-1h8h)
@@ -37,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Microservice Architecture](https://dev.to/bibekshah09/microservice-architecture-3i7j)
 - [Dev.to/JS] [User Authentication And Authorization &lpar;Frontend Developer&rpar;](https://dev.to/kimslatech/user-authentication-and-authorization-frontend-developer-nm1)
 - [Dev.to/JS] [#2665: Counter II](https://dev.to/jd2r/2665-counter-ii-1c8g)
-- [Dev.to/JS] [Os melhores custom hooks do react](https://dev.to/palast/os-melhores-custom-hooks-do-react-4dne)
 - [Lifehacker] [You Should Install Real Drip Irrigation This Year](https://lifehacker.com/you-should-install-real-drip-irrigation-this-year-1850439190)
-- [Dev.to/JS] [#2620: Counter](https://dev.to/jd2r/2620-counter-1c4p)
 - [Lifehacker] [How Much Personal Data Would You Give Up for a Free 4K TV?](https://lifehacker.com/how-much-personal-data-would-you-give-up-for-a-free-4k-1850439401)
 - [Lifehacker] [Treat Yourself to Sweet, Buttery Phyllo Chips](https://lifehacker.com/treat-yourself-to-sweet-buttery-phyllo-chips-1850439243)
 - [Lifehacker] [How to Psych Yourself Up Without Feeling Cringe](https://lifehacker.com/how-to-psych-yourself-up-without-feeling-cringe-1850439173)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Hand-Pollinate These Fruits and Veggies to Grow More](https://lifehacker.com/you-should-hand-pollinate-these-fruits-and-veggies-to-g-1850436492)
 - [Lifehacker] [Go From &#39;Shy Girl Workouts&#39; to Using the Whole Gym](https://lifehacker.com/go-from-shy-girl-workouts-to-using-the-whole-gym-1850433915)
 - [Lifehacker] [Is Your Child a Changeling?](https://lifehacker.com/is-your-child-a-changeling-1850433502)
-- [Lifehacker] [Season Your Food Gently With Sea Salt Spray](https://lifehacker.com/season-your-food-gently-with-sea-salt-spray-1850433630)
-- [Lifehacker] [Hack Your SodaStream for Cheaper, Better Tasting Bubbles](https://lifehacker.com/hack-your-sodastream-for-cheaper-better-tasting-bubble-1850433639)
-- [Lifehacker] [How to Tell If You Have Lead Pipes](https://lifehacker.com/how-to-tell-if-you-have-lead-pipes-1850426827)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Season Your Food Gently With Sea Salt Spray](https://lifehacker.com/season-your-food-gently-with-sea-salt-spray-1850433630)<!-- TECH-POSTS:END -->
 
 ---
 
