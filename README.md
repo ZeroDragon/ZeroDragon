@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Essential JavaScript before diving into React](https://dev.to/zamuhajji/essential-javascript-before-diving-into-react-38c3)
+- [Dev.to/JS] [Vue 3.3: Generic Types and when to use them](https://dev.to/vincentdorian/vue-33-generic-types-and-when-to-use-them-5egn)
 - [Dev.to/JS] [Top 5 extensões no visual studio code para quem trabalha no front-end](https://dev.to/vuedavi/top-5-extensoes-no-visual-studio-code-para-quem-trabalha-no-front-end-29pm)
 - [Lifehacker] [Use This Loophole to Get a $7,500 Tax Credit on Almost Any Electric Car](https://lifehacker.com/use-this-loophole-to-get-a-7-500-tax-credit-on-almost-1850442859)
 - [Dev.to/JS] [Cool Closure things! &lpar;part 1&rpar;](https://dev.to/mohamedelshazly/cool-closure-things-part-1-372k)
@@ -41,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s What You Can Actually Learn From Meal Kits](https://lifehacker.com/here-s-what-you-can-actually-learn-from-meal-kits-1850441519)
 - [Dev.to/JS] [CSS-in-JS: Why is this bad?](https://dev.to/xantregodlike/css-in-js-why-is-this-bad-36cn)
 - [Dev.to/JS] [Leveraging Currying to Optimize React](https://dev.to/vinayveerappaji/leveraging-currying-to-optimize-react-koa)
-- [Dev.to/JS] [Unleashing the Power of WebAssembly in Modern Web Development](https://dev.to/thewritingdev/unleashing-the-power-of-webassembly-in-modern-web-development-1h8h)
 - [Lifehacker] [How to Lock Your Secrets in WhatsApp](https://lifehacker.com/use-whatsapp-s-chat-lock-feature-to-hide-your-sexts-1850440924)
-- [Dev.to/JS] [tt - Natural Language CLI Time Tracker](https://dev.to/f3rno64/tt-natural-language-cli-time-tracker-2i0m)
 - [Lifehacker] [Waffle Some Eggplant for a Charred Treat](https://lifehacker.com/waffle-some-eggplant-for-a-charred-treat-1850439754)
 - [Lifehacker] [Why You Should Stop Bringing Your Laptop to Class](https://lifehacker.com/why-you-should-stop-bringing-your-laptop-to-class-1850441339)
 - [Lifehacker] [You Can Build a Stunning Flower Wall for Your Home](https://lifehacker.com/you-can-build-a-stunning-flower-wall-for-your-home-1850439853)
