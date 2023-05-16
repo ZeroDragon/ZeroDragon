@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CSS-in-JS: Why is this bad?](https://dev.to/xantregodlike/css-in-js-why-is-this-bad-36cn)
+- [Dev.to/JS] [Leveraging Currying to Optimize React](https://dev.to/vinayveerappaji/leveraging-currying-to-optimize-react-koa)
+- [Dev.to/JS] [Unleashing the Power of WebAssembly in Modern Web Development](https://dev.to/thewritingdev/unleashing-the-power-of-webassembly-in-modern-web-development-1h8h)
+- [Lifehacker] [How to Lock Your Secrets in WhatsApp](https://lifehacker.com/use-whatsapp-s-chat-lock-feature-to-hide-your-sexts-1850440924)
+- [Dev.to/JS] [tt - Natural Language CLI Time Tracker](https://dev.to/f3rno64/tt-natural-language-cli-time-tracker-2i0m)
+- [Dev.to/JS] [UseParam&lpar;&rpar;](https://dev.to/rrmm/useparam-2gpj)
+- [Dev.to/JS] [Reload other tabs with a value change in current tab](https://dev.to/vinayveerappaji/reload-other-tabs-with-a-value-change-in-current-tab-128b)
+- [Lifehacker] [Waffle Some Eggplant for a Charred Treat](https://lifehacker.com/waffle-some-eggplant-for-a-charred-treat-1850439754)
 - [Dev.to/JS] [Integrate Elxir Phoenix client with JS app.](https://dev.to/marknefedov/integrate-elxir-phoenix-client-with-js-app-352)
 - [Lifehacker] [Why You Should Stop Bringing Your Laptop to Class](https://lifehacker.com/why-you-should-stop-bringing-your-laptop-to-class-1850441339)
 - [Lifehacker] [You Can Build a Stunning Flower Wall for Your Home](https://lifehacker.com/you-can-build-a-stunning-flower-wall-for-your-home-1850439853)
@@ -32,15 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Os melhores custom hooks do react](https://dev.to/palast/os-melhores-custom-hooks-do-react-4dne)
 - [Lifehacker] [You Should Install Real Drip Irrigation This Year](https://lifehacker.com/you-should-install-real-drip-irrigation-this-year-1850439190)
 - [Dev.to/JS] [#2620: Counter](https://dev.to/jd2r/2620-counter-1c4p)
-- [Dev.to/JS] [Bringing custom domains back to Glitch and bots to Bluesky 🤖🌤️](https://dev.to/glitch/bringing-custom-domains-back-to-glitch-and-bots-to-bluesky-2lej)
-- [Dev.to/JS] [Farewell to Redux、Recoil、MobX、Zustand、Jotai and Valtio, another way of state management?](https://dev.to/licg9999/farewell-to-redux-recoil-mobx-zustand-jotai-and-valtio-another-way-of-state-management-530f)
-- [Dev.to/JS] [Toasts in vanilla 😋-Toaster Ui](https://dev.to/murtazajooo/introducing-toaster-ui-a-lightweight-toast-notification-9mm)
-- [Dev.to/JS] [#2667: Create Hello World Function](https://dev.to/jd2r/2667-create-hello-world-function-50ho)
 - [Lifehacker] [How Much Personal Data Would You Give Up for a Free 4K TV?](https://lifehacker.com/how-much-personal-data-would-you-give-up-for-a-free-4k-1850439401)
 - [Lifehacker] [Treat Yourself to Sweet, Buttery Phyllo Chips](https://lifehacker.com/treat-yourself-to-sweet-buttery-phyllo-chips-1850439243)
-- [Dev.to/JS] [Enhancing Node.js Application Usability: Strategies for an Exceptional User Experience](https://dev.to/folasayosamuel/enhancing-nodejs-application-usability-strategies-for-an-exceptional-user-experience-50n2)
 - [Lifehacker] [How to Psych Yourself Up Without Feeling Cringe](https://lifehacker.com/how-to-psych-yourself-up-without-feeling-cringe-1850439173)
-- [Dev.to/JS] [How Top Enterprises Embrace Blockchain Technology to Improve Their Business Operation](https://dev.to/cooper_91/how-top-enterprises-embrace-blockchain-technology-to-improve-their-business-operation-p2c)
 - [Lifehacker] [Why ‘Lazy Geniuses’ Ask Themselves This Question](https://lifehacker.com/why-lazy-geniuses-ask-themselves-this-question-1850438866)
 - [Lifehacker] [The Best Thing to Do With Milk That’s Past Its Prime](https://lifehacker.com/the-best-thing-to-do-with-milk-that-s-past-its-prime-1850433979)
 - [Lifehacker] [You Can Finally Fix Your Own Damn Pixel](https://lifehacker.com/you-can-finally-fix-your-own-damn-pixel-1850438646)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is Your Child a Changeling?](https://lifehacker.com/is-your-child-a-changeling-1850433502)
 - [Lifehacker] [Season Your Food Gently With Sea Salt Spray](https://lifehacker.com/season-your-food-gently-with-sea-salt-spray-1850433630)
 - [Lifehacker] [Hack Your SodaStream for Cheaper, Better Tasting Bubbles](https://lifehacker.com/hack-your-sodastream-for-cheaper-better-tasting-bubble-1850433639)
-- [Lifehacker] [How to Tell If You Have Lead Pipes](https://lifehacker.com/how-to-tell-if-you-have-lead-pipes-1850426827)
-- [Lifehacker] [A &#39;National Housing Market&#39; Doesn&#39;t Exist &lpar;and Why That Matters&rpar;](https://lifehacker.com/a-national-housing-market-doesnt-exist-and-why-that-ma-1850426808)
-- [Lifehacker] [What Your Weeds Are Telling You About Your Soil](https://lifehacker.com/what-your-weeds-are-telling-you-about-your-soil-1850426794)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell If You Have Lead Pipes](https://lifehacker.com/how-to-tell-if-you-have-lead-pipes-1850426827)<!-- TECH-POSTS:END -->
 
 ---
 
