@@ -23,22 +23,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Build a Stunning Flower Wall for Your Home](https://lifehacker.com/you-can-build-a-stunning-flower-wall-for-your-home-1850439853)
+- [Dev.to/JS] [Microservice Architecture](https://dev.to/bibekshah09/microservice-architecture-3i7j)
+- [Dev.to/JS] [User Authentication And Authorization &lpar;Frontend Developer&rpar;](https://dev.to/kimslatech/user-authentication-and-authorization-frontend-developer-nm1)
+- [Dev.to/JS] [#2665: Counter II](https://dev.to/jd2r/2665-counter-ii-1c8g)
+- [Dev.to/JS] [Os melhores custom hooks do react](https://dev.to/palast/os-melhores-custom-hooks-do-react-4dne)
+- [Lifehacker] [You Should Install Real Drip Irrigation This Year](https://lifehacker.com/you-should-install-real-drip-irrigation-this-year-1850439190)
+- [Dev.to/JS] [#2620: Counter](https://dev.to/jd2r/2620-counter-1c4p)
+- [Dev.to/JS] [Bringing custom domains back to Glitch and bots to Bluesky 🤖🌤️](https://dev.to/glitch/bringing-custom-domains-back-to-glitch-and-bots-to-bluesky-2lej)
+- [Dev.to/JS] [Farewell to Redux、Recoil、MobX、Zustand、Jotai and Valtio, another way of state management?](https://dev.to/licg9999/farewell-to-redux-recoil-mobx-zustand-jotai-and-valtio-another-way-of-state-management-530f)
+- [Dev.to/JS] [Introducing Toaster-UI: A Lightweight Toast Notification](https://dev.to/murtazajooo/introducing-toaster-ui-a-lightweight-toast-notification-9mm)
+- [Dev.to/JS] [#2667: Create Hello World Function](https://dev.to/jd2r/2667-create-hello-world-function-50ho)
+- [Lifehacker] [How Much Personal Data Would You Give Up for a Free 4K TV?](https://lifehacker.com/how-much-personal-data-would-you-give-up-for-a-free-4k-1850439401)
 - [Lifehacker] [Treat Yourself to Sweet, Buttery Phyllo Chips](https://lifehacker.com/treat-yourself-to-sweet-buttery-phyllo-chips-1850439243)
 - [Dev.to/JS] [Enhancing Node.js Application Usability: Strategies for an Exceptional User Experience](https://dev.to/folasayosamuel/enhancing-nodejs-application-usability-strategies-for-an-exceptional-user-experience-50n2)
 - [Lifehacker] [How to Psych Yourself Up Without Feeling Cringe](https://lifehacker.com/how-to-psych-yourself-up-without-feeling-cringe-1850439173)
 - [Dev.to/JS] [How Top Enterprises Embrace Blockchain Technology to Improve Their Business Operation](https://dev.to/cooper_91/how-top-enterprises-embrace-blockchain-technology-to-improve-their-business-operation-p2c)
 - [Lifehacker] [Why ‘Lazy Geniuses’ Ask Themselves This Question](https://lifehacker.com/why-lazy-geniuses-ask-themselves-this-question-1850438866)
 - [Dev.to/JS] [Progressive Web Apps](https://dev.to/anuradha9712/progressive-web-apps-1dd9)
-- [Dev.to/JS] [How to Unleash the Power of Multithreading in JavaScript with Web Workers](https://dev.to/this-is-learning/how-to-unleash-the-power-of-multithreading-in-javascript-with-web-workers-20m5)
-- [Dev.to/JS] [6 Tips for Writing Cleaner and More Efficient JavaScript Code](https://dev.to/max88git/6-tips-for-writing-cleaner-and-more-efficient-javascript-code-3d7g)
 - [Lifehacker] [The Best Thing to Do With Milk That’s Past Its Prime](https://lifehacker.com/the-best-thing-to-do-with-milk-that-s-past-its-prime-1850433979)
-- [Dev.to/JS] [Survey aimed at software developers and computer science students](https://dev.to/havvakorkmaz/survey-aimed-at-software-developers-and-computer-science-students-1kc7)
-- [Dev.to/JS] [My Journey of Building a Windows 95 Portfolio: Lessons Learned and Tips](https://dev.to/mojsx/my-journey-of-building-a-windows-95-portfolio-lessons-learned-and-tips-g1k)
-- [Dev.to/JS] [JWT Access Tokens &amp; Refresh Tokens](https://dev.to/swapnil09/jwt-access-tokens-refresh-tokens-1c4o)
-- [Dev.to/JS] [Breaking out of tutorial hell](https://dev.to/wheresryan/breaking-out-of-tutorial-hell-188f)
-- [Dev.to/JS] [404 Page with React Router V6.4](https://dev.to/salehmubashar/404-page-with-react-router-v64-145j)
-- [Dev.to/JS] [Build a Real Time Leaderboard in Nuxt.js and Pink Design](https://dev.to/hackmamba/build-a-real-time-leaderboard-in-nuxtjs-and-pink-design-2k65)
-- [Dev.to/JS] [Learning For Loop In Javascript](https://dev.to/danities316/learning-for-loop-in-javascript-1mbk)
 - [Lifehacker] [You Can Finally Fix Your Own Damn Pixel](https://lifehacker.com/you-can-finally-fix-your-own-damn-pixel-1850438646)
 - [Lifehacker] [Influencers Are Bad at Washing Produce](https://lifehacker.com/influencers-are-bad-at-washing-produce-1850438263)
 - [Lifehacker] [&#39;Perfect&#39; Posture Is Overrated](https://lifehacker.com/perfect-posture-is-overrated-1850438670)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If You Have Lead Pipes](https://lifehacker.com/how-to-tell-if-you-have-lead-pipes-1850426827)
 - [Lifehacker] [A &#39;National Housing Market&#39; Doesn&#39;t Exist &lpar;and Why That Matters&rpar;](https://lifehacker.com/a-national-housing-market-doesnt-exist-and-why-that-ma-1850426808)
 - [Lifehacker] [What Your Weeds Are Telling You About Your Soil](https://lifehacker.com/what-your-weeds-are-telling-you-about-your-soil-1850426794)
-- [Lifehacker] [Never Put These Things Down Any Drain in Your Home](https://lifehacker.com/never-put-these-things-down-any-drain-in-your-home-1850426969)
-- [Lifehacker] [Use Baking Soda to Get Rid of Moss Growing on Your Sidewalk and Driveway](https://lifehacker.com/use-baking-soda-to-get-rid-of-moss-growing-on-your-side-1850426990)
-- [Lifehacker] [How Library Book Requests Can Keep You From Impulse Shopping](https://lifehacker.com/how-library-book-requests-can-keep-you-from-impulse-sho-1850427008)
-- [Lifehacker] [It&#39;s Safe to Scan QR Codes &lpar;If You&#39;re Careful&rpar;](https://lifehacker.com/its-safe-to-scan-qr-codes-if-youre-careful-1850432586)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Never Put These Things Down Any Drain in Your Home](https://lifehacker.com/never-put-these-things-down-any-drain-in-your-home-1850426969)<!-- TECH-POSTS:END -->
 
 ---
 
