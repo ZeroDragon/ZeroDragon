@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Metaprogramming: Part 1 - Unleashing the Potential of the Reflect API](https://dev.to/katerinamykhailyk/javascript-metaprogramming-part-1-unleashing-the-potential-of-the-reflect-api-4lka)
 - [Dev.to/JS] [Envio de email com NodeJS e Gmail](https://dev.to/matheusgondra/envio-de-email-com-nodejs-e-gmail-520d)
 - [Dev.to/JS] [Implementing Google OAuth 2.0 Authentication for Multiple User Types in Your Web App](https://dev.to/arashjangali/implementing-google-oauth-20-authentication-for-multiple-user-types-in-your-web-app-5dg1)
 - [Dev.to/JS] [How to Cache in Node.js Application](https://dev.to/satel/how-to-cache-in-nodejs-application-3j27)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When You Can Save Partially Spoiled Produce &lpar;and When to Throw It Away&rpar;](https://lifehacker.com/when-you-can-save-partially-spoiled-produce-and-when-t-1850437766)
 - [Dev.to/JS] [Drag and Throw](https://dev.to/zyabrik10/drag-and-throw-44kl)
 - [Lifehacker] [Make AI Do the Hard Parts of Spreadsheets for You](https://lifehacker.com/make-ai-do-the-hard-parts-of-spreadsheets-for-you-1850437863)
-- [Dev.to/JS] [Deep Dive into Data structures using Javascript - Red-Black Tree](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-red-black-tree-4lnb)
 - [Lifehacker] [How to Disarm a Love-Bomber](https://lifehacker.com/how-to-disarm-a-love-bomber-1850355747)
 - [Lifehacker] [You Should Cure an Egg Yolk in Soy Sauce](https://lifehacker.com/you-should-cure-an-egg-yolk-in-soy-sauce-1850349485)
 - [Lifehacker] [Use This Tool to Get Cheaper Hotel Rates, Even After You Book](https://lifehacker.com/use-this-tool-to-get-cheaper-hotel-rates-even-after-yo-1850436690)
