@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The fastest way to find closing brackets](https://dev.to/efpage/the-fastest-way-to-find-closing-brackets-1p7b)
 - [Dev.to/JS] [From NgRx ComponentStore to SignalStore: the key takeaways from my demo project](https://dev.to/this-is-angular/from-ngrx-componentstore-to-signalstore-the-key-takeaways-from-my-demo-project-38n3)
 - [Dev.to/JS] [React Micro Frontends: The Future of Frontend Development?](https://dev.to/himadripatelace/react-micro-frontends-the-future-of-frontend-development-23ge)
 - [Dev.to/JS] [How I built an event ticketing system with Next.js and Firebase](https://dev.to/arshadayvid/how-i-built-an-event-ticketing-system-with-nextjs-and-firebase-50l2)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Cache in Node.js Application](https://dev.to/satel/how-to-cache-in-nodejs-application-3j27)
 - [Dev.to/JS] [5 Dicas que te ajudam a nomear variáveis em JavaScript](https://dev.to/maurilosantos/5-dicas-que-te-ajudam-a-nomear-variaveis-em-javascript-28dp)
 - [Lifehacker] [You Can Finally Fix Your Own Damn Pixel](https://lifehacker.com/you-can-finally-fix-your-own-damn-pixel-1850438646)
-- [Dev.to/JS] [Deploy NFT Smart Contract without Solidity](https://dev.to/laurenmxv/deploy-nft-smart-contract-without-solidity-5do)
 - [Lifehacker] [Influencers Are Bad at Washing Produce](https://lifehacker.com/influencers-are-bad-at-washing-produce-1850438263)
 - [Lifehacker] [&#39;Perfect&#39; Posture Is Overrated](https://lifehacker.com/perfect-posture-is-overrated-1850438670)
 - [Lifehacker] [Why Not Make Savory Pancakes?](https://lifehacker.com/why-not-make-savory-pancakes-1850438466)
