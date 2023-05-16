@@ -23,8 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Real Time Leaderboard in Nuxt.js and Pink Design](https://dev.to/hackmamba/build-a-real-time-leaderboard-in-nuxtjs-and-pink-design-2k65)
+- [Dev.to/JS] [Learning For Loop In Javascript](https://dev.to/danities316/learning-for-loop-in-javascript-1mbk)
+- [Dev.to/JS] [Learn how Array.reduce&lpar;&rpar; works under the hood in JavaScript](https://dev.to/danities316/learn-how-arrayreduce-works-under-the-hood-in-javascript-4l51)
 - [Dev.to/JS] [Boost Performance and Responsiveness: Setting Time Limits on Async Actions in JavaScript](https://dev.to/danities316/boost-performance-and-responsiveness-setting-time-limits-on-async-actions-in-javascript-in7)
-- [Dev.to/JS] [Boost the Scalability of Your Node.js Applications with These 7 Tips](https://dev.to/eylonmiz/boost-the-scalability-of-your-nodejs-applications-with-these-7-tips-4eg)
 - [Dev.to/JS] [Clean Code Principles for JavaScript and TypeScript Developers](https://dev.to/devland/clean-code-principles-for-javascript-and-typescript-developers-3kdn)
 - [Dev.to/JS] [Simplify if-else statements with Objects](https://dev.to/kenn-stack/simplify-if-else-statements-with-objects-3c1l)
 - [Dev.to/JS] [The fastest way to find closing brackets](https://dev.to/efpage/the-fastest-way-to-find-closing-brackets-1p7b)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I built an event ticketing system with Next.js and Firebase](https://dev.to/arshadayvid/how-i-built-an-event-ticketing-system-with-nextjs-and-firebase-50l2)
 - [Dev.to/JS] [Tips for Javascript Programming](https://dev.to/naomiclarkson2/tips-for-javascript-programming-h1)
 - [Dev.to/JS] [React testing with Jest](https://dev.to/pedromarungo/react-testing-with-jest-491k)
-- [Dev.to/JS] [Solving the mystery: where are the promises in the Node.js event loop?](https://dev.to/mpotapov/solving-the-mystery-where-are-the-promises-in-the-nodejs-event-loop-207c)
-- [Dev.to/JS] [JavaScript Metaprogramming: Part 1 - Unleashing the Potential of the Reflect API](https://dev.to/katerinamykhailyk/javascript-metaprogramming-part-1-unleashing-the-potential-of-the-reflect-api-4lka)
 - [Lifehacker] [You Can Finally Fix Your Own Damn Pixel](https://lifehacker.com/you-can-finally-fix-your-own-damn-pixel-1850438646)
 - [Lifehacker] [Influencers Are Bad at Washing Produce](https://lifehacker.com/influencers-are-bad-at-washing-produce-1850438263)
 - [Lifehacker] [&#39;Perfect&#39; Posture Is Overrated](https://lifehacker.com/perfect-posture-is-overrated-1850438670)
