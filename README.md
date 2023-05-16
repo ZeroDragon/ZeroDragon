@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Overclock Your Switch to Make ‘Tears of the Kingdom’ Run Better](https://lifehacker.com/overclock-your-switch-to-make-tears-of-the-kingdom-ru-1850442406)
+- [Dev.to/JS] [Journey to Front-End Web Development](https://dev.to/bealecs/journey-to-front-end-web-development-333l)
+- [Lifehacker] [Use This Gesture to Take an iPhone Video Without Pausing Your Music](https://lifehacker.com/use-this-gesture-to-take-an-iphone-video-without-pausin-1850442739)
 - [Lifehacker] [GM Is Recalling a Million SUVs Because the Airbags Might Explode and Kill You](https://lifehacker.com/gm-is-recalling-a-million-suvs-because-the-airbags-migh-1850442294)
 - [Lifehacker] [Make McFlurry-Style Treats in Your Stand Mixer](https://lifehacker.com/make-mcflurry-style-treats-in-your-stand-mixer-1850442158)
 - [Dev.to/JS] [Redux Toolkit VS Redux: State Management in React](https://dev.to/prateekbka/redux-toolkit-vs-redux-state-management-in-react-4mb8)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [UseParam&lpar;&rpar;](https://dev.to/rrmm/useparam-2gpj)
 - [Dev.to/JS] [Reload other tabs with a value change in current tab](https://dev.to/vinayveerappaji/reload-other-tabs-with-a-value-change-in-current-tab-128b)
 - [Lifehacker] [Waffle Some Eggplant for a Charred Treat](https://lifehacker.com/waffle-some-eggplant-for-a-charred-treat-1850439754)
-- [Dev.to/JS] [Integrate Elxir Phoenix client with JS app.](https://dev.to/marknefedov/integrate-elxir-phoenix-client-with-js-app-352)
 - [Lifehacker] [Why You Should Stop Bringing Your Laptop to Class](https://lifehacker.com/why-you-should-stop-bringing-your-laptop-to-class-1850441339)
 - [Lifehacker] [You Can Build a Stunning Flower Wall for Your Home](https://lifehacker.com/you-can-build-a-stunning-flower-wall-for-your-home-1850439853)
 - [Lifehacker] [You Should Install Real Drip Irrigation This Year](https://lifehacker.com/you-should-install-real-drip-irrigation-this-year-1850439190)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make AI Do the Hard Parts of Spreadsheets for You](https://lifehacker.com/make-ai-do-the-hard-parts-of-spreadsheets-for-you-1850437863)
 - [Lifehacker] [How to Disarm a Love-Bomber](https://lifehacker.com/how-to-disarm-a-love-bomber-1850355747)
 - [Lifehacker] [You Should Cure an Egg Yolk in Soy Sauce](https://lifehacker.com/you-should-cure-an-egg-yolk-in-soy-sauce-1850349485)
-- [Lifehacker] [Use This Tool to Get Cheaper Hotel Rates, Even After You Book](https://lifehacker.com/use-this-tool-to-get-cheaper-hotel-rates-even-after-yo-1850436690)
-- [Lifehacker] [You Should Turn Video Dates Into Speed Dating](https://lifehacker.com/you-should-turn-video-dates-into-speed-dating-1850355755)
-- [Lifehacker] [You Should Hand-Pollinate These Fruits and Veggies to Grow More](https://lifehacker.com/you-should-hand-pollinate-these-fruits-and-veggies-to-g-1850436492)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use This Tool to Get Cheaper Hotel Rates, Even After You Book](https://lifehacker.com/use-this-tool-to-get-cheaper-hotel-rates-even-after-yo-1850436690)<!-- TECH-POSTS:END -->
 
 ---
 
