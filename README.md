@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [6 Tips for Writing Cleaner and More Efficient JavaScript Code](https://dev.to/max88git/6-tips-for-writing-cleaner-and-more-efficient-javascript-code-3d7g)
+- [Lifehacker] [The Best Thing to Do With Milk That’s Past Its Prime](https://lifehacker.com/the-best-thing-to-do-with-milk-that-s-past-its-prime-1850433979)
+- [Dev.to/JS] [Doi bang lai xe Canada sang Viet Nam ONLINE CAP TOC UY TIN](https://dev.to/capdoigplxantin/doi-bang-lai-xe-canada-sang-viet-nam-online-cap-toc-uy-tin-fcc)
+- [Dev.to/JS] [Survey aimed at software developers and computer science students](https://dev.to/havvakorkmaz/survey-aimed-at-software-developers-and-computer-science-students-1kc7)
+- [Dev.to/JS] [My Journey of Building a Windows 95 Portfolio: Lessons Learned and Tips](https://dev.to/mojsx/my-journey-of-building-a-windows-95-portfolio-lessons-learned-and-tips-g1k)
+- [Dev.to/JS] [JWT Access Tokens &amp; Refresh Tokens](https://dev.to/swapnil09/jwt-access-tokens-refresh-tokens-1c4o)
 - [Dev.to/JS] [Breaking out of tutorial hell](https://dev.to/wheresryan/breaking-out-of-tutorial-hell-188f)
 - [Dev.to/JS] [404 Page with React Router V6.4](https://dev.to/salehmubashar/404-page-with-react-router-v64-145j)
 - [Dev.to/JS] [Build a Real Time Leaderboard in Nuxt.js and Pink Design](https://dev.to/hackmamba/build-a-real-time-leaderboard-in-nuxtjs-and-pink-design-2k65)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn how Array.reduce&lpar;&rpar; works under the hood in JavaScript](https://dev.to/danities316/learn-how-arrayreduce-works-under-the-hood-in-javascript-4l51)
 - [Dev.to/JS] [Boost Performance and Responsiveness: Setting Time Limits on Async Actions in JavaScript](https://dev.to/danities316/boost-performance-and-responsiveness-setting-time-limits-on-async-actions-in-javascript-in7)
 - [Dev.to/JS] [Clean Code Principles for JavaScript and TypeScript Developers](https://dev.to/devland/clean-code-principles-for-javascript-and-typescript-developers-3kdn)
-- [Dev.to/JS] [Simplify if-else statements with Objects](https://dev.to/kenn-stack/simplify-if-else-statements-with-objects-3c1l)
-- [Dev.to/JS] [The fastest way to find closing brackets](https://dev.to/efpage/the-fastest-way-to-find-closing-brackets-1p7b)
-- [Dev.to/JS] [From NgRx ComponentStore to SignalStore: the key takeaways from my demo project](https://dev.to/this-is-angular/from-ngrx-componentstore-to-signalstore-the-key-takeaways-from-my-demo-project-38n3)
-- [Dev.to/JS] [React Micro Frontends: The Future of Frontend Development?](https://dev.to/himadripatelace/react-micro-frontends-the-future-of-frontend-development-23ge)
-- [Dev.to/JS] [How I built an event ticketing system with Next.js and Firebase](https://dev.to/arshadayvid/how-i-built-an-event-ticketing-system-with-nextjs-and-firebase-50l2)
 - [Lifehacker] [You Can Finally Fix Your Own Damn Pixel](https://lifehacker.com/you-can-finally-fix-your-own-damn-pixel-1850438646)
 - [Lifehacker] [Influencers Are Bad at Washing Produce](https://lifehacker.com/influencers-are-bad-at-washing-produce-1850438263)
 - [Lifehacker] [&#39;Perfect&#39; Posture Is Overrated](https://lifehacker.com/perfect-posture-is-overrated-1850438670)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It&#39;s Safe to Scan QR Codes &lpar;If You&#39;re Careful&rpar;](https://lifehacker.com/its-safe-to-scan-qr-codes-if-youre-careful-1850432586)
 - [Lifehacker] [If Mosquitoes Love You, Maybe Switch Soaps](https://lifehacker.com/if-mosquitoes-love-you-maybe-switch-soaps-1850433477)
 - [Lifehacker] [You Should Buffalo Your Popcorn](https://lifehacker.com/you-should-buffalo-your-popcorn-1850433286)
-- [Lifehacker] [This Orgeat Will Elevate Your At-Home Tiki Drinks](https://lifehacker.com/this-orgeat-will-elevate-your-at-home-tiki-drinks-1850358174)
-- [Lifehacker] [Five Questions You Should Ask Before Buying a House &#39;As Is&#39;](https://lifehacker.com/five-questions-you-should-ask-before-buying-a-house-as-1850432696)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Orgeat Will Elevate Your At-Home Tiki Drinks](https://lifehacker.com/this-orgeat-will-elevate-your-at-home-tiki-drinks-1850358174)<!-- TECH-POSTS:END -->
 
 ---
 
