@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [GM Is Recalling a Million SUVs Because the Airbags Might Explode and Kill You](https://lifehacker.com/gm-is-recalling-a-million-suvs-because-the-airbags-migh-1850442294)
+- [Lifehacker] [Make McFlurry-Style Treats in Your Stand Mixer](https://lifehacker.com/make-mcflurry-style-treats-in-your-stand-mixer-1850442158)
+- [Dev.to/JS] [Redux Toolkit VS Redux: State Management in React](https://dev.to/prateekbka/redux-toolkit-vs-redux-state-management-in-react-4mb8)
+- [Dev.to/JS] [Create active links using React Router V6](https://dev.to/salehmubashar/create-active-links-using-react-router-v6-2gle)
+- [Lifehacker] [Make This Cheat Sheet Before Applying for Scholarships](https://lifehacker.com/make-this-cheat-sheet-before-applying-for-scholarships-1850442034)
+- [Dev.to/JS] [Advanced React Optimization Techniques](https://dev.to/mohammadfaisal/advanced-react-optimization-techniques-39pj)
 - [Dev.to/JS] [Tabs In Vanilla JavaScript](https://dev.to/moek/tabs-in-vanilla-javascript-3abl)
 - [Lifehacker] [This Gerber Infant Formula Is Being Recalled &lpar;Again&rpar;](https://lifehacker.com/this-gerber-infant-formula-is-being-recalled-again-1850441988)
 - [Dev.to/JS] [The Ultimate Guide to JavaScript Array Methods! - The Beginners Guide To Javascript&lpar;Part 13&rpar;](https://dev.to/camskithedev/the-ultimate-guide-to-javascript-array-methods-the-beginners-guide-to-javascriptpart-13-2moj)
@@ -38,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Integrate Elxir Phoenix client with JS app.](https://dev.to/marknefedov/integrate-elxir-phoenix-client-with-js-app-352)
 - [Lifehacker] [Why You Should Stop Bringing Your Laptop to Class](https://lifehacker.com/why-you-should-stop-bringing-your-laptop-to-class-1850441339)
 - [Lifehacker] [You Can Build a Stunning Flower Wall for Your Home](https://lifehacker.com/you-can-build-a-stunning-flower-wall-for-your-home-1850439853)
-- [Dev.to/JS] [Microservice Architecture](https://dev.to/bibekshah09/microservice-architecture-3i7j)
-- [Dev.to/JS] [User Authentication And Authorization &lpar;Frontend Developer&rpar;](https://dev.to/kimslatech/user-authentication-and-authorization-frontend-developer-nm1)
-- [Dev.to/JS] [#2665: Counter II](https://dev.to/jd2r/2665-counter-ii-1c8g)
 - [Lifehacker] [You Should Install Real Drip Irrigation This Year](https://lifehacker.com/you-should-install-real-drip-irrigation-this-year-1850439190)
 - [Lifehacker] [How Much Personal Data Would You Give Up for a Free 4K TV?](https://lifehacker.com/how-much-personal-data-would-you-give-up-for-a-free-4k-1850439401)
 - [Lifehacker] [Treat Yourself to Sweet, Buttery Phyllo Chips](https://lifehacker.com/treat-yourself-to-sweet-buttery-phyllo-chips-1850439243)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Cure an Egg Yolk in Soy Sauce](https://lifehacker.com/you-should-cure-an-egg-yolk-in-soy-sauce-1850349485)
 - [Lifehacker] [Use This Tool to Get Cheaper Hotel Rates, Even After You Book](https://lifehacker.com/use-this-tool-to-get-cheaper-hotel-rates-even-after-yo-1850436690)
 - [Lifehacker] [You Should Turn Video Dates Into Speed Dating](https://lifehacker.com/you-should-turn-video-dates-into-speed-dating-1850355755)
-- [Lifehacker] [You Should Hand-Pollinate These Fruits and Veggies to Grow More](https://lifehacker.com/you-should-hand-pollinate-these-fruits-and-veggies-to-g-1850436492)
-- [Lifehacker] [Go From &#39;Shy Girl Workouts&#39; to Using the Whole Gym](https://lifehacker.com/go-from-shy-girl-workouts-to-using-the-whole-gym-1850433915)
-- [Lifehacker] [Is Your Child a Changeling?](https://lifehacker.com/is-your-child-a-changeling-1850433502)
-- [Lifehacker] [Season Your Food Gently With Sea Salt Spray](https://lifehacker.com/season-your-food-gently-with-sea-salt-spray-1850433630)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Hand-Pollinate These Fruits and Veggies to Grow More](https://lifehacker.com/you-should-hand-pollinate-these-fruits-and-veggies-to-g-1850436492)<!-- TECH-POSTS:END -->
 
 ---
 
