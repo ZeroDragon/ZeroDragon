@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [From NgRx ComponentStore to SignalStore: the key takeaways from my demo project](https://dev.to/this-is-angular/from-ngrx-componentstore-to-signalstore-the-key-takeaways-from-my-demo-project-38n3)
+- [Dev.to/JS] [React Micro Frontends: The Future of Frontend Development?](https://dev.to/himadripatelace/react-micro-frontends-the-future-of-frontend-development-23ge)
+- [Dev.to/JS] [How I built an event ticketing system with Next.js and Firebase](https://dev.to/arshadayvid/how-i-built-an-event-ticketing-system-with-nextjs-and-firebase-50l2)
+- [Dev.to/JS] [Tips for Javascript Programming](https://dev.to/naomiclarkson2/tips-for-javascript-programming-h1)
 - [Dev.to/JS] [React testing with Jest](https://dev.to/pedromarungo/react-testing-with-jest-491k)
 - [Dev.to/JS] [Solving the mystery: where are the promises in the Node.js event loop?](https://dev.to/mpotapov/solving-the-mystery-where-are-the-promises-in-the-nodejs-event-loop-207c)
 - [Dev.to/JS] [JavaScript Metaprogramming: Part 1 - Unleashing the Potential of the Reflect API](https://dev.to/katerinamykhailyk/javascript-metaprogramming-part-1-unleashing-the-potential-of-the-reflect-api-4lka)
@@ -33,14 +37,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Fix Your Own Damn Pixel](https://lifehacker.com/you-can-finally-fix-your-own-damn-pixel-1850438646)
 - [Dev.to/JS] [Deploy NFT Smart Contract without Solidity](https://dev.to/laurenmxv/deploy-nft-smart-contract-without-solidity-5do)
 - [Lifehacker] [Influencers Are Bad at Washing Produce](https://lifehacker.com/influencers-are-bad-at-washing-produce-1850438263)
-- [Dev.to/JS] [Part 2: Folder Structure - Building a Solid Foundation](https://dev.to/sathishskdev/part-2-folder-structure-building-a-solid-foundation-omh)
 - [Lifehacker] [&#39;Perfect&#39; Posture Is Overrated](https://lifehacker.com/perfect-posture-is-overrated-1850438670)
 - [Lifehacker] [Why Not Make Savory Pancakes?](https://lifehacker.com/why-not-make-savory-pancakes-1850438466)
 - [Lifehacker] [Ignore This Bad Financial Advice That’s Everywhere Online](https://lifehacker.com/ignore-this-bad-financial-advice-that-s-everywhere-onli-1850433576)
-- [Dev.to/JS] [How to build dynamic web apps by mastering the Document Object Model &lpar;DOM&rpar;.](https://dev.to/efkumah/how-to-build-dynamic-web-apps-by-mastering-the-document-object-model-dom-2mfm)
 - [Lifehacker] [Why You Should Actually Study Multiple Topics at the Same Time](https://lifehacker.com/why-you-should-actually-study-multiple-topics-at-the-sa-1850438252)
-- [Dev.to/JS] [Understanding Event Propagation in JavaScript](https://dev.to/samyak112/understanding-event-propagation-in-javascript-2l6j)
-- [Dev.to/JS] [Introducing PCER, A CLI Tool](https://dev.to/peterhdd/introducing-pcer-a-cli-tool-2cg7)
 - [Lifehacker] [When You Can Save Partially Spoiled Produce &lpar;and When to Throw It Away&rpar;](https://lifehacker.com/when-you-can-save-partially-spoiled-produce-and-when-t-1850437766)
 - [Lifehacker] [Make AI Do the Hard Parts of Spreadsheets for You](https://lifehacker.com/make-ai-do-the-hard-parts-of-spreadsheets-for-you-1850437863)
 - [Lifehacker] [How to Disarm a Love-Bomber](https://lifehacker.com/how-to-disarm-a-love-bomber-1850355747)
