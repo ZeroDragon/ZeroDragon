@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Integrate Elxir Phoenix client with JS app.](https://dev.to/marknefedov/integrate-elxir-phoenix-client-with-js-app-352)
+- [Lifehacker] [Why You Should Stop Bringing Your Laptop to Class](https://lifehacker.com/why-you-should-stop-bringing-your-laptop-to-class-1850441339)
 - [Lifehacker] [You Can Build a Stunning Flower Wall for Your Home](https://lifehacker.com/you-can-build-a-stunning-flower-wall-for-your-home-1850439853)
 - [Dev.to/JS] [Microservice Architecture](https://dev.to/bibekshah09/microservice-architecture-3i7j)
 - [Dev.to/JS] [User Authentication And Authorization &lpar;Frontend Developer&rpar;](https://dev.to/kimslatech/user-authentication-and-authorization-frontend-developer-nm1)
@@ -32,7 +34,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#2620: Counter](https://dev.to/jd2r/2620-counter-1c4p)
 - [Dev.to/JS] [Bringing custom domains back to Glitch and bots to Bluesky 🤖🌤️](https://dev.to/glitch/bringing-custom-domains-back-to-glitch-and-bots-to-bluesky-2lej)
 - [Dev.to/JS] [Farewell to Redux、Recoil、MobX、Zustand、Jotai and Valtio, another way of state management?](https://dev.to/licg9999/farewell-to-redux-recoil-mobx-zustand-jotai-and-valtio-another-way-of-state-management-530f)
-- [Dev.to/JS] [Introducing Toaster-UI: A Lightweight Toast Notification](https://dev.to/murtazajooo/introducing-toaster-ui-a-lightweight-toast-notification-9mm)
+- [Dev.to/JS] [Toasts in vanilla 😋-Toaster Ui](https://dev.to/murtazajooo/introducing-toaster-ui-a-lightweight-toast-notification-9mm)
 - [Dev.to/JS] [#2667: Create Hello World Function](https://dev.to/jd2r/2667-create-hello-world-function-50ho)
 - [Lifehacker] [How Much Personal Data Would You Give Up for a Free 4K TV?](https://lifehacker.com/how-much-personal-data-would-you-give-up-for-a-free-4k-1850439401)
 - [Lifehacker] [Treat Yourself to Sweet, Buttery Phyllo Chips](https://lifehacker.com/treat-yourself-to-sweet-buttery-phyllo-chips-1850439243)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Psych Yourself Up Without Feeling Cringe](https://lifehacker.com/how-to-psych-yourself-up-without-feeling-cringe-1850439173)
 - [Dev.to/JS] [How Top Enterprises Embrace Blockchain Technology to Improve Their Business Operation](https://dev.to/cooper_91/how-top-enterprises-embrace-blockchain-technology-to-improve-their-business-operation-p2c)
 - [Lifehacker] [Why ‘Lazy Geniuses’ Ask Themselves This Question](https://lifehacker.com/why-lazy-geniuses-ask-themselves-this-question-1850438866)
-- [Dev.to/JS] [Progressive Web Apps](https://dev.to/anuradha9712/progressive-web-apps-1dd9)
 - [Lifehacker] [The Best Thing to Do With Milk That’s Past Its Prime](https://lifehacker.com/the-best-thing-to-do-with-milk-that-s-past-its-prime-1850433979)
 - [Lifehacker] [You Can Finally Fix Your Own Damn Pixel](https://lifehacker.com/you-can-finally-fix-your-own-damn-pixel-1850438646)
 - [Lifehacker] [Influencers Are Bad at Washing Produce](https://lifehacker.com/influencers-are-bad-at-washing-produce-1850438263)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Hack Your SodaStream for Cheaper, Better Tasting Bubbles](https://lifehacker.com/hack-your-sodastream-for-cheaper-better-tasting-bubble-1850433639)
 - [Lifehacker] [How to Tell If You Have Lead Pipes](https://lifehacker.com/how-to-tell-if-you-have-lead-pipes-1850426827)
 - [Lifehacker] [A &#39;National Housing Market&#39; Doesn&#39;t Exist &lpar;and Why That Matters&rpar;](https://lifehacker.com/a-national-housing-market-doesnt-exist-and-why-that-ma-1850426808)
-- [Lifehacker] [What Your Weeds Are Telling You About Your Soil](https://lifehacker.com/what-your-weeds-are-telling-you-about-your-soil-1850426794)
-- [Lifehacker] [Never Put These Things Down Any Drain in Your Home](https://lifehacker.com/never-put-these-things-down-any-drain-in-your-home-1850426969)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Your Weeds Are Telling You About Your Soil](https://lifehacker.com/what-your-weeds-are-telling-you-about-your-soil-1850426794)<!-- TECH-POSTS:END -->
 
 ---
 
