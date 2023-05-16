@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Breaking out of tutorial hell](https://dev.to/wheresryan/breaking-out-of-tutorial-hell-188f)
+- [Dev.to/JS] [404 Page with React Router V6.4](https://dev.to/salehmubashar/404-page-with-react-router-v64-145j)
 - [Dev.to/JS] [Build a Real Time Leaderboard in Nuxt.js and Pink Design](https://dev.to/hackmamba/build-a-real-time-leaderboard-in-nuxtjs-and-pink-design-2k65)
 - [Dev.to/JS] [Learning For Loop In Javascript](https://dev.to/danities316/learning-for-loop-in-javascript-1mbk)
 - [Dev.to/JS] [Learn how Array.reduce&lpar;&rpar; works under the hood in JavaScript](https://dev.to/danities316/learn-how-arrayreduce-works-under-the-hood-in-javascript-4l51)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From NgRx ComponentStore to SignalStore: the key takeaways from my demo project](https://dev.to/this-is-angular/from-ngrx-componentstore-to-signalstore-the-key-takeaways-from-my-demo-project-38n3)
 - [Dev.to/JS] [React Micro Frontends: The Future of Frontend Development?](https://dev.to/himadripatelace/react-micro-frontends-the-future-of-frontend-development-23ge)
 - [Dev.to/JS] [How I built an event ticketing system with Next.js and Firebase](https://dev.to/arshadayvid/how-i-built-an-event-ticketing-system-with-nextjs-and-firebase-50l2)
-- [Dev.to/JS] [Tips for Javascript Programming](https://dev.to/naomiclarkson2/tips-for-javascript-programming-h1)
-- [Dev.to/JS] [React testing with Jest](https://dev.to/pedromarungo/react-testing-with-jest-491k)
 - [Lifehacker] [You Can Finally Fix Your Own Damn Pixel](https://lifehacker.com/you-can-finally-fix-your-own-damn-pixel-1850438646)
 - [Lifehacker] [Influencers Are Bad at Washing Produce](https://lifehacker.com/influencers-are-bad-at-washing-produce-1850438263)
 - [Lifehacker] [&#39;Perfect&#39; Posture Is Overrated](https://lifehacker.com/perfect-posture-is-overrated-1850438670)
