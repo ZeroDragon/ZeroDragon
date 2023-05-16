@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 5 extensões no visual studio code para quem trabalha no front-end](https://dev.to/vuedavi/top-5-extensoes-no-visual-studio-code-para-quem-trabalha-no-front-end-29pm)
+- [Lifehacker] [Use This Loophole to Get a $7,500 Tax Credit on Almost Any Electric Car](https://lifehacker.com/use-this-loophole-to-get-a-7-500-tax-credit-on-almost-1850442859)
+- [Dev.to/JS] [Cool Closure things! &lpar;part 1&rpar;](https://dev.to/mohamedelshazly/cool-closure-things-part-1-372k)
 - [Lifehacker] [Overclock Your Switch to Make ‘Tears of the Kingdom’ Run Better](https://lifehacker.com/overclock-your-switch-to-make-tears-of-the-kingdom-ru-1850442406)
 - [Dev.to/JS] [Journey to Front-End Web Development](https://dev.to/bealecs/journey-to-front-end-web-development-333l)
 - [Lifehacker] [Use This Gesture to Take an iPhone Video Without Pausing Your Music](https://lifehacker.com/use-this-gesture-to-take-an-iphone-video-without-pausin-1850442739)
@@ -41,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unleashing the Power of WebAssembly in Modern Web Development](https://dev.to/thewritingdev/unleashing-the-power-of-webassembly-in-modern-web-development-1h8h)
 - [Lifehacker] [How to Lock Your Secrets in WhatsApp](https://lifehacker.com/use-whatsapp-s-chat-lock-feature-to-hide-your-sexts-1850440924)
 - [Dev.to/JS] [tt - Natural Language CLI Time Tracker](https://dev.to/f3rno64/tt-natural-language-cli-time-tracker-2i0m)
-- [Dev.to/JS] [UseParam&lpar;&rpar;](https://dev.to/rrmm/useparam-2gpj)
-- [Dev.to/JS] [Reload other tabs with a value change in current tab](https://dev.to/vinayveerappaji/reload-other-tabs-with-a-value-change-in-current-tab-128b)
 - [Lifehacker] [Waffle Some Eggplant for a Charred Treat](https://lifehacker.com/waffle-some-eggplant-for-a-charred-treat-1850439754)
 - [Lifehacker] [Why You Should Stop Bringing Your Laptop to Class](https://lifehacker.com/why-you-should-stop-bringing-your-laptop-to-class-1850441339)
 - [Lifehacker] [You Can Build a Stunning Flower Wall for Your Home](https://lifehacker.com/you-can-build-a-stunning-flower-wall-for-your-home-1850439853)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When You Can Save Partially Spoiled Produce &lpar;and When to Throw It Away&rpar;](https://lifehacker.com/when-you-can-save-partially-spoiled-produce-and-when-t-1850437766)
 - [Lifehacker] [Make AI Do the Hard Parts of Spreadsheets for You](https://lifehacker.com/make-ai-do-the-hard-parts-of-spreadsheets-for-you-1850437863)
 - [Lifehacker] [How to Disarm a Love-Bomber](https://lifehacker.com/how-to-disarm-a-love-bomber-1850355747)
-- [Lifehacker] [You Should Cure an Egg Yolk in Soy Sauce](https://lifehacker.com/you-should-cure-an-egg-yolk-in-soy-sauce-1850349485)
-- [Lifehacker] [Use This Tool to Get Cheaper Hotel Rates, Even After You Book](https://lifehacker.com/use-this-tool-to-get-cheaper-hotel-rates-even-after-yo-1850436690)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Cure an Egg Yolk in Soy Sauce](https://lifehacker.com/you-should-cure-an-egg-yolk-in-soy-sauce-1850349485)<!-- TECH-POSTS:END -->
 
 ---
 
