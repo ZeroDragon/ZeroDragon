@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Rounded Solution to Image Handling on the OpenSauced Dashboard](https://dev.to/opensauced/a-rounded-solution-to-image-handling-on-the-opensauced-dashboard-4n34)
+- [Lifehacker] [What&#39;s New on Disney+ in June 2023](https://lifehacker.com/whats-new-on-disney-in-june-2023-1850447629)
+- [Dev.to/JS] [How to Integrate Budpay in Node.js: A Comprehensive Guide](https://dev.to/folasayosamuel/how-to-integrate-budpay-in-nodejs-a-comprehensive-guide-1gmp)
+- [Dev.to/JS] [React Performance Optimization : Lazy Loading and Code Splitting](https://dev.to/kawanedres/react-performance-optimization-lazy-loading-and-code-splitting-1f8b)
 - [Dev.to/JS] [Greeting 😛](https://dev.to/ashcript/greeting-36h)
 - [Lifehacker] [When to Avoid Cleaning With Hot Water](https://lifehacker.com/when-to-avoid-cleaning-with-hot-water-1850447208)
 - [Dev.to/JS] [Learning About JavaScript Functions](https://dev.to/reecec/learning-about-javascript-functions-3591)
@@ -40,11 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Add Artichoke Marinade to a Batch of Rice](https://lifehacker.com/you-should-add-artichoke-marinade-to-a-batch-of-rice-1850443597)
 - [Dev.to/JS] [Create Minimal Simple Login form Design from Figma to React JS code](https://dev.to/ziontutorial/create-minimal-simple-login-form-design-from-figma-to-react-js-code-52bp)
 - [Lifehacker] [ChatGPT Plus Has Two Huge New Features You Can Try Right Now](https://lifehacker.com/chatgpt-plus-has-two-huge-new-features-you-can-try-righ-1850445533)
-- [Dev.to/JS] [Modern database workflows with GitHub, Vercel, Netlify, and Xata](https://dev.to/xata/modern-database-workflows-with-github-vercel-netlify-and-xata-4ik3)
 - [Lifehacker] [The Longest You Should Hoard Your Travel Points](https://lifehacker.com/the-longest-you-should-hoard-your-travel-points-1850374283)
 - [Lifehacker] [Use the ‘One-Touch’ Rule to Manage Your Inbox](https://lifehacker.com/use-the-one-touch-rule-to-manage-your-inbox-1850445344)
-- [Dev.to/JS] [Best React Scheduler Component Libraries](https://dev.to/scofieldidehen/best-react-scheduler-component-libraries-400o)
-- [Dev.to/JS] [How to Run Cypress Tests in Parallel in Github Actions](https://dev.to/pthapa1/how-to-run-cypress-tests-in-parallel-in-github-actions-40pj)
 - [Lifehacker] [Ask Yourself These Three Questions to Avoid Regretting a Purchase](https://lifehacker.com/ask-yourself-these-three-questions-to-avoid-regretting-1850445379)
 - [Lifehacker] [Where to Get a Rebate for Your Home’s New Windows](https://lifehacker.com/where-to-get-a-rebate-for-your-home-s-new-windows-1850444011)
 - [Lifehacker] [This Site Teaches You How to Build Weird Crap in ‘Zelda: Tears of the Kingdom’](https://lifehacker.com/this-site-teaches-you-how-to-build-weird-shit-in-tears-1850443594)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s What You Can Actually Learn From Meal Kits](https://lifehacker.com/here-s-what-you-can-actually-learn-from-meal-kits-1850441519)
 - [Lifehacker] [How to Lock Your Secrets in WhatsApp](https://lifehacker.com/use-whatsapp-s-chat-lock-feature-to-hide-your-sexts-1850440924)
 - [Lifehacker] [Waffle Some Eggplant for a Charred Treat](https://lifehacker.com/waffle-some-eggplant-for-a-charred-treat-1850439754)
-- [Lifehacker] [Why You Should Stop Bringing Your Laptop to Class](https://lifehacker.com/why-you-should-stop-bringing-your-laptop-to-class-1850441339)
-- [Lifehacker] [You Can Build a Stunning Flower Wall for Your Home](https://lifehacker.com/you-can-build-a-stunning-flower-wall-for-your-home-1850439853)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Stop Bringing Your Laptop to Class](https://lifehacker.com/why-you-should-stop-bringing-your-laptop-to-class-1850441339)<!-- TECH-POSTS:END -->
 
 ---
 
