@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [ChatGPT Plus Has Two Huge New Features You Can Try Right Now](https://lifehacker.com/chatgpt-plus-has-two-huge-new-features-you-can-try-righ-1850445533)
+- [Dev.to/JS] [Modern database workflows with GitHub, Vercel, Netlify, and Xata](https://dev.to/xata/modern-database-workflows-with-github-vercel-netlify-and-xata-4ik3)
+- [Lifehacker] [The Longest You Should Hoard Your Travel Points](https://lifehacker.com/the-longest-you-should-hoard-your-travel-points-1850374283)
 - [Lifehacker] [Use the ‘One-Touch’ Rule to Manage Your Inbox](https://lifehacker.com/use-the-one-touch-rule-to-manage-your-inbox-1850445344)
 - [Dev.to/JS] [Best React Scheduler Component Libraries](https://dev.to/scofieldidehen/best-react-scheduler-component-libraries-400o)
 - [Dev.to/JS] [How to Run Cypress Tests in Parallel in Github Actions](https://dev.to/pthapa1/how-to-run-cypress-tests-in-parallel-in-github-actions-40pj)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Date Picker in Selenium using JavaScript](https://dev.to/lambdatest/how-to-use-date-picker-in-selenium-using-javascript-4mbl)
 - [Dev.to/JS] [path mapping in JavaScript](https://dev.to/mohamedhashemx/path-mapping-in-javascript-17f3)
 - [Dev.to/JS] [JavaScript Wonderland](https://dev.to/brittanyhurthead/javascript-wonderland-1im1)
-- [Dev.to/JS] [React Native + Redux Tool kit + AsyncStorage](https://dev.to/shreyvijayvargiya/react-native-redux-tool-kit-asyncstorage-210e)
 - [Lifehacker] [Use This Loophole to Get a $7,500 Tax Credit on Almost Any Electric Car](https://lifehacker.com/use-this-loophole-to-get-a-7-500-tax-credit-on-almost-1850442859)
 - [Lifehacker] [Overclock Your Switch to Make ‘Tears of the Kingdom’ Run Better](https://lifehacker.com/overclock-your-switch-to-make-tears-of-the-kingdom-ru-1850442406)
 - [Lifehacker] [Use This Gesture to Take an iPhone Video Without Pausing Your Music](https://lifehacker.com/use-this-gesture-to-take-an-iphone-video-without-pausin-1850442739)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Psych Yourself Up Without Feeling Cringe](https://lifehacker.com/how-to-psych-yourself-up-without-feeling-cringe-1850439173)
 - [Lifehacker] [Why ‘Lazy Geniuses’ Ask Themselves This Question](https://lifehacker.com/why-lazy-geniuses-ask-themselves-this-question-1850438866)
 - [Lifehacker] [The Best Thing to Do With Milk That’s Past Its Prime](https://lifehacker.com/the-best-thing-to-do-with-milk-that-s-past-its-prime-1850433979)
-- [Lifehacker] [You Can Finally Fix Your Own Damn Pixel](https://lifehacker.com/you-can-finally-fix-your-own-damn-pixel-1850438646)
-- [Lifehacker] [Influencers Are Bad at Washing Produce](https://lifehacker.com/influencers-are-bad-at-washing-produce-1850438263)
-- [Lifehacker] [&#39;Perfect&#39; Posture Is Overrated](https://lifehacker.com/perfect-posture-is-overrated-1850438670)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Finally Fix Your Own Damn Pixel](https://lifehacker.com/you-can-finally-fix-your-own-damn-pixel-1850438646)<!-- TECH-POSTS:END -->
 
 ---
 
