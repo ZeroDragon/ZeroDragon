@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Best Backend-for-Frontend Tools You Should Be Using](https://dev.to/wundergraph/5-best-backend-for-frontend-tools-you-should-be-using-fah)
+- [Lifehacker] [When You Should Consider Buying a Fixer-Upper &lpar;and When You Definitely Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-consider-buying-a-fixer-upper-and-when-1850441036)
+- [Dev.to/JS] [React top latest feature](https://dev.to/pdhavalm/react-top-latest-feature-17oo)
+- [Dev.to/JS] [How to use Date Picker in Selenium using JavaScript](https://dev.to/lambdatest/how-to-use-date-picker-in-selenium-using-javascript-4mbl)
+- [Dev.to/JS] [path mapping in JavaScript](https://dev.to/mohamedhashemx/path-mapping-in-javascript-17f3)
+- [Dev.to/JS] [JavaScript Wonderland](https://dev.to/brittanyhurthead/javascript-wonderland-1im1)
 - [Dev.to/JS] [React Native + Redux Tool kit + AsyncStorage](https://dev.to/shreyvijayvargiya/react-native-redux-tool-kit-asyncstorage-210e)
 - [Dev.to/JS] [Streamlining Sales With The Power of Sales Force Automation](https://dev.to/datarecove95829/streamlining-sales-with-the-power-of-sales-force-automation-ah9)
 - [Dev.to/JS] [Comparing Mutation Event and Mutation Observer: The Evolution of DOM Modification Monitoring](https://dev.to/elvisans/comparing-mutation-event-and-mutation-observer-the-evolution-of-dom-modification-monitoring-4boo)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Developers Guide to Passwordless Authentication.](https://dev.to/judynduati/developers-guide-to-passwordless-authentication-5co)
 - [Dev.to/JS] [Create a simple web server in Node.js using Express](https://dev.to/donymvarkey/create-a-simple-web-server-in-nodejs-using-express-1f5n)
 - [Dev.to/JS] [Serverful vs Serverless: Which One is Right for Your Needs?](https://dev.to/nitinfab/serverful-vs-serverless-which-one-is-right-for-your-needs-23mh)
-- [Dev.to/JS] [What&#39;s the difference?](https://dev.to/jah_edw/whats-the-difference-4f38)
-- [Dev.to/JS] [Scaffolding a Vue 3 project using create-vue ⚡️](https://dev.to/dvalin99/scaffolding-a-vue-3-project-using-create-vue-32k1)
-- [Dev.to/JS] [How I Sliced JS Apps Deployment Times to a Fraction](https://dev.to/maxprilutskiy/how-i-sliced-deployment-times-to-a-fraction-and-achieved-lightning-fast-deployments-to-production-with-github-actions-4ifi)
-- [Dev.to/JS] [&#39;VS Code Profiles - Know what profile you are using, no bloody mystery](https://dev.to/robole/vs-code-profiles-know-what-profile-you-are-using-no-bloody-mystery-26ii)
-- [Dev.to/JS] [[vite plugin]Enhance the readability of console.log&lpar;&rpar;](https://dev.to/yuyinws/vite-pluginenhance-the-readability-of-consolelog-3cc9)
 - [Lifehacker] [Use This Loophole to Get a $7,500 Tax Credit on Almost Any Electric Car](https://lifehacker.com/use-this-loophole-to-get-a-7-500-tax-credit-on-almost-1850442859)
 - [Lifehacker] [Overclock Your Switch to Make ‘Tears of the Kingdom’ Run Better](https://lifehacker.com/overclock-your-switch-to-make-tears-of-the-kingdom-ru-1850442406)
 - [Lifehacker] [Use This Gesture to Take an iPhone Video Without Pausing Your Music](https://lifehacker.com/use-this-gesture-to-take-an-iphone-video-without-pausin-1850442739)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Actually Study Multiple Topics at the Same Time](https://lifehacker.com/why-you-should-actually-study-multiple-topics-at-the-sa-1850438252)
 - [Lifehacker] [When You Can Save Partially Spoiled Produce &lpar;and When to Throw It Away&rpar;](https://lifehacker.com/when-you-can-save-partially-spoiled-produce-and-when-t-1850437766)
 - [Lifehacker] [Make AI Do the Hard Parts of Spreadsheets for You](https://lifehacker.com/make-ai-do-the-hard-parts-of-spreadsheets-for-you-1850437863)
-- [Lifehacker] [How to Disarm a Love-Bomber](https://lifehacker.com/how-to-disarm-a-love-bomber-1850355747)
-- [Lifehacker] [You Should Cure an Egg Yolk in Soy Sauce](https://lifehacker.com/you-should-cure-an-egg-yolk-in-soy-sauce-1850349485)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Disarm a Love-Bomber](https://lifehacker.com/how-to-disarm-a-love-bomber-1850355747)<!-- TECH-POSTS:END -->
 
 ---
 
