@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Running a local multi-framework composition Storybook](https://dev.to/scottnath/running-a-local-multi-framework-composition-storybook-506l)
+- [Dev.to/JS] [problem 3:](https://dev.to/karrey/problem-3-43ed)
 - [Dev.to/JS] [A Rounded Solution to Image Handling on the OpenSauced Dashboard](https://dev.to/opensauced/a-rounded-solution-to-image-handling-on-the-opensauced-dashboard-4n34)
 - [Lifehacker] [What&#39;s New on Disney+ in June 2023](https://lifehacker.com/whats-new-on-disney-in-june-2023-1850447629)
 - [Dev.to/JS] [How to Integrate Budpay in Node.js: A Comprehensive Guide](https://dev.to/folasayosamuel/how-to-integrate-budpay-in-nodejs-a-comprehensive-guide-1gmp)
@@ -40,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Lessons That Helped Me Grow As A Developer](https://dev.to/mohammadfaisal/10-lessons-that-helped-me-grow-as-a-developer-5e41)
 - [Lifehacker] [What to Do If You Have More Than $5,000 in Your Checking Account](https://lifehacker.com/what-to-do-if-you-have-more-than-5-000-in-your-checkin-1850441473)
 - [Dev.to/JS] [10 New free Tailwind and Alpine.js blocks added on Windstatic](https://dev.to/mike_andreuzza/10-new-free-tailwind-and-alpinejsblocks-added-on-windstatic-5dpl)
-- [Dev.to/JS] [Expanding Horizons: New Endpoints, UI Revamp, and Pokémon Evolution in Pokémouille](https://dev.to/vaalley/expanding-horizons-new-endpoints-ui-revamp-and-pokemon-evolution-in-pokemouille-10hh)
 - [Lifehacker] [You Should Add Artichoke Marinade to a Batch of Rice](https://lifehacker.com/you-should-add-artichoke-marinade-to-a-batch-of-rice-1850443597)
-- [Dev.to/JS] [Create Minimal Simple Login form Design from Figma to React JS code](https://dev.to/ziontutorial/create-minimal-simple-login-form-design-from-figma-to-react-js-code-52bp)
 - [Lifehacker] [ChatGPT Plus Has Two Huge New Features You Can Try Right Now](https://lifehacker.com/chatgpt-plus-has-two-huge-new-features-you-can-try-righ-1850445533)
 - [Lifehacker] [The Longest You Should Hoard Your Travel Points](https://lifehacker.com/the-longest-you-should-hoard-your-travel-points-1850374283)
 - [Lifehacker] [Use the ‘One-Touch’ Rule to Manage Your Inbox](https://lifehacker.com/use-the-one-touch-rule-to-manage-your-inbox-1850445344)
