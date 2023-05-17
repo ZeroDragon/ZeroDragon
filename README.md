@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Get These Life-Saving Certifications Online for Free](https://lifehacker.com/get-these-life-saving-certifications-online-for-free-1850446551)
+- [Dev.to/JS] [Pure React vs Next.js](https://dev.to/safak/pure-react-vs-nextjs-1flk)
 - [Dev.to/JS] [10 Lessons That Helped Me Grow As A Developer](https://dev.to/mohammadfaisal/10-lessons-that-helped-me-grow-as-a-developer-5e41)
+- [Lifehacker] [What to Do If You Have More Than $5,000 in Your Checking Account](https://lifehacker.com/what-to-do-if-you-have-more-than-5-000-in-your-checkin-1850441473)
 - [Dev.to/JS] [10 New free Tailwind and Alpine.js blocks added on Windstatic](https://dev.to/mike_andreuzza/10-new-free-tailwind-and-alpinejsblocks-added-on-windstatic-5dpl)
 - [Dev.to/JS] [Expanding Horizons: New Endpoints, UI Revamp, and Pokémon Evolution in Pokémouille](https://dev.to/vaalley/expanding-horizons-new-endpoints-ui-revamp-and-pokemon-evolution-in-pokemouille-10hh)
 - [Lifehacker] [You Should Add Artichoke Marinade to a Batch of Rice](https://lifehacker.com/you-should-add-artichoke-marinade-to-a-batch-of-rice-1850443597)
@@ -44,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array-Driver](https://dev.to/junaidofficialnow/array-driver-491f)
 - [Dev.to/JS] [5 Best Backend-for-Frontend Tools You Should Be Using](https://dev.to/slickstef11/5-best-backend-for-frontend-tools-you-should-be-using-fah)
 - [Lifehacker] [When You Should Consider Buying a Fixer-Upper &lpar;and When You Definitely Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-consider-buying-a-fixer-upper-and-when-1850441036)
-- [Dev.to/JS] [The Navigator Clipboard API in JavaScript](https://dev.to/darkmavis1980/the-navigator-clipboard-api-in-javascript-38gn)
 - [Lifehacker] [Use This Loophole to Get a $7,500 Tax Credit on Almost Any Electric Car](https://lifehacker.com/use-this-loophole-to-get-a-7-500-tax-credit-on-almost-1850442859)
 - [Lifehacker] [Overclock Your Switch to Make ‘Tears of the Kingdom’ Run Better](https://lifehacker.com/overclock-your-switch-to-make-tears-of-the-kingdom-ru-1850442406)
 - [Lifehacker] [Use This Gesture to Take an iPhone Video Without Pausing Your Music](https://lifehacker.com/use-this-gesture-to-take-an-iphone-video-without-pausin-1850442739)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Install Real Drip Irrigation This Year](https://lifehacker.com/you-should-install-real-drip-irrigation-this-year-1850439190)
 - [Lifehacker] [How Much Personal Data Would You Give Up for a Free 4K TV?](https://lifehacker.com/how-much-personal-data-would-you-give-up-for-a-free-4k-1850439401)
 - [Lifehacker] [Treat Yourself to Sweet, Buttery Phyllo Chips](https://lifehacker.com/treat-yourself-to-sweet-buttery-phyllo-chips-1850439243)
-- [Lifehacker] [How to Psych Yourself Up Without Feeling Cringe](https://lifehacker.com/how-to-psych-yourself-up-without-feeling-cringe-1850439173)
-- [Lifehacker] [Why ‘Lazy Geniuses’ Ask Themselves This Question](https://lifehacker.com/why-lazy-geniuses-ask-themselves-this-question-1850438866)
-- [Lifehacker] [The Best Thing to Do With Milk That’s Past Its Prime](https://lifehacker.com/the-best-thing-to-do-with-milk-that-s-past-its-prime-1850433979)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Psych Yourself Up Without Feeling Cringe](https://lifehacker.com/how-to-psych-yourself-up-without-feeling-cringe-1850439173)<!-- TECH-POSTS:END -->
 
 ---
 
