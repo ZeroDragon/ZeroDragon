@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring Promise Pools: Managing Async Tasks Like a Pro!](https://dev.to/danities316/exploring-promise-pools-managing-async-tasks-like-a-pro-5789)
+- [Dev.to/JS] [Javascript para iniciantes: Buscando dados de uma API](https://dev.to/vuedavi/javascript-para-iniciantes-buscando-dados-de-uma-api-1j7a)
+- [Dev.to/JS] [Invoice Generation Web App](https://dev.to/jaldo1980/invoice-generation-web-app-25d1)
 - [Dev.to/JS] [Successfully Integrating Google OAuth 2.0](https://dev.to/arashjangali/successfully-integrating-google-oauth-20-33dl)
 - [Dev.to/JS] [JavaScript Fundamentals: Type Coercion and Strict Equality Explained](https://dev.to/bolouie/javascript-fundamentals-type-coercion-and-strict-equality-explained-2emh)
 - [Dev.to/JS] [A Comprehensive Overview of Embeddings in LangChain](https://dev.to/mikeyoung44/a-comprehensive-overview-of-embeddings-in-langchain-2anm)
@@ -34,12 +37,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Loophole to Get a $7,500 Tax Credit on Almost Any Electric Car](https://lifehacker.com/use-this-loophole-to-get-a-7-500-tax-credit-on-almost-1850442859)
 - [Dev.to/JS] [Cool Closure things! &lpar;part 1&rpar;](https://dev.to/mohamedelshazly/cool-closure-things-part-1-372k)
 - [Lifehacker] [Overclock Your Switch to Make ‘Tears of the Kingdom’ Run Better](https://lifehacker.com/overclock-your-switch-to-make-tears-of-the-kingdom-ru-1850442406)
-- [Dev.to/JS] [Journey to Front-End Web Development](https://dev.to/bealecs/journey-to-front-end-web-development-333l)
 - [Lifehacker] [Use This Gesture to Take an iPhone Video Without Pausing Your Music](https://lifehacker.com/use-this-gesture-to-take-an-iphone-video-without-pausin-1850442739)
 - [Lifehacker] [GM Is Recalling a Million SUVs Because the Airbags Might Explode and Kill You](https://lifehacker.com/gm-is-recalling-a-million-suvs-because-the-airbags-migh-1850442294)
 - [Lifehacker] [Make McFlurry-Style Treats in Your Stand Mixer](https://lifehacker.com/make-mcflurry-style-treats-in-your-stand-mixer-1850442158)
-- [Dev.to/JS] [Redux Toolkit VS Redux: State Management in React](https://dev.to/prateekbka/redux-toolkit-vs-redux-state-management-in-react-4mb8)
-- [Dev.to/JS] [Create active links using React Router V6](https://dev.to/salehmubashar/create-active-links-using-react-router-v6-2gle)
 - [Lifehacker] [Make This Cheat Sheet Before Applying for Scholarships](https://lifehacker.com/make-this-cheat-sheet-before-applying-for-scholarships-1850442034)
 - [Lifehacker] [This Gerber Infant Formula Is Being Recalled &lpar;Again&rpar;](https://lifehacker.com/this-gerber-infant-formula-is-being-recalled-again-1850441988)
 - [Lifehacker] [Here’s What You Can Actually Learn From Meal Kits](https://lifehacker.com/here-s-what-you-can-actually-learn-from-meal-kits-1850441519)
