@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node.js Crypto Trading For Beginners](https://dev.to/vasile_peste/nodejs-crypto-trading-for-beginners-2pn1)
+- [Dev.to/JS] [Mastering the 5 SOLID Principles in Software Engineering.](https://dev.to/iflames_1/mastering-the-5-solid-principles-in-software-engineering-2fn8)
 - [Dev.to/JS] [Essential JavaScript before diving into React](https://dev.to/zamuhajji/essential-javascript-before-diving-into-react-38c3)
 - [Dev.to/JS] [Vue 3.3: Generic Types and when to use them](https://dev.to/vincentdorian/vue-33-generic-types-and-when-to-use-them-5egn)
 - [Dev.to/JS] [Top 5 extensões no visual studio code para quem trabalha no front-end](https://dev.to/vuedavi/top-5-extensoes-no-visual-studio-code-para-quem-trabalha-no-front-end-29pm)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Gerber Infant Formula Is Being Recalled &lpar;Again&rpar;](https://lifehacker.com/this-gerber-infant-formula-is-being-recalled-again-1850441988)
 - [Dev.to/JS] [The Ultimate Guide to JavaScript Array Methods! - The Beginners Guide To Javascript&lpar;Part 13&rpar;](https://dev.to/camskithedev/the-ultimate-guide-to-javascript-array-methods-the-beginners-guide-to-javascriptpart-13-2moj)
 - [Lifehacker] [Here’s What You Can Actually Learn From Meal Kits](https://lifehacker.com/here-s-what-you-can-actually-learn-from-meal-kits-1850441519)
-- [Dev.to/JS] [CSS-in-JS: Why is this bad?](https://dev.to/xantregodlike/css-in-js-why-is-this-bad-36cn)
-- [Dev.to/JS] [Leveraging Currying to Optimize React](https://dev.to/vinayveerappaji/leveraging-currying-to-optimize-react-koa)
 - [Lifehacker] [How to Lock Your Secrets in WhatsApp](https://lifehacker.com/use-whatsapp-s-chat-lock-feature-to-hide-your-sexts-1850440924)
 - [Lifehacker] [Waffle Some Eggplant for a Charred Treat](https://lifehacker.com/waffle-some-eggplant-for-a-charred-treat-1850439754)
 - [Lifehacker] [Why You Should Stop Bringing Your Laptop to Class](https://lifehacker.com/why-you-should-stop-bringing-your-laptop-to-class-1850441339)
