@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Lessons That Helped Me Grow As A Developer](https://dev.to/mohammadfaisal/10-lessons-that-helped-me-grow-as-a-developer-5e41)
+- [Dev.to/JS] [10 New free Tailwind and Alpine.js blocks added on Windstatic](https://dev.to/mike_andreuzza/10-new-free-tailwind-and-alpinejsblocks-added-on-windstatic-5dpl)
+- [Dev.to/JS] [Expanding Horizons: New Endpoints, UI Revamp, and Pokémon Evolution in Pokémouille](https://dev.to/vaalley/expanding-horizons-new-endpoints-ui-revamp-and-pokemon-evolution-in-pokemouille-10hh)
+- [Lifehacker] [You Should Add Artichoke Marinade to a Batch of Rice](https://lifehacker.com/you-should-add-artichoke-marinade-to-a-batch-of-rice-1850443597)
+- [Dev.to/JS] [Create Minimal Simple Login form Design from Figma to React JS code](https://dev.to/ziontutorial/create-minimal-simple-login-form-design-from-figma-to-react-js-code-52bp)
 - [Lifehacker] [ChatGPT Plus Has Two Huge New Features You Can Try Right Now](https://lifehacker.com/chatgpt-plus-has-two-huge-new-features-you-can-try-righ-1850445533)
 - [Dev.to/JS] [Modern database workflows with GitHub, Vercel, Netlify, and Xata](https://dev.to/xata/modern-database-workflows-with-github-vercel-netlify-and-xata-4ik3)
 - [Lifehacker] [The Longest You Should Hoard Your Travel Points](https://lifehacker.com/the-longest-you-should-hoard-your-travel-points-1850374283)
@@ -32,7 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ask Yourself These Three Questions to Avoid Regretting a Purchase](https://lifehacker.com/ask-yourself-these-three-questions-to-avoid-regretting-1850445379)
 - [Lifehacker] [Where to Get a Rebate for Your Home’s New Windows](https://lifehacker.com/where-to-get-a-rebate-for-your-home-s-new-windows-1850444011)
 - [Dev.to/JS] [How to Become a Front End Developer](https://dev.to/devsahil/how-to-become-a-front-end-developer-250j)
-- [Lifehacker] [This Site Teaches You How to Build Weird Crap in ‘Tears of the Kingdom’](https://lifehacker.com/this-site-teaches-you-how-to-build-weird-shit-in-tears-1850443594)
+- [Lifehacker] [This Site Teaches You How to Build Weird Crap in ‘Zelda: Tears of the Kingdom’](https://lifehacker.com/this-site-teaches-you-how-to-build-weird-shit-in-tears-1850443594)
 - [Lifehacker] [How to Evolve From a ‘Jellyfish’ Parent to a ‘Dolphin’ Parent &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-evolve-from-a-jellyfish-parent-to-a-dolphin-1850441835)
 - [Dev.to/JS] [Box-sizing model](https://dev.to/davisson001/box-sizing-model-2k37)
 - [Lifehacker] [This Week&#39;s &#39;Black Moon&#39; Will Help You See Other Planets](https://lifehacker.com/this-weeks-black-moon-will-help-you-see-other-planets-1850442885)
@@ -40,10 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Best Backend-for-Frontend Tools You Should Be Using](https://dev.to/slickstef11/5-best-backend-for-frontend-tools-you-should-be-using-fah)
 - [Lifehacker] [When You Should Consider Buying a Fixer-Upper &lpar;and When You Definitely Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-consider-buying-a-fixer-upper-and-when-1850441036)
 - [Dev.to/JS] [The Navigator Clipboard API in JavaScript](https://dev.to/darkmavis1980/the-navigator-clipboard-api-in-javascript-38gn)
-- [Dev.to/JS] [React top latest feature](https://dev.to/pdhavalm/react-top-latest-feature-17oo)
-- [Dev.to/JS] [How to use Date Picker in Selenium using JavaScript](https://dev.to/lambdatest/how-to-use-date-picker-in-selenium-using-javascript-4mbl)
-- [Dev.to/JS] [path mapping in JavaScript](https://dev.to/mohamedhashemx/path-mapping-in-javascript-17f3)
-- [Dev.to/JS] [JavaScript Wonderland](https://dev.to/brittanyhurthead/javascript-wonderland-1im1)
 - [Lifehacker] [Use This Loophole to Get a $7,500 Tax Credit on Almost Any Electric Car](https://lifehacker.com/use-this-loophole-to-get-a-7-500-tax-credit-on-almost-1850442859)
 - [Lifehacker] [Overclock Your Switch to Make ‘Tears of the Kingdom’ Run Better](https://lifehacker.com/overclock-your-switch-to-make-tears-of-the-kingdom-ru-1850442406)
 - [Lifehacker] [Use This Gesture to Take an iPhone Video Without Pausing Your Music](https://lifehacker.com/use-this-gesture-to-take-an-iphone-video-without-pausin-1850442739)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Treat Yourself to Sweet, Buttery Phyllo Chips](https://lifehacker.com/treat-yourself-to-sweet-buttery-phyllo-chips-1850439243)
 - [Lifehacker] [How to Psych Yourself Up Without Feeling Cringe](https://lifehacker.com/how-to-psych-yourself-up-without-feeling-cringe-1850439173)
 - [Lifehacker] [Why ‘Lazy Geniuses’ Ask Themselves This Question](https://lifehacker.com/why-lazy-geniuses-ask-themselves-this-question-1850438866)
-- [Lifehacker] [The Best Thing to Do With Milk That’s Past Its Prime](https://lifehacker.com/the-best-thing-to-do-with-milk-that-s-past-its-prime-1850433979)
-- [Lifehacker] [You Can Finally Fix Your Own Damn Pixel](https://lifehacker.com/you-can-finally-fix-your-own-damn-pixel-1850438646)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Thing to Do With Milk That’s Past Its Prime](https://lifehacker.com/the-best-thing-to-do-with-milk-that-s-past-its-prime-1850433979)<!-- TECH-POSTS:END -->
 
 ---
 
