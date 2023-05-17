@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use the ‘One-Touch’ Rule to Manage Your Inbox](https://lifehacker.com/use-the-one-touch-rule-to-manage-your-inbox-1850445344)
+- [Dev.to/JS] [Best React Scheduler Component Libraries](https://dev.to/scofieldidehen/best-react-scheduler-component-libraries-400o)
+- [Dev.to/JS] [How to Run Cypress Tests in Parallel in Github Actions](https://dev.to/pthapa1/how-to-run-cypress-tests-in-parallel-in-github-actions-40pj)
+- [Lifehacker] [Ask Yourself These Three Questions to Avoid Regretting a Purchase](https://lifehacker.com/ask-yourself-these-three-questions-to-avoid-regretting-1850445379)
 - [Lifehacker] [Where to Get a Rebate for Your Home’s New Windows](https://lifehacker.com/where-to-get-a-rebate-for-your-home-s-new-windows-1850444011)
 - [Dev.to/JS] [How to Become a Front End Developer](https://dev.to/devsahil/how-to-become-a-front-end-developer-250j)
 - [Lifehacker] [This Site Teaches You How to Build Weird Crap in ‘Tears of the Kingdom’](https://lifehacker.com/this-site-teaches-you-how-to-build-weird-shit-in-tears-1850443594)
@@ -32,14 +36,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array-Driver](https://dev.to/junaidofficialnow/array-driver-491f)
 - [Dev.to/JS] [5 Best Backend-for-Frontend Tools You Should Be Using](https://dev.to/slickstef11/5-best-backend-for-frontend-tools-you-should-be-using-fah)
 - [Lifehacker] [When You Should Consider Buying a Fixer-Upper &lpar;and When You Definitely Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-consider-buying-a-fixer-upper-and-when-1850441036)
+- [Dev.to/JS] [The Navigator Clipboard API in JavaScript](https://dev.to/darkmavis1980/the-navigator-clipboard-api-in-javascript-38gn)
 - [Dev.to/JS] [React top latest feature](https://dev.to/pdhavalm/react-top-latest-feature-17oo)
 - [Dev.to/JS] [How to use Date Picker in Selenium using JavaScript](https://dev.to/lambdatest/how-to-use-date-picker-in-selenium-using-javascript-4mbl)
 - [Dev.to/JS] [path mapping in JavaScript](https://dev.to/mohamedhashemx/path-mapping-in-javascript-17f3)
 - [Dev.to/JS] [JavaScript Wonderland](https://dev.to/brittanyhurthead/javascript-wonderland-1im1)
 - [Dev.to/JS] [React Native + Redux Tool kit + AsyncStorage](https://dev.to/shreyvijayvargiya/react-native-redux-tool-kit-asyncstorage-210e)
-- [Dev.to/JS] [Streamlining Sales With The Power of Sales Force Automation](https://dev.to/datarecove95829/streamlining-sales-with-the-power-of-sales-force-automation-ah9)
-- [Dev.to/JS] [Comparing Mutation Event and Mutation Observer: The Evolution of DOM Modification Monitoring](https://dev.to/elvisans/comparing-mutation-event-and-mutation-observer-the-evolution-of-dom-modification-monitoring-4boo)
-- [Dev.to/JS] [Git Config](https://dev.to/vincod/git-config-1ek9)
 - [Lifehacker] [Use This Loophole to Get a $7,500 Tax Credit on Almost Any Electric Car](https://lifehacker.com/use-this-loophole-to-get-a-7-500-tax-credit-on-almost-1850442859)
 - [Lifehacker] [Overclock Your Switch to Make ‘Tears of the Kingdom’ Run Better](https://lifehacker.com/overclock-your-switch-to-make-tears-of-the-kingdom-ru-1850442406)
 - [Lifehacker] [Use This Gesture to Take an iPhone Video Without Pausing Your Music](https://lifehacker.com/use-this-gesture-to-take-an-iphone-video-without-pausin-1850442739)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Thing to Do With Milk That’s Past Its Prime](https://lifehacker.com/the-best-thing-to-do-with-milk-that-s-past-its-prime-1850433979)
 - [Lifehacker] [You Can Finally Fix Your Own Damn Pixel](https://lifehacker.com/you-can-finally-fix-your-own-damn-pixel-1850438646)
 - [Lifehacker] [Influencers Are Bad at Washing Produce](https://lifehacker.com/influencers-are-bad-at-washing-produce-1850438263)
-- [Lifehacker] [&#39;Perfect&#39; Posture Is Overrated](https://lifehacker.com/perfect-posture-is-overrated-1850438670)
-- [Lifehacker] [Why Not Make Savory Pancakes?](https://lifehacker.com/why-not-make-savory-pancakes-1850438466)
-- [Lifehacker] [Ignore This Bad Financial Advice That’s Everywhere Online](https://lifehacker.com/ignore-this-bad-financial-advice-that-s-everywhere-onli-1850433576)<!-- TECH-POSTS:END -->
+- [Lifehacker] [&#39;Perfect&#39; Posture Is Overrated](https://lifehacker.com/perfect-posture-is-overrated-1850438670)<!-- TECH-POSTS:END -->
 
 ---
 
