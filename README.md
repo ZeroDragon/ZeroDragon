@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scaffolding a Vue 3 project using create-vue ⚡️](https://dev.to/dvalin99/scaffolding-a-vue-3-project-using-create-vue-32k1)
+- [Dev.to/JS] [How I Sliced Deployment Times to a Fraction and Achieved Lightning-Fast Deployments with GitHub Actions](https://dev.to/maxprilutskiy/how-i-sliced-deployment-times-to-a-fraction-and-achieved-lightning-fast-deployments-to-production-with-github-actions-4ifi)
+- [Dev.to/JS] [&#39;VS Code Profiles - Know what profile you are using, no bloody mystery](https://dev.to/robole/vs-code-profiles-know-what-profile-you-are-using-no-bloody-mystery-26ii)
 - [Dev.to/JS] [[vite plugin]Enhance the readability of console.log&lpar;&rpar;](https://dev.to/yuyinws/vite-pluginenhance-the-readability-of-consolelog-3cc9)
 - [Dev.to/JS] [Git and GitHub](https://dev.to/vincod/git-and-github-1bkm)
 - [Dev.to/JS] [Top Tips to Know: The Best Way to Hire JavaScript Developer](https://dev.to/dhruvjoshi9/top-tips-to-know-the-best-way-to-hire-javascript-developer-3im9)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Journey in Open Source - worker-spawner](https://dev.to/cadienvan/my-journey-in-open-source-worker-spawner-4mk)
 - [Dev.to/JS] [Tired of Redux, Recoil, MobX, Zustand, Jotai and Valtio? Time to explore another way of state management](https://dev.to/licg9999/tired-of-redux-recoil-mobx-zustand-jotai-and-valtio-time-to-explore-another-way-of-state-management-b9i)
 - [Dev.to/JS] [Exploring Promise Pools: Managing Async Tasks Like a Pro!](https://dev.to/danities316/exploring-promise-pools-managing-async-tasks-like-a-pro-5789)
-- [Dev.to/JS] [Javascript para iniciantes: Buscando dados de uma API](https://dev.to/vuedavi/javascript-para-iniciantes-buscando-dados-de-uma-api-1j7a)
-- [Dev.to/JS] [Invoice Generation Web App](https://dev.to/jaldo1980/invoice-generation-web-app-25d1)
-- [Dev.to/JS] [Successfully Integrating Google OAuth 2.0](https://dev.to/arashjangali/successfully-integrating-google-oauth-20-33dl)
 - [Lifehacker] [Use This Loophole to Get a $7,500 Tax Credit on Almost Any Electric Car](https://lifehacker.com/use-this-loophole-to-get-a-7-500-tax-credit-on-almost-1850442859)
 - [Lifehacker] [Overclock Your Switch to Make ‘Tears of the Kingdom’ Run Better](https://lifehacker.com/overclock-your-switch-to-make-tears-of-the-kingdom-ru-1850442406)
 - [Lifehacker] [Use This Gesture to Take an iPhone Video Without Pausing Your Music](https://lifehacker.com/use-this-gesture-to-take-an-iphone-video-without-pausin-1850442739)
