@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Where to Get a Rebate for Your Home’s New Windows](https://lifehacker.com/where-to-get-a-rebate-for-your-home-s-new-windows-1850444011)
+- [Dev.to/JS] [How to Become a Front End Developer](https://dev.to/devsahil/how-to-become-a-front-end-developer-250j)
+- [Lifehacker] [This Site Teaches You How to Build Weird Crap in ‘Tears of the Kingdom’](https://lifehacker.com/this-site-teaches-you-how-to-build-weird-shit-in-tears-1850443594)
+- [Lifehacker] [How to Evolve From a ‘Jellyfish’ Parent to a ‘Dolphin’ Parent &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-evolve-from-a-jellyfish-parent-to-a-dolphin-1850441835)
 - [Dev.to/JS] [Box-sizing model](https://dev.to/davisson001/box-sizing-model-2k37)
 - [Lifehacker] [This Week&#39;s &#39;Black Moon&#39; Will Help You See Other Planets](https://lifehacker.com/this-weeks-black-moon-will-help-you-see-other-planets-1850442885)
 - [Dev.to/JS] [Array-Driver](https://dev.to/junaidofficialnow/array-driver-491f)
@@ -36,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Streamlining Sales With The Power of Sales Force Automation](https://dev.to/datarecove95829/streamlining-sales-with-the-power-of-sales-force-automation-ah9)
 - [Dev.to/JS] [Comparing Mutation Event and Mutation Observer: The Evolution of DOM Modification Monitoring](https://dev.to/elvisans/comparing-mutation-event-and-mutation-observer-the-evolution-of-dom-modification-monitoring-4boo)
 - [Dev.to/JS] [Git Config](https://dev.to/vincod/git-config-1ek9)
-- [Dev.to/JS] [Developers Guide to Passwordless Authentication.](https://dev.to/judynduati/developers-guide-to-passwordless-authentication-5co)
 - [Lifehacker] [Use This Loophole to Get a $7,500 Tax Credit on Almost Any Electric Car](https://lifehacker.com/use-this-loophole-to-get-a-7-500-tax-credit-on-almost-1850442859)
 - [Lifehacker] [Overclock Your Switch to Make ‘Tears of the Kingdom’ Run Better](https://lifehacker.com/overclock-your-switch-to-make-tears-of-the-kingdom-ru-1850442406)
 - [Lifehacker] [Use This Gesture to Take an iPhone Video Without Pausing Your Music](https://lifehacker.com/use-this-gesture-to-take-an-iphone-video-without-pausin-1850442739)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Influencers Are Bad at Washing Produce](https://lifehacker.com/influencers-are-bad-at-washing-produce-1850438263)
 - [Lifehacker] [&#39;Perfect&#39; Posture Is Overrated](https://lifehacker.com/perfect-posture-is-overrated-1850438670)
 - [Lifehacker] [Why Not Make Savory Pancakes?](https://lifehacker.com/why-not-make-savory-pancakes-1850438466)
-- [Lifehacker] [Ignore This Bad Financial Advice That’s Everywhere Online](https://lifehacker.com/ignore-this-bad-financial-advice-that-s-everywhere-onli-1850433576)
-- [Lifehacker] [Why You Should Actually Study Multiple Topics at the Same Time](https://lifehacker.com/why-you-should-actually-study-multiple-topics-at-the-sa-1850438252)
-- [Lifehacker] [When You Can Save Partially Spoiled Produce &lpar;and When to Throw It Away&rpar;](https://lifehacker.com/when-you-can-save-partially-spoiled-produce-and-when-t-1850437766)
-- [Lifehacker] [Make AI Do the Hard Parts of Spreadsheets for You](https://lifehacker.com/make-ai-do-the-hard-parts-of-spreadsheets-for-you-1850437863)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Ignore This Bad Financial Advice That’s Everywhere Online](https://lifehacker.com/ignore-this-bad-financial-advice-that-s-everywhere-onli-1850433576)<!-- TECH-POSTS:END -->
 
 ---
 
