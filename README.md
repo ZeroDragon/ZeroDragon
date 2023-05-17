@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[vite plugin]Enhance the readability of console.log&lpar;&rpar;](https://dev.to/yuyinws/vite-pluginenhance-the-readability-of-consolelog-3cc9)
+- [Dev.to/JS] [Git and GitHub](https://dev.to/vincod/git-and-github-1bkm)
 - [Dev.to/JS] [Top Tips to Know: The Best Way to Hire JavaScript Developer](https://dev.to/dhruvjoshi9/top-tips-to-know-the-best-way-to-hire-javascript-developer-3im9)
 - [Dev.to/JS] [How to replace a div with another div after hovering first div in react js &lpar;and vice-versa&rpar;](https://dev.to/mthtitumir/how-to-replace-a-div-with-another-div-after-hovering-first-div-in-react-js-and-vice-versa-4ffn)
 - [Dev.to/JS] [Weekly web development resources #149](https://dev.to/vincenius/weekly-web-development-resources-149-4en4)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript para iniciantes: Buscando dados de uma API](https://dev.to/vuedavi/javascript-para-iniciantes-buscando-dados-de-uma-api-1j7a)
 - [Dev.to/JS] [Invoice Generation Web App](https://dev.to/jaldo1980/invoice-generation-web-app-25d1)
 - [Dev.to/JS] [Successfully Integrating Google OAuth 2.0](https://dev.to/arashjangali/successfully-integrating-google-oauth-20-33dl)
-- [Dev.to/JS] [JavaScript Fundamentals: Type Coercion and Strict Equality Explained](https://dev.to/bolouie/javascript-fundamentals-type-coercion-and-strict-equality-explained-2emh)
-- [Dev.to/JS] [A Comprehensive Overview of Embeddings in LangChain](https://dev.to/mikeyoung44/a-comprehensive-overview-of-embeddings-in-langchain-2anm)
 - [Lifehacker] [Use This Loophole to Get a $7,500 Tax Credit on Almost Any Electric Car](https://lifehacker.com/use-this-loophole-to-get-a-7-500-tax-credit-on-almost-1850442859)
 - [Lifehacker] [Overclock Your Switch to Make ‘Tears of the Kingdom’ Run Better](https://lifehacker.com/overclock-your-switch-to-make-tears-of-the-kingdom-ru-1850442406)
 - [Lifehacker] [Use This Gesture to Take an iPhone Video Without Pausing Your Music](https://lifehacker.com/use-this-gesture-to-take-an-iphone-video-without-pausin-1850442739)
