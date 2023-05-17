@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top Tips to Know: The Best Way to Hire JavaScript Developer](https://dev.to/dhruvjoshi9/top-tips-to-know-the-best-way-to-hire-javascript-developer-3im9)
+- [Dev.to/JS] [How to replace a div with another div after hovering first div in react js &lpar;and vice-versa&rpar;](https://dev.to/mthtitumir/how-to-replace-a-div-with-another-div-after-hovering-first-div-in-react-js-and-vice-versa-4ffn)
+- [Dev.to/JS] [Weekly web development resources #149](https://dev.to/vincenius/weekly-web-development-resources-149-4en4)
+- [Dev.to/JS] [How I Created A NPM !-A Deep Dive](https://dev.to/vishnuvarathan26/how-i-created-a-npm-a-deep-dive-28kh)
 - [Dev.to/JS] [My Journey in Open Source - worker-spawner](https://dev.to/cadienvan/my-journey-in-open-source-worker-spawner-4mk)
 - [Dev.to/JS] [Tired of Redux, Recoil, MobX, Zustand, Jotai and Valtio? Time to explore another way of state management](https://dev.to/licg9999/tired-of-redux-recoil-mobx-zustand-jotai-and-valtio-time-to-explore-another-way-of-state-management-b9i)
 - [Dev.to/JS] [Exploring Promise Pools: Managing Async Tasks Like a Pro!](https://dev.to/danities316/exploring-promise-pools-managing-async-tasks-like-a-pro-5789)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Successfully Integrating Google OAuth 2.0](https://dev.to/arashjangali/successfully-integrating-google-oauth-20-33dl)
 - [Dev.to/JS] [JavaScript Fundamentals: Type Coercion and Strict Equality Explained](https://dev.to/bolouie/javascript-fundamentals-type-coercion-and-strict-equality-explained-2emh)
 - [Dev.to/JS] [A Comprehensive Overview of Embeddings in LangChain](https://dev.to/mikeyoung44/a-comprehensive-overview-of-embeddings-in-langchain-2anm)
-- [Dev.to/JS] [Node.js Crypto Trading For Beginners](https://dev.to/vasile_peste/nodejs-crypto-trading-for-beginners-2pn1)
-- [Dev.to/JS] [Mastering the 5 SOLID Principles in Software Engineering.](https://dev.to/iflames_1/mastering-the-5-solid-principles-in-software-engineering-2fn8)
-- [Dev.to/JS] [Essential JavaScript before diving into React](https://dev.to/zamuhajji/essential-javascript-before-diving-into-react-38c3)
-- [Dev.to/JS] [Vue 3.3: Generic Types and when to use them](https://dev.to/vincentdorian/vue-33-generic-types-and-when-to-use-them-5egn)
 - [Lifehacker] [Use This Loophole to Get a $7,500 Tax Credit on Almost Any Electric Car](https://lifehacker.com/use-this-loophole-to-get-a-7-500-tax-credit-on-almost-1850442859)
 - [Lifehacker] [Overclock Your Switch to Make ‘Tears of the Kingdom’ Run Better](https://lifehacker.com/overclock-your-switch-to-make-tears-of-the-kingdom-ru-1850442406)
 - [Lifehacker] [Use This Gesture to Take an iPhone Video Without Pausing Your Music](https://lifehacker.com/use-this-gesture-to-take-an-iphone-video-without-pausin-1850442739)
