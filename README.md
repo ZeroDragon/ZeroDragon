@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Grill Tender Vegetables Right on Your Charcoal Chimney](https://lifehacker.com/grill-tender-vegetables-right-on-your-charcoal-chimney-1850447003)
+- [Lifehacker] [You Can Try Google’s New Bard Features Right Now](https://lifehacker.com/you-can-try-google-s-new-bard-features-right-now-1850446640)
+- [Lifehacker] [Ask Your Kid to Make a Tiny Vase for the Flowers They Keep Picking for You](https://lifehacker.com/ask-your-kid-to-make-a-tiny-vase-for-the-flowers-they-k-1850445751)
 - [Lifehacker] [Get These Life-Saving Certifications Online for Free](https://lifehacker.com/get-these-life-saving-certifications-online-for-free-1850446551)
 - [Dev.to/JS] [Pure React vs Next.js](https://dev.to/safak/pure-react-vs-nextjs-1flk)
 - [Dev.to/JS] [10 Lessons That Helped Me Grow As A Developer](https://dev.to/mohammadfaisal/10-lessons-that-helped-me-grow-as-a-developer-5e41)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Waffle Some Eggplant for a Charred Treat](https://lifehacker.com/waffle-some-eggplant-for-a-charred-treat-1850439754)
 - [Lifehacker] [Why You Should Stop Bringing Your Laptop to Class](https://lifehacker.com/why-you-should-stop-bringing-your-laptop-to-class-1850441339)
 - [Lifehacker] [You Can Build a Stunning Flower Wall for Your Home](https://lifehacker.com/you-can-build-a-stunning-flower-wall-for-your-home-1850439853)
-- [Lifehacker] [You Should Install Real Drip Irrigation This Year](https://lifehacker.com/you-should-install-real-drip-irrigation-this-year-1850439190)
-- [Lifehacker] [How Much Personal Data Would You Give Up for a Free 4K TV?](https://lifehacker.com/how-much-personal-data-would-you-give-up-for-a-free-4k-1850439401)
-- [Lifehacker] [Treat Yourself to Sweet, Buttery Phyllo Chips](https://lifehacker.com/treat-yourself-to-sweet-buttery-phyllo-chips-1850439243)
-- [Lifehacker] [How to Psych Yourself Up Without Feeling Cringe](https://lifehacker.com/how-to-psych-yourself-up-without-feeling-cringe-1850439173)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Install Real Drip Irrigation This Year](https://lifehacker.com/you-should-install-real-drip-irrigation-this-year-1850439190)<!-- TECH-POSTS:END -->
 
 ---
 
