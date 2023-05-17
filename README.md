@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Journey in Open Source - worker-spawner](https://dev.to/cadienvan/my-journey-in-open-source-worker-spawner-4mk)
 - [Dev.to/JS] [Tired of Redux, Recoil, MobX, Zustand, Jotai and Valtio? Time to explore another way of state management](https://dev.to/licg9999/tired-of-redux-recoil-mobx-zustand-jotai-and-valtio-time-to-explore-another-way-of-state-management-b9i)
 - [Dev.to/JS] [Exploring Promise Pools: Managing Async Tasks Like a Pro!](https://dev.to/danities316/exploring-promise-pools-managing-async-tasks-like-a-pro-5789)
 - [Dev.to/JS] [Javascript para iniciantes: Buscando dados de uma API](https://dev.to/vuedavi/javascript-para-iniciantes-buscando-dados-de-uma-api-1j7a)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering the 5 SOLID Principles in Software Engineering.](https://dev.to/iflames_1/mastering-the-5-solid-principles-in-software-engineering-2fn8)
 - [Dev.to/JS] [Essential JavaScript before diving into React](https://dev.to/zamuhajji/essential-javascript-before-diving-into-react-38c3)
 - [Dev.to/JS] [Vue 3.3: Generic Types and when to use them](https://dev.to/vincentdorian/vue-33-generic-types-and-when-to-use-them-5egn)
-- [Dev.to/JS] [Top 5 extensões no visual studio code para quem trabalha no front-end](https://dev.to/vuedavi/top-5-extensoes-no-visual-studio-code-para-quem-trabalha-no-front-end-29pm)
 - [Lifehacker] [Use This Loophole to Get a $7,500 Tax Credit on Almost Any Electric Car](https://lifehacker.com/use-this-loophole-to-get-a-7-500-tax-credit-on-almost-1850442859)
 - [Lifehacker] [Overclock Your Switch to Make ‘Tears of the Kingdom’ Run Better](https://lifehacker.com/overclock-your-switch-to-make-tears-of-the-kingdom-ru-1850442406)
 - [Lifehacker] [Use This Gesture to Take an iPhone Video Without Pausing Your Music](https://lifehacker.com/use-this-gesture-to-take-an-iphone-video-without-pausin-1850442739)
