@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Greeting 😛](https://dev.to/ashcript/greeting-36h)
+- [Lifehacker] [When to Avoid Cleaning With Hot Water](https://lifehacker.com/when-to-avoid-cleaning-with-hot-water-1850447208)
+- [Dev.to/JS] [Learning About JavaScript Functions](https://dev.to/reecec/learning-about-javascript-functions-3591)
+- [Dev.to/JS] [Project: Get a Pet](https://dev.to/crisrael/project-get-a-pet-1937)
 - [Lifehacker] [Grill Tender Vegetables Right on Your Charcoal Chimney](https://lifehacker.com/grill-tender-vegetables-right-on-your-charcoal-chimney-1850447003)
+- [Dev.to/JS] [Dates validation with Formik and Yup in React &amp; React Native](https://dev.to/spanarin/dates-validation-with-formik-and-yup-in-react-react-native-50ha)
 - [Lifehacker] [You Can Try Google’s New Bard Features Right Now](https://lifehacker.com/you-can-try-google-s-new-bard-features-right-now-1850446640)
 - [Lifehacker] [Ask Your Kid to Make a Tiny Vase for the Flowers They Keep Picking for You](https://lifehacker.com/ask-your-kid-to-make-a-tiny-vase-for-the-flowers-they-k-1850445751)
 - [Lifehacker] [Get These Life-Saving Certifications Online for Free](https://lifehacker.com/get-these-life-saving-certifications-online-for-free-1850446551)
@@ -42,13 +47,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Run Cypress Tests in Parallel in Github Actions](https://dev.to/pthapa1/how-to-run-cypress-tests-in-parallel-in-github-actions-40pj)
 - [Lifehacker] [Ask Yourself These Three Questions to Avoid Regretting a Purchase](https://lifehacker.com/ask-yourself-these-three-questions-to-avoid-regretting-1850445379)
 - [Lifehacker] [Where to Get a Rebate for Your Home’s New Windows](https://lifehacker.com/where-to-get-a-rebate-for-your-home-s-new-windows-1850444011)
-- [Dev.to/JS] [How to Become a Front End Developer](https://dev.to/devsahil/how-to-become-a-front-end-developer-250j)
 - [Lifehacker] [This Site Teaches You How to Build Weird Crap in ‘Zelda: Tears of the Kingdom’](https://lifehacker.com/this-site-teaches-you-how-to-build-weird-shit-in-tears-1850443594)
 - [Lifehacker] [How to Evolve From a ‘Jellyfish’ Parent to a ‘Dolphin’ Parent &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-evolve-from-a-jellyfish-parent-to-a-dolphin-1850441835)
-- [Dev.to/JS] [Box-sizing model](https://dev.to/davisson001/box-sizing-model-2k37)
 - [Lifehacker] [This Week&#39;s &#39;Black Moon&#39; Will Help You See Other Planets](https://lifehacker.com/this-weeks-black-moon-will-help-you-see-other-planets-1850442885)
-- [Dev.to/JS] [Array-Driver](https://dev.to/junaidofficialnow/array-driver-491f)
-- [Dev.to/JS] [5 Best Backend-for-Frontend Tools You Should Be Using](https://dev.to/slickstef11/5-best-backend-for-frontend-tools-you-should-be-using-fah)
 - [Lifehacker] [When You Should Consider Buying a Fixer-Upper &lpar;and When You Definitely Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-consider-buying-a-fixer-upper-and-when-1850441036)
 - [Lifehacker] [Use This Loophole to Get a $7,500 Tax Credit on Almost Any Electric Car](https://lifehacker.com/use-this-loophole-to-get-a-7-500-tax-credit-on-almost-1850442859)
 - [Lifehacker] [Overclock Your Switch to Make ‘Tears of the Kingdom’ Run Better](https://lifehacker.com/overclock-your-switch-to-make-tears-of-the-kingdom-ru-1850442406)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Lock Your Secrets in WhatsApp](https://lifehacker.com/use-whatsapp-s-chat-lock-feature-to-hide-your-sexts-1850440924)
 - [Lifehacker] [Waffle Some Eggplant for a Charred Treat](https://lifehacker.com/waffle-some-eggplant-for-a-charred-treat-1850439754)
 - [Lifehacker] [Why You Should Stop Bringing Your Laptop to Class](https://lifehacker.com/why-you-should-stop-bringing-your-laptop-to-class-1850441339)
-- [Lifehacker] [You Can Build a Stunning Flower Wall for Your Home](https://lifehacker.com/you-can-build-a-stunning-flower-wall-for-your-home-1850439853)
-- [Lifehacker] [You Should Install Real Drip Irrigation This Year](https://lifehacker.com/you-should-install-real-drip-irrigation-this-year-1850439190)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Build a Stunning Flower Wall for Your Home](https://lifehacker.com/you-can-build-a-stunning-flower-wall-for-your-home-1850439853)<!-- TECH-POSTS:END -->
 
 ---
 
