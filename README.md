@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Native + Redux Tool kit + AsyncStorage](https://dev.to/shreyvijayvargiya/react-native-redux-tool-kit-asyncstorage-210e)
+- [Dev.to/JS] [Streamlining Sales With The Power of Sales Force Automation](https://dev.to/datarecove95829/streamlining-sales-with-the-power-of-sales-force-automation-ah9)
+- [Dev.to/JS] [Comparing Mutation Event and Mutation Observer: The Evolution of DOM Modification Monitoring](https://dev.to/elvisans/comparing-mutation-event-and-mutation-observer-the-evolution-of-dom-modification-monitoring-4boo)
 - [Dev.to/JS] [Git Config](https://dev.to/vincod/git-config-1ek9)
 - [Dev.to/JS] [Developers Guide to Passwordless Authentication.](https://dev.to/judynduati/developers-guide-to-passwordless-authentication-5co)
 - [Dev.to/JS] [Create a simple web server in Node.js using Express](https://dev.to/donymvarkey/create-a-simple-web-server-in-nodejs-using-express-1f5n)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I Sliced JS Apps Deployment Times to a Fraction](https://dev.to/maxprilutskiy/how-i-sliced-deployment-times-to-a-fraction-and-achieved-lightning-fast-deployments-to-production-with-github-actions-4ifi)
 - [Dev.to/JS] [&#39;VS Code Profiles - Know what profile you are using, no bloody mystery](https://dev.to/robole/vs-code-profiles-know-what-profile-you-are-using-no-bloody-mystery-26ii)
 - [Dev.to/JS] [[vite plugin]Enhance the readability of console.log&lpar;&rpar;](https://dev.to/yuyinws/vite-pluginenhance-the-readability-of-consolelog-3cc9)
-- [Dev.to/JS] [Git and GitHub](https://dev.to/vincod/git-and-github-1bkm)
-- [Dev.to/JS] [Top Tips to Know: The Best Way to Hire JavaScript Developer](https://dev.to/dhruvjoshi9/top-tips-to-know-the-best-way-to-hire-javascript-developer-3im9)
-- [Dev.to/JS] [How to replace a div with another div after hovering first div in react js &lpar;and vice-versa&rpar;](https://dev.to/mthtitumir/how-to-replace-a-div-with-another-div-after-hovering-first-div-in-react-js-and-vice-versa-4ffn)
 - [Lifehacker] [Use This Loophole to Get a $7,500 Tax Credit on Almost Any Electric Car](https://lifehacker.com/use-this-loophole-to-get-a-7-500-tax-credit-on-almost-1850442859)
 - [Lifehacker] [Overclock Your Switch to Make ‘Tears of the Kingdom’ Run Better](https://lifehacker.com/overclock-your-switch-to-make-tears-of-the-kingdom-ru-1850442406)
 - [Lifehacker] [Use This Gesture to Take an iPhone Video Without Pausing Your Music](https://lifehacker.com/use-this-gesture-to-take-an-iphone-video-without-pausin-1850442739)
