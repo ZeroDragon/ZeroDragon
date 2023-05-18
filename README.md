@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [App Development Company In Gurgaon](https://dev.to/smith_75/app-development-company-in-gurgaon-5afb)
+- [Dev.to/JS] [Making API Calls from Node.js](https://dev.to/spyke/making-api-calls-from-nodejs-3mfk)
+- [Dev.to/JS] [Coding the Future of Gambling: Harnessing Blockchain and Programming Languages for Crypto Casinos](https://dev.to/luk_campbell/coding-the-future-of-gambling-harnessing-blockchain-and-programming-languages-for-crypto-casinos-1cm6)
 - [Dev.to/JS] [Choosing the Right React State Management: Simplicity and Alternatives](https://dev.to/praneetrane/choosing-the-right-react-state-management-simplicity-and-alternatives-53f8)
 - [Dev.to/JS] [Cache with a Time Limit: Boosting Performance and Data Freshness](https://dev.to/danities316/cache-with-a-time-limit-boosting-performance-and-data-freshness-3ahk)
 - [Dev.to/JS] [how to make element center in customized react-slick?](https://dev.to/jacksonkasi/how-to-make-element-center-in-customized-react-slick-2ee4)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Свадьба](https://dev.to/davibiyuu/svadba-28lo)
 - [Dev.to/JS] [🚀 Node.js 20: Unleashing the Power of Performance and Security 💪](https://dev.to/rahulladumor/nodejs-20-unleashing-a-new-era-of-performance-and-security-1no6)
 - [Dev.to/JS] [Tecno Phantom X2 &amp; X2 Pro 5G Spec and Price](https://dev.to/rajkumar0095/tecno-phantom-x2-x2-pro-5g-spec-and-price-ph4)
-- [Dev.to/JS] [Day 107 of #365daysofcode: Streamlining User Authentication with Google OAuth and Pop-up Windows](https://dev.to/arashjangali/day-107-of-365daysofcode-streamlining-user-authentication-with-google-oauth-and-pop-up-windows-9)
-- [Dev.to/JS] [Why You Don&#39;t Need Signals in React](https://dev.to/dai_shi/why-you-dont-need-signals-in-react-eb9)
-- [Dev.to/JS] [Running a local multi-framework composition Storybook](https://dev.to/scottnath/running-a-local-multi-framework-composition-storybook-506l)
 - [Lifehacker] [What&#39;s New on Disney+ in June 2023](https://lifehacker.com/whats-new-on-disney-in-june-2023-1850447629)
 - [Lifehacker] [When to Avoid Cleaning With Hot Water](https://lifehacker.com/when-to-avoid-cleaning-with-hot-water-1850447208)
 - [Lifehacker] [Grill Tender Vegetables Right on Your Charcoal Chimney](https://lifehacker.com/grill-tender-vegetables-right-on-your-charcoal-chimney-1850447003)
