@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build a Gaming Pc in 2023](https://dev.to/rajkumar0095/how-to-build-a-gaming-pc-in-2023-3p3g)
+- [Dev.to/JS] [Understanding Map, Filter and ForEach in JavaScript](https://dev.to/samyak112/understanding-map-filter-and-foreach-in-javascript-2p32)
+- [Dev.to/JS] [Свадьба](https://dev.to/davibiyuu/svadba-28lo)
+- [Dev.to/JS] [Node.js 20: Unleashing a New Era of Performance and Security](https://dev.to/rahulladumor/nodejs-20-unleashing-a-new-era-of-performance-and-security-1no6)
+- [Dev.to/JS] [Tecno Phantom X2 &amp; X2 Pro 5G Spec and Price](https://dev.to/rajkumar0095/tecno-phantom-x2-x2-pro-5g-spec-and-price-ph4)
 - [Dev.to/JS] [Day 107 of #365daysofcode: Streamlining User Authentication with Google OAuth and Pop-up Windows](https://dev.to/arashjangali/day-107-of-365daysofcode-streamlining-user-authentication-with-google-oauth-and-pop-up-windows-9)
 - [Dev.to/JS] [Why You Don&#39;t Need Signals in React](https://dev.to/dai_shi/why-you-dont-need-signals-in-react-eb9)
 - [Dev.to/JS] [Running a local multi-framework composition Storybook](https://dev.to/scottnath/running-a-local-multi-framework-composition-storybook-506l)
@@ -31,16 +36,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Disney+ in June 2023](https://lifehacker.com/whats-new-on-disney-in-june-2023-1850447629)
 - [Dev.to/JS] [How to Integrate Budpay in Node.js: A Comprehensive Guide](https://dev.to/folasayosamuel/how-to-integrate-budpay-in-nodejs-a-comprehensive-guide-1gmp)
 - [Dev.to/JS] [React Performance Optimization : Lazy Loading and Code Splitting](https://dev.to/kawanedres/react-performance-optimization-lazy-loading-and-code-splitting-1f8b)
-- [Dev.to/JS] [Greeting 😛](https://dev.to/ashcript/greeting-36h)
 - [Lifehacker] [When to Avoid Cleaning With Hot Water](https://lifehacker.com/when-to-avoid-cleaning-with-hot-water-1850447208)
-- [Dev.to/JS] [Learning About JavaScript Functions](https://dev.to/reecec/learning-about-javascript-functions-3591)
-- [Dev.to/JS] [Project: Get a Pet](https://dev.to/crisrael/project-get-a-pet-1937)
 - [Lifehacker] [Grill Tender Vegetables Right on Your Charcoal Chimney](https://lifehacker.com/grill-tender-vegetables-right-on-your-charcoal-chimney-1850447003)
-- [Dev.to/JS] [Dates validation with Formik and Yup in React &amp; React Native](https://dev.to/spanarin/dates-validation-with-formik-and-yup-in-react-react-native-50ha)
 - [Lifehacker] [You Can Try Google’s New Bard Features Right Now](https://lifehacker.com/you-can-try-google-s-new-bard-features-right-now-1850446640)
 - [Lifehacker] [Ask Your Kid to Make a Tiny Vase for the Flowers They Keep Picking for You](https://lifehacker.com/ask-your-kid-to-make-a-tiny-vase-for-the-flowers-they-k-1850445751)
 - [Lifehacker] [Get These Life-Saving Certifications Online for Free](https://lifehacker.com/get-these-life-saving-certifications-online-for-free-1850446551)
-- [Dev.to/JS] [Pure React vs Next.js](https://dev.to/safak/pure-react-vs-nextjs-1flk)
 - [Lifehacker] [What to Do If You Have More Than $5,000 in Your Checking Account](https://lifehacker.com/what-to-do-if-you-have-more-than-5-000-in-your-checkin-1850441473)
 - [Lifehacker] [You Should Add Artichoke Marinade to a Batch of Rice](https://lifehacker.com/you-should-add-artichoke-marinade-to-a-batch-of-rice-1850443597)
 - [Lifehacker] [ChatGPT Plus Has Two Huge New Features You Can Try Right Now](https://lifehacker.com/chatgpt-plus-has-two-huge-new-features-you-can-try-righ-1850445533)
