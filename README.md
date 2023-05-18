@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NgRx diagram explained](https://dev.to/heybaldur/ngrx-diagram-explained-21ni)
+- [Dev.to/JS] [Write better code by following these JavaScript best practices](https://dev.to/dawsoncodes/write-better-code-by-following-these-javascript-best-practices-25mp)
+- [Dev.to/JS] [Recognizing 2D shapes and how to draw them on a canvas.](https://dev.to/_aaallison/recognizing-2d-shapes-and-how-to-draw-them-on-a-canvas-i6k)
 - [Dev.to/JS] [Смартфоны](https://dev.to/davibiyuu/smartfony-55e8)
 - [Dev.to/JS] [How Javascript works? &lpar;Bangla&rpar;](https://dev.to/nipu/how-javascript-works-bangla-3822)
 - [Dev.to/JS] [Single Thread JavaScript](https://dev.to/nipu/single-thread-javascript-1816)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dependency Injection in... a React application?? Huh?](https://dev.to/afl_ext/dependency-injection-in-a-react-application-huh-4f)
 - [Dev.to/JS] [App Development Company In Gurgaon](https://dev.to/smith_75/app-development-company-in-gurgaon-5afb)
 - [Dev.to/JS] [Making API Calls from Node.js](https://dev.to/spyke/making-api-calls-from-nodejs-3mfk)
-- [Dev.to/JS] [Coding the Future of Gambling: Harnessing Blockchain and Programming Languages for Crypto Casinos](https://dev.to/luk_campbell/coding-the-future-of-gambling-harnessing-blockchain-and-programming-languages-for-crypto-casinos-1cm6)
-- [Dev.to/JS] [Choosing the Right React State Management: Simplicity and Alternatives](https://dev.to/praneetrane/choosing-the-right-react-state-management-simplicity-and-alternatives-53f8)
-- [Dev.to/JS] [Cache with a Time Limit: Boosting Performance and Data Freshness](https://dev.to/danities316/cache-with-a-time-limit-boosting-performance-and-data-freshness-3ahk)
 - [Lifehacker] [What&#39;s New on Disney+ in June 2023](https://lifehacker.com/whats-new-on-disney-in-june-2023-1850447629)
 - [Lifehacker] [When to Avoid Cleaning With Hot Water](https://lifehacker.com/when-to-avoid-cleaning-with-hot-water-1850447208)
 - [Lifehacker] [Grill Tender Vegetables Right on Your Charcoal Chimney](https://lifehacker.com/grill-tender-vegetables-right-on-your-charcoal-chimney-1850447003)
