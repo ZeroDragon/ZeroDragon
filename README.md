@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 107 of #365daysofcode: Streamlining User Authentication with Google OAuth and Pop-up Windows](https://dev.to/arashjangali/day-107-of-365daysofcode-streamlining-user-authentication-with-google-oauth-and-pop-up-windows-9)
 - [Dev.to/JS] [Why You Don&#39;t Need Signals in React](https://dev.to/dai_shi/why-you-dont-need-signals-in-react-eb9)
 - [Dev.to/JS] [Running a local multi-framework composition Storybook](https://dev.to/scottnath/running-a-local-multi-framework-composition-storybook-506l)
 - [Dev.to/JS] [problem 3:](https://dev.to/karrey/problem-3-43ed)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ask Your Kid to Make a Tiny Vase for the Flowers They Keep Picking for You](https://lifehacker.com/ask-your-kid-to-make-a-tiny-vase-for-the-flowers-they-k-1850445751)
 - [Lifehacker] [Get These Life-Saving Certifications Online for Free](https://lifehacker.com/get-these-life-saving-certifications-online-for-free-1850446551)
 - [Dev.to/JS] [Pure React vs Next.js](https://dev.to/safak/pure-react-vs-nextjs-1flk)
-- [Dev.to/JS] [10 Lessons That Helped Me Grow As A Developer](https://dev.to/mohammadfaisal/10-lessons-that-helped-me-grow-as-a-developer-5e41)
 - [Lifehacker] [What to Do If You Have More Than $5,000 in Your Checking Account](https://lifehacker.com/what-to-do-if-you-have-more-than-5-000-in-your-checkin-1850441473)
 - [Lifehacker] [You Should Add Artichoke Marinade to a Batch of Rice](https://lifehacker.com/you-should-add-artichoke-marinade-to-a-batch-of-rice-1850443597)
 - [Lifehacker] [ChatGPT Plus Has Two Huge New Features You Can Try Right Now](https://lifehacker.com/chatgpt-plus-has-two-huge-new-features-you-can-try-righ-1850445533)
