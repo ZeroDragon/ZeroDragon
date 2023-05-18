@@ -23,19 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cache with a Time Limit: Boosting Performance and Data Freshness](https://dev.to/danities316/cache-with-a-time-limit-boosting-performance-and-data-freshness-3ahk)
+- [Dev.to/JS] [how to make element center in customized react-slick?](https://dev.to/jacksonkasi/how-to-make-element-center-in-customized-react-slick-2ee4)
+- [Dev.to/JS] [CREATING PASSWORD VALIDATION/CHECKLIST IN REACT.JS](https://dev.to/candie_code/creating-password-validationchecklist-in-reactjs-21k0)
 - [Dev.to/JS] [How to Build a Gaming Pc in 2023](https://dev.to/rajkumar0095/how-to-build-a-gaming-pc-in-2023-3p3g)
 - [Dev.to/JS] [Understanding Map, Filter and ForEach in JavaScript](https://dev.to/samyak112/understanding-map-filter-and-foreach-in-javascript-2p32)
 - [Dev.to/JS] [Свадьба](https://dev.to/davibiyuu/svadba-28lo)
-- [Dev.to/JS] [Node.js 20: Unleashing a New Era of Performance and Security](https://dev.to/rahulladumor/nodejs-20-unleashing-a-new-era-of-performance-and-security-1no6)
+- [Dev.to/JS] [🚀 Node.js 20: Unleashing the Power of Performance and Security 💪](https://dev.to/rahulladumor/nodejs-20-unleashing-a-new-era-of-performance-and-security-1no6)
 - [Dev.to/JS] [Tecno Phantom X2 &amp; X2 Pro 5G Spec and Price](https://dev.to/rajkumar0095/tecno-phantom-x2-x2-pro-5g-spec-and-price-ph4)
 - [Dev.to/JS] [Day 107 of #365daysofcode: Streamlining User Authentication with Google OAuth and Pop-up Windows](https://dev.to/arashjangali/day-107-of-365daysofcode-streamlining-user-authentication-with-google-oauth-and-pop-up-windows-9)
 - [Dev.to/JS] [Why You Don&#39;t Need Signals in React](https://dev.to/dai_shi/why-you-dont-need-signals-in-react-eb9)
 - [Dev.to/JS] [Running a local multi-framework composition Storybook](https://dev.to/scottnath/running-a-local-multi-framework-composition-storybook-506l)
 - [Dev.to/JS] [problem 3:](https://dev.to/karrey/problem-3-43ed)
-- [Dev.to/JS] [A Rounded Solution to Image Handling on the OpenSauced Dashboard](https://dev.to/opensauced/a-rounded-solution-to-image-handling-on-the-opensauced-dashboard-4n34)
 - [Lifehacker] [What&#39;s New on Disney+ in June 2023](https://lifehacker.com/whats-new-on-disney-in-june-2023-1850447629)
-- [Dev.to/JS] [How to Integrate Budpay in Node.js: A Comprehensive Guide](https://dev.to/folasayosamuel/how-to-integrate-budpay-in-nodejs-a-comprehensive-guide-1gmp)
-- [Dev.to/JS] [React Performance Optimization : Lazy Loading and Code Splitting](https://dev.to/kawanedres/react-performance-optimization-lazy-loading-and-code-splitting-1f8b)
 - [Lifehacker] [When to Avoid Cleaning With Hot Water](https://lifehacker.com/when-to-avoid-cleaning-with-hot-water-1850447208)
 - [Lifehacker] [Grill Tender Vegetables Right on Your Charcoal Chimney](https://lifehacker.com/grill-tender-vegetables-right-on-your-charcoal-chimney-1850447003)
 - [Lifehacker] [You Can Try Google’s New Bard Features Right Now](https://lifehacker.com/you-can-try-google-s-new-bard-features-right-now-1850446640)
