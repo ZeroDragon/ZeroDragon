@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Choosing the Right React State Management: Simplicity and Alternatives](https://dev.to/praneetrane/choosing-the-right-react-state-management-simplicity-and-alternatives-53f8)
 - [Dev.to/JS] [Cache with a Time Limit: Boosting Performance and Data Freshness](https://dev.to/danities316/cache-with-a-time-limit-boosting-performance-and-data-freshness-3ahk)
 - [Dev.to/JS] [how to make element center in customized react-slick?](https://dev.to/jacksonkasi/how-to-make-element-center-in-customized-react-slick-2ee4)
 - [Dev.to/JS] [CREATING PASSWORD VALIDATION/CHECKLIST IN REACT.JS](https://dev.to/candie_code/creating-password-validationchecklist-in-reactjs-21k0)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 107 of #365daysofcode: Streamlining User Authentication with Google OAuth and Pop-up Windows](https://dev.to/arashjangali/day-107-of-365daysofcode-streamlining-user-authentication-with-google-oauth-and-pop-up-windows-9)
 - [Dev.to/JS] [Why You Don&#39;t Need Signals in React](https://dev.to/dai_shi/why-you-dont-need-signals-in-react-eb9)
 - [Dev.to/JS] [Running a local multi-framework composition Storybook](https://dev.to/scottnath/running-a-local-multi-framework-composition-storybook-506l)
-- [Dev.to/JS] [problem 3:](https://dev.to/karrey/problem-3-43ed)
 - [Lifehacker] [What&#39;s New on Disney+ in June 2023](https://lifehacker.com/whats-new-on-disney-in-june-2023-1850447629)
 - [Lifehacker] [When to Avoid Cleaning With Hot Water](https://lifehacker.com/when-to-avoid-cleaning-with-hot-water-1850447208)
 - [Lifehacker] [Grill Tender Vegetables Right on Your Charcoal Chimney](https://lifehacker.com/grill-tender-vegetables-right-on-your-charcoal-chimney-1850447003)
