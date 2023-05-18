@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Animate your SVG text with animejs](https://dev.to/vakme/animate-your-svg-text-with-animejs-64p)
+- [Lifehacker] [Why You Should Stop Eating Fake Sugars, According to the World Health Organization](https://lifehacker.com/why-you-should-stop-eating-fake-sugars-according-to-th-1850451753)
 - [Lifehacker] [This Deal Makes Disney World Tickets Slightly Less Crushingly Expensive](https://lifehacker.com/this-deal-makes-disney-world-tickets-slightly-less-crus-1850451413)
 - [Lifehacker] [Log Into Your Old Google Accounts Before They’re Deleted](https://lifehacker.com/log-into-your-old-google-accounts-before-they-re-delete-1850450404)
 - [Dev.to/JS] [Understanding React and React Native Through the Principle of Single Responsibility](https://dev.to/ajkhatibi/understanding-react-and-react-native-through-the-principle-of-single-responsibility-3pd5)
@@ -46,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Expect From Sony&#39;s First PlayStation Showcase Since 2021](https://lifehacker.com/what-to-expect-from-sonys-first-playstation-showcase-si-1850449182)
 - [Dev.to/JS] [THE BASICS.](https://dev.to/pekachu17/the-basics-3642)
 - [Lifehacker] [What&#39;s New on &lpar;HBO&rpar; Max in June 2023](https://lifehacker.com/whats-new-on-hbo-max-in-june-2023-1850449794)
-- [Dev.to/JS] [Say Goodbye to JavaScript with Livewire: A Full-Stack Framework for Laravel](https://dev.to/lexissolutions/say-goodbye-to-javascript-with-livewire-a-full-stack-framework-for-laravel-55d7)
 - [Lifehacker] [Yes, Your Water Can Go Bad](https://lifehacker.com/yes-your-water-can-go-bad-1850449205)
 - [Lifehacker] [You Can Add Privacy to Your Windows With Decorative Film](https://lifehacker.com/you-can-add-privacy-to-your-windows-with-decorative-fil-1850448398)
 - [Lifehacker] [Use This Formula to Make a Spritz With Any Booze](https://lifehacker.com/use-this-formula-to-make-a-spritz-with-any-booze-1850447987)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If You Have More Than $5,000 in Your Checking Account](https://lifehacker.com/what-to-do-if-you-have-more-than-5-000-in-your-checkin-1850441473)
 - [Lifehacker] [You Should Add Artichoke Marinade to a Batch of Rice](https://lifehacker.com/you-should-add-artichoke-marinade-to-a-batch-of-rice-1850443597)
 - [Lifehacker] [ChatGPT Plus Has Two Huge New Features You Can Try Right Now](https://lifehacker.com/chatgpt-plus-has-two-huge-new-features-you-can-try-righ-1850445533)
-- [Lifehacker] [The Longest You Should Hoard Your Travel Points](https://lifehacker.com/the-longest-you-should-hoard-your-travel-points-1850374283)
-- [Lifehacker] [Use the ‘One-Touch’ Rule to Manage Your Inbox](https://lifehacker.com/use-the-one-touch-rule-to-manage-your-inbox-1850445344)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Longest You Should Hoard Your Travel Points](https://lifehacker.com/the-longest-you-should-hoard-your-travel-points-1850374283)<!-- TECH-POSTS:END -->
 
 ---
 
