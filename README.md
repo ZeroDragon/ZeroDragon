@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [13 Animated Movies That Will Get You Fired in Florida](https://lifehacker.com/13-animated-movies-that-will-get-you-fired-in-florida-1850446682)
+- [Dev.to/JS] [Series 2: Control Structures and Functions in JavaScript](https://dev.to/envitab/series-2-control-structures-and-functions-in-javascript-52ip)
+- [Lifehacker] [Biorhythms Aren&#39;t Real, But &#39;Peaks&#39; of Productivity Can Be](https://lifehacker.com/biorhythms-arent-real-but-peaks-of-productivity-can-be-1850450346)
+- [Dev.to/JS] [Series 1: Introduction to JavaScript](https://dev.to/envitab/series-1-introduction-to-javascript-1iof)
+- [Dev.to/JS] [Free Next.js Boilerplate for ⚡️High-Performance⚡️ Enterprise Apps](https://dev.to/jjablonskiit/free-nextjs-boilerplate-for-high-performance-enterprise-apps-14f7)
+- [Lifehacker] [The Gas Grill Repairs You Can Do Yourself Before Summer](https://lifehacker.com/the-gas-grill-repairs-you-can-do-yourself-before-summer-1850448449)
+- [Dev.to/JS] [How to Add Highlight Annotations to PDF Using a JavaScript PDF Viewer](https://dev.to/grapecity/how-to-add-highlight-annotations-to-pdf-using-a-javascript-pdf-viewer-eg7)
 - [Lifehacker] [How to Co-Parent With a Narcissist](https://lifehacker.com/how-to-co-parent-with-a-narcissist-1850426132)
 - [Lifehacker] [What to Expect From Sony&#39;s First PlayStation Showcase Since 2021](https://lifehacker.com/what-to-expect-from-sonys-first-playstation-showcase-si-1850449182)
 - [Dev.to/JS] [THE BASICS.](https://dev.to/pekachu17/the-basics-3642)
@@ -39,10 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Extending Strapi plugins 🚀 Ultimate guide 👨‍💻](https://dev.to/guaregua19/extending-strapi-plugins-ultimate-guide-56in)
 - [Lifehacker] [These Medical Debts Should Not Hurt Your Credit Score](https://lifehacker.com/these-medical-debts-should-not-hurt-your-credit-score-1850430183)
 - [Dev.to/JS] [What Is Kotlin and Why Use It For App Development? - 2023 Guide](https://dev.to/mukeshram/what-is-kotlin-and-why-use-it-for-app-development-2023-guide-2b13)
-- [Dev.to/JS] [AI based Mobile App with React Native](https://dev.to/baljeet975/ai-based-mobile-app-with-react-native-1491)
-- [Dev.to/JS] [Using sudo Is Bad but What Can You Do About It?](https://dev.to/mohammadfaisal/using-sudo-is-bad-but-what-can-you-do-about-it-2i7e)
-- [Dev.to/JS] [Understanding Closures in JavaScript](https://dev.to/codecraftjs/understanding-closures-in-javascript-3oom)
-- [Dev.to/JS] [React reconciliation: how it works and why should we care](https://dev.to/adevnadia/react-reconciliation-how-it-works-and-why-should-we-care-417e)
 - [Lifehacker] [What&#39;s New on Disney+ in June 2023](https://lifehacker.com/whats-new-on-disney-in-june-2023-1850447629)
 - [Lifehacker] [When to Avoid Cleaning With Hot Water](https://lifehacker.com/when-to-avoid-cleaning-with-hot-water-1850447208)
 - [Lifehacker] [Grill Tender Vegetables Right on Your Charcoal Chimney](https://lifehacker.com/grill-tender-vegetables-right-on-your-charcoal-chimney-1850447003)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Site Teaches You How to Build Weird Crap in ‘Zelda: Tears of the Kingdom’](https://lifehacker.com/this-site-teaches-you-how-to-build-weird-shit-in-tears-1850443594)
 - [Lifehacker] [How to Evolve From a ‘Jellyfish’ Parent to a ‘Dolphin’ Parent &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-evolve-from-a-jellyfish-parent-to-a-dolphin-1850441835)
 - [Lifehacker] [This Week&#39;s &#39;Black Moon&#39; Will Help You See Other Planets](https://lifehacker.com/this-weeks-black-moon-will-help-you-see-other-planets-1850442885)
-- [Lifehacker] [When You Should Consider Buying a Fixer-Upper &lpar;and When You Definitely Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-consider-buying-a-fixer-upper-and-when-1850441036)
-- [Lifehacker] [Use This Loophole to Get a $7,500 Tax Credit on Almost Any Electric Car](https://lifehacker.com/use-this-loophole-to-get-a-7-500-tax-credit-on-almost-1850442859)
-- [Lifehacker] [Overclock Your Switch to Make ‘Tears of the Kingdom’ Run Better](https://lifehacker.com/overclock-your-switch-to-make-tears-of-the-kingdom-ru-1850442406)
-- [Lifehacker] [Use This Gesture to Take an iPhone Video Without Pausing Your Music](https://lifehacker.com/use-this-gesture-to-take-an-iphone-video-without-pausin-1850442739)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When You Should Consider Buying a Fixer-Upper &lpar;and When You Definitely Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-consider-buying-a-fixer-upper-and-when-1850441036)<!-- TECH-POSTS:END -->
 
 ---
 
