@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Hear Me Out: Pickle Spaghetti](https://lifehacker.com/hear-me-out-pickle-spaghetti-1850451245)
+- [Dev.to/JS] [Nodejs Asynchronous Multithreading Web Scraping](https://dev.to/olavomello/nodejs-asynchronous-multithreading-web-scraping-244o)
+- [Dev.to/JS] [🎉Top React Libraries for Developers](https://dev.to/arafat4693/top-react-libraries-for-developers-33gb)
+- [Dev.to/JS] [Creating a Google Chrome Extension using HTML + CSS + Javascript](https://dev.to/olavomello/creating-a-google-chrome-extension-using-html-css-javascript-44d2)
+- [Dev.to/JS] [How to create a product carousel for a TalkJS chat](https://dev.to/talkjs/how-to-create-a-product-carousel-for-a-talkjs-chat-1oj2)
+- [Lifehacker] [You Can Get Tickets to These Summer Music Festivals for $99 Right Now](https://lifehacker.com/you-can-get-tickets-to-these-summer-music-festivals-for-1850450823)
+- [Dev.to/JS] [Manage video call permissions with Daily&#39;s &quot;knocking&quot; feature](https://dev.to/trydaily/manage-video-call-permissions-with-dailys-knocking-feature-4361)
+- [Lifehacker] [What&#39;s New on Hulu in June 2023](https://lifehacker.com/whats-new-on-hulu-in-june-2023-1850450843)
 - [Lifehacker] [Customizable Sports in Apple News, and Everything Else in iOS 16.5](https://lifehacker.com/customizable-sports-in-apple-news-and-everything-else-1850450440)
 - [Lifehacker] [13 Animated Movies That Will Get You Fired in Florida](https://lifehacker.com/13-animated-movies-that-will-get-you-fired-in-florida-1850446682)
 - [Dev.to/JS] [Series 2: Control Structures and Functions in JavaScript](https://dev.to/envitab/series-2-control-structures-and-functions-in-javascript-52ip)
@@ -40,13 +48,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Yes, Your Water Can Go Bad](https://lifehacker.com/yes-your-water-can-go-bad-1850449205)
 - [Lifehacker] [You Can Add Privacy to Your Windows With Decorative Film](https://lifehacker.com/you-can-add-privacy-to-your-windows-with-decorative-fil-1850448398)
 - [Lifehacker] [Use This Formula to Make a Spritz With Any Booze](https://lifehacker.com/use-this-formula-to-make-a-spritz-with-any-booze-1850447987)
-- [Dev.to/JS] [Magically use environment variables without a .env file](https://dev.to/dangtony98/magically-use-environment-variables-without-a-env-file-43ch)
-- [Dev.to/JS] [Converting between strings and numbers in JavaScript](https://dev.to/bybydev/converting-between-strings-and-numbers-in-javascript-3b5m)
-- [Dev.to/JS] [Promise: any vs race vs all in simple terms](https://dev.to/urstrulyvishwak/promise-any-vs-race-vs-all-in-simple-terms-3777)
 - [Lifehacker] [What People Are Getting Wrong This Week: Fake Celebrity Endorsements](https://lifehacker.com/what-people-are-getting-wrong-this-week-fake-celebrity-1850447668)
-- [Dev.to/JS] [Extending Strapi plugins 🚀 Ultimate guide 👨‍💻](https://dev.to/guaregua19/extending-strapi-plugins-ultimate-guide-56in)
 - [Lifehacker] [These Medical Debts Should Not Hurt Your Credit Score](https://lifehacker.com/these-medical-debts-should-not-hurt-your-credit-score-1850430183)
-- [Dev.to/JS] [What Is Kotlin and Why Use It For App Development? - 2023 Guide](https://dev.to/mukeshram/what-is-kotlin-and-why-use-it-for-app-development-2023-guide-2b13)
 - [Lifehacker] [What&#39;s New on Disney+ in June 2023](https://lifehacker.com/whats-new-on-disney-in-june-2023-1850447629)
 - [Lifehacker] [When to Avoid Cleaning With Hot Water](https://lifehacker.com/when-to-avoid-cleaning-with-hot-water-1850447208)
 - [Lifehacker] [Grill Tender Vegetables Right on Your Charcoal Chimney](https://lifehacker.com/grill-tender-vegetables-right-on-your-charcoal-chimney-1850447003)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Longest You Should Hoard Your Travel Points](https://lifehacker.com/the-longest-you-should-hoard-your-travel-points-1850374283)
 - [Lifehacker] [Use the ‘One-Touch’ Rule to Manage Your Inbox](https://lifehacker.com/use-the-one-touch-rule-to-manage-your-inbox-1850445344)
 - [Lifehacker] [Ask Yourself These Three Questions to Avoid Regretting a Purchase](https://lifehacker.com/ask-yourself-these-three-questions-to-avoid-regretting-1850445379)
-- [Lifehacker] [Where to Get a Rebate for Your Home’s New Windows](https://lifehacker.com/where-to-get-a-rebate-for-your-home-s-new-windows-1850444011)
-- [Lifehacker] [This Site Teaches You How to Build Weird Crap in ‘Zelda: Tears of the Kingdom’](https://lifehacker.com/this-site-teaches-you-how-to-build-weird-shit-in-tears-1850443594)
-- [Lifehacker] [How to Evolve From a ‘Jellyfish’ Parent to a ‘Dolphin’ Parent &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-evolve-from-a-jellyfish-parent-to-a-dolphin-1850441835)
-- [Lifehacker] [This Week&#39;s &#39;Black Moon&#39; Will Help You See Other Planets](https://lifehacker.com/this-weeks-black-moon-will-help-you-see-other-planets-1850442885)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Get a Rebate for Your Home’s New Windows](https://lifehacker.com/where-to-get-a-rebate-for-your-home-s-new-windows-1850444011)<!-- TECH-POSTS:END -->
 
 ---
 
