@@ -23,9 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Deal Makes Disney World Tickets Slightly Less Crushingly Expensive](https://lifehacker.com/this-deal-makes-disney-world-tickets-slightly-less-crus-1850451413)
+- [Lifehacker] [Log Into Your Old Google Accounts Before They’re Deleted](https://lifehacker.com/log-into-your-old-google-accounts-before-they-re-delete-1850450404)
+- [Dev.to/JS] [Understanding React and React Native Through the Principle of Single Responsibility](https://dev.to/ajkhatibi/understanding-react-and-react-native-through-the-principle-of-single-responsibility-3pd5)
 - [Lifehacker] [Hear Me Out: Pickle Spaghetti](https://lifehacker.com/hear-me-out-pickle-spaghetti-1850451245)
 - [Dev.to/JS] [Nodejs Asynchronous Multithreading Web Scraping](https://dev.to/olavomello/nodejs-asynchronous-multithreading-web-scraping-244o)
-- [Dev.to/JS] [🎉Top React Libraries for Developers](https://dev.to/arafat4693/top-react-libraries-for-developers-33gb)
+- [Dev.to/JS] [🎉Amazing &quot;React Libraries&quot; For Everyone](https://dev.to/arafat4693/top-react-libraries-for-developers-33gb)
 - [Dev.to/JS] [Creating a Google Chrome Extension using HTML + CSS + Javascript](https://dev.to/olavomello/creating-a-google-chrome-extension-using-html-css-javascript-44d2)
 - [Dev.to/JS] [How to create a product carousel for a TalkJS chat](https://dev.to/talkjs/how-to-create-a-product-carousel-for-a-talkjs-chat-1oj2)
 - [Lifehacker] [You Can Get Tickets to These Summer Music Festivals for $99 Right Now](https://lifehacker.com/you-can-get-tickets-to-these-summer-music-festivals-for-1850450823)
@@ -44,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [THE BASICS.](https://dev.to/pekachu17/the-basics-3642)
 - [Lifehacker] [What&#39;s New on &lpar;HBO&rpar; Max in June 2023](https://lifehacker.com/whats-new-on-hbo-max-in-june-2023-1850449794)
 - [Dev.to/JS] [Say Goodbye to JavaScript with Livewire: A Full-Stack Framework for Laravel](https://dev.to/lexissolutions/say-goodbye-to-javascript-with-livewire-a-full-stack-framework-for-laravel-55d7)
-- [Dev.to/JS] [High Level Languages: Advantages, Disadvantages &amp; Types](https://dev.to/rnvxonline/high-level-languages-advantages-disadvantages-types-218d)
 - [Lifehacker] [Yes, Your Water Can Go Bad](https://lifehacker.com/yes-your-water-can-go-bad-1850449205)
 - [Lifehacker] [You Can Add Privacy to Your Windows With Decorative Film](https://lifehacker.com/you-can-add-privacy-to-your-windows-with-decorative-fil-1850448398)
 - [Lifehacker] [Use This Formula to Make a Spritz With Any Booze](https://lifehacker.com/use-this-formula-to-make-a-spritz-with-any-booze-1850447987)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Add Artichoke Marinade to a Batch of Rice](https://lifehacker.com/you-should-add-artichoke-marinade-to-a-batch-of-rice-1850443597)
 - [Lifehacker] [ChatGPT Plus Has Two Huge New Features You Can Try Right Now](https://lifehacker.com/chatgpt-plus-has-two-huge-new-features-you-can-try-righ-1850445533)
 - [Lifehacker] [The Longest You Should Hoard Your Travel Points](https://lifehacker.com/the-longest-you-should-hoard-your-travel-points-1850374283)
-- [Lifehacker] [Use the ‘One-Touch’ Rule to Manage Your Inbox](https://lifehacker.com/use-the-one-touch-rule-to-manage-your-inbox-1850445344)
-- [Lifehacker] [Ask Yourself These Three Questions to Avoid Regretting a Purchase](https://lifehacker.com/ask-yourself-these-three-questions-to-avoid-regretting-1850445379)
-- [Lifehacker] [Where to Get a Rebate for Your Home’s New Windows](https://lifehacker.com/where-to-get-a-rebate-for-your-home-s-new-windows-1850444011)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the ‘One-Touch’ Rule to Manage Your Inbox](https://lifehacker.com/use-the-one-touch-rule-to-manage-your-inbox-1850445344)<!-- TECH-POSTS:END -->
 
 ---
 
