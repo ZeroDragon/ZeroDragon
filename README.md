@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [THE BASICS.](https://dev.to/pekachu17/the-basics-3642)
+- [Lifehacker] [What&#39;s New on &lpar;HBO&rpar; Max in June 2023](https://lifehacker.com/whats-new-on-hbo-max-in-june-2023-1850449794)
+- [Dev.to/JS] [Say Goodbye to JavaScript with Livewire: A Full-Stack Framework for Laravel](https://dev.to/lexissolutions/say-goodbye-to-javascript-with-livewire-a-full-stack-framework-for-laravel-55d7)
+- [Dev.to/JS] [High Level Languages: Advantages, Disadvantages &amp; Types](https://dev.to/rnvxonline/high-level-languages-advantages-disadvantages-types-218d)
 - [Lifehacker] [Yes, Your Water Can Go Bad](https://lifehacker.com/yes-your-water-can-go-bad-1850449205)
 - [Lifehacker] [You Can Add Privacy to Your Windows With Decorative Film](https://lifehacker.com/you-can-add-privacy-to-your-windows-with-decorative-fil-1850448398)
 - [Lifehacker] [Use This Formula to Make a Spritz With Any Booze](https://lifehacker.com/use-this-formula-to-make-a-spritz-with-any-booze-1850447987)
@@ -37,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using sudo Is Bad but What Can You Do About It?](https://dev.to/mohammadfaisal/using-sudo-is-bad-but-what-can-you-do-about-it-2i7e)
 - [Dev.to/JS] [Understanding Closures in JavaScript](https://dev.to/codecraftjs/understanding-closures-in-javascript-3oom)
 - [Dev.to/JS] [React reconciliation: how it works and why should we care](https://dev.to/adevnadia/react-reconciliation-how-it-works-and-why-should-we-care-417e)
-- [Dev.to/JS] [Cortexi - Reviews, Results, Price, Benefits And Ingredients?](https://dev.to/cortexifac72643/cortexi-reviews-results-price-benefits-and-ingredients-31ka)
-- [Dev.to/JS] [5 Most Important Things in Java Script](https://dev.to/abaidbutt/5-most-important-things-in-java-script-3cpi)
-- [Dev.to/JS] [Gaming Google - The perfect lighthouse score](https://dev.to/jonathongrantham/gaming-google-the-perfect-lighthouse-score-3d61)
 - [Lifehacker] [What&#39;s New on Disney+ in June 2023](https://lifehacker.com/whats-new-on-disney-in-june-2023-1850447629)
 - [Lifehacker] [When to Avoid Cleaning With Hot Water](https://lifehacker.com/when-to-avoid-cleaning-with-hot-water-1850447208)
 - [Lifehacker] [Grill Tender Vegetables Right on Your Charcoal Chimney](https://lifehacker.com/grill-tender-vegetables-right-on-your-charcoal-chimney-1850447003)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Overclock Your Switch to Make ‘Tears of the Kingdom’ Run Better](https://lifehacker.com/overclock-your-switch-to-make-tears-of-the-kingdom-ru-1850442406)
 - [Lifehacker] [Use This Gesture to Take an iPhone Video Without Pausing Your Music](https://lifehacker.com/use-this-gesture-to-take-an-iphone-video-without-pausin-1850442739)
 - [Lifehacker] [GM Is Recalling a Million SUVs Because the Airbags Might Explode and Kill You](https://lifehacker.com/gm-is-recalling-a-million-suvs-because-the-airbags-migh-1850442294)
-- [Lifehacker] [Make McFlurry-Style Treats in Your Stand Mixer](https://lifehacker.com/make-mcflurry-style-treats-in-your-stand-mixer-1850442158)
-- [Lifehacker] [Make This Cheat Sheet Before Applying for Scholarships](https://lifehacker.com/make-this-cheat-sheet-before-applying-for-scholarships-1850442034)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make McFlurry-Style Treats in Your Stand Mixer](https://lifehacker.com/make-mcflurry-style-treats-in-your-stand-mixer-1850442158)<!-- TECH-POSTS:END -->
 
 ---
 
