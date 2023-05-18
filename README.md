@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Yes, Your Water Can Go Bad](https://lifehacker.com/yes-your-water-can-go-bad-1850449205)
+- [Lifehacker] [You Can Add Privacy to Your Windows With Decorative Film](https://lifehacker.com/you-can-add-privacy-to-your-windows-with-decorative-fil-1850448398)
 - [Lifehacker] [Use This Formula to Make a Spritz With Any Booze](https://lifehacker.com/use-this-formula-to-make-a-spritz-with-any-booze-1850447987)
 - [Dev.to/JS] [Magically use environment variables without a .env file](https://dev.to/dangtony98/magically-use-environment-variables-without-a-env-file-43ch)
 - [Dev.to/JS] [Converting between strings and numbers in JavaScript](https://dev.to/bybydev/converting-between-strings-and-numbers-in-javascript-3b5m)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Gesture to Take an iPhone Video Without Pausing Your Music](https://lifehacker.com/use-this-gesture-to-take-an-iphone-video-without-pausin-1850442739)
 - [Lifehacker] [GM Is Recalling a Million SUVs Because the Airbags Might Explode and Kill You](https://lifehacker.com/gm-is-recalling-a-million-suvs-because-the-airbags-migh-1850442294)
 - [Lifehacker] [Make McFlurry-Style Treats in Your Stand Mixer](https://lifehacker.com/make-mcflurry-style-treats-in-your-stand-mixer-1850442158)
-- [Lifehacker] [Make This Cheat Sheet Before Applying for Scholarships](https://lifehacker.com/make-this-cheat-sheet-before-applying-for-scholarships-1850442034)
-- [Lifehacker] [This Gerber Infant Formula Is Being Recalled &lpar;Again&rpar;](https://lifehacker.com/this-gerber-infant-formula-is-being-recalled-again-1850441988)
-- [Lifehacker] [Here’s What You Can Actually Learn From Meal Kits](https://lifehacker.com/here-s-what-you-can-actually-learn-from-meal-kits-1850441519)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make This Cheat Sheet Before Applying for Scholarships](https://lifehacker.com/make-this-cheat-sheet-before-applying-for-scholarships-1850442034)<!-- TECH-POSTS:END -->
 
 ---
 
