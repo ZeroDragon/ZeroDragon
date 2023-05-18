@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use This Formula to Make a Spritz With Any Booze](https://lifehacker.com/use-this-formula-to-make-a-spritz-with-any-booze-1850447987)
+- [Dev.to/JS] [Magically use environment variables without a .env file](https://dev.to/dangtony98/magically-use-environment-variables-without-a-env-file-43ch)
+- [Dev.to/JS] [Converting between strings and numbers in JavaScript](https://dev.to/bybydev/converting-between-strings-and-numbers-in-javascript-3b5m)
+- [Dev.to/JS] [Promise: any vs race vs all in simple terms](https://dev.to/urstrulyvishwak/promise-any-vs-race-vs-all-in-simple-terms-3777)
+- [Lifehacker] [What People Are Getting Wrong This Week: Fake Celebrity Endorsements](https://lifehacker.com/what-people-are-getting-wrong-this-week-fake-celebrity-1850447668)
 - [Dev.to/JS] [Extending Strapi plugins 🚀 Ultimate guide 👨‍💻](https://dev.to/guaregua19/extending-strapi-plugins-ultimate-guide-56in)
+- [Lifehacker] [These Medical Debts Should Not Hurt Your Credit Score](https://lifehacker.com/these-medical-debts-should-not-hurt-your-credit-score-1850430183)
 - [Dev.to/JS] [What Is Kotlin and Why Use It For App Development? - 2023 Guide](https://dev.to/mukeshram/what-is-kotlin-and-why-use-it-for-app-development-2023-guide-2b13)
 - [Dev.to/JS] [AI based Mobile App with React Native](https://dev.to/baljeet975/ai-based-mobile-app-with-react-native-1491)
 - [Dev.to/JS] [Using sudo Is Bad but What Can You Do About It?](https://dev.to/mohammadfaisal/using-sudo-is-bad-but-what-can-you-do-about-it-2i7e)
@@ -32,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cortexi - Reviews, Results, Price, Benefits And Ingredients?](https://dev.to/cortexifac72643/cortexi-reviews-results-price-benefits-and-ingredients-31ka)
 - [Dev.to/JS] [5 Most Important Things in Java Script](https://dev.to/abaidbutt/5-most-important-things-in-java-script-3cpi)
 - [Dev.to/JS] [Gaming Google - The perfect lighthouse score](https://dev.to/jonathongrantham/gaming-google-the-perfect-lighthouse-score-3d61)
-- [Dev.to/JS] [NgRx diagram explained](https://dev.to/heybaldur/ngrx-diagram-explained-21ni)
-- [Dev.to/JS] [Write better code by following these JavaScript best practices](https://dev.to/dawsoncodes/write-better-code-by-following-these-javascript-best-practices-25mp)
-- [Dev.to/JS] [Recognizing 2D shapes and how to draw them on a canvas.](https://dev.to/_aaallison/recognizing-2d-shapes-and-how-to-draw-them-on-a-canvas-i6k)
 - [Lifehacker] [What&#39;s New on Disney+ in June 2023](https://lifehacker.com/whats-new-on-disney-in-june-2023-1850447629)
 - [Lifehacker] [When to Avoid Cleaning With Hot Water](https://lifehacker.com/when-to-avoid-cleaning-with-hot-water-1850447208)
 - [Lifehacker] [Grill Tender Vegetables Right on Your Charcoal Chimney](https://lifehacker.com/grill-tender-vegetables-right-on-your-charcoal-chimney-1850447003)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make McFlurry-Style Treats in Your Stand Mixer](https://lifehacker.com/make-mcflurry-style-treats-in-your-stand-mixer-1850442158)
 - [Lifehacker] [Make This Cheat Sheet Before Applying for Scholarships](https://lifehacker.com/make-this-cheat-sheet-before-applying-for-scholarships-1850442034)
 - [Lifehacker] [This Gerber Infant Formula Is Being Recalled &lpar;Again&rpar;](https://lifehacker.com/this-gerber-infant-formula-is-being-recalled-again-1850441988)
-- [Lifehacker] [Here’s What You Can Actually Learn From Meal Kits](https://lifehacker.com/here-s-what-you-can-actually-learn-from-meal-kits-1850441519)
-- [Lifehacker] [How to Lock Your Secrets in WhatsApp](https://lifehacker.com/use-whatsapp-s-chat-lock-feature-to-hide-your-sexts-1850440924)
-- [Lifehacker] [Waffle Some Eggplant for a Charred Treat](https://lifehacker.com/waffle-some-eggplant-for-a-charred-treat-1850439754)
-- [Lifehacker] [Why You Should Stop Bringing Your Laptop to Class](https://lifehacker.com/why-you-should-stop-bringing-your-laptop-to-class-1850441339)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here’s What You Can Actually Learn From Meal Kits](https://lifehacker.com/here-s-what-you-can-actually-learn-from-meal-kits-1850441519)<!-- TECH-POSTS:END -->
 
 ---
 
