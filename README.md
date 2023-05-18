@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Customizable Sports in Apple News, and Everything Else in iOS 16.5](https://lifehacker.com/customizable-sports-in-apple-news-and-everything-else-1850450440)
 - [Lifehacker] [13 Animated Movies That Will Get You Fired in Florida](https://lifehacker.com/13-animated-movies-that-will-get-you-fired-in-florida-1850446682)
 - [Dev.to/JS] [Series 2: Control Structures and Functions in JavaScript](https://dev.to/envitab/series-2-control-structures-and-functions-in-javascript-52ip)
 - [Lifehacker] [Biorhythms Aren&#39;t Real, But &#39;Peaks&#39; of Productivity Can Be](https://lifehacker.com/biorhythms-arent-real-but-peaks-of-productivity-can-be-1850450346)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Get a Rebate for Your Home’s New Windows](https://lifehacker.com/where-to-get-a-rebate-for-your-home-s-new-windows-1850444011)
 - [Lifehacker] [This Site Teaches You How to Build Weird Crap in ‘Zelda: Tears of the Kingdom’](https://lifehacker.com/this-site-teaches-you-how-to-build-weird-shit-in-tears-1850443594)
 - [Lifehacker] [How to Evolve From a ‘Jellyfish’ Parent to a ‘Dolphin’ Parent &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-evolve-from-a-jellyfish-parent-to-a-dolphin-1850441835)
-- [Lifehacker] [This Week&#39;s &#39;Black Moon&#39; Will Help You See Other Planets](https://lifehacker.com/this-weeks-black-moon-will-help-you-see-other-planets-1850442885)
-- [Lifehacker] [When You Should Consider Buying a Fixer-Upper &lpar;and When You Definitely Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-consider-buying-a-fixer-upper-and-when-1850441036)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Week&#39;s &#39;Black Moon&#39; Will Help You See Other Planets](https://lifehacker.com/this-weeks-black-moon-will-help-you-see-other-planets-1850442885)<!-- TECH-POSTS:END -->
 
 ---
 
