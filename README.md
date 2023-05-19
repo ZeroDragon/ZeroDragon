@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Four Questions to Ask Yourself Before Hiring a College Admissions Counselor](https://lifehacker.com/the-four-questions-to-ask-yourself-before-hiring-a-coll-1850455745)
+- [Dev.to/JS] [3.12 - How to Become a Full Time Content Creator](https://dev.to/codingcatdev/312-how-to-become-a-full-time-content-creator-2cc9)
+- [Lifehacker] [This AI-Powered App Will Teach You Piano, and It’s On Sale](https://lifehacker.com/this-ai-powered-app-will-teach-you-piano-and-it-s-on-s-1850451892)
+- [Dev.to/JS] [Write a file into specific folder in Node JS example](https://dev.to/biplab3/write-a-file-into-specific-folder-in-node-js-example-11kk)
+- [Lifehacker] [How to Empty Your Food Processor Without the Blade Falling Out](https://lifehacker.com/how-to-empty-your-food-processor-without-the-blade-fall-1850455661)
 - [Dev.to/JS] [Django + Tailwind CSS](https://dev.to/vincod/django-tailwind-css-3b5i)
 - [Lifehacker] [Your Complete Summer Checklist to Get Ready for College in the Fall](https://lifehacker.com/your-complete-summer-checklist-to-get-ready-for-college-1850455373)
 - [Dev.to/JS] [What Nobody Told Me About Software Design](https://dev.to/mohammadfaisal/what-nobody-told-me-about-software-design-4b6k)
@@ -41,10 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction of REST Architecture](https://dev.to/sardarmudassaralikhan/introduction-of-rest-architecture-3cpd)
 - [Lifehacker] [You Can Track Your Teen&#39;s Uber](https://lifehacker.com/you-can-track-your-teens-uber-1850451886)
 - [Dev.to/JS] [Creating a Dynamic Layout for Multi Host Broadcasts with Amazon IVS](https://dev.to/aws/creating-a-dynamic-layout-for-multi-host-broadcasts-with-amazon-ivs-52n4)
-- [Dev.to/JS] [Component vs View.](https://dev.to/edvaldolima/components-vs-views-e9m)
 - [Lifehacker] [Make Cavernous, Aerated Cheese Crisps in Your Air Fryer](https://lifehacker.com/make-cavernous-aerated-cheese-crisps-in-your-air-fryer-1850452037)
 - [Lifehacker] [The Easiest Way to Clean Dirty Oven Racks](https://lifehacker.com/the-easiest-way-to-clean-dirty-oven-racks-1850453546)
-- [Dev.to/JS] [How to Code the Recursive Fibonacci Algorithm](https://dev.to/nielsenjared/how-to-code-the-recursive-fibonacci-algorithm-1f83)
 - [Lifehacker] [9 Store Clubs Worth the Money &lpar;and 7 That Probably Aren&#39;t&rpar;](https://lifehacker.com/9-store-clubs-worth-the-money-and-7-that-probably-aren-1850450868)
 - [Lifehacker] [Why You Should Stop Eating Fake Sugars, According to the World Health Organization](https://lifehacker.com/why-you-should-stop-eating-fake-sugars-according-to-th-1850451753)
 - [Lifehacker] [This Deal Makes Disney World Tickets Slightly Less Crushingly Expensive](https://lifehacker.com/this-deal-makes-disney-world-tickets-slightly-less-crus-1850451413)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Co-Parent With a Narcissist](https://lifehacker.com/how-to-co-parent-with-a-narcissist-1850426132)
 - [Lifehacker] [What to Expect From Sony&#39;s First PlayStation Showcase Since 2021](https://lifehacker.com/what-to-expect-from-sonys-first-playstation-showcase-si-1850449182)
 - [Lifehacker] [What&#39;s New on &lpar;HBO&rpar; Max in June 2023](https://lifehacker.com/whats-new-on-hbo-max-in-june-2023-1850449794)
-- [Lifehacker] [Yes, Your Water Can Go Bad](https://lifehacker.com/yes-your-water-can-go-bad-1850449205)
-- [Lifehacker] [You Can Add Privacy to Your Windows With Decorative Film](https://lifehacker.com/you-can-add-privacy-to-your-windows-with-decorative-fil-1850448398)
-- [Lifehacker] [Use This Formula to Make a Spritz With Any Booze](https://lifehacker.com/use-this-formula-to-make-a-spritz-with-any-booze-1850447987)
-- [Lifehacker] [What People Are Getting Wrong This Week: Fake Celebrity Endorsements](https://lifehacker.com/what-people-are-getting-wrong-this-week-fake-celebrity-1850447668)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Yes, Your Water Can Go Bad](https://lifehacker.com/yes-your-water-can-go-bad-1850449205)<!-- TECH-POSTS:END -->
 
 ---
 
