@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Latest Trends and Development in Node.JS &lpar;2023 Edition&rpar;](https://dev.to/devashishmamgain/the-latest-trends-and-development-in-nodejs-2023-edition-30d7)
+- [Dev.to/JS] [Portfolio site](https://dev.to/candlepeter/portfolio-site-3dpo)
+- [Dev.to/JS] [HOUSE AND OFFICE SHIFTING SERVICES](https://dev.to/eshiftingservicebd/house-and-office-shifting-services-24a9)
+- [Dev.to/JS] [JSX and React: Learn how to Write Maintainable Code – CheatSheet](https://dev.to/aradwan20/jsx-and-react-learn-how-to-write-maintainable-code-cheatsheet-5308)
 - [Dev.to/JS] [How to fix QuickBooks payroll error 30114?](https://dev.to/elinawilliam12/how-to-fix-quickbooks-payroll-error-30114-1b0o)
 - [Dev.to/JS] [NeuroTonix - Brain Booster Results, Pros, Cons, Price &amp; Ingredients?](https://dev.to/neurotonix36581/neurotonix-brain-booster-results-pros-cons-price-ingredients-5ij)
 - [Dev.to/JS] [Create a Flashcard Application Using React](https://dev.to/drwomble/create-a-flashcard-application-using-react-53ij)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bibliotecas que todo desenvolvedor Vue.js deveria conhecer](https://dev.to/webdavi/bibliotecas-que-todo-desenvolvedor-vuejs-deveria-conhecer-9hk)
 - [Dev.to/JS] [For Loops in JavaScript | JavaScript #7](https://dev.to/sksage/for-loops-in-javascript-javascript-7-f82)
 - [Dev.to/JS] [Svelte Demo Todo Walkthrough](https://dev.to/appwrite/svelte-demo-todo-walkthrough-58dn)
-- [Dev.to/JS] [Gerenciando versões do Node.js com NVM](https://dev.to/oricardos/gerenciando-versoes-do-nodejs-com-nvm-cjc)
-- [Dev.to/JS] [Updates from the 96th TC39 meeting](https://dev.to/hemanth/updates-from-the-96th-tc39-meeting-4goe)
-- [Dev.to/JS] [Code Smell 213 - Hoisting](https://dev.to/mcsee/code-smell-213-hoisting-40lp)
-- [Dev.to/JS] [ISSUE-LABELER: Automated Issue Labeling for GitHub](https://dev.to/dhhruv/issue-labeler-1epe)
 - [Lifehacker] [Why You Should Stop Eating Fake Sugars, According to the World Health Organization](https://lifehacker.com/why-you-should-stop-eating-fake-sugars-according-to-th-1850451753)
 - [Lifehacker] [This Deal Makes Disney World Tickets Slightly Less Crushingly Expensive](https://lifehacker.com/this-deal-makes-disney-world-tickets-slightly-less-crus-1850451413)
 - [Lifehacker] [Log Into Your Old Google Accounts Before They’re Deleted](https://lifehacker.com/log-into-your-old-google-accounts-before-they-re-delete-1850450404)
