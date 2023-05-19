@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Django + Tailwind CSS](https://dev.to/vincod/django-tailwind-css-3b5i)
+- [Lifehacker] [Your Complete Summer Checklist to Get Ready for College in the Fall](https://lifehacker.com/your-complete-summer-checklist-to-get-ready-for-college-1850455373)
+- [Dev.to/JS] [What Nobody Told Me About Software Design](https://dev.to/mohammadfaisal/what-nobody-told-me-about-software-design-4b6k)
 - [Dev.to/JS] [Drawing basic 2D shapes on a canvas.](https://dev.to/_aaallison/drawing-basic-2d-shapes-on-a-canvas-44md)
 - [Dev.to/JS] [Java Script - Part I](https://dev.to/codercrux/java-script-part-i-11l2)
 - [Lifehacker] [You Should Use a Frother to Mix Your Protein Powder](https://lifehacker.com/you-should-use-a-frother-to-mix-your-protein-powder-1850455135)
@@ -38,13 +41,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction of REST Architecture](https://dev.to/sardarmudassaralikhan/introduction-of-rest-architecture-3cpd)
 - [Lifehacker] [You Can Track Your Teen&#39;s Uber](https://lifehacker.com/you-can-track-your-teens-uber-1850451886)
 - [Dev.to/JS] [Creating a Dynamic Layout for Multi Host Broadcasts with Amazon IVS](https://dev.to/aws/creating-a-dynamic-layout-for-multi-host-broadcasts-with-amazon-ivs-52n4)
-- [Dev.to/JS] [Componente vs View.](https://dev.to/edvaldolima/components-vs-views-e9m)
+- [Dev.to/JS] [Component vs View.](https://dev.to/edvaldolima/components-vs-views-e9m)
 - [Lifehacker] [Make Cavernous, Aerated Cheese Crisps in Your Air Fryer](https://lifehacker.com/make-cavernous-aerated-cheese-crisps-in-your-air-fryer-1850452037)
 - [Lifehacker] [The Easiest Way to Clean Dirty Oven Racks](https://lifehacker.com/the-easiest-way-to-clean-dirty-oven-racks-1850453546)
 - [Dev.to/JS] [How to Code the Recursive Fibonacci Algorithm](https://dev.to/nielsenjared/how-to-code-the-recursive-fibonacci-algorithm-1f83)
 - [Lifehacker] [9 Store Clubs Worth the Money &lpar;and 7 That Probably Aren&#39;t&rpar;](https://lifehacker.com/9-store-clubs-worth-the-money-and-7-that-probably-aren-1850450868)
-- [Dev.to/JS] [A quick dive into NextJS app folder](https://dev.to/hi_iam_chris/a-quick-dive-into-nextjs-app-folder-2jh)
-- [Dev.to/JS] [How React Preserve and Reset State](https://dev.to/muneebkhan4/how-react-preserve-and-reset-state-38la)
 - [Lifehacker] [Why You Should Stop Eating Fake Sugars, According to the World Health Organization](https://lifehacker.com/why-you-should-stop-eating-fake-sugars-according-to-th-1850451753)
 - [Lifehacker] [This Deal Makes Disney World Tickets Slightly Less Crushingly Expensive](https://lifehacker.com/this-deal-makes-disney-world-tickets-slightly-less-crus-1850451413)
 - [Lifehacker] [Log Into Your Old Google Accounts Before They’re Deleted](https://lifehacker.com/log-into-your-old-google-accounts-before-they-re-delete-1850450404)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Yes, Your Water Can Go Bad](https://lifehacker.com/yes-your-water-can-go-bad-1850449205)
 - [Lifehacker] [You Can Add Privacy to Your Windows With Decorative Film](https://lifehacker.com/you-can-add-privacy-to-your-windows-with-decorative-fil-1850448398)
 - [Lifehacker] [Use This Formula to Make a Spritz With Any Booze](https://lifehacker.com/use-this-formula-to-make-a-spritz-with-any-booze-1850447987)
-- [Lifehacker] [What People Are Getting Wrong This Week: Fake Celebrity Endorsements](https://lifehacker.com/what-people-are-getting-wrong-this-week-fake-celebrity-1850447668)
-- [Lifehacker] [These Medical Debts Should Not Hurt Your Credit Score](https://lifehacker.com/these-medical-debts-should-not-hurt-your-credit-score-1850430183)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What People Are Getting Wrong This Week: Fake Celebrity Endorsements](https://lifehacker.com/what-people-are-getting-wrong-this-week-fake-celebrity-1850447668)<!-- TECH-POSTS:END -->
 
 ---
 
