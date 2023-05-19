@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; File a Home Insurance Claim](https://lifehacker.com/when-you-should-and-shouldnt-file-a-home-insurance-cl-1850455645)
 - [Lifehacker] [The Four Questions to Ask Yourself Before Hiring a College Admissions Counselor](https://lifehacker.com/the-four-questions-to-ask-yourself-before-hiring-a-coll-1850455745)
 - [Dev.to/JS] [3.12 - How to Become a Full Time Content Creator](https://dev.to/codingcatdev/312-how-to-become-a-full-time-content-creator-2cc9)
 - [Lifehacker] [This AI-Powered App Will Teach You Piano, and It’s On Sale](https://lifehacker.com/this-ai-powered-app-will-teach-you-piano-and-it-s-on-s-1850451892)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Gas Grill Repairs You Can Do Yourself Before Summer](https://lifehacker.com/the-gas-grill-repairs-you-can-do-yourself-before-summer-1850448449)
 - [Lifehacker] [How to Co-Parent With a Narcissist](https://lifehacker.com/how-to-co-parent-with-a-narcissist-1850426132)
 - [Lifehacker] [What to Expect From Sony&#39;s First PlayStation Showcase Since 2021](https://lifehacker.com/what-to-expect-from-sonys-first-playstation-showcase-si-1850449182)
-- [Lifehacker] [What&#39;s New on &lpar;HBO&rpar; Max in June 2023](https://lifehacker.com/whats-new-on-hbo-max-in-june-2023-1850449794)
-- [Lifehacker] [Yes, Your Water Can Go Bad](https://lifehacker.com/yes-your-water-can-go-bad-1850449205)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on &lpar;HBO&rpar; Max in June 2023](https://lifehacker.com/whats-new-on-hbo-max-in-june-2023-1850449794)<!-- TECH-POSTS:END -->
 
 ---
 
