@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to fix QuickBooks payroll error 30114?](https://dev.to/elinawilliam12/how-to-fix-quickbooks-payroll-error-30114-1b0o)
+- [Dev.to/JS] [NeuroTonix - Brain Booster Results, Pros, Cons, Price &amp; Ingredients?](https://dev.to/neurotonix36581/neurotonix-brain-booster-results-pros-cons-price-ingredients-5ij)
 - [Dev.to/JS] [Create a Flashcard Application Using React](https://dev.to/drwomble/create-a-flashcard-application-using-react-53ij)
 - [Dev.to/JS] [Mastering Debounce: Control Function Execution for Improved JavaScript Performance](https://dev.to/danities316/mastering-debounce-control-function-execution-for-improved-javascript-performance-npf)
 - [Dev.to/JS] [How to Create Tri-category To-do Lists Using JavaScript](https://dev.to/seuncodesnwrite/how-to-create-tri-category-to-do-lists-using-javascript-3855)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Updates from the 96th TC39 meeting](https://dev.to/hemanth/updates-from-the-96th-tc39-meeting-4goe)
 - [Dev.to/JS] [Code Smell 213 - Hoisting](https://dev.to/mcsee/code-smell-213-hoisting-40lp)
 - [Dev.to/JS] [ISSUE-LABELER: Automated Issue Labeling for GitHub](https://dev.to/dhhruv/issue-labeler-1epe)
-- [Dev.to/JS] [Getting Started with JSON: Streamlining Data Handling for Beginners](https://dev.to/devlawrence/getting-started-with-json-streamlining-data-handling-for-beginners-jkn)
-- [Dev.to/JS] [Animate your SVG text with animejs &lpar;and Vue&rpar;](https://dev.to/vakme/animate-your-svg-text-with-animejs-64p)
 - [Lifehacker] [Why You Should Stop Eating Fake Sugars, According to the World Health Organization](https://lifehacker.com/why-you-should-stop-eating-fake-sugars-according-to-th-1850451753)
 - [Lifehacker] [This Deal Makes Disney World Tickets Slightly Less Crushingly Expensive](https://lifehacker.com/this-deal-makes-disney-world-tickets-slightly-less-crus-1850451413)
 - [Lifehacker] [Log Into Your Old Google Accounts Before They’re Deleted](https://lifehacker.com/log-into-your-old-google-accounts-before-they-re-delete-1850450404)
