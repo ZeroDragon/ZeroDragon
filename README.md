@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A quick dive into NextJS app folder](https://dev.to/hi_iam_chris/a-quick-dive-into-nextjs-app-folder-2jh)
+- [Dev.to/JS] [How React Preserve and Reset State](https://dev.to/muneebkhan4/how-react-preserve-and-reset-state-38la)
+- [Dev.to/JS] [Let&#39;s make a cool mouse event bubble animation in just 50 lines of JavaScript!](https://dev.to/renancferro/lets-make-a-cool-mouse-event-bubble-animation-in-just-50-lines-of-javascript-4hlc)
+- [Dev.to/JS] [Simplifying State Management in React.js with Currying](https://dev.to/amubasshir/simplifying-state-management-in-reactjs-with-currying-kpl)
 - [Dev.to/JS] [Develop Next-Generation Solutions With Acquaint - A Laravel Partner](https://dev.to/mukeshram/develop-next-generation-solutions-with-acquaint-a-laravel-partner-57id)
 - [Dev.to/JS] [How to Solve CORS Origin Issue in Asp.Net Core Web API](https://dev.to/sardarmudassaralikhan/how-to-solve-cors-origin-issue-in-aspnet-core-web-api-4jdl)
 - [Dev.to/JS] [What is Circular Dependency in Microsoft Asp.net Core Web API](https://dev.to/sardarmudassaralikhan/what-is-circular-dependency-in-microsoft-aspnet-core-web-api-19hf)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating stunning blogs with Appwrite’s database relationships and Nuxt](https://dev.to/hackmamba/creating-stunning-blogs-with-appwrites-database-relationships-and-nuxt-2dlm)
 - [Dev.to/JS] [Is this how you test Node cron jobs?](https://dev.to/smritirgi/is-this-how-you-test-node-cron-jobs-3ah7)
 - [Dev.to/JS] [Three Underrated VS Code Extensions That Can Save You Lots of Time](https://dev.to/levischouten/three-underrated-vs-code-extensions-that-can-save-you-lots-of-time-210p)
-- [Dev.to/JS] [&quot;Bugs in Software Development: Types and Real-World Examples](https://dev.to/yashsu/bugs-in-software-development-types-and-real-world-examples-2d8m)
-- [Dev.to/JS] [First Class Function in Javascript](https://dev.to/codecraftjs/first-class-function-in-javascript-2d6h)
-- [Dev.to/JS] [The Latest Trends and Development in Node.JS &lpar;2023 Edition&rpar;](https://dev.to/devashishmamgain/the-latest-trends-and-development-in-nodejs-2023-edition-30d7)
-- [Dev.to/JS] [Portfolio site](https://dev.to/candlepeter/portfolio-site-3dpo)
 - [Lifehacker] [Why You Should Stop Eating Fake Sugars, According to the World Health Organization](https://lifehacker.com/why-you-should-stop-eating-fake-sugars-according-to-th-1850451753)
 - [Lifehacker] [This Deal Makes Disney World Tickets Slightly Less Crushingly Expensive](https://lifehacker.com/this-deal-makes-disney-world-tickets-slightly-less-crus-1850451413)
 - [Lifehacker] [Log Into Your Old Google Accounts Before They’re Deleted](https://lifehacker.com/log-into-your-old-google-accounts-before-they-re-delete-1850450404)
