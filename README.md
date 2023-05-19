@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Develop Next-Generation Solutions With Acquaint - A Laravel Partner](https://dev.to/mukeshram/develop-next-generation-solutions-with-acquaint-a-laravel-partner-57id)
+- [Dev.to/JS] [How to Solve CORS Origin Issue in Asp.Net Core Web API](https://dev.to/sardarmudassaralikhan/how-to-solve-cors-origin-issue-in-aspnet-core-web-api-4jdl)
+- [Dev.to/JS] [What is Circular Dependency in Microsoft Asp.net Core Web API](https://dev.to/sardarmudassaralikhan/what-is-circular-dependency-in-microsoft-aspnet-core-web-api-19hf)
 - [Dev.to/JS] [Creating Custom Radio Buttons In ReactJS: A Step By Step Guide](https://dev.to/okafor__mary/creating-custom-radio-buttons-in-reactjs-a-step-by-step-guide-4gk6)
 - [Dev.to/JS] [Embrace Your New Coding Buddy](https://dev.to/micheaol/embrace-your-new-coding-buddy-4h06)
 - [Dev.to/JS] [Creating stunning blogs with Appwrite’s database relationships and Nuxt](https://dev.to/hackmamba/creating-stunning-blogs-with-appwrites-database-relationships-and-nuxt-2dlm)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [First Class Function in Javascript](https://dev.to/codecraftjs/first-class-function-in-javascript-2d6h)
 - [Dev.to/JS] [The Latest Trends and Development in Node.JS &lpar;2023 Edition&rpar;](https://dev.to/devashishmamgain/the-latest-trends-and-development-in-nodejs-2023-edition-30d7)
 - [Dev.to/JS] [Portfolio site](https://dev.to/candlepeter/portfolio-site-3dpo)
-- [Dev.to/JS] [HOUSE AND OFFICE SHIFTING SERVICES](https://dev.to/eshiftingservicebd/house-and-office-shifting-services-24a9)
-- [Dev.to/JS] [JSX and React: Learn how to Write Maintainable Code – CheatSheet](https://dev.to/aradwan20/jsx-and-react-learn-how-to-write-maintainable-code-cheatsheet-5308)
-- [Dev.to/JS] [How to fix QuickBooks payroll error 30114?](https://dev.to/elinawilliam12/how-to-fix-quickbooks-payroll-error-30114-1b0o)
 - [Lifehacker] [Why You Should Stop Eating Fake Sugars, According to the World Health Organization](https://lifehacker.com/why-you-should-stop-eating-fake-sugars-according-to-th-1850451753)
 - [Lifehacker] [This Deal Makes Disney World Tickets Slightly Less Crushingly Expensive](https://lifehacker.com/this-deal-makes-disney-world-tickets-slightly-less-crus-1850451413)
 - [Lifehacker] [Log Into Your Old Google Accounts Before They’re Deleted](https://lifehacker.com/log-into-your-old-google-accounts-before-they-re-delete-1850450404)
