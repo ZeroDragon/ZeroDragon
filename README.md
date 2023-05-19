@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Robust Serverless Messaging Service with Amazon EventBridge Pipes and CDK](https://dev.to/aws-builders/building-a-robust-serverless-messaging-service-with-amazon-eventbridge-pipes-and-cdk-2i9a)
+- [Dev.to/JS] [Starting with GitHub Actions](https://dev.to/piyushkdas0611/starting-with-github-actions-23c8)
+- [Lifehacker] [A Guide to Discreetly Traveling With Weed](https://lifehacker.com/a-guide-to-discreetly-traveling-with-weed-1850432640)
+- [Lifehacker] [Try the &#39;Butterfly Hug&#39; When You Need to Calm Down](https://lifehacker.com/try-the-butterfly-hug-when-you-need-to-calm-down-1850453309)
 - [Dev.to/JS] [Introduction of REST Architecture](https://dev.to/sardarmudassaralikhan/introduction-of-rest-architecture-3cpd)
 - [Lifehacker] [You Can Track Your Teen&#39;s Uber](https://lifehacker.com/you-can-track-your-teens-uber-1850451886)
 - [Dev.to/JS] [Creating a Dynamic Layout for Multi Host Broadcasts with Amazon IVS](https://dev.to/aws/creating-a-dynamic-layout-for-multi-host-broadcasts-with-amazon-ivs-52n4)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simplifying State Management in React.js with Currying](https://dev.to/amubasshir/simplifying-state-management-in-reactjs-with-currying-kpl)
 - [Dev.to/JS] [Develop Next-Generation Solutions With Acquaint - A Laravel Partner](https://dev.to/mukeshram/develop-next-generation-solutions-with-acquaint-a-laravel-partner-57id)
 - [Dev.to/JS] [How to Solve CORS Origin Issue in Asp.Net Core Web API](https://dev.to/sardarmudassaralikhan/how-to-solve-cors-origin-issue-in-aspnet-core-web-api-4jdl)
-- [Dev.to/JS] [What is Circular Dependency in Microsoft Asp.net Core Web API](https://dev.to/sardarmudassaralikhan/what-is-circular-dependency-in-microsoft-aspnet-core-web-api-19hf)
-- [Dev.to/JS] [Creating Custom Radio Buttons In ReactJS: A Step By Step Guide](https://dev.to/okafor__mary/creating-custom-radio-buttons-in-reactjs-a-step-by-step-guide-4gk6)
 - [Lifehacker] [Why You Should Stop Eating Fake Sugars, According to the World Health Organization](https://lifehacker.com/why-you-should-stop-eating-fake-sugars-according-to-th-1850451753)
 - [Lifehacker] [This Deal Makes Disney World Tickets Slightly Less Crushingly Expensive](https://lifehacker.com/this-deal-makes-disney-world-tickets-slightly-less-crus-1850451413)
 - [Lifehacker] [Log Into Your Old Google Accounts Before They’re Deleted](https://lifehacker.com/log-into-your-old-google-accounts-before-they-re-delete-1850450404)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Disney+ in June 2023](https://lifehacker.com/whats-new-on-disney-in-june-2023-1850447629)
 - [Lifehacker] [When to Avoid Cleaning With Hot Water](https://lifehacker.com/when-to-avoid-cleaning-with-hot-water-1850447208)
 - [Lifehacker] [Grill Tender Vegetables Right on Your Charcoal Chimney](https://lifehacker.com/grill-tender-vegetables-right-on-your-charcoal-chimney-1850447003)
-- [Lifehacker] [You Can Try Google’s New Bard Features Right Now](https://lifehacker.com/you-can-try-google-s-new-bard-features-right-now-1850446640)
-- [Lifehacker] [Ask Your Kid to Make a Tiny Vase for the Flowers They Keep Picking for You](https://lifehacker.com/ask-your-kid-to-make-a-tiny-vase-for-the-flowers-they-k-1850445751)
-- [Lifehacker] [Get These Life-Saving Certifications Online for Free](https://lifehacker.com/get-these-life-saving-certifications-online-for-free-1850446551)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Try Google’s New Bard Features Right Now](https://lifehacker.com/you-can-try-google-s-new-bard-features-right-now-1850446640)<!-- TECH-POSTS:END -->
 
 ---
 
