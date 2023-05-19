@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ISSUE-LABELER: Automated Issue Labeling for GitHub](https://dev.to/dhhruv/issue-labeler-1epe)
 - [Dev.to/JS] [Getting Started with JSON: Streamlining Data Handling for Beginners](https://dev.to/devlawrence/getting-started-with-json-streamlining-data-handling-for-beginners-jkn)
 - [Dev.to/JS] [Animate your SVG text with animejs &lpar;and Vue&rpar;](https://dev.to/vakme/animate-your-svg-text-with-animejs-64p)
 - [Lifehacker] [Why You Should Stop Eating Fake Sugars, According to the World Health Organization](https://lifehacker.com/why-you-should-stop-eating-fake-sugars-according-to-th-1850451753)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Series 1: Introduction to JavaScript](https://dev.to/envitab/series-1-introduction-to-javascript-1iof)
 - [Dev.to/JS] [Free Next.js Boilerplate for ⚡️High-Performance⚡️ Enterprise Apps](https://dev.to/jjablonskiit/free-nextjs-boilerplate-for-high-performance-enterprise-apps-14f7)
 - [Lifehacker] [The Gas Grill Repairs You Can Do Yourself Before Summer](https://lifehacker.com/the-gas-grill-repairs-you-can-do-yourself-before-summer-1850448449)
-- [Dev.to/JS] [How to Add Highlight Annotations to PDF Using a JavaScript PDF Viewer](https://dev.to/grapecity/how-to-add-highlight-annotations-to-pdf-using-a-javascript-pdf-viewer-eg7)
 - [Lifehacker] [How to Co-Parent With a Narcissist](https://lifehacker.com/how-to-co-parent-with-a-narcissist-1850426132)
 - [Lifehacker] [What to Expect From Sony&#39;s First PlayStation Showcase Since 2021](https://lifehacker.com/what-to-expect-from-sonys-first-playstation-showcase-si-1850449182)
 - [Lifehacker] [What&#39;s New on &lpar;HBO&rpar; Max in June 2023](https://lifehacker.com/whats-new-on-hbo-max-in-june-2023-1850449794)
