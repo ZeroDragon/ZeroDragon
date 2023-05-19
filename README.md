@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a Flashcard Application Using React](https://dev.to/drwomble/create-a-flashcard-application-using-react-53ij)
 - [Dev.to/JS] [Mastering Debounce: Control Function Execution for Improved JavaScript Performance](https://dev.to/danities316/mastering-debounce-control-function-execution-for-improved-javascript-performance-npf)
 - [Dev.to/JS] [How to Create Tri-category To-do Lists Using JavaScript](https://dev.to/seuncodesnwrite/how-to-create-tri-category-to-do-lists-using-javascript-3855)
 - [Dev.to/JS] [Bibliotecas que todo desenvolvedor Vue.js deveria conhecer](https://dev.to/webdavi/bibliotecas-que-todo-desenvolvedor-vuejs-deveria-conhecer-9hk)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Stop Eating Fake Sugars, According to the World Health Organization](https://lifehacker.com/why-you-should-stop-eating-fake-sugars-according-to-th-1850451753)
 - [Lifehacker] [This Deal Makes Disney World Tickets Slightly Less Crushingly Expensive](https://lifehacker.com/this-deal-makes-disney-world-tickets-slightly-less-crus-1850451413)
 - [Lifehacker] [Log Into Your Old Google Accounts Before They’re Deleted](https://lifehacker.com/log-into-your-old-google-accounts-before-they-re-delete-1850450404)
-- [Dev.to/JS] [Understanding React and React Native Through the Principle of Single Responsibility](https://dev.to/ajkhatibi/understanding-react-and-react-native-through-the-principle-of-single-responsibility-3pd5)
 - [Lifehacker] [Hear Me Out: Pickle Spaghetti](https://lifehacker.com/hear-me-out-pickle-spaghetti-1850451245)
 - [Lifehacker] [You Can Get Tickets to These Summer Music Festivals for $99 Right Now](https://lifehacker.com/you-can-get-tickets-to-these-summer-music-festivals-for-1850450823)
 - [Lifehacker] [What&#39;s New on Hulu in June 2023](https://lifehacker.com/whats-new-on-hulu-in-june-2023-1850450843)
