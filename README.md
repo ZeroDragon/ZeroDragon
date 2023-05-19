@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Components vs Views.](https://dev.to/edvaldolima/components-vs-views-e9m)
+- [Lifehacker] [The Easiest Way to Clean Dirty Oven Racks](https://lifehacker.com/the-easiest-way-to-clean-dirty-oven-racks-1850453546)
+- [Dev.to/JS] [How to Code the Recursive Fibonacci Algorithm](https://dev.to/nielsenjared/how-to-code-the-recursive-fibonacci-algorithm-1f83)
+- [Lifehacker] [9 Store Clubs Worth the Money &lpar;and 7 That Probably Aren&#39;t&rpar;](https://lifehacker.com/9-store-clubs-worth-the-money-and-7-that-probably-aren-1850450868)
 - [Dev.to/JS] [A quick dive into NextJS app folder](https://dev.to/hi_iam_chris/a-quick-dive-into-nextjs-app-folder-2jh)
 - [Dev.to/JS] [How React Preserve and Reset State](https://dev.to/muneebkhan4/how-react-preserve-and-reset-state-38la)
 - [Dev.to/JS] [Let&#39;s make a cool mouse event bubble animation in just 50 lines of JavaScript!](https://dev.to/renancferro/lets-make-a-cool-mouse-event-bubble-animation-in-just-50-lines-of-javascript-4hlc)
@@ -33,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating Custom Radio Buttons In ReactJS: A Step By Step Guide](https://dev.to/okafor__mary/creating-custom-radio-buttons-in-reactjs-a-step-by-step-guide-4gk6)
 - [Dev.to/JS] [Embrace Your New Coding Buddy](https://dev.to/micheaol/embrace-your-new-coding-buddy-4h06)
 - [Dev.to/JS] [Creating stunning blogs with Appwrite’s database relationships and Nuxt](https://dev.to/hackmamba/creating-stunning-blogs-with-appwrites-database-relationships-and-nuxt-2dlm)
-- [Dev.to/JS] [Is this how you test Node cron jobs?](https://dev.to/smritirgi/is-this-how-you-test-node-cron-jobs-3ah7)
-- [Dev.to/JS] [Three Underrated VS Code Extensions That Can Save You Lots of Time](https://dev.to/levischouten/three-underrated-vs-code-extensions-that-can-save-you-lots-of-time-210p)
 - [Lifehacker] [Why You Should Stop Eating Fake Sugars, According to the World Health Organization](https://lifehacker.com/why-you-should-stop-eating-fake-sugars-according-to-th-1850451753)
 - [Lifehacker] [This Deal Makes Disney World Tickets Slightly Less Crushingly Expensive](https://lifehacker.com/this-deal-makes-disney-world-tickets-slightly-less-crus-1850451413)
 - [Lifehacker] [Log Into Your Old Google Accounts Before They’re Deleted](https://lifehacker.com/log-into-your-old-google-accounts-before-they-re-delete-1850450404)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ask Your Kid to Make a Tiny Vase for the Flowers They Keep Picking for You](https://lifehacker.com/ask-your-kid-to-make-a-tiny-vase-for-the-flowers-they-k-1850445751)
 - [Lifehacker] [Get These Life-Saving Certifications Online for Free](https://lifehacker.com/get-these-life-saving-certifications-online-for-free-1850446551)
 - [Lifehacker] [What to Do If You Have More Than $5,000 in Your Checking Account](https://lifehacker.com/what-to-do-if-you-have-more-than-5-000-in-your-checkin-1850441473)
-- [Lifehacker] [You Should Add Artichoke Marinade to a Batch of Rice](https://lifehacker.com/you-should-add-artichoke-marinade-to-a-batch-of-rice-1850443597)
-- [Lifehacker] [ChatGPT Plus Has Two Huge New Features You Can Try Right Now](https://lifehacker.com/chatgpt-plus-has-two-huge-new-features-you-can-try-righ-1850445533)
-- [Lifehacker] [The Longest You Should Hoard Your Travel Points](https://lifehacker.com/the-longest-you-should-hoard-your-travel-points-1850374283)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Add Artichoke Marinade to a Batch of Rice](https://lifehacker.com/you-should-add-artichoke-marinade-to-a-batch-of-rice-1850443597)<!-- TECH-POSTS:END -->
 
 ---
 
