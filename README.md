@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&quot;Bugs in Software Development: Types and Real-World Examples](https://dev.to/yashsu/bugs-in-software-development-types-and-real-world-examples-2d8m)
+- [Dev.to/JS] [First Class Function in Javascript](https://dev.to/codecraftjs/first-class-function-in-javascript-2d6h)
 - [Dev.to/JS] [The Latest Trends and Development in Node.JS &lpar;2023 Edition&rpar;](https://dev.to/devashishmamgain/the-latest-trends-and-development-in-nodejs-2023-edition-30d7)
 - [Dev.to/JS] [Portfolio site](https://dev.to/candlepeter/portfolio-site-3dpo)
 - [Dev.to/JS] [HOUSE AND OFFICE SHIFTING SERVICES](https://dev.to/eshiftingservicebd/house-and-office-shifting-services-24a9)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Debounce: Control Function Execution for Improved JavaScript Performance](https://dev.to/danities316/mastering-debounce-control-function-execution-for-improved-javascript-performance-npf)
 - [Dev.to/JS] [How to Create Tri-category To-do Lists Using JavaScript](https://dev.to/seuncodesnwrite/how-to-create-tri-category-to-do-lists-using-javascript-3855)
 - [Dev.to/JS] [Bibliotecas que todo desenvolvedor Vue.js deveria conhecer](https://dev.to/webdavi/bibliotecas-que-todo-desenvolvedor-vuejs-deveria-conhecer-9hk)
-- [Dev.to/JS] [For Loops in JavaScript | JavaScript #7](https://dev.to/sksage/for-loops-in-javascript-javascript-7-f82)
-- [Dev.to/JS] [Svelte Demo Todo Walkthrough](https://dev.to/appwrite/svelte-demo-todo-walkthrough-58dn)
 - [Lifehacker] [Why You Should Stop Eating Fake Sugars, According to the World Health Organization](https://lifehacker.com/why-you-should-stop-eating-fake-sugars-according-to-th-1850451753)
 - [Lifehacker] [This Deal Makes Disney World Tickets Slightly Less Crushingly Expensive](https://lifehacker.com/this-deal-makes-disney-world-tickets-slightly-less-crus-1850451413)
 - [Lifehacker] [Log Into Your Old Google Accounts Before They’re Deleted](https://lifehacker.com/log-into-your-old-google-accounts-before-they-re-delete-1850450404)
