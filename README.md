@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Add Linting and Formatting for your React App](https://dev.to/mohammadfaisal/how-to-add-linting-and-formatting-for-your-react-app-4bcd)
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Why Is Everyone &#39;Serving C*nt&#39; on Social Media?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-e-1850452383)
+- [Lifehacker] [Think Twice Before Using &#39;Apple Pay Later&#39;](https://lifehacker.com/think-twice-before-using-apple-pay-later-1850454637)
 - [Dev.to/JS] [Building a Robust Serverless Messaging Service with Amazon EventBridge Pipes and CDK](https://dev.to/aws-builders/building-a-robust-serverless-messaging-service-with-amazon-eventbridge-pipes-and-cdk-2i9a)
 - [Dev.to/JS] [Starting with GitHub Actions](https://dev.to/piyushkdas0611/starting-with-github-actions-23c8)
 - [Lifehacker] [A Guide to Discreetly Traveling With Weed](https://lifehacker.com/a-guide-to-discreetly-traveling-with-weed-1850432640)
@@ -30,7 +33,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction of REST Architecture](https://dev.to/sardarmudassaralikhan/introduction-of-rest-architecture-3cpd)
 - [Lifehacker] [You Can Track Your Teen&#39;s Uber](https://lifehacker.com/you-can-track-your-teens-uber-1850451886)
 - [Dev.to/JS] [Creating a Dynamic Layout for Multi Host Broadcasts with Amazon IVS](https://dev.to/aws/creating-a-dynamic-layout-for-multi-host-broadcasts-with-amazon-ivs-52n4)
-- [Dev.to/JS] [Components vs Views.](https://dev.to/edvaldolima/components-vs-views-e9m)
+- [Dev.to/JS] [Componente vs View.](https://dev.to/edvaldolima/components-vs-views-e9m)
 - [Lifehacker] [Make Cavernous, Aerated Cheese Crisps in Your Air Fryer](https://lifehacker.com/make-cavernous-aerated-cheese-crisps-in-your-air-fryer-1850452037)
 - [Lifehacker] [The Easiest Way to Clean Dirty Oven Racks](https://lifehacker.com/the-easiest-way-to-clean-dirty-oven-racks-1850453546)
 - [Dev.to/JS] [How to Code the Recursive Fibonacci Algorithm](https://dev.to/nielsenjared/how-to-code-the-recursive-fibonacci-algorithm-1f83)
@@ -40,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s make a cool mouse event bubble animation in just 50 lines of JavaScript!](https://dev.to/renancferro/lets-make-a-cool-mouse-event-bubble-animation-in-just-50-lines-of-javascript-4hlc)
 - [Dev.to/JS] [Simplifying State Management in React.js with Currying](https://dev.to/amubasshir/simplifying-state-management-in-reactjs-with-currying-kpl)
 - [Dev.to/JS] [Develop Next-Generation Solutions With Acquaint - A Laravel Partner](https://dev.to/mukeshram/develop-next-generation-solutions-with-acquaint-a-laravel-partner-57id)
-- [Dev.to/JS] [How to Solve CORS Origin Issue in Asp.Net Core Web API](https://dev.to/sardarmudassaralikhan/how-to-solve-cors-origin-issue-in-aspnet-core-web-api-4jdl)
 - [Lifehacker] [Why You Should Stop Eating Fake Sugars, According to the World Health Organization](https://lifehacker.com/why-you-should-stop-eating-fake-sugars-according-to-th-1850451753)
 - [Lifehacker] [This Deal Makes Disney World Tickets Slightly Less Crushingly Expensive](https://lifehacker.com/this-deal-makes-disney-world-tickets-slightly-less-crus-1850451413)
 - [Lifehacker] [Log Into Your Old Google Accounts Before They’re Deleted](https://lifehacker.com/log-into-your-old-google-accounts-before-they-re-delete-1850450404)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What People Are Getting Wrong This Week: Fake Celebrity Endorsements](https://lifehacker.com/what-people-are-getting-wrong-this-week-fake-celebrity-1850447668)
 - [Lifehacker] [These Medical Debts Should Not Hurt Your Credit Score](https://lifehacker.com/these-medical-debts-should-not-hurt-your-credit-score-1850430183)
 - [Lifehacker] [What&#39;s New on Disney+ in June 2023](https://lifehacker.com/whats-new-on-disney-in-june-2023-1850447629)
-- [Lifehacker] [When to Avoid Cleaning With Hot Water](https://lifehacker.com/when-to-avoid-cleaning-with-hot-water-1850447208)
-- [Lifehacker] [Grill Tender Vegetables Right on Your Charcoal Chimney](https://lifehacker.com/grill-tender-vegetables-right-on-your-charcoal-chimney-1850447003)
-- [Lifehacker] [You Can Try Google’s New Bard Features Right Now](https://lifehacker.com/you-can-try-google-s-new-bard-features-right-now-1850446640)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When to Avoid Cleaning With Hot Water](https://lifehacker.com/when-to-avoid-cleaning-with-hot-water-1850447208)<!-- TECH-POSTS:END -->
 
 ---
 
