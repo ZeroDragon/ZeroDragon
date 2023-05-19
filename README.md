@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Drawing basic 2D shapes on a canvas.](https://dev.to/_aaallison/drawing-basic-2d-shapes-on-a-canvas-44md)
+- [Dev.to/JS] [Java Script - Part I](https://dev.to/codercrux/java-script-part-i-11l2)
+- [Lifehacker] [You Should Use a Frother to Mix Your Protein Powder](https://lifehacker.com/you-should-use-a-frother-to-mix-your-protein-powder-1850455135)
+- [Dev.to/JS] [React reusable components](https://dev.to/katongole_isaac/react-reusable-components-1ef3)
+- [Lifehacker] [How to Give Good Feedback at Work Without Feeling Awkward](https://lifehacker.com/how-to-give-good-feedback-at-work-without-feeling-awkwa-1850454133)
 - [Dev.to/JS] [How to Add Linting and Formatting for your React App](https://dev.to/mohammadfaisal/how-to-add-linting-and-formatting-for-your-react-app-4bcd)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Why Is Everyone &#39;Serving C*nt&#39; on Social Media?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-e-1850452383)
 - [Lifehacker] [Think Twice Before Using &#39;Apple Pay Later&#39;](https://lifehacker.com/think-twice-before-using-apple-pay-later-1850454637)
@@ -40,9 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Store Clubs Worth the Money &lpar;and 7 That Probably Aren&#39;t&rpar;](https://lifehacker.com/9-store-clubs-worth-the-money-and-7-that-probably-aren-1850450868)
 - [Dev.to/JS] [A quick dive into NextJS app folder](https://dev.to/hi_iam_chris/a-quick-dive-into-nextjs-app-folder-2jh)
 - [Dev.to/JS] [How React Preserve and Reset State](https://dev.to/muneebkhan4/how-react-preserve-and-reset-state-38la)
-- [Dev.to/JS] [Let&#39;s make a cool mouse event bubble animation in just 50 lines of JavaScript!](https://dev.to/renancferro/lets-make-a-cool-mouse-event-bubble-animation-in-just-50-lines-of-javascript-4hlc)
-- [Dev.to/JS] [Simplifying State Management in React.js with Currying](https://dev.to/amubasshir/simplifying-state-management-in-reactjs-with-currying-kpl)
-- [Dev.to/JS] [Develop Next-Generation Solutions With Acquaint - A Laravel Partner](https://dev.to/mukeshram/develop-next-generation-solutions-with-acquaint-a-laravel-partner-57id)
 - [Lifehacker] [Why You Should Stop Eating Fake Sugars, According to the World Health Organization](https://lifehacker.com/why-you-should-stop-eating-fake-sugars-according-to-th-1850451753)
 - [Lifehacker] [This Deal Makes Disney World Tickets Slightly Less Crushingly Expensive](https://lifehacker.com/this-deal-makes-disney-world-tickets-slightly-less-crus-1850451413)
 - [Lifehacker] [Log Into Your Old Google Accounts Before They’re Deleted](https://lifehacker.com/log-into-your-old-google-accounts-before-they-re-delete-1850450404)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Add Privacy to Your Windows With Decorative Film](https://lifehacker.com/you-can-add-privacy-to-your-windows-with-decorative-fil-1850448398)
 - [Lifehacker] [Use This Formula to Make a Spritz With Any Booze](https://lifehacker.com/use-this-formula-to-make-a-spritz-with-any-booze-1850447987)
 - [Lifehacker] [What People Are Getting Wrong This Week: Fake Celebrity Endorsements](https://lifehacker.com/what-people-are-getting-wrong-this-week-fake-celebrity-1850447668)
-- [Lifehacker] [These Medical Debts Should Not Hurt Your Credit Score](https://lifehacker.com/these-medical-debts-should-not-hurt-your-credit-score-1850430183)
-- [Lifehacker] [What&#39;s New on Disney+ in June 2023](https://lifehacker.com/whats-new-on-disney-in-june-2023-1850447629)
-- [Lifehacker] [When to Avoid Cleaning With Hot Water](https://lifehacker.com/when-to-avoid-cleaning-with-hot-water-1850447208)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Medical Debts Should Not Hurt Your Credit Score](https://lifehacker.com/these-medical-debts-should-not-hurt-your-credit-score-1850430183)<!-- TECH-POSTS:END -->
 
 ---
 
