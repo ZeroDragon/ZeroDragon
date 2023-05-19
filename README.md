@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [For Loops in JavaScript | JavaScript #7](https://dev.to/sksage/for-loops-in-javascript-javascript-7-f82)
 - [Dev.to/JS] [Svelte Demo Todo Walkthrough](https://dev.to/appwrite/svelte-demo-todo-walkthrough-58dn)
 - [Dev.to/JS] [Gerenciando versões do Node.js com NVM](https://dev.to/oricardos/gerenciando-versoes-do-nodejs-com-nvm-cjc)
 - [Dev.to/JS] [Updates from the 96th TC39 meeting](https://dev.to/hemanth/updates-from-the-96th-tc39-meeting-4goe)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Nodejs Asynchronous Multithreading Web Scraping](https://dev.to/olavomello/nodejs-asynchronous-multithreading-web-scraping-244o)
 - [Dev.to/JS] [🎉Amazing &quot;React Libraries&quot; For Everyone](https://dev.to/arafat4693/top-react-libraries-for-developers-33gb)
 - [Dev.to/JS] [Creating a Google Chrome Extension using HTML + CSS + Javascript](https://dev.to/olavomello/creating-a-google-chrome-extension-using-html-css-javascript-44d2)
-- [Dev.to/JS] [How to create a product carousel for a TalkJS chat](https://dev.to/talkjs/how-to-create-a-product-carousel-for-a-talkjs-chat-1oj2)
 - [Lifehacker] [You Can Get Tickets to These Summer Music Festivals for $99 Right Now](https://lifehacker.com/you-can-get-tickets-to-these-summer-music-festivals-for-1850450823)
 - [Lifehacker] [What&#39;s New on Hulu in June 2023](https://lifehacker.com/whats-new-on-hulu-in-june-2023-1850450843)
 - [Lifehacker] [Customizable Sports in Apple News, and Everything Else in iOS 16.5](https://lifehacker.com/customizable-sports-in-apple-news-and-everything-else-1850450440)
