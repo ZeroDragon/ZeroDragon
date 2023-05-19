@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Svelte Demo Todo Walkthrough](https://dev.to/appwrite/svelte-demo-todo-walkthrough-58dn)
+- [Dev.to/JS] [Gerenciando versões do Node.js com NVM](https://dev.to/oricardos/gerenciando-versoes-do-nodejs-com-nvm-cjc)
+- [Dev.to/JS] [Updates from the 96th TC39 meeting](https://dev.to/hemanth/updates-from-the-96th-tc39-meeting-4goe)
+- [Dev.to/JS] [Code Smell 213 - Hoisting](https://dev.to/mcsee/code-smell-213-hoisting-40lp)
 - [Dev.to/JS] [ISSUE-LABELER: Automated Issue Labeling for GitHub](https://dev.to/dhhruv/issue-labeler-1epe)
 - [Dev.to/JS] [Getting Started with JSON: Streamlining Data Handling for Beginners](https://dev.to/devlawrence/getting-started-with-json-streamlining-data-handling-for-beginners-jkn)
 - [Dev.to/JS] [Animate your SVG text with animejs &lpar;and Vue&rpar;](https://dev.to/vakme/animate-your-svg-text-with-animejs-64p)
@@ -36,14 +40,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Google Chrome Extension using HTML + CSS + Javascript](https://dev.to/olavomello/creating-a-google-chrome-extension-using-html-css-javascript-44d2)
 - [Dev.to/JS] [How to create a product carousel for a TalkJS chat](https://dev.to/talkjs/how-to-create-a-product-carousel-for-a-talkjs-chat-1oj2)
 - [Lifehacker] [You Can Get Tickets to These Summer Music Festivals for $99 Right Now](https://lifehacker.com/you-can-get-tickets-to-these-summer-music-festivals-for-1850450823)
-- [Dev.to/JS] [Manage video call permissions with Daily&#39;s &quot;knocking&quot; feature](https://dev.to/trydaily/manage-video-call-permissions-with-dailys-knocking-feature-4361)
 - [Lifehacker] [What&#39;s New on Hulu in June 2023](https://lifehacker.com/whats-new-on-hulu-in-june-2023-1850450843)
 - [Lifehacker] [Customizable Sports in Apple News, and Everything Else in iOS 16.5](https://lifehacker.com/customizable-sports-in-apple-news-and-everything-else-1850450440)
 - [Lifehacker] [13 Animated Movies That Will Get You Fired in Florida](https://lifehacker.com/13-animated-movies-that-will-get-you-fired-in-florida-1850446682)
-- [Dev.to/JS] [Series 2: Control Structures and Functions in JavaScript](https://dev.to/envitab/series-2-control-structures-and-functions-in-javascript-52ip)
 - [Lifehacker] [Biorhythms Aren&#39;t Real, But &#39;Peaks&#39; of Productivity Can Be](https://lifehacker.com/biorhythms-arent-real-but-peaks-of-productivity-can-be-1850450346)
-- [Dev.to/JS] [Series 1: Introduction to JavaScript](https://dev.to/envitab/series-1-introduction-to-javascript-1iof)
-- [Dev.to/JS] [Free Next.js Boilerplate for ⚡️High-Performance⚡️ Enterprise Apps](https://dev.to/jjablonskiit/free-nextjs-boilerplate-for-high-performance-enterprise-apps-14f7)
 - [Lifehacker] [The Gas Grill Repairs You Can Do Yourself Before Summer](https://lifehacker.com/the-gas-grill-repairs-you-can-do-yourself-before-summer-1850448449)
 - [Lifehacker] [How to Co-Parent With a Narcissist](https://lifehacker.com/how-to-co-parent-with-a-narcissist-1850426132)
 - [Lifehacker] [What to Expect From Sony&#39;s First PlayStation Showcase Since 2021](https://lifehacker.com/what-to-expect-from-sonys-first-playstation-showcase-si-1850449182)
