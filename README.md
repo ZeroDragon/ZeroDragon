@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a simple Loading Screen in React](https://dev.to/beginarjun/how-to-create-a-simple-loading-screen-in-react-1md6)
+- [Dev.to/JS] [Any advice to a new lad in programming?](https://dev.to/mubirueltonfelix/any-advice-to-a-new-lad-in-programming-4agi)
+- [Dev.to/JS] [Vue and TSX ?! 🤯](https://dev.to/vincentdorian/vue-and-tsx--3if4)
+- [Dev.to/JS] [How to make a mobile document scanner with just Javascript](https://dev.to/colonelparrot/how-to-make-a-mobile-document-scanner-with-just-javascript-4ihc)
+- [Dev.to/JS] [💻 Revolutionizing IoT: Web Browsers and NFC Open Up a 🚀 Future](https://dev.to/vipert/revolutionizing-iot-web-browsers-and-nfc-open-up-a-future-4a9h)
 - [Dev.to/JS] [My portfolio](https://dev.to/katongole_isaac/my-portfolio-4ghd)
 - [Dev.to/JS] [Javascript object definition and validation with this amazing library](https://dev.to/nitipit/javascript-object-definition-and-validation-with-this-amazing-library-5600)
 - [Lifehacker] [The Easiest Way to Fix a Dripping Shower Head](https://lifehacker.com/the-easiest-way-to-fix-a-dripping-shower-head-1850448423)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Awotech](https://dev.to/awotechindia/awotech-2eaj)
 - [Lifehacker] [The Smartest Way to Keep Pantry Moths Out of Your Kitchen](https://lifehacker.com/the-smartest-way-to-keep-pantry-moths-out-of-your-kitch-1850448442)
 - [Dev.to/JS] [Magic Numbers and Magic Strings: It&#39;s time to talk about it](https://dev.to/ruben_alapont/magic-numbers-and-magic-strings-its-time-to-talk-about-it-ci2)
-- [Dev.to/JS] [Mastering Node.js Dependency Management: Best Practices for Seamless Development](https://dev.to/folasayosamuel/mastering-nodejs-dependency-management-best-practices-for-seamless-development-4gml)
-- [Dev.to/JS] [5 Code Refactoring Tools to Boost Development Efficiency](https://dev.to/documatic/5-code-refactoring-tools-to-boost-development-efficiency-1nf6)
-- [Dev.to/JS] [Destructuring Props in React.js](https://dev.to/ikechukwu411/destructuring-props-in-reactjs-951)
-- [Dev.to/JS] [Authoring reusable and portable Web Components](https://dev.to/genejams/authoring-reusable-and-portable-web-components-3dc7)
-- [Dev.to/JS] [Need help with design architecture for markdown editor application](https://dev.to/gathsarah/need-help-with-design-architecture-for-markdown-editor-application-3foh)
 - [Lifehacker] [You Can Get Lifetime Access to Rosetta Stone for Over 75% Off Right Now](https://lifehacker.com/you-can-get-lifetime-access-to-rosetta-stone-for-over-7-1850451918)
 - [Lifehacker] [Don’t Watch the Clock When You Can’t Sleep &lpar;and Focus on This Instead&rpar;](https://lifehacker.com/don-t-watch-the-clock-when-you-can-t-sleep-and-focus-o-1850456412)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; File a Home Insurance Claim](https://lifehacker.com/when-you-should-and-shouldnt-file-a-home-insurance-cl-1850455645)
