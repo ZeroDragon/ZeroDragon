@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I managed to make an AI-powered query language with ChatGPT](https://dev.to/enzon3/how-i-managed-to-make-an-ai-powered-query-language-with-chatgpt-5324)
 - [Dev.to/JS] [How to create a simple Loading Screen in React](https://dev.to/beginarjun/how-to-create-a-simple-loading-screen-in-react-1md6)
 - [Dev.to/JS] [Any advice to a new lad in programming?](https://dev.to/mubirueltonfelix/any-advice-to-a-new-lad-in-programming-4agi)
 - [Dev.to/JS] [Vue and TSX ?! 🤯](https://dev.to/vincentdorian/vue-and-tsx--3if4)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Hooks](https://dev.to/himanshubaghel07/react-hooks-31mp)
 - [Dev.to/JS] [Awotech](https://dev.to/awotechindia/awotech-2eaj)
 - [Lifehacker] [The Smartest Way to Keep Pantry Moths Out of Your Kitchen](https://lifehacker.com/the-smartest-way-to-keep-pantry-moths-out-of-your-kitch-1850448442)
-- [Dev.to/JS] [Magic Numbers and Magic Strings: It&#39;s time to talk about it](https://dev.to/ruben_alapont/magic-numbers-and-magic-strings-its-time-to-talk-about-it-ci2)
 - [Lifehacker] [You Can Get Lifetime Access to Rosetta Stone for Over 75% Off Right Now](https://lifehacker.com/you-can-get-lifetime-access-to-rosetta-stone-for-over-7-1850451918)
 - [Lifehacker] [Don’t Watch the Clock When You Can’t Sleep &lpar;and Focus on This Instead&rpar;](https://lifehacker.com/don-t-watch-the-clock-when-you-can-t-sleep-and-focus-o-1850456412)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; File a Home Insurance Claim](https://lifehacker.com/when-you-should-and-shouldnt-file-a-home-insurance-cl-1850455645)
