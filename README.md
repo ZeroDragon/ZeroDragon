@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hoisting Isn&#39;t Even Real](https://dev.to/pranavbobde/hoisting-isnt-even-real-1obb)
+- [Dev.to/JS] [State management is a nightmare in NextJs 13](https://dev.to/xplodivity/state-management-is-a-nightmare-in-nextjs-13-1mlo)
+- [Dev.to/JS] [Basic JavaScript Interview Question: What is JavaScript?](https://dev.to/sharmakshitij18/what-is-javascript-5bii)
+- [Dev.to/JS] [Solving Palindrome Check with JavaScript](https://dev.to/muhmmadawd/solving-palindrome-check-with-javascript-462n)
+- [Dev.to/JS] [The The Difference Between &lt;script&gt;&lt;/script&gt; And &lt;script src=&quot;&quot;&gt;&lt;/script&gt; in HTML](https://dev.to/ritaogada/the-the-difference-between-and-in-html-3npp)
 - [Dev.to/JS] [Learn How to Generate Random Colors with JavaScript Like an Expert](https://dev.to/codeauthor/learn-how-to-generate-random-colors-with-javascript-like-an-expert-1gcj)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;20-05-2023&rpar; - AI Wonderland To Deprecate World Wide Web](https://dev.to/mjgs/this-weeks-newsletter-is-out-20-05-2023-ai-wonderland-to-deprecate-world-wide-web-180e)
 - [Dev.to/JS] [Mastering OAuth in React and Building Foundations with Python](https://dev.to/arashjangali/mastering-oauth-in-react-and-building-foundations-with-python-35jp)
@@ -34,14 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Watch the Clock When You Can’t Sleep &lpar;and Focus on This Instead&rpar;](https://lifehacker.com/don-t-watch-the-clock-when-you-can-t-sleep-and-focus-o-1850456412)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; File a Home Insurance Claim](https://lifehacker.com/when-you-should-and-shouldnt-file-a-home-insurance-cl-1850455645)
 - [Lifehacker] [The Four Questions to Ask Yourself Before Hiring a College Admissions Counselor](https://lifehacker.com/the-four-questions-to-ask-yourself-before-hiring-a-coll-1850455745)
-- [Dev.to/JS] [3.12 - How to Become a Full Time Content Creator](https://dev.to/codingcatdev/312-how-to-become-a-full-time-content-creator-2cc9)
 - [Lifehacker] [This AI-Powered App Will Teach You Piano, and It’s On Sale](https://lifehacker.com/this-ai-powered-app-will-teach-you-piano-and-it-s-on-s-1850451892)
-- [Dev.to/JS] [Write a file into specific folder in Node JS example](https://dev.to/biplab3/write-a-file-into-specific-folder-in-node-js-example-11kk)
 - [Lifehacker] [How to Empty Your Food Processor Without the Blade Falling Out](https://lifehacker.com/how-to-empty-your-food-processor-without-the-blade-fall-1850455661)
-- [Dev.to/JS] [Django + Tailwind CSS](https://dev.to/vincod/django-tailwind-css-3b5i)
 - [Lifehacker] [Your Complete Summer Checklist to Get Ready for College in the Fall](https://lifehacker.com/your-complete-summer-checklist-to-get-ready-for-college-1850455373)
-- [Dev.to/JS] [What Nobody Told Me About Software Design](https://dev.to/mohammadfaisal/what-nobody-told-me-about-software-design-4b6k)
-- [Dev.to/JS] [Drawing basic 2D shapes on a canvas.](https://dev.to/_aaallison/drawing-basic-2d-shapes-on-a-canvas-44md)
 - [Lifehacker] [You Should Use a Frother to Mix Your Protein Powder](https://lifehacker.com/you-should-use-a-frother-to-mix-your-protein-powder-1850455135)
 - [Lifehacker] [How to Give Good Feedback at Work Without Feeling Awkward](https://lifehacker.com/how-to-give-good-feedback-at-work-without-feeling-awkwa-1850454133)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Why Is Everyone &#39;Serving C*nt&#39; on Social Media?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-e-1850452383)
