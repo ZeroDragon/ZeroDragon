@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering OAuth in React and Building Foundations with Python](https://dev.to/arashjangali/mastering-oauth-in-react-and-building-foundations-with-python-35jp)
+- [Dev.to/JS] [Mastering Throttle: Optimize Function Execution with JavaScript](https://dev.to/danities316/mastering-throttle-optimize-function-execution-with-javascript-kbl)
+- [Dev.to/JS] [Unleash Your Coding Skills with the In Depth Laravel 2023 Course!](https://dev.to/sarthaksavvy/unleash-your-coding-skills-with-the-in-depth-laravel-2023-course-5cei)
 - [Dev.to/JS] [While Loops in JavaScript | JavaScript #8](https://dev.to/sksage/while-loops-in-javascript-javascript-8-5dm3)
 - [Dev.to/JS] [JSON with multiline strings](https://dev.to/polyseam/json-with-multiline-strings-4645)
 - [Lifehacker] [You Can Get Lifetime Access to Rosetta Stone for Over 75% Off Right Now](https://lifehacker.com/you-can-get-lifetime-access-to-rosetta-stone-for-over-7-1850451918)
@@ -41,11 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Use a Frother to Mix Your Protein Powder](https://lifehacker.com/you-should-use-a-frother-to-mix-your-protein-powder-1850455135)
 - [Dev.to/JS] [React reusable components](https://dev.to/katongole_isaac/react-reusable-components-1ef3)
 - [Lifehacker] [How to Give Good Feedback at Work Without Feeling Awkward](https://lifehacker.com/how-to-give-good-feedback-at-work-without-feeling-awkwa-1850454133)
-- [Dev.to/JS] [How to Add Linting and Formatting for your React App](https://dev.to/mohammadfaisal/how-to-add-linting-and-formatting-for-your-react-app-4bcd)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Why Is Everyone &#39;Serving C*nt&#39; on Social Media?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-e-1850452383)
 - [Lifehacker] [Think Twice Before Using &#39;Apple Pay Later&#39;](https://lifehacker.com/think-twice-before-using-apple-pay-later-1850454637)
-- [Dev.to/JS] [Building a Robust Serverless Messaging Service with Amazon EventBridge Pipes and CDK](https://dev.to/aws-builders/building-a-robust-serverless-messaging-service-with-amazon-eventbridge-pipes-and-cdk-2i9a)
-- [Dev.to/JS] [Starting with GitHub Actions](https://dev.to/piyushkdas0611/starting-with-github-actions-23c8)
 - [Lifehacker] [A Guide to Discreetly Traveling With Weed](https://lifehacker.com/a-guide-to-discreetly-traveling-with-weed-1850432640)
 - [Lifehacker] [Try the &#39;Butterfly Hug&#39; When You Need to Calm Down](https://lifehacker.com/try-the-butterfly-hug-when-you-need-to-calm-down-1850453309)
 - [Lifehacker] [You Can Track Your Teen&#39;s Uber](https://lifehacker.com/you-can-track-your-teens-uber-1850451886)
