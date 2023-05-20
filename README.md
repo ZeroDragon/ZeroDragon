@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;20-05-2023&rpar; - AI Wonderland To Deprecate World Wide Web](https://dev.to/mjgs/this-weeks-newsletter-is-out-20-05-2023-ai-wonderland-to-deprecate-world-wide-web-180e)
 - [Dev.to/JS] [Mastering OAuth in React and Building Foundations with Python](https://dev.to/arashjangali/mastering-oauth-in-react-and-building-foundations-with-python-35jp)
 - [Dev.to/JS] [Mastering Throttle: Optimize Function Execution with JavaScript](https://dev.to/danities316/mastering-throttle-optimize-function-execution-with-javascript-kbl)
 - [Dev.to/JS] [Unleash Your Coding Skills with the In Depth Laravel 2023 Course!](https://dev.to/sarthaksavvy/unleash-your-coding-skills-with-the-in-depth-laravel-2023-course-5cei)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Drawing basic 2D shapes on a canvas.](https://dev.to/_aaallison/drawing-basic-2d-shapes-on-a-canvas-44md)
 - [Dev.to/JS] [Java Script - Part I](https://dev.to/codercrux/java-script-part-i-11l2)
 - [Lifehacker] [You Should Use a Frother to Mix Your Protein Powder](https://lifehacker.com/you-should-use-a-frother-to-mix-your-protein-powder-1850455135)
-- [Dev.to/JS] [React reusable components](https://dev.to/katongole_isaac/react-reusable-components-1ef3)
 - [Lifehacker] [How to Give Good Feedback at Work Without Feeling Awkward](https://lifehacker.com/how-to-give-good-feedback-at-work-without-feeling-awkwa-1850454133)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Why Is Everyone &#39;Serving C*nt&#39; on Social Media?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-e-1850452383)
 - [Lifehacker] [Think Twice Before Using &#39;Apple Pay Later&#39;](https://lifehacker.com/think-twice-before-using-apple-pay-later-1850454637)
