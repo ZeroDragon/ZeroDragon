@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [5 Code Refactoring Tools to Boost Development Efficiency](https://dev.to/surajondev/5-code-refactoring-tools-to-boost-development-efficiency-1nf6)
+- [Dev.to/JS] [Magic Numbers and Magic Strings: It&#39;s time to talk about it](https://dev.to/ruben_alapont/magic-numbers-and-magic-strings-its-time-to-talk-about-it-ci2)
+- [Dev.to/JS] [Mastering Node.js Dependency Management: Best Practices for Seamless Development](https://dev.to/folasayosamuel/mastering-nodejs-dependency-management-best-practices-for-seamless-development-4gml)
+- [Dev.to/JS] [5 Code Refactoring Tools to Boost Development Efficiency](https://dev.to/documatic/5-code-refactoring-tools-to-boost-development-efficiency-1nf6)
 - [Dev.to/JS] [Destructuring Props in React.js](https://dev.to/ikechukwu411/destructuring-props-in-reactjs-951)
 - [Dev.to/JS] [Authoring reusable and portable Web Components](https://dev.to/genejams/authoring-reusable-and-portable-web-components-3dc7)
 - [Dev.to/JS] [Need help with design architecture for markdown editor application](https://dev.to/gathsarah/need-help-with-design-architecture-for-markdown-editor-application-3foh)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [State management is a nightmare in NextJs 13](https://dev.to/xplodivity/state-management-is-a-nightmare-in-nextjs-13-1mlo)
 - [Dev.to/JS] [Basic JavaScript Interview Question 1: What is JavaScript?](https://dev.to/sharmakshitij18/what-is-javascript-5bii)
 - [Dev.to/JS] [Solving Palindrome Check with JavaScript](https://dev.to/muhmmadawd/solving-palindrome-check-with-javascript-462n)
-- [Dev.to/JS] [The The Difference Between &lt;script&gt;&lt;/script&gt; And &lt;script src=&quot;&quot;&gt;&lt;/script&gt; in HTML](https://dev.to/ritaogada/the-the-difference-between-and-in-html-3npp)
-- [Dev.to/JS] [Learn How to Generate Random Colors with JavaScript Like an Expert](https://dev.to/codeauthor/learn-how-to-generate-random-colors-with-javascript-like-an-expert-1gcj)
 - [Lifehacker] [You Can Get Lifetime Access to Rosetta Stone for Over 75% Off Right Now](https://lifehacker.com/you-can-get-lifetime-access-to-rosetta-stone-for-over-7-1850451918)
 - [Lifehacker] [Don’t Watch the Clock When You Can’t Sleep &lpar;and Focus on This Instead&rpar;](https://lifehacker.com/don-t-watch-the-clock-when-you-can-t-sleep-and-focus-o-1850456412)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; File a Home Insurance Claim](https://lifehacker.com/when-you-should-and-shouldnt-file-a-home-insurance-cl-1850455645)
