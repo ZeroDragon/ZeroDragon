@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My portfolio](https://dev.to/katongole_isaac/my-portfolio-4ghd)
+- [Dev.to/JS] [Javascript object definition and validation with this amazing library](https://dev.to/nitipit/javascript-object-definition-and-validation-with-this-amazing-library-5600)
 - [Lifehacker] [The Easiest Way to Fix a Dripping Shower Head](https://lifehacker.com/the-easiest-way-to-fix-a-dripping-shower-head-1850448423)
 - [Dev.to/JS] [Cypress Workshop Part 6: Elements manipulation - Lists, Date picker](https://dev.to/viktorijafilipov/cypress-workshop-part-6-elements-manipulation-lists-date-picker-3okj)
 - [Dev.to/JS] [Techniques for Removing Falsy Values from Arrays in JavaScript](https://dev.to/arafatruetbd/techniques-for-removing-falsy-values-from-arrays-in-javascript-1mh6)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Destructuring Props in React.js](https://dev.to/ikechukwu411/destructuring-props-in-reactjs-951)
 - [Dev.to/JS] [Authoring reusable and portable Web Components](https://dev.to/genejams/authoring-reusable-and-portable-web-components-3dc7)
 - [Dev.to/JS] [Need help with design architecture for markdown editor application](https://dev.to/gathsarah/need-help-with-design-architecture-for-markdown-editor-application-3foh)
-- [Dev.to/JS] [Chairs Dairy](https://dev.to/chairsdiary112/chairs-dairy-1ag2)
-- [Dev.to/JS] [Create a Copy-Pasteable Color Palette to Simplify Your Workflow 🚀](https://dev.to/quicksilversel/create-a-copy-pasteable-color-palette-to-simplify-your-workflow-4ecl)
 - [Lifehacker] [You Can Get Lifetime Access to Rosetta Stone for Over 75% Off Right Now](https://lifehacker.com/you-can-get-lifetime-access-to-rosetta-stone-for-over-7-1850451918)
 - [Lifehacker] [Don’t Watch the Clock When You Can’t Sleep &lpar;and Focus on This Instead&rpar;](https://lifehacker.com/don-t-watch-the-clock-when-you-can-t-sleep-and-focus-o-1850456412)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; File a Home Insurance Claim](https://lifehacker.com/when-you-should-and-shouldnt-file-a-home-insurance-cl-1850455645)
