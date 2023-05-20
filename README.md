@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Authoring reusable and portable Web Components](https://dev.to/genejams/authoring-reusable-and-portable-web-components-3dc7)
+- [Dev.to/JS] [Need help with design architecture for markdown editor application](https://dev.to/gathsarah/need-help-with-design-architecture-for-markdown-editor-application-3foh)
+- [Dev.to/JS] [Chairs Dairy](https://dev.to/chairsdiary112/chairs-dairy-1ag2)
+- [Dev.to/JS] [Create a Copy-Pasteable Color Palette to Simplify Your Workflow 🚀](https://dev.to/quicksilversel/create-a-copy-pasteable-color-palette-to-simplify-your-workflow-4ecl)
 - [Dev.to/JS] [Hoisting Isn&#39;t Even Real](https://dev.to/pranavbobde/hoisting-isnt-even-real-1obb)
 - [Dev.to/JS] [State management is a nightmare in NextJs 13](https://dev.to/xplodivity/state-management-is-a-nightmare-in-nextjs-13-1mlo)
-- [Dev.to/JS] [Basic JavaScript Interview Question: What is JavaScript?](https://dev.to/sharmakshitij18/what-is-javascript-5bii)
+- [Dev.to/JS] [Basic JavaScript Interview Question 1: What is JavaScript?](https://dev.to/sharmakshitij18/what-is-javascript-5bii)
 - [Dev.to/JS] [Solving Palindrome Check with JavaScript](https://dev.to/muhmmadawd/solving-palindrome-check-with-javascript-462n)
 - [Dev.to/JS] [The The Difference Between &lt;script&gt;&lt;/script&gt; And &lt;script src=&quot;&quot;&gt;&lt;/script&gt; in HTML](https://dev.to/ritaogada/the-the-difference-between-and-in-html-3npp)
 - [Dev.to/JS] [Learn How to Generate Random Colors with JavaScript Like an Expert](https://dev.to/codeauthor/learn-how-to-generate-random-colors-with-javascript-like-an-expert-1gcj)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;20-05-2023&rpar; - AI Wonderland To Deprecate World Wide Web](https://dev.to/mjgs/this-weeks-newsletter-is-out-20-05-2023-ai-wonderland-to-deprecate-world-wide-web-180e)
 - [Dev.to/JS] [Mastering OAuth in React and Building Foundations with Python](https://dev.to/arashjangali/mastering-oauth-in-react-and-building-foundations-with-python-35jp)
-- [Dev.to/JS] [Mastering Throttle: Optimize Function Execution with JavaScript](https://dev.to/danities316/mastering-throttle-optimize-function-execution-with-javascript-kbl)
-- [Dev.to/JS] [Unleash Your Coding Skills with the In Depth Laravel 2023 Course!](https://dev.to/sarthaksavvy/unleash-your-coding-skills-with-the-in-depth-laravel-2023-course-5cei)
-- [Dev.to/JS] [While Loops in JavaScript | JavaScript #8](https://dev.to/sksage/while-loops-in-javascript-javascript-8-5dm3)
-- [Dev.to/JS] [JSON with multiline strings](https://dev.to/polyseam/json-with-multiline-strings-4645)
 - [Lifehacker] [You Can Get Lifetime Access to Rosetta Stone for Over 75% Off Right Now](https://lifehacker.com/you-can-get-lifetime-access-to-rosetta-stone-for-over-7-1850451918)
 - [Lifehacker] [Don’t Watch the Clock When You Can’t Sleep &lpar;and Focus on This Instead&rpar;](https://lifehacker.com/don-t-watch-the-clock-when-you-can-t-sleep-and-focus-o-1850456412)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; File a Home Insurance Claim](https://lifehacker.com/when-you-should-and-shouldnt-file-a-home-insurance-cl-1850455645)
