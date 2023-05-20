@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Fix a Dripping Shower Head](https://lifehacker.com/the-easiest-way-to-fix-a-dripping-shower-head-1850448423)
+- [Dev.to/JS] [Cypress Workshop Part 6: Elements manipulation - Lists, Date picker](https://dev.to/viktorijafilipov/cypress-workshop-part-6-elements-manipulation-lists-date-picker-3okj)
+- [Dev.to/JS] [Techniques for Removing Falsy Values from Arrays in JavaScript](https://dev.to/arafatruetbd/techniques-for-removing-falsy-values-from-arrays-in-javascript-1mh6)
 - [Lifehacker] [The Best and Worst Times to Drive Memorial Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-memorial-day-weekend-1850448426)
 - [Dev.to/JS] [React Hooks](https://dev.to/himanshubaghel07/react-hooks-31mp)
 - [Dev.to/JS] [Awotech](https://dev.to/awotechindia/awotech-2eaj)
@@ -35,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Need help with design architecture for markdown editor application](https://dev.to/gathsarah/need-help-with-design-architecture-for-markdown-editor-application-3foh)
 - [Dev.to/JS] [Chairs Dairy](https://dev.to/chairsdiary112/chairs-dairy-1ag2)
 - [Dev.to/JS] [Create a Copy-Pasteable Color Palette to Simplify Your Workflow 🚀](https://dev.to/quicksilversel/create-a-copy-pasteable-color-palette-to-simplify-your-workflow-4ecl)
-- [Dev.to/JS] [Hoisting Isn&#39;t Even Real](https://dev.to/pranavbobde/hoisting-isnt-even-real-1obb)
-- [Dev.to/JS] [State management is a nightmare in NextJs 13](https://dev.to/xplodivity/state-management-is-a-nightmare-in-nextjs-13-1mlo)
 - [Lifehacker] [You Can Get Lifetime Access to Rosetta Stone for Over 75% Off Right Now](https://lifehacker.com/you-can-get-lifetime-access-to-rosetta-stone-for-over-7-1850451918)
 - [Lifehacker] [Don’t Watch the Clock When You Can’t Sleep &lpar;and Focus on This Instead&rpar;](https://lifehacker.com/don-t-watch-the-clock-when-you-can-t-sleep-and-focus-o-1850456412)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; File a Home Insurance Claim](https://lifehacker.com/when-you-should-and-shouldnt-file-a-home-insurance-cl-1850455645)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Hear Me Out: Pickle Spaghetti](https://lifehacker.com/hear-me-out-pickle-spaghetti-1850451245)
 - [Lifehacker] [You Can Get Tickets to These Summer Music Festivals for $99 Right Now](https://lifehacker.com/you-can-get-tickets-to-these-summer-music-festivals-for-1850450823)
 - [Lifehacker] [What&#39;s New on Hulu in June 2023](https://lifehacker.com/whats-new-on-hulu-in-june-2023-1850450843)
-- [Lifehacker] [Customizable Sports in Apple News, and Everything Else in iOS 16.5](https://lifehacker.com/customizable-sports-in-apple-news-and-everything-else-1850450440)
-- [Lifehacker] [13 Animated Movies That Will Get You Fired in Florida](https://lifehacker.com/13-animated-movies-that-will-get-you-fired-in-florida-1850446682)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Customizable Sports in Apple News, and Everything Else in iOS 16.5](https://lifehacker.com/customizable-sports-in-apple-news-and-everything-else-1850450440)<!-- TECH-POSTS:END -->
 
 ---
 
