@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Awotech](https://dev.to/awotechindia/awotech-2eaj)
+- [Lifehacker] [The Smartest Way to Keep Pantry Moths Out of Your Kitchen](https://lifehacker.com/the-smartest-way-to-keep-pantry-moths-out-of-your-kitch-1850448442)
 - [Dev.to/JS] [Magic Numbers and Magic Strings: It&#39;s time to talk about it](https://dev.to/ruben_alapont/magic-numbers-and-magic-strings-its-time-to-talk-about-it-ci2)
 - [Dev.to/JS] [Mastering Node.js Dependency Management: Best Practices for Seamless Development](https://dev.to/folasayosamuel/mastering-nodejs-dependency-management-best-practices-for-seamless-development-4gml)
 - [Dev.to/JS] [5 Code Refactoring Tools to Boost Development Efficiency](https://dev.to/documatic/5-code-refactoring-tools-to-boost-development-efficiency-1nf6)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hoisting Isn&#39;t Even Real](https://dev.to/pranavbobde/hoisting-isnt-even-real-1obb)
 - [Dev.to/JS] [State management is a nightmare in NextJs 13](https://dev.to/xplodivity/state-management-is-a-nightmare-in-nextjs-13-1mlo)
 - [Dev.to/JS] [Basic JavaScript Interview Question 1: What is JavaScript?](https://dev.to/sharmakshitij18/what-is-javascript-5bii)
-- [Dev.to/JS] [Solving Palindrome Check with JavaScript](https://dev.to/muhmmadawd/solving-palindrome-check-with-javascript-462n)
 - [Lifehacker] [You Can Get Lifetime Access to Rosetta Stone for Over 75% Off Right Now](https://lifehacker.com/you-can-get-lifetime-access-to-rosetta-stone-for-over-7-1850451918)
 - [Lifehacker] [Don’t Watch the Clock When You Can’t Sleep &lpar;and Focus on This Instead&rpar;](https://lifehacker.com/don-t-watch-the-clock-when-you-can-t-sleep-and-focus-o-1850456412)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; File a Home Insurance Claim](https://lifehacker.com/when-you-should-and-shouldnt-file-a-home-insurance-cl-1850455645)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Hulu in June 2023](https://lifehacker.com/whats-new-on-hulu-in-june-2023-1850450843)
 - [Lifehacker] [Customizable Sports in Apple News, and Everything Else in iOS 16.5](https://lifehacker.com/customizable-sports-in-apple-news-and-everything-else-1850450440)
 - [Lifehacker] [13 Animated Movies That Will Get You Fired in Florida](https://lifehacker.com/13-animated-movies-that-will-get-you-fired-in-florida-1850446682)
-- [Lifehacker] [Biorhythms Aren&#39;t Real, But &#39;Peaks&#39; of Productivity Can Be](https://lifehacker.com/biorhythms-arent-real-but-peaks-of-productivity-can-be-1850450346)
-- [Lifehacker] [The Gas Grill Repairs You Can Do Yourself Before Summer](https://lifehacker.com/the-gas-grill-repairs-you-can-do-yourself-before-summer-1850448449)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Biorhythms Aren&#39;t Real, But &#39;Peaks&#39; of Productivity Can Be](https://lifehacker.com/biorhythms-arent-real-but-peaks-of-productivity-can-be-1850450346)<!-- TECH-POSTS:END -->
 
 ---
 
