@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React 18 server components deep dive](https://dev.to/xakrume/react-server-components-deep-dive-29af)
+- [Dev.to/JS] [Winston Transports??](https://dev.to/celeron/winston-transports-11nd)
 - [Dev.to/JS] [Pong: Atari Classic Game](https://dev.to/bekbrace/pong-atari-classic-game-193m)
 - [Dev.to/JS] [Inspecting the code of a stacked CSS Bar Chart data visualization &lpar;with no chart libraries&rpar;](https://dev.to/rickdelpo1/disecting-the-code-of-a-stacked-css-bar-chart-data-visualization-with-no-chart-libraries-12fb)
 - [Dev.to/JS] [Handling errors in React](https://dev.to/lausuarez02/handling-errors-in-react-35ig)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From Mono to Multilingual: Supercharge Your React App with i18n](https://dev.to/dileepreddyaella/from-mono-to-multilingual-supercharge-your-react-app-with-i18n-1kjj)
 - [Dev.to/JS] [Simplifying Async Data Handling in React with Loadable](https://dev.to/tobq/simplifying-async-data-handling-in-react-with-loadable-5136)
 - [Dev.to/JS] [How to Build a Recipe App with Vanilla JavaScript](https://dev.to/codewithsadee/how-to-build-a-recipe-app-with-vanilla-javascript-1ogm)
-- [Dev.to/JS] [How to Add User Inputs from a Form to a Card Using JavaScript](https://dev.to/seuncodesnwrite/how-to-add-user-inputs-from-a-form-to-a-card-using-javascript-13ph)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get for Memorial Day](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-for-memorial-d-1850448272)
-- [Dev.to/JS] [A Detailed Guide on TypeScript Enum](https://dev.to/refine/a-detailed-guide-on-typescript-enum-2dgp)
 - [Lifehacker] [The Easiest Way to Fix a Dripping Shower Head](https://lifehacker.com/the-easiest-way-to-fix-a-dripping-shower-head-1850448423)
 - [Lifehacker] [The Best and Worst Times to Drive Memorial Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-memorial-day-weekend-1850448426)
 - [Lifehacker] [The Smartest Way to Keep Pantry Moths Out of Your Kitchen](https://lifehacker.com/the-smartest-way-to-keep-pantry-moths-out-of-your-kitch-1850448442)
