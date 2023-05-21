@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code Collab](https://dev.to/harshilshah99/code-collab-3log)
 - [Dev.to/JS] [Day 110 of #365DaysOfCode: Google OAuth 2.0 Integration, useContext Hook, and Navigating Python Learning](https://dev.to/arashjangali/day-110-of-365daysofcode-google-oauth-20-integration-usecontext-hook-and-navigating-python-learning-14e2)
 - [Dev.to/JS] [Next.js - The React Framework for Building Modern Web Applications](https://dev.to/victorleungtw/nextjs-the-react-framework-for-building-modern-web-applications-1i2o)
 - [Dev.to/JS] [Why Node.js Isn’t Multithread by Default: Unveiling Its Architecture](https://dev.to/utsabutsho/why-nodejs-isnt-multithread-by-default-unveiling-its-architecture-5ge2)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New Ai project](https://dev.to/joe_codes1/new-ai-project-1j82)
 - [Dev.to/JS] [&quot;this&quot; in JavaScript and &quot;self&quot; in Python; Any Difference?](https://dev.to/ibtesum/this-in-javascript-and-self-in-python-any-difference-38fm)
 - [Dev.to/JS] [How to Build a Bitcoin Custodian Wallet with Inquirer JS](https://dev.to/daslaw/how-to-build-a-bitcoin-custodian-wallet-with-inquirer-js-2kj7)
-- [Dev.to/JS] [Unveiling 10 TypeScript Techniques Employed by Professionals](https://dev.to/itsahsanmangal/unveiling-10-typescript-techniques-employed-by-professionals-1kmf)
 - [Lifehacker] [The Easiest Way to Fix a Dripping Shower Head](https://lifehacker.com/the-easiest-way-to-fix-a-dripping-shower-head-1850448423)
 - [Lifehacker] [The Best and Worst Times to Drive Memorial Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-memorial-day-weekend-1850448426)
 - [Lifehacker] [The Smartest Way to Keep Pantry Moths Out of Your Kitchen](https://lifehacker.com/the-smartest-way-to-keep-pantry-moths-out-of-your-kitch-1850448442)
