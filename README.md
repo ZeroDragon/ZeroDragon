@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The difference between traditional functions and arrow functions in javascript](https://dev.to/ernanej/a-diferenca-entre-funcoes-tradicionais-e-arrow-functions-no-javascript-7e3)
+- [Dev.to/JS] [React Hook: useRef](https://dev.to/ayako_yk/react-hook-useref-2j90)
+- [Dev.to/JS] [Protypes en JavaScript](https://dev.to/ulisesserranop/protypes-en-javascript-5edc)
 - [Dev.to/JS] [State-of-the-art JSON CRDT](https://dev.to/streamich/state-of-the-art-json-crdt-5alo)
 - [Dev.to/JS] [New Ai project](https://dev.to/joe_codes1/new-ai-project-1j82)
 - [Dev.to/JS] [&quot;this&quot; in JavaScript and &quot;self&quot; in Python; Any Difference?](https://dev.to/ibtesum/this-in-javascript-and-self-in-python-any-difference-38fm)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a simple Loading Screen in React](https://dev.to/beginarjun/how-to-create-a-simple-loading-screen-in-react-1md6)
 - [Dev.to/JS] [Any advice to a new lad in programming?](https://dev.to/mubirueltonfelix/any-advice-to-a-new-lad-in-programming-4agi)
 - [Dev.to/JS] [Vue and TSX ?! 🤯](https://dev.to/vincentdorian/vue-and-tsx--3if4)
-- [Dev.to/JS] [How to make a mobile document scanner with just Javascript](https://dev.to/colonelparrot/how-to-make-a-mobile-document-scanner-with-just-javascript-4ihc)
-- [Dev.to/JS] [💻 Revolutionizing IoT: Web Browsers and NFC Open Up a 🚀 Future](https://dev.to/vipert/revolutionizing-iot-web-browsers-and-nfc-open-up-a-future-4a9h)
-- [Dev.to/JS] [My portfolio](https://dev.to/katongole_isaac/my-portfolio-4ghd)
 - [Lifehacker] [The Easiest Way to Fix a Dripping Shower Head](https://lifehacker.com/the-easiest-way-to-fix-a-dripping-shower-head-1850448423)
 - [Lifehacker] [The Best and Worst Times to Drive Memorial Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-memorial-day-weekend-1850448426)
 - [Lifehacker] [The Smartest Way to Keep Pantry Moths Out of Your Kitchen](https://lifehacker.com/the-smartest-way-to-keep-pantry-moths-out-of-your-kitch-1850448442)
