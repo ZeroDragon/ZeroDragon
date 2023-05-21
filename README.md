@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&quot;this&quot; in JavaScript and &quot;self&quot; in Python; Any Difference?](https://dev.to/ibtesum/this-in-javascript-and-self-in-python-any-difference-38fm)
 - [Dev.to/JS] [How to Build a Bitcoin Custodian Wallet with Inquirer JS](https://dev.to/daslaw/how-to-build-a-bitcoin-custodian-wallet-with-inquirer-js-2kj7)
 - [Dev.to/JS] [Unveiling 10 TypeScript Techniques Employed by Professionals](https://dev.to/itsahsanmangal/unveiling-10-typescript-techniques-employed-by-professionals-1kmf)
 - [Dev.to/JS] [How I managed to make an AI-powered query language with ChatGPT](https://dev.to/enzon3/how-i-managed-to-make-an-ai-powered-query-language-with-chatgpt-5324)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript object definition and validation with this amazing library](https://dev.to/nitipit/javascript-object-definition-and-validation-with-this-amazing-library-5600)
 - [Lifehacker] [The Easiest Way to Fix a Dripping Shower Head](https://lifehacker.com/the-easiest-way-to-fix-a-dripping-shower-head-1850448423)
 - [Dev.to/JS] [Cypress Workshop Part 6: Elements manipulation - Lists, Date picker](https://dev.to/viktorijafilipov/cypress-workshop-part-6-elements-manipulation-lists-date-picker-3okj)
-- [Dev.to/JS] [Techniques for Removing Falsy Values from Arrays in JavaScript](https://dev.to/arafatruetbd/techniques-for-removing-falsy-values-from-arrays-in-javascript-1mh6)
 - [Lifehacker] [The Best and Worst Times to Drive Memorial Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-memorial-day-weekend-1850448426)
 - [Lifehacker] [The Smartest Way to Keep Pantry Moths Out of Your Kitchen](https://lifehacker.com/the-smartest-way-to-keep-pantry-moths-out-of-your-kitch-1850448442)
 - [Lifehacker] [You Can Get Lifetime Access to Rosetta Stone for Over 75% Off Right Now](https://lifehacker.com/you-can-get-lifetime-access-to-rosetta-stone-for-over-7-1850451918)
