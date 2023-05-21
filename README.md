@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Useful Resources for Web Developers](https://dev.to/devland/7-useful-resources-for-web-developers-379d)
+- [Dev.to/JS] [5 best practices for AWS Lambda function design standards](https://dev.to/harithzainudin/5-best-practices-for-aws-lambda-function-design-standards-1564)
+- [Dev.to/JS] [🎉 Iconsans](https://dev.to/fpaghar/iconsans-16b8)
 - [Dev.to/JS] [HTML Document Structure](https://dev.to/laksidesvibe/html-document-structure-l7n)
 - [Dev.to/JS] [JavaScript to TypeScript, Why you should make the move!](https://dev.to/mehdiraash/javascript-to-typescript-why-you-should-make-the-move-1hcf)
 - [Dev.to/JS] [Simplifying Text Encryption with ROT13 Algorithm in JavaScript](https://dev.to/muhmmadawd/simplifying-text-encryption-with-rot13-algorithm-in-javascript-2am2)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js - The React Framework for Building Modern Web Applications](https://dev.to/victorleungtw/nextjs-the-react-framework-for-building-modern-web-applications-1i2o)
 - [Dev.to/JS] [Why Node.js Isn’t Multithread by Default: Unveiling Its Architecture](https://dev.to/utsabutsho/why-nodejs-isnt-multithread-by-default-unveiling-its-architecture-5ge2)
 - [Dev.to/JS] [O que são Lookahead e Lookbehind em Expressões regulares](https://dev.to/lucasm4sco/o-que-sao-lookahead-e-lookbehind-em-expressoes-regulares-32h7)
-- [Dev.to/JS] [The difference between traditional functions and arrow functions in javascript](https://dev.to/ernanej/a-diferenca-entre-funcoes-tradicionais-e-arrow-functions-no-javascript-7e3)
-- [Dev.to/JS] [React Hook: useRef](https://dev.to/ayako_yk/react-hook-useref-2j90)
-- [Dev.to/JS] [Protypes en JavaScript](https://dev.to/ulisesserranop/protypes-en-javascript-5edc)
 - [Lifehacker] [The Easiest Way to Fix a Dripping Shower Head](https://lifehacker.com/the-easiest-way-to-fix-a-dripping-shower-head-1850448423)
 - [Lifehacker] [The Best and Worst Times to Drive Memorial Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-memorial-day-weekend-1850448426)
 - [Lifehacker] [The Smartest Way to Keep Pantry Moths Out of Your Kitchen](https://lifehacker.com/the-smartest-way-to-keep-pantry-moths-out-of-your-kitch-1850448442)
