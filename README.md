@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript to TypeScript, Why you should make the move!](https://dev.to/mehdiraash/javascript-to-typescript-why-you-should-make-the-move-1hcf)
+- [Dev.to/JS] [Simplifying Text Encryption with ROT13 Algorithm in JavaScript](https://dev.to/muhmmadawd/simplifying-text-encryption-with-rot13-algorithm-in-javascript-2am2)
 - [Dev.to/JS] [Scaling And Populating GCP VM And 1 Kubernetes Pod Instance Redirected With Cloud Storage Bucket JSON Function](https://dev.to/kcdchennai/scaling-and-populating-gcp-vm-and-1-kubernetes-pod-instance-redirected-with-cloud-storage-bucket-json-function-2loa)
 - [Dev.to/JS] [Code Collab](https://dev.to/harshilshah99/code-collab-3log)
 - [Dev.to/JS] [Day 110 of #365DaysOfCode: Google OAuth 2.0 Integration, useContext Hook, and Navigating Python Learning](https://dev.to/arashjangali/day-110-of-365daysofcode-google-oauth-20-integration-usecontext-hook-and-navigating-python-learning-14e2)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Hook: useRef](https://dev.to/ayako_yk/react-hook-useref-2j90)
 - [Dev.to/JS] [Protypes en JavaScript](https://dev.to/ulisesserranop/protypes-en-javascript-5edc)
 - [Dev.to/JS] [State-of-the-art JSON CRDT](https://dev.to/streamich/state-of-the-art-json-crdt-5alo)
-- [Dev.to/JS] [New Ai project](https://dev.to/joe_codes1/new-ai-project-1j82)
-- [Dev.to/JS] [&quot;this&quot; in JavaScript and &quot;self&quot; in Python; Any Difference?](https://dev.to/ibtesum/this-in-javascript-and-self-in-python-any-difference-38fm)
 - [Lifehacker] [The Easiest Way to Fix a Dripping Shower Head](https://lifehacker.com/the-easiest-way-to-fix-a-dripping-shower-head-1850448423)
 - [Lifehacker] [The Best and Worst Times to Drive Memorial Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-memorial-day-weekend-1850448426)
 - [Lifehacker] [The Smartest Way to Keep Pantry Moths Out of Your Kitchen](https://lifehacker.com/the-smartest-way-to-keep-pantry-moths-out-of-your-kitch-1850448442)
