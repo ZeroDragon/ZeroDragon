@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Writing Integration Tests that Run Inside a Unit-testing Framework like Jest](https://dev.to/andyjessop/writing-integration-tests-that-run-inside-a-unit-testing-framework-like-jest-48f8)
+- [Dev.to/JS] [From Mono to Multilingual: Supercharge Your React App with i18n](https://dev.to/dileepreddyaella/from-mono-to-multilingual-supercharge-your-react-app-with-i18n-1kjj)
+- [Dev.to/JS] [Simplifying Async Data Handling in React with Loadable](https://dev.to/tobq/simplifying-async-data-handling-in-react-with-loadable-5136)
 - [Dev.to/JS] [How to Build a Recipe App with Vanilla JavaScript](https://dev.to/codewithsadee/how-to-build-a-recipe-app-with-vanilla-javascript-1ogm)
 - [Dev.to/JS] [How to Add User Inputs from a Form to a Card Using JavaScript](https://dev.to/seuncodesnwrite/how-to-add-user-inputs-from-a-form-to-a-card-using-javascript-13ph)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get for Memorial Day](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-for-memorial-d-1850448272)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best TypeScript ORM just got better](https://dev.to/_alexblokh/best-typescript-orm-just-got-better-d6m)
 - [Dev.to/JS] [Deploy pygames to GitHub Pages with WebAssembly - PWA ready!](https://dev.to/sandy_codes_py/deploy-pygames-to-github-pages-with-webassembly-56po)
 - [Dev.to/JS] [How to develop an application](https://dev.to/shreyvijayvargiya/how-to-develop-an-application-3cef)
-- [Dev.to/JS] [7 Useful Resources for Web Developers](https://dev.to/devland/7-useful-resources-for-web-developers-379d)
-- [Dev.to/JS] [5 best practices for AWS Lambda function design standards](https://dev.to/harithzainudin/5-best-practices-for-aws-lambda-function-design-standards-1564)
-- [Dev.to/JS] [🎉 Iconsans](https://dev.to/fpaghar/iconsans-16b8)
 - [Lifehacker] [The Easiest Way to Fix a Dripping Shower Head](https://lifehacker.com/the-easiest-way-to-fix-a-dripping-shower-head-1850448423)
 - [Lifehacker] [The Best and Worst Times to Drive Memorial Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-memorial-day-weekend-1850448426)
 - [Lifehacker] [The Smartest Way to Keep Pantry Moths Out of Your Kitchen](https://lifehacker.com/the-smartest-way-to-keep-pantry-moths-out-of-your-kitch-1850448442)
