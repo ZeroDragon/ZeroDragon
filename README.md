@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Node.js Isn’t Multithread by Default: Unveiling Its Architecture](https://dev.to/utsabutsho/why-nodejs-isnt-multithread-by-default-unveiling-its-architecture-5ge2)
+- [Dev.to/JS] [O que são Lookahead e Lookbehind em Expressões regulares](https://dev.to/lucasm4sco/o-que-sao-lookahead-e-lookbehind-em-expressoes-regulares-32h7)
 - [Dev.to/JS] [The difference between traditional functions and arrow functions in javascript](https://dev.to/ernanej/a-diferenca-entre-funcoes-tradicionais-e-arrow-functions-no-javascript-7e3)
 - [Dev.to/JS] [React Hook: useRef](https://dev.to/ayako_yk/react-hook-useref-2j90)
 - [Dev.to/JS] [Protypes en JavaScript](https://dev.to/ulisesserranop/protypes-en-javascript-5edc)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unveiling 10 TypeScript Techniques Employed by Professionals](https://dev.to/itsahsanmangal/unveiling-10-typescript-techniques-employed-by-professionals-1kmf)
 - [Dev.to/JS] [How I managed to make an AI-powered query language with ChatGPT](https://dev.to/enzon3/how-i-managed-to-make-an-ai-powered-query-language-with-chatgpt-5324)
 - [Dev.to/JS] [How to create a simple Loading Screen in React](https://dev.to/beginarjun/how-to-create-a-simple-loading-screen-in-react-1md6)
-- [Dev.to/JS] [Any advice to a new lad in programming?](https://dev.to/mubirueltonfelix/any-advice-to-a-new-lad-in-programming-4agi)
-- [Dev.to/JS] [Vue and TSX ?! 🤯](https://dev.to/vincentdorian/vue-and-tsx--3if4)
 - [Lifehacker] [The Easiest Way to Fix a Dripping Shower Head](https://lifehacker.com/the-easiest-way-to-fix-a-dripping-shower-head-1850448423)
 - [Lifehacker] [The Best and Worst Times to Drive Memorial Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-memorial-day-weekend-1850448426)
 - [Lifehacker] [The Smartest Way to Keep Pantry Moths Out of Your Kitchen](https://lifehacker.com/the-smartest-way-to-keep-pantry-moths-out-of-your-kitch-1850448442)
