@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JSDoc 101](https://dev.to/noriller/jsdoc-101-218c)
 - [Dev.to/JS] [Integrating Payment Gateways in MERN Applications](https://dev.to/alimalim77/integrating-payment-gateways-in-mern-applications-482k)
 - [Dev.to/JS] [Credit Card](https://dev.to/zyabrik10/credit-card-g11)
 - [Dev.to/JS] [Renderização no React + useEffects](https://dev.to/ocodista/renderizacao-no-react-useeffects-1nf0)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Redux Simplified: A Beginner&#39;s Guide For Web Developers](https://dev.to/med134/redux-simplified-a-beginners-guide-for-web-developers-55h3)
 - [Dev.to/JS] [Hey Dev Community! Looking for Project Recommendations for my Portfolio 🚀](https://dev.to/sore93/hey-dev-community-looking-for-project-recommendations-for-my-portfolio-5he7)
 - [Lifehacker] [These Plants Make the Best Living Fences](https://lifehacker.com/these-plants-make-the-best-living-fences-1850449614)
-- [Dev.to/JS] [How to Setup and Add Google Analytics to your React App](https://dev.to/mohammadfaisal/how-to-setup-and-add-google-analytics-to-your-react-app-1nfc)
 - [Lifehacker] [The Difference Between Contact Cement and Rubber Cement](https://lifehacker.com/the-difference-between-contact-cement-and-rubber-cement-1850449617)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get for Memorial Day](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-for-memorial-d-1850448272)
 - [Lifehacker] [The Easiest Way to Fix a Dripping Shower Head](https://lifehacker.com/the-easiest-way-to-fix-a-dripping-shower-head-1850448423)
