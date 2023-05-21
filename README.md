@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Redux Simplified: A Beginner&#39;s Guide For Web Developers](https://dev.to/med134/redux-simplified-a-beginners-guide-for-web-developers-55h3)
+- [Dev.to/JS] [Hey Dev Community! Looking for Project Recommendations for my Portfolio 🚀](https://dev.to/sore93/hey-dev-community-looking-for-project-recommendations-for-my-portfolio-5he7)
+- [Lifehacker] [These Plants Make the Best Living Fences](https://lifehacker.com/these-plants-make-the-best-living-fences-1850449614)
 - [Dev.to/JS] [How to Setup and Add Google Analytics to your React App](https://dev.to/mohammadfaisal/how-to-setup-and-add-google-analytics-to-your-react-app-1nfc)
 - [Lifehacker] [The Difference Between Contact Cement and Rubber Cement](https://lifehacker.com/the-difference-between-contact-cement-and-rubber-cement-1850449617)
 - [Dev.to/JS] [Writing Integration Tests that Run Inside a Unit-testing Framework like Jest](https://dev.to/andyjessop/writing-integration-tests-that-run-inside-a-unit-testing-framework-like-jest-48f8)
@@ -35,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [📢💡🔗 Calling all JavaScript enthusiasts! Let&#39;s dive into the fascinating world of JavaScript execution contexts! 🚀](https://dev.to/shaileshparmarwebdeveloper/calling-all-javascript-enthusiasts-lets-dive-into-the-fascinating-world-of-javascript-execution-contexts-5gkf)
 - [Dev.to/JS] [Memoization and Pure Components in React](https://dev.to/kawanedres/memoization-and-pure-components-optimizing-rendering-performance-in-react-16cj)
 - [Dev.to/JS] [[Node.js] Using callback-based functions when the rest of the code uses Promises](https://dev.to/gaurang847/nodejs-using-callback-based-functions-when-the-rest-of-the-code-uses-promises-gl5)
-- [Dev.to/JS] [Best TypeScript ORM just got better](https://dev.to/_alexblokh/best-typescript-orm-just-got-better-d6m)
-- [Dev.to/JS] [Deploy pygames to GitHub Pages with WebAssembly - PWA ready!](https://dev.to/sandy_codes_py/deploy-pygames-to-github-pages-with-webassembly-56po)
 - [Lifehacker] [The Easiest Way to Fix a Dripping Shower Head](https://lifehacker.com/the-easiest-way-to-fix-a-dripping-shower-head-1850448423)
 - [Lifehacker] [The Best and Worst Times to Drive Memorial Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-memorial-day-weekend-1850448426)
 - [Lifehacker] [The Smartest Way to Keep Pantry Moths Out of Your Kitchen](https://lifehacker.com/the-smartest-way-to-keep-pantry-moths-out-of-your-kitch-1850448442)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Stop Eating Fake Sugars, According to the World Health Organization](https://lifehacker.com/why-you-should-stop-eating-fake-sugars-according-to-th-1850451753)
 - [Lifehacker] [This Deal Makes Disney World Tickets Slightly Less Crushingly Expensive](https://lifehacker.com/this-deal-makes-disney-world-tickets-slightly-less-crus-1850451413)
 - [Lifehacker] [Log Into Your Old Google Accounts Before They’re Deleted](https://lifehacker.com/log-into-your-old-google-accounts-before-they-re-delete-1850450404)
-- [Lifehacker] [Hear Me Out: Pickle Spaghetti](https://lifehacker.com/hear-me-out-pickle-spaghetti-1850451245)
-- [Lifehacker] [You Can Get Tickets to These Summer Music Festivals for $99 Right Now](https://lifehacker.com/you-can-get-tickets-to-these-summer-music-festivals-for-1850450823)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Hear Me Out: Pickle Spaghetti](https://lifehacker.com/hear-me-out-pickle-spaghetti-1850451245)<!-- TECH-POSTS:END -->
 
 ---
 
