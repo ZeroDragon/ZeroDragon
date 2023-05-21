@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Credit Card](https://dev.to/zyabrik10/credit-card-g11)
+- [Dev.to/JS] [Renderização no React + useEffects](https://dev.to/ocodista/renderizacao-no-react-useeffects-1nf0)
+- [Dev.to/JS] [useRef 2: DOM Manipulation](https://dev.to/ayako_yk/useref-2-dom-manipulation-2a6l)
 - [Dev.to/JS] [React 18 server components deep dive](https://dev.to/xakrume/react-server-components-deep-dive-29af)
 - [Dev.to/JS] [Winston Transports??](https://dev.to/celeron/winston-transports-11nd)
 - [Dev.to/JS] [Pong: Atari Classic Game](https://dev.to/bekbrace/pong-atari-classic-game-193m)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Setup and Add Google Analytics to your React App](https://dev.to/mohammadfaisal/how-to-setup-and-add-google-analytics-to-your-react-app-1nfc)
 - [Lifehacker] [The Difference Between Contact Cement and Rubber Cement](https://lifehacker.com/the-difference-between-contact-cement-and-rubber-cement-1850449617)
 - [Dev.to/JS] [Writing Integration Tests that Run Inside a Unit-testing Framework like Jest](https://dev.to/andyjessop/writing-integration-tests-that-run-inside-a-unit-testing-framework-like-jest-48f8)
-- [Dev.to/JS] [From Mono to Multilingual: Supercharge Your React App with i18n](https://dev.to/dileepreddyaella/from-mono-to-multilingual-supercharge-your-react-app-with-i18n-1kjj)
-- [Dev.to/JS] [Simplifying Async Data Handling in React with Loadable](https://dev.to/tobq/simplifying-async-data-handling-in-react-with-loadable-5136)
-- [Dev.to/JS] [How to Build a Recipe App with Vanilla JavaScript](https://dev.to/codewithsadee/how-to-build-a-recipe-app-with-vanilla-javascript-1ogm)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get for Memorial Day](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-for-memorial-d-1850448272)
 - [Lifehacker] [The Easiest Way to Fix a Dripping Shower Head](https://lifehacker.com/the-easiest-way-to-fix-a-dripping-shower-head-1850448423)
 - [Lifehacker] [The Best and Worst Times to Drive Memorial Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-memorial-day-weekend-1850448426)
