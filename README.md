@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Free and Cheap Food You Can Get for Memorial Day](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-for-memorial-d-1850448272)
+- [Dev.to/JS] [A Detailed Guide on TypeScript Enum](https://dev.to/refine/a-detailed-guide-on-typescript-enum-2dgp)
+- [Dev.to/JS] [📢💡🔗 Calling all JavaScript enthusiasts! Let&#39;s dive into the fascinating world of JavaScript execution contexts! 🚀](https://dev.to/shaileshparmarwebdeveloper/calling-all-javascript-enthusiasts-lets-dive-into-the-fascinating-world-of-javascript-execution-contexts-5gkf)
+- [Dev.to/JS] [Memoization and Pure Components in React](https://dev.to/kawanedres/memoization-and-pure-components-optimizing-rendering-performance-in-react-16cj)
+- [Dev.to/JS] [[Node.js] Using callback-based functions when the rest of the code uses Promises](https://dev.to/gaurang847/nodejs-using-callback-based-functions-when-the-rest-of-the-code-uses-promises-gl5)
 - [Dev.to/JS] [Best TypeScript ORM just got better](https://dev.to/_alexblokh/best-typescript-orm-just-got-better-d6m)
 - [Dev.to/JS] [Deploy pygames to GitHub Pages with WebAssembly - PWA ready!](https://dev.to/sandy_codes_py/deploy-pygames-to-github-pages-with-webassembly-56po)
 - [Dev.to/JS] [How to develop an application](https://dev.to/shreyvijayvargiya/how-to-develop-an-application-3cef)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🎉 Iconsans](https://dev.to/fpaghar/iconsans-16b8)
 - [Dev.to/JS] [HTML Document Structure](https://dev.to/laksidesvibe/html-document-structure-l7n)
 - [Dev.to/JS] [JavaScript to TypeScript, Why you should make the move!](https://dev.to/mehdiraash/javascript-to-typescript-why-you-should-make-the-move-1hcf)
-- [Dev.to/JS] [Simplifying Text Encryption with ROT13 Algorithm in JavaScript](https://dev.to/muhmmadawd/simplifying-text-encryption-with-rot13-algorithm-in-javascript-2am2)
-- [Dev.to/JS] [Scaling And Populating GCP VM And 1 Kubernetes Pod Instance Redirected With Cloud Storage Bucket JSON Function](https://dev.to/kcdchennai/scaling-and-populating-gcp-vm-and-1-kubernetes-pod-instance-redirected-with-cloud-storage-bucket-json-function-2loa)
-- [Dev.to/JS] [Code Collab](https://dev.to/harshilshah99/code-collab-3log)
-- [Dev.to/JS] [Day 110 of #365DaysOfCode: Google OAuth 2.0 Integration, useContext Hook, and Navigating Python Learning](https://dev.to/arashjangali/day-110-of-365daysofcode-google-oauth-20-integration-usecontext-hook-and-navigating-python-learning-14e2)
 - [Lifehacker] [The Easiest Way to Fix a Dripping Shower Head](https://lifehacker.com/the-easiest-way-to-fix-a-dripping-shower-head-1850448423)
 - [Lifehacker] [The Best and Worst Times to Drive Memorial Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-memorial-day-weekend-1850448426)
 - [Lifehacker] [The Smartest Way to Keep Pantry Moths Out of Your Kitchen](https://lifehacker.com/the-smartest-way-to-keep-pantry-moths-out-of-your-kitch-1850448442)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Log Into Your Old Google Accounts Before They’re Deleted](https://lifehacker.com/log-into-your-old-google-accounts-before-they-re-delete-1850450404)
 - [Lifehacker] [Hear Me Out: Pickle Spaghetti](https://lifehacker.com/hear-me-out-pickle-spaghetti-1850451245)
 - [Lifehacker] [You Can Get Tickets to These Summer Music Festivals for $99 Right Now](https://lifehacker.com/you-can-get-tickets-to-these-summer-music-festivals-for-1850450823)
-- [Lifehacker] [What&#39;s New on Hulu in June 2023](https://lifehacker.com/whats-new-on-hulu-in-june-2023-1850450843)
-- [Lifehacker] [Customizable Sports in Apple News, and Everything Else in iOS 16.5](https://lifehacker.com/customizable-sports-in-apple-news-and-everything-else-1850450440)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Hulu in June 2023](https://lifehacker.com/whats-new-on-hulu-in-june-2023-1850450843)<!-- TECH-POSTS:END -->
 
 ---
 
