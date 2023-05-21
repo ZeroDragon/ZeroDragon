@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pong: Atari Classic Game](https://dev.to/bekbrace/pong-atari-classic-game-193m)
+- [Dev.to/JS] [Inspecting the code of a stacked CSS Bar Chart data visualization &lpar;with no chart libraries&rpar;](https://dev.to/rickdelpo1/disecting-the-code-of-a-stacked-css-bar-chart-data-visualization-with-no-chart-libraries-12fb)
+- [Dev.to/JS] [Handling errors in React](https://dev.to/lausuarez02/handling-errors-in-react-35ig)
 - [Dev.to/JS] [Redux Simplified: A Beginner&#39;s Guide For Web Developers](https://dev.to/med134/redux-simplified-a-beginners-guide-for-web-developers-55h3)
 - [Dev.to/JS] [Hey Dev Community! Looking for Project Recommendations for my Portfolio 🚀](https://dev.to/sore93/hey-dev-community-looking-for-project-recommendations-for-my-portfolio-5he7)
 - [Lifehacker] [These Plants Make the Best Living Fences](https://lifehacker.com/these-plants-make-the-best-living-fences-1850449614)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Add User Inputs from a Form to a Card Using JavaScript](https://dev.to/seuncodesnwrite/how-to-add-user-inputs-from-a-form-to-a-card-using-javascript-13ph)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get for Memorial Day](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-for-memorial-d-1850448272)
 - [Dev.to/JS] [A Detailed Guide on TypeScript Enum](https://dev.to/refine/a-detailed-guide-on-typescript-enum-2dgp)
-- [Dev.to/JS] [📢💡🔗 Calling all JavaScript enthusiasts! Let&#39;s dive into the fascinating world of JavaScript execution contexts! 🚀](https://dev.to/shaileshparmarwebdeveloper/calling-all-javascript-enthusiasts-lets-dive-into-the-fascinating-world-of-javascript-execution-contexts-5gkf)
-- [Dev.to/JS] [Memoization and Pure Components in React](https://dev.to/kawanedres/memoization-and-pure-components-optimizing-rendering-performance-in-react-16cj)
-- [Dev.to/JS] [[Node.js] Using callback-based functions when the rest of the code uses Promises](https://dev.to/gaurang847/nodejs-using-callback-based-functions-when-the-rest-of-the-code-uses-promises-gl5)
 - [Lifehacker] [The Easiest Way to Fix a Dripping Shower Head](https://lifehacker.com/the-easiest-way-to-fix-a-dripping-shower-head-1850448423)
 - [Lifehacker] [The Best and Worst Times to Drive Memorial Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-memorial-day-weekend-1850448426)
 - [Lifehacker] [The Smartest Way to Keep Pantry Moths Out of Your Kitchen](https://lifehacker.com/the-smartest-way-to-keep-pantry-moths-out-of-your-kitch-1850448442)
