@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get a Lifetime Subscription to Babbel for 20% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-babbel-for-20-o-1850451811)
+- [Dev.to/JS] [Solving the &quot;floating point precision&quot; problem with... floats?](https://dev.to/voliva/solving-the-floating-point-precision-problem-with-floats-4369)
+- [Lifehacker] [Sous Vide Your Old, Dried-Out Weed](https://lifehacker.com/sous-vide-your-old-dried-out-weed-1850461994)
+- [Dev.to/JS] [Javascript 101: Generating a Random Number](https://dev.to/shunya/javascript-101-generating-a-random-number-2f77)
+- [Dev.to/JS] [What is it like to be a software developer?](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg)
+- [Dev.to/JS] [Next.js Starter Template for Product Launch: Introducing UIlaunch](https://dev.to/hisachin/nextjs-starter-template-for-product-launch-introducing-uilaunch-oma)
+- [Dev.to/JS] [Unlock the Power of Reactive UIs in Angular with ngx-async-with-status Library](https://dev.to/thecoderdream/unlock-the-power-of-reactive-uis-in-angular-with-ngx-async-with-status-library-4l0i)
+- [Lifehacker] [The Postal Service Is Begging You to Fix Your Mailbox](https://lifehacker.com/the-postal-service-is-begging-you-to-fix-your-mailbox-1850462546)
 - [Dev.to/JS] [Building a Chrome Extension with SvelteKit](https://dev.to/lukehagar/building-a-chrome-extension-with-sveltekit-3kb)
 - [Dev.to/JS] [Advantages and the disadvantages of serverless computing](https://dev.to/ewenikeemmanue4/advantages-and-the-disadvantages-of-serverless-computing-3pd8)
 - [Dev.to/JS] [Understanding Lexical Environment in JavaScript](https://dev.to/thedheerajjha/understanding-lexical-environment-in-javascript-a3b)
@@ -33,13 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get a Like-New Refurbished MacBook Air for Under $200](https://lifehacker.com/get-a-like-new-refurbished-macbook-air-for-under-200-1850451854)
 - [Dev.to/JS] [🌈Omkar DevTools: A Swiss Army knife for developers🚀](https://dev.to/chetanam/omkar-devtools-a-swiss-army-knife-for-developers-40na)
 - [Dev.to/JS] [Tadalafil 20mg Kaufen: The Affordable Solution for Erectile Dysfunction](https://dev.to/tadalafil20mgkaufe/tadalafil-20mg-kaufen-the-affordable-solution-for-erectile-dysfunction-4l1k)
-- [Dev.to/JS] [Sorybook Genie](https://dev.to/_eduard26/sorybook-genie-2pf8)
-- [Dev.to/JS] [Aimless.js - The Missing JS Randomness Library](https://dev.to/chriscavs/aimlessjs-the-missing-js-randomness-library-29k3)
 - [Lifehacker] [The Best Bean Dips Are Made With Flour](https://lifehacker.com/the-best-bean-dips-are-made-with-flour-1850461637)
-- [Dev.to/JS] [How to call React Query hooks conditionally!](https://dev.to/nithinkjoy/how-to-call-react-query-hooks-conditionally-5246)
-- [Dev.to/JS] [Getting hands dirty with KotlinJs](https://dev.to/coroutinedispatcher/getting-hands-dirty-with-kotlinjs-56g9)
 - [Lifehacker] [You Can Now Open a Venmo Account for Your Teen &lpar;and Monitor It&rpar;](https://lifehacker.com/you-can-now-open-a-venmo-account-for-your-teen-and-mon-1850461312)
-- [Dev.to/JS] [Pure and Impure Function in JavaScript: JS Quick Guide](https://dev.to/amitsinghcode/pure-and-impure-function-in-javascript-js-quick-guide-4dmb)
 - [Lifehacker] [The Best Ways to Make Your Balcony More Private](https://lifehacker.com/the-best-way-to-make-your-balcony-more-private-1850460763)
 - [Lifehacker] [You Can Get This Wireless iPhone Charger for Over 60% Off Right Now](https://lifehacker.com/you-can-get-this-wireless-iphone-charger-for-over-60-o-1850451903)
 - [Lifehacker] [9 Apps That Can Automate Almost Everything on Your Mac](https://lifehacker.com/9-apps-that-can-automate-almost-everything-on-your-mac-1850460688)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; File a Home Insurance Claim](https://lifehacker.com/when-you-should-and-shouldnt-file-a-home-insurance-cl-1850455645)
 - [Lifehacker] [The Four Questions to Ask Yourself Before Hiring a College Admissions Counselor](https://lifehacker.com/the-four-questions-to-ask-yourself-before-hiring-a-coll-1850455745)
 - [Lifehacker] [This AI-Powered App Will Teach You Piano, and It’s On Sale](https://lifehacker.com/this-ai-powered-app-will-teach-you-piano-and-it-s-on-s-1850451892)
-- [Lifehacker] [How to Empty Your Food Processor Without the Blade Falling Out](https://lifehacker.com/how-to-empty-your-food-processor-without-the-blade-fall-1850455661)
-- [Lifehacker] [Your Complete Summer Checklist to Get Ready for College in the Fall](https://lifehacker.com/your-complete-summer-checklist-to-get-ready-for-college-1850455373)
-- [Lifehacker] [You Should Use a Frother to Mix Your Protein Powder](https://lifehacker.com/you-should-use-a-frother-to-mix-your-protein-powder-1850455135)
-- [Lifehacker] [How to Give Good Feedback at Work Without Feeling Awkward](https://lifehacker.com/how-to-give-good-feedback-at-work-without-feeling-awkwa-1850454133)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Empty Your Food Processor Without the Blade Falling Out](https://lifehacker.com/how-to-empty-your-food-processor-without-the-blade-fall-1850455661)<!-- TECH-POSTS:END -->
 
 ---
 
