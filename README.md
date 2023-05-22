@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Two Easy Ways to Drain a Waterlogged Lawn](https://lifehacker.com/two-easy-ways-to-drain-a-waterlogged-lawn-1850459491)
+- [Dev.to/JS] [Axios interceptors For ReactJs](https://dev.to/refath/create-axios-interceptors-for-reactjs-6j0)
+- [Dev.to/JS] [Server Side Rendering &lpar;SSR&rpar; Vs Static Site Generation &lpar;SSG&rpar;](https://dev.to/ebereplenty/server-side-rendering-ssr-vs-static-site-generation-ssg-214k)
+- [Lifehacker] [Use a &#39;Weed Dragon&#39; to Send Weeds to Hell](https://lifehacker.com/use-a-weed-dragon-to-send-weeds-to-hell-1850459624)
+- [Dev.to/JS] [Perlindungan Finansial untuk Masa Depan yang Lebih Aman](https://dev.to/agnesolivo-leavime/perlindungan-finansial-untuk-masa-depan-yang-lebih-aman-h30)
+- [Dev.to/JS] [About Leavime - Leavime Bio Profil](https://dev.to/agnesolivo-leavime/about-leavime-leavime-bio-profil-dp7)
 - [Dev.to/JS] [Breaking the &quot;switch &lpar;true&rpar;&quot; Spell in JavaScript](https://dev.to/ic3dragon/breaking-the-switch-true-spell-in-javascript-21n8)
 - [Dev.to/JS] [Wheather App in ReactJS &amp; Material UI](https://dev.to/madhubankhatri/wheather-app-in-reactjs-material-ui-1aoc)
 - [Dev.to/JS] [Help Needed with JavaScript Code for Automatic Submission on Intel Core vPro Laptop](https://dev.to/trammygombez/help-needed-with-javascript-code-for-automatic-submission-on-intel-core-vpro-laptop-5c2g)
@@ -33,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Digging into Apostrophe&#39;s Image Widget Tool](https://dev.to/apostrophecms/digging-into-apostrophes-image-widget-tool-2o8n)
 - [Dev.to/JS] [🔥💥🚀 10 Missing Selenium Methods!😱💥🔥](https://dev.to/chetanam/10-missing-selenium-methods-4ic0)
 - [Dev.to/JS] [Journey to Mastery: Completing the FreeCodeCamp JavaScript Algorithms and Data Structures Certification](https://dev.to/muhmmadawd/journey-to-mastery-completing-the-freecodecamp-javascript-algorithms-and-data-structures-certification-8jj)
-- [Dev.to/JS] [While Loops in JavaScript | JavaScript #9](https://dev.to/sksage/while-loops-in-javascript-javascript-9-4e89)
-- [Dev.to/JS] [I created a react framework!](https://dev.to/ghalbeyou/i-created-a-react-framework-1onk)
-- [Dev.to/JS] [Building an intelligent CRM using ChatGPT, PostgreSQL, and ToolJet](https://dev.to/tooljet/building-an-intelligent-crm-using-chatgpt-postgresql-and-tooljet-4jod)
-- [Dev.to/JS] [TypeScript Congress 2023](https://dev.to/ts_congress/typescript-congress-2023-52m7)
 - [Lifehacker] [These Plants Make the Best Living Fences](https://lifehacker.com/these-plants-make-the-best-living-fences-1850449614)
 - [Lifehacker] [The Difference Between Contact Cement and Rubber Cement](https://lifehacker.com/the-difference-between-contact-cement-and-rubber-cement-1850449617)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get for Memorial Day](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-for-memorial-d-1850448272)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Cavernous, Aerated Cheese Crisps in Your Air Fryer](https://lifehacker.com/make-cavernous-aerated-cheese-crisps-in-your-air-fryer-1850452037)
 - [Lifehacker] [The Easiest Way to Clean Dirty Oven Racks](https://lifehacker.com/the-easiest-way-to-clean-dirty-oven-racks-1850453546)
 - [Lifehacker] [9 Store Clubs Worth the Money &lpar;and 7 That Probably Aren&#39;t&rpar;](https://lifehacker.com/9-store-clubs-worth-the-money-and-7-that-probably-aren-1850450868)
-- [Crazy Programmer] [Ted Nelson Biography](https://www.thecrazyprogrammer.com/2023/05/ted-nelson-biography.html)
-- [Lifehacker] [Why You Should Stop Eating Fake Sugars, According to the World Health Organization](https://lifehacker.com/why-you-should-stop-eating-fake-sugars-according-to-th-1850451753)
-- [Lifehacker] [This Deal Makes Disney World Tickets Slightly Less Crushingly Expensive](https://lifehacker.com/this-deal-makes-disney-world-tickets-slightly-less-crus-1850451413)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Ted Nelson Biography](https://www.thecrazyprogrammer.com/2023/05/ted-nelson-biography.html)<!-- TECH-POSTS:END -->
 
 ---
 
