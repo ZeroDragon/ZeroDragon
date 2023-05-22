@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to call React Query hooks conditionally!](https://dev.to/nithinkjoy/how-to-call-react-query-hooks-conditionally-5246)
+- [Dev.to/JS] [Getting hands dirty with KotlinJs](https://dev.to/coroutinedispatcher/getting-hands-dirty-with-kotlinjs-56g9)
+- [Lifehacker] [You Can Now Open a Venmo Account for Your Teen &lpar;and Monitor It&rpar;](https://lifehacker.com/you-can-now-open-a-venmo-account-for-your-teen-and-mon-1850461312)
+- [Dev.to/JS] [Pure and Impure Function in JavaScript: JS Quick Guide](https://dev.to/amitsinghcode/pure-and-impure-function-in-javascript-js-quick-guide-4dmb)
+- [Dev.to/JS] [Dask - Collaborative Task Manager Application for GitHub + DEV Hackathon](https://dev.to/dilane3/dask-collaborative-task-manager-application-for-github-dev-hackathon-446p)
+- [Lifehacker] [The Best Ways to Make Your Balcony More Private](https://lifehacker.com/the-best-way-to-make-your-balcony-more-private-1850460763)
 - [Dev.to/JS] [How to interact with EVM smart contracts in Javascript](https://dev.to/bellabe/how-to-interact-with-evm-smart-contracts-in-javascript-1jh9)
 - [Dev.to/JS] [Enhancing CSS Transitions with Animate CSS Grid](https://dev.to/scofieldidehen/enhancing-css-transitions-with-animate-css-grid-cbi)
 - [Dev.to/JS] [DeepL Translate Github Action](https://dev.to/lyqht/deepl-translate-github-action-3nk0)
@@ -33,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🌈 A One Person Startup Tech Stack - Next.js, Django, Kubernetes, and GCP 🚀](https://dev.to/chetanam/a-one-person-startup-tech-stack-nextjs-django-kubernetes-and-gcp-k62)
 - [Lifehacker] [9 Apps That Can Automate Almost Everything on Your Mac](https://lifehacker.com/9-apps-that-can-automate-almost-everything-on-your-mac-1850460688)
 - [Dev.to/JS] [SvelteKit Forms: Grammar Check App](https://dev.to/askrodney/sveltekit-forms-grammar-check-app-34h1)
-- [Dev.to/JS] [Fakta Menarik Honda PCX: Skutik Modern Terbaik di Indonesia](https://dev.to/agnesolivo-leavime/fakta-menarik-honda-pcx-skutik-modern-terbaik-di-indonesia-25o2)
-- [Dev.to/JS] [Part 3: Advanced TypeScript Concepts](https://dev.to/bobbyhalljr/part-3-advanced-typescript-concepts-2f36)
 - [Lifehacker] [12 Podcasts Than Will Make Anyone Fall in Love With Podcasts](https://lifehacker.com/12-podcasts-than-will-make-anyone-fall-in-love-with-pod-1850458582)
-- [Dev.to/JS] [Part 2: TypeScript Basics](https://dev.to/bobbyhalljr/part-2-typescript-basics-3lj6)
-- [Dev.to/JS] [Part 1: Introduction to TypeScript](https://dev.to/bobbyhalljr/part-1-introduction-to-typescript-5722)
 - [Lifehacker] [Two Easy Ways to Drain a Waterlogged Lawn](https://lifehacker.com/two-easy-ways-to-drain-a-waterlogged-lawn-1850459491)
 - [Lifehacker] [Use a &#39;Weed Dragon&#39; to Send Weeds to Hell](https://lifehacker.com/use-a-weed-dragon-to-send-weeds-to-hell-1850459624)
 - [Lifehacker] [Teach Your Kids the Difference Between a Real Worry and a &#39;Trick&#39; Worry](https://lifehacker.com/teach-your-kids-the-difference-between-a-real-worry-and-1850456901)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Why Is Everyone &#39;Serving C*nt&#39; on Social Media?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-e-1850452383)
 - [Lifehacker] [Think Twice Before Using &#39;Apple Pay Later&#39;](https://lifehacker.com/think-twice-before-using-apple-pay-later-1850454637)
 - [Lifehacker] [A Guide to Discreetly Traveling With Weed](https://lifehacker.com/a-guide-to-discreetly-traveling-with-weed-1850432640)
-- [Lifehacker] [Try the &#39;Butterfly Hug&#39; When You Need to Calm Down](https://lifehacker.com/try-the-butterfly-hug-when-you-need-to-calm-down-1850453309)
-- [Lifehacker] [You Can Track Your Teen&#39;s Uber](https://lifehacker.com/you-can-track-your-teens-uber-1850451886)
-- [Lifehacker] [Make Cavernous, Aerated Cheese Crisps in Your Air Fryer](https://lifehacker.com/make-cavernous-aerated-cheese-crisps-in-your-air-fryer-1850452037)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Try the &#39;Butterfly Hug&#39; When You Need to Calm Down](https://lifehacker.com/try-the-butterfly-hug-when-you-need-to-calm-down-1850453309)<!-- TECH-POSTS:END -->
 
 ---
 
