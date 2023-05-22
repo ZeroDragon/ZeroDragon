@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Choosing Between Server and Client Components in Next.js](https://dev.to/niazmorshed2007/choosing-between-server-and-client-components-in-nextjs-jaf)
+- [Dev.to/JS] [Despidiéndose de &#39;switch&#39;: Mejores enfoques para el control de flujo en JavaScript](https://dev.to/ruben_alapont/despidiendose-de-switch-mejores-enfoques-para-el-control-de-flujo-en-javascript-13jd)
 - [Dev.to/JS] [I Created a Microsoft Edge Extension to Hide Chat on Whatsapp](https://dev.to/srijansingh/i-created-a-microsoft-edge-extension-to-hide-chat-on-whatsapp-431j)
 - [Dev.to/JS] [JavaScript vs. Java: Choosing the Right Language for First-Time Users](https://dev.to/thunter1987/javascript-vs-java-choosing-the-right-language-for-first-time-users-142b)
 - [Dev.to/JS] [How to Use SWR for Better Data Fetching Approach](https://dev.to/femincan/how-to-use-swr-for-better-data-fetching-approach-14i8)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JSDoc 101](https://dev.to/noriller/jsdoc-101-218c)
 - [Dev.to/JS] [Integrating Payment Gateways in MERN Applications](https://dev.to/alimalim77/integrating-payment-gateways-in-mern-applications-482k)
 - [Dev.to/JS] [Credit Card](https://dev.to/zyabrik10/credit-card-g11)
-- [Dev.to/JS] [Renderização no React + useEffects](https://dev.to/ocodista/renderizacao-no-react-useeffects-1nf0)
-- [Dev.to/JS] [useRef 2: DOM Manipulation](https://dev.to/ayako_yk/useref-2-dom-manipulation-2a6l)
 - [Lifehacker] [These Plants Make the Best Living Fences](https://lifehacker.com/these-plants-make-the-best-living-fences-1850449614)
 - [Lifehacker] [The Difference Between Contact Cement and Rubber Cement](https://lifehacker.com/the-difference-between-contact-cement-and-rubber-cement-1850449617)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get for Memorial Day](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-for-memorial-d-1850448272)
