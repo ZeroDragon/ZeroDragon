@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [test](https://dev.to/mistico27/test-10g3)
+- [Dev.to/JS] [APIs vs SDKs: Why you should always have both](https://dev.to/speakeasy/apis-vs-sdks-why-you-should-always-have-both-4ahh)
 - [Dev.to/JS] [React Lifecycle](https://dev.to/lausuarez02/react-lifecycle-22h1)
 - [Lifehacker] [The Worst Ways to React to a Bee Attack](https://lifehacker.com/the-worst-ways-to-react-to-a-bee-attack-1850462981)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Babbel for 20% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-babbel-for-20-o-1850451811)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This &#39;Tears of the Kingdom&#39; Inventory Glitch for Unlimited Items](https://lifehacker.com/use-this-tears-of-the-kingdom-inventory-glitch-for-unli-1850462064)
 - [Dev.to/JS] [GraphiQL with Firebase Auth](https://dev.to/koistya/graphiql-with-firebase-auth-p69)
 - [Lifehacker] [These Simple Food Choices Can Drastically Reduce Your Environmental Impact](https://lifehacker.com/these-simple-food-choices-can-drastically-reduce-your-e-1850456028)
-- [Dev.to/JS] [Building Web Scrapers with Puppeteer](https://dev.to/danrez/building-web-scrapers-with-puppeteer-2ph9)
 - [Lifehacker] [Get a Like-New Refurbished MacBook Air for Under $200](https://lifehacker.com/get-a-like-new-refurbished-macbook-air-for-under-200-1850451854)
-- [Dev.to/JS] [🌈Omkar DevTools: A Swiss Army knife for developers🚀](https://dev.to/chetanam/omkar-devtools-a-swiss-army-knife-for-developers-40na)
 - [Lifehacker] [The Best Bean Dips Are Made With Flour](https://lifehacker.com/the-best-bean-dips-are-made-with-flour-1850461637)
 - [Lifehacker] [You Can Now Open a Venmo Account for Your Teen &lpar;and Monitor It&rpar;](https://lifehacker.com/you-can-now-open-a-venmo-account-for-your-teen-and-mon-1850461312)
 - [Lifehacker] [The Best Ways to Make Your Balcony More Private](https://lifehacker.com/the-best-way-to-make-your-balcony-more-private-1850460763)
