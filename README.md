@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Use SWR for Better Data Fetching Approach](https://dev.to/femincan/how-to-use-swr-for-better-data-fetching-approach-14i8)
+- [Dev.to/JS] [FactWise is Hiring!!](https://dev.to/factwise1/factwise-is-hiring-24j1)
 - [Dev.to/JS] [Part 3: Component Structure - Building Reusable and Maintainable Components in React!](https://dev.to/sathishskdev/part-3-component-structure-building-reusable-and-maintainable-components-in-react-54n6)
 - [Dev.to/JS] [ESLint: The Hows, Whys, and Who Behind It](https://dev.to/philipjohnbasile/eslint-the-hows-whys-and-who-behind-it-5fkl)
 - [Dev.to/JS] [Creating Distinct OAuth Routes and Exploring Logic Through Python Games: A Day in My Coding Journey](https://dev.to/arashjangali/creating-distinct-oauth-routes-and-exploring-logic-through-python-games-a-day-in-my-coding-journey-3m5o)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useRef 2: DOM Manipulation](https://dev.to/ayako_yk/useref-2-dom-manipulation-2a6l)
 - [Dev.to/JS] [React 18 server components deep dive](https://dev.to/xakrume/react-server-components-deep-dive-29af)
 - [Dev.to/JS] [Winston Transports??](https://dev.to/celeron/winston-transports-11nd)
-- [Dev.to/JS] [Pong: Atari Classic Game](https://dev.to/bekbrace/pong-atari-classic-game-193m)
-- [Dev.to/JS] [Inspecting the code of a stacked CSS Bar Chart data visualization &lpar;with no chart libraries&rpar;](https://dev.to/rickdelpo1/disecting-the-code-of-a-stacked-css-bar-chart-data-visualization-with-no-chart-libraries-12fb)
 - [Lifehacker] [These Plants Make the Best Living Fences](https://lifehacker.com/these-plants-make-the-best-living-fences-1850449614)
 - [Lifehacker] [The Difference Between Contact Cement and Rubber Cement](https://lifehacker.com/the-difference-between-contact-cement-and-rubber-cement-1850449617)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get for Memorial Day](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-for-memorial-d-1850448272)
