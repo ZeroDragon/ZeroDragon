@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I Created a Microsoft Edge Extension to Hide Chat on Whatsapp](https://dev.to/srijansingh/i-created-a-microsoft-edge-extension-to-hide-chat-on-whatsapp-431j)
+- [Dev.to/JS] [JavaScript vs. Java: Choosing the Right Language for First-Time Users](https://dev.to/thunter1987/javascript-vs-java-choosing-the-right-language-for-first-time-users-142b)
 - [Dev.to/JS] [How to Use SWR for Better Data Fetching Approach](https://dev.to/femincan/how-to-use-swr-for-better-data-fetching-approach-14i8)
 - [Dev.to/JS] [FactWise is Hiring!!](https://dev.to/factwise1/factwise-is-hiring-24j1)
 - [Dev.to/JS] [Part 3: Component Structure - Building Reusable and Maintainable Components in React!](https://dev.to/sathishskdev/part-3-component-structure-building-reusable-and-maintainable-components-in-react-54n6)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Credit Card](https://dev.to/zyabrik10/credit-card-g11)
 - [Dev.to/JS] [Renderização no React + useEffects](https://dev.to/ocodista/renderizacao-no-react-useeffects-1nf0)
 - [Dev.to/JS] [useRef 2: DOM Manipulation](https://dev.to/ayako_yk/useref-2-dom-manipulation-2a6l)
-- [Dev.to/JS] [React 18 server components deep dive](https://dev.to/xakrume/react-server-components-deep-dive-29af)
-- [Dev.to/JS] [Winston Transports??](https://dev.to/celeron/winston-transports-11nd)
 - [Lifehacker] [These Plants Make the Best Living Fences](https://lifehacker.com/these-plants-make-the-best-living-fences-1850449614)
 - [Lifehacker] [The Difference Between Contact Cement and Rubber Cement](https://lifehacker.com/the-difference-between-contact-cement-and-rubber-cement-1850449617)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get for Memorial Day](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-for-memorial-d-1850448272)
