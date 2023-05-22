@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [So, You Cut Into an Unripe Avocado](https://lifehacker.com/so-you-cut-into-an-unripe-avocado-1850456289)
+- [Dev.to/JS] [Mastering React Interview: Top Common Questions and Best Practices](https://dev.to/aradwan20/mastering-react-interview-top-common-questions-and-best-practices-3g13)
+- [Dev.to/JS] [Série React Hooks: useDeferredValue](https://dev.to/taisesoares/serie-react-hooks-usedeferredvalue-13d)
 - [Dev.to/JS] [Digging into Apostrophe&#39;s Image Widget Tool](https://dev.to/apostrophecms/digging-into-apostrophes-image-widget-tool-2o8n)
 - [Dev.to/JS] [🔥💥🚀 10 Missing Selenium Methods!😱💥🔥](https://dev.to/chetanam/10-missing-selenium-methods-4ic0)
 - [Dev.to/JS] [Journey to Mastery: Completing the FreeCodeCamp JavaScript Algorithms and Data Structures Certification](https://dev.to/muhmmadawd/journey-to-mastery-completing-the-freecodecamp-javascript-algorithms-and-data-structures-certification-8jj)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Use Sanity with Next.js 13 full Guide](https://dev.to/med_code/how-to-use-sanity-with-nextjs-13-full-guide-8c5)
 - [Dev.to/JS] [Update System Routing in Next.js 13.2](https://dev.to/med_code/update-system-routing-in-nextjs-132-18eg)
 - [Dev.to/JS] [What Is Higher Order Component &lpar;Hoc&rpar; In React?](https://dev.to/med_code/what-is-higher-order-component-hoc-in-react-294j)
-- [Dev.to/JS] [Improving Web Performance with Lazy Pattern](https://dev.to/jacobandrewsky/improving-web-performance-with-lazy-pattern-3eia)
-- [Dev.to/JS] [Unlocking Conditional Component Rendering with Vue.js Slots](https://dev.to/arunanshub/unlocking-conditional-component-rendering-with-vuejs-slots-do7)
 - [Lifehacker] [These Plants Make the Best Living Fences](https://lifehacker.com/these-plants-make-the-best-living-fences-1850449614)
 - [Lifehacker] [The Difference Between Contact Cement and Rubber Cement](https://lifehacker.com/the-difference-between-contact-cement-and-rubber-cement-1850449617)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get for Memorial Day](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-for-memorial-d-1850448272)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Ted Nelson Biography](https://www.thecrazyprogrammer.com/2023/05/ted-nelson-biography.html)
 - [Lifehacker] [Why You Should Stop Eating Fake Sugars, According to the World Health Organization](https://lifehacker.com/why-you-should-stop-eating-fake-sugars-according-to-th-1850451753)
 - [Lifehacker] [This Deal Makes Disney World Tickets Slightly Less Crushingly Expensive](https://lifehacker.com/this-deal-makes-disney-world-tickets-slightly-less-crus-1850451413)
-- [Lifehacker] [Log Into Your Old Google Accounts Before They’re Deleted](https://lifehacker.com/log-into-your-old-google-accounts-before-they-re-delete-1850450404)
-- [Lifehacker] [Hear Me Out: Pickle Spaghetti](https://lifehacker.com/hear-me-out-pickle-spaghetti-1850451245)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Log Into Your Old Google Accounts Before They’re Deleted](https://lifehacker.com/log-into-your-old-google-accounts-before-they-re-delete-1850450404)<!-- TECH-POSTS:END -->
 
 ---
 
