@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Basic JavaScript Interview Question 2: What are the different data types present in JavaScript?](https://dev.to/sharmakshitij18/basic-javascript-interview-question-2-what-are-the-different-data-types-present-in-javascript-3pgp)
+- [Dev.to/JS] [Starter Project Idea: Conway&#39;s Game of Life](https://dev.to/crvanetten15/starter-project-idea-conways-game-of-life-1jfi)
 - [Dev.to/JS] [Choosing Between Server and Client Components in Next.js](https://dev.to/niazmorshed2007/choosing-between-server-and-client-components-in-nextjs-jaf)
 - [Dev.to/JS] [Despidiéndose de &#39;switch&#39;: Mejores enfoques para el control de flujo en JavaScript](https://dev.to/ruben_alapont/despidiendose-de-switch-mejores-enfoques-para-el-control-de-flujo-en-javascript-13jd)
 - [Dev.to/JS] [I Created a Microsoft Edge Extension to Hide Chat on Whatsapp](https://dev.to/srijansingh/i-created-a-microsoft-edge-extension-to-hide-chat-on-whatsapp-431j)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ESLint: The Hows, Whys, and Who Behind It](https://dev.to/philipjohnbasile/eslint-the-hows-whys-and-who-behind-it-5fkl)
 - [Dev.to/JS] [Creating Distinct OAuth Routes and Exploring Logic Through Python Games: A Day in My Coding Journey](https://dev.to/arashjangali/creating-distinct-oauth-routes-and-exploring-logic-through-python-games-a-day-in-my-coding-journey-3m5o)
 - [Dev.to/JS] [JSDoc 101](https://dev.to/noriller/jsdoc-101-218c)
-- [Dev.to/JS] [Integrating Payment Gateways in MERN Applications](https://dev.to/alimalim77/integrating-payment-gateways-in-mern-applications-482k)
-- [Dev.to/JS] [Credit Card](https://dev.to/zyabrik10/credit-card-g11)
 - [Lifehacker] [These Plants Make the Best Living Fences](https://lifehacker.com/these-plants-make-the-best-living-fences-1850449614)
 - [Lifehacker] [The Difference Between Contact Cement and Rubber Cement](https://lifehacker.com/the-difference-between-contact-cement-and-rubber-cement-1850449617)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get for Memorial Day](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-for-memorial-d-1850448272)
