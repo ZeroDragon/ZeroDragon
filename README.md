@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building an intelligent CRM using ChatGPT, PostgreSQL, and ToolJet](https://dev.to/tooljet/building-an-intelligent-crm-using-chatgpt-postgresql-and-tooljet-4jod)
+- [Dev.to/JS] [TypeScript Congress 2023](https://dev.to/ts_congress/typescript-congress-2023-52m7)
+- [Dev.to/JS] [How To Use Sanity with Next.js 13 full Guide](https://dev.to/med_code/how-to-use-sanity-with-nextjs-13-full-guide-8c5)
 - [Dev.to/JS] [Update System Routing in Next.js 13.2](https://dev.to/med_code/update-system-routing-in-nextjs-132-18eg)
 - [Dev.to/JS] [What Is Higher Order Component &lpar;Hoc&rpar; In React?](https://dev.to/med_code/what-is-higher-order-component-hoc-in-react-294j)
 - [Dev.to/JS] [Improving Web Performance with Lazy Pattern](https://dev.to/jacobandrewsky/improving-web-performance-with-lazy-pattern-3eia)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Basic JavaScript Interview Question 2: What are the different data types present in JavaScript?](https://dev.to/sharmakshitij18/basic-javascript-interview-question-2-what-are-the-different-data-types-present-in-javascript-3pgp)
 - [Dev.to/JS] [Starter Project Idea: Conway&#39;s Game of Life](https://dev.to/crvanetten15/starter-project-idea-conways-game-of-life-1jfi)
 - [Dev.to/JS] [Choosing Between Server and Client Components in Next.js](https://dev.to/niazmorshed2007/choosing-between-server-and-client-components-in-nextjs-jaf)
-- [Dev.to/JS] [Despidiéndose de &#39;switch&#39;: Mejores enfoques para el control de flujo en JavaScript](https://dev.to/ruben_alapont/despidiendose-de-switch-mejores-enfoques-para-el-control-de-flujo-en-javascript-13jd)
-- [Dev.to/JS] [I Created a Microsoft Edge Extension to Hide Chat on Whatsapp](https://dev.to/srijansingh/i-created-a-microsoft-edge-extension-to-hide-chat-on-whatsapp-431j)
-- [Dev.to/JS] [JavaScript vs. Java: Choosing the Right Language for First-Time Users](https://dev.to/thunter1987/javascript-vs-java-choosing-the-right-language-for-first-time-users-142b)
 - [Lifehacker] [These Plants Make the Best Living Fences](https://lifehacker.com/these-plants-make-the-best-living-fences-1850449614)
 - [Lifehacker] [The Difference Between Contact Cement and Rubber Cement](https://lifehacker.com/the-difference-between-contact-cement-and-rubber-cement-1850449617)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get for Memorial Day](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-for-memorial-d-1850448272)
