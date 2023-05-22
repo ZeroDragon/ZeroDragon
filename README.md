@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to interact with EVM smart contracts in Javascript](https://dev.to/bellabe/how-to-interact-with-evm-smart-contracts-in-javascript-1jh9)
+- [Dev.to/JS] [Enhancing CSS Transitions with Animate CSS Grid](https://dev.to/scofieldidehen/enhancing-css-transitions-with-animate-css-grid-cbi)
+- [Dev.to/JS] [DeepL Translate Github Action](https://dev.to/lyqht/deepl-translate-github-action-3nk0)
+- [Lifehacker] [You Can Get This Wireless iPhone Charger for Over 60% Off Right Now](https://lifehacker.com/you-can-get-this-wireless-iphone-charger-for-over-60-o-1850451903)
+- [Dev.to/JS] [Component Patterns in Next.js 13](https://dev.to/niazmorshed2007/component-patterns-in-nextjs-13-1apg)
+- [Dev.to/JS] [Understanding and Implementing Unique Keys in React](https://dev.to/michaellarocca/understanding-and-implementing-unique-keys-in-react-48n6)
+- [Dev.to/JS] [Introducing QRInked - Create and Manage QR Codes](https://dev.to/dhairyashah/introducing-qrinked-create-and-manage-qr-codes-2hlg)
+- [Dev.to/JS] [🌈 A One Person Startup Tech Stack - Next.js, Django, Kubernetes, and GCP 🚀](https://dev.to/chetanam/a-one-person-startup-tech-stack-nextjs-django-kubernetes-and-gcp-k62)
 - [Lifehacker] [9 Apps That Can Automate Almost Everything on Your Mac](https://lifehacker.com/9-apps-that-can-automate-almost-everything-on-your-mac-1850460688)
 - [Dev.to/JS] [SvelteKit Forms: Grammar Check App](https://dev.to/askrodney/sveltekit-forms-grammar-check-app-34h1)
 - [Dev.to/JS] [Fakta Menarik Honda PCX: Skutik Modern Terbaik di Indonesia](https://dev.to/agnesolivo-leavime/fakta-menarik-honda-pcx-skutik-modern-terbaik-di-indonesia-25o2)
@@ -30,15 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Podcasts Than Will Make Anyone Fall in Love With Podcasts](https://lifehacker.com/12-podcasts-than-will-make-anyone-fall-in-love-with-pod-1850458582)
 - [Dev.to/JS] [Part 2: TypeScript Basics](https://dev.to/bobbyhalljr/part-2-typescript-basics-3lj6)
 - [Dev.to/JS] [Part 1: Introduction to TypeScript](https://dev.to/bobbyhalljr/part-1-introduction-to-typescript-5722)
-- [Dev.to/JS] [Power Tools for Blockchain UI Development: $3.5M Seed Round, An Innovative Revenue Model, and Open Access to Contract Data](https://dev.to/sort_xyz/power-tools-for-blockchain-ui-development-35m-seed-round-an-innovative-revenue-model-and-open-access-to-contract-data-3k9n)
-- [Dev.to/JS] [JSON.stringify vs JSON.parse in JavaScript &lpar;with thumb rule&rpar;](https://dev.to/jeetvora331/jsonstringify-vs-jsonparse-in-javascript-with-thumb-rule-c2g)
 - [Lifehacker] [Two Easy Ways to Drain a Waterlogged Lawn](https://lifehacker.com/two-easy-ways-to-drain-a-waterlogged-lawn-1850459491)
-- [Dev.to/JS] [Axios interceptors For ReactJs](https://dev.to/refath/create-axios-interceptors-for-reactjs-6j0)
-- [Dev.to/JS] [Server Side Rendering &lpar;SSR&rpar; Vs Static Site Generation &lpar;SSG&rpar;](https://dev.to/ebereplenty/server-side-rendering-ssr-vs-static-site-generation-ssg-214k)
 - [Lifehacker] [Use a &#39;Weed Dragon&#39; to Send Weeds to Hell](https://lifehacker.com/use-a-weed-dragon-to-send-weeds-to-hell-1850459624)
-- [Dev.to/JS] [Perlindungan Finansial untuk Masa Depan yang Lebih Aman](https://dev.to/agnesolivo-leavime/perlindungan-finansial-untuk-masa-depan-yang-lebih-aman-h30)
-- [Dev.to/JS] [About Leavime - Leavime Bio Profil](https://dev.to/agnesolivo-leavime/about-leavime-leavime-bio-profil-dp7)
-- [Dev.to/JS] [Breaking the &quot;switch &lpar;true&rpar;&quot; Spell in JavaScript](https://dev.to/ic3dragon/breaking-the-switch-true-spell-in-javascript-21n8)
 - [Lifehacker] [Teach Your Kids the Difference Between a Real Worry and a &#39;Trick&#39; Worry](https://lifehacker.com/teach-your-kids-the-difference-between-a-real-worry-and-1850456901)
 - [Lifehacker] [So, You Cut Into an Unripe Avocado](https://lifehacker.com/so-you-cut-into-an-unripe-avocado-1850456289)
 - [Lifehacker] [These Plants Make the Best Living Fences](https://lifehacker.com/these-plants-make-the-best-living-fences-1850449614)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Guide to Discreetly Traveling With Weed](https://lifehacker.com/a-guide-to-discreetly-traveling-with-weed-1850432640)
 - [Lifehacker] [Try the &#39;Butterfly Hug&#39; When You Need to Calm Down](https://lifehacker.com/try-the-butterfly-hug-when-you-need-to-calm-down-1850453309)
 - [Lifehacker] [You Can Track Your Teen&#39;s Uber](https://lifehacker.com/you-can-track-your-teens-uber-1850451886)
-- [Lifehacker] [Make Cavernous, Aerated Cheese Crisps in Your Air Fryer](https://lifehacker.com/make-cavernous-aerated-cheese-crisps-in-your-air-fryer-1850452037)
-- [Lifehacker] [The Easiest Way to Clean Dirty Oven Racks](https://lifehacker.com/the-easiest-way-to-clean-dirty-oven-racks-1850453546)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Cavernous, Aerated Cheese Crisps in Your Air Fryer](https://lifehacker.com/make-cavernous-aerated-cheese-crisps-in-your-air-fryer-1850452037)<!-- TECH-POSTS:END -->
 
 ---
 
