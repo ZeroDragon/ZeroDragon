@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Breaking the &quot;switch &lpar;true&rpar;&quot; Spell in JavaScript](https://dev.to/ic3dragon/breaking-the-switch-true-spell-in-javascript-21n8)
+- [Dev.to/JS] [Wheather App in ReactJS &amp; Material UI](https://dev.to/madhubankhatri/wheather-app-in-reactjs-material-ui-1aoc)
+- [Dev.to/JS] [Help Needed with JavaScript Code for Automatic Submission on Intel Core vPro Laptop](https://dev.to/trammygombez/help-needed-with-javascript-code-for-automatic-submission-on-intel-core-vpro-laptop-5c2g)
+- [Lifehacker] [Teach Your Kids the Difference Between a Real Worry and a &#39;Trick&#39; Worry](https://lifehacker.com/teach-your-kids-the-difference-between-a-real-worry-and-1850456901)
 - [Lifehacker] [So, You Cut Into an Unripe Avocado](https://lifehacker.com/so-you-cut-into-an-unripe-avocado-1850456289)
 - [Dev.to/JS] [Mastering React Interview: Top Common Questions and Best Practices](https://dev.to/aradwan20/mastering-react-interview-top-common-questions-and-best-practices-3g13)
 - [Dev.to/JS] [Série React Hooks: useDeferredValue](https://dev.to/taisesoares/serie-react-hooks-usedeferredvalue-13d)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I created a react framework!](https://dev.to/ghalbeyou/i-created-a-react-framework-1onk)
 - [Dev.to/JS] [Building an intelligent CRM using ChatGPT, PostgreSQL, and ToolJet](https://dev.to/tooljet/building-an-intelligent-crm-using-chatgpt-postgresql-and-tooljet-4jod)
 - [Dev.to/JS] [TypeScript Congress 2023](https://dev.to/ts_congress/typescript-congress-2023-52m7)
-- [Dev.to/JS] [How To Use Sanity with Next.js 13 full Guide](https://dev.to/med_code/how-to-use-sanity-with-nextjs-13-full-guide-8c5)
-- [Dev.to/JS] [Update System Routing in Next.js 13.2](https://dev.to/med_code/update-system-routing-in-nextjs-132-18eg)
-- [Dev.to/JS] [What Is Higher Order Component &lpar;Hoc&rpar; In React?](https://dev.to/med_code/what-is-higher-order-component-hoc-in-react-294j)
 - [Lifehacker] [These Plants Make the Best Living Fences](https://lifehacker.com/these-plants-make-the-best-living-fences-1850449614)
 - [Lifehacker] [The Difference Between Contact Cement and Rubber Cement](https://lifehacker.com/the-difference-between-contact-cement-and-rubber-cement-1850449617)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get for Memorial Day](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-for-memorial-d-1850448272)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Store Clubs Worth the Money &lpar;and 7 That Probably Aren&#39;t&rpar;](https://lifehacker.com/9-store-clubs-worth-the-money-and-7-that-probably-aren-1850450868)
 - [Crazy Programmer] [Ted Nelson Biography](https://www.thecrazyprogrammer.com/2023/05/ted-nelson-biography.html)
 - [Lifehacker] [Why You Should Stop Eating Fake Sugars, According to the World Health Organization](https://lifehacker.com/why-you-should-stop-eating-fake-sugars-according-to-th-1850451753)
-- [Lifehacker] [This Deal Makes Disney World Tickets Slightly Less Crushingly Expensive](https://lifehacker.com/this-deal-makes-disney-world-tickets-slightly-less-crus-1850451413)
-- [Lifehacker] [Log Into Your Old Google Accounts Before They’re Deleted](https://lifehacker.com/log-into-your-old-google-accounts-before-they-re-delete-1850450404)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Deal Makes Disney World Tickets Slightly Less Crushingly Expensive](https://lifehacker.com/this-deal-makes-disney-world-tickets-slightly-less-crus-1850451413)<!-- TECH-POSTS:END -->
 
 ---
 
