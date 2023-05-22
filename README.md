@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Chrome Extension with SvelteKit](https://dev.to/lukehagar/building-a-chrome-extension-with-sveltekit-3kb)
+- [Dev.to/JS] [Advantages and the disadvantages of serverless computing](https://dev.to/ewenikeemmanue4/advantages-and-the-disadvantages-of-serverless-computing-3pd8)
+- [Dev.to/JS] [Understanding Lexical Environment in JavaScript](https://dev.to/thedheerajjha/understanding-lexical-environment-in-javascript-a3b)
+- [Lifehacker] [Use This &#39;Tears of the Kingdom&#39; Inventory Glitch for Unlimited Items](https://lifehacker.com/use-this-tears-of-the-kingdom-inventory-glitch-for-unli-1850462064)
+- [Dev.to/JS] [GraphiQL with Firebase Auth](https://dev.to/koistya/graphiql-with-firebase-auth-p69)
+- [Lifehacker] [These Simple Food Choices Can Drastically Reduce Your Environmental Impact](https://lifehacker.com/these-simple-food-choices-can-drastically-reduce-your-e-1850456028)
 - [Dev.to/JS] [Building Web Scrapers with Puppeteer](https://dev.to/danrez/building-web-scrapers-with-puppeteer-2ph9)
 - [Lifehacker] [Get a Like-New Refurbished MacBook Air for Under $200](https://lifehacker.com/get-a-like-new-refurbished-macbook-air-for-under-200-1850451854)
 - [Dev.to/JS] [🌈Omkar DevTools: A Swiss Army knife for developers🚀](https://dev.to/chetanam/omkar-devtools-a-swiss-army-knife-for-developers-40na)
@@ -34,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting hands dirty with KotlinJs](https://dev.to/coroutinedispatcher/getting-hands-dirty-with-kotlinjs-56g9)
 - [Lifehacker] [You Can Now Open a Venmo Account for Your Teen &lpar;and Monitor It&rpar;](https://lifehacker.com/you-can-now-open-a-venmo-account-for-your-teen-and-mon-1850461312)
 - [Dev.to/JS] [Pure and Impure Function in JavaScript: JS Quick Guide](https://dev.to/amitsinghcode/pure-and-impure-function-in-javascript-js-quick-guide-4dmb)
-- [Dev.to/JS] [Dask - Collaborative Task Manager Application for GitHub + DEV Hackathon](https://dev.to/dilane3/dask-collaborative-task-manager-application-for-github-dev-hackathon-446p)
 - [Lifehacker] [The Best Ways to Make Your Balcony More Private](https://lifehacker.com/the-best-way-to-make-your-balcony-more-private-1850460763)
-- [Dev.to/JS] [How to interact with EVM smart contracts in Javascript](https://dev.to/bellabe/how-to-interact-with-evm-smart-contracts-in-javascript-1jh9)
-- [Dev.to/JS] [Enhancing CSS Transitions with Animate CSS Grid](https://dev.to/scofieldidehen/enhancing-css-transitions-with-animate-css-grid-cbi)
-- [Dev.to/JS] [DeepL Translate Github Action](https://dev.to/lyqht/deepl-translate-github-action-3nk0)
 - [Lifehacker] [You Can Get This Wireless iPhone Charger for Over 60% Off Right Now](https://lifehacker.com/you-can-get-this-wireless-iphone-charger-for-over-60-o-1850451903)
 - [Lifehacker] [9 Apps That Can Automate Almost Everything on Your Mac](https://lifehacker.com/9-apps-that-can-automate-almost-everything-on-your-mac-1850460688)
 - [Lifehacker] [12 Podcasts Than Will Make Anyone Fall in Love With Podcasts](https://lifehacker.com/12-podcasts-than-will-make-anyone-fall-in-love-with-pod-1850458582)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Empty Your Food Processor Without the Blade Falling Out](https://lifehacker.com/how-to-empty-your-food-processor-without-the-blade-fall-1850455661)
 - [Lifehacker] [Your Complete Summer Checklist to Get Ready for College in the Fall](https://lifehacker.com/your-complete-summer-checklist-to-get-ready-for-college-1850455373)
 - [Lifehacker] [You Should Use a Frother to Mix Your Protein Powder](https://lifehacker.com/you-should-use-a-frother-to-mix-your-protein-powder-1850455135)
-- [Lifehacker] [How to Give Good Feedback at Work Without Feeling Awkward](https://lifehacker.com/how-to-give-good-feedback-at-work-without-feeling-awkwa-1850454133)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Why Is Everyone &#39;Serving C*nt&#39; on Social Media?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-e-1850452383)
-- [Lifehacker] [Think Twice Before Using &#39;Apple Pay Later&#39;](https://lifehacker.com/think-twice-before-using-apple-pay-later-1850454637)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Give Good Feedback at Work Without Feeling Awkward](https://lifehacker.com/how-to-give-good-feedback-at-work-without-feeling-awkwa-1850454133)<!-- TECH-POSTS:END -->
 
 ---
 
