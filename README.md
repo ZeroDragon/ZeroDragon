@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [9 Apps That Can Automate Almost Everything on Your Mac](https://lifehacker.com/9-apps-that-can-automate-almost-everything-on-your-mac-1850460688)
+- [Dev.to/JS] [SvelteKit Forms: Grammar Check App](https://dev.to/askrodney/sveltekit-forms-grammar-check-app-34h1)
+- [Dev.to/JS] [Fakta Menarik Honda PCX: Skutik Modern Terbaik di Indonesia](https://dev.to/agnesolivo-leavime/fakta-menarik-honda-pcx-skutik-modern-terbaik-di-indonesia-25o2)
+- [Dev.to/JS] [Part 3: Advanced TypeScript Concepts](https://dev.to/bobbyhalljr/part-3-advanced-typescript-concepts-2f36)
+- [Lifehacker] [12 Podcasts Than Will Make Anyone Fall in Love With Podcasts](https://lifehacker.com/12-podcasts-than-will-make-anyone-fall-in-love-with-pod-1850458582)
+- [Dev.to/JS] [Part 2: TypeScript Basics](https://dev.to/bobbyhalljr/part-2-typescript-basics-3lj6)
+- [Dev.to/JS] [Part 1: Introduction to TypeScript](https://dev.to/bobbyhalljr/part-1-introduction-to-typescript-5722)
+- [Dev.to/JS] [Power Tools for Blockchain UI Development: $3.5M Seed Round, An Innovative Revenue Model, and Open Access to Contract Data](https://dev.to/sort_xyz/power-tools-for-blockchain-ui-development-35m-seed-round-an-innovative-revenue-model-and-open-access-to-contract-data-3k9n)
+- [Dev.to/JS] [JSON.stringify vs JSON.parse in JavaScript &lpar;with thumb rule&rpar;](https://dev.to/jeetvora331/jsonstringify-vs-jsonparse-in-javascript-with-thumb-rule-c2g)
 - [Lifehacker] [Two Easy Ways to Drain a Waterlogged Lawn](https://lifehacker.com/two-easy-ways-to-drain-a-waterlogged-lawn-1850459491)
 - [Dev.to/JS] [Axios interceptors For ReactJs](https://dev.to/refath/create-axios-interceptors-for-reactjs-6j0)
 - [Dev.to/JS] [Server Side Rendering &lpar;SSR&rpar; Vs Static Site Generation &lpar;SSG&rpar;](https://dev.to/ebereplenty/server-side-rendering-ssr-vs-static-site-generation-ssg-214k)
@@ -30,15 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Perlindungan Finansial untuk Masa Depan yang Lebih Aman](https://dev.to/agnesolivo-leavime/perlindungan-finansial-untuk-masa-depan-yang-lebih-aman-h30)
 - [Dev.to/JS] [About Leavime - Leavime Bio Profil](https://dev.to/agnesolivo-leavime/about-leavime-leavime-bio-profil-dp7)
 - [Dev.to/JS] [Breaking the &quot;switch &lpar;true&rpar;&quot; Spell in JavaScript](https://dev.to/ic3dragon/breaking-the-switch-true-spell-in-javascript-21n8)
-- [Dev.to/JS] [Wheather App in ReactJS &amp; Material UI](https://dev.to/madhubankhatri/wheather-app-in-reactjs-material-ui-1aoc)
-- [Dev.to/JS] [Help Needed with JavaScript Code for Automatic Submission on Intel Core vPro Laptop](https://dev.to/trammygombez/help-needed-with-javascript-code-for-automatic-submission-on-intel-core-vpro-laptop-5c2g)
 - [Lifehacker] [Teach Your Kids the Difference Between a Real Worry and a &#39;Trick&#39; Worry](https://lifehacker.com/teach-your-kids-the-difference-between-a-real-worry-and-1850456901)
 - [Lifehacker] [So, You Cut Into an Unripe Avocado](https://lifehacker.com/so-you-cut-into-an-unripe-avocado-1850456289)
-- [Dev.to/JS] [Mastering React Interview: Top Common Questions and Best Practices](https://dev.to/aradwan20/mastering-react-interview-top-common-questions-and-best-practices-3g13)
-- [Dev.to/JS] [Série React Hooks: useDeferredValue](https://dev.to/taisesoares/serie-react-hooks-usedeferredvalue-13d)
-- [Dev.to/JS] [Digging into Apostrophe&#39;s Image Widget Tool](https://dev.to/apostrophecms/digging-into-apostrophes-image-widget-tool-2o8n)
-- [Dev.to/JS] [🔥💥🚀 10 Missing Selenium Methods!😱💥🔥](https://dev.to/chetanam/10-missing-selenium-methods-4ic0)
-- [Dev.to/JS] [Journey to Mastery: Completing the FreeCodeCamp JavaScript Algorithms and Data Structures Certification](https://dev.to/muhmmadawd/journey-to-mastery-completing-the-freecodecamp-javascript-algorithms-and-data-structures-certification-8jj)
 - [Lifehacker] [These Plants Make the Best Living Fences](https://lifehacker.com/these-plants-make-the-best-living-fences-1850449614)
 - [Lifehacker] [The Difference Between Contact Cement and Rubber Cement](https://lifehacker.com/the-difference-between-contact-cement-and-rubber-cement-1850449617)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get for Memorial Day](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-for-memorial-d-1850448272)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Try the &#39;Butterfly Hug&#39; When You Need to Calm Down](https://lifehacker.com/try-the-butterfly-hug-when-you-need-to-calm-down-1850453309)
 - [Lifehacker] [You Can Track Your Teen&#39;s Uber](https://lifehacker.com/you-can-track-your-teens-uber-1850451886)
 - [Lifehacker] [Make Cavernous, Aerated Cheese Crisps in Your Air Fryer](https://lifehacker.com/make-cavernous-aerated-cheese-crisps-in-your-air-fryer-1850452037)
-- [Lifehacker] [The Easiest Way to Clean Dirty Oven Racks](https://lifehacker.com/the-easiest-way-to-clean-dirty-oven-racks-1850453546)
-- [Lifehacker] [9 Store Clubs Worth the Money &lpar;and 7 That Probably Aren&#39;t&rpar;](https://lifehacker.com/9-store-clubs-worth-the-money-and-7-that-probably-aren-1850450868)
-- [Crazy Programmer] [Ted Nelson Biography](https://www.thecrazyprogrammer.com/2023/05/ted-nelson-biography.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Clean Dirty Oven Racks](https://lifehacker.com/the-easiest-way-to-clean-dirty-oven-racks-1850453546)<!-- TECH-POSTS:END -->
 
 ---
 
