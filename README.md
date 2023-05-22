@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating Distinct OAuth Routes and Exploring Logic Through Python Games: A Day in My Coding Journey](https://dev.to/arashjangali/creating-distinct-oauth-routes-and-exploring-logic-through-python-games-a-day-in-my-coding-journey-3m5o)
 - [Dev.to/JS] [JSDoc 101](https://dev.to/noriller/jsdoc-101-218c)
 - [Dev.to/JS] [Integrating Payment Gateways in MERN Applications](https://dev.to/alimalim77/integrating-payment-gateways-in-mern-applications-482k)
 - [Dev.to/JS] [Credit Card](https://dev.to/zyabrik10/credit-card-g11)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Inspecting the code of a stacked CSS Bar Chart data visualization &lpar;with no chart libraries&rpar;](https://dev.to/rickdelpo1/disecting-the-code-of-a-stacked-css-bar-chart-data-visualization-with-no-chart-libraries-12fb)
 - [Dev.to/JS] [Handling errors in React](https://dev.to/lausuarez02/handling-errors-in-react-35ig)
 - [Dev.to/JS] [Redux Simplified: A Beginner&#39;s Guide For Web Developers](https://dev.to/med134/redux-simplified-a-beginners-guide-for-web-developers-55h3)
-- [Dev.to/JS] [Hey Dev Community! Looking for Project Recommendations for my Portfolio 🚀](https://dev.to/sore93/hey-dev-community-looking-for-project-recommendations-for-my-portfolio-5he7)
 - [Lifehacker] [These Plants Make the Best Living Fences](https://lifehacker.com/these-plants-make-the-best-living-fences-1850449614)
 - [Lifehacker] [The Difference Between Contact Cement and Rubber Cement](https://lifehacker.com/the-difference-between-contact-cement-and-rubber-cement-1850449617)
 - [Lifehacker] [The Best Free and Cheap Food You Can Get for Memorial Day](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-for-memorial-d-1850448272)
