@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Tell &#39;Good&#39; Debt From &#39;Bad&#39;](https://lifehacker.com/how-to-tell-good-debt-from-bad-1850441449)
+- [Dev.to/JS] [Componente de Paginação para React com Chakra UI no CrazyStack Next.js](https://dev.to/devdoido/componente-de-paginacao-para-react-com-chakra-ui-no-crazystack-nextjs-24le)
+- [Dev.to/JS] [Building a bidding system with NextJS 🚀](https://dev.to/novu/building-a-bidding-system-with-nextjs-cg1)
 - [Dev.to/JS] [Nchat](https://dev.to/soham0047/nchat-5epn)
 - [Dev.to/JS] [Boosting Performance in React App ⚡️](https://dev.to/faizaniqballc/boosting-performance-in-react-app-209a)
 - [Dev.to/JS] [Moonly weekly progress update #50 - Getting closer to a Sniper tool](https://dev.to/moonly/moonly-weekly-progress-update-50-getting-closer-to-a-sniper-tool-8m9)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Authorize NodeJS APIs using Authorizer](https://dev.to/lakhansamani/authorize-nodejs-apis-using-authorizer-3ncf)
 - [Dev.to/JS] [Introduction to Testing in JavaScript using Jest](https://dev.to/jps27cse/introduction-to-testing-in-javascript-using-jest-414l)
 - [Dev.to/JS] [The comprehensive guide to Angular Performance Tuning](https://dev.to/ifourtechnolab/the-comprehensive-guide-to-angular-performance-tuning-4n7n)
-- [Dev.to/JS] [COLOR FLIPPER](https://dev.to/mohananthvenkatachalam/color-flipper-4hj3)
-- [Dev.to/JS] [FLAMES](https://dev.to/kavinofficial/flames-46ji)
 - [Lifehacker] [Put Pennies and Vodka in Your Flower Vases](https://lifehacker.com/put-pennies-and-vodka-in-your-flower-vases-1850458977)
 - [Lifehacker] [The Worst Ways to React to a Bee Attack](https://lifehacker.com/the-worst-ways-to-react-to-a-bee-attack-1850462981)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Babbel for 20% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-babbel-for-20-o-1850451811)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Smartest Way to Keep Pantry Moths Out of Your Kitchen](https://lifehacker.com/the-smartest-way-to-keep-pantry-moths-out-of-your-kitch-1850448442)
 - [Lifehacker] [You Can Get Lifetime Access to Rosetta Stone for Over 75% Off Right Now](https://lifehacker.com/you-can-get-lifetime-access-to-rosetta-stone-for-over-7-1850451918)
 - [Lifehacker] [Don’t Watch the Clock When You Can’t Sleep &lpar;and Focus on This Instead&rpar;](https://lifehacker.com/don-t-watch-the-clock-when-you-can-t-sleep-and-focus-o-1850456412)
-- [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; File a Home Insurance Claim](https://lifehacker.com/when-you-should-and-shouldnt-file-a-home-insurance-cl-1850455645)
-- [Lifehacker] [The Four Questions to Ask Yourself Before Hiring a College Admissions Counselor](https://lifehacker.com/the-four-questions-to-ask-yourself-before-hiring-a-coll-1850455745)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; File a Home Insurance Claim](https://lifehacker.com/when-you-should-and-shouldnt-file-a-home-insurance-cl-1850455645)<!-- TECH-POSTS:END -->
 
 ---
 
