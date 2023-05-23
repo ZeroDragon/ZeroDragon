@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Splurge on This Luxury Jet for Cheaper Than First Class](https://lifehacker.com/you-can-splurge-on-this-luxury-jet-for-cheaper-than-fir-1850462486)
+- [Dev.to/JS] [Gatsby Frontend - Blending Performance, Efficiency, and User Experience](https://dev.to/victorleungtw/gatsby-frontend-blending-performance-efficiency-and-user-experience-53o)
+- [Lifehacker] [12 &#39;Legacy Sequels&#39; That Don’t Suck &lpar;and 8 That Kinda Do&rpar;](https://lifehacker.com/12-legacy-sequels-that-don-t-suck-and-8-that-kinda-do-1850459463)
 - [Dev.to/JS] [async / await concepts](https://dev.to/kennethlum/async-await-concepts-26in)
 - [Dev.to/JS] [Frontend soldier &lpar;#0&rpar;](https://dev.to/kas_elvirov/frontend-soldier-0-278g)
 - [Lifehacker] [&#39;Reserve&#39; Is a Free Way to Get Through Airport Security Faster](https://lifehacker.com/reserve-is-a-free-way-to-get-through-airport-security-f-1850462025)
@@ -36,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hiding utility functions in Supabase](https://dev.to/nasheomirro/hiding-utility-functions-in-supabase-4ol1)
 - [Dev.to/JS] [CrossCopy: Effortless Text Copy Across Devices](https://dev.to/sharoonrafeek/crosscopy-effortless-text-copy-across-devices-2799)
 - [Dev.to/JS] [async await polyfill js using generator](https://dev.to/chandrapenugonda/async-await-polyfill-js-using-generator-2faj)
-- [Dev.to/JS] [10 JavaScript Array, String, Number Operations You were Looking for!!!](https://dev.to/mehzad_galib/10-javascript-array-string-number-operations-you-were-looking-for-47a7)
 - [Lifehacker] [Put Pennies and Vodka in Your Flower Vases](https://lifehacker.com/put-pennies-and-vodka-in-your-flower-vases-1850458977)
 - [Lifehacker] [The Worst Ways to React to a Bee Attack](https://lifehacker.com/the-worst-ways-to-react-to-a-bee-attack-1850462981)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Babbel for 20% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-babbel-for-20-o-1850451811)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Free and Cheap Food You Can Get for Memorial Day](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-for-memorial-d-1850448272)
 - [Lifehacker] [The Easiest Way to Fix a Dripping Shower Head](https://lifehacker.com/the-easiest-way-to-fix-a-dripping-shower-head-1850448423)
 - [Lifehacker] [The Best and Worst Times to Drive Memorial Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-memorial-day-weekend-1850448426)
-- [Lifehacker] [The Smartest Way to Keep Pantry Moths Out of Your Kitchen](https://lifehacker.com/the-smartest-way-to-keep-pantry-moths-out-of-your-kitch-1850448442)
-- [Lifehacker] [You Can Get Lifetime Access to Rosetta Stone for Over 75% Off Right Now](https://lifehacker.com/you-can-get-lifetime-access-to-rosetta-stone-for-over-7-1850451918)
-- [Lifehacker] [Don’t Watch the Clock When You Can’t Sleep &lpar;and Focus on This Instead&rpar;](https://lifehacker.com/don-t-watch-the-clock-when-you-can-t-sleep-and-focus-o-1850456412)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Smartest Way to Keep Pantry Moths Out of Your Kitchen](https://lifehacker.com/the-smartest-way-to-keep-pantry-moths-out-of-your-kitch-1850448442)<!-- TECH-POSTS:END -->
 
 ---
 
