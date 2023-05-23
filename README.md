@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Create Your Own Programming Language](https://dev.to/jasonsbarr/how-to-create-your-own-programming-language-2642)
+- [Dev.to/JS] [Seamlessly Convert Web Apps to Android App: Automate with Capacitor and GitHub Actions](https://dev.to/narottam04/seamlessly-convert-web-apps-to-android-app-automate-with-capacitor-and-github-actions-4e26)
+- [Dev.to/JS] [What Is a Content Management System &lpar;CMS&rpar;?](https://dev.to/med_code/what-is-a-content-management-system-cms-2547)
+- [Lifehacker] [The DIY Home Repairs Most Likely to Kill You](https://lifehacker.com/the-diy-home-repairs-most-likely-to-kill-you-1850465748)
+- [Dev.to/JS] [Building a Scalable and User-Friendly Game Discovery Platform: A Technical Deep Dive into findgames.vercel.app](https://dev.to/truevine/building-a-scalable-and-user-friendly-game-discovery-platform-a-technical-deep-dive-into-findgamesvercelapp-53lm)
+- [Lifehacker] [Instant Mashed Potatoes Make the Most Flavorful Casserole Crust](https://lifehacker.com/instant-mashed-potatoes-make-the-most-flavorful-cassero-1850465646)
 - [Dev.to/JS] [How Durable Execution Works](https://dev.to/temporalio/how-durable-execution-works-2b88)
 - [Dev.to/JS] [ESLint: Що? Чому? Де? Як?](https://dev.to/dmytrych/eslint-shcho-chomu-die-iak-2c83)
 - [Dev.to/JS] [Builtin token generator in Node](https://dev.to/sushilbajracharya01/builtin-token-generator-in-node-4a51)
@@ -34,12 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Couldn&#39;t Land a Plane in an Emergency, but You Could Try](https://lifehacker.com/you-couldnt-land-a-plane-in-an-emergency-but-you-could-1850463715)
 - [Dev.to/JS] [Part 5: Asynchronous Programming with TypeScript](https://dev.to/bobbyhalljr/part-5-asynchronous-programming-with-typescript-lb8)
 - [Dev.to/JS] [Demystifying Asynchronous Programming in JavaScript for Newbies](https://dev.to/iflames_1/demystifying-asynchronous-programming-in-javascript-for-newbies-55p0)
-- [Dev.to/JS] [Part 4: Working with Modules and Imports](https://dev.to/bobbyhalljr/part-4-working-with-modules-and-imports-554a)
 - [Lifehacker] [For the Best Waffled Sandwich, Waffle Your Meat First](https://lifehacker.com/for-the-best-waffled-sandwich-waffle-your-meat-first-1850463429)
-- [Dev.to/JS] [Mastering the Art of Seamless Large File Uploads with JavaScript](https://dev.to/api_video/mastering-the-art-of-seamless-large-file-uploads-with-javascript-3pl5)
-- [Dev.to/JS] [Simplify Your Typescript Code with Optional Chaining and Nullish Coalescing](https://dev.to/danywalls/simplify-your-typescript-code-with-optional-chaining-and-nullish-coalescing-37on)
 - [Lifehacker] [Use Cognitive Restructuring to Be More Productive](https://lifehacker.com/use-cognitive-restructuring-to-be-more-productive-1850463361)
-- [Dev.to/JS] [All 86 Jest methods for test automation &lpar;with examples&rpar;](https://dev.to/zvone187/all-86-jest-methods-with-examples-930)
 - [Lifehacker] [Turn Any Sconce Into a Battery-Powered LED Light Fixture](https://lifehacker.com/turn-any-sconce-into-a-battery-powered-led-light-fixtur-1850459704)
 - [Lifehacker] [You Can Splurge on This Luxury Jet for Cheaper Than First Class](https://lifehacker.com/you-can-splurge-on-this-luxury-jet-for-cheaper-than-fir-1850462486)
 - [Lifehacker] [12 &#39;Legacy Sequels&#39; That Don’t Suck &lpar;and 8 That Kinda Do&rpar;](https://lifehacker.com/12-legacy-sequels-that-don-t-suck-and-8-that-kinda-do-1850459463)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Apps That Can Automate Almost Everything on Your Mac](https://lifehacker.com/9-apps-that-can-automate-almost-everything-on-your-mac-1850460688)
 - [Lifehacker] [12 Podcasts Than Will Make Anyone Fall in Love With Podcasts](https://lifehacker.com/12-podcasts-than-will-make-anyone-fall-in-love-with-pod-1850458582)
 - [Lifehacker] [Two Easy Ways to Drain a Waterlogged Lawn](https://lifehacker.com/two-easy-ways-to-drain-a-waterlogged-lawn-1850459491)
-- [Lifehacker] [Use a &#39;Weed Dragon&#39; to Send Weeds to Hell](https://lifehacker.com/use-a-weed-dragon-to-send-weeds-to-hell-1850459624)
-- [Lifehacker] [Teach Your Kids the Difference Between a Real Worry and a &#39;Trick&#39; Worry](https://lifehacker.com/teach-your-kids-the-difference-between-a-real-worry-and-1850456901)
-- [Lifehacker] [So, You Cut Into an Unripe Avocado](https://lifehacker.com/so-you-cut-into-an-unripe-avocado-1850456289)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use a &#39;Weed Dragon&#39; to Send Weeds to Hell](https://lifehacker.com/use-a-weed-dragon-to-send-weeds-to-hell-1850459624)<!-- TECH-POSTS:END -->
 
 ---
 
