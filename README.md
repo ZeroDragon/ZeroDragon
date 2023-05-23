@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use an Allergy Screen to Keep Your Windows Open and Pollen Out](https://lifehacker.com/use-an-allergy-screen-to-keep-your-windows-open-and-pol-1850464055)
+- [Dev.to/JS] [Part 7: Conclusion and Next Steps](https://dev.to/bobbyhalljr/part-7-conclusion-and-next-steps-33hi)
+- [Dev.to/JS] [Part 6: Advanced TypeScript Topics](https://dev.to/bobbyhalljr/part-6-advanced-typescript-topics-43g0)
+- [Lifehacker] [You Couldn&#39;t Land a Plane in an Emergency, but You Could Try](https://lifehacker.com/you-couldnt-land-a-plane-in-an-emergency-but-you-could-1850463715)
+- [Dev.to/JS] [Part 5: Asynchronous Programming with TypeScript](https://dev.to/bobbyhalljr/part-5-asynchronous-programming-with-typescript-lb8)
+- [Dev.to/JS] [Demystifying Asynchronous Programming in JavaScript for Newbies](https://dev.to/iflames_1/demystifying-asynchronous-programming-in-javascript-for-newbies-55p0)
+- [Dev.to/JS] [Part 4: Working with Modules and Imports](https://dev.to/bobbyhalljr/part-4-working-with-modules-and-imports-554a)
 - [Lifehacker] [For the Best Waffled Sandwich, Waffle Your Meat First](https://lifehacker.com/for-the-best-waffled-sandwich-waffle-your-meat-first-1850463429)
 - [Dev.to/JS] [Mastering the Art of Seamless Large File Uploads with JavaScript](https://dev.to/api_video/mastering-the-art-of-seamless-large-file-uploads-with-javascript-3pl5)
 - [Dev.to/JS] [Simplify Your Typescript Code with Optional Chaining and Nullish Coalescing](https://dev.to/danywalls/simplify-your-typescript-code-with-optional-chaining-and-nullish-coalescing-37on)
@@ -36,12 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [async / await concepts](https://dev.to/kennethlum/async-await-concepts-26in)
 - [Dev.to/JS] [Frontend soldier &lpar;#0&rpar;](https://dev.to/kas_elvirov/frontend-soldier-0-278g)
 - [Lifehacker] [&#39;Reserve&#39; Is a Free Way to Get Through Airport Security Faster](https://lifehacker.com/reserve-is-a-free-way-to-get-through-airport-security-f-1850462025)
-- [Dev.to/JS] [We have to talk about Arrow Functions...](https://dev.to/josunlp/we-have-to-talk-about-arrow-functions-2g0h)
 - [Lifehacker] [How to Tell &#39;Good&#39; Debt From &#39;Bad&#39;](https://lifehacker.com/how-to-tell-good-debt-from-bad-1850441449)
-- [Dev.to/JS] [Componente de Paginação para React com Chakra UI no CrazyStack Next.js](https://dev.to/devdoido/componente-de-paginacao-para-react-com-chakra-ui-no-crazystack-nextjs-24le)
-- [Dev.to/JS] [Building a bidding system with NextJS 🚀](https://dev.to/novu/building-a-bidding-system-with-nextjs-cg1)
-- [Dev.to/JS] [Nchat](https://dev.to/soham0047/nchat-5epn)
-- [Dev.to/JS] [Boosting Performance in React App ⚡️](https://dev.to/faizaniqballc/boosting-performance-in-react-app-209a)
 - [Lifehacker] [Put Pennies and Vodka in Your Flower Vases](https://lifehacker.com/put-pennies-and-vodka-in-your-flower-vases-1850458977)
 - [Lifehacker] [The Worst Ways to React to a Bee Attack](https://lifehacker.com/the-worst-ways-to-react-to-a-bee-attack-1850462981)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Babbel for 20% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-babbel-for-20-o-1850451811)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use a &#39;Weed Dragon&#39; to Send Weeds to Hell](https://lifehacker.com/use-a-weed-dragon-to-send-weeds-to-hell-1850459624)
 - [Lifehacker] [Teach Your Kids the Difference Between a Real Worry and a &#39;Trick&#39; Worry](https://lifehacker.com/teach-your-kids-the-difference-between-a-real-worry-and-1850456901)
 - [Lifehacker] [So, You Cut Into an Unripe Avocado](https://lifehacker.com/so-you-cut-into-an-unripe-avocado-1850456289)
-- [Lifehacker] [These Plants Make the Best Living Fences](https://lifehacker.com/these-plants-make-the-best-living-fences-1850449614)
-- [Lifehacker] [The Difference Between Contact Cement and Rubber Cement](https://lifehacker.com/the-difference-between-contact-cement-and-rubber-cement-1850449617)
-- [Lifehacker] [The Best Free and Cheap Food You Can Get for Memorial Day](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-for-memorial-d-1850448272)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Plants Make the Best Living Fences](https://lifehacker.com/these-plants-make-the-best-living-fences-1850449614)<!-- TECH-POSTS:END -->
 
 ---
 
