@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The ABCs of Angular : Dependency Injection Part 1](https://dev.to/ismailabbi/the-abcs-of-angular-dependency-injection-part-1-2ji0)
 - [Dev.to/JS] [Fast Matrix Math in JS 2: WASM](https://dev.to/ndesmic/fast-matrix-math-in-js-2-wasm-3mbn)
 - [Lifehacker] [Make These Pickle Fries, Which Rule](https://lifehacker.com/make-these-pickle-fries-which-rule-1850467287)
 - [Lifehacker] [The Best Side Hustles With Little or No Start-Up Costs](https://lifehacker.com/the-best-side-hustles-with-little-or-no-start-up-costs-1850467111)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Seamlessly Convert Web Apps to Android App: Automate with Capacitor and GitHub Actions](https://dev.to/narottam04/seamlessly-convert-web-apps-to-android-app-automate-with-capacitor-and-github-actions-4e26)
 - [Dev.to/JS] [What Is a Content Management System &lpar;CMS&rpar;?](https://dev.to/med_code/what-is-a-content-management-system-cms-2547)
 - [Lifehacker] [The DIY Home Repairs Most Likely to Kill You](https://lifehacker.com/the-diy-home-repairs-most-likely-to-kill-you-1850465748)
-- [Dev.to/JS] [Building a Scalable and User-Friendly Game Discovery Platform: A Technical Deep Dive into findgames.vercel.app](https://dev.to/truevine/building-a-scalable-and-user-friendly-game-discovery-platform-a-technical-deep-dive-into-findgamesvercelapp-53lm)
 - [Lifehacker] [Instant Mashed Potatoes Make the Most Flavorful Casserole Crust](https://lifehacker.com/instant-mashed-potatoes-make-the-most-flavorful-cassero-1850465646)
 - [Lifehacker] [You Need a New App to Keep Watching &#39;Max&#39;](https://lifehacker.com/heres-how-much-a-max-subscription-will-cost-you-after-m-1850329419)
 - [Lifehacker] [Use an Allergy Screen to Keep Your Windows Open and Pollen Out](https://lifehacker.com/use-an-allergy-screen-to-keep-your-windows-open-and-pol-1850464055)
