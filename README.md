@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [async / await concepts](https://dev.to/kennethlum/async-await-concepts-26in)
+- [Dev.to/JS] [Frontend soldier &lpar;#0&rpar;](https://dev.to/kas_elvirov/frontend-soldier-0-278g)
+- [Lifehacker] [&#39;Reserve&#39; Is a Free Way to Get Through Airport Security Faster](https://lifehacker.com/reserve-is-a-free-way-to-get-through-airport-security-f-1850462025)
+- [Dev.to/JS] [We have to talk about Arrow Functions...](https://dev.to/josunlp/we-have-to-talk-about-arrow-functions-2g0h)
 - [Lifehacker] [How to Tell &#39;Good&#39; Debt From &#39;Bad&#39;](https://lifehacker.com/how-to-tell-good-debt-from-bad-1850441449)
 - [Dev.to/JS] [Componente de Paginação para React com Chakra UI no CrazyStack Next.js](https://dev.to/devdoido/componente-de-paginacao-para-react-com-chakra-ui-no-crazystack-nextjs-24le)
 - [Dev.to/JS] [Building a bidding system with NextJS 🚀](https://dev.to/novu/building-a-bidding-system-with-nextjs-cg1)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CrossCopy: Effortless Text Copy Across Devices](https://dev.to/sharoonrafeek/crosscopy-effortless-text-copy-across-devices-2799)
 - [Dev.to/JS] [async await polyfill js using generator](https://dev.to/chandrapenugonda/async-await-polyfill-js-using-generator-2faj)
 - [Dev.to/JS] [10 JavaScript Array, String, Number Operations You were Looking for!!!](https://dev.to/mehzad_galib/10-javascript-array-string-number-operations-you-were-looking-for-47a7)
-- [Dev.to/JS] [Authorize NodeJS APIs using Authorizer](https://dev.to/lakhansamani/authorize-nodejs-apis-using-authorizer-3ncf)
-- [Dev.to/JS] [Introduction to Testing in JavaScript using Jest](https://dev.to/jps27cse/introduction-to-testing-in-javascript-using-jest-414l)
-- [Dev.to/JS] [The comprehensive guide to Angular Performance Tuning](https://dev.to/ifourtechnolab/the-comprehensive-guide-to-angular-performance-tuning-4n7n)
 - [Lifehacker] [Put Pennies and Vodka in Your Flower Vases](https://lifehacker.com/put-pennies-and-vodka-in-your-flower-vases-1850458977)
 - [Lifehacker] [The Worst Ways to React to a Bee Attack](https://lifehacker.com/the-worst-ways-to-react-to-a-bee-attack-1850462981)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Babbel for 20% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-babbel-for-20-o-1850451811)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best and Worst Times to Drive Memorial Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-memorial-day-weekend-1850448426)
 - [Lifehacker] [The Smartest Way to Keep Pantry Moths Out of Your Kitchen](https://lifehacker.com/the-smartest-way-to-keep-pantry-moths-out-of-your-kitch-1850448442)
 - [Lifehacker] [You Can Get Lifetime Access to Rosetta Stone for Over 75% Off Right Now](https://lifehacker.com/you-can-get-lifetime-access-to-rosetta-stone-for-over-7-1850451918)
-- [Lifehacker] [Don’t Watch the Clock When You Can’t Sleep &lpar;and Focus on This Instead&rpar;](https://lifehacker.com/don-t-watch-the-clock-when-you-can-t-sleep-and-focus-o-1850456412)
-- [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; File a Home Insurance Claim](https://lifehacker.com/when-you-should-and-shouldnt-file-a-home-insurance-cl-1850455645)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Watch the Clock When You Can’t Sleep &lpar;and Focus on This Instead&rpar;](https://lifehacker.com/don-t-watch-the-clock-when-you-can-t-sleep-and-focus-o-1850456412)<!-- TECH-POSTS:END -->
 
 ---
 
