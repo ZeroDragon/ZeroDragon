@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Side Hustles With Little or No Start-Up Costs](https://lifehacker.com/the-best-side-hustles-with-little-or-no-start-up-costs-1850467111)
+- [Dev.to/JS] [Create Tik-Tok/Youtube Shorts like snap infinite scroll - React](https://dev.to/biomathcode/create-tik-tokyoutube-shorts-like-snap-infinite-scroll-react-1mca)
+- [Dev.to/JS] [TypeScript utility types I use the most](https://dev.to/maksimovicdanijel/typescript-utility-types-i-use-the-most-5d5n)
+- [Lifehacker] [You Can Get a Lifetime License to Microsoft Office for $30](https://lifehacker.com/you-can-get-a-lifetime-license-to-microsoft-office-for-1850451844)
+- [Dev.to/JS] [Getting Started with Tailwind CSS](https://dev.to/martinsonuoha/getting-started-with-tailwind-css-21h7)
+- [Dev.to/JS] [Future of CSS: Popover API](https://dev.to/link2twenty/future-of-css-popover-api-3ba0)
+- [Dev.to/JS] [JavaScript Techniques](https://dev.to/pablocavalcanteh/javascript-techniques-2eg2)
+- [Dev.to/JS] [Start programming blog in minutes with Astro and Vrite](https://dev.to/areknawo/start-programming-blog-in-minutes-with-astro-and-vrite-e5l)
+- [Lifehacker] [These Are the Meatiest Deals for National Hamburger Day](https://lifehacker.com/these-are-the-meatiest-deals-for-national-hamburger-day-1850466662)
 - [Lifehacker] [These Cool LED Corner Lamps Are Up to 67% Off Right Now](https://lifehacker.com/these-cool-led-corner-lamps-are-up-to-67-off-right-now-1850451879)
 - [Dev.to/JS] [ESLinter - for all JavaScript projects](https://dev.to/byt3h3ad/placeholder-title-5dgp)
 - [Lifehacker] [Here&#39;s a Way to Make Sure You Actually Read the Books You Buy](https://lifehacker.com/heres-a-way-to-make-sure-actually-read-the-books-you-bu-1850466169)
@@ -33,15 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Scalable and User-Friendly Game Discovery Platform: A Technical Deep Dive into findgames.vercel.app](https://dev.to/truevine/building-a-scalable-and-user-friendly-game-discovery-platform-a-technical-deep-dive-into-findgamesvercelapp-53lm)
 - [Lifehacker] [Instant Mashed Potatoes Make the Most Flavorful Casserole Crust](https://lifehacker.com/instant-mashed-potatoes-make-the-most-flavorful-cassero-1850465646)
 - [Dev.to/JS] [How Durable Execution Works](https://dev.to/temporalio/how-durable-execution-works-2b88)
-- [Dev.to/JS] [ESLint: Що? Чому? Де? Як?](https://dev.to/dmytrych/eslint-shcho-chomu-die-iak-2c83)
-- [Dev.to/JS] [Builtin token generator in Node](https://dev.to/sushilbajracharya01/builtin-token-generator-in-node-4a51)
 - [Lifehacker] [You Need a New App to Keep Watching &#39;Max&#39;](https://lifehacker.com/heres-how-much-a-max-subscription-will-cost-you-after-m-1850329419)
-- [Dev.to/JS] [Explorando os Hooks Adicionais do React: Exemplos e Casos de Uso](https://dev.to/jhonyaraujooficial/explorando-os-hooks-adicionais-do-react-exemplos-e-casos-de-uso-5app)
 - [Lifehacker] [Use an Allergy Screen to Keep Your Windows Open and Pollen Out](https://lifehacker.com/use-an-allergy-screen-to-keep-your-windows-open-and-pol-1850464055)
-- [Dev.to/JS] [Part 7: Conclusion and Next Steps](https://dev.to/bobbyhalljr/part-7-conclusion-and-next-steps-33hi)
-- [Dev.to/JS] [Part 6: Advanced TypeScript Topics](https://dev.to/bobbyhalljr/part-6-advanced-typescript-topics-43g0)
 - [Lifehacker] [You Couldn&#39;t Land a Plane in an Emergency, but You Could Try](https://lifehacker.com/you-couldnt-land-a-plane-in-an-emergency-but-you-could-1850463715)
-- [Dev.to/JS] [Part 5: Asynchronous Programming with TypeScript](https://dev.to/bobbyhalljr/part-5-asynchronous-programming-with-typescript-lb8)
 - [Lifehacker] [For the Best Waffled Sandwich, Waffle Your Meat First](https://lifehacker.com/for-the-best-waffled-sandwich-waffle-your-meat-first-1850463429)
 - [Lifehacker] [Use Cognitive Restructuring to Be More Productive](https://lifehacker.com/use-cognitive-restructuring-to-be-more-productive-1850463361)
 - [Lifehacker] [Turn Any Sconce Into a Battery-Powered LED Light Fixture](https://lifehacker.com/turn-any-sconce-into-a-battery-powered-led-light-fixtur-1850459704)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get a Like-New Refurbished MacBook Air for Under $200](https://lifehacker.com/get-a-like-new-refurbished-macbook-air-for-under-200-1850451854)
 - [Lifehacker] [The Best Bean Dips Are Made With Flour](https://lifehacker.com/the-best-bean-dips-are-made-with-flour-1850461637)
 - [Lifehacker] [You Can Now Open a Venmo Account for Your Teen &lpar;and Monitor It&rpar;](https://lifehacker.com/you-can-now-open-a-venmo-account-for-your-teen-and-mon-1850461312)
-- [Lifehacker] [The Best Ways to Make Your Balcony More Private](https://lifehacker.com/the-best-way-to-make-your-balcony-more-private-1850460763)
-- [Lifehacker] [You Can Get This Wireless iPhone Charger for Over 60% Off Right Now](https://lifehacker.com/you-can-get-this-wireless-iphone-charger-for-over-60-o-1850451903)
-- [Lifehacker] [9 Apps That Can Automate Almost Everything on Your Mac](https://lifehacker.com/9-apps-that-can-automate-almost-everything-on-your-mac-1850460688)
-- [Lifehacker] [12 Podcasts Than Will Make Anyone Fall in Love With Podcasts](https://lifehacker.com/12-podcasts-than-will-make-anyone-fall-in-love-with-pod-1850458582)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Make Your Balcony More Private](https://lifehacker.com/the-best-way-to-make-your-balcony-more-private-1850460763)<!-- TECH-POSTS:END -->
 
 ---
 
