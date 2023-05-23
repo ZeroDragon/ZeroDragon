@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fast Matrix Math in JS 2: WASM](https://dev.to/ndesmic/fast-matrix-math-in-js-2-wasm-3mbn)
+- [Lifehacker] [Make These Pickle Fries, Which Rule](https://lifehacker.com/make-these-pickle-fries-which-rule-1850467287)
 - [Lifehacker] [The Best Side Hustles With Little or No Start-Up Costs](https://lifehacker.com/the-best-side-hustles-with-little-or-no-start-up-costs-1850467111)
 - [Dev.to/JS] [Create Tik-Tok/Youtube Shorts like snap infinite scroll - React](https://dev.to/biomathcode/create-tik-tokyoutube-shorts-like-snap-infinite-scroll-react-1mca)
 - [Dev.to/JS] [TypeScript utility types I use the most](https://dev.to/maksimovicdanijel/typescript-utility-types-i-use-the-most-5d5n)
@@ -41,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The DIY Home Repairs Most Likely to Kill You](https://lifehacker.com/the-diy-home-repairs-most-likely-to-kill-you-1850465748)
 - [Dev.to/JS] [Building a Scalable and User-Friendly Game Discovery Platform: A Technical Deep Dive into findgames.vercel.app](https://dev.to/truevine/building-a-scalable-and-user-friendly-game-discovery-platform-a-technical-deep-dive-into-findgamesvercelapp-53lm)
 - [Lifehacker] [Instant Mashed Potatoes Make the Most Flavorful Casserole Crust](https://lifehacker.com/instant-mashed-potatoes-make-the-most-flavorful-cassero-1850465646)
-- [Dev.to/JS] [How Durable Execution Works](https://dev.to/temporalio/how-durable-execution-works-2b88)
 - [Lifehacker] [You Need a New App to Keep Watching &#39;Max&#39;](https://lifehacker.com/heres-how-much-a-max-subscription-will-cost-you-after-m-1850329419)
 - [Lifehacker] [Use an Allergy Screen to Keep Your Windows Open and Pollen Out](https://lifehacker.com/use-an-allergy-screen-to-keep-your-windows-open-and-pol-1850464055)
 - [Lifehacker] [You Couldn&#39;t Land a Plane in an Emergency, but You Could Try](https://lifehacker.com/you-couldnt-land-a-plane-in-an-emergency-but-you-could-1850463715)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Simple Food Choices Can Drastically Reduce Your Environmental Impact](https://lifehacker.com/these-simple-food-choices-can-drastically-reduce-your-e-1850456028)
 - [Lifehacker] [Get a Like-New Refurbished MacBook Air for Under $200](https://lifehacker.com/get-a-like-new-refurbished-macbook-air-for-under-200-1850451854)
 - [Lifehacker] [The Best Bean Dips Are Made With Flour](https://lifehacker.com/the-best-bean-dips-are-made-with-flour-1850461637)
-- [Lifehacker] [You Can Now Open a Venmo Account for Your Teen &lpar;and Monitor It&rpar;](https://lifehacker.com/you-can-now-open-a-venmo-account-for-your-teen-and-mon-1850461312)
-- [Lifehacker] [The Best Ways to Make Your Balcony More Private](https://lifehacker.com/the-best-way-to-make-your-balcony-more-private-1850460763)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Now Open a Venmo Account for Your Teen &lpar;and Monitor It&rpar;](https://lifehacker.com/you-can-now-open-a-venmo-account-for-your-teen-and-mon-1850461312)<!-- TECH-POSTS:END -->
 
 ---
 
