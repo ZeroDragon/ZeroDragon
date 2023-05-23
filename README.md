@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [For the Best Waffled Sandwich, Waffle Your Meat First](https://lifehacker.com/for-the-best-waffled-sandwich-waffle-your-meat-first-1850463429)
+- [Dev.to/JS] [Mastering the Art of Seamless Large File Uploads with JavaScript](https://dev.to/api_video/mastering-the-art-of-seamless-large-file-uploads-with-javascript-3pl5)
+- [Dev.to/JS] [Simplify Your Typescript Code with Optional Chaining and Nullish Coalescing](https://dev.to/danywalls/simplify-your-typescript-code-with-optional-chaining-and-nullish-coalescing-37on)
+- [Lifehacker] [Use Cognitive Restructuring to Be More Productive](https://lifehacker.com/use-cognitive-restructuring-to-be-more-productive-1850463361)
+- [Dev.to/JS] [All 86 Jest methods for test automation &lpar;with examples&rpar;](https://dev.to/zvone187/all-86-jest-methods-with-examples-930)
+- [Dev.to/JS] [Classify Website Content using Langchain, OpenAI and Browserless](https://dev.to/beebombshell/classify-website-content-using-langchain-openai-and-browserless-2b2p)
+- [Lifehacker] [Turn Any Sconce Into a Battery-Powered LED Light Fixture](https://lifehacker.com/turn-any-sconce-into-a-battery-powered-led-light-fixtur-1850459704)
 - [Lifehacker] [You Can Splurge on This Luxury Jet for Cheaper Than First Class](https://lifehacker.com/you-can-splurge-on-this-luxury-jet-for-cheaper-than-fir-1850462486)
 - [Dev.to/JS] [Gatsby Frontend - Blending Performance, Efficiency, and User Experience](https://dev.to/victorleungtw/gatsby-frontend-blending-performance-efficiency-and-user-experience-53o)
 - [Lifehacker] [12 &#39;Legacy Sequels&#39; That Don’t Suck &lpar;and 8 That Kinda Do&rpar;](https://lifehacker.com/12-legacy-sequels-that-don-t-suck-and-8-that-kinda-do-1850459463)
@@ -35,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a bidding system with NextJS 🚀](https://dev.to/novu/building-a-bidding-system-with-nextjs-cg1)
 - [Dev.to/JS] [Nchat](https://dev.to/soham0047/nchat-5epn)
 - [Dev.to/JS] [Boosting Performance in React App ⚡️](https://dev.to/faizaniqballc/boosting-performance-in-react-app-209a)
-- [Dev.to/JS] [Moonly weekly progress update #50 - Getting closer to a Sniper tool](https://dev.to/moonly/moonly-weekly-progress-update-50-getting-closer-to-a-sniper-tool-8m9)
-- [Dev.to/JS] [Hiding utility functions in Supabase](https://dev.to/nasheomirro/hiding-utility-functions-in-supabase-4ol1)
-- [Dev.to/JS] [CrossCopy: Effortless Text Copy Across Devices](https://dev.to/sharoonrafeek/crosscopy-effortless-text-copy-across-devices-2799)
-- [Dev.to/JS] [async await polyfill js using generator](https://dev.to/chandrapenugonda/async-await-polyfill-js-using-generator-2faj)
 - [Lifehacker] [Put Pennies and Vodka in Your Flower Vases](https://lifehacker.com/put-pennies-and-vodka-in-your-flower-vases-1850458977)
 - [Lifehacker] [The Worst Ways to React to a Bee Attack](https://lifehacker.com/the-worst-ways-to-react-to-a-bee-attack-1850462981)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Babbel for 20% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-babbel-for-20-o-1850451811)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [So, You Cut Into an Unripe Avocado](https://lifehacker.com/so-you-cut-into-an-unripe-avocado-1850456289)
 - [Lifehacker] [These Plants Make the Best Living Fences](https://lifehacker.com/these-plants-make-the-best-living-fences-1850449614)
 - [Lifehacker] [The Difference Between Contact Cement and Rubber Cement](https://lifehacker.com/the-difference-between-contact-cement-and-rubber-cement-1850449617)
-- [Lifehacker] [The Best Free and Cheap Food You Can Get for Memorial Day](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-for-memorial-d-1850448272)
-- [Lifehacker] [The Easiest Way to Fix a Dripping Shower Head](https://lifehacker.com/the-easiest-way-to-fix-a-dripping-shower-head-1850448423)
-- [Lifehacker] [The Best and Worst Times to Drive Memorial Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-memorial-day-weekend-1850448426)
-- [Lifehacker] [The Smartest Way to Keep Pantry Moths Out of Your Kitchen](https://lifehacker.com/the-smartest-way-to-keep-pantry-moths-out-of-your-kitch-1850448442)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Free and Cheap Food You Can Get for Memorial Day](https://lifehacker.com/the-best-free-and-cheap-food-you-can-get-for-memorial-d-1850448272)<!-- TECH-POSTS:END -->
 
 ---
 
