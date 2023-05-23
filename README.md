@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The comprehensive guide to Angular Performance Tuning](https://dev.to/ifourtechnolab/the-comprehensive-guide-to-angular-performance-tuning-4n7n)
 - [Dev.to/JS] [COLOR FLIPPER](https://dev.to/mohananthvenkatachalam/color-flipper-4hj3)
 - [Dev.to/JS] [FLAMES](https://dev.to/kavinofficial/flames-46ji)
 - [Dev.to/JS] [27 Best VScode Extension to Boost Productivity](https://dev.to/scofieldidehen/27-best-vscode-extension-to-boost-productivity-5e65)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to React JS: A Beginner&#39;s Guide](https://dev.to/dotarjun/introduction-to-react-js-a-beginners-guide-14hl)
 - [Dev.to/JS] [Python vs JavaScript: Which Should Beginners Learn First?](https://dev.to/sasidhar_gadepalli/python-vs-javascript-which-should-beginners-learn-first-1gih)
 - [Dev.to/JS] [Day 112 of #365DaysOfCode &amp; Day 12 of #100DaysOfPython](https://dev.to/arashjangali/day-112-of-365daysofcode-day-12-of-100daysofpython-4jco)
-- [Dev.to/JS] [Async Cache Service](https://dev.to/frozer/async-cache-service-1lj7)
 - [Lifehacker] [Put Pennies and Vodka in Your Flower Vases](https://lifehacker.com/put-pennies-and-vodka-in-your-flower-vases-1850458977)
 - [Lifehacker] [The Worst Ways to React to a Bee Attack](https://lifehacker.com/the-worst-ways-to-react-to-a-bee-attack-1850462981)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Babbel for 20% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-babbel-for-20-o-1850451811)
