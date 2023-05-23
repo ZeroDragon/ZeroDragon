@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Guide: Connecting Prisma to Vercel Postgres](https://dev.to/aacitelli/connect-prisma-to-vercel-postgres-2bf3)
+- [Dev.to/JS] [Connect IntelliJ&#39;s database engine to Vercel Postgres](https://dev.to/aacitelli/connect-intellijs-database-engine-to-vercel-postgres-18j5)
 - [Dev.to/JS] [test](https://dev.to/mistico27/test-10g3)
 - [Dev.to/JS] [APIs vs SDKs: Why you should always have both](https://dev.to/speakeasy/apis-vs-sdks-why-you-should-always-have-both-4ahh)
 - [Dev.to/JS] [React Lifecycle](https://dev.to/lausuarez02/react-lifecycle-22h1)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Postal Service Is Begging You to Fix Your Mailbox](https://lifehacker.com/the-postal-service-is-begging-you-to-fix-your-mailbox-1850462546)
 - [Dev.to/JS] [Building a Chrome Extension with SvelteKit](https://dev.to/lukehagar/building-a-chrome-extension-with-sveltekit-3kb)
 - [Dev.to/JS] [Advantages and the disadvantages of serverless computing](https://dev.to/ewenikeemmanue4/advantages-and-the-disadvantages-of-serverless-computing-3pd8)
-- [Dev.to/JS] [Understanding Lexical Environment in JavaScript](https://dev.to/thedheerajjha/understanding-lexical-environment-in-javascript-a3b)
 - [Lifehacker] [Use This &#39;Tears of the Kingdom&#39; Inventory Glitch for Unlimited Items](https://lifehacker.com/use-this-tears-of-the-kingdom-inventory-glitch-for-unli-1850462064)
-- [Dev.to/JS] [GraphiQL with Firebase Auth](https://dev.to/koistya/graphiql-with-firebase-auth-p69)
 - [Lifehacker] [These Simple Food Choices Can Drastically Reduce Your Environmental Impact](https://lifehacker.com/these-simple-food-choices-can-drastically-reduce-your-e-1850456028)
 - [Lifehacker] [Get a Like-New Refurbished MacBook Air for Under $200](https://lifehacker.com/get-a-like-new-refurbished-macbook-air-for-under-200-1850451854)
 - [Lifehacker] [The Best Bean Dips Are Made With Flour](https://lifehacker.com/the-best-bean-dips-are-made-with-flour-1850461637)
