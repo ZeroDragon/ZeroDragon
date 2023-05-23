@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Python vs JavaScript: Which Should Beginners Learn First?](https://dev.to/sasidhar_gadepalli/python-vs-javascript-which-should-beginners-learn-first-1gih)
+- [Dev.to/JS] [Day 112 of #365DaysOfCode &amp; Day 12 of #100DaysOfPython](https://dev.to/arashjangali/day-112-of-365daysofcode-day-12-of-100daysofpython-4jco)
 - [Dev.to/JS] [Async Cache Service](https://dev.to/frozer/async-cache-service-1lj7)
 - [Lifehacker] [Put Pennies and Vodka in Your Flower Vases](https://lifehacker.com/put-pennies-and-vodka-in-your-flower-vases-1850458977)
 - [Dev.to/JS] [Unleash the power of random in Google Chat](https://dev.to/dyaskur/unleash-the-power-of-random-in-google-chat-jnp)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Solving the &quot;floating point precision&quot; problem with... floats?](https://dev.to/voliva/solving-the-floating-point-precision-problem-with-floats-4369)
 - [Lifehacker] [Sous Vide Your Old, Dried-Out Weed](https://lifehacker.com/sous-vide-your-old-dried-out-weed-1850461994)
 - [Dev.to/JS] [Javascript 101: Generating a Random Number](https://dev.to/shunya/javascript-101-generating-a-random-number-2f77)
-- [Dev.to/JS] [What is it like to be a software developer?](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg)
-- [Dev.to/JS] [Next.js Starter Template for Product Launch: Introducing UIlaunch](https://dev.to/hisachin/nextjs-starter-template-for-product-launch-introducing-uilaunch-oma)
 - [Lifehacker] [The Postal Service Is Begging You to Fix Your Mailbox](https://lifehacker.com/the-postal-service-is-begging-you-to-fix-your-mailbox-1850462546)
 - [Lifehacker] [Use This &#39;Tears of the Kingdom&#39; Inventory Glitch for Unlimited Items](https://lifehacker.com/use-this-tears-of-the-kingdom-inventory-glitch-for-unli-1850462064)
 - [Lifehacker] [These Simple Food Choices Can Drastically Reduce Your Environmental Impact](https://lifehacker.com/these-simple-food-choices-can-drastically-reduce-your-e-1850456028)
