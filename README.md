@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Durable Execution Works](https://dev.to/temporalio/how-durable-execution-works-2b88)
+- [Dev.to/JS] [ESLint: Що? Чому? Де? Як?](https://dev.to/dmytrych/eslint-shcho-chomu-die-iak-2c83)
+- [Dev.to/JS] [Builtin token generator in Node](https://dev.to/sushilbajracharya01/builtin-token-generator-in-node-4a51)
+- [Lifehacker] [You Need a New App to Keep Watching &#39;Max&#39;](https://lifehacker.com/heres-how-much-a-max-subscription-will-cost-you-after-m-1850329419)
+- [Dev.to/JS] [Explorando os Hooks Adicionais do React: Exemplos e Casos de Uso](https://dev.to/jhonyaraujooficial/explorando-os-hooks-adicionais-do-react-exemplos-e-casos-de-uso-5app)
 - [Lifehacker] [Use an Allergy Screen to Keep Your Windows Open and Pollen Out](https://lifehacker.com/use-an-allergy-screen-to-keep-your-windows-open-and-pol-1850464055)
 - [Dev.to/JS] [Part 7: Conclusion and Next Steps](https://dev.to/bobbyhalljr/part-7-conclusion-and-next-steps-33hi)
 - [Dev.to/JS] [Part 6: Advanced TypeScript Topics](https://dev.to/bobbyhalljr/part-6-advanced-typescript-topics-43g0)
@@ -35,13 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simplify Your Typescript Code with Optional Chaining and Nullish Coalescing](https://dev.to/danywalls/simplify-your-typescript-code-with-optional-chaining-and-nullish-coalescing-37on)
 - [Lifehacker] [Use Cognitive Restructuring to Be More Productive](https://lifehacker.com/use-cognitive-restructuring-to-be-more-productive-1850463361)
 - [Dev.to/JS] [All 86 Jest methods for test automation &lpar;with examples&rpar;](https://dev.to/zvone187/all-86-jest-methods-with-examples-930)
-- [Dev.to/JS] [Classify Website Content using Langchain, OpenAI and Browserless](https://dev.to/beebombshell/classify-website-content-using-langchain-openai-and-browserless-2b2p)
 - [Lifehacker] [Turn Any Sconce Into a Battery-Powered LED Light Fixture](https://lifehacker.com/turn-any-sconce-into-a-battery-powered-led-light-fixtur-1850459704)
 - [Lifehacker] [You Can Splurge on This Luxury Jet for Cheaper Than First Class](https://lifehacker.com/you-can-splurge-on-this-luxury-jet-for-cheaper-than-fir-1850462486)
-- [Dev.to/JS] [Gatsby Frontend - Blending Performance, Efficiency, and User Experience](https://dev.to/victorleungtw/gatsby-frontend-blending-performance-efficiency-and-user-experience-53o)
 - [Lifehacker] [12 &#39;Legacy Sequels&#39; That Don’t Suck &lpar;and 8 That Kinda Do&rpar;](https://lifehacker.com/12-legacy-sequels-that-don-t-suck-and-8-that-kinda-do-1850459463)
-- [Dev.to/JS] [async / await concepts](https://dev.to/kennethlum/async-await-concepts-26in)
-- [Dev.to/JS] [Frontend soldier &lpar;#0&rpar;](https://dev.to/kas_elvirov/frontend-soldier-0-278g)
 - [Lifehacker] [&#39;Reserve&#39; Is a Free Way to Get Through Airport Security Faster](https://lifehacker.com/reserve-is-a-free-way-to-get-through-airport-security-f-1850462025)
 - [Lifehacker] [How to Tell &#39;Good&#39; Debt From &#39;Bad&#39;](https://lifehacker.com/how-to-tell-good-debt-from-bad-1850441449)
 - [Lifehacker] [Put Pennies and Vodka in Your Flower Vases](https://lifehacker.com/put-pennies-and-vodka-in-your-flower-vases-1850458977)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Two Easy Ways to Drain a Waterlogged Lawn](https://lifehacker.com/two-easy-ways-to-drain-a-waterlogged-lawn-1850459491)
 - [Lifehacker] [Use a &#39;Weed Dragon&#39; to Send Weeds to Hell](https://lifehacker.com/use-a-weed-dragon-to-send-weeds-to-hell-1850459624)
 - [Lifehacker] [Teach Your Kids the Difference Between a Real Worry and a &#39;Trick&#39; Worry](https://lifehacker.com/teach-your-kids-the-difference-between-a-real-worry-and-1850456901)
-- [Lifehacker] [So, You Cut Into an Unripe Avocado](https://lifehacker.com/so-you-cut-into-an-unripe-avocado-1850456289)
-- [Lifehacker] [These Plants Make the Best Living Fences](https://lifehacker.com/these-plants-make-the-best-living-fences-1850449614)<!-- TECH-POSTS:END -->
+- [Lifehacker] [So, You Cut Into an Unripe Avocado](https://lifehacker.com/so-you-cut-into-an-unripe-avocado-1850456289)<!-- TECH-POSTS:END -->
 
 ---
 
