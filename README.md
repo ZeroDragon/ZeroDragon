@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [!DESCARGAR-VER!* Rápidos y Furiosos 10 &#39;{Fast X}&#39; Película COMPLETA ONLINE en Español y Latino](https://dev.to/keylasaparo/descargar-ver-rapidos-y-furiosos-10-fast-x-pelicula-completa-online-en-espanol-y-latino-gm6)
+- [Dev.to/JS] [Creating keyboard shortcuts for web apps with JavaScript](https://dev.to/michaelburrows/creating-keyboard-shortcuts-for-web-apps-with-javascript-15j6)
+- [Dev.to/JS] [Introduction to React JS: A Beginner&#39;s Guide](https://dev.to/dotarjun/introduction-to-react-js-a-beginners-guide-14hl)
 - [Dev.to/JS] [Python vs JavaScript: Which Should Beginners Learn First?](https://dev.to/sasidhar_gadepalli/python-vs-javascript-which-should-beginners-learn-first-1gih)
 - [Dev.to/JS] [Day 112 of #365DaysOfCode &amp; Day 12 of #100DaysOfPython](https://dev.to/arashjangali/day-112-of-365daysofcode-day-12-of-100daysofpython-4jco)
 - [Dev.to/JS] [Async Cache Service](https://dev.to/frozer/async-cache-service-1lj7)
@@ -33,12 +36,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Connect IntelliJ&#39;s database engine to Vercel Postgres](https://dev.to/aacitelli/connect-intellijs-database-engine-to-vercel-postgres-18j5)
 - [Dev.to/JS] [test](https://dev.to/mistico27/test-10g3)
 - [Dev.to/JS] [APIs vs SDKs: Why you should always have both](https://dev.to/speakeasy/apis-vs-sdks-why-you-should-always-have-both-4ahh)
-- [Dev.to/JS] [React Lifecycle](https://dev.to/lausuarez02/react-lifecycle-22h1)
 - [Lifehacker] [The Worst Ways to React to a Bee Attack](https://lifehacker.com/the-worst-ways-to-react-to-a-bee-attack-1850462981)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Babbel for 20% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-babbel-for-20-o-1850451811)
-- [Dev.to/JS] [Solving the &quot;floating point precision&quot; problem with... floats?](https://dev.to/voliva/solving-the-floating-point-precision-problem-with-floats-4369)
 - [Lifehacker] [Sous Vide Your Old, Dried-Out Weed](https://lifehacker.com/sous-vide-your-old-dried-out-weed-1850461994)
-- [Dev.to/JS] [Javascript 101: Generating a Random Number](https://dev.to/shunya/javascript-101-generating-a-random-number-2f77)
 - [Lifehacker] [The Postal Service Is Begging You to Fix Your Mailbox](https://lifehacker.com/the-postal-service-is-begging-you-to-fix-your-mailbox-1850462546)
 - [Lifehacker] [Use This &#39;Tears of the Kingdom&#39; Inventory Glitch for Unlimited Items](https://lifehacker.com/use-this-tears-of-the-kingdom-inventory-glitch-for-unli-1850462064)
 - [Lifehacker] [These Simple Food Choices Can Drastically Reduce Your Environmental Impact](https://lifehacker.com/these-simple-food-choices-can-drastically-reduce-your-e-1850456028)
