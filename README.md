@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Async Cache Service](https://dev.to/frozer/async-cache-service-1lj7)
+- [Lifehacker] [Put Pennies and Vodka in Your Flower Vases](https://lifehacker.com/put-pennies-and-vodka-in-your-flower-vases-1850458977)
 - [Dev.to/JS] [Unleash the power of random in Google Chat](https://dev.to/dyaskur/unleash-the-power-of-random-in-google-chat-jnp)
 - [Dev.to/JS] [AI Generated Dad Jokes Web App ✨ 😂](https://dev.to/danicunhac/ai-generated-dad-jokes-web-app-425l)
 - [Dev.to/JS] [Guide: Connecting Prisma to Vercel Postgres](https://dev.to/aacitelli/connect-prisma-to-vercel-postgres-2bf3)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript 101: Generating a Random Number](https://dev.to/shunya/javascript-101-generating-a-random-number-2f77)
 - [Dev.to/JS] [What is it like to be a software developer?](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg)
 - [Dev.to/JS] [Next.js Starter Template for Product Launch: Introducing UIlaunch](https://dev.to/hisachin/nextjs-starter-template-for-product-launch-introducing-uilaunch-oma)
-- [Dev.to/JS] [Unlock the Power of Reactive UIs in Angular with ngx-async-with-status Library](https://dev.to/thecoderdream/unlock-the-power-of-reactive-uis-in-angular-with-ngx-async-with-status-library-4l0i)
 - [Lifehacker] [The Postal Service Is Begging You to Fix Your Mailbox](https://lifehacker.com/the-postal-service-is-begging-you-to-fix-your-mailbox-1850462546)
 - [Lifehacker] [Use This &#39;Tears of the Kingdom&#39; Inventory Glitch for Unlimited Items](https://lifehacker.com/use-this-tears-of-the-kingdom-inventory-glitch-for-unli-1850462064)
 - [Lifehacker] [These Simple Food Choices Can Drastically Reduce Your Environmental Impact](https://lifehacker.com/these-simple-food-choices-can-drastically-reduce-your-e-1850456028)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Lifetime Access to Rosetta Stone for Over 75% Off Right Now](https://lifehacker.com/you-can-get-lifetime-access-to-rosetta-stone-for-over-7-1850451918)
 - [Lifehacker] [Don’t Watch the Clock When You Can’t Sleep &lpar;and Focus on This Instead&rpar;](https://lifehacker.com/don-t-watch-the-clock-when-you-can-t-sleep-and-focus-o-1850456412)
 - [Lifehacker] [When You Should &lpar;and Shouldn&#39;t&rpar; File a Home Insurance Claim](https://lifehacker.com/when-you-should-and-shouldnt-file-a-home-insurance-cl-1850455645)
-- [Lifehacker] [The Four Questions to Ask Yourself Before Hiring a College Admissions Counselor](https://lifehacker.com/the-four-questions-to-ask-yourself-before-hiring-a-coll-1850455745)
-- [Lifehacker] [This AI-Powered App Will Teach You Piano, and It’s On Sale](https://lifehacker.com/this-ai-powered-app-will-teach-you-piano-and-it-s-on-s-1850451892)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Four Questions to Ask Yourself Before Hiring a College Admissions Counselor](https://lifehacker.com/the-four-questions-to-ask-yourself-before-hiring-a-coll-1850455745)<!-- TECH-POSTS:END -->
 
 ---
 
