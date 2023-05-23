@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleash the power of random in Google Chat](https://dev.to/dyaskur/unleash-the-power-of-random-in-google-chat-jnp)
+- [Dev.to/JS] [AI Generated Dad Jokes Web App ✨ 😂](https://dev.to/danicunhac/ai-generated-dad-jokes-web-app-425l)
 - [Dev.to/JS] [Guide: Connecting Prisma to Vercel Postgres](https://dev.to/aacitelli/connect-prisma-to-vercel-postgres-2bf3)
 - [Dev.to/JS] [Connect IntelliJ&#39;s database engine to Vercel Postgres](https://dev.to/aacitelli/connect-intellijs-database-engine-to-vercel-postgres-18j5)
 - [Dev.to/JS] [test](https://dev.to/mistico27/test-10g3)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js Starter Template for Product Launch: Introducing UIlaunch](https://dev.to/hisachin/nextjs-starter-template-for-product-launch-introducing-uilaunch-oma)
 - [Dev.to/JS] [Unlock the Power of Reactive UIs in Angular with ngx-async-with-status Library](https://dev.to/thecoderdream/unlock-the-power-of-reactive-uis-in-angular-with-ngx-async-with-status-library-4l0i)
 - [Lifehacker] [The Postal Service Is Begging You to Fix Your Mailbox](https://lifehacker.com/the-postal-service-is-begging-you-to-fix-your-mailbox-1850462546)
-- [Dev.to/JS] [Building a Chrome Extension with SvelteKit](https://dev.to/lukehagar/building-a-chrome-extension-with-sveltekit-3kb)
-- [Dev.to/JS] [Advantages and the disadvantages of serverless computing](https://dev.to/ewenikeemmanue4/advantages-and-the-disadvantages-of-serverless-computing-3pd8)
 - [Lifehacker] [Use This &#39;Tears of the Kingdom&#39; Inventory Glitch for Unlimited Items](https://lifehacker.com/use-this-tears-of-the-kingdom-inventory-glitch-for-unli-1850462064)
 - [Lifehacker] [These Simple Food Choices Can Drastically Reduce Your Environmental Impact](https://lifehacker.com/these-simple-food-choices-can-drastically-reduce-your-e-1850456028)
 - [Lifehacker] [Get a Like-New Refurbished MacBook Air for Under $200](https://lifehacker.com/get-a-like-new-refurbished-macbook-air-for-under-200-1850451854)
