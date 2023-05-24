@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering JavaScript Array and its Methods](https://dev.to/scofieldidehen/mastering-javascript-array-and-its-methods-2gb7)
+- [Dev.to/JS] [Mastering Recursion in JavaScript: A Powerful Problem-Solving Technique for Beginners](https://dev.to/danities316/mastering-recursion-in-javascript-a-powerful-problem-solving-technique-for-beginners-475)
+- [Dev.to/JS] [🌟 Why `env` Wins: Advantages over Objects in Web Development 🚀](https://dev.to/issshahzaib/why-env-wins-advantages-over-objects-in-web-development-15oc)
+- [Dev.to/JS] [Functions in JavaScript | JavaScript #10](https://dev.to/sksage/functions-in-javascript-javascript-10-hbk)
 - [Dev.to/JS] [Concurrency Vs Parallelism](https://dev.to/subhafx/concurrency-vs-parallelism-1jdo)
 - [Dev.to/JS] [What is Docker Compose? When and How to use it?](https://dev.to/5minslearn/what-is-docker-compose-when-and-how-to-use-it-2p2)
 - [Dev.to/JS] [[번역]2023-04-12, Node.js 버전 18.16.0 &#39;Hydrogen&#39;&lpar;LTS&rpar;, @danielleadams](https://dev.to/mochafreddo/beonyeog2023-04-12-nodejs-beojeon-18160-hydrogenlts-danielleadams-19dd)
@@ -33,11 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fast Matrix Math in JS 2: WASM](https://dev.to/ndesmic/fast-matrix-math-in-js-2-wasm-3mbn)
 - [Lifehacker] [Make These Pickle Fries, Which Rule](https://lifehacker.com/make-these-pickle-fries-which-rule-1850467287)
 - [Lifehacker] [The Best Side Hustles With Little or No Start-Up Costs](https://lifehacker.com/the-best-side-hustles-with-little-or-no-start-up-costs-1850467111)
-- [Dev.to/JS] [Create Tik-Tok/Youtube Shorts like snap infinite scroll - React](https://dev.to/biomathcode/create-tik-tokyoutube-shorts-like-snap-infinite-scroll-react-1mca)
-- [Dev.to/JS] [TypeScript utility types I use the most](https://dev.to/maksimovicdanijel/typescript-utility-types-i-use-the-most-5d5n)
 - [Lifehacker] [You Can Get a Lifetime License to Microsoft Office for $30](https://lifehacker.com/you-can-get-a-lifetime-license-to-microsoft-office-for-1850451844)
-- [Dev.to/JS] [Getting Started with Tailwind CSS](https://dev.to/martinsonuoha/getting-started-with-tailwind-css-21h7)
-- [Dev.to/JS] [Future of CSS: Popover API](https://dev.to/link2twenty/future-of-css-popover-api-3ba0)
 - [Lifehacker] [These Are the Meatiest Deals for National Hamburger Day](https://lifehacker.com/these-are-the-meatiest-deals-for-national-hamburger-day-1850466662)
 - [Lifehacker] [These Cool LED Corner Lamps Are Up to 67% Off Right Now](https://lifehacker.com/these-cool-led-corner-lamps-are-up-to-67-off-right-now-1850451879)
 - [Lifehacker] [Here&#39;s a Way to Make Sure You Actually Read the Books You Buy](https://lifehacker.com/heres-a-way-to-make-sure-actually-read-the-books-you-bu-1850466169)
