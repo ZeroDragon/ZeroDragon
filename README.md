@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Planby v3.0.0: The Ultimate Scheduling Tool for Conference Speakers](https://dev.to/kozerkarol/planby-v300-the-ultimate-scheduling-tool-for-conference-speakers-4d2a)
+- [Dev.to/JS] [HOW TO GET USER&#39;S LOCATION IN REACT.JS](https://dev.to/med_code/how-to-get-users-location-in-reactjs-1125)
+- [Dev.to/JS] [Data structures in JavaScript: Arrays, Objects and beyond &lpar;Part 1&rpar;](https://dev.to/davidhurtadodev/data-structures-in-javascript-arrays-objects-and-beyond-part-1-35oa)
 - [Dev.to/JS] [Using Context Providers in NextJS Server Components](https://dev.to/codingbrowny/using-context-providers-in-nextjs-server-components-2gk4)
 - [Dev.to/JS] [Cryptography in Blockchain 🤑 | Asymmetric Key Cryptography &amp; Hashing 🚀🚀 | Part-3](https://dev.to/akshaykurhekar/cryptography-in-blockchain-asymmetric-key-cryptography-hashing-part-3-2cei)
 - [Dev.to/JS] [Optimizing Your Workflow: Clearing VSCode Terminal on Save](https://dev.to/austincoleman/optimizing-your-workflow-clearing-vscode-terminal-on-save-1og6)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Check if a Value is Within a Range of Numbers in JavaScript](https://dev.to/panayiotisgeorgiou/how-to-check-if-a-value-is-within-a-range-of-numbers-in-javascript-25oc)
 - [Dev.to/JS] [Diferencias clave: Map y Set en JavaScript y cómo elegir el adecuado](https://dev.to/ruben_alapont/diferencias-clave-map-y-set-en-javascript-y-como-elegir-el-adecuado-74k)
 - [Dev.to/JS] [Planby v3.0.0: Revolutionize Your Scheduling with Ease and Style](https://dev.to/kozerkarol/planby-v300-revolutionize-your-scheduling-with-ease-and-style-2ab2)
-- [Dev.to/JS] [Weekly web development resources #150](https://dev.to/vincenius/weekly-web-development-resources-150-5819)
-- [Dev.to/JS] [AI Git Commits](https://dev.to/borysshulyak/ai-git-commits-3pm1)
-- [Dev.to/JS] [Mastering JavaScript Array and its Methods](https://dev.to/scofieldidehen/mastering-javascript-array-and-its-methods-2gb7)
 - [Lifehacker] [Make These Pickle Fries, Which Rule](https://lifehacker.com/make-these-pickle-fries-which-rule-1850467287)
 - [Lifehacker] [The Best Side Hustles With Little or No Start-Up Costs](https://lifehacker.com/the-best-side-hustles-with-little-or-no-start-up-costs-1850467111)
 - [Lifehacker] [You Can Get a Lifetime License to Microsoft Office for $30](https://lifehacker.com/you-can-get-a-lifetime-license-to-microsoft-office-for-1850451844)
