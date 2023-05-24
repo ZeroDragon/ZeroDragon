@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 React Interview Questions &amp; Answers](https://dev.to/lucasjstifano/10-react-interview-questions-answers-3jb7)
+- [Dev.to/JS] [JavaScript Object Prototypes simply explained](https://dev.to/princam/javascript-object-prototypes-simply-explained-4cno)
+- [Dev.to/JS] [BitArray &amp; SetFixed: A High-Performance Approach to Managing Pixel Art State](https://dev.to/vipert/bitarray-setfixed-a-high-performance-approach-to-managing-pixel-art-state-44mn)
+- [Lifehacker] [You Can Get a Refurbished MacBook Air &lpar;and a Lifetime of Microsoft Office&rpar; for 25% Off](https://lifehacker.com/you-can-get-a-refurbished-macbook-air-and-a-lifetime-o-1850470454)
+- [Dev.to/JS] [Simplify Outline authentication with Logto](https://dev.to/logto/simplify-outline-authentication-with-logto-1077)
+- [Dev.to/JS] [Part 4: Working with Modules and Imports](https://dev.to/bobbyhalljr/part-4-working-with-modules-and-imports-406l)
+- [Lifehacker] [Your Yard Needs a Sensory Garden Path](https://lifehacker.com/your-yard-needs-a-sensory-garden-path-1850468088)
+- [Dev.to/JS] [Effective Error Handling in JavaScript: Best Practices](https://dev.to/eckdev/effective-error-handling-in-javascript-best-practices-44cj)
 - [Lifehacker] [How to Store Bread, According to Your Bread Personality](https://lifehacker.com/how-to-store-bread-according-to-your-bread-personality-1850470334)
 - [Dev.to/JS] [MVC &lpar;Model View Controller&rpar;](https://dev.to/isaacalves7/mvc-model-view-controller-4d9b)
 - [Dev.to/JS] [Does NaN actually means Not-a-Number?](https://dev.to/himu243/does-nan-actually-means-not-a-number-5acf)
@@ -31,14 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript: O que é WeakMap?](https://dev.to/cristuker/javascript-o-que-e-weakmap-9mi)
 - [Dev.to/JS] [The Top Web Development Services in Manchester for Small Businesses](https://dev.to/elisabethe56070/the-top-web-development-services-in-manchester-for-small-businesses-1em0)
 - [Dev.to/JS] [Typescript Code Generation](https://dev.to/rametta/typescript-code-generation-epn)
-- [Dev.to/JS] [Is Gulp Dead?](https://dev.to/istealersndev/is-gulp-dead-52cl)
-- [Dev.to/JS] [SkyMass: A New Way to Build Web Apps](https://dev.to/greenido/skymass-a-new-way-to-build-web-apps-3c15)
 - [Lifehacker] [Make a Bee-Friendly Watering Hole for Your Garden](https://lifehacker.com/make-a-bee-friendly-watering-hole-for-your-garden-1850468165)
-- [Dev.to/JS] [Ensure Code Separation in Next.js: Server Only vs Client Components](https://dev.to/niazmorshed2007/ensure-code-separation-in-nextjs-server-only-vs-client-components-20pl)
-- [Dev.to/JS] [Understanding Functions in JavaScript](https://dev.to/ghloriey/understanding-functions-in-javascript-m2k)
-- [Dev.to/JS] [Step-by-Step Guide: Uploading and Downloading Binary Files to AWS S3 v3 using Node.js and Codehooks.io](https://dev.to/restdbjones/step-by-step-guide-uploading-and-downloading-binary-files-to-aws-s3-v3-using-nodejs-and-codehooksio-4olh)
 - [Lifehacker] [Earn College Credits Before Stepping Foot on Campus](https://lifehacker.com/earn-college-credits-before-stepping-foot-on-campus-1850469845)
-- [Dev.to/JS] [Basic JavaScript Interview Question 3: What is Hoisting in JavaScript?](https://dev.to/sharmakshitij18/basic-javascript-interview-question-3-what-is-hoisting-in-javascript-1fgi)
 - [Lifehacker] [How to Block YouTube Ads on Your Android TV](https://lifehacker.com/how-to-block-youtube-ads-on-your-android-tv-1850468423)
 - [Lifehacker] [Can Green Tea Matcha Really Help ADHD?](https://lifehacker.com/can-green-tea-matcha-really-help-adhd-1850467853)
 - [Lifehacker] [The College Classes You Should Take During the Summer &lpar;and the Ones You Shouldn’t&rpar;](https://lifehacker.com/the-college-classes-you-should-take-during-the-summer-1850467238)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Couldn&#39;t Land a Plane in an Emergency, but You Could Try](https://lifehacker.com/you-couldnt-land-a-plane-in-an-emergency-but-you-could-1850463715)
 - [Lifehacker] [For the Best Waffled Sandwich, Waffle Your Meat First](https://lifehacker.com/for-the-best-waffled-sandwich-waffle-your-meat-first-1850463429)
 - [Lifehacker] [Use Cognitive Restructuring to Be More Productive](https://lifehacker.com/use-cognitive-restructuring-to-be-more-productive-1850463361)
-- [Lifehacker] [Turn Any Sconce Into a Battery-Powered LED Light Fixture](https://lifehacker.com/turn-any-sconce-into-a-battery-powered-led-light-fixtur-1850459704)
-- [Lifehacker] [You Can Splurge on This Luxury Jet for Cheaper Than First Class](https://lifehacker.com/you-can-splurge-on-this-luxury-jet-for-cheaper-than-fir-1850462486)
-- [Lifehacker] [12 &#39;Legacy Sequels&#39; That Don’t Suck &lpar;and 8 That Kinda Do&rpar;](https://lifehacker.com/12-legacy-sequels-that-don-t-suck-and-8-that-kinda-do-1850459463)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Turn Any Sconce Into a Battery-Powered LED Light Fixture](https://lifehacker.com/turn-any-sconce-into-a-battery-powered-led-light-fixtur-1850459704)<!-- TECH-POSTS:END -->
 
 ---
 
