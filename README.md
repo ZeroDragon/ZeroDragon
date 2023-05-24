@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Can Green Tea Matcha Really Help ADHD?](https://lifehacker.com/can-green-tea-matcha-really-help-adhd-1850467853)
+- [Dev.to/JS] [Demystifying API Architectures: A Comprehensive Guide](https://dev.to/arnab2001/demystifying-api-architectures-a-comprehensive-guide-40i4)
+- [Lifehacker] [The College Classes You Should Take During the Summer &lpar;and the Ones You Shouldn’t&rpar;](https://lifehacker.com/the-college-classes-you-should-take-during-the-summer-1850467238)
+- [Dev.to/JS] [Introduction to HTTP status codes](https://dev.to/kelechikizito/introduction-to-http-status-codes-326i)
+- [Dev.to/JS] [SvelteKit Ably: Sqvuably Real-Time Game](https://dev.to/askrodney/sveltekit-ably-sqvuably-real-time-game-2fn6)
+- [Dev.to/JS] [Javascript Dynamic Async Import](https://dev.to/tresorama/javascript-dynamic-async-import-7oa)
+- [Lifehacker] [Netflix’s Free Password Sharing Is Over &lpar;but Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
 - [Dev.to/JS] [How to define Objects with type definitions in JSDoc comments](https://dev.to/darkmavis1980/how-to-define-objects-with-type-definitions-in-jsdoc-comments-23n1)
 - [Dev.to/JS] [What&#39;s New in Novu 0.15.0?](https://dev.to/novu/whats-new-in-novu-0150-fkj)
 - [Lifehacker] [Deep-Fried Duck Necks Are Delightful](https://lifehacker.com/deep-fried-duck-necks-are-delightful-1850467837)
@@ -35,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Benefits of IT Staff Augmentation for E-commerce](https://dev.to/mukeshram/the-benefits-of-it-staff-augmentation-for-e-commerce-68l)
 - [Dev.to/JS] [Revolucione seus componentes com a Análise de Dados do Omlet](https://dev.to/klauskpm/revolucione-seus-componentes-com-a-analise-de-dados-do-omlet-1ggp)
 - [Dev.to/JS] [Building a WhatsApp Chatbot with Wix Headless API: A Developer&#39;s Journey](https://dev.to/yitzi/building-a-whatsapp-chatbot-with-wix-headless-api-a-developers-journey-5b9p)
-- [Dev.to/JS] [Vue Options to Composition API Online Converter](https://dev.to/kalimahapps/vue-options-to-composition-api-online-converter-15of)
-- [Dev.to/JS] [Next JS 13.4, Firefox 113, Babylon and new Javascript features in ECMAScript 2023- Frontend News #34](https://dev.to/frontend_house/next-js-134-firefox-113-babylon-and-new-javascript-features-in-ecmascript-2023-frontend-news-34-5c21)
-- [Dev.to/JS] [Do we need npm packages after Chat GPT?](https://dev.to/shreyvijayvargiya/do-we-need-npm-packages-after-chat-gpt-546i)
-- [Dev.to/JS] [Learn Synchronous and Asynchronous Programming in Javascript](https://dev.to/amitsinghcode/learn-synchronous-and-asynchronous-programming-in-javascript-4665)
 - [Lifehacker] [Make These Pickle Fries, Which Rule](https://lifehacker.com/make-these-pickle-fries-which-rule-1850467287)
 - [Lifehacker] [The Best Side Hustles With Little or No Start-Up Costs](https://lifehacker.com/the-best-side-hustles-with-little-or-no-start-up-costs-1850467111)
 - [Lifehacker] [You Can Get a Lifetime License to Microsoft Office for $30](https://lifehacker.com/you-can-get-a-lifetime-license-to-microsoft-office-for-1850451844)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell &#39;Good&#39; Debt From &#39;Bad&#39;](https://lifehacker.com/how-to-tell-good-debt-from-bad-1850441449)
 - [Lifehacker] [Put Pennies and Vodka in Your Flower Vases](https://lifehacker.com/put-pennies-and-vodka-in-your-flower-vases-1850458977)
 - [Lifehacker] [The Worst Ways to React to a Bee Attack](https://lifehacker.com/the-worst-ways-to-react-to-a-bee-attack-1850462981)
-- [Lifehacker] [You Can Get a Lifetime Subscription to Babbel for 20% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-babbel-for-20-o-1850451811)
-- [Lifehacker] [Sous Vide Your Old, Dried-Out Weed](https://lifehacker.com/sous-vide-your-old-dried-out-weed-1850461994)
-- [Lifehacker] [The Postal Service Is Begging You to Fix Your Mailbox](https://lifehacker.com/the-postal-service-is-begging-you-to-fix-your-mailbox-1850462546)
-- [Lifehacker] [Use This &#39;Tears of the Kingdom&#39; Inventory Glitch for Unlimited Items](https://lifehacker.com/use-this-tears-of-the-kingdom-inventory-glitch-for-unli-1850462064)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a Lifetime Subscription to Babbel for 20% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-babbel-for-20-o-1850451811)<!-- TECH-POSTS:END -->
 
 ---
 
