@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[번역]2023-04-12, Node.js 버전 18.16.0 &#39;Hydrogen&#39;&lpar;LTS&rpar;, @danielleadams](https://dev.to/mochafreddo/beonyeog2023-04-12-nodejs-beojeon-18160-hydrogenlts-danielleadams-19dd)
 - [Dev.to/JS] [The State of JS](https://dev.to/basheerdotdev/the-state-of-js-266d)
 - [Dev.to/JS] [Day 113 of #365DaysOfCode: App Testing](https://dev.to/arashjangali/day-113-of-365daysofcode-app-testing-4i28)
 - [Dev.to/JS] [Create Your Own Programming Language Part I: Numbers](https://dev.to/jasonsbarr/create-your-own-programming-language-part-i-numbers-13cj)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Start programming blog in minutes with Astro and Vrite](https://dev.to/areknawo/start-programming-blog-in-minutes-with-astro-and-vrite-e5l)
 - [Lifehacker] [These Are the Meatiest Deals for National Hamburger Day](https://lifehacker.com/these-are-the-meatiest-deals-for-national-hamburger-day-1850466662)
 - [Lifehacker] [These Cool LED Corner Lamps Are Up to 67% Off Right Now](https://lifehacker.com/these-cool-led-corner-lamps-are-up-to-67-off-right-now-1850451879)
-- [Dev.to/JS] [ESLinter - for all JavaScript projects](https://dev.to/byt3h3ad/placeholder-title-5dgp)
 - [Lifehacker] [Here&#39;s a Way to Make Sure You Actually Read the Books You Buy](https://lifehacker.com/heres-a-way-to-make-sure-actually-read-the-books-you-bu-1850466169)
 - [Lifehacker] [The DIY Home Repairs Most Likely to Kill You](https://lifehacker.com/the-diy-home-repairs-most-likely-to-kill-you-1850465748)
 - [Lifehacker] [Instant Mashed Potatoes Make the Most Flavorful Casserole Crust](https://lifehacker.com/instant-mashed-potatoes-make-the-most-flavorful-cassero-1850465646)
