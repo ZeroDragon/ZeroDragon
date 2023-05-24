@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 114 of #365DaysOfCode — Exploring Testing Frameworks](https://dev.to/arashjangali/day-114-of-365daysofcode-exploring-testing-frameworks-3gno)
 - [Lifehacker] [This Sensor Helps You Match Any Paint Color, and It’s 40% Off](https://lifehacker.com/this-sensor-helps-you-match-any-paint-color-and-it-s-4-1850470418)
 - [Dev.to/JS] [React Concepts Every React Developer Should know.](https://dev.to/uniquemw/react-concepts-every-react-developer-should-know-5266)
 - [Lifehacker] [What&#39;s New on Paramount+ in June 2023](https://lifehacker.com/whats-new-on-paramount-in-june-2023-1850471712)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Does NaN actually means Not-a-Number?](https://dev.to/himu243/does-nan-actually-means-not-a-number-5acf)
 - [Dev.to/JS] [Arquitetura Hexagonal &lpar;Ports &amp; Adapters&rpar;](https://dev.to/isaacalves7/arquitetura-hexagonal-ports-adapters-4j90)
 - [Lifehacker] [What&#39;s New on Netflix in June 2023](https://lifehacker.com/whats-new-on-netflix-in-june-2023-1850470621)
-- [Dev.to/JS] [JavaScript: O que é WeakMap?](https://dev.to/cristuker/javascript-o-que-e-weakmap-9mi)
 - [Lifehacker] [Make a Bee-Friendly Watering Hole for Your Garden](https://lifehacker.com/make-a-bee-friendly-watering-hole-for-your-garden-1850468165)
 - [Lifehacker] [Earn College Credits Before Stepping Foot on Campus](https://lifehacker.com/earn-college-credits-before-stepping-foot-on-campus-1850469845)
 - [Lifehacker] [How to Block YouTube Ads on Your Android TV](https://lifehacker.com/how-to-block-youtube-ads-on-your-android-tv-1850468423)
