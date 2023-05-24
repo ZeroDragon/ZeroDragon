@@ -23,6 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript: O que é WeakMap?](https://dev.to/cristuker/javascript-o-que-e-weakmap-9mi)
+- [Dev.to/JS] [The Top Web Development Services in Manchester for Small Businesses](https://dev.to/elisabethe56070/the-top-web-development-services-in-manchester-for-small-businesses-1em0)
+- [Dev.to/JS] [Typescript Code Generation](https://dev.to/rametta/typescript-code-generation-epn)
+- [Dev.to/JS] [Is Gulp Dead?](https://dev.to/istealersndev/is-gulp-dead-52cl)
+- [Dev.to/JS] [SkyMass: A New Way to Build Web Apps](https://dev.to/greenido/skymass-a-new-way-to-build-web-apps-3c15)
+- [Lifehacker] [Make a Bee-Friendly Watering Hole for Your Garden](https://lifehacker.com/make-a-bee-friendly-watering-hole-for-your-garden-1850468165)
+- [Dev.to/JS] [Ensure Code Separation in Next.js: Server Only vs Client Components](https://dev.to/niazmorshed2007/ensure-code-separation-in-nextjs-server-only-vs-client-components-20pl)
+- [Dev.to/JS] [Understanding Functions in JavaScript](https://dev.to/ghloriey/understanding-functions-in-javascript-m2k)
+- [Dev.to/JS] [Step-by-Step Guide: Uploading and Downloading Binary Files to AWS S3 v3 using Node.js and Codehooks.io](https://dev.to/restdbjones/step-by-step-guide-uploading-and-downloading-binary-files-to-aws-s3-v3-using-nodejs-and-codehooksio-4olh)
+- [Lifehacker] [Earn College Credits Before Stepping Foot on Campus](https://lifehacker.com/earn-college-credits-before-stepping-foot-on-campus-1850469845)
 - [Dev.to/JS] [Basic JavaScript Interview Question 3: What is Hoisting in JavaScript?](https://dev.to/sharmakshitij18/basic-javascript-interview-question-3-what-is-hoisting-in-javascript-1fgi)
 - [Lifehacker] [How to Block YouTube Ads on Your Android TV](https://lifehacker.com/how-to-block-youtube-ads-on-your-android-tv-1850468423)
 - [Dev.to/JS] [Angular routing - route to success for beginners](https://dev.to/tomwebwalker/angular-routing-route-to-success-for-beginners-3bec)
@@ -30,19 +40,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Demystifying API Architectures: A Comprehensive Guide](https://dev.to/arnab2001/demystifying-api-architectures-a-comprehensive-guide-40i4)
 - [Lifehacker] [The College Classes You Should Take During the Summer &lpar;and the Ones You Shouldn’t&rpar;](https://lifehacker.com/the-college-classes-you-should-take-during-the-summer-1850467238)
 - [Dev.to/JS] [Introduction to HTTP status codes](https://dev.to/kelechikizito/introduction-to-http-status-codes-326i)
-- [Dev.to/JS] [SvelteKit Ably: Sqvuably Real-Time Game](https://dev.to/askrodney/sveltekit-ably-sqvuably-real-time-game-2fn6)
-- [Dev.to/JS] [Javascript Dynamic Async Import](https://dev.to/tresorama/javascript-dynamic-async-import-7oa)
 - [Lifehacker] [Netflix’s Free Password Sharing Is Over &lpar;but Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
-- [Dev.to/JS] [How to define Objects with type definitions in JSDoc comments](https://dev.to/darkmavis1980/how-to-define-objects-with-type-definitions-in-jsdoc-comments-23n1)
-- [Dev.to/JS] [What&#39;s New in Novu 0.15.0?](https://dev.to/novu/whats-new-in-novu-0150-fkj)
 - [Lifehacker] [Deep-Fried Duck Necks Are Delightful](https://lifehacker.com/deep-fried-duck-necks-are-delightful-1850467837)
 - [Lifehacker] [Make a Killer Crumb Cake With Boxed Muffin Mix](https://lifehacker.com/make-a-killer-crumb-cake-with-boxed-muffin-mix-1850467375)
 - [Lifehacker] [What to Do When You Think Your Kid Is Being Punished Unfairly at School](https://lifehacker.com/what-to-do-when-you-think-your-kid-is-being-punished-un-1850462723)
-- [Dev.to/JS] [Scan your codebase for leaked environment variables instantly](https://dev.to/dangtony98/scan-your-codebase-for-leaked-environment-variables-instantly-829)
-- [Dev.to/JS] [JavaScript Hoisting: What It Is And Why It Was Implemented](https://dev.to/jwwnz/javascript-hoisting-what-it-is-and-why-it-was-implemented-51ep)
 - [Lifehacker] [The 10 Most Affordable Beach Towns in the U.S.](https://lifehacker.com/the-10-most-affordable-beach-towns-in-the-u-s-1850465352)
-- [Dev.to/JS] [Technical Paper on HTML/CSS](https://dev.to/god7780/technical-paper-on-htmlcss-48fo)
-- [Dev.to/JS] [The Benefits of IT Staff Augmentation for E-commerce](https://dev.to/mukeshram/the-benefits-of-it-staff-augmentation-for-e-commerce-68l)
 - [Lifehacker] [Make These Pickle Fries, Which Rule](https://lifehacker.com/make-these-pickle-fries-which-rule-1850467287)
 - [Lifehacker] [The Best Side Hustles With Little or No Start-Up Costs](https://lifehacker.com/the-best-side-hustles-with-little-or-no-start-up-costs-1850467111)
 - [Lifehacker] [You Can Get a Lifetime License to Microsoft Office for $30](https://lifehacker.com/you-can-get-a-lifetime-license-to-microsoft-office-for-1850451844)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Splurge on This Luxury Jet for Cheaper Than First Class](https://lifehacker.com/you-can-splurge-on-this-luxury-jet-for-cheaper-than-fir-1850462486)
 - [Lifehacker] [12 &#39;Legacy Sequels&#39; That Don’t Suck &lpar;and 8 That Kinda Do&rpar;](https://lifehacker.com/12-legacy-sequels-that-don-t-suck-and-8-that-kinda-do-1850459463)
 - [Lifehacker] [&#39;Reserve&#39; Is a Free Way to Get Through Airport Security Faster](https://lifehacker.com/reserve-is-a-free-way-to-get-through-airport-security-f-1850462025)
-- [Lifehacker] [How to Tell &#39;Good&#39; Debt From &#39;Bad&#39;](https://lifehacker.com/how-to-tell-good-debt-from-bad-1850441449)
-- [Lifehacker] [Put Pennies and Vodka in Your Flower Vases](https://lifehacker.com/put-pennies-and-vodka-in-your-flower-vases-1850458977)
-- [Lifehacker] [The Worst Ways to React to a Bee Attack](https://lifehacker.com/the-worst-ways-to-react-to-a-bee-attack-1850462981)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Tell &#39;Good&#39; Debt From &#39;Bad&#39;](https://lifehacker.com/how-to-tell-good-debt-from-bad-1850441449)<!-- TECH-POSTS:END -->
 
 ---
 
