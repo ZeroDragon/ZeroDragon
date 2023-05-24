@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Store Bread, According to Your Bread Personality](https://lifehacker.com/how-to-store-bread-according-to-your-bread-personality-1850470334)
+- [Dev.to/JS] [MVC &lpar;Model View Controller&rpar;](https://dev.to/isaacalves7/mvc-model-view-controller-4d9b)
+- [Dev.to/JS] [Does NaN actually means Not-a-Number?](https://dev.to/himu243/does-nan-actually-means-not-a-number-5acf)
+- [Dev.to/JS] [Arquitetura Hexagonal &lpar;Ports &amp; Adapters&rpar;](https://dev.to/isaacalves7/arquitetura-hexagonal-ports-adapters-4j90)
+- [Lifehacker] [What&#39;s New on Netflix in June 2023](https://lifehacker.com/whats-new-on-netflix-in-june-2023-1850470621)
 - [Dev.to/JS] [JavaScript: O que é WeakMap?](https://dev.to/cristuker/javascript-o-que-e-weakmap-9mi)
 - [Dev.to/JS] [The Top Web Development Services in Manchester for Small Businesses](https://dev.to/elisabethe56070/the-top-web-development-services-in-manchester-for-small-businesses-1em0)
 - [Dev.to/JS] [Typescript Code Generation](https://dev.to/rametta/typescript-code-generation-epn)
@@ -35,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Earn College Credits Before Stepping Foot on Campus](https://lifehacker.com/earn-college-credits-before-stepping-foot-on-campus-1850469845)
 - [Dev.to/JS] [Basic JavaScript Interview Question 3: What is Hoisting in JavaScript?](https://dev.to/sharmakshitij18/basic-javascript-interview-question-3-what-is-hoisting-in-javascript-1fgi)
 - [Lifehacker] [How to Block YouTube Ads on Your Android TV](https://lifehacker.com/how-to-block-youtube-ads-on-your-android-tv-1850468423)
-- [Dev.to/JS] [Angular routing - route to success for beginners](https://dev.to/tomwebwalker/angular-routing-route-to-success-for-beginners-3bec)
 - [Lifehacker] [Can Green Tea Matcha Really Help ADHD?](https://lifehacker.com/can-green-tea-matcha-really-help-adhd-1850467853)
-- [Dev.to/JS] [Demystifying API Architectures: A Comprehensive Guide](https://dev.to/arnab2001/demystifying-api-architectures-a-comprehensive-guide-40i4)
 - [Lifehacker] [The College Classes You Should Take During the Summer &lpar;and the Ones You Shouldn’t&rpar;](https://lifehacker.com/the-college-classes-you-should-take-during-the-summer-1850467238)
-- [Dev.to/JS] [Introduction to HTTP status codes](https://dev.to/kelechikizito/introduction-to-http-status-codes-326i)
 - [Lifehacker] [Netflix’s Free Password Sharing Is Over &lpar;but Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
 - [Lifehacker] [Deep-Fried Duck Necks Are Delightful](https://lifehacker.com/deep-fried-duck-necks-are-delightful-1850467837)
 - [Lifehacker] [Make a Killer Crumb Cake With Boxed Muffin Mix](https://lifehacker.com/make-a-killer-crumb-cake-with-boxed-muffin-mix-1850467375)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Cognitive Restructuring to Be More Productive](https://lifehacker.com/use-cognitive-restructuring-to-be-more-productive-1850463361)
 - [Lifehacker] [Turn Any Sconce Into a Battery-Powered LED Light Fixture](https://lifehacker.com/turn-any-sconce-into-a-battery-powered-led-light-fixtur-1850459704)
 - [Lifehacker] [You Can Splurge on This Luxury Jet for Cheaper Than First Class](https://lifehacker.com/you-can-splurge-on-this-luxury-jet-for-cheaper-than-fir-1850462486)
-- [Lifehacker] [12 &#39;Legacy Sequels&#39; That Don’t Suck &lpar;and 8 That Kinda Do&rpar;](https://lifehacker.com/12-legacy-sequels-that-don-t-suck-and-8-that-kinda-do-1850459463)
-- [Lifehacker] [&#39;Reserve&#39; Is a Free Way to Get Through Airport Security Faster](https://lifehacker.com/reserve-is-a-free-way-to-get-through-airport-security-f-1850462025)
-- [Lifehacker] [How to Tell &#39;Good&#39; Debt From &#39;Bad&#39;](https://lifehacker.com/how-to-tell-good-debt-from-bad-1850441449)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 &#39;Legacy Sequels&#39; That Don’t Suck &lpar;and 8 That Kinda Do&rpar;](https://lifehacker.com/12-legacy-sequels-that-don-t-suck-and-8-that-kinda-do-1850459463)<!-- TECH-POSTS:END -->
 
 ---
 
