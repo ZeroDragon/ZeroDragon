@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Context Providers in NextJS Server Components](https://dev.to/codingbrowny/using-context-providers-in-nextjs-server-components-2gk4)
+- [Dev.to/JS] [Cryptography in Blockchain 🤑 | Asymmetric Key Cryptography &amp; Hashing 🚀🚀 | Part-3](https://dev.to/akshaykurhekar/cryptography-in-blockchain-asymmetric-key-cryptography-hashing-part-3-2cei)
 - [Dev.to/JS] [Optimizing Your Workflow: Clearing VSCode Terminal on Save](https://dev.to/austincoleman/optimizing-your-workflow-clearing-vscode-terminal-on-save-1og6)
 - [Dev.to/JS] [Cryptography in Blockchain 🤑 | Cryptography Basics 🚀🚀 | Part-1](https://dev.to/akshaykurhekar/cryptography-in-blockchain-cryptography-basics-1jep)
 - [Dev.to/JS] [SonoFit - Ear Problem solution, Benefits, Price &amp; Where To Buy?](https://dev.to/pdsakhma/sonofit-ear-problem-solution-benefits-price-where-to-buy-2j4i)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Weekly web development resources #150](https://dev.to/vincenius/weekly-web-development-resources-150-5819)
 - [Dev.to/JS] [AI Git Commits](https://dev.to/borysshulyak/ai-git-commits-3pm1)
 - [Dev.to/JS] [Mastering JavaScript Array and its Methods](https://dev.to/scofieldidehen/mastering-javascript-array-and-its-methods-2gb7)
-- [Dev.to/JS] [Mastering Recursion in JavaScript: A Powerful Problem-Solving Technique for Beginners](https://dev.to/danities316/mastering-recursion-in-javascript-a-powerful-problem-solving-technique-for-beginners-475)
-- [Dev.to/JS] [🌟 Why `env` Wins: Advantages over Objects in Web Development 🚀](https://dev.to/issshahzaib/why-env-wins-advantages-over-objects-in-web-development-15oc)
 - [Lifehacker] [Make These Pickle Fries, Which Rule](https://lifehacker.com/make-these-pickle-fries-which-rule-1850467287)
 - [Lifehacker] [The Best Side Hustles With Little or No Start-Up Costs](https://lifehacker.com/the-best-side-hustles-with-little-or-no-start-up-costs-1850467111)
 - [Lifehacker] [You Can Get a Lifetime License to Microsoft Office for $30](https://lifehacker.com/you-can-get-a-lifetime-license-to-microsoft-office-for-1850451844)
