@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make a Killer Crumb Cake With Boxed Muffin Mix](https://lifehacker.com/make-a-killer-crumb-cake-with-boxed-muffin-mix-1850467375)
+- [Lifehacker] [What to Do When You Think Your Kid Is Being Punished Unfairly at School](https://lifehacker.com/what-to-do-when-you-think-your-kid-is-being-punished-un-1850462723)
+- [Dev.to/JS] [Scan your codebase for leaked environment variables instantly](https://dev.to/dangtony98/scan-your-codebase-for-leaked-environment-variables-instantly-829)
+- [Dev.to/JS] [JavaScript Hoisting: What It Is And Why It Was Implemented](https://dev.to/jwwnz/javascript-hoisting-what-it-is-and-why-it-was-implemented-51ep)
 - [Lifehacker] [The 10 Most Affordable Beach Towns in the U.S.](https://lifehacker.com/the-10-most-affordable-beach-towns-in-the-u-s-1850465352)
 - [Dev.to/JS] [The Benefits of IT Staff Augmentation for E-commerce](https://dev.to/mukeshram/the-benefits-of-it-staff-augmentation-for-e-commerce-68l)
 - [Dev.to/JS] [Revolucione seus componentes com a Análise de Dados do Omlet](https://dev.to/klauskpm/revolucione-seus-componentes-com-a-analise-de-dados-do-omlet-1ggp)
@@ -34,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advantages of Using React JS for Web App Development](https://dev.to/spotneatsoff/advantages-of-using-react-js-for-web-app-development-2m3a)
 - [Dev.to/JS] [Sample Questions for the Latest CompTIA N10-008 Exam](https://dev.to/romanranges1122/sample-questions-for-the-latest-comptia-n10-008-exam-114k)
 - [Dev.to/JS] [What Type Of Software Technology Is Used For Creating a Fuel management system For Logistics](https://dev.to/fleet_os/what-type-of-software-technology-is-used-for-creating-a-fuel-management-system-for-logistics-9fe)
-- [Dev.to/JS] [At last I am learning React](https://dev.to/rabibsust/at-last-i-am-learning-react-2bon)
-- [Dev.to/JS] [Planby v3.0.0: The Ultimate Scheduling Tool for Conference Speakers](https://dev.to/kozerkarol/planby-v300-the-ultimate-scheduling-tool-for-conference-speakers-4d2a)
 - [Lifehacker] [Make These Pickle Fries, Which Rule](https://lifehacker.com/make-these-pickle-fries-which-rule-1850467287)
 - [Lifehacker] [The Best Side Hustles With Little or No Start-Up Costs](https://lifehacker.com/the-best-side-hustles-with-little-or-no-start-up-costs-1850467111)
 - [Lifehacker] [You Can Get a Lifetime License to Microsoft Office for $30](https://lifehacker.com/you-can-get-a-lifetime-license-to-microsoft-office-for-1850451844)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Sous Vide Your Old, Dried-Out Weed](https://lifehacker.com/sous-vide-your-old-dried-out-weed-1850461994)
 - [Lifehacker] [The Postal Service Is Begging You to Fix Your Mailbox](https://lifehacker.com/the-postal-service-is-begging-you-to-fix-your-mailbox-1850462546)
 - [Lifehacker] [Use This &#39;Tears of the Kingdom&#39; Inventory Glitch for Unlimited Items](https://lifehacker.com/use-this-tears-of-the-kingdom-inventory-glitch-for-unli-1850462064)
-- [Lifehacker] [These Simple Food Choices Can Drastically Reduce Your Environmental Impact](https://lifehacker.com/these-simple-food-choices-can-drastically-reduce-your-e-1850456028)
-- [Lifehacker] [Get a Like-New Refurbished MacBook Air for Under $200](https://lifehacker.com/get-a-like-new-refurbished-macbook-air-for-under-200-1850451854)
-- [Lifehacker] [The Best Bean Dips Are Made With Flour](https://lifehacker.com/the-best-bean-dips-are-made-with-flour-1850461637)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Simple Food Choices Can Drastically Reduce Your Environmental Impact](https://lifehacker.com/these-simple-food-choices-can-drastically-reduce-your-e-1850456028)<!-- TECH-POSTS:END -->
 
 ---
 
