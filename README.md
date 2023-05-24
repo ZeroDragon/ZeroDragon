@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [URL to File/Blob in JavaScript](https://dev.to/sisko/url-to-fileblob-in-javascript-27kk)
+- [Lifehacker] [This Sensor Helps You Match Any Paint Color, and It’s 40% Off](https://lifehacker.com/this-sensor-helps-you-match-any-paint-color-and-it-s-4-1850470418)
+- [Dev.to/JS] [React Concepts Every React Developer Should know.](https://dev.to/uniquemw/react-concepts-every-react-developer-should-know-5266)
+- [Lifehacker] [What&#39;s New on Paramount+ in June 2023](https://lifehacker.com/whats-new-on-paramount-in-june-2023-1850471712)
 - [Lifehacker] [Get Ready Now for Prime Day 2023](https://lifehacker.com/get-ready-now-for-prime-day-2023-1850470592)
 - [Dev.to/JS] [Websockets](https://dev.to/isaacalves7/websockets-1noh)
 - [Lifehacker] [Pop Your Corn in Ghee for Greaseless Buttery Flavor](https://lifehacker.com/pop-your-corn-in-ghee-for-greaseless-buttery-flavor-1850470625)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The DIY Home Repairs Most Likely to Kill You](https://lifehacker.com/the-diy-home-repairs-most-likely-to-kill-you-1850465748)
 - [Lifehacker] [Instant Mashed Potatoes Make the Most Flavorful Casserole Crust](https://lifehacker.com/instant-mashed-potatoes-make-the-most-flavorful-cassero-1850465646)
 - [Lifehacker] [You Need a New App to Keep Watching &#39;Max&#39;](https://lifehacker.com/heres-how-much-a-max-subscription-will-cost-you-after-m-1850329419)
-- [Lifehacker] [Use an Allergy Screen to Keep Your Windows Open and Pollen Out](https://lifehacker.com/use-an-allergy-screen-to-keep-your-windows-open-and-pol-1850464055)
-- [Lifehacker] [You Couldn&#39;t Land a Plane in an Emergency, but You Could Try](https://lifehacker.com/you-couldnt-land-a-plane-in-an-emergency-but-you-could-1850463715)
-- [Lifehacker] [For the Best Waffled Sandwich, Waffle Your Meat First](https://lifehacker.com/for-the-best-waffled-sandwich-waffle-your-meat-first-1850463429)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use an Allergy Screen to Keep Your Windows Open and Pollen Out](https://lifehacker.com/use-an-allergy-screen-to-keep-your-windows-open-and-pol-1850464055)<!-- TECH-POSTS:END -->
 
 ---
 
