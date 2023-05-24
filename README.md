@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Concurrency Vs Parallelism](https://dev.to/subhafx/concurrency-vs-parallelism-1jdo)
+- [Dev.to/JS] [What is Docker Compose? When and How to use it?](https://dev.to/5minslearn/what-is-docker-compose-when-and-how-to-use-it-2p2)
 - [Dev.to/JS] [[번역]2023-04-12, Node.js 버전 18.16.0 &#39;Hydrogen&#39;&lpar;LTS&rpar;, @danielleadams](https://dev.to/mochafreddo/beonyeog2023-04-12-nodejs-beojeon-18160-hydrogenlts-danielleadams-19dd)
 - [Dev.to/JS] [The State of JS](https://dev.to/basheerdotdev/the-state-of-js-266d)
 - [Dev.to/JS] [Day 113 of #365DaysOfCode: App Testing](https://dev.to/arashjangali/day-113-of-365daysofcode-app-testing-4i28)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Lifetime License to Microsoft Office for $30](https://lifehacker.com/you-can-get-a-lifetime-license-to-microsoft-office-for-1850451844)
 - [Dev.to/JS] [Getting Started with Tailwind CSS](https://dev.to/martinsonuoha/getting-started-with-tailwind-css-21h7)
 - [Dev.to/JS] [Future of CSS: Popover API](https://dev.to/link2twenty/future-of-css-popover-api-3ba0)
-- [Dev.to/JS] [JavaScript Techniques](https://dev.to/pablocavalcanteh/javascript-techniques-2eg2)
-- [Dev.to/JS] [Start programming blog in minutes with Astro and Vrite](https://dev.to/areknawo/start-programming-blog-in-minutes-with-astro-and-vrite-e5l)
 - [Lifehacker] [These Are the Meatiest Deals for National Hamburger Day](https://lifehacker.com/these-are-the-meatiest-deals-for-national-hamburger-day-1850466662)
 - [Lifehacker] [These Cool LED Corner Lamps Are Up to 67% Off Right Now](https://lifehacker.com/these-cool-led-corner-lamps-are-up-to-67-off-right-now-1850451879)
 - [Lifehacker] [Here&#39;s a Way to Make Sure You Actually Read the Books You Buy](https://lifehacker.com/heres-a-way-to-make-sure-actually-read-the-books-you-bu-1850466169)
