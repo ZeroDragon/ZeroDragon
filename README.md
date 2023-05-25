@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [30 Programming YouTubers You Need to Subscribe To](https://dev.to/hb/30-programming-youtubers-you-need-to-subscribe-to-4gg)
+- [Lifehacker] [Why Now Is the Best Time to Find Running Shoes on Sale](https://lifehacker.com/why-now-is-the-best-time-to-find-running-shoes-on-sale-1850471299)
+- [Dev.to/JS] [7 Awesome VS Code Extensions You Should Try](https://dev.to/nitinfab/7-awesome-vs-code-extensions-you-should-try-1jfj)
+- [Dev.to/JS] [How To Effortlessly Bypass Captcha using 2Captcha and Node.js](https://dev.to/devland/how-to-effortlessly-bypass-captcha-using-2captcha-and-nodejs-2ee5)
+- [Lifehacker] [This Free App Unlocks Hidden Features on Your PC](https://lifehacker.com/this-free-app-unlocks-hidden-features-on-your-pc-1850473800)
 - [Dev.to/JS] [How to Implement a Modal Component with React](https://dev.to/adetutu/how-to-implement-a-modal-component-with-react-18bi)
 - [Lifehacker] [How to Host &lpar;or Fake&rpar; a Seance](https://lifehacker.com/how-to-host-or-fake-a-seance-1850462231)
 - [Dev.to/JS] [Explorando os Library Hooks do React: Exemplos e Casos de Uso](https://dev.to/jhonyaraujooficial/explorando-os-library-hooks-do-react-exemplos-e-casos-de-uso-4e3b)
@@ -36,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Receita de Menu Hambúrguer](https://dev.to/ramoscarloseduardo/receita-de-menu-hamburguer-1ae0)
 - [Dev.to/JS] [🎤 Building the biggest list of useful open-source libraries 🎉🥳😎](https://dev.to/github20k/building-the-biggest-list-of-useful-open-source-libraries-2ppk)
 - [Dev.to/JS] [Harnessing the Power of Node.js for Automated Deployment and Continuous Delivery](https://dev.to/folasayosamuel/harnessing-the-power-of-nodejs-for-automated-deployment-and-continuous-delivery-1fk0)
-- [Dev.to/JS] [Front-End, o mundo além de pintar botões.](https://dev.to/edvaldolima/front-end-o-mundo-alem-de-pintar-botoes-32ak)
-- [Dev.to/JS] [Learn React The Lazy Way in 2023](https://dev.to/scofieldidehen/learn-react-the-lazy-way-in-2023-2gmm)
-- [Dev.to/JS] [How to setup Two Factor Authentication&lpar;2FA&rpar; in Node.js without third-party applications](https://dev.to/emmanuelo/how-to-setup-two-factor-authentication2fa-in-nodejs-without-third-party-applications-2i4a)
 - [Lifehacker] [This Sensor Helps You Match Any Paint Color, and It’s 40% Off](https://lifehacker.com/this-sensor-helps-you-match-any-paint-color-and-it-s-4-1850470418)
 - [Lifehacker] [What&#39;s New on Paramount+ in June 2023](https://lifehacker.com/whats-new-on-paramount-in-june-2023-1850471712)
 - [Lifehacker] [Get Ready Now for Prime Day 2023](https://lifehacker.com/get-ready-now-for-prime-day-2023-1850470592)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make These Pickle Fries, Which Rule](https://lifehacker.com/make-these-pickle-fries-which-rule-1850467287)
 - [Lifehacker] [The Best Side Hustles With Little or No Start-Up Costs](https://lifehacker.com/the-best-side-hustles-with-little-or-no-start-up-costs-1850467111)
 - [Lifehacker] [You Can Get a Lifetime License to Microsoft Office for $30](https://lifehacker.com/you-can-get-a-lifetime-license-to-microsoft-office-for-1850451844)
-- [Lifehacker] [These Are the Meatiest Deals for National Hamburger Day](https://lifehacker.com/these-are-the-meatiest-deals-for-national-hamburger-day-1850466662)
-- [Lifehacker] [These Cool LED Corner Lamps Are Up to 67% Off Right Now](https://lifehacker.com/these-cool-led-corner-lamps-are-up-to-67-off-right-now-1850451879)
-- [Lifehacker] [Here&#39;s a Way to Make Sure You Actually Read the Books You Buy](https://lifehacker.com/heres-a-way-to-make-sure-actually-read-the-books-you-bu-1850466169)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Meatiest Deals for National Hamburger Day](https://lifehacker.com/these-are-the-meatiest-deals-for-national-hamburger-day-1850466662)<!-- TECH-POSTS:END -->
 
 ---
 
