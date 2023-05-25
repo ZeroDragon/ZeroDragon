@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What People Are Getting Wrong This Week: Fentanyl](https://lifehacker.com/what-people-are-getting-wrong-this-week-fentanyl-1850469668)
+- [Dev.to/JS] [Code Like a Craftsman: Best Practices for Writing Elegant and Maintainable Code](https://dev.to/raxraj/code-like-a-craftsman-best-practices-for-writing-elegant-and-maintainable-code-2l0f)
+- [Lifehacker] [10 Simple Upgrades to Improve Your New Home Right Away](https://lifehacker.com/10-simple-upgrades-to-improve-your-new-home-right-away-1850466163)
+- [Dev.to/JS] [Functional Programming — Principles](https://dev.to/letstechtalks/functional-programming-principles-1m0n)
 - [Lifehacker] [Here’s How Much Bad Habits Can Cost You Per Year](https://lifehacker.com/here-s-how-much-bad-habits-can-cost-you-per-year-1850470176)
 - [Dev.to/JS] [Fortinet NSE4_FGT-6.4 Exam PDF questions [2023] For Instant Success](https://dev.to/jack1898oliver/fortinet-nse4fgt-64-exam-pdf-questions-2023-for-instant-success-41co)
 - [Dev.to/JS] [Receita de Menu Hambúrguer](https://dev.to/ramoscarloseduardo/receita-de-menu-hamburguer-1ae0)
@@ -34,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Aplicación de Referencia Empresarial en JavaScript - Contoso Real Estate](https://dev.to/azure/aplicacion-de-referencia-empresarial-en-javascript-contoso-real-estate-63i)
 - [Dev.to/JS] [Using Recursion to remove unwanted values from Object](https://dev.to/amitgharge/using-recursion-to-remove-unwanted-values-from-object-442l)
 - [Dev.to/JS] [Learning React : about JSX](https://dev.to/rabibsust/learning-react-day-2-li5)
-- [Dev.to/JS] [How to fix QuickBooks search is not working?](https://dev.to/elinawilliam12/how-to-fix-quickbooks-search-is-not-working-417)
-- [Dev.to/JS] [Introduction to Web Development](https://dev.to/tina_popli/introduction-to-web-development-2al5)
 - [Lifehacker] [This Sensor Helps You Match Any Paint Color, and It’s 40% Off](https://lifehacker.com/this-sensor-helps-you-match-any-paint-color-and-it-s-4-1850470418)
 - [Lifehacker] [What&#39;s New on Paramount+ in June 2023](https://lifehacker.com/whats-new-on-paramount-in-june-2023-1850471712)
 - [Lifehacker] [Get Ready Now for Prime Day 2023](https://lifehacker.com/get-ready-now-for-prime-day-2023-1850470592)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Meatiest Deals for National Hamburger Day](https://lifehacker.com/these-are-the-meatiest-deals-for-national-hamburger-day-1850466662)
 - [Lifehacker] [These Cool LED Corner Lamps Are Up to 67% Off Right Now](https://lifehacker.com/these-cool-led-corner-lamps-are-up-to-67-off-right-now-1850451879)
 - [Lifehacker] [Here&#39;s a Way to Make Sure You Actually Read the Books You Buy](https://lifehacker.com/heres-a-way-to-make-sure-actually-read-the-books-you-bu-1850466169)
-- [Lifehacker] [The DIY Home Repairs Most Likely to Kill You](https://lifehacker.com/the-diy-home-repairs-most-likely-to-kill-you-1850465748)
-- [Lifehacker] [Instant Mashed Potatoes Make the Most Flavorful Casserole Crust](https://lifehacker.com/instant-mashed-potatoes-make-the-most-flavorful-cassero-1850465646)
-- [Lifehacker] [You Need a New App to Keep Watching &#39;Max&#39;](https://lifehacker.com/heres-how-much-a-max-subscription-will-cost-you-after-m-1850329419)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The DIY Home Repairs Most Likely to Kill You](https://lifehacker.com/the-diy-home-repairs-most-likely-to-kill-you-1850465748)<!-- TECH-POSTS:END -->
 
 ---
 
