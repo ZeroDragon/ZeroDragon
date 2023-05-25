@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Implement a Modal Component with React](https://dev.to/adetutu/how-to-implement-a-modal-component-with-react-18bi)
+- [Lifehacker] [How to Host &lpar;or Fake&rpar; a Seance](https://lifehacker.com/how-to-host-or-fake-a-seance-1850462231)
+- [Dev.to/JS] [Explorando os Library Hooks do React: Exemplos e Casos de Uso](https://dev.to/jhonyaraujooficial/explorando-os-library-hooks-do-react-exemplos-e-casos-de-uso-4e3b)
+- [Dev.to/JS] [How to create keystore in java programmatically?](https://dev.to/wpsyed/how-to-create-keystore-in-java-programmatically-5fnk)
 - [Lifehacker] [What People Are Getting Wrong This Week: Fentanyl](https://lifehacker.com/what-people-are-getting-wrong-this-week-fentanyl-1850469668)
 - [Dev.to/JS] [Code Like a Craftsman: Best Practices for Writing Elegant and Maintainable Code](https://dev.to/raxraj/code-like-a-craftsman-best-practices-for-writing-elegant-and-maintainable-code-2l0f)
 - [Lifehacker] [10 Simple Upgrades to Improve Your New Home Right Away](https://lifehacker.com/10-simple-upgrades-to-improve-your-new-home-right-away-1850466163)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Front-End, o mundo além de pintar botões.](https://dev.to/edvaldolima/front-end-o-mundo-alem-de-pintar-botoes-32ak)
 - [Dev.to/JS] [Learn React The Lazy Way in 2023](https://dev.to/scofieldidehen/learn-react-the-lazy-way-in-2023-2gmm)
 - [Dev.to/JS] [How to setup Two Factor Authentication&lpar;2FA&rpar; in Node.js without third-party applications](https://dev.to/emmanuelo/how-to-setup-two-factor-authentication2fa-in-nodejs-without-third-party-applications-2i4a)
-- [Dev.to/JS] [Aplicación de Referencia Empresarial en JavaScript - Contoso Real Estate](https://dev.to/azure/aplicacion-de-referencia-empresarial-en-javascript-contoso-real-estate-63i)
-- [Dev.to/JS] [Using Recursion to remove unwanted values from Object](https://dev.to/amitgharge/using-recursion-to-remove-unwanted-values-from-object-442l)
-- [Dev.to/JS] [Learning React : about JSX](https://dev.to/rabibsust/learning-react-day-2-li5)
 - [Lifehacker] [This Sensor Helps You Match Any Paint Color, and It’s 40% Off](https://lifehacker.com/this-sensor-helps-you-match-any-paint-color-and-it-s-4-1850470418)
 - [Lifehacker] [What&#39;s New on Paramount+ in June 2023](https://lifehacker.com/whats-new-on-paramount-in-june-2023-1850471712)
 - [Lifehacker] [Get Ready Now for Prime Day 2023](https://lifehacker.com/get-ready-now-for-prime-day-2023-1850470592)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Lifetime License to Microsoft Office for $30](https://lifehacker.com/you-can-get-a-lifetime-license-to-microsoft-office-for-1850451844)
 - [Lifehacker] [These Are the Meatiest Deals for National Hamburger Day](https://lifehacker.com/these-are-the-meatiest-deals-for-national-hamburger-day-1850466662)
 - [Lifehacker] [These Cool LED Corner Lamps Are Up to 67% Off Right Now](https://lifehacker.com/these-cool-led-corner-lamps-are-up-to-67-off-right-now-1850451879)
-- [Lifehacker] [Here&#39;s a Way to Make Sure You Actually Read the Books You Buy](https://lifehacker.com/heres-a-way-to-make-sure-actually-read-the-books-you-bu-1850466169)
-- [Lifehacker] [The DIY Home Repairs Most Likely to Kill You](https://lifehacker.com/the-diy-home-repairs-most-likely-to-kill-you-1850465748)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s a Way to Make Sure You Actually Read the Books You Buy](https://lifehacker.com/heres-a-way-to-make-sure-actually-read-the-books-you-bu-1850466169)<!-- TECH-POSTS:END -->
 
 ---
 
