@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Seven Things You Didn’t Know Come in Travel Size](https://lifehacker.com/seven-things-you-didn-t-know-come-in-travel-size-1850475233)
+- [Dev.to/JS] [Métodos de arreglos en JavaScript](https://dev.to/ulisesserranop/metodos-de-arreglos-en-javascript-843)
+- [Dev.to/JS] [SetTimeout Gotchas with React Hooks](https://dev.to/divyanshgothwal/settimeout-gotchas-with-react-hooks-1c5j)
+- [Lifehacker] [Plant Mushrooms &lpar;and Other Fungi&rpar; in Your Garden to Improve Soil Health](https://lifehacker.com/plant-mushrooms-and-other-fungi-in-your-garden-to-imp-1850473472)
+- [Dev.to/JS] [Will chatgpt replace web developers?](https://dev.to/rafikadir/will-chatgpt-replace-web-developers-54ac)
+- [Lifehacker] [Banish Cookie Boredom With Strawberry and Feta Cookies](https://lifehacker.com/banish-cookie-boredom-with-strawberry-and-feta-cookies-1850472464)
 - [Dev.to/JS] [O Melhor gerenciador de pacotes da atualidade](https://dev.to/palast/o-melhor-gerenciador-de-pacotes-da-atualidade-4dej)
 - [Dev.to/JS] [How to publish a React Component without even including React?](https://dev.to/aryan_shourie/how-to-publish-a-react-component-without-even-including-react-3kg1)
 - [Lifehacker] [What I Wish I’d Known Before I Bought a Hydroponic Gardening Tower](https://lifehacker.com/what-i-wish-i-d-known-before-i-bought-a-hydroponic-gard-1850468170)
@@ -37,11 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Implement a Modal Component with React](https://dev.to/adetutu/how-to-implement-a-modal-component-with-react-18bi)
 - [Lifehacker] [How to Host &lpar;or Fake&rpar; a Seance](https://lifehacker.com/how-to-host-or-fake-a-seance-1850462231)
 - [Dev.to/JS] [Explorando os Library Hooks do React: Exemplos e Casos de Uso](https://dev.to/jhonyaraujooficial/explorando-os-library-hooks-do-react-exemplos-e-casos-de-uso-4e3b)
-- [Dev.to/JS] [How to create keystore in java programmatically?](https://dev.to/wpsyed/how-to-create-keystore-in-java-programmatically-5fnk)
 - [Lifehacker] [What People Are Getting Wrong This Week: Fentanyl](https://lifehacker.com/what-people-are-getting-wrong-this-week-fentanyl-1850469668)
-- [Dev.to/JS] [Code Like a Craftsman: Best Practices for Writing Elegant and Maintainable Code](https://dev.to/raxraj/code-like-a-craftsman-best-practices-for-writing-elegant-and-maintainable-code-2l0f)
 - [Lifehacker] [10 Simple Upgrades to Improve Your New Home Right Away](https://lifehacker.com/10-simple-upgrades-to-improve-your-new-home-right-away-1850466163)
-- [Dev.to/JS] [Functional Programming — Principles](https://dev.to/letstechtalks/functional-programming-principles-1m0n)
 - [Lifehacker] [Here’s How Much Bad Habits Can Cost You Per Year](https://lifehacker.com/here-s-how-much-bad-habits-can-cost-you-per-year-1850470176)
 - [Lifehacker] [This Sensor Helps You Match Any Paint Color, and It’s 40% Off](https://lifehacker.com/this-sensor-helps-you-match-any-paint-color-and-it-s-4-1850470418)
 - [Lifehacker] [What&#39;s New on Paramount+ in June 2023](https://lifehacker.com/whats-new-on-paramount-in-june-2023-1850471712)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Netflix’s Free Password Sharing Is Over &lpar;but Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
 - [Lifehacker] [Deep-Fried Duck Necks Are Delightful](https://lifehacker.com/deep-fried-duck-necks-are-delightful-1850467837)
 - [Lifehacker] [Make a Killer Crumb Cake With Boxed Muffin Mix](https://lifehacker.com/make-a-killer-crumb-cake-with-boxed-muffin-mix-1850467375)
-- [Lifehacker] [What to Do When You Think Your Kid Is Being Punished Unfairly at School](https://lifehacker.com/what-to-do-when-you-think-your-kid-is-being-punished-un-1850462723)
-- [Lifehacker] [The 10 Most Affordable Beach Towns in the U.S.](https://lifehacker.com/the-10-most-affordable-beach-towns-in-the-u-s-1850465352)
-- [Lifehacker] [Make These Pickle Fries, Which Rule](https://lifehacker.com/make-these-pickle-fries-which-rule-1850467287)
-- [Lifehacker] [The Best Side Hustles With Little or No Start-Up Costs](https://lifehacker.com/the-best-side-hustles-with-little-or-no-start-up-costs-1850467111)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do When You Think Your Kid Is Being Punished Unfairly at School](https://lifehacker.com/what-to-do-when-you-think-your-kid-is-being-punished-un-1850462723)<!-- TECH-POSTS:END -->
 
 ---
 
