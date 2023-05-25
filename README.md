@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Enhancing Your Existing ReactJS Application with TypeScript and Absolute Imports](https://dev.to/willochs316/enhancing-your-existing-reactjs-application-with-typescript-and-absolute-imports-hla)
 - [Dev.to/JS] [The Rise and Fall of Lazerpay: Painful Lessons Learned from a Nigerian Web3 Startup](https://dev.to/basheerdotdev/the-rise-and-fall-of-lazerpay-painful-lessons-learned-from-a-nigerian-web3-startup-2g6a)
 - [Dev.to/JS] [Aplicação de Referência Empresarial em JavaScript - Contoso Real Estate](https://dev.to/azure/aplicacao-de-referencia-empresarial-em-javascript-contoso-real-estate-23ia)
 - [Dev.to/JS] [AWS TURN server: In 7 Simple Steps](https://dev.to/alakkadshaw/aws-turn-server-in-7-simple-steps-226e)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simplify Outline authentication with Logto](https://dev.to/logto/simplify-outline-authentication-with-logto-1077)
 - [Dev.to/JS] [Part 4: Working with Modules and Imports](https://dev.to/bobbyhalljr/part-4-working-with-modules-and-imports-406l)
 - [Lifehacker] [Your Yard Needs a Sensory Garden Path](https://lifehacker.com/your-yard-needs-a-sensory-garden-path-1850468088)
-- [Dev.to/JS] [Effective Error Handling in JavaScript: Best Practices](https://dev.to/eckdev/effective-error-handling-in-javascript-best-practices-44cj)
 - [Lifehacker] [How to Store Bread, According to Your Bread Personality](https://lifehacker.com/how-to-store-bread-according-to-your-bread-personality-1850470334)
 - [Lifehacker] [What&#39;s New on Netflix in June 2023](https://lifehacker.com/whats-new-on-netflix-in-june-2023-1850470621)
 - [Lifehacker] [Make a Bee-Friendly Watering Hole for Your Garden](https://lifehacker.com/make-a-bee-friendly-watering-hole-for-your-garden-1850468165)
