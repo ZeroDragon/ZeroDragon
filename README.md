@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do Instead of the Viral TikTok ‘Everything Shower’](https://lifehacker.com/what-to-do-instead-of-the-viral-tiktok-everything-show-1850475548)
+- [Dev.to/JS] [Do You Need to Learn TypeScript in 2023?](https://dev.to/mikehtmlallthethings/do-you-need-to-learn-typescript-in-2023-4c43)
+- [Lifehacker] [Stop Making Cornstarch Slurries With Boring Water](https://lifehacker.com/stop-making-cornstarch-slurries-with-boring-water-1850475949)
 - [Lifehacker] [Seven Things You Didn’t Know Come in Travel Size](https://lifehacker.com/seven-things-you-didn-t-know-come-in-travel-size-1850475233)
 - [Dev.to/JS] [Métodos de arreglos en JavaScript](https://dev.to/ulisesserranop/metodos-de-arreglos-en-javascript-843)
 - [Dev.to/JS] [SetTimeout Gotchas with React Hooks](https://dev.to/divyanshgothwal/settimeout-gotchas-with-react-hooks-1c5j)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Free App Unlocks Hidden Features on Your PC](https://lifehacker.com/this-free-app-unlocks-hidden-features-on-your-pc-1850473800)
 - [Dev.to/JS] [How to Implement a Modal Component with React](https://dev.to/adetutu/how-to-implement-a-modal-component-with-react-18bi)
 - [Lifehacker] [How to Host &lpar;or Fake&rpar; a Seance](https://lifehacker.com/how-to-host-or-fake-a-seance-1850462231)
-- [Dev.to/JS] [Explorando os Library Hooks do React: Exemplos e Casos de Uso](https://dev.to/jhonyaraujooficial/explorando-os-library-hooks-do-react-exemplos-e-casos-de-uso-4e3b)
 - [Lifehacker] [What People Are Getting Wrong This Week: Fentanyl](https://lifehacker.com/what-people-are-getting-wrong-this-week-fentanyl-1850469668)
 - [Lifehacker] [10 Simple Upgrades to Improve Your New Home Right Away](https://lifehacker.com/10-simple-upgrades-to-improve-your-new-home-right-away-1850466163)
 - [Lifehacker] [Here’s How Much Bad Habits Can Cost You Per Year](https://lifehacker.com/here-s-how-much-bad-habits-can-cost-you-per-year-1850470176)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Can Green Tea Matcha Really Help ADHD?](https://lifehacker.com/can-green-tea-matcha-really-help-adhd-1850467853)
 - [Lifehacker] [The College Classes You Should Take During the Summer &lpar;and the Ones You Shouldn’t&rpar;](https://lifehacker.com/the-college-classes-you-should-take-during-the-summer-1850467238)
 - [Lifehacker] [Netflix’s Free Password Sharing Is Over &lpar;but Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
-- [Lifehacker] [Deep-Fried Duck Necks Are Delightful](https://lifehacker.com/deep-fried-duck-necks-are-delightful-1850467837)
-- [Lifehacker] [Make a Killer Crumb Cake With Boxed Muffin Mix](https://lifehacker.com/make-a-killer-crumb-cake-with-boxed-muffin-mix-1850467375)
-- [Lifehacker] [What to Do When You Think Your Kid Is Being Punished Unfairly at School](https://lifehacker.com/what-to-do-when-you-think-your-kid-is-being-punished-un-1850462723)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Deep-Fried Duck Necks Are Delightful](https://lifehacker.com/deep-fried-duck-necks-are-delightful-1850467837)<!-- TECH-POSTS:END -->
 
 ---
 
