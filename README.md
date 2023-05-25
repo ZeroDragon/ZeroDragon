@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ESLint: Plugins vs Rules &lpar;EN&rpar;](https://dev.to/dmytrych/eslint-plugins-vs-rules-en-2k8d)
+- [Lifehacker] [You Should Use These Free SAT Prep Apps](https://lifehacker.com/you-should-use-these-free-sat-prep-apps-1850475748)
+- [Dev.to/JS] [Developer training Developers!](https://dev.to/vicky__mutai/developer-training-developers-5d7d)
 - [Lifehacker] [What to Do Instead of the Viral TikTok ‘Everything Shower’](https://lifehacker.com/what-to-do-instead-of-the-viral-tiktok-everything-show-1850475548)
 - [Dev.to/JS] [Do You Need to Learn TypeScript in 2023?](https://dev.to/mikehtmlallthethings/do-you-need-to-learn-typescript-in-2023-4c43)
 - [Lifehacker] [Stop Making Cornstarch Slurries With Boring Water](https://lifehacker.com/stop-making-cornstarch-slurries-with-boring-water-1850475949)
@@ -41,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [30 Programming YouTubers You Need to Subscribe To](https://dev.to/hb/30-programming-youtubers-you-need-to-subscribe-to-4gg)
 - [Lifehacker] [Why Now Is the Best Time to Find Running Shoes on Sale](https://lifehacker.com/why-now-is-the-best-time-to-find-running-shoes-on-sale-1850471299)
 - [Dev.to/JS] [7 Awesome VS Code Extensions You Should Try](https://dev.to/nitinfab/7-awesome-vs-code-extensions-you-should-try-1jfj)
-- [Dev.to/JS] [How To Effortlessly Bypass Captcha using 2Captcha and Node.js](https://dev.to/devland/how-to-effortlessly-bypass-captcha-using-2captcha-and-nodejs-2ee5)
 - [Lifehacker] [This Free App Unlocks Hidden Features on Your PC](https://lifehacker.com/this-free-app-unlocks-hidden-features-on-your-pc-1850473800)
-- [Dev.to/JS] [How to Implement a Modal Component with React](https://dev.to/adetutu/how-to-implement-a-modal-component-with-react-18bi)
 - [Lifehacker] [How to Host &lpar;or Fake&rpar; a Seance](https://lifehacker.com/how-to-host-or-fake-a-seance-1850462231)
 - [Lifehacker] [What People Are Getting Wrong This Week: Fentanyl](https://lifehacker.com/what-people-are-getting-wrong-this-week-fentanyl-1850469668)
 - [Lifehacker] [10 Simple Upgrades to Improve Your New Home Right Away](https://lifehacker.com/10-simple-upgrades-to-improve-your-new-home-right-away-1850466163)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Block YouTube Ads on Your Android TV](https://lifehacker.com/how-to-block-youtube-ads-on-your-android-tv-1850468423)
 - [Lifehacker] [Can Green Tea Matcha Really Help ADHD?](https://lifehacker.com/can-green-tea-matcha-really-help-adhd-1850467853)
 - [Lifehacker] [The College Classes You Should Take During the Summer &lpar;and the Ones You Shouldn’t&rpar;](https://lifehacker.com/the-college-classes-you-should-take-during-the-summer-1850467238)
-- [Lifehacker] [Netflix’s Free Password Sharing Is Over &lpar;but Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)
-- [Lifehacker] [Deep-Fried Duck Necks Are Delightful](https://lifehacker.com/deep-fried-duck-necks-are-delightful-1850467837)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Netflix’s Free Password Sharing Is Over &lpar;but Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)<!-- TECH-POSTS:END -->
 
 ---
 
