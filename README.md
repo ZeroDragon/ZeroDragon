@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [O Melhor gerenciador de pacotes da atualidade](https://dev.to/palast/o-melhor-gerenciador-de-pacotes-da-atualidade-4dej)
+- [Dev.to/JS] [How to publish a React Component without even including React?](https://dev.to/aryan_shourie/how-to-publish-a-react-component-without-even-including-react-3kg1)
+- [Lifehacker] [What I Wish I’d Known Before I Bought a Hydroponic Gardening Tower](https://lifehacker.com/what-i-wish-i-d-known-before-i-bought-a-hydroponic-gard-1850468170)
+- [Dev.to/JS] [Using useMutation to make an advanced toggle in React](https://dev.to/propelauth/using-usemutation-to-make-an-advanced-toggle-in-react-3dnp)
+- [Dev.to/JS] [What are javascript loop best practices?](https://dev.to/robiulhr/what-are-javascript-loop-best-practices-4m4e)
+- [Lifehacker] [Make This Classic French Base and Use It In Everything](https://lifehacker.com/make-this-classic-french-base-and-use-it-in-everything-1850327569)
 - [Dev.to/JS] [30 Programming YouTubers You Need to Subscribe To](https://dev.to/hb/30-programming-youtubers-you-need-to-subscribe-to-4gg)
 - [Lifehacker] [Why Now Is the Best Time to Find Running Shoes on Sale](https://lifehacker.com/why-now-is-the-best-time-to-find-running-shoes-on-sale-1850471299)
 - [Dev.to/JS] [7 Awesome VS Code Extensions You Should Try](https://dev.to/nitinfab/7-awesome-vs-code-extensions-you-should-try-1jfj)
@@ -37,10 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Simple Upgrades to Improve Your New Home Right Away](https://lifehacker.com/10-simple-upgrades-to-improve-your-new-home-right-away-1850466163)
 - [Dev.to/JS] [Functional Programming — Principles](https://dev.to/letstechtalks/functional-programming-principles-1m0n)
 - [Lifehacker] [Here’s How Much Bad Habits Can Cost You Per Year](https://lifehacker.com/here-s-how-much-bad-habits-can-cost-you-per-year-1850470176)
-- [Dev.to/JS] [Fortinet NSE4_FGT-6.4 Exam PDF questions [2023] For Instant Success](https://dev.to/jack1898oliver/fortinet-nse4fgt-64-exam-pdf-questions-2023-for-instant-success-41co)
-- [Dev.to/JS] [Receita de Menu Hambúrguer](https://dev.to/ramoscarloseduardo/receita-de-menu-hamburguer-1ae0)
-- [Dev.to/JS] [🎤 Building the biggest list of useful open-source libraries 🎉🥳😎](https://dev.to/github20k/building-the-biggest-list-of-useful-open-source-libraries-2ppk)
-- [Dev.to/JS] [Harnessing the Power of Node.js for Automated Deployment and Continuous Delivery](https://dev.to/folasayosamuel/harnessing-the-power-of-nodejs-for-automated-deployment-and-continuous-delivery-1fk0)
 - [Lifehacker] [This Sensor Helps You Match Any Paint Color, and It’s 40% Off](https://lifehacker.com/this-sensor-helps-you-match-any-paint-color-and-it-s-4-1850470418)
 - [Lifehacker] [What&#39;s New on Paramount+ in June 2023](https://lifehacker.com/whats-new-on-paramount-in-june-2023-1850471712)
 - [Lifehacker] [Get Ready Now for Prime Day 2023](https://lifehacker.com/get-ready-now-for-prime-day-2023-1850470592)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do When You Think Your Kid Is Being Punished Unfairly at School](https://lifehacker.com/what-to-do-when-you-think-your-kid-is-being-punished-un-1850462723)
 - [Lifehacker] [The 10 Most Affordable Beach Towns in the U.S.](https://lifehacker.com/the-10-most-affordable-beach-towns-in-the-u-s-1850465352)
 - [Lifehacker] [Make These Pickle Fries, Which Rule](https://lifehacker.com/make-these-pickle-fries-which-rule-1850467287)
-- [Lifehacker] [The Best Side Hustles With Little or No Start-Up Costs](https://lifehacker.com/the-best-side-hustles-with-little-or-no-start-up-costs-1850467111)
-- [Lifehacker] [You Can Get a Lifetime License to Microsoft Office for $30](https://lifehacker.com/you-can-get-a-lifetime-license-to-microsoft-office-for-1850451844)
-- [Lifehacker] [These Are the Meatiest Deals for National Hamburger Day](https://lifehacker.com/these-are-the-meatiest-deals-for-national-hamburger-day-1850466662)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Side Hustles With Little or No Start-Up Costs](https://lifehacker.com/the-best-side-hustles-with-little-or-no-start-up-costs-1850467111)<!-- TECH-POSTS:END -->
 
 ---
 
