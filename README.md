@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Rise and Fall of Lazerpay: Painful Lessons Learned from a Nigerian Web3 Startup](https://dev.to/basheerdotdev/the-rise-and-fall-of-lazerpay-painful-lessons-learned-from-a-nigerian-web3-startup-2g6a)
+- [Dev.to/JS] [Aplicação de Referência Empresarial em JavaScript - Contoso Real Estate](https://dev.to/azure/aplicacao-de-referencia-empresarial-em-javascript-contoso-real-estate-23ia)
+- [Dev.to/JS] [AWS TURN server: In 7 Simple Steps](https://dev.to/alakkadshaw/aws-turn-server-in-7-simple-steps-226e)
 - [Dev.to/JS] [Day 114 of #365DaysOfCode — Exploring Testing Frameworks](https://dev.to/arashjangali/day-114-of-365daysofcode-exploring-testing-frameworks-3gno)
 - [Lifehacker] [This Sensor Helps You Match Any Paint Color, and It’s 40% Off](https://lifehacker.com/this-sensor-helps-you-match-any-paint-color-and-it-s-4-1850470418)
 - [Dev.to/JS] [React Concepts Every React Developer Should know.](https://dev.to/uniquemw/react-concepts-every-react-developer-should-know-5266)
@@ -39,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Yard Needs a Sensory Garden Path](https://lifehacker.com/your-yard-needs-a-sensory-garden-path-1850468088)
 - [Dev.to/JS] [Effective Error Handling in JavaScript: Best Practices](https://dev.to/eckdev/effective-error-handling-in-javascript-best-practices-44cj)
 - [Lifehacker] [How to Store Bread, According to Your Bread Personality](https://lifehacker.com/how-to-store-bread-according-to-your-bread-personality-1850470334)
-- [Dev.to/JS] [MVC &lpar;Model View Controller&rpar;](https://dev.to/isaacalves7/mvc-model-view-controller-4d9b)
-- [Dev.to/JS] [Does NaN actually means Not-a-Number?](https://dev.to/himu243/does-nan-actually-means-not-a-number-5acf)
-- [Dev.to/JS] [Arquitetura Hexagonal &lpar;Ports &amp; Adapters&rpar;](https://dev.to/isaacalves7/arquitetura-hexagonal-ports-adapters-4j90)
 - [Lifehacker] [What&#39;s New on Netflix in June 2023](https://lifehacker.com/whats-new-on-netflix-in-june-2023-1850470621)
 - [Lifehacker] [Make a Bee-Friendly Watering Hole for Your Garden](https://lifehacker.com/make-a-bee-friendly-watering-hole-for-your-garden-1850468165)
 - [Lifehacker] [Earn College Credits Before Stepping Foot on Campus](https://lifehacker.com/earn-college-credits-before-stepping-foot-on-campus-1850469845)
