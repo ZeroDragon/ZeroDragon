@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Balanced Parenthesis](https://dev.to/amitgharge/balanced-parenthesis-3g74)
 - [Dev.to/JS] [&quot;Mastering the Art of Web Design: Unleash Your Creativity!&quot;](https://dev.to/aryankit_9cr/mastering-the-art-of-web-design-unleash-your-creativity-43hm)
 - [Dev.to/JS] [Edify &lpar;online code editor plugin&rpar;](https://dev.to/rahulsemwal/edify-online-code-editor-plugin-1ngn)
 - [Dev.to/JS] [Fuzzy search for Astro using fzf and Preact](https://dev.to/stefankolb/fuzzy-search-for-astro-using-fzf-and-preact-2p32)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A lesson in printing errors within try catch blocks](https://dev.to/austincoleman/a-lesson-in-printing-errors-within-try-catch-blocks-kb8)
 - [Dev.to/JS] [Service Workers](https://dev.to/anuradha9712/service-workers-4h58)
 - [Dev.to/JS] [Enhancing Your Existing ReactJS Application with TypeScript and Absolute Imports](https://dev.to/willochs316/enhancing-your-existing-reactjs-application-with-typescript-and-absolute-imports-hla)
-- [Dev.to/JS] [The Rise and Fall of Lazerpay: Painful Lessons Learned from a Nigerian Web3 Startup](https://dev.to/basheerdotdev/the-rise-and-fall-of-lazerpay-painful-lessons-learned-from-a-nigerian-web3-startup-2g6a)
 - [Lifehacker] [This Sensor Helps You Match Any Paint Color, and It’s 40% Off](https://lifehacker.com/this-sensor-helps-you-match-any-paint-color-and-it-s-4-1850470418)
 - [Lifehacker] [What&#39;s New on Paramount+ in June 2023](https://lifehacker.com/whats-new-on-paramount-in-june-2023-1850471712)
 - [Lifehacker] [Get Ready Now for Prime Day 2023](https://lifehacker.com/get-ready-now-for-prime-day-2023-1850470592)
