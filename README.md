@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
+- [Dev.to/JS] [The Art of Debugging in Software Development: A Comprehensive Guide](https://dev.to/siliconmachine/the-art-of-debugging-in-software-development-a-comprehensive-guide-1nj)
+- [Dev.to/JS] [Setting up an auto-email micro function for Firebase RTDB](https://dev.to/wra-sol/setting-up-an-auto-email-micro-function-for-firebase-rtdb-1hm2)
+- [Lifehacker] [Why Make Jam When You Could Make a Compote?](https://lifehacker.com/why-make-jam-when-you-could-make-a-compote-1850476917)
+- [Dev.to/JS] [Test a hook throwing errors in React 18 with renderHook from Testing Library 🚨🦑](https://dev.to/alexclaes/test-a-hook-throwing-errors-in-react-18-with-renderhook-from-testing-library-20g8)
+- [Lifehacker] [You Can Get Windows 11 Pro for 80% Off Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-80-off-right-now-1850470393)
 - [Dev.to/JS] [ESLint: Plugins vs Rules &lpar;EN&rpar;](https://dev.to/dmytrych/eslint-plugins-vs-rules-en-2k8d)
 - [Lifehacker] [You Should Use These Free SAT Prep Apps](https://lifehacker.com/you-should-use-these-free-sat-prep-apps-1850475748)
 - [Dev.to/JS] [Developer training Developers!](https://dev.to/vicky__mutai/developer-training-developers-5d7d)
@@ -39,11 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to publish a React Component without even including React?](https://dev.to/aryan_shourie/how-to-publish-a-react-component-without-even-including-react-3kg1)
 - [Lifehacker] [What I Wish I’d Known Before I Bought a Hydroponic Gardening Tower](https://lifehacker.com/what-i-wish-i-d-known-before-i-bought-a-hydroponic-gard-1850468170)
 - [Dev.to/JS] [Using useMutation to make an advanced toggle in React](https://dev.to/propelauth/using-usemutation-to-make-an-advanced-toggle-in-react-3dnp)
-- [Dev.to/JS] [What are javascript loop best practices?](https://dev.to/robiulhr/what-are-javascript-loop-best-practices-4m4e)
 - [Lifehacker] [Make This Classic French Base and Use It In Everything](https://lifehacker.com/make-this-classic-french-base-and-use-it-in-everything-1850327569)
-- [Dev.to/JS] [30 Programming YouTubers You Need to Subscribe To](https://dev.to/hb/30-programming-youtubers-you-need-to-subscribe-to-4gg)
 - [Lifehacker] [Why Now Is the Best Time to Find Running Shoes on Sale](https://lifehacker.com/why-now-is-the-best-time-to-find-running-shoes-on-sale-1850471299)
-- [Dev.to/JS] [7 Awesome VS Code Extensions You Should Try](https://dev.to/nitinfab/7-awesome-vs-code-extensions-you-should-try-1jfj)
 - [Lifehacker] [This Free App Unlocks Hidden Features on Your PC](https://lifehacker.com/this-free-app-unlocks-hidden-features-on-your-pc-1850473800)
 - [Lifehacker] [How to Host &lpar;or Fake&rpar; a Seance](https://lifehacker.com/how-to-host-or-fake-a-seance-1850462231)
 - [Lifehacker] [What People Are Getting Wrong This Week: Fentanyl](https://lifehacker.com/what-people-are-getting-wrong-this-week-fentanyl-1850469668)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Netflix in June 2023](https://lifehacker.com/whats-new-on-netflix-in-june-2023-1850470621)
 - [Lifehacker] [Make a Bee-Friendly Watering Hole for Your Garden](https://lifehacker.com/make-a-bee-friendly-watering-hole-for-your-garden-1850468165)
 - [Lifehacker] [Earn College Credits Before Stepping Foot on Campus](https://lifehacker.com/earn-college-credits-before-stepping-foot-on-campus-1850469845)
-- [Lifehacker] [How to Block YouTube Ads on Your Android TV](https://lifehacker.com/how-to-block-youtube-ads-on-your-android-tv-1850468423)
-- [Lifehacker] [Can Green Tea Matcha Really Help ADHD?](https://lifehacker.com/can-green-tea-matcha-really-help-adhd-1850467853)
-- [Lifehacker] [The College Classes You Should Take During the Summer &lpar;and the Ones You Shouldn’t&rpar;](https://lifehacker.com/the-college-classes-you-should-take-during-the-summer-1850467238)
-- [Lifehacker] [Netflix’s Free Password Sharing Is Over &lpar;but Here’s How to Do It Anyway&rpar;](https://lifehacker.com/netflixs-new-password-sharing-rules-and-how-to-get-aro-1850058887)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Block YouTube Ads on Your Android TV](https://lifehacker.com/how-to-block-youtube-ads-on-your-android-tv-1850468423)<!-- TECH-POSTS:END -->
 
 ---
 
