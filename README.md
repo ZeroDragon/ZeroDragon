@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Here’s How Much Bad Habits Can Cost You Per Year](https://lifehacker.com/here-s-how-much-bad-habits-can-cost-you-per-year-1850470176)
+- [Dev.to/JS] [Fortinet NSE4_FGT-6.4 Exam PDF questions [2023] For Instant Success](https://dev.to/jack1898oliver/fortinet-nse4fgt-64-exam-pdf-questions-2023-for-instant-success-41co)
+- [Dev.to/JS] [Receita de Menu Hambúrguer](https://dev.to/ramoscarloseduardo/receita-de-menu-hamburguer-1ae0)
 - [Dev.to/JS] [🎤 Building the biggest list of useful open-source libraries 🎉🥳😎](https://dev.to/github20k/building-the-biggest-list-of-useful-open-source-libraries-2ppk)
 - [Dev.to/JS] [Harnessing the Power of Node.js for Automated Deployment and Continuous Delivery](https://dev.to/folasayosamuel/harnessing-the-power-of-nodejs-for-automated-deployment-and-continuous-delivery-1fk0)
 - [Dev.to/JS] [Front-End, o mundo além de pintar botões.](https://dev.to/edvaldolima/front-end-o-mundo-alem-de-pintar-botoes-32ak)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learning React : about JSX](https://dev.to/rabibsust/learning-react-day-2-li5)
 - [Dev.to/JS] [How to fix QuickBooks search is not working?](https://dev.to/elinawilliam12/how-to-fix-quickbooks-search-is-not-working-417)
 - [Dev.to/JS] [Introduction to Web Development](https://dev.to/tina_popli/introduction-to-web-development-2al5)
-- [Dev.to/JS] [Balanced Parenthesis](https://dev.to/amitgharge/balanced-parenthesis-3g74)
-- [Dev.to/JS] [&quot;Mastering the Art of Web Design: Unleash Your Creativity!&quot;](https://dev.to/aryankit_9cr/mastering-the-art-of-web-design-unleash-your-creativity-43hm)
 - [Lifehacker] [This Sensor Helps You Match Any Paint Color, and It’s 40% Off](https://lifehacker.com/this-sensor-helps-you-match-any-paint-color-and-it-s-4-1850470418)
 - [Lifehacker] [What&#39;s New on Paramount+ in June 2023](https://lifehacker.com/whats-new-on-paramount-in-june-2023-1850471712)
 - [Lifehacker] [Get Ready Now for Prime Day 2023](https://lifehacker.com/get-ready-now-for-prime-day-2023-1850470592)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s a Way to Make Sure You Actually Read the Books You Buy](https://lifehacker.com/heres-a-way-to-make-sure-actually-read-the-books-you-bu-1850466169)
 - [Lifehacker] [The DIY Home Repairs Most Likely to Kill You](https://lifehacker.com/the-diy-home-repairs-most-likely-to-kill-you-1850465748)
 - [Lifehacker] [Instant Mashed Potatoes Make the Most Flavorful Casserole Crust](https://lifehacker.com/instant-mashed-potatoes-make-the-most-flavorful-cassero-1850465646)
-- [Lifehacker] [You Need a New App to Keep Watching &#39;Max&#39;](https://lifehacker.com/heres-how-much-a-max-subscription-will-cost-you-after-m-1850329419)
-- [Lifehacker] [Use an Allergy Screen to Keep Your Windows Open and Pollen Out](https://lifehacker.com/use-an-allergy-screen-to-keep-your-windows-open-and-pol-1850464055)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Need a New App to Keep Watching &#39;Max&#39;](https://lifehacker.com/heres-how-much-a-max-subscription-will-cost-you-after-m-1850329419)<!-- TECH-POSTS:END -->
 
 ---
 
