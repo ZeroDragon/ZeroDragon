@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get $20 Off the Stock Investing App Tkyr](https://lifehacker.com/you-can-get-20-off-the-stock-investing-app-tkyr-1850470510)
+- [Dev.to/JS] [The Importance of TypeScript in Frontend Development Compared to JavaScript](https://dev.to/zeeshanhshaheen/the-importance-of-typescript-in-frontend-development-compared-to-javascript-3emb)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
 - [Dev.to/JS] [The Art of Debugging in Software Development: A Comprehensive Guide](https://dev.to/siliconmachine/the-art-of-debugging-in-software-development-a-comprehensive-guide-1nj)
 - [Dev.to/JS] [Setting up an auto-email micro function for Firebase RTDB](https://dev.to/wra-sol/setting-up-an-auto-email-micro-function-for-firebase-rtdb-1hm2)
@@ -44,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [O Melhor gerenciador de pacotes da atualidade](https://dev.to/palast/o-melhor-gerenciador-de-pacotes-da-atualidade-4dej)
 - [Dev.to/JS] [How to publish a React Component without even including React?](https://dev.to/aryan_shourie/how-to-publish-a-react-component-without-even-including-react-3kg1)
 - [Lifehacker] [What I Wish I’d Known Before I Bought a Hydroponic Gardening Tower](https://lifehacker.com/what-i-wish-i-d-known-before-i-bought-a-hydroponic-gard-1850468170)
-- [Dev.to/JS] [Using useMutation to make an advanced toggle in React](https://dev.to/propelauth/using-usemutation-to-make-an-advanced-toggle-in-react-3dnp)
 - [Lifehacker] [Make This Classic French Base and Use It In Everything](https://lifehacker.com/make-this-classic-french-base-and-use-it-in-everything-1850327569)
 - [Lifehacker] [Why Now Is the Best Time to Find Running Shoes on Sale](https://lifehacker.com/why-now-is-the-best-time-to-find-running-shoes-on-sale-1850471299)
 - [Lifehacker] [This Free App Unlocks Hidden Features on Your PC](https://lifehacker.com/this-free-app-unlocks-hidden-features-on-your-pc-1850473800)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Store Bread, According to Your Bread Personality](https://lifehacker.com/how-to-store-bread-according-to-your-bread-personality-1850470334)
 - [Lifehacker] [What&#39;s New on Netflix in June 2023](https://lifehacker.com/whats-new-on-netflix-in-june-2023-1850470621)
 - [Lifehacker] [Make a Bee-Friendly Watering Hole for Your Garden](https://lifehacker.com/make-a-bee-friendly-watering-hole-for-your-garden-1850468165)
-- [Lifehacker] [Earn College Credits Before Stepping Foot on Campus](https://lifehacker.com/earn-college-credits-before-stepping-foot-on-campus-1850469845)
-- [Lifehacker] [How to Block YouTube Ads on Your Android TV](https://lifehacker.com/how-to-block-youtube-ads-on-your-android-tv-1850468423)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Earn College Credits Before Stepping Foot on Campus](https://lifehacker.com/earn-college-credits-before-stepping-foot-on-campus-1850469845)<!-- TECH-POSTS:END -->
 
 ---
 
