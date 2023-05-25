@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Recursion to remove unwanted values from Object](https://dev.to/amitgharge/using-recursion-to-remove-unwanted-values-from-object-442l)
+- [Dev.to/JS] [Learning React: Day 2](https://dev.to/rabibsust/learning-react-day-2-li5)
 - [Dev.to/JS] [How to fix QuickBooks search is not working?](https://dev.to/elinawilliam12/how-to-fix-quickbooks-search-is-not-working-417)
 - [Dev.to/JS] [Introduction to Web Development](https://dev.to/tina_popli/introduction-to-web-development-2al5)
 - [Dev.to/JS] [Balanced Parenthesis](https://dev.to/amitgharge/balanced-parenthesis-3g74)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing Scripter&#39;s Rift API: Unlock Limitless Possibilities for Game Development](https://dev.to/srift/introducing-scripters-rift-api-unlock-limitless-possibilities-for-game-development-31dm)
 - [Dev.to/JS] [Arrays-AI: Utilizing AI for Data Analysis in JavaScript](https://dev.to/alfredoaguiararce/arrays-ai-utilizing-ai-for-data-analysis-in-javascript-5h9p)
 - [Dev.to/JS] [Managing a blog with AWS Amplify Studio](https://dev.to/albac/managing-a-blog-with-aws-amplify-studio-1bgd)
-- [Dev.to/JS] [Optimise your code with these 5 JavaScript best practices 🚀🔥](https://dev.to/arjuncodess/optimise-your-code-with-these-5-javascript-best-practices-a01)
-- [Dev.to/JS] [A lesson in printing errors within try catch blocks](https://dev.to/austincoleman/a-lesson-in-printing-errors-within-try-catch-blocks-kb8)
 - [Lifehacker] [This Sensor Helps You Match Any Paint Color, and It’s 40% Off](https://lifehacker.com/this-sensor-helps-you-match-any-paint-color-and-it-s-4-1850470418)
 - [Lifehacker] [What&#39;s New on Paramount+ in June 2023](https://lifehacker.com/whats-new-on-paramount-in-june-2023-1850471712)
 - [Lifehacker] [Get Ready Now for Prime Day 2023](https://lifehacker.com/get-ready-now-for-prime-day-2023-1850470592)
