@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Need to Extend the &#39;Undo Send&#39; Timer on Your Email](https://lifehacker.com/you-need-to-extend-the-undo-send-timer-on-your-email-1850476984)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Uh, an $8,000 ‘Curb Couch’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-uh-an-8-1850471833)
+- [Dev.to/JS] [Express.js Server Error Handling Explained](https://dev.to/code_black/expressjs-server-error-handling-explained-2e4d)
 - [Lifehacker] [Make a Perverted Trifle With Pop-Tarts](https://lifehacker.com/make-a-perverted-trifle-with-pop-tarts-1850477191)
 - [Dev.to/JS] [Exploring the Differences between SSR, SSG, CSR and ISR. Which is the Best Approach? &lpar;with diagrams&rpar;](https://dev.to/martygo/exploring-the-differences-between-ssr-ssg-csr-and-isr-which-is-the-best-approach-43a3)
 - [Dev.to/JS] [How to Build a Choropleth Map in JavaScript](https://dev.to/andreykh1985/how-to-build-a-choropleth-map-in-javascript-1672)
@@ -37,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Effective Techniques for Code Review in Software Engineering](https://dev.to/documatic/effective-techniques-for-code-review-in-software-engineering-29i0)
 - [Dev.to/JS] [How to select the proper web development company for your business?](https://dev.to/infydots99/how-to-select-the-proper-web-development-company-for-your-business-19fo)
 - [Dev.to/JS] [Unraveling JavaScript&#39;s Immutable Secrets: The Dance Between Primitives and Objects](https://dev.to/prsna1230/unraveling-javascripts-immutable-secrets-the-dance-between-primitives-and-objects-321i)
-- [Dev.to/JS] [js-awe: An async execution planner](https://dev.to/josuamanuel/js-awe-an-async-execution-planner-1a7g)
 - [Crazy Programmer] [How to Hire Great Software Engineers – Standards, Tips &amp; More](https://www.thecrazyprogrammer.com/2023/05/how-to-hire-great-software-engineers.html)
 - [Lifehacker] [You Can Get $20 Off the Stock Investing App Tkyr](https://lifehacker.com/you-can-get-20-off-the-stock-investing-app-tkyr-1850470510)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Sensor Helps You Match Any Paint Color, and It’s 40% Off](https://lifehacker.com/this-sensor-helps-you-match-any-paint-color-and-it-s-4-1850470418)
 - [Lifehacker] [What&#39;s New on Paramount+ in June 2023](https://lifehacker.com/whats-new-on-paramount-in-june-2023-1850471712)
 - [Lifehacker] [Get Ready Now for Prime Day 2023](https://lifehacker.com/get-ready-now-for-prime-day-2023-1850470592)
-- [Lifehacker] [Pop Your Corn in Ghee for Greaseless Buttery Flavor](https://lifehacker.com/pop-your-corn-in-ghee-for-greaseless-buttery-flavor-1850470625)
-- [Lifehacker] [You Can Get a Refurbished MacBook Air &lpar;and a Lifetime of Microsoft Office&rpar; for 25% Off](https://lifehacker.com/you-can-get-a-refurbished-macbook-air-and-a-lifetime-o-1850470454)
-- [Lifehacker] [Your Yard Needs a Sensory Garden Path](https://lifehacker.com/your-yard-needs-a-sensory-garden-path-1850468088)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Pop Your Corn in Ghee for Greaseless Buttery Flavor](https://lifehacker.com/pop-your-corn-in-ghee-for-greaseless-buttery-flavor-1850470625)<!-- TECH-POSTS:END -->
 
 ---
 
