@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to select the proper web development company for your business?](https://dev.to/infydots99/how-to-select-the-proper-web-development-company-for-your-business-19fo)
+- [Dev.to/JS] [Unraveling JavaScript&#39;s Immutable Secrets: The Dance Between Primitives and Objects](https://dev.to/prsna1230/unraveling-javascripts-immutable-secrets-the-dance-between-primitives-and-objects-321i)
+- [Dev.to/JS] [js-awe: An async execution planner](https://dev.to/josuamanuel/js-awe-an-async-execution-planner-1a7g)
+- [Dev.to/JS] [FreeCodeCamp: Find the longest word in a string. Basic Algorithm 4](https://dev.to/ifeoma/freecodecamp-find-the-longest-word-in-a-string-basic-algorithm-4-5amg)
+- [Dev.to/JS] [Easy way to build Outside Click Popup Component in Vue.js](https://dev.to/nirazanbasnet/easy-way-to-build-outside-click-popup-component-in-vuejs-2fj8)
 - [Crazy Programmer] [How to Hire Great Software Engineers – Standards, Tips &amp; More](https://www.thecrazyprogrammer.com/2023/05/how-to-hire-great-software-engineers.html)
 - [Dev.to/JS] [The Challenges of Preparing for a JavaScript Job Interview and the Power of the &quot;JavaScript Interview Bible 2023&quot;](https://dev.to/nezirzahirovic/the-challenges-of-preparing-for-a-javascript-job-interview-and-the-power-of-the-javascript-interview-bible-2023-4536)
 - [Dev.to/JS] [JS To TS（vscode plugin）](https://dev.to/akclown/js-to-ts-42ki)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Setup VPC on AWS](https://dev.to/mohammadfaisal/how-to-setup-vpc-on-aws-3li6)
 - [Dev.to/JS] [Learn serverless on AWS step-by-step - Emails](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-emails-49hp)
 - [Dev.to/JS] [5 Minutes to Master the Micro-Universe of Microservices](https://dev.to/shubhamt619/5-minutes-to-master-the-micro-universe-of-microservices-2jh5)
-- [Dev.to/JS] [The One Secret That Will Make You a Coding Pro!](https://dev.to/qwertyroop/the-one-secret-that-will-make-you-a-coding-pro-123h)
-- [Dev.to/JS] [Discover React.js Advanced Techniques: Components and State Handling](https://dev.to/dotarjun/discover-reactjs-advanced-techniques-components-and-state-handling-2mfb)
-- [Dev.to/JS] [Simplifying JavaScript Code with Arrow Functions](https://dev.to/thunter1987/simplifying-javascript-code-with-arrow-functions-2me8)
-- [Dev.to/JS] [RxJS: Avoid an easy mistake when using `startWith`](https://dev.to/maxime1992/rxjs-avoid-an-easy-mistake-when-using-startwith-4ano)
-- [Dev.to/JS] [Yarn Modern with Plug’n’Play and &quot;Zero-Installs&quot;](https://dev.to/spencercarnage/yarn-modern-with-plugnplay-and-zero-installs-6k8)
 - [Lifehacker] [You Can Get $20 Off the Stock Investing App Tkyr](https://lifehacker.com/you-can-get-20-off-the-stock-investing-app-tkyr-1850470510)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
 - [Lifehacker] [Why Make Jam When You Could Make a Compote?](https://lifehacker.com/why-make-jam-when-you-could-make-a-compote-1850476917)
