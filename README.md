@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Real Usage of shareReplay in Angular](https://dev.to/krivanek06/the-real-usage-of-sharereplay-in-angular-4fpa)
+- [Lifehacker] [Two Keys to Optimizing Your FAFSA and &lpar;Hopefully&rpar; Getting More Financial Aid](https://lifehacker.com/two-keys-to-optimizing-your-fafsa-and-hopefully-getti-1850480093)
 - [Lifehacker] [Install a Stock Tank for a Cheap and Easy Backyard Pool](https://lifehacker.com/install-a-stock-tank-for-a-cheap-and-easy-backyard-pool-1850478309)
 - [Dev.to/JS] [Complex Menus Made Easy with Doodle 0.9.2](https://dev.to/pusolito/complex-menus-made-easy-with-doodle-092-4afm)
 - [Lifehacker] [This Is How Long Your Cash Physically Lasts](https://lifehacker.com/this-is-how-long-your-cash-physically-lasts-1850479624)
@@ -43,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2667. LeetCode&#39;s Create Hello World Function - Extremely Simple One line JS Solution Beats 99% in Runtime](https://dev.to/verisimilitudex/2667-leetcodes-create-hello-world-function-extremely-simple-one-line-js-solution-beats-99-in-runtime-3gf6)
 - [Lifehacker] [The 20 Most Graphically-Impressive Video Games You Should Play](https://lifehacker.com/the-20-most-graphically-impressive-video-games-you-shou-1850478080)
 - [Dev.to/JS] [Demystifying JavaScript Functions: A Guide to Function Types](https://dev.to/abomisr/demystifying-javascript-functions-a-guide-to-function-types-5b4e)
-- [Dev.to/JS] [File Upload Security and Malware Protection](https://dev.to/austingil/file-upload-security-and-malware-protection-23fn)
 - [Lifehacker] [10 Unexpected Benefits to Negotiate When You Sign a New Lease &lpar;Besides Rent&rpar;](https://lifehacker.com/10-unexpected-benefits-to-negotiate-when-you-sign-a-new-1850477938)
 - [Lifehacker] [You Need to Extend the &#39;Undo Send&#39; Timer on Your Email](https://lifehacker.com/you-need-to-extend-the-undo-send-timer-on-your-email-1850476984)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Uh, an $8,000 ‘Curb Couch’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-uh-an-8-1850471833)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Seven Things You Didn’t Know Come in Travel Size](https://lifehacker.com/seven-things-you-didn-t-know-come-in-travel-size-1850475233)
 - [Lifehacker] [Plant Mushrooms &lpar;and Other Fungi&rpar; in Your Garden to Improve Soil Health](https://lifehacker.com/plant-mushrooms-and-other-fungi-in-your-garden-to-imp-1850473472)
 - [Lifehacker] [Banish Cookie Boredom With Strawberry and Feta Cookies](https://lifehacker.com/banish-cookie-boredom-with-strawberry-and-feta-cookies-1850472464)
-- [Lifehacker] [What I Wish I’d Known Before I Bought a Hydroponic Gardening Tower](https://lifehacker.com/what-i-wish-i-d-known-before-i-bought-a-hydroponic-gard-1850468170)
-- [Lifehacker] [Make This Classic French Base and Use It In Everything](https://lifehacker.com/make-this-classic-french-base-and-use-it-in-everything-1850327569)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What I Wish I’d Known Before I Bought a Hydroponic Gardening Tower](https://lifehacker.com/what-i-wish-i-d-known-before-i-bought-a-hydroponic-gard-1850468170)<!-- TECH-POSTS:END -->
 
 ---
 
