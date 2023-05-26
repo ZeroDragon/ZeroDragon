@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Yarn Modern with Plug’n’Play and &quot;Zero-Installs&quot;](https://dev.to/spencercarnage/yarn-modern-with-plugnplay-and-zero-installs-6k8)
+- [Dev.to/JS] [Git Better with Commitlint and Conventional Commits](https://dev.to/thecharacterv/git-better-with-commitlint-and-conventional-commits-21pp)
 - [Dev.to/JS] [Laravel DO&#39;s, DONT&#39;s and It&#39;s alternatives.](https://dev.to/vamsikrishna71/laravel-dos-donts-and-its-alternatives-4ia4)
 - [Dev.to/JS] [Answer Dev Questions #1: Demystifying Special Characters in Paths](https://dev.to/daniacu/answer-dev-questions-1-demystifying-special-characters-in-paths-3hl9)
 - [Dev.to/JS] [JavaScript Fundamentals -03](https://dev.to/rajeevkumar504/javascript-fundamentals-03-2p54)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Importance of TypeScript in Frontend Development Compared to JavaScript](https://dev.to/zeeshanhshaheen/the-importance-of-typescript-in-frontend-development-compared-to-javascript-3emb)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
 - [Dev.to/JS] [The Art of Debugging in Software Development: A Comprehensive Guide](https://dev.to/siliconmachine/the-art-of-debugging-in-software-development-a-comprehensive-guide-1nj)
-- [Dev.to/JS] [Setting up an auto-email micro function for Firebase RTDB](https://dev.to/wra-sol/setting-up-an-auto-email-micro-function-for-firebase-rtdb-1hm2)
 - [Lifehacker] [Why Make Jam When You Could Make a Compote?](https://lifehacker.com/why-make-jam-when-you-could-make-a-compote-1850476917)
-- [Dev.to/JS] [Test a hook throwing errors in React 18 with renderHook from Testing Library 🚨🦑](https://dev.to/alexclaes/test-a-hook-throwing-errors-in-react-18-with-renderhook-from-testing-library-20g8)
 - [Lifehacker] [You Can Get Windows 11 Pro for 80% Off Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-80-off-right-now-1850470393)
 - [Lifehacker] [You Should Use These Free SAT Prep Apps](https://lifehacker.com/you-should-use-these-free-sat-prep-apps-1850475748)
 - [Lifehacker] [What to Do Instead of the Viral TikTok ‘Everything Shower’](https://lifehacker.com/what-to-do-instead-of-the-viral-tiktok-everything-show-1850475548)
