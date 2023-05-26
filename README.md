@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS To TS（vscode plugin）](https://dev.to/akclown/js-to-ts-42ki)
+- [Dev.to/JS] [[Watch] Loom 2 YouTube Video Transfer](https://dev.to/jared201/watch-loom-2-youtube-video-transfer-30o2)
+- [Dev.to/JS] [How to create modals in html &lpar;easy way&rpar;](https://dev.to/omarjab/how-to-create-modals-in-html-easy-way-1i8f)
+- [Dev.to/JS] [How to Setup VPC on AWS](https://dev.to/mohammadfaisal/how-to-setup-vpc-on-aws-3li6)
 - [Dev.to/JS] [Learn serverless on AWS step-by-step - Emails](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-emails-49hp)
 - [Dev.to/JS] [5 Minutes to Master the Micro-Universe of Microservices](https://dev.to/shubhamt619/5-minutes-to-master-the-micro-universe-of-microservices-2jh5)
 - [Dev.to/JS] [The One Secret That Will Make You a Coding Pro!](https://dev.to/qwertyroop/the-one-secret-that-will-make-you-a-coding-pro-123h)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [RxJS: Avoid an easy mistake when using `startWith`](https://dev.to/maxime1992/rxjs-avoid-an-easy-mistake-when-using-startwith-4ano)
 - [Dev.to/JS] [Yarn Modern with Plug’n’Play and &quot;Zero-Installs&quot;](https://dev.to/spencercarnage/yarn-modern-with-plugnplay-and-zero-installs-6k8)
 - [Dev.to/JS] [Git Better with Commitlint and Conventional Commits](https://dev.to/thecharacterv/git-better-with-commitlint-and-conventional-commits-21pp)
-- [Dev.to/JS] [Laravel DO&#39;s, DONT&#39;s and It&#39;s alternatives.](https://dev.to/vamsikrishna71/laravel-dos-donts-and-its-alternatives-4ia4)
-- [Dev.to/JS] [Answer Dev Questions #1: Demystifying Special Characters in Paths](https://dev.to/daniacu/answer-dev-questions-1-demystifying-special-characters-in-paths-3hl9)
-- [Dev.to/JS] [JavaScript Fundamentals -03](https://dev.to/rajeevkumar504/javascript-fundamentals-03-2p54)
-- [Dev.to/JS] [JavaScript Fundamentals -02](https://dev.to/rajeevkumar504/javascript-fundamentals-02-1k12)
 - [Lifehacker] [You Can Get $20 Off the Stock Investing App Tkyr](https://lifehacker.com/you-can-get-20-off-the-stock-investing-app-tkyr-1850470510)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
 - [Lifehacker] [Why Make Jam When You Could Make a Compote?](https://lifehacker.com/why-make-jam-when-you-could-make-a-compote-1850476917)
