@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Turn a Shrimp Egg Roll Into Chips and Dip](https://lifehacker.com/turn-a-shrimp-egg-roll-into-chips-and-dip-1850477321)
+- [Dev.to/JS] [Basic JavaScript Interview Question 4: Why do we use the word “debugger” in JavaScript?](https://dev.to/sharmakshitij18/basic-javascript-interview-question-4-why-do-we-use-the-word-debugger-in-javascript-49e1)
+- [Lifehacker] [This Is the Only Effective Way to Keep Deer Out of Your Garden](https://lifehacker.com/this-is-the-only-effective-way-to-keep-deer-out-of-your-1850479518)
+- [Dev.to/JS] [2667. LeetCode&#39;s Create Hello World Function - Extremely Simple One line JS Solution Beats 99% in Runtime](https://dev.to/verisimilitudex/2667-leetcodes-create-hello-world-function-extremely-simple-one-line-js-solution-beats-99-in-runtime-3gf6)
 - [Lifehacker] [The 20 Most Graphically-Impressive Video Games You Should Play](https://lifehacker.com/the-20-most-graphically-impressive-video-games-you-shou-1850478080)
 - [Dev.to/JS] [Demystifying JavaScript Functions: A Guide to Function Types](https://dev.to/abomisr/demystifying-javascript-functions-a-guide-to-function-types-5b4e)
 - [Dev.to/JS] [File Upload Security and Malware Protection](https://dev.to/austingil/file-upload-security-and-malware-protection-23fn)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get 50% Off Paramount+ With Showtime Right Now](https://lifehacker.com/you-can-get-50-off-paramount-with-showtime-right-now-1850478221)
 - [Lifehacker] [Why You Shouldn’t Call the Police on an Unhoused Person &lpar;and What to Do Instead&rpar;](https://lifehacker.com/why-you-shouldn-t-call-the-police-on-an-unhoused-person-1850344587)
 - [Dev.to/JS] [How to TRULY persist component state using a custom hook - useQueryParam](https://dev.to/tekno0ryder/how-to-truly-persist-component-state-using-a-custom-hook-usequeryparam-pej)
-- [Dev.to/JS] [The Best Icon Library for Web Development](https://dev.to/brojenuel/the-best-icon-library-for-web-development-pl0)
-- [Dev.to/JS] [How To Measure Your Server&#39;s Round-trip Time In Remix &lpar;React&rpar;](https://dev.to/pmbanugo/how-to-measure-your-servers-round-trip-time-in-remix-react-4kj2)
 - [Crazy Programmer] [How to Hire Great Software Engineers – Standards, Tips &amp; More](https://www.thecrazyprogrammer.com/2023/05/how-to-hire-great-software-engineers.html)
 - [Lifehacker] [You Can Get $20 Off the Stock Investing App Tkyr](https://lifehacker.com/you-can-get-20-off-the-stock-investing-app-tkyr-1850470510)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Host &lpar;or Fake&rpar; a Seance](https://lifehacker.com/how-to-host-or-fake-a-seance-1850462231)
 - [Lifehacker] [What People Are Getting Wrong This Week: Fentanyl](https://lifehacker.com/what-people-are-getting-wrong-this-week-fentanyl-1850469668)
 - [Lifehacker] [10 Simple Upgrades to Improve Your New Home Right Away](https://lifehacker.com/10-simple-upgrades-to-improve-your-new-home-right-away-1850466163)
-- [Lifehacker] [Here’s How Much Bad Habits Can Cost You Per Year](https://lifehacker.com/here-s-how-much-bad-habits-can-cost-you-per-year-1850470176)
-- [Lifehacker] [This Sensor Helps You Match Any Paint Color, and It’s 40% Off](https://lifehacker.com/this-sensor-helps-you-match-any-paint-color-and-it-s-4-1850470418)
-- [Lifehacker] [What&#39;s New on Paramount+ in June 2023](https://lifehacker.com/whats-new-on-paramount-in-june-2023-1850471712)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here’s How Much Bad Habits Can Cost You Per Year](https://lifehacker.com/here-s-how-much-bad-habits-can-cost-you-per-year-1850470176)<!-- TECH-POSTS:END -->
 
 ---
 
