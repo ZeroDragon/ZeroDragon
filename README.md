@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Answer Dev Questions #1: Demystifying Special Characters in Paths](https://dev.to/daniacu/answer-dev-questions-1-demystifying-special-characters-in-paths-3hl9)
 - [Dev.to/JS] [JavaScript Fundamentals -03](https://dev.to/rajeevkumar504/javascript-fundamentals-03-2p54)
 - [Dev.to/JS] [JavaScript Fundamentals -02](https://dev.to/rajeevkumar504/javascript-fundamentals-02-1k12)
 - [Dev.to/JS] [Mastering Frontend Development: Essential Skills and Best Practices](https://dev.to/akshu3011/mastering-frontend-development-essential-skills-and-best-practices-2741)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Windows 11 Pro for 80% Off Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-80-off-right-now-1850470393)
 - [Dev.to/JS] [ESLint: Plugins vs Rules &lpar;EN&rpar;](https://dev.to/dmytrych/eslint-plugins-vs-rules-en-2k8d)
 - [Lifehacker] [You Should Use These Free SAT Prep Apps](https://lifehacker.com/you-should-use-these-free-sat-prep-apps-1850475748)
-- [Dev.to/JS] [Developer training Developers!](https://dev.to/vicky__mutai/developer-training-developers-5d7d)
 - [Lifehacker] [What to Do Instead of the Viral TikTok ‘Everything Shower’](https://lifehacker.com/what-to-do-instead-of-the-viral-tiktok-everything-show-1850475548)
 - [Lifehacker] [Stop Making Cornstarch Slurries With Boring Water](https://lifehacker.com/stop-making-cornstarch-slurries-with-boring-water-1850475949)
 - [Lifehacker] [Seven Things You Didn’t Know Come in Travel Size](https://lifehacker.com/seven-things-you-didn-t-know-come-in-travel-size-1850475233)
