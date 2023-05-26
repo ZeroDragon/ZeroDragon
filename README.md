@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Minutes to Master the Micro-Universe of Microservices](https://dev.to/shubhamt619/5-minutes-to-master-the-micro-universe-of-microservices-2jh5)
+- [Dev.to/JS] [The One Secret That Will Make You a Coding Pro!](https://dev.to/qwertyroop/the-one-secret-that-will-make-you-a-coding-pro-123h)
+- [Dev.to/JS] [Discover React.js Advanced Techniques: Components and State Handling](https://dev.to/dotarjun/discover-reactjs-advanced-techniques-components-and-state-handling-2mfb)
 - [Dev.to/JS] [Simplifying JavaScript Code with Arrow Functions](https://dev.to/thunter1987/simplifying-javascript-code-with-arrow-functions-2me8)
 - [Dev.to/JS] [RxJS: Avoid an easy mistake when using `startWith`](https://dev.to/maxime1992/rxjs-avoid-an-easy-mistake-when-using-startwith-4ano)
 - [Dev.to/JS] [Yarn Modern with Plug’n’Play and &quot;Zero-Installs&quot;](https://dev.to/spencercarnage/yarn-modern-with-plugnplay-and-zero-installs-6k8)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Fundamentals -03](https://dev.to/rajeevkumar504/javascript-fundamentals-03-2p54)
 - [Dev.to/JS] [JavaScript Fundamentals -02](https://dev.to/rajeevkumar504/javascript-fundamentals-02-1k12)
 - [Dev.to/JS] [Mastering Frontend Development: Essential Skills and Best Practices](https://dev.to/akshu3011/mastering-frontend-development-essential-skills-and-best-practices-2741)
-- [Dev.to/JS] [Complications and Simplifications: Creating a Chess Application](https://dev.to/e4c5nf3d6/complications-and-simplifications-creating-a-chess-application-3hef)
-- [Dev.to/JS] [From Scratch to App: Building an Advice Generator with HTML, CSS, and JavaScript](https://dev.to/devlawrence/from-scratch-to-app-building-an-advice-generator-with-html-css-and-javascript-1pcg)
-- [Dev.to/JS] [Package Managers: Understanding npm, npx and yarn](https://dev.to/azhariel/package-managers-understanding-npm-npx-and-yarn-3j0c)
 - [Lifehacker] [You Can Get $20 Off the Stock Investing App Tkyr](https://lifehacker.com/you-can-get-20-off-the-stock-investing-app-tkyr-1850470510)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
 - [Lifehacker] [Why Make Jam When You Could Make a Compote?](https://lifehacker.com/why-make-jam-when-you-could-make-a-compote-1850476917)
