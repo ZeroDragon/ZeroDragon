@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [From Scratch to App: Building an Advice Generator with HTML, CSS, and JavaScript](https://dev.to/devlawrence/from-scratch-to-app-building-an-advice-generator-with-html-css-and-javascript-1pcg)
 - [Dev.to/JS] [Package Managers: Understanding npm, npx and yarn](https://dev.to/azhariel/package-managers-understanding-npm-npx-and-yarn-3j0c)
 - [Lifehacker] [You Can Get $20 Off the Stock Investing App Tkyr](https://lifehacker.com/you-can-get-20-off-the-stock-investing-app-tkyr-1850470510)
 - [Dev.to/JS] [The Importance of TypeScript in Frontend Development Compared to JavaScript](https://dev.to/zeeshanhshaheen/the-importance-of-typescript-in-frontend-development-compared-to-javascript-3emb)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Plant Mushrooms &lpar;and Other Fungi&rpar; in Your Garden to Improve Soil Health](https://lifehacker.com/plant-mushrooms-and-other-fungi-in-your-garden-to-imp-1850473472)
 - [Dev.to/JS] [Will chatgpt replace web developers?](https://dev.to/rafikadir/will-chatgpt-replace-web-developers-54ac)
 - [Lifehacker] [Banish Cookie Boredom With Strawberry and Feta Cookies](https://lifehacker.com/banish-cookie-boredom-with-strawberry-and-feta-cookies-1850472464)
-- [Dev.to/JS] [O Melhor gerenciador de pacotes da atualidade](https://dev.to/palast/o-melhor-gerenciador-de-pacotes-da-atualidade-4dej)
 - [Lifehacker] [What I Wish I’d Known Before I Bought a Hydroponic Gardening Tower](https://lifehacker.com/what-i-wish-i-d-known-before-i-bought-a-hydroponic-gard-1850468170)
 - [Lifehacker] [Make This Classic French Base and Use It In Everything](https://lifehacker.com/make-this-classic-french-base-and-use-it-in-everything-1850327569)
 - [Lifehacker] [Why Now Is the Best Time to Find Running Shoes on Sale](https://lifehacker.com/why-now-is-the-best-time-to-find-running-shoes-on-sale-1850471299)
