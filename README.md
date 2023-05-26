@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The 20 Most Graphically-Impressive Video Games You Should Play](https://lifehacker.com/the-20-most-graphically-impressive-video-games-you-shou-1850478080)
+- [Dev.to/JS] [Demystifying JavaScript Functions: A Guide to Function Types](https://dev.to/abomisr/demystifying-javascript-functions-a-guide-to-function-types-5b4e)
+- [Dev.to/JS] [File Upload Security and Malware Protection](https://dev.to/austingil/file-upload-security-and-malware-protection-23fn)
+- [Dev.to/JS] [Unleash the Power of JavaScript: Master the Best Practices and Write Top-Notch Code](https://dev.to/abomisr/unleash-the-power-of-javascript-master-the-best-practices-and-write-top-notch-code-5708)
+- [Lifehacker] [10 Unexpected Benefits to Negotiate When You Sign a New Lease &lpar;Besides Rent&rpar;](https://lifehacker.com/10-unexpected-benefits-to-negotiate-when-you-sign-a-new-1850477938)
+- [Dev.to/JS] [How to add auth system to Express.js](https://dev.to/orl0pl/how-to-add-auth-system-to-expressjs-1ao5)
+- [Dev.to/JS] [How to Code the Merge Sort Algorithm in JavaScript and Python](https://dev.to/nielsenjared/how-to-code-the-merge-sort-algorithm-in-javascript-and-python-3868)
 - [Lifehacker] [You Need to Extend the &#39;Undo Send&#39; Timer on Your Email](https://lifehacker.com/you-need-to-extend-the-undo-send-timer-on-your-email-1850476984)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Uh, an $8,000 ‘Curb Couch’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-uh-an-8-1850471833)
 - [Dev.to/JS] [Express.js Server Error Handling Explained](https://dev.to/code_black/expressjs-server-error-handling-explained-2e4d)
@@ -35,11 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to TRULY persist component state using a custom hook - useQueryParam](https://dev.to/tekno0ryder/how-to-truly-persist-component-state-using-a-custom-hook-usequeryparam-pej)
 - [Dev.to/JS] [The Best Icon Library for Web Development](https://dev.to/brojenuel/the-best-icon-library-for-web-development-pl0)
 - [Dev.to/JS] [How To Measure Your Server&#39;s Round-trip Time In Remix &lpar;React&rpar;](https://dev.to/pmbanugo/how-to-measure-your-servers-round-trip-time-in-remix-react-4kj2)
-- [Dev.to/JS] [Best Method to create Lightweight CSS File](https://dev.to/ehsaasweb22576/best-method-to-create-lightweight-css-file-156d)
-- [Dev.to/JS] [How to use i18n tags inside a computed prop in Vue](https://dev.to/raulsposito/how-to-use-i18n-tags-inside-a-computed-prop-in-vue-8gk)
-- [Dev.to/JS] [Effective Techniques for Code Review in Software Engineering](https://dev.to/documatic/effective-techniques-for-code-review-in-software-engineering-29i0)
-- [Dev.to/JS] [How to select the proper web development company for your business?](https://dev.to/infydots99/how-to-select-the-proper-web-development-company-for-your-business-19fo)
-- [Dev.to/JS] [Unraveling JavaScript&#39;s Immutable Secrets: The Dance Between Primitives and Objects](https://dev.to/prsna1230/unraveling-javascripts-immutable-secrets-the-dance-between-primitives-and-objects-321i)
 - [Crazy Programmer] [How to Hire Great Software Engineers – Standards, Tips &amp; More](https://www.thecrazyprogrammer.com/2023/05/how-to-hire-great-software-engineers.html)
 - [Lifehacker] [You Can Get $20 Off the Stock Investing App Tkyr](https://lifehacker.com/you-can-get-20-off-the-stock-investing-app-tkyr-1850470510)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Simple Upgrades to Improve Your New Home Right Away](https://lifehacker.com/10-simple-upgrades-to-improve-your-new-home-right-away-1850466163)
 - [Lifehacker] [Here’s How Much Bad Habits Can Cost You Per Year](https://lifehacker.com/here-s-how-much-bad-habits-can-cost-you-per-year-1850470176)
 - [Lifehacker] [This Sensor Helps You Match Any Paint Color, and It’s 40% Off](https://lifehacker.com/this-sensor-helps-you-match-any-paint-color-and-it-s-4-1850470418)
-- [Lifehacker] [What&#39;s New on Paramount+ in June 2023](https://lifehacker.com/whats-new-on-paramount-in-june-2023-1850471712)
-- [Lifehacker] [Get Ready Now for Prime Day 2023](https://lifehacker.com/get-ready-now-for-prime-day-2023-1850470592)
-- [Lifehacker] [Pop Your Corn in Ghee for Greaseless Buttery Flavor](https://lifehacker.com/pop-your-corn-in-ghee-for-greaseless-buttery-flavor-1850470625)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Paramount+ in June 2023](https://lifehacker.com/whats-new-on-paramount-in-june-2023-1850471712)<!-- TECH-POSTS:END -->
 
 ---
 
