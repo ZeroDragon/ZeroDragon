@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simplifying JavaScript Code with Arrow Functions](https://dev.to/thunter1987/simplifying-javascript-code-with-arrow-functions-2me8)
 - [Dev.to/JS] [RxJS: Avoid an easy mistake when using `startWith`](https://dev.to/maxime1992/rxjs-avoid-an-easy-mistake-when-using-startwith-4ano)
 - [Dev.to/JS] [Yarn Modern with Plug’n’Play and &quot;Zero-Installs&quot;](https://dev.to/spencercarnage/yarn-modern-with-plugnplay-and-zero-installs-6k8)
 - [Dev.to/JS] [Git Better with Commitlint and Conventional Commits](https://dev.to/thecharacterv/git-better-with-commitlint-and-conventional-commits-21pp)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From Scratch to App: Building an Advice Generator with HTML, CSS, and JavaScript](https://dev.to/devlawrence/from-scratch-to-app-building-an-advice-generator-with-html-css-and-javascript-1pcg)
 - [Dev.to/JS] [Package Managers: Understanding npm, npx and yarn](https://dev.to/azhariel/package-managers-understanding-npm-npx-and-yarn-3j0c)
 - [Lifehacker] [You Can Get $20 Off the Stock Investing App Tkyr](https://lifehacker.com/you-can-get-20-off-the-stock-investing-app-tkyr-1850470510)
-- [Dev.to/JS] [The Importance of TypeScript in Frontend Development Compared to JavaScript](https://dev.to/zeeshanhshaheen/the-importance-of-typescript-in-frontend-development-compared-to-javascript-3emb)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
 - [Lifehacker] [Why Make Jam When You Could Make a Compote?](https://lifehacker.com/why-make-jam-when-you-could-make-a-compote-1850476917)
 - [Lifehacker] [You Can Get Windows 11 Pro for 80% Off Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-80-off-right-now-1850470393)
