@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to TRULY persist component state using a custom hook - useQueryParam](https://dev.to/tekno0ryder/how-to-truly-persist-component-state-using-a-custom-hook-usequeryparam-pej)
+- [Dev.to/JS] [The Best Icon Library for Web Development](https://dev.to/brojenuel/the-best-icon-library-for-web-development-pl0)
+- [Dev.to/JS] [How To Measure Your Server&#39;s Round-trip Time In Remix &lpar;React&rpar;](https://dev.to/pmbanugo/how-to-measure-your-servers-round-trip-time-in-remix-react-4kj2)
 - [Dev.to/JS] [Best Method to create Lightweight CSS File](https://dev.to/ehsaasweb22576/best-method-to-create-lightweight-css-file-156d)
 - [Dev.to/JS] [How to use i18n tags inside a computed prop in Vue](https://dev.to/raulsposito/how-to-use-i18n-tags-inside-a-computed-prop-in-vue-8gk)
 - [Dev.to/JS] [Effective Techniques for Code Review in Software Engineering](https://dev.to/documatic/effective-techniques-for-code-review-in-software-engineering-29i0)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Easy way to build Outside Click Popup Component in Vue.js](https://dev.to/nirazanbasnet/easy-way-to-build-outside-click-popup-component-in-vuejs-2fj8)
 - [Crazy Programmer] [How to Hire Great Software Engineers – Standards, Tips &amp; More](https://www.thecrazyprogrammer.com/2023/05/how-to-hire-great-software-engineers.html)
 - [Dev.to/JS] [The Challenges of Preparing for a JavaScript Job Interview and the Power of the &quot;JavaScript Interview Bible 2023&quot;](https://dev.to/nezirzahirovic/the-challenges-of-preparing-for-a-javascript-job-interview-and-the-power-of-the-javascript-interview-bible-2023-4536)
-- [Dev.to/JS] [JS To TS（vscode plugin）](https://dev.to/akclown/js-to-ts-42ki)
-- [Dev.to/JS] [[Watch] Loom 2 YouTube Video Transfer](https://dev.to/jared201/watch-loom-2-youtube-video-transfer-30o2)
-- [Dev.to/JS] [How to create modals in html &lpar;easy way&rpar;](https://dev.to/omarjab/how-to-create-modals-in-html-easy-way-1i8f)
 - [Lifehacker] [You Can Get $20 Off the Stock Investing App Tkyr](https://lifehacker.com/you-can-get-20-off-the-stock-investing-app-tkyr-1850470510)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
 - [Lifehacker] [Why Make Jam When You Could Make a Compote?](https://lifehacker.com/why-make-jam-when-you-could-make-a-compote-1850476917)
