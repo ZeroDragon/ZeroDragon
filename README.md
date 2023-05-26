@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code Smell 214 - Duplicate Parameter Names](https://dev.to/mcsee/code-smell-214-duplicate-parameter-names-4a81)
+- [Lifehacker] [Make Pistachio Milk, the Perfect ‘Creamer’ for Your Summer Iced Coffees](https://lifehacker.com/pistachio-milk-is-the-perfect-creamer-for-your-summer-1850480319)
+- [Dev.to/JS] [What is new in ES2023? 👀](https://dev.to/jasmin/what-is-new-in-es2023-4bcm)
 - [Dev.to/JS] [Continuous Deployment Pipeline for React Apps](https://dev.to/mohammadfaisal/continuous-deployment-pipeline-for-react-apps-1ma3)
+- [Lifehacker] [How You Could Be Impacted If a Debt Ceiling Agreement Isn&#39;t Reached](https://lifehacker.com/how-you-could-be-impacted-if-a-debt-ceiling-agreement-i-1850480034)
 - [Dev.to/JS] [TypeScript Tuple Types: The What, Why, and How](https://dev.to/sachinchaurasiya/typescript-tuple-types-the-what-why-and-how-1ngm)
 - [Lifehacker] [Windows Is Finally Getting Support for RAR and 7z Archives](https://lifehacker.com/windows-is-finally-getting-support-for-rar-and-7z-archi-1850478854)
 - [Dev.to/JS] [Promesas en JavaScript](https://dev.to/ulisesserranop/promesas-en-javascript-8oe)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [File Upload Security and Malware Protection](https://dev.to/austingil/file-upload-security-and-malware-protection-23fn)
 - [Dev.to/JS] [Unleash the Power of JavaScript: Master the Best Practices and Write Top-Notch Code](https://dev.to/abomisr/unleash-the-power-of-javascript-master-the-best-practices-and-write-top-notch-code-5708)
 - [Lifehacker] [10 Unexpected Benefits to Negotiate When You Sign a New Lease &lpar;Besides Rent&rpar;](https://lifehacker.com/10-unexpected-benefits-to-negotiate-when-you-sign-a-new-1850477938)
-- [Dev.to/JS] [How to add auth system to Express.js](https://dev.to/orl0pl/how-to-add-auth-system-to-expressjs-1ao5)
-- [Dev.to/JS] [How to Code the Merge Sort Algorithm in JavaScript and Python](https://dev.to/nielsenjared/how-to-code-the-merge-sort-algorithm-in-javascript-and-python-3868)
 - [Lifehacker] [You Need to Extend the &#39;Undo Send&#39; Timer on Your Email](https://lifehacker.com/you-need-to-extend-the-undo-send-timer-on-your-email-1850476984)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Uh, an $8,000 ‘Curb Couch’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-uh-an-8-1850471833)
 - [Lifehacker] [Make a Perverted Trifle With Pop-Tarts](https://lifehacker.com/make-a-perverted-trifle-with-pop-tarts-1850477191)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Classic French Base and Use It In Everything](https://lifehacker.com/make-this-classic-french-base-and-use-it-in-everything-1850327569)
 - [Lifehacker] [Why Now Is the Best Time to Find Running Shoes on Sale](https://lifehacker.com/why-now-is-the-best-time-to-find-running-shoes-on-sale-1850471299)
 - [Lifehacker] [This Free App Unlocks Hidden Features on Your PC](https://lifehacker.com/this-free-app-unlocks-hidden-features-on-your-pc-1850473800)
-- [Lifehacker] [How to Host &lpar;or Fake&rpar; a Seance](https://lifehacker.com/how-to-host-or-fake-a-seance-1850462231)
-- [Lifehacker] [What People Are Getting Wrong This Week: Fentanyl](https://lifehacker.com/what-people-are-getting-wrong-this-week-fentanyl-1850469668)
-- [Lifehacker] [10 Simple Upgrades to Improve Your New Home Right Away](https://lifehacker.com/10-simple-upgrades-to-improve-your-new-home-right-away-1850466163)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Host &lpar;or Fake&rpar; a Seance](https://lifehacker.com/how-to-host-or-fake-a-seance-1850462231)<!-- TECH-POSTS:END -->
 
 ---
 
