@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make a Perverted Trifle With Pop-Tarts](https://lifehacker.com/make-a-perverted-trifle-with-pop-tarts-1850477191)
+- [Dev.to/JS] [Exploring the Differences between SSR, SSG, CSR and ISR. Which is the Best Approach? &lpar;with diagrams&rpar;](https://dev.to/martygo/exploring-the-differences-between-ssr-ssg-csr-and-isr-which-is-the-best-approach-43a3)
+- [Dev.to/JS] [How to Build a Choropleth Map in JavaScript](https://dev.to/andreykh1985/how-to-build-a-choropleth-map-in-javascript-1672)
+- [Dev.to/JS] [What is your favorite web development tool or framework, and what makes it valuable to you?](https://dev.to/himanshu20/what-is-your-favorite-web-development-tool-or-framework-and-what-makes-it-valuable-to-you-5e47)
+- [Lifehacker] [You Can Get 50% Off Paramount+ With Showtime Right Now](https://lifehacker.com/you-can-get-50-off-paramount-with-showtime-right-now-1850478221)
+- [Lifehacker] [Why You Shouldn’t Call the Police on an Unhoused Person &lpar;and What to Do Instead&rpar;](https://lifehacker.com/why-you-shouldn-t-call-the-police-on-an-unhoused-person-1850344587)
 - [Dev.to/JS] [How to TRULY persist component state using a custom hook - useQueryParam](https://dev.to/tekno0ryder/how-to-truly-persist-component-state-using-a-custom-hook-usequeryparam-pej)
 - [Dev.to/JS] [The Best Icon Library for Web Development](https://dev.to/brojenuel/the-best-icon-library-for-web-development-pl0)
 - [Dev.to/JS] [How To Measure Your Server&#39;s Round-trip Time In Remix &lpar;React&rpar;](https://dev.to/pmbanugo/how-to-measure-your-servers-round-trip-time-in-remix-react-4kj2)
@@ -32,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to select the proper web development company for your business?](https://dev.to/infydots99/how-to-select-the-proper-web-development-company-for-your-business-19fo)
 - [Dev.to/JS] [Unraveling JavaScript&#39;s Immutable Secrets: The Dance Between Primitives and Objects](https://dev.to/prsna1230/unraveling-javascripts-immutable-secrets-the-dance-between-primitives-and-objects-321i)
 - [Dev.to/JS] [js-awe: An async execution planner](https://dev.to/josuamanuel/js-awe-an-async-execution-planner-1a7g)
-- [Dev.to/JS] [FreeCodeCamp: Find the longest word in a string. Basic Algorithm 4](https://dev.to/ifeoma/freecodecamp-find-the-longest-word-in-a-string-basic-algorithm-4-5amg)
-- [Dev.to/JS] [Easy way to build Outside Click Popup Component in Vue.js](https://dev.to/nirazanbasnet/easy-way-to-build-outside-click-popup-component-in-vuejs-2fj8)
 - [Crazy Programmer] [How to Hire Great Software Engineers – Standards, Tips &amp; More](https://www.thecrazyprogrammer.com/2023/05/how-to-hire-great-software-engineers.html)
-- [Dev.to/JS] [The Challenges of Preparing for a JavaScript Job Interview and the Power of the &quot;JavaScript Interview Bible 2023&quot;](https://dev.to/nezirzahirovic/the-challenges-of-preparing-for-a-javascript-job-interview-and-the-power-of-the-javascript-interview-bible-2023-4536)
 - [Lifehacker] [You Can Get $20 Off the Stock Investing App Tkyr](https://lifehacker.com/you-can-get-20-off-the-stock-investing-app-tkyr-1850470510)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
 - [Lifehacker] [Why Make Jam When You Could Make a Compote?](https://lifehacker.com/why-make-jam-when-you-could-make-a-compote-1850476917)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get Ready Now for Prime Day 2023](https://lifehacker.com/get-ready-now-for-prime-day-2023-1850470592)
 - [Lifehacker] [Pop Your Corn in Ghee for Greaseless Buttery Flavor](https://lifehacker.com/pop-your-corn-in-ghee-for-greaseless-buttery-flavor-1850470625)
 - [Lifehacker] [You Can Get a Refurbished MacBook Air &lpar;and a Lifetime of Microsoft Office&rpar; for 25% Off](https://lifehacker.com/you-can-get-a-refurbished-macbook-air-and-a-lifetime-o-1850470454)
-- [Lifehacker] [Your Yard Needs a Sensory Garden Path](https://lifehacker.com/your-yard-needs-a-sensory-garden-path-1850468088)
-- [Lifehacker] [How to Store Bread, According to Your Bread Personality](https://lifehacker.com/how-to-store-bread-according-to-your-bread-personality-1850470334)
-- [Lifehacker] [What&#39;s New on Netflix in June 2023](https://lifehacker.com/whats-new-on-netflix-in-june-2023-1850470621)
-- [Lifehacker] [Make a Bee-Friendly Watering Hole for Your Garden](https://lifehacker.com/make-a-bee-friendly-watering-hole-for-your-garden-1850468165)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Yard Needs a Sensory Garden Path](https://lifehacker.com/your-yard-needs-a-sensory-garden-path-1850468088)<!-- TECH-POSTS:END -->
 
 ---
 
