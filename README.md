@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Method to create Lightweight CSS File](https://dev.to/ehsaasweb22576/best-method-to-create-lightweight-css-file-156d)
+- [Dev.to/JS] [How to use i18n tags inside a computed prop in Vue](https://dev.to/raulsposito/how-to-use-i18n-tags-inside-a-computed-prop-in-vue-8gk)
+- [Dev.to/JS] [Effective Techniques for Code Review in Software Engineering](https://dev.to/documatic/effective-techniques-for-code-review-in-software-engineering-29i0)
 - [Dev.to/JS] [How to select the proper web development company for your business?](https://dev.to/infydots99/how-to-select-the-proper-web-development-company-for-your-business-19fo)
 - [Dev.to/JS] [Unraveling JavaScript&#39;s Immutable Secrets: The Dance Between Primitives and Objects](https://dev.to/prsna1230/unraveling-javascripts-immutable-secrets-the-dance-between-primitives-and-objects-321i)
 - [Dev.to/JS] [js-awe: An async execution planner](https://dev.to/josuamanuel/js-awe-an-async-execution-planner-1a7g)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS To TS（vscode plugin）](https://dev.to/akclown/js-to-ts-42ki)
 - [Dev.to/JS] [[Watch] Loom 2 YouTube Video Transfer](https://dev.to/jared201/watch-loom-2-youtube-video-transfer-30o2)
 - [Dev.to/JS] [How to create modals in html &lpar;easy way&rpar;](https://dev.to/omarjab/how-to-create-modals-in-html-easy-way-1i8f)
-- [Dev.to/JS] [How to Setup VPC on AWS](https://dev.to/mohammadfaisal/how-to-setup-vpc-on-aws-3li6)
-- [Dev.to/JS] [Learn serverless on AWS step-by-step - Emails](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-emails-49hp)
-- [Dev.to/JS] [5 Minutes to Master the Micro-Universe of Microservices](https://dev.to/shubhamt619/5-minutes-to-master-the-micro-universe-of-microservices-2jh5)
 - [Lifehacker] [You Can Get $20 Off the Stock Investing App Tkyr](https://lifehacker.com/you-can-get-20-off-the-stock-investing-app-tkyr-1850470510)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
 - [Lifehacker] [Why Make Jam When You Could Make a Compote?](https://lifehacker.com/why-make-jam-when-you-could-make-a-compote-1850476917)
