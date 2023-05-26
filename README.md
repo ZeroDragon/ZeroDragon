@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Continuous Deployment Pipeline for React Apps](https://dev.to/mohammadfaisal/continuous-deployment-pipeline-for-react-apps-1ma3)
+- [Dev.to/JS] [TypeScript Tuple Types: The What, Why, and How](https://dev.to/sachinchaurasiya/typescript-tuple-types-the-what-why-and-how-1ngm)
+- [Lifehacker] [Windows Is Finally Getting Support for RAR and 7z Archives](https://lifehacker.com/windows-is-finally-getting-support-for-rar-and-7z-archi-1850478854)
+- [Dev.to/JS] [Promesas en JavaScript](https://dev.to/ulisesserranop/promesas-en-javascript-8oe)
+- [Dev.to/JS] [A comprehensive guide to Next.js 13 App Router - Part 1](https://dev.to/niazmorshed2007/a-comprehensive-guide-to-nextjs-13-app-router-part-1-41ki)
+- [Dev.to/JS] [15 VS code Shortcuts](https://dev.to/saifullah/15-vs-code-shortcuts-49bn)
 - [Lifehacker] [Turn a Shrimp Egg Roll Into Chips and Dip](https://lifehacker.com/turn-a-shrimp-egg-roll-into-chips-and-dip-1850477321)
 - [Dev.to/JS] [Basic JavaScript Interview Question 4: Why do we use the word “debugger” in JavaScript?](https://dev.to/sharmakshitij18/basic-javascript-interview-question-4-why-do-we-use-the-word-debugger-in-javascript-49e1)
 - [Lifehacker] [This Is the Only Effective Way to Keep Deer Out of Your Garden](https://lifehacker.com/this-is-the-only-effective-way-to-keep-deer-out-of-your-1850479518)
@@ -36,14 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Code the Merge Sort Algorithm in JavaScript and Python](https://dev.to/nielsenjared/how-to-code-the-merge-sort-algorithm-in-javascript-and-python-3868)
 - [Lifehacker] [You Need to Extend the &#39;Undo Send&#39; Timer on Your Email](https://lifehacker.com/you-need-to-extend-the-undo-send-timer-on-your-email-1850476984)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Uh, an $8,000 ‘Curb Couch’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-uh-an-8-1850471833)
-- [Dev.to/JS] [Express.js Server Error Handling Explained](https://dev.to/code_black/expressjs-server-error-handling-explained-2e4d)
 - [Lifehacker] [Make a Perverted Trifle With Pop-Tarts](https://lifehacker.com/make-a-perverted-trifle-with-pop-tarts-1850477191)
-- [Dev.to/JS] [Exploring the Differences between SSR, SSG, CSR and ISR. Which is the Best Approach? &lpar;with diagrams&rpar;](https://dev.to/martygo/exploring-the-differences-between-ssr-ssg-csr-and-isr-which-is-the-best-approach-43a3)
-- [Dev.to/JS] [How to Build a Choropleth Map in JavaScript](https://dev.to/andreykh1985/how-to-build-a-choropleth-map-in-javascript-1672)
-- [Dev.to/JS] [What is your favorite web development tool or framework, and what makes it valuable to you?](https://dev.to/himanshu20/what-is-your-favorite-web-development-tool-or-framework-and-what-makes-it-valuable-to-you-5e47)
 - [Lifehacker] [You Can Get 50% Off Paramount+ With Showtime Right Now](https://lifehacker.com/you-can-get-50-off-paramount-with-showtime-right-now-1850478221)
 - [Lifehacker] [Why You Shouldn’t Call the Police on an Unhoused Person &lpar;and What to Do Instead&rpar;](https://lifehacker.com/why-you-shouldn-t-call-the-police-on-an-unhoused-person-1850344587)
-- [Dev.to/JS] [How to TRULY persist component state using a custom hook - useQueryParam](https://dev.to/tekno0ryder/how-to-truly-persist-component-state-using-a-custom-hook-usequeryparam-pej)
 - [Crazy Programmer] [How to Hire Great Software Engineers – Standards, Tips &amp; More](https://www.thecrazyprogrammer.com/2023/05/how-to-hire-great-software-engineers.html)
 - [Lifehacker] [You Can Get $20 Off the Stock Investing App Tkyr](https://lifehacker.com/you-can-get-20-off-the-stock-investing-app-tkyr-1850470510)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Free App Unlocks Hidden Features on Your PC](https://lifehacker.com/this-free-app-unlocks-hidden-features-on-your-pc-1850473800)
 - [Lifehacker] [How to Host &lpar;or Fake&rpar; a Seance](https://lifehacker.com/how-to-host-or-fake-a-seance-1850462231)
 - [Lifehacker] [What People Are Getting Wrong This Week: Fentanyl](https://lifehacker.com/what-people-are-getting-wrong-this-week-fentanyl-1850469668)
-- [Lifehacker] [10 Simple Upgrades to Improve Your New Home Right Away](https://lifehacker.com/10-simple-upgrades-to-improve-your-new-home-right-away-1850466163)
-- [Lifehacker] [Here’s How Much Bad Habits Can Cost You Per Year](https://lifehacker.com/here-s-how-much-bad-habits-can-cost-you-per-year-1850470176)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Simple Upgrades to Improve Your New Home Right Away](https://lifehacker.com/10-simple-upgrades-to-improve-your-new-home-right-away-1850466163)<!-- TECH-POSTS:END -->
 
 ---
 
