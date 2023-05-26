@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn serverless on AWS step-by-step - Emails](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-emails-49hp)
 - [Dev.to/JS] [5 Minutes to Master the Micro-Universe of Microservices](https://dev.to/shubhamt619/5-minutes-to-master-the-micro-universe-of-microservices-2jh5)
 - [Dev.to/JS] [The One Secret That Will Make You a Coding Pro!](https://dev.to/qwertyroop/the-one-secret-that-will-make-you-a-coding-pro-123h)
 - [Dev.to/JS] [Discover React.js Advanced Techniques: Components and State Handling](https://dev.to/dotarjun/discover-reactjs-advanced-techniques-components-and-state-handling-2mfb)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Answer Dev Questions #1: Demystifying Special Characters in Paths](https://dev.to/daniacu/answer-dev-questions-1-demystifying-special-characters-in-paths-3hl9)
 - [Dev.to/JS] [JavaScript Fundamentals -03](https://dev.to/rajeevkumar504/javascript-fundamentals-03-2p54)
 - [Dev.to/JS] [JavaScript Fundamentals -02](https://dev.to/rajeevkumar504/javascript-fundamentals-02-1k12)
-- [Dev.to/JS] [Mastering Frontend Development: Essential Skills and Best Practices](https://dev.to/akshu3011/mastering-frontend-development-essential-skills-and-best-practices-2741)
 - [Lifehacker] [You Can Get $20 Off the Stock Investing App Tkyr](https://lifehacker.com/you-can-get-20-off-the-stock-investing-app-tkyr-1850470510)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
 - [Lifehacker] [Why Make Jam When You Could Make a Compote?](https://lifehacker.com/why-make-jam-when-you-could-make-a-compote-1850476917)
