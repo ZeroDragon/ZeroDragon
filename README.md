@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Crazy Programmer] [How to Hire Great Software Engineers – Standards, Tips &amp; More](https://www.thecrazyprogrammer.com/2023/05/how-to-hire-great-software-engineers.html)
+- [Dev.to/JS] [The Challenges of Preparing for a JavaScript Job Interview and the Power of the &quot;JavaScript Interview Bible 2023&quot;](https://dev.to/nezirzahirovic/the-challenges-of-preparing-for-a-javascript-job-interview-and-the-power-of-the-javascript-interview-bible-2023-4536)
 - [Dev.to/JS] [JS To TS（vscode plugin）](https://dev.to/akclown/js-to-ts-42ki)
 - [Dev.to/JS] [[Watch] Loom 2 YouTube Video Transfer](https://dev.to/jared201/watch-loom-2-youtube-video-transfer-30o2)
 - [Dev.to/JS] [How to create modals in html &lpar;easy way&rpar;](https://dev.to/omarjab/how-to-create-modals-in-html-easy-way-1i8f)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simplifying JavaScript Code with Arrow Functions](https://dev.to/thunter1987/simplifying-javascript-code-with-arrow-functions-2me8)
 - [Dev.to/JS] [RxJS: Avoid an easy mistake when using `startWith`](https://dev.to/maxime1992/rxjs-avoid-an-easy-mistake-when-using-startwith-4ano)
 - [Dev.to/JS] [Yarn Modern with Plug’n’Play and &quot;Zero-Installs&quot;](https://dev.to/spencercarnage/yarn-modern-with-plugnplay-and-zero-installs-6k8)
-- [Dev.to/JS] [Git Better with Commitlint and Conventional Commits](https://dev.to/thecharacterv/git-better-with-commitlint-and-conventional-commits-21pp)
 - [Lifehacker] [You Can Get $20 Off the Stock Investing App Tkyr](https://lifehacker.com/you-can-get-20-off-the-stock-investing-app-tkyr-1850470510)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
 - [Lifehacker] [Why Make Jam When You Could Make a Compote?](https://lifehacker.com/why-make-jam-when-you-could-make-a-compote-1850476917)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Yard Needs a Sensory Garden Path](https://lifehacker.com/your-yard-needs-a-sensory-garden-path-1850468088)
 - [Lifehacker] [How to Store Bread, According to Your Bread Personality](https://lifehacker.com/how-to-store-bread-according-to-your-bread-personality-1850470334)
 - [Lifehacker] [What&#39;s New on Netflix in June 2023](https://lifehacker.com/whats-new-on-netflix-in-june-2023-1850470621)
-- [Lifehacker] [Make a Bee-Friendly Watering Hole for Your Garden](https://lifehacker.com/make-a-bee-friendly-watering-hole-for-your-garden-1850468165)
-- [Lifehacker] [Earn College Credits Before Stepping Foot on Campus](https://lifehacker.com/earn-college-credits-before-stepping-foot-on-campus-1850469845)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make a Bee-Friendly Watering Hole for Your Garden](https://lifehacker.com/make-a-bee-friendly-watering-hole-for-your-garden-1850468165)<!-- TECH-POSTS:END -->
 
 ---
 
