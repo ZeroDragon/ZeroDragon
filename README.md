@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Fundamentals -03](https://dev.to/rajeevkumar504/javascript-fundamentals-03-2p54)
+- [Dev.to/JS] [JavaScript Fundamentals -02](https://dev.to/rajeevkumar504/javascript-fundamentals-02-1k12)
+- [Dev.to/JS] [Mastering Frontend Development: Essential Skills and Best Practices](https://dev.to/akshu3011/mastering-frontend-development-essential-skills-and-best-practices-2741)
+- [Dev.to/JS] [Complications and Simplifications: Creating a Chess Application](https://dev.to/e4c5nf3d6/complications-and-simplifications-creating-a-chess-application-3hef)
 - [Dev.to/JS] [From Scratch to App: Building an Advice Generator with HTML, CSS, and JavaScript](https://dev.to/devlawrence/from-scratch-to-app-building-an-advice-generator-with-html-css-and-javascript-1pcg)
 - [Dev.to/JS] [Package Managers: Understanding npm, npx and yarn](https://dev.to/azhariel/package-managers-understanding-npm-npx-and-yarn-3j0c)
 - [Lifehacker] [You Can Get $20 Off the Stock Investing App Tkyr](https://lifehacker.com/you-can-get-20-off-the-stock-investing-app-tkyr-1850470510)
@@ -37,13 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Use These Free SAT Prep Apps](https://lifehacker.com/you-should-use-these-free-sat-prep-apps-1850475748)
 - [Dev.to/JS] [Developer training Developers!](https://dev.to/vicky__mutai/developer-training-developers-5d7d)
 - [Lifehacker] [What to Do Instead of the Viral TikTok ‘Everything Shower’](https://lifehacker.com/what-to-do-instead-of-the-viral-tiktok-everything-show-1850475548)
-- [Dev.to/JS] [Do You Need to Learn TypeScript in 2023?](https://dev.to/mikehtmlallthethings/do-you-need-to-learn-typescript-in-2023-4c43)
 - [Lifehacker] [Stop Making Cornstarch Slurries With Boring Water](https://lifehacker.com/stop-making-cornstarch-slurries-with-boring-water-1850475949)
 - [Lifehacker] [Seven Things You Didn’t Know Come in Travel Size](https://lifehacker.com/seven-things-you-didn-t-know-come-in-travel-size-1850475233)
-- [Dev.to/JS] [Métodos de arreglos en JavaScript](https://dev.to/ulisesserranop/metodos-de-arreglos-en-javascript-843)
-- [Dev.to/JS] [SetTimeout Gotchas with React Hooks](https://dev.to/divyanshgothwal/settimeout-gotchas-with-react-hooks-1c5j)
 - [Lifehacker] [Plant Mushrooms &lpar;and Other Fungi&rpar; in Your Garden to Improve Soil Health](https://lifehacker.com/plant-mushrooms-and-other-fungi-in-your-garden-to-imp-1850473472)
-- [Dev.to/JS] [Will chatgpt replace web developers?](https://dev.to/rafikadir/will-chatgpt-replace-web-developers-54ac)
 - [Lifehacker] [Banish Cookie Boredom With Strawberry and Feta Cookies](https://lifehacker.com/banish-cookie-boredom-with-strawberry-and-feta-cookies-1850472464)
 - [Lifehacker] [What I Wish I’d Known Before I Bought a Hydroponic Gardening Tower](https://lifehacker.com/what-i-wish-i-d-known-before-i-bought-a-hydroponic-gard-1850468170)
 - [Lifehacker] [Make This Classic French Base and Use It In Everything](https://lifehacker.com/make-this-classic-french-base-and-use-it-in-everything-1850327569)
