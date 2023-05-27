@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [100 Days Coding Challenge - Day 8: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-8-freecodecamp-javascript-algorithms-and-data-structures-certification-2kig)
+- [Dev.to/JS] [Promesas con async y await](https://dev.to/ulisesserranop/promesas-con-async-y-await-53gc)
+- [Dev.to/JS] [State Of CSS, May 2023 : Newest Additions](https://dev.to/basheerdotdev/state-of-css-may-2023-newest-additions-1p3o)
 - [Dev.to/JS] [Start your career as a Web Dev by learning React in 2023](https://dev.to/tanishqmudaliar/start-your-career-as-a-web-dev-by-learning-react-in-2023-3081)
 - [Dev.to/JS] [Making Four-In-A-Row - Part 6: Blank Canvas](https://dev.to/colinkiama/making-four-in-a-row-part-6-blank-canvas-27l4)
 - [Dev.to/JS] [Linkedin Sign In Vue3](https://dev.to/mayank30/linkedin-sign-in-vue3-4n7e)
@@ -34,10 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Avoid Imperative Write Declarative Code](https://dev.to/murtazajooo/avoid-imperative-write-declarative-code-55aj)
 - [Dev.to/JS] [What is Change Detection in Angular?](https://dev.to/deepachaurasia1/what-is-change-detection-in-angular-1jme)
 - [Dev.to/JS] [Request and Response Interceptors in JS](https://dev.to/deepachaurasia1/request-and-response-interceptors-in-js-1nah)
-- [Dev.to/JS] [A Central Sidebar Menu Configuration](https://dev.to/streetcommunityprogrammer/a-central-sidebar-menu-configuration-kh0)
-- [Dev.to/JS] [Add MUI v5 Theme Switcher in NextJs/React](https://dev.to/just_another_react_dev/add-mui-v5-theme-switcher-in-nextjsreact-286l)
 - [Lifehacker] [You Can Get $59 Flights From Southwest This Summer](https://lifehacker.com/you-can-get-59-flights-from-southwest-this-summer-1850473253)
-- [Dev.to/JS] [Binary tree](https://dev.to/livshits_ivan/binary-tree-26f3)
 - [Lifehacker] [Maybe Don&#39;t Update &#39;Tears of the Kingdom&#39;](https://lifehacker.com/maybe-dont-update-tears-of-the-kingdom-1850479467)
 - [Lifehacker] [Is Whoop&#39;s New Strength Trainer Worth Switching For?](https://lifehacker.com/is-whoops-new-strength-trainer-worth-switching-for-1850477196)
 - [Lifehacker] [Two Keys to Optimizing Your FAFSA and &lpar;Hopefully&rpar; Getting More Financial Aid](https://lifehacker.com/two-keys-to-optimizing-your-fafsa-and-hopefully-getti-1850480093)
