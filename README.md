@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Avoid Imperative Write Declarative Code](https://dev.to/murtazajooo/avoid-imperative-write-declarative-code-55aj)
+- [Dev.to/JS] [What is Change Detection in Angular?](https://dev.to/deepachaurasia1/what-is-change-detection-in-angular-1jme)
+- [Dev.to/JS] [Request and Response Interceptors in JS](https://dev.to/deepachaurasia1/request-and-response-interceptors-in-js-1nah)
+- [Dev.to/JS] [A Central Sidebar Menu Configuration](https://dev.to/streetcommunityprogrammer/a-central-sidebar-menu-configuration-kh0)
+- [Dev.to/JS] [Add MUI v5 Theme Switcher in NextJs/React](https://dev.to/just_another_react_dev/add-mui-v5-theme-switcher-in-nextjsreact-286l)
 - [Lifehacker] [You Can Get $59 Flights From Southwest This Summer](https://lifehacker.com/you-can-get-59-flights-from-southwest-this-summer-1850473253)
 - [Dev.to/JS] [Binary tree](https://dev.to/livshits_ivan/binary-tree-26f3)
 - [Dev.to/JS] [Creating a Robust Authentication System: Harnessing the Power of JWT and Session Authentication](https://dev.to/titre123/creating-a-robust-authentication-system-harnessing-the-power-of-jwt-and-session-authentication-2efc)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Weathersnap: A Feature-Packed React Weather App for Accurate Forecasts](https://dev.to/s_soumyakanta/weathersnap-a-feature-packed-react-weather-app-for-accurate-forecasts-56cp)
 - [Dev.to/JS] [Python潮流周刊#3：PyPI 的安全问题](https://dev.to/chinesehuazhou/pythonchao-liu-zhou-kan-3pypi-de-an-quan-wen-ti-1fk6)
 - [Dev.to/JS] [Better Syntax Error Messages in JavaScript](https://dev.to/jcubic/better-syntax-error-messages-in-javascript-44n)
-- [Dev.to/JS] [Solving two sum problem](https://dev.to/amitgharge/solving-two-sum-problem-c2h)
-- [Dev.to/JS] [Handle Multiple Environments in React](https://dev.to/mohammadfaisal/handle-multiple-environments-in-react-lj9)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;27-05-2023&rpar; - Gifs, culture, media, AI &amp; vegetables](https://dev.to/mjgs/this-weeks-newsletter-is-out-27-05-2023-gifs-culture-media-ai-vegetables-3o0n)
-- [Dev.to/JS] [Should You Accept Cookies On Websites?](https://dev.to/xplodivity/should-you-accept-cookies-on-websites-57f3)
-- [Dev.to/JS] [Demystifying the &quot;this&quot; Keyword in JavaScript: A Beginner&#39;s Guide](https://dev.to/danities316/demystifying-the-this-keyword-in-javascript-a-beginners-guide-1hnc)
 - [Lifehacker] [Maybe Don&#39;t Update &#39;Tears of the Kingdom&#39;](https://lifehacker.com/maybe-dont-update-tears-of-the-kingdom-1850479467)
 - [Lifehacker] [Is Whoop&#39;s New Strength Trainer Worth Switching For?](https://lifehacker.com/is-whoops-new-strength-trainer-worth-switching-for-1850477196)
 - [Lifehacker] [Two Keys to Optimizing Your FAFSA and &lpar;Hopefully&rpar; Getting More Financial Aid](https://lifehacker.com/two-keys-to-optimizing-your-fafsa-and-hopefully-getti-1850480093)
