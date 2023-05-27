@@ -23,13 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Handle Multiple Environments in React](https://dev.to/mohammadfaisal/handle-multiple-environments-in-react-lj9)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;27-05-2023&rpar; - Gifs, culture, media, AI &amp; vegetables](https://dev.to/mjgs/this-weeks-newsletter-is-out-27-05-2023-gifs-culture-media-ai-vegetables-3o0n)
 - [Dev.to/JS] [Should You Accept Cookies On Websites?](https://dev.to/xplodivity/should-you-accept-cookies-on-websites-57f3)
 - [Dev.to/JS] [Demystifying the &quot;this&quot; Keyword in JavaScript: A Beginner&#39;s Guide](https://dev.to/danities316/demystifying-the-this-keyword-in-javascript-a-beginners-guide-1hnc)
 - [Dev.to/JS] [How to run JavaScript](https://dev.to/mrizwanashiq/how-to-run-javascript-2nfn)
 - [Dev.to/JS] [Comprehending Closure in JavaScript: A Frequently Asked Interview Question 🚀🔥](https://dev.to/arjuncodess/comprehending-closure-in-javascript-a-frequently-asked-interview-question-43n3)
 - [Dev.to/JS] [Learn React The Lazy Way in 2023 &lpar;Part 2&rpar;](https://dev.to/scofieldidehen/learn-react-the-lazy-way-in-2023-part-2-3ddp)
-- [Dev.to/JS] [Elevating Data Analysis with a Pinch of AI Wizardry and JavaScript](https://dev.to/alfredoaguiararce/elevating-data-analysis-with-a-pinch-of-ai-wizardry-and-javascript-5cii)
 - [Dev.to/JS] [Migrating from Next.js Pages Router to App Router](https://dev.to/albac/migrating-to-nextjs-app-router-a-comprehensive-guide-5dak)
 - [Dev.to/JS] [Day 115 of Coding: Improving Authentication and Exploring Nested Data Structures](https://dev.to/arashjangali/day-115-of-coding-improving-authentication-and-exploring-nested-data-structures-2jpn)
 - [Lifehacker] [Maybe Don&#39;t Update &#39;Tears of the Kingdom&#39;](https://lifehacker.com/maybe-dont-update-tears-of-the-kingdom-1850479467)
