@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Redux - Lets Do It](https://dev.to/attull/react-redux-series-47hj)
+- [Dev.to/JS] [Weathersnap: A Feature-Packed React Weather App for Accurate Forecasts](https://dev.to/s_soumyakanta/weathersnap-a-feature-packed-react-weather-app-for-accurate-forecasts-56cp)
+- [Dev.to/JS] [Python潮流周刊#3：PyPI 的安全问题](https://dev.to/chinesehuazhou/pythonchao-liu-zhou-kan-3pypi-de-an-quan-wen-ti-1fk6)
+- [Dev.to/JS] [Better Syntax Error Messages in JavaScript](https://dev.to/jcubic/better-syntax-error-messages-in-javascript-44n)
 - [Dev.to/JS] [Solving two sum problem](https://dev.to/amitgharge/solving-two-sum-problem-c2h)
 - [Dev.to/JS] [Handle Multiple Environments in React](https://dev.to/mohammadfaisal/handle-multiple-environments-in-react-lj9)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;27-05-2023&rpar; - Gifs, culture, media, AI &amp; vegetables](https://dev.to/mjgs/this-weeks-newsletter-is-out-27-05-2023-gifs-culture-media-ai-vegetables-3o0n)
@@ -31,14 +35,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to run JavaScript](https://dev.to/mrizwanashiq/how-to-run-javascript-2nfn)
 - [Dev.to/JS] [Comprehending Closure in JavaScript: A Frequently Asked Interview Question 🚀🔥](https://dev.to/arjuncodess/comprehending-closure-in-javascript-a-frequently-asked-interview-question-43n3)
 - [Dev.to/JS] [Learn React The Lazy Way in 2023 &lpar;Part 2&rpar;](https://dev.to/scofieldidehen/learn-react-the-lazy-way-in-2023-part-2-3ddp)
-- [Dev.to/JS] [Migrating from Next.js Pages Router to App Router](https://dev.to/albac/migrating-to-nextjs-app-router-a-comprehensive-guide-5dak)
-- [Dev.to/JS] [Day 115 of Coding: Improving Authentication and Exploring Nested Data Structures](https://dev.to/arashjangali/day-115-of-coding-improving-authentication-and-exploring-nested-data-structures-2jpn)
 - [Lifehacker] [Maybe Don&#39;t Update &#39;Tears of the Kingdom&#39;](https://lifehacker.com/maybe-dont-update-tears-of-the-kingdom-1850479467)
 - [Lifehacker] [Is Whoop&#39;s New Strength Trainer Worth Switching For?](https://lifehacker.com/is-whoops-new-strength-trainer-worth-switching-for-1850477196)
-- [Dev.to/JS] [The Real Usage of shareReplay in Angular](https://dev.to/krivanek06/the-real-usage-of-sharereplay-in-angular-4fpa)
 - [Lifehacker] [Two Keys to Optimizing Your FAFSA and &lpar;Hopefully&rpar; Getting More Financial Aid](https://lifehacker.com/two-keys-to-optimizing-your-fafsa-and-hopefully-getti-1850480093)
 - [Lifehacker] [Install a Stock Tank for a Cheap and Easy Backyard Pool](https://lifehacker.com/install-a-stock-tank-for-a-cheap-and-easy-backyard-pool-1850478309)
-- [Dev.to/JS] [Complex Menus Made Easy with Doodle 0.9.2](https://dev.to/pusolito/complex-menus-made-easy-with-doodle-092-4afm)
 - [Lifehacker] [This Is How Long Your Cash Physically Lasts](https://lifehacker.com/this-is-how-long-your-cash-physically-lasts-1850479624)
 - [Lifehacker] [Try the ‘Memory Anchoring’ Method to Calm a Child &lpar;and Yourself&rpar;](https://lifehacker.com/try-the-memory-anchoring-method-to-calm-a-child-and-1850477252)
 - [Lifehacker] [Make Pistachio Milk, the Perfect ‘Creamer’ for Your Summer Iced Coffees](https://lifehacker.com/pistachio-milk-is-the-perfect-creamer-for-your-summer-1850480319)
