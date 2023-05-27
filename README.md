@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get $59 Flights From Southwest This Summer](https://lifehacker.com/you-can-get-59-flights-from-southwest-this-summer-1850473253)
+- [Dev.to/JS] [Binary tree](https://dev.to/livshits_ivan/binary-tree-26f3)
+- [Dev.to/JS] [Creating a Robust Authentication System: Harnessing the Power of JWT and Session Authentication](https://dev.to/titre123/creating-a-robust-authentication-system-harnessing-the-power-of-jwt-and-session-authentication-2efc)
 - [Dev.to/JS] [Tutorial part-5: key-value store - TTL options](https://dev.to/restdbjones/tutorial-part-5-key-value-store-ttl-options-1i87)
 - [Dev.to/JS] [React Redux - Lets Do It](https://dev.to/attull/react-redux-series-47hj)
 - [Dev.to/JS] [Weathersnap: A Feature-Packed React Weather App for Accurate Forecasts](https://dev.to/s_soumyakanta/weathersnap-a-feature-packed-react-weather-app-for-accurate-forecasts-56cp)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;27-05-2023&rpar; - Gifs, culture, media, AI &amp; vegetables](https://dev.to/mjgs/this-weeks-newsletter-is-out-27-05-2023-gifs-culture-media-ai-vegetables-3o0n)
 - [Dev.to/JS] [Should You Accept Cookies On Websites?](https://dev.to/xplodivity/should-you-accept-cookies-on-websites-57f3)
 - [Dev.to/JS] [Demystifying the &quot;this&quot; Keyword in JavaScript: A Beginner&#39;s Guide](https://dev.to/danities316/demystifying-the-this-keyword-in-javascript-a-beginners-guide-1hnc)
-- [Dev.to/JS] [How to run JavaScript](https://dev.to/mrizwanashiq/how-to-run-javascript-2nfn)
-- [Dev.to/JS] [Comprehending Closure in JavaScript: A Frequently Asked Interview Question 🚀🔥](https://dev.to/arjuncodess/comprehending-closure-in-javascript-a-frequently-asked-interview-question-43n3)
 - [Lifehacker] [Maybe Don&#39;t Update &#39;Tears of the Kingdom&#39;](https://lifehacker.com/maybe-dont-update-tears-of-the-kingdom-1850479467)
 - [Lifehacker] [Is Whoop&#39;s New Strength Trainer Worth Switching For?](https://lifehacker.com/is-whoops-new-strength-trainer-worth-switching-for-1850477196)
 - [Lifehacker] [Two Keys to Optimizing Your FAFSA and &lpar;Hopefully&rpar; Getting More Financial Aid](https://lifehacker.com/two-keys-to-optimizing-your-fafsa-and-hopefully-getti-1850480093)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Use These Free SAT Prep Apps](https://lifehacker.com/you-should-use-these-free-sat-prep-apps-1850475748)
 - [Lifehacker] [What to Do Instead of the Viral TikTok ‘Everything Shower’](https://lifehacker.com/what-to-do-instead-of-the-viral-tiktok-everything-show-1850475548)
 - [Lifehacker] [Stop Making Cornstarch Slurries With Boring Water](https://lifehacker.com/stop-making-cornstarch-slurries-with-boring-water-1850475949)
-- [Lifehacker] [Seven Things You Didn’t Know Come in Travel Size](https://lifehacker.com/seven-things-you-didn-t-know-come-in-travel-size-1850475233)
-- [Lifehacker] [Plant Mushrooms &lpar;and Other Fungi&rpar; in Your Garden to Improve Soil Health](https://lifehacker.com/plant-mushrooms-and-other-fungi-in-your-garden-to-imp-1850473472)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Seven Things You Didn’t Know Come in Travel Size](https://lifehacker.com/seven-things-you-didn-t-know-come-in-travel-size-1850475233)<!-- TECH-POSTS:END -->
 
 ---
 
