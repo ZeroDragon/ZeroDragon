@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Solving two sum problem](https://dev.to/amitgharge/solving-two-sum-problem-c2h)
 - [Dev.to/JS] [Handle Multiple Environments in React](https://dev.to/mohammadfaisal/handle-multiple-environments-in-react-lj9)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;27-05-2023&rpar; - Gifs, culture, media, AI &amp; vegetables](https://dev.to/mjgs/this-weeks-newsletter-is-out-27-05-2023-gifs-culture-media-ai-vegetables-3o0n)
 - [Dev.to/JS] [Should You Accept Cookies On Websites?](https://dev.to/xplodivity/should-you-accept-cookies-on-websites-57f3)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Complex Menus Made Easy with Doodle 0.9.2](https://dev.to/pusolito/complex-menus-made-easy-with-doodle-092-4afm)
 - [Lifehacker] [This Is How Long Your Cash Physically Lasts](https://lifehacker.com/this-is-how-long-your-cash-physically-lasts-1850479624)
 - [Lifehacker] [Try the ‘Memory Anchoring’ Method to Calm a Child &lpar;and Yourself&rpar;](https://lifehacker.com/try-the-memory-anchoring-method-to-calm-a-child-and-1850477252)
-- [Dev.to/JS] [Code Smell 214 - Duplicate Parameter Names](https://dev.to/mcsee/code-smell-214-duplicate-parameter-names-4a81)
 - [Lifehacker] [Make Pistachio Milk, the Perfect ‘Creamer’ for Your Summer Iced Coffees](https://lifehacker.com/pistachio-milk-is-the-perfect-creamer-for-your-summer-1850480319)
 - [Lifehacker] [How You Could Be Impacted If a Debt Ceiling Agreement Isn&#39;t Reached](https://lifehacker.com/how-you-could-be-impacted-if-a-debt-ceiling-agreement-i-1850480034)
 - [Lifehacker] [Windows Is Finally Getting Support for RAR and 7z Archives](https://lifehacker.com/windows-is-finally-getting-support-for-rar-and-7z-archi-1850478854)
