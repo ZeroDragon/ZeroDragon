@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue component&#39;s props quirks while working with TypeScript](https://dev.to/longoandrea/vue-components-props-quirks-while-working-with-typescript-5doo)
+- [Dev.to/JS] [Easiest way to Create React tables &lpar;NEXTJS&rpar;](https://dev.to/rahulj9a/easiest-way-to-create-react-tables-nextjs-2g18)
 - [Dev.to/JS] [Avoid Imperative Write Declarative Code](https://dev.to/murtazajooo/avoid-imperative-write-declarative-code-55aj)
 - [Dev.to/JS] [What is Change Detection in Angular?](https://dev.to/deepachaurasia1/what-is-change-detection-in-angular-1jme)
 - [Dev.to/JS] [Request and Response Interceptors in JS](https://dev.to/deepachaurasia1/request-and-response-interceptors-in-js-1nah)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tutorial part-5: key-value store - TTL options](https://dev.to/restdbjones/tutorial-part-5-key-value-store-ttl-options-1i87)
 - [Dev.to/JS] [React Redux - Lets Do It](https://dev.to/attull/react-redux-series-47hj)
 - [Dev.to/JS] [Weathersnap: A Feature-Packed React Weather App for Accurate Forecasts](https://dev.to/s_soumyakanta/weathersnap-a-feature-packed-react-weather-app-for-accurate-forecasts-56cp)
-- [Dev.to/JS] [Python潮流周刊#3：PyPI 的安全问题](https://dev.to/chinesehuazhou/pythonchao-liu-zhou-kan-3pypi-de-an-quan-wen-ti-1fk6)
-- [Dev.to/JS] [Better Syntax Error Messages in JavaScript](https://dev.to/jcubic/better-syntax-error-messages-in-javascript-44n)
 - [Lifehacker] [Maybe Don&#39;t Update &#39;Tears of the Kingdom&#39;](https://lifehacker.com/maybe-dont-update-tears-of-the-kingdom-1850479467)
 - [Lifehacker] [Is Whoop&#39;s New Strength Trainer Worth Switching For?](https://lifehacker.com/is-whoops-new-strength-trainer-worth-switching-for-1850477196)
 - [Lifehacker] [Two Keys to Optimizing Your FAFSA and &lpar;Hopefully&rpar; Getting More Financial Aid](https://lifehacker.com/two-keys-to-optimizing-your-fafsa-and-hopefully-getti-1850480093)
