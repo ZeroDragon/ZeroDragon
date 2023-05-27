@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Start your career as a Web Dev by learning React in 2023](https://dev.to/tanishqmudaliar/start-your-career-as-a-web-dev-by-learning-react-in-2023-3081)
+- [Dev.to/JS] [Making Four-In-A-Row - Part 6: Blank Canvas](https://dev.to/colinkiama/making-four-in-a-row-part-6-blank-canvas-27l4)
 - [Dev.to/JS] [Linkedin Sign In Vue3](https://dev.to/mayank30/linkedin-sign-in-vue3-4n7e)
 - [Lifehacker] [The Best Ways to Use Grass Clippings in Your Garden](https://lifehacker.com/the-best-ways-to-use-grass-clippings-in-your-garden-1850473284)
 - [Dev.to/JS] [How to Implement Authentication and Authorization in React](https://dev.to/jsandaruwan/how-to-implement-authentication-and-authorization-in-react-i99)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add MUI v5 Theme Switcher in NextJs/React](https://dev.to/just_another_react_dev/add-mui-v5-theme-switcher-in-nextjsreact-286l)
 - [Lifehacker] [You Can Get $59 Flights From Southwest This Summer](https://lifehacker.com/you-can-get-59-flights-from-southwest-this-summer-1850473253)
 - [Dev.to/JS] [Binary tree](https://dev.to/livshits_ivan/binary-tree-26f3)
-- [Dev.to/JS] [Creating a Robust Authentication System: Harnessing the Power of JWT and Session Authentication](https://dev.to/titre123/creating-a-robust-authentication-system-harnessing-the-power-of-jwt-and-session-authentication-2efc)
-- [Dev.to/JS] [Tutorial part-5: key-value store - TTL options](https://dev.to/restdbjones/tutorial-part-5-key-value-store-ttl-options-1i87)
 - [Lifehacker] [Maybe Don&#39;t Update &#39;Tears of the Kingdom&#39;](https://lifehacker.com/maybe-dont-update-tears-of-the-kingdom-1850479467)
 - [Lifehacker] [Is Whoop&#39;s New Strength Trainer Worth Switching For?](https://lifehacker.com/is-whoops-new-strength-trainer-worth-switching-for-1850477196)
 - [Lifehacker] [Two Keys to Optimizing Your FAFSA and &lpar;Hopefully&rpar; Getting More Financial Aid](https://lifehacker.com/two-keys-to-optimizing-your-fafsa-and-hopefully-getti-1850480093)
