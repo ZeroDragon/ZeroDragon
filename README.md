@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Elevating Data Analysis with a Pinch of AI Wizardry and JavaScript](https://dev.to/alfredoaguiararce/elevating-data-analysis-with-a-pinch-of-ai-wizardry-and-javascript-5cii)
+- [Dev.to/JS] [Migrating to Next.js App Router: A Comprehensive Guide](https://dev.to/albac/migrating-to-nextjs-app-router-a-comprehensive-guide-5dak)
 - [Dev.to/JS] [Day 115 of Coding: Improving Authentication and Exploring Nested Data Structures](https://dev.to/arashjangali/day-115-of-coding-improving-authentication-and-exploring-nested-data-structures-2jpn)
 - [Lifehacker] [Maybe Don&#39;t Update &#39;Tears of the Kingdom&#39;](https://lifehacker.com/maybe-dont-update-tears-of-the-kingdom-1850479467)
 - [Lifehacker] [Is Whoop&#39;s New Strength Trainer Worth Switching For?](https://lifehacker.com/is-whoops-new-strength-trainer-worth-switching-for-1850477196)
@@ -41,11 +43,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Windows Is Finally Getting Support for RAR and 7z Archives](https://lifehacker.com/windows-is-finally-getting-support-for-rar-and-7z-archi-1850478854)
 - [Dev.to/JS] [Promesas en JavaScript](https://dev.to/ulisesserranop/promesas-en-javascript-8oe)
 - [Dev.to/JS] [A comprehensive guide to Next.js 13 App Router - Part 1](https://dev.to/niazmorshed2007/a-comprehensive-guide-to-nextjs-13-app-router-part-1-41ki)
-- [Dev.to/JS] [15 VS code Shortcuts](https://dev.to/saifullah/15-vs-code-shortcuts-49bn)
+- [Dev.to/JS] [The Evolution of Frontend Technologies: From jQuery to React](https://dev.to/josematoswork/the-evolution-of-frontend-technologies-from-jquery-to-react-3397)
 - [Lifehacker] [Turn a Shrimp Egg Roll Into Chips and Dip](https://lifehacker.com/turn-a-shrimp-egg-roll-into-chips-and-dip-1850477321)
-- [Dev.to/JS] [Basic JavaScript Interview Question 4: Why do we use the word “debugger” in JavaScript?](https://dev.to/sharmakshitij18/basic-javascript-interview-question-4-why-do-we-use-the-word-debugger-in-javascript-49e1)
 - [Lifehacker] [This Is the Only Effective Way to Keep Deer Out of Your Garden](https://lifehacker.com/this-is-the-only-effective-way-to-keep-deer-out-of-your-1850479518)
-- [Dev.to/JS] [2667. LeetCode&#39;s Create Hello World Function - Extremely Simple One line JS Solution Beats 99% in Runtime](https://dev.to/verisimilitudex/2667-leetcodes-create-hello-world-function-extremely-simple-one-line-js-solution-beats-99-in-runtime-3gf6)
 - [Lifehacker] [The 20 Most Graphically-Impressive Video Games You Should Play](https://lifehacker.com/the-20-most-graphically-impressive-video-games-you-shou-1850478080)
 - [Lifehacker] [10 Unexpected Benefits to Negotiate When You Sign a New Lease &lpar;Besides Rent&rpar;](https://lifehacker.com/10-unexpected-benefits-to-negotiate-when-you-sign-a-new-1850477938)
 - [Lifehacker] [You Need to Extend the &#39;Undo Send&#39; Timer on Your Email](https://lifehacker.com/you-need-to-extend-the-undo-send-timer-on-your-email-1850476984)
