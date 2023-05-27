@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;27-05-2023&rpar; - Gifs, culture, media, AI &amp; vegetables](https://dev.to/mjgs/this-weeks-newsletter-is-out-27-05-2023-gifs-culture-media-ai-vegetables-3o0n)
+- [Dev.to/JS] [Should You Accept Cookies On Websites?](https://dev.to/xplodivity/should-you-accept-cookies-on-websites-57f3)
+- [Dev.to/JS] [Demystifying the &quot;this&quot; Keyword in JavaScript: A Beginner&#39;s Guide](https://dev.to/danities316/demystifying-the-this-keyword-in-javascript-a-beginners-guide-1hnc)
 - [Dev.to/JS] [How to run JavaScript](https://dev.to/mrizwanashiq/how-to-run-javascript-2nfn)
 - [Dev.to/JS] [Comprehending Closure in JavaScript: A Frequently Asked Interview Question 🚀🔥](https://dev.to/arjuncodess/comprehending-closure-in-javascript-a-frequently-asked-interview-question-43n3)
 - [Dev.to/JS] [Learn React The Lazy Way in 2023 &lpar;Part 2&rpar;](https://dev.to/scofieldidehen/learn-react-the-lazy-way-in-2023-part-2-3ddp)
@@ -39,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Try the ‘Memory Anchoring’ Method to Calm a Child &lpar;and Yourself&rpar;](https://lifehacker.com/try-the-memory-anchoring-method-to-calm-a-child-and-1850477252)
 - [Dev.to/JS] [Code Smell 214 - Duplicate Parameter Names](https://dev.to/mcsee/code-smell-214-duplicate-parameter-names-4a81)
 - [Lifehacker] [Make Pistachio Milk, the Perfect ‘Creamer’ for Your Summer Iced Coffees](https://lifehacker.com/pistachio-milk-is-the-perfect-creamer-for-your-summer-1850480319)
-- [Dev.to/JS] [What&#39;s new in ES2023? 👀](https://dev.to/jasmin/what-is-new-in-es2023-4bcm)
-- [Dev.to/JS] [Continuous Deployment Pipeline for React Apps](https://dev.to/mohammadfaisal/continuous-deployment-pipeline-for-react-apps-1ma3)
 - [Lifehacker] [How You Could Be Impacted If a Debt Ceiling Agreement Isn&#39;t Reached](https://lifehacker.com/how-you-could-be-impacted-if-a-debt-ceiling-agreement-i-1850480034)
-- [Dev.to/JS] [TypeScript Tuple Types: The What, Why, and How](https://dev.to/sachinchaurasiya/typescript-tuple-types-the-what-why-and-how-1ngm)
 - [Lifehacker] [Windows Is Finally Getting Support for RAR and 7z Archives](https://lifehacker.com/windows-is-finally-getting-support-for-rar-and-7z-archi-1850478854)
 - [Lifehacker] [Turn a Shrimp Egg Roll Into Chips and Dip](https://lifehacker.com/turn-a-shrimp-egg-roll-into-chips-and-dip-1850477321)
 - [Lifehacker] [This Is the Only Effective Way to Keep Deer Out of Your Garden](https://lifehacker.com/this-is-the-only-effective-way-to-keep-deer-out-of-your-1850479518)
