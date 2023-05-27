@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Assign by Value and Assign by Reference in JavaScript.](https://dev.to/thedheerajjha/understanding-assign-by-value-and-assign-by-reference-in-javascript-4fm8)
+- [Dev.to/JS] [Um guia prático para unificar funções em objetos com JavaScript](https://dev.to/kecbm/um-guia-pratico-para-unificar-funcoes-em-objetos-com-javascript-24g0)
 - [Dev.to/JS] [Streamlining Codebase, Mastering useContext, and Deployment Research: A Day in Coding](https://dev.to/arashjangali/streamlining-codebase-mastering-usecontext-and-deployment-research-a-day-in-coding-436h)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 8: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-8-freecodecamp-javascript-algorithms-and-data-structures-certification-2kig)
 - [Dev.to/JS] [Promesas con async y await](https://dev.to/ulisesserranop/promesas-con-async-y-await-53gc)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s When Fixing Your Washing Machine Makes More Sense](https://lifehacker.com/heres-when-fixing-your-washing-machine-makes-more-sense-1850473293)
 - [Dev.to/JS] [Vue component&#39;s props quirks while working with TypeScript](https://dev.to/longoandrea/vue-components-props-quirks-while-working-with-typescript-5doo)
 - [Dev.to/JS] [Easiest way to Create React tables &lpar;NEXTJS&rpar;](https://dev.to/rahulj9a/easiest-way-to-create-react-tables-nextjs-2g18)
-- [Dev.to/JS] [Avoid Imperative Write Declarative Code](https://dev.to/murtazajooo/avoid-imperative-write-declarative-code-55aj)
-- [Dev.to/JS] [What is Change Detection in Angular?](https://dev.to/deepachaurasia1/what-is-change-detection-in-angular-1jme)
 - [Lifehacker] [You Can Get $59 Flights From Southwest This Summer](https://lifehacker.com/you-can-get-59-flights-from-southwest-this-summer-1850473253)
 - [Lifehacker] [Maybe Don&#39;t Update &#39;Tears of the Kingdom&#39;](https://lifehacker.com/maybe-dont-update-tears-of-the-kingdom-1850479467)
 - [Lifehacker] [Is Whoop&#39;s New Strength Trainer Worth Switching For?](https://lifehacker.com/is-whoops-new-strength-trainer-worth-switching-for-1850477196)
