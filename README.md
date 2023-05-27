@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tutorial part-5: key-value store - TTL options](https://dev.to/restdbjones/tutorial-part-5-key-value-store-ttl-options-1i87)
 - [Dev.to/JS] [React Redux - Lets Do It](https://dev.to/attull/react-redux-series-47hj)
 - [Dev.to/JS] [Weathersnap: A Feature-Packed React Weather App for Accurate Forecasts](https://dev.to/s_soumyakanta/weathersnap-a-feature-packed-react-weather-app-for-accurate-forecasts-56cp)
 - [Dev.to/JS] [Python潮流周刊#3：PyPI 的安全问题](https://dev.to/chinesehuazhou/pythonchao-liu-zhou-kan-3pypi-de-an-quan-wen-ti-1fk6)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Demystifying the &quot;this&quot; Keyword in JavaScript: A Beginner&#39;s Guide](https://dev.to/danities316/demystifying-the-this-keyword-in-javascript-a-beginners-guide-1hnc)
 - [Dev.to/JS] [How to run JavaScript](https://dev.to/mrizwanashiq/how-to-run-javascript-2nfn)
 - [Dev.to/JS] [Comprehending Closure in JavaScript: A Frequently Asked Interview Question 🚀🔥](https://dev.to/arjuncodess/comprehending-closure-in-javascript-a-frequently-asked-interview-question-43n3)
-- [Dev.to/JS] [Learn React The Lazy Way in 2023 &lpar;Part 2&rpar;](https://dev.to/scofieldidehen/learn-react-the-lazy-way-in-2023-part-2-3ddp)
 - [Lifehacker] [Maybe Don&#39;t Update &#39;Tears of the Kingdom&#39;](https://lifehacker.com/maybe-dont-update-tears-of-the-kingdom-1850479467)
 - [Lifehacker] [Is Whoop&#39;s New Strength Trainer Worth Switching For?](https://lifehacker.com/is-whoops-new-strength-trainer-worth-switching-for-1850477196)
 - [Lifehacker] [Two Keys to Optimizing Your FAFSA and &lpar;Hopefully&rpar; Getting More Financial Aid](https://lifehacker.com/two-keys-to-optimizing-your-fafsa-and-hopefully-getti-1850480093)
