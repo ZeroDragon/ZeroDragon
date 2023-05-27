@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Linkedin Sign In Vue3](https://dev.to/mayank30/linkedin-sign-in-vue3-4n7e)
 - [Lifehacker] [The Best Ways to Use Grass Clippings in Your Garden](https://lifehacker.com/the-best-ways-to-use-grass-clippings-in-your-garden-1850473284)
 - [Dev.to/JS] [How to Implement Authentication and Authorization in React](https://dev.to/jsandaruwan/how-to-implement-authentication-and-authorization-in-react-i99)
 - [Lifehacker] [Here&#39;s When Fixing Your Washing Machine Makes More Sense](https://lifehacker.com/heres-when-fixing-your-washing-machine-makes-more-sense-1850473293)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Binary tree](https://dev.to/livshits_ivan/binary-tree-26f3)
 - [Dev.to/JS] [Creating a Robust Authentication System: Harnessing the Power of JWT and Session Authentication](https://dev.to/titre123/creating-a-robust-authentication-system-harnessing-the-power-of-jwt-and-session-authentication-2efc)
 - [Dev.to/JS] [Tutorial part-5: key-value store - TTL options](https://dev.to/restdbjones/tutorial-part-5-key-value-store-ttl-options-1i87)
-- [Dev.to/JS] [React Redux - Lets Do It](https://dev.to/attull/react-redux-series-47hj)
 - [Lifehacker] [Maybe Don&#39;t Update &#39;Tears of the Kingdom&#39;](https://lifehacker.com/maybe-dont-update-tears-of-the-kingdom-1850479467)
 - [Lifehacker] [Is Whoop&#39;s New Strength Trainer Worth Switching For?](https://lifehacker.com/is-whoops-new-strength-trainer-worth-switching-for-1850477196)
 - [Lifehacker] [Two Keys to Optimizing Your FAFSA and &lpar;Hopefully&rpar; Getting More Financial Aid](https://lifehacker.com/two-keys-to-optimizing-your-fafsa-and-hopefully-getti-1850480093)
