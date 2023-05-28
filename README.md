@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Practices for Optimizing JavaScript Performance](https://dev.to/mochafreddo/best-practices-for-optimizing-javascript-performance-2nac)
+- [Dev.to/JS] [Overview of Overwolf app &quot;PatchMe&quot;](https://dev.to/abdelsalam_tolaymat/overview-of-overwolf-app-patchme-21jf)
+- [Dev.to/JS] [Dependency Injection Pattern &lpar; For beginners&rpar;](https://dev.to/walosha/dependency-injection-pattern-for-beginners-3nc4)
 - [Dev.to/JS] [Creating Geographic Solutions with Maps in Frontend](https://dev.to/kevin-uehara/creating-geographic-solutions-with-maps-in-frontend-english-version-2n3j)
 - [Dev.to/JS] [Understanding Assign by Value and Assign by Reference in JavaScript.](https://dev.to/thedheerajjha/understanding-assign-by-value-and-assign-by-reference-in-javascript-4fm8)
 - [Dev.to/JS] [Um guia prático para unificar funções em objetos com JavaScript](https://dev.to/kecbm/um-guia-pratico-para-unificar-funcoes-em-objetos-com-javascript-24g0)
@@ -32,11 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [State Of CSS, May 2023 : Newest Additions](https://dev.to/basheerdotdev/state-of-css-may-2023-newest-additions-1p3o)
 - [Dev.to/JS] [Start your career as a Web Dev by learning React in 2023](https://dev.to/tanishqmudaliar/start-your-career-as-a-web-dev-by-learning-react-in-2023-3081)
 - [Dev.to/JS] [Making Four-In-A-Row - Part 6: Blank Canvas](https://dev.to/colinkiama/making-four-in-a-row-part-6-blank-canvas-27l4)
-- [Dev.to/JS] [Linkedin Sign In Vue3](https://dev.to/mayank30/linkedin-sign-in-vue3-4n7e)
 - [Lifehacker] [The Best Ways to Use Grass Clippings in Your Garden](https://lifehacker.com/the-best-ways-to-use-grass-clippings-in-your-garden-1850473284)
-- [Dev.to/JS] [How to Implement Authentication and Authorization in React](https://dev.to/jsandaruwan/how-to-implement-authentication-and-authorization-in-react-i99)
 - [Lifehacker] [Here&#39;s When Fixing Your Washing Machine Makes More Sense](https://lifehacker.com/heres-when-fixing-your-washing-machine-makes-more-sense-1850473293)
-- [Dev.to/JS] [Vue component&#39;s props quirks while working with TypeScript](https://dev.to/longoandrea/vue-components-props-quirks-while-working-with-typescript-5doo)
 - [Lifehacker] [You Can Get $59 Flights From Southwest This Summer](https://lifehacker.com/you-can-get-59-flights-from-southwest-this-summer-1850473253)
 - [Lifehacker] [Maybe Don&#39;t Update &#39;Tears of the Kingdom&#39;](https://lifehacker.com/maybe-dont-update-tears-of-the-kingdom-1850479467)
 - [Lifehacker] [Is Whoop&#39;s New Strength Trainer Worth Switching For?](https://lifehacker.com/is-whoops-new-strength-trainer-worth-switching-for-1850477196)
