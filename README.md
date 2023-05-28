@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [We made an app where you can host Sports games](https://dev.to/timlmit/i-made-an-app-where-you-can-host-sports-games-2i74)
 - [Dev.to/JS] [File Uploads Made Easy with Multer package in nodeJS](https://dev.to/itsvinayak/file-uploads-made-easy-with-multer-package-in-nodejs-3mo0)
 - [Dev.to/JS] [The fantastic speed of template literals...](https://dev.to/efpage/the-fantastic-speed-of-template-literals-4f0p)
 - [Dev.to/JS] [The Magnificent Dance of Variables: Inside the World of Lexical Environments in JavaScript](https://dev.to/diyorbekkdev/the-magnificent-dance-of-variables-inside-the-world-of-lexical-environments-in-javascript-3p)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [𝑺𝒕𝒂𝒕𝒆 𝒎𝒂𝒏𝒂𝒈𝒆𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝒄𝒖𝒓𝒓𝒊𝒏𝒈 𝒊𝒏 𝑹𝒆𝒂𝒄𝒕.𝒋𝒔](https://dev.to/diyordev/-208c)
 - [Dev.to/JS] [Discover how programming languages such as Python, Node.js, and Kotlin handles asynchronous programming efficiently](https://dev.to/subhafx/discover-how-programming-languages-such-as-python-nodejs-and-kotlin-handles-asynchronous-programming-efficiently-9k7)
 - [Dev.to/JS] [What is Internet ?](https://dev.to/gurnav224/what-is-internet--5c9i)
-- [Dev.to/JS] [7 Valuable Resources Every Web Developer Should Utilise 🚀🔥](https://dev.to/arjuncodess/7-valuable-resources-every-web-developer-should-utilise-4d40)
 - [Lifehacker] [The Best Ways to Use Grass Clippings in Your Garden](https://lifehacker.com/the-best-ways-to-use-grass-clippings-in-your-garden-1850473284)
 - [Lifehacker] [Here&#39;s When Fixing Your Washing Machine Makes More Sense](https://lifehacker.com/heres-when-fixing-your-washing-machine-makes-more-sense-1850473293)
 - [Lifehacker] [You Can Get $59 Flights From Southwest This Summer](https://lifehacker.com/you-can-get-59-flights-from-southwest-this-summer-1850473253)
