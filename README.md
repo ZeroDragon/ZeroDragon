@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [THC Vape Pen](https://dev.to/bulkweedi61/thc-vape-pen-14ea)
+- [Dev.to/JS] [TypeScript Enums are bad?](https://dev.to/ishanbagchi/typescript-enums-are-bad-25p7)
+- [Lifehacker] [Use This USPS Online Tool to Find Out If Mail Really Is Slower in Your Area](https://lifehacker.com/use-this-usps-online-tool-to-find-out-if-mail-really-is-1850473226)
 - [Dev.to/JS] [Revolutionize Your Nest.js Compilation Time: Boosting Speed by 20x with SWC!](https://dev.to/mrsharpp/revolutionize-your-nestjs-compilation-time-boosting-speed-by-20x-with-swc-4ojf)
 - [Dev.to/JS] [Laravel 10: Ignite Your Development Journey with Jaw-Dropping Features](https://dev.to/shayanlk/laravel-10-ignite-your-development-journey-with-jaw-dropping-features-5f7o)
 - [Dev.to/JS] [How to Choose the Right Web Development Framework](https://dev.to/ishanbagchi/how-to-choose-the-right-web-development-framework-388i)
@@ -35,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simplify Data Grouping with the GroupBy Function in JavaScript](https://dev.to/danities316/simplify-data-grouping-with-the-groupby-function-in-javascript-3eii)
 - [Dev.to/JS] [How To Make Hover Effect Overflow Its Container with React](https://dev.to/rodionchachura/how-to-make-hover-effect-overflow-its-container-with-react-5132)
 - [Lifehacker] [You Can Get 2 Months of Free Drinks at Panera](https://lifehacker.com/you-can-get-2-months-of-free-drinks-at-panera-1850473230)
-- [Dev.to/JS] [We made an app where you can host Sports games](https://dev.to/timlmit/i-made-an-app-where-you-can-host-sports-games-2i74)
-- [Dev.to/JS] [How to store user data client side](https://dev.to/jonatanvm/user-data-in-your-web-app-best-practices-for-storage-and-security-2l88)
 - [Lifehacker] [The Best Ways to Use Grass Clippings in Your Garden](https://lifehacker.com/the-best-ways-to-use-grass-clippings-in-your-garden-1850473284)
 - [Lifehacker] [Here&#39;s When Fixing Your Washing Machine Makes More Sense](https://lifehacker.com/heres-when-fixing-your-washing-machine-makes-more-sense-1850473293)
 - [Lifehacker] [You Can Get $59 Flights From Southwest This Summer](https://lifehacker.com/you-can-get-59-flights-from-southwest-this-summer-1850473253)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [How to Hire Great Software Engineers – Standards, Tips &amp; More](https://www.thecrazyprogrammer.com/2023/05/how-to-hire-great-software-engineers.html)
 - [Lifehacker] [You Can Get $20 Off the Stock Investing App Tkyr](https://lifehacker.com/you-can-get-20-off-the-stock-investing-app-tkyr-1850470510)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
-- [Lifehacker] [Why Make Jam When You Could Make a Compote?](https://lifehacker.com/why-make-jam-when-you-could-make-a-compote-1850476917)
-- [Lifehacker] [You Can Get Windows 11 Pro for 80% Off Right Now](https://lifehacker.com/you-can-get-windows-11-pro-for-80-off-right-now-1850470393)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Make Jam When You Could Make a Compote?](https://lifehacker.com/why-make-jam-when-you-could-make-a-compote-1850476917)<!-- TECH-POSTS:END -->
 
 ---
 
