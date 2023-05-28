@@ -23,19 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🌐🚀 Master the Art of Web Development! 🖥️💻](https://dev.to/y3script/master-the-art-of-web-development-2dbp)
+- [Dev.to/JS] [JavaScript Chapter 3 Loops and Functions #10](https://dev.to/sksage/javascript-chapter-3-loops-and-functions-11-5c94)
 - [Dev.to/JS] [N Queens Problem](https://dev.to/amitgharge/n-queens-problem-4n82)
 - [Dev.to/JS] [Simplify Data Grouping with the GroupBy Function in JavaScript](https://dev.to/danities316/simplify-data-grouping-with-the-groupby-function-in-javascript-3eii)
 - [Lifehacker] [You Can Get 2 Months of Free Drinks at Panera](https://lifehacker.com/you-can-get-2-months-of-free-drinks-at-panera-1850473230)
 - [Dev.to/JS] [We made an app where you can host Sports games](https://dev.to/timlmit/i-made-an-app-where-you-can-host-sports-games-2i74)
+- [Dev.to/JS] [How to store user data client side](https://dev.to/jonatanvm/user-data-in-your-web-app-best-practices-for-storage-and-security-2l88)
 - [Dev.to/JS] [File Uploads Made Easy with Multer package in nodeJS](https://dev.to/itsvinayak/file-uploads-made-easy-with-multer-package-in-nodejs-3mo0)
 - [Dev.to/JS] [The fantastic speed of template literals...](https://dev.to/efpage/the-fantastic-speed-of-template-literals-4f0p)
 - [Dev.to/JS] [The Magnificent Dance of Variables: Inside the World of Lexical Environments in JavaScript](https://dev.to/diyorbekkdev/the-magnificent-dance-of-variables-inside-the-world-of-lexical-environments-in-javascript-3p)
 - [Dev.to/JS] [Add Image Lightbox in Your Wordpress Theme Without a Plugin](https://dev.to/sourav1112/add-image-lightbox-in-your-wordpress-theme-without-a-plugin-280j)
 - [Dev.to/JS] [Be 10x Productive using these JavaScript tips](https://dev.to/lovepreetsingh/be-10x-productive-using-these-javascript-tips-2n7n)
 - [Dev.to/JS] [Strange Magic of Typescript Intersections](https://dev.to/mr_developer/strange-magic-of-typescript-intersections-fae)
-- [Dev.to/JS] [How to Integrate Chatbot on Facebook Messenger? &lpar; Ultimate Guide&rpar;](https://dev.to/devashishmamgain/how-to-integrate-chatbot-on-facebook-messenger-ultimate-guide-22d3)
-- [Dev.to/JS] [Journey into JavaScript&#39;s Call Stack: Unraveling the Essence of Function Execution](https://dev.to/shaileshparmarwebdeveloper/journey-into-javascripts-call-stack-unraveling-the-essence-of-function-execution-2f9e)
-- [Dev.to/JS] [𝑺𝒕𝒂𝒕𝒆 𝒎𝒂𝒏𝒂𝒈𝒆𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝒄𝒖𝒓𝒓𝒊𝒏𝒈 𝒊𝒏 𝑹𝒆𝒂𝒄𝒕.𝒋𝒔](https://dev.to/diyordev/-208c)
 - [Lifehacker] [The Best Ways to Use Grass Clippings in Your Garden](https://lifehacker.com/the-best-ways-to-use-grass-clippings-in-your-garden-1850473284)
 - [Lifehacker] [Here&#39;s When Fixing Your Washing Machine Makes More Sense](https://lifehacker.com/heres-when-fixing-your-washing-machine-makes-more-sense-1850473293)
 - [Lifehacker] [You Can Get $59 Flights From Southwest This Summer](https://lifehacker.com/you-can-get-59-flights-from-southwest-this-summer-1850473253)
