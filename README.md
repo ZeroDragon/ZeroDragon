@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Guide to Chrome Extension Configuration: Manifest.json File](https://dev.to/scriptjsh/a-guide-to-chrome-extension-configuration-manifestjson-file-15kn)
 - [Dev.to/JS] [Enhance Your Website&#39;s Image Carousel with Owl Carousel Two and Elevated Zoom](https://dev.to/sammulla47/enhance-your-websites-image-carousel-with-owl-carousel-two-and-elevated-zoom-44ga)
 - [Dev.to/JS] [How to override shortcode in WordPress](https://dev.to/wpsyed/how-to-override-shortcode-in-wordpress-3b69)
 - [Dev.to/JS] [Best Practices for Optimizing JavaScript Performance](https://dev.to/mochafreddo/best-practices-for-optimizing-javascript-performance-2nac)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Streamlining Codebase, Mastering useContext, and Deployment Research: A Day in Coding](https://dev.to/arashjangali/streamlining-codebase-mastering-usecontext-and-deployment-research-a-day-in-coding-436h)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 8: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-8-freecodecamp-javascript-algorithms-and-data-structures-certification-2kig)
 - [Dev.to/JS] [Promesas con async y await](https://dev.to/ulisesserranop/promesas-con-async-y-await-53gc)
-- [Dev.to/JS] [State Of CSS, May 2023 : Newest Additions](https://dev.to/basheerdotdev/state-of-css-may-2023-newest-additions-1p3o)
 - [Lifehacker] [The Best Ways to Use Grass Clippings in Your Garden](https://lifehacker.com/the-best-ways-to-use-grass-clippings-in-your-garden-1850473284)
 - [Lifehacker] [Here&#39;s When Fixing Your Washing Machine Makes More Sense](https://lifehacker.com/heres-when-fixing-your-washing-machine-makes-more-sense-1850473293)
 - [Lifehacker] [You Can Get $59 Flights From Southwest This Summer](https://lifehacker.com/you-can-get-59-flights-from-southwest-this-summer-1850473253)
