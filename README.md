@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Integrate Chatbot on Facebook Messenger? &lpar; Ultimate Guide&rpar;](https://dev.to/devashishmamgain/how-to-integrate-chatbot-on-facebook-messenger-ultimate-guide-22d3)
+- [Dev.to/JS] [Journey into JavaScript&#39;s Call Stack: Unraveling the Essence of Function Execution](https://dev.to/shaileshparmarwebdeveloper/journey-into-javascripts-call-stack-unraveling-the-essence-of-function-execution-2f9e)
+- [Dev.to/JS] [𝑺𝒕𝒂𝒕𝒆 𝒎𝒂𝒏𝒂𝒈𝒆𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝒄𝒖𝒓𝒓𝒊𝒏𝒈 𝒊𝒏 𝑹𝒆𝒂𝒄𝒕.𝒋𝒔](https://dev.to/diyordev/-208c)
 - [Dev.to/JS] [Discover how programming languages such as Python, Node.js, and Kotlin handles asynchronous programming efficiently](https://dev.to/subhafx/discover-how-programming-languages-such-as-python-nodejs-and-kotlin-handles-asynchronous-programming-efficiently-9k7)
 - [Dev.to/JS] [What is Internet ?](https://dev.to/gurnav224/what-is-internet--5c9i)
 - [Dev.to/JS] [7 Valuable Resources Every Web Developer Should Utilise 🚀🔥](https://dev.to/arjuncodess/7-valuable-resources-every-web-developer-should-utilise-4d40)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Practices for Optimizing JavaScript Performance](https://dev.to/mochafreddo/best-practices-for-optimizing-javascript-performance-2nac)
 - [Dev.to/JS] [Overview of Overwolf app &quot;PatchMe&quot;](https://dev.to/abdelsalam_tolaymat/overview-of-overwolf-app-patchme-21jf)
 - [Dev.to/JS] [Dependency Injection Pattern &lpar; For beginners&rpar;](https://dev.to/walosha/dependency-injection-pattern-for-beginners-3nc4)
-- [Dev.to/JS] [Creating Geographic Solutions with Maps in Frontend](https://dev.to/kevin-uehara/creating-geographic-solutions-with-maps-in-frontend-english-version-2n3j)
-- [Dev.to/JS] [Understanding Assign by Value and Assign by Reference in JavaScript.](https://dev.to/thedheerajjha/understanding-assign-by-value-and-assign-by-reference-in-javascript-4fm8)
-- [Dev.to/JS] [Um guia prático para unificar funções em objetos com JavaScript](https://dev.to/kecbm/um-guia-pratico-para-unificar-funcoes-em-objetos-com-javascript-24g0)
 - [Lifehacker] [The Best Ways to Use Grass Clippings in Your Garden](https://lifehacker.com/the-best-ways-to-use-grass-clippings-in-your-garden-1850473284)
 - [Lifehacker] [Here&#39;s When Fixing Your Washing Machine Makes More Sense](https://lifehacker.com/heres-when-fixing-your-washing-machine-makes-more-sense-1850473293)
 - [Lifehacker] [You Can Get $59 Flights From Southwest This Summer](https://lifehacker.com/you-can-get-59-flights-from-southwest-this-summer-1850473253)
