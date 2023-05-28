@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The fantastic speed of template literals...](https://dev.to/efpage/the-fantastic-speed-of-template-literals-4f0p)
+- [Dev.to/JS] [The Magnificent Dance of Variables: Inside the World of Lexical Environments in JavaScript](https://dev.to/diyorbekkdev/the-magnificent-dance-of-variables-inside-the-world-of-lexical-environments-in-javascript-3p)
 - [Dev.to/JS] [Add Image Lightbox in Your Wordpress Theme Without a Plugin](https://dev.to/sourav1112/add-image-lightbox-in-your-wordpress-theme-without-a-plugin-280j)
 - [Dev.to/JS] [Be 10x Productive using these JavaScript tips](https://dev.to/lovepreetsingh/be-10x-productive-using-these-javascript-tips-2n7n)
 - [Dev.to/JS] [Strange Magic of Typescript Intersections](https://dev.to/mr_developer/strange-magic-of-typescript-intersections-fae)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Internet ?](https://dev.to/gurnav224/what-is-internet--5c9i)
 - [Dev.to/JS] [7 Valuable Resources Every Web Developer Should Utilise 🚀🔥](https://dev.to/arjuncodess/7-valuable-resources-every-web-developer-should-utilise-4d40)
 - [Dev.to/JS] [A Guide to Chrome Extension Configuration: Manifest.json File](https://dev.to/scriptjsh/a-guide-to-chrome-extension-configuration-manifestjson-file-15kn)
-- [Dev.to/JS] [Enhance Your Website&#39;s Image Carousel with Owl Carousel Two and Elevated Zoom](https://dev.to/sammulla47/enhance-your-websites-image-carousel-with-owl-carousel-two-and-elevated-zoom-44ga)
-- [Dev.to/JS] [How to override shortcode in WordPress](https://dev.to/wpsyed/how-to-override-shortcode-in-wordpress-3b69)
 - [Lifehacker] [The Best Ways to Use Grass Clippings in Your Garden](https://lifehacker.com/the-best-ways-to-use-grass-clippings-in-your-garden-1850473284)
 - [Lifehacker] [Here&#39;s When Fixing Your Washing Machine Makes More Sense](https://lifehacker.com/heres-when-fixing-your-washing-machine-makes-more-sense-1850473293)
 - [Lifehacker] [You Can Get $59 Flights From Southwest This Summer](https://lifehacker.com/you-can-get-59-flights-from-southwest-this-summer-1850473253)
