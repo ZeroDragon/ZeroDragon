@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Add Image Lightbox in Your Wordpress Theme Without a Plugin](https://dev.to/sourav1112/add-image-lightbox-in-your-wordpress-theme-without-a-plugin-280j)
+- [Dev.to/JS] [Be 10x Productive using these JavaScript tips](https://dev.to/lovepreetsingh/be-10x-productive-using-these-javascript-tips-2n7n)
+- [Dev.to/JS] [Strange Magic of Typescript Intersections](https://dev.to/mr_developer/strange-magic-of-typescript-intersections-fae)
 - [Dev.to/JS] [How to Integrate Chatbot on Facebook Messenger? &lpar; Ultimate Guide&rpar;](https://dev.to/devashishmamgain/how-to-integrate-chatbot-on-facebook-messenger-ultimate-guide-22d3)
 - [Dev.to/JS] [Journey into JavaScript&#39;s Call Stack: Unraveling the Essence of Function Execution](https://dev.to/shaileshparmarwebdeveloper/journey-into-javascripts-call-stack-unraveling-the-essence-of-function-execution-2f9e)
 - [Dev.to/JS] [𝑺𝒕𝒂𝒕𝒆 𝒎𝒂𝒏𝒂𝒈𝒆𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝒄𝒖𝒓𝒓𝒊𝒏𝒈 𝒊𝒏 𝑹𝒆𝒂𝒄𝒕.𝒋𝒔](https://dev.to/diyordev/-208c)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Guide to Chrome Extension Configuration: Manifest.json File](https://dev.to/scriptjsh/a-guide-to-chrome-extension-configuration-manifestjson-file-15kn)
 - [Dev.to/JS] [Enhance Your Website&#39;s Image Carousel with Owl Carousel Two and Elevated Zoom](https://dev.to/sammulla47/enhance-your-websites-image-carousel-with-owl-carousel-two-and-elevated-zoom-44ga)
 - [Dev.to/JS] [How to override shortcode in WordPress](https://dev.to/wpsyed/how-to-override-shortcode-in-wordpress-3b69)
-- [Dev.to/JS] [Best Practices for Optimizing JavaScript Performance](https://dev.to/mochafreddo/best-practices-for-optimizing-javascript-performance-2nac)
-- [Dev.to/JS] [Overview of Overwolf app &quot;PatchMe&quot;](https://dev.to/abdelsalam_tolaymat/overview-of-overwolf-app-patchme-21jf)
-- [Dev.to/JS] [Dependency Injection Pattern &lpar; For beginners&rpar;](https://dev.to/walosha/dependency-injection-pattern-for-beginners-3nc4)
 - [Lifehacker] [The Best Ways to Use Grass Clippings in Your Garden](https://lifehacker.com/the-best-ways-to-use-grass-clippings-in-your-garden-1850473284)
 - [Lifehacker] [Here&#39;s When Fixing Your Washing Machine Makes More Sense](https://lifehacker.com/heres-when-fixing-your-washing-machine-makes-more-sense-1850473293)
 - [Lifehacker] [You Can Get $59 Flights From Southwest This Summer](https://lifehacker.com/you-can-get-59-flights-from-southwest-this-summer-1850473253)
