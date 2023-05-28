@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Revolutionize Your Nest.js Compilation Time: Boosting Speed by 20x with SWC!](https://dev.to/mrsharpp/revolutionize-your-nestjs-compilation-time-boosting-speed-by-20x-with-swc-4ojf)
+- [Dev.to/JS] [Laravel 10: Ignite Your Development Journey with Jaw-Dropping Features](https://dev.to/shayanlk/laravel-10-ignite-your-development-journey-with-jaw-dropping-features-5f7o)
+- [Dev.to/JS] [How to Choose the Right Web Development Framework](https://dev.to/ishanbagchi/how-to-choose-the-right-web-development-framework-388i)
+- [Dev.to/JS] [🌟Top JavaScript Animation Libraries: A Complete Guide for Young Coders🌟](https://dev.to/botkids/top-javascript-animation-libraries-a-complete-guide-for-young-coders-257h)
 - [Dev.to/JS] [Exploring the Various Retry APIs of Playwright for Robust Testing](https://dev.to/lucgagan/exploring-the-various-retry-apis-of-playwright-for-robust-testing-2bff)
 - [Lifehacker] [Where to Find Extra Storage Space in Your Kitchen](https://lifehacker.com/where-to-find-extra-storage-space-in-your-kitchen-1850473228)
 - [Dev.to/JS] [🌐🚀 Master the Art of Web Development! 🖥️💻](https://dev.to/y3script/master-the-art-of-web-development-2dbp)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get 2 Months of Free Drinks at Panera](https://lifehacker.com/you-can-get-2-months-of-free-drinks-at-panera-1850473230)
 - [Dev.to/JS] [We made an app where you can host Sports games](https://dev.to/timlmit/i-made-an-app-where-you-can-host-sports-games-2i74)
 - [Dev.to/JS] [How to store user data client side](https://dev.to/jonatanvm/user-data-in-your-web-app-best-practices-for-storage-and-security-2l88)
-- [Dev.to/JS] [File Uploads Made Easy with Multer package in nodeJS](https://dev.to/itsvinayak/file-uploads-made-easy-with-multer-package-in-nodejs-3mo0)
-- [Dev.to/JS] [The fantastic speed of template literals...](https://dev.to/efpage/the-fantastic-speed-of-template-literals-4f0p)
-- [Dev.to/JS] [The Magnificent Dance of Variables: Inside the World of Lexical Environments in JavaScript](https://dev.to/diyorbekkdev/the-magnificent-dance-of-variables-inside-the-world-of-lexical-environments-in-javascript-3p)
-- [Dev.to/JS] [Add Image Lightbox in Your Wordpress Theme Without a Plugin](https://dev.to/sourav1112/add-image-lightbox-in-your-wordpress-theme-without-a-plugin-280j)
 - [Lifehacker] [The Best Ways to Use Grass Clippings in Your Garden](https://lifehacker.com/the-best-ways-to-use-grass-clippings-in-your-garden-1850473284)
 - [Lifehacker] [Here&#39;s When Fixing Your Washing Machine Makes More Sense](https://lifehacker.com/heres-when-fixing-your-washing-machine-makes-more-sense-1850473293)
 - [Lifehacker] [You Can Get $59 Flights From Southwest This Summer](https://lifehacker.com/you-can-get-59-flights-from-southwest-this-summer-1850473253)
