@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a Responsive Nav Menu with Tailwind and Alpinejs](https://dev.to/andrewzach/create-a-responsive-nav-menu-with-tailwind-and-alpinejs-2ij1)
+- [Dev.to/JS] [Part 1: Getting Started with Vue](https://dev.to/miracool/part-1-getting-started-with-vue-2d31)
+- [Dev.to/JS] [Exploring Astro.js: Streamline Web Development with Effortless Static Sites](https://dev.to/goktugerol/exploring-astrojs-streamline-web-development-with-effortless-static-sites-3pop)
+- [Dev.to/JS] [Vue Made Easy: Introduction.](https://dev.to/miracool/vue-made-easy-introduction-1dec)
 - [Dev.to/JS] [A ray of hope...](https://dev.to/shenlong/a-ray-of-hope-4eop)
 - [Dev.to/JS] [Input&lpar;&rpar; Syntax in 20 Different Programming Languages](https://dev.to/scofieldidehen/input-syntax-in-20-different-programming-languages-15om)
 - [Dev.to/JS] [TypeScript Enums are bad?](https://dev.to/ishanbagchi/typescript-enums-are-bad-25p7)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🌟Top JavaScript Animation Libraries: A Complete Guide for Young Coders🌟](https://dev.to/botkids/top-javascript-animation-libraries-a-complete-guide-for-young-coders-257h)
 - [Dev.to/JS] [Exploring the Various Retry APIs of Playwright for Robust Testing](https://dev.to/lucgagan/exploring-the-various-retry-apis-of-playwright-for-robust-testing-2bff)
 - [Lifehacker] [Where to Find Extra Storage Space in Your Kitchen](https://lifehacker.com/where-to-find-extra-storage-space-in-your-kitchen-1850473228)
-- [Dev.to/JS] [🌐🚀 Master the Art of Web Development! 🖥️💻](https://dev.to/y3script/master-the-art-of-web-development-2dbp)
-- [Dev.to/JS] [JavaScript Chapter 3 Loops and Functions #10](https://dev.to/sksage/javascript-chapter-3-loops-and-functions-11-5c94)
-- [Dev.to/JS] [N Queens Problem](https://dev.to/amitgharge/n-queens-problem-4n82)
-- [Dev.to/JS] [Simplify Data Grouping with the GroupBy Function in JavaScript](https://dev.to/danities316/simplify-data-grouping-with-the-groupby-function-in-javascript-3eii)
 - [Lifehacker] [You Can Get 2 Months of Free Drinks at Panera](https://lifehacker.com/you-can-get-2-months-of-free-drinks-at-panera-1850473230)
 - [Lifehacker] [The Best Ways to Use Grass Clippings in Your Garden](https://lifehacker.com/the-best-ways-to-use-grass-clippings-in-your-garden-1850473284)
 - [Lifehacker] [Here&#39;s When Fixing Your Washing Machine Makes More Sense](https://lifehacker.com/heres-when-fixing-your-washing-machine-makes-more-sense-1850473293)
