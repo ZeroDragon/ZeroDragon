@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [UseState Hook Demystified](https://dev.to/jemmycodes/usestate-hook-demystified-4gi5)
 - [Dev.to/JS] [Advancing Towards Deployment: Exploring Hosting Platforms and Streamlining the Process - Day 117 of #365DaysOfCode](https://dev.to/arashjangali/advancing-towards-deployment-exploring-hosting-platforms-and-streamlining-the-process-day-117-of-365daysofcode-483)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 9: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-9-freecodecamp-javascript-algorithms-and-data-structures-109f)
 - [Dev.to/JS] [How I Used Github API to Generate a Dynamic Name Updating Every Minute!](https://dev.to/abomisr/how-i-used-github-api-to-generate-a-dynamic-name-updating-every-minute-2790)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Input&lpar;&rpar; Syntax in 20 Different Programming Languages](https://dev.to/scofieldidehen/input-syntax-in-20-different-programming-languages-15om)
 - [Dev.to/JS] [TypeScript Enums are bad?](https://dev.to/ishanbagchi/typescript-enums-are-bad-25p7)
 - [Lifehacker] [Use This USPS Online Tool to Find Out If Mail Really Is Slower in Your Area](https://lifehacker.com/use-this-usps-online-tool-to-find-out-if-mail-really-is-1850473226)
-- [Dev.to/JS] [Revolutionize Your Nest.js Compilation Time: Boosting Speed by 20x with SWC!](https://dev.to/mrsharpp/revolutionize-your-nestjs-compilation-time-boosting-speed-by-20x-with-swc-4ojf)
 - [Lifehacker] [Where to Find Extra Storage Space in Your Kitchen](https://lifehacker.com/where-to-find-extra-storage-space-in-your-kitchen-1850473228)
 - [Lifehacker] [You Can Get 2 Months of Free Drinks at Panera](https://lifehacker.com/you-can-get-2-months-of-free-drinks-at-panera-1850473230)
 - [Lifehacker] [The Best Ways to Use Grass Clippings in Your Garden](https://lifehacker.com/the-best-ways-to-use-grass-clippings-in-your-garden-1850473284)
