@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Promises in JavaScript](https://dev.to/ptheodosiou/understanding-promises-in-javascript-5c0)
+- [Dev.to/JS] [7 Common beginner mistakes in React Native Development and how to avoid them](https://dev.to/rushitjivani/7-common-beginner-mistakes-in-react-native-development-and-how-to-avoid-them-1aeg)
+- [Dev.to/JS] [Hare-Pulling Experience: Image Downloads in React Native](https://dev.to/the_mayur23/hare-pulling-experience-image-downloads-in-react-native-gch)
+- [Dev.to/JS] [Quiz WebApp](https://dev.to/puneetkumar2010/quiz-webapp-1d0e)
+- [Dev.to/JS] [ESLint Rule Configuration: Striking the Balance Between Strictness and Flexibility](https://dev.to/dmytrych/eslint-rule-configuration-striking-the-balance-between-strictness-and-flexibility-1i5i)
 - [Dev.to/JS] [Full Stack Mastery using Full Stack end to end Applications](https://dev.to/tkssharma/full-stack-mastery-using-full-stack-end-to-end-applications-3efd)
 - [Dev.to/JS] [How To Refactor Navigation Links Using map&lpar;&rpar; in React](https://dev.to/cathleys/how-to-refactor-navigation-links-using-map-in-react-9m3)
 - [Dev.to/JS] [React Native ECharts 1.1 Released !](https://dev.to/zhiqingchen/react-native-echarts-11-released--4e3n)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learning React: Virtual DOM](https://dev.to/rabibsust/learning-react-about-virtual-dom-3obe)
 - [Dev.to/JS] [Slapomania: A mental flex game with the occasional slap.😁](https://dev.to/united1l/slapomania-a-mental-flex-game-with-the-occasional-slap-1e1k)
 - [Dev.to/JS] [The Philosophy of OOP and FP with JavaScript](https://dev.to/ocodista/the-philosophy-of-oop-and-fp-with-javascript-58c7)
-- [Dev.to/JS] [Introduction to React.js](https://dev.to/haszankauna/introduction-to-reactjs-2ae1)
-- [Dev.to/JS] [UseState Hook Demystified](https://dev.to/jemmycodes/usestate-hook-demystified-4gi5)
-- [Dev.to/JS] [Advancing Towards Deployment: Exploring Hosting Platforms and Streamlining the Process - Day 117 of #365DaysOfCode](https://dev.to/arashjangali/advancing-towards-deployment-exploring-hosting-platforms-and-streamlining-the-process-day-117-of-365daysofcode-483)
-- [Dev.to/JS] [100 Days Coding Challenge - Day 9: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-9-freecodecamp-javascript-algorithms-and-data-structures-109f)
-- [Dev.to/JS] [How I Used Github API to Generate a Dynamic Name Updating Every Minute!](https://dev.to/abomisr/how-i-used-github-api-to-generate-a-dynamic-name-updating-every-minute-2790)
 - [Lifehacker] [Use This USPS Online Tool to Find Out If Mail Really Is Slower in Your Area](https://lifehacker.com/use-this-usps-online-tool-to-find-out-if-mail-really-is-1850473226)
 - [Lifehacker] [Where to Find Extra Storage Space in Your Kitchen](https://lifehacker.com/where-to-find-extra-storage-space-in-your-kitchen-1850473228)
 - [Lifehacker] [You Can Get 2 Months of Free Drinks at Panera](https://lifehacker.com/you-can-get-2-months-of-free-drinks-at-panera-1850473230)
