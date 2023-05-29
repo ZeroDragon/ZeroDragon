@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implementing Continuous Integration for Node.js Apps with GitHub Actions](https://dev.to/olumidenwosu/implementing-continuous-integration-for-nodejs-apps-with-github-actions-1ag2)
+- [Lifehacker] [The Best Ways to Combat Hard Water &lpar;and Why You Need To&rpar;](https://lifehacker.com/the-best-ways-to-combat-hard-water-and-why-you-need-to-1850319293)
+- [Dev.to/JS] [Understanding Scope in JavaScript](https://dev.to/samyak112/understanding-scope-in-javascript-1ge7)
 - [Lifehacker] [How to Make &lpar;and Use&rpar; Sofrito](https://lifehacker.com/how-to-make-and-use-sofrito-1850471992)
 - [Lifehacker] [Why You Should Shop for Kitchenware at the Grocery Store](https://lifehacker.com/why-you-should-shop-for-kitchenware-at-the-grocery-stor-1850308190)
 - [Dev.to/JS] [Benefits of Shopify E-commerce Development](https://dev.to/brettsmith12/benefits-of-shopify-e-commerce-development-16jh)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simplifying form error validations in Angular.](https://dev.to/jstnjs/simplifying-form-error-validations-in-angular-27k6)
 - [Dev.to/JS] [JAVASCRIPT Technical Paper](https://dev.to/ankitkumar24/javascript-technical-paper-1nbg)
 - [Dev.to/JS] [Debounce function with a return value using promises](https://dev.to/jorensm/debounce-function-with-a-return-value-using-promises-1i14)
-- [Dev.to/JS] [How to Fetch Data from an API in Angular](https://dev.to/chrisachinga/how-to-fetch-data-from-an-api-in-angular-4p37)
-- [Dev.to/JS] [Better DX in Vue apps with Vite Devtools](https://dev.to/jacobandrewsky/better-dx-invue-apps-with-vite-devtools-1ge)
 - [Lifehacker] [Use This USPS Online Tool to Find Out If Mail Really Is Slower in Your Area](https://lifehacker.com/use-this-usps-online-tool-to-find-out-if-mail-really-is-1850473226)
 - [Lifehacker] [Where to Find Extra Storage Space in Your Kitchen](https://lifehacker.com/where-to-find-extra-storage-space-in-your-kitchen-1850473228)
 - [Lifehacker] [You Can Get 2 Months of Free Drinks at Panera](https://lifehacker.com/you-can-get-2-months-of-free-drinks-at-panera-1850473230)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Uh, an $8,000 ‘Curb Couch’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-uh-an-8-1850471833)
 - [Lifehacker] [Make a Perverted Trifle With Pop-Tarts](https://lifehacker.com/make-a-perverted-trifle-with-pop-tarts-1850477191)
 - [Lifehacker] [You Can Get 50% Off Paramount+ With Showtime Right Now](https://lifehacker.com/you-can-get-50-off-paramount-with-showtime-right-now-1850478221)
-- [Lifehacker] [Why You Shouldn’t Call the Police on an Unhoused Person &lpar;and What to Do Instead&rpar;](https://lifehacker.com/why-you-shouldn-t-call-the-police-on-an-unhoused-person-1850344587)
-- [Crazy Programmer] [How to Hire Great Software Engineers – Standards, Tips &amp; More](https://www.thecrazyprogrammer.com/2023/05/how-to-hire-great-software-engineers.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Shouldn’t Call the Police on an Unhoused Person &lpar;and What to Do Instead&rpar;](https://lifehacker.com/why-you-shouldn-t-call-the-police-on-an-unhoused-person-1850344587)<!-- TECH-POSTS:END -->
 
 ---
 
