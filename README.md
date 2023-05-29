@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Often You Really Need to Clean Your Reusable Water Bottle](https://lifehacker.com/how-often-you-really-need-to-clean-your-reusable-water-1850319797)
+- [Lifehacker] [The Biggest Mistakes That Beginner Indoor Cyclists Make](https://lifehacker.com/the-biggest-mistakes-that-beginner-indoor-cyclists-make-1850320215)
+- [Dev.to/JS] [Seamless, full-stack authentication in Next.js](https://dev.to/livecycle/seamless-full-stack-authentication-in-nextjs-11lp)
+- [Dev.to/JS] [Three Sum Problem](https://dev.to/amitgharge/three-sum-problem-1ni2)
+- [Lifehacker] [You Can Turn Any Chili Into a Meaty Dip](https://lifehacker.com/you-can-turn-any-chili-into-a-meaty-dip-1850319640)
 - [Dev.to/JS] [Implementing Continuous Integration for Node.js Apps with GitHub Actions](https://dev.to/olumidenwosu/implementing-continuous-integration-for-nodejs-apps-with-github-actions-1ag2)
 - [Lifehacker] [The Best Ways to Combat Hard Water &lpar;and Why You Need To&rpar;](https://lifehacker.com/the-best-ways-to-combat-hard-water-and-why-you-need-to-1850319293)
 - [Dev.to/JS] [Understanding Scope in JavaScript](https://dev.to/samyak112/understanding-scope-in-javascript-1ge7)
@@ -37,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Hire Top TypeScript Developer: The Best Way to Evaluate the Top Talent](https://dev.to/labsquokka/how-to-hire-top-typescript-developer-the-best-way-to-evaluate-the-top-talent-641)
 - [Dev.to/JS] [How to create Product page with TailwindCSS in React JS &lpar;beginner&rpar;😎](https://dev.to/yogeshhack/how-to-create-product-page-with-tailwindcss-in-react-js-beginner-2h3d)
 - [Dev.to/JS] [Simplifying form error validations in Angular.](https://dev.to/jstnjs/simplifying-form-error-validations-in-angular-27k6)
-- [Dev.to/JS] [JAVASCRIPT Technical Paper](https://dev.to/ankitkumar24/javascript-technical-paper-1nbg)
-- [Dev.to/JS] [Debounce function with a return value using promises](https://dev.to/jorensm/debounce-function-with-a-return-value-using-promises-1i14)
 - [Lifehacker] [Use This USPS Online Tool to Find Out If Mail Really Is Slower in Your Area](https://lifehacker.com/use-this-usps-online-tool-to-find-out-if-mail-really-is-1850473226)
 - [Lifehacker] [Where to Find Extra Storage Space in Your Kitchen](https://lifehacker.com/where-to-find-extra-storage-space-in-your-kitchen-1850473228)
 - [Lifehacker] [You Can Get 2 Months of Free Drinks at Panera](https://lifehacker.com/you-can-get-2-months-of-free-drinks-at-panera-1850473230)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 20 Most Graphically-Impressive Video Games You Should Play](https://lifehacker.com/the-20-most-graphically-impressive-video-games-you-shou-1850478080)
 - [Lifehacker] [10 Unexpected Benefits to Negotiate When You Sign a New Lease &lpar;Besides Rent&rpar;](https://lifehacker.com/10-unexpected-benefits-to-negotiate-when-you-sign-a-new-1850477938)
 - [Lifehacker] [You Need to Extend the &#39;Undo Send&#39; Timer on Your Email](https://lifehacker.com/you-need-to-extend-the-undo-send-timer-on-your-email-1850476984)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Uh, an $8,000 ‘Curb Couch’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-uh-an-8-1850471833)
-- [Lifehacker] [Make a Perverted Trifle With Pop-Tarts](https://lifehacker.com/make-a-perverted-trifle-with-pop-tarts-1850477191)
-- [Lifehacker] [You Can Get 50% Off Paramount+ With Showtime Right Now](https://lifehacker.com/you-can-get-50-off-paramount-with-showtime-right-now-1850478221)
-- [Lifehacker] [Why You Shouldn’t Call the Police on an Unhoused Person &lpar;and What to Do Instead&rpar;](https://lifehacker.com/why-you-shouldn-t-call-the-police-on-an-unhoused-person-1850344587)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Uh, an $8,000 ‘Curb Couch’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-uh-an-8-1850471833)<!-- TECH-POSTS:END -->
 
 ---
 
