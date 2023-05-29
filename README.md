@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Adjust Your Spin Bike for the Most Comfortable Ride](https://lifehacker.com/how-to-adjust-your-spin-bike-for-the-most-comfortable-r-1850329884)
+- [Dev.to/JS] [Docker Crash Book [FREE] 🎉 🐳](https://dev.to/chetanan/docker-crash-book-free-257n)
+- [Dev.to/JS] [Whats Medusa an introduction part 3 Modules](https://dev.to/nfuhs/whats-medusa-an-introduction-part-3-modules-45g2)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, May 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-4-may-2023-ho8)
+- [Lifehacker] [The Smartest Ways to Repurpose Household Items in Your Garden](https://lifehacker.com/the-smartest-ways-to-repurpose-household-items-in-your-1850473194)
+- [Dev.to/JS] [Como construir una SPA sin frameworks y con testing](https://dev.to/raguilera82/como-construir-una-spa-sin-frameworks-y-con-testing-p2p)
+- [Lifehacker] [Why You Should Set Your Sights on Fulfillment Rather Than Happiness](https://lifehacker.com/why-you-should-set-your-sights-on-fulfillment-rather-th-1850473197)
+- [Dev.to/JS] [Operador de encadenamiento opcional &lpar;?&rpar; en JavaScript](https://dev.to/ulisesserranop/operador-de-encadenamiento-opcional-en-javascript-45eh)
 - [Dev.to/JS] [Higher Order Functions explained](https://dev.to/lukeskw/higher-order-functions-explained-35pe)
 - [Dev.to/JS] [TURN Server Costs: A Complete Guide](https://dev.to/alakkadshaw/turn-server-costs-a-complete-guide-1c4b)
 - [Lifehacker] [Set Up a DIY Automatic Irrigation System in Your Garden](https://lifehacker.com/set-up-a-diy-automatic-irrigation-system-in-your-garden-1850326343)
@@ -32,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Cover Your Lawn in Flowering Bulbs](https://lifehacker.com/cover-your-lawn-in-flowering-bulbs-1850321955)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, May 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-may-2023-1apd)
 - [Dev.to/JS] [ElectronJs How to minimize/close window to system tray or in the background](https://dev.to/brojenuel/electronjs-how-to-minimizeclose-window-to-system-tray-or-in-the-background-11c6)
-- [Dev.to/JS] [Express file-based routing like Next.js](https://dev.to/matthiaaas/express-file-based-routing-like-nextjs-2353)
-- [Dev.to/JS] [Deferred and Promise Object in jQuery](https://dev.to/aryan_shourie/deferred-and-promise-object-in-jquery-3gib)
-- [Dev.to/JS] [Vue 3 Lifecycle hooks Explained](https://dev.to/kaperskyguru/vue-3-lifecycle-hooks-explained-k81)
 - [Lifehacker] [How Often You Really Need to Clean Your Reusable Water Bottle](https://lifehacker.com/how-often-you-really-need-to-clean-your-reusable-water-1850319797)
-- [Dev.to/JS] [Ultimate Guide to Vue 3 Reactivity](https://dev.to/kaperskyguru/ultimate-guide-to-vue-3-reactivity-1e41)
 - [Lifehacker] [The Biggest Mistakes That Beginner Indoor Cyclists Make](https://lifehacker.com/the-biggest-mistakes-that-beginner-indoor-cyclists-make-1850320215)
-- [Dev.to/JS] [Seamless, full-stack authentication in Next.js](https://dev.to/livecycle/seamless-full-stack-authentication-in-nextjs-11lp)
 - [Lifehacker] [You Can Turn Any Chili Into a Meaty Dip](https://lifehacker.com/you-can-turn-any-chili-into-a-meaty-dip-1850319640)
 - [Lifehacker] [The Best Ways to Combat Hard Water &lpar;and Why You Need To&rpar;](https://lifehacker.com/the-best-ways-to-combat-hard-water-and-why-you-need-to-1850319293)
 - [Lifehacker] [How to Make &lpar;and Use&rpar; Sofrito](https://lifehacker.com/how-to-make-and-use-sofrito-1850471992)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Pistachio Milk, the Perfect ‘Creamer’ for Your Summer Iced Coffees](https://lifehacker.com/pistachio-milk-is-the-perfect-creamer-for-your-summer-1850480319)
 - [Lifehacker] [How You Could Be Impacted If a Debt Ceiling Agreement Isn&#39;t Reached](https://lifehacker.com/how-you-could-be-impacted-if-a-debt-ceiling-agreement-i-1850480034)
 - [Lifehacker] [Windows Is Finally Getting Support for RAR and 7z Archives](https://lifehacker.com/windows-is-finally-getting-support-for-rar-and-7z-archi-1850478854)
-- [Lifehacker] [Turn a Shrimp Egg Roll Into Chips and Dip](https://lifehacker.com/turn-a-shrimp-egg-roll-into-chips-and-dip-1850477321)
-- [Lifehacker] [This Is the Only Effective Way to Keep Deer Out of Your Garden](https://lifehacker.com/this-is-the-only-effective-way-to-keep-deer-out-of-your-1850479518)
-- [Lifehacker] [The 20 Most Graphically-Impressive Video Games You Should Play](https://lifehacker.com/the-20-most-graphically-impressive-video-games-you-shou-1850478080)
-- [Lifehacker] [10 Unexpected Benefits to Negotiate When You Sign a New Lease &lpar;Besides Rent&rpar;](https://lifehacker.com/10-unexpected-benefits-to-negotiate-when-you-sign-a-new-1850477938)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Turn a Shrimp Egg Roll Into Chips and Dip](https://lifehacker.com/turn-a-shrimp-egg-roll-into-chips-and-dip-1850477321)<!-- TECH-POSTS:END -->
 
 ---
 
