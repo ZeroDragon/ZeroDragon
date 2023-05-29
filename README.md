@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to React.js](https://dev.to/haszankauna/introduction-to-reactjs-2ae1)
 - [Dev.to/JS] [UseState Hook Demystified](https://dev.to/jemmycodes/usestate-hook-demystified-4gi5)
 - [Dev.to/JS] [Advancing Towards Deployment: Exploring Hosting Platforms and Streamlining the Process - Day 117 of #365DaysOfCode](https://dev.to/arashjangali/advancing-towards-deployment-exploring-hosting-platforms-and-streamlining-the-process-day-117-of-365daysofcode-483)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 9: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-9-freecodecamp-javascript-algorithms-and-data-structures-109f)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vue Made Easy: Introduction.](https://dev.to/miracool/vue-made-easy-introduction-1dec)
 - [Dev.to/JS] [A ray of hope...](https://dev.to/shenlong/a-ray-of-hope-4eop)
 - [Dev.to/JS] [Input&lpar;&rpar; Syntax in 20 Different Programming Languages](https://dev.to/scofieldidehen/input-syntax-in-20-different-programming-languages-15om)
-- [Dev.to/JS] [TypeScript Enums are bad?](https://dev.to/ishanbagchi/typescript-enums-are-bad-25p7)
 - [Lifehacker] [Use This USPS Online Tool to Find Out If Mail Really Is Slower in Your Area](https://lifehacker.com/use-this-usps-online-tool-to-find-out-if-mail-really-is-1850473226)
 - [Lifehacker] [Where to Find Extra Storage Space in Your Kitchen](https://lifehacker.com/where-to-find-extra-storage-space-in-your-kitchen-1850473228)
 - [Lifehacker] [You Can Get 2 Months of Free Drinks at Panera](https://lifehacker.com/you-can-get-2-months-of-free-drinks-at-panera-1850473230)
