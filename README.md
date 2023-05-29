@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data Type](https://dev.to/mrizwanashiq/data-type-cbi)
+- [Dev.to/JS] [Configure pnpm for the best possible developer experience](https://dev.to/adamcoster/configure-pnpm-for-the-best-possible-developer-experience-a17)
+- [Dev.to/JS] [JavaScript wants your functions to have names](https://dev.to/adamcoster/javascript-wants-your-functions-to-have-names-1om9)
+- [Dev.to/JS] [Elzero Frontend Challenges: Build a button that shows and hides a paragraph](https://dev.to/mouatezbenariba/elzero-frontend-challenges-build-a-button-that-shows-and-hides-a-paragraph-4b2f)
+- [Dev.to/JS] [Behind the Scenes: Understanding the Inner Workings of Node.js](https://dev.to/mayarkabaja/behind-the-scenes-understanding-the-inner-workings-of-nodejs-47)
+- [Lifehacker] [How to Use Your Greywater to Save Money &lpar;and Resources&rpar;](https://lifehacker.com/how-to-use-your-greywater-to-save-money-and-resources-1850332763)
+- [Dev.to/JS] [A Step-by-Step Guide to Setting Up a Node.js Express Project with TypeScript](https://dev.to/vibhorpal/a-step-by-step-guide-to-setting-up-a-nodejs-express-project-with-typescript-b83)
 - [Lifehacker] [How to Adjust Your Spin Bike for the Most Comfortable Ride](https://lifehacker.com/how-to-adjust-your-spin-bike-for-the-most-comfortable-r-1850329884)
 - [Dev.to/JS] [Docker Crash Book [FREE] 🎉 🐳](https://dev.to/chetanan/docker-crash-book-free-257n)
 - [Dev.to/JS] [Whats Medusa an introduction part 3 Modules](https://dev.to/nfuhs/whats-medusa-an-introduction-part-3-modules-45g2)
@@ -32,14 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Set Your Sights on Fulfillment Rather Than Happiness](https://lifehacker.com/why-you-should-set-your-sights-on-fulfillment-rather-th-1850473197)
 - [Dev.to/JS] [Operador de encadenamiento opcional &lpar;?&rpar; en JavaScript](https://dev.to/ulisesserranop/operador-de-encadenamiento-opcional-en-javascript-45eh)
 - [Dev.to/JS] [Higher Order Functions explained](https://dev.to/lukeskw/higher-order-functions-explained-35pe)
-- [Dev.to/JS] [TURN Server Costs: A Complete Guide](https://dev.to/alakkadshaw/turn-server-costs-a-complete-guide-1c4b)
 - [Lifehacker] [Set Up a DIY Automatic Irrigation System in Your Garden](https://lifehacker.com/set-up-a-diy-automatic-irrigation-system-in-your-garden-1850326343)
-- [Dev.to/JS] [Deploy Self-Hosted Next.js application with .NET API](https://dev.to/kedzior_io/deploy-self-hosted-nextjs-application-with-net-api-43p8)
-- [Dev.to/JS] [100 Days Coding Challenge - Day 10: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-10-freecodecamp-javascript-algorithms-and-data-structures-34d1)
-- [Dev.to/JS] [Netflix UI Clone](https://dev.to/soumyajit7/netflix-ui-clone-6bf)
 - [Lifehacker] [Cover Your Lawn in Flowering Bulbs](https://lifehacker.com/cover-your-lawn-in-flowering-bulbs-1850321955)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, May 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-may-2023-1apd)
-- [Dev.to/JS] [ElectronJs How to minimize/close window to system tray or in the background](https://dev.to/brojenuel/electronjs-how-to-minimizeclose-window-to-system-tray-or-in-the-background-11c6)
 - [Lifehacker] [How Often You Really Need to Clean Your Reusable Water Bottle](https://lifehacker.com/how-often-you-really-need-to-clean-your-reusable-water-1850319797)
 - [Lifehacker] [The Biggest Mistakes That Beginner Indoor Cyclists Make](https://lifehacker.com/the-biggest-mistakes-that-beginner-indoor-cyclists-make-1850320215)
 - [Lifehacker] [You Can Turn Any Chili Into a Meaty Dip](https://lifehacker.com/you-can-turn-any-chili-into-a-meaty-dip-1850319640)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Try the ‘Memory Anchoring’ Method to Calm a Child &lpar;and Yourself&rpar;](https://lifehacker.com/try-the-memory-anchoring-method-to-calm-a-child-and-1850477252)
 - [Lifehacker] [Make Pistachio Milk, the Perfect ‘Creamer’ for Your Summer Iced Coffees](https://lifehacker.com/pistachio-milk-is-the-perfect-creamer-for-your-summer-1850480319)
 - [Lifehacker] [How You Could Be Impacted If a Debt Ceiling Agreement Isn&#39;t Reached](https://lifehacker.com/how-you-could-be-impacted-if-a-debt-ceiling-agreement-i-1850480034)
-- [Lifehacker] [Windows Is Finally Getting Support for RAR and 7z Archives](https://lifehacker.com/windows-is-finally-getting-support-for-rar-and-7z-archi-1850478854)
-- [Lifehacker] [Turn a Shrimp Egg Roll Into Chips and Dip](https://lifehacker.com/turn-a-shrimp-egg-roll-into-chips-and-dip-1850477321)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Windows Is Finally Getting Support for RAR and 7z Archives](https://lifehacker.com/windows-is-finally-getting-support-for-rar-and-7z-archi-1850478854)<!-- TECH-POSTS:END -->
 
 ---
 
