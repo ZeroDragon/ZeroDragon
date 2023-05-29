@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, May 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-may-2023-1apd)
+- [Dev.to/JS] [ElectronJs How to minimize/close window to system tray or in the background](https://dev.to/brojenuel/electronjs-how-to-minimizeclose-window-to-system-tray-or-in-the-background-11c6)
+- [Dev.to/JS] [Express file-based routing like Next.js](https://dev.to/matthiaaas/express-file-based-routing-like-nextjs-2353)
+- [Dev.to/JS] [Deferred and Promise Object in jQuery](https://dev.to/aryan_shourie/deferred-and-promise-object-in-jquery-3gib)
+- [Dev.to/JS] [Vue 3 Lifecycle hooks Explained](https://dev.to/kaperskyguru/vue-3-lifecycle-hooks-explained-k81)
 - [Lifehacker] [How Often You Really Need to Clean Your Reusable Water Bottle](https://lifehacker.com/how-often-you-really-need-to-clean-your-reusable-water-1850319797)
+- [Dev.to/JS] [Ultimate Guide to Vue 3 Reactivity](https://dev.to/kaperskyguru/ultimate-guide-to-vue-3-reactivity-1e41)
 - [Lifehacker] [The Biggest Mistakes That Beginner Indoor Cyclists Make](https://lifehacker.com/the-biggest-mistakes-that-beginner-indoor-cyclists-make-1850320215)
 - [Dev.to/JS] [Seamless, full-stack authentication in Next.js](https://dev.to/livecycle/seamless-full-stack-authentication-in-nextjs-11lp)
 - [Dev.to/JS] [Three Sum Problem](https://dev.to/amitgharge/three-sum-problem-1ni2)
@@ -36,12 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Benefits of Shopify E-commerce Development](https://dev.to/brettsmith12/benefits-of-shopify-e-commerce-development-16jh)
 - [Dev.to/JS] [How to automate AI video creation](https://dev.to/skob/how-to-automate-video-creation-with-ai-4aoa)
 - [Lifehacker] [All the Things In Your House You Can Just Clean Outside With a Hose](https://lifehacker.com/all-the-things-in-your-house-you-can-just-clean-outside-1850308195)
-- [Dev.to/JS] [Simplify Your Code with Arrow Functions in JavaScript](https://dev.to/robiulhr/simplify-your-code-with-arrow-functions-in-javascript-2ahm)
-- [Dev.to/JS] [Veri Yapıları ve Algoritmalar: O&lpar;1&rpar; ve O&lpar;n&rpar;](https://dev.to/baris/veri-yapilari-ve-algoritmalar-o1-ve-on-j0p)
-- [Dev.to/JS] [Modernizing Your Codebase with Lebab](https://dev.to/kamil7x/modernizing-your-codebase-with-lebab-56ip)
-- [Dev.to/JS] [How to Hire Top TypeScript Developer: The Best Way to Evaluate the Top Talent](https://dev.to/labsquokka/how-to-hire-top-typescript-developer-the-best-way-to-evaluate-the-top-talent-641)
-- [Dev.to/JS] [How to create Product page with TailwindCSS in React JS &lpar;beginner&rpar;😎](https://dev.to/yogeshhack/how-to-create-product-page-with-tailwindcss-in-react-js-beginner-2h3d)
-- [Dev.to/JS] [Simplifying form error validations in Angular.](https://dev.to/jstnjs/simplifying-form-error-validations-in-angular-27k6)
 - [Lifehacker] [Use This USPS Online Tool to Find Out If Mail Really Is Slower in Your Area](https://lifehacker.com/use-this-usps-online-tool-to-find-out-if-mail-really-is-1850473226)
 - [Lifehacker] [Where to Find Extra Storage Space in Your Kitchen](https://lifehacker.com/where-to-find-extra-storage-space-in-your-kitchen-1850473228)
 - [Lifehacker] [You Can Get 2 Months of Free Drinks at Panera](https://lifehacker.com/you-can-get-2-months-of-free-drinks-at-panera-1850473230)
