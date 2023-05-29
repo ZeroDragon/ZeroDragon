@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Native ECharts 1.1 Released !](https://dev.to/zhiqingchen/react-native-echarts-11-released--4e3n)
 - [Dev.to/JS] [Setting Up Biometric Login on Your React Native App](https://dev.to/allanloji/setting-up-biometric-login-on-your-react-native-app-4903)
 - [Dev.to/JS] [Learning React Day 3: About Virtual DOM](https://dev.to/rabibsust/learning-react-about-virtual-dom-3obe)
 - [Dev.to/JS] [Slapomania: A mental flex game with the occasional slap.😁](https://dev.to/united1l/slapomania-a-mental-flex-game-with-the-occasional-slap-1e1k)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I Used Github API to Generate a Dynamic Name Updating Every Minute!](https://dev.to/abomisr/how-i-used-github-api-to-generate-a-dynamic-name-updating-every-minute-2790)
 - [Dev.to/JS] [Cypress Workshop Part 7: Elements manipulation - Table And Upload](https://dev.to/viktorijafilipov/cypress-workshop-part-7-elements-manipulation-table-and-upload-2l3j)
 - [Dev.to/JS] [Create a Responsive Nav Menu with Tailwind and Alpinejs](https://dev.to/andrewzach/create-a-responsive-nav-menu-with-tailwind-and-alpinejs-2ij1)
-- [Dev.to/JS] [Part 1: Getting Started with Vue](https://dev.to/miracool/part-1-getting-started-with-vue-2d31)
 - [Lifehacker] [Use This USPS Online Tool to Find Out If Mail Really Is Slower in Your Area](https://lifehacker.com/use-this-usps-online-tool-to-find-out-if-mail-really-is-1850473226)
 - [Lifehacker] [Where to Find Extra Storage Space in Your Kitchen](https://lifehacker.com/where-to-find-extra-storage-space-in-your-kitchen-1850473228)
 - [Lifehacker] [You Can Get 2 Months of Free Drinks at Panera](https://lifehacker.com/you-can-get-2-months-of-free-drinks-at-panera-1850473230)
