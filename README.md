@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Debounce function with a return value using promises](https://dev.to/jorensm/debounce-function-with-a-return-value-using-promises-1i14)
 - [Dev.to/JS] [How to Fetch Data from an API in Angular](https://dev.to/chrisachinga/how-to-fetch-data-from-an-api-in-angular-4p37)
 - [Dev.to/JS] [Better DX in Vue apps with Vite Devtools](https://dev.to/jacobandrewsky/better-dx-invue-apps-with-vite-devtools-1ge)
 - [Dev.to/JS] [THE #100DAYSOFCODE CHALLENGE.](https://dev.to/vignesh_05/the-100daysofcode-challenge-1nkg)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sorting Visualizer [ A web app to visualize sorting algorithm ]](https://dev.to/soumyajit7/sorting-visualizer-a-web-app-to-visualize-sorting-algorithm--2eni)
 - [Dev.to/JS] [Basic JavaScript Interview Question 5: Difference between “==“ &amp; “===“ operators in JavaScript.](https://dev.to/sharmakshitij18/basic-javascript-interview-question-5-difference-between-operators-in-javascript-1lk6)
 - [Dev.to/JS] [Understanding Promises in JavaScript](https://dev.to/ptheodosiou/understanding-promises-in-javascript-5c0)
-- [Dev.to/JS] [7 Common beginner mistakes in React Native Development and how to avoid them](https://dev.to/rushitjivani/7-common-beginner-mistakes-in-react-native-development-and-how-to-avoid-them-1aeg)
 - [Lifehacker] [Use This USPS Online Tool to Find Out If Mail Really Is Slower in Your Area](https://lifehacker.com/use-this-usps-online-tool-to-find-out-if-mail-really-is-1850473226)
 - [Lifehacker] [Where to Find Extra Storage Space in Your Kitchen](https://lifehacker.com/where-to-find-extra-storage-space-in-your-kitchen-1850473228)
 - [Lifehacker] [You Can Get 2 Months of Free Drinks at Panera](https://lifehacker.com/you-can-get-2-months-of-free-drinks-at-panera-1850473230)
