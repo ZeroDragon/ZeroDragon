@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Effective Ways to Avoid Bugs in JavaScript](https://dev.to/ishanbagchi/7-effective-ways-to-avoid-bugs-in-javascript-1n0a)
+- [Dev.to/JS] [awesome-nonprofit-software &lpar;Beta&rpar;: An open-source, community-updated resource for discounted tools for nonprofits!](https://dev.to/aacitelli/awesome-nonprofit-software-beta-an-open-source-community-updated-resource-for-discounted-tools-for-nonprofits-1pkj)
 - [Lifehacker] [Why You Should Include a Personal Detail in Your Out-of-Office Email](https://lifehacker.com/why-you-should-include-a-personal-detail-in-your-out-of-1850473191)
 - [Dev.to/JS] [Typescript - Alguns conceitos básicos](https://dev.to/marlonfrade/typescript-alguns-conceitos-basicos-1aed)
 - [Lifehacker] [How Baking Soda, of All Things, Can Help Your Workout](https://lifehacker.com/how-baking-soda-of-all-things-can-help-your-workout-1850345925)
@@ -38,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Adjust Your Spin Bike for the Most Comfortable Ride](https://lifehacker.com/how-to-adjust-your-spin-bike-for-the-most-comfortable-r-1850329884)
 - [Dev.to/JS] [Docker Crash Book [FREE] 🎉 🐳](https://dev.to/chetanan/docker-crash-book-free-257n)
 - [Dev.to/JS] [Whats Medusa an introduction part 3 Modules](https://dev.to/nfuhs/whats-medusa-an-introduction-part-3-modules-45g2)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, May 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-4-may-2023-ho8)
 - [Lifehacker] [The Smartest Ways to Repurpose Household Items in Your Garden](https://lifehacker.com/the-smartest-ways-to-repurpose-household-items-in-your-1850473194)
-- [Dev.to/JS] [Como construir una SPA sin frameworks y con testing](https://dev.to/raguilera82/como-construir-una-spa-sin-frameworks-y-con-testing-p2p)
 - [Lifehacker] [Why You Should Set Your Sights on Fulfillment Rather Than Happiness](https://lifehacker.com/why-you-should-set-your-sights-on-fulfillment-rather-th-1850473197)
 - [Lifehacker] [Set Up a DIY Automatic Irrigation System in Your Garden](https://lifehacker.com/set-up-a-diy-automatic-irrigation-system-in-your-garden-1850326343)
 - [Lifehacker] [Cover Your Lawn in Flowering Bulbs](https://lifehacker.com/cover-your-lawn-in-flowering-bulbs-1850321955)
