@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript - Alguns conceitos básicos](https://dev.to/marlonfrade/typescript-alguns-conceitos-basicos-1aed)
+- [Lifehacker] [How Baking Soda, of All Things, Can Help Your Workout](https://lifehacker.com/how-baking-soda-of-all-things-can-help-your-workout-1850345925)
+- [Dev.to/JS] [ECMAScript ES6+: A Comprehensive Guide to Modern JavaScript](https://dev.to/aradwan20/ecmascript-es6-a-comprehensive-guide-to-modern-javascript-1e68)
 - [Dev.to/JS] [Data Type](https://dev.to/mrizwanashiq/data-type-cbi)
+- [Lifehacker] [FFS, Please Stop Swinging Light Kettlebells](https://lifehacker.com/for-fucks-sake-please-stop-swinging-light-kettlebells-1850344356)
 - [Dev.to/JS] [Configure pnpm for the best possible developer experience](https://dev.to/adamcoster/configure-pnpm-for-the-best-possible-developer-experience-a17)
 - [Dev.to/JS] [JavaScript wants your functions to have names](https://dev.to/adamcoster/javascript-wants-your-functions-to-have-names-1om9)
 - [Dev.to/JS] [Elzero Frontend Challenges: Build a button that shows and hides a paragraph](https://dev.to/mouatezbenariba/elzero-frontend-challenges-build-a-button-that-shows-and-hides-a-paragraph-4b2f)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Smartest Ways to Repurpose Household Items in Your Garden](https://lifehacker.com/the-smartest-ways-to-repurpose-household-items-in-your-1850473194)
 - [Dev.to/JS] [Como construir una SPA sin frameworks y con testing](https://dev.to/raguilera82/como-construir-una-spa-sin-frameworks-y-con-testing-p2p)
 - [Lifehacker] [Why You Should Set Your Sights on Fulfillment Rather Than Happiness](https://lifehacker.com/why-you-should-set-your-sights-on-fulfillment-rather-th-1850473197)
-- [Dev.to/JS] [Operador de encadenamiento opcional &lpar;?&rpar; en JavaScript](https://dev.to/ulisesserranop/operador-de-encadenamiento-opcional-en-javascript-45eh)
-- [Dev.to/JS] [Higher Order Functions explained](https://dev.to/lukeskw/higher-order-functions-explained-35pe)
 - [Lifehacker] [Set Up a DIY Automatic Irrigation System in Your Garden](https://lifehacker.com/set-up-a-diy-automatic-irrigation-system-in-your-garden-1850326343)
 - [Lifehacker] [Cover Your Lawn in Flowering Bulbs](https://lifehacker.com/cover-your-lawn-in-flowering-bulbs-1850321955)
 - [Lifehacker] [How Often You Really Need to Clean Your Reusable Water Bottle](https://lifehacker.com/how-often-you-really-need-to-clean-your-reusable-water-1850319797)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Install a Stock Tank for a Cheap and Easy Backyard Pool](https://lifehacker.com/install-a-stock-tank-for-a-cheap-and-easy-backyard-pool-1850478309)
 - [Lifehacker] [This Is How Long Your Cash Physically Lasts](https://lifehacker.com/this-is-how-long-your-cash-physically-lasts-1850479624)
 - [Lifehacker] [Try the ‘Memory Anchoring’ Method to Calm a Child &lpar;and Yourself&rpar;](https://lifehacker.com/try-the-memory-anchoring-method-to-calm-a-child-and-1850477252)
-- [Lifehacker] [Make Pistachio Milk, the Perfect ‘Creamer’ for Your Summer Iced Coffees](https://lifehacker.com/pistachio-milk-is-the-perfect-creamer-for-your-summer-1850480319)
-- [Lifehacker] [How You Could Be Impacted If a Debt Ceiling Agreement Isn&#39;t Reached](https://lifehacker.com/how-you-could-be-impacted-if-a-debt-ceiling-agreement-i-1850480034)
-- [Lifehacker] [Windows Is Finally Getting Support for RAR and 7z Archives](https://lifehacker.com/windows-is-finally-getting-support-for-rar-and-7z-archi-1850478854)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Pistachio Milk, the Perfect ‘Creamer’ for Your Summer Iced Coffees](https://lifehacker.com/pistachio-milk-is-the-perfect-creamer-for-your-summer-1850480319)<!-- TECH-POSTS:END -->
 
 ---
 
