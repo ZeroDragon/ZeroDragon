@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learning React: About Virtual DOM](https://dev.to/rabibsust/learning-react-about-virtual-dom-3obe)
+- [Dev.to/JS] [Slapomania: A mental flex game with the occasional slap.😁](https://dev.to/united1l/slapomania-a-mental-flex-game-with-the-occasional-slap-1e1k)
 - [Dev.to/JS] [The Philosophy of OOP and FP with JavaScript](https://dev.to/ocodista/the-philosophy-of-oop-and-fp-with-javascript-58c7)
 - [Dev.to/JS] [Introduction to React.js](https://dev.to/haszankauna/introduction-to-reactjs-2ae1)
 - [Dev.to/JS] [UseState Hook Demystified](https://dev.to/jemmycodes/usestate-hook-demystified-4gi5)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a Responsive Nav Menu with Tailwind and Alpinejs](https://dev.to/andrewzach/create-a-responsive-nav-menu-with-tailwind-and-alpinejs-2ij1)
 - [Dev.to/JS] [Part 1: Getting Started with Vue](https://dev.to/miracool/part-1-getting-started-with-vue-2d31)
 - [Dev.to/JS] [Exploring Astro.js: Streamline Web Development with Effortless Static Sites](https://dev.to/goktugerol/exploring-astrojs-streamline-web-development-with-effortless-static-sites-3pop)
-- [Dev.to/JS] [Vue Made Easy: Introduction.](https://dev.to/miracool/vue-made-easy-introduction-1dec)
-- [Dev.to/JS] [A ray of hope...](https://dev.to/shenlong/a-ray-of-hope-4eop)
 - [Lifehacker] [Use This USPS Online Tool to Find Out If Mail Really Is Slower in Your Area](https://lifehacker.com/use-this-usps-online-tool-to-find-out-if-mail-really-is-1850473226)
 - [Lifehacker] [Where to Find Extra Storage Space in Your Kitchen](https://lifehacker.com/where-to-find-extra-storage-space-in-your-kitchen-1850473228)
 - [Lifehacker] [You Can Get 2 Months of Free Drinks at Panera](https://lifehacker.com/you-can-get-2-months-of-free-drinks-at-panera-1850473230)
