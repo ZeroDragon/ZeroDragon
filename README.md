@@ -23,18 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Make &lpar;and Use&rpar; Sofrito](https://lifehacker.com/how-to-make-and-use-sofrito-1850471992)
+- [Lifehacker] [Why You Should Shop for Kitchenware at the Grocery Store](https://lifehacker.com/why-you-should-shop-for-kitchenware-at-the-grocery-stor-1850308190)
+- [Dev.to/JS] [Benefits of Shopify E-commerce Development](https://dev.to/brettsmith12/benefits-of-shopify-e-commerce-development-16jh)
+- [Dev.to/JS] [How to automate AI video creation](https://dev.to/skob/how-to-automate-video-creation-with-ai-4aoa)
+- [Lifehacker] [All the Things In Your House You Can Just Clean Outside With a Hose](https://lifehacker.com/all-the-things-in-your-house-you-can-just-clean-outside-1850308195)
+- [Dev.to/JS] [Simplify Your Code with Arrow Functions in JavaScript](https://dev.to/robiulhr/simplify-your-code-with-arrow-functions-in-javascript-2ahm)
 - [Dev.to/JS] [Veri Yapıları ve Algoritmalar: O&lpar;1&rpar; ve O&lpar;n&rpar;](https://dev.to/baris/veri-yapilari-ve-algoritmalar-o1-ve-on-j0p)
 - [Dev.to/JS] [Modernizing Your Codebase with Lebab](https://dev.to/kamil7x/modernizing-your-codebase-with-lebab-56ip)
 - [Dev.to/JS] [How to Hire Top TypeScript Developer: The Best Way to Evaluate the Top Talent](https://dev.to/labsquokka/how-to-hire-top-typescript-developer-the-best-way-to-evaluate-the-top-talent-641)
 - [Dev.to/JS] [How to create Product page with TailwindCSS in React JS &lpar;beginner&rpar;😎](https://dev.to/yogeshhack/how-to-create-product-page-with-tailwindcss-in-react-js-beginner-2h3d)
 - [Dev.to/JS] [Simplifying form error validations in Angular.](https://dev.to/jstnjs/simplifying-form-error-validations-in-angular-27k6)
+- [Dev.to/JS] [JAVASCRIPT Technical Paper](https://dev.to/ankitkumar24/javascript-technical-paper-1nbg)
 - [Dev.to/JS] [Debounce function with a return value using promises](https://dev.to/jorensm/debounce-function-with-a-return-value-using-promises-1i14)
 - [Dev.to/JS] [How to Fetch Data from an API in Angular](https://dev.to/chrisachinga/how-to-fetch-data-from-an-api-in-angular-4p37)
 - [Dev.to/JS] [Better DX in Vue apps with Vite Devtools](https://dev.to/jacobandrewsky/better-dx-invue-apps-with-vite-devtools-1ge)
-- [Dev.to/JS] [THE #100DAYSOFCODE CHALLENGE.](https://dev.to/vignesh_05/the-100daysofcode-challenge-1nkg)
-- [Dev.to/JS] [What is Virtual Timeline?](https://dev.to/kozerkarol/what-is-virtual-timeline-3dgl)
-- [Dev.to/JS] [MANAGING A TEAM WITH NODE.JS](https://dev.to/candie_code/managing-a-team-with-nodejs-kfm)
-- [Dev.to/JS] [What Node.js actually is?](https://dev.to/mdmohaymenulanam/what-nodejs-actually-is-46bm)
 - [Lifehacker] [Use This USPS Online Tool to Find Out If Mail Really Is Slower in Your Area](https://lifehacker.com/use-this-usps-online-tool-to-find-out-if-mail-really-is-1850473226)
 - [Lifehacker] [Where to Find Extra Storage Space in Your Kitchen](https://lifehacker.com/where-to-find-extra-storage-space-in-your-kitchen-1850473228)
 - [Lifehacker] [You Can Get 2 Months of Free Drinks at Panera](https://lifehacker.com/you-can-get-2-months-of-free-drinks-at-panera-1850473230)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a Perverted Trifle With Pop-Tarts](https://lifehacker.com/make-a-perverted-trifle-with-pop-tarts-1850477191)
 - [Lifehacker] [You Can Get 50% Off Paramount+ With Showtime Right Now](https://lifehacker.com/you-can-get-50-off-paramount-with-showtime-right-now-1850478221)
 - [Lifehacker] [Why You Shouldn’t Call the Police on an Unhoused Person &lpar;and What to Do Instead&rpar;](https://lifehacker.com/why-you-shouldn-t-call-the-police-on-an-unhoused-person-1850344587)
-- [Crazy Programmer] [How to Hire Great Software Engineers – Standards, Tips &amp; More](https://www.thecrazyprogrammer.com/2023/05/how-to-hire-great-software-engineers.html)
-- [Lifehacker] [You Can Get $20 Off the Stock Investing App Tkyr](https://lifehacker.com/you-can-get-20-off-the-stock-investing-app-tkyr-1850470510)
-- [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
-- [Lifehacker] [Why Make Jam When You Could Make a Compote?](https://lifehacker.com/why-make-jam-when-you-could-make-a-compote-1850476917)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [How to Hire Great Software Engineers – Standards, Tips &amp; More](https://www.thecrazyprogrammer.com/2023/05/how-to-hire-great-software-engineers.html)<!-- TECH-POSTS:END -->
 
 ---
 
