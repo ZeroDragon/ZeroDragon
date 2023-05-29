@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Include a Personal Detail in Your Out-of-Office Email](https://lifehacker.com/why-you-should-include-a-personal-detail-in-your-out-of-1850473191)
 - [Dev.to/JS] [Typescript - Alguns conceitos básicos](https://dev.to/marlonfrade/typescript-alguns-conceitos-basicos-1aed)
 - [Lifehacker] [How Baking Soda, of All Things, Can Help Your Workout](https://lifehacker.com/how-baking-soda-of-all-things-can-help-your-workout-1850345925)
 - [Dev.to/JS] [ECMAScript ES6+: A Comprehensive Guide to Modern JavaScript](https://dev.to/aradwan20/ecmascript-es6-a-comprehensive-guide-to-modern-javascript-1e68)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Two Keys to Optimizing Your FAFSA and &lpar;Hopefully&rpar; Getting More Financial Aid](https://lifehacker.com/two-keys-to-optimizing-your-fafsa-and-hopefully-getti-1850480093)
 - [Lifehacker] [Install a Stock Tank for a Cheap and Easy Backyard Pool](https://lifehacker.com/install-a-stock-tank-for-a-cheap-and-easy-backyard-pool-1850478309)
 - [Lifehacker] [This Is How Long Your Cash Physically Lasts](https://lifehacker.com/this-is-how-long-your-cash-physically-lasts-1850479624)
-- [Lifehacker] [Try the ‘Memory Anchoring’ Method to Calm a Child &lpar;and Yourself&rpar;](https://lifehacker.com/try-the-memory-anchoring-method-to-calm-a-child-and-1850477252)
-- [Lifehacker] [Make Pistachio Milk, the Perfect ‘Creamer’ for Your Summer Iced Coffees](https://lifehacker.com/pistachio-milk-is-the-perfect-creamer-for-your-summer-1850480319)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Try the ‘Memory Anchoring’ Method to Calm a Child &lpar;and Yourself&rpar;](https://lifehacker.com/try-the-memory-anchoring-method-to-calm-a-child-and-1850477252)<!-- TECH-POSTS:END -->
 
 ---
 
