@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Higher Order Functions explained](https://dev.to/lukeskw/higher-order-functions-explained-35pe)
+- [Dev.to/JS] [TURN Server Costs: A Complete Guide](https://dev.to/alakkadshaw/turn-server-costs-a-complete-guide-1c4b)
+- [Lifehacker] [Set Up a DIY Automatic Irrigation System in Your Garden](https://lifehacker.com/set-up-a-diy-automatic-irrigation-system-in-your-garden-1850326343)
+- [Dev.to/JS] [Deploy Self-Hosted Next.js application with .NET API](https://dev.to/kedzior_io/deploy-self-hosted-nextjs-application-with-net-api-43p8)
+- [Dev.to/JS] [100 Days Coding Challenge - Day 10: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-10-freecodecamp-javascript-algorithms-and-data-structures-34d1)
+- [Dev.to/JS] [Netflix UI Clone](https://dev.to/soumyajit7/netflix-ui-clone-6bf)
+- [Lifehacker] [Cover Your Lawn in Flowering Bulbs](https://lifehacker.com/cover-your-lawn-in-flowering-bulbs-1850321955)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, May 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-may-2023-1apd)
 - [Dev.to/JS] [ElectronJs How to minimize/close window to system tray or in the background](https://dev.to/brojenuel/electronjs-how-to-minimizeclose-window-to-system-tray-or-in-the-background-11c6)
 - [Dev.to/JS] [Express file-based routing like Next.js](https://dev.to/matthiaaas/express-file-based-routing-like-nextjs-2353)
@@ -32,15 +39,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ultimate Guide to Vue 3 Reactivity](https://dev.to/kaperskyguru/ultimate-guide-to-vue-3-reactivity-1e41)
 - [Lifehacker] [The Biggest Mistakes That Beginner Indoor Cyclists Make](https://lifehacker.com/the-biggest-mistakes-that-beginner-indoor-cyclists-make-1850320215)
 - [Dev.to/JS] [Seamless, full-stack authentication in Next.js](https://dev.to/livecycle/seamless-full-stack-authentication-in-nextjs-11lp)
-- [Dev.to/JS] [Three Sum Problem](https://dev.to/amitgharge/three-sum-problem-1ni2)
 - [Lifehacker] [You Can Turn Any Chili Into a Meaty Dip](https://lifehacker.com/you-can-turn-any-chili-into-a-meaty-dip-1850319640)
-- [Dev.to/JS] [Implementing Continuous Integration for Node.js Apps with GitHub Actions](https://dev.to/olumidenwosu/implementing-continuous-integration-for-nodejs-apps-with-github-actions-1ag2)
 - [Lifehacker] [The Best Ways to Combat Hard Water &lpar;and Why You Need To&rpar;](https://lifehacker.com/the-best-ways-to-combat-hard-water-and-why-you-need-to-1850319293)
-- [Dev.to/JS] [Understanding Scope in JavaScript](https://dev.to/samyak112/understanding-scope-in-javascript-1ge7)
 - [Lifehacker] [How to Make &lpar;and Use&rpar; Sofrito](https://lifehacker.com/how-to-make-and-use-sofrito-1850471992)
 - [Lifehacker] [Why You Should Shop for Kitchenware at the Grocery Store](https://lifehacker.com/why-you-should-shop-for-kitchenware-at-the-grocery-stor-1850308190)
-- [Dev.to/JS] [Benefits of Shopify E-commerce Development](https://dev.to/brettsmith12/benefits-of-shopify-e-commerce-development-16jh)
-- [Dev.to/JS] [How to automate AI video creation](https://dev.to/skob/how-to-automate-video-creation-with-ai-4aoa)
 - [Lifehacker] [All the Things In Your House You Can Just Clean Outside With a Hose](https://lifehacker.com/all-the-things-in-your-house-you-can-just-clean-outside-1850308195)
 - [Lifehacker] [Use This USPS Online Tool to Find Out If Mail Really Is Slower in Your Area](https://lifehacker.com/use-this-usps-online-tool-to-find-out-if-mail-really-is-1850473226)
 - [Lifehacker] [Where to Find Extra Storage Space in Your Kitchen](https://lifehacker.com/where-to-find-extra-storage-space-in-your-kitchen-1850473228)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Turn a Shrimp Egg Roll Into Chips and Dip](https://lifehacker.com/turn-a-shrimp-egg-roll-into-chips-and-dip-1850477321)
 - [Lifehacker] [This Is the Only Effective Way to Keep Deer Out of Your Garden](https://lifehacker.com/this-is-the-only-effective-way-to-keep-deer-out-of-your-1850479518)
 - [Lifehacker] [The 20 Most Graphically-Impressive Video Games You Should Play](https://lifehacker.com/the-20-most-graphically-impressive-video-games-you-shou-1850478080)
-- [Lifehacker] [10 Unexpected Benefits to Negotiate When You Sign a New Lease &lpar;Besides Rent&rpar;](https://lifehacker.com/10-unexpected-benefits-to-negotiate-when-you-sign-a-new-1850477938)
-- [Lifehacker] [You Need to Extend the &#39;Undo Send&#39; Timer on Your Email](https://lifehacker.com/you-need-to-extend-the-undo-send-timer-on-your-email-1850476984)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Uh, an $8,000 ‘Curb Couch’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-uh-an-8-1850471833)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Unexpected Benefits to Negotiate When You Sign a New Lease &lpar;Besides Rent&rpar;](https://lifehacker.com/10-unexpected-benefits-to-negotiate-when-you-sign-a-new-1850477938)<!-- TECH-POSTS:END -->
 
 ---
 
