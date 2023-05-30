@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Dairy-free Chocolate Ganache Is Super Simple, Actually](https://lifehacker.com/dairy-free-chocolate-ganache-is-super-simple-actually-1850486743)
+- [Dev.to/JS] [A better prompt engineering library built for JS. Langchain.js feels like a python team writing JS](https://dev.to/levankvirkvelia/a-better-prompt-engineering-library-built-for-js-langchainjs-feels-like-a-python-team-writing-js-39ci)
+- [Lifehacker] [These Seven New Microsoft PowerToys Utilities Are Worth Trying](https://lifehacker.com/these-seven-new-microsoft-powertoys-utilities-are-worth-1850484673)
+- [Dev.to/JS] [Demystifying the JavaScript Event Loop 🤫](https://dev.to/codecraftjs/demystifying-the-javascript-event-loop-15f1)
+- [Dev.to/JS] [Part 2: Understanding Vuex: A State Management Library.](https://dev.to/miracool/part-2-understanding-vuex-a-state-management-library-5fop)
+- [Dev.to/JS] [6 Websites You’ll Love As A Developer](https://dev.to/med_code/12-websites-youll-love-as-a-developer-m0n)
+- [Dev.to/JS] [6 Regrets I Have As a React Developer](https://dev.to/mohammadfaisal/6-regrets-i-have-as-a-react-developer-5aj9)
+- [Dev.to/JS] [App to classify bears with IA 🐻‍❄️🐻](https://dev.to/devlok/app-to-classify-bears-with-ia-48l)
 - [Lifehacker] [Six Ways to Help Lower Your Home Insurance Premium](https://lifehacker.com/six-ways-to-help-lower-your-home-insurance-premium-1850484971)
 - [Dev.to/JS] [Supercharging React.js: Advanced Techniques and Integrations](https://dev.to/dotarjun/supercharging-reactjs-advanced-techniques-and-integrations-jab)
 - [Lifehacker] [This Mac Keyboard App Is Great for Users Who Speak More Than One Language](https://lifehacker.com/this-mac-keyboard-app-is-great-for-users-who-speak-more-1850486203)
@@ -33,14 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ni, one solution for all Nodejs package manager](https://dev.to/vps07/ni-one-solution-for-all-nodejs-package-manager-3jkd)
 - [Dev.to/JS] [APIs, Promises, Asynchronous Programming and everything in-between](https://dev.to/minatop10/apis-promises-asynchronous-programming-and-everything-in-between-8hb)
 - [Lifehacker] [15 Outdated Details You Should Delete From Your Resume](https://lifehacker.com/15-outdated-details-you-should-delete-from-your-resume-1850485814)
-- [Dev.to/JS] [Linters and Formatters: How code reads our code.](https://dev.to/sammy1999/linters-and-formatters-how-code-reads-our-code-4be3)
-- [Dev.to/JS] [Using Vercel Analytics with SvelteKit](https://dev.to/lukehagar/using-vercel-analytics-with-sveltekit-381j)
 - [Lifehacker] [10 Home Improvements Under $10,000 That Add the Most to Your Property Value](https://lifehacker.com/ten-home-improvements-under-10-000-that-add-the-most-t-1850484898)
-- [Dev.to/JS] [Unlocking the Potential: Exploring the Future of Web Development with React](https://dev.to/parag477/unlocking-the-potential-exploring-the-future-of-web-development-with-react-2e0n)
-- [Dev.to/JS] [I think I finally “get” JS objects](https://dev.to/tigt/i-think-i-finally-get-js-objects-o6f)
-- [Dev.to/JS] [Exploring React Lazy with Suspense: Code-Splitting Made Easy](https://dev.to/ishanbagchi/exploring-react-lazy-with-suspense-code-splitting-made-easy-4bgh)
 - [Lifehacker] [Make Oatmeal That&#39;ll Kick Your Ass Awake](https://lifehacker.com/make-oatmeal-thatll-kick-your-ass-awake-1850480397)
-- [Dev.to/JS] [Understanding Deep and Shallow Copy in JavaScript Objects](https://dev.to/hassanrazadev/understanding-deep-and-shallow-copy-in-javascript-objects-c7a)
 - [Lifehacker] [The Easiest Ways to Make Your Kid’s Bedroom Less Scary at Night](https://lifehacker.com/the-easiest-ways-to-make-your-kid-s-bedroom-less-scary-1850184657)
 - [Lifehacker] [Five of the Best Ways to Brighten a Dark, Windowless Room](https://lifehacker.com/five-of-the-best-ways-to-brighten-a-dark-windowless-ro-1850327852)
 - [Lifehacker] [11 Lesser-Known Apps Everyone Should Install on Their Mac](https://lifehacker.com/11-lesser-known-apps-everyone-should-install-on-their-m-1850326614)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Turn Any Chili Into a Meaty Dip](https://lifehacker.com/you-can-turn-any-chili-into-a-meaty-dip-1850319640)
 - [Lifehacker] [The Best Ways to Combat Hard Water &lpar;and Why You Need To&rpar;](https://lifehacker.com/the-best-ways-to-combat-hard-water-and-why-you-need-to-1850319293)
 - [Lifehacker] [How to Make &lpar;and Use&rpar; Sofrito](https://lifehacker.com/how-to-make-and-use-sofrito-1850471992)
-- [Lifehacker] [Why You Should Shop for Kitchenware at the Grocery Store](https://lifehacker.com/why-you-should-shop-for-kitchenware-at-the-grocery-stor-1850308190)
-- [Lifehacker] [All the Things In Your House You Can Just Clean Outside With a Hose](https://lifehacker.com/all-the-things-in-your-house-you-can-just-clean-outside-1850308195)
-- [Lifehacker] [Use This USPS Online Tool to Find Out If Mail Really Is Slower in Your Area](https://lifehacker.com/use-this-usps-online-tool-to-find-out-if-mail-really-is-1850473226)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Shop for Kitchenware at the Grocery Store](https://lifehacker.com/why-you-should-shop-for-kitchenware-at-the-grocery-stor-1850308190)<!-- TECH-POSTS:END -->
 
 ---
 
