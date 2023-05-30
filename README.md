@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Everything You Need to Know About Svelte and SvelteKit](https://dev.to/im_aprogrammer/everything-you-need-to-know-about-svelte-and-sveltekit-52km)
+- [Dev.to/JS] [Angular Signals Study Guide](https://dev.to/this-is-angular/angular-signals-study-guide-25mg)
+- [Dev.to/JS] [Introducing react-image-filler: Your Solution to Placeholder Images in React](https://dev.to/remahmoud/introducing-react-image-filler-your-solution-to-placeholder-images-in-react-51ni)
+- [Dev.to/JS] [Dicas para o uso do padrão Early Return no javascript](https://dev.to/dicas_devon/dicas-para-o-uso-do-padrao-early-return-no-javascript-3bb7)
+- [Dev.to/JS] [Cortexi - Price, Benefits, Reviews, Benefits &amp; Ingredients?](https://dev.to/cortexibuy55759/cortexi-price-benefits-reviews-benefits-ingredients-4g1)
 - [Dev.to/JS] [Installing React with Vite](https://dev.to/rabibsust/installing-react-with-vite-801)
 - [Dev.to/JS] [Tip: Add Typography as Components to your Tailwind Config](https://dev.to/glocore/tip-add-typography-as-components-to-your-tailwind-config-4l4c)
 - [Dev.to/JS] [Learn Django by Building a Collaborative Filtering](https://dev.to/thepythontutorz/learn-django-by-building-a-collaborative-filtering-i1o)
@@ -30,13 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I Substantially Reworked ParseJS](https://dev.to/baenencalin/i-substantially-reworked-parsejs-31j3)
 - [Dev.to/JS] [Project Update: Solving Access Restriction](https://dev.to/arashjangali/project-update-solving-access-restriction-53mk)
 - [Dev.to/JS] [State Management on React [Part 1] - Context API](https://dev.to/kevin-uehara/state-management-on-react-part-1-context-api-4jig)
-- [Dev.to/JS] [Ikenna Gotpaid Tech skills community](https://dev.to/ikennagotpaid100/ikenna-gotpaid-tech-skills-community-156g)
-- [Dev.to/JS] [7 Effective Ways to Avoid Bugs in JavaScript](https://dev.to/ishanbagchi/7-effective-ways-to-avoid-bugs-in-javascript-1n0a)
-- [Dev.to/JS] [awesome-nonprofit-software &lpar;Beta&rpar;: An open-source, community-updated resource for discounted tools for nonprofits!](https://dev.to/aacitelli/awesome-nonprofit-software-beta-an-open-source-community-updated-resource-for-discounted-tools-for-nonprofits-1pkj)
 - [Lifehacker] [Why You Should Include a Personal Detail in Your Out-of-Office Email](https://lifehacker.com/why-you-should-include-a-personal-detail-in-your-out-of-1850473191)
-- [Dev.to/JS] [Typescript - Alguns conceitos básicos](https://dev.to/marlonfrade/typescript-alguns-conceitos-basicos-1aed)
 - [Lifehacker] [How Baking Soda, of All Things, Can Help Your Workout](https://lifehacker.com/how-baking-soda-of-all-things-can-help-your-workout-1850345925)
-- [Dev.to/JS] [ECMAScript ES6+: A Comprehensive Guide to Modern JavaScript](https://dev.to/aradwan20/ecmascript-es6-a-comprehensive-guide-to-modern-javascript-1e68)
 - [Lifehacker] [FFS, Please Stop Swinging Light Kettlebells](https://lifehacker.com/for-fucks-sake-please-stop-swinging-light-kettlebells-1850344356)
 - [Lifehacker] [How to Use Your Greywater to Save Money &lpar;and Resources&rpar;](https://lifehacker.com/how-to-use-your-greywater-to-save-money-and-resources-1850332763)
 - [Lifehacker] [How to Adjust Your Spin Bike for the Most Comfortable Ride](https://lifehacker.com/how-to-adjust-your-spin-bike-for-the-most-comfortable-r-1850329884)
