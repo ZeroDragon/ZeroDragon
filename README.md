@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Guide to Creating Your Own NFTs](https://dev.to/ayaaneth/a-guide-to-creating-your-own-nfts-3cjh)
+- [Dev.to/JS] [Local Image not displaying in public folder EASY FIX - NextJS](https://dev.to/goldenekpendu/local-image-not-displaying-in-public-folder-easy-fix-nextjs-n3p)
 - [Dev.to/JS] [Hyrum&#39;s law in modern frontend](https://dev.to/mihneasim/hyrums-law-in-modern-frontend-1ma5)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in June 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-june-2023-1850488806)
 - [Dev.to/JS] [React CheatSheet](https://dev.to/zinox9/react-cheatsheet-3eao)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Your First Year of Sam’s Club Membership for $30 Right Now](https://lifehacker.com/you-can-get-your-first-year-of-sam-s-club-membership-fo-1850480310)
 - [Lifehacker] [Five Things You Should Do Now to Prepare for a Heatwave](https://lifehacker.com/five-things-you-should-do-now-to-prepare-for-a-heatwave-1850485876)
 - [Dev.to/JS] [Exploring Web Rendering: Isomorphic JavaScript &amp; Hydration](https://dev.to/mangs/exploring-web-rendering-isomorphic-javascript-hydration-k65)
-- [Dev.to/JS] [Next.js Projects](https://dev.to/alisamirali/nextjs-projects-1ccc)
-- [Dev.to/JS] [Future-Proof Your JavaScript Code](https://dev.to/vivekdogra02/future-proof-your-javascript-code-2op5)
 - [Lifehacker] [Dairy-free Chocolate Ganache Is Super Simple, Actually](https://lifehacker.com/dairy-free-chocolate-ganache-is-super-simple-actually-1850486743)
 - [Lifehacker] [These Seven New Microsoft PowerToys Utilities Are Worth Trying](https://lifehacker.com/these-seven-new-microsoft-powertoys-utilities-are-worth-1850484673)
 - [Lifehacker] [Six Ways to Help Lower Your Home Insurance Premium](https://lifehacker.com/six-ways-to-help-lower-your-home-insurance-premium-1850484971)
