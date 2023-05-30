@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlocking the Potential: Exploring the Future of Web Development with React](https://dev.to/parag477/unlocking-the-potential-exploring-the-future-of-web-development-with-react-2e0n)
+- [Dev.to/JS] [I think I finally “get” JS objects](https://dev.to/tigt/i-think-i-finally-get-js-objects-o6f)
+- [Dev.to/JS] [Exploring React Lazy with Suspense: Code-Splitting Made Easy](https://dev.to/ishanbagchi/exploring-react-lazy-with-suspense-code-splitting-made-easy-4bgh)
+- [Lifehacker] [Make Oatmeal That&#39;ll Kick Your Ass Awake](https://lifehacker.com/make-oatmeal-thatll-kick-your-ass-awake-1850480397)
+- [Dev.to/JS] [Understanding Deep and Shallow Copy in JavaScript Objects](https://dev.to/hassanrazadev/understanding-deep-and-shallow-copy-in-javascript-objects-c7a)
+- [Dev.to/JS] [VOLUME İNCREASER BOT FOR PANCAKESWAP AND OTHER DEX](https://dev.to/cryptomaster123dev/volume-increaser-bot-for-pancakeswap-and-other-dex-1mid)
 - [Lifehacker] [The Easiest Ways to Make Your Kid’s Bedroom Less Scary at Night](https://lifehacker.com/the-easiest-ways-to-make-your-kid-s-bedroom-less-scary-1850184657)
 - [Dev.to/JS] [Binary Search](https://dev.to/amitgharge/binary-search-1fei)
 - [Lifehacker] [Five of the Best Ways to Brighten a Dark, Windowless Room](https://lifehacker.com/five-of-the-best-ways-to-brighten-a-dark-windowless-ro-1850327852)
@@ -33,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Chapter 10: Building a Project from Scratch](https://dev.to/shunku/chapter-10-building-a-project-from-scratch-187c)
 - [Dev.to/JS] [Chapter 9: Front-End JavaScript Frameworks](https://dev.to/shunku/chapter-9-front-end-javascript-frameworks-13p6)
 - [Dev.to/JS] [Chapter 8: Modern JavaScript: ES6 and Beyond](https://dev.to/shunku/chapter-8-modern-javascript-es6-and-beyond-19a8)
-- [Dev.to/JS] [Chapter 7: Working with APIs in JavaScript](https://dev.to/shunku/chapter-7-working-with-apis-in-javascript-4i77)
-- [Dev.to/JS] [Chapter 6: JavaScript and the Document Object Model &lpar;DOM&rpar;](https://dev.to/shunku/chapter-6-javascript-and-the-document-object-model-dom-4i9o)
-- [Dev.to/JS] [Chapter 5: Advanced JavaScript Concepts](https://dev.to/shunku/chapter-5-advanced-javascript-concepts-e67)
-- [Dev.to/JS] [Chapter 4: Objects and Arrays in JavaScript](https://dev.to/shunku/chapter-4-objects-and-arrays-in-javascript-a1)
-- [Dev.to/JS] [Chapter 3: JavaScript Functions](https://dev.to/shunku/chapter-3-javascript-functions-4pef)
 - [Lifehacker] [Turn a Whole Lemon Into a Glass of Lemonade](https://lifehacker.com/turn-a-whole-lemon-into-a-glass-of-lemonade-1850484048)
 - [Crazy Programmer] [5 Best Cross Platform App Development Frameworks of 2023](https://www.thecrazyprogrammer.com/2023/05/cross-platform-app-development-frameworks.html)
 - [Lifehacker] [Why You Should Include a Personal Detail in Your Out-of-Office Email](https://lifehacker.com/why-you-should-include-a-personal-detail-in-your-out-of-1850473191)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get 2 Months of Free Drinks at Panera](https://lifehacker.com/you-can-get-2-months-of-free-drinks-at-panera-1850473230)
 - [Lifehacker] [The Best Ways to Use Grass Clippings in Your Garden](https://lifehacker.com/the-best-ways-to-use-grass-clippings-in-your-garden-1850473284)
 - [Lifehacker] [Here&#39;s When Fixing Your Washing Machine Makes More Sense](https://lifehacker.com/heres-when-fixing-your-washing-machine-makes-more-sense-1850473293)
-- [Lifehacker] [You Can Get $59 Flights From Southwest This Summer](https://lifehacker.com/you-can-get-59-flights-from-southwest-this-summer-1850473253)
-- [Lifehacker] [Maybe Don&#39;t Update &#39;Tears of the Kingdom&#39;](https://lifehacker.com/maybe-dont-update-tears-of-the-kingdom-1850479467)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get $59 Flights From Southwest This Summer](https://lifehacker.com/you-can-get-59-flights-from-southwest-this-summer-1850473253)<!-- TECH-POSTS:END -->
 
 ---
 
