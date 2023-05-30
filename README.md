@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring the Latest JavaScript Updates: Enhancing Web Development in 2023](https://dev.to/saiarlen/exploring-the-latest-javascript-updates-enhancing-web-development-in-2023-14dm)
+- [Dev.to/JS] [Express JS: Request Object — Req](https://dev.to/kadea-academy/express-js-request-object-req-3dfa)
+- [Dev.to/JS] [Recursion explained !](https://dev.to/kadea-academy/recursion-explained--10nd)
+- [Dev.to/JS] [new blog post here](https://dev.to/nhuanhoangduc/new-blog-post-here-46i8)
+- [Crazy Programmer] [5 Best Cross Platform App Development Frameworks of 2023](https://www.thecrazyprogrammer.com/2023/05/cross-platform-app-development-frameworks.html)
+- [Dev.to/JS] [Comment faire un système de backup de sa base des données avec sequelize et express.js](https://dev.to/kadea-academy/comment-faire-un-systeme-de-backup-de-sa-base-des-donnees-avec-sequelize-et-expressjs-46mf)
 - [Dev.to/JS] [[Learning Notes] Hightopo’s HT for Web &lpar;1&rpar; - Basic Conceptions](https://dev.to/saymyname/learning-notes-hightopos-ht-for-web-1-basic-conceptions-44b1)
 - [Dev.to/JS] [Learn to Make Heatmaps in JS](https://dev.to/andreykh/learn-to-make-heatmaps-in-js-59ji)
 - [Dev.to/JS] [The Code and Its Children: A Myth of Software Engineering and Web Development](https://dev.to/mrdanishsaleem/the-code-and-its-children-a-myth-of-software-engineering-and-web-development-59a0)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Everything You Need to Know About Svelte and SvelteKit](https://dev.to/im_aprogrammer/everything-you-need-to-know-about-svelte-and-sveltekit-52km)
 - [Dev.to/JS] [Angular Signals Study Guide](https://dev.to/this-is-angular/angular-signals-study-guide-25mg)
 - [Dev.to/JS] [Introducing react-image-filler: Your Solution to Placeholder Images in React](https://dev.to/remahmoud/introducing-react-image-filler-your-solution-to-placeholder-images-in-react-51ni)
-- [Dev.to/JS] [Dicas para o uso do padrão Early Return no javascript](https://dev.to/dicas_devon/dicas-para-o-uso-do-padrao-early-return-no-javascript-3bb7)
-- [Dev.to/JS] [Cortexi - Price, Benefits, Reviews, Benefits &amp; Ingredients?](https://dev.to/cortexibuy55759/cortexi-price-benefits-reviews-benefits-ingredients-4g1)
-- [Dev.to/JS] [Installing React with Vite](https://dev.to/rabibsust/installing-react-with-vite-801)
-- [Dev.to/JS] [Tip: Add Typography as Components to your Tailwind Config](https://dev.to/glocore/tip-add-typography-as-components-to-your-tailwind-config-4l4c)
-- [Dev.to/JS] [Learn Django by Building a Collaborative Filtering](https://dev.to/thepythontutorz/learn-django-by-building-a-collaborative-filtering-i1o)
 - [Lifehacker] [Why You Should Include a Personal Detail in Your Out-of-Office Email](https://lifehacker.com/why-you-should-include-a-personal-detail-in-your-out-of-1850473191)
 - [Lifehacker] [How Baking Soda, of All Things, Can Help Your Workout](https://lifehacker.com/how-baking-soda-of-all-things-can-help-your-workout-1850345925)
 - [Lifehacker] [FFS, Please Stop Swinging Light Kettlebells](https://lifehacker.com/for-fucks-sake-please-stop-swinging-light-kettlebells-1850344356)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is Whoop&#39;s New Strength Trainer Worth Switching For?](https://lifehacker.com/is-whoops-new-strength-trainer-worth-switching-for-1850477196)
 - [Lifehacker] [Two Keys to Optimizing Your FAFSA and &lpar;Hopefully&rpar; Getting More Financial Aid](https://lifehacker.com/two-keys-to-optimizing-your-fafsa-and-hopefully-getti-1850480093)
 - [Lifehacker] [Install a Stock Tank for a Cheap and Easy Backyard Pool](https://lifehacker.com/install-a-stock-tank-for-a-cheap-and-easy-backyard-pool-1850478309)
-- [Lifehacker] [This Is How Long Your Cash Physically Lasts](https://lifehacker.com/this-is-how-long-your-cash-physically-lasts-1850479624)
-- [Lifehacker] [Try the ‘Memory Anchoring’ Method to Calm a Child &lpar;and Yourself&rpar;](https://lifehacker.com/try-the-memory-anchoring-method-to-calm-a-child-and-1850477252)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is How Long Your Cash Physically Lasts](https://lifehacker.com/this-is-how-long-your-cash-physically-lasts-1850479624)<!-- TECH-POSTS:END -->
 
 ---
 
