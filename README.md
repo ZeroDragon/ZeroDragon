@@ -23,19 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Facebook Open-Sources Its Horizon AI Platform](https://dev.to/thenomadevel/facebook-open-sources-its-horizon-ai-platform-am5)
-- [Dev.to/JS] [🔒💡 Building a Password Generator Web Application with Flask: Secure Your Data! 🔐🚀](https://dev.to/y3script/building-a-password-generator-web-application-with-flask-secure-your-data-6e7)
-- [Dev.to/JS] [TamperMonkey Script for Modifying UI of Youtube Using ChatGpt](https://dev.to/anu1097/tampermonkey-script-for-modifying-ui-of-youtube-using-chatgpt-eb1)
-- [Dev.to/JS] [Implement OTP Verification using Redis and Node.js](https://dev.to/desmondsanctity/implement-otp-verification-using-redis-and-nodejs-572c)
-- [Dev.to/JS] [Gradient Along SVG Path with GSAP](https://dev.to/uuuuuulala/gradient-along-svg-path-with-gsap-kl4)
-- [Dev.to/JS] [What exactly is ES6? 🤔](https://dev.to/rafikadir/what-exactly-is-es6-3dj1)
-- [Dev.to/JS] [Can you quickly shuffle the index of a trillion documents without conflict?](https://dev.to/hmmhmmhm_77/can-you-quickly-shuffle-the-index-of-a-trillion-documents-without-conflict-2bal)
-- [Dev.to/JS] [Exploring the Latest JavaScript Updates: Enhancing Web Development in 2023](https://dev.to/saiarlen/exploring-the-latest-javascript-updates-enhancing-web-development-in-2023-14dm)
-- [Dev.to/JS] [Express JS: Request Object — Req](https://dev.to/kadea-academy/express-js-request-object-req-3dfa)
-- [Dev.to/JS] [Recursion explained !](https://dev.to/kadea-academy/recursion-explained--10nd)
-- [Dev.to/JS] [new blog post here](https://dev.to/nhuanhoangduc/new-blog-post-here-46i8)
+- [Lifehacker] [11 Lesser-Known Apps Everyone Should Install on Their Mac](https://lifehacker.com/11-lesser-known-apps-everyone-should-install-on-their-m-1850326614)
+- [Dev.to/JS] [Deep Dive into Chrome Alarm API: Scheduling Timed Events in Chrome Extensions](https://dev.to/scriptjsh/deep-dive-into-chrome-alarm-api-scheduling-timed-events-in-chrome-extensions-2glc)
+- [Dev.to/JS] [Chapter 11: JavaScript Best Practices and Resources](https://dev.to/shunku/chapter-11-javascript-best-practices-and-resources-15fo)
+- [Dev.to/JS] [Chapter 10: Building a Project from Scratch](https://dev.to/shunku/chapter-10-building-a-project-from-scratch-187c)
+- [Dev.to/JS] [Chapter 9: Front-End JavaScript Frameworks](https://dev.to/shunku/chapter-9-front-end-javascript-frameworks-13p6)
+- [Dev.to/JS] [Chapter 8: Modern JavaScript: ES6 and Beyond](https://dev.to/shunku/chapter-8-modern-javascript-es6-and-beyond-19a8)
+- [Dev.to/JS] [Chapter 7: Working with APIs in JavaScript](https://dev.to/shunku/chapter-7-working-with-apis-in-javascript-4i77)
+- [Dev.to/JS] [Chapter 6: JavaScript and the Document Object Model &lpar;DOM&rpar;](https://dev.to/shunku/chapter-6-javascript-and-the-document-object-model-dom-4i9o)
+- [Dev.to/JS] [Chapter 5: Advanced JavaScript Concepts](https://dev.to/shunku/chapter-5-advanced-javascript-concepts-e67)
+- [Dev.to/JS] [Chapter 4: Objects and Arrays in JavaScript](https://dev.to/shunku/chapter-4-objects-and-arrays-in-javascript-a1)
+- [Dev.to/JS] [Chapter 3: JavaScript Functions](https://dev.to/shunku/chapter-3-javascript-functions-4pef)
+- [Dev.to/JS] [Chapter 2: Basics of JavaScript](https://dev.to/shunku/chapter-2-basics-of-javascript-21pe)
+- [Dev.to/JS] [Chapter 1: Introduction to JavaScript](https://dev.to/shunku/chapter-1-introduction-to-javascript-517n)
+- [Lifehacker] [Turn a Whole Lemon Into a Glass of Lemonade](https://lifehacker.com/turn-a-whole-lemon-into-a-glass-of-lemonade-1850484048)
 - [Crazy Programmer] [5 Best Cross Platform App Development Frameworks of 2023](https://www.thecrazyprogrammer.com/2023/05/cross-platform-app-development-frameworks.html)
-- [Dev.to/JS] [Comment faire un système de backup de sa base des données avec sequelize et express.js](https://dev.to/kadea-academy/comment-faire-un-systeme-de-backup-de-sa-base-des-donnees-avec-sequelize-et-expressjs-46mf)
 - [Lifehacker] [Why You Should Include a Personal Detail in Your Out-of-Office Email](https://lifehacker.com/why-you-should-include-a-personal-detail-in-your-out-of-1850473191)
 - [Lifehacker] [How Baking Soda, of All Things, Can Help Your Workout](https://lifehacker.com/how-baking-soda-of-all-things-can-help-your-workout-1850345925)
 - [Lifehacker] [FFS, Please Stop Swinging Light Kettlebells](https://lifehacker.com/for-fucks-sake-please-stop-swinging-light-kettlebells-1850344356)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get $59 Flights From Southwest This Summer](https://lifehacker.com/you-can-get-59-flights-from-southwest-this-summer-1850473253)
 - [Lifehacker] [Maybe Don&#39;t Update &#39;Tears of the Kingdom&#39;](https://lifehacker.com/maybe-dont-update-tears-of-the-kingdom-1850479467)
 - [Lifehacker] [Is Whoop&#39;s New Strength Trainer Worth Switching For?](https://lifehacker.com/is-whoops-new-strength-trainer-worth-switching-for-1850477196)
-- [Lifehacker] [Two Keys to Optimizing Your FAFSA and &lpar;Hopefully&rpar; Getting More Financial Aid](https://lifehacker.com/two-keys-to-optimizing-your-fafsa-and-hopefully-getti-1850480093)
-- [Lifehacker] [Install a Stock Tank for a Cheap and Easy Backyard Pool](https://lifehacker.com/install-a-stock-tank-for-a-cheap-and-easy-backyard-pool-1850478309)
-- [Lifehacker] [This Is How Long Your Cash Physically Lasts](https://lifehacker.com/this-is-how-long-your-cash-physically-lasts-1850479624)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Two Keys to Optimizing Your FAFSA and &lpar;Hopefully&rpar; Getting More Financial Aid](https://lifehacker.com/two-keys-to-optimizing-your-fafsa-and-hopefully-getti-1850480093)<!-- TECH-POSTS:END -->
 
 ---
 
