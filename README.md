@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hyrum&#39;s law in modern frontend](https://dev.to/mihneasim/hyrums-law-in-modern-frontend-1ma5)
+- [Lifehacker] [What&#39;s New on Prime Video and Freevee in June 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-june-2023-1850488806)
+- [Dev.to/JS] [React CheatSheet](https://dev.to/zinox9/react-cheatsheet-3eao)
+- [Dev.to/JS] [Mastering JavaScript Arrays: Unleash the Power of .join&lpar;&rpar;](https://dev.to/joe_codes1/mastering-javascript-arrays-unleash-the-power-of-join-4be4)
+- [Lifehacker] [This At-Home Golf Simulator Is 20% Off Right Now](https://lifehacker.com/this-at-home-golf-simulator-is-20-off-right-now-1850480331)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 11: FreeCodeCamp JavaScript Algorithms and Data Structures &amp; AI Chatbot Python](https://dev.to/alexmgp7/100-days-coding-challenge-day-11-freecodecamp-javascript-algorithms-and-data-structures-ai-chatbot-python-31m4)
 - [Dev.to/JS] [7 High Paying Technologies in the JavaScript/Web dev ecosystem](https://dev.to/xplodivity/7-high-paying-technologies-in-the-javascriptweb-dev-ecosystem-1elb)
 - [Dev.to/JS] [7 Must-Know JS Object Methods 🔥](https://dev.to/jd2r/7-must-know-js-object-methods-2cc7)
@@ -37,11 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring Web Rendering: Isomorphic JavaScript &amp; Hydration](https://dev.to/mangs/exploring-web-rendering-isomorphic-javascript-hydration-k65)
 - [Dev.to/JS] [Next.js Projects](https://dev.to/alisamirali/nextjs-projects-1ccc)
 - [Dev.to/JS] [Future-Proof Your JavaScript Code](https://dev.to/vivekdogra02/future-proof-your-javascript-code-2op5)
-- [Dev.to/JS] [How to create send button with loader](https://dev.to/designyff/how-to-create-send-button-with-loader-5ani)
 - [Lifehacker] [Dairy-free Chocolate Ganache Is Super Simple, Actually](https://lifehacker.com/dairy-free-chocolate-ganache-is-super-simple-actually-1850486743)
-- [Dev.to/JS] [A better prompt engineering library built for JS. Langchain.js feels like a python team writing JS](https://dev.to/levankvirkvelia/a-better-prompt-engineering-library-built-for-js-langchainjs-feels-like-a-python-team-writing-js-39ci)
 - [Lifehacker] [These Seven New Microsoft PowerToys Utilities Are Worth Trying](https://lifehacker.com/these-seven-new-microsoft-powertoys-utilities-are-worth-1850484673)
-- [Dev.to/JS] [Demystifying the JavaScript Event Loop 🤫](https://dev.to/codecraftjs/demystifying-the-javascript-event-loop-15f1)
 - [Lifehacker] [Six Ways to Help Lower Your Home Insurance Premium](https://lifehacker.com/six-ways-to-help-lower-your-home-insurance-premium-1850484971)
 - [Lifehacker] [This Mac Keyboard App Is Great for Users Who Speak More Than One Language](https://lifehacker.com/this-mac-keyboard-app-is-great-for-users-who-speak-more-1850486203)
 - [Lifehacker] [These Home Improvements Are the Most Resistant to Inflation](https://lifehacker.com/these-home-improvements-are-the-most-resistant-to-infla-1850482691)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Adjust Your Spin Bike for the Most Comfortable Ride](https://lifehacker.com/how-to-adjust-your-spin-bike-for-the-most-comfortable-r-1850329884)
 - [Lifehacker] [The Smartest Ways to Repurpose Household Items in Your Garden](https://lifehacker.com/the-smartest-ways-to-repurpose-household-items-in-your-1850473194)
 - [Lifehacker] [Why You Should Set Your Sights on Fulfillment Rather Than Happiness](https://lifehacker.com/why-you-should-set-your-sights-on-fulfillment-rather-th-1850473197)
-- [Lifehacker] [Set Up a DIY Automatic Irrigation System in Your Garden](https://lifehacker.com/set-up-a-diy-automatic-irrigation-system-in-your-garden-1850326343)
-- [Lifehacker] [Cover Your Lawn in Flowering Bulbs](https://lifehacker.com/cover-your-lawn-in-flowering-bulbs-1850321955)
-- [Lifehacker] [How Often You Really Need to Clean Your Reusable Water Bottle](https://lifehacker.com/how-often-you-really-need-to-clean-your-reusable-water-1850319797)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Set Up a DIY Automatic Irrigation System in Your Garden](https://lifehacker.com/set-up-a-diy-automatic-irrigation-system-in-your-garden-1850326343)<!-- TECH-POSTS:END -->
 
 ---
 
