@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[Learning Notes] Hightopo’s HT for Web &lpar;1&rpar; - Basic Conceptions](https://dev.to/saymyname/learning-notes-hightopos-ht-for-web-1-basic-conceptions-44b1)
 - [Dev.to/JS] [Learn to Make Heatmaps in JS](https://dev.to/andreykh/learn-to-make-heatmaps-in-js-59ji)
 - [Dev.to/JS] [The Code and Its Children: A Myth of Software Engineering and Web Development](https://dev.to/mrdanishsaleem/the-code-and-its-children-a-myth-of-software-engineering-and-web-development-59a0)
 - [Dev.to/JS] [Best React Libraries](https://dev.to/brettsmith12/best-react-libraries-4e6k)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Installing React with Vite](https://dev.to/rabibsust/installing-react-with-vite-801)
 - [Dev.to/JS] [Tip: Add Typography as Components to your Tailwind Config](https://dev.to/glocore/tip-add-typography-as-components-to-your-tailwind-config-4l4c)
 - [Dev.to/JS] [Learn Django by Building a Collaborative Filtering](https://dev.to/thepythontutorz/learn-django-by-building-a-collaborative-filtering-i1o)
-- [Dev.to/JS] [How to Fetch Data in React Query Like A Pro](https://dev.to/cathleys/how-to-fetch-data-in-react-query-like-a-pro-4f1d)
 - [Lifehacker] [Why You Should Include a Personal Detail in Your Out-of-Office Email](https://lifehacker.com/why-you-should-include-a-personal-detail-in-your-out-of-1850473191)
 - [Lifehacker] [How Baking Soda, of All Things, Can Help Your Workout](https://lifehacker.com/how-baking-soda-of-all-things-can-help-your-workout-1850345925)
 - [Lifehacker] [FFS, Please Stop Swinging Light Kettlebells](https://lifehacker.com/for-fucks-sake-please-stop-swinging-light-kettlebells-1850344356)
