@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Six Ways to Help Lower Your Home Insurance Premium](https://lifehacker.com/six-ways-to-help-lower-your-home-insurance-premium-1850484971)
+- [Dev.to/JS] [Supercharging React.js: Advanced Techniques and Integrations](https://dev.to/dotarjun/supercharging-reactjs-advanced-techniques-and-integrations-jab)
+- [Lifehacker] [This Mac Keyboard App Is Great for Users Who Speak More Than One Language](https://lifehacker.com/this-mac-keyboard-app-is-great-for-users-who-speak-more-1850486203)
+- [Dev.to/JS] [React and NodeJS Authentication with Refresh &amp; Access Tokens: A Step-by-Step Guide](https://dev.to/sukhjinderarora/understanding-refresh-access-token-based-authentication-in-react-and-nodejs-1j9e)
+- [Dev.to/JS] [From Zero To Hero: Front End Development Projects For Beginners[With Source Code]](https://dev.to/husayn01/from-zero-to-hero-front-end-development-projects-for-beginnerswith-source-code-5mo)
+- [Lifehacker] [These Home Improvements Are the Most Resistant to Inflation](https://lifehacker.com/these-home-improvements-are-the-most-resistant-to-infla-1850482691)
 - [Dev.to/JS] [Software Development SOLID, LIFT, and FIRST principles](https://dev.to/leolanese/software-development-solid-first-and-lift-5854)
 - [Dev.to/JS] [Ni, one solution for all Nodejs package manager](https://dev.to/vps07/ni-one-solution-for-all-nodejs-package-manager-3jkd)
 - [Dev.to/JS] [APIs, Promises, Asynchronous Programming and everything in-between](https://dev.to/minatop10/apis-promises-asynchronous-programming-and-everything-in-between-8hb)
@@ -35,11 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring React Lazy with Suspense: Code-Splitting Made Easy](https://dev.to/ishanbagchi/exploring-react-lazy-with-suspense-code-splitting-made-easy-4bgh)
 - [Lifehacker] [Make Oatmeal That&#39;ll Kick Your Ass Awake](https://lifehacker.com/make-oatmeal-thatll-kick-your-ass-awake-1850480397)
 - [Dev.to/JS] [Understanding Deep and Shallow Copy in JavaScript Objects](https://dev.to/hassanrazadev/understanding-deep-and-shallow-copy-in-javascript-objects-c7a)
-- [Dev.to/JS] [VOLUME İNCREASER BOT FOR PANCAKESWAP AND OTHER DEX](https://dev.to/cryptomaster123dev/volume-increaser-bot-for-pancakeswap-and-other-dex-1mid)
 - [Lifehacker] [The Easiest Ways to Make Your Kid’s Bedroom Less Scary at Night](https://lifehacker.com/the-easiest-ways-to-make-your-kid-s-bedroom-less-scary-1850184657)
-- [Dev.to/JS] [Binary Search](https://dev.to/amitgharge/binary-search-1fei)
 - [Lifehacker] [Five of the Best Ways to Brighten a Dark, Windowless Room](https://lifehacker.com/five-of-the-best-ways-to-brighten-a-dark-windowless-ro-1850327852)
-- [Dev.to/JS] [Unleashing the Power of JavaScript in Bubble.io Backend Workflows: A Case Study](https://dev.to/bulatakh/unleashing-the-power-of-javascript-in-bubbleio-backend-workflows-a-case-study-3b90)
 - [Lifehacker] [11 Lesser-Known Apps Everyone Should Install on Their Mac](https://lifehacker.com/11-lesser-known-apps-everyone-should-install-on-their-m-1850326614)
 - [Lifehacker] [Turn a Whole Lemon Into a Glass of Lemonade](https://lifehacker.com/turn-a-whole-lemon-into-a-glass-of-lemonade-1850484048)
 - [Crazy Programmer] [5 Best Cross Platform App Development Frameworks of 2023](https://www.thecrazyprogrammer.com/2023/05/cross-platform-app-development-frameworks.html)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make &lpar;and Use&rpar; Sofrito](https://lifehacker.com/how-to-make-and-use-sofrito-1850471992)
 - [Lifehacker] [Why You Should Shop for Kitchenware at the Grocery Store](https://lifehacker.com/why-you-should-shop-for-kitchenware-at-the-grocery-stor-1850308190)
 - [Lifehacker] [All the Things In Your House You Can Just Clean Outside With a Hose](https://lifehacker.com/all-the-things-in-your-house-you-can-just-clean-outside-1850308195)
-- [Lifehacker] [Use This USPS Online Tool to Find Out If Mail Really Is Slower in Your Area](https://lifehacker.com/use-this-usps-online-tool-to-find-out-if-mail-really-is-1850473226)
-- [Lifehacker] [Where to Find Extra Storage Space in Your Kitchen](https://lifehacker.com/where-to-find-extra-storage-space-in-your-kitchen-1850473228)
-- [Lifehacker] [You Can Get 2 Months of Free Drinks at Panera](https://lifehacker.com/you-can-get-2-months-of-free-drinks-at-panera-1850473230)
-- [Lifehacker] [The Best Ways to Use Grass Clippings in Your Garden](https://lifehacker.com/the-best-ways-to-use-grass-clippings-in-your-garden-1850473284)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use This USPS Online Tool to Find Out If Mail Really Is Slower in Your Area](https://lifehacker.com/use-this-usps-online-tool-to-find-out-if-mail-really-is-1850473226)<!-- TECH-POSTS:END -->
 
 ---
 
