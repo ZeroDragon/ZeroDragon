@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Ways to Make Your Kid’s Bedroom Less Scary at Night](https://lifehacker.com/the-easiest-ways-to-make-your-kid-s-bedroom-less-scary-1850184657)
+- [Dev.to/JS] [Binary Search](https://dev.to/amitgharge/binary-search-1fei)
+- [Lifehacker] [Five of the Best Ways to Brighten a Dark, Windowless Room](https://lifehacker.com/five-of-the-best-ways-to-brighten-a-dark-windowless-ro-1850327852)
+- [Dev.to/JS] [Unleashing the Power of JavaScript in Bubble.io Backend Workflows: A Case Study](https://dev.to/bulatakh/unleashing-the-power-of-javascript-in-bubbleio-backend-workflows-a-case-study-3b90)
 - [Lifehacker] [11 Lesser-Known Apps Everyone Should Install on Their Mac](https://lifehacker.com/11-lesser-known-apps-everyone-should-install-on-their-m-1850326614)
 - [Dev.to/JS] [Deep Dive into Chrome Alarm API: Scheduling Timed Events in Chrome Extensions](https://dev.to/scriptjsh/deep-dive-into-chrome-alarm-api-scheduling-timed-events-in-chrome-extensions-2glc)
 - [Dev.to/JS] [Chapter 11: JavaScript Best Practices and Resources](https://dev.to/shunku/chapter-11-javascript-best-practices-and-resources-15fo)
@@ -34,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Chapter 5: Advanced JavaScript Concepts](https://dev.to/shunku/chapter-5-advanced-javascript-concepts-e67)
 - [Dev.to/JS] [Chapter 4: Objects and Arrays in JavaScript](https://dev.to/shunku/chapter-4-objects-and-arrays-in-javascript-a1)
 - [Dev.to/JS] [Chapter 3: JavaScript Functions](https://dev.to/shunku/chapter-3-javascript-functions-4pef)
-- [Dev.to/JS] [Chapter 2: Basics of JavaScript](https://dev.to/shunku/chapter-2-basics-of-javascript-21pe)
-- [Dev.to/JS] [Chapter 1: Introduction to JavaScript](https://dev.to/shunku/chapter-1-introduction-to-javascript-517n)
 - [Lifehacker] [Turn a Whole Lemon Into a Glass of Lemonade](https://lifehacker.com/turn-a-whole-lemon-into-a-glass-of-lemonade-1850484048)
 - [Crazy Programmer] [5 Best Cross Platform App Development Frameworks of 2023](https://www.thecrazyprogrammer.com/2023/05/cross-platform-app-development-frameworks.html)
 - [Lifehacker] [Why You Should Include a Personal Detail in Your Out-of-Office Email](https://lifehacker.com/why-you-should-include-a-personal-detail-in-your-out-of-1850473191)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Use Grass Clippings in Your Garden](https://lifehacker.com/the-best-ways-to-use-grass-clippings-in-your-garden-1850473284)
 - [Lifehacker] [Here&#39;s When Fixing Your Washing Machine Makes More Sense](https://lifehacker.com/heres-when-fixing-your-washing-machine-makes-more-sense-1850473293)
 - [Lifehacker] [You Can Get $59 Flights From Southwest This Summer](https://lifehacker.com/you-can-get-59-flights-from-southwest-this-summer-1850473253)
-- [Lifehacker] [Maybe Don&#39;t Update &#39;Tears of the Kingdom&#39;](https://lifehacker.com/maybe-dont-update-tears-of-the-kingdom-1850479467)
-- [Lifehacker] [Is Whoop&#39;s New Strength Trainer Worth Switching For?](https://lifehacker.com/is-whoops-new-strength-trainer-worth-switching-for-1850477196)
-- [Lifehacker] [Two Keys to Optimizing Your FAFSA and &lpar;Hopefully&rpar; Getting More Financial Aid](https://lifehacker.com/two-keys-to-optimizing-your-fafsa-and-hopefully-getti-1850480093)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Maybe Don&#39;t Update &#39;Tears of the Kingdom&#39;](https://lifehacker.com/maybe-dont-update-tears-of-the-kingdom-1850479467)<!-- TECH-POSTS:END -->
 
 ---
 
