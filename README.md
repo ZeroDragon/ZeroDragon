@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Facebook Open-Sources Its Horizon AI Platform](https://dev.to/thenomadevel/facebook-open-sources-its-horizon-ai-platform-am5)
+- [Dev.to/JS] [🔒💡 Building a Password Generator Web Application with Flask: Secure Your Data! 🔐🚀](https://dev.to/y3script/building-a-password-generator-web-application-with-flask-secure-your-data-6e7)
+- [Dev.to/JS] [TamperMonkey Script for Modifying UI of Youtube Using ChatGpt](https://dev.to/anu1097/tampermonkey-script-for-modifying-ui-of-youtube-using-chatgpt-eb1)
+- [Dev.to/JS] [Implement OTP Verification using Redis and Node.js](https://dev.to/desmondsanctity/implement-otp-verification-using-redis-and-nodejs-572c)
+- [Dev.to/JS] [Gradient Along SVG Path with GSAP](https://dev.to/uuuuuulala/gradient-along-svg-path-with-gsap-kl4)
 - [Dev.to/JS] [What exactly is ES6? 🤔](https://dev.to/rafikadir/what-exactly-is-es6-3dj1)
 - [Dev.to/JS] [Can you quickly shuffle the index of a trillion documents without conflict?](https://dev.to/hmmhmmhm_77/can-you-quickly-shuffle-the-index-of-a-trillion-documents-without-conflict-2bal)
 - [Dev.to/JS] [Exploring the Latest JavaScript Updates: Enhancing Web Development in 2023](https://dev.to/saiarlen/exploring-the-latest-javascript-updates-enhancing-web-development-in-2023-14dm)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [new blog post here](https://dev.to/nhuanhoangduc/new-blog-post-here-46i8)
 - [Crazy Programmer] [5 Best Cross Platform App Development Frameworks of 2023](https://www.thecrazyprogrammer.com/2023/05/cross-platform-app-development-frameworks.html)
 - [Dev.to/JS] [Comment faire un système de backup de sa base des données avec sequelize et express.js](https://dev.to/kadea-academy/comment-faire-un-systeme-de-backup-de-sa-base-des-donnees-avec-sequelize-et-expressjs-46mf)
-- [Dev.to/JS] [[Learning Notes] Hightopo’s HT for Web &lpar;1&rpar; - Basic Conceptions](https://dev.to/saymyname/learning-notes-hightopos-ht-for-web-1-basic-conceptions-44b1)
-- [Dev.to/JS] [Learn to Make Heatmaps in JS](https://dev.to/andreykh/learn-to-make-heatmaps-in-js-59ji)
-- [Dev.to/JS] [The Code and Its Children: A Myth of Software Engineering and Web Development](https://dev.to/mrdanishsaleem/the-code-and-its-children-a-myth-of-software-engineering-and-web-development-59a0)
-- [Dev.to/JS] [Best React Libraries](https://dev.to/brettsmith12/best-react-libraries-4e6k)
-- [Dev.to/JS] [Everything You Need to Know About Svelte and SvelteKit](https://dev.to/im_aprogrammer/everything-you-need-to-know-about-svelte-and-sveltekit-52km)
 - [Lifehacker] [Why You Should Include a Personal Detail in Your Out-of-Office Email](https://lifehacker.com/why-you-should-include-a-personal-detail-in-your-out-of-1850473191)
 - [Lifehacker] [How Baking Soda, of All Things, Can Help Your Workout](https://lifehacker.com/how-baking-soda-of-all-things-can-help-your-workout-1850345925)
 - [Lifehacker] [FFS, Please Stop Swinging Light Kettlebells](https://lifehacker.com/for-fucks-sake-please-stop-swinging-light-kettlebells-1850344356)
