@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I Substantially Reworked ParseJS](https://dev.to/baenencalin/i-substantially-reworked-parsejs-31j3)
 - [Dev.to/JS] [Project Update: Solving Access Restriction](https://dev.to/arashjangali/project-update-solving-access-restriction-53mk)
 - [Dev.to/JS] [State Management on React [Part 1] - Context API](https://dev.to/kevin-uehara/state-management-on-react-part-1-context-api-4jig)
 - [Dev.to/JS] [Ikenna Gotpaid Tech skills community](https://dev.to/ikennagotpaid100/ikenna-gotpaid-tech-skills-community-156g)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Configure pnpm for the best possible developer experience](https://dev.to/adamcoster/configure-pnpm-for-the-best-possible-developer-experience-a17)
 - [Dev.to/JS] [JavaScript wants your functions to have names](https://dev.to/adamcoster/javascript-wants-your-functions-to-have-names-1om9)
 - [Dev.to/JS] [Elzero Frontend Challenges: Build a button that shows and hides a paragraph](https://dev.to/mouatezbenariba/elzero-frontend-challenges-build-a-button-that-shows-and-hides-a-paragraph-4b2f)
-- [Dev.to/JS] [Behind the Scenes: Understanding the Inner Workings of Node.js](https://dev.to/mayarkabaja/behind-the-scenes-understanding-the-inner-workings-of-nodejs-47)
 - [Lifehacker] [How to Use Your Greywater to Save Money &lpar;and Resources&rpar;](https://lifehacker.com/how-to-use-your-greywater-to-save-money-and-resources-1850332763)
 - [Lifehacker] [How to Adjust Your Spin Bike for the Most Comfortable Ride](https://lifehacker.com/how-to-adjust-your-spin-bike-for-the-most-comfortable-r-1850329884)
 - [Lifehacker] [The Smartest Ways to Repurpose Household Items in Your Garden](https://lifehacker.com/the-smartest-ways-to-repurpose-household-items-in-your-1850473194)
