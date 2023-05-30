@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This 10TB Lifetime Cloud Backup Is Over 90% Off Right Now](https://lifehacker.com/this-10tb-lifetime-cloud-backup-is-over-90-off-right-n-1850480265)
+- [Lifehacker] [You Can Finally Share Your Screen in WhatsApp on Android](https://lifehacker.com/you-can-finally-share-your-screen-in-whatsapp-on-androi-1850487249)
+- [Dev.to/JS] [Learn Local Storage in React: Create a Light and Dark Theme Switcher Application](https://dev.to/michaellarocca/learn-local-storage-in-react-create-a-light-and-dark-theme-switcher-application-2gii)
+- [Dev.to/JS] [Operators](https://dev.to/mrizwanashiq/operators-3g1)
+- [Lifehacker] [You Can Get Your First Year of Sam’s Club Membership for $30 Right Now](https://lifehacker.com/you-can-get-your-first-year-of-sam-s-club-membership-fo-1850480310)
 - [Lifehacker] [Five Things You Should Do Now to Prepare for a Heatwave](https://lifehacker.com/five-things-you-should-do-now-to-prepare-for-a-heatwave-1850485876)
 - [Dev.to/JS] [Exploring Web Rendering: Isomorphic JavaScript &amp; Hydration](https://dev.to/mangs/exploring-web-rendering-isomorphic-javascript-hydration-k65)
 - [Dev.to/JS] [Next.js Projects](https://dev.to/alisamirali/nextjs-projects-1ccc)
@@ -37,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [6 Regrets I Have As a React Developer](https://dev.to/mohammadfaisal/6-regrets-i-have-as-a-react-developer-5aj9)
 - [Dev.to/JS] [App to classify bears with IA 🐻‍❄️🐻](https://dev.to/devlok/app-to-classify-bears-with-ia-48l)
 - [Lifehacker] [Six Ways to Help Lower Your Home Insurance Premium](https://lifehacker.com/six-ways-to-help-lower-your-home-insurance-premium-1850484971)
-- [Dev.to/JS] [Supercharging React.js: Advanced Techniques and Integrations](https://dev.to/dotarjun/supercharging-reactjs-advanced-techniques-and-integrations-jab)
 - [Lifehacker] [This Mac Keyboard App Is Great for Users Who Speak More Than One Language](https://lifehacker.com/this-mac-keyboard-app-is-great-for-users-who-speak-more-1850486203)
-- [Dev.to/JS] [React and NodeJS Authentication with Refresh &amp; Access Tokens: A Step-by-Step Guide](https://dev.to/sukhjinderarora/understanding-refresh-access-token-based-authentication-in-react-and-nodejs-1j9e)
 - [Lifehacker] [These Home Improvements Are the Most Resistant to Inflation](https://lifehacker.com/these-home-improvements-are-the-most-resistant-to-infla-1850482691)
 - [Lifehacker] [15 Outdated Details You Should Delete From Your Resume](https://lifehacker.com/15-outdated-details-you-should-delete-from-your-resume-1850485814)
 - [Lifehacker] [10 Home Improvements Under $10,000 That Add the Most to Your Property Value](https://lifehacker.com/ten-home-improvements-under-10-000-that-add-the-most-t-1850484898)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Set Up a DIY Automatic Irrigation System in Your Garden](https://lifehacker.com/set-up-a-diy-automatic-irrigation-system-in-your-garden-1850326343)
 - [Lifehacker] [Cover Your Lawn in Flowering Bulbs](https://lifehacker.com/cover-your-lawn-in-flowering-bulbs-1850321955)
 - [Lifehacker] [How Often You Really Need to Clean Your Reusable Water Bottle](https://lifehacker.com/how-often-you-really-need-to-clean-your-reusable-water-1850319797)
-- [Lifehacker] [The Biggest Mistakes That Beginner Indoor Cyclists Make](https://lifehacker.com/the-biggest-mistakes-that-beginner-indoor-cyclists-make-1850320215)
-- [Lifehacker] [You Can Turn Any Chili Into a Meaty Dip](https://lifehacker.com/you-can-turn-any-chili-into-a-meaty-dip-1850319640)
-- [Lifehacker] [The Best Ways to Combat Hard Water &lpar;and Why You Need To&rpar;](https://lifehacker.com/the-best-ways-to-combat-hard-water-and-why-you-need-to-1850319293)
-- [Lifehacker] [How to Make &lpar;and Use&rpar; Sofrito](https://lifehacker.com/how-to-make-and-use-sofrito-1850471992)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Biggest Mistakes That Beginner Indoor Cyclists Make](https://lifehacker.com/the-biggest-mistakes-that-beginner-indoor-cyclists-make-1850320215)<!-- TECH-POSTS:END -->
 
 ---
 
