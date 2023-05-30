@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Installing React with Vite](https://dev.to/rabibsust/installing-react-with-vite-801)
 - [Dev.to/JS] [Tip: Add Typography as Components to your Tailwind Config](https://dev.to/glocore/tip-add-typography-as-components-to-your-tailwind-config-4l4c)
 - [Dev.to/JS] [Learn Django by Building a Collaborative Filtering](https://dev.to/thepythontutorz/learn-django-by-building-a-collaborative-filtering-i1o)
 - [Dev.to/JS] [How to Fetch Data in React Query Like A Pro](https://dev.to/cathleys/how-to-fetch-data-in-react-query-like-a-pro-4f1d)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Typescript - Alguns conceitos básicos](https://dev.to/marlonfrade/typescript-alguns-conceitos-basicos-1aed)
 - [Lifehacker] [How Baking Soda, of All Things, Can Help Your Workout](https://lifehacker.com/how-baking-soda-of-all-things-can-help-your-workout-1850345925)
 - [Dev.to/JS] [ECMAScript ES6+: A Comprehensive Guide to Modern JavaScript](https://dev.to/aradwan20/ecmascript-es6-a-comprehensive-guide-to-modern-javascript-1e68)
-- [Dev.to/JS] [Data Type](https://dev.to/mrizwanashiq/data-type-cbi)
 - [Lifehacker] [FFS, Please Stop Swinging Light Kettlebells](https://lifehacker.com/for-fucks-sake-please-stop-swinging-light-kettlebells-1850344356)
 - [Lifehacker] [How to Use Your Greywater to Save Money &lpar;and Resources&rpar;](https://lifehacker.com/how-to-use-your-greywater-to-save-money-and-resources-1850332763)
 - [Lifehacker] [How to Adjust Your Spin Bike for the Most Comfortable Ride](https://lifehacker.com/how-to-adjust-your-spin-bike-for-the-most-comfortable-r-1850329884)
