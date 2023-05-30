@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tip: Add Typography as Components to your Tailwind Config](https://dev.to/glocore/tip-add-typography-as-components-to-your-tailwind-config-4l4c)
 - [Dev.to/JS] [Learn Django by Building a Collaborative Filtering](https://dev.to/thepythontutorz/learn-django-by-building-a-collaborative-filtering-i1o)
 - [Dev.to/JS] [How to Fetch Data in React Query Like A Pro](https://dev.to/cathleys/how-to-fetch-data-in-react-query-like-a-pro-4f1d)
 - [Dev.to/JS] [I Substantially Reworked ParseJS](https://dev.to/baenencalin/i-substantially-reworked-parsejs-31j3)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ECMAScript ES6+: A Comprehensive Guide to Modern JavaScript](https://dev.to/aradwan20/ecmascript-es6-a-comprehensive-guide-to-modern-javascript-1e68)
 - [Dev.to/JS] [Data Type](https://dev.to/mrizwanashiq/data-type-cbi)
 - [Lifehacker] [FFS, Please Stop Swinging Light Kettlebells](https://lifehacker.com/for-fucks-sake-please-stop-swinging-light-kettlebells-1850344356)
-- [Dev.to/JS] [Configure pnpm for the best possible developer experience](https://dev.to/adamcoster/configure-pnpm-for-the-best-possible-developer-experience-a17)
 - [Lifehacker] [How to Use Your Greywater to Save Money &lpar;and Resources&rpar;](https://lifehacker.com/how-to-use-your-greywater-to-save-money-and-resources-1850332763)
 - [Lifehacker] [How to Adjust Your Spin Bike for the Most Comfortable Ride](https://lifehacker.com/how-to-adjust-your-spin-bike-for-the-most-comfortable-r-1850329884)
 - [Lifehacker] [The Smartest Ways to Repurpose Household Items in Your Garden](https://lifehacker.com/the-smartest-ways-to-repurpose-household-items-in-your-1850473194)
