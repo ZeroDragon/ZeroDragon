@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn to Make Heatmaps in JS](https://dev.to/andreykh/learn-to-make-heatmaps-in-js-59ji)
+- [Dev.to/JS] [The Code and Its Children: A Myth of Software Engineering and Web Development](https://dev.to/mrdanishsaleem/the-code-and-its-children-a-myth-of-software-engineering-and-web-development-59a0)
+- [Dev.to/JS] [Best React Libraries](https://dev.to/brettsmith12/best-react-libraries-4e6k)
 - [Dev.to/JS] [Everything You Need to Know About Svelte and SvelteKit](https://dev.to/im_aprogrammer/everything-you-need-to-know-about-svelte-and-sveltekit-52km)
 - [Dev.to/JS] [Angular Signals Study Guide](https://dev.to/this-is-angular/angular-signals-study-guide-25mg)
 - [Dev.to/JS] [Introducing react-image-filler: Your Solution to Placeholder Images in React](https://dev.to/remahmoud/introducing-react-image-filler-your-solution-to-placeholder-images-in-react-51ni)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tip: Add Typography as Components to your Tailwind Config](https://dev.to/glocore/tip-add-typography-as-components-to-your-tailwind-config-4l4c)
 - [Dev.to/JS] [Learn Django by Building a Collaborative Filtering](https://dev.to/thepythontutorz/learn-django-by-building-a-collaborative-filtering-i1o)
 - [Dev.to/JS] [How to Fetch Data in React Query Like A Pro](https://dev.to/cathleys/how-to-fetch-data-in-react-query-like-a-pro-4f1d)
-- [Dev.to/JS] [I Substantially Reworked ParseJS](https://dev.to/baenencalin/i-substantially-reworked-parsejs-31j3)
-- [Dev.to/JS] [Project Update: Solving Access Restriction](https://dev.to/arashjangali/project-update-solving-access-restriction-53mk)
-- [Dev.to/JS] [State Management on React [Part 1] - Context API](https://dev.to/kevin-uehara/state-management-on-react-part-1-context-api-4jig)
 - [Lifehacker] [Why You Should Include a Personal Detail in Your Out-of-Office Email](https://lifehacker.com/why-you-should-include-a-personal-detail-in-your-out-of-1850473191)
 - [Lifehacker] [How Baking Soda, of All Things, Can Help Your Workout](https://lifehacker.com/how-baking-soda-of-all-things-can-help-your-workout-1850345925)
 - [Lifehacker] [FFS, Please Stop Swinging Light Kettlebells](https://lifehacker.com/for-fucks-sake-please-stop-swinging-light-kettlebells-1850344356)
