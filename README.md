@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Five Things You Should Do Now to Prepare for a Heatwave](https://lifehacker.com/five-things-you-should-do-now-to-prepare-for-a-heatwave-1850485876)
+- [Dev.to/JS] [Exploring Web Rendering: Isomorphic JavaScript &amp; Hydration](https://dev.to/mangs/exploring-web-rendering-isomorphic-javascript-hydration-k65)
+- [Dev.to/JS] [Next.js Projects](https://dev.to/alisamirali/nextjs-projects-1ccc)
+- [Dev.to/JS] [Future-Proof Your JavaScript Code](https://dev.to/vivekdogra02/future-proof-your-javascript-code-2op5)
+- [Dev.to/JS] [How to create send button with loader](https://dev.to/designyff/how-to-create-send-button-with-loader-5ani)
 - [Lifehacker] [Dairy-free Chocolate Ganache Is Super Simple, Actually](https://lifehacker.com/dairy-free-chocolate-ganache-is-super-simple-actually-1850486743)
 - [Dev.to/JS] [A better prompt engineering library built for JS. Langchain.js feels like a python team writing JS](https://dev.to/levankvirkvelia/a-better-prompt-engineering-library-built-for-js-langchainjs-feels-like-a-python-team-writing-js-39ci)
 - [Lifehacker] [These Seven New Microsoft PowerToys Utilities Are Worth Trying](https://lifehacker.com/these-seven-new-microsoft-powertoys-utilities-are-worth-1850484673)
@@ -35,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Supercharging React.js: Advanced Techniques and Integrations](https://dev.to/dotarjun/supercharging-reactjs-advanced-techniques-and-integrations-jab)
 - [Lifehacker] [This Mac Keyboard App Is Great for Users Who Speak More Than One Language](https://lifehacker.com/this-mac-keyboard-app-is-great-for-users-who-speak-more-1850486203)
 - [Dev.to/JS] [React and NodeJS Authentication with Refresh &amp; Access Tokens: A Step-by-Step Guide](https://dev.to/sukhjinderarora/understanding-refresh-access-token-based-authentication-in-react-and-nodejs-1j9e)
-- [Dev.to/JS] [From Zero To Hero: Front End Development Projects For Beginners[With Source Code]](https://dev.to/husayn01/from-zero-to-hero-front-end-development-projects-for-beginnerswith-source-code-5mo)
 - [Lifehacker] [These Home Improvements Are the Most Resistant to Inflation](https://lifehacker.com/these-home-improvements-are-the-most-resistant-to-infla-1850482691)
-- [Dev.to/JS] [Software Development SOLID, LIFT, and FIRST principles](https://dev.to/leolanese/software-development-solid-first-and-lift-5854)
-- [Dev.to/JS] [Ni, one solution for all Nodejs package manager](https://dev.to/vps07/ni-one-solution-for-all-nodejs-package-manager-3jkd)
-- [Dev.to/JS] [APIs, Promises, Asynchronous Programming and everything in-between](https://dev.to/minatop10/apis-promises-asynchronous-programming-and-everything-in-between-8hb)
 - [Lifehacker] [15 Outdated Details You Should Delete From Your Resume](https://lifehacker.com/15-outdated-details-you-should-delete-from-your-resume-1850485814)
 - [Lifehacker] [10 Home Improvements Under $10,000 That Add the Most to Your Property Value](https://lifehacker.com/ten-home-improvements-under-10-000-that-add-the-most-t-1850484898)
 - [Lifehacker] [Make Oatmeal That&#39;ll Kick Your Ass Awake](https://lifehacker.com/make-oatmeal-thatll-kick-your-ass-awake-1850480397)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Biggest Mistakes That Beginner Indoor Cyclists Make](https://lifehacker.com/the-biggest-mistakes-that-beginner-indoor-cyclists-make-1850320215)
 - [Lifehacker] [You Can Turn Any Chili Into a Meaty Dip](https://lifehacker.com/you-can-turn-any-chili-into-a-meaty-dip-1850319640)
 - [Lifehacker] [The Best Ways to Combat Hard Water &lpar;and Why You Need To&rpar;](https://lifehacker.com/the-best-ways-to-combat-hard-water-and-why-you-need-to-1850319293)
-- [Lifehacker] [How to Make &lpar;and Use&rpar; Sofrito](https://lifehacker.com/how-to-make-and-use-sofrito-1850471992)
-- [Lifehacker] [Why You Should Shop for Kitchenware at the Grocery Store](https://lifehacker.com/why-you-should-shop-for-kitchenware-at-the-grocery-stor-1850308190)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make &lpar;and Use&rpar; Sofrito](https://lifehacker.com/how-to-make-and-use-sofrito-1850471992)<!-- TECH-POSTS:END -->
 
 ---
 
