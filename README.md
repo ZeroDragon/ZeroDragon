@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [100 Days Coding Challenge - Day 11: FreeCodeCamp JavaScript Algorithms and Data Structures &amp; AI Chatbot Python](https://dev.to/alexmgp7/100-days-coding-challenge-day-11-freecodecamp-javascript-algorithms-and-data-structures-ai-chatbot-python-31m4)
+- [Dev.to/JS] [7 High Paying Technologies in the JavaScript/Web dev ecosystem](https://dev.to/xplodivity/7-high-paying-technologies-in-the-javascriptweb-dev-ecosystem-1elb)
+- [Dev.to/JS] [7 Must-Know JS Object Methods 🔥](https://dev.to/jd2r/7-must-know-js-object-methods-2cc7)
+- [Lifehacker] [What to Say to Your Freeloading Friend](https://lifehacker.com/what-to-say-to-your-freeloading-friend-1850474833)
+- [Dev.to/JS] [#DEVDiscuss: What&#39;s New in ES2023?](https://dev.to/devteam/devdiscuss-whats-new-in-es2023-3d8b)
 - [Lifehacker] [This 10TB Lifetime Cloud Backup Is Over 90% Off Right Now](https://lifehacker.com/this-10tb-lifetime-cloud-backup-is-over-90-off-right-n-1850480265)
 - [Lifehacker] [You Can Finally Share Your Screen in WhatsApp on Android](https://lifehacker.com/you-can-finally-share-your-screen-in-whatsapp-on-androi-1850487249)
 - [Dev.to/JS] [Learn Local Storage in React: Create a Light and Dark Theme Switcher Application](https://dev.to/michaellarocca/learn-local-storage-in-react-create-a-light-and-dark-theme-switcher-application-2gii)
@@ -37,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A better prompt engineering library built for JS. Langchain.js feels like a python team writing JS](https://dev.to/levankvirkvelia/a-better-prompt-engineering-library-built-for-js-langchainjs-feels-like-a-python-team-writing-js-39ci)
 - [Lifehacker] [These Seven New Microsoft PowerToys Utilities Are Worth Trying](https://lifehacker.com/these-seven-new-microsoft-powertoys-utilities-are-worth-1850484673)
 - [Dev.to/JS] [Demystifying the JavaScript Event Loop 🤫](https://dev.to/codecraftjs/demystifying-the-javascript-event-loop-15f1)
-- [Dev.to/JS] [Part 2: Understanding Vuex: A State Management Library.](https://dev.to/miracool/part-2-understanding-vuex-a-state-management-library-5fop)
-- [Dev.to/JS] [6 Websites You’ll Love As A Developer](https://dev.to/med_code/12-websites-youll-love-as-a-developer-m0n)
-- [Dev.to/JS] [6 Regrets I Have As a React Developer](https://dev.to/mohammadfaisal/6-regrets-i-have-as-a-react-developer-5aj9)
-- [Dev.to/JS] [App to classify bears with IA 🐻‍❄️🐻](https://dev.to/devlok/app-to-classify-bears-with-ia-48l)
 - [Lifehacker] [Six Ways to Help Lower Your Home Insurance Premium](https://lifehacker.com/six-ways-to-help-lower-your-home-insurance-premium-1850484971)
 - [Lifehacker] [This Mac Keyboard App Is Great for Users Who Speak More Than One Language](https://lifehacker.com/this-mac-keyboard-app-is-great-for-users-who-speak-more-1850486203)
 - [Lifehacker] [These Home Improvements Are the Most Resistant to Inflation](https://lifehacker.com/these-home-improvements-are-the-most-resistant-to-infla-1850482691)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Set Your Sights on Fulfillment Rather Than Happiness](https://lifehacker.com/why-you-should-set-your-sights-on-fulfillment-rather-th-1850473197)
 - [Lifehacker] [Set Up a DIY Automatic Irrigation System in Your Garden](https://lifehacker.com/set-up-a-diy-automatic-irrigation-system-in-your-garden-1850326343)
 - [Lifehacker] [Cover Your Lawn in Flowering Bulbs](https://lifehacker.com/cover-your-lawn-in-flowering-bulbs-1850321955)
-- [Lifehacker] [How Often You Really Need to Clean Your Reusable Water Bottle](https://lifehacker.com/how-often-you-really-need-to-clean-your-reusable-water-1850319797)
-- [Lifehacker] [The Biggest Mistakes That Beginner Indoor Cyclists Make](https://lifehacker.com/the-biggest-mistakes-that-beginner-indoor-cyclists-make-1850320215)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Often You Really Need to Clean Your Reusable Water Bottle](https://lifehacker.com/how-often-you-really-need-to-clean-your-reusable-water-1850319797)<!-- TECH-POSTS:END -->
 
 ---
 
