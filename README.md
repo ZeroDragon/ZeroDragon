@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript: important language for web development.](https://dev.to/diego_chavez_dc/javascript-important-language-for-web-development-1b5m)
+- [Dev.to/JS] [3.13 - radix-svelte with Thomas G. Lopes](https://dev.to/codingcatdev/313-radix-svelte-with-thomas-g-lopes-1fgh)
 - [Dev.to/JS] [Entendendo a Engine, Runtime e Call Stack do JavaScript](https://dev.to/joeldorosarioo/entendendo-a-engine-runtime-e-call-stack-do-javascript-1b72)
 - [Dev.to/JS] [Forever Functional: Simpler code through Partial Application](https://dev.to/asayerio_techblog/forever-functional-simpler-code-through-partial-application-28g8)
 - [Dev.to/JS] [Deploying Your MERN App: A Beginner&#39;s Guide](https://dev.to/arashjangali/deploying-your-mern-app-a-beginners-guide-3d74)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React CheatSheet](https://dev.to/zinox9/react-cheatsheet-3eao)
 - [Dev.to/JS] [Mastering JavaScript Arrays: Unleash the Power of .join&lpar;&rpar;](https://dev.to/joe_codes1/mastering-javascript-arrays-unleash-the-power-of-join-4be4)
 - [Lifehacker] [This At-Home Golf Simulator Is 20% Off Right Now](https://lifehacker.com/this-at-home-golf-simulator-is-20-off-right-now-1850480331)
-- [Dev.to/JS] [100 Days Coding Challenge - Day 11: FreeCodeCamp JavaScript Algorithms and Data Structures &amp; AI Chatbot Python](https://dev.to/alexmgp7/100-days-coding-challenge-day-11-freecodecamp-javascript-algorithms-and-data-structures-ai-chatbot-python-31m4)
-- [Dev.to/JS] [7 High Paying Technologies in the JavaScript/Web dev ecosystem](https://dev.to/xplodivity/7-high-paying-technologies-in-the-javascriptweb-dev-ecosystem-1elb)
 - [Lifehacker] [What to Say to Your Freeloading Friend](https://lifehacker.com/what-to-say-to-your-freeloading-friend-1850474833)
 - [Lifehacker] [This 10TB Lifetime Cloud Backup Is Over 90% Off Right Now](https://lifehacker.com/this-10tb-lifetime-cloud-backup-is-over-90-off-right-n-1850480265)
 - [Lifehacker] [You Can Finally Share Your Screen in WhatsApp on Android](https://lifehacker.com/you-can-finally-share-your-screen-in-whatsapp-on-androi-1850487249)
