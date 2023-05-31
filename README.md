@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Web Applications with Next.js: A Comprehensive Guide](https://dev.to/altezzacreative/building-web-applications-with-nextjs-a-comprehensive-guide-39ng)
+- [Lifehacker] [The Three Most Important Parts of a Syllabus](https://lifehacker.com/the-three-most-important-parts-of-a-syllabus-1850488708)
+- [Dev.to/JS] [Basic JavaScript Interview Question 6: Difference between var and let keyword in JavaScript.](https://dev.to/sharmakshitij18/basic-javascript-interview-question-6-difference-between-var-and-let-keyword-in-javascript-5653)
+- [Dev.to/JS] [Using Render Log Streams to Log to Papertrail](https://dev.to/thawkin3/using-render-log-streams-to-log-to-papertrail-j4g)
 - [Lifehacker] [How to Turn a Job Rejection Into a Future Opportunity](https://lifehacker.com/how-to-turn-a-job-rejection-into-a-future-opportunity-1850462953)
 - [Dev.to/JS] [Stop using express.js](https://dev.to/sebastian_wessel/stop-using-expressjs-4io)
 - [Dev.to/JS] [Como ativar animações durante o scroll com JavaScript sem bibliotecas](https://dev.to/matheusmisumoto/como-ativar-animacoes-durante-o-scroll-com-javascript-sem-bibliotecas-4pc4)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New and Amazing JS Array methods from ES2023.](https://dev.to/jeetvora331/new-and-amazing-js-array-methods-from-es2023-32ep)
 - [Dev.to/JS] [Master JavaScript Functions: Unraveling Function Closures, First-Class &amp; Higher-Order Functions](https://dev.to/sammychris/master-javascript-functions-unraveling-function-closures-first-class-higher-order-functions-342n)
 - [Dev.to/JS] [mongoose v7 pre hook error](https://dev.to/leran500/d-1g5i)
-- [Dev.to/JS] [My solution to LeetCodes 1768. Merge Strings Alternately](https://dev.to/trenycecodes/my-solution-to-leetcodes-1768-merge-strings-alternately-3fjm)
-- [Dev.to/JS] [Create Chrome Extension Using Vue The Easiest Way](https://dev.to/brojenuel/create-chrome-extension-using-vue-the-easiest-way-24ah)
-- [Dev.to/JS] [CREATE SOME OPENSOURCE SASS](https://dev.to/akshaysrepo/create-some-opensource-sass-50en)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in June 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-june-2023-1850488806)
 - [Lifehacker] [This At-Home Golf Simulator Is 20% Off Right Now](https://lifehacker.com/this-at-home-golf-simulator-is-20-off-right-now-1850480331)
 - [Lifehacker] [What to Say to Your Freeloading Friend](https://lifehacker.com/what-to-say-to-your-freeloading-friend-1850474833)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [FFS, Please Stop Swinging Light Kettlebells](https://lifehacker.com/for-fucks-sake-please-stop-swinging-light-kettlebells-1850344356)
 - [Lifehacker] [How to Use Your Greywater to Save Money &lpar;and Resources&rpar;](https://lifehacker.com/how-to-use-your-greywater-to-save-money-and-resources-1850332763)
 - [Lifehacker] [How to Adjust Your Spin Bike for the Most Comfortable Ride](https://lifehacker.com/how-to-adjust-your-spin-bike-for-the-most-comfortable-r-1850329884)
-- [Lifehacker] [The Smartest Ways to Repurpose Household Items in Your Garden](https://lifehacker.com/the-smartest-ways-to-repurpose-household-items-in-your-1850473194)
-- [Lifehacker] [Why You Should Set Your Sights on Fulfillment Rather Than Happiness](https://lifehacker.com/why-you-should-set-your-sights-on-fulfillment-rather-th-1850473197)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Smartest Ways to Repurpose Household Items in Your Garden](https://lifehacker.com/the-smartest-ways-to-repurpose-household-items-in-your-1850473194)<!-- TECH-POSTS:END -->
 
 ---
 
