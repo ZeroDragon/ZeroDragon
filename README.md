@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I made ChatGPT talk like JARVIS from Iron Man!](https://dev.to/hackythings/i-made-chatgpt-talk-like-jarvis-from-iron-man-2mhd)
+- [Dev.to/JS] [Exploring ES6 JavaScript Array Methods](https://dev.to/bobbyhalljr/exploring-es6-javascript-array-methods-1886)
+- [Lifehacker] [This 50-Mile Range eBike Is Currently Over 50% Off](https://lifehacker.com/this-50-mile-range-ebike-is-currently-over-50-off-1850480323)
+- [Lifehacker] [This One Adjustment to Your KitchenAid Will Make it Run Better](https://lifehacker.com/this-one-adjustment-to-your-kitchenaid-will-make-it-run-1850489133)
 - [Dev.to/JS] [Compose and Send a Secure Message in 10 Minutes or Less with DataMotion APIs](https://dev.to/janellephalon/compose-and-send-a-secure-message-in-10-minutes-or-less-with-datamotion-apis-3akm)
 - [Lifehacker] [Soy-Cured Egg Yolk Butter Is My New Favorite Spread](https://lifehacker.com/soy-cured-egg-yolk-butter-is-my-new-favorite-spread-1850492006)
 - [Dev.to/JS] [Easy ways to compare two arrays in JavaScript](https://dev.to/ahmadadibzad/easy-ways-to-compare-two-arrays-in-javascript-1og0)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Seven Rules for Taking Your Kid to a Concert](https://lifehacker.com/seven-rules-for-taking-your-kid-to-a-concert-1850484046)
 - [Dev.to/JS] [Tutorial: Como criar hooks personalizados no React](https://dev.to/jhonyaraujooficial/tutorial-como-criar-hooks-personalizados-no-react-48c9)
 - [Lifehacker] [A Lifetime Subscription to Matt’s Flights Is 94% Off Right Now](https://lifehacker.com/a-lifetime-subscription-to-matt-s-flights-is-94-off-ri-1850480357)
-- [Dev.to/JS] [Stepping into Success: Building a PHP Sneakers E-commerce Website from Scratch](https://dev.to/sohammanjrekar/stepping-into-success-building-a-php-sneakers-e-commerce-website-from-scratch-5fl8)
-- [Dev.to/JS] [Thinking in TDD](https://dev.to/navneet35371/thinking-in-tdd-2nig)
 - [Lifehacker] [Burn Your White Chocolate on Purpose](https://lifehacker.com/burn-your-white-chocolate-on-purpose-1850491502)
 - [Lifehacker] [The Best Budget Streaming Box Might Be From Walmart](https://lifehacker.com/the-best-budget-streaming-box-might-be-from-walmart-1850488513)
 - [Lifehacker] [Now Is Your Chance to Own a Lighthouse](https://lifehacker.com/now-is-your-chance-to-own-a-lighthouse-1850488546)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Things You Should Do Now to Prepare for a Heatwave](https://lifehacker.com/five-things-you-should-do-now-to-prepare-for-a-heatwave-1850485876)
 - [Lifehacker] [Dairy-free Chocolate Ganache Is Super Simple, Actually](https://lifehacker.com/dairy-free-chocolate-ganache-is-super-simple-actually-1850486743)
 - [Lifehacker] [These Seven New Microsoft PowerToys Utilities Are Worth Trying](https://lifehacker.com/these-seven-new-microsoft-powertoys-utilities-are-worth-1850484673)
-- [Lifehacker] [Six Ways to Help Lower Your Home Insurance Premium](https://lifehacker.com/six-ways-to-help-lower-your-home-insurance-premium-1850484971)
-- [Lifehacker] [This Mac Keyboard App Is Great for Users Who Speak More Than One Language](https://lifehacker.com/this-mac-keyboard-app-is-great-for-users-who-speak-more-1850486203)
-- [Lifehacker] [These Home Improvements Are the Most Resistant to Inflation](https://lifehacker.com/these-home-improvements-are-the-most-resistant-to-infla-1850482691)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Six Ways to Help Lower Your Home Insurance Premium](https://lifehacker.com/six-ways-to-help-lower-your-home-insurance-premium-1850484971)<!-- TECH-POSTS:END -->
 
 ---
 
