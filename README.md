@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Compose and Send a Secure Message in 10 Minutes or Less with DataMotion APIs](https://dev.to/janellephalon/compose-and-send-a-secure-message-in-10-minutes-or-less-with-datamotion-apis-3akm)
+- [Lifehacker] [Soy-Cured Egg Yolk Butter Is My New Favorite Spread](https://lifehacker.com/soy-cured-egg-yolk-butter-is-my-new-favorite-spread-1850492006)
+- [Dev.to/JS] [Easy ways to compare two arrays in JavaScript](https://dev.to/ahmadadibzad/easy-ways-to-compare-two-arrays-in-javascript-1og0)
+- [Dev.to/JS] [Find the Length of the Last Word in a String - javascript](https://dev.to/nathankurz91/find-the-length-of-the-last-word-in-a-string-javascript-41dg)
+- [Dev.to/JS] [OPEN SOURСE](https://dev.to/aibryx/open-sourse-1k0l)
 - [Lifehacker] [Schedule Your News Consumption to Feel Bad When It’s More Convenient](https://lifehacker.com/schedule-your-news-consumption-to-feel-bad-when-it-s-mo-1850491790)
 - [Dev.to/JS] [React.js vs Next.js v13!, Qué elegir para en 2023.](https://dev.to/synkronus/reactjs-vs-nextjs-v13-que-elegir-para-en-2023-3jjj)
 - [Dev.to/JS] [How to use React without build steps](https://dev.to/sonyarianto/how-to-use-react-without-build-steps-5f9)
@@ -36,12 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Stepping into Success: Building a PHP Sneakers E-commerce Website from Scratch](https://dev.to/sohammanjrekar/stepping-into-success-building-a-php-sneakers-e-commerce-website-from-scratch-5fl8)
 - [Dev.to/JS] [Thinking in TDD](https://dev.to/navneet35371/thinking-in-tdd-2nig)
 - [Lifehacker] [Burn Your White Chocolate on Purpose](https://lifehacker.com/burn-your-white-chocolate-on-purpose-1850491502)
-- [Dev.to/JS] [Recordable Canvas Web Component](https://dev.to/bengfarrell/recordable-canvas-web-component-3nm7)
-- [Dev.to/JS] [JavaScript Face-off: Traditional Functions vs. Arrow Functions – An Absurdly Dramatic Analysis](https://dev.to/codetobug/javascript-face-off-traditional-functions-vs-arrow-functions-an-absurdly-dramatic-analysis-5a03)
-- [Dev.to/JS] [Courious toword tech world](https://dev.to/roydev72/courious-toword-tech-world-1pfe)
 - [Lifehacker] [The Best Budget Streaming Box Might Be From Walmart](https://lifehacker.com/the-best-budget-streaming-box-might-be-from-walmart-1850488513)
 - [Lifehacker] [Now Is Your Chance to Own a Lighthouse](https://lifehacker.com/now-is-your-chance-to-own-a-lighthouse-1850488546)
-- [Dev.to/JS] [Entendiendo el Hoisting en JavaScript](https://dev.to/ulisesserranop/entendiendo-el-hoisting-en-javascript-14h3)
 - [Lifehacker] [Use Your iPhone&#39;s Automation to Switch Every Full-Screen Video to Landscape](https://lifehacker.com/use-your-iphones-automation-to-switch-every-full-screen-1850490209)
 - [Lifehacker] [Download Mobile Passport Control for Your Next International Trip](https://lifehacker.com/download-mobile-passport-control-for-your-next-internat-1850488881)
 - [Lifehacker] [You Should Be Paying Attention to Those Smooth Rings on the Barbell](https://lifehacker.com/you-should-be-paying-attention-to-those-smooth-rings-on-1850488648)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Seven New Microsoft PowerToys Utilities Are Worth Trying](https://lifehacker.com/these-seven-new-microsoft-powertoys-utilities-are-worth-1850484673)
 - [Lifehacker] [Six Ways to Help Lower Your Home Insurance Premium](https://lifehacker.com/six-ways-to-help-lower-your-home-insurance-premium-1850484971)
 - [Lifehacker] [This Mac Keyboard App Is Great for Users Who Speak More Than One Language](https://lifehacker.com/this-mac-keyboard-app-is-great-for-users-who-speak-more-1850486203)
-- [Lifehacker] [These Home Improvements Are the Most Resistant to Inflation](https://lifehacker.com/these-home-improvements-are-the-most-resistant-to-infla-1850482691)
-- [Lifehacker] [15 Outdated Details You Should Delete From Your Resume](https://lifehacker.com/15-outdated-details-you-should-delete-from-your-resume-1850485814)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Home Improvements Are the Most Resistant to Inflation](https://lifehacker.com/these-home-improvements-are-the-most-resistant-to-infla-1850482691)<!-- TECH-POSTS:END -->
 
 ---
 
