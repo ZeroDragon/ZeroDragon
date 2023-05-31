@@ -23,8 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Seven Rules for Taking Your Kid to a Concert](https://lifehacker.com/seven-rules-for-taking-your-kid-to-a-concert-1850484046)
+- [Dev.to/JS] [Tutorial: Como criar hooks personalizados no React](https://dev.to/jhonyaraujooficial/tutorial-como-criar-hooks-personalizados-no-react-48c9)
+- [Lifehacker] [A Lifetime Subscription to Matt’s Flights Is 94% Off Right Now](https://lifehacker.com/a-lifetime-subscription-to-matt-s-flights-is-94-off-ri-1850480357)
+- [Dev.to/JS] [Stepping into Success: Building a PHP Sneakers E-commerce Website from Scratch](https://dev.to/sohammanjrekar/stepping-into-success-building-a-php-sneakers-e-commerce-website-from-scratch-5fl8)
+- [Dev.to/JS] [Thinking in TDD](https://dev.to/navneet35371/thinking-in-tdd-2nig)
 - [Lifehacker] [Burn Your White Chocolate on Purpose](https://lifehacker.com/burn-your-white-chocolate-on-purpose-1850491502)
 - [Dev.to/JS] [Recordable Canvas Web Component](https://dev.to/bengfarrell/recordable-canvas-web-component-3nm7)
+- [Dev.to/JS] [JavaScript Face-off: Traditional Functions vs. Arrow Functions – An Absurdly Dramatic Analysis](https://dev.to/codetobug/javascript-face-off-traditional-functions-vs-arrow-functions-an-absurdly-dramatic-analysis-5a03)
 - [Dev.to/JS] [Courious toword tech world](https://dev.to/roydev72/courious-toword-tech-world-1pfe)
 - [Lifehacker] [The Best Budget Streaming Box Might Be From Walmart](https://lifehacker.com/the-best-budget-streaming-box-might-be-from-walmart-1850488513)
 - [Lifehacker] [Now Is Your Chance to Own a Lighthouse](https://lifehacker.com/now-is-your-chance-to-own-a-lighthouse-1850488546)
@@ -37,13 +43,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Big O Journey: A Tale of Efficiency and Chuckles](https://dev.to/muhmmadawd/the-big-o-journey-a-tale-of-efficiency-and-chuckles-4ddc)
 - [Lifehacker] [You Should Be Paying Attention to Those Smooth Rings on the Barbell](https://lifehacker.com/you-should-be-paying-attention-to-those-smooth-rings-on-1850488648)
 - [Dev.to/JS] [What I think About AXIOS!](https://dev.to/solomanerr/what-i-think-about-axios-2cke)
-- [Dev.to/JS] [How to make your own simple translator in HTML &amp; JavaScript](https://dev.to/analyze0/how-to-make-your-own-simple-translator-in-html-javascript-2ohf)
-- [Dev.to/JS] [React Turns 10: A Decade of Making Developers Question Their Life Choices](https://dev.to/codetobug/react-turns-10-a-decade-of-making-developers-question-their-life-choices-377)
 - [Lifehacker] [Four Ways to Charge a Phone When the Power Goes Out](https://lifehacker.com/four-ways-to-charge-a-phone-when-the-power-goes-out-1850487254)
 - [Lifehacker] [Sous Vide Beets With Seaweed for Easy Vegan &#39;Poke&#39;](https://lifehacker.com/sous-vide-beets-with-seaweed-for-easy-vegan-poke-1850487675)
-- [Dev.to/JS] [Getting started with yarn](https://dev.to/ifeanyichima/getting-started-with-yarn-f1k)
 - [Lifehacker] [The &#39;Wine Float&#39; Is the Frozen Cocktail of the Summer](https://lifehacker.com/the-wine-float-is-the-frozen-cocktail-of-the-summer-1850488515)
-- [Dev.to/JS] [Building Web Applications with Next.js: A Comprehensive Guide](https://dev.to/altezzacreative/building-web-applications-with-nextjs-a-comprehensive-guide-39ng)
 - [Lifehacker] [The Three Most Important Parts of a Syllabus](https://lifehacker.com/the-three-most-important-parts-of-a-syllabus-1850488708)
 - [Lifehacker] [How to Turn a Job Rejection Into a Future Opportunity](https://lifehacker.com/how-to-turn-a-job-rejection-into-a-future-opportunity-1850462953)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in June 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-june-2023-1850488806)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Home Improvements Are the Most Resistant to Inflation](https://lifehacker.com/these-home-improvements-are-the-most-resistant-to-infla-1850482691)
 - [Lifehacker] [15 Outdated Details You Should Delete From Your Resume](https://lifehacker.com/15-outdated-details-you-should-delete-from-your-resume-1850485814)
 - [Lifehacker] [10 Home Improvements Under $10,000 That Add the Most to Your Property Value](https://lifehacker.com/ten-home-improvements-under-10-000-that-add-the-most-t-1850484898)
-- [Lifehacker] [Make Oatmeal That&#39;ll Kick Your Ass Awake](https://lifehacker.com/make-oatmeal-thatll-kick-your-ass-awake-1850480397)
-- [Lifehacker] [The Easiest Ways to Make Your Kid’s Bedroom Less Scary at Night](https://lifehacker.com/the-easiest-ways-to-make-your-kid-s-bedroom-less-scary-1850184657)
-- [Lifehacker] [Five of the Best Ways to Brighten a Dark, Windowless Room](https://lifehacker.com/five-of-the-best-ways-to-brighten-a-dark-windowless-ro-1850327852)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Oatmeal That&#39;ll Kick Your Ass Awake](https://lifehacker.com/make-oatmeal-thatll-kick-your-ass-awake-1850480397)<!-- TECH-POSTS:END -->
 
 ---
 
