@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Now Is Your Chance to Own a Lighthouse](https://lifehacker.com/now-is-your-chance-to-own-a-lighthouse-1850488546)
+- [Dev.to/JS] [Entendiendo el Hoisting en JavaScript](https://dev.to/ulisesserranop/entendiendo-el-hoisting-en-javascript-14h3)
+- [Lifehacker] [Use Your iPhone&#39;s Automation to Switch Every Full-Screen Video to Landscape](https://lifehacker.com/use-your-iphones-automation-to-switch-every-full-screen-1850490209)
+- [Dev.to/JS] [Gnarly Learnings from May 2023](https://dev.to/thegnarco/gnarly-learnings-from-may-2023-3clo)
+- [Lifehacker] [Download Mobile Passport Control for Your Next International Trip](https://lifehacker.com/download-mobile-passport-control-for-your-next-internat-1850488881)
 - [Dev.to/JS] [How to detect objects in videos in a web browser using YOLOv8 neural network and JavaScript](https://dev.to/andreygermanov/how-to-detect-objects-in-videos-in-a-web-browser-using-yolov8-neural-network-and-javascript-lfb)
 - [Dev.to/JS] [5 Real life use cases of VueJs Computed properties, with code examples.](https://dev.to/jumzeey/10-real-life-use-cases-of-vuejs-computed-properties-with-code-examples-4e0p)
 - [Dev.to/JS] [The Big O Journey: A Tale of Efficiency and Chuckles](https://dev.to/muhmmadawd/the-big-o-journey-a-tale-of-efficiency-and-chuckles-4ddc)
@@ -38,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Three Most Important Parts of a Syllabus](https://lifehacker.com/the-three-most-important-parts-of-a-syllabus-1850488708)
 - [Dev.to/JS] [Basic JavaScript Interview Question 6: Difference between var and let keyword in JavaScript.](https://dev.to/sharmakshitij18/basic-javascript-interview-question-6-difference-between-var-and-let-keyword-in-javascript-5653)
 - [Dev.to/JS] [JavaScript Closures: Understanding the Power of Functions](https://dev.to/muhammederdinc/javascript-closures-understanding-the-power-of-functions-2aa5)
-- [Dev.to/JS] [Using Render Log Streams to Log to Papertrail](https://dev.to/thawkin3/using-render-log-streams-to-log-to-papertrail-j4g)
 - [Lifehacker] [How to Turn a Job Rejection Into a Future Opportunity](https://lifehacker.com/how-to-turn-a-job-rejection-into-a-future-opportunity-1850462953)
-- [Dev.to/JS] [Stop using express.js](https://dev.to/sebastian_wessel/stop-using-expressjs-4io)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in June 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-june-2023-1850488806)
 - [Lifehacker] [This At-Home Golf Simulator Is 20% Off Right Now](https://lifehacker.com/this-at-home-golf-simulator-is-20-off-right-now-1850480331)
 - [Lifehacker] [What to Say to Your Freeloading Friend](https://lifehacker.com/what-to-say-to-your-freeloading-friend-1850474833)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Make Your Kid’s Bedroom Less Scary at Night](https://lifehacker.com/the-easiest-ways-to-make-your-kid-s-bedroom-less-scary-1850184657)
 - [Lifehacker] [Five of the Best Ways to Brighten a Dark, Windowless Room](https://lifehacker.com/five-of-the-best-ways-to-brighten-a-dark-windowless-ro-1850327852)
 - [Lifehacker] [11 Lesser-Known Apps Everyone Should Install on Their Mac](https://lifehacker.com/11-lesser-known-apps-everyone-should-install-on-their-m-1850326614)
-- [Lifehacker] [Turn a Whole Lemon Into a Glass of Lemonade](https://lifehacker.com/turn-a-whole-lemon-into-a-glass-of-lemonade-1850484048)
-- [Crazy Programmer] [5 Best Cross Platform App Development Frameworks of 2023](https://www.thecrazyprogrammer.com/2023/05/cross-platform-app-development-frameworks.html)
-- [Lifehacker] [Why You Should Include a Personal Detail in Your Out-of-Office Email](https://lifehacker.com/why-you-should-include-a-personal-detail-in-your-out-of-1850473191)
-- [Lifehacker] [How Baking Soda, of All Things, Can Help Your Workout](https://lifehacker.com/how-baking-soda-of-all-things-can-help-your-workout-1850345925)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Turn a Whole Lemon Into a Glass of Lemonade](https://lifehacker.com/turn-a-whole-lemon-into-a-glass-of-lemonade-1850484048)<!-- TECH-POSTS:END -->
 
 ---
 
