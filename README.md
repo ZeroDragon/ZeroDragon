@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 50+ Angular Interview Questions and Answers](https://dev.to/im_aprogrammer/top-50-angular-interview-questions-and-answers-2m6k)
 - [Dev.to/JS] [Javascript: important language for web development.](https://dev.to/diego_chavez_dc/javascript-important-language-for-web-development-1b5m)
 - [Dev.to/JS] [3.13 - radix-svelte with Thomas G. Lopes](https://dev.to/codingcatdev/313-radix-svelte-with-thomas-g-lopes-1fgh)
 - [Dev.to/JS] [Entendendo a Engine, Runtime e Call Stack do JavaScript](https://dev.to/joeldorosarioo/entendendo-a-engine-runtime-e-call-stack-do-javascript-1b72)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hyrum&#39;s law in modern frontend](https://dev.to/mihneasim/hyrums-law-in-modern-frontend-1ma5)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in June 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-june-2023-1850488806)
 - [Dev.to/JS] [React CheatSheet](https://dev.to/zinox9/react-cheatsheet-3eao)
-- [Dev.to/JS] [Mastering JavaScript Arrays: Unleash the Power of .join&lpar;&rpar;](https://dev.to/joe_codes1/mastering-javascript-arrays-unleash-the-power-of-join-4be4)
 - [Lifehacker] [This At-Home Golf Simulator Is 20% Off Right Now](https://lifehacker.com/this-at-home-golf-simulator-is-20-off-right-now-1850480331)
 - [Lifehacker] [What to Say to Your Freeloading Friend](https://lifehacker.com/what-to-say-to-your-freeloading-friend-1850474833)
 - [Lifehacker] [This 10TB Lifetime Cloud Backup Is Over 90% Off Right Now](https://lifehacker.com/this-10tb-lifetime-cloud-backup-is-over-90-off-right-n-1850480265)
