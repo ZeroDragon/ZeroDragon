@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Weekly web development resources #151](https://dev.to/vincenius/weekly-web-development-resources-151-5dff)
+- [Dev.to/JS] [How to display Weekday names in your User&#39;s language](https://dev.to/ionellupu/how-to-display-weekday-names-in-your-users-language-7gp)
+- [Dev.to/JS] [New Array methods in JavaScript](https://dev.to/manthanank/new-array-methods-in-javascript-4m30)
 - [Dev.to/JS] [Top 50+ Angular Interview Questions and Answers](https://dev.to/im_aprogrammer/top-50-angular-interview-questions-and-answers-2m6k)
 - [Dev.to/JS] [Javascript: important language for web development.](https://dev.to/diego_chavez_dc/javascript-important-language-for-web-development-1b5m)
 - [Dev.to/JS] [3.13 - radix-svelte with Thomas G. Lopes](https://dev.to/codingcatdev/313-radix-svelte-with-thomas-g-lopes-1fgh)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Server Component Safe React Hooks](https://dev.to/chandrapenugonda/server-component-safe-react-hooks-338b)
 - [Dev.to/JS] [A Guide to Creating Your Own NFTs](https://dev.to/ayaaneth/a-guide-to-creating-your-own-nfts-3cjh)
 - [Dev.to/JS] [Local Image not displaying in public folder EASY FIX - NextJS](https://dev.to/goldenekpendu/local-image-not-displaying-in-public-folder-easy-fix-nextjs-n3p)
-- [Dev.to/JS] [`fiftyG.js`: Calibrate your digital scales with every day items](https://dev.to/timitee/calibrate-your-digital-scales-with-every-day-items-26nj)
-- [Dev.to/JS] [Hyrum&#39;s law in modern frontend](https://dev.to/mihneasim/hyrums-law-in-modern-frontend-1ma5)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in June 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-june-2023-1850488806)
-- [Dev.to/JS] [React CheatSheet](https://dev.to/zinox9/react-cheatsheet-3eao)
 - [Lifehacker] [This At-Home Golf Simulator Is 20% Off Right Now](https://lifehacker.com/this-at-home-golf-simulator-is-20-off-right-now-1850480331)
 - [Lifehacker] [What to Say to Your Freeloading Friend](https://lifehacker.com/what-to-say-to-your-freeloading-friend-1850474833)
 - [Lifehacker] [This 10TB Lifetime Cloud Backup Is Over 90% Off Right Now](https://lifehacker.com/this-10tb-lifetime-cloud-backup-is-over-90-off-right-n-1850480265)
