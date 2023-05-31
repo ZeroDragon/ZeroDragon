@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Burn Your White Chocolate on Purpose](https://lifehacker.com/burn-your-white-chocolate-on-purpose-1850491502)
+- [Dev.to/JS] [Recordable Canvas Web Component](https://dev.to/bengfarrell/recordable-canvas-web-component-3nm7)
+- [Dev.to/JS] [Courious toword tech world](https://dev.to/roydev72/courious-toword-tech-world-1pfe)
+- [Lifehacker] [The Best Budget Streaming Box Might Be From Walmart](https://lifehacker.com/the-best-budget-streaming-box-might-be-from-walmart-1850488513)
 - [Lifehacker] [Now Is Your Chance to Own a Lighthouse](https://lifehacker.com/now-is-your-chance-to-own-a-lighthouse-1850488546)
 - [Dev.to/JS] [Entendiendo el Hoisting en JavaScript](https://dev.to/ulisesserranop/entendiendo-el-hoisting-en-javascript-14h3)
 - [Lifehacker] [Use Your iPhone&#39;s Automation to Switch Every Full-Screen Video to Landscape](https://lifehacker.com/use-your-iphones-automation-to-switch-every-full-screen-1850490209)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The &#39;Wine Float&#39; Is the Frozen Cocktail of the Summer](https://lifehacker.com/the-wine-float-is-the-frozen-cocktail-of-the-summer-1850488515)
 - [Dev.to/JS] [Building Web Applications with Next.js: A Comprehensive Guide](https://dev.to/altezzacreative/building-web-applications-with-nextjs-a-comprehensive-guide-39ng)
 - [Lifehacker] [The Three Most Important Parts of a Syllabus](https://lifehacker.com/the-three-most-important-parts-of-a-syllabus-1850488708)
-- [Dev.to/JS] [Basic JavaScript Interview Question 6: Difference between var and let keyword in JavaScript.](https://dev.to/sharmakshitij18/basic-javascript-interview-question-6-difference-between-var-and-let-keyword-in-javascript-5653)
-- [Dev.to/JS] [JavaScript Closures: Understanding the Power of Functions](https://dev.to/muhammederdinc/javascript-closures-understanding-the-power-of-functions-2aa5)
 - [Lifehacker] [How to Turn a Job Rejection Into a Future Opportunity](https://lifehacker.com/how-to-turn-a-job-rejection-into-a-future-opportunity-1850462953)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in June 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-june-2023-1850488806)
 - [Lifehacker] [This At-Home Golf Simulator Is 20% Off Right Now](https://lifehacker.com/this-at-home-golf-simulator-is-20-off-right-now-1850480331)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Home Improvements Under $10,000 That Add the Most to Your Property Value](https://lifehacker.com/ten-home-improvements-under-10-000-that-add-the-most-t-1850484898)
 - [Lifehacker] [Make Oatmeal That&#39;ll Kick Your Ass Awake](https://lifehacker.com/make-oatmeal-thatll-kick-your-ass-awake-1850480397)
 - [Lifehacker] [The Easiest Ways to Make Your Kid’s Bedroom Less Scary at Night](https://lifehacker.com/the-easiest-ways-to-make-your-kid-s-bedroom-less-scary-1850184657)
-- [Lifehacker] [Five of the Best Ways to Brighten a Dark, Windowless Room](https://lifehacker.com/five-of-the-best-ways-to-brighten-a-dark-windowless-ro-1850327852)
-- [Lifehacker] [11 Lesser-Known Apps Everyone Should Install on Their Mac](https://lifehacker.com/11-lesser-known-apps-everyone-should-install-on-their-m-1850326614)
-- [Lifehacker] [Turn a Whole Lemon Into a Glass of Lemonade](https://lifehacker.com/turn-a-whole-lemon-into-a-glass-of-lemonade-1850484048)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five of the Best Ways to Brighten a Dark, Windowless Room](https://lifehacker.com/five-of-the-best-ways-to-brighten-a-dark-windowless-ro-1850327852)<!-- TECH-POSTS:END -->
 
 ---
 
