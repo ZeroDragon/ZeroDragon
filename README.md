@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tricky JS: What every Software Developer must know about Functions](https://dev.to/danielasaboro/tricky-js-what-every-software-developer-must-know-about-functions-9hg)
+- [Dev.to/JS] [The best front-end tool](https://dev.to/web-project-school/the-best-front-end-tool-1l0n)
 - [Dev.to/JS] [10+ Cách giặt giày thể thao đúng cách, nhanh chóng và đơn giản](https://dev.to/hanghieusieucap/10-cach-giat-giay-the-thao-dung-cach-nhanh-chong-va-don-gian-4aj5)
 - [Dev.to/JS] [Astro JS Middleware Example: Request Logging](https://dev.to/askrodney/astro-js-middleware-example-request-logging-5923)
 - [Dev.to/JS] [Introduction to Strings | JavaScript #11](https://dev.to/sksage/introduction-to-strings-javascript-11-184p)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Page not found in next.js](https://dev.to/ajaydev007/page-not-found-in-nextjs-26m0)
 - [Dev.to/JS] [HTML:5 Canvas Mouse hover effect](https://dev.to/puneetkumar2010/html5-canvas-mouse-hover-effect-39kp)
 - [Dev.to/JS] [How to sort an array of month names -- Javascript](https://dev.to/nasreenkhalid/how-to-sort-an-array-of-month-names-javascript-4c3n)
-- [Dev.to/JS] [Useful Websites for Programmers](https://dev.to/pruthvidarji1993/useful-websites-for-programmers-23k8)
-- [Dev.to/JS] [Media Processing libraries](https://dev.to/pruthvidarji1993/media-processing-libraries-4ij7)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in June 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-june-2023-1850488806)
 - [Lifehacker] [This At-Home Golf Simulator Is 20% Off Right Now](https://lifehacker.com/this-at-home-golf-simulator-is-20-off-right-now-1850480331)
 - [Lifehacker] [What to Say to Your Freeloading Friend](https://lifehacker.com/what-to-say-to-your-freeloading-friend-1850474833)
