@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Entendendo a Engine, Runtime e Call Stack do JavaScript](https://dev.to/joeldorosarioo/entendendo-a-engine-runtime-e-call-stack-do-javascript-1b72)
 - [Dev.to/JS] [Forever Functional: Simpler code through Partial Application](https://dev.to/asayerio_techblog/forever-functional-simpler-code-through-partial-application-28g8)
 - [Dev.to/JS] [Deploying Your MERN App: A Beginner&#39;s Guide](https://dev.to/arashjangali/deploying-your-mern-app-a-beginners-guide-3d74)
 - [Dev.to/JS] [Server Component Safe React Hooks](https://dev.to/chandrapenugonda/server-component-safe-react-hooks-338b)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This At-Home Golf Simulator Is 20% Off Right Now](https://lifehacker.com/this-at-home-golf-simulator-is-20-off-right-now-1850480331)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 11: FreeCodeCamp JavaScript Algorithms and Data Structures &amp; AI Chatbot Python](https://dev.to/alexmgp7/100-days-coding-challenge-day-11-freecodecamp-javascript-algorithms-and-data-structures-ai-chatbot-python-31m4)
 - [Dev.to/JS] [7 High Paying Technologies in the JavaScript/Web dev ecosystem](https://dev.to/xplodivity/7-high-paying-technologies-in-the-javascriptweb-dev-ecosystem-1elb)
-- [Dev.to/JS] [7 Must-Know JS Object Methods 🔥](https://dev.to/jd2r/7-must-know-js-object-methods-2cc7)
 - [Lifehacker] [What to Say to Your Freeloading Friend](https://lifehacker.com/what-to-say-to-your-freeloading-friend-1850474833)
 - [Lifehacker] [This 10TB Lifetime Cloud Backup Is Over 90% Off Right Now](https://lifehacker.com/this-10tb-lifetime-cloud-backup-is-over-90-off-right-n-1850480265)
 - [Lifehacker] [You Can Finally Share Your Screen in WhatsApp on Android](https://lifehacker.com/you-can-finally-share-your-screen-in-whatsapp-on-androi-1850487249)
