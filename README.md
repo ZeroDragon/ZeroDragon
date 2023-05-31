@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript: Type Utilities for the goodness and reusability](https://dev.to/taricov/typescript-type-utilities-for-the-goodness-and-reusability-323i)
+- [Dev.to/JS] [State Management on React [Part 3] - Jotai](https://dev.to/kevin-uehara/state-management-on-react-part-3-jotai-i7f)
+- [Dev.to/JS] [Creating a stripe connect account.](https://dev.to/moinakh22885547/creating-a-stripe-connect-account-235d)
+- [Dev.to/JS] [Introduction to Cloud Computing and Deployment Strategies](https://dev.to/ishanbagchi/introduction-to-cloud-computing-and-deployment-strategies-d12)
+- [Dev.to/JS] [The Right Way to Put Your Script Tag &lt;𝘴𝘤𝘳𝘪𝘱𝘵&gt; ✔](https://dev.to/jeetvora331/the-right-way-to-put-your-script-tag--4d56)
+- [Dev.to/JS] [Purity in React](https://dev.to/dougyoshii/purity-in-react-3dk8)
 - [Dev.to/JS] [I made ChatGPT talk like JARVIS from Iron Man!](https://dev.to/hackythings/i-made-chatgpt-talk-like-jarvis-from-iron-man-2mhd)
 - [Dev.to/JS] [Exploring ES6 JavaScript Array Methods](https://dev.to/bobbyhalljr/exploring-es6-javascript-array-methods-1886)
 - [Lifehacker] [This 50-Mile Range eBike Is Currently Over 50% Off](https://lifehacker.com/this-50-mile-range-ebike-is-currently-over-50-off-1850480323)
@@ -33,14 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Find the Length of the Last Word in a String - javascript](https://dev.to/nathankurz91/find-the-length-of-the-last-word-in-a-string-javascript-41dg)
 - [Dev.to/JS] [OPEN SOURСE](https://dev.to/aibryx/open-sourse-1k0l)
 - [Lifehacker] [Schedule Your News Consumption to Feel Bad When It’s More Convenient](https://lifehacker.com/schedule-your-news-consumption-to-feel-bad-when-it-s-mo-1850491790)
-- [Dev.to/JS] [React.js vs Next.js v13!, Qué elegir para en 2023.](https://dev.to/synkronus/reactjs-vs-nextjs-v13-que-elegir-para-en-2023-3jjj)
-- [Dev.to/JS] [How to use React without build steps](https://dev.to/sonyarianto/how-to-use-react-without-build-steps-5f9)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; When Your Sunburn Starts Peeling](https://lifehacker.com/what-to-do-and-not-do-when-your-sunburn-starts-peelin-1850490665)
-- [Dev.to/JS] [Azure Turn Server: The Step by Step Guide](https://dev.to/alakkadshaw/azure-turn-server-the-step-by-step-guide-1bjh)
-- [Dev.to/JS] [State Management on React [Part 2] - Redux and Redux Toolkit](https://dev.to/kevin-uehara/state-management-on-react-part-2-redux-n5f)
-- [Dev.to/JS] [React Authentication for Dummies: Because Your Cat Could Probably Do It Better](https://dev.to/codetobug/react-authentication-for-dummies-because-your-cat-could-probably-do-it-better-4hkf)
 - [Lifehacker] [Seven Rules for Taking Your Kid to a Concert](https://lifehacker.com/seven-rules-for-taking-your-kid-to-a-concert-1850484046)
-- [Dev.to/JS] [Tutorial: Como criar hooks personalizados no React](https://dev.to/jhonyaraujooficial/tutorial-como-criar-hooks-personalizados-no-react-48c9)
 - [Lifehacker] [A Lifetime Subscription to Matt’s Flights Is 94% Off Right Now](https://lifehacker.com/a-lifetime-subscription-to-matt-s-flights-is-94-off-ri-1850480357)
 - [Lifehacker] [Burn Your White Chocolate on Purpose](https://lifehacker.com/burn-your-white-chocolate-on-purpose-1850491502)
 - [Lifehacker] [The Best Budget Streaming Box Might Be From Walmart](https://lifehacker.com/the-best-budget-streaming-box-might-be-from-walmart-1850488513)
