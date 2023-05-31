@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Turn a Job Rejection Into a Future Opportunity](https://lifehacker.com/how-to-turn-a-job-rejection-into-a-future-opportunity-1850462953)
+- [Dev.to/JS] [Stop using express.js](https://dev.to/sebastian_wessel/stop-using-expressjs-4io)
+- [Dev.to/JS] [Como ativar animações durante o scroll com JavaScript sem bibliotecas](https://dev.to/matheusmisumoto/como-ativar-animacoes-durante-o-scroll-com-javascript-sem-bibliotecas-4pc4)
+- [Dev.to/JS] [Important JavaScript Concepts](https://dev.to/sd704/important-javascript-concepts-25n3)
+- [Dev.to/JS] [Reusability vs. Inheritance](https://dev.to/efpage/reusability-vs-inheritance-on0)
+- [Dev.to/JS] [What is the NPM | How It&#39;s work?](https://dev.to/vishal8236/what-is-the-npm-how-its-work-3ai9)
+- [Dev.to/JS] [Building a Confirmation Dialog Component with React and Material-UI](https://dev.to/akshaysrepo/building-a-confirmation-dialog-component-with-react-and-material-ui-4468)
+- [Dev.to/JS] [New and Amazing JS Array methods from ES2023.](https://dev.to/jeetvora331/new-and-amazing-js-array-methods-from-es2023-32ep)
+- [Dev.to/JS] [Master JavaScript Functions: Unraveling Function Closures, First-Class &amp; Higher-Order Functions](https://dev.to/sammychris/master-javascript-functions-unraveling-function-closures-first-class-higher-order-functions-342n)
+- [Dev.to/JS] [mongoose v7 pre hook error](https://dev.to/leran500/d-1g5i)
 - [Dev.to/JS] [My solution to LeetCodes 1768. Merge Strings Alternately](https://dev.to/trenycecodes/my-solution-to-leetcodes-1768-merge-strings-alternately-3fjm)
 - [Dev.to/JS] [Create Chrome Extension Using Vue The Easiest Way](https://dev.to/brojenuel/create-chrome-extension-using-vue-the-easiest-way-24ah)
 - [Dev.to/JS] [CREATE SOME OPENSOURCE SASS](https://dev.to/akshaysrepo/create-some-opensource-sass-50en)
-- [Dev.to/JS] [Tricky JS: What every Software Developer must know about Functions](https://dev.to/danielasaboro/tricky-js-what-every-software-developer-must-know-about-functions-9hg)
-- [Dev.to/JS] [The best front-end tool](https://dev.to/web-project-school/the-best-front-end-tool-1l0n)
-- [Dev.to/JS] [10+ Cách giặt giày thể thao đúng cách, nhanh chóng và đơn giản](https://dev.to/hanghieusieucap/10-cach-giat-giay-the-thao-dung-cach-nhanh-chong-va-don-gian-4aj5)
-- [Dev.to/JS] [Astro JS Middleware Example: Request Logging](https://dev.to/askrodney/astro-js-middleware-example-request-logging-5923)
-- [Dev.to/JS] [Introduction to Strings | JavaScript #11](https://dev.to/sksage/introduction-to-strings-javascript-11-184p)
-- [Dev.to/JS] [How to create a slick animation from Stranger Things](https://dev.to/robole/how-to-create-a-slick-animation-from-stranger-things-58oa)
-- [Dev.to/JS] [Les notions élémentaires de JavaScript pour le web](https://dev.to/kadea-academy/les-notions-elementaires-de-javascript-pour-le-web-3ehd)
-- [Dev.to/JS] [Unleashing the Power of BudPay API: A Game-Changer for Seamless Payment Integration in Node.js Projects](https://dev.to/folasayosamuel/unleashing-the-power-of-budpay-api-a-game-changer-for-seamless-payment-integration-in-nodejs-projects-2cf3)
-- [Dev.to/JS] [Make a Invoice with Tailwind CSS](https://dev.to/rakibcloud/make-a-invoice-with-tailwind-css-5c8d)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in June 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-june-2023-1850488806)
 - [Lifehacker] [This At-Home Golf Simulator Is 20% Off Right Now](https://lifehacker.com/this-at-home-golf-simulator-is-20-off-right-now-1850480331)
 - [Lifehacker] [What to Say to Your Freeloading Friend](https://lifehacker.com/what-to-say-to-your-freeloading-friend-1850474833)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use Your Greywater to Save Money &lpar;and Resources&rpar;](https://lifehacker.com/how-to-use-your-greywater-to-save-money-and-resources-1850332763)
 - [Lifehacker] [How to Adjust Your Spin Bike for the Most Comfortable Ride](https://lifehacker.com/how-to-adjust-your-spin-bike-for-the-most-comfortable-r-1850329884)
 - [Lifehacker] [The Smartest Ways to Repurpose Household Items in Your Garden](https://lifehacker.com/the-smartest-ways-to-repurpose-household-items-in-your-1850473194)
-- [Lifehacker] [Why You Should Set Your Sights on Fulfillment Rather Than Happiness](https://lifehacker.com/why-you-should-set-your-sights-on-fulfillment-rather-th-1850473197)
-- [Lifehacker] [Set Up a DIY Automatic Irrigation System in Your Garden](https://lifehacker.com/set-up-a-diy-automatic-irrigation-system-in-your-garden-1850326343)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Set Your Sights on Fulfillment Rather Than Happiness](https://lifehacker.com/why-you-should-set-your-sights-on-fulfillment-rather-th-1850473197)<!-- TECH-POSTS:END -->
 
 ---
 
