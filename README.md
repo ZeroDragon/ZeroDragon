@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to sort an array of month names -- Javascript](https://dev.to/nasreenkhalid/how-to-sort-an-array-of-month-names-javascript-4c3n)
+- [Dev.to/JS] [Useful Websites for Programmers](https://dev.to/pruthvidarji1993/useful-websites-for-programmers-23k8)
+- [Dev.to/JS] [Media Processing libraries](https://dev.to/pruthvidarji1993/media-processing-libraries-4ij7)
+- [Dev.to/JS] [Tailwind Web Components](https://dev.to/pruthvidarji1993/tailwind-web-components-293l)
 - [Dev.to/JS] [Weekly web development resources #151](https://dev.to/vincenius/weekly-web-development-resources-151-5dff)
 - [Dev.to/JS] [How to display Weekday names in your User&#39;s language](https://dev.to/ionellupu/how-to-display-weekday-names-in-your-users-language-7gp)
 - [Dev.to/JS] [New Array methods in JavaScript](https://dev.to/manthanank/new-array-methods-in-javascript-4m30)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3.13 - radix-svelte with Thomas G. Lopes](https://dev.to/codingcatdev/313-radix-svelte-with-thomas-g-lopes-1fgh)
 - [Dev.to/JS] [Entendendo a Engine, Runtime e Call Stack do JavaScript](https://dev.to/joeldorosarioo/entendendo-a-engine-runtime-e-call-stack-do-javascript-1b72)
 - [Dev.to/JS] [Forever Functional: Simpler code through Partial Application](https://dev.to/asayerio_techblog/forever-functional-simpler-code-through-partial-application-28g8)
-- [Dev.to/JS] [Deploying Your MERN App: A Beginner&#39;s Guide](https://dev.to/arashjangali/deploying-your-mern-app-a-beginners-guide-3d74)
-- [Dev.to/JS] [Server Component Safe React Hooks](https://dev.to/chandrapenugonda/server-component-safe-react-hooks-338b)
-- [Dev.to/JS] [A Guide to Creating Your Own NFTs](https://dev.to/ayaaneth/a-guide-to-creating-your-own-nfts-3cjh)
-- [Dev.to/JS] [Local Image not displaying in public folder EASY FIX - NextJS](https://dev.to/goldenekpendu/local-image-not-displaying-in-public-folder-easy-fix-nextjs-n3p)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in June 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-june-2023-1850488806)
 - [Lifehacker] [This At-Home Golf Simulator Is 20% Off Right Now](https://lifehacker.com/this-at-home-golf-simulator-is-20-off-right-now-1850480331)
 - [Lifehacker] [What to Say to Your Freeloading Friend](https://lifehacker.com/what-to-say-to-your-freeloading-friend-1850474833)
