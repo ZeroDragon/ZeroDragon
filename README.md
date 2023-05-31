@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a slick animation from Stranger Things](https://dev.to/robole/how-to-create-a-slick-animation-from-stranger-things-58oa)
 - [Dev.to/JS] [Unleashing the Power of BudPay API: A Game-Changer for Seamless Payment Integration in Node.js Projects](https://dev.to/folasayosamuel/unleashing-the-power-of-budpay-api-a-game-changer-for-seamless-payment-integration-in-nodejs-projects-2cf3)
 - [Dev.to/JS] [Make a Invoice with Tailwind CSS](https://dev.to/rakibcloud/make-a-invoice-with-tailwind-css-5c8d)
 - [Dev.to/JS] [Page not found in next.js](https://dev.to/ajaydev007/page-not-found-in-nextjs-26m0)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Weekly web development resources #151](https://dev.to/vincenius/weekly-web-development-resources-151-5dff)
 - [Dev.to/JS] [How to display Weekday names in your User&#39;s language](https://dev.to/ionellupu/how-to-display-weekday-names-in-your-users-language-7gp)
 - [Dev.to/JS] [New Array methods in JavaScript](https://dev.to/manthanank/new-array-methods-in-javascript-4m30)
-- [Dev.to/JS] [Top 50+ Angular Interview Questions and Answers](https://dev.to/im_aprogrammer/top-50-angular-interview-questions-and-answers-2m6k)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in June 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-june-2023-1850488806)
 - [Lifehacker] [This At-Home Golf Simulator Is 20% Off Right Now](https://lifehacker.com/this-at-home-golf-simulator-is-20-off-right-now-1850480331)
 - [Lifehacker] [What to Say to Your Freeloading Friend](https://lifehacker.com/what-to-say-to-your-freeloading-friend-1850474833)
