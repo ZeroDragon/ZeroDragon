@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to detect objects in videos in a web browser using YOLOv8 neural network and JavaScript](https://dev.to/andreygermanov/how-to-detect-objects-in-videos-in-a-web-browser-using-yolov8-neural-network-and-javascript-lfb)
+- [Dev.to/JS] [5 Real life use cases of VueJs Computed properties, with code examples.](https://dev.to/jumzeey/10-real-life-use-cases-of-vuejs-computed-properties-with-code-examples-4e0p)
+- [Dev.to/JS] [The Big O Journey: A Tale of Efficiency and Chuckles](https://dev.to/muhmmadawd/the-big-o-journey-a-tale-of-efficiency-and-chuckles-4ddc)
+- [Lifehacker] [You Should Be Paying Attention to Those Smooth Rings on the Barbell](https://lifehacker.com/you-should-be-paying-attention-to-those-smooth-rings-on-1850488648)
+- [Dev.to/JS] [What I think About AXIOS!](https://dev.to/solomanerr/what-i-think-about-axios-2cke)
+- [Dev.to/JS] [How to make your own simple translator in HTML &amp; JavaScript](https://dev.to/analyze0/how-to-make-your-own-simple-translator-in-html-javascript-2ohf)
+- [Dev.to/JS] [React Turns 10: A Decade of Making Developers Question Their Life Choices](https://dev.to/codetobug/react-turns-10-a-decade-of-making-developers-question-their-life-choices-377)
 - [Lifehacker] [Four Ways to Charge a Phone When the Power Goes Out](https://lifehacker.com/four-ways-to-charge-a-phone-when-the-power-goes-out-1850487254)
 - [Lifehacker] [Sous Vide Beets With Seaweed for Easy Vegan &#39;Poke&#39;](https://lifehacker.com/sous-vide-beets-with-seaweed-for-easy-vegan-poke-1850487675)
 - [Dev.to/JS] [Getting started with yarn](https://dev.to/ifeanyichima/getting-started-with-yarn-f1k)
@@ -34,12 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Render Log Streams to Log to Papertrail](https://dev.to/thawkin3/using-render-log-streams-to-log-to-papertrail-j4g)
 - [Lifehacker] [How to Turn a Job Rejection Into a Future Opportunity](https://lifehacker.com/how-to-turn-a-job-rejection-into-a-future-opportunity-1850462953)
 - [Dev.to/JS] [Stop using express.js](https://dev.to/sebastian_wessel/stop-using-expressjs-4io)
-- [Dev.to/JS] [JavaScript Class Inheritance](https://dev.to/bolajibolajoko51/javascript-class-inheritance-49lb)
-- [Dev.to/JS] [Como ativar animações durante o scroll com JavaScript sem bibliotecas](https://dev.to/matheusmisumoto/como-ativar-animacoes-durante-o-scroll-com-javascript-sem-bibliotecas-4pc4)
-- [Dev.to/JS] [Important JavaScript Concepts](https://dev.to/sd704/important-javascript-concepts-25n3)
-- [Dev.to/JS] [Reusability vs. Inheritance](https://dev.to/efpage/reusability-vs-inheritance-on0)
-- [Dev.to/JS] [What is the NPM | How It&#39;s work?](https://dev.to/vishal8236/what-is-the-npm-how-its-work-3ai9)
-- [Dev.to/JS] [Building a Confirmation Dialog Component with React and Material-UI](https://dev.to/akshaysrepo/building-a-confirmation-dialog-component-with-react-and-material-ui-4468)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in June 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-june-2023-1850488806)
 - [Lifehacker] [This At-Home Golf Simulator Is 20% Off Right Now](https://lifehacker.com/this-at-home-golf-simulator-is-20-off-right-now-1850480331)
 - [Lifehacker] [What to Say to Your Freeloading Friend](https://lifehacker.com/what-to-say-to-your-freeloading-friend-1850474833)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Turn a Whole Lemon Into a Glass of Lemonade](https://lifehacker.com/turn-a-whole-lemon-into-a-glass-of-lemonade-1850484048)
 - [Crazy Programmer] [5 Best Cross Platform App Development Frameworks of 2023](https://www.thecrazyprogrammer.com/2023/05/cross-platform-app-development-frameworks.html)
 - [Lifehacker] [Why You Should Include a Personal Detail in Your Out-of-Office Email](https://lifehacker.com/why-you-should-include-a-personal-detail-in-your-out-of-1850473191)
-- [Lifehacker] [How Baking Soda, of All Things, Can Help Your Workout](https://lifehacker.com/how-baking-soda-of-all-things-can-help-your-workout-1850345925)
-- [Lifehacker] [FFS, Please Stop Swinging Light Kettlebells](https://lifehacker.com/for-fucks-sake-please-stop-swinging-light-kettlebells-1850344356)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How Baking Soda, of All Things, Can Help Your Workout](https://lifehacker.com/how-baking-soda-of-all-things-can-help-your-workout-1850345925)<!-- TECH-POSTS:END -->
 
 ---
 
