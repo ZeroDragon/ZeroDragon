@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Complete Guide For Fuel Level Sensor Software Development Process For Logistics.](https://dev.to/fleet_os/a-complete-guide-for-fuel-level-sensor-software-development-process-for-logistics-10pj)
+- [Dev.to/JS] [Learning React: Markup with JSX and Rendering Elements](https://dev.to/rabibsust/learning-react-markup-with-jsx-and-rendering-elements-d00)
+- [Dev.to/JS] [Creating a tiny zen game using Kontra](https://dev.to/mrlopis/creating-a-tiny-zen-game-using-kontra-jm8)
 - [Dev.to/JS] [Intro to Recursion: A Beginner&#39;s Guide](https://dev.to/sunday/intro-to-recursion-a-beginners-guide-403k)
 - [Dev.to/JS] [New coder here!](https://dev.to/andrewdstave/new-coder-here-51pp)
 - [Dev.to/JS] [Building Blocks with JavaScript: Understanding Constructor Functions](https://dev.to/danities316/building-blocks-with-javascript-understanding-constructor-functions-44e4)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is &quot;the time&quot;? ⏳ ...and what is meant by UTC in date.toUTCString&lpar;&rpar;?](https://dev.to/aderchox/what-is-the-time-and-what-is-meant-by-utc-in-datetoutcstring-2b57)
 - [Dev.to/JS] [Interactive Learning Tools](https://dev.to/bansikah/interactive-learning-tools-mga)
 - [Dev.to/JS] [Typescript: Type Utilities for the goodness and reusability](https://dev.to/taricov/typescript-type-utilities-for-the-goodness-and-reusability-323i)
-- [Dev.to/JS] [State Management on React [Part 3] - Jotai](https://dev.to/kevin-uehara/state-management-on-react-part-3-jotai-i7f)
-- [Dev.to/JS] [Creating a stripe connect account.](https://dev.to/moinakh22885547/creating-a-stripe-connect-account-235d)
-- [Dev.to/JS] [Introduction to Cloud Computing and Deployment Strategies](https://dev.to/ishanbagchi/introduction-to-cloud-computing-and-deployment-strategies-d12)
 - [Lifehacker] [This 50-Mile Range eBike Is Currently Over 50% Off](https://lifehacker.com/this-50-mile-range-ebike-is-currently-over-50-off-1850480323)
 - [Lifehacker] [This One Adjustment to Your KitchenAid Will Make it Run Better](https://lifehacker.com/this-one-adjustment-to-your-kitchenaid-will-make-it-run-1850489133)
 - [Lifehacker] [Soy-Cured Egg Yolk Butter Is My New Favorite Spread](https://lifehacker.com/soy-cured-egg-yolk-butter-is-my-new-favorite-spread-1850492006)
