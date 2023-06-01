@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Intro to Recursion: A Beginner&#39;s Guide](https://dev.to/sunday/intro-to-recursion-a-beginners-guide-403k)
+- [Dev.to/JS] [New coder here!](https://dev.to/andrewdstave/new-coder-here-51pp)
 - [Dev.to/JS] [Building Blocks with JavaScript: Understanding Constructor Functions](https://dev.to/danities316/building-blocks-with-javascript-understanding-constructor-functions-44e4)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 12: FreeCodeCamp JavaScript Algorithms and Data Structures &amp; AI Chatbot Python](https://dev.to/alexmgp7/100-days-coding-challenge-day-12-freecodecamp-javascript-algorithms-and-data-structures-ai-chatbot-python-f78)
 - [Dev.to/JS] [I bring a front-end adaptation tool from China](https://dev.to/larryzhu_china/i-bring-a-front-end-adaptation-tool-from-china-2kk4)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [State Management on React [Part 3] - Jotai](https://dev.to/kevin-uehara/state-management-on-react-part-3-jotai-i7f)
 - [Dev.to/JS] [Creating a stripe connect account.](https://dev.to/moinakh22885547/creating-a-stripe-connect-account-235d)
 - [Dev.to/JS] [Introduction to Cloud Computing and Deployment Strategies](https://dev.to/ishanbagchi/introduction-to-cloud-computing-and-deployment-strategies-d12)
-- [Dev.to/JS] [The Right Way to Put Your Script Tag &lt;𝘴𝘤𝘳𝘪𝘱𝘵&gt; ✔](https://dev.to/jeetvora331/the-right-way-to-put-your-script-tag--4d56)
-- [Dev.to/JS] [Purity in React](https://dev.to/dougyoshii/purity-in-react-3dk8)
 - [Lifehacker] [This 50-Mile Range eBike Is Currently Over 50% Off](https://lifehacker.com/this-50-mile-range-ebike-is-currently-over-50-off-1850480323)
 - [Lifehacker] [This One Adjustment to Your KitchenAid Will Make it Run Better](https://lifehacker.com/this-one-adjustment-to-your-kitchenaid-will-make-it-run-1850489133)
 - [Lifehacker] [Soy-Cured Egg Yolk Butter Is My New Favorite Spread](https://lifehacker.com/soy-cured-egg-yolk-butter-is-my-new-favorite-spread-1850492006)
