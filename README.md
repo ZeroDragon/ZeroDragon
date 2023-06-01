@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [30 of the Best Queer Movies of the Last Century](https://lifehacker.com/30-of-the-best-queer-movies-of-the-last-century-1850471612)
+- [Lifehacker] [You Can Get Scrivener 3 for $30 Right Now](https://lifehacker.com/you-can-get-scrivener-3-for-30-right-now-1850480297)
+- [Lifehacker] [Save the Fatty Bits From Your Steak and Make &#39;Lazy Tallow&#39;](https://lifehacker.com/save-the-fatty-bits-from-your-steak-and-make-lazy-tallo-1850492717)
 - [Lifehacker] [What to Do With a Trap Bar in the Gym](https://lifehacker.com/what-to-do-with-a-trap-bar-in-the-gym-1850492679)
 - [Dev.to/JS] [PageSpeed Insights - My Experience](https://dev.to/proflead/pagespeed-insights-my-experience-4mo6)
 - [Dev.to/JS] [Refine vs Nextjs](https://dev.to/justcode_27/refine-vs-nextjs-44p2)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The &#39;Wine Float&#39; Is the Frozen Cocktail of the Summer](https://lifehacker.com/the-wine-float-is-the-frozen-cocktail-of-the-summer-1850488515)
 - [Lifehacker] [The Three Most Important Parts of a Syllabus](https://lifehacker.com/the-three-most-important-parts-of-a-syllabus-1850488708)
 - [Lifehacker] [How to Turn a Job Rejection Into a Future Opportunity](https://lifehacker.com/how-to-turn-a-job-rejection-into-a-future-opportunity-1850462953)
-- [Lifehacker] [What&#39;s New on Prime Video and Freevee in June 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-june-2023-1850488806)
-- [Lifehacker] [This At-Home Golf Simulator Is 20% Off Right Now](https://lifehacker.com/this-at-home-golf-simulator-is-20-off-right-now-1850480331)
-- [Lifehacker] [What to Say to Your Freeloading Friend](https://lifehacker.com/what-to-say-to-your-freeloading-friend-1850474833)
-- [Lifehacker] [This 10TB Lifetime Cloud Backup Is Over 90% Off Right Now](https://lifehacker.com/this-10tb-lifetime-cloud-backup-is-over-90-off-right-n-1850480265)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Prime Video and Freevee in June 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-june-2023-1850488806)<!-- TECH-POSTS:END -->
 
 ---
 
