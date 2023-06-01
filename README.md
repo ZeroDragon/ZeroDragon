@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [12 of the Best Queer Podcasts to Listen to During Pride](https://lifehacker.com/12-of-the-best-queer-podcasts-to-listen-to-during-pride-1850482812)
 - [Dev.to/JS] [Asynchronous JavaScript](https://dev.to/yaswanthkn22/asynchronous-javascript-c7n)
 - [Dev.to/JS] [How to make a GPA Calculator as a beginner in HTML &amp; JavaScript](https://dev.to/analyze0/how-to-make-a-gpa-calculator-as-a-beginner-in-html-javascript-1o9c)
 - [Dev.to/JS] [Recursively Clone Objects without sacrificing Type Safety](https://dev.to/asross311/recursively-clone-objects-without-sacrificing-type-safety-3bae)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Your First Year of Sam’s Club Membership for $30 Right Now](https://lifehacker.com/you-can-get-your-first-year-of-sam-s-club-membership-fo-1850480310)
 - [Lifehacker] [Five Things You Should Do Now to Prepare for a Heatwave](https://lifehacker.com/five-things-you-should-do-now-to-prepare-for-a-heatwave-1850485876)
 - [Lifehacker] [Dairy-free Chocolate Ganache Is Super Simple, Actually](https://lifehacker.com/dairy-free-chocolate-ganache-is-super-simple-actually-1850486743)
-- [Lifehacker] [These Seven New Microsoft PowerToys Utilities Are Worth Trying](https://lifehacker.com/these-seven-new-microsoft-powertoys-utilities-are-worth-1850484673)
-- [Lifehacker] [Six Ways to Help Lower Your Home Insurance Premium](https://lifehacker.com/six-ways-to-help-lower-your-home-insurance-premium-1850484971)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Seven New Microsoft PowerToys Utilities Are Worth Trying](https://lifehacker.com/these-seven-new-microsoft-powertoys-utilities-are-worth-1850484673)<!-- TECH-POSTS:END -->
 
 ---
 
