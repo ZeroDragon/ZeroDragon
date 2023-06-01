@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [100 Days Coding Challenge - Day 12: FreeCodeCamp JavaScript Algorithms and Data Structures &amp; AI Chatbot Python](https://dev.to/alexmgp7/100-days-coding-challenge-day-12-freecodecamp-javascript-algorithms-and-data-structures-ai-chatbot-python-f78)
 - [Dev.to/JS] [I bring a front-end adaptation tool from China](https://dev.to/larryzhu_china/i-bring-a-front-end-adaptation-tool-from-china-2kk4)
 - [Dev.to/JS] [Supercharge Your Web Apps: Harnessing Web Assembly for High Performance](https://dev.to/abdadeel/supercharge-your-web-apps-harnessing-web-assembly-for-high-performance-f4d)
 - [Dev.to/JS] [What is &quot;the time&quot;? ⏳ ...and what is meant by UTC in date.toUTCString&lpar;&rpar;?](https://dev.to/aderchox/what-is-the-time-and-what-is-meant-by-utc-in-datetoutcstring-2b57)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Right Way to Put Your Script Tag &lt;𝘴𝘤𝘳𝘪𝘱𝘵&gt; ✔](https://dev.to/jeetvora331/the-right-way-to-put-your-script-tag--4d56)
 - [Dev.to/JS] [Purity in React](https://dev.to/dougyoshii/purity-in-react-3dk8)
 - [Dev.to/JS] [I made ChatGPT talk like JARVIS from Iron Man!](https://dev.to/hackythings/i-made-chatgpt-talk-like-jarvis-from-iron-man-2mhd)
-- [Dev.to/JS] [Exploring ES6 JavaScript Array Methods](https://dev.to/bobbyhalljr/exploring-es6-javascript-array-methods-1886)
 - [Lifehacker] [This 50-Mile Range eBike Is Currently Over 50% Off](https://lifehacker.com/this-50-mile-range-ebike-is-currently-over-50-off-1850480323)
 - [Lifehacker] [This One Adjustment to Your KitchenAid Will Make it Run Better](https://lifehacker.com/this-one-adjustment-to-your-kitchenaid-will-make-it-run-1850489133)
 - [Lifehacker] [Soy-Cured Egg Yolk Butter Is My New Favorite Spread](https://lifehacker.com/soy-cured-egg-yolk-butter-is-my-new-favorite-spread-1850492006)
