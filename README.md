@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Asynchronous JavaScript](https://dev.to/yaswanthkn22/asynchronous-javascript-c7n)
+- [Dev.to/JS] [How to make a GPA Calculator as a beginner in HTML &amp; JavaScript](https://dev.to/analyze0/how-to-make-a-gpa-calculator-as-a-beginner-in-html-javascript-1o9c)
 - [Dev.to/JS] [Recursively Clone Objects without sacrificing Type Safety](https://dev.to/asross311/recursively-clone-objects-without-sacrificing-type-safety-3bae)
 - [Dev.to/JS] [Use Vite for your new React JS project.](https://dev.to/christiyan14/use-vite-for-your-new-react-js-project-2glm)
 - [Dev.to/JS] [JS Asynchronous-Technical Paper](https://dev.to/codebyank/js-asynchronous-technical-paper-25lo)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bring Machine Learning to Your Web Apps with TensorFlow.js](https://dev.to/abhaysinghr1/bring-machine-learning-to-your-web-apps-with-tensorflowjs-2ijh)
 - [Dev.to/JS] [ESLint: How to install and configure?](https://dev.to/dmytrych/eslint-how-to-install-and-configure-9n9)
 - [Dev.to/JS] [Laravel File Viewer - A package to see preview of diffrent file types](https://dev.to/vish4395/laravel-file-viewer-a-package-to-see-preview-of-diffrent-file-types-3e1e)
-- [Dev.to/JS] [A Complete Guide For Fuel Level Sensor Software Development Process For Logistics.](https://dev.to/fleet_os/a-complete-guide-for-fuel-level-sensor-software-development-process-for-logistics-10pj)
-- [Dev.to/JS] [Learning React: Markup with JSX and Rendering Elements](https://dev.to/rabibsust/learning-react-markup-with-jsx-and-rendering-elements-d00)
 - [Lifehacker] [This 50-Mile Range eBike Is Currently Over 50% Off](https://lifehacker.com/this-50-mile-range-ebike-is-currently-over-50-off-1850480323)
 - [Lifehacker] [This One Adjustment to Your KitchenAid Will Make it Run Better](https://lifehacker.com/this-one-adjustment-to-your-kitchenaid-will-make-it-run-1850489133)
 - [Lifehacker] [Soy-Cured Egg Yolk Butter Is My New Favorite Spread](https://lifehacker.com/soy-cured-egg-yolk-butter-is-my-new-favorite-spread-1850492006)
