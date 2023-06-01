@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do With a Trap Bar in the Gym](https://lifehacker.com/what-to-do-with-a-trap-bar-in-the-gym-1850492679)
+- [Dev.to/JS] [PageSpeed Insights - My Experience](https://dev.to/proflead/pagespeed-insights-my-experience-4mo6)
+- [Dev.to/JS] [Refine vs Nextjs](https://dev.to/justcode_27/refine-vs-nextjs-44p2)
 - [Lifehacker] [You Can Take a Rust Programming Course for Free](https://lifehacker.com/you-can-take-a-rust-programming-course-for-free-1850492759)
 - [Dev.to/JS] [Is there an equivalent to SLIM in Vue.js?](https://dev.to/alexisbohns/is-there-an-equivalent-to-slim-in-vuejs-46kn)
 - [Dev.to/JS] [Speeding up GitHub Actions with npm cache](https://dev.to/accreditly/speeding-up-github-actions-with-npm-cache-1712)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PayPal Has Updated Its Webhook Verification Endpoint](https://dev.to/paypaldeveloper/paypal-has-updated-its-webhook-verification-endpoint-n6l)
 - [Dev.to/JS] [Moonly weekly progress update #51 - Happy birthday Moonly!](https://dev.to/moonly/moonly-weekly-progress-update-51-happy-birthday-moonly-b3a)
 - [Lifehacker] [You Can’t Make Your Alexa Talk Like Samuel L. Jackson Anymore](https://lifehacker.com/you-can-t-make-your-alexa-talk-like-samuel-l-jackson-a-1850492737)
-- [Dev.to/JS] [How to flatten an array of arrays in JavaScript](https://dev.to/adetutu/how-to-flatten-an-array-of-arrays-in-javascript-13kn)
-- [Dev.to/JS] [Is &quot;this&quot; tricky in Javascript? No way!😎](https://dev.to/codecraftjs/is-this-tricky-in-javascript-no-way-f1l)
 - [Lifehacker] [12 of the Best Queer Podcasts to Listen to During Pride](https://lifehacker.com/12-of-the-best-queer-podcasts-to-listen-to-during-pride-1850482812)
 - [Lifehacker] [This 50-Mile Range eBike Is Currently Over 50% Off](https://lifehacker.com/this-50-mile-range-ebike-is-currently-over-50-off-1850480323)
 - [Lifehacker] [This One Adjustment to Your KitchenAid Will Make it Run Better](https://lifehacker.com/this-one-adjustment-to-your-kitchenaid-will-make-it-run-1850489133)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in June 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-june-2023-1850488806)
 - [Lifehacker] [This At-Home Golf Simulator Is 20% Off Right Now](https://lifehacker.com/this-at-home-golf-simulator-is-20-off-right-now-1850480331)
 - [Lifehacker] [What to Say to Your Freeloading Friend](https://lifehacker.com/what-to-say-to-your-freeloading-friend-1850474833)
-- [Lifehacker] [This 10TB Lifetime Cloud Backup Is Over 90% Off Right Now](https://lifehacker.com/this-10tb-lifetime-cloud-backup-is-over-90-off-right-n-1850480265)
-- [Lifehacker] [You Can Finally Share Your Screen in WhatsApp on Android](https://lifehacker.com/you-can-finally-share-your-screen-in-whatsapp-on-androi-1850487249)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This 10TB Lifetime Cloud Backup Is Over 90% Off Right Now](https://lifehacker.com/this-10tb-lifetime-cloud-backup-is-over-90-off-right-n-1850480265)<!-- TECH-POSTS:END -->
 
 ---
 
