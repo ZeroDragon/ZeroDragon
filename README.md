@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Turbocharge Your Coding: How Fast Typing Boosts a Developer Productivity](https://dev.to/devlawrence/turbocharge-your-coding-how-fast-typing-boosts-a-developer-productivity-2pbm)
+- [Dev.to/JS] [Making and distributing a UI component with Vue 3 and Vite](https://dev.to/matijanovosel/making-and-distributing-a-ui-component-with-vue-3-and-vite-12lk)
 - [Lifehacker] [Beware of These Scams the Next Time You Move](https://lifehacker.com/beware-of-these-scams-the-next-time-you-move-1850493049)
 - [Lifehacker] [Make This Retro Party Snack in Your Air Fryer](https://lifehacker.com/make-this-retro-party-snack-in-your-air-fryer-1850496989)
 - [Lifehacker] [All the New Android Features Google Just Announced](https://lifehacker.com/all-the-new-android-features-google-just-announced-1850495604)
@@ -46,9 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Save the Fatty Bits From Your Steak and Make &#39;Lazy Tallow&#39;](https://lifehacker.com/save-the-fatty-bits-from-your-steak-and-make-lazy-tallo-1850492717)
 - [Lifehacker] [What to Do With a Trap Bar in the Gym](https://lifehacker.com/what-to-do-with-a-trap-bar-in-the-gym-1850492679)
 - [Dev.to/JS] [PageSpeed Insights - My Experience](https://dev.to/proflead/pagespeed-insights-my-experience-4mo6)
-- [Dev.to/JS] [Refine vs Nextjs](https://dev.to/justcode_27/refine-vs-nextjs-44p2)
 - [Lifehacker] [You Can Take a Rust Programming Course for Free](https://lifehacker.com/you-can-take-a-rust-programming-course-for-free-1850492759)
-- [Dev.to/JS] [Is there an equivalent to SLIM in Vue.js?](https://dev.to/alexisbohns/is-there-an-equivalent-to-slim-in-vuejs-46kn)
 - [Lifehacker] [This Android Malware Was Downloaded Over 420 Million Times](https://lifehacker.com/this-android-malware-was-downloaded-over-420-million-ti-1850492306)
 - [Lifehacker] [Why Home Prices Are Rising Again &lpar;and What That Means for You&rpar;](https://lifehacker.com/why-home-prices-are-rising-again-and-what-that-means-f-1850491757)
 - [Lifehacker] [You Can’t Make Your Alexa Talk Like Samuel L. Jackson Anymore](https://lifehacker.com/you-can-t-make-your-alexa-talk-like-samuel-l-jackson-a-1850492737)
