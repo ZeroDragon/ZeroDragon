@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Drinks Are Sneaky Sources of Caffeine](https://lifehacker.com/these-drinks-are-sneaky-sources-of-caffeine-1850495926)
+- [Dev.to/JS] [Building AI Products - Why Haven&#39;t You Started Building Yours Yet?](https://dev.to/thenomadevel/building-ai-products-why-havent-you-started-building-yours-yet-45e6)
+- [Lifehacker] [What the UV Index Actually Means](https://lifehacker.com/what-the-uv-index-actually-means-1850496699)
+- [Dev.to/JS] [Loop](https://dev.to/mrizwanashiq/loop-1kj6)
+- [Lifehacker] [How to Revive a Rusty Pair of Gardening Shears](https://lifehacker.com/how-to-revive-a-rusty-pair-of-gardening-shears-1850495367)
 - [Dev.to/JS] [Introduction to React: A Beginner&#39;s Guide](https://dev.to/sammychris/introduction-to-react-a-beginners-guide-323h)
 - [Lifehacker] [You Can Get the ChatGPT WordPress Plugin for 80% Off Right Now](https://lifehacker.com/you-can-get-the-chatgpt-wordpress-plugin-for-80-off-ri-1850480277)
 - [Dev.to/JS] [PaceTrace ⏳: A Lightweight Progress Bar CLI Library](https://dev.to/guaregua19/pacetrace-a-lightweight-progress-bar-cli-library-1a01)
@@ -42,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Speeding up GitHub Actions with npm cache](https://dev.to/accreditly/speeding-up-github-actions-with-npm-cache-1712)
 - [Lifehacker] [This Android Malware Was Downloaded Over 420 Million Times](https://lifehacker.com/this-android-malware-was-downloaded-over-420-million-ti-1850492306)
 - [Dev.to/JS] [Scope and Closures in JavaScript](https://dev.to/thomasfinch__/scope-and-closures-in-javascript-159n)
-- [Dev.to/JS] [Scalability: the Lost Level of React State Management](https://dev.to/josh_claunch/scalability-the-lost-level-of-react-state-management-1h8n)
-- [Dev.to/JS] [How to Build - No Code Dev Portfolio GitHub](https://dev.to/ganeshstwt/how-to-build-no-code-dev-portfolio-github-4chk)
 - [Lifehacker] [Why Home Prices Are Rising Again &lpar;and What That Means for You&rpar;](https://lifehacker.com/why-home-prices-are-rising-again-and-what-that-means-f-1850491757)
 - [Lifehacker] [You Can’t Make Your Alexa Talk Like Samuel L. Jackson Anymore](https://lifehacker.com/you-can-t-make-your-alexa-talk-like-samuel-l-jackson-a-1850492737)
 - [Lifehacker] [12 of the Best Queer Podcasts to Listen to During Pride](https://lifehacker.com/12-of-the-best-queer-podcasts-to-listen-to-during-pride-1850482812)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Now Is Your Chance to Own a Lighthouse](https://lifehacker.com/now-is-your-chance-to-own-a-lighthouse-1850488546)
 - [Lifehacker] [Use Your iPhone&#39;s Automation to Switch Every Full-Screen Video to Landscape](https://lifehacker.com/use-your-iphones-automation-to-switch-every-full-screen-1850490209)
 - [Lifehacker] [Download Mobile Passport Control for Your Next International Trip](https://lifehacker.com/download-mobile-passport-control-for-your-next-internat-1850488881)
-- [Lifehacker] [You Should Be Paying Attention to Those Smooth Rings on the Barbell](https://lifehacker.com/you-should-be-paying-attention-to-those-smooth-rings-on-1850488648)
-- [Lifehacker] [Four Ways to Charge a Phone When the Power Goes Out](https://lifehacker.com/four-ways-to-charge-a-phone-when-the-power-goes-out-1850487254)
-- [Lifehacker] [Sous Vide Beets With Seaweed for Easy Vegan &#39;Poke&#39;](https://lifehacker.com/sous-vide-beets-with-seaweed-for-easy-vegan-poke-1850487675)
-- [Lifehacker] [The &#39;Wine Float&#39; Is the Frozen Cocktail of the Summer](https://lifehacker.com/the-wine-float-is-the-frozen-cocktail-of-the-summer-1850488515)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Be Paying Attention to Those Smooth Rings on the Barbell](https://lifehacker.com/you-should-be-paying-attention-to-those-smooth-rings-on-1850488648)<!-- TECH-POSTS:END -->
 
 ---
 
