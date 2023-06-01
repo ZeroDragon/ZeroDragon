@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Take a Rust Programming Course for Free](https://lifehacker.com/you-can-take-a-rust-programming-course-for-free-1850492759)
+- [Dev.to/JS] [Is there an equivalent to SLIM in Vue.js?](https://dev.to/alexisbohns/is-there-an-equivalent-to-slim-in-vuejs-46kn)
+- [Dev.to/JS] [Speeding up GitHub Actions with npm cache](https://dev.to/accreditly/speeding-up-github-actions-with-npm-cache-1712)
+- [Lifehacker] [This Android Malware Was Downloaded Over 420 Million Times](https://lifehacker.com/this-android-malware-was-downloaded-over-420-million-ti-1850492306)
+- [Dev.to/JS] [Scope and Closures in JavaScript](https://dev.to/thomasfinch__/scope-and-closures-in-javascript-159n)
+- [Dev.to/JS] [Scalability: the Lost Level of React State Management](https://dev.to/josh_claunch/scalability-the-lost-level-of-react-state-management-1h8n)
+- [Dev.to/JS] [How to Build - No Code Dev Portfolio GitHub](https://dev.to/ganeshstwt/how-to-build-no-code-dev-portfolio-github-4chk)
+- [Dev.to/JS] [Engaging Content on Javascript Core Concepts 💻](https://dev.to/codecraftjs/engaging-content-on-javascript-core-concepts-486g)
 - [Lifehacker] [Why Home Prices Are Rising Again &lpar;and What That Means for You&rpar;](https://lifehacker.com/why-home-prices-are-rising-again-and-what-that-means-f-1850491757)
 - [Dev.to/JS] [What is the best Roadmap for JavaScript?](https://dev.to/theazadhossen/what-is-the-best-roadmap-for-javascript-2a4f)
 - [Dev.to/JS] [Meteor Blaze - single state helper for ReactiveDict](https://dev.to/jankapunkt/meteor-blaze-single-state-helper-for-reactivedict-o2a)
@@ -31,13 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can’t Make Your Alexa Talk Like Samuel L. Jackson Anymore](https://lifehacker.com/you-can-t-make-your-alexa-talk-like-samuel-l-jackson-a-1850492737)
 - [Dev.to/JS] [How to flatten an array of arrays in JavaScript](https://dev.to/adetutu/how-to-flatten-an-array-of-arrays-in-javascript-13kn)
 - [Dev.to/JS] [Is &quot;this&quot; tricky in Javascript? No way!😎](https://dev.to/codecraftjs/is-this-tricky-in-javascript-no-way-f1l)
-- [Dev.to/JS] [Flowbite Guide - Frontend Development](https://dev.to/ganeshstwt/flowbite-guide-frontend-development-4on1)
-- [Dev.to/JS] [Fundamentals Concepts of Web Development](https://dev.to/yogeshverma1296/fundamentals-concepts-of-web-development-19do)
 - [Lifehacker] [12 of the Best Queer Podcasts to Listen to During Pride](https://lifehacker.com/12-of-the-best-queer-podcasts-to-listen-to-during-pride-1850482812)
-- [Dev.to/JS] [Asynchronous JavaScript](https://dev.to/yaswanthkn22/asynchronous-javascript-c7n)
-- [Dev.to/JS] [How to make a GPA Calculator as a beginner in HTML &amp; JavaScript](https://dev.to/analyze0/how-to-make-a-gpa-calculator-as-a-beginner-in-html-javascript-1o9c)
-- [Dev.to/JS] [CapacitorJs, PWA e empacotando front-end para Android e iOS.](https://dev.to/edvaldolima/capacitorjs-pwa-e-empacotando-front-end-para-android-e-ios-o69)
-- [Dev.to/JS] [Recursively Clone Objects without sacrificing Type Safety](https://dev.to/asross311/recursively-clone-objects-without-sacrificing-type-safety-3bae)
 - [Lifehacker] [This 50-Mile Range eBike Is Currently Over 50% Off](https://lifehacker.com/this-50-mile-range-ebike-is-currently-over-50-off-1850480323)
 - [Lifehacker] [This One Adjustment to Your KitchenAid Will Make it Run Better](https://lifehacker.com/this-one-adjustment-to-your-kitchenaid-will-make-it-run-1850489133)
 - [Lifehacker] [Soy-Cured Egg Yolk Butter Is My New Favorite Spread](https://lifehacker.com/soy-cured-egg-yolk-butter-is-my-new-favorite-spread-1850492006)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This At-Home Golf Simulator Is 20% Off Right Now](https://lifehacker.com/this-at-home-golf-simulator-is-20-off-right-now-1850480331)
 - [Lifehacker] [What to Say to Your Freeloading Friend](https://lifehacker.com/what-to-say-to-your-freeloading-friend-1850474833)
 - [Lifehacker] [This 10TB Lifetime Cloud Backup Is Over 90% Off Right Now](https://lifehacker.com/this-10tb-lifetime-cloud-backup-is-over-90-off-right-n-1850480265)
-- [Lifehacker] [You Can Finally Share Your Screen in WhatsApp on Android](https://lifehacker.com/you-can-finally-share-your-screen-in-whatsapp-on-androi-1850487249)
-- [Lifehacker] [You Can Get Your First Year of Sam’s Club Membership for $30 Right Now](https://lifehacker.com/you-can-get-your-first-year-of-sam-s-club-membership-fo-1850480310)
-- [Lifehacker] [Five Things You Should Do Now to Prepare for a Heatwave](https://lifehacker.com/five-things-you-should-do-now-to-prepare-for-a-heatwave-1850485876)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Finally Share Your Screen in WhatsApp on Android](https://lifehacker.com/you-can-finally-share-your-screen-in-whatsapp-on-androi-1850487249)<!-- TECH-POSTS:END -->
 
 ---
 
