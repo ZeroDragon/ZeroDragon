@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ESLint: How to install and configure?](https://dev.to/dmytrych/eslint-how-to-install-and-configure-9n9)
+- [Dev.to/JS] [Laravel File Viewer - A package to see preview of diffrent file types](https://dev.to/vish4395/laravel-file-viewer-a-package-to-see-preview-of-diffrent-file-types-3e1e)
 - [Dev.to/JS] [A Complete Guide For Fuel Level Sensor Software Development Process For Logistics.](https://dev.to/fleet_os/a-complete-guide-for-fuel-level-sensor-software-development-process-for-logistics-10pj)
 - [Dev.to/JS] [Learning React: Markup with JSX and Rendering Elements](https://dev.to/rabibsust/learning-react-markup-with-jsx-and-rendering-elements-d00)
 - [Dev.to/JS] [Creating a tiny zen game using Kontra](https://dev.to/mrlopis/creating-a-tiny-zen-game-using-kontra-jm8)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I bring a front-end adaptation tool from China](https://dev.to/larryzhu_china/i-bring-a-front-end-adaptation-tool-from-china-2kk4)
 - [Dev.to/JS] [Supercharge Your Web Apps: Harnessing Web Assembly for High Performance](https://dev.to/abdadeel/supercharge-your-web-apps-harnessing-web-assembly-for-high-performance-f4d)
 - [Dev.to/JS] [What is &quot;the time&quot;? ⏳ ...and what is meant by UTC in date.toUTCString&lpar;&rpar;?](https://dev.to/aderchox/what-is-the-time-and-what-is-meant-by-utc-in-datetoutcstring-2b57)
-- [Dev.to/JS] [Interactive Learning Tools](https://dev.to/bansikah/interactive-learning-tools-mga)
-- [Dev.to/JS] [Typescript: Type Utilities for the goodness and reusability](https://dev.to/taricov/typescript-type-utilities-for-the-goodness-and-reusability-323i)
 - [Lifehacker] [This 50-Mile Range eBike Is Currently Over 50% Off](https://lifehacker.com/this-50-mile-range-ebike-is-currently-over-50-off-1850480323)
 - [Lifehacker] [This One Adjustment to Your KitchenAid Will Make it Run Better](https://lifehacker.com/this-one-adjustment-to-your-kitchenaid-will-make-it-run-1850489133)
 - [Lifehacker] [Soy-Cured Egg Yolk Butter Is My New Favorite Spread](https://lifehacker.com/soy-cured-egg-yolk-butter-is-my-new-favorite-spread-1850492006)
