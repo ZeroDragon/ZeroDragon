@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GitHub Copilot Introduces Voice Coding: Enhancing Developer Productivity](https://dev.to/ishanbagchi/github-copilot-introduces-voice-coding-enhancing-developer-productivity-2k3b)
+- [Dev.to/JS] [Unleashing the Power of Design Patterns in React.js: A Comprehensive Guide](https://dev.to/probablyabhinav/unleashing-the-power-of-design-patterns-in-reactjs-a-comprehensive-guide-4ni4)
+- [Dev.to/JS] [Hooked on Hooks: Mastering State and Effects in React](https://dev.to/shubhamt619/hooked-on-hooks-mastering-state-and-effects-in-react-30hg)
+- [Dev.to/JS] [Bring Machine Learning to Your Web Apps with TensorFlow.js](https://dev.to/abhaysinghr1/bring-machine-learning-to-your-web-apps-with-tensorflowjs-2ijh)
 - [Dev.to/JS] [ESLint: How to install and configure?](https://dev.to/dmytrych/eslint-how-to-install-and-configure-9n9)
 - [Dev.to/JS] [Laravel File Viewer - A package to see preview of diffrent file types](https://dev.to/vish4395/laravel-file-viewer-a-package-to-see-preview-of-diffrent-file-types-3e1e)
 - [Dev.to/JS] [A Complete Guide For Fuel Level Sensor Software Development Process For Logistics.](https://dev.to/fleet_os/a-complete-guide-for-fuel-level-sensor-software-development-process-for-logistics-10pj)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Intro to Recursion: A Beginner&#39;s Guide](https://dev.to/sunday/intro-to-recursion-a-beginners-guide-403k)
 - [Dev.to/JS] [New coder here!](https://dev.to/andrewdstave/new-coder-here-51pp)
 - [Dev.to/JS] [Building Blocks with JavaScript: Understanding Constructor Functions](https://dev.to/danities316/building-blocks-with-javascript-understanding-constructor-functions-44e4)
-- [Dev.to/JS] [100 Days Coding Challenge - Day 12: FreeCodeCamp JavaScript Algorithms and Data Structures &amp; AI Chatbot Python](https://dev.to/alexmgp7/100-days-coding-challenge-day-12-freecodecamp-javascript-algorithms-and-data-structures-ai-chatbot-python-f78)
-- [Dev.to/JS] [I bring a front-end adaptation tool from China](https://dev.to/larryzhu_china/i-bring-a-front-end-adaptation-tool-from-china-2kk4)
-- [Dev.to/JS] [Supercharge Your Web Apps: Harnessing Web Assembly for High Performance](https://dev.to/abdadeel/supercharge-your-web-apps-harnessing-web-assembly-for-high-performance-f4d)
-- [Dev.to/JS] [What is &quot;the time&quot;? ⏳ ...and what is meant by UTC in date.toUTCString&lpar;&rpar;?](https://dev.to/aderchox/what-is-the-time-and-what-is-meant-by-utc-in-datetoutcstring-2b57)
 - [Lifehacker] [This 50-Mile Range eBike Is Currently Over 50% Off](https://lifehacker.com/this-50-mile-range-ebike-is-currently-over-50-off-1850480323)
 - [Lifehacker] [This One Adjustment to Your KitchenAid Will Make it Run Better](https://lifehacker.com/this-one-adjustment-to-your-kitchenaid-will-make-it-run-1850489133)
 - [Lifehacker] [Soy-Cured Egg Yolk Butter Is My New Favorite Spread](https://lifehacker.com/soy-cured-egg-yolk-butter-is-my-new-favorite-spread-1850492006)
