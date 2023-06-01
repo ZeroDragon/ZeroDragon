@@ -23,19 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Home Prices Are Rising Again &lpar;and What That Means for You&rpar;](https://lifehacker.com/why-home-prices-are-rising-again-and-what-that-means-f-1850491757)
+- [Dev.to/JS] [What is the best Roadmap for JavaScript?](https://dev.to/theazadhossen/what-is-the-best-roadmap-for-javascript-2a4f)
+- [Dev.to/JS] [Meteor Blaze - single state helper for ReactiveDict](https://dev.to/jankapunkt/meteor-blaze-single-state-helper-for-reactivedict-o2a)
+- [Dev.to/JS] [PayPal Has Updated Its Webhook Verification Endpoint](https://dev.to/paypaldeveloper/paypal-has-updated-its-webhook-verification-endpoint-n6l)
+- [Dev.to/JS] [Moonly weekly progress update #51 - Happy birthday Moonly!](https://dev.to/moonly/moonly-weekly-progress-update-51-happy-birthday-moonly-b3a)
+- [Lifehacker] [You Can’t Make Your Alexa Talk Like Samuel L. Jackson Anymore](https://lifehacker.com/you-can-t-make-your-alexa-talk-like-samuel-l-jackson-a-1850492737)
+- [Dev.to/JS] [How to flatten an array of arrays in JavaScript](https://dev.to/adetutu/how-to-flatten-an-array-of-arrays-in-javascript-13kn)
+- [Dev.to/JS] [Is &quot;this&quot; tricky in Javascript? No way!😎](https://dev.to/codecraftjs/is-this-tricky-in-javascript-no-way-f1l)
+- [Dev.to/JS] [Flowbite Guide - Frontend Development](https://dev.to/ganeshstwt/flowbite-guide-frontend-development-4on1)
+- [Dev.to/JS] [Fundamentals Concepts of Web Development](https://dev.to/yogeshverma1296/fundamentals-concepts-of-web-development-19do)
 - [Lifehacker] [12 of the Best Queer Podcasts to Listen to During Pride](https://lifehacker.com/12-of-the-best-queer-podcasts-to-listen-to-during-pride-1850482812)
 - [Dev.to/JS] [Asynchronous JavaScript](https://dev.to/yaswanthkn22/asynchronous-javascript-c7n)
 - [Dev.to/JS] [How to make a GPA Calculator as a beginner in HTML &amp; JavaScript](https://dev.to/analyze0/how-to-make-a-gpa-calculator-as-a-beginner-in-html-javascript-1o9c)
+- [Dev.to/JS] [CapacitorJs, PWA e empacotando front-end para Android e iOS.](https://dev.to/edvaldolima/capacitorjs-pwa-e-empacotando-front-end-para-android-e-ios-o69)
 - [Dev.to/JS] [Recursively Clone Objects without sacrificing Type Safety](https://dev.to/asross311/recursively-clone-objects-without-sacrificing-type-safety-3bae)
-- [Dev.to/JS] [Use Vite for your new React JS project.](https://dev.to/christiyan14/use-vite-for-your-new-react-js-project-2glm)
-- [Dev.to/JS] [JS Asynchronous-Technical Paper](https://dev.to/codebyank/js-asynchronous-technical-paper-25lo)
-- [Dev.to/JS] [20 Best Exploratory Testing Tools For 2023](https://dev.to/nazneenahmd/20-best-exploratory-testing-tools-for-2023-1lni)
-- [Dev.to/JS] [GitHub Copilot Introduces Voice Coding: Enhancing Developer Productivity](https://dev.to/ishanbagchi/github-copilot-introduces-voice-coding-enhancing-developer-productivity-2k3b)
-- [Dev.to/JS] [Unleashing the Power of Design Patterns in React.js: A Comprehensive Guide](https://dev.to/probablyabhinav/unleashing-the-power-of-design-patterns-in-reactjs-a-comprehensive-guide-4ni4)
-- [Dev.to/JS] [Hooked on Hooks: Mastering State and Effects in React](https://dev.to/shubhamt619/hooked-on-hooks-mastering-state-and-effects-in-react-30hg)
-- [Dev.to/JS] [Bring Machine Learning to Your Web Apps with TensorFlow.js](https://dev.to/abhaysinghr1/bring-machine-learning-to-your-web-apps-with-tensorflowjs-2ijh)
-- [Dev.to/JS] [ESLint: How to install and configure?](https://dev.to/dmytrych/eslint-how-to-install-and-configure-9n9)
-- [Dev.to/JS] [Laravel File Viewer - A package to see preview of diffrent file types](https://dev.to/vish4395/laravel-file-viewer-a-package-to-see-preview-of-diffrent-file-types-3e1e)
 - [Lifehacker] [This 50-Mile Range eBike Is Currently Over 50% Off](https://lifehacker.com/this-50-mile-range-ebike-is-currently-over-50-off-1850480323)
 - [Lifehacker] [This One Adjustment to Your KitchenAid Will Make it Run Better](https://lifehacker.com/this-one-adjustment-to-your-kitchenaid-will-make-it-run-1850489133)
 - [Lifehacker] [Soy-Cured Egg Yolk Butter Is My New Favorite Spread](https://lifehacker.com/soy-cured-egg-yolk-butter-is-my-new-favorite-spread-1850492006)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This 10TB Lifetime Cloud Backup Is Over 90% Off Right Now](https://lifehacker.com/this-10tb-lifetime-cloud-backup-is-over-90-off-right-n-1850480265)
 - [Lifehacker] [You Can Finally Share Your Screen in WhatsApp on Android](https://lifehacker.com/you-can-finally-share-your-screen-in-whatsapp-on-androi-1850487249)
 - [Lifehacker] [You Can Get Your First Year of Sam’s Club Membership for $30 Right Now](https://lifehacker.com/you-can-get-your-first-year-of-sam-s-club-membership-fo-1850480310)
-- [Lifehacker] [Five Things You Should Do Now to Prepare for a Heatwave](https://lifehacker.com/five-things-you-should-do-now-to-prepare-for-a-heatwave-1850485876)
-- [Lifehacker] [Dairy-free Chocolate Ganache Is Super Simple, Actually](https://lifehacker.com/dairy-free-chocolate-ganache-is-super-simple-actually-1850486743)
-- [Lifehacker] [These Seven New Microsoft PowerToys Utilities Are Worth Trying](https://lifehacker.com/these-seven-new-microsoft-powertoys-utilities-are-worth-1850484673)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five Things You Should Do Now to Prepare for a Heatwave](https://lifehacker.com/five-things-you-should-do-now-to-prepare-for-a-heatwave-1850485876)<!-- TECH-POSTS:END -->
 
 ---
 
