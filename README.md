@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When an Annuity Is a Good Idea for Retirement &lpar;and When It’s Not&rpar;](https://lifehacker.com/when-an-annuity-is-a-good-idea-for-retirement-and-when-1850491462)
 - [Lifehacker] [30 of the Best Queer Movies of the Last Century](https://lifehacker.com/30-of-the-best-queer-movies-of-the-last-century-1850471612)
 - [Lifehacker] [You Can Get Scrivener 3 for $30 Right Now](https://lifehacker.com/you-can-get-scrivener-3-for-30-right-now-1850480297)
 - [Lifehacker] [Save the Fatty Bits From Your Steak and Make &#39;Lazy Tallow&#39;](https://lifehacker.com/save-the-fatty-bits-from-your-steak-and-make-lazy-tallo-1850492717)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Sous Vide Beets With Seaweed for Easy Vegan &#39;Poke&#39;](https://lifehacker.com/sous-vide-beets-with-seaweed-for-easy-vegan-poke-1850487675)
 - [Lifehacker] [The &#39;Wine Float&#39; Is the Frozen Cocktail of the Summer](https://lifehacker.com/the-wine-float-is-the-frozen-cocktail-of-the-summer-1850488515)
 - [Lifehacker] [The Three Most Important Parts of a Syllabus](https://lifehacker.com/the-three-most-important-parts-of-a-syllabus-1850488708)
-- [Lifehacker] [How to Turn a Job Rejection Into a Future Opportunity](https://lifehacker.com/how-to-turn-a-job-rejection-into-a-future-opportunity-1850462953)
-- [Lifehacker] [What&#39;s New on Prime Video and Freevee in June 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-june-2023-1850488806)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Turn a Job Rejection Into a Future Opportunity](https://lifehacker.com/how-to-turn-a-job-rejection-into-a-future-opportunity-1850462953)<!-- TECH-POSTS:END -->
 
 ---
 
