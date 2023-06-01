@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Beware of These Scams the Next Time You Move](https://lifehacker.com/beware-of-these-scams-the-next-time-you-move-1850493049)
 - [Lifehacker] [Make This Retro Party Snack in Your Air Fryer](https://lifehacker.com/make-this-retro-party-snack-in-your-air-fryer-1850496989)
 - [Lifehacker] [All the New Android Features Google Just Announced](https://lifehacker.com/all-the-new-android-features-google-just-announced-1850495604)
 - [Dev.to/JS] [React Native Notes Download Complete Learn React Native](https://dev.to/progexpo/react-native-notes-download-complete-learn-react-native-43b8)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Lifetime Subscription to Matt’s Flights Is 94% Off Right Now](https://lifehacker.com/a-lifetime-subscription-to-matt-s-flights-is-94-off-ri-1850480357)
 - [Lifehacker] [Burn Your White Chocolate on Purpose](https://lifehacker.com/burn-your-white-chocolate-on-purpose-1850491502)
 - [Lifehacker] [The Best Budget Streaming Box Might Be From Walmart](https://lifehacker.com/the-best-budget-streaming-box-might-be-from-walmart-1850488513)
-- [Lifehacker] [Now Is Your Chance to Own a Lighthouse](https://lifehacker.com/now-is-your-chance-to-own-a-lighthouse-1850488546)
-- [Lifehacker] [Use Your iPhone&#39;s Automation to Switch Every Full-Screen Video to Landscape](https://lifehacker.com/use-your-iphones-automation-to-switch-every-full-screen-1850490209)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Now Is Your Chance to Own a Lighthouse](https://lifehacker.com/now-is-your-chance-to-own-a-lighthouse-1850488546)<!-- TECH-POSTS:END -->
 
 ---
 
