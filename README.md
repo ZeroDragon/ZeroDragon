@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Supercharge Your Web Apps: Harnessing Web Assembly for High Performance](https://dev.to/abdadeel/supercharge-your-web-apps-harnessing-web-assembly-for-high-performance-f4d)
 - [Dev.to/JS] [What is &quot;the time&quot;? ⏳ ...and what is meant by UTC in date.toUTCString&lpar;&rpar;?](https://dev.to/aderchox/what-is-the-time-and-what-is-meant-by-utc-in-datetoutcstring-2b57)
 - [Dev.to/JS] [Interactive Learning Tools](https://dev.to/bansikah/interactive-learning-tools-mga)
 - [Dev.to/JS] [Typescript: Type Utilities for the goodness and reusability](https://dev.to/taricov/typescript-type-utilities-for-the-goodness-and-reusability-323i)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This One Adjustment to Your KitchenAid Will Make it Run Better](https://lifehacker.com/this-one-adjustment-to-your-kitchenaid-will-make-it-run-1850489133)
 - [Dev.to/JS] [Compose and Send a Secure Message in 10 Minutes or Less with DataMotion APIs](https://dev.to/janellephalon/compose-and-send-a-secure-message-in-10-minutes-or-less-with-datamotion-apis-3akm)
 - [Lifehacker] [Soy-Cured Egg Yolk Butter Is My New Favorite Spread](https://lifehacker.com/soy-cured-egg-yolk-butter-is-my-new-favorite-spread-1850492006)
-- [Dev.to/JS] [Easy ways to compare two arrays in JavaScript](https://dev.to/ahmadadibzad/easy-ways-to-compare-two-arrays-in-javascript-1og0)
 - [Lifehacker] [Schedule Your News Consumption to Feel Bad When It’s More Convenient](https://lifehacker.com/schedule-your-news-consumption-to-feel-bad-when-it-s-mo-1850491790)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; When Your Sunburn Starts Peeling](https://lifehacker.com/what-to-do-and-not-do-when-your-sunburn-starts-peelin-1850490665)
 - [Lifehacker] [Seven Rules for Taking Your Kid to a Concert](https://lifehacker.com/seven-rules-for-taking-your-kid-to-a-concert-1850484046)
