@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to React: A Beginner&#39;s Guide](https://dev.to/sammychris/introduction-to-react-a-beginners-guide-323h)
+- [Lifehacker] [You Can Get the ChatGPT WordPress Plugin for 80% Off Right Now](https://lifehacker.com/you-can-get-the-chatgpt-wordpress-plugin-for-80-off-ri-1850480277)
+- [Dev.to/JS] [PaceTrace ⏳: A Lightweight Progress Bar CLI Library](https://dev.to/guaregua19/pacetrace-a-lightweight-progress-bar-cli-library-1a01)
+- [Dev.to/JS] [React.js Explained: Comparing and Converting Higher-Order Components to Hooks with Practical Examples](https://dev.to/sammychris/reactjs-explained-comparing-and-converting-higher-order-components-to-hooks-with-practical-examples-8hl)
+- [Dev.to/JS] [Why You Should Consider Changing useEffect to useCallback in Your React Applications](https://dev.to/tauantcamargo/why-you-should-consider-changing-useeffect-to-usecallback-in-your-react-applications-2g6k)
+- [Dev.to/JS] [20 Essential Parts Of Any Large Scale React App](https://dev.to/mohammadfaisal/20-essential-parts-of-any-large-scale-react-app-1pgf)
+- [Lifehacker] [The Difference Between Wet Brines, Dry Brines, and Marinades &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-wet-brines-dry-brines-and-mari-1850493212)
 - [Lifehacker] [When an Annuity Is a Good Idea for Retirement &lpar;and When It’s Not&rpar;](https://lifehacker.com/when-an-annuity-is-a-good-idea-for-retirement-and-when-1850491462)
 - [Lifehacker] [30 of the Best Queer Movies of the Last Century](https://lifehacker.com/30-of-the-best-queer-movies-of-the-last-century-1850471612)
 - [Lifehacker] [You Can Get Scrivener 3 for $30 Right Now](https://lifehacker.com/you-can-get-scrivener-3-for-30-right-now-1850480297)
@@ -37,12 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Scope and Closures in JavaScript](https://dev.to/thomasfinch__/scope-and-closures-in-javascript-159n)
 - [Dev.to/JS] [Scalability: the Lost Level of React State Management](https://dev.to/josh_claunch/scalability-the-lost-level-of-react-state-management-1h8n)
 - [Dev.to/JS] [How to Build - No Code Dev Portfolio GitHub](https://dev.to/ganeshstwt/how-to-build-no-code-dev-portfolio-github-4chk)
-- [Dev.to/JS] [Engaging Content on Javascript Core Concepts 💻](https://dev.to/codecraftjs/engaging-content-on-javascript-core-concepts-486g)
 - [Lifehacker] [Why Home Prices Are Rising Again &lpar;and What That Means for You&rpar;](https://lifehacker.com/why-home-prices-are-rising-again-and-what-that-means-f-1850491757)
-- [Dev.to/JS] [What is the best Roadmap for JavaScript?](https://dev.to/theazadhossen/what-is-the-best-roadmap-for-javascript-2a4f)
-- [Dev.to/JS] [Meteor Blaze - single state helper for ReactiveDict](https://dev.to/jankapunkt/meteor-blaze-single-state-helper-for-reactivedict-o2a)
-- [Dev.to/JS] [PayPal Has Updated Its Webhook Verification Endpoint](https://dev.to/paypaldeveloper/paypal-has-updated-its-webhook-verification-endpoint-n6l)
-- [Dev.to/JS] [Moonly weekly progress update #51 - Happy birthday Moonly!](https://dev.to/moonly/moonly-weekly-progress-update-51-happy-birthday-moonly-b3a)
 - [Lifehacker] [You Can’t Make Your Alexa Talk Like Samuel L. Jackson Anymore](https://lifehacker.com/you-can-t-make-your-alexa-talk-like-samuel-l-jackson-a-1850492737)
 - [Lifehacker] [12 of the Best Queer Podcasts to Listen to During Pride](https://lifehacker.com/12-of-the-best-queer-podcasts-to-listen-to-during-pride-1850482812)
 - [Lifehacker] [This 50-Mile Range eBike Is Currently Over 50% Off](https://lifehacker.com/this-50-mile-range-ebike-is-currently-over-50-off-1850480323)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Be Paying Attention to Those Smooth Rings on the Barbell](https://lifehacker.com/you-should-be-paying-attention-to-those-smooth-rings-on-1850488648)
 - [Lifehacker] [Four Ways to Charge a Phone When the Power Goes Out](https://lifehacker.com/four-ways-to-charge-a-phone-when-the-power-goes-out-1850487254)
 - [Lifehacker] [Sous Vide Beets With Seaweed for Easy Vegan &#39;Poke&#39;](https://lifehacker.com/sous-vide-beets-with-seaweed-for-easy-vegan-poke-1850487675)
-- [Lifehacker] [The &#39;Wine Float&#39; Is the Frozen Cocktail of the Summer](https://lifehacker.com/the-wine-float-is-the-frozen-cocktail-of-the-summer-1850488515)
-- [Lifehacker] [The Three Most Important Parts of a Syllabus](https://lifehacker.com/the-three-most-important-parts-of-a-syllabus-1850488708)
-- [Lifehacker] [How to Turn a Job Rejection Into a Future Opportunity](https://lifehacker.com/how-to-turn-a-job-rejection-into-a-future-opportunity-1850462953)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The &#39;Wine Float&#39; Is the Frozen Cocktail of the Summer](https://lifehacker.com/the-wine-float-is-the-frozen-cocktail-of-the-summer-1850488515)<!-- TECH-POSTS:END -->
 
 ---
 
