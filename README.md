@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is &quot;the time&quot;? ⏳ ...and what is meant by UTC in date.toUTCString&lpar;&rpar;?](https://dev.to/aderchox/what-is-the-time-and-what-is-meant-by-utc-in-datetoutcstring-2b57)
+- [Dev.to/JS] [Interactive Learning Tools](https://dev.to/bansikah/interactive-learning-tools-mga)
 - [Dev.to/JS] [Typescript: Type Utilities for the goodness and reusability](https://dev.to/taricov/typescript-type-utilities-for-the-goodness-and-reusability-323i)
 - [Dev.to/JS] [State Management on React [Part 3] - Jotai](https://dev.to/kevin-uehara/state-management-on-react-part-3-jotai-i7f)
 - [Dev.to/JS] [Creating a stripe connect account.](https://dev.to/moinakh22885547/creating-a-stripe-connect-account-235d)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Compose and Send a Secure Message in 10 Minutes or Less with DataMotion APIs](https://dev.to/janellephalon/compose-and-send-a-secure-message-in-10-minutes-or-less-with-datamotion-apis-3akm)
 - [Lifehacker] [Soy-Cured Egg Yolk Butter Is My New Favorite Spread](https://lifehacker.com/soy-cured-egg-yolk-butter-is-my-new-favorite-spread-1850492006)
 - [Dev.to/JS] [Easy ways to compare two arrays in JavaScript](https://dev.to/ahmadadibzad/easy-ways-to-compare-two-arrays-in-javascript-1og0)
-- [Dev.to/JS] [Find the Length of the Last Word in a String - javascript](https://dev.to/nathankurz91/find-the-length-of-the-last-word-in-a-string-javascript-41dg)
-- [Dev.to/JS] [OPEN SOURСE](https://dev.to/aibryx/open-sourse-1k0l)
 - [Lifehacker] [Schedule Your News Consumption to Feel Bad When It’s More Convenient](https://lifehacker.com/schedule-your-news-consumption-to-feel-bad-when-it-s-mo-1850491790)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; When Your Sunburn Starts Peeling](https://lifehacker.com/what-to-do-and-not-do-when-your-sunburn-starts-peelin-1850490665)
 - [Lifehacker] [Seven Rules for Taking Your Kid to a Concert](https://lifehacker.com/seven-rules-for-taking-your-kid-to-a-concert-1850484046)
