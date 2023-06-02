@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Zustand State Management Library: React](https://dev.to/shubhamtiwari909/zustand-state-management-library-react-20p2)
+- [Dev.to/JS] [The Complete Guide to OOP In Javascript](https://dev.to/merudra754/the-complete-guide-to-oop-in-javascript-2lk0)
 - [Dev.to/JS] [How to flatten an array of arrays in JavaScript](https://dev.to/anurag_vishwakarma/how-to-flatten-an-array-of-arrays-in-javascript-1pg)
 - [Dev.to/JS] [What is this in Javascript](https://dev.to/ranggapr/what-is-this-in-javascript-40bd)
 - [Dev.to/JS] [Best ES6 version of JavaScript of generating random colors using time interval](https://dev.to/monkcodes/best-es6-version-of-javascript-of-generating-random-colors-using-time-interval-18gl)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a music genre discovery app with AI code generation tools](https://dev.to/heymarkkop/creating-a-music-genre-discovery-app-with-ai-code-generation-tools-3jfp)
 - [Dev.to/JS] [call&lpar;&rpar;, apply&lpar;&rpar; e bind&lpar;&rpar; - Os Três Patetas do JavaScript](https://dev.to/taisesoares/call-apply-e-bind-os-tres-patetas-do-javascript-1pdd)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 13: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-13-freecodecamp-javascript-algorithms-and-data-structures-409j)
-- [Dev.to/JS] [Abra-QR-dabra: Watch Passwordless Mobile Auth Magically Appear](https://dev.to/propelauth/abra-qr-dabra-watch-passwordless-mobile-auth-magically-appear-e9e)
-- [Dev.to/JS] [Turbocharge Your Coding: How Fast Typing Boosts a Developer Productivity](https://dev.to/devlawrence/turbocharge-your-coding-how-fast-typing-boosts-a-developer-productivity-2pbm)
 - [Lifehacker] [Beware of These Scams the Next Time You Move](https://lifehacker.com/beware-of-these-scams-the-next-time-you-move-1850493049)
 - [Lifehacker] [Make This Retro Party Snack in Your Air Fryer](https://lifehacker.com/make-this-retro-party-snack-in-your-air-fryer-1850496989)
 - [Lifehacker] [All the New Android Features Google Just Announced](https://lifehacker.com/all-the-new-android-features-google-just-announced-1850495604)
