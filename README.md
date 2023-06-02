@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [call&lpar;&rpar;, apply&lpar;&rpar; e bind&lpar;&rpar; - Os Três Patetas do JavaScript](https://dev.to/taisesoares/call-apply-e-bind-os-tres-patetas-do-javascript-1pdd)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 13: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-13-freecodecamp-javascript-algorithms-and-data-structures-409j)
 - [Dev.to/JS] [Abra-QR-dabra: Watch Passwordless Mobile Auth Magically Appear](https://dev.to/propelauth/abra-qr-dabra-watch-passwordless-mobile-auth-magically-appear-e9e)
 - [Dev.to/JS] [Turbocharge Your Coding: How Fast Typing Boosts a Developer Productivity](https://dev.to/devlawrence/turbocharge-your-coding-how-fast-typing-boosts-a-developer-productivity-2pbm)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get the ChatGPT WordPress Plugin for 80% Off Right Now](https://lifehacker.com/you-can-get-the-chatgpt-wordpress-plugin-for-80-off-ri-1850480277)
 - [Dev.to/JS] [PaceTrace ⏳: A Lightweight Progress Bar CLI Library](https://dev.to/guaregua19/pacetrace-a-lightweight-progress-bar-cli-library-1a01)
 - [Dev.to/JS] [React.js Explained: Comparing and Converting Higher-Order Components to Hooks with Practical Examples](https://dev.to/sammychris/reactjs-explained-comparing-and-converting-higher-order-components-to-hooks-with-practical-examples-8hl)
-- [Dev.to/JS] [Why You Should Consider Changing useEffect to useCallback in Your React Applications](https://dev.to/tauantcamargo/why-you-should-consider-changing-useeffect-to-usecallback-in-your-react-applications-2g6k)
 - [Lifehacker] [The Difference Between Wet Brines, Dry Brines, and Marinades &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-wet-brines-dry-brines-and-mari-1850493212)
 - [Lifehacker] [When an Annuity Is a Good Idea for Retirement &lpar;and When It’s Not&rpar;](https://lifehacker.com/when-an-annuity-is-a-good-idea-for-retirement-and-when-1850491462)
 - [Lifehacker] [30 of the Best Queer Movies of the Last Century](https://lifehacker.com/30-of-the-best-queer-movies-of-the-last-century-1850471612)
