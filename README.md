@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Doctor’s and Lawyer’s ‘Rankings’ and ‘Awards’ Are Probably Fake](https://lifehacker.com/your-doctor-s-and-lawyer-s-rankings-and-awards-are-1850500367)
+- [Dev.to/JS] [📋 Javascript Quiz : 1️⃣](https://dev.to/merudra754/javascript-quiz-1-58pi)
+- [Lifehacker] [&#39;Lung Detoxes&#39; Are the TikTok Myth of the Week](https://lifehacker.com/lung-detoxes-are-the-tiktok-myth-of-the-week-1850500657)
+- [Dev.to/JS] [Digital Ocean TURN server: 3 Easy Steps](https://dev.to/alakkadshaw/digital-ocean-turn-server-3-easy-steps-pkn)
 - [Dev.to/JS] [Normal Copy vs Shallow Copy vs Deep Copy](https://dev.to/mrizwanashiq/normal-copy-vs-shallow-copy-vs-deep-copy-37pj)
 - [Lifehacker] [You Can Get a Refurbished Lenovo ThinkPad and Microsoft Office for $200](https://lifehacker.com/you-can-get-a-refurbished-lenovo-thinkpad-and-microsoft-1850480431)
 - [Dev.to/JS] [The JavaScript Roadmap for 2023: Navigating the Exciting Future](https://dev.to/dev_vikas/the-javascript-roadmap-for-2023-navigating-the-exciting-future-1gmh)
@@ -41,11 +45,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [💻ES6 tutorial: let in javascript](https://dev.to/rafikadir/es6-tutorial-let-in-javascript-5423)
 - [Dev.to/JS] [Construindo Portais no React: Exemplos de Código e Utilização](https://dev.to/jhonyaraujooficial/construindo-portais-no-react-exemplos-de-codigo-e-utilizacao-f74)
 - [Lifehacker] [Five Ways to Remove a Rusty Screw](https://lifehacker.com/five-ways-to-remove-a-rusty-screw-1850498754)
-- [Dev.to/JS] [Server-Side Rendering &lpar;SSR&rpar; or Static Site Generation &lpar;SSG&rpar;?](https://dev.to/eelcoverbrugge/server-side-rendering-ssr-or-static-site-generation-ssg-3m0)
 - [Lifehacker] [Get a Refurbished iPad Air and Beats Headphones for $115](https://lifehacker.com/get-a-refurbished-ipad-air-and-beats-headphones-for-11-1850489794)
 - [Lifehacker] [The Easiest Way to Silence Your Inner Critic](https://lifehacker.com/the-easiest-way-to-silence-your-inner-critic-1850497775)
 - [Lifehacker] [Why You Should Stop Watering Your Plants in the Middle of the Day](https://lifehacker.com/why-you-should-stop-watering-your-plants-in-the-middle-1850497331)
-- [Dev.to/JS] [Top Shortcut Keys and Hacks for Visual Studio Code &lpar;VSCode&rpar;](https://dev.to/scofieldidehen/top-shortcut-keys-and-hacks-for-visual-studio-code-vscode-44dp)
 - [Lifehacker] [The Three-Step Financial Checklist Every College Grad Needs](https://lifehacker.com/the-three-step-financial-checklist-every-college-grad-n-1850496495)
 - [Lifehacker] [Create a Simple Wardrobe Catalog on Your iPhone](https://lifehacker.com/create-a-simple-wardrobe-catalog-on-your-iphone-1850495680)
 - [Lifehacker] [Beware of These Scams the Next Time You Move](https://lifehacker.com/beware-of-these-scams-the-next-time-you-move-1850493049)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [30 of the Best Queer Movies of the Past 100 Years](https://lifehacker.com/30-of-the-best-queer-movies-of-the-last-century-1850471612)
 - [Lifehacker] [You Can Get Scrivener 3 for $30 Right Now](https://lifehacker.com/you-can-get-scrivener-3-for-30-right-now-1850480297)
 - [Lifehacker] [Save the Fatty Bits From Your Steak and Make &#39;Lazy Tallow&#39;](https://lifehacker.com/save-the-fatty-bits-from-your-steak-and-make-lazy-tallo-1850492717)
-- [Lifehacker] [What to Do With a Trap Bar in the Gym](https://lifehacker.com/what-to-do-with-a-trap-bar-in-the-gym-1850492679)
-- [Lifehacker] [You Can Take a Rust Programming Course for Free](https://lifehacker.com/you-can-take-a-rust-programming-course-for-free-1850492759)
-- [Lifehacker] [This Android Malware Was Downloaded Over 420 Million Times](https://lifehacker.com/this-android-malware-was-downloaded-over-420-million-ti-1850492306)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do With a Trap Bar in the Gym](https://lifehacker.com/what-to-do-with-a-trap-bar-in-the-gym-1850492679)<!-- TECH-POSTS:END -->
 
 ---
 
