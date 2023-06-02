@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Get a Refurbished iPad Air and Beats Headphones for $115](https://lifehacker.com/get-a-refurbished-ipad-air-and-beats-headphones-for-11-1850489794)
+- [Lifehacker] [The Easiest Way to Silence Your Inner Critic](https://lifehacker.com/the-easiest-way-to-silence-your-inner-critic-1850497775)
 - [Lifehacker] [Why You Should Stop Watering Your Plants in the Middle of the Day](https://lifehacker.com/why-you-should-stop-watering-your-plants-in-the-middle-1850497331)
 - [Dev.to/JS] [Top Shortcut Keys and Hacks for Visual Studio Code &lpar;VSCode&rpar;](https://dev.to/scofieldidehen/top-shortcut-keys-and-hacks-for-visual-studio-code-vscode-44dp)
 - [Dev.to/JS] [Navigation component in Material-React-table](https://dev.to/jars06/navigation-component-in-material-react-table-50jj)
@@ -47,7 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get the ChatGPT WordPress Plugin for 80% Off Right Now](https://lifehacker.com/you-can-get-the-chatgpt-wordpress-plugin-for-80-off-ri-1850480277)
 - [Lifehacker] [The Difference Between Wet Brines, Dry Brines, and Marinades &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-wet-brines-dry-brines-and-mari-1850493212)
 - [Lifehacker] [When an Annuity Is a Good Idea for Retirement &lpar;and When It’s Not&rpar;](https://lifehacker.com/when-an-annuity-is-a-good-idea-for-retirement-and-when-1850491462)
-- [Lifehacker] [30 of the Best Queer Movies of the Last Century](https://lifehacker.com/30-of-the-best-queer-movies-of-the-last-century-1850471612)
+- [Lifehacker] [30 of the Best Queer Movies of the Past 100 Years](https://lifehacker.com/30-of-the-best-queer-movies-of-the-last-century-1850471612)
 - [Lifehacker] [You Can Get Scrivener 3 for $30 Right Now](https://lifehacker.com/you-can-get-scrivener-3-for-30-right-now-1850480297)
 - [Lifehacker] [Save the Fatty Bits From Your Steak and Make &#39;Lazy Tallow&#39;](https://lifehacker.com/save-the-fatty-bits-from-your-steak-and-make-lazy-tallo-1850492717)
 - [Lifehacker] [What to Do With a Trap Bar in the Gym](https://lifehacker.com/what-to-do-with-a-trap-bar-in-the-gym-1850492679)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This One Adjustment to Your KitchenAid Will Make It Run Better](https://lifehacker.com/this-one-adjustment-to-your-kitchenaid-will-make-it-run-1850489133)
 - [Lifehacker] [Soy-Cured Egg Yolk Butter Is My New Favorite Spread](https://lifehacker.com/soy-cured-egg-yolk-butter-is-my-new-favorite-spread-1850492006)
 - [Lifehacker] [Schedule Your News Consumption to Feel Bad When It’s More Convenient](https://lifehacker.com/schedule-your-news-consumption-to-feel-bad-when-it-s-mo-1850491790)
-- [Lifehacker] [What to Do &lpar;and Not Do&rpar; When Your Sunburn Starts Peeling](https://lifehacker.com/what-to-do-and-not-do-when-your-sunburn-starts-peelin-1850490665)
-- [Lifehacker] [Seven Rules for Taking Your Kid to a Concert](https://lifehacker.com/seven-rules-for-taking-your-kid-to-a-concert-1850484046)
-- [Lifehacker] [A Lifetime Subscription to Matt’s Flights Is 94% Off Right Now](https://lifehacker.com/a-lifetime-subscription-to-matt-s-flights-is-94-off-ri-1850480357)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do &lpar;and Not Do&rpar; When Your Sunburn Starts Peeling](https://lifehacker.com/what-to-do-and-not-do-when-your-sunburn-starts-peelin-1850490665)<!-- TECH-POSTS:END -->
 
 ---
 
