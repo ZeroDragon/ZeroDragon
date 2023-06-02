@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ChatGPT is threatening my sense of identity](https://dev.to/altonwells/chatgpt-is-threatening-my-sense-of-identity-2mgp)
+- [Dev.to/JS] [How to create modal box used html5 ? No need javaScript.](https://dev.to/codesushil/how-to-create-modal-box-used-html5-no-need-javascript-c64)
+- [Dev.to/JS] [Creating a music genre discovery app with AI code generation tools](https://dev.to/heymarkkop/creating-a-music-genre-discovery-app-with-ai-code-generation-tools-3jfp)
 - [Dev.to/JS] [call&lpar;&rpar;, apply&lpar;&rpar; e bind&lpar;&rpar; - Os Três Patetas do JavaScript](https://dev.to/taisesoares/call-apply-e-bind-os-tres-patetas-do-javascript-1pdd)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 13: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-13-freecodecamp-javascript-algorithms-and-data-structures-409j)
 - [Dev.to/JS] [Abra-QR-dabra: Watch Passwordless Mobile Auth Magically Appear](https://dev.to/propelauth/abra-qr-dabra-watch-passwordless-mobile-auth-magically-appear-e9e)
@@ -38,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What the UV Index Actually Means](https://lifehacker.com/what-the-uv-index-actually-means-1850496699)
 - [Dev.to/JS] [Loop](https://dev.to/mrizwanashiq/loop-1kj6)
 - [Lifehacker] [How to Revive a Rusty Pair of Gardening Shears](https://lifehacker.com/how-to-revive-a-rusty-pair-of-gardening-shears-1850495367)
-- [Dev.to/JS] [Introduction to React: A Beginner&#39;s Guide](https://dev.to/sammychris/introduction-to-react-a-beginners-guide-323h)
 - [Lifehacker] [You Can Get the ChatGPT WordPress Plugin for 80% Off Right Now](https://lifehacker.com/you-can-get-the-chatgpt-wordpress-plugin-for-80-off-ri-1850480277)
-- [Dev.to/JS] [PaceTrace ⏳: A Lightweight Progress Bar CLI Library](https://dev.to/guaregua19/pacetrace-a-lightweight-progress-bar-cli-library-1a01)
-- [Dev.to/JS] [React.js Explained: Comparing and Converting Higher-Order Components to Hooks with Practical Examples](https://dev.to/sammychris/reactjs-explained-comparing-and-converting-higher-order-components-to-hooks-with-practical-examples-8hl)
 - [Lifehacker] [The Difference Between Wet Brines, Dry Brines, and Marinades &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-wet-brines-dry-brines-and-mari-1850493212)
 - [Lifehacker] [When an Annuity Is a Good Idea for Retirement &lpar;and When It’s Not&rpar;](https://lifehacker.com/when-an-annuity-is-a-good-idea-for-retirement-and-when-1850491462)
 - [Lifehacker] [30 of the Best Queer Movies of the Last Century](https://lifehacker.com/30-of-the-best-queer-movies-of-the-last-century-1850471612)
