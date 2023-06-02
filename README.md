@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Stop Watering Your Plants in the Middle of the Day](https://lifehacker.com/why-you-should-stop-watering-your-plants-in-the-middle-1850497331)
+- [Dev.to/JS] [Top Shortcut Keys and Hacks for Visual Studio Code &lpar;VSCode&rpar;](https://dev.to/scofieldidehen/top-shortcut-keys-and-hacks-for-visual-studio-code-vscode-44dp)
+- [Dev.to/JS] [Navigation component in Material-React-table](https://dev.to/jars06/navigation-component-in-material-react-table-50jj)
+- [Dev.to/JS] [Smartphone Repair | Laptop Repair | Phones Repair in 30 Minutes](https://dev.to/rahulrathoreblog/smartphone-repair-laptop-repair-phones-repair-in-30-minutes-3275)
+- [Lifehacker] [The Three-Step Financial Checklist Every College Grad Needs](https://lifehacker.com/the-three-step-financial-checklist-every-college-grad-n-1850496495)
+- [Dev.to/JS] [Unlocking the Power of Generator Functions in JavaScript: A Versatile Tool for Iteration and Control Flow](https://dev.to/danities316/unlocking-the-power-of-generator-functions-in-javascript-a-versatile-tool-for-iteration-and-control-flow-529m)
 - [Lifehacker] [Create a Simple Wardrobe Catalog on Your iPhone](https://lifehacker.com/create-a-simple-wardrobe-catalog-on-your-iphone-1850495680)
 - [Dev.to/JS] [Episode: 23/21: Q&amp;A with the Angular Team, Angular Plus Show, Developer Survey Results](https://dev.to/this-is-angular/episode-2321-qa-with-the-angular-team-angular-plus-show-developer-survey-results-5blg)
 - [Dev.to/JS] [Episode 23/20: ng-India, Angular Air with Manfred Steyer](https://dev.to/this-is-angular/episode-2320-ng-india-angular-air-with-manfred-steyer-3284)
@@ -32,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Animations in React Native](https://dev.to/hewrsrood/animations-in-react-native-5ggi)
 - [Dev.to/JS] [Legacy pages/api works in App Router Next.js project](https://dev.to/ku6ryo/legacy-pagesapi-works-in-app-router-nextjs-project-1cmn)
 - [Dev.to/JS] [Let&#39;s create a Color Picker from scratch with HTML5 Canvas, Javascript and CSS3](https://dev.to/salvietta150x40/lets-create-a-color-picker-from-scratch-with-html5-canvas-javascript-and-css3-299b)
-- [Dev.to/JS] [10 Funny Things About React 😄](https://dev.to/saiarlen/10-funny-things-about-react-m6l)
-- [Dev.to/JS] [Why should I use React error boundaries? Never forget that!](https://dev.to/martygo/why-should-i-use-react-error-boundaries-never-forget-that-c30)
-- [Dev.to/JS] [Free News API to Search Blogs and Articles](https://dev.to/newsdataio/free-news-api-to-search-blogs-and-articles-4k61)
-- [Dev.to/JS] [Learn about the difference between var, let, and const keywords in JavaScript and when to use them.](https://dev.to/tino_muc/learn-about-the-difference-between-var-let-and-const-keywords-in-javascript-and-when-to-use-them-2638)
 - [Lifehacker] [Beware of These Scams the Next Time You Move](https://lifehacker.com/beware-of-these-scams-the-next-time-you-move-1850493049)
 - [Lifehacker] [Make This Retro Party Snack in Your Air Fryer](https://lifehacker.com/make-this-retro-party-snack-in-your-air-fryer-1850496989)
 - [Lifehacker] [All the New Android Features Google Just Announced](https://lifehacker.com/all-the-new-android-features-google-just-announced-1850495604)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Schedule Your News Consumption to Feel Bad When It’s More Convenient](https://lifehacker.com/schedule-your-news-consumption-to-feel-bad-when-it-s-mo-1850491790)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; When Your Sunburn Starts Peeling](https://lifehacker.com/what-to-do-and-not-do-when-your-sunburn-starts-peelin-1850490665)
 - [Lifehacker] [Seven Rules for Taking Your Kid to a Concert](https://lifehacker.com/seven-rules-for-taking-your-kid-to-a-concert-1850484046)
-- [Lifehacker] [A Lifetime Subscription to Matt’s Flights Is 94% Off Right Now](https://lifehacker.com/a-lifetime-subscription-to-matt-s-flights-is-94-off-ri-1850480357)
-- [Lifehacker] [Burn Your White Chocolate on Purpose](https://lifehacker.com/burn-your-white-chocolate-on-purpose-1850491502)
-- [Lifehacker] [The Best Budget Streaming Box Might Be From Walmart](https://lifehacker.com/the-best-budget-streaming-box-might-be-from-walmart-1850488513)<!-- TECH-POSTS:END -->
+- [Lifehacker] [A Lifetime Subscription to Matt’s Flights Is 94% Off Right Now](https://lifehacker.com/a-lifetime-subscription-to-matt-s-flights-is-94-off-ri-1850480357)<!-- TECH-POSTS:END -->
 
 ---
 
