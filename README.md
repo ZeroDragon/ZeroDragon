@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best ES6 version of JavaScript of generating random colors using time interval](https://dev.to/monkcodes/best-es6-version-of-javascript-of-generating-random-colors-using-time-interval-18gl)
+- [Dev.to/JS] [LET ME PLAY GTA 4 Apk using circuit python](https://dev.to/trafficridertim/let-me-play-gta-4-apk-using-circuit-python-3h11)
 - [Dev.to/JS] [React Hooks Made Easy: A Step-by-Step Tutorial &lpar;Part 1&rpar;](https://dev.to/abosaiftaha/react-hooks-made-easy-a-step-by-step-tutorial-part-1-2p6g)
 - [Dev.to/JS] [ChatGPT is threatening my sense of identity](https://dev.to/altonwells/chatgpt-is-threatening-my-sense-of-identity-2mgp)
 - [Dev.to/JS] [How to create modal box used html5 ? No need javaScript.](https://dev.to/codesushil/how-to-create-modal-box-used-html5-no-need-javascript-c64)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Retro Party Snack in Your Air Fryer](https://lifehacker.com/make-this-retro-party-snack-in-your-air-fryer-1850496989)
 - [Lifehacker] [All the New Android Features Google Just Announced](https://lifehacker.com/all-the-new-android-features-google-just-announced-1850495604)
 - [Dev.to/JS] [React Native Notes Download Complete Learn React Native](https://dev.to/progexpo/react-native-notes-download-complete-learn-react-native-43b8)
-- [Dev.to/JS] [Bring Machine Learning to Your Web Apps with TensorFlow.js](https://dev.to/anurag_vishwakarma/bring-machine-learning-to-your-web-apps-with-tensorflowjs-16hi)
 - [Lifehacker] [These Drinks Are Sneaky Sources of Caffeine](https://lifehacker.com/these-drinks-are-sneaky-sources-of-caffeine-1850495926)
-- [Dev.to/JS] [Building AI Products - Why Haven&#39;t You Started Building Yours Yet?](https://dev.to/thenomadevel/building-ai-products-why-havent-you-started-building-yours-yet-45e6)
 - [Lifehacker] [What the UV Index Actually Means](https://lifehacker.com/what-the-uv-index-actually-means-1850496699)
 - [Lifehacker] [How to Revive a Rusty Pair of Gardening Shears](https://lifehacker.com/how-to-revive-a-rusty-pair-of-gardening-shears-1850495367)
 - [Lifehacker] [You Can Get the ChatGPT WordPress Plugin for 80% Off Right Now](https://lifehacker.com/you-can-get-the-chatgpt-wordpress-plugin-for-80-off-ri-1850480277)
