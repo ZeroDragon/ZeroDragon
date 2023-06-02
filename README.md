@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [100 Days Coding Challenge - Day 14: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-14-freecodecamp-javascript-algorithms-and-data-structures-2mnh)
+- [Dev.to/JS] [React Hooks Made Easy: A Step-by-Step Tutorial &lpar;Part 2&rpar;](https://dev.to/abosaiftaha/react-hooks-made-easy-a-step-by-step-tutorial-part-2-20ja)
+- [Lifehacker] [Why You Should Stop Feeling Guilty About Your Kid&#39;s Screen Time](https://lifehacker.com/why-you-should-stop-feeling-guilty-about-your-kids-scre-1850500959)
+- [Dev.to/JS] [Mastering API Fetch: How to Build a Movie Website with Real-Time Data Updates](https://dev.to/tracy4code/mastering-api-fetch-how-to-build-a-movie-website-with-real-time-data-updates-30ob)
+- [Dev.to/JS] [JavaScript Quiz #01: About JavaScript](https://dev.to/quizzes4u/javascript-quiz-01-about-javascript-1l8d)
 - [Lifehacker] [Don’t Miss These June Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-june-class-action-settlement-deadlines-1850501393)
 - [Lifehacker] [Here Are All the Astro Events to Watch in June](https://lifehacker.com/here-are-all-the-astro-events-to-watch-in-june-1850500214)
 - [Lifehacker] [Your Doctor’s and Lawyer’s ‘Rankings’ and ‘Awards’ Are Probably Fake](https://lifehacker.com/your-doctor-s-and-lawyer-s-rankings-and-awards-are-1850500367)
@@ -40,12 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to Skip Your Company’s 401&lpar;k&rpar;](https://lifehacker.com/when-to-skip-your-company-s-401-k-1850499838)
 - [Dev.to/JS] [Spotify API for creating &#39;Listening now&#39; card](https://dev.to/basskibo/spotify-api-for-creating-listening-now-card-12e1)
 - [Dev.to/JS] [Using fetch with TypeScript](https://dev.to/douglasdemoura/using-fetch-with-typescript-ho6)
-- [Dev.to/JS] [Authentication system using Golang and Sveltekit - Initialization and setup](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-initialization-and-setup-4oc9)
 - [Lifehacker] [The Weirdest Things You Can Buy at Temu, the Internet’s New Favorite Jumble Sale](https://lifehacker.com/the-weirdest-things-you-can-buy-at-temu-the-internet-s-1850497999)
-- [Dev.to/JS] [How to check grammar and spelling of your text content with JavaScript?](https://dev.to/edenai/how-to-check-grammar-and-spelling-of-your-text-content-with-javascript-33cm)
 - [Lifehacker] [All the Ways You Should Be Using Your College Counseling Center](https://lifehacker.com/all-the-ways-you-should-be-using-your-college-counselin-1850499484)
-- [Dev.to/JS] [💻ES6 tutorial: let in javascript](https://dev.to/rafikadir/es6-tutorial-let-in-javascript-5423)
-- [Dev.to/JS] [Construindo Portais no React: Exemplos de Código e Utilização](https://dev.to/jhonyaraujooficial/construindo-portais-no-react-exemplos-de-codigo-e-utilizacao-f74)
 - [Lifehacker] [Five Ways to Remove a Rusty Screw](https://lifehacker.com/five-ways-to-remove-a-rusty-screw-1850498754)
 - [Lifehacker] [Get a Refurbished iPad Air and Beats Headphones for $115](https://lifehacker.com/get-a-refurbished-ipad-air-and-beats-headphones-for-11-1850489794)
 - [Lifehacker] [The Easiest Way to Silence Your Inner Critic](https://lifehacker.com/the-easiest-way-to-silence-your-inner-critic-1850497775)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get the ChatGPT WordPress Plugin for 80% Off Right Now](https://lifehacker.com/you-can-get-the-chatgpt-wordpress-plugin-for-80-off-ri-1850480277)
 - [Lifehacker] [The Difference Between Wet Brines, Dry Brines, and Marinades &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-wet-brines-dry-brines-and-mari-1850493212)
 - [Lifehacker] [When an Annuity Is a Good Idea for Retirement &lpar;and When It’s Not&rpar;](https://lifehacker.com/when-an-annuity-is-a-good-idea-for-retirement-and-when-1850491462)
-- [Lifehacker] [30 of the Best Queer Movies of the Past 100 Years](https://lifehacker.com/30-of-the-best-queer-movies-of-the-last-century-1850471612)
-- [Lifehacker] [You Can Get Scrivener 3 for $30 Right Now](https://lifehacker.com/you-can-get-scrivener-3-for-30-right-now-1850480297)<!-- TECH-POSTS:END -->
+- [Lifehacker] [30 of the Best Queer Movies of the Past 100 Years](https://lifehacker.com/30-of-the-best-queer-movies-of-the-last-century-1850471612)<!-- TECH-POSTS:END -->
 
 ---
 
