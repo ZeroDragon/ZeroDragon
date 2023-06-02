@@ -23,9 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using fetch with TypeScript](https://dev.to/douglasdemoura/using-fetch-with-typescript-ho6)
+- [Dev.to/JS] [Authentication system using Golang and Sveltekit - Initialization and setup](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-initialization-and-setup-4oc9)
+- [Lifehacker] [The Weirdest things You Can Buy at Temu, the Internet’s New Favorite Jumble Sale](https://lifehacker.com/the-weirdest-things-you-can-buy-at-temu-the-internet-s-1850497999)
+- [Dev.to/JS] [How to check grammar and spelling of your text content with JavaScript?](https://dev.to/edenai/how-to-check-grammar-and-spelling-of-your-text-content-with-javascript-33cm)
+- [Lifehacker] [All the Ways You Should Be Using Your College Counseling Center](https://lifehacker.com/all-the-ways-you-should-be-using-your-college-counselin-1850499484)
 - [Dev.to/JS] [💻ES6 tutorial: let in javascript](https://dev.to/rafikadir/es6-tutorial-let-in-javascript-5423)
 - [Dev.to/JS] [Construindo Portais no React: Exemplos de Código e Utilização](https://dev.to/jhonyaraujooficial/construindo-portais-no-react-exemplos-de-codigo-e-utilizacao-f74)
-- [Dev.to/JS] [Web Accessibility: Designing for All Users](https://dev.to/syedsadiqali/web-accessibility-designing-for-all-users-428h)
 - [Lifehacker] [Five Ways to Remove a Rusty Screw](https://lifehacker.com/five-ways-to-remove-a-rusty-screw-1850498754)
 - [Dev.to/JS] [Server-Side Rendering &lpar;SSR&rpar; or Static Site Generation &lpar;SSG&rpar;?](https://dev.to/eelcoverbrugge/server-side-rendering-ssr-or-static-site-generation-ssg-3m0)
 - [Lifehacker] [Get a Refurbished iPad Air and Beats Headphones for $115](https://lifehacker.com/get-a-refurbished-ipad-air-and-beats-headphones-for-11-1850489794)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Create a Simple Wardrobe Catalog on Your iPhone](https://lifehacker.com/create-a-simple-wardrobe-catalog-on-your-iphone-1850495680)
 - [Dev.to/JS] [Episode: 23/21: Q&amp;A with the Angular Team, Angular Plus Show, Developer Survey Results](https://dev.to/this-is-angular/episode-2321-qa-with-the-angular-team-angular-plus-show-developer-survey-results-5blg)
 - [Dev.to/JS] [Episode 23/20: ng-India, Angular Air with Manfred Steyer](https://dev.to/this-is-angular/episode-2320-ng-india-angular-air-with-manfred-steyer-3284)
-- [Dev.to/JS] [Episode 23/19: Angular Course, NgRx 16, Igor Minar on Angular&#39;s history](https://dev.to/this-is-angular/episode-2319-angular-course-ngrx-16-igor-minar-on-angulars-history-4hck)
-- [Dev.to/JS] [Svelte TimeTable Game](https://dev.to/vulcanwm/svelte-timetable-game-24fl)
 - [Lifehacker] [Beware of These Scams the Next Time You Move](https://lifehacker.com/beware-of-these-scams-the-next-time-you-move-1850493049)
 - [Lifehacker] [Make This Retro Party Snack in Your Air Fryer](https://lifehacker.com/make-this-retro-party-snack-in-your-air-fryer-1850496989)
 - [Lifehacker] [All the New Android Features Google Just Announced](https://lifehacker.com/all-the-new-android-features-google-just-announced-1850495604)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can’t Make Your Alexa Talk Like Samuel L. Jackson Anymore](https://lifehacker.com/you-can-t-make-your-alexa-talk-like-samuel-l-jackson-a-1850492737)
 - [Lifehacker] [12 of the Best Queer Podcasts to Listen to During Pride](https://lifehacker.com/12-of-the-best-queer-podcasts-to-listen-to-during-pride-1850482812)
 - [Lifehacker] [This 50-Mile Range eBike Is Currently Over 50% Off](https://lifehacker.com/this-50-mile-range-ebike-is-currently-over-50-off-1850480323)
-- [Lifehacker] [This One Adjustment to Your KitchenAid Will Make It Run Better](https://lifehacker.com/this-one-adjustment-to-your-kitchenaid-will-make-it-run-1850489133)
-- [Lifehacker] [Soy-Cured Egg Yolk Butter Is My New Favorite Spread](https://lifehacker.com/soy-cured-egg-yolk-butter-is-my-new-favorite-spread-1850492006)
-- [Lifehacker] [Schedule Your News Consumption to Feel Bad When It’s More Convenient](https://lifehacker.com/schedule-your-news-consumption-to-feel-bad-when-it-s-mo-1850491790)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This One Adjustment to Your KitchenAid Will Make It Run Better](https://lifehacker.com/this-one-adjustment-to-your-kitchenaid-will-make-it-run-1850489133)<!-- TECH-POSTS:END -->
 
 ---
 
