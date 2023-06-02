@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Normal Copy vs Shallow Copy vs Deep Copy](https://dev.to/mrizwanashiq/normal-copy-vs-shallow-copy-vs-deep-copy-37pj)
+- [Lifehacker] [You Can Get a Refurbished Lenovo ThinkPad and Microsoft Office for $200](https://lifehacker.com/you-can-get-a-refurbished-lenovo-thinkpad-and-microsoft-1850480431)
+- [Dev.to/JS] [The JavaScript Roadmap for 2023: Navigating the Exciting Future](https://dev.to/dev_vikas/the-javascript-roadmap-for-2023-navigating-the-exciting-future-1gmh)
+- [Lifehacker] [This DIY Rolling Umbrella Stand Doubles As a Planter](https://lifehacker.com/this-diy-rolling-umbrella-stand-doubles-as-a-planter-1850498827)
 - [Lifehacker] [PlayStation Plus Is Having a Great Sale](https://lifehacker.com/playstation-plus-is-having-a-great-sale-1850500018)
 - [Dev.to/JS] [Building an Extension System on the Web](https://dev.to/areknawo/building-an-extension-system-on-the-web-5a51)
 - [Dev.to/JS] [Balancing Complexity: A Tale of Array Includes vs. Negation](https://dev.to/pchinjr/balancing-complexity-a-tale-of-array-includes-vs-negation-2573)
@@ -42,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Silence Your Inner Critic](https://lifehacker.com/the-easiest-way-to-silence-your-inner-critic-1850497775)
 - [Lifehacker] [Why You Should Stop Watering Your Plants in the Middle of the Day](https://lifehacker.com/why-you-should-stop-watering-your-plants-in-the-middle-1850497331)
 - [Dev.to/JS] [Top Shortcut Keys and Hacks for Visual Studio Code &lpar;VSCode&rpar;](https://dev.to/scofieldidehen/top-shortcut-keys-and-hacks-for-visual-studio-code-vscode-44dp)
-- [Dev.to/JS] [Navigation component in Material-React-table](https://dev.to/jars06/navigation-component-in-material-react-table-50jj)
-- [Dev.to/JS] [Smartphone Repair | Laptop Repair | Phones Repair in 30 Minutes](https://dev.to/rahulrathoreblog/smartphone-repair-laptop-repair-phones-repair-in-30-minutes-3275)
 - [Lifehacker] [The Three-Step Financial Checklist Every College Grad Needs](https://lifehacker.com/the-three-step-financial-checklist-every-college-grad-n-1850496495)
 - [Lifehacker] [Create a Simple Wardrobe Catalog on Your iPhone](https://lifehacker.com/create-a-simple-wardrobe-catalog-on-your-iphone-1850495680)
 - [Lifehacker] [Beware of These Scams the Next Time You Move](https://lifehacker.com/beware-of-these-scams-the-next-time-you-move-1850493049)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Save the Fatty Bits From Your Steak and Make &#39;Lazy Tallow&#39;](https://lifehacker.com/save-the-fatty-bits-from-your-steak-and-make-lazy-tallo-1850492717)
 - [Lifehacker] [What to Do With a Trap Bar in the Gym](https://lifehacker.com/what-to-do-with-a-trap-bar-in-the-gym-1850492679)
 - [Lifehacker] [You Can Take a Rust Programming Course for Free](https://lifehacker.com/you-can-take-a-rust-programming-course-for-free-1850492759)
-- [Lifehacker] [This Android Malware Was Downloaded Over 420 Million Times](https://lifehacker.com/this-android-malware-was-downloaded-over-420-million-ti-1850492306)
-- [Lifehacker] [Why Home Prices Are Rising Again &lpar;and What That Means for You&rpar;](https://lifehacker.com/why-home-prices-are-rising-again-and-what-that-means-f-1850491757)
-- [Lifehacker] [You Can’t Make Your Alexa Talk Like Samuel L. Jackson Anymore](https://lifehacker.com/you-can-t-make-your-alexa-talk-like-samuel-l-jackson-a-1850492737)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Android Malware Was Downloaded Over 420 Million Times](https://lifehacker.com/this-android-malware-was-downloaded-over-420-million-ti-1850492306)<!-- TECH-POSTS:END -->
 
 ---
 
