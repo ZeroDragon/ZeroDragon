@@ -23,9 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [PlayStation Plus Is Having a Great Sale](https://lifehacker.com/playstation-plus-is-having-a-great-sale-1850500018)
+- [Dev.to/JS] [Building an Extension System on the Web](https://dev.to/areknawo/building-an-extension-system-on-the-web-5a51)
+- [Dev.to/JS] [Balancing Complexity: A Tale of Array Includes vs. Negation](https://dev.to/pchinjr/balancing-complexity-a-tale-of-array-includes-vs-negation-2573)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Bed Rotting&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-b-1850500032)
+- [Lifehacker] [When to Skip Your Company’s 401&lpar;k&rpar;](https://lifehacker.com/when-to-skip-your-company-s-401-k-1850499838)
+- [Dev.to/JS] [Spotify API for creating &#39;Listening now&#39; card](https://dev.to/basskibo/spotify-api-for-creating-listening-now-card-12e1)
 - [Dev.to/JS] [Using fetch with TypeScript](https://dev.to/douglasdemoura/using-fetch-with-typescript-ho6)
 - [Dev.to/JS] [Authentication system using Golang and Sveltekit - Initialization and setup](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-initialization-and-setup-4oc9)
-- [Lifehacker] [The Weirdest things You Can Buy at Temu, the Internet’s New Favorite Jumble Sale](https://lifehacker.com/the-weirdest-things-you-can-buy-at-temu-the-internet-s-1850497999)
+- [Lifehacker] [The Weirdest Things You Can Buy at Temu, the Internet’s New Favorite Jumble Sale](https://lifehacker.com/the-weirdest-things-you-can-buy-at-temu-the-internet-s-1850497999)
 - [Dev.to/JS] [How to check grammar and spelling of your text content with JavaScript?](https://dev.to/edenai/how-to-check-grammar-and-spelling-of-your-text-content-with-javascript-33cm)
 - [Lifehacker] [All the Ways You Should Be Using Your College Counseling Center](https://lifehacker.com/all-the-ways-you-should-be-using-your-college-counselin-1850499484)
 - [Dev.to/JS] [💻ES6 tutorial: let in javascript](https://dev.to/rafikadir/es6-tutorial-let-in-javascript-5423)
@@ -39,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Navigation component in Material-React-table](https://dev.to/jars06/navigation-component-in-material-react-table-50jj)
 - [Dev.to/JS] [Smartphone Repair | Laptop Repair | Phones Repair in 30 Minutes](https://dev.to/rahulrathoreblog/smartphone-repair-laptop-repair-phones-repair-in-30-minutes-3275)
 - [Lifehacker] [The Three-Step Financial Checklist Every College Grad Needs](https://lifehacker.com/the-three-step-financial-checklist-every-college-grad-n-1850496495)
-- [Dev.to/JS] [Unlocking the Power of Generator Functions in JavaScript: A Versatile Tool for Iteration and Control Flow](https://dev.to/danities316/unlocking-the-power-of-generator-functions-in-javascript-a-versatile-tool-for-iteration-and-control-flow-529m)
 - [Lifehacker] [Create a Simple Wardrobe Catalog on Your iPhone](https://lifehacker.com/create-a-simple-wardrobe-catalog-on-your-iphone-1850495680)
-- [Dev.to/JS] [Episode: 23/21: Q&amp;A with the Angular Team, Angular Plus Show, Developer Survey Results](https://dev.to/this-is-angular/episode-2321-qa-with-the-angular-team-angular-plus-show-developer-survey-results-5blg)
-- [Dev.to/JS] [Episode 23/20: ng-India, Angular Air with Manfred Steyer](https://dev.to/this-is-angular/episode-2320-ng-india-angular-air-with-manfred-steyer-3284)
 - [Lifehacker] [Beware of These Scams the Next Time You Move](https://lifehacker.com/beware-of-these-scams-the-next-time-you-move-1850493049)
 - [Lifehacker] [Make This Retro Party Snack in Your Air Fryer](https://lifehacker.com/make-this-retro-party-snack-in-your-air-fryer-1850496989)
 - [Lifehacker] [All the New Android Features Google Just Announced](https://lifehacker.com/all-the-new-android-features-google-just-announced-1850495604)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Take a Rust Programming Course for Free](https://lifehacker.com/you-can-take-a-rust-programming-course-for-free-1850492759)
 - [Lifehacker] [This Android Malware Was Downloaded Over 420 Million Times](https://lifehacker.com/this-android-malware-was-downloaded-over-420-million-ti-1850492306)
 - [Lifehacker] [Why Home Prices Are Rising Again &lpar;and What That Means for You&rpar;](https://lifehacker.com/why-home-prices-are-rising-again-and-what-that-means-f-1850491757)
-- [Lifehacker] [You Can’t Make Your Alexa Talk Like Samuel L. Jackson Anymore](https://lifehacker.com/you-can-t-make-your-alexa-talk-like-samuel-l-jackson-a-1850492737)
-- [Lifehacker] [12 of the Best Queer Podcasts to Listen to During Pride](https://lifehacker.com/12-of-the-best-queer-podcasts-to-listen-to-during-pride-1850482812)
-- [Lifehacker] [This 50-Mile Range eBike Is Currently Over 50% Off](https://lifehacker.com/this-50-mile-range-ebike-is-currently-over-50-off-1850480323)
-- [Lifehacker] [This One Adjustment to Your KitchenAid Will Make It Run Better](https://lifehacker.com/this-one-adjustment-to-your-kitchenaid-will-make-it-run-1850489133)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can’t Make Your Alexa Talk Like Samuel L. Jackson Anymore](https://lifehacker.com/you-can-t-make-your-alexa-talk-like-samuel-l-jackson-a-1850492737)<!-- TECH-POSTS:END -->
 
 ---
 
