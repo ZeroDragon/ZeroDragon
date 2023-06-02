@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [100 Days Coding Challenge - Day 13: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-13-freecodecamp-javascript-algorithms-and-data-structures-409j)
+- [Dev.to/JS] [Abra-QR-dabra: Watch Passwordless Mobile Auth Magically Appear](https://dev.to/propelauth/abra-qr-dabra-watch-passwordless-mobile-auth-magically-appear-e9e)
 - [Dev.to/JS] [Turbocharge Your Coding: How Fast Typing Boosts a Developer Productivity](https://dev.to/devlawrence/turbocharge-your-coding-how-fast-typing-boosts-a-developer-productivity-2pbm)
 - [Dev.to/JS] [Making and distributing a UI component with Vue 3 and Vite](https://dev.to/matijanovosel/making-and-distributing-a-ui-component-with-vue-3-and-vite-12lk)
 - [Lifehacker] [Beware of These Scams the Next Time You Move](https://lifehacker.com/beware-of-these-scams-the-next-time-you-move-1850493049)
@@ -40,14 +42,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PaceTrace ⏳: A Lightweight Progress Bar CLI Library](https://dev.to/guaregua19/pacetrace-a-lightweight-progress-bar-cli-library-1a01)
 - [Dev.to/JS] [React.js Explained: Comparing and Converting Higher-Order Components to Hooks with Practical Examples](https://dev.to/sammychris/reactjs-explained-comparing-and-converting-higher-order-components-to-hooks-with-practical-examples-8hl)
 - [Dev.to/JS] [Why You Should Consider Changing useEffect to useCallback in Your React Applications](https://dev.to/tauantcamargo/why-you-should-consider-changing-useeffect-to-usecallback-in-your-react-applications-2g6k)
-- [Dev.to/JS] [20 Essential Parts Of Any Large Scale React App](https://dev.to/mohammadfaisal/20-essential-parts-of-any-large-scale-react-app-1pgf)
 - [Lifehacker] [The Difference Between Wet Brines, Dry Brines, and Marinades &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-wet-brines-dry-brines-and-mari-1850493212)
 - [Lifehacker] [When an Annuity Is a Good Idea for Retirement &lpar;and When It’s Not&rpar;](https://lifehacker.com/when-an-annuity-is-a-good-idea-for-retirement-and-when-1850491462)
 - [Lifehacker] [30 of the Best Queer Movies of the Last Century](https://lifehacker.com/30-of-the-best-queer-movies-of-the-last-century-1850471612)
 - [Lifehacker] [You Can Get Scrivener 3 for $30 Right Now](https://lifehacker.com/you-can-get-scrivener-3-for-30-right-now-1850480297)
 - [Lifehacker] [Save the Fatty Bits From Your Steak and Make &#39;Lazy Tallow&#39;](https://lifehacker.com/save-the-fatty-bits-from-your-steak-and-make-lazy-tallo-1850492717)
 - [Lifehacker] [What to Do With a Trap Bar in the Gym](https://lifehacker.com/what-to-do-with-a-trap-bar-in-the-gym-1850492679)
-- [Dev.to/JS] [PageSpeed Insights - My Experience](https://dev.to/proflead/pagespeed-insights-my-experience-4mo6)
 - [Lifehacker] [You Can Take a Rust Programming Course for Free](https://lifehacker.com/you-can-take-a-rust-programming-course-for-free-1850492759)
 - [Lifehacker] [This Android Malware Was Downloaded Over 420 Million Times](https://lifehacker.com/this-android-malware-was-downloaded-over-420-million-ti-1850492306)
 - [Lifehacker] [Why Home Prices Are Rising Again &lpar;and What That Means for You&rpar;](https://lifehacker.com/why-home-prices-are-rising-again-and-what-that-means-f-1850491757)
