@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don’t Miss These June Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-june-class-action-settlement-deadlines-1850501393)
 - [Lifehacker] [Here Are All the Astro Events to Watch in June](https://lifehacker.com/here-are-all-the-astro-events-to-watch-in-june-1850500214)
 - [Lifehacker] [Your Doctor’s and Lawyer’s ‘Rankings’ and ‘Awards’ Are Probably Fake](https://lifehacker.com/your-doctor-s-and-lawyer-s-rankings-and-awards-are-1850500367)
 - [Dev.to/JS] [📋 Javascript Quiz : 1️⃣](https://dev.to/merudra754/javascript-quiz-1-58pi)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Wet Brines, Dry Brines, and Marinades &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-wet-brines-dry-brines-and-mari-1850493212)
 - [Lifehacker] [When an Annuity Is a Good Idea for Retirement &lpar;and When It’s Not&rpar;](https://lifehacker.com/when-an-annuity-is-a-good-idea-for-retirement-and-when-1850491462)
 - [Lifehacker] [30 of the Best Queer Movies of the Past 100 Years](https://lifehacker.com/30-of-the-best-queer-movies-of-the-last-century-1850471612)
-- [Lifehacker] [You Can Get Scrivener 3 for $30 Right Now](https://lifehacker.com/you-can-get-scrivener-3-for-30-right-now-1850480297)
-- [Lifehacker] [Save the Fatty Bits From Your Steak and Make &#39;Lazy Tallow&#39;](https://lifehacker.com/save-the-fatty-bits-from-your-steak-and-make-lazy-tallo-1850492717)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Scrivener 3 for $30 Right Now](https://lifehacker.com/you-can-get-scrivener-3-for-30-right-now-1850480297)<!-- TECH-POSTS:END -->
 
 ---
 
