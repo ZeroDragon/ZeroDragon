@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Create a Simple Wardrobe Catalog on Your iPhone](https://lifehacker.com/create-a-simple-wardrobe-catalog-on-your-iphone-1850495680)
+- [Dev.to/JS] [Episode: 23/21: Q&amp;A with the Angular Team, Angular Plus Show, Developer Survey Results](https://dev.to/this-is-angular/episode-2321-qa-with-the-angular-team-angular-plus-show-developer-survey-results-5blg)
+- [Dev.to/JS] [Episode 23/20: ng-India, Angular Air with Manfred Steyer](https://dev.to/this-is-angular/episode-2320-ng-india-angular-air-with-manfred-steyer-3284)
+- [Dev.to/JS] [Episode 23/19: Angular Course, NgRx 16, Igor Minar on Angular&#39;s history](https://dev.to/this-is-angular/episode-2319-angular-course-ngrx-16-igor-minar-on-angulars-history-4hck)
+- [Dev.to/JS] [Svelte TimeTable Game](https://dev.to/vulcanwm/svelte-timetable-game-24fl)
 - [Dev.to/JS] [4 New ES2023 array methods 🔥](https://dev.to/oggy107/4-new-es2023-array-methods-1o99)
 - [Dev.to/JS] [Animations in React Native](https://dev.to/hewrsrood/animations-in-react-native-5ggi)
 - [Dev.to/JS] [Legacy pages/api works in App Router Next.js project](https://dev.to/ku6ryo/legacy-pagesapi-works-in-app-router-nextjs-project-1cmn)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why should I use React error boundaries? Never forget that!](https://dev.to/martygo/why-should-i-use-react-error-boundaries-never-forget-that-c30)
 - [Dev.to/JS] [Free News API to Search Blogs and Articles](https://dev.to/newsdataio/free-news-api-to-search-blogs-and-articles-4k61)
 - [Dev.to/JS] [Learn about the difference between var, let, and const keywords in JavaScript and when to use them.](https://dev.to/tino_muc/learn-about-the-difference-between-var-let-and-const-keywords-in-javascript-and-when-to-use-them-2638)
-- [Dev.to/JS] [Javascript Online Compiler Free](https://dev.to/mrexamples/javascript-online-compiler-free-4e9c)
-- [Dev.to/JS] [A Complete Beginner’s Guide for Creating a React JavaScript Chat Application from Scratch -- No Coding Experience Required](https://dev.to/anvilicious/a-complete-beginners-guide-for-creating-a-react-javascript-chat-application-from-scratch-no-coding-experience-required-1043)
-- [Dev.to/JS] [How do I connect my website to my mongoDB database? Using node.js](https://dev.to/shawn_king_43eedfac14d/how-do-i-connect-my-website-to-my-mongodb-database-using-nodejs-16i2)
-- [Dev.to/JS] [The many ways to select the n-th character from a string.](https://dev.to/codepo8/the-many-ways-to-select-the-n-th-character-from-a-string-5aen)
 - [Lifehacker] [Beware of These Scams the Next Time You Move](https://lifehacker.com/beware-of-these-scams-the-next-time-you-move-1850493049)
 - [Lifehacker] [Make This Retro Party Snack in Your Air Fryer](https://lifehacker.com/make-this-retro-party-snack-in-your-air-fryer-1850496989)
 - [Lifehacker] [All the New Android Features Google Just Announced](https://lifehacker.com/all-the-new-android-features-google-just-announced-1850495604)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Seven Rules for Taking Your Kid to a Concert](https://lifehacker.com/seven-rules-for-taking-your-kid-to-a-concert-1850484046)
 - [Lifehacker] [A Lifetime Subscription to Matt’s Flights Is 94% Off Right Now](https://lifehacker.com/a-lifetime-subscription-to-matt-s-flights-is-94-off-ri-1850480357)
 - [Lifehacker] [Burn Your White Chocolate on Purpose](https://lifehacker.com/burn-your-white-chocolate-on-purpose-1850491502)
-- [Lifehacker] [The Best Budget Streaming Box Might Be From Walmart](https://lifehacker.com/the-best-budget-streaming-box-might-be-from-walmart-1850488513)
-- [Lifehacker] [Now Is Your Chance to Own a Lighthouse](https://lifehacker.com/now-is-your-chance-to-own-a-lighthouse-1850488546)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Budget Streaming Box Might Be From Walmart](https://lifehacker.com/the-best-budget-streaming-box-might-be-from-walmart-1850488513)<!-- TECH-POSTS:END -->
 
 ---
 
