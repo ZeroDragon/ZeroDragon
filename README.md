@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [💻ES6 tutorial: let in javascript](https://dev.to/rafikadir/es6-tutorial-let-in-javascript-5423)
+- [Dev.to/JS] [Construindo Portais no React: Exemplos de Código e Utilização](https://dev.to/jhonyaraujooficial/construindo-portais-no-react-exemplos-de-codigo-e-utilizacao-f74)
+- [Dev.to/JS] [Web Accessibility: Designing for All Users](https://dev.to/syedsadiqali/web-accessibility-designing-for-all-users-428h)
+- [Lifehacker] [Five Ways to Remove a Rusty Screw](https://lifehacker.com/five-ways-to-remove-a-rusty-screw-1850498754)
+- [Dev.to/JS] [Server-Side Rendering &lpar;SSR&rpar; or Static Site Generation &lpar;SSG&rpar;?](https://dev.to/eelcoverbrugge/server-side-rendering-ssr-or-static-site-generation-ssg-3m0)
 - [Lifehacker] [Get a Refurbished iPad Air and Beats Headphones for $115](https://lifehacker.com/get-a-refurbished-ipad-air-and-beats-headphones-for-11-1850489794)
 - [Lifehacker] [The Easiest Way to Silence Your Inner Critic](https://lifehacker.com/the-easiest-way-to-silence-your-inner-critic-1850497775)
 - [Lifehacker] [Why You Should Stop Watering Your Plants in the Middle of the Day](https://lifehacker.com/why-you-should-stop-watering-your-plants-in-the-middle-1850497331)
@@ -36,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Episode 23/20: ng-India, Angular Air with Manfred Steyer](https://dev.to/this-is-angular/episode-2320-ng-india-angular-air-with-manfred-steyer-3284)
 - [Dev.to/JS] [Episode 23/19: Angular Course, NgRx 16, Igor Minar on Angular&#39;s history](https://dev.to/this-is-angular/episode-2319-angular-course-ngrx-16-igor-minar-on-angulars-history-4hck)
 - [Dev.to/JS] [Svelte TimeTable Game](https://dev.to/vulcanwm/svelte-timetable-game-24fl)
-- [Dev.to/JS] [4 New ES2023 array methods 🔥](https://dev.to/oggy107/4-new-es2023-array-methods-1o99)
-- [Dev.to/JS] [Animations in React Native](https://dev.to/hewrsrood/animations-in-react-native-5ggi)
-- [Dev.to/JS] [Legacy pages/api works in App Router Next.js project](https://dev.to/ku6ryo/legacy-pagesapi-works-in-app-router-nextjs-project-1cmn)
-- [Dev.to/JS] [Let&#39;s create a Color Picker from scratch with HTML5 Canvas, Javascript and CSS3](https://dev.to/salvietta150x40/lets-create-a-color-picker-from-scratch-with-html5-canvas-javascript-and-css3-299b)
 - [Lifehacker] [Beware of These Scams the Next Time You Move](https://lifehacker.com/beware-of-these-scams-the-next-time-you-move-1850493049)
 - [Lifehacker] [Make This Retro Party Snack in Your Air Fryer](https://lifehacker.com/make-this-retro-party-snack-in-your-air-fryer-1850496989)
 - [Lifehacker] [All the New Android Features Google Just Announced](https://lifehacker.com/all-the-new-android-features-google-just-announced-1850495604)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This 50-Mile Range eBike Is Currently Over 50% Off](https://lifehacker.com/this-50-mile-range-ebike-is-currently-over-50-off-1850480323)
 - [Lifehacker] [This One Adjustment to Your KitchenAid Will Make It Run Better](https://lifehacker.com/this-one-adjustment-to-your-kitchenaid-will-make-it-run-1850489133)
 - [Lifehacker] [Soy-Cured Egg Yolk Butter Is My New Favorite Spread](https://lifehacker.com/soy-cured-egg-yolk-butter-is-my-new-favorite-spread-1850492006)
-- [Lifehacker] [Schedule Your News Consumption to Feel Bad When It’s More Convenient](https://lifehacker.com/schedule-your-news-consumption-to-feel-bad-when-it-s-mo-1850491790)
-- [Lifehacker] [What to Do &lpar;and Not Do&rpar; When Your Sunburn Starts Peeling](https://lifehacker.com/what-to-do-and-not-do-when-your-sunburn-starts-peelin-1850490665)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Schedule Your News Consumption to Feel Bad When It’s More Convenient](https://lifehacker.com/schedule-your-news-consumption-to-feel-bad-when-it-s-mo-1850491790)<!-- TECH-POSTS:END -->
 
 ---
 
