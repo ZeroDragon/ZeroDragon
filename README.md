@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why should I use React error boundaries? Never forget that!](https://dev.to/martygo/why-should-i-use-react-error-boundaries-never-forget-that-c30)
+- [Dev.to/JS] [Free News API to Search Blogs and Articles](https://dev.to/newsdataio/free-news-api-to-search-blogs-and-articles-4k61)
+- [Dev.to/JS] [Learn about the difference between var, let, and const keywords in JavaScript and when to use them.](https://dev.to/tino_muc/learn-about-the-difference-between-var-let-and-const-keywords-in-javascript-and-when-to-use-them-2638)
 - [Dev.to/JS] [Javascript Online Compiler Free](https://dev.to/mrexamples/javascript-online-compiler-free-4e9c)
 - [Dev.to/JS] [A Complete Beginner’s Guide for Creating a React JavaScript Chat Application from Scratch -- No Coding Experience Required](https://dev.to/anvilicious/a-complete-beginners-guide-for-creating-a-react-javascript-chat-application-from-scratch-no-coding-experience-required-1043)
 - [Dev.to/JS] [How do I connect my website to my mongoDB database? Using node.js](https://dev.to/shawn_king_43eedfac14d/how-do-i-connect-my-website-to-my-mongodb-database-using-nodejs-16i2)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [GlucoBerry – Blood Sugar Results, Benefits, Price, Uses And Reviews?](https://dev.to/glucoberry62387/glucoberry-blood-sugar-results-benefits-price-uses-and-reviews-3ao9)
 - [Dev.to/JS] [Zustand State Management Library: React](https://dev.to/shubhamtiwari909/zustand-state-management-library-react-20p2)
 - [Dev.to/JS] [The Complete Guide to OOP In Javascript](https://dev.to/merudra754/the-complete-guide-to-oop-in-javascript-2lk0)
-- [Dev.to/JS] [How to flatten an array of arrays in JavaScript](https://dev.to/anurag_vishwakarma/how-to-flatten-an-array-of-arrays-in-javascript-1pg)
-- [Dev.to/JS] [What is this in Javascript](https://dev.to/ranggapr/what-is-this-in-javascript-40bd)
-- [Dev.to/JS] [Best ES6 version of JavaScript of generating random colors using time interval](https://dev.to/monkcodes/best-es6-version-of-javascript-of-generating-random-colors-using-time-interval-18gl)
 - [Lifehacker] [Beware of These Scams the Next Time You Move](https://lifehacker.com/beware-of-these-scams-the-next-time-you-move-1850493049)
 - [Lifehacker] [Make This Retro Party Snack in Your Air Fryer](https://lifehacker.com/make-this-retro-party-snack-in-your-air-fryer-1850496989)
 - [Lifehacker] [All the New Android Features Google Just Announced](https://lifehacker.com/all-the-new-android-features-google-just-announced-1850495604)
