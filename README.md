@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [4 New ES2023 array methods 🔥](https://dev.to/oggy107/4-new-es2023-array-methods-1o99)
+- [Dev.to/JS] [Animations in React Native](https://dev.to/hewrsrood/animations-in-react-native-5ggi)
+- [Dev.to/JS] [Legacy pages/api works in App Router Next.js project](https://dev.to/ku6ryo/legacy-pagesapi-works-in-app-router-nextjs-project-1cmn)
+- [Dev.to/JS] [Let&#39;s create a Color Picker from scratch with HTML5 Canvas, Javascript and CSS3](https://dev.to/salvietta150x40/lets-create-a-color-picker-from-scratch-with-html5-canvas-javascript-and-css3-299b)
+- [Dev.to/JS] [10 Funny Things About React 😄](https://dev.to/saiarlen/10-funny-things-about-react-m6l)
 - [Dev.to/JS] [Why should I use React error boundaries? Never forget that!](https://dev.to/martygo/why-should-i-use-react-error-boundaries-never-forget-that-c30)
 - [Dev.to/JS] [Free News API to Search Blogs and Articles](https://dev.to/newsdataio/free-news-api-to-search-blogs-and-articles-4k61)
 - [Dev.to/JS] [Learn about the difference between var, let, and const keywords in JavaScript and when to use them.](https://dev.to/tino_muc/learn-about-the-difference-between-var-let-and-const-keywords-in-javascript-and-when-to-use-them-2638)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Complete Beginner’s Guide for Creating a React JavaScript Chat Application from Scratch -- No Coding Experience Required](https://dev.to/anvilicious/a-complete-beginners-guide-for-creating-a-react-javascript-chat-application-from-scratch-no-coding-experience-required-1043)
 - [Dev.to/JS] [How do I connect my website to my mongoDB database? Using node.js](https://dev.to/shawn_king_43eedfac14d/how-do-i-connect-my-website-to-my-mongodb-database-using-nodejs-16i2)
 - [Dev.to/JS] [The many ways to select the n-th character from a string.](https://dev.to/codepo8/the-many-ways-to-select-the-n-th-character-from-a-string-5aen)
-- [Dev.to/JS] [JavaScript Security Best Practices: Protecting Your Applications from Common Vulnerabilities &lpar;Plus Code Snippets&rpar;](https://dev.to/anvilicious/javascript-security-best-practices-protecting-your-applications-from-common-vulnerabilities-plus-code-snippets-56al)
-- [Dev.to/JS] [Next JS Routing Patterns](https://dev.to/shubhamtiwari909/next-js-routing-patterns-4a1e)
-- [Dev.to/JS] [GlucoBerry – Blood Sugar Results, Benefits, Price, Uses And Reviews?](https://dev.to/glucoberry62387/glucoberry-blood-sugar-results-benefits-price-uses-and-reviews-3ao9)
-- [Dev.to/JS] [Zustand State Management Library: React](https://dev.to/shubhamtiwari909/zustand-state-management-library-react-20p2)
-- [Dev.to/JS] [The Complete Guide to OOP In Javascript](https://dev.to/merudra754/the-complete-guide-to-oop-in-javascript-2lk0)
 - [Lifehacker] [Beware of These Scams the Next Time You Move](https://lifehacker.com/beware-of-these-scams-the-next-time-you-move-1850493049)
 - [Lifehacker] [Make This Retro Party Snack in Your Air Fryer](https://lifehacker.com/make-this-retro-party-snack-in-your-air-fryer-1850496989)
 - [Lifehacker] [All the New Android Features Google Just Announced](https://lifehacker.com/all-the-new-android-features-google-just-announced-1850495604)
