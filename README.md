@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Crazy Programmer] [Heroku vs DigitalOcean – Which is Better for Your Cloud Hosting Needs](https://www.thecrazyprogrammer.com/2023/06/heroku-vs-digitalocean.html)
+- [Dev.to/JS] [Crack the Code: 33 Expert Tips to Take Your Development Skills to the Next Level](https://dev.to/andytechdev/crack-the-code-33-expert-tips-to-take-your-development-skills-to-the-next-level-3f2l)
 - [Dev.to/JS] [Understanding Event Bubbling in JavaScript and Its Working](https://dev.to/ateevduggal/understanding-event-bubbling-in-javascript-and-its-working-3c56)
 - [Dev.to/JS] [Introducing &#39;Jira Simplify&#39;: A New Approach to Handling Complex Jira Tickets](https://dev.to/tonymcnulty/introducing-jira-simplify-a-new-approach-to-handling-complex-jira-tickets-1baj)
 - [Dev.to/JS] [Next.js 13: complete guide to Server Components and the App Directory](https://dev.to/gc_psk/nextjs-13-complete-guide-to-server-components-and-the-app-directory-11jn)
@@ -36,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [When to know 🤔 that I am capable to start learning React](https://dev.to/vidhanvyrs/when-to-know-that-i-am-capable-to-start-learning-react-1oi6)
 - [Dev.to/JS] [Sharing Data between Blazor and JavaScript &lpar; JS interop &rpar;](https://dev.to/aminenafkha1/sharing-data-between-blazor-and-javascript-js-interop--42ef)
 - [Dev.to/JS] [How to Access User Location In React](https://dev.to/abidullah786/how-to-access-user-location-in-react-3odj)
-- [Dev.to/JS] [Exploring Procedural, Object-Oriented, and Functional Programming with JavaScript](https://dev.to/sammychris/exploring-procedural-object-oriented-and-functional-programming-with-javascript-ah2)
 - [Lifehacker] [The Best Ways to Avoid Traffic on a Trip](https://lifehacker.com/the-best-ways-to-avoid-traffic-on-a-trip-1850501765)
 - [Lifehacker] [Why You Should Stop Feeling Guilty About Your Kid&#39;s Screen Time](https://lifehacker.com/why-you-should-stop-feeling-guilty-about-your-kids-scre-1850500959)
 - [Lifehacker] [Don’t Miss These June Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-june-class-action-settlement-deadlines-1850501393)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the New Android Features Google Just Announced](https://lifehacker.com/all-the-new-android-features-google-just-announced-1850495604)
 - [Lifehacker] [These Drinks Are Sneaky Sources of Caffeine](https://lifehacker.com/these-drinks-are-sneaky-sources-of-caffeine-1850495926)
 - [Lifehacker] [What the UV Index Actually Means](https://lifehacker.com/what-the-uv-index-actually-means-1850496699)
-- [Lifehacker] [How to Revive a Rusty Pair of Gardening Shears](https://lifehacker.com/how-to-revive-a-rusty-pair-of-gardening-shears-1850495367)
-- [Lifehacker] [You Can Get the ChatGPT WordPress Plugin for 80% Off Right Now](https://lifehacker.com/you-can-get-the-chatgpt-wordpress-plugin-for-80-off-ri-1850480277)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Revive a Rusty Pair of Gardening Shears](https://lifehacker.com/how-to-revive-a-rusty-pair-of-gardening-shears-1850495367)<!-- TECH-POSTS:END -->
 
 ---
 
