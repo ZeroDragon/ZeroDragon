@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Trileaf CBD Gummies - Pain Relief Benefits, Pros, Cons, Price, Legit Or Scam?](https://dev.to/trileafcbd18865/trileaf-cbd-gummies-pain-relief-benefits-pros-cons-price-legit-or-scam-4mb6)
+- [Dev.to/JS] [New JavaScript Array Methods: A Guide for Developers](https://dev.to/nvish007/new-javascript-array-methods-a-guide-for-developers-3hfm)
+- [Dev.to/JS] [MANAGING A TEAM WITH NODE.JS &lpar;PART 2&rpar;](https://dev.to/candie_code/managing-a-team-with-nodejs-part-2-5497)
 - [Dev.to/JS] [5 Ways To Optimize Your React App Performance 2023](https://dev.to/chideracode/5-ways-to-optimize-your-react-app-performance-2023-mp3)
 - [Dev.to/JS] [Javascript Async and Sync](https://dev.to/arshad483/javascript-async-and-sync-3ja)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;03-06-2023&rpar; - Quite A Lot Of History](https://dev.to/mjgs/this-weeks-newsletter-is-out-03-06-2023-quite-a-lot-of-history-30fe)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TRC20 transfer.How to get the transfered amout from transaction hash ?](https://dev.to/vikasko/trc20-transferhow-to-get-the-transfered-amout-from-transaction-hash--53mg)
 - [Dev.to/JS] [Setting countdown timer in JS -oneliners](https://dev.to/monkcodes/setting-countdown-timer-in-js-oneliners-55pk)
 - [Dev.to/JS] [So The Journey Begins - My Startup Story](https://dev.to/zt4ff_1/so-the-journey-begins-my-startup-story-4ga7)
-- [Dev.to/JS] [Building an Account switcher with NextJS and Next Auth](https://dev.to/oreoluwabs/building-an-account-switcher-with-nextjs-and-next-auth-5cnf)
-- [Dev.to/JS] [Organização de pastas no React: Simplificando o caos com uma nova estrutura 🚀](https://dev.to/ocodista/nova-estrutura-de-pastas-para-react-2nb)
-- [Dev.to/JS] [How to send upsell emails with MedusaJS and Postmark](https://dev.to/fullstak/how-to-send-upsell-emails-with-medusajs-and-postmark-37jc)
 - [Lifehacker] [Why You Should Stop Feeling Guilty About Your Kid&#39;s Screen Time](https://lifehacker.com/why-you-should-stop-feeling-guilty-about-your-kids-scre-1850500959)
 - [Lifehacker] [Don’t Miss These June Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-june-class-action-settlement-deadlines-1850501393)
 - [Lifehacker] [Here Are All the Astro Events to Watch in June](https://lifehacker.com/here-are-all-the-astro-events-to-watch-in-june-1850500214)
