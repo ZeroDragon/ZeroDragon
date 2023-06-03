@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Event Bubbling in JavaScript and Its Working](https://dev.to/ateevduggal/understanding-event-bubbling-in-javascript-and-its-working-3c56)
+- [Dev.to/JS] [Introducing &#39;Jira Simplify&#39;: A New Approach to Handling Complex Jira Tickets](https://dev.to/tonymcnulty/introducing-jira-simplify-a-new-approach-to-handling-complex-jira-tickets-1baj)
+- [Dev.to/JS] [Next.js 13: complete guide to Server Components and the App Directory](https://dev.to/gc_psk/nextjs-13-complete-guide-to-server-components-and-the-app-directory-11jn)
 - [Dev.to/JS] [Are you even full stack ready?](https://dev.to/treasuredev_/are-you-even-full-stack-ready-21np)
 - [Dev.to/JS] [Form Validation with JavaScript](https://dev.to/tracy4code/form-validation-with-javascript-21l6)
 - [Dev.to/JS] [tsParticles 2.10.0 Released](https://dev.to/tsparticles/tsparticles-2100-released-4e96)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sharing Data between Blazor and JavaScript &lpar; JS interop &rpar;](https://dev.to/aminenafkha1/sharing-data-between-blazor-and-javascript-js-interop--42ef)
 - [Dev.to/JS] [How to Access User Location In React](https://dev.to/abidullah786/how-to-access-user-location-in-react-3odj)
 - [Dev.to/JS] [Exploring Procedural, Object-Oriented, and Functional Programming with JavaScript](https://dev.to/sammychris/exploring-procedural-object-oriented-and-functional-programming-with-javascript-ah2)
-- [Dev.to/JS] [Desacoplando frontend com module-federation Angular - Parte 2](https://dev.to/2020nani/desacoplando-frontend-com-module-federation-angular-parte-2-4le1)
-- [Dev.to/JS] [Desacoplando frontend com module-federation Angular - Parte 1](https://dev.to/2020nani/desacoplando-frontend-com-module-federation-angular-parte-1-5enm)
-- [Dev.to/JS] [Mastering Pure Functions in JavaScript: A Guide to Cleaner and More Efficient Code](https://dev.to/sammychris/mastering-pure-functions-in-javascript-a-guide-to-cleaner-and-more-efficient-code-52f0)
 - [Lifehacker] [The Best Ways to Avoid Traffic on a Trip](https://lifehacker.com/the-best-ways-to-avoid-traffic-on-a-trip-1850501765)
 - [Lifehacker] [Why You Should Stop Feeling Guilty About Your Kid&#39;s Screen Time](https://lifehacker.com/why-you-should-stop-feeling-guilty-about-your-kids-scre-1850500959)
 - [Lifehacker] [Don’t Miss These June Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-june-class-action-settlement-deadlines-1850501393)
