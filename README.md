@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TRC20 transfer.How to get the transfered amout from transaction hash ?](https://dev.to/vikasko/trc20-transferhow-to-get-the-transfered-amout-from-transaction-hash--53mg)
+- [Dev.to/JS] [Setting countdown timer in JS -oneliners](https://dev.to/monkcodes/setting-countdown-timer-in-js-oneliners-55pk)
+- [Dev.to/JS] [So The Journey Begins - My Startup Story](https://dev.to/zt4ff_1/so-the-journey-begins-my-startup-story-4ga7)
+- [Dev.to/JS] [Building an Account switcher with NextJS and Next Auth](https://dev.to/oreoluwabs/building-an-account-switcher-with-nextjs-and-next-auth-5cnf)
 - [Dev.to/JS] [Organização de pastas no React: Simplificando o caos com uma nova estrutura 🚀](https://dev.to/ocodista/nova-estrutura-de-pastas-para-react-2nb)
 - [Dev.to/JS] [How to send upsell emails with MedusaJS and Postmark](https://dev.to/fullstak/how-to-send-upsell-emails-with-medusajs-and-postmark-37jc)
 - [Dev.to/JS] [Why using Components in React now will save you headaches in the future.](https://dev.to/jmckeag/why-using-components-in-react-now-will-save-you-headaches-in-the-future-2b2b)
@@ -35,12 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Miss These June Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-june-class-action-settlement-deadlines-1850501393)
 - [Lifehacker] [Here Are All the Astro Events to Watch in June](https://lifehacker.com/here-are-all-the-astro-events-to-watch-in-june-1850500214)
 - [Lifehacker] [Your Doctor’s and Lawyer’s ‘Rankings’ and ‘Awards’ Are Probably Fake](https://lifehacker.com/your-doctor-s-and-lawyer-s-rankings-and-awards-are-1850500367)
-- [Dev.to/JS] [📋 Javascript Quiz : 1️⃣](https://dev.to/merudra754/javascript-quiz-1-58pi)
 - [Lifehacker] [&#39;Lung Detoxes&#39; Are the TikTok Myth of the Week](https://lifehacker.com/lung-detoxes-are-the-tiktok-myth-of-the-week-1850500657)
-- [Dev.to/JS] [Digital Ocean TURN server: 3 Easy Steps](https://dev.to/alakkadshaw/digital-ocean-turn-server-3-easy-steps-pkn)
-- [Dev.to/JS] [Normal Copy vs Shallow Copy vs Deep Copy](https://dev.to/mrizwanashiq/normal-copy-vs-shallow-copy-vs-deep-copy-37pj)
 - [Lifehacker] [You Can Get a Refurbished Lenovo ThinkPad and Microsoft Office for $200](https://lifehacker.com/you-can-get-a-refurbished-lenovo-thinkpad-and-microsoft-1850480431)
-- [Dev.to/JS] [The JavaScript Roadmap for 2023: Navigating the Exciting Future](https://dev.to/dev_vikas/the-javascript-roadmap-for-2023-navigating-the-exciting-future-1gmh)
 - [Lifehacker] [This DIY Rolling Umbrella Stand Doubles As a Planter](https://lifehacker.com/this-diy-rolling-umbrella-stand-doubles-as-a-planter-1850498827)
 - [Lifehacker] [PlayStation Plus Is Having a Great Sale](https://lifehacker.com/playstation-plus-is-having-a-great-sale-1850500018)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Bed Rotting&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-b-1850500032)
