@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring the Powerful JavaScript Array Methods: A Comprehensive Guide](https://dev.to/mattryanmtl/exploring-the-powerful-javascript-array-methods-a-comprehensive-guide-3md)
+- [Dev.to/JS] [21 Mind-Blowing Web Features You Probably Haven&#39;t Heard Of](https://dev.to/johnrushx/21-mind-blowing-web-features-you-probably-havent-heard-of-2b77)
+- [Dev.to/JS] [React &amp; Angular Security Series #1](https://dev.to/ajebodev/react-angular-security-series-1-3mm2)
 - [Crazy Programmer] [Heroku vs DigitalOcean – Which is Better for Your Cloud Hosting Needs](https://www.thecrazyprogrammer.com/2023/06/heroku-vs-digitalocean.html)
 - [Dev.to/JS] [Crack the Code: 33 Expert Tips to Take Your Development Skills to the Next Level](https://dev.to/andytechdev/crack-the-code-33-expert-tips-to-take-your-development-skills-to-the-next-level-3f2l)
 - [Dev.to/JS] [Understanding Event Bubbling in JavaScript and Its Working](https://dev.to/ateevduggal/understanding-event-bubbling-in-javascript-and-its-working-3c56)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Luggage Is Probably Filthy](https://lifehacker.com/your-luggage-is-probably-filthy-1850501679)
 - [Dev.to/JS] [10 Cool CodePen Demos &lpar;May 23&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-may-23-2n79)
 - [Lifehacker] [These Are the Signs You&#39;re Overstepping at Work](https://lifehacker.com/these-are-the-signs-youre-overstepping-at-work-1850501701)
-- [Dev.to/JS] [When to know 🤔 that I am capable to start learning React](https://dev.to/vidhanvyrs/when-to-know-that-i-am-capable-to-start-learning-react-1oi6)
-- [Dev.to/JS] [Sharing Data between Blazor and JavaScript &lpar; JS interop &rpar;](https://dev.to/aminenafkha1/sharing-data-between-blazor-and-javascript-js-interop--42ef)
-- [Dev.to/JS] [How to Access User Location In React](https://dev.to/abidullah786/how-to-access-user-location-in-react-3odj)
 - [Lifehacker] [The Best Ways to Avoid Traffic on a Trip](https://lifehacker.com/the-best-ways-to-avoid-traffic-on-a-trip-1850501765)
 - [Lifehacker] [Why You Should Stop Feeling Guilty About Your Kid&#39;s Screen Time](https://lifehacker.com/why-you-should-stop-feeling-guilty-about-your-kids-scre-1850500959)
 - [Lifehacker] [Don’t Miss These June Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-june-class-action-settlement-deadlines-1850501393)
