@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Ways to Avoid Traffic on a Trip](https://lifehacker.com/the-best-ways-to-avoid-traffic-on-a-trip-1850501765)
+- [Dev.to/JS] [Mastering React Testing: A Comprehensive Guide to Jest, Enzyme, and React Testing Library](https://dev.to/sammychris/mastering-react-testing-a-comprehensive-guide-to-jest-enzyme-and-react-testing-library-1a0n)
 - [Dev.to/JS] [Always Return an Object - Why?](https://dev.to/codarbind/always-return-an-object-why-3f8i)
 - [Dev.to/JS] [Deep-dive into Reactivity - Part 1](https://dev.to/tinypixel_/deep-dive-into-reactivity-part-1-372g)
 - [Dev.to/JS] [Data Structures in Javascript](https://dev.to/mornach/data-structures-in-javascript-4l6g)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Async and Sync](https://dev.to/arshad483/javascript-async-and-sync-3ja)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;03-06-2023&rpar; - Quite A Lot Of History](https://dev.to/mjgs/this-weeks-newsletter-is-out-03-06-2023-quite-a-lot-of-history-30fe)
 - [Dev.to/JS] [React.js Expertise: Advanced Techniques &amp; Tools](https://dev.to/dotarjun/reactjs-expertise-advanced-techniques-tools-14jf)
-- [Dev.to/JS] [Beyond Traditional Functions: Embracing Arrow Functions in JavaScript](https://dev.to/ruben_alapont/beyond-traditional-functions-embracing-arrow-functions-in-javascript-16lh)
 - [Lifehacker] [Why You Should Stop Feeling Guilty About Your Kid&#39;s Screen Time](https://lifehacker.com/why-you-should-stop-feeling-guilty-about-your-kids-scre-1850500959)
 - [Lifehacker] [Don’t Miss These June Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-june-class-action-settlement-deadlines-1850501393)
 - [Lifehacker] [Here Are All the Astro Events to Watch in June](https://lifehacker.com/here-are-all-the-astro-events-to-watch-in-june-1850500214)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Revive a Rusty Pair of Gardening Shears](https://lifehacker.com/how-to-revive-a-rusty-pair-of-gardening-shears-1850495367)
 - [Lifehacker] [You Can Get the ChatGPT WordPress Plugin for 80% Off Right Now](https://lifehacker.com/you-can-get-the-chatgpt-wordpress-plugin-for-80-off-ri-1850480277)
 - [Lifehacker] [The Difference Between Wet Brines, Dry Brines, and Marinades &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-wet-brines-dry-brines-and-mari-1850493212)
-- [Lifehacker] [When an Annuity Is a Good Idea for Retirement &lpar;and When It’s Not&rpar;](https://lifehacker.com/when-an-annuity-is-a-good-idea-for-retirement-and-when-1850491462)
-- [Lifehacker] [30 of the Best Queer Movies of the Past 100 Years](https://lifehacker.com/30-of-the-best-queer-movies-of-the-last-century-1850471612)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When an Annuity Is a Good Idea for Retirement &lpar;and When It’s Not&rpar;](https://lifehacker.com/when-an-annuity-is-a-good-idea-for-retirement-and-when-1850491462)<!-- TECH-POSTS:END -->
 
 ---
 
