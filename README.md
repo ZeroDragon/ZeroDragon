@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to send upsell emails with MedusaJS and Postmark](https://dev.to/fullstak/how-to-send-upsell-emails-with-medusajs-and-postmark-37jc)
 - [Dev.to/JS] [Why using Components in React now will save you headaches in the future.](https://dev.to/jmckeag/why-using-components-in-react-now-will-save-you-headaches-in-the-future-2b2b)
 - [Dev.to/JS] [Create Your Own Programming Language II: Primitives](https://dev.to/jasonsbarr/create-your-own-programming-language-ii-primitives-2pj5)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 14: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-14-freecodecamp-javascript-algorithms-and-data-structures-2mnh)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This DIY Rolling Umbrella Stand Doubles As a Planter](https://lifehacker.com/this-diy-rolling-umbrella-stand-doubles-as-a-planter-1850498827)
 - [Lifehacker] [PlayStation Plus Is Having a Great Sale](https://lifehacker.com/playstation-plus-is-having-a-great-sale-1850500018)
 - [Dev.to/JS] [Building an Extension System on the Web](https://dev.to/areknawo/building-an-extension-system-on-the-web-5a51)
-- [Dev.to/JS] [Balancing Complexity: A Tale of Array Includes vs. Negation](https://dev.to/pchinjr/balancing-complexity-a-tale-of-array-includes-vs-negation-2573)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Bed Rotting&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-b-1850500032)
 - [Lifehacker] [When to Skip Your Company’s 401&lpar;k&rpar;](https://lifehacker.com/when-to-skip-your-company-s-401-k-1850499838)
 - [Lifehacker] [The Weirdest Things You Can Buy at Temu, the Internet’s New Favorite Jumble Sale](https://lifehacker.com/the-weirdest-things-you-can-buy-at-temu-the-internet-s-1850497999)
