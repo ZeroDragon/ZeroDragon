@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Cool CodePen Demos &lpar;May 23&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-may-23-2n79)
+- [Lifehacker] [These Are the Signs You&#39;re Overstepping at Work](https://lifehacker.com/these-are-the-signs-youre-overstepping-at-work-1850501701)
 - [Dev.to/JS] [When to know 🤔 that I am capable to start learning React](https://dev.to/vidhanvyrs/when-to-know-that-i-am-capable-to-start-learning-react-1oi6)
 - [Dev.to/JS] [Sharing Data between Blazor and JavaScript &lpar; JS interop &rpar;](https://dev.to/aminenafkha1/sharing-data-between-blazor-and-javascript-js-interop--42ef)
 - [Dev.to/JS] [How to Access User Location In React](https://dev.to/abidullah786/how-to-access-user-location-in-react-3odj)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering React Patterns: Presentational and Container Components](https://dev.to/sammychris/mastering-react-patterns-presentational-and-container-components-5bgi)
 - [Lifehacker] [The Best Ways to Avoid Traffic on a Trip](https://lifehacker.com/the-best-ways-to-avoid-traffic-on-a-trip-1850501765)
 - [Dev.to/JS] [Mastering React Testing: A Comprehensive Guide to Jest, Enzyme, and React Testing Library](https://dev.to/sammychris/mastering-react-testing-a-comprehensive-guide-to-jest-enzyme-and-react-testing-library-1a0n)
-- [Dev.to/JS] [Always Return an Object - Why?](https://dev.to/codarbind/always-return-an-object-why-3f8i)
 - [Lifehacker] [Why You Should Stop Feeling Guilty About Your Kid&#39;s Screen Time](https://lifehacker.com/why-you-should-stop-feeling-guilty-about-your-kids-scre-1850500959)
 - [Lifehacker] [Don’t Miss These June Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-june-class-action-settlement-deadlines-1850501393)
 - [Lifehacker] [Here Are All the Astro Events to Watch in June](https://lifehacker.com/here-are-all-the-astro-events-to-watch-in-june-1850500214)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What the UV Index Actually Means](https://lifehacker.com/what-the-uv-index-actually-means-1850496699)
 - [Lifehacker] [How to Revive a Rusty Pair of Gardening Shears](https://lifehacker.com/how-to-revive-a-rusty-pair-of-gardening-shears-1850495367)
 - [Lifehacker] [You Can Get the ChatGPT WordPress Plugin for 80% Off Right Now](https://lifehacker.com/you-can-get-the-chatgpt-wordpress-plugin-for-80-off-ri-1850480277)
-- [Lifehacker] [The Difference Between Wet Brines, Dry Brines, and Marinades &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-wet-brines-dry-brines-and-mari-1850493212)
-- [Lifehacker] [When an Annuity Is a Good Idea for Retirement &lpar;and When It’s Not&rpar;](https://lifehacker.com/when-an-annuity-is-a-good-idea-for-retirement-and-when-1850491462)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Difference Between Wet Brines, Dry Brines, and Marinades &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-wet-brines-dry-brines-and-mari-1850493212)<!-- TECH-POSTS:END -->
 
 ---
 
