@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Always Return an Object - Why?](https://dev.to/codarbind/always-return-an-object-why-3f8i)
+- [Dev.to/JS] [Deep-dive into Reactivity - Part 1](https://dev.to/tinypixel_/deep-dive-into-reactivity-part-1-372g)
+- [Dev.to/JS] [Data Structures in Javascript](https://dev.to/mornach/data-structures-in-javascript-4l6g)
+- [Dev.to/JS] [BootCamp Update!](https://dev.to/sluvish1/phase2-46ca)
 - [Dev.to/JS] [Trileaf CBD Gummies - Pain Relief Benefits, Pros, Cons, Price, Legit Or Scam?](https://dev.to/trileafcbd18865/trileaf-cbd-gummies-pain-relief-benefits-pros-cons-price-legit-or-scam-4mb6)
 - [Dev.to/JS] [New JavaScript Array Methods: A Guide for Developers](https://dev.to/nvish007/new-javascript-array-methods-a-guide-for-developers-3hfm)
 - [Dev.to/JS] [MANAGING A TEAM WITH NODE.JS &lpar;PART 2&rpar;](https://dev.to/candie_code/managing-a-team-with-nodejs-part-2-5497)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;03-06-2023&rpar; - Quite A Lot Of History](https://dev.to/mjgs/this-weeks-newsletter-is-out-03-06-2023-quite-a-lot-of-history-30fe)
 - [Dev.to/JS] [React.js Expertise: Advanced Techniques &amp; Tools](https://dev.to/dotarjun/reactjs-expertise-advanced-techniques-tools-14jf)
 - [Dev.to/JS] [Beyond Traditional Functions: Embracing Arrow Functions in JavaScript](https://dev.to/ruben_alapont/beyond-traditional-functions-embracing-arrow-functions-in-javascript-16lh)
-- [Dev.to/JS] [What is cross-origin? Why do we write cross-origin in our code?](https://dev.to/zeeshansafdar48/what-is-cross-origin-why-do-we-write-cross-origin-in-our-code-45fk)
-- [Dev.to/JS] [TRC20 transfer.How to get the transfered amout from transaction hash ?](https://dev.to/vikasko/trc20-transferhow-to-get-the-transfered-amout-from-transaction-hash--53mg)
-- [Dev.to/JS] [Setting countdown timer in JS -oneliners](https://dev.to/monkcodes/setting-countdown-timer-in-js-oneliners-55pk)
-- [Dev.to/JS] [So The Journey Begins - My Startup Story](https://dev.to/zt4ff_1/so-the-journey-begins-my-startup-story-4ga7)
 - [Lifehacker] [Why You Should Stop Feeling Guilty About Your Kid&#39;s Screen Time](https://lifehacker.com/why-you-should-stop-feeling-guilty-about-your-kids-scre-1850500959)
 - [Lifehacker] [Don’t Miss These June Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-june-class-action-settlement-deadlines-1850501393)
 - [Lifehacker] [Here Are All the Astro Events to Watch in June](https://lifehacker.com/here-are-all-the-astro-events-to-watch-in-june-1850500214)
