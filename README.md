@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Async and Sync](https://dev.to/arshad483/javascript-async-and-sync-3ja)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;03-06-2023&rpar; - Quite A Lot Of History](https://dev.to/mjgs/this-weeks-newsletter-is-out-03-06-2023-quite-a-lot-of-history-30fe)
 - [Dev.to/JS] [React.js Expertise: Advanced Techniques &amp; Tools](https://dev.to/dotarjun/reactjs-expertise-advanced-techniques-tools-14jf)
 - [Dev.to/JS] [Beyond Traditional Functions: Embracing Arrow Functions in JavaScript](https://dev.to/ruben_alapont/beyond-traditional-functions-embracing-arrow-functions-in-javascript-16lh)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Organização de pastas no React: Simplificando o caos com uma nova estrutura 🚀](https://dev.to/ocodista/nova-estrutura-de-pastas-para-react-2nb)
 - [Dev.to/JS] [How to send upsell emails with MedusaJS and Postmark](https://dev.to/fullstak/how-to-send-upsell-emails-with-medusajs-and-postmark-37jc)
 - [Dev.to/JS] [Why using Components in React now will save you headaches in the future.](https://dev.to/jmckeag/why-using-components-in-react-now-will-save-you-headaches-in-the-future-2b2b)
-- [Dev.to/JS] [Create Your Own Programming Language II: Primitives](https://dev.to/jasonsbarr/create-your-own-programming-language-ii-primitives-2pj5)
 - [Lifehacker] [Why You Should Stop Feeling Guilty About Your Kid&#39;s Screen Time](https://lifehacker.com/why-you-should-stop-feeling-guilty-about-your-kids-scre-1850500959)
 - [Lifehacker] [Don’t Miss These June Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-june-class-action-settlement-deadlines-1850501393)
 - [Lifehacker] [Here Are All the Astro Events to Watch in June](https://lifehacker.com/here-are-all-the-astro-events-to-watch-in-june-1850500214)
