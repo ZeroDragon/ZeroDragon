@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why using Components in React now will save you headaches in the future.](https://dev.to/jmckeag/why-using-components-in-react-now-will-save-you-headaches-in-the-future-2b2b)
+- [Dev.to/JS] [Create Your Own Programming Language II: Primitives](https://dev.to/jasonsbarr/create-your-own-programming-language-ii-primitives-2pj5)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 14: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-14-freecodecamp-javascript-algorithms-and-data-structures-2mnh)
 - [Dev.to/JS] [React Hooks Made Easy: A Step-by-Step Tutorial &lpar;Part 2&rpar;](https://dev.to/abosaiftaha/react-hooks-made-easy-a-step-by-step-tutorial-part-2-20ja)
 - [Lifehacker] [Why You Should Stop Feeling Guilty About Your Kid&#39;s Screen Time](https://lifehacker.com/why-you-should-stop-feeling-guilty-about-your-kids-scre-1850500959)
@@ -43,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Balancing Complexity: A Tale of Array Includes vs. Negation](https://dev.to/pchinjr/balancing-complexity-a-tale-of-array-includes-vs-negation-2573)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Bed Rotting&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-b-1850500032)
 - [Lifehacker] [When to Skip Your Company’s 401&lpar;k&rpar;](https://lifehacker.com/when-to-skip-your-company-s-401-k-1850499838)
-- [Dev.to/JS] [Spotify API for creating &#39;Listening now&#39; card](https://dev.to/basskibo/spotify-api-for-creating-listening-now-card-12e1)
-- [Dev.to/JS] [Using fetch with TypeScript](https://dev.to/douglasdemoura/using-fetch-with-typescript-ho6)
 - [Lifehacker] [The Weirdest Things You Can Buy at Temu, the Internet’s New Favorite Jumble Sale](https://lifehacker.com/the-weirdest-things-you-can-buy-at-temu-the-internet-s-1850497999)
 - [Lifehacker] [All the Ways You Should Be Using Your College Counseling Center](https://lifehacker.com/all-the-ways-you-should-be-using-your-college-counselin-1850499484)
 - [Lifehacker] [Five Ways to Remove a Rusty Screw](https://lifehacker.com/five-ways-to-remove-a-rusty-screw-1850498754)
