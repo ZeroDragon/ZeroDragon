@@ -24,6 +24,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [When to know 🤔 that I am capable to start learning React](https://dev.to/vidhanvyrs/when-to-know-that-i-am-capable-to-start-learning-react-1oi6)
+- [Dev.to/JS] [Sharing Data between Blazor and JavaScript &lpar; JS interop &rpar;](https://dev.to/aminenafkha1/sharing-data-between-blazor-and-javascript-js-interop--42ef)
 - [Dev.to/JS] [How to Access User Location In React](https://dev.to/abidullah786/how-to-access-user-location-in-react-3odj)
 - [Dev.to/JS] [Exploring Procedural, Object-Oriented, and Functional Programming with JavaScript](https://dev.to/sammychris/exploring-procedural-object-oriented-and-functional-programming-with-javascript-ah2)
 - [Dev.to/JS] [Desacoplando frontend com module-federation Angular - Parte 2](https://dev.to/2020nani/desacoplando-frontend-com-module-federation-angular-parte-2-4le1)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Avoid Traffic on a Trip](https://lifehacker.com/the-best-ways-to-avoid-traffic-on-a-trip-1850501765)
 - [Dev.to/JS] [Mastering React Testing: A Comprehensive Guide to Jest, Enzyme, and React Testing Library](https://dev.to/sammychris/mastering-react-testing-a-comprehensive-guide-to-jest-enzyme-and-react-testing-library-1a0n)
 - [Dev.to/JS] [Always Return an Object - Why?](https://dev.to/codarbind/always-return-an-object-why-3f8i)
-- [Dev.to/JS] [Deep-dive into Reactivity - Part 1](https://dev.to/tinypixel_/deep-dive-into-reactivity-part-1-372g)
 - [Lifehacker] [Why You Should Stop Feeling Guilty About Your Kid&#39;s Screen Time](https://lifehacker.com/why-you-should-stop-feeling-guilty-about-your-kids-scre-1850500959)
 - [Lifehacker] [Don’t Miss These June Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-june-class-action-settlement-deadlines-1850501393)
 - [Lifehacker] [Here Are All the Astro Events to Watch in June](https://lifehacker.com/here-are-all-the-astro-events-to-watch-in-june-1850500214)
