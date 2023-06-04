@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding CSRF in Web.](https://dev.to/rounit08/understanding-csrf-in-web-4a3)
+- [Dev.to/JS] [This Is How You Can Master JavaScript!](https://dev.to/codecraftjs/this-is-how-you-can-master-javascript-4ak8)
+- [Dev.to/JS] [Code Smell 216 - Fat Interface](https://dev.to/mcsee/code-smell-216-fat-interface-3jlp)
+- [Dev.to/JS] [Simple markdown plugin to open external links in a new tab](https://dev.to/tomoviktor/simple-markdown-plugin-to-open-external-links-in-a-new-tab-2583)
+- [Dev.to/JS] [Automate boring tasks with scripts in a Node project](https://dev.to/stojakovic99/automate-boring-tasks-with-scripts-in-a-node-project-lb4)
 - [Dev.to/JS] [Kth Largest Element in an Array](https://dev.to/_alkesh26/kth-largest-element-in-an-array-2d3j)
 - [Dev.to/JS] [World Wide Web Wars](https://dev.to/andychiare/world-wide-web-wars-1h9p)
 - [Lifehacker] [Your Basement Laundry Room Can Be Better](https://lifehacker.com/your-basement-laundry-room-can-be-better-1850501517)
@@ -32,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simplifying Font Awesome implementation with Nextjs App Router!](https://dev.to/kouliavtsev/simplifying-font-awesome-implementation-with-nextjs-app-router-4lb1)
 - [Lifehacker] [The Worst Airlines You Should Avoid, If You Can](https://lifehacker.com/the-worst-airlines-you-should-avoid-if-you-can-1850501522)
 - [Dev.to/JS] [I lack a built-in method](https://dev.to/serialeditor/i-lack-a-built-in-method-1om6)
-- [Dev.to/JS] [JavaScript - Array with&lpar;&rpar; method](https://dev.to/kristiyan_velkov/js-array-with-method-32ag)
-- [Dev.to/JS] [How I got 1000+ followers! ⭐](https://dev.to/merudra754/how-i-got-1000-followers-49aj)
-- [Dev.to/JS] [Land coding job in 24hours with AI](https://dev.to/aiformewiki/land-coding-job-in-24hours-with-ai-4ha6)
-- [Dev.to/JS] [The day I discovered monorepo](https://dev.to/nljmsmnzls/the-day-i-discovered-monorepo-1ek7)
-- [Dev.to/JS] [Atomic Design](https://dev.to/lausuarez02/atomic-design-2b2d)
 - [Lifehacker] [Avoid Planting These Vegetables in Containers](https://lifehacker.com/avoid-planting-these-vegetables-in-containers-1850501535)
 - [Crazy Programmer] [Heroku vs DigitalOcean – Which is Better for Your Cloud Hosting Needs](https://www.thecrazyprogrammer.com/2023/06/heroku-vs-digitalocean.html)
 - [Lifehacker] [Your Luggage Is Probably Filthy](https://lifehacker.com/your-luggage-is-probably-filthy-1850501679)
