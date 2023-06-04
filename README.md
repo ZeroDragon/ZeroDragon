@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Get Rupee Loan App Customer Care Number 8260061863=8346839852. Toll-free](https://dev.to/manissing86887/get-rupee-loan-app-customer-care-number-82600618638346839852-toll-free-oah)
 - [Dev.to/JS] [Understanding CSRF in Web.](https://dev.to/rounit08/understanding-csrf-in-web-4a3)
 - [Dev.to/JS] [This Is How You Can Master JavaScript!](https://dev.to/codecraftjs/this-is-how-you-can-master-javascript-4ak8)
 - [Dev.to/JS] [Code Smell 216 - Fat Interface](https://dev.to/mcsee/code-smell-216-fat-interface-3jlp)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Add Code Syntax Highlighting in Blogger](https://dev.to/hiader/how-to-add-code-syntax-highlighting-in-blogger-10l7)
 - [Dev.to/JS] [Simplifying Font Awesome implementation with Nextjs App Router!](https://dev.to/kouliavtsev/simplifying-font-awesome-implementation-with-nextjs-app-router-4lb1)
 - [Lifehacker] [The Worst Airlines You Should Avoid, If You Can](https://lifehacker.com/the-worst-airlines-you-should-avoid-if-you-can-1850501522)
-- [Dev.to/JS] [I lack a built-in method](https://dev.to/serialeditor/i-lack-a-built-in-method-1om6)
 - [Lifehacker] [Avoid Planting These Vegetables in Containers](https://lifehacker.com/avoid-planting-these-vegetables-in-containers-1850501535)
 - [Crazy Programmer] [Heroku vs DigitalOcean – Which is Better for Your Cloud Hosting Needs](https://www.thecrazyprogrammer.com/2023/06/heroku-vs-digitalocean.html)
 - [Lifehacker] [Your Luggage Is Probably Filthy](https://lifehacker.com/your-luggage-is-probably-filthy-1850501679)
