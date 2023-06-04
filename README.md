@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Authentication system using Golang and Sveltekit - Frontend user registration and activation](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-frontend-user-registration-and-activation-4104)
+- [Dev.to/JS] [Building a Real-Time Location Tracking Application with Node.js, Typescript, and MongoDB](https://dev.to/folasayosamuel/building-a-real-time-location-tracking-application-with-nodejs-typescript-and-mongodb-1bca)
+- [Dev.to/JS] [Bun vs. Node.js - Benchmarking runtime](https://dev.to/refine/bun-vs-nodejs-benchmarking-runtime-4l9b)
+- [Dev.to/JS] [Exploring CodeFlix: A ReactJS Project](https://dev.to/hr21don/exploring-codeflix-a-reactjs-project-599m)
 - [Dev.to/JS] [Get Mentored from Ninja Developer for Career Success/Emotional Support](https://dev.to/chetanan/get-mentored-from-ninja-developer-2cmj)
 - [Dev.to/JS] [Make a chrome extension to save the URL of all the current tab under an instance and open them whenever and wherever you want...](https://dev.to/rikid/make-a-chrome-extension-to-save-the-url-of-all-the-current-tab-under-an-instance-and-open-them-whenever-and-wherever-you-want-4o3o)
 - [Dev.to/JS] [Customizing Errors in JavaScript](https://dev.to/muszynov/customizing-errors-in-javascript-4jm)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Native is Multi Threaded](https://dev.to/ponikar/react-native-is-multi-threaded-44aj)
 - [Dev.to/JS] [CRA vs Vite: Picking the Ideal Tool for Your React.js Project](https://dev.to/dotarjun/cra-vs-vite-picking-the-ideal-tool-for-your-reactjs-project-cdk)
 - [Dev.to/JS] [V-Directives Second explore Vue.js](https://dev.to/githukelvin/v-directives-second-explore-vuejs-37el)
-- [Dev.to/JS] [Top 3 Patterns to Master JavaScript Problem-Solving](https://dev.to/mpratapdev/top-3-patterns-to-master-javascript-problem-solving-42me)
-- [Dev.to/JS] [Cart Functionality in React with Context API](https://dev.to/anne46/cart-functionality-in-react-with-context-api-2k2f)
-- [Dev.to/JS] [How to fix CORS problem when sending data with axios from React.js to Laravel.js?](https://dev.to/ayoubelsvg/how-to-fix-cors-problem-when-sending-data-with-axios-from-reactjs-to-laraveljs-47eh)
-- [Dev.to/JS] [First Post by Ibrahim Zaman;](https://dev.to/abrahimzaman360/first-post-by-ibrahim-zaman-3ng1)
 - [Crazy Programmer] [Heroku vs DigitalOcean – Which is Better for Your Cloud Hosting Needs](https://www.thecrazyprogrammer.com/2023/06/heroku-vs-digitalocean.html)
 - [Lifehacker] [Your Luggage Is Probably Filthy](https://lifehacker.com/your-luggage-is-probably-filthy-1850501679)
 - [Lifehacker] [These Are the Signs You&#39;re Overstepping at Work](https://lifehacker.com/these-are-the-signs-youre-overstepping-at-work-1850501701)
