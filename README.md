@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Operators and Expressions in JavaScript](https://dev.to/cliff123tech/operators-and-expressions-in-javascript-196o)
+- [Dev.to/JS] [The Two Pillars of Algorithm Performance: Time and Space Complexity](https://dev.to/guaregua19/the-two-pillars-of-algorithm-performance-time-and-space-complexity-1118)
 - [Dev.to/JS] [Titanium News #16](https://dev.to/miga/titanium-news-16-46hf)
 - [Dev.to/JS] [Fleet un editor de texto minimalista](https://dev.to/ulisesserranop/fleet-un-editor-de-texto-minimalista-23j0)
 - [Dev.to/JS] [Hacker News API &amp; fechting data with React js](https://dev.to/med_code/hacker-news-api-fechting-data-with-react-js-5fcb)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple markdown plugin to open external links in a new tab](https://dev.to/tomoviktor/simple-markdown-plugin-to-open-external-links-in-a-new-tab-2583)
 - [Dev.to/JS] [Automate boring tasks with scripts in a Node project](https://dev.to/stojakovic99/automate-boring-tasks-with-scripts-in-a-node-project-lb4)
 - [Dev.to/JS] [Kth Largest Element in an Array](https://dev.to/_alkesh26/kth-largest-element-in-an-array-2d3j)
-- [Dev.to/JS] [World Wide Web Wars](https://dev.to/andychiare/world-wide-web-wars-1h9p)
 - [Lifehacker] [Your Basement Laundry Room Can Be Better](https://lifehacker.com/your-basement-laundry-room-can-be-better-1850501517)
-- [Dev.to/JS] [Creating an Image Slider with the UseState Hook](https://dev.to/jemmycodes/creating-an-image-slider-with-the-usestate-hook-3c8i)
 - [Lifehacker] [The Worst Airlines You Should Avoid, If You Can](https://lifehacker.com/the-worst-airlines-you-should-avoid-if-you-can-1850501522)
 - [Lifehacker] [Avoid Planting These Vegetables in Containers](https://lifehacker.com/avoid-planting-these-vegetables-in-containers-1850501535)
 - [Crazy Programmer] [Heroku vs DigitalOcean – Which is Better for Your Cloud Hosting Needs](https://www.thecrazyprogrammer.com/2023/06/heroku-vs-digitalocean.html)
