@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Operators and Expressions in JavaScript](https://dev.to/cliff123tech/operators-and-expressions-in-javascript-196o)
+- [Dev.to/JS] [Polyfill Array.flat](https://dev.to/chandrapenugonda/polyfill-arrayflat-3ipb)
+- [Dev.to/JS] [How to visualize data with a bar chart using d3](https://dev.to/ifeolwaisaiah/how-to-visualize-data-with-a-bar-chart-using-d3-1m8e)
+- [Dev.to/JS] [🌗 React Native Switch With Icon &amp; Dark Theme Without Packages!! Part 1](https://dev.to/majdjalab/react-native-switch-with-icon-dark-theme-without-packages-a1p)
+- [Dev.to/JS] [Part &lpar;2&rpar;: Operators and Expressions in JavaScript](https://dev.to/cliff123tech/operators-and-expressions-in-javascript-196o)
 - [Dev.to/JS] [The Two Pillars of Algorithm Performance: Time and Space Complexity](https://dev.to/guaregua19/the-two-pillars-of-algorithm-performance-time-and-space-complexity-1118)
 - [Dev.to/JS] [Titanium News #16](https://dev.to/miga/titanium-news-16-46hf)
 - [Dev.to/JS] [Fleet un editor de texto minimalista](https://dev.to/ulisesserranop/fleet-un-editor-de-texto-minimalista-23j0)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding CSRF in Web.](https://dev.to/rounit08/understanding-csrf-in-web-4a3)
 - [Dev.to/JS] [This Is How You Can Master JavaScript!](https://dev.to/codecraftjs/this-is-how-you-can-master-javascript-4ak8)
 - [Dev.to/JS] [Code Smell 216 - Fat Interface](https://dev.to/mcsee/code-smell-216-fat-interface-3jlp)
-- [Dev.to/JS] [Simple markdown plugin to open external links in a new tab](https://dev.to/tomoviktor/simple-markdown-plugin-to-open-external-links-in-a-new-tab-2583)
-- [Dev.to/JS] [Automate boring tasks with scripts in a Node project](https://dev.to/stojakovic99/automate-boring-tasks-with-scripts-in-a-node-project-lb4)
-- [Dev.to/JS] [Kth Largest Element in an Array](https://dev.to/_alkesh26/kth-largest-element-in-an-array-2d3j)
 - [Lifehacker] [Your Basement Laundry Room Can Be Better](https://lifehacker.com/your-basement-laundry-room-can-be-better-1850501517)
 - [Lifehacker] [The Worst Airlines You Should Avoid, If You Can](https://lifehacker.com/the-worst-airlines-you-should-avoid-if-you-can-1850501522)
 - [Lifehacker] [Avoid Planting These Vegetables in Containers](https://lifehacker.com/avoid-planting-these-vegetables-in-containers-1850501535)
