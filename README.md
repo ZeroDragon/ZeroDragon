@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I lack a built-in method](https://dev.to/serialeditor/i-lack-a-built-in-method-1om6)
+- [Dev.to/JS] [JavaScript - Array with&lpar;&rpar; method](https://dev.to/kristiyan_velkov/js-array-with-method-32ag)
+- [Dev.to/JS] [How I got 1000+ followers! ⭐](https://dev.to/merudra754/how-i-got-1000-followers-49aj)
 - [Dev.to/JS] [Land coding job in 24hours with AI](https://dev.to/aiformewiki/land-coding-job-in-24hours-with-ai-4ha6)
 - [Dev.to/JS] [The day I discovered monorepo](https://dev.to/nljmsmnzls/the-day-i-discovered-monorepo-1ek7)
 - [Dev.to/JS] [Atomic Design](https://dev.to/lausuarez02/atomic-design-2b2d)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Real-Time Location Tracking Application with Node.js, Typescript, and MongoDB](https://dev.to/folasayosamuel/building-a-real-time-location-tracking-application-with-nodejs-typescript-and-mongodb-1bca)
 - [Dev.to/JS] [Bun vs. Node.js - Benchmarking runtime](https://dev.to/refine/bun-vs-nodejs-benchmarking-runtime-4l9b)
 - [Dev.to/JS] [Exploring CodeFlix: A ReactJS Project](https://dev.to/hr21don/exploring-codeflix-a-reactjs-project-599m)
-- [Dev.to/JS] [Get Mentored from Ninja Developer for Career Success/Emotional Support](https://dev.to/chetanan/get-mentored-from-ninja-developer-2cmj)
-- [Dev.to/JS] [Make a chrome extension to save the URL of all the current tab under an instance and open them whenever and wherever you want...](https://dev.to/rikid/make-a-chrome-extension-to-save-the-url-of-all-the-current-tab-under-an-instance-and-open-them-whenever-and-wherever-you-want-4o3o)
-- [Dev.to/JS] [Customizing Errors in JavaScript](https://dev.to/muszynov/customizing-errors-in-javascript-4jm)
 - [Crazy Programmer] [Heroku vs DigitalOcean – Which is Better for Your Cloud Hosting Needs](https://www.thecrazyprogrammer.com/2023/06/heroku-vs-digitalocean.html)
 - [Lifehacker] [Your Luggage Is Probably Filthy](https://lifehacker.com/your-luggage-is-probably-filthy-1850501679)
 - [Lifehacker] [These Are the Signs You&#39;re Overstepping at Work](https://lifehacker.com/these-are-the-signs-youre-overstepping-at-work-1850501701)
