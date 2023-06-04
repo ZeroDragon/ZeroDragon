@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 3 Patterns to Master JavaScript Problem-Solving](https://dev.to/mpratapdev/top-3-patterns-to-master-javascript-problem-solving-42me)
+- [Dev.to/JS] [Cart Functionality in React with Context API](https://dev.to/anne46/cart-functionality-in-react-with-context-api-2k2f)
+- [Dev.to/JS] [How to fix CORS problem when sending data with axios from React.js to Laravel.js?](https://dev.to/ayoubelsvg/how-to-fix-cors-problem-when-sending-data-with-axios-from-reactjs-to-laraveljs-47eh)
 - [Dev.to/JS] [First Post by Ibrahim Zaman;](https://dev.to/abrahimzaman360/first-post-by-ibrahim-zaman-3ng1)
 - [Dev.to/JS] [Zero-downtime Nginx Blue-Green deployment on a service layer](https://dev.to/andrewkangg/zero-downtime-nginx-blue-green-deployment-on-a-service-layer-h8m)
 - [Dev.to/JS] [A Successful Technical Exam Journey: Building a Responsive App from Scratch](https://dev.to/trinly01/a-successful-technical-exam-journey-building-a-responsive-app-from-scratch-3bh)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [21 Mind-Blowing Web Features You Probably Haven&#39;t Heard Of](https://dev.to/johnrushx/21-mind-blowing-web-features-you-probably-havent-heard-of-2b77)
 - [Dev.to/JS] [React &amp; Angular Security Series #1](https://dev.to/ajebodev/react-angular-security-series-1-3mm2)
 - [Crazy Programmer] [Heroku vs DigitalOcean – Which is Better for Your Cloud Hosting Needs](https://www.thecrazyprogrammer.com/2023/06/heroku-vs-digitalocean.html)
-- [Dev.to/JS] [Crack the Code: 33 Expert Tips to Take Your Development Skills to the Next Level](https://dev.to/andytechdev/crack-the-code-33-expert-tips-to-take-your-development-skills-to-the-next-level-3f2l)
-- [Dev.to/JS] [Understanding Event Bubbling in JavaScript and Its Working](https://dev.to/ateevduggal/understanding-event-bubbling-in-javascript-and-its-working-3c56)
-- [Dev.to/JS] [Introducing &#39;Jira Simplify&#39;: A New Approach to Handling Complex Jira Tickets](https://dev.to/tonymcnulty/introducing-jira-simplify-a-new-approach-to-handling-complex-jira-tickets-1baj)
 - [Lifehacker] [Your Luggage Is Probably Filthy](https://lifehacker.com/your-luggage-is-probably-filthy-1850501679)
 - [Lifehacker] [These Are the Signs You&#39;re Overstepping at Work](https://lifehacker.com/these-are-the-signs-youre-overstepping-at-work-1850501701)
 - [Lifehacker] [The Best Ways to Avoid Traffic on a Trip](https://lifehacker.com/the-best-ways-to-avoid-traffic-on-a-trip-1850501765)
