@@ -23,7 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Exploring the Powerful JavaScript Array Methods: A Comprehensive Guide](https://dev.to/mattryanmtl/exploring-the-powerful-javascript-array-methods-a-comprehensive-guide-3md)
+- [Dev.to/JS] [How to detect unnecessary renderings of DOM elements in your web app to improve performances 🔥](https://dev.to/maxime1992/how-to-detect-unnecessary-renderings-of-dom-elements-in-your-web-app-to-improve-performances-13jd)
+- [Dev.to/JS] [Exploring JavaScript Array Methods](https://dev.to/mattryanmtl/exploring-the-powerful-javascript-array-methods-a-comprehensive-guide-3md)
 - [Dev.to/JS] [21 Mind-Blowing Web Features You Probably Haven&#39;t Heard Of](https://dev.to/johnrushx/21-mind-blowing-web-features-you-probably-havent-heard-of-2b77)
 - [Dev.to/JS] [React &amp; Angular Security Series #1](https://dev.to/ajebodev/react-angular-security-series-1-3mm2)
 - [Crazy Programmer] [Heroku vs DigitalOcean – Which is Better for Your Cloud Hosting Needs](https://www.thecrazyprogrammer.com/2023/06/heroku-vs-digitalocean.html)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [tsParticles 2.10.0 Released](https://dev.to/tsparticles/tsparticles-2100-released-4e96)
 - [Dev.to/JS] [Best knife set reviews for your kitchen](https://dev.to/knifetor/best-knife-set-reviews-for-your-kitchen-5am7)
 - [Lifehacker] [Your Luggage Is Probably Filthy](https://lifehacker.com/your-luggage-is-probably-filthy-1850501679)
-- [Dev.to/JS] [10 Cool CodePen Demos &lpar;May 23&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-may-23-2n79)
 - [Lifehacker] [These Are the Signs You&#39;re Overstepping at Work](https://lifehacker.com/these-are-the-signs-youre-overstepping-at-work-1850501701)
 - [Lifehacker] [The Best Ways to Avoid Traffic on a Trip](https://lifehacker.com/the-best-ways-to-avoid-traffic-on-a-trip-1850501765)
 - [Lifehacker] [Why You Should Stop Feeling Guilty About Your Kid&#39;s Screen Time](https://lifehacker.com/why-you-should-stop-feeling-guilty-about-your-kids-scre-1850500959)
