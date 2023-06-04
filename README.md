@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Kth Largest Element in an Array](https://dev.to/_alkesh26/kth-largest-element-in-an-array-2d3j)
+- [Dev.to/JS] [World Wide Web Wars](https://dev.to/andychiare/world-wide-web-wars-1h9p)
+- [Lifehacker] [Your Basement Laundry Room Can Be Better](https://lifehacker.com/your-basement-laundry-room-can-be-better-1850501517)
 - [Dev.to/JS] [Creating an Image Slider with the UseState Hook](https://dev.to/jemmycodes/creating-an-image-slider-with-the-usestate-hook-3c8i)
 - [Dev.to/JS] [How to Create a Healthcare Chatbot Using NLP](https://dev.to/devashishmamgain/how-to-create-a-healthcare-chatbot-using-nlp-k3l)
 - [Dev.to/JS] [How to Add Code Syntax Highlighting in Blogger](https://dev.to/hiader/how-to-add-code-syntax-highlighting-in-blogger-10l7)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Land coding job in 24hours with AI](https://dev.to/aiformewiki/land-coding-job-in-24hours-with-ai-4ha6)
 - [Dev.to/JS] [The day I discovered monorepo](https://dev.to/nljmsmnzls/the-day-i-discovered-monorepo-1ek7)
 - [Dev.to/JS] [Atomic Design](https://dev.to/lausuarez02/atomic-design-2b2d)
-- [Dev.to/JS] [The Payment Request API: Revolutionizing Online Payments &lpar;Part 1&rpar;](https://dev.to/salvietta150x40/the-payment-request-api-revolutionizing-online-payments-part-1-3ifj)
-- [Dev.to/JS] [Code like *GOD* with AI](https://dev.to/aiformewiki/code-like-god-with-ai-2knj)
 - [Lifehacker] [Avoid Planting These Vegetables in Containers](https://lifehacker.com/avoid-planting-these-vegetables-in-containers-1850501535)
 - [Crazy Programmer] [Heroku vs DigitalOcean – Which is Better for Your Cloud Hosting Needs](https://www.thecrazyprogrammer.com/2023/06/heroku-vs-digitalocean.html)
 - [Lifehacker] [Your Luggage Is Probably Filthy](https://lifehacker.com/your-luggage-is-probably-filthy-1850501679)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Create a Simple Wardrobe Catalog on Your iPhone](https://lifehacker.com/create-a-simple-wardrobe-catalog-on-your-iphone-1850495680)
 - [Lifehacker] [Beware of These Scams the Next Time You Move](https://lifehacker.com/beware-of-these-scams-the-next-time-you-move-1850493049)
 - [Lifehacker] [Make This Retro Party Snack in Your Air Fryer](https://lifehacker.com/make-this-retro-party-snack-in-your-air-fryer-1850496989)
-- [Lifehacker] [All the New Android Features Google Just Announced](https://lifehacker.com/all-the-new-android-features-google-just-announced-1850495604)
-- [Lifehacker] [These Drinks Are Sneaky Sources of Caffeine](https://lifehacker.com/these-drinks-are-sneaky-sources-of-caffeine-1850495926)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the New Android Features Google Just Announced](https://lifehacker.com/all-the-new-android-features-google-just-announced-1850495604)<!-- TECH-POSTS:END -->
 
 ---
 
