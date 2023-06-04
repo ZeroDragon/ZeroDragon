@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Titanium News #16](https://dev.to/miga/titanium-news-16-46hf)
+- [Dev.to/JS] [Fleet un editor de texto minimalista](https://dev.to/ulisesserranop/fleet-un-editor-de-texto-minimalista-23j0)
+- [Dev.to/JS] [Hacker News API &amp; fechting data with React js](https://dev.to/med_code/hacker-news-api-fechting-data-with-react-js-5fcb)
 - [Dev.to/JS] [Get Rupee Loan App Customer Care Number 8260061863=8346839852. Toll-free](https://dev.to/manissing86887/get-rupee-loan-app-customer-care-number-82600618638346839852-toll-free-oah)
 - [Dev.to/JS] [Understanding CSRF in Web.](https://dev.to/rounit08/understanding-csrf-in-web-4a3)
 - [Dev.to/JS] [This Is How You Can Master JavaScript!](https://dev.to/codecraftjs/this-is-how-you-can-master-javascript-4ak8)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [World Wide Web Wars](https://dev.to/andychiare/world-wide-web-wars-1h9p)
 - [Lifehacker] [Your Basement Laundry Room Can Be Better](https://lifehacker.com/your-basement-laundry-room-can-be-better-1850501517)
 - [Dev.to/JS] [Creating an Image Slider with the UseState Hook](https://dev.to/jemmycodes/creating-an-image-slider-with-the-usestate-hook-3c8i)
-- [Dev.to/JS] [How to Create a Healthcare Chatbot Using NLP](https://dev.to/devashishmamgain/how-to-create-a-healthcare-chatbot-using-nlp-k3l)
-- [Dev.to/JS] [How to Add Code Syntax Highlighting in Blogger](https://dev.to/hiader/how-to-add-code-syntax-highlighting-in-blogger-10l7)
-- [Dev.to/JS] [Simplifying Font Awesome implementation with Nextjs App Router!](https://dev.to/kouliavtsev/simplifying-font-awesome-implementation-with-nextjs-app-router-4lb1)
 - [Lifehacker] [The Worst Airlines You Should Avoid, If You Can](https://lifehacker.com/the-worst-airlines-you-should-avoid-if-you-can-1850501522)
 - [Lifehacker] [Avoid Planting These Vegetables in Containers](https://lifehacker.com/avoid-planting-these-vegetables-in-containers-1850501535)
 - [Crazy Programmer] [Heroku vs DigitalOcean – Which is Better for Your Cloud Hosting Needs](https://www.thecrazyprogrammer.com/2023/06/heroku-vs-digitalocean.html)
