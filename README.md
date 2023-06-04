@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Get Mentored from Ninja Developer for Career Success/Emotional Support](https://dev.to/chetanan/get-mentored-from-ninja-developer-2cmj)
+- [Dev.to/JS] [Make a chrome extension to save the URL of all the current tab under an instance and open them whenever and wherever you want...](https://dev.to/rikid/make-a-chrome-extension-to-save-the-url-of-all-the-current-tab-under-an-instance-and-open-them-whenever-and-wherever-you-want-4o3o)
+- [Dev.to/JS] [Customizing Errors in JavaScript](https://dev.to/muszynov/customizing-errors-in-javascript-4jm)
+- [Dev.to/JS] [How to Make your first Open Source Contribution and Get Paid](https://dev.to/lovepreetsingh/how-to-make-your-first-open-source-contribution-and-get-paid-2241)
 - [Dev.to/JS] [JavaScript in depth](https://dev.to/giorgiodifalco/javascript-in-depth-2jcm)
 - [Dev.to/JS] [React Native is Multi Threaded](https://dev.to/ponikar/react-native-is-multi-threaded-44aj)
 - [Dev.to/JS] [CRA vs Vite: Picking the Ideal Tool for Your React.js Project](https://dev.to/dotarjun/cra-vs-vite-picking-the-ideal-tool-for-your-reactjs-project-cdk)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cart Functionality in React with Context API](https://dev.to/anne46/cart-functionality-in-react-with-context-api-2k2f)
 - [Dev.to/JS] [How to fix CORS problem when sending data with axios from React.js to Laravel.js?](https://dev.to/ayoubelsvg/how-to-fix-cors-problem-when-sending-data-with-axios-from-reactjs-to-laraveljs-47eh)
 - [Dev.to/JS] [First Post by Ibrahim Zaman;](https://dev.to/abrahimzaman360/first-post-by-ibrahim-zaman-3ng1)
-- [Dev.to/JS] [Zero-downtime Nginx Blue-Green deployment on a service layer](https://dev.to/andrewkangg/zero-downtime-nginx-blue-green-deployment-on-a-service-layer-h8m)
-- [Dev.to/JS] [A Successful Technical Exam Journey: Building a Responsive App from Scratch](https://dev.to/trinly01/a-successful-technical-exam-journey-building-a-responsive-app-from-scratch-3bh)
-- [Dev.to/JS] [JavaScript String Methods | JavaScript #12](https://dev.to/sksage/javascript-string-methods-javascript-12-3gol)
-- [Dev.to/JS] [100 Days Coding Challenge - Day 15: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-15-freecodecamp-javascript-algorithms-and-data-structures-534d)
 - [Crazy Programmer] [Heroku vs DigitalOcean – Which is Better for Your Cloud Hosting Needs](https://www.thecrazyprogrammer.com/2023/06/heroku-vs-digitalocean.html)
 - [Lifehacker] [Your Luggage Is Probably Filthy](https://lifehacker.com/your-luggage-is-probably-filthy-1850501679)
 - [Lifehacker] [These Are the Signs You&#39;re Overstepping at Work](https://lifehacker.com/these-are-the-signs-youre-overstepping-at-work-1850501701)
