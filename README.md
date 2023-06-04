@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Land coding job in 24hours with AI](https://dev.to/aiformewiki/land-coding-job-in-24hours-with-ai-4ha6)
+- [Dev.to/JS] [The day I discovered monorepo](https://dev.to/nljmsmnzls/the-day-i-discovered-monorepo-1ek7)
+- [Dev.to/JS] [Atomic Design](https://dev.to/lausuarez02/atomic-design-2b2d)
+- [Dev.to/JS] [The Payment Request API: Revolutionizing Online Payments &lpar;Part 1&rpar;](https://dev.to/salvietta150x40/the-payment-request-api-revolutionizing-online-payments-part-1-3ifj)
+- [Dev.to/JS] [Code like *GOD* with AI](https://dev.to/aiformewiki/code-like-god-with-ai-2knj)
+- [Lifehacker] [Avoid Planting These Vegetables in Containers](https://lifehacker.com/avoid-planting-these-vegetables-in-containers-1850501535)
 - [Dev.to/JS] [Authentication system using Golang and Sveltekit - Frontend user registration and activation](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-frontend-user-registration-and-activation-4104)
 - [Dev.to/JS] [Building a Real-Time Location Tracking Application with Node.js, Typescript, and MongoDB](https://dev.to/folasayosamuel/building-a-real-time-location-tracking-application-with-nodejs-typescript-and-mongodb-1bca)
 - [Dev.to/JS] [Bun vs. Node.js - Benchmarking runtime](https://dev.to/refine/bun-vs-nodejs-benchmarking-runtime-4l9b)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Get Mentored from Ninja Developer for Career Success/Emotional Support](https://dev.to/chetanan/get-mentored-from-ninja-developer-2cmj)
 - [Dev.to/JS] [Make a chrome extension to save the URL of all the current tab under an instance and open them whenever and wherever you want...](https://dev.to/rikid/make-a-chrome-extension-to-save-the-url-of-all-the-current-tab-under-an-instance-and-open-them-whenever-and-wherever-you-want-4o3o)
 - [Dev.to/JS] [Customizing Errors in JavaScript](https://dev.to/muszynov/customizing-errors-in-javascript-4jm)
-- [Dev.to/JS] [How to Make your first Open Source Contribution and Get Paid](https://dev.to/lovepreetsingh/how-to-make-your-first-open-source-contribution-and-get-paid-2241)
-- [Dev.to/JS] [JavaScript in depth](https://dev.to/giorgiodifalco/javascript-in-depth-2jcm)
-- [Dev.to/JS] [React Native is Multi Threaded](https://dev.to/ponikar/react-native-is-multi-threaded-44aj)
-- [Dev.to/JS] [CRA vs Vite: Picking the Ideal Tool for Your React.js Project](https://dev.to/dotarjun/cra-vs-vite-picking-the-ideal-tool-for-your-reactjs-project-cdk)
-- [Dev.to/JS] [V-Directives Second explore Vue.js](https://dev.to/githukelvin/v-directives-second-explore-vuejs-37el)
 - [Crazy Programmer] [Heroku vs DigitalOcean – Which is Better for Your Cloud Hosting Needs](https://www.thecrazyprogrammer.com/2023/06/heroku-vs-digitalocean.html)
 - [Lifehacker] [Your Luggage Is Probably Filthy](https://lifehacker.com/your-luggage-is-probably-filthy-1850501679)
 - [Lifehacker] [These Are the Signs You&#39;re Overstepping at Work](https://lifehacker.com/these-are-the-signs-youre-overstepping-at-work-1850501701)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Retro Party Snack in Your Air Fryer](https://lifehacker.com/make-this-retro-party-snack-in-your-air-fryer-1850496989)
 - [Lifehacker] [All the New Android Features Google Just Announced](https://lifehacker.com/all-the-new-android-features-google-just-announced-1850495604)
 - [Lifehacker] [These Drinks Are Sneaky Sources of Caffeine](https://lifehacker.com/these-drinks-are-sneaky-sources-of-caffeine-1850495926)
-- [Lifehacker] [What the UV Index Actually Means](https://lifehacker.com/what-the-uv-index-actually-means-1850496699)
-- [Lifehacker] [How to Revive a Rusty Pair of Gardening Shears](https://lifehacker.com/how-to-revive-a-rusty-pair-of-gardening-shears-1850495367)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What the UV Index Actually Means](https://lifehacker.com/what-the-uv-index-actually-means-1850496699)<!-- TECH-POSTS:END -->
 
 ---
 
