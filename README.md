@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript in depth](https://dev.to/giorgiodifalco/javascript-in-depth-2jcm)
+- [Dev.to/JS] [React Native is Multi Threaded](https://dev.to/ponikar/react-native-is-multi-threaded-44aj)
 - [Dev.to/JS] [CRA vs Vite: Picking the Ideal Tool for Your React.js Project](https://dev.to/dotarjun/cra-vs-vite-picking-the-ideal-tool-for-your-reactjs-project-cdk)
 - [Dev.to/JS] [V-Directives Second explore Vue.js](https://dev.to/githukelvin/v-directives-second-explore-vuejs-37el)
 - [Dev.to/JS] [Top 3 Patterns to Master JavaScript Problem-Solving](https://dev.to/mpratapdev/top-3-patterns-to-master-javascript-problem-solving-42me)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Successful Technical Exam Journey: Building a Responsive App from Scratch](https://dev.to/trinly01/a-successful-technical-exam-journey-building-a-responsive-app-from-scratch-3bh)
 - [Dev.to/JS] [JavaScript String Methods | JavaScript #12](https://dev.to/sksage/javascript-string-methods-javascript-12-3gol)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 15: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-15-freecodecamp-javascript-algorithms-and-data-structures-534d)
-- [Dev.to/JS] [How to detect unnecessary renderings of DOM elements in your web app to improve performances 🔥](https://dev.to/maxime1992/how-to-detect-unnecessary-renderings-of-dom-elements-in-your-web-app-to-improve-performances-13jd)
-- [Dev.to/JS] [Exploring JavaScript Array Methods](https://dev.to/mattryanmtl/exploring-the-powerful-javascript-array-methods-a-comprehensive-guide-3md)
 - [Crazy Programmer] [Heroku vs DigitalOcean – Which is Better for Your Cloud Hosting Needs](https://www.thecrazyprogrammer.com/2023/06/heroku-vs-digitalocean.html)
 - [Lifehacker] [Your Luggage Is Probably Filthy](https://lifehacker.com/your-luggage-is-probably-filthy-1850501679)
 - [Lifehacker] [These Are the Signs You&#39;re Overstepping at Work](https://lifehacker.com/these-are-the-signs-youre-overstepping-at-work-1850501701)
