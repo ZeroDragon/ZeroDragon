@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript String Methods | JavaScript #12](https://dev.to/sksage/javascript-string-methods-javascript-12-3gol)
+- [Dev.to/JS] [100 Days Coding Challenge - Day 15: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-15-freecodecamp-javascript-algorithms-and-data-structures-534d)
 - [Dev.to/JS] [How to detect unnecessary renderings of DOM elements in your web app to improve performances 🔥](https://dev.to/maxime1992/how-to-detect-unnecessary-renderings-of-dom-elements-in-your-web-app-to-improve-performances-13jd)
 - [Dev.to/JS] [Exploring JavaScript Array Methods](https://dev.to/mattryanmtl/exploring-the-powerful-javascript-array-methods-a-comprehensive-guide-3md)
 - [Dev.to/JS] [21 Mind-Blowing Web Features You Probably Haven&#39;t Heard Of](https://dev.to/johnrushx/21-mind-blowing-web-features-you-probably-havent-heard-of-2b77)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js 13: complete guide to Server Components and the App Directory](https://dev.to/gc_psk/nextjs-13-complete-guide-to-server-components-and-the-app-directory-11jn)
 - [Dev.to/JS] [Are you even full stack ready?](https://dev.to/treasuredev_/are-you-even-full-stack-ready-21np)
 - [Dev.to/JS] [Form Validation with JavaScript](https://dev.to/tracy4code/form-validation-with-javascript-21l6)
-- [Dev.to/JS] [tsParticles 2.10.0 Released](https://dev.to/tsparticles/tsparticles-2100-released-4e96)
-- [Dev.to/JS] [Best knife set reviews for your kitchen](https://dev.to/knifetor/best-knife-set-reviews-for-your-kitchen-5am7)
 - [Lifehacker] [Your Luggage Is Probably Filthy](https://lifehacker.com/your-luggage-is-probably-filthy-1850501679)
 - [Lifehacker] [These Are the Signs You&#39;re Overstepping at Work](https://lifehacker.com/these-are-the-signs-youre-overstepping-at-work-1850501701)
 - [Lifehacker] [The Best Ways to Avoid Traffic on a Trip](https://lifehacker.com/the-best-ways-to-avoid-traffic-on-a-trip-1850501765)
