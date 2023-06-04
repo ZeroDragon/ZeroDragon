@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating an Image Slider with the UseState Hook](https://dev.to/jemmycodes/creating-an-image-slider-with-the-usestate-hook-3c8i)
 - [Dev.to/JS] [How to Create a Healthcare Chatbot Using NLP](https://dev.to/devashishmamgain/how-to-create-a-healthcare-chatbot-using-nlp-k3l)
 - [Dev.to/JS] [How to Add Code Syntax Highlighting in Blogger](https://dev.to/hiader/how-to-add-code-syntax-highlighting-in-blogger-10l7)
 - [Dev.to/JS] [Simplifying Font Awesome implementation with Nextjs App Router!](https://dev.to/kouliavtsev/simplifying-font-awesome-implementation-with-nextjs-app-router-4lb1)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Payment Request API: Revolutionizing Online Payments &lpar;Part 1&rpar;](https://dev.to/salvietta150x40/the-payment-request-api-revolutionizing-online-payments-part-1-3ifj)
 - [Dev.to/JS] [Code like *GOD* with AI](https://dev.to/aiformewiki/code-like-god-with-ai-2knj)
 - [Lifehacker] [Avoid Planting These Vegetables in Containers](https://lifehacker.com/avoid-planting-these-vegetables-in-containers-1850501535)
-- [Dev.to/JS] [Authentication system using Golang and Sveltekit - Frontend user registration and activation](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-frontend-user-registration-and-activation-4104)
 - [Crazy Programmer] [Heroku vs DigitalOcean – Which is Better for Your Cloud Hosting Needs](https://www.thecrazyprogrammer.com/2023/06/heroku-vs-digitalocean.html)
 - [Lifehacker] [Your Luggage Is Probably Filthy](https://lifehacker.com/your-luggage-is-probably-filthy-1850501679)
 - [Lifehacker] [These Are the Signs You&#39;re Overstepping at Work](https://lifehacker.com/these-are-the-signs-youre-overstepping-at-work-1850501701)
