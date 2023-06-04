@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CRA vs Vite: Picking the Ideal Tool for Your React.js Project](https://dev.to/dotarjun/cra-vs-vite-picking-the-ideal-tool-for-your-reactjs-project-cdk)
+- [Dev.to/JS] [V-Directives Second explore Vue.js](https://dev.to/githukelvin/v-directives-second-explore-vuejs-37el)
 - [Dev.to/JS] [Top 3 Patterns to Master JavaScript Problem-Solving](https://dev.to/mpratapdev/top-3-patterns-to-master-javascript-problem-solving-42me)
 - [Dev.to/JS] [Cart Functionality in React with Context API](https://dev.to/anne46/cart-functionality-in-react-with-context-api-2k2f)
 - [Dev.to/JS] [How to fix CORS problem when sending data with axios from React.js to Laravel.js?](https://dev.to/ayoubelsvg/how-to-fix-cors-problem-when-sending-data-with-axios-from-reactjs-to-laraveljs-47eh)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [100 Days Coding Challenge - Day 15: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-15-freecodecamp-javascript-algorithms-and-data-structures-534d)
 - [Dev.to/JS] [How to detect unnecessary renderings of DOM elements in your web app to improve performances 🔥](https://dev.to/maxime1992/how-to-detect-unnecessary-renderings-of-dom-elements-in-your-web-app-to-improve-performances-13jd)
 - [Dev.to/JS] [Exploring JavaScript Array Methods](https://dev.to/mattryanmtl/exploring-the-powerful-javascript-array-methods-a-comprehensive-guide-3md)
-- [Dev.to/JS] [21 Mind-Blowing Web Features You Probably Haven&#39;t Heard Of](https://dev.to/johnrushx/21-mind-blowing-web-features-you-probably-havent-heard-of-2b77)
-- [Dev.to/JS] [React &amp; Angular Security Series #1](https://dev.to/ajebodev/react-angular-security-series-1-3mm2)
 - [Crazy Programmer] [Heroku vs DigitalOcean – Which is Better for Your Cloud Hosting Needs](https://www.thecrazyprogrammer.com/2023/06/heroku-vs-digitalocean.html)
 - [Lifehacker] [Your Luggage Is Probably Filthy](https://lifehacker.com/your-luggage-is-probably-filthy-1850501679)
 - [Lifehacker] [These Are the Signs You&#39;re Overstepping at Work](https://lifehacker.com/these-are-the-signs-youre-overstepping-at-work-1850501701)
