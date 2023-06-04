@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create a Healthcare Chatbot Using NLP](https://dev.to/devashishmamgain/how-to-create-a-healthcare-chatbot-using-nlp-k3l)
+- [Dev.to/JS] [How to Add Code Syntax Highlighting in Blogger](https://dev.to/hiader/how-to-add-code-syntax-highlighting-in-blogger-10l7)
+- [Dev.to/JS] [Simplifying Font Awesome implementation with Nextjs App Router!](https://dev.to/kouliavtsev/simplifying-font-awesome-implementation-with-nextjs-app-router-4lb1)
+- [Lifehacker] [The Worst Airlines You Should Avoid, If You Can](https://lifehacker.com/the-worst-airlines-you-should-avoid-if-you-can-1850501522)
 - [Dev.to/JS] [I lack a built-in method](https://dev.to/serialeditor/i-lack-a-built-in-method-1om6)
 - [Dev.to/JS] [JavaScript - Array with&lpar;&rpar; method](https://dev.to/kristiyan_velkov/js-array-with-method-32ag)
 - [Dev.to/JS] [How I got 1000+ followers! ⭐](https://dev.to/merudra754/how-i-got-1000-followers-49aj)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code like *GOD* with AI](https://dev.to/aiformewiki/code-like-god-with-ai-2knj)
 - [Lifehacker] [Avoid Planting These Vegetables in Containers](https://lifehacker.com/avoid-planting-these-vegetables-in-containers-1850501535)
 - [Dev.to/JS] [Authentication system using Golang and Sveltekit - Frontend user registration and activation](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-frontend-user-registration-and-activation-4104)
-- [Dev.to/JS] [Building a Real-Time Location Tracking Application with Node.js, Typescript, and MongoDB](https://dev.to/folasayosamuel/building-a-real-time-location-tracking-application-with-nodejs-typescript-and-mongodb-1bca)
-- [Dev.to/JS] [Bun vs. Node.js - Benchmarking runtime](https://dev.to/refine/bun-vs-nodejs-benchmarking-runtime-4l9b)
-- [Dev.to/JS] [Exploring CodeFlix: A ReactJS Project](https://dev.to/hr21don/exploring-codeflix-a-reactjs-project-599m)
 - [Crazy Programmer] [Heroku vs DigitalOcean – Which is Better for Your Cloud Hosting Needs](https://www.thecrazyprogrammer.com/2023/06/heroku-vs-digitalocean.html)
 - [Lifehacker] [Your Luggage Is Probably Filthy](https://lifehacker.com/your-luggage-is-probably-filthy-1850501679)
 - [Lifehacker] [These Are the Signs You&#39;re Overstepping at Work](https://lifehacker.com/these-are-the-signs-youre-overstepping-at-work-1850501701)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Beware of These Scams the Next Time You Move](https://lifehacker.com/beware-of-these-scams-the-next-time-you-move-1850493049)
 - [Lifehacker] [Make This Retro Party Snack in Your Air Fryer](https://lifehacker.com/make-this-retro-party-snack-in-your-air-fryer-1850496989)
 - [Lifehacker] [All the New Android Features Google Just Announced](https://lifehacker.com/all-the-new-android-features-google-just-announced-1850495604)
-- [Lifehacker] [These Drinks Are Sneaky Sources of Caffeine](https://lifehacker.com/these-drinks-are-sneaky-sources-of-caffeine-1850495926)
-- [Lifehacker] [What the UV Index Actually Means](https://lifehacker.com/what-the-uv-index-actually-means-1850496699)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Drinks Are Sneaky Sources of Caffeine](https://lifehacker.com/these-drinks-are-sneaky-sources-of-caffeine-1850495926)<!-- TECH-POSTS:END -->
 
 ---
 
