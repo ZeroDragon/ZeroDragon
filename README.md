@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering array sorting in JavaScript: a guide to the sort&lpar;&rpar; function](https://dev.to/salvietta150x40/mastering-array-sorting-in-javascript-a-guide-to-the-sort-function-3j7)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, Jun 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-jun-2023-12hc)
+- [Dev.to/JS] [3.14 - Adam Argyle Presents CSS Features for 2023 and beyond!](https://dev.to/codingcatdev/314-adam-argyle-presents-css-features-for-2023-and-beyond-1pal)
+- [Dev.to/JS] [Does anyone can help me to start with the #javascript ?](https://dev.to/artemka553/does-anyone-can-help-me-to-start-with-the-javascript--55hd)
+- [Dev.to/JS] [The Payment Request API: Revolutionizing Online Payments &lpar;Part 2&rpar;](https://dev.to/salvietta150x40/the-payment-request-api-revolutionizing-online-payments-part-2-6cn)
 - [Lifehacker] [This New Kayak Tool Will Tell You the Best Time to Travel](https://lifehacker.com/this-new-kayak-tool-will-tell-you-the-best-time-to-trav-1850502050)
+- [Dev.to/JS] [Mastering Front-end web development with help of scrimba.com](https://dev.to/shanza14/mastering-front-end-web-development-with-help-of-scrimbacom-4ooa)
 - [Dev.to/JS] [Understanding the Insertion Sort Algorithm](https://dev.to/marcossnikel/understanding-the-insertion-sort-algorithm-4pic)
 - [Dev.to/JS] [I am Full Stack Developer](https://dev.to/allarounddev/i-am-full-stack-developer-5dhp)
 - [Lifehacker] [The Best Ways to Eliminate Junk Mail](https://lifehacker.com/the-best-ways-to-eliminate-junk-mail-1850503997)
@@ -32,13 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s a &#39;0.5 Selfie?&#39;](https://lifehacker.com/whats-a-0-5-selfie-1850501012)
 - [Dev.to/JS] [How to change all of one element&#39;s CSS in JavaScript!](https://dev.to/analyze0/how-to-change-all-of-one-elements-css-in-javascript-1obl)
 - [Dev.to/JS] [Primeiro bot do Discord para envio de lembrete: do zero ao deploy! #PASSO1️⃣](https://dev.to/jacksonsantin/primeiro-bot-do-discord-para-envio-de-lembrete-do-zero-ao-deploy-passo1-33ok)
-- [Dev.to/JS] [7 Common Mistakes React Developers make](https://dev.to/devland/7-common-mistakes-react-developers-make-3p21)
-- [Dev.to/JS] [Build Components Without a Framework: What You Need To Know About Web Components](https://dev.to/heather_veva/build-components-without-a-framework-what-you-need-to-know-about-web-components-3ebn)
-- [Dev.to/JS] [What are variables? - JavaScript](https://dev.to/analyze0/what-are-variables-javascript-p78)
-- [Dev.to/JS] [Remounting Issue with State Change in a Custom React Grid Component](https://dev.to/sk161/remounting-issue-with-state-change-in-a-custom-react-grid-component-1bfa)
 - [Lifehacker] [15 Video Games With Incredible Art Styles](https://lifehacker.com/15-video-games-with-incredible-art-styles-1850501132)
-- [Dev.to/JS] [What are SPA, SSR, and SSG?](https://dev.to/th3sn0wm4n/what-are-spa-ssr-and-ssg-4222)
-- [Dev.to/JS] [How to Install NodeJs on Linux](https://dev.to/sarveshsp/how-to-install-nodejs-on-linux-2fio)
 - [Lifehacker] [This Trader Joe&#39;s Dip Makes a Pretty Great Soup](https://lifehacker.com/this-trader-joes-dip-makes-a-pretty-great-soup-1850501276)
 - [Lifehacker] [Your Basement Laundry Room Can Be Better](https://lifehacker.com/your-basement-laundry-room-can-be-better-1850501517)
 - [Lifehacker] [The Worst Airlines You Should Avoid, If You Can](https://lifehacker.com/the-worst-airlines-you-should-avoid-if-you-can-1850501522)
