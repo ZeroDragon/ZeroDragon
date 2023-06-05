@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These JBL Wireless Earbuds are 60% Off Right Now](https://lifehacker.com/these-jbl-wireless-earbuds-are-60-off-right-now-1850493650)
+- [Dev.to/JS] [Deploy an ERC-721 Contract on Linea using Infura and Truffle Introduction](https://dev.to/mbogan/deploy-an-erc-721-contract-on-linea-using-infura-and-truffle-introduction-c0j)
+- [Dev.to/JS] [Primeiro bot do Discord para envio de lembrete: do zero ao deploy! #PASSO2️⃣](https://dev.to/jacksonsantin/primeiro-bot-do-discord-para-envio-de-lembrete-do-zero-ao-deploy-passo2-1jed)
+- [Dev.to/JS] [Sweeter Promises: The Love Affair of JavaScript Promises.](https://dev.to/codetobug/sweeter-promises-the-love-affair-of-javascript-promises-c63)
+- [Lifehacker] [How to Grow a Permaculture Food Forest in Your Yard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-grow-a-permaculture-food-forest-in-your-yard-an-1850505292)
+- [Dev.to/JS] [How to Drag a Shape Along an SVG Ellipse Path: A Step-by-Step Guide](https://dev.to/mzusin/how-to-drag-a-shape-along-an-svg-ellipse-path-a-step-by-step-guide-3b66)
+- [Lifehacker] [Multitasking Is Making You Worse at Everything](https://lifehacker.com/multitasking-is-making-you-worse-at-everything-1850505967)
 - [Dev.to/JS] [Mastering array sorting in JavaScript: a guide to the sort&lpar;&rpar; function](https://dev.to/salvietta150x40/mastering-array-sorting-in-javascript-a-guide-to-the-sort-function-3j7)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, Jun 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-jun-2023-12hc)
 - [Dev.to/JS] [3.14 - Adam Argyle Presents CSS Features for 2023 and beyond!](https://dev.to/codingcatdev/314-adam-argyle-presents-css-features-for-2023-and-beyond-1pal)
@@ -33,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding the Insertion Sort Algorithm](https://dev.to/marcossnikel/understanding-the-insertion-sort-algorithm-4pic)
 - [Dev.to/JS] [I am Full Stack Developer](https://dev.to/allarounddev/i-am-full-stack-developer-5dhp)
 - [Lifehacker] [The Best Ways to Eliminate Junk Mail](https://lifehacker.com/the-best-ways-to-eliminate-junk-mail-1850503997)
-- [Dev.to/JS] [Dynamic Permissions in React using CASL: A Guide to Secure Your App🔒](https://dev.to/naufalafif/dynamic-permissions-in-react-using-casl-a-guide-to-secure-your-app-2ino)
-- [Dev.to/JS] [SolidJS: Consume REST API in an elegant way](https://dev.to/zenika/solidjs-consume-rest-api-in-an-elegant-way-39gg)
 - [Lifehacker] [What&#39;s a &#39;0.5 Selfie?&#39;](https://lifehacker.com/whats-a-0-5-selfie-1850501012)
-- [Dev.to/JS] [How to change all of one element&#39;s CSS in JavaScript!](https://dev.to/analyze0/how-to-change-all-of-one-elements-css-in-javascript-1obl)
-- [Dev.to/JS] [Primeiro bot do Discord para envio de lembrete: do zero ao deploy! #PASSO1️⃣](https://dev.to/jacksonsantin/primeiro-bot-do-discord-para-envio-de-lembrete-do-zero-ao-deploy-passo1-33ok)
 - [Lifehacker] [15 Video Games With Incredible Art Styles](https://lifehacker.com/15-video-games-with-incredible-art-styles-1850501132)
 - [Lifehacker] [This Trader Joe&#39;s Dip Makes a Pretty Great Soup](https://lifehacker.com/this-trader-joes-dip-makes-a-pretty-great-soup-1850501276)
 - [Lifehacker] [Your Basement Laundry Room Can Be Better](https://lifehacker.com/your-basement-laundry-room-can-be-better-1850501517)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to Skip Your Company’s 401&lpar;k&rpar;](https://lifehacker.com/when-to-skip-your-company-s-401-k-1850499838)
 - [Lifehacker] [The Weirdest Things You Can Buy at Temu, the Internet’s New Favorite Jumble Sale](https://lifehacker.com/the-weirdest-things-you-can-buy-at-temu-the-internet-s-1850497999)
 - [Lifehacker] [All the Ways You Should Be Using Your College Counseling Center](https://lifehacker.com/all-the-ways-you-should-be-using-your-college-counselin-1850499484)
-- [Lifehacker] [Five Ways to Remove a Rusty Screw](https://lifehacker.com/five-ways-to-remove-a-rusty-screw-1850498754)
-- [Lifehacker] [Get a Refurbished iPad Air and Beats Headphones for $115](https://lifehacker.com/get-a-refurbished-ipad-air-and-beats-headphones-for-11-1850489794)
-- [Lifehacker] [The Easiest Way to Silence Your Inner Critic](https://lifehacker.com/the-easiest-way-to-silence-your-inner-critic-1850497775)
-- [Lifehacker] [Why You Should Stop Watering Your Plants in the Middle of the Day](https://lifehacker.com/why-you-should-stop-watering-your-plants-in-the-middle-1850497331)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five Ways to Remove a Rusty Screw](https://lifehacker.com/five-ways-to-remove-a-rusty-screw-1850498754)<!-- TECH-POSTS:END -->
 
 ---
 
