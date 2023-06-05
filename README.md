@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding and Applying Array Methods in JavaScript](https://dev.to/martinsonuoha/understanding-and-applying-array-methods-in-javascript-3d80)
+- [Dev.to/JS] [My first NPM library — pronouns.js](https://dev.to/akpi816218/my-first-npm-library-pronounsjs-4a2j)
+- [Dev.to/JS] [Full-stack Blockchain with Andrew](https://dev.to/daslaw/full-stack-blockchain-with-andrew-2lm0)
 - [Dev.to/JS] [Polyfill Array.flat](https://dev.to/chandrapenugonda/polyfill-arrayflat-3ipb)
 - [Dev.to/JS] [How to visualize data with a bar chart using d3](https://dev.to/ifeolwaisaiah/how-to-visualize-data-with-a-bar-chart-using-d3-1m8e)
 - [Dev.to/JS] [🌗 React Native Switch With Icon &amp; Dark Theme Without Packages!! Part 1](https://dev.to/majdjalab/react-native-switch-with-icon-dark-theme-without-packages-a1p)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fleet un editor de texto minimalista](https://dev.to/ulisesserranop/fleet-un-editor-de-texto-minimalista-23j0)
 - [Dev.to/JS] [Hacker News API &amp; fechting data with React js](https://dev.to/med_code/hacker-news-api-fechting-data-with-react-js-5fcb)
 - [Dev.to/JS] [Get Rupee Loan App Customer Care Number 8260061863=8346839852. Toll-free](https://dev.to/manissing86887/get-rupee-loan-app-customer-care-number-82600618638346839852-toll-free-oah)
-- [Dev.to/JS] [Understanding CSRF in Web.](https://dev.to/rounit08/understanding-csrf-in-web-4a3)
-- [Dev.to/JS] [This Is How You Can Master JavaScript!](https://dev.to/codecraftjs/this-is-how-you-can-master-javascript-4ak8)
-- [Dev.to/JS] [Code Smell 216 - Fat Interface](https://dev.to/mcsee/code-smell-216-fat-interface-3jlp)
 - [Lifehacker] [Your Basement Laundry Room Can Be Better](https://lifehacker.com/your-basement-laundry-room-can-be-better-1850501517)
 - [Lifehacker] [The Worst Airlines You Should Avoid, If You Can](https://lifehacker.com/the-worst-airlines-you-should-avoid-if-you-can-1850501522)
 - [Lifehacker] [Avoid Planting These Vegetables in Containers](https://lifehacker.com/avoid-planting-these-vegetables-in-containers-1850501535)
