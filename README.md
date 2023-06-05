@@ -23,22 +23,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlock the Power of JavaScript Immutability: Supercharge Your Code with Bug-Free and Predictable Development!](https://dev.to/pappijx/unlock-the-power-of-javascript-immutability-supercharge-your-code-with-bug-free-and-predictable-development-1hpa)
+- [Dev.to/JS] [React&#39;s arrow of Reconciliation](https://dev.to/rounit08/reacts-arrow-of-reconciliation-4b07)
+- [Dev.to/JS] [Server State vs Client State in React for Beginners](https://dev.to/jeetvora331/server-state-vs-client-state-in-react-for-beginners-3pl6)
+- [Dev.to/JS] [Top 5+ Free Tailwind CSS React Admin Dashboards &amp; Templates for 2023](https://dev.to/hamzadvlpr/top-5-free-tailwind-css-react-admin-dashboards-templates-for-2023-gk0)
+- [Lifehacker] [10 Security Settings That Protect Your iPhone From Thieves](https://lifehacker.com/10-security-settings-you-should-use-to-protect-your-iph-1850506736)
+- [Dev.to/JS] [Lifecycle methods alternative in React functional components](https://dev.to/ashishkankal/lifecycle-methods-alternative-in-react-functional-components-263e)
+- [Dev.to/JS] [How to Deploy a FullStack NodeJs and Express App on Vercel](https://dev.to/vinyldavyl/how-to-deploy-a-fullstack-nodejs-and-express-app-on-vercel-1ghb)
+- [Lifehacker] [How to Financially Prepare for Your Parents or In-Laws to Move In](https://lifehacker.com/how-to-financially-prepare-for-your-parents-or-in-laws-1850506455)
 - [Dev.to/JS] [One ORM to map them all](https://dev.to/slickstef11/one-orm-to-map-them-all-3paf)
 - [Dev.to/JS] [What is control flow based narrowing in TypeScript?](https://dev.to/typescripttv/what-is-control-flow-based-narrowing-in-typescript-55k2)
 - [Dev.to/JS] [Understanding Promises in JS](https://dev.to/ashishkankal/understanding-promises-in-js-1a3)
 - [Lifehacker] [Wake up With Cold Brew Overnight Oats](https://lifehacker.com/wake-up-with-cold-brew-overnight-oats-1850506140)
+- [Dev.to/JS] [👋 Say Goodbye to Spread Operator: Use Default Composer](https://dev.to/aralroca/say-goodbye-to-spread-operator-use-default-composer-3c2j)
 - [Lifehacker] [These JBL Wireless Earbuds are 60% Off Right Now](https://lifehacker.com/these-jbl-wireless-earbuds-are-60-off-right-now-1850493650)
 - [Dev.to/JS] [Deploy an ERC-721 Contract on Linea using Infura and Truffle Introduction](https://dev.to/mbogan/deploy-an-erc-721-contract-on-linea-using-infura-and-truffle-introduction-c0j)
 - [Dev.to/JS] [Primeiro bot do Discord para envio de lembrete: do zero ao deploy! #PASSO2️⃣](https://dev.to/jacksonsantin/primeiro-bot-do-discord-para-envio-de-lembrete-do-zero-ao-deploy-passo2-1jed)
-- [Dev.to/JS] [Sweeter Promises: The Love Affair of JavaScript Promises.](https://dev.to/codetobug/sweeter-promises-the-love-affair-of-javascript-promises-c63)
 - [Lifehacker] [How to Grow a Permaculture Food Forest in Your Yard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-grow-a-permaculture-food-forest-in-your-yard-an-1850505292)
-- [Dev.to/JS] [How to Drag a Shape Along an SVG Ellipse Path: A Step-by-Step Guide](https://dev.to/mzusin/how-to-drag-a-shape-along-an-svg-ellipse-path-a-step-by-step-guide-3b66)
 - [Lifehacker] [Multitasking Is Making You Worse at Everything](https://lifehacker.com/multitasking-is-making-you-worse-at-everything-1850505967)
-- [Dev.to/JS] [Mastering array sorting in JavaScript: a guide to the sort&lpar;&rpar; function](https://dev.to/salvietta150x40/mastering-array-sorting-in-javascript-a-guide-to-the-sort-function-3j7)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, Jun 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-jun-2023-12hc)
-- [Dev.to/JS] [3.14 - Adam Argyle Presents CSS Features for 2023 and beyond!](https://dev.to/codingcatdev/314-adam-argyle-presents-css-features-for-2023-and-beyond-1pal)
-- [Dev.to/JS] [Does anyone can help me to start with the #javascript ?](https://dev.to/artemka553/does-anyone-can-help-me-to-start-with-the-javascript--55hd)
-- [Dev.to/JS] [The Payment Request API: Revolutionizing Online Payments &lpar;Part 2&rpar;](https://dev.to/salvietta150x40/the-payment-request-api-revolutionizing-online-payments-part-2-6cn)
 - [Lifehacker] [This New Kayak Tool Will Tell You the Best Time to Travel](https://lifehacker.com/this-new-kayak-tool-will-tell-you-the-best-time-to-trav-1850502050)
 - [Lifehacker] [The Best Ways to Eliminate Junk Mail](https://lifehacker.com/the-best-ways-to-eliminate-junk-mail-1850503997)
 - [Lifehacker] [What&#39;s a &#39;0.5 Selfie?&#39;](https://lifehacker.com/whats-a-0-5-selfie-1850501012)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This DIY Rolling Umbrella Stand Doubles As a Planter](https://lifehacker.com/this-diy-rolling-umbrella-stand-doubles-as-a-planter-1850498827)
 - [Lifehacker] [PlayStation Plus Is Having a Great Sale](https://lifehacker.com/playstation-plus-is-having-a-great-sale-1850500018)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Bed Rotting&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-b-1850500032)
-- [Lifehacker] [When to Skip Your Company’s 401&lpar;k&rpar;](https://lifehacker.com/when-to-skip-your-company-s-401-k-1850499838)
-- [Lifehacker] [The Weirdest Things You Can Buy at Temu, the Internet’s New Favorite Jumble Sale](https://lifehacker.com/the-weirdest-things-you-can-buy-at-temu-the-internet-s-1850497999)
-- [Lifehacker] [All the Ways You Should Be Using Your College Counseling Center](https://lifehacker.com/all-the-ways-you-should-be-using-your-college-counselin-1850499484)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When to Skip Your Company’s 401&lpar;k&rpar;](https://lifehacker.com/when-to-skip-your-company-s-401-k-1850499838)<!-- TECH-POSTS:END -->
 
 ---
 
