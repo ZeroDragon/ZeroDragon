@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This New Kayak Tool Will Tell You the Best Time to Travel](https://lifehacker.com/this-new-kayak-tool-will-tell-you-the-best-time-to-trav-1850502050)
+- [Dev.to/JS] [Understanding the Insertion Sort Algorithm](https://dev.to/marcossnikel/understanding-the-insertion-sort-algorithm-4pic)
+- [Dev.to/JS] [I am Full Stack Developer](https://dev.to/allarounddev/i-am-full-stack-developer-5dhp)
+- [Lifehacker] [The Best Ways to Eliminate Junk Mail](https://lifehacker.com/the-best-ways-to-eliminate-junk-mail-1850503997)
+- [Dev.to/JS] [Dynamic Permissions in React using CASL: A Guide to Secure Your App🔒](https://dev.to/naufalafif/dynamic-permissions-in-react-using-casl-a-guide-to-secure-your-app-2ino)
+- [Dev.to/JS] [SolidJS: Consume REST API in an elegant way](https://dev.to/zenika/solidjs-consume-rest-api-in-an-elegant-way-39gg)
+- [Lifehacker] [What&#39;s a &#39;0.5 Selfie?&#39;](https://lifehacker.com/whats-a-0-5-selfie-1850501012)
 - [Dev.to/JS] [How to change all of one element&#39;s CSS in JavaScript!](https://dev.to/analyze0/how-to-change-all-of-one-elements-css-in-javascript-1obl)
 - [Dev.to/JS] [Primeiro bot do Discord para envio de lembrete: do zero ao deploy! #PASSO1️⃣](https://dev.to/jacksonsantin/primeiro-bot-do-discord-para-envio-de-lembrete-do-zero-ao-deploy-passo1-33ok)
 - [Dev.to/JS] [7 Common Mistakes React Developers make](https://dev.to/devland/7-common-mistakes-react-developers-make-3p21)
@@ -33,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are SPA, SSR, and SSG?](https://dev.to/th3sn0wm4n/what-are-spa-ssr-and-ssg-4222)
 - [Dev.to/JS] [How to Install NodeJs on Linux](https://dev.to/sarveshsp/how-to-install-nodejs-on-linux-2fio)
 - [Lifehacker] [This Trader Joe&#39;s Dip Makes a Pretty Great Soup](https://lifehacker.com/this-trader-joes-dip-makes-a-pretty-great-soup-1850501276)
-- [Dev.to/JS] [Правила та плагіни в ESlint](https://dev.to/dmytrych/pravila-ta-plaghini-v-eslint-4113)
-- [Dev.to/JS] [Creating Single-page Component Using Best Practices](https://dev.to/kaperskyguru/creating-single-page-component-using-best-practices-3l4m)
-- [Dev.to/JS] [Basic JavaScript Interview Question 7: Explain Implicit Type Coercion in JavaScript.](https://dev.to/sharmakshitij18/basic-javascript-interview-question-7-explain-implicit-type-coercion-in-javascript-58b4)
-- [Dev.to/JS] [Exploring the Ethereum Network: Fetching Account Balance with ethers.js](https://dev.to/yashdev9274/exploring-the-ethereum-network-fetching-account-balance-with-ethersjs-1eo0)
 - [Lifehacker] [Your Basement Laundry Room Can Be Better](https://lifehacker.com/your-basement-laundry-room-can-be-better-1850501517)
 - [Lifehacker] [The Worst Airlines You Should Avoid, If You Can](https://lifehacker.com/the-worst-airlines-you-should-avoid-if-you-can-1850501522)
 - [Lifehacker] [Avoid Planting These Vegetables in Containers](https://lifehacker.com/avoid-planting-these-vegetables-in-containers-1850501535)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Ways to Remove a Rusty Screw](https://lifehacker.com/five-ways-to-remove-a-rusty-screw-1850498754)
 - [Lifehacker] [Get a Refurbished iPad Air and Beats Headphones for $115](https://lifehacker.com/get-a-refurbished-ipad-air-and-beats-headphones-for-11-1850489794)
 - [Lifehacker] [The Easiest Way to Silence Your Inner Critic](https://lifehacker.com/the-easiest-way-to-silence-your-inner-critic-1850497775)
-- [Lifehacker] [Why You Should Stop Watering Your Plants in the Middle of the Day](https://lifehacker.com/why-you-should-stop-watering-your-plants-in-the-middle-1850497331)
-- [Lifehacker] [The Three-Step Financial Checklist Every College Grad Needs](https://lifehacker.com/the-three-step-financial-checklist-every-college-grad-n-1850496495)
-- [Lifehacker] [Create a Simple Wardrobe Catalog on Your iPhone](https://lifehacker.com/create-a-simple-wardrobe-catalog-on-your-iphone-1850495680)
-- [Lifehacker] [Beware of These Scams the Next Time You Move](https://lifehacker.com/beware-of-these-scams-the-next-time-you-move-1850493049)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Stop Watering Your Plants in the Middle of the Day](https://lifehacker.com/why-you-should-stop-watering-your-plants-in-the-middle-1850497331)<!-- TECH-POSTS:END -->
 
 ---
 
