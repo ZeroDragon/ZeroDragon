@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Authentication system using Golang and Sveltekit - Frontend Log in and out](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-frontend-log-in-and-out-3l5h)
+- [Lifehacker] [Pancake Bread Pretty Much Makes Itself](https://lifehacker.com/pancake-bread-pretty-much-makes-itself-1850507100)
 - [Lifehacker] [You Can Get a Deeper Connect Mini VPN for Over 40% Off Right Now](https://lifehacker.com/you-can-get-a-deeper-connect-mini-vpn-for-over-40-off-1850489824)
 - [Lifehacker] [12 Podcasts That Explore the Weirder Corners of the Internet](https://lifehacker.com/12-podcasts-that-explore-the-weirder-corners-of-the-int-1850503607)
 - [Dev.to/JS] [Apollo Federation v2 compatible OSS licensed Gateway coming soon.](https://dev.to/slickstef11/apollo-federation-v2-compatible-oss-licensed-gateway-coming-soon-355)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is control flow based narrowing in TypeScript?](https://dev.to/typescripttv/what-is-control-flow-based-narrowing-in-typescript-55k2)
 - [Dev.to/JS] [Understanding Promises in JS](https://dev.to/ashishkankal/understanding-promises-in-js-1a3)
 - [Lifehacker] [Wake up With Cold Brew Overnight Oats](https://lifehacker.com/wake-up-with-cold-brew-overnight-oats-1850506140)
-- [Dev.to/JS] [👋 Say Goodbye to Spread Operator: Use Default Composer](https://dev.to/aralroca/say-goodbye-to-spread-operator-use-default-composer-3c2j)
 - [Lifehacker] [These JBL Wireless Earbuds are 60% Off Right Now](https://lifehacker.com/these-jbl-wireless-earbuds-are-60-off-right-now-1850493650)
 - [Lifehacker] [How to Grow a Permaculture Food Forest in Your Yard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-grow-a-permaculture-food-forest-in-your-yard-an-1850505292)
 - [Lifehacker] [Multitasking Is Making You Worse at Everything](https://lifehacker.com/multitasking-is-making-you-worse-at-everything-1850505967)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here Are All the Astro Events to Watch in June](https://lifehacker.com/here-are-all-the-astro-events-to-watch-in-june-1850500214)
 - [Lifehacker] [Your Doctor’s and Lawyer’s ‘Rankings’ and ‘Awards’ Are Probably Fake](https://lifehacker.com/your-doctor-s-and-lawyer-s-rankings-and-awards-are-1850500367)
 - [Lifehacker] [&#39;Lung Detoxes&#39; Are the TikTok Myth of the Week](https://lifehacker.com/lung-detoxes-are-the-tiktok-myth-of-the-week-1850500657)
-- [Lifehacker] [You Can Get a Refurbished Lenovo ThinkPad and Microsoft Office for $200](https://lifehacker.com/you-can-get-a-refurbished-lenovo-thinkpad-and-microsoft-1850480431)
-- [Lifehacker] [This DIY Rolling Umbrella Stand Doubles As a Planter](https://lifehacker.com/this-diy-rolling-umbrella-stand-doubles-as-a-planter-1850498827)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a Refurbished Lenovo ThinkPad and Microsoft Office for $200](https://lifehacker.com/you-can-get-a-refurbished-lenovo-thinkpad-and-microsoft-1850480431)<!-- TECH-POSTS:END -->
 
 ---
 
