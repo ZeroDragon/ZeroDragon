@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating Single-page Component Using Best Practices](https://dev.to/kaperskyguru/creating-single-page-component-using-best-practices-3l4m)
+- [Dev.to/JS] [Basic JavaScript Interview Question 7: Explain Implicit Type Coercion in JavaScript.](https://dev.to/sharmakshitij18/basic-javascript-interview-question-7-explain-implicit-type-coercion-in-javascript-58b4)
+- [Dev.to/JS] [Exploring the Ethereum Network: Fetching Account Balance with ethers.js](https://dev.to/yashdev9274/exploring-the-ethereum-network-fetching-account-balance-with-ethersjs-1eo0)
 - [Dev.to/JS] [&lt;Code&gt; like you talk!](https://dev.to/aiformewiki/like-you-talk-4ale)
 - [Dev.to/JS] [Comprendre les tableaux en Javascript](https://dev.to/kureru/comprendre-les-tableaux-en-javascript-3boh)
 - [Dev.to/JS] [Performance Audits with Lighthouse CI &amp; GitHub Actions](https://dev.to/jacobandrewsky/performance-audits-with-lighthouse-ci-github-actions-3g0g)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript - toReversed&lpar;&rpar; Method](https://dev.to/kristiyan_velkov/javascript-toreversed-method-3hk9)
 - [Dev.to/JS] [{Code} As Fast As You Think!](https://dev.to/aiformewiki/code-as-fast-as-you-think-l72)
 - [Dev.to/JS] [Exploring Object-Oriented Programming with TypeScript](https://dev.to/wizdomtek/exploring-object-oriented-programming-with-typescript-22b)
-- [Dev.to/JS] [Vue Directives and many more](https://dev.to/githukelvin/vue-directives-and-many-more-9m3)
-- [Dev.to/JS] [Nervogen Pro – Pain Relief Reviews, Benefits, Price And Results?](https://dev.to/nervogenpr12830/nervogen-pro-pain-relief-reviews-benefits-price-and-results-30po)
-- [Dev.to/JS] [Creating React Components and using Props](https://dev.to/rabibsust/creating-react-components-and-using-props-2nec)
 - [Lifehacker] [Your Basement Laundry Room Can Be Better](https://lifehacker.com/your-basement-laundry-room-can-be-better-1850501517)
 - [Lifehacker] [The Worst Airlines You Should Avoid, If You Can](https://lifehacker.com/the-worst-airlines-you-should-avoid-if-you-can-1850501522)
 - [Lifehacker] [Avoid Planting These Vegetables in Containers](https://lifehacker.com/avoid-planting-these-vegetables-in-containers-1850501535)
