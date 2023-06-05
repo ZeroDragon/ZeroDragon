@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [One ORM to map them all](https://dev.to/slickstef11/one-orm-to-map-them-all-3paf)
+- [Dev.to/JS] [What is control flow based narrowing in TypeScript?](https://dev.to/typescripttv/what-is-control-flow-based-narrowing-in-typescript-55k2)
+- [Dev.to/JS] [Understanding Promises in JS](https://dev.to/ashishkankal/understanding-promises-in-js-1a3)
+- [Lifehacker] [Wake up With Cold Brew Overnight Oats](https://lifehacker.com/wake-up-with-cold-brew-overnight-oats-1850506140)
 - [Lifehacker] [These JBL Wireless Earbuds are 60% Off Right Now](https://lifehacker.com/these-jbl-wireless-earbuds-are-60-off-right-now-1850493650)
 - [Dev.to/JS] [Deploy an ERC-721 Contract on Linea using Infura and Truffle Introduction](https://dev.to/mbogan/deploy-an-erc-721-contract-on-linea-using-infura-and-truffle-introduction-c0j)
 - [Dev.to/JS] [Primeiro bot do Discord para envio de lembrete: do zero ao deploy! #PASSO2️⃣](https://dev.to/jacksonsantin/primeiro-bot-do-discord-para-envio-de-lembrete-do-zero-ao-deploy-passo2-1jed)
@@ -36,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Does anyone can help me to start with the #javascript ?](https://dev.to/artemka553/does-anyone-can-help-me-to-start-with-the-javascript--55hd)
 - [Dev.to/JS] [The Payment Request API: Revolutionizing Online Payments &lpar;Part 2&rpar;](https://dev.to/salvietta150x40/the-payment-request-api-revolutionizing-online-payments-part-2-6cn)
 - [Lifehacker] [This New Kayak Tool Will Tell You the Best Time to Travel](https://lifehacker.com/this-new-kayak-tool-will-tell-you-the-best-time-to-trav-1850502050)
-- [Dev.to/JS] [Mastering Front-end web development with help of scrimba.com](https://dev.to/shanza14/mastering-front-end-web-development-with-help-of-scrimbacom-4ooa)
-- [Dev.to/JS] [Understanding the Insertion Sort Algorithm](https://dev.to/marcossnikel/understanding-the-insertion-sort-algorithm-4pic)
-- [Dev.to/JS] [I am Full Stack Developer](https://dev.to/allarounddev/i-am-full-stack-developer-5dhp)
 - [Lifehacker] [The Best Ways to Eliminate Junk Mail](https://lifehacker.com/the-best-ways-to-eliminate-junk-mail-1850503997)
 - [Lifehacker] [What&#39;s a &#39;0.5 Selfie?&#39;](https://lifehacker.com/whats-a-0-5-selfie-1850501012)
 - [Lifehacker] [15 Video Games With Incredible Art Styles](https://lifehacker.com/15-video-games-with-incredible-art-styles-1850501132)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Bed Rotting&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-b-1850500032)
 - [Lifehacker] [When to Skip Your Company’s 401&lpar;k&rpar;](https://lifehacker.com/when-to-skip-your-company-s-401-k-1850499838)
 - [Lifehacker] [The Weirdest Things You Can Buy at Temu, the Internet’s New Favorite Jumble Sale](https://lifehacker.com/the-weirdest-things-you-can-buy-at-temu-the-internet-s-1850497999)
-- [Lifehacker] [All the Ways You Should Be Using Your College Counseling Center](https://lifehacker.com/all-the-ways-you-should-be-using-your-college-counselin-1850499484)
-- [Lifehacker] [Five Ways to Remove a Rusty Screw](https://lifehacker.com/five-ways-to-remove-a-rusty-screw-1850498754)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Ways You Should Be Using Your College Counseling Center](https://lifehacker.com/all-the-ways-you-should-be-using-your-college-counselin-1850499484)<!-- TECH-POSTS:END -->
 
 ---
 
