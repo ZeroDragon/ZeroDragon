@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Trader Joe&#39;s Dip Makes a Pretty Great Soup](https://lifehacker.com/this-trader-joes-dip-makes-a-pretty-great-soup-1850501276)
+- [Dev.to/JS] [Правила та плагіни в ESlint](https://dev.to/dmytrych/pravila-ta-plaghini-v-eslint-4113)
 - [Dev.to/JS] [Creating Single-page Component Using Best Practices](https://dev.to/kaperskyguru/creating-single-page-component-using-best-practices-3l4m)
 - [Dev.to/JS] [Basic JavaScript Interview Question 7: Explain Implicit Type Coercion in JavaScript.](https://dev.to/sharmakshitij18/basic-javascript-interview-question-7-explain-implicit-type-coercion-in-javascript-58b4)
 - [Dev.to/JS] [Exploring the Ethereum Network: Fetching Account Balance with ethers.js](https://dev.to/yashdev9274/exploring-the-ethereum-network-fetching-account-balance-with-ethersjs-1eo0)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding JavaScript Strict Mode](https://dev.to/accreditly/understanding-javascript-strict-mode-4e3j)
 - [Dev.to/JS] [JavaScript - toReversed&lpar;&rpar; Method](https://dev.to/kristiyan_velkov/javascript-toreversed-method-3hk9)
 - [Dev.to/JS] [{Code} As Fast As You Think!](https://dev.to/aiformewiki/code-as-fast-as-you-think-l72)
-- [Dev.to/JS] [Exploring Object-Oriented Programming with TypeScript](https://dev.to/wizdomtek/exploring-object-oriented-programming-with-typescript-22b)
 - [Lifehacker] [Your Basement Laundry Room Can Be Better](https://lifehacker.com/your-basement-laundry-room-can-be-better-1850501517)
 - [Lifehacker] [The Worst Airlines You Should Avoid, If You Can](https://lifehacker.com/the-worst-airlines-you-should-avoid-if-you-can-1850501522)
 - [Lifehacker] [Avoid Planting These Vegetables in Containers](https://lifehacker.com/avoid-planting-these-vegetables-in-containers-1850501535)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Three-Step Financial Checklist Every College Grad Needs](https://lifehacker.com/the-three-step-financial-checklist-every-college-grad-n-1850496495)
 - [Lifehacker] [Create a Simple Wardrobe Catalog on Your iPhone](https://lifehacker.com/create-a-simple-wardrobe-catalog-on-your-iphone-1850495680)
 - [Lifehacker] [Beware of These Scams the Next Time You Move](https://lifehacker.com/beware-of-these-scams-the-next-time-you-move-1850493049)
-- [Lifehacker] [Make This Retro Party Snack in Your Air Fryer](https://lifehacker.com/make-this-retro-party-snack-in-your-air-fryer-1850496989)
-- [Lifehacker] [All the New Android Features Google Just Announced](https://lifehacker.com/all-the-new-android-features-google-just-announced-1850495604)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make This Retro Party Snack in Your Air Fryer](https://lifehacker.com/make-this-retro-party-snack-in-your-air-fryer-1850496989)<!-- TECH-POSTS:END -->
 
 ---
 
