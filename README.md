@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simplify Your Tailwind CSS Workflow with tailwind-fun](https://dev.to/hanipcode/simplify-your-tailwind-css-workflow-with-tailwind-fun-3dhp)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 16: FreeCodeCamp JavaScript Algorithms and Data Structures &amp; PHP](https://dev.to/alexmgp7/100-days-coding-challenge-day-15-freecodecamp-javascript-algorithms-and-data-structures-php-3o9a)
 - [Dev.to/JS] [A Twitter Bot for Personalized Replies to Your Followings and Targeted Keywords!](https://dev.to/sojinsamuel/a-twitter-bot-for-personalized-replies-to-your-followings-and-targeted-keywords-11b6)
 - [Dev.to/JS] [Understanding and Applying Array Methods in JavaScript](https://dev.to/martinsonuoha/understanding-and-applying-array-methods-in-javascript-3d80)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Part &lpar;2&rpar;: Operators and Expressions in JavaScript](https://dev.to/cliff123tech/operators-and-expressions-in-javascript-196o)
 - [Dev.to/JS] [The Two Pillars of Algorithm Performance: Time and Space Complexity](https://dev.to/guaregua19/the-two-pillars-of-algorithm-performance-time-and-space-complexity-1118)
 - [Dev.to/JS] [Titanium News #16](https://dev.to/miga/titanium-news-16-46hf)
-- [Dev.to/JS] [Fleet un editor de texto minimalista](https://dev.to/ulisesserranop/fleet-un-editor-de-texto-minimalista-23j0)
 - [Lifehacker] [Your Basement Laundry Room Can Be Better](https://lifehacker.com/your-basement-laundry-room-can-be-better-1850501517)
 - [Lifehacker] [The Worst Airlines You Should Avoid, If You Can](https://lifehacker.com/the-worst-airlines-you-should-avoid-if-you-can-1850501522)
 - [Lifehacker] [Avoid Planting These Vegetables in Containers](https://lifehacker.com/avoid-planting-these-vegetables-in-containers-1850501535)
