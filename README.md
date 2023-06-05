@@ -23,19 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to change all of one element&#39;s CSS in JavaScript!](https://dev.to/analyze0/how-to-change-all-of-one-elements-css-in-javascript-1obl)
+- [Dev.to/JS] [Primeiro bot do Discord para envio de lembrete: do zero ao deploy! #PASSO1️⃣](https://dev.to/jacksonsantin/primeiro-bot-do-discord-para-envio-de-lembrete-do-zero-ao-deploy-passo1-33ok)
+- [Dev.to/JS] [7 Common Mistakes React Developers make](https://dev.to/devland/7-common-mistakes-react-developers-make-3p21)
+- [Dev.to/JS] [Build Components Without a Framework: What You Need To Know About Web Components](https://dev.to/heather_veva/build-components-without-a-framework-what-you-need-to-know-about-web-components-3ebn)
+- [Dev.to/JS] [What are variables? - JavaScript](https://dev.to/analyze0/what-are-variables-javascript-p78)
+- [Dev.to/JS] [Remounting Issue with State Change in a Custom React Grid Component](https://dev.to/sk161/remounting-issue-with-state-change-in-a-custom-react-grid-component-1bfa)
+- [Lifehacker] [15 Video Games With Incredible Art Styles](https://lifehacker.com/15-video-games-with-incredible-art-styles-1850501132)
+- [Dev.to/JS] [What are SPA, SSR, and SSG?](https://dev.to/th3sn0wm4n/what-are-spa-ssr-and-ssg-4222)
+- [Dev.to/JS] [How to Install NodeJs on Linux](https://dev.to/sarveshsp/how-to-install-nodejs-on-linux-2fio)
 - [Lifehacker] [This Trader Joe&#39;s Dip Makes a Pretty Great Soup](https://lifehacker.com/this-trader-joes-dip-makes-a-pretty-great-soup-1850501276)
 - [Dev.to/JS] [Правила та плагіни в ESlint](https://dev.to/dmytrych/pravila-ta-plaghini-v-eslint-4113)
 - [Dev.to/JS] [Creating Single-page Component Using Best Practices](https://dev.to/kaperskyguru/creating-single-page-component-using-best-practices-3l4m)
 - [Dev.to/JS] [Basic JavaScript Interview Question 7: Explain Implicit Type Coercion in JavaScript.](https://dev.to/sharmakshitij18/basic-javascript-interview-question-7-explain-implicit-type-coercion-in-javascript-58b4)
 - [Dev.to/JS] [Exploring the Ethereum Network: Fetching Account Balance with ethers.js](https://dev.to/yashdev9274/exploring-the-ethereum-network-fetching-account-balance-with-ethersjs-1eo0)
-- [Dev.to/JS] [&lt;Code&gt; like you talk!](https://dev.to/aiformewiki/like-you-talk-4ale)
-- [Dev.to/JS] [Comprendre les tableaux en Javascript](https://dev.to/kureru/comprendre-les-tableaux-en-javascript-3boh)
-- [Dev.to/JS] [Performance Audits with Lighthouse CI &amp; GitHub Actions](https://dev.to/jacobandrewsky/performance-audits-with-lighthouse-ci-github-actions-3g0g)
-- [Dev.to/JS] [The Artistry of Front-End Development: Building Captivating User Experiences](https://dev.to/ankittmeena/the-artistry-of-front-end-development-building-captivating-user-experiences-5dfg)
-- [Dev.to/JS] [Astro Font Fallbacks with Capsize: reduce CLS](https://dev.to/askrodney/astro-font-fallbacks-with-capsize-reduce-cls-197b)
-- [Dev.to/JS] [Understanding JavaScript Strict Mode](https://dev.to/accreditly/understanding-javascript-strict-mode-4e3j)
-- [Dev.to/JS] [JavaScript - toReversed&lpar;&rpar; Method](https://dev.to/kristiyan_velkov/javascript-toreversed-method-3hk9)
-- [Dev.to/JS] [{Code} As Fast As You Think!](https://dev.to/aiformewiki/code-as-fast-as-you-think-l72)
 - [Lifehacker] [Your Basement Laundry Room Can Be Better](https://lifehacker.com/your-basement-laundry-room-can-be-better-1850501517)
 - [Lifehacker] [The Worst Airlines You Should Avoid, If You Can](https://lifehacker.com/the-worst-airlines-you-should-avoid-if-you-can-1850501522)
 - [Lifehacker] [Avoid Planting These Vegetables in Containers](https://lifehacker.com/avoid-planting-these-vegetables-in-containers-1850501535)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Stop Watering Your Plants in the Middle of the Day](https://lifehacker.com/why-you-should-stop-watering-your-plants-in-the-middle-1850497331)
 - [Lifehacker] [The Three-Step Financial Checklist Every College Grad Needs](https://lifehacker.com/the-three-step-financial-checklist-every-college-grad-n-1850496495)
 - [Lifehacker] [Create a Simple Wardrobe Catalog on Your iPhone](https://lifehacker.com/create-a-simple-wardrobe-catalog-on-your-iphone-1850495680)
-- [Lifehacker] [Beware of These Scams the Next Time You Move](https://lifehacker.com/beware-of-these-scams-the-next-time-you-move-1850493049)
-- [Lifehacker] [Make This Retro Party Snack in Your Air Fryer](https://lifehacker.com/make-this-retro-party-snack-in-your-air-fryer-1850496989)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Beware of These Scams the Next Time You Move](https://lifehacker.com/beware-of-these-scams-the-next-time-you-move-1850493049)<!-- TECH-POSTS:END -->
 
 ---
 
