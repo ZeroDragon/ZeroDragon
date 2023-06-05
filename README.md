@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Const Keyword in javascript](https://dev.to/gaurbprajapati/const-keyword-in-javascript-14o2)
+- [Dev.to/JS] [Let Keyword in javascript](https://dev.to/gaurbprajapati/let-keyword-in-javascript-mdm)
+- [Dev.to/JS] [VAR in Javascript](https://dev.to/gaurbprajapati/var-in-javascript-36pn)
+- [Dev.to/JS] [Different Types of JavaSript Functions](https://dev.to/gaurbprajapati/different-types-of-javasript-functions-4pn7)
+- [Lifehacker] [Everything Apple Announced at WWDC 2023](https://lifehacker.com/everything-apple-announced-at-wwdc-2023-1850506825)
+- [Dev.to/JS] [Closure in javascript Complete concept](https://dev.to/gaurbprajapati/closure-in-javascript-complete-concept-9i0)
+- [Dev.to/JS] [Complete Concept Callback function in javascript](https://dev.to/gaurbprajapati/complete-concept-callback-function-in-javascript-893)
+- [Dev.to/JS] [Building a Full-Stack ChatGPT app](https://dev.to/ianmacartney/building-a-full-stack-chatgpt-app-58nm)
+- [Lifehacker] [The 10 Best New Features in watchOS 10](https://lifehacker.com/the-10-best-new-features-in-watchos-10-1850507797)
 - [Dev.to/JS] [Authentication system using Golang and Sveltekit - Frontend Log in and out](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-frontend-log-in-and-out-3l5h)
 - [Lifehacker] [Pancake Bread Pretty Much Makes Itself](https://lifehacker.com/pancake-bread-pretty-much-makes-itself-1850507100)
 - [Lifehacker] [You Can Get a Deeper Connect Mini VPN for Over 40% Off Right Now](https://lifehacker.com/you-can-get-a-deeper-connect-mini-vpn-for-over-40-off-1850489824)
@@ -32,15 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [We started to approach code reviews as engineering tasks. We&#39;re merging now faster than ever](https://dev.to/imri/we-started-to-approach-code-reviews-as-engineering-tasks-were-merging-code-now-faster-than-ever-1hfp)
 - [Lifehacker] [Start Each Week With This Digital Decluttering Method](https://lifehacker.com/start-each-week-with-this-digital-decluttering-method-1850507159)
 - [Dev.to/JS] [React&#39;s arrow of Reconciliation](https://dev.to/rounit08/reacts-arrow-of-reconciliation-4b07)
-- [Dev.to/JS] [Server State vs Client State in React for Beginners](https://dev.to/jeetvora331/server-state-vs-client-state-in-react-for-beginners-3pl6)
-- [Dev.to/JS] [Top 5+ Free Tailwind CSS React Admin Dashboards &amp; Templates for 2023](https://dev.to/hamzadvlpr/top-5-free-tailwind-css-react-admin-dashboards-templates-for-2023-gk0)
 - [Lifehacker] [10 Security Settings That Protect Your iPhone From Thieves](https://lifehacker.com/10-security-settings-you-should-use-to-protect-your-iph-1850506736)
-- [Dev.to/JS] [Lifecycle methods alternative in React functional components](https://dev.to/ashishkankal/lifecycle-methods-alternative-in-react-functional-components-263e)
-- [Dev.to/JS] [How to Deploy a FullStack NodeJs and Express App on Vercel](https://dev.to/vinyldavyl/how-to-deploy-a-fullstack-nodejs-and-express-app-on-vercel-1ghb)
 - [Lifehacker] [How to Financially Prepare for Your Parents or In-Laws to Move In](https://lifehacker.com/how-to-financially-prepare-for-your-parents-or-in-laws-1850506455)
-- [Dev.to/JS] [One ORM to map them all](https://dev.to/slickstef11/one-orm-to-map-them-all-3paf)
-- [Dev.to/JS] [What is control flow based narrowing in TypeScript?](https://dev.to/typescripttv/what-is-control-flow-based-narrowing-in-typescript-55k2)
-- [Dev.to/JS] [Understanding Promises in JS](https://dev.to/ashishkankal/understanding-promises-in-js-1a3)
 - [Lifehacker] [Wake up With Cold Brew Overnight Oats](https://lifehacker.com/wake-up-with-cold-brew-overnight-oats-1850506140)
 - [Lifehacker] [These JBL Wireless Earbuds are 60% Off Right Now](https://lifehacker.com/these-jbl-wireless-earbuds-are-60-off-right-now-1850493650)
 - [Lifehacker] [How to Grow a Permaculture Food Forest in Your Yard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-grow-a-permaculture-food-forest-in-your-yard-an-1850505292)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Stop Feeling Guilty About Your Kid&#39;s Screen Time](https://lifehacker.com/why-you-should-stop-feeling-guilty-about-your-kids-scre-1850500959)
 - [Lifehacker] [Don’t Miss These June Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-june-class-action-settlement-deadlines-1850501393)
 - [Lifehacker] [Here Are All the Astro Events to Watch in June](https://lifehacker.com/here-are-all-the-astro-events-to-watch-in-june-1850500214)
-- [Lifehacker] [Your Doctor’s and Lawyer’s ‘Rankings’ and ‘Awards’ Are Probably Fake](https://lifehacker.com/your-doctor-s-and-lawyer-s-rankings-and-awards-are-1850500367)
-- [Lifehacker] [&#39;Lung Detoxes&#39; Are the TikTok Myth of the Week](https://lifehacker.com/lung-detoxes-are-the-tiktok-myth-of-the-week-1850500657)
-- [Lifehacker] [You Can Get a Refurbished Lenovo ThinkPad and Microsoft Office for $200](https://lifehacker.com/you-can-get-a-refurbished-lenovo-thinkpad-and-microsoft-1850480431)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Doctor’s and Lawyer’s ‘Rankings’ and ‘Awards’ Are Probably Fake](https://lifehacker.com/your-doctor-s-and-lawyer-s-rankings-and-awards-are-1850500367)<!-- TECH-POSTS:END -->
 
 ---
 
