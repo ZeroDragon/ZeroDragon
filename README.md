@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get a Deeper Connect Mini VPN for Over 40% Off Right Now](https://lifehacker.com/you-can-get-a-deeper-connect-mini-vpn-for-over-40-off-1850489824)
+- [Lifehacker] [12 Podcasts That Explore the Weirder Corners of the Internet](https://lifehacker.com/12-podcasts-that-explore-the-weirder-corners-of-the-int-1850503607)
+- [Dev.to/JS] [Apollo Federation v2 compatible OSS licensed Gateway coming soon.](https://dev.to/slickstef11/apollo-federation-v2-compatible-oss-licensed-gateway-coming-soon-355)
 - [Dev.to/JS] [Unlock the Power of JavaScript Immutability: Supercharge Your Code with Bug-Free and Predictable Development!](https://dev.to/pappijx/unlock-the-power-of-javascript-immutability-supercharge-your-code-with-bug-free-and-predictable-development-1hpa)
+- [Dev.to/JS] [We started to approach code reviews as engineering tasks. We&#39;re merging now faster than ever](https://dev.to/imri/we-started-to-approach-code-reviews-as-engineering-tasks-were-merging-code-now-faster-than-ever-1hfp)
+- [Lifehacker] [Start Each Week With This Digital Decluttering Method](https://lifehacker.com/start-each-week-with-this-digital-decluttering-method-1850507159)
 - [Dev.to/JS] [React&#39;s arrow of Reconciliation](https://dev.to/rounit08/reacts-arrow-of-reconciliation-4b07)
 - [Dev.to/JS] [Server State vs Client State in React for Beginners](https://dev.to/jeetvora331/server-state-vs-client-state-in-react-for-beginners-3pl6)
 - [Dev.to/JS] [Top 5+ Free Tailwind CSS React Admin Dashboards &amp; Templates for 2023](https://dev.to/hamzadvlpr/top-5-free-tailwind-css-react-admin-dashboards-templates-for-2023-gk0)
@@ -37,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Wake up With Cold Brew Overnight Oats](https://lifehacker.com/wake-up-with-cold-brew-overnight-oats-1850506140)
 - [Dev.to/JS] [👋 Say Goodbye to Spread Operator: Use Default Composer](https://dev.to/aralroca/say-goodbye-to-spread-operator-use-default-composer-3c2j)
 - [Lifehacker] [These JBL Wireless Earbuds are 60% Off Right Now](https://lifehacker.com/these-jbl-wireless-earbuds-are-60-off-right-now-1850493650)
-- [Dev.to/JS] [Deploy an ERC-721 Contract on Linea using Infura and Truffle Introduction](https://dev.to/mbogan/deploy-an-erc-721-contract-on-linea-using-infura-and-truffle-introduction-c0j)
-- [Dev.to/JS] [Primeiro bot do Discord para envio de lembrete: do zero ao deploy! #PASSO2️⃣](https://dev.to/jacksonsantin/primeiro-bot-do-discord-para-envio-de-lembrete-do-zero-ao-deploy-passo2-1jed)
 - [Lifehacker] [How to Grow a Permaculture Food Forest in Your Yard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-grow-a-permaculture-food-forest-in-your-yard-an-1850505292)
 - [Lifehacker] [Multitasking Is Making You Worse at Everything](https://lifehacker.com/multitasking-is-making-you-worse-at-everything-1850505967)
 - [Lifehacker] [This New Kayak Tool Will Tell You the Best Time to Travel](https://lifehacker.com/this-new-kayak-tool-will-tell-you-the-best-time-to-trav-1850502050)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Doctor’s and Lawyer’s ‘Rankings’ and ‘Awards’ Are Probably Fake](https://lifehacker.com/your-doctor-s-and-lawyer-s-rankings-and-awards-are-1850500367)
 - [Lifehacker] [&#39;Lung Detoxes&#39; Are the TikTok Myth of the Week](https://lifehacker.com/lung-detoxes-are-the-tiktok-myth-of-the-week-1850500657)
 - [Lifehacker] [You Can Get a Refurbished Lenovo ThinkPad and Microsoft Office for $200](https://lifehacker.com/you-can-get-a-refurbished-lenovo-thinkpad-and-microsoft-1850480431)
-- [Lifehacker] [This DIY Rolling Umbrella Stand Doubles As a Planter](https://lifehacker.com/this-diy-rolling-umbrella-stand-doubles-as-a-planter-1850498827)
-- [Lifehacker] [PlayStation Plus Is Having a Great Sale](https://lifehacker.com/playstation-plus-is-having-a-great-sale-1850500018)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What is &#39;Bed Rotting&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-b-1850500032)
-- [Lifehacker] [When to Skip Your Company’s 401&lpar;k&rpar;](https://lifehacker.com/when-to-skip-your-company-s-401-k-1850499838)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This DIY Rolling Umbrella Stand Doubles As a Planter](https://lifehacker.com/this-diy-rolling-umbrella-stand-doubles-as-a-planter-1850498827)<!-- TECH-POSTS:END -->
 
 ---
 
