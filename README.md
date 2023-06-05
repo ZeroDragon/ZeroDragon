@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Step-By-Step Guide on How to Create the Drag and Drop using HTML, CSS &amp; JAVASCRIPT](https://dev.to/daslaw/step-by-step-guide-on-how-to-create-the-drag-and-drop-using-html-css-javascript-c7j)
+- [Dev.to/JS] [👾 Reac Native y el uso de “React Navigation”](https://dev.to/sandybecariait/reac-native-y-el-uso-de-react-navigation-1597)
 - [Dev.to/JS] [Const Keyword in javascript](https://dev.to/gaurbprajapati/const-keyword-in-javascript-14o2)
 - [Dev.to/JS] [Let Keyword in javascript](https://dev.to/gaurbprajapati/let-keyword-in-javascript-mdm)
 - [Dev.to/JS] [VAR in Javascript](https://dev.to/gaurbprajapati/var-in-javascript-36pn)
@@ -38,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Podcasts That Explore the Weirder Corners of the Internet](https://lifehacker.com/12-podcasts-that-explore-the-weirder-corners-of-the-int-1850503607)
 - [Dev.to/JS] [Apollo Federation v2 compatible OSS licensed Gateway coming soon.](https://dev.to/slickstef11/apollo-federation-v2-compatible-oss-licensed-gateway-coming-soon-355)
 - [Dev.to/JS] [Unlock the Power of JavaScript Immutability: Supercharge Your Code with Bug-Free and Predictable Development!](https://dev.to/pappijx/unlock-the-power-of-javascript-immutability-supercharge-your-code-with-bug-free-and-predictable-development-1hpa)
-- [Dev.to/JS] [We started to approach code reviews as engineering tasks. We&#39;re merging now faster than ever](https://dev.to/imri/we-started-to-approach-code-reviews-as-engineering-tasks-were-merging-code-now-faster-than-ever-1hfp)
 - [Lifehacker] [Start Each Week With This Digital Decluttering Method](https://lifehacker.com/start-each-week-with-this-digital-decluttering-method-1850507159)
-- [Dev.to/JS] [React&#39;s arrow of Reconciliation](https://dev.to/rounit08/reacts-arrow-of-reconciliation-4b07)
 - [Lifehacker] [10 Security Settings That Protect Your iPhone From Thieves](https://lifehacker.com/10-security-settings-you-should-use-to-protect-your-iph-1850506736)
 - [Lifehacker] [How to Financially Prepare for Your Parents or In-Laws to Move In](https://lifehacker.com/how-to-financially-prepare-for-your-parents-or-in-laws-1850506455)
 - [Lifehacker] [Wake up With Cold Brew Overnight Oats](https://lifehacker.com/wake-up-with-cold-brew-overnight-oats-1850506140)
