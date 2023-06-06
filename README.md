@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Try Every Adobe Creative Cloud App for $30](https://lifehacker.com/you-can-try-every-adobe-creative-cloud-app-for-30-1850489802)
+- [Dev.to/JS] [JavaScript Array.at&lpar;&rpar; method](https://dev.to/mezieiv/javascript-arrayat-method-162f)
+- [Dev.to/JS] [100 Days Coding Challenge - Day 17: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-17-freecodecamp-javascript-algorithms-and-data-structures-3952)
 - [Dev.to/JS] [Flicker Text Reveal animation](https://dev.to/smitprajapati/flicker-text-reveal-animation-g50)
 - [Dev.to/JS] [NodeSchool Santiago! 🎉](https://dev.to/jsconfcl/nodeschool-santiago-j2i)
 - [Dev.to/JS] [Supercharge Your Buttons: Simplifying Loading State with less boilerplate](https://dev.to/piyushkmr/supercharge-your-buttons-simplifying-loading-state-with-less-boilerplate-fda)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [👾 Reac Native y el uso de “React Navigation”](https://dev.to/sandybecariait/reac-native-y-el-uso-de-react-navigation-1597)
 - [Dev.to/JS] [Const Keyword in javascript](https://dev.to/gaurbprajapati/const-keyword-in-javascript-14o2)
 - [Dev.to/JS] [Let Keyword in javascript](https://dev.to/gaurbprajapati/let-keyword-in-javascript-mdm)
-- [Dev.to/JS] [VAR in Javascript](https://dev.to/gaurbprajapati/var-in-javascript-36pn)
-- [Dev.to/JS] [Different Types of JavaSript Functions](https://dev.to/gaurbprajapati/different-types-of-javasript-functions-4pn7)
 - [Lifehacker] [Everything Apple Announced at WWDC 2023](https://lifehacker.com/everything-apple-announced-at-wwdc-2023-1850506825)
 - [Lifehacker] [The 10 Best New Features in watchOS 10](https://lifehacker.com/the-10-best-new-features-in-watchos-10-1850507797)
 - [Lifehacker] [Pancake Bread Pretty Much Makes Itself](https://lifehacker.com/pancake-bread-pretty-much-makes-itself-1850507100)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Avoid Traffic on a Trip](https://lifehacker.com/the-best-ways-to-avoid-traffic-on-a-trip-1850501765)
 - [Lifehacker] [Why You Should Stop Feeling Guilty About Your Kid&#39;s Screen Time](https://lifehacker.com/why-you-should-stop-feeling-guilty-about-your-kids-scre-1850500959)
 - [Lifehacker] [Don’t Miss These June Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-june-class-action-settlement-deadlines-1850501393)
-- [Lifehacker] [Here Are All the Astro Events to Watch in June](https://lifehacker.com/here-are-all-the-astro-events-to-watch-in-june-1850500214)
-- [Lifehacker] [Your Doctor’s and Lawyer’s ‘Rankings’ and ‘Awards’ Are Probably Fake](https://lifehacker.com/your-doctor-s-and-lawyer-s-rankings-and-awards-are-1850500367)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here Are All the Astro Events to Watch in June](https://lifehacker.com/here-are-all-the-astro-events-to-watch-in-june-1850500214)<!-- TECH-POSTS:END -->
 
 ---
 
