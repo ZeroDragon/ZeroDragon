@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I don&#39;t Know why laravel doesn&#39;t regonize that the user that sending reqeust it logged in ?? Help](https://dev.to/ayoubelsvg/i-dont-know-why-laravel-doesnt-regonize-that-the-user-that-sending-reqeust-it-logged-in-help-45jd)
 - [Dev.to/JS] [How to Remove a File from Git and Add it to `.gitignore`](https://dev.to/hashcode01/how-to-remove-a-file-from-git-and-add-it-to-gitignore-5c0m)
 - [Dev.to/JS] [MB-330 exercise exams for the applicants who need up to date ensure.](https://dev.to/realitexams/mb-330-exercise-exams-for-the-applicants-who-need-up-to-date-ensure-5dp3)
 - [Dev.to/JS] [What are the advantages of online compilers?](https://dev.to/akshays81992169/what-are-the-advantages-of-online-compilers-49eo)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use class-validator and generate custom error object in nest.js](https://dev.to/nithinkjoy/how-to-use-class-validator-and-return-custom-error-object-in-nestjs-562h)
 - [Dev.to/JS] [Angular Addicts #14: Angular v16, Signals and SignalStore, fine-grained change detection &amp; more](https://dev.to/this-is-angular/angular-addicts-14-angular-v16-signals-and-signalstore-fine-grained-change-detection-more-2027)
 - [Dev.to/JS] [Why your folder structure sucks](https://dev.to/mfp22/why-your-folder-structure-sucks-2jb4)
-- [Dev.to/JS] [Angular Testing in 2023 - Past, Present and Future](https://dev.to/this-is-angular/angular-testing-in-2023-past-present-and-future-j5m)
 - [Lifehacker] [You Can Try Every Adobe Creative Cloud App for $30](https://lifehacker.com/you-can-try-every-adobe-creative-cloud-app-for-30-1850489802)
 - [Lifehacker] [Everything Apple Announced at WWDC 2023](https://lifehacker.com/everything-apple-announced-at-wwdc-2023-1850506825)
 - [Lifehacker] [The 10 Best New Features in watchOS 10](https://lifehacker.com/the-10-best-new-features-in-watchos-10-1850507797)
