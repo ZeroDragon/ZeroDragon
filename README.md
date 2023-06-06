@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Charbroil Buttery, Garlicky Oysters Over Your Charcoal Chimney](https://lifehacker.com/charbroil-buttery-garlicky-oysters-over-your-charcoal-1850507286)
+- [Dev.to/JS] [Testando aplicações em Node.js: melhores práticas e ferramentas](https://dev.to/jhonyaraujooficial/testando-aplicacoes-em-nodejs-melhores-praticas-e-ferramentas-5d01)
+- [Dev.to/JS] [Is HTML a Programming Language?](https://dev.to/brojenuel/is-html-a-programming-language-4ke6)
+- [Dev.to/JS] [CRUD REST API with Node.js, Express.js, and PostgreSQL](https://dev.to/justahmed99/crud-rest-api-with-nodejs-expressjs-and-postgresql-57b2)
+- [Dev.to/JS] [Série React Hooks: useMemo](https://dev.to/taisesoares/serie-react-hooks-usememo-5pc)
+- [Dev.to/JS] [Atomic design](https://dev.to/bearrrrr/atomic-design-pa2)
 - [Dev.to/JS] [Building an efficient email marketing application with ChatGPT, ToolJet, and PostgreSQL](https://dev.to/tooljet/building-an-efficient-email-marketing-application-with-chatgpt-tooljet-and-postgresql-25g8)
 - [Dev.to/JS] [I&#39;ve just completed a front-end coding challenge from](https://dev.to/githukelvin/ive-just-completed-a-front-end-coding-challenge-from-1bdi)
 - [Dev.to/JS] [Explorando as diferenças entre HTML, CSS e JavaScript](https://dev.to/loresgarcia/explorando-as-diferencas-entre-html-css-e-javascript-4k60)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Prototypal Inheritance](https://dev.to/kirtymeena/prototypal-inheritance-15a6)
 - [Dev.to/JS] [Exploring Crypto, Blockchain, NFT and Metaverse: A Personal Project Journey](https://dev.to/rafaellevissa/exploring-crypto-blockchain-nft-and-metaverse-a-personal-project-journey-4cl2)
 - [Dev.to/JS] [Organize Your Firebase Functions For Easier Deployments and Maintenance](https://dev.to/this-is-learning/organize-your-firebase-functions-for-easier-deployments-and-maintenance-127l)
-- [Dev.to/JS] [Ternary Operator and Logical &amp;&amp;](https://dev.to/tusharshahi/ternary-operator-and-logical--48j1)
-- [Dev.to/JS] [I don&#39;t Know why laravel doesn&#39;t regonize that the user that sending reqeust it logged in ?? Help](https://dev.to/ayoubelsvg/i-dont-know-why-laravel-doesnt-regonize-that-the-user-that-sending-reqeust-it-logged-in-help-45jd)
-- [Dev.to/JS] [How to Remove a File from Git and Add it to `.gitignore`](https://dev.to/hashcode01/how-to-remove-a-file-from-git-and-add-it-to-gitignore-5c0m)
-- [Dev.to/JS] [MB-330 exercise exams for the applicants who need up to date ensure.](https://dev.to/realitexams/mb-330-exercise-exams-for-the-applicants-who-need-up-to-date-ensure-5dp3)
-- [Dev.to/JS] [What are the advantages of online compilers?](https://dev.to/akshays81992169/what-are-the-advantages-of-online-compilers-49eo)
 - [Lifehacker] [You Can Try Every Adobe Creative Cloud App for $30](https://lifehacker.com/you-can-try-every-adobe-creative-cloud-app-for-30-1850489802)
 - [Lifehacker] [Everything Apple Announced at WWDC 2023](https://lifehacker.com/everything-apple-announced-at-wwdc-2023-1850506825)
 - [Lifehacker] [The 10 Best New Features in watchOS 10](https://lifehacker.com/the-10-best-new-features-in-watchos-10-1850507797)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Signs You&#39;re Overstepping at Work](https://lifehacker.com/these-are-the-signs-youre-overstepping-at-work-1850501701)
 - [Lifehacker] [The Best Ways to Avoid Traffic on a Trip](https://lifehacker.com/the-best-ways-to-avoid-traffic-on-a-trip-1850501765)
 - [Lifehacker] [Why You Should Stop Feeling Guilty About Your Kid&#39;s Screen Time](https://lifehacker.com/why-you-should-stop-feeling-guilty-about-your-kids-scre-1850500959)
-- [Lifehacker] [Don’t Miss These June Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-june-class-action-settlement-deadlines-1850501393)
-- [Lifehacker] [Here Are All the Astro Events to Watch in June](https://lifehacker.com/here-are-all-the-astro-events-to-watch-in-june-1850500214)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Miss These June Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-june-class-action-settlement-deadlines-1850501393)<!-- TECH-POSTS:END -->
 
 ---
 
