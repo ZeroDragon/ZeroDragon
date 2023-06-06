@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best New Features Coming to Your AirPods](https://lifehacker.com/the-best-new-features-coming-to-your-airpods-1850510364)
+- [Dev.to/JS] [New Array Methods are Awesome](https://dev.to/ranjan/new-array-methods-are-awesome-356e)
+- [Dev.to/JS] [ApexCharts: The underrated charts library](https://dev.to/saulodias/apexcharts-the-underrated-chart-library-3npi)
+- [Dev.to/JS] [What&#39;s new in Playwright 1.33 and 1.34](https://dev.to/playwright/whats-new-in-playwright-133-and-134-3go)
+- [Dev.to/JS] [Build a Full Stack GraphQL Application with React + Express](https://dev.to/mohammadfaisal/build-a-full-stack-graphql-application-with-react-express-5bbc)
+- [Lifehacker] [Stop Planting These Invasive Butterfly Bushes](https://lifehacker.com/stop-planting-these-invasive-butterfly-bushes-1850509142)
 - [Lifehacker] [This AI Resume Builder Is Over 75% Off Right Now](https://lifehacker.com/this-ai-resume-builder-is-over-75-off-right-now-1850493675)
 - [Dev.to/JS] [HTML basic explanation by Manoarya.](https://dev.to/manoarya/html-basic-explanation-by-manoarya-4peg)
 - [Dev.to/JS] [Javascript Cheat Sheet 2023.](https://dev.to/manoarya/javascript-cheat-sheet-2023-491c)
@@ -35,12 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [7 Common Mistakes to Avoid for JAVA Developers with AI](https://dev.to/aiformewiki/7-common-mistakes-to-avoid-for-java-developers-with-ai-42j0)
 - [Lifehacker] [This 13-in-1 Docking Station Is $50 Right Now](https://lifehacker.com/this-13-in-1-docking-station-is-50-right-now-1850493659)
 - [Dev.to/JS] [Unleashing the Sorcery of JavaScript Regular Expressions: Now You See Me, Now You Don&#39;t!](https://dev.to/codetobug/unleashing-the-sorcery-of-javascript-regular-expressions-now-you-see-me-now-you-dont-27kd)
-- [Dev.to/JS] [The Magic of Embeddings](https://dev.to/ianmacartney/the-magic-of-embeddings-afc)
 - [Lifehacker] [Common Phrases You Shouldn&#39;t Actually Put on Your Dating Profile](https://lifehacker.com/common-phrases-you-shouldnt-actually-put-on-your-dating-1850508562)
-- [Dev.to/JS] [How to translate a document with JavaScript?](https://dev.to/edenai/how-to-translate-a-document-with-javascript-7nc)
 - [Lifehacker] [Why You Should Use a Smart Hose Timer](https://lifehacker.com/why-you-should-use-a-smart-hose-timer-1850509043)
-- [Dev.to/JS] [Best Practices for Writing Clean and Maintainable Code in JavaScript](https://dev.to/wizdomtek/best-practices-for-writing-clean-and-maintainable-code-in-javascript-17c)
-- [Dev.to/JS] [My Journey in Open Source - random-delay](https://dev.to/cadienvan/my-journey-in-open-source-random-delay-2ap3)
 - [Lifehacker] [These Apple Devices Won’t Get Software Updates Anymore](https://lifehacker.com/these-apple-devices-won-t-get-software-updates-anymore-1850509451)
 - [Lifehacker] [Why You Shouldn&#39;t Use the Ice Bucket in Your Hotel Room](https://lifehacker.com/why-you-shouldnt-use-the-ice-bucket-in-your-hotel-room-1850508253)
 - [Lifehacker] [How to Protect Your Finances From a Future Government Shutdown](https://lifehacker.com/how-to-protect-your-finances-from-a-future-government-s-1850508240)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Grow a Permaculture Food Forest in Your Yard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-grow-a-permaculture-food-forest-in-your-yard-an-1850505292)
 - [Lifehacker] [Multitasking Is Making You Worse at Everything](https://lifehacker.com/multitasking-is-making-you-worse-at-everything-1850505967)
 - [Lifehacker] [This New Kayak Tool Will Tell You the Best Time to Travel](https://lifehacker.com/this-new-kayak-tool-will-tell-you-the-best-time-to-trav-1850502050)
-- [Lifehacker] [The Best Ways to Eliminate Junk Mail](https://lifehacker.com/the-best-ways-to-eliminate-junk-mail-1850503997)
-- [Lifehacker] [What&#39;s a &#39;0.5 Selfie?&#39;](https://lifehacker.com/whats-a-0-5-selfie-1850501012)
-- [Lifehacker] [15 Video Games With Incredible Art Styles](https://lifehacker.com/15-video-games-with-incredible-art-styles-1850501132)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Eliminate Junk Mail](https://lifehacker.com/the-best-ways-to-eliminate-junk-mail-1850503997)<!-- TECH-POSTS:END -->
 
 ---
 
