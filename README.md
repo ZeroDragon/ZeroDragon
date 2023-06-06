@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular Addicts #14: Angular v16, Signals and SignalStore, fine-grained change detection &amp; more](https://dev.to/this-is-angular/angular-addicts-14-angular-v16-signals-and-signalstore-fine-grained-change-detection-more-2027)
+- [Dev.to/JS] [Why your folder structure sucks](https://dev.to/mfp22/why-your-folder-structure-sucks-2jb4)
 - [Dev.to/JS] [Angular Testing in 2023 - Past, Present and Future](https://dev.to/this-is-angular/angular-testing-in-2023-past-present-and-future-j5m)
 - [Dev.to/JS] [Credentials Leak with Knex](https://dev.to/castarco/credentials-leak-with-knex-2c0e)
 - [Dev.to/JS] [Performance issue in Angular 15/16 Form Fields](https://dev.to/k_v_s/performance-issue-in-angular-1516-form-fields-41em)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Flicker Text Reveal animation](https://dev.to/smitprajapati/flicker-text-reveal-animation-g50)
 - [Dev.to/JS] [NodeSchool Santiago! 🎉](https://dev.to/jsconfcl/nodeschool-santiago-j2i)
 - [Dev.to/JS] [Supercharge Your Buttons: Simplifying Loading State with less boilerplate](https://dev.to/piyushkmr/supercharge-your-buttons-simplifying-loading-state-with-less-boilerplate-fda)
-- [Dev.to/JS] [Mastering TypeScript Control Flow and Statements 😎](https://dev.to/bobbyhalljr/mastering-typescript-control-flow-and-statements-140)
-- [Dev.to/JS] [Connecting OracleDB with NodeJS on Oracle Linux 8](https://dev.to/farisdurrani/connecting-oracledb-with-nodejs-on-oracle-linux-8-1phm)
 - [Lifehacker] [Everything Apple Announced at WWDC 2023](https://lifehacker.com/everything-apple-announced-at-wwdc-2023-1850506825)
 - [Lifehacker] [The 10 Best New Features in watchOS 10](https://lifehacker.com/the-10-best-new-features-in-watchos-10-1850507797)
 - [Lifehacker] [Pancake Bread Pretty Much Makes Itself](https://lifehacker.com/pancake-bread-pretty-much-makes-itself-1850507100)
