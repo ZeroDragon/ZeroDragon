@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Flicker Text Reveal animation](https://dev.to/smitprajapati/flicker-text-reveal-animation-g50)
+- [Dev.to/JS] [NodeSchool Santiago! 🎉](https://dev.to/jsconfcl/nodeschool-santiago-j2i)
 - [Dev.to/JS] [Supercharge Your Buttons: Simplifying Loading State with less boilerplate](https://dev.to/piyushkmr/supercharge-your-buttons-simplifying-loading-state-with-less-boilerplate-fda)
 - [Dev.to/JS] [Mastering TypeScript Control Flow and Statements 😎](https://dev.to/bobbyhalljr/mastering-typescript-control-flow-and-statements-140)
 - [Dev.to/JS] [Connecting OracleDB with NodeJS on Oracle Linux 8](https://dev.to/farisdurrani/connecting-oracledb-with-nodejs-on-oracle-linux-8-1phm)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [VAR in Javascript](https://dev.to/gaurbprajapati/var-in-javascript-36pn)
 - [Dev.to/JS] [Different Types of JavaSript Functions](https://dev.to/gaurbprajapati/different-types-of-javasript-functions-4pn7)
 - [Lifehacker] [Everything Apple Announced at WWDC 2023](https://lifehacker.com/everything-apple-announced-at-wwdc-2023-1850506825)
-- [Dev.to/JS] [Closure in javascript Complete concept](https://dev.to/gaurbprajapati/closure-in-javascript-complete-concept-9i0)
-- [Dev.to/JS] [Complete Concept Callback function in javascript](https://dev.to/gaurbprajapati/complete-concept-callback-function-in-javascript-893)
 - [Lifehacker] [The 10 Best New Features in watchOS 10](https://lifehacker.com/the-10-best-new-features-in-watchos-10-1850507797)
 - [Lifehacker] [Pancake Bread Pretty Much Makes Itself](https://lifehacker.com/pancake-bread-pretty-much-makes-itself-1850507100)
 - [Lifehacker] [You Can Get a Deeper Connect Mini VPN for Over 40% Off Right Now](https://lifehacker.com/you-can-get-a-deeper-connect-mini-vpn-for-over-40-off-1850489824)
