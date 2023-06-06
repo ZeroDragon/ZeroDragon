@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to build and publish a Chrome extension using Javascript](https://dev.to/tcweekly/how-to-build-and-publish-a-chrome-extension-using-javascript-37oj)
+- [Dev.to/JS] [Node.js Error Handling.](https://dev.to/gaurbprajapati/nodejs-error-handling-137f)
 - [Lifehacker] [The Best Way to Care for Your Herb Garden Is to Actually Use Them](https://lifehacker.com/the-best-way-to-care-for-your-herb-garden-is-to-actuall-1850502356)
 - [Lifehacker] [All the iOS 17 Features Apple Announced at WWDC](https://lifehacker.com/all-the-ios-17-features-apple-announced-at-wwdc-1850510024)
 - [Dev.to/JS] [🌍How Startups Support Green Tech Initiatives for a Sustainable Future? Top interesting #apps and #startups](https://dev.to/devler_io/how-startups-support-green-tech-initiatives-for-a-sustainable-future-top-interesting-apps-and-startups-f27)
@@ -43,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the New Features Apple Didn&#39;t Announce at WWDC](https://lifehacker.com/all-the-new-features-apple-didnt-announce-at-wwdc-1850510345)
 - [Lifehacker] [The Best Way to Reclaim Expired Travel Rewards &lpar;and When You Should&rpar;](https://lifehacker.com/the-best-way-to-reclaim-expired-travel-rewards-and-whe-1850510203)
 - [Dev.to/JS] [Mastering Promises in JavaScript: A Comprehensive Guide](https://dev.to/bobbyhalljr/mastering-promises-in-javascript-a-comprehensive-guide-614)
-- [Dev.to/JS] [The Power of Promises with Next.js: Building a Pizza Delivery App 🍕](https://dev.to/bobbyhalljr/the-power-of-promises-with-nextjs-building-a-pizza-delivery-app-427d)
-- [Dev.to/JS] [7 Common Mistakes to Avoid for JAVA Developers with AI](https://dev.to/aiformewiki/7-common-mistakes-to-avoid-for-java-developers-with-ai-42j0)
 - [Lifehacker] [This 13-in-1 Docking Station Is $50 Right Now](https://lifehacker.com/this-13-in-1-docking-station-is-50-right-now-1850493659)
 - [Lifehacker] [Common Phrases You Shouldn&#39;t Actually Put on Your Dating Profile](https://lifehacker.com/common-phrases-you-shouldnt-actually-put-on-your-dating-1850508562)
 - [Lifehacker] [Why You Should Use a Smart Hose Timer](https://lifehacker.com/why-you-should-use-a-smart-hose-timer-1850509043)
