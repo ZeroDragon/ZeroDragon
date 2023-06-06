@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Remove a File from Git and Add it to `.gitignore`](https://dev.to/hashcode01/how-to-remove-a-file-from-git-and-add-it-to-gitignore-5c0m)
+- [Dev.to/JS] [MB-330 exercise exams for the applicants who need up to date ensure.](https://dev.to/realitexams/mb-330-exercise-exams-for-the-applicants-who-need-up-to-date-ensure-5dp3)
+- [Dev.to/JS] [What are the advantages of online compilers?](https://dev.to/akshays81992169/what-are-the-advantages-of-online-compilers-49eo)
+- [Dev.to/JS] [JavaScript - Array toSorted&lpar;&rpar; Method](https://dev.to/kristiyan_velkov/javascript-array-tosorted-method-32f1)
 - [Dev.to/JS] [Demystifying Data Structures and Algorithms: A Comprehensive Guide for Developers](https://dev.to/danities316/demystifying-data-structures-and-algorithms-a-comprehensive-guide-for-developers-5028)
 - [Dev.to/JS] [How to Use a Data Fetching Tool to Manage Server State in Your React Application](https://dev.to/thelamina/how-to-use-a-data-fetching-tool-to-manage-server-state-in-your-react-application-5aj4)
 - [Dev.to/JS] [Building an event ticketing application with Next.js and Appwrite](https://dev.to/arshadayvid/building-an-event-ticketing-application-with-nextjs-and-appwrite-7m)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular Addicts #14: Angular v16, Signals and SignalStore, fine-grained change detection &amp; more](https://dev.to/this-is-angular/angular-addicts-14-angular-v16-signals-and-signalstore-fine-grained-change-detection-more-2027)
 - [Dev.to/JS] [Why your folder structure sucks](https://dev.to/mfp22/why-your-folder-structure-sucks-2jb4)
 - [Dev.to/JS] [Angular Testing in 2023 - Past, Present and Future](https://dev.to/this-is-angular/angular-testing-in-2023-past-present-and-future-j5m)
-- [Dev.to/JS] [Credentials Leak with Knex](https://dev.to/castarco/credentials-leak-with-knex-2c0e)
-- [Dev.to/JS] [Performance issue in Angular 15/16 Form Fields](https://dev.to/k_v_s/performance-issue-in-angular-1516-form-fields-41em)
-- [Dev.to/JS] [Asking Notification Permission in Android 13 for a React Native Application.](https://dev.to/gautham495/asking-notification-permission-in-android-13-for-a-react-native-application-35n2)
-- [Dev.to/JS] [Javascript &amp; Question Marks &lpar;?&rpar;](https://dev.to/husnain/javascript-question-marks--5gc5)
 - [Lifehacker] [You Can Try Every Adobe Creative Cloud App for $30](https://lifehacker.com/you-can-try-every-adobe-creative-cloud-app-for-30-1850489802)
 - [Lifehacker] [Everything Apple Announced at WWDC 2023](https://lifehacker.com/everything-apple-announced-at-wwdc-2023-1850506825)
 - [Lifehacker] [The 10 Best New Features in watchOS 10](https://lifehacker.com/the-10-best-new-features-in-watchos-10-1850507797)
