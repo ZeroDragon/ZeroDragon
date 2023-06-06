@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular Testing in 2023 - Past, Present and Future](https://dev.to/this-is-angular/angular-testing-in-2023-past-present-and-future-j5m)
+- [Dev.to/JS] [Credentials Leak with Knex](https://dev.to/castarco/credentials-leak-with-knex-2c0e)
+- [Dev.to/JS] [Performance issue in Angular 15/16 Form Fields](https://dev.to/k_v_s/performance-issue-in-angular-1516-form-fields-41em)
+- [Dev.to/JS] [Asking Notification Permission in Android 13 for a React Native Application.](https://dev.to/gautham495/asking-notification-permission-in-android-13-for-a-react-native-application-35n2)
+- [Dev.to/JS] [Javascript &amp; Question Marks &lpar;?&rpar;](https://dev.to/husnain/javascript-question-marks--5gc5)
 - [Lifehacker] [You Can Try Every Adobe Creative Cloud App for $30](https://lifehacker.com/you-can-try-every-adobe-creative-cloud-app-for-30-1850489802)
 - [Dev.to/JS] [JavaScript Array.at&lpar;&rpar; method](https://dev.to/mezieiv/javascript-arrayat-method-162f)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 17: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-17-freecodecamp-javascript-algorithms-and-data-structures-3952)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Supercharge Your Buttons: Simplifying Loading State with less boilerplate](https://dev.to/piyushkmr/supercharge-your-buttons-simplifying-loading-state-with-less-boilerplate-fda)
 - [Dev.to/JS] [Mastering TypeScript Control Flow and Statements 😎](https://dev.to/bobbyhalljr/mastering-typescript-control-flow-and-statements-140)
 - [Dev.to/JS] [Connecting OracleDB with NodeJS on Oracle Linux 8](https://dev.to/farisdurrani/connecting-oracledb-with-nodejs-on-oracle-linux-8-1phm)
-- [Dev.to/JS] [Manipulating the DOM](https://dev.to/juanthe3rd/intro-to-coding-in-js-1ejk)
-- [Dev.to/JS] [Step-By-Step Guide on How to Create the Drag and Drop using HTML, CSS &amp; JAVASCRIPT](https://dev.to/daslaw/step-by-step-guide-on-how-to-create-the-drag-and-drop-using-html-css-javascript-c7j)
-- [Dev.to/JS] [👾 Reac Native y el uso de “React Navigation”](https://dev.to/sandybecariait/reac-native-y-el-uso-de-react-navigation-1597)
-- [Dev.to/JS] [Const Keyword in javascript](https://dev.to/gaurbprajapati/const-keyword-in-javascript-14o2)
-- [Dev.to/JS] [Let Keyword in javascript](https://dev.to/gaurbprajapati/let-keyword-in-javascript-mdm)
 - [Lifehacker] [Everything Apple Announced at WWDC 2023](https://lifehacker.com/everything-apple-announced-at-wwdc-2023-1850506825)
 - [Lifehacker] [The 10 Best New Features in watchOS 10](https://lifehacker.com/the-10-best-new-features-in-watchos-10-1850507797)
 - [Lifehacker] [Pancake Bread Pretty Much Makes Itself](https://lifehacker.com/pancake-bread-pretty-much-makes-itself-1850507100)
