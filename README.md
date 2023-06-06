@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Supercharge Your Buttons: Simplifying Loading State with less boilerplate](https://dev.to/piyushkmr/supercharge-your-buttons-simplifying-loading-state-with-less-boilerplate-fda)
+- [Dev.to/JS] [Mastering TypeScript Control Flow and Statements 😎](https://dev.to/bobbyhalljr/mastering-typescript-control-flow-and-statements-140)
+- [Dev.to/JS] [Connecting OracleDB with NodeJS on Oracle Linux 8](https://dev.to/farisdurrani/connecting-oracledb-with-nodejs-on-oracle-linux-8-1phm)
 - [Dev.to/JS] [Manipulating the DOM](https://dev.to/juanthe3rd/intro-to-coding-in-js-1ejk)
 - [Dev.to/JS] [Step-By-Step Guide on How to Create the Drag and Drop using HTML, CSS &amp; JAVASCRIPT](https://dev.to/daslaw/step-by-step-guide-on-how-to-create-the-drag-and-drop-using-html-css-javascript-c7j)
 - [Dev.to/JS] [👾 Reac Native y el uso de “React Navigation”](https://dev.to/sandybecariait/reac-native-y-el-uso-de-react-navigation-1597)
@@ -33,13 +36,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything Apple Announced at WWDC 2023](https://lifehacker.com/everything-apple-announced-at-wwdc-2023-1850506825)
 - [Dev.to/JS] [Closure in javascript Complete concept](https://dev.to/gaurbprajapati/closure-in-javascript-complete-concept-9i0)
 - [Dev.to/JS] [Complete Concept Callback function in javascript](https://dev.to/gaurbprajapati/complete-concept-callback-function-in-javascript-893)
-- [Dev.to/JS] [Building a Full-Stack ChatGPT app](https://dev.to/ianmacartney/building-a-full-stack-chatgpt-app-58nm)
 - [Lifehacker] [The 10 Best New Features in watchOS 10](https://lifehacker.com/the-10-best-new-features-in-watchos-10-1850507797)
-- [Dev.to/JS] [Authentication system using Golang and Sveltekit - Frontend Log in and out](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-frontend-log-in-and-out-3l5h)
 - [Lifehacker] [Pancake Bread Pretty Much Makes Itself](https://lifehacker.com/pancake-bread-pretty-much-makes-itself-1850507100)
 - [Lifehacker] [You Can Get a Deeper Connect Mini VPN for Over 40% Off Right Now](https://lifehacker.com/you-can-get-a-deeper-connect-mini-vpn-for-over-40-off-1850489824)
 - [Lifehacker] [12 Podcasts That Explore the Weirder Corners of the Internet](https://lifehacker.com/12-podcasts-that-explore-the-weirder-corners-of-the-int-1850503607)
-- [Dev.to/JS] [Apollo Federation v2 compatible OSS licensed Gateway coming soon.](https://dev.to/slickstef11/apollo-federation-v2-compatible-oss-licensed-gateway-coming-soon-355)
 - [Lifehacker] [Start Each Week With This Digital Decluttering Method](https://lifehacker.com/start-each-week-with-this-digital-decluttering-method-1850507159)
 - [Lifehacker] [10 Security Settings That Protect Your iPhone From Thieves](https://lifehacker.com/10-security-settings-you-should-use-to-protect-your-iph-1850506736)
 - [Lifehacker] [How to Financially Prepare for Your Parents or In-Laws to Move In](https://lifehacker.com/how-to-financially-prepare-for-your-parents-or-in-laws-1850506455)
