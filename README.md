@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🌍How Startups Support Green Tech Initiatives for a Sustainable Future? Top interesting #apps and #startups](https://dev.to/devler_io/how-startups-support-green-tech-initiatives-for-a-sustainable-future-top-interesting-apps-and-startups-f27)
+- [Lifehacker] [You Should Ditch These Travel Items for the Full-Size Versions](https://lifehacker.com/you-should-ditch-these-travel-items-for-the-full-size-v-1850510634)
+- [Lifehacker] [You Can Get This Hand-Sharpened Japanese Knife for 50% Off Right Now](https://lifehacker.com/you-can-get-this-hand-sharpened-japanese-knife-for-50-1850508970)
 - [Lifehacker] [Waffle a Beef Patty for a Quick and Easy Burger](https://lifehacker.com/waffle-a-beef-patty-for-a-quick-and-easy-burger-1850508573)
 - [Dev.to/JS] [Revolutionizing Web Development: Exploring React JS in 2023](https://dev.to/codewithmentor/react-js-for-web-development-in-2023-2db4)
 - [Lifehacker] [The Best New Features Coming to Your AirPods](https://lifehacker.com/the-best-new-features-coming-to-your-airpods-1850510364)
@@ -37,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 6 Iteration Methods in Javascript](https://dev.to/ashishkankal/top-6-iteration-methods-in-javascript-44a7)
 - [Lifehacker] [All the New Features Apple Didn&#39;t Announce at WWDC](https://lifehacker.com/all-the-new-features-apple-didnt-announce-at-wwdc-1850510345)
 - [Lifehacker] [The Best Way to Reclaim Expired Travel Rewards &lpar;and When You Should&rpar;](https://lifehacker.com/the-best-way-to-reclaim-expired-travel-rewards-and-whe-1850510203)
-- [Dev.to/JS] [Top Ways of Assessing Technical Skills of a React Developer](https://dev.to/darshanamallick/top-ways-of-assessing-technical-skills-of-a-react-developer-2cc0)
 - [Dev.to/JS] [Mastering Promises in JavaScript: A Comprehensive Guide](https://dev.to/bobbyhalljr/mastering-promises-in-javascript-a-comprehensive-guide-614)
 - [Dev.to/JS] [The Power of Promises with Next.js: Building a Pizza Delivery App 🍕](https://dev.to/bobbyhalljr/the-power-of-promises-with-nextjs-building-a-pizza-delivery-app-427d)
 - [Dev.to/JS] [7 Common Mistakes to Avoid for JAVA Developers with AI](https://dev.to/aiformewiki/7-common-mistakes-to-avoid-for-java-developers-with-ai-42j0)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Financially Prepare for Your Parents or In-Laws to Move In](https://lifehacker.com/how-to-financially-prepare-for-your-parents-or-in-laws-1850506455)
 - [Lifehacker] [Wake up With Cold Brew Overnight Oats](https://lifehacker.com/wake-up-with-cold-brew-overnight-oats-1850506140)
 - [Lifehacker] [These JBL Wireless Earbuds are 60% Off Right Now](https://lifehacker.com/these-jbl-wireless-earbuds-are-60-off-right-now-1850493650)
-- [Lifehacker] [How to Grow a Permaculture Food Forest in Your Yard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-grow-a-permaculture-food-forest-in-your-yard-an-1850505292)
-- [Lifehacker] [Multitasking Is Making You Worse at Everything](https://lifehacker.com/multitasking-is-making-you-worse-at-everything-1850505967)
-- [Lifehacker] [This New Kayak Tool Will Tell You the Best Time to Travel](https://lifehacker.com/this-new-kayak-tool-will-tell-you-the-best-time-to-trav-1850502050)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Grow a Permaculture Food Forest in Your Yard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-grow-a-permaculture-food-forest-in-your-yard-an-1850505292)<!-- TECH-POSTS:END -->
 
 ---
 
