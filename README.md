@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Waffle a Beef Patty for a Quick and Easy Burger](https://lifehacker.com/waffle-a-beef-patty-for-a-quick-and-easy-burger-1850508573)
+- [Dev.to/JS] [Revolutionizing Web Development: Exploring React JS in 2023](https://dev.to/codewithmentor/react-js-for-web-development-in-2023-2db4)
 - [Lifehacker] [The Best New Features Coming to Your AirPods](https://lifehacker.com/the-best-new-features-coming-to-your-airpods-1850510364)
 - [Dev.to/JS] [New Array Methods are Awesome](https://dev.to/ranjan/new-array-methods-are-awesome-356e)
 - [Dev.to/JS] [ApexCharts: The underrated charts library](https://dev.to/saulodias/apexcharts-the-underrated-chart-library-3npi)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Power of Promises with Next.js: Building a Pizza Delivery App 🍕](https://dev.to/bobbyhalljr/the-power-of-promises-with-nextjs-building-a-pizza-delivery-app-427d)
 - [Dev.to/JS] [7 Common Mistakes to Avoid for JAVA Developers with AI](https://dev.to/aiformewiki/7-common-mistakes-to-avoid-for-java-developers-with-ai-42j0)
 - [Lifehacker] [This 13-in-1 Docking Station Is $50 Right Now](https://lifehacker.com/this-13-in-1-docking-station-is-50-right-now-1850493659)
-- [Dev.to/JS] [Unleashing the Sorcery of JavaScript Regular Expressions: Now You See Me, Now You Don&#39;t!](https://dev.to/codetobug/unleashing-the-sorcery-of-javascript-regular-expressions-now-you-see-me-now-you-dont-27kd)
 - [Lifehacker] [Common Phrases You Shouldn&#39;t Actually Put on Your Dating Profile](https://lifehacker.com/common-phrases-you-shouldnt-actually-put-on-your-dating-1850508562)
 - [Lifehacker] [Why You Should Use a Smart Hose Timer](https://lifehacker.com/why-you-should-use-a-smart-hose-timer-1850509043)
 - [Lifehacker] [These Apple Devices Won’t Get Software Updates Anymore](https://lifehacker.com/these-apple-devices-won-t-get-software-updates-anymore-1850509451)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These JBL Wireless Earbuds are 60% Off Right Now](https://lifehacker.com/these-jbl-wireless-earbuds-are-60-off-right-now-1850493650)
 - [Lifehacker] [How to Grow a Permaculture Food Forest in Your Yard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-grow-a-permaculture-food-forest-in-your-yard-an-1850505292)
 - [Lifehacker] [Multitasking Is Making You Worse at Everything](https://lifehacker.com/multitasking-is-making-you-worse-at-everything-1850505967)
-- [Lifehacker] [This New Kayak Tool Will Tell You the Best Time to Travel](https://lifehacker.com/this-new-kayak-tool-will-tell-you-the-best-time-to-trav-1850502050)
-- [Lifehacker] [The Best Ways to Eliminate Junk Mail](https://lifehacker.com/the-best-ways-to-eliminate-junk-mail-1850503997)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This New Kayak Tool Will Tell You the Best Time to Travel](https://lifehacker.com/this-new-kayak-tool-will-tell-you-the-best-time-to-trav-1850502050)<!-- TECH-POSTS:END -->
 
 ---
 
