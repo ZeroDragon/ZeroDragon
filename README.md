@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Way to Care for Your Herb Garden Is to Actually Use Them](https://lifehacker.com/the-best-way-to-care-for-your-herb-garden-is-to-actuall-1850502356)
+- [Lifehacker] [All the iOS 17 Features Apple Announced at WWDC](https://lifehacker.com/all-the-ios-17-features-apple-announced-at-wwdc-1850510024)
 - [Dev.to/JS] [🌍How Startups Support Green Tech Initiatives for a Sustainable Future? Top interesting #apps and #startups](https://dev.to/devler_io/how-startups-support-green-tech-initiatives-for-a-sustainable-future-top-interesting-apps-and-startups-f27)
 - [Lifehacker] [You Should Ditch These Travel Items for the Full-Size Versions](https://lifehacker.com/you-should-ditch-these-travel-items-for-the-full-size-v-1850510634)
 - [Lifehacker] [You Can Get This Hand-Sharpened Japanese Knife for 50% Off Right Now](https://lifehacker.com/you-can-get-this-hand-sharpened-japanese-knife-for-50-1850508970)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Start Each Week With This Digital Decluttering Method](https://lifehacker.com/start-each-week-with-this-digital-decluttering-method-1850507159)
 - [Lifehacker] [10 Security Settings That Protect Your iPhone From Thieves](https://lifehacker.com/10-security-settings-you-should-use-to-protect-your-iph-1850506736)
 - [Lifehacker] [How to Financially Prepare for Your Parents or In-Laws to Move In](https://lifehacker.com/how-to-financially-prepare-for-your-parents-or-in-laws-1850506455)
-- [Lifehacker] [Wake up With Cold Brew Overnight Oats](https://lifehacker.com/wake-up-with-cold-brew-overnight-oats-1850506140)
-- [Lifehacker] [These JBL Wireless Earbuds are 60% Off Right Now](https://lifehacker.com/these-jbl-wireless-earbuds-are-60-off-right-now-1850493650)
-- [Lifehacker] [How to Grow a Permaculture Food Forest in Your Yard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-grow-a-permaculture-food-forest-in-your-yard-an-1850505292)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Wake up With Cold Brew Overnight Oats](https://lifehacker.com/wake-up-with-cold-brew-overnight-oats-1850506140)<!-- TECH-POSTS:END -->
 
 ---
 
