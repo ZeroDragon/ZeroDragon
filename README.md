@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top Ways of Assessing Technical Skills of a React Developer](https://dev.to/darshanamallick/top-ways-of-assessing-technical-skills-of-a-react-developer-2cc0)
+- [Dev.to/JS] [Mastering Promises in JavaScript: A Comprehensive Guide](https://dev.to/bobbyhalljr/mastering-promises-in-javascript-a-comprehensive-guide-614)
+- [Dev.to/JS] [The Power of Promises with Next.js: Building a Pizza Delivery App 🍕](https://dev.to/bobbyhalljr/the-power-of-promises-with-nextjs-building-a-pizza-delivery-app-427d)
+- [Dev.to/JS] [7 Common Mistakes to Avoid for JAVA Developers with AI](https://dev.to/aiformewiki/7-common-mistakes-to-avoid-for-java-developers-with-ai-42j0)
+- [Lifehacker] [This 13-in-1 Docking Station Is $50 Right Now](https://lifehacker.com/this-13-in-1-docking-station-is-50-right-now-1850493659)
+- [Dev.to/JS] [Unleashing the Sorcery of JavaScript Regular Expressions: Now You See Me, Now You Don&#39;t!](https://dev.to/codetobug/unleashing-the-sorcery-of-javascript-regular-expressions-now-you-see-me-now-you-dont-27kd)
 - [Dev.to/JS] [The Magic of Embeddings](https://dev.to/ianmacartney/the-magic-of-embeddings-afc)
 - [Lifehacker] [Common Phrases You Shouldn&#39;t Actually Put on Your Dating Profile](https://lifehacker.com/common-phrases-you-shouldnt-actually-put-on-your-dating-1850508562)
 - [Dev.to/JS] [How to translate a document with JavaScript?](https://dev.to/edenai/how-to-translate-a-document-with-javascript-7nc)
@@ -35,12 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Shouldn&#39;t Use the Ice Bucket in Your Hotel Room](https://lifehacker.com/why-you-shouldnt-use-the-ice-bucket-in-your-hotel-room-1850508253)
 - [Lifehacker] [How to Protect Your Finances From a Future Government Shutdown](https://lifehacker.com/how-to-protect-your-finances-from-a-future-government-s-1850508240)
 - [Dev.to/JS] [Will ChatGPT Will Replace Programmers Within 10 Years?](https://dev.to/aiformewiki/will-chatgpt-will-replace-programmers-within-10-years-3a87)
-- [Dev.to/JS] [Python vs JavaScript: Which is a Better Programming Language?](https://dev.to/thecompetenza/python-vs-javascript-which-is-a-better-programming-language-3egc)
-- [Dev.to/JS] [What is Salesforce Marketing Cloud Used For?](https://dev.to/datarecove95829/what-is-salesforce-marketing-cloud-used-for-2ei4)
-- [Dev.to/JS] [Creating GIFs with Giphy API and ReactJS: A Beginner&#39;s Guide.](https://dev.to/willochs316/creating-gifs-with-giphy-api-and-reactjs-a-beginners-guide-42d0)
 - [Lifehacker] [How to Protect Your Teen From the Harmful Effects of Social Media](https://lifehacker.com/how-to-protect-your-teen-from-the-harmful-effects-of-so-1850507480)
-- [Dev.to/JS] [Adding a Soldier to Your JavaScript Array Army: A Tactical Guide to High-Intensity Programming](https://dev.to/codetobug/adding-a-soldier-to-your-javascript-array-army-a-tactical-guide-to-high-intensity-programming-2n40)
-- [Dev.to/JS] [A Spin Around the JavaScript Merry-Go-Round: Your Daily Routine Reimagined!](https://dev.to/codetobug/a-spin-around-the-javascript-merry-go-round-your-daily-routine-reimagined-55d9)
 - [Lifehacker] [Charbroil Buttery, Garlicky Oysters Over Your Charcoal Chimney](https://lifehacker.com/charbroil-buttery-garlicky-oysters-over-your-charcoal-1850507286)
 - [Lifehacker] [You Can Try Every Adobe Creative Cloud App for $30](https://lifehacker.com/you-can-try-every-adobe-creative-cloud-app-for-30-1850489802)
 - [Lifehacker] [Everything Apple Announced at WWDC 2023](https://lifehacker.com/everything-apple-announced-at-wwdc-2023-1850506825)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 Video Games With Incredible Art Styles](https://lifehacker.com/15-video-games-with-incredible-art-styles-1850501132)
 - [Lifehacker] [This Trader Joe&#39;s Dip Makes a Pretty Great Soup](https://lifehacker.com/this-trader-joes-dip-makes-a-pretty-great-soup-1850501276)
 - [Lifehacker] [Your Basement Laundry Room Can Be Better](https://lifehacker.com/your-basement-laundry-room-can-be-better-1850501517)
-- [Lifehacker] [The Worst Airlines You Should Avoid, If You Can](https://lifehacker.com/the-worst-airlines-you-should-avoid-if-you-can-1850501522)
-- [Lifehacker] [Avoid Planting These Vegetables in Containers](https://lifehacker.com/avoid-planting-these-vegetables-in-containers-1850501535)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Worst Airlines You Should Avoid, If You Can](https://lifehacker.com/the-worst-airlines-you-should-avoid-if-you-can-1850501522)<!-- TECH-POSTS:END -->
 
 ---
 
