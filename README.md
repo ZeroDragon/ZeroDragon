@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Journey in Open Source - random-delay](https://dev.to/cadienvan/my-journey-in-open-source-random-delay-2ap3)
+- [Dev.to/JS] [🧵 Simple &amp; Efficient Java with AI 🚀](https://dev.to/aiformewiki/simple-efficient-java-with-ai-3ca5)
+- [Lifehacker] [These Apple Devices Won’t Get Software Updates Anymore](https://lifehacker.com/these-apple-devices-won-t-get-software-updates-anymore-1850509451)
+- [Dev.to/JS] [New array methods in JavaScript bring immutability](https://dev.to/codepo8/new-array-methods-in-javascript-bring-immutability-1nij)
+- [Lifehacker] [Why You Shouldn&#39;t Use the Ice Bucket in Your Hotel Room](https://lifehacker.com/why-you-shouldnt-use-the-ice-bucket-in-your-hotel-room-1850508253)
 - [Lifehacker] [How to Protect Your Finances From a Future Government Shutdown](https://lifehacker.com/how-to-protect-your-finances-from-a-future-government-s-1850508240)
 - [Dev.to/JS] [Will ChatGPT Will Replace Programmers Within 10 Years?](https://dev.to/aiformewiki/will-chatgpt-will-replace-programmers-within-10-years-3a87)
 - [Dev.to/JS] [Python vs JavaScript: Which is a Better Programming Language?](https://dev.to/thecompetenza/python-vs-javascript-which-is-a-better-programming-language-3egc)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Practices of ReactJS with TypeScript](https://dev.to/deepeshk1204/best-practices-of-reactjs-with-typescript-24p4)
 - [Lifehacker] [Charbroil Buttery, Garlicky Oysters Over Your Charcoal Chimney](https://lifehacker.com/charbroil-buttery-garlicky-oysters-over-your-charcoal-1850507286)
 - [Dev.to/JS] [Testando aplicações em Node.js: melhores práticas e ferramentas](https://dev.to/jhonyaraujooficial/testando-aplicacoes-em-nodejs-melhores-praticas-e-ferramentas-5d01)
-- [Dev.to/JS] [Is HTML a Programming Language?](https://dev.to/brojenuel/is-html-a-programming-language-4ke6)
-- [Dev.to/JS] [CRUD REST API with Node.js, Express.js, and PostgreSQL](https://dev.to/justahmed99/crud-rest-api-with-nodejs-expressjs-and-postgresql-57b2)
-- [Dev.to/JS] [Série React Hooks: useMemo](https://dev.to/taisesoares/serie-react-hooks-usememo-5pc)
 - [Lifehacker] [You Can Try Every Adobe Creative Cloud App for $30](https://lifehacker.com/you-can-try-every-adobe-creative-cloud-app-for-30-1850489802)
 - [Lifehacker] [Everything Apple Announced at WWDC 2023](https://lifehacker.com/everything-apple-announced-at-wwdc-2023-1850506825)
 - [Lifehacker] [The 10 Best New Features in watchOS 10](https://lifehacker.com/the-10-best-new-features-in-watchos-10-1850507797)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Worst Airlines You Should Avoid, If You Can](https://lifehacker.com/the-worst-airlines-you-should-avoid-if-you-can-1850501522)
 - [Lifehacker] [Avoid Planting These Vegetables in Containers](https://lifehacker.com/avoid-planting-these-vegetables-in-containers-1850501535)
 - [Crazy Programmer] [Heroku vs DigitalOcean – Which is Better for Your Cloud Hosting Needs](https://www.thecrazyprogrammer.com/2023/06/heroku-vs-digitalocean.html)
-- [Lifehacker] [Your Luggage Is Probably Filthy](https://lifehacker.com/your-luggage-is-probably-filthy-1850501679)
-- [Lifehacker] [These Are the Signs You&#39;re Overstepping at Work](https://lifehacker.com/these-are-the-signs-youre-overstepping-at-work-1850501701)
-- [Lifehacker] [The Best Ways to Avoid Traffic on a Trip](https://lifehacker.com/the-best-ways-to-avoid-traffic-on-a-trip-1850501765)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Luggage Is Probably Filthy](https://lifehacker.com/your-luggage-is-probably-filthy-1850501679)<!-- TECH-POSTS:END -->
 
 ---
 
