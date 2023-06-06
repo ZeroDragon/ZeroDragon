@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Demystifying Data Structures and Algorithms: A Comprehensive Guide for Developers](https://dev.to/danities316/demystifying-data-structures-and-algorithms-a-comprehensive-guide-for-developers-5028)
+- [Dev.to/JS] [How to Use a Data Fetching Tool to Manage Server State in Your React Application](https://dev.to/thelamina/how-to-use-a-data-fetching-tool-to-manage-server-state-in-your-react-application-5aj4)
+- [Dev.to/JS] [Building an event ticketing application with Next.js and Appwrite](https://dev.to/arshadayvid/building-an-event-ticketing-application-with-nextjs-and-appwrite-7m)
+- [Dev.to/JS] [Personal Projects I am most proud of](https://dev.to/trinly01/personal-projects-i-am-most-proud-of-1k85)
+- [Dev.to/JS] [How to use class-validator and generate custom error object in nest.js](https://dev.to/nithinkjoy/how-to-use-class-validator-and-return-custom-error-object-in-nestjs-562h)
 - [Dev.to/JS] [Angular Addicts #14: Angular v16, Signals and SignalStore, fine-grained change detection &amp; more](https://dev.to/this-is-angular/angular-addicts-14-angular-v16-signals-and-signalstore-fine-grained-change-detection-more-2027)
 - [Dev.to/JS] [Why your folder structure sucks](https://dev.to/mfp22/why-your-folder-structure-sucks-2jb4)
 - [Dev.to/JS] [Angular Testing in 2023 - Past, Present and Future](https://dev.to/this-is-angular/angular-testing-in-2023-past-present-and-future-j5m)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Asking Notification Permission in Android 13 for a React Native Application.](https://dev.to/gautham495/asking-notification-permission-in-android-13-for-a-react-native-application-35n2)
 - [Dev.to/JS] [Javascript &amp; Question Marks &lpar;?&rpar;](https://dev.to/husnain/javascript-question-marks--5gc5)
 - [Lifehacker] [You Can Try Every Adobe Creative Cloud App for $30](https://lifehacker.com/you-can-try-every-adobe-creative-cloud-app-for-30-1850489802)
-- [Dev.to/JS] [JavaScript Array.at&lpar;&rpar; method](https://dev.to/mezieiv/javascript-arrayat-method-162f)
-- [Dev.to/JS] [100 Days Coding Challenge - Day 17: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-17-freecodecamp-javascript-algorithms-and-data-structures-3952)
-- [Dev.to/JS] [Flicker Text Reveal animation](https://dev.to/smitprajapati/flicker-text-reveal-animation-g50)
-- [Dev.to/JS] [NodeSchool Santiago! 🎉](https://dev.to/jsconfcl/nodeschool-santiago-j2i)
-- [Dev.to/JS] [Supercharge Your Buttons: Simplifying Loading State with less boilerplate](https://dev.to/piyushkmr/supercharge-your-buttons-simplifying-loading-state-with-less-boilerplate-fda)
 - [Lifehacker] [Everything Apple Announced at WWDC 2023](https://lifehacker.com/everything-apple-announced-at-wwdc-2023-1850506825)
 - [Lifehacker] [The 10 Best New Features in watchOS 10](https://lifehacker.com/the-10-best-new-features-in-watchos-10-1850507797)
 - [Lifehacker] [Pancake Bread Pretty Much Makes Itself](https://lifehacker.com/pancake-bread-pretty-much-makes-itself-1850507100)
