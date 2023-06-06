@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Magic of Embeddings](https://dev.to/ianmacartney/the-magic-of-embeddings-afc)
+- [Lifehacker] [Common Phrases You Shouldn&#39;t Actually Put on Your Dating Profile](https://lifehacker.com/common-phrases-you-shouldnt-actually-put-on-your-dating-1850508562)
+- [Dev.to/JS] [How to translate a document with JavaScript?](https://dev.to/edenai/how-to-translate-a-document-with-javascript-7nc)
+- [Lifehacker] [Why You Should Use a Smart Hose Timer](https://lifehacker.com/why-you-should-use-a-smart-hose-timer-1850509043)
+- [Dev.to/JS] [Best Practices for Writing Clean and Maintainable Code in JavaScript](https://dev.to/wizdomtek/best-practices-for-writing-clean-and-maintainable-code-in-javascript-17c)
 - [Dev.to/JS] [My Journey in Open Source - random-delay](https://dev.to/cadienvan/my-journey-in-open-source-random-delay-2ap3)
 - [Dev.to/JS] [🧵 Simple &amp; Efficient Java with AI 🚀](https://dev.to/aiformewiki/simple-efficient-java-with-ai-3ca5)
 - [Lifehacker] [These Apple Devices Won’t Get Software Updates Anymore](https://lifehacker.com/these-apple-devices-won-t-get-software-updates-anymore-1850509451)
@@ -36,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Protect Your Teen From the Harmful Effects of Social Media](https://lifehacker.com/how-to-protect-your-teen-from-the-harmful-effects-of-so-1850507480)
 - [Dev.to/JS] [Adding a Soldier to Your JavaScript Array Army: A Tactical Guide to High-Intensity Programming](https://dev.to/codetobug/adding-a-soldier-to-your-javascript-array-army-a-tactical-guide-to-high-intensity-programming-2n40)
 - [Dev.to/JS] [A Spin Around the JavaScript Merry-Go-Round: Your Daily Routine Reimagined!](https://dev.to/codetobug/a-spin-around-the-javascript-merry-go-round-your-daily-routine-reimagined-55d9)
-- [Dev.to/JS] [Building Mobile App MVP - @RenderATL](https://dev.to/aaronksaunders/building-mobile-app-mvp-renderatl-522l)
-- [Dev.to/JS] [Best Practices of ReactJS with TypeScript](https://dev.to/deepeshk1204/best-practices-of-reactjs-with-typescript-24p4)
 - [Lifehacker] [Charbroil Buttery, Garlicky Oysters Over Your Charcoal Chimney](https://lifehacker.com/charbroil-buttery-garlicky-oysters-over-your-charcoal-1850507286)
-- [Dev.to/JS] [Testando aplicações em Node.js: melhores práticas e ferramentas](https://dev.to/jhonyaraujooficial/testando-aplicacoes-em-nodejs-melhores-praticas-e-ferramentas-5d01)
 - [Lifehacker] [You Can Try Every Adobe Creative Cloud App for $30](https://lifehacker.com/you-can-try-every-adobe-creative-cloud-app-for-30-1850489802)
 - [Lifehacker] [Everything Apple Announced at WWDC 2023](https://lifehacker.com/everything-apple-announced-at-wwdc-2023-1850506825)
 - [Lifehacker] [The 10 Best New Features in watchOS 10](https://lifehacker.com/the-10-best-new-features-in-watchos-10-1850507797)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Trader Joe&#39;s Dip Makes a Pretty Great Soup](https://lifehacker.com/this-trader-joes-dip-makes-a-pretty-great-soup-1850501276)
 - [Lifehacker] [Your Basement Laundry Room Can Be Better](https://lifehacker.com/your-basement-laundry-room-can-be-better-1850501517)
 - [Lifehacker] [The Worst Airlines You Should Avoid, If You Can](https://lifehacker.com/the-worst-airlines-you-should-avoid-if-you-can-1850501522)
-- [Lifehacker] [Avoid Planting These Vegetables in Containers](https://lifehacker.com/avoid-planting-these-vegetables-in-containers-1850501535)
-- [Crazy Programmer] [Heroku vs DigitalOcean – Which is Better for Your Cloud Hosting Needs](https://www.thecrazyprogrammer.com/2023/06/heroku-vs-digitalocean.html)
-- [Lifehacker] [Your Luggage Is Probably Filthy](https://lifehacker.com/your-luggage-is-probably-filthy-1850501679)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Avoid Planting These Vegetables in Containers](https://lifehacker.com/avoid-planting-these-vegetables-in-containers-1850501535)<!-- TECH-POSTS:END -->
 
 ---
 
