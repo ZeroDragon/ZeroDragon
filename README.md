@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This AI Resume Builder Is Over 75% Off Right Now](https://lifehacker.com/this-ai-resume-builder-is-over-75-off-right-now-1850493675)
+- [Dev.to/JS] [HTML basic explanation by Manoarya.](https://dev.to/manoarya/html-basic-explanation-by-manoarya-4peg)
+- [Dev.to/JS] [Javascript Cheat Sheet 2023.](https://dev.to/manoarya/javascript-cheat-sheet-2023-491c)
+- [Dev.to/JS] [Top 6 Iteration Methods in Javascript](https://dev.to/ashishkankal/top-6-iteration-methods-in-javascript-44a7)
+- [Lifehacker] [All the New Features Apple Didn&#39;t Announce at WWDC](https://lifehacker.com/all-the-new-features-apple-didnt-announce-at-wwdc-1850510345)
+- [Lifehacker] [The Best Way to Reclaim Expired Travel Rewards &lpar;and When You Should&rpar;](https://lifehacker.com/the-best-way-to-reclaim-expired-travel-rewards-and-whe-1850510203)
 - [Dev.to/JS] [Top Ways of Assessing Technical Skills of a React Developer](https://dev.to/darshanamallick/top-ways-of-assessing-technical-skills-of-a-react-developer-2cc0)
 - [Dev.to/JS] [Mastering Promises in JavaScript: A Comprehensive Guide](https://dev.to/bobbyhalljr/mastering-promises-in-javascript-a-comprehensive-guide-614)
 - [Dev.to/JS] [The Power of Promises with Next.js: Building a Pizza Delivery App 🍕](https://dev.to/bobbyhalljr/the-power-of-promises-with-nextjs-building-a-pizza-delivery-app-427d)
@@ -35,12 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Use a Smart Hose Timer](https://lifehacker.com/why-you-should-use-a-smart-hose-timer-1850509043)
 - [Dev.to/JS] [Best Practices for Writing Clean and Maintainable Code in JavaScript](https://dev.to/wizdomtek/best-practices-for-writing-clean-and-maintainable-code-in-javascript-17c)
 - [Dev.to/JS] [My Journey in Open Source - random-delay](https://dev.to/cadienvan/my-journey-in-open-source-random-delay-2ap3)
-- [Dev.to/JS] [🧵 Simple &amp; Efficient Java with AI 🚀](https://dev.to/aiformewiki/simple-efficient-java-with-ai-3ca5)
 - [Lifehacker] [These Apple Devices Won’t Get Software Updates Anymore](https://lifehacker.com/these-apple-devices-won-t-get-software-updates-anymore-1850509451)
-- [Dev.to/JS] [New array methods in JavaScript bring immutability](https://dev.to/codepo8/new-array-methods-in-javascript-bring-immutability-1nij)
 - [Lifehacker] [Why You Shouldn&#39;t Use the Ice Bucket in Your Hotel Room](https://lifehacker.com/why-you-shouldnt-use-the-ice-bucket-in-your-hotel-room-1850508253)
 - [Lifehacker] [How to Protect Your Finances From a Future Government Shutdown](https://lifehacker.com/how-to-protect-your-finances-from-a-future-government-s-1850508240)
-- [Dev.to/JS] [Will ChatGPT Will Replace Programmers Within 10 Years?](https://dev.to/aiformewiki/will-chatgpt-will-replace-programmers-within-10-years-3a87)
 - [Lifehacker] [How to Protect Your Teen From the Harmful Effects of Social Media](https://lifehacker.com/how-to-protect-your-teen-from-the-harmful-effects-of-so-1850507480)
 - [Lifehacker] [Charbroil Buttery, Garlicky Oysters Over Your Charcoal Chimney](https://lifehacker.com/charbroil-buttery-garlicky-oysters-over-your-charcoal-1850507286)
 - [Lifehacker] [You Can Try Every Adobe Creative Cloud App for $30](https://lifehacker.com/you-can-try-every-adobe-creative-cloud-app-for-30-1850489802)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This New Kayak Tool Will Tell You the Best Time to Travel](https://lifehacker.com/this-new-kayak-tool-will-tell-you-the-best-time-to-trav-1850502050)
 - [Lifehacker] [The Best Ways to Eliminate Junk Mail](https://lifehacker.com/the-best-ways-to-eliminate-junk-mail-1850503997)
 - [Lifehacker] [What&#39;s a &#39;0.5 Selfie?&#39;](https://lifehacker.com/whats-a-0-5-selfie-1850501012)
-- [Lifehacker] [15 Video Games With Incredible Art Styles](https://lifehacker.com/15-video-games-with-incredible-art-styles-1850501132)
-- [Lifehacker] [This Trader Joe&#39;s Dip Makes a Pretty Great Soup](https://lifehacker.com/this-trader-joes-dip-makes-a-pretty-great-soup-1850501276)
-- [Lifehacker] [Your Basement Laundry Room Can Be Better](https://lifehacker.com/your-basement-laundry-room-can-be-better-1850501517)
-- [Lifehacker] [The Worst Airlines You Should Avoid, If You Can](https://lifehacker.com/the-worst-airlines-you-should-avoid-if-you-can-1850501522)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 Video Games With Incredible Art Styles](https://lifehacker.com/15-video-games-with-incredible-art-styles-1850501132)<!-- TECH-POSTS:END -->
 
 ---
 
