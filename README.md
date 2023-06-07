@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Chatbot SDK – Discover the Power of Chatbot SDK](https://dev.to/devashishmamgain/chatbot-sdk-discover-the-power-of-chatbot-sdk-4ab3)
+- [Dev.to/JS] [Compilation issue in react native project with yarn](https://dev.to/aryajaykesh/compilation-issue-in-react-native-project-with-yarn-34ea)
+- [Dev.to/JS] [AI-Assisted Development: Transform the Way You Code](https://dev.to/aiformewiki/ai-assisted-development-transform-the-way-you-code-32d1)
 - [Dev.to/JS] [A Practical Guide to JavaScript ES6 Features with Real-World Code Snippets](https://dev.to/shubhamt619/a-practical-guide-to-javascript-es6-features-with-real-world-code-snippets-5bde)
 - [Dev.to/JS] [Difference between package.json and package-lock.json](https://dev.to/mitchiemt11/difference-between-packagejson-and-package-lockjson-22ip)
 - [Dev.to/JS] [Genesis of Tokenization in JavaScript](https://dev.to/elliot_brenya/genesis-of-tokenization-in-javascript-3p0j)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimizing Video Localization with ML and AWS Batch](https://dev.to/aws-builders/optimizing-video-localization-with-ml-and-aws-batch-45a1)
 - [Dev.to/JS] [Coding Language Personality Test with AI](https://dev.to/aiformewiki/coding-language-personality-test-with-ai-1f9h)
 - [Dev.to/JS] [React doubt: React.useEffect or useEffect](https://dev.to/damldieg/react-doubt-reactuseeffect-or-useeffect-52a3)
-- [Dev.to/JS] [Leveraging Lightweight Apps with Vue.js: Top 3 Tips](https://dev.to/aaricevans/leveraging-lightweight-apps-with-vuejs-top-3-tips-6p3)
-- [Dev.to/JS] [Weekly web development resources #152](https://dev.to/vincenius/weekly-web-development-resources-152-52i7)
-- [Dev.to/JS] [How to Use OpenAI Fine-tuning API with JavaScript](https://dev.to/0xkoji/how-to-use-openai-fine-tuning-api-with-javascript-25jk)
 - [Lifehacker] [The Best Way to Care for Your Herb Garden Is to Actually Use Them](https://lifehacker.com/the-best-way-to-care-for-your-herb-garden-is-to-actuall-1850502356)
 - [Lifehacker] [All the iOS 17 Features Apple Announced at WWDC](https://lifehacker.com/all-the-ios-17-features-apple-announced-at-wwdc-1850510024)
 - [Lifehacker] [You Should Ditch These Travel Items for the Full-Size Versions](https://lifehacker.com/you-should-ditch-these-travel-items-for-the-full-size-v-1850510634)
