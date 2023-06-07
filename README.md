@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Variables, tipos de dato, scope.](https://dev.to/voidrizoma/variables-tipos-de-dato-scope-c9)
+- [Dev.to/JS] [use i18n-plan for Internationalizing and Localizing web projects](https://dev.to/tongh/use-i18n-plan-for-internationalizing-and-localizing-web-projects-1hop)
+- [Dev.to/JS] [100 Days Coding Challenge - Day 18: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-18-freecodecamp-javascript-algorithms-and-data-structures-4661)
+- [Dev.to/JS] [Cricketer card](https://dev.to/sujeet12/cricketer-card-5fkd)
 - [Dev.to/JS] [How to make search bar and suggestion using only html.](https://dev.to/manoarya/how-to-make-search-bar-and-suggestion-using-only-html-2he7)
 - [Dev.to/JS] [How to create details opener and closer using only html.html **Category :** HTM](https://dev.to/manoarya/how-to-create-details-opener-and-closer-using-only-htmlhtmlcategory-htm-4dho)
 - [Dev.to/JS] [How to make Html search bar with suggestions using html,css and javascript.](https://dev.to/manoarya/how-to-make-html-search-bar-with-suggestions-using-htmlcss-and-javascript-cg)
@@ -36,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Ditch These Travel Items for the Full-Size Versions](https://lifehacker.com/you-should-ditch-these-travel-items-for-the-full-size-v-1850510634)
 - [Lifehacker] [You Can Get This Hand-Sharpened Japanese Knife for 50% Off Right Now](https://lifehacker.com/you-can-get-this-hand-sharpened-japanese-knife-for-50-1850508970)
 - [Lifehacker] [Waffle a Beef Patty for a Quick and Easy Burger](https://lifehacker.com/waffle-a-beef-patty-for-a-quick-and-easy-burger-1850508573)
-- [Dev.to/JS] [Revolutionizing Web Development: Exploring React JS in 2023](https://dev.to/codewithmentor/react-js-for-web-development-in-2023-2db4)
 - [Lifehacker] [The Best New Features Coming to Your AirPods](https://lifehacker.com/the-best-new-features-coming-to-your-airpods-1850510364)
-- [Dev.to/JS] [New Array Methods are Awesome](https://dev.to/ranjan/new-array-methods-are-awesome-356e)
-- [Dev.to/JS] [ApexCharts: The underrated charts library](https://dev.to/saulodias/apexcharts-the-underrated-chart-library-3npi)
-- [Dev.to/JS] [What&#39;s new in Playwright 1.33 and 1.34](https://dev.to/playwright/whats-new-in-playwright-133-and-134-3go)
 - [Lifehacker] [Stop Planting These Invasive Butterfly Bushes](https://lifehacker.com/stop-planting-these-invasive-butterfly-bushes-1850509142)
 - [Lifehacker] [This AI Resume Builder Is Over 75% Off Right Now](https://lifehacker.com/this-ai-resume-builder-is-over-75-off-right-now-1850493675)
 - [Lifehacker] [All the New Features Apple Didn&#39;t Announce at WWDC](https://lifehacker.com/all-the-new-features-apple-didnt-announce-at-wwdc-1850510345)
