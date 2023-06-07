@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NodeJS vs .NET](https://dev.to/code_jedi/nodejs-vs-net-4jo)
+- [Dev.to/JS] [JavaScript Data Grid Libraries](https://dev.to/get_pieces/javascript-data-grid-libraries-4e0)
+- [Dev.to/JS] [Using Performance API to Measure Front-End Interaction Times](https://dev.to/ondrejsevcik/using-performance-api-to-measure-front-end-interaction-times-4f0a)
+- [Lifehacker] [Here&#39;s How Much an N95 Mask Protects You From Wildfire Smoke](https://lifehacker.com/heres-how-much-an-n95-mask-protects-you-from-wildfire-s-1850514977)
 - [Dev.to/JS] [Emacs Literate Programming - Advent of Code](https://dev.to/azeus333/emacs-literate-programming-advent-of-code-5dg4)
 - [Lifehacker] [This Refurbished MacBook Air Is on Sale for $310](https://lifehacker.com/this-refurbished-macbook-air-is-on-sale-for-310-1850508983)
 - [Dev.to/JS] [Why it&#39;s so hard to write a single page application&lpar;SPA&rpar; with just vanilla JavaScript?](https://dev.to/attull/why-its-so-hard-to-write-a-sing-page-applicationspa-with-just-vanilla-javascript-k7j)
@@ -40,11 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [I Tried the Viral TikTok Flour Bacon Hack and It Sucked](https://lifehacker.com/i-tried-the-viral-tiktok-flour-bacon-hack-and-it-sucked-1850512910)
 - [Dev.to/JS] [Remix: A Full-Stack React Framework for Fast and Resilient Web Experiences](https://dev.to/scofieldidehen/remix-a-full-stack-react-framework-for-fast-and-resilient-web-experiences-1ja1)
 - [Dev.to/JS] [Exin-CDCP Questions – Free Updated Demo &lpar;2023&rpar;](https://dev.to/jack1898oliver/exin-cdcp-questions-free-updated-demo-2023-503l)
-- [Dev.to/JS] [CompTIA CAS-003 Questions – Free Updated Demo &lpar;2023&rpar;](https://dev.to/jack1898oliver/comptia-cas-003-questions-free-updated-demo-2023-29nk)
 - [Lifehacker] [You Should Grow More Interesting Peppers](https://lifehacker.com/you-should-grow-more-interesting-peppers-1850502350)
-- [Dev.to/JS] [React 18 Snippets - I need your help ❤️](https://dev.to/kristiyan_velkov/react-18-snippets-i-need-your-help-44o8)
 - [Lifehacker] [How to Get Back Into Your Favorite Childhood Hobby](https://lifehacker.com/how-to-get-back-into-your-favorite-childhood-hobby-1850510930)
-- [Dev.to/JS] [The Romance Between Developers and Data Structures](https://dev.to/jamesajayi/the-romance-between-developers-and-data-structures-ann)
 - [Lifehacker] [The Best Way to Care for Your Herb Garden Is to Actually Use Them](https://lifehacker.com/the-best-way-to-care-for-your-herb-garden-is-to-actuall-1850502356)
 - [Lifehacker] [All the iOS 17 Features Apple Announced at WWDC](https://lifehacker.com/all-the-ios-17-features-apple-announced-at-wwdc-1850510024)
 - [Lifehacker] [You Should Ditch These Travel Items for the Full-Size Versions](https://lifehacker.com/you-should-ditch-these-travel-items-for-the-full-size-v-1850510634)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Apple Devices Won’t Get Software Updates Anymore](https://lifehacker.com/these-apple-devices-won-t-get-software-updates-anymore-1850509451)
 - [Lifehacker] [Why You Shouldn&#39;t Use the Ice Bucket in Your Hotel Room](https://lifehacker.com/why-you-shouldnt-use-the-ice-bucket-in-your-hotel-room-1850508253)
 - [Lifehacker] [How to Protect Your Finances From a Future Government Shutdown](https://lifehacker.com/how-to-protect-your-finances-from-a-future-government-s-1850508240)
-- [Lifehacker] [How to Protect Your Teen From the Harmful Effects of Social Media](https://lifehacker.com/how-to-protect-your-teen-from-the-harmful-effects-of-so-1850507480)
-- [Lifehacker] [Charbroil Buttery, Garlicky Oysters Over Your Charcoal Chimney](https://lifehacker.com/charbroil-buttery-garlicky-oysters-over-your-charcoal-1850507286)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Protect Your Teen From the Harmful Effects of Social Media](https://lifehacker.com/how-to-protect-your-teen-from-the-harmful-effects-of-so-1850507480)<!-- TECH-POSTS:END -->
 
 ---
 
