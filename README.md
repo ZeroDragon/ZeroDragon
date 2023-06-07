@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Back Into Your Favorite Childhood Hobby](https://lifehacker.com/how-to-get-back-into-your-favorite-childhood-hobby-1850510930)
+- [Dev.to/JS] [Learn to Cook Up JavaScript Spells: So Easy Even Grandma Can Do It](https://dev.to/codetobug/learn-to-cook-up-javascript-spells-so-easy-even-grandma-can-do-it-1pce)
+- [Dev.to/JS] [How to register custom Gutenberg Block Category](https://dev.to/mhimon/how-to-register-custom-gutenberg-block-category-67c)
 - [Dev.to/JS] [Chatbot SDK – Discover the Power of Chatbot SDK](https://dev.to/devashishmamgain/chatbot-sdk-discover-the-power-of-chatbot-sdk-4ab3)
 - [Dev.to/JS] [Compilation issue in react native project with yarn](https://dev.to/aryajaykesh/compilation-issue-in-react-native-project-with-yarn-34ea)
 - [Dev.to/JS] [AI-Assisted Development: Transform the Way You Code](https://dev.to/aiformewiki/ai-assisted-development-transform-the-way-you-code-32d1)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript Express: Building Robust APIs with Node.js](https://dev.to/wizdomtek/typescript-express-building-robust-apis-with-nodejs-1fln)
 - [Dev.to/JS] [Authentication system using Golang and Sveltekit - Updating the frontend](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-updating-the-frontend-4a1g)
 - [Dev.to/JS] [Optimizing Video Localization with ML and AWS Batch](https://dev.to/aws-builders/optimizing-video-localization-with-ml-and-aws-batch-45a1)
-- [Dev.to/JS] [Coding Language Personality Test with AI](https://dev.to/aiformewiki/coding-language-personality-test-with-ai-1f9h)
-- [Dev.to/JS] [React doubt: React.useEffect or useEffect](https://dev.to/damldieg/react-doubt-reactuseeffect-or-useeffect-52a3)
 - [Lifehacker] [The Best Way to Care for Your Herb Garden Is to Actually Use Them](https://lifehacker.com/the-best-way-to-care-for-your-herb-garden-is-to-actuall-1850502356)
 - [Lifehacker] [All the iOS 17 Features Apple Announced at WWDC](https://lifehacker.com/all-the-ios-17-features-apple-announced-at-wwdc-1850510024)
 - [Lifehacker] [You Should Ditch These Travel Items for the Full-Size Versions](https://lifehacker.com/you-should-ditch-these-travel-items-for-the-full-size-v-1850510634)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Podcasts That Explore the Weirder Corners of the Internet](https://lifehacker.com/12-podcasts-that-explore-the-weirder-corners-of-the-int-1850503607)
 - [Lifehacker] [Start Each Week With This Digital Decluttering Method](https://lifehacker.com/start-each-week-with-this-digital-decluttering-method-1850507159)
 - [Lifehacker] [10 Security Settings That Protect Your iPhone From Thieves](https://lifehacker.com/10-security-settings-you-should-use-to-protect-your-iph-1850506736)
-- [Lifehacker] [How to Financially Prepare for Your Parents or In-Laws to Move In](https://lifehacker.com/how-to-financially-prepare-for-your-parents-or-in-laws-1850506455)
-- [Lifehacker] [Wake up With Cold Brew Overnight Oats](https://lifehacker.com/wake-up-with-cold-brew-overnight-oats-1850506140)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Financially Prepare for Your Parents or In-Laws to Move In](https://lifehacker.com/how-to-financially-prepare-for-your-parents-or-in-laws-1850506455)<!-- TECH-POSTS:END -->
 
 ---
 
