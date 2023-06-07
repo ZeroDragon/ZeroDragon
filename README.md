@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to make search bar and suggestion using only html.](https://dev.to/manoarya/how-to-make-search-bar-and-suggestion-using-only-html-2he7)
+- [Dev.to/JS] [How to create details opener and closer using only html.html **Category :** HTM](https://dev.to/manoarya/how-to-create-details-opener-and-closer-using-only-htmlhtmlcategory-htm-4dho)
+- [Dev.to/JS] [How to make Html search bar with suggestions using html,css and javascript.](https://dev.to/manoarya/how-to-make-html-search-bar-with-suggestions-using-htmlcss-and-javascript-cg)
 - [Dev.to/JS] [Built API Using Express. js-Full Explanation](https://dev.to/gaurbprajapati/built-api-using-express-js-full-explanation-jf)
 - [Dev.to/JS] [React Server Components overview](https://dev.to/dionarodrigues/react-server-components-overview-3meo)
 - [Dev.to/JS] [How to build and publish a Chrome extension using Javascript](https://dev.to/tcweekly/how-to-build-and-publish-a-chrome-extension-using-javascript-37oj)
@@ -38,11 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New Array Methods are Awesome](https://dev.to/ranjan/new-array-methods-are-awesome-356e)
 - [Dev.to/JS] [ApexCharts: The underrated charts library](https://dev.to/saulodias/apexcharts-the-underrated-chart-library-3npi)
 - [Dev.to/JS] [What&#39;s new in Playwright 1.33 and 1.34](https://dev.to/playwright/whats-new-in-playwright-133-and-134-3go)
-- [Dev.to/JS] [Build a Full Stack GraphQL Application with React + Express](https://dev.to/mohammadfaisal/build-a-full-stack-graphql-application-with-react-express-5bbc)
 - [Lifehacker] [Stop Planting These Invasive Butterfly Bushes](https://lifehacker.com/stop-planting-these-invasive-butterfly-bushes-1850509142)
 - [Lifehacker] [This AI Resume Builder Is Over 75% Off Right Now](https://lifehacker.com/this-ai-resume-builder-is-over-75-off-right-now-1850493675)
-- [Dev.to/JS] [HTML basic explanation by Manoarya.](https://dev.to/manoarya/html-basic-explanation-by-manoarya-4peg)
-- [Dev.to/JS] [Javascript Cheat Sheet 2023.](https://dev.to/manoarya/javascript-cheat-sheet-2023-491c)
 - [Lifehacker] [All the New Features Apple Didn&#39;t Announce at WWDC](https://lifehacker.com/all-the-new-features-apple-didnt-announce-at-wwdc-1850510345)
 - [Lifehacker] [The Best Way to Reclaim Expired Travel Rewards &lpar;and When You Should&rpar;](https://lifehacker.com/the-best-way-to-reclaim-expired-travel-rewards-and-whe-1850510203)
 - [Lifehacker] [This 13-in-1 Docking Station Is $50 Right Now](https://lifehacker.com/this-13-in-1-docking-station-is-50-right-now-1850493659)
