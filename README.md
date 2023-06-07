@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pokémouille - A modern Pokédex &lpar;part 3&rpar;](https://dev.to/vaalley/pokemouille-a-modern-pokedex-part-3-3cgf)
+- [Lifehacker] [Seven Creative Date Ideas for Under $50 Each](https://lifehacker.com/seven-creative-date-ideas-for-under-50-each-1850512775)
 - [Lifehacker] [Why You Should Buy Tools at an Estate Sale &lpar;and What to Look For&rpar;](https://lifehacker.com/why-you-should-buy-tools-at-an-estate-sale-and-what-to-1850513359)
 - [Dev.to/JS] [Async Lubricant: Simplifying Complex Asynchronous Logic with DAG in JavaScript](https://dev.to/artxe2/async-lubricant-simplifying-complex-asynchronous-logic-with-dag-in-javascript-1pbi)
 - [Dev.to/JS] [Getting Started with MDX in Next.js: A Practical Guide](https://dev.to/nitinfab/getting-started-with-mdx-in-nextjs-a-practical-guide-30hf)
@@ -39,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn to Cook Up JavaScript Spells: So Easy Even Grandma Can Do It](https://dev.to/codetobug/learn-to-cook-up-javascript-spells-so-easy-even-grandma-can-do-it-1pce)
 - [Dev.to/JS] [How to register custom Gutenberg Block Category](https://dev.to/mhimon/how-to-register-custom-gutenberg-block-category-67c)
 - [Dev.to/JS] [Chatbot SDK – Discover the Power of Chatbot SDK](https://dev.to/devashishmamgain/chatbot-sdk-discover-the-power-of-chatbot-sdk-4ab3)
-- [Dev.to/JS] [Compilation issue in react native project with yarn](https://dev.to/aryajaykesh/compilation-issue-in-react-native-project-with-yarn-34ea)
 - [Lifehacker] [The Best Way to Care for Your Herb Garden Is to Actually Use Them](https://lifehacker.com/the-best-way-to-care-for-your-herb-garden-is-to-actuall-1850502356)
 - [Lifehacker] [All the iOS 17 Features Apple Announced at WWDC](https://lifehacker.com/all-the-ios-17-features-apple-announced-at-wwdc-1850510024)
 - [Lifehacker] [You Should Ditch These Travel Items for the Full-Size Versions](https://lifehacker.com/you-should-ditch-these-travel-items-for-the-full-size-v-1850510634)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Try Every Adobe Creative Cloud App for $30](https://lifehacker.com/you-can-try-every-adobe-creative-cloud-app-for-30-1850489802)
 - [Lifehacker] [Everything Apple Announced at WWDC 2023](https://lifehacker.com/everything-apple-announced-at-wwdc-2023-1850506825)
 - [Lifehacker] [The 10 Best New Features in watchOS 10](https://lifehacker.com/the-10-best-new-features-in-watchos-10-1850507797)
-- [Lifehacker] [Pancake Bread Pretty Much Makes Itself](https://lifehacker.com/pancake-bread-pretty-much-makes-itself-1850507100)
-- [Lifehacker] [You Can Get a Deeper Connect Mini VPN for Over 40% Off Right Now](https://lifehacker.com/you-can-get-a-deeper-connect-mini-vpn-for-over-40-off-1850489824)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Pancake Bread Pretty Much Makes Itself](https://lifehacker.com/pancake-bread-pretty-much-makes-itself-1850507100)<!-- TECH-POSTS:END -->
 
 ---
 
