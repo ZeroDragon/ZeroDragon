@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TypeScript: Everything you need to know!](https://dev.to/ivangcode/typescript-everything-you-need-to-know-3l8l)
+- [Dev.to/JS] [Maintain scroll position in Turbo without data-turbo-permanent](https://dev.to/konnorrogers/maintain-scroll-position-in-turbo-without-data-turbo-permanent-2b1i)
+- [Lifehacker] [There&#39;s a New Way to Play Wordle With Your Friends](https://lifehacker.com/theres-a-new-way-to-play-wordle-with-your-friends-1850516337)
+- [Dev.to/JS] [How to Create Animation using styled-components](https://dev.to/mohammadfaisal/how-to-create-animation-using-styled-components-588b)
+- [Dev.to/JS] [A Comprehensive Guide to Distributed Tracing in Microservices](https://dev.to/subhafx/a-comprehensive-guide-to-distributed-tracing-in-microservices-3h8j)
 - [Dev.to/JS] [How To Learn New Technology](https://dev.to/mohammadfaisal/how-to-learn-new-technology-502j)
 - [Lifehacker] [What to Consider Before Selling Your Parents&#39; House](https://lifehacker.com/what-to-consider-before-selling-your-parents-house-1850516058)
 - [Lifehacker] [You Can Install the iOS 17 Beta, but You Probably Shouldn&#39;t](https://lifehacker.com/you-can-install-the-ios-17-beta-but-you-probably-shoul-1850515214)
@@ -34,14 +39,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Mismatch Your Duvet Cover for the Fluffiest Bed](https://lifehacker.com/mismatch-your-duvet-cover-for-the-fluffiest-bed-1850515061)
 - [Dev.to/JS] [NodeJS vs .NET](https://dev.to/code_jedi/nodejs-vs-net-4jo)
 - [Dev.to/JS] [JavaScript Data Grid Libraries](https://dev.to/get_pieces/javascript-data-grid-libraries-4e0)
-- [Dev.to/JS] [Using Performance API to Measure Front-End Interaction Times](https://dev.to/ondrejsevcik/using-performance-api-to-measure-front-end-interaction-times-4f0a)
 - [Lifehacker] [Here&#39;s How Much an N95 Mask Protects You From Wildfire Smoke](https://lifehacker.com/heres-how-much-an-n95-mask-protects-you-from-wildfire-s-1850514977)
-- [Dev.to/JS] [Emacs Literate Programming - Advent of Code](https://dev.to/azeus333/emacs-literate-programming-advent-of-code-5dg4)
 - [Lifehacker] [This Refurbished MacBook Air Is on Sale for $310](https://lifehacker.com/this-refurbished-macbook-air-is-on-sale-for-310-1850508983)
-- [Dev.to/JS] [Why it&#39;s so hard to write a single page application&lpar;SPA&rpar; with just vanilla JavaScript?](https://dev.to/attull/why-its-so-hard-to-write-a-sing-page-applicationspa-with-just-vanilla-javascript-k7j)
 - [Lifehacker] [How to Raise the Water Pressure in Your Outdoor Spigot](https://lifehacker.com/how-to-raise-the-water-pressure-in-your-outdoor-spigot-1850513363)
 - [Lifehacker] [This TikTok Hack Is the Funnest Way to Wash Your Dog This Summer](https://lifehacker.com/this-tiktok-hack-is-the-funnest-way-to-wash-your-dog-th-1850514404)
-- [Dev.to/JS] [React Explained: Mastering the useContext Hook](https://dev.to/devprashantt/react-explained-mastering-the-usecontext-hook-491e)
 - [Lifehacker] [Why You Keep Getting Strep Throat](https://lifehacker.com/why-you-keep-getting-strep-throat-1850513974)
 - [Lifehacker] [Seven Creative Date Ideas for Under $50 Each](https://lifehacker.com/seven-creative-date-ideas-for-under-50-each-1850512775)
 - [Lifehacker] [Why You Should Buy Tools at an Estate Sale &lpar;and What to Look For&rpar;](https://lifehacker.com/why-you-should-buy-tools-at-an-estate-sale-and-what-to-1850513359)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Reclaim Expired Travel Rewards &lpar;and When You Should&rpar;](https://lifehacker.com/the-best-way-to-reclaim-expired-travel-rewards-and-whe-1850510203)
 - [Lifehacker] [This 13-in-1 Docking Station Is $50 Right Now](https://lifehacker.com/this-13-in-1-docking-station-is-50-right-now-1850493659)
 - [Lifehacker] [Common Phrases You Shouldn&#39;t Actually Put on Your Dating Profile](https://lifehacker.com/common-phrases-you-shouldnt-actually-put-on-your-dating-1850508562)
-- [Lifehacker] [Why You Should Use a Smart Hose Timer](https://lifehacker.com/why-you-should-use-a-smart-hose-timer-1850509043)
-- [Lifehacker] [These Apple Devices Won’t Get Software Updates Anymore](https://lifehacker.com/these-apple-devices-won-t-get-software-updates-anymore-1850509451)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Use a Smart Hose Timer](https://lifehacker.com/why-you-should-use-a-smart-hose-timer-1850509043)<!-- TECH-POSTS:END -->
 
 ---
 
