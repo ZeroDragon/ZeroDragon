@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Emacs Literate Programming - Advent of Code](https://dev.to/azeus333/emacs-literate-programming-advent-of-code-5dg4)
+- [Lifehacker] [This Refurbished MacBook Air Is on Sale for $310](https://lifehacker.com/this-refurbished-macbook-air-is-on-sale-for-310-1850508983)
+- [Dev.to/JS] [Why it&#39;s so hard to write a single page application&lpar;SPA&rpar; with just vanilla JavaScript?](https://dev.to/attull/why-its-so-hard-to-write-a-sing-page-applicationspa-with-just-vanilla-javascript-k7j)
+- [Lifehacker] [How to Raise the Water Pressure in Your Outdoor Spigot](https://lifehacker.com/how-to-raise-the-water-pressure-in-your-outdoor-spigot-1850513363)
 - [Lifehacker] [This TikTok Hack Is the Funnest Way to Wash Your Dog This Summer](https://lifehacker.com/this-tiktok-hack-is-the-funnest-way-to-wash-your-dog-th-1850514404)
 - [Dev.to/JS] [React Explained: Mastering the useContext Hook](https://dev.to/devprashantt/react-explained-mastering-the-usecontext-hook-491e)
 - [Lifehacker] [Why You Keep Getting Strep Throat](https://lifehacker.com/why-you-keep-getting-strep-throat-1850513974)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React 18 Snippets - I need your help ❤️](https://dev.to/kristiyan_velkov/react-18-snippets-i-need-your-help-44o8)
 - [Lifehacker] [How to Get Back Into Your Favorite Childhood Hobby](https://lifehacker.com/how-to-get-back-into-your-favorite-childhood-hobby-1850510930)
 - [Dev.to/JS] [The Romance Between Developers and Data Structures](https://dev.to/jamesajayi/the-romance-between-developers-and-data-structures-ann)
-- [Dev.to/JS] [Learn to Cook Up JavaScript Spells: So Easy Even Grandma Can Do It](https://dev.to/codetobug/learn-to-cook-up-javascript-spells-so-easy-even-grandma-can-do-it-1pce)
-- [Dev.to/JS] [How to register custom Gutenberg Block Category](https://dev.to/mhimon/how-to-register-custom-gutenberg-block-category-67c)
 - [Lifehacker] [The Best Way to Care for Your Herb Garden Is to Actually Use Them](https://lifehacker.com/the-best-way-to-care-for-your-herb-garden-is-to-actuall-1850502356)
 - [Lifehacker] [All the iOS 17 Features Apple Announced at WWDC](https://lifehacker.com/all-the-ios-17-features-apple-announced-at-wwdc-1850510024)
 - [Lifehacker] [You Should Ditch These Travel Items for the Full-Size Versions](https://lifehacker.com/you-should-ditch-these-travel-items-for-the-full-size-v-1850510634)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Shouldn&#39;t Use the Ice Bucket in Your Hotel Room](https://lifehacker.com/why-you-shouldnt-use-the-ice-bucket-in-your-hotel-room-1850508253)
 - [Lifehacker] [How to Protect Your Finances From a Future Government Shutdown](https://lifehacker.com/how-to-protect-your-finances-from-a-future-government-s-1850508240)
 - [Lifehacker] [How to Protect Your Teen From the Harmful Effects of Social Media](https://lifehacker.com/how-to-protect-your-teen-from-the-harmful-effects-of-so-1850507480)
-- [Lifehacker] [Charbroil Buttery, Garlicky Oysters Over Your Charcoal Chimney](https://lifehacker.com/charbroil-buttery-garlicky-oysters-over-your-charcoal-1850507286)
-- [Lifehacker] [You Can Try Every Adobe Creative Cloud App for $30](https://lifehacker.com/you-can-try-every-adobe-creative-cloud-app-for-30-1850489802)
-- [Lifehacker] [Everything Apple Announced at WWDC 2023](https://lifehacker.com/everything-apple-announced-at-wwdc-2023-1850506825)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Charbroil Buttery, Garlicky Oysters Over Your Charcoal Chimney](https://lifehacker.com/charbroil-buttery-garlicky-oysters-over-your-charcoal-1850507286)<!-- TECH-POSTS:END -->
 
 ---
 
