@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Buy Tools at an Estate Sale &lpar;and What to Look For&rpar;](https://lifehacker.com/why-you-should-buy-tools-at-an-estate-sale-and-what-to-1850513359)
+- [Dev.to/JS] [Async Lubricant: Simplifying Complex Asynchronous Logic with DAG in JavaScript](https://dev.to/artxe2/async-lubricant-simplifying-complex-asynchronous-logic-with-dag-in-javascript-1pbi)
+- [Dev.to/JS] [Getting Started with MDX in Next.js: A Practical Guide](https://dev.to/nitinfab/getting-started-with-mdx-in-nextjs-a-practical-guide-30hf)
+- [Lifehacker] [The Best New Features in macOS Sonoma](https://lifehacker.com/the-best-new-features-in-macos-sonoma-1850513731)
+- [Dev.to/JS] [How I Built a Modern &#39;Food Menu&#39; Web App: From Tech Stack to Workflow](https://dev.to/livecycle/how-i-built-a-modern-food-menu-web-app-from-tech-stack-to-workflow-3iok)
 - [Lifehacker] [I Tried the Viral TikTok Flour Bacon Hack and It Sucked](https://lifehacker.com/i-tried-the-viral-tiktok-flour-bacon-hack-and-it-sucked-1850512910)
 - [Dev.to/JS] [Remix: A Full-Stack React Framework for Fast and Resilient Web Experiences](https://dev.to/scofieldidehen/remix-a-full-stack-react-framework-for-fast-and-resilient-web-experiences-1ja1)
 - [Dev.to/JS] [Exin-CDCP Questions – Free Updated Demo &lpar;2023&rpar;](https://dev.to/jack1898oliver/exin-cdcp-questions-free-updated-demo-2023-503l)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to register custom Gutenberg Block Category](https://dev.to/mhimon/how-to-register-custom-gutenberg-block-category-67c)
 - [Dev.to/JS] [Chatbot SDK – Discover the Power of Chatbot SDK](https://dev.to/devashishmamgain/chatbot-sdk-discover-the-power-of-chatbot-sdk-4ab3)
 - [Dev.to/JS] [Compilation issue in react native project with yarn](https://dev.to/aryajaykesh/compilation-issue-in-react-native-project-with-yarn-34ea)
-- [Dev.to/JS] [AI-Assisted Development: Transform the Way You Code](https://dev.to/aiformewiki/ai-assisted-development-transform-the-way-you-code-32d1)
-- [Dev.to/JS] [A Practical Guide to JavaScript ES6 Features with Real-World Code Snippets](https://dev.to/shubhamt619/a-practical-guide-to-javascript-es6-features-with-real-world-code-snippets-5bde)
-- [Dev.to/JS] [Difference between package.json and package-lock.json](https://dev.to/mitchiemt11/difference-between-packagejson-and-package-lockjson-22ip)
 - [Lifehacker] [The Best Way to Care for Your Herb Garden Is to Actually Use Them](https://lifehacker.com/the-best-way-to-care-for-your-herb-garden-is-to-actuall-1850502356)
 - [Lifehacker] [All the iOS 17 Features Apple Announced at WWDC](https://lifehacker.com/all-the-ios-17-features-apple-announced-at-wwdc-1850510024)
 - [Lifehacker] [You Should Ditch These Travel Items for the Full-Size Versions](https://lifehacker.com/you-should-ditch-these-travel-items-for-the-full-size-v-1850510634)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything Apple Announced at WWDC 2023](https://lifehacker.com/everything-apple-announced-at-wwdc-2023-1850506825)
 - [Lifehacker] [The 10 Best New Features in watchOS 10](https://lifehacker.com/the-10-best-new-features-in-watchos-10-1850507797)
 - [Lifehacker] [Pancake Bread Pretty Much Makes Itself](https://lifehacker.com/pancake-bread-pretty-much-makes-itself-1850507100)
-- [Lifehacker] [You Can Get a Deeper Connect Mini VPN for Over 40% Off Right Now](https://lifehacker.com/you-can-get-a-deeper-connect-mini-vpn-for-over-40-off-1850489824)
-- [Lifehacker] [12 Podcasts That Explore the Weirder Corners of the Internet](https://lifehacker.com/12-podcasts-that-explore-the-weirder-corners-of-the-int-1850503607)
-- [Lifehacker] [Start Each Week With This Digital Decluttering Method](https://lifehacker.com/start-each-week-with-this-digital-decluttering-method-1850507159)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a Deeper Connect Mini VPN for Over 40% Off Right Now](https://lifehacker.com/you-can-get-a-deeper-connect-mini-vpn-for-over-40-off-1850489824)<!-- TECH-POSTS:END -->
 
 ---
 
