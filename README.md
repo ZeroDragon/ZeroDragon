@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Weekly web development resources #152](https://dev.to/vincenius/weekly-web-development-resources-152-52i7)
+- [Dev.to/JS] [How to Use OpenAI Fine-tuning API with JavaScript](https://dev.to/0xkoji/how-to-use-openai-fine-tuning-api-with-javascript-25jk)
 - [Dev.to/JS] [Create Your Own Programming Language 3: Call Expressions](https://dev.to/jasonsbarr/create-your-own-programming-language-3-call-expressions-4kja)
 - [Dev.to/JS] [Variables, tipos de dato, scope.](https://dev.to/voidrizoma/variables-tipos-de-dato-scope-c9)
 - [Dev.to/JS] [use i18n-plan for Internationalizing and Localizing web projects](https://dev.to/tongh/use-i18n-plan-for-internationalizing-and-localizing-web-projects-1hop)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to make Html search bar with suggestions using html,css and javascript.](https://dev.to/manoarya/how-to-make-html-search-bar-with-suggestions-using-htmlcss-and-javascript-cg)
 - [Dev.to/JS] [Built API Using Express. js-Full Explanation](https://dev.to/gaurbprajapati/built-api-using-express-js-full-explanation-jf)
 - [Dev.to/JS] [React Server Components overview](https://dev.to/dionarodrigues/react-server-components-overview-3meo)
-- [Dev.to/JS] [How to build and publish a Chrome extension using Javascript](https://dev.to/tcweekly/how-to-build-and-publish-a-chrome-extension-using-javascript-37oj)
-- [Dev.to/JS] [Node.js Error Handling.](https://dev.to/gaurbprajapati/nodejs-error-handling-137f)
 - [Lifehacker] [The Best Way to Care for Your Herb Garden Is to Actually Use Them](https://lifehacker.com/the-best-way-to-care-for-your-herb-garden-is-to-actuall-1850502356)
 - [Lifehacker] [All the iOS 17 Features Apple Announced at WWDC](https://lifehacker.com/all-the-ios-17-features-apple-announced-at-wwdc-1850510024)
 - [Lifehacker] [You Should Ditch These Travel Items for the Full-Size Versions](https://lifehacker.com/you-should-ditch-these-travel-items-for-the-full-size-v-1850510634)
