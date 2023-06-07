@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Leveraging Lightweight Apps with Vue.js: Top 3 Tips](https://dev.to/aaricevans/leveraging-lightweight-apps-with-vuejs-top-3-tips-6p3)
 - [Dev.to/JS] [Weekly web development resources #152](https://dev.to/vincenius/weekly-web-development-resources-152-52i7)
 - [Dev.to/JS] [How to Use OpenAI Fine-tuning API with JavaScript](https://dev.to/0xkoji/how-to-use-openai-fine-tuning-api-with-javascript-25jk)
 - [Dev.to/JS] [Create Your Own Programming Language 3: Call Expressions](https://dev.to/jasonsbarr/create-your-own-programming-language-3-call-expressions-4kja)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create details opener and closer using only html.html **Category :** HTM](https://dev.to/manoarya/how-to-create-details-opener-and-closer-using-only-htmlhtmlcategory-htm-4dho)
 - [Dev.to/JS] [How to make Html search bar with suggestions using html,css and javascript.](https://dev.to/manoarya/how-to-make-html-search-bar-with-suggestions-using-htmlcss-and-javascript-cg)
 - [Dev.to/JS] [Built API Using Express. js-Full Explanation](https://dev.to/gaurbprajapati/built-api-using-express-js-full-explanation-jf)
-- [Dev.to/JS] [React Server Components overview](https://dev.to/dionarodrigues/react-server-components-overview-3meo)
 - [Lifehacker] [The Best Way to Care for Your Herb Garden Is to Actually Use Them](https://lifehacker.com/the-best-way-to-care-for-your-herb-garden-is-to-actuall-1850502356)
 - [Lifehacker] [All the iOS 17 Features Apple Announced at WWDC](https://lifehacker.com/all-the-ios-17-features-apple-announced-at-wwdc-1850510024)
 - [Lifehacker] [You Should Ditch These Travel Items for the Full-Size Versions](https://lifehacker.com/you-should-ditch-these-travel-items-for-the-full-size-v-1850510634)
