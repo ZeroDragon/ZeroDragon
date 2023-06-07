@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Genesis of Tokenization in JavaScript](https://dev.to/elliot_brenya/genesis-of-tokenization-in-javascript-3p0j)
+- [Dev.to/JS] [TypeScript Express: Building Robust APIs with Node.js](https://dev.to/wizdomtek/typescript-express-building-robust-apis-with-nodejs-1fln)
 - [Dev.to/JS] [Authentication system using Golang and Sveltekit - Updating the frontend](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-updating-the-frontend-4a1g)
 - [Dev.to/JS] [Optimizing Video Localization with ML and AWS Batch](https://dev.to/aws-builders/optimizing-video-localization-with-ml-and-aws-batch-45a1)
 - [Dev.to/JS] [Coding Language Personality Test with AI](https://dev.to/aiformewiki/coding-language-personality-test-with-ai-1f9h)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create Your Own Programming Language 3: Call Expressions](https://dev.to/jasonsbarr/create-your-own-programming-language-3-call-expressions-4kja)
 - [Dev.to/JS] [Variables, tipos de dato, scope.](https://dev.to/voidrizoma/variables-tipos-de-dato-scope-c9)
 - [Dev.to/JS] [use i18n-plan for Internationalizing and Localizing web projects](https://dev.to/tongh/use-i18n-plan-for-internationalizing-and-localizing-web-projects-1hop)
-- [Dev.to/JS] [100 Days Coding Challenge - Day 18: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-18-freecodecamp-javascript-algorithms-and-data-structures-4661)
-- [Dev.to/JS] [Cricketer card](https://dev.to/sujeet12/cricketer-card-5fkd)
 - [Lifehacker] [The Best Way to Care for Your Herb Garden Is to Actually Use Them](https://lifehacker.com/the-best-way-to-care-for-your-herb-garden-is-to-actuall-1850502356)
 - [Lifehacker] [All the iOS 17 Features Apple Announced at WWDC](https://lifehacker.com/all-the-ios-17-features-apple-announced-at-wwdc-1850510024)
 - [Lifehacker] [You Should Ditch These Travel Items for the Full-Size Versions](https://lifehacker.com/you-should-ditch-these-travel-items-for-the-full-size-v-1850510634)
