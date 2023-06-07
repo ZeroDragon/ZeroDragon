@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Strict Mode? Or, &quot;The Day JavaScript Morphed Into My Mother&quot;](https://dev.to/codetobug/what-is-strict-mode-or-the-day-javascript-morphed-into-my-mother-g4d)
+- [Dev.to/JS] [Move from been a Novice in JavaScript to Beginner in just 3weeks of JavaScript.](https://dev.to/whitecoode/move-from-been-a-novice-in-javascript-to-beginner-in-just-3weeks-of-javascript-5f51)
+- [Dev.to/JS] [3D Globe Animated Code By Kattegory](https://dev.to/kattegory9/3d-globe-animated-code-by-kattegory-27on)
 - [Dev.to/JS] [Demystifying Array.reduce in JavaScript](https://dev.to/arinthros/demystifying-arrayreduce-in-javascript-bi8)
 - [Lifehacker] [The Best New Privacy Features Coming to Your Mac, iPhone, and iPad](https://lifehacker.com/the-best-new-privacy-features-coming-to-your-mac-iphon-1850515369)
 - [Lifehacker] [How to Use Every Part of a Rotisserie Chicken, Right Down to the Bones](https://lifehacker.com/how-to-use-every-part-of-a-rotisserie-chicken-right-do-1850516187)
@@ -38,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Choose Svelte over React](https://dev.to/kylebuildsstuff/why-choose-svelte-over-react-3ep2)
 - [Dev.to/JS] [Highest Paying Programming Jobs and Skills in 2023](https://dev.to/code_jedi/highest-paying-programming-jobs-and-skills-in-2023-52kk)
 - [Dev.to/JS] [Next.js vs RedwoodJS - Comparing JS Frameworks](https://dev.to/get_pieces/nextjs-vs-redwoodjs-comparing-js-frameworks-5o4)
-- [Dev.to/JS] [Optimizing for performance with Eleventy](https://dev.to/cdransf/optimizing-for-performance-with-eleventy-5dnc)
-- [Dev.to/JS] [The Greatest Programmers of All Time &lpar;List&rpar;](https://dev.to/code_jedi/the-greatest-programmers-of-all-time-list-5bhb)
 - [Lifehacker] [Mismatch Your Duvet Cover for the Fluffiest Bed](https://lifehacker.com/mismatch-your-duvet-cover-for-the-fluffiest-bed-1850515061)
-- [Dev.to/JS] [NodeJS vs .NET](https://dev.to/code_jedi/nodejs-vs-net-4jo)
 - [Lifehacker] [Here&#39;s How Much an N95 Mask Protects You From Wildfire Smoke](https://lifehacker.com/heres-how-much-an-n95-mask-protects-you-from-wildfire-s-1850514977)
 - [Lifehacker] [This Refurbished MacBook Air Is on Sale for $310](https://lifehacker.com/this-refurbished-macbook-air-is-on-sale-for-310-1850508983)
 - [Lifehacker] [How to Raise the Water Pressure in Your Outdoor Spigot](https://lifehacker.com/how-to-raise-the-water-pressure-in-your-outdoor-spigot-1850513363)
