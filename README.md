@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create Your Own Programming Language 3: Call Expressions](https://dev.to/jasonsbarr/create-your-own-programming-language-3-call-expressions-4kja)
 - [Dev.to/JS] [Variables, tipos de dato, scope.](https://dev.to/voidrizoma/variables-tipos-de-dato-scope-c9)
 - [Dev.to/JS] [use i18n-plan for Internationalizing and Localizing web projects](https://dev.to/tongh/use-i18n-plan-for-internationalizing-and-localizing-web-projects-1hop)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 18: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-18-freecodecamp-javascript-algorithms-and-data-structures-4661)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node.js Error Handling.](https://dev.to/gaurbprajapati/nodejs-error-handling-137f)
 - [Lifehacker] [The Best Way to Care for Your Herb Garden Is to Actually Use Them](https://lifehacker.com/the-best-way-to-care-for-your-herb-garden-is-to-actuall-1850502356)
 - [Lifehacker] [All the iOS 17 Features Apple Announced at WWDC](https://lifehacker.com/all-the-ios-17-features-apple-announced-at-wwdc-1850510024)
-- [Dev.to/JS] [🌍How Startups Support Green Tech Initiatives for a Sustainable Future? Top interesting #apps and #startups](https://dev.to/devler_io/how-startups-support-green-tech-initiatives-for-a-sustainable-future-top-interesting-apps-and-startups-f27)
 - [Lifehacker] [You Should Ditch These Travel Items for the Full-Size Versions](https://lifehacker.com/you-should-ditch-these-travel-items-for-the-full-size-v-1850510634)
 - [Lifehacker] [You Can Get This Hand-Sharpened Japanese Knife for 50% Off Right Now](https://lifehacker.com/you-can-get-this-hand-sharpened-japanese-knife-for-50-1850508970)
 - [Lifehacker] [Waffle a Beef Patty for a Quick and Easy Burger](https://lifehacker.com/waffle-a-beef-patty-for-a-quick-and-easy-burger-1850508573)
