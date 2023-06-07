@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Server Components overview](https://dev.to/dionarodrigues/react-server-components-overview-3meo)
 - [Dev.to/JS] [How to build and publish a Chrome extension using Javascript](https://dev.to/tcweekly/how-to-build-and-publish-a-chrome-extension-using-javascript-37oj)
 - [Dev.to/JS] [Node.js Error Handling.](https://dev.to/gaurbprajapati/nodejs-error-handling-137f)
 - [Lifehacker] [The Best Way to Care for Your Herb Garden Is to Actually Use Them](https://lifehacker.com/the-best-way-to-care-for-your-herb-garden-is-to-actuall-1850502356)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 6 Iteration Methods in Javascript](https://dev.to/ashishkankal/top-6-iteration-methods-in-javascript-44a7)
 - [Lifehacker] [All the New Features Apple Didn&#39;t Announce at WWDC](https://lifehacker.com/all-the-new-features-apple-didnt-announce-at-wwdc-1850510345)
 - [Lifehacker] [The Best Way to Reclaim Expired Travel Rewards &lpar;and When You Should&rpar;](https://lifehacker.com/the-best-way-to-reclaim-expired-travel-rewards-and-whe-1850510203)
-- [Dev.to/JS] [Mastering Promises in JavaScript: A Comprehensive Guide](https://dev.to/bobbyhalljr/mastering-promises-in-javascript-a-comprehensive-guide-614)
 - [Lifehacker] [This 13-in-1 Docking Station Is $50 Right Now](https://lifehacker.com/this-13-in-1-docking-station-is-50-right-now-1850493659)
 - [Lifehacker] [Common Phrases You Shouldn&#39;t Actually Put on Your Dating Profile](https://lifehacker.com/common-phrases-you-shouldnt-actually-put-on-your-dating-1850508562)
 - [Lifehacker] [Why You Should Use a Smart Hose Timer](https://lifehacker.com/why-you-should-use-a-smart-hose-timer-1850509043)
