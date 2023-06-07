@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Learn New Technology](https://dev.to/mohammadfaisal/how-to-learn-new-technology-502j)
+- [Lifehacker] [What to Consider Before Selling Your Parents&#39; House](https://lifehacker.com/what-to-consider-before-selling-your-parents-house-1850516058)
+- [Lifehacker] [You Can Install the iOS 17 Beta, but You Probably Shouldn&#39;t](https://lifehacker.com/you-can-install-the-ios-17-beta-but-you-probably-shoul-1850515214)
+- [Dev.to/JS] [Why Choose Svelte over React](https://dev.to/kylebuildsstuff/why-choose-svelte-over-react-3ep2)
+- [Dev.to/JS] [Highest Paying Programming Jobs and Skills in 2023](https://dev.to/code_jedi/highest-paying-programming-jobs-and-skills-in-2023-52kk)
+- [Dev.to/JS] [Next.js vs RedwoodJS - Comparing JS Frameworks](https://dev.to/get_pieces/nextjs-vs-redwoodjs-comparing-js-frameworks-5o4)
+- [Dev.to/JS] [Optimizing for performance with Eleventy](https://dev.to/cdransf/optimizing-for-performance-with-eleventy-5dnc)
+- [Dev.to/JS] [The Greatest Programmers of All Time &lpar;List&rpar;](https://dev.to/code_jedi/the-greatest-programmers-of-all-time-list-5bhb)
+- [Lifehacker] [Mismatch Your Duvet Cover for the Fluffiest Bed](https://lifehacker.com/mismatch-your-duvet-cover-for-the-fluffiest-bed-1850515061)
 - [Dev.to/JS] [NodeJS vs .NET](https://dev.to/code_jedi/nodejs-vs-net-4jo)
 - [Dev.to/JS] [JavaScript Data Grid Libraries](https://dev.to/get_pieces/javascript-data-grid-libraries-4e0)
 - [Dev.to/JS] [Using Performance API to Measure Front-End Interaction Times](https://dev.to/ondrejsevcik/using-performance-api-to-measure-front-end-interaction-times-4f0a)
@@ -34,16 +43,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This TikTok Hack Is the Funnest Way to Wash Your Dog This Summer](https://lifehacker.com/this-tiktok-hack-is-the-funnest-way-to-wash-your-dog-th-1850514404)
 - [Dev.to/JS] [React Explained: Mastering the useContext Hook](https://dev.to/devprashantt/react-explained-mastering-the-usecontext-hook-491e)
 - [Lifehacker] [Why You Keep Getting Strep Throat](https://lifehacker.com/why-you-keep-getting-strep-throat-1850513974)
-- [Dev.to/JS] [Pokémouille - A modern Pokédex &lpar;part 3&rpar;](https://dev.to/vaalley/pokemouille-a-modern-pokedex-part-3-3cgf)
 - [Lifehacker] [Seven Creative Date Ideas for Under $50 Each](https://lifehacker.com/seven-creative-date-ideas-for-under-50-each-1850512775)
 - [Lifehacker] [Why You Should Buy Tools at an Estate Sale &lpar;and What to Look For&rpar;](https://lifehacker.com/why-you-should-buy-tools-at-an-estate-sale-and-what-to-1850513359)
-- [Dev.to/JS] [Async Lubricant: Simplifying Complex Asynchronous Logic with DAG in JavaScript](https://dev.to/artxe2/async-lubricant-simplifying-complex-asynchronous-logic-with-dag-in-javascript-1pbi)
-- [Dev.to/JS] [Getting Started with MDX in Next.js: A Practical Guide](https://dev.to/nitinfab/getting-started-with-mdx-in-nextjs-a-practical-guide-30hf)
 - [Lifehacker] [The Best New Features in macOS Sonoma](https://lifehacker.com/the-best-new-features-in-macos-sonoma-1850513731)
-- [Dev.to/JS] [How I Built a Modern &#39;Food Menu&#39; Web App: From Tech Stack to Workflow](https://dev.to/livecycle/how-i-built-a-modern-food-menu-web-app-from-tech-stack-to-workflow-3iok)
 - [Lifehacker] [I Tried the Viral TikTok Flour Bacon Hack and It Sucked](https://lifehacker.com/i-tried-the-viral-tiktok-flour-bacon-hack-and-it-sucked-1850512910)
-- [Dev.to/JS] [Remix: A Full-Stack React Framework for Fast and Resilient Web Experiences](https://dev.to/scofieldidehen/remix-a-full-stack-react-framework-for-fast-and-resilient-web-experiences-1ja1)
-- [Dev.to/JS] [Exin-CDCP Questions – Free Updated Demo &lpar;2023&rpar;](https://dev.to/jack1898oliver/exin-cdcp-questions-free-updated-demo-2023-503l)
 - [Lifehacker] [You Should Grow More Interesting Peppers](https://lifehacker.com/you-should-grow-more-interesting-peppers-1850502350)
 - [Lifehacker] [How to Get Back Into Your Favorite Childhood Hobby](https://lifehacker.com/how-to-get-back-into-your-favorite-childhood-hobby-1850510930)
 - [Lifehacker] [The Best Way to Care for Your Herb Garden Is to Actually Use Them](https://lifehacker.com/the-best-way-to-care-for-your-herb-garden-is-to-actuall-1850502356)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This 13-in-1 Docking Station Is $50 Right Now](https://lifehacker.com/this-13-in-1-docking-station-is-50-right-now-1850493659)
 - [Lifehacker] [Common Phrases You Shouldn&#39;t Actually Put on Your Dating Profile](https://lifehacker.com/common-phrases-you-shouldnt-actually-put-on-your-dating-1850508562)
 - [Lifehacker] [Why You Should Use a Smart Hose Timer](https://lifehacker.com/why-you-should-use-a-smart-hose-timer-1850509043)
-- [Lifehacker] [These Apple Devices Won’t Get Software Updates Anymore](https://lifehacker.com/these-apple-devices-won-t-get-software-updates-anymore-1850509451)
-- [Lifehacker] [Why You Shouldn&#39;t Use the Ice Bucket in Your Hotel Room](https://lifehacker.com/why-you-shouldnt-use-the-ice-bucket-in-your-hotel-room-1850508253)
-- [Lifehacker] [How to Protect Your Finances From a Future Government Shutdown](https://lifehacker.com/how-to-protect-your-finances-from-a-future-government-s-1850508240)
-- [Lifehacker] [How to Protect Your Teen From the Harmful Effects of Social Media](https://lifehacker.com/how-to-protect-your-teen-from-the-harmful-effects-of-so-1850507480)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Apple Devices Won’t Get Software Updates Anymore](https://lifehacker.com/these-apple-devices-won-t-get-software-updates-anymore-1850509451)<!-- TECH-POSTS:END -->
 
 ---
 
