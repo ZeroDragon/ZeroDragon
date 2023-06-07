@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Built API Using Express. js-Full Explanation](https://dev.to/gaurbprajapati/built-api-using-express-js-full-explanation-jf)
 - [Dev.to/JS] [React Server Components overview](https://dev.to/dionarodrigues/react-server-components-overview-3meo)
 - [Dev.to/JS] [How to build and publish a Chrome extension using Javascript](https://dev.to/tcweekly/how-to-build-and-publish-a-chrome-extension-using-javascript-37oj)
 - [Dev.to/JS] [Node.js Error Handling.](https://dev.to/gaurbprajapati/nodejs-error-handling-137f)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This AI Resume Builder Is Over 75% Off Right Now](https://lifehacker.com/this-ai-resume-builder-is-over-75-off-right-now-1850493675)
 - [Dev.to/JS] [HTML basic explanation by Manoarya.](https://dev.to/manoarya/html-basic-explanation-by-manoarya-4peg)
 - [Dev.to/JS] [Javascript Cheat Sheet 2023.](https://dev.to/manoarya/javascript-cheat-sheet-2023-491c)
-- [Dev.to/JS] [Top 6 Iteration Methods in Javascript](https://dev.to/ashishkankal/top-6-iteration-methods-in-javascript-44a7)
 - [Lifehacker] [All the New Features Apple Didn&#39;t Announce at WWDC](https://lifehacker.com/all-the-new-features-apple-didnt-announce-at-wwdc-1850510345)
 - [Lifehacker] [The Best Way to Reclaim Expired Travel Rewards &lpar;and When You Should&rpar;](https://lifehacker.com/the-best-way-to-reclaim-expired-travel-rewards-and-whe-1850510203)
 - [Lifehacker] [This 13-in-1 Docking Station Is $50 Right Now](https://lifehacker.com/this-13-in-1-docking-station-is-50-right-now-1850493659)
