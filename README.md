@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Practical Guide to JavaScript ES6 Features with Real-World Code Snippets](https://dev.to/shubhamt619/a-practical-guide-to-javascript-es6-features-with-real-world-code-snippets-5bde)
+- [Dev.to/JS] [Difference between package.json and package-lock.json](https://dev.to/mitchiemt11/difference-between-packagejson-and-package-lockjson-22ip)
 - [Dev.to/JS] [Genesis of Tokenization in JavaScript](https://dev.to/elliot_brenya/genesis-of-tokenization-in-javascript-3p0j)
+- [Dev.to/JS] [Part : &lpar;3&rpar; Conditionals and Loops in JavaScript](https://dev.to/cliff123tech/part-3-conditionals-and-loops-in-javascript-12j4)
 - [Dev.to/JS] [TypeScript Express: Building Robust APIs with Node.js](https://dev.to/wizdomtek/typescript-express-building-robust-apis-with-nodejs-1fln)
 - [Dev.to/JS] [Authentication system using Golang and Sveltekit - Updating the frontend](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-updating-the-frontend-4a1g)
 - [Dev.to/JS] [Optimizing Video Localization with ML and AWS Batch](https://dev.to/aws-builders/optimizing-video-localization-with-ml-and-aws-batch-45a1)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Leveraging Lightweight Apps with Vue.js: Top 3 Tips](https://dev.to/aaricevans/leveraging-lightweight-apps-with-vuejs-top-3-tips-6p3)
 - [Dev.to/JS] [Weekly web development resources #152](https://dev.to/vincenius/weekly-web-development-resources-152-52i7)
 - [Dev.to/JS] [How to Use OpenAI Fine-tuning API with JavaScript](https://dev.to/0xkoji/how-to-use-openai-fine-tuning-api-with-javascript-25jk)
-- [Dev.to/JS] [Create Your Own Programming Language 3: Call Expressions](https://dev.to/jasonsbarr/create-your-own-programming-language-3-call-expressions-4kja)
-- [Dev.to/JS] [Variables, tipos de dato, scope.](https://dev.to/voidrizoma/variables-tipos-de-dato-scope-c9)
-- [Dev.to/JS] [use i18n-plan for Internationalizing and Localizing web projects](https://dev.to/tongh/use-i18n-plan-for-internationalizing-and-localizing-web-projects-1hop)
 - [Lifehacker] [The Best Way to Care for Your Herb Garden Is to Actually Use Them](https://lifehacker.com/the-best-way-to-care-for-your-herb-garden-is-to-actuall-1850502356)
 - [Lifehacker] [All the iOS 17 Features Apple Announced at WWDC](https://lifehacker.com/all-the-ios-17-features-apple-announced-at-wwdc-1850510024)
 - [Lifehacker] [You Should Ditch These Travel Items for the Full-Size Versions](https://lifehacker.com/you-should-ditch-these-travel-items-for-the-full-size-v-1850510634)
