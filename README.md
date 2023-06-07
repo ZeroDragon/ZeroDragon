@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [I Tried the Viral TikTok Flour Bacon Hack and It Sucked](https://lifehacker.com/i-tried-the-viral-tiktok-flour-bacon-hack-and-it-sucked-1850512910)
+- [Dev.to/JS] [Remix: A Full-Stack React Framework for Fast and Resilient Web Experiences](https://dev.to/scofieldidehen/remix-a-full-stack-react-framework-for-fast-and-resilient-web-experiences-1ja1)
+- [Dev.to/JS] [Exin-CDCP Questions – Free Updated Demo &lpar;2023&rpar;](https://dev.to/jack1898oliver/exin-cdcp-questions-free-updated-demo-2023-503l)
+- [Dev.to/JS] [CompTIA CAS-003 Questions – Free Updated Demo &lpar;2023&rpar;](https://dev.to/jack1898oliver/comptia-cas-003-questions-free-updated-demo-2023-29nk)
+- [Lifehacker] [You Should Grow More Interesting Peppers](https://lifehacker.com/you-should-grow-more-interesting-peppers-1850502350)
+- [Dev.to/JS] [React 18 Snippets - I need your help ❤️](https://dev.to/kristiyan_velkov/react-18-snippets-i-need-your-help-44o8)
 - [Lifehacker] [How to Get Back Into Your Favorite Childhood Hobby](https://lifehacker.com/how-to-get-back-into-your-favorite-childhood-hobby-1850510930)
+- [Dev.to/JS] [The Romance Between Developers and Data Structures](https://dev.to/jamesajayi/the-romance-between-developers-and-data-structures-ann)
 - [Dev.to/JS] [Learn to Cook Up JavaScript Spells: So Easy Even Grandma Can Do It](https://dev.to/codetobug/learn-to-cook-up-javascript-spells-so-easy-even-grandma-can-do-it-1pce)
 - [Dev.to/JS] [How to register custom Gutenberg Block Category](https://dev.to/mhimon/how-to-register-custom-gutenberg-block-category-67c)
 - [Dev.to/JS] [Chatbot SDK – Discover the Power of Chatbot SDK](https://dev.to/devashishmamgain/chatbot-sdk-discover-the-power-of-chatbot-sdk-4ab3)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AI-Assisted Development: Transform the Way You Code](https://dev.to/aiformewiki/ai-assisted-development-transform-the-way-you-code-32d1)
 - [Dev.to/JS] [A Practical Guide to JavaScript ES6 Features with Real-World Code Snippets](https://dev.to/shubhamt619/a-practical-guide-to-javascript-es6-features-with-real-world-code-snippets-5bde)
 - [Dev.to/JS] [Difference between package.json and package-lock.json](https://dev.to/mitchiemt11/difference-between-packagejson-and-package-lockjson-22ip)
-- [Dev.to/JS] [Genesis of Tokenization in JavaScript](https://dev.to/elliot_brenya/genesis-of-tokenization-in-javascript-3p0j)
-- [Dev.to/JS] [Part : &lpar;3&rpar; Conditionals and Loops in JavaScript](https://dev.to/cliff123tech/part-3-conditionals-and-loops-in-javascript-12j4)
-- [Dev.to/JS] [TypeScript Express: Building Robust APIs with Node.js](https://dev.to/wizdomtek/typescript-express-building-robust-apis-with-nodejs-1fln)
-- [Dev.to/JS] [Authentication system using Golang and Sveltekit - Updating the frontend](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-updating-the-frontend-4a1g)
-- [Dev.to/JS] [Optimizing Video Localization with ML and AWS Batch](https://dev.to/aws-builders/optimizing-video-localization-with-ml-and-aws-batch-45a1)
 - [Lifehacker] [The Best Way to Care for Your Herb Garden Is to Actually Use Them](https://lifehacker.com/the-best-way-to-care-for-your-herb-garden-is-to-actuall-1850502356)
 - [Lifehacker] [All the iOS 17 Features Apple Announced at WWDC](https://lifehacker.com/all-the-ios-17-features-apple-announced-at-wwdc-1850510024)
 - [Lifehacker] [You Should Ditch These Travel Items for the Full-Size Versions](https://lifehacker.com/you-should-ditch-these-travel-items-for-the-full-size-v-1850510634)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Pancake Bread Pretty Much Makes Itself](https://lifehacker.com/pancake-bread-pretty-much-makes-itself-1850507100)
 - [Lifehacker] [You Can Get a Deeper Connect Mini VPN for Over 40% Off Right Now](https://lifehacker.com/you-can-get-a-deeper-connect-mini-vpn-for-over-40-off-1850489824)
 - [Lifehacker] [12 Podcasts That Explore the Weirder Corners of the Internet](https://lifehacker.com/12-podcasts-that-explore-the-weirder-corners-of-the-int-1850503607)
-- [Lifehacker] [Start Each Week With This Digital Decluttering Method](https://lifehacker.com/start-each-week-with-this-digital-decluttering-method-1850507159)
-- [Lifehacker] [10 Security Settings That Protect Your iPhone From Thieves](https://lifehacker.com/10-security-settings-you-should-use-to-protect-your-iph-1850506736)
-- [Lifehacker] [How to Financially Prepare for Your Parents or In-Laws to Move In](https://lifehacker.com/how-to-financially-prepare-for-your-parents-or-in-laws-1850506455)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Start Each Week With This Digital Decluttering Method](https://lifehacker.com/start-each-week-with-this-digital-decluttering-method-1850507159)<!-- TECH-POSTS:END -->
 
 ---
 
