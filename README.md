@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Take your code to the beauty salon with ESLint](https://dev.to/azat_io/take-your-code-to-the-beauty-salon-with-eslint-268c)
+- [Dev.to/JS] [Revisit Context with a useful pattern, illustrated with SolidJS](https://dev.to/ndrean/revisit-context-with-a-useful-pattern-illustrated-with-solidjs-5hf1)
+- [Dev.to/JS] [DPlayer - Custom HTML5 Video Player Integration](https://dev.to/sh20raj/dplayer-custom-html5-video-player-integration-42d4)
+- [Dev.to/JS] [Unlocking Code Understanding with GPT-4](https://dev.to/aiformewiki/unlocking-code-understanding-with-gpt-4-i8d)
 - [Dev.to/JS] [Next.js 13: Introducing App Router and Server Components](https://dev.to/eelcoverbrugge/nextjs-13-introducing-app-router-and-server-components-2kn4)
 - [Dev.to/JS] [Step-By-Step Guide for NgRx with Angular 16!](https://dev.to/codecraftjs/step-by-step-guide-for-ngrx-with-angular-16-30jd)
 - [Dev.to/JS] [Best 7 Open-source projects built with Node.js / React.js](https://dev.to/lalami/best-7-open-source-projects-built-with-nodejs-reactjs-2hdo)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Google Charts](https://dev.to/navinso92429049/google-charts-58mg)
 - [Dev.to/JS] [Exploring Web3.js](https://dev.to/xavierop877/exploring-web3js-532k)
 - [Dev.to/JS] [JSON](https://dev.to/aoppman/json-241g)
-- [Dev.to/JS] [HOW DO I CONVERT NUMBER TO WORDS ON THIS LINK BELOW USING JAVASCRIPT https://edabit.com/challenge/4E9gTrRWErpTCA2FQ](https://dev.to/chomuekez/how-do-i-convert-number-to-words-on-this-link-below-using-javascript-httpsedabitcomchallenge4e9gtrrwerptca2fq-44i5)
-- [Dev.to/JS] [5 Things You Might Not Know About JavaScript](https://dev.to/morellodev/5-things-you-might-not-know-about-javascript-5dck)
-- [Dev.to/JS] [Introduction to Arrays | JavaScript #13](https://dev.to/sksage/introduction-to-arrays-javascript-13-4hma)
-- [Dev.to/JS] [Introduction to Tailwind CSS](https://dev.to/xavierop877/introduction-to-tailwind-css-1npk)
 - [Lifehacker] [The Best New Privacy Features Coming to Your Mac, iPhone, and iPad](https://lifehacker.com/the-best-new-privacy-features-coming-to-your-mac-iphon-1850515369)
 - [Lifehacker] [How to Use Every Part of a Rotisserie Chicken, Right Down to the Bones](https://lifehacker.com/how-to-use-every-part-of-a-rotisserie-chicken-right-do-1850516187)
 - [Lifehacker] [You Can Get This DIY Gaming Console Kit for $80 Right Now](https://lifehacker.com/you-can-get-this-diy-gaming-console-kit-for-80-right-n-1850508982)
