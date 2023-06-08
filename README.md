@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Practices for Responsive Web Design](https://dev.to/uy_scuti/best-practices-for-responsive-web-design-k4i)
+- [Dev.to/JS] [How to Cheat in JS Object Manipulation](https://dev.to/manchicken/how-to-cheat-in-js-object-manipulation-45b5)
+- [Dev.to/JS] [4 JavaScript Email Frameworks : Nodemailer, SendGrid, SMTP.js, and Mailgun](https://dev.to/scofieldidehen/4-javascript-email-frameworks-nodemailer-sendgrid-smtpjs-and-mailgun-3eal)
 - [Dev.to/JS] [Take your code to the beauty salon with ESLint](https://dev.to/azat_io/take-your-code-to-the-beauty-salon-with-eslint-268c)
 - [Dev.to/JS] [Revisit Context with a useful pattern, illustrated with SolidJS](https://dev.to/ndrean/revisit-context-with-a-useful-pattern-illustrated-with-solidjs-5hf1)
 - [Dev.to/JS] [DPlayer - Custom HTML5 Video Player Integration](https://dev.to/sh20raj/dplayer-custom-html5-video-player-integration-42d4)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best 7 Open-source projects built with Node.js / React.js](https://dev.to/lalami/best-7-open-source-projects-built-with-nodejs-reactjs-2hdo)
 - [Dev.to/JS] [Common Beginner JavaScript Mistakes to watch out for...](https://dev.to/sarveshsp/common-beginner-javascript-mistakes-to-watch-out-for-21pl)
 - [Dev.to/JS] [Data Structures in JavaScript &lpar;Part 2&rpar;: Stacks and Queues](https://dev.to/davidhurtadodev/data-structures-in-javascript-part-2-stacks-and-queues-5gbf)
-- [Dev.to/JS] [Google Charts](https://dev.to/navinso92429049/google-charts-58mg)
-- [Dev.to/JS] [Exploring Web3.js](https://dev.to/xavierop877/exploring-web3js-532k)
-- [Dev.to/JS] [JSON](https://dev.to/aoppman/json-241g)
 - [Lifehacker] [The Best New Privacy Features Coming to Your Mac, iPhone, and iPad](https://lifehacker.com/the-best-new-privacy-features-coming-to-your-mac-iphon-1850515369)
 - [Lifehacker] [How to Use Every Part of a Rotisserie Chicken, Right Down to the Bones](https://lifehacker.com/how-to-use-every-part-of-a-rotisserie-chicken-right-do-1850516187)
 - [Lifehacker] [You Can Get This DIY Gaming Console Kit for $80 Right Now](https://lifehacker.com/you-can-get-this-diy-gaming-console-kit-for-80-right-n-1850508982)
