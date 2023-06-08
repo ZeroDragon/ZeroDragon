@@ -23,8 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When to Pay for a Home Warranty &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-to-pay-for-a-home-warranty-and-when-you-shouldnt-1850519193)
+- [Dev.to/JS] [3.15 - Prisma with Alex Ruheni](https://dev.to/codingcatdev/315-prisma-with-alex-ruheni-3jhi)
+- [Dev.to/JS] [Tripping Over Code: An Amusing Exploration of Beginner JavaScript Blunders](https://dev.to/codetobug/tripping-over-code-an-amusing-exploration-of-beginner-javascript-blunders-3413)
+- [Dev.to/JS] [Hoisting in Javascript Explained](https://dev.to/nirzal07/hoisting-in-javascript-explained-4jnk)
+- [Dev.to/JS] [Angular Project Mongodb database Connect | Angular Website Project | Angular App](https://dev.to/softwaretechit/angular-project-mongodb-database-connect-angular-website-project-angular-app-49o4)
+- [Lifehacker] [How to Peacefully Resolve a Dispute With Your Neighbor](https://lifehacker.com/how-to-peacefully-resolve-a-dispute-with-your-neighbor-1850517835)
 - [Dev.to/JS] [Top Security Vulnerabilities in React Applications](https://dev.to/scofieldidehen/top-security-vulnerabilities-in-react-applications-ogc)
-- [Dev.to/JS] [DoDo Framework](https://dev.to/smikodanic/dodo-framework-2o05)
+- [Dev.to/JS] [DoDo - New Frontend Framework](https://dev.to/smikodanic/dodo-framework-2o05)
 - [Dev.to/JS] [Deep dissection of const declarations](https://dev.to/merudra754/misconception-regarding-const-35mo)
 - [Dev.to/JS] [Elevate Code Quality by 47% with AI](https://dev.to/aiformewiki/elevate-code-quality-by-47-with-ai-55ij)
 - [Lifehacker] [This Magnetic Portable Phone Charger Is $39 Right Now](https://lifehacker.com/this-magnetic-portable-phone-charger-is-39-right-now-1850508990)
@@ -34,12 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to Next.js Server Actions](https://dev.to/gc_psk/introduction-to-nextjs-server-actions-2leg)
 - [Dev.to/JS] [AI Code Reviews for 10x development](https://dev.to/aiformewiki/ai-code-reviews-for-10x-development-59h5)
 - [Lifehacker] [An Age-By-Age Guide to Helping Kids Build Executive Function](https://lifehacker.com/an-age-by-age-guide-to-helping-kids-build-executive-fun-1850516881)
-- [Dev.to/JS] [Typescript - T3 / Chakra UI Boilerplate](https://dev.to/crimsonmed/typescript-t3-chakra-ui-boilerplate-28mj)
-- [Dev.to/JS] [Hasura is sooooo 2015](https://dev.to/slickstef11/hasura-is-sooooo-2015-1k86)
 - [Lifehacker] [What People Are Getting Wrong This Week: Disney Cruises and Epstein Island](https://lifehacker.com/what-people-are-getting-wrong-this-week-disney-cruises-1850516845)
-- [Dev.to/JS] [Insert Interval](https://dev.to/_alkesh26/insert-interval-2fo5)
 - [Lifehacker] [Grow Wasabi Like a Houseplant](https://lifehacker.com/grow-wasabi-like-a-houseplant-1850502343)
-- [Dev.to/JS] [Enriching Payloads with MQTT 5 Metadata, using AWS IoT Core Rules Engine](https://dev.to/iotbuilders/enriching-payloads-with-mqtt-5-metadata-using-aws-iot-core-rules-engine-4oh)
 - [Lifehacker] [The Goth’s Guide to Pristine Sun Protection](https://lifehacker.com/the-goth-s-guide-to-pristine-sun-protection-1850515121)
 - [Lifehacker] [The Best New Privacy Features Coming to Your Mac, iPhone, and iPad](https://lifehacker.com/the-best-new-privacy-features-coming-to-your-mac-iphon-1850515369)
 - [Lifehacker] [How to Use Every Part of a Rotisserie Chicken, Right Down to the Bones](https://lifehacker.com/how-to-use-every-part-of-a-rotisserie-chicken-right-do-1850516187)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Grow More Interesting Peppers](https://lifehacker.com/you-should-grow-more-interesting-peppers-1850502350)
 - [Lifehacker] [How to Get Back Into Your Favorite Childhood Hobby](https://lifehacker.com/how-to-get-back-into-your-favorite-childhood-hobby-1850510930)
 - [Lifehacker] [The Best Way to Care for Your Herb Garden Is to Actually Use Them](https://lifehacker.com/the-best-way-to-care-for-your-herb-garden-is-to-actuall-1850502356)
-- [Lifehacker] [All the iOS 17 Features Apple Announced at WWDC](https://lifehacker.com/all-the-ios-17-features-apple-announced-at-wwdc-1850510024)
-- [Lifehacker] [You Should Ditch These Travel Items for the Full-Size Versions](https://lifehacker.com/you-should-ditch-these-travel-items-for-the-full-size-v-1850510634)
-- [Lifehacker] [You Can Get This Hand-Sharpened Japanese Knife for 50% Off Right Now](https://lifehacker.com/you-can-get-this-hand-sharpened-japanese-knife-for-50-1850508970)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the iOS 17 Features Apple Announced at WWDC](https://lifehacker.com/all-the-ios-17-features-apple-announced-at-wwdc-1850510024)<!-- TECH-POSTS:END -->
 
 ---
 
