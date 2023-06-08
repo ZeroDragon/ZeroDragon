@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Alternative Data Visualization Solutions!](https://dev.to/jlgjosue/alternative-data-visualization-solutions-446)
+- [Dev.to/JS] [Authentication system using Golang and Sveltekit - Dockerization and deployments](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-dockerization-and-deployments-139h)
+- [Lifehacker] [You Can Finally Send High Quality Photos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)
+- [Dev.to/JS] [Add Element to Array just if It Doesn&#39;t Exist in the Array](https://dev.to/mayallo/add-element-to-array-just-if-it-doesnt-exist-in-the-array-532b)
+- [Dev.to/JS] [Episode 23/22: Signal Components, TypeScript 5.1](https://dev.to/this-is-angular/episode-2322-signal-components-typescript-51-50d1)
 - [Lifehacker] [Why You Shouldn’t Buy the New 15-Inch MacBook Air](https://lifehacker.com/why-you-shouldn-t-buy-the-new-15-inch-macbook-air-1850518951)
 - [Dev.to/JS] [The Real-World Impact of Core Web Vitals on Website Revenue and Discoverability](https://dev.to/jeevankishore/the-real-world-impact-of-core-web-vitals-on-website-revenue-and-discoverability-4del)
 - [Dev.to/JS] [Execution Context](https://dev.to/ollaworld/execution-context-24lh)
@@ -37,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to Pay for a Home Warranty &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-to-pay-for-a-home-warranty-and-when-you-shouldnt-1850519193)
 - [Dev.to/JS] [3.15 - Prisma with Alex Ruheni](https://dev.to/codingcatdev/315-prisma-with-alex-ruheni-3jhi)
 - [Dev.to/JS] [Tripping Over Code: An Amusing Exploration of Beginner JavaScript Blunders](https://dev.to/codetobug/tripping-over-code-an-amusing-exploration-of-beginner-javascript-blunders-3413)
-- [Dev.to/JS] [Hoisting in Javascript Explained](https://dev.to/nirzal07/hoisting-in-javascript-explained-4jnk)
-- [Dev.to/JS] [Angular Project Mongodb database Connect | Angular Website Project | Angular App](https://dev.to/softwaretechit/angular-project-mongodb-database-connect-angular-website-project-angular-app-49o4)
 - [Lifehacker] [How to Peacefully Resolve a Dispute With Your Neighbor](https://lifehacker.com/how-to-peacefully-resolve-a-dispute-with-your-neighbor-1850517835)
-- [Dev.to/JS] [Top Security Vulnerabilities in React Applications](https://dev.to/scofieldidehen/top-security-vulnerabilities-in-react-applications-ogc)
-- [Dev.to/JS] [DoDo - New Frontend Framework](https://dev.to/smikodanic/dodo-framework-2o05)
 - [Lifehacker] [This Magnetic Portable Phone Charger Is $39 Right Now](https://lifehacker.com/this-magnetic-portable-phone-charger-is-39-right-now-1850508990)
 - [Lifehacker] [Declare &#39;Backlog Bankruptcy&#39;](https://lifehacker.com/declare-backlog-bankruptcy-1850517557)
 - [Lifehacker] [An Age-By-Age Guide to Helping Kids Build Executive Function](https://lifehacker.com/an-age-by-age-guide-to-helping-kids-build-executive-fun-1850516881)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This TikTok Hack Is the Funnest Way to Wash Your Dog This Summer](https://lifehacker.com/this-tiktok-hack-is-the-funnest-way-to-wash-your-dog-th-1850514404)
 - [Lifehacker] [Why You Keep Getting Strep Throat](https://lifehacker.com/why-you-keep-getting-strep-throat-1850513974)
 - [Lifehacker] [Seven Creative Date Ideas for Under $50 Each](https://lifehacker.com/seven-creative-date-ideas-for-under-50-each-1850512775)
-- [Lifehacker] [Why You Should Buy Tools at an Estate Sale &lpar;and What to Look For&rpar;](https://lifehacker.com/why-you-should-buy-tools-at-an-estate-sale-and-what-to-1850513359)
-- [Lifehacker] [The Best New Features in macOS Sonoma](https://lifehacker.com/the-best-new-features-in-macos-sonoma-1850513731)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Buy Tools at an Estate Sale &lpar;and What to Look For&rpar;](https://lifehacker.com/why-you-should-buy-tools-at-an-estate-sale-and-what-to-1850513359)<!-- TECH-POSTS:END -->
 
 ---
 
