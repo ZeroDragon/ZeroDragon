@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring Web3.js](https://dev.to/xavierop877/exploring-web3js-532k)
+- [Dev.to/JS] [JSON](https://dev.to/aoppman/json-241g)
+- [Dev.to/JS] [HOW DO I CONVERT NUMBER TO WORDS ON THIS LINK BELOW USING JAVASCRIPT https://edabit.com/challenge/4E9gTrRWErpTCA2FQ](https://dev.to/chomuekez/how-do-i-convert-number-to-words-on-this-link-below-using-javascript-httpsedabitcomchallenge4e9gtrrwerptca2fq-44i5)
 - [Dev.to/JS] [5 Things You Might Not Know About JavaScript](https://dev.to/morellodev/5-things-you-might-not-know-about-javascript-5dck)
 - [Dev.to/JS] [Introduction to Arrays | JavaScript #13](https://dev.to/sksage/introduction-to-arrays-javascript-13-4hma)
 - [Dev.to/JS] [Introduction to Tailwind CSS](https://dev.to/xavierop877/introduction-to-tailwind-css-1npk)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Chinese miniapp architecture](https://dev.to/132/chinese-miniapp-architecture-3mg)
 - [Dev.to/JS] [AI-driven Code Completions in 90secs](https://dev.to/aiformewiki/ai-driven-code-completions-in-90secs-j7c)
 - [Dev.to/JS] [meu menu circular](https://dev.to/marcosaureliosl/meu-menu-circular-3oep)
-- [Dev.to/JS] [100 Days Coding Challenge - Day 19: System information with PHP, JS, MySQL and CSS/HTML](https://dev.to/alexmgp7/100-days-coding-challenge-day-20-system-information-with-php-js-mysql-and-csshtml-4320)
-- [Dev.to/JS] [Setting up Next.js 13 with Vitest](https://dev.to/azadshukor/setting-up-nextjs-13-with-vitest-51ol)
-- [Dev.to/JS] [Build a Blog Website with Reactjs and Hygraph CMS](https://dev.to/mwendwabundi/build-a-blog-website-with-reactjs-and-hygraph-cms-5ggn)
 - [Lifehacker] [The Best New Privacy Features Coming to Your Mac, iPhone, and iPad](https://lifehacker.com/the-best-new-privacy-features-coming-to-your-mac-iphon-1850515369)
 - [Lifehacker] [How to Use Every Part of a Rotisserie Chicken, Right Down to the Bones](https://lifehacker.com/how-to-use-every-part-of-a-rotisserie-chicken-right-do-1850516187)
 - [Lifehacker] [You Can Get This DIY Gaming Console Kit for $80 Right Now](https://lifehacker.com/you-can-get-this-diy-gaming-console-kit-for-80-right-n-1850508982)
