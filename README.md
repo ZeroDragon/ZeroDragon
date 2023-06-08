@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Get a Pair of Tiny Utility Flashlights for $36](https://lifehacker.com/get-a-pair-of-tiny-utility-flashlights-for-36-1850508994)
+- [Dev.to/JS] [Object and Array Destruction](https://dev.to/mrizwanashiq/object-and-array-destruction-5boh)
+- [Lifehacker] [What &#39;Code Purple&#39; and Other Air Quality Terms Mean](https://lifehacker.com/what-code-purple-and-other-air-quality-terms-mean-1850519150)
+- [Lifehacker] [Five Times When You Should Change Your Credit Card](https://lifehacker.com/five-times-when-you-should-change-your-credit-card-1850519245)
 - [Lifehacker] [When to Pay for a Home Warranty &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-to-pay-for-a-home-warranty-and-when-you-shouldnt-1850519193)
 - [Dev.to/JS] [3.15 - Prisma with Alex Ruheni](https://dev.to/codingcatdev/315-prisma-with-alex-ruheni-3jhi)
 - [Dev.to/JS] [Tripping Over Code: An Amusing Exploration of Beginner JavaScript Blunders](https://dev.to/codetobug/tripping-over-code-an-amusing-exploration-of-beginner-javascript-blunders-3413)
@@ -38,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Primitive and Non-primitive](https://dev.to/mrizwanashiq/primitive-and-non-primitive-56n8)
 - [Lifehacker] [Declare &#39;Backlog Bankruptcy&#39;](https://lifehacker.com/declare-backlog-bankruptcy-1850517557)
 - [Dev.to/JS] [Introduction to Next.js Server Actions](https://dev.to/gc_psk/introduction-to-nextjs-server-actions-2leg)
-- [Dev.to/JS] [AI Code Reviews for 10x development](https://dev.to/aiformewiki/ai-code-reviews-for-10x-development-59h5)
 - [Lifehacker] [An Age-By-Age Guide to Helping Kids Build Executive Function](https://lifehacker.com/an-age-by-age-guide-to-helping-kids-build-executive-fun-1850516881)
 - [Lifehacker] [What People Are Getting Wrong This Week: Disney Cruises and Epstein Island](https://lifehacker.com/what-people-are-getting-wrong-this-week-disney-cruises-1850516845)
 - [Lifehacker] [Grow Wasabi Like a Houseplant](https://lifehacker.com/grow-wasabi-like-a-houseplant-1850502343)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Buy Tools at an Estate Sale &lpar;and What to Look For&rpar;](https://lifehacker.com/why-you-should-buy-tools-at-an-estate-sale-and-what-to-1850513359)
 - [Lifehacker] [The Best New Features in macOS Sonoma](https://lifehacker.com/the-best-new-features-in-macos-sonoma-1850513731)
 - [Lifehacker] [I Tried the Viral TikTok Flour Bacon Hack and It Sucked](https://lifehacker.com/i-tried-the-viral-tiktok-flour-bacon-hack-and-it-sucked-1850512910)
-- [Lifehacker] [You Should Grow More Interesting Peppers](https://lifehacker.com/you-should-grow-more-interesting-peppers-1850502350)
-- [Lifehacker] [How to Get Back Into Your Favorite Childhood Hobby](https://lifehacker.com/how-to-get-back-into-your-favorite-childhood-hobby-1850510930)
-- [Lifehacker] [The Best Way to Care for Your Herb Garden Is to Actually Use Them](https://lifehacker.com/the-best-way-to-care-for-your-herb-garden-is-to-actuall-1850502356)
-- [Lifehacker] [All the iOS 17 Features Apple Announced at WWDC](https://lifehacker.com/all-the-ios-17-features-apple-announced-at-wwdc-1850510024)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Grow More Interesting Peppers](https://lifehacker.com/you-should-grow-more-interesting-peppers-1850502350)<!-- TECH-POSTS:END -->
 
 ---
 
