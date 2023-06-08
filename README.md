@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Chinese miniapp architecture](https://dev.to/132/chinese-miniapp-architecture-3mg)
 - [Dev.to/JS] [AI-driven Code Completions in 90secs](https://dev.to/aiformewiki/ai-driven-code-completions-in-90secs-j7c)
 - [Dev.to/JS] [meu menu circular](https://dev.to/marcosaureliosl/meu-menu-circular-3oep)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 19: System information with PHP, JS, MySQL and CSS/HTML](https://dev.to/alexmgp7/100-days-coding-challenge-day-20-system-information-with-php-js-mysql-and-csshtml-4320)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tokenization in JavaScript](https://dev.to/scofieldidehen/tokenization-in-javascript-4d63)
 - [Dev.to/JS] [10 Algorithms Every Developer Should Learn](https://dev.to/durgesh4993/10-algorithms-every-developer-should-learn-20ce)
 - [Dev.to/JS] [do{}while&lpar;&rpar;_c++;](https://dev.to/yaxyotojiboyev/dowhilec-3lm9)
-- [Dev.to/JS] [React useCallback](https://dev.to/alakkadshaw/react-usecallback-2pm0)
 - [Lifehacker] [The Best New Privacy Features Coming to Your Mac, iPhone, and iPad](https://lifehacker.com/the-best-new-privacy-features-coming-to-your-mac-iphon-1850515369)
 - [Lifehacker] [How to Use Every Part of a Rotisserie Chicken, Right Down to the Bones](https://lifehacker.com/how-to-use-every-part-of-a-rotisserie-chicken-right-do-1850516187)
 - [Lifehacker] [You Can Get This DIY Gaming Console Kit for $80 Right Now](https://lifehacker.com/you-can-get-this-diy-gaming-console-kit-for-80-right-n-1850508982)
