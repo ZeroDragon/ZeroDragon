@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I made a cdn library based on react](https://dev.to/malikwhitten67/i-made-a-cdn-library-based-on-react-498l)
+- [Dev.to/JS] [Refactoring JavaScript code&lpar;Enhancing Code Quality and Maintainability&rpar;](https://dev.to/kelechikizito/refactoring-javascript-codeenhancing-code-quality-and-maintainability-50g6)
 - [Dev.to/JS] [Secrets to Boost your Software Development Career](https://dev.to/dominicazuka/secrets-to-boost-your-software-development-career-1kd6)
 - [Dev.to/JS] [Tokenization in JavaScript](https://dev.to/scofieldidehen/tokenization-in-javascript-4d63)
 - [Dev.to/JS] [10 Algorithms Every Developer Should Learn](https://dev.to/durgesh4993/10-algorithms-every-developer-should-learn-20ce)
@@ -33,11 +35,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Strict Mode? Or, &quot;The Day JavaScript Morphed Into My Mother&quot;](https://dev.to/codetobug/what-is-strict-mode-or-the-day-javascript-morphed-into-my-mother-g4d)
 - [Dev.to/JS] [Move from been a Novice in JavaScript to Beginner in just 3weeks of JavaScript.](https://dev.to/whitecoode/move-from-been-a-novice-in-javascript-to-beginner-in-just-3weeks-of-javascript-5f51)
 - [Dev.to/JS] [3D Globe Animated Code By Kattegory](https://dev.to/kattegory9/3d-globe-animated-code-by-kattegory-27on)
-- [Dev.to/JS] [Demystifying Array.reduce in JavaScript](https://dev.to/arinthros/demystifying-arrayreduce-in-javascript-bi8)
 - [Lifehacker] [The Best New Privacy Features Coming to Your Mac, iPhone, and iPad](https://lifehacker.com/the-best-new-privacy-features-coming-to-your-mac-iphon-1850515369)
 - [Lifehacker] [How to Use Every Part of a Rotisserie Chicken, Right Down to the Bones](https://lifehacker.com/how-to-use-every-part-of-a-rotisserie-chicken-right-do-1850516187)
 - [Lifehacker] [You Can Get This DIY Gaming Console Kit for $80 Right Now](https://lifehacker.com/you-can-get-this-diy-gaming-console-kit-for-80-right-n-1850508982)
-- [Dev.to/JS] [TypeScript: Everything you need to know!](https://dev.to/ivangcode/typescript-everything-you-need-to-know-3l8l)
 - [Lifehacker] [There&#39;s a New Way to Play Wordle With Your Friends](https://lifehacker.com/theres-a-new-way-to-play-wordle-with-your-friends-1850516337)
 - [Lifehacker] [What to Consider Before Selling Your Parents&#39; House](https://lifehacker.com/what-to-consider-before-selling-your-parents-house-1850516058)
 - [Lifehacker] [You Can Install the iOS 17 Beta, but You Probably Shouldn&#39;t](https://lifehacker.com/you-can-install-the-ios-17-beta-but-you-probably-shoul-1850515214)
