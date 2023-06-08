@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top Security Vulnerabilities in React Applications](https://dev.to/scofieldidehen/top-security-vulnerabilities-in-react-applications-ogc)
+- [Dev.to/JS] [DoDo Framework](https://dev.to/smikodanic/dodo-framework-2o05)
+- [Dev.to/JS] [Deep dissection of const declarations](https://dev.to/merudra754/misconception-regarding-const-35mo)
+- [Dev.to/JS] [Elevate Code Quality by 47% with AI](https://dev.to/aiformewiki/elevate-code-quality-by-47-with-ai-55ij)
+- [Lifehacker] [This Magnetic Portable Phone Charger Is $39 Right Now](https://lifehacker.com/this-magnetic-portable-phone-charger-is-39-right-now-1850508990)
+- [Dev.to/JS] [Integração com outros frameworks e bibliotecas em React](https://dev.to/jhonyaraujooficial/integracao-com-outros-frameworks-e-bibliotecas-em-react-3p33)
+- [Dev.to/JS] [Primitive and Non-primitive](https://dev.to/mrizwanashiq/primitive-and-non-primitive-56n8)
 - [Lifehacker] [Declare &#39;Backlog Bankruptcy&#39;](https://lifehacker.com/declare-backlog-bankruptcy-1850517557)
 - [Dev.to/JS] [Introduction to Next.js Server Actions](https://dev.to/gc_psk/introduction-to-nextjs-server-actions-2leg)
 - [Dev.to/JS] [AI Code Reviews for 10x development](https://dev.to/aiformewiki/ai-code-reviews-for-10x-development-59h5)
@@ -34,12 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Grow Wasabi Like a Houseplant](https://lifehacker.com/grow-wasabi-like-a-houseplant-1850502343)
 - [Dev.to/JS] [Enriching Payloads with MQTT 5 Metadata, using AWS IoT Core Rules Engine](https://dev.to/iotbuilders/enriching-payloads-with-mqtt-5-metadata-using-aws-iot-core-rules-engine-4oh)
 - [Lifehacker] [The Goth’s Guide to Pristine Sun Protection](https://lifehacker.com/the-goth-s-guide-to-pristine-sun-protection-1850515121)
-- [Dev.to/JS] [Best Practices for Responsive Web Design](https://dev.to/uy_scuti/best-practices-for-responsive-web-design-k4i)
-- [Dev.to/JS] [How to Cheat in JS Object Manipulation](https://dev.to/manchicken/how-to-cheat-in-js-object-manipulation-45b5)
-- [Dev.to/JS] [4 JavaScript Email Frameworks : Nodemailer, SendGrid, SMTP.js, and Mailgun](https://dev.to/scofieldidehen/4-javascript-email-frameworks-nodemailer-sendgrid-smtpjs-and-mailgun-3eal)
-- [Dev.to/JS] [Take your code to the beauty salon with ESLint](https://dev.to/azat_io/take-your-code-to-the-beauty-salon-with-eslint-268c)
-- [Dev.to/JS] [Revisit Context with a useful pattern, illustrated with SolidJS](https://dev.to/ndrean/revisit-context-with-a-useful-pattern-illustrated-with-solidjs-5hf1)
-- [Dev.to/JS] [DPlayer - Custom HTML5 Video Player Integration](https://dev.to/sh20raj/dplayer-custom-html5-video-player-integration-42d4)
 - [Lifehacker] [The Best New Privacy Features Coming to Your Mac, iPhone, and iPad](https://lifehacker.com/the-best-new-privacy-features-coming-to-your-mac-iphon-1850515369)
 - [Lifehacker] [How to Use Every Part of a Rotisserie Chicken, Right Down to the Bones](https://lifehacker.com/how-to-use-every-part-of-a-rotisserie-chicken-right-do-1850516187)
 - [Lifehacker] [You Can Get This DIY Gaming Console Kit for $80 Right Now](https://lifehacker.com/you-can-get-this-diy-gaming-console-kit-for-80-right-n-1850508982)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Care for Your Herb Garden Is to Actually Use Them](https://lifehacker.com/the-best-way-to-care-for-your-herb-garden-is-to-actuall-1850502356)
 - [Lifehacker] [All the iOS 17 Features Apple Announced at WWDC](https://lifehacker.com/all-the-ios-17-features-apple-announced-at-wwdc-1850510024)
 - [Lifehacker] [You Should Ditch These Travel Items for the Full-Size Versions](https://lifehacker.com/you-should-ditch-these-travel-items-for-the-full-size-v-1850510634)
-- [Lifehacker] [You Can Get This Hand-Sharpened Japanese Knife for 50% Off Right Now](https://lifehacker.com/you-can-get-this-hand-sharpened-japanese-knife-for-50-1850508970)
-- [Lifehacker] [Waffle a Beef Patty for a Quick and Easy Burger](https://lifehacker.com/waffle-a-beef-patty-for-a-quick-and-easy-burger-1850508573)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get This Hand-Sharpened Japanese Knife for 50% Off Right Now](https://lifehacker.com/you-can-get-this-hand-sharpened-japanese-knife-for-50-1850508970)<!-- TECH-POSTS:END -->
 
 ---
 
