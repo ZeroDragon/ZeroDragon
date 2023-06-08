@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AI-driven Code Completions in 90secs](https://dev.to/aiformewiki/ai-driven-code-completions-in-90secs-j7c)
+- [Dev.to/JS] [meu menu circular](https://dev.to/marcosaureliosl/meu-menu-circular-3oep)
+- [Dev.to/JS] [100 Days Coding Challenge - Day 19: System information with PHP, JS, MySQL and CSS/HTML](https://dev.to/alexmgp7/100-days-coding-challenge-day-20-system-information-with-php-js-mysql-and-csshtml-4320)
 - [Dev.to/JS] [Setting up Next.js 13 with Vitest](https://dev.to/azadshukor/setting-up-nextjs-13-with-vitest-51ol)
 - [Dev.to/JS] [Build a Blog Website with Reactjs and Hygraph CMS](https://dev.to/mwendwabundi/build-a-blog-website-with-reactjs-and-hygraph-cms-5ggn)
 - [Dev.to/JS] [I made a cdn library based on react](https://dev.to/malikwhitten67/i-made-a-cdn-library-based-on-react-498l)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Algorithms Every Developer Should Learn](https://dev.to/durgesh4993/10-algorithms-every-developer-should-learn-20ce)
 - [Dev.to/JS] [do{}while&lpar;&rpar;_c++;](https://dev.to/yaxyotojiboyev/dowhilec-3lm9)
 - [Dev.to/JS] [React useCallback](https://dev.to/alakkadshaw/react-usecallback-2pm0)
-- [Dev.to/JS] [Async Lubricant: Simplifying Complex Asynchronous Logic with DAG in JavaScript](https://dev.to/artxe2/async-lubricant-simplifying-complex-asynchronous-logic-with-dag-in-javascript-4cmb)
-- [Dev.to/JS] [Render ATL 2023 Trip Report](https://dev.to/codestackr/render-atl-2023-trip-report-mp4)
-- [Dev.to/JS] [What is Strict Mode? Or, &quot;The Day JavaScript Morphed Into My Mother&quot;](https://dev.to/codetobug/what-is-strict-mode-or-the-day-javascript-morphed-into-my-mother-g4d)
 - [Lifehacker] [The Best New Privacy Features Coming to Your Mac, iPhone, and iPad](https://lifehacker.com/the-best-new-privacy-features-coming-to-your-mac-iphon-1850515369)
 - [Lifehacker] [How to Use Every Part of a Rotisserie Chicken, Right Down to the Bones](https://lifehacker.com/how-to-use-every-part-of-a-rotisserie-chicken-right-do-1850516187)
 - [Lifehacker] [You Can Get This DIY Gaming Console Kit for $80 Right Now](https://lifehacker.com/you-can-get-this-diy-gaming-console-kit-for-80-right-n-1850508982)
