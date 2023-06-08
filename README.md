@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Eight Non-Trade Jobs That Pay Well Without a Degree](https://lifehacker.com/eight-non-trade-jobs-that-pay-well-without-a-degree-1850520797)
+- [Dev.to/JS] [The ABCs of Angular : Dependency Injection Provider &amp; Provide Part 2](https://dev.to/ismailabbi/the-abcs-of-angular-dependency-injection-provider-provide-part-2-1gke)
+- [Lifehacker] [How to Actually Get That Smoky Smell Out of Your House &lpar;and What Won’t Work&rpar;](https://lifehacker.com/how-to-actually-get-that-smoky-smell-out-of-your-house-1850520711)
 - [Lifehacker] [When Will the Wildfire Smoke Go Away?](https://lifehacker.com/when-will-the-wildfire-smoke-go-away-1850520583)
 - [Dev.to/JS] [Node JS : The Ultimate Resource to Beginners](https://dev.to/mrpriyanshu09/node-js-the-ultimate-resource-to-beginners-5ia)
 - [Dev.to/JS] [Async Lubricant: Simplifying Complex Asynchronous Logic with DAG in JavaScript](https://dev.to/artxe2/async-lubricant-simplifying-complex-asynchronous-logic-with-dag-in-javascript-1mai)
@@ -40,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Context: The Detailed Guide](https://dev.to/alakkadshaw/react-context-the-detailed-guide-408)
 - [Dev.to/JS] [Entendiendo JavaScript por dentro.](https://dev.to/ulisesserranop/entendiendo-javascript-por-dentro-5b88)
 - [Lifehacker] [Get a Pair of Tiny Utility Flashlights for $36](https://lifehacker.com/get-a-pair-of-tiny-utility-flashlights-for-36-1850508994)
-- [Dev.to/JS] [Object and Array Destruction](https://dev.to/mrizwanashiq/object-and-array-destruction-5boh)
 - [Lifehacker] [What &#39;Code Purple&#39; and Other Air Quality Terms Mean](https://lifehacker.com/what-code-purple-and-other-air-quality-terms-mean-1850519150)
 - [Lifehacker] [Five Times When You Should Change Your Credit Card](https://lifehacker.com/five-times-when-you-should-change-your-credit-card-1850519245)
 - [Lifehacker] [When to Pay for a Home Warranty &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-to-pay-for-a-home-warranty-and-when-you-shouldnt-1850519193)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Mismatch Your Duvet Cover for the Fluffiest Bed](https://lifehacker.com/mismatch-your-duvet-cover-for-the-fluffiest-bed-1850515061)
 - [Lifehacker] [Here&#39;s How Much an N95 Mask Protects You From Wildfire Smoke](https://lifehacker.com/heres-how-much-an-n95-mask-protects-you-from-wildfire-s-1850514977)
 - [Lifehacker] [This Refurbished MacBook Air Is on Sale for $310](https://lifehacker.com/this-refurbished-macbook-air-is-on-sale-for-310-1850508983)
-- [Lifehacker] [How to Raise the Water Pressure in Your Outdoor Spigot](https://lifehacker.com/how-to-raise-the-water-pressure-in-your-outdoor-spigot-1850513363)
-- [Lifehacker] [This TikTok Hack Is the Funnest Way to Wash Your Dog This Summer](https://lifehacker.com/this-tiktok-hack-is-the-funnest-way-to-wash-your-dog-th-1850514404)
-- [Lifehacker] [Why You Keep Getting Strep Throat](https://lifehacker.com/why-you-keep-getting-strep-throat-1850513974)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Raise the Water Pressure in Your Outdoor Spigot](https://lifehacker.com/how-to-raise-the-water-pressure-in-your-outdoor-spigot-1850513363)<!-- TECH-POSTS:END -->
 
 ---
 
