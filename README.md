@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Shouldn’t Buy the New 15-Inch MacBook Air](https://lifehacker.com/why-you-shouldn-t-buy-the-new-15-inch-macbook-air-1850518951)
+- [Dev.to/JS] [The Real-World Impact of Core Web Vitals on Website Revenue and Discoverability](https://dev.to/jeevankishore/the-real-world-impact-of-core-web-vitals-on-website-revenue-and-discoverability-4del)
+- [Dev.to/JS] [Execution Context](https://dev.to/ollaworld/execution-context-24lh)
+- [Dev.to/JS] [How To Merge Two Array of String Into A Key/Value Pair &lpar;Object&rpar; In JavaScript](https://dev.to/pmbanugo/how-to-merge-two-array-of-string-into-a-keyvalue-pair-object-in-javascript-2pp1)
+- [Lifehacker] [Your Smoothies Will Benefit From a Little Jam](https://lifehacker.com/your-smoothies-will-benefit-from-a-little-jam-1850519891)
+- [Dev.to/JS] [React Context: The Detailed Guide](https://dev.to/alakkadshaw/react-context-the-detailed-guide-408)
+- [Dev.to/JS] [Entendiendo JavaScript por dentro.](https://dev.to/ulisesserranop/entendiendo-javascript-por-dentro-5b88)
 - [Lifehacker] [Get a Pair of Tiny Utility Flashlights for $36](https://lifehacker.com/get-a-pair-of-tiny-utility-flashlights-for-36-1850508994)
 - [Dev.to/JS] [Object and Array Destruction](https://dev.to/mrizwanashiq/object-and-array-destruction-5boh)
 - [Lifehacker] [What &#39;Code Purple&#39; and Other Air Quality Terms Mean](https://lifehacker.com/what-code-purple-and-other-air-quality-terms-mean-1850519150)
@@ -35,13 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Peacefully Resolve a Dispute With Your Neighbor](https://lifehacker.com/how-to-peacefully-resolve-a-dispute-with-your-neighbor-1850517835)
 - [Dev.to/JS] [Top Security Vulnerabilities in React Applications](https://dev.to/scofieldidehen/top-security-vulnerabilities-in-react-applications-ogc)
 - [Dev.to/JS] [DoDo - New Frontend Framework](https://dev.to/smikodanic/dodo-framework-2o05)
-- [Dev.to/JS] [Deep dissection of const declarations](https://dev.to/merudra754/misconception-regarding-const-35mo)
-- [Dev.to/JS] [Elevate Code Quality by 47% with AI](https://dev.to/aiformewiki/elevate-code-quality-by-47-with-ai-55ij)
 - [Lifehacker] [This Magnetic Portable Phone Charger Is $39 Right Now](https://lifehacker.com/this-magnetic-portable-phone-charger-is-39-right-now-1850508990)
-- [Dev.to/JS] [Integração com outros frameworks e bibliotecas em React](https://dev.to/jhonyaraujooficial/integracao-com-outros-frameworks-e-bibliotecas-em-react-3p33)
-- [Dev.to/JS] [Primitive and Non-primitive](https://dev.to/mrizwanashiq/primitive-and-non-primitive-56n8)
 - [Lifehacker] [Declare &#39;Backlog Bankruptcy&#39;](https://lifehacker.com/declare-backlog-bankruptcy-1850517557)
-- [Dev.to/JS] [Introduction to Next.js Server Actions](https://dev.to/gc_psk/introduction-to-nextjs-server-actions-2leg)
 - [Lifehacker] [An Age-By-Age Guide to Helping Kids Build Executive Function](https://lifehacker.com/an-age-by-age-guide-to-helping-kids-build-executive-fun-1850516881)
 - [Lifehacker] [What People Are Getting Wrong This Week: Disney Cruises and Epstein Island](https://lifehacker.com/what-people-are-getting-wrong-this-week-disney-cruises-1850516845)
 - [Lifehacker] [Grow Wasabi Like a Houseplant](https://lifehacker.com/grow-wasabi-like-a-houseplant-1850502343)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Keep Getting Strep Throat](https://lifehacker.com/why-you-keep-getting-strep-throat-1850513974)
 - [Lifehacker] [Seven Creative Date Ideas for Under $50 Each](https://lifehacker.com/seven-creative-date-ideas-for-under-50-each-1850512775)
 - [Lifehacker] [Why You Should Buy Tools at an Estate Sale &lpar;and What to Look For&rpar;](https://lifehacker.com/why-you-should-buy-tools-at-an-estate-sale-and-what-to-1850513359)
-- [Lifehacker] [The Best New Features in macOS Sonoma](https://lifehacker.com/the-best-new-features-in-macos-sonoma-1850513731)
-- [Lifehacker] [I Tried the Viral TikTok Flour Bacon Hack and It Sucked](https://lifehacker.com/i-tried-the-viral-tiktok-flour-bacon-hack-and-it-sucked-1850512910)
-- [Lifehacker] [You Should Grow More Interesting Peppers](https://lifehacker.com/you-should-grow-more-interesting-peppers-1850502350)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best New Features in macOS Sonoma](https://lifehacker.com/the-best-new-features-in-macos-sonoma-1850513731)<!-- TECH-POSTS:END -->
 
 ---
 
