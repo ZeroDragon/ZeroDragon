@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When Will the Wildfire Smoke Go Away?](https://lifehacker.com/when-will-the-wildfire-smoke-go-away-1850520583)
+- [Dev.to/JS] [Node JS : The Ultimate Resource to Beginners](https://dev.to/mrpriyanshu09/node-js-the-ultimate-resource-to-beginners-5ia)
+- [Dev.to/JS] [Async Lubricant: Simplifying Complex Asynchronous Logic with DAG in JavaScript](https://dev.to/artxe2/async-lubricant-simplifying-complex-asynchronous-logic-with-dag-in-javascript-1mai)
+- [Lifehacker] [This Refurbished iPad Mini Bundle Is Under $100](https://lifehacker.com/this-refurbished-ipad-mini-bundle-is-under-100-1850509000)
 - [Dev.to/JS] [Alternative Data Visualization Solutions!](https://dev.to/jlgjosue/alternative-data-visualization-solutions-446)
 - [Dev.to/JS] [Authentication system using Golang and Sveltekit - Dockerization and deployments](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-dockerization-and-deployments-139h)
 - [Lifehacker] [You Can Finally Send High Quality Photos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What &#39;Code Purple&#39; and Other Air Quality Terms Mean](https://lifehacker.com/what-code-purple-and-other-air-quality-terms-mean-1850519150)
 - [Lifehacker] [Five Times When You Should Change Your Credit Card](https://lifehacker.com/five-times-when-you-should-change-your-credit-card-1850519245)
 - [Lifehacker] [When to Pay for a Home Warranty &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-to-pay-for-a-home-warranty-and-when-you-shouldnt-1850519193)
-- [Dev.to/JS] [3.15 - Prisma with Alex Ruheni](https://dev.to/codingcatdev/315-prisma-with-alex-ruheni-3jhi)
-- [Dev.to/JS] [Tripping Over Code: An Amusing Exploration of Beginner JavaScript Blunders](https://dev.to/codetobug/tripping-over-code-an-amusing-exploration-of-beginner-javascript-blunders-3413)
 - [Lifehacker] [How to Peacefully Resolve a Dispute With Your Neighbor](https://lifehacker.com/how-to-peacefully-resolve-a-dispute-with-your-neighbor-1850517835)
 - [Lifehacker] [This Magnetic Portable Phone Charger Is $39 Right Now](https://lifehacker.com/this-magnetic-portable-phone-charger-is-39-right-now-1850508990)
 - [Lifehacker] [Declare &#39;Backlog Bankruptcy&#39;](https://lifehacker.com/declare-backlog-bankruptcy-1850517557)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Refurbished MacBook Air Is on Sale for $310](https://lifehacker.com/this-refurbished-macbook-air-is-on-sale-for-310-1850508983)
 - [Lifehacker] [How to Raise the Water Pressure in Your Outdoor Spigot](https://lifehacker.com/how-to-raise-the-water-pressure-in-your-outdoor-spigot-1850513363)
 - [Lifehacker] [This TikTok Hack Is the Funnest Way to Wash Your Dog This Summer](https://lifehacker.com/this-tiktok-hack-is-the-funnest-way-to-wash-your-dog-th-1850514404)
-- [Lifehacker] [Why You Keep Getting Strep Throat](https://lifehacker.com/why-you-keep-getting-strep-throat-1850513974)
-- [Lifehacker] [Seven Creative Date Ideas for Under $50 Each](https://lifehacker.com/seven-creative-date-ideas-for-under-50-each-1850512775)
-- [Lifehacker] [Why You Should Buy Tools at an Estate Sale &lpar;and What to Look For&rpar;](https://lifehacker.com/why-you-should-buy-tools-at-an-estate-sale-and-what-to-1850513359)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Keep Getting Strep Throat](https://lifehacker.com/why-you-keep-getting-strep-throat-1850513974)<!-- TECH-POSTS:END -->
 
 ---
 
