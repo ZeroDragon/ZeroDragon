@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React useCallback](https://dev.to/alakkadshaw/react-usecallback-2pm0)
+- [Dev.to/JS] [Async Lubricant: Simplifying Complex Asynchronous Logic with DAG in JavaScript](https://dev.to/artxe2/async-lubricant-simplifying-complex-asynchronous-logic-with-dag-in-javascript-4cmb)
+- [Dev.to/JS] [Render ATL 2023 Trip Report](https://dev.to/codestackr/render-atl-2023-trip-report-mp4)
 - [Dev.to/JS] [What is Strict Mode? Or, &quot;The Day JavaScript Morphed Into My Mother&quot;](https://dev.to/codetobug/what-is-strict-mode-or-the-day-javascript-morphed-into-my-mother-g4d)
 - [Dev.to/JS] [Move from been a Novice in JavaScript to Beginner in just 3weeks of JavaScript.](https://dev.to/whitecoode/move-from-been-a-novice-in-javascript-to-beginner-in-just-3weeks-of-javascript-5f51)
 - [Dev.to/JS] [3D Globe Animated Code By Kattegory](https://dev.to/kattegory9/3d-globe-animated-code-by-kattegory-27on)
@@ -38,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Learn New Technology](https://dev.to/mohammadfaisal/how-to-learn-new-technology-502j)
 - [Lifehacker] [What to Consider Before Selling Your Parents&#39; House](https://lifehacker.com/what-to-consider-before-selling-your-parents-house-1850516058)
 - [Lifehacker] [You Can Install the iOS 17 Beta, but You Probably Shouldn&#39;t](https://lifehacker.com/you-can-install-the-ios-17-beta-but-you-probably-shoul-1850515214)
-- [Dev.to/JS] [Why Choose Svelte over React](https://dev.to/kylebuildsstuff/why-choose-svelte-over-react-3ep2)
-- [Dev.to/JS] [Highest Paying Programming Jobs and Skills in 2023](https://dev.to/code_jedi/highest-paying-programming-jobs-and-skills-in-2023-52kk)
-- [Dev.to/JS] [Next.js vs RedwoodJS - Comparing JS Frameworks](https://dev.to/get_pieces/nextjs-vs-redwoodjs-comparing-js-frameworks-5o4)
 - [Lifehacker] [Mismatch Your Duvet Cover for the Fluffiest Bed](https://lifehacker.com/mismatch-your-duvet-cover-for-the-fluffiest-bed-1850515061)
 - [Lifehacker] [Here&#39;s How Much an N95 Mask Protects You From Wildfire Smoke](https://lifehacker.com/heres-how-much-an-n95-mask-protects-you-from-wildfire-s-1850514977)
 - [Lifehacker] [This Refurbished MacBook Air Is on Sale for $310](https://lifehacker.com/this-refurbished-macbook-air-is-on-sale-for-310-1850508983)
