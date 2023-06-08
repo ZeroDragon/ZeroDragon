@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Secrets to Boost your Software Development Career](https://dev.to/dominicazuka/secrets-to-boost-your-software-development-career-1kd6)
+- [Dev.to/JS] [Tokenization in JavaScript](https://dev.to/scofieldidehen/tokenization-in-javascript-4d63)
+- [Dev.to/JS] [10 Algorithms Every Developer Should Learn](https://dev.to/durgesh4993/10-algorithms-every-developer-should-learn-20ce)
+- [Dev.to/JS] [do{}while&lpar;&rpar;_c++;](https://dev.to/yaxyotojiboyev/dowhilec-3lm9)
 - [Dev.to/JS] [React useCallback](https://dev.to/alakkadshaw/react-usecallback-2pm0)
 - [Dev.to/JS] [Async Lubricant: Simplifying Complex Asynchronous Logic with DAG in JavaScript](https://dev.to/artxe2/async-lubricant-simplifying-complex-asynchronous-logic-with-dag-in-javascript-4cmb)
 - [Dev.to/JS] [Render ATL 2023 Trip Report](https://dev.to/codestackr/render-atl-2023-trip-report-mp4)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use Every Part of a Rotisserie Chicken, Right Down to the Bones](https://lifehacker.com/how-to-use-every-part-of-a-rotisserie-chicken-right-do-1850516187)
 - [Lifehacker] [You Can Get This DIY Gaming Console Kit for $80 Right Now](https://lifehacker.com/you-can-get-this-diy-gaming-console-kit-for-80-right-n-1850508982)
 - [Dev.to/JS] [TypeScript: Everything you need to know!](https://dev.to/ivangcode/typescript-everything-you-need-to-know-3l8l)
-- [Dev.to/JS] [Maintain scroll position in Turbo without data-turbo-permanent](https://dev.to/konnorrogers/maintain-scroll-position-in-turbo-without-data-turbo-permanent-2b1i)
 - [Lifehacker] [There&#39;s a New Way to Play Wordle With Your Friends](https://lifehacker.com/theres-a-new-way-to-play-wordle-with-your-friends-1850516337)
-- [Dev.to/JS] [How to Create Animation using styled-components](https://dev.to/mohammadfaisal/how-to-create-animation-using-styled-components-588b)
-- [Dev.to/JS] [A Comprehensive Guide to Distributed Tracing in Microservices](https://dev.to/subhafx/a-comprehensive-guide-to-distributed-tracing-in-microservices-3h8j)
-- [Dev.to/JS] [How To Learn New Technology](https://dev.to/mohammadfaisal/how-to-learn-new-technology-502j)
 - [Lifehacker] [What to Consider Before Selling Your Parents&#39; House](https://lifehacker.com/what-to-consider-before-selling-your-parents-house-1850516058)
 - [Lifehacker] [You Can Install the iOS 17 Beta, but You Probably Shouldn&#39;t](https://lifehacker.com/you-can-install-the-ios-17-beta-but-you-probably-shoul-1850515214)
 - [Lifehacker] [Mismatch Your Duvet Cover for the Fluffiest Bed](https://lifehacker.com/mismatch-your-duvet-cover-for-the-fluffiest-bed-1850515061)
