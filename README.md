@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Declare &#39;Backlog Bankruptcy&#39;](https://lifehacker.com/declare-backlog-bankruptcy-1850517557)
+- [Dev.to/JS] [Introduction to Next.js Server Actions](https://dev.to/gc_psk/introduction-to-nextjs-server-actions-2leg)
+- [Dev.to/JS] [AI Code Reviews for 10x development](https://dev.to/aiformewiki/ai-code-reviews-for-10x-development-59h5)
+- [Lifehacker] [An Age-By-Age Guide to Helping Kids Build Executive Function](https://lifehacker.com/an-age-by-age-guide-to-helping-kids-build-executive-fun-1850516881)
+- [Dev.to/JS] [Typescript - T3 / Chakra UI Boilerplate](https://dev.to/crimsonmed/typescript-t3-chakra-ui-boilerplate-28mj)
+- [Dev.to/JS] [Hasura is sooooo 2015](https://dev.to/slickstef11/hasura-is-sooooo-2015-1k86)
 - [Lifehacker] [What People Are Getting Wrong This Week: Disney Cruises and Epstein Island](https://lifehacker.com/what-people-are-getting-wrong-this-week-disney-cruises-1850516845)
 - [Dev.to/JS] [Insert Interval](https://dev.to/_alkesh26/insert-interval-2fo5)
 - [Lifehacker] [Grow Wasabi Like a Houseplant](https://lifehacker.com/grow-wasabi-like-a-houseplant-1850502343)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Take your code to the beauty salon with ESLint](https://dev.to/azat_io/take-your-code-to-the-beauty-salon-with-eslint-268c)
 - [Dev.to/JS] [Revisit Context with a useful pattern, illustrated with SolidJS](https://dev.to/ndrean/revisit-context-with-a-useful-pattern-illustrated-with-solidjs-5hf1)
 - [Dev.to/JS] [DPlayer - Custom HTML5 Video Player Integration](https://dev.to/sh20raj/dplayer-custom-html5-video-player-integration-42d4)
-- [Dev.to/JS] [Next.js 13: Introducing App Router and Server Components](https://dev.to/eelcoverbrugge/nextjs-13-introducing-app-router-and-server-components-2kn4)
-- [Dev.to/JS] [Step-By-Step Guide for NgRx with Angular 16!](https://dev.to/codecraftjs/step-by-step-guide-for-ngrx-with-angular-16-30jd)
-- [Dev.to/JS] [Best 7 Open-source projects built with Node.js / React.js](https://dev.to/lalami/best-7-open-source-projects-built-with-nodejs-reactjs-2hdo)
-- [Dev.to/JS] [Common Beginner JavaScript Mistakes to watch out for...](https://dev.to/sarveshsp/common-beginner-javascript-mistakes-to-watch-out-for-21pl)
 - [Lifehacker] [The Best New Privacy Features Coming to Your Mac, iPhone, and iPad](https://lifehacker.com/the-best-new-privacy-features-coming-to-your-mac-iphon-1850515369)
 - [Lifehacker] [How to Use Every Part of a Rotisserie Chicken, Right Down to the Bones](https://lifehacker.com/how-to-use-every-part-of-a-rotisserie-chicken-right-do-1850516187)
 - [Lifehacker] [You Can Get This DIY Gaming Console Kit for $80 Right Now](https://lifehacker.com/you-can-get-this-diy-gaming-console-kit-for-80-right-n-1850508982)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the iOS 17 Features Apple Announced at WWDC](https://lifehacker.com/all-the-ios-17-features-apple-announced-at-wwdc-1850510024)
 - [Lifehacker] [You Should Ditch These Travel Items for the Full-Size Versions](https://lifehacker.com/you-should-ditch-these-travel-items-for-the-full-size-v-1850510634)
 - [Lifehacker] [You Can Get This Hand-Sharpened Japanese Knife for 50% Off Right Now](https://lifehacker.com/you-can-get-this-hand-sharpened-japanese-knife-for-50-1850508970)
-- [Lifehacker] [Waffle a Beef Patty for a Quick and Easy Burger](https://lifehacker.com/waffle-a-beef-patty-for-a-quick-and-easy-burger-1850508573)
-- [Lifehacker] [The Best New Features Coming to Your AirPods](https://lifehacker.com/the-best-new-features-coming-to-your-airpods-1850510364)
-- [Lifehacker] [Stop Planting These Invasive Butterfly Bushes](https://lifehacker.com/stop-planting-these-invasive-butterfly-bushes-1850509142)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Waffle a Beef Patty for a Quick and Easy Burger](https://lifehacker.com/waffle-a-beef-patty-for-a-quick-and-easy-burger-1850508573)<!-- TECH-POSTS:END -->
 
 ---
 
