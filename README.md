@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js 13: Introducing App Router and Server Components](https://dev.to/eelcoverbrugge/nextjs-13-introducing-app-router-and-server-components-2kn4)
+- [Dev.to/JS] [Step-By-Step Guide for NgRx with Angular 16!](https://dev.to/codecraftjs/step-by-step-guide-for-ngrx-with-angular-16-30jd)
+- [Dev.to/JS] [Best 7 Open-source projects built with Node.js / React.js](https://dev.to/lalami/best-7-open-source-projects-built-with-nodejs-reactjs-2hdo)
 - [Dev.to/JS] [Common Beginner JavaScript Mistakes to watch out for...](https://dev.to/sarveshsp/common-beginner-javascript-mistakes-to-watch-out-for-21pl)
 - [Dev.to/JS] [Data Structures in JavaScript &lpar;Part 2&rpar;: Stacks and Queues](https://dev.to/davidhurtadodev/data-structures-in-javascript-part-2-stacks-and-queues-5gbf)
 - [Dev.to/JS] [Google Charts](https://dev.to/navinso92429049/google-charts-58mg)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Things You Might Not Know About JavaScript](https://dev.to/morellodev/5-things-you-might-not-know-about-javascript-5dck)
 - [Dev.to/JS] [Introduction to Arrays | JavaScript #13](https://dev.to/sksage/introduction-to-arrays-javascript-13-4hma)
 - [Dev.to/JS] [Introduction to Tailwind CSS](https://dev.to/xavierop877/introduction-to-tailwind-css-1npk)
-- [Dev.to/JS] [Unleashing Creativity: The Art of Coding](https://dev.to/kiran7882218461/unleashing-creativity-the-art-of-coding-8o4)
-- [Dev.to/JS] [Building Maintainable Next.js Applications with SOLID Principles](https://dev.to/sasithwarnakafonseka/building-maintainable-nextjs-applications-with-solid-principles-16g3)
-- [Dev.to/JS] [Unleash the Potential of T3 Stack](https://dev.to/4r7ur/unleash-the-potential-of-t3-stack-m4k)
 - [Lifehacker] [The Best New Privacy Features Coming to Your Mac, iPhone, and iPad](https://lifehacker.com/the-best-new-privacy-features-coming-to-your-mac-iphon-1850515369)
 - [Lifehacker] [How to Use Every Part of a Rotisserie Chicken, Right Down to the Bones](https://lifehacker.com/how-to-use-every-part-of-a-rotisserie-chicken-right-do-1850516187)
 - [Lifehacker] [You Can Get This DIY Gaming Console Kit for $80 Right Now](https://lifehacker.com/you-can-get-this-diy-gaming-console-kit-for-80-right-n-1850508982)
