@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Level Up Your JavaScript Skills with the Spread Operator](https://dev.to/devlawrence/level-up-your-javascript-skills-with-the-spread-operator-5dc0)
+- [Dev.to/JS] [Moonly weekly progress update #52 - New Moonly Collection](https://dev.to/moonly/moonly-weekly-progress-update-52-new-moonly-collection-3mim)
+- [Dev.to/JS] [15 Rules for Writing Clean Comments](https://dev.to/mohammadfaisal/15-rules-for-writing-clean-comments-2dae)
 - [Lifehacker] [Eight Non-Trade Jobs That Pay Well Without a Degree](https://lifehacker.com/eight-non-trade-jobs-that-pay-well-without-a-degree-1850520797)
 - [Dev.to/JS] [The ABCs of Angular : Dependency Injection Provider &amp; Provide Part 2](https://dev.to/ismailabbi/the-abcs-of-angular-dependency-injection-provider-provide-part-2-1gke)
 - [Lifehacker] [How to Actually Get That Smoky Smell Out of Your House &lpar;and What Won’t Work&rpar;](https://lifehacker.com/how-to-actually-get-that-smoky-smell-out-of-your-house-1850520711)
@@ -38,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Shouldn’t Buy the New 15-Inch MacBook Air](https://lifehacker.com/why-you-shouldn-t-buy-the-new-15-inch-macbook-air-1850518951)
 - [Dev.to/JS] [The Real-World Impact of Core Web Vitals on Website Revenue and Discoverability](https://dev.to/jeevankishore/the-real-world-impact-of-core-web-vitals-on-website-revenue-and-discoverability-4del)
 - [Dev.to/JS] [Execution Context](https://dev.to/ollaworld/execution-context-24lh)
-- [Dev.to/JS] [How To Merge Two Array of String Into A Key/Value Pair &lpar;Object&rpar; In JavaScript](https://dev.to/pmbanugo/how-to-merge-two-array-of-string-into-a-keyvalue-pair-object-in-javascript-2pp1)
 - [Lifehacker] [Your Smoothies Will Benefit From a Little Jam](https://lifehacker.com/your-smoothies-will-benefit-from-a-little-jam-1850519891)
-- [Dev.to/JS] [React Context: The Detailed Guide](https://dev.to/alakkadshaw/react-context-the-detailed-guide-408)
-- [Dev.to/JS] [Entendiendo JavaScript por dentro.](https://dev.to/ulisesserranop/entendiendo-javascript-por-dentro-5b88)
 - [Lifehacker] [Get a Pair of Tiny Utility Flashlights for $36](https://lifehacker.com/get-a-pair-of-tiny-utility-flashlights-for-36-1850508994)
 - [Lifehacker] [What &#39;Code Purple&#39; and Other Air Quality Terms Mean](https://lifehacker.com/what-code-purple-and-other-air-quality-terms-mean-1850519150)
 - [Lifehacker] [Five Times When You Should Change Your Credit Card](https://lifehacker.com/five-times-when-you-should-change-your-credit-card-1850519245)
