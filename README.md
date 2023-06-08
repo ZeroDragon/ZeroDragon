@@ -23,18 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What People Are Getting Wrong This Week: Disney Cruises and Epstein Island](https://lifehacker.com/what-people-are-getting-wrong-this-week-disney-cruises-1850516845)
+- [Dev.to/JS] [Insert Interval](https://dev.to/_alkesh26/insert-interval-2fo5)
+- [Lifehacker] [Grow Wasabi Like a Houseplant](https://lifehacker.com/grow-wasabi-like-a-houseplant-1850502343)
+- [Dev.to/JS] [Enriching Payloads with MQTT 5 Metadata, using AWS IoT Core Rules Engine](https://dev.to/iotbuilders/enriching-payloads-with-mqtt-5-metadata-using-aws-iot-core-rules-engine-4oh)
+- [Lifehacker] [The Goth’s Guide to Pristine Sun Protection](https://lifehacker.com/the-goth-s-guide-to-pristine-sun-protection-1850515121)
 - [Dev.to/JS] [Best Practices for Responsive Web Design](https://dev.to/uy_scuti/best-practices-for-responsive-web-design-k4i)
 - [Dev.to/JS] [How to Cheat in JS Object Manipulation](https://dev.to/manchicken/how-to-cheat-in-js-object-manipulation-45b5)
 - [Dev.to/JS] [4 JavaScript Email Frameworks : Nodemailer, SendGrid, SMTP.js, and Mailgun](https://dev.to/scofieldidehen/4-javascript-email-frameworks-nodemailer-sendgrid-smtpjs-and-mailgun-3eal)
 - [Dev.to/JS] [Take your code to the beauty salon with ESLint](https://dev.to/azat_io/take-your-code-to-the-beauty-salon-with-eslint-268c)
 - [Dev.to/JS] [Revisit Context with a useful pattern, illustrated with SolidJS](https://dev.to/ndrean/revisit-context-with-a-useful-pattern-illustrated-with-solidjs-5hf1)
 - [Dev.to/JS] [DPlayer - Custom HTML5 Video Player Integration](https://dev.to/sh20raj/dplayer-custom-html5-video-player-integration-42d4)
-- [Dev.to/JS] [Unlocking Code Understanding with GPT-4](https://dev.to/aiformewiki/unlocking-code-understanding-with-gpt-4-i8d)
 - [Dev.to/JS] [Next.js 13: Introducing App Router and Server Components](https://dev.to/eelcoverbrugge/nextjs-13-introducing-app-router-and-server-components-2kn4)
 - [Dev.to/JS] [Step-By-Step Guide for NgRx with Angular 16!](https://dev.to/codecraftjs/step-by-step-guide-for-ngrx-with-angular-16-30jd)
 - [Dev.to/JS] [Best 7 Open-source projects built with Node.js / React.js](https://dev.to/lalami/best-7-open-source-projects-built-with-nodejs-reactjs-2hdo)
 - [Dev.to/JS] [Common Beginner JavaScript Mistakes to watch out for...](https://dev.to/sarveshsp/common-beginner-javascript-mistakes-to-watch-out-for-21pl)
-- [Dev.to/JS] [Data Structures in JavaScript &lpar;Part 2&rpar;: Stacks and Queues](https://dev.to/davidhurtadodev/data-structures-in-javascript-part-2-stacks-and-queues-5gbf)
 - [Lifehacker] [The Best New Privacy Features Coming to Your Mac, iPhone, and iPad](https://lifehacker.com/the-best-new-privacy-features-coming-to-your-mac-iphon-1850515369)
 - [Lifehacker] [How to Use Every Part of a Rotisserie Chicken, Right Down to the Bones](https://lifehacker.com/how-to-use-every-part-of-a-rotisserie-chicken-right-do-1850516187)
 - [Lifehacker] [You Can Get This DIY Gaming Console Kit for $80 Right Now](https://lifehacker.com/you-can-get-this-diy-gaming-console-kit-for-80-right-n-1850508982)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This Hand-Sharpened Japanese Knife for 50% Off Right Now](https://lifehacker.com/you-can-get-this-hand-sharpened-japanese-knife-for-50-1850508970)
 - [Lifehacker] [Waffle a Beef Patty for a Quick and Easy Burger](https://lifehacker.com/waffle-a-beef-patty-for-a-quick-and-easy-burger-1850508573)
 - [Lifehacker] [The Best New Features Coming to Your AirPods](https://lifehacker.com/the-best-new-features-coming-to-your-airpods-1850510364)
-- [Lifehacker] [Stop Planting These Invasive Butterfly Bushes](https://lifehacker.com/stop-planting-these-invasive-butterfly-bushes-1850509142)
-- [Lifehacker] [This AI Resume Builder Is Over 75% Off Right Now](https://lifehacker.com/this-ai-resume-builder-is-over-75-off-right-now-1850493675)
-- [Lifehacker] [All the New Features Apple Didn&#39;t Announce at WWDC](https://lifehacker.com/all-the-new-features-apple-didnt-announce-at-wwdc-1850510345)
-- [Lifehacker] [The Best Way to Reclaim Expired Travel Rewards &lpar;and When You Should&rpar;](https://lifehacker.com/the-best-way-to-reclaim-expired-travel-rewards-and-whe-1850510203)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stop Planting These Invasive Butterfly Bushes](https://lifehacker.com/stop-planting-these-invasive-butterfly-bushes-1850509142)<!-- TECH-POSTS:END -->
 
 ---
 
