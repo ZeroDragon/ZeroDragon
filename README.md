@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Google Charts](https://dev.to/navinso92429049/google-charts-58mg)
 - [Dev.to/JS] [Exploring Web3.js](https://dev.to/xavierop877/exploring-web3js-532k)
 - [Dev.to/JS] [JSON](https://dev.to/aoppman/json-241g)
 - [Dev.to/JS] [HOW DO I CONVERT NUMBER TO WORDS ON THIS LINK BELOW USING JAVASCRIPT https://edabit.com/challenge/4E9gTrRWErpTCA2FQ](https://dev.to/chomuekez/how-do-i-convert-number-to-words-on-this-link-below-using-javascript-httpsedabitcomchallenge4e9gtrrwerptca2fq-44i5)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unleash the Potential of T3 Stack](https://dev.to/4r7ur/unleash-the-potential-of-t3-stack-m4k)
 - [Dev.to/JS] [Chinese miniapp architecture](https://dev.to/132/chinese-miniapp-architecture-3mg)
 - [Dev.to/JS] [AI-driven Code Completions in 90secs](https://dev.to/aiformewiki/ai-driven-code-completions-in-90secs-j7c)
-- [Dev.to/JS] [meu menu circular](https://dev.to/marcosaureliosl/meu-menu-circular-3oep)
 - [Lifehacker] [The Best New Privacy Features Coming to Your Mac, iPhone, and iPad](https://lifehacker.com/the-best-new-privacy-features-coming-to-your-mac-iphon-1850515369)
 - [Lifehacker] [How to Use Every Part of a Rotisserie Chicken, Right Down to the Bones](https://lifehacker.com/how-to-use-every-part-of-a-rotisserie-chicken-right-do-1850516187)
 - [Lifehacker] [You Can Get This DIY Gaming Console Kit for $80 Right Now](https://lifehacker.com/you-can-get-this-diy-gaming-console-kit-for-80-right-n-1850508982)
