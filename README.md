@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Setting up Next.js 13 with Vitest](https://dev.to/azadshukor/setting-up-nextjs-13-with-vitest-51ol)
+- [Dev.to/JS] [Build a Blog Website with Reactjs and Hygraph CMS](https://dev.to/mwendwabundi/build-a-blog-website-with-reactjs-and-hygraph-cms-5ggn)
 - [Dev.to/JS] [I made a cdn library based on react](https://dev.to/malikwhitten67/i-made-a-cdn-library-based-on-react-498l)
 - [Dev.to/JS] [Refactoring JavaScript code&lpar;Enhancing Code Quality and Maintainability&rpar;](https://dev.to/kelechikizito/refactoring-javascript-codeenhancing-code-quality-and-maintainability-50g6)
 - [Dev.to/JS] [Secrets to Boost your Software Development Career](https://dev.to/dominicazuka/secrets-to-boost-your-software-development-career-1kd6)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Async Lubricant: Simplifying Complex Asynchronous Logic with DAG in JavaScript](https://dev.to/artxe2/async-lubricant-simplifying-complex-asynchronous-logic-with-dag-in-javascript-4cmb)
 - [Dev.to/JS] [Render ATL 2023 Trip Report](https://dev.to/codestackr/render-atl-2023-trip-report-mp4)
 - [Dev.to/JS] [What is Strict Mode? Or, &quot;The Day JavaScript Morphed Into My Mother&quot;](https://dev.to/codetobug/what-is-strict-mode-or-the-day-javascript-morphed-into-my-mother-g4d)
-- [Dev.to/JS] [Move from been a Novice in JavaScript to Beginner in just 3weeks of JavaScript.](https://dev.to/whitecoode/move-from-been-a-novice-in-javascript-to-beginner-in-just-3weeks-of-javascript-5f51)
-- [Dev.to/JS] [3D Globe Animated Code By Kattegory](https://dev.to/kattegory9/3d-globe-animated-code-by-kattegory-27on)
 - [Lifehacker] [The Best New Privacy Features Coming to Your Mac, iPhone, and iPad](https://lifehacker.com/the-best-new-privacy-features-coming-to-your-mac-iphon-1850515369)
 - [Lifehacker] [How to Use Every Part of a Rotisserie Chicken, Right Down to the Bones](https://lifehacker.com/how-to-use-every-part-of-a-rotisserie-chicken-right-do-1850516187)
 - [Lifehacker] [You Can Get This DIY Gaming Console Kit for $80 Right Now](https://lifehacker.com/you-can-get-this-diy-gaming-console-kit-for-80-right-n-1850508982)
