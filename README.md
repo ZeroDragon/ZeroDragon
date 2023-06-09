@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Cheap DIY Air Purifier Actually Works](https://lifehacker.com/this-cheap-diy-air-purifier-actually-works-1850520488)
+- [Dev.to/JS] [Here we go again - the JSGameDev Summit will be held on September 28-29, 2023](https://dev.to/jsgamedevsummit/here-we-go-again-the-jsgamedevsummit-will-be-held-on-september-28-29-2023-6o8)
+- [Dev.to/JS] [React Hooks Simplified](https://dev.to/piyushjaiswal1610/react-hooks-simplified-295)
 - [Dev.to/JS] [How to Create a YouTube Android App Clone: Step-by-Step Guide](https://dev.to/dhruvjoshi9/how-to-create-a-youtube-android-app-clone-step-by-step-guide-3ec1)
 - [Dev.to/JS] [[NestJS] I made backend server simulator without backend server](https://dev.to/samchon/nestjs-i-made-backend-server-simulator-without-backend-server-7gg)
 - [Dev.to/JS] [How to Boost Your Web Performance with HTML5 Features](https://dev.to/sardarmudassaralikhan/how-to-boost-your-web-performance-with-html5-features-53jg)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The most underrated search engine...](https://dev.to/savvasstephnds/the-most-underrated-search-engine-312d)
 - [Dev.to/JS] [TDD vs BDD - A Detailed Guide](https://dev.to/refine/tdd-vs-bdd-a-detailed-guide-1f07)
 - [Dev.to/JS] [Why We Chose Node.js Over Deno?](https://dev.to/amplication/why-we-chose-nodejs-over-deno-2fpj)
-- [Dev.to/JS] [Fixing Prettier not working with VSCode](https://dev.to/dmytrych/fixing-prettier-not-working-with-vscode-44ml)
-- [Dev.to/JS] [State management in its own module in vanilla JavaScript](https://dev.to/chovy/state-management-into-its-own-module-in-vanilla-javascript-58mf)
 - [Lifehacker] [Eight Non-Trade Jobs That Pay Well Without a Degree](https://lifehacker.com/eight-non-trade-jobs-that-pay-well-without-a-degree-1850520797)
 - [Lifehacker] [How to Actually Get That Smoky Smell Out of Your House &lpar;and What Won’t Work&rpar;](https://lifehacker.com/how-to-actually-get-that-smoky-smell-out-of-your-house-1850520711)
 - [Lifehacker] [When Will the Wildfire Smoke Go Away?](https://lifehacker.com/when-will-the-wildfire-smoke-go-away-1850520583)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Install the iOS 17 Beta, but You Probably Shouldn&#39;t](https://lifehacker.com/you-can-install-the-ios-17-beta-but-you-probably-shoul-1850515214)
 - [Lifehacker] [Mismatch Your Duvet Cover for the Fluffiest Bed](https://lifehacker.com/mismatch-your-duvet-cover-for-the-fluffiest-bed-1850515061)
 - [Lifehacker] [Here&#39;s How Much an N95 Mask Protects You From Wildfire Smoke](https://lifehacker.com/heres-how-much-an-n95-mask-protects-you-from-wildfire-s-1850514977)
-- [Lifehacker] [This Refurbished MacBook Air Is on Sale for $310](https://lifehacker.com/this-refurbished-macbook-air-is-on-sale-for-310-1850508983)
-- [Lifehacker] [How to Raise the Water Pressure in Your Outdoor Spigot](https://lifehacker.com/how-to-raise-the-water-pressure-in-your-outdoor-spigot-1850513363)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Refurbished MacBook Air Is on Sale for $310](https://lifehacker.com/this-refurbished-macbook-air-is-on-sale-for-310-1850508983)<!-- TECH-POSTS:END -->
 
 ---
 
