@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Avoid Paying the ‘Electronic Carrier Charge’ &lpar;and Other Stupid Travel Fees&rpar;](https://lifehacker.com/how-to-avoid-paying-the-electronic-carrier-charge-an-1850521008)
+- [Dev.to/JS] [Corona virus](https://dev.to/wshuvo/hbjhj-2njc)
 - [Lifehacker] [Here Are the Best Father’s Day Tool Deals](https://lifehacker.com/here-are-the-best-father-s-day-tool-deals-1850521969)
 - [Dev.to/JS] [Angular component - basics of properties](https://dev.to/tomwebwalker/angular-component-basics-of-properties-52p0)
 - [Lifehacker] [Why Your Favorite Subreddits Are Going Dark on June 12](https://lifehacker.com/why-your-favorite-subreddits-are-going-dark-on-june-12-1850521188)
@@ -37,11 +39,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Here we go again - the JSGameDev Summit will be held on September 28-29, 2023](https://dev.to/jsgamedevsummit/here-we-go-again-the-jsgamedevsummit-will-be-held-on-september-28-29-2023-6o8)
 - [Dev.to/JS] [React Hooks Simplified](https://dev.to/piyushjaiswal1610/react-hooks-simplified-295)
 - [Dev.to/JS] [How to Create a YouTube Android App Clone: Step-by-Step Guide](https://dev.to/dhruvjoshi9/how-to-create-a-youtube-android-app-clone-step-by-step-guide-3ec1)
-- [Dev.to/JS] [[Nestia] I made backend simulator &lpar;mock&rpar; for frontend apps](https://dev.to/samchon/nestjs-i-made-backend-server-simulator-without-backend-server-7gg)
+- [Dev.to/JS] [[Nestia] I made backend simulator for frontend developers &lpar;similar with MSW, but fully automated&rpar;](https://dev.to/samchon/nestjs-i-made-backend-server-simulator-without-backend-server-7gg)
 - [Dev.to/JS] [How to Boost Your Web Performance with HTML5 Features](https://dev.to/sardarmudassaralikhan/how-to-boost-your-web-performance-with-html5-features-53jg)
 - [Dev.to/JS] [Who is JSON?!](https://dev.to/burtds/who-is-json-59kd)
 - [Dev.to/JS] [New Useful Setting from VS Code](https://dev.to/brojenuel/new-useful-setting-from-vs-code-55d6)
-- [Dev.to/JS] [Exploring Movixhob: An Innovative Movie Recommendation App.](https://dev.to/truevine/exploring-movixhob-an-innovative-movie-recommendation-app-5b53)
 - [Lifehacker] [Eight Non-Trade Jobs That Pay Well Without a Degree](https://lifehacker.com/eight-non-trade-jobs-that-pay-well-without-a-degree-1850520797)
 - [Lifehacker] [How to Actually Get That Smoky Smell Out of Your House &lpar;and What Won’t Work&rpar;](https://lifehacker.com/how-to-actually-get-that-smoky-smell-out-of-your-house-1850520711)
 - [Lifehacker] [When Will the Wildfire Smoke Go Away?](https://lifehacker.com/when-will-the-wildfire-smoke-go-away-1850520583)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Grow Wasabi Like a Houseplant](https://lifehacker.com/grow-wasabi-like-a-houseplant-1850502343)
 - [Lifehacker] [The Goth’s Guide to Pristine Sun Protection](https://lifehacker.com/the-goth-s-guide-to-pristine-sun-protection-1850515121)
 - [Lifehacker] [The Best New Privacy Features Coming to Your Mac, iPhone, and iPad](https://lifehacker.com/the-best-new-privacy-features-coming-to-your-mac-iphon-1850515369)
-- [Lifehacker] [How to Use Every Part of a Rotisserie Chicken, Right Down to the Bones](https://lifehacker.com/how-to-use-every-part-of-a-rotisserie-chicken-right-do-1850516187)
-- [Lifehacker] [You Can Get This DIY Gaming Console Kit for $80 Right Now](https://lifehacker.com/you-can-get-this-diy-gaming-console-kit-for-80-right-n-1850508982)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Use Every Part of a Rotisserie Chicken, Right Down to the Bones](https://lifehacker.com/how-to-use-every-part-of-a-rotisserie-chicken-right-do-1850516187)<!-- TECH-POSTS:END -->
 
 ---
 
