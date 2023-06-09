@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The First Seven Things to Do When Your Child Comes Out to You](https://lifehacker.com/the-first-seven-things-to-do-when-your-child-comes-out-1850523634)
+- [Dev.to/JS] [Generate web apps using AI in minutes with open source](https://dev.to/barqawiz/build-ai-apps-with-intelli-noed-in-minutes-2il0)
+- [Dev.to/JS] [Enhancing User Experience with React&#39;s useTransition Hook](https://dev.to/devprashantt/enhancing-user-experience-with-reacts-usetransition-hook-194m)
+- [Lifehacker] [Make a Cute Little Batch of Mini Tortilla Chips in Your Air Fryer](https://lifehacker.com/make-a-cute-little-batch-of-mini-tortilla-chips-in-your-1850523607)
+- [Dev.to/JS] [New Array Methods in JS](https://dev.to/asi309/new-array-methods-in-js-4mj4)
+- [Lifehacker] [You Can Get a Lifetime 1TB Cloud Storage Account for 85% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-1tb-cloud-storage-account-for-85-1850509001)
 - [Dev.to/JS] [Best Animation Libraries For React🎉](https://dev.to/arafat4693/best-animation-libraries-for-react-156n)
 - [Dev.to/JS] [How to Build and Publish Your First React NPM Package](https://dev.to/femi_dev/how-to-build-and-publish-your-first-react-npm-package-24o3)
 - [Lifehacker] [Google Chrome&#39;s Password Manager Is Getting Better](https://lifehacker.com/google-chromes-password-manager-is-getting-better-1850523135)
@@ -44,9 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Backend/API Developers: Are you making these small costly mistakes with HTTP status code?](https://dev.to/danielasaboro/backendapi-developers-are-you-making-these-small-costly-mistakes-with-http-status-code-1o8a)
 - [Lifehacker] [This Cheap DIY Air Purifier Actually Works](https://lifehacker.com/this-cheap-diy-air-purifier-actually-works-1850520488)
 - [Dev.to/JS] [Here we go again - the JSGameDev Summit will be held on September 28-29, 2023](https://dev.to/jsgamedevsummit/here-we-go-again-the-jsgamedevsummit-will-be-held-on-september-28-29-2023-6o8)
-- [Dev.to/JS] [React Hooks Simplified](https://dev.to/piyushjaiswal1610/react-hooks-simplified-295)
-- [Dev.to/JS] [How to Create a YouTube Android App Clone: Step-by-Step Guide](https://dev.to/dhruvjoshi9/how-to-create-a-youtube-android-app-clone-step-by-step-guide-3ec1)
-- [Dev.to/JS] [[Nestia] I made backend simulator for frontend developers &lpar;similar with MSW, but fully automated&rpar;](https://dev.to/samchon/nestjs-i-made-backend-server-simulator-without-backend-server-7gg)
 - [Lifehacker] [Eight Non-Trade Jobs That Pay Well Without a Degree](https://lifehacker.com/eight-non-trade-jobs-that-pay-well-without-a-degree-1850520797)
 - [Lifehacker] [How to Actually Get That Smoky Smell Out of Your House &lpar;and What Won’t Work&rpar;](https://lifehacker.com/how-to-actually-get-that-smoky-smell-out-of-your-house-1850520711)
 - [Lifehacker] [When Will the Wildfire Smoke Go Away?](https://lifehacker.com/when-will-the-wildfire-smoke-go-away-1850520583)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Times When You Should Change Your Credit Card](https://lifehacker.com/five-times-when-you-should-change-your-credit-card-1850519245)
 - [Lifehacker] [When to Pay for a Home Warranty &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-to-pay-for-a-home-warranty-and-when-you-shouldnt-1850519193)
 - [Lifehacker] [How to Peacefully Resolve a Dispute With Your Neighbor](https://lifehacker.com/how-to-peacefully-resolve-a-dispute-with-your-neighbor-1850517835)
-- [Lifehacker] [This Magnetic Portable Phone Charger Is $39 Right Now](https://lifehacker.com/this-magnetic-portable-phone-charger-is-39-right-now-1850508990)
-- [Lifehacker] [Declare &#39;Backlog Bankruptcy&#39;](https://lifehacker.com/declare-backlog-bankruptcy-1850517557)
-- [Lifehacker] [An Age-By-Age Guide to Helping Kids Build Executive Function](https://lifehacker.com/an-age-by-age-guide-to-helping-kids-build-executive-fun-1850516881)
-- [Lifehacker] [What People Are Getting Wrong This Week: Disney Cruises and Epstein Island](https://lifehacker.com/what-people-are-getting-wrong-this-week-disney-cruises-1850516845)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Magnetic Portable Phone Charger Is $39 Right Now](https://lifehacker.com/this-magnetic-portable-phone-charger-is-39-right-now-1850508990)<!-- TECH-POSTS:END -->
 
 ---
 
