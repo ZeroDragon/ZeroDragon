@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fixing Prettier not working with VSCode](https://dev.to/dmytrych/fixing-prettier-not-working-with-vscode-44ml)
+- [Dev.to/JS] [State management in its own module in vanilla JavaScript](https://dev.to/chovy/state-management-into-its-own-module-in-vanilla-javascript-58mf)
+- [Dev.to/JS] [Generating sound in modern Web Audio API](https://dev.to/atornblad/generating-sound-in-modern-web-audio-api-463)
 - [Dev.to/JS] [Must predictable state changes come at a high cost?](https://dev.to/licg9999/must-predictable-state-changes-come-at-a-high-cost-6cc)
 - [Dev.to/JS] [Unlocking the Potential of Async in JavaScript](https://dev.to/lukeskw/unlocking-the-potential-of-async-in-javascript-4mgc)
 - [Dev.to/JS] [RxJS: Advanced challenge to build a reactive split-flap display](https://dev.to/maxime1992/rxjs-advanced-challenge-to-build-a-reactive-split-flap-display-1ej)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [GPT Loop Prompting: How to Summarize Text that Exceeds the Token Limit](https://dev.to/ddimitrov777/gpt-loop-prompting-how-to-summarize-text-that-exceeds-the-token-limit-26lo)
 - [Dev.to/JS] [Sharing Interaction Tests Between Vitest and Storybook](https://dev.to/scottnath/sharing-interaction-tests-between-vitest-and-storybook-2pj2)
 - [Dev.to/JS] [ObjectionJs &amp; Advanced Techniques](https://dev.to/hamasarbast1997/objectionjs-advanced-techniques-4ej0)
-- [Dev.to/JS] [Level Up Your JavaScript Skills with the Spread Operator](https://dev.to/devlawrence/level-up-your-javascript-skills-with-the-spread-operator-5dc0)
-- [Dev.to/JS] [Moonly weekly progress update #52 - New Moonly Collection](https://dev.to/moonly/moonly-weekly-progress-update-52-new-moonly-collection-3mim)
-- [Dev.to/JS] [15 Rules for Writing Clean Comments](https://dev.to/mohammadfaisal/15-rules-for-writing-clean-comments-2dae)
 - [Lifehacker] [Eight Non-Trade Jobs That Pay Well Without a Degree](https://lifehacker.com/eight-non-trade-jobs-that-pay-well-without-a-degree-1850520797)
 - [Lifehacker] [How to Actually Get That Smoky Smell Out of Your House &lpar;and What Won’t Work&rpar;](https://lifehacker.com/how-to-actually-get-that-smoky-smell-out-of-your-house-1850520711)
 - [Lifehacker] [When Will the Wildfire Smoke Go Away?](https://lifehacker.com/when-will-the-wildfire-smoke-go-away-1850520583)
