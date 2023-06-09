@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Animation Libraries For React🎉](https://dev.to/arafat4693/best-animation-libraries-for-react-156n)
+- [Dev.to/JS] [How to Build and Publish Your First React NPM Package](https://dev.to/femi_dev/how-to-build-and-publish-your-first-react-npm-package-24o3)
+- [Lifehacker] [Google Chrome&#39;s Password Manager Is Getting Better](https://lifehacker.com/google-chromes-password-manager-is-getting-better-1850523135)
+- [Lifehacker] [How to Find &lpar;and Close&rpar; Your Home&#39;s Fresh Air Intake](https://lifehacker.com/how-to-find-and-close-your-homes-fresh-air-intake-1850523329)
+- [Dev.to/JS] [How i make the projects section dinamic in my portfolio](https://dev.to/marcossnikel/how-i-make-the-projects-section-dinamic-in-my-portfolio-3ieo)
 - [Lifehacker] [The Easiest Way to Clean Your Dishes When You’re Camping](https://lifehacker.com/the-easiest-way-to-clean-your-dishes-when-you-re-campin-1850522778)
 - [Lifehacker] [You Can Lock Your iPhone From Your Apple Watch If Someone Snatches Your Phone](https://lifehacker.com/you-can-lock-your-iphone-from-your-apple-watch-if-someo-1850522141)
 - [Lifehacker] [How to Avoid Paying the ‘Electronic Carrier Charge’ &lpar;and Other Stupid Travel Fees&rpar;](https://lifehacker.com/how-to-avoid-paying-the-electronic-carrier-charge-an-1850521008)
@@ -42,9 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Hooks Simplified](https://dev.to/piyushjaiswal1610/react-hooks-simplified-295)
 - [Dev.to/JS] [How to Create a YouTube Android App Clone: Step-by-Step Guide](https://dev.to/dhruvjoshi9/how-to-create-a-youtube-android-app-clone-step-by-step-guide-3ec1)
 - [Dev.to/JS] [[Nestia] I made backend simulator for frontend developers &lpar;similar with MSW, but fully automated&rpar;](https://dev.to/samchon/nestjs-i-made-backend-server-simulator-without-backend-server-7gg)
-- [Dev.to/JS] [How to Boost Your Web Performance with HTML5 Features](https://dev.to/sardarmudassaralikhan/how-to-boost-your-web-performance-with-html5-features-53jg)
-- [Dev.to/JS] [Who is JSON?!](https://dev.to/burtds/who-is-json-59kd)
-- [Dev.to/JS] [New Useful Setting from VS Code](https://dev.to/brojenuel/new-useful-setting-from-vs-code-55d6)
 - [Lifehacker] [Eight Non-Trade Jobs That Pay Well Without a Degree](https://lifehacker.com/eight-non-trade-jobs-that-pay-well-without-a-degree-1850520797)
 - [Lifehacker] [How to Actually Get That Smoky Smell Out of Your House &lpar;and What Won’t Work&rpar;](https://lifehacker.com/how-to-actually-get-that-smoky-smell-out-of-your-house-1850520711)
 - [Lifehacker] [When Will the Wildfire Smoke Go Away?](https://lifehacker.com/when-will-the-wildfire-smoke-go-away-1850520583)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Magnetic Portable Phone Charger Is $39 Right Now](https://lifehacker.com/this-magnetic-portable-phone-charger-is-39-right-now-1850508990)
 - [Lifehacker] [Declare &#39;Backlog Bankruptcy&#39;](https://lifehacker.com/declare-backlog-bankruptcy-1850517557)
 - [Lifehacker] [An Age-By-Age Guide to Helping Kids Build Executive Function](https://lifehacker.com/an-age-by-age-guide-to-helping-kids-build-executive-fun-1850516881)
-- [Lifehacker] [What People Are Getting Wrong This Week: Disney Cruises and Epstein Island](https://lifehacker.com/what-people-are-getting-wrong-this-week-disney-cruises-1850516845)
-- [Lifehacker] [Grow Wasabi Like a Houseplant](https://lifehacker.com/grow-wasabi-like-a-houseplant-1850502343)
-- [Lifehacker] [The Goth’s Guide to Pristine Sun Protection](https://lifehacker.com/the-goth-s-guide-to-pristine-sun-protection-1850515121)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What People Are Getting Wrong This Week: Disney Cruises and Epstein Island](https://lifehacker.com/what-people-are-getting-wrong-this-week-disney-cruises-1850516845)<!-- TECH-POSTS:END -->
 
 ---
 
