@@ -23,19 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [El mundo es un caos &lpar;breve recordatorio&rpar;](https://dev.to/evesan/el-mundo-es-un-caos-breve-recordatorio-2mo7)
+- [Lifehacker] [Make Your Boring Job Work for You](https://lifehacker.com/make-your-bullshit-job-work-for-you-1850510043)
+- [Dev.to/JS] [Backend/API Developers: Are you making these small costly mistakes with HTTP status code?](https://dev.to/danielasaboro/backendapi-developers-are-you-making-these-small-costly-mistakes-with-http-status-code-1o8a)
 - [Lifehacker] [This Cheap DIY Air Purifier Actually Works](https://lifehacker.com/this-cheap-diy-air-purifier-actually-works-1850520488)
 - [Dev.to/JS] [Here we go again - the JSGameDev Summit will be held on September 28-29, 2023](https://dev.to/jsgamedevsummit/here-we-go-again-the-jsgamedevsummit-will-be-held-on-september-28-29-2023-6o8)
 - [Dev.to/JS] [React Hooks Simplified](https://dev.to/piyushjaiswal1610/react-hooks-simplified-295)
 - [Dev.to/JS] [How to Create a YouTube Android App Clone: Step-by-Step Guide](https://dev.to/dhruvjoshi9/how-to-create-a-youtube-android-app-clone-step-by-step-guide-3ec1)
-- [Dev.to/JS] [[NestJS] I made backend server simulator without backend server](https://dev.to/samchon/nestjs-i-made-backend-server-simulator-without-backend-server-7gg)
+- [Dev.to/JS] [[NestJS] I made backend simulator &lpar;mock&rpar; for frontend apps](https://dev.to/samchon/nestjs-i-made-backend-server-simulator-without-backend-server-7gg)
 - [Dev.to/JS] [How to Boost Your Web Performance with HTML5 Features](https://dev.to/sardarmudassaralikhan/how-to-boost-your-web-performance-with-html5-features-53jg)
 - [Dev.to/JS] [Who is JSON?!](https://dev.to/burtds/who-is-json-59kd)
 - [Dev.to/JS] [New Useful Setting from VS Code](https://dev.to/brojenuel/new-useful-setting-from-vs-code-55d6)
 - [Dev.to/JS] [Exploring Movixhob: An Innovative Movie Recommendation App.](https://dev.to/truevine/exploring-movixhob-an-innovative-movie-recommendation-app-5b53)
 - [Dev.to/JS] [What are Reverse-API Gateways?](https://dev.to/convoy/what-are-reverse-api-gateways-13gd)
 - [Dev.to/JS] [The most underrated search engine...](https://dev.to/savvasstephnds/the-most-underrated-search-engine-312d)
-- [Dev.to/JS] [TDD vs BDD - A Detailed Guide](https://dev.to/refine/tdd-vs-bdd-a-detailed-guide-1f07)
-- [Dev.to/JS] [Why We Chose Node.js Over Deno?](https://dev.to/amplication/why-we-chose-nodejs-over-deno-2fpj)
 - [Lifehacker] [Eight Non-Trade Jobs That Pay Well Without a Degree](https://lifehacker.com/eight-non-trade-jobs-that-pay-well-without-a-degree-1850520797)
 - [Lifehacker] [How to Actually Get That Smoky Smell Out of Your House &lpar;and What Won’t Work&rpar;](https://lifehacker.com/how-to-actually-get-that-smoky-smell-out-of-your-house-1850520711)
 - [Lifehacker] [When Will the Wildfire Smoke Go Away?](https://lifehacker.com/when-will-the-wildfire-smoke-go-away-1850520583)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Consider Before Selling Your Parents&#39; House](https://lifehacker.com/what-to-consider-before-selling-your-parents-house-1850516058)
 - [Lifehacker] [You Can Install the iOS 17 Beta, but You Probably Shouldn&#39;t](https://lifehacker.com/you-can-install-the-ios-17-beta-but-you-probably-shoul-1850515214)
 - [Lifehacker] [Mismatch Your Duvet Cover for the Fluffiest Bed](https://lifehacker.com/mismatch-your-duvet-cover-for-the-fluffiest-bed-1850515061)
-- [Lifehacker] [Here&#39;s How Much an N95 Mask Protects You From Wildfire Smoke](https://lifehacker.com/heres-how-much-an-n95-mask-protects-you-from-wildfire-s-1850514977)
-- [Lifehacker] [This Refurbished MacBook Air Is on Sale for $310](https://lifehacker.com/this-refurbished-macbook-air-is-on-sale-for-310-1850508983)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here&#39;s How Much an N95 Mask Protects You From Wildfire Smoke](https://lifehacker.com/heres-how-much-an-n95-mask-protects-you-from-wildfire-s-1850514977)<!-- TECH-POSTS:END -->
 
 ---
 
