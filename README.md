@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [100 Days Coding Challenge - Day 20: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-20-freecodecamp-javascript-algorithms-and-data-structures-30fp)
 - [Dev.to/JS] [GPT Loop Prompting: How to Summarize Text that Exceeds the Token Limit](https://dev.to/ddimitrov777/gpt-loop-prompting-how-to-summarize-text-that-exceeds-the-token-limit-26lo)
 - [Dev.to/JS] [Sharing Interaction Tests Between Vitest and Storybook](https://dev.to/scottnath/sharing-interaction-tests-between-vitest-and-storybook-2pj2)
 - [Dev.to/JS] [ObjectionJs &amp; Advanced Techniques](https://dev.to/hamasarbast1997/objectionjs-advanced-techniques-4ej0)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Alternative Data Visualization Solutions!](https://dev.to/jlgjosue/alternative-data-visualization-solutions-446)
 - [Dev.to/JS] [Authentication system using Golang and Sveltekit - Dockerization and deployments](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-dockerization-and-deployments-139h)
 - [Lifehacker] [You Can Finally Send High Quality Photos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)
-- [Dev.to/JS] [Add Element to Array just if It Doesn&#39;t Exist in the Array](https://dev.to/mayallo/add-element-to-array-just-if-it-doesnt-exist-in-the-array-532b)
 - [Lifehacker] [Why You Shouldn’t Buy the New 15-Inch MacBook Air](https://lifehacker.com/why-you-shouldn-t-buy-the-new-15-inch-macbook-air-1850518951)
 - [Lifehacker] [Your Smoothies Will Benefit From a Little Jam](https://lifehacker.com/your-smoothies-will-benefit-from-a-little-jam-1850519891)
 - [Lifehacker] [Get a Pair of Tiny Utility Flashlights for $36](https://lifehacker.com/get-a-pair-of-tiny-utility-flashlights-for-36-1850508994)
