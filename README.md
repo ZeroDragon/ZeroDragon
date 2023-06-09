@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [High-quality resources for frontend web devs](https://dev.to/sadanandpai/high-quality-resources-for-frontend-web-devs-1cna)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 20: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-20-freecodecamp-javascript-algorithms-and-data-structures-30fp)
 - [Dev.to/JS] [GPT Loop Prompting: How to Summarize Text that Exceeds the Token Limit](https://dev.to/ddimitrov777/gpt-loop-prompting-how-to-summarize-text-that-exceeds-the-token-limit-26lo)
 - [Dev.to/JS] [Sharing Interaction Tests Between Vitest and Storybook](https://dev.to/scottnath/sharing-interaction-tests-between-vitest-and-storybook-2pj2)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Async Lubricant: Simplifying Complex Asynchronous Logic with DAG in JavaScript](https://dev.to/artxe2/async-lubricant-simplifying-complex-asynchronous-logic-with-dag-in-javascript-1mai)
 - [Lifehacker] [This Refurbished iPad Mini Bundle Is Under $100](https://lifehacker.com/this-refurbished-ipad-mini-bundle-is-under-100-1850509000)
 - [Dev.to/JS] [Alternative Data Visualization Solutions!](https://dev.to/jlgjosue/alternative-data-visualization-solutions-446)
-- [Dev.to/JS] [Authentication system using Golang and Sveltekit - Dockerization and deployments](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-dockerization-and-deployments-139h)
 - [Lifehacker] [You Can Finally Send High Quality Photos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)
 - [Lifehacker] [Why You Shouldn’t Buy the New 15-Inch MacBook Air](https://lifehacker.com/why-you-shouldn-t-buy-the-new-15-inch-macbook-air-1850518951)
 - [Lifehacker] [Your Smoothies Will Benefit From a Little Jam](https://lifehacker.com/your-smoothies-will-benefit-from-a-little-jam-1850519891)
