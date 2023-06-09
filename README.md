@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TDD vs BDD - A Detailed Guide](https://dev.to/refine/tdd-vs-bdd-a-detailed-guide-1f07)
+- [Dev.to/JS] [Why We Chose Node.js Over Deno?](https://dev.to/amplication/why-we-chose-nodejs-over-deno-2fpj)
 - [Dev.to/JS] [Fixing Prettier not working with VSCode](https://dev.to/dmytrych/fixing-prettier-not-working-with-vscode-44ml)
 - [Dev.to/JS] [State management in its own module in vanilla JavaScript](https://dev.to/chovy/state-management-into-its-own-module-in-vanilla-javascript-58mf)
 - [Dev.to/JS] [Generating sound in modern Web Audio API](https://dev.to/atornblad/generating-sound-in-modern-web-audio-api-463)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [High-quality resources for frontend web devs](https://dev.to/sadanandpai/high-quality-resources-for-frontend-web-devs-1cna)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 20: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-20-freecodecamp-javascript-algorithms-and-data-structures-30fp)
 - [Dev.to/JS] [GPT Loop Prompting: How to Summarize Text that Exceeds the Token Limit](https://dev.to/ddimitrov777/gpt-loop-prompting-how-to-summarize-text-that-exceeds-the-token-limit-26lo)
-- [Dev.to/JS] [Sharing Interaction Tests Between Vitest and Storybook](https://dev.to/scottnath/sharing-interaction-tests-between-vitest-and-storybook-2pj2)
-- [Dev.to/JS] [ObjectionJs &amp; Advanced Techniques](https://dev.to/hamasarbast1997/objectionjs-advanced-techniques-4ej0)
 - [Lifehacker] [Eight Non-Trade Jobs That Pay Well Without a Degree](https://lifehacker.com/eight-non-trade-jobs-that-pay-well-without-a-degree-1850520797)
 - [Lifehacker] [How to Actually Get That Smoky Smell Out of Your House &lpar;and What Won’t Work&rpar;](https://lifehacker.com/how-to-actually-get-that-smoky-smell-out-of-your-house-1850520711)
 - [Lifehacker] [When Will the Wildfire Smoke Go Away?](https://lifehacker.com/when-will-the-wildfire-smoke-go-away-1850520583)
