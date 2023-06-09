@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🤖CMD+C🤖CMD+V? 🛑 Never More!](https://dev.to/borysshulyak/cmdccmdv-never-more-58lp)
+- [Lifehacker] [When You Ask AI to Write an Obituary](https://lifehacker.com/when-you-ask-ai-to-write-an-obituary-1850502065)
+- [Lifehacker] [The Secret to New York Deli-Style Cream Cheese Is Seltzer](https://lifehacker.com/the-secret-to-new-york-deli-style-cream-cheese-is-seltz-1850520367)
 - [Dev.to/JS] [El mundo es un caos &lpar;breve recordatorio&rpar;](https://dev.to/evesan/el-mundo-es-un-caos-breve-recordatorio-2mo7)
 - [Lifehacker] [Make Your Boring Job Work for You](https://lifehacker.com/make-your-bullshit-job-work-for-you-1850510043)
 - [Dev.to/JS] [Backend/API Developers: Are you making these small costly mistakes with HTTP status code?](https://dev.to/danielasaboro/backendapi-developers-are-you-making-these-small-costly-mistakes-with-http-status-code-1o8a)
@@ -36,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New Useful Setting from VS Code](https://dev.to/brojenuel/new-useful-setting-from-vs-code-55d6)
 - [Dev.to/JS] [Exploring Movixhob: An Innovative Movie Recommendation App.](https://dev.to/truevine/exploring-movixhob-an-innovative-movie-recommendation-app-5b53)
 - [Dev.to/JS] [What are Reverse-API Gateways?](https://dev.to/convoy/what-are-reverse-api-gateways-13gd)
-- [Dev.to/JS] [The most underrated search engine...](https://dev.to/savvasstephnds/the-most-underrated-search-engine-312d)
 - [Lifehacker] [Eight Non-Trade Jobs That Pay Well Without a Degree](https://lifehacker.com/eight-non-trade-jobs-that-pay-well-without-a-degree-1850520797)
 - [Lifehacker] [How to Actually Get That Smoky Smell Out of Your House &lpar;and What Won’t Work&rpar;](https://lifehacker.com/how-to-actually-get-that-smoky-smell-out-of-your-house-1850520711)
 - [Lifehacker] [When Will the Wildfire Smoke Go Away?](https://lifehacker.com/when-will-the-wildfire-smoke-go-away-1850520583)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This DIY Gaming Console Kit for $80 Right Now](https://lifehacker.com/you-can-get-this-diy-gaming-console-kit-for-80-right-n-1850508982)
 - [Lifehacker] [There&#39;s a New Way to Play Wordle With Your Friends](https://lifehacker.com/theres-a-new-way-to-play-wordle-with-your-friends-1850516337)
 - [Lifehacker] [What to Consider Before Selling Your Parents&#39; House](https://lifehacker.com/what-to-consider-before-selling-your-parents-house-1850516058)
-- [Lifehacker] [You Can Install the iOS 17 Beta, but You Probably Shouldn&#39;t](https://lifehacker.com/you-can-install-the-ios-17-beta-but-you-probably-shoul-1850515214)
-- [Lifehacker] [Mismatch Your Duvet Cover for the Fluffiest Bed](https://lifehacker.com/mismatch-your-duvet-cover-for-the-fluffiest-bed-1850515061)
-- [Lifehacker] [Here&#39;s How Much an N95 Mask Protects You From Wildfire Smoke](https://lifehacker.com/heres-how-much-an-n95-mask-protects-you-from-wildfire-s-1850514977)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Install the iOS 17 Beta, but You Probably Shouldn&#39;t](https://lifehacker.com/you-can-install-the-ios-17-beta-but-you-probably-shoul-1850515214)<!-- TECH-POSTS:END -->
 
 ---
 
