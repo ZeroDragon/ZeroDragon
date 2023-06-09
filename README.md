@@ -23,7 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Easy React Infinite Scroll👌](https://dev.to/apestein/easy-react-infinite-scroll-59gc)
+- [Dev.to/JS] [GPT Loop Prompting: How to Summarize Text that Exceeds the Token Limit](https://dev.to/ddimitrov777/gpt-loop-prompting-how-to-summarize-text-that-exceeds-the-token-limit-26lo)
 - [Dev.to/JS] [Sharing Interaction Tests Between Vitest and Storybook](https://dev.to/scottnath/sharing-interaction-tests-between-vitest-and-storybook-2pj2)
 - [Dev.to/JS] [ObjectionJs &amp; Advanced Techniques](https://dev.to/hamasarbast1997/objectionjs-advanced-techniques-4ej0)
 - [Dev.to/JS] [Level Up Your JavaScript Skills with the Spread Operator](https://dev.to/devlawrence/level-up-your-javascript-skills-with-the-spread-operator-5dc0)
