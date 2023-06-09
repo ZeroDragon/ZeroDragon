@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Easy React Infinite Scroll👌](https://dev.to/apestein/easy-react-infinite-scroll-59gc)
+- [Dev.to/JS] [Sharing Interaction Tests Between Vitest and Storybook](https://dev.to/scottnath/sharing-interaction-tests-between-vitest-and-storybook-2pj2)
 - [Dev.to/JS] [ObjectionJs &amp; Advanced Techniques](https://dev.to/hamasarbast1997/objectionjs-advanced-techniques-4ej0)
 - [Dev.to/JS] [Level Up Your JavaScript Skills with the Spread Operator](https://dev.to/devlawrence/level-up-your-javascript-skills-with-the-spread-operator-5dc0)
 - [Dev.to/JS] [Moonly weekly progress update #52 - New Moonly Collection](https://dev.to/moonly/moonly-weekly-progress-update-52-new-moonly-collection-3mim)
@@ -38,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Authentication system using Golang and Sveltekit - Dockerization and deployments](https://dev.to/sirneij/authentication-system-using-golang-and-sveltekit-dockerization-and-deployments-139h)
 - [Lifehacker] [You Can Finally Send High Quality Photos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)
 - [Dev.to/JS] [Add Element to Array just if It Doesn&#39;t Exist in the Array](https://dev.to/mayallo/add-element-to-array-just-if-it-doesnt-exist-in-the-array-532b)
-- [Dev.to/JS] [Episode 23/22: Signal Components, TypeScript 5.1](https://dev.to/this-is-angular/episode-2322-signal-components-typescript-51-50d1)
 - [Lifehacker] [Why You Shouldn’t Buy the New 15-Inch MacBook Air](https://lifehacker.com/why-you-shouldn-t-buy-the-new-15-inch-macbook-air-1850518951)
-- [Dev.to/JS] [The Real-World Impact of Core Web Vitals on Website Revenue and Discoverability](https://dev.to/jeevankishore/the-real-world-impact-of-core-web-vitals-on-website-revenue-and-discoverability-4del)
 - [Lifehacker] [Your Smoothies Will Benefit From a Little Jam](https://lifehacker.com/your-smoothies-will-benefit-from-a-little-jam-1850519891)
 - [Lifehacker] [Get a Pair of Tiny Utility Flashlights for $36](https://lifehacker.com/get-a-pair-of-tiny-utility-flashlights-for-36-1850508994)
 - [Lifehacker] [What &#39;Code Purple&#39; and Other Air Quality Terms Mean](https://lifehacker.com/what-code-purple-and-other-air-quality-terms-mean-1850519150)
