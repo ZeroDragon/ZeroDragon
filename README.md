@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Boost Your Web Performance with HTML5 Features](https://dev.to/sardarmudassaralikhan/how-to-boost-your-web-performance-with-html5-features-53jg)
 - [Dev.to/JS] [Who is JSON?!](https://dev.to/burtds/who-is-json-59kd)
 - [Dev.to/JS] [New Useful Setting from VS Code](https://dev.to/brojenuel/new-useful-setting-from-vs-code-55d6)
 - [Dev.to/JS] [Exploring Movixhob: An Innovative Movie Recommendation App.](https://dev.to/truevine/exploring-movixhob-an-innovative-movie-recommendation-app-5b53)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [State management in its own module in vanilla JavaScript](https://dev.to/chovy/state-management-into-its-own-module-in-vanilla-javascript-58mf)
 - [Dev.to/JS] [Generating sound in modern Web Audio API](https://dev.to/atornblad/generating-sound-in-modern-web-audio-api-463)
 - [Dev.to/JS] [Must predictable state changes come at a high cost?](https://dev.to/licg9999/must-predictable-state-changes-come-at-a-high-cost-6cc)
-- [Dev.to/JS] [Unlocking the Potential of Async in JavaScript](https://dev.to/lukeskw/unlocking-the-potential-of-async-in-javascript-4mgc)
 - [Lifehacker] [Eight Non-Trade Jobs That Pay Well Without a Degree](https://lifehacker.com/eight-non-trade-jobs-that-pay-well-without-a-degree-1850520797)
 - [Lifehacker] [How to Actually Get That Smoky Smell Out of Your House &lpar;and What Won’t Work&rpar;](https://lifehacker.com/how-to-actually-get-that-smoky-smell-out-of-your-house-1850520711)
 - [Lifehacker] [When Will the Wildfire Smoke Go Away?](https://lifehacker.com/when-will-the-wildfire-smoke-go-away-1850520583)
