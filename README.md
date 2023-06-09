@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Most Important javascript concept before starting Reactjs](https://dev.to/gaurbprajapati/most-important-javascript-concept-before-starting-reactjs-13je)
+- [Lifehacker] [Try &#39;Task Batching&#39; for a More Productive Week](https://lifehacker.com/try-task-batching-for-a-more-productive-week-1850523035)
+- [Lifehacker] [The Difference Between a Handyman and Contractor &lpar;and When to Use Each&rpar;](https://lifehacker.com/the-difference-between-a-handyman-and-contractor-and-w-1850523149)
 - [Lifehacker] [This &#39;Travel Hacker Bundle&#39; Includes Rosetta Stone, Dollar Flight Club, and RealVPN](https://lifehacker.com/this-travel-hacker-bundle-includes-rosetta-stone-dolla-1850509006)
 - [Dev.to/JS] [HTML, CSS, and JavaScript Projects](https://dev.to/alisamirali/html-css-and-javascript-projects-55hf)
 - [Lifehacker] [The First Seven Things to Do When Your Child Comes Out to You](https://lifehacker.com/the-first-seven-things-to-do-when-your-child-comes-out-1850523634)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Clean Your Dishes When You’re Camping](https://lifehacker.com/the-easiest-way-to-clean-your-dishes-when-you-re-campin-1850522778)
 - [Lifehacker] [You Can Lock Your iPhone From Your Apple Watch If Someone Snatches Your Phone](https://lifehacker.com/you-can-lock-your-iphone-from-your-apple-watch-if-someo-1850522141)
 - [Lifehacker] [How to Avoid Paying the ‘Electronic Carrier Charge’ &lpar;and Other Stupid Travel Fees&rpar;](https://lifehacker.com/how-to-avoid-paying-the-electronic-carrier-charge-an-1850521008)
-- [Dev.to/JS] [Corona virus](https://dev.to/wshuvo/hbjhj-2njc)
 - [Lifehacker] [Here Are the Best Father’s Day Tool Deals](https://lifehacker.com/here-are-the-best-father-s-day-tool-deals-1850521969)
 - [Dev.to/JS] [Angular component - basics of properties](https://dev.to/tomwebwalker/angular-component-basics-of-properties-52p0)
 - [Lifehacker] [Why Your Favorite Subreddits Are Going Dark on June 12](https://lifehacker.com/why-your-favorite-subreddits-are-going-dark-on-june-12-1850521188)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Smoothies Will Benefit From a Little Jam](https://lifehacker.com/your-smoothies-will-benefit-from-a-little-jam-1850519891)
 - [Lifehacker] [Get a Pair of Tiny Utility Flashlights for $36](https://lifehacker.com/get-a-pair-of-tiny-utility-flashlights-for-36-1850508994)
 - [Lifehacker] [What &#39;Code Purple&#39; and Other Air Quality Terms Mean](https://lifehacker.com/what-code-purple-and-other-air-quality-terms-mean-1850519150)
-- [Lifehacker] [Five Times When You Should Change Your Credit Card](https://lifehacker.com/five-times-when-you-should-change-your-credit-card-1850519245)
-- [Lifehacker] [When to Pay for a Home Warranty &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-to-pay-for-a-home-warranty-and-when-you-shouldnt-1850519193)
-- [Lifehacker] [How to Peacefully Resolve a Dispute With Your Neighbor](https://lifehacker.com/how-to-peacefully-resolve-a-dispute-with-your-neighbor-1850517835)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five Times When You Should Change Your Credit Card](https://lifehacker.com/five-times-when-you-should-change-your-credit-card-1850519245)<!-- TECH-POSTS:END -->
 
 ---
 
