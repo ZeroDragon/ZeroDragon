@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Forget Shopify Why MedusaJS Is the Future of Headless Ecommerce](https://dev.to/turneremma21/forget-shopify-why-medusajs-is-the-future-of-headless-ecommerce-ecd)
+- [Dev.to/JS] [API Testing in Software Development](https://dev.to/sardarmudassaralikhan/api-testing-in-software-development-4c30)
 - [Dev.to/JS] [One-Time-Code with a Single Input](https://dev.to/madsstoumann/one-time-code-with-a-single-input-51o0)
 - [Dev.to/JS] [Understanding Variables in JavaScript: let, const, and var](https://dev.to/sakilk130/understanding-variables-in-javascript-let-const-and-var-4aa)
 - [Dev.to/JS] [Postman API Testing Tool Introduction](https://dev.to/sardarmudassaralikhan/postman-api-testing-tool-introduction-1km6)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [To-Do List](https://dev.to/gururaj-math/to-do-list-3cbp)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Learning Generative AI](https://dev.to/hr21don/a-beginners-guide-to-learning-generative-ai-a5a)
 - [Lifehacker] [These Are the Best Father&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-fathers-day-food-deals-and-freebies-1850523613)
-- [Dev.to/JS] [How to Upload Files to AWS S3 in React](https://dev.to/mohammadfaisal/how-to-upload-files-to-aws-s3-in-react-3m9p)
-- [Dev.to/JS] [react.children.only expected to receive single react element child](https://dev.to/reactjsguru/reactchildrenonly-expected-to-receive-single-react-element-child-4amd)
 - [Lifehacker] [The Smartest Ways to De-escalate Conflicts at Work](https://lifehacker.com/the-smartest-ways-to-de-escalate-conflicts-at-work-1850523609)
 - [Lifehacker] [The Best and Worst Places to Keep Your Luggage at Home](https://lifehacker.com/the-best-and-worst-places-to-keep-your-luggage-at-home-1850523598)
 - [Lifehacker] [Try &#39;Task Batching&#39; for a More Productive Week](https://lifehacker.com/try-task-batching-for-a-more-productive-week-1850523035)
