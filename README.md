@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using browser Speech Synthesis capabilities &lpar;on an Angular App&rpar;](https://dev.to/vitorstick/using-browser-speech-synthesis-capabilities-on-an-angular-app-4pdk)
+- [Dev.to/JS] [Interesting JavaScript Features from a Ruby Perspective](https://dev.to/samuelodan/interesting-javascript-features-from-a-ruby-perspective-k2e)
 - [Dev.to/JS] [Forget Shopify Why MedusaJS Is the Future of Headless Ecommerce](https://dev.to/turneremma21/forget-shopify-why-medusajs-is-the-future-of-headless-ecommerce-ecd)
 - [Dev.to/JS] [API Testing in Software Development](https://dev.to/sardarmudassaralikhan/api-testing-in-software-development-4c30)
 - [Dev.to/JS] [One-Time-Code with a Single Input](https://dev.to/madsstoumann/one-time-code-with-a-single-input-51o0)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learning React State and LifeCycle](https://dev.to/rabibsust/learning-react-state-and-lifecycle-1c0b)
 - [Dev.to/JS] [Integrating BudPay API with a Web Application: A Comprehensive Tutorial](https://dev.to/saint_vandora/integrating-budpay-api-with-a-web-application-a-comprehensive-tutorial-52ij)
 - [Dev.to/JS] [Securing BudPay Transactions: Encryption and Authentication Techniques](https://dev.to/saint_vandora/securing-budpay-transactions-encryption-and-authentication-techniques-2pg3)
-- [Dev.to/JS] [To-Do List](https://dev.to/gururaj-math/to-do-list-3cbp)
-- [Dev.to/JS] [A Beginner&#39;s Guide to Learning Generative AI](https://dev.to/hr21don/a-beginners-guide-to-learning-generative-ai-a5a)
 - [Lifehacker] [These Are the Best Father&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-fathers-day-food-deals-and-freebies-1850523613)
 - [Lifehacker] [The Smartest Ways to De-escalate Conflicts at Work](https://lifehacker.com/the-smartest-ways-to-de-escalate-conflicts-at-work-1850523609)
 - [Lifehacker] [The Best and Worst Places to Keep Your Luggage at Home](https://lifehacker.com/the-best-and-worst-places-to-keep-your-luggage-at-home-1850523598)
