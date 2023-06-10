@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started with React: Unleashing the Power of Web Development](https://dev.to/keenangee/getting-started-with-react-unleashing-the-power-of-web-development-2ogp)
+- [Dev.to/JS] [findByText for Vue Test Utils](https://dev.to/kouts/findbytext-for-vue-test-utils-5h2e)
+- [Dev.to/JS] [MY FRONTEND EXPERIENCE](https://dev.to/vedantsp/my-frontend-experience-1dmj)
+- [Dev.to/JS] [Restaurant-Responsive-Website](https://dev.to/gururaj-math/restaurant-responsive-website-1bd)
 - [Dev.to/JS] [This leetcode Feature is AMAZING for JavaScript developers](https://dev.to/xplodivity/this-leetcode-feature-is-amazing-for-javascript-developers-2lgg)
 - [Dev.to/JS] [A Beginner’s Guide to Rust Procedural Macros: Creating a JSON Derive Macro](https://dev.to/kofituo/a-beginners-guide-to-rust-procedural-macros-creating-a-json-derive-macro-jho)
 - [Dev.to/JS] [How to Create a Custom useFetch Hook in React](https://dev.to/adetutu/how-to-create-a-custom-usefetch-hook-in-react-4p7)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Part&lpar;4&rpar; : JavaScript Functions](https://dev.to/cliff123tech/part4-javascript-functions-41pc)
 - [Dev.to/JS] [Scraping GeeksforGeeks User Profiles with Node.js](https://dev.to/joeljaison394/scraping-geeksforgeeks-user-profiles-with-nodejs-16mk)
 - [Dev.to/JS] [Can obfuscated Javascript be restored to its original source code?](https://dev.to/w2sft/can-obfuscated-javascript-be-restored-to-its-original-source-code-48ek)
-- [Dev.to/JS] [Getting Started with Building and Publishing a React Component as a Package](https://dev.to/scofieldidehen/getting-started-with-building-and-publishing-a-react-component-as-a-package-3fga)
-- [Dev.to/JS] [Modern Recipe URL to 🍬 Sugar Level Estimation Web App From Scratch](https://dev.to/ziqinyeow/modern-recipe-url-to-sugar-level-estimation-web-app-from-scratch-4jed)
-- [Dev.to/JS] [Create Video Programmatically](https://dev.to/shreyvijayvargiya/create-video-programmatically-3n2d)
-- [Dev.to/JS] [The Essential Role of JavaScript in Modern Frontend Development](https://dev.to/uzafar90/the-essential-role-of-javascript-in-modern-frontend-development-3m0)
 - [Lifehacker] [Try &#39;Task Batching&#39; for a More Productive Week](https://lifehacker.com/try-task-batching-for-a-more-productive-week-1850523035)
 - [Lifehacker] [The Difference Between a Handyman and Contractor &lpar;and When to Use Each&rpar;](https://lifehacker.com/the-difference-between-a-handyman-and-contractor-and-w-1850523149)
 - [Lifehacker] [This &#39;Travel Hacker Bundle&#39; Includes Rosetta Stone, Dollar Flight Club, and RealVPN](https://lifehacker.com/this-travel-hacker-bundle-includes-rosetta-stone-dolla-1850509006)
