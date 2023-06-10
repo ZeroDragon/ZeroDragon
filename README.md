@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Part&lpar;4&rpar; : JavaScript Functions](https://dev.to/cliff123tech/part4-javascript-functions-41pc)
+- [Dev.to/JS] [Scraping GeeksforGeeks User Profiles with Node.js](https://dev.to/joeljaison394/scraping-geeksforgeeks-user-profiles-with-nodejs-16mk)
+- [Dev.to/JS] [Can obfuscated Javascript be restored to its original source code?](https://dev.to/w2sft/can-obfuscated-javascript-be-restored-to-its-original-source-code-48ek)
+- [Dev.to/JS] [Getting Started with Building and Publishing a React Component as a Package](https://dev.to/scofieldidehen/getting-started-with-building-and-publishing-a-react-component-as-a-package-3fga)
+- [Dev.to/JS] [Modern Recipe URL to 🍬 Sugar Level Estimation Web App From Scratch](https://dev.to/ziqinyeow/modern-recipe-url-to-sugar-level-estimation-web-app-from-scratch-4jed)
 - [Dev.to/JS] [Create Video Programmatically](https://dev.to/shreyvijayvargiya/create-video-programmatically-3n2d)
 - [Dev.to/JS] [The Essential Role of JavaScript in Modern Frontend Development](https://dev.to/uzafar90/the-essential-role-of-javascript-in-modern-frontend-development-3m0)
 - [Dev.to/JS] [Post editadoy87878](https://dev.to/alepaezdev/post-3914)
@@ -34,13 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This &#39;Travel Hacker Bundle&#39; Includes Rosetta Stone, Dollar Flight Club, and RealVPN](https://lifehacker.com/this-travel-hacker-bundle-includes-rosetta-stone-dolla-1850509006)
 - [Dev.to/JS] [HTML, CSS, and JavaScript Projects](https://dev.to/alisamirali/html-css-and-javascript-projects-55hf)
 - [Lifehacker] [The First Seven Things to Do When Your Child Comes Out to You](https://lifehacker.com/the-first-seven-things-to-do-when-your-child-comes-out-1850523634)
-- [Dev.to/JS] [Generate web apps using AI in minutes with open source](https://dev.to/barqawiz/build-ai-apps-with-intelli-noed-in-minutes-2il0)
-- [Dev.to/JS] [Enhancing User Experience with React&#39;s useTransition Hook](https://dev.to/devprashantt/enhancing-user-experience-with-reacts-usetransition-hook-194m)
 - [Lifehacker] [Make a Cute Little Batch of Mini Tortilla Chips in Your Air Fryer](https://lifehacker.com/make-a-cute-little-batch-of-mini-tortilla-chips-in-your-1850523607)
-- [Dev.to/JS] [New Array Methods in JS](https://dev.to/asi309/new-array-methods-in-js-4mj4)
 - [Lifehacker] [You Can Get a Lifetime 1TB Cloud Storage Account for 85% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-1tb-cloud-storage-account-for-85-1850509001)
-- [Dev.to/JS] [Best Animation Libraries For React🎉](https://dev.to/arafat4693/best-animation-libraries-for-react-156n)
-- [Dev.to/JS] [How to Build and Publish Your First React NPM Package](https://dev.to/femi_dev/how-to-build-and-publish-your-first-react-npm-package-24o3)
 - [Lifehacker] [Google Chrome&#39;s Password Manager Is Getting Better](https://lifehacker.com/google-chromes-password-manager-is-getting-better-1850523135)
 - [Lifehacker] [How to Find &lpar;and Close&rpar; Your Home&#39;s Fresh Air Intake](https://lifehacker.com/how-to-find-and-close-your-homes-fresh-air-intake-1850523329)
 - [Lifehacker] [The Easiest Way to Clean Your Dishes When You’re Camping](https://lifehacker.com/the-easiest-way-to-clean-your-dishes-when-you-re-campin-1850522778)
