@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Essential Role of JavaScript in Modern Frontend Development](https://dev.to/uzafar90/the-essential-role-of-javascript-in-modern-frontend-development-3m0)
+- [Dev.to/JS] [Post editadoy87878](https://dev.to/alepaezdev/post-3914)
 - [Dev.to/JS] [Easy React Infinite Scroll👌](https://dev.to/apestein/easy-react-infinite-scroll-367h)
 - [Dev.to/JS] [What is mindsync©️?](https://dev.to/jufudev/what-is-mindsyncc-1fmo)
 - [Dev.to/JS] [Most Important javascript concept before starting Reactjs](https://dev.to/gaurbprajapati/most-important-javascript-concept-before-starting-reactjs-13je)
@@ -45,10 +47,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Lock Your iPhone From Your Apple Watch If Someone Snatches Your Phone](https://lifehacker.com/you-can-lock-your-iphone-from-your-apple-watch-if-someo-1850522141)
 - [Lifehacker] [How to Avoid Paying the ‘Electronic Carrier Charge’ &lpar;and Other Stupid Travel Fees&rpar;](https://lifehacker.com/how-to-avoid-paying-the-electronic-carrier-charge-an-1850521008)
 - [Lifehacker] [Here Are the Best Father’s Day Tool Deals](https://lifehacker.com/here-are-the-best-father-s-day-tool-deals-1850521969)
-- [Dev.to/JS] [Angular component - basics of properties](https://dev.to/tomwebwalker/angular-component-basics-of-properties-52p0)
 - [Lifehacker] [Why Your Favorite Subreddits Are Going Dark on June 12](https://lifehacker.com/why-your-favorite-subreddits-are-going-dark-on-june-12-1850521188)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Who is Baby Gronk?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-b-1850521502)
-- [Dev.to/JS] [🤖CMD+C🤖CMD+V? 🛑 Never More!](https://dev.to/borysshulyak/cmdccmdv-never-more-58lp)
 - [Lifehacker] [When You Ask AI to Write an Obituary](https://lifehacker.com/when-you-ask-ai-to-write-an-obituary-1850502065)
 - [Lifehacker] [The Secret to New York Deli-Style Cream Cheese Is Seltzer](https://lifehacker.com/the-secret-to-new-york-deli-style-cream-cheese-is-seltz-1850520367)
 - [Lifehacker] [Make Your Boring Job Work for You](https://lifehacker.com/make-your-bullshit-job-work-for-you-1850510043)
