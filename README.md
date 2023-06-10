@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This leetcode Feature is AMAZING for JavaScript developers](https://dev.to/xplodivity/this-leetcode-feature-is-amazing-for-javascript-developers-2lgg)
 - [Dev.to/JS] [A Beginner’s Guide to Rust Procedural Macros: Creating a JSON Derive Macro](https://dev.to/kofituo/a-beginners-guide-to-rust-procedural-macros-creating-a-json-derive-macro-jho)
 - [Dev.to/JS] [How to Create a Custom useFetch Hook in React](https://dev.to/adetutu/how-to-create-a-custom-usefetch-hook-in-react-4p7)
 - [Dev.to/JS] [DevDuetAI improves its own code in this plugin for ChatGPT and for GitHub](https://dev.to/austincoleman/devduetai-improves-its-own-code-in-this-plugin-for-chatgpt-and-for-github-3m5a)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Modern Recipe URL to 🍬 Sugar Level Estimation Web App From Scratch](https://dev.to/ziqinyeow/modern-recipe-url-to-sugar-level-estimation-web-app-from-scratch-4jed)
 - [Dev.to/JS] [Create Video Programmatically](https://dev.to/shreyvijayvargiya/create-video-programmatically-3n2d)
 - [Dev.to/JS] [The Essential Role of JavaScript in Modern Frontend Development](https://dev.to/uzafar90/the-essential-role-of-javascript-in-modern-frontend-development-3m0)
-- [Dev.to/JS] [Post editadoy87878](https://dev.to/alepaezdev/post-3914)
 - [Lifehacker] [Try &#39;Task Batching&#39; for a More Productive Week](https://lifehacker.com/try-task-batching-for-a-more-productive-week-1850523035)
 - [Lifehacker] [The Difference Between a Handyman and Contractor &lpar;and When to Use Each&rpar;](https://lifehacker.com/the-difference-between-a-handyman-and-contractor-and-w-1850523149)
 - [Lifehacker] [This &#39;Travel Hacker Bundle&#39; Includes Rosetta Stone, Dollar Flight Club, and RealVPN](https://lifehacker.com/this-travel-hacker-bundle-includes-rosetta-stone-dolla-1850509006)
