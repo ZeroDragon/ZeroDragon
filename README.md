@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Functions in TypeScript: With Challenges](https://dev.to/bobbyhalljr/understanding-functions-in-typescript-with-challenges-64k)
+- [Dev.to/JS] [TypeScript Decorators: A complete guide](https://dev.to/alakkadshaw/typescript-decorators-a-complete-guide-4jgg)
+- [Dev.to/JS] [keyof typeof Object](https://dev.to/lausuarez02/keyof-typeof-object-964)
+- [Dev.to/JS] [Popwola | Your no-code popup builder | Appwrite x Hashnode Hackathon](https://dev.to/niazmorshed2007/popwola-your-no-code-popup-builder-appwrite-x-hashnode-hackathon-3gfp)
+- [Lifehacker] [The Smartest Ways to De-escalate Conflicts at Work](https://lifehacker.com/the-smartest-ways-to-de-escalate-conflicts-at-work-1850523609)
 - [Dev.to/JS] [This is my first post](https://dev.to/abeerkhan/this-is-my-first-post-4327)
 - [Lifehacker] [The Best and Worst Places to Keep Your Luggage at Home](https://lifehacker.com/the-best-and-worst-places-to-keep-your-luggage-at-home-1850523598)
 - [Dev.to/JS] [Exploring the Buffet-Boilerplate Analogy](https://dev.to/girijashankar_j/exploring-the-buffet-boilerplate-analogy-1g89)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MY FRONTEND EXPERIENCE](https://dev.to/vedantsp/my-frontend-experience-1dmj)
 - [Dev.to/JS] [Restaurant-Responsive-Website](https://dev.to/gururaj-math/restaurant-responsive-website-1bd)
 - [Dev.to/JS] [This leetcode Feature is AMAZING for JavaScript developers](https://dev.to/xplodivity/this-leetcode-feature-is-amazing-for-javascript-developers-2lgg)
-- [Dev.to/JS] [A Beginner’s Guide to Rust Procedural Macros: Creating a JSON Derive Macro](https://dev.to/kofituo/a-beginners-guide-to-rust-procedural-macros-creating-a-json-derive-macro-jho)
-- [Dev.to/JS] [How to Create a Custom useFetch Hook in React](https://dev.to/adetutu/how-to-create-a-custom-usefetch-hook-in-react-4p7)
-- [Dev.to/JS] [DevDuetAI improves its own code in this plugin for ChatGPT and for GitHub](https://dev.to/austincoleman/devduetai-improves-its-own-code-in-this-plugin-for-chatgpt-and-for-github-3m5a)
-- [Dev.to/JS] [MJGS Newsletter - Apple’s Vision Pro, Crypto vs SEC &lpar;Issue #118&rpar;](https://dev.to/mjgs/this-weeks-newsletter-is-out-10-06-2023-apples-vision-pro-crypto-vs-sec-30hf)
 - [Lifehacker] [Try &#39;Task Batching&#39; for a More Productive Week](https://lifehacker.com/try-task-batching-for-a-more-productive-week-1850523035)
 - [Lifehacker] [The Difference Between a Handyman and Contractor &lpar;and When to Use Each&rpar;](https://lifehacker.com/the-difference-between-a-handyman-and-contractor-and-w-1850523149)
 - [Lifehacker] [This &#39;Travel Hacker Bundle&#39; Includes Rosetta Stone, Dollar Flight Club, and RealVPN](https://lifehacker.com/this-travel-hacker-bundle-includes-rosetta-stone-dolla-1850509006)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Send High Quality Photos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)
 - [Lifehacker] [Why You Shouldn’t Buy the New 15-Inch MacBook Air](https://lifehacker.com/why-you-shouldn-t-buy-the-new-15-inch-macbook-air-1850518951)
 - [Lifehacker] [Your Smoothies Will Benefit From a Little Jam](https://lifehacker.com/your-smoothies-will-benefit-from-a-little-jam-1850519891)
-- [Lifehacker] [Get a Pair of Tiny Utility Flashlights for $36](https://lifehacker.com/get-a-pair-of-tiny-utility-flashlights-for-36-1850508994)
-- [Lifehacker] [What &#39;Code Purple&#39; and Other Air Quality Terms Mean](https://lifehacker.com/what-code-purple-and-other-air-quality-terms-mean-1850519150)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Get a Pair of Tiny Utility Flashlights for $36](https://lifehacker.com/get-a-pair-of-tiny-utility-flashlights-for-36-1850508994)<!-- TECH-POSTS:END -->
 
 ---
 
