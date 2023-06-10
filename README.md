@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create Video Programmatically](https://dev.to/shreyvijayvargiya/create-video-programmatically-3n2d)
 - [Dev.to/JS] [The Essential Role of JavaScript in Modern Frontend Development](https://dev.to/uzafar90/the-essential-role-of-javascript-in-modern-frontend-development-3m0)
 - [Dev.to/JS] [Post editadoy87878](https://dev.to/alepaezdev/post-3914)
 - [Dev.to/JS] [Easy React Infinite Scroll👌](https://dev.to/apestein/easy-react-infinite-scroll-367h)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build and Publish Your First React NPM Package](https://dev.to/femi_dev/how-to-build-and-publish-your-first-react-npm-package-24o3)
 - [Lifehacker] [Google Chrome&#39;s Password Manager Is Getting Better](https://lifehacker.com/google-chromes-password-manager-is-getting-better-1850523135)
 - [Lifehacker] [How to Find &lpar;and Close&rpar; Your Home&#39;s Fresh Air Intake](https://lifehacker.com/how-to-find-and-close-your-homes-fresh-air-intake-1850523329)
-- [Dev.to/JS] [How i make the projects section dinamic in my portfolio](https://dev.to/marcossnikel/how-i-make-the-projects-section-dinamic-in-my-portfolio-3ieo)
 - [Lifehacker] [The Easiest Way to Clean Your Dishes When You’re Camping](https://lifehacker.com/the-easiest-way-to-clean-your-dishes-when-you-re-campin-1850522778)
 - [Lifehacker] [You Can Lock Your iPhone From Your Apple Watch If Someone Snatches Your Phone](https://lifehacker.com/you-can-lock-your-iphone-from-your-apple-watch-if-someo-1850522141)
 - [Lifehacker] [How to Avoid Paying the ‘Electronic Carrier Charge’ &lpar;and Other Stupid Travel Fees&rpar;](https://lifehacker.com/how-to-avoid-paying-the-electronic-carrier-charge-an-1850521008)
