@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build your Capacitor iOS app bundle using GitHub Actions](https://dev.to/khromov/build-your-capacitor-ios-app-bundle-using-github-actions-mil)
+- [Dev.to/JS] [Learning React State and LifeCycle](https://dev.to/rabibsust/learning-react-state-and-lifecycle-1c0b)
+- [Dev.to/JS] [Integrating BudPay API with a Web Application: A Comprehensive Tutorial](https://dev.to/saint_vandora/integrating-budpay-api-with-a-web-application-a-comprehensive-tutorial-52ij)
+- [Dev.to/JS] [Securing BudPay Transactions: Encryption and Authentication Techniques](https://dev.to/saint_vandora/securing-budpay-transactions-encryption-and-authentication-techniques-2pg3)
 - [Dev.to/JS] [To-Do List](https://dev.to/gururaj-math/to-do-list-3cbp)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Learning Generative AI](https://dev.to/hr21don/a-beginners-guide-to-learning-generative-ai-a5a)
 - [Lifehacker] [These Are the Best Father&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-fathers-day-food-deals-and-freebies-1850523613)
@@ -32,12 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Classes in TypeScript: With Challenges](https://dev.to/bobbyhalljr/classes-in-typescript-with-challenges-35jh)
 - [Dev.to/JS] [Understanding Functions in TypeScript: With Challenges](https://dev.to/bobbyhalljr/understanding-functions-in-typescript-with-challenges-64k)
 - [Dev.to/JS] [TypeScript Decorators: A complete guide](https://dev.to/alakkadshaw/typescript-decorators-a-complete-guide-4jgg)
-- [Dev.to/JS] [keyof typeof Object](https://dev.to/lausuarez02/keyof-typeof-object-964)
-- [Dev.to/JS] [Popwola | Your no-code popup builder | Appwrite x Hashnode Hackathon](https://dev.to/niazmorshed2007/popwola-your-no-code-popup-builder-appwrite-x-hashnode-hackathon-3gfp)
 - [Lifehacker] [The Smartest Ways to De-escalate Conflicts at Work](https://lifehacker.com/the-smartest-ways-to-de-escalate-conflicts-at-work-1850523609)
-- [Dev.to/JS] [This is my first post](https://dev.to/abeerkhan/this-is-my-first-post-4327)
 - [Lifehacker] [The Best and Worst Places to Keep Your Luggage at Home](https://lifehacker.com/the-best-and-worst-places-to-keep-your-luggage-at-home-1850523598)
-- [Dev.to/JS] [Exploring the Buffet-Boilerplate Analogy](https://dev.to/girijashankar_j/exploring-the-buffet-boilerplate-analogy-1g89)
 - [Lifehacker] [Try &#39;Task Batching&#39; for a More Productive Week](https://lifehacker.com/try-task-batching-for-a-more-productive-week-1850523035)
 - [Lifehacker] [The Difference Between a Handyman and Contractor &lpar;and When to Use Each&rpar;](https://lifehacker.com/the-difference-between-a-handyman-and-contractor-and-w-1850523149)
 - [Lifehacker] [This &#39;Travel Hacker Bundle&#39; Includes Rosetta Stone, Dollar Flight Club, and RealVPN](https://lifehacker.com/this-travel-hacker-bundle-includes-rosetta-stone-dolla-1850509006)
