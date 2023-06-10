@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MJGS Newsletter - Apple’s Vision Pro, Crypto vs SEC &lpar;Issue #118&rpar;](https://dev.to/mjgs/this-weeks-newsletter-is-out-10-06-2023-apples-vision-pro-crypto-vs-sec-30hf)
 - [Dev.to/JS] [Part&lpar;4&rpar; : JavaScript Functions](https://dev.to/cliff123tech/part4-javascript-functions-41pc)
 - [Dev.to/JS] [Scraping GeeksforGeeks User Profiles with Node.js](https://dev.to/joeljaison394/scraping-geeksforgeeks-user-profiles-with-nodejs-16mk)
 - [Dev.to/JS] [Can obfuscated Javascript be restored to its original source code?](https://dev.to/w2sft/can-obfuscated-javascript-be-restored-to-its-original-source-code-48ek)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Try &#39;Task Batching&#39; for a More Productive Week](https://lifehacker.com/try-task-batching-for-a-more-productive-week-1850523035)
 - [Lifehacker] [The Difference Between a Handyman and Contractor &lpar;and When to Use Each&rpar;](https://lifehacker.com/the-difference-between-a-handyman-and-contractor-and-w-1850523149)
 - [Lifehacker] [This &#39;Travel Hacker Bundle&#39; Includes Rosetta Stone, Dollar Flight Club, and RealVPN](https://lifehacker.com/this-travel-hacker-bundle-includes-rosetta-stone-dolla-1850509006)
-- [Dev.to/JS] [HTML, CSS, and JavaScript Projects](https://dev.to/alisamirali/html-css-and-javascript-projects-55hf)
 - [Lifehacker] [The First Seven Things to Do When Your Child Comes Out to You](https://lifehacker.com/the-first-seven-things-to-do-when-your-child-comes-out-1850523634)
 - [Lifehacker] [Make a Cute Little Batch of Mini Tortilla Chips in Your Air Fryer](https://lifehacker.com/make-a-cute-little-batch-of-mini-tortilla-chips-in-your-1850523607)
 - [Lifehacker] [You Can Get a Lifetime 1TB Cloud Storage Account for 85% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-1tb-cloud-storage-account-for-85-1850509001)
