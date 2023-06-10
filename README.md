@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DevDuetAI improves its own code in this plugin for ChatGPT and for GitHub](https://dev.to/austincoleman/devduetai-improves-its-own-code-in-this-plugin-for-chatgpt-and-for-github-3m5a)
 - [Dev.to/JS] [MJGS Newsletter - Apple’s Vision Pro, Crypto vs SEC &lpar;Issue #118&rpar;](https://dev.to/mjgs/this-weeks-newsletter-is-out-10-06-2023-apples-vision-pro-crypto-vs-sec-30hf)
 - [Dev.to/JS] [Part&lpar;4&rpar; : JavaScript Functions](https://dev.to/cliff123tech/part4-javascript-functions-41pc)
 - [Dev.to/JS] [Scraping GeeksforGeeks User Profiles with Node.js](https://dev.to/joeljaison394/scraping-geeksforgeeks-user-profiles-with-nodejs-16mk)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Post editadoy87878](https://dev.to/alepaezdev/post-3914)
 - [Dev.to/JS] [Easy React Infinite Scroll👌](https://dev.to/apestein/easy-react-infinite-scroll-367h)
 - [Dev.to/JS] [What is mindsync©️?](https://dev.to/jufudev/what-is-mindsyncc-1fmo)
-- [Dev.to/JS] [Most Important javascript concept before starting Reactjs](https://dev.to/gaurbprajapati/most-important-javascript-concept-before-starting-reactjs-13je)
 - [Lifehacker] [Try &#39;Task Batching&#39; for a More Productive Week](https://lifehacker.com/try-task-batching-for-a-more-productive-week-1850523035)
 - [Lifehacker] [The Difference Between a Handyman and Contractor &lpar;and When to Use Each&rpar;](https://lifehacker.com/the-difference-between-a-handyman-and-contractor-and-w-1850523149)
 - [Lifehacker] [This &#39;Travel Hacker Bundle&#39; Includes Rosetta Stone, Dollar Flight Club, and RealVPN](https://lifehacker.com/this-travel-hacker-bundle-includes-rosetta-stone-dolla-1850509006)
