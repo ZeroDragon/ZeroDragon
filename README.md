@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Easy React Infinite Scroll👌](https://dev.to/apestein/easy-react-infinite-scroll-367h)
 - [Dev.to/JS] [What is mindsync©️?](https://dev.to/jufudev/what-is-mindsyncc-1fmo)
 - [Dev.to/JS] [Most Important javascript concept before starting Reactjs](https://dev.to/gaurbprajapati/most-important-javascript-concept-before-starting-reactjs-13je)
 - [Lifehacker] [Try &#39;Task Batching&#39; for a More Productive Week](https://lifehacker.com/try-task-batching-for-a-more-productive-week-1850523035)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🤖CMD+C🤖CMD+V? 🛑 Never More!](https://dev.to/borysshulyak/cmdccmdv-never-more-58lp)
 - [Lifehacker] [When You Ask AI to Write an Obituary](https://lifehacker.com/when-you-ask-ai-to-write-an-obituary-1850502065)
 - [Lifehacker] [The Secret to New York Deli-Style Cream Cheese Is Seltzer](https://lifehacker.com/the-secret-to-new-york-deli-style-cream-cheese-is-seltz-1850520367)
-- [Dev.to/JS] [El mundo es un caos &lpar;breve recordatorio&rpar;](https://dev.to/evesan/el-mundo-es-un-caos-breve-recordatorio-2mo7)
 - [Lifehacker] [Make Your Boring Job Work for You](https://lifehacker.com/make-your-bullshit-job-work-for-you-1850510043)
 - [Lifehacker] [This Cheap DIY Air Purifier Actually Works](https://lifehacker.com/this-cheap-diy-air-purifier-actually-works-1850520488)
 - [Lifehacker] [Eight Non-Trade Jobs That Pay Well Without a Degree](https://lifehacker.com/eight-non-trade-jobs-that-pay-well-without-a-degree-1850520797)
