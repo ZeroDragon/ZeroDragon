@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This is my first post](https://dev.to/abeerkhan/this-is-my-first-post-4327)
 - [Lifehacker] [The Best and Worst Places to Keep Your Luggage at Home](https://lifehacker.com/the-best-and-worst-places-to-keep-your-luggage-at-home-1850523598)
 - [Dev.to/JS] [Exploring the Buffet-Boilerplate Analogy](https://dev.to/girijashankar_j/exploring-the-buffet-boilerplate-analogy-1g89)
 - [Dev.to/JS] [Open Sourcer](https://dev.to/murtazajoo/open-sourcer-5a1a)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create a Custom useFetch Hook in React](https://dev.to/adetutu/how-to-create-a-custom-usefetch-hook-in-react-4p7)
 - [Dev.to/JS] [DevDuetAI improves its own code in this plugin for ChatGPT and for GitHub](https://dev.to/austincoleman/devduetai-improves-its-own-code-in-this-plugin-for-chatgpt-and-for-github-3m5a)
 - [Dev.to/JS] [MJGS Newsletter - Apple’s Vision Pro, Crypto vs SEC &lpar;Issue #118&rpar;](https://dev.to/mjgs/this-weeks-newsletter-is-out-10-06-2023-apples-vision-pro-crypto-vs-sec-30hf)
-- [Dev.to/JS] [Part&lpar;4&rpar; : JavaScript Functions](https://dev.to/cliff123tech/part4-javascript-functions-41pc)
 - [Lifehacker] [Try &#39;Task Batching&#39; for a More Productive Week](https://lifehacker.com/try-task-batching-for-a-more-productive-week-1850523035)
 - [Lifehacker] [The Difference Between a Handyman and Contractor &lpar;and When to Use Each&rpar;](https://lifehacker.com/the-difference-between-a-handyman-and-contractor-and-w-1850523149)
 - [Lifehacker] [This &#39;Travel Hacker Bundle&#39; Includes Rosetta Stone, Dollar Flight Club, and RealVPN](https://lifehacker.com/this-travel-hacker-bundle-includes-rosetta-stone-dolla-1850509006)
