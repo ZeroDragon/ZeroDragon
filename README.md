@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [One-Time-Code with a Single Input](https://dev.to/madsstoumann/one-time-code-with-a-single-input-51o0)
+- [Dev.to/JS] [Understanding Variables in JavaScript: let, const, and var](https://dev.to/sakilk130/understanding-variables-in-javascript-let-const-and-var-4aa)
+- [Dev.to/JS] [Postman API Testing Tool Introduction](https://dev.to/sardarmudassaralikhan/postman-api-testing-tool-introduction-1km6)
+- [Dev.to/JS] [Web Workers to the Rescue – How to Work with JSON Strings without Blocking User Interactions](https://dev.to/marabesi/web-workers-to-the-rescue-how-to-work-with-json-strings-without-blocking-user-interactions-2jf2)
 - [Dev.to/JS] [Build your Capacitor iOS app bundle using GitHub Actions](https://dev.to/khromov/build-your-capacitor-ios-app-bundle-using-github-actions-mil)
 - [Dev.to/JS] [Learning React State and LifeCycle](https://dev.to/rabibsust/learning-react-state-and-lifecycle-1c0b)
 - [Dev.to/JS] [Integrating BudPay API with a Web Application: A Comprehensive Tutorial](https://dev.to/saint_vandora/integrating-budpay-api-with-a-web-application-a-comprehensive-tutorial-52ij)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Father&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-fathers-day-food-deals-and-freebies-1850523613)
 - [Dev.to/JS] [How to Upload Files to AWS S3 in React](https://dev.to/mohammadfaisal/how-to-upload-files-to-aws-s3-in-react-3m9p)
 - [Dev.to/JS] [react.children.only expected to receive single react element child](https://dev.to/reactjsguru/reactchildrenonly-expected-to-receive-single-react-element-child-4amd)
-- [Dev.to/JS] [How to Clear Textbox in React JS](https://dev.to/reactjsguru/how-to-clear-textbox-in-react-js-d5a)
-- [Dev.to/JS] [Classes in TypeScript: With Challenges](https://dev.to/bobbyhalljr/classes-in-typescript-with-challenges-35jh)
-- [Dev.to/JS] [Understanding Functions in TypeScript: With Challenges](https://dev.to/bobbyhalljr/understanding-functions-in-typescript-with-challenges-64k)
-- [Dev.to/JS] [TypeScript Decorators: A complete guide](https://dev.to/alakkadshaw/typescript-decorators-a-complete-guide-4jgg)
 - [Lifehacker] [The Smartest Ways to De-escalate Conflicts at Work](https://lifehacker.com/the-smartest-ways-to-de-escalate-conflicts-at-work-1850523609)
 - [Lifehacker] [The Best and Worst Places to Keep Your Luggage at Home](https://lifehacker.com/the-best-and-worst-places-to-keep-your-luggage-at-home-1850523598)
 - [Lifehacker] [Try &#39;Task Batching&#39; for a More Productive Week](https://lifehacker.com/try-task-batching-for-a-more-productive-week-1850523035)
