@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [To-Do List](https://dev.to/gururaj-math/to-do-list-3cbp)
+- [Dev.to/JS] [A Beginner&#39;s Guide to Learning Generative AI](https://dev.to/hr21don/a-beginners-guide-to-learning-generative-ai-a5a)
 - [Lifehacker] [These Are the Best Father&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-fathers-day-food-deals-and-freebies-1850523613)
 - [Dev.to/JS] [How to Upload Files to AWS S3 in React](https://dev.to/mohammadfaisal/how-to-upload-files-to-aws-s3-in-react-3m9p)
 - [Dev.to/JS] [react.children.only expected to receive single react element child](https://dev.to/reactjsguru/reactchildrenonly-expected-to-receive-single-react-element-child-4amd)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This is my first post](https://dev.to/abeerkhan/this-is-my-first-post-4327)
 - [Lifehacker] [The Best and Worst Places to Keep Your Luggage at Home](https://lifehacker.com/the-best-and-worst-places-to-keep-your-luggage-at-home-1850523598)
 - [Dev.to/JS] [Exploring the Buffet-Boilerplate Analogy](https://dev.to/girijashankar_j/exploring-the-buffet-boilerplate-analogy-1g89)
-- [Dev.to/JS] [Open Sourcer](https://dev.to/murtazajoo/open-sourcer-5a1a)
-- [Dev.to/JS] [Getting Started with React: Unleashing the Power of Web Development](https://dev.to/keenangee/getting-started-with-react-unleashing-the-power-of-web-development-2ogp)
 - [Lifehacker] [Try &#39;Task Batching&#39; for a More Productive Week](https://lifehacker.com/try-task-batching-for-a-more-productive-week-1850523035)
 - [Lifehacker] [The Difference Between a Handyman and Contractor &lpar;and When to Use Each&rpar;](https://lifehacker.com/the-difference-between-a-handyman-and-contractor-and-w-1850523149)
 - [Lifehacker] [This &#39;Travel Hacker Bundle&#39; Includes Rosetta Stone, Dollar Flight Club, and RealVPN](https://lifehacker.com/this-travel-hacker-bundle-includes-rosetta-stone-dolla-1850509006)
