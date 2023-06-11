@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to customize the viewport in the Storybook](https://dev.to/sanchithasr/how-to-customize-the-viewport-in-the-storybook-4ojb)
+- [Dev.to/JS] [Introducing React Server Model &lpar;RSM&rpar; - The Design Philosophy](https://dev.to/jason89521/introducing-react-server-model-rsm-the-design-philosophy-18o3)
+- [Dev.to/JS] [How to test your app using Docker Containers and Postman](https://dev.to/francescoxx/how-to-test-your-app-using-docker-containers-and-postman-3j04)
+- [Dev.to/JS] [Download HTML as a PDF in React](https://dev.to/mohammadfaisal/download-html-as-a-pdf-in-react-4g7a)
 - [Dev.to/JS] [Best way to Swapping in JavaScript](https://dev.to/muhmmadawd/best-way-to-swapping-in-javascript-ia3)
 - [Dev.to/JS] [JavaScript: Best way to remove duplicates in JS Array](https://dev.to/kristiyan_velkov/javascript-best-way-to-find-duplicates-in-js-array-and-remove-them-3me)
 - [Dev.to/JS] [Learn Basic Error Handling on Javascrpt : Try-Catch and Async/Await](https://dev.to/koshirok096/learn-basic-error-handling-on-javascrpt-try-catch-and-asyncawait-24h8)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ex5 : Track projects &amp; Fix PR](https://dev.to/eliyahou/ex5-track-projects-3lnh)
 - [Dev.to/JS] [Get Your Spotify refresh token easily.....](https://dev.to/mannu/get-your-spotify-refresh-token-easily-9ci)
 - [Dev.to/JS] [Whether a product is good or not, the first thing to look at is its UI.](https://dev.to/w2sft/whether-a-product-is-good-or-not-the-first-thing-to-look-at-is-its-ui-15d1)
-- [Dev.to/JS] [Flutter: The Game-Changing Framework Surpassing React Native](https://dev.to/legendsumeet/flutter-the-game-changing-framework-surpassing-react-native-4f31)
-- [Dev.to/JS] [Building Web Applications We Can Trust - The Imperative of SRE](https://dev.to/blove/building-web-applications-we-can-trust-the-imperative-of-sre-3ohk)
-- [Dev.to/JS] [La locura de los Callbacks en javascript [JS]](https://dev.to/bryanherreradev/la-locura-de-los-callbacks-en-javascript-js-3ckb)
-- [Dev.to/JS] [All 20 JavaScript concept you&#39;ll ever need](https://dev.to/johnrushx/all-20-javascript-concept-youll-ever-need-2i2o)
 - [Lifehacker] [These Are the Best Father&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-fathers-day-food-deals-and-freebies-1850523613)
 - [Lifehacker] [The Smartest Ways to De-escalate Conflicts at Work](https://lifehacker.com/the-smartest-ways-to-de-escalate-conflicts-at-work-1850523609)
 - [Lifehacker] [The Best and Worst Places to Keep Your Luggage at Home](https://lifehacker.com/the-best-and-worst-places-to-keep-your-luggage-at-home-1850523598)
