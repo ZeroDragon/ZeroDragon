@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Guide: Map, Reduce, Filter and forEach Methods](https://dev.to/burakboduroglu/js-guide-map-reduce-filter-and-foreach-methods-5fmi)
+- [Dev.to/JS] [Ex5 : Track projects](https://dev.to/eliyahou/ex5-track-projects-3lnh)
+- [Dev.to/JS] [Get Your Spotify refresh token easily.....](https://dev.to/mannu/get-your-spotify-refresh-token-easily-9ci)
 - [Dev.to/JS] [Whether a product is good or not, the first thing to look at is its UI.](https://dev.to/w2sft/whether-a-product-is-good-or-not-the-first-thing-to-look-at-is-its-ui-15d1)
 - [Dev.to/JS] [Flutter: The Game-Changing Framework Surpassing React Native](https://dev.to/legendsumeet/flutter-the-game-changing-framework-surpassing-react-native-4f31)
 - [Dev.to/JS] [Building Web Applications We Can Trust - The Imperative of SRE](https://dev.to/blove/building-web-applications-we-can-trust-the-imperative-of-sre-3ohk)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using browser Speech Synthesis capabilities &lpar;on an Angular App&rpar;](https://dev.to/vitorstick/using-browser-speech-synthesis-capabilities-on-an-angular-app-4pdk)
 - [Dev.to/JS] [Interesting JavaScript Features from a Ruby Perspective](https://dev.to/samuelodan/interesting-javascript-features-from-a-ruby-perspective-k2e)
 - [Dev.to/JS] [Forget Shopify Why MedusaJS Is the Future of Headless Ecommerce](https://dev.to/turneremma21/forget-shopify-why-medusajs-is-the-future-of-headless-ecommerce-ecd)
-- [Dev.to/JS] [API Testing in Software Development](https://dev.to/sardarmudassaralikhan/api-testing-in-software-development-4c30)
-- [Dev.to/JS] [Understanding Variables in JavaScript: let, const, and var](https://dev.to/sakilk130/understanding-variables-in-javascript-let-const-and-var-4aa)
-- [Dev.to/JS] [Postman API Testing Tool Introduction](https://dev.to/sardarmudassaralikhan/postman-api-testing-tool-introduction-1km6)
 - [Lifehacker] [These Are the Best Father&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-fathers-day-food-deals-and-freebies-1850523613)
 - [Lifehacker] [The Smartest Ways to De-escalate Conflicts at Work](https://lifehacker.com/the-smartest-ways-to-de-escalate-conflicts-at-work-1850523609)
 - [Lifehacker] [The Best and Worst Places to Keep Your Luggage at Home](https://lifehacker.com/the-best-and-worst-places-to-keep-your-luggage-at-home-1850523598)
