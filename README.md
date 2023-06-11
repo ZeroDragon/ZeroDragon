@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Important Considerations for Designing a Schema in MongoDB](https://dev.to/dominicazuka/important-considerations-for-designing-a-schema-in-mongodb-gna)
+- [Dev.to/JS] [Cypress Workshop Part 8: Elements manipulation - Tooltips, Alerts, Frames](https://dev.to/viktorijafilipov/cypress-workshop-part-8-elements-manipulation-tooltips-alerts-frames-2hai)
+- [Dev.to/JS] [Add Typing Animation Effect using JavaScript - Enhancing Your Website ❤](https://dev.to/sh20raj/add-typing-animation-effect-using-javascript-enhancing-your-website-jb3)
+- [Dev.to/JS] [Implement LRU Cache](https://dev.to/_alkesh26/implement-lru-cache-7o2)
+- [Dev.to/JS] [On-demand revalidation ⚡️](https://dev.to/rookiecoder/on-demand-revalidation-1b1e)
+- [Dev.to/JS] [5+ Effective Ways to Copy Text in JavaScript: From execCommand to Clipboard API](https://dev.to/sh20raj/5-effective-ways-to-copy-text-in-javascript-from-execcommand-to-clipboard-api-5d59)
 - [Lifehacker] [What to Put in Your Survival Kit, According to Bear Grylls](https://lifehacker.com/what-to-put-in-your-survival-kit-according-to-bear-gry-1850523514)
 - [Dev.to/JS] [বিকাশ পেমেন্ট গেটওয়ে ইন্টিগ্রেশন: Node.js এবং Express.js ব্যবহার করে সহজেই ইকমার্সের SSLCommerz সাথে সংযোগ স্থাপন করুন](https://dev.to/siam786/bikaash-pementt-gettoye-inttigreshn-nodejs-ebn-expressjs-bybhaar-kre-shjei-ikmaarser-sslcommerz-saathe-snyog-sthaapn-krun-aio)
 - [Dev.to/JS] [Unlocking the Power of Promises.](https://dev.to/ibrahimbagalwa/unlocking-the-power-of-promises-5919)
@@ -30,12 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Explain Dynamic Programming and Other Techniques with Examples](https://dev.to/aradwan20/explain-dynamic-programming-and-other-techniques-with-examples-505p)
 - [Dev.to/JS] [The Secret to High-Performance React Applications !](https://dev.to/attull/the-secret-to-high-performance-react-applications--1i52)
 - [Dev.to/JS] [How to customize the viewport in the Storybook](https://dev.to/sanchithasr/how-to-customize-the-viewport-in-the-storybook-4ojb)
-- [Dev.to/JS] [Introducing React Server Model &lpar;RSM&rpar; - The Design Philosophy](https://dev.to/jason89521/introducing-react-server-model-rsm-the-design-philosophy-18o3)
-- [Dev.to/JS] [How to test your app using Docker Containers and Postman](https://dev.to/francescoxx/how-to-test-your-app-using-docker-containers-and-postman-3j04)
-- [Dev.to/JS] [Download HTML as a PDF in React](https://dev.to/mohammadfaisal/download-html-as-a-pdf-in-react-4g7a)
-- [Dev.to/JS] [Best way to Swapping in JavaScript](https://dev.to/muhmmadawd/best-way-to-swapping-in-javascript-ia3)
-- [Dev.to/JS] [JavaScript: Best way to remove duplicates in JS Array](https://dev.to/kristiyan_velkov/javascript-best-way-to-find-duplicates-in-js-array-and-remove-them-3me)
-- [Dev.to/JS] [Learn Basic Error Handling on Javascrpt : Try-Catch and Async/Await](https://dev.to/koshirok096/learn-basic-error-handling-on-javascrpt-try-catch-and-asyncawait-24h8)
 - [Lifehacker] [These Are the Best Father&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-fathers-day-food-deals-and-freebies-1850523613)
 - [Lifehacker] [The Smartest Ways to De-escalate Conflicts at Work](https://lifehacker.com/the-smartest-ways-to-de-escalate-conflicts-at-work-1850523609)
 - [Lifehacker] [The Best and Worst Places to Keep Your Luggage at Home](https://lifehacker.com/the-best-and-worst-places-to-keep-your-luggage-at-home-1850523598)
