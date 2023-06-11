@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NextJS 13 Hero Component – How to Use Next/Image for Cover](https://dev.to/chrishart0/nextjs-13-hero-component-how-to-use-nextimage-for-cover-2m9j)
+- [Dev.to/JS] [Forming Forms in Vanilla JS](https://dev.to/gitshanleycaswell/forming-forms-in-vanilla-js-5ob)
 - [Dev.to/JS] [You&#39;re using &amp;&amp; and || incorrectly](https://dev.to/keerthanak17/youre-using-and-incorrectly-5d5f)
 - [Dev.to/JS] [How to make Sidebar with multiple Pages? Using HTML, CSS and Javascript](https://dev.to/manoarya/how-to-make-sidebar-with-multiple-pages-using-html-css-and-javascript-3k40)
 - [Dev.to/JS] [Build a Simple Shopping List App with JavaScript](https://dev.to/obere4u/build-a-simple-shopping-list-app-with-javascript-38ln)
 - [Dev.to/JS] [Harnessing the Power of &#39;While&#39; Loops: Flexible and Controlled Iteration in JavaScript.](https://dev.to/lestariningratna/harnessing-the-power-of-while-loops-flexible-and-controlled-iteration-in-javascript-3gam)
+- [Lifehacker] [The Best Plants to Use as &#39;Green Mulch&#39;](https://lifehacker.com/the-best-plants-to-use-as-green-mulch-1850523468)
 - [Dev.to/JS] [JavaScript Unit Test Debugging with VSCode](https://dev.to/scofieldidehen/javascript-unit-test-debugging-with-vscode-1g2o)
 - [Dev.to/JS] [Manipuler les tableaux en Javascript](https://dev.to/kureru/manipuler-les-tableaux-en-javascript-20nb)
 - [Dev.to/JS] [Node js file system, Easier than you think&lpar;1&rpar;.](https://dev.to/abdullahmubin/node-js-file-system-easier-than-you-think1-5ck7)
 - [Dev.to/JS] [Important Considerations for Designing a Schema in MongoDB](https://dev.to/dominicazuka/important-considerations-for-designing-a-schema-in-mongodb-gna)
 - [Dev.to/JS] [Cypress Workshop Part 8: Elements manipulation - Tooltips, Alerts, Frames](https://dev.to/viktorijafilipov/cypress-workshop-part-8-elements-manipulation-tooltips-alerts-frames-2hai)
 - [Dev.to/JS] [Add Typing Animation Effect using JavaScript - Enhancing Your Website ❤](https://dev.to/sh20raj/add-typing-animation-effect-using-javascript-enhancing-your-website-jb3)
-- [Dev.to/JS] [Implement LRU Cache](https://dev.to/_alkesh26/implement-lru-cache-7o2)
-- [Dev.to/JS] [On-demand revalidation ⚡️](https://dev.to/rookiecoder/on-demand-revalidation-1b1e)
 - [Lifehacker] [What to Put in Your Survival Kit, According to Bear Grylls](https://lifehacker.com/what-to-put-in-your-survival-kit-according-to-bear-gry-1850523514)
 - [Lifehacker] [These Are the Best Father&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-fathers-day-food-deals-and-freebies-1850523613)
 - [Lifehacker] [The Smartest Ways to De-escalate Conflicts at Work](https://lifehacker.com/the-smartest-ways-to-de-escalate-conflicts-at-work-1850523609)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Actually Get That Smoky Smell Out of Your House &lpar;and What Won’t Work&rpar;](https://lifehacker.com/how-to-actually-get-that-smoky-smell-out-of-your-house-1850520711)
 - [Lifehacker] [When Will the Wildfire Smoke Go Away?](https://lifehacker.com/when-will-the-wildfire-smoke-go-away-1850520583)
 - [Lifehacker] [This Refurbished iPad Mini Bundle Is Under $100](https://lifehacker.com/this-refurbished-ipad-mini-bundle-is-under-100-1850509000)
-- [Lifehacker] [You Can Finally Send High Quality Photos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)
-- [Lifehacker] [Why You Shouldn’t Buy the New 15-Inch MacBook Air](https://lifehacker.com/why-you-shouldn-t-buy-the-new-15-inch-macbook-air-1850518951)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Finally Send High Quality Photos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)<!-- TECH-POSTS:END -->
 
 ---
 
