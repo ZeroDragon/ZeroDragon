@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🦕 How to build a simple back end PoC with user notification using Novu, Amplication, and Discord?](https://dev.to/hunghvu/how-to-build-a-simple-back-end-poc-with-user-notification-using-novu-amplication-and-discord-4h14)
 - [Dev.to/JS] [Using UUID in AdonisJS v5](https://dev.to/devoresyah/using-uuid-in-adonisjs-v5-572c)
 - [Dev.to/JS] [Set the value of datetime-local input field from an Date object](https://dev.to/kevinluo201/set-value-of-datetime-local-input-field-3435)
 - [Dev.to/JS] [Testing React components a series](https://dev.to/lausuarez02/testing-react-components-a-series-4052)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Harnessing the Power of &#39;While&#39; Loops: Flexible and Controlled Iteration in JavaScript.](https://dev.to/lestariningratna/harnessing-the-power-of-while-loops-flexible-and-controlled-iteration-in-javascript-3gam)
 - [Lifehacker] [The Best Plants to Use as &#39;Green Mulch&#39;](https://lifehacker.com/the-best-plants-to-use-as-green-mulch-1850523468)
 - [Dev.to/JS] [JavaScript Unit Test Debugging with VSCode](https://dev.to/scofieldidehen/javascript-unit-test-debugging-with-vscode-1g2o)
-- [Dev.to/JS] [Manipuler les tableaux en Javascript](https://dev.to/kureru/manipuler-les-tableaux-en-javascript-20nb)
 - [Lifehacker] [What to Put in Your Survival Kit, According to Bear Grylls](https://lifehacker.com/what-to-put-in-your-survival-kit-according-to-bear-gry-1850523514)
 - [Lifehacker] [These Are the Best Father&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-fathers-day-food-deals-and-freebies-1850523613)
 - [Lifehacker] [The Smartest Ways to De-escalate Conflicts at Work](https://lifehacker.com/the-smartest-ways-to-de-escalate-conflicts-at-work-1850523609)
