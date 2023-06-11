@@ -23,19 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React States &amp; Virtual DOM](https://dev.to/cyborglaksh/react-states-virtual-dom-28j1)
+- [Dev.to/JS] [Build Currency Converter CLI App - Node + Frankfurter](https://dev.to/bekbrace/building-a-currency-converter-cli-app-a-step-by-step-guide-3hko)
+- [Dev.to/JS] [O QUE É ANGULAR](https://dev.to/danielcamucatto/o-que-e-angular-2agd)
+- [Dev.to/JS] [Open to work a JavaScript Developer](https://dev.to/abdurahmonqobiljonov/open-to-work-a-javascript-developer-13cj)
 - [Dev.to/JS] [🦕 How to build a simple back end PoC with user notification using Novu, Amplication, and Discord?](https://dev.to/hunghvu/how-to-build-a-simple-back-end-poc-with-user-notification-using-novu-amplication-and-discord-4h14)
 - [Dev.to/JS] [Using UUID in AdonisJS v5](https://dev.to/devoresyah/using-uuid-in-adonisjs-v5-572c)
 - [Dev.to/JS] [Set the value of datetime-local input field from an Date object](https://dev.to/kevinluo201/set-value-of-datetime-local-input-field-3435)
 - [Dev.to/JS] [Testing React components a series](https://dev.to/lausuarez02/testing-react-components-a-series-4052)
 - [Dev.to/JS] [Hey - want to learn to code the Canvas?](https://dev.to/zimlearn/hey-want-to-learn-to-code-the-canvas-162o)
+- [Lifehacker] [The Difference Between 2- and 3-Prong Electrical Plugs &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-2-and-3-prong-electrical-plugs-1850523488)
 - [Dev.to/JS] [NextJS 13 Hero Component – How to Use Next/Image for Cover](https://dev.to/chrishart0/nextjs-13-hero-component-how-to-use-nextimage-for-cover-2m9j)
 - [Dev.to/JS] [Forming Forms in Vanilla JS](https://dev.to/gitshanleycaswell/forming-forms-in-vanilla-js-5ob)
 - [Dev.to/JS] [You&#39;re using &amp;&amp; and || incorrectly](https://dev.to/keerthanak17/youre-using-and-incorrectly-5d5f)
-- [Dev.to/JS] [How to make Sidebar with multiple Pages? Using HTML, CSS and Javascript](https://dev.to/manoarya/how-to-make-sidebar-with-multiple-pages-using-html-css-and-javascript-3k40)
-- [Dev.to/JS] [Build a Simple Shopping List App with JavaScript](https://dev.to/obere4u/build-a-simple-shopping-list-app-with-javascript-38ln)
-- [Dev.to/JS] [Harnessing the Power of &#39;While&#39; Loops: Flexible and Controlled Iteration in JavaScript.](https://dev.to/lestariningratna/harnessing-the-power-of-while-loops-flexible-and-controlled-iteration-in-javascript-3gam)
 - [Lifehacker] [The Best Plants to Use as &#39;Green Mulch&#39;](https://lifehacker.com/the-best-plants-to-use-as-green-mulch-1850523468)
-- [Dev.to/JS] [JavaScript Unit Test Debugging with VSCode](https://dev.to/scofieldidehen/javascript-unit-test-debugging-with-vscode-1g2o)
 - [Lifehacker] [What to Put in Your Survival Kit, According to Bear Grylls](https://lifehacker.com/what-to-put-in-your-survival-kit-according-to-bear-gry-1850523514)
 - [Lifehacker] [These Are the Best Father&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-fathers-day-food-deals-and-freebies-1850523613)
 - [Lifehacker] [The Smartest Ways to De-escalate Conflicts at Work](https://lifehacker.com/the-smartest-ways-to-de-escalate-conflicts-at-work-1850523609)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Eight Non-Trade Jobs That Pay Well Without a Degree](https://lifehacker.com/eight-non-trade-jobs-that-pay-well-without-a-degree-1850520797)
 - [Lifehacker] [How to Actually Get That Smoky Smell Out of Your House &lpar;and What Won’t Work&rpar;](https://lifehacker.com/how-to-actually-get-that-smoky-smell-out-of-your-house-1850520711)
 - [Lifehacker] [When Will the Wildfire Smoke Go Away?](https://lifehacker.com/when-will-the-wildfire-smoke-go-away-1850520583)
-- [Lifehacker] [This Refurbished iPad Mini Bundle Is Under $100](https://lifehacker.com/this-refurbished-ipad-mini-bundle-is-under-100-1850509000)
-- [Lifehacker] [You Can Finally Send High Quality Photos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Refurbished iPad Mini Bundle Is Under $100](https://lifehacker.com/this-refurbished-ipad-mini-bundle-is-under-100-1850509000)<!-- TECH-POSTS:END -->
 
 ---
 
