@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best way to Swapping in JavaScript](https://dev.to/muhmmadawd/best-way-to-swapping-in-javascript-ia3)
+- [Dev.to/JS] [JavaScript: Best way to remove duplicates in JS Array](https://dev.to/kristiyan_velkov/javascript-best-way-to-find-duplicates-in-js-array-and-remove-them-3me)
+- [Dev.to/JS] [Learn Basic Error Handling on Javascrpt : Try-Catch and Async/Await](https://dev.to/koshirok096/learn-basic-error-handling-on-javascrpt-try-catch-and-asyncawait-24h8)
+- [Dev.to/JS] [Best practices I wish we knew, when introducing Stripe webhooks](https://dev.to/getstigg/best-practices-i-wish-we-knew-when-introducing-stripe-webhooks-592p)
 - [Dev.to/JS] [JS Guide: Map, Reduce, Filter and forEach Methods](https://dev.to/burakboduroglu/js-guide-map-reduce-filter-and-foreach-methods-5fmi)
-- [Dev.to/JS] [Ex5 : Track projects](https://dev.to/eliyahou/ex5-track-projects-3lnh)
+- [Dev.to/JS] [Ex5 : Track projects &amp; Fix PR](https://dev.to/eliyahou/ex5-track-projects-3lnh)
 - [Dev.to/JS] [Get Your Spotify refresh token easily.....](https://dev.to/mannu/get-your-spotify-refresh-token-easily-9ci)
 - [Dev.to/JS] [Whether a product is good or not, the first thing to look at is its UI.](https://dev.to/w2sft/whether-a-product-is-good-or-not-the-first-thing-to-look-at-is-its-ui-15d1)
 - [Dev.to/JS] [Flutter: The Game-Changing Framework Surpassing React Native](https://dev.to/legendsumeet/flutter-the-game-changing-framework-surpassing-react-native-4f31)
 - [Dev.to/JS] [Building Web Applications We Can Trust - The Imperative of SRE](https://dev.to/blove/building-web-applications-we-can-trust-the-imperative-of-sre-3ohk)
 - [Dev.to/JS] [La locura de los Callbacks en javascript [JS]](https://dev.to/bryanherreradev/la-locura-de-los-callbacks-en-javascript-js-3ckb)
 - [Dev.to/JS] [All 20 JavaScript concept you&#39;ll ever need](https://dev.to/johnrushx/all-20-javascript-concept-youll-ever-need-2i2o)
-- [Dev.to/JS] [JavaScript refactoring best practices.](https://dev.to/kelechikizito/javascript-refactoring-best-practices-1lld)
-- [Dev.to/JS] [Using browser Speech Synthesis capabilities &lpar;on an Angular App&rpar;](https://dev.to/vitorstick/using-browser-speech-synthesis-capabilities-on-an-angular-app-4pdk)
-- [Dev.to/JS] [Interesting JavaScript Features from a Ruby Perspective](https://dev.to/samuelodan/interesting-javascript-features-from-a-ruby-perspective-k2e)
-- [Dev.to/JS] [Forget Shopify Why MedusaJS Is the Future of Headless Ecommerce](https://dev.to/turneremma21/forget-shopify-why-medusajs-is-the-future-of-headless-ecommerce-ecd)
 - [Lifehacker] [These Are the Best Father&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-fathers-day-food-deals-and-freebies-1850523613)
 - [Lifehacker] [The Smartest Ways to De-escalate Conflicts at Work](https://lifehacker.com/the-smartest-ways-to-de-escalate-conflicts-at-work-1850523609)
 - [Lifehacker] [The Best and Worst Places to Keep Your Luggage at Home](https://lifehacker.com/the-best-and-worst-places-to-keep-your-luggage-at-home-1850523598)
