@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [You&#39;re using &amp;&amp; and || incorrectly](https://dev.to/keerthanak17/youre-using-and-incorrectly-5d5f)
+- [Dev.to/JS] [How to make Sidebar with multiple Pages? Using HTML, CSS and Javascript](https://dev.to/manoarya/how-to-make-sidebar-with-multiple-pages-using-html-css-and-javascript-3k40)
+- [Dev.to/JS] [Build a Simple Shopping List App with JavaScript](https://dev.to/obere4u/build-a-simple-shopping-list-app-with-javascript-38ln)
+- [Dev.to/JS] [Harnessing the Power of &#39;While&#39; Loops: Flexible and Controlled Iteration in JavaScript.](https://dev.to/lestariningratna/harnessing-the-power-of-while-loops-flexible-and-controlled-iteration-in-javascript-3gam)
 - [Dev.to/JS] [JavaScript Unit Test Debugging with VSCode](https://dev.to/scofieldidehen/javascript-unit-test-debugging-with-vscode-1g2o)
 - [Dev.to/JS] [Manipuler les tableaux en Javascript](https://dev.to/kureru/manipuler-les-tableaux-en-javascript-20nb)
 - [Dev.to/JS] [Node js file system, Easier than you think&lpar;1&rpar;.](https://dev.to/abdullahmubin/node-js-file-system-easier-than-you-think1-5ck7)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add Typing Animation Effect using JavaScript - Enhancing Your Website ❤](https://dev.to/sh20raj/add-typing-animation-effect-using-javascript-enhancing-your-website-jb3)
 - [Dev.to/JS] [Implement LRU Cache](https://dev.to/_alkesh26/implement-lru-cache-7o2)
 - [Dev.to/JS] [On-demand revalidation ⚡️](https://dev.to/rookiecoder/on-demand-revalidation-1b1e)
-- [Dev.to/JS] [5+ Effective Ways to Copy Text in JavaScript: From execCommand to Clipboard API](https://dev.to/sh20raj/5-effective-ways-to-copy-text-in-javascript-from-execcommand-to-clipboard-api-5d59)
 - [Lifehacker] [What to Put in Your Survival Kit, According to Bear Grylls](https://lifehacker.com/what-to-put-in-your-survival-kit-according-to-bear-gry-1850523514)
-- [Dev.to/JS] [বিকাশ পেমেন্ট গেটওয়ে ইন্টিগ্রেশন: Node.js এবং Express.js ব্যবহার করে সহজেই ইকমার্সের SSLCommerz সাথে সংযোগ স্থাপন করুন](https://dev.to/siam786/bikaash-pementt-gettoye-inttigreshn-nodejs-ebn-expressjs-bybhaar-kre-shjei-ikmaarser-sslcommerz-saathe-snyog-sthaapn-krun-aio)
-- [Dev.to/JS] [Unlocking the Power of Promises.](https://dev.to/ibrahimbagalwa/unlocking-the-power-of-promises-5919)
-- [Dev.to/JS] [Advanced Next.js challenges](https://dev.to/christofkarisch/advanced-nextjs-challenges-4dh5)
 - [Lifehacker] [These Are the Best Father&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-fathers-day-food-deals-and-freebies-1850523613)
 - [Lifehacker] [The Smartest Ways to De-escalate Conflicts at Work](https://lifehacker.com/the-smartest-ways-to-de-escalate-conflicts-at-work-1850523609)
 - [Lifehacker] [The Best and Worst Places to Keep Your Luggage at Home](https://lifehacker.com/the-best-and-worst-places-to-keep-your-luggage-at-home-1850523598)
