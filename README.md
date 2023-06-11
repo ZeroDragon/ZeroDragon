@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using UUID in AdonisJS v5](https://dev.to/devoresyah/using-uuid-in-adonisjs-v5-572c)
+- [Dev.to/JS] [Set the value of datetime-local input field from an Date object](https://dev.to/kevinluo201/set-value-of-datetime-local-input-field-3435)
+- [Dev.to/JS] [Testing React components a series](https://dev.to/lausuarez02/testing-react-components-a-series-4052)
+- [Dev.to/JS] [Hey - want to learn to code the Canvas?](https://dev.to/zimlearn/hey-want-to-learn-to-code-the-canvas-162o)
 - [Dev.to/JS] [NextJS 13 Hero Component – How to Use Next/Image for Cover](https://dev.to/chrishart0/nextjs-13-hero-component-how-to-use-nextimage-for-cover-2m9j)
 - [Dev.to/JS] [Forming Forms in Vanilla JS](https://dev.to/gitshanleycaswell/forming-forms-in-vanilla-js-5ob)
 - [Dev.to/JS] [You&#39;re using &amp;&amp; and || incorrectly](https://dev.to/keerthanak17/youre-using-and-incorrectly-5d5f)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Plants to Use as &#39;Green Mulch&#39;](https://lifehacker.com/the-best-plants-to-use-as-green-mulch-1850523468)
 - [Dev.to/JS] [JavaScript Unit Test Debugging with VSCode](https://dev.to/scofieldidehen/javascript-unit-test-debugging-with-vscode-1g2o)
 - [Dev.to/JS] [Manipuler les tableaux en Javascript](https://dev.to/kureru/manipuler-les-tableaux-en-javascript-20nb)
-- [Dev.to/JS] [Node js file system, Easier than you think&lpar;1&rpar;.](https://dev.to/abdullahmubin/node-js-file-system-easier-than-you-think1-5ck7)
-- [Dev.to/JS] [Important Considerations for Designing a Schema in MongoDB](https://dev.to/dominicazuka/important-considerations-for-designing-a-schema-in-mongodb-gna)
-- [Dev.to/JS] [Cypress Workshop Part 8: Elements manipulation - Tooltips, Alerts, Frames](https://dev.to/viktorijafilipov/cypress-workshop-part-8-elements-manipulation-tooltips-alerts-frames-2hai)
-- [Dev.to/JS] [Add Typing Animation Effect using JavaScript - Enhancing Your Website ❤](https://dev.to/sh20raj/add-typing-animation-effect-using-javascript-enhancing-your-website-jb3)
 - [Lifehacker] [What to Put in Your Survival Kit, According to Bear Grylls](https://lifehacker.com/what-to-put-in-your-survival-kit-according-to-bear-gry-1850523514)
 - [Lifehacker] [These Are the Best Father&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-fathers-day-food-deals-and-freebies-1850523613)
 - [Lifehacker] [The Smartest Ways to De-escalate Conflicts at Work](https://lifehacker.com/the-smartest-ways-to-de-escalate-conflicts-at-work-1850523609)
