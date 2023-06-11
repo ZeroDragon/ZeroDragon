@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Put in Your Survival Kit, According to Bear Grylls](https://lifehacker.com/what-to-put-in-your-survival-kit-according-to-bear-gry-1850523514)
 - [Dev.to/JS] [বিকাশ পেমেন্ট গেটওয়ে ইন্টিগ্রেশন: Node.js এবং Express.js ব্যবহার করে সহজেই ইকমার্সের SSLCommerz সাথে সংযোগ স্থাপন করুন](https://dev.to/siam786/bikaash-pementt-gettoye-inttigreshn-nodejs-ebn-expressjs-bybhaar-kre-shjei-ikmaarser-sslcommerz-saathe-snyog-sthaapn-krun-aio)
 - [Dev.to/JS] [Unlocking the Power of Promises.](https://dev.to/ibrahimbagalwa/unlocking-the-power-of-promises-5919)
 - [Dev.to/JS] [Advanced Next.js challenges](https://dev.to/christofkarisch/advanced-nextjs-challenges-4dh5)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When Will the Wildfire Smoke Go Away?](https://lifehacker.com/when-will-the-wildfire-smoke-go-away-1850520583)
 - [Lifehacker] [This Refurbished iPad Mini Bundle Is Under $100](https://lifehacker.com/this-refurbished-ipad-mini-bundle-is-under-100-1850509000)
 - [Lifehacker] [You Can Finally Send High Quality Photos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)
-- [Lifehacker] [Why You Shouldn’t Buy the New 15-Inch MacBook Air](https://lifehacker.com/why-you-shouldn-t-buy-the-new-15-inch-macbook-air-1850518951)
-- [Lifehacker] [Your Smoothies Will Benefit From a Little Jam](https://lifehacker.com/your-smoothies-will-benefit-from-a-little-jam-1850519891)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Shouldn’t Buy the New 15-Inch MacBook Air](https://lifehacker.com/why-you-shouldn-t-buy-the-new-15-inch-macbook-air-1850518951)<!-- TECH-POSTS:END -->
 
 ---
 
