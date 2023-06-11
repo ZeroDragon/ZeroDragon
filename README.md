@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Meet Komeil Mehranfar, a Passionate Software Engineer 👋](https://dev.to/komeilmehranfar/meet-komeil-mehranfar-a-passionate-software-engineer-258f)
+- [Dev.to/JS] [What are the best references for different libraries and technologies?](https://dev.to/web-project-school/what-are-the-best-references-for-different-libraries-and-technologies-1nbh)
 - [Dev.to/JS] [JavaScript Array Methods # 14](https://dev.to/sksage/javascript-array-methods-14-58id)
 - [Dev.to/JS] [RxJS Operators: of](https://dev.to/drownedintech/rxjs-operators-of-4hl5)
 - [Dev.to/JS] [Learning Next.js Layout Creation: A Step-by-Step Guide](https://dev.to/lordsage/learning-nextjs-layout-creation-a-step-by-step-guide-579m)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [O QUE É ANGULAR](https://dev.to/danielcamucatto/o-que-e-angular-2agd)
 - [Dev.to/JS] [Open to work a JavaScript Developer](https://dev.to/abdurahmonqobiljonov/open-to-work-a-javascript-developer-13cj)
 - [Dev.to/JS] [🦕 How to build a simple back end PoC with user notification using Novu, Amplication, and Discord?](https://dev.to/hunghvu/how-to-build-a-simple-back-end-poc-with-user-notification-using-novu-amplication-and-discord-4h14)
-- [Dev.to/JS] [Using UUID in AdonisJS v5](https://dev.to/devoresyah/using-uuid-in-adonisjs-v5-572c)
-- [Dev.to/JS] [Set the value of datetime-local input field from an Date object](https://dev.to/kevinluo201/set-value-of-datetime-local-input-field-3435)
 - [Lifehacker] [The Difference Between 2- and 3-Prong Electrical Plugs &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-2-and-3-prong-electrical-plugs-1850523488)
 - [Lifehacker] [The Best Plants to Use as &#39;Green Mulch&#39;](https://lifehacker.com/the-best-plants-to-use-as-green-mulch-1850523468)
 - [Lifehacker] [What to Put in Your Survival Kit, According to Bear Grylls](https://lifehacker.com/what-to-put-in-your-survival-kit-according-to-bear-gry-1850523514)
