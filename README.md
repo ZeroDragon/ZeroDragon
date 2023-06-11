@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Web Applications We Can Trust - The Imperative of SRE](https://dev.to/blove/building-web-applications-we-can-trust-the-imperative-of-sre-3ohk)
+- [Dev.to/JS] [La locura de los Callbacks en javascript [JS]](https://dev.to/bryanherreradev/la-locura-de-los-callbacks-en-javascript-js-3ckb)
 - [Dev.to/JS] [All 20 JavaScript concept you&#39;ll ever need](https://dev.to/johnrushx/all-20-javascript-concept-youll-ever-need-2i2o)
 - [Dev.to/JS] [JavaScript refactoring best practices.](https://dev.to/kelechikizito/javascript-refactoring-best-practices-1lld)
 - [Dev.to/JS] [Using browser Speech Synthesis capabilities &lpar;on an Angular App&rpar;](https://dev.to/vitorstick/using-browser-speech-synthesis-capabilities-on-an-angular-app-4pdk)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Variables in JavaScript: let, const, and var](https://dev.to/sakilk130/understanding-variables-in-javascript-let-const-and-var-4aa)
 - [Dev.to/JS] [Postman API Testing Tool Introduction](https://dev.to/sardarmudassaralikhan/postman-api-testing-tool-introduction-1km6)
 - [Dev.to/JS] [Web Workers to the Rescue – How to Work with JSON Strings without Blocking User Interactions](https://dev.to/marabesi/web-workers-to-the-rescue-how-to-work-with-json-strings-without-blocking-user-interactions-2jf2)
-- [Dev.to/JS] [Build your Capacitor iOS app bundle using GitHub Actions](https://dev.to/khromov/build-your-capacitor-ios-app-bundle-using-github-actions-mil)
-- [Dev.to/JS] [Learning React State and LifeCycle](https://dev.to/rabibsust/learning-react-state-and-lifecycle-1c0b)
 - [Lifehacker] [These Are the Best Father&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-fathers-day-food-deals-and-freebies-1850523613)
 - [Lifehacker] [The Smartest Ways to De-escalate Conflicts at Work](https://lifehacker.com/the-smartest-ways-to-de-escalate-conflicts-at-work-1850523609)
 - [Lifehacker] [The Best and Worst Places to Keep Your Luggage at Home](https://lifehacker.com/the-best-and-worst-places-to-keep-your-luggage-at-home-1850523598)
