@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Journey in Open Source - event-loop-sleep](https://dev.to/cadienvan/my-journey-in-open-source-event-loop-sleep-37b0)
+- [Dev.to/JS] [Sending Emails using Node](https://dev.to/lukeecart/sending-emails-using-node-26if)
+- [Dev.to/JS] [&quot;HTML List:Everything you need to know.&quot;](https://dev.to/grayckungu2/html-listeverything-you-need-to-know-55ia)
+- [Dev.to/JS] [Vue + Flask - Bloglite Application Source Code.](https://dev.to/faizanxmulla/vue-flask-bloglite-application-source-code-2bd9)
 - [Dev.to/JS] [Sharing WebSocket Connections between Browser Tabs and Windows](https://dev.to/brightdevs/sharing-websocket-connections-between-browser-tabs-and-windows-17dc)
 - [Dev.to/JS] [Factors to Consider when Building Software Solutions](https://dev.to/darylisyoung/factors-to-consider-when-building-software-solutions-5bbc)
 - [Dev.to/JS] [How to Create Analog Clock Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/how-to-create-analog-clock-using-html-css-and-javascript-2f8p)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Automatically Fill a Form: Speed up Your Development 💪](https://dev.to/clement_grosieux/how-to-automatically-fill-a-form-speed-up-your-development-5cep)
 - [Dev.to/JS] [HOW TO SETUP STORYBOOK WITH NEXTJS](https://dev.to/chafroudtarek/how-to-setup-storybook-with-nextjs-19n2)
 - [Dev.to/JS] [How to handle errors in JavaScript?](https://dev.to/ameya051/how-to-handle-errors-in-javascript-2lgm)
-- [Dev.to/JS] [📖 Storybook with simple 🍦vanilla webcomponents](https://dev.to/ioroot/storybook-with-simple-vanilla-webcomponents-5ek1)
-- [Dev.to/JS] [Using a Single Input for one-time-code](https://dev.to/madsstoumann/using-a-single-input-for-one-time-code-352l)
-- [Dev.to/JS] [Simplifying React File Uploads with dex-react-file-upload hook: A Step-by-Step Guide](https://dev.to/addegbenga/simplifying-react-file-uploads-with-dex-react-file-upload-hook-a-step-by-step-guide-3mio)
-- [Dev.to/JS] [Suggest me the application idea 🚀](https://dev.to/jacobandrewsky/suggest-me-the-application-idea-26eo)
 - [Lifehacker] [The Difference Between 2- and 3-Prong Electrical Plugs &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-2-and-3-prong-electrical-plugs-1850523488)
 - [Lifehacker] [The Best Plants to Use as &#39;Green Mulch&#39;](https://lifehacker.com/the-best-plants-to-use-as-green-mulch-1850523468)
 - [Lifehacker] [What to Put in Your Survival Kit, According to Bear Grylls](https://lifehacker.com/what-to-put-in-your-survival-kit-according-to-bear-gry-1850523514)
