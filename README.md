@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get a $100 Restaurant.com Gift Card for $14 Right Now](https://lifehacker.com/you-can-get-a-100-restaurant-com-gift-card-for-14-rig-1850509027)
+- [Lifehacker] [Claim Your Share of This Google Class Action Settlement](https://lifehacker.com/claim-your-share-of-this-google-class-action-settlement-1850529925)
+- [Dev.to/JS] [We fixed react context 🚀. Using selectors for granular reactivity](https://dev.to/abdadeel/we-fixed-react-context-using-selectors-for-granular-reactivity-3743)
+- [Dev.to/JS] [Google OAuth2 for Dummies](https://dev.to/fredysandoval/google-oauth2-for-dummies-4bl1)
 - [Lifehacker] [Please Don&#39;t Clean Your Car Seats With Shaving Cream](https://lifehacker.com/please-dont-clean-your-car-seats-with-shaving-cream-1850529912)
 - [Lifehacker] [Regularly Audit These Areas of Your Home to Stop Overbuying](https://lifehacker.com/regularly-audit-these-areas-of-your-home-to-stop-overbu-1850529816)
 - [Lifehacker] [How to Repair a Broken Tile If You Don’t Have Any Extra](https://lifehacker.com/how-to-repair-a-broken-tile-if-you-don-t-have-any-extra-1850529510)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Any OpenSource Library for Text Intent Detection ?!](https://dev.to/jhayush0502/any-opensource-library-for-text-intent-detection--27p1)
 - [Dev.to/JS] [What is ZenStack?](https://dev.to/zenstack/what-is-zenstack-1mme)
 - [Lifehacker] [The Best Way to Time a Rideshare at the Airport](https://lifehacker.com/the-best-way-to-time-a-rideshare-at-the-airport-1850527909)
-- [Dev.to/JS] [JavaScript Fundamentals: Understanding the Basics](https://dev.to/syedsadiqali/javascript-fundamentals-understanding-the-basics-3e08)
-- [Dev.to/JS] [Awesome List of the Best Developer Tools](https://dev.to/surajondev/awesome-list-of-the-best-developer-tools-12fp)
 - [Lifehacker] [The Kinds of Bones Unsafe for Dogs](https://lifehacker.com/the-kinds-of-bones-unsafe-for-dogs-1850524517)
 - [Lifehacker] [Why Your Favorite Subreddits Are Going Dark on June 12 [Updated]](https://lifehacker.com/why-your-favorite-subreddits-are-going-dark-on-june-12-1850521188)
 - [Lifehacker] [When to See the Next Two Solar Eclipses in the U.S. &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/when-to-see-the-next-two-solar-eclipses-in-the-u-s-an-1850524106)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a Cute Little Batch of Mini Tortilla Chips in Your Air Fryer](https://lifehacker.com/make-a-cute-little-batch-of-mini-tortilla-chips-in-your-1850523607)
 - [Lifehacker] [You Can Get a Lifetime 1TB Cloud Storage Account for 85% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-1tb-cloud-storage-account-for-85-1850509001)
 - [Lifehacker] [Google Chrome&#39;s Password Manager Is Getting Better](https://lifehacker.com/google-chromes-password-manager-is-getting-better-1850523135)
-- [Lifehacker] [How to Find &lpar;and Close&rpar; Your Home&#39;s Fresh Air Intake](https://lifehacker.com/how-to-find-and-close-your-homes-fresh-air-intake-1850523329)
-- [Lifehacker] [The Easiest Way to Clean Your Dishes When You’re Camping](https://lifehacker.com/the-easiest-way-to-clean-your-dishes-when-you-re-campin-1850522778)
-- [Lifehacker] [You Can Lock Your iPhone From Your Apple Watch If Someone Snatches Your Phone](https://lifehacker.com/you-can-lock-your-iphone-from-your-apple-watch-if-someo-1850522141)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Find &lpar;and Close&rpar; Your Home&#39;s Fresh Air Intake](https://lifehacker.com/how-to-find-and-close-your-homes-fresh-air-intake-1850523329)<!-- TECH-POSTS:END -->
 
 ---
 
