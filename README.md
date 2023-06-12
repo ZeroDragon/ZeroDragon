@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Please Don&#39;t Clean Your Car Seats With Shaving Cream](https://lifehacker.com/please-dont-clean-your-car-seats-with-shaving-cream-1850529912)
+- [Lifehacker] [Regularly Audit These Areas of Your Home to Stop Overbuying](https://lifehacker.com/regularly-audit-these-areas-of-your-home-to-stop-overbu-1850529816)
+- [Lifehacker] [How to Repair a Broken Tile If You Don’t Have Any Extra](https://lifehacker.com/how-to-repair-a-broken-tile-if-you-don-t-have-any-extra-1850529510)
 - [Lifehacker] [10 Podcasts That Are Totally Bonkers](https://lifehacker.com/10-podcasts-that-are-totally-bonkers-1850526172)
 - [Dev.to/JS] [Nextjs Dashboard](https://dev.to/katongole_isaac/nextjs-dashboard-3pd8)
 - [Dev.to/JS] [Modo estricto en JavaScript](https://dev.to/ulisesserranop/modo-estricto-en-javascript-4baf)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Google Chrome&#39;s Password Manager Is Getting Better](https://lifehacker.com/google-chromes-password-manager-is-getting-better-1850523135)
 - [Lifehacker] [How to Find &lpar;and Close&rpar; Your Home&#39;s Fresh Air Intake](https://lifehacker.com/how-to-find-and-close-your-homes-fresh-air-intake-1850523329)
 - [Lifehacker] [The Easiest Way to Clean Your Dishes When You’re Camping](https://lifehacker.com/the-easiest-way-to-clean-your-dishes-when-you-re-campin-1850522778)
-- [Lifehacker] [You Can Lock Your iPhone From Your Apple Watch If Someone Snatches Your Phone](https://lifehacker.com/you-can-lock-your-iphone-from-your-apple-watch-if-someo-1850522141)
-- [Lifehacker] [How to Avoid Paying the ‘Electronic Carrier Charge’ &lpar;and Other Stupid Travel Fees&rpar;](https://lifehacker.com/how-to-avoid-paying-the-electronic-carrier-charge-an-1850521008)
-- [Lifehacker] [Here Are the Best Father’s Day Tool Deals](https://lifehacker.com/here-are-the-best-father-s-day-tool-deals-1850521969)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Who is Baby Gronk?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-b-1850521502)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Lock Your iPhone From Your Apple Watch If Someone Snatches Your Phone](https://lifehacker.com/you-can-lock-your-iphone-from-your-apple-watch-if-someo-1850522141)<!-- TECH-POSTS:END -->
 
 ---
 
