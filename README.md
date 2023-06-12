@@ -23,6 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Meet Om Framework: 🚀 Your Swiss Army Knife as a Full Stack Ninja ✨](https://dev.to/rajesh_singh_1989/meet-om-framework-your-swiss-army-knife-as-a-full-stack-ninja-22me)
+- [Dev.to/JS] [Become a Full Stack Developer: Best Courses and Resources](https://dev.to/ahanash46390872/become-a-full-stack-developer-best-courses-and-resources-125a)
+- [Lifehacker] [You Only Need Two Trader Joe&#39;s Ingredients to Make This Quick, Cheap Noodle Bowl](https://lifehacker.com/you-only-need-two-trader-joes-ingredients-to-make-this-1850524888)
+- [Dev.to/JS] [ESLint plugin for sorting objects, imports, types, enums, JSX props, etc.](https://dev.to/azat_io/eslint-plugin-for-sorting-objects-imports-types-enums-jsx-props-etc-291d)
+- [Dev.to/JS] [Journey into the Minification Abyss: The Peculiar &#39;0&#39; Placeholder](https://dev.to/js_bits_bill/journey-into-the-minification-abyss-the-peculiar-0-placeholder-70j)
+- [Dev.to/JS] [How to Escape Tutorial Hell and Start Building Your Own Projects](https://dev.to/codewell/how-to-escape-tutorial-hell-and-start-building-your-own-projects-2hgb)
+- [Dev.to/JS] [Any OpenSource Library for Text Intent Detection ?!](https://dev.to/jhayush0502/any-opensource-library-for-text-intent-detection--27p1)
+- [Dev.to/JS] [What is ZenStack?](https://dev.to/zenstack/what-is-zenstack-1mme)
+- [Lifehacker] [The Best Way to Time a Rideshare at the Airport](https://lifehacker.com/the-best-way-to-time-a-rideshare-at-the-airport-1850527909)
+- [Dev.to/JS] [JavaScript Fundamentals: Understanding the Basics](https://dev.to/syedsadiqali/javascript-fundamentals-understanding-the-basics-3e08)
 - [Dev.to/JS] [Awesome List of the Best Developer Tools](https://dev.to/surajondev/awesome-list-of-the-best-developer-tools-12fp)
 - [Lifehacker] [The Kinds of Bones Unsafe for Dogs](https://lifehacker.com/the-kinds-of-bones-unsafe-for-dogs-1850524517)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Jun 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-jun-2023-3f15)
@@ -30,16 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your Favorite Subreddits Are Going Dark on June 12 [Updated]](https://lifehacker.com/why-your-favorite-subreddits-are-going-dark-on-june-12-1850521188)
 - [Lifehacker] [When to See the Next Two Solar Eclipses in the U.S. &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/when-to-see-the-next-two-solar-eclipses-in-the-u-s-an-1850524106)
 - [Dev.to/JS] [I&#39;m going to start from scratch...](https://dev.to/fadhilsaheer/im-going-to-start-from-scratch-1e0m)
-- [Dev.to/JS] [The Ultimate Guide to Route Optimization: Boosting Efficiency and Reducing Costs](https://dev.to/nextbillion-ai/the-ultimate-guide-to-route-optimization-boosting-efficiency-and-reducing-costs-59o0)
-- [Dev.to/JS] [Intro to TypeScript](https://dev.to/janvierjr/intro-to-typescript-5dhi)
-- [Dev.to/JS] [What is the secure way to store environment variables?](https://dev.to/cryogon/what-is-the-secure-way-to-store-environment-variables-3ipi)
-- [Dev.to/JS] [Js events cheatshet](https://dev.to/indracit/js-events-cheatshet-jce)
 - [Lifehacker] [Why You Should Take a Pre-Run Poop, According to Science](https://lifehacker.com/why-you-should-take-a-pre-run-poop-according-to-scienc-1850523410)
-- [Dev.to/JS] [Java script DOM Cheat sheet](https://dev.to/indracit/java-script-dom-cheat-sheet-3pn3)
-- [Dev.to/JS] [Building your MVP? Use windstatic, is 100%. A set of 181 elements &amp; layouts made with Tailwind CSS and Alpine.js](https://dev.to/mike_andreuzza/building-your-mvp-use-windstatic-is-100-a-set-of-181-elements-layouts-made-with-tailwind-css-and-alpinejs-272c)
-- [Dev.to/JS] [10 Android Studio Plugins](https://dev.to/bindupatidar/10-android-studio-plugins-35f4)
 - [Lifehacker] [The Summer Meal Plan Every Parent Needs](https://lifehacker.com/the-summer-meal-plan-every-parent-needs-1850522999)
-- [Dev.to/JS] [Entenda um código JS - que não tem readme ou testes e que não foi você que escreveu](https://dev.to/jessilyneh/entenda-um-codigo-js-que-nao-tem-readme-ou-testes-e-que-nao-foi-voce-que-escreveu-3cf0)
 - [Lifehacker] [The Difference Between 2- and 3-Prong Electrical Plugs &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-2-and-3-prong-electrical-plugs-1850523488)
 - [Lifehacker] [The Best Plants to Use as &#39;Green Mulch&#39;](https://lifehacker.com/the-best-plants-to-use-as-green-mulch-1850523468)
 - [Lifehacker] [What to Put in Your Survival Kit, According to Bear Grylls](https://lifehacker.com/what-to-put-in-your-survival-kit-according-to-bear-gry-1850523514)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here Are the Best Father’s Day Tool Deals](https://lifehacker.com/here-are-the-best-father-s-day-tool-deals-1850521969)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Who is Baby Gronk?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-b-1850521502)
 - [Lifehacker] [When You Ask AI to Write an Obituary](https://lifehacker.com/when-you-ask-ai-to-write-an-obituary-1850502065)
-- [Lifehacker] [The Secret to New York Deli-Style Cream Cheese Is Seltzer](https://lifehacker.com/the-secret-to-new-york-deli-style-cream-cheese-is-seltz-1850520367)
-- [Lifehacker] [Make Your Boring Job Work for You](https://lifehacker.com/make-your-bullshit-job-work-for-you-1850510043)
-- [Lifehacker] [This Cheap DIY Air Purifier Actually Works](https://lifehacker.com/this-cheap-diy-air-purifier-actually-works-1850520488)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Secret to New York Deli-Style Cream Cheese Is Seltzer](https://lifehacker.com/the-secret-to-new-york-deli-style-cream-cheese-is-seltz-1850520367)<!-- TECH-POSTS:END -->
 
 ---
 
