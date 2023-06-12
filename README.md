@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Ultimate Guide to Route Optimization: Boosting Efficiency and Reducing Costs](https://dev.to/nextbillion-ai/the-ultimate-guide-to-route-optimization-boosting-efficiency-and-reducing-costs-59o0)
+- [Dev.to/JS] [Intro to TypeScript](https://dev.to/janvierjr/intro-to-typescript-5dhi)
+- [Dev.to/JS] [What is the secure way to store environment variables?](https://dev.to/cryogon/what-is-the-secure-way-to-store-environment-variables-3ipi)
+- [Dev.to/JS] [Js events cheatshet](https://dev.to/indracit/js-events-cheatshet-jce)
+- [Lifehacker] [Why You Should Take a Pre-Run Poop, According to Science](https://lifehacker.com/why-you-should-take-a-pre-run-poop-according-to-scienc-1850523410)
+- [Dev.to/JS] [Java script DOM Cheat sheet](https://dev.to/indracit/java-script-dom-cheat-sheet-3pn3)
+- [Dev.to/JS] [Building your MVP? Use windstatic, is 100%. A set of 181 elements &amp; layouts made with Tailwind CSS and Alpine.js](https://dev.to/mike_andreuzza/building-your-mvp-use-windstatic-is-100-a-set-of-181-elements-layouts-made-with-tailwind-css-and-alpinejs-272c)
+- [Dev.to/JS] [10 Android Studio Plugins](https://dev.to/bindupatidar/10-android-studio-plugins-35f4)
+- [Lifehacker] [The Summer Meal Plan Every Parent Needs](https://lifehacker.com/the-summer-meal-plan-every-parent-needs-1850522999)
 - [Dev.to/JS] [Entenda um código JS - que não tem readme ou testes e que não foi você que escreveu](https://dev.to/jessilyneh/entenda-um-codigo-js-que-nao-tem-readme-ou-testes-e-que-nao-foi-voce-que-escreveu-3cf0)
 - [Dev.to/JS] [Awaitable Modals in React and React Native; Easily manage modals without pain.](https://dev.to/sarathkcm/awaitable-modals-in-react-and-react-native-easily-manage-modals-without-pain-2k56)
 - [Dev.to/JS] [Logs monitoring with Loki, Node.js and Fastify.js](https://dev.to/fraxken/logs-monitoring-with-loki-nodejs-and-fastifyjs-3h8k)
 - [Dev.to/JS] [How to Trigger Upload Started/Finished Event in Component &lpar;FilamentPHP&rpar;](https://dev.to/biostate/how-to-trigger-upload-startedfinished-event-in-component-filamentphp-20ho)
 - [Dev.to/JS] [Svelte Login Form Example: Best Practices](https://dev.to/askrodney/svelte-login-form-example-best-practices-3ok5)
-- [Dev.to/JS] [Simple React Project: Quotes generator.](https://dev.to/devishraq/simple-react-project-quotes-generator-3dkp)
-- [Dev.to/JS] [Hey from Julio Herrera](https://dev.to/julioherrera/hey-from-julio-herrera-2a68)
-- [Dev.to/JS] [My Journey in Open Source - event-loop-sleep](https://dev.to/cadienvan/my-journey-in-open-source-event-loop-sleep-37b0)
-- [Dev.to/JS] [Sending Emails using Node](https://dev.to/lukeecart/sending-emails-using-node-26if)
-- [Dev.to/JS] [&quot;HTML List:Everything you need to know.&quot;](https://dev.to/grayckungu2/html-listeverything-you-need-to-know-55ia)
-- [Dev.to/JS] [Vue + Flask - Bloglite Application Source Code.](https://dev.to/faizanxmulla/vue-flask-bloglite-application-source-code-2bd9)
-- [Dev.to/JS] [Sharing WebSocket Connections between Browser Tabs and Windows](https://dev.to/brightdevs/sharing-websocket-connections-between-browser-tabs-and-windows-17dc)
 - [Lifehacker] [The Difference Between 2- and 3-Prong Electrical Plugs &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-2-and-3-prong-electrical-plugs-1850523488)
 - [Lifehacker] [The Best Plants to Use as &#39;Green Mulch&#39;](https://lifehacker.com/the-best-plants-to-use-as-green-mulch-1850523468)
 - [Lifehacker] [What to Put in Your Survival Kit, According to Bear Grylls](https://lifehacker.com/what-to-put-in-your-survival-kit-according-to-bear-gry-1850523514)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Your Boring Job Work for You](https://lifehacker.com/make-your-bullshit-job-work-for-you-1850510043)
 - [Lifehacker] [This Cheap DIY Air Purifier Actually Works](https://lifehacker.com/this-cheap-diy-air-purifier-actually-works-1850520488)
 - [Lifehacker] [Eight Non-Trade Jobs That Pay Well Without a Degree](https://lifehacker.com/eight-non-trade-jobs-that-pay-well-without-a-degree-1850520797)
-- [Lifehacker] [How to Actually Get That Smoky Smell Out of Your House &lpar;and What Won’t Work&rpar;](https://lifehacker.com/how-to-actually-get-that-smoky-smell-out-of-your-house-1850520711)
-- [Lifehacker] [When Will the Wildfire Smoke Go Away?](https://lifehacker.com/when-will-the-wildfire-smoke-go-away-1850520583)
-- [Lifehacker] [This Refurbished iPad Mini Bundle Is Under $100](https://lifehacker.com/this-refurbished-ipad-mini-bundle-is-under-100-1850509000)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Actually Get That Smoky Smell Out of Your House &lpar;and What Won’t Work&rpar;](https://lifehacker.com/how-to-actually-get-that-smoky-smell-out-of-your-house-1850520711)<!-- TECH-POSTS:END -->
 
 ---
 
