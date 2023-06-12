@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [100 Days Coding Challenge - Day 23: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-23-freecodecamp-javascript-algorithms-and-data-structures-1mb8)
 - [Dev.to/JS] [Meet Komeil Mehranfar, a Passionate Software Engineer 👋](https://dev.to/komeilmehranfar/meet-komeil-mehranfar-a-passionate-software-engineer-258f)
 - [Dev.to/JS] [What are the best references for different libraries and technologies?](https://dev.to/web-project-school/what-are-the-best-references-for-different-libraries-and-technologies-1nbh)
 - [Dev.to/JS] [JavaScript Array Methods # 14](https://dev.to/sksage/javascript-array-methods-14-58id)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build Currency Converter CLI App - Node + Frankfurter](https://dev.to/bekbrace/building-a-currency-converter-cli-app-a-step-by-step-guide-3hko)
 - [Dev.to/JS] [O QUE É ANGULAR](https://dev.to/danielcamucatto/o-que-e-angular-2agd)
 - [Dev.to/JS] [Open to work a JavaScript Developer](https://dev.to/abdurahmonqobiljonov/open-to-work-a-javascript-developer-13cj)
-- [Dev.to/JS] [🦕 How to build a simple back end PoC with user notification using Novu, Amplication, and Discord?](https://dev.to/hunghvu/how-to-build-a-simple-back-end-poc-with-user-notification-using-novu-amplication-and-discord-4h14)
 - [Lifehacker] [The Difference Between 2- and 3-Prong Electrical Plugs &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-2-and-3-prong-electrical-plugs-1850523488)
 - [Lifehacker] [The Best Plants to Use as &#39;Green Mulch&#39;](https://lifehacker.com/the-best-plants-to-use-as-green-mulch-1850523468)
 - [Lifehacker] [What to Put in Your Survival Kit, According to Bear Grylls](https://lifehacker.com/what-to-put-in-your-survival-kit-according-to-bear-gry-1850523514)
