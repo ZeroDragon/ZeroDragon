@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Difference between innerText and textContent ?](https://dev.to/sebby235/difference-between-innertext-and-textcontent--3bde)
+- [Dev.to/JS] [TypeScript Naming Conventions: Crafting Maintainable Code](https://dev.to/aykhanhuseyn/typescript-naming-conventions-crafting-maintainable-code-1cdb)
+- [Dev.to/JS] [Create Bubble Notify Head in React Native](https://dev.to/harrydoan/create-bubble-notify-head-in-react-native-nap)
 - [Dev.to/JS] [Discover structuredClone&lpar;&rpar;, array.at&lpar;&rpar;, and the Change Array by Copy Proposal](https://dev.to/scofieldidehen/discover-structuredclone-arrayat-and-the-change-array-by-copy-proposal-4i5d)
 - [Dev.to/JS] [FETCH Requests for Beginners](https://dev.to/boucky/fetch-requests-for-beginners-35fn)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 23: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-23-freecodecamp-javascript-algorithms-and-data-structures-1mb8)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [RxJS Operators: of](https://dev.to/drownedintech/rxjs-operators-of-4hl5)
 - [Dev.to/JS] [Learning Next.js Layout Creation: A Step-by-Step Guide](https://dev.to/lordsage/learning-nextjs-layout-creation-a-step-by-step-guide-579m)
 - [Dev.to/JS] [Problems with naming in Styled Components](https://dev.to/pnewsam/problems-with-naming-in-styled-components-4a8o)
-- [Dev.to/JS] [Building a lightweight CSS formatter](https://dev.to/bartveneman/building-a-lightweight-css-formatter-m3p)
-- [Dev.to/JS] [React States &amp; Virtual DOM](https://dev.to/cyborglaksh/react-states-virtual-dom-28j1)
-- [Dev.to/JS] [Build Currency Converter CLI App - Node + Frankfurter](https://dev.to/bekbrace/building-a-currency-converter-cli-app-a-step-by-step-guide-3hko)
 - [Lifehacker] [The Difference Between 2- and 3-Prong Electrical Plugs &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-2-and-3-prong-electrical-plugs-1850523488)
 - [Lifehacker] [The Best Plants to Use as &#39;Green Mulch&#39;](https://lifehacker.com/the-best-plants-to-use-as-green-mulch-1850523468)
 - [Lifehacker] [What to Put in Your Survival Kit, According to Bear Grylls](https://lifehacker.com/what-to-put-in-your-survival-kit-according-to-bear-gry-1850523514)
