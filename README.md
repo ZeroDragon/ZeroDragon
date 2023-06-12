@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make This Creamy Vinaigrette](https://lifehacker.com/make-this-creamy-vinaigrette-1850530811)
+- [Lifehacker] [Use Crushed Cookies on Your Next Crumb Cake](https://lifehacker.com/use-crushed-cookies-on-your-next-crumb-cake-1850530134)
+- [Dev.to/JS] [React Todo Example App: Building a Full-Stack Application with User Authentication and Codehooks.io NoSQL Database](https://dev.to/restdbjones/react-todo-example-app-building-a-full-stack-application-with-user-authentication-and-codehooksio-nosql-database-73p)
+- [Lifehacker] [You Can Play &#39;Elden Ring&#39; and &#39;Hogwarts Legacy&#39; on a MacBook Right Now](https://lifehacker.com/you-can-play-windows-games-on-apple-silicon-right-now-1850530163)
 - [Dev.to/JS] [Understanding &quot;some&quot; and &quot;every&quot; Array Methods in Javascript](https://dev.to/thinkeramir/understanding-some-and-every-array-methods-in-javascript-59fh)
 - [Lifehacker] [How to Keep a Swimsuit Clean Without Damaging It](https://lifehacker.com/how-to-keep-a-swimsuit-clean-without-damaging-it-1850530365)
 - [Dev.to/JS] [Dog Food Website](https://dev.to/gururaj-math/dog-food-website-3pm)
@@ -43,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Become a Full Stack Developer: Best Courses and Resources](https://dev.to/ahanash46390872/become-a-full-stack-developer-best-courses-and-resources-125a)
 - [Lifehacker] [You Only Need Two Trader Joe&#39;s Ingredients to Make This Quick, Cheap Noodle Bowl](https://lifehacker.com/you-only-need-two-trader-joes-ingredients-to-make-this-1850524888)
 - [Dev.to/JS] [ESLint plugin for sorting objects, imports, types, enums, JSX props, etc.](https://dev.to/azat_io/eslint-plugin-for-sorting-objects-imports-types-enums-jsx-props-etc-291d)
-- [Dev.to/JS] [Journey into the Minification Abyss: The Peculiar &#39;0&#39; Placeholder](https://dev.to/js_bits_bill/journey-into-the-minification-abyss-the-peculiar-0-placeholder-70j)
 - [Lifehacker] [The Best Way to Time a Rideshare at the Airport](https://lifehacker.com/the-best-way-to-time-a-rideshare-at-the-airport-1850527909)
 - [Lifehacker] [The Kinds of Bones Unsafe for Dogs](https://lifehacker.com/the-kinds-of-bones-unsafe-for-dogs-1850524517)
 - [Lifehacker] [Why Your Favorite Subreddits Are Going Dark on June 12 [Updated]](https://lifehacker.com/why-your-favorite-subreddits-are-going-dark-on-june-12-1850521188)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Try &#39;Task Batching&#39; for a More Productive Week](https://lifehacker.com/try-task-batching-for-a-more-productive-week-1850523035)
 - [Lifehacker] [The Difference Between a Handyman and Contractor &lpar;and When to Use Each&rpar;](https://lifehacker.com/the-difference-between-a-handyman-and-contractor-and-w-1850523149)
 - [Lifehacker] [This &#39;Travel Hacker Bundle&#39; Includes Rosetta Stone, Dollar Flight Club, and RealVPN](https://lifehacker.com/this-travel-hacker-bundle-includes-rosetta-stone-dolla-1850509006)
-- [Lifehacker] [The First Seven Things to Do When Your Child Comes Out to You](https://lifehacker.com/the-first-seven-things-to-do-when-your-child-comes-out-1850523634)
-- [Lifehacker] [Make a Cute Little Batch of Mini Tortilla Chips in Your Air Fryer](https://lifehacker.com/make-a-cute-little-batch-of-mini-tortilla-chips-in-your-1850523607)
-- [Lifehacker] [You Can Get a Lifetime 1TB Cloud Storage Account for 85% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-1tb-cloud-storage-account-for-85-1850509001)
-- [Lifehacker] [Google Chrome&#39;s Password Manager Is Getting Better](https://lifehacker.com/google-chromes-password-manager-is-getting-better-1850523135)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The First Seven Things to Do When Your Child Comes Out to You](https://lifehacker.com/the-first-seven-things-to-do-when-your-child-comes-out-1850523634)<!-- TECH-POSTS:END -->
 
 ---
 
