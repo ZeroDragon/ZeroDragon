@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Meet Om Framework: 🚀 Your Swiss Army Knife as a Full Stack Ninja ✨](https://dev.to/rajesh_singh_1989/meet-om-framework-your-swiss-army-knife-as-a-full-stack-ninja-22me)
+- [Lifehacker] [10 Podcasts That Are Totally Bonkers](https://lifehacker.com/10-podcasts-that-are-totally-bonkers-1850526172)
+- [Dev.to/JS] [Nextjs Dashboard](https://dev.to/katongole_isaac/nextjs-dashboard-3pd8)
+- [Dev.to/JS] [Modo estricto en JavaScript](https://dev.to/ulisesserranop/modo-estricto-en-javascript-4baf)
+- [Dev.to/JS] [Meet Omkar DevTools: 🚀 Your Swiss Army Knife as a Ninja Developer ✨](https://dev.to/rajesh_singh_1989/meet-omkar-devtools-your-swiss-army-knife-as-a-ninja-developer-2ekb)
+- [Lifehacker] [These Fall and Winter Flights to Europe Are on Sale Right Now](https://lifehacker.com/these-fall-and-winter-flights-to-europe-are-on-sale-rig-1850529083)
+- [Dev.to/JS] [Meet Om Startup Framework: 🚀 Your Swiss Army Knife as a Full Stack Ninja ✨](https://dev.to/rajesh_singh_1989/meet-om-framework-your-swiss-army-knife-as-a-full-stack-ninja-22me)
 - [Dev.to/JS] [Become a Full Stack Developer: Best Courses and Resources](https://dev.to/ahanash46390872/become-a-full-stack-developer-best-courses-and-resources-125a)
 - [Lifehacker] [You Only Need Two Trader Joe&#39;s Ingredients to Make This Quick, Cheap Noodle Bowl](https://lifehacker.com/you-only-need-two-trader-joes-ingredients-to-make-this-1850524888)
 - [Dev.to/JS] [ESLint plugin for sorting objects, imports, types, enums, JSX props, etc.](https://dev.to/azat_io/eslint-plugin-for-sorting-objects-imports-types-enums-jsx-props-etc-291d)
@@ -35,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Fundamentals: Understanding the Basics](https://dev.to/syedsadiqali/javascript-fundamentals-understanding-the-basics-3e08)
 - [Dev.to/JS] [Awesome List of the Best Developer Tools](https://dev.to/surajondev/awesome-list-of-the-best-developer-tools-12fp)
 - [Lifehacker] [The Kinds of Bones Unsafe for Dogs](https://lifehacker.com/the-kinds-of-bones-unsafe-for-dogs-1850524517)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Jun 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-jun-2023-3f15)
-- [Dev.to/JS] [Array method CheatSheet](https://dev.to/brojenuel/array-method-cheatsheet-2e41)
 - [Lifehacker] [Why Your Favorite Subreddits Are Going Dark on June 12 [Updated]](https://lifehacker.com/why-your-favorite-subreddits-are-going-dark-on-june-12-1850521188)
 - [Lifehacker] [When to See the Next Two Solar Eclipses in the U.S. &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/when-to-see-the-next-two-solar-eclipses-in-the-u-s-an-1850524106)
-- [Dev.to/JS] [I&#39;m going to start from scratch...](https://dev.to/fadhilsaheer/im-going-to-start-from-scratch-1e0m)
 - [Lifehacker] [Why You Should Take a Pre-Run Poop, According to Science](https://lifehacker.com/why-you-should-take-a-pre-run-poop-according-to-scienc-1850523410)
 - [Lifehacker] [The Summer Meal Plan Every Parent Needs](https://lifehacker.com/the-summer-meal-plan-every-parent-needs-1850522999)
 - [Lifehacker] [The Difference Between 2- and 3-Prong Electrical Plugs &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-2-and-3-prong-electrical-plugs-1850523488)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Lock Your iPhone From Your Apple Watch If Someone Snatches Your Phone](https://lifehacker.com/you-can-lock-your-iphone-from-your-apple-watch-if-someo-1850522141)
 - [Lifehacker] [How to Avoid Paying the ‘Electronic Carrier Charge’ &lpar;and Other Stupid Travel Fees&rpar;](https://lifehacker.com/how-to-avoid-paying-the-electronic-carrier-charge-an-1850521008)
 - [Lifehacker] [Here Are the Best Father’s Day Tool Deals](https://lifehacker.com/here-are-the-best-father-s-day-tool-deals-1850521969)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Who is Baby Gronk?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-b-1850521502)
-- [Lifehacker] [When You Ask AI to Write an Obituary](https://lifehacker.com/when-you-ask-ai-to-write-an-obituary-1850502065)
-- [Lifehacker] [The Secret to New York Deli-Style Cream Cheese Is Seltzer](https://lifehacker.com/the-secret-to-new-york-deli-style-cream-cheese-is-seltz-1850520367)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Who is Baby Gronk?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-b-1850521502)<!-- TECH-POSTS:END -->
 
 ---
 
