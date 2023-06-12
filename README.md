@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 10 Open Source ERP / CRM](https://dev.to/lalami/top-10-open-source-erp-crm-30nh)
+- [Dev.to/JS] [Loading MOD files in the browser](https://dev.to/atornblad/loading-mod-files-in-the-browser-4m41)
+- [Dev.to/JS] [JavaScript Secrets Unveiled: Top 10 Hidden Gems with Code Examples](https://dev.to/hakimov_dev/javascript-secrets-unveiled-top-10-hidden-gems-with-code-examples-3ed4)
 - [Dev.to/JS] [Difference between innerText and textContent ?](https://dev.to/sebby235/difference-between-innertext-and-textcontent--3bde)
 - [Dev.to/JS] [TypeScript Naming Conventions: Crafting Maintainable Code](https://dev.to/aykhanhuseyn/typescript-naming-conventions-crafting-maintainable-code-1cdb)
 - [Dev.to/JS] [Create Bubble Notify Head in React Native](https://dev.to/harrydoan/create-bubble-notify-head-in-react-native-nap)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Meet Komeil Mehranfar, a Passionate Software Engineer 👋](https://dev.to/komeilmehranfar/meet-komeil-mehranfar-a-passionate-software-engineer-258f)
 - [Dev.to/JS] [What are the best references for different libraries and technologies?](https://dev.to/web-project-school/what-are-the-best-references-for-different-libraries-and-technologies-1nbh)
 - [Dev.to/JS] [JavaScript Array Methods # 14](https://dev.to/sksage/javascript-array-methods-14-58id)
-- [Dev.to/JS] [RxJS Operators: of](https://dev.to/drownedintech/rxjs-operators-of-4hl5)
-- [Dev.to/JS] [Learning Next.js Layout Creation: A Step-by-Step Guide](https://dev.to/lordsage/learning-nextjs-layout-creation-a-step-by-step-guide-579m)
-- [Dev.to/JS] [Problems with naming in Styled Components](https://dev.to/pnewsam/problems-with-naming-in-styled-components-4a8o)
 - [Lifehacker] [The Difference Between 2- and 3-Prong Electrical Plugs &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-2-and-3-prong-electrical-plugs-1850523488)
 - [Lifehacker] [The Best Plants to Use as &#39;Green Mulch&#39;](https://lifehacker.com/the-best-plants-to-use-as-green-mulch-1850523468)
 - [Lifehacker] [What to Put in Your Survival Kit, According to Bear Grylls](https://lifehacker.com/what-to-put-in-your-survival-kit-according-to-bear-gry-1850523514)
