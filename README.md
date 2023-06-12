@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding &quot;some&quot; and &quot;every&quot; Array Methods in Javascript](https://dev.to/thinkeramir/understanding-some-and-every-array-methods-in-javascript-59fh)
+- [Lifehacker] [How to Keep a Swimsuit Clean Without Damaging It](https://lifehacker.com/how-to-keep-a-swimsuit-clean-without-damaging-it-1850530365)
+- [Dev.to/JS] [Dog Food Website](https://dev.to/gururaj-math/dog-food-website-3pm)
 - [Lifehacker] [You Can Get a $100 Restaurant.com Gift Card for $14 Right Now](https://lifehacker.com/you-can-get-a-100-restaurant-com-gift-card-for-14-rig-1850509027)
+- [Dev.to/JS] [Class Is Out: Embracing Functional Components in Modern React Development](https://dev.to/svper563/class-is-out-embracing-functional-components-in-modern-react-development-526a)
 - [Lifehacker] [Claim Your Share of This Google Class Action Settlement](https://lifehacker.com/claim-your-share-of-this-google-class-action-settlement-1850529925)
 - [Dev.to/JS] [We fixed react context 🚀. Using selectors for granular reactivity](https://dev.to/abdadeel/we-fixed-react-context-using-selectors-for-granular-reactivity-3743)
 - [Dev.to/JS] [Google OAuth2 for Dummies](https://dev.to/fredysandoval/google-oauth2-for-dummies-4bl1)
@@ -40,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Only Need Two Trader Joe&#39;s Ingredients to Make This Quick, Cheap Noodle Bowl](https://lifehacker.com/you-only-need-two-trader-joes-ingredients-to-make-this-1850524888)
 - [Dev.to/JS] [ESLint plugin for sorting objects, imports, types, enums, JSX props, etc.](https://dev.to/azat_io/eslint-plugin-for-sorting-objects-imports-types-enums-jsx-props-etc-291d)
 - [Dev.to/JS] [Journey into the Minification Abyss: The Peculiar &#39;0&#39; Placeholder](https://dev.to/js_bits_bill/journey-into-the-minification-abyss-the-peculiar-0-placeholder-70j)
-- [Dev.to/JS] [How to Escape Tutorial Hell and Start Building Your Own Projects](https://dev.to/codewell/how-to-escape-tutorial-hell-and-start-building-your-own-projects-2hgb)
-- [Dev.to/JS] [Any OpenSource Library for Text Intent Detection ?!](https://dev.to/jhayush0502/any-opensource-library-for-text-intent-detection--27p1)
-- [Dev.to/JS] [What is ZenStack?](https://dev.to/zenstack/what-is-zenstack-1mme)
 - [Lifehacker] [The Best Way to Time a Rideshare at the Airport](https://lifehacker.com/the-best-way-to-time-a-rideshare-at-the-airport-1850527909)
 - [Lifehacker] [The Kinds of Bones Unsafe for Dogs](https://lifehacker.com/the-kinds-of-bones-unsafe-for-dogs-1850524517)
 - [Lifehacker] [Why Your Favorite Subreddits Are Going Dark on June 12 [Updated]](https://lifehacker.com/why-your-favorite-subreddits-are-going-dark-on-june-12-1850521188)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The First Seven Things to Do When Your Child Comes Out to You](https://lifehacker.com/the-first-seven-things-to-do-when-your-child-comes-out-1850523634)
 - [Lifehacker] [Make a Cute Little Batch of Mini Tortilla Chips in Your Air Fryer](https://lifehacker.com/make-a-cute-little-batch-of-mini-tortilla-chips-in-your-1850523607)
 - [Lifehacker] [You Can Get a Lifetime 1TB Cloud Storage Account for 85% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-1tb-cloud-storage-account-for-85-1850509001)
-- [Lifehacker] [Google Chrome&#39;s Password Manager Is Getting Better](https://lifehacker.com/google-chromes-password-manager-is-getting-better-1850523135)
-- [Lifehacker] [How to Find &lpar;and Close&rpar; Your Home&#39;s Fresh Air Intake](https://lifehacker.com/how-to-find-and-close-your-homes-fresh-air-intake-1850523329)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Google Chrome&#39;s Password Manager Is Getting Better](https://lifehacker.com/google-chromes-password-manager-is-getting-better-1850523135)<!-- TECH-POSTS:END -->
 
 ---
 
