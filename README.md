@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Awesome List of the Best Developer Tools](https://dev.to/surajondev/awesome-list-of-the-best-developer-tools-12fp)
+- [Lifehacker] [The Kinds of Bones Unsafe for Dogs](https://lifehacker.com/the-kinds-of-bones-unsafe-for-dogs-1850524517)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Jun 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-jun-2023-3f15)
+- [Dev.to/JS] [Array method CheatSheet](https://dev.to/brojenuel/array-method-cheatsheet-2e41)
+- [Lifehacker] [Why Your Favorite Subreddits Are Going Dark on June 12 [Updated]](https://lifehacker.com/why-your-favorite-subreddits-are-going-dark-on-june-12-1850521188)
+- [Lifehacker] [When to See the Next Two Solar Eclipses in the U.S. &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/when-to-see-the-next-two-solar-eclipses-in-the-u-s-an-1850524106)
+- [Dev.to/JS] [I&#39;m going to start from scratch...](https://dev.to/fadhilsaheer/im-going-to-start-from-scratch-1e0m)
 - [Dev.to/JS] [The Ultimate Guide to Route Optimization: Boosting Efficiency and Reducing Costs](https://dev.to/nextbillion-ai/the-ultimate-guide-to-route-optimization-boosting-efficiency-and-reducing-costs-59o0)
 - [Dev.to/JS] [Intro to TypeScript](https://dev.to/janvierjr/intro-to-typescript-5dhi)
 - [Dev.to/JS] [What is the secure way to store environment variables?](https://dev.to/cryogon/what-is-the-secure-way-to-store-environment-variables-3ipi)
@@ -33,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Android Studio Plugins](https://dev.to/bindupatidar/10-android-studio-plugins-35f4)
 - [Lifehacker] [The Summer Meal Plan Every Parent Needs](https://lifehacker.com/the-summer-meal-plan-every-parent-needs-1850522999)
 - [Dev.to/JS] [Entenda um código JS - que não tem readme ou testes e que não foi você que escreveu](https://dev.to/jessilyneh/entenda-um-codigo-js-que-nao-tem-readme-ou-testes-e-que-nao-foi-voce-que-escreveu-3cf0)
-- [Dev.to/JS] [Awaitable Modals in React and React Native; Easily manage modals without pain.](https://dev.to/sarathkcm/awaitable-modals-in-react-and-react-native-easily-manage-modals-without-pain-2k56)
-- [Dev.to/JS] [Logs monitoring with Loki, Node.js and Fastify.js](https://dev.to/fraxken/logs-monitoring-with-loki-nodejs-and-fastifyjs-3h8k)
-- [Dev.to/JS] [How to Trigger Upload Started/Finished Event in Component &lpar;FilamentPHP&rpar;](https://dev.to/biostate/how-to-trigger-upload-startedfinished-event-in-component-filamentphp-20ho)
-- [Dev.to/JS] [Svelte Login Form Example: Best Practices](https://dev.to/askrodney/svelte-login-form-example-best-practices-3ok5)
 - [Lifehacker] [The Difference Between 2- and 3-Prong Electrical Plugs &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-2-and-3-prong-electrical-plugs-1850523488)
 - [Lifehacker] [The Best Plants to Use as &#39;Green Mulch&#39;](https://lifehacker.com/the-best-plants-to-use-as-green-mulch-1850523468)
 - [Lifehacker] [What to Put in Your Survival Kit, According to Bear Grylls](https://lifehacker.com/what-to-put-in-your-survival-kit-according-to-bear-gry-1850523514)
@@ -55,14 +58,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Lock Your iPhone From Your Apple Watch If Someone Snatches Your Phone](https://lifehacker.com/you-can-lock-your-iphone-from-your-apple-watch-if-someo-1850522141)
 - [Lifehacker] [How to Avoid Paying the ‘Electronic Carrier Charge’ &lpar;and Other Stupid Travel Fees&rpar;](https://lifehacker.com/how-to-avoid-paying-the-electronic-carrier-charge-an-1850521008)
 - [Lifehacker] [Here Are the Best Father’s Day Tool Deals](https://lifehacker.com/here-are-the-best-father-s-day-tool-deals-1850521969)
-- [Lifehacker] [Why Your Favorite Subreddits Are Going Dark on June 12](https://lifehacker.com/why-your-favorite-subreddits-are-going-dark-on-june-12-1850521188)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Who is Baby Gronk?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-b-1850521502)
 - [Lifehacker] [When You Ask AI to Write an Obituary](https://lifehacker.com/when-you-ask-ai-to-write-an-obituary-1850502065)
 - [Lifehacker] [The Secret to New York Deli-Style Cream Cheese Is Seltzer](https://lifehacker.com/the-secret-to-new-york-deli-style-cream-cheese-is-seltz-1850520367)
 - [Lifehacker] [Make Your Boring Job Work for You](https://lifehacker.com/make-your-bullshit-job-work-for-you-1850510043)
-- [Lifehacker] [This Cheap DIY Air Purifier Actually Works](https://lifehacker.com/this-cheap-diy-air-purifier-actually-works-1850520488)
-- [Lifehacker] [Eight Non-Trade Jobs That Pay Well Without a Degree](https://lifehacker.com/eight-non-trade-jobs-that-pay-well-without-a-degree-1850520797)
-- [Lifehacker] [How to Actually Get That Smoky Smell Out of Your House &lpar;and What Won’t Work&rpar;](https://lifehacker.com/how-to-actually-get-that-smoky-smell-out-of-your-house-1850520711)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Cheap DIY Air Purifier Actually Works](https://lifehacker.com/this-cheap-diy-air-purifier-actually-works-1850520488)<!-- TECH-POSTS:END -->
 
 ---
 
