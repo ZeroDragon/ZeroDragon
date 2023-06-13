@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Make a Countdown App with React and date-fns](https://dev.to/michaellarocca/how-to-make-a-countdown-app-with-react-and-date-fns-467n)
+- [Dev.to/JS] [Exploring Web Rendering: Partial Hydration &lpar;a.k.a. “Islands”&rpar;](https://dev.to/mangs/exploring-web-rendering-partial-hydration-aka-islands-3n33)
+- [Dev.to/JS] [When JavaScript Thinks You&#39;re Imagining Things: An Unexpected Tale of Non-Existent References](https://dev.to/codetobug/when-javascript-thinks-youre-imagining-things-an-unexpected-tale-of-non-existent-references-oip)
+- [Dev.to/JS] [Instalando ExpressJS con NPM](https://dev.to/ulisesserranop/instalando-expressjs-con-npm-cj9)
 - [Dev.to/JS] [Después de un descanso…](https://dev.to/srparis/despues-de-un-descanso-151o)
 - [Dev.to/JS] [Optimistic UI: Enhancing User Experience in React with React Query](https://dev.to/wolfflucas/optimistic-ui-enhancing-user-experience-in-react-with-react-query-3033)
 - [Lifehacker] [Three Ways a Pillowcase Can Keep Your House a Little Cleaner](https://lifehacker.com/three-ways-a-pillowcase-can-keep-your-house-a-little-cl-1850535132)
@@ -38,13 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Node.js to Dynamically add HTML Content](https://dev.to/bellsofaba/using-nodejs-to-dynamically-add-html-content-p3e)
 - [Lifehacker] [When You Should Use a Lease Guarantor Company &lpar;and When You Shouldn’t&rpar;](https://lifehacker.com/here-s-when-you-should-use-a-lease-guarantor-company-a-1850534130)
 - [Lifehacker] [Stop Strava From Revealing Your Home Address](https://lifehacker.com/stop-strava-from-revealing-your-home-address-1850533685)
-- [Dev.to/JS] [Deploying Next.js 13 apps to Netlify: Switching out an existing React app](https://dev.to/mayorstacks/deploying-nextjs-13-apps-to-netlify-switching-out-an-existing-react-app-jep)
 - [Dev.to/JS] [Hoisting in JavaScript: One last time](https://dev.to/asciibi/hoisting-in-javascript-one-last-time-17ab)
 - [Lifehacker] [This Geminos Stacked Dual Monitor Is $100 Off Right Now](https://lifehacker.com/this-geminos-stacked-dual-monitor-is-100-off-right-now-1850509030)
 - [Lifehacker] [Use &#39;Social Stories&#39; to Help Kids Navigate Big Transitions](https://lifehacker.com/use-social-stories-to-help-kids-navigate-big-transition-1850531574)
-- [Dev.to/JS] [Resuscitating Hubot](https://dev.to/joeyguerra/resuscitating-hubot-53jj)
-- [Dev.to/JS] [Free Open-Source Portfolio Template for Developers⚡🚀](https://dev.to/devsyedmohsin/free-open-source-portfolio-template-for-developers-4g1d)
-- [Dev.to/JS] [Const doesn&#39;t prevent immutability](https://dev.to/atulbhattsystem32/const-doesnt-prevent-immutability-21gc)
 - [Lifehacker] [Seven Types of Insurance That Are Usually a Waste of Money](https://lifehacker.com/seven-types-of-insurance-that-are-usually-a-waste-of-mo-1850532298)
 - [Lifehacker] [When You Can Eat Fish From City Rivers &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-can-eat-fish-from-city-rivers-and-when-you-sh-1850532603)
 - [Lifehacker] [How to Make Your Impostor Syndrome Work for You](https://lifehacker.com/how-to-make-your-impostor-syndrome-work-for-you-1850524094)
