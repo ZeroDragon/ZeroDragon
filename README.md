@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Make a Factory: Creating Tests and Stories with Factory Functions in TypeScript and React](https://dev.to/mattu/make-a-factory-creating-reliable-tests-with-factory-functions-in-typescript-and-react-eh)
 - [Dev.to/JS] [Fast Matrix Math in JS 3: WebGL/WebGPU](https://dev.to/ndesmic/fast-matrix-math-in-js-3-webglwebgpu-4e0l)
 - [Dev.to/JS] [Functional Programming with Javascript](https://dev.to/gustavogomesdev/functional-programming-with-javascript-4jk7)
 - [Lifehacker] [This Toybox 3D Printer for Kids Is on Sale Right Now](https://lifehacker.com/this-toybox-3d-printer-for-kids-is-on-sale-right-now-1850509018)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Modo estricto en JavaScript](https://dev.to/ulisesserranop/modo-estricto-en-javascript-4baf)
 - [Dev.to/JS] [Meet Omkar DevTools: 🚀 Your Swiss Army Knife as a Ninja Developer ✨](https://dev.to/rajesh_singh_1989/meet-omkar-devtools-your-swiss-army-knife-as-a-ninja-developer-2ekb)
 - [Lifehacker] [These Fall and Winter Flights to Europe Are on Sale Right Now](https://lifehacker.com/these-fall-and-winter-flights-to-europe-are-on-sale-rig-1850529083)
-- [Dev.to/JS] [Meet Om Startup Framework: 🚀 Your Swiss Army Knife as a Full Stack Ninja ✨](https://dev.to/rajesh_singh_1989/meet-om-framework-your-swiss-army-knife-as-a-full-stack-ninja-22me)
 - [Lifehacker] [You Only Need Two Trader Joe&#39;s Ingredients to Make This Quick, Cheap Noodle Bowl](https://lifehacker.com/you-only-need-two-trader-joes-ingredients-to-make-this-1850524888)
 - [Lifehacker] [The Best Way to Time a Rideshare at the Airport](https://lifehacker.com/the-best-way-to-time-a-rideshare-at-the-airport-1850527909)
 - [Lifehacker] [The Kinds of Bones Unsafe for Dogs](https://lifehacker.com/the-kinds-of-bones-unsafe-for-dogs-1850524517)
