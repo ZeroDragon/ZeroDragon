@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Different Tools to Bundle Node.js Apps](https://dev.to/amplication/5-different-tools-to-bundle-nodejs-apps-59lg)
+- [Dev.to/JS] [10 Websites That Can Transform You into a 10x Developer](https://dev.to/vedvyas/10-websites-that-can-transform-you-into-a-10x-developer-1g8a)
+- [Dev.to/JS] [Learn serverless on AWS step-by-step - EventBridge](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-eventbridge-27aa)
+- [Dev.to/JS] [RxJS Operators: interval](https://dev.to/drownedintech/rxjs-operators-interval-j5l)
 - [Dev.to/JS] [How to get user location &amp; effortless address autocompletion in React: &quot;Enhancing User Experience&quot;](https://dev.to/demawo/how-to-get-user-location-effortless-address-autocompletion-in-react-enhancing-user-experience-595n)
 - [Dev.to/JS] [How to Debug and Fix Common Coding Errors?](https://dev.to/bindupatidar/how-to-debug-and-fix-common-coding-errors-5cl9)
 - [Dev.to/JS] [Building Progressive Web Applications with Vanilla JavaScript.](https://dev.to/onwuemene/building-progressive-web-applications-with-vanilla-javascript-4733)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Diagram editor dgrm.net / Announcement / action history](https://dev.to/alexboyko/diagram-editor-dgrmnet-announcement-action-history-1lep)
 - [Dev.to/JS] [Filter News API Data By Language and Country With NewsData.io](https://dev.to/newsdataio/filter-news-api-data-by-language-and-country-with-newsdataio-1geo)
 - [Dev.to/JS] [6 React Projects Every Developer Must Create](https://dev.to/scofieldidehen/6-react-projects-every-developer-must-create-2c3b)
-- [Dev.to/JS] [Arrays and Dynamic Arrays: Unleashing the Power of Data Storage and Manipulation](https://dev.to/danities316/arrays-and-dynamic-arrays-unleashing-the-power-of-data-storage-and-manipulation-5amd)
-- [Dev.to/JS] [TypeScript with React: The Ultimate Crash Course](https://dev.to/drtcode/typescript-with-react-the-ultimate-crash-course-4n09)
-- [Dev.to/JS] [100 Days Coding Challenge - Day 24: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-24-freecodecamp-javascript-algorithms-and-data-structures-php-455i)
-- [Dev.to/JS] [Beef Noodle, a project template for developing HTTPS REST API endpoints in NodeJS](https://dev.to/jared201/beef-noodle-a-project-template-for-developing-https-rest-api-endpoints-in-nodejs-324m)
 - [Lifehacker] [This Toybox 3D Printer for Kids Is on Sale Right Now](https://lifehacker.com/this-toybox-3d-printer-for-kids-is-on-sale-right-now-1850509018)
 - [Lifehacker] [Make This Creamy Vinaigrette](https://lifehacker.com/make-this-creamy-vinaigrette-1850530811)
 - [Lifehacker] [Use Crushed Cookies on Your Next Crumb Cake](https://lifehacker.com/use-crushed-cookies-on-your-next-crumb-cake-1850530134)
