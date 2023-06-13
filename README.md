@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use &#39;Social Stories&#39; to Help Kids Navigate Big Transitions](https://lifehacker.com/use-social-stories-to-help-kids-navigate-big-transition-1850531574)
+- [Dev.to/JS] [Resuscitating Hubot](https://dev.to/joeyguerra/resuscitating-hubot-53jj)
+- [Dev.to/JS] [Const doesn&#39;t prevent immutability](https://dev.to/atulbhattsystem32/const-doesnt-prevent-immutability-21gc)
+- [Lifehacker] [Seven Types of Insurance That Are Usually a Waste of Money](https://lifehacker.com/seven-types-of-insurance-that-are-usually-a-waste-of-mo-1850532298)
 - [Dev.to/JS] [Array Iterations - What makes them so useful?](https://dev.to/jucheng925/array-iterations-what-makes-them-so-useful-ha6)
 - [Dev.to/JS] [Top 11 .NET Libraries Every Developer Should Know](https://dev.to/sardarmudassaralikhan/top-11-net-libraries-every-developer-should-know-3hb3)
 - [Dev.to/JS] [How to create an automated test suite - get from 0 to 90% code coverage with a single command and GPT-4](https://dev.to/zvone187/how-to-create-an-automated-test-suite-get-from-0-to-90-code-coverage-with-a-single-command-and-gpt-4-2kjp)
@@ -36,10 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A quick and easy guide to creating a sitemap for a Next.js site](https://dev.to/mikeyoung44/a-quick-and-easy-guide-to-creating-a-sitemap-for-a-nextjs-site-230)
 - [Dev.to/JS] [Como usar o Node.js para processamento de arquivos CSV e JSON](https://dev.to/jhonyaraujooficial/como-usar-o-nodejs-para-processamento-de-arquivos-csv-e-json-662)
 - [Dev.to/JS] [Unlocking the Power of Object Recognition API: A Beginner’s Guide](https://dev.to/ideradevtools/unlocking-the-power-of-object-recognition-api-a-beginners-guide-8o5)
-- [Dev.to/JS] [Step-by-Step Tutorial: Creating a Live Streaming App with React and Video SDK](https://dev.to/video-sdk/react-live-streaming-32bl)
 - [Lifehacker] [You Should Poach an Egg in Maple Syrup](https://lifehacker.com/you-should-poach-an-egg-in-maple-syrup-1850532021)
 - [Lifehacker] [Five Asian Sauces That Make Everything Taste Better](https://lifehacker.com/five-asian-sauces-that-make-everything-taste-better-1850531565)
-- [Dev.to/JS] [How to Become a Better Programmer: Essential Steps for Growth](https://dev.to/techow99/how-to-become-a-better-programmer-essential-steps-for-growth-3430)
 - [Lifehacker] [What Is a ‘Compounding Pharmacy’ &lpar;and When Do You Need One&rpar;?](https://lifehacker.com/what-is-a-compounding-pharmacy-and-when-do-you-need-1850529482)
 - [Lifehacker] [This Toybox 3D Printer for Kids Is on Sale Right Now](https://lifehacker.com/this-toybox-3d-printer-for-kids-is-on-sale-right-now-1850509018)
 - [Lifehacker] [Make This Creamy Vinaigrette](https://lifehacker.com/make-this-creamy-vinaigrette-1850530811)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to See the Next Two Solar Eclipses in the U.S. &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/when-to-see-the-next-two-solar-eclipses-in-the-u-s-an-1850524106)
 - [Lifehacker] [Why You Should Take a Pre-Run Poop, According to Science](https://lifehacker.com/why-you-should-take-a-pre-run-poop-according-to-scienc-1850523410)
 - [Lifehacker] [The Summer Meal Plan Every Parent Needs](https://lifehacker.com/the-summer-meal-plan-every-parent-needs-1850522999)
-- [Lifehacker] [The Difference Between 2- and 3-Prong Electrical Plugs &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-2-and-3-prong-electrical-plugs-1850523488)
-- [Lifehacker] [The Best Plants to Use as &#39;Green Mulch&#39;](https://lifehacker.com/the-best-plants-to-use-as-green-mulch-1850523468)
-- [Lifehacker] [What to Put in Your Survival Kit, According to Bear Grylls](https://lifehacker.com/what-to-put-in-your-survival-kit-according-to-bear-gry-1850523514)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Difference Between 2- and 3-Prong Electrical Plugs &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-2-and-3-prong-electrical-plugs-1850523488)<!-- TECH-POSTS:END -->
 
 ---
 
