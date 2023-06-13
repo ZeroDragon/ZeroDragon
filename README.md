@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Rank Higher on Google in 2023 with the SEO-friendly editor, Froala](https://dev.to/ideradevtools/how-to-rank-higher-on-google-in-2023-with-the-seo-friendly-editor-froala-4foe)
+- [Dev.to/JS] [Third Party API Integration Best Practice&#39;s](https://dev.to/sardarmudassaralikhan/third-party-api-integration-best-practices-3fj7)
+- [Dev.to/JS] [Mistakes That Every Dot Net Core Developer Should Avoid](https://dev.to/sardarmudassaralikhan/mistakes-that-every-dot-net-core-developer-should-avoid-1232)
+- [Dev.to/JS] [PyScript vs JavaScript](https://dev.to/kristiyan_velkov/pyscript-vs-javascript-1pph)
+- [Dev.to/JS] [Building a customer support app with live chat and notifications using Next.js, Novu and Appwrite](https://dev.to/arshadayvid/building-a-customer-support-app-with-live-chat-and-notifications-using-nextjs-novu-and-appwrite-2fn8)
 - [Dev.to/JS] [My JSNation &amp; React Summit 2023 Day 1 &amp; 2 Roundup &lpar;offline attendance&rpar;](https://dev.to/janinelourens/my-jsnation-react-summit-2023-day-1-2-roundup-offline-attendance-2kgg)
 - [Dev.to/JS] [How do I create an HTML button that acts like a link?](https://dev.to/irishgeoff11/how-do-i-create-an-html-button-that-acts-like-a-link-2c7g)
 - [Dev.to/JS] [JWT validation with JWKs in Node.js](https://dev.to/mojoauth/jwt-validation-with-jwks-in-nodejs-3nj4)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimize Image Rendering With Lazy Loaded Images &lpar;and Blurred Images&rpar;](https://dev.to/ubahthebuilder/optimize-image-rendering-with-lazy-loaded-images-and-blurred-images-1col)
 - [Dev.to/JS] [A easy modal state manager for React!](https://dev.to/raotaohub/a-easy-modal-state-manager-for-react-1b8a)
 - [Dev.to/JS] [TypeScript React + Generics Part I — Time-Saving Patterns](https://dev.to/asross311/typescript-react-generics-part-i-time-saving-patterns-4c5b)
-- [Dev.to/JS] [5 Different Tools to Bundle Node.js Apps](https://dev.to/amplication/5-different-tools-to-bundle-nodejs-apps-59lg)
-- [Dev.to/JS] [10 Websites That Can Transform You into a 10x Developer](https://dev.to/vedvyas/10-websites-that-can-transform-you-into-a-10x-developer-1g8a)
-- [Dev.to/JS] [Learn serverless on AWS step-by-step - EventBridge](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-eventbridge-27aa)
-- [Dev.to/JS] [RxJS Operators: interval](https://dev.to/drownedintech/rxjs-operators-interval-j5l)
-- [Dev.to/JS] [Get user location &amp; address autocompletion in React](https://dev.to/demawo/how-to-get-user-location-effortless-address-autocompletion-in-react-enhancing-user-experience-595n)
 - [Lifehacker] [This Toybox 3D Printer for Kids Is on Sale Right Now](https://lifehacker.com/this-toybox-3d-printer-for-kids-is-on-sale-right-now-1850509018)
 - [Lifehacker] [Make This Creamy Vinaigrette](https://lifehacker.com/make-this-creamy-vinaigrette-1850530811)
 - [Lifehacker] [Use Crushed Cookies on Your Next Crumb Cake](https://lifehacker.com/use-crushed-cookies-on-your-next-crumb-cake-1850530134)
