@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Después de un descanso…](https://dev.to/srparis/despues-de-un-descanso-151o)
+- [Dev.to/JS] [Optimistic UI: Enhancing User Experience in React with React Query](https://dev.to/wolfflucas/optimistic-ui-enhancing-user-experience-in-react-with-react-query-3033)
+- [Lifehacker] [Three Ways a Pillowcase Can Keep Your House a Little Cleaner](https://lifehacker.com/three-ways-a-pillowcase-can-keep-your-house-a-little-cl-1850535132)
 - [Dev.to/JS] [Next-Level Technical Blogging with Dev.to API](https://dev.to/areknawo/next-level-technical-blogging-with-devto-api-12jl)
 - [Lifehacker] [Three Things You Should Do Before Deleting Your Reddit Account](https://lifehacker.com/three-things-you-should-do-before-deleting-your-reddit-1850534879)
 - [Lifehacker] [These Birthday Cake Waffles Are Almost Too Easy](https://lifehacker.com/these-birthday-cake-waffles-are-almost-too-easy-1850535118)
@@ -43,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Free Open-Source Portfolio Template for Developers⚡🚀](https://dev.to/devsyedmohsin/free-open-source-portfolio-template-for-developers-4g1d)
 - [Dev.to/JS] [Const doesn&#39;t prevent immutability](https://dev.to/atulbhattsystem32/const-doesnt-prevent-immutability-21gc)
 - [Lifehacker] [Seven Types of Insurance That Are Usually a Waste of Money](https://lifehacker.com/seven-types-of-insurance-that-are-usually-a-waste-of-mo-1850532298)
-- [Dev.to/JS] [Array Iterations - What makes them so useful?](https://dev.to/jucheng925/array-iterations-what-makes-them-so-useful-ha6)
-- [Dev.to/JS] [Top 11 .NET Libraries Every Developer Should Know](https://dev.to/sardarmudassaralikhan/top-11-net-libraries-every-developer-should-know-3hb3)
 - [Lifehacker] [When You Can Eat Fish From City Rivers &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-can-eat-fish-from-city-rivers-and-when-you-sh-1850532603)
 - [Lifehacker] [How to Make Your Impostor Syndrome Work for You](https://lifehacker.com/how-to-make-your-impostor-syndrome-work-for-you-1850524094)
 - [Lifehacker] [This 244-Hour Coding Crash Course Is 74% Off Right Now](https://lifehacker.com/this-244-hour-coding-crash-course-is-74-off-right-now-1850509012)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Please Don&#39;t Clean Your Car Seats With Shaving Cream](https://lifehacker.com/please-dont-clean-your-car-seats-with-shaving-cream-1850529912)
 - [Lifehacker] [Regularly Audit These Areas of Your Home to Stop Overbuying](https://lifehacker.com/regularly-audit-these-areas-of-your-home-to-stop-overbu-1850529816)
 - [Lifehacker] [How to Repair a Broken Tile If You Don’t Have Any Extra](https://lifehacker.com/how-to-repair-a-broken-tile-if-you-don-t-have-any-extra-1850529510)
-- [Lifehacker] [10 Podcasts That Are Totally Bonkers](https://lifehacker.com/10-podcasts-that-are-totally-bonkers-1850526172)
-- [Lifehacker] [These Fall and Winter Flights to Europe Are on Sale Right Now](https://lifehacker.com/these-fall-and-winter-flights-to-europe-are-on-sale-rig-1850529083)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Podcasts That Are Totally Bonkers](https://lifehacker.com/10-podcasts-that-are-totally-bonkers-1850526172)<!-- TECH-POSTS:END -->
 
 ---
 
