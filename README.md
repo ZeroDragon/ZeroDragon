@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Ramen-Fried Eggs Are a Textural Delight](https://lifehacker.com/ramen-fried-eggs-are-a-textural-delight-1850534653)
+- [Dev.to/JS] [Creating an Interactive Contact Form with HTML, CSS, and JavaScript](https://dev.to/getsmartwebsite/creating-an-interactive-contact-form-with-html-css-and-javascript-4g7o)
+- [Lifehacker] [Try ‘Connections’ If You’re Bored With Wordle](https://lifehacker.com/try-connections-if-you-re-bored-with-wordle-1850534478)
+- [Dev.to/JS] [How to check whether a string contains a substring in JavaScript?](https://dev.to/irishgeoff11/how-to-check-whether-a-string-contains-a-substring-in-javascript-25eo)
+- [Dev.to/JS] [Using Node.js to Dynamically add HTML Content](https://dev.to/bellsofaba/using-nodejs-to-dynamically-add-html-content-p3e)
+- [Lifehacker] [When You Should Use a Lease Guarantor Company &lpar;and When You Shouldn’t&rpar;](https://lifehacker.com/here-s-when-you-should-use-a-lease-guarantor-company-a-1850534130)
 - [Lifehacker] [Stop Strava From Revealing Your Home Address](https://lifehacker.com/stop-strava-from-revealing-your-home-address-1850533685)
+- [Dev.to/JS] [Deploying Next.js 13 apps to Netlify: Switching out an existing React app](https://dev.to/mayorstacks/deploying-nextjs-13-apps-to-netlify-switching-out-an-existing-react-app-jep)
 - [Dev.to/JS] [Hoisting in JavaScript: One last time](https://dev.to/asciibi/hoisting-in-javascript-one-last-time-17ab)
 - [Lifehacker] [This Geminos Stacked Dual Monitor Is $100 Off Right Now](https://lifehacker.com/this-geminos-stacked-dual-monitor-is-100-off-right-now-1850509030)
 - [Lifehacker] [Use &#39;Social Stories&#39; to Help Kids Navigate Big Transitions](https://lifehacker.com/use-social-stories-to-help-kids-navigate-big-transition-1850531574)
@@ -36,12 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create an automated test suite - get from 0 to 90% code coverage with a single command and GPT-4](https://dev.to/zvone187/how-to-create-an-automated-test-suite-get-from-0-to-90-code-coverage-with-a-single-command-and-gpt-4-2kjp)
 - [Lifehacker] [When You Can Eat Fish From City Rivers &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-can-eat-fish-from-city-rivers-and-when-you-sh-1850532603)
 - [Dev.to/JS] [Enhance Your Code: CodiumAI’s Automated Analysis and Suggestions for Python and JavaScript](https://dev.to/tomaszs2/enhance-your-code-codiumais-automated-analysis-and-suggestions-for-python-and-javascript-1071)
-- [Dev.to/JS] [Compound Component Design Pattern in React](https://dev.to/ollaworld/compound-component-design-pattern-in-react-5hj)
 - [Lifehacker] [How to Make Your Impostor Syndrome Work for You](https://lifehacker.com/how-to-make-your-impostor-syndrome-work-for-you-1850524094)
-- [Dev.to/JS] [JSON serialization benchmarks in JavaScript](https://dev.to/streamich/json-serialization-benchmarks-in-javascript-oik)
-- [Dev.to/JS] [How to create a progress bar that will only increase](https://dev.to/nikitadmitr/how-to-create-a-progress-bar-that-will-only-increase-2a29)
 - [Lifehacker] [This 244-Hour Coding Crash Course Is 74% Off Right Now](https://lifehacker.com/this-244-hour-coding-crash-course-is-74-off-right-now-1850509012)
-- [Dev.to/JS] [A quick and easy guide to creating a sitemap for a Next.js site](https://dev.to/mikeyoung44/a-quick-and-easy-guide-to-creating-a-sitemap-for-a-nextjs-site-230)
 - [Lifehacker] [You Should Poach an Egg in Maple Syrup](https://lifehacker.com/you-should-poach-an-egg-in-maple-syrup-1850532021)
 - [Lifehacker] [Five Asian Sauces That Make Everything Taste Better](https://lifehacker.com/five-asian-sauces-that-make-everything-taste-better-1850531565)
 - [Lifehacker] [What Is a ‘Compounding Pharmacy’ &lpar;and When Do You Need One&rpar;?](https://lifehacker.com/what-is-a-compounding-pharmacy-and-when-do-you-need-1850529482)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Fall and Winter Flights to Europe Are on Sale Right Now](https://lifehacker.com/these-fall-and-winter-flights-to-europe-are-on-sale-rig-1850529083)
 - [Lifehacker] [You Only Need Two Trader Joe&#39;s Ingredients to Make This Quick, Cheap Noodle Bowl](https://lifehacker.com/you-only-need-two-trader-joes-ingredients-to-make-this-1850524888)
 - [Lifehacker] [The Best Way to Time a Rideshare at the Airport](https://lifehacker.com/the-best-way-to-time-a-rideshare-at-the-airport-1850527909)
-- [Lifehacker] [The Kinds of Bones Unsafe for Dogs](https://lifehacker.com/the-kinds-of-bones-unsafe-for-dogs-1850524517)
-- [Lifehacker] [Why Your Favorite Subreddits Are Going Dark on June 12 [Updated]](https://lifehacker.com/why-your-favorite-subreddits-are-going-dark-on-june-12-1850521188)
-- [Lifehacker] [When to See the Next Two Solar Eclipses in the U.S. &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/when-to-see-the-next-two-solar-eclipses-in-the-u-s-an-1850524106)
-- [Lifehacker] [Why You Should Take a Pre-Run Poop, According to Science](https://lifehacker.com/why-you-should-take-a-pre-run-poop-according-to-scienc-1850523410)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Kinds of Bones Unsafe for Dogs](https://lifehacker.com/the-kinds-of-bones-unsafe-for-dogs-1850524517)<!-- TECH-POSTS:END -->
 
 ---
 
