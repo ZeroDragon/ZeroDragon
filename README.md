@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [REST Sharp in Asp.net Core Web API](https://dev.to/sardarmudassaralikhan/rest-sharp-in-aspnet-core-web-api-i07)
+- [Dev.to/JS] [Announcing A Dedicated Dev](https://dev.to/starbist/announcing-a-dedicated-dev-nno)
+- [Dev.to/JS] [Get Data from Third Party API In Asp.net Core Web API](https://dev.to/sardarmudassaralikhan/get-data-from-third-party-api-in-aspnet-core-web-api-g5h)
+- [Dev.to/JS] [Send data to third party in Asp.net core](https://dev.to/sardarmudassaralikhan/send-data-to-third-party-in-aspnet-core-lml)
+- [Dev.to/JS] [Splunk send data to third party in Asp.net core](https://dev.to/sardarmudassaralikhan/splunk-send-data-to-third-party-in-aspnet-core-3ici)
 - [Dev.to/JS] [How to Rank Higher on Google in 2023 with the SEO-friendly editor, Froala](https://dev.to/ideradevtools/how-to-rank-higher-on-google-in-2023-with-the-seo-friendly-editor-froala-4foe)
 - [Dev.to/JS] [Third Party API Integration Best Practice&#39;s](https://dev.to/sardarmudassaralikhan/third-party-api-integration-best-practices-3fj7)
 - [Dev.to/JS] [Mistakes That Every Dot Net Core Developer Should Avoid](https://dev.to/sardarmudassaralikhan/mistakes-that-every-dot-net-core-developer-should-avoid-1232)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a customer support app with live chat and notifications using Next.js, Novu and Appwrite](https://dev.to/arshadayvid/building-a-customer-support-app-with-live-chat-and-notifications-using-nextjs-novu-and-appwrite-2fn8)
 - [Dev.to/JS] [My JSNation &amp; React Summit 2023 Day 1 &amp; 2 Roundup &lpar;offline attendance&rpar;](https://dev.to/janinelourens/my-jsnation-react-summit-2023-day-1-2-roundup-offline-attendance-2kgg)
 - [Dev.to/JS] [How do I create an HTML button that acts like a link?](https://dev.to/irishgeoff11/how-do-i-create-an-html-button-that-acts-like-a-link-2c7g)
-- [Dev.to/JS] [JWT validation with JWKs in Node.js](https://dev.to/mojoauth/jwt-validation-with-jwks-in-nodejs-3nj4)
-- [Dev.to/JS] [Color Compare Range Slider](https://dev.to/madsstoumann/color-compare-range-slider-3o1k)
-- [Dev.to/JS] [Optimize Image Rendering With Lazy Loaded Images &lpar;and Blurred Images&rpar;](https://dev.to/ubahthebuilder/optimize-image-rendering-with-lazy-loaded-images-and-blurred-images-1col)
-- [Dev.to/JS] [A easy modal state manager for React!](https://dev.to/raotaohub/a-easy-modal-state-manager-for-react-1b8a)
-- [Dev.to/JS] [TypeScript React + Generics Part I — Time-Saving Patterns](https://dev.to/asross311/typescript-react-generics-part-i-time-saving-patterns-4c5b)
 - [Lifehacker] [This Toybox 3D Printer for Kids Is on Sale Right Now](https://lifehacker.com/this-toybox-3d-printer-for-kids-is-on-sale-right-now-1850509018)
 - [Lifehacker] [Make This Creamy Vinaigrette](https://lifehacker.com/make-this-creamy-vinaigrette-1850530811)
 - [Lifehacker] [Use Crushed Cookies on Your Next Crumb Cake](https://lifehacker.com/use-crushed-cookies-on-your-next-crumb-cake-1850530134)
