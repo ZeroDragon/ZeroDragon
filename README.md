@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting started with JavaScript for complete beginners](https://dev.to/bansikah/getting-started-with-javascript-for-complete-beginners-3del)
+- [Dev.to/JS] [Why you shouldn&#39;t mix ES Modules and CommonJS](https://dev.to/darkmavis1980/why-you-shouldnt-mix-es-modules-and-commonjs-import-statements-56fc)
+- [Dev.to/JS] [Build A Reusable Carousel With React And Splide.js](https://dev.to/femi_dev/build-a-reusable-carousel-with-react-and-splidejs-422h)
+- [Dev.to/JS] [Streamline the process of scanning through job postings](https://dev.to/dan_teeter_dd1ccef174240b/streamline-the-process-of-scanning-through-job-postings-3fbg)
 - [Dev.to/JS] [How to Make a Countdown App with React and date-fns](https://dev.to/michaellarocca/how-to-make-a-countdown-app-with-react-and-date-fns-467n)
 - [Dev.to/JS] [Exploring Web Rendering: Partial Hydration &lpar;a.k.a. “Islands”&rpar;](https://dev.to/mangs/exploring-web-rendering-partial-hydration-aka-islands-3n33)
 - [Dev.to/JS] [When JavaScript Thinks You&#39;re Imagining Things: An Unexpected Tale of Non-Existent References](https://dev.to/codetobug/when-javascript-thinks-youre-imagining-things-an-unexpected-tale-of-non-existent-references-oip)
@@ -36,13 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring Infinite Scroll Techniques in react](https://dev.to/vishnusatheesh/exploring-infinite-scroll-techniques-in-react-1bn0)
 - [Lifehacker] [This Amazon and Spotify Dropshipping Course Is $30 Right Now](https://lifehacker.com/this-amazon-and-spotify-dropshipping-course-is-30-righ-1850509035)
 - [Lifehacker] [Ramen-Fried Eggs Are a Textural Delight](https://lifehacker.com/ramen-fried-eggs-are-a-textural-delight-1850534653)
-- [Dev.to/JS] [Creating an Interactive Contact Form with HTML, CSS, and JavaScript](https://dev.to/getsmartwebsite/creating-an-interactive-contact-form-with-html-css-and-javascript-4g7o)
 - [Lifehacker] [Try ‘Connections’ If You’re Bored With Wordle](https://lifehacker.com/try-connections-if-you-re-bored-with-wordle-1850534478)
-- [Dev.to/JS] [How to check whether a string contains a substring in JavaScript?](https://dev.to/irishgeoff11/how-to-check-whether-a-string-contains-a-substring-in-javascript-25eo)
-- [Dev.to/JS] [Using Node.js to Dynamically add HTML Content](https://dev.to/bellsofaba/using-nodejs-to-dynamically-add-html-content-p3e)
 - [Lifehacker] [When You Should Use a Lease Guarantor Company &lpar;and When You Shouldn’t&rpar;](https://lifehacker.com/here-s-when-you-should-use-a-lease-guarantor-company-a-1850534130)
 - [Lifehacker] [Stop Strava From Revealing Your Home Address](https://lifehacker.com/stop-strava-from-revealing-your-home-address-1850533685)
-- [Dev.to/JS] [Hoisting in JavaScript: One last time](https://dev.to/asciibi/hoisting-in-javascript-one-last-time-17ab)
 - [Lifehacker] [This Geminos Stacked Dual Monitor Is $100 Off Right Now](https://lifehacker.com/this-geminos-stacked-dual-monitor-is-100-off-right-now-1850509030)
 - [Lifehacker] [Use &#39;Social Stories&#39; to Help Kids Navigate Big Transitions](https://lifehacker.com/use-social-stories-to-help-kids-navigate-big-transition-1850531574)
 - [Lifehacker] [Seven Types of Insurance That Are Usually a Waste of Money](https://lifehacker.com/seven-types-of-insurance-that-are-usually-a-waste-of-mo-1850532298)
