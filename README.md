@@ -23,8 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Stop Strava From Revealing Your Home Address](https://lifehacker.com/stop-strava-from-revealing-your-home-address-1850533685)
+- [Dev.to/JS] [Hoisting in JavaScript: One last time](https://dev.to/asciibi/hoisting-in-javascript-one-last-time-17ab)
+- [Lifehacker] [This Geminos Stacked Dual Monitor Is $100 Off Right Now](https://lifehacker.com/this-geminos-stacked-dual-monitor-is-100-off-right-now-1850509030)
 - [Lifehacker] [Use &#39;Social Stories&#39; to Help Kids Navigate Big Transitions](https://lifehacker.com/use-social-stories-to-help-kids-navigate-big-transition-1850531574)
 - [Dev.to/JS] [Resuscitating Hubot](https://dev.to/joeyguerra/resuscitating-hubot-53jj)
+- [Dev.to/JS] [Free Open-Source Portfolio Template for Developers⚡🚀](https://dev.to/devsyedmohsin/free-open-source-portfolio-template-for-developers-4g1d)
 - [Dev.to/JS] [Const doesn&#39;t prevent immutability](https://dev.to/atulbhattsystem32/const-doesnt-prevent-immutability-21gc)
 - [Lifehacker] [Seven Types of Insurance That Are Usually a Waste of Money](https://lifehacker.com/seven-types-of-insurance-that-are-usually-a-waste-of-mo-1850532298)
 - [Dev.to/JS] [Array Iterations - What makes them so useful?](https://dev.to/jucheng925/array-iterations-what-makes-them-so-useful-ha6)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a progress bar that will only increase](https://dev.to/nikitadmitr/how-to-create-a-progress-bar-that-will-only-increase-2a29)
 - [Lifehacker] [This 244-Hour Coding Crash Course Is 74% Off Right Now](https://lifehacker.com/this-244-hour-coding-crash-course-is-74-off-right-now-1850509012)
 - [Dev.to/JS] [A quick and easy guide to creating a sitemap for a Next.js site](https://dev.to/mikeyoung44/a-quick-and-easy-guide-to-creating-a-sitemap-for-a-nextjs-site-230)
-- [Dev.to/JS] [Como usar o Node.js para processamento de arquivos CSV e JSON](https://dev.to/jhonyaraujooficial/como-usar-o-nodejs-para-processamento-de-arquivos-csv-e-json-662)
-- [Dev.to/JS] [Unlocking the Power of Object Recognition API: A Beginner’s Guide](https://dev.to/ideradevtools/unlocking-the-power-of-object-recognition-api-a-beginners-guide-8o5)
 - [Lifehacker] [You Should Poach an Egg in Maple Syrup](https://lifehacker.com/you-should-poach-an-egg-in-maple-syrup-1850532021)
 - [Lifehacker] [Five Asian Sauces That Make Everything Taste Better](https://lifehacker.com/five-asian-sauces-that-make-everything-taste-better-1850531565)
 - [Lifehacker] [What Is a ‘Compounding Pharmacy’ &lpar;and When Do You Need One&rpar;?](https://lifehacker.com/what-is-a-compounding-pharmacy-and-when-do-you-need-1850529482)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Kinds of Bones Unsafe for Dogs](https://lifehacker.com/the-kinds-of-bones-unsafe-for-dogs-1850524517)
 - [Lifehacker] [Why Your Favorite Subreddits Are Going Dark on June 12 [Updated]](https://lifehacker.com/why-your-favorite-subreddits-are-going-dark-on-june-12-1850521188)
 - [Lifehacker] [When to See the Next Two Solar Eclipses in the U.S. &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/when-to-see-the-next-two-solar-eclipses-in-the-u-s-an-1850524106)
-- [Lifehacker] [Why You Should Take a Pre-Run Poop, According to Science](https://lifehacker.com/why-you-should-take-a-pre-run-poop-according-to-scienc-1850523410)
-- [Lifehacker] [The Summer Meal Plan Every Parent Needs](https://lifehacker.com/the-summer-meal-plan-every-parent-needs-1850522999)
-- [Lifehacker] [The Difference Between 2- and 3-Prong Electrical Plugs &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-2-and-3-prong-electrical-plugs-1850523488)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Take a Pre-Run Poop, According to Science](https://lifehacker.com/why-you-should-take-a-pre-run-poop-according-to-scienc-1850523410)<!-- TECH-POSTS:END -->
 
 ---
 
