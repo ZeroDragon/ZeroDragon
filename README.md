@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a progress bar that will only increase](https://dev.to/nikitadmitr/how-to-create-a-progress-bar-that-will-only-increase-2a29)
+- [Lifehacker] [This 244-Hour Coding Crash Course Is 74% Off Right Now](https://lifehacker.com/this-244-hour-coding-crash-course-is-74-off-right-now-1850509012)
+- [Dev.to/JS] [A quick and easy guide to creating a sitemap for a Next.js site](https://dev.to/mikeyoung44/a-quick-and-easy-guide-to-creating-a-sitemap-for-a-nextjs-site-230)
+- [Dev.to/JS] [Como usar o Node.js para processamento de arquivos CSV e JSON](https://dev.to/jhonyaraujooficial/como-usar-o-nodejs-para-processamento-de-arquivos-csv-e-json-662)
+- [Dev.to/JS] [Unlocking the Power of Object Recognition API: A Beginner’s Guide](https://dev.to/ideradevtools/unlocking-the-power-of-object-recognition-api-a-beginners-guide-8o5)
+- [Dev.to/JS] [Step-by-Step Tutorial: Creating a Live Streaming App with React and Video SDK](https://dev.to/video-sdk/react-live-streaming-32bl)
 - [Lifehacker] [You Should Poach an Egg in Maple Syrup](https://lifehacker.com/you-should-poach-an-egg-in-maple-syrup-1850532021)
 - [Lifehacker] [Five Asian Sauces That Make Everything Taste Better](https://lifehacker.com/five-asian-sauces-that-make-everything-taste-better-1850531565)
 - [Dev.to/JS] [How to Become a Better Programmer: Essential Steps for Growth](https://dev.to/techow99/how-to-become-a-better-programmer-essential-steps-for-growth-3430)
@@ -33,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Announcing A Dedicated Dev](https://dev.to/starbist/announcing-a-dedicated-dev-nno)
 - [Dev.to/JS] [Get Data from Third Party API In Asp.net Core Web API](https://dev.to/sardarmudassaralikhan/get-data-from-third-party-api-in-aspnet-core-web-api-g5h)
 - [Dev.to/JS] [Send data to third party in Asp.net core](https://dev.to/sardarmudassaralikhan/send-data-to-third-party-in-aspnet-core-lml)
-- [Dev.to/JS] [Splunk send data to third party in Asp.net core](https://dev.to/sardarmudassaralikhan/splunk-send-data-to-third-party-in-aspnet-core-3ici)
-- [Dev.to/JS] [How to Rank Higher on Google in 2023 with the SEO-friendly editor, Froala](https://dev.to/ideradevtools/how-to-rank-higher-on-google-in-2023-with-the-seo-friendly-editor-froala-4foe)
-- [Dev.to/JS] [Third Party API Integration Best Practice&#39;s](https://dev.to/sardarmudassaralikhan/third-party-api-integration-best-practices-3fj7)
-- [Dev.to/JS] [Mistakes That Every Dot Net Core Developer Should Avoid](https://dev.to/sardarmudassaralikhan/mistakes-that-every-dot-net-core-developer-should-avoid-1232)
-- [Dev.to/JS] [PyScript vs JavaScript](https://dev.to/kristiyan_velkov/pyscript-vs-javascript-1pph)
 - [Lifehacker] [This Toybox 3D Printer for Kids Is on Sale Right Now](https://lifehacker.com/this-toybox-3d-printer-for-kids-is-on-sale-right-now-1850509018)
 - [Lifehacker] [Make This Creamy Vinaigrette](https://lifehacker.com/make-this-creamy-vinaigrette-1850530811)
 - [Lifehacker] [Use Crushed Cookies on Your Next Crumb Cake](https://lifehacker.com/use-crushed-cookies-on-your-next-crumb-cake-1850530134)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Plants to Use as &#39;Green Mulch&#39;](https://lifehacker.com/the-best-plants-to-use-as-green-mulch-1850523468)
 - [Lifehacker] [What to Put in Your Survival Kit, According to Bear Grylls](https://lifehacker.com/what-to-put-in-your-survival-kit-according-to-bear-gry-1850523514)
 - [Lifehacker] [These Are the Best Father&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-fathers-day-food-deals-and-freebies-1850523613)
-- [Lifehacker] [The Smartest Ways to De-escalate Conflicts at Work](https://lifehacker.com/the-smartest-ways-to-de-escalate-conflicts-at-work-1850523609)
-- [Lifehacker] [The Best and Worst Places to Keep Your Luggage at Home](https://lifehacker.com/the-best-and-worst-places-to-keep-your-luggage-at-home-1850523598)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Smartest Ways to De-escalate Conflicts at Work](https://lifehacker.com/the-smartest-ways-to-de-escalate-conflicts-at-work-1850523609)<!-- TECH-POSTS:END -->
 
 ---
 
