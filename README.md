@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [6 React Projects Every Developer Must Create](https://dev.to/scofieldidehen/6-react-projects-every-developer-must-create-2c3b)
 - [Dev.to/JS] [Arrays and Dynamic Arrays: Unleashing the Power of Data Storage and Manipulation](https://dev.to/danities316/arrays-and-dynamic-arrays-unleashing-the-power-of-data-storage-and-manipulation-5amd)
 - [Dev.to/JS] [TypeScript with React: The Ultimate Crash Course](https://dev.to/drtcode/typescript-with-react-the-ultimate-crash-course-4n09)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 24: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-24-freecodecamp-javascript-algorithms-and-data-structures-php-455i)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Keep a Swimsuit Clean Without Damaging It](https://lifehacker.com/how-to-keep-a-swimsuit-clean-without-damaging-it-1850530365)
 - [Dev.to/JS] [Dog Food Website](https://dev.to/gururaj-math/dog-food-website-3pm)
 - [Lifehacker] [You Can Get a $100 Restaurant.com Gift Card for $14 Right Now](https://lifehacker.com/you-can-get-a-100-restaurant-com-gift-card-for-14-rig-1850509027)
-- [Dev.to/JS] [Class Is Out: Embracing Functional Components in Modern React Development](https://dev.to/svper563/class-is-out-embracing-functional-components-in-modern-react-development-526a)
 - [Lifehacker] [Claim Your Share of This Google Class Action Settlement](https://lifehacker.com/claim-your-share-of-this-google-class-action-settlement-1850529925)
 - [Lifehacker] [Please Don&#39;t Clean Your Car Seats With Shaving Cream](https://lifehacker.com/please-dont-clean-your-car-seats-with-shaving-cream-1850529912)
 - [Lifehacker] [Regularly Audit These Areas of Your Home to Stop Overbuying](https://lifehacker.com/regularly-audit-these-areas-of-your-home-to-stop-overbu-1850529816)
