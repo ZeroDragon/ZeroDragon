@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Functional Programming with Javascript](https://dev.to/gustavogomesdev/functional-programming-with-javascript-4jk7)
 - [Lifehacker] [This Toybox 3D Printer for Kids Is on Sale Right Now](https://lifehacker.com/this-toybox-3d-printer-for-kids-is-on-sale-right-now-1850509018)
 - [Lifehacker] [Make This Creamy Vinaigrette](https://lifehacker.com/make-this-creamy-vinaigrette-1850530811)
 - [Lifehacker] [Use Crushed Cookies on Your Next Crumb Cake](https://lifehacker.com/use-crushed-cookies-on-your-next-crumb-cake-1850530134)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Meet Om Startup Framework: 🚀 Your Swiss Army Knife as a Full Stack Ninja ✨](https://dev.to/rajesh_singh_1989/meet-om-framework-your-swiss-army-knife-as-a-full-stack-ninja-22me)
 - [Dev.to/JS] [Become a Full Stack Developer: Best Courses and Resources](https://dev.to/ahanash46390872/become-a-full-stack-developer-best-courses-and-resources-125a)
 - [Lifehacker] [You Only Need Two Trader Joe&#39;s Ingredients to Make This Quick, Cheap Noodle Bowl](https://lifehacker.com/you-only-need-two-trader-joes-ingredients-to-make-this-1850524888)
-- [Dev.to/JS] [ESLint plugin for sorting objects, imports, types, enums, JSX props, etc.](https://dev.to/azat_io/eslint-plugin-for-sorting-objects-imports-types-enums-jsx-props-etc-291d)
 - [Lifehacker] [The Best Way to Time a Rideshare at the Airport](https://lifehacker.com/the-best-way-to-time-a-rideshare-at-the-airport-1850527909)
 - [Lifehacker] [The Kinds of Bones Unsafe for Dogs](https://lifehacker.com/the-kinds-of-bones-unsafe-for-dogs-1850524517)
 - [Lifehacker] [Why Your Favorite Subreddits Are Going Dark on June 12 [Updated]](https://lifehacker.com/why-your-favorite-subreddits-are-going-dark-on-june-12-1850521188)
