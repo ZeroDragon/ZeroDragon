@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Playing a full song, almost](https://dev.to/atornblad/playing-a-full-song-almost-48k)
+- [Dev.to/JS] [Hoisting with let and const](https://dev.to/indracit/hoisting-with-let-and-const-1pi4)
+- [Dev.to/JS] [Diagram editor dgrm.net / Announcement / action history](https://dev.to/alexboyko/diagram-editor-dgrmnet-announcement-action-history-1lep)
+- [Dev.to/JS] [Filter News API Data By Language and Country With NewsData.io](https://dev.to/newsdataio/filter-news-api-data-by-language-and-country-with-newsdataio-1geo)
 - [Dev.to/JS] [6 React Projects Every Developer Must Create](https://dev.to/scofieldidehen/6-react-projects-every-developer-must-create-2c3b)
 - [Dev.to/JS] [Arrays and Dynamic Arrays: Unleashing the Power of Data Storage and Manipulation](https://dev.to/danities316/arrays-and-dynamic-arrays-unleashing-the-power-of-data-storage-and-manipulation-5amd)
 - [Dev.to/JS] [TypeScript with React: The Ultimate Crash Course](https://dev.to/drtcode/typescript-with-react-the-ultimate-crash-course-4n09)
@@ -31,15 +35,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript Interfaces: Embrace the Flexibility - With Challenges](https://dev.to/bobbyhalljr/typescript-interfaces-embrace-the-flexibility-with-challenges-1h8a)
 - [Dev.to/JS] [Make a Factory: Creating Tests and Stories with Factory Functions in TypeScript and React](https://dev.to/mattu/make-a-factory-creating-reliable-tests-with-factory-functions-in-typescript-and-react-eh)
 - [Dev.to/JS] [Fast Matrix Math in JS 3: WebGL/WebGPU](https://dev.to/ndesmic/fast-matrix-math-in-js-3-webglwebgpu-4e0l)
-- [Dev.to/JS] [Functional Programming with Javascript](https://dev.to/gustavogomesdev/functional-programming-with-javascript-4jk7)
 - [Lifehacker] [This Toybox 3D Printer for Kids Is on Sale Right Now](https://lifehacker.com/this-toybox-3d-printer-for-kids-is-on-sale-right-now-1850509018)
 - [Lifehacker] [Make This Creamy Vinaigrette](https://lifehacker.com/make-this-creamy-vinaigrette-1850530811)
 - [Lifehacker] [Use Crushed Cookies on Your Next Crumb Cake](https://lifehacker.com/use-crushed-cookies-on-your-next-crumb-cake-1850530134)
-- [Dev.to/JS] [React Todo Example App: Building a Full-Stack Application with User Authentication and Codehooks.io NoSQL backend](https://dev.to/restdbjones/react-todo-example-app-building-a-full-stack-application-with-user-authentication-and-codehooksio-nosql-database-73p)
 - [Lifehacker] [You Can Play &#39;Elden Ring&#39; and &#39;Hogwarts Legacy&#39; on a MacBook Right Now](https://lifehacker.com/you-can-play-windows-games-on-apple-silicon-right-now-1850530163)
-- [Dev.to/JS] [Understanding &quot;some&quot; and &quot;every&quot; Array Methods in Javascript](https://dev.to/thinkeramir/understanding-some-and-every-array-methods-in-javascript-59fh)
 - [Lifehacker] [How to Keep a Swimsuit Clean Without Damaging It](https://lifehacker.com/how-to-keep-a-swimsuit-clean-without-damaging-it-1850530365)
-- [Dev.to/JS] [Dog Food Website](https://dev.to/gururaj-math/dog-food-website-3pm)
 - [Lifehacker] [You Can Get a $100 Restaurant.com Gift Card for $14 Right Now](https://lifehacker.com/you-can-get-a-100-restaurant-com-gift-card-for-14-rig-1850509027)
 - [Lifehacker] [Claim Your Share of This Google Class Action Settlement](https://lifehacker.com/claim-your-share-of-this-google-class-action-settlement-1850529925)
 - [Lifehacker] [Please Don&#39;t Clean Your Car Seats With Shaving Cream](https://lifehacker.com/please-dont-clean-your-car-seats-with-shaving-cream-1850529912)
