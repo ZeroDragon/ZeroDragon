@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Arrays and Dynamic Arrays: Unleashing the Power of Data Storage and Manipulation](https://dev.to/danities316/arrays-and-dynamic-arrays-unleashing-the-power-of-data-storage-and-manipulation-5amd)
+- [Dev.to/JS] [TypeScript with React: The Ultimate Crash Course](https://dev.to/drtcode/typescript-with-react-the-ultimate-crash-course-4n09)
+- [Dev.to/JS] [100 Days Coding Challenge - Day 24: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-24-freecodecamp-javascript-algorithms-and-data-structures-php-455i)
 - [Dev.to/JS] [Beef Noodle, a project template for developing HTTPS REST API endpoints in NodeJS](https://dev.to/jared201/beef-noodle-a-project-template-for-developing-https-rest-api-endpoints-in-nodejs-324m)
 - [Dev.to/JS] [TypeScript Interfaces: Embrace the Flexibility - With Challenges](https://dev.to/bobbyhalljr/typescript-interfaces-embrace-the-flexibility-with-challenges-1h8a)
 - [Dev.to/JS] [Make a Factory: Creating Tests and Stories with Factory Functions in TypeScript and React](https://dev.to/mattu/make-a-factory-creating-reliable-tests-with-factory-functions-in-typescript-and-react-eh)
@@ -39,13 +42,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a $100 Restaurant.com Gift Card for $14 Right Now](https://lifehacker.com/you-can-get-a-100-restaurant-com-gift-card-for-14-rig-1850509027)
 - [Dev.to/JS] [Class Is Out: Embracing Functional Components in Modern React Development](https://dev.to/svper563/class-is-out-embracing-functional-components-in-modern-react-development-526a)
 - [Lifehacker] [Claim Your Share of This Google Class Action Settlement](https://lifehacker.com/claim-your-share-of-this-google-class-action-settlement-1850529925)
-- [Dev.to/JS] [We fixed react context 🚀. Using selectors for granular reactivity](https://dev.to/abdadeel/we-fixed-react-context-using-selectors-for-granular-reactivity-3743)
-- [Dev.to/JS] [Google OAuth2 for Dummies](https://dev.to/fredysandoval/google-oauth2-for-dummies-4bl1)
 - [Lifehacker] [Please Don&#39;t Clean Your Car Seats With Shaving Cream](https://lifehacker.com/please-dont-clean-your-car-seats-with-shaving-cream-1850529912)
 - [Lifehacker] [Regularly Audit These Areas of Your Home to Stop Overbuying](https://lifehacker.com/regularly-audit-these-areas-of-your-home-to-stop-overbu-1850529816)
 - [Lifehacker] [How to Repair a Broken Tile If You Don’t Have Any Extra](https://lifehacker.com/how-to-repair-a-broken-tile-if-you-don-t-have-any-extra-1850529510)
 - [Lifehacker] [10 Podcasts That Are Totally Bonkers](https://lifehacker.com/10-podcasts-that-are-totally-bonkers-1850526172)
-- [Dev.to/JS] [Nextjs Dashboard](https://dev.to/katongole_isaac/nextjs-dashboard-3pd8)
 - [Lifehacker] [These Fall and Winter Flights to Europe Are on Sale Right Now](https://lifehacker.com/these-fall-and-winter-flights-to-europe-are-on-sale-rig-1850529083)
 - [Lifehacker] [You Only Need Two Trader Joe&#39;s Ingredients to Make This Quick, Cheap Noodle Bowl](https://lifehacker.com/you-only-need-two-trader-joes-ingredients-to-make-this-1850524888)
 - [Lifehacker] [The Best Way to Time a Rideshare at the Airport](https://lifehacker.com/the-best-way-to-time-a-rideshare-at-the-airport-1850527909)
