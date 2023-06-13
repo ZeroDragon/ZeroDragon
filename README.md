@@ -23,11 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Birthday Cake Waffles Are Almost Too Easy](https://lifehacker.com/these-birthday-cake-waffles-are-almost-too-easy-1850535118)
+- [Dev.to/JS] [Exploring Infinite Scroll Techniques in react](https://dev.to/vishnusatheesh/exploring-infinite-scroll-techniques-in-react-1bn0)
+- [Lifehacker] [This Amazon and Spotify Dropshipping Course Is $30 Right Now](https://lifehacker.com/this-amazon-and-spotify-dropshipping-course-is-30-righ-1850509035)
 - [Lifehacker] [Ramen-Fried Eggs Are a Textural Delight](https://lifehacker.com/ramen-fried-eggs-are-a-textural-delight-1850534653)
 - [Dev.to/JS] [Creating an Interactive Contact Form with HTML, CSS, and JavaScript](https://dev.to/getsmartwebsite/creating-an-interactive-contact-form-with-html-css-and-javascript-4g7o)
 - [Lifehacker] [Try ‘Connections’ If You’re Bored With Wordle](https://lifehacker.com/try-connections-if-you-re-bored-with-wordle-1850534478)
 - [Dev.to/JS] [How to check whether a string contains a substring in JavaScript?](https://dev.to/irishgeoff11/how-to-check-whether-a-string-contains-a-substring-in-javascript-25eo)
-- [Dev.to/JS] [Using Node.js to Dynamically add HTML Content](https://dev.to/bellsofaba/using-nodejs-to-dynamically-add-html-content-p3e)
 - [Lifehacker] [When You Should Use a Lease Guarantor Company &lpar;and When You Shouldn’t&rpar;](https://lifehacker.com/here-s-when-you-should-use-a-lease-guarantor-company-a-1850534130)
 - [Lifehacker] [Stop Strava From Revealing Your Home Address](https://lifehacker.com/stop-strava-from-revealing-your-home-address-1850533685)
 - [Dev.to/JS] [Deploying Next.js 13 apps to Netlify: Switching out an existing React app](https://dev.to/mayorstacks/deploying-nextjs-13-apps-to-netlify-switching-out-an-existing-react-app-jep)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Repair a Broken Tile If You Don’t Have Any Extra](https://lifehacker.com/how-to-repair-a-broken-tile-if-you-don-t-have-any-extra-1850529510)
 - [Lifehacker] [10 Podcasts That Are Totally Bonkers](https://lifehacker.com/10-podcasts-that-are-totally-bonkers-1850526172)
 - [Lifehacker] [These Fall and Winter Flights to Europe Are on Sale Right Now](https://lifehacker.com/these-fall-and-winter-flights-to-europe-are-on-sale-rig-1850529083)
-- [Lifehacker] [You Only Need Two Trader Joe&#39;s Ingredients to Make This Quick, Cheap Noodle Bowl](https://lifehacker.com/you-only-need-two-trader-joes-ingredients-to-make-this-1850524888)
-- [Lifehacker] [The Best Way to Time a Rideshare at the Airport](https://lifehacker.com/the-best-way-to-time-a-rideshare-at-the-airport-1850527909)
-- [Lifehacker] [The Kinds of Bones Unsafe for Dogs](https://lifehacker.com/the-kinds-of-bones-unsafe-for-dogs-1850524517)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Only Need Two Trader Joe&#39;s Ingredients to Make This Quick, Cheap Noodle Bowl](https://lifehacker.com/you-only-need-two-trader-joes-ingredients-to-make-this-1850524888)<!-- TECH-POSTS:END -->
 
 ---
 
