@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Array Iterations - What makes them so useful?](https://dev.to/jucheng925/array-iterations-what-makes-them-so-useful-ha6)
+- [Dev.to/JS] [Top 11 .NET Libraries Every Developer Should Know](https://dev.to/sardarmudassaralikhan/top-11-net-libraries-every-developer-should-know-3hb3)
+- [Dev.to/JS] [How to create an automated test suite - get from 0 to 90% code coverage with a single command and GPT-4](https://dev.to/zvone187/how-to-create-an-automated-test-suite-get-from-0-to-90-code-coverage-with-a-single-command-and-gpt-4-2kjp)
+- [Lifehacker] [When You Can Eat Fish From City Rivers &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-can-eat-fish-from-city-rivers-and-when-you-sh-1850532603)
+- [Dev.to/JS] [Enhance Your Code: CodiumAI’s Automated Analysis and Suggestions for Python and JavaScript](https://dev.to/tomaszs2/enhance-your-code-codiumais-automated-analysis-and-suggestions-for-python-and-javascript-1071)
+- [Dev.to/JS] [Compound Component Design Pattern in React](https://dev.to/ollaworld/compound-component-design-pattern-in-react-5hj)
+- [Lifehacker] [How to Make Your Impostor Syndrome Work for You](https://lifehacker.com/how-to-make-your-impostor-syndrome-work-for-you-1850524094)
+- [Dev.to/JS] [JSON serialization benchmarks in JavaScript](https://dev.to/streamich/json-serialization-benchmarks-in-javascript-oik)
 - [Dev.to/JS] [How to create a progress bar that will only increase](https://dev.to/nikitadmitr/how-to-create-a-progress-bar-that-will-only-increase-2a29)
 - [Lifehacker] [This 244-Hour Coding Crash Course Is 74% Off Right Now](https://lifehacker.com/this-244-hour-coding-crash-course-is-74-off-right-now-1850509012)
 - [Dev.to/JS] [A quick and easy guide to creating a sitemap for a Next.js site](https://dev.to/mikeyoung44/a-quick-and-easy-guide-to-creating-a-sitemap-for-a-nextjs-site-230)
@@ -32,13 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Poach an Egg in Maple Syrup](https://lifehacker.com/you-should-poach-an-egg-in-maple-syrup-1850532021)
 - [Lifehacker] [Five Asian Sauces That Make Everything Taste Better](https://lifehacker.com/five-asian-sauces-that-make-everything-taste-better-1850531565)
 - [Dev.to/JS] [How to Become a Better Programmer: Essential Steps for Growth](https://dev.to/techow99/how-to-become-a-better-programmer-essential-steps-for-growth-3430)
-- [Dev.to/JS] [Encouraging girls towards code with girls.js Poznań](https://dev.to/girlsgotech/join-girlsjs-poznan-4kkk)
-- [Dev.to/JS] [CRUD In Asp.NET Core Using Dapper With Practical Example](https://dev.to/sardarmudassaralikhan/crud-in-aspnet-core-using-dapper-with-practical-example-396n)
 - [Lifehacker] [What Is a ‘Compounding Pharmacy’ &lpar;and When Do You Need One&rpar;?](https://lifehacker.com/what-is-a-compounding-pharmacy-and-when-do-you-need-1850529482)
-- [Dev.to/JS] [REST Sharp in Asp.net Core Web API](https://dev.to/sardarmudassaralikhan/rest-sharp-in-aspnet-core-web-api-i07)
-- [Dev.to/JS] [Announcing A Dedicated Dev](https://dev.to/starbist/announcing-a-dedicated-dev-nno)
-- [Dev.to/JS] [Get Data from Third Party API In Asp.net Core Web API](https://dev.to/sardarmudassaralikhan/get-data-from-third-party-api-in-aspnet-core-web-api-g5h)
-- [Dev.to/JS] [Send data to third party in Asp.net core](https://dev.to/sardarmudassaralikhan/send-data-to-third-party-in-aspnet-core-lml)
 - [Lifehacker] [This Toybox 3D Printer for Kids Is on Sale Right Now](https://lifehacker.com/this-toybox-3d-printer-for-kids-is-on-sale-right-now-1850509018)
 - [Lifehacker] [Make This Creamy Vinaigrette](https://lifehacker.com/make-this-creamy-vinaigrette-1850530811)
 - [Lifehacker] [Use Crushed Cookies on Your Next Crumb Cake](https://lifehacker.com/use-crushed-cookies-on-your-next-crumb-cake-1850530134)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Summer Meal Plan Every Parent Needs](https://lifehacker.com/the-summer-meal-plan-every-parent-needs-1850522999)
 - [Lifehacker] [The Difference Between 2- and 3-Prong Electrical Plugs &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-2-and-3-prong-electrical-plugs-1850523488)
 - [Lifehacker] [The Best Plants to Use as &#39;Green Mulch&#39;](https://lifehacker.com/the-best-plants-to-use-as-green-mulch-1850523468)
-- [Lifehacker] [What to Put in Your Survival Kit, According to Bear Grylls](https://lifehacker.com/what-to-put-in-your-survival-kit-according-to-bear-gry-1850523514)
-- [Lifehacker] [These Are the Best Father&#39;s Day Food Deals and Freebies](https://lifehacker.com/these-are-the-best-fathers-day-food-deals-and-freebies-1850523613)
-- [Lifehacker] [The Smartest Ways to De-escalate Conflicts at Work](https://lifehacker.com/the-smartest-ways-to-de-escalate-conflicts-at-work-1850523609)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Put in Your Survival Kit, According to Bear Grylls](https://lifehacker.com/what-to-put-in-your-survival-kit-according-to-bear-gry-1850523514)<!-- TECH-POSTS:END -->
 
 ---
 
