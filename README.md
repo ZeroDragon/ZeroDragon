@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building an npm package in 2023](https://dev.to/seven/building-an-npm-package-in-2023-10l4)
+- [Dev.to/JS] [Required in Typescript](https://dev.to/shnap/required-in-typescript-2hcc)
 - [Dev.to/JS] [Tin tức review online](https://dev.to/tintucbaptop/tin-tuc-review-online-3o5b)
 - [Dev.to/JS] [Javascript on string](https://dev.to/abahicana/javascript-on-string-2366)
 - [Dev.to/JS] [Hungry for Dev insights and shaping the future trends?](https://dev.to/developernationsurvey/hungry-for-dev-insights-and-shaping-the-future-trends-2nnp)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [RxJS Operators: map](https://dev.to/drownedintech/rxjs-operators-map-4efc)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 25: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-25-freecodecamp-javascript-algorithms-and-data-structures-3ko2)
 - [Dev.to/JS] [A Comprehensive Guide to React Hooks: Simplifying State and Side Effects](https://dev.to/kingsley/a-comprehensive-guide-to-react-hooks-simplifying-state-and-side-effects-39f3)
-- [Dev.to/JS] [It&#39;s time to replace your axios](https://dev.to/coderhu/its-time-to-replace-your-axios-143p)
-- [Dev.to/JS] [Which frontend &amp; backend framework are you using for your application?](https://dev.to/rajesh_singh_1989/which-frontend-backend-framework-are-you-using-for-your-application-5dp2)
 - [Lifehacker] [Three Ways a Pillowcase Can Keep Your House a Little Cleaner](https://lifehacker.com/three-ways-a-pillowcase-can-keep-your-house-a-little-cl-1850535132)
 - [Lifehacker] [Three Things You Should Do Before Deleting Your Reddit Account](https://lifehacker.com/three-things-you-should-do-before-deleting-your-reddit-1850534879)
 - [Lifehacker] [These Birthday Cake Waffles Are Almost Too Easy](https://lifehacker.com/these-birthday-cake-waffles-are-almost-too-easy-1850535118)
