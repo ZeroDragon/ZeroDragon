@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Three Things You Should Do With That Crusty Maple Syrup Bottle &lpar;Before Tossing It&rpar;](https://lifehacker.com/three-things-you-should-do-with-that-crusty-maple-syrup-1850536539)
+- [Dev.to/JS] [Introducing Jobify: Bridging the Gap between Job Seekers and Opportunities](https://dev.to/eunice_dev/introducing-jobify-bridging-the-gap-between-job-seekers-and-opportunities-5gc)
 - [Dev.to/JS] [Good logging library for node.js?](https://dev.to/malezjaa/good-logging-library-for-nodejs-47kb)
 - [Lifehacker] [Relive the Internet of the ’90s With ‘Neocities’](https://lifehacker.com/relive-the-internet-of-the-90s-with-neocities-1850540482)
 - [Crazy Programmer] [Claude Shannon Biography](https://www.thecrazyprogrammer.com/2023/06/claude-shannon-biography.html)
@@ -42,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sell your products online with one API call; A technical guide to ClickPesa checkout link integration](https://dev.to/clickpesa/sell-your-products-online-with-one-api-call-a-technical-guide-to-clickpesa-checkout-link-integration-4ncm)
 - [Lifehacker] [What to Do About Your Trauma-Based &#39;Hyper Independence&#39;](https://lifehacker.com/what-to-do-about-your-trauma-based-hyper-independence-1850538921)
 - [Dev.to/JS] [Mastering the Fetch API: A Comprehensive Guide to Modern Web Data Retrieval](https://dev.to/kelvinguchu/mastering-the-fetch-api-a-comprehensive-guide-to-modern-web-data-retrieval-3efo)
-- [Dev.to/JS] [Angular in 15 days](https://dev.to/hamsof/angular-in-15-days-3i93)
 - [Lifehacker] [This Cybersecurity and IT Skills Course Is Over 90% Off Right Now](https://lifehacker.com/this-cybersecurity-and-it-skills-course-is-over-90-off-1850509047)
 - [Lifehacker] [Learn ChatGPT Basics With This $20 Course](https://lifehacker.com/learn-chatgpt-basics-with-this-20-course-1850509044)
 - [Lifehacker] [Roll Up Your Google Search Results With This ‘Katamari’ Minigame](https://lifehacker.com/roll-up-your-google-search-results-with-this-katamari-1850538490)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Try ‘Connections’ If You’re Bored With Wordle](https://lifehacker.com/try-connections-if-you-re-bored-with-wordle-1850534478)
 - [Lifehacker] [When You Should Use a Lease Guarantor Company &lpar;and When You Shouldn’t&rpar;](https://lifehacker.com/here-s-when-you-should-use-a-lease-guarantor-company-a-1850534130)
 - [Lifehacker] [Stop Strava From Revealing Your Home Address](https://lifehacker.com/stop-strava-from-revealing-your-home-address-1850533685)
-- [Lifehacker] [This Geminos Stacked Dual Monitor Is $100 Off Right Now](https://lifehacker.com/this-geminos-stacked-dual-monitor-is-100-off-right-now-1850509030)
-- [Lifehacker] [Use &#39;Social Stories&#39; to Help Kids Navigate Big Transitions](https://lifehacker.com/use-social-stories-to-help-kids-navigate-big-transition-1850531574)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Geminos Stacked Dual Monitor Is $100 Off Right Now](https://lifehacker.com/this-geminos-stacked-dual-monitor-is-100-off-right-now-1850509030)<!-- TECH-POSTS:END -->
 
 ---
 
