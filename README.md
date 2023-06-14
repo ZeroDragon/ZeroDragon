@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [State In React Js.](https://dev.to/cybermaxi7/state-in-react-js-52fg)
+- [Dev.to/JS] [Time to Transition](https://dev.to/bealecs/time-to-transition-54o1)
 - [Lifehacker] [Three Things You Should Do With That Crusty Maple Syrup Bottle &lpar;Before Tossing It&rpar;](https://lifehacker.com/three-things-you-should-do-with-that-crusty-maple-syrup-1850536539)
 - [Dev.to/JS] [Introducing Jobify: Bridging the Gap between Job Seekers and Opportunities](https://dev.to/eunice_dev/introducing-jobify-bridging-the-gap-between-job-seekers-and-opportunities-5gc)
 - [Dev.to/JS] [Good logging library for node.js?](https://dev.to/malezjaa/good-logging-library-for-nodejs-47kb)
@@ -41,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best 7 Open-source projects built with Node.js / React.js](https://dev.to/saurav_kumar/best-7-open-source-projects-built-with-nodejs-reactjs-52p7)
 - [Dev.to/JS] [BudPay: Empowering Global Businesses with Borderless Payment Solutions](https://dev.to/devsuite/budpay-empowering-global-businesses-with-borderless-payment-solutions-ni3)
 - [Lifehacker] [The Reddit Blackout Is Over, but the Protest Isn’t](https://lifehacker.com/the-reddit-blackout-is-over-but-the-protest-isn-t-1850539204)
-- [Dev.to/JS] [Sell your products online with one API call; A technical guide to ClickPesa checkout link integration](https://dev.to/clickpesa/sell-your-products-online-with-one-api-call-a-technical-guide-to-clickpesa-checkout-link-integration-4ncm)
 - [Lifehacker] [What to Do About Your Trauma-Based &#39;Hyper Independence&#39;](https://lifehacker.com/what-to-do-about-your-trauma-based-hyper-independence-1850538921)
-- [Dev.to/JS] [Mastering the Fetch API: A Comprehensive Guide to Modern Web Data Retrieval](https://dev.to/kelvinguchu/mastering-the-fetch-api-a-comprehensive-guide-to-modern-web-data-retrieval-3efo)
 - [Lifehacker] [This Cybersecurity and IT Skills Course Is Over 90% Off Right Now](https://lifehacker.com/this-cybersecurity-and-it-skills-course-is-over-90-off-1850509047)
 - [Lifehacker] [Learn ChatGPT Basics With This $20 Course](https://lifehacker.com/learn-chatgpt-basics-with-this-20-course-1850509044)
 - [Lifehacker] [Roll Up Your Google Search Results With This ‘Katamari’ Minigame](https://lifehacker.com/roll-up-your-google-search-results-with-this-katamari-1850538490)
