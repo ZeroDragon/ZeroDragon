@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Secure Your JavaScript Applications](https://dev.to/devland/how-to-secure-your-javascript-applications-1pfg)
+- [Dev.to/JS] [Nextjs: How to get url in getInitialProps](https://dev.to/greggcbs/how-to-get-url-getinitialprops-in-nextjs-1no2)
+- [Dev.to/JS] [Guide des méthodes JS [chaînes de caractères]](https://dev.to/kureru/guide-des-methodes-js-chaines-de-caracteres-522c)
 - [Dev.to/JS] [Building an npm package in 2023](https://dev.to/seven/building-an-npm-package-in-2023-10l4)
 - [Dev.to/JS] [Required in Typescript](https://dev.to/shnap/required-in-typescript-2hcc)
 - [Dev.to/JS] [Tin tức review online](https://dev.to/tintucbaptop/tin-tuc-review-online-3o5b)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lottie under the hood](https://dev.to/stepancar/lottie-under-the-hood-4gik)
 - [Dev.to/JS] [Implementing looping and the first effects](https://dev.to/atornblad/implementing-looping-and-the-first-effects-16p1)
 - [Dev.to/JS] [Weekly web development resources #153](https://dev.to/vincenius/weekly-web-development-resources-153-38jg)
-- [Dev.to/JS] [RxJS Operators: map](https://dev.to/drownedintech/rxjs-operators-map-4efc)
-- [Dev.to/JS] [100 Days Coding Challenge - Day 25: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-25-freecodecamp-javascript-algorithms-and-data-structures-3ko2)
-- [Dev.to/JS] [A Comprehensive Guide to React Hooks: Simplifying State and Side Effects](https://dev.to/kingsley/a-comprehensive-guide-to-react-hooks-simplifying-state-and-side-effects-39f3)
 - [Lifehacker] [Three Ways a Pillowcase Can Keep Your House a Little Cleaner](https://lifehacker.com/three-ways-a-pillowcase-can-keep-your-house-a-little-cl-1850535132)
 - [Lifehacker] [Three Things You Should Do Before Deleting Your Reddit Account](https://lifehacker.com/three-things-you-should-do-before-deleting-your-reddit-1850534879)
 - [Lifehacker] [These Birthday Cake Waffles Are Almost Too Easy](https://lifehacker.com/these-birthday-cake-waffles-are-almost-too-easy-1850535118)
