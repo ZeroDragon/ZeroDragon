@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Organize Your Fridge Like a Grown-Up](https://lifehacker.com/how-to-organize-your-fridge-like-a-grown-up-1850535671)
+- [Dev.to/JS] [Looking Up React Components Props Types](https://dev.to/this-is-learning/looking-up-react-components-props-types-3k0n)
+- [Dev.to/JS] [Protecting Your Codebase: How to Identify and Mitigate SAST Vulnerabilities](https://dev.to/supratipb/protecting-your-codebase-how-to-identify-and-mitigate-sast-vulnerabilities-3lmf)
+- [Dev.to/JS] [How to upload files to the server using JavaScript](https://dev.to/salvietta150x40/how-to-upload-files-to-the-server-using-javascript-4lo5)
+- [Dev.to/JS] [TypeScript, Zod, and MongoDB: A Guide to Data Access Layer without ORM](https://dev.to/zzdjk6/typescript-zod-and-mongodb-a-guide-to-orm-free-data-access-layers-2ah5)
 - [Dev.to/JS] [How To Secure Your JavaScript Applications](https://dev.to/devland/how-to-secure-your-javascript-applications-1pfg)
 - [Dev.to/JS] [Nextjs: How to get url in getInitialProps](https://dev.to/greggcbs/how-to-get-url-getinitialprops-in-nextjs-1no2)
 - [Dev.to/JS] [Guide des méthodes JS [chaînes de caractères]](https://dev.to/kureru/guide-des-methodes-js-chaines-de-caracteres-522c)
 - [Dev.to/JS] [Building an npm package in 2023](https://dev.to/seven/building-an-npm-package-in-2023-10l4)
 - [Dev.to/JS] [Required in Typescript](https://dev.to/shnap/required-in-typescript-2hcc)
-- [Dev.to/JS] [Tin tức review online](https://dev.to/tintucbaptop/tin-tuc-review-online-3o5b)
 - [Dev.to/JS] [Javascript on string](https://dev.to/abahicana/javascript-on-string-2366)
 - [Dev.to/JS] [Hungry for Dev insights and shaping the future trends?](https://dev.to/developernationsurvey/hungry-for-dev-insights-and-shaping-the-future-trends-2nnp)
 - [Dev.to/JS] [What is the point of unit tests?](https://dev.to/irishgeoff11/what-is-the-point-of-unit-tests-l7f)
-- [Dev.to/JS] [Lottie under the hood](https://dev.to/stepancar/lottie-under-the-hood-4gik)
-- [Dev.to/JS] [Implementing looping and the first effects](https://dev.to/atornblad/implementing-looping-and-the-first-effects-16p1)
-- [Dev.to/JS] [Weekly web development resources #153](https://dev.to/vincenius/weekly-web-development-resources-153-38jg)
 - [Lifehacker] [Three Ways a Pillowcase Can Keep Your House a Little Cleaner](https://lifehacker.com/three-ways-a-pillowcase-can-keep-your-house-a-little-cl-1850535132)
 - [Lifehacker] [Three Things You Should Do Before Deleting Your Reddit Account](https://lifehacker.com/three-things-you-should-do-before-deleting-your-reddit-1850534879)
 - [Lifehacker] [These Birthday Cake Waffles Are Almost Too Easy](https://lifehacker.com/these-birthday-cake-waffles-are-almost-too-easy-1850535118)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Claim Your Share of This Google Class Action Settlement](https://lifehacker.com/claim-your-share-of-this-google-class-action-settlement-1850529925)
 - [Lifehacker] [Please Don&#39;t Clean Your Car Seats With Shaving Cream](https://lifehacker.com/please-dont-clean-your-car-seats-with-shaving-cream-1850529912)
 - [Lifehacker] [Regularly Audit These Areas of Your Home to Stop Overbuying](https://lifehacker.com/regularly-audit-these-areas-of-your-home-to-stop-overbu-1850529816)
-- [Lifehacker] [How to Repair a Broken Tile If You Don’t Have Any Extra](https://lifehacker.com/how-to-repair-a-broken-tile-if-you-don-t-have-any-extra-1850529510)
-- [Lifehacker] [10 Podcasts That Are Totally Bonkers](https://lifehacker.com/10-podcasts-that-are-totally-bonkers-1850526172)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Repair a Broken Tile If You Don’t Have Any Extra](https://lifehacker.com/how-to-repair-a-broken-tile-if-you-don-t-have-any-extra-1850529510)<!-- TECH-POSTS:END -->
 
 ---
 
