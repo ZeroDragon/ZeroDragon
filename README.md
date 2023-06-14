@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Best Ways To Use ChatGPT &lpar;With Examples&rpar;](https://dev.to/durgesh4993/10-best-ways-to-use-chatgpt-with-examples-1e42)
+- [Dev.to/JS] [LOST VIRGINITY TO TECHNICAL WRITING](https://dev.to/keneangel/lost-virginity-to-technical-writing-k4n)
 - [Dev.to/JS] [Getting started with JavaScript for complete beginners](https://dev.to/bansikah/getting-started-with-javascript-for-complete-beginners-3del)
 - [Dev.to/JS] [Why you shouldn&#39;t mix ES Modules and CommonJS](https://dev.to/darkmavis1980/why-you-shouldnt-mix-es-modules-and-commonjs-import-statements-56fc)
 - [Dev.to/JS] [Build A Reusable Carousel With React And Splide.js](https://dev.to/femi_dev/build-a-reusable-carousel-with-react-and-splidejs-422h)
@@ -34,10 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Después de un descanso…](https://dev.to/srparis/despues-de-un-descanso-151o)
 - [Dev.to/JS] [Optimistic UI: Enhancing User Experience in React with React Query](https://dev.to/wolfflucas/optimistic-ui-enhancing-user-experience-in-react-with-react-query-3033)
 - [Lifehacker] [Three Ways a Pillowcase Can Keep Your House a Little Cleaner](https://lifehacker.com/three-ways-a-pillowcase-can-keep-your-house-a-little-cl-1850535132)
-- [Dev.to/JS] [Next-Level Technical Blogging with Dev.to API](https://dev.to/areknawo/next-level-technical-blogging-with-devto-api-12jl)
 - [Lifehacker] [Three Things You Should Do Before Deleting Your Reddit Account](https://lifehacker.com/three-things-you-should-do-before-deleting-your-reddit-1850534879)
 - [Lifehacker] [These Birthday Cake Waffles Are Almost Too Easy](https://lifehacker.com/these-birthday-cake-waffles-are-almost-too-easy-1850535118)
-- [Dev.to/JS] [Exploring Infinite Scroll Techniques in react](https://dev.to/vishnusatheesh/exploring-infinite-scroll-techniques-in-react-1bn0)
 - [Lifehacker] [This Amazon and Spotify Dropshipping Course Is $30 Right Now](https://lifehacker.com/this-amazon-and-spotify-dropshipping-course-is-30-righ-1850509035)
 - [Lifehacker] [Ramen-Fried Eggs Are a Textural Delight](https://lifehacker.com/ramen-fried-eggs-are-a-textural-delight-1850534653)
 - [Lifehacker] [Try ‘Connections’ If You’re Bored With Wordle](https://lifehacker.com/try-connections-if-you-re-bored-with-wordle-1850534478)
