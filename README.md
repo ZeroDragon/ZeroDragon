@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Crazy Programmer] [Claude Shannon Biography](https://www.thecrazyprogrammer.com/2023/06/claude-shannon-biography.html)
+- [Dev.to/JS] [Some More JavaScript Array Methods #15](https://dev.to/sksage/some-more-javascript-array-methods-18-4d4n)
+- [Lifehacker] [Replace Mayo With Brine for a Better Tuna Salad](https://lifehacker.com/replace-mayo-with-brine-for-a-better-tuna-salad-1850540058)
+- [Dev.to/JS] [The next era of databases are serverless, adaptive, and collaborative](https://dev.to/xata/the-next-era-of-databases-are-serverless-adaptive-and-collaborative-47h8)
+- [Lifehacker] [People Sure Are Bad at Creating Passwords](https://lifehacker.com/people-sure-are-bad-at-creating-passwords-1850539358)
 - [Dev.to/JS] [TypeScript: The Coolest Kid on the Web Development Block! 🚀🔥](https://dev.to/jcwieme/typescript-the-coolest-kid-on-the-web-development-block-1olc)
 - [Dev.to/JS] [Changing tab-index with DOM Manipulation in React](https://dev.to/harshitagupta/changing-tab-index-with-dom-manipulation-in-react-2763)
 - [Lifehacker] [The Easiest Ways to Signal That You Don’t Want Any Interruptions at Work](https://lifehacker.com/the-easiest-ways-to-signal-that-you-don-t-want-any-inte-1850539721)
@@ -38,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular in 15 days](https://dev.to/hamsof/angular-in-15-days-3i93)
 - [Dev.to/JS] [Dino run evolved into Nezuko run😼](https://dev.to/akilesh/dino-run-evolved-into-nezuko-run-115g)
 - [Lifehacker] [This Cybersecurity and IT Skills Course Is Over 90% Off Right Now](https://lifehacker.com/this-cybersecurity-and-it-skills-course-is-over-90-off-1850509047)
-- [Dev.to/JS] [Angular Code Structuring and Best Practices](https://dev.to/codecraftjs/angular-code-structuring-and-best-practices-nkd)
-- [Dev.to/JS] [10 Common Ways Engineers Use Webhook Gateways](https://dev.to/convoy/10-common-ways-engineers-use-webhook-gateways-45oj)
 - [Lifehacker] [Learn ChatGPT Basics With This $20 Course](https://lifehacker.com/learn-chatgpt-basics-with-this-20-course-1850509044)
 - [Lifehacker] [Roll Up Your Google Search Results With This ‘Katamari’ Minigame](https://lifehacker.com/roll-up-your-google-search-results-with-this-katamari-1850538490)
 - [Lifehacker] [What I Wish I&#39;d Known Before I Bought My Ruggable Rug](https://lifehacker.com/what-i-wish-id-known-before-i-bought-my-ruggable-rug-1850537539)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Strava From Revealing Your Home Address](https://lifehacker.com/stop-strava-from-revealing-your-home-address-1850533685)
 - [Lifehacker] [This Geminos Stacked Dual Monitor Is $100 Off Right Now](https://lifehacker.com/this-geminos-stacked-dual-monitor-is-100-off-right-now-1850509030)
 - [Lifehacker] [Use &#39;Social Stories&#39; to Help Kids Navigate Big Transitions](https://lifehacker.com/use-social-stories-to-help-kids-navigate-big-transition-1850531574)
-- [Lifehacker] [Seven Types of Insurance That Are Usually a Waste of Money](https://lifehacker.com/seven-types-of-insurance-that-are-usually-a-waste-of-mo-1850532298)
-- [Lifehacker] [When You Can Eat Fish From City Rivers &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-can-eat-fish-from-city-rivers-and-when-you-sh-1850532603)
-- [Lifehacker] [How to Make Your Impostor Syndrome Work for You](https://lifehacker.com/how-to-make-your-impostor-syndrome-work-for-you-1850524094)
-- [Lifehacker] [This 244-Hour Coding Crash Course Is 74% Off Right Now](https://lifehacker.com/this-244-hour-coding-crash-course-is-74-off-right-now-1850509012)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Seven Types of Insurance That Are Usually a Waste of Money](https://lifehacker.com/seven-types-of-insurance-that-are-usually-a-waste-of-mo-1850532298)<!-- TECH-POSTS:END -->
 
 ---
 
