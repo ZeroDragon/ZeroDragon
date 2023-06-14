@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tin tức review online](https://dev.to/tintucbaptop/tin-tuc-review-online-3o5b)
+- [Dev.to/JS] [Javascript on string](https://dev.to/abahicana/javascript-on-string-2366)
+- [Dev.to/JS] [Hungry for Dev insights and shaping the future trends?](https://dev.to/developernationsurvey/hungry-for-dev-insights-and-shaping-the-future-trends-2nnp)
 - [Dev.to/JS] [What is the point of unit tests?](https://dev.to/irishgeoff11/what-is-the-point-of-unit-tests-l7f)
 - [Dev.to/JS] [Lottie under the hood](https://dev.to/stepancar/lottie-under-the-hood-4gik)
 - [Dev.to/JS] [Implementing looping and the first effects](https://dev.to/atornblad/implementing-looping-and-the-first-effects-16p1)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Comprehensive Guide to React Hooks: Simplifying State and Side Effects](https://dev.to/kingsley/a-comprehensive-guide-to-react-hooks-simplifying-state-and-side-effects-39f3)
 - [Dev.to/JS] [It&#39;s time to replace your axios](https://dev.to/coderhu/its-time-to-replace-your-axios-143p)
 - [Dev.to/JS] [Which frontend &amp; backend framework are you using for your application?](https://dev.to/rajesh_singh_1989/which-frontend-backend-framework-are-you-using-for-your-application-5dp2)
-- [Dev.to/JS] [What Is Double Question Mark In JavaScript?](https://dev.to/mayallo/what-is-double-question-mark-in-javascript-775)
-- [Dev.to/JS] [How do I redirect to another webpage?](https://dev.to/irishgeoff11/how-do-i-redirect-to-another-webpage-3g26)
-- [Dev.to/JS] [Rapid Application Development and App Development Platforms Explained](https://dev.to/domfive/rapid-application-development-and-app-development-platforms-explained-131)
 - [Lifehacker] [Three Ways a Pillowcase Can Keep Your House a Little Cleaner](https://lifehacker.com/three-ways-a-pillowcase-can-keep-your-house-a-little-cl-1850535132)
 - [Lifehacker] [Three Things You Should Do Before Deleting Your Reddit Account](https://lifehacker.com/three-things-you-should-do-before-deleting-your-reddit-1850534879)
 - [Lifehacker] [These Birthday Cake Waffles Are Almost Too Easy](https://lifehacker.com/these-birthday-cake-waffles-are-almost-too-easy-1850535118)
