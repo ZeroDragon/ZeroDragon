@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rapid Application Development and App Development Platforms Explained](https://dev.to/domfive/rapid-application-development-and-app-development-platforms-explained-131)
+- [Dev.to/JS] [Guideline to Write Better &amp; Cleaner Code](https://dev.to/pierre/clean-javascript-code-1gc)
+- [Dev.to/JS] [Der Anfang](https://dev.to/liamparsons/der-anfang-46g1)
 - [Dev.to/JS] [10 Best Ways To Use ChatGPT &lpar;With Examples&rpar;](https://dev.to/durgesh4993/10-best-ways-to-use-chatgpt-with-examples-1e42)
 - [Dev.to/JS] [LOST VIRGINITY TO TECHNICAL WRITING](https://dev.to/keneangel/lost-virginity-to-technical-writing-k4n)
 - [Dev.to/JS] [Getting started with JavaScript for complete beginners](https://dev.to/bansikah/getting-started-with-javascript-for-complete-beginners-3del)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Make a Countdown App with React and date-fns](https://dev.to/michaellarocca/how-to-make-a-countdown-app-with-react-and-date-fns-467n)
 - [Dev.to/JS] [Exploring Web Rendering: Partial Hydration &lpar;a.k.a. “Islands”&rpar;](https://dev.to/mangs/exploring-web-rendering-partial-hydration-aka-islands-3n33)
 - [Dev.to/JS] [When JavaScript Thinks You&#39;re Imagining Things: An Unexpected Tale of Non-Existent References](https://dev.to/codetobug/when-javascript-thinks-youre-imagining-things-an-unexpected-tale-of-non-existent-references-oip)
-- [Dev.to/JS] [Instalando ExpressJS con NPM](https://dev.to/ulisesserranop/instalando-expressjs-con-npm-cj9)
-- [Dev.to/JS] [Después de un descanso…](https://dev.to/srparis/despues-de-un-descanso-151o)
-- [Dev.to/JS] [Optimistic UI: Enhancing User Experience in React with React Query](https://dev.to/wolfflucas/optimistic-ui-enhancing-user-experience-in-react-with-react-query-3033)
 - [Lifehacker] [Three Ways a Pillowcase Can Keep Your House a Little Cleaner](https://lifehacker.com/three-ways-a-pillowcase-can-keep-your-house-a-little-cl-1850535132)
 - [Lifehacker] [Three Things You Should Do Before Deleting Your Reddit Account](https://lifehacker.com/three-things-you-should-do-before-deleting-your-reddit-1850534879)
 - [Lifehacker] [These Birthday Cake Waffles Are Almost Too Easy](https://lifehacker.com/these-birthday-cake-waffles-are-almost-too-easy-1850535118)
