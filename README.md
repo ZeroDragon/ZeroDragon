@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What Is Double Question Mark In JavaScript?](https://dev.to/mayallo/what-is-double-question-mark-in-javascript-775)
 - [Dev.to/JS] [How do I redirect to another webpage?](https://dev.to/irishgeoff11/how-do-i-redirect-to-another-webpage-3g26)
 - [Dev.to/JS] [Rapid Application Development and App Development Platforms Explained](https://dev.to/domfive/rapid-application-development-and-app-development-platforms-explained-131)
 - [Dev.to/JS] [Guideline to Write Better &amp; Cleaner Code](https://dev.to/pierre/clean-javascript-code-1gc)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build A Reusable Carousel With React And Splide.js](https://dev.to/femi_dev/build-a-reusable-carousel-with-react-and-splidejs-422h)
 - [Dev.to/JS] [Streamline the process of scanning through job postings](https://dev.to/dan_teeter_dd1ccef174240b/streamline-the-process-of-scanning-through-job-postings-3fbg)
 - [Dev.to/JS] [How to Make a Countdown App with React and date-fns](https://dev.to/michaellarocca/how-to-make-a-countdown-app-with-react-and-date-fns-467n)
-- [Dev.to/JS] [Exploring Web Rendering: Partial Hydration &lpar;a.k.a. “Islands”&rpar;](https://dev.to/mangs/exploring-web-rendering-partial-hydration-aka-islands-3n33)
 - [Lifehacker] [Three Ways a Pillowcase Can Keep Your House a Little Cleaner](https://lifehacker.com/three-ways-a-pillowcase-can-keep-your-house-a-little-cl-1850535132)
 - [Lifehacker] [Three Things You Should Do Before Deleting Your Reddit Account](https://lifehacker.com/three-things-you-should-do-before-deleting-your-reddit-1850534879)
 - [Lifehacker] [These Birthday Cake Waffles Are Almost Too Easy](https://lifehacker.com/these-birthday-cake-waffles-are-almost-too-easy-1850535118)
