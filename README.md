@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Comprehensive Guide to React Hooks: Simplifying State and Side Effects](https://dev.to/kingsley/a-comprehensive-guide-to-react-hooks-simplifying-state-and-side-effects-39f3)
+- [Dev.to/JS] [It&#39;s time to replace your axios](https://dev.to/coderhu/its-time-to-replace-your-axios-143p)
+- [Dev.to/JS] [Which frontend &amp; backend framework are you using for your application?](https://dev.to/rajesh_singh_1989/which-frontend-backend-framework-are-you-using-for-your-application-5dp2)
 - [Dev.to/JS] [What Is Double Question Mark In JavaScript?](https://dev.to/mayallo/what-is-double-question-mark-in-javascript-775)
 - [Dev.to/JS] [How do I redirect to another webpage?](https://dev.to/irishgeoff11/how-do-i-redirect-to-another-webpage-3g26)
 - [Dev.to/JS] [Rapid Application Development and App Development Platforms Explained](https://dev.to/domfive/rapid-application-development-and-app-development-platforms-explained-131)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LOST VIRGINITY TO TECHNICAL WRITING](https://dev.to/keneangel/lost-virginity-to-technical-writing-k4n)
 - [Dev.to/JS] [Getting started with JavaScript for complete beginners](https://dev.to/bansikah/getting-started-with-javascript-for-complete-beginners-3del)
 - [Dev.to/JS] [Why you shouldn&#39;t mix ES Modules and CommonJS](https://dev.to/darkmavis1980/why-you-shouldnt-mix-es-modules-and-commonjs-import-statements-56fc)
-- [Dev.to/JS] [Build A Reusable Carousel With React And Splide.js](https://dev.to/femi_dev/build-a-reusable-carousel-with-react-and-splidejs-422h)
-- [Dev.to/JS] [Streamline the process of scanning through job postings](https://dev.to/dan_teeter_dd1ccef174240b/streamline-the-process-of-scanning-through-job-postings-3fbg)
-- [Dev.to/JS] [How to Make a Countdown App with React and date-fns](https://dev.to/michaellarocca/how-to-make-a-countdown-app-with-react-and-date-fns-467n)
 - [Lifehacker] [Three Ways a Pillowcase Can Keep Your House a Little Cleaner](https://lifehacker.com/three-ways-a-pillowcase-can-keep-your-house-a-little-cl-1850535132)
 - [Lifehacker] [Three Things You Should Do Before Deleting Your Reddit Account](https://lifehacker.com/three-things-you-should-do-before-deleting-your-reddit-1850534879)
 - [Lifehacker] [These Birthday Cake Waffles Are Almost Too Easy](https://lifehacker.com/these-birthday-cake-waffles-are-almost-too-easy-1850535118)
