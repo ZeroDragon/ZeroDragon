@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Many Credit Cards Is Too Many?](https://lifehacker.com/how-many-credit-cards-is-too-many-1850535825)
+- [Dev.to/JS] [Oracle 1Z0-1054-20 Questions – Free Updated Demo &lpar;2023&rpar;](https://dev.to/jack1898oliver/oracle-1z0-1054-20-questions-free-updated-demo-2023-52jf)
+- [Dev.to/JS] [Anupama Full Episodes](https://dev.to/anupamastarplus/anupama-full-episodes-1ccj)
+- [Dev.to/JS] [VS CODE EXTENSION THAT I USED MY DAILY BASIC](https://dev.to/iammhador/vs-code-extension-that-i-used-my-daily-basic-pg8)
+- [Lifehacker] [Why There Are So Many Ticks in Your Yard &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-there-are-so-many-ticks-in-your-yard-and-what-to-d-1850534255)
 - [Lifehacker] [How to Organize Your Fridge Like a Grown-Up](https://lifehacker.com/how-to-organize-your-fridge-like-a-grown-up-1850535671)
 - [Dev.to/JS] [Looking Up React Components Props Types](https://dev.to/this-is-learning/looking-up-react-components-props-types-3k0n)
 - [Dev.to/JS] [Protecting Your Codebase: How to Identify and Mitigate SAST Vulnerabilities](https://dev.to/supratipb/protecting-your-codebase-how-to-identify-and-mitigate-sast-vulnerabilities-3lmf)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Guide des méthodes JS [chaînes de caractères]](https://dev.to/kureru/guide-des-methodes-js-chaines-de-caracteres-522c)
 - [Dev.to/JS] [Building an npm package in 2023](https://dev.to/seven/building-an-npm-package-in-2023-10l4)
 - [Dev.to/JS] [Required in Typescript](https://dev.to/shnap/required-in-typescript-2hcc)
-- [Dev.to/JS] [Javascript on string](https://dev.to/abahicana/javascript-on-string-2366)
-- [Dev.to/JS] [Hungry for Dev insights and shaping the future trends?](https://dev.to/developernationsurvey/hungry-for-dev-insights-and-shaping-the-future-trends-2nnp)
-- [Dev.to/JS] [What is the point of unit tests?](https://dev.to/irishgeoff11/what-is-the-point-of-unit-tests-l7f)
 - [Lifehacker] [Three Ways a Pillowcase Can Keep Your House a Little Cleaner](https://lifehacker.com/three-ways-a-pillowcase-can-keep-your-house-a-little-cl-1850535132)
 - [Lifehacker] [Three Things You Should Do Before Deleting Your Reddit Account](https://lifehacker.com/three-things-you-should-do-before-deleting-your-reddit-1850534879)
 - [Lifehacker] [These Birthday Cake Waffles Are Almost Too Easy](https://lifehacker.com/these-birthday-cake-waffles-are-almost-too-easy-1850535118)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Keep a Swimsuit Clean Without Damaging It](https://lifehacker.com/how-to-keep-a-swimsuit-clean-without-damaging-it-1850530365)
 - [Lifehacker] [You Can Get a $100 Restaurant.com Gift Card for $14 Right Now](https://lifehacker.com/you-can-get-a-100-restaurant-com-gift-card-for-14-rig-1850509027)
 - [Lifehacker] [Claim Your Share of This Google Class Action Settlement](https://lifehacker.com/claim-your-share-of-this-google-class-action-settlement-1850529925)
-- [Lifehacker] [Please Don&#39;t Clean Your Car Seats With Shaving Cream](https://lifehacker.com/please-dont-clean-your-car-seats-with-shaving-cream-1850529912)
-- [Lifehacker] [Regularly Audit These Areas of Your Home to Stop Overbuying](https://lifehacker.com/regularly-audit-these-areas-of-your-home-to-stop-overbu-1850529816)
-- [Lifehacker] [How to Repair a Broken Tile If You Don’t Have Any Extra](https://lifehacker.com/how-to-repair-a-broken-tile-if-you-don-t-have-any-extra-1850529510)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Please Don&#39;t Clean Your Car Seats With Shaving Cream](https://lifehacker.com/please-dont-clean-your-car-seats-with-shaving-cream-1850529912)<!-- TECH-POSTS:END -->
 
 ---
 
