@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What I Wish I&#39;d Known Before I Bought My Ruggable Rug](https://lifehacker.com/what-i-wish-id-known-before-i-bought-my-ruggable-rug-1850537539)
+- [Lifehacker] [This Pop-Up Camping Cabin Is 15% Off Right Now](https://lifehacker.com/this-pop-up-camping-cabin-is-15-off-right-now-1850509039)
+- [Lifehacker] [How to Travel With Supplements Without Getting Busted for Packing Your Suitcase With Suspicious White Powder](https://lifehacker.com/how-to-travel-with-supplements-without-getting-busted-f-1850536185)
 - [Dev.to/JS] [json-service-editor](https://dev.to/pianoboy/json-service-editor-15cf)
 - [Dev.to/JS] [API Versioning In ASP.NET Core With Three Different Ways](https://dev.to/sardarmudassaralikhan/api-versioning-in-aspnet-core-with-three-different-ways-1pa5)
 - [Lifehacker] [How to Have a ‘Sexual State of the Union’ &lpar;but Don’t Call It That&rpar;](https://lifehacker.com/how-to-have-a-sexual-state-of-the-union-but-don-t-ca-1850536135)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Toybox 3D Printer for Kids Is on Sale Right Now](https://lifehacker.com/this-toybox-3d-printer-for-kids-is-on-sale-right-now-1850509018)
 - [Lifehacker] [Make This Creamy Vinaigrette](https://lifehacker.com/make-this-creamy-vinaigrette-1850530811)
 - [Lifehacker] [Use Crushed Cookies on Your Next Crumb Cake](https://lifehacker.com/use-crushed-cookies-on-your-next-crumb-cake-1850530134)
-- [Lifehacker] [You Can Play &#39;Elden Ring&#39; and &#39;Hogwarts Legacy&#39; on a MacBook Right Now](https://lifehacker.com/you-can-play-windows-games-on-apple-silicon-right-now-1850530163)
-- [Lifehacker] [How to Keep a Swimsuit Clean Without Damaging It](https://lifehacker.com/how-to-keep-a-swimsuit-clean-without-damaging-it-1850530365)
-- [Lifehacker] [You Can Get a $100 Restaurant.com Gift Card for $14 Right Now](https://lifehacker.com/you-can-get-a-100-restaurant-com-gift-card-for-14-rig-1850509027)
-- [Lifehacker] [Claim Your Share of This Google Class Action Settlement](https://lifehacker.com/claim-your-share-of-this-google-class-action-settlement-1850529925)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Play &#39;Elden Ring&#39; and &#39;Hogwarts Legacy&#39; on a MacBook Right Now](https://lifehacker.com/you-can-play-windows-games-on-apple-silicon-right-now-1850530163)<!-- TECH-POSTS:END -->
 
 ---
 
