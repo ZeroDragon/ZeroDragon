@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [json-service-editor](https://dev.to/pianoboy/json-service-editor-15cf)
+- [Dev.to/JS] [API Versioning In ASP.NET Core With Three Different Ways](https://dev.to/sardarmudassaralikhan/api-versioning-in-aspnet-core-with-three-different-ways-1pa5)
+- [Lifehacker] [How to Have a ‘Sexual State of the Union’ &lpar;but Don’t Call It That&rpar;](https://lifehacker.com/how-to-have-a-sexual-state-of-the-union-but-don-t-ca-1850536135)
+- [Dev.to/JS] [A better learning path for React with server components](https://dev.to/scastiel/a-better-learning-path-for-react-with-server-components-5ebn)
+- [Dev.to/JS] [কিভাবে vue3 social share button বানাব](https://dev.to/siam786/kibhaabe-vue3-social-share-button-baanaab-2la7)
+- [Dev.to/JS] [Node.js VS Deno.js, Which one is better](https://dev.to/abdul_jabbar_dev/nodejs-vs-denojs-which-one-is-better-10cp)
+- [Dev.to/JS] [Platform based javascript frameworks](https://dev.to/abdul_jabbar_dev/platform-based-javascript-frameworks-15o3)
+- [Dev.to/JS] [Maximizing Smart Contract Integrity: The Value of Audits in Development](https://dev.to/cooper_91/maximizing-smart-contract-integrity-the-value-of-audits-in-development-5hnb)
 - [Lifehacker] [How Many Credit Cards Is Too Many?](https://lifehacker.com/how-many-credit-cards-is-too-many-1850535825)
 - [Dev.to/JS] [Oracle 1Z0-1054-20 Questions – Free Updated Demo &lpar;2023&rpar;](https://dev.to/jack1898oliver/oracle-1z0-1054-20-questions-free-updated-demo-2023-52jf)
 - [Dev.to/JS] [Anupama Full Episodes](https://dev.to/anupamastarplus/anupama-full-episodes-1ccj)
@@ -31,13 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Organize Your Fridge Like a Grown-Up](https://lifehacker.com/how-to-organize-your-fridge-like-a-grown-up-1850535671)
 - [Dev.to/JS] [Looking Up React Components Props Types](https://dev.to/this-is-learning/looking-up-react-components-props-types-3k0n)
 - [Dev.to/JS] [Protecting Your Codebase: How to Identify and Mitigate SAST Vulnerabilities](https://dev.to/supratipb/protecting-your-codebase-how-to-identify-and-mitigate-sast-vulnerabilities-3lmf)
-- [Dev.to/JS] [How to upload files to the server using JavaScript](https://dev.to/salvietta150x40/how-to-upload-files-to-the-server-using-javascript-4lo5)
-- [Dev.to/JS] [TypeScript, Zod, and MongoDB: A Guide to Data Access Layer without ORM](https://dev.to/zzdjk6/typescript-zod-and-mongodb-a-guide-to-orm-free-data-access-layers-2ah5)
-- [Dev.to/JS] [How To Secure Your JavaScript Applications](https://dev.to/devland/how-to-secure-your-javascript-applications-1pfg)
-- [Dev.to/JS] [Nextjs: How to get url in getInitialProps](https://dev.to/greggcbs/how-to-get-url-getinitialprops-in-nextjs-1no2)
-- [Dev.to/JS] [Guide des méthodes JS [chaînes de caractères]](https://dev.to/kureru/guide-des-methodes-js-chaines-de-caracteres-522c)
-- [Dev.to/JS] [Building an npm package in 2023](https://dev.to/seven/building-an-npm-package-in-2023-10l4)
-- [Dev.to/JS] [Required in Typescript](https://dev.to/shnap/required-in-typescript-2hcc)
 - [Lifehacker] [Three Ways a Pillowcase Can Keep Your House a Little Cleaner](https://lifehacker.com/three-ways-a-pillowcase-can-keep-your-house-a-little-cl-1850535132)
 - [Lifehacker] [Three Things You Should Do Before Deleting Your Reddit Account](https://lifehacker.com/three-things-you-should-do-before-deleting-your-reddit-1850534879)
 - [Lifehacker] [These Birthday Cake Waffles Are Almost Too Easy](https://lifehacker.com/these-birthday-cake-waffles-are-almost-too-easy-1850535118)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Play &#39;Elden Ring&#39; and &#39;Hogwarts Legacy&#39; on a MacBook Right Now](https://lifehacker.com/you-can-play-windows-games-on-apple-silicon-right-now-1850530163)
 - [Lifehacker] [How to Keep a Swimsuit Clean Without Damaging It](https://lifehacker.com/how-to-keep-a-swimsuit-clean-without-damaging-it-1850530365)
 - [Lifehacker] [You Can Get a $100 Restaurant.com Gift Card for $14 Right Now](https://lifehacker.com/you-can-get-a-100-restaurant-com-gift-card-for-14-rig-1850509027)
-- [Lifehacker] [Claim Your Share of This Google Class Action Settlement](https://lifehacker.com/claim-your-share-of-this-google-class-action-settlement-1850529925)
-- [Lifehacker] [Please Don&#39;t Clean Your Car Seats With Shaving Cream](https://lifehacker.com/please-dont-clean-your-car-seats-with-shaving-cream-1850529912)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Claim Your Share of This Google Class Action Settlement](https://lifehacker.com/claim-your-share-of-this-google-class-action-settlement-1850529925)<!-- TECH-POSTS:END -->
 
 ---
 
