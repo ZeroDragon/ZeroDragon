@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is the point of unit tests?](https://dev.to/irishgeoff11/what-is-the-point-of-unit-tests-l7f)
+- [Dev.to/JS] [Lottie under the hood](https://dev.to/stepancar/lottie-under-the-hood-4gik)
 - [Dev.to/JS] [Implementing looping and the first effects](https://dev.to/atornblad/implementing-looping-and-the-first-effects-16p1)
 - [Dev.to/JS] [Weekly web development resources #153](https://dev.to/vincenius/weekly-web-development-resources-153-38jg)
 - [Dev.to/JS] [RxJS Operators: map](https://dev.to/drownedintech/rxjs-operators-map-4efc)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What Is Double Question Mark In JavaScript?](https://dev.to/mayallo/what-is-double-question-mark-in-javascript-775)
 - [Dev.to/JS] [How do I redirect to another webpage?](https://dev.to/irishgeoff11/how-do-i-redirect-to-another-webpage-3g26)
 - [Dev.to/JS] [Rapid Application Development and App Development Platforms Explained](https://dev.to/domfive/rapid-application-development-and-app-development-platforms-explained-131)
-- [Dev.to/JS] [Guideline to Write Better &amp; Cleaner Code](https://dev.to/pierre/clean-javascript-code-1gc)
-- [Dev.to/JS] [Der Anfang](https://dev.to/liamparsons/der-anfang-46g1)
 - [Lifehacker] [Three Ways a Pillowcase Can Keep Your House a Little Cleaner](https://lifehacker.com/three-ways-a-pillowcase-can-keep-your-house-a-little-cl-1850535132)
 - [Lifehacker] [Three Things You Should Do Before Deleting Your Reddit Account](https://lifehacker.com/three-things-you-should-do-before-deleting-your-reddit-1850534879)
 - [Lifehacker] [These Birthday Cake Waffles Are Almost Too Easy](https://lifehacker.com/these-birthday-cake-waffles-are-almost-too-easy-1850535118)
