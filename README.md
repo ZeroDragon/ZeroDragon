@@ -23,6 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What It Means to Be &quot;Unbanked&quot; &lpar;and What It Costs You&rpar;](https://lifehacker.com/what-it-means-to-be-unbanked-and-what-it-costs-you-1850539632)
+- [Dev.to/JS] [Testing in React with Jest and Enzyme](https://dev.to/sammychris/testing-in-react-with-jest-and-enzyme-knb)
+- [Dev.to/JS] [Best 7 Open-source projects built with Node.js / React.js](https://dev.to/saurav_kumar/best-7-open-source-projects-built-with-nodejs-reactjs-52p7)
+- [Dev.to/JS] [BudPay: Empowering Global Businesses with Borderless Payment Solutions](https://dev.to/devsuite/budpay-empowering-global-businesses-with-borderless-payment-solutions-ni3)
+- [Lifehacker] [The Reddit Blackout Is Over, but the Protest Isn’t](https://lifehacker.com/the-reddit-blackout-is-over-but-the-protest-isn-t-1850539204)
+- [Dev.to/JS] [Sell your products online with one API call; A technical guide to ClickPesa checkout link integration](https://dev.to/clickpesa/sell-your-products-online-with-one-api-call-a-technical-guide-to-clickpesa-checkout-link-integration-4ncm)
+- [Lifehacker] [What to Do About Your Trauma-Based &#39;Hyper Independence&#39;](https://lifehacker.com/what-to-do-about-your-trauma-based-hyper-independence-1850538921)
+- [Dev.to/JS] [Mastering the Fetch API: A Comprehensive Guide to Modern Web Data Retrieval](https://dev.to/kelvinguchu/mastering-the-fetch-api-a-comprehensive-guide-to-modern-web-data-retrieval-3efo)
+- [Dev.to/JS] [Angular in 15 days](https://dev.to/hamsof/angular-in-15-days-3i93)
+- [Dev.to/JS] [Dino run evolved into Nezuko run😼](https://dev.to/akilesh/dino-run-evolved-into-nezuko-run-115g)
 - [Lifehacker] [This Cybersecurity and IT Skills Course Is Over 90% Off Right Now](https://lifehacker.com/this-cybersecurity-and-it-skills-course-is-over-90-off-1850509047)
 - [Dev.to/JS] [Angular Code Structuring and Best Practices](https://dev.to/codecraftjs/angular-code-structuring-and-best-practices-nkd)
 - [Dev.to/JS] [10 Common Ways Engineers Use Webhook Gateways](https://dev.to/convoy/10-common-ways-engineers-use-webhook-gateways-45oj)
@@ -31,18 +41,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Built a blog with Docusaurus, started writing, hope to stick with it](https://dev.to/hyminghan/built-a-blog-with-docusaurus-started-writing-hope-to-stick-with-it-5egp)
 - [Lifehacker] [What I Wish I&#39;d Known Before I Bought My Ruggable Rug](https://lifehacker.com/what-i-wish-id-known-before-i-bought-my-ruggable-rug-1850537539)
 - [Lifehacker] [This Pop-Up Camping Cabin Is 15% Off Right Now](https://lifehacker.com/this-pop-up-camping-cabin-is-15-off-right-now-1850509039)
+- [Dev.to/JS] [A blog documenting my journey with Node.js](https://dev.to/aryan123rgb/a-blog-documenting-my-journey-with-nodejs-3pk2)
 - [Lifehacker] [How to Travel With Supplements Without Getting Busted for Packing Your Suitcase With Suspicious White Powder](https://lifehacker.com/how-to-travel-with-supplements-without-getting-busted-f-1850536185)
 - [Dev.to/JS] [json-service-editor](https://dev.to/pianoboy/json-service-editor-15cf)
-- [Dev.to/JS] [API Versioning In ASP.NET Core With Three Different Ways](https://dev.to/sardarmudassaralikhan/api-versioning-in-aspnet-core-with-three-different-ways-1pa5)
 - [Lifehacker] [How to Have a ‘Sexual State of the Union’ &lpar;but Don’t Call It That&rpar;](https://lifehacker.com/how-to-have-a-sexual-state-of-the-union-but-don-t-ca-1850536135)
-- [Dev.to/JS] [A better learning path for React with server components](https://dev.to/scastiel/a-better-learning-path-for-react-with-server-components-5ebn)
-- [Dev.to/JS] [কিভাবে vue3 social share button বানাব](https://dev.to/siam786/kibhaabe-vue3-social-share-button-baanaab-2la7)
-- [Dev.to/JS] [Node.js VS Deno.js, Which one is better](https://dev.to/abdul_jabbar_dev/nodejs-vs-denojs-which-one-is-better-10cp)
-- [Dev.to/JS] [Platform based javascript frameworks](https://dev.to/abdul_jabbar_dev/platform-based-javascript-frameworks-15o3)
-- [Dev.to/JS] [Maximizing Smart Contract Integrity: The Value of Audits in Development](https://dev.to/cooper_91/maximizing-smart-contract-integrity-the-value-of-audits-in-development-5hnb)
 - [Lifehacker] [How Many Credit Cards Is Too Many?](https://lifehacker.com/how-many-credit-cards-is-too-many-1850535825)
-- [Dev.to/JS] [Oracle 1Z0-1054-20 Questions – Free Updated Demo &lpar;2023&rpar;](https://dev.to/jack1898oliver/oracle-1z0-1054-20-questions-free-updated-demo-2023-52jf)
-- [Dev.to/JS] [Anupama Full Episodes](https://dev.to/anupamastarplus/anupama-full-episodes-1ccj)
 - [Lifehacker] [Why There Are So Many Ticks in Your Yard &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-there-are-so-many-ticks-in-your-yard-and-what-to-d-1850534255)
 - [Lifehacker] [How to Organize Your Fridge Like a Grown-Up](https://lifehacker.com/how-to-organize-your-fridge-like-a-grown-up-1850535671)
 - [Lifehacker] [Three Ways a Pillowcase Can Keep Your House a Little Cleaner](https://lifehacker.com/three-ways-a-pillowcase-can-keep-your-house-a-little-cl-1850535132)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When You Can Eat Fish From City Rivers &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-can-eat-fish-from-city-rivers-and-when-you-sh-1850532603)
 - [Lifehacker] [How to Make Your Impostor Syndrome Work for You](https://lifehacker.com/how-to-make-your-impostor-syndrome-work-for-you-1850524094)
 - [Lifehacker] [This 244-Hour Coding Crash Course Is 74% Off Right Now](https://lifehacker.com/this-244-hour-coding-crash-course-is-74-off-right-now-1850509012)
-- [Lifehacker] [You Should Poach an Egg in Maple Syrup](https://lifehacker.com/you-should-poach-an-egg-in-maple-syrup-1850532021)
-- [Lifehacker] [Five Asian Sauces That Make Everything Taste Better](https://lifehacker.com/five-asian-sauces-that-make-everything-taste-better-1850531565)
-- [Lifehacker] [What Is a ‘Compounding Pharmacy’ &lpar;and When Do You Need One&rpar;?](https://lifehacker.com/what-is-a-compounding-pharmacy-and-when-do-you-need-1850529482)
-- [Lifehacker] [This Toybox 3D Printer for Kids Is on Sale Right Now](https://lifehacker.com/this-toybox-3d-printer-for-kids-is-on-sale-right-now-1850509018)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Poach an Egg in Maple Syrup](https://lifehacker.com/you-should-poach-an-egg-in-maple-syrup-1850532021)<!-- TECH-POSTS:END -->
 
 ---
 
