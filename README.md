@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How do I redirect to another webpage?](https://dev.to/irishgeoff11/how-do-i-redirect-to-another-webpage-3g26)
 - [Dev.to/JS] [Rapid Application Development and App Development Platforms Explained](https://dev.to/domfive/rapid-application-development-and-app-development-platforms-explained-131)
 - [Dev.to/JS] [Guideline to Write Better &amp; Cleaner Code](https://dev.to/pierre/clean-javascript-code-1gc)
 - [Dev.to/JS] [Der Anfang](https://dev.to/liamparsons/der-anfang-46g1)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Streamline the process of scanning through job postings](https://dev.to/dan_teeter_dd1ccef174240b/streamline-the-process-of-scanning-through-job-postings-3fbg)
 - [Dev.to/JS] [How to Make a Countdown App with React and date-fns](https://dev.to/michaellarocca/how-to-make-a-countdown-app-with-react-and-date-fns-467n)
 - [Dev.to/JS] [Exploring Web Rendering: Partial Hydration &lpar;a.k.a. “Islands”&rpar;](https://dev.to/mangs/exploring-web-rendering-partial-hydration-aka-islands-3n33)
-- [Dev.to/JS] [When JavaScript Thinks You&#39;re Imagining Things: An Unexpected Tale of Non-Existent References](https://dev.to/codetobug/when-javascript-thinks-youre-imagining-things-an-unexpected-tale-of-non-existent-references-oip)
 - [Lifehacker] [Three Ways a Pillowcase Can Keep Your House a Little Cleaner](https://lifehacker.com/three-ways-a-pillowcase-can-keep-your-house-a-little-cl-1850535132)
 - [Lifehacker] [Three Things You Should Do Before Deleting Your Reddit Account](https://lifehacker.com/three-things-you-should-do-before-deleting-your-reddit-1850534879)
 - [Lifehacker] [These Birthday Cake Waffles Are Almost Too Easy](https://lifehacker.com/these-birthday-cake-waffles-are-almost-too-easy-1850535118)
