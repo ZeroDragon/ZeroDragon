@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Roll Up Your Google Search Results With This ‘Katamari’ Minigame](https://lifehacker.com/roll-up-your-google-search-results-with-this-katamari-1850538490)
+- [Dev.to/JS] [Built a blog with Docusaurus, started writing, hope to stick with it](https://dev.to/hyminghan/built-a-blog-with-docusaurus-started-writing-hope-to-stick-with-it-5egp)
 - [Lifehacker] [What I Wish I&#39;d Known Before I Bought My Ruggable Rug](https://lifehacker.com/what-i-wish-id-known-before-i-bought-my-ruggable-rug-1850537539)
 - [Lifehacker] [This Pop-Up Camping Cabin Is 15% Off Right Now](https://lifehacker.com/this-pop-up-camping-cabin-is-15-off-right-now-1850509039)
 - [Lifehacker] [How to Travel With Supplements Without Getting Busted for Packing Your Suitcase With Suspicious White Powder](https://lifehacker.com/how-to-travel-with-supplements-without-getting-busted-f-1850536185)
@@ -41,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why There Are So Many Ticks in Your Yard &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-there-are-so-many-ticks-in-your-yard-and-what-to-d-1850534255)
 - [Lifehacker] [How to Organize Your Fridge Like a Grown-Up](https://lifehacker.com/how-to-organize-your-fridge-like-a-grown-up-1850535671)
 - [Dev.to/JS] [Looking Up React Components Props Types](https://dev.to/this-is-learning/looking-up-react-components-props-types-3k0n)
-- [Dev.to/JS] [Protecting Your Codebase: How to Identify and Mitigate SAST Vulnerabilities](https://dev.to/supratipb/protecting-your-codebase-how-to-identify-and-mitigate-sast-vulnerabilities-3lmf)
 - [Lifehacker] [Three Ways a Pillowcase Can Keep Your House a Little Cleaner](https://lifehacker.com/three-ways-a-pillowcase-can-keep-your-house-a-little-cl-1850535132)
 - [Lifehacker] [Three Things You Should Do Before Deleting Your Reddit Account](https://lifehacker.com/three-things-you-should-do-before-deleting-your-reddit-1850534879)
 - [Lifehacker] [These Birthday Cake Waffles Are Almost Too Easy](https://lifehacker.com/these-birthday-cake-waffles-are-almost-too-easy-1850535118)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is a ‘Compounding Pharmacy’ &lpar;and When Do You Need One&rpar;?](https://lifehacker.com/what-is-a-compounding-pharmacy-and-when-do-you-need-1850529482)
 - [Lifehacker] [This Toybox 3D Printer for Kids Is on Sale Right Now](https://lifehacker.com/this-toybox-3d-printer-for-kids-is-on-sale-right-now-1850509018)
 - [Lifehacker] [Make This Creamy Vinaigrette](https://lifehacker.com/make-this-creamy-vinaigrette-1850530811)
-- [Lifehacker] [Use Crushed Cookies on Your Next Crumb Cake](https://lifehacker.com/use-crushed-cookies-on-your-next-crumb-cake-1850530134)
-- [Lifehacker] [You Can Play &#39;Elden Ring&#39; and &#39;Hogwarts Legacy&#39; on a MacBook Right Now](https://lifehacker.com/you-can-play-windows-games-on-apple-silicon-right-now-1850530163)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use Crushed Cookies on Your Next Crumb Cake](https://lifehacker.com/use-crushed-cookies-on-your-next-crumb-cake-1850530134)<!-- TECH-POSTS:END -->
 
 ---
 
