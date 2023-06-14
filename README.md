@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implementing looping and the first effects](https://dev.to/atornblad/implementing-looping-and-the-first-effects-16p1)
+- [Dev.to/JS] [Weekly web development resources #153](https://dev.to/vincenius/weekly-web-development-resources-153-38jg)
+- [Dev.to/JS] [RxJS Operators: map](https://dev.to/drownedintech/rxjs-operators-map-4efc)
+- [Dev.to/JS] [100 Days Coding Challenge - Day 25: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-25-freecodecamp-javascript-algorithms-and-data-structures-3ko2)
 - [Dev.to/JS] [A Comprehensive Guide to React Hooks: Simplifying State and Side Effects](https://dev.to/kingsley/a-comprehensive-guide-to-react-hooks-simplifying-state-and-side-effects-39f3)
 - [Dev.to/JS] [It&#39;s time to replace your axios](https://dev.to/coderhu/its-time-to-replace-your-axios-143p)
 - [Dev.to/JS] [Which frontend &amp; backend framework are you using for your application?](https://dev.to/rajesh_singh_1989/which-frontend-backend-framework-are-you-using-for-your-application-5dp2)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rapid Application Development and App Development Platforms Explained](https://dev.to/domfive/rapid-application-development-and-app-development-platforms-explained-131)
 - [Dev.to/JS] [Guideline to Write Better &amp; Cleaner Code](https://dev.to/pierre/clean-javascript-code-1gc)
 - [Dev.to/JS] [Der Anfang](https://dev.to/liamparsons/der-anfang-46g1)
-- [Dev.to/JS] [10 Best Ways To Use ChatGPT &lpar;With Examples&rpar;](https://dev.to/durgesh4993/10-best-ways-to-use-chatgpt-with-examples-1e42)
-- [Dev.to/JS] [LOST VIRGINITY TO TECHNICAL WRITING](https://dev.to/keneangel/lost-virginity-to-technical-writing-k4n)
-- [Dev.to/JS] [Getting started with JavaScript for complete beginners](https://dev.to/bansikah/getting-started-with-javascript-for-complete-beginners-3del)
-- [Dev.to/JS] [Why you shouldn&#39;t mix ES Modules and CommonJS](https://dev.to/darkmavis1980/why-you-shouldnt-mix-es-modules-and-commonjs-import-statements-56fc)
 - [Lifehacker] [Three Ways a Pillowcase Can Keep Your House a Little Cleaner](https://lifehacker.com/three-ways-a-pillowcase-can-keep-your-house-a-little-cl-1850535132)
 - [Lifehacker] [Three Things You Should Do Before Deleting Your Reddit Account](https://lifehacker.com/three-things-you-should-do-before-deleting-your-reddit-1850534879)
 - [Lifehacker] [These Birthday Cake Waffles Are Almost Too Easy](https://lifehacker.com/these-birthday-cake-waffles-are-almost-too-easy-1850535118)
