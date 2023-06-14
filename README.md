@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Cybersecurity and IT Skills Course Is Over 90% Off Right Now](https://lifehacker.com/this-cybersecurity-and-it-skills-course-is-over-90-off-1850509047)
+- [Dev.to/JS] [Angular Code Structuring and Best Practices](https://dev.to/codecraftjs/angular-code-structuring-and-best-practices-nkd)
+- [Dev.to/JS] [10 Common Ways Engineers Use Webhook Gateways](https://dev.to/convoy/10-common-ways-engineers-use-webhook-gateways-45oj)
+- [Lifehacker] [Learn ChatGPT Basics With This $20 Course](https://lifehacker.com/learn-chatgpt-basics-with-this-20-course-1850509044)
 - [Lifehacker] [Roll Up Your Google Search Results With This ‘Katamari’ Minigame](https://lifehacker.com/roll-up-your-google-search-results-with-this-katamari-1850538490)
 - [Dev.to/JS] [Built a blog with Docusaurus, started writing, hope to stick with it](https://dev.to/hyminghan/built-a-blog-with-docusaurus-started-writing-hope-to-stick-with-it-5egp)
 - [Lifehacker] [What I Wish I&#39;d Known Before I Bought My Ruggable Rug](https://lifehacker.com/what-i-wish-id-known-before-i-bought-my-ruggable-rug-1850537539)
@@ -39,10 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Many Credit Cards Is Too Many?](https://lifehacker.com/how-many-credit-cards-is-too-many-1850535825)
 - [Dev.to/JS] [Oracle 1Z0-1054-20 Questions – Free Updated Demo &lpar;2023&rpar;](https://dev.to/jack1898oliver/oracle-1z0-1054-20-questions-free-updated-demo-2023-52jf)
 - [Dev.to/JS] [Anupama Full Episodes](https://dev.to/anupamastarplus/anupama-full-episodes-1ccj)
-- [Dev.to/JS] [VS CODE EXTENSION THAT I USED MY DAILY BASIC](https://dev.to/iammhador/vs-code-extension-that-i-used-my-daily-basic-pg8)
 - [Lifehacker] [Why There Are So Many Ticks in Your Yard &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-there-are-so-many-ticks-in-your-yard-and-what-to-d-1850534255)
 - [Lifehacker] [How to Organize Your Fridge Like a Grown-Up](https://lifehacker.com/how-to-organize-your-fridge-like-a-grown-up-1850535671)
-- [Dev.to/JS] [Looking Up React Components Props Types](https://dev.to/this-is-learning/looking-up-react-components-props-types-3k0n)
 - [Lifehacker] [Three Ways a Pillowcase Can Keep Your House a Little Cleaner](https://lifehacker.com/three-ways-a-pillowcase-can-keep-your-house-a-little-cl-1850535132)
 - [Lifehacker] [Three Things You Should Do Before Deleting Your Reddit Account](https://lifehacker.com/three-things-you-should-do-before-deleting-your-reddit-1850534879)
 - [Lifehacker] [These Birthday Cake Waffles Are Almost Too Easy](https://lifehacker.com/these-birthday-cake-waffles-are-almost-too-easy-1850535118)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Poach an Egg in Maple Syrup](https://lifehacker.com/you-should-poach-an-egg-in-maple-syrup-1850532021)
 - [Lifehacker] [Five Asian Sauces That Make Everything Taste Better](https://lifehacker.com/five-asian-sauces-that-make-everything-taste-better-1850531565)
 - [Lifehacker] [What Is a ‘Compounding Pharmacy’ &lpar;and When Do You Need One&rpar;?](https://lifehacker.com/what-is-a-compounding-pharmacy-and-when-do-you-need-1850529482)
-- [Lifehacker] [This Toybox 3D Printer for Kids Is on Sale Right Now](https://lifehacker.com/this-toybox-3d-printer-for-kids-is-on-sale-right-now-1850509018)
-- [Lifehacker] [Make This Creamy Vinaigrette](https://lifehacker.com/make-this-creamy-vinaigrette-1850530811)
-- [Lifehacker] [Use Crushed Cookies on Your Next Crumb Cake](https://lifehacker.com/use-crushed-cookies-on-your-next-crumb-cake-1850530134)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Toybox 3D Printer for Kids Is on Sale Right Now](https://lifehacker.com/this-toybox-3d-printer-for-kids-is-on-sale-right-now-1850509018)<!-- TECH-POSTS:END -->
 
 ---
 
