@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TypeScript: The Coolest Kid on the Web Development Block! 🚀🔥](https://dev.to/jcwieme/typescript-the-coolest-kid-on-the-web-development-block-1olc)
+- [Dev.to/JS] [Changing tab-index with DOM Manipulation in React](https://dev.to/harshitagupta/changing-tab-index-with-dom-manipulation-in-react-2763)
+- [Lifehacker] [The Easiest Ways to Signal That You Don’t Want Any Interruptions at Work](https://lifehacker.com/the-easiest-ways-to-signal-that-you-don-t-want-any-inte-1850539721)
+- [Dev.to/JS] [Blog-Website](https://dev.to/gururaj-math/blog-website-1270)
 - [Lifehacker] [What It Means to Be &quot;Unbanked&quot; &lpar;and What It Costs You&rpar;](https://lifehacker.com/what-it-means-to-be-unbanked-and-what-it-costs-you-1850539632)
 - [Dev.to/JS] [Testing in React with Jest and Enzyme](https://dev.to/sammychris/testing-in-react-with-jest-and-enzyme-knb)
 - [Dev.to/JS] [Best 7 Open-source projects built with Node.js / React.js](https://dev.to/saurav_kumar/best-7-open-source-projects-built-with-nodejs-reactjs-52p7)
@@ -38,12 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Common Ways Engineers Use Webhook Gateways](https://dev.to/convoy/10-common-ways-engineers-use-webhook-gateways-45oj)
 - [Lifehacker] [Learn ChatGPT Basics With This $20 Course](https://lifehacker.com/learn-chatgpt-basics-with-this-20-course-1850509044)
 - [Lifehacker] [Roll Up Your Google Search Results With This ‘Katamari’ Minigame](https://lifehacker.com/roll-up-your-google-search-results-with-this-katamari-1850538490)
-- [Dev.to/JS] [Built a blog with Docusaurus, started writing, hope to stick with it](https://dev.to/hyminghan/built-a-blog-with-docusaurus-started-writing-hope-to-stick-with-it-5egp)
 - [Lifehacker] [What I Wish I&#39;d Known Before I Bought My Ruggable Rug](https://lifehacker.com/what-i-wish-id-known-before-i-bought-my-ruggable-rug-1850537539)
 - [Lifehacker] [This Pop-Up Camping Cabin Is 15% Off Right Now](https://lifehacker.com/this-pop-up-camping-cabin-is-15-off-right-now-1850509039)
-- [Dev.to/JS] [A blog documenting my journey with Node.js](https://dev.to/aryan123rgb/a-blog-documenting-my-journey-with-nodejs-3pk2)
 - [Lifehacker] [How to Travel With Supplements Without Getting Busted for Packing Your Suitcase With Suspicious White Powder](https://lifehacker.com/how-to-travel-with-supplements-without-getting-busted-f-1850536185)
-- [Dev.to/JS] [json-service-editor](https://dev.to/pianoboy/json-service-editor-15cf)
 - [Lifehacker] [How to Have a ‘Sexual State of the Union’ &lpar;but Don’t Call It That&rpar;](https://lifehacker.com/how-to-have-a-sexual-state-of-the-union-but-don-t-ca-1850536135)
 - [Lifehacker] [How Many Credit Cards Is Too Many?](https://lifehacker.com/how-many-credit-cards-is-too-many-1850535825)
 - [Lifehacker] [Why There Are So Many Ticks in Your Yard &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-there-are-so-many-ticks-in-your-yard-and-what-to-d-1850534255)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Seven Types of Insurance That Are Usually a Waste of Money](https://lifehacker.com/seven-types-of-insurance-that-are-usually-a-waste-of-mo-1850532298)
 - [Lifehacker] [When You Can Eat Fish From City Rivers &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-can-eat-fish-from-city-rivers-and-when-you-sh-1850532603)
 - [Lifehacker] [How to Make Your Impostor Syndrome Work for You](https://lifehacker.com/how-to-make-your-impostor-syndrome-work-for-you-1850524094)
-- [Lifehacker] [This 244-Hour Coding Crash Course Is 74% Off Right Now](https://lifehacker.com/this-244-hour-coding-crash-course-is-74-off-right-now-1850509012)
-- [Lifehacker] [You Should Poach an Egg in Maple Syrup](https://lifehacker.com/you-should-poach-an-egg-in-maple-syrup-1850532021)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This 244-Hour Coding Crash Course Is 74% Off Right Now](https://lifehacker.com/this-244-hour-coding-crash-course-is-74-off-right-now-1850509012)<!-- TECH-POSTS:END -->
 
 ---
 
