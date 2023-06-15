@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Art of Writing Clean JavaScript Code: A Comprehensive Guide](https://dev.to/ivan_kaminskyi/the-art-of-writing-clean-javascript-code-a-comprehensive-guide-49eo)
+- [Dev.to/JS] [Mastering Client-Side Storage: A Comprehensive Guide to Using Local Storage and Session Storage in JavaScript](https://dev.to/ivan_kaminskyi/mastering-client-side-storage-a-comprehensive-guide-to-using-local-storage-and-session-storage-in-javascript-2fg6)
+- [Dev.to/JS] [Applying SOLID Principles in React: Improve Your Code Quality and Maintainability](https://dev.to/ivan_kaminskyi/applying-solid-principles-in-react-improve-your-code-quality-and-maintainability-40oo)
+- [Dev.to/JS] [Modules Cheatsheet JavaScript](https://dev.to/indracit/modules-cheatsheet-javascript-4kll)
+- [Dev.to/JS] [Unlocking JavaScript Performance: A Guide to Algorithms and Big O Notation](https://dev.to/ivan_kaminskyi/unlocking-javascript-performance-a-guide-to-algorithms-and-big-o-notation-10hp)
 - [Dev.to/JS] [5 trucos de JavaScript para optimizar el rendimiento](https://dev.to/beresiartejuan/5-trucos-de-javascript-para-optimizar-el-rendimiento-46c6)
 - [Dev.to/JS] [Manipulación de fechas y horas con Moment.js](https://dev.to/beresiartejuan/manipulacion-de-fechas-y-horas-con-momentjs-5a7c)
 - [Dev.to/JS] [Add Particles.js to Your Squarespace Site](https://dev.to/michaelsynan/add-particlesjs-to-your-squarespace-site-40kj)
@@ -30,12 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Express.js Commands](https://dev.to/syedmuhammadaliraza/mastering-expressjs-commands-1lde)
 - [Dev.to/JS] [How to Resolve the &quot;__dirname is not defined in ES module scope&quot; Error in JavaScript](https://dev.to/adrvnc/how-to-resolve-the-dirname-is-not-defined-in-es-module-scope-error-in-javascript-584)
 - [Dev.to/JS] [Data Transfer Objects &lpar;DTOs&rpar;: A Comprehensive Guide](https://dev.to/ezpzdevelopement/data-transfer-objects-dtos-a-comprehensive-guide-366p)
-- [Dev.to/JS] [Shadcn UI pros and cons](https://dev.to/musabdev/shadcn-ui-pros-and-cons-3ne8)
-- [Dev.to/JS] [How to test the Hidden API &lpar;from Material UI&rpar;](https://dev.to/hmcodes/how-to-activate-the-hidden-api-from-material-ui-in-a-jest-test-n1n)
-- [Dev.to/JS] [State In React Js.](https://dev.to/cybermaxi7/state-in-react-js-52fg)
-- [Dev.to/JS] [Time to Transition](https://dev.to/bealecs/time-to-transition-54o1)
 - [Lifehacker] [Three Things You Should Do With That Crusty Maple Syrup Bottle &lpar;Before Tossing It&rpar;](https://lifehacker.com/three-things-you-should-do-with-that-crusty-maple-syrup-1850536539)
-- [Dev.to/JS] [Introducing Jobify: Bridging the Gap between Job Seekers and Opportunities](https://dev.to/eunice_dev/introducing-jobify-bridging-the-gap-between-job-seekers-and-opportunities-5gc)
 - [Lifehacker] [Relive the Internet of the ’90s With ‘Neocities’](https://lifehacker.com/relive-the-internet-of-the-90s-with-neocities-1850540482)
 - [Crazy Programmer] [Claude Shannon Biography](https://www.thecrazyprogrammer.com/2023/06/claude-shannon-biography.html)
 - [Lifehacker] [Replace Mayo With Brine for a Better Tuna Salad](https://lifehacker.com/replace-mayo-with-brine-for-a-better-tuna-salad-1850540058)
