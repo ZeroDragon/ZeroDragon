@@ -23,13 +23,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Everyone Should Know About Squatter’s Rights](https://lifehacker.com/what-everyone-should-know-about-squatter-s-rights-1850543705)
+- [Dev.to/JS] [Celebrating 1000 Followers on dev.to - A Journey of Learning and Growth!](https://dev.to/muhmmadawd/celebrating-1000-followers-on-devto-a-journey-of-learning-and-growth-1a0o)
+- [Lifehacker] [Save Money by Making Your Ground Meat Supply Last Longer](https://lifehacker.com/save-money-by-making-your-ground-meat-supply-last-longe-1850542915)
+- [Lifehacker] [Why So Many People Care About Formula 1 &lpar;and How You Can Too&rpar;](https://lifehacker.com/why-so-many-people-care-about-formula-1-and-how-you-ca-1850543411)
+- [Dev.to/JS] [Life Hacks in Coding: Boosting Your Development Skills](https://dev.to/gaborhorvathkovacs/life-hacks-in-coding-boosting-your-development-skills-4b2j)
 - [Dev.to/JS] [Planning for Neighborhood Empowering Social class to Resolve Their Own Issues](https://dev.to/horridhenr30674/planning-for-neighborhood-empowering-social-class-to-resolve-their-own-issues-e0h)
 - [Dev.to/JS] [Melhores práticas de segurança para APIs Node.js com Express.js](https://dev.to/jhonyaraujooficial/melhores-praticas-de-seguranca-para-apis-nodejs-com-expressjs-g5a)
 - [Lifehacker] [You Can Try Writing Directly in Windows Text Fields Now](https://lifehacker.com/you-can-try-writing-directly-in-windows-text-fields-now-1850543212)
 - [Dev.to/JS] [The Power of Memoization: A Deep Dive into useMemo, useCallback, and useEffect](https://dev.to/abomisr/the-power-of-memoization-a-deep-dive-into-usememo-usecallback-and-useeffect-3a84)
 - [Dev.to/JS] [How to Modify DOM Elements with JavaScript: A Comprehensive Guide](https://dev.to/ivan_kaminskyi/how-to-modify-dom-elements-with-javascript-a-comprehensive-guide-140i)
 - [Lifehacker] [You Can Get This Photo Editor App for 80% Off Right Now](https://lifehacker.com/you-can-get-this-photo-editor-app-for-80-off-right-now-1850541081)
-- [Lifehacker] [Why It&#39;s Better to Charge Your Electric Car at a Public Charging Station](https://lifehacker.com/why-its-better-to-charge-your-electric-car-at-a-public-1850541998)
 - [Dev.to/JS] [Svelte Real-time Multiplayer Game: User Presence](https://dev.to/askrodney/svelte-real-time-multiplayer-game-user-presence-346b)
 - [Dev.to/JS] [Marina Living](https://dev.to/annitaff13/marina-living-4g2m)
 - [Lifehacker] [What People Are Getting Wrong This Week: UFOs and the Government](https://lifehacker.com/what-people-are-getting-wrong-this-week-ufos-and-the-g-1850541750)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [GraphQL with NEXT JS](https://dev.to/shubhamtiwari909/graphql-with-next-js-59j8)
 - [Lifehacker] [How to Help Guide Your Teen Through the Overwhelm of High School](https://lifehacker.com/how-to-help-guide-your-teen-through-the-overwhelm-of-hi-1850540899)
 - [Lifehacker] [This Compact Nintendo Switch Docking Station Is $20 Right Now](https://lifehacker.com/this-compact-nintendo-switch-docking-station-is-20-rig-1850539915)
-- [Dev.to/JS] [Extend WooCommerce API Authentication for Custom API Integration](https://dev.to/adeleyeayodeji/extend-woocommerce-api-authentication-for-custom-api-integration-2i4k)
-- [Dev.to/JS] [Responsive Navbar Using JQuery](https://dev.to/gururaj-math/responsive-navbar-using-jquery-o59)
 - [Lifehacker] [TikTok’s Upside-Down Puff Pastry Hack Is Actually Pretty Good](https://lifehacker.com/tiktok-s-upside-down-puff-pastry-hack-is-actually-prett-1850540557)
 - [Lifehacker] [Three Things You Should Do With That Crusty Maple Syrup Bottle &lpar;Before Tossing It&rpar;](https://lifehacker.com/three-things-you-should-do-with-that-crusty-maple-syrup-1850536539)
 - [Lifehacker] [Relive the Internet of the ’90s With ‘Neocities’](https://lifehacker.com/relive-the-internet-of-the-90s-with-neocities-1850540482)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Travel With Supplements Without Getting Busted for Packing Your Suitcase With Suspicious White Powder](https://lifehacker.com/how-to-travel-with-supplements-without-getting-busted-f-1850536185)
 - [Lifehacker] [How to Have a ‘Sexual State of the Union’ &lpar;but Don’t Call It That&rpar;](https://lifehacker.com/how-to-have-a-sexual-state-of-the-union-but-don-t-ca-1850536135)
 - [Lifehacker] [How Many Credit Cards Is Too Many?](https://lifehacker.com/how-many-credit-cards-is-too-many-1850535825)
-- [Lifehacker] [Why There Are So Many Ticks in Your Yard &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-there-are-so-many-ticks-in-your-yard-and-what-to-d-1850534255)
-- [Lifehacker] [How to Organize Your Fridge Like a Grown-Up](https://lifehacker.com/how-to-organize-your-fridge-like-a-grown-up-1850535671)
-- [Lifehacker] [Three Ways a Pillowcase Can Keep Your House a Little Cleaner](https://lifehacker.com/three-ways-a-pillowcase-can-keep-your-house-a-little-cl-1850535132)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why There Are So Many Ticks in Your Yard &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-there-are-so-many-ticks-in-your-yard-and-what-to-d-1850534255)<!-- TECH-POSTS:END -->
 
 ---
 
