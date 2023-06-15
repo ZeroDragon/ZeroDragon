@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Atoms Fixed Flux](https://dev.to/josh_claunch/how-atoms-fixed-flux-ggg)
+- [Dev.to/JS] [JavaScript localStorage: The complete guide](https://dev.to/alakkadshaw/javascript-localstorage-the-complete-guide-5a9a)
+- [Lifehacker] [I Tried Hanging Out With My Son in VR for Father&#39;s Day](https://lifehacker.com/can-virtual-reality-bring-families-together-for-father-1850545079)
 - [Lifehacker] [Don&#39;t Bother Boiling a Lemon to &#39;Neutralize&#39; Odors](https://lifehacker.com/dont-bother-boiling-a-lemon-to-neutralize-odors-1850544545)
 - [Dev.to/JS] [2nd Episode: Best practices.](https://dev.to/lausuarez02/2nd-episode-best-practices-848)
 - [Lifehacker] [You Should Pick and Pickle Green Strawberries](https://lifehacker.com/you-should-pick-and-pickle-green-strawberries-1850544383)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting Started with the Vercel AI SDK: Building Powerful AI Apps](https://dev.to/mikeyoung44/getting-started-with-the-vercel-ai-sdk-building-powerful-ai-apps-471m)
 - [Dev.to/JS] [Which JavaScript Framework is Right for You?](https://dev.to/dominicazuka/which-javascript-framework-is-right-for-you-4n34)
 - [Lifehacker] [How to Feel Less Terrified About Retirement](https://lifehacker.com/how-to-feel-less-terrified-about-retirement-1850543984)
-- [Dev.to/JS] [A Guide to Coding Standards to Improve Code Quality](https://dev.to/documatic/a-guide-to-coding-standards-to-improve-code-quality-68n)
-- [Dev.to/JS] [Skiff Crypto docs](https://dev.to/amilich/skiff-crypto-docs-3gm8)
 - [Lifehacker] [You Don’t Have to Marinate Everything Overnight](https://lifehacker.com/how-long-do-you-need-to-marinate-protein-1850541090)
 - [Lifehacker] [What Everyone Should Know About Squatter’s Rights](https://lifehacker.com/what-everyone-should-know-about-squatter-s-rights-1850543705)
 - [Lifehacker] [Save Money by Making Your Ground Meat Supply Last Longer](https://lifehacker.com/save-money-by-making-your-ground-meat-supply-last-longe-1850542915)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Reddit Blackout Is Over, but the Protest Isn’t](https://lifehacker.com/the-reddit-blackout-is-over-but-the-protest-isn-t-1850539204)
 - [Lifehacker] [What to Do About Your Trauma-Based &#39;Hyper Independence&#39;](https://lifehacker.com/what-to-do-about-your-trauma-based-hyper-independence-1850538921)
 - [Lifehacker] [This Cybersecurity and IT Skills Course Is Over 90% Off Right Now](https://lifehacker.com/this-cybersecurity-and-it-skills-course-is-over-90-off-1850509047)
-- [Lifehacker] [Learn ChatGPT Basics With This $20 Course](https://lifehacker.com/learn-chatgpt-basics-with-this-20-course-1850509044)
-- [Lifehacker] [Roll Up Your Google Search Results With This ‘Katamari’ Minigame](https://lifehacker.com/roll-up-your-google-search-results-with-this-katamari-1850538490)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Learn ChatGPT Basics With This $20 Course](https://lifehacker.com/learn-chatgpt-basics-with-this-20-course-1850509044)<!-- TECH-POSTS:END -->
 
 ---
 
