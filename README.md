@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Updated Version of React Native Starter](https://dev.to/flatlogic/updated-version-of-react-native-starter-47d9)
+- [Dev.to/JS] [Magic Link Auth Tutorial: What is Email Only Authentication?](https://dev.to/ubahthebuilder/magic-link-auth-tutorial-what-is-email-only-authentication-4g9b)
+- [Dev.to/JS] [Everyday Concepts #1: What is &#39;??&#39; operator in Javascript](https://dev.to/rakshitmaini/everyday-concepts-1-what-is-operator-in-javascript-30k)
+- [Dev.to/JS] [Day 0: JavaScript Revision | The last REACT course you need](https://dev.to/vaib215/day-0-javascript-revision-the-last-react-course-you-need-4lh8)
 - [Dev.to/JS] [How we built modular tab system with side by side view](https://dev.to/denislaca/how-we-built-modular-tab-system-with-side-by-side-view-4cmb)
 - [Dev.to/JS] [Power of Web Components: Reusable and Customizable UI Elements 🚀🔥](https://dev.to/arjuncodess/power-of-web-components-reusable-and-customizable-ui-elements-245l)
 - [Dev.to/JS] [Field Plugin SDK Beta Release](https://dev.to/storyblok/field-plugin-sdk-beta-release-55el)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript and Tame the Beast of Maintainability: Conquer Complex Codebases with Confidence! 🦁🔒](https://dev.to/jcwieme/typescript-and-tame-the-beast-of-maintainability-conquer-complex-codebases-with-confidence-4hib)
 - [Dev.to/JS] [TypeScript and Smooth Sailing with JavaScript: Enhance Your Development Journey! ⛵🌊](https://dev.to/jcwieme/typescript-and-smooth-sailing-with-javascript-enhance-your-development-journey-23h5)
 - [Dev.to/JS] [TypeScript and Hang Out with the Coolest Community: Join the TypeScript Tribe! 🚀🌟](https://dev.to/jcwieme/typescript-and-hang-out-with-the-coolest-community-join-the-typescript-tribe-5h4b)
-- [Dev.to/JS] [TypeScript and the Superpowers of Advanced Language Features: Unleash Your Coding Potential! ⚡🚀](https://dev.to/jcwieme/typescript-and-the-superpowers-of-advanced-language-features-unleash-your-coding-potential-1bgl)
-- [Dev.to/JS] [Turbocharged Tooling with TypeScript: Supercharge Your Development Workflow! ⚡🔧💻](https://dev.to/jcwieme/turbocharged-tooling-with-typescript-supercharge-your-development-workflow-4io)
-- [Dev.to/JS] [The Power of Type Safety with TypeScript: Building Better, Bug-Free Code 💪🔒](https://dev.to/jcwieme/the-power-of-type-safety-with-typescript-building-better-bug-free-code-2303)
-- [Dev.to/JS] [ChatGPT Code Review Integration](https://dev.to/pelayomendez/chatgpt-code-review-integration-2bj7)
 - [Lifehacker] [Three Things You Should Do With That Crusty Maple Syrup Bottle &lpar;Before Tossing It&rpar;](https://lifehacker.com/three-things-you-should-do-with-that-crusty-maple-syrup-1850536539)
 - [Lifehacker] [Relive the Internet of the ’90s With ‘Neocities’](https://lifehacker.com/relive-the-internet-of-the-90s-with-neocities-1850540482)
 - [Crazy Programmer] [Claude Shannon Biography](https://www.thecrazyprogrammer.com/2023/06/claude-shannon-biography.html)
