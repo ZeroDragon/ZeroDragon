@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [100 Days Coding Challenge - Day 26: FreeCodeCamp JavaScript Algorithms and Data Structures](https://dev.to/alexmgp7/100-days-coding-challenge-day-27-freecodecamp-javascript-algorithms-and-data-structures-276k)
+- [Dev.to/JS] [Mastering Asynchronous JavaScript: Promises vs Async/Await](https://dev.to/abhaysinghr1/mastering-asynchronous-javascript-promises-vs-asyncawait-485n)
+- [Dev.to/JS] [Unlocking Developer Learning and Code Interpretation with AI Assistance](https://dev.to/aiforme/unlocking-developer-learning-and-code-interpretation-with-ai-assistance-46kj)
 - [Dev.to/JS] [The Art of Writing Clean JavaScript Code: A Comprehensive Guide](https://dev.to/ivan_kaminskyi/the-art-of-writing-clean-javascript-code-a-comprehensive-guide-49eo)
 - [Dev.to/JS] [Mastering Client-Side Storage: A Comprehensive Guide to Using Local Storage and Session Storage in JavaScript](https://dev.to/ivan_kaminskyi/mastering-client-side-storage-a-comprehensive-guide-to-using-local-storage-and-session-storage-in-javascript-2fg6)
 - [Dev.to/JS] [Applying SOLID Principles in React: Improve Your Code Quality and Maintainability](https://dev.to/ivan_kaminskyi/applying-solid-principles-in-react-improve-your-code-quality-and-maintainability-40oo)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Manipulación de fechas y horas con Moment.js](https://dev.to/beresiartejuan/manipulacion-de-fechas-y-horas-con-momentjs-5a7c)
 - [Dev.to/JS] [Add Particles.js to Your Squarespace Site](https://dev.to/michaelsynan/add-particlesjs-to-your-squarespace-site-40kj)
 - [Dev.to/JS] [Cifrado y descifrado con Crypto.js](https://dev.to/beresiartejuan/cifrado-y-descifrado-con-cryptojs-3h5g)
-- [Dev.to/JS] [Mastering Express.js Commands](https://dev.to/syedmuhammadaliraza/mastering-expressjs-commands-1lde)
-- [Dev.to/JS] [How to Resolve the &quot;__dirname is not defined in ES module scope&quot; Error in JavaScript](https://dev.to/adrvnc/how-to-resolve-the-dirname-is-not-defined-in-es-module-scope-error-in-javascript-584)
-- [Dev.to/JS] [Data Transfer Objects &lpar;DTOs&rpar;: A Comprehensive Guide](https://dev.to/ezpzdevelopement/data-transfer-objects-dtos-a-comprehensive-guide-366p)
 - [Lifehacker] [Three Things You Should Do With That Crusty Maple Syrup Bottle &lpar;Before Tossing It&rpar;](https://lifehacker.com/three-things-you-should-do-with-that-crusty-maple-syrup-1850536539)
 - [Lifehacker] [Relive the Internet of the ’90s With ‘Neocities’](https://lifehacker.com/relive-the-internet-of-the-90s-with-neocities-1850540482)
 - [Crazy Programmer] [Claude Shannon Biography](https://www.thecrazyprogrammer.com/2023/06/claude-shannon-biography.html)
