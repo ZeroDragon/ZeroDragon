@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using EJS with Vite](https://dev.to/koistya/using-ejs-with-vite-48id)
+- [Dev.to/JS] [How to sort objects according to True and False values in Javascript](https://dev.to/billalsiddiqi/how-to-sort-objects-according-true-and-false-values-in-javascript-2b77)
+- [Dev.to/JS] [10 Best Web Development Stacks for 2023](https://dev.to/bravinsimiyu/10-best-web-development-stacks-for-2023-1a2k)
 - [Dev.to/JS] [Top 10 Vue.js Tricks You Might Not Know](https://dev.to/hakimov_dev/top-10-vuejs-tricks-you-might-not-know-5fai)
 - [Dev.to/JS] [How to use GPT-4 to Build SaaS Tools](https://dev.to/dan_on_ai/how-to-use-gpt-4-to-build-saas-tools-3pe3)
 - [Dev.to/JS] [Techkshya speaks:](https://dev.to/akshyayadav2/techkshya-speaks-3m4l)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array.filter&lpar;&rpar; Method](https://dev.to/mrizwanashiq/arrayfilter-method-2gl6)
 - [Dev.to/JS] [Array.map&lpar;&rpar; Method](https://dev.to/mrizwanashiq/arraymap-method-f8g)
 - [Dev.to/JS] [Updated Version of React Native Starter](https://dev.to/flatlogic/updated-version-of-react-native-starter-47d9)
-- [Dev.to/JS] [Magic Link Auth Tutorial: What is Email Only Authentication?](https://dev.to/ubahthebuilder/magic-link-auth-tutorial-what-is-email-only-authentication-4g9b)
-- [Dev.to/JS] [Everyday Concepts #1: What is &#39;??&#39; operator in Javascript](https://dev.to/rakshitmaini/everyday-concepts-1-what-is-operator-in-javascript-30k)
-- [Dev.to/JS] [Day 0: JavaScript Revision | The last REACT course you need](https://dev.to/vaib215/day-0-javascript-revision-the-last-react-course-you-need-4lh8)
 - [Lifehacker] [Three Things You Should Do With That Crusty Maple Syrup Bottle &lpar;Before Tossing It&rpar;](https://lifehacker.com/three-things-you-should-do-with-that-crusty-maple-syrup-1850536539)
 - [Lifehacker] [Relive the Internet of the ’90s With ‘Neocities’](https://lifehacker.com/relive-the-internet-of-the-90s-with-neocities-1850540482)
 - [Crazy Programmer] [Claude Shannon Biography](https://www.thecrazyprogrammer.com/2023/06/claude-shannon-biography.html)
