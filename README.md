@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Bother Boiling a Lemon to &#39;Neutralize&#39; Odors](https://lifehacker.com/dont-bother-boiling-a-lemon-to-neutralize-odors-1850544545)
 - [Dev.to/JS] [2nd Episode: Best practices.](https://dev.to/lausuarez02/2nd-episode-best-practices-848)
 - [Lifehacker] [You Should Pick and Pickle Green Strawberries](https://lifehacker.com/you-should-pick-and-pickle-green-strawberries-1850544383)
 - [Dev.to/JS] [Angular vs. React, dos herramientas poderosas en la Web](https://dev.to/vanessamarely/angular-vs-react-dos-herramientas-poderosas-en-la-web-121i)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do About Your Trauma-Based &#39;Hyper Independence&#39;](https://lifehacker.com/what-to-do-about-your-trauma-based-hyper-independence-1850538921)
 - [Lifehacker] [This Cybersecurity and IT Skills Course Is Over 90% Off Right Now](https://lifehacker.com/this-cybersecurity-and-it-skills-course-is-over-90-off-1850509047)
 - [Lifehacker] [Learn ChatGPT Basics With This $20 Course](https://lifehacker.com/learn-chatgpt-basics-with-this-20-course-1850509044)
-- [Lifehacker] [Roll Up Your Google Search Results With This ‘Katamari’ Minigame](https://lifehacker.com/roll-up-your-google-search-results-with-this-katamari-1850538490)
-- [Lifehacker] [What I Wish I&#39;d Known Before I Bought My Ruggable Rug](https://lifehacker.com/what-i-wish-id-known-before-i-bought-my-ruggable-rug-1850537539)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Roll Up Your Google Search Results With This ‘Katamari’ Minigame](https://lifehacker.com/roll-up-your-google-search-results-with-this-katamari-1850538490)<!-- TECH-POSTS:END -->
 
 ---
 
