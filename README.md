@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Planning for Neighborhood Empowering Social class to Resolve Their Own Issues](https://dev.to/horridhenr30674/planning-for-neighborhood-empowering-social-class-to-resolve-their-own-issues-e0h)
+- [Dev.to/JS] [Melhores práticas de segurança para APIs Node.js com Express.js](https://dev.to/jhonyaraujooficial/melhores-praticas-de-seguranca-para-apis-nodejs-com-expressjs-g5a)
+- [Lifehacker] [You Can Try Writing Directly in Windows Text Fields Now](https://lifehacker.com/you-can-try-writing-directly-in-windows-text-fields-now-1850543212)
+- [Dev.to/JS] [The Power of Memoization: A Deep Dive into useMemo, useCallback, and useEffect](https://dev.to/abomisr/the-power-of-memoization-a-deep-dive-into-usememo-usecallback-and-useeffect-3a84)
+- [Dev.to/JS] [How to Modify DOM Elements with JavaScript: A Comprehensive Guide](https://dev.to/ivan_kaminskyi/how-to-modify-dom-elements-with-javascript-a-comprehensive-guide-140i)
 - [Lifehacker] [You Can Get This Photo Editor App for 80% Off Right Now](https://lifehacker.com/you-can-get-this-photo-editor-app-for-80-off-right-now-1850541081)
 - [Lifehacker] [Why It&#39;s Better to Charge Your Electric Car at a Public Charging Station](https://lifehacker.com/why-its-better-to-charge-your-electric-car-at-a-public-1850541998)
 - [Dev.to/JS] [Svelte Real-time Multiplayer Game: User Presence](https://dev.to/askrodney/svelte-real-time-multiplayer-game-user-presence-346b)
@@ -37,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Compact Nintendo Switch Docking Station Is $20 Right Now](https://lifehacker.com/this-compact-nintendo-switch-docking-station-is-20-rig-1850539915)
 - [Dev.to/JS] [Extend WooCommerce API Authentication for Custom API Integration](https://dev.to/adeleyeayodeji/extend-woocommerce-api-authentication-for-custom-api-integration-2i4k)
 - [Dev.to/JS] [Responsive Navbar Using JQuery](https://dev.to/gururaj-math/responsive-navbar-using-jquery-o59)
-- [Dev.to/JS] [Bootstrap with React: The Complete Guide](https://dev.to/alakkadshaw/bootstrap-with-react-the-complete-guide-5h0p)
-- [Dev.to/JS] [Something to consider when sharing state with Zustand](https://dev.to/muratcanyuksel/something-to-consider-when-sharing-state-with-zustand-47pe)
 - [Lifehacker] [TikTok’s Upside-Down Puff Pastry Hack Is Actually Pretty Good](https://lifehacker.com/tiktok-s-upside-down-puff-pastry-hack-is-actually-prett-1850540557)
-- [Dev.to/JS] [Moonly weekly progress update #53 - Upgraded Holder Verification Bot](https://dev.to/moonly/moonly-weekly-progress-update-53-upgraded-holder-verification-bot-3db8)
-- [Dev.to/JS] [5 Principles of Software Engineering: Building the Foundation of Modern Technology](https://dev.to/emeroid/5-principles-of-software-engineering-building-the-foundation-of-modern-technology-4md3)
 - [Lifehacker] [Three Things You Should Do With That Crusty Maple Syrup Bottle &lpar;Before Tossing It&rpar;](https://lifehacker.com/three-things-you-should-do-with-that-crusty-maple-syrup-1850536539)
 - [Lifehacker] [Relive the Internet of the ’90s With ‘Neocities’](https://lifehacker.com/relive-the-internet-of-the-90s-with-neocities-1850540482)
 - [Crazy Programmer] [Claude Shannon Biography](https://www.thecrazyprogrammer.com/2023/06/claude-shannon-biography.html)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Many Credit Cards Is Too Many?](https://lifehacker.com/how-many-credit-cards-is-too-many-1850535825)
 - [Lifehacker] [Why There Are So Many Ticks in Your Yard &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-there-are-so-many-ticks-in-your-yard-and-what-to-d-1850534255)
 - [Lifehacker] [How to Organize Your Fridge Like a Grown-Up](https://lifehacker.com/how-to-organize-your-fridge-like-a-grown-up-1850535671)
-- [Lifehacker] [Three Ways a Pillowcase Can Keep Your House a Little Cleaner](https://lifehacker.com/three-ways-a-pillowcase-can-keep-your-house-a-little-cl-1850535132)
-- [Lifehacker] [Three Things You Should Do Before Deleting Your Reddit Account](https://lifehacker.com/three-things-you-should-do-before-deleting-your-reddit-1850534879)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Three Ways a Pillowcase Can Keep Your House a Little Cleaner](https://lifehacker.com/three-ways-a-pillowcase-can-keep-your-house-a-little-cl-1850535132)<!-- TECH-POSTS:END -->
 
 ---
 
