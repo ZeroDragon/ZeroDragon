@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Moonly weekly progress update #53 - Upgraded Holder Verification Bot](https://dev.to/moonly/moonly-weekly-progress-update-53-upgraded-holder-verification-bot-3db8)
+- [Dev.to/JS] [5 Principles of Software Engineering: Building the Foundation of Modern Technology](https://dev.to/emeroid/5-principles-of-software-engineering-building-the-foundation-of-modern-technology-4md3)
+- [Dev.to/JS] [How to create a static website generator in JavaScript](https://dev.to/irishgeoff11/create-a-static-website-generator-in-javascript-7mo)
 - [Dev.to/JS] [Using EJS with Vite](https://dev.to/koistya/using-ejs-with-vite-48id)
 - [Dev.to/JS] [How to sort objects according to True and False values in Javascript](https://dev.to/billalsiddiqi/how-to-sort-objects-according-true-and-false-values-in-javascript-2b77)
 - [Dev.to/JS] [10 Best Web Development Stacks for 2023](https://dev.to/bravinsimiyu/10-best-web-development-stacks-for-2023-1a2k)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Notification listner event not listning to notification when app is in production build. working fine in debug apk.](https://dev.to/gkpradhnani1998/notification-listner-event-not-listning-to-notification-when-app-is-in-production-build-working-fine-in-debug-apk-24an)
 - [Dev.to/JS] [Understanding &quot;this&quot; keyword in Javascript](https://dev.to/suresh02/understanding-this-keyword-in-javascript-520k)
 - [Dev.to/JS] [Asynchronous JavaScript: Understanding Promises](https://dev.to/codecraftjs/asynchronous-javascript-understanding-promises-fga)
-- [Dev.to/JS] [Array.filter&lpar;&rpar; Method](https://dev.to/mrizwanashiq/arrayfilter-method-2gl6)
-- [Dev.to/JS] [Array.map&lpar;&rpar; Method](https://dev.to/mrizwanashiq/arraymap-method-f8g)
-- [Dev.to/JS] [Updated Version of React Native Starter](https://dev.to/flatlogic/updated-version-of-react-native-starter-47d9)
 - [Lifehacker] [Three Things You Should Do With That Crusty Maple Syrup Bottle &lpar;Before Tossing It&rpar;](https://lifehacker.com/three-things-you-should-do-with-that-crusty-maple-syrup-1850536539)
 - [Lifehacker] [Relive the Internet of the ’90s With ‘Neocities’](https://lifehacker.com/relive-the-internet-of-the-90s-with-neocities-1850540482)
 - [Crazy Programmer] [Claude Shannon Biography](https://www.thecrazyprogrammer.com/2023/06/claude-shannon-biography.html)
