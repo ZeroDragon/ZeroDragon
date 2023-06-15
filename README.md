@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Feel Less Terrified About Retirement](https://lifehacker.com/how-to-feel-less-terrified-about-retirement-1850543984)
+- [Dev.to/JS] [A Guide to Coding Standards to Improve Code Quality](https://dev.to/documatic/a-guide-to-coding-standards-to-improve-code-quality-68n)
+- [Dev.to/JS] [Skiff Crypto docs](https://dev.to/amilich/skiff-crypto-docs-3gm8)
+- [Lifehacker] [You Don’t Have to Marinate Everything Overnight](https://lifehacker.com/how-long-do-you-need-to-marinate-protein-1850541090)
+- [Dev.to/JS] [Launched Special 0588953045 Dubai Call&#39; Girls By Call&#39; girls bur dubai](https://dev.to/asfsdg347640712/launched-special-0588953045-dubai-call-girls-by-call-girls-bur-dubai-2585)
+- [Dev.to/JS] [introducing new Vercel AI SDK](https://dev.to/sip/vercel-ai-sdk-24d0)
 - [Lifehacker] [What Everyone Should Know About Squatter’s Rights](https://lifehacker.com/what-everyone-should-know-about-squatter-s-rights-1850543705)
 - [Dev.to/JS] [Celebrating 1000 Followers on dev.to - A Journey of Learning and Growth!](https://dev.to/muhmmadawd/celebrating-1000-followers-on-devto-a-journey-of-learning-and-growth-1a0o)
 - [Lifehacker] [Save Money by Making Your Ground Meat Supply Last Longer](https://lifehacker.com/save-money-by-making-your-ground-meat-supply-last-longe-1850542915)
@@ -37,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Svelte Real-time Multiplayer Game: User Presence](https://dev.to/askrodney/svelte-real-time-multiplayer-game-user-presence-346b)
 - [Dev.to/JS] [Marina Living](https://dev.to/annitaff13/marina-living-4g2m)
 - [Lifehacker] [What People Are Getting Wrong This Week: UFOs and the Government](https://lifehacker.com/what-people-are-getting-wrong-this-week-ufos-and-the-g-1850541750)
-- [Dev.to/JS] [Everybody hates cookies, so why are they still alive in 2023? 🤔](https://dev.to/aerodarius/everybody-hates-cookies-so-why-are-they-still-alive-in-2023-584o)
-- [Dev.to/JS] [How to Write Cleaner Code with AI](https://dev.to/aiforme/how-to-write-cleaner-code-with-ai-2e09)
 - [Lifehacker] [Four Ways to Clean Grease and Oil Stains From Your Concrete](https://lifehacker.com/four-ways-to-clean-grease-and-oil-stains-from-your-conc-1850541866)
-- [Dev.to/JS] [Building Web Applications: A Comprehensive Overview of Popular Stacks⬇️](https://dev.to/baraa/building-web-applications-a-comprehensive-overview-of-popular-stacks-26pd)
-- [Dev.to/JS] [GraphQL with NEXT JS](https://dev.to/shubhamtiwari909/graphql-with-next-js-59j8)
 - [Lifehacker] [How to Help Guide Your Teen Through the Overwhelm of High School](https://lifehacker.com/how-to-help-guide-your-teen-through-the-overwhelm-of-hi-1850540899)
 - [Lifehacker] [This Compact Nintendo Switch Docking Station Is $20 Right Now](https://lifehacker.com/this-compact-nintendo-switch-docking-station-is-20-rig-1850539915)
 - [Lifehacker] [TikTok’s Upside-Down Puff Pastry Hack Is Actually Pretty Good](https://lifehacker.com/tiktok-s-upside-down-puff-pastry-hack-is-actually-prett-1850540557)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What I Wish I&#39;d Known Before I Bought My Ruggable Rug](https://lifehacker.com/what-i-wish-id-known-before-i-bought-my-ruggable-rug-1850537539)
 - [Lifehacker] [This Pop-Up Camping Cabin Is 15% Off Right Now](https://lifehacker.com/this-pop-up-camping-cabin-is-15-off-right-now-1850509039)
 - [Lifehacker] [How to Travel With Supplements Without Getting Busted for Packing Your Suitcase With Suspicious White Powder](https://lifehacker.com/how-to-travel-with-supplements-without-getting-busted-f-1850536185)
-- [Lifehacker] [How to Have a ‘Sexual State of the Union’ &lpar;but Don’t Call It That&rpar;](https://lifehacker.com/how-to-have-a-sexual-state-of-the-union-but-don-t-ca-1850536135)
-- [Lifehacker] [How Many Credit Cards Is Too Many?](https://lifehacker.com/how-many-credit-cards-is-too-many-1850535825)
-- [Lifehacker] [Why There Are So Many Ticks in Your Yard &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-there-are-so-many-ticks-in-your-yard-and-what-to-d-1850534255)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Have a ‘Sexual State of the Union’ &lpar;but Don’t Call It That&rpar;](https://lifehacker.com/how-to-have-a-sexual-state-of-the-union-but-don-t-ca-1850536135)<!-- TECH-POSTS:END -->
 
 ---
 
