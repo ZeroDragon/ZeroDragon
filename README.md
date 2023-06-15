@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a reactive split-flap display with RxJS and Rimmel.js](https://dev.to/dariomannu/build-a-reactive-split-flap-display-with-rxjs-and-rimmeljs-177m)
+- [Dev.to/JS] [When and how to use Daily’s new custom session data feature](https://dev.to/trydaily/when-and-how-to-use-dailys-new-custom-session-data-feature-2f3o)
+- [Lifehacker] [When to Use a Microfiber Cloth Instead of Paper Towels](https://lifehacker.com/when-to-use-a-microfiber-cloth-instead-of-paper-towels-1850544019)
+- [Dev.to/JS] [&quot;Unveiling JavaScript&#39;s Puzzling Quirk: The Object Identity of Null&quot;](https://dev.to/bikidas/unveiling-javascripts-puzzling-quirk-the-object-identity-of-null-2ifp)
+- [Dev.to/JS] [Getting Started with the Vercel AI SDK: Building Powerful AI Apps](https://dev.to/mikeyoung44/getting-started-with-the-vercel-ai-sdk-building-powerful-ai-apps-471m)
+- [Dev.to/JS] [Which JavaScript Framework is Right for You?](https://dev.to/dominicazuka/which-javascript-framework-is-right-for-you-4n34)
 - [Lifehacker] [How to Feel Less Terrified About Retirement](https://lifehacker.com/how-to-feel-less-terrified-about-retirement-1850543984)
 - [Dev.to/JS] [A Guide to Coding Standards to Improve Code Quality](https://dev.to/documatic/a-guide-to-coding-standards-to-improve-code-quality-68n)
 - [Dev.to/JS] [Skiff Crypto docs](https://dev.to/amilich/skiff-crypto-docs-3gm8)
@@ -32,16 +38,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Everyone Should Know About Squatter’s Rights](https://lifehacker.com/what-everyone-should-know-about-squatter-s-rights-1850543705)
 - [Dev.to/JS] [Celebrating 1000 Followers on dev.to - A Journey of Learning and Growth!](https://dev.to/muhmmadawd/celebrating-1000-followers-on-devto-a-journey-of-learning-and-growth-1a0o)
 - [Lifehacker] [Save Money by Making Your Ground Meat Supply Last Longer](https://lifehacker.com/save-money-by-making-your-ground-meat-supply-last-longe-1850542915)
-- [Lifehacker] [Why So Many People Care About Formula 1 &lpar;and How You Can Too&rpar;](https://lifehacker.com/why-so-many-people-care-about-formula-1-and-how-you-ca-1850543411)
 - [Dev.to/JS] [Life Hacks in Coding: Boosting Your Development Skills](https://dev.to/gaborhorvathkovacs/life-hacks-in-coding-boosting-your-development-skills-4b2j)
+- [Lifehacker] [Why So Many People Care About Formula 1 &lpar;and How You Can Too&rpar;](https://lifehacker.com/why-so-many-people-care-about-formula-1-and-how-you-ca-1850543411)
 - [Dev.to/JS] [Planning for Neighborhood Empowering Social class to Resolve Their Own Issues](https://dev.to/horridhenr30674/planning-for-neighborhood-empowering-social-class-to-resolve-their-own-issues-e0h)
-- [Dev.to/JS] [Melhores práticas de segurança para APIs Node.js com Express.js](https://dev.to/jhonyaraujooficial/melhores-praticas-de-seguranca-para-apis-nodejs-com-expressjs-g5a)
 - [Lifehacker] [You Can Try Writing Directly in Windows Text Fields Now](https://lifehacker.com/you-can-try-writing-directly-in-windows-text-fields-now-1850543212)
-- [Dev.to/JS] [The Power of Memoization: A Deep Dive into useMemo, useCallback, and useEffect](https://dev.to/abomisr/the-power-of-memoization-a-deep-dive-into-usememo-usecallback-and-useeffect-3a84)
-- [Dev.to/JS] [How to Modify DOM Elements with JavaScript: A Comprehensive Guide](https://dev.to/ivan_kaminskyi/how-to-modify-dom-elements-with-javascript-a-comprehensive-guide-140i)
 - [Lifehacker] [You Can Get This Photo Editor App for 80% Off Right Now](https://lifehacker.com/you-can-get-this-photo-editor-app-for-80-off-right-now-1850541081)
-- [Dev.to/JS] [Svelte Real-time Multiplayer Game: User Presence](https://dev.to/askrodney/svelte-real-time-multiplayer-game-user-presence-346b)
-- [Dev.to/JS] [Marina Living](https://dev.to/annitaff13/marina-living-4g2m)
 - [Lifehacker] [What People Are Getting Wrong This Week: UFOs and the Government](https://lifehacker.com/what-people-are-getting-wrong-this-week-ufos-and-the-g-1850541750)
 - [Lifehacker] [Four Ways to Clean Grease and Oil Stains From Your Concrete](https://lifehacker.com/four-ways-to-clean-grease-and-oil-stains-from-your-conc-1850541866)
 - [Lifehacker] [How to Help Guide Your Teen Through the Overwhelm of High School](https://lifehacker.com/how-to-help-guide-your-teen-through-the-overwhelm-of-hi-1850540899)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Roll Up Your Google Search Results With This ‘Katamari’ Minigame](https://lifehacker.com/roll-up-your-google-search-results-with-this-katamari-1850538490)
 - [Lifehacker] [What I Wish I&#39;d Known Before I Bought My Ruggable Rug](https://lifehacker.com/what-i-wish-id-known-before-i-bought-my-ruggable-rug-1850537539)
 - [Lifehacker] [This Pop-Up Camping Cabin Is 15% Off Right Now](https://lifehacker.com/this-pop-up-camping-cabin-is-15-off-right-now-1850509039)
-- [Lifehacker] [How to Travel With Supplements Without Getting Busted for Packing Your Suitcase With Suspicious White Powder](https://lifehacker.com/how-to-travel-with-supplements-without-getting-busted-f-1850536185)
-- [Lifehacker] [How to Have a ‘Sexual State of the Union’ &lpar;but Don’t Call It That&rpar;](https://lifehacker.com/how-to-have-a-sexual-state-of-the-union-but-don-t-ca-1850536135)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Travel With Supplements Without Getting Busted for Packing Your Suitcase With Suspicious White Powder](https://lifehacker.com/how-to-travel-with-supplements-without-getting-busted-f-1850536185)<!-- TECH-POSTS:END -->
 
 ---
 
