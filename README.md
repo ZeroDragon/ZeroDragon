@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Help Guide Your Teen Through the Overwhelm of High School](https://lifehacker.com/how-to-help-guide-your-teen-through-the-overwhelm-of-hi-1850540899)
+- [Lifehacker] [This Compact Nintendo Switch Docking Station Is $20 Right Now](https://lifehacker.com/this-compact-nintendo-switch-docking-station-is-20-rig-1850539915)
+- [Dev.to/JS] [Extend WooCommerce API Authentication for Custom API Integration](https://dev.to/adeleyeayodeji/extend-woocommerce-api-authentication-for-custom-api-integration-2i4k)
+- [Dev.to/JS] [Responsive Navbar Using JQuery](https://dev.to/gururaj-math/responsive-navbar-using-jquery-o59)
+- [Dev.to/JS] [Bootstrap with React: The Complete Guide](https://dev.to/alakkadshaw/bootstrap-with-react-the-complete-guide-5h0p)
+- [Dev.to/JS] [Something to consider when sharing state with Zustand](https://dev.to/muratcanyuksel/something-to-consider-when-sharing-state-with-zustand-47pe)
+- [Lifehacker] [TikTok’s Upside-Down Puff Pastry Hack Is Actually Pretty Good](https://lifehacker.com/tiktok-s-upside-down-puff-pastry-hack-is-actually-prett-1850540557)
 - [Dev.to/JS] [Moonly weekly progress update #53 - Upgraded Holder Verification Bot](https://dev.to/moonly/moonly-weekly-progress-update-53-upgraded-holder-verification-bot-3db8)
 - [Dev.to/JS] [5 Principles of Software Engineering: Building the Foundation of Modern Technology](https://dev.to/emeroid/5-principles-of-software-engineering-building-the-foundation-of-modern-technology-4md3)
 - [Dev.to/JS] [How to create a static website generator in JavaScript](https://dev.to/irishgeoff11/create-a-static-website-generator-in-javascript-7mo)
@@ -31,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Best Web Development Stacks for 2023](https://dev.to/bravinsimiyu/10-best-web-development-stacks-for-2023-1a2k)
 - [Dev.to/JS] [Top 10 Vue.js Tricks You Might Not Know](https://dev.to/hakimov_dev/top-10-vuejs-tricks-you-might-not-know-5fai)
 - [Dev.to/JS] [How to use GPT-4 to Build SaaS Tools](https://dev.to/dan_on_ai/how-to-use-gpt-4-to-build-saas-tools-3pe3)
-- [Dev.to/JS] [Techkshya speaks:](https://dev.to/akshyayadav2/techkshya-speaks-3m4l)
-- [Dev.to/JS] [Notification listner event not listning to notification when app is in production build. working fine in debug apk.](https://dev.to/gkpradhnani1998/notification-listner-event-not-listning-to-notification-when-app-is-in-production-build-working-fine-in-debug-apk-24an)
-- [Dev.to/JS] [Understanding &quot;this&quot; keyword in Javascript](https://dev.to/suresh02/understanding-this-keyword-in-javascript-520k)
-- [Dev.to/JS] [Asynchronous JavaScript: Understanding Promises](https://dev.to/codecraftjs/asynchronous-javascript-understanding-promises-fga)
 - [Lifehacker] [Three Things You Should Do With That Crusty Maple Syrup Bottle &lpar;Before Tossing It&rpar;](https://lifehacker.com/three-things-you-should-do-with-that-crusty-maple-syrup-1850536539)
 - [Lifehacker] [Relive the Internet of the ’90s With ‘Neocities’](https://lifehacker.com/relive-the-internet-of-the-90s-with-neocities-1850540482)
 - [Crazy Programmer] [Claude Shannon Biography](https://www.thecrazyprogrammer.com/2023/06/claude-shannon-biography.html)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Birthday Cake Waffles Are Almost Too Easy](https://lifehacker.com/these-birthday-cake-waffles-are-almost-too-easy-1850535118)
 - [Lifehacker] [This Amazon and Spotify Dropshipping Course Is $30 Right Now](https://lifehacker.com/this-amazon-and-spotify-dropshipping-course-is-30-righ-1850509035)
 - [Lifehacker] [Ramen-Fried Eggs Are a Textural Delight](https://lifehacker.com/ramen-fried-eggs-are-a-textural-delight-1850534653)
-- [Lifehacker] [Try ‘Connections’ If You’re Bored With Wordle](https://lifehacker.com/try-connections-if-you-re-bored-with-wordle-1850534478)
-- [Lifehacker] [When You Should Use a Lease Guarantor Company &lpar;and When You Shouldn’t&rpar;](https://lifehacker.com/here-s-when-you-should-use-a-lease-guarantor-company-a-1850534130)
-- [Lifehacker] [Stop Strava From Revealing Your Home Address](https://lifehacker.com/stop-strava-from-revealing-your-home-address-1850533685)
-- [Lifehacker] [This Geminos Stacked Dual Monitor Is $100 Off Right Now](https://lifehacker.com/this-geminos-stacked-dual-monitor-is-100-off-right-now-1850509030)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Try ‘Connections’ If You’re Bored With Wordle](https://lifehacker.com/try-connections-if-you-re-bored-with-wordle-1850534478)<!-- TECH-POSTS:END -->
 
 ---
 
