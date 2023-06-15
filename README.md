@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data Transfer Objects &lpar;DTOs&rpar;: A Comprehensive Guide](https://dev.to/ezpzdevelopement/data-transfer-objects-dtos-a-comprehensive-guide-366p)
+- [Dev.to/JS] [Shadcn UI pros and cons](https://dev.to/musabdev/shadcn-ui-pros-and-cons-3ne8)
+- [Dev.to/JS] [How to test the Hidden API &lpar;from Material UI&rpar;](https://dev.to/hmcodes/how-to-activate-the-hidden-api-from-material-ui-in-a-jest-test-n1n)
 - [Dev.to/JS] [State In React Js.](https://dev.to/cybermaxi7/state-in-react-js-52fg)
 - [Dev.to/JS] [Time to Transition](https://dev.to/bealecs/time-to-transition-54o1)
 - [Lifehacker] [Three Things You Should Do With That Crusty Maple Syrup Bottle &lpar;Before Tossing It&rpar;](https://lifehacker.com/three-things-you-should-do-with-that-crusty-maple-syrup-1850536539)
@@ -39,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Signal That You Don’t Want Any Interruptions at Work](https://lifehacker.com/the-easiest-ways-to-signal-that-you-don-t-want-any-inte-1850539721)
 - [Dev.to/JS] [Blog-Website](https://dev.to/gururaj-math/blog-website-1270)
 - [Lifehacker] [What It Means to Be &quot;Unbanked&quot; &lpar;and What It Costs You&rpar;](https://lifehacker.com/what-it-means-to-be-unbanked-and-what-it-costs-you-1850539632)
-- [Dev.to/JS] [Testing in React with Jest and Enzyme](https://dev.to/sammychris/testing-in-react-with-jest-and-enzyme-knb)
-- [Dev.to/JS] [Best 7 Open-source projects built with Node.js / React.js](https://dev.to/saurav_kumar/best-7-open-source-projects-built-with-nodejs-reactjs-52p7)
-- [Dev.to/JS] [BudPay: Empowering Global Businesses with Borderless Payment Solutions](https://dev.to/devsuite/budpay-empowering-global-businesses-with-borderless-payment-solutions-ni3)
 - [Lifehacker] [The Reddit Blackout Is Over, but the Protest Isn’t](https://lifehacker.com/the-reddit-blackout-is-over-but-the-protest-isn-t-1850539204)
 - [Lifehacker] [What to Do About Your Trauma-Based &#39;Hyper Independence&#39;](https://lifehacker.com/what-to-do-about-your-trauma-based-hyper-independence-1850538921)
 - [Lifehacker] [This Cybersecurity and IT Skills Course Is Over 90% Off Right Now](https://lifehacker.com/this-cybersecurity-and-it-skills-course-is-over-90-off-1850509047)
