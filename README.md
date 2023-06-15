@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [2nd Episode: Best practices.](https://dev.to/lausuarez02/2nd-episode-best-practices-848)
+- [Lifehacker] [You Should Pick and Pickle Green Strawberries](https://lifehacker.com/you-should-pick-and-pickle-green-strawberries-1850544383)
+- [Dev.to/JS] [Angular vs. React, dos herramientas poderosas en la Web](https://dev.to/vanessamarely/angular-vs-react-dos-herramientas-poderosas-en-la-web-121i)
+- [Dev.to/JS] [Sudoku Solver](https://dev.to/_alkesh26/sudoku-solver-ggh)
+- [Dev.to/JS] [Resolvendo o Exercise Tracker - Free-code-camp](https://dev.to/adrielh024/resolvendo-o-exercise-tracker-free-code-camp-2e4e)
+- [Dev.to/JS] [Array.find&lpar;&rpar; Method](https://dev.to/mrizwanashiq/arrayfind-method-41b5)
+- [Lifehacker] [The Difference Between &#39;Heirloom&#39; and &#39;Heritage&#39; Chickens](https://lifehacker.com/the-difference-between-heirloom-and-heritage-chickens-1850544200)
 - [Dev.to/JS] [Build a reactive split-flap display with RxJS and Rimmel.js](https://dev.to/dariomannu/build-a-reactive-split-flap-display-with-rxjs-and-rimmeljs-177m)
 - [Dev.to/JS] [When and how to use Daily’s new custom session data feature](https://dev.to/trydaily/when-and-how-to-use-dailys-new-custom-session-data-feature-2f3o)
 - [Lifehacker] [When to Use a Microfiber Cloth Instead of Paper Towels](https://lifehacker.com/when-to-use-a-microfiber-cloth-instead-of-paper-towels-1850544019)
@@ -33,14 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Guide to Coding Standards to Improve Code Quality](https://dev.to/documatic/a-guide-to-coding-standards-to-improve-code-quality-68n)
 - [Dev.to/JS] [Skiff Crypto docs](https://dev.to/amilich/skiff-crypto-docs-3gm8)
 - [Lifehacker] [You Don’t Have to Marinate Everything Overnight](https://lifehacker.com/how-long-do-you-need-to-marinate-protein-1850541090)
-- [Dev.to/JS] [Launched Special 0588953045 Dubai Call&#39; Girls By Call&#39; girls bur dubai](https://dev.to/asfsdg347640712/launched-special-0588953045-dubai-call-girls-by-call-girls-bur-dubai-2585)
-- [Dev.to/JS] [introducing new Vercel AI SDK](https://dev.to/sip/vercel-ai-sdk-24d0)
 - [Lifehacker] [What Everyone Should Know About Squatter’s Rights](https://lifehacker.com/what-everyone-should-know-about-squatter-s-rights-1850543705)
-- [Dev.to/JS] [Celebrating 1000 Followers on dev.to - A Journey of Learning and Growth!](https://dev.to/muhmmadawd/celebrating-1000-followers-on-devto-a-journey-of-learning-and-growth-1a0o)
 - [Lifehacker] [Save Money by Making Your Ground Meat Supply Last Longer](https://lifehacker.com/save-money-by-making-your-ground-meat-supply-last-longe-1850542915)
-- [Dev.to/JS] [Life Hacks in Coding: Boosting Your Development Skills](https://dev.to/gaborhorvathkovacs/life-hacks-in-coding-boosting-your-development-skills-4b2j)
 - [Lifehacker] [Why So Many People Care About Formula 1 &lpar;and How You Can Too&rpar;](https://lifehacker.com/why-so-many-people-care-about-formula-1-and-how-you-ca-1850543411)
-- [Dev.to/JS] [Planning for Neighborhood Empowering Social class to Resolve Their Own Issues](https://dev.to/horridhenr30674/planning-for-neighborhood-empowering-social-class-to-resolve-their-own-issues-e0h)
 - [Lifehacker] [You Can Try Writing Directly in Windows Text Fields Now](https://lifehacker.com/you-can-try-writing-directly-in-windows-text-fields-now-1850543212)
 - [Lifehacker] [You Can Get This Photo Editor App for 80% Off Right Now](https://lifehacker.com/you-can-get-this-photo-editor-app-for-80-off-right-now-1850541081)
 - [Lifehacker] [What People Are Getting Wrong This Week: UFOs and the Government](https://lifehacker.com/what-people-are-getting-wrong-this-week-ufos-and-the-g-1850541750)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Cybersecurity and IT Skills Course Is Over 90% Off Right Now](https://lifehacker.com/this-cybersecurity-and-it-skills-course-is-over-90-off-1850509047)
 - [Lifehacker] [Learn ChatGPT Basics With This $20 Course](https://lifehacker.com/learn-chatgpt-basics-with-this-20-course-1850509044)
 - [Lifehacker] [Roll Up Your Google Search Results With This ‘Katamari’ Minigame](https://lifehacker.com/roll-up-your-google-search-results-with-this-katamari-1850538490)
-- [Lifehacker] [What I Wish I&#39;d Known Before I Bought My Ruggable Rug](https://lifehacker.com/what-i-wish-id-known-before-i-bought-my-ruggable-rug-1850537539)
-- [Lifehacker] [This Pop-Up Camping Cabin Is 15% Off Right Now](https://lifehacker.com/this-pop-up-camping-cabin-is-15-off-right-now-1850509039)
-- [Lifehacker] [How to Travel With Supplements Without Getting Busted for Packing Your Suitcase With Suspicious White Powder](https://lifehacker.com/how-to-travel-with-supplements-without-getting-busted-f-1850536185)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What I Wish I&#39;d Known Before I Bought My Ruggable Rug](https://lifehacker.com/what-i-wish-id-known-before-i-bought-my-ruggable-rug-1850537539)<!-- TECH-POSTS:END -->
 
 ---
 
