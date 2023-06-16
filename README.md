@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Axios tutorial](https://dev.to/irishgeoff11/axios-tutorial-1g7j)
 - [Dev.to/JS] [Using Redux without Build Steps &lpar;a.k.a via CDN&rpar;](https://dev.to/sonyarianto/using-redux-without-build-steps-aka-via-cdn-4bgc)
 - [Dev.to/JS] [Descubre el poder del comando de línea para HTML, CSS y JavaScript: Una guía para principiantes](https://dev.to/nixcko/descubre-el-poder-del-comando-de-linea-para-html-css-y-javascript-una-guia-para-principiantes-1ghh)
 - [Dev.to/JS] [Create your own Snake Game🤩 with Javascript!](https://dev.to/codecraftjs/create-your-own-snake-game-with-javascript-36k0)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Difference between Promises and Observables.](https://dev.to/manthanank/difference-between-promises-and-observables-380e)
 - [Dev.to/JS] [Construye tu espacio de desarrollo local para HTML, CSS y JavaScript](https://dev.to/nixcko/construye-tu-espacio-de-desarrollo-local-para-html-css-y-javascript-2ef1)
 - [Dev.to/JS] [5 DRY Principles To Follow In React](https://dev.to/mohammadfaisal/5-dry-principles-to-follow-in-react-38pi)
-- [Dev.to/JS] [Top 10 VS Code Extensions for React Developers](https://dev.to/kristiyan_velkov/top-10-vs-code-extensions-for-react-developers-5ggh)
 - [Lifehacker] [I Tried Hanging Out With My Son in VR for Father&#39;s Day](https://lifehacker.com/can-virtual-reality-bring-families-together-for-father-1850545079)
 - [Lifehacker] [Don&#39;t Bother Boiling a Lemon to &#39;Neutralize&#39; Odors](https://lifehacker.com/dont-bother-boiling-a-lemon-to-neutralize-odors-1850544545)
 - [Lifehacker] [You Should Pick and Pickle Green Strawberries](https://lifehacker.com/you-should-pick-and-pickle-green-strawberries-1850544383)
