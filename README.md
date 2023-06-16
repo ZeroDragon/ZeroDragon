@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Beauty Of Javascript](https://dev.to/vivekpal/beauty-of-javascript-5a0j)
+- [Dev.to/JS] [Episode 23/23: Hydration in Angular, Angular Community Meetup](https://dev.to/this-is-angular/episode-2323-hydration-in-angular-angular-community-meetup-3fed)
+- [Dev.to/JS] [How to Add Google Analytics to a Next.js Application](https://dev.to/mohammadfaisal/how-to-add-google-analytics-to-a-nextjs-application-4438)
+- [Lifehacker] [Use ChatGPT to Prepare for Your Next Job Interview](https://lifehacker.com/use-chatgpt-to-prepare-for-your-next-job-interview-1850547294)
 - [Lifehacker] [Think Twice Before Cutting a Pill in Half](https://lifehacker.com/think-twice-before-cutting-a-pill-in-half-1850547388)
 - [Dev.to/JS] [Solve: objects are not valid as a react child](https://dev.to/reactjsguru/solve-objects-are-not-valid-as-a-react-child-2336)
 - [Dev.to/JS] [MongoDB $weeklyUpdate #120 &lpar;June 16, 2023&rpar;: The FIRST In-Person JSConf in India!](https://dev.to/mongodb/mongodb-weeklyupdate-120-june-16-2023-the-first-in-person-jsconf-in-india-236k)
@@ -35,12 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understand the JavaScript SEO basics in 2023](https://dev.to/readymadecode/understand-the-javascript-seo-basics-in-2023-3k64)
 - [Lifehacker] [Three Steps to Increase Your Chance of Getting a Raise](https://lifehacker.com/three-steps-to-increase-your-chance-of-getting-a-raise-1850546691)
 - [Dev.to/JS] [How to add Authentication with Subscriptions into your Next.js &lpar;/app&rpar; website.](https://dev.to/nicolas_bastida/how-to-add-authentication-with-subscriptions-into-your-nextjs-app-website-1513)
-- [Dev.to/JS] [OpenPlayerJS - HTML5 Video/Audio/YouTube Player - Integration](https://dev.to/sh20raj/openplayerjs-html5-videoaudioyoutube-player-integration-1c2g)
-- [Dev.to/JS] [How to Detect and Localize Logos in a Video with JavaScript?](https://dev.to/edenai/how-to-detect-and-localize-logos-in-a-video-with-javascript-37gi)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Rosetta Stone for Almost 40% Off](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-rosetta-stone-fo-1850541124)
 - [Lifehacker] [How to Know If You’re the Toxic One in Your Relationship](https://lifehacker.com/how-to-know-if-you-re-the-toxic-one-in-your-relationshi-1850546193)
 - [Lifehacker] [15 of the Best Video Game Remakes Ever Made](https://lifehacker.com/15-video-game-remakes-that-actually-deserve-to-exist-1850545901)
-- [Dev.to/JS] [Setting up Minio as a database for Medusajs](https://dev.to/nfuhs/setting-up-minio-as-a-database-for-medusajs-11gp)
 - [Lifehacker] [Why You Should Stop Sending Checks in the Mail, Especially Now](https://lifehacker.com/why-you-should-stop-sending-checks-in-the-mail-especia-1850543113)
 - [Lifehacker] [This Air Purifier With an H13 HEPA Filter Is Over 50% Off Right Now](https://lifehacker.com/this-air-purifier-with-an-h13-hepa-filter-is-over-50-o-1850541106)
 - [Lifehacker] [The Best Sex Positions When One of You Is Way Taller](https://lifehacker.com/the-best-sex-positions-when-one-of-you-is-way-taller-1850545686)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This Photo Editor App for 80% Off Right Now](https://lifehacker.com/you-can-get-this-photo-editor-app-for-80-off-right-now-1850541081)
 - [Lifehacker] [What People Are Getting Wrong This Week: UFOs and the Government](https://lifehacker.com/what-people-are-getting-wrong-this-week-ufos-and-the-g-1850541750)
 - [Lifehacker] [Four Ways to Clean Grease and Oil Stains From Your Concrete](https://lifehacker.com/four-ways-to-clean-grease-and-oil-stains-from-your-conc-1850541866)
-- [Lifehacker] [How to Help Guide Your Teen Through the Overwhelm of High School](https://lifehacker.com/how-to-help-guide-your-teen-through-the-overwhelm-of-hi-1850540899)
-- [Lifehacker] [This Compact Nintendo Switch Docking Station Is $20 Right Now](https://lifehacker.com/this-compact-nintendo-switch-docking-station-is-20-rig-1850539915)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Help Guide Your Teen Through the Overwhelm of High School](https://lifehacker.com/how-to-help-guide-your-teen-through-the-overwhelm-of-hi-1850540899)<!-- TECH-POSTS:END -->
 
 ---
 
