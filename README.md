@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Think Twice Before Cutting a Pill in Half](https://lifehacker.com/think-twice-before-cutting-a-pill-in-half-1850547388)
+- [Dev.to/JS] [Solve: objects are not valid as a react child](https://dev.to/reactjsguru/solve-objects-are-not-valid-as-a-react-child-2336)
+- [Dev.to/JS] [MongoDB $weeklyUpdate #120 &lpar;June 16, 2023&rpar;: The FIRST In-Person JSConf in India!](https://dev.to/mongodb/mongodb-weeklyupdate-120-june-16-2023-the-first-in-person-jsconf-in-india-236k)
+- [Dev.to/JS] [Apple Vision Pro &amp; The Frontend Innovation](https://dev.to/c0mmand3rj/apple-vision-pro-the-frontend-innovation-1o6i)
+- [Lifehacker] [35 Netflix Originals You Probably Aren&#39;t Watching but Definitely Should Be](https://lifehacker.com/25-netflix-original-shows-you-probably-arent-watching-b-1847429789)
+- [Dev.to/JS] [Fuzz testing list CRDTs](https://dev.to/streamich/fuzz-testing-list-crdts-144g)
+- [Dev.to/JS] [Map Or Object with Computed Properties](https://dev.to/muhmmadawd/map-or-object-with-computed-properties-57nh)
 - [Dev.to/JS] [How to create a confetti effect in HTML?](https://dev.to/dhairyashah/how-to-create-a-confetti-effect-in-html-41m2)
 - [Dev.to/JS] [What the heck is Computed Properties in JavaScript](https://dev.to/muhmmadawd/what-the-heck-is-computed-properties-in-javascript-3aca)
 - [Dev.to/JS] [Understand the JavaScript SEO basics in 2023](https://dev.to/readymadecode/understand-the-javascript-seo-basics-in-2023-3k64)
@@ -34,15 +41,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Know If You’re the Toxic One in Your Relationship](https://lifehacker.com/how-to-know-if-you-re-the-toxic-one-in-your-relationshi-1850546193)
 - [Lifehacker] [15 of the Best Video Game Remakes Ever Made](https://lifehacker.com/15-video-game-remakes-that-actually-deserve-to-exist-1850545901)
 - [Dev.to/JS] [Setting up Minio as a database for Medusajs](https://dev.to/nfuhs/setting-up-minio-as-a-database-for-medusajs-11gp)
-- [Dev.to/JS] [Hoisting in JavaScript: Understanding the Mechanism and Best Practices](https://dev.to/ayushdev_24/hoisting-in-javascript-understanding-the-mechanism-and-best-practices-23n0)
 - [Lifehacker] [Why You Should Stop Sending Checks in the Mail, Especially Now](https://lifehacker.com/why-you-should-stop-sending-checks-in-the-mail-especia-1850543113)
-- [Dev.to/JS] [Cryto Transfers to Private Wallets: Now Facing Identification Checks](https://dev.to/rruhanking/cryto-transfers-to-private-wallets-now-facing-identification-checks-499d)
-- [Dev.to/JS] [3 Must-Use Tools for Code Reviews!](https://dev.to/aiforme/3-must-use-tools-for-code-reviews-3o61)
 - [Lifehacker] [This Air Purifier With an H13 HEPA Filter Is Over 50% Off Right Now](https://lifehacker.com/this-air-purifier-with-an-h13-hepa-filter-is-over-50-o-1850541106)
-- [Dev.to/JS] [I created open source vscode extension to help developers in this layoff season](https://dev.to/yashrajb/i-created-open-source-vscode-extension-to-help-developers-in-this-layoff-season-4271)
 - [Lifehacker] [The Best Sex Positions When One of You Is Way Taller](https://lifehacker.com/the-best-sex-positions-when-one-of-you-is-way-taller-1850545686)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Everyone Obsessed With Grimace?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-ev-1850546375)
-- [Dev.to/JS] [PurpleMod](https://dev.to/itsazukio/purplemod-428p)
 - [Lifehacker] [Koshō is the Citrusy Umami Bomb You’ll Want to Put on Everything](https://lifehacker.com/kosho-is-the-citrusy-umami-bomb-you-ll-want-to-put-on-e-1850545472)
 - [Lifehacker] [Orzo Is the Pasta of the Summer](https://lifehacker.com/orzo-is-the-pasta-of-the-summer-1850544500)
 - [Lifehacker] [I Tried Hanging Out With My Son in VR for Father&#39;s Day](https://lifehacker.com/can-virtual-reality-bring-families-together-for-father-1850545079)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What People Are Getting Wrong This Week: UFOs and the Government](https://lifehacker.com/what-people-are-getting-wrong-this-week-ufos-and-the-g-1850541750)
 - [Lifehacker] [Four Ways to Clean Grease and Oil Stains From Your Concrete](https://lifehacker.com/four-ways-to-clean-grease-and-oil-stains-from-your-conc-1850541866)
 - [Lifehacker] [How to Help Guide Your Teen Through the Overwhelm of High School](https://lifehacker.com/how-to-help-guide-your-teen-through-the-overwhelm-of-hi-1850540899)
-- [Lifehacker] [This Compact Nintendo Switch Docking Station Is $20 Right Now](https://lifehacker.com/this-compact-nintendo-switch-docking-station-is-20-rig-1850539915)
-- [Lifehacker] [TikTok’s Upside-Down Puff Pastry Hack Is Actually Pretty Good](https://lifehacker.com/tiktok-s-upside-down-puff-pastry-hack-is-actually-prett-1850540557)
-- [Lifehacker] [Three Things You Should Do With That Crusty Maple Syrup Bottle &lpar;Before Tossing It&rpar;](https://lifehacker.com/three-things-you-should-do-with-that-crusty-maple-syrup-1850536539)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Compact Nintendo Switch Docking Station Is $20 Right Now](https://lifehacker.com/this-compact-nintendo-switch-docking-station-is-20-rig-1850539915)<!-- TECH-POSTS:END -->
 
 ---
 
