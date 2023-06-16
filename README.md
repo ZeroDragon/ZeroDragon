@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Alterações de páginas de forma dinâmica com o UseState](https://dev.to/jojosuelobo/alteracoes-de-paginas-de-forma-dinamica-com-o-usestate-f7l)
+- [Lifehacker] [What&#39;s New on Hulu in July 2023](https://lifehacker.com/whats-new-on-hulu-in-july-2023-1850548738)
+- [Dev.to/JS] [Asynchronous Loading in Vue](https://dev.to/ayowandeapp/asynchronous-loading-in-vue-3195)
+- [Lifehacker] [Make Super Savory Carrot Fries in Your Air Fryer](https://lifehacker.com/make-super-savory-carrot-fries-in-your-air-fryer-1850548742)
 - [Lifehacker] [Three Things That Can Distort Your Blood Pressure Results](https://lifehacker.com/three-things-that-can-distort-your-blood-pressure-resul-1850547887)
 - [Dev.to/JS] [Type coercion in JS, it&#39;s hierarchy?](https://dev.to/rounit08/type-coercion-in-js-its-hierarchy-lg)
 - [Dev.to/JS] [React router + Manejo de roles + Autenticación](https://dev.to/hernanarica/react-router-manejo-de-roles-autenticacion-1imc)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Apple Vision Pro &amp; The Frontend Innovation](https://dev.to/c0mmand3rj/apple-vision-pro-the-frontend-innovation-1o6i)
 - [Lifehacker] [35 Netflix Originals You Probably Aren&#39;t Watching but Definitely Should Be](https://lifehacker.com/25-netflix-original-shows-you-probably-arent-watching-b-1847429789)
 - [Dev.to/JS] [Fuzz testing list CRDTs](https://dev.to/streamich/fuzz-testing-list-crdts-144g)
-- [Dev.to/JS] [Map Or Object with Computed Properties](https://dev.to/muhmmadawd/map-or-object-with-computed-properties-57nh)
-- [Dev.to/JS] [How to create a confetti effect in HTML?](https://dev.to/dhairyashah/how-to-create-a-confetti-effect-in-html-41m2)
 - [Lifehacker] [Three Steps to Increase Your Chance of Getting a Raise](https://lifehacker.com/three-steps-to-increase-your-chance-of-getting-a-raise-1850546691)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Rosetta Stone for Almost 40% Off](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-rosetta-stone-fo-1850541124)
 - [Lifehacker] [How to Know If You’re the Toxic One in Your Relationship](https://lifehacker.com/how-to-know-if-you-re-the-toxic-one-in-your-relationshi-1850546193)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Everyone Should Know About Squatter’s Rights](https://lifehacker.com/what-everyone-should-know-about-squatter-s-rights-1850543705)
 - [Lifehacker] [Save Money by Making Your Ground Meat Supply Last Longer](https://lifehacker.com/save-money-by-making-your-ground-meat-supply-last-longe-1850542915)
 - [Lifehacker] [Why So Many People Care About Formula 1 &lpar;and How You Can Too&rpar;](https://lifehacker.com/why-so-many-people-care-about-formula-1-and-how-you-ca-1850543411)
-- [Lifehacker] [You Can Try Writing Directly in Windows Text Fields Now](https://lifehacker.com/you-can-try-writing-directly-in-windows-text-fields-now-1850543212)
-- [Lifehacker] [You Can Get This Photo Editor App for 80% Off Right Now](https://lifehacker.com/you-can-get-this-photo-editor-app-for-80-off-right-now-1850541081)
-- [Lifehacker] [What People Are Getting Wrong This Week: UFOs and the Government](https://lifehacker.com/what-people-are-getting-wrong-this-week-ufos-and-the-g-1850541750)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Try Writing Directly in Windows Text Fields Now](https://lifehacker.com/you-can-try-writing-directly-in-windows-text-fields-now-1850543212)<!-- TECH-POSTS:END -->
 
 ---
 
