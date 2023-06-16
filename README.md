@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating Dynamic Form Fields with HTML, CSS, and JavaScript: A Comprehensive Guide](https://dev.to/getsmartwebsite/creating-dynamic-form-fields-with-html-css-and-javascript-a-comprehensive-guide-46bn)
 - [Dev.to/JS] [Mastering Asynchronous JavaScript: Promises, async/await, Error Handling, and More](https://dev.to/kelvinguchu/mastering-asynchronous-javascript-promises-asyncawait-error-handling-and-more-41ph)
 - [Dev.to/JS] [How to Use Apostrophe as a Headless CMS](https://dev.to/apostrophecms/how-to-use-apostrophe-as-a-headless-cms-h18)
 - [Dev.to/JS] [Understanding Web Vitals - Key Metrics for Optimal Web Performance](https://dev.to/fritzlolpro/understanding-web-vitals-key-metrics-for-optimal-web-performance-4hpc)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tui xach nam cong so mau dep nhat tai KOS](https://dev.to/tuixachnamkos/tui-xach-nam-cong-so-mau-dep-nhat-tai-kos-338)
 - [Dev.to/JS] [Express.js và rest api](https://dev.to/chungleba/expressjs-va-rest-api-1nle)
 - [Dev.to/JS] [Understanding Core.js and Zone.js: Key to JavaScript Libraries](https://dev.to/crossskatee1/understanding-corejs-and-zonejs-key-to-javascript-libraries-8m0)
-- [Dev.to/JS] [Learn web development in 365 days](https://dev.to/albatrox88/365-days-time-line-to-learn-web-development-5coc)
 - [Lifehacker] [I Tried Hanging Out With My Son in VR for Father&#39;s Day](https://lifehacker.com/can-virtual-reality-bring-families-together-for-father-1850545079)
 - [Lifehacker] [Don&#39;t Bother Boiling a Lemon to &#39;Neutralize&#39; Odors](https://lifehacker.com/dont-bother-boiling-a-lemon-to-neutralize-odors-1850544545)
 - [Lifehacker] [You Should Pick and Pickle Green Strawberries](https://lifehacker.com/you-should-pick-and-pickle-green-strawberries-1850544383)
