@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Microservices Architecture in Web Development: Benefits and Best Practices](https://dev.to/skarni3214/microservices-architecture-in-web-development-benefits-and-best-practices-33ei)
+- [Dev.to/JS] [Syncopation and a human touch](https://dev.to/atornblad/syncopation-and-a-human-touch-390i)
+- [Dev.to/JS] [RxJS Operators: catchError](https://dev.to/drownedintech/rxjs-operators-catcherror-260p)
+- [Dev.to/JS] [Difference between Promises and Observables.](https://dev.to/manthanank/difference-between-promises-and-observables-380e)
+- [Dev.to/JS] [Construye tu espacio de desarrollo local para HTML, CSS y JavaScript](https://dev.to/nixcko/construye-tu-espacio-de-desarrollo-local-para-html-css-y-javascript-2ef1)
 - [Dev.to/JS] [5 DRY Principles To Follow In React](https://dev.to/mohammadfaisal/5-dry-principles-to-follow-in-react-38pi)
 - [Dev.to/JS] [Top 10 VS Code Extensions for React Developers](https://dev.to/kristiyan_velkov/top-10-vs-code-extensions-for-react-developers-5ggh)
 - [Dev.to/JS] [Harnessing the Power of Service Workers for Offline-First JavaScript Apps](https://dev.to/abhaysinghr1/harnessing-the-power-of-service-workers-for-offline-first-javascript-apps-74e)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Ways to Use ChatGPT for Better Coding &lpar;With examples&rpar;](https://dev.to/cmoaiforme/10-ways-to-use-chatgpt-for-better-coding-with-examples-1lj5)
 - [Dev.to/JS] [How I created my first ever web application](https://dev.to/mishmishel/how-i-created-my-first-ever-web-application-5048)
 - [Dev.to/JS] [Técnicas para evaluar el rendimiento de tu código](https://dev.to/beresiartejuan/tecnicas-para-evaluar-el-rendimiento-de-tu-codigo-i3n)
-- [Dev.to/JS] [Top Websites for FREE HTML &amp; CSS Templates in 2023](https://dev.to/baraa/top-websites-for-free-html-css-templates-in-2023-l85)
-- [Dev.to/JS] [Part 2/2: Deploy Scalable NestJs Chat App to Kubernetes](https://dev.to/zenstok/part-22-deploy-scalable-nestjs-chat-app-to-kubernetes-59o0)
-- [Dev.to/JS] [Creating an Interactive Tabbed Interface with JavaScript](https://dev.to/devlawrence/creating-an-interactive-tabbed-interface-with-javascript-13aa)
-- [Dev.to/JS] [Dev Environment with docker, php and Xdebug3!](https://dev.to/getjv/dev-environment-with-docker-php-and-xdebug3-28m5)
-- [Dev.to/JS] [How Atoms Fixed Flux](https://dev.to/josh_claunch/how-atoms-fixed-flux-ggg)
 - [Lifehacker] [I Tried Hanging Out With My Son in VR for Father&#39;s Day](https://lifehacker.com/can-virtual-reality-bring-families-together-for-father-1850545079)
 - [Lifehacker] [Don&#39;t Bother Boiling a Lemon to &#39;Neutralize&#39; Odors](https://lifehacker.com/dont-bother-boiling-a-lemon-to-neutralize-odors-1850544545)
 - [Lifehacker] [You Should Pick and Pickle Green Strawberries](https://lifehacker.com/you-should-pick-and-pickle-green-strawberries-1850544383)
