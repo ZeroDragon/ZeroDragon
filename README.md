@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a confetti effect in HTML?](https://dev.to/dhairyashah/how-to-create-a-confetti-effect-in-html-41m2)
+- [Dev.to/JS] [What the heck is Computed Properties in JavaScript](https://dev.to/muhmmadawd/what-the-heck-is-computed-properties-in-javascript-3aca)
+- [Dev.to/JS] [Understand the JavaScript SEO basics in 2023](https://dev.to/readymadecode/understand-the-javascript-seo-basics-in-2023-3k64)
+- [Lifehacker] [Three Steps to Increase Your Chance of Getting a Raise](https://lifehacker.com/three-steps-to-increase-your-chance-of-getting-a-raise-1850546691)
+- [Dev.to/JS] [How to add Authentication with Subscriptions into your Next.js &lpar;/app&rpar; website.](https://dev.to/nicolas_bastida/how-to-add-authentication-with-subscriptions-into-your-nextjs-app-website-1513)
+- [Dev.to/JS] [OpenPlayerJS - HTML5 Video/Audio/YouTube Player - Integration](https://dev.to/sh20raj/openplayerjs-html5-videoaudioyoutube-player-integration-1c2g)
+- [Dev.to/JS] [How to Detect and Localize Logos in a Video with JavaScript?](https://dev.to/edenai/how-to-detect-and-localize-logos-in-a-video-with-javascript-37gi)
+- [Lifehacker] [You Can Get a Lifetime Subscription to Rosetta Stone for Almost 40% Off](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-rosetta-stone-fo-1850541124)
 - [Lifehacker] [How to Know If You’re the Toxic One in Your Relationship](https://lifehacker.com/how-to-know-if-you-re-the-toxic-one-in-your-relationshi-1850546193)
 - [Lifehacker] [15 of the Best Video Game Remakes Ever Made](https://lifehacker.com/15-video-game-remakes-that-actually-deserve-to-exist-1850545901)
 - [Dev.to/JS] [Setting up Minio as a database for Medusajs](https://dev.to/nfuhs/setting-up-minio-as-a-database-for-medusajs-11gp)
@@ -37,12 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PurpleMod](https://dev.to/itsazukio/purplemod-428p)
 - [Lifehacker] [Koshō is the Citrusy Umami Bomb You’ll Want to Put on Everything](https://lifehacker.com/kosho-is-the-citrusy-umami-bomb-you-ll-want-to-put-on-e-1850545472)
 - [Lifehacker] [Orzo Is the Pasta of the Summer](https://lifehacker.com/orzo-is-the-pasta-of-the-summer-1850544500)
-- [Dev.to/JS] [Creating Dynamic Form Fields with HTML, CSS, and JavaScript: A Comprehensive Guide](https://dev.to/getsmartwebsite/creating-dynamic-form-fields-with-html-css-and-javascript-a-comprehensive-guide-46bn)
-- [Dev.to/JS] [Mastering Asynchronous JavaScript: Promises, async/await, Error Handling, and More](https://dev.to/kelvinguchu/mastering-asynchronous-javascript-promises-asyncawait-error-handling-and-more-41ph)
-- [Dev.to/JS] [How to Use Apostrophe as a Headless CMS](https://dev.to/apostrophecms/how-to-use-apostrophe-as-a-headless-cms-h18)
-- [Dev.to/JS] [Understanding Web Vitals - Key Metrics for Optimal Web Performance](https://dev.to/fritzlolpro/understanding-web-vitals-key-metrics-for-optimal-web-performance-4hpc)
-- [Dev.to/JS] [Google&#39;s Gemini: The Next Big Thing in AI Revolution](https://dev.to/thenomadevel/googles-gemini-the-next-big-thing-in-ai-revolution-17a4)
-- [Dev.to/JS] [wrgrtgt](https://dev.to/user_865c8fd677/wrgrtgt-2ncd)
 - [Lifehacker] [I Tried Hanging Out With My Son in VR for Father&#39;s Day](https://lifehacker.com/can-virtual-reality-bring-families-together-for-father-1850545079)
 - [Lifehacker] [Don&#39;t Bother Boiling a Lemon to &#39;Neutralize&#39; Odors](https://lifehacker.com/dont-bother-boiling-a-lemon-to-neutralize-odors-1850544545)
 - [Lifehacker] [You Should Pick and Pickle Green Strawberries](https://lifehacker.com/you-should-pick-and-pickle-green-strawberries-1850544383)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Help Guide Your Teen Through the Overwhelm of High School](https://lifehacker.com/how-to-help-guide-your-teen-through-the-overwhelm-of-hi-1850540899)
 - [Lifehacker] [This Compact Nintendo Switch Docking Station Is $20 Right Now](https://lifehacker.com/this-compact-nintendo-switch-docking-station-is-20-rig-1850539915)
 - [Lifehacker] [TikTok’s Upside-Down Puff Pastry Hack Is Actually Pretty Good](https://lifehacker.com/tiktok-s-upside-down-puff-pastry-hack-is-actually-prett-1850540557)
-- [Lifehacker] [Three Things You Should Do With That Crusty Maple Syrup Bottle &lpar;Before Tossing It&rpar;](https://lifehacker.com/three-things-you-should-do-with-that-crusty-maple-syrup-1850536539)
-- [Lifehacker] [Relive the Internet of the ’90s With ‘Neocities’](https://lifehacker.com/relive-the-internet-of-the-90s-with-neocities-1850540482)
-- [Crazy Programmer] [Claude Shannon Biography](https://www.thecrazyprogrammer.com/2023/06/claude-shannon-biography.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Three Things You Should Do With That Crusty Maple Syrup Bottle &lpar;Before Tossing It&rpar;](https://lifehacker.com/three-things-you-should-do-with-that-crusty-maple-syrup-1850536539)<!-- TECH-POSTS:END -->
 
 ---
 
