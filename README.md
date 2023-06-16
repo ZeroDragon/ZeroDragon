@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Part 2/2: Deploy Scalable NestJs Chat App to Kubernetes](https://dev.to/zenstok/part-22-deploy-scalable-nestjs-chat-app-to-kubernetes-59o0)
 - [Dev.to/JS] [Creating an Interactive Tabbed Interface with JavaScript](https://dev.to/devlawrence/creating-an-interactive-tabbed-interface-with-javascript-13aa)
 - [Dev.to/JS] [Dev Environment with docker, php and Xdebug3!](https://dev.to/getjv/dev-environment-with-docker-php-and-xdebug3-28m5)
 - [Dev.to/JS] [How Atoms Fixed Flux](https://dev.to/josh_claunch/how-atoms-fixed-flux-ggg)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a reactive split-flap display with RxJS and Rimmel.js](https://dev.to/dariomannu/build-a-reactive-split-flap-display-with-rxjs-and-rimmeljs-177m)
 - [Dev.to/JS] [When and how to use Daily’s new custom session data feature](https://dev.to/trydaily/when-and-how-to-use-dailys-new-custom-session-data-feature-2f3o)
 - [Lifehacker] [When to Use a Microfiber Cloth Instead of Paper Towels](https://lifehacker.com/when-to-use-a-microfiber-cloth-instead-of-paper-towels-1850544019)
-- [Dev.to/JS] [&quot;Unveiling JavaScript&#39;s Puzzling Quirk: The Object Identity of Null&quot;](https://dev.to/bikidas/unveiling-javascripts-puzzling-quirk-the-object-identity-of-null-2ifp)
 - [Lifehacker] [How to Feel Less Terrified About Retirement](https://lifehacker.com/how-to-feel-less-terrified-about-retirement-1850543984)
 - [Lifehacker] [You Don’t Have to Marinate Everything Overnight](https://lifehacker.com/how-long-do-you-need-to-marinate-protein-1850541090)
 - [Lifehacker] [What Everyone Should Know About Squatter’s Rights](https://lifehacker.com/what-everyone-should-know-about-squatter-s-rights-1850543705)
