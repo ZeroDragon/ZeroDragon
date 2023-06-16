@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Funny observation on JS Frameworks](https://dev.to/doctorx/funny-observation-on-js-frameworks-9jp)
+- [Dev.to/JS] [Optional Chaining &lpar;?.&rpar;](https://dev.to/shameerchagani/optional-chaining--3p22)
+- [Lifehacker] [TikTok Myth of the Week: Vibration Plates](https://lifehacker.com/tiktok-myth-of-the-week-vibration-plates-1850548917)
 - [Dev.to/JS] [Alterações de páginas de forma dinâmica com o UseState](https://dev.to/jojosuelobo/alteracoes-de-paginas-de-forma-dinamica-com-o-usestate-f7l)
 - [Lifehacker] [What&#39;s New on Hulu in July 2023](https://lifehacker.com/whats-new-on-hulu-in-july-2023-1850548738)
 - [Dev.to/JS] [Asynchronous Loading in Vue](https://dev.to/ayowandeapp/asynchronous-loading-in-vue-3195)
@@ -39,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Think Twice Before Cutting a Pill in Half](https://lifehacker.com/think-twice-before-cutting-a-pill-in-half-1850547388)
 - [Dev.to/JS] [Solve: objects are not valid as a react child](https://dev.to/reactjsguru/solve-objects-are-not-valid-as-a-react-child-2336)
 - [Dev.to/JS] [MongoDB $weeklyUpdate #120 &lpar;June 16, 2023&rpar;: The FIRST In-Person JSConf in India!](https://dev.to/mongodb/mongodb-weeklyupdate-120-june-16-2023-the-first-in-person-jsconf-in-india-236k)
-- [Dev.to/JS] [Apple Vision Pro &amp; The Frontend Innovation](https://dev.to/c0mmand3rj/apple-vision-pro-the-frontend-innovation-1o6i)
 - [Lifehacker] [35 Netflix Originals You Probably Aren&#39;t Watching but Definitely Should Be](https://lifehacker.com/25-netflix-original-shows-you-probably-arent-watching-b-1847429789)
-- [Dev.to/JS] [Fuzz testing list CRDTs](https://dev.to/streamich/fuzz-testing-list-crdts-144g)
 - [Lifehacker] [Three Steps to Increase Your Chance of Getting a Raise](https://lifehacker.com/three-steps-to-increase-your-chance-of-getting-a-raise-1850546691)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Rosetta Stone for Almost 40% Off](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-rosetta-stone-fo-1850541124)
 - [Lifehacker] [How to Know If You’re the Toxic One in Your Relationship](https://lifehacker.com/how-to-know-if-you-re-the-toxic-one-in-your-relationshi-1850546193)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Don’t Have to Marinate Everything Overnight](https://lifehacker.com/how-long-do-you-need-to-marinate-protein-1850541090)
 - [Lifehacker] [What Everyone Should Know About Squatter’s Rights](https://lifehacker.com/what-everyone-should-know-about-squatter-s-rights-1850543705)
 - [Lifehacker] [Save Money by Making Your Ground Meat Supply Last Longer](https://lifehacker.com/save-money-by-making-your-ground-meat-supply-last-longe-1850542915)
-- [Lifehacker] [Why So Many People Care About Formula 1 &lpar;and How You Can Too&rpar;](https://lifehacker.com/why-so-many-people-care-about-formula-1-and-how-you-ca-1850543411)
-- [Lifehacker] [You Can Try Writing Directly in Windows Text Fields Now](https://lifehacker.com/you-can-try-writing-directly-in-windows-text-fields-now-1850543212)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why So Many People Care About Formula 1 &lpar;and How You Can Too&rpar;](https://lifehacker.com/why-so-many-people-care-about-formula-1-and-how-you-ca-1850543411)<!-- TECH-POSTS:END -->
 
 ---
 
