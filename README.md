@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Everyone Obsessed With Grimace?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-ev-1850546375)
+- [Dev.to/JS] [PurpleMod](https://dev.to/itsazukio/purplemod-428p)
+- [Lifehacker] [Koshō is the Citrusy Umami Bomb You’ll Want to Put on Everything](https://lifehacker.com/kosho-is-the-citrusy-umami-bomb-you-ll-want-to-put-on-e-1850545472)
+- [Lifehacker] [Orzo Is the Pasta of the Summer](https://lifehacker.com/orzo-is-the-pasta-of-the-summer-1850544500)
 - [Dev.to/JS] [Creating Dynamic Form Fields with HTML, CSS, and JavaScript: A Comprehensive Guide](https://dev.to/getsmartwebsite/creating-dynamic-form-fields-with-html-css-and-javascript-a-comprehensive-guide-46bn)
 - [Dev.to/JS] [Mastering Asynchronous JavaScript: Promises, async/await, Error Handling, and More](https://dev.to/kelvinguchu/mastering-asynchronous-javascript-promises-asyncawait-error-handling-and-more-41ph)
 - [Dev.to/JS] [How to Use Apostrophe as a Headless CMS](https://dev.to/apostrophecms/how-to-use-apostrophe-as-a-headless-cms-h18)
@@ -34,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rest api là gì](https://dev.to/chungleba/rest-api-la-gi-2b6f)
 - [Dev.to/JS] [Tui xach nam cong so mau dep nhat tai KOS](https://dev.to/tuixachnamkos/tui-xach-nam-cong-so-mau-dep-nhat-tai-kos-338)
 - [Dev.to/JS] [Express.js và rest api](https://dev.to/chungleba/expressjs-va-rest-api-1nle)
-- [Dev.to/JS] [Understanding Core.js and Zone.js: Key to JavaScript Libraries](https://dev.to/crossskatee1/understanding-corejs-and-zonejs-key-to-javascript-libraries-8m0)
 - [Lifehacker] [I Tried Hanging Out With My Son in VR for Father&#39;s Day](https://lifehacker.com/can-virtual-reality-bring-families-together-for-father-1850545079)
 - [Lifehacker] [Don&#39;t Bother Boiling a Lemon to &#39;Neutralize&#39; Odors](https://lifehacker.com/dont-bother-boiling-a-lemon-to-neutralize-odors-1850544545)
 - [Lifehacker] [You Should Pick and Pickle Green Strawberries](https://lifehacker.com/you-should-pick-and-pickle-green-strawberries-1850544383)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [People Sure Are Bad at Creating Passwords](https://lifehacker.com/people-sure-are-bad-at-creating-passwords-1850539358)
 - [Lifehacker] [The Easiest Ways to Signal That You Don’t Want Any Interruptions at Work](https://lifehacker.com/the-easiest-ways-to-signal-that-you-don-t-want-any-inte-1850539721)
 - [Lifehacker] [What It Means to Be &quot;Unbanked&quot; &lpar;and What It Costs You&rpar;](https://lifehacker.com/what-it-means-to-be-unbanked-and-what-it-costs-you-1850539632)
-- [Lifehacker] [The Reddit Blackout Is Over, but the Protest Isn’t](https://lifehacker.com/the-reddit-blackout-is-over-but-the-protest-isn-t-1850539204)
-- [Lifehacker] [What to Do About Your Trauma-Based &#39;Hyper Independence&#39;](https://lifehacker.com/what-to-do-about-your-trauma-based-hyper-independence-1850538921)
-- [Lifehacker] [This Cybersecurity and IT Skills Course Is Over 90% Off Right Now](https://lifehacker.com/this-cybersecurity-and-it-skills-course-is-over-90-off-1850509047)
-- [Lifehacker] [Learn ChatGPT Basics With This $20 Course](https://lifehacker.com/learn-chatgpt-basics-with-this-20-course-1850509044)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Reddit Blackout Is Over, but the Protest Isn’t](https://lifehacker.com/the-reddit-blackout-is-over-but-the-protest-isn-t-1850539204)<!-- TECH-POSTS:END -->
 
 ---
 
