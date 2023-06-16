@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I created my first ever web application](https://dev.to/mishmishel/how-i-created-my-first-ever-web-application-5048)
+- [Dev.to/JS] [Técnicas para evaluar el rendimiento de tu código](https://dev.to/beresiartejuan/tecnicas-para-evaluar-el-rendimiento-de-tu-codigo-i3n)
 - [Dev.to/JS] [Top Websites for FREE HTML &amp; CSS Templates in 2023](https://dev.to/baraa/top-websites-for-free-html-css-templates-in-2023-l85)
 - [Dev.to/JS] [Part 2/2: Deploy Scalable NestJs Chat App to Kubernetes](https://dev.to/zenstok/part-22-deploy-scalable-nestjs-chat-app-to-kubernetes-59o0)
 - [Dev.to/JS] [Creating an Interactive Tabbed Interface with JavaScript](https://dev.to/devlawrence/creating-an-interactive-tabbed-interface-with-javascript-13aa)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular vs. React, dos herramientas poderosas en la Web](https://dev.to/vanessamarely/angular-vs-react-dos-herramientas-poderosas-en-la-web-121i)
 - [Dev.to/JS] [Sudoku Solver](https://dev.to/_alkesh26/sudoku-solver-ggh)
 - [Dev.to/JS] [Resolvendo o Exercise Tracker - Free-code-camp](https://dev.to/adrielh024/resolvendo-o-exercise-tracker-free-code-camp-2e4e)
-- [Dev.to/JS] [Array.find&lpar;&rpar; Method](https://dev.to/mrizwanashiq/arrayfind-method-41b5)
 - [Lifehacker] [The Difference Between &#39;Heirloom&#39; and &#39;Heritage&#39; Chickens](https://lifehacker.com/the-difference-between-heirloom-and-heritage-chickens-1850544200)
-- [Dev.to/JS] [Build a reactive split-flap display with RxJS and Rimmel.js](https://dev.to/dariomannu/build-a-reactive-split-flap-display-with-rxjs-and-rimmeljs-177m)
 - [Lifehacker] [When to Use a Microfiber Cloth Instead of Paper Towels](https://lifehacker.com/when-to-use-a-microfiber-cloth-instead-of-paper-towels-1850544019)
 - [Lifehacker] [How to Feel Less Terrified About Retirement](https://lifehacker.com/how-to-feel-less-terrified-about-retirement-1850543984)
 - [Lifehacker] [You Don’t Have to Marinate Everything Overnight](https://lifehacker.com/how-long-do-you-need-to-marinate-protein-1850541090)
