@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top Websites for FREE HTML &amp; CSS Templates in 2023](https://dev.to/baraa/top-websites-for-free-html-css-templates-in-2023-l85)
 - [Dev.to/JS] [Part 2/2: Deploy Scalable NestJs Chat App to Kubernetes](https://dev.to/zenstok/part-22-deploy-scalable-nestjs-chat-app-to-kubernetes-59o0)
 - [Dev.to/JS] [Creating an Interactive Tabbed Interface with JavaScript](https://dev.to/devlawrence/creating-an-interactive-tabbed-interface-with-javascript-13aa)
 - [Dev.to/JS] [Dev Environment with docker, php and Xdebug3!](https://dev.to/getjv/dev-environment-with-docker-php-and-xdebug3-28m5)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array.find&lpar;&rpar; Method](https://dev.to/mrizwanashiq/arrayfind-method-41b5)
 - [Lifehacker] [The Difference Between &#39;Heirloom&#39; and &#39;Heritage&#39; Chickens](https://lifehacker.com/the-difference-between-heirloom-and-heritage-chickens-1850544200)
 - [Dev.to/JS] [Build a reactive split-flap display with RxJS and Rimmel.js](https://dev.to/dariomannu/build-a-reactive-split-flap-display-with-rxjs-and-rimmeljs-177m)
-- [Dev.to/JS] [When and how to use Daily’s new custom session data feature](https://dev.to/trydaily/when-and-how-to-use-dailys-new-custom-session-data-feature-2f3o)
 - [Lifehacker] [When to Use a Microfiber Cloth Instead of Paper Towels](https://lifehacker.com/when-to-use-a-microfiber-cloth-instead-of-paper-towels-1850544019)
 - [Lifehacker] [How to Feel Less Terrified About Retirement](https://lifehacker.com/how-to-feel-less-terrified-about-retirement-1850543984)
 - [Lifehacker] [You Don’t Have to Marinate Everything Overnight](https://lifehacker.com/how-long-do-you-need-to-marinate-protein-1850541090)
