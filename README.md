@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Three Things That Can Distort Your Blood Pressure Results](https://lifehacker.com/three-things-that-can-distort-your-blood-pressure-resul-1850547887)
+- [Dev.to/JS] [Type coercion in JS, it&#39;s hierarchy?](https://dev.to/rounit08/type-coercion-in-js-its-hierarchy-lg)
+- [Dev.to/JS] [React router + Manejo de roles + Autenticación](https://dev.to/hernanarica/react-router-manejo-de-roles-autenticacion-1imc)
+- [Dev.to/JS] [Array.reduce&lpar;&rpar; Method](https://dev.to/mrizwanashiq/arrayreduce-method-3812)
+- [Lifehacker] [When to Use a &#39;Functional&#39; Resume Instead of a Traditional One](https://lifehacker.com/when-to-use-a-functional-resume-instead-of-a-traditiona-1850548206)
 - [Dev.to/JS] [Beauty Of Javascript](https://dev.to/vivekpal/beauty-of-javascript-5a0j)
 - [Dev.to/JS] [Episode 23/23: Hydration in Angular, Angular Community Meetup](https://dev.to/this-is-angular/episode-2323-hydration-in-angular-angular-community-meetup-3fed)
 - [Dev.to/JS] [How to Add Google Analytics to a Next.js Application](https://dev.to/mohammadfaisal/how-to-add-google-analytics-to-a-nextjs-application-4438)
@@ -35,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fuzz testing list CRDTs](https://dev.to/streamich/fuzz-testing-list-crdts-144g)
 - [Dev.to/JS] [Map Or Object with Computed Properties](https://dev.to/muhmmadawd/map-or-object-with-computed-properties-57nh)
 - [Dev.to/JS] [How to create a confetti effect in HTML?](https://dev.to/dhairyashah/how-to-create-a-confetti-effect-in-html-41m2)
-- [Dev.to/JS] [What the heck is Computed Properties in JavaScript](https://dev.to/muhmmadawd/what-the-heck-is-computed-properties-in-javascript-3aca)
-- [Dev.to/JS] [Understand the JavaScript SEO basics in 2023](https://dev.to/readymadecode/understand-the-javascript-seo-basics-in-2023-3k64)
 - [Lifehacker] [Three Steps to Increase Your Chance of Getting a Raise](https://lifehacker.com/three-steps-to-increase-your-chance-of-getting-a-raise-1850546691)
-- [Dev.to/JS] [How to add Authentication with Subscriptions into your Next.js &lpar;/app&rpar; website.](https://dev.to/nicolas_bastida/how-to-add-authentication-with-subscriptions-into-your-nextjs-app-website-1513)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Rosetta Stone for Almost 40% Off](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-rosetta-stone-fo-1850541124)
 - [Lifehacker] [How to Know If You’re the Toxic One in Your Relationship](https://lifehacker.com/how-to-know-if-you-re-the-toxic-one-in-your-relationshi-1850546193)
 - [Lifehacker] [15 of the Best Video Game Remakes Ever Made](https://lifehacker.com/15-video-game-remakes-that-actually-deserve-to-exist-1850545901)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why So Many People Care About Formula 1 &lpar;and How You Can Too&rpar;](https://lifehacker.com/why-so-many-people-care-about-formula-1-and-how-you-ca-1850543411)
 - [Lifehacker] [You Can Try Writing Directly in Windows Text Fields Now](https://lifehacker.com/you-can-try-writing-directly-in-windows-text-fields-now-1850543212)
 - [Lifehacker] [You Can Get This Photo Editor App for 80% Off Right Now](https://lifehacker.com/you-can-get-this-photo-editor-app-for-80-off-right-now-1850541081)
-- [Lifehacker] [What People Are Getting Wrong This Week: UFOs and the Government](https://lifehacker.com/what-people-are-getting-wrong-this-week-ufos-and-the-g-1850541750)
-- [Lifehacker] [Four Ways to Clean Grease and Oil Stains From Your Concrete](https://lifehacker.com/four-ways-to-clean-grease-and-oil-stains-from-your-conc-1850541866)
-- [Lifehacker] [How to Help Guide Your Teen Through the Overwhelm of High School](https://lifehacker.com/how-to-help-guide-your-teen-through-the-overwhelm-of-hi-1850540899)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What People Are Getting Wrong This Week: UFOs and the Government](https://lifehacker.com/what-people-are-getting-wrong-this-week-ufos-and-the-g-1850541750)<!-- TECH-POSTS:END -->
 
 ---
 
