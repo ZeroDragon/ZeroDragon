@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [15 Video Game Remakes That Actually Deserve to Exist](https://lifehacker.com/15-video-game-remakes-that-actually-deserve-to-exist-1850545901)
+- [Dev.to/JS] [Setting up Minio as a database for Medusajs](https://dev.to/nfuhs/setting-up-minio-as-a-database-for-medusajs-11gp)
+- [Dev.to/JS] [Hoisting in JavaScript: Understanding the Mechanism and Best Practices](https://dev.to/ayushdev_24/hoisting-in-javascript-understanding-the-mechanism-and-best-practices-23n0)
+- [Lifehacker] [Why You Should Stop Sending Checks in the Mail, Especially Now](https://lifehacker.com/why-you-should-stop-sending-checks-in-the-mail-especia-1850543113)
+- [Dev.to/JS] [Cryto Transfers to Private Wallets: Now Facing Identification Checks](https://dev.to/rruhanking/cryto-transfers-to-private-wallets-now-facing-identification-checks-499d)
 - [Dev.to/JS] [3 Must-Use Tools for Code Reviews!](https://dev.to/aiforme/3-must-use-tools-for-code-reviews-3o61)
+- [Lifehacker] [This Air Purifier With an H13 HEPA Filter Is Over 50% Off Right Now](https://lifehacker.com/this-air-purifier-with-an-h13-hepa-filter-is-over-50-o-1850541106)
 - [Dev.to/JS] [I created open source vscode extension to help developers in this layoff season](https://dev.to/yashrajb/i-created-open-source-vscode-extension-to-help-developers-in-this-layoff-season-4271)
 - [Lifehacker] [The Best Sex Positions When One of You Is Way Taller](https://lifehacker.com/the-best-sex-positions-when-one-of-you-is-way-taller-1850545686)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Everyone Obsessed With Grimace?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-ev-1850546375)
@@ -36,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Web Vitals - Key Metrics for Optimal Web Performance](https://dev.to/fritzlolpro/understanding-web-vitals-key-metrics-for-optimal-web-performance-4hpc)
 - [Dev.to/JS] [Google&#39;s Gemini: The Next Big Thing in AI Revolution](https://dev.to/thenomadevel/googles-gemini-the-next-big-thing-in-ai-revolution-17a4)
 - [Dev.to/JS] [wrgrtgt](https://dev.to/user_865c8fd677/wrgrtgt-2ncd)
-- [Dev.to/JS] [The Complete Guide to Becoming a Web Developer: Part 1](https://dev.to/nerdleveltech/the-complete-guide-to-becoming-a-web-developer-part-1-4jje)
-- [Dev.to/JS] [Improve the Safety of Your React App](https://dev.to/danrez/improve-the-safety-of-your-react-app-25lo)
-- [Dev.to/JS] [Rest api là gì](https://dev.to/chungleba/rest-api-la-gi-2b6f)
 - [Lifehacker] [I Tried Hanging Out With My Son in VR for Father&#39;s Day](https://lifehacker.com/can-virtual-reality-bring-families-together-for-father-1850545079)
 - [Lifehacker] [Don&#39;t Bother Boiling a Lemon to &#39;Neutralize&#39; Odors](https://lifehacker.com/dont-bother-boiling-a-lemon-to-neutralize-odors-1850544545)
 - [Lifehacker] [You Should Pick and Pickle Green Strawberries](https://lifehacker.com/you-should-pick-and-pickle-green-strawberries-1850544383)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Things You Should Do With That Crusty Maple Syrup Bottle &lpar;Before Tossing It&rpar;](https://lifehacker.com/three-things-you-should-do-with-that-crusty-maple-syrup-1850536539)
 - [Lifehacker] [Relive the Internet of the ’90s With ‘Neocities’](https://lifehacker.com/relive-the-internet-of-the-90s-with-neocities-1850540482)
 - [Crazy Programmer] [Claude Shannon Biography](https://www.thecrazyprogrammer.com/2023/06/claude-shannon-biography.html)
-- [Lifehacker] [Replace Mayo With Brine for a Better Tuna Salad](https://lifehacker.com/replace-mayo-with-brine-for-a-better-tuna-salad-1850540058)
-- [Lifehacker] [People Sure Are Bad at Creating Passwords](https://lifehacker.com/people-sure-are-bad-at-creating-passwords-1850539358)
-- [Lifehacker] [The Easiest Ways to Signal That You Don’t Want Any Interruptions at Work](https://lifehacker.com/the-easiest-ways-to-signal-that-you-don-t-want-any-inte-1850539721)
-- [Lifehacker] [What It Means to Be &quot;Unbanked&quot; &lpar;and What It Costs You&rpar;](https://lifehacker.com/what-it-means-to-be-unbanked-and-what-it-costs-you-1850539632)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Replace Mayo With Brine for a Better Tuna Salad](https://lifehacker.com/replace-mayo-with-brine-for-a-better-tuna-salad-1850540058)<!-- TECH-POSTS:END -->
 
 ---
 
