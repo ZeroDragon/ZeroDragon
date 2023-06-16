@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3 Must-Use Tools for Code Reviews!](https://dev.to/aiforme/3-must-use-tools-for-code-reviews-3o61)
+- [Dev.to/JS] [I created open source vscode extension to help developers in this layoff season](https://dev.to/yashrajb/i-created-open-source-vscode-extension-to-help-developers-in-this-layoff-season-4271)
+- [Lifehacker] [The Best Sex Positions When One of You Is Way Taller](https://lifehacker.com/the-best-sex-positions-when-one-of-you-is-way-taller-1850545686)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Everyone Obsessed With Grimace?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-ev-1850546375)
 - [Dev.to/JS] [PurpleMod](https://dev.to/itsazukio/purplemod-428p)
 - [Lifehacker] [Koshō is the Citrusy Umami Bomb You’ll Want to Put on Everything](https://lifehacker.com/kosho-is-the-citrusy-umami-bomb-you-ll-want-to-put-on-e-1850545472)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Complete Guide to Becoming a Web Developer: Part 1](https://dev.to/nerdleveltech/the-complete-guide-to-becoming-a-web-developer-part-1-4jje)
 - [Dev.to/JS] [Improve the Safety of Your React App](https://dev.to/danrez/improve-the-safety-of-your-react-app-25lo)
 - [Dev.to/JS] [Rest api là gì](https://dev.to/chungleba/rest-api-la-gi-2b6f)
-- [Dev.to/JS] [Tui xach nam cong so mau dep nhat tai KOS](https://dev.to/tuixachnamkos/tui-xach-nam-cong-so-mau-dep-nhat-tai-kos-338)
-- [Dev.to/JS] [Express.js và rest api](https://dev.to/chungleba/expressjs-va-rest-api-1nle)
 - [Lifehacker] [I Tried Hanging Out With My Son in VR for Father&#39;s Day](https://lifehacker.com/can-virtual-reality-bring-families-together-for-father-1850545079)
 - [Lifehacker] [Don&#39;t Bother Boiling a Lemon to &#39;Neutralize&#39; Odors](https://lifehacker.com/dont-bother-boiling-a-lemon-to-neutralize-odors-1850544545)
 - [Lifehacker] [You Should Pick and Pickle Green Strawberries](https://lifehacker.com/you-should-pick-and-pickle-green-strawberries-1850544383)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Replace Mayo With Brine for a Better Tuna Salad](https://lifehacker.com/replace-mayo-with-brine-for-a-better-tuna-salad-1850540058)
 - [Lifehacker] [People Sure Are Bad at Creating Passwords](https://lifehacker.com/people-sure-are-bad-at-creating-passwords-1850539358)
 - [Lifehacker] [The Easiest Ways to Signal That You Don’t Want Any Interruptions at Work](https://lifehacker.com/the-easiest-ways-to-signal-that-you-don-t-want-any-inte-1850539721)
-- [Lifehacker] [What It Means to Be &quot;Unbanked&quot; &lpar;and What It Costs You&rpar;](https://lifehacker.com/what-it-means-to-be-unbanked-and-what-it-costs-you-1850539632)
-- [Lifehacker] [The Reddit Blackout Is Over, but the Protest Isn’t](https://lifehacker.com/the-reddit-blackout-is-over-but-the-protest-isn-t-1850539204)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What It Means to Be &quot;Unbanked&quot; &lpar;and What It Costs You&rpar;](https://lifehacker.com/what-it-means-to-be-unbanked-and-what-it-costs-you-1850539632)<!-- TECH-POSTS:END -->
 
 ---
 
