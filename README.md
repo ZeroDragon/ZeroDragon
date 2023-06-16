@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [100 Days Coding Challenge - Day 28: FreeCodeCamp JavaScript Algorithms and Data Structures Certification](https://dev.to/alexmgp7/100-days-coding-challenge-day-28-freecodecamp-javascript-algorithms-and-data-structures-certification-3268)
+- [Dev.to/JS] [10 Ways to Use ChatGPT for Better Coding &lpar;With examples&rpar;](https://dev.to/cmoaiforme/10-ways-to-use-chatgpt-for-better-coding-with-examples-1lj5)
 - [Dev.to/JS] [How I created my first ever web application](https://dev.to/mishmishel/how-i-created-my-first-ever-web-application-5048)
 - [Dev.to/JS] [Técnicas para evaluar el rendimiento de tu código](https://dev.to/beresiartejuan/tecnicas-para-evaluar-el-rendimiento-de-tu-codigo-i3n)
 - [Dev.to/JS] [Top Websites for FREE HTML &amp; CSS Templates in 2023](https://dev.to/baraa/top-websites-for-free-html-css-templates-in-2023-l85)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2nd Episode: Best practices.](https://dev.to/lausuarez02/2nd-episode-best-practices-848)
 - [Lifehacker] [You Should Pick and Pickle Green Strawberries](https://lifehacker.com/you-should-pick-and-pickle-green-strawberries-1850544383)
 - [Dev.to/JS] [Angular vs. React, dos herramientas poderosas en la Web](https://dev.to/vanessamarely/angular-vs-react-dos-herramientas-poderosas-en-la-web-121i)
-- [Dev.to/JS] [Sudoku Solver](https://dev.to/_alkesh26/sudoku-solver-ggh)
-- [Dev.to/JS] [Resolvendo o Exercise Tracker - Free-code-camp](https://dev.to/adrielh024/resolvendo-o-exercise-tracker-free-code-camp-2e4e)
 - [Lifehacker] [The Difference Between &#39;Heirloom&#39; and &#39;Heritage&#39; Chickens](https://lifehacker.com/the-difference-between-heirloom-and-heritage-chickens-1850544200)
 - [Lifehacker] [When to Use a Microfiber Cloth Instead of Paper Towels](https://lifehacker.com/when-to-use-a-microfiber-cloth-instead-of-paper-towels-1850544019)
 - [Lifehacker] [How to Feel Less Terrified About Retirement](https://lifehacker.com/how-to-feel-less-terrified-about-retirement-1850543984)
