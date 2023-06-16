@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn web development in 365 days](https://dev.to/albatrox88/365-days-time-line-to-learn-web-development-5coc)
+- [Dev.to/JS] [🌐 Learn Web Development for Free! 📚](https://dev.to/mursalfk/learn-web-development-for-free-3hb2)
+- [Dev.to/JS] [Learning about string in JS](https://dev.to/allied/learning-about-string-in-js-4c73)
+- [Dev.to/JS] [How to get Started and Ace in Software Development in the era of A.I.](https://dev.to/lovepreetsingh/how-to-get-started-and-ace-in-software-development-in-the-era-of-ai-245h)
 - [Dev.to/JS] [Axios tutorial](https://dev.to/irishgeoff11/axios-tutorial-1g7j)
 - [Dev.to/JS] [Using Redux without Build Steps &lpar;a.k.a via CDN&rpar;](https://dev.to/sonyarianto/using-redux-without-build-steps-aka-via-cdn-4bgc)
 - [Dev.to/JS] [Descubre el poder del comando de línea para HTML, CSS y JavaScript: Una guía para principiantes](https://dev.to/nixcko/descubre-el-poder-del-comando-de-linea-para-html-css-y-javascript-una-guia-para-principiantes-1ghh)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Client-side Form Validation with HTML, CSS, and JavaScript: A Comprehensive Guide](https://dev.to/getsmartwebsite/client-side-form-validation-with-html-css-and-javascript-a-comprehensive-guide-20i4)
 - [Dev.to/JS] [Microservices Architecture in Web Development: Benefits and Best Practices](https://dev.to/skarni3214/microservices-architecture-in-web-development-benefits-and-best-practices-33ei)
 - [Dev.to/JS] [Syncopation and a human touch](https://dev.to/atornblad/syncopation-and-a-human-touch-390i)
-- [Dev.to/JS] [RxJS Operators: catchError](https://dev.to/drownedintech/rxjs-operators-catcherror-260p)
-- [Dev.to/JS] [Difference between Promises and Observables.](https://dev.to/manthanank/difference-between-promises-and-observables-380e)
-- [Dev.to/JS] [Construye tu espacio de desarrollo local para HTML, CSS y JavaScript](https://dev.to/nixcko/construye-tu-espacio-de-desarrollo-local-para-html-css-y-javascript-2ef1)
-- [Dev.to/JS] [5 DRY Principles To Follow In React](https://dev.to/mohammadfaisal/5-dry-principles-to-follow-in-react-38pi)
 - [Lifehacker] [I Tried Hanging Out With My Son in VR for Father&#39;s Day](https://lifehacker.com/can-virtual-reality-bring-families-together-for-father-1850545079)
 - [Lifehacker] [Don&#39;t Bother Boiling a Lemon to &#39;Neutralize&#39; Odors](https://lifehacker.com/dont-bother-boiling-a-lemon-to-neutralize-odors-1850544545)
 - [Lifehacker] [You Should Pick and Pickle Green Strawberries](https://lifehacker.com/you-should-pick-and-pickle-green-strawberries-1850544383)
