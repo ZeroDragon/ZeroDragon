@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Become a Developer &lpar;Self-Taught&rpar;](https://dev.to/elidotco/how-to-become-a-developer-self-taught-133k)
+- [Dev.to/JS] [Secure by Design: Enhancing React.js Application Security](https://dev.to/ivan_kaminskyi/secure-by-design-enhancing-reactjs-application-security-1ie4)
 - [Dev.to/JS] [Funny observation on JS Frameworks](https://dev.to/doctorx/funny-observation-on-js-frameworks-9jp)
 - [Dev.to/JS] [Optional Chaining &lpar;?.&rpar;](https://dev.to/shameerchagani/optional-chaining--3p22)
 - [Lifehacker] [TikTok Myth of the Week: Vibration Plates](https://lifehacker.com/tiktok-myth-of-the-week-vibration-plates-1850548917)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Add Google Analytics to a Next.js Application](https://dev.to/mohammadfaisal/how-to-add-google-analytics-to-a-nextjs-application-4438)
 - [Lifehacker] [Use ChatGPT to Prepare for Your Next Job Interview](https://lifehacker.com/use-chatgpt-to-prepare-for-your-next-job-interview-1850547294)
 - [Lifehacker] [Think Twice Before Cutting a Pill in Half](https://lifehacker.com/think-twice-before-cutting-a-pill-in-half-1850547388)
-- [Dev.to/JS] [Solve: objects are not valid as a react child](https://dev.to/reactjsguru/solve-objects-are-not-valid-as-a-react-child-2336)
-- [Dev.to/JS] [MongoDB $weeklyUpdate #120 &lpar;June 16, 2023&rpar;: The FIRST In-Person JSConf in India!](https://dev.to/mongodb/mongodb-weeklyupdate-120-june-16-2023-the-first-in-person-jsconf-in-india-236k)
 - [Lifehacker] [35 Netflix Originals You Probably Aren&#39;t Watching but Definitely Should Be](https://lifehacker.com/25-netflix-original-shows-you-probably-arent-watching-b-1847429789)
 - [Lifehacker] [Three Steps to Increase Your Chance of Getting a Raise](https://lifehacker.com/three-steps-to-increase-your-chance-of-getting-a-raise-1850546691)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Rosetta Stone for Almost 40% Off](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-rosetta-stone-fo-1850541124)
