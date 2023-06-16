@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Redux without Build Steps &lpar;a.k.a via CDN&rpar;](https://dev.to/sonyarianto/using-redux-without-build-steps-aka-via-cdn-4bgc)
+- [Dev.to/JS] [Descubre el poder del comando de línea para HTML, CSS y JavaScript: Una guía para principiantes](https://dev.to/nixcko/descubre-el-poder-del-comando-de-linea-para-html-css-y-javascript-una-guia-para-principiantes-1ghh)
+- [Dev.to/JS] [Create your own Snake Game🤩 with Javascript!](https://dev.to/codecraftjs/create-your-own-snake-game-with-javascript-36k0)
+- [Dev.to/JS] [JavaScript Web Storage](https://dev.to/indracit/javascript-web-storage-2g8c)
+- [Dev.to/JS] [Client-side Form Validation with HTML, CSS, and JavaScript: A Comprehensive Guide](https://dev.to/getsmartwebsite/client-side-form-validation-with-html-css-and-javascript-a-comprehensive-guide-20i4)
 - [Dev.to/JS] [Microservices Architecture in Web Development: Benefits and Best Practices](https://dev.to/skarni3214/microservices-architecture-in-web-development-benefits-and-best-practices-33ei)
 - [Dev.to/JS] [Syncopation and a human touch](https://dev.to/atornblad/syncopation-and-a-human-touch-390i)
 - [Dev.to/JS] [RxJS Operators: catchError](https://dev.to/drownedintech/rxjs-operators-catcherror-260p)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Construye tu espacio de desarrollo local para HTML, CSS y JavaScript](https://dev.to/nixcko/construye-tu-espacio-de-desarrollo-local-para-html-css-y-javascript-2ef1)
 - [Dev.to/JS] [5 DRY Principles To Follow In React](https://dev.to/mohammadfaisal/5-dry-principles-to-follow-in-react-38pi)
 - [Dev.to/JS] [Top 10 VS Code Extensions for React Developers](https://dev.to/kristiyan_velkov/top-10-vs-code-extensions-for-react-developers-5ggh)
-- [Dev.to/JS] [Harnessing the Power of Service Workers for Offline-First JavaScript Apps](https://dev.to/abhaysinghr1/harnessing-the-power-of-service-workers-for-offline-first-javascript-apps-74e)
-- [Dev.to/JS] [100 Days Coding Challenge - Day 28: FreeCodeCamp JavaScript Algorithms and Data Structures Certification](https://dev.to/alexmgp7/100-days-coding-challenge-day-28-freecodecamp-javascript-algorithms-and-data-structures-certification-3268)
-- [Dev.to/JS] [10 Ways to Use ChatGPT for Better Coding &lpar;With examples&rpar;](https://dev.to/cmoaiforme/10-ways-to-use-chatgpt-for-better-coding-with-examples-1lj5)
-- [Dev.to/JS] [How I created my first ever web application](https://dev.to/mishmishel/how-i-created-my-first-ever-web-application-5048)
-- [Dev.to/JS] [Técnicas para evaluar el rendimiento de tu código](https://dev.to/beresiartejuan/tecnicas-para-evaluar-el-rendimiento-de-tu-codigo-i3n)
 - [Lifehacker] [I Tried Hanging Out With My Son in VR for Father&#39;s Day](https://lifehacker.com/can-virtual-reality-bring-families-together-for-father-1850545079)
 - [Lifehacker] [Don&#39;t Bother Boiling a Lemon to &#39;Neutralize&#39; Odors](https://lifehacker.com/dont-bother-boiling-a-lemon-to-neutralize-odors-1850544545)
 - [Lifehacker] [You Should Pick and Pickle Green Strawberries](https://lifehacker.com/you-should-pick-and-pickle-green-strawberries-1850544383)
