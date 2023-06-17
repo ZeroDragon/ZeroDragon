@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Leverage TypeScript for More Robust JavaScript Code](https://dev.to/abhaysinghr1/how-to-leverage-typescript-for-more-robust-javascript-code-1nd9)
+- [Dev.to/JS] [Making Tailwind more fun&lpar;ctional&rpar; by using pipeable api in tailwind-fun](https://dev.to/hanipcode/making-tailwind-more-functional-by-using-pipeable-api-in-tailwind-fun-3cc9)
+- [Dev.to/JS] [Callback, Async, Await, Promises in JavaScript](https://dev.to/indracit/callback-async-await-promises-in-javascript-1ho3)
+- [Dev.to/JS] [Adnoor Figs](https://dev.to/mrwick546/adnoor-figs-31pd)
 - [Dev.to/JS] [How to Break from forEach in JavaScript?](https://dev.to/mayallo/how-to-break-from-foreach-in-javascript-24mm)
 - [Dev.to/JS] [What is Angular Ivy?](https://dev.to/kellyblaire1/what-is-angular-ivy-6o3)
 - [Dev.to/JS] [Is Angular losing popularity?](https://dev.to/kellyblaire1/is-angular-losing-popularity-4kf7)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [BOOST CODING BY 3x](https://dev.to/aiforme/boost-coding-by-3x-14j9)
 - [Dev.to/JS] [Scraping Archives of Nethys for fun and profit](https://dev.to/lukehagar/scraping-archives-of-nethys-for-fun-and-profit-3ll3)
 - [Dev.to/JS] [AngularJS for Beginners](https://dev.to/ryosuke/angularjs-for-beginners-ck4)
-- [Dev.to/JS] [How to Become a Developer &lpar;Self-Taught&rpar;](https://dev.to/elidotco/how-to-become-a-developer-self-taught-133k)
-- [Dev.to/JS] [Secure by Design: Enhancing React.js Application Security](https://dev.to/ivan_kaminskyi/secure-by-design-enhancing-reactjs-application-security-1ie4)
-- [Dev.to/JS] [Funny observation on JS Frameworks](https://dev.to/doctorx/funny-observation-on-js-frameworks-9jp)
-- [Dev.to/JS] [What is Optional Chaining &lpar;?.&rpar; In javaScript?](https://dev.to/shameerchagani/optional-chaining--3p22)
 - [Lifehacker] [TikTok Myth of the Week: Vibration Plates](https://lifehacker.com/tiktok-myth-of-the-week-vibration-plates-1850548917)
 - [Lifehacker] [What&#39;s New on Hulu in July 2023](https://lifehacker.com/whats-new-on-hulu-in-july-2023-1850548738)
 - [Lifehacker] [Make Super Savory Carrot Fries in Your Air Fryer](https://lifehacker.com/make-super-savory-carrot-fries-in-your-air-fryer-1850548742)
