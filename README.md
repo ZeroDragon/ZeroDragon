@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Breaking Barriers: Exploring the Cutting-Edge Web Frameworks Redefining the Development Landscape](https://dev.to/philipcase/breaking-barriers-exploring-the-cutting-edge-web-frameworks-redefining-the-development-landscape-3en5)
+- [Dev.to/JS] [Responsive Multi-Item Carousel CSS-JavaScript](https://dev.to/devilinux/responsive-multi-item-carousel-css-javascript-nk)
+- [Dev.to/JS] [Differences Between ReactJS, AngularJS, and VueJS: A Comparative Analysis](https://dev.to/ryosuke/differences-between-reactjs-angularjs-and-vuejs-a-comparative-analysis-4cp2)
+- [Dev.to/JS] [Cypress Workshop Part 9: Reusability, Page Object Pattern, Commands](https://dev.to/viktorijafilipov/cypress-workshop-part-9-reusability-page-object-pattern-commands-2nee)
 - [Dev.to/JS] [&lt;pride-flag&gt; Web Component](https://dev.to/dannyengelman/web-component-19dl)
 - [Dev.to/JS] [Mastering Server-Side Rendering in React.js for SEO and Performance](https://dev.to/ivan_kaminskyi/mastering-server-side-rendering-in-reactjs-for-seo-and-performance-1b1p)
 - [Dev.to/JS] [Unraveling Angular &amp; TypeScript: Essential Values and Resources](https://dev.to/jimmytaravia/unraveling-angular-typescript-essential-values-and-resources-58oc)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Common Reasons Your Driveway Is Sinking &lpar;and How to Fix Them&rpar;](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)
 - [Dev.to/JS] [Pipe and Compose in JavaScript](https://dev.to/indracit/pipe-and-compose-in-javascript-3j1l)
 - [Dev.to/JS] [Encrypt your Local Storage data!](https://dev.to/codecraftjs/encrypt-your-local-storage-data-5ag8)
-- [Dev.to/JS] [Snapshot of the Most Popular Programming Languages in 2023](https://dev.to/philipcase/snapshot-of-the-most-popular-programming-languages-in-2023-3i6j)
-- [Dev.to/JS] [Simplifying Web Application Middleware with Flowcharts](https://dev.to/devded/simplifying-web-application-middleware-with-flowcharts-65d)
-- [Dev.to/JS] [Streamlining Your Code with JavaScript&#39;s Reduce Method](https://dev.to/sachitsac/streamlining-your-code-with-javascripts-reduce-method-e61)
-- [Dev.to/JS] [Defend, Detect, and Dominate: Strengthen Your JavaScript Code with NPM Audit&#39;s Security Audit](https://dev.to/philipcase/defend-detect-and-dominate-strengthen-your-javascript-code-with-npm-audits-security-audit-3f5l)
 - [Lifehacker] [The Best Way to Straighten a Leaning Tree in Your Yard](https://lifehacker.com/the-best-way-to-straighten-a-leaning-tree-in-your-yard-1850544183)
 - [Lifehacker] [What&#39;s New on Disney+ in July 2023](https://lifehacker.com/whats-new-on-disney-in-july-2023-1850548262)
 - [Lifehacker] [Avoid Using This Confusing Workplace Jargon](https://lifehacker.com/avoid-using-this-confusing-workplace-jargon-1850543583)
