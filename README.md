@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hello World](https://dev.to/hridoyroy/hello-world-3169)
 - [Dev.to/JS] [Building a Socket.io Chat Application in Node.js](https://dev.to/jackchipofyahadat/building-a-socketio-chat-application-in-nodejs-41lp)
 - [Dev.to/JS] [The Art of Side Effects in React.js: Understanding and Using the useEffect Hook](https://dev.to/ivan_kaminskyi/the-art-of-side-effects-in-reactjs-understanding-and-using-the-useeffect-hook-n74)
 - [Lifehacker] [The Most Common Reasons Your Driveway Is Sinking &lpar;and How to Fix Them&rpar;](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Disney+ in July 2023](https://lifehacker.com/whats-new-on-disney-in-july-2023-1850548262)
 - [Lifehacker] [Avoid Using This Confusing Workplace Jargon](https://lifehacker.com/avoid-using-this-confusing-workplace-jargon-1850543583)
 - [Dev.to/JS] [What is JavaScript ? How is JS Code executed line by line?](https://dev.to/harshitagupta/what-is-javascript-how-is-js-code-executed-line-by-line-53po)
-- [Dev.to/JS] [Can you answer these Javascript questions ?&lpar;Part 1&rpar;](https://dev.to/codecraftjs/can-you-answer-these-javascript-questions-part-1-35f6)
 - [Lifehacker] [TikTok Myth of the Week: Vibration Plates](https://lifehacker.com/tiktok-myth-of-the-week-vibration-plates-1850548917)
 - [Lifehacker] [What&#39;s New on Hulu in July 2023](https://lifehacker.com/whats-new-on-hulu-in-july-2023-1850548738)
 - [Lifehacker] [Make Super Savory Carrot Fries in Your Air Fryer](https://lifehacker.com/make-super-savory-carrot-fries-in-your-air-fryer-1850548742)
