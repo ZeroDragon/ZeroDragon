@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MJGS Newsletter - Don’t Missout on Magic &lpar;Issue #120&rpar;](https://dev.to/mjgs/mjgs-newsletter-dont-missout-on-magic-issue-120-gfi)
+- [Dev.to/JS] [The Complexity of Front-End Development: Demystifying the Notion of Simplicity](https://dev.to/kristiyan_velkov/the-complexity-of-front-end-development-demystifying-the-notion-of-simplicity-3gei)
+- [Dev.to/JS] [Javascript Object - Prototype](https://dev.to/ngquan/javascript-object-prototype-541d)
 - [Dev.to/JS] [ShortNote On NextJs](https://dev.to/naveenthamizh/shortnote-on-nextjs-5cfc)
 - [Dev.to/JS] [Git Basic Commands: A Comprehensive Guide with Examples](https://dev.to/itsshaikhaj/git-basic-commands-a-comprehensive-guide-with-examples-203a)
 - [Dev.to/JS] [Silent reboot of Django JET with latest jQuery and jQuery-UI along with support for Django 4](https://dev.to/okkattiboy/silent-reboot-of-django-jet-with-latest-jquery-and-jquery-ui-along-with-support-for-django-4-19md)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Promises in JavaScript](https://dev.to/indracit/promises-in-javascript-1lfc)
 - [Dev.to/JS] [How to Leverage TypeScript for More Robust JavaScript Code](https://dev.to/abhaysinghr1/how-to-leverage-typescript-for-more-robust-javascript-code-1nd9)
 - [Dev.to/JS] [Making Tailwind more fun&lpar;ctional&rpar; by using pipeable api in tailwind-fun](https://dev.to/hanipcode/making-tailwind-more-functional-by-using-pipeable-api-in-tailwind-fun-3cc9)
-- [Dev.to/JS] [Callback, Async, Await, Promises in JavaScript](https://dev.to/indracit/callback-async-await-promises-in-javascript-1ho3)
-- [Dev.to/JS] [Adnoor Figs](https://dev.to/mrwick546/adnoor-figs-31pd)
-- [Dev.to/JS] [How to Break from forEach in JavaScript?](https://dev.to/mayallo/how-to-break-from-foreach-in-javascript-24mm)
 - [Lifehacker] [TikTok Myth of the Week: Vibration Plates](https://lifehacker.com/tiktok-myth-of-the-week-vibration-plates-1850548917)
 - [Lifehacker] [What&#39;s New on Hulu in July 2023](https://lifehacker.com/whats-new-on-hulu-in-july-2023-1850548738)
 - [Lifehacker] [Make Super Savory Carrot Fries in Your Air Fryer](https://lifehacker.com/make-super-savory-carrot-fries-in-your-air-fryer-1850548742)
