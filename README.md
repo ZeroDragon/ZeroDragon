@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NestJS tip: fine-grained exception filtering for the same exception class!](https://dev.to/micalevisk/nestjs-tip-fine-grained-exception-filtering-for-the-same-exception-class-5ha5)
 - [Dev.to/JS] [Breaking Barriers: Exploring the Cutting-Edge Web Frameworks Redefining the Development Landscape](https://dev.to/philipcase/breaking-barriers-exploring-the-cutting-edge-web-frameworks-redefining-the-development-landscape-3en5)
 - [Dev.to/JS] [Responsive Multi-Item Carousel CSS-JavaScript](https://dev.to/devilinux/responsive-multi-item-carousel-css-javascript-nk)
 - [Dev.to/JS] [Differences Between ReactJS, AngularJS, and VueJS: A Comparative Analysis](https://dev.to/ryosuke/differences-between-reactjs-angularjs-and-vuejs-a-comparative-analysis-4cp2)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Art of Side Effects in React.js: Understanding and Using the useEffect Hook](https://dev.to/ivan_kaminskyi/the-art-of-side-effects-in-reactjs-understanding-and-using-the-useeffect-hook-n74)
 - [Lifehacker] [The Most Common Reasons Your Driveway Is Sinking &lpar;and How to Fix Them&rpar;](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)
 - [Dev.to/JS] [Pipe and Compose in JavaScript](https://dev.to/indracit/pipe-and-compose-in-javascript-3j1l)
-- [Dev.to/JS] [Encrypt your Local Storage data!](https://dev.to/codecraftjs/encrypt-your-local-storage-data-5ag8)
 - [Lifehacker] [The Best Way to Straighten a Leaning Tree in Your Yard](https://lifehacker.com/the-best-way-to-straighten-a-leaning-tree-in-your-yard-1850544183)
 - [Lifehacker] [What&#39;s New on Disney+ in July 2023](https://lifehacker.com/whats-new-on-disney-in-july-2023-1850548262)
 - [Lifehacker] [Avoid Using This Confusing Workplace Jargon](https://lifehacker.com/avoid-using-this-confusing-workplace-jargon-1850543583)
