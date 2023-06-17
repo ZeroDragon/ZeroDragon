@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Avoid Using This Confusing Workplace Jargon](https://lifehacker.com/avoid-using-this-confusing-workplace-jargon-1850543583)
 - [Dev.to/JS] [What is JavaScript ? How is JS Code executed line by line?](https://dev.to/harshitagupta/what-is-javascript-how-is-js-code-executed-line-by-line-53po)
 - [Dev.to/JS] [Can you answer these Javascript questions ?&lpar;Part 1&rpar;](https://dev.to/codecraftjs/can-you-answer-these-javascript-questions-part-1-35f6)
 - [Dev.to/JS] [Part 5: Mastering JavaScript Arrays](https://dev.to/cliff123tech/part-5-mastering-javascript-arrays-598o)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Feel Less Terrified About Retirement](https://lifehacker.com/how-to-feel-less-terrified-about-retirement-1850543984)
 - [Lifehacker] [You Don’t Have to Marinate Everything Overnight](https://lifehacker.com/how-long-do-you-need-to-marinate-protein-1850541090)
 - [Lifehacker] [What Everyone Should Know About Squatter’s Rights](https://lifehacker.com/what-everyone-should-know-about-squatter-s-rights-1850543705)
-- [Lifehacker] [Save Money by Making Your Ground Meat Supply Last Longer](https://lifehacker.com/save-money-by-making-your-ground-meat-supply-last-longe-1850542915)
-- [Lifehacker] [Why So Many People Care About Formula 1 &lpar;and How You Can Too&rpar;](https://lifehacker.com/why-so-many-people-care-about-formula-1-and-how-you-ca-1850543411)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Save Money by Making Your Ground Meat Supply Last Longer](https://lifehacker.com/save-money-by-making-your-ground-meat-supply-last-longe-1850542915)<!-- TECH-POSTS:END -->
 
 ---
 
