@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Most Common Reasons Your Driveway Is Sinking &lpar;and How to Fix Them&rpar;](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)
+- [Dev.to/JS] [Pipe and Compose in JavaScript](https://dev.to/indracit/pipe-and-compose-in-javascript-3j1l)
 - [Dev.to/JS] [Encrypt your Local Storage data!](https://dev.to/codecraftjs/encrypt-your-local-storage-data-5ag8)
 - [Dev.to/JS] [Snapshot of the Most Popular Programming Languages in 2023](https://dev.to/philipcase/snapshot-of-the-most-popular-programming-languages-in-2023-3i6j)
 - [Dev.to/JS] [Simplifying Web Application Middleware with Flowcharts](https://dev.to/devded/simplifying-web-application-middleware-with-flowcharts-65d)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Can you answer these Javascript questions ?&lpar;Part 1&rpar;](https://dev.to/codecraftjs/can-you-answer-these-javascript-questions-part-1-35f6)
 - [Dev.to/JS] [Part 5: Mastering JavaScript Arrays](https://dev.to/cliff123tech/part-5-mastering-javascript-arrays-598o)
 - [Dev.to/JS] [How to Remove Duplicate Elements From an Array in JavaScript](https://dev.to/adetutu/how-to-remove-duplicate-elements-from-an-array-in-javascript-3d7e)
-- [Dev.to/JS] [10 Javascript tips and tricks](https://dev.to/roktim32/10-javascript-tips-and-tricks-244o)
 - [Lifehacker] [TikTok Myth of the Week: Vibration Plates](https://lifehacker.com/tiktok-myth-of-the-week-vibration-plates-1850548917)
 - [Lifehacker] [What&#39;s New on Hulu in July 2023](https://lifehacker.com/whats-new-on-hulu-in-july-2023-1850548738)
 - [Lifehacker] [Make Super Savory Carrot Fries in Your Air Fryer](https://lifehacker.com/make-super-savory-carrot-fries-in-your-air-fryer-1850548742)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Pick and Pickle Green Strawberries](https://lifehacker.com/you-should-pick-and-pickle-green-strawberries-1850544383)
 - [Lifehacker] [The Difference Between &#39;Heirloom&#39; and &#39;Heritage&#39; Chickens](https://lifehacker.com/the-difference-between-heirloom-and-heritage-chickens-1850544200)
 - [Lifehacker] [When to Use a Microfiber Cloth Instead of Paper Towels](https://lifehacker.com/when-to-use-a-microfiber-cloth-instead-of-paper-towels-1850544019)
-- [Lifehacker] [How to Feel Less Terrified About Retirement](https://lifehacker.com/how-to-feel-less-terrified-about-retirement-1850543984)
-- [Lifehacker] [You Don’t Have to Marinate Everything Overnight](https://lifehacker.com/how-long-do-you-need-to-marinate-protein-1850541090)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Feel Less Terrified About Retirement](https://lifehacker.com/how-to-feel-less-terrified-about-retirement-1850543984)<!-- TECH-POSTS:END -->
 
 ---
 
