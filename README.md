@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scraping Archives of Nethys for fun and profit](https://dev.to/lukehagar/scraping-archives-of-nethys-for-fun-and-profit-3ll3)
 - [Dev.to/JS] [AngularJS for Beginners](https://dev.to/ryosuke/angularjs-for-beginners-ck4)
 - [Dev.to/JS] [How to Become a Developer &lpar;Self-Taught&rpar;](https://dev.to/elidotco/how-to-become-a-developer-self-taught-133k)
 - [Dev.to/JS] [Secure by Design: Enhancing React.js Application Security](https://dev.to/ivan_kaminskyi/secure-by-design-enhancing-reactjs-application-security-1ie4)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array.reduce&lpar;&rpar; Method](https://dev.to/mrizwanashiq/arrayreduce-method-3812)
 - [Lifehacker] [When to Use a &#39;Functional&#39; Resume Instead of a Traditional One](https://lifehacker.com/when-to-use-a-functional-resume-instead-of-a-traditiona-1850548206)
 - [Dev.to/JS] [Beauty Of Javascript](https://dev.to/vivekpal/beauty-of-javascript-5a0j)
-- [Dev.to/JS] [Episode 23/23: Hydration in Angular, Angular Community Meetup](https://dev.to/this-is-angular/episode-2323-hydration-in-angular-angular-community-meetup-3fed)
 - [Lifehacker] [Use ChatGPT to Prepare for Your Next Job Interview](https://lifehacker.com/use-chatgpt-to-prepare-for-your-next-job-interview-1850547294)
 - [Lifehacker] [Think Twice Before Cutting a Pill in Half](https://lifehacker.com/think-twice-before-cutting-a-pill-in-half-1850547388)
 - [Lifehacker] [35 Netflix Originals You Probably Aren&#39;t Watching but Definitely Should Be](https://lifehacker.com/25-netflix-original-shows-you-probably-arent-watching-b-1847429789)
