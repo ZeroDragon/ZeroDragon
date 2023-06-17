@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is JavaScript ? How is JS Code executed line by line?](https://dev.to/harshitagupta/what-is-javascript-how-is-js-code-executed-line-by-line-53po)
+- [Dev.to/JS] [Can you answer these Javascript questions ?&lpar;Part 1&rpar;](https://dev.to/codecraftjs/can-you-answer-these-javascript-questions-part-1-35f6)
+- [Dev.to/JS] [Part 5: Mastering JavaScript Arrays](https://dev.to/cliff123tech/part-5-mastering-javascript-arrays-598o)
 - [Dev.to/JS] [How to Remove Duplicate Elements From an Array in JavaScript](https://dev.to/adetutu/how-to-remove-duplicate-elements-from-an-array-in-javascript-3d7e)
 - [Dev.to/JS] [10 Javascript tips and tricks](https://dev.to/roktim32/10-javascript-tips-and-tricks-244o)
 - [Dev.to/JS] [Let&#39;s Build A Weather Application With JavaScript](https://dev.to/comfortdeola/lets-build-a-weather-application-with-javascript-5agf)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple Methods for Debugging Angular Applications](https://dev.to/danywalls/simple-methods-for-debugging-angular-applications-1pe3)
 - [Dev.to/JS] [React Ecosystem in 2023.](https://dev.to/ihteshamulhaq510/react-ecosystem-in-2023-5aj4)
 - [Dev.to/JS] [MJGS Newsletter - Don’t Missout on Magic &lpar;Issue #119&rpar;](https://dev.to/mjgs/mjgs-newsletter-dont-missout-on-magic-issue-120-gfi)
-- [Dev.to/JS] [The Complexity of Front-End Development: Demystifying the Notion of Simplicity](https://dev.to/kristiyan_velkov/the-complexity-of-front-end-development-demystifying-the-notion-of-simplicity-3gei)
-- [Dev.to/JS] [Javascript Object - Prototype](https://dev.to/ngquan/javascript-object-prototype-541d)
-- [Dev.to/JS] [ShortNote On NextJs](https://dev.to/naveenthamizh/shortnote-on-nextjs-5cfc)
 - [Lifehacker] [TikTok Myth of the Week: Vibration Plates](https://lifehacker.com/tiktok-myth-of-the-week-vibration-plates-1850548917)
 - [Lifehacker] [What&#39;s New on Hulu in July 2023](https://lifehacker.com/whats-new-on-hulu-in-july-2023-1850548738)
 - [Lifehacker] [Make Super Savory Carrot Fries in Your Air Fryer](https://lifehacker.com/make-super-savory-carrot-fries-in-your-air-fryer-1850548742)
