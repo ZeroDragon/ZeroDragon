@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&lt;pride-flag&gt; Web Component](https://dev.to/dannyengelman/web-component-19dl)
+- [Dev.to/JS] [Mastering Server-Side Rendering in React.js for SEO and Performance](https://dev.to/ivan_kaminskyi/mastering-server-side-rendering-in-reactjs-for-seo-and-performance-1b1p)
+- [Dev.to/JS] [Unraveling Angular &amp; TypeScript: Essential Values and Resources](https://dev.to/jimmytaravia/unraveling-angular-typescript-essential-values-and-resources-58oc)
 - [Dev.to/JS] [Hello World](https://dev.to/hridoyroy/hello-world-3169)
 - [Dev.to/JS] [Building a Socket.io Chat Application in Node.js](https://dev.to/jackchipofyahadat/building-a-socketio-chat-application-in-nodejs-41lp)
 - [Dev.to/JS] [The Art of Side Effects in React.js: Understanding and Using the useEffect Hook](https://dev.to/ivan_kaminskyi/the-art-of-side-effects-in-reactjs-understanding-and-using-the-useeffect-hook-n74)
@@ -33,12 +36,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simplifying Web Application Middleware with Flowcharts](https://dev.to/devded/simplifying-web-application-middleware-with-flowcharts-65d)
 - [Dev.to/JS] [Streamlining Your Code with JavaScript&#39;s Reduce Method](https://dev.to/sachitsac/streamlining-your-code-with-javascripts-reduce-method-e61)
 - [Dev.to/JS] [Defend, Detect, and Dominate: Strengthen Your JavaScript Code with NPM Audit&#39;s Security Audit](https://dev.to/philipcase/defend-detect-and-dominate-strengthen-your-javascript-code-with-npm-audits-security-audit-3f5l)
-- [Dev.to/JS] [Blog Application Nodejs](https://dev.to/rajamanickam/blog-application-nodejs-56k7)
 - [Lifehacker] [The Best Way to Straighten a Leaning Tree in Your Yard](https://lifehacker.com/the-best-way-to-straighten-a-leaning-tree-in-your-yard-1850544183)
-- [Dev.to/JS] [Exploring the Basics of BASH Shell Scripting: A Journey into Automation](https://dev.to/philipcase/exploring-the-basics-of-bash-shell-scripting-a-journey-into-automation-119l)
 - [Lifehacker] [What&#39;s New on Disney+ in July 2023](https://lifehacker.com/whats-new-on-disney-in-july-2023-1850548262)
 - [Lifehacker] [Avoid Using This Confusing Workplace Jargon](https://lifehacker.com/avoid-using-this-confusing-workplace-jargon-1850543583)
-- [Dev.to/JS] [What is JavaScript ? How is JS Code executed line by line?](https://dev.to/harshitagupta/what-is-javascript-how-is-js-code-executed-line-by-line-53po)
 - [Lifehacker] [TikTok Myth of the Week: Vibration Plates](https://lifehacker.com/tiktok-myth-of-the-week-vibration-plates-1850548917)
 - [Lifehacker] [What&#39;s New on Hulu in July 2023](https://lifehacker.com/whats-new-on-hulu-in-july-2023-1850548738)
 - [Lifehacker] [Make Super Savory Carrot Fries in Your Air Fryer](https://lifehacker.com/make-super-savory-carrot-fries-in-your-air-fryer-1850548742)
