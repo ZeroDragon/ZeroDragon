@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [MJGS Newsletter - Don’t Missout on Magic &lpar;Issue #120&rpar;](https://dev.to/mjgs/mjgs-newsletter-dont-missout-on-magic-issue-120-gfi)
+- [Dev.to/JS] [Simple Methods for Debugging Angular Applications](https://dev.to/danywalls/simple-methods-for-debugging-angular-applications-1pe3)
+- [Dev.to/JS] [React Ecosystem in 2023.](https://dev.to/ihteshamulhaq510/react-ecosystem-in-2023-5aj4)
+- [Dev.to/JS] [MJGS Newsletter - Don’t Missout on Magic &lpar;Issue #119&rpar;](https://dev.to/mjgs/mjgs-newsletter-dont-missout-on-magic-issue-120-gfi)
 - [Dev.to/JS] [The Complexity of Front-End Development: Demystifying the Notion of Simplicity](https://dev.to/kristiyan_velkov/the-complexity-of-front-end-development-demystifying-the-notion-of-simplicity-3gei)
 - [Dev.to/JS] [Javascript Object - Prototype](https://dev.to/ngquan/javascript-object-prototype-541d)
 - [Dev.to/JS] [ShortNote On NextJs](https://dev.to/naveenthamizh/shortnote-on-nextjs-5cfc)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering High-Order Functions: Unlocking the Power of Functional Programming](https://dev.to/devantoniorogers/mastering-high-order-functions-unlocking-the-power-of-functional-programming-4hg8)
 - [Dev.to/JS] [Yo.link - A human friendly URL Shortener](https://dev.to/tzador/yolink-a-human-friendly-url-shortener-33o4)
 - [Dev.to/JS] [Promises in JavaScript](https://dev.to/indracit/promises-in-javascript-1lfc)
-- [Dev.to/JS] [How to Leverage TypeScript for More Robust JavaScript Code](https://dev.to/abhaysinghr1/how-to-leverage-typescript-for-more-robust-javascript-code-1nd9)
-- [Dev.to/JS] [Making Tailwind more fun&lpar;ctional&rpar; by using pipeable api in tailwind-fun](https://dev.to/hanipcode/making-tailwind-more-functional-by-using-pipeable-api-in-tailwind-fun-3cc9)
 - [Lifehacker] [TikTok Myth of the Week: Vibration Plates](https://lifehacker.com/tiktok-myth-of-the-week-vibration-plates-1850548917)
 - [Lifehacker] [What&#39;s New on Hulu in July 2023](https://lifehacker.com/whats-new-on-hulu-in-july-2023-1850548738)
 - [Lifehacker] [Make Super Savory Carrot Fries in Your Air Fryer](https://lifehacker.com/make-super-savory-carrot-fries-in-your-air-fryer-1850548742)
