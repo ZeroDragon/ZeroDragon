@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Encrypt your Local Storage data!](https://dev.to/codecraftjs/encrypt-your-local-storage-data-5ag8)
+- [Dev.to/JS] [Snapshot of the Most Popular Programming Languages in 2023](https://dev.to/philipcase/snapshot-of-the-most-popular-programming-languages-in-2023-3i6j)
+- [Dev.to/JS] [Simplifying Web Application Middleware with Flowcharts](https://dev.to/devded/simplifying-web-application-middleware-with-flowcharts-65d)
+- [Dev.to/JS] [Streamlining Your Code with JavaScript&#39;s Reduce Method](https://dev.to/sachitsac/streamlining-your-code-with-javascripts-reduce-method-e61)
+- [Dev.to/JS] [Defend, Detect, and Dominate: Strengthen Your JavaScript Code with NPM Audit&#39;s Security Audit](https://dev.to/philipcase/defend-detect-and-dominate-strengthen-your-javascript-code-with-npm-audits-security-audit-3f5l)
+- [Dev.to/JS] [Blog Application Nodejs](https://dev.to/rajamanickam/blog-application-nodejs-56k7)
 - [Lifehacker] [The Best Way to Straighten a Leaning Tree in Your Yard](https://lifehacker.com/the-best-way-to-straighten-a-leaning-tree-in-your-yard-1850544183)
 - [Dev.to/JS] [Exploring the Basics of BASH Shell Scripting: A Journey into Automation](https://dev.to/philipcase/exploring-the-basics-of-bash-shell-scripting-a-journey-into-automation-119l)
 - [Lifehacker] [What&#39;s New on Disney+ in July 2023](https://lifehacker.com/whats-new-on-disney-in-july-2023-1850548262)
@@ -32,12 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Part 5: Mastering JavaScript Arrays](https://dev.to/cliff123tech/part-5-mastering-javascript-arrays-598o)
 - [Dev.to/JS] [How to Remove Duplicate Elements From an Array in JavaScript](https://dev.to/adetutu/how-to-remove-duplicate-elements-from-an-array-in-javascript-3d7e)
 - [Dev.to/JS] [10 Javascript tips and tricks](https://dev.to/roktim32/10-javascript-tips-and-tricks-244o)
-- [Dev.to/JS] [Let&#39;s Build A Weather Application With JavaScript](https://dev.to/comfortdeola/lets-build-a-weather-application-with-javascript-5agf)
-- [Dev.to/JS] [Javascript Objects: Best Practices](https://dev.to/codecraftjs/javascript-objects-best-practices-gjo)
-- [Dev.to/JS] [i want to be a web developer](https://dev.to/gustavomanchuca/i-want-to-be-a-web-developer-1cmd)
-- [Dev.to/JS] [RPG Based Browser Game](https://dev.to/anradev/rpg-based-browser-game-237b)
-- [Dev.to/JS] [Simple Methods for Debugging Angular Applications](https://dev.to/danywalls/simple-methods-for-debugging-angular-applications-1pe3)
-- [Dev.to/JS] [React Ecosystem in 2023.](https://dev.to/ihteshamulhaq510/react-ecosystem-in-2023-5aj4)
 - [Lifehacker] [TikTok Myth of the Week: Vibration Plates](https://lifehacker.com/tiktok-myth-of-the-week-vibration-plates-1850548917)
 - [Lifehacker] [What&#39;s New on Hulu in July 2023](https://lifehacker.com/whats-new-on-hulu-in-july-2023-1850548738)
 - [Lifehacker] [Make Super Savory Carrot Fries in Your Air Fryer](https://lifehacker.com/make-super-savory-carrot-fries-in-your-air-fryer-1850548742)
