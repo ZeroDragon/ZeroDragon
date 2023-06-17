@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Remove Duplicate Elements From an Array in JavaScript](https://dev.to/adetutu/how-to-remove-duplicate-elements-from-an-array-in-javascript-3d7e)
 - [Dev.to/JS] [10 Javascript tips and tricks](https://dev.to/roktim32/10-javascript-tips-and-tricks-244o)
 - [Dev.to/JS] [Let&#39;s Build A Weather Application With JavaScript](https://dev.to/comfortdeola/lets-build-a-weather-application-with-javascript-5agf)
 - [Dev.to/JS] [Javascript Objects: Best Practices](https://dev.to/codecraftjs/javascript-objects-best-practices-gjo)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Complexity of Front-End Development: Demystifying the Notion of Simplicity](https://dev.to/kristiyan_velkov/the-complexity-of-front-end-development-demystifying-the-notion-of-simplicity-3gei)
 - [Dev.to/JS] [Javascript Object - Prototype](https://dev.to/ngquan/javascript-object-prototype-541d)
 - [Dev.to/JS] [ShortNote On NextJs](https://dev.to/naveenthamizh/shortnote-on-nextjs-5cfc)
-- [Dev.to/JS] [Git Basic Commands: A Comprehensive Guide with Examples](https://dev.to/itsshaikhaj/git-basic-commands-a-comprehensive-guide-with-examples-203a)
 - [Lifehacker] [TikTok Myth of the Week: Vibration Plates](https://lifehacker.com/tiktok-myth-of-the-week-vibration-plates-1850548917)
 - [Lifehacker] [What&#39;s New on Hulu in July 2023](https://lifehacker.com/whats-new-on-hulu-in-july-2023-1850548738)
 - [Lifehacker] [Make Super Savory Carrot Fries in Your Air Fryer](https://lifehacker.com/make-super-savory-carrot-fries-in-your-air-fryer-1850548742)
