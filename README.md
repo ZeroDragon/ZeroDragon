@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Objects: Best Practices](https://dev.to/codecraftjs/javascript-objects-best-practices-gjo)
+- [Dev.to/JS] [i want to be a web developer](https://dev.to/gustavomanchuca/i-want-to-be-a-web-developer-1cmd)
+- [Dev.to/JS] [RPG Based Browser Game](https://dev.to/anradev/rpg-based-browser-game-237b)
 - [Dev.to/JS] [Simple Methods for Debugging Angular Applications](https://dev.to/danywalls/simple-methods-for-debugging-angular-applications-1pe3)
 - [Dev.to/JS] [React Ecosystem in 2023.](https://dev.to/ihteshamulhaq510/react-ecosystem-in-2023-5aj4)
 - [Dev.to/JS] [MJGS Newsletter - Don’t Missout on Magic &lpar;Issue #119&rpar;](https://dev.to/mjgs/mjgs-newsletter-dont-missout-on-magic-issue-120-gfi)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Git Basic Commands: A Comprehensive Guide with Examples](https://dev.to/itsshaikhaj/git-basic-commands-a-comprehensive-guide-with-examples-203a)
 - [Dev.to/JS] [Silent reboot of Django JET with latest jQuery and jQuery-UI along with support for Django 4](https://dev.to/okkattiboy/silent-reboot-of-django-jet-with-latest-jquery-and-jquery-ui-along-with-support-for-django-4-19md)
 - [Dev.to/JS] [JavaScript localStorage: A Brief Guide with Examples](https://dev.to/itsshaikhaj/javascript-localstorage-a-brief-guide-with-examples-4b4i)
-- [Dev.to/JS] [Mastering High-Order Functions: Unlocking the Power of Functional Programming](https://dev.to/devantoniorogers/mastering-high-order-functions-unlocking-the-power-of-functional-programming-4hg8)
-- [Dev.to/JS] [Yo.link - A human friendly URL Shortener](https://dev.to/tzador/yolink-a-human-friendly-url-shortener-33o4)
-- [Dev.to/JS] [Promises in JavaScript](https://dev.to/indracit/promises-in-javascript-1lfc)
 - [Lifehacker] [TikTok Myth of the Week: Vibration Plates](https://lifehacker.com/tiktok-myth-of-the-week-vibration-plates-1850548917)
 - [Lifehacker] [What&#39;s New on Hulu in July 2023](https://lifehacker.com/whats-new-on-hulu-in-july-2023-1850548738)
 - [Lifehacker] [Make Super Savory Carrot Fries in Your Air Fryer](https://lifehacker.com/make-super-savory-carrot-fries-in-your-air-fryer-1850548742)
