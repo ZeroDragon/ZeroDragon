@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How well should I know React before applying to my first job?](https://dev.to/scastiel/how-well-should-i-know-react-before-applying-to-my-first-job-3dmm)
+- [Dev.to/JS] [Errors Received When Migrating Next.js 13 to New App Folder](https://dev.to/perssondennis/errors-received-when-migrating-nextjs-13-to-new-app-folder-1of5)
+- [Dev.to/JS] [Beginner&#39;s Guide to Node Mailer with Node.js](https://dev.to/scofieldidehen/beginners-guide-to-node-mailer-with-nodejs-4a0d)
+- [Dev.to/JS] [7 Hidden JavaScript Web APIs to Craft Futuristic Websites That Will Leave Your Competitors in Awe!](https://dev.to/rahul3002/7-hidden-javascript-web-apis-to-craft-futuristic-websites-that-will-leave-your-competitors-in-awe-2if5)
 - [Dev.to/JS] [13 Free Online SVG Editors](https://dev.to/sysmaya/13-free-online-svg-editors-3pc3)
 - [Dev.to/JS] [Use Kodezi for Auto-Coding!](https://dev.to/aiforme/use-kodezi-for-auto-coding-2mgp)
 - [Dev.to/JS] [Defer vs Async vs Default Browser Behavior](https://dev.to/itsmohamedyahia/defer-vs-async-vs-default-browser-behavior-2l7c)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hello World Programming for Neural Networks: A Beginner&#39;s Guide to Getting Started.](https://dev.to/subhash-halder/hello-world-programming-for-neural-networks-a-beginners-guide-to-getting-started-49c2)
 - [Dev.to/JS] [How to Stay on Top of Your Gmail Inbox with AppScript](https://dev.to/subhash-halder/how-to-stay-on-top-of-your-gmail-inbox-with-appscript-15bk)
 - [Dev.to/JS] [Chrome Reading List export](https://dev.to/barakplasma/chrome-reading-list-export-1h)
-- [Dev.to/JS] [Angular HttpClient: A Comprehensive Guide](https://dev.to/josematoswork/angular-httpclient-a-comprehensive-guide-2gnm)
-- [Dev.to/JS] [Next 13 Migration Case Study: useRouter vs useRouter](https://dev.to/ashishkankal/next-13-migration-case-study-userouter-vs-userouter-39kb)
-- [Dev.to/JS] [JavaScript Interview Questions, You Need to know.](https://dev.to/sohrab09/javascript-interview-questions-you-need-to-know-57h2)
-- [Dev.to/JS] [Trending Reports: Insightful Analysis by DelveInsight](https://dev.to/ankit93948019/trending-reports-insightful-analysis-by-delveinsight-42od)
 - [Lifehacker] [The Most Common Reasons Your Driveway Is Sinking &lpar;and How to Fix Them&rpar;](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)
 - [Lifehacker] [The Best Way to Straighten a Leaning Tree in Your Yard](https://lifehacker.com/the-best-way-to-straighten-a-leaning-tree-in-your-yard-1850544183)
 - [Lifehacker] [What&#39;s New on Disney+ in July 2023](https://lifehacker.com/whats-new-on-disney-in-july-2023-1850548262)
