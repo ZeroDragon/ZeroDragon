@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Redux with Svelte and SvelteKit](https://dev.to/sonyarianto/using-redux-with-svelte-and-sveltekit-28oc)
+- [Dev.to/JS] [Released New Gatsby v5+ Image-centric Gatsby tempalate for publishers, portfolio, photographers blogs and more.](https://dev.to/abdulwaqar844/released-new-gatsby-v5-image-centric-gatsby-tempalate-for-publishers-portfolio-photographers-blogs-and-more-34jj)
+- [Dev.to/JS] [Executing n parallel promises in series](https://dev.to/sreeram/executing-n-parallel-promises-in-series-3cbm)
 - [Dev.to/JS] [Write Declarative, Immutable and Flattened Code by Combining Promise and Async Await. The Great Escape From the 4 Hells](https://dev.to/tylim88/write-declarative-immutable-and-flattened-code-by-combining-promise-and-async-await-the-great-escape-from-the-4-hells-3gob)
 - [Dev.to/JS] [Using AsyncLocalStorage in Next.js 🧰 ✚ ⚛️](https://dev.to/rexessilfie/using-asynclocalstorage-in-nextjs-44c8)
 - [Dev.to/JS] [React Hooks Made Easy: A Step-by-Step Tutorial &lpar;Part 3&rpar;](https://dev.to/abosaiftaha/react-hooks-made-easy-a-step-by-step-tutorial-part-3-4hg2)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Amazing 🤯 react custom hooks you need to know as REACT DEVELOPER ⚛️👨‍💻](https://dev.to/femil/10-amazing-react-custom-hooks-you-need-to-know-as-react-developer-44hl)
 - [Dev.to/JS] [How to Optimize Your JavaScript Website for SEO: A Step-by-Step Guide](https://dev.to/abhaysinghr1/how-to-optimize-your-javascript-website-for-seo-a-step-by-step-guide-47d0)
 - [Dev.to/JS] [React JS - Naming convention](https://dev.to/kristiyan_velkov/react-js-naming-convention-lcg)
-- [Dev.to/JS] [100 Days Coding Challenge - Day 29: PHP &amp; MySql Login page](https://dev.to/alexmgp7/100-days-coding-challenge-day-29-php-mysql-login-page-3dg4)
-- [Dev.to/JS] [Post de prueba](https://dev.to/jramosz/post-de-prueba-46e1)
-- [Dev.to/JS] [Web Accessibility- best practices](https://dev.to/kelechikizito/web-accessibility-best-practices-3m83)
 - [Lifehacker] [The Most Common Reasons Your Driveway Is Sinking &lpar;and How to Fix Them&rpar;](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)
 - [Lifehacker] [The Best Way to Straighten a Leaning Tree in Your Yard](https://lifehacker.com/the-best-way-to-straighten-a-leaning-tree-in-your-yard-1850544183)
 - [Lifehacker] [What&#39;s New on Disney+ in July 2023](https://lifehacker.com/whats-new-on-disney-in-july-2023-1850548262)
