@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Write Declarative, Immutable and Flattened Code by Combining Promise and Async Await. The Great Escape From the 4 Hells](https://dev.to/tylim88/write-declarative-immutable-and-flattened-code-by-combining-promise-and-async-await-the-great-escape-from-the-4-hells-3gob)
+- [Dev.to/JS] [Using AsyncLocalStorage in Next.js 🧰 ✚ ⚛️](https://dev.to/rexessilfie/using-asynclocalstorage-in-nextjs-44c8)
+- [Dev.to/JS] [React Hooks Made Easy: A Step-by-Step Tutorial &lpar;Part 3&rpar;](https://dev.to/abosaiftaha/react-hooks-made-easy-a-step-by-step-tutorial-part-3-4hg2)
 - [Dev.to/JS] [Unleash Your Inner Marvel Enthusiast: Embracing SOLID Principles in JavaScript](https://dev.to/uttarasriya/unleash-your-inner-marvel-enthusiast-embracing-solid-principles-in-javascript-21h)
 - [Dev.to/JS] [Custom Hook to get window&#39;s width and height in React dynamically.](https://dev.to/payalsasmal/custom-hook-to-get-windows-width-and-height-in-react-dynamically-4b4l)
 - [Dev.to/JS] [Part 4: Writing Clean and Efficient React Code- Best Practices and Optimization Techniques](https://dev.to/sathishskdev/part-4-writing-clean-and-efficient-react-code-best-practices-and-optimization-techniques-423d)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [100 Days Coding Challenge - Day 29: PHP &amp; MySql Login page](https://dev.to/alexmgp7/100-days-coding-challenge-day-29-php-mysql-login-page-3dg4)
 - [Dev.to/JS] [Post de prueba](https://dev.to/jramosz/post-de-prueba-46e1)
 - [Dev.to/JS] [Web Accessibility- best practices](https://dev.to/kelechikizito/web-accessibility-best-practices-3m83)
-- [Dev.to/JS] [NestJS tip: fine-grained exception filtering for the same exception class!](https://dev.to/micalevisk/nestjs-tip-fine-grained-exception-filtering-for-the-same-exception-class-5ha5)
-- [Dev.to/JS] [Breaking Barriers: Exploring the Cutting-Edge Web Frameworks Redefining the Development Landscape](https://dev.to/philipcase/breaking-barriers-exploring-the-cutting-edge-web-frameworks-redefining-the-development-landscape-3en5)
-- [Dev.to/JS] [Responsive Multi-Item Carousel CSS-JavaScript](https://dev.to/devilinux/responsive-multi-item-carousel-css-javascript-nk)
 - [Lifehacker] [The Most Common Reasons Your Driveway Is Sinking &lpar;and How to Fix Them&rpar;](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)
 - [Lifehacker] [The Best Way to Straighten a Leaning Tree in Your Yard](https://lifehacker.com/the-best-way-to-straighten-a-leaning-tree-in-your-yard-1850544183)
 - [Lifehacker] [What&#39;s New on Disney+ in July 2023](https://lifehacker.com/whats-new-on-disney-in-july-2023-1850548262)
