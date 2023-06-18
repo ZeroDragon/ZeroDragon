@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code Smell 217 - Empty Implementation](https://dev.to/mcsee/code-smell-217-empty-implementation-5fpg)
 - [Dev.to/JS] [¿Cómo arreglar el CallBack Hell en JavaScript?](https://dev.to/bryanherreradev/como-arreglar-el-callback-hell-en-javascript-4bdi)
 - [Dev.to/JS] [Everything you want to know about programming language](https://dev.to/hagerfa79699265/everything-you-want-to-know-about-programming-language-41ic)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - AVL Tree](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-avl-tree-lfd)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Property Descriptors in JavaScript](https://dev.to/waelhabbal/understanding-property-descriptors-in-javascript-o7f)
 - [Dev.to/JS] [SlotMM: Agen Judi Bola SBO Terlengkap Se Filipina 2024](https://dev.to/slotmmgacor/slotmm-agen-judi-bola-sbo-terlengkap-se-filipina-2024-3cf5)
 - [Dev.to/JS] [Project ideas for Web-Developers &lpar;MERN&rpar;.](https://dev.to/eliot6001/project-ideas-for-web-developers-mern-2c7b)
-- [Dev.to/JS] [[Vue 3] Function Expression Vs Function Declaration inside Script Setup](https://dev.to/fadamakis/vue-3-function-expression-vs-function-declaration-inside-script-setup-27n6)
 - [Lifehacker] [Use Your Duvet Cover as a Summer Bedspread](https://lifehacker.com/use-your-duvet-cover-as-a-summer-bedspread-1850546224)
 - [Lifehacker] [These Are the Best U.S. Cities to Live in Without a Car](https://lifehacker.com/these-are-the-best-u-s-cities-to-live-in-without-a-car-1850546182)
 - [Lifehacker] [The Most Common Reasons Your Driveway Is Sinking &lpar;and How to Fix Them&rpar;](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)
