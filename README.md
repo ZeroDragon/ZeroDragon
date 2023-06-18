@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Post de prueba](https://dev.to/jramosz/post-de-prueba-46e1)
 - [Dev.to/JS] [Web Accessibility- best practices](https://dev.to/kelechikizito/web-accessibility-best-practices-3m83)
 - [Dev.to/JS] [NestJS tip: fine-grained exception filtering for the same exception class!](https://dev.to/micalevisk/nestjs-tip-fine-grained-exception-filtering-for-the-same-exception-class-5ha5)
 - [Dev.to/JS] [Breaking Barriers: Exploring the Cutting-Edge Web Frameworks Redefining the Development Landscape](https://dev.to/philipcase/breaking-barriers-exploring-the-cutting-edge-web-frameworks-redefining-the-development-landscape-3en5)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unraveling Angular &amp; TypeScript: Essential Values and Resources](https://dev.to/jimmytaravia/unraveling-angular-typescript-essential-values-and-resources-58oc)
 - [Dev.to/JS] [Hello World](https://dev.to/hridoyroy/hello-world-3169)
 - [Dev.to/JS] [Building a Socket.io Chat Application in Node.js](https://dev.to/jackchipofyahadat/building-a-socketio-chat-application-in-nodejs-41lp)
-- [Dev.to/JS] [The Art of Side Effects in React.js: Understanding and Using the useEffect Hook](https://dev.to/ivan_kaminskyi/the-art-of-side-effects-in-reactjs-understanding-and-using-the-useeffect-hook-n74)
 - [Lifehacker] [The Most Common Reasons Your Driveway Is Sinking &lpar;and How to Fix Them&rpar;](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)
 - [Lifehacker] [The Best Way to Straighten a Leaning Tree in Your Yard](https://lifehacker.com/the-best-way-to-straighten-a-leaning-tree-in-your-yard-1850544183)
 - [Lifehacker] [What&#39;s New on Disney+ in July 2023](https://lifehacker.com/whats-new-on-disney-in-july-2023-1850548262)
