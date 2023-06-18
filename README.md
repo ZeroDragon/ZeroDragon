@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React JS - Naming convention](https://dev.to/kristiyan_velkov/react-js-naming-convention-lcg)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 29: PHP &amp; MySql Login page](https://dev.to/alexmgp7/100-days-coding-challenge-day-29-php-mysql-login-page-3dg4)
 - [Dev.to/JS] [Post de prueba](https://dev.to/jramosz/post-de-prueba-46e1)
 - [Dev.to/JS] [Web Accessibility- best practices](https://dev.to/kelechikizito/web-accessibility-best-practices-3m83)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&lt;pride-flag&gt; Web Component](https://dev.to/dannyengelman/web-component-19dl)
 - [Dev.to/JS] [Mastering Server-Side Rendering in React.js for SEO and Performance](https://dev.to/ivan_kaminskyi/mastering-server-side-rendering-in-reactjs-for-seo-and-performance-1b1p)
 - [Dev.to/JS] [Unraveling Angular &amp; TypeScript: Essential Values and Resources](https://dev.to/jimmytaravia/unraveling-angular-typescript-essential-values-and-resources-58oc)
-- [Dev.to/JS] [Hello World](https://dev.to/hridoyroy/hello-world-3169)
 - [Lifehacker] [The Most Common Reasons Your Driveway Is Sinking &lpar;and How to Fix Them&rpar;](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)
 - [Lifehacker] [The Best Way to Straighten a Leaning Tree in Your Yard](https://lifehacker.com/the-best-way-to-straighten-a-leaning-tree-in-your-yard-1850544183)
 - [Lifehacker] [What&#39;s New on Disney+ in July 2023](https://lifehacker.com/whats-new-on-disney-in-july-2023-1850548262)
