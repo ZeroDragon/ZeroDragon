@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Amazing 🤯 react custom hooks you need to know as REACT DEVELOPER ⚛️👨‍💻](https://dev.to/femil/10-amazing-react-custom-hooks-you-need-to-know-as-react-developer-44hl)
+- [Dev.to/JS] [How to Optimize Your JavaScript Website for SEO: A Step-by-Step Guide](https://dev.to/abhaysinghr1/how-to-optimize-your-javascript-website-for-seo-a-step-by-step-guide-47d0)
 - [Dev.to/JS] [React JS - Naming convention](https://dev.to/kristiyan_velkov/react-js-naming-convention-lcg)
 - [Dev.to/JS] [100 Days Coding Challenge - Day 29: PHP &amp; MySql Login page](https://dev.to/alexmgp7/100-days-coding-challenge-day-29-php-mysql-login-page-3dg4)
 - [Dev.to/JS] [Post de prueba](https://dev.to/jramosz/post-de-prueba-46e1)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Differences Between ReactJS, AngularJS, and VueJS: A Comparative Analysis](https://dev.to/ryosuke/differences-between-reactjs-angularjs-and-vuejs-a-comparative-analysis-4cp2)
 - [Dev.to/JS] [Cypress Workshop Part 9: Reusability, Page Object Pattern, Commands](https://dev.to/viktorijafilipov/cypress-workshop-part-9-reusability-page-object-pattern-commands-2nee)
 - [Dev.to/JS] [&lt;pride-flag&gt; Web Component](https://dev.to/dannyengelman/web-component-19dl)
-- [Dev.to/JS] [Mastering Server-Side Rendering in React.js for SEO and Performance](https://dev.to/ivan_kaminskyi/mastering-server-side-rendering-in-reactjs-for-seo-and-performance-1b1p)
-- [Dev.to/JS] [Unraveling Angular &amp; TypeScript: Essential Values and Resources](https://dev.to/jimmytaravia/unraveling-angular-typescript-essential-values-and-resources-58oc)
 - [Lifehacker] [The Most Common Reasons Your Driveway Is Sinking &lpar;and How to Fix Them&rpar;](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)
 - [Lifehacker] [The Best Way to Straighten a Leaning Tree in Your Yard](https://lifehacker.com/the-best-way-to-straighten-a-leaning-tree-in-your-yard-1850544183)
 - [Lifehacker] [What&#39;s New on Disney+ in July 2023](https://lifehacker.com/whats-new-on-disney-in-july-2023-1850548262)
