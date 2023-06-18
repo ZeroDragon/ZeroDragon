@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Opencage Gecoder API with REACT [2nd edition]](https://dev.to/tsamaya/using-opencage-gecoder-api-with-react-2nd-edition-35bh)
+- [Dev.to/JS] [Arrays en Javascript](https://dev.to/stevendev/arrays-en-javascript-3fe9)
+- [Lifehacker] [5 Clever Ways to Use a Bar of Soap in Your Garden](https://lifehacker.com/5-clever-ways-to-use-a-bar-of-soap-in-your-garden-1850546173)
 - [Dev.to/JS] [Best tips to run Bootstrap 5 websites in Internet Explorer 11 2023](https://dev.to/devstoc/best-tips-to-run-bootstrap-5-websites-in-internet-explorer-11-2023-25dj)
 - [Dev.to/JS] [Understanding Property Descriptors in JavaScript](https://dev.to/waelhabbal/understanding-property-descriptors-in-javascript-o7f)
 - [Dev.to/JS] [SlotMM: Agen Judi Bola SBO Terlengkap Se Filipina 2024](https://dev.to/slotmmgacor/slotmm-agen-judi-bola-sbo-terlengkap-se-filipina-2024-3cf5)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array.some&lpar;&rpar; Method](https://dev.to/mrizwanashiq/arraysome-method-57p1)
 - [Dev.to/JS] [Array.every&lpar;&rpar; Method](https://dev.to/mrizwanashiq/arrayevery-method-55i3)
 - [Dev.to/JS] [Integrate Nodemailer with React.js](https://dev.to/scofieldidehen/integrate-nodemailer-with-reactjs-4ioi)
-- [Dev.to/JS] [Diving into JavaScript: Real-World Projects for Beginners](https://dev.to/botkids/diving-into-javascript-real-world-projects-for-beginners-1go6)
-- [Dev.to/JS] [Project: Tic-tac-toe - Reflections.](https://dev.to/resotap/project-tic-tac-toe-reflections-1chp)
 - [Lifehacker] [Use Your Duvet Cover as a Summer Bedspread](https://lifehacker.com/use-your-duvet-cover-as-a-summer-bedspread-1850546224)
 - [Lifehacker] [These Are the Best U.S. Cities to Live in Without a Car](https://lifehacker.com/these-are-the-best-u-s-cities-to-live-in-without-a-car-1850546182)
 - [Lifehacker] [The Most Common Reasons Your Driveway Is Sinking &lpar;and How to Fix Them&rpar;](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Orzo Is the Pasta of the Summer](https://lifehacker.com/orzo-is-the-pasta-of-the-summer-1850544500)
 - [Lifehacker] [I Tried Hanging Out With My Son in VR for Father&#39;s Day](https://lifehacker.com/can-virtual-reality-bring-families-together-for-father-1850545079)
 - [Lifehacker] [Don&#39;t Bother Boiling a Lemon to &#39;Neutralize&#39; Odors](https://lifehacker.com/dont-bother-boiling-a-lemon-to-neutralize-odors-1850544545)
-- [Lifehacker] [You Should Pick and Pickle Green Strawberries](https://lifehacker.com/you-should-pick-and-pickle-green-strawberries-1850544383)
-- [Lifehacker] [The Difference Between &#39;Heirloom&#39; and &#39;Heritage&#39; Chickens](https://lifehacker.com/the-difference-between-heirloom-and-heritage-chickens-1850544200)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Pick and Pickle Green Strawberries](https://lifehacker.com/you-should-pick-and-pickle-green-strawberries-1850544383)<!-- TECH-POSTS:END -->
 
 ---
 
