@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [13 Free Online SVG Editors](https://dev.to/sysmaya/13-free-online-svg-editors-3pc3)
+- [Dev.to/JS] [Use Kodezi for Auto-Coding!](https://dev.to/aiforme/use-kodezi-for-auto-coding-2mgp)
+- [Dev.to/JS] [Defer vs Async vs Default Browser Behavior](https://dev.to/itsmohamedyahia/defer-vs-async-vs-default-browser-behavior-2l7c)
+- [Dev.to/JS] [download eviews 13 latest 2023 version..](https://dev.to/sasakijp/download-eviews-13-latest-2023-version-42fe)
 - [Lifehacker] [These Are the Best U.S. Cities to Live in Without a Car](https://lifehacker.com/these-are-the-best-u-s-cities-to-live-in-without-a-car-1850546182)
 - [Dev.to/JS] [Iterators and generators](https://dev.to/duskpoet/iterators-and-generators-38pj)
 - [Dev.to/JS] [Hello World Programming for Neural Networks: A Beginner&#39;s Guide to Getting Started.](https://dev.to/subhash-halder/hello-world-programming-for-neural-networks-a-beginners-guide-to-getting-started-49c2)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next 13 Migration Case Study: useRouter vs useRouter](https://dev.to/ashishkankal/next-13-migration-case-study-userouter-vs-userouter-39kb)
 - [Dev.to/JS] [JavaScript Interview Questions, You Need to know.](https://dev.to/sohrab09/javascript-interview-questions-you-need-to-know-57h2)
 - [Dev.to/JS] [Trending Reports: Insightful Analysis by DelveInsight](https://dev.to/ankit93948019/trending-reports-insightful-analysis-by-delveinsight-42od)
-- [Dev.to/JS] [Rendering React Components: A Comparison of for Loops and .map&lpar;&rpar;](https://dev.to/ishanbagchi/rendering-react-components-a-comparison-of-for-loops-and-map-4dc9)
-- [Dev.to/JS] [Using Redux with Svelte and SvelteKit](https://dev.to/sonyarianto/using-redux-with-svelte-and-sveltekit-28oc)
-- [Dev.to/JS] [Released New Gatsby v5+ Image-centric Gatsby tempalate for publishers, portfolio, photographers blogs and more.](https://dev.to/abdulwaqar844/released-new-gatsby-v5-image-centric-gatsby-tempalate-for-publishers-portfolio-photographers-blogs-and-more-34jj)
-- [Dev.to/JS] [Executing n parallel promises in series](https://dev.to/sreeram/executing-n-parallel-promises-in-series-3cbm)
 - [Lifehacker] [The Most Common Reasons Your Driveway Is Sinking &lpar;and How to Fix Them&rpar;](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)
 - [Lifehacker] [The Best Way to Straighten a Leaning Tree in Your Yard](https://lifehacker.com/the-best-way-to-straighten-a-leaning-tree-in-your-yard-1850544183)
 - [Lifehacker] [What&#39;s New on Disney+ in July 2023](https://lifehacker.com/whats-new-on-disney-in-july-2023-1850548262)
