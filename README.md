@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [¿Cómo arreglar el CallBack Hell en JavaScript?](https://dev.to/bryanherreradev/como-arreglar-el-callback-hell-en-javascript-4bdi)
+- [Dev.to/JS] [Everything you want to know about programming language](https://dev.to/hagerfa79699265/everything-you-want-to-know-about-programming-language-41ic)
+- [Dev.to/JS] [Deep Dive into Data structures using Javascript - AVL Tree](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-avl-tree-lfd)
 - [Dev.to/JS] [React Modal: A Step-by-Step Tutorial Even Your Grandma Can Follow! ;&rpar;](https://dev.to/jitskedh/react-modal-a-step-by-step-tutorial-even-your-grandma-can-follow--20nm)
 - [Dev.to/JS] [Role of Service Worker In PWAs](https://dev.to/anuradha9712/role-of-service-worker-in-pwas-47ke)
 - [Dev.to/JS] [Using Opencage Gecoder API with REACT [2nd edition]](https://dev.to/tsamaya/using-opencage-gecoder-api-with-react-2nd-edition-35bh)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SlotMM: Agen Judi Bola SBO Terlengkap Se Filipina 2024](https://dev.to/slotmmgacor/slotmm-agen-judi-bola-sbo-terlengkap-se-filipina-2024-3cf5)
 - [Dev.to/JS] [Project ideas for Web-Developers &lpar;MERN&rpar;.](https://dev.to/eliot6001/project-ideas-for-web-developers-mern-2c7b)
 - [Dev.to/JS] [[Vue 3] Function Expression Vs Function Declaration inside Script Setup](https://dev.to/fadamakis/vue-3-function-expression-vs-function-declaration-inside-script-setup-27n6)
-- [Dev.to/JS] [8 Tips for Writing Better Unit Tests](https://dev.to/fadamakis/8-tips-for-writing-better-unit-tests-5c1)
-- [Dev.to/JS] [Advanced Data Fetching with Vue Query](https://dev.to/fadamakis/advanced-data-fetching-with-vue-query-334n)
-- [Dev.to/JS] [Array.some&lpar;&rpar; Method](https://dev.to/mrizwanashiq/arraysome-method-57p1)
 - [Lifehacker] [Use Your Duvet Cover as a Summer Bedspread](https://lifehacker.com/use-your-duvet-cover-as-a-summer-bedspread-1850546224)
 - [Lifehacker] [These Are the Best U.S. Cities to Live in Without a Car](https://lifehacker.com/these-are-the-best-u-s-cities-to-live-in-without-a-car-1850546182)
 - [Lifehacker] [The Most Common Reasons Your Driveway Is Sinking &lpar;and How to Fix Them&rpar;](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)
