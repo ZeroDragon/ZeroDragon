@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Part 4: Writing Clean and Efficient React Code- Best Practices and Optimization Techniques](https://dev.to/sathishskdev/part-4-writing-clean-and-efficient-react-code-best-practices-and-optimization-techniques-423d)
 - [Dev.to/JS] [10 Amazing 🤯 react custom hooks you need to know as REACT DEVELOPER ⚛️👨‍💻](https://dev.to/femil/10-amazing-react-custom-hooks-you-need-to-know-as-react-developer-44hl)
 - [Dev.to/JS] [How to Optimize Your JavaScript Website for SEO: A Step-by-Step Guide](https://dev.to/abhaysinghr1/how-to-optimize-your-javascript-website-for-seo-a-step-by-step-guide-47d0)
 - [Dev.to/JS] [React JS - Naming convention](https://dev.to/kristiyan_velkov/react-js-naming-convention-lcg)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Responsive Multi-Item Carousel CSS-JavaScript](https://dev.to/devilinux/responsive-multi-item-carousel-css-javascript-nk)
 - [Dev.to/JS] [Differences Between ReactJS, AngularJS, and VueJS: A Comparative Analysis](https://dev.to/ryosuke/differences-between-reactjs-angularjs-and-vuejs-a-comparative-analysis-4cp2)
 - [Dev.to/JS] [Cypress Workshop Part 9: Reusability, Page Object Pattern, Commands](https://dev.to/viktorijafilipov/cypress-workshop-part-9-reusability-page-object-pattern-commands-2nee)
-- [Dev.to/JS] [&lt;pride-flag&gt; Web Component](https://dev.to/dannyengelman/web-component-19dl)
 - [Lifehacker] [The Most Common Reasons Your Driveway Is Sinking &lpar;and How to Fix Them&rpar;](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)
 - [Lifehacker] [The Best Way to Straighten a Leaning Tree in Your Yard](https://lifehacker.com/the-best-way-to-straighten-a-leaning-tree-in-your-yard-1850544183)
 - [Lifehacker] [What&#39;s New on Disney+ in July 2023](https://lifehacker.com/whats-new-on-disney-in-july-2023-1850548262)
