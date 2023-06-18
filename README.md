@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Modal: A Step-by-Step Tutorial Even Your Grandma Can Follow! ;&rpar;](https://dev.to/jitskedh/react-modal-a-step-by-step-tutorial-even-your-grandma-can-follow--20nm)
+- [Dev.to/JS] [Role of Service Worker In PWAs](https://dev.to/anuradha9712/role-of-service-worker-in-pwas-47ke)
 - [Dev.to/JS] [Using Opencage Gecoder API with REACT [2nd edition]](https://dev.to/tsamaya/using-opencage-gecoder-api-with-react-2nd-edition-35bh)
 - [Dev.to/JS] [Arrays en Javascript](https://dev.to/stevendev/arrays-en-javascript-3fe9)
 - [Lifehacker] [5 Clever Ways to Use a Bar of Soap in Your Garden](https://lifehacker.com/5-clever-ways-to-use-a-bar-of-soap-in-your-garden-1850546173)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [8 Tips for Writing Better Unit Tests](https://dev.to/fadamakis/8-tips-for-writing-better-unit-tests-5c1)
 - [Dev.to/JS] [Advanced Data Fetching with Vue Query](https://dev.to/fadamakis/advanced-data-fetching-with-vue-query-334n)
 - [Dev.to/JS] [Array.some&lpar;&rpar; Method](https://dev.to/mrizwanashiq/arraysome-method-57p1)
-- [Dev.to/JS] [Array.every&lpar;&rpar; Method](https://dev.to/mrizwanashiq/arrayevery-method-55i3)
-- [Dev.to/JS] [Integrate Nodemailer with React.js](https://dev.to/scofieldidehen/integrate-nodemailer-with-reactjs-4ioi)
 - [Lifehacker] [Use Your Duvet Cover as a Summer Bedspread](https://lifehacker.com/use-your-duvet-cover-as-a-summer-bedspread-1850546224)
 - [Lifehacker] [These Are the Best U.S. Cities to Live in Without a Car](https://lifehacker.com/these-are-the-best-u-s-cities-to-live-in-without-a-car-1850546182)
 - [Lifehacker] [The Most Common Reasons Your Driveway Is Sinking &lpar;and How to Fix Them&rpar;](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)
