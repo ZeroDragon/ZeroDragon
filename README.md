@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Array methods](https://dev.to/indracit/javascript-array-methods-280o)
 - [Dev.to/JS] [Situs Slot online Resmi Joker81 RTP Slot Gacor Aman Terpercaya 2023](https://dev.to/official_45/situs-slot-online-resmi-joker81-rtp-slot-gacor-aman-terpercaya-2023-2f20)
 - [Dev.to/JS] [Two Weeks into Coding Bootcamp](https://dev.to/kiararj/two-weeks-into-coding-bootcamp-1f00)
 - [Dev.to/JS] [Code Review - Documatic](https://dev.to/makaelaking22/code-review-documatic-318m)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Opencage Gecoder API with REACT [2nd edition]](https://dev.to/tsamaya/using-opencage-gecoder-api-with-react-2nd-edition-35bh)
 - [Dev.to/JS] [Arrays en Javascript](https://dev.to/stevendev/arrays-en-javascript-3fe9)
 - [Lifehacker] [5 Clever Ways to Use a Bar of Soap in Your Garden](https://lifehacker.com/5-clever-ways-to-use-a-bar-of-soap-in-your-garden-1850546173)
-- [Dev.to/JS] [Best tips to run Bootstrap 5 websites in Internet Explorer 11 2023](https://dev.to/devstoc/best-tips-to-run-bootstrap-5-websites-in-internet-explorer-11-2023-25dj)
 - [Lifehacker] [Use Your Duvet Cover as a Summer Bedspread](https://lifehacker.com/use-your-duvet-cover-as-a-summer-bedspread-1850546224)
 - [Lifehacker] [These Are the Best U.S. Cities to Live in Without a Car](https://lifehacker.com/these-are-the-best-u-s-cities-to-live-in-without-a-car-1850546182)
 - [Lifehacker] [The Most Common Reasons Your Driveway Is Sinking &lpar;and How to Fix Them&rpar;](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)
