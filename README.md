@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Situs Slot online Resmi Joker81 RTP Slot Gacor Aman Terpercaya 2023](https://dev.to/official_45/situs-slot-online-resmi-joker81-rtp-slot-gacor-aman-terpercaya-2023-2f20)
+- [Dev.to/JS] [Two Weeks into Coding Bootcamp](https://dev.to/kiararj/two-weeks-into-coding-bootcamp-1f00)
+- [Dev.to/JS] [Code Review - Documatic](https://dev.to/makaelaking22/code-review-documatic-318m)
 - [Dev.to/JS] [Code Smell 217 - Empty Implementation](https://dev.to/mcsee/code-smell-217-empty-implementation-5fpg)
 - [Dev.to/JS] [¿Cómo arreglar el CallBack Hell en JavaScript?](https://dev.to/bryanherreradev/como-arreglar-el-callback-hell-en-javascript-4bdi)
 - [Dev.to/JS] [Everything you want to know about programming language](https://dev.to/hagerfa79699265/everything-you-want-to-know-about-programming-language-41ic)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Arrays en Javascript](https://dev.to/stevendev/arrays-en-javascript-3fe9)
 - [Lifehacker] [5 Clever Ways to Use a Bar of Soap in Your Garden](https://lifehacker.com/5-clever-ways-to-use-a-bar-of-soap-in-your-garden-1850546173)
 - [Dev.to/JS] [Best tips to run Bootstrap 5 websites in Internet Explorer 11 2023](https://dev.to/devstoc/best-tips-to-run-bootstrap-5-websites-in-internet-explorer-11-2023-25dj)
-- [Dev.to/JS] [Understanding Property Descriptors in JavaScript](https://dev.to/waelhabbal/understanding-property-descriptors-in-javascript-o7f)
-- [Dev.to/JS] [SlotMM: Agen Judi Bola SBO Terlengkap Se Filipina 2024](https://dev.to/slotmmgacor/slotmm-agen-judi-bola-sbo-terlengkap-se-filipina-2024-3cf5)
-- [Dev.to/JS] [Project ideas for Web-Developers &lpar;MERN&rpar;.](https://dev.to/eliot6001/project-ideas-for-web-developers-mern-2c7b)
 - [Lifehacker] [Use Your Duvet Cover as a Summer Bedspread](https://lifehacker.com/use-your-duvet-cover-as-a-summer-bedspread-1850546224)
 - [Lifehacker] [These Are the Best U.S. Cities to Live in Without a Car](https://lifehacker.com/these-are-the-best-u-s-cities-to-live-in-without-a-car-1850546182)
 - [Lifehacker] [The Most Common Reasons Your Driveway Is Sinking &lpar;and How to Fix Them&rpar;](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)
