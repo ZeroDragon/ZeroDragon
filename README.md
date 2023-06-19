@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Objects In Javascript](https://dev.to/bindupatidar/objects-in-javascript-5d25)
+- [Dev.to/JS] [How to Prevent Save Password Prompt of Browser](https://dev.to/chuluq/how-to-prevent-save-password-prompt-of-browser-40hg)
 - [Dev.to/JS] [Introducing TikTok clone to the digital world](https://dev.to/madis_blog/introducing-tiktok-clone-to-the-digital-world-m)
 - [Dev.to/JS] [Using music as a timing source for demos](https://dev.to/atornblad/using-music-as-a-timing-source-for-demos-1nom)
 - [Dev.to/JS] [Newbie coder - 3min random gist2](https://dev.to/devsisi/newbie-coder-3min-random-gist2-1n2e)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Situs Slot online Resmi Joker81 RTP Slot Gacor Aman Terpercaya 2023](https://dev.to/official_45/situs-slot-online-resmi-joker81-rtp-slot-gacor-aman-terpercaya-2023-2f20)
 - [Dev.to/JS] [Two Weeks into Coding Bootcamp](https://dev.to/kiararj/two-weeks-into-coding-bootcamp-1f00)
 - [Dev.to/JS] [Code Review - Documatic](https://dev.to/makaelaking22/code-review-documatic-318m)
-- [Dev.to/JS] [Code Smell 217 - Empty Implementation](https://dev.to/mcsee/code-smell-217-empty-implementation-5fpg)
-- [Dev.to/JS] [¿Cómo arreglar el CallBack Hell en JavaScript?](https://dev.to/bryanherreradev/como-arreglar-el-callback-hell-en-javascript-4bdi)
 - [Lifehacker] [5 Clever Ways to Use a Bar of Soap in Your Garden](https://lifehacker.com/5-clever-ways-to-use-a-bar-of-soap-in-your-garden-1850546173)
 - [Lifehacker] [Use Your Duvet Cover as a Summer Bedspread](https://lifehacker.com/use-your-duvet-cover-as-a-summer-bedspread-1850546224)
 - [Lifehacker] [These Are the Best U.S. Cities to Live in Without a Car](https://lifehacker.com/these-are-the-best-u-s-cities-to-live-in-without-a-car-1850546182)
