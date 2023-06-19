@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Removing Duplicates from JavaScript Arrays: Exploring Multiple Methods for Clean Data](https://dev.to/itsshaikhaj/removing-duplicates-from-javascript-arrays-exploring-multiple-methods-for-clean-data-24gl)
+- [Dev.to/JS] [Mastering Data Manipulation with JavaScript Array Methods: Unleash the Power of Arrays](https://dev.to/itsshaikhaj/mastering-data-manipulation-with-javascript-array-methods-unleash-the-power-of-arrays-38pj)
+- [Dev.to/JS] [Funciones de orden superior en JavaScript](https://dev.to/ulisesserranop/funciones-de-orden-superior-en-javascript-hop)
+- [Dev.to/JS] [CPC Icons](https://dev.to/qatrelnada/cpc-icons-291e)
 - [Dev.to/JS] [GUIA PRÁTICO - COMO FUNCIONA UM COMPONENTE ANGULAR](https://dev.to/danielcamucatto/guia-pratico-como-funciona-um-componente-angular-12l5)
 - [Dev.to/JS] [Drag and Drop](https://dev.to/qatrelnada/drag-and-drop-eea)
 - [Dev.to/JS] [🔍💡 Python Web Scraping: Unveiling Hidden Insights from the Web 🌐📊](https://dev.to/y3script/python-web-scraping-unveiling-hidden-insights-from-the-web-49p6)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Tips to Become a Self-taught Software Developer](https://dev.to/onurcankaya/5-tips-to-become-a-self-taught-software-developer-54i6)
 - [Dev.to/JS] [Crafting an &#39;onSticky&#39; Event Handler](https://dev.to/ionellupu/crafting-an-onsticky-event-handler-445c)
 - [Lifehacker] [You Should Try No-Dig Gardening](https://lifehacker.com/you-should-try-no-dig-gardening-1850546243)
-- [Dev.to/JS] [Regex Complete Cheat Sheet JavaScript](https://dev.to/indracit/regex-complete-cheat-sheet-javascript-1ai0)
-- [Dev.to/JS] [How Cypress can help In saving time by automating upload and download functionality?](https://dev.to/kailashpathak7/how-cypress-can-help-in-saving-time-by-automating-upload-and-download-functionality-485e)
-- [Dev.to/JS] [Function in JavaScript](https://dev.to/indracit/function-in-javascript-11a8)
-- [Dev.to/JS] [Common Challenges of Benchmarking ETA Quality and How To Overcome Them](https://dev.to/nextbillion-ai/common-challenges-of-benchmarking-eta-quality-and-how-to-overcome-them-349m)
 - [Lifehacker] [These 10 U.S. Cities Have the Best Housing Deals This Summer](https://lifehacker.com/these-10-u-s-cities-have-the-best-housing-deals-this-s-1850546265)
 - [Lifehacker] [5 Clever Ways to Use a Bar of Soap in Your Garden](https://lifehacker.com/5-clever-ways-to-use-a-bar-of-soap-in-your-garden-1850546173)
 - [Lifehacker] [Use Your Duvet Cover as a Summer Bedspread](https://lifehacker.com/use-your-duvet-cover-as-a-summer-bedspread-1850546224)
