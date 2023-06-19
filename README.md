@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Common Challenges of Benchmarking ETA Quality and How To Overcome Them](https://dev.to/nextbillion-ai/common-challenges-of-benchmarking-eta-quality-and-how-to-overcome-them-349m)
 - [Lifehacker] [These 10 U.S. Cities Have the Best Housing Deals This Summer](https://lifehacker.com/these-10-u-s-cities-have-the-best-housing-deals-this-s-1850546265)
 - [Dev.to/JS] [Here is how I made a strong password checker using Javascript.](https://dev.to/themodernweb/here-is-how-i-made-a-strong-password-checker-using-javascript-3m9o)
 - [Dev.to/JS] [Why you need modal state management?](https://dev.to/raotaohub/why-you-need-modal-state-management-36i3)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Upload and Download Files Using Cypress](https://dev.to/danrez/how-to-upload-and-download-files-using-cypress-mmg)
 - [Dev.to/JS] [Where do you struggle the most in web development?](https://dev.to/devlawrence/where-do-you-struggle-the-most-in-web-development-898)
 - [Dev.to/JS] [How to create a tailwind contact form](https://dev.to/irishgeoff11/how-to-create-a-tailwind-contact-form-jdi)
-- [Dev.to/JS] [Mastering React Redux: A Comprehensive 10-Part Guide to Building Powerful Web Applications](https://dev.to/piyushjaiswal1610/mastering-react-redux-a-comprehensive-10-part-guide-to-building-powerful-web-applications-3774)
 - [Lifehacker] [5 Clever Ways to Use a Bar of Soap in Your Garden](https://lifehacker.com/5-clever-ways-to-use-a-bar-of-soap-in-your-garden-1850546173)
 - [Lifehacker] [Use Your Duvet Cover as a Summer Bedspread](https://lifehacker.com/use-your-duvet-cover-as-a-summer-bedspread-1850546224)
 - [Lifehacker] [These Are the Best U.S. Cities to Live in Without a Car](https://lifehacker.com/these-are-the-best-u-s-cities-to-live-in-without-a-car-1850546182)
