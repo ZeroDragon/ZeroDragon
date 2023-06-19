@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I put ChatGPT into a WYSIWYG editor](https://dev.to/areknawo/how-i-put-chatgpt-into-a-wysiwyg-editor-ndf)
+- [Dev.to/JS] [Introducing Westernal: A social media based on songs &lpar;part 2&rpar;](https://dev.to/westernal/introducing-westernal-a-social-media-based-on-songs-part-2-ejl)
 - [Dev.to/JS] [Split an array into smaller arrays of a specific size](https://dev.to/melvinvmegen/split-an-array-into-smaller-arrays-of-a-specific-size-j3k)
 - [Dev.to/JS] [Using GitHub Discussions to host my Astro blog comments and reactions](https://dev.to/thomasledoux1/using-github-discussions-to-host-my-astro-blog-comments-and-reactions-3736)
 - [Dev.to/JS] [Mastering Web Development: Best Practices for Building Exceptional Websites 🚀](https://dev.to/saudch007/mastering-web-development-best-practices-for-building-exceptional-websites-2lic)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Data Manipulation with JavaScript Array Methods: Unleash the Power of Arrays](https://dev.to/itsshaikhaj/mastering-data-manipulation-with-javascript-array-methods-unleash-the-power-of-arrays-38pj)
 - [Dev.to/JS] [Funciones de orden superior en JavaScript](https://dev.to/ulisesserranop/funciones-de-orden-superior-en-javascript-hop)
 - [Dev.to/JS] [CPC Icons](https://dev.to/qatrelnada/cpc-icons-291e)
-- [Dev.to/JS] [GUIA PRÁTICO - COMO FUNCIONA UM COMPONENTE ANGULAR](https://dev.to/danielcamucatto/guia-pratico-como-funciona-um-componente-angular-12l5)
-- [Dev.to/JS] [Drag and Drop](https://dev.to/qatrelnada/drag-and-drop-eea)
 - [Lifehacker] [Why You Don’t Need to Sterilize Your Soil](https://lifehacker.com/why-you-don-t-need-to-sterilize-your-soil-1850546154)
 - [Lifehacker] [You Should Try No-Dig Gardening](https://lifehacker.com/you-should-try-no-dig-gardening-1850546243)
 - [Lifehacker] [These 10 U.S. Cities Have the Best Housing Deals This Summer](https://lifehacker.com/these-10-u-s-cities-have-the-best-housing-deals-this-s-1850546265)
