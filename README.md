@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Crafting an &#39;onSticky&#39; Event Handler](https://dev.to/ionellupu/crafting-an-onsticky-event-handler-445c)
+- [Lifehacker] [You Should Try No-Dig Gardening](https://lifehacker.com/you-should-try-no-dig-gardening-1850546243)
 - [Dev.to/JS] [Regex Complete Cheat Sheet JavaScript](https://dev.to/indracit/regex-complete-cheat-sheet-javascript-1ai0)
 - [Dev.to/JS] [How Cypress can help In saving time by automating upload and download functionality?](https://dev.to/kailashpathak7/how-cypress-can-help-in-saving-time-by-automating-upload-and-download-functionality-485e)
 - [Dev.to/JS] [Function in JavaScript](https://dev.to/indracit/function-in-javascript-11a8)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a form on Tally](https://dev.to/guillaumeduhan/create-a-form-on-tally-4lep)
 - [Dev.to/JS] [How to create a contact form with react](https://dev.to/irishgeoff11/how-to-create-a-contact-form-with-react-iin)
 - [Dev.to/JS] [Meet Real Estate Developers in Lahore for Luxury Residences](https://dev.to/jackonjk/meet-real-estate-developers-in-lahore-for-luxury-residences-249n)
-- [Dev.to/JS] [Industries of Lahore Where There are The Best Investment Opportunities for Maximum Growth](https://dev.to/jackonjk/industries-of-lahore-where-there-are-the-best-investment-opportunities-for-maximum-growth-ngf)
 - [Lifehacker] [5 Clever Ways to Use a Bar of Soap in Your Garden](https://lifehacker.com/5-clever-ways-to-use-a-bar-of-soap-in-your-garden-1850546173)
 - [Lifehacker] [Use Your Duvet Cover as a Summer Bedspread](https://lifehacker.com/use-your-duvet-cover-as-a-summer-bedspread-1850546224)
 - [Lifehacker] [These Are the Best U.S. Cities to Live in Without a Car](https://lifehacker.com/these-are-the-best-u-s-cities-to-live-in-without-a-car-1850546182)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Everyone Obsessed With Grimace?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-ev-1850546375)
 - [Lifehacker] [Koshō is the Citrusy Umami Bomb You’ll Want to Put on Everything](https://lifehacker.com/kosho-is-the-citrusy-umami-bomb-you-ll-want-to-put-on-e-1850545472)
 - [Lifehacker] [Orzo Is the Pasta of the Summer](https://lifehacker.com/orzo-is-the-pasta-of-the-summer-1850544500)
-- [Lifehacker] [I Tried Hanging Out With My Son in VR for Father&#39;s Day](https://lifehacker.com/can-virtual-reality-bring-families-together-for-father-1850545079)
-- [Lifehacker] [Don&#39;t Bother Boiling a Lemon to &#39;Neutralize&#39; Odors](https://lifehacker.com/dont-bother-boiling-a-lemon-to-neutralize-odors-1850544545)<!-- TECH-POSTS:END -->
+- [Lifehacker] [I Tried Hanging Out With My Son in VR for Father&#39;s Day](https://lifehacker.com/can-virtual-reality-bring-families-together-for-father-1850545079)<!-- TECH-POSTS:END -->
 
 ---
 
