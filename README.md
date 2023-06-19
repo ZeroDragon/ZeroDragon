@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Contradiction in TS Types](https://dev.to/vjnvisakh/contradiction-in-ts-types-46md)
+- [Dev.to/JS] [What is a Set in JavaScript? 🤔](https://dev.to/pooja_belaramani/what-is-a-set-in-javascript-3fei)
+- [Dev.to/JS] [Iterating over a JavaScript Object](https://dev.to/phpflow/iterating-over-a-javascript-object-3ibc)
 - [Dev.to/JS] [JavaScript Array methods](https://dev.to/indracit/javascript-array-methods-280o)
 - [Dev.to/JS] [Situs Slot online Resmi Joker81 RTP Slot Gacor Aman Terpercaya 2023](https://dev.to/official_45/situs-slot-online-resmi-joker81-rtp-slot-gacor-aman-terpercaya-2023-2f20)
 - [Dev.to/JS] [Two Weeks into Coding Bootcamp](https://dev.to/kiararj/two-weeks-into-coding-bootcamp-1f00)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Everything you want to know about programming language](https://dev.to/hagerfa79699265/everything-you-want-to-know-about-programming-language-41ic)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - AVL Tree](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-avl-tree-lfd)
 - [Dev.to/JS] [React Modal: A Step-by-Step Tutorial Even Your Grandma Can Follow! ;&rpar;](https://dev.to/jitskedh/react-modal-a-step-by-step-tutorial-even-your-grandma-can-follow--20nm)
-- [Dev.to/JS] [Role of Service Worker In PWAs](https://dev.to/anuradha9712/role-of-service-worker-in-pwas-47ke)
-- [Dev.to/JS] [Using Opencage Gecoder API with REACT [2nd edition]](https://dev.to/tsamaya/using-opencage-gecoder-api-with-react-2nd-edition-35bh)
-- [Dev.to/JS] [Arrays en Javascript](https://dev.to/stevendev/arrays-en-javascript-3fe9)
 - [Lifehacker] [5 Clever Ways to Use a Bar of Soap in Your Garden](https://lifehacker.com/5-clever-ways-to-use-a-bar-of-soap-in-your-garden-1850546173)
 - [Lifehacker] [Use Your Duvet Cover as a Summer Bedspread](https://lifehacker.com/use-your-duvet-cover-as-a-summer-bedspread-1850546224)
 - [Lifehacker] [These Are the Best U.S. Cities to Live in Without a Car](https://lifehacker.com/these-are-the-best-u-s-cities-to-live-in-without-a-car-1850546182)
