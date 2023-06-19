@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a tailwind contact form](https://dev.to/irishgeoff11/how-to-create-a-tailwind-contact-form-jdi)
+- [Dev.to/JS] [Mastering React Redux: A Comprehensive 10-Part Guide to Building Powerful Web Applications](https://dev.to/piyushjaiswal1610/mastering-react-redux-a-comprehensive-10-part-guide-to-building-powerful-web-applications-3774)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Jun 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-jun-2023-1a73)
+- [Dev.to/JS] [How to use fabform.io form backend](https://dev.to/irishgeoff11/how-to-use-fabformio-form-backend-56ij)
+- [Dev.to/JS] [Kickstart Your Project with the Simple NextJS Boilerplate](https://dev.to/salnika/kickstart-your-project-with-the-simple-nextjs-boilerplate-1bp4)
 - [Dev.to/JS] [5 React Libraries to Level Up your Projects in 2023](https://dev.to/livecycle/5-react-libraries-to-level-up-your-projects-in-2023-3d5i)
 - [Dev.to/JS] [Backfilling customer plans with JS and Mongo](https://dev.to/vjnvisakh/backfilling-customer-plans-with-js-and-mongo-5eam)
 - [Dev.to/JS] [Unraveling JavaScript: Spread, Rest, Set, and Map Operators](https://dev.to/itsahsanmangal/unraveling-javascript-spread-rest-set-and-map-operators-1pii)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [having issue with The error message and deprecation warning and an error related to the crypto module.](https://dev.to/praveen427/having-issue-with-the-error-message-you-provided-indicates-a-deprecation-warning-and-an-error-related-to-the-crypto-module-9e9)
 - [Dev.to/JS] [Good practices and Design Patterns for Vue Composables](https://dev.to/jacobandrewsky/good-practices-and-design-patterns-for-vue-composables-24lk)
 - [Dev.to/JS] [Objects In Javascript](https://dev.to/bindupatidar/objects-in-javascript-5d25)
-- [Dev.to/JS] [How to Prevent Save Password Prompt of Browser](https://dev.to/chuluq/how-to-prevent-save-password-prompt-of-browser-40hg)
-- [Dev.to/JS] [Introducing TikTok clone to the digital world](https://dev.to/madis_blog/introducing-tiktok-clone-to-the-digital-world-m)
-- [Dev.to/JS] [Using music as a timing source for demos](https://dev.to/atornblad/using-music-as-a-timing-source-for-demos-1nom)
-- [Dev.to/JS] [Newbie coder - 3min random gist2](https://dev.to/devsisi/newbie-coder-3min-random-gist2-1n2e)
-- [Dev.to/JS] [Contradiction in TS Types](https://dev.to/vjnvisakh/contradiction-in-ts-types-46md)
 - [Lifehacker] [5 Clever Ways to Use a Bar of Soap in Your Garden](https://lifehacker.com/5-clever-ways-to-use-a-bar-of-soap-in-your-garden-1850546173)
 - [Lifehacker] [Use Your Duvet Cover as a Summer Bedspread](https://lifehacker.com/use-your-duvet-cover-as-a-summer-bedspread-1850546224)
 - [Lifehacker] [These Are the Best U.S. Cities to Live in Without a Car](https://lifehacker.com/these-are-the-best-u-s-cities-to-live-in-without-a-car-1850546182)
