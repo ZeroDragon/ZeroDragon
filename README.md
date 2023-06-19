@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Real-Time Search Filter in React: A Step-by-Step Guide](https://dev.to/alais29/building-a-real-time-search-filter-in-react-a-step-by-step-guide-3lmm)
+- [Dev.to/JS] [7 tools to code your first project in a week.🚨 Alert: this story from newbie to newbies 😂](https://dev.to/shnai0/7-tools-to-code-your-first-project-in-a-week-alert-this-story-from-newbie-to-newbies-1a66)
+- [Dev.to/JS] [5 Tips to Become a Self-taught Software Developer](https://dev.to/onurcankaya/5-tips-to-become-a-self-taught-software-developer-54i6)
 - [Dev.to/JS] [Crafting an &#39;onSticky&#39; Event Handler](https://dev.to/ionellupu/crafting-an-onsticky-event-handler-445c)
 - [Lifehacker] [You Should Try No-Dig Gardening](https://lifehacker.com/you-should-try-no-dig-gardening-1850546243)
 - [Dev.to/JS] [Regex Complete Cheat Sheet JavaScript](https://dev.to/indracit/regex-complete-cheat-sheet-javascript-1ai0)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why you need modal state management?](https://dev.to/raotaohub/why-you-need-modal-state-management-36i3)
 - [Dev.to/JS] [User input in JavaScript](https://dev.to/indracit/user-input-in-javascript-52e0)
 - [Dev.to/JS] [How to Manage State in React Applications Using Redux](https://dev.to/sammychris/how-to-manage-state-in-react-applications-using-redux-4aig)
-- [Dev.to/JS] [Create a form on Tally](https://dev.to/guillaumeduhan/create-a-form-on-tally-4lep)
-- [Dev.to/JS] [How to create a contact form with react](https://dev.to/irishgeoff11/how-to-create-a-contact-form-with-react-iin)
-- [Dev.to/JS] [Meet Real Estate Developers in Lahore for Luxury Residences](https://dev.to/jackonjk/meet-real-estate-developers-in-lahore-for-luxury-residences-249n)
 - [Lifehacker] [5 Clever Ways to Use a Bar of Soap in Your Garden](https://lifehacker.com/5-clever-ways-to-use-a-bar-of-soap-in-your-garden-1850546173)
 - [Lifehacker] [Use Your Duvet Cover as a Summer Bedspread](https://lifehacker.com/use-your-duvet-cover-as-a-summer-bedspread-1850546224)
 - [Lifehacker] [These Are the Best U.S. Cities to Live in Without a Car](https://lifehacker.com/these-are-the-best-u-s-cities-to-live-in-without-a-car-1850546182)
