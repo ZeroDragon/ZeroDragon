@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GUIA PRÁTICO - COMO FUNCIONA UM COMPONENTE ANGULAR](https://dev.to/danielcamucatto/guia-pratico-como-funciona-um-componente-angular-12l5)
+- [Dev.to/JS] [Drag and Drop](https://dev.to/qatrelnada/drag-and-drop-eea)
+- [Dev.to/JS] [🔍💡 Python Web Scraping: Unveiling Hidden Insights from the Web 🌐📊](https://dev.to/y3script/python-web-scraping-unveiling-hidden-insights-from-the-web-49p6)
+- [Dev.to/JS] [Building a Stopwatch App with React and date-fns](https://dev.to/michaellarocca/building-a-stopwatch-app-with-react-and-date-fns-4pb2)
+- [Lifehacker] [Why You Don’t Need to Sterilize Your Soil](https://lifehacker.com/why-you-don-t-need-to-sterilize-your-soil-1850546154)
 - [Dev.to/JS] [Building a Real-Time Search Filter in React: A Step-by-Step Guide](https://dev.to/alais29/building-a-real-time-search-filter-in-react-a-step-by-step-guide-3lmm)
 - [Dev.to/JS] [7 tools to code your first project in a week.🚨 Alert: this story from newbie to newbies 😂](https://dev.to/shnai0/7-tools-to-code-your-first-project-in-a-week-alert-this-story-from-newbie-to-newbies-1a66)
 - [Dev.to/JS] [5 Tips to Become a Self-taught Software Developer](https://dev.to/onurcankaya/5-tips-to-become-a-self-taught-software-developer-54i6)
@@ -33,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Function in JavaScript](https://dev.to/indracit/function-in-javascript-11a8)
 - [Dev.to/JS] [Common Challenges of Benchmarking ETA Quality and How To Overcome Them](https://dev.to/nextbillion-ai/common-challenges-of-benchmarking-eta-quality-and-how-to-overcome-them-349m)
 - [Lifehacker] [These 10 U.S. Cities Have the Best Housing Deals This Summer](https://lifehacker.com/these-10-u-s-cities-have-the-best-housing-deals-this-s-1850546265)
-- [Dev.to/JS] [Here is how I made a strong password checker using Javascript.](https://dev.to/themodernweb/here-is-how-i-made-a-strong-password-checker-using-javascript-3m9o)
-- [Dev.to/JS] [Why you need modal state management?](https://dev.to/raotaohub/why-you-need-modal-state-management-36i3)
-- [Dev.to/JS] [User input in JavaScript](https://dev.to/indracit/user-input-in-javascript-52e0)
-- [Dev.to/JS] [How to Manage State in React Applications Using Redux](https://dev.to/sammychris/how-to-manage-state-in-react-applications-using-redux-4aig)
 - [Lifehacker] [5 Clever Ways to Use a Bar of Soap in Your Garden](https://lifehacker.com/5-clever-ways-to-use-a-bar-of-soap-in-your-garden-1850546173)
 - [Lifehacker] [Use Your Duvet Cover as a Summer Bedspread](https://lifehacker.com/use-your-duvet-cover-as-a-summer-bedspread-1850546224)
 - [Lifehacker] [These Are the Best U.S. Cities to Live in Without a Car](https://lifehacker.com/these-are-the-best-u-s-cities-to-live-in-without-a-car-1850546182)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Sex Positions When One of You Is Way Taller](https://lifehacker.com/the-best-sex-positions-when-one-of-you-is-way-taller-1850545686)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Everyone Obsessed With Grimace?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-ev-1850546375)
 - [Lifehacker] [Koshō is the Citrusy Umami Bomb You’ll Want to Put on Everything](https://lifehacker.com/kosho-is-the-citrusy-umami-bomb-you-ll-want-to-put-on-e-1850545472)
-- [Lifehacker] [Orzo Is the Pasta of the Summer](https://lifehacker.com/orzo-is-the-pasta-of-the-summer-1850544500)
-- [Lifehacker] [I Tried Hanging Out With My Son in VR for Father&#39;s Day](https://lifehacker.com/can-virtual-reality-bring-families-together-for-father-1850545079)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Orzo Is the Pasta of the Summer](https://lifehacker.com/orzo-is-the-pasta-of-the-summer-1850544500)<!-- TECH-POSTS:END -->
 
 ---
 
