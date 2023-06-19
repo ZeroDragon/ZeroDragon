@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These 10 U.S. Cities Have the Best Housing Deals This Summer](https://lifehacker.com/these-10-u-s-cities-have-the-best-housing-deals-this-s-1850546265)
+- [Dev.to/JS] [Here is how I made a strong password checker using Javascript.](https://dev.to/themodernweb/here-is-how-i-made-a-strong-password-checker-using-javascript-3m9o)
+- [Dev.to/JS] [Why you need modal state management?](https://dev.to/raotaohub/why-you-need-modal-state-management-36i3)
+- [Dev.to/JS] [User input in JavaScript](https://dev.to/indracit/user-input-in-javascript-52e0)
 - [Dev.to/JS] [How to Manage State in React Applications Using Redux](https://dev.to/sammychris/how-to-manage-state-in-react-applications-using-redux-4aig)
 - [Dev.to/JS] [Create a form on Tally](https://dev.to/guillaumeduhan/create-a-form-on-tally-4lep)
 - [Dev.to/JS] [How to create a contact form with react](https://dev.to/irishgeoff11/how-to-create-a-contact-form-with-react-iin)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Where do you struggle the most in web development?](https://dev.to/devlawrence/where-do-you-struggle-the-most-in-web-development-898)
 - [Dev.to/JS] [How to create a tailwind contact form](https://dev.to/irishgeoff11/how-to-create-a-tailwind-contact-form-jdi)
 - [Dev.to/JS] [Mastering React Redux: A Comprehensive 10-Part Guide to Building Powerful Web Applications](https://dev.to/piyushjaiswal1610/mastering-react-redux-a-comprehensive-10-part-guide-to-building-powerful-web-applications-3774)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Jun 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-jun-2023-1a73)
-- [Dev.to/JS] [How to use fabform.io form backend](https://dev.to/irishgeoff11/how-to-use-fabformio-form-backend-56ij)
-- [Dev.to/JS] [Kickstart Your Project with the Simple NextJS Boilerplate](https://dev.to/salnika/kickstart-your-project-with-the-simple-nextjs-boilerplate-1bp4)
 - [Lifehacker] [5 Clever Ways to Use a Bar of Soap in Your Garden](https://lifehacker.com/5-clever-ways-to-use-a-bar-of-soap-in-your-garden-1850546173)
 - [Lifehacker] [Use Your Duvet Cover as a Summer Bedspread](https://lifehacker.com/use-your-duvet-cover-as-a-summer-bedspread-1850546224)
 - [Lifehacker] [These Are the Best U.S. Cities to Live in Without a Car](https://lifehacker.com/these-are-the-best-u-s-cities-to-live-in-without-a-car-1850546182)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Koshō is the Citrusy Umami Bomb You’ll Want to Put on Everything](https://lifehacker.com/kosho-is-the-citrusy-umami-bomb-you-ll-want-to-put-on-e-1850545472)
 - [Lifehacker] [Orzo Is the Pasta of the Summer](https://lifehacker.com/orzo-is-the-pasta-of-the-summer-1850544500)
 - [Lifehacker] [I Tried Hanging Out With My Son in VR for Father&#39;s Day](https://lifehacker.com/can-virtual-reality-bring-families-together-for-father-1850545079)
-- [Lifehacker] [Don&#39;t Bother Boiling a Lemon to &#39;Neutralize&#39; Odors](https://lifehacker.com/dont-bother-boiling-a-lemon-to-neutralize-odors-1850544545)
-- [Lifehacker] [You Should Pick and Pickle Green Strawberries](https://lifehacker.com/you-should-pick-and-pickle-green-strawberries-1850544383)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Bother Boiling a Lemon to &#39;Neutralize&#39; Odors](https://lifehacker.com/dont-bother-boiling-a-lemon-to-neutralize-odors-1850544545)<!-- TECH-POSTS:END -->
 
 ---
 
