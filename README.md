@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Loops With Arrays in JavaScript # 16](https://dev.to/sksage/using-loops-with-arrays-in-javascript-16-2k15)
 - [Dev.to/JS] [How I put ChatGPT into a WYSIWYG editor](https://dev.to/areknawo/how-i-put-chatgpt-into-a-wysiwyg-editor-ndf)
 - [Dev.to/JS] [Introducing Westernal: A social media based on songs &lpar;part 2&rpar;](https://dev.to/westernal/introducing-westernal-a-social-media-based-on-songs-part-2-ejl)
 - [Dev.to/JS] [Split an array into smaller arrays of a specific size](https://dev.to/melvinvmegen/split-an-array-into-smaller-arrays-of-a-specific-size-j3k)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Removing Duplicates from JavaScript Arrays: Exploring Multiple Methods for Clean Data](https://dev.to/itsshaikhaj/removing-duplicates-from-javascript-arrays-exploring-multiple-methods-for-clean-data-24gl)
 - [Dev.to/JS] [Mastering Data Manipulation with JavaScript Array Methods: Unleash the Power of Arrays](https://dev.to/itsshaikhaj/mastering-data-manipulation-with-javascript-array-methods-unleash-the-power-of-arrays-38pj)
 - [Dev.to/JS] [Funciones de orden superior en JavaScript](https://dev.to/ulisesserranop/funciones-de-orden-superior-en-javascript-hop)
-- [Dev.to/JS] [CPC Icons](https://dev.to/qatrelnada/cpc-icons-291e)
 - [Lifehacker] [Why You Don’t Need to Sterilize Your Soil](https://lifehacker.com/why-you-don-t-need-to-sterilize-your-soil-1850546154)
 - [Lifehacker] [You Should Try No-Dig Gardening](https://lifehacker.com/you-should-try-no-dig-gardening-1850546243)
 - [Lifehacker] [These 10 U.S. Cities Have the Best Housing Deals This Summer](https://lifehacker.com/these-10-u-s-cities-have-the-best-housing-deals-this-s-1850546265)
