@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [bind &lpar;&rpar;, call &lpar;&rpar;, apply&lpar;&rpar; in JavaScript](https://dev.to/indracit/bind-call-apply-in-javascript-1dlh)
+- [Dev.to/JS] [3 Reasons Why Developers Fail](https://dev.to/dragosnedelcu/3-reasons-why-developers-fail-13bl)
+- [Dev.to/JS] [Learn serverless on AWS step-by-step - SQS](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sqs-26c8)
+- [Dev.to/JS] [Introduction to JavaScript Programming for Beginners](https://dev.to/wisdomudo/introduction-to-javascript-programming-for-beginners-68g)
 - [Dev.to/JS] [React hook form tutorial](https://dev.to/irishgeoff11/react-hook-form-tutorial-2mfd)
 - [Dev.to/JS] [How to connect and sync Bryntum Scheduler to Microsoft Teams](https://dev.to/bryntum/how-to-connect-and-sync-bryntum-scheduler-to-microsoft-teams-2o7g)
 - [Dev.to/JS] [MongoDB Cheat Sheet🌱](https://dev.to/burakboduroglu/mongodb-cheat-sheet-1a6a)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exam Labs Dumps: Your Key to Acing Any Exam](https://dev.to/cl300yjx/exam-labs-dumps-your-key-to-acing-any-exam-4ad2)
 - [Dev.to/JS] [Top 10 Things You Should know While Choose Salesforce Integration Solutions](https://dev.to/datarecove95829/top-10-things-you-should-know-while-choose-salesforce-integration-solutions-2857)
 - [Dev.to/JS] [Proxy Pattern easy and practice](https://dev.to/julioleiva/proxy-pattern-easy-and-practice-4l7b)
-- [Dev.to/JS] [Three Ways of Using &quot;extends&quot; in TypeScript](https://dev.to/tomoy/three-ways-of-using-extends-in-typescript-3dld)
-- [Dev.to/JS] [A Guide to Connecting and Executing Queries to PostgreSQL from PHP](https://dev.to/sh20raj/a-guide-to-connecting-and-executing-queries-to-postgresql-from-php-4p8d)
-- [Dev.to/JS] [Step by step instructions to Do My Course Online](https://dev.to/farridsam53612/step-by-step-instructions-to-do-my-course-online-2dm6)
-- [Dev.to/JS] [Annotated Bibliography on Innovation](https://dev.to/farridsam53612/annotated-bibliography-on-innovation-3116)
 - [Lifehacker] [Why You Don’t Need to Sterilize Your Soil](https://lifehacker.com/why-you-don-t-need-to-sterilize-your-soil-1850546154)
 - [Lifehacker] [You Should Try No-Dig Gardening](https://lifehacker.com/you-should-try-no-dig-gardening-1850546243)
 - [Lifehacker] [These 10 U.S. Cities Have the Best Housing Deals This Summer](https://lifehacker.com/these-10-u-s-cities-have-the-best-housing-deals-this-s-1850546265)
