@@ -23,25 +23,26 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create CSS Animations easily](https://dev.to/vulcanwm/create-css-animations-easily-3an)
+- [Dev.to/JS] [RxJS Operators: audit](https://dev.to/drownedintech/rxjs-operators-audit-1g8a)
+- [Lifehacker] [Five Things All First-time Credit Card Holders Need to Know](https://lifehacker.com/five-things-all-first-time-credit-card-holders-need-to-1850556613)
+- [Dev.to/JS] [Top 3 JavaScript Frameworks: Mastering Web Development](https://dev.to/ultraxcode/top-3-javascript-frameworks-mastering-web-development-10de)
+- [Dev.to/JS] [Create templates with Tally](https://dev.to/guillaumeduhan/create-templates-with-tally-1627)
 - [Lifehacker] [&#39;Crip Up the Kitchen&#39; Author Jules Sherred Wants Your Kitchen to Be More Accessible](https://lifehacker.com/crip-up-the-kitchen-author-jules-sherred-wants-your-kit-1850545789)
+- [Dev.to/JS] [How to Build a Node.js Inventory and Invoice Billing Application](https://dev.to/grapecity/how-to-build-a-nodejs-inventory-and-invoice-billing-application-34g6)
+- [Dev.to/JS] [Kubernetes Basics for Beginners](https://dev.to/mohammadfaisal/kubernetes-basics-for-beginners-21k5)
 - [Lifehacker] [&#39;Natural&#39; Skincare Is a Lie](https://lifehacker.com/natural-skincare-is-a-lie-1850556509)
 - [Dev.to/JS] [Replaces switch statements by objects &lpar;Literal Object look-up&rpar;](https://dev.to/julioleiva/replaces-switch-statements-by-objects-literal-object-look-up-4lbo)
 - [Dev.to/JS] [Using Daily’s custom session data to share dad jokes in a video call](https://dev.to/trydaily/using-dailys-custom-session-data-to-share-dad-jokes-in-a-video-call-19ld)
 - [Lifehacker] [You Can Get This Python and AI Training Course for $40](https://lifehacker.com/you-can-get-this-python-and-ai-training-course-for-40-1850541252)
 - [Dev.to/JS] [Unlocking the Power of Array and Object Iteration in JavaScript: A Beginner&#39;s Guide with Easy-to-Follow Examples](https://dev.to/itsshaikhaj/unlocking-the-power-of-array-and-object-iteration-in-javascript-a-beginners-guide-with-easy-to-follow-examples-4ghd)
 - [Dev.to/JS] [6 Mistakes I Made as a Junior React Dev](https://dev.to/anvilicious/6-mistakes-i-made-as-a-junior-react-dev-3lfj)
-- [Lifehacker] [9 Weird Noises Your Houses Is Making and What They Mean](https://lifehacker.com/9-weird-noises-your-houses-is-making-and-what-they-mean-1850556207)
+- [Lifehacker] [9 Weird Noises Your House Is Making and What They Mean](https://lifehacker.com/9-weird-noises-your-houses-is-making-and-what-they-mean-1850556207)
 - [Lifehacker] [These College Alternatives Can Actually Help You Get a Job](https://lifehacker.com/these-college-alternatives-can-actually-help-you-get-a-1850554389)
 - [Lifehacker] [Here&#39;s How Much Money You Save by Installing a Clothesline](https://lifehacker.com/heres-how-much-money-you-save-by-installing-a-clothesli-1850555149)
 - [Dev.to/JS] [The Constructor Chronicles: Unraveling the Secrets of JavaScript Object Creation](https://dev.to/philipcase/the-constructor-chronicles-unraveling-the-secrets-of-javascript-object-creation-4b18)
 - [Dev.to/JS] [Top 8 Essential JavaScript Console Methods You Should Know](https://dev.to/vishnusatheesh/top-8-essential-javascript-console-methods-you-should-know-bp4)
 - [Lifehacker] [This Refurbished MacBook Air With Microsoft Office Is $500 Right Now](https://lifehacker.com/this-refurbished-macbook-air-with-microsoft-office-is-1850541203)
-- [Dev.to/JS] [React server components vs. Server side rendering en Next.js](https://dev.to/synkronus/react-server-components-vs-server-side-rendering-en-nextjs-41bj)
-- [Dev.to/JS] [How money 1500 ml](https://dev.to/demon_snow2016/how-money-1500-ml-4hp8)
-- [Dev.to/JS] [The Secret to Mastering React JS: Hone Your Skills with these JavaScript Topics First](https://dev.to/roktim32/the-secret-to-mastering-react-js-hone-your-skills-with-these-javascript-topics-first-ok4)
-- [Dev.to/JS] [How money 1](https://dev.to/demon_snow2016/how-money-1-41bj)
-- [Dev.to/JS] [Container &amp; Presentational Pattern - React](https://dev.to/deesouza/container-presentational-pattern-react-3ofp)
-- [Dev.to/JS] [🚀Maximizing Efficiency and Impact - Why I choose Mermaid for Graph Creation](https://dev.to/spiderpig86/maximizing-efficiency-and-impact-why-i-choose-mermaid-for-graph-creation-1kl4)
 - [Lifehacker] [Five Types of Garden Hoses &lpar;and Which You Should Choose&rpar;](https://lifehacker.com/five-types-of-garden-hoses-and-which-you-should-choose-1850555121)
 - [Lifehacker] [Learn Your Child’s Energy Profile to Avoid Overscheduling](https://lifehacker.com/learn-your-child-s-energy-profile-to-avoid-overscheduli-1850548815)
 - [Lifehacker] [This 3-Year VPN Subscription Is Over 60% Off Right Now](https://lifehacker.com/this-3-year-vpn-subscription-is-over-60-off-right-now-1850541139)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid Using This Confusing Workplace Jargon](https://lifehacker.com/avoid-using-this-confusing-workplace-jargon-1850543583)
 - [Lifehacker] [TikTok Myth of the Week: Vibration Plates](https://lifehacker.com/tiktok-myth-of-the-week-vibration-plates-1850548917)
 - [Lifehacker] [What&#39;s New on Hulu in July 2023](https://lifehacker.com/whats-new-on-hulu-in-july-2023-1850548738)
-- [Lifehacker] [Make Super Savory Carrot Fries in Your Air Fryer](https://lifehacker.com/make-super-savory-carrot-fries-in-your-air-fryer-1850548742)
-- [Lifehacker] [Three Things That Can Distort Your Blood Pressure Results](https://lifehacker.com/three-things-that-can-distort-your-blood-pressure-resul-1850547887)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Super Savory Carrot Fries in Your Air Fryer](https://lifehacker.com/make-super-savory-carrot-fries-in-your-air-fryer-1850548742)<!-- TECH-POSTS:END -->
 
 ---
 
