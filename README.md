@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do If You Become a Victim of &#39;Sextortion&#39;](https://lifehacker.com/what-to-do-if-you-become-a-victim-of-sextortion-1850467335)
+- [Lifehacker] [What to Write in a Resignation Letter &lpar;and What Not To&rpar;](https://lifehacker.com/what-to-write-in-a-resignation-letter-and-what-not-to-1850557184)
+- [Dev.to/JS] [Wordpress GET REST API in native js](https://dev.to/faridteymouri/to-retrieve-wordpress-posts-html-using-the-rest-api-1abl)
+- [Lifehacker] [Five of the Best Day Planners for Any Need](https://lifehacker.com/five-of-the-best-day-planners-for-any-need-1850556687)
 - [Dev.to/JS] [Create CSS Animations easily](https://dev.to/vulcanwm/create-css-animations-easily-3an)
 - [Dev.to/JS] [RxJS Operators: audit](https://dev.to/drownedintech/rxjs-operators-audit-1g8a)
 - [Lifehacker] [Five Things All First-time Credit Card Holders Need to Know](https://lifehacker.com/five-things-all-first-time-credit-card-holders-need-to-1850556613)
@@ -41,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These College Alternatives Can Actually Help You Get a Job](https://lifehacker.com/these-college-alternatives-can-actually-help-you-get-a-1850554389)
 - [Lifehacker] [Here&#39;s How Much Money You Save by Installing a Clothesline](https://lifehacker.com/heres-how-much-money-you-save-by-installing-a-clothesli-1850555149)
 - [Dev.to/JS] [The Constructor Chronicles: Unraveling the Secrets of JavaScript Object Creation](https://dev.to/philipcase/the-constructor-chronicles-unraveling-the-secrets-of-javascript-object-creation-4b18)
-- [Dev.to/JS] [Top 8 Essential JavaScript Console Methods You Should Know](https://dev.to/vishnusatheesh/top-8-essential-javascript-console-methods-you-should-know-bp4)
 - [Lifehacker] [This Refurbished MacBook Air With Microsoft Office Is $500 Right Now](https://lifehacker.com/this-refurbished-macbook-air-with-microsoft-office-is-1850541203)
 - [Lifehacker] [Five Types of Garden Hoses &lpar;and Which You Should Choose&rpar;](https://lifehacker.com/five-types-of-garden-hoses-and-which-you-should-choose-1850555121)
 - [Lifehacker] [Learn Your Child’s Energy Profile to Avoid Overscheduling](https://lifehacker.com/learn-your-child-s-energy-profile-to-avoid-overscheduli-1850548815)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Common Reasons Your Driveway Is Sinking &lpar;and How to Fix Them&rpar;](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)
 - [Lifehacker] [The Best Way to Straighten a Leaning Tree in Your Yard](https://lifehacker.com/the-best-way-to-straighten-a-leaning-tree-in-your-yard-1850544183)
 - [Lifehacker] [What&#39;s New on Disney+ in July 2023](https://lifehacker.com/whats-new-on-disney-in-july-2023-1850548262)
-- [Lifehacker] [Avoid Using This Confusing Workplace Jargon](https://lifehacker.com/avoid-using-this-confusing-workplace-jargon-1850543583)
-- [Lifehacker] [TikTok Myth of the Week: Vibration Plates](https://lifehacker.com/tiktok-myth-of-the-week-vibration-plates-1850548917)
-- [Lifehacker] [What&#39;s New on Hulu in July 2023](https://lifehacker.com/whats-new-on-hulu-in-july-2023-1850548738)
-- [Lifehacker] [Make Super Savory Carrot Fries in Your Air Fryer](https://lifehacker.com/make-super-savory-carrot-fries-in-your-air-fryer-1850548742)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Avoid Using This Confusing Workplace Jargon](https://lifehacker.com/avoid-using-this-confusing-workplace-jargon-1850543583)<!-- TECH-POSTS:END -->
 
 ---
 
