@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [&#39;Crip Up the Kitchen&#39; Author Jules Sherred Wants Your Kitchen to Be More Accessible](https://lifehacker.com/crip-up-the-kitchen-author-jules-sherred-wants-your-kit-1850545789)
 - [Lifehacker] [&#39;Natural&#39; Skincare Is a Lie](https://lifehacker.com/natural-skincare-is-a-lie-1850556509)
 - [Dev.to/JS] [Replaces switch statements by objects &lpar;Literal Object look-up&rpar;](https://dev.to/julioleiva/replaces-switch-statements-by-objects-literal-object-look-up-4lbo)
 - [Dev.to/JS] [Using Daily’s custom session data to share dad jokes in a video call](https://dev.to/trydaily/using-dailys-custom-session-data-to-share-dad-jokes-in-a-video-call-19ld)
@@ -39,9 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How money 1500 ml](https://dev.to/demon_snow2016/how-money-1500-ml-4hp8)
 - [Dev.to/JS] [The Secret to Mastering React JS: Hone Your Skills with these JavaScript Topics First](https://dev.to/roktim32/the-secret-to-mastering-react-js-hone-your-skills-with-these-javascript-topics-first-ok4)
 - [Dev.to/JS] [How money 1](https://dev.to/demon_snow2016/how-money-1-41bj)
+- [Dev.to/JS] [Container &amp; Presentational Pattern - React](https://dev.to/deesouza/container-presentational-pattern-react-3ofp)
 - [Dev.to/JS] [🚀Maximizing Efficiency and Impact - Why I choose Mermaid for Graph Creation](https://dev.to/spiderpig86/maximizing-efficiency-and-impact-why-i-choose-mermaid-for-graph-creation-1kl4)
 - [Lifehacker] [Five Types of Garden Hoses &lpar;and Which You Should Choose&rpar;](https://lifehacker.com/five-types-of-garden-hoses-and-which-you-should-choose-1850555121)
-- [Dev.to/JS] [Build web apps and mixed reality experiences while you hear from the folks keeping the largest Mastodon instance running](https://dev.to/jennschiffer/build-web-apps-and-mixed-reality-experiences-while-you-hear-from-the-folks-keeping-the-largest-mastodon-instance-running-2gig)
 - [Lifehacker] [Learn Your Child’s Energy Profile to Avoid Overscheduling](https://lifehacker.com/learn-your-child-s-energy-profile-to-avoid-overscheduli-1850548815)
 - [Lifehacker] [This 3-Year VPN Subscription Is Over 60% Off Right Now](https://lifehacker.com/this-3-year-vpn-subscription-is-over-60-off-right-now-1850541139)
 - [Lifehacker] [Why Those Half-Dead Plants Are Actually a Good Deal](https://lifehacker.com/why-those-half-dead-plants-are-actually-a-good-deal-1850547546)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [TikTok Myth of the Week: Vibration Plates](https://lifehacker.com/tiktok-myth-of-the-week-vibration-plates-1850548917)
 - [Lifehacker] [What&#39;s New on Hulu in July 2023](https://lifehacker.com/whats-new-on-hulu-in-july-2023-1850548738)
 - [Lifehacker] [Make Super Savory Carrot Fries in Your Air Fryer](https://lifehacker.com/make-super-savory-carrot-fries-in-your-air-fryer-1850548742)
-- [Lifehacker] [Three Things That Can Distort Your Blood Pressure Results](https://lifehacker.com/three-things-that-can-distort-your-blood-pressure-resul-1850547887)
-- [Lifehacker] [When to Use a &#39;Functional&#39; Resume Instead of a Traditional One](https://lifehacker.com/when-to-use-a-functional-resume-instead-of-a-traditiona-1850548206)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Three Things That Can Distort Your Blood Pressure Results](https://lifehacker.com/three-things-that-can-distort-your-blood-pressure-resul-1850547887)<!-- TECH-POSTS:END -->
 
 ---
 
