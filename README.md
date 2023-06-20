@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [9 Weird Noises Your Houses Is Making and What They Mean](https://lifehacker.com/9-weird-noises-your-houses-is-making-and-what-they-mean-1850556207)
+- [Lifehacker] [These College Alternatives Can Actually Help You Get a Job](https://lifehacker.com/these-college-alternatives-can-actually-help-you-get-a-1850554389)
 - [Lifehacker] [Here&#39;s How Much Money You Save by Installing a Clothesline](https://lifehacker.com/heres-how-much-money-you-save-by-installing-a-clothesli-1850555149)
 - [Dev.to/JS] [The Constructor Chronicles: Unraveling the Secrets of JavaScript Object Creation](https://dev.to/philipcase/the-constructor-chronicles-unraveling-the-secrets-of-javascript-object-creation-4b18)
 - [Dev.to/JS] [Top 8 Essential JavaScript Console Methods You Should Know](https://dev.to/vishnusatheesh/top-8-essential-javascript-console-methods-you-should-know-bp4)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Things That Can Distort Your Blood Pressure Results](https://lifehacker.com/three-things-that-can-distort-your-blood-pressure-resul-1850547887)
 - [Lifehacker] [When to Use a &#39;Functional&#39; Resume Instead of a Traditional One](https://lifehacker.com/when-to-use-a-functional-resume-instead-of-a-traditiona-1850548206)
 - [Lifehacker] [Use ChatGPT to Prepare for Your Next Job Interview](https://lifehacker.com/use-chatgpt-to-prepare-for-your-next-job-interview-1850547294)
-- [Lifehacker] [Think Twice Before Cutting a Pill in Half](https://lifehacker.com/think-twice-before-cutting-a-pill-in-half-1850547388)
-- [Lifehacker] [35 Netflix Originals You Probably Aren&#39;t Watching but Definitely Should Be](https://lifehacker.com/25-netflix-original-shows-you-probably-arent-watching-b-1847429789)
-- [Lifehacker] [Three Steps to Increase Your Chance of Getting a Raise](https://lifehacker.com/three-steps-to-increase-your-chance-of-getting-a-raise-1850546691)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Think Twice Before Cutting a Pill in Half](https://lifehacker.com/think-twice-before-cutting-a-pill-in-half-1850547388)<!-- TECH-POSTS:END -->
 
 ---
 
