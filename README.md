@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Arithmetic Expression in JavaScript](https://dev.to/bansikah/arithmetic-expression-in-javascript-3jj0)
 - [Dev.to/JS] [How to Host Your React App on Vercel Effectively](https://dev.to/tazmah/how-to-host-your-react-app-on-vercel-effectively-55nb)
 - [Dev.to/JS] [Local Development with Public and Private monorepos](https://dev.to/istarkov/local-development-with-public-and-private-monorepos-3554)
 - [Dev.to/JS] [Variables and Data types in JavaScript](https://dev.to/bansikah/variables-and-data-types-in-javascript-k5o)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Kubernetes Basics for Beginners](https://dev.to/mohammadfaisal/kubernetes-basics-for-beginners-21k5)
 - [Lifehacker] [&#39;Natural&#39; Skincare Is a Lie](https://lifehacker.com/natural-skincare-is-a-lie-1850556509)
 - [Dev.to/JS] [Replaces switch statements by objects &lpar;Literal Object look-up&rpar;](https://dev.to/julioleiva/replaces-switch-statements-by-objects-literal-object-look-up-4lbo)
-- [Dev.to/JS] [Using Daily’s custom session data to share dad jokes in a video call](https://dev.to/trydaily/using-dailys-custom-session-data-to-share-dad-jokes-in-a-video-call-19ld)
 - [Lifehacker] [You Can Get This Python and AI Training Course for $40](https://lifehacker.com/you-can-get-this-python-and-ai-training-course-for-40-1850541252)
 - [Lifehacker] [9 Weird Noises Your House Is Making and What They Mean](https://lifehacker.com/9-weird-noises-your-houses-is-making-and-what-they-mean-1850556207)
 - [Lifehacker] [These College Alternatives Can Actually Help You Get a Job](https://lifehacker.com/these-college-alternatives-can-actually-help-you-get-a-1850554389)
