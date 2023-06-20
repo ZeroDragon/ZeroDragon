@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [&#39;Natural&#39; Skincare Is a Lie](https://lifehacker.com/natural-skincare-is-a-lie-1850556509)
+- [Dev.to/JS] [Replaces switch statements by objects &lpar;Literal Object look-up&rpar;](https://dev.to/julioleiva/replaces-switch-statements-by-objects-literal-object-look-up-4lbo)
+- [Dev.to/JS] [Using Daily’s custom session data to share dad jokes in a video call](https://dev.to/trydaily/using-dailys-custom-session-data-to-share-dad-jokes-in-a-video-call-19ld)
+- [Lifehacker] [You Can Get This Python and AI Training Course for $40](https://lifehacker.com/you-can-get-this-python-and-ai-training-course-for-40-1850541252)
+- [Dev.to/JS] [Unlocking the Power of Array and Object Iteration in JavaScript: A Beginner&#39;s Guide with Easy-to-Follow Examples](https://dev.to/itsshaikhaj/unlocking-the-power-of-array-and-object-iteration-in-javascript-a-beginners-guide-with-easy-to-follow-examples-4ghd)
+- [Dev.to/JS] [6 Mistakes I Made as a Junior React Dev](https://dev.to/anvilicious/6-mistakes-i-made-as-a-junior-react-dev-3lfj)
 - [Lifehacker] [9 Weird Noises Your Houses Is Making and What They Mean](https://lifehacker.com/9-weird-noises-your-houses-is-making-and-what-they-mean-1850556207)
 - [Lifehacker] [These College Alternatives Can Actually Help You Get a Job](https://lifehacker.com/these-college-alternatives-can-actually-help-you-get-a-1850554389)
 - [Lifehacker] [Here&#39;s How Much Money You Save by Installing a Clothesline](https://lifehacker.com/heres-how-much-money-you-save-by-installing-a-clothesli-1850555149)
@@ -37,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Types of Garden Hoses &lpar;and Which You Should Choose&rpar;](https://lifehacker.com/five-types-of-garden-hoses-and-which-you-should-choose-1850555121)
 - [Dev.to/JS] [Build web apps and mixed reality experiences while you hear from the folks keeping the largest Mastodon instance running](https://dev.to/jennschiffer/build-web-apps-and-mixed-reality-experiences-while-you-hear-from-the-folks-keeping-the-largest-mastodon-instance-running-2gig)
 - [Lifehacker] [Learn Your Child’s Energy Profile to Avoid Overscheduling](https://lifehacker.com/learn-your-child-s-energy-profile-to-avoid-overscheduli-1850548815)
-- [Dev.to/JS] [Mastering React Redux: Part 1 - What is Redux and Why it exists?](https://dev.to/piyushjaiswal1610/mastering-react-redux-part-1-what-is-redux-and-why-it-exists-1437)
-- [Dev.to/JS] [Getting started with Web-dev](https://dev.to/hunt092/getting-started-with-web-dev-3dlm)
 - [Lifehacker] [This 3-Year VPN Subscription Is Over 60% Off Right Now](https://lifehacker.com/this-3-year-vpn-subscription-is-over-60-off-right-now-1850541139)
-- [Dev.to/JS] [Fast, Flexible, Easy and Intuitive: How to Speed Up Your pandas Projects](https://dev.to/bindupatidar/fast-flexible-easy-and-intuitive-how-to-speed-up-your-pandas-projects-5bm2)
-- [Dev.to/JS] [Building a Node.js Server Without Using Express.js🐤](https://dev.to/burakboduroglu/building-a-nodejs-server-without-using-expressjs-3mc8)
 - [Lifehacker] [Why Those Half-Dead Plants Are Actually a Good Deal](https://lifehacker.com/why-those-half-dead-plants-are-actually-a-good-deal-1850547546)
 - [Lifehacker] [Take Advantage of These Tax Tips to Pay for College](https://lifehacker.com/take-advantage-of-these-tax-tips-to-pay-for-college-1850518833)
 - [Lifehacker] [Stop What You’re Doing and Muddle Raspberries With Soy Sauce](https://lifehacker.com/stop-what-you-re-doing-and-muddle-raspberries-with-soy-1850549001)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Hulu in July 2023](https://lifehacker.com/whats-new-on-hulu-in-july-2023-1850548738)
 - [Lifehacker] [Make Super Savory Carrot Fries in Your Air Fryer](https://lifehacker.com/make-super-savory-carrot-fries-in-your-air-fryer-1850548742)
 - [Lifehacker] [Three Things That Can Distort Your Blood Pressure Results](https://lifehacker.com/three-things-that-can-distort-your-blood-pressure-resul-1850547887)
-- [Lifehacker] [When to Use a &#39;Functional&#39; Resume Instead of a Traditional One](https://lifehacker.com/when-to-use-a-functional-resume-instead-of-a-traditiona-1850548206)
-- [Lifehacker] [Use ChatGPT to Prepare for Your Next Job Interview](https://lifehacker.com/use-chatgpt-to-prepare-for-your-next-job-interview-1850547294)
-- [Lifehacker] [Think Twice Before Cutting a Pill in Half](https://lifehacker.com/think-twice-before-cutting-a-pill-in-half-1850547388)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When to Use a &#39;Functional&#39; Resume Instead of a Traditional One](https://lifehacker.com/when-to-use-a-functional-resume-instead-of-a-traditiona-1850548206)<!-- TECH-POSTS:END -->
 
 ---
 
