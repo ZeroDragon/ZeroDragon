@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Miracle Watt - Results, Benefits, Pros, Cons, Uses, Scam Or Legit?](https://dev.to/miraclewat58097/miracle-watt-results-benefits-pros-cons-uses-scam-or-legit-2fe6)
+- [Dev.to/JS] [Spread Them: Leveraging the Spread Operator for Safer State Updates in React](https://dev.to/tylerasa/spread-them-leveraging-the-spread-operator-for-safer-state-updates-in-react-30gm)
+- [Dev.to/JS] [Making the MOD player available](https://dev.to/atornblad/making-the-mod-player-available-267p)
+- [Dev.to/JS] [Natural Vue defineProps](https://dev.to/c5n8/natural-vue-defineprops-24dk)
 - [Dev.to/JS] [Here is how ChatGPT helped me to fix my piece of code.](https://dev.to/monkcodes/here-is-how-chatgpt-helped-me-to-fix-my-piece-of-code-31lk)
 - [Dev.to/JS] [this in JavaScript](https://dev.to/indracit/this-in-javascript-2fb1)
 - [Dev.to/JS] [Create Your Own Programming Language 6: Functions](https://dev.to/jasonsbarr/create-your-own-programming-language-6-functions-5hmp)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Definitive Guide to Make API Calls in React](https://dev.to/wolfflucas/the-definitive-guide-to-make-api-calls-in-react-2c1i)
 - [Dev.to/JS] [Coding Garden Recap for May / June 2023](https://dev.to/w3cj/coding-garden-recap-for-may-june-2023-1md0)
 - [Dev.to/JS] [Using Loops With Arrays in JavaScript # 16](https://dev.to/sksage/using-loops-with-arrays-in-javascript-16-2k15)
-- [Dev.to/JS] [How I put ChatGPT into a WYSIWYG editor](https://dev.to/areknawo/how-i-put-chatgpt-into-a-wysiwyg-editor-ndf)
-- [Dev.to/JS] [Introducing Westernal: A social media based on songs &lpar;part 2&rpar;](https://dev.to/westernal/introducing-westernal-a-social-media-based-on-songs-part-2-ejl)
-- [Dev.to/JS] [Split an array into smaller arrays of a specific size](https://dev.to/melvinvmegen/split-an-array-into-smaller-arrays-of-a-specific-size-j3k)
-- [Dev.to/JS] [Using GitHub Discussions to host my Astro blog comments and reactions](https://dev.to/thomasledoux1/using-github-discussions-to-host-my-astro-blog-comments-and-reactions-3736)
 - [Lifehacker] [Why You Don’t Need to Sterilize Your Soil](https://lifehacker.com/why-you-don-t-need-to-sterilize-your-soil-1850546154)
 - [Lifehacker] [You Should Try No-Dig Gardening](https://lifehacker.com/you-should-try-no-dig-gardening-1850546243)
 - [Lifehacker] [These 10 U.S. Cities Have the Best Housing Deals This Summer](https://lifehacker.com/these-10-u-s-cities-have-the-best-housing-deals-this-s-1850546265)
