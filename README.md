@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The best light/dark mode theme toggle in JavaScript](https://dev.to/whitep4nth3r/the-best-lightdark-mode-theme-toggle-in-javascript-368f)
 - [Dev.to/JS] [The importance of read time for blog posts and how to automatically generate it using Node.js](https://dev.to/joebailey26/the-importance-of-read-time-for-blog-posts-and-how-to-automatically-generate-it-using-nodejs-1pmk)
 - [Dev.to/JS] [Comprehensive Overview of 15 JavaScript Frameworks](https://dev.to/mattryanmtl/comprehensive-overview-of-15-javascript-frameworks-3c80)
 - [Dev.to/JS] [Having a problem](https://dev.to/taiwoakerele/having-a-problem-4165)
 - [Dev.to/JS] [Web Application Development Company India](https://dev.to/prometheastech/web-application-development-company-india-1o9n)
 - [Dev.to/JS] [Web Application Development Company India](https://dev.to/prometheastech/web-application-development-company-india-3a3d)
 - [Dev.to/JS] [ChatGPT designs and manufactures the first microprocessor! Are chip design engineers dangerous?](https://dev.to/ovagatech/chatgpt-designs-and-manufactures-the-first-microprocessor-are-chip-design-engineers-dangerous-4d77)
+- [Dev.to/JS] [Promise.all&lpar;&rpar; vs Promise.race&lpar;&rpar;](https://dev.to/codecraftjs/promiseall-vs-promiserace-n9k)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Node.js: What It Is, How It Works, and Its History](https://dev.to/dhananjaythomble/a-beginners-guide-to-nodejs-what-it-is-how-it-works-and-its-history-9hh)
 - [Dev.to/JS] [bind &lpar;&rpar;, call &lpar;&rpar;, apply&lpar;&rpar; in JavaScript](https://dev.to/indracit/bind-call-apply-in-javascript-1dlh)
-- [Dev.to/JS] [3 Reasons Why Developers Fail](https://dev.to/dragosnedelcu/3-reasons-why-developers-fail-13bl)
+- [Dev.to/JS] [3 Reasons Why Developers Fail &lpar;And How To Fix Them&rpar;](https://dev.to/dragosnedelcu/3-reasons-why-developers-fail-13bl)
 - [Dev.to/JS] [Learn serverless on AWS step-by-step - SQS](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sqs-26c8)
-- [Dev.to/JS] [Introduction to JavaScript Programming for Beginners](https://dev.to/wisdomudo/introduction-to-javascript-programming-for-beginners-68g)
-- [Dev.to/JS] [React hook form tutorial](https://dev.to/irishgeoff11/react-hook-form-tutorial-2mfd)
 - [Lifehacker] [Why You Don’t Need to Sterilize Your Soil](https://lifehacker.com/why-you-don-t-need-to-sterilize-your-soil-1850546154)
 - [Lifehacker] [You Should Try No-Dig Gardening](https://lifehacker.com/you-should-try-no-dig-gardening-1850546243)
 - [Lifehacker] [These 10 U.S. Cities Have the Best Housing Deals This Summer](https://lifehacker.com/these-10-u-s-cities-have-the-best-housing-deals-this-s-1850546265)
