@@ -23,7 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Here&#39;s How Much Money You Save by Installing a Clothesline](https://lifehacker.com/heres-how-much-money-you-save-by-installing-a-clothesli-1850555149)
+- [Dev.to/JS] [The Constructor Chronicles: Unraveling the Secrets of JavaScript Object Creation](https://dev.to/philipcase/the-constructor-chronicles-unraveling-the-secrets-of-javascript-object-creation-4b18)
+- [Dev.to/JS] [Top 8 Essential JavaScript Console Methods You Should Know](https://dev.to/vishnusatheesh/top-8-essential-javascript-console-methods-you-should-know-bp4)
+- [Lifehacker] [This Refurbished MacBook Air With Microsoft Office Is $500 Right Now](https://lifehacker.com/this-refurbished-macbook-air-with-microsoft-office-is-1850541203)
+- [Dev.to/JS] [React server components vs. Server side rendering en Next.js](https://dev.to/synkronus/react-server-components-vs-server-side-rendering-en-nextjs-41bj)
+- [Dev.to/JS] [How money 1500 ml](https://dev.to/demon_snow2016/how-money-1500-ml-4hp8)
+- [Dev.to/JS] [The Secret to Mastering React JS: Hone Your Skills with these JavaScript Topics First](https://dev.to/roktim32/the-secret-to-mastering-react-js-hone-your-skills-with-these-javascript-topics-first-ok4)
+- [Dev.to/JS] [How money 1](https://dev.to/demon_snow2016/how-money-1-41bj)
 - [Dev.to/JS] [🚀Maximizing Efficiency and Impact - Why I choose Mermaid for Graph Creation](https://dev.to/spiderpig86/maximizing-efficiency-and-impact-why-i-choose-mermaid-for-graph-creation-1kl4)
+- [Lifehacker] [Five Types of Garden Hoses &lpar;and Which You Should Choose&rpar;](https://lifehacker.com/five-types-of-garden-hoses-and-which-you-should-choose-1850555121)
 - [Dev.to/JS] [Build web apps and mixed reality experiences while you hear from the folks keeping the largest Mastodon instance running](https://dev.to/jennschiffer/build-web-apps-and-mixed-reality-experiences-while-you-hear-from-the-folks-keeping-the-largest-mastodon-instance-running-2gig)
 - [Lifehacker] [Learn Your Child’s Energy Profile to Avoid Overscheduling](https://lifehacker.com/learn-your-child-s-energy-profile-to-avoid-overscheduli-1850548815)
 - [Dev.to/JS] [Mastering React Redux: Part 1 - What is Redux and Why it exists?](https://dev.to/piyushjaiswal1610/mastering-react-redux-part-1-what-is-redux-and-why-it-exists-1437)
@@ -31,16 +40,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This 3-Year VPN Subscription Is Over 60% Off Right Now](https://lifehacker.com/this-3-year-vpn-subscription-is-over-60-off-right-now-1850541139)
 - [Dev.to/JS] [Fast, Flexible, Easy and Intuitive: How to Speed Up Your pandas Projects](https://dev.to/bindupatidar/fast-flexible-easy-and-intuitive-how-to-speed-up-your-pandas-projects-5bm2)
 - [Dev.to/JS] [Building a Node.js Server Without Using Express.js🐤](https://dev.to/burakboduroglu/building-a-nodejs-server-without-using-expressjs-3mc8)
-- [Dev.to/JS] [JavaScript Array Methods CheatSheet: Boost Your Productivity](https://dev.to/rishabh07r/javascript-array-methods-cheatsheet-boost-your-productivity-5fmg)
 - [Lifehacker] [Why Those Half-Dead Plants Are Actually a Good Deal](https://lifehacker.com/why-those-half-dead-plants-are-actually-a-good-deal-1850547546)
-- [Dev.to/JS] [Como proteger aplicações React contra ataques de cross-site scripting &lpar;XSS&rpar;](https://dev.to/jhonyaraujooficial/como-proteger-aplicacoes-react-contra-ataques-de-cross-site-scripting-xss-3eec)
 - [Lifehacker] [Take Advantage of These Tax Tips to Pay for College](https://lifehacker.com/take-advantage-of-these-tax-tips-to-pay-for-college-1850518833)
-- [Dev.to/JS] [Eleventy Forms](https://dev.to/irishgeoff11/eleventy-forms-39p)
 - [Lifehacker] [Stop What You’re Doing and Muddle Raspberries With Soy Sauce](https://lifehacker.com/stop-what-you-re-doing-and-muddle-raspberries-with-soy-1850549001)
-- [Dev.to/JS] [NestJS v10 is here! What’s new?](https://dev.to/kristiyan_velkov/nestjs-v10-is-here-whats-new-3b93)
 - [Lifehacker] [Make the Most of Your Herbs With This Sicilian Street Food](https://lifehacker.com/make-the-most-of-your-herbs-with-this-sicilian-street-f-1850547497)
-- [Dev.to/JS] [The best light/dark mode theme toggle in JavaScript](https://dev.to/whitep4nth3r/the-best-lightdark-mode-theme-toggle-in-javascript-368f)
-- [Dev.to/JS] [The importance of read time for blog posts and how to automatically generate it using Node.js](https://dev.to/joebailey26/the-importance-of-read-time-for-blog-posts-and-how-to-automatically-generate-it-using-nodejs-1pmk)
 - [Lifehacker] [Why You Don’t Need to Sterilize Your Soil](https://lifehacker.com/why-you-don-t-need-to-sterilize-your-soil-1850546154)
 - [Lifehacker] [You Should Try No-Dig Gardening](https://lifehacker.com/you-should-try-no-dig-gardening-1850546243)
 - [Lifehacker] [These 10 U.S. Cities Have the Best Housing Deals This Summer](https://lifehacker.com/these-10-u-s-cities-have-the-best-housing-deals-this-s-1850546265)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use ChatGPT to Prepare for Your Next Job Interview](https://lifehacker.com/use-chatgpt-to-prepare-for-your-next-job-interview-1850547294)
 - [Lifehacker] [Think Twice Before Cutting a Pill in Half](https://lifehacker.com/think-twice-before-cutting-a-pill-in-half-1850547388)
 - [Lifehacker] [35 Netflix Originals You Probably Aren&#39;t Watching but Definitely Should Be](https://lifehacker.com/25-netflix-original-shows-you-probably-arent-watching-b-1847429789)
-- [Lifehacker] [Three Steps to Increase Your Chance of Getting a Raise](https://lifehacker.com/three-steps-to-increase-your-chance-of-getting-a-raise-1850546691)
-- [Lifehacker] [You Can Get a Lifetime Subscription to Rosetta Stone for Almost 40% Off](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-rosetta-stone-fo-1850541124)
-- [Lifehacker] [How to Know If You’re the Toxic One in Your Relationship](https://lifehacker.com/how-to-know-if-you-re-the-toxic-one-in-your-relationshi-1850546193)
-- [Lifehacker] [15 of the Best Video Game Remakes Ever Made](https://lifehacker.com/15-video-game-remakes-that-actually-deserve-to-exist-1850545901)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Three Steps to Increase Your Chance of Getting a Raise](https://lifehacker.com/three-steps-to-increase-your-chance-of-getting-a-raise-1850546691)<!-- TECH-POSTS:END -->
 
 ---
 
