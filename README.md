@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exam Labs Dumps: Your Key to Acing Any Exam](https://dev.to/cl300yjx/exam-labs-dumps-your-key-to-acing-any-exam-4ad2)
+- [Dev.to/JS] [Top 10 Things You Should know While Choose Salesforce Integration Solutions](https://dev.to/datarecove95829/top-10-things-you-should-know-while-choose-salesforce-integration-solutions-2857)
 - [Dev.to/JS] [Proxy Pattern easy and practice](https://dev.to/julioleiva/proxy-pattern-easy-and-practice-4l7b)
 - [Dev.to/JS] [Three Ways of Using &quot;extends&quot; in TypeScript](https://dev.to/tomoy/three-ways-of-using-extends-in-typescript-3dld)
 - [Dev.to/JS] [A Guide to Connecting and Executing Queries to PostgreSQL from PHP](https://dev.to/sh20raj/a-guide-to-connecting-and-executing-queries-to-postgresql-from-php-4p8d)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Spread Them: Leveraging the Spread Operator for Safer State Updates in React](https://dev.to/tylerasa/spread-them-leveraging-the-spread-operator-for-safer-state-updates-in-react-30gm)
 - [Dev.to/JS] [Making the MOD player available](https://dev.to/atornblad/making-the-mod-player-available-267p)
 - [Dev.to/JS] [Natural Vue defineProps](https://dev.to/c5n8/natural-vue-defineprops-24dk)
-- [Dev.to/JS] [Here is how ChatGPT helped me to fix my piece of code.](https://dev.to/monkcodes/here-is-how-chatgpt-helped-me-to-fix-my-piece-of-code-31lk)
-- [Dev.to/JS] [this in JavaScript](https://dev.to/indracit/this-in-javascript-2fb1)
 - [Lifehacker] [Why You Don’t Need to Sterilize Your Soil](https://lifehacker.com/why-you-don-t-need-to-sterilize-your-soil-1850546154)
 - [Lifehacker] [You Should Try No-Dig Gardening](https://lifehacker.com/you-should-try-no-dig-gardening-1850546243)
 - [Lifehacker] [These 10 U.S. Cities Have the Best Housing Deals This Summer](https://lifehacker.com/these-10-u-s-cities-have-the-best-housing-deals-this-s-1850546265)
