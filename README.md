@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Host Your React App on Vercel Effectively](https://dev.to/tazmah/how-to-host-your-react-app-on-vercel-effectively-55nb)
+- [Dev.to/JS] [Local Development with Public and Private monorepos](https://dev.to/istarkov/local-development-with-public-and-private-monorepos-3554)
+- [Dev.to/JS] [Variables and Data types in JavaScript](https://dev.to/bansikah/variables-and-data-types-in-javascript-k5o)
 - [Lifehacker] [What to Do If You Become a Victim of &#39;Sextortion&#39;](https://lifehacker.com/what-to-do-if-you-become-a-victim-of-sextortion-1850467335)
 - [Lifehacker] [What to Write in a Resignation Letter &lpar;and What Not To&rpar;](https://lifehacker.com/what-to-write-in-a-resignation-letter-and-what-not-to-1850557184)
 - [Dev.to/JS] [Wordpress GET REST API in native js](https://dev.to/faridteymouri/to-retrieve-wordpress-posts-html-using-the-rest-api-1abl)
@@ -39,12 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Replaces switch statements by objects &lpar;Literal Object look-up&rpar;](https://dev.to/julioleiva/replaces-switch-statements-by-objects-literal-object-look-up-4lbo)
 - [Dev.to/JS] [Using Daily’s custom session data to share dad jokes in a video call](https://dev.to/trydaily/using-dailys-custom-session-data-to-share-dad-jokes-in-a-video-call-19ld)
 - [Lifehacker] [You Can Get This Python and AI Training Course for $40](https://lifehacker.com/you-can-get-this-python-and-ai-training-course-for-40-1850541252)
-- [Dev.to/JS] [Unlocking the Power of Array and Object Iteration in JavaScript: A Beginner&#39;s Guide with Easy-to-Follow Examples](https://dev.to/itsshaikhaj/unlocking-the-power-of-array-and-object-iteration-in-javascript-a-beginners-guide-with-easy-to-follow-examples-4ghd)
-- [Dev.to/JS] [6 Mistakes I Made as a Junior React Dev](https://dev.to/anvilicious/6-mistakes-i-made-as-a-junior-react-dev-3lfj)
 - [Lifehacker] [9 Weird Noises Your House Is Making and What They Mean](https://lifehacker.com/9-weird-noises-your-houses-is-making-and-what-they-mean-1850556207)
 - [Lifehacker] [These College Alternatives Can Actually Help You Get a Job](https://lifehacker.com/these-college-alternatives-can-actually-help-you-get-a-1850554389)
 - [Lifehacker] [Here&#39;s How Much Money You Save by Installing a Clothesline](https://lifehacker.com/heres-how-much-money-you-save-by-installing-a-clothesli-1850555149)
-- [Dev.to/JS] [The Constructor Chronicles: Unraveling the Secrets of JavaScript Object Creation](https://dev.to/philipcase/the-constructor-chronicles-unraveling-the-secrets-of-javascript-object-creation-4b18)
 - [Lifehacker] [This Refurbished MacBook Air With Microsoft Office Is $500 Right Now](https://lifehacker.com/this-refurbished-macbook-air-with-microsoft-office-is-1850541203)
 - [Lifehacker] [Five Types of Garden Hoses &lpar;and Which You Should Choose&rpar;](https://lifehacker.com/five-types-of-garden-hoses-and-which-you-should-choose-1850555121)
 - [Lifehacker] [Learn Your Child’s Energy Profile to Avoid Overscheduling](https://lifehacker.com/learn-your-child-s-energy-profile-to-avoid-overscheduli-1850548815)
