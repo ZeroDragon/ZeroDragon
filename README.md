@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚀Maximizing Efficiency and Impact - Why I choose Mermaid for Graph Creation](https://dev.to/spiderpig86/maximizing-efficiency-and-impact-why-i-choose-mermaid-for-graph-creation-1kl4)
+- [Dev.to/JS] [Build web apps and mixed reality experiences while you hear from the folks keeping the largest Mastodon instance running](https://dev.to/jennschiffer/build-web-apps-and-mixed-reality-experiences-while-you-hear-from-the-folks-keeping-the-largest-mastodon-instance-running-2gig)
+- [Lifehacker] [Learn Your Child’s Energy Profile to Avoid Overscheduling](https://lifehacker.com/learn-your-child-s-energy-profile-to-avoid-overscheduli-1850548815)
+- [Dev.to/JS] [Mastering React Redux: Part 1 - What is Redux and Why it exists?](https://dev.to/piyushjaiswal1610/mastering-react-redux-part-1-what-is-redux-and-why-it-exists-1437)
+- [Dev.to/JS] [Getting started with Web-dev](https://dev.to/hunt092/getting-started-with-web-dev-3dlm)
 - [Lifehacker] [This 3-Year VPN Subscription Is Over 60% Off Right Now](https://lifehacker.com/this-3-year-vpn-subscription-is-over-60-off-right-now-1850541139)
 - [Dev.to/JS] [Fast, Flexible, Easy and Intuitive: How to Speed Up Your pandas Projects](https://dev.to/bindupatidar/fast-flexible-easy-and-intuitive-how-to-speed-up-your-pandas-projects-5bm2)
 - [Dev.to/JS] [Building a Node.js Server Without Using Express.js🐤](https://dev.to/burakboduroglu/building-a-nodejs-server-without-using-expressjs-3mc8)
@@ -36,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make the Most of Your Herbs With This Sicilian Street Food](https://lifehacker.com/make-the-most-of-your-herbs-with-this-sicilian-street-f-1850547497)
 - [Dev.to/JS] [The best light/dark mode theme toggle in JavaScript](https://dev.to/whitep4nth3r/the-best-lightdark-mode-theme-toggle-in-javascript-368f)
 - [Dev.to/JS] [The importance of read time for blog posts and how to automatically generate it using Node.js](https://dev.to/joebailey26/the-importance-of-read-time-for-blog-posts-and-how-to-automatically-generate-it-using-nodejs-1pmk)
-- [Dev.to/JS] [Comprehensive Overview of 15 JavaScript Frameworks](https://dev.to/mattryanmtl/comprehensive-overview-of-15-javascript-frameworks-3c80)
-- [Dev.to/JS] [Having a problem](https://dev.to/taiwoakerele/having-a-problem-4165)
-- [Dev.to/JS] [Web Application Development Company India](https://dev.to/prometheastech/web-application-development-company-india-1o9n)
-- [Dev.to/JS] [Web Application Development Company India](https://dev.to/prometheastech/web-application-development-company-india-3a3d)
 - [Lifehacker] [Why You Don’t Need to Sterilize Your Soil](https://lifehacker.com/why-you-don-t-need-to-sterilize-your-soil-1850546154)
 - [Lifehacker] [You Should Try No-Dig Gardening](https://lifehacker.com/you-should-try-no-dig-gardening-1850546243)
 - [Lifehacker] [These 10 U.S. Cities Have the Best Housing Deals This Summer](https://lifehacker.com/these-10-u-s-cities-have-the-best-housing-deals-this-s-1850546265)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Steps to Increase Your Chance of Getting a Raise](https://lifehacker.com/three-steps-to-increase-your-chance-of-getting-a-raise-1850546691)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Rosetta Stone for Almost 40% Off](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-rosetta-stone-fo-1850541124)
 - [Lifehacker] [How to Know If You’re the Toxic One in Your Relationship](https://lifehacker.com/how-to-know-if-you-re-the-toxic-one-in-your-relationshi-1850546193)
-- [Lifehacker] [15 of the Best Video Game Remakes Ever Made](https://lifehacker.com/15-video-game-remakes-that-actually-deserve-to-exist-1850545901)
-- [Lifehacker] [Why You Should Stop Sending Checks in the Mail, Especially Now](https://lifehacker.com/why-you-should-stop-sending-checks-in-the-mail-especia-1850543113)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 of the Best Video Game Remakes Ever Made](https://lifehacker.com/15-video-game-remakes-that-actually-deserve-to-exist-1850545901)<!-- TECH-POSTS:END -->
 
 ---
 
