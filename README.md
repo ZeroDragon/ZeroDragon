@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This 3-Year VPN Subscription Is Over 60% Off Right Now](https://lifehacker.com/this-3-year-vpn-subscription-is-over-60-off-right-now-1850541139)
+- [Dev.to/JS] [Fast, Flexible, Easy and Intuitive: How to Speed Up Your pandas Projects](https://dev.to/bindupatidar/fast-flexible-easy-and-intuitive-how-to-speed-up-your-pandas-projects-5bm2)
+- [Dev.to/JS] [Building a Node.js Server Without Using Express.js🐤](https://dev.to/burakboduroglu/building-a-nodejs-server-without-using-expressjs-3mc8)
+- [Dev.to/JS] [JavaScript Array Methods CheatSheet: Boost Your Productivity](https://dev.to/rishabh07r/javascript-array-methods-cheatsheet-boost-your-productivity-5fmg)
+- [Lifehacker] [Why Those Half-Dead Plants Are Actually a Good Deal](https://lifehacker.com/why-those-half-dead-plants-are-actually-a-good-deal-1850547546)
+- [Dev.to/JS] [Como proteger aplicações React contra ataques de cross-site scripting &lpar;XSS&rpar;](https://dev.to/jhonyaraujooficial/como-proteger-aplicacoes-react-contra-ataques-de-cross-site-scripting-xss-3eec)
 - [Lifehacker] [Take Advantage of These Tax Tips to Pay for College](https://lifehacker.com/take-advantage-of-these-tax-tips-to-pay-for-college-1850518833)
 - [Dev.to/JS] [Eleventy Forms](https://dev.to/irishgeoff11/eleventy-forms-39p)
 - [Lifehacker] [Stop What You’re Doing and Muddle Raspberries With Soy Sauce](https://lifehacker.com/stop-what-you-re-doing-and-muddle-raspberries-with-soy-1850549001)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Having a problem](https://dev.to/taiwoakerele/having-a-problem-4165)
 - [Dev.to/JS] [Web Application Development Company India](https://dev.to/prometheastech/web-application-development-company-india-1o9n)
 - [Dev.to/JS] [Web Application Development Company India](https://dev.to/prometheastech/web-application-development-company-india-3a3d)
-- [Dev.to/JS] [ChatGPT designs and manufactures the first microprocessor! Are chip design engineers dangerous?](https://dev.to/ovagatech/chatgpt-designs-and-manufactures-the-first-microprocessor-are-chip-design-engineers-dangerous-4d77)
-- [Dev.to/JS] [Promise.all&lpar;&rpar; vs Promise.race&lpar;&rpar;](https://dev.to/codecraftjs/promiseall-vs-promiserace-n9k)
-- [Dev.to/JS] [A Beginner&#39;s Guide to Node.js: What It Is, How It Works, and Its History](https://dev.to/dhananjaythomble/a-beginners-guide-to-nodejs-what-it-is-how-it-works-and-its-history-9hh)
-- [Dev.to/JS] [bind &lpar;&rpar;, call &lpar;&rpar;, apply&lpar;&rpar; in JavaScript](https://dev.to/indracit/bind-call-apply-in-javascript-1dlh)
 - [Lifehacker] [Why You Don’t Need to Sterilize Your Soil](https://lifehacker.com/why-you-don-t-need-to-sterilize-your-soil-1850546154)
 - [Lifehacker] [You Should Try No-Dig Gardening](https://lifehacker.com/you-should-try-no-dig-gardening-1850546243)
 - [Lifehacker] [These 10 U.S. Cities Have the Best Housing Deals This Summer](https://lifehacker.com/these-10-u-s-cities-have-the-best-housing-deals-this-s-1850546265)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Lifetime Subscription to Rosetta Stone for Almost 40% Off](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-rosetta-stone-fo-1850541124)
 - [Lifehacker] [How to Know If You’re the Toxic One in Your Relationship](https://lifehacker.com/how-to-know-if-you-re-the-toxic-one-in-your-relationshi-1850546193)
 - [Lifehacker] [15 of the Best Video Game Remakes Ever Made](https://lifehacker.com/15-video-game-remakes-that-actually-deserve-to-exist-1850545901)
-- [Lifehacker] [Why You Should Stop Sending Checks in the Mail, Especially Now](https://lifehacker.com/why-you-should-stop-sending-checks-in-the-mail-especia-1850543113)
-- [Lifehacker] [This Air Purifier With an H13 HEPA Filter Is Over 50% Off Right Now](https://lifehacker.com/this-air-purifier-with-an-h13-hepa-filter-is-over-50-o-1850541106)
-- [Lifehacker] [The Best Sex Positions When One of You Is Way Taller](https://lifehacker.com/the-best-sex-positions-when-one-of-you-is-way-taller-1850545686)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Stop Sending Checks in the Mail, Especially Now](https://lifehacker.com/why-you-should-stop-sending-checks-in-the-mail-especia-1850543113)<!-- TECH-POSTS:END -->
 
 ---
 
