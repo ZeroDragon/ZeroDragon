@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Google Trends for WP | 2023](https://dev.to/adeleyeayodeji/google-trends-for-wp-2023-3a86)
+- [Dev.to/JS] [The Definitive Guide to Make API Calls in React](https://dev.to/wolfflucas/the-definitive-guide-to-make-api-calls-in-react-2c1i)
 - [Dev.to/JS] [Coding Garden Recap for May / June 2023](https://dev.to/w3cj/coding-garden-recap-for-may-june-2023-1md0)
 - [Dev.to/JS] [Using Loops With Arrays in JavaScript # 16](https://dev.to/sksage/using-loops-with-arrays-in-javascript-16-2k15)
 - [Dev.to/JS] [How I put ChatGPT into a WYSIWYG editor](https://dev.to/areknawo/how-i-put-chatgpt-into-a-wysiwyg-editor-ndf)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Growth Market Reports](https://dev.to/growthmarketreports1/growth-market-reports-1egj)
 - [Dev.to/JS] [Using toast notifications in ASP.NET Core Razor Pages](https://dev.to/karenpayneoregon/using-toast-notifications-in-aspnet-core-razor-pages-50kj)
 - [Dev.to/JS] [Site teste para uma destista](https://dev.to/ygormarangoni/site-teste-para-uma-destista-738)
-- [Dev.to/JS] [Removing Duplicates from JavaScript Arrays: Exploring Multiple Methods for Clean Data](https://dev.to/itsshaikhaj/removing-duplicates-from-javascript-arrays-exploring-multiple-methods-for-clean-data-24gl)
-- [Dev.to/JS] [Mastering Data Manipulation with JavaScript Array Methods: Unleash the Power of Arrays](https://dev.to/itsshaikhaj/mastering-data-manipulation-with-javascript-array-methods-unleash-the-power-of-arrays-38pj)
 - [Lifehacker] [Why You Don’t Need to Sterilize Your Soil](https://lifehacker.com/why-you-don-t-need-to-sterilize-your-soil-1850546154)
 - [Lifehacker] [You Should Try No-Dig Gardening](https://lifehacker.com/you-should-try-no-dig-gardening-1850546243)
 - [Lifehacker] [These 10 U.S. Cities Have the Best Housing Deals This Summer](https://lifehacker.com/these-10-u-s-cities-have-the-best-housing-deals-this-s-1850546265)
