@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Take Advantage of These Tax Tips to Pay for College](https://lifehacker.com/take-advantage-of-these-tax-tips-to-pay-for-college-1850518833)
+- [Dev.to/JS] [Eleventy Forms](https://dev.to/irishgeoff11/eleventy-forms-39p)
+- [Lifehacker] [Stop What You’re Doing and Muddle Raspberries With Soy Sauce](https://lifehacker.com/stop-what-you-re-doing-and-muddle-raspberries-with-soy-1850549001)
+- [Dev.to/JS] [NestJS v10 is here! What’s new?](https://dev.to/kristiyan_velkov/nestjs-v10-is-here-whats-new-3b93)
+- [Lifehacker] [Make the Most of Your Herbs With This Sicilian Street Food](https://lifehacker.com/make-the-most-of-your-herbs-with-this-sicilian-street-f-1850547497)
 - [Dev.to/JS] [The best light/dark mode theme toggle in JavaScript](https://dev.to/whitep4nth3r/the-best-lightdark-mode-theme-toggle-in-javascript-368f)
 - [Dev.to/JS] [The importance of read time for blog posts and how to automatically generate it using Node.js](https://dev.to/joebailey26/the-importance-of-read-time-for-blog-posts-and-how-to-automatically-generate-it-using-nodejs-1pmk)
 - [Dev.to/JS] [Comprehensive Overview of 15 JavaScript Frameworks](https://dev.to/mattryanmtl/comprehensive-overview-of-15-javascript-frameworks-3c80)
@@ -33,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Promise.all&lpar;&rpar; vs Promise.race&lpar;&rpar;](https://dev.to/codecraftjs/promiseall-vs-promiserace-n9k)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Node.js: What It Is, How It Works, and Its History](https://dev.to/dhananjaythomble/a-beginners-guide-to-nodejs-what-it-is-how-it-works-and-its-history-9hh)
 - [Dev.to/JS] [bind &lpar;&rpar;, call &lpar;&rpar;, apply&lpar;&rpar; in JavaScript](https://dev.to/indracit/bind-call-apply-in-javascript-1dlh)
-- [Dev.to/JS] [3 Reasons Why Developers Fail &lpar;And How To Fix Them&rpar;](https://dev.to/dragosnedelcu/3-reasons-why-developers-fail-13bl)
-- [Dev.to/JS] [Learn serverless on AWS step-by-step - SQS](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sqs-26c8)
 - [Lifehacker] [Why You Don’t Need to Sterilize Your Soil](https://lifehacker.com/why-you-don-t-need-to-sterilize-your-soil-1850546154)
 - [Lifehacker] [You Should Try No-Dig Gardening](https://lifehacker.com/you-should-try-no-dig-gardening-1850546243)
 - [Lifehacker] [These 10 U.S. Cities Have the Best Housing Deals This Summer](https://lifehacker.com/these-10-u-s-cities-have-the-best-housing-deals-this-s-1850546265)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 of the Best Video Game Remakes Ever Made](https://lifehacker.com/15-video-game-remakes-that-actually-deserve-to-exist-1850545901)
 - [Lifehacker] [Why You Should Stop Sending Checks in the Mail, Especially Now](https://lifehacker.com/why-you-should-stop-sending-checks-in-the-mail-especia-1850543113)
 - [Lifehacker] [This Air Purifier With an H13 HEPA Filter Is Over 50% Off Right Now](https://lifehacker.com/this-air-purifier-with-an-h13-hepa-filter-is-over-50-o-1850541106)
-- [Lifehacker] [The Best Sex Positions When One of You Is Way Taller](https://lifehacker.com/the-best-sex-positions-when-one-of-you-is-way-taller-1850545686)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Is Everyone Obsessed With Grimace?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-ev-1850546375)
-- [Lifehacker] [Koshō is the Citrusy Umami Bomb You’ll Want to Put on Everything](https://lifehacker.com/kosho-is-the-citrusy-umami-bomb-you-ll-want-to-put-on-e-1850545472)
-- [Lifehacker] [Orzo Is the Pasta of the Summer](https://lifehacker.com/orzo-is-the-pasta-of-the-summer-1850544500)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Sex Positions When One of You Is Way Taller](https://lifehacker.com/the-best-sex-positions-when-one-of-you-is-way-taller-1850545686)<!-- TECH-POSTS:END -->
 
 ---
 
