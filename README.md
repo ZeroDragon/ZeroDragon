@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Practices for Creating a Folder and File Structure for a React Application](https://dev.to/wolfflucas/best-practices-for-creating-a-folder-and-file-structure-for-a-react-application-3k1)
 - [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)
 - [Dev.to/JS] [Function: The Savior of Scope. The Story Of Immutability And Declarative.](https://dev.to/tylim88/function-the-savior-of-scope-the-story-of-immutability-and-declarative-25bm)
 - [Dev.to/JS] [The 5 pillars of every HTTP request](https://dev.to/aminnairi/the-5-pillars-of-every-http-request-18ld)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Go Ahead, Sit Down on Your Paddleboard](https://lifehacker.com/go-ahead-sit-down-on-your-paddleboard-1850560718)
 - [Dev.to/JS] [The double not operator &lpar;!!&rpar;](https://dev.to/accreditly/the-double-not-operator--5a4l)
 - [Dev.to/JS] [Clarifying the Java-JavaScript Conundrum: A Letter to Recruiters and Hiring Managers](https://dev.to/philipjohnbasile/clarifying-the-java-javascript-conundrum-a-letter-to-recruiters-and-hiring-managers-4bhj)
-- [Dev.to/JS] [Diagram editor dgrm.net / Announcement / Improved mobile support](https://dev.to/alexboyko/diagram-editor-dgrmnet-announcement-improved-mobile-support-8a6)
 - [Lifehacker] [15 of the Most Common House Styles in the U.S. &lpar;and How to Tell Them Apart&rpar;](https://lifehacker.com/15-of-the-most-common-house-styles-in-the-u-s-and-how-1850560061)
 - [Lifehacker] [Start Optimizing Your Stress](https://lifehacker.com/start-optimizing-your-stress-1850513094)
 - [Lifehacker] [What&#39;s New on Netflix in July 2023](https://lifehacker.com/whats-new-on-netflix-in-july-2023-1850560304)
