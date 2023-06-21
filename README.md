@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $60](https://lifehacker.com/you-can-get-windows-11-pro-and-microsoft-office-for-60-1850541269)
+- [Dev.to/JS] [Blackjack Game](https://dev.to/adeyemoade/blackjack-game-378l)
+- [Dev.to/JS] [Backend: O Poder do Lado Oculto da Tecnologia](https://dev.to/wandersonchaves/backend-o-poder-do-lado-oculto-da-tecnologia-5c1a)
+- [Lifehacker] [This iPad Stylus Is Almost 60% Off Right Now](https://lifehacker.com/this-ipad-stylus-is-almost-60-off-right-now-1850541261)
+- [Dev.to/JS] [How to Use the useMemo and useCallback Hooks for Caching in React](https://dev.to/danrez/how-to-use-the-usememo-and-usecallback-hooks-for-caching-in-react-2opm)
+- [Dev.to/JS] [Take Advantage of Reactive Programming with RxJS](https://dev.to/suranisaunak/take-advantage-of-reactive-programming-with-rxjs-2536)
+- [Dev.to/JS] [3 ways to upload files using NodeJS and Axios](https://dev.to/saurabhmisra/3-ways-to-upload-files-using-nodejs-and-axios-5pg)
+- [Lifehacker] [There&#39;s Finally a Way to Silence Spam Calls on WhatsApp](https://lifehacker.com/theres-finally-a-way-to-silence-spam-calls-on-whatsapp-1850559039)
 - [Dev.to/JS] [Typing test model](https://dev.to/safikumar00/typing-test-model-e6a)
 - [Dev.to/JS] [React useEffect: A complete guide with examples](https://dev.to/alakkadshaw/react-useeffect-a-complete-guide-with-examples-3ebd)
 - [Dev.to/JS] [Programming Helper: Do You Really Need It?](https://dev.to/aiforme/programming-helper-do-you-really-need-it-167c)
@@ -32,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unleashing the Potential of PWAs: Revolutionizing Web Experiences for Seamless Engagement](https://dev.to/emeroid/unleashing-the-potential-of-pwas-revolutionizing-web-experiences-for-seamless-engagement-4el4)
 - [Dev.to/JS] [CSS in Micro Frontends](https://dev.to/florianrappl/css-in-micro-frontends-4jai)
 - [Lifehacker] [Hot Days Call for Iced Pickles](https://lifehacker.com/hot-days-call-for-iced-pickles-1850557992)
-- [Dev.to/JS] [Stop wasting bandwidth with React&#39;s `useEffect` and `fetch`!](https://dev.to/krofdrakula/stop-wasting-bandwidth-with-reacts-useeffect-and-fetch-27ne)
-- [Dev.to/JS] [Poor man&#39;s decorator in Javascript](https://dev.to/artydev/poor-mans-decorator-in-javascript-4kc4)
 - [Lifehacker] [10 Podcasts That Will Make You Better at Life](https://lifehacker.com/10-podcasts-that-will-make-you-better-at-life-1850549166)
-- [Dev.to/JS] [CREATED A VOICE ASSISTANT FOR CHAT-GPT](https://dev.to/leonardkb/created-a-voice-assistant-for-chat-gpt-3j1b)
-- [Dev.to/JS] [Login and Sign up Auth using JWT](https://dev.to/vishalsh/login-and-sign-up-auth-using-jwt-5c2f)
 - [Crazy Programmer] [9 Best Alan Turing Quotes](https://www.thecrazyprogrammer.com/2023/06/alan-turing-quotes.html)
-- [Dev.to/JS] [How to Use a React Report Viewer to Display Blood Test Results](https://dev.to/grapecity/how-to-use-a-react-report-viewer-to-display-blood-test-results-21a4)
 - [Lifehacker] [What to Do If You Become a Victim of &#39;Sextortion&#39;](https://lifehacker.com/what-to-do-if-you-become-a-victim-of-sextortion-1850467335)
 - [Lifehacker] [What to Write in a Resignation Letter &lpar;and What Not To&rpar;](https://lifehacker.com/what-to-write-in-a-resignation-letter-and-what-not-to-1850557184)
 - [Lifehacker] [Five of the Best Day Planners for Any Need](https://lifehacker.com/five-of-the-best-day-planners-for-any-need-1850556687)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make the Most of Your Herbs With This Sicilian Street Food](https://lifehacker.com/make-the-most-of-your-herbs-with-this-sicilian-street-f-1850547497)
 - [Lifehacker] [Why You Don’t Need to Sterilize Your Soil](https://lifehacker.com/why-you-don-t-need-to-sterilize-your-soil-1850546154)
 - [Lifehacker] [You Should Try No-Dig Gardening](https://lifehacker.com/you-should-try-no-dig-gardening-1850546243)
-- [Lifehacker] [These 10 U.S. Cities Have the Best Housing Deals This Summer](https://lifehacker.com/these-10-u-s-cities-have-the-best-housing-deals-this-s-1850546265)
-- [Lifehacker] [5 Clever Ways to Use a Bar of Soap in Your Garden](https://lifehacker.com/5-clever-ways-to-use-a-bar-of-soap-in-your-garden-1850546173)
-- [Lifehacker] [Use Your Duvet Cover as a Summer Bedspread](https://lifehacker.com/use-your-duvet-cover-as-a-summer-bedspread-1850546224)
-- [Lifehacker] [These Are the Best U.S. Cities to Live in Without a Car](https://lifehacker.com/these-are-the-best-u-s-cities-to-live-in-without-a-car-1850546182)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These 10 U.S. Cities Have the Best Housing Deals This Summer](https://lifehacker.com/these-10-u-s-cities-have-the-best-housing-deals-this-s-1850546265)<!-- TECH-POSTS:END -->
 
 ---
 
