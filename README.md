@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Three Ways to Make Your Instant Pot Dishes More Flavorful](https://lifehacker.com/three-ways-to-make-your-instant-pot-dishes-more-flavorf-1850562484)
+- [Lifehacker] [Six Fancy Knife Cuts to Make Your Dishes Look a Little More Grown-Up](https://lifehacker.com/six-fancy-knife-cuts-to-make-your-dishes-look-a-little-1850562457)
+- [Dev.to/JS] [Vue and Input File - Clear File or Select same file](https://dev.to/schirrel/vue-and-input-file-clear-file-or-select-same-file-24do)
+- [Dev.to/JS] [Why it&#39;s always worth to optimize website performance](https://dev.to/piotrgrzywa/why-its-always-worth-to-optimize-website-performance-3blm)
+- [Lifehacker] [How to Uneven Floor Tiles Without Ripping Them Out](https://lifehacker.com/how-to-uneven-floor-tiles-without-ripping-them-out-1850560951)
 - [Dev.to/JS] [Why am I posting to Dev now? Hackathon!](https://dev.to/builditdeploy/why-am-i-posting-to-dev-now-hackathon-1p8h)
 - [Lifehacker] [Turn a Box of Jiffy Mix Into a Batch of Waffles](https://lifehacker.com/turn-a-box-of-jiffy-mix-into-a-batch-of-waffles-1850561306)
 - [Lifehacker] [The Difference Between a Cover Letter and a Letter of Interest](https://lifehacker.com/the-difference-between-a-cover-letter-and-a-letter-of-i-1850561095)
@@ -41,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Arrow Functions for Beginners: A Comprehensive Guide with code snippets](https://dev.to/nechey/understanding-arrow-functions-for-beginners-a-comprehensive-guide-with-code-snippets-1bbd)
 - [Lifehacker] [Start Optimizing Your Stress](https://lifehacker.com/start-optimizing-your-stress-1850513094)
 - [Dev.to/JS] [Open-source, MIT UI library](https://dev.to/amilich/open-source-mit-ui-library-582p)
-- [Dev.to/JS] [Fixing half a million security vulnerabilities](https://dev.to/snyk/fixing-half-a-million-security-vulnerabilities-3emj)
-- [Dev.to/JS] [How to generate an SBOM for JavaScript and Node.js applications](https://dev.to/snyk/how-to-generate-an-sbom-for-javascript-and-nodejs-applications-52do)
 - [Lifehacker] [What&#39;s New on Netflix in July 2023](https://lifehacker.com/whats-new-on-netflix-in-july-2023-1850560304)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $60](https://lifehacker.com/you-can-get-windows-11-pro-and-microsoft-office-for-60-1850541269)
 - [Lifehacker] [This iPad Stylus Is Almost 60% Off Right Now](https://lifehacker.com/this-ipad-stylus-is-almost-60-off-right-now-1850541261)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;Natural&#39; Skincare Is a Lie](https://lifehacker.com/natural-skincare-is-a-lie-1850556509)
 - [Lifehacker] [You Can Get This Python and AI Training Course for $40](https://lifehacker.com/you-can-get-this-python-and-ai-training-course-for-40-1850541252)
 - [Lifehacker] [9 Weird Noises Your House Is Making and What They Mean](https://lifehacker.com/9-weird-noises-your-houses-is-making-and-what-they-mean-1850556207)
-- [Lifehacker] [These College Alternatives Can Actually Help You Get a Job](https://lifehacker.com/these-college-alternatives-can-actually-help-you-get-a-1850554389)
-- [Lifehacker] [Here&#39;s How Much Money You Save by Installing a Clothesline](https://lifehacker.com/heres-how-much-money-you-save-by-installing-a-clothesli-1850555149)
-- [Lifehacker] [This Refurbished MacBook Air With Microsoft Office Is $500 Right Now](https://lifehacker.com/this-refurbished-macbook-air-with-microsoft-office-is-1850541203)
-- [Lifehacker] [Five Types of Garden Hoses &lpar;and Which You Should Choose&rpar;](https://lifehacker.com/five-types-of-garden-hoses-and-which-you-should-choose-1850555121)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These College Alternatives Can Actually Help You Get a Job](https://lifehacker.com/these-college-alternatives-can-actually-help-you-get-a-1850554389)<!-- TECH-POSTS:END -->
 
 ---
 
