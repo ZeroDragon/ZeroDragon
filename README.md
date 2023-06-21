@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Open-source, MIT UI library](https://dev.to/amilich/open-source-mit-ui-library-582p)
+- [Dev.to/JS] [Fixing half a million security vulnerabilities](https://dev.to/snyk/fixing-half-a-million-security-vulnerabilities-3emj)
+- [Dev.to/JS] [How to generate an SBOM for JavaScript and Node.js applications](https://dev.to/snyk/how-to-generate-an-sbom-for-javascript-and-nodejs-applications-52do)
+- [Dev.to/JS] [Demystifying Cogvideo: Your Guide to NightmareAI&#39;s Text-to-Video AI Model](https://dev.to/mikeyoung44/demystifying-cogvideo-your-guide-to-nightmareais-text-to-video-ai-model-4o9h)
+- [Lifehacker] [What&#39;s New on Netflix in July 2023](https://lifehacker.com/whats-new-on-netflix-in-july-2023-1850560304)
+- [Dev.to/JS] [Grilling Vue 3 Essentials on Pinia Skewers](https://dev.to/philipjohnbasile/grilling-vue-3-essentials-on-pinia-skewers-3noc)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $60](https://lifehacker.com/you-can-get-windows-11-pro-and-microsoft-office-for-60-1850541269)
 - [Dev.to/JS] [Blackjack Game](https://dev.to/adeyemoade/blackjack-game-378l)
 - [Dev.to/JS] [Backend: O Poder do Lado Oculto da Tecnologia](https://dev.to/wandersonchaves/backend-o-poder-do-lado-oculto-da-tecnologia-5c1a)
@@ -33,12 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There&#39;s Finally a Way to Silence Spam Calls on WhatsApp](https://lifehacker.com/theres-finally-a-way-to-silence-spam-calls-on-whatsapp-1850559039)
 - [Dev.to/JS] [Typing test model](https://dev.to/safikumar00/typing-test-model-e6a)
 - [Dev.to/JS] [React useEffect: A complete guide with examples](https://dev.to/alakkadshaw/react-useeffect-a-complete-guide-with-examples-3ebd)
-- [Dev.to/JS] [Programming Helper: Do You Really Need It?](https://dev.to/aiforme/programming-helper-do-you-really-need-it-167c)
 - [Lifehacker] [It&#39;s Not a Submarine &lpar;and Why It&#39;s Driven With a Video Game Controller&rpar;](https://lifehacker.com/its-not-a-submarine-and-why-its-driven-with-a-video-ga-1850558253)
-- [Dev.to/JS] [How to Add GcExcel, an Excel XLSX API Library, to Your Java App](https://dev.to/grapecity/how-to-add-gcexcel-an-excel-xlsx-api-library-to-your-java-app-5bok)
-- [Dev.to/JS] [Styling Your React App: Exploring CSS-in-JS with Styled Components](https://dev.to/almonteluis/styling-your-react-app-exploring-css-in-js-with-styled-components-1op3)
-- [Dev.to/JS] [Unleashing the Potential of PWAs: Revolutionizing Web Experiences for Seamless Engagement](https://dev.to/emeroid/unleashing-the-potential-of-pwas-revolutionizing-web-experiences-for-seamless-engagement-4el4)
-- [Dev.to/JS] [CSS in Micro Frontends](https://dev.to/florianrappl/css-in-micro-frontends-4jai)
 - [Lifehacker] [Hot Days Call for Iced Pickles](https://lifehacker.com/hot-days-call-for-iced-pickles-1850557992)
 - [Lifehacker] [10 Podcasts That Will Make You Better at Life](https://lifehacker.com/10-podcasts-that-will-make-you-better-at-life-1850549166)
 - [Crazy Programmer] [9 Best Alan Turing Quotes](https://www.thecrazyprogrammer.com/2023/06/alan-turing-quotes.html)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop What You’re Doing and Muddle Raspberries With Soy Sauce](https://lifehacker.com/stop-what-you-re-doing-and-muddle-raspberries-with-soy-1850549001)
 - [Lifehacker] [Make the Most of Your Herbs With This Sicilian Street Food](https://lifehacker.com/make-the-most-of-your-herbs-with-this-sicilian-street-f-1850547497)
 - [Lifehacker] [Why You Don’t Need to Sterilize Your Soil](https://lifehacker.com/why-you-don-t-need-to-sterilize-your-soil-1850546154)
-- [Lifehacker] [You Should Try No-Dig Gardening](https://lifehacker.com/you-should-try-no-dig-gardening-1850546243)
-- [Lifehacker] [These 10 U.S. Cities Have the Best Housing Deals This Summer](https://lifehacker.com/these-10-u-s-cities-have-the-best-housing-deals-this-s-1850546265)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Try No-Dig Gardening](https://lifehacker.com/you-should-try-no-dig-gardening-1850546243)<!-- TECH-POSTS:END -->
 
 ---
 
