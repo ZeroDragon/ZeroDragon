@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CS Foundations](https://dev.to/hstampsstack/cs-foundations-50fb)
+- [Dev.to/JS] [Building a Progressive Web App from Scratch: A Step-by-Step Guide](https://dev.to/abhaysinghr1/building-a-progressive-web-app-from-scratch-a-step-by-step-guide-1p8n)
 - [Dev.to/JS] [How to get the file extension from an upload using JavaScript](https://dev.to/michaelburrows/how-to-get-the-file-extension-from-an-upload-using-javascript-8ma)
 - [Dev.to/JS] [Arithmetic Expression in JavaScript](https://dev.to/bansikah/arithmetic-expression-in-javascript-3jj0)
 - [Dev.to/JS] [How to Host Your React App on Vercel Effectively](https://dev.to/tazmah/how-to-host-your-react-app-on-vercel-effectively-55nb)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 3 JavaScript Frameworks: Mastering Web Development](https://dev.to/ultraxcode/top-3-javascript-frameworks-mastering-web-development-10de)
 - [Dev.to/JS] [Create templates with Tally](https://dev.to/guillaumeduhan/create-templates-with-tally-1627)
 - [Lifehacker] [&#39;Crip Up the Kitchen&#39; Author Jules Sherred Wants Your Kitchen to Be More Accessible](https://lifehacker.com/crip-up-the-kitchen-author-jules-sherred-wants-your-kit-1850545789)
-- [Dev.to/JS] [How to Build a Node.js Inventory and Invoice Billing Application](https://dev.to/grapecity/how-to-build-a-nodejs-inventory-and-invoice-billing-application-34g6)
-- [Dev.to/JS] [Kubernetes Basics for Beginners](https://dev.to/mohammadfaisal/kubernetes-basics-for-beginners-21k5)
 - [Lifehacker] [&#39;Natural&#39; Skincare Is a Lie](https://lifehacker.com/natural-skincare-is-a-lie-1850556509)
 - [Lifehacker] [You Can Get This Python and AI Training Course for $40](https://lifehacker.com/you-can-get-this-python-and-ai-training-course-for-40-1850541252)
 - [Lifehacker] [9 Weird Noises Your House Is Making and What They Mean](https://lifehacker.com/9-weird-noises-your-houses-is-making-and-what-they-mean-1850556207)
