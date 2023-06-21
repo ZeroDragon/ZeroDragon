@@ -23,18 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Hot Days Call for Iced Pickles](https://lifehacker.com/hot-days-call-for-iced-pickles-1850557992)
+- [Dev.to/JS] [Stop wasting bandwidth with React&#39;s `useEffect` and `fetch`!](https://dev.to/krofdrakula/stop-wasting-bandwidth-with-reacts-useeffect-and-fetch-27ne)
+- [Dev.to/JS] [Poor man&#39;s decorator in Javascript](https://dev.to/artydev/poor-mans-decorator-in-javascript-4kc4)
+- [Lifehacker] [10 Podcasts That Will Make You Better at Life](https://lifehacker.com/10-podcasts-that-will-make-you-better-at-life-1850549166)
+- [Dev.to/JS] [CREATED A VOICE ASSISTANT FOR CHAT-GPT](https://dev.to/leonardkb/created-a-voice-assistant-for-chat-gpt-3j1b)
+- [Dev.to/JS] [Login and Sign up Auth using JWT](https://dev.to/vishalsh/login-and-sign-up-auth-using-jwt-5c2f)
+- [Crazy Programmer] [9 Best Alan Turing Quotes](https://www.thecrazyprogrammer.com/2023/06/alan-turing-quotes.html)
+- [Dev.to/JS] [How to Use a React Report Viewer to Display Blood Test Results](https://dev.to/grapecity/how-to-use-a-react-report-viewer-to-display-blood-test-results-21a4)
+- [Dev.to/JS] [Reload the window if an element is not found —  Cypress Automation](https://dev.to/ajdinmust/reload-the-window-if-an-element-is-not-found-cypress-automation-2l42)
 - [Dev.to/JS] [Decorators: saviour of the TypeScript devs](https://dev.to/thekosmix/decorators-saviour-of-the-typescript-devs-3k1d)
 - [Dev.to/JS] [How to Add an Angular Excel XLSX Viewer to Your Web Application](https://dev.to/grapecity/how-to-add-an-angular-excel-xlsx-viewer-to-your-web-application-4cm4)
 - [Dev.to/JS] [Binary Search In Javascript: Practical Mini Project](https://dev.to/danities316/binary-search-in-javascript-practical-mini-project-20j9)
 - [Dev.to/JS] [Create AI agents and tools using GPT in NodeJS 🚀🤖](https://dev.to/etherlegend/create-ai-agents-and-tools-using-gpt-in-nodejs-4jfe)
 - [Dev.to/JS] [JavaScript Math&lpar;&rpar;](https://dev.to/bansikah/javascript-math-599)
 - [Dev.to/JS] [Reset your ErrorBoundary](https://dev.to/skathuria29/reset-your-errorboundary-2pgm)
-- [Dev.to/JS] [How To Build a Scalable SaaS Backend in 10 Minutes With 100 Lines of Code Using ZenStack](https://dev.to/zenstack/how-to-build-a-scalable-saas-backend-in-10-minutes-with-100-lines-of-code-using-zenstack-1h7c)
-- [Dev.to/JS] [Let&#39;s build a carousel with Tailwind and JavaScript!](https://dev.to/endymion1818/lets-build-a-carousel-with-tailwind-and-javascript-5fpo)
-- [Dev.to/JS] [JavaScript Bloat: Unraveling the Performance Challenge](https://dev.to/jazurite/javascript-bloat-unraveling-the-performance-challenge-5dme)
-- [Dev.to/JS] [Array flattening](https://dev.to/adii/array-flattening-3122)
-- [Dev.to/JS] [JavaScript has no sleep function, but we can easily solve it this way!](https://dev.to/danielzotti/javascript-has-no-sleep-function-but-we-can-easily-solve-it-this-way-1p12)
-- [Dev.to/JS] [Introduction to ExpressJs](https://dev.to/fredabod/introduction-to-expressjs-2nh4)
 - [Lifehacker] [What to Do If You Become a Victim of &#39;Sextortion&#39;](https://lifehacker.com/what-to-do-if-you-become-a-victim-of-sextortion-1850467335)
 - [Lifehacker] [What to Write in a Resignation Letter &lpar;and What Not To&rpar;](https://lifehacker.com/what-to-write-in-a-resignation-letter-and-what-not-to-1850557184)
 - [Lifehacker] [Five of the Best Day Planners for Any Need](https://lifehacker.com/five-of-the-best-day-planners-for-any-need-1850556687)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [5 Clever Ways to Use a Bar of Soap in Your Garden](https://lifehacker.com/5-clever-ways-to-use-a-bar-of-soap-in-your-garden-1850546173)
 - [Lifehacker] [Use Your Duvet Cover as a Summer Bedspread](https://lifehacker.com/use-your-duvet-cover-as-a-summer-bedspread-1850546224)
 - [Lifehacker] [These Are the Best U.S. Cities to Live in Without a Car](https://lifehacker.com/these-are-the-best-u-s-cities-to-live-in-without-a-car-1850546182)
-- [Lifehacker] [The Most Common Reasons Your Driveway Is Sinking &lpar;and How to Fix Them&rpar;](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)
-- [Lifehacker] [The Best Way to Straighten a Leaning Tree in Your Yard](https://lifehacker.com/the-best-way-to-straighten-a-leaning-tree-in-your-yard-1850544183)
-- [Lifehacker] [What&#39;s New on Disney+ in July 2023](https://lifehacker.com/whats-new-on-disney-in-july-2023-1850548262)
-- [Lifehacker] [Avoid Using This Confusing Workplace Jargon](https://lifehacker.com/avoid-using-this-confusing-workplace-jargon-1850543583)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Most Common Reasons Your Driveway Is Sinking &lpar;and How to Fix Them&rpar;](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)<!-- TECH-POSTS:END -->
 
 ---
 
