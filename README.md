@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between a Cover Letter and a Letter of Interest](https://lifehacker.com/the-difference-between-a-cover-letter-and-a-letter-of-i-1850561095)
+- [Lifehacker] [Use the 16 &#39;Career Clusters&#39; to Help Find the Right Job for You](https://lifehacker.com/use-the-16-career-clusters-to-help-find-the-right-job-f-1850560980)
 - [Lifehacker] [You Should Make Your Own Weed Edibles](https://lifehacker.com/you-should-make-your-own-weed-edibles-1850502051)
 - [Dev.to/JS] [Deep Copy vs Shallow Copy in JavaScript: Understanding the Differences](https://dev.to/itsshaikhaj/deep-copy-vs-shallow-copy-in-javascript-understanding-the-differences-2gn9)
 - [Dev.to/JS] [Supercharge Your JavaScript Data Manipulation with Array Methods: A Comprehensive Guide](https://dev.to/itsshaikhaj/supercharge-your-javascript-data-manipulation-with-array-methods-a-comprehensive-guide-1392)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s How Much Money You Save by Installing a Clothesline](https://lifehacker.com/heres-how-much-money-you-save-by-installing-a-clothesli-1850555149)
 - [Lifehacker] [This Refurbished MacBook Air With Microsoft Office Is $500 Right Now](https://lifehacker.com/this-refurbished-macbook-air-with-microsoft-office-is-1850541203)
 - [Lifehacker] [Five Types of Garden Hoses &lpar;and Which You Should Choose&rpar;](https://lifehacker.com/five-types-of-garden-hoses-and-which-you-should-choose-1850555121)
-- [Lifehacker] [Learn Your Child’s Energy Profile to Avoid Overscheduling](https://lifehacker.com/learn-your-child-s-energy-profile-to-avoid-overscheduli-1850548815)
-- [Lifehacker] [This 3-Year VPN Subscription Is Over 60% Off Right Now](https://lifehacker.com/this-3-year-vpn-subscription-is-over-60-off-right-now-1850541139)
-- [Lifehacker] [Why Those Half-Dead Plants Are Actually a Good Deal](https://lifehacker.com/why-those-half-dead-plants-are-actually-a-good-deal-1850547546)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Learn Your Child’s Energy Profile to Avoid Overscheduling](https://lifehacker.com/learn-your-child-s-energy-profile-to-avoid-overscheduli-1850548815)<!-- TECH-POSTS:END -->
 
 ---
 
