@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Bloat: Unraveling the Performance Challenge](https://dev.to/jazurite/javascript-bloat-unraveling-the-performance-challenge-5dme)
+- [Dev.to/JS] [Array flattening](https://dev.to/adii/array-flattening-3122)
 - [Dev.to/JS] [JavaScript has no sleep function, but we can easily solve it this way!](https://dev.to/danielzotti/javascript-has-no-sleep-function-but-we-can-easily-solve-it-this-way-1p12)
 - [Dev.to/JS] [Introduction to ExpressJs](https://dev.to/fredabod/introduction-to-expressjs-2nh4)
 - [Dev.to/JS] [Introduction to Fullstack JS](https://dev.to/hunt092/introduction-to-fullstack-js-4pd8)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 10 Books About JavaScript Clean Code: Enhance Your Coding Practices](https://dev.to/hakimov_dev/top-10-books-about-javascript-clean-code-enhance-your-coding-practices-f6d)
 - [Dev.to/JS] [Hugo tutorial](https://dev.to/irishgeoff11/hugo-tutorial-3i5h)
 - [Dev.to/JS] [How to create a Jekyll contact form](https://dev.to/irishgeoff11/how-to-create-a-jekyll-contact-form-40fn)
-- [Dev.to/JS] [Weekly web development resources #154](https://dev.to/vincenius/weekly-web-development-resources-154-1p4b)
-- [Dev.to/JS] [React component testing with Vitest efficiently](https://dev.to/mayashavin/react-component-testing-with-vitest-efficiently-296c)
 - [Lifehacker] [What to Do If You Become a Victim of &#39;Sextortion&#39;](https://lifehacker.com/what-to-do-if-you-become-a-victim-of-sextortion-1850467335)
 - [Lifehacker] [What to Write in a Resignation Letter &lpar;and What Not To&rpar;](https://lifehacker.com/what-to-write-in-a-resignation-letter-and-what-not-to-1850557184)
 - [Lifehacker] [Five of the Best Day Planners for Any Need](https://lifehacker.com/five-of-the-best-day-planners-for-any-need-1850556687)
