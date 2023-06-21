@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Math&lpar;&rpar;](https://dev.to/bansikah/javascript-math-599)
+- [Dev.to/JS] [Reset your ErrorBoundary](https://dev.to/skathuria29/reset-your-errorboundary-2pgm)
+- [Dev.to/JS] [How To Build a Scalable SaaS Backend in 10 Minutes With 100 Lines of Code Using ZenStack](https://dev.to/zenstack/how-to-build-a-scalable-saas-backend-in-10-minutes-with-100-lines-of-code-using-zenstack-1h7c)
+- [Dev.to/JS] [Let&#39;s build a carousel with Tailwind and JavaScript!](https://dev.to/endymion1818/lets-build-a-carousel-with-tailwind-and-javascript-5fpo)
 - [Dev.to/JS] [JavaScript Bloat: Unraveling the Performance Challenge](https://dev.to/jazurite/javascript-bloat-unraveling-the-performance-challenge-5dme)
 - [Dev.to/JS] [Array flattening](https://dev.to/adii/array-flattening-3122)
 - [Dev.to/JS] [JavaScript has no sleep function, but we can easily solve it this way!](https://dev.to/danielzotti/javascript-has-no-sleep-function-but-we-can-easily-solve-it-this-way-1p12)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Eleventy Tutorial](https://dev.to/irishgeoff11/eleventy-tutorial-21ao)
 - [Dev.to/JS] [Constructor Function in JavaScript](https://dev.to/indracit/constructor-function-in-javascript-10a)
 - [Dev.to/JS] [Factory Function in JavaScript](https://dev.to/indracit/factory-function-in-javascript-346k)
-- [Dev.to/JS] [JavaScript class tutorial](https://dev.to/indracit/javascript-class-tutorial-4hd0)
-- [Dev.to/JS] [Top 10 Books About JavaScript Clean Code: Enhance Your Coding Practices](https://dev.to/hakimov_dev/top-10-books-about-javascript-clean-code-enhance-your-coding-practices-f6d)
-- [Dev.to/JS] [Hugo tutorial](https://dev.to/irishgeoff11/hugo-tutorial-3i5h)
-- [Dev.to/JS] [How to create a Jekyll contact form](https://dev.to/irishgeoff11/how-to-create-a-jekyll-contact-form-40fn)
 - [Lifehacker] [What to Do If You Become a Victim of &#39;Sextortion&#39;](https://lifehacker.com/what-to-do-if-you-become-a-victim-of-sextortion-1850467335)
 - [Lifehacker] [What to Write in a Resignation Letter &lpar;and What Not To&rpar;](https://lifehacker.com/what-to-write-in-a-resignation-letter-and-what-not-to-1850557184)
 - [Lifehacker] [Five of the Best Day Planners for Any Need](https://lifehacker.com/five-of-the-best-day-planners-for-any-need-1850556687)
