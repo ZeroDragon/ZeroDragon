@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DevGPT: A Game-Changer for Coders? Hit or Miss?](https://dev.to/aiforme/devgpt-a-game-changer-for-coders-hit-or-miss-1khn)
 - [Dev.to/JS] [CS Foundations](https://dev.to/hstampsstack/cs-foundations-50fb)
 - [Dev.to/JS] [Building a Progressive Web App from Scratch: A Step-by-Step Guide](https://dev.to/abhaysinghr1/building-a-progressive-web-app-from-scratch-a-step-by-step-guide-1p8n)
 - [Dev.to/JS] [How to get the file extension from an upload using JavaScript](https://dev.to/michaelburrows/how-to-get-the-file-extension-from-an-upload-using-javascript-8ma)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [RxJS Operators: audit](https://dev.to/drownedintech/rxjs-operators-audit-1g8a)
 - [Lifehacker] [Five Things All First-time Credit Card Holders Need to Know](https://lifehacker.com/five-things-all-first-time-credit-card-holders-need-to-1850556613)
 - [Dev.to/JS] [Top 3 JavaScript Frameworks: Mastering Web Development](https://dev.to/ultraxcode/top-3-javascript-frameworks-mastering-web-development-10de)
-- [Dev.to/JS] [Create templates with Tally](https://dev.to/guillaumeduhan/create-templates-with-tally-1627)
 - [Lifehacker] [&#39;Crip Up the Kitchen&#39; Author Jules Sherred Wants Your Kitchen to Be More Accessible](https://lifehacker.com/crip-up-the-kitchen-author-jules-sherred-wants-your-kit-1850545789)
 - [Lifehacker] [&#39;Natural&#39; Skincare Is a Lie](https://lifehacker.com/natural-skincare-is-a-lie-1850556509)
 - [Lifehacker] [You Can Get This Python and AI Training Course for $40](https://lifehacker.com/you-can-get-this-python-and-ai-training-course-for-40-1850541252)
