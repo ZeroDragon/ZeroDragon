@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)
+- [Dev.to/JS] [Function: The Savior of Scope. The Story Of Immutability And Declarative.](https://dev.to/tylim88/function-the-savior-of-scope-the-story-of-immutability-and-declarative-25bm)
+- [Dev.to/JS] [The 5 pillars of every HTTP request](https://dev.to/aminnairi/the-5-pillars-of-every-http-request-18ld)
 - [Lifehacker] [Three Ways to Make Your Instant Pot Dishes More Flavorful](https://lifehacker.com/three-ways-to-make-your-instant-pot-dishes-more-flavorf-1850562484)
 - [Lifehacker] [Six Fancy Knife Cuts to Make Your Dishes Look a Little More Grown-Up](https://lifehacker.com/six-fancy-knife-cuts-to-make-your-dishes-look-a-little-1850562457)
 - [Dev.to/JS] [Vue and Input File - Clear File or Select same file](https://dev.to/schirrel/vue-and-input-file-clear-file-or-select-same-file-24do)
@@ -43,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Clarifying the Java-JavaScript Conundrum: A Letter to Recruiters and Hiring Managers](https://dev.to/philipjohnbasile/clarifying-the-java-javascript-conundrum-a-letter-to-recruiters-and-hiring-managers-4bhj)
 - [Dev.to/JS] [Diagram editor dgrm.net / Announcement / Improved mobile support](https://dev.to/alexboyko/diagram-editor-dgrmnet-announcement-improved-mobile-support-8a6)
 - [Lifehacker] [15 of the Most Common House Styles in the U.S. &lpar;and How to Tell Them Apart&rpar;](https://lifehacker.com/15-of-the-most-common-house-styles-in-the-u-s-and-how-1850560061)
-- [Dev.to/JS] [Understanding Arrow Functions for Beginners: A Comprehensive Guide with code snippets](https://dev.to/nechey/understanding-arrow-functions-for-beginners-a-comprehensive-guide-with-code-snippets-1bbd)
 - [Lifehacker] [Start Optimizing Your Stress](https://lifehacker.com/start-optimizing-your-stress-1850513094)
-- [Dev.to/JS] [Open-source, MIT UI library](https://dev.to/amilich/open-source-mit-ui-library-582p)
 - [Lifehacker] [What&#39;s New on Netflix in July 2023](https://lifehacker.com/whats-new-on-netflix-in-july-2023-1850560304)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $60](https://lifehacker.com/you-can-get-windows-11-pro-and-microsoft-office-for-60-1850541269)
 - [Lifehacker] [This iPad Stylus Is Almost 60% Off Right Now](https://lifehacker.com/this-ipad-stylus-is-almost-60-off-right-now-1850541261)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;Crip Up the Kitchen&#39; Author Jules Sherred Wants Your Kitchen to Be More Accessible](https://lifehacker.com/crip-up-the-kitchen-author-jules-sherred-wants-your-kit-1850545789)
 - [Lifehacker] [&#39;Natural&#39; Skincare Is a Lie](https://lifehacker.com/natural-skincare-is-a-lie-1850556509)
 - [Lifehacker] [You Can Get This Python and AI Training Course for $40](https://lifehacker.com/you-can-get-this-python-and-ai-training-course-for-40-1850541252)
-- [Lifehacker] [9 Weird Noises Your House Is Making and What They Mean](https://lifehacker.com/9-weird-noises-your-houses-is-making-and-what-they-mean-1850556207)
-- [Lifehacker] [These College Alternatives Can Actually Help You Get a Job](https://lifehacker.com/these-college-alternatives-can-actually-help-you-get-a-1850554389)<!-- TECH-POSTS:END -->
+- [Lifehacker] [9 Weird Noises Your House Is Making and What They Mean](https://lifehacker.com/9-weird-noises-your-houses-is-making-and-what-they-mean-1850556207)<!-- TECH-POSTS:END -->
 
 ---
 
