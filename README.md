@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript has no sleep function, but we can easily solve it this way!](https://dev.to/danielzotti/javascript-has-no-sleep-function-but-we-can-easily-solve-it-this-way-1p12)
+- [Dev.to/JS] [Introduction to ExpressJs](https://dev.to/fredabod/introduction-to-expressjs-2nh4)
+- [Dev.to/JS] [Introduction to Fullstack JS](https://dev.to/hunt092/introduction-to-fullstack-js-4pd8)
 - [Dev.to/JS] [Eleventy Tutorial](https://dev.to/irishgeoff11/eleventy-tutorial-21ao)
 - [Dev.to/JS] [Constructor Function in JavaScript](https://dev.to/indracit/constructor-function-in-javascript-10a)
 - [Dev.to/JS] [Factory Function in JavaScript](https://dev.to/indracit/factory-function-in-javascript-346k)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a Jekyll contact form](https://dev.to/irishgeoff11/how-to-create-a-jekyll-contact-form-40fn)
 - [Dev.to/JS] [Weekly web development resources #154](https://dev.to/vincenius/weekly-web-development-resources-154-1p4b)
 - [Dev.to/JS] [React component testing with Vitest efficiently](https://dev.to/mayashavin/react-component-testing-with-vitest-efficiently-296c)
-- [Dev.to/JS] [How to create a Hugo contact form](https://dev.to/irishgeoff11/how-to-create-a-hugo-contact-form-254e)
-- [Dev.to/JS] [DevGPT: A Game-Changer for Coders? Hit or Miss?](https://dev.to/aiforme/devgpt-a-game-changer-for-coders-hit-or-miss-1khn)
-- [Dev.to/JS] [CS Foundations](https://dev.to/hstampsstack/cs-foundations-50fb)
 - [Lifehacker] [What to Do If You Become a Victim of &#39;Sextortion&#39;](https://lifehacker.com/what-to-do-if-you-become-a-victim-of-sextortion-1850467335)
 - [Lifehacker] [What to Write in a Resignation Letter &lpar;and What Not To&rpar;](https://lifehacker.com/what-to-write-in-a-resignation-letter-and-what-not-to-1850557184)
 - [Lifehacker] [Five of the Best Day Planners for Any Need](https://lifehacker.com/five-of-the-best-day-planners-for-any-need-1850556687)
