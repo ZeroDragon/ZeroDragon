@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The double not operator &lpar;!!&rpar;](https://dev.to/accreditly/the-double-not-operator--5a4l)
+- [Dev.to/JS] [Clarifying the Java-JavaScript Conundrum: A Letter to Recruiters and Hiring Managers](https://dev.to/philipjohnbasile/clarifying-the-java-javascript-conundrum-a-letter-to-recruiters-and-hiring-managers-4bhj)
+- [Dev.to/JS] [Diagram editor dgrm.net / Announcement / Improved mobile support](https://dev.to/alexboyko/diagram-editor-dgrmnet-announcement-improved-mobile-support-8a6)
+- [Lifehacker] [15 of the Most Common House Styles in the U.S. &lpar;and How to Tell Them Apart&rpar;](https://lifehacker.com/15-of-the-most-common-house-styles-in-the-u-s-and-how-1850560061)
+- [Dev.to/JS] [Understanding Arrow Functions for Beginners: A Comprehensive Guide with code snippets](https://dev.to/nechey/understanding-arrow-functions-for-beginners-a-comprehensive-guide-with-code-snippets-1bbd)
+- [Lifehacker] [Start Optimizing Your Stress](https://lifehacker.com/start-optimizing-your-stress-1850513094)
 - [Dev.to/JS] [Open-source, MIT UI library](https://dev.to/amilich/open-source-mit-ui-library-582p)
 - [Dev.to/JS] [Fixing half a million security vulnerabilities](https://dev.to/snyk/fixing-half-a-million-security-vulnerabilities-3emj)
 - [Dev.to/JS] [How to generate an SBOM for JavaScript and Node.js applications](https://dev.to/snyk/how-to-generate-an-sbom-for-javascript-and-nodejs-applications-52do)
@@ -34,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Backend: O Poder do Lado Oculto da Tecnologia](https://dev.to/wandersonchaves/backend-o-poder-do-lado-oculto-da-tecnologia-5c1a)
 - [Lifehacker] [This iPad Stylus Is Almost 60% Off Right Now](https://lifehacker.com/this-ipad-stylus-is-almost-60-off-right-now-1850541261)
 - [Dev.to/JS] [How to Use the useMemo and useCallback Hooks for Caching in React](https://dev.to/danrez/how-to-use-the-usememo-and-usecallback-hooks-for-caching-in-react-2opm)
-- [Dev.to/JS] [Take Advantage of Reactive Programming with RxJS](https://dev.to/suranisaunak/take-advantage-of-reactive-programming-with-rxjs-2536)
-- [Dev.to/JS] [3 ways to upload files using NodeJS and Axios](https://dev.to/saurabhmisra/3-ways-to-upload-files-using-nodejs-and-axios-5pg)
 - [Lifehacker] [There&#39;s Finally a Way to Silence Spam Calls on WhatsApp](https://lifehacker.com/theres-finally-a-way-to-silence-spam-calls-on-whatsapp-1850559039)
-- [Dev.to/JS] [Typing test model](https://dev.to/safikumar00/typing-test-model-e6a)
-- [Dev.to/JS] [React useEffect: A complete guide with examples](https://dev.to/alakkadshaw/react-useeffect-a-complete-guide-with-examples-3ebd)
 - [Lifehacker] [It&#39;s Not a Submarine &lpar;and Why It&#39;s Driven With a Video Game Controller&rpar;](https://lifehacker.com/its-not-a-submarine-and-why-its-driven-with-a-video-ga-1850558253)
 - [Lifehacker] [Hot Days Call for Iced Pickles](https://lifehacker.com/hot-days-call-for-iced-pickles-1850557992)
 - [Lifehacker] [10 Podcasts That Will Make You Better at Life](https://lifehacker.com/10-podcasts-that-will-make-you-better-at-life-1850549166)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Those Half-Dead Plants Are Actually a Good Deal](https://lifehacker.com/why-those-half-dead-plants-are-actually-a-good-deal-1850547546)
 - [Lifehacker] [Take Advantage of These Tax Tips to Pay for College](https://lifehacker.com/take-advantage-of-these-tax-tips-to-pay-for-college-1850518833)
 - [Lifehacker] [Stop What You’re Doing and Muddle Raspberries With Soy Sauce](https://lifehacker.com/stop-what-you-re-doing-and-muddle-raspberries-with-soy-1850549001)
-- [Lifehacker] [Make the Most of Your Herbs With This Sicilian Street Food](https://lifehacker.com/make-the-most-of-your-herbs-with-this-sicilian-street-f-1850547497)
-- [Lifehacker] [Why You Don’t Need to Sterilize Your Soil](https://lifehacker.com/why-you-don-t-need-to-sterilize-your-soil-1850546154)
-- [Lifehacker] [You Should Try No-Dig Gardening](https://lifehacker.com/you-should-try-no-dig-gardening-1850546243)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make the Most of Your Herbs With This Sicilian Street Food](https://lifehacker.com/make-the-most-of-your-herbs-with-this-sicilian-street-f-1850547497)<!-- TECH-POSTS:END -->
 
 ---
 
