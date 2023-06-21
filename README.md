@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hugo tutorial](https://dev.to/irishgeoff11/hugo-tutorial-3i5h)
+- [Dev.to/JS] [How to create a Jekyll contact form](https://dev.to/irishgeoff11/how-to-create-a-jekyll-contact-form-40fn)
+- [Dev.to/JS] [Weekly web development resources #154](https://dev.to/vincenius/weekly-web-development-resources-154-1p4b)
+- [Dev.to/JS] [React component testing with Vitest efficiently](https://dev.to/mayashavin/react-component-testing-with-vitest-efficiently-296c)
+- [Dev.to/JS] [How to create a Hugo contact form](https://dev.to/irishgeoff11/how-to-create-a-hugo-contact-form-254e)
 - [Dev.to/JS] [DevGPT: A Game-Changer for Coders? Hit or Miss?](https://dev.to/aiforme/devgpt-a-game-changer-for-coders-hit-or-miss-1khn)
 - [Dev.to/JS] [CS Foundations](https://dev.to/hstampsstack/cs-foundations-50fb)
 - [Dev.to/JS] [Building a Progressive Web App from Scratch: A Step-by-Step Guide](https://dev.to/abhaysinghr1/building-a-progressive-web-app-from-scratch-a-step-by-step-guide-1p8n)
@@ -30,15 +35,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Arithmetic Expression in JavaScript](https://dev.to/bansikah/arithmetic-expression-in-javascript-3jj0)
 - [Dev.to/JS] [How to Host Your React App on Vercel Effectively](https://dev.to/tazmah/how-to-host-your-react-app-on-vercel-effectively-55nb)
 - [Dev.to/JS] [Local Development with Public and Private monorepos](https://dev.to/istarkov/local-development-with-public-and-private-monorepos-3554)
-- [Dev.to/JS] [Variables and Data types in JavaScript](https://dev.to/bansikah/variables-and-data-types-in-javascript-k5o)
 - [Lifehacker] [What to Do If You Become a Victim of &#39;Sextortion&#39;](https://lifehacker.com/what-to-do-if-you-become-a-victim-of-sextortion-1850467335)
 - [Lifehacker] [What to Write in a Resignation Letter &lpar;and What Not To&rpar;](https://lifehacker.com/what-to-write-in-a-resignation-letter-and-what-not-to-1850557184)
-- [Dev.to/JS] [Wordpress GET REST API in native js](https://dev.to/faridteymouri/to-retrieve-wordpress-posts-html-using-the-rest-api-1abl)
 - [Lifehacker] [Five of the Best Day Planners for Any Need](https://lifehacker.com/five-of-the-best-day-planners-for-any-need-1850556687)
-- [Dev.to/JS] [Create CSS Animations easily](https://dev.to/vulcanwm/create-css-animations-easily-3an)
-- [Dev.to/JS] [RxJS Operators: audit](https://dev.to/drownedintech/rxjs-operators-audit-1g8a)
 - [Lifehacker] [Five Things All First-time Credit Card Holders Need to Know](https://lifehacker.com/five-things-all-first-time-credit-card-holders-need-to-1850556613)
-- [Dev.to/JS] [Top 3 JavaScript Frameworks: Mastering Web Development](https://dev.to/ultraxcode/top-3-javascript-frameworks-mastering-web-development-10de)
 - [Lifehacker] [&#39;Crip Up the Kitchen&#39; Author Jules Sherred Wants Your Kitchen to Be More Accessible](https://lifehacker.com/crip-up-the-kitchen-author-jules-sherred-wants-your-kit-1850545789)
 - [Lifehacker] [&#39;Natural&#39; Skincare Is a Lie](https://lifehacker.com/natural-skincare-is-a-lie-1850556509)
 - [Lifehacker] [You Can Get This Python and AI Training Course for $40](https://lifehacker.com/you-can-get-this-python-and-ai-training-course-for-40-1850541252)
