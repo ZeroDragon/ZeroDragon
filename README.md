@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Make Your Own Weed Edibles](https://lifehacker.com/you-should-make-your-own-weed-edibles-1850502051)
+- [Dev.to/JS] [Deep Copy vs Shallow Copy in JavaScript: Understanding the Differences](https://dev.to/itsshaikhaj/deep-copy-vs-shallow-copy-in-javascript-understanding-the-differences-2gn9)
+- [Dev.to/JS] [Supercharge Your JavaScript Data Manipulation with Array Methods: A Comprehensive Guide](https://dev.to/itsshaikhaj/supercharge-your-javascript-data-manipulation-with-array-methods-a-comprehensive-guide-1392)
+- [Dev.to/JS] [Why you should build the same project in multiple programming languages and frameworks](https://dev.to/geiel/why-you-should-build-the-same-project-in-multiple-programming-languages-and-frameworks-4mk2)
+- [Lifehacker] [Amazon Prime Day Finally Set a Date &lpar;and Has New Benefits&rpar;](https://lifehacker.com/amazon-prime-day-finally-set-a-date-and-has-new-benefi-1850561082)
+- [Dev.to/JS] [The Power of HTML, CSS, and JavaScript: The Building Blocks of the Modern Web](https://dev.to/ritavdas/the-power-of-html-css-and-javascript-the-building-blocks-of-the-modern-web-11o3)
+- [Lifehacker] [Go Ahead, Sit Down on Your Paddleboard](https://lifehacker.com/go-ahead-sit-down-on-your-paddleboard-1850560718)
 - [Dev.to/JS] [The double not operator &lpar;!!&rpar;](https://dev.to/accreditly/the-double-not-operator--5a4l)
 - [Dev.to/JS] [Clarifying the Java-JavaScript Conundrum: A Letter to Recruiters and Hiring Managers](https://dev.to/philipjohnbasile/clarifying-the-java-javascript-conundrum-a-letter-to-recruiters-and-hiring-managers-4bhj)
 - [Dev.to/JS] [Diagram editor dgrm.net / Announcement / Improved mobile support](https://dev.to/alexboyko/diagram-editor-dgrmnet-announcement-improved-mobile-support-8a6)
@@ -34,12 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to generate an SBOM for JavaScript and Node.js applications](https://dev.to/snyk/how-to-generate-an-sbom-for-javascript-and-nodejs-applications-52do)
 - [Dev.to/JS] [Demystifying Cogvideo: Your Guide to NightmareAI&#39;s Text-to-Video AI Model](https://dev.to/mikeyoung44/demystifying-cogvideo-your-guide-to-nightmareais-text-to-video-ai-model-4o9h)
 - [Lifehacker] [What&#39;s New on Netflix in July 2023](https://lifehacker.com/whats-new-on-netflix-in-july-2023-1850560304)
-- [Dev.to/JS] [Grilling Vue 3 Essentials on Pinia Skewers](https://dev.to/philipjohnbasile/grilling-vue-3-essentials-on-pinia-skewers-3noc)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $60](https://lifehacker.com/you-can-get-windows-11-pro-and-microsoft-office-for-60-1850541269)
-- [Dev.to/JS] [Blackjack Game](https://dev.to/adeyemoade/blackjack-game-378l)
-- [Dev.to/JS] [Backend: O Poder do Lado Oculto da Tecnologia](https://dev.to/wandersonchaves/backend-o-poder-do-lado-oculto-da-tecnologia-5c1a)
 - [Lifehacker] [This iPad Stylus Is Almost 60% Off Right Now](https://lifehacker.com/this-ipad-stylus-is-almost-60-off-right-now-1850541261)
-- [Dev.to/JS] [How to Use the useMemo and useCallback Hooks for Caching in React](https://dev.to/danrez/how-to-use-the-usememo-and-usecallback-hooks-for-caching-in-react-2opm)
 - [Lifehacker] [There&#39;s Finally a Way to Silence Spam Calls on WhatsApp](https://lifehacker.com/theres-finally-a-way-to-silence-spam-calls-on-whatsapp-1850559039)
 - [Lifehacker] [It&#39;s Not a Submarine &lpar;and Why It&#39;s Driven With a Video Game Controller&rpar;](https://lifehacker.com/its-not-a-submarine-and-why-its-driven-with-a-video-ga-1850558253)
 - [Lifehacker] [Hot Days Call for Iced Pickles](https://lifehacker.com/hot-days-call-for-iced-pickles-1850557992)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Types of Garden Hoses &lpar;and Which You Should Choose&rpar;](https://lifehacker.com/five-types-of-garden-hoses-and-which-you-should-choose-1850555121)
 - [Lifehacker] [Learn Your Child’s Energy Profile to Avoid Overscheduling](https://lifehacker.com/learn-your-child-s-energy-profile-to-avoid-overscheduli-1850548815)
 - [Lifehacker] [This 3-Year VPN Subscription Is Over 60% Off Right Now](https://lifehacker.com/this-3-year-vpn-subscription-is-over-60-off-right-now-1850541139)
-- [Lifehacker] [Why Those Half-Dead Plants Are Actually a Good Deal](https://lifehacker.com/why-those-half-dead-plants-are-actually-a-good-deal-1850547546)
-- [Lifehacker] [Take Advantage of These Tax Tips to Pay for College](https://lifehacker.com/take-advantage-of-these-tax-tips-to-pay-for-college-1850518833)
-- [Lifehacker] [Stop What You’re Doing and Muddle Raspberries With Soy Sauce](https://lifehacker.com/stop-what-you-re-doing-and-muddle-raspberries-with-soy-1850549001)
-- [Lifehacker] [Make the Most of Your Herbs With This Sicilian Street Food](https://lifehacker.com/make-the-most-of-your-herbs-with-this-sicilian-street-f-1850547497)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Those Half-Dead Plants Are Actually a Good Deal](https://lifehacker.com/why-those-half-dead-plants-are-actually-a-good-deal-1850547546)<!-- TECH-POSTS:END -->
 
 ---
 
