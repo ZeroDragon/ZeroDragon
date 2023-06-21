@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Eleventy Tutorial](https://dev.to/irishgeoff11/eleventy-tutorial-21ao)
+- [Dev.to/JS] [Constructor Function in JavaScript](https://dev.to/indracit/constructor-function-in-javascript-10a)
+- [Dev.to/JS] [Factory Function in JavaScript](https://dev.to/indracit/factory-function-in-javascript-346k)
+- [Dev.to/JS] [JavaScript class tutorial](https://dev.to/indracit/javascript-class-tutorial-4hd0)
+- [Dev.to/JS] [Top 10 Books About JavaScript Clean Code: Enhance Your Coding Practices](https://dev.to/hakimov_dev/top-10-books-about-javascript-clean-code-enhance-your-coding-practices-f6d)
 - [Dev.to/JS] [Hugo tutorial](https://dev.to/irishgeoff11/hugo-tutorial-3i5h)
 - [Dev.to/JS] [How to create a Jekyll contact form](https://dev.to/irishgeoff11/how-to-create-a-jekyll-contact-form-40fn)
 - [Dev.to/JS] [Weekly web development resources #154](https://dev.to/vincenius/weekly-web-development-resources-154-1p4b)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a Hugo contact form](https://dev.to/irishgeoff11/how-to-create-a-hugo-contact-form-254e)
 - [Dev.to/JS] [DevGPT: A Game-Changer for Coders? Hit or Miss?](https://dev.to/aiforme/devgpt-a-game-changer-for-coders-hit-or-miss-1khn)
 - [Dev.to/JS] [CS Foundations](https://dev.to/hstampsstack/cs-foundations-50fb)
-- [Dev.to/JS] [Building a Progressive Web App from Scratch: A Step-by-Step Guide](https://dev.to/abhaysinghr1/building-a-progressive-web-app-from-scratch-a-step-by-step-guide-1p8n)
-- [Dev.to/JS] [How to get the file extension from an upload using JavaScript](https://dev.to/michaelburrows/how-to-get-the-file-extension-from-an-upload-using-javascript-8ma)
-- [Dev.to/JS] [Arithmetic Expression in JavaScript](https://dev.to/bansikah/arithmetic-expression-in-javascript-3jj0)
-- [Dev.to/JS] [How to Host Your React App on Vercel Effectively](https://dev.to/tazmah/how-to-host-your-react-app-on-vercel-effectively-55nb)
-- [Dev.to/JS] [Local Development with Public and Private monorepos](https://dev.to/istarkov/local-development-with-public-and-private-monorepos-3554)
 - [Lifehacker] [What to Do If You Become a Victim of &#39;Sextortion&#39;](https://lifehacker.com/what-to-do-if-you-become-a-victim-of-sextortion-1850467335)
 - [Lifehacker] [What to Write in a Resignation Letter &lpar;and What Not To&rpar;](https://lifehacker.com/what-to-write-in-a-resignation-letter-and-what-not-to-1850557184)
 - [Lifehacker] [Five of the Best Day Planners for Any Need](https://lifehacker.com/five-of-the-best-day-planners-for-any-need-1850556687)
