@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typing test model](https://dev.to/safikumar00/typing-test-model-e6a)
+- [Dev.to/JS] [React useEffect: A complete guide with examples](https://dev.to/alakkadshaw/react-useeffect-a-complete-guide-with-examples-3ebd)
+- [Dev.to/JS] [Programming Helper: Do You Really Need It?](https://dev.to/aiforme/programming-helper-do-you-really-need-it-167c)
+- [Lifehacker] [It&#39;s Not a Submarine &lpar;and Why It&#39;s Driven With a Video Game Controller&rpar;](https://lifehacker.com/its-not-a-submarine-and-why-its-driven-with-a-video-ga-1850558253)
+- [Dev.to/JS] [How to Add GcExcel, an Excel XLSX API Library, to Your Java App](https://dev.to/grapecity/how-to-add-gcexcel-an-excel-xlsx-api-library-to-your-java-app-5bok)
+- [Dev.to/JS] [Styling Your React App: Exploring CSS-in-JS with Styled Components](https://dev.to/almonteluis/styling-your-react-app-exploring-css-in-js-with-styled-components-1op3)
+- [Dev.to/JS] [Unleashing the Potential of PWAs: Revolutionizing Web Experiences for Seamless Engagement](https://dev.to/emeroid/unleashing-the-potential-of-pwas-revolutionizing-web-experiences-for-seamless-engagement-4el4)
+- [Dev.to/JS] [CSS in Micro Frontends](https://dev.to/florianrappl/css-in-micro-frontends-4jai)
 - [Lifehacker] [Hot Days Call for Iced Pickles](https://lifehacker.com/hot-days-call-for-iced-pickles-1850557992)
 - [Dev.to/JS] [Stop wasting bandwidth with React&#39;s `useEffect` and `fetch`!](https://dev.to/krofdrakula/stop-wasting-bandwidth-with-reacts-useeffect-and-fetch-27ne)
 - [Dev.to/JS] [Poor man&#39;s decorator in Javascript](https://dev.to/artydev/poor-mans-decorator-in-javascript-4kc4)
@@ -31,13 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Login and Sign up Auth using JWT](https://dev.to/vishalsh/login-and-sign-up-auth-using-jwt-5c2f)
 - [Crazy Programmer] [9 Best Alan Turing Quotes](https://www.thecrazyprogrammer.com/2023/06/alan-turing-quotes.html)
 - [Dev.to/JS] [How to Use a React Report Viewer to Display Blood Test Results](https://dev.to/grapecity/how-to-use-a-react-report-viewer-to-display-blood-test-results-21a4)
-- [Dev.to/JS] [Reload the window if an element is not found —  Cypress Automation](https://dev.to/ajdinmust/reload-the-window-if-an-element-is-not-found-cypress-automation-2l42)
-- [Dev.to/JS] [Decorators: saviour of the TypeScript devs](https://dev.to/thekosmix/decorators-saviour-of-the-typescript-devs-3k1d)
-- [Dev.to/JS] [How to Add an Angular Excel XLSX Viewer to Your Web Application](https://dev.to/grapecity/how-to-add-an-angular-excel-xlsx-viewer-to-your-web-application-4cm4)
-- [Dev.to/JS] [Binary Search In Javascript: Practical Mini Project](https://dev.to/danities316/binary-search-in-javascript-practical-mini-project-20j9)
-- [Dev.to/JS] [Create AI agents and tools using GPT in NodeJS 🚀🤖](https://dev.to/etherlegend/create-ai-agents-and-tools-using-gpt-in-nodejs-4jfe)
-- [Dev.to/JS] [JavaScript Math&lpar;&rpar;](https://dev.to/bansikah/javascript-math-599)
-- [Dev.to/JS] [Reset your ErrorBoundary](https://dev.to/skathuria29/reset-your-errorboundary-2pgm)
 - [Lifehacker] [What to Do If You Become a Victim of &#39;Sextortion&#39;](https://lifehacker.com/what-to-do-if-you-become-a-victim-of-sextortion-1850467335)
 - [Lifehacker] [What to Write in a Resignation Letter &lpar;and What Not To&rpar;](https://lifehacker.com/what-to-write-in-a-resignation-letter-and-what-not-to-1850557184)
 - [Lifehacker] [Five of the Best Day Planners for Any Need](https://lifehacker.com/five-of-the-best-day-planners-for-any-need-1850556687)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These 10 U.S. Cities Have the Best Housing Deals This Summer](https://lifehacker.com/these-10-u-s-cities-have-the-best-housing-deals-this-s-1850546265)
 - [Lifehacker] [5 Clever Ways to Use a Bar of Soap in Your Garden](https://lifehacker.com/5-clever-ways-to-use-a-bar-of-soap-in-your-garden-1850546173)
 - [Lifehacker] [Use Your Duvet Cover as a Summer Bedspread](https://lifehacker.com/use-your-duvet-cover-as-a-summer-bedspread-1850546224)
-- [Lifehacker] [These Are the Best U.S. Cities to Live in Without a Car](https://lifehacker.com/these-are-the-best-u-s-cities-to-live-in-without-a-car-1850546182)
-- [Lifehacker] [The Most Common Reasons Your Driveway Is Sinking &lpar;and How to Fix Them&rpar;](https://lifehacker.com/the-most-common-reasons-your-driveway-is-sinking-and-h-1850544174)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best U.S. Cities to Live in Without a Car](https://lifehacker.com/these-are-the-best-u-s-cities-to-live-in-without-a-car-1850546182)<!-- TECH-POSTS:END -->
 
 ---
 
