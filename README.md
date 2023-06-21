@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Decorators: saviour of the TypeScript devs](https://dev.to/thekosmix/decorators-saviour-of-the-typescript-devs-3k1d)
+- [Dev.to/JS] [How to Add an Angular Excel XLSX Viewer to Your Web Application](https://dev.to/grapecity/how-to-add-an-angular-excel-xlsx-viewer-to-your-web-application-4cm4)
+- [Dev.to/JS] [Binary Search In Javascript: Practical Mini Project](https://dev.to/danities316/binary-search-in-javascript-practical-mini-project-20j9)
+- [Dev.to/JS] [Create AI agents and tools using GPT in NodeJS 🚀🤖](https://dev.to/etherlegend/create-ai-agents-and-tools-using-gpt-in-nodejs-4jfe)
 - [Dev.to/JS] [JavaScript Math&lpar;&rpar;](https://dev.to/bansikah/javascript-math-599)
 - [Dev.to/JS] [Reset your ErrorBoundary](https://dev.to/skathuria29/reset-your-errorboundary-2pgm)
 - [Dev.to/JS] [How To Build a Scalable SaaS Backend in 10 Minutes With 100 Lines of Code Using ZenStack](https://dev.to/zenstack/how-to-build-a-scalable-saas-backend-in-10-minutes-with-100-lines-of-code-using-zenstack-1h7c)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array flattening](https://dev.to/adii/array-flattening-3122)
 - [Dev.to/JS] [JavaScript has no sleep function, but we can easily solve it this way!](https://dev.to/danielzotti/javascript-has-no-sleep-function-but-we-can-easily-solve-it-this-way-1p12)
 - [Dev.to/JS] [Introduction to ExpressJs](https://dev.to/fredabod/introduction-to-expressjs-2nh4)
-- [Dev.to/JS] [Introduction to Fullstack JS](https://dev.to/hunt092/introduction-to-fullstack-js-4pd8)
-- [Dev.to/JS] [Eleventy Tutorial](https://dev.to/irishgeoff11/eleventy-tutorial-21ao)
-- [Dev.to/JS] [Constructor Function in JavaScript](https://dev.to/indracit/constructor-function-in-javascript-10a)
-- [Dev.to/JS] [Factory Function in JavaScript](https://dev.to/indracit/factory-function-in-javascript-346k)
 - [Lifehacker] [What to Do If You Become a Victim of &#39;Sextortion&#39;](https://lifehacker.com/what-to-do-if-you-become-a-victim-of-sextortion-1850467335)
 - [Lifehacker] [What to Write in a Resignation Letter &lpar;and What Not To&rpar;](https://lifehacker.com/what-to-write-in-a-resignation-letter-and-what-not-to-1850557184)
 - [Lifehacker] [Five of the Best Day Planners for Any Need](https://lifehacker.com/five-of-the-best-day-planners-for-any-need-1850556687)
