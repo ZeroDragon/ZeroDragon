@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding HTTP: Basics for Beginners](https://dev.to/devlawrence/understanding-http-basics-for-beginners-3f28)
+- [Dev.to/JS] [Processing for the masses - p5js on steroids](https://dev.to/padcom/processing-for-the-masses-p5js-on-steroids-3h7j)
+- [Dev.to/JS] [How to validate an html form with JavaScript](https://dev.to/ifeolwaisaiah/how-to-validate-an-html-form-with-javascript-55fb)
+- [Dev.to/JS] [A Beginner&#39;s Guide to Line Detection and Image Transformation with ControlNet](https://dev.to/mikeyoung44/a-beginners-guide-to-line-detection-and-image-transformation-with-controlnet-45gn)
+- [Dev.to/JS] [Implementing BudPay Webhooks with Node.js and Express: A Practical Example](https://dev.to/saint_vandora/implementing-budpay-webhooks-with-nodejs-and-express-a-practical-example-26ln)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Titanic Submersible](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-titanic-su-1850566979)
 - [Dev.to/JS] [Building Graph Database Applications with Apache AGE and Node.js: A Step-by-Step Tutorial](https://dev.to/omarsaad/building-graph-database-applications-with-apache-age-and-nodejs-a-step-by-step-tutorial-33a1)
 - [Lifehacker] [Seven Things You Need to Start Backyard Camping](https://lifehacker.com/seven-things-you-need-to-start-backyard-camping-1850566176)
@@ -36,12 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Infinite Scrolling Website with JavaScript](https://dev.to/maxim_maeder/infinite-scrolling-website-with-javascript-23j1)
 - [Dev.to/JS] [Episode 23/24: Angular 16, RFCs for Deferred Loading and built-in Control-Flow](https://dev.to/this-is-angular/episode-2324-angular-16-rfcs-for-deferred-loading-and-built-in-control-flow-5g3h)
 - [Lifehacker] [Five of the Biggest Sex Myths Spreading on TikTok](https://lifehacker.com/five-of-the-biggest-sex-myths-spreading-on-tiktok-1850563098)
-- [Dev.to/JS] [Static website forms](https://dev.to/irishgeoff11/static-website-forms-enm)
-- [Dev.to/JS] [Fabform.io form backend service](https://dev.to/irishgeoff11/fabformio-form-backend-service-11el)
-- [Dev.to/JS] [How to Create a Kick-Ass GitHub Profile in 5 Minutes](https://dev.to/mohammadfaisal/how-to-create-a-kick-ass-github-profile-in-5-minutes-oag)
 - [Lifehacker] [How to Not Raise a &#39;Glass Child&#39;](https://lifehacker.com/how-to-not-raise-a-glass-child-1850563298)
-- [Dev.to/JS] [Next Js 13.4 Version &amp; Auth With App Router](https://dev.to/developerarif55/next-js-134-version-auth-with-app-router-1j93)
-- [Dev.to/JS] [Lib js para State agnóstica a Framework](https://dev.to/casewinter/lib-js-para-state-agonistica-a-framework-4ipd)
 - [Lifehacker] [Microsoft Office Professional 2021 Is Almost 90% Off Right Now](https://lifehacker.com/microsoft-office-professional-2021-is-almost-90-off-ri-1850560771)
 - [Lifehacker] [Use This Workaround to Copy Uncopyable Text on Your iPhone](https://lifehacker.com/use-this-workaround-to-copy-uncopyable-text-on-your-iph-1850559062)
 - [Lifehacker] [Update All Your Apple Devices ASAP](https://lifehacker.com/update-all-your-apple-devices-asap-1850565238)
