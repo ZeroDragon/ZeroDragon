@@ -23,6 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Seven Ways to Make Your Old Car Feel New Again](https://lifehacker.com/seven-ways-to-make-your-old-car-feel-new-again-1850565271)
+- [Dev.to/JS] [I need help in my react ecommorce project](https://dev.to/muhammedalaa1/i-want-help-in-my-react-ecommorce-project-2ngc)
+- [Dev.to/JS] [What is BitWise Operator?](https://dev.to/elgouhry/what-is-bitwise-operator-o07)
+- [Lifehacker] [&#39;AI Resume Builder&#39; Is on Sale for 90% Off Right Now](https://lifehacker.com/ai-resume-builder-is-on-sale-for-90-off-right-now-1850561760)
+- [Dev.to/JS] [How To Check Against Custom Types In TypeScript](https://dev.to/onurcankaya/how-to-check-against-custom-types-in-typescript-hh2)
+- [Dev.to/JS] [Line Chart with Svelte](https://dev.to/maxim_maeder/line-chart-with-svelte-1a6m)
+- [Dev.to/JS] [Progressive Web Apps &lpar;PWAs&rpar; and their impact on the future of mobile development](https://dev.to/harithdilshan/progressive-web-apps-pwas-and-their-impact-on-the-future-of-mobile-development-a6e)
+- [Dev.to/JS] [How to Bind a JavaScript Datagrid to GraphQL Service](https://dev.to/grapecity/how-to-bind-a-javascript-datagrid-to-graphql-service-1g69)
+- [Dev.to/JS] [Introduction to React and Components](https://dev.to/sammychris/introduction-to-react-and-components-2ma2)
+- [Dev.to/JS] [Love Triangle of Code: How TypeScript Seduced Me Away from JavaScript’s Wild Charm](https://dev.to/philipjohnbasile/love-triangle-of-code-how-typescript-seduced-me-away-from-javascripts-wild-charm-5e8f)
 - [Lifehacker] [These Are the Best Hot Weather Workouts](https://lifehacker.com/these-are-the-best-hot-weather-workouts-1850548683)
 - [Lifehacker] [You Officially Don&#39;t Need Apple Passwords Anymore](https://lifehacker.com/you-officially-dont-need-apple-passwords-anymore-1850564152)
 - [Dev.to/JS] [How to execute end-to-end Cypress test cases in a Google Cloud Pipeline?](https://dev.to/kailashpathak7/how-to-execute-end-to-end-cypress-test-cases-in-a-google-cloud-pipeline-53eg)
@@ -31,16 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code effortlessly with just Snippet](https://dev.to/aiforme/code-effortlessly-with-just-snippet-2b7f)
 - [Lifehacker] [NatureID Is on Sale for 75% Off Right Now](https://lifehacker.com/natureid-is-on-sale-for-75-off-right-now-1850562189)
 - [Dev.to/JS] [Implementing Flexible Authorization in RedwoodJS Projects](https://dev.to/zenstack/implementing-flexible-authorization-in-redwoodjs-projects-49j7)
-- [Dev.to/JS] [Рекомендации по разработке прогрессивных веб приложений &lpar;PWA&rpar;](https://dev.to/brotherswar/riekomiendatsii-po-razrabotkie-proghriessivnykh-vieb-prilozhienii-pwa-1fcn)
 - [Lifehacker] [The Four Best Reddit Alternatives](https://lifehacker.com/the-four-best-reddit-alternatives-1850562547)
-- [Dev.to/JS] [Ripple, React shared state with less code...](https://dev.to/amplanetwork/ripple-react-shared-state-with-less-code-15di)
 - [Lifehacker] [What to Do When You Don’t Like Your Kid’s Annoying Friend](https://lifehacker.com/what-to-do-when-you-don-t-like-your-kid-s-annoying-frie-1850560674)
-- [Dev.to/JS] [Odd Even Linked List](https://dev.to/_alkesh26/odd-even-linked-list-564n)
-- [Dev.to/JS] [Building a Unified Design System Language](https://dev.to/cloudx/building-a-unified-design-system-language-586h)
-- [Dev.to/JS] [Calculating Days in a Month with Timezones in JavaScript](https://dev.to/shivampawar/calculating-days-in-a-month-with-timezones-in-javascript-4ceb)
-- [Dev.to/JS] [Laravel Nova: A Powerful Admin Panel for Laravel Applications](https://dev.to/mukeshram/laravel-nova-a-powerful-admin-panel-for-laravel-applications-2dj1)
-- [Dev.to/JS] [Como Lidar com Vulnerabilidades Comuns de Segurança em Pacotes npm](https://dev.to/jhonyaraujooficial/como-lidar-com-vulnerabilidades-comuns-de-seguranca-em-pacotes-npm-4lo3)
-- [Dev.to/JS] [Why Am I Switching To Signals In Angular?](https://dev.to/krivanek06/why-am-i-switching-to-signals-in-angular-4fo5)
 - [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)
 - [Lifehacker] [Three Ways to Make Your Instant Pot Dishes More Flavorful](https://lifehacker.com/three-ways-to-make-your-instant-pot-dishes-more-flavorf-1850562484)
 - [Lifehacker] [Six Fancy Knife Cuts to Make Your Dishes Look a Little More Grown-Up](https://lifehacker.com/six-fancy-knife-cuts-to-make-your-dishes-look-a-little-1850562457)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It&#39;s Not a Submarine &lpar;and Why It&#39;s Driven With a Video Game Controller&rpar;](https://lifehacker.com/its-not-a-submarine-and-why-its-driven-with-a-video-ga-1850558253)
 - [Lifehacker] [Hot Days Call for Iced Pickles](https://lifehacker.com/hot-days-call-for-iced-pickles-1850557992)
 - [Lifehacker] [10 Podcasts That Will Make You Better at Life](https://lifehacker.com/10-podcasts-that-will-make-you-better-at-life-1850549166)
-- [Crazy Programmer] [9 Best Alan Turing Quotes](https://www.thecrazyprogrammer.com/2023/06/alan-turing-quotes.html)
-- [Lifehacker] [What to Do If You Become a Victim of &#39;Sextortion&#39;](https://lifehacker.com/what-to-do-if-you-become-a-victim-of-sextortion-1850467335)
-- [Lifehacker] [What to Write in a Resignation Letter &lpar;and What Not To&rpar;](https://lifehacker.com/what-to-write-in-a-resignation-letter-and-what-not-to-1850557184)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [9 Best Alan Turing Quotes](https://www.thecrazyprogrammer.com/2023/06/alan-turing-quotes.html)<!-- TECH-POSTS:END -->
 
 ---
 
