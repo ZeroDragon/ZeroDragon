@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring String.prototype.replaceAll&lpar;&rpar;: Simplifying Substring Replacements in JavaScript](https://dev.to/shameerchagani/exploring-stringprototypereplaceall-simplifying-substring-replacements-in-javascript-500e)
+- [Dev.to/JS] [Is WordPress Relevant in 2023?](https://dev.to/ahmadswalih/is-wordpress-relevant-in-2023-1dlg)
 - [Dev.to/JS] [Clean Code - O básico a se fazer](https://dev.to/raphaelramos/clean-code-o-basico-a-se-fazer-3kec)
 - [Dev.to/JS] [nuxt-twemoji](https://dev.to/yizack/nuxt-twemoji-1mhc)
 - [Dev.to/JS] [How to make a rainfall-like the one in Matrix movie?](https://dev.to/alishata128/how-to-make-a-rainfall-like-the-one-in-matrix-movie-2ap1)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between a Cover Letter and a Letter of Interest](https://lifehacker.com/the-difference-between-a-cover-letter-and-a-letter-of-i-1850561095)
 - [Lifehacker] [Use the 16 &#39;Career Clusters&#39; to Help Find the Right Job for You](https://lifehacker.com/use-the-16-career-clusters-to-help-find-the-right-job-f-1850560980)
 - [Lifehacker] [You Should Make Your Own Weed Edibles](https://lifehacker.com/you-should-make-your-own-weed-edibles-1850502051)
-- [Dev.to/JS] [Deep Copy vs Shallow Copy in JavaScript: Understanding the Differences](https://dev.to/itsshaikhaj/deep-copy-vs-shallow-copy-in-javascript-understanding-the-differences-2gn9)
-- [Dev.to/JS] [Supercharge Your JavaScript Data Manipulation with Array Methods: A Comprehensive Guide](https://dev.to/itsshaikhaj/supercharge-your-javascript-data-manipulation-with-array-methods-a-comprehensive-guide-1392)
 - [Lifehacker] [Amazon Prime Day Finally Set a Date &lpar;and Has New Benefits&rpar;](https://lifehacker.com/amazon-prime-day-finally-set-a-date-and-has-new-benefi-1850561082)
 - [Lifehacker] [Go Ahead, Sit Down on Your Paddleboard](https://lifehacker.com/go-ahead-sit-down-on-your-paddleboard-1850560718)
 - [Lifehacker] [15 of the Most Common House Styles in the U.S. &lpar;and How to Tell Them Apart&rpar;](https://lifehacker.com/15-of-the-most-common-house-styles-in-the-u-s-and-how-1850560061)
