@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Hot Weather Workouts](https://lifehacker.com/these-are-the-best-hot-weather-workouts-1850548683)
+- [Lifehacker] [You Officially Don&#39;t Need Apple Passwords Anymore](https://lifehacker.com/you-officially-dont-need-apple-passwords-anymore-1850564152)
+- [Dev.to/JS] [How to execute end-to-end Cypress test cases in a Google Cloud Pipeline?](https://dev.to/kailashpathak7/how-to-execute-end-to-end-cypress-test-cases-in-a-google-cloud-pipeline-53eg)
 - [Lifehacker] [Four New Google Chrome Features Coming to Your iPhone](https://lifehacker.com/four-new-google-chrome-features-coming-to-your-iphone-1850564454)
 - [Dev.to/JS] [Securely Managing Digital Assets: A Guide to Wallets &amp; Custody with QuickNode](https://dev.to/devsuite/securely-managing-digital-assets-a-guide-to-wallets-custody-with-quicknode-1hil)
 - [Dev.to/JS] [Code effortlessly with just Snippet](https://dev.to/aiforme/code-effortlessly-with-just-snippet-2b7f)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Laravel Nova: A Powerful Admin Panel for Laravel Applications](https://dev.to/mukeshram/laravel-nova-a-powerful-admin-panel-for-laravel-applications-2dj1)
 - [Dev.to/JS] [Como Lidar com Vulnerabilidades Comuns de Segurança em Pacotes npm](https://dev.to/jhonyaraujooficial/como-lidar-com-vulnerabilidades-comuns-de-seguranca-em-pacotes-npm-4lo3)
 - [Dev.to/JS] [Why Am I Switching To Signals In Angular?](https://dev.to/krivanek06/why-am-i-switching-to-signals-in-angular-4fo5)
-- [Dev.to/JS] [React Class Component Basics](https://dev.to/indracit/react-class-component-basics-f80)
 - [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)
 - [Lifehacker] [Three Ways to Make Your Instant Pot Dishes More Flavorful](https://lifehacker.com/three-ways-to-make-your-instant-pot-dishes-more-flavorf-1850562484)
 - [Lifehacker] [Six Fancy Knife Cuts to Make Your Dishes Look a Little More Grown-Up](https://lifehacker.com/six-fancy-knife-cuts-to-make-your-dishes-look-a-little-1850562457)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Podcasts That Will Make You Better at Life](https://lifehacker.com/10-podcasts-that-will-make-you-better-at-life-1850549166)
 - [Crazy Programmer] [9 Best Alan Turing Quotes](https://www.thecrazyprogrammer.com/2023/06/alan-turing-quotes.html)
 - [Lifehacker] [What to Do If You Become a Victim of &#39;Sextortion&#39;](https://lifehacker.com/what-to-do-if-you-become-a-victim-of-sextortion-1850467335)
-- [Lifehacker] [What to Write in a Resignation Letter &lpar;and What Not To&rpar;](https://lifehacker.com/what-to-write-in-a-resignation-letter-and-what-not-to-1850557184)
-- [Lifehacker] [Five of the Best Day Planners for Any Need](https://lifehacker.com/five-of-the-best-day-planners-for-any-need-1850556687)
-- [Lifehacker] [Five Things All First-time Credit Card Holders Need to Know](https://lifehacker.com/five-things-all-first-time-credit-card-holders-need-to-1850556613)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Write in a Resignation Letter &lpar;and What Not To&rpar;](https://lifehacker.com/what-to-write-in-a-resignation-letter-and-what-not-to-1850557184)<!-- TECH-POSTS:END -->
 
 ---
 
