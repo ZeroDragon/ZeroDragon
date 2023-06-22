@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What People Are Getting Wrong This Week: The Titanic Submersible](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-titanic-su-1850566979)
+- [Dev.to/JS] [Building Graph Database Applications with Apache AGE and Node.js: A Step-by-Step Tutorial](https://dev.to/omarsaad/building-graph-database-applications-with-apache-age-and-nodejs-a-step-by-step-tutorial-33a1)
+- [Lifehacker] [Seven Things You Need to Start Backyard Camping](https://lifehacker.com/seven-things-you-need-to-start-backyard-camping-1850566176)
 - [Lifehacker] [Microsoft Is Raising Game Pass Prices &lpar;Here’s How You Can Actually Pay Less&rpar;](https://lifehacker.com/microsoft-is-raising-game-pass-prices-here-s-how-you-c-1850566622)
 - [Dev.to/JS] [What is a simple static website generator](https://dev.to/irishgeoff11/what-is-a-simple-static-website-generator-kdo)
 - [Lifehacker] [Why You Probably Shouldn&#39;t Refinish Your Own Bathtub](https://lifehacker.com/why-you-probably-shouldnt-refinish-your-own-bathtub-1850565888)
@@ -40,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next Js 13.4 Version &amp; Auth With App Router](https://dev.to/developerarif55/next-js-134-version-auth-with-app-router-1j93)
 - [Dev.to/JS] [Lib js para State agnóstica a Framework](https://dev.to/casewinter/lib-js-para-state-agonistica-a-framework-4ipd)
 - [Lifehacker] [Microsoft Office Professional 2021 Is Almost 90% Off Right Now](https://lifehacker.com/microsoft-office-professional-2021-is-almost-90-off-ri-1850560771)
-- [Dev.to/JS] [Fast with fastify](https://dev.to/damirn/fast-with-fastify-1hi8)
 - [Lifehacker] [Use This Workaround to Copy Uncopyable Text on Your iPhone](https://lifehacker.com/use-this-workaround-to-copy-uncopyable-text-on-your-iph-1850559062)
 - [Lifehacker] [Update All Your Apple Devices ASAP](https://lifehacker.com/update-all-your-apple-devices-asap-1850565238)
 - [Lifehacker] [Seven Ways to Make Your Old Car Feel New Again](https://lifehacker.com/seven-ways-to-make-your-old-car-feel-new-again-1850565271)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the 16 &#39;Career Clusters&#39; to Help Find the Right Job for You](https://lifehacker.com/use-the-16-career-clusters-to-help-find-the-right-job-f-1850560980)
 - [Lifehacker] [You Should Make Your Own Weed Edibles](https://lifehacker.com/you-should-make-your-own-weed-edibles-1850502051)
 - [Lifehacker] [Amazon Prime Day Finally Set a Date &lpar;and Has New Benefits&rpar;](https://lifehacker.com/amazon-prime-day-finally-set-a-date-and-has-new-benefi-1850561082)
-- [Lifehacker] [Go Ahead, Sit Down on Your Paddleboard](https://lifehacker.com/go-ahead-sit-down-on-your-paddleboard-1850560718)
-- [Lifehacker] [15 of the Most Common House Styles in the U.S. &lpar;and How to Tell Them Apart&rpar;](https://lifehacker.com/15-of-the-most-common-house-styles-in-the-u-s-and-how-1850560061)
-- [Lifehacker] [Start Optimizing Your Stress](https://lifehacker.com/start-optimizing-your-stress-1850513094)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Go Ahead, Sit Down on Your Paddleboard](https://lifehacker.com/go-ahead-sit-down-on-your-paddleboard-1850560718)<!-- TECH-POSTS:END -->
 
 ---
 
