@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use This Workaround to Copy Uncopyable Text on Your iPhone](https://lifehacker.com/use-this-workaround-to-copy-uncopyable-text-on-your-iph-1850559062)
+- [Dev.to/JS] [Creating JavaScript Routes for WordPress Website with Stream CSS Progress Bar](https://dev.to/faridteymouri/creating-javascript-routes-for-wordpress-website-with-stream-css-progress-bar-1cba)
+- [Dev.to/JS] [Google Tag vs. GTM](https://dev.to/the_martechguy/google-tag-vs-gtm-4lgm)
+- [Dev.to/JS] [Mocker makes it easy it to mock a service running inside a cluster and debug](https://dev.to/skyrampmia/mocker-makes-it-easy-it-to-mock-a-service-running-inside-a-cluster-and-debug-4kj1)
+- [Lifehacker] [Update All Your Apple Devices ASAP](https://lifehacker.com/update-all-your-apple-devices-asap-1850565238)
+- [Dev.to/JS] [Just completed the JavaScript Scrimba course](https://dev.to/calumscott/just-completed-the-javascript-scrimba-course-5f4e)
+- [Dev.to/JS] [How to Sign PDF Documents in JavaScript Using a Client-Side API](https://dev.to/grapecity/how-to-sign-pdf-documents-in-javascript-using-a-client-side-api-501a)
 - [Lifehacker] [Seven Ways to Make Your Old Car Feel New Again](https://lifehacker.com/seven-ways-to-make-your-old-car-feel-new-again-1850565271)
 - [Dev.to/JS] [I need help in my react ecommorce project](https://dev.to/muhammedalaa1/i-want-help-in-my-react-ecommorce-project-2ngc)
 - [Dev.to/JS] [What is BitWise Operator?](https://dev.to/elgouhry/what-is-bitwise-operator-o07)
@@ -32,15 +39,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Progressive Web Apps &lpar;PWAs&rpar; and their impact on the future of mobile development](https://dev.to/harithdilshan/progressive-web-apps-pwas-and-their-impact-on-the-future-of-mobile-development-a6e)
 - [Dev.to/JS] [How to Bind a JavaScript Datagrid to GraphQL Service](https://dev.to/grapecity/how-to-bind-a-javascript-datagrid-to-graphql-service-1g69)
 - [Dev.to/JS] [Introduction to React and Components](https://dev.to/sammychris/introduction-to-react-and-components-2ma2)
-- [Dev.to/JS] [Love Triangle of Code: How TypeScript Seduced Me Away from JavaScript’s Wild Charm](https://dev.to/philipjohnbasile/love-triangle-of-code-how-typescript-seduced-me-away-from-javascripts-wild-charm-5e8f)
 - [Lifehacker] [These Are the Best Hot Weather Workouts](https://lifehacker.com/these-are-the-best-hot-weather-workouts-1850548683)
 - [Lifehacker] [You Officially Don&#39;t Need Apple Passwords Anymore](https://lifehacker.com/you-officially-dont-need-apple-passwords-anymore-1850564152)
-- [Dev.to/JS] [How to execute end-to-end Cypress test cases in a Google Cloud Pipeline?](https://dev.to/kailashpathak7/how-to-execute-end-to-end-cypress-test-cases-in-a-google-cloud-pipeline-53eg)
 - [Lifehacker] [Four New Google Chrome Features Coming to Your iPhone](https://lifehacker.com/four-new-google-chrome-features-coming-to-your-iphone-1850564454)
-- [Dev.to/JS] [Securely Managing Digital Assets: A Guide to Wallets &amp; Custody with QuickNode](https://dev.to/devsuite/securely-managing-digital-assets-a-guide-to-wallets-custody-with-quicknode-1hil)
-- [Dev.to/JS] [Code effortlessly with just Snippet](https://dev.to/aiforme/code-effortlessly-with-just-snippet-2b7f)
 - [Lifehacker] [NatureID Is on Sale for 75% Off Right Now](https://lifehacker.com/natureid-is-on-sale-for-75-off-right-now-1850562189)
-- [Dev.to/JS] [Implementing Flexible Authorization in RedwoodJS Projects](https://dev.to/zenstack/implementing-flexible-authorization-in-redwoodjs-projects-49j7)
 - [Lifehacker] [The Four Best Reddit Alternatives](https://lifehacker.com/the-four-best-reddit-alternatives-1850562547)
 - [Lifehacker] [What to Do When You Don’t Like Your Kid’s Annoying Friend](https://lifehacker.com/what-to-do-when-you-don-t-like-your-kid-s-annoying-frie-1850560674)
 - [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This iPad Stylus Is Almost 60% Off Right Now](https://lifehacker.com/this-ipad-stylus-is-almost-60-off-right-now-1850541261)
 - [Lifehacker] [There&#39;s Finally a Way to Silence Spam Calls on WhatsApp](https://lifehacker.com/theres-finally-a-way-to-silence-spam-calls-on-whatsapp-1850559039)
 - [Lifehacker] [It&#39;s Not a Submarine &lpar;and Why It&#39;s Driven With a Video Game Controller&rpar;](https://lifehacker.com/its-not-a-submarine-and-why-its-driven-with-a-video-ga-1850558253)
-- [Lifehacker] [Hot Days Call for Iced Pickles](https://lifehacker.com/hot-days-call-for-iced-pickles-1850557992)
-- [Lifehacker] [10 Podcasts That Will Make You Better at Life](https://lifehacker.com/10-podcasts-that-will-make-you-better-at-life-1850549166)
-- [Crazy Programmer] [9 Best Alan Turing Quotes](https://www.thecrazyprogrammer.com/2023/06/alan-turing-quotes.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Hot Days Call for Iced Pickles](https://lifehacker.com/hot-days-call-for-iced-pickles-1850557992)<!-- TECH-POSTS:END -->
 
 ---
 
