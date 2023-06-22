@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Class Component Basics](https://dev.to/indracit/react-class-component-basics-f80)
+- [Dev.to/JS] [How to find Google sheet id?](https://dev.to/irishgeoff11/how-to-find-google-sheet-id-3i18)
+- [Dev.to/JS] [15 FREE Web Development Courses](https://dev.to/aqsa81/15-free-web-development-courses-50dp)
 - [Dev.to/JS] [Demystifying Ninja Code: Unraveling the Secrets of Concise and Efficient JavaScript Programming](https://dev.to/faridteymouri/demystifying-ninja-code-unraveling-the-secrets-of-concise-and-efficient-javascript-programming-3pk0)
 - [Dev.to/JS] [How-to organize your cells for flexibility](https://dev.to/noiremunich/how-to-organize-your-cells-for-flexibility-amj)
 - [Dev.to/JS] [What&#39;s new in Novu 0.16.0?](https://dev.to/novu/whats-new-in-novu-0160-l5d)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [main concept of every HTTP request](https://dev.to/ijunedaslam/main-concept-of-every-http-request-1ikh)
 - [Dev.to/JS] [DSA for Frontend devs](https://dev.to/sadanandpai/dsa-for-frontend-devs-51mp)
 - [Dev.to/JS] [Supercharge Your TypeScript App: Mastering i18next for Type-Safe Translations](https://dev.to/adrai/supercharge-your-typescript-app-mastering-i18next-for-type-safe-translations-2idp)
-- [Dev.to/JS] [Examples of Arrow Functions in JS](https://dev.to/ahrasovic/examples-of-arrow-functions-in-js-15eg)
-- [Dev.to/JS] [Exam Topics Free: Your Secret Weapon for Exam Success](https://dev.to/x9mhlyjj/exam-topics-free-your-secret-weapon-for-exam-success-2p95)
-- [Dev.to/JS] [Symbol in JavaScript](https://dev.to/indracit/symbol-in-javascript-3k5i)
 - [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)
 - [Lifehacker] [Three Ways to Make Your Instant Pot Dishes More Flavorful](https://lifehacker.com/three-ways-to-make-your-instant-pot-dishes-more-flavorf-1850562484)
 - [Lifehacker] [Six Fancy Knife Cuts to Make Your Dishes Look a Little More Grown-Up](https://lifehacker.com/six-fancy-knife-cuts-to-make-your-dishes-look-a-little-1850562457)
