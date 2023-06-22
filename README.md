@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Demystifying Ninja Code: Unraveling the Secrets of Concise and Efficient JavaScript Programming](https://dev.to/faridteymouri/demystifying-ninja-code-unraveling-the-secrets-of-concise-and-efficient-javascript-programming-3pk0)
+- [Dev.to/JS] [How-to organize your cells for flexibility](https://dev.to/noiremunich/how-to-organize-your-cells-for-flexibility-amj)
+- [Dev.to/JS] [What&#39;s new in Novu 0.16.0?](https://dev.to/novu/whats-new-in-novu-0160-l5d)
+- [Dev.to/JS] [Unleashing the Power of JavaScript Shorthand Codes: Enhance Productivity and Readability](https://dev.to/faridteymouri/unleashing-the-power-of-javascript-shorthand-codes-enhance-productivity-and-readability-1e32)
+- [Dev.to/JS] [Generate CSR for an SSL certificate in NGINX](https://dev.to/edenallen/generate-csr-for-an-ssl-certificate-in-nginx-4j4f)
 - [Dev.to/JS] [KaziByte Empowering Digital Solutions for a Connected World](https://dev.to/zobaidulofficial/kazibyte-empowering-digital-solutions-for-a-connected-world-3fe4)
 - [Dev.to/JS] [main concept of every HTTP request](https://dev.to/ijunedaslam/main-concept-of-every-http-request-1ikh)
 - [Dev.to/JS] [DSA for Frontend devs](https://dev.to/sadanandpai/dsa-for-frontend-devs-51mp)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Examples of Arrow Functions in JS](https://dev.to/ahrasovic/examples-of-arrow-functions-in-js-15eg)
 - [Dev.to/JS] [Exam Topics Free: Your Secret Weapon for Exam Success](https://dev.to/x9mhlyjj/exam-topics-free-your-secret-weapon-for-exam-success-2p95)
 - [Dev.to/JS] [Symbol in JavaScript](https://dev.to/indracit/symbol-in-javascript-3k5i)
-- [Dev.to/JS] [Cortexi - Ear Drops Results, Price, Benefits And Side Effects?](https://dev.to/cortexifac93513/cortexi-ear-drops-results-price-benefits-and-side-effects-c83)
-- [Dev.to/JS] [Newbie coder  -  3min random gist3](https://dev.to/devsisi/newbie-coder-3min-random-gist3-3a3n)
-- [Dev.to/JS] [Set and Map in JavaScript](https://dev.to/indracit/set-and-map-in-javascript-348k)
-- [Dev.to/JS] [내가 싫어하는 JS/TS 라이브러리들](https://dev.to/composite/naega-silheohaneun-jsts-raibeureorideul-272l)
-- [Dev.to/JS] [Is it neccessary to have virtual reality](https://dev.to/serena_cole2007/is-it-neccessary-to-have-virtual-reality-5a5d)
 - [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)
 - [Lifehacker] [Three Ways to Make Your Instant Pot Dishes More Flavorful](https://lifehacker.com/three-ways-to-make-your-instant-pot-dishes-more-flavorf-1850562484)
 - [Lifehacker] [Six Fancy Knife Cuts to Make Your Dishes Look a Little More Grown-Up](https://lifehacker.com/six-fancy-knife-cuts-to-make-your-dishes-look-a-little-1850562457)
