@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Not Raise a &#39;Glass Child&#39;](https://lifehacker.com/how-to-not-raise-a-glass-child-1850563298)
+- [Dev.to/JS] [Next Js 13.4 Version &amp; Auth With App Router](https://dev.to/developerarif55/next-js-134-version-auth-with-app-router-1j93)
+- [Dev.to/JS] [Lib js para State agnóstica a Framework](https://dev.to/casewinter/lib-js-para-state-agonistica-a-framework-4ipd)
+- [Lifehacker] [Microsoft Office Professional 2021 Is Almost 90% Off Right Now](https://lifehacker.com/microsoft-office-professional-2021-is-almost-90-off-ri-1850560771)
+- [Dev.to/JS] [Fast with fastify](https://dev.to/damirn/fast-with-fastify-1hi8)
 - [Lifehacker] [Use This Workaround to Copy Uncopyable Text on Your iPhone](https://lifehacker.com/use-this-workaround-to-copy-uncopyable-text-on-your-iph-1850559062)
 - [Dev.to/JS] [Creating JavaScript Routes for WordPress Website with Stream CSS Progress Bar](https://dev.to/faridteymouri/creating-javascript-routes-for-wordpress-website-with-stream-css-progress-bar-1cba)
 - [Dev.to/JS] [Google Tag vs. GTM](https://dev.to/the_martechguy/google-tag-vs-gtm-4lgm)
@@ -36,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;AI Resume Builder&#39; Is on Sale for 90% Off Right Now](https://lifehacker.com/ai-resume-builder-is-on-sale-for-90-off-right-now-1850561760)
 - [Dev.to/JS] [How To Check Against Custom Types In TypeScript](https://dev.to/onurcankaya/how-to-check-against-custom-types-in-typescript-hh2)
 - [Dev.to/JS] [Line Chart with Svelte](https://dev.to/maxim_maeder/line-chart-with-svelte-1a6m)
-- [Dev.to/JS] [Progressive Web Apps &lpar;PWAs&rpar; and their impact on the future of mobile development](https://dev.to/harithdilshan/progressive-web-apps-pwas-and-their-impact-on-the-future-of-mobile-development-a6e)
-- [Dev.to/JS] [How to Bind a JavaScript Datagrid to GraphQL Service](https://dev.to/grapecity/how-to-bind-a-javascript-datagrid-to-graphql-service-1g69)
-- [Dev.to/JS] [Introduction to React and Components](https://dev.to/sammychris/introduction-to-react-and-components-2ma2)
 - [Lifehacker] [These Are the Best Hot Weather Workouts](https://lifehacker.com/these-are-the-best-hot-weather-workouts-1850548683)
 - [Lifehacker] [You Officially Don&#39;t Need Apple Passwords Anymore](https://lifehacker.com/you-officially-dont-need-apple-passwords-anymore-1850564152)
 - [Lifehacker] [Four New Google Chrome Features Coming to Your iPhone](https://lifehacker.com/four-new-google-chrome-features-coming-to-your-iphone-1850564454)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Netflix in July 2023](https://lifehacker.com/whats-new-on-netflix-in-july-2023-1850560304)
 - [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $60](https://lifehacker.com/you-can-get-windows-11-pro-and-microsoft-office-for-60-1850541269)
 - [Lifehacker] [This iPad Stylus Is Almost 60% Off Right Now](https://lifehacker.com/this-ipad-stylus-is-almost-60-off-right-now-1850541261)
-- [Lifehacker] [There&#39;s Finally a Way to Silence Spam Calls on WhatsApp](https://lifehacker.com/theres-finally-a-way-to-silence-spam-calls-on-whatsapp-1850559039)
-- [Lifehacker] [It&#39;s Not a Submarine &lpar;and Why It&#39;s Driven With a Video Game Controller&rpar;](https://lifehacker.com/its-not-a-submarine-and-why-its-driven-with-a-video-ga-1850558253)
-- [Lifehacker] [Hot Days Call for Iced Pickles](https://lifehacker.com/hot-days-call-for-iced-pickles-1850557992)<!-- TECH-POSTS:END -->
+- [Lifehacker] [There&#39;s Finally a Way to Silence Spam Calls on WhatsApp](https://lifehacker.com/theres-finally-a-way-to-silence-spam-calls-on-whatsapp-1850559039)<!-- TECH-POSTS:END -->
 
 ---
 
