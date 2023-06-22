@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cortexi - Ear Drops Results, Price, Benefits And Side Effects?](https://dev.to/cortexifac93513/cortexi-ear-drops-results-price-benefits-and-side-effects-c83)
+- [Dev.to/JS] [Newbie coder  -  3min random gist3](https://dev.to/devsisi/newbie-coder-3min-random-gist3-3a3n)
+- [Dev.to/JS] [Set and Map in JavaScript](https://dev.to/indracit/set-and-map-in-javascript-348k)
 - [Dev.to/JS] [내가 싫어하는 JS/TS 라이브러리들](https://dev.to/composite/naega-silheohaneun-jsts-raibeureorideul-272l)
 - [Dev.to/JS] [Is it neccessary to have virtual reality](https://dev.to/serena_cole2007/is-it-neccessary-to-have-virtual-reality-5a5d)
 - [Dev.to/JS] [Exploring String.prototype.replaceAll&lpar;&rpar;: Simplifying Substring Replacements in JavaScript](https://dev.to/shameerchagani/exploring-stringprototypereplaceall-simplifying-substring-replacements-in-javascript-500e)
@@ -33,11 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Micro-frontend with Module Federations [Part 2] - Create React App](https://dev.to/kevin-uehara/micro-frontend-with-module-federations-part-2-create-react-app-4dg3)
 - [Dev.to/JS] [Best Practices for Creating a Folder and File Structure for a React Application](https://dev.to/wolfflucas/best-practices-for-creating-a-folder-and-file-structure-for-a-react-application-3k1)
 - [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)
-- [Dev.to/JS] [Function: The Savior of Scope. The Story Of Immutability And Declarative.](https://dev.to/tylim88/function-the-savior-of-scope-the-story-of-immutability-and-declarative-25bm)
-- [Dev.to/JS] [The 5 pillars of every HTTP request](https://dev.to/aminnairi/the-5-pillars-of-every-http-request-18ld)
 - [Lifehacker] [Three Ways to Make Your Instant Pot Dishes More Flavorful](https://lifehacker.com/three-ways-to-make-your-instant-pot-dishes-more-flavorf-1850562484)
 - [Lifehacker] [Six Fancy Knife Cuts to Make Your Dishes Look a Little More Grown-Up](https://lifehacker.com/six-fancy-knife-cuts-to-make-your-dishes-look-a-little-1850562457)
-- [Dev.to/JS] [Vue and Input File - Clear File or Select same file](https://dev.to/schirrel/vue-and-input-file-clear-file-or-select-same-file-24do)
 - [Lifehacker] [How to Uneven Floor Tiles Without Ripping Them Out](https://lifehacker.com/how-to-uneven-floor-tiles-without-ripping-them-out-1850560951)
 - [Lifehacker] [Turn a Box of Jiffy Mix Into a Batch of Waffles](https://lifehacker.com/turn-a-box-of-jiffy-mix-into-a-batch-of-waffles-1850561306)
 - [Lifehacker] [The Difference Between a Cover Letter and a Letter of Interest](https://lifehacker.com/the-difference-between-a-cover-letter-and-a-letter-of-i-1850561095)
