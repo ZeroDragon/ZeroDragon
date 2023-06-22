@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [KaziByte Empowering Digital Solutions for a Connected World](https://dev.to/zobaidulofficial/kazibyte-empowering-digital-solutions-for-a-connected-world-3fe4)
+- [Dev.to/JS] [main concept of every HTTP request](https://dev.to/ijunedaslam/main-concept-of-every-http-request-1ikh)
+- [Dev.to/JS] [DSA for Frontend devs](https://dev.to/sadanandpai/dsa-for-frontend-devs-51mp)
 - [Dev.to/JS] [Supercharge Your TypeScript App: Mastering i18next for Type-Safe Translations](https://dev.to/adrai/supercharge-your-typescript-app-mastering-i18next-for-type-safe-translations-2idp)
 - [Dev.to/JS] [Examples of Arrow Functions in JS](https://dev.to/ahrasovic/examples-of-arrow-functions-in-js-15eg)
 - [Dev.to/JS] [Exam Topics Free: Your Secret Weapon for Exam Success](https://dev.to/x9mhlyjj/exam-topics-free-your-secret-weapon-for-exam-success-2p95)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Set and Map in JavaScript](https://dev.to/indracit/set-and-map-in-javascript-348k)
 - [Dev.to/JS] [내가 싫어하는 JS/TS 라이브러리들](https://dev.to/composite/naega-silheohaneun-jsts-raibeureorideul-272l)
 - [Dev.to/JS] [Is it neccessary to have virtual reality](https://dev.to/serena_cole2007/is-it-neccessary-to-have-virtual-reality-5a5d)
-- [Dev.to/JS] [Exploring String.prototype.replaceAll&lpar;&rpar;: Simplifying Substring Replacements in JavaScript](https://dev.to/shameerchagani/exploring-stringprototypereplaceall-simplifying-substring-replacements-in-javascript-500e)
-- [Dev.to/JS] [Is WordPress Relevant in 2023?](https://dev.to/ahmadswalih/is-wordpress-relevant-in-2023-1dlg)
-- [Dev.to/JS] [Clean Code - O básico a se fazer](https://dev.to/raphaelramos/clean-code-o-basico-a-se-fazer-3kec)
 - [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)
 - [Lifehacker] [Three Ways to Make Your Instant Pot Dishes More Flavorful](https://lifehacker.com/three-ways-to-make-your-instant-pot-dishes-more-flavorf-1850562484)
 - [Lifehacker] [Six Fancy Knife Cuts to Make Your Dishes Look a Little More Grown-Up](https://lifehacker.com/six-fancy-knife-cuts-to-make-your-dishes-look-a-little-1850562457)
