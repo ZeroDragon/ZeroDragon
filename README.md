@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Microsoft Is Raising Game Pass Prices &lpar;Here’s How You Can Actually Pay Less&rpar;](https://lifehacker.com/microsoft-is-raising-game-pass-prices-here-s-how-you-c-1850566622)
+- [Dev.to/JS] [What is a simple static website generator](https://dev.to/irishgeoff11/what-is-a-simple-static-website-generator-kdo)
+- [Lifehacker] [Why You Probably Shouldn&#39;t Refinish Your Own Bathtub](https://lifehacker.com/why-you-probably-shouldnt-refinish-your-own-bathtub-1850565888)
+- [Dev.to/JS] [A Beginner&#39;s Guide to the useReducer Hook in React.js](https://dev.to/gaurbprajapati/a-beginners-guide-to-the-usereducer-hook-in-reactjs-5cp6)
+- [Dev.to/JS] [Debugging Javascript applications with Neovim](https://dev.to/miguelcrespo/debugging-javascript-applications-with-neovim-581f)
 - [Lifehacker] [Your Smoothie Bowl Could Use Some Tofu](https://lifehacker.com/your-smoothie-bowl-could-use-some-tofu-1850565558)
 - [Dev.to/JS] [Funciones inmutables en JavaScript](https://dev.to/ulisesserranop/funciones-inmutables-en-javascript-3kb9)
 - [Dev.to/JS] [Infinite Scrolling Website with JavaScript](https://dev.to/maxim_maeder/infinite-scrolling-website-with-javascript-23j1)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Microsoft Office Professional 2021 Is Almost 90% Off Right Now](https://lifehacker.com/microsoft-office-professional-2021-is-almost-90-off-ri-1850560771)
 - [Dev.to/JS] [Fast with fastify](https://dev.to/damirn/fast-with-fastify-1hi8)
 - [Lifehacker] [Use This Workaround to Copy Uncopyable Text on Your iPhone](https://lifehacker.com/use-this-workaround-to-copy-uncopyable-text-on-your-iph-1850559062)
-- [Dev.to/JS] [Creating JavaScript Routes for WordPress Website with Stream CSS Progress Bar](https://dev.to/faridteymouri/creating-javascript-routes-for-wordpress-website-with-stream-css-progress-bar-1cba)
-- [Dev.to/JS] [Google Tag vs. GTM](https://dev.to/the_martechguy/google-tag-vs-gtm-4lgm)
-- [Dev.to/JS] [Mocker makes it easy it to mock a service running inside a cluster and debug](https://dev.to/skyrampmia/mocker-makes-it-easy-it-to-mock-a-service-running-inside-a-cluster-and-debug-4kj1)
 - [Lifehacker] [Update All Your Apple Devices ASAP](https://lifehacker.com/update-all-your-apple-devices-asap-1850565238)
 - [Lifehacker] [Seven Ways to Make Your Old Car Feel New Again](https://lifehacker.com/seven-ways-to-make-your-old-car-feel-new-again-1850565271)
 - [Lifehacker] [&#39;AI Resume Builder&#39; Is on Sale for 90% Off Right Now](https://lifehacker.com/ai-resume-builder-is-on-sale-for-90-off-right-now-1850561760)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Amazon Prime Day Finally Set a Date &lpar;and Has New Benefits&rpar;](https://lifehacker.com/amazon-prime-day-finally-set-a-date-and-has-new-benefi-1850561082)
 - [Lifehacker] [Go Ahead, Sit Down on Your Paddleboard](https://lifehacker.com/go-ahead-sit-down-on-your-paddleboard-1850560718)
 - [Lifehacker] [15 of the Most Common House Styles in the U.S. &lpar;and How to Tell Them Apart&rpar;](https://lifehacker.com/15-of-the-most-common-house-styles-in-the-u-s-and-how-1850560061)
-- [Lifehacker] [Start Optimizing Your Stress](https://lifehacker.com/start-optimizing-your-stress-1850513094)
-- [Lifehacker] [What&#39;s New on Netflix in July 2023](https://lifehacker.com/whats-new-on-netflix-in-july-2023-1850560304)
-- [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $60](https://lifehacker.com/you-can-get-windows-11-pro-and-microsoft-office-for-60-1850541269)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Start Optimizing Your Stress](https://lifehacker.com/start-optimizing-your-stress-1850513094)<!-- TECH-POSTS:END -->
 
 ---
 
