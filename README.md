@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Smoothie Bowl Could Use Some Tofu](https://lifehacker.com/your-smoothie-bowl-could-use-some-tofu-1850565558)
+- [Dev.to/JS] [Funciones inmutables en JavaScript](https://dev.to/ulisesserranop/funciones-inmutables-en-javascript-3kb9)
+- [Dev.to/JS] [Infinite Scrolling Website with JavaScript](https://dev.to/maxim_maeder/infinite-scrolling-website-with-javascript-23j1)
+- [Dev.to/JS] [Episode 23/24: Angular 16, RFCs for Deferred Loading and built-in Control-Flow](https://dev.to/this-is-angular/episode-2324-angular-16-rfcs-for-deferred-loading-and-built-in-control-flow-5g3h)
+- [Lifehacker] [Five of the Biggest Sex Myths Spreading on TikTok](https://lifehacker.com/five-of-the-biggest-sex-myths-spreading-on-tiktok-1850563098)
+- [Dev.to/JS] [Static website forms](https://dev.to/irishgeoff11/static-website-forms-enm)
+- [Dev.to/JS] [Fabform.io form backend service](https://dev.to/irishgeoff11/fabformio-form-backend-service-11el)
+- [Dev.to/JS] [How to Create a Kick-Ass GitHub Profile in 5 Minutes](https://dev.to/mohammadfaisal/how-to-create-a-kick-ass-github-profile-in-5-minutes-oag)
 - [Lifehacker] [How to Not Raise a &#39;Glass Child&#39;](https://lifehacker.com/how-to-not-raise-a-glass-child-1850563298)
 - [Dev.to/JS] [Next Js 13.4 Version &amp; Auth With App Router](https://dev.to/developerarif55/next-js-134-version-auth-with-app-router-1j93)
 - [Dev.to/JS] [Lib js para State agnóstica a Framework](https://dev.to/casewinter/lib-js-para-state-agonistica-a-framework-4ipd)
@@ -33,14 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Google Tag vs. GTM](https://dev.to/the_martechguy/google-tag-vs-gtm-4lgm)
 - [Dev.to/JS] [Mocker makes it easy it to mock a service running inside a cluster and debug](https://dev.to/skyrampmia/mocker-makes-it-easy-it-to-mock-a-service-running-inside-a-cluster-and-debug-4kj1)
 - [Lifehacker] [Update All Your Apple Devices ASAP](https://lifehacker.com/update-all-your-apple-devices-asap-1850565238)
-- [Dev.to/JS] [Just completed the JavaScript Scrimba course](https://dev.to/calumscott/just-completed-the-javascript-scrimba-course-5f4e)
-- [Dev.to/JS] [How to Sign PDF Documents in JavaScript Using a Client-Side API](https://dev.to/grapecity/how-to-sign-pdf-documents-in-javascript-using-a-client-side-api-501a)
 - [Lifehacker] [Seven Ways to Make Your Old Car Feel New Again](https://lifehacker.com/seven-ways-to-make-your-old-car-feel-new-again-1850565271)
-- [Dev.to/JS] [I need help in my react ecommorce project](https://dev.to/muhammedalaa1/i-want-help-in-my-react-ecommorce-project-2ngc)
-- [Dev.to/JS] [What is BitWise Operator?](https://dev.to/elgouhry/what-is-bitwise-operator-o07)
 - [Lifehacker] [&#39;AI Resume Builder&#39; Is on Sale for 90% Off Right Now](https://lifehacker.com/ai-resume-builder-is-on-sale-for-90-off-right-now-1850561760)
-- [Dev.to/JS] [How To Check Against Custom Types In TypeScript](https://dev.to/onurcankaya/how-to-check-against-custom-types-in-typescript-hh2)
-- [Dev.to/JS] [Line Chart with Svelte](https://dev.to/maxim_maeder/line-chart-with-svelte-1a6m)
 - [Lifehacker] [These Are the Best Hot Weather Workouts](https://lifehacker.com/these-are-the-best-hot-weather-workouts-1850548683)
 - [Lifehacker] [You Officially Don&#39;t Need Apple Passwords Anymore](https://lifehacker.com/you-officially-dont-need-apple-passwords-anymore-1850564152)
 - [Lifehacker] [Four New Google Chrome Features Coming to Your iPhone](https://lifehacker.com/four-new-google-chrome-features-coming-to-your-iphone-1850564454)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 of the Most Common House Styles in the U.S. &lpar;and How to Tell Them Apart&rpar;](https://lifehacker.com/15-of-the-most-common-house-styles-in-the-u-s-and-how-1850560061)
 - [Lifehacker] [Start Optimizing Your Stress](https://lifehacker.com/start-optimizing-your-stress-1850513094)
 - [Lifehacker] [What&#39;s New on Netflix in July 2023](https://lifehacker.com/whats-new-on-netflix-in-july-2023-1850560304)
-- [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $60](https://lifehacker.com/you-can-get-windows-11-pro-and-microsoft-office-for-60-1850541269)
-- [Lifehacker] [This iPad Stylus Is Almost 60% Off Right Now](https://lifehacker.com/this-ipad-stylus-is-almost-60-off-right-now-1850541261)
-- [Lifehacker] [There&#39;s Finally a Way to Silence Spam Calls on WhatsApp](https://lifehacker.com/theres-finally-a-way-to-silence-spam-calls-on-whatsapp-1850559039)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Windows 11 Pro and Microsoft Office for $60](https://lifehacker.com/you-can-get-windows-11-pro-and-microsoft-office-for-60-1850541269)<!-- TECH-POSTS:END -->
 
 ---
 
