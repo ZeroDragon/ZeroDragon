@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [내가 싫어하는 JS/TS 라이브러리들](https://dev.to/composite/naega-silheohaneun-jsts-raibeureorideul-272l)
+- [Dev.to/JS] [Is it neccessary to have virtual reality](https://dev.to/serena_cole2007/is-it-neccessary-to-have-virtual-reality-5a5d)
 - [Dev.to/JS] [Exploring String.prototype.replaceAll&lpar;&rpar;: Simplifying Substring Replacements in JavaScript](https://dev.to/shameerchagani/exploring-stringprototypereplaceall-simplifying-substring-replacements-in-javascript-500e)
 - [Dev.to/JS] [Is WordPress Relevant in 2023?](https://dev.to/ahmadswalih/is-wordpress-relevant-in-2023-1dlg)
 - [Dev.to/JS] [Clean Code - O básico a se fazer](https://dev.to/raphaelramos/clean-code-o-basico-a-se-fazer-3kec)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Ways to Make Your Instant Pot Dishes More Flavorful](https://lifehacker.com/three-ways-to-make-your-instant-pot-dishes-more-flavorf-1850562484)
 - [Lifehacker] [Six Fancy Knife Cuts to Make Your Dishes Look a Little More Grown-Up](https://lifehacker.com/six-fancy-knife-cuts-to-make-your-dishes-look-a-little-1850562457)
 - [Dev.to/JS] [Vue and Input File - Clear File or Select same file](https://dev.to/schirrel/vue-and-input-file-clear-file-or-select-same-file-24do)
-- [Dev.to/JS] [Why it&#39;s always worth to optimize website performance](https://dev.to/piotrgrzywa/why-its-always-worth-to-optimize-website-performance-3blm)
 - [Lifehacker] [How to Uneven Floor Tiles Without Ripping Them Out](https://lifehacker.com/how-to-uneven-floor-tiles-without-ripping-them-out-1850560951)
-- [Dev.to/JS] [Why am I posting to Dev now? Hackathon!](https://dev.to/builditdeploy/why-am-i-posting-to-dev-now-hackathon-1p8h)
 - [Lifehacker] [Turn a Box of Jiffy Mix Into a Batch of Waffles](https://lifehacker.com/turn-a-box-of-jiffy-mix-into-a-batch-of-waffles-1850561306)
 - [Lifehacker] [The Difference Between a Cover Letter and a Letter of Interest](https://lifehacker.com/the-difference-between-a-cover-letter-and-a-letter-of-i-1850561095)
 - [Lifehacker] [Use the 16 &#39;Career Clusters&#39; to Help Find the Right Job for You](https://lifehacker.com/use-the-16-career-clusters-to-help-find-the-right-job-f-1850560980)
