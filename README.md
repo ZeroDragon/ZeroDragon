@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Am I Switching To Signals In Angular](https://dev.to/krivanek06/why-am-i-switching-to-signals-in-angular-4fo5)
 - [Dev.to/JS] [React Class Component Basics](https://dev.to/indracit/react-class-component-basics-f80)
 - [Dev.to/JS] [How to find Google sheet id?](https://dev.to/irishgeoff11/how-to-find-google-sheet-id-3i18)
 - [Dev.to/JS] [15 FREE Web Development Courses](https://dev.to/aqsa81/15-free-web-development-courses-50dp)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [KaziByte Empowering Digital Solutions for a Connected World](https://dev.to/zobaidulofficial/kazibyte-empowering-digital-solutions-for-a-connected-world-3fe4)
 - [Dev.to/JS] [main concept of every HTTP request](https://dev.to/ijunedaslam/main-concept-of-every-http-request-1ikh)
 - [Dev.to/JS] [DSA for Frontend devs](https://dev.to/sadanandpai/dsa-for-frontend-devs-51mp)
-- [Dev.to/JS] [Supercharge Your TypeScript App: Mastering i18next for Type-Safe Translations](https://dev.to/adrai/supercharge-your-typescript-app-mastering-i18next-for-type-safe-translations-2idp)
 - [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)
 - [Lifehacker] [Three Ways to Make Your Instant Pot Dishes More Flavorful](https://lifehacker.com/three-ways-to-make-your-instant-pot-dishes-more-flavorf-1850562484)
 - [Lifehacker] [Six Fancy Knife Cuts to Make Your Dishes Look a Little More Grown-Up](https://lifehacker.com/six-fancy-knife-cuts-to-make-your-dishes-look-a-little-1850562457)
