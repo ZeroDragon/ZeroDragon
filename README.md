@@ -23,20 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Four New Google Chrome Features Coming to Your iPhone](https://lifehacker.com/four-new-google-chrome-features-coming-to-your-iphone-1850564454)
+- [Dev.to/JS] [Securely Managing Digital Assets: A Guide to Wallets &amp; Custody with QuickNode](https://dev.to/devsuite/securely-managing-digital-assets-a-guide-to-wallets-custody-with-quicknode-1hil)
+- [Dev.to/JS] [Code effortlessly with just Snippet](https://dev.to/aiforme/code-effortlessly-with-just-snippet-2b7f)
+- [Lifehacker] [NatureID Is on Sale for 75% Off Right Now](https://lifehacker.com/natureid-is-on-sale-for-75-off-right-now-1850562189)
+- [Dev.to/JS] [Implementing Flexible Authorization in RedwoodJS Projects](https://dev.to/zenstack/implementing-flexible-authorization-in-redwoodjs-projects-49j7)
+- [Dev.to/JS] [Рекомендации по разработке прогрессивных веб приложений &lpar;PWA&rpar;](https://dev.to/brotherswar/riekomiendatsii-po-razrabotkie-proghriessivnykh-vieb-prilozhienii-pwa-1fcn)
 - [Lifehacker] [The Four Best Reddit Alternatives](https://lifehacker.com/the-four-best-reddit-alternatives-1850562547)
 - [Dev.to/JS] [Ripple, React shared state with less code...](https://dev.to/amplanetwork/ripple-react-shared-state-with-less-code-15di)
 - [Lifehacker] [What to Do When You Don’t Like Your Kid’s Annoying Friend](https://lifehacker.com/what-to-do-when-you-don-t-like-your-kid-s-annoying-frie-1850560674)
 - [Dev.to/JS] [Odd Even Linked List](https://dev.to/_alkesh26/odd-even-linked-list-564n)
-- [Dev.to/JS] [Building a Unified Design System Language](https://dev.to/maxistahl/building-a-unified-design-system-language-586h)
+- [Dev.to/JS] [Building a Unified Design System Language](https://dev.to/cloudx/building-a-unified-design-system-language-586h)
 - [Dev.to/JS] [Calculating Days in a Month with Timezones in JavaScript](https://dev.to/shivampawar/calculating-days-in-a-month-with-timezones-in-javascript-4ceb)
 - [Dev.to/JS] [Laravel Nova: A Powerful Admin Panel for Laravel Applications](https://dev.to/mukeshram/laravel-nova-a-powerful-admin-panel-for-laravel-applications-2dj1)
 - [Dev.to/JS] [Como Lidar com Vulnerabilidades Comuns de Segurança em Pacotes npm](https://dev.to/jhonyaraujooficial/como-lidar-com-vulnerabilidades-comuns-de-seguranca-em-pacotes-npm-4lo3)
 - [Dev.to/JS] [Why Am I Switching To Signals In Angular?](https://dev.to/krivanek06/why-am-i-switching-to-signals-in-angular-4fo5)
 - [Dev.to/JS] [React Class Component Basics](https://dev.to/indracit/react-class-component-basics-f80)
-- [Dev.to/JS] [How to find Google sheet id?](https://dev.to/irishgeoff11/how-to-find-google-sheet-id-3i18)
-- [Dev.to/JS] [15 FREE Web Development Courses](https://dev.to/aqsa81/15-free-web-development-courses-50dp)
-- [Dev.to/JS] [Demystifying Ninja Code: Unraveling the Secrets of Concise and Efficient JavaScript Programming](https://dev.to/faridteymouri/demystifying-ninja-code-unraveling-the-secrets-of-concise-and-efficient-javascript-programming-3pk0)
-- [Dev.to/JS] [How-to organize your cells for flexibility](https://dev.to/noiremunich/how-to-organize-your-cells-for-flexibility-amj)
 - [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)
 - [Lifehacker] [Three Ways to Make Your Instant Pot Dishes More Flavorful](https://lifehacker.com/three-ways-to-make-your-instant-pot-dishes-more-flavorf-1850562484)
 - [Lifehacker] [Six Fancy Knife Cuts to Make Your Dishes Look a Little More Grown-Up](https://lifehacker.com/six-fancy-knife-cuts-to-make-your-dishes-look-a-little-1850562457)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If You Become a Victim of &#39;Sextortion&#39;](https://lifehacker.com/what-to-do-if-you-become-a-victim-of-sextortion-1850467335)
 - [Lifehacker] [What to Write in a Resignation Letter &lpar;and What Not To&rpar;](https://lifehacker.com/what-to-write-in-a-resignation-letter-and-what-not-to-1850557184)
 - [Lifehacker] [Five of the Best Day Planners for Any Need](https://lifehacker.com/five-of-the-best-day-planners-for-any-need-1850556687)
-- [Lifehacker] [Five Things All First-time Credit Card Holders Need to Know](https://lifehacker.com/five-things-all-first-time-credit-card-holders-need-to-1850556613)
-- [Lifehacker] [&#39;Crip Up the Kitchen&#39; Author Jules Sherred Wants Your Kitchen to Be More Accessible](https://lifehacker.com/crip-up-the-kitchen-author-jules-sherred-wants-your-kit-1850545789)
-- [Lifehacker] [&#39;Natural&#39; Skincare Is a Lie](https://lifehacker.com/natural-skincare-is-a-lie-1850556509)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five Things All First-time Credit Card Holders Need to Know](https://lifehacker.com/five-things-all-first-time-credit-card-holders-need-to-1850556613)<!-- TECH-POSTS:END -->
 
 ---
 
