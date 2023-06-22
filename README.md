@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Why Am I Switching To Signals In Angular](https://dev.to/krivanek06/why-am-i-switching-to-signals-in-angular-4fo5)
+- [Lifehacker] [The Four Best Reddit Alternatives](https://lifehacker.com/the-four-best-reddit-alternatives-1850562547)
+- [Dev.to/JS] [Ripple, React shared state with less code...](https://dev.to/amplanetwork/ripple-react-shared-state-with-less-code-15di)
+- [Lifehacker] [What to Do When You Don’t Like Your Kid’s Annoying Friend](https://lifehacker.com/what-to-do-when-you-don-t-like-your-kid-s-annoying-frie-1850560674)
+- [Dev.to/JS] [Odd Even Linked List](https://dev.to/_alkesh26/odd-even-linked-list-564n)
+- [Dev.to/JS] [Building a Unified Design System Language](https://dev.to/maxistahl/building-a-unified-design-system-language-586h)
+- [Dev.to/JS] [Calculating Days in a Month with Timezones in JavaScript](https://dev.to/shivampawar/calculating-days-in-a-month-with-timezones-in-javascript-4ceb)
+- [Dev.to/JS] [Laravel Nova: A Powerful Admin Panel for Laravel Applications](https://dev.to/mukeshram/laravel-nova-a-powerful-admin-panel-for-laravel-applications-2dj1)
+- [Dev.to/JS] [Como Lidar com Vulnerabilidades Comuns de Segurança em Pacotes npm](https://dev.to/jhonyaraujooficial/como-lidar-com-vulnerabilidades-comuns-de-seguranca-em-pacotes-npm-4lo3)
+- [Dev.to/JS] [Why Am I Switching To Signals In Angular?](https://dev.to/krivanek06/why-am-i-switching-to-signals-in-angular-4fo5)
 - [Dev.to/JS] [React Class Component Basics](https://dev.to/indracit/react-class-component-basics-f80)
 - [Dev.to/JS] [How to find Google sheet id?](https://dev.to/irishgeoff11/how-to-find-google-sheet-id-3i18)
 - [Dev.to/JS] [15 FREE Web Development Courses](https://dev.to/aqsa81/15-free-web-development-courses-50dp)
 - [Dev.to/JS] [Demystifying Ninja Code: Unraveling the Secrets of Concise and Efficient JavaScript Programming](https://dev.to/faridteymouri/demystifying-ninja-code-unraveling-the-secrets-of-concise-and-efficient-javascript-programming-3pk0)
 - [Dev.to/JS] [How-to organize your cells for flexibility](https://dev.to/noiremunich/how-to-organize-your-cells-for-flexibility-amj)
-- [Dev.to/JS] [What&#39;s new in Novu 0.16.0?](https://dev.to/novu/whats-new-in-novu-0160-l5d)
-- [Dev.to/JS] [Unleashing the Power of JavaScript Shorthand Codes: Enhance Productivity and Readability](https://dev.to/faridteymouri/unleashing-the-power-of-javascript-shorthand-codes-enhance-productivity-and-readability-1e32)
-- [Dev.to/JS] [Generate CSR for an SSL certificate in NGINX](https://dev.to/edenallen/generate-csr-for-an-ssl-certificate-in-nginx-4j4f)
-- [Dev.to/JS] [KaziByte Empowering Digital Solutions for a Connected World](https://dev.to/zobaidulofficial/kazibyte-empowering-digital-solutions-for-a-connected-world-3fe4)
-- [Dev.to/JS] [main concept of every HTTP request](https://dev.to/ijunedaslam/main-concept-of-every-http-request-1ikh)
-- [Dev.to/JS] [DSA for Frontend devs](https://dev.to/sadanandpai/dsa-for-frontend-devs-51mp)
 - [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)
 - [Lifehacker] [Three Ways to Make Your Instant Pot Dishes More Flavorful](https://lifehacker.com/three-ways-to-make-your-instant-pot-dishes-more-flavorf-1850562484)
 - [Lifehacker] [Six Fancy Knife Cuts to Make Your Dishes Look a Little More Grown-Up](https://lifehacker.com/six-fancy-knife-cuts-to-make-your-dishes-look-a-little-1850562457)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five of the Best Day Planners for Any Need](https://lifehacker.com/five-of-the-best-day-planners-for-any-need-1850556687)
 - [Lifehacker] [Five Things All First-time Credit Card Holders Need to Know](https://lifehacker.com/five-things-all-first-time-credit-card-holders-need-to-1850556613)
 - [Lifehacker] [&#39;Crip Up the Kitchen&#39; Author Jules Sherred Wants Your Kitchen to Be More Accessible](https://lifehacker.com/crip-up-the-kitchen-author-jules-sherred-wants-your-kit-1850545789)
-- [Lifehacker] [&#39;Natural&#39; Skincare Is a Lie](https://lifehacker.com/natural-skincare-is-a-lie-1850556509)
-- [Lifehacker] [You Can Get This Python and AI Training Course for $40](https://lifehacker.com/you-can-get-this-python-and-ai-training-course-for-40-1850541252)
-- [Lifehacker] [9 Weird Noises Your House Is Making and What They Mean](https://lifehacker.com/9-weird-noises-your-houses-is-making-and-what-they-mean-1850556207)<!-- TECH-POSTS:END -->
+- [Lifehacker] [&#39;Natural&#39; Skincare Is a Lie](https://lifehacker.com/natural-skincare-is-a-lie-1850556509)<!-- TECH-POSTS:END -->
 
 ---
 
