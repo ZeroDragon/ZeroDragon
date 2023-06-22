@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Supercharge Your TypeScript App: Mastering i18next for Type-Safe Translations](https://dev.to/adrai/supercharge-your-typescript-app-mastering-i18next-for-type-safe-translations-2idp)
+- [Dev.to/JS] [Examples of Arrow Functions in JS](https://dev.to/ahrasovic/examples-of-arrow-functions-in-js-15eg)
+- [Dev.to/JS] [Exam Topics Free: Your Secret Weapon for Exam Success](https://dev.to/x9mhlyjj/exam-topics-free-your-secret-weapon-for-exam-success-2p95)
+- [Dev.to/JS] [Symbol in JavaScript](https://dev.to/indracit/symbol-in-javascript-3k5i)
 - [Dev.to/JS] [Cortexi - Ear Drops Results, Price, Benefits And Side Effects?](https://dev.to/cortexifac93513/cortexi-ear-drops-results-price-benefits-and-side-effects-c83)
 - [Dev.to/JS] [Newbie coder  -  3min random gist3](https://dev.to/devsisi/newbie-coder-3min-random-gist3-3a3n)
 - [Dev.to/JS] [Set and Map in JavaScript](https://dev.to/indracit/set-and-map-in-javascript-348k)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring String.prototype.replaceAll&lpar;&rpar;: Simplifying Substring Replacements in JavaScript](https://dev.to/shameerchagani/exploring-stringprototypereplaceall-simplifying-substring-replacements-in-javascript-500e)
 - [Dev.to/JS] [Is WordPress Relevant in 2023?](https://dev.to/ahmadswalih/is-wordpress-relevant-in-2023-1dlg)
 - [Dev.to/JS] [Clean Code - O básico a se fazer](https://dev.to/raphaelramos/clean-code-o-basico-a-se-fazer-3kec)
-- [Dev.to/JS] [nuxt-twemoji](https://dev.to/yizack/nuxt-twemoji-1mhc)
-- [Dev.to/JS] [How to make a rainfall-like the one in Matrix movie?](https://dev.to/alishata128/how-to-make-a-rainfall-like-the-one-in-matrix-movie-2ap1)
-- [Dev.to/JS] [Micro-frontend with Module Federations [Part 2] - Create React App](https://dev.to/kevin-uehara/micro-frontend-with-module-federations-part-2-create-react-app-4dg3)
-- [Dev.to/JS] [Best Practices for Creating a Folder and File Structure for a React Application](https://dev.to/wolfflucas/best-practices-for-creating-a-folder-and-file-structure-for-a-react-application-3k1)
 - [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)
 - [Lifehacker] [Three Ways to Make Your Instant Pot Dishes More Flavorful](https://lifehacker.com/three-ways-to-make-your-instant-pot-dishes-more-flavorf-1850562484)
 - [Lifehacker] [Six Fancy Knife Cuts to Make Your Dishes Look a Little More Grown-Up](https://lifehacker.com/six-fancy-knife-cuts-to-make-your-dishes-look-a-little-1850562457)
