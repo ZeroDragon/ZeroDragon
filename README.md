@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [nuxt-twemoji](https://dev.to/yizack/nuxt-twemoji-1mhc)
 - [Dev.to/JS] [How to make a rainfall-like the one in Matrix movie?](https://dev.to/alishata128/how-to-make-a-rainfall-like-the-one-in-matrix-movie-2ap1)
 - [Dev.to/JS] [Micro-frontend with Module Federations [Part 2] - Create React App](https://dev.to/kevin-uehara/micro-frontend-with-module-federations-part-2-create-react-app-4dg3)
 - [Dev.to/JS] [Best Practices for Creating a Folder and File Structure for a React Application](https://dev.to/wolfflucas/best-practices-for-creating-a-folder-and-file-structure-for-a-react-application-3k1)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Supercharge Your JavaScript Data Manipulation with Array Methods: A Comprehensive Guide](https://dev.to/itsshaikhaj/supercharge-your-javascript-data-manipulation-with-array-methods-a-comprehensive-guide-1392)
 - [Dev.to/JS] [Why you should build the same project in multiple programming languages and frameworks](https://dev.to/geiel/why-you-should-build-the-same-project-in-multiple-programming-languages-and-frameworks-4mk2)
 - [Lifehacker] [Amazon Prime Day Finally Set a Date &lpar;and Has New Benefits&rpar;](https://lifehacker.com/amazon-prime-day-finally-set-a-date-and-has-new-benefi-1850561082)
-- [Dev.to/JS] [The Power of HTML, CSS, and JavaScript: The Building Blocks of the Modern Web](https://dev.to/ritavdas/the-power-of-html-css-and-javascript-the-building-blocks-of-the-modern-web-11o3)
 - [Lifehacker] [Go Ahead, Sit Down on Your Paddleboard](https://lifehacker.com/go-ahead-sit-down-on-your-paddleboard-1850560718)
 - [Lifehacker] [15 of the Most Common House Styles in the U.S. &lpar;and How to Tell Them Apart&rpar;](https://lifehacker.com/15-of-the-most-common-house-styles-in-the-u-s-and-how-1850560061)
 - [Lifehacker] [Start Optimizing Your Stress](https://lifehacker.com/start-optimizing-your-stress-1850513094)
