@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Research with Snyk and Redhunt Labs: Scanning the top 1000 orgs on GitHub](https://dev.to/snyk/research-with-snyk-and-redhunt-labs-scanning-the-top-1000-orgs-on-github-4b8b)
+- [Dev.to/JS] [Vercel forms](https://dev.to/irishgeoff11/vercel-forms-48j9)
 - [Dev.to/JS] [Mastering The Basics Of JavaScript : Creating a Math Quiz Program](https://dev.to/speak2adi/mastering-the-basics-of-javascript-creating-a-math-quiz-program-31cg)
 - [Dev.to/JS] [Don&#39;t use `innerHTML`](https://dev.to/brojenuel/dont-use-innerhtml-4p26)
 - [Dev.to/JS] [Understanding HTTP: Basics for Beginners](https://dev.to/devlawrence/understanding-http-basics-for-beginners-3f28)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is a simple static website generator](https://dev.to/irishgeoff11/what-is-a-simple-static-website-generator-kdo)
 - [Lifehacker] [Why You Probably Shouldn&#39;t Refinish Your Own Bathtub](https://lifehacker.com/why-you-probably-shouldnt-refinish-your-own-bathtub-1850565888)
 - [Dev.to/JS] [A Beginner&#39;s Guide to the useReducer Hook in React.js](https://dev.to/gaurbprajapati/a-beginners-guide-to-the-usereducer-hook-in-reactjs-5cp6)
-- [Dev.to/JS] [Debugging Javascript applications with Neovim](https://dev.to/miguelcrespo/debugging-javascript-applications-with-neovim-581f)
 - [Lifehacker] [Your Smoothie Bowl Could Use Some Tofu](https://lifehacker.com/your-smoothie-bowl-could-use-some-tofu-1850565558)
-- [Dev.to/JS] [Funciones inmutables en JavaScript](https://dev.to/ulisesserranop/funciones-inmutables-en-javascript-3kb9)
 - [Lifehacker] [Five of the Biggest Sex Myths Spreading on TikTok](https://lifehacker.com/five-of-the-biggest-sex-myths-spreading-on-tiktok-1850563098)
 - [Lifehacker] [How to Not Raise a &#39;Glass Child&#39;](https://lifehacker.com/how-to-not-raise-a-glass-child-1850563298)
 - [Lifehacker] [Microsoft Office Professional 2021 Is Almost 90% Off Right Now](https://lifehacker.com/microsoft-office-professional-2021-is-almost-90-off-ri-1850560771)
@@ -56,7 +56,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)
 - [Lifehacker] [Three Ways to Make Your Instant Pot Dishes More Flavorful](https://lifehacker.com/three-ways-to-make-your-instant-pot-dishes-more-flavorf-1850562484)
 - [Lifehacker] [Six Fancy Knife Cuts to Make Your Dishes Look a Little More Grown-Up](https://lifehacker.com/six-fancy-knife-cuts-to-make-your-dishes-look-a-little-1850562457)
-- [Lifehacker] [How to Uneven Floor Tiles Without Ripping Them Out](https://lifehacker.com/how-to-uneven-floor-tiles-without-ripping-them-out-1850560951)
+- [Lifehacker] [How to Fix Uneven Floor Tiles Without Ripping Them Out](https://lifehacker.com/how-to-uneven-floor-tiles-without-ripping-them-out-1850560951)
 - [Lifehacker] [Turn a Box of Jiffy Mix Into a Batch of Waffles](https://lifehacker.com/turn-a-box-of-jiffy-mix-into-a-batch-of-waffles-1850561306)
 - [Lifehacker] [The Difference Between a Cover Letter and a Letter of Interest](https://lifehacker.com/the-difference-between-a-cover-letter-and-a-letter-of-i-1850561095)
 - [Lifehacker] [Use the 16 &#39;Career Clusters&#39; to Help Find the Right Job for You](https://lifehacker.com/use-the-16-career-clusters-to-help-find-the-right-job-f-1850560980)
