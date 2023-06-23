@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [That Zoom Settlement Email Is Legit](https://lifehacker.com/that-zoom-settlement-email-is-legit-1850570936)
+- [Dev.to/JS] [Elevate Your Game: Be a Boss-Level Software Engineer with These 12 Skills](https://dev.to/philipcase/elevate-your-game-be-a-boss-level-software-engineer-with-these-12-skills-3nn4)
+- [Lifehacker] [This MBA Training Course Bundle Is 87% Off Right Now](https://lifehacker.com/this-mba-training-course-bundle-is-87-off-right-now-1850560831)
 - [Dev.to/JS] [TypeScript Typing in React Component](https://dev.to/edemagbenyo/typescript-typing-in-react-component-5gfc)
 - [Lifehacker] [You Can Save $20 on Nintendo&#39;s New &#39;Super Mario&#39; Games](https://lifehacker.com/you-can-save-20-on-nintendos-new-super-mario-games-1850569829)
 - [Lifehacker] [You Can Get This Refurbished Lenovo ThinkPad With Microsoft Office for $200](https://lifehacker.com/you-can-get-this-refurbished-lenovo-thinkpad-with-micro-1850561831)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ReactJS, MongoDB, JS, CSS in one shot while building an App](https://dev.to/lovepreetsingh/reactjs-mongodb-js-css-in-one-shot-while-building-an-app-3f43)
 - [Dev.to/JS] [Creating A Stepper Component with `useState`](https://dev.to/ritabradley_dev/creating-a-stepper-component-with-usestate-270j)
 - [Lifehacker] [This Two-Ingredient Strawberry Sambal Salsa Will Knock Your Socks Off](https://lifehacker.com/this-two-ingredient-strawberry-sambal-salsa-will-knock-1850566114)
-- [Dev.to/JS] [Next.js forms](https://dev.to/irishgeoff11/nextjs-forms-jp1)
 - [Lifehacker] [Defy Parkinson’s Law to Be More Productive](https://lifehacker.com/defy-parkinson-s-law-to-be-more-productive-1850565701)
 - [Lifehacker] [The Panzerotti Needs Your Attention, Please](https://lifehacker.com/the-panzerotti-needs-your-attention-please-1850567155)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Titanic Submersible](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-titanic-su-1850566979)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;AI Resume Builder&#39; Is on Sale for 90% Off Right Now](https://lifehacker.com/ai-resume-builder-is-on-sale-for-90-off-right-now-1850561760)
 - [Lifehacker] [These Are the Best Hot Weather Workouts](https://lifehacker.com/these-are-the-best-hot-weather-workouts-1850548683)
 - [Lifehacker] [You Officially Don&#39;t Need Apple Passwords Anymore](https://lifehacker.com/you-officially-dont-need-apple-passwords-anymore-1850564152)
-- [Lifehacker] [Four New Google Chrome Features Coming to Your iPhone](https://lifehacker.com/four-new-google-chrome-features-coming-to-your-iphone-1850564454)
-- [Lifehacker] [NatureID Is on Sale for 75% Off Right Now](https://lifehacker.com/natureid-is-on-sale-for-75-off-right-now-1850562189)
-- [Lifehacker] [The Four Best Reddit Alternatives](https://lifehacker.com/the-four-best-reddit-alternatives-1850562547)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Four New Google Chrome Features Coming to Your iPhone](https://lifehacker.com/four-new-google-chrome-features-coming-to-your-iphone-1850564454)<!-- TECH-POSTS:END -->
 
 ---
 
