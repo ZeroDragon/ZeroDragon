@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript : The fundamentals](https://dev.to/fatmasuliman/javascript-the-fundamentals-55mh)
 - [Dev.to/JS] [Creating a Sunburst Chart in JavaScript](https://dev.to/guest-blogger/creating-a-sunburst-chart-in-javascript-amh)
 - [Dev.to/JS] [Sorting Cses Probleset Within Console/Extension[Tutorial]](https://dev.to/anuragdw45/sort-cses-problems-with-console-2578)
 - [Lifehacker] [These Amazon Fire Kids Tablets Are Up to 50% Off](https://lifehacker.com/these-amazon-fire-kids-tablets-are-up-to-50-off-1850571928)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do These Three Things to Prepare for a Phone Interview With a Recruiter](https://lifehacker.com/do-these-three-things-to-prepare-for-a-phone-interview-1850570995)
 - [Dev.to/JS] [Patrón de diseño Singleton en JavaScript](https://dev.to/ulisesserranop/patron-de-diseno-singleton-en-javascript-3aop)
 - [Lifehacker] [That Zoom Settlement Email Is Legit](https://lifehacker.com/that-zoom-settlement-email-is-legit-1850570936)
-- [Dev.to/JS] [Elevate Your Game: Be a Boss-Level Software Engineer with These 12 Skills](https://dev.to/philipcase/elevate-your-game-be-a-boss-level-software-engineer-with-these-12-skills-3nn4)
 - [Lifehacker] [This MBA Training Course Bundle Is 87% Off Right Now](https://lifehacker.com/this-mba-training-course-bundle-is-87-off-right-now-1850560831)
 - [Lifehacker] [You Can Save $20 on Nintendo&#39;s New &#39;Super Mario&#39; Games](https://lifehacker.com/you-can-save-20-on-nintendos-new-super-mario-games-1850569829)
 - [Lifehacker] [You Can Get This Refurbished Lenovo ThinkPad With Microsoft Office for $200](https://lifehacker.com/you-can-get-this-refurbished-lenovo-thinkpad-with-micro-1850561831)
