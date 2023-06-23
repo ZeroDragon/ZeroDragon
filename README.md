@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Three Things You Should Never Post on LinkedIn](https://lifehacker.com/three-things-you-should-never-post-on-linkedin-1850571589)
+- [Dev.to/JS] [Asynchronous Programming in JavaScript: Handling Tasks Effectively](https://dev.to/prajesheleven/asynchronous-programming-in-javascript-handling-tasks-effectively-3bp)
+- [Lifehacker] [You Can Make This Bananas Foster In Just 10 Minutes](https://lifehacker.com/you-can-make-this-bananas-foster-in-just-10-minutes-1850571395)
+- [Dev.to/JS] [Tutorial on creating a NextJS Application for beginners](https://dev.to/aryan_shourie/tutorial-on-creating-a-nextjs-application-for-beginners-495f)
+- [Dev.to/JS] [THE PRAGMATIC PROGRAMMER](https://dev.to/lucaspalmanew/the-pragmatic-programmer-20h1)
 - [Lifehacker] [Netflix’s ‘You Are Awful’ Online Experience Is Either Deeply Oblivious or Downright Evil](https://lifehacker.com/netflix-s-you-are-awful-online-experience-is-either-d-1850570992)
 - [Dev.to/JS] [Setting up fastify](https://dev.to/damirn/setting-up-fastify-234o)
 - [Dev.to/JS] [Make your share state lib in JS, or copy it](https://dev.to/casewinter/make-your-share-state-lib-in-js-or-copy-it-6ce)
@@ -40,11 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The New, Better Way to Take Screenshots in Chrome’s Incognito Mode on Android](https://lifehacker.com/the-new-better-way-to-take-screenshots-in-chrome-s-inc-1850569345)
 - [Dev.to/JS] [“Timed out” error in React/Redux app test: This is how I found my solution](https://dev.to/mihomihouk/timed-out-error-in-reactredux-app-test-this-is-how-i-found-my-solution-1j9j)
 - [Lifehacker] [The 20 Best Max Shows You Probably Aren’t Watching](https://lifehacker.com/15-hbo-max-originals-you-probably-arent-watching-but-de-1847554849)
-- [Dev.to/JS] [What Next.js Has to Offer React Developers](https://dev.to/honeybadger/what-nextjs-has-to-offer-react-developers-28n8)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: The Titanic Submersible and Blink-182](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-the-titan-1850568227)
-- [Dev.to/JS] [Class Component Lifecycle methods in React](https://dev.to/indracit/class-component-lifecycle-methods-in-react-6in)
 - [Lifehacker] [You Can Clean Your Grungy Landscape Rock](https://lifehacker.com/you-can-clean-your-grungy-landscape-rock-1850568220)
-- [Dev.to/JS] [Endle – Free Responsive Bootstrap 5 Portfolio Template](https://dev.to/recocode/endle-free-responsive-bootstrap-5-portfolio-template-16mc)
 - [Lifehacker] [Stop Making Strawberry Jam and Make Vinegar Instead](https://lifehacker.com/stop-making-strawberry-jam-and-make-vinegar-instead-1850566250)
 - [Lifehacker] [How to Change the Gender on Your Driver&#39;s License](https://lifehacker.com/how-to-change-the-gender-on-your-drivers-license-1850547620)
 - [Lifehacker] [This Two-Ingredient Strawberry Sambal Salsa Will Knock Your Socks Off](https://lifehacker.com/this-two-ingredient-strawberry-sambal-salsa-will-knock-1850566114)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Microsoft Office Professional 2021 Is Almost 90% Off Right Now](https://lifehacker.com/microsoft-office-professional-2021-is-almost-90-off-ri-1850560771)
 - [Lifehacker] [Use This Workaround to Copy Uncopyable Text on Your iPhone](https://lifehacker.com/use-this-workaround-to-copy-uncopyable-text-on-your-iph-1850559062)
 - [Lifehacker] [Update All Your Apple Devices ASAP](https://lifehacker.com/update-all-your-apple-devices-asap-1850565238)
-- [Lifehacker] [Seven Ways to Make Your Old Car Feel New Again](https://lifehacker.com/seven-ways-to-make-your-old-car-feel-new-again-1850565271)
-- [Lifehacker] [&#39;AI Resume Builder&#39; Is on Sale for 90% Off Right Now](https://lifehacker.com/ai-resume-builder-is-on-sale-for-90-off-right-now-1850561760)
-- [Lifehacker] [These Are the Best Hot Weather Workouts](https://lifehacker.com/these-are-the-best-hot-weather-workouts-1850548683)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Seven Ways to Make Your Old Car Feel New Again](https://lifehacker.com/seven-ways-to-make-your-old-car-feel-new-again-1850565271)<!-- TECH-POSTS:END -->
 
 ---
 
