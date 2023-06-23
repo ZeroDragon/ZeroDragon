@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing Eta v3](https://dev.to/nebrelbug/introducing-eta-v3-8m9)
 - [Dev.to/JS] [Research with Snyk and Redhunt Labs: Scanning the top 1000 orgs on GitHub](https://dev.to/snyk/research-with-snyk-and-redhunt-labs-scanning-the-top-1000-orgs-on-github-4b8b)
 - [Dev.to/JS] [Vercel forms](https://dev.to/irishgeoff11/vercel-forms-48j9)
 - [Dev.to/JS] [Mastering The Basics Of JavaScript : Creating a Math Quiz Program](https://dev.to/speak2adi/mastering-the-basics-of-javascript-creating-a-math-quiz-program-31cg)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Microsoft Is Raising Game Pass Prices &lpar;Here’s How You Can Actually Pay Less&rpar;](https://lifehacker.com/microsoft-is-raising-game-pass-prices-here-s-how-you-c-1850566622)
 - [Dev.to/JS] [What is a simple static website generator](https://dev.to/irishgeoff11/what-is-a-simple-static-website-generator-kdo)
 - [Lifehacker] [Why You Probably Shouldn&#39;t Refinish Your Own Bathtub](https://lifehacker.com/why-you-probably-shouldnt-refinish-your-own-bathtub-1850565888)
-- [Dev.to/JS] [A Beginner&#39;s Guide to the useReducer Hook in React.js](https://dev.to/gaurbprajapati/a-beginners-guide-to-the-usereducer-hook-in-reactjs-5cp6)
 - [Lifehacker] [Your Smoothie Bowl Could Use Some Tofu](https://lifehacker.com/your-smoothie-bowl-could-use-some-tofu-1850565558)
 - [Lifehacker] [Five of the Biggest Sex Myths Spreading on TikTok](https://lifehacker.com/five-of-the-biggest-sex-myths-spreading-on-tiktok-1850563098)
 - [Lifehacker] [How to Not Raise a &#39;Glass Child&#39;](https://lifehacker.com/how-to-not-raise-a-glass-child-1850563298)
