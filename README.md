@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [String and Array methods in JavaScript](https://dev.to/indracit/string-and-array-methods-in-javascript-2og)
+- [Dev.to/JS] [DOM vs Virtual DOM: How React is Revolutionizing Web Development](https://dev.to/roktim32/dom-vs-virtual-dom-how-react-is-revolutionizing-web-development-2g6g)
+- [Dev.to/JS] [I invented a CLI tool to organize my typescript projects.](https://dev.to/reggi/i-invented-a-cli-tool-to-organize-my-typescript-projects-1j82)
 - [Dev.to/JS] [AMA - Manfred Steyer on Import Maps for Micro Frontends](https://dev.to/smapiot/ama-manfred-steyer-on-import-maps-for-micro-frontends-1mfo)
 - [Dev.to/JS] [Gitlab pages tutorial](https://dev.to/irishgeoff11/gitlab-pages-tutorial-24i5)
 - [Dev.to/JS] [The Problem of Bloat in Web Development: Do We Really Need Front-End Frameworks?](https://dev.to/williamnogueira/the-problem-of-bloat-in-web-development-do-we-really-need-front-end-frameworks-14ma)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Generator function in JavaScript](https://dev.to/indracit/generator-function-in-javascript-fj9)
 - [Dev.to/JS] [Explain JSON.parse vs JSON.stringify](https://dev.to/getsmartwebsite/explain-jsonparse-vs-jsonstringify-4mda)
 - [Dev.to/JS] [Data Structures Like a Pro: Leveraging Inbuilt JavaScript Methods](https://dev.to/shubhamt619/data-structures-like-a-pro-leveraging-inbuilt-javascript-methods-3l)
-- [Dev.to/JS] [A Plea for Mature Industry!](https://dev.to/_moehab/a-plea-for-mature-industry-476g)
-- [Dev.to/JS] [Pelican tutorial](https://dev.to/irishgeoff11/pelican-tutorial-5hkh)
-- [Dev.to/JS] [Mastering Optimization: Writing the Most Performant JavaScript Code](https://dev.to/shubhamt619/mastering-optimization-writing-the-most-performant-javascript-code-1d62)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Titanic Submersible](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-titanic-su-1850566979)
 - [Lifehacker] [Seven Things You Need to Start Backyard Camping](https://lifehacker.com/seven-things-you-need-to-start-backyard-camping-1850566176)
 - [Lifehacker] [Microsoft Is Raising Game Pass Prices &lpar;Here’s How You Can Actually Pay Less&rpar;](https://lifehacker.com/microsoft-is-raising-game-pass-prices-here-s-how-you-c-1850566622)
