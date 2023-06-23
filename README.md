@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Stop Making Strawberry Jam and Make Vinegar Instead](https://lifehacker.com/stop-making-strawberry-jam-and-make-vinegar-instead-1850566250)
+- [Dev.to/JS] [Accelerate Your Codebase with 100% Test Coverage](https://dev.to/aiforme/accelerate-your-codebase-with-100-test-coverage-nbn)
+- [Lifehacker] [How to Change the Gender on Your Driver&#39;s License](https://lifehacker.com/how-to-change-the-gender-on-your-drivers-license-1850547620)
+- [Dev.to/JS] [ReactJS, MongoDB, JS, CSS in one shot while building an App](https://dev.to/lovepreetsingh/reactjs-mongodb-js-css-in-one-shot-while-building-an-app-3f43)
+- [Dev.to/JS] [Creating A Stepper Component with `useState`](https://dev.to/ritabradley_dev/creating-a-stepper-component-with-usestate-270j)
 - [Lifehacker] [This Two-Ingredient Strawberry Sambal Salsa Will Knock Your Socks Off](https://lifehacker.com/this-two-ingredient-strawberry-sambal-salsa-will-knock-1850566114)
 - [Dev.to/JS] [Next.js forms](https://dev.to/irishgeoff11/nextjs-forms-jp1)
 - [Lifehacker] [Defy Parkinson’s Law to Be More Productive](https://lifehacker.com/defy-parkinson-s-law-to-be-more-productive-1850565701)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Converting JavaScript codebase to TypeScript](https://dev.to/documatic/converting-javascript-codebase-to-typescript-1852)
 - [Dev.to/JS] [How to Get into Technical Writing: How to get Gigs, Jobs and start making money online with Technical Writing](https://dev.to/bravinsimiyu/how-to-get-into-technical-writing-how-to-get-gigs-jobs-and-start-making-money-online-with-technical-writing-1lan)
 - [Dev.to/JS] [Moonly weekly progress update #54 - Karamendos collection](https://dev.to/moonly/moonly-weekly-progress-update-54-karamendos-collection-2ao8)
-- [Dev.to/JS] [How to use named arguments in functions with TypeScript?](https://dev.to/pierre/named-arguments-function-typescript-4n4d)
-- [Dev.to/JS] [Making React-Leaflet work with NextJS](https://dev.to/placekit/making-react-leaflet-work-with-nextjs-493i)
-- [Dev.to/JS] [String and Array methods in JavaScript](https://dev.to/indracit/string-and-array-methods-in-javascript-2og)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Titanic Submersible](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-titanic-su-1850566979)
 - [Lifehacker] [Seven Things You Need to Start Backyard Camping](https://lifehacker.com/seven-things-you-need-to-start-backyard-camping-1850566176)
 - [Lifehacker] [Microsoft Is Raising Game Pass Prices &lpar;Here’s How You Can Actually Pay Less&rpar;](https://lifehacker.com/microsoft-is-raising-game-pass-prices-here-s-how-you-c-1850566622)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Ways to Make Your Instant Pot Dishes More Flavorful](https://lifehacker.com/three-ways-to-make-your-instant-pot-dishes-more-flavorf-1850562484)
 - [Lifehacker] [Six Fancy Knife Cuts to Make Your Dishes Look a Little More Grown-Up](https://lifehacker.com/six-fancy-knife-cuts-to-make-your-dishes-look-a-little-1850562457)
 - [Lifehacker] [How to Fix Uneven Floor Tiles Without Ripping Them Out](https://lifehacker.com/how-to-uneven-floor-tiles-without-ripping-them-out-1850560951)
-- [Lifehacker] [Turn a Box of Jiffy Mix Into a Batch of Waffles](https://lifehacker.com/turn-a-box-of-jiffy-mix-into-a-batch-of-waffles-1850561306)
-- [Lifehacker] [The Difference Between a Cover Letter and a Letter of Interest](https://lifehacker.com/the-difference-between-a-cover-letter-and-a-letter-of-i-1850561095)
-- [Lifehacker] [Use the 16 &#39;Career Clusters&#39; to Help Find the Right Job for You](https://lifehacker.com/use-the-16-career-clusters-to-help-find-the-right-job-f-1850560980)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Turn a Box of Jiffy Mix Into a Batch of Waffles](https://lifehacker.com/turn-a-box-of-jiffy-mix-into-a-batch-of-waffles-1850561306)<!-- TECH-POSTS:END -->
 
 ---
 
