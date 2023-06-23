@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The New, Better Way to Take Screenshots in Chrome’s Incognito Mode on Android](https://lifehacker.com/the-new-better-way-to-take-screenshots-in-chrome-s-inc-1850569345)
+- [Dev.to/JS] [“Timed out” error in React/Redux app test: This is how I found my solution](https://dev.to/mihomihouk/timed-out-error-in-reactredux-app-test-this-is-how-i-found-my-solution-1j9j)
+- [Lifehacker] [The 20 Best Max Shows You Probably Aren’t Watching](https://lifehacker.com/15-hbo-max-originals-you-probably-arent-watching-but-de-1847554849)
+- [Dev.to/JS] [What Next.js Has to Offer React Developers](https://dev.to/honeybadger/what-nextjs-has-to-offer-react-developers-28n8)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: The Titanic Submersible and Blink-182](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-the-titan-1850568227)
 - [Dev.to/JS] [Class Component Lifecycle methods in React](https://dev.to/indracit/class-component-lifecycle-methods-in-react-6in)
 - [Lifehacker] [You Can Clean Your Grungy Landscape Rock](https://lifehacker.com/you-can-clean-your-grungy-landscape-rock-1850568220)
@@ -38,10 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exponentiation in JavaScript: A Beginner’s Guide](https://dev.to/mayallo/exponentiation-in-javascript-a-beginners-guide-3bo9)
 - [Dev.to/JS] [Part 6 : Introduction to JavaScript Objects](https://dev.to/cliff123tech/part-6-introduction-to-javascript-objects-37k7)
 - [Lifehacker] [The Panzerotti Needs Your Attention, Please](https://lifehacker.com/the-panzerotti-needs-your-attention-please-1850567155)
-- [Dev.to/JS] [Quick guide for LangChain Streaming using Express.js](https://dev.to/fibonacid/quick-guide-for-langchain-streaming-via-expressjs-iod)
+- [Dev.to/JS] [Quick guide for LangChain Streaming using Express](https://dev.to/fibonacid/quick-guide-for-langchain-streaming-via-expressjs-iod)
 - [Dev.to/JS] [Building a Full-Stack Web Application: A Comprehensive Guide](https://dev.to/srosama/building-a-full-stack-web-application-a-comprehensive-guide-39pf)
-- [Dev.to/JS] [Nodejs blog](https://dev.to/jlopcun/nodejs-blog-2h99)
-- [Dev.to/JS] [Converting JavaScript codebase to TypeScript](https://dev.to/documatic/converting-javascript-codebase-to-typescript-1852)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Titanic Submersible](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-titanic-su-1850566979)
 - [Lifehacker] [Seven Things You Need to Start Backyard Camping](https://lifehacker.com/seven-things-you-need-to-start-backyard-camping-1850566176)
 - [Lifehacker] [Microsoft Is Raising Game Pass Prices &lpar;Here’s How You Can Actually Pay Less&rpar;](https://lifehacker.com/microsoft-is-raising-game-pass-prices-here-s-how-you-c-1850566622)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [NatureID Is on Sale for 75% Off Right Now](https://lifehacker.com/natureid-is-on-sale-for-75-off-right-now-1850562189)
 - [Lifehacker] [The Four Best Reddit Alternatives](https://lifehacker.com/the-four-best-reddit-alternatives-1850562547)
 - [Lifehacker] [What to Do When You Don’t Like Your Kid’s Annoying Friend](https://lifehacker.com/what-to-do-when-you-don-t-like-your-kid-s-annoying-frie-1850560674)
-- [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)
-- [Lifehacker] [Three Ways to Make Your Instant Pot Dishes More Flavorful](https://lifehacker.com/three-ways-to-make-your-instant-pot-dishes-more-flavorf-1850562484)
-- [Lifehacker] [Six Fancy Knife Cuts to Make Your Dishes Look a Little More Grown-Up](https://lifehacker.com/six-fancy-knife-cuts-to-make-your-dishes-look-a-little-1850562457)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)<!-- TECH-POSTS:END -->
 
 ---
 
