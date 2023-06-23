@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Get into Technical Writing: How to get Gigs, Jobs and start making money online with Technical Writing](https://dev.to/bravinsimiyu/how-to-get-into-technical-writing-how-to-get-gigs-jobs-and-start-making-money-online-with-technical-writing-1lan)
+- [Dev.to/JS] [Moonly weekly progress update #54 - Karamendos collection](https://dev.to/moonly/moonly-weekly-progress-update-54-karamendos-collection-2ao8)
+- [Dev.to/JS] [How to use named arguments in functions with TypeScript?](https://dev.to/pierre/named-arguments-function-typescript-4n4d)
+- [Dev.to/JS] [Making React-Leaflet work with NextJS](https://dev.to/placekit/making-react-leaflet-work-with-nextjs-493i)
 - [Dev.to/JS] [String and Array methods in JavaScript](https://dev.to/indracit/string-and-array-methods-in-javascript-2og)
 - [Dev.to/JS] [DOM vs Virtual DOM: How React is Revolutionizing Web Development](https://dev.to/roktim32/dom-vs-virtual-dom-how-react-is-revolutionizing-web-development-2g6g)
 - [Dev.to/JS] [I invented a CLI tool to organize my typescript projects.](https://dev.to/reggi/i-invented-a-cli-tool-to-organize-my-typescript-projects-1j82)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Problem of Bloat in Web Development: Do We Really Need Front-End Frameworks?](https://dev.to/williamnogueira/the-problem-of-bloat-in-web-development-do-we-really-need-front-end-frameworks-14ma)
 - [Dev.to/JS] [Regular Expression Denial of Service &lpar;ReDoS&rpar;](https://dev.to/hermitex/regular-expression-denial-of-service-redos-4hhp)
 - [Dev.to/JS] [Array Intersection Algorithms Compared](https://dev.to/leejunseng/array-intersection-algorithms-compared-9kk)
-- [Dev.to/JS] [New Features in ES2023](https://dev.to/codecraftjs/new-features-in-es2023-1en2)
-- [Dev.to/JS] [Generator function in JavaScript](https://dev.to/indracit/generator-function-in-javascript-fj9)
-- [Dev.to/JS] [Explain JSON.parse vs JSON.stringify](https://dev.to/getsmartwebsite/explain-jsonparse-vs-jsonstringify-4mda)
-- [Dev.to/JS] [Data Structures Like a Pro: Leveraging Inbuilt JavaScript Methods](https://dev.to/shubhamt619/data-structures-like-a-pro-leveraging-inbuilt-javascript-methods-3l)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Titanic Submersible](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-titanic-su-1850566979)
 - [Lifehacker] [Seven Things You Need to Start Backyard Camping](https://lifehacker.com/seven-things-you-need-to-start-backyard-camping-1850566176)
 - [Lifehacker] [Microsoft Is Raising Game Pass Prices &lpar;Here’s How You Can Actually Pay Less&rpar;](https://lifehacker.com/microsoft-is-raising-game-pass-prices-here-s-how-you-c-1850566622)
