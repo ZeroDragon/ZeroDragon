@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Optimization: Writing the Most Performant JavaScript Code](https://dev.to/shubhamt619/mastering-optimization-writing-the-most-performant-javascript-code-1d62)
+- [Dev.to/JS] [Javascript 【tricky】💡interview output questions &lpar;Part 2&rpar;](https://dev.to/codecraftjs/javascript-tricky-interview-output-questions-part-2-4ogh)
 - [Dev.to/JS] [Introducing Eta v3](https://dev.to/nebrelbug/introducing-eta-v3-8m9)
 - [Dev.to/JS] [Research with Snyk and Redhunt Labs: Scanning the top 1000 orgs on GitHub](https://dev.to/snyk/research-with-snyk-and-redhunt-labs-scanning-the-top-1000-orgs-on-github-4b8b)
 - [Dev.to/JS] [Vercel forms](https://dev.to/irishgeoff11/vercel-forms-48j9)
@@ -34,10 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Beginner&#39;s Guide to Line Detection and Image Transformation with ControlNet](https://dev.to/mikeyoung44/a-beginners-guide-to-line-detection-and-image-transformation-with-controlnet-45gn)
 - [Dev.to/JS] [Implementing BudPay Webhooks with Node.js and Express: A Practical Example](https://dev.to/saint_vandora/implementing-budpay-webhooks-with-nodejs-and-express-a-practical-example-26ln)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Titanic Submersible](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-titanic-su-1850566979)
-- [Dev.to/JS] [Building Graph Database Applications with Apache AGE and Node.js: A Step-by-Step Tutorial](https://dev.to/omarsaad/building-graph-database-applications-with-apache-age-and-nodejs-a-step-by-step-tutorial-33a1)
 - [Lifehacker] [Seven Things You Need to Start Backyard Camping](https://lifehacker.com/seven-things-you-need-to-start-backyard-camping-1850566176)
 - [Lifehacker] [Microsoft Is Raising Game Pass Prices &lpar;Here’s How You Can Actually Pay Less&rpar;](https://lifehacker.com/microsoft-is-raising-game-pass-prices-here-s-how-you-c-1850566622)
-- [Dev.to/JS] [What is a simple static website generator](https://dev.to/irishgeoff11/what-is-a-simple-static-website-generator-kdo)
 - [Lifehacker] [Why You Probably Shouldn&#39;t Refinish Your Own Bathtub](https://lifehacker.com/why-you-probably-shouldnt-refinish-your-own-bathtub-1850565888)
 - [Lifehacker] [Your Smoothie Bowl Could Use Some Tofu](https://lifehacker.com/your-smoothie-bowl-could-use-some-tofu-1850565558)
 - [Lifehacker] [Five of the Biggest Sex Myths Spreading on TikTok](https://lifehacker.com/five-of-the-biggest-sex-myths-spreading-on-tiktok-1850563098)
