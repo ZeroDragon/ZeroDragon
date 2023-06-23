@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: The Titanic Submersible and Blink-182](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-the-titan-1850568227)
+- [Dev.to/JS] [Class Component Lifecycle methods in React](https://dev.to/indracit/class-component-lifecycle-methods-in-react-6in)
+- [Lifehacker] [You Can Clean Your Grungy Landscape Rock](https://lifehacker.com/you-can-clean-your-grungy-landscape-rock-1850568220)
+- [Dev.to/JS] [Endle – Free Responsive Bootstrap 5 Portfolio Template](https://dev.to/recocode/endle-free-responsive-bootstrap-5-portfolio-template-16mc)
 - [Lifehacker] [Stop Making Strawberry Jam and Make Vinegar Instead](https://lifehacker.com/stop-making-strawberry-jam-and-make-vinegar-instead-1850566250)
 - [Dev.to/JS] [Accelerate Your Codebase with 100% Test Coverage](https://dev.to/aiforme/accelerate-your-codebase-with-100-test-coverage-nbn)
 - [Lifehacker] [How to Change the Gender on Your Driver&#39;s License](https://lifehacker.com/how-to-change-the-gender-on-your-drivers-license-1850547620)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Full-Stack Web Application: A Comprehensive Guide](https://dev.to/srosama/building-a-full-stack-web-application-a-comprehensive-guide-39pf)
 - [Dev.to/JS] [Nodejs blog](https://dev.to/jlopcun/nodejs-blog-2h99)
 - [Dev.to/JS] [Converting JavaScript codebase to TypeScript](https://dev.to/documatic/converting-javascript-codebase-to-typescript-1852)
-- [Dev.to/JS] [How to Get into Technical Writing: How to get Gigs, Jobs and start making money online with Technical Writing](https://dev.to/bravinsimiyu/how-to-get-into-technical-writing-how-to-get-gigs-jobs-and-start-making-money-online-with-technical-writing-1lan)
-- [Dev.to/JS] [Moonly weekly progress update #54 - Karamendos collection](https://dev.to/moonly/moonly-weekly-progress-update-54-karamendos-collection-2ao8)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Titanic Submersible](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-titanic-su-1850566979)
 - [Lifehacker] [Seven Things You Need to Start Backyard Camping](https://lifehacker.com/seven-things-you-need-to-start-backyard-camping-1850566176)
 - [Lifehacker] [Microsoft Is Raising Game Pass Prices &lpar;Here’s How You Can Actually Pay Less&rpar;](https://lifehacker.com/microsoft-is-raising-game-pass-prices-here-s-how-you-c-1850566622)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do When You Don’t Like Your Kid’s Annoying Friend](https://lifehacker.com/what-to-do-when-you-don-t-like-your-kid-s-annoying-frie-1850560674)
 - [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)
 - [Lifehacker] [Three Ways to Make Your Instant Pot Dishes More Flavorful](https://lifehacker.com/three-ways-to-make-your-instant-pot-dishes-more-flavorf-1850562484)
-- [Lifehacker] [Six Fancy Knife Cuts to Make Your Dishes Look a Little More Grown-Up](https://lifehacker.com/six-fancy-knife-cuts-to-make-your-dishes-look-a-little-1850562457)
-- [Lifehacker] [How to Fix Uneven Floor Tiles Without Ripping Them Out](https://lifehacker.com/how-to-uneven-floor-tiles-without-ripping-them-out-1850560951)
-- [Lifehacker] [Turn a Box of Jiffy Mix Into a Batch of Waffles](https://lifehacker.com/turn-a-box-of-jiffy-mix-into-a-batch-of-waffles-1850561306)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Six Fancy Knife Cuts to Make Your Dishes Look a Little More Grown-Up](https://lifehacker.com/six-fancy-knife-cuts-to-make-your-dishes-look-a-little-1850562457)<!-- TECH-POSTS:END -->
 
 ---
 
