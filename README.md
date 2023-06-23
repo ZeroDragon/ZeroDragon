@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Array Intersection Algorithms Compared](https://dev.to/leejunseng/array-intersection-algorithms-compared-9kk)
+- [Dev.to/JS] [New Features in ES2023](https://dev.to/codecraftjs/new-features-in-es2023-1en2)
+- [Dev.to/JS] [Generator function in JavaScript](https://dev.to/indracit/generator-function-in-javascript-fj9)
 - [Dev.to/JS] [Explain JSON.parse vs JSON.stringify](https://dev.to/getsmartwebsite/explain-jsonparse-vs-jsonstringify-4mda)
 - [Dev.to/JS] [Data Structures Like a Pro: Leveraging Inbuilt JavaScript Methods](https://dev.to/shubhamt619/data-structures-like-a-pro-leveraging-inbuilt-javascript-methods-3l)
 - [Dev.to/JS] [A Plea for Mature Industry!](https://dev.to/_moehab/a-plea-for-mature-industry-476g)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing Eta v3](https://dev.to/nebrelbug/introducing-eta-v3-8m9)
 - [Dev.to/JS] [Research with Snyk and Redhunt Labs: Scanning the top 1000 orgs on GitHub](https://dev.to/snyk/research-with-snyk-and-redhunt-labs-scanning-the-top-1000-orgs-on-github-4b8b)
 - [Dev.to/JS] [Vercel forms](https://dev.to/irishgeoff11/vercel-forms-48j9)
-- [Dev.to/JS] [Mastering The Basics Of JavaScript : Creating a Math Quiz Program](https://dev.to/speak2adi/mastering-the-basics-of-javascript-creating-a-math-quiz-program-31cg)
-- [Dev.to/JS] [Don&#39;t use `innerHTML`](https://dev.to/brojenuel/dont-use-innerhtml-4p26)
-- [Dev.to/JS] [Understanding HTTP: Basics for Beginners](https://dev.to/devlawrence/understanding-http-basics-for-beginners-3f28)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Titanic Submersible](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-titanic-su-1850566979)
 - [Lifehacker] [Seven Things You Need to Start Backyard Camping](https://lifehacker.com/seven-things-you-need-to-start-backyard-camping-1850566176)
 - [Lifehacker] [Microsoft Is Raising Game Pass Prices &lpar;Here’s How You Can Actually Pay Less&rpar;](https://lifehacker.com/microsoft-is-raising-game-pass-prices-here-s-how-you-c-1850566622)
