@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Explain JSON.parse vs JSON.stringify](https://dev.to/getsmartwebsite/explain-jsonparse-vs-jsonstringify-4mda)
+- [Dev.to/JS] [Data Structures Like a Pro: Leveraging Inbuilt JavaScript Methods](https://dev.to/shubhamt619/data-structures-like-a-pro-leveraging-inbuilt-javascript-methods-3l)
+- [Dev.to/JS] [A Plea for Mature Industry!](https://dev.to/_moehab/a-plea-for-mature-industry-476g)
+- [Dev.to/JS] [Pelican tutorial](https://dev.to/irishgeoff11/pelican-tutorial-5hkh)
 - [Dev.to/JS] [Mastering Optimization: Writing the Most Performant JavaScript Code](https://dev.to/shubhamt619/mastering-optimization-writing-the-most-performant-javascript-code-1d62)
 - [Dev.to/JS] [Javascript 【tricky】💡interview output questions &lpar;Part 2&rpar;](https://dev.to/codecraftjs/javascript-tricky-interview-output-questions-part-2-4ogh)
 - [Dev.to/JS] [Introducing Eta v3](https://dev.to/nebrelbug/introducing-eta-v3-8m9)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering The Basics Of JavaScript : Creating a Math Quiz Program](https://dev.to/speak2adi/mastering-the-basics-of-javascript-creating-a-math-quiz-program-31cg)
 - [Dev.to/JS] [Don&#39;t use `innerHTML`](https://dev.to/brojenuel/dont-use-innerhtml-4p26)
 - [Dev.to/JS] [Understanding HTTP: Basics for Beginners](https://dev.to/devlawrence/understanding-http-basics-for-beginners-3f28)
-- [Dev.to/JS] [Processing for the masses - p5js on steroids](https://dev.to/padcom/processing-for-the-masses-p5js-on-steroids-3h7j)
-- [Dev.to/JS] [How to validate an html form with JavaScript](https://dev.to/ifeolwaisaiah/how-to-validate-an-html-form-with-javascript-55fb)
-- [Dev.to/JS] [A Beginner&#39;s Guide to Line Detection and Image Transformation with ControlNet](https://dev.to/mikeyoung44/a-beginners-guide-to-line-detection-and-image-transformation-with-controlnet-45gn)
-- [Dev.to/JS] [Implementing BudPay Webhooks with Node.js and Express: A Practical Example](https://dev.to/saint_vandora/implementing-budpay-webhooks-with-nodejs-and-express-a-practical-example-26ln)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Titanic Submersible](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-titanic-su-1850566979)
 - [Lifehacker] [Seven Things You Need to Start Backyard Camping](https://lifehacker.com/seven-things-you-need-to-start-backyard-camping-1850566176)
 - [Lifehacker] [Microsoft Is Raising Game Pass Prices &lpar;Here’s How You Can Actually Pay Less&rpar;](https://lifehacker.com/microsoft-is-raising-game-pass-prices-here-s-how-you-c-1850566622)
