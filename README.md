@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a Sunburst Chart in JavaScript](https://dev.to/guest-blogger/creating-a-sunburst-chart-in-javascript-amh)
+- [Dev.to/JS] [Sorting Cses Probleset Within Console/Extension[Tutorial]](https://dev.to/anuragdw45/sort-cses-problems-with-console-2578)
+- [Lifehacker] [These Amazon Fire Kids Tablets Are Up to 50% Off](https://lifehacker.com/these-amazon-fire-kids-tablets-are-up-to-50-off-1850571928)
 - [Dev.to/JS] [RxJS Operators: auditTime](https://dev.to/drownedintech/rxjs-operators-audittime-3ij5)
 - [Dev.to/JS] [Sharing your Tailwind Configuration between Monorepo Packages](https://dev.to/bdbch/sharing-your-tailwind-configuration-between-monorepo-packages-4o5k)
 - [Lifehacker] [What&#39;s New on Max in July 2023](https://lifehacker.com/whats-new-on-max-in-july-2023-1850572037)
@@ -40,10 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [That Zoom Settlement Email Is Legit](https://lifehacker.com/that-zoom-settlement-email-is-legit-1850570936)
 - [Dev.to/JS] [Elevate Your Game: Be a Boss-Level Software Engineer with These 12 Skills](https://dev.to/philipcase/elevate-your-game-be-a-boss-level-software-engineer-with-these-12-skills-3nn4)
 - [Lifehacker] [This MBA Training Course Bundle Is 87% Off Right Now](https://lifehacker.com/this-mba-training-course-bundle-is-87-off-right-now-1850560831)
-- [Dev.to/JS] [TypeScript Typing in React Component](https://dev.to/edemagbenyo/typescript-typing-in-react-component-5gfc)
 - [Lifehacker] [You Can Save $20 on Nintendo&#39;s New &#39;Super Mario&#39; Games](https://lifehacker.com/you-can-save-20-on-nintendos-new-super-mario-games-1850569829)
 - [Lifehacker] [You Can Get This Refurbished Lenovo ThinkPad With Microsoft Office for $200](https://lifehacker.com/you-can-get-this-refurbished-lenovo-thinkpad-with-micro-1850561831)
-- [Dev.to/JS] [Why to write jsx syntax in a .js file](https://dev.to/muhammadmedhat/why-to-write-jsx-syntax-in-a-js-file-g7k)
 - [Lifehacker] [The New, Better Way to Take Screenshots in Chrome’s Incognito Mode on Android](https://lifehacker.com/the-new-better-way-to-take-screenshots-in-chrome-s-inc-1850569345)
 - [Lifehacker] [The 20 Best Max Shows You Probably Aren’t Watching](https://lifehacker.com/15-hbo-max-originals-you-probably-arent-watching-but-de-1847554849)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: The Titanic Submersible and Blink-182](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-the-titan-1850568227)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five of the Biggest Sex Myths Spreading on TikTok](https://lifehacker.com/five-of-the-biggest-sex-myths-spreading-on-tiktok-1850563098)
 - [Lifehacker] [How to Not Raise a &#39;Glass Child&#39;](https://lifehacker.com/how-to-not-raise-a-glass-child-1850563298)
 - [Lifehacker] [Microsoft Office Professional 2021 Is Almost 90% Off Right Now](https://lifehacker.com/microsoft-office-professional-2021-is-almost-90-off-ri-1850560771)
-- [Lifehacker] [Use This Workaround to Copy Uncopyable Text on Your iPhone](https://lifehacker.com/use-this-workaround-to-copy-uncopyable-text-on-your-iph-1850559062)
-- [Lifehacker] [Update All Your Apple Devices ASAP](https://lifehacker.com/update-all-your-apple-devices-asap-1850565238)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use This Workaround to Copy Uncopyable Text on Your iPhone](https://lifehacker.com/use-this-workaround-to-copy-uncopyable-text-on-your-iph-1850559062)<!-- TECH-POSTS:END -->
 
 ---
 
