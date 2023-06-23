@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Two-Ingredient Strawberry Sambal Salsa Will Knock Your Socks Off](https://lifehacker.com/this-two-ingredient-strawberry-sambal-salsa-will-knock-1850566114)
+- [Dev.to/JS] [Next.js forms](https://dev.to/irishgeoff11/nextjs-forms-jp1)
+- [Lifehacker] [Defy Parkinson’s Law to Be More Productive](https://lifehacker.com/defy-parkinson-s-law-to-be-more-productive-1850565701)
+- [Dev.to/JS] [Exponentiation in JavaScript: A Beginner’s Guide](https://dev.to/mayallo/exponentiation-in-javascript-a-beginners-guide-3bo9)
+- [Dev.to/JS] [Part 6 : Introduction to JavaScript Objects](https://dev.to/cliff123tech/part-6-introduction-to-javascript-objects-37k7)
+- [Lifehacker] [The Panzerotti Needs Your Attention, Please](https://lifehacker.com/the-panzerotti-needs-your-attention-please-1850567155)
+- [Dev.to/JS] [Quick guide for LangChain Streaming using Express.js](https://dev.to/fibonacid/quick-guide-for-langchain-streaming-via-expressjs-iod)
 - [Dev.to/JS] [Building a Full-Stack Web Application: A Comprehensive Guide](https://dev.to/srosama/building-a-full-stack-web-application-a-comprehensive-guide-39pf)
 - [Dev.to/JS] [Nodejs blog](https://dev.to/jlopcun/nodejs-blog-2h99)
 - [Dev.to/JS] [Converting JavaScript codebase to TypeScript](https://dev.to/documatic/converting-javascript-codebase-to-typescript-1852)
@@ -31,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use named arguments in functions with TypeScript?](https://dev.to/pierre/named-arguments-function-typescript-4n4d)
 - [Dev.to/JS] [Making React-Leaflet work with NextJS](https://dev.to/placekit/making-react-leaflet-work-with-nextjs-493i)
 - [Dev.to/JS] [String and Array methods in JavaScript](https://dev.to/indracit/string-and-array-methods-in-javascript-2og)
-- [Dev.to/JS] [DOM vs Virtual DOM: How React is Revolutionizing Web Development](https://dev.to/roktim32/dom-vs-virtual-dom-how-react-is-revolutionizing-web-development-2g6g)
-- [Dev.to/JS] [I invented a CLI tool to organize my typescript projects.](https://dev.to/reggi/i-invented-a-cli-tool-to-organize-my-typescript-projects-1j82)
-- [Dev.to/JS] [AMA - Manfred Steyer on Import Maps for Micro Frontends](https://dev.to/smapiot/ama-manfred-steyer-on-import-maps-for-micro-frontends-1mfo)
-- [Dev.to/JS] [Gitlab pages tutorial](https://dev.to/irishgeoff11/gitlab-pages-tutorial-24i5)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Titanic Submersible](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-titanic-su-1850566979)
 - [Lifehacker] [Seven Things You Need to Start Backyard Camping](https://lifehacker.com/seven-things-you-need-to-start-backyard-camping-1850566176)
 - [Lifehacker] [Microsoft Is Raising Game Pass Prices &lpar;Here’s How You Can Actually Pay Less&rpar;](https://lifehacker.com/microsoft-is-raising-game-pass-prices-here-s-how-you-c-1850566622)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fix Uneven Floor Tiles Without Ripping Them Out](https://lifehacker.com/how-to-uneven-floor-tiles-without-ripping-them-out-1850560951)
 - [Lifehacker] [Turn a Box of Jiffy Mix Into a Batch of Waffles](https://lifehacker.com/turn-a-box-of-jiffy-mix-into-a-batch-of-waffles-1850561306)
 - [Lifehacker] [The Difference Between a Cover Letter and a Letter of Interest](https://lifehacker.com/the-difference-between-a-cover-letter-and-a-letter-of-i-1850561095)
-- [Lifehacker] [Use the 16 &#39;Career Clusters&#39; to Help Find the Right Job for You](https://lifehacker.com/use-the-16-career-clusters-to-help-find-the-right-job-f-1850560980)
-- [Lifehacker] [You Should Make Your Own Weed Edibles](https://lifehacker.com/you-should-make-your-own-weed-edibles-1850502051)
-- [Lifehacker] [Amazon Prime Day Finally Set a Date &lpar;and Has New Benefits&rpar;](https://lifehacker.com/amazon-prime-day-finally-set-a-date-and-has-new-benefi-1850561082)
-- [Lifehacker] [Go Ahead, Sit Down on Your Paddleboard](https://lifehacker.com/go-ahead-sit-down-on-your-paddleboard-1850560718)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the 16 &#39;Career Clusters&#39; to Help Find the Right Job for You](https://lifehacker.com/use-the-16-career-clusters-to-help-find-the-right-job-f-1850560980)<!-- TECH-POSTS:END -->
 
 ---
 
