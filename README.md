@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering The Basics Of JavaScript : Creating a Math Quiz Program](https://dev.to/speak2adi/mastering-the-basics-of-javascript-creating-a-math-quiz-program-31cg)
+- [Dev.to/JS] [Don&#39;t use `innerHTML`](https://dev.to/brojenuel/dont-use-innerhtml-4p26)
 - [Dev.to/JS] [Understanding HTTP: Basics for Beginners](https://dev.to/devlawrence/understanding-http-basics-for-beginners-3f28)
 - [Dev.to/JS] [Processing for the masses - p5js on steroids](https://dev.to/padcom/processing-for-the-masses-p5js-on-steroids-3h7j)
 - [Dev.to/JS] [How to validate an html form with JavaScript](https://dev.to/ifeolwaisaiah/how-to-validate-an-html-form-with-javascript-55fb)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Debugging Javascript applications with Neovim](https://dev.to/miguelcrespo/debugging-javascript-applications-with-neovim-581f)
 - [Lifehacker] [Your Smoothie Bowl Could Use Some Tofu](https://lifehacker.com/your-smoothie-bowl-could-use-some-tofu-1850565558)
 - [Dev.to/JS] [Funciones inmutables en JavaScript](https://dev.to/ulisesserranop/funciones-inmutables-en-javascript-3kb9)
-- [Dev.to/JS] [Infinite Scrolling Website with JavaScript](https://dev.to/maxim_maeder/infinite-scrolling-website-with-javascript-23j1)
-- [Dev.to/JS] [Episode 23/24: Angular 16, RFCs for Deferred Loading and built-in Control-Flow](https://dev.to/this-is-angular/episode-2324-angular-16-rfcs-for-deferred-loading-and-built-in-control-flow-5g3h)
 - [Lifehacker] [Five of the Biggest Sex Myths Spreading on TikTok](https://lifehacker.com/five-of-the-biggest-sex-myths-spreading-on-tiktok-1850563098)
 - [Lifehacker] [How to Not Raise a &#39;Glass Child&#39;](https://lifehacker.com/how-to-not-raise-a-glass-child-1850563298)
 - [Lifehacker] [Microsoft Office Professional 2021 Is Almost 90% Off Right Now](https://lifehacker.com/microsoft-office-professional-2021-is-almost-90-off-ri-1850560771)
