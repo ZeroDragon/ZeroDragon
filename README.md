@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducción al Desarrollo Web: Estructura de Archivos y Entorno Local](https://dev.to/nixcko/introduccion-al-desarrollo-web-estructura-de-archivos-y-entorno-local-44h)
 - [Dev.to/JS] [Exponentiation in JavaScript: A Beginner’s Guide](https://dev.to/mayallo/exponentiation-in-javascript-a-beginners-guide-5gdj)
 - [Dev.to/JS] [Episode 01 - How to check the Palindrome in JavaScript](https://dev.to/vigowebs/how-to-check-the-palindrome-in-javascript-20lm)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a mini facebook clone in laravel and ajax](https://dev.to/fullstack124/create-a-mini-facebook-clone-in-laravel-and-ajax-46l8)
 - [Dev.to/JS] [Unlock Your Coding Potential: Learn Scratch Coding and Build Interactive Projects](https://dev.to/reganthapa/unlock-your-coding-potential-learn-scratch-coding-and-build-interactive-projects-44m8)
 - [Dev.to/JS] [Your Enterprise-Ready AI Coding Assistant](https://dev.to/aiforme/your-enterprise-ready-ai-coding-assistant-2ae6)
-- [Dev.to/JS] [Prop Naming Conventions for Vue Components](https://dev.to/fadamakis/prop-naming-conventions-for-vue-components-djg)
 - [Lifehacker] [Avoid These 3 Mistakes When Washing Whites](https://lifehacker.com/avoid-these-3-mistakes-when-washing-whites-1850567563)
 - [Lifehacker] [The Best Food Deals and Freebies This Fourth of July Weekend](https://lifehacker.com/the-best-food-deals-and-freebies-this-fourth-of-july-we-1850567524)
 - [Lifehacker] [These Amazon Fire Kids Tablets Are Up to 50% Off](https://lifehacker.com/these-amazon-fire-kids-tablets-are-up-to-50-off-1850571928)
