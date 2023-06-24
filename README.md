@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Revolutionizing Software Architecture: Exploring the Power of Microservices](https://dev.to/srosama/revolutionizing-software-architecture-exploring-the-power-of-microservices-1i5k)
 - [Dev.to/JS] [Mistakes To Avoid When Displaying Errors On Forms](https://dev.to/gitonga-deus/mistakes-to-avoid-when-displaying-errors-on-forms-4inj)
 - [Dev.to/JS] [JavaScript : The fundamentals](https://dev.to/fatmasuliman/javascript-the-fundamentals-55mh)
 - [Dev.to/JS] [Creating a Sunburst Chart in JavaScript](https://dev.to/guest-blogger/creating-a-sunburst-chart-in-javascript-amh)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Netflix’s ‘You Are Awful’ Online Experience Is Either Deeply Oblivious or Downright Evil](https://lifehacker.com/netflix-s-you-are-awful-online-experience-is-either-d-1850570992)
 - [Dev.to/JS] [Setting up fastify](https://dev.to/damirn/setting-up-fastify-234o)
 - [Lifehacker] [Do These Three Things to Prepare for a Phone Interview With a Recruiter](https://lifehacker.com/do-these-three-things-to-prepare-for-a-phone-interview-1850570995)
-- [Dev.to/JS] [Patrón de diseño Singleton en JavaScript](https://dev.to/ulisesserranop/patron-de-diseno-singleton-en-javascript-3aop)
 - [Lifehacker] [That Zoom Settlement Email Is Legit](https://lifehacker.com/that-zoom-settlement-email-is-legit-1850570936)
 - [Lifehacker] [This MBA Training Course Bundle Is 87% Off Right Now](https://lifehacker.com/this-mba-training-course-bundle-is-87-off-right-now-1850560831)
 - [Lifehacker] [You Can Save $20 on Nintendo&#39;s New &#39;Super Mario&#39; Games](https://lifehacker.com/you-can-save-20-on-nintendos-new-super-mario-games-1850569829)
