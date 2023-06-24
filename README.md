@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to turn images into prompts with the Img2Prompt AI Model: A Step-by-step guide](https://dev.to/mikeyoung44/how-to-turn-images-into-prompts-with-the-img2prompt-ai-model-a-step-by-step-guide-2jio)
+- [Dev.to/JS] [A Complete Guide to Turning Text into Audio with Audio-LDM](https://dev.to/mikeyoung44/a-complete-guide-to-turning-text-into-audio-with-audio-ldm-4nlp)
+- [Dev.to/JS] [🌲Tree Shaking in JavaScript](https://dev.to/ritavdas/tree-shaking-in-javascript-5dk8)
+- [Dev.to/JS] [How to save form data to Google sheets](https://dev.to/irishgeoff11/how-to-save-form-data-to-google-sheets-1f0e)
 - [Dev.to/JS] [Introducción al Desarrollo Web: Estructura de Archivos y Entorno Local](https://dev.to/nixcko/introduccion-al-desarrollo-web-estructura-de-archivos-y-entorno-local-44h)
 - [Dev.to/JS] [Exponentiation in JavaScript: A Beginner’s Guide](https://dev.to/mayallo/exponentiation-in-javascript-a-beginners-guide-5gdj)
 - [Dev.to/JS] [Episode 01 - How to check the Palindrome in JavaScript](https://dev.to/vigowebs/how-to-check-the-palindrome-in-javascript-20lm)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [zustand 源码解析](https://dev.to/chenyuannew/zustand-yuan-ma-jie-xi-4icd)
 - [Lifehacker] [The Best U.S. Cities for Renters in 2023](https://lifehacker.com/the-best-u-s-cities-for-renters-in-2023-1850567571)
 - [Dev.to/JS] [Secure your Nodejs REST API By using Rate Limiting](https://dev.to/treasuredev_/rate-limiting-in-nodejs-and-express-56pj)
-- [Dev.to/JS] [How to Implement a Custom Modal with CSS](https://dev.to/adetutu/how-to-implement-a-custom-modal-with-css-ah1)
-- [Dev.to/JS] [Create a mini facebook clone in laravel and ajax](https://dev.to/fullstack124/create-a-mini-facebook-clone-in-laravel-and-ajax-46l8)
-- [Dev.to/JS] [Unlock Your Coding Potential: Learn Scratch Coding and Build Interactive Projects](https://dev.to/reganthapa/unlock-your-coding-potential-learn-scratch-coding-and-build-interactive-projects-44m8)
-- [Dev.to/JS] [Your Enterprise-Ready AI Coding Assistant](https://dev.to/aiforme/your-enterprise-ready-ai-coding-assistant-2ae6)
 - [Lifehacker] [Avoid These 3 Mistakes When Washing Whites](https://lifehacker.com/avoid-these-3-mistakes-when-washing-whites-1850567563)
 - [Lifehacker] [The Best Food Deals and Freebies This Fourth of July Weekend](https://lifehacker.com/the-best-food-deals-and-freebies-this-fourth-of-july-we-1850567524)
 - [Lifehacker] [These Amazon Fire Kids Tablets Are Up to 50% Off](https://lifehacker.com/these-amazon-fire-kids-tablets-are-up-to-50-off-1850571928)
