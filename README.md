@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Abstraction in Software Engineering: Simplifying Complexity for Efficient Solutions](https://dev.to/emeroid/abstraction-in-software-engineering-simplifying-complexity-for-efficient-solutions-30hj)
 - [Dev.to/JS] [Spies and mocking with Node test runner &lpar;node:test&rpar;](https://dev.to/zsevic/spies-and-mocking-with-node-test-runner-nodetest-4l61)
 - [Dev.to/JS] [How to turn images into prompts with the Img2Prompt AI Model: A Step-by-step guide](https://dev.to/mikeyoung44/how-to-turn-images-into-prompts-with-the-img2prompt-ai-model-a-step-by-step-guide-2jio)
 - [Dev.to/JS] [A Complete Guide to Turning Text into Audio with Audio-LDM](https://dev.to/mikeyoung44/a-complete-guide-to-turning-text-into-audio-with-audio-ldm-4nlp)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Complete Guide to Becoming a Web Developer: Part 2](https://dev.to/nerdleveltech/the-complete-guide-to-becoming-a-web-developer-part-2-41kb)
 - [Dev.to/JS] [Why does everyone love Tailwind ?](https://dev.to/ritavdas/why-does-everyone-love-tailwind--4e63)
 - [Dev.to/JS] [Username and Password Validation Using Regex](https://dev.to/fromwentzitcame/username-and-password-validation-using-regex-2175)
-- [Dev.to/JS] [zustand 源码解析](https://dev.to/chenyuannew/zustand-yuan-ma-jie-xi-4icd)
 - [Lifehacker] [The Best U.S. Cities for Renters in 2023](https://lifehacker.com/the-best-u-s-cities-for-renters-in-2023-1850567571)
 - [Lifehacker] [Avoid These 3 Mistakes When Washing Whites](https://lifehacker.com/avoid-these-3-mistakes-when-washing-whites-1850567563)
 - [Lifehacker] [The Best Food Deals and Freebies This Fourth of July Weekend](https://lifehacker.com/the-best-food-deals-and-freebies-this-fourth-of-july-we-1850567524)
