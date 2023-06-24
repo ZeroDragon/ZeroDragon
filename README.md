@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Username and Password Validation Using Regex 🔒](https://dev.to/fromwentzitcame/username-and-password-validation-using-regex-2175)
+- [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
+- [Dev.to/JS] [The Complete Guide to Becoming a Web Developer: Part 2](https://dev.to/nerdleveltech/the-complete-guide-to-becoming-a-web-developer-part-2-41kb)
+- [Dev.to/JS] [Why does everyone love Tailwind ?](https://dev.to/ritavdas/why-does-everyone-love-tailwind--4e63)
+- [Dev.to/JS] [Username and Password Validation Using Regex](https://dev.to/fromwentzitcame/username-and-password-validation-using-regex-2175)
 - [Dev.to/JS] [zustand 源码解析](https://dev.to/chenyuannew/zustand-yuan-ma-jie-xi-4icd)
 - [Lifehacker] [The Best U.S. Cities for Renters in 2023](https://lifehacker.com/the-best-u-s-cities-for-renters-in-2023-1850567571)
 - [Dev.to/JS] [Secure your Nodejs REST API By using Rate Limiting](https://dev.to/treasuredev_/rate-limiting-in-nodejs-and-express-56pj)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These 3 Mistakes When Washing Whites](https://lifehacker.com/avoid-these-3-mistakes-when-washing-whites-1850567563)
 - [Lifehacker] [The Best Food Deals and Freebies This Fourth of July Weekend](https://lifehacker.com/the-best-food-deals-and-freebies-this-fourth-of-july-we-1850567524)
 - [Dev.to/JS] [how to structure and organize a Python project](https://dev.to/reganthapa/how-to-structure-and-organize-a-python-project-aei)
-- [Dev.to/JS] [React Hooks: A Comprehensive Guide to Managing State and Handling Side Effects 2023](https://dev.to/chideracode/react-hooks-a-comprehensive-guide-to-managing-state-and-handling-side-effects-2023-47mh)
-- [Dev.to/JS] [150+ Questions to Practice JavaScript&#39;s Foundational Concepts](https://dev.to/codeguage/150-questions-to-practice-javascripts-foundational-concepts-1ong)
 - [Lifehacker] [These Amazon Fire Kids Tablets Are Up to 50% Off](https://lifehacker.com/these-amazon-fire-kids-tablets-are-up-to-50-off-1850571928)
 - [Lifehacker] [What&#39;s New on Max in July 2023](https://lifehacker.com/whats-new-on-max-in-july-2023-1850572037)
 - [Lifehacker] [Three Things You Should Never Post on LinkedIn](https://lifehacker.com/three-things-you-should-never-post-on-linkedin-1850571589)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Seven Things You Need to Start Backyard Camping](https://lifehacker.com/seven-things-you-need-to-start-backyard-camping-1850566176)
 - [Lifehacker] [Microsoft Is Raising Game Pass Prices &lpar;Here’s How You Can Actually Pay Less&rpar;](https://lifehacker.com/microsoft-is-raising-game-pass-prices-here-s-how-you-c-1850566622)
 - [Lifehacker] [Why You Probably Shouldn&#39;t Refinish Your Own Bathtub](https://lifehacker.com/why-you-probably-shouldnt-refinish-your-own-bathtub-1850565888)
-- [Lifehacker] [Your Smoothie Bowl Could Use Some Tofu](https://lifehacker.com/your-smoothie-bowl-could-use-some-tofu-1850565558)
-- [Lifehacker] [Five of the Biggest Sex Myths Spreading on TikTok](https://lifehacker.com/five-of-the-biggest-sex-myths-spreading-on-tiktok-1850563098)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Smoothie Bowl Could Use Some Tofu](https://lifehacker.com/your-smoothie-bowl-could-use-some-tofu-1850565558)<!-- TECH-POSTS:END -->
 
 ---
 
