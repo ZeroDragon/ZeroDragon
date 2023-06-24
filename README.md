@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mistakes To Avoid When Displaying Errors On Forms](https://dev.to/gitonga-deus/mistakes-to-avoid-when-displaying-errors-on-forms-4inj)
 - [Dev.to/JS] [JavaScript : The fundamentals](https://dev.to/fatmasuliman/javascript-the-fundamentals-55mh)
 - [Dev.to/JS] [Creating a Sunburst Chart in JavaScript](https://dev.to/guest-blogger/creating-a-sunburst-chart-in-javascript-amh)
 - [Dev.to/JS] [Sorting Cses Probleset Within Console/Extension[Tutorial]](https://dev.to/anuragdw45/sort-cses-problems-with-console-2578)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [THE PRAGMATIC PROGRAMMER](https://dev.to/lucaspalmanew/the-pragmatic-programmer-20h1)
 - [Lifehacker] [Netflix’s ‘You Are Awful’ Online Experience Is Either Deeply Oblivious or Downright Evil](https://lifehacker.com/netflix-s-you-are-awful-online-experience-is-either-d-1850570992)
 - [Dev.to/JS] [Setting up fastify](https://dev.to/damirn/setting-up-fastify-234o)
-- [Dev.to/JS] [Make your share state lib in JS, or copy it](https://dev.to/casewinter/make-your-share-state-lib-in-js-or-copy-it-6ce)
 - [Lifehacker] [Do These Three Things to Prepare for a Phone Interview With a Recruiter](https://lifehacker.com/do-these-three-things-to-prepare-for-a-phone-interview-1850570995)
 - [Dev.to/JS] [Patrón de diseño Singleton en JavaScript](https://dev.to/ulisesserranop/patron-de-diseno-singleton-en-javascript-3aop)
 - [Lifehacker] [That Zoom Settlement Email Is Legit](https://lifehacker.com/that-zoom-settlement-email-is-legit-1850570936)
