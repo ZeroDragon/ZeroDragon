@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exponentiation in JavaScript: A Beginner’s Guide](https://dev.to/mayallo/exponentiation-in-javascript-a-beginners-guide-5gdj)
+- [Dev.to/JS] [Episode 01 - How to check the Palindrome in JavaScript](https://dev.to/vigowebs/how-to-check-the-palindrome-in-javascript-20lm)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
 - [Dev.to/JS] [The Complete Guide to Becoming a Web Developer: Part 2](https://dev.to/nerdleveltech/the-complete-guide-to-becoming-a-web-developer-part-2-41kb)
 - [Dev.to/JS] [Why does everyone love Tailwind ?](https://dev.to/ritavdas/why-does-everyone-love-tailwind--4e63)
@@ -35,10 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlock Your Coding Potential: Learn Scratch Coding and Build Interactive Projects](https://dev.to/reganthapa/unlock-your-coding-potential-learn-scratch-coding-and-build-interactive-projects-44m8)
 - [Dev.to/JS] [Your Enterprise-Ready AI Coding Assistant](https://dev.to/aiforme/your-enterprise-ready-ai-coding-assistant-2ae6)
 - [Dev.to/JS] [Prop Naming Conventions for Vue Components](https://dev.to/fadamakis/prop-naming-conventions-for-vue-components-djg)
-- [Dev.to/JS] [Sarasota&#39;s Premier Photography Services: Expertise That Shines Through Every Frame](https://dev.to/examstudy23/sarasotas-premier-photography-services-expertise-that-shines-through-every-frame-2e2k)
 - [Lifehacker] [Avoid These 3 Mistakes When Washing Whites](https://lifehacker.com/avoid-these-3-mistakes-when-washing-whites-1850567563)
 - [Lifehacker] [The Best Food Deals and Freebies This Fourth of July Weekend](https://lifehacker.com/the-best-food-deals-and-freebies-this-fourth-of-july-we-1850567524)
-- [Dev.to/JS] [how to structure and organize a Python project](https://dev.to/reganthapa/how-to-structure-and-organize-a-python-project-aei)
 - [Lifehacker] [These Amazon Fire Kids Tablets Are Up to 50% Off](https://lifehacker.com/these-amazon-fire-kids-tablets-are-up-to-50-off-1850571928)
 - [Lifehacker] [What&#39;s New on Max in July 2023](https://lifehacker.com/whats-new-on-max-in-july-2023-1850572037)
 - [Lifehacker] [Three Things You Should Never Post on LinkedIn](https://lifehacker.com/three-things-you-should-never-post-on-linkedin-1850571589)
