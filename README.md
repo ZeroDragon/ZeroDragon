@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Username and Password Validation Using Regex 🔒](https://dev.to/fromwentzitcame/username-and-password-validation-using-regex-2175)
+- [Dev.to/JS] [zustand 源码解析](https://dev.to/chenyuannew/zustand-yuan-ma-jie-xi-4icd)
 - [Lifehacker] [The Best U.S. Cities for Renters in 2023](https://lifehacker.com/the-best-u-s-cities-for-renters-in-2023-1850567571)
 - [Dev.to/JS] [Secure your Nodejs REST API By using Rate Limiting](https://dev.to/treasuredev_/rate-limiting-in-nodejs-and-express-56pj)
 - [Dev.to/JS] [How to Implement a Custom Modal with CSS](https://dev.to/adetutu/how-to-implement-a-custom-modal-with-css-ah1)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [how to structure and organize a Python project](https://dev.to/reganthapa/how-to-structure-and-organize-a-python-project-aei)
 - [Dev.to/JS] [React Hooks: A Comprehensive Guide to Managing State and Handling Side Effects 2023](https://dev.to/chideracode/react-hooks-a-comprehensive-guide-to-managing-state-and-handling-side-effects-2023-47mh)
 - [Dev.to/JS] [150+ Questions to Practice JavaScript&#39;s Foundational Concepts](https://dev.to/codeguage/150-questions-to-practice-javascripts-foundational-concepts-1ong)
-- [Dev.to/JS] [bophelo](https://dev.to/nwaargenius/bophelo-48a8)
-- [Dev.to/JS] [Pass Your Exam with Flying Colors: Best Exam Topics Free Available](https://dev.to/examstudy23/pass-your-exam-with-flying-colors-best-exam-topics-free-available-46ne)
 - [Lifehacker] [These Amazon Fire Kids Tablets Are Up to 50% Off](https://lifehacker.com/these-amazon-fire-kids-tablets-are-up-to-50-off-1850571928)
 - [Lifehacker] [What&#39;s New on Max in July 2023](https://lifehacker.com/whats-new-on-max-in-july-2023-1850572037)
 - [Lifehacker] [Three Things You Should Never Post on LinkedIn](https://lifehacker.com/three-things-you-should-never-post-on-linkedin-1850571589)
