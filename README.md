@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best U.S. Cities for Renters in 2023](https://lifehacker.com/the-best-u-s-cities-for-renters-in-2023-1850567571)
+- [Dev.to/JS] [Secure your Nodejs REST API By using Rate Limiting](https://dev.to/treasuredev_/rate-limiting-in-nodejs-and-express-56pj)
 - [Dev.to/JS] [How to Implement a Custom Modal with CSS](https://dev.to/adetutu/how-to-implement-a-custom-modal-with-css-ah1)
 - [Dev.to/JS] [Create a mini facebook clone in laravel and ajax](https://dev.to/fullstack124/create-a-mini-facebook-clone-in-laravel-and-ajax-46l8)
 - [Dev.to/JS] [Unlock Your Coding Potential: Learn Scratch Coding and Build Interactive Projects](https://dev.to/reganthapa/unlock-your-coding-potential-learn-scratch-coding-and-build-interactive-projects-44m8)
@@ -36,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [150+ Questions to Practice JavaScript&#39;s Foundational Concepts](https://dev.to/codeguage/150-questions-to-practice-javascripts-foundational-concepts-1ong)
 - [Dev.to/JS] [bophelo](https://dev.to/nwaargenius/bophelo-48a8)
 - [Dev.to/JS] [Pass Your Exam with Flying Colors: Best Exam Topics Free Available](https://dev.to/examstudy23/pass-your-exam-with-flying-colors-best-exam-topics-free-available-46ne)
-- [Dev.to/JS] [Looking for UI UX Designer &amp; Developers for my Open Source Project .](https://dev.to/itsarraj/looking-for-ui-ux-designer-developers-for-my-open-source-project--4an)
 - [Lifehacker] [These Amazon Fire Kids Tablets Are Up to 50% Off](https://lifehacker.com/these-amazon-fire-kids-tablets-are-up-to-50-off-1850571928)
 - [Lifehacker] [What&#39;s New on Max in July 2023](https://lifehacker.com/whats-new-on-max-in-july-2023-1850572037)
 - [Lifehacker] [Three Things You Should Never Post on LinkedIn](https://lifehacker.com/three-things-you-should-never-post-on-linkedin-1850571589)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Microsoft Is Raising Game Pass Prices &lpar;Here’s How You Can Actually Pay Less&rpar;](https://lifehacker.com/microsoft-is-raising-game-pass-prices-here-s-how-you-c-1850566622)
 - [Lifehacker] [Why You Probably Shouldn&#39;t Refinish Your Own Bathtub](https://lifehacker.com/why-you-probably-shouldnt-refinish-your-own-bathtub-1850565888)
 - [Lifehacker] [Your Smoothie Bowl Could Use Some Tofu](https://lifehacker.com/your-smoothie-bowl-could-use-some-tofu-1850565558)
-- [Lifehacker] [Five of the Biggest Sex Myths Spreading on TikTok](https://lifehacker.com/five-of-the-biggest-sex-myths-spreading-on-tiktok-1850563098)
-- [Lifehacker] [How to Not Raise a &#39;Glass Child&#39;](https://lifehacker.com/how-to-not-raise-a-glass-child-1850563298)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five of the Biggest Sex Myths Spreading on TikTok](https://lifehacker.com/five-of-the-biggest-sex-myths-spreading-on-tiktok-1850563098)<!-- TECH-POSTS:END -->
 
 ---
 
