@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WebSockets 101](https://dev.to/this-is-learning/websockets-101-2mja)
+- [Dev.to/JS] [MJGS Newsletter - The Economics of Catching the AI Wave &lpar;Issue #120&rpar;](https://dev.to/mjgs/mjgs-newsletter-the-economics-of-catching-the-ai-wave-issue-120-2279)
 - [Dev.to/JS] [Non-Expert coder to Achieve Professional-Level APPS](https://dev.to/aiforme/empowering-non-experts-to-achieve-professional-level-outcomes-4816)
 - [Dev.to/JS] [Iniciando no Nestjs](https://dev.to/ejmeri/iniciando-no-nestjs-2if0)
 - [Dev.to/JS] [Make React from scratch for fun](https://dev.to/casewinter/make-react-from-scratch-for-fun-3c16)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sharing your Tailwind Configuration between Monorepo Packages](https://dev.to/bdbch/sharing-your-tailwind-configuration-between-monorepo-packages-4o5k)
 - [Lifehacker] [What&#39;s New on Max in July 2023](https://lifehacker.com/whats-new-on-max-in-july-2023-1850572037)
 - [Lifehacker] [Three Things You Should Never Post on LinkedIn](https://lifehacker.com/three-things-you-should-never-post-on-linkedin-1850571589)
-- [Dev.to/JS] [Creating a newsletter manager with Turso and Qwik](https://dev.to/xinnks/creating-a-newsletter-manager-with-turso-and-qwik-4b1c)
-- [Dev.to/JS] [Asynchronous Programming in JavaScript: Handling Tasks Effectively](https://dev.to/prajesheleven/asynchronous-programming-in-javascript-handling-tasks-effectively-3bp)
 - [Lifehacker] [You Can Make This Bananas Foster In Just 10 Minutes](https://lifehacker.com/you-can-make-this-bananas-foster-in-just-10-minutes-1850571395)
 - [Lifehacker] [Netflix’s ‘You Are Awful’ Online Experience Is Either Deeply Oblivious or Downright Evil](https://lifehacker.com/netflix-s-you-are-awful-online-experience-is-either-d-1850570992)
 - [Lifehacker] [Do These Three Things to Prepare for a Phone Interview With a Recruiter](https://lifehacker.com/do-these-three-things-to-prepare-for-a-phone-interview-1850570995)
