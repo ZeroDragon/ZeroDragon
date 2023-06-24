@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Iniciando no Nestjs](https://dev.to/ejmeri/iniciando-no-nestjs-2if0)
+- [Dev.to/JS] [Make React from scratch for fun](https://dev.to/casewinter/make-react-from-scratch-for-fun-3c16)
 - [Dev.to/JS] [Revolutionizing Software Architecture: Exploring the Power of Microservices](https://dev.to/srosama/revolutionizing-software-architecture-exploring-the-power-of-microservices-1i5k)
 - [Dev.to/JS] [Mistakes To Avoid When Displaying Errors On Forms](https://dev.to/gitonga-deus/mistakes-to-avoid-when-displaying-errors-on-forms-4inj)
 - [Dev.to/JS] [JavaScript : The fundamentals](https://dev.to/fatmasuliman/javascript-the-fundamentals-55mh)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Asynchronous Programming in JavaScript: Handling Tasks Effectively](https://dev.to/prajesheleven/asynchronous-programming-in-javascript-handling-tasks-effectively-3bp)
 - [Lifehacker] [You Can Make This Bananas Foster In Just 10 Minutes](https://lifehacker.com/you-can-make-this-bananas-foster-in-just-10-minutes-1850571395)
 - [Dev.to/JS] [Tutorial on creating a NextJS Application for beginners](https://dev.to/aryan_shourie/tutorial-on-creating-a-nextjs-application-for-beginners-495f)
-- [Dev.to/JS] [THE PRAGMATIC PROGRAMMER](https://dev.to/lucaspalmanew/the-pragmatic-programmer-20h1)
 - [Lifehacker] [Netflix’s ‘You Are Awful’ Online Experience Is Either Deeply Oblivious or Downright Evil](https://lifehacker.com/netflix-s-you-are-awful-online-experience-is-either-d-1850570992)
-- [Dev.to/JS] [Setting up fastify](https://dev.to/damirn/setting-up-fastify-234o)
 - [Lifehacker] [Do These Three Things to Prepare for a Phone Interview With a Recruiter](https://lifehacker.com/do-these-three-things-to-prepare-for-a-phone-interview-1850570995)
 - [Lifehacker] [That Zoom Settlement Email Is Legit](https://lifehacker.com/that-zoom-settlement-email-is-legit-1850570936)
 - [Lifehacker] [This MBA Training Course Bundle Is 87% Off Right Now](https://lifehacker.com/this-mba-training-course-bundle-is-87-off-right-now-1850560831)
