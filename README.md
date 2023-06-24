@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Non-Expert coder to Achieve Professional-Level APPS](https://dev.to/aiforme/empowering-non-experts-to-achieve-professional-level-outcomes-4816)
 - [Dev.to/JS] [Iniciando no Nestjs](https://dev.to/ejmeri/iniciando-no-nestjs-2if0)
 - [Dev.to/JS] [Make React from scratch for fun](https://dev.to/casewinter/make-react-from-scratch-for-fun-3c16)
 - [Dev.to/JS] [Revolutionizing Software Architecture: Exploring the Power of Microservices](https://dev.to/srosama/revolutionizing-software-architecture-exploring-the-power-of-microservices-1i5k)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a newsletter manager with Turso and Qwik](https://dev.to/xinnks/creating-a-newsletter-manager-with-turso-and-qwik-4b1c)
 - [Dev.to/JS] [Asynchronous Programming in JavaScript: Handling Tasks Effectively](https://dev.to/prajesheleven/asynchronous-programming-in-javascript-handling-tasks-effectively-3bp)
 - [Lifehacker] [You Can Make This Bananas Foster In Just 10 Minutes](https://lifehacker.com/you-can-make-this-bananas-foster-in-just-10-minutes-1850571395)
-- [Dev.to/JS] [Tutorial on creating a NextJS Application for beginners](https://dev.to/aryan_shourie/tutorial-on-creating-a-nextjs-application-for-beginners-495f)
 - [Lifehacker] [Netflix’s ‘You Are Awful’ Online Experience Is Either Deeply Oblivious or Downright Evil](https://lifehacker.com/netflix-s-you-are-awful-online-experience-is-either-d-1850570992)
 - [Lifehacker] [Do These Three Things to Prepare for a Phone Interview With a Recruiter](https://lifehacker.com/do-these-three-things-to-prepare-for-a-phone-interview-1850570995)
 - [Lifehacker] [That Zoom Settlement Email Is Legit](https://lifehacker.com/that-zoom-settlement-email-is-legit-1850570936)
