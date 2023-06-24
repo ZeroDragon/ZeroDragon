@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Looking for UI UX Designer &amp; Developers for my Open Source Project .](https://dev.to/itsarraj/looking-for-ui-ux-designer-developers-for-my-open-source-project--4an)
 - [Dev.to/JS] [Campus Route Devlog #1](https://dev.to/whatqm/campus-route-devlog-1-2on0)
 - [Dev.to/JS] [Objects in JavaScript](https://dev.to/indracit/objects-in-javascript-607)
 - [Dev.to/JS] [WebSockets 101](https://dev.to/this-is-learning/websockets-101-2mja)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mistakes To Avoid When Displaying Errors On Forms](https://dev.to/gitonga-deus/mistakes-to-avoid-when-displaying-errors-on-forms-4inj)
 - [Dev.to/JS] [JavaScript : The fundamentals](https://dev.to/fatmasuliman/javascript-the-fundamentals-55mh)
 - [Dev.to/JS] [Creating a Sunburst Chart in JavaScript](https://dev.to/guest-blogger/creating-a-sunburst-chart-in-javascript-amh)
-- [Dev.to/JS] [Sorting Cses Probleset Within Console/Extension[Tutorial]](https://dev.to/anuragdw45/sort-cses-problems-with-console-2578)
 - [Lifehacker] [These Amazon Fire Kids Tablets Are Up to 50% Off](https://lifehacker.com/these-amazon-fire-kids-tablets-are-up-to-50-off-1850571928)
 - [Lifehacker] [What&#39;s New on Max in July 2023](https://lifehacker.com/whats-new-on-max-in-july-2023-1850572037)
 - [Lifehacker] [Three Things You Should Never Post on LinkedIn](https://lifehacker.com/three-things-you-should-never-post-on-linkedin-1850571589)
