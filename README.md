@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Avoid These 3 Mistakes When Washing Whites](https://lifehacker.com/avoid-these-3-mistakes-when-washing-whites-1850567563)
+- [Lifehacker] [The Best Food Deals and Freebies This Fourth of July Weekend](https://lifehacker.com/the-best-food-deals-and-freebies-this-fourth-of-july-we-1850567524)
+- [Dev.to/JS] [how to structure and organize a Python project](https://dev.to/reganthapa/how-to-structure-and-organize-a-python-project-aei)
+- [Dev.to/JS] [React Hooks: A Comprehensive Guide to Managing State and Handling Side Effects 2023](https://dev.to/chideracode/react-hooks-a-comprehensive-guide-to-managing-state-and-handling-side-effects-2023-47mh)
+- [Dev.to/JS] [150+ Questions to Practice JavaScript&#39;s Foundational Concepts](https://dev.to/codeguage/150-questions-to-practice-javascripts-foundational-concepts-1ong)
 - [Dev.to/JS] [bophelo](https://dev.to/nwaargenius/bophelo-48a8)
 - [Dev.to/JS] [Pass Your Exam with Flying Colors: Best Exam Topics Free Available](https://dev.to/examstudy23/pass-your-exam-with-flying-colors-best-exam-topics-free-available-46ne)
 - [Dev.to/JS] [Looking for UI UX Designer &amp; Developers for my Open Source Project .](https://dev.to/itsarraj/looking-for-ui-ux-designer-developers-for-my-open-source-project--4an)
@@ -32,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MJGS Newsletter - The Economics of Catching the AI Wave &lpar;Issue #120&rpar;](https://dev.to/mjgs/mjgs-newsletter-the-economics-of-catching-the-ai-wave-issue-120-2279)
 - [Dev.to/JS] [Non-Expert coder to Achieve Professional-Level APPS](https://dev.to/aiforme/empowering-non-experts-to-achieve-professional-level-outcomes-4816)
 - [Dev.to/JS] [Iniciando no Nestjs](https://dev.to/ejmeri/iniciando-no-nestjs-2if0)
-- [Dev.to/JS] [Make React from scratch for fun](https://dev.to/casewinter/make-react-from-scratch-for-fun-3c16)
-- [Dev.to/JS] [Revolutionizing Software Architecture: Exploring the Power of Microservices](https://dev.to/srosama/revolutionizing-software-architecture-exploring-the-power-of-microservices-1i5k)
-- [Dev.to/JS] [Mistakes To Avoid When Displaying Errors On Forms](https://dev.to/gitonga-deus/mistakes-to-avoid-when-displaying-errors-on-forms-4inj)
 - [Lifehacker] [These Amazon Fire Kids Tablets Are Up to 50% Off](https://lifehacker.com/these-amazon-fire-kids-tablets-are-up-to-50-off-1850571928)
 - [Lifehacker] [What&#39;s New on Max in July 2023](https://lifehacker.com/whats-new-on-max-in-july-2023-1850572037)
 - [Lifehacker] [Three Things You Should Never Post on LinkedIn](https://lifehacker.com/three-things-you-should-never-post-on-linkedin-1850571589)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Probably Shouldn&#39;t Refinish Your Own Bathtub](https://lifehacker.com/why-you-probably-shouldnt-refinish-your-own-bathtub-1850565888)
 - [Lifehacker] [Your Smoothie Bowl Could Use Some Tofu](https://lifehacker.com/your-smoothie-bowl-could-use-some-tofu-1850565558)
 - [Lifehacker] [Five of the Biggest Sex Myths Spreading on TikTok](https://lifehacker.com/five-of-the-biggest-sex-myths-spreading-on-tiktok-1850563098)
-- [Lifehacker] [How to Not Raise a &#39;Glass Child&#39;](https://lifehacker.com/how-to-not-raise-a-glass-child-1850563298)
-- [Lifehacker] [Microsoft Office Professional 2021 Is Almost 90% Off Right Now](https://lifehacker.com/microsoft-office-professional-2021-is-almost-90-off-ri-1850560771)
-- [Lifehacker] [Use This Workaround to Copy Uncopyable Text on Your iPhone](https://lifehacker.com/use-this-workaround-to-copy-uncopyable-text-on-your-iph-1850559062)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Not Raise a &#39;Glass Child&#39;](https://lifehacker.com/how-to-not-raise-a-glass-child-1850563298)<!-- TECH-POSTS:END -->
 
 ---
 
