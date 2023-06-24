@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Implement a Custom Modal with CSS](https://dev.to/adetutu/how-to-implement-a-custom-modal-with-css-ah1)
+- [Dev.to/JS] [Create a mini facebook clone in laravel and ajax](https://dev.to/fullstack124/create-a-mini-facebook-clone-in-laravel-and-ajax-46l8)
+- [Dev.to/JS] [Unlock Your Coding Potential: Learn Scratch Coding and Build Interactive Projects](https://dev.to/reganthapa/unlock-your-coding-potential-learn-scratch-coding-and-build-interactive-projects-44m8)
+- [Dev.to/JS] [Your Enterprise-Ready AI Coding Assistant](https://dev.to/aiforme/your-enterprise-ready-ai-coding-assistant-2ae6)
+- [Dev.to/JS] [Prop Naming Conventions for Vue Components](https://dev.to/fadamakis/prop-naming-conventions-for-vue-components-djg)
+- [Dev.to/JS] [Sarasota&#39;s Premier Photography Services: Expertise That Shines Through Every Frame](https://dev.to/examstudy23/sarasotas-premier-photography-services-expertise-that-shines-through-every-frame-2e2k)
 - [Lifehacker] [Avoid These 3 Mistakes When Washing Whites](https://lifehacker.com/avoid-these-3-mistakes-when-washing-whites-1850567563)
 - [Lifehacker] [The Best Food Deals and Freebies This Fourth of July Weekend](https://lifehacker.com/the-best-food-deals-and-freebies-this-fourth-of-july-we-1850567524)
 - [Dev.to/JS] [how to structure and organize a Python project](https://dev.to/reganthapa/how-to-structure-and-organize-a-python-project-aei)
@@ -31,12 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [bophelo](https://dev.to/nwaargenius/bophelo-48a8)
 - [Dev.to/JS] [Pass Your Exam with Flying Colors: Best Exam Topics Free Available](https://dev.to/examstudy23/pass-your-exam-with-flying-colors-best-exam-topics-free-available-46ne)
 - [Dev.to/JS] [Looking for UI UX Designer &amp; Developers for my Open Source Project .](https://dev.to/itsarraj/looking-for-ui-ux-designer-developers-for-my-open-source-project--4an)
-- [Dev.to/JS] [Campus Route Devlog #1](https://dev.to/whatqm/campus-route-devlog-1-2on0)
-- [Dev.to/JS] [Objects in JavaScript](https://dev.to/indracit/objects-in-javascript-607)
-- [Dev.to/JS] [WebSockets 101](https://dev.to/this-is-learning/websockets-101-2mja)
-- [Dev.to/JS] [MJGS Newsletter - The Economics of Catching the AI Wave &lpar;Issue #120&rpar;](https://dev.to/mjgs/mjgs-newsletter-the-economics-of-catching-the-ai-wave-issue-120-2279)
-- [Dev.to/JS] [Non-Expert coder to Achieve Professional-Level APPS](https://dev.to/aiforme/empowering-non-experts-to-achieve-professional-level-outcomes-4816)
-- [Dev.to/JS] [Iniciando no Nestjs](https://dev.to/ejmeri/iniciando-no-nestjs-2if0)
 - [Lifehacker] [These Amazon Fire Kids Tablets Are Up to 50% Off](https://lifehacker.com/these-amazon-fire-kids-tablets-are-up-to-50-off-1850571928)
 - [Lifehacker] [What&#39;s New on Max in July 2023](https://lifehacker.com/whats-new-on-max-in-july-2023-1850572037)
 - [Lifehacker] [Three Things You Should Never Post on LinkedIn](https://lifehacker.com/three-things-you-should-never-post-on-linkedin-1850571589)
