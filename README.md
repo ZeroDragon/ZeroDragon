@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ESLint and Prettier: Turbocharge Your React and TypeScript Development](https://dev.to/mritunjaysaha/eslint-and-prettier-turbocharge-your-react-and-typescript-development-10ck)
+- [Dev.to/JS] [Ultimate Guide To End-to-End Testing With Cypress](https://dev.to/kailashpathak7/ultimate-guide-to-end-to-end-testing-with-cypress-1n68)
+- [Dev.to/JS] [JavaScript vs. Python: Which Programming Language is Right for You in 2023?](https://dev.to/omprakash2929/javascript-vs-python-which-programming-language-is-right-for-you-in-2023-gec)
 - [Dev.to/JS] [Exploring Component Inheritance in Aventus](https://dev.to/max529/exploring-component-inheritance-in-aventus-3c8b)
 - [Dev.to/JS] [Top 5 Websites You&#39;ll Love as a Developer👨‍💻](https://dev.to/acode123/top-5-websites-youll-love-as-a-developer-5m5)
 - [Dev.to/JS] [Part 7: JavaScript DOM Manipulation: Mastering Dynamic and Interactive Web Pages](https://dev.to/cliff123tech/part-7-javascript-dom-manipulation-mastering-dynamic-and-interactive-web-pages-fon)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building an Impressive Personal Portfolio Website using NEXT.JS and Tailwind CSS](https://dev.to/incoderweb/building-an-impressive-personal-portfolio-website-using-nextjs-and-tailwind-css-3cke)
 - [Dev.to/JS] [Create a simple Font Changer - Elzero Frontend Challenges](https://dev.to/mouatezbenariba/create-a-simple-font-changer-elzero-frontend-challenges-mmi)
 - [Dev.to/JS] [What&#39;s New in Svelte 4: Performance Boosts and Streamlined Development](https://dev.to/this-is-learning/whats-new-in-svelte-4-performance-boosts-and-streamlined-development-42dc)
-- [Dev.to/JS] [Unveiling the Ultimate Code Snippet Website: Your Go-To Source for Efficient Programming Solutions](https://dev.to/jarvissilva/unveiling-the-ultimate-code-snippet-website-your-go-to-source-for-efficient-programming-solutions-6m0)
-- [Dev.to/JS] [Mastering Technical Writing](https://dev.to/irishgeoff11/mastering-technical-writing-2ifk)
-- [Dev.to/JS] [HTML Tutorials: Building Interactive Web Pages with JavaScript #3](https://dev.to/jahirrrr/html-tutorials-building-interactive-web-pages-with-javascript-3-g9j)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
 - [Lifehacker] [The Best U.S. Cities for Renters in 2023](https://lifehacker.com/the-best-u-s-cities-for-renters-in-2023-1850567571)
 - [Lifehacker] [Avoid These 3 Mistakes When Washing Whites](https://lifehacker.com/avoid-these-3-mistakes-when-washing-whites-1850567563)
