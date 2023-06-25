@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ever dreamed of finding the intersecting values between arrays without a third party library?](https://dev.to/melvinvmegen/have-you-ever-dreamed-of-finding-the-intersecting-values-between-arrays-withouth-a-third-party-library-2oc0)
 - [Dev.to/JS] [Removing Elements From An Array](https://dev.to/codethepotato/removing-elements-from-an-array-2im1)
 - [Dev.to/JS] [TypeScript vs JavaScript: Why Should You Learn TypeScript?](https://dev.to/hakimov_dev/typescript-vs-javascript-why-should-you-learn-typescript-1che)
 - [Dev.to/JS] [React Native Payment Gateway - Razorpay](https://dev.to/ajmal_hasan/react-native-payment-gateway-41o6)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [pseudo elements in css](https://dev.to/mohan077/pseudo-elements-in-css-3om7)
 - [Dev.to/JS] [Different methods of API&lpar;Application Program Interface &rpar; in Javasript](https://dev.to/mohan077/different-methods-of-apiapplication-program-interface-in-javasript-49ho)
 - [Dev.to/JS] [Javascript Array Methods](https://dev.to/mohan077/javascript-array-methods-4306)
-- [Dev.to/JS] [Everything you need to know about DOM in Javascript](https://dev.to/mohan077/everything-you-need-to-know-about-dom-in-javascript-53ki)
 - [Lifehacker] [The Easiest Way to Get Rid of the Musty Smell Coming From Your Car&#39;s AC](https://lifehacker.com/the-easiest-way-to-get-rid-of-the-musty-smell-coming-fr-1850567518)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
 - [Lifehacker] [The Best U.S. Cities for Renters in 2023](https://lifehacker.com/the-best-u-s-cities-for-renters-in-2023-1850567571)
