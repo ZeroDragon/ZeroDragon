@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[Typia] I made realtime demo site of 20,000x faster validation &lpar;+200x faster JSON stringify&rpar;](https://dev.to/samchon/typia-i-made-realtime-demo-site-of-20000x-faster-validation-200x-faster-json-stringify-59p9)
+- [Dev.to/JS] [Extracting Class Methods: How To Derive an Interface From a Class](https://dev.to/zirkelc/extracting-class-methods-how-to-derive-an-interface-from-a-class-4co4)
+- [Dev.to/JS] [Are you preparing for a JavaScript interview? 🤔🤔](https://dev.to/attull/are-you-preparing-for-a-javascript-interview-4eih)
+- [Dev.to/JS] [Angular Tutorial](https://dev.to/kiraaziz/angular-tutorial-101k)
+- [Dev.to/JS] [Javascript](https://dev.to/aosorio10/javascript-1k0e)
 - [Dev.to/JS] [Coffee shop website](https://dev.to/raj_mishra/coffee-shop-website-g32)
 - [Dev.to/JS] [ESLint and Prettier: Turbocharge Your React and TypeScript Development](https://dev.to/mritunjaysaha/eslint-and-prettier-turbocharge-your-react-and-typescript-development-10ck)
 - [Dev.to/JS] [Ultimate Guide To End-to-End Testing With Cypress](https://dev.to/kailashpathak7/ultimate-guide-to-end-to-end-testing-with-cypress-1n68)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring Component Inheritance in Aventus](https://dev.to/max529/exploring-component-inheritance-in-aventus-3c8b)
 - [Dev.to/JS] [Top 5 Websites You&#39;ll Love as a Developer👨‍💻](https://dev.to/acode123/top-5-websites-youll-love-as-a-developer-5m5)
 - [Dev.to/JS] [Part 7: JavaScript DOM Manipulation: Mastering Dynamic and Interactive Web Pages](https://dev.to/cliff123tech/part-7-javascript-dom-manipulation-mastering-dynamic-and-interactive-web-pages-fon)
-- [Dev.to/JS] [Beginners series learning Javascript](https://dev.to/mbuguadennis/beginners-series-learning-javascript-33a6)
-- [Dev.to/JS] [SVG vs. Canvas – The Ultimate Graphic Showdown](https://dev.to/uttarasriya/svg-vs-canvas-the-ultimate-graphic-showdown-5f7l)
-- [Dev.to/JS] [AI Rubiks Cube Solver [3*3]](https://dev.to/suhasasumukh/ai-rubiks-cube-solver-33-o5m)
-- [Dev.to/JS] [Building an Impressive Personal Portfolio Website using NEXT.JS and Tailwind CSS](https://dev.to/incoderweb/building-an-impressive-personal-portfolio-website-using-nextjs-and-tailwind-css-3cke)
-- [Dev.to/JS] [Create a simple Font Changer - Elzero Frontend Challenges](https://dev.to/mouatezbenariba/create-a-simple-font-changer-elzero-frontend-challenges-mmi)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
 - [Lifehacker] [The Best U.S. Cities for Renters in 2023](https://lifehacker.com/the-best-u-s-cities-for-renters-in-2023-1850567571)
 - [Lifehacker] [Avoid These 3 Mistakes When Washing Whites](https://lifehacker.com/avoid-these-3-mistakes-when-washing-whites-1850567563)
