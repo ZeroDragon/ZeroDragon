@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unveiling the Ultimate Code Snippet Website: Your Go-To Source for Efficient Programming Solutions](https://dev.to/jarvissilva/unveiling-the-ultimate-code-snippet-website-your-go-to-source-for-efficient-programming-solutions-6m0)
+- [Dev.to/JS] [Mastering Technical Writing](https://dev.to/irishgeoff11/mastering-technical-writing-2ifk)
+- [Dev.to/JS] [HTML Tutorials: Building Interactive Web Pages with JavaScript #3](https://dev.to/jahirrrr/html-tutorials-building-interactive-web-pages-with-javascript-3-g9j)
 - [Dev.to/JS] [Object Prototype in Javascript](https://dev.to/indracit/object-prototype-in-javascript-3gpn)
 - [Dev.to/JS] [Decoding Javascript: The Nullish coalescing operator &#39;??&#39; is awesome!](https://dev.to/itsarijitray/decoding-javascript-the-nullish-coalescing-operator-is-awesome-41e2)
 - [Dev.to/JS] [7 More JavaScript Web APIs to Build Futuristic Websites you didn&#39;t Know 🤯](https://dev.to/ruppysuppy/7-more-javascript-web-apis-to-build-futuristic-websites-you-didnt-know-50bg)
 - [Dev.to/JS] [JavaScript Cheat Sheet: Your Ultimate Guide for Efficient Coding](https://dev.to/rahul3002/javascript-cheat-sheet-your-ultimate-guide-for-efficient-coding-2590)
-- [Dev.to/JS] [Find the closest mark node](https://dev.to/rakesh678219/find-the-closest-mark-node-n3g)
+- [Dev.to/JS] [Find the closest mark node](https://dev.to/rakeshreddy512/find-the-closest-mark-node-n3g)
 - [Dev.to/JS] [NodeJs: Another Dumb Framework](https://dev.to/scofieldidehen/nodejs-another-dumb-framework-46bb)
 - [Dev.to/JS] [How to Implement CSS in Micro Front-End](https://dev.to/scofieldidehen/how-to-implement-css-in-micro-front-end-3hea)
 - [Dev.to/JS] [FS-Routing for nodejs: a low config approach](https://dev.to/rogue_paradigms/fsrouter-for-nodejs-a-low-config-approach-41i)
 - [Dev.to/JS] [How to Use a Local SMS Service Provider Other than Twilio With Customer.io](https://dev.to/debosthefirst/how-to-use-a-local-sms-service-provider-other-than-twilio-with-customerio-bdd)
-- [Dev.to/JS] [Firebase Functions to Build a Serverless CRUD App](https://dev.to/debosthefirst/firebase-functions-to-build-a-serverless-crud-app-34kl)
-- [Dev.to/JS] [Visit my Codepen](https://dev.to/denshell_denejour/visit-my-codepen-14gp)
-- [Dev.to/JS] [Abstraction in Software Engineering: Simplifying Complexity for Efficient Solutions](https://dev.to/emeroid/abstraction-in-software-engineering-simplifying-complexity-for-efficient-solutions-30hj)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
 - [Lifehacker] [The Best U.S. Cities for Renters in 2023](https://lifehacker.com/the-best-u-s-cities-for-renters-in-2023-1850567571)
 - [Lifehacker] [Avoid These 3 Mistakes When Washing Whites](https://lifehacker.com/avoid-these-3-mistakes-when-washing-whites-1850567563)
