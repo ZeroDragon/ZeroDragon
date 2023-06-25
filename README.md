@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Find the closest mark node](https://dev.to/rakesh678219/find-the-closest-mark-node-n3g)
 - [Dev.to/JS] [NodeJs: Another Dumb Framework](https://dev.to/scofieldidehen/nodejs-another-dumb-framework-46bb)
 - [Dev.to/JS] [How to Implement CSS in Micro Front-End](https://dev.to/scofieldidehen/how-to-implement-css-in-micro-front-end-3hea)
 - [Dev.to/JS] [FS-Routing for nodejs: a low config approach](https://dev.to/rogue_paradigms/fsrouter-for-nodejs-a-low-config-approach-41i)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to turn images into prompts with the Img2Prompt AI Model: A Step-by-step guide](https://dev.to/mikeyoung44/how-to-turn-images-into-prompts-with-the-img2prompt-ai-model-a-step-by-step-guide-2jio)
 - [Dev.to/JS] [A Complete Guide to Turning Text into Audio with Audio-LDM](https://dev.to/mikeyoung44/a-complete-guide-to-turning-text-into-audio-with-audio-ldm-4nlp)
 - [Dev.to/JS] [🌲Tree Shaking in JavaScript](https://dev.to/ritavdas/tree-shaking-in-javascript-5dk8)
-- [Dev.to/JS] [How to save form data to Google sheets](https://dev.to/irishgeoff11/how-to-save-form-data-to-google-sheets-1f0e)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
 - [Lifehacker] [The Best U.S. Cities for Renters in 2023](https://lifehacker.com/the-best-u-s-cities-for-renters-in-2023-1850567571)
 - [Lifehacker] [Avoid These 3 Mistakes When Washing Whites](https://lifehacker.com/avoid-these-3-mistakes-when-washing-whites-1850567563)
