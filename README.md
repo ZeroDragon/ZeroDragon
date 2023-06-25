@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Implement CSS in Micro Front-End](https://dev.to/scofieldidehen/how-to-implement-css-in-micro-front-end-3hea)
 - [Dev.to/JS] [FS-Routing for nodejs: a low config approach](https://dev.to/rogue_paradigms/fsrouter-for-nodejs-a-low-config-approach-41i)
 - [Dev.to/JS] [How to Use a Local SMS Service Provider Other than Twilio With Customer.io](https://dev.to/debosthefirst/how-to-use-a-local-sms-service-provider-other-than-twilio-with-customerio-bdd)
 - [Dev.to/JS] [Firebase Functions to Build a Serverless CRUD App](https://dev.to/debosthefirst/firebase-functions-to-build-a-serverless-crud-app-34kl)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🌲Tree Shaking in JavaScript](https://dev.to/ritavdas/tree-shaking-in-javascript-5dk8)
 - [Dev.to/JS] [How to save form data to Google sheets](https://dev.to/irishgeoff11/how-to-save-form-data-to-google-sheets-1f0e)
 - [Dev.to/JS] [Introducción al Desarrollo Web: Estructura de Archivos y Entorno Local](https://dev.to/nixcko/introduccion-al-desarrollo-web-estructura-de-archivos-y-entorno-local-44h)
-- [Dev.to/JS] [Exponentiation in JavaScript: A Beginner’s Guide](https://dev.to/mayallo/exponentiation-in-javascript-a-beginners-guide-5gdj)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
 - [Lifehacker] [The Best U.S. Cities for Renters in 2023](https://lifehacker.com/the-best-u-s-cities-for-renters-in-2023-1850567571)
 - [Lifehacker] [Avoid These 3 Mistakes When Washing Whites](https://lifehacker.com/avoid-these-3-mistakes-when-washing-whites-1850567563)
