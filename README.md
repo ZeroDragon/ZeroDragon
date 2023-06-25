@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Into PWA: Creating an installable Next.Js Application](https://dev.to/chrisachinga/into-pwa-creating-an-installable-nextjs-application-5b9c)
+- [Dev.to/JS] [GitHub Traffic Checker](https://dev.to/rudolfolah/github-traffic-checker-29p9)
+- [Dev.to/JS] [CSS positioning with an example](https://dev.to/mohan077/css-positioning-with-an-example-1mh9)
+- [Lifehacker] [Don&#39;t Make These Gardening Mistakes After a Heavy Rainfall](https://lifehacker.com/dont-make-these-gardening-mistakes-after-a-heavy-rainfa-1850569647)
 - [Dev.to/JS] [pseudo elements in css](https://dev.to/mohan077/pseudo-elements-in-css-3om7)
 - [Dev.to/JS] [Different methods of API&lpar;Application Program Interface &rpar; in Javasript](https://dev.to/mohan077/different-methods-of-apiapplication-program-interface-in-javasript-49ho)
 - [Dev.to/JS] [Javascript Array Methods](https://dev.to/mohan077/javascript-array-methods-4306)
@@ -32,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript vs React](https://dev.to/boucky/javascript-vs-react-23m0)
 - [Dev.to/JS] [Tricks for Github Markdown](https://dev.to/mohan077/tricks-for-github-markdown-2o3a)
 - [Dev.to/JS] [Maximum Gap](https://dev.to/_alkesh26/maximum-gap-3p4)
-- [Dev.to/JS] [TREE SHAKING! IN JAVASCRIPT](https://dev.to/ritavdas/tree-shaking-in-javascript-mb0)
 - [Lifehacker] [The Easiest Way to Get Rid of the Musty Smell Coming From Your Car&#39;s AC](https://lifehacker.com/the-easiest-way-to-get-rid-of-the-musty-smell-coming-fr-1850567518)
-- [Dev.to/JS] [Membangun Portofolio Website dengan Headless CMS Menggunakan Strapi dan Next.js](https://dev.to/initialm503/membangun-portofolio-website-dengan-headless-cms-menggunakan-strapi-dan-nextjs-3b32)
-- [Dev.to/JS] [Array and Object Methods: JavaScript’s Toolkit or Circus Tricks?](https://dev.to/shubhamt619/array-and-object-methods-javascripts-toolkit-or-circus-tricks-4lpl)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
 - [Lifehacker] [The Best U.S. Cities for Renters in 2023](https://lifehacker.com/the-best-u-s-cities-for-renters-in-2023-1850567571)
 - [Lifehacker] [Avoid These 3 Mistakes When Washing Whites](https://lifehacker.com/avoid-these-3-mistakes-when-washing-whites-1850567563)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Panzerotti Needs Your Attention, Please](https://lifehacker.com/the-panzerotti-needs-your-attention-please-1850567155)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Titanic Submersible](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-titanic-su-1850566979)
 - [Lifehacker] [Seven Things You Need to Start Backyard Camping](https://lifehacker.com/seven-things-you-need-to-start-backyard-camping-1850566176)
-- [Lifehacker] [Microsoft Is Raising Game Pass Prices &lpar;Here’s How You Can Actually Pay Less&rpar;](https://lifehacker.com/microsoft-is-raising-game-pass-prices-here-s-how-you-c-1850566622)
-- [Lifehacker] [Why You Probably Shouldn&#39;t Refinish Your Own Bathtub](https://lifehacker.com/why-you-probably-shouldnt-refinish-your-own-bathtub-1850565888)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Microsoft Is Raising Game Pass Prices &lpar;Here’s How You Can Actually Pay Less&rpar;](https://lifehacker.com/microsoft-is-raising-game-pass-prices-here-s-how-you-c-1850566622)<!-- TECH-POSTS:END -->
 
 ---
 
