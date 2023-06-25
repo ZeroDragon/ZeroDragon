@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Coffee shop website](https://dev.to/raj_mishra/coffee-shop-website-g32)
 - [Dev.to/JS] [ESLint and Prettier: Turbocharge Your React and TypeScript Development](https://dev.to/mritunjaysaha/eslint-and-prettier-turbocharge-your-react-and-typescript-development-10ck)
 - [Dev.to/JS] [Ultimate Guide To End-to-End Testing With Cypress](https://dev.to/kailashpathak7/ultimate-guide-to-end-to-end-testing-with-cypress-1n68)
 - [Dev.to/JS] [JavaScript vs. Python: Which Programming Language is Right for You in 2023?](https://dev.to/omprakash2929/javascript-vs-python-which-programming-language-is-right-for-you-in-2023-gec)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AI Rubiks Cube Solver [3*3]](https://dev.to/suhasasumukh/ai-rubiks-cube-solver-33-o5m)
 - [Dev.to/JS] [Building an Impressive Personal Portfolio Website using NEXT.JS and Tailwind CSS](https://dev.to/incoderweb/building-an-impressive-personal-portfolio-website-using-nextjs-and-tailwind-css-3cke)
 - [Dev.to/JS] [Create a simple Font Changer - Elzero Frontend Challenges](https://dev.to/mouatezbenariba/create-a-simple-font-changer-elzero-frontend-challenges-mmi)
-- [Dev.to/JS] [What&#39;s New in Svelte 4: Performance Boosts and Streamlined Development](https://dev.to/this-is-learning/whats-new-in-svelte-4-performance-boosts-and-streamlined-development-42dc)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
 - [Lifehacker] [The Best U.S. Cities for Renters in 2023](https://lifehacker.com/the-best-u-s-cities-for-renters-in-2023-1850567571)
 - [Lifehacker] [Avoid These 3 Mistakes When Washing Whites](https://lifehacker.com/avoid-these-3-mistakes-when-washing-whites-1850567563)
