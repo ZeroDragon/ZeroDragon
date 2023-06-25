@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring Component Inheritance in Aventus](https://dev.to/max529/exploring-component-inheritance-in-aventus-3c8b)
+- [Dev.to/JS] [Top 5 Websites You&#39;ll Love as a Developer👨‍💻](https://dev.to/acode123/top-5-websites-youll-love-as-a-developer-5m5)
+- [Dev.to/JS] [Part 7: JavaScript DOM Manipulation: Mastering Dynamic and Interactive Web Pages](https://dev.to/cliff123tech/part-7-javascript-dom-manipulation-mastering-dynamic-and-interactive-web-pages-fon)
+- [Dev.to/JS] [Beginners series learning Javascript](https://dev.to/mbuguadennis/beginners-series-learning-javascript-33a6)
+- [Dev.to/JS] [SVG vs. Canvas – The Ultimate Graphic Showdown](https://dev.to/uttarasriya/svg-vs-canvas-the-ultimate-graphic-showdown-5f7l)
 - [Dev.to/JS] [AI Rubiks Cube Solver [3*3]](https://dev.to/suhasasumukh/ai-rubiks-cube-solver-33-o5m)
 - [Dev.to/JS] [Building an Impressive Personal Portfolio Website using NEXT.JS and Tailwind CSS](https://dev.to/incoderweb/building-an-impressive-personal-portfolio-website-using-nextjs-and-tailwind-css-3cke)
 - [Dev.to/JS] [Create a simple Font Changer - Elzero Frontend Challenges](https://dev.to/mouatezbenariba/create-a-simple-font-changer-elzero-frontend-challenges-mmi)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unveiling the Ultimate Code Snippet Website: Your Go-To Source for Efficient Programming Solutions](https://dev.to/jarvissilva/unveiling-the-ultimate-code-snippet-website-your-go-to-source-for-efficient-programming-solutions-6m0)
 - [Dev.to/JS] [Mastering Technical Writing](https://dev.to/irishgeoff11/mastering-technical-writing-2ifk)
 - [Dev.to/JS] [HTML Tutorials: Building Interactive Web Pages with JavaScript #3](https://dev.to/jahirrrr/html-tutorials-building-interactive-web-pages-with-javascript-3-g9j)
-- [Dev.to/JS] [Object Prototype in Javascript](https://dev.to/indracit/object-prototype-in-javascript-3gpn)
-- [Dev.to/JS] [Decoding Javascript: The Nullish coalescing operator &#39;??&#39; is awesome!](https://dev.to/itsarijitray/decoding-javascript-the-nullish-coalescing-operator-is-awesome-41e2)
-- [Dev.to/JS] [7 More JavaScript Web APIs to Build Futuristic Websites you didn&#39;t Know 🤯](https://dev.to/ruppysuppy/7-more-javascript-web-apis-to-build-futuristic-websites-you-didnt-know-50bg)
-- [Dev.to/JS] [JavaScript Cheat Sheet: Your Ultimate Guide for Efficient Coding](https://dev.to/rahul3002/javascript-cheat-sheet-your-ultimate-guide-for-efficient-coding-2590)
-- [Dev.to/JS] [Find the closest mark node](https://dev.to/rakeshreddy512/find-the-closest-mark-node-n3g)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
 - [Lifehacker] [The Best U.S. Cities for Renters in 2023](https://lifehacker.com/the-best-u-s-cities-for-renters-in-2023-1850567571)
 - [Lifehacker] [Avoid These 3 Mistakes When Washing Whites](https://lifehacker.com/avoid-these-3-mistakes-when-washing-whites-1850567563)
