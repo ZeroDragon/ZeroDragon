@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Part 1 of 3 TypeScript Tricks I wish I knew when I started learning TypeScript](https://dev.to/snangunurikrishna/part-1-of-3-typescript-tricks-i-wish-i-knew-when-i-started-learning-typescript-354n)
+- [Dev.to/JS] [10 Secret Tips That Make You a Better JavaScript Programmer](https://dev.to/akashpattnaik/10-secret-tips-that-make-you-a-better-javascript-programmer-16e6)
 - [Dev.to/JS] [Into PWA: Creating an installable Next.Js Application](https://dev.to/chrisachinga/into-pwa-creating-an-installable-nextjs-application-5b9c)
 - [Dev.to/JS] [GitHub Traffic Checker](https://dev.to/rudolfolah/github-traffic-checker-29p9)
 - [Dev.to/JS] [CSS positioning with an example](https://dev.to/mohan077/css-positioning-with-an-example-1mh9)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Closures in JavaScript](https://dev.to/indracit/closures-in-javascript-4fco)
 - [Dev.to/JS] [Javascript Basics](https://dev.to/mohan077/javascript-basics-3ae5)
 - [Dev.to/JS] [JavaScript vs React](https://dev.to/boucky/javascript-vs-react-23m0)
-- [Dev.to/JS] [Tricks for Github Markdown](https://dev.to/mohan077/tricks-for-github-markdown-2o3a)
-- [Dev.to/JS] [Maximum Gap](https://dev.to/_alkesh26/maximum-gap-3p4)
 - [Lifehacker] [The Easiest Way to Get Rid of the Musty Smell Coming From Your Car&#39;s AC](https://lifehacker.com/the-easiest-way-to-get-rid-of-the-musty-smell-coming-fr-1850567518)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
 - [Lifehacker] [The Best U.S. Cities for Renters in 2023](https://lifehacker.com/the-best-u-s-cities-for-renters-in-2023-1850567571)
