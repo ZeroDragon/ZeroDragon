@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [FS-Routing for nodejs: a low config approach](https://dev.to/rogue_paradigms/fsrouter-for-nodejs-a-low-config-approach-41i)
+- [Dev.to/JS] [How to Use a Local SMS Service Provider Other than Twilio With Customer.io](https://dev.to/debosthefirst/how-to-use-a-local-sms-service-provider-other-than-twilio-with-customerio-bdd)
+- [Dev.to/JS] [Firebase Functions to Build a Serverless CRUD App](https://dev.to/debosthefirst/firebase-functions-to-build-a-serverless-crud-app-34kl)
+- [Dev.to/JS] [Visit my Codepen](https://dev.to/denshell_denejour/visit-my-codepen-14gp)
 - [Dev.to/JS] [Abstraction in Software Engineering: Simplifying Complexity for Efficient Solutions](https://dev.to/emeroid/abstraction-in-software-engineering-simplifying-complexity-for-efficient-solutions-30hj)
 - [Dev.to/JS] [Spies and mocking with Node test runner &lpar;node:test&rpar;](https://dev.to/zsevic/spies-and-mocking-with-node-test-runner-nodetest-4l61)
 - [Dev.to/JS] [How to turn images into prompts with the Img2Prompt AI Model: A Step-by-step guide](https://dev.to/mikeyoung44/how-to-turn-images-into-prompts-with-the-img2prompt-ai-model-a-step-by-step-guide-2jio)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to save form data to Google sheets](https://dev.to/irishgeoff11/how-to-save-form-data-to-google-sheets-1f0e)
 - [Dev.to/JS] [Introducción al Desarrollo Web: Estructura de Archivos y Entorno Local](https://dev.to/nixcko/introduccion-al-desarrollo-web-estructura-de-archivos-y-entorno-local-44h)
 - [Dev.to/JS] [Exponentiation in JavaScript: A Beginner’s Guide](https://dev.to/mayallo/exponentiation-in-javascript-a-beginners-guide-5gdj)
-- [Dev.to/JS] [Episode 01 - How to check the Palindrome in JavaScript](https://dev.to/vigowebs/how-to-check-the-palindrome-in-javascript-20lm)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
-- [Dev.to/JS] [The Complete Guide to Becoming a Web Developer: Part 2](https://dev.to/nerdleveltech/the-complete-guide-to-becoming-a-web-developer-part-2-41kb)
-- [Dev.to/JS] [Why does everyone love Tailwind ?](https://dev.to/ritavdas/why-does-everyone-love-tailwind--4e63)
-- [Dev.to/JS] [Username and Password Validation Using Regex](https://dev.to/fromwentzitcame/username-and-password-validation-using-regex-2175)
 - [Lifehacker] [The Best U.S. Cities for Renters in 2023](https://lifehacker.com/the-best-u-s-cities-for-renters-in-2023-1850567571)
 - [Lifehacker] [Avoid These 3 Mistakes When Washing Whites](https://lifehacker.com/avoid-these-3-mistakes-when-washing-whites-1850567563)
 - [Lifehacker] [The Best Food Deals and Freebies This Fourth of July Weekend](https://lifehacker.com/the-best-food-deals-and-freebies-this-fourth-of-july-we-1850567524)
