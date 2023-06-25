@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AI Rubiks Cube Solver [3*3]](https://dev.to/suhasasumukh/ai-rubiks-cube-solver-33-o5m)
+- [Dev.to/JS] [Building an Impressive Personal Portfolio Website using NEXT.JS and Tailwind CSS](https://dev.to/incoderweb/building-an-impressive-personal-portfolio-website-using-nextjs-and-tailwind-css-3cke)
 - [Dev.to/JS] [Create a simple Font Changer - Elzero Frontend Challenges](https://dev.to/mouatezbenariba/create-a-simple-font-changer-elzero-frontend-challenges-mmi)
 - [Dev.to/JS] [What&#39;s New in Svelte 4: Performance Boosts and Streamlined Development](https://dev.to/this-is-learning/whats-new-in-svelte-4-performance-boosts-and-streamlined-development-42dc)
 - [Dev.to/JS] [Unveiling the Ultimate Code Snippet Website: Your Go-To Source for Efficient Programming Solutions](https://dev.to/jarvissilva/unveiling-the-ultimate-code-snippet-website-your-go-to-source-for-efficient-programming-solutions-6m0)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [7 More JavaScript Web APIs to Build Futuristic Websites you didn&#39;t Know 🤯](https://dev.to/ruppysuppy/7-more-javascript-web-apis-to-build-futuristic-websites-you-didnt-know-50bg)
 - [Dev.to/JS] [JavaScript Cheat Sheet: Your Ultimate Guide for Efficient Coding](https://dev.to/rahul3002/javascript-cheat-sheet-your-ultimate-guide-for-efficient-coding-2590)
 - [Dev.to/JS] [Find the closest mark node](https://dev.to/rakeshreddy512/find-the-closest-mark-node-n3g)
-- [Dev.to/JS] [NodeJs: Another Dumb Framework](https://dev.to/scofieldidehen/nodejs-another-dumb-framework-46bb)
-- [Dev.to/JS] [How to Implement CSS in Micro Front-End](https://dev.to/scofieldidehen/how-to-implement-css-in-micro-front-end-3hea)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
 - [Lifehacker] [The Best U.S. Cities for Renters in 2023](https://lifehacker.com/the-best-u-s-cities-for-renters-in-2023-1850567571)
 - [Lifehacker] [Avoid These 3 Mistakes When Washing Whites](https://lifehacker.com/avoid-these-3-mistakes-when-washing-whites-1850567563)
