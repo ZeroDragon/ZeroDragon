@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Get Rid of the Musty Smell Coming From Your Car&#39;s AC](https://lifehacker.com/the-easiest-way-to-get-rid-of-the-musty-smell-coming-fr-1850567518)
+- [Dev.to/JS] [Membangun Portofolio Website dengan Headless CMS Menggunakan Strapi dan Next.js](https://dev.to/initialm503/membangun-portofolio-website-dengan-headless-cms-menggunakan-strapi-dan-nextjs-3b32)
+- [Dev.to/JS] [Array and Object Methods: JavaScript’s Toolkit or Circus Tricks?](https://dev.to/shubhamt619/array-and-object-methods-javascripts-toolkit-or-circus-tricks-4lpl)
+- [Dev.to/JS] [Higher-Order Functions and Callbacks: The Secret Sauce of JavaScript or Just Fancy Jargon?](https://dev.to/shubhamt619/higher-order-functions-and-callbacks-the-secret-sauce-of-javascript-or-just-fancy-jargon-418j)
+- [Dev.to/JS] [How to create editor template](https://dev.to/elanatframework/how-to-create-editor-template-4nnj)
+- [Dev.to/JS] [Right way to build a web application with Webpack](https://dev.to/webdiscus/right-way-to-build-a-web-application-with-webpack-3fb4)
 - [Dev.to/JS] [[Typia] I made realtime demo site of 20,000x faster validation &lpar;+200x faster JSON stringify&rpar;](https://dev.to/samchon/typia-i-made-realtime-demo-site-of-20000x-faster-validation-200x-faster-json-stringify-59p9)
 - [Dev.to/JS] [Extracting Class Methods: How To Derive an Interface From a Class](https://dev.to/zirkelc/extracting-class-methods-how-to-derive-an-interface-from-a-class-4co4)
 - [Dev.to/JS] [Are you preparing for a JavaScript interview? 🤔🤔](https://dev.to/attull/are-you-preparing-for-a-javascript-interview-4eih)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript](https://dev.to/aosorio10/javascript-1k0e)
 - [Dev.to/JS] [Coffee shop website](https://dev.to/raj_mishra/coffee-shop-website-g32)
 - [Dev.to/JS] [ESLint and Prettier: Turbocharge Your React and TypeScript Development](https://dev.to/mritunjaysaha/eslint-and-prettier-turbocharge-your-react-and-typescript-development-10ck)
-- [Dev.to/JS] [Ultimate Guide To End-to-End Testing With Cypress](https://dev.to/kailashpathak7/ultimate-guide-to-end-to-end-testing-with-cypress-1n68)
-- [Dev.to/JS] [JavaScript vs. Python: Which Programming Language is Right for You in 2023?](https://dev.to/omprakash2929/javascript-vs-python-which-programming-language-is-right-for-you-in-2023-gec)
-- [Dev.to/JS] [Exploring Component Inheritance in Aventus](https://dev.to/max529/exploring-component-inheritance-in-aventus-3c8b)
-- [Dev.to/JS] [Top 5 Websites You&#39;ll Love as a Developer👨‍💻](https://dev.to/acode123/top-5-websites-youll-love-as-a-developer-5m5)
-- [Dev.to/JS] [Part 7: JavaScript DOM Manipulation: Mastering Dynamic and Interactive Web Pages](https://dev.to/cliff123tech/part-7-javascript-dom-manipulation-mastering-dynamic-and-interactive-web-pages-fon)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
 - [Lifehacker] [The Best U.S. Cities for Renters in 2023](https://lifehacker.com/the-best-u-s-cities-for-renters-in-2023-1850567571)
 - [Lifehacker] [Avoid These 3 Mistakes When Washing Whites](https://lifehacker.com/avoid-these-3-mistakes-when-washing-whites-1850567563)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What People Are Getting Wrong This Week: The Titanic Submersible](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-titanic-su-1850566979)
 - [Lifehacker] [Seven Things You Need to Start Backyard Camping](https://lifehacker.com/seven-things-you-need-to-start-backyard-camping-1850566176)
 - [Lifehacker] [Microsoft Is Raising Game Pass Prices &lpar;Here’s How You Can Actually Pay Less&rpar;](https://lifehacker.com/microsoft-is-raising-game-pass-prices-here-s-how-you-c-1850566622)
-- [Lifehacker] [Why You Probably Shouldn&#39;t Refinish Your Own Bathtub](https://lifehacker.com/why-you-probably-shouldnt-refinish-your-own-bathtub-1850565888)
-- [Lifehacker] [Your Smoothie Bowl Could Use Some Tofu](https://lifehacker.com/your-smoothie-bowl-could-use-some-tofu-1850565558)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Probably Shouldn&#39;t Refinish Your Own Bathtub](https://lifehacker.com/why-you-probably-shouldnt-refinish-your-own-bathtub-1850565888)<!-- TECH-POSTS:END -->
 
 ---
 
