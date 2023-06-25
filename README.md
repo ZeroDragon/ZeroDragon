@@ -23,19 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tricks for Github Markdown](https://dev.to/mohan077/tricks-for-github-markdown-2o3a)
+- [Dev.to/JS] [Maximum Gap](https://dev.to/_alkesh26/maximum-gap-3p4)
+- [Dev.to/JS] [TREE SHAKING! IN JAVASCRIPT](https://dev.to/ritavdas/tree-shaking-in-javascript-mb0)
 - [Lifehacker] [The Easiest Way to Get Rid of the Musty Smell Coming From Your Car&#39;s AC](https://lifehacker.com/the-easiest-way-to-get-rid-of-the-musty-smell-coming-fr-1850567518)
 - [Dev.to/JS] [Membangun Portofolio Website dengan Headless CMS Menggunakan Strapi dan Next.js](https://dev.to/initialm503/membangun-portofolio-website-dengan-headless-cms-menggunakan-strapi-dan-nextjs-3b32)
 - [Dev.to/JS] [Array and Object Methods: JavaScript’s Toolkit or Circus Tricks?](https://dev.to/shubhamt619/array-and-object-methods-javascripts-toolkit-or-circus-tricks-4lpl)
 - [Dev.to/JS] [Higher-Order Functions and Callbacks: The Secret Sauce of JavaScript or Just Fancy Jargon?](https://dev.to/shubhamt619/higher-order-functions-and-callbacks-the-secret-sauce-of-javascript-or-just-fancy-jargon-418j)
 - [Dev.to/JS] [How to create editor template](https://dev.to/elanatframework/how-to-create-editor-template-4nnj)
-- [Dev.to/JS] [Right way to build a web application with Webpack](https://dev.to/webdiscus/right-way-to-build-a-web-application-with-webpack-3fb4)
+- [Dev.to/JS] [New way to build a web application with Webpack](https://dev.to/webdiscus/right-way-to-build-a-web-application-with-webpack-3fb4)
 - [Dev.to/JS] [[Typia] I made realtime demo site of 20,000x faster validation &lpar;+200x faster JSON stringify&rpar;](https://dev.to/samchon/typia-i-made-realtime-demo-site-of-20000x-faster-validation-200x-faster-json-stringify-59p9)
 - [Dev.to/JS] [Extracting Class Methods: How To Derive an Interface From a Class](https://dev.to/zirkelc/extracting-class-methods-how-to-derive-an-interface-from-a-class-4co4)
 - [Dev.to/JS] [Are you preparing for a JavaScript interview? 🤔🤔](https://dev.to/attull/are-you-preparing-for-a-javascript-interview-4eih)
-- [Dev.to/JS] [Angular Tutorial](https://dev.to/kiraaziz/angular-tutorial-101k)
 - [Dev.to/JS] [Javascript](https://dev.to/aosorio10/javascript-1k0e)
-- [Dev.to/JS] [Coffee shop website](https://dev.to/raj_mishra/coffee-shop-website-g32)
-- [Dev.to/JS] [ESLint and Prettier: Turbocharge Your React and TypeScript Development](https://dev.to/mritunjaysaha/eslint-and-prettier-turbocharge-your-react-and-typescript-development-10ck)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
 - [Lifehacker] [The Best U.S. Cities for Renters in 2023](https://lifehacker.com/the-best-u-s-cities-for-renters-in-2023-1850567571)
 - [Lifehacker] [Avoid These 3 Mistakes When Washing Whites](https://lifehacker.com/avoid-these-3-mistakes-when-washing-whites-1850567563)
