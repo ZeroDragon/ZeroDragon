@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Started an OpenSource project](https://dev.to/rawas_aditya/started-an-opensource-project-5hjo)
 - [Dev.to/JS] [The Power of Console.log&lpar;&rpar;](https://dev.to/jongrabowski/the-power-of-consolelog-2aog)
 - [Dev.to/JS] [5 Free AI Tools for Everyone and Anyone : Part 2](https://dev.to/varshithvhegde/5-free-ai-tools-for-everyone-and-anyone-part-2-7f9)
 - [Dev.to/JS] [Running both nodejs and bun apps in turborepo](https://dev.to/0xahmad/running-both-nodejs-and-bun-apps-in-turborepo-33id)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript vs JavaScript: Why Should You Learn TypeScript?](https://dev.to/hakimov_dev/typescript-vs-javascript-why-should-you-learn-typescript-1che)
 - [Dev.to/JS] [React Native Payment Gateway - Razorpay](https://dev.to/ajmal_hasan/react-native-payment-gateway-41o6)
 - [Dev.to/JS] [Part 1 of 3 TypeScript Tricks I wish I knew when I started learning TypeScript](https://dev.to/snangunurikrishna/part-1-of-3-typescript-tricks-i-wish-i-knew-when-i-started-learning-typescript-354n)
-- [Dev.to/JS] [10 Secret Tips That Make You a Better JavaScript Programmer](https://dev.to/akashpattnaik/10-secret-tips-that-make-you-a-better-javascript-programmer-16e6)
 - [Lifehacker] [Don&#39;t Make These Gardening Mistakes After a Heavy Rainfall](https://lifehacker.com/dont-make-these-gardening-mistakes-after-a-heavy-rainfa-1850569647)
 - [Lifehacker] [The Easiest Way to Get Rid of the Musty Smell Coming From Your Car&#39;s AC](https://lifehacker.com/the-easiest-way-to-get-rid-of-the-musty-smell-coming-fr-1850567518)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
