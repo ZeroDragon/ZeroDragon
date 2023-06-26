@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create a Basic Carousel using JavaScript, HTML, and CSS](https://dev.to/megharrison92/how-to-create-a-basic-carousel-using-javascript-html-and-css-15eo)
 - [Dev.to/JS] [When and how to use forEach and map in Vanilla JS vs React](https://dev.to/amsfreeman/when-and-how-to-use-foreach-and-map-in-vanilla-js-vs-react-1p3d)
 - [Dev.to/JS] [Started an OpenSource project](https://dev.to/rawas_aditya/started-an-opensource-project-5hjo)
 - [Dev.to/JS] [The Power of Console.log&lpar;&rpar;](https://dev.to/jongrabowski/the-power-of-consolelog-2aog)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ever dreamed of finding the intersecting values between arrays without a third party library?](https://dev.to/melvinvmegen/have-you-ever-dreamed-of-finding-the-intersecting-values-between-arrays-withouth-a-third-party-library-2oc0)
 - [Dev.to/JS] [Removing Elements From An Array](https://dev.to/codethepotato/removing-elements-from-an-array-2im1)
 - [Dev.to/JS] [TypeScript vs JavaScript: Why Should You Learn TypeScript?](https://dev.to/hakimov_dev/typescript-vs-javascript-why-should-you-learn-typescript-1che)
-- [Dev.to/JS] [React Native Payment Gateway - Razorpay](https://dev.to/ajmal_hasan/react-native-payment-gateway-41o6)
 - [Lifehacker] [Don&#39;t Make These Gardening Mistakes After a Heavy Rainfall](https://lifehacker.com/dont-make-these-gardening-mistakes-after-a-heavy-rainfa-1850569647)
 - [Lifehacker] [The Easiest Way to Get Rid of the Musty Smell Coming From Your Car&#39;s AC](https://lifehacker.com/the-easiest-way-to-get-rid-of-the-musty-smell-coming-fr-1850567518)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
