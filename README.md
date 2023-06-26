@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [An Age-By-Age Guide to Teaching Kids About Online Safety](https://lifehacker.com/an-age-by-age-guide-to-teaching-kids-about-online-safet-1850474580)
+- [Dev.to/JS] [Ma&#39;lumotlar tuzilmalari va algoritmlarni nega o&#39;rganish kerak? Axir, ularni ishda ishlatmaymanku 🤷‍♂️](https://dev.to/donishmand23/malumotlar-tuzilmalari-va-algoritmlarni-nega-organish-kerak-axir-ularni-ishda-ishlatmaymanku-1e8)
+- [Dev.to/JS] [Progress Bar using HTML, CSS, JS](https://dev.to/shawn2208/progress-bar-using-html-css-js-258n)
+- [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Race](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-race-1850460959)
+- [Lifehacker] [You Don&#39;t Need to Separate Your Laundry &lpar;With One Common Exception&rpar;](https://lifehacker.com/you-dont-need-to-separate-your-laundry-with-once-commo-1850575667)
 - [Dev.to/JS] [Build Smarter, Not Harder: Simplifying Backend Workflows with Build-time GraphQL](https://dev.to/slickstef11/build-smarter-not-harder-simplifying-backend-workflows-with-build-time-graphql-23d0)
 - [Dev.to/JS] [Hasura is sooooo 2015](https://dev.to/slickstef11/hasura-is-sooooo-2015-gjl)
 - [Dev.to/JS] [What is Hoisting in JavaScript?](https://dev.to/arpitashrivastav/what-is-hoisting-in-javascript-2dap)
@@ -37,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React with Redux - The Definitive guide.](https://dev.to/gautham495/react-with-redux-the-definitive-guide-4gbj)
 - [Dev.to/JS] [How Process Models play a key role in Software Development](https://dev.to/sardarmudassaralikhan/how-process-models-play-a-key-role-in-software-development-inf)
 - [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Drugs](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-drugs-1850524717)
-- [Dev.to/JS] [JavaScript Arrays vs. Data Structure Arrays: Which Should You Use and When?](https://dev.to/imkrunalkanojiya/javascript-arrays-vs-data-structure-arrays-which-should-you-use-and-when-40lb)
-- [Dev.to/JS] [An important lesson I learned.](https://dev.to/gikundirodivine/an-important-lesson-i-learned-38df)
 - [Lifehacker] [How to Talk to Your Kids About Porn](https://lifehacker.com/how-to-talk-to-your-kids-about-porn-1838886045)
 - [Lifehacker] [How to Teach Kids About Sexism](https://lifehacker.com/how-to-teach-kids-about-sexism-1846110388)
 - [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Sex](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-sex-1850556294)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This MBA Training Course Bundle Is 87% Off Right Now](https://lifehacker.com/this-mba-training-course-bundle-is-87-off-right-now-1850560831)
 - [Lifehacker] [You Can Save $20 on Nintendo&#39;s New &#39;Super Mario&#39; Games](https://lifehacker.com/you-can-save-20-on-nintendos-new-super-mario-games-1850569829)
 - [Lifehacker] [You Can Get This Refurbished Lenovo ThinkPad With Microsoft Office for $200](https://lifehacker.com/you-can-get-this-refurbished-lenovo-thinkpad-with-micro-1850561831)
-- [Lifehacker] [The New, Better Way to Take Screenshots in Chrome’s Incognito Mode on Android](https://lifehacker.com/the-new-better-way-to-take-screenshots-in-chrome-s-inc-1850569345)
-- [Lifehacker] [The 20 Best Max Shows You Probably Aren’t Watching](https://lifehacker.com/15-hbo-max-originals-you-probably-arent-watching-but-de-1847554849)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: The Titanic Submersible and Blink-182](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-the-titan-1850568227)
-- [Lifehacker] [You Can Clean Your Grungy Landscape Rock](https://lifehacker.com/you-can-clean-your-grungy-landscape-rock-1850568220)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The New, Better Way to Take Screenshots in Chrome’s Incognito Mode on Android](https://lifehacker.com/the-new-better-way-to-take-screenshots-in-chrome-s-inc-1850569345)<!-- TECH-POSTS:END -->
 
 ---
 
