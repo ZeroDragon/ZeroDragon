@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A better way to use Dotenv](https://dev.to/castarco/a-better-way-to-use-dotenv-5c38)
+- [Dev.to/JS] [Typescript Made Easy: Simplifying the Shift](https://dev.to/thevatsal/typescript-made-easy-simplifying-the-shift-1l4e)
 - [Dev.to/JS] [There&#39;s Something About Forms](https://dev.to/gitshanleycaswell/theres-something-about-forms-3nej)
 - [Dev.to/JS] [What is the problem with react state array.](https://dev.to/typicalcodes/what-is-the-problem-with-react-state-array-4a1j)
 - [Dev.to/JS] [Simple Demo Fluent UI 2 TreeView Web Components with Dynamic Data in Svelte](https://dev.to/sonyarianto/simple-demo-fluent-ui-2-treeview-web-components-with-dynamic-data-in-svelte-4102)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Started an OpenSource project](https://dev.to/rawas_aditya/started-an-opensource-project-5hjo)
 - [Dev.to/JS] [The Power of Console.log&lpar;&rpar;](https://dev.to/jongrabowski/the-power-of-consolelog-2aog)
 - [Dev.to/JS] [5 Free AI Tools for Everyone and Anyone : Part 2](https://dev.to/varshithvhegde/5-free-ai-tools-for-everyone-and-anyone-part-2-7f9)
-- [Dev.to/JS] [Running both nodejs and bun apps in turborepo](https://dev.to/0xahmad/running-both-nodejs-and-bun-apps-in-turborepo-33id)
-- [Dev.to/JS] [How Javascript V8 Engine Works?](https://dev.to/kevin-uehara/how-javascript-v8-engine-works-pdp)
 - [Lifehacker] [Don&#39;t Make These Gardening Mistakes After a Heavy Rainfall](https://lifehacker.com/dont-make-these-gardening-mistakes-after-a-heavy-rainfa-1850569647)
 - [Lifehacker] [The Easiest Way to Get Rid of the Musty Smell Coming From Your Car&#39;s AC](https://lifehacker.com/the-easiest-way-to-get-rid-of-the-musty-smell-coming-fr-1850567518)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
