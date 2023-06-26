@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Teach Kids About Sexism](https://lifehacker.com/how-to-teach-kids-about-sexism-1846110388)
+- [Dev.to/JS] [How I deploy my website using my Apple Watch](https://dev.to/whitep4nth3r/how-i-deploy-my-website-using-my-apple-watch-18m5)
+- [Dev.to/JS] [Call, Apply and Bind](https://dev.to/adii/call-apply-and-bind-287m)
+- [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Sex](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-sex-1850556294)
+- [Dev.to/JS] [Washing your code: naming is hard](https://dev.to/sapegin/washing-your-code-naming-is-hard-1kbl)
+- [Dev.to/JS] [Typescript Type Level Custom Error Message, Move Runtime Error to Compile time Error!](https://dev.to/tylim88/typescript-type-level-custom-error-message-move-runtime-error-to-compile-time-error-4pcc)
+- [Dev.to/JS] [JS - FAQ](https://dev.to/codercrux/js-faq-3n04)
 - [Lifehacker] [How to Prepare for All the Parenting &#39;Big Talks&#39;](https://lifehacker.com/how-to-prepare-for-all-the-parenting-big-talks-1850545261)
 - [Dev.to/JS] [Your best bet for future of software development](https://dev.to/pajko97/your-best-bet-for-future-of-software-development-41a)
 - [Dev.to/JS] [Your Guide to Implementing Vue Placeholder Loading](https://dev.to/renanfranca/your-guide-to-implementing-vue-placeholder-loading-11df)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Break out of Tutorial Hell - What to Do When You&#39;re Going Nowhere](https://dev.to/canderson93/break-out-of-tutorial-hell-what-to-do-when-youre-going-nowhere-34gf)
 - [Dev.to/JS] [10 Impeccable JavaScript Projects for Beginners](https://dev.to/hzahar/10-impeccable-javascript-projects-for-beginners-2b53)
 - [Dev.to/JS] [Qwik introduction from Misko and Giorgio](https://dev.to/this-is-learning/qwik-introduction-from-misko-and-giorgio-3dbl)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, Jun 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-4-jun-2023-442a)
-- [Dev.to/JS] [Nuxt + Supabase = Technology Stack of Dreams 🚀](https://dev.to/jacobandrewsky/nuxt-supabase-technology-stack-of-dreams-4dop)
-- [Dev.to/JS] [Bootstrap Basic](https://dev.to/mohan077/bootstrap-basic-3mnd)
-- [Dev.to/JS] [AZ-500 Exam Dumps: Practice for Real Exam Scenarios and Gain Confidence](https://dev.to/g6i8bx33/az-500-exam-dumps-practice-for-real-exam-scenarios-and-gain-confidence-1nh9)
-- [Dev.to/JS] [Google Promotion Services and How They Work](https://dev.to/webvyaparindia/google-promotion-services-and-how-they-work-1996)
 - [Lifehacker] [Don&#39;t Make These Gardening Mistakes After a Heavy Rainfall](https://lifehacker.com/dont-make-these-gardening-mistakes-after-a-heavy-rainfa-1850569647)
 - [Lifehacker] [The Easiest Way to Get Rid of the Musty Smell Coming From Your Car&#39;s AC](https://lifehacker.com/the-easiest-way-to-get-rid-of-the-musty-smell-coming-fr-1850567518)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Change the Gender on Your Driver&#39;s License](https://lifehacker.com/how-to-change-the-gender-on-your-drivers-license-1850547620)
 - [Lifehacker] [This Two-Ingredient Strawberry Sambal Salsa Will Knock Your Socks Off](https://lifehacker.com/this-two-ingredient-strawberry-sambal-salsa-will-knock-1850566114)
 - [Lifehacker] [Defy Parkinson’s Law to Be More Productive](https://lifehacker.com/defy-parkinson-s-law-to-be-more-productive-1850565701)
-- [Lifehacker] [The Panzerotti Needs Your Attention, Please](https://lifehacker.com/the-panzerotti-needs-your-attention-please-1850567155)
-- [Lifehacker] [What People Are Getting Wrong This Week: The Titanic Submersible](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-titanic-su-1850566979)
-- [Lifehacker] [Seven Things You Need to Start Backyard Camping](https://lifehacker.com/seven-things-you-need-to-start-backyard-camping-1850566176)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Panzerotti Needs Your Attention, Please](https://lifehacker.com/the-panzerotti-needs-your-attention-please-1850567155)<!-- TECH-POSTS:END -->
 
 ---
 
