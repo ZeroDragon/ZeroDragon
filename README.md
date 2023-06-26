@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using an AWS API Gateway with AWS Lambda, and AWS DynamoDB](https://dev.to/aws-builders/using-an-aws-api-gateway-with-aws-lambda-and-aws-dynamodb-55c7)
+- [Dev.to/JS] [Unraveling the Mysteries of Code: Decoding, Interpreting and Compiling](https://dev.to/csituma/unraveling-the-mysteries-of-code-decoding-interpreting-and-compiling-4dkn)
+- [Dev.to/JS] [Server Actions, databases, and the future of data handling](https://dev.to/xata/server-actions-databases-and-the-future-of-data-handling-10nn)
+- [Dev.to/JS] [Live Regions in React](https://dev.to/abbeyperini/live-regions-in-react-4dmd)
+- [Dev.to/JS] [Javascript and the meta-programming hell](https://dev.to/wmattei/javascript-and-the-meta-programming-hell-4dj3)
 - [Dev.to/JS] [Most Used commands, methods, and concepts of Node.js](https://dev.to/manthanank/most-used-commands-methods-and-concepts-of-nodejs-182e)
+- [Lifehacker] [Your Pixel Fold Order Was Probably Canceled](https://lifehacker.com/your-pixel-fold-order-was-probably-canceled-1850576079)
 - [Dev.to/JS] [RxJS Operators: buffer](https://dev.to/drownedintech/rxjs-operators-buffer-526h)
 - [Lifehacker] [This Refurbished Mac Mini Is on Sale for $206](https://lifehacker.com/this-refurbished-mac-mini-is-on-sale-for-206-1850572072)
 - [Dev.to/JS] [12 Super Cool Machine Learning Projects that you didn&#39;t know are Open Source and made of JavaScript](https://dev.to/wmisingo/12-super-cool-machine-learning-projects-that-you-didnt-know-are-open-source-and-made-of-javascript-33cj)
@@ -34,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Improve Performances With Dynamic “Content-Visibility”](https://dev.to/brunosabot/improve-performances-with-dynamic-content-visibility-8bb)
 - [Dev.to/JS] [The 7 Traits of a Rock Star React Developer](https://dev.to/mohammadfaisal/the-7-traits-of-a-rock-star-react-developer-1825)
 - [Lifehacker] [How to Talk to Kids About the Screwed-Up State of U.S. Politics](https://lifehacker.com/how-to-talk-to-kids-about-the-fucked-up-state-of-u-s-p-1850563568)
-- [Dev.to/JS] [Understand the concept of dependency list in useEffect in reactjs](https://dev.to/gaurbprajapati/understand-the-concept-of-dependency-list-in-useeffect-in-reactjs-426k)
 - [Lifehacker] [How to Talk to Your Kids About School Shootings](https://lifehacker.com/how-to-talk-to-your-kids-about-school-shootings-1848975621)
-- [Dev.to/JS] [Toon Boom Harmony 23.1 Crack Free Download Activated](https://dev.to/allcracksoft/toon-boom-harmony-231-crack-free-download-activated-46cl)
 - [Lifehacker] [How to Talk to Your Kids About Guns](https://lifehacker.com/how-to-talk-to-your-kids-about-guns-1850540336)
-- [Dev.to/JS] [Promises](https://dev.to/mrizwanashiq/promises-3hfb)
-- [Dev.to/JS] [Mastering Project Governance: Achieving Codebase Excellence and Consistency &lpar;Frontend&rpar;](https://dev.to/nevnet99/mastering-project-governance-achieving-codebase-excellence-and-consistency-frontend-2h65)
-- [Dev.to/JS] [Beware of scammers/hackers targeting blockchain developers](https://dev.to/muratcanyuksel/beware-of-scammershackers-targeting-blockchain-developers-4cb9)
 - [Lifehacker] [How to Talk to Your Kids About Suicide](https://lifehacker.com/how-to-lower-your-teenagers-risk-of-suicide-1847047272)
 - [Lifehacker] [How to Talk to Your Kids About LGBTQ+ Issues](https://lifehacker.com/how-to-talk-to-your-kids-about-lgbtq-issues-1850507422)
 - [Lifehacker] [An Age-By-Age Guide to Teaching Kids About Online Safety](https://lifehacker.com/an-age-by-age-guide-to-teaching-kids-about-online-safet-1850474580)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These 3 Mistakes When Washing Whites](https://lifehacker.com/avoid-these-3-mistakes-when-washing-whites-1850567563)
 - [Lifehacker] [The Best Food Deals and Freebies This Fourth of July Weekend](https://lifehacker.com/the-best-food-deals-and-freebies-this-fourth-of-july-we-1850567524)
 - [Lifehacker] [These Amazon Fire Kids Tablets Are Up to 50% Off](https://lifehacker.com/these-amazon-fire-kids-tablets-are-up-to-50-off-1850571928)
-- [Lifehacker] [What&#39;s New on Max in July 2023](https://lifehacker.com/whats-new-on-max-in-july-2023-1850572037)
-- [Lifehacker] [Three Things You Should Never Post on LinkedIn](https://lifehacker.com/three-things-you-should-never-post-on-linkedin-1850571589)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Max in July 2023](https://lifehacker.com/whats-new-on-max-in-july-2023-1850572037)<!-- TECH-POSTS:END -->
 
 ---
 
