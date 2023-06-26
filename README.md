@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple Demo Fluent UI 2 TreeView Web Components with Dynamic Data in Svelte](https://dev.to/sonyarianto/simple-demo-fluent-ui-2-treeview-web-components-with-dynamic-data-in-svelte-4102)
+- [Dev.to/JS] [How To Avoid Breaking Your React Application On Production](https://dev.to/myogeshchavan97/how-to-avoid-breaking-your-react-application-on-production-6c5)
+- [Dev.to/JS] [Variables and Data Types in JavaScript](https://dev.to/michaelrlombard/variables-and-data-types-in-javascript-4b1m)
 - [Dev.to/JS] [How to Create a Basic Carousel using JavaScript, HTML, and CSS](https://dev.to/megharrison92/how-to-create-a-basic-carousel-using-javascript-html-and-css-15eo)
 - [Dev.to/JS] [When and how to use forEach and map in Vanilla JS vs React](https://dev.to/amsfreeman/when-and-how-to-use-foreach-and-map-in-vanilla-js-vs-react-1p3d)
 - [Dev.to/JS] [Started an OpenSource project](https://dev.to/rawas_aditya/started-an-opensource-project-5hjo)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Javascript V8 Engine Works?](https://dev.to/kevin-uehara/how-javascript-v8-engine-works-pdp)
 - [Dev.to/JS] [I wrote a programming language with ChatGTP. Our jobs are safe.](https://dev.to/matteobortolazzo/i-wrote-a-programming-language-with-chatgtp-our-jobs-are-safe-di7)
 - [Dev.to/JS] [From Idea to Product: My Journey Building an Online Version of &#39;Cards Against Humanity&#39;](https://dev.to/igorbayerl/from-idea-to-product-my-journey-building-an-online-version-of-cards-against-humanity-435h)
-- [Dev.to/JS] [Ever dreamed of finding the intersecting values between arrays without a third party library?](https://dev.to/melvinvmegen/have-you-ever-dreamed-of-finding-the-intersecting-values-between-arrays-withouth-a-third-party-library-2oc0)
-- [Dev.to/JS] [Removing Elements From An Array](https://dev.to/codethepotato/removing-elements-from-an-array-2im1)
-- [Dev.to/JS] [TypeScript vs JavaScript: Why Should You Learn TypeScript?](https://dev.to/hakimov_dev/typescript-vs-javascript-why-should-you-learn-typescript-1che)
 - [Lifehacker] [Don&#39;t Make These Gardening Mistakes After a Heavy Rainfall](https://lifehacker.com/dont-make-these-gardening-mistakes-after-a-heavy-rainfa-1850569647)
 - [Lifehacker] [The Easiest Way to Get Rid of the Musty Smell Coming From Your Car&#39;s AC](https://lifehacker.com/the-easiest-way-to-get-rid-of-the-musty-smell-coming-fr-1850567518)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
