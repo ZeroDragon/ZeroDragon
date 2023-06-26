@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build Smarter, Not Harder: Simplifying Backend Workflows with Build-time GraphQL](https://dev.to/slickstef11/build-smarter-not-harder-simplifying-backend-workflows-with-build-time-graphql-23d0)
+- [Dev.to/JS] [Hasura is sooooo 2015](https://dev.to/slickstef11/hasura-is-sooooo-2015-gjl)
+- [Dev.to/JS] [What is Hoisting in JavaScript?](https://dev.to/arpitashrivastav/what-is-hoisting-in-javascript-2dap)
+- [Lifehacker] [How to Talk to Your Kids About Job Loss](https://lifehacker.com/how-to-talk-to-your-kids-about-job-loss-1844010932)
+- [Dev.to/JS] [How to use Job Queue to handle email sending in your Nestjs server](https://dev.to/niemet0502/how-to-use-job-queue-to-handle-email-sending-in-your-nestjs-server-3l4m)
+- [Dev.to/JS] [Map, Filter &amp; Reduce in JavaScript # 17](https://dev.to/sksage/map-filter-reduce-in-javascript-17-4jj5)
+- [Dev.to/JS] [Take your webpack to the next level by understanding these concepts](https://dev.to/limingcan562/take-your-webpack-to-the-next-level-by-understanding-these-concepts-h2p)
+- [Lifehacker] [An Age-By-Age Guide to Teaching Kids About Money](https://lifehacker.com/an-age-by-age-guide-to-teaching-kids-about-money-1846651973)
 - [Dev.to/JS] [jQuery Sidebar Menu with Submenu](https://dev.to/arsalanmee/jquery-sidebar-menu-with-submenu-45gl)
 - [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Divorce](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-divorce-1846861909)
 - [Dev.to/JS] [Componente genérico de Detalhes de Categoria usando Chakra UI no CrazyStack Next.js](https://dev.to/devdoido/componente-generico-de-detalhes-de-categoria-usando-chakra-ui-no-crazystack-nextjs-3hib)
@@ -31,15 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Drugs](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-drugs-1850524717)
 - [Dev.to/JS] [JavaScript Arrays vs. Data Structure Arrays: Which Should You Use and When?](https://dev.to/imkrunalkanojiya/javascript-arrays-vs-data-structure-arrays-which-should-you-use-and-when-40lb)
 - [Dev.to/JS] [An important lesson I learned.](https://dev.to/gikundirodivine/an-important-lesson-i-learned-38df)
-- [Dev.to/JS] [How to change &quot;state&quot; during render without infinite loops](https://dev.to/casewinter/how-to-change-state-during-render-without-infinite-loops-507b)
 - [Lifehacker] [How to Talk to Your Kids About Porn](https://lifehacker.com/how-to-talk-to-your-kids-about-porn-1838886045)
-- [Dev.to/JS] [Fix React.useState using &quot;as const&quot;](https://dev.to/asciibi/fix-reactusestate-using-as-const-2a84)
 - [Lifehacker] [How to Teach Kids About Sexism](https://lifehacker.com/how-to-teach-kids-about-sexism-1846110388)
-- [Dev.to/JS] [How I deploy my website using my Apple Watch](https://dev.to/whitep4nth3r/how-i-deploy-my-website-using-my-apple-watch-18m5)
-- [Dev.to/JS] [Call, Apply and Bind](https://dev.to/adii/call-apply-and-bind-287m)
 - [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Sex](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-sex-1850556294)
-- [Dev.to/JS] [Washing your code: naming is hard](https://dev.to/sapegin/washing-your-code-naming-is-hard-1kbl)
-- [Dev.to/JS] [Typescript Type Level Custom Error Message, Move Runtime Error to Compile time Error!](https://dev.to/tylim88/typescript-type-level-custom-error-message-move-runtime-error-to-compile-time-error-4pcc)
 - [Lifehacker] [How to Prepare for All the Parenting &#39;Big Talks&#39;](https://lifehacker.com/how-to-prepare-for-all-the-parenting-big-talks-1850545261)
 - [Lifehacker] [Don&#39;t Make These Gardening Mistakes After a Heavy Rainfall](https://lifehacker.com/dont-make-these-gardening-mistakes-after-a-heavy-rainfa-1850569647)
 - [Lifehacker] [The Easiest Way to Get Rid of the Musty Smell Coming From Your Car&#39;s AC](https://lifehacker.com/the-easiest-way-to-get-rid-of-the-musty-smell-coming-fr-1850567518)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The New, Better Way to Take Screenshots in Chrome’s Incognito Mode on Android](https://lifehacker.com/the-new-better-way-to-take-screenshots-in-chrome-s-inc-1850569345)
 - [Lifehacker] [The 20 Best Max Shows You Probably Aren’t Watching](https://lifehacker.com/15-hbo-max-originals-you-probably-arent-watching-but-de-1847554849)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: The Titanic Submersible and Blink-182](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-the-titan-1850568227)
-- [Lifehacker] [You Can Clean Your Grungy Landscape Rock](https://lifehacker.com/you-can-clean-your-grungy-landscape-rock-1850568220)
-- [Lifehacker] [Stop Making Strawberry Jam and Make Vinegar Instead](https://lifehacker.com/stop-making-strawberry-jam-and-make-vinegar-instead-1850566250)
-- [Lifehacker] [How to Change the Gender on Your Driver&#39;s License](https://lifehacker.com/how-to-change-the-gender-on-your-drivers-license-1850547620)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Clean Your Grungy Landscape Rock](https://lifehacker.com/you-can-clean-your-grungy-landscape-rock-1850568220)<!-- TECH-POSTS:END -->
 
 ---
 
