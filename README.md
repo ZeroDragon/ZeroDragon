@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Talk to Your Kids About Guns](https://lifehacker.com/how-to-talk-to-your-kids-about-guns-1850540336)
+- [Dev.to/JS] [Promises](https://dev.to/mrizwanashiq/promises-3hfb)
+- [Dev.to/JS] [Mastering Project Governance: Achieving Codebase Excellence and Consistency &lpar;Frontend&rpar;](https://dev.to/nevnet99/mastering-project-governance-achieving-codebase-excellence-and-consistency-frontend-2h65)
+- [Dev.to/JS] [Beware of scammers/hackers targeting blockchain developers](https://dev.to/muratcanyuksel/beware-of-scammershackers-targeting-blockchain-developers-4cb9)
+- [Lifehacker] [How to Talk to Your Kids About Suicide](https://lifehacker.com/how-to-lower-your-teenagers-risk-of-suicide-1847047272)
+- [Dev.to/JS] [&#39;onSticky&#39; Event hook in React](https://dev.to/ionellupu/onsticky-event-hook-in-react-53i0)
+- [Lifehacker] [How to Talk to Your Kids About LGBTQ+ Issues](https://lifehacker.com/how-to-talk-to-your-kids-about-lgbtq-issues-1850507422)
 - [Lifehacker] [An Age-By-Age Guide to Teaching Kids About Online Safety](https://lifehacker.com/an-age-by-age-guide-to-teaching-kids-about-online-safet-1850474580)
 - [Dev.to/JS] [Ma&#39;lumotlar tuzilmalari va algoritmlarni nega o&#39;rganish kerak? Axir, ularni ishda ishlatmaymanku 🤷‍♂️](https://dev.to/donishmand23/malumotlar-tuzilmalari-va-algoritmlarni-nega-organish-kerak-axir-ularni-ishda-ishlatmaymanku-1e8)
 - [Dev.to/JS] [Progress Bar using HTML, CSS, JS](https://dev.to/shawn2208/progress-bar-using-html-css-js-258n)
@@ -36,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Map, Filter &amp; Reduce in JavaScript # 17](https://dev.to/sksage/map-filter-reduce-in-javascript-17-4jj5)
 - [Dev.to/JS] [Take your webpack to the next level by understanding these concepts](https://dev.to/limingcan562/take-your-webpack-to-the-next-level-by-understanding-these-concepts-h2p)
 - [Lifehacker] [An Age-By-Age Guide to Teaching Kids About Money](https://lifehacker.com/an-age-by-age-guide-to-teaching-kids-about-money-1846651973)
-- [Dev.to/JS] [jQuery Sidebar Menu with Submenu](https://dev.to/arsalanmee/jquery-sidebar-menu-with-submenu-45gl)
 - [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Divorce](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-divorce-1846861909)
-- [Dev.to/JS] [Componente genérico de Detalhes de Categoria usando Chakra UI no CrazyStack Next.js](https://dev.to/devdoido/componente-generico-de-detalhes-de-categoria-usando-chakra-ui-no-crazystack-nextjs-3hib)
-- [Dev.to/JS] [React with Redux - The Definitive guide.](https://dev.to/gautham495/react-with-redux-the-definitive-guide-4gbj)
-- [Dev.to/JS] [How Process Models play a key role in Software Development](https://dev.to/sardarmudassaralikhan/how-process-models-play-a-key-role-in-software-development-inf)
 - [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Drugs](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-drugs-1850524717)
 - [Lifehacker] [How to Talk to Your Kids About Porn](https://lifehacker.com/how-to-talk-to-your-kids-about-porn-1838886045)
 - [Lifehacker] [How to Teach Kids About Sexism](https://lifehacker.com/how-to-teach-kids-about-sexism-1846110388)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Netflix’s ‘You Are Awful’ Online Experience Is Either Deeply Oblivious or Downright Evil](https://lifehacker.com/netflix-s-you-are-awful-online-experience-is-either-d-1850570992)
 - [Lifehacker] [Do These Three Things to Prepare for a Phone Interview With a Recruiter](https://lifehacker.com/do-these-three-things-to-prepare-for-a-phone-interview-1850570995)
 - [Lifehacker] [That Zoom Settlement Email Is Legit](https://lifehacker.com/that-zoom-settlement-email-is-legit-1850570936)
-- [Lifehacker] [This MBA Training Course Bundle Is 87% Off Right Now](https://lifehacker.com/this-mba-training-course-bundle-is-87-off-right-now-1850560831)
-- [Lifehacker] [You Can Save $20 on Nintendo&#39;s New &#39;Super Mario&#39; Games](https://lifehacker.com/you-can-save-20-on-nintendos-new-super-mario-games-1850569829)
-- [Lifehacker] [You Can Get This Refurbished Lenovo ThinkPad With Microsoft Office for $200](https://lifehacker.com/you-can-get-this-refurbished-lenovo-thinkpad-with-micro-1850561831)
-- [Lifehacker] [The New, Better Way to Take Screenshots in Chrome’s Incognito Mode on Android](https://lifehacker.com/the-new-better-way-to-take-screenshots-in-chrome-s-inc-1850569345)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This MBA Training Course Bundle Is 87% Off Right Now](https://lifehacker.com/this-mba-training-course-bundle-is-87-off-right-now-1850560831)<!-- TECH-POSTS:END -->
 
 ---
 
