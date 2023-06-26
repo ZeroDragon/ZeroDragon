@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Arrays vs. Data Structure Arrays: Which Should You Use and When?](https://dev.to/imkrunalkanojiya/javascript-arrays-vs-data-structure-arrays-which-should-you-use-and-when-40lb)
+- [Dev.to/JS] [An important lesson I learned.](https://dev.to/gikundirodivine/an-important-lesson-i-learned-38df)
+- [Dev.to/JS] [How to change &quot;state&quot; during render without infinite loops](https://dev.to/casewinter/how-to-change-state-during-render-without-infinite-loops-507b)
+- [Lifehacker] [How to Talk to Your Kids About Porn](https://lifehacker.com/how-to-talk-to-your-kids-about-porn-1838886045)
+- [Dev.to/JS] [Fix React.useState using &quot;as const&quot;](https://dev.to/asciibi/fix-reactusestate-using-as-const-2a84)
 - [Lifehacker] [How to Teach Kids About Sexism](https://lifehacker.com/how-to-teach-kids-about-sexism-1846110388)
 - [Dev.to/JS] [How I deploy my website using my Apple Watch](https://dev.to/whitep4nth3r/how-i-deploy-my-website-using-my-apple-watch-18m5)
 - [Dev.to/JS] [Call, Apply and Bind](https://dev.to/adii/call-apply-and-bind-287m)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Your best bet for future of software development](https://dev.to/pajko97/your-best-bet-for-future-of-software-development-41a)
 - [Dev.to/JS] [Your Guide to Implementing Vue Placeholder Loading](https://dev.to/renanfranca/your-guide-to-implementing-vue-placeholder-loading-11df)
 - [Dev.to/JS] [The Power of Unit Testing: Building Robust and Reliable Software](https://dev.to/moaz178/the-power-of-unit-testing-building-robust-and-reliable-software-4p9j)
-- [Dev.to/JS] [Become a Pro MERN Stack Developer! &lpar;Complete Roadmap&rpar;](https://dev.to/codewithmasood/become-a-pro-mern-stack-developer-complete-roadmap-19io)
-- [Dev.to/JS] [Break out of Tutorial Hell - What to Do When You&#39;re Going Nowhere](https://dev.to/canderson93/break-out-of-tutorial-hell-what-to-do-when-youre-going-nowhere-34gf)
-- [Dev.to/JS] [10 Impeccable JavaScript Projects for Beginners](https://dev.to/hzahar/10-impeccable-javascript-projects-for-beginners-2b53)
-- [Dev.to/JS] [Qwik introduction from Misko and Giorgio](https://dev.to/this-is-learning/qwik-introduction-from-misko-and-giorgio-3dbl)
 - [Lifehacker] [Don&#39;t Make These Gardening Mistakes After a Heavy Rainfall](https://lifehacker.com/dont-make-these-gardening-mistakes-after-a-heavy-rainfa-1850569647)
 - [Lifehacker] [The Easiest Way to Get Rid of the Musty Smell Coming From Your Car&#39;s AC](https://lifehacker.com/the-easiest-way-to-get-rid-of-the-musty-smell-coming-fr-1850567518)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Making Strawberry Jam and Make Vinegar Instead](https://lifehacker.com/stop-making-strawberry-jam-and-make-vinegar-instead-1850566250)
 - [Lifehacker] [How to Change the Gender on Your Driver&#39;s License](https://lifehacker.com/how-to-change-the-gender-on-your-drivers-license-1850547620)
 - [Lifehacker] [This Two-Ingredient Strawberry Sambal Salsa Will Knock Your Socks Off](https://lifehacker.com/this-two-ingredient-strawberry-sambal-salsa-will-knock-1850566114)
-- [Lifehacker] [Defy Parkinson’s Law to Be More Productive](https://lifehacker.com/defy-parkinson-s-law-to-be-more-productive-1850565701)
-- [Lifehacker] [The Panzerotti Needs Your Attention, Please](https://lifehacker.com/the-panzerotti-needs-your-attention-please-1850567155)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Defy Parkinson’s Law to Be More Productive](https://lifehacker.com/defy-parkinson-s-law-to-be-more-productive-1850565701)<!-- TECH-POSTS:END -->
 
 ---
 
