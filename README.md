@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Most Used commands, methods, and concepts of Node.js](https://dev.to/manthanank/most-used-commands-methods-and-concepts-of-nodejs-182e)
+- [Dev.to/JS] [RxJS Operators: buffer](https://dev.to/drownedintech/rxjs-operators-buffer-526h)
+- [Lifehacker] [This Refurbished Mac Mini Is on Sale for $206](https://lifehacker.com/this-refurbished-mac-mini-is-on-sale-for-206-1850572072)
+- [Dev.to/JS] [12 Super Cool Machine Learning Projects that you didn&#39;t know are Open Source and made of JavaScript](https://dev.to/wmisingo/12-super-cool-machine-learning-projects-that-you-didnt-know-are-open-source-and-made-of-javascript-33cj)
 - [Lifehacker] [This Refurbished iPad and Wireless Beats Headphones Bundle Is $240 Right Now](https://lifehacker.com/this-refurbished-ipad-and-wireless-beats-headphones-bun-1850562075)
 - [Dev.to/JS] [JavaScript Collections Guide](https://dev.to/catherineisonline/javascript-collections-guide-119e)
 - [Lifehacker] [These Language-Translating Earbuds Are $149 Right Now](https://lifehacker.com/these-language-translating-earbuds-are-149-right-now-1850562118)
@@ -38,11 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Project Governance: Achieving Codebase Excellence and Consistency &lpar;Frontend&rpar;](https://dev.to/nevnet99/mastering-project-governance-achieving-codebase-excellence-and-consistency-frontend-2h65)
 - [Dev.to/JS] [Beware of scammers/hackers targeting blockchain developers](https://dev.to/muratcanyuksel/beware-of-scammershackers-targeting-blockchain-developers-4cb9)
 - [Lifehacker] [How to Talk to Your Kids About Suicide](https://lifehacker.com/how-to-lower-your-teenagers-risk-of-suicide-1847047272)
-- [Dev.to/JS] [&#39;onSticky&#39; Event hook in React](https://dev.to/ionellupu/onsticky-event-hook-in-react-53i0)
 - [Lifehacker] [How to Talk to Your Kids About LGBTQ+ Issues](https://lifehacker.com/how-to-talk-to-your-kids-about-lgbtq-issues-1850507422)
 - [Lifehacker] [An Age-By-Age Guide to Teaching Kids About Online Safety](https://lifehacker.com/an-age-by-age-guide-to-teaching-kids-about-online-safet-1850474580)
-- [Dev.to/JS] [Ma&#39;lumotlar tuzilmalari va algoritmlarni nega o&#39;rganish kerak? Axir, ularni ishda ishlatmaymanku 🤷‍♂️](https://dev.to/donishmand23/malumotlar-tuzilmalari-va-algoritmlarni-nega-organish-kerak-axir-ularni-ishda-ishlatmaymanku-1e8)
-- [Dev.to/JS] [Progress Bar using HTML, CSS, JS](https://dev.to/shawn2208/progress-bar-using-html-css-js-258n)
 - [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Race](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-race-1850460959)
 - [Lifehacker] [You Don&#39;t Need to Separate Your Laundry &lpar;With One Common Exception&rpar;](https://lifehacker.com/you-dont-need-to-separate-your-laundry-with-once-commo-1850575667)
 - [Lifehacker] [How to Talk to Your Kids About Job Loss](https://lifehacker.com/how-to-talk-to-your-kids-about-job-loss-1844010932)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Food Deals and Freebies This Fourth of July Weekend](https://lifehacker.com/the-best-food-deals-and-freebies-this-fourth-of-july-we-1850567524)
 - [Lifehacker] [These Amazon Fire Kids Tablets Are Up to 50% Off](https://lifehacker.com/these-amazon-fire-kids-tablets-are-up-to-50-off-1850571928)
 - [Lifehacker] [What&#39;s New on Max in July 2023](https://lifehacker.com/whats-new-on-max-in-july-2023-1850572037)
-- [Lifehacker] [Three Things You Should Never Post on LinkedIn](https://lifehacker.com/three-things-you-should-never-post-on-linkedin-1850571589)
-- [Lifehacker] [You Can Make This Bananas Foster In Just 10 Minutes](https://lifehacker.com/you-can-make-this-bananas-foster-in-just-10-minutes-1850571395)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Three Things You Should Never Post on LinkedIn](https://lifehacker.com/three-things-you-should-never-post-on-linkedin-1850571589)<!-- TECH-POSTS:END -->
 
 ---
 
