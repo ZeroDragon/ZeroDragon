@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Refurbished iPad and Wireless Beats Headphones Bundle Is $240 Right Now](https://lifehacker.com/this-refurbished-ipad-and-wireless-beats-headphones-bun-1850562075)
+- [Dev.to/JS] [JavaScript Collections Guide](https://dev.to/catherineisonline/javascript-collections-guide-119e)
+- [Lifehacker] [These Language-Translating Earbuds Are $149 Right Now](https://lifehacker.com/these-language-translating-earbuds-are-149-right-now-1850562118)
+- [Dev.to/JS] [AI/LLM Recipe Generator with chatGPT](https://dev.to/goldins/aillm-recipe-generator-with-chatgpt-4dnk)
+- [Dev.to/JS] [Improve Performances With Dynamic “Content-Visibility”](https://dev.to/brunosabot/improve-performances-with-dynamic-content-visibility-8bb)
+- [Dev.to/JS] [The 7 Traits of a Rock Star React Developer](https://dev.to/mohammadfaisal/the-7-traits-of-a-rock-star-react-developer-1825)
 - [Lifehacker] [How to Talk to Kids About the Screwed-Up State of U.S. Politics](https://lifehacker.com/how-to-talk-to-kids-about-the-fucked-up-state-of-u-s-p-1850563568)
 - [Dev.to/JS] [Understand the concept of dependency list in useEffect in reactjs](https://dev.to/gaurbprajapati/understand-the-concept-of-dependency-list-in-useeffect-in-reactjs-426k)
 - [Lifehacker] [How to Talk to Your Kids About School Shootings](https://lifehacker.com/how-to-talk-to-your-kids-about-school-shootings-1848975621)
@@ -39,11 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Progress Bar using HTML, CSS, JS](https://dev.to/shawn2208/progress-bar-using-html-css-js-258n)
 - [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Race](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-race-1850460959)
 - [Lifehacker] [You Don&#39;t Need to Separate Your Laundry &lpar;With One Common Exception&rpar;](https://lifehacker.com/you-dont-need-to-separate-your-laundry-with-once-commo-1850575667)
-- [Dev.to/JS] [Build Smarter, Not Harder: Simplifying Backend Workflows with Build-time GraphQL](https://dev.to/slickstef11/build-smarter-not-harder-simplifying-backend-workflows-with-build-time-graphql-23d0)
-- [Dev.to/JS] [Hasura is sooooo 2015](https://dev.to/slickstef11/hasura-is-sooooo-2015-gjl)
-- [Dev.to/JS] [What is Hoisting in JavaScript?](https://dev.to/arpitashrivastav/what-is-hoisting-in-javascript-2dap)
 - [Lifehacker] [How to Talk to Your Kids About Job Loss](https://lifehacker.com/how-to-talk-to-your-kids-about-job-loss-1844010932)
-- [Dev.to/JS] [How to use Job Queue to handle email sending in your Nestjs server](https://dev.to/niemet0502/how-to-use-job-queue-to-handle-email-sending-in-your-nestjs-server-3l4m)
 - [Lifehacker] [An Age-By-Age Guide to Teaching Kids About Money](https://lifehacker.com/an-age-by-age-guide-to-teaching-kids-about-money-1846651973)
 - [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Divorce](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-divorce-1846861909)
 - [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Drugs](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-drugs-1850524717)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Amazon Fire Kids Tablets Are Up to 50% Off](https://lifehacker.com/these-amazon-fire-kids-tablets-are-up-to-50-off-1850571928)
 - [Lifehacker] [What&#39;s New on Max in July 2023](https://lifehacker.com/whats-new-on-max-in-july-2023-1850572037)
 - [Lifehacker] [Three Things You Should Never Post on LinkedIn](https://lifehacker.com/three-things-you-should-never-post-on-linkedin-1850571589)
-- [Lifehacker] [You Can Make This Bananas Foster In Just 10 Minutes](https://lifehacker.com/you-can-make-this-bananas-foster-in-just-10-minutes-1850571395)
-- [Lifehacker] [Netflix’s ‘You Are Awful’ Online Experience Is Either Deeply Oblivious or Downright Evil](https://lifehacker.com/netflix-s-you-are-awful-online-experience-is-either-d-1850570992)
-- [Lifehacker] [Do These Three Things to Prepare for a Phone Interview With a Recruiter](https://lifehacker.com/do-these-three-things-to-prepare-for-a-phone-interview-1850570995)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Make This Bananas Foster In Just 10 Minutes](https://lifehacker.com/you-can-make-this-bananas-foster-in-just-10-minutes-1850571395)<!-- TECH-POSTS:END -->
 
 ---
 
