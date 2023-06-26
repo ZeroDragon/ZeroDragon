@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Talk to Kids About the Screwed-Up State of U.S. Politics](https://lifehacker.com/how-to-talk-to-kids-about-the-fucked-up-state-of-u-s-p-1850563568)
+- [Dev.to/JS] [Understand the concept of dependency list in useEffect in reactjs](https://dev.to/gaurbprajapati/understand-the-concept-of-dependency-list-in-useeffect-in-reactjs-426k)
+- [Lifehacker] [How to Talk to Your Kids About School Shootings](https://lifehacker.com/how-to-talk-to-your-kids-about-school-shootings-1848975621)
+- [Dev.to/JS] [Toon Boom Harmony 23.1 Crack Free Download Activated](https://dev.to/allcracksoft/toon-boom-harmony-231-crack-free-download-activated-46cl)
 - [Lifehacker] [How to Talk to Your Kids About Guns](https://lifehacker.com/how-to-talk-to-your-kids-about-guns-1850540336)
 - [Dev.to/JS] [Promises](https://dev.to/mrizwanashiq/promises-3hfb)
 - [Dev.to/JS] [Mastering Project Governance: Achieving Codebase Excellence and Consistency &lpar;Frontend&rpar;](https://dev.to/nevnet99/mastering-project-governance-achieving-codebase-excellence-and-consistency-frontend-2h65)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Hoisting in JavaScript?](https://dev.to/arpitashrivastav/what-is-hoisting-in-javascript-2dap)
 - [Lifehacker] [How to Talk to Your Kids About Job Loss](https://lifehacker.com/how-to-talk-to-your-kids-about-job-loss-1844010932)
 - [Dev.to/JS] [How to use Job Queue to handle email sending in your Nestjs server](https://dev.to/niemet0502/how-to-use-job-queue-to-handle-email-sending-in-your-nestjs-server-3l4m)
-- [Dev.to/JS] [Map, Filter &amp; Reduce in JavaScript # 17](https://dev.to/sksage/map-filter-reduce-in-javascript-17-4jj5)
-- [Dev.to/JS] [Take your webpack to the next level by understanding these concepts](https://dev.to/limingcan562/take-your-webpack-to-the-next-level-by-understanding-these-concepts-h2p)
 - [Lifehacker] [An Age-By-Age Guide to Teaching Kids About Money](https://lifehacker.com/an-age-by-age-guide-to-teaching-kids-about-money-1846651973)
 - [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Divorce](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-divorce-1846861909)
 - [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Drugs](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-drugs-1850524717)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Things You Should Never Post on LinkedIn](https://lifehacker.com/three-things-you-should-never-post-on-linkedin-1850571589)
 - [Lifehacker] [You Can Make This Bananas Foster In Just 10 Minutes](https://lifehacker.com/you-can-make-this-bananas-foster-in-just-10-minutes-1850571395)
 - [Lifehacker] [Netflix’s ‘You Are Awful’ Online Experience Is Either Deeply Oblivious or Downright Evil](https://lifehacker.com/netflix-s-you-are-awful-online-experience-is-either-d-1850570992)
-- [Lifehacker] [Do These Three Things to Prepare for a Phone Interview With a Recruiter](https://lifehacker.com/do-these-three-things-to-prepare-for-a-phone-interview-1850570995)
-- [Lifehacker] [That Zoom Settlement Email Is Legit](https://lifehacker.com/that-zoom-settlement-email-is-legit-1850570936)
-- [Lifehacker] [This MBA Training Course Bundle Is 87% Off Right Now](https://lifehacker.com/this-mba-training-course-bundle-is-87-off-right-now-1850560831)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Do These Three Things to Prepare for a Phone Interview With a Recruiter](https://lifehacker.com/do-these-three-things-to-prepare-for-a-phone-interview-1850570995)<!-- TECH-POSTS:END -->
 
 ---
 
