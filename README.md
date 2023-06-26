@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Prepare for All the Parenting &#39;Big Talks&#39;](https://lifehacker.com/how-to-prepare-for-all-the-parenting-big-talks-1850545261)
+- [Dev.to/JS] [Your best bet for future of software development](https://dev.to/pajko97/your-best-bet-for-future-of-software-development-41a)
 - [Dev.to/JS] [Your Guide to Implementing Vue Placeholder Loading](https://dev.to/renanfranca/your-guide-to-implementing-vue-placeholder-loading-11df)
 - [Dev.to/JS] [The Power of Unit Testing: Building Robust and Reliable Software](https://dev.to/moaz178/the-power-of-unit-testing-building-robust-and-reliable-software-4p9j)
 - [Dev.to/JS] [Become a Pro MERN Stack Developer! &lpar;Complete Roadmap&rpar;](https://dev.to/codewithmasood/become-a-pro-mern-stack-developer-complete-roadmap-19io)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bootstrap Basic](https://dev.to/mohan077/bootstrap-basic-3mnd)
 - [Dev.to/JS] [AZ-500 Exam Dumps: Practice for Real Exam Scenarios and Gain Confidence](https://dev.to/g6i8bx33/az-500-exam-dumps-practice-for-real-exam-scenarios-and-gain-confidence-1nh9)
 - [Dev.to/JS] [Google Promotion Services and How They Work](https://dev.to/webvyaparindia/google-promotion-services-and-how-they-work-1996)
-- [Dev.to/JS] [Learn Java + SQL](https://dev.to/ganeshstwt/learn-java-sql-47o4)
 - [Lifehacker] [Don&#39;t Make These Gardening Mistakes After a Heavy Rainfall](https://lifehacker.com/dont-make-these-gardening-mistakes-after-a-heavy-rainfa-1850569647)
 - [Lifehacker] [The Easiest Way to Get Rid of the Musty Smell Coming From Your Car&#39;s AC](https://lifehacker.com/the-easiest-way-to-get-rid-of-the-musty-smell-coming-fr-1850567518)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Defy Parkinson’s Law to Be More Productive](https://lifehacker.com/defy-parkinson-s-law-to-be-more-productive-1850565701)
 - [Lifehacker] [The Panzerotti Needs Your Attention, Please](https://lifehacker.com/the-panzerotti-needs-your-attention-please-1850567155)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Titanic Submersible](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-titanic-su-1850566979)
-- [Lifehacker] [Seven Things You Need to Start Backyard Camping](https://lifehacker.com/seven-things-you-need-to-start-backyard-camping-1850566176)
-- [Lifehacker] [Microsoft Is Raising Game Pass Prices &lpar;Here’s How You Can Actually Pay Less&rpar;](https://lifehacker.com/microsoft-is-raising-game-pass-prices-here-s-how-you-c-1850566622)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Seven Things You Need to Start Backyard Camping](https://lifehacker.com/seven-things-you-need-to-start-backyard-camping-1850566176)<!-- TECH-POSTS:END -->
 
 ---
 
