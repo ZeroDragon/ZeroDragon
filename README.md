@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [jQuery Sidebar Menu with Submenu](https://dev.to/arsalanmee/jquery-sidebar-menu-with-submenu-45gl)
+- [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Divorce](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-divorce-1846861909)
+- [Dev.to/JS] [Componente genérico de Detalhes de Categoria usando Chakra UI no CrazyStack Next.js](https://dev.to/devdoido/componente-generico-de-detalhes-de-categoria-usando-chakra-ui-no-crazystack-nextjs-3hib)
+- [Dev.to/JS] [React with Redux - The Definitive guide.](https://dev.to/gautham495/react-with-redux-the-definitive-guide-4gbj)
+- [Dev.to/JS] [How Process Models play a key role in Software Development](https://dev.to/sardarmudassaralikhan/how-process-models-play-a-key-role-in-software-development-inf)
+- [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Drugs](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-drugs-1850524717)
 - [Dev.to/JS] [JavaScript Arrays vs. Data Structure Arrays: Which Should You Use and When?](https://dev.to/imkrunalkanojiya/javascript-arrays-vs-data-structure-arrays-which-should-you-use-and-when-40lb)
 - [Dev.to/JS] [An important lesson I learned.](https://dev.to/gikundirodivine/an-important-lesson-i-learned-38df)
 - [Dev.to/JS] [How to change &quot;state&quot; during render without infinite loops](https://dev.to/casewinter/how-to-change-state-during-render-without-infinite-loops-507b)
@@ -34,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Sex](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-sex-1850556294)
 - [Dev.to/JS] [Washing your code: naming is hard](https://dev.to/sapegin/washing-your-code-naming-is-hard-1kbl)
 - [Dev.to/JS] [Typescript Type Level Custom Error Message, Move Runtime Error to Compile time Error!](https://dev.to/tylim88/typescript-type-level-custom-error-message-move-runtime-error-to-compile-time-error-4pcc)
-- [Dev.to/JS] [JS - FAQ](https://dev.to/codercrux/js-faq-3n04)
 - [Lifehacker] [How to Prepare for All the Parenting &#39;Big Talks&#39;](https://lifehacker.com/how-to-prepare-for-all-the-parenting-big-talks-1850545261)
-- [Dev.to/JS] [Your best bet for future of software development](https://dev.to/pajko97/your-best-bet-for-future-of-software-development-41a)
-- [Dev.to/JS] [Your Guide to Implementing Vue Placeholder Loading](https://dev.to/renanfranca/your-guide-to-implementing-vue-placeholder-loading-11df)
-- [Dev.to/JS] [The Power of Unit Testing: Building Robust and Reliable Software](https://dev.to/moaz178/the-power-of-unit-testing-building-robust-and-reliable-software-4p9j)
 - [Lifehacker] [Don&#39;t Make These Gardening Mistakes After a Heavy Rainfall](https://lifehacker.com/dont-make-these-gardening-mistakes-after-a-heavy-rainfa-1850569647)
 - [Lifehacker] [The Easiest Way to Get Rid of the Musty Smell Coming From Your Car&#39;s AC](https://lifehacker.com/the-easiest-way-to-get-rid-of-the-musty-smell-coming-fr-1850567518)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: The Titanic Submersible and Blink-182](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-the-titan-1850568227)
 - [Lifehacker] [You Can Clean Your Grungy Landscape Rock](https://lifehacker.com/you-can-clean-your-grungy-landscape-rock-1850568220)
 - [Lifehacker] [Stop Making Strawberry Jam and Make Vinegar Instead](https://lifehacker.com/stop-making-strawberry-jam-and-make-vinegar-instead-1850566250)
-- [Lifehacker] [How to Change the Gender on Your Driver&#39;s License](https://lifehacker.com/how-to-change-the-gender-on-your-drivers-license-1850547620)
-- [Lifehacker] [This Two-Ingredient Strawberry Sambal Salsa Will Knock Your Socks Off](https://lifehacker.com/this-two-ingredient-strawberry-sambal-salsa-will-knock-1850566114)
-- [Lifehacker] [Defy Parkinson’s Law to Be More Productive](https://lifehacker.com/defy-parkinson-s-law-to-be-more-productive-1850565701)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Change the Gender on Your Driver&#39;s License](https://lifehacker.com/how-to-change-the-gender-on-your-drivers-license-1850547620)<!-- TECH-POSTS:END -->
 
 ---
 
