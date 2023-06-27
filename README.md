@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Responsive Navigation Bar with logo, search bar and links](https://dev.to/smitprajapati/responsive-navigation-bar-with-logo-search-bar-and-links-2nd8)
+- [Dev.to/JS] [Should You Learn React in 2023?](https://dev.to/rafikadir/should-you-learn-react-in-2023-fon)
+- [Dev.to/JS] [What is a Super Synced Software](https://dev.to/3duno/what-is-a-super-synced-software-m89)
+- [Lifehacker] [How to Scoop a Quenelle Like a Freakin&#39; Pro](https://lifehacker.com/how-to-scoop-a-quenelle-like-a-freakin-pro-1850577790)
 - [Lifehacker] [It&#39;s Time to Start Your Fall Garden](https://lifehacker.com/its-time-to-start-your-fall-garden-1850571652)
 - [Dev.to/JS] [Concatenate multiple React components](https://dev.to/andrewchaa/concatenate-multiple-react-components-24d9)
 - [Lifehacker] [Seven TikTok Woodworking Hacks That Actually Work](https://lifehacker.com/seven-tiktok-woodworking-hacks-that-actually-work-1850575573)
@@ -37,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Kill Your Lawn for Free &lpar;and Replace It With Something Better&rpar;](https://lifehacker.com/kill-your-lawn-for-free-and-replace-it-with-something-1850575657)
 - [Dev.to/JS] [GraphQL - Resolvers](https://dev.to/shubhamtiwari909/graphql-resolvers-4e49)
 - [Dev.to/JS] [GraphQL - TypeDefs](https://dev.to/shubhamtiwari909/graphql-typedefs-4bdf)
-- [Dev.to/JS] [Closures Vs. Prototypes in JavaScript](https://dev.to/getsmartwebsite/closures-vs-prototypes-in-javascript-163i)
 - [Lifehacker] [Three Ways to Deal With Your Micromanging Boss](https://lifehacker.com/three-ways-to-deal-with-your-micromanging-boss-1850575867)
-- [Dev.to/JS] [Mastering JavaScript String Methods: A Comprehensive Guide](https://dev.to/crossskatee1/mastering-javascript-string-methods-a-comprehensive-guide-24gj)
-- [Dev.to/JS] [GraphQL - Part 1](https://dev.to/shubhamtiwari909/graphql-part-1-8b1)
 - [Lifehacker] [Where to Get Free Wood Chips for Your Lawn](https://lifehacker.com/where-to-get-free-wood-chips-for-your-lawn-1850577513)
 - [Lifehacker] [Your Pixel Fold Order Was Probably Canceled](https://lifehacker.com/your-pixel-fold-order-was-probably-canceled-1850576079)
 - [Lifehacker] [This Refurbished Mac Mini Is on Sale for $206](https://lifehacker.com/this-refurbished-mac-mini-is-on-sale-for-206-1850572072)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Talk to Your Kids About Porn](https://lifehacker.com/how-to-talk-to-your-kids-about-porn-1838886045)
 - [Lifehacker] [How to Teach Kids About Sexism](https://lifehacker.com/how-to-teach-kids-about-sexism-1846110388)
 - [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Sex](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-sex-1850556294)
-- [Lifehacker] [How to Prepare for All the Parenting &#39;Big Talks&#39;](https://lifehacker.com/how-to-prepare-for-all-the-parenting-big-talks-1850545261)
-- [Lifehacker] [Don&#39;t Make These Gardening Mistakes After a Heavy Rainfall](https://lifehacker.com/dont-make-these-gardening-mistakes-after-a-heavy-rainfa-1850569647)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Prepare for All the Parenting &#39;Big Talks&#39;](https://lifehacker.com/how-to-prepare-for-all-the-parenting-big-talks-1850545261)<!-- TECH-POSTS:END -->
 
 ---
 
