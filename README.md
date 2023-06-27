@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Discover the Top Paying Technologies of 2023! 💰💻](https://dev.to/hr21don/discover-the-top-paying-technologies-of-2023-3325)
+- [Dev.to/JS] [Sharing Layouts with NextJS 13 app dir](https://dev.to/headbwoi/sharing-layouts-with-nextjs-13-app-dir-3374)
 - [Dev.to/JS] [Flex your muscles 🧠💪](https://dev.to/builditdeploy/flex-your-muscles-3alk)
 - [Lifehacker] [RFK Jr.&#39;s Bench Press Isn&#39;t Actually That Impressive](https://lifehacker.com/rfk-jr-s-bench-press-isnt-actually-that-impressive-1850582894)
 - [Dev.to/JS] [Episode 23/25: ng-conf, Signals with Ryan Carniato and Ben Lesh](https://dev.to/this-is-angular/episode-2325-ng-conf-signals-with-ryan-carniato-and-ben-lesh-3ne6)
@@ -38,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Content Delivery with Node.js Streams](https://dev.to/ddanielcruzz/content-delivery-with-nodejs-streams-15a6)
 - [Lifehacker] [The Japanese Fruit Sando Is a Summer Essential](https://lifehacker.com/the-japanese-fruit-sando-is-a-summer-essential-1850581103)
 - [Dev.to/JS] [Using Prisma with SvelteKit](https://dev.to/joshnuss/using-prisma-with-sveltekit-46l6)
-- [Dev.to/JS] [Sharing UI Tests Between Javascript Frameworks](https://dev.to/scottnath/sharing-ui-tests-between-javascript-frameworks-2l6n)
 - [Lifehacker] [Get Unlimited Access to 80+ Upskillset Courses for 80% Off](https://lifehacker.com/get-unlimited-access-to-80-upskillset-courses-for-80-1850572264)
-- [Dev.to/JS] [Creating an Animated and Accessible Accordion with JavaScript, HTML, and CSS](https://dev.to/sumukhakb210/creating-an-animated-and-accessible-accordion-with-javascript-html-and-css-k5a)
 - [Lifehacker] [Those SmileDirectClub NDAs Are Void &lpar;So You Can Talk About Your Experience Now&rpar;](https://lifehacker.com/those-smiledirectclub-ndas-are-void-so-you-can-talk-ab-1850574775)
 - [Lifehacker] [How to Get Free Grape Leaves &lpar;and What to Make with Them&rpar;](https://lifehacker.com/how-to-get-free-grape-leaves-and-what-to-make-with-the-1850566546)
 - [Lifehacker] [You Should Flavor Your Coffee With Extracts Instead of Syrups](https://lifehacker.com/you-should-flavor-your-coffee-with-extracts-instead-of-1850578612)
