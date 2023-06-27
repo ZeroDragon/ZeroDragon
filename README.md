@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a RESTful API with Node.js and Express.js](https://dev.to/iamutkarshyadav/building-a-restful-api-with-nodejs-and-expressjs-3n0h)
+- [Dev.to/JS] [Laravel Livewire Multiple Selection with Virtual Select](https://dev.to/koossaayy/laravel-livewire-multiple-selection-with-virtual-select-1f87)
+- [Dev.to/JS] [Interactive Noodle Dish](https://dev.to/toa_anakin/interactive-noodle-dish-15ak)
+- [Dev.to/JS] [Javascript Animation with Canvas](https://dev.to/jimjohnsonui/javascript-animation-with-canvas-497a)
+- [Dev.to/JS] [Introdução a blockchain](https://dev.to/wilsonlucena/introducao-a-blockchain-no6)
 - [Dev.to/JS] [React Server Components with Next.JS: The Complete Guide](https://dev.to/alakkadshaw/react-server-components-with-nextjs-the-complete-guide-2i5k)
 - [Dev.to/JS] [Using an AWS API Gateway with AWS Lambda, and AWS DynamoDB](https://dev.to/aws-builders/using-an-aws-api-gateway-with-aws-lambda-and-aws-dynamodb-55c7)
 - [Dev.to/JS] [Unraveling the Mysteries of Code: Decoding, Interpreting and Compiling](https://dev.to/csituma/unraveling-the-mysteries-of-code-decoding-interpreting-and-compiling-4dkn)
@@ -31,14 +36,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript and the meta-programming hell](https://dev.to/wmattei/javascript-and-the-meta-programming-hell-4dj3)
 - [Dev.to/JS] [Most Used commands, methods, and concepts of Node.js](https://dev.to/manthanank/most-used-commands-methods-and-concepts-of-nodejs-182e)
 - [Lifehacker] [Your Pixel Fold Order Was Probably Canceled](https://lifehacker.com/your-pixel-fold-order-was-probably-canceled-1850576079)
-- [Dev.to/JS] [RxJS Operators: buffer](https://dev.to/drownedintech/rxjs-operators-buffer-526h)
 - [Lifehacker] [This Refurbished Mac Mini Is on Sale for $206](https://lifehacker.com/this-refurbished-mac-mini-is-on-sale-for-206-1850572072)
-- [Dev.to/JS] [12 Super Cool Machine Learning Projects that you didn&#39;t know are Open Source and made of JavaScript](https://dev.to/wmisingo/12-super-cool-machine-learning-projects-that-you-didnt-know-are-open-source-and-made-of-javascript-33cj)
 - [Lifehacker] [This Refurbished iPad and Wireless Beats Headphones Bundle Is $240 Right Now](https://lifehacker.com/this-refurbished-ipad-and-wireless-beats-headphones-bun-1850562075)
-- [Dev.to/JS] [JavaScript Collections Guide](https://dev.to/catherineisonline/javascript-collections-guide-119e)
 - [Lifehacker] [These Language-Translating Earbuds Are $149 Right Now](https://lifehacker.com/these-language-translating-earbuds-are-149-right-now-1850562118)
-- [Dev.to/JS] [AI/LLM Recipe Generator with chatGPT](https://dev.to/goldins/aillm-recipe-generator-with-chatgpt-4dnk)
-- [Dev.to/JS] [Improve Performances With Dynamic “Content-Visibility”](https://dev.to/brunosabot/improve-performances-with-dynamic-content-visibility-8bb)
 - [Lifehacker] [How to Talk to Kids About the Screwed-Up State of U.S. Politics](https://lifehacker.com/how-to-talk-to-kids-about-the-fucked-up-state-of-u-s-p-1850563568)
 - [Lifehacker] [How to Talk to Your Kids About School Shootings](https://lifehacker.com/how-to-talk-to-your-kids-about-school-shootings-1848975621)
 - [Lifehacker] [How to Talk to Your Kids About Guns](https://lifehacker.com/how-to-talk-to-your-kids-about-guns-1850540336)
