@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Flex your muscles 🧠💪](https://dev.to/builditdeploy/flex-your-muscles-3alk)
+- [Lifehacker] [RFK Jr.&#39;s Bench Press Isn&#39;t Actually That Impressive](https://lifehacker.com/rfk-jr-s-bench-press-isnt-actually-that-impressive-1850582894)
 - [Dev.to/JS] [Episode 23/25: ng-conf, Signals with Ryan Carniato and Ben Lesh](https://dev.to/this-is-angular/episode-2325-ng-conf-signals-with-ryan-carniato-and-ben-lesh-3ne6)
 - [Dev.to/JS] [What should I learn next?](https://dev.to/erina92/what-should-i-learn-next-32b2)
 - [Dev.to/JS] [The Quick Guide To Writing A Function For Beginners](https://dev.to/deborah/the-quick-guide-to-writing-a-function-for-beginners-lp8)
@@ -41,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating an Animated and Accessible Accordion with JavaScript, HTML, and CSS](https://dev.to/sumukhakb210/creating-an-animated-and-accessible-accordion-with-javascript-html-and-css-k5a)
 - [Lifehacker] [Those SmileDirectClub NDAs Are Void &lpar;So You Can Talk About Your Experience Now&rpar;](https://lifehacker.com/those-smiledirectclub-ndas-are-void-so-you-can-talk-ab-1850574775)
 - [Lifehacker] [How to Get Free Grape Leaves &lpar;and What to Make with Them&rpar;](https://lifehacker.com/how-to-get-free-grape-leaves-and-what-to-make-with-the-1850566546)
-- [Dev.to/JS] [Applying the Liskov Substitution Principle in React](https://dev.to/mohammadfaisal/applying-the-liskov-substitution-principle-in-react-2oc0)
 - [Lifehacker] [You Should Flavor Your Coffee With Extracts Instead of Syrups](https://lifehacker.com/you-should-flavor-your-coffee-with-extracts-instead-of-1850578612)
 - [Lifehacker] [How to Scoop a Quenelle Like a Freakin&#39; Pro](https://lifehacker.com/how-to-scoop-a-quenelle-like-a-freakin-pro-1850577790)
 - [Lifehacker] [It&#39;s Time to Start Your Fall Garden](https://lifehacker.com/its-time-to-start-your-fall-garden-1850571652)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Talk to Your Kids About Suicide](https://lifehacker.com/how-to-lower-your-teenagers-risk-of-suicide-1847047272)
 - [Lifehacker] [How to Talk to Your Kids About LGBTQ+ Issues](https://lifehacker.com/how-to-talk-to-your-kids-about-lgbtq-issues-1850507422)
 - [Lifehacker] [An Age-By-Age Guide to Teaching Kids About Online Safety](https://lifehacker.com/an-age-by-age-guide-to-teaching-kids-about-online-safet-1850474580)
-- [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Race](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-race-1850460959)
-- [Lifehacker] [You Don&#39;t Need to Separate Your Laundry &lpar;With One Common Exception&rpar;](https://lifehacker.com/you-dont-need-to-separate-your-laundry-with-once-commo-1850575667)<!-- TECH-POSTS:END -->
+- [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Race](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-race-1850460959)<!-- TECH-POSTS:END -->
 
 ---
 
