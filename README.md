@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript based Excel Office Add-in in Visual Studio](https://dev.to/ifourtechnolab/javascript-based-excel-office-add-in-in-visual-studio-2gno)
 - [Dev.to/JS] [Simplify Your Redux States with Redux Toolkit](https://dev.to/duniandewon/simplify-your-redux-states-with-redux-toolkit-1b43)
 - [Dev.to/JS] [Reverse a string using a recursive function](https://dev.to/mohaiminulislam1820/reverse-a-string-using-a-recursive-function-2a0b)
 - [Dev.to/JS] [1Password Hackthon First Steps - Establish an Account](https://dev.to/builditdeploy/1password-hackthon-first-stepsestablish-an-account-2n6i)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Server Components with Next.JS: The Complete Guide](https://dev.to/alakkadshaw/react-server-components-with-nextjs-the-complete-guide-2i5k)
 - [Dev.to/JS] [Using an AWS API Gateway with AWS Lambda, and AWS DynamoDB](https://dev.to/aws-builders/using-an-aws-api-gateway-with-aws-lambda-and-aws-dynamodb-55c7)
 - [Dev.to/JS] [Unraveling the Mysteries of Code: Decoding, Interpreting and Compiling](https://dev.to/csituma/unraveling-the-mysteries-of-code-decoding-interpreting-and-compiling-4dkn)
-- [Dev.to/JS] [Server Actions, databases, and the future of data handling](https://dev.to/xata/server-actions-databases-and-the-future-of-data-handling-10nn)
 - [Lifehacker] [Your Pixel Fold Order Was Probably Canceled](https://lifehacker.com/your-pixel-fold-order-was-probably-canceled-1850576079)
 - [Lifehacker] [This Refurbished Mac Mini Is on Sale for $206](https://lifehacker.com/this-refurbished-mac-mini-is-on-sale-for-206-1850572072)
 - [Lifehacker] [This Refurbished iPad and Wireless Beats Headphones Bundle Is $240 Right Now](https://lifehacker.com/this-refurbished-ipad-and-wireless-beats-headphones-bun-1850562075)
