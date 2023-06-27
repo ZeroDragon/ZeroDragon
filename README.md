@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [1Password Hackthon First Steps - Establish an Account](https://dev.to/builditdeploy/1password-hackthon-first-stepsestablish-an-account-2n6i)
 - [Dev.to/JS] [Building a RESTful API with Node.js and Express.js](https://dev.to/iamutkarshyadav/building-a-restful-api-with-nodejs-and-expressjs-3n0h)
 - [Dev.to/JS] [Laravel Livewire Multiple Selection with Virtual Select](https://dev.to/koossaayy/laravel-livewire-multiple-selection-with-virtual-select-1f87)
 - [Dev.to/JS] [Interactive Noodle Dish](https://dev.to/toa_anakin/interactive-noodle-dish-15ak)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Server Actions, databases, and the future of data handling](https://dev.to/xata/server-actions-databases-and-the-future-of-data-handling-10nn)
 - [Dev.to/JS] [Live Regions in React](https://dev.to/abbeyperini/live-regions-in-react-4dmd)
 - [Dev.to/JS] [Javascript and the meta-programming hell](https://dev.to/wmattei/javascript-and-the-meta-programming-hell-4dj3)
-- [Dev.to/JS] [Most Used commands, methods, and concepts of Node.js](https://dev.to/manthanank/most-used-commands-methods-and-concepts-of-nodejs-182e)
 - [Lifehacker] [Your Pixel Fold Order Was Probably Canceled](https://lifehacker.com/your-pixel-fold-order-was-probably-canceled-1850576079)
 - [Lifehacker] [This Refurbished Mac Mini Is on Sale for $206](https://lifehacker.com/this-refurbished-mac-mini-is-on-sale-for-206-1850572072)
 - [Lifehacker] [This Refurbished iPad and Wireless Beats Headphones Bundle Is $240 Right Now](https://lifehacker.com/this-refurbished-ipad-and-wireless-beats-headphones-bun-1850562075)
