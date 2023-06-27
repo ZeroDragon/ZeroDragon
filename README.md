@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Server Components with Next.JS: The Complete Guide](https://dev.to/alakkadshaw/react-server-components-with-nextjs-the-complete-guide-2i5k)
 - [Dev.to/JS] [Using an AWS API Gateway with AWS Lambda, and AWS DynamoDB](https://dev.to/aws-builders/using-an-aws-api-gateway-with-aws-lambda-and-aws-dynamodb-55c7)
 - [Dev.to/JS] [Unraveling the Mysteries of Code: Decoding, Interpreting and Compiling](https://dev.to/csituma/unraveling-the-mysteries-of-code-decoding-interpreting-and-compiling-4dkn)
 - [Dev.to/JS] [Server Actions, databases, and the future of data handling](https://dev.to/xata/server-actions-databases-and-the-future-of-data-handling-10nn)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Language-Translating Earbuds Are $149 Right Now](https://lifehacker.com/these-language-translating-earbuds-are-149-right-now-1850562118)
 - [Dev.to/JS] [AI/LLM Recipe Generator with chatGPT](https://dev.to/goldins/aillm-recipe-generator-with-chatgpt-4dnk)
 - [Dev.to/JS] [Improve Performances With Dynamic “Content-Visibility”](https://dev.to/brunosabot/improve-performances-with-dynamic-content-visibility-8bb)
-- [Dev.to/JS] [The 7 Traits of a Rock Star React Developer](https://dev.to/mohammadfaisal/the-7-traits-of-a-rock-star-react-developer-1825)
 - [Lifehacker] [How to Talk to Kids About the Screwed-Up State of U.S. Politics](https://lifehacker.com/how-to-talk-to-kids-about-the-fucked-up-state-of-u-s-p-1850563568)
 - [Lifehacker] [How to Talk to Your Kids About School Shootings](https://lifehacker.com/how-to-talk-to-your-kids-about-school-shootings-1848975621)
 - [Lifehacker] [How to Talk to Your Kids About Guns](https://lifehacker.com/how-to-talk-to-your-kids-about-guns-1850540336)
