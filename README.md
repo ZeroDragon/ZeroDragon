@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Free Grape Leaves &lpar;and What to Make with Them&rpar;](https://lifehacker.com/how-to-get-free-grape-leaves-and-what-to-make-with-the-1850566546)
+- [Dev.to/JS] [Applying the Liskov Substitution Principle in React](https://dev.to/mohammadfaisal/applying-the-liskov-substitution-principle-in-react-2oc0)
+- [Dev.to/JS] [JavaScript Interview Topic 03 : Hoisting in Javascript](https://dev.to/gaurbprajapati/javascript-interview-topic-03-hoisting-in-javascript-1lkn)
+- [Lifehacker] [You Should Flavor Your Coffee With Extracts Instead of Syrups](https://lifehacker.com/you-should-flavor-your-coffee-with-extracts-instead-of-1850578612)
+- [Dev.to/JS] [About my First project](https://dev.to/aosorio10/about-my-first-project-2cc4)
+- [Dev.to/JS] [Simplifying State Management with React Hook UseContext](https://dev.to/jmyli562/simplifying-state-management-with-react-hook-usecontext-264a)
 - [Dev.to/JS] [Responsive Navigation Bar with logo, search bar and links](https://dev.to/smitprajapati/responsive-navigation-bar-with-logo-search-bar-and-links-2nd8)
 - [Dev.to/JS] [Should You Learn React in 2023?](https://dev.to/rafikadir/should-you-learn-react-in-2023-fon)
 - [Dev.to/JS] [What is a Super Synced Software](https://dev.to/3duno/what-is-a-super-synced-software-m89)
@@ -35,12 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Componente genérico de Criação de Categoria usando Chakra UI no CrazyStack Next.js](https://dev.to/devdoido/componente-generico-de-criacao-de-categoria-usando-chakra-ui-no-crazystack-nextjs-4ehh)
 - [Dev.to/JS] [Eleventy Tutorial](https://dev.to/irishgeoff11/eleventy-tutorial-6j5)
 - [Dev.to/JS] [Promises in Javascript](https://dev.to/indracit/promises-in-javascript-5bi1)
-- [Dev.to/JS] [How to get started with Javascript- Part One](https://dev.to/mbuguadennis/how-to-get-started-with-javascript-part-one-246d)
 - [Lifehacker] [The Difference Between a ‘Duplex’ and a ‘Twin Home’](https://lifehacker.com/the-difference-between-a-duplex-and-a-twin-home-1850576832)
-- [Dev.to/JS] [Easy RPC with Nuxt: Making a Todo App](https://dev.to/doseofted/easy-rpc-with-nuxt-making-a-todo-app-55bn)
 - [Lifehacker] [Kill Your Lawn for Free &lpar;and Replace It With Something Better&rpar;](https://lifehacker.com/kill-your-lawn-for-free-and-replace-it-with-something-1850575657)
-- [Dev.to/JS] [GraphQL - Resolvers](https://dev.to/shubhamtiwari909/graphql-resolvers-4e49)
-- [Dev.to/JS] [GraphQL - TypeDefs](https://dev.to/shubhamtiwari909/graphql-typedefs-4bdf)
 - [Lifehacker] [Three Ways to Deal With Your Micromanging Boss](https://lifehacker.com/three-ways-to-deal-with-your-micromanging-boss-1850575867)
 - [Lifehacker] [Where to Get Free Wood Chips for Your Lawn](https://lifehacker.com/where-to-get-free-wood-chips-for-your-lawn-1850577513)
 - [Lifehacker] [Your Pixel Fold Order Was Probably Canceled](https://lifehacker.com/your-pixel-fold-order-was-probably-canceled-1850576079)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Divorce](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-divorce-1846861909)
 - [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Drugs](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-drugs-1850524717)
 - [Lifehacker] [How to Talk to Your Kids About Porn](https://lifehacker.com/how-to-talk-to-your-kids-about-porn-1838886045)
-- [Lifehacker] [How to Teach Kids About Sexism](https://lifehacker.com/how-to-teach-kids-about-sexism-1846110388)
-- [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Sex](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-sex-1850556294)
-- [Lifehacker] [How to Prepare for All the Parenting &#39;Big Talks&#39;](https://lifehacker.com/how-to-prepare-for-all-the-parenting-big-talks-1850545261)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Teach Kids About Sexism](https://lifehacker.com/how-to-teach-kids-about-sexism-1846110388)<!-- TECH-POSTS:END -->
 
 ---
 
