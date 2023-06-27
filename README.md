@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tech foutraque #4](https://dev.to/tech_foutraque/tech-foutraque-4-3e2d)
+- [Dev.to/JS] [Tech foutraque #3](https://dev.to/tech_foutraque/tech-foutraque-3-2cad)
+- [Dev.to/JS] [Tech foutraque #2](https://dev.to/tech_foutraque/tech-foutraque-2-5fl4)
+- [Dev.to/JS] [Tech foutraque #1](https://dev.to/tech_foutraque/tech-foutraque-1-2809)
+- [Lifehacker] [You Can Get FlashBooks or SumizeIt for Up to 80% Off Right Now](https://lifehacker.com/you-can-get-flashbooks-or-sumizeit-for-up-to-80-off-ri-1850572166)
 - [Lifehacker] [You Can Get a One-Year Sam’s Club Membership for 50% Off](https://lifehacker.com/you-can-get-a-one-year-sam-s-club-membership-for-50-of-1850572212)
 - [Dev.to/JS] [Content Delivery with Node.js Streams](https://dev.to/ddanielcruzz/content-delivery-with-nodejs-streams-15a6)
 - [Lifehacker] [The Japanese Fruit Sando Is a Summer Essential](https://lifehacker.com/the-japanese-fruit-sando-is-a-summer-essential-1850581103)
@@ -37,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Flavor Your Coffee With Extracts Instead of Syrups](https://lifehacker.com/you-should-flavor-your-coffee-with-extracts-instead-of-1850578612)
 - [Dev.to/JS] [About my First project](https://dev.to/aosorio10/about-my-first-project-2cc4)
 - [Dev.to/JS] [Simplifying State Management with React Hook UseContext](https://dev.to/jmyli562/simplifying-state-management-with-react-hook-usecontext-264a)
-- [Dev.to/JS] [Responsive Navigation Bar with logo, search bar and links](https://dev.to/smitprajapati/responsive-navigation-bar-with-logo-search-bar-and-links-2nd8)
-- [Dev.to/JS] [Should You Learn React in 2023?](https://dev.to/rafikadir/should-you-learn-react-in-2023-fon)
-- [Dev.to/JS] [What is a Super Synced Software](https://dev.to/3duno/what-is-a-super-synced-software-m89)
 - [Lifehacker] [How to Scoop a Quenelle Like a Freakin&#39; Pro](https://lifehacker.com/how-to-scoop-a-quenelle-like-a-freakin-pro-1850577790)
 - [Lifehacker] [It&#39;s Time to Start Your Fall Garden](https://lifehacker.com/its-time-to-start-your-fall-garden-1850571652)
-- [Dev.to/JS] [Concatenate multiple React components](https://dev.to/andrewchaa/concatenate-multiple-react-components-24d9)
 - [Lifehacker] [Seven TikTok Woodworking Hacks That Actually Work](https://lifehacker.com/seven-tiktok-woodworking-hacks-that-actually-work-1850575573)
 - [Lifehacker] [The Best Ways to Pet-Proof Your Home When You Leave Them Alone](https://lifehacker.com/the-best-ways-to-pet-proof-your-home-when-you-leave-the-1850576211)
 - [Lifehacker] [The Difference Between a ‘Duplex’ and a ‘Twin Home’](https://lifehacker.com/the-difference-between-a-duplex-and-a-twin-home-1850576832)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [An Age-By-Age Guide to Teaching Kids About Online Safety](https://lifehacker.com/an-age-by-age-guide-to-teaching-kids-about-online-safet-1850474580)
 - [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Race](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-race-1850460959)
 - [Lifehacker] [You Don&#39;t Need to Separate Your Laundry &lpar;With One Common Exception&rpar;](https://lifehacker.com/you-dont-need-to-separate-your-laundry-with-once-commo-1850575667)
-- [Lifehacker] [How to Talk to Your Kids About Job Loss](https://lifehacker.com/how-to-talk-to-your-kids-about-job-loss-1844010932)
-- [Lifehacker] [An Age-By-Age Guide to Teaching Kids About Money](https://lifehacker.com/an-age-by-age-guide-to-teaching-kids-about-money-1846651973)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Talk to Your Kids About Job Loss](https://lifehacker.com/how-to-talk-to-your-kids-about-job-loss-1844010932)<!-- TECH-POSTS:END -->
 
 ---
 
