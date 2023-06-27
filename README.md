@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get a One-Year Sam’s Club Membership for 50% Off](https://lifehacker.com/you-can-get-a-one-year-sam-s-club-membership-for-50-of-1850572212)
+- [Dev.to/JS] [Content Delivery with Node.js Streams](https://dev.to/ddanielcruzz/content-delivery-with-nodejs-streams-15a6)
+- [Lifehacker] [The Japanese Fruit Sando Is a Summer Essential](https://lifehacker.com/the-japanese-fruit-sando-is-a-summer-essential-1850581103)
+- [Dev.to/JS] [Using Prisma with SvelteKit](https://dev.to/joshnuss/using-prisma-with-sveltekit-46l6)
+- [Dev.to/JS] [Sharing UI Tests Between Javascript Frameworks](https://dev.to/scottnath/sharing-ui-tests-between-javascript-frameworks-2l6n)
+- [Lifehacker] [Get Unlimited Access to 80+ Upskillset Courses for 80% Off](https://lifehacker.com/get-unlimited-access-to-80-upskillset-courses-for-80-1850572264)
 - [Dev.to/JS] [Creating an Animated and Accessible Accordion with JavaScript, HTML, and CSS](https://dev.to/sumukhakb210/creating-an-animated-and-accessible-accordion-with-javascript-html-and-css-k5a)
 - [Lifehacker] [Those SmileDirectClub NDAs Are Void &lpar;So You Can Talk About Your Experience Now&rpar;](https://lifehacker.com/those-smiledirectclub-ndas-are-void-so-you-can-talk-ab-1850574775)
 - [Lifehacker] [How to Get Free Grape Leaves &lpar;and What to Make with Them&rpar;](https://lifehacker.com/how-to-get-free-grape-leaves-and-what-to-make-with-the-1850566546)
@@ -38,13 +44,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It&#39;s Time to Start Your Fall Garden](https://lifehacker.com/its-time-to-start-your-fall-garden-1850571652)
 - [Dev.to/JS] [Concatenate multiple React components](https://dev.to/andrewchaa/concatenate-multiple-react-components-24d9)
 - [Lifehacker] [Seven TikTok Woodworking Hacks That Actually Work](https://lifehacker.com/seven-tiktok-woodworking-hacks-that-actually-work-1850575573)
-- [Dev.to/JS] [Plug &amp; Play Modular Architecture for Scalable and Maintainable Apps](https://dev.to/valeriavg/plug-play-modular-architecture-for-scalable-and-maintainable-apps-2je9)
 - [Lifehacker] [The Best Ways to Pet-Proof Your Home When You Leave Them Alone](https://lifehacker.com/the-best-ways-to-pet-proof-your-home-when-you-leave-the-1850576211)
-- [Dev.to/JS] [Componente genérico de Criação de Categoria usando Chakra UI no CrazyStack Next.js](https://dev.to/devdoido/componente-generico-de-criacao-de-categoria-usando-chakra-ui-no-crazystack-nextjs-4ehh)
-- [Dev.to/JS] [Eleventy Tutorial](https://dev.to/irishgeoff11/eleventy-tutorial-6j5)
 - [Lifehacker] [The Difference Between a ‘Duplex’ and a ‘Twin Home’](https://lifehacker.com/the-difference-between-a-duplex-and-a-twin-home-1850576832)
 - [Lifehacker] [Kill Your Lawn for Free &lpar;and Replace It With Something Better&rpar;](https://lifehacker.com/kill-your-lawn-for-free-and-replace-it-with-something-1850575657)
-- [Lifehacker] [Three Ways to Deal With Your Micromanging Boss](https://lifehacker.com/three-ways-to-deal-with-your-micromanging-boss-1850575867)
+- [Lifehacker] [Three Ways to Deal With Your Micromanaging Boss](https://lifehacker.com/three-ways-to-deal-with-your-micromanging-boss-1850575867)
 - [Lifehacker] [Where to Get Free Wood Chips for Your Lawn](https://lifehacker.com/where-to-get-free-wood-chips-for-your-lawn-1850577513)
 - [Lifehacker] [Your Pixel Fold Order Was Probably Canceled](https://lifehacker.com/your-pixel-fold-order-was-probably-canceled-1850576079)
 - [Lifehacker] [This Refurbished Mac Mini Is on Sale for $206](https://lifehacker.com/this-refurbished-mac-mini-is-on-sale-for-206-1850572072)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Race](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-race-1850460959)
 - [Lifehacker] [You Don&#39;t Need to Separate Your Laundry &lpar;With One Common Exception&rpar;](https://lifehacker.com/you-dont-need-to-separate-your-laundry-with-once-commo-1850575667)
 - [Lifehacker] [How to Talk to Your Kids About Job Loss](https://lifehacker.com/how-to-talk-to-your-kids-about-job-loss-1844010932)
-- [Lifehacker] [An Age-By-Age Guide to Teaching Kids About Money](https://lifehacker.com/an-age-by-age-guide-to-teaching-kids-about-money-1846651973)
-- [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Divorce](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-divorce-1846861909)
-- [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Drugs](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-drugs-1850524717)
-- [Lifehacker] [How to Talk to Your Kids About Porn](https://lifehacker.com/how-to-talk-to-your-kids-about-porn-1838886045)<!-- TECH-POSTS:END -->
+- [Lifehacker] [An Age-By-Age Guide to Teaching Kids About Money](https://lifehacker.com/an-age-by-age-guide-to-teaching-kids-about-money-1846651973)<!-- TECH-POSTS:END -->
 
 ---
 
