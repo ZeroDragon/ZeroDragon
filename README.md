@@ -23,10 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Tech foutraque #4](https://dev.to/tech_foutraque/tech-foutraque-4-3e2d)
-- [Dev.to/JS] [Tech foutraque #3](https://dev.to/tech_foutraque/tech-foutraque-3-2cad)
-- [Dev.to/JS] [Tech foutraque #2](https://dev.to/tech_foutraque/tech-foutraque-2-5fl4)
-- [Dev.to/JS] [Tech foutraque #1](https://dev.to/tech_foutraque/tech-foutraque-1-2809)
+- [Dev.to/JS] [Episode 23/25: ng-conf, Signals with Ryan Carniato and Ben Lesh](https://dev.to/this-is-angular/episode-2325-ng-conf-signals-with-ryan-carniato-and-ben-lesh-3ne6)
+- [Dev.to/JS] [What should I learn next?](https://dev.to/erina92/what-should-i-learn-next-32b2)
+- [Dev.to/JS] [The Quick Guide To Writing A Function For Beginners](https://dev.to/deborah/the-quick-guide-to-writing-a-function-for-beginners-lp8)
+- [Lifehacker] [Everything You Need to Start Canning Pickles, Jams, and More](https://lifehacker.com/everything-you-need-to-start-canning-pickles-jams-and-1850566954)
+- [Dev.to/JS] [Tech foutraque #4 - Frontend newsletter](https://dev.to/tech_foutraque/tech-foutraque-4-3e2d)
+- [Dev.to/JS] [Tech foutraque #3 - Frontend newsletter](https://dev.to/tech_foutraque/tech-foutraque-3-2cad)
+- [Dev.to/JS] [Tech foutraque #2 - Frontend newsletter](https://dev.to/tech_foutraque/tech-foutraque-2-5fl4)
+- [Dev.to/JS] [Tech foutraque #1 - Frontend newsletter](https://dev.to/tech_foutraque/tech-foutraque-1-2809)
 - [Lifehacker] [You Can Get FlashBooks or SumizeIt for Up to 80% Off Right Now](https://lifehacker.com/you-can-get-flashbooks-or-sumizeit-for-up-to-80-off-ri-1850572166)
 - [Lifehacker] [You Can Get a One-Year Sam’s Club Membership for 50% Off](https://lifehacker.com/you-can-get-a-one-year-sam-s-club-membership-for-50-of-1850572212)
 - [Dev.to/JS] [Content Delivery with Node.js Streams](https://dev.to/ddanielcruzz/content-delivery-with-nodejs-streams-15a6)
@@ -38,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Those SmileDirectClub NDAs Are Void &lpar;So You Can Talk About Your Experience Now&rpar;](https://lifehacker.com/those-smiledirectclub-ndas-are-void-so-you-can-talk-ab-1850574775)
 - [Lifehacker] [How to Get Free Grape Leaves &lpar;and What to Make with Them&rpar;](https://lifehacker.com/how-to-get-free-grape-leaves-and-what-to-make-with-the-1850566546)
 - [Dev.to/JS] [Applying the Liskov Substitution Principle in React](https://dev.to/mohammadfaisal/applying-the-liskov-substitution-principle-in-react-2oc0)
-- [Dev.to/JS] [JavaScript Interview Topic 03 : Hoisting in Javascript](https://dev.to/gaurbprajapati/javascript-interview-topic-03-hoisting-in-javascript-1lkn)
 - [Lifehacker] [You Should Flavor Your Coffee With Extracts Instead of Syrups](https://lifehacker.com/you-should-flavor-your-coffee-with-extracts-instead-of-1850578612)
-- [Dev.to/JS] [About my First project](https://dev.to/aosorio10/about-my-first-project-2cc4)
-- [Dev.to/JS] [Simplifying State Management with React Hook UseContext](https://dev.to/jmyli562/simplifying-state-management-with-react-hook-usecontext-264a)
 - [Lifehacker] [How to Scoop a Quenelle Like a Freakin&#39; Pro](https://lifehacker.com/how-to-scoop-a-quenelle-like-a-freakin-pro-1850577790)
 - [Lifehacker] [It&#39;s Time to Start Your Fall Garden](https://lifehacker.com/its-time-to-start-your-fall-garden-1850571652)
 - [Lifehacker] [Seven TikTok Woodworking Hacks That Actually Work](https://lifehacker.com/seven-tiktok-woodworking-hacks-that-actually-work-1850575573)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Talk to Your Kids About LGBTQ+ Issues](https://lifehacker.com/how-to-talk-to-your-kids-about-lgbtq-issues-1850507422)
 - [Lifehacker] [An Age-By-Age Guide to Teaching Kids About Online Safety](https://lifehacker.com/an-age-by-age-guide-to-teaching-kids-about-online-safet-1850474580)
 - [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Race](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-race-1850460959)
-- [Lifehacker] [You Don&#39;t Need to Separate Your Laundry &lpar;With One Common Exception&rpar;](https://lifehacker.com/you-dont-need-to-separate-your-laundry-with-once-commo-1850575667)
-- [Lifehacker] [How to Talk to Your Kids About Job Loss](https://lifehacker.com/how-to-talk-to-your-kids-about-job-loss-1844010932)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Don&#39;t Need to Separate Your Laundry &lpar;With One Common Exception&rpar;](https://lifehacker.com/you-dont-need-to-separate-your-laundry-with-once-commo-1850575667)<!-- TECH-POSTS:END -->
 
 ---
 
