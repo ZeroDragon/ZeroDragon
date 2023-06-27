@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#LearnedToday!](https://dev.to/danielzotti/learnedtoday-4b1k)
+- [Dev.to/JS] [Maximizing Web Performance and User Experience with Lighthouse](https://dev.to/fritzlolpro/maximizing-web-performance-and-user-experience-with-lighthouse-5509)
+- [Dev.to/JS] [JavaScript Essentials: An Introductory Journey into Web Development](https://dev.to/wamwangimathenge/javascript-essentials-an-introductory-journey-into-web-development-21p8)
+- [Dev.to/JS] [7 Must Have Chrome Extensions for JavaScript Developers](https://dev.to/devland/7-must-have-chrome-extensions-for-javascript-developers-3of)
 - [Dev.to/JS] [Build a Video Call App in 10 Minutes with ZEGOCLOUD and React](https://dev.to/koolkishan/build-a-video-call-app-in-10-minutes-with-zegocloud-and-react-em0)
 - [Dev.to/JS] [How To Create Custom Hooks in React / Next JS](https://dev.to/inaju/how-to-create-custom-hooks-in-react-next-js-46m5)
-- [Dev.to/JS] [How To Create Draggable slider in HTML, CSS and Javascript](https://dev.to/frontendsolutions/how-to-create-draggable-slider-in-html-css-and-javascript-32pk)
+- [Dev.to/JS] [How To Create Draggable slider in HTML, CSS and Javascript 🔥💯](https://dev.to/frontendsolutions/how-to-create-draggable-slider-in-html-css-and-javascript-32pk)
 - [Dev.to/JS] [How I built a sales management app with Next.js 13, Typescript, and Firebase](https://dev.to/arshadayvid/how-i-built-a-sales-management-app-with-nextjs-13-typescript-and-firebase-16cb)
 - [Dev.to/JS] [Building Your JavaScript Skills: The Step-by-Step Roadmap for Beginners](https://dev.to/roktim32/building-your-javascript-skills-the-step-by-step-roadmap-for-beginners-291k)
 - [Dev.to/JS] [Cortexi – Ear Drops Reviews, Benefits, Price And Results?](https://dev.to/cortexi75985/cortexi-ear-drops-reviews-benefits-price-and-results-20a)
 - [Dev.to/JS] [JavaScript based Excel Office Add-in in Visual Studio](https://dev.to/ifourtechnolab/javascript-based-excel-office-add-in-in-visual-studio-2gno)
 - [Dev.to/JS] [Simplify Your Redux States with Redux Toolkit](https://dev.to/duniandewon/simplify-your-redux-states-with-redux-toolkit-1b43)
-- [Dev.to/JS] [Reverse a string using a recursive function](https://dev.to/mohaiminulislam1820/reverse-a-string-using-a-recursive-function-2a0b)
-- [Dev.to/JS] [1Password Hackthon First Steps - Establish an Account](https://dev.to/builditdeploy/1password-hackthon-first-stepsestablish-an-account-2n6i)
-- [Dev.to/JS] [Building a RESTful API with Node.js and Express.js](https://dev.to/iamutkarshyadav/building-a-restful-api-with-nodejs-and-expressjs-3n0h)
-- [Dev.to/JS] [Laravel Livewire Multiple Selection with Virtual Select](https://dev.to/koossaayy/laravel-livewire-multiple-selection-with-virtual-select-1f87)
 - [Lifehacker] [Your Pixel Fold Order Was Probably Canceled](https://lifehacker.com/your-pixel-fold-order-was-probably-canceled-1850576079)
 - [Lifehacker] [This Refurbished Mac Mini Is on Sale for $206](https://lifehacker.com/this-refurbished-mac-mini-is-on-sale-for-206-1850572072)
 - [Lifehacker] [This Refurbished iPad and Wireless Beats Headphones Bundle Is $240 Right Now](https://lifehacker.com/this-refurbished-ipad-and-wireless-beats-headphones-bun-1850562075)
