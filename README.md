@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating an Animated and Accessible Accordion with JavaScript, HTML, and CSS](https://dev.to/sumukhakb210/creating-an-animated-and-accessible-accordion-with-javascript-html-and-css-k5a)
+- [Lifehacker] [Those SmileDirectClub NDAs Are Void &lpar;So You Can Talk About Your Experience Now&rpar;](https://lifehacker.com/those-smiledirectclub-ndas-are-void-so-you-can-talk-ab-1850574775)
 - [Lifehacker] [How to Get Free Grape Leaves &lpar;and What to Make with Them&rpar;](https://lifehacker.com/how-to-get-free-grape-leaves-and-what-to-make-with-the-1850566546)
 - [Dev.to/JS] [Applying the Liskov Substitution Principle in React](https://dev.to/mohammadfaisal/applying-the-liskov-substitution-principle-in-react-2oc0)
 - [Dev.to/JS] [JavaScript Interview Topic 03 : Hoisting in Javascript](https://dev.to/gaurbprajapati/javascript-interview-topic-03-hoisting-in-javascript-1lkn)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Pet-Proof Your Home When You Leave Them Alone](https://lifehacker.com/the-best-ways-to-pet-proof-your-home-when-you-leave-the-1850576211)
 - [Dev.to/JS] [Componente genérico de Criação de Categoria usando Chakra UI no CrazyStack Next.js](https://dev.to/devdoido/componente-generico-de-criacao-de-categoria-usando-chakra-ui-no-crazystack-nextjs-4ehh)
 - [Dev.to/JS] [Eleventy Tutorial](https://dev.to/irishgeoff11/eleventy-tutorial-6j5)
-- [Dev.to/JS] [Promises in Javascript](https://dev.to/indracit/promises-in-javascript-5bi1)
 - [Lifehacker] [The Difference Between a ‘Duplex’ and a ‘Twin Home’](https://lifehacker.com/the-difference-between-a-duplex-and-a-twin-home-1850576832)
 - [Lifehacker] [Kill Your Lawn for Free &lpar;and Replace It With Something Better&rpar;](https://lifehacker.com/kill-your-lawn-for-free-and-replace-it-with-something-1850575657)
 - [Lifehacker] [Three Ways to Deal With Your Micromanging Boss](https://lifehacker.com/three-ways-to-deal-with-your-micromanging-boss-1850575867)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [An Age-By-Age Guide to Teaching Kids About Money](https://lifehacker.com/an-age-by-age-guide-to-teaching-kids-about-money-1846651973)
 - [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Divorce](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-divorce-1846861909)
 - [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Drugs](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-drugs-1850524717)
-- [Lifehacker] [How to Talk to Your Kids About Porn](https://lifehacker.com/how-to-talk-to-your-kids-about-porn-1838886045)
-- [Lifehacker] [How to Teach Kids About Sexism](https://lifehacker.com/how-to-teach-kids-about-sexism-1846110388)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Talk to Your Kids About Porn](https://lifehacker.com/how-to-talk-to-your-kids-about-porn-1838886045)<!-- TECH-POSTS:END -->
 
 ---
 
