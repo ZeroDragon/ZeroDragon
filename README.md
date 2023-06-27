@@ -23,18 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Kill Your Lawn for Free &lpar;and Replace It With Something Better&rpar;](https://lifehacker.com/kill-your-lawn-for-free-and-replace-it-with-something-1850575657)
+- [Dev.to/JS] [GraphQL - Resolvers](https://dev.to/shubhamtiwari909/graphql-resolvers-4e49)
+- [Dev.to/JS] [GraphQL - TypeDefs](https://dev.to/shubhamtiwari909/graphql-typedefs-4bdf)
+- [Dev.to/JS] [Closures Vs. Prototypes in JavaScript](https://dev.to/getsmartwebsite/closures-vs-prototypes-in-javascript-163i)
+- [Lifehacker] [Three Ways to Deal With Your Micromanging Boss](https://lifehacker.com/three-ways-to-deal-with-your-micromanging-boss-1850575867)
+- [Dev.to/JS] [Mastering JavaScript String Methods: A Comprehensive Guide](https://dev.to/crossskatee1/mastering-javascript-string-methods-a-comprehensive-guide-24gj)
+- [Dev.to/JS] [GraphQL - Part 1](https://dev.to/shubhamtiwari909/graphql-part-1-8b1)
+- [Dev.to/JS] [Comparing Promises and Async/Await in JavaScript](https://dev.to/getsmartwebsite/comparing-promises-and-asyncawait-in-javascript-7c6)
+- [Dev.to/JS] [The Art of JavaScript Plugins: From Conception to NPM Publication 🚀🌐](https://dev.to/shubhamt619/the-art-of-javascript-plugins-from-conception-to-npm-publication-2f9i)
 - [Dev.to/JS] [JavaScript DOM Explained: A Practical Beginner’s Tutorial](https://dev.to/max88git/javascript-dom-explained-a-practical-beginners-tutorial-3679)
+- [Lifehacker] [Where to Get Free Wood Chips for Your Lawn](https://lifehacker.com/where-to-get-free-wood-chips-for-your-lawn-1850577513)
 - [Dev.to/JS] [Unleashing the Power of Progressive Web Apps: The Future of Web Development](https://dev.to/getsmartwebsite/unleashing-the-power-of-progressive-web-apps-the-future-of-web-development-18al)
 - [Dev.to/JS] [Como evitar ataques de injeção de código em aplicações Node.js](https://dev.to/jhonyaraujooficial/como-evitar-ataques-de-injecao-de-codigo-em-aplicacoes-nodejs-d7k)
 - [Dev.to/JS] [Is Code Generation a Bad Idea? 🤔](https://dev.to/zenstack/is-code-generation-a-bad-idea-2gk9)
 - [Dev.to/JS] [How News API Can Assist in Sales](https://dev.to/newsdataio/how-news-api-can-assist-in-sales-42ba)
-- [Dev.to/JS] [Teleportation in React: Positioning, Stacking Context, and Portals](https://dev.to/adevnadia/teleportation-in-react-positioning-stacking-context-and-portals-4a69)
-- [Dev.to/JS] [#LearnedToday!](https://dev.to/danielzotti/learnedtoday-4b1k)
-- [Dev.to/JS] [Maximizing Web Performance and User Experience with Lighthouse](https://dev.to/fritzlolpro/maximizing-web-performance-and-user-experience-with-lighthouse-5509)
-- [Dev.to/JS] [JavaScript Essentials: An Introductory Journey into Web Development](https://dev.to/wamwangimathenge/javascript-essentials-an-introductory-journey-into-web-development-21p8)
-- [Dev.to/JS] [7 Must Have Chrome Extensions for JavaScript Developers](https://dev.to/devland/7-must-have-chrome-extensions-for-javascript-developers-3of)
-- [Dev.to/JS] [Build a Video Call App in 10 Minutes with ZEGOCLOUD and React](https://dev.to/koolkishan/build-a-video-call-app-in-10-minutes-with-zegocloud-and-react-em0)
-- [Dev.to/JS] [How To Create Custom Hooks in React / Next JS](https://dev.to/inaju/how-to-create-custom-hooks-in-react-next-js-46m5)
 - [Lifehacker] [Your Pixel Fold Order Was Probably Canceled](https://lifehacker.com/your-pixel-fold-order-was-probably-canceled-1850576079)
 - [Lifehacker] [This Refurbished Mac Mini Is on Sale for $206](https://lifehacker.com/this-refurbished-mac-mini-is-on-sale-for-206-1850572072)
 - [Lifehacker] [This Refurbished iPad and Wireless Beats Headphones Bundle Is $240 Right Now](https://lifehacker.com/this-refurbished-ipad-and-wireless-beats-headphones-bun-1850562075)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Get Rid of the Musty Smell Coming From Your Car&#39;s AC](https://lifehacker.com/the-easiest-way-to-get-rid-of-the-musty-smell-coming-fr-1850567518)
 - [Lifehacker] [You Need to Set Boundaries With Your Frenemies Too](https://lifehacker.com/you-need-to-set-boundaries-with-your-frenemies-too-1850567601)
 - [Lifehacker] [The Best U.S. Cities for Renters in 2023](https://lifehacker.com/the-best-u-s-cities-for-renters-in-2023-1850567571)
-- [Lifehacker] [Avoid These 3 Mistakes When Washing Whites](https://lifehacker.com/avoid-these-3-mistakes-when-washing-whites-1850567563)
-- [Lifehacker] [The Best Food Deals and Freebies This Fourth of July Weekend](https://lifehacker.com/the-best-food-deals-and-freebies-this-fourth-of-july-we-1850567524)
-- [Lifehacker] [These Amazon Fire Kids Tablets Are Up to 50% Off](https://lifehacker.com/these-amazon-fire-kids-tablets-are-up-to-50-off-1850571928)
-- [Lifehacker] [What&#39;s New on Max in July 2023](https://lifehacker.com/whats-new-on-max-in-july-2023-1850572037)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Avoid These 3 Mistakes When Washing Whites](https://lifehacker.com/avoid-these-3-mistakes-when-washing-whites-1850567563)<!-- TECH-POSTS:END -->
 
 ---
 
