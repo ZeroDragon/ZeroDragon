@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All About Malaria, Which We Have in the U.S. Now](https://lifehacker.com/all-about-malaria-which-we-have-in-the-u-s-now-1850588268)
+- [Dev.to/JS] [3 Ways to Clone Objects in JavaScript](https://dev.to/itsvinayak/3-ways-to-clone-objects-in-javascript-12jh)
+- [Lifehacker] [For a Better Ribeye, Combine Sous-Vide and Smoke](https://lifehacker.com/for-a-better-ribeye-combine-sous-vide-and-smoke-1850586654)
 - [Dev.to/JS] [Typescript Nominal Type: The Right Way](https://dev.to/tylim88/typescript-nominal-type-the-right-way-k9j)
 - [Dev.to/JS] [Serverless function cold start is too slow, let&#39;s dockerize our app](https://dev.to/romaintrotard/serverless-function-cold-start-is-too-slow-lets-dockerize-our-app-3maf)
 - [Lifehacker] [There&#39;s a Better Way to Reheat Your Boiled Egg](https://lifehacker.com/theres-a-better-way-to-reheat-your-boiled-egg-1850586297)
@@ -45,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 of the Best Old-Timey Sodas to Drink This Summer](https://lifehacker.com/11-of-the-best-old-timey-sodas-to-drink-this-summer-1850583260)
 - [Dev.to/JS] [Event Listeners in JavaScript](https://dev.to/shamza214/event-listeners-in-javascript-mni)
 - [Lifehacker] [12 Incredibly Niche History Podcasts](https://lifehacker.com/12-incredibly-niche-history-podcasts-1850551986)
-- [Dev.to/JS] [Jest - Tackling Performance Issues](https://dev.to/ipwright83/jest-tackling-performance-issues-105g)
 - [Lifehacker] [Turn Empty Pea Pods Into a Delicate, Flavored Vinegar](https://lifehacker.com/turn-empty-pea-pods-into-a-delicate-flavored-vinegar-1850577137)
 - [Lifehacker] [Three Bank Services You Can Get From Your Post Office](https://lifehacker.com/three-bank-services-you-can-get-from-your-post-office-1850581513)
 - [Lifehacker] [These Chilled Pea Soups Are the Perfect Easy Summer Lunch](https://lifehacker.com/these-chilled-pea-soups-are-the-perfect-easy-summer-lun-1850577386)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Those SmileDirectClub NDAs Are Void &lpar;So You Can Talk About Your Experience Now&rpar;](https://lifehacker.com/those-smiledirectclub-ndas-are-void-so-you-can-talk-ab-1850574775)
 - [Lifehacker] [How to Get Free Grape Leaves &lpar;and What to Make with Them&rpar;](https://lifehacker.com/how-to-get-free-grape-leaves-and-what-to-make-with-the-1850566546)
 - [Lifehacker] [You Should Flavor Your Coffee With Extracts Instead of Syrups](https://lifehacker.com/you-should-flavor-your-coffee-with-extracts-instead-of-1850578612)
-- [Lifehacker] [How to Scoop a Quenelle Like a Freakin&#39; Pro](https://lifehacker.com/how-to-scoop-a-quenelle-like-a-freakin-pro-1850577790)
-- [Lifehacker] [It&#39;s Time to Start Your Fall Garden](https://lifehacker.com/its-time-to-start-your-fall-garden-1850571652)
-- [Lifehacker] [Seven TikTok Woodworking Hacks That Actually Work](https://lifehacker.com/seven-tiktok-woodworking-hacks-that-actually-work-1850575573)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Scoop a Quenelle Like a Freakin&#39; Pro](https://lifehacker.com/how-to-scoop-a-quenelle-like-a-freakin-pro-1850577790)<!-- TECH-POSTS:END -->
 
 ---
 
