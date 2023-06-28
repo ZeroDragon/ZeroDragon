@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make High-End Truffle Pasta on a Low-End Budget](https://lifehacker.com/make-high-end-truffle-pasta-on-a-low-end-budget-1850583142)
+- [Lifehacker] [How to Get Your Kid to Like What You Like](https://lifehacker.com/how-to-get-your-kid-to-like-what-you-like-1850582431)
 - [Dev.to/JS] [Advanced Javascript Collections: Introduction to Sets and Maps](https://dev.to/honeybadger/advanced-javascript-collections-introduction-to-sets-and-maps-1p8p)
 - [Lifehacker] [Six of the Best Trees to Plant for Shade in Your Yard](https://lifehacker.com/six-of-the-best-trees-to-plant-for-shade-in-your-yard-1850584777)
 - [Dev.to/JS] [JavaScript Fundamentals](https://dev.to/getsmartwebsite/javascript-fundamentals-3fea)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Kill Your Lawn for Free &lpar;and Replace It With Something Better&rpar;](https://lifehacker.com/kill-your-lawn-for-free-and-replace-it-with-something-1850575657)
 - [Lifehacker] [Three Ways to Deal With Your Micromanaging Boss](https://lifehacker.com/three-ways-to-deal-with-your-micromanging-boss-1850575867)
 - [Lifehacker] [Where to Get Free Wood Chips for Your Lawn](https://lifehacker.com/where-to-get-free-wood-chips-for-your-lawn-1850577513)
-- [Lifehacker] [Your Pixel Fold Order Was Probably Canceled](https://lifehacker.com/your-pixel-fold-order-was-probably-canceled-1850576079)
-- [Lifehacker] [This Refurbished Mac Mini Is on Sale for $206](https://lifehacker.com/this-refurbished-mac-mini-is-on-sale-for-206-1850572072)
-- [Lifehacker] [This Refurbished iPad and Wireless Beats Headphones Bundle Is $240 Right Now](https://lifehacker.com/this-refurbished-ipad-and-wireless-beats-headphones-bun-1850562075)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Pixel Fold Order Was Probably Canceled](https://lifehacker.com/your-pixel-fold-order-was-probably-canceled-1850576079)<!-- TECH-POSTS:END -->
 
 ---
 
