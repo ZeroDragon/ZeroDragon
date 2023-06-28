@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript Nominal Type: The Right Way](https://dev.to/tylim88/typescript-nominal-type-the-right-way-k9j)
+- [Dev.to/JS] [Serverless function cold start is too slow, let&#39;s dockerize our app](https://dev.to/romaintrotard/serverless-function-cold-start-is-too-slow-lets-dockerize-our-app-3maf)
+- [Lifehacker] [There&#39;s a Better Way to Reheat Your Boiled Egg](https://lifehacker.com/theres-a-better-way-to-reheat-your-boiled-egg-1850586297)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in July 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-july-2023-1850587543)
 - [Lifehacker] [This Refurbished MacBook Air Is 30% Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-30-off-right-now-1850579601)
 - [Dev.to/JS] [Async Await vs Fetch.Then&lpar;&rpar;](https://dev.to/paperbyte/async-await-vs-fetchthen-20oe)
@@ -43,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Event Listeners in JavaScript](https://dev.to/shamza214/event-listeners-in-javascript-mni)
 - [Lifehacker] [12 Incredibly Niche History Podcasts](https://lifehacker.com/12-incredibly-niche-history-podcasts-1850551986)
 - [Dev.to/JS] [Jest - Tackling Performance Issues](https://dev.to/ipwright83/jest-tackling-performance-issues-105g)
-- [Dev.to/JS] [Handle optional input parameters in AWS Step Functions without Lambda](https://dev.to/kumo/handle-optional-input-parameters-in-aws-step-functions-without-lambda-424m)
-- [Dev.to/JS] [Criação de Categorias no CrazyStack Next.js](https://dev.to/devdoido/formulario-de-criacao-de-categorias-interativo-com-react-no-crazystack-nextjs-1kj3)
 - [Lifehacker] [Turn Empty Pea Pods Into a Delicate, Flavored Vinegar](https://lifehacker.com/turn-empty-pea-pods-into-a-delicate-flavored-vinegar-1850577137)
 - [Lifehacker] [Three Bank Services You Can Get From Your Post Office](https://lifehacker.com/three-bank-services-you-can-get-from-your-post-office-1850581513)
 - [Lifehacker] [These Chilled Pea Soups Are the Perfect Easy Summer Lunch](https://lifehacker.com/these-chilled-pea-soups-are-the-perfect-easy-summer-lun-1850577386)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Flavor Your Coffee With Extracts Instead of Syrups](https://lifehacker.com/you-should-flavor-your-coffee-with-extracts-instead-of-1850578612)
 - [Lifehacker] [How to Scoop a Quenelle Like a Freakin&#39; Pro](https://lifehacker.com/how-to-scoop-a-quenelle-like-a-freakin-pro-1850577790)
 - [Lifehacker] [It&#39;s Time to Start Your Fall Garden](https://lifehacker.com/its-time-to-start-your-fall-garden-1850571652)
-- [Lifehacker] [Seven TikTok Woodworking Hacks That Actually Work](https://lifehacker.com/seven-tiktok-woodworking-hacks-that-actually-work-1850575573)
-- [Lifehacker] [The Best Ways to Pet-Proof Your Home When You Leave Them Alone](https://lifehacker.com/the-best-ways-to-pet-proof-your-home-when-you-leave-the-1850576211)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Seven TikTok Woodworking Hacks That Actually Work](https://lifehacker.com/seven-tiktok-woodworking-hacks-that-actually-work-1850575573)<!-- TECH-POSTS:END -->
 
 ---
 
