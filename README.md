@@ -23,22 +23,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HOSTING AND LAUNCHING OF MY FIRST WEBSITE!](https://dev.to/britinogn/hosting-and-launching-of-my-first-website-1i)
+- [Dev.to/JS] [Event Listeners in JavaScript](https://dev.to/shamza214/event-listeners-in-javascript-mni)
+- [Lifehacker] [12 Incredibly Niche History Podcasts](https://lifehacker.com/12-incredibly-niche-history-podcasts-1850551986)
+- [Dev.to/JS] [Jest - Tackling Performance Issues](https://dev.to/ipwright83/jest-tackling-performance-issues-105g)
+- [Dev.to/JS] [Handle optional input parameters in AWS Step Functions without Lambda](https://dev.to/kumo/handle-optional-input-parameters-in-aws-step-functions-without-lambda-424m)
+- [Dev.to/JS] [Criação de Categorias no CrazyStack Next.js](https://dev.to/devdoido/formulario-de-criacao-de-categorias-interativo-com-react-no-crazystack-nextjs-1kj3)
+- [Dev.to/JS] [Asynchronous JavaScript](https://dev.to/keoshaug/asynchronous-javascript-44p9)
+- [Dev.to/JS] [Designing SQL Database for a blog application](https://dev.to/charlestechy/designing-sql-database-for-a-blog-application-2i4i)
+- [Dev.to/JS] [Implementando um sistema de slots em React para componentes reutilizáveis](https://dev.to/demgoncalves/implementando-um-sistema-de-slots-em-react-para-componentes-reutilizaveis-3i5d)
+- [Lifehacker] [Turn Empty Pea Pods Into a Delicate, Flavored Vinegar](https://lifehacker.com/turn-empty-pea-pods-into-a-delicate-flavored-vinegar-1850577137)
 - [Dev.to/JS] [¿Cómo ayuda SD Elements a resolver los problemas mapeados?](https://dev.to/m3corplatam/como-ayuda-sd-elements-a-resolver-los-problemas-mapeados-38lh)
 - [Dev.to/JS] [¿Qué es el modelado de amenazas?](https://dev.to/m3corplatam/que-es-el-modelado-de-amenazas-19nm)
 - [Dev.to/JS] [Redux enhancer](https://dev.to/pandresdev/redux-enhancer-j9i)
 - [Dev.to/JS] [Simplify Code Reviews with What-the-Diff: Your AI-Powered Assistant](https://dev.to/aiforme/simplify-code-reviews-with-what-the-diff-your-ai-powered-assistant-34pe)
 - [Lifehacker] [Three Bank Services You Can Get From Your Post Office](https://lifehacker.com/three-bank-services-you-can-get-from-your-post-office-1850581513)
-- [Dev.to/JS] [JavaScript console methods: A deep dive.](https://dev.to/kelvinguchu/javascript-console-methods-a-deep-dive-jbf)
 - [Lifehacker] [These Chilled Pea Soups Are the Perfect Easy Summer Lunch](https://lifehacker.com/these-chilled-pea-soups-are-the-perfect-easy-summer-lun-1850577386)
-- [Dev.to/JS] [3 Amazing Million Dollar Business Ideas That You Can Build With Froala](https://dev.to/ideradevtools/3-amazing-million-dollar-business-ideas-that-you-can-build-with-froala-28c5)
 - [Lifehacker] [What Is ‘Roof Ponding’ &lpar;and What Can You Do About It&rpar;?](https://lifehacker.com/what-is-roof-ponding-and-what-can-you-do-about-it-1850581538)
-- [Dev.to/JS] [How to run many Node.js HTTP servers concurrently using child processes](https://dev.to/tqbit/how-to-run-many-nodejs-http-servers-concurrently-using-child-processes-541m)
-- [Dev.to/JS] [Top Essential Methods in JavaScript You Need to Know](https://dev.to/faridteymouri/top-essential-methods-in-javascript-you-need-to-know-353c)
-- [Dev.to/JS] [Redis](https://dev.to/thangsuperman/redis-3bnj)
 - [Lifehacker] [How to Finally Set Strong Financial Boundaries](https://lifehacker.com/how-to-finally-set-strong-financial-boundaries-1850582761)
-- [Dev.to/JS] [Build a JavaScript Live Streaming App with Video SDK](https://dev.to/video-sdk/live-streaming-app-in-javascript-1dn8)
-- [Dev.to/JS] [Organizing a Large Number of Scripts in Package.json](https://dev.to/brightdevs/organizing-a-large-number-of-scripts-in-packagejson-51j8)
-- [Dev.to/JS] [Identifying the Best Language for Developing Web Applications in 2023](https://dev.to/annie1233/identifying-the-best-language-for-developing-web-applications-in-2023-coa)
 - [Lifehacker] [RFK Jr.&#39;s Bench Press Isn&#39;t Actually That Impressive](https://lifehacker.com/rfk-jr-s-bench-press-isnt-actually-that-impressive-1850582894)
 - [Lifehacker] [Everything You Need to Start Canning Pickles, Jams, and More](https://lifehacker.com/everything-you-need-to-start-canning-pickles-jams-and-1850566954)
 - [Lifehacker] [You Can Get FlashBooks or SumizeIt for Up to 80% Off Right Now](https://lifehacker.com/you-can-get-flashbooks-or-sumizeit-for-up-to-80-off-ri-1850572166)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Refurbished Mac Mini Is on Sale for $206](https://lifehacker.com/this-refurbished-mac-mini-is-on-sale-for-206-1850572072)
 - [Lifehacker] [This Refurbished iPad and Wireless Beats Headphones Bundle Is $240 Right Now](https://lifehacker.com/this-refurbished-ipad-and-wireless-beats-headphones-bun-1850562075)
 - [Lifehacker] [These Language-Translating Earbuds Are $149 Right Now](https://lifehacker.com/these-language-translating-earbuds-are-149-right-now-1850562118)
-- [Lifehacker] [How to Talk to Kids About the Screwed-Up State of U.S. Politics](https://lifehacker.com/how-to-talk-to-kids-about-the-fucked-up-state-of-u-s-p-1850563568)
-- [Lifehacker] [How to Talk to Your Kids About School Shootings](https://lifehacker.com/how-to-talk-to-your-kids-about-school-shootings-1848975621)
-- [Lifehacker] [How to Talk to Your Kids About Guns](https://lifehacker.com/how-to-talk-to-your-kids-about-guns-1850540336)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Talk to Kids About the Screwed-Up State of U.S. Politics](https://lifehacker.com/how-to-talk-to-kids-about-the-fucked-up-state-of-u-s-p-1850563568)<!-- TECH-POSTS:END -->
 
 ---
 
