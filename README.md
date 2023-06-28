@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Advanced Javascript Collections: Introduction to Sets and Maps](https://dev.to/honeybadger/advanced-javascript-collections-introduction-to-sets-and-maps-1p8p)
+- [Lifehacker] [Six of the Best Trees to Plant for Shade in Your Yard](https://lifehacker.com/six-of-the-best-trees-to-plant-for-shade-in-your-yard-1850584777)
+- [Dev.to/JS] [JavaScript Fundamentals](https://dev.to/getsmartwebsite/javascript-fundamentals-3fea)
 - [Dev.to/JS] [HOSTING AND LAUNCHING OF MY FIRST WEBSITE!](https://dev.to/britinogn/hosting-and-launching-of-my-first-website-1i)
+- [Lifehacker] [11 of the Best Old-Timey Sodas to Drink This Summer](https://lifehacker.com/11-of-the-best-old-timey-sodas-to-drink-this-summer-1850583260)
 - [Dev.to/JS] [Event Listeners in JavaScript](https://dev.to/shamza214/event-listeners-in-javascript-mni)
 - [Lifehacker] [12 Incredibly Niche History Podcasts](https://lifehacker.com/12-incredibly-niche-history-podcasts-1850551986)
 - [Dev.to/JS] [Jest - Tackling Performance Issues](https://dev.to/ipwright83/jest-tackling-performance-issues-105g)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Turn Empty Pea Pods Into a Delicate, Flavored Vinegar](https://lifehacker.com/turn-empty-pea-pods-into-a-delicate-flavored-vinegar-1850577137)
 - [Dev.to/JS] [¿Cómo ayuda SD Elements a resolver los problemas mapeados?](https://dev.to/m3corplatam/como-ayuda-sd-elements-a-resolver-los-problemas-mapeados-38lh)
 - [Dev.to/JS] [¿Qué es el modelado de amenazas?](https://dev.to/m3corplatam/que-es-el-modelado-de-amenazas-19nm)
-- [Dev.to/JS] [Redux enhancer](https://dev.to/pandresdev/redux-enhancer-j9i)
-- [Dev.to/JS] [Simplify Code Reviews with What-the-Diff: Your AI-Powered Assistant](https://dev.to/aiforme/simplify-code-reviews-with-what-the-diff-your-ai-powered-assistant-34pe)
 - [Lifehacker] [Three Bank Services You Can Get From Your Post Office](https://lifehacker.com/three-bank-services-you-can-get-from-your-post-office-1850581513)
 - [Lifehacker] [These Chilled Pea Soups Are the Perfect Easy Summer Lunch](https://lifehacker.com/these-chilled-pea-soups-are-the-perfect-easy-summer-lun-1850577386)
 - [Lifehacker] [What Is ‘Roof Ponding’ &lpar;and What Can You Do About It&rpar;?](https://lifehacker.com/what-is-roof-ponding-and-what-can-you-do-about-it-1850581538)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Get Free Wood Chips for Your Lawn](https://lifehacker.com/where-to-get-free-wood-chips-for-your-lawn-1850577513)
 - [Lifehacker] [Your Pixel Fold Order Was Probably Canceled](https://lifehacker.com/your-pixel-fold-order-was-probably-canceled-1850576079)
 - [Lifehacker] [This Refurbished Mac Mini Is on Sale for $206](https://lifehacker.com/this-refurbished-mac-mini-is-on-sale-for-206-1850572072)
-- [Lifehacker] [This Refurbished iPad and Wireless Beats Headphones Bundle Is $240 Right Now](https://lifehacker.com/this-refurbished-ipad-and-wireless-beats-headphones-bun-1850562075)
-- [Lifehacker] [These Language-Translating Earbuds Are $149 Right Now](https://lifehacker.com/these-language-translating-earbuds-are-149-right-now-1850562118)
-- [Lifehacker] [How to Talk to Kids About the Screwed-Up State of U.S. Politics](https://lifehacker.com/how-to-talk-to-kids-about-the-fucked-up-state-of-u-s-p-1850563568)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Refurbished iPad and Wireless Beats Headphones Bundle Is $240 Right Now](https://lifehacker.com/this-refurbished-ipad-and-wireless-beats-headphones-bun-1850562075)<!-- TECH-POSTS:END -->
 
 ---
 
