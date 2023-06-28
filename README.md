@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Craft Stunning Interactive Data Visualizations: A Deep Dive into D3.js and Plotly](https://dev.to/vanrod124/craft-stunning-interactive-data-visualizations-a-deep-dive-into-d3js-and-plotly-11c2)
 - [Dev.to/JS] [Tilting cursor](https://dev.to/annetawamono/tilting-cursor-p71)
 - [Dev.to/JS] [Discover the Top Paying Technologies of 2023! 💰💻](https://dev.to/hr21don/discover-the-top-paying-technologies-of-2023-3325)
 - [Dev.to/JS] [Sharing Layouts with NextJS 13 app dir](https://dev.to/headbwoi/sharing-layouts-with-nextjs-13-app-dir-3374)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tech foutraque #1 - Frontend newsletter](https://dev.to/tech_foutraque/tech-foutraque-1-2809)
 - [Lifehacker] [You Can Get FlashBooks or SumizeIt for Up to 80% Off Right Now](https://lifehacker.com/you-can-get-flashbooks-or-sumizeit-for-up-to-80-off-ri-1850572166)
 - [Lifehacker] [You Can Get a One-Year Sam’s Club Membership for 50% Off](https://lifehacker.com/you-can-get-a-one-year-sam-s-club-membership-for-50-of-1850572212)
-- [Dev.to/JS] [Content Delivery with Node.js Streams](https://dev.to/ddanielcruzz/content-delivery-with-nodejs-streams-15a6)
 - [Lifehacker] [The Japanese Fruit Sando Is a Summer Essential](https://lifehacker.com/the-japanese-fruit-sando-is-a-summer-essential-1850581103)
 - [Lifehacker] [Get Unlimited Access to 80+ Upskillset Courses for 80% Off](https://lifehacker.com/get-unlimited-access-to-80-upskillset-courses-for-80-1850572264)
 - [Lifehacker] [Those SmileDirectClub NDAs Are Void &lpar;So You Can Talk About Your Experience Now&rpar;](https://lifehacker.com/those-smiledirectclub-ndas-are-void-so-you-can-talk-ab-1850574775)
