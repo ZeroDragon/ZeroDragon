@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Where to Find Good, Ethical Porn](https://lifehacker.com/where-to-find-good-ethical-porn-1850584141)
+- [Dev.to/JS] [How to detect an active internet connection in JavaScript apps?](https://dev.to/mahdi_falamarzi/how-to-detect-an-active-internet-connection-in-javascript-apps-3a6a)
+- [Dev.to/JS] [Reset a Form in React Hook Form](https://dev.to/coder4_life/reset-a-form-in-react-hook-form-18c1)
+- [Dev.to/JS] [লিনিয়ার সার্চ &lpar;Linear Search&rpar; ইন জাভাস্ক্রিপ্ট](https://dev.to/joydippaul/liniyyaar-saarc-linear-search-in-jaabhaaskriptt-4gb3)
+- [Lifehacker] [You Can Get an AdGuard Lifetime Subscription for Up to 80% Off Right Now](https://lifehacker.com/you-can-get-an-adguard-lifetime-subscription-for-up-to-1850579586)
+- [Lifehacker] [You Can Bury Your Dead at Sea &lpar;Because It’s Free, Eco-Friendly, and Totally Legal&rpar;](https://lifehacker.com/you-can-bury-your-dead-at-sea-because-it-s-free-eco-f-1850584474)
+- [Dev.to/JS] [Mastering State Management in React!](https://dev.to/iamutkarshyadav/mastering-state-management-in-react-o3)
 - [Lifehacker] [Make High-End Truffle Pasta on a Low-End Budget](https://lifehacker.com/make-high-end-truffle-pasta-on-a-low-end-budget-1850583142)
 - [Lifehacker] [How to Get Your Kid to Like What You Like](https://lifehacker.com/how-to-get-your-kid-to-like-what-you-like-1850582431)
 - [Dev.to/JS] [Advanced Javascript Collections: Introduction to Sets and Maps](https://dev.to/honeybadger/advanced-javascript-collections-introduction-to-sets-and-maps-1p8p)
@@ -36,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Handle optional input parameters in AWS Step Functions without Lambda](https://dev.to/kumo/handle-optional-input-parameters-in-aws-step-functions-without-lambda-424m)
 - [Dev.to/JS] [Criação de Categorias no CrazyStack Next.js](https://dev.to/devdoido/formulario-de-criacao-de-categorias-interativo-com-react-no-crazystack-nextjs-1kj3)
 - [Dev.to/JS] [Asynchronous JavaScript](https://dev.to/keoshaug/asynchronous-javascript-44p9)
-- [Dev.to/JS] [Designing SQL Database for a blog application](https://dev.to/charlestechy/designing-sql-database-for-a-blog-application-2i4i)
-- [Dev.to/JS] [Implementando um sistema de slots em React para componentes reutilizáveis](https://dev.to/demgoncalves/implementando-um-sistema-de-slots-em-react-para-componentes-reutilizaveis-3i5d)
 - [Lifehacker] [Turn Empty Pea Pods Into a Delicate, Flavored Vinegar](https://lifehacker.com/turn-empty-pea-pods-into-a-delicate-flavored-vinegar-1850577137)
-- [Dev.to/JS] [¿Cómo ayuda SD Elements a resolver los problemas mapeados?](https://dev.to/m3corplatam/como-ayuda-sd-elements-a-resolver-los-problemas-mapeados-38lh)
-- [Dev.to/JS] [¿Qué es el modelado de amenazas?](https://dev.to/m3corplatam/que-es-el-modelado-de-amenazas-19nm)
 - [Lifehacker] [Three Bank Services You Can Get From Your Post Office](https://lifehacker.com/three-bank-services-you-can-get-from-your-post-office-1850581513)
 - [Lifehacker] [These Chilled Pea Soups Are the Perfect Easy Summer Lunch](https://lifehacker.com/these-chilled-pea-soups-are-the-perfect-easy-summer-lun-1850577386)
 - [Lifehacker] [What Is ‘Roof Ponding’ &lpar;and What Can You Do About It&rpar;?](https://lifehacker.com/what-is-roof-ponding-and-what-can-you-do-about-it-1850581538)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Seven TikTok Woodworking Hacks That Actually Work](https://lifehacker.com/seven-tiktok-woodworking-hacks-that-actually-work-1850575573)
 - [Lifehacker] [The Best Ways to Pet-Proof Your Home When You Leave Them Alone](https://lifehacker.com/the-best-ways-to-pet-proof-your-home-when-you-leave-the-1850576211)
 - [Lifehacker] [The Difference Between a ‘Duplex’ and a ‘Twin Home’](https://lifehacker.com/the-difference-between-a-duplex-and-a-twin-home-1850576832)
-- [Lifehacker] [Kill Your Lawn for Free &lpar;and Replace It With Something Better&rpar;](https://lifehacker.com/kill-your-lawn-for-free-and-replace-it-with-something-1850575657)
-- [Lifehacker] [Three Ways to Deal With Your Micromanaging Boss](https://lifehacker.com/three-ways-to-deal-with-your-micromanging-boss-1850575867)
-- [Lifehacker] [Where to Get Free Wood Chips for Your Lawn](https://lifehacker.com/where-to-get-free-wood-chips-for-your-lawn-1850577513)
-- [Lifehacker] [Your Pixel Fold Order Was Probably Canceled](https://lifehacker.com/your-pixel-fold-order-was-probably-canceled-1850576079)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Kill Your Lawn for Free &lpar;and Replace It With Something Better&rpar;](https://lifehacker.com/kill-your-lawn-for-free-and-replace-it-with-something-1850575657)<!-- TECH-POSTS:END -->
 
 ---
 
