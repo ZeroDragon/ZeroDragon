@@ -23,8 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Chilled Pea Soups Are the Perfect Easy Summer Lunch](https://lifehacker.com/these-chilled-pea-soups-are-the-perfect-easy-summer-lun-1850577386)
+- [Dev.to/JS] [3 Amazing Million Dollar Business Ideas That You Can Build With Froala](https://dev.to/ideradevtools/3-amazing-million-dollar-business-ideas-that-you-can-build-with-froala-28c5)
+- [Lifehacker] [What Is ‘Roof Ponding’ &lpar;and What Can You Do About It&rpar;?](https://lifehacker.com/what-is-roof-ponding-and-what-can-you-do-about-it-1850581538)
+- [Dev.to/JS] [How to run many Node.js HTTP servers concurrently using child processes](https://dev.to/tqbit/how-to-run-many-nodejs-http-servers-concurrently-using-child-processes-541m)
 - [Dev.to/JS] [Top Essential Methods in JavaScript You Need to Know](https://dev.to/faridteymouri/top-essential-methods-in-javascript-you-need-to-know-353c)
 - [Dev.to/JS] [Redis](https://dev.to/thangsuperman/redis-3bnj)
+- [Lifehacker] [How to Finally Set Strong Financial Boundaries](https://lifehacker.com/how-to-finally-set-strong-financial-boundaries-1850582761)
 - [Dev.to/JS] [Build a JavaScript Live Streaming App with Video SDK](https://dev.to/video-sdk/live-streaming-app-in-javascript-1dn8)
 - [Dev.to/JS] [Organizing a Large Number of Scripts in Package.json](https://dev.to/brightdevs/organizing-a-large-number-of-scripts-in-packagejson-51j8)
 - [Dev.to/JS] [Identifying the Best Language for Developing Web Applications in 2023](https://dev.to/annie1233/identifying-the-best-language-for-developing-web-applications-in-2023-coa)
@@ -33,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Guide to Finding the Best HTML Editor on the Market](https://dev.to/ideradevtools/a-guide-to-finding-the-best-html-editor-on-the-market-ijj)
 - [Dev.to/JS] [Deploy a NEXT.js app for FREE on AWS with SST](https://dev.to/kumo/deploy-a-nextjs-app-for-free-on-aws-with-sst-3g28)
 - [Dev.to/JS] [Master the MS-101 Exam with Dumpsboss: Comprehensive Exam Dumps](https://dev.to/vqzw5ckw/master-the-ms-101-exam-with-dumpsboss-comprehensive-exam-dumps-2ih5)
-- [Dev.to/JS] [Introduction to Jest](https://dev.to/kiraaziz/introduction-to-jest-bnf)
-- [Dev.to/JS] [A brief intro about loaders in react router](https://dev.to/shaan_alam/a-brief-intro-about-loaders-in-react-router-54d)
 - [Lifehacker] [RFK Jr.&#39;s Bench Press Isn&#39;t Actually That Impressive](https://lifehacker.com/rfk-jr-s-bench-press-isnt-actually-that-impressive-1850582894)
 - [Lifehacker] [Everything You Need to Start Canning Pickles, Jams, and More](https://lifehacker.com/everything-you-need-to-start-canning-pickles-jams-and-1850566954)
 - [Lifehacker] [You Can Get FlashBooks or SumizeIt for Up to 80% Off Right Now](https://lifehacker.com/you-can-get-flashbooks-or-sumizeit-for-up-to-80-off-ri-1850572166)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Talk to Kids About the Screwed-Up State of U.S. Politics](https://lifehacker.com/how-to-talk-to-kids-about-the-fucked-up-state-of-u-s-p-1850563568)
 - [Lifehacker] [How to Talk to Your Kids About School Shootings](https://lifehacker.com/how-to-talk-to-your-kids-about-school-shootings-1848975621)
 - [Lifehacker] [How to Talk to Your Kids About Guns](https://lifehacker.com/how-to-talk-to-your-kids-about-guns-1850540336)
-- [Lifehacker] [How to Talk to Your Kids About Suicide](https://lifehacker.com/how-to-lower-your-teenagers-risk-of-suicide-1847047272)
-- [Lifehacker] [How to Talk to Your Kids About LGBTQ+ Issues](https://lifehacker.com/how-to-talk-to-your-kids-about-lgbtq-issues-1850507422)
-- [Lifehacker] [An Age-By-Age Guide to Teaching Kids About Online Safety](https://lifehacker.com/an-age-by-age-guide-to-teaching-kids-about-online-safet-1850474580)
-- [Lifehacker] [An Age-By-Age Guide to Talking to Kids About Race](https://lifehacker.com/an-age-by-age-guide-to-talking-to-kids-about-race-1850460959)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Talk to Your Kids About Suicide](https://lifehacker.com/how-to-lower-your-teenagers-risk-of-suicide-1847047272)<!-- TECH-POSTS:END -->
 
 ---
 
