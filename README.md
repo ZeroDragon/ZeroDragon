@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create a Pseudo MySQL Foreign Data Wrapper for Supabase with PostgreSQL and Edge Functions](https://dev.to/supabase/creating-a-pseudo-mysql-foreign-data-wrapper-for-supabase-using-postgresql-and-supabases-edge-functions-12ei)
 - [Dev.to/JS] [Craft Stunning Interactive Data Visualizations: A Deep Dive into D3.js and Plotly](https://dev.to/vanrod124/craft-stunning-interactive-data-visualizations-a-deep-dive-into-d3js-and-plotly-11c2)
 - [Dev.to/JS] [Tilting cursor](https://dev.to/annetawamono/tilting-cursor-p71)
 - [Dev.to/JS] [Discover the Top Paying Technologies of 2023! 💰💻](https://dev.to/hr21don/discover-the-top-paying-technologies-of-2023-3325)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tech foutraque #4 - Frontend newsletter](https://dev.to/tech_foutraque/tech-foutraque-4-3e2d)
 - [Dev.to/JS] [Tech foutraque #3 - Frontend newsletter](https://dev.to/tech_foutraque/tech-foutraque-3-2cad)
 - [Dev.to/JS] [Tech foutraque #2 - Frontend newsletter](https://dev.to/tech_foutraque/tech-foutraque-2-5fl4)
-- [Dev.to/JS] [Tech foutraque #1 - Frontend newsletter](https://dev.to/tech_foutraque/tech-foutraque-1-2809)
 - [Lifehacker] [You Can Get FlashBooks or SumizeIt for Up to 80% Off Right Now](https://lifehacker.com/you-can-get-flashbooks-or-sumizeit-for-up-to-80-off-ri-1850572166)
 - [Lifehacker] [You Can Get a One-Year Sam’s Club Membership for 50% Off](https://lifehacker.com/you-can-get-a-one-year-sam-s-club-membership-for-50-of-1850572212)
 - [Lifehacker] [The Japanese Fruit Sando Is a Summer Essential](https://lifehacker.com/the-japanese-fruit-sando-is-a-summer-essential-1850581103)
