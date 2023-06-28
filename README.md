@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Identifying the Best Language for Developing Web Applications in 2023](https://dev.to/annie1233/identifying-the-best-language-for-developing-web-applications-in-2023-coa)
+- [Dev.to/JS] [How to Be a Laravel and React Programmer at the Same Time ?! 🤔](https://dev.to/roshdiraed/how-to-be-a-laravel-and-react-programmer-at-the-same-time--4a4j)
 - [Dev.to/JS] [#LearnedToday: strucuredClone&lpar;&rpar;](https://dev.to/danielzotti/learnedtoday-strucuredclone-207g)
 - [Dev.to/JS] [A Guide to Finding the Best HTML Editor on the Market](https://dev.to/ideradevtools/a-guide-to-finding-the-best-html-editor-on-the-market-ijj)
 - [Dev.to/JS] [Deploy a NEXT.js app for FREE on AWS with SST](https://dev.to/kumo/deploy-a-nextjs-app-for-free-on-aws-with-sst-3g28)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Spy on Classes](https://dev.to/zirkelc/how-to-spy-on-classes-5hh5)
 - [Dev.to/JS] [Async Await Best Practices: Tips and Tricks for Faster, Smarter Code](https://dev.to/sanujbansal/async-await-best-practices-tips-and-tricks-for-faster-smarter-code-2bjl)
 - [Dev.to/JS] [Mastering Scalable Code: JavaScript Design Patterns Explained](https://dev.to/abhaysinghr1/mastering-scalable-code-javascript-design-patterns-explained-d2o)
-- [Dev.to/JS] [Kerassentials Toenail Fungus Treatment - Nail Fungus Reviews, Price, Pros, Cons, Scam Or Legit?](https://dev.to/kerassenti84049/kerassentials-toenail-fungus-treatment-nail-fungus-reviews-price-pros-cons-scam-or-legit-4gd3)
-- [Dev.to/JS] [🔴 Build a Whatsapp Clone &lpar;Realtime Chat&rpar; using Next.js, Socket.io, Tailwind CSS, Node.js, Express and Prisma](https://dev.to/koolkishan/build-a-whatsapp-clone-realtime-chat-using-nextjs-socketio-tailwind-css-nodejs-express-and-prisma-1j0k)
 - [Lifehacker] [RFK Jr.&#39;s Bench Press Isn&#39;t Actually That Impressive](https://lifehacker.com/rfk-jr-s-bench-press-isnt-actually-that-impressive-1850582894)
 - [Lifehacker] [Everything You Need to Start Canning Pickles, Jams, and More](https://lifehacker.com/everything-you-need-to-start-canning-pickles-jams-and-1850566954)
 - [Lifehacker] [You Can Get FlashBooks or SumizeIt for Up to 80% Off Right Now](https://lifehacker.com/you-can-get-flashbooks-or-sumizeit-for-up-to-80-off-ri-1850572166)
