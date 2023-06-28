@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SvelteKit Fetch and POST](https://dev.to/remotedevelopmentinfo/sveltekit-fetch-and-post-4ba8)
+- [Dev.to/JS] [How To Spy on Classes](https://dev.to/zirkelc/how-to-spy-on-classes-5hh5)
 - [Dev.to/JS] [Async Await Best Practices: Tips and Tricks for Faster, Smarter Code](https://dev.to/sanujbansal/async-await-best-practices-tips-and-tricks-for-faster-smarter-code-2bjl)
 - [Dev.to/JS] [Mastering Scalable Code: JavaScript Design Patterns Explained](https://dev.to/abhaysinghr1/mastering-scalable-code-javascript-design-patterns-explained-d2o)
 - [Dev.to/JS] [Kerassentials Toenail Fungus Treatment - Nail Fungus Reviews, Price, Pros, Cons, Scam Or Legit?](https://dev.to/kerassenti84049/kerassentials-toenail-fungus-treatment-nail-fungus-reviews-price-pros-cons-scam-or-legit-4gd3)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Flex your muscles 🧠💪](https://dev.to/builditdeploy/flex-your-muscles-3alk)
 - [Lifehacker] [RFK Jr.&#39;s Bench Press Isn&#39;t Actually That Impressive](https://lifehacker.com/rfk-jr-s-bench-press-isnt-actually-that-impressive-1850582894)
 - [Dev.to/JS] [Episode 23/25: ng-conf, Signals with Ryan Carniato and Ben Lesh](https://dev.to/this-is-angular/episode-2325-ng-conf-signals-with-ryan-carniato-and-ben-lesh-3ne6)
-- [Dev.to/JS] [What should I learn next?](https://dev.to/erina92/what-should-i-learn-next-32b2)
-- [Dev.to/JS] [The Quick Guide To Writing A Function For Beginners](https://dev.to/deborah/the-quick-guide-to-writing-a-function-for-beginners-lp8)
 - [Lifehacker] [Everything You Need to Start Canning Pickles, Jams, and More](https://lifehacker.com/everything-you-need-to-start-canning-pickles-jams-and-1850566954)
 - [Lifehacker] [You Can Get FlashBooks or SumizeIt for Up to 80% Off Right Now](https://lifehacker.com/you-can-get-flashbooks-or-sumizeit-for-up-to-80-off-ri-1850572166)
 - [Lifehacker] [You Can Get a One-Year Sam’s Club Membership for 50% Off](https://lifehacker.com/you-can-get-a-one-year-sam-s-club-membership-for-50-of-1850572212)
