@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in July 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-july-2023-1850587543)
+- [Lifehacker] [This Refurbished MacBook Air Is 30% Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-30-off-right-now-1850579601)
+- [Dev.to/JS] [Async Await vs Fetch.Then&lpar;&rpar;](https://dev.to/paperbyte/async-await-vs-fetchthen-20oe)
 - [Lifehacker] [Where to Find Good, Ethical Porn](https://lifehacker.com/where-to-find-good-ethical-porn-1850584141)
 - [Dev.to/JS] [How to detect an active internet connection in JavaScript apps?](https://dev.to/mahdi_falamarzi/how-to-detect-an-active-internet-connection-in-javascript-apps-3a6a)
 - [Dev.to/JS] [Reset a Form in React Hook Form](https://dev.to/coder4_life/reset-a-form-in-react-hook-form-18c1)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Jest - Tackling Performance Issues](https://dev.to/ipwright83/jest-tackling-performance-issues-105g)
 - [Dev.to/JS] [Handle optional input parameters in AWS Step Functions without Lambda](https://dev.to/kumo/handle-optional-input-parameters-in-aws-step-functions-without-lambda-424m)
 - [Dev.to/JS] [Criação de Categorias no CrazyStack Next.js](https://dev.to/devdoido/formulario-de-criacao-de-categorias-interativo-com-react-no-crazystack-nextjs-1kj3)
-- [Dev.to/JS] [Asynchronous JavaScript](https://dev.to/keoshaug/asynchronous-javascript-44p9)
 - [Lifehacker] [Turn Empty Pea Pods Into a Delicate, Flavored Vinegar](https://lifehacker.com/turn-empty-pea-pods-into-a-delicate-flavored-vinegar-1850577137)
 - [Lifehacker] [Three Bank Services You Can Get From Your Post Office](https://lifehacker.com/three-bank-services-you-can-get-from-your-post-office-1850581513)
 - [Lifehacker] [These Chilled Pea Soups Are the Perfect Easy Summer Lunch](https://lifehacker.com/these-chilled-pea-soups-are-the-perfect-easy-summer-lun-1850577386)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Scoop a Quenelle Like a Freakin&#39; Pro](https://lifehacker.com/how-to-scoop-a-quenelle-like-a-freakin-pro-1850577790)
 - [Lifehacker] [It&#39;s Time to Start Your Fall Garden](https://lifehacker.com/its-time-to-start-your-fall-garden-1850571652)
 - [Lifehacker] [Seven TikTok Woodworking Hacks That Actually Work](https://lifehacker.com/seven-tiktok-woodworking-hacks-that-actually-work-1850575573)
-- [Lifehacker] [The Best Ways to Pet-Proof Your Home When You Leave Them Alone](https://lifehacker.com/the-best-ways-to-pet-proof-your-home-when-you-leave-the-1850576211)
-- [Lifehacker] [The Difference Between a ‘Duplex’ and a ‘Twin Home’](https://lifehacker.com/the-difference-between-a-duplex-and-a-twin-home-1850576832)
-- [Lifehacker] [Kill Your Lawn for Free &lpar;and Replace It With Something Better&rpar;](https://lifehacker.com/kill-your-lawn-for-free-and-replace-it-with-something-1850575657)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Pet-Proof Your Home When You Leave Them Alone](https://lifehacker.com/the-best-ways-to-pet-proof-your-home-when-you-leave-the-1850576211)<!-- TECH-POSTS:END -->
 
 ---
 
