@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#LearnedToday: strucuredClone&lpar;&rpar;](https://dev.to/danielzotti/learnedtoday-strucuredclone-207g)
+- [Dev.to/JS] [A Guide to Finding the Best HTML Editor on the Market](https://dev.to/ideradevtools/a-guide-to-finding-the-best-html-editor-on-the-market-ijj)
+- [Dev.to/JS] [Deploy a NEXT.js app for FREE on AWS with SST](https://dev.to/kumo/deploy-a-nextjs-app-for-free-on-aws-with-sst-3g28)
 - [Dev.to/JS] [Master the MS-101 Exam with Dumpsboss: Comprehensive Exam Dumps](https://dev.to/vqzw5ckw/master-the-ms-101-exam-with-dumpsboss-comprehensive-exam-dumps-2ih5)
 - [Dev.to/JS] [Introduction to Jest](https://dev.to/kiraaziz/introduction-to-jest-bnf)
 - [Dev.to/JS] [A brief intro about loaders in react router](https://dev.to/shaan_alam/a-brief-intro-about-loaders-in-react-router-54d)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Scalable Code: JavaScript Design Patterns Explained](https://dev.to/abhaysinghr1/mastering-scalable-code-javascript-design-patterns-explained-d2o)
 - [Dev.to/JS] [Kerassentials Toenail Fungus Treatment - Nail Fungus Reviews, Price, Pros, Cons, Scam Or Legit?](https://dev.to/kerassenti84049/kerassentials-toenail-fungus-treatment-nail-fungus-reviews-price-pros-cons-scam-or-legit-4gd3)
 - [Dev.to/JS] [🔴 Build a Whatsapp Clone &lpar;Realtime Chat&rpar; using Next.js, Socket.io, Tailwind CSS, Node.js, Express and Prisma](https://dev.to/koolkishan/build-a-whatsapp-clone-realtime-chat-using-nextjs-socketio-tailwind-css-nodejs-express-and-prisma-1j0k)
-- [Dev.to/JS] [How to Create a Pseudo MySQL Foreign Data Wrapper for Supabase with PostgreSQL and Edge Functions](https://dev.to/supabase/creating-a-pseudo-mysql-foreign-data-wrapper-for-supabase-using-postgresql-and-supabases-edge-functions-12ei)
-- [Dev.to/JS] [Craft Stunning Interactive Data Visualizations: A Deep Dive into D3.js and Plotly](https://dev.to/vanrod124/craft-stunning-interactive-data-visualizations-a-deep-dive-into-d3js-and-plotly-11c2)
-- [Dev.to/JS] [Tilting cursor](https://dev.to/annetawamono/tilting-cursor-p71)
 - [Lifehacker] [RFK Jr.&#39;s Bench Press Isn&#39;t Actually That Impressive](https://lifehacker.com/rfk-jr-s-bench-press-isnt-actually-that-impressive-1850582894)
 - [Lifehacker] [Everything You Need to Start Canning Pickles, Jams, and More](https://lifehacker.com/everything-you-need-to-start-canning-pickles-jams-and-1850566954)
 - [Lifehacker] [You Can Get FlashBooks or SumizeIt for Up to 80% Off Right Now](https://lifehacker.com/you-can-get-flashbooks-or-sumizeit-for-up-to-80-off-ri-1850572166)
