@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top Essential Methods in JavaScript You Need to Know](https://dev.to/faridteymouri/top-essential-methods-in-javascript-you-need-to-know-353c)
+- [Dev.to/JS] [Redis](https://dev.to/thangsuperman/redis-3bnj)
+- [Dev.to/JS] [Build a JavaScript Live Streaming App with Video SDK](https://dev.to/video-sdk/live-streaming-app-in-javascript-1dn8)
+- [Dev.to/JS] [Organizing a Large Number of Scripts in Package.json](https://dev.to/brightdevs/organizing-a-large-number-of-scripts-in-packagejson-51j8)
 - [Dev.to/JS] [Identifying the Best Language for Developing Web Applications in 2023](https://dev.to/annie1233/identifying-the-best-language-for-developing-web-applications-in-2023-coa)
 - [Dev.to/JS] [How to Be a Laravel and React Programmer at the Same Time ?! 🤔](https://dev.to/roshdiraed/how-to-be-a-laravel-and-react-programmer-at-the-same-time--4a4j)
 - [Dev.to/JS] [#LearnedToday: strucuredClone&lpar;&rpar;](https://dev.to/danielzotti/learnedtoday-strucuredclone-207g)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Master the MS-101 Exam with Dumpsboss: Comprehensive Exam Dumps](https://dev.to/vqzw5ckw/master-the-ms-101-exam-with-dumpsboss-comprehensive-exam-dumps-2ih5)
 - [Dev.to/JS] [Introduction to Jest](https://dev.to/kiraaziz/introduction-to-jest-bnf)
 - [Dev.to/JS] [A brief intro about loaders in react router](https://dev.to/shaan_alam/a-brief-intro-about-loaders-in-react-router-54d)
-- [Dev.to/JS] [SvelteKit Fetch and POST](https://dev.to/remotedevelopmentinfo/sveltekit-fetch-and-post-4ba8)
-- [Dev.to/JS] [How To Spy on Classes](https://dev.to/zirkelc/how-to-spy-on-classes-5hh5)
-- [Dev.to/JS] [Async Await Best Practices: Tips and Tricks for Faster, Smarter Code](https://dev.to/sanujbansal/async-await-best-practices-tips-and-tricks-for-faster-smarter-code-2bjl)
-- [Dev.to/JS] [Mastering Scalable Code: JavaScript Design Patterns Explained](https://dev.to/abhaysinghr1/mastering-scalable-code-javascript-design-patterns-explained-d2o)
 - [Lifehacker] [RFK Jr.&#39;s Bench Press Isn&#39;t Actually That Impressive](https://lifehacker.com/rfk-jr-s-bench-press-isnt-actually-that-impressive-1850582894)
 - [Lifehacker] [Everything You Need to Start Canning Pickles, Jams, and More](https://lifehacker.com/everything-you-need-to-start-canning-pickles-jams-and-1850566954)
 - [Lifehacker] [You Can Get FlashBooks or SumizeIt for Up to 80% Off Right Now](https://lifehacker.com/you-can-get-flashbooks-or-sumizeit-for-up-to-80-off-ri-1850572166)
