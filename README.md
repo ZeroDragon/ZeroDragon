@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Prediction: You&#39;ll hate Sveltejs in ~5 years](https://dev.to/xphlawlessx/prediction-youll-hate-sveltejs-in-5-years-2ji0)
+- [Lifehacker] [This EvaChill Personal Air Conditioner Is on Sale for 30% Off](https://lifehacker.com/this-evachill-personal-air-conditioner-is-on-sale-for-3-1850584517)
+- [Dev.to/JS] [FaceBook Like Clone With Source Code](https://dev.to/brojenuel/facebook-like-clone-with-source-code-1fbe)
+- [Lifehacker] [Strawberry Shortcake Casserole Is Your Casual Summer Party Dessert](https://lifehacker.com/strawberry-shortcake-casserole-is-your-casual-summer-pa-1850587938)
 - [Lifehacker] [Why You Should Install an In-Wall Air Conditioner &lpar;Instead of a Window Unit&rpar;](https://lifehacker.com/why-you-should-install-an-in-wall-air-conditioner-inst-1850586290)
 - [Dev.to/JS] [HTML Styles](https://dev.to/nitjsr12/html-styles-2el5)
 - [Crazy Programmer] [How is AI Being Used in Cybersecurity?](https://www.thecrazyprogrammer.com/2023/06/how-is-ai-being-used-in-cybersecurity.html)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unveiling the Hidden Opportunities with Potential of IoT Applications](https://dev.to/datarecove95829/unveiling-the-hidden-opportunities-with-potential-of-iot-applications-2ljf)
 - [Dev.to/JS] [React&#39;s Secret Weapon: Synthetic Events](https://dev.to/ritavdas/reacts-secret-weapon-synthetic-events-27db)
 - [Dev.to/JS] [Beyond Barriers: Unlocking the Benefits of Web Accessibility](https://dev.to/ismaestro/beyond-barriers-unlocking-the-benefits-of-web-accessibility-2l9n)
-- [Dev.to/JS] [Unlocking the Power of Callback Functions in JavaScript](https://dev.to/cliff123tech/unlocking-the-power-of-callback-functions-in-javascript-1ho5)
-- [Dev.to/JS] [Why I chose to use the Dev.to API to display content on my website](https://dev.to/snehalkadwe/why-i-chose-to-use-the-devto-api-to-display-content-on-my-website-4560)
 - [Lifehacker] [All About Malaria, Which We Have in the U.S. Now](https://lifehacker.com/all-about-malaria-which-we-have-in-the-u-s-now-1850588268)
 - [Lifehacker] [For a Better Ribeye, Combine Sous-Vide and Smoke](https://lifehacker.com/for-a-better-ribeye-combine-sous-vide-and-smoke-1850586654)
 - [Lifehacker] [There&#39;s a Better Way to Reheat Your Boiled Egg](https://lifehacker.com/theres-a-better-way-to-reheat-your-boiled-egg-1850586297)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get FlashBooks or SumizeIt for Up to 80% Off Right Now](https://lifehacker.com/you-can-get-flashbooks-or-sumizeit-for-up-to-80-off-ri-1850572166)
 - [Lifehacker] [You Can Get a One-Year Sam’s Club Membership for 50% Off](https://lifehacker.com/you-can-get-a-one-year-sam-s-club-membership-for-50-of-1850572212)
 - [Lifehacker] [The Japanese Fruit Sando Is a Summer Essential](https://lifehacker.com/the-japanese-fruit-sando-is-a-summer-essential-1850581103)
-- [Lifehacker] [Get Unlimited Access to 80+ Upskillset Courses for 80% Off](https://lifehacker.com/get-unlimited-access-to-80-upskillset-courses-for-80-1850572264)
-- [Lifehacker] [Those SmileDirectClub NDAs Are Void &lpar;So You Can Talk About Your Experience Now&rpar;](https://lifehacker.com/those-smiledirectclub-ndas-are-void-so-you-can-talk-ab-1850574775)
-- [Lifehacker] [How to Get Free Grape Leaves &lpar;and What to Make with Them&rpar;](https://lifehacker.com/how-to-get-free-grape-leaves-and-what-to-make-with-the-1850566546)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Get Unlimited Access to 80+ Upskillset Courses for 80% Off](https://lifehacker.com/get-unlimited-access-to-80-upskillset-courses-for-80-1850572264)<!-- TECH-POSTS:END -->
 
 ---
 
