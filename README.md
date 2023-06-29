@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Testing markdown](https://dev.to/zxin/testing-markdown-1gkf)
 - [Dev.to/JS] [&quot;From XMLHttpRequest to Fetch API: How Fetch became the Way Forward for JS Development](https://dev.to/lukeskw/from-xmlhttprequest-to-fetch-api-how-fetch-became-the-way-forward-for-js-development-2a9b)
 - [Dev.to/JS] [Boost Debugging Efficiency: The AI Code Error Tool](https://dev.to/aiforme/boost-debugging-efficiency-the-ai-code-error-tool-5a7n)
 - [Dev.to/JS] [Using insecure npm package manager defaults to steal your macOS keyboard shortcuts](https://dev.to/snyk/using-insecure-npm-package-manager-defaults-to-steal-your-macos-keyboard-shortcuts-52kh)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Find Good, Ethical Porn](https://lifehacker.com/where-to-find-good-ethical-porn-1850584141)
 - [Dev.to/JS] [How to detect an active internet connection in JavaScript apps?](https://dev.to/mahdi_falamarzi/how-to-detect-an-active-internet-connection-in-javascript-apps-3a6a)
 - [Dev.to/JS] [Reset a Form in React Hook Form](https://dev.to/coder4_life/reset-a-form-in-react-hook-form-18c1)
-- [Dev.to/JS] [লিনিয়ার সার্চ &lpar;Linear Search&rpar; ইন জাভাস্ক্রিপ্ট](https://dev.to/joydippaul/liniyyaar-saarc-linear-search-in-jaabhaaskriptt-4gb3)
 - [Lifehacker] [You Can Get an AdGuard Lifetime Subscription for Up to 80% Off Right Now](https://lifehacker.com/you-can-get-an-adguard-lifetime-subscription-for-up-to-1850579586)
 - [Lifehacker] [You Can Bury Your Dead at Sea &lpar;Because It’s Free, Eco-Friendly, and Totally Legal&rpar;](https://lifehacker.com/you-can-bury-your-dead-at-sea-because-it-s-free-eco-f-1850584474)
 - [Lifehacker] [Make High-End Truffle Pasta on a Low-End Budget](https://lifehacker.com/make-high-end-truffle-pasta-on-a-low-end-budget-1850583142)
