@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bitcoin Profit Way - Benefits, Reviews, Pros, Cons And Results?](https://dev.to/bitcoinpro47609/bitcoin-profit-way-benefits-reviews-pros-cons-and-results-465g)
+- [Dev.to/JS] [Radix Sort Algorithm: A Powerful Sorting Technique Using JavaScript](https://dev.to/therahul_gupta/radix-sort-algorithm-a-powerful-sorting-technique-using-javascript-4p15)
 - [Lifehacker] [All About Malaria, Which We Have in the U.S. Now](https://lifehacker.com/all-about-malaria-which-we-have-in-the-u-s-now-1850588268)
 - [Dev.to/JS] [3 Ways to Clone Objects in JavaScript](https://dev.to/itsvinayak/3-ways-to-clone-objects-in-javascript-12jh)
 - [Lifehacker] [For a Better Ribeye, Combine Sous-Vide and Smoke](https://lifehacker.com/for-a-better-ribeye-combine-sous-vide-and-smoke-1850586654)
@@ -44,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advanced Javascript Collections: Introduction to Sets and Maps](https://dev.to/honeybadger/advanced-javascript-collections-introduction-to-sets-and-maps-1p8p)
 - [Lifehacker] [Six of the Best Trees to Plant for Shade in Your Yard](https://lifehacker.com/six-of-the-best-trees-to-plant-for-shade-in-your-yard-1850584777)
 - [Dev.to/JS] [JavaScript Fundamentals](https://dev.to/getsmartwebsite/javascript-fundamentals-3fea)
-- [Dev.to/JS] [HOSTING AND LAUNCHING OF MY FIRST WEBSITE!](https://dev.to/britinogn/hosting-and-launching-of-my-first-website-1i)
 - [Lifehacker] [11 of the Best Old-Timey Sodas to Drink This Summer](https://lifehacker.com/11-of-the-best-old-timey-sodas-to-drink-this-summer-1850583260)
-- [Dev.to/JS] [Event Listeners in JavaScript](https://dev.to/shamza214/event-listeners-in-javascript-mni)
 - [Lifehacker] [12 Incredibly Niche History Podcasts](https://lifehacker.com/12-incredibly-niche-history-podcasts-1850551986)
 - [Lifehacker] [Turn Empty Pea Pods Into a Delicate, Flavored Vinegar](https://lifehacker.com/turn-empty-pea-pods-into-a-delicate-flavored-vinegar-1850577137)
 - [Lifehacker] [Three Bank Services You Can Get From Your Post Office](https://lifehacker.com/three-bank-services-you-can-get-from-your-post-office-1850581513)
