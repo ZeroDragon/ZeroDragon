@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Node.js?: A Complete Guide](https://dev.to/amplication/what-is-nodejs-a-complete-guide-527a)
+- [Dev.to/JS] [🧹 The Magic of JavaScript Garbage Collector: Keeping Your Code Clean! 🪄](https://dev.to/chanakyasarma/the-magic-of-javascript-garbage-collector-keeping-your-code-clean-eb1)
 - [Dev.to/JS] [Diaetolin - Fat Loss Solution, Price, Uses, Reviews And Benefits?](https://dev.to/diaetolinf92925/diaetolin-fat-loss-solution-price-uses-reviews-and-benefits-3761)
 - [Dev.to/JS] [Testing markdown](https://dev.to/zxin/testing-markdown-1gkf)
 - [Dev.to/JS] [&quot;From XMLHttpRequest to Fetch API: How Fetch became the Way Forward for JS Development](https://dev.to/lukeskw/from-xmlhttprequest-to-fetch-api-how-fetch-became-the-way-forward-for-js-development-2a9b)
@@ -38,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There&#39;s a Better Way to Reheat Your Boiled Egg](https://lifehacker.com/theres-a-better-way-to-reheat-your-boiled-egg-1850586297)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in July 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-july-2023-1850587543)
 - [Lifehacker] [This Refurbished MacBook Air Is 30% Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-30-off-right-now-1850579601)
-- [Dev.to/JS] [Async Await vs Fetch.Then&lpar;&rpar;](https://dev.to/paperbyte/async-await-vs-fetchthen-20oe)
 - [Lifehacker] [Where to Find Good, Ethical Porn](https://lifehacker.com/where-to-find-good-ethical-porn-1850584141)
-- [Dev.to/JS] [How to detect an active internet connection in JavaScript apps?](https://dev.to/mahdi_falamarzi/how-to-detect-an-active-internet-connection-in-javascript-apps-3a6a)
 - [Lifehacker] [You Can Get an AdGuard Lifetime Subscription for Up to 80% Off Right Now](https://lifehacker.com/you-can-get-an-adguard-lifetime-subscription-for-up-to-1850579586)
 - [Lifehacker] [You Can Bury Your Dead at Sea &lpar;Because It’s Free, Eco-Friendly, and Totally Legal&rpar;](https://lifehacker.com/you-can-bury-your-dead-at-sea-because-it-s-free-eco-f-1850584474)
 - [Lifehacker] [Make High-End Truffle Pasta on a Low-End Budget](https://lifehacker.com/make-high-end-truffle-pasta-on-a-low-end-budget-1850583142)
