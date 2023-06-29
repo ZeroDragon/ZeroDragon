@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Recommended Level Of React Proficiency For The First Job](https://dev.to/alisamirali/the-recommended-level-of-react-proficiency-for-the-first-job-2on3)
 - [Dev.to/JS] [Create Your Own Programming Language 7: More Types](https://dev.to/jasonsbarr/create-your-own-programming-language-7-more-types-5hl1)
 - [Lifehacker] [10 Ways to Not Blow Off Your Fingers This Fourth of July](https://lifehacker.com/10-ways-to-not-blow-off-your-fingers-this-fourth-of-jul-1850592369)
 - [Lifehacker] [Make Perfect Popsicles With Guar Gum](https://lifehacker.com/make-perfect-popsicles-with-guar-gum-1850591737)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using JavaScript classes without the `class` keyword](https://dev.to/this-is-learning/using-javascript-classes-without-the-class-keyword-120n)
 - [Lifehacker] [Get This Windows 11 Pro Bundle for 85% Off Right Now](https://lifehacker.com/get-this-windows-11-pro-bundle-for-85-off-right-now-1850584532)
 - [Lifehacker] [The Best Way to Respond to a Poor Performance Review](https://lifehacker.com/the-best-way-to-respond-to-a-poor-performance-review-1850591233)
-- [Dev.to/JS] [JS: What is &quot;this&quot; ?](https://dev.to/angdecoder/js-what-is-this--4c5h)
 - [Lifehacker] [Don’t Ask a Flight Attendant to Lift Your Luggage, and Other Things They Wish You Knew](https://lifehacker.com/don-t-ask-a-flight-attendant-to-lift-your-luggage-and-1850586514)
 - [Lifehacker] [20 Shows You&#39;ll Love If You Watch &#39;Black Mirror&#39;](https://lifehacker.com/20-shows-youll-love-if-you-watch-black-mirror-1850575004)
 - [Lifehacker] [Aspartame&#39;s &#39;Possible Carcinogen&#39; Designation Means Basically Nothing](https://lifehacker.com/aspartames-possible-carcinogen-designation-means-basica-1850590970)
