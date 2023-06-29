@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&quot;From XMLHttpRequest to Fetch API: How Fetch became the Way Forward for JS Development](https://dev.to/lukeskw/from-xmlhttprequest-to-fetch-api-how-fetch-became-the-way-forward-for-js-development-2a9b)
+- [Dev.to/JS] [Boost Debugging Efficiency: The AI Code Error Tool](https://dev.to/aiforme/boost-debugging-efficiency-the-ai-code-error-tool-5a7n)
 - [Dev.to/JS] [Using insecure npm package manager defaults to steal your macOS keyboard shortcuts](https://dev.to/snyk/using-insecure-npm-package-manager-defaults-to-steal-your-macos-keyboard-shortcuts-52kh)
 - [Dev.to/JS] [Bitcoin Profit Way - Benefits, Reviews, Pros, Cons And Results?](https://dev.to/bitcoinpro47609/bitcoin-profit-way-benefits-reviews-pros-cons-and-results-465g)
 - [Dev.to/JS] [Radix Sort Algorithm: A Powerful Sorting Technique Using JavaScript](https://dev.to/therahul_gupta/radix-sort-algorithm-a-powerful-sorting-technique-using-javascript-4p15)
@@ -41,10 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [লিনিয়ার সার্চ &lpar;Linear Search&rpar; ইন জাভাস্ক্রিপ্ট](https://dev.to/joydippaul/liniyyaar-saarc-linear-search-in-jaabhaaskriptt-4gb3)
 - [Lifehacker] [You Can Get an AdGuard Lifetime Subscription for Up to 80% Off Right Now](https://lifehacker.com/you-can-get-an-adguard-lifetime-subscription-for-up-to-1850579586)
 - [Lifehacker] [You Can Bury Your Dead at Sea &lpar;Because It’s Free, Eco-Friendly, and Totally Legal&rpar;](https://lifehacker.com/you-can-bury-your-dead-at-sea-because-it-s-free-eco-f-1850584474)
-- [Dev.to/JS] [Mastering State Management in React!](https://dev.to/iamutkarshyadav/mastering-state-management-in-react-o3)
 - [Lifehacker] [Make High-End Truffle Pasta on a Low-End Budget](https://lifehacker.com/make-high-end-truffle-pasta-on-a-low-end-budget-1850583142)
 - [Lifehacker] [How to Get Your Kid to Like What You Like](https://lifehacker.com/how-to-get-your-kid-to-like-what-you-like-1850582431)
-- [Dev.to/JS] [Advanced Javascript Collections: Introduction to Sets and Maps](https://dev.to/honeybadger/advanced-javascript-collections-introduction-to-sets-and-maps-1p8p)
 - [Lifehacker] [Six of the Best Trees to Plant for Shade in Your Yard](https://lifehacker.com/six-of-the-best-trees-to-plant-for-shade-in-your-yard-1850584777)
 - [Lifehacker] [11 of the Best Old-Timey Sodas to Drink This Summer](https://lifehacker.com/11-of-the-best-old-timey-sodas-to-drink-this-summer-1850583260)
 - [Lifehacker] [12 Incredibly Niche History Podcasts](https://lifehacker.com/12-incredibly-niche-history-podcasts-1850551986)
