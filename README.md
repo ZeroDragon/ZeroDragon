@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Apollo Link OpenTelemetry Instrumentation](https://dev.to/papernathan/apollo-link-opentelemetry-instrumentation-mbb)
+- [Lifehacker] [The Best Ways to Burglar-Proof Your House Before a Long Trip](https://lifehacker.com/the-best-ways-to-burglar-proof-your-house-before-a-long-1850579009)
+- [Dev.to/JS] [Create and deploy your own token using hardhat in just 2 mins](https://dev.to/ankitsahu/create-and-deploy-your-own-token-using-hardhat-in-just-2-mins-2d5i)
+- [Dev.to/JS] [7 Secret JavaScript Web-APIs That You Don&#39;t Know ✨🔥](https://dev.to/akashpattnaik/7-secret-javascript-web-apis-that-you-dont-know-4p57)
+- [Dev.to/JS] [How to create a eleventy template](https://dev.to/irishgeoff11/how-to-create-a-eleventy-template-3cf3)
+- [Lifehacker] [11 of the Best Ways to Identify Wild Mushrooms](https://lifehacker.com/11-of-the-best-ways-to-identify-wild-mushrooms-1850589488)
+- [Dev.to/JS] [Form to email with fabform.io](https://dev.to/irishgeoff11/form-to-email-with-fabformio-55pe)
+- [Dev.to/JS] [Convert SVG into PNG in the browser using Resvg](https://dev.to/hrishiksh/convert-svg-into-png-in-the-browser-using-resvg-64a)
 - [Lifehacker] [The Difference Between Pickleball and Padel, the Two Fastest-Growing Sports In the World](https://lifehacker.com/the-difference-between-pickleball-and-padel-the-two-fa-1850589164)
 - [Dev.to/JS] [Streamline Code Reviews with Coderbuds: Automated Recommendations and Feedback](https://dev.to/aiforme/streamline-code-reviews-with-coderbuds-automated-recommendations-and-feedback-1co0)
 - [Lifehacker] [What People Are Getting Wrong This Week: Biden Isn&#39;t Taking Your Stove](https://lifehacker.com/biden-isnt-taking-your-stove-1850588538)
@@ -35,12 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HTML Styles](https://dev.to/nitjsr12/html-styles-2el5)
 - [Crazy Programmer] [How is AI Being Used in Cybersecurity?](https://www.thecrazyprogrammer.com/2023/06/how-is-ai-being-used-in-cybersecurity.html)
 - [Dev.to/JS] [Max Sum of Rectangle No Larger Than K](https://dev.to/_alkesh26/max-sum-of-rectangle-no-larger-than-k-g73)
-- [Dev.to/JS] [Async vs Defer in JavaScript](https://dev.to/shenghsu/async-vs-defer-in-javascript-5hik)
-- [Dev.to/JS] [Farewell, Ramda](https://dev.to/lemarko/farewell-ramda-1eo1)
-- [Dev.to/JS] [Accepting Credit Card Payments in Node.js using BudPay&#39;s API](https://dev.to/saint_vandora/accepting-credit-card-payments-in-nodejs-using-budpays-api-4l2i)
-- [Dev.to/JS] [Designing for All: Achieving Web Accessibility in Web Design](https://dev.to/ismaestro/designing-for-all-achieving-web-accessibility-in-web-design-32je)
-- [Dev.to/JS] [What Is The Difference Between Java And Javascript?](https://dev.to/arsalanmee/what-is-the-difference-between-java-and-javascript-1gai)
-- [Dev.to/JS] [Unveiling the Hidden Opportunities with Potential of IoT Applications](https://dev.to/datarecove95829/unveiling-the-hidden-opportunities-with-potential-of-iot-applications-2ljf)
 - [Lifehacker] [All About Malaria, Which We Have in the U.S. Now](https://lifehacker.com/all-about-malaria-which-we-have-in-the-u-s-now-1850588268)
 - [Lifehacker] [For a Better Ribeye, Combine Sous-Vide and Smoke](https://lifehacker.com/for-a-better-ribeye-combine-sous-vide-and-smoke-1850586654)
 - [Lifehacker] [There&#39;s a Better Way to Reheat Your Boiled Egg](https://lifehacker.com/theres-a-better-way-to-reheat-your-boiled-egg-1850586297)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is ‘Roof Ponding’ &lpar;and What Can You Do About It&rpar;?](https://lifehacker.com/what-is-roof-ponding-and-what-can-you-do-about-it-1850581538)
 - [Lifehacker] [How to Finally Set Strong Financial Boundaries](https://lifehacker.com/how-to-finally-set-strong-financial-boundaries-1850582761)
 - [Lifehacker] [RFK Jr.&#39;s Bench Press Isn&#39;t Actually That Impressive](https://lifehacker.com/rfk-jr-s-bench-press-isnt-actually-that-impressive-1850582894)
-- [Lifehacker] [Everything You Need to Start Canning Pickles, Jams, and More](https://lifehacker.com/everything-you-need-to-start-canning-pickles-jams-and-1850566954)
-- [Lifehacker] [You Can Get FlashBooks or SumizeIt for Up to 80% Off Right Now](https://lifehacker.com/you-can-get-flashbooks-or-sumizeit-for-up-to-80-off-ri-1850572166)
-- [Lifehacker] [You Can Get a One-Year Sam’s Club Membership for 50% Off](https://lifehacker.com/you-can-get-a-one-year-sam-s-club-membership-for-50-of-1850572212)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Everything You Need to Start Canning Pickles, Jams, and More](https://lifehacker.com/everything-you-need-to-start-canning-pickles-jams-and-1850566954)<!-- TECH-POSTS:END -->
 
 ---
 
