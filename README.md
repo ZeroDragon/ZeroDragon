@@ -23,22 +23,26 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ever wondered how to find the difference between two arrays without a third party library?](https://dev.to/melvinvmegen/ever-wondered-how-to-find-the-difference-between-two-arrays-without-a-third-party-library-31kb)
+- [Dev.to/JS] [Typescript Flatten Object Type](https://dev.to/tylim88/typescript-type-level-object-flattening-9fn)
+- [Dev.to/JS] [Making Four-In-A-Row - Part 7: Drawing The Board](https://dev.to/colinkiama/making-four-in-a-row-part-7-drawing-the-board-1l75)
+- [Dev.to/JS] [Using Metlo to Secure My Personal Finance App](https://dev.to/sushilkattel/using-metlo-to-secure-my-personal-finance-app-5d2g)
+- [Dev.to/JS] [School Dashboard UI](https://dev.to/sanketbodake/school-dashboard-ui-2891)
+- [Dev.to/JS] [What can you build with Wasp - the fastest way to develop React &amp; Node.js apps 🐝 🚀](https://dev.to/wasp/what-can-you-build-with-wasp-the-fastest-way-to-develop-react-nodejs-apps-275b)
+- [Dev.to/JS] [Yet another micro package for reactive UI](https://dev.to/ndrean/yet-another-micro-package-for-reactive-ui-574k)
+- [Lifehacker] [Is Your Job Toxic &lpar;or Do You Just Hate It&rpar;?](https://lifehacker.com/is-your-job-toxic-or-do-you-just-hate-it-1850591531)
+- [Lifehacker] [When to Worry About Exposed Brick Walls](https://lifehacker.com/when-to-worry-about-exposed-brick-walls-1850591401)
+- [Dev.to/JS] [Using JavaScript classes without the `class` keyword](https://dev.to/this-is-learning/using-javascript-classes-without-the-class-keyword-120n)
+- [Lifehacker] [Get This Windows 11 Pro Bundle for 85% Off Right Now](https://lifehacker.com/get-this-windows-11-pro-bundle-for-85-off-right-now-1850584532)
+- [Lifehacker] [The Best Way to Respond to a Poor Performance Review](https://lifehacker.com/the-best-way-to-respond-to-a-poor-performance-review-1850591233)
 - [Dev.to/JS] [JS: What is &quot;this&quot; ?](https://dev.to/angdecoder/js-what-is-this--4c5h)
 - [Dev.to/JS] [A Journey through JavaScript Date Functions: Everything You Need to Know](https://dev.to/itsshaikhaj/a-journey-through-javascript-date-functions-everything-you-need-to-know-3f5i)
 - [Dev.to/JS] [4 Lessons learned from using NextJS 13 in production](https://dev.to/miki-digital/4-lessons-learned-from-using-nextjs-13-in-production-4ff6)
 - [Lifehacker] [Don’t Ask a Flight Attendant to Lift Your Luggage, and Other Things They Wish You Knew](https://lifehacker.com/don-t-ask-a-flight-attendant-to-lift-your-luggage-and-1850586514)
 - [Dev.to/JS] [Comprehensive Guide to Iterating Over Objects in JavaScript](https://dev.to/itsshaikhaj/comprehensive-guide-to-iterating-over-objects-in-javascript-2afk)
 - [Lifehacker] [20 Shows You&#39;ll Love If You Watch &#39;Black Mirror&#39;](https://lifehacker.com/20-shows-youll-love-if-you-watch-black-mirror-1850575004)
-- [Dev.to/JS] [Watch: 60 Seconds to In-Cluster Mocks](https://dev.to/skyrampmia/watch-60-seconds-to-in-cluster-mocks-3llg)
-- [Dev.to/JS] [JavaScript: atribuição por referência](https://dev.to/cristuker/javascript-atribuicao-por-referencia-528f)
-- [Dev.to/JS] [Cookie and how to create with detail code explaination in Nodejs](https://dev.to/gaurbprajapati/cookie-and-how-to-create-with-detail-code-explaination-in-nodejs-3be7)
-- [Dev.to/JS] [Send automatic email reply from web form](https://dev.to/irishgeoff11/send-automatic-email-reply-from-web-form-1m4m)
 - [Lifehacker] [Aspartame&#39;s &#39;Possible Carcinogen&#39; Designation Means Basically Nothing](https://lifehacker.com/aspartames-possible-carcinogen-designation-means-basica-1850590970)
-- [Dev.to/JS] [Apollo Link OpenTelemetry Instrumentation](https://dev.to/telemetryhub/apollo-link-opentelemetry-instrumentation-mbb)
 - [Lifehacker] [The Best Ways to Burglar-Proof Your House Before a Long Trip](https://lifehacker.com/the-best-ways-to-burglar-proof-your-house-before-a-long-1850579009)
-- [Dev.to/JS] [Create and deploy your own token using hardhat in just 2 mins](https://dev.to/ankitsahu/create-and-deploy-your-own-token-using-hardhat-in-just-2-mins-2d5i)
-- [Dev.to/JS] [7 Secret JavaScript Web-APIs That You Don&#39;t Know ✨🔥](https://dev.to/akashpattnaik/7-secret-javascript-web-apis-that-you-dont-know-4p57)
-- [Dev.to/JS] [How to create a eleventy template](https://dev.to/irishgeoff11/how-to-create-a-eleventy-template-3cf3)
 - [Lifehacker] [11 of the Best Ways to Identify Wild Mushrooms](https://lifehacker.com/11-of-the-best-ways-to-identify-wild-mushrooms-1850589488)
 - [Lifehacker] [The Difference Between Pickleball and Padel, the Two Fastest-Growing Sports In the World](https://lifehacker.com/the-difference-between-pickleball-and-padel-the-two-fa-1850589164)
 - [Lifehacker] [What People Are Getting Wrong This Week: Biden Isn&#39;t Taking Your Stove](https://lifehacker.com/biden-isnt-taking-your-stove-1850588538)
@@ -58,11 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Your Kid to Like What You Like](https://lifehacker.com/how-to-get-your-kid-to-like-what-you-like-1850582431)
 - [Lifehacker] [Six of the Best Trees to Plant for Shade in Your Yard](https://lifehacker.com/six-of-the-best-trees-to-plant-for-shade-in-your-yard-1850584777)
 - [Lifehacker] [11 of the Best Old-Timey Sodas to Drink This Summer](https://lifehacker.com/11-of-the-best-old-timey-sodas-to-drink-this-summer-1850583260)
-- [Lifehacker] [12 Incredibly Niche History Podcasts](https://lifehacker.com/12-incredibly-niche-history-podcasts-1850551986)
-- [Lifehacker] [Turn Empty Pea Pods Into a Delicate, Flavored Vinegar](https://lifehacker.com/turn-empty-pea-pods-into-a-delicate-flavored-vinegar-1850577137)
-- [Lifehacker] [Three Bank Services You Can Get From Your Post Office](https://lifehacker.com/three-bank-services-you-can-get-from-your-post-office-1850581513)
-- [Lifehacker] [These Chilled Pea Soups Are the Perfect Easy Summer Lunch](https://lifehacker.com/these-chilled-pea-soups-are-the-perfect-easy-summer-lun-1850577386)
-- [Lifehacker] [What Is ‘Roof Ponding’ &lpar;and What Can You Do About It&rpar;?](https://lifehacker.com/what-is-roof-ponding-and-what-can-you-do-about-it-1850581538)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Incredibly Niche History Podcasts](https://lifehacker.com/12-incredibly-niche-history-podcasts-1850551986)<!-- TECH-POSTS:END -->
 
 ---
 
