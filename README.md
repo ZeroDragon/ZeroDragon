@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Apollo Link OpenTelemetry Instrumentation](https://dev.to/papernathan/apollo-link-opentelemetry-instrumentation-mbb)
+- [Dev.to/JS] [Watch: 60 Seconds to In-Cluster Mocks](https://dev.to/skyrampmia/watch-60-seconds-to-in-cluster-mocks-3llg)
+- [Dev.to/JS] [JavaScript: atribuição por referência](https://dev.to/cristuker/javascript-atribuicao-por-referencia-528f)
+- [Dev.to/JS] [Cookie and how to create with detail code explaination in Nodejs](https://dev.to/gaurbprajapati/cookie-and-how-to-create-with-detail-code-explaination-in-nodejs-3be7)
+- [Dev.to/JS] [Send automatic email reply from web form](https://dev.to/irishgeoff11/send-automatic-email-reply-from-web-form-1m4m)
+- [Lifehacker] [Aspartame&#39;s &#39;Possible Carcinogen&#39; Designation Means Basically Nothing](https://lifehacker.com/aspartames-possible-carcinogen-designation-means-basica-1850590970)
+- [Dev.to/JS] [Apollo Link OpenTelemetry Instrumentation](https://dev.to/telemetryhub/apollo-link-opentelemetry-instrumentation-mbb)
 - [Lifehacker] [The Best Ways to Burglar-Proof Your House Before a Long Trip](https://lifehacker.com/the-best-ways-to-burglar-proof-your-house-before-a-long-1850579009)
 - [Dev.to/JS] [Create and deploy your own token using hardhat in just 2 mins](https://dev.to/ankitsahu/create-and-deploy-your-own-token-using-hardhat-in-just-2-mins-2d5i)
 - [Dev.to/JS] [7 Secret JavaScript Web-APIs That You Don&#39;t Know ✨🔥](https://dev.to/akashpattnaik/7-secret-javascript-web-apis-that-you-dont-know-4p57)
@@ -35,14 +40,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Streamline Code Reviews with Coderbuds: Automated Recommendations and Feedback](https://dev.to/aiforme/streamline-code-reviews-with-coderbuds-automated-recommendations-and-feedback-1co0)
 - [Lifehacker] [What People Are Getting Wrong This Week: Biden Isn&#39;t Taking Your Stove](https://lifehacker.com/biden-isnt-taking-your-stove-1850588538)
 - [Dev.to/JS] [Top 10 best GitHub repos for beginners Programmers](https://dev.to/gaurbprajapati/top-10-best-github-repos-for-beginners-programmers-3pfi)
-- [Dev.to/JS] [Prediction: You&#39;ll hate Sveltejs in ~5 years](https://dev.to/xphlawlessx/prediction-youll-hate-sveltejs-in-5-years-2ji0)
 - [Lifehacker] [This EvaChill Personal Air Conditioner Is on Sale for 30% Off](https://lifehacker.com/this-evachill-personal-air-conditioner-is-on-sale-for-3-1850584517)
-- [Dev.to/JS] [FaceBook Like Clone With Source Code](https://dev.to/brojenuel/facebook-like-clone-with-source-code-1fbe)
 - [Lifehacker] [Strawberry Shortcake Casserole Is Your Casual Summer Party Dessert](https://lifehacker.com/strawberry-shortcake-casserole-is-your-casual-summer-pa-1850587938)
 - [Lifehacker] [Why You Should Install an In-Wall Air Conditioner &lpar;Instead of a Window Unit&rpar;](https://lifehacker.com/why-you-should-install-an-in-wall-air-conditioner-inst-1850586290)
-- [Dev.to/JS] [HTML Styles](https://dev.to/nitjsr12/html-styles-2el5)
 - [Crazy Programmer] [How is AI Being Used in Cybersecurity?](https://www.thecrazyprogrammer.com/2023/06/how-is-ai-being-used-in-cybersecurity.html)
-- [Dev.to/JS] [Max Sum of Rectangle No Larger Than K](https://dev.to/_alkesh26/max-sum-of-rectangle-no-larger-than-k-g73)
 - [Lifehacker] [All About Malaria, Which We Have in the U.S. Now](https://lifehacker.com/all-about-malaria-which-we-have-in-the-u-s-now-1850588268)
 - [Lifehacker] [For a Better Ribeye, Combine Sous-Vide and Smoke](https://lifehacker.com/for-a-better-ribeye-combine-sous-vide-and-smoke-1850586654)
 - [Lifehacker] [There&#39;s a Better Way to Reheat Your Boiled Egg](https://lifehacker.com/theres-a-better-way-to-reheat-your-boiled-egg-1850586297)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Chilled Pea Soups Are the Perfect Easy Summer Lunch](https://lifehacker.com/these-chilled-pea-soups-are-the-perfect-easy-summer-lun-1850577386)
 - [Lifehacker] [What Is ‘Roof Ponding’ &lpar;and What Can You Do About It&rpar;?](https://lifehacker.com/what-is-roof-ponding-and-what-can-you-do-about-it-1850581538)
 - [Lifehacker] [How to Finally Set Strong Financial Boundaries](https://lifehacker.com/how-to-finally-set-strong-financial-boundaries-1850582761)
-- [Lifehacker] [RFK Jr.&#39;s Bench Press Isn&#39;t Actually That Impressive](https://lifehacker.com/rfk-jr-s-bench-press-isnt-actually-that-impressive-1850582894)
-- [Lifehacker] [Everything You Need to Start Canning Pickles, Jams, and More](https://lifehacker.com/everything-you-need-to-start-canning-pickles-jams-and-1850566954)<!-- TECH-POSTS:END -->
+- [Lifehacker] [RFK Jr.&#39;s Bench Press Isn&#39;t Actually That Impressive](https://lifehacker.com/rfk-jr-s-bench-press-isnt-actually-that-impressive-1850582894)<!-- TECH-POSTS:END -->
 
 ---
 
