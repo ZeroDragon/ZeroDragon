@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Install an In-Wall Air Conditioner &lpar;Instead of a Window Unit&rpar;](https://lifehacker.com/why-you-should-install-an-in-wall-air-conditioner-inst-1850586290)
+- [Dev.to/JS] [HTML Styles](https://dev.to/nitjsr12/html-styles-2el5)
+- [Crazy Programmer] [How is AI Being Used in Cybersecurity?](https://www.thecrazyprogrammer.com/2023/06/how-is-ai-being-used-in-cybersecurity.html)
+- [Dev.to/JS] [Max Sum of Rectangle No Larger Than K](https://dev.to/_alkesh26/max-sum-of-rectangle-no-larger-than-k-g73)
 - [Dev.to/JS] [Async vs Defer in JavaScript](https://dev.to/shenghsu/async-vs-defer-in-javascript-5hik)
 - [Dev.to/JS] [Farewell, Ramda](https://dev.to/lemarko/farewell-ramda-1eo1)
 - [Dev.to/JS] [Accepting Credit Card Payments in Node.js using BudPay&#39;s API](https://dev.to/saint_vandora/accepting-credit-card-payments-in-nodejs-using-budpays-api-4l2i)
@@ -33,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beyond Barriers: Unlocking the Benefits of Web Accessibility](https://dev.to/ismaestro/beyond-barriers-unlocking-the-benefits-of-web-accessibility-2l9n)
 - [Dev.to/JS] [Unlocking the Power of Callback Functions in JavaScript](https://dev.to/cliff123tech/unlocking-the-power-of-callback-functions-in-javascript-1ho5)
 - [Dev.to/JS] [Why I chose to use the Dev.to API to display content on my website](https://dev.to/snehalkadwe/why-i-chose-to-use-the-devto-api-to-display-content-on-my-website-4560)
-- [Dev.to/JS] [How to check how much space node_modules folders take up on your hard-disk](https://dev.to/robole/how-to-check-how-much-space-nodemodules-folders-take-up-on-your-hard-disk-3j8o)
-- [Dev.to/JS] [Mastering objects in Javascript](https://dev.to/kalashin1/mastering-objects-in-javascript-4p07)
 - [Lifehacker] [All About Malaria, Which We Have in the U.S. Now](https://lifehacker.com/all-about-malaria-which-we-have-in-the-u-s-now-1850588268)
 - [Lifehacker] [For a Better Ribeye, Combine Sous-Vide and Smoke](https://lifehacker.com/for-a-better-ribeye-combine-sous-vide-and-smoke-1850586654)
 - [Lifehacker] [There&#39;s a Better Way to Reheat Your Boiled Egg](https://lifehacker.com/theres-a-better-way-to-reheat-your-boiled-egg-1850586297)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Japanese Fruit Sando Is a Summer Essential](https://lifehacker.com/the-japanese-fruit-sando-is-a-summer-essential-1850581103)
 - [Lifehacker] [Get Unlimited Access to 80+ Upskillset Courses for 80% Off](https://lifehacker.com/get-unlimited-access-to-80-upskillset-courses-for-80-1850572264)
 - [Lifehacker] [Those SmileDirectClub NDAs Are Void &lpar;So You Can Talk About Your Experience Now&rpar;](https://lifehacker.com/those-smiledirectclub-ndas-are-void-so-you-can-talk-ab-1850574775)
-- [Lifehacker] [How to Get Free Grape Leaves &lpar;and What to Make with Them&rpar;](https://lifehacker.com/how-to-get-free-grape-leaves-and-what-to-make-with-the-1850566546)
-- [Lifehacker] [You Should Flavor Your Coffee With Extracts Instead of Syrups](https://lifehacker.com/you-should-flavor-your-coffee-with-extracts-instead-of-1850578612)
-- [Lifehacker] [How to Scoop a Quenelle Like a Freakin&#39; Pro](https://lifehacker.com/how-to-scoop-a-quenelle-like-a-freakin-pro-1850577790)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get Free Grape Leaves &lpar;and What to Make with Them&rpar;](https://lifehacker.com/how-to-get-free-grape-leaves-and-what-to-make-with-the-1850566546)<!-- TECH-POSTS:END -->
 
 ---
 
