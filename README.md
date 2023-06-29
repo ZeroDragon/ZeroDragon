@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React&#39;s Secret Weapon: Synthetic Events](https://dev.to/ritavdas/reacts-secret-weapon-synthetic-events-27db)
+- [Dev.to/JS] [Unlocking the Power of Callback Functions in JavaScript](https://dev.to/cliff123tech/unlocking-the-power-of-callback-functions-in-javascript-1ho5)
+- [Dev.to/JS] [Why I chose to use the Dev.to API to display content on my website](https://dev.to/snehalkadwe/why-i-chose-to-use-the-devto-api-to-display-content-on-my-website-4560)
+- [Dev.to/JS] [How to check how much space node_modules folders take up on your hard-disk](https://dev.to/robole/how-to-check-how-much-space-nodemodules-folders-take-up-on-your-hard-disk-3j8o)
 - [Dev.to/JS] [Mastering objects in Javascript](https://dev.to/kalashin1/mastering-objects-in-javascript-4p07)
 - [Dev.to/JS] [React와 Solid의 차이점 톺아보기](https://dev.to/composite/reactwa-solidyi-caijeom-topabogi-4e23)
 - [Dev.to/JS] [What approaches do you recommend for mastering new tech? Are there any hacks to accelerate language skill](https://dev.to/hedynelson13/what-approaches-do-you-recommend-for-mastering-new-tech-are-there-any-hacks-to-accelerate-language-fluency-5338)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🧹 The Magic of JavaScript Garbage Collector: Keeping Your Code Clean! 🪄](https://dev.to/chanakyasarma/the-magic-of-javascript-garbage-collector-keeping-your-code-clean-eb1)
 - [Dev.to/JS] [Diaetolin - Fat Loss Solution, Price, Uses, Reviews And Benefits?](https://dev.to/diaetolinf92925/diaetolin-fat-loss-solution-price-uses-reviews-and-benefits-3761)
 - [Dev.to/JS] [Testing markdown](https://dev.to/zxin/testing-markdown-1gkf)
-- [Dev.to/JS] [&quot;From XMLHttpRequest to Fetch API: How Fetch became the Way Forward for JS Development](https://dev.to/lukeskw/from-xmlhttprequest-to-fetch-api-how-fetch-became-the-way-forward-for-js-development-2a9b)
-- [Dev.to/JS] [Boost Debugging Efficiency: The AI Code Error Tool](https://dev.to/aiforme/boost-debugging-efficiency-the-ai-code-error-tool-5a7n)
-- [Dev.to/JS] [Using insecure npm package manager defaults to steal your macOS keyboard shortcuts](https://dev.to/snyk/using-insecure-npm-package-manager-defaults-to-steal-your-macos-keyboard-shortcuts-52kh)
-- [Dev.to/JS] [Bitcoin Profit Way - Benefits, Reviews, Pros, Cons And Results?](https://dev.to/bitcoinpro47609/bitcoin-profit-way-benefits-reviews-pros-cons-and-results-465g)
 - [Lifehacker] [All About Malaria, Which We Have in the U.S. Now](https://lifehacker.com/all-about-malaria-which-we-have-in-the-u-s-now-1850588268)
 - [Lifehacker] [For a Better Ribeye, Combine Sous-Vide and Smoke](https://lifehacker.com/for-a-better-ribeye-combine-sous-vide-and-smoke-1850586654)
 - [Lifehacker] [There&#39;s a Better Way to Reheat Your Boiled Egg](https://lifehacker.com/theres-a-better-way-to-reheat-your-boiled-egg-1850586297)
