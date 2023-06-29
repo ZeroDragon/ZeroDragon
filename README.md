@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS: What is &quot;this&quot; ?](https://dev.to/angdecoder/js-what-is-this--4c5h)
+- [Dev.to/JS] [A Journey through JavaScript Date Functions: Everything You Need to Know](https://dev.to/itsshaikhaj/a-journey-through-javascript-date-functions-everything-you-need-to-know-3f5i)
+- [Dev.to/JS] [4 Lessons learned from using NextJS 13 in production](https://dev.to/miki-digital/4-lessons-learned-from-using-nextjs-13-in-production-4ff6)
+- [Lifehacker] [Don’t Ask a Flight Attendant to Lift Your Luggage, and Other Things They Wish You Knew](https://lifehacker.com/don-t-ask-a-flight-attendant-to-lift-your-luggage-and-1850586514)
+- [Dev.to/JS] [Comprehensive Guide to Iterating Over Objects in JavaScript](https://dev.to/itsshaikhaj/comprehensive-guide-to-iterating-over-objects-in-javascript-2afk)
+- [Lifehacker] [20 Shows You&#39;ll Love If You Watch &#39;Black Mirror&#39;](https://lifehacker.com/20-shows-youll-love-if-you-watch-black-mirror-1850575004)
 - [Dev.to/JS] [Watch: 60 Seconds to In-Cluster Mocks](https://dev.to/skyrampmia/watch-60-seconds-to-in-cluster-mocks-3llg)
 - [Dev.to/JS] [JavaScript: atribuição por referência](https://dev.to/cristuker/javascript-atribuicao-por-referencia-528f)
 - [Dev.to/JS] [Cookie and how to create with detail code explaination in Nodejs](https://dev.to/gaurbprajapati/cookie-and-how-to-create-with-detail-code-explaination-in-nodejs-3be7)
@@ -34,12 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [7 Secret JavaScript Web-APIs That You Don&#39;t Know ✨🔥](https://dev.to/akashpattnaik/7-secret-javascript-web-apis-that-you-dont-know-4p57)
 - [Dev.to/JS] [How to create a eleventy template](https://dev.to/irishgeoff11/how-to-create-a-eleventy-template-3cf3)
 - [Lifehacker] [11 of the Best Ways to Identify Wild Mushrooms](https://lifehacker.com/11-of-the-best-ways-to-identify-wild-mushrooms-1850589488)
-- [Dev.to/JS] [Form to email with fabform.io](https://dev.to/irishgeoff11/form-to-email-with-fabformio-55pe)
-- [Dev.to/JS] [Convert SVG into PNG in the browser using Resvg](https://dev.to/hrishiksh/convert-svg-into-png-in-the-browser-using-resvg-64a)
 - [Lifehacker] [The Difference Between Pickleball and Padel, the Two Fastest-Growing Sports In the World](https://lifehacker.com/the-difference-between-pickleball-and-padel-the-two-fa-1850589164)
-- [Dev.to/JS] [Streamline Code Reviews with Coderbuds: Automated Recommendations and Feedback](https://dev.to/aiforme/streamline-code-reviews-with-coderbuds-automated-recommendations-and-feedback-1co0)
 - [Lifehacker] [What People Are Getting Wrong This Week: Biden Isn&#39;t Taking Your Stove](https://lifehacker.com/biden-isnt-taking-your-stove-1850588538)
-- [Dev.to/JS] [Top 10 best GitHub repos for beginners Programmers](https://dev.to/gaurbprajapati/top-10-best-github-repos-for-beginners-programmers-3pfi)
 - [Lifehacker] [This EvaChill Personal Air Conditioner Is on Sale for 30% Off](https://lifehacker.com/this-evachill-personal-air-conditioner-is-on-sale-for-3-1850584517)
 - [Lifehacker] [Strawberry Shortcake Casserole Is Your Casual Summer Party Dessert](https://lifehacker.com/strawberry-shortcake-casserole-is-your-casual-summer-pa-1850587938)
 - [Lifehacker] [Why You Should Install an In-Wall Air Conditioner &lpar;Instead of a Window Unit&rpar;](https://lifehacker.com/why-you-should-install-an-in-wall-air-conditioner-inst-1850586290)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Turn Empty Pea Pods Into a Delicate, Flavored Vinegar](https://lifehacker.com/turn-empty-pea-pods-into-a-delicate-flavored-vinegar-1850577137)
 - [Lifehacker] [Three Bank Services You Can Get From Your Post Office](https://lifehacker.com/three-bank-services-you-can-get-from-your-post-office-1850581513)
 - [Lifehacker] [These Chilled Pea Soups Are the Perfect Easy Summer Lunch](https://lifehacker.com/these-chilled-pea-soups-are-the-perfect-easy-summer-lun-1850577386)
-- [Lifehacker] [What Is ‘Roof Ponding’ &lpar;and What Can You Do About It&rpar;?](https://lifehacker.com/what-is-roof-ponding-and-what-can-you-do-about-it-1850581538)
-- [Lifehacker] [How to Finally Set Strong Financial Boundaries](https://lifehacker.com/how-to-finally-set-strong-financial-boundaries-1850582761)
-- [Lifehacker] [RFK Jr.&#39;s Bench Press Isn&#39;t Actually That Impressive](https://lifehacker.com/rfk-jr-s-bench-press-isnt-actually-that-impressive-1850582894)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Is ‘Roof Ponding’ &lpar;and What Can You Do About It&rpar;?](https://lifehacker.com/what-is-roof-ponding-and-what-can-you-do-about-it-1850581538)<!-- TECH-POSTS:END -->
 
 ---
 
