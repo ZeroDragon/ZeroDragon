@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make Perfect Popsicles With Guar Gum](https://lifehacker.com/make-perfect-popsicles-with-guar-gum-1850591737)
+- [Dev.to/JS] [Destructuring Arrays in JS](https://dev.to/vincod/destructuring-arrays-in-js-3fdn)
+- [Lifehacker] [You Can Get a Babbel Lifetime Subscription for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-babbel-lifetime-subscription-for-over-50-1850589333)
+- [Dev.to/JS] [Code Usability and my &quot;Ease of Use&quot; Levels](https://dev.to/jdboris/code-usability-and-my-ease-of-use-levels-510a)
+- [Lifehacker] [Death to Watery Coleslaw](https://lifehacker.com/death-to-watery-coleslaw-1850592131)
 - [Dev.to/JS] [Ever wondered how to find the difference between two arrays without a third party library?](https://dev.to/melvinvmegen/ever-wondered-how-to-find-the-difference-between-two-arrays-without-a-third-party-library-31kb)
 - [Dev.to/JS] [Typescript Flatten Object Type](https://dev.to/tylim88/typescript-type-level-object-flattening-9fn)
 - [Dev.to/JS] [Making Four-In-A-Row - Part 7: Drawing The Board](https://dev.to/colinkiama/making-four-in-a-row-part-7-drawing-the-board-1l75)
@@ -37,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Respond to a Poor Performance Review](https://lifehacker.com/the-best-way-to-respond-to-a-poor-performance-review-1850591233)
 - [Dev.to/JS] [JS: What is &quot;this&quot; ?](https://dev.to/angdecoder/js-what-is-this--4c5h)
 - [Dev.to/JS] [A Journey through JavaScript Date Functions: Everything You Need to Know](https://dev.to/itsshaikhaj/a-journey-through-javascript-date-functions-everything-you-need-to-know-3f5i)
-- [Dev.to/JS] [4 Lessons learned from using NextJS 13 in production](https://dev.to/miki-digital/4-lessons-learned-from-using-nextjs-13-in-production-4ff6)
 - [Lifehacker] [Don’t Ask a Flight Attendant to Lift Your Luggage, and Other Things They Wish You Knew](https://lifehacker.com/don-t-ask-a-flight-attendant-to-lift-your-luggage-and-1850586514)
-- [Dev.to/JS] [Comprehensive Guide to Iterating Over Objects in JavaScript](https://dev.to/itsshaikhaj/comprehensive-guide-to-iterating-over-objects-in-javascript-2afk)
 - [Lifehacker] [20 Shows You&#39;ll Love If You Watch &#39;Black Mirror&#39;](https://lifehacker.com/20-shows-youll-love-if-you-watch-black-mirror-1850575004)
 - [Lifehacker] [Aspartame&#39;s &#39;Possible Carcinogen&#39; Designation Means Basically Nothing](https://lifehacker.com/aspartames-possible-carcinogen-designation-means-basica-1850590970)
 - [Lifehacker] [The Best Ways to Burglar-Proof Your House Before a Long Trip](https://lifehacker.com/the-best-ways-to-burglar-proof-your-house-before-a-long-1850579009)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get an AdGuard Lifetime Subscription for Up to 80% Off Right Now](https://lifehacker.com/you-can-get-an-adguard-lifetime-subscription-for-up-to-1850579586)
 - [Lifehacker] [You Can Bury Your Dead at Sea &lpar;Because It’s Free, Eco-Friendly, and Totally Legal&rpar;](https://lifehacker.com/you-can-bury-your-dead-at-sea-because-it-s-free-eco-f-1850584474)
 - [Lifehacker] [Make High-End Truffle Pasta on a Low-End Budget](https://lifehacker.com/make-high-end-truffle-pasta-on-a-low-end-budget-1850583142)
-- [Lifehacker] [How to Get Your Kid to Like What You Like](https://lifehacker.com/how-to-get-your-kid-to-like-what-you-like-1850582431)
-- [Lifehacker] [Six of the Best Trees to Plant for Shade in Your Yard](https://lifehacker.com/six-of-the-best-trees-to-plant-for-shade-in-your-yard-1850584777)
-- [Lifehacker] [11 of the Best Old-Timey Sodas to Drink This Summer](https://lifehacker.com/11-of-the-best-old-timey-sodas-to-drink-this-summer-1850583260)
-- [Lifehacker] [12 Incredibly Niche History Podcasts](https://lifehacker.com/12-incredibly-niche-history-podcasts-1850551986)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get Your Kid to Like What You Like](https://lifehacker.com/how-to-get-your-kid-to-like-what-you-like-1850582431)<!-- TECH-POSTS:END -->
 
 ---
 
