@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering objects in Javascript](https://dev.to/kalashin1/mastering-objects-in-javascript-4p07)
+- [Dev.to/JS] [React와 Solid의 차이점 톺아보기](https://dev.to/composite/reactwa-solidyi-caijeom-topabogi-4e23)
 - [Dev.to/JS] [What approaches do you recommend for mastering new tech? Are there any hacks to accelerate language skill](https://dev.to/hedynelson13/what-approaches-do-you-recommend-for-mastering-new-tech-are-there-any-hacks-to-accelerate-language-fluency-5338)
 - [Dev.to/JS] [Node.js Development: All You Need to Know](https://dev.to/amplication/nodejs-development-all-you-need-to-know-3e78)
 - [Dev.to/JS] [Desirable Characteristics for a Smart Home of Tomorrow](https://dev.to/hedynelson13/desirable-characteristics-for-a-smart-home-of-tomorrow-2g1c)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Boost Debugging Efficiency: The AI Code Error Tool](https://dev.to/aiforme/boost-debugging-efficiency-the-ai-code-error-tool-5a7n)
 - [Dev.to/JS] [Using insecure npm package manager defaults to steal your macOS keyboard shortcuts](https://dev.to/snyk/using-insecure-npm-package-manager-defaults-to-steal-your-macos-keyboard-shortcuts-52kh)
 - [Dev.to/JS] [Bitcoin Profit Way - Benefits, Reviews, Pros, Cons And Results?](https://dev.to/bitcoinpro47609/bitcoin-profit-way-benefits-reviews-pros-cons-and-results-465g)
-- [Dev.to/JS] [Radix Sort Algorithm: A Powerful Sorting Technique Using JavaScript](https://dev.to/therahul_gupta/radix-sort-algorithm-a-powerful-sorting-technique-using-javascript-4p15)
 - [Lifehacker] [All About Malaria, Which We Have in the U.S. Now](https://lifehacker.com/all-about-malaria-which-we-have-in-the-u-s-now-1850588268)
-- [Dev.to/JS] [3 Ways to Clone Objects in JavaScript](https://dev.to/itsvinayak/3-ways-to-clone-objects-in-javascript-12jh)
 - [Lifehacker] [For a Better Ribeye, Combine Sous-Vide and Smoke](https://lifehacker.com/for-a-better-ribeye-combine-sous-vide-and-smoke-1850586654)
 - [Lifehacker] [There&#39;s a Better Way to Reheat Your Boiled Egg](https://lifehacker.com/theres-a-better-way-to-reheat-your-boiled-egg-1850586297)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in July 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-july-2023-1850587543)
