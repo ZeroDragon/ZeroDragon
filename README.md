@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [What is Node.js?: A Complete Guide](https://dev.to/amplication/what-is-nodejs-a-complete-guide-527a)
+- [Dev.to/JS] [What approaches do you recommend for mastering new tech? Are there any hacks to accelerate language skill](https://dev.to/hedynelson13/what-approaches-do-you-recommend-for-mastering-new-tech-are-there-any-hacks-to-accelerate-language-fluency-5338)
+- [Dev.to/JS] [Node.js Development: All You Need to Know](https://dev.to/amplication/nodejs-development-all-you-need-to-know-3e78)
+- [Dev.to/JS] [Desirable Characteristics for a Smart Home of Tomorrow](https://dev.to/hedynelson13/desirable-characteristics-for-a-smart-home-of-tomorrow-2g1c)
 - [Dev.to/JS] [🧹 The Magic of JavaScript Garbage Collector: Keeping Your Code Clean! 🪄](https://dev.to/chanakyasarma/the-magic-of-javascript-garbage-collector-keeping-your-code-clean-eb1)
 - [Dev.to/JS] [Diaetolin - Fat Loss Solution, Price, Uses, Reviews And Benefits?](https://dev.to/diaetolinf92925/diaetolin-fat-loss-solution-price-uses-reviews-and-benefits-3761)
 - [Dev.to/JS] [Testing markdown](https://dev.to/zxin/testing-markdown-1gkf)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All About Malaria, Which We Have in the U.S. Now](https://lifehacker.com/all-about-malaria-which-we-have-in-the-u-s-now-1850588268)
 - [Dev.to/JS] [3 Ways to Clone Objects in JavaScript](https://dev.to/itsvinayak/3-ways-to-clone-objects-in-javascript-12jh)
 - [Lifehacker] [For a Better Ribeye, Combine Sous-Vide and Smoke](https://lifehacker.com/for-a-better-ribeye-combine-sous-vide-and-smoke-1850586654)
-- [Dev.to/JS] [Typescript Nominal Type: The Right Way](https://dev.to/tylim88/typescript-nominal-type-the-right-way-k9j)
-- [Dev.to/JS] [Serverless function cold start is too slow, let&#39;s dockerize our app](https://dev.to/romaintrotard/serverless-function-cold-start-is-too-slow-lets-dockerize-our-app-3maf)
 - [Lifehacker] [There&#39;s a Better Way to Reheat Your Boiled Egg](https://lifehacker.com/theres-a-better-way-to-reheat-your-boiled-egg-1850586297)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in July 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-july-2023-1850587543)
 - [Lifehacker] [This Refurbished MacBook Air Is 30% Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-30-off-right-now-1850579601)
