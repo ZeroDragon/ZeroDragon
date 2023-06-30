@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The importance of verifying webhook signatures](https://dev.to/snyk/the-importance-of-verifying-webhook-signatures-3kan)
+- [Dev.to/JS] [Create a free website on neocities](https://dev.to/irishgeoff11/create-a-free-website-on-neocities-doa)
 - [Dev.to/JS] [Boas Práticas - DRY, KISS, YAGNI](https://dev.to/wilsonlucena/boas-praticas-dry-kiss-yagni-44fk)
 - [Dev.to/JS] [Electron.js Tutorial](https://dev.to/kiraaziz/electronjs-tutorial-1cb3)
 - [Dev.to/JS] [Getting Started with REST API: Beginner&#39;s Tutorial](https://dev.to/devlawrence/getting-started-with-rest-api-beginners-tutorial-4nki)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ever wondered how to find the difference between two arrays without a third party library?](https://dev.to/melvinvmegen/ever-wondered-how-to-find-the-difference-between-two-arrays-without-a-third-party-library-31kb)
 - [Dev.to/JS] [Typescript Flatten Object Type](https://dev.to/tylim88/typescript-type-level-object-flattening-9fn)
 - [Dev.to/JS] [Making Four-In-A-Row - Part 7: Drawing The Board](https://dev.to/colinkiama/making-four-in-a-row-part-7-drawing-the-board-1l75)
-- [Dev.to/JS] [Using Metlo to Secure My Personal Finance App](https://dev.to/sushilkattel/using-metlo-to-secure-my-personal-finance-app-5d2g)
-- [Dev.to/JS] [School Dashboard UI](https://dev.to/sanketbodake/school-dashboard-ui-2891)
 - [Lifehacker] [Is Your Job Toxic &lpar;or Do You Just Hate It&rpar;?](https://lifehacker.com/is-your-job-toxic-or-do-you-just-hate-it-1850591531)
 - [Lifehacker] [When to Worry About Exposed Brick Walls](https://lifehacker.com/when-to-worry-about-exposed-brick-walls-1850591401)
 - [Lifehacker] [Get This Windows 11 Pro Bundle for 85% Off Right Now](https://lifehacker.com/get-this-windows-11-pro-bundle-for-85-off-right-now-1850584532)
