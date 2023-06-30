@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [I Can&#39;t Stop Air Frying Frozen Corn](https://lifehacker.com/i-cant-stop-air-frying-frozen-corn-1850593035)
+- [Lifehacker] [You Can Get a Lifetime Subscription to Curiosity Stream for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-curiosity-stream-1850589361)
+- [Dev.to/JS] [20+ Thought Leaders from India’s Top Companies are speaking at TribeQonf](https://dev.to/kailashpathak7/20-thought-leaders-from-indias-top-companies-are-speaking-at-tribeqonf-9ob)
 - [Lifehacker] [These Are the Best Early Prime Day Deals on Air Fryers](https://lifehacker.com/these-are-the-best-early-prime-day-deals-on-air-fryers-1850583409)
 - [Dev.to/JS] [The Complete Guide to Becoming a Web Developer: Part 3](https://dev.to/aradwan20/the-complete-guide-to-becoming-a-web-developer-part-3-401k)
 - [Dev.to/JS] [4 Main Pillars Of CRM Systems [Comprehensive Review]](https://dev.to/flatlogic/4-main-pillars-of-crm-systems-comprehensive-review-34f3)
@@ -35,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Virtual Reality &lpar;VR&rpar; Application for Smart Office Visualization](https://dev.to/hightopo/virtual-reality-vr-application-for-smart-office-visualization-3ohk)
 - [Dev.to/JS] [Svelte.js Tutorial](https://dev.to/kiraaziz/sveltejs-tutorial-5c7n)
 - [Dev.to/JS] [Optimizing SEO in Next.js: Advanced Techniques for Better Search Engine Visibility](https://dev.to/koolkishan/optimizing-seo-in-nextjs-advanced-techniques-for-better-search-engine-visibility-54kf)
-- [Dev.to/JS] [Scope and Scope chain in javascript](https://dev.to/gaurbprajapati/scope-and-scope-chain-in-javascript-4e2h)
 - [Lifehacker] [10 Ways to Not Blow Off Your Fingers This Fourth of July](https://lifehacker.com/10-ways-to-not-blow-off-your-fingers-this-fourth-of-jul-1850592369)
 - [Lifehacker] [Make Perfect Popsicles With Guar Gum](https://lifehacker.com/make-perfect-popsicles-with-guar-gum-1850591737)
 - [Lifehacker] [You Can Get a Babbel Lifetime Subscription for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-babbel-lifetime-subscription-for-over-50-1850589333)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There&#39;s a Better Way to Reheat Your Boiled Egg](https://lifehacker.com/theres-a-better-way-to-reheat-your-boiled-egg-1850586297)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in July 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-july-2023-1850587543)
 - [Lifehacker] [This Refurbished MacBook Air Is 30% Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-30-off-right-now-1850579601)
-- [Lifehacker] [Where to Find Good, Ethical Porn](https://lifehacker.com/where-to-find-good-ethical-porn-1850584141)
-- [Lifehacker] [You Can Get an AdGuard Lifetime Subscription for Up to 80% Off Right Now](https://lifehacker.com/you-can-get-an-adguard-lifetime-subscription-for-up-to-1850579586)
-- [Lifehacker] [You Can Bury Your Dead at Sea &lpar;Because It’s Free, Eco-Friendly, and Totally Legal&rpar;](https://lifehacker.com/you-can-bury-your-dead-at-sea-because-it-s-free-eco-f-1850584474)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Find Good, Ethical Porn](https://lifehacker.com/where-to-find-good-ethical-porn-1850584141)<!-- TECH-POSTS:END -->
 
 ---
 
