@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Electron.js Tutorial](https://dev.to/kiraaziz/electronjs-tutorial-1cb3)
+- [Dev.to/JS] [Getting Started with REST API: Beginner&#39;s Tutorial](https://dev.to/devlawrence/getting-started-with-rest-api-beginners-tutorial-4nki)
 - [Dev.to/JS] [The Recommended Level Of React Proficiency For The First Job](https://dev.to/alisamirali/the-recommended-level-of-react-proficiency-for-the-first-job-2on3)
 - [Dev.to/JS] [Create Your Own Programming Language 7: More Types](https://dev.to/jasonsbarr/create-your-own-programming-language-7-more-types-5hl1)
 - [Lifehacker] [10 Ways to Not Blow Off Your Fingers This Fourth of July](https://lifehacker.com/10-ways-to-not-blow-off-your-fingers-this-fourth-of-jul-1850592369)
@@ -37,10 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Metlo to Secure My Personal Finance App](https://dev.to/sushilkattel/using-metlo-to-secure-my-personal-finance-app-5d2g)
 - [Dev.to/JS] [School Dashboard UI](https://dev.to/sanketbodake/school-dashboard-ui-2891)
 - [Dev.to/JS] [What can you build with Wasp - the fastest way to develop React &amp; Node.js apps 🐝 🚀](https://dev.to/wasp/what-can-you-build-with-wasp-the-fastest-way-to-develop-react-nodejs-apps-275b)
-- [Dev.to/JS] [Yet another micro package for reactive UI](https://dev.to/ndrean/yet-another-micro-package-for-reactive-ui-574k)
 - [Lifehacker] [Is Your Job Toxic &lpar;or Do You Just Hate It&rpar;?](https://lifehacker.com/is-your-job-toxic-or-do-you-just-hate-it-1850591531)
 - [Lifehacker] [When to Worry About Exposed Brick Walls](https://lifehacker.com/when-to-worry-about-exposed-brick-walls-1850591401)
-- [Dev.to/JS] [Using JavaScript classes without the `class` keyword](https://dev.to/this-is-learning/using-javascript-classes-without-the-class-keyword-120n)
 - [Lifehacker] [Get This Windows 11 Pro Bundle for 85% Off Right Now](https://lifehacker.com/get-this-windows-11-pro-bundle-for-85-off-right-now-1850584532)
 - [Lifehacker] [The Best Way to Respond to a Poor Performance Review](https://lifehacker.com/the-best-way-to-respond-to-a-poor-performance-review-1850591233)
 - [Lifehacker] [Don’t Ask a Flight Attendant to Lift Your Luggage, and Other Things They Wish You Knew](https://lifehacker.com/don-t-ask-a-flight-attendant-to-lift-your-luggage-and-1850586514)
