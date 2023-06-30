@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Dockerize a Next.js Application Using Docker for Beginners](https://dev.to/markusmp/how-to-dockerize-a-nextjs-application-using-docker-for-beginners-5hi8)
+- [Dev.to/JS] [A question I usually ask in interviews..](https://dev.to/attull/a-question-i-usually-ask-in-interviews-5gcp)
+- [Dev.to/JS] [Create your own API fetching &amp; caching mechanism in React](https://dev.to/nisabmohd/create-your-own-api-fetching-caching-mechanism-in-react-49oc)
+- [Lifehacker] [What the Supreme Court’s Student Debt Ruling Means for You](https://lifehacker.com/what-the-supreme-court-s-student-debt-ruling-means-for-1850596926)
 - [Lifehacker] [Make Superb Pickles by Burying Them in Rice Bran](https://lifehacker.com/make-superb-pickles-by-burying-them-in-rice-bran-1850593204)
 - [Dev.to/JS] [Moonly weekly progress update #55 - Karamendos utilities](https://dev.to/moonly/moonly-weekly-progress-update-55-karamendos-utilities-1jm9)
 - [Lifehacker] [Your S&#39;mores Are Begging for Bacon](https://lifehacker.com/your-smores-are-begging-for-bacon-1850596330)
@@ -38,13 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in July 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-july-2023-1850595576)
 - [Dev.to/JS] [Debugger vs console.log](https://dev.to/ulisesserranop/debugger-vs-consolelog-1jme)
 - [Dev.to/JS] [The other side of using requestAnimationFrame](https://dev.to/nikitadmitr/the-other-side-of-using-requestanimationframe-4jk6)
-- [Dev.to/JS] [An Introduction to React Router: A Beginner’s Guide](https://dev.to/devvemeka/an-introduction-to-react-router-a-beginners-guide-2cgi)
 - [Lifehacker] [13 Anti-Patriotic Movies If You Aren’t Feeling the Fourth of July](https://lifehacker.com/13-anti-patriotic-movies-if-you-aren-t-feeling-the-four-1850594352)
-- [Dev.to/JS] [Boosting JavaScript Performance: Effective Strategies for Faster Code Execution](https://dev.to/getsmartwebsite/boosting-javascript-performance-effective-strategies-for-faster-code-execution-35bg)
 - [Lifehacker] [What You Should Know Before You Buy a Tiny Home Kit](https://lifehacker.com/what-you-should-know-before-you-buy-a-tiny-home-kit-1850594127)
-- [Dev.to/JS] [Truth Behind JavaScript Unit Tests 🧪](https://dev.to/akashpattnaik/truth-behind-javascript-unit-tests-1bel)
 - [Lifehacker] [Eight of the Best Kid-Friendly Fireworks Alternatives &lpar;and Two Terrible Ideas&rpar;](https://lifehacker.com/eight-of-the-best-kid-friendly-fireworks-alternatives-1850593183)
-- [Lifehacker] [A Lifetime Membership to Dollar Flight Club Is 90% Off Right Now](https://lifehacker.com/a-lifetime-membership-to-dollar-flight-club-is-90-off-1850589391)
 - [Lifehacker] [25 of the Most Obscenely Patriotic Movies Ever](https://lifehacker.com/20-of-the-most-obscenely-patriotic-movies-ever-1847211948)
 - [Lifehacker] [I Can&#39;t Stop Air Frying Frozen Corn](https://lifehacker.com/i-cant-stop-air-frying-frozen-corn-1850593035)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Curiosity Stream for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-curiosity-stream-1850589361)
