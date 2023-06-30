@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What You Should Know Before You Buy a Tiny Home Kit](https://lifehacker.com/what-you-should-know-before-you-buy-a-tiny-home-kit-1850594127)
+- [Dev.to/JS] [Truth Behind JavaScript Unit Tests 🧪](https://dev.to/akashpattnaik/truth-behind-javascript-unit-tests-1bel)
+- [Lifehacker] [Eight of the Best Kid-Friendly Fireworks Alternatives &lpar;and Two Terrible Ideas&rpar;](https://lifehacker.com/eight-of-the-best-kid-friendly-fireworks-alternatives-1850593183)
+- [Lifehacker] [A Lifetime Membership to Dollar Flight Club Is 90% Off Right Now](https://lifehacker.com/a-lifetime-membership-to-dollar-flight-club-is-90-off-1850589391)
 - [Lifehacker] [25 of the Most Obscenely Patriotic Movies Ever](https://lifehacker.com/20-of-the-most-obscenely-patriotic-movies-ever-1847211948)
 - [Dev.to/JS] [Use the Power Of TypeScript in AskUI](https://dev.to/askui/use-the-power-of-typescript-in-askui-4ik2)
 - [Dev.to/JS] [Top Seven JavaScript Event Calendars for Improving Your Time Management Apps](https://dev.to/plazarev/top-seven-javascript-event-calendars-for-improving-your-time-management-apps-2m3g)
@@ -38,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Write isomorphic code in MeteorJs](https://dev.to/jankapunkt/write-isomorphic-code-in-meteorjs-19ko)
 - [Dev.to/JS] [DeXo CDN](https://dev.to/dexohigh/dexo-cdn-m7e)
 - [Dev.to/JS] [How to create worker_thread to run ES script](https://dev.to/deepjoypo/how-to-create-workerthread-to-run-es-script-1h1p)
-- [Dev.to/JS] [Virtual Reality &lpar;VR&rpar; Application for Smart Office Visualization](https://dev.to/hightopo/virtual-reality-vr-application-for-smart-office-visualization-3ohk)
 - [Lifehacker] [10 Ways to Not Blow Off Your Fingers This Fourth of July](https://lifehacker.com/10-ways-to-not-blow-off-your-fingers-this-fourth-of-jul-1850592369)
 - [Lifehacker] [Make Perfect Popsicles With Guar Gum](https://lifehacker.com/make-perfect-popsicles-with-guar-gum-1850591737)
 - [Lifehacker] [You Can Get a Babbel Lifetime Subscription for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-babbel-lifetime-subscription-for-over-50-1850589333)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Install an In-Wall Air Conditioner &lpar;Instead of a Window Unit&rpar;](https://lifehacker.com/why-you-should-install-an-in-wall-air-conditioner-inst-1850586290)
 - [Crazy Programmer] [How is AI Being Used in Cybersecurity?](https://www.thecrazyprogrammer.com/2023/06/how-is-ai-being-used-in-cybersecurity.html)
 - [Lifehacker] [All About Malaria, Which We Have in the U.S. Now](https://lifehacker.com/all-about-malaria-which-we-have-in-the-u-s-now-1850588268)
-- [Lifehacker] [For a Better Ribeye, Combine Sous-Vide and Smoke](https://lifehacker.com/for-a-better-ribeye-combine-sous-vide-and-smoke-1850586654)
-- [Lifehacker] [There&#39;s a Better Way to Reheat Your Boiled Egg](https://lifehacker.com/theres-a-better-way-to-reheat-your-boiled-egg-1850586297)
-- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in July 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-july-2023-1850587543)
-- [Lifehacker] [This Refurbished MacBook Air Is 30% Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-30-off-right-now-1850579601)<!-- TECH-POSTS:END -->
+- [Lifehacker] [For a Better Ribeye, Combine Sous-Vide and Smoke](https://lifehacker.com/for-a-better-ribeye-combine-sous-vide-and-smoke-1850586654)<!-- TECH-POSTS:END -->
 
 ---
 
