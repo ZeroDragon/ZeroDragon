@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [25 of the Most Obscenely Patriotic Movies Ever](https://lifehacker.com/20-of-the-most-obscenely-patriotic-movies-ever-1847211948)
+- [Dev.to/JS] [Use the Power Of TypeScript in AskUI](https://dev.to/askui/use-the-power-of-typescript-in-askui-4ik2)
+- [Dev.to/JS] [Top Seven JavaScript Event Calendars for Improving Your Time Management Apps](https://dev.to/plazarev/top-seven-javascript-event-calendars-for-improving-your-time-management-apps-2m3g)
 - [Lifehacker] [I Can&#39;t Stop Air Frying Frozen Corn](https://lifehacker.com/i-cant-stop-air-frying-frozen-corn-1850593035)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Curiosity Stream for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-curiosity-stream-1850589361)
 - [Dev.to/JS] [20+ Thought Leaders from India’s Top Companies are speaking at TribeQonf](https://dev.to/kailashpathak7/20-thought-leaders-from-indias-top-companies-are-speaking-at-tribeqonf-9ob)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [DeXo CDN](https://dev.to/dexohigh/dexo-cdn-m7e)
 - [Dev.to/JS] [How to create worker_thread to run ES script](https://dev.to/deepjoypo/how-to-create-workerthread-to-run-es-script-1h1p)
 - [Dev.to/JS] [Virtual Reality &lpar;VR&rpar; Application for Smart Office Visualization](https://dev.to/hightopo/virtual-reality-vr-application-for-smart-office-visualization-3ohk)
-- [Dev.to/JS] [Svelte.js Tutorial](https://dev.to/kiraaziz/sveltejs-tutorial-5c7n)
-- [Dev.to/JS] [Optimizing SEO in Next.js: Advanced Techniques for Better Search Engine Visibility](https://dev.to/koolkishan/optimizing-seo-in-nextjs-advanced-techniques-for-better-search-engine-visibility-54kf)
 - [Lifehacker] [10 Ways to Not Blow Off Your Fingers This Fourth of July](https://lifehacker.com/10-ways-to-not-blow-off-your-fingers-this-fourth-of-jul-1850592369)
 - [Lifehacker] [Make Perfect Popsicles With Guar Gum](https://lifehacker.com/make-perfect-popsicles-with-guar-gum-1850591737)
 - [Lifehacker] [You Can Get a Babbel Lifetime Subscription for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-babbel-lifetime-subscription-for-over-50-1850589333)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [For a Better Ribeye, Combine Sous-Vide and Smoke](https://lifehacker.com/for-a-better-ribeye-combine-sous-vide-and-smoke-1850586654)
 - [Lifehacker] [There&#39;s a Better Way to Reheat Your Boiled Egg](https://lifehacker.com/theres-a-better-way-to-reheat-your-boiled-egg-1850586297)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in July 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-july-2023-1850587543)
-- [Lifehacker] [This Refurbished MacBook Air Is 30% Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-30-off-right-now-1850579601)
-- [Lifehacker] [Where to Find Good, Ethical Porn](https://lifehacker.com/where-to-find-good-ethical-porn-1850584141)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Refurbished MacBook Air Is 30% Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-30-off-right-now-1850579601)<!-- TECH-POSTS:END -->
 
 ---
 
