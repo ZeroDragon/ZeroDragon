@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create worker_thread to run ES script](https://dev.to/deepjoypo/how-to-create-workerthread-to-run-es-script-1h1p)
+- [Dev.to/JS] [Virtual Reality &lpar;VR&rpar; Application for Smart Office Visualization](https://dev.to/hightopo/virtual-reality-vr-application-for-smart-office-visualization-3ohk)
+- [Dev.to/JS] [Svelte.js Tutorial](https://dev.to/kiraaziz/sveltejs-tutorial-5c7n)
 - [Dev.to/JS] [Optimizing SEO in Next.js: Advanced Techniques for Better Search Engine Visibility](https://dev.to/koolkishan/optimizing-seo-in-nextjs-advanced-techniques-for-better-search-engine-visibility-54kf)
 - [Dev.to/JS] [Scope and Scope chain in javascript](https://dev.to/gaurbprajapati/scope-and-scope-chain-in-javascript-4e2h)
 - [Dev.to/JS] [Why pay to write source code? Paid software alternatives.](https://dev.to/se-saurav/why-pay-to-write-source-code-paid-software-alternatives-1102)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Boosting JavaScript Performance: Optimize Your Code for Speed](https://dev.to/getsmartwebsite/boosting-javascript-performance-optimize-your-code-for-speed-fjl)
 - [Dev.to/JS] [CORS&lpar;Complete-Guide&rpar;](https://dev.to/mdiffshashank/corscomplete-guide-4o59)
 - [Dev.to/JS] [https://github.com/marcosaureliosl/jogo-da-memoria-harrypotter/tree/main](https://dev.to/marcosaureliosl/httpsgithubcommarcosaureliosljogo-da-memoria-harrypottertreemain-473h)
-- [Dev.to/JS] [Stop using nested ifs. Do this instead](https://dev.to/getsmartwebsite/stop-using-nested-ifs-do-this-instead-3po6)
-- [Dev.to/JS] [Quick Start: VS Code Setup for Kintone Customization Development](https://dev.to/kintonedevprogram/quick-start-vs-code-setup-for-kintone-customization-development-1k5b)
-- [Dev.to/JS] [ProDentim - Results, Pros, Cons, Price, Scam And Legit?](https://dev.to/prodentimb78484/prodentim-results-pros-cons-price-scam-and-legit-1i91)
 - [Lifehacker] [10 Ways to Not Blow Off Your Fingers This Fourth of July](https://lifehacker.com/10-ways-to-not-blow-off-your-fingers-this-fourth-of-jul-1850592369)
 - [Lifehacker] [Make Perfect Popsicles With Guar Gum](https://lifehacker.com/make-perfect-popsicles-with-guar-gum-1850591737)
 - [Lifehacker] [You Can Get a Babbel Lifetime Subscription for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-babbel-lifetime-subscription-for-over-50-1850589333)
