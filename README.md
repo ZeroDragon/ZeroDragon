@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Boas Práticas - DRY, KISS, YAGNI](https://dev.to/wilsonlucena/boas-praticas-dry-kiss-yagni-44fk)
 - [Dev.to/JS] [Electron.js Tutorial](https://dev.to/kiraaziz/electronjs-tutorial-1cb3)
 - [Dev.to/JS] [Getting Started with REST API: Beginner&#39;s Tutorial](https://dev.to/devlawrence/getting-started-with-rest-api-beginners-tutorial-4nki)
 - [Dev.to/JS] [The Recommended Level Of React Proficiency For The First Job](https://dev.to/alisamirali/the-recommended-level-of-react-proficiency-for-the-first-job-2on3)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Making Four-In-A-Row - Part 7: Drawing The Board](https://dev.to/colinkiama/making-four-in-a-row-part-7-drawing-the-board-1l75)
 - [Dev.to/JS] [Using Metlo to Secure My Personal Finance App](https://dev.to/sushilkattel/using-metlo-to-secure-my-personal-finance-app-5d2g)
 - [Dev.to/JS] [School Dashboard UI](https://dev.to/sanketbodake/school-dashboard-ui-2891)
-- [Dev.to/JS] [What can you build with Wasp - the fastest way to develop React &amp; Node.js apps 🐝 🚀](https://dev.to/wasp/what-can-you-build-with-wasp-the-fastest-way-to-develop-react-nodejs-apps-275b)
 - [Lifehacker] [Is Your Job Toxic &lpar;or Do You Just Hate It&rpar;?](https://lifehacker.com/is-your-job-toxic-or-do-you-just-hate-it-1850591531)
 - [Lifehacker] [When to Worry About Exposed Brick Walls](https://lifehacker.com/when-to-worry-about-exposed-brick-walls-1850591401)
 - [Lifehacker] [Get This Windows 11 Pro Bundle for 85% Off Right Now](https://lifehacker.com/get-this-windows-11-pro-bundle-for-85-off-right-now-1850584532)
