@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Early Prime Day Deals on Air Fryers](https://lifehacker.com/these-are-the-best-early-prime-day-deals-on-air-fryers-1850583409)
+- [Dev.to/JS] [The Complete Guide to Becoming a Web Developer: Part 3](https://dev.to/aradwan20/the-complete-guide-to-becoming-a-web-developer-part-3-401k)
+- [Dev.to/JS] [4 Main Pillars Of CRM Systems [Comprehensive Review]](https://dev.to/flatlogic/4-main-pillars-of-crm-systems-comprehensive-review-34f3)
+- [Dev.to/JS] [Vim cheat sheet](https://dev.to/irishgeoff11/vim-cheat-sheet-5a8d)
+- [Dev.to/JS] [Building an Async Interview Platform With React and Dyte](https://dev.to/dyte/building-an-async-interview-platform-with-react-and-dyte-2n25)
+- [Dev.to/JS] [Learn how to build responsive navigation bar with HTML, CSS, and JavaScript](https://dev.to/david_bilsonn/learn-how-to-build-responsive-navigation-bar-with-html-css-javascript-4g5)
+- [Dev.to/JS] [Write isomorphic code in MeteorJs](https://dev.to/jankapunkt/write-isomorphic-code-in-meteorjs-19ko)
+- [Dev.to/JS] [DeXo CDN](https://dev.to/dexohigh/dexo-cdn-m7e)
 - [Dev.to/JS] [How to create worker_thread to run ES script](https://dev.to/deepjoypo/how-to-create-workerthread-to-run-es-script-1h1p)
 - [Dev.to/JS] [Virtual Reality &lpar;VR&rpar; Application for Smart Office Visualization](https://dev.to/hightopo/virtual-reality-vr-application-for-smart-office-visualization-3ohk)
 - [Dev.to/JS] [Svelte.js Tutorial](https://dev.to/kiraaziz/sveltejs-tutorial-5c7n)
 - [Dev.to/JS] [Optimizing SEO in Next.js: Advanced Techniques for Better Search Engine Visibility](https://dev.to/koolkishan/optimizing-seo-in-nextjs-advanced-techniques-for-better-search-engine-visibility-54kf)
 - [Dev.to/JS] [Scope and Scope chain in javascript](https://dev.to/gaurbprajapati/scope-and-scope-chain-in-javascript-4e2h)
-- [Dev.to/JS] [Why pay to write source code? Paid software alternatives.](https://dev.to/se-saurav/why-pay-to-write-source-code-paid-software-alternatives-1102)
-- [Dev.to/JS] [The Ultimate Guide To End-to-End Testing With Cypress](https://dev.to/kailashpathak7/the-ultimate-guide-to-end-to-end-testing-with-cypress-4ei)
-- [Dev.to/JS] [#LearnedToday: padStart&lpar;&rpar;](https://dev.to/danielzotti/learnedtoday-padstart-186f)
-- [Dev.to/JS] [Nx Console gets Lit](https://dev.to/nx/nx-console-gets-lit-44m7)
-- [Dev.to/JS] [Boosting JavaScript Performance: Optimize Your Code for Speed](https://dev.to/getsmartwebsite/boosting-javascript-performance-optimize-your-code-for-speed-fjl)
-- [Dev.to/JS] [CORS&lpar;Complete-Guide&rpar;](https://dev.to/mdiffshashank/corscomplete-guide-4o59)
-- [Dev.to/JS] [https://github.com/marcosaureliosl/jogo-da-memoria-harrypotter/tree/main](https://dev.to/marcosaureliosl/httpsgithubcommarcosaureliosljogo-da-memoria-harrypottertreemain-473h)
 - [Lifehacker] [10 Ways to Not Blow Off Your Fingers This Fourth of July](https://lifehacker.com/10-ways-to-not-blow-off-your-fingers-this-fourth-of-jul-1850592369)
 - [Lifehacker] [Make Perfect Popsicles With Guar Gum](https://lifehacker.com/make-perfect-popsicles-with-guar-gum-1850591737)
 - [Lifehacker] [You Can Get a Babbel Lifetime Subscription for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-babbel-lifetime-subscription-for-over-50-1850589333)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Refurbished MacBook Air Is 30% Off Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-30-off-right-now-1850579601)
 - [Lifehacker] [Where to Find Good, Ethical Porn](https://lifehacker.com/where-to-find-good-ethical-porn-1850584141)
 - [Lifehacker] [You Can Get an AdGuard Lifetime Subscription for Up to 80% Off Right Now](https://lifehacker.com/you-can-get-an-adguard-lifetime-subscription-for-up-to-1850579586)
-- [Lifehacker] [You Can Bury Your Dead at Sea &lpar;Because It’s Free, Eco-Friendly, and Totally Legal&rpar;](https://lifehacker.com/you-can-bury-your-dead-at-sea-because-it-s-free-eco-f-1850584474)
-- [Lifehacker] [Make High-End Truffle Pasta on a Low-End Budget](https://lifehacker.com/make-high-end-truffle-pasta-on-a-low-end-budget-1850583142)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Bury Your Dead at Sea &lpar;Because It’s Free, Eco-Friendly, and Totally Legal&rpar;](https://lifehacker.com/you-can-bury-your-dead-at-sea-because-it-s-free-eco-f-1850584474)<!-- TECH-POSTS:END -->
 
 ---
 
