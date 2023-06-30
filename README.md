@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [https://github.com/marcosaureliosl/jogo-da-memoria-harrypotter/tree/main](https://dev.to/marcosaureliosl/httpsgithubcommarcosaureliosljogo-da-memoria-harrypottertreemain-473h)
+- [Dev.to/JS] [Stop using nested ifs. Do this instead](https://dev.to/getsmartwebsite/stop-using-nested-ifs-do-this-instead-3po6)
+- [Dev.to/JS] [Quick Start: VS Code Setup for Kintone Customization Development](https://dev.to/kintonedevprogram/quick-start-vs-code-setup-for-kintone-customization-development-1k5b)
+- [Dev.to/JS] [ProDentim - Results, Pros, Cons, Price, Scam And Legit?](https://dev.to/prodentimb78484/prodentim-results-pros-cons-price-scam-and-legit-1i91)
+- [Dev.to/JS] [5 JavaScript loop structures You must know as a beginner](https://dev.to/devshefali/5-javascript-loop-structures-you-must-know-as-a-beginner-1p4c)
 - [Dev.to/JS] [How to fix iOS push subscriptions getting terminated after 3 notifications](https://dev.to/progressier/how-to-fix-ios-push-subscriptions-being-terminated-after-3-notifications-39a7)
 - [Dev.to/JS] [How to import with absolute paths in Gatsby](https://dev.to/cbillowes/how-to-import-with-absolute-paths-in-gatsby-3l6)
 - [Dev.to/JS] [The importance of verifying webhook signatures](https://dev.to/snyk/the-importance-of-verifying-webhook-signatures-3kan)
@@ -30,15 +35,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Boas Práticas - DRY, KISS, YAGNI](https://dev.to/wilsonlucena/boas-praticas-dry-kiss-yagni-44fk)
 - [Dev.to/JS] [Electron.js Tutorial](https://dev.to/kiraaziz/electronjs-tutorial-1cb3)
 - [Dev.to/JS] [Getting Started with REST API: Beginner&#39;s Tutorial](https://dev.to/devlawrence/getting-started-with-rest-api-beginners-tutorial-4nki)
-- [Dev.to/JS] [The Recommended Level Of React Proficiency For The First Job](https://dev.to/alisamirali/the-recommended-level-of-react-proficiency-for-the-first-job-2on3)
-- [Dev.to/JS] [Create Your Own Programming Language 7: More Types](https://dev.to/jasonsbarr/create-your-own-programming-language-7-more-types-5hl1)
 - [Lifehacker] [10 Ways to Not Blow Off Your Fingers This Fourth of July](https://lifehacker.com/10-ways-to-not-blow-off-your-fingers-this-fourth-of-jul-1850592369)
 - [Lifehacker] [Make Perfect Popsicles With Guar Gum](https://lifehacker.com/make-perfect-popsicles-with-guar-gum-1850591737)
-- [Dev.to/JS] [Destructuring Arrays in JS](https://dev.to/vincod/destructuring-arrays-in-js-3fdn)
 - [Lifehacker] [You Can Get a Babbel Lifetime Subscription for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-babbel-lifetime-subscription-for-over-50-1850589333)
-- [Dev.to/JS] [Code Usability and my &quot;Ease of Use&quot; Levels](https://dev.to/jdboris/code-usability-and-my-ease-of-use-levels-510a)
 - [Lifehacker] [Death to Watery Coleslaw](https://lifehacker.com/death-to-watery-coleslaw-1850592131)
-- [Dev.to/JS] [Ever wondered how to find the difference between two arrays without a third party library?](https://dev.to/melvinvmegen/ever-wondered-how-to-find-the-difference-between-two-arrays-without-a-third-party-library-31kb)
 - [Lifehacker] [Is Your Job Toxic &lpar;or Do You Just Hate It&rpar;?](https://lifehacker.com/is-your-job-toxic-or-do-you-just-hate-it-1850591531)
 - [Lifehacker] [When to Worry About Exposed Brick Walls](https://lifehacker.com/when-to-worry-about-exposed-brick-walls-1850591401)
 - [Lifehacker] [Get This Windows 11 Pro Bundle for 85% Off Right Now](https://lifehacker.com/get-this-windows-11-pro-bundle-for-85-off-right-now-1850584532)
