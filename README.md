@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optimizing SEO in Next.js: Advanced Techniques for Better Search Engine Visibility](https://dev.to/koolkishan/optimizing-seo-in-nextjs-advanced-techniques-for-better-search-engine-visibility-54kf)
+- [Dev.to/JS] [Scope and Scope chain in javascript](https://dev.to/gaurbprajapati/scope-and-scope-chain-in-javascript-4e2h)
+- [Dev.to/JS] [Why pay to write source code? Paid software alternatives.](https://dev.to/se-saurav/why-pay-to-write-source-code-paid-software-alternatives-1102)
+- [Dev.to/JS] [The Ultimate Guide To End-to-End Testing With Cypress](https://dev.to/kailashpathak7/the-ultimate-guide-to-end-to-end-testing-with-cypress-4ei)
 - [Dev.to/JS] [#LearnedToday: padStart&lpar;&rpar;](https://dev.to/danielzotti/learnedtoday-padstart-186f)
 - [Dev.to/JS] [Nx Console gets Lit](https://dev.to/nx/nx-console-gets-lit-44m7)
 - [Dev.to/JS] [Boosting JavaScript Performance: Optimize Your Code for Speed](https://dev.to/getsmartwebsite/boosting-javascript-performance-optimize-your-code-for-speed-fjl)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Stop using nested ifs. Do this instead](https://dev.to/getsmartwebsite/stop-using-nested-ifs-do-this-instead-3po6)
 - [Dev.to/JS] [Quick Start: VS Code Setup for Kintone Customization Development](https://dev.to/kintonedevprogram/quick-start-vs-code-setup-for-kintone-customization-development-1k5b)
 - [Dev.to/JS] [ProDentim - Results, Pros, Cons, Price, Scam And Legit?](https://dev.to/prodentimb78484/prodentim-results-pros-cons-price-scam-and-legit-1i91)
-- [Dev.to/JS] [5 JavaScript loop structures You must know as a beginner](https://dev.to/devshefali/5-javascript-loop-structures-you-must-know-as-a-beginner-1p4c)
-- [Dev.to/JS] [How to fix iOS push subscriptions getting terminated after 3 notifications](https://dev.to/progressier/how-to-fix-ios-push-subscriptions-being-terminated-after-3-notifications-39a7)
-- [Dev.to/JS] [How to import with absolute paths in Gatsby](https://dev.to/cbillowes/how-to-import-with-absolute-paths-in-gatsby-3l6)
-- [Dev.to/JS] [The importance of verifying webhook signatures](https://dev.to/snyk/the-importance-of-verifying-webhook-signatures-3kan)
 - [Lifehacker] [10 Ways to Not Blow Off Your Fingers This Fourth of July](https://lifehacker.com/10-ways-to-not-blow-off-your-fingers-this-fourth-of-jul-1850592369)
 - [Lifehacker] [Make Perfect Popsicles With Guar Gum](https://lifehacker.com/make-perfect-popsicles-with-guar-gum-1850591737)
 - [Lifehacker] [You Can Get a Babbel Lifetime Subscription for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-babbel-lifetime-subscription-for-over-50-1850589333)
