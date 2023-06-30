@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to import with absolute paths in Gatsby](https://dev.to/cbillowes/how-to-import-with-absolute-paths-in-gatsby-3l6)
 - [Dev.to/JS] [The importance of verifying webhook signatures](https://dev.to/snyk/the-importance-of-verifying-webhook-signatures-3kan)
 - [Dev.to/JS] [Create a free website on neocities](https://dev.to/irishgeoff11/create-a-free-website-on-neocities-doa)
 - [Dev.to/JS] [Boas Práticas - DRY, KISS, YAGNI](https://dev.to/wilsonlucena/boas-praticas-dry-kiss-yagni-44fk)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Death to Watery Coleslaw](https://lifehacker.com/death-to-watery-coleslaw-1850592131)
 - [Dev.to/JS] [Ever wondered how to find the difference between two arrays without a third party library?](https://dev.to/melvinvmegen/ever-wondered-how-to-find-the-difference-between-two-arrays-without-a-third-party-library-31kb)
 - [Dev.to/JS] [Typescript Flatten Object Type](https://dev.to/tylim88/typescript-type-level-object-flattening-9fn)
-- [Dev.to/JS] [Making Four-In-A-Row - Part 7: Drawing The Board](https://dev.to/colinkiama/making-four-in-a-row-part-7-drawing-the-board-1l75)
 - [Lifehacker] [Is Your Job Toxic &lpar;or Do You Just Hate It&rpar;?](https://lifehacker.com/is-your-job-toxic-or-do-you-just-hate-it-1850591531)
 - [Lifehacker] [When to Worry About Exposed Brick Walls](https://lifehacker.com/when-to-worry-about-exposed-brick-walls-1850591401)
 - [Lifehacker] [Get This Windows 11 Pro Bundle for 85% Off Right Now](https://lifehacker.com/get-this-windows-11-pro-bundle-for-85-off-right-now-1850584532)
