@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make Superb Pickles by Burying Them in Rice Bran](https://lifehacker.com/make-superb-pickles-by-burying-them-in-rice-bran-1850593204)
+- [Dev.to/JS] [Moonly weekly progress update #55 - Karamendos utilities](https://dev.to/moonly/moonly-weekly-progress-update-55-karamendos-utilities-1jm9)
 - [Lifehacker] [Your S&#39;mores Are Begging for Bacon](https://lifehacker.com/your-smores-are-begging-for-bacon-1850596330)
 - [Dev.to/JS] [Add and remove clothes from pictures with the FashionAI model](https://dev.to/mikeyoung44/add-and-remove-clothes-from-pictures-with-the-fashionai-model-3h79)
 - [Dev.to/JS] [How to write quality code under time pressure?](https://dev.to/xplodivity/how-to-write-quality-code-under-time-pressure-4dn8)
@@ -44,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Eight of the Best Kid-Friendly Fireworks Alternatives &lpar;and Two Terrible Ideas&rpar;](https://lifehacker.com/eight-of-the-best-kid-friendly-fireworks-alternatives-1850593183)
 - [Lifehacker] [A Lifetime Membership to Dollar Flight Club Is 90% Off Right Now](https://lifehacker.com/a-lifetime-membership-to-dollar-flight-club-is-90-off-1850589391)
 - [Lifehacker] [25 of the Most Obscenely Patriotic Movies Ever](https://lifehacker.com/20-of-the-most-obscenely-patriotic-movies-ever-1847211948)
-- [Dev.to/JS] [Use the Power Of TypeScript in AskUI](https://dev.to/askui/use-the-power-of-typescript-in-askui-4ik2)
 - [Lifehacker] [I Can&#39;t Stop Air Frying Frozen Corn](https://lifehacker.com/i-cant-stop-air-frying-frozen-corn-1850593035)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Curiosity Stream for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-curiosity-stream-1850589361)
 - [Lifehacker] [These Are the Best Early Prime Day Deals on Air Fryers](https://lifehacker.com/these-are-the-best-early-prime-day-deals-on-air-fryers-1850583409)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Aspartame&#39;s &#39;Possible Carcinogen&#39; Designation Means Basically Nothing](https://lifehacker.com/aspartames-possible-carcinogen-designation-means-basica-1850590970)
 - [Lifehacker] [The Best Ways to Burglar-Proof Your House Before a Long Trip](https://lifehacker.com/the-best-ways-to-burglar-proof-your-house-before-a-long-1850579009)
 - [Lifehacker] [11 of the Best Ways to Identify Wild Mushrooms](https://lifehacker.com/11-of-the-best-ways-to-identify-wild-mushrooms-1850589488)
-- [Lifehacker] [The Difference Between Pickleball and Padel, the Two Fastest-Growing Sports In the World](https://lifehacker.com/the-difference-between-pickleball-and-padel-the-two-fa-1850589164)
-- [Lifehacker] [What People Are Getting Wrong This Week: Biden Isn&#39;t Taking Your Stove](https://lifehacker.com/biden-isnt-taking-your-stove-1850588538)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Difference Between Pickleball and Padel, the Two Fastest-Growing Sports In the World](https://lifehacker.com/the-difference-between-pickleball-and-padel-the-two-fa-1850589164)<!-- TECH-POSTS:END -->
 
 ---
 
