@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Debugger vs console.log](https://dev.to/ulisesserranop/debugger-vs-consolelog-1jme)
+- [Dev.to/JS] [The other side of using requestAnimationFrame](https://dev.to/nikitadmitr/the-other-side-of-using-requestanimationframe-4jk6)
+- [Dev.to/JS] [An Introduction to React Router: A Beginner’s Guide](https://dev.to/devvemeka/an-introduction-to-react-router-a-beginners-guide-2cgi)
+- [Lifehacker] [13 Anti-Patriotic Movies If You Aren’t Feeling the Fourth of July](https://lifehacker.com/13-anti-patriotic-movies-if-you-aren-t-feeling-the-four-1850594352)
+- [Dev.to/JS] [Boosting JavaScript Performance: Effective Strategies for Faster Code Execution](https://dev.to/getsmartwebsite/boosting-javascript-performance-effective-strategies-for-faster-code-execution-35bg)
 - [Lifehacker] [What You Should Know Before You Buy a Tiny Home Kit](https://lifehacker.com/what-you-should-know-before-you-buy-a-tiny-home-kit-1850594127)
 - [Dev.to/JS] [Truth Behind JavaScript Unit Tests 🧪](https://dev.to/akashpattnaik/truth-behind-javascript-unit-tests-1bel)
 - [Lifehacker] [Eight of the Best Kid-Friendly Fireworks Alternatives &lpar;and Two Terrible Ideas&rpar;](https://lifehacker.com/eight-of-the-best-kid-friendly-fireworks-alternatives-1850593183)
@@ -38,10 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [4 Main Pillars Of CRM Systems [Comprehensive Review]](https://dev.to/flatlogic/4-main-pillars-of-crm-systems-comprehensive-review-34f3)
 - [Dev.to/JS] [Vim cheat sheet](https://dev.to/irishgeoff11/vim-cheat-sheet-5a8d)
 - [Dev.to/JS] [Building an Async Interview Platform With React and Dyte](https://dev.to/dyte/building-an-async-interview-platform-with-react-and-dyte-2n25)
-- [Dev.to/JS] [Learn how to build responsive navigation bar with HTML, CSS, and JavaScript](https://dev.to/david_bilsonn/learn-how-to-build-responsive-navigation-bar-with-html-css-javascript-4g5)
-- [Dev.to/JS] [Write isomorphic code in MeteorJs](https://dev.to/jankapunkt/write-isomorphic-code-in-meteorjs-19ko)
-- [Dev.to/JS] [DeXo CDN](https://dev.to/dexohigh/dexo-cdn-m7e)
-- [Dev.to/JS] [How to create worker_thread to run ES script](https://dev.to/deepjoypo/how-to-create-workerthread-to-run-es-script-1h1p)
 - [Lifehacker] [10 Ways to Not Blow Off Your Fingers This Fourth of July](https://lifehacker.com/10-ways-to-not-blow-off-your-fingers-this-fourth-of-jul-1850592369)
 - [Lifehacker] [Make Perfect Popsicles With Guar Gum](https://lifehacker.com/make-perfect-popsicles-with-guar-gum-1850591737)
 - [Lifehacker] [You Can Get a Babbel Lifetime Subscription for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-babbel-lifetime-subscription-for-over-50-1850589333)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Strawberry Shortcake Casserole Is Your Casual Summer Party Dessert](https://lifehacker.com/strawberry-shortcake-casserole-is-your-casual-summer-pa-1850587938)
 - [Lifehacker] [Why You Should Install an In-Wall Air Conditioner &lpar;Instead of a Window Unit&rpar;](https://lifehacker.com/why-you-should-install-an-in-wall-air-conditioner-inst-1850586290)
 - [Crazy Programmer] [How is AI Being Used in Cybersecurity?](https://www.thecrazyprogrammer.com/2023/06/how-is-ai-being-used-in-cybersecurity.html)
-- [Lifehacker] [All About Malaria, Which We Have in the U.S. Now](https://lifehacker.com/all-about-malaria-which-we-have-in-the-u-s-now-1850588268)
-- [Lifehacker] [For a Better Ribeye, Combine Sous-Vide and Smoke](https://lifehacker.com/for-a-better-ribeye-combine-sous-vide-and-smoke-1850586654)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All About Malaria, Which We Have in the U.S. Now](https://lifehacker.com/all-about-malaria-which-we-have-in-the-u-s-now-1850588268)<!-- TECH-POSTS:END -->
 
 ---
 
