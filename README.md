@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Replace Windows 11&#39;s File Explorer With the Files App](https://lifehacker.com/you-should-replace-windows-11s-file-explorer-with-the-f-1850594433)
+- [Dev.to/JS] [Create an icon component from a SVG icon](https://dev.to/dimaslz/create-an-icon-component-from-a-svg-icon-2n0o)
+- [Lifehacker] [What&#39;s New on Prime Video and Freevee in July 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-july-2023-1850595576)
 - [Dev.to/JS] [Debugger vs console.log](https://dev.to/ulisesserranop/debugger-vs-consolelog-1jme)
 - [Dev.to/JS] [The other side of using requestAnimationFrame](https://dev.to/nikitadmitr/the-other-side-of-using-requestanimationframe-4jk6)
 - [Dev.to/JS] [An Introduction to React Router: A Beginner’s Guide](https://dev.to/devvemeka/an-introduction-to-react-router-a-beginners-guide-2cgi)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Complete Guide to Becoming a Web Developer: Part 3](https://dev.to/aradwan20/the-complete-guide-to-becoming-a-web-developer-part-3-401k)
 - [Dev.to/JS] [4 Main Pillars Of CRM Systems [Comprehensive Review]](https://dev.to/flatlogic/4-main-pillars-of-crm-systems-comprehensive-review-34f3)
 - [Dev.to/JS] [Vim cheat sheet](https://dev.to/irishgeoff11/vim-cheat-sheet-5a8d)
-- [Dev.to/JS] [Building an Async Interview Platform With React and Dyte](https://dev.to/dyte/building-an-async-interview-platform-with-react-and-dyte-2n25)
 - [Lifehacker] [10 Ways to Not Blow Off Your Fingers This Fourth of July](https://lifehacker.com/10-ways-to-not-blow-off-your-fingers-this-fourth-of-jul-1850592369)
 - [Lifehacker] [Make Perfect Popsicles With Guar Gum](https://lifehacker.com/make-perfect-popsicles-with-guar-gum-1850591737)
 - [Lifehacker] [You Can Get a Babbel Lifetime Subscription for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-babbel-lifetime-subscription-for-over-50-1850589333)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What People Are Getting Wrong This Week: Biden Isn&#39;t Taking Your Stove](https://lifehacker.com/biden-isnt-taking-your-stove-1850588538)
 - [Lifehacker] [This EvaChill Personal Air Conditioner Is on Sale for 30% Off](https://lifehacker.com/this-evachill-personal-air-conditioner-is-on-sale-for-3-1850584517)
 - [Lifehacker] [Strawberry Shortcake Casserole Is Your Casual Summer Party Dessert](https://lifehacker.com/strawberry-shortcake-casserole-is-your-casual-summer-pa-1850587938)
-- [Lifehacker] [Why You Should Install an In-Wall Air Conditioner &lpar;Instead of a Window Unit&rpar;](https://lifehacker.com/why-you-should-install-an-in-wall-air-conditioner-inst-1850586290)
-- [Crazy Programmer] [How is AI Being Used in Cybersecurity?](https://www.thecrazyprogrammer.com/2023/06/how-is-ai-being-used-in-cybersecurity.html)
-- [Lifehacker] [All About Malaria, Which We Have in the U.S. Now](https://lifehacker.com/all-about-malaria-which-we-have-in-the-u-s-now-1850588268)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Install an In-Wall Air Conditioner &lpar;Instead of a Window Unit&rpar;](https://lifehacker.com/why-you-should-install-an-in-wall-air-conditioner-inst-1850586290)<!-- TECH-POSTS:END -->
 
 ---
 
