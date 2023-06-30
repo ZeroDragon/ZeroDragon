@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your S&#39;mores Are Begging for Bacon](https://lifehacker.com/your-smores-are-begging-for-bacon-1850596330)
+- [Dev.to/JS] [Add and remove clothes from pictures with the FashionAI model](https://dev.to/mikeyoung44/add-and-remove-clothes-from-pictures-with-the-fashionai-model-3h79)
+- [Dev.to/JS] [How to write quality code under time pressure?](https://dev.to/xplodivity/how-to-write-quality-code-under-time-pressure-4dn8)
+- [Dev.to/JS] [Fancy Fun w/ Functional Decorators](https://dev.to/synthetic_rain/fancy-fun-w-functional-decorators-2h9h)
+- [Lifehacker] [Talk to Your Kids About Your Estate Plan Now &lpar;and How to Do It&rpar;](https://lifehacker.com/talk-to-your-kids-about-your-estate-plan-now-and-how-t-1850586552)
+- [Dev.to/JS] [6 Webpack Concepts for Advanced React Developers](https://dev.to/mohammadfaisal/6-webpack-concepts-for-advanced-react-developers-2b8o)
+- [Dev.to/JS] [JAVASCRIPT INTRO FOR BEGINNERS](https://dev.to/dhebbythenerd/javascript-intro-for-beginners-514p)
+- [Lifehacker] [How to Actually Get an Abortion in the US](https://lifehacker.com/how-to-actually-get-an-abortion-in-the-us-1850537360)
 - [Lifehacker] [You Should Replace Windows 11&#39;s File Explorer With the Files App](https://lifehacker.com/you-should-replace-windows-11s-file-explorer-with-the-f-1850594433)
 - [Dev.to/JS] [Create an icon component from a SVG icon](https://dev.to/dimaslz/create-an-icon-component-from-a-svg-icon-2n0o)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in July 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-july-2023-1850595576)
@@ -37,14 +45,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Lifetime Membership to Dollar Flight Club Is 90% Off Right Now](https://lifehacker.com/a-lifetime-membership-to-dollar-flight-club-is-90-off-1850589391)
 - [Lifehacker] [25 of the Most Obscenely Patriotic Movies Ever](https://lifehacker.com/20-of-the-most-obscenely-patriotic-movies-ever-1847211948)
 - [Dev.to/JS] [Use the Power Of TypeScript in AskUI](https://dev.to/askui/use-the-power-of-typescript-in-askui-4ik2)
-- [Dev.to/JS] [Top Seven JavaScript Event Calendars for Improving Your Time Management Apps](https://dev.to/plazarev/top-seven-javascript-event-calendars-for-improving-your-time-management-apps-2m3g)
 - [Lifehacker] [I Can&#39;t Stop Air Frying Frozen Corn](https://lifehacker.com/i-cant-stop-air-frying-frozen-corn-1850593035)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Curiosity Stream for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-curiosity-stream-1850589361)
-- [Dev.to/JS] [20+ Thought Leaders from India’s Top Companies are speaking at TribeQonf](https://dev.to/kailashpathak7/20-thought-leaders-from-indias-top-companies-are-speaking-at-tribeqonf-9ob)
 - [Lifehacker] [These Are the Best Early Prime Day Deals on Air Fryers](https://lifehacker.com/these-are-the-best-early-prime-day-deals-on-air-fryers-1850583409)
-- [Dev.to/JS] [The Complete Guide to Becoming a Web Developer: Part 3](https://dev.to/aradwan20/the-complete-guide-to-becoming-a-web-developer-part-3-401k)
-- [Dev.to/JS] [4 Main Pillars Of CRM Systems [Comprehensive Review]](https://dev.to/flatlogic/4-main-pillars-of-crm-systems-comprehensive-review-34f3)
-- [Dev.to/JS] [Vim cheat sheet](https://dev.to/irishgeoff11/vim-cheat-sheet-5a8d)
 - [Lifehacker] [10 Ways to Not Blow Off Your Fingers This Fourth of July](https://lifehacker.com/10-ways-to-not-blow-off-your-fingers-this-fourth-of-jul-1850592369)
 - [Lifehacker] [Make Perfect Popsicles With Guar Gum](https://lifehacker.com/make-perfect-popsicles-with-guar-gum-1850591737)
 - [Lifehacker] [You Can Get a Babbel Lifetime Subscription for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-babbel-lifetime-subscription-for-over-50-1850589333)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Burglar-Proof Your House Before a Long Trip](https://lifehacker.com/the-best-ways-to-burglar-proof-your-house-before-a-long-1850579009)
 - [Lifehacker] [11 of the Best Ways to Identify Wild Mushrooms](https://lifehacker.com/11-of-the-best-ways-to-identify-wild-mushrooms-1850589488)
 - [Lifehacker] [The Difference Between Pickleball and Padel, the Two Fastest-Growing Sports In the World](https://lifehacker.com/the-difference-between-pickleball-and-padel-the-two-fa-1850589164)
-- [Lifehacker] [What People Are Getting Wrong This Week: Biden Isn&#39;t Taking Your Stove](https://lifehacker.com/biden-isnt-taking-your-stove-1850588538)
-- [Lifehacker] [This EvaChill Personal Air Conditioner Is on Sale for 30% Off](https://lifehacker.com/this-evachill-personal-air-conditioner-is-on-sale-for-3-1850584517)
-- [Lifehacker] [Strawberry Shortcake Casserole Is Your Casual Summer Party Dessert](https://lifehacker.com/strawberry-shortcake-casserole-is-your-casual-summer-pa-1850587938)
-- [Lifehacker] [Why You Should Install an In-Wall Air Conditioner &lpar;Instead of a Window Unit&rpar;](https://lifehacker.com/why-you-should-install-an-in-wall-air-conditioner-inst-1850586290)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What People Are Getting Wrong This Week: Biden Isn&#39;t Taking Your Stove](https://lifehacker.com/biden-isnt-taking-your-stove-1850588538)<!-- TECH-POSTS:END -->
 
 ---
 
