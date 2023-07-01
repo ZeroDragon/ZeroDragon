@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Use JavaScript Dictionary Like a Pro](https://dev.to/onlinemsr/how-to-use-javascript-dictionary-like-a-pro-2h4l)
+- [Dev.to/JS] [Enhance Code Review Efficiency with Whispr AI: Your Trusty Assistant](https://dev.to/aiforme/enhance-code-review-efficiency-with-whispr-ai-your-trusty-assistant-k3h)
 - [Dev.to/JS] [Let&#39;s Talk About Node Packages](https://dev.to/lukeshiru/lets-talk-about-node-packages-21bh)
 - [Dev.to/JS] [Creating a To-Do App with React and Saving Data to Local Storage](https://dev.to/kiraaziz/creating-a-to-do-app-with-react-and-saving-data-to-local-storage-11dj)
 - [Dev.to/JS] [Project - MMO Games](https://dev.to/renardo1985/project-mmo-games-2h6j)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Moonly weekly progress update #55 - Karamendos utilities](https://dev.to/moonly/moonly-weekly-progress-update-55-karamendos-utilities-1jm9)
 - [Lifehacker] [Your S&#39;mores Are Begging for Bacon](https://lifehacker.com/your-smores-are-begging-for-bacon-1850596330)
 - [Dev.to/JS] [Add and remove clothes from pictures with the FashionAI model](https://dev.to/mikeyoung44/add-and-remove-clothes-from-pictures-with-the-fashionai-model-3h79)
-- [Dev.to/JS] [How to write quality code under time pressure?](https://dev.to/xplodivity/how-to-write-quality-code-under-time-pressure-4dn8)
-- [Dev.to/JS] [Fancy Fun w/ Functional Decorators](https://dev.to/synthetic_rain/fancy-fun-w-functional-decorators-2h9h)
 - [Lifehacker] [Talk to Your Kids About Your Estate Plan Now &lpar;and How to Do It&rpar;](https://lifehacker.com/talk-to-your-kids-about-your-estate-plan-now-and-how-t-1850586552)
 - [Lifehacker] [How to Actually Get an Abortion in the US](https://lifehacker.com/how-to-actually-get-an-abortion-in-the-us-1850537360)
 - [Lifehacker] [You Should Replace Windows 11&#39;s File Explorer With the Files App](https://lifehacker.com/you-should-replace-windows-11s-file-explorer-with-the-f-1850594433)
