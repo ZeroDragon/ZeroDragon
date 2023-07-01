@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [desplegar un sitio web estático utilizando Netlify](https://dev.to/irishgeoff11/desplegar-un-sitio-web-estatico-utilizando-netlify-11g8)
+- [Dev.to/JS] [Embrace the Power of the Cloud: Deploying a MERN Stack Application with Vercel](https://dev.to/naveenbantu/embrace-the-power-of-the-cloud-deploying-a-mern-stack-application-with-vercel-2gob)
+- [Dev.to/JS] [Never Worry About Project Dependencies: A Comprehensive Guide to package.json and package-lock.json](https://dev.to/msn2106/never-worry-about-project-dependencies-a-comprehensive-guide-to-packagejson-and-package-lockjson-f6i)
+- [Dev.to/JS] [Web Development: The Month in Review - Trends, Releases, and More](https://dev.to/anishroy/web-development-the-month-in-review-trends-releases-and-more-2kmj)
 - [Lifehacker] [When It Makes Sense to Rent an Electric Vehicle for a Road Trip](https://lifehacker.com/when-it-makes-sense-to-rent-an-electric-vehicle-for-a-r-1850593978)
+- [Dev.to/JS] [This new HTML attribute will help you with loading states](https://dev.to/bdbch/this-new-html-attribute-will-help-you-with-loading-states-3c93)
 - [Dev.to/JS] [Cample.js benchmark &lpar;js-framework-benchmark&rpar;](https://dev.to/antonmak1/camplejs-benchmark-js-framework-benchmark-4o5f)
 - [Dev.to/JS] [Supercharge your Coding Potential with Codehub](https://dev.to/aiforme/supercharge-your-coding-potential-with-codehub-2djp)
 - [Lifehacker] [The Best and Worst Times to Drive Fourth of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-fourth-of-july-weeken-1850593988)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Prettier and how to get most out of it](https://dev.to/withtoms/prettier-and-how-to-get-most-out-of-it-2d46)
 - [Dev.to/JS] [Angular is getting New Template Syntax](https://dev.to/this-is-angular/angular-is-getting-new-template-syntax-4naf)
 - [Dev.to/JS] [Frontend Roadmap](https://dev.to/m_xasanov_blog/frontend-roadmap-4d68)
-- [Dev.to/JS] [Eleventy Tutorial](https://dev.to/irishgeoff11/eleventy-tutorial-237b)
-- [Dev.to/JS] [Languages and Purpose](https://dev.to/m_xasanov_blog/languages-and-purpose-ij6)
-- [Dev.to/JS] [MailMug.net: A Powerful Email Testing and Debugging Tool](https://dev.to/arshidkv12/mailmugnet-a-powerful-email-testing-and-debugging-tool-4n2)
-- [Dev.to/JS] [#LearnedToday: image of code snippets](https://dev.to/danielzotti/learnedtoday-image-of-code-snippets-1pgn)
-- [Dev.to/JS] [ChatGPT.js Powerful Client side JavaScript Library For ChatGPT](https://dev.to/farhadi/chatgptjs-powerful-client-side-javascript-library-for-chatgpt-5aik)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are Grimace Shakes Killing People?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-grima-1850597126)
 - [Lifehacker] [TikTok Diet of the Week: the Mustard and Cottage Cheese Plate](https://lifehacker.com/tiktok-diet-of-the-week-the-mustard-and-cottage-cheese-1850597057)
 - [Lifehacker] [The Least Messy Way to Cut a Watermelon](https://lifehacker.com/the-least-messy-way-to-cut-a-watermelon-1850597009)
