@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript to Python- a few differences in syntax](https://dev.to/megharrison92/javascript-to-python-a-few-differences-in-syntax-3ipg)
+- [Dev.to/JS] [How to port VS Code plugins to your favorite editor&lpar;e.g. Emacs&rpar;, with the example of Github Copilot Labs.](https://dev.to/haukot/how-to-use-vs-code-plugins-in-your-favorite-editoreg-emacs-with-the-example-of-github-copilot-labs-50pn)
+- [Dev.to/JS] [Mocking Your API&#39;s Calls Using Mocking Service Worker &lpar;MSW&rpar;](https://dev.to/kevin-uehara/mocking-your-apis-calls-using-mocking-service-worker-msw-7k6)
 - [Dev.to/JS] [How to Access Firebase From AWS Lambda](https://dev.to/mohammadfaisal/how-to-access-firebase-from-aws-lambda-n49)
 - [Dev.to/JS] [Cookies vs LocalStorage Vs SessionStorage](https://dev.to/gaurbprajapati/cookies-vs-localstorage-vs-sessionstorage-4p6l)
 - [Dev.to/JS] [HTC U Series: Unleash Your Imagination with HTC](https://dev.to/mazhar_qay98257/htc-u-series-unleash-your-imagination-with-htc-apm)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Debounce vs. Throttle: Decoding the Duel](https://dev.to/arulvalananto/debounce-vs-throttle-decoding-the-duel-2b9c)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Places to Put Your Air Purifier](https://lifehacker.com/the-best-and-worst-places-to-put-your-air-purifier-1850593972)
 - [Dev.to/JS] [JavaScript Cheat Sheet For Noobs 📝🚀](https://dev.to/akashpattnaik/javascript-cheat-sheet-for-noobs-42ij)
-- [Dev.to/JS] [desplegar un sitio web estático utilizando Netlify](https://dev.to/irishgeoff11/desplegar-un-sitio-web-estatico-utilizando-netlify-11g8)
-- [Dev.to/JS] [Embrace the Power of the Cloud: Deploying a MERN Stack Application with Vercel](https://dev.to/naveenbantu/embrace-the-power-of-the-cloud-deploying-a-mern-stack-application-with-vercel-2gob)
-- [Dev.to/JS] [Never Worry About Project Dependencies: A Comprehensive Guide to package.json and package-lock.json](https://dev.to/msn2106/never-worry-about-project-dependencies-a-comprehensive-guide-to-packagejson-and-package-lockjson-f6i)
 - [Lifehacker] [When It Makes Sense to Rent an Electric Vehicle for a Road Trip](https://lifehacker.com/when-it-makes-sense-to-rent-an-electric-vehicle-for-a-r-1850593978)
 - [Lifehacker] [The Best and Worst Times to Drive Fourth of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-fourth-of-july-weeken-1850593988)
 - [Lifehacker] [Here Are the Best Early Prime Day Deals on Kitchen Essentials](https://lifehacker.com/here-are-the-best-early-prime-day-deals-on-kitchen-esse-1850592785)
