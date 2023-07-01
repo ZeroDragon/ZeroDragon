@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Real-Life Examples Of String Conversion](https://dev.to/amoghavarsha/10-real-life-examples-of-string-conversion-42mh)
+- [Dev.to/JS] [Optimizing User Experience with useDebounce&lpar;&rpar; Hook](https://dev.to/shaancodes/optimizing-user-experience-with-usedebounce-hook-obc)
+- [Dev.to/JS] [Re-Exploring Reactivity and Introducing the Observer API and Reflex Functions](https://dev.to/oxharris/re-exploring-reactivity-and-introducing-the-observer-api-and-reflex-functions-4h70)
 - [Dev.to/JS] [How to Use JavaScript Dictionary Like a Pro](https://dev.to/onlinemsr/how-to-use-javascript-dictionary-like-a-pro-2h4l)
 - [Dev.to/JS] [Enhance Code Review Efficiency with Whispr AI: Your Trusty Assistant](https://dev.to/aiforme/enhance-code-review-efficiency-with-whispr-ai-your-trusty-assistant-k3h)
 - [Dev.to/JS] [Let&#39;s Talk About Node Packages](https://dev.to/lukeshiru/lets-talk-about-node-packages-21bh)
@@ -35,12 +38,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Least Messy Way to Cut a Watermelon](https://lifehacker.com/the-least-messy-way-to-cut-a-watermelon-1850597009)
 - [Dev.to/JS] [How to Dockerize a Next.js Application Using Docker for Beginners](https://dev.to/markusmp/how-to-dockerize-a-nextjs-application-using-docker-for-beginners-5hi8)
 - [Dev.to/JS] [A question I usually ask in interviews..](https://dev.to/attull/a-question-i-usually-ask-in-interviews-5gcp)
-- [Dev.to/JS] [Create your own API fetching &amp; caching mechanism in React](https://dev.to/nisabmohd/create-your-own-api-fetching-caching-mechanism-in-react-49oc)
 - [Lifehacker] [What the Supreme Court’s Student Debt Ruling Means for You](https://lifehacker.com/what-the-supreme-court-s-student-debt-ruling-means-for-1850596926)
 - [Lifehacker] [Make Superb Pickles by Burying Them in Rice Bran](https://lifehacker.com/make-superb-pickles-by-burying-them-in-rice-bran-1850593204)
-- [Dev.to/JS] [Moonly weekly progress update #55 - Karamendos utilities](https://dev.to/moonly/moonly-weekly-progress-update-55-karamendos-utilities-1jm9)
 - [Lifehacker] [Your S&#39;mores Are Begging for Bacon](https://lifehacker.com/your-smores-are-begging-for-bacon-1850596330)
-- [Dev.to/JS] [Add and remove clothes from pictures with the FashionAI model](https://dev.to/mikeyoung44/add-and-remove-clothes-from-pictures-with-the-fashionai-model-3h79)
 - [Lifehacker] [Talk to Your Kids About Your Estate Plan Now &lpar;and How to Do It&rpar;](https://lifehacker.com/talk-to-your-kids-about-your-estate-plan-now-and-how-t-1850586552)
 - [Lifehacker] [How to Actually Get an Abortion in the US](https://lifehacker.com/how-to-actually-get-an-abortion-in-the-us-1850537360)
 - [Lifehacker] [You Should Replace Windows 11&#39;s File Explorer With the Files App](https://lifehacker.com/you-should-replace-windows-11s-file-explorer-with-the-f-1850594433)
