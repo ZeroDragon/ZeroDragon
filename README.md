@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Frontend Roadmap](https://dev.to/m_xasanov_blog/frontend-roadmap-4d68)
+- [Dev.to/JS] [Eleventy Tutorial](https://dev.to/irishgeoff11/eleventy-tutorial-237b)
+- [Dev.to/JS] [Languages and Purpose](https://dev.to/m_xasanov_blog/languages-and-purpose-ij6)
 - [Dev.to/JS] [MailMug.net: A Powerful Email Testing and Debugging Tool](https://dev.to/arshidkv12/mailmugnet-a-powerful-email-testing-and-debugging-tool-4n2)
 - [Dev.to/JS] [#LearnedToday: image of code snippets](https://dev.to/danielzotti/learnedtoday-image-of-code-snippets-1pgn)
 - [Dev.to/JS] [ChatGPT.js Powerful Client side JavaScript Library For ChatGPT](https://dev.to/farhadi/chatgptjs-powerful-client-side-javascript-library-for-chatgpt-5aik)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimizing User Experience with useDebounce&lpar;&rpar; Hook](https://dev.to/shaancodes/optimizing-user-experience-with-usedebounce-hook-obc)
 - [Dev.to/JS] [Re-Exploring Reactivity and Introducing the Observer API and Reflex Functions](https://dev.to/oxharris/re-exploring-reactivity-and-introducing-the-observer-api-and-reflex-functions-4h70)
 - [Dev.to/JS] [How to Use JavaScript Dictionary Like a Pro](https://dev.to/onlinemsr/how-to-use-javascript-dictionary-like-a-pro-2h4l)
-- [Dev.to/JS] [Enhance Code Review Efficiency with Whispr AI: Your Trusty Assistant](https://dev.to/aiforme/enhance-code-review-efficiency-with-whispr-ai-your-trusty-assistant-k3h)
-- [Dev.to/JS] [Let&#39;s Talk About Node Packages](https://dev.to/lukeshiru/lets-talk-about-node-packages-21bh)
-- [Dev.to/JS] [Creating a To-Do App with React and Saving Data to Local Storage](https://dev.to/kiraaziz/creating-a-to-do-app-with-react-and-saving-data-to-local-storage-11dj)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are Grimace Shakes Killing People?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-grima-1850597126)
 - [Lifehacker] [TikTok Diet of the Week: the Mustard and Cottage Cheese Plate](https://lifehacker.com/tiktok-diet-of-the-week-the-mustard-and-cottage-cheese-1850597057)
 - [Lifehacker] [The Least Messy Way to Cut a Watermelon](https://lifehacker.com/the-least-messy-way-to-cut-a-watermelon-1850597009)
