@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ChatGPT.js Powerful Client side JavaScript Library For ChatGPT](https://dev.to/farhadi/chatgptjs-powerful-client-side-javascript-library-for-chatgpt-5aik)
+- [Dev.to/JS] [What are your favorite React libraries and tools?](https://dev.to/saiarlen/what-are-your-favorite-react-libraries-and-tools-3nlg)
 - [Dev.to/JS] [MJGS Newsletter - Offline in a Digital Asset Economy &lpar;Issue #121&rpar;](https://dev.to/mjgs/mjgs-newsletter-offline-in-a-digital-asset-economy-issue-121-35i6)
 - [Dev.to/JS] [10 Real-Life Examples Of String Conversion](https://dev.to/amoghavarsha/10-real-life-examples-of-string-conversion-42mh)
 - [Dev.to/JS] [Optimizing User Experience with useDebounce&lpar;&rpar; Hook](https://dev.to/shaancodes/optimizing-user-experience-with-usedebounce-hook-obc)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Higher-Order Components &lpar;HOC&rpar; in React, for beginners](https://dev.to/jeetvora331/higher-order-components-hoc-in-react-for-beginners-41e4)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are Grimace Shakes Killing People?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-grima-1850597126)
 - [Lifehacker] [TikTok Diet of the Week: the Mustard and Cottage Cheese Plate](https://lifehacker.com/tiktok-diet-of-the-week-the-mustard-and-cottage-cheese-1850597057)
-- [Dev.to/JS] [Manipulating Objects and Arrays](https://dev.to/nasthia861/manipulating-objects-and-array-594b)
 - [Lifehacker] [The Least Messy Way to Cut a Watermelon](https://lifehacker.com/the-least-messy-way-to-cut-a-watermelon-1850597009)
-- [Dev.to/JS] [How to Dockerize a Next.js Application Using Docker for Beginners](https://dev.to/markusmp/how-to-dockerize-a-nextjs-application-using-docker-for-beginners-5hi8)
 - [Lifehacker] [What the Supreme Court’s Student Debt Ruling Means for You](https://lifehacker.com/what-the-supreme-court-s-student-debt-ruling-means-for-1850596926)
 - [Lifehacker] [Make Superb Pickles by Burying Them in Rice Bran](https://lifehacker.com/make-superb-pickles-by-burying-them-in-rice-bran-1850593204)
 - [Lifehacker] [Your S&#39;mores Are Begging for Bacon](https://lifehacker.com/your-smores-are-begging-for-bacon-1850596330)
