@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Access Firebase From AWS Lambda](https://dev.to/mohammadfaisal/how-to-access-firebase-from-aws-lambda-n49)
+- [Dev.to/JS] [Cookies vs LocalStorage Vs SessionStorage](https://dev.to/gaurbprajapati/cookies-vs-localstorage-vs-sessionstorage-4p6l)
 - [Dev.to/JS] [HTC U Series: Unleash Your Imagination with HTC](https://dev.to/mazhar_qay98257/htc-u-series-unleash-your-imagination-with-htc-apm)
 - [Dev.to/JS] [A JavaScript/React Developer’s Guide to Building WordPress Themes from Scratch &lpar;Including Boilerplate Code&rpar;](https://dev.to/anvilicious/a-javascriptreact-developers-guide-to-building-wordpress-themes-from-scratch-including-boilerplate-code-2e1g)
 - [Dev.to/JS] [Boost Your JavaScript Skills with These 5 Must-Know Shorthands and Tricks](https://dev.to/itsvinayak/boost-your-javascript-skills-with-these-5-must-know-shorthands-and-tricks-52af)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [desplegar un sitio web estático utilizando Netlify](https://dev.to/irishgeoff11/desplegar-un-sitio-web-estatico-utilizando-netlify-11g8)
 - [Dev.to/JS] [Embrace the Power of the Cloud: Deploying a MERN Stack Application with Vercel](https://dev.to/naveenbantu/embrace-the-power-of-the-cloud-deploying-a-mern-stack-application-with-vercel-2gob)
 - [Dev.to/JS] [Never Worry About Project Dependencies: A Comprehensive Guide to package.json and package-lock.json](https://dev.to/msn2106/never-worry-about-project-dependencies-a-comprehensive-guide-to-packagejson-and-package-lockjson-f6i)
-- [Dev.to/JS] [Web Development: The Month in Review - Trends, Releases, and More](https://dev.to/anishroy/web-development-the-month-in-review-trends-releases-and-more-2kmj)
 - [Lifehacker] [When It Makes Sense to Rent an Electric Vehicle for a Road Trip](https://lifehacker.com/when-it-makes-sense-to-rent-an-electric-vehicle-for-a-r-1850593978)
-- [Dev.to/JS] [This new HTML attribute will help you with loading states](https://dev.to/bdbch/this-new-html-attribute-will-help-you-with-loading-states-3c93)
 - [Lifehacker] [The Best and Worst Times to Drive Fourth of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-fourth-of-july-weeken-1850593988)
 - [Lifehacker] [Here Are the Best Early Prime Day Deals on Kitchen Essentials](https://lifehacker.com/here-are-the-best-early-prime-day-deals-on-kitchen-esse-1850592785)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are Grimace Shakes Killing People?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-grima-1850597126)
