@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best &lpar;and Worst&rpar; Places to Put Your Air Purifier](https://lifehacker.com/the-best-and-worst-places-to-put-your-air-purifier-1850593972)
+- [Dev.to/JS] [JavaScript Cheat Sheet For Noobs 📝🚀](https://dev.to/akashpattnaik/javascript-cheat-sheet-for-noobs-42ij)
 - [Dev.to/JS] [desplegar un sitio web estático utilizando Netlify](https://dev.to/irishgeoff11/desplegar-un-sitio-web-estatico-utilizando-netlify-11g8)
 - [Dev.to/JS] [Embrace the Power of the Cloud: Deploying a MERN Stack Application with Vercel](https://dev.to/naveenbantu/embrace-the-power-of-the-cloud-deploying-a-mern-stack-application-with-vercel-2gob)
 - [Dev.to/JS] [Never Worry About Project Dependencies: A Comprehensive Guide to package.json and package-lock.json](https://dev.to/msn2106/never-worry-about-project-dependencies-a-comprehensive-guide-to-packagejson-and-package-lockjson-f6i)
@@ -33,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Supercharge your Coding Potential with Codehub](https://dev.to/aiforme/supercharge-your-coding-potential-with-codehub-2djp)
 - [Lifehacker] [The Best and Worst Times to Drive Fourth of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-fourth-of-july-weeken-1850593988)
 - [Dev.to/JS] [How to Fetch Data using the provideHttpClient in Angular](https://dev.to/this-is-angular/how-to-fetch-data-using-the-providehttpclient-in-angular-5h47)
-- [Dev.to/JS] [Web Dev Mentors](https://dev.to/ata5597/web-dev-mentors-486d)
 - [Lifehacker] [Here Are the Best Early Prime Day Deals on Kitchen Essentials](https://lifehacker.com/here-are-the-best-early-prime-day-deals-on-kitchen-esse-1850592785)
 - [Dev.to/JS] [Prettier and how to get most out of it](https://dev.to/withtoms/prettier-and-how-to-get-most-out-of-it-2d46)
 - [Dev.to/JS] [Angular is getting New Template Syntax](https://dev.to/this-is-angular/angular-is-getting-new-template-syntax-4naf)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Death to Watery Coleslaw](https://lifehacker.com/death-to-watery-coleslaw-1850592131)
 - [Lifehacker] [Is Your Job Toxic &lpar;or Do You Just Hate It&rpar;?](https://lifehacker.com/is-your-job-toxic-or-do-you-just-hate-it-1850591531)
 - [Lifehacker] [When to Worry About Exposed Brick Walls](https://lifehacker.com/when-to-worry-about-exposed-brick-walls-1850591401)
-- [Lifehacker] [Get This Windows 11 Pro Bundle for 85% Off Right Now](https://lifehacker.com/get-this-windows-11-pro-bundle-for-85-off-right-now-1850584532)
-- [Lifehacker] [The Best Way to Respond to a Poor Performance Review](https://lifehacker.com/the-best-way-to-respond-to-a-poor-performance-review-1850591233)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Get This Windows 11 Pro Bundle for 85% Off Right Now](https://lifehacker.com/get-this-windows-11-pro-bundle-for-85-off-right-now-1850584532)<!-- TECH-POSTS:END -->
 
 ---
 
