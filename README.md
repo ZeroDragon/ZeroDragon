@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HTC U Series: Unleash Your Imagination with HTC](https://dev.to/mazhar_qay98257/htc-u-series-unleash-your-imagination-with-htc-apm)
+- [Dev.to/JS] [A JavaScript/React Developer’s Guide to Building WordPress Themes from Scratch &lpar;Including Boilerplate Code&rpar;](https://dev.to/anvilicious/a-javascriptreact-developers-guide-to-building-wordpress-themes-from-scratch-including-boilerplate-code-2e1g)
+- [Dev.to/JS] [Boost Your JavaScript Skills with These 5 Must-Know Shorthands and Tricks](https://dev.to/itsvinayak/boost-your-javascript-skills-with-these-5-must-know-shorthands-and-tricks-52af)
 - [Dev.to/JS] [Checking In: Writing for a Week](https://dev.to/builditdeploy/checking-in-writing-for-a-week-2358)
 - [Dev.to/JS] [Hosting Games with Express.js and Socket.io](https://dev.to/vulcanwm/hosting-games-with-expressjs-and-socketio-8nf)
 - [Dev.to/JS] [Debounce vs. Throttle: Decoding the Duel](https://dev.to/arulvalananto/debounce-vs-throttle-decoding-the-duel-2b9c)
@@ -34,10 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web Development: The Month in Review - Trends, Releases, and More](https://dev.to/anishroy/web-development-the-month-in-review-trends-releases-and-more-2kmj)
 - [Lifehacker] [When It Makes Sense to Rent an Electric Vehicle for a Road Trip](https://lifehacker.com/when-it-makes-sense-to-rent-an-electric-vehicle-for-a-r-1850593978)
 - [Dev.to/JS] [This new HTML attribute will help you with loading states](https://dev.to/bdbch/this-new-html-attribute-will-help-you-with-loading-states-3c93)
-- [Dev.to/JS] [Cample.js benchmark &lpar;js-framework-benchmark&rpar;](https://dev.to/antonmak1/camplejs-benchmark-js-framework-benchmark-4o5f)
-- [Dev.to/JS] [Supercharge your Coding Potential with Codehub](https://dev.to/aiforme/supercharge-your-coding-potential-with-codehub-2djp)
 - [Lifehacker] [The Best and Worst Times to Drive Fourth of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-fourth-of-july-weeken-1850593988)
-- [Dev.to/JS] [How to Fetch Data using the provideHttpClient in Angular](https://dev.to/this-is-angular/how-to-fetch-data-using-the-providehttpclient-in-angular-5h47)
 - [Lifehacker] [Here Are the Best Early Prime Day Deals on Kitchen Essentials](https://lifehacker.com/here-are-the-best-early-prime-day-deals-on-kitchen-esse-1850592785)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are Grimace Shakes Killing People?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-grima-1850597126)
 - [Lifehacker] [TikTok Diet of the Week: the Mustard and Cottage Cheese Plate](https://lifehacker.com/tiktok-diet-of-the-week-the-mustard-and-cottage-cheese-1850597057)
