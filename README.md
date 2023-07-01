@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best and Worst Times to Drive Fourth of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-fourth-of-july-weeken-1850593988)
+- [Dev.to/JS] [How to Fetch Data using the provideHttpClient in Angular](https://dev.to/this-is-angular/how-to-fetch-data-using-the-providehttpclient-in-angular-5h47)
+- [Dev.to/JS] [Web Dev Mentors](https://dev.to/ata5597/web-dev-mentors-486d)
 - [Lifehacker] [Here Are the Best Early Prime Day Deals on Kitchen Essentials](https://lifehacker.com/here-are-the-best-early-prime-day-deals-on-kitchen-esse-1850592785)
 - [Dev.to/JS] [Prettier and how to get most out of it](https://dev.to/withtoms/prettier-and-how-to-get-most-out-of-it-2d46)
 - [Dev.to/JS] [Angular is getting New Template Syntax](https://dev.to/this-is-angular/angular-is-getting-new-template-syntax-4naf)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ChatGPT.js Powerful Client side JavaScript Library For ChatGPT](https://dev.to/farhadi/chatgptjs-powerful-client-side-javascript-library-for-chatgpt-5aik)
 - [Dev.to/JS] [What are your favorite React libraries and tools?](https://dev.to/saiarlen/what-are-your-favorite-react-libraries-and-tools-3nlg)
 - [Dev.to/JS] [MJGS Newsletter - Offline in a Digital Asset Economy &lpar;Issue #121&rpar;](https://dev.to/mjgs/mjgs-newsletter-offline-in-a-digital-asset-economy-issue-121-35i6)
-- [Dev.to/JS] [10 Real-Life Examples Of String Conversion](https://dev.to/amoghavarsha/10-real-life-examples-of-string-conversion-42mh)
-- [Dev.to/JS] [Optimizing User Experience with useDebounce&lpar;&rpar; Hook](https://dev.to/shaancodes/optimizing-user-experience-with-usedebounce-hook-obc)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are Grimace Shakes Killing People?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-grima-1850597126)
 - [Lifehacker] [TikTok Diet of the Week: the Mustard and Cottage Cheese Plate](https://lifehacker.com/tiktok-diet-of-the-week-the-mustard-and-cottage-cheese-1850597057)
 - [Lifehacker] [The Least Messy Way to Cut a Watermelon](https://lifehacker.com/the-least-messy-way-to-cut-a-watermelon-1850597009)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to Worry About Exposed Brick Walls](https://lifehacker.com/when-to-worry-about-exposed-brick-walls-1850591401)
 - [Lifehacker] [Get This Windows 11 Pro Bundle for 85% Off Right Now](https://lifehacker.com/get-this-windows-11-pro-bundle-for-85-off-right-now-1850584532)
 - [Lifehacker] [The Best Way to Respond to a Poor Performance Review](https://lifehacker.com/the-best-way-to-respond-to-a-poor-performance-review-1850591233)
-- [Lifehacker] [Don’t Ask a Flight Attendant to Lift Your Luggage, and Other Things They Wish You Knew](https://lifehacker.com/don-t-ask-a-flight-attendant-to-lift-your-luggage-and-1850586514)
-- [Lifehacker] [20 Shows You&#39;ll Love If You Watch &#39;Black Mirror&#39;](https://lifehacker.com/20-shows-youll-love-if-you-watch-black-mirror-1850575004)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Ask a Flight Attendant to Lift Your Luggage, and Other Things They Wish You Knew](https://lifehacker.com/don-t-ask-a-flight-attendant-to-lift-your-luggage-and-1850586514)<!-- TECH-POSTS:END -->
 
 ---
 
