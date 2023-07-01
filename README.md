@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Project - MMO Games](https://dev.to/renardo1985/project-mmo-games-2h6j)
+- [Dev.to/JS] [Higher-Order Components &lpar;HOC&rpar; in React, for beginners](https://dev.to/jeetvora331/higher-order-components-hoc-in-react-for-beginners-41e4)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are Grimace Shakes Killing People?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-grima-1850597126)
 - [Lifehacker] [TikTok Diet of the Week: the Mustard and Cottage Cheese Plate](https://lifehacker.com/tiktok-diet-of-the-week-the-mustard-and-cottage-cheese-1850597057)
 - [Dev.to/JS] [Manipulating Objects and Arrays](https://dev.to/nasthia861/manipulating-objects-and-array-594b)
@@ -42,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JAVASCRIPT INTRO FOR BEGINNERS](https://dev.to/dhebbythenerd/javascript-intro-for-beginners-514p)
 - [Lifehacker] [How to Actually Get an Abortion in the US](https://lifehacker.com/how-to-actually-get-an-abortion-in-the-us-1850537360)
 - [Lifehacker] [You Should Replace Windows 11&#39;s File Explorer With the Files App](https://lifehacker.com/you-should-replace-windows-11s-file-explorer-with-the-f-1850594433)
-- [Dev.to/JS] [Create an icon component from a SVG icon](https://dev.to/dimaslz/create-an-icon-component-from-a-svg-icon-2n0o)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in July 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-july-2023-1850595576)
-- [Dev.to/JS] [Debugger vs console.log](https://dev.to/ulisesserranop/debugger-vs-consolelog-1jme)
 - [Lifehacker] [13 Anti-Patriotic Movies If You Aren’t Feeling the Fourth of July](https://lifehacker.com/13-anti-patriotic-movies-if-you-aren-t-feeling-the-four-1850594352)
 - [Lifehacker] [What You Should Know Before You Buy a Tiny Home Kit](https://lifehacker.com/what-you-should-know-before-you-buy-a-tiny-home-kit-1850594127)
 - [Lifehacker] [Eight of the Best Kid-Friendly Fireworks Alternatives &lpar;and Two Terrible Ideas&rpar;](https://lifehacker.com/eight-of-the-best-kid-friendly-fireworks-alternatives-1850593183)
