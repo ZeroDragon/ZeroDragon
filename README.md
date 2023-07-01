@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular is getting New Template Syntax](https://dev.to/this-is-angular/angular-is-getting-new-template-syntax-4naf)
 - [Dev.to/JS] [Frontend Roadmap](https://dev.to/m_xasanov_blog/frontend-roadmap-4d68)
 - [Dev.to/JS] [Eleventy Tutorial](https://dev.to/irishgeoff11/eleventy-tutorial-237b)
 - [Dev.to/JS] [Languages and Purpose](https://dev.to/m_xasanov_blog/languages-and-purpose-ij6)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Real-Life Examples Of String Conversion](https://dev.to/amoghavarsha/10-real-life-examples-of-string-conversion-42mh)
 - [Dev.to/JS] [Optimizing User Experience with useDebounce&lpar;&rpar; Hook](https://dev.to/shaancodes/optimizing-user-experience-with-usedebounce-hook-obc)
 - [Dev.to/JS] [Re-Exploring Reactivity and Introducing the Observer API and Reflex Functions](https://dev.to/oxharris/re-exploring-reactivity-and-introducing-the-observer-api-and-reflex-functions-4h70)
-- [Dev.to/JS] [How to Use JavaScript Dictionary Like a Pro](https://dev.to/onlinemsr/how-to-use-javascript-dictionary-like-a-pro-2h4l)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are Grimace Shakes Killing People?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-grima-1850597126)
 - [Lifehacker] [TikTok Diet of the Week: the Mustard and Cottage Cheese Plate](https://lifehacker.com/tiktok-diet-of-the-week-the-mustard-and-cottage-cheese-1850597057)
 - [Lifehacker] [The Least Messy Way to Cut a Watermelon](https://lifehacker.com/the-least-messy-way-to-cut-a-watermelon-1850597009)
