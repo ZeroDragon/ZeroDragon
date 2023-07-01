@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When It Makes Sense to Rent an Electric Vehicle for a Road Trip](https://lifehacker.com/when-it-makes-sense-to-rent-an-electric-vehicle-for-a-r-1850593978)
+- [Dev.to/JS] [Cample.js benchmark &lpar;js-framework-benchmark&rpar;](https://dev.to/antonmak1/camplejs-benchmark-js-framework-benchmark-4o5f)
 - [Dev.to/JS] [Supercharge your Coding Potential with Codehub](https://dev.to/aiforme/supercharge-your-coding-potential-with-codehub-2djp)
 - [Lifehacker] [The Best and Worst Times to Drive Fourth of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-fourth-of-july-weeken-1850593988)
 - [Dev.to/JS] [How to Fetch Data using the provideHttpClient in Angular](https://dev.to/this-is-angular/how-to-fetch-data-using-the-providehttpclient-in-angular-5h47)
@@ -36,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MailMug.net: A Powerful Email Testing and Debugging Tool](https://dev.to/arshidkv12/mailmugnet-a-powerful-email-testing-and-debugging-tool-4n2)
 - [Dev.to/JS] [#LearnedToday: image of code snippets](https://dev.to/danielzotti/learnedtoday-image-of-code-snippets-1pgn)
 - [Dev.to/JS] [ChatGPT.js Powerful Client side JavaScript Library For ChatGPT](https://dev.to/farhadi/chatgptjs-powerful-client-side-javascript-library-for-chatgpt-5aik)
-- [Dev.to/JS] [What are your favorite React libraries and tools?](https://dev.to/saiarlen/what-are-your-favorite-react-libraries-and-tools-3nlg)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are Grimace Shakes Killing People?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-grima-1850597126)
 - [Lifehacker] [TikTok Diet of the Week: the Mustard and Cottage Cheese Plate](https://lifehacker.com/tiktok-diet-of-the-week-the-mustard-and-cottage-cheese-1850597057)
 - [Lifehacker] [The Least Messy Way to Cut a Watermelon](https://lifehacker.com/the-least-messy-way-to-cut-a-watermelon-1850597009)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is Your Job Toxic &lpar;or Do You Just Hate It&rpar;?](https://lifehacker.com/is-your-job-toxic-or-do-you-just-hate-it-1850591531)
 - [Lifehacker] [When to Worry About Exposed Brick Walls](https://lifehacker.com/when-to-worry-about-exposed-brick-walls-1850591401)
 - [Lifehacker] [Get This Windows 11 Pro Bundle for 85% Off Right Now](https://lifehacker.com/get-this-windows-11-pro-bundle-for-85-off-right-now-1850584532)
-- [Lifehacker] [The Best Way to Respond to a Poor Performance Review](https://lifehacker.com/the-best-way-to-respond-to-a-poor-performance-review-1850591233)
-- [Lifehacker] [Don’t Ask a Flight Attendant to Lift Your Luggage, and Other Things They Wish You Knew](https://lifehacker.com/don-t-ask-a-flight-attendant-to-lift-your-luggage-and-1850586514)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Respond to a Poor Performance Review](https://lifehacker.com/the-best-way-to-respond-to-a-poor-performance-review-1850591233)<!-- TECH-POSTS:END -->
 
 ---
 
