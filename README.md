@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hosting Games with Express.js and Socket.io](https://dev.to/vulcanwm/hosting-games-with-expressjs-and-socketio-8nf)
+- [Dev.to/JS] [Debounce vs. Throttle: Decoding the Duel](https://dev.to/arulvalananto/debounce-vs-throttle-decoding-the-duel-2b9c)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Places to Put Your Air Purifier](https://lifehacker.com/the-best-and-worst-places-to-put-your-air-purifier-1850593972)
 - [Dev.to/JS] [JavaScript Cheat Sheet For Noobs 📝🚀](https://dev.to/akashpattnaik/javascript-cheat-sheet-for-noobs-42ij)
 - [Dev.to/JS] [desplegar un sitio web estático utilizando Netlify](https://dev.to/irishgeoff11/desplegar-un-sitio-web-estatico-utilizando-netlify-11g8)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Fetch Data using the provideHttpClient in Angular](https://dev.to/this-is-angular/how-to-fetch-data-using-the-providehttpclient-in-angular-5h47)
 - [Lifehacker] [Here Are the Best Early Prime Day Deals on Kitchen Essentials](https://lifehacker.com/here-are-the-best-early-prime-day-deals-on-kitchen-esse-1850592785)
 - [Dev.to/JS] [Prettier and how to get most out of it](https://dev.to/withtoms/prettier-and-how-to-get-most-out-of-it-2d46)
-- [Dev.to/JS] [Angular is getting New Template Syntax](https://dev.to/this-is-angular/angular-is-getting-new-template-syntax-4naf)
-- [Dev.to/JS] [Frontend Roadmap](https://dev.to/m_xasanov_blog/frontend-roadmap-4d68)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are Grimace Shakes Killing People?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-grima-1850597126)
 - [Lifehacker] [TikTok Diet of the Week: the Mustard and Cottage Cheese Plate](https://lifehacker.com/tiktok-diet-of-the-week-the-mustard-and-cottage-cheese-1850597057)
 - [Lifehacker] [The Least Messy Way to Cut a Watermelon](https://lifehacker.com/the-least-messy-way-to-cut-a-watermelon-1850597009)
