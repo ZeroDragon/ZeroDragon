@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a To-Do App with React and Saving Data to Local Storage](https://dev.to/kiraaziz/creating-a-to-do-app-with-react-and-saving-data-to-local-storage-11dj)
 - [Dev.to/JS] [Project - MMO Games](https://dev.to/renardo1985/project-mmo-games-2h6j)
 - [Dev.to/JS] [Higher-Order Components &lpar;HOC&rpar; in React, for beginners](https://dev.to/jeetvora331/higher-order-components-hoc-in-react-for-beginners-41e4)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are Grimace Shakes Killing People?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-grima-1850597126)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fancy Fun w/ Functional Decorators](https://dev.to/synthetic_rain/fancy-fun-w-functional-decorators-2h9h)
 - [Lifehacker] [Talk to Your Kids About Your Estate Plan Now &lpar;and How to Do It&rpar;](https://lifehacker.com/talk-to-your-kids-about-your-estate-plan-now-and-how-t-1850586552)
 - [Dev.to/JS] [6 Webpack Concepts for Advanced React Developers](https://dev.to/mohammadfaisal/6-webpack-concepts-for-advanced-react-developers-2b8o)
-- [Dev.to/JS] [JAVASCRIPT INTRO FOR BEGINNERS](https://dev.to/dhebbythenerd/javascript-intro-for-beginners-514p)
 - [Lifehacker] [How to Actually Get an Abortion in the US](https://lifehacker.com/how-to-actually-get-an-abortion-in-the-us-1850537360)
 - [Lifehacker] [You Should Replace Windows 11&#39;s File Explorer With the Files App](https://lifehacker.com/you-should-replace-windows-11s-file-explorer-with-the-f-1850594433)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in July 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-july-2023-1850595576)
