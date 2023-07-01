@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Supercharge your Coding Potential with Codehub](https://dev.to/aiforme/supercharge-your-coding-potential-with-codehub-2djp)
 - [Lifehacker] [The Best and Worst Times to Drive Fourth of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-fourth-of-july-weeken-1850593988)
 - [Dev.to/JS] [How to Fetch Data using the provideHttpClient in Angular](https://dev.to/this-is-angular/how-to-fetch-data-using-the-providehttpclient-in-angular-5h47)
 - [Dev.to/JS] [Web Dev Mentors](https://dev.to/ata5597/web-dev-mentors-486d)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#LearnedToday: image of code snippets](https://dev.to/danielzotti/learnedtoday-image-of-code-snippets-1pgn)
 - [Dev.to/JS] [ChatGPT.js Powerful Client side JavaScript Library For ChatGPT](https://dev.to/farhadi/chatgptjs-powerful-client-side-javascript-library-for-chatgpt-5aik)
 - [Dev.to/JS] [What are your favorite React libraries and tools?](https://dev.to/saiarlen/what-are-your-favorite-react-libraries-and-tools-3nlg)
-- [Dev.to/JS] [MJGS Newsletter - Offline in a Digital Asset Economy &lpar;Issue #121&rpar;](https://dev.to/mjgs/mjgs-newsletter-offline-in-a-digital-asset-economy-issue-121-35i6)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are Grimace Shakes Killing People?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-grima-1850597126)
 - [Lifehacker] [TikTok Diet of the Week: the Mustard and Cottage Cheese Plate](https://lifehacker.com/tiktok-diet-of-the-week-the-mustard-and-cottage-cheese-1850597057)
 - [Lifehacker] [The Least Messy Way to Cut a Watermelon](https://lifehacker.com/the-least-messy-way-to-cut-a-watermelon-1850597009)
