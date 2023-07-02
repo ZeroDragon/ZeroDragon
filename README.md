@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Smartest Ways to Keep Sand From Sticking to You at the Beach](https://lifehacker.com/the-smartest-ways-to-keep-sand-from-sticking-to-you-at-1850593901)
+- [Dev.to/JS] [How to allow all domains for Image nextjs config?](https://dev.to/med_code/how-to-allow-all-domains-for-image-nextjs-config-5g7e)
+- [Dev.to/JS] [Formatting Numbers to Words with Commas Using Angular Pipes](https://dev.to/_incrediblemind/formatting-numbers-to-words-with-commas-using-angular-pipes-2gch)
 - [Dev.to/JS] [The Three.js Supremacy](https://dev.to/ayoub3bidi/the-threejs-supermacy-4a45)
 - [Dev.to/JS] [How to fetch data before rendering in React JS](https://dev.to/sergioholgado/how-to-fetch-data-before-rendering-in-react-js-3750)
 - [Dev.to/JS] [JavaScript Quiz #04 — JavaScript Operators and Precedence](https://dev.to/quizzes4u/javascript-quiz-04-javascript-operators-and-precedence-3cc3)
@@ -34,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring Algorithms for Arrays and Strings: Two Pointers, Sliding Window, and Prefix Sum](https://dev.to/maklut/exploring-algorithms-for-arrays-and-strings-two-pointers-sliding-window-and-prefix-sum-51f6)
 - [Dev.to/JS] [A Beginner&#39;s Guide to the Dalle-Mega Text-to-Image model](https://dev.to/mikeyoung44/a-beginners-guide-to-the-dalle-mega-text-to-image-model-1f6)
 - [Dev.to/JS] [Introduction to the project &lpar;Frontend&rpar;](https://dev.to/hokagedemehin/introduction-to-the-project-frontend-3pjo)
-- [Dev.to/JS] [Need help with a filter carousel.](https://dev.to/iwan/need-help-with-a-filter-carousel-2a21)
 - [Lifehacker] [You Should Stock Up on Forever Stamps Before July 9](https://lifehacker.com/you-should-stock-up-on-forever-stamps-before-july-9-1850593922)
-- [Dev.to/JS] [Implementing Authorization in 4 Node.js Frameworks](https://dev.to/permit_io/authorization-in-javascript-implementing-robust-security-with-nodejs-frameworks-kia)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Places to Put Your Air Purifier](https://lifehacker.com/the-best-and-worst-places-to-put-your-air-purifier-1850593972)
 - [Lifehacker] [When It Makes Sense to Rent an Electric Vehicle for a Road Trip](https://lifehacker.com/when-it-makes-sense-to-rent-an-electric-vehicle-for-a-r-1850593978)
 - [Lifehacker] [The Best and Worst Times to Drive Fourth of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-fourth-of-july-weeken-1850593988)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Ways to Not Blow Off Your Fingers This Fourth of July](https://lifehacker.com/10-ways-to-not-blow-off-your-fingers-this-fourth-of-jul-1850592369)
 - [Lifehacker] [Make Perfect Popsicles With Guar Gum](https://lifehacker.com/make-perfect-popsicles-with-guar-gum-1850591737)
 - [Lifehacker] [You Can Get a Babbel Lifetime Subscription for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-babbel-lifetime-subscription-for-over-50-1850589333)
-- [Lifehacker] [Death to Watery Coleslaw](https://lifehacker.com/death-to-watery-coleslaw-1850592131)
-- [Lifehacker] [Is Your Job Toxic &lpar;or Do You Just Hate It&rpar;?](https://lifehacker.com/is-your-job-toxic-or-do-you-just-hate-it-1850591531)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Death to Watery Coleslaw](https://lifehacker.com/death-to-watery-coleslaw-1850592131)<!-- TECH-POSTS:END -->
 
 ---
 
