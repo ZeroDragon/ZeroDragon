@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Quiz #05 — Type Conversion and Coercion](https://dev.to/quizzes4u/javascript-quiz-05-type-conversion-and-coercion-51bk)
+- [Dev.to/JS] [Web 3.0 and Governance: Empowering Decentralized Decision-Making](https://dev.to/luffy251/web-30-and-governance-empowering-decentralized-decision-making-23eh)
 - [Lifehacker] [The Smartest Ways to Keep Sand From Sticking to You at the Beach](https://lifehacker.com/the-smartest-ways-to-keep-sand-from-sticking-to-you-at-1850593901)
 - [Dev.to/JS] [How to allow all domains for Image nextjs config?](https://dev.to/med_code/how-to-allow-all-domains-for-image-nextjs-config-5g7e)
 - [Dev.to/JS] [Formatting Numbers to Words with Commas Using Angular Pipes](https://dev.to/_incrediblemind/formatting-numbers-to-words-with-commas-using-angular-pipes-2gch)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript for Beginners: A Complete Guide](https://dev.to/mrpriyanshu09/javascript-for-beginners-a-complete-guide-54m9)
 - [Dev.to/JS] [Blackbox AI: Streamlined Code Extraction and Auto-Completion for Developers](https://dev.to/aiforme/blackbox-ai-streamlined-code-extraction-and-auto-completion-for-developers-23fg)
 - [Dev.to/JS] [Exploring Algorithms for Arrays and Strings: Two Pointers, Sliding Window, and Prefix Sum](https://dev.to/maklut/exploring-algorithms-for-arrays-and-strings-two-pointers-sliding-window-and-prefix-sum-51f6)
-- [Dev.to/JS] [A Beginner&#39;s Guide to the Dalle-Mega Text-to-Image model](https://dev.to/mikeyoung44/a-beginners-guide-to-the-dalle-mega-text-to-image-model-1f6)
-- [Dev.to/JS] [Introduction to the project &lpar;Frontend&rpar;](https://dev.to/hokagedemehin/introduction-to-the-project-frontend-3pjo)
 - [Lifehacker] [You Should Stock Up on Forever Stamps Before July 9](https://lifehacker.com/you-should-stock-up-on-forever-stamps-before-july-9-1850593922)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Places to Put Your Air Purifier](https://lifehacker.com/the-best-and-worst-places-to-put-your-air-purifier-1850593972)
 - [Lifehacker] [When It Makes Sense to Rent an Electric Vehicle for a Road Trip](https://lifehacker.com/when-it-makes-sense-to-rent-an-electric-vehicle-for-a-r-1850593978)
