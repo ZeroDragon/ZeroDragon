@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use the useMemo &amp; useCallback hook](https://dev.to/markusmp/how-to-use-the-usememo-usecallback-hook-5a9h)
+- [Dev.to/JS] [Cypress Workshop Part 10: API, Working on different environments](https://dev.to/viktorijafilipov/cypress-workshop-part-10-api-working-on-different-environments-1k7f)
 - [Dev.to/JS] [Reto JS. Contenedores organizadores de bolas](https://dev.to/jorgeabad/reto-js-contenedores-organizadores-de-bolas-4i97)
 - [Dev.to/JS] [JavaScript Quiz #06 — Truthy and Falsy Values](https://dev.to/quizzes4u/javascript-quiz-06-truthy-and-falsy-values-5bcj)
 - [Dev.to/JS] [VanJS : Showing status while fetching data](https://dev.to/artydev/vanjs-showing-status-while-fetching-data-4oho)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Formatting Numbers to Words with Commas Using Angular Pipes](https://dev.to/_incrediblemind/formatting-numbers-to-words-with-commas-using-angular-pipes-2gch)
 - [Dev.to/JS] [The Three.js Supremacy](https://dev.to/ayoub3bidi/the-threejs-supermacy-4a45)
 - [Dev.to/JS] [How to fetch data before rendering in React JS](https://dev.to/sergioholgado/how-to-fetch-data-before-rendering-in-react-js-3750)
-- [Dev.to/JS] [JavaScript Quiz #04 — JavaScript Operators and Precedence](https://dev.to/quizzes4u/javascript-quiz-04-javascript-operators-and-precedence-3cc3)
-- [Dev.to/JS] [Crafting extensible components with React](https://dev.to/jssantana/crafting-extensible-components-with-react-3fjc)
 - [Lifehacker] [Four Ways to Get Amazon Credit to Spend on Prime Day](https://lifehacker.com/four-ways-to-get-amazon-credit-to-spend-on-prime-day-1850593913)
 - [Lifehacker] [You Should Stock Up on Forever Stamps Before July 9](https://lifehacker.com/you-should-stock-up-on-forever-stamps-before-july-9-1850593922)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Places to Put Your Air Purifier](https://lifehacker.com/the-best-and-worst-places-to-put-your-air-purifier-1850593972)
