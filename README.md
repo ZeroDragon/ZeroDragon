@@ -23,8 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Console Object #18](https://dev.to/sksage/javascript-console-object-18-13ck)
 - [Dev.to/JS] [Configuring Rewrites in Next.js](https://dev.to/daryllukas/configuring-rewrites-in-nextjs-470p)
-- [Dev.to/JS] [Understanding React&#39;s useState and useEffect Hooks](https://dev.to/pawankashap/understanding-reacts-usestate-and-useeffect-hooks-39mp)
+- [Dev.to/JS] [React&#39;s Hooks useState and useEffect](https://dev.to/pawankashap/understanding-reacts-usestate-and-useeffect-hooks-39mp)
 - [Dev.to/JS] [RoadMap para FullStack 2023](https://dev.to/vittor/roadmap-para-fullstack-2023-532l)
 - [Dev.to/JS] [Introducing Boxy: Your AI-Powered Coding Assistant for Contextual Optimisation](https://dev.to/aiforme/introducing-boxy-your-ai-powered-coding-assistant-for-contextual-optimisation-1m49)
 - [Dev.to/JS] [Implementing Star Ratings in Google Search Results for Your Website](https://dev.to/sh20raj/implementing-star-ratings-in-google-search-results-for-your-website-4oam)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create Your Own Programming Language 8: Conditionals](https://dev.to/jasonsbarr/create-your-own-programming-language-8-conditionals-cnc)
 - [Dev.to/JS] [JavaScript to Python- a few differences in syntax](https://dev.to/megharrison92/javascript-to-python-a-few-differences-in-syntax-3ipg)
 - [Dev.to/JS] [How to port VS Code plugins to your favorite editor&lpar;e.g. Emacs&rpar;, with the example of Github Copilot Labs.](https://dev.to/haukot/how-to-use-vs-code-plugins-in-your-favorite-editoreg-emacs-with-the-example-of-github-copilot-labs-50pn)
-- [Dev.to/JS] [Mocking Your API&#39;s Calls Using Mocking Service Worker &lpar;MSW&rpar;](https://dev.to/kevin-uehara/mocking-your-apis-calls-using-mocking-service-worker-msw-7k6)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Places to Put Your Air Purifier](https://lifehacker.com/the-best-and-worst-places-to-put-your-air-purifier-1850593972)
 - [Lifehacker] [When It Makes Sense to Rent an Electric Vehicle for a Road Trip](https://lifehacker.com/when-it-makes-sense-to-rent-an-electric-vehicle-for-a-r-1850593978)
 - [Lifehacker] [The Best and Worst Times to Drive Fourth of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-fourth-of-july-weeken-1850593988)
