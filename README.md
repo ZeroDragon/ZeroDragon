@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Advanced NodeJS Techniques](https://dev.to/arulvalananto/5-advanced-nodejs-techniques-20k6)
+- [Dev.to/JS] [Tiinyhost Tutorial](https://dev.to/irishgeoff11/tiinyhost-tutorial-7fj)
+- [Dev.to/JS] [Throttle in JavaScript](https://dev.to/indracit/throttle-in-javascript-59n6)
+- [Dev.to/JS] [Memoization in JavaScript](https://dev.to/indracit/memoization-in-javascript-32o2)
 - [Dev.to/JS] [Create a static website](https://dev.to/irishgeoff11/create-a-static-website-2jd)
 - [Dev.to/JS] [Deploying a Static Front-End to AWS](https://dev.to/bangik/deploying-a-static-front-end-to-aws-b9o)
+- [Dev.to/JS] [JavaScript Quiz #03 — JavaScript Strings and Literals](https://dev.to/quizzes4u/javascript-quiz-03-javascript-strings-and-literals-339c)
 - [Dev.to/JS] [Debouncing in JavaScript](https://dev.to/indracit/debouncing-in-javascript-2am1)
 - [Dev.to/JS] [Five88 – Thiên đường giải trí nổi tiếng tại châu Á](https://dev.to/five88band/five88-thien-duong-giai-tri-noi-tieng-tai-chau-a-3h75)
 - [Dev.to/JS] [IIFE in JavaScript](https://dev.to/indracit/iife-in-javascript-28f5)
 - [Dev.to/JS] [Shallow Copy and Deep copy in JavaScript](https://dev.to/indracit/shallow-copy-and-deep-copy-in-javascript-389k)
 - [Dev.to/JS] [Currying in JavaScript](https://dev.to/indracit/currying-in-javascript-281a)
-- [Dev.to/JS] [Decorator in JavaScript](https://dev.to/indracit/decorator-in-javascript-4ifa)
-- [Dev.to/JS] [Looking for US Based Fully Remote Job?](https://dev.to/avinashvagh/looking-for-us-based-fully-remote-job-2jdl)
-- [Dev.to/JS] [Add JWPlayer to HTML5 Video Player ▶](https://dev.to/sh20raj/add-jwplayer-to-html5-video-player--4kmm)
-- [Dev.to/JS] [#LearnedToday: Omatsuri](https://dev.to/danielzotti/learnedtoday-omatsuri-5bb9)
-- [Dev.to/JS] [Important Lyrics](https://dev.to/damorhano/important-lyrics-5ek5)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Places to Put Your Air Purifier](https://lifehacker.com/the-best-and-worst-places-to-put-your-air-purifier-1850593972)
 - [Lifehacker] [When It Makes Sense to Rent an Electric Vehicle for a Road Trip](https://lifehacker.com/when-it-makes-sense-to-rent-an-electric-vehicle-for-a-r-1850593978)
 - [Lifehacker] [The Best and Worst Times to Drive Fourth of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-fourth-of-july-weeken-1850593988)
