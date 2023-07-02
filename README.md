@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Stock Up on Forever Stamps Before July 9](https://lifehacker.com/you-should-stock-up-on-forever-stamps-before-july-9-1850593922)
+- [Dev.to/JS] [Implementing Authorization in 4 Node.js Frameworks](https://dev.to/permit_io/authorization-in-javascript-implementing-robust-security-with-nodejs-frameworks-kia)
+- [Dev.to/JS] [Why Choose Node.js Over React.js: Mastering Node.js as Your First Step Towards Full-Stack Domination](https://dev.to/ayka_code/why-choose-nodejs-over-reactjs-mastering-nodejs-as-your-first-step-towards-full-stack-domination-111m)
+- [Dev.to/JS] [Maskito: a Holy Grail of input masking](https://dev.to/waterplea/maskito-a-holy-grail-of-input-masking-3gn4)
 - [Dev.to/JS] [5 Advanced NodeJS Techniques](https://dev.to/arulvalananto/5-advanced-nodejs-techniques-20k6)
 - [Dev.to/JS] [Tiinyhost Tutorial](https://dev.to/irishgeoff11/tiinyhost-tutorial-7fj)
 - [Dev.to/JS] [Throttle in JavaScript](https://dev.to/indracit/throttle-in-javascript-59n6)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Quiz #03 — JavaScript Strings and Literals](https://dev.to/quizzes4u/javascript-quiz-03-javascript-strings-and-literals-339c)
 - [Dev.to/JS] [Debouncing in JavaScript](https://dev.to/indracit/debouncing-in-javascript-2am1)
 - [Dev.to/JS] [Five88 – Thiên đường giải trí nổi tiếng tại châu Á](https://dev.to/five88band/five88-thien-duong-giai-tri-noi-tieng-tai-chau-a-3h75)
-- [Dev.to/JS] [IIFE in JavaScript](https://dev.to/indracit/iife-in-javascript-28f5)
-- [Dev.to/JS] [Shallow Copy and Deep copy in JavaScript](https://dev.to/indracit/shallow-copy-and-deep-copy-in-javascript-389k)
-- [Dev.to/JS] [Currying in JavaScript](https://dev.to/indracit/currying-in-javascript-281a)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Places to Put Your Air Purifier](https://lifehacker.com/the-best-and-worst-places-to-put-your-air-purifier-1850593972)
 - [Lifehacker] [When It Makes Sense to Rent an Electric Vehicle for a Road Trip](https://lifehacker.com/when-it-makes-sense-to-rent-an-electric-vehicle-for-a-r-1850593978)
 - [Lifehacker] [The Best and Worst Times to Drive Fourth of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-fourth-of-july-weeken-1850593988)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Babbel Lifetime Subscription for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-babbel-lifetime-subscription-for-over-50-1850589333)
 - [Lifehacker] [Death to Watery Coleslaw](https://lifehacker.com/death-to-watery-coleslaw-1850592131)
 - [Lifehacker] [Is Your Job Toxic &lpar;or Do You Just Hate It&rpar;?](https://lifehacker.com/is-your-job-toxic-or-do-you-just-hate-it-1850591531)
-- [Lifehacker] [When to Worry About Exposed Brick Walls](https://lifehacker.com/when-to-worry-about-exposed-brick-walls-1850591401)
-- [Lifehacker] [Get This Windows 11 Pro Bundle for 85% Off Right Now](https://lifehacker.com/get-this-windows-11-pro-bundle-for-85-off-right-now-1850584532)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When to Worry About Exposed Brick Walls](https://lifehacker.com/when-to-worry-about-exposed-brick-walls-1850591401)<!-- TECH-POSTS:END -->
 
 ---
 
