@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Four Ways to Get Amazon Credit to Spend on Prime Day](https://lifehacker.com/four-ways-to-get-amazon-credit-to-spend-on-prime-day-1850593913)
+- [Dev.to/JS] [Rin at Din: Pag-unawa sa Pagkakaiba at Paggamit ng mga Salitang Ito](https://dev.to/anoang/rin-at-din-pag-unawa-sa-pagkakaiba-at-paggamit-ng-mga-salitang-ito-3mgc)
+- [Dev.to/JS] [JavaScript for Beginners: A Complete Guide](https://dev.to/mrpriyanshu09/javascript-for-beginners-a-complete-guide-54m9)
+- [Dev.to/JS] [Blackbox AI: Streamlined Code Extraction and Auto-Completion for Developers](https://dev.to/aiforme/blackbox-ai-streamlined-code-extraction-and-auto-completion-for-developers-23fg)
 - [Dev.to/JS] [Exploring Algorithms for Arrays and Strings: Two Pointers, Sliding Window, and Prefix Sum](https://dev.to/maklut/exploring-algorithms-for-arrays-and-strings-two-pointers-sliding-window-and-prefix-sum-51f6)
 - [Dev.to/JS] [A Beginner&#39;s Guide to the Dalle-Mega Text-to-Image model](https://dev.to/mikeyoung44/a-beginners-guide-to-the-dalle-mega-text-to-image-model-1f6)
 - [Dev.to/JS] [Introduction to the project &lpar;Frontend&rpar;](https://dev.to/hokagedemehin/introduction-to-the-project-frontend-3pjo)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Maskito: a Holy Grail of input masking](https://dev.to/waterplea/maskito-a-holy-grail-of-input-masking-3gn4)
 - [Dev.to/JS] [5 Advanced NodeJS Techniques](https://dev.to/arulvalananto/5-advanced-nodejs-techniques-20k6)
 - [Dev.to/JS] [Tiinyhost Tutorial](https://dev.to/irishgeoff11/tiinyhost-tutorial-7fj)
-- [Dev.to/JS] [Throttle in JavaScript](https://dev.to/indracit/throttle-in-javascript-59n6)
-- [Dev.to/JS] [Memoization in JavaScript](https://dev.to/indracit/memoization-in-javascript-32o2)
-- [Dev.to/JS] [Create a static website](https://dev.to/irishgeoff11/create-a-static-website-2jd)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Places to Put Your Air Purifier](https://lifehacker.com/the-best-and-worst-places-to-put-your-air-purifier-1850593972)
 - [Lifehacker] [When It Makes Sense to Rent an Electric Vehicle for a Road Trip](https://lifehacker.com/when-it-makes-sense-to-rent-an-electric-vehicle-for-a-r-1850593978)
 - [Lifehacker] [The Best and Worst Times to Drive Fourth of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-fourth-of-july-weeken-1850593988)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Perfect Popsicles With Guar Gum](https://lifehacker.com/make-perfect-popsicles-with-guar-gum-1850591737)
 - [Lifehacker] [You Can Get a Babbel Lifetime Subscription for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-babbel-lifetime-subscription-for-over-50-1850589333)
 - [Lifehacker] [Death to Watery Coleslaw](https://lifehacker.com/death-to-watery-coleslaw-1850592131)
-- [Lifehacker] [Is Your Job Toxic &lpar;or Do You Just Hate It&rpar;?](https://lifehacker.com/is-your-job-toxic-or-do-you-just-hate-it-1850591531)
-- [Lifehacker] [When to Worry About Exposed Brick Walls](https://lifehacker.com/when-to-worry-about-exposed-brick-walls-1850591401)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Is Your Job Toxic &lpar;or Do You Just Hate It&rpar;?](https://lifehacker.com/is-your-job-toxic-or-do-you-just-hate-it-1850591531)<!-- TECH-POSTS:END -->
 
 ---
 
