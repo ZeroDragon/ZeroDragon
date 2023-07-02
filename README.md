@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring Algorithms for Arrays and Strings: Two Pointers, Sliding Window, and Prefix Sum](https://dev.to/maklut/exploring-algorithms-for-arrays-and-strings-two-pointers-sliding-window-and-prefix-sum-51f6)
+- [Dev.to/JS] [A Beginner&#39;s Guide to the Dalle-Mega Text-to-Image model](https://dev.to/mikeyoung44/a-beginners-guide-to-the-dalle-mega-text-to-image-model-1f6)
+- [Dev.to/JS] [Introduction to the project &lpar;Frontend&rpar;](https://dev.to/hokagedemehin/introduction-to-the-project-frontend-3pjo)
+- [Dev.to/JS] [Need help with a filter carousel.](https://dev.to/iwan/need-help-with-a-filter-carousel-2a21)
 - [Lifehacker] [You Should Stock Up on Forever Stamps Before July 9](https://lifehacker.com/you-should-stock-up-on-forever-stamps-before-july-9-1850593922)
 - [Dev.to/JS] [Implementing Authorization in 4 Node.js Frameworks](https://dev.to/permit_io/authorization-in-javascript-implementing-robust-security-with-nodejs-frameworks-kia)
 - [Dev.to/JS] [Why Choose Node.js Over React.js: Mastering Node.js as Your First Step Towards Full-Stack Domination](https://dev.to/ayka_code/why-choose-nodejs-over-reactjs-mastering-nodejs-as-your-first-step-towards-full-stack-domination-111m)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Throttle in JavaScript](https://dev.to/indracit/throttle-in-javascript-59n6)
 - [Dev.to/JS] [Memoization in JavaScript](https://dev.to/indracit/memoization-in-javascript-32o2)
 - [Dev.to/JS] [Create a static website](https://dev.to/irishgeoff11/create-a-static-website-2jd)
-- [Dev.to/JS] [Deploying a Static Front-End to AWS](https://dev.to/bangik/deploying-a-static-front-end-to-aws-b9o)
-- [Dev.to/JS] [JavaScript Quiz #03 — JavaScript Strings and Literals](https://dev.to/quizzes4u/javascript-quiz-03-javascript-strings-and-literals-339c)
-- [Dev.to/JS] [Debouncing in JavaScript](https://dev.to/indracit/debouncing-in-javascript-2am1)
-- [Dev.to/JS] [Five88 – Thiên đường giải trí nổi tiếng tại châu Á](https://dev.to/five88band/five88-thien-duong-giai-tri-noi-tieng-tai-chau-a-3h75)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Places to Put Your Air Purifier](https://lifehacker.com/the-best-and-worst-places-to-put-your-air-purifier-1850593972)
 - [Lifehacker] [When It Makes Sense to Rent an Electric Vehicle for a Road Trip](https://lifehacker.com/when-it-makes-sense-to-rent-an-electric-vehicle-for-a-r-1850593978)
 - [Lifehacker] [The Best and Worst Times to Drive Fourth of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-fourth-of-july-weeken-1850593988)
