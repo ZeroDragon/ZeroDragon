@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React.js State vs. JS Context: Dynamically Controlling Components in React.js](https://dev.to/brythewiseguy/reactjs-state-vs-js-context-dynamically-controlling-components-in-reactjs-4h1h)
+- [Dev.to/JS] [Create Your Own Programming Language 8: Conditionals](https://dev.to/jasonsbarr/create-your-own-programming-language-8-conditionals-cnc)
 - [Dev.to/JS] [JavaScript to Python- a few differences in syntax](https://dev.to/megharrison92/javascript-to-python-a-few-differences-in-syntax-3ipg)
 - [Dev.to/JS] [How to port VS Code plugins to your favorite editor&lpar;e.g. Emacs&rpar;, with the example of Github Copilot Labs.](https://dev.to/haukot/how-to-use-vs-code-plugins-in-your-favorite-editoreg-emacs-with-the-example-of-github-copilot-labs-50pn)
 - [Dev.to/JS] [Mocking Your API&#39;s Calls Using Mocking Service Worker &lpar;MSW&rpar;](https://dev.to/kevin-uehara/mocking-your-apis-calls-using-mocking-service-worker-msw-7k6)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Boost Your JavaScript Skills with These 5 Must-Know Shorthands and Tricks](https://dev.to/itsvinayak/boost-your-javascript-skills-with-these-5-must-know-shorthands-and-tricks-52af)
 - [Dev.to/JS] [Checking In: Writing for a Week](https://dev.to/builditdeploy/checking-in-writing-for-a-week-2358)
 - [Dev.to/JS] [Hosting Games with Express.js and Socket.io](https://dev.to/vulcanwm/hosting-games-with-expressjs-and-socketio-8nf)
-- [Dev.to/JS] [Debounce vs. Throttle: Decoding the Duel](https://dev.to/arulvalananto/debounce-vs-throttle-decoding-the-duel-2b9c)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Places to Put Your Air Purifier](https://lifehacker.com/the-best-and-worst-places-to-put-your-air-purifier-1850593972)
-- [Dev.to/JS] [JavaScript Cheat Sheet For Noobs 📝🚀](https://dev.to/akashpattnaik/javascript-cheat-sheet-for-noobs-42ij)
 - [Lifehacker] [When It Makes Sense to Rent an Electric Vehicle for a Road Trip](https://lifehacker.com/when-it-makes-sense-to-rent-an-electric-vehicle-for-a-r-1850593978)
 - [Lifehacker] [The Best and Worst Times to Drive Fourth of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-fourth-of-july-weeken-1850593988)
 - [Lifehacker] [Here Are the Best Early Prime Day Deals on Kitchen Essentials](https://lifehacker.com/here-are-the-best-early-prime-day-deals-on-kitchen-esse-1850592785)
