@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Humanity Lyrics](https://dev.to/damorhano/humanity-lyrics-2pib)
 - [Dev.to/JS] [Công ty giải trí Ae888](https://dev.to/ae888ac/cong-ty-giai-tri-ae888-1178)
 - [Dev.to/JS] [JavaScript Console Object #18](https://dev.to/sksage/javascript-console-object-18-13ck)
 - [Dev.to/JS] [Configuring Rewrites in Next.js](https://dev.to/daryllukas/configuring-rewrites-in-nextjs-470p)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Clases en JavaScript](https://dev.to/ulisesserranop/clases-en-javascript-371p)
 - [Dev.to/JS] [React.js State vs. JS Context: Dynamically Controlling Components in React.js](https://dev.to/brythewiseguy/reactjs-state-vs-js-context-dynamically-controlling-components-in-reactjs-4h1h)
 - [Dev.to/JS] [Create Your Own Programming Language 8: Conditionals](https://dev.to/jasonsbarr/create-your-own-programming-language-8-conditionals-cnc)
-- [Dev.to/JS] [JavaScript to Python- a few differences in syntax](https://dev.to/megharrison92/javascript-to-python-a-few-differences-in-syntax-3ipg)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Places to Put Your Air Purifier](https://lifehacker.com/the-best-and-worst-places-to-put-your-air-purifier-1850593972)
 - [Lifehacker] [When It Makes Sense to Rent an Electric Vehicle for a Road Trip](https://lifehacker.com/when-it-makes-sense-to-rent-an-electric-vehicle-for-a-r-1850593978)
 - [Lifehacker] [The Best and Worst Times to Drive Fourth of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-fourth-of-july-weeken-1850593988)
