@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React hooks: useState&lpar;&rpar;](https://dev.to/jdenzel/react-hooks-usestate-36hc)
 - [Dev.to/JS] [FTA: Fast TypeScript Analyzer](https://dev.to/sgb/fta-fast-typescript-analyzer-5ced)
 - [Dev.to/JS] [Cypress Workshop Part 11: Reporting - Qase, Github Actions](https://dev.to/viktorijafilipov/cypress-workshop-part-11-reporting-qase-github-actions-dbi)
 - [Dev.to/JS] [How to use the useMemo &amp; useCallback React hook](https://dev.to/markusmp/how-to-use-the-usememo-usecallback-hook-5a9h)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web 3.0 and Governance: Empowering Decentralized Decision-Making](https://dev.to/luffy251/web-30-and-governance-empowering-decentralized-decision-making-23eh)
 - [Lifehacker] [The Smartest Ways to Keep Sand From Sticking to You at the Beach](https://lifehacker.com/the-smartest-ways-to-keep-sand-from-sticking-to-you-at-1850593901)
 - [Dev.to/JS] [How to allow all domains for Image nextjs config?](https://dev.to/med_code/how-to-allow-all-domains-for-image-nextjs-config-5g7e)
-- [Dev.to/JS] [Formatting Numbers to Words with Commas Using Angular Pipes](https://dev.to/_incrediblemind/formatting-numbers-to-words-with-commas-using-angular-pipes-2gch)
 - [Lifehacker] [Four Ways to Get Amazon Credit to Spend on Prime Day](https://lifehacker.com/four-ways-to-get-amazon-credit-to-spend-on-prime-day-1850593913)
 - [Lifehacker] [You Should Stock Up on Forever Stamps Before July 9](https://lifehacker.com/you-should-stock-up-on-forever-stamps-before-july-9-1850593922)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Places to Put Your Air Purifier](https://lifehacker.com/the-best-and-worst-places-to-put-your-air-purifier-1850593972)
