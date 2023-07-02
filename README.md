@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Three.js Supremacy](https://dev.to/ayoub3bidi/the-threejs-supermacy-4a45)
+- [Dev.to/JS] [How to fetch data before rendering in React JS](https://dev.to/sergioholgado/how-to-fetch-data-before-rendering-in-react-js-3750)
+- [Dev.to/JS] [JavaScript Quiz #04 — JavaScript Operators and Precedence](https://dev.to/quizzes4u/javascript-quiz-04-javascript-operators-and-precedence-3cc3)
+- [Dev.to/JS] [Crafting extensible components with React](https://dev.to/jssantana/crafting-extensible-components-with-react-3fjc)
 - [Lifehacker] [Four Ways to Get Amazon Credit to Spend on Prime Day](https://lifehacker.com/four-ways-to-get-amazon-credit-to-spend-on-prime-day-1850593913)
 - [Dev.to/JS] [Rin at Din: Pag-unawa sa Pagkakaiba at Paggamit ng mga Salitang Ito](https://dev.to/anoang/rin-at-din-pag-unawa-sa-pagkakaiba-at-paggamit-ng-mga-salitang-ito-3mgc)
 - [Dev.to/JS] [JavaScript for Beginners: A Complete Guide](https://dev.to/mrpriyanshu09/javascript-for-beginners-a-complete-guide-54m9)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Need help with a filter carousel.](https://dev.to/iwan/need-help-with-a-filter-carousel-2a21)
 - [Lifehacker] [You Should Stock Up on Forever Stamps Before July 9](https://lifehacker.com/you-should-stock-up-on-forever-stamps-before-july-9-1850593922)
 - [Dev.to/JS] [Implementing Authorization in 4 Node.js Frameworks](https://dev.to/permit_io/authorization-in-javascript-implementing-robust-security-with-nodejs-frameworks-kia)
-- [Dev.to/JS] [Why Choose Node.js Over React.js: Mastering Node.js as Your First Step Towards Full-Stack Domination](https://dev.to/ayka_code/why-choose-nodejs-over-reactjs-mastering-nodejs-as-your-first-step-towards-full-stack-domination-111m)
-- [Dev.to/JS] [Maskito: a Holy Grail of input masking](https://dev.to/waterplea/maskito-a-holy-grail-of-input-masking-3gn4)
-- [Dev.to/JS] [5 Advanced NodeJS Techniques](https://dev.to/arulvalananto/5-advanced-nodejs-techniques-20k6)
-- [Dev.to/JS] [Tiinyhost Tutorial](https://dev.to/irishgeoff11/tiinyhost-tutorial-7fj)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Places to Put Your Air Purifier](https://lifehacker.com/the-best-and-worst-places-to-put-your-air-purifier-1850593972)
 - [Lifehacker] [When It Makes Sense to Rent an Electric Vehicle for a Road Trip](https://lifehacker.com/when-it-makes-sense-to-rent-an-electric-vehicle-for-a-r-1850593978)
 - [Lifehacker] [The Best and Worst Times to Drive Fourth of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-fourth-of-july-weeken-1850593988)
