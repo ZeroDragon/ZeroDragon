@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implementing Star Ratings in Google Search Results for Your Website](https://dev.to/sh20raj/implementing-star-ratings-in-google-search-results-for-your-website-4oam)
 - [Dev.to/JS] [Mastering React Hooks: Advanced Techniques with useState, useEffect, and useContext](https://dev.to/fullstackstorm/mastering-react-hooks-advanced-techniques-with-usestate-useeffect-and-usecontext-21cf)
 - [Dev.to/JS] [Clases en JavaScript](https://dev.to/ulisesserranop/clases-en-javascript-371p)
 - [Dev.to/JS] [React.js State vs. JS Context: Dynamically Controlling Components in React.js](https://dev.to/brythewiseguy/reactjs-state-vs-js-context-dynamically-controlling-components-in-reactjs-4h1h)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cookies vs LocalStorage Vs SessionStorage](https://dev.to/gaurbprajapati/cookies-vs-localstorage-vs-sessionstorage-4p6l)
 - [Dev.to/JS] [HTC U Series: Unleash Your Imagination with HTC](https://dev.to/mazhar_qay98257/htc-u-series-unleash-your-imagination-with-htc-apm)
 - [Dev.to/JS] [A JavaScript/React Developer’s Guide to Building WordPress Themes from Scratch &lpar;Including Boilerplate Code&rpar;](https://dev.to/anvilicious/a-javascriptreact-developers-guide-to-building-wordpress-themes-from-scratch-including-boilerplate-code-2e1g)
-- [Dev.to/JS] [Boost Your JavaScript Skills with These 5 Must-Know Shorthands and Tricks](https://dev.to/itsvinayak/boost-your-javascript-skills-with-these-5-must-know-shorthands-and-tricks-52af)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Places to Put Your Air Purifier](https://lifehacker.com/the-best-and-worst-places-to-put-your-air-purifier-1850593972)
 - [Lifehacker] [When It Makes Sense to Rent an Electric Vehicle for a Road Trip](https://lifehacker.com/when-it-makes-sense-to-rent-an-electric-vehicle-for-a-r-1850593978)
 - [Lifehacker] [The Best and Worst Times to Drive Fourth of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-fourth-of-july-weeken-1850593988)
