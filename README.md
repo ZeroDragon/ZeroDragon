@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Backend deployment using Express and Json databases in React Projects](https://dev.to/sebassd/backend-deployment-using-express-and-json-databases-in-react-projects-4a14)
 - [Dev.to/JS] [Functions, Functions Everywhere!](https://dev.to/jongrabowski/functions-functions-everywhere-49ij)
 - [Dev.to/JS] [Main React Handle Events](https://dev.to/stellamazzillo/main-react-handle-events-1n3p)
 - [Dev.to/JS] [Unlocking JavaScript Magic: A Beginner&#39;s Guide to Closures](https://dev.to/michae1tanaka/unlocking-javascript-magic-a-beginners-guide-to-closures-2nnj)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React hooks: useState&lpar;&rpar;](https://dev.to/jdenzel/react-hooks-usestate-36hc)
 - [Dev.to/JS] [FTA: Fast TypeScript Analyzer](https://dev.to/sgb/fta-fast-typescript-analyzer-5ced)
 - [Dev.to/JS] [Cypress Workshop Part 11: Reporting - Qase, Github Actions](https://dev.to/viktorijafilipov/cypress-workshop-part-11-reporting-qase-github-actions-dbi)
-- [Dev.to/JS] [How to use the useMemo &amp; useCallback React hook](https://dev.to/markusmp/how-to-use-the-usememo-usecallback-hook-5a9h)
 - [Lifehacker] [The Smartest Ways to Keep Sand From Sticking to You at the Beach](https://lifehacker.com/the-smartest-ways-to-keep-sand-from-sticking-to-you-at-1850593901)
 - [Lifehacker] [Four Ways to Get Amazon Credit to Spend on Prime Day](https://lifehacker.com/four-ways-to-get-amazon-credit-to-spend-on-prime-day-1850593913)
 - [Lifehacker] [You Should Stock Up on Forever Stamps Before July 9](https://lifehacker.com/you-should-stock-up-on-forever-stamps-before-july-9-1850593922)
