@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Basics of Github](https://dev.to/roberta59008007/basics-of-github-1e9n)
+- [Dev.to/JS] [AIDev.Codes: Simplifying Web Page Creation with AI Chatbot](https://dev.to/aiforme/aidevcodes-simplifying-web-page-creation-with-ai-chatbot-2n57)
+- [Dev.to/JS] [How to Write MongoDB Queries Using ChatGPT](https://dev.to/dmytrych/how-to-write-mongodb-queries-using-chatgpt-no6)
+- [Dev.to/JS] [Cleaning an object](https://dev.to/lizardkinglk/cleaning-an-object-32em)
+- [Dev.to/JS] [Boost Your Sales and Business Development with Strategic Staff Augmentation](https://dev.to/saklle_rohit/boost-your-sales-and-business-development-with-strategic-staff-augmentation-39m0)
 - [Lifehacker] [Three Ways to Help Your Garden Recover From Wildfire Smoke](https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877)
 - [Dev.to/JS] [Série React Hooks: useCallback](https://dev.to/taisesoares/serie-react-hooks-usecallback-49ap)
 - [Dev.to/JS] [Mastering the JavaScript Console Log Method: Your Ultimate Guide to Error-Free Debugging](https://dev.to/odopeter/mastering-the-javascript-console-log-method-your-ultimate-guide-to-error-free-debugging-2j00)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to add OST files in Outlook 365?](https://dev.to/jamesbell/how-to-add-ost-files-in-outlook-365-i8d)
 - [Dev.to/JS] [Deploy a static website to AWS](https://dev.to/irishgeoff11/deploy-static-website-to-aws-580j)
 - [Dev.to/JS] [Nursing Informatics narrations](https://dev.to/horridhenr30674/nursing-informatics-narrations-460n)
-- [Dev.to/JS] [billboard.js 3.9 release: arc.needle, dark theme 🌘 &amp; more!](https://dev.to/netil/billboardjs-39-release-arcneedle-dark-theme-more-59gd)
-- [Dev.to/JS] [A good test must accurately quantify differences](https://dev.to/horridhenr30674/a-good-test-must-accurately-quantify-differences-e84)
-- [Dev.to/JS] [The Evolution of React Rendering Architectures](https://dev.to/teekay/the-evolution-of-react-rendering-architectures-56p4)
-- [Dev.to/JS] [Supercharge Your LeetCode Algorithm Problem Solving: Avoid These Common Mistakes](https://dev.to/papercoding22/supercharge-your-leetcode-algorithm-problem-solving-avoid-these-common-mistakes-3648)
-- [Dev.to/JS] [Things that no one ever told you about useEffect&lpar;&rpar; in React](https://dev.to/kokaneka/things-that-no-one-ever-told-you-about-useeffect-in-react-5fij)
 - [Lifehacker] [The Smartest Ways to Keep Sand From Sticking to You at the Beach](https://lifehacker.com/the-smartest-ways-to-keep-sand-from-sticking-to-you-at-1850593901)
 - [Lifehacker] [Four Ways to Get Amazon Credit to Spend on Prime Day](https://lifehacker.com/four-ways-to-get-amazon-credit-to-spend-on-prime-day-1850593913)
 - [Lifehacker] [You Should Stock Up on Forever Stamps Before July 9](https://lifehacker.com/you-should-stock-up-on-forever-stamps-before-july-9-1850593922)
