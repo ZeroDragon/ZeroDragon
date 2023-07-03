@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring 17 Prominent ES6 Features: Unlocking JavaScript&#39;s Power](https://dev.to/ifeolwaisaiah/exploring-17-prominent-es6-features-unlocking-javascripts-power-5a73)
+- [Dev.to/JS] [JSON Guide](https://dev.to/adamcoster/json-guide-27mn)
 - [Dev.to/JS] [Closures in Javascript](https://dev.to/elgouhry/closures-in-javascript-3pj6)
 - [Dev.to/JS] [AJAX in Elanat framework](https://dev.to/elanatframework/ajax-in-elanat-framework-mf3)
 - [Dev.to/JS] [Exploring Web Rendering: Progressive Hydration](https://dev.to/mangs/exploring-web-rendering-progressive-hydration-563m)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is NGINX and how reverse proxies work?](https://dev.to/merudra754/what-is-nginx-and-how-reverse-proxies-work-173l)
 - [Dev.to/JS] [A STEP-BY-STEP GUIDE FOR INSTALLING REACT AND THE NECESSARY DEPENDENCIES](https://dev.to/ikennaokpalaeze/a-step-by-step-guide-for-installing-react-and-the-necessary-dependencies-m5i)
 - [Lifehacker] [Here&#39;s When Fixing Your Refrigerator Makes More Sense](https://lifehacker.com/heres-when-fixing-your-refrigerator-makes-more-sense-1850593858)
-- [Dev.to/JS] [Experimentando AskCodi com Javascript](https://dev.to/gabomotamc/experimentando-askcodi-com-javascript-175p)
-- [Dev.to/JS] [Encapsulamiento en JavaScript](https://dev.to/ulisesserranop/encapsulamiento-en-javascript-1291)
 - [Lifehacker] [Three Ways to Get the Most Out of Your Car&#39;s Air Conditioner](https://lifehacker.com/three-ways-to-get-the-most-out-of-your-cars-air-conditi-1850593864)
 - [Lifehacker] [Three Ways to Help Your Garden Recover From Wildfire Smoke](https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877)
 - [Lifehacker] [The Smartest Ways to Keep Sand From Sticking to You at the Beach](https://lifehacker.com/the-smartest-ways-to-keep-sand-from-sticking-to-you-at-1850593901)
