@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use Tailwind CSS in a React project.](https://dev.to/tailus/how-to-use-tailwind-css-in-a-react-project-1k9b)
 - [Lifehacker] [Three Ways to Get the Most Out of Your Car&#39;s Air Conditioner](https://lifehacker.com/three-ways-to-get-the-most-out-of-your-cars-air-conditi-1850593864)
 - [Dev.to/JS] [10 Unknown Tips That Make You a Better JavaScript Programmer 🚀](https://dev.to/akashpattnaik/10-unknown-tips-that-make-you-a-better-javascript-programmer-25pl)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 5, Jun 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-5-jun-2023-3km5)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Ways to Help Your Garden Recover From Wildfire Smoke](https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877)
 - [Dev.to/JS] [Série React Hooks: useCallback](https://dev.to/taisesoares/serie-react-hooks-usecallback-49ap)
 - [Dev.to/JS] [Mastering the JavaScript Console Log Method: Your Ultimate Guide to Error-Free Debugging](https://dev.to/odopeter/mastering-the-javascript-console-log-method-your-ultimate-guide-to-error-free-debugging-2j00)
-- [Dev.to/JS] [A Guide to Content Management Systems for Effective Website Management](https://dev.to/jaycreated/a-guide-to-content-management-systems-for-effective-website-management-360c)
 - [Lifehacker] [The Smartest Ways to Keep Sand From Sticking to You at the Beach](https://lifehacker.com/the-smartest-ways-to-keep-sand-from-sticking-to-you-at-1850593901)
 - [Lifehacker] [Four Ways to Get Amazon Credit to Spend on Prime Day](https://lifehacker.com/four-ways-to-get-amazon-credit-to-spend-on-prime-day-1850593913)
 - [Lifehacker] [You Should Stock Up on Forever Stamps Before July 9](https://lifehacker.com/you-should-stock-up-on-forever-stamps-before-july-9-1850593922)
