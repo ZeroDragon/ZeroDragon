@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Three Ways to Get the Most Out of Your Car&#39;s Air Conditioner](https://lifehacker.com/three-ways-to-get-the-most-out-of-your-cars-air-conditi-1850593864)
+- [Dev.to/JS] [10 Unknown Tips That Make You a Better JavaScript Programmer 🚀](https://dev.to/akashpattnaik/10-unknown-tips-that-make-you-a-better-javascript-programmer-25pl)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 5, Jun 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-5-jun-2023-3km5)
+- [Dev.to/JS] [Featurevisor: Git-based feature flag &amp; experiments management](https://dev.to/fahad19/featurevisor-git-based-feature-flag-experiments-management-7k4)
+- [Dev.to/JS] [9 Popular JavaScript Development Tools and IDEs to Choose From](https://dev.to/jigar_online/9-popular-javascript-development-tools-and-ides-to-choose-from-5b44)
 - [Dev.to/JS] [Basics of Github](https://dev.to/roberta59008007/basics-of-github-1e9n)
 - [Dev.to/JS] [AIDev.Codes: Simplifying Web Page Creation with AI Chatbot](https://dev.to/aiforme/aidevcodes-simplifying-web-page-creation-with-ai-chatbot-2n57)
 - [Dev.to/JS] [How to Write MongoDB Queries Using ChatGPT](https://dev.to/dmytrych/how-to-write-mongodb-queries-using-chatgpt-no6)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Série React Hooks: useCallback](https://dev.to/taisesoares/serie-react-hooks-usecallback-49ap)
 - [Dev.to/JS] [Mastering the JavaScript Console Log Method: Your Ultimate Guide to Error-Free Debugging](https://dev.to/odopeter/mastering-the-javascript-console-log-method-your-ultimate-guide-to-error-free-debugging-2j00)
 - [Dev.to/JS] [A Guide to Content Management Systems for Effective Website Management](https://dev.to/jaycreated/a-guide-to-content-management-systems-for-effective-website-management-360c)
-- [Dev.to/JS] [When a millisecond is not a millisecond](https://dev.to/noamr/when-a-millisecond-is-not-a-millisecond-3h6)
-- [Dev.to/JS] [How to add OST files in Outlook 365?](https://dev.to/jamesbell/how-to-add-ost-files-in-outlook-365-i8d)
-- [Dev.to/JS] [Deploy a static website to AWS](https://dev.to/irishgeoff11/deploy-static-website-to-aws-580j)
-- [Dev.to/JS] [Nursing Informatics narrations](https://dev.to/horridhenr30674/nursing-informatics-narrations-460n)
 - [Lifehacker] [The Smartest Ways to Keep Sand From Sticking to You at the Beach](https://lifehacker.com/the-smartest-ways-to-keep-sand-from-sticking-to-you-at-1850593901)
 - [Lifehacker] [Four Ways to Get Amazon Credit to Spend on Prime Day](https://lifehacker.com/four-ways-to-get-amazon-credit-to-spend-on-prime-day-1850593913)
 - [Lifehacker] [You Should Stock Up on Forever Stamps Before July 9](https://lifehacker.com/you-should-stock-up-on-forever-stamps-before-july-9-1850593922)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Lifetime Subscription to Curiosity Stream for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-curiosity-stream-1850589361)
 - [Lifehacker] [These Are the Best Early Prime Day Deals on Air Fryers](https://lifehacker.com/these-are-the-best-early-prime-day-deals-on-air-fryers-1850583409)
 - [Lifehacker] [10 Ways to Not Blow Off Your Fingers This Fourth of July](https://lifehacker.com/10-ways-to-not-blow-off-your-fingers-this-fourth-of-jul-1850592369)
-- [Lifehacker] [Make Perfect Popsicles With Guar Gum](https://lifehacker.com/make-perfect-popsicles-with-guar-gum-1850591737)
-- [Lifehacker] [You Can Get a Babbel Lifetime Subscription for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-babbel-lifetime-subscription-for-over-50-1850589333)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Perfect Popsicles With Guar Gum](https://lifehacker.com/make-perfect-popsicles-with-guar-gum-1850591737)<!-- TECH-POSTS:END -->
 
 ---
 
