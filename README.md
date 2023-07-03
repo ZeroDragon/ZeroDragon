@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Performance Optimization Techniques and Best Practices](https://dev.to/ikennaokpalaeze/javascript-performance-optimization-techniques-and-best-practices-4epi)
+- [Dev.to/JS] [Formatting Node.js codebase with Prettier](https://dev.to/zsevic/formatting-nodejs-codebase-with-prettier-3ghi)
 - [Dev.to/JS] [Introduction to Angular](https://dev.to/rohithart/introduction-to-angular-25m6)
 - [Dev.to/JS] [Create React form auto validated using formik and yup](https://dev.to/joselatines/create-react-form-auto-validated-using-formik-and-yup-49c1)
 - [Dev.to/JS] [Upload Photos with React and Express using Multer: A Comprehensive Guide](https://dev.to/joselatines/upload-photos-with-react-and-express-using-multer-a-comprehensive-guide-403d)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cypress Workshop Part 10: API, Working on different environments](https://dev.to/viktorijafilipov/cypress-workshop-part-10-api-working-on-different-environments-1k7f)
 - [Dev.to/JS] [Reto JS. Contenedores organizadores de bolas](https://dev.to/jorgeabad/reto-js-contenedores-organizadores-de-bolas-4i97)
 - [Dev.to/JS] [JavaScript Quiz #06 — Truthy and Falsy Values](https://dev.to/quizzes4u/javascript-quiz-06-truthy-and-falsy-values-5bcj)
-- [Dev.to/JS] [Multi-Threading in NodeJS.](https://dev.to/kalashin1/multi-threading-in-nodejs-1d4o)
-- [Dev.to/JS] [JavaScript Quiz #05 — Type Conversion and Coercion](https://dev.to/quizzes4u/javascript-quiz-05-type-conversion-and-coercion-51bk)
 - [Lifehacker] [The Smartest Ways to Keep Sand From Sticking to You at the Beach](https://lifehacker.com/the-smartest-ways-to-keep-sand-from-sticking-to-you-at-1850593901)
 - [Lifehacker] [Four Ways to Get Amazon Credit to Spend on Prime Day](https://lifehacker.com/four-ways-to-get-amazon-credit-to-spend-on-prime-day-1850593913)
 - [Lifehacker] [You Should Stock Up on Forever Stamps Before July 9](https://lifehacker.com/you-should-stock-up-on-forever-stamps-before-july-9-1850593922)
