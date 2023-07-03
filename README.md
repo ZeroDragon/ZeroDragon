@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using bootstrap in react](https://dev.to/atenliao/using-bootstrap-in-react-1c2d)
+- [Dev.to/JS] [How to protect your private routes in Next.js 13 &amp; Appwrite?](https://dev.to/niazmorshed2007/how-to-protect-your-private-routes-in-nextjs-13-appwrite-4645)
 - [Dev.to/JS] [Backend deployment using Express and Json databases in React Projects](https://dev.to/sebassd/backend-deployment-using-express-and-json-databases-in-react-projects-4a14)
 - [Dev.to/JS] [Functions, Functions Everywhere!](https://dev.to/jongrabowski/functions-functions-everywhere-49ij)
 - [Dev.to/JS] [Main React Handle Events](https://dev.to/stellamazzillo/main-react-handle-events-1n3p)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create React form auto validated using formik and yup](https://dev.to/joselatines/create-react-form-auto-validated-using-formik-and-yup-49c1)
 - [Dev.to/JS] [Upload Photos with React and Express using Multer: A Comprehensive Guide](https://dev.to/joselatines/upload-photos-with-react-and-express-using-multer-a-comprehensive-guide-403d)
 - [Dev.to/JS] [React hooks: useState&lpar;&rpar;](https://dev.to/jdenzel/react-hooks-usestate-36hc)
-- [Dev.to/JS] [FTA: Fast TypeScript Analyzer](https://dev.to/sgb/fta-fast-typescript-analyzer-5ced)
-- [Dev.to/JS] [Cypress Workshop Part 11: Reporting - Qase, Github Actions](https://dev.to/viktorijafilipov/cypress-workshop-part-11-reporting-qase-github-actions-dbi)
 - [Lifehacker] [The Smartest Ways to Keep Sand From Sticking to You at the Beach](https://lifehacker.com/the-smartest-ways-to-keep-sand-from-sticking-to-you-at-1850593901)
 - [Lifehacker] [Four Ways to Get Amazon Credit to Spend on Prime Day](https://lifehacker.com/four-ways-to-get-amazon-credit-to-spend-on-prime-day-1850593913)
 - [Lifehacker] [You Should Stock Up on Forever Stamps Before July 9](https://lifehacker.com/you-should-stock-up-on-forever-stamps-before-july-9-1850593922)
