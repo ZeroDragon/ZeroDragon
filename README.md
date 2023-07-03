@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A* Search with Custom Heuristics and Neighbor Functions for Versatile Solutions](https://dev.to/slobodan4nista/a-search-with-custom-heuristics-and-neighbor-functions-for-versatile-solutions-k1h)
+- [Dev.to/JS] [Immutable.js, pros and cons](https://dev.to/waynechoidev/immutability-2-immutablejs-pros-and-cons-23b1)
+- [Dev.to/JS] [Object.freeze&lpar;&rpar; doesn&#39;t always freeze](https://dev.to/waynechoidev/immutability-1-objectfreeze-doesnt-always-freeze-48fo)
+- [Dev.to/JS] [Component Libraries - Should you use them?](https://dev.to/jacobandrewsky/component-librarires-should-you-use-them-4ff7)
 - [Dev.to/JS] [#LearnedToday: Roadmap.sh](https://dev.to/danielzotti/learnedtoday-roadmapsh-4pf9)
 - [Dev.to/JS] [How to use reselect with zustand](https://dev.to/redclouds/how-to-use-reselect-with-zustand-5eck)
 - [Dev.to/JS] [Injeção de dependência &lpar;DI&rpar; com NodeJS + Typescript](https://dev.to/lucasprochnow/injecao-de-dependencia-di-com-nodejs-typescript-3a5f)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Componets](https://dev.to/iam_kyei/react-componets-2kkm)
 - [Dev.to/JS] [Declare a Front End App on S3 via CloudFront with high-level design](https://dev.to/hoangnphaws/declare-a-front-end-app-on-s3-via-cloudfront-with-high-level-design-1ab8)
 - [Dev.to/JS] [First Class Functions](https://dev.to/chukwuma1976/first-class-functions-236l)
-- [Dev.to/JS] [DIGITAL MARKETING](https://dev.to/muhamma17870874/digital-marketing-4b5a)
-- [Dev.to/JS] [Web Development and SEO: Unveiling Strategies for Enhanced Online Visibility](https://dev.to/pdesai492/web-development-and-seo-unveiling-strategies-for-enhanced-online-visibility-2nh1)
-- [Dev.to/JS] [Cortexi - Ear Results, Reviews, Price, Uses &amp; Where To Buy?](https://dev.to/cortexifac54910/cortexi-ear-results-reviews-price-uses-where-to-buy-38h)
-- [Dev.to/JS] [JavaScript Reverse String: 3 Best Ways To Do It](https://dev.to/onlinemsr/javascript-reverse-string-3-best-ways-to-do-it-8co)
 - [Lifehacker] [The Smartest Ways to Keep Sand From Sticking to You at the Beach](https://lifehacker.com/the-smartest-ways-to-keep-sand-from-sticking-to-you-at-1850593901)
 - [Lifehacker] [Four Ways to Get Amazon Credit to Spend on Prime Day](https://lifehacker.com/four-ways-to-get-amazon-credit-to-spend-on-prime-day-1850593913)
 - [Lifehacker] [You Should Stock Up on Forever Stamps Before July 9](https://lifehacker.com/you-should-stock-up-on-forever-stamps-before-july-9-1850593922)
