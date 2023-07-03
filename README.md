@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Blog.posts.first](https://dev.to/mikecruzm/blogpostsfirst-4p8l)
+- [Dev.to/JS] [What is NGINX and how reverse proxies work?](https://dev.to/merudra754/what-is-nginx-and-how-reverse-proxies-work-173l)
+- [Dev.to/JS] [A STEP-BY-STEP GUIDE FOR INSTALLING REACT AND THE NECESSARY DEPENDENCIES](https://dev.to/ikennaokpalaeze/a-step-by-step-guide-for-installing-react-and-the-necessary-dependencies-m5i)
 - [Lifehacker] [Here&#39;s When Fixing Your Refrigerator Makes More Sense](https://lifehacker.com/heres-when-fixing-your-refrigerator-makes-more-sense-1850593858)
 - [Dev.to/JS] [Experimentando AskCodi com Javascript](https://dev.to/gabomotamc/experimentando-askcodi-com-javascript-175p)
 - [Dev.to/JS] [Encapsulamiento en JavaScript](https://dev.to/ulisesserranop/encapsulamiento-en-javascript-1291)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Unknown Tips That Make You a Better JavaScript Programmer 🚀](https://dev.to/akashpattnaik/10-unknown-tips-that-make-you-a-better-javascript-programmer-25pl)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 5, Jun 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-5-jun-2023-3km5)
 - [Dev.to/JS] [Featurevisor: Git-based feature flag &amp; experiments management](https://dev.to/fahad19/featurevisor-git-based-feature-flag-experiments-management-7k4)
-- [Dev.to/JS] [9 Popular JavaScript Development Tools and IDEs to Choose From](https://dev.to/jigar_online/9-popular-javascript-development-tools-and-ides-to-choose-from-5b44)
-- [Dev.to/JS] [Basics of Github](https://dev.to/roberta59008007/basics-of-github-1e9n)
-- [Dev.to/JS] [AIDev.Codes: Simplifying Web Page Creation with AI Chatbot](https://dev.to/aiforme/aidevcodes-simplifying-web-page-creation-with-ai-chatbot-2n57)
 - [Lifehacker] [Three Ways to Help Your Garden Recover From Wildfire Smoke](https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877)
 - [Lifehacker] [The Smartest Ways to Keep Sand From Sticking to You at the Beach](https://lifehacker.com/the-smartest-ways-to-keep-sand-from-sticking-to-you-at-1850593901)
 - [Lifehacker] [Four Ways to Get Amazon Credit to Spend on Prime Day](https://lifehacker.com/four-ways-to-get-amazon-credit-to-spend-on-prime-day-1850593913)
