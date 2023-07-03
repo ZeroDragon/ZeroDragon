@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Componets](https://dev.to/iam_kyei/react-componets-2kkm)
+- [Dev.to/JS] [Declare a Front End App on S3 via CloudFront with high-level design](https://dev.to/hoangnphaws/declare-a-front-end-app-on-s3-via-cloudfront-with-high-level-design-1ab8)
+- [Dev.to/JS] [First Class Functions](https://dev.to/chukwuma1976/first-class-functions-236l)
 - [Dev.to/JS] [DIGITAL MARKETING](https://dev.to/muhamma17870874/digital-marketing-4b5a)
 - [Dev.to/JS] [Web Development and SEO: Unveiling Strategies for Enhanced Online Visibility](https://dev.to/pdesai492/web-development-and-seo-unveiling-strategies-for-enhanced-online-visibility-2nh1)
 - [Dev.to/JS] [Cortexi - Ear Results, Reviews, Price, Uses &amp; Where To Buy?](https://dev.to/cortexifac54910/cortexi-ear-results-reviews-price-uses-where-to-buy-38h)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using bootstrap in react](https://dev.to/atenliao/using-bootstrap-in-react-1c2d)
 - [Dev.to/JS] [How to protect your private routes in Next.js 13 &amp; Appwrite?](https://dev.to/niazmorshed2007/how-to-protect-your-private-routes-in-nextjs-13-appwrite-4645)
 - [Dev.to/JS] [Backend deployment using Express and Json databases in React Projects](https://dev.to/sebassd/backend-deployment-using-express-and-json-databases-in-react-projects-4a14)
-- [Dev.to/JS] [Functions, Functions Everywhere!](https://dev.to/jongrabowski/functions-functions-everywhere-49ij)
-- [Dev.to/JS] [Main React Handle Events](https://dev.to/stellamazzillo/main-react-handle-events-1n3p)
-- [Dev.to/JS] [Unlocking JavaScript Magic: A Beginner&#39;s Guide to Closures](https://dev.to/michae1tanaka/unlocking-javascript-magic-a-beginners-guide-to-closures-2nnj)
 - [Lifehacker] [The Smartest Ways to Keep Sand From Sticking to You at the Beach](https://lifehacker.com/the-smartest-ways-to-keep-sand-from-sticking-to-you-at-1850593901)
 - [Lifehacker] [Four Ways to Get Amazon Credit to Spend on Prime Day](https://lifehacker.com/four-ways-to-get-amazon-credit-to-spend-on-prime-day-1850593913)
 - [Lifehacker] [You Should Stock Up on Forever Stamps Before July 9](https://lifehacker.com/you-should-stock-up-on-forever-stamps-before-july-9-1850593922)
