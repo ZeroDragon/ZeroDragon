@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Closures in Javascript](https://dev.to/elgouhry/closures-in-javascript-3pj6)
+- [Dev.to/JS] [AJAX in Elanat framework](https://dev.to/elanatframework/ajax-in-elanat-framework-mf3)
+- [Dev.to/JS] [Exploring Web Rendering: Progressive Hydration](https://dev.to/mangs/exploring-web-rendering-progressive-hydration-563m)
+- [Dev.to/JS] [I Switched to Astro for My Portfolio Website, and It&#39;s Awesome!](https://dev.to/sidmohanty11/i-switched-to-astro-for-my-portfolio-website-and-its-awesome-46e9)
 - [Dev.to/JS] [One config file to rule them all](https://dev.to/nebrelbug/one-config-file-to-rule-them-all-5nh)
 - [Dev.to/JS] [Embracing the Future with Next.js 13: 20 Powerful Features](https://dev.to/shubhamt619/embracing-the-future-with-nextjs-13-20-powerful-features-1k5f)
 - [Dev.to/JS] [http requests are always served at port 80. PROOF!](https://dev.to/merudra754/http-requests-always-goes-to-port-80-proof-10e7)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s When Fixing Your Refrigerator Makes More Sense](https://lifehacker.com/heres-when-fixing-your-refrigerator-makes-more-sense-1850593858)
 - [Dev.to/JS] [Experimentando AskCodi com Javascript](https://dev.to/gabomotamc/experimentando-askcodi-com-javascript-175p)
 - [Dev.to/JS] [Encapsulamiento en JavaScript](https://dev.to/ulisesserranop/encapsulamiento-en-javascript-1291)
-- [Dev.to/JS] [JavaScript ES6+ features](https://dev.to/cliff123tech/javascript-es6-features-13co)
-- [Dev.to/JS] [From Linux to MacOS: A Journey of Surprising Delight](https://dev.to/raxraj/from-linux-to-macos-a-journey-of-surprising-delight-219e)
-- [Dev.to/JS] [Mastering Function Definitions in JavaScript](https://dev.to/ikennaokpalaeze/mastering-function-definitions-in-javascript-1la1)
-- [Dev.to/JS] [How to use Tailwind CSS in a React project.](https://dev.to/tailus/how-to-use-tailwind-css-in-a-react-project-1k9b)
 - [Lifehacker] [Three Ways to Get the Most Out of Your Car&#39;s Air Conditioner](https://lifehacker.com/three-ways-to-get-the-most-out-of-your-cars-air-conditi-1850593864)
 - [Lifehacker] [Three Ways to Help Your Garden Recover From Wildfire Smoke](https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877)
 - [Lifehacker] [The Smartest Ways to Keep Sand From Sticking to You at the Beach](https://lifehacker.com/the-smartest-ways-to-keep-sand-from-sticking-to-you-at-1850593901)
