@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Here&#39;s When Fixing Your Refrigerator Makes More Sense](https://lifehacker.com/heres-when-fixing-your-refrigerator-makes-more-sense-1850593858)
+- [Dev.to/JS] [Experimentando AskCodi com Javascript](https://dev.to/gabomotamc/experimentando-askcodi-com-javascript-175p)
+- [Dev.to/JS] [Encapsulamiento en JavaScript](https://dev.to/ulisesserranop/encapsulamiento-en-javascript-1291)
+- [Dev.to/JS] [JavaScript ES6+ features](https://dev.to/cliff123tech/javascript-es6-features-13co)
+- [Dev.to/JS] [From Linux to MacOS: A Journey of Surprising Delight](https://dev.to/raxraj/from-linux-to-macos-a-journey-of-surprising-delight-219e)
+- [Dev.to/JS] [Mastering Function Definitions in JavaScript](https://dev.to/ikennaokpalaeze/mastering-function-definitions-in-javascript-1la1)
 - [Dev.to/JS] [How to use Tailwind CSS in a React project.](https://dev.to/tailus/how-to-use-tailwind-css-in-a-react-project-1k9b)
 - [Lifehacker] [Three Ways to Get the Most Out of Your Car&#39;s Air Conditioner](https://lifehacker.com/three-ways-to-get-the-most-out-of-your-cars-air-conditi-1850593864)
 - [Dev.to/JS] [10 Unknown Tips That Make You a Better JavaScript Programmer 🚀](https://dev.to/akashpattnaik/10-unknown-tips-that-make-you-a-better-javascript-programmer-25pl)
@@ -31,12 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [9 Popular JavaScript Development Tools and IDEs to Choose From](https://dev.to/jigar_online/9-popular-javascript-development-tools-and-ides-to-choose-from-5b44)
 - [Dev.to/JS] [Basics of Github](https://dev.to/roberta59008007/basics-of-github-1e9n)
 - [Dev.to/JS] [AIDev.Codes: Simplifying Web Page Creation with AI Chatbot](https://dev.to/aiforme/aidevcodes-simplifying-web-page-creation-with-ai-chatbot-2n57)
-- [Dev.to/JS] [How to Write MongoDB Queries Using ChatGPT](https://dev.to/dmytrych/how-to-write-mongodb-queries-using-chatgpt-no6)
-- [Dev.to/JS] [Cleaning an object](https://dev.to/lizardkinglk/cleaning-an-object-32em)
-- [Dev.to/JS] [Boost Your Sales and Business Development with Strategic Staff Augmentation](https://dev.to/saklle_rohit/boost-your-sales-and-business-development-with-strategic-staff-augmentation-39m0)
 - [Lifehacker] [Three Ways to Help Your Garden Recover From Wildfire Smoke](https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877)
-- [Dev.to/JS] [Série React Hooks: useCallback](https://dev.to/taisesoares/serie-react-hooks-usecallback-49ap)
-- [Dev.to/JS] [Mastering the JavaScript Console Log Method: Your Ultimate Guide to Error-Free Debugging](https://dev.to/odopeter/mastering-the-javascript-console-log-method-your-ultimate-guide-to-error-free-debugging-2j00)
 - [Lifehacker] [The Smartest Ways to Keep Sand From Sticking to You at the Beach](https://lifehacker.com/the-smartest-ways-to-keep-sand-from-sticking-to-you-at-1850593901)
 - [Lifehacker] [Four Ways to Get Amazon Credit to Spend on Prime Day](https://lifehacker.com/four-ways-to-get-amazon-credit-to-spend-on-prime-day-1850593913)
 - [Lifehacker] [You Should Stock Up on Forever Stamps Before July 9](https://lifehacker.com/you-should-stock-up-on-forever-stamps-before-july-9-1850593922)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [I Can&#39;t Stop Air Frying Frozen Corn](https://lifehacker.com/i-cant-stop-air-frying-frozen-corn-1850593035)
 - [Lifehacker] [You Can Get a Lifetime Subscription to Curiosity Stream for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-curiosity-stream-1850589361)
 - [Lifehacker] [These Are the Best Early Prime Day Deals on Air Fryers](https://lifehacker.com/these-are-the-best-early-prime-day-deals-on-air-fryers-1850583409)
-- [Lifehacker] [10 Ways to Not Blow Off Your Fingers This Fourth of July](https://lifehacker.com/10-ways-to-not-blow-off-your-fingers-this-fourth-of-jul-1850592369)
-- [Lifehacker] [Make Perfect Popsicles With Guar Gum](https://lifehacker.com/make-perfect-popsicles-with-guar-gum-1850591737)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Ways to Not Blow Off Your Fingers This Fourth of July](https://lifehacker.com/10-ways-to-not-blow-off-your-fingers-this-fourth-of-jul-1850592369)<!-- TECH-POSTS:END -->
 
 ---
 
