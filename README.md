@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DIGITAL MARKETING](https://dev.to/muhamma17870874/digital-marketing-4b5a)
+- [Dev.to/JS] [Web Development and SEO: Unveiling Strategies for Enhanced Online Visibility](https://dev.to/pdesai492/web-development-and-seo-unveiling-strategies-for-enhanced-online-visibility-2nh1)
+- [Dev.to/JS] [Cortexi - Ear Results, Reviews, Price, Uses &amp; Where To Buy?](https://dev.to/cortexifac54910/cortexi-ear-results-reviews-price-uses-where-to-buy-38h)
+- [Dev.to/JS] [JavaScript Reverse String: 3 Best Ways To Do It](https://dev.to/onlinemsr/javascript-reverse-string-3-best-ways-to-do-it-8co)
+- [Dev.to/JS] [Top 10 Essential Git Commands for Beginners &lpar;Version Control&rpar;](https://dev.to/navinso92429049/top-10-essential-git-commands-for-beginners-version-control-4f1f)
 - [Dev.to/JS] [Full-Stack Developer Roadmap: Step-by-Step Guide 2023](https://dev.to/scofieldidehen/full-stack-developer-roadmap-step-by-step-guide-2023-5anf)
 - [Dev.to/JS] [Using bootstrap in react](https://dev.to/atenliao/using-bootstrap-in-react-1c2d)
 - [Dev.to/JS] [How to protect your private routes in Next.js 13 &amp; Appwrite?](https://dev.to/niazmorshed2007/how-to-protect-your-private-routes-in-nextjs-13-appwrite-4645)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Functions, Functions Everywhere!](https://dev.to/jongrabowski/functions-functions-everywhere-49ij)
 - [Dev.to/JS] [Main React Handle Events](https://dev.to/stellamazzillo/main-react-handle-events-1n3p)
 - [Dev.to/JS] [Unlocking JavaScript Magic: A Beginner&#39;s Guide to Closures](https://dev.to/michae1tanaka/unlocking-javascript-magic-a-beginners-guide-to-closures-2nnj)
-- [Dev.to/JS] [JavaScript Performance Optimization Techniques and Best Practices](https://dev.to/ikennaokpalaeze/javascript-performance-optimization-techniques-and-best-practices-4epi)
-- [Dev.to/JS] [Formatting Node.js codebase with Prettier](https://dev.to/zsevic/formatting-nodejs-codebase-with-prettier-3ghi)
-- [Dev.to/JS] [Introduction to Angular](https://dev.to/rohithart/introduction-to-angular-25m6)
-- [Dev.to/JS] [Create React form auto validated using formik and yup](https://dev.to/joselatines/create-react-form-auto-validated-using-formik-and-yup-49c1)
-- [Dev.to/JS] [Upload Photos with React and Express using Multer: A Comprehensive Guide](https://dev.to/joselatines/upload-photos-with-react-and-express-using-multer-a-comprehensive-guide-403d)
 - [Lifehacker] [The Smartest Ways to Keep Sand From Sticking to You at the Beach](https://lifehacker.com/the-smartest-ways-to-keep-sand-from-sticking-to-you-at-1850593901)
 - [Lifehacker] [Four Ways to Get Amazon Credit to Spend on Prime Day](https://lifehacker.com/four-ways-to-get-amazon-credit-to-spend-on-prime-day-1850593913)
 - [Lifehacker] [You Should Stock Up on Forever Stamps Before July 9](https://lifehacker.com/you-should-stock-up-on-forever-stamps-before-july-9-1850593922)
