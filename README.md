@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#LearnedToday: Roadmap.sh](https://dev.to/danielzotti/learnedtoday-roadmapsh-4pf9)
+- [Dev.to/JS] [How to use reselect with zustand](https://dev.to/redclouds/how-to-use-reselect-with-zustand-5eck)
+- [Dev.to/JS] [Injeção de dependência &lpar;DI&rpar; com NodeJS + Typescript](https://dev.to/lucasprochnow/injecao-de-dependencia-di-com-nodejs-typescript-3a5f)
+- [Dev.to/JS] [Next.js forms](https://dev.to/irishgeoff11/nextjs-forms-2n3h)
+- [Dev.to/JS] [The 4 JS Array Methods every Backend Developer should know](https://dev.to/danielasaboro/the-5-js-array-methods-every-backend-developer-should-know-k)
 - [Dev.to/JS] [React Componets](https://dev.to/iam_kyei/react-componets-2kkm)
 - [Dev.to/JS] [Declare a Front End App on S3 via CloudFront with high-level design](https://dev.to/hoangnphaws/declare-a-front-end-app-on-s3-via-cloudfront-with-high-level-design-1ab8)
 - [Dev.to/JS] [First Class Functions](https://dev.to/chukwuma1976/first-class-functions-236l)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web Development and SEO: Unveiling Strategies for Enhanced Online Visibility](https://dev.to/pdesai492/web-development-and-seo-unveiling-strategies-for-enhanced-online-visibility-2nh1)
 - [Dev.to/JS] [Cortexi - Ear Results, Reviews, Price, Uses &amp; Where To Buy?](https://dev.to/cortexifac54910/cortexi-ear-results-reviews-price-uses-where-to-buy-38h)
 - [Dev.to/JS] [JavaScript Reverse String: 3 Best Ways To Do It](https://dev.to/onlinemsr/javascript-reverse-string-3-best-ways-to-do-it-8co)
-- [Dev.to/JS] [Top 10 Essential Git Commands for Beginners &lpar;Version Control&rpar;](https://dev.to/navinso92429049/top-10-essential-git-commands-for-beginners-version-control-4f1f)
-- [Dev.to/JS] [Full-Stack Developer Roadmap: Step-by-Step Guide 2023](https://dev.to/scofieldidehen/full-stack-developer-roadmap-step-by-step-guide-2023-5anf)
-- [Dev.to/JS] [Using bootstrap in react](https://dev.to/atenliao/using-bootstrap-in-react-1c2d)
-- [Dev.to/JS] [How to protect your private routes in Next.js 13 &amp; Appwrite?](https://dev.to/niazmorshed2007/how-to-protect-your-private-routes-in-nextjs-13-appwrite-4645)
-- [Dev.to/JS] [Backend deployment using Express and Json databases in React Projects](https://dev.to/sebassd/backend-deployment-using-express-and-json-databases-in-react-projects-4a14)
 - [Lifehacker] [The Smartest Ways to Keep Sand From Sticking to You at the Beach](https://lifehacker.com/the-smartest-ways-to-keep-sand-from-sticking-to-you-at-1850593901)
 - [Lifehacker] [Four Ways to Get Amazon Credit to Spend on Prime Day](https://lifehacker.com/four-ways-to-get-amazon-credit-to-spend-on-prime-day-1850593913)
 - [Lifehacker] [You Should Stock Up on Forever Stamps Before July 9](https://lifehacker.com/you-should-stock-up-on-forever-stamps-before-july-9-1850593922)
