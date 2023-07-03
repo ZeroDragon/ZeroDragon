@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Three Ways to Help Your Garden Recover From Wildfire Smoke](https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877)
+- [Dev.to/JS] [Série React Hooks: useCallback](https://dev.to/taisesoares/serie-react-hooks-usecallback-49ap)
+- [Dev.to/JS] [Mastering the JavaScript Console Log Method: Your Ultimate Guide to Error-Free Debugging](https://dev.to/odopeter/mastering-the-javascript-console-log-method-your-ultimate-guide-to-error-free-debugging-2j00)
 - [Dev.to/JS] [A Guide to Content Management Systems for Effective Website Management](https://dev.to/jaycreated/a-guide-to-content-management-systems-for-effective-website-management-360c)
 - [Dev.to/JS] [When a millisecond is not a millisecond](https://dev.to/noamr/when-a-millisecond-is-not-a-millisecond-3h6)
 - [Dev.to/JS] [How to add OST files in Outlook 365?](https://dev.to/jamesbell/how-to-add-ost-files-in-outlook-365-i8d)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Evolution of React Rendering Architectures](https://dev.to/teekay/the-evolution-of-react-rendering-architectures-56p4)
 - [Dev.to/JS] [Supercharge Your LeetCode Algorithm Problem Solving: Avoid These Common Mistakes](https://dev.to/papercoding22/supercharge-your-leetcode-algorithm-problem-solving-avoid-these-common-mistakes-3648)
 - [Dev.to/JS] [Things that no one ever told you about useEffect&lpar;&rpar; in React](https://dev.to/kokaneka/things-that-no-one-ever-told-you-about-useeffect-in-react-5fij)
-- [Dev.to/JS] [A* Search with Custom Heuristics and Neighbor Functions for Versatile Solutions](https://dev.to/slobodan4nista/a-search-with-custom-heuristics-and-neighbor-functions-for-versatile-solutions-k1h)
-- [Dev.to/JS] [Nodejs Developer Questions](https://dev.to/abidullah786/nodejs-developer-questions-56k)
 - [Lifehacker] [The Smartest Ways to Keep Sand From Sticking to You at the Beach](https://lifehacker.com/the-smartest-ways-to-keep-sand-from-sticking-to-you-at-1850593901)
 - [Lifehacker] [Four Ways to Get Amazon Credit to Spend on Prime Day](https://lifehacker.com/four-ways-to-get-amazon-credit-to-spend-on-prime-day-1850593913)
 - [Lifehacker] [You Should Stock Up on Forever Stamps Before July 9](https://lifehacker.com/you-should-stock-up-on-forever-stamps-before-july-9-1850593922)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Early Prime Day Deals on Air Fryers](https://lifehacker.com/these-are-the-best-early-prime-day-deals-on-air-fryers-1850583409)
 - [Lifehacker] [10 Ways to Not Blow Off Your Fingers This Fourth of July](https://lifehacker.com/10-ways-to-not-blow-off-your-fingers-this-fourth-of-jul-1850592369)
 - [Lifehacker] [Make Perfect Popsicles With Guar Gum](https://lifehacker.com/make-perfect-popsicles-with-guar-gum-1850591737)
-- [Lifehacker] [You Can Get a Babbel Lifetime Subscription for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-babbel-lifetime-subscription-for-over-50-1850589333)
-- [Lifehacker] [Death to Watery Coleslaw](https://lifehacker.com/death-to-watery-coleslaw-1850592131)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a Babbel Lifetime Subscription for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-babbel-lifetime-subscription-for-over-50-1850589333)<!-- TECH-POSTS:END -->
 
 ---
 
