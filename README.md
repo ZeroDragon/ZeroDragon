@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Evolution of React Rendering Architectures](https://dev.to/teekay/the-evolution-of-react-rendering-architectures-56p4)
+- [Dev.to/JS] [Supercharge Your LeetCode Algorithm Problem Solving: Avoid These Common Mistakes](https://dev.to/papercoding22/supercharge-your-leetcode-algorithm-problem-solving-avoid-these-common-mistakes-3648)
+- [Dev.to/JS] [Things that no one ever told you about useEffect&lpar;&rpar; in React](https://dev.to/kokaneka/things-that-no-one-ever-told-you-about-useeffect-in-react-5fij)
 - [Dev.to/JS] [A* Search with Custom Heuristics and Neighbor Functions for Versatile Solutions](https://dev.to/slobodan4nista/a-search-with-custom-heuristics-and-neighbor-functions-for-versatile-solutions-k1h)
+- [Dev.to/JS] [Nodejs Developer Questions](https://dev.to/abidullah786/nodejs-developer-questions-56k)
 - [Dev.to/JS] [Immutable.js, pros and cons](https://dev.to/waynechoidev/immutability-2-immutablejs-pros-and-cons-23b1)
 - [Dev.to/JS] [Object.freeze&lpar;&rpar; doesn&#39;t always freeze](https://dev.to/waynechoidev/immutability-1-objectfreeze-doesnt-always-freeze-48fo)
 - [Dev.to/JS] [Component Libraries - Should you use them?](https://dev.to/jacobandrewsky/component-librarires-should-you-use-them-4ff7)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use reselect with zustand](https://dev.to/redclouds/how-to-use-reselect-with-zustand-5eck)
 - [Dev.to/JS] [Injeção de dependência &lpar;DI&rpar; com NodeJS + Typescript](https://dev.to/lucasprochnow/injecao-de-dependencia-di-com-nodejs-typescript-3a5f)
 - [Dev.to/JS] [Next.js forms](https://dev.to/irishgeoff11/nextjs-forms-2n3h)
-- [Dev.to/JS] [The 4 JS Array Methods every Backend Developer should know](https://dev.to/danielasaboro/the-5-js-array-methods-every-backend-developer-should-know-k)
-- [Dev.to/JS] [React Componets](https://dev.to/iam_kyei/react-componets-2kkm)
-- [Dev.to/JS] [Declare a Front End App on S3 via CloudFront with high-level design](https://dev.to/hoangnphaws/declare-a-front-end-app-on-s3-via-cloudfront-with-high-level-design-1ab8)
-- [Dev.to/JS] [First Class Functions](https://dev.to/chukwuma1976/first-class-functions-236l)
 - [Lifehacker] [The Smartest Ways to Keep Sand From Sticking to You at the Beach](https://lifehacker.com/the-smartest-ways-to-keep-sand-from-sticking-to-you-at-1850593901)
 - [Lifehacker] [Four Ways to Get Amazon Credit to Spend on Prime Day](https://lifehacker.com/four-ways-to-get-amazon-credit-to-spend-on-prime-day-1850593913)
 - [Lifehacker] [You Should Stock Up on Forever Stamps Before July 9](https://lifehacker.com/you-should-stock-up-on-forever-stamps-before-july-9-1850593922)
