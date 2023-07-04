@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between Native and Neonative Plants, and Why It Matters](https://lifehacker.com/the-difference-between-native-and-neonative-plants-and-1850593806)
+- [Dev.to/JS] [New CSS-in-JS lightweight packages for React and Preact](https://dev.to/ndrean/new-css-in-js-lightweight-packages-for-react-and-preact-3jkm)
+- [Dev.to/JS] [How to Extract Text from a Video &lpar;OCR&rpar; with JavaScript?](https://dev.to/edenai/how-to-extract-text-from-a-video-ocr-with-javascript-11dd)
+- [Dev.to/JS] [Starting FlatIron School&#39;s Software Engineering Course](https://dev.to/kbuke/starting-flatiron-schools-software-engineering-course-24gp)
 - [Dev.to/JS] [How to implement instance segmentation using YOLOv8 neural network](https://dev.to/andreygermanov/how-to-implement-instance-segmentation-using-yolov8-neural-network-3if9)
 - [Dev.to/JS] [Is startsWith Faster Than RegExp?](https://dev.to/suni/is-startswith-faster-than-regexp-4mig)
 - [Lifehacker] [Why Your Smoke Detector Is Still Beeping With New Batteries](https://lifehacker.com/why-your-smoke-detector-is-still-beeping-with-new-batte-1850593822)
@@ -34,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Crafting extensible components with React](https://dev.to/jssantana/crafting-extensible-components-with-react-422e)
 - [Dev.to/JS] [🦄 Building a pricing page with NextJS 🤯 🤯](https://dev.to/github20k/building-a-pricing-page-with-nextjs-1b1f)
 - [Dev.to/JS] [Is JavaScript Dying? 💀](https://dev.to/akashpattnaik/is-javascript-dying-1joe)
-- [Dev.to/JS] [How to build a scheduling and booking app with cloud data storage and real-time updates in Nuxt.js](https://dev.to/hackmamba/how-to-build-a-scheduling-and-booking-app-with-cloud-data-storage-and-real-time-updates-in-nuxtjs-8jm)
-- [Dev.to/JS] [Help in JavaScript | Julio Herrera](https://dev.to/julioherrera/help-in-javascript-julio-herrera-13m5)
-- [Dev.to/JS] [Form honeypot](https://dev.to/irishgeoff11/form-honeypot-52hk)
 - [Lifehacker] [Here&#39;s When Fixing Your Refrigerator Makes More Sense](https://lifehacker.com/heres-when-fixing-your-refrigerator-makes-more-sense-1850593858)
 - [Lifehacker] [Three Ways to Get the Most Out of Your Car&#39;s Air Conditioner](https://lifehacker.com/three-ways-to-get-the-most-out-of-your-cars-air-conditi-1850593864)
 - [Lifehacker] [Three Ways to Help Your Garden Recover From Wildfire Smoke](https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What You Should Know Before You Buy a Tiny Home Kit](https://lifehacker.com/what-you-should-know-before-you-buy-a-tiny-home-kit-1850594127)
 - [Lifehacker] [Eight of the Best Kid-Friendly Fireworks Alternatives &lpar;and Two Terrible Ideas&rpar;](https://lifehacker.com/eight-of-the-best-kid-friendly-fireworks-alternatives-1850593183)
 - [Lifehacker] [25 of the Most Obscenely Patriotic Movies Ever](https://lifehacker.com/20-of-the-most-obscenely-patriotic-movies-ever-1847211948)
-- [Lifehacker] [I Can&#39;t Stop Air Frying Frozen Corn](https://lifehacker.com/i-cant-stop-air-frying-frozen-corn-1850593035)
-- [Lifehacker] [You Can Get a Lifetime Subscription to Curiosity Stream for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-curiosity-stream-1850589361)<!-- TECH-POSTS:END -->
+- [Lifehacker] [I Can&#39;t Stop Air Frying Frozen Corn](https://lifehacker.com/i-cant-stop-air-frying-frozen-corn-1850593035)<!-- TECH-POSTS:END -->
 
 ---
 
