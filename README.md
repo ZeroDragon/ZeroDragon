@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [You should not use Fetch API](https://dev.to/capscode/you-should-not-use-fetch-api-5n2)
 - [Lifehacker] [Store Your Tools With Uncooked Rice to Prevent Them From Rusting](https://lifehacker.com/store-your-tools-with-uncooked-rice-to-prevent-them-fro-1850593827)
 - [Dev.to/JS] [Crafting extensible components with React](https://dev.to/jssantana/crafting-extensible-components-with-react-422e)
 - [Dev.to/JS] [🦄 Building a pricing page with NextJS 🤯 🤯](https://dev.to/github20k/building-a-pricing-page-with-nextjs-1b1f)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&quot;Surviving the Angular Maze: A Code Boot Camp Graduate&#39;s Adventure”](https://dev.to/tomkotlar/surviving-the-angular-maze-a-code-boot-camp-graduates-adventure-3kc7)
 - [Dev.to/JS] [30 Best Web Development Frameworks for 2023: A Comprehensive Guide](https://dev.to/bravinsimiyu/30-best-web-development-frameworks-for-2023-a-comprehensive-guide-512i)
 - [Dev.to/JS] [Learn serverless on AWS step-by-step - SQL with Aurora](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sql-with-aurora-5hn1)
-- [Dev.to/JS] [First Local Advertising in US](https://dev.to/firstlocaladvertising/first-local-advertising-in-us-k2m)
 - [Lifehacker] [Here&#39;s When Fixing Your Refrigerator Makes More Sense](https://lifehacker.com/heres-when-fixing-your-refrigerator-makes-more-sense-1850593858)
 - [Lifehacker] [Three Ways to Get the Most Out of Your Car&#39;s Air Conditioner](https://lifehacker.com/three-ways-to-get-the-most-out-of-your-cars-air-conditi-1850593864)
 - [Lifehacker] [Three Ways to Help Your Garden Recover From Wildfire Smoke](https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877)
