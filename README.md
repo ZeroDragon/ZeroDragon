@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Integrate Zoom SDK with React](https://dev.to/balamurugan/integrate-zoom-sdk-with-react-3a88)
+- [Dev.to/JS] [Communication between React Native web view and React app](https://dev.to/balamurugan/communication-between-react-native-web-view-and-react-app-3ik5)
+- [Dev.to/JS] [Typescript Library Template](https://dev.to/komyg/typescript-library-template-4boa)
+- [Dev.to/JS] [Decentralized Exchanges &lpar;DeX&rpar;](https://dev.to/ayaaneth/decentralized-exchanges-dex-4o0c)
 - [Dev.to/JS] [A Deep Dive article into React form validation using a popular library &#39;Formik&quot;](https://dev.to/ikechukwu411/a-deep-dive-article-into-react-form-validation-using-a-popular-library-formik-4omo)
 - [Dev.to/JS] [New promising web framework Cample.js. Reactivity without VDOM](https://dev.to/antonmak1/new-promising-web-framework-camplejs-reactivity-without-vdom-9j3)
 - [Dev.to/JS] [{Day1} function](https://dev.to/murloc-craft/day1-function-4onk)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Rails serializers to render data through a has_many relationship.](https://dev.to/jdoud1993/using-rails-serializers-to-render-data-through-a-hasmany-relationship-24gn)
 - [Dev.to/JS] [🔥Object in JavaScript](https://dev.to/angdecoder/object-in-javascript-1k0d)
 - [Dev.to/JS] [Enabling TypeScript on an existing JavaScript project with custom path mapping &lpar;path alias&rpar;](https://dev.to/volpato/enabling-typescript-on-an-existing-javascript-project-with-custom-path-mapping-path-alias-43n6)
-- [Dev.to/JS] [Getting Started with Redux | React Tutorial](https://dev.to/iambstha/getting-started-with-redux-react-tutorial-jcl)
-- [Dev.to/JS] [A Quick Look Into Higher Order Functions](https://dev.to/kycodee/a-quick-look-into-higher-order-functions-1dpb)
 - [Lifehacker] [The Difference Between Native and Neonative Plants, and Why It Matters](https://lifehacker.com/the-difference-between-native-and-neonative-plants-and-1850593806)
-- [Dev.to/JS] [New CSS-in-JS lightweight packages for React and Preact](https://dev.to/ndrean/new-css-in-js-lightweight-packages-for-react-and-preact-3jkm)
-- [Dev.to/JS] [How to Extract Text from a Video &lpar;OCR&rpar; with JavaScript?](https://dev.to/edenai/how-to-extract-text-from-a-video-ocr-with-javascript-11dd)
 - [Lifehacker] [Why Your Smoke Detector Is Still Beeping With New Batteries](https://lifehacker.com/why-your-smoke-detector-is-still-beeping-with-new-batte-1850593822)
 - [Lifehacker] [Store Your Tools With Uncooked Rice to Prevent Them From Rusting](https://lifehacker.com/store-your-tools-with-uncooked-rice-to-prevent-them-fro-1850593827)
 - [Lifehacker] [Here&#39;s When Fixing Your Refrigerator Makes More Sense](https://lifehacker.com/heres-when-fixing-your-refrigerator-makes-more-sense-1850593858)
