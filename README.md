@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Your Smoke Detector Is Still Beeping With New Batteries](https://lifehacker.com/why-your-smoke-detector-is-still-beeping-with-new-batte-1850593822)
+- [Dev.to/JS] [How to masterJavascript](https://dev.to/pama01/how-to-masterjavascript-27gk)
+- [Dev.to/JS] [Exploring Advanced JavaScript Techniques: Closures, Prototypes, and Hoisting](https://dev.to/gloscode/exploring-advanced-javascript-techniques-closures-prototypes-and-hoisting-35d9)
+- [Dev.to/JS] [How to Create Paginated, Sortable and Filterable Endpoints with NestJs](https://dev.to/bhkfazano/how-to-create-paginated-sortable-and-filterable-endpoints-with-nestjs-4bom)
 - [Dev.to/JS] [You should not use Fetch API](https://dev.to/capscode/you-should-not-use-fetch-api-5n2)
 - [Lifehacker] [Store Your Tools With Uncooked Rice to Prevent Them From Rusting](https://lifehacker.com/store-your-tools-with-uncooked-rice-to-prevent-them-fro-1850593827)
 - [Dev.to/JS] [Crafting extensible components with React](https://dev.to/jssantana/crafting-extensible-components-with-react-422e)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Form honeypot](https://dev.to/irishgeoff11/form-honeypot-52hk)
 - [Dev.to/JS] [Internet of Things Security and Privacy](https://dev.to/datarecove95829/internet-of-things-security-and-privacy-ha5)
 - [Dev.to/JS] [Eliminating CLS when using SSR for viewport specific responsive designs](https://dev.to/craigmorten/eliminating-cls-when-using-ssr-for-viewport-specific-responsive-designs-2af1)
-- [Dev.to/JS] [&quot;Surviving the Angular Maze: A Code Boot Camp Graduate&#39;s Adventure”](https://dev.to/tomkotlar/surviving-the-angular-maze-a-code-boot-camp-graduates-adventure-3kc7)
-- [Dev.to/JS] [30 Best Web Development Frameworks for 2023: A Comprehensive Guide](https://dev.to/bravinsimiyu/30-best-web-development-frameworks-for-2023-a-comprehensive-guide-512i)
-- [Dev.to/JS] [Learn serverless on AWS step-by-step - SQL with Aurora](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sql-with-aurora-5hn1)
 - [Lifehacker] [Here&#39;s When Fixing Your Refrigerator Makes More Sense](https://lifehacker.com/heres-when-fixing-your-refrigerator-makes-more-sense-1850593858)
 - [Lifehacker] [Three Ways to Get the Most Out of Your Car&#39;s Air Conditioner](https://lifehacker.com/three-ways-to-get-the-most-out-of-your-cars-air-conditi-1850593864)
 - [Lifehacker] [Three Ways to Help Your Garden Recover From Wildfire Smoke](https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Eight of the Best Kid-Friendly Fireworks Alternatives &lpar;and Two Terrible Ideas&rpar;](https://lifehacker.com/eight-of-the-best-kid-friendly-fireworks-alternatives-1850593183)
 - [Lifehacker] [25 of the Most Obscenely Patriotic Movies Ever](https://lifehacker.com/20-of-the-most-obscenely-patriotic-movies-ever-1847211948)
 - [Lifehacker] [I Can&#39;t Stop Air Frying Frozen Corn](https://lifehacker.com/i-cant-stop-air-frying-frozen-corn-1850593035)
-- [Lifehacker] [You Can Get a Lifetime Subscription to Curiosity Stream for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-curiosity-stream-1850589361)
-- [Lifehacker] [These Are the Best Early Prime Day Deals on Air Fryers](https://lifehacker.com/these-are-the-best-early-prime-day-deals-on-air-fryers-1850583409)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a Lifetime Subscription to Curiosity Stream for Over 50% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-subscription-to-curiosity-stream-1850589361)<!-- TECH-POSTS:END -->
 
 ---
 
