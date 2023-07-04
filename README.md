@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Testing in React: Best Practices and Tools](https://dev.to/daryllukas/testing-in-react-best-practices-and-tools-4hab)
+- [Dev.to/JS] [Redirect the user to the default browser on the phone when accessing the website on the web view](https://dev.to/giangnguyenpzh/redirect-the-user-to-the-default-browser-on-the-phone-when-accessing-the-website-on-the-web-view-47p7)
+- [Dev.to/JS] [Streamlining Form Validation in Your Javascript Stack](https://dev.to/zenstack/streamlining-form-validation-in-your-javascript-stack-15ep)
+- [Dev.to/JS] [Flowchart editor dgrm.net / Announcement / Share link](https://dev.to/alexboyko/flowchart-editor-dgrmnet-announcement-share-link-2g64)
+- [Dev.to/JS] [Git Fundamentals for Developers](https://dev.to/scofieldidehen/git-fundamentals-for-developers-2m7f)
 - [Dev.to/JS] [SynoGut Gut Health Formula - Results, Reviews, Benefits, Uses &amp; Where To Buy?](https://dev.to/synogutf91987/synogut-gut-health-formula-results-reviews-benefits-uses-where-to-buy-1jj)
 - [Dev.to/JS] [My Journey In The Open Source World - Contributing to other libraries #3](https://dev.to/cadienvan/my-journey-in-the-open-source-world-contributing-to-other-libraries-3-5bb9)
 - [Dev.to/JS] [Why We Should Start Using Deno: A Comprehensive Guide](https://dev.to/vickygonsalves/why-we-should-start-using-deno-a-comprehensive-guide-33bk)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adding tilt effect to a website using Tilt.js [Repost]](https://dev.to/preetsuthar17/adding-a-tilt-effect-to-a-website-using-tiltjs-repost-3f3)
 - [Dev.to/JS] [TypeScript: Exploring New Features and Their Advantages](https://dev.to/cristain/typescript-exploring-new-features-and-their-advantages-19fa)
 - [Dev.to/JS] [Building a Node.js Application with Supabase: A Simple Integration Example](https://dev.to/preetsuthar17/building-a-nodejs-application-with-supabase-a-simple-integration-example-10ge)
-- [Dev.to/JS] [ChatGPT helped me to convert my code from Xml API to Fetch API](https://dev.to/monkcodes/chatgpt-helped-me-to-convert-my-code-from-xml-api-to-fetch-api-46d6)
-- [Dev.to/JS] [Day-1 Admire &amp; Amaze - 3D Website](https://dev.to/jon_snow789/day-1-admire-amaze-3d-website-1dh9)
-- [Dev.to/JS] [Use headers Authorization in order NOT to re-login after closing browser](https://dev.to/chiju/use-headers-authorization-in-order-not-to-re-login-after-closing-browser-k1d)
-- [Dev.to/JS] [How to set up TypeScript with Node.js and Express &lpar;2023&rpar;](https://dev.to/cristain/how-to-set-up-typescript-with-nodejs-and-express-2023-gf)
-- [Dev.to/JS] [CodeWP: Website Creation with AI WordPress Code Generator](https://dev.to/cmoaiforme/codewp-website-creation-with-ai-wordpress-code-generator-194p)
 - [Lifehacker] [Here&#39;s When Fixing Your Refrigerator Makes More Sense](https://lifehacker.com/heres-when-fixing-your-refrigerator-makes-more-sense-1850593858)
 - [Lifehacker] [Three Ways to Get the Most Out of Your Car&#39;s Air Conditioner](https://lifehacker.com/three-ways-to-get-the-most-out-of-your-cars-air-conditi-1850593864)
 - [Lifehacker] [Three Ways to Help Your Garden Recover From Wildfire Smoke](https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877)
