@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CodeWP: Website Creation with AI WordPress Code Generator](https://dev.to/cmoaiforme/codewp-website-creation-with-ai-wordpress-code-generator-194p)
+- [Dev.to/JS] [Protecting Your JavaScript Code: The Principle of Least Exposure](https://dev.to/kazmi066/protecting-your-javascript-code-the-principle-of-least-exposure-44c2)
 - [Dev.to/JS] [JavaScript Promises](https://dev.to/bolajibolajoko51/javascript-promises-2e8b)
 - [Dev.to/JS] [Exploring 17 Prominent ES6 Features: Unlocking JavaScript&#39;s Power](https://dev.to/ifeolwaisaiah/exploring-17-prominent-es6-features-unlocking-javascripts-power-5a73)
 - [Dev.to/JS] [JSON Guide](https://dev.to/adamcoster/json-guide-27mn)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [One config file to rule them all](https://dev.to/nebrelbug/one-config-file-to-rule-them-all-5nh)
 - [Dev.to/JS] [Embracing the Future with Next.js 13: 20 Powerful Features](https://dev.to/shubhamt619/embracing-the-future-with-nextjs-13-20-powerful-features-1k5f)
 - [Dev.to/JS] [http requests are always served at port 80. PROOF!](https://dev.to/merudra754/http-requests-always-goes-to-port-80-proof-10e7)
-- [Dev.to/JS] [Blog.posts.first](https://dev.to/mikecruzm/blogpostsfirst-4p8l)
-- [Dev.to/JS] [What is NGINX and how reverse proxies work?](https://dev.to/merudra754/what-is-nginx-and-how-reverse-proxies-work-173l)
 - [Lifehacker] [Here&#39;s When Fixing Your Refrigerator Makes More Sense](https://lifehacker.com/heres-when-fixing-your-refrigerator-makes-more-sense-1850593858)
 - [Lifehacker] [Three Ways to Get the Most Out of Your Car&#39;s Air Conditioner](https://lifehacker.com/three-ways-to-get-the-most-out-of-your-cars-air-conditi-1850593864)
 - [Lifehacker] [Three Ways to Help Your Garden Recover From Wildfire Smoke](https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877)
