@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Deep Dive article into React form validation using a popular library &#39;Formik&quot;](https://dev.to/ikechukwu411/a-deep-dive-article-into-react-form-validation-using-a-popular-library-formik-4omo)
+- [Dev.to/JS] [New promising web framework Cample.js. Reactivity without VDOM](https://dev.to/antonmak1/new-promising-web-framework-camplejs-reactivity-without-vdom-9j3)
+- [Dev.to/JS] [{Day1} function](https://dev.to/murloc-craft/day1-function-4onk)
+- [Dev.to/JS] [Refactoring Javascript code with Object Literals: A Clean and Readable Approach](https://dev.to/raza_rafaideen/simplifying-user-authentication-with-object-literals-a-clean-and-readable-approach-57kk)
+- [Dev.to/JS] [6 Coding Interview patterns to solve DSA problems easily &lpar;Data structure &amp; algorithms&rpar;](https://dev.to/xplodivity/6-coding-interview-patterns-to-solve-dsa-problems-easily-data-structure-algorithms-4plg)
+- [Dev.to/JS] [Using Rails serializers to render data through a has_many relationship.](https://dev.to/jdoud1993/using-rails-serializers-to-render-data-through-a-hasmany-relationship-24gn)
 - [Dev.to/JS] [🔥Object in JavaScript](https://dev.to/angdecoder/object-in-javascript-1k0d)
 - [Dev.to/JS] [Enabling TypeScript on an existing JavaScript project with custom path mapping &lpar;path alias&rpar;](https://dev.to/volpato/enabling-typescript-on-an-existing-javascript-project-with-custom-path-mapping-path-alias-43n6)
 - [Dev.to/JS] [Getting Started with Redux | React Tutorial](https://dev.to/iambstha/getting-started-with-redux-react-tutorial-jcl)
@@ -30,13 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Native and Neonative Plants, and Why It Matters](https://lifehacker.com/the-difference-between-native-and-neonative-plants-and-1850593806)
 - [Dev.to/JS] [New CSS-in-JS lightweight packages for React and Preact](https://dev.to/ndrean/new-css-in-js-lightweight-packages-for-react-and-preact-3jkm)
 - [Dev.to/JS] [How to Extract Text from a Video &lpar;OCR&rpar; with JavaScript?](https://dev.to/edenai/how-to-extract-text-from-a-video-ocr-with-javascript-11dd)
-- [Dev.to/JS] [Starting FlatIron School&#39;s Software Engineering Course](https://dev.to/kbuke/starting-flatiron-schools-software-engineering-course-24gp)
-- [Dev.to/JS] [How to implement instance segmentation using YOLOv8 neural network](https://dev.to/andreygermanov/how-to-implement-instance-segmentation-using-yolov8-neural-network-3if9)
-- [Dev.to/JS] [Is startsWith Faster Than RegExp?](https://dev.to/suni/is-startswith-faster-than-regexp-4mig)
 - [Lifehacker] [Why Your Smoke Detector Is Still Beeping With New Batteries](https://lifehacker.com/why-your-smoke-detector-is-still-beeping-with-new-batte-1850593822)
-- [Dev.to/JS] [How to masterJavascript](https://dev.to/pama01/how-to-masterjavascript-27gk)
-- [Dev.to/JS] [Avoid getting Array elements using &quot;Property Accessors&quot; &lpar;array[index]&rpar;](https://dev.to/maafaishal/avoid-getting-array-elements-using-property-accessors-arrayindex-5g6d)
-- [Dev.to/JS] [Exploring Advanced JavaScript Techniques: Closures, Prototypes, and Hoisting](https://dev.to/gloscode/exploring-advanced-javascript-techniques-closures-prototypes-and-hoisting-35d9)
 - [Lifehacker] [Store Your Tools With Uncooked Rice to Prevent Them From Rusting](https://lifehacker.com/store-your-tools-with-uncooked-rice-to-prevent-them-fro-1850593827)
 - [Lifehacker] [Here&#39;s When Fixing Your Refrigerator Makes More Sense](https://lifehacker.com/heres-when-fixing-your-refrigerator-makes-more-sense-1850593858)
 - [Lifehacker] [Three Ways to Get the Most Out of Your Car&#39;s Air Conditioner](https://lifehacker.com/three-ways-to-get-the-most-out-of-your-cars-air-conditi-1850593864)
