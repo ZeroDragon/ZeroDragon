@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to implement instance segmentation using YOLOv8 neural network](https://dev.to/andreygermanov/how-to-implement-instance-segmentation-using-yolov8-neural-network-3if9)
+- [Dev.to/JS] [Is startsWith Faster Than RegExp?](https://dev.to/suni/is-startswith-faster-than-regexp-4mig)
 - [Lifehacker] [Why Your Smoke Detector Is Still Beeping With New Batteries](https://lifehacker.com/why-your-smoke-detector-is-still-beeping-with-new-batte-1850593822)
 - [Dev.to/JS] [How to masterJavascript](https://dev.to/pama01/how-to-masterjavascript-27gk)
 - [Dev.to/JS] [Exploring Advanced JavaScript Techniques: Closures, Prototypes, and Hoisting](https://dev.to/gloscode/exploring-advanced-javascript-techniques-closures-prototypes-and-hoisting-35d9)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to build a scheduling and booking app with cloud data storage and real-time updates in Nuxt.js](https://dev.to/hackmamba/how-to-build-a-scheduling-and-booking-app-with-cloud-data-storage-and-real-time-updates-in-nuxtjs-8jm)
 - [Dev.to/JS] [Help in JavaScript | Julio Herrera](https://dev.to/julioherrera/help-in-javascript-julio-herrera-13m5)
 - [Dev.to/JS] [Form honeypot](https://dev.to/irishgeoff11/form-honeypot-52hk)
-- [Dev.to/JS] [Internet of Things Security and Privacy](https://dev.to/datarecove95829/internet-of-things-security-and-privacy-ha5)
-- [Dev.to/JS] [Eliminating CLS when using SSR for viewport specific responsive designs](https://dev.to/craigmorten/eliminating-cls-when-using-ssr-for-viewport-specific-responsive-designs-2af1)
 - [Lifehacker] [Here&#39;s When Fixing Your Refrigerator Makes More Sense](https://lifehacker.com/heres-when-fixing-your-refrigerator-makes-more-sense-1850593858)
 - [Lifehacker] [Three Ways to Get the Most Out of Your Car&#39;s Air Conditioner](https://lifehacker.com/three-ways-to-get-the-most-out-of-your-cars-air-conditi-1850593864)
 - [Lifehacker] [Three Ways to Help Your Garden Recover From Wildfire Smoke](https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877)
