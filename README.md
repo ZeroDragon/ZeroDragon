@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript&#39;s Immutable Arrays Revolution.](https://dev.to/ibrahimbagalwa/javascripts-immutable-arrays-revolution-2ifg)
+- [Dev.to/JS] [Venturing into the Architectural Wilderness](https://dev.to/milosbugarinovic/venturing-into-the-architectural-wilderness-5h65)
+- [Dev.to/JS] [Problem with react-native-ble-plx library when receiving data](https://dev.to/eduardo0797/problem-with-react-native-ble-plx-library-when-receiving-data-1e49)
 - [Dev.to/JS] [Integrate Zoom SDK with React](https://dev.to/balamurugan/integrate-zoom-sdk-with-react-3a88)
 - [Dev.to/JS] [Communication between React Native web view and React app](https://dev.to/balamurugan/communication-between-react-native-web-view-and-react-app-3ik5)
 - [Dev.to/JS] [Typescript Library Template](https://dev.to/komyg/typescript-library-template-4boa)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [{Day1} function](https://dev.to/murloc-craft/day1-function-4onk)
 - [Dev.to/JS] [Refactoring Javascript code with Object Literals: A Clean and Readable Approach](https://dev.to/raza_rafaideen/simplifying-user-authentication-with-object-literals-a-clean-and-readable-approach-57kk)
 - [Dev.to/JS] [6 Coding Interview patterns to solve DSA problems easily &lpar;Data structure &amp; algorithms&rpar;](https://dev.to/xplodivity/6-coding-interview-patterns-to-solve-dsa-problems-easily-data-structure-algorithms-4plg)
-- [Dev.to/JS] [Using Rails serializers to render data through a has_many relationship.](https://dev.to/jdoud1993/using-rails-serializers-to-render-data-through-a-hasmany-relationship-24gn)
-- [Dev.to/JS] [🔥Object in JavaScript](https://dev.to/angdecoder/object-in-javascript-1k0d)
-- [Dev.to/JS] [Enabling TypeScript on an existing JavaScript project with custom path mapping &lpar;path alias&rpar;](https://dev.to/volpato/enabling-typescript-on-an-existing-javascript-project-with-custom-path-mapping-path-alias-43n6)
 - [Lifehacker] [The Difference Between Native and Neonative Plants, and Why It Matters](https://lifehacker.com/the-difference-between-native-and-neonative-plants-and-1850593806)
 - [Lifehacker] [Why Your Smoke Detector Is Still Beeping With New Batteries](https://lifehacker.com/why-your-smoke-detector-is-still-beeping-with-new-batte-1850593822)
 - [Lifehacker] [Store Your Tools With Uncooked Rice to Prevent Them From Rusting](https://lifehacker.com/store-your-tools-with-uncooked-rice-to-prevent-them-fro-1850593827)
