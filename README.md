@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Eliminating CLS when using SSR for viewport specific responsive designs](https://dev.to/craigmorten/eliminating-cls-when-using-ssr-for-viewport-specific-responsive-designs-2af1)
+- [Dev.to/JS] [&quot;Surviving the Angular Maze: A Code Boot Camp Graduate&#39;s Adventure”](https://dev.to/tomkotlar/surviving-the-angular-maze-a-code-boot-camp-graduates-adventure-3kc7)
+- [Dev.to/JS] [30 Best Web Development Frameworks for 2023: A Comprehensive Guide](https://dev.to/bravinsimiyu/30-best-web-development-frameworks-for-2023-a-comprehensive-guide-512i)
+- [Dev.to/JS] [Learn serverless on AWS step-by-step - SQL with Aurora](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sql-with-aurora-5hn1)
 - [Dev.to/JS] [First Local Advertising in US](https://dev.to/firstlocaladvertising/first-local-advertising-in-us-k2m)
 - [Dev.to/JS] [#LearnedToday: Web Speech API](https://dev.to/danielzotti/learnedtoday-web-speech-api-488)
 - [Dev.to/JS] [How to make your browser talk in ONE line of code](https://dev.to/danielzotti/how-to-make-your-browser-talk-in-one-line-of-code-2pgn)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Testing in React: Best Practices and Tools](https://dev.to/daryllukas/testing-in-react-best-practices-and-tools-4hab)
 - [Dev.to/JS] [Redirect the user to the default browser on the phone when accessing the website on the web view](https://dev.to/giangnguyenpzh/redirect-the-user-to-the-default-browser-on-the-phone-when-accessing-the-website-on-the-web-view-47p7)
 - [Dev.to/JS] [Streamlining Form Validation in Your Javascript Stack](https://dev.to/zenstack/streamlining-form-validation-in-your-javascript-stack-15ep)
-- [Dev.to/JS] [Flowchart editor dgrm.net / Announcement / Share link](https://dev.to/alexboyko/flowchart-editor-dgrmnet-announcement-share-link-2g64)
-- [Dev.to/JS] [Git Fundamentals for Developers](https://dev.to/scofieldidehen/git-fundamentals-for-developers-2m7f)
-- [Dev.to/JS] [SynoGut Gut Health Formula - Results, Reviews, Benefits, Uses &amp; Where To Buy?](https://dev.to/synogutf91987/synogut-gut-health-formula-results-reviews-benefits-uses-where-to-buy-1jj)
-- [Dev.to/JS] [My Journey In The Open Source World - Contributing to other libraries #3](https://dev.to/cadienvan/my-journey-in-the-open-source-world-contributing-to-other-libraries-3-5bb9)
 - [Lifehacker] [Here&#39;s When Fixing Your Refrigerator Makes More Sense](https://lifehacker.com/heres-when-fixing-your-refrigerator-makes-more-sense-1850593858)
 - [Lifehacker] [Three Ways to Get the Most Out of Your Car&#39;s Air Conditioner](https://lifehacker.com/three-ways-to-get-the-most-out-of-your-cars-air-conditi-1850593864)
 - [Lifehacker] [Three Ways to Help Your Garden Recover From Wildfire Smoke](https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877)
