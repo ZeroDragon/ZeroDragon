@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SynoGut Gut Health Formula - Results, Reviews, Benefits, Uses &amp; Where To Buy?](https://dev.to/synogutf91987/synogut-gut-health-formula-results-reviews-benefits-uses-where-to-buy-1jj)
+- [Dev.to/JS] [My Journey In The Open Source World - Contributing to other libraries #3](https://dev.to/cadienvan/my-journey-in-the-open-source-world-contributing-to-other-libraries-3-5bb9)
+- [Dev.to/JS] [Why We Should Start Using Deno: A Comprehensive Guide](https://dev.to/vickygonsalves/why-we-should-start-using-deno-a-comprehensive-guide-33bk)
+- [Dev.to/JS] [Building RESTful APIs with Deno: A Boilerplate for Rapid Development](https://dev.to/vickygonsalves/building-restful-apis-with-deno-a-boilerplate-for-rapid-development-4feo)
 - [Dev.to/JS] [Adding tilt effect to a website using Tilt.js [Repost]](https://dev.to/preetsuthar17/adding-a-tilt-effect-to-a-website-using-tiltjs-repost-3f3)
 - [Dev.to/JS] [TypeScript: Exploring New Features and Their Advantages](https://dev.to/cristain/typescript-exploring-new-features-and-their-advantages-19fa)
 - [Dev.to/JS] [Building a Node.js Application with Supabase: A Simple Integration Example](https://dev.to/preetsuthar17/building-a-nodejs-application-with-supabase-a-simple-integration-example-10ge)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Use headers Authorization in order NOT to re-login after closing browser](https://dev.to/chiju/use-headers-authorization-in-order-not-to-re-login-after-closing-browser-k1d)
 - [Dev.to/JS] [How to set up TypeScript with Node.js and Express &lpar;2023&rpar;](https://dev.to/cristain/how-to-set-up-typescript-with-nodejs-and-express-2023-gf)
 - [Dev.to/JS] [CodeWP: Website Creation with AI WordPress Code Generator](https://dev.to/cmoaiforme/codewp-website-creation-with-ai-wordpress-code-generator-194p)
-- [Dev.to/JS] [Protecting Your JavaScript Code: The Principle of Least Exposure](https://dev.to/kazmi066/protecting-your-javascript-code-the-principle-of-least-exposure-44c2)
-- [Dev.to/JS] [JavaScript Promises](https://dev.to/bolajibolajoko51/javascript-promises-2e8b)
-- [Dev.to/JS] [Exploring 17 Prominent ES6 Features: Unlocking JavaScript&#39;s Power](https://dev.to/ifeolwaisaiah/exploring-17-prominent-es6-features-unlocking-javascripts-power-5a73)
-- [Dev.to/JS] [JSON Guide](https://dev.to/adamcoster/json-guide-27mn)
 - [Lifehacker] [Here&#39;s When Fixing Your Refrigerator Makes More Sense](https://lifehacker.com/heres-when-fixing-your-refrigerator-makes-more-sense-1850593858)
 - [Lifehacker] [Three Ways to Get the Most Out of Your Car&#39;s Air Conditioner](https://lifehacker.com/three-ways-to-get-the-most-out-of-your-cars-air-conditi-1850593864)
 - [Lifehacker] [Three Ways to Help Your Garden Recover From Wildfire Smoke](https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877)
