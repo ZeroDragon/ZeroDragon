@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [First Local Advertising in US](https://dev.to/firstlocaladvertising/first-local-advertising-in-us-k2m)
 - [Dev.to/JS] [#LearnedToday: Web Speech API](https://dev.to/danielzotti/learnedtoday-web-speech-api-488)
 - [Dev.to/JS] [How to make your browser talk in ONE line of code](https://dev.to/danielzotti/how-to-make-your-browser-talk-in-one-line-of-code-2pgn)
 - [Dev.to/JS] [My JavaScript journal](https://dev.to/murloc-craft/my-javascript-journal-44g8)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Git Fundamentals for Developers](https://dev.to/scofieldidehen/git-fundamentals-for-developers-2m7f)
 - [Dev.to/JS] [SynoGut Gut Health Formula - Results, Reviews, Benefits, Uses &amp; Where To Buy?](https://dev.to/synogutf91987/synogut-gut-health-formula-results-reviews-benefits-uses-where-to-buy-1jj)
 - [Dev.to/JS] [My Journey In The Open Source World - Contributing to other libraries #3](https://dev.to/cadienvan/my-journey-in-the-open-source-world-contributing-to-other-libraries-3-5bb9)
-- [Dev.to/JS] [Why We Should Start Using Deno: A Comprehensive Guide](https://dev.to/vickygonsalves/why-we-should-start-using-deno-a-comprehensive-guide-33bk)
 - [Lifehacker] [Here&#39;s When Fixing Your Refrigerator Makes More Sense](https://lifehacker.com/heres-when-fixing-your-refrigerator-makes-more-sense-1850593858)
 - [Lifehacker] [Three Ways to Get the Most Out of Your Car&#39;s Air Conditioner](https://lifehacker.com/three-ways-to-get-the-most-out-of-your-cars-air-conditi-1850593864)
 - [Lifehacker] [Three Ways to Help Your Garden Recover From Wildfire Smoke](https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877)
