@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🦄 Building a pricing page with NextJS 🤯 🤯](https://dev.to/github20k/building-a-pricing-page-with-nextjs-1b1f)
+- [Dev.to/JS] [Is JavaScript Dying? 💀](https://dev.to/akashpattnaik/is-javascript-dying-1joe)
+- [Dev.to/JS] [How to build a scheduling and booking app with cloud data storage and real-time updates in Nuxt.js](https://dev.to/hackmamba/how-to-build-a-scheduling-and-booking-app-with-cloud-data-storage-and-real-time-updates-in-nuxtjs-8jm)
 - [Dev.to/JS] [Help in JavaScript | Julio Herrera](https://dev.to/julioherrera/help-in-javascript-julio-herrera-13m5)
 - [Dev.to/JS] [Form honeypot](https://dev.to/irishgeoff11/form-honeypot-52hk)
 - [Dev.to/JS] [Internet of Things Security and Privacy](https://dev.to/datarecove95829/internet-of-things-security-and-privacy-ha5)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn serverless on AWS step-by-step - SQL with Aurora](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sql-with-aurora-5hn1)
 - [Dev.to/JS] [First Local Advertising in US](https://dev.to/firstlocaladvertising/first-local-advertising-in-us-k2m)
 - [Dev.to/JS] [#LearnedToday: Web Speech API](https://dev.to/danielzotti/learnedtoday-web-speech-api-488)
-- [Dev.to/JS] [How to make your browser talk in ONE line of code](https://dev.to/danielzotti/how-to-make-your-browser-talk-in-one-line-of-code-2pgn)
-- [Dev.to/JS] [My JavaScript journal](https://dev.to/murloc-craft/my-javascript-journal-44g8)
-- [Dev.to/JS] [How to Apply Interface Segregation Principle in ReactJS](https://dev.to/mohammadfaisal/how-to-apply-interface-segregation-principle-in-reactjs-l8p)
 - [Lifehacker] [Here&#39;s When Fixing Your Refrigerator Makes More Sense](https://lifehacker.com/heres-when-fixing-your-refrigerator-makes-more-sense-1850593858)
 - [Lifehacker] [Three Ways to Get the Most Out of Your Car&#39;s Air Conditioner](https://lifehacker.com/three-ways-to-get-the-most-out-of-your-cars-air-conditi-1850593864)
 - [Lifehacker] [Three Ways to Help Your Garden Recover From Wildfire Smoke](https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877)
