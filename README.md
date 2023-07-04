@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🔥Object in JavaScript](https://dev.to/angdecoder/object-in-javascript-1k0d)
+- [Dev.to/JS] [Enabling TypeScript on an existing JavaScript project with custom path mapping &lpar;path alias&rpar;](https://dev.to/volpato/enabling-typescript-on-an-existing-javascript-project-with-custom-path-mapping-path-alias-43n6)
+- [Dev.to/JS] [Getting Started with Redux | React Tutorial](https://dev.to/iambstha/getting-started-with-redux-react-tutorial-jcl)
+- [Dev.to/JS] [A Quick Look Into Higher Order Functions](https://dev.to/kycodee/a-quick-look-into-higher-order-functions-1dpb)
 - [Lifehacker] [The Difference Between Native and Neonative Plants, and Why It Matters](https://lifehacker.com/the-difference-between-native-and-neonative-plants-and-1850593806)
 - [Dev.to/JS] [New CSS-in-JS lightweight packages for React and Preact](https://dev.to/ndrean/new-css-in-js-lightweight-packages-for-react-and-preact-3jkm)
 - [Dev.to/JS] [How to Extract Text from a Video &lpar;OCR&rpar; with JavaScript?](https://dev.to/edenai/how-to-extract-text-from-a-video-ocr-with-javascript-11dd)
@@ -31,13 +35,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is startsWith Faster Than RegExp?](https://dev.to/suni/is-startswith-faster-than-regexp-4mig)
 - [Lifehacker] [Why Your Smoke Detector Is Still Beeping With New Batteries](https://lifehacker.com/why-your-smoke-detector-is-still-beeping-with-new-batte-1850593822)
 - [Dev.to/JS] [How to masterJavascript](https://dev.to/pama01/how-to-masterjavascript-27gk)
+- [Dev.to/JS] [Avoid getting Array elements using &quot;Property Accessors&quot; &lpar;array[index]&rpar;](https://dev.to/maafaishal/avoid-getting-array-elements-using-property-accessors-arrayindex-5g6d)
 - [Dev.to/JS] [Exploring Advanced JavaScript Techniques: Closures, Prototypes, and Hoisting](https://dev.to/gloscode/exploring-advanced-javascript-techniques-closures-prototypes-and-hoisting-35d9)
-- [Dev.to/JS] [How to Create Paginated, Sortable and Filterable Endpoints with NestJs](https://dev.to/bhkfazano/how-to-create-paginated-sortable-and-filterable-endpoints-with-nestjs-4bom)
-- [Dev.to/JS] [You should not use Fetch API](https://dev.to/capscode/you-should-not-use-fetch-api-5n2)
 - [Lifehacker] [Store Your Tools With Uncooked Rice to Prevent Them From Rusting](https://lifehacker.com/store-your-tools-with-uncooked-rice-to-prevent-them-fro-1850593827)
-- [Dev.to/JS] [Crafting extensible components with React](https://dev.to/jssantana/crafting-extensible-components-with-react-422e)
-- [Dev.to/JS] [🦄 Building a pricing page with NextJS 🤯 🤯](https://dev.to/github20k/building-a-pricing-page-with-nextjs-1b1f)
-- [Dev.to/JS] [Is JavaScript Dying? 💀](https://dev.to/akashpattnaik/is-javascript-dying-1joe)
 - [Lifehacker] [Here&#39;s When Fixing Your Refrigerator Makes More Sense](https://lifehacker.com/heres-when-fixing-your-refrigerator-makes-more-sense-1850593858)
 - [Lifehacker] [Three Ways to Get the Most Out of Your Car&#39;s Air Conditioner](https://lifehacker.com/three-ways-to-get-the-most-out-of-your-cars-air-conditi-1850593864)
 - [Lifehacker] [Three Ways to Help Your Garden Recover From Wildfire Smoke](https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877)
