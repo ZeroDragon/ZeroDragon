@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Simple Implementation of Promises in JavaScript: Meet the Vow Class](https://dev.to/waelhabbal/a-simple-implementation-of-promises-in-javascript-meet-the-vow-class-29pf)
+- [Lifehacker] [Six Clever Ways to Use Luminous Paint &lpar;and Three That Aren’t Too Smart&rpar;](https://lifehacker.com/six-clever-ways-to-use-luminous-paint-and-three-that-a-1850606394)
+- [Dev.to/JS] [Exploring the Impact of JavaScript on Web Development and SEO](https://dev.to/__7836b3a2976fee/exploring-the-impact-of-javascript-on-web-development-and-seo-26m3)
+- [Dev.to/JS] [React Native Vision Camera library to capture and record videos](https://dev.to/shyammanek/react-native-vision-camera-library-to-capture-and-record-videos-1ioi)
 - [Lifehacker] [Your Kitchen Needs a Cup Full of Baby Spoons](https://lifehacker.com/your-kitchen-needs-a-cup-full-of-baby-spoons-1850606644)
+- [Dev.to/JS] [CLASE BUFFER EN NODE.JS](https://dev.to/jorgeabad/clase-buffer-en-nodejs-2d8a)
 - [Dev.to/JS] [Introducción a Buffer en JavaScript](https://dev.to/jorgeabad/introduccion-a-buffer-en-javascript-26h5)
 - [Dev.to/JS] [Migration to TypeScript Advice](https://dev.to/abdeldjalilhachimi/migration-to-typescript-advice-32e4)
 - [Lifehacker] [This truRelief Massage Gun Is on Sale for 90% Off Right Now](https://lifehacker.com/this-trurelief-massage-gun-is-on-sale-for-90-off-right-1850589410)
@@ -35,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Daily Frontend problem-01](https://dev.to/chandrapenugonda/daily-frontend-problem-cf8)
 - [Lifehacker] [Six Places You Should Never Use WD-40](https://lifehacker.com/six-places-you-should-never-use-wd-40-1850605045)
 - [Dev.to/JS] [Static Web Hosting Service](https://dev.to/irishgeoff11/static-web-hosting-service-4lme)
-- [Dev.to/JS] [Controle de Exibição de Elementos no React usando Show e Hide](https://dev.to/demgoncalves/controle-de-exibicao-de-elementos-no-react-usando-show-e-hide-373k)
-- [Dev.to/JS] [What to Expect of AdonisJS 6?](https://dev.to/adonisframework/what-to-expect-of-adonisjs-6-2daj)
 - [Lifehacker] [This Adobe Creative Cloud Certification Course Is 80% Off Right Now](https://lifehacker.com/this-adobe-creative-cloud-certification-course-is-80-o-1850589434)
-- [Dev.to/JS] [Displaying your full-sized YouTube thumbnail or a custom OG image in a Twitter card](https://dev.to/philhawksworth/displaying-your-full-sized-youtube-thumbnail-or-a-custom-og-image-in-a-twitter-card-g0h)
-- [Dev.to/JS] [Top TypeScript Utility Functions You Need to Know](https://dev.to/cristain/top-typescript-utility-functions-you-need-to-know-n0n)
 - [Lifehacker] [The Best Early Prime Day Deals for Gardeners](https://lifehacker.com/the-best-early-prime-day-deals-for-gardeners-1850602445)
 - [Lifehacker] [10 Conspiracy Theory Podcasts They Don’t Want You to Listen To](https://lifehacker.com/10-conspiracy-theory-podcasts-they-don-t-want-you-to-li-1850596788)
 - [Lifehacker] [This EcoFlow Delta Portable Power Station Is $600 Off Right Now](https://lifehacker.com/this-ecoflow-delta-portable-power-station-is-600-off-r-1850589421)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best and Worst Times to Drive Fourth of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-fourth-of-july-weeken-1850593988)
 - [Lifehacker] [Here Are the Best Early Prime Day Deals on Kitchen Essentials](https://lifehacker.com/here-are-the-best-early-prime-day-deals-on-kitchen-esse-1850592785)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are Grimace Shakes Killing People?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-grima-1850597126)
-- [Lifehacker] [TikTok Diet of the Week: the Mustard and Cottage Cheese Plate](https://lifehacker.com/tiktok-diet-of-the-week-the-mustard-and-cottage-cheese-1850597057)
-- [Lifehacker] [The Least Messy Way to Cut a Watermelon](https://lifehacker.com/the-least-messy-way-to-cut-a-watermelon-1850597009)<!-- TECH-POSTS:END -->
+- [Lifehacker] [TikTok Diet of the Week: the Mustard and Cottage Cheese Plate](https://lifehacker.com/tiktok-diet-of-the-week-the-mustard-and-cottage-cheese-1850597057)<!-- TECH-POSTS:END -->
 
 ---
 
