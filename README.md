@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Host static website on netlify](https://dev.to/irishgeoff11/host-static-website-on-netlify-4i62)
+- [Lifehacker] [The Difference Between a Good and Bad Follower at Work](https://lifehacker.com/the-difference-between-a-good-and-bad-follower-at-work-1850601606)
+- [Dev.to/JS] [Javascript Dumbed down guide Part One!](https://dev.to/shawn2208/javascript-dumbed-down-guide-part-one-14h4)
+- [Dev.to/JS] [A step-by-step guide to developing and deploying Vue apps with docker, part three](https://dev.to/tqbit/a-step-by-step-guide-to-developing-and-deploying-vue-apps-with-docker-part-three-26dd)
+- [Lifehacker] [The Easiest Way to Layer a Cocktail Without a Bar Spoon](https://lifehacker.com/the-easiest-way-to-layer-a-cocktail-without-a-bar-spoon-1850597164)
+- [Dev.to/JS] [Vuejs 3 Style Guide](https://dev.to/wadizaatour/vuejs-3-style-guide-4880)
 - [Lifehacker] [Dashi Is the Best Base for Summery Soups](https://lifehacker.com/dashi-is-the-best-base-for-summery-soups-1850593805)
 - [Dev.to/JS] [Event Handlers in React](https://dev.to/shamza214/event-handlers-in-react-187p)
 - [Dev.to/JS] [Creating an Express.js App Using Typescript &amp; MongoDb P-1](https://dev.to/abdulrahilsheikh/creating-an-expressjs-app-using-typescript-mongodb-p-1-1ha3)
@@ -32,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Diving into Data Query: A Beginner&#39;s Guide to GraphQL with JavaScript](https://dev.to/abhaysinghr1/diving-into-data-query-a-beginners-guide-to-graphql-with-javascript-35kc)
 - [Dev.to/JS] [#LearnedToday: Conditionally add properties to an object](https://dev.to/danielzotti/learnedtoday-conditionally-add-properties-to-an-object-4kko)
 - [Dev.to/JS] [Understanding package.json II: Scripts](https://dev.to/dyte/understanding-packagejson-ii-scripts-2akn)
-- [Dev.to/JS] [Exploring Current Trends and Future Directions of Artificial Intelligence &lpar;AI&rpar; Research and Development](https://dev.to/rockjonn/exploring-current-trends-and-future-directions-of-artificial-intelligence-ai-research-and-development-4c9i)
-- [Dev.to/JS] [Leveraging Google News API for Real-Time News](https://dev.to/newsdataio/leveraging-google-news-api-for-real-time-news-2go1)
-- [Dev.to/JS] [Deploying A NodeJS App With Elastic Beanstalk](https://dev.to/alvacoder/deploying-a-nodejs-app-with-elastic-beanstalk-2h5p)
-- [Dev.to/JS] [Database Transactions](https://dev.to/nipu/database-transactions-3km3)
 - [Lifehacker] [The Difference Between Native and Neonative Plants, and Why It Matters](https://lifehacker.com/the-difference-between-native-and-neonative-plants-and-1850593806)
 - [Lifehacker] [Why Your Smoke Detector Is Still Beeping With New Batteries](https://lifehacker.com/why-your-smoke-detector-is-still-beeping-with-new-batte-1850593822)
 - [Lifehacker] [Store Your Tools With Uncooked Rice to Prevent Them From Rusting](https://lifehacker.com/store-your-tools-with-uncooked-rice-to-prevent-them-fro-1850593827)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Replace Windows 11&#39;s File Explorer With the Files App](https://lifehacker.com/you-should-replace-windows-11s-file-explorer-with-the-f-1850594433)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in July 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-july-2023-1850595576)
 - [Lifehacker] [13 Anti-Patriotic Movies If You Aren’t Feeling the Fourth of July](https://lifehacker.com/13-anti-patriotic-movies-if-you-aren-t-feeling-the-four-1850594352)
-- [Lifehacker] [What You Should Know Before You Buy a Tiny Home Kit](https://lifehacker.com/what-you-should-know-before-you-buy-a-tiny-home-kit-1850594127)
-- [Lifehacker] [Eight of the Best Kid-Friendly Fireworks Alternatives &lpar;and Two Terrible Ideas&rpar;](https://lifehacker.com/eight-of-the-best-kid-friendly-fireworks-alternatives-1850593183)
-- [Lifehacker] [25 of the Most Obscenely Patriotic Movies Ever](https://lifehacker.com/20-of-the-most-obscenely-patriotic-movies-ever-1847211948)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What You Should Know Before You Buy a Tiny Home Kit](https://lifehacker.com/what-you-should-know-before-you-buy-a-tiny-home-kit-1850594127)<!-- TECH-POSTS:END -->
 
 ---
 
