@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring Current Trends and Future Directions of Artificial Intelligence &lpar;AI&rpar; Research and Development](https://dev.to/rockjonn/exploring-current-trends-and-future-directions-of-artificial-intelligence-ai-research-and-development-4c9i)
+- [Dev.to/JS] [Leveraging Google News API for Real-Time News](https://dev.to/newsdataio/leveraging-google-news-api-for-real-time-news-2go1)
+- [Dev.to/JS] [Deploying A NodeJS App With Elastic Beanstalk](https://dev.to/alvacoder/deploying-a-nodejs-app-with-elastic-beanstalk-2h5p)
 - [Dev.to/JS] [Database Transactions](https://dev.to/nipu/database-transactions-3km3)
 - [Dev.to/JS] [Weekly web development resources #156](https://dev.to/vincenius/weekly-web-development-resources-156-301b)
 - [Dev.to/JS] [Leveraging the useId Hook in React: Simplifying Unique ID Generation](https://dev.to/farhadasadzade/leveraging-the-useid-hook-in-react-simplifying-unique-id-generation-1lbd)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [7 Game-Changing AI Tools Every Developer Should Know About](https://dev.to/aiforme/7-game-changing-ai-tools-every-developer-should-know-about-k83)
 - [Dev.to/JS] [7 Easy Ways To Check If An Object Is Empty In JavaScript](https://dev.to/onlinemsr/7-easy-ways-to-check-if-an-object-is-empty-in-javascript-ddm)
 - [Dev.to/JS] [AntDB Cloud-native Distributed Architecture](https://dev.to/antdbanhui/antdb-cloud-native-distributed-architecture-1j4g)
-- [Dev.to/JS] [Increasing productivity: Best practices for React beginners.](https://dev.to/documatic/increasing-productivity-best-practices-for-react-beginners-55c5)
-- [Dev.to/JS] [JavaScript&#39;s Immutable Arrays Revolution.](https://dev.to/ibrahimbagalwa/javascripts-immutable-arrays-revolution-2ifg)
-- [Dev.to/JS] [Venturing into the Architectural Wilderness](https://dev.to/milosbugarinovic/venturing-into-the-architectural-wilderness-5h65)
 - [Lifehacker] [The Difference Between Native and Neonative Plants, and Why It Matters](https://lifehacker.com/the-difference-between-native-and-neonative-plants-and-1850593806)
 - [Lifehacker] [Why Your Smoke Detector Is Still Beeping With New Batteries](https://lifehacker.com/why-your-smoke-detector-is-still-beeping-with-new-batte-1850593822)
 - [Lifehacker] [Store Your Tools With Uncooked Rice to Prevent Them From Rusting](https://lifehacker.com/store-your-tools-with-uncooked-rice-to-prevent-them-fro-1850593827)
