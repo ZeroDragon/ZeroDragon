@@ -23,7 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Kitchen Needs a Cup Full of Baby Spoons](https://lifehacker.com/your-kitchen-needs-a-cup-full-of-baby-spoons-1850606644)
+- [Dev.to/JS] [Introducción a Buffer en JavaScript](https://dev.to/jorgeabad/introduccion-a-buffer-en-javascript-26h5)
+- [Dev.to/JS] [Migration to TypeScript Advice](https://dev.to/abdeldjalilhachimi/migration-to-typescript-advice-32e4)
+- [Lifehacker] [This truRelief Massage Gun Is on Sale for 90% Off Right Now](https://lifehacker.com/this-trurelief-massage-gun-is-on-sale-for-90-off-right-1850589410)
+- [Dev.to/JS] [Supercharge Your JavaScript Performance: Advanced Techniques for Lightning-Fast Code Execution](https://dev.to/getsmartwebsite/supercharge-your-javascript-performance-advanced-techniques-for-lightning-fast-code-execution-3cdi)
+- [Dev.to/JS] [Understanding JavaScript&#39;s Single-Threaded Nature](https://dev.to/roktim32/understanding-javascripts-single-threaded-nature-5cd6)
 - [Lifehacker] [The Five Laziest Ways to Compost](https://lifehacker.com/the-five-laziest-ways-to-compost-1850602707)
+- [Dev.to/JS] [Exploring ApplyMiddleware: How it works behind the curtain](https://dev.to/pandresdev/exploring-applymiddleware-how-it-works-behind-the-curtain-1kc)
+- [Dev.to/JS] [How I Got Hired Contributing to open source projects](https://dev.to/opensauced/how-i-got-hired-contributing-to-open-source-projects-546i)
 - [Dev.to/JS] [Daily Frontend problem-01](https://dev.to/chandrapenugonda/daily-frontend-problem-cf8)
 - [Lifehacker] [Six Places You Should Never Use WD-40](https://lifehacker.com/six-places-you-should-never-use-wd-40-1850605045)
 - [Dev.to/JS] [Static Web Hosting Service](https://dev.to/irishgeoff11/static-web-hosting-service-4lme)
@@ -32,17 +40,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Adobe Creative Cloud Certification Course Is 80% Off Right Now](https://lifehacker.com/this-adobe-creative-cloud-certification-course-is-80-o-1850589434)
 - [Dev.to/JS] [Displaying your full-sized YouTube thumbnail or a custom OG image in a Twitter card](https://dev.to/philhawksworth/displaying-your-full-sized-youtube-thumbnail-or-a-custom-og-image-in-a-twitter-card-g0h)
 - [Dev.to/JS] [Top TypeScript Utility Functions You Need to Know](https://dev.to/cristain/top-typescript-utility-functions-you-need-to-know-n0n)
-- [Dev.to/JS] [Debugging in Console](https://dev.to/codethepotato/debugging-in-console-4011)
-- [Dev.to/JS] [Safely use `JSON.parse&lpar;&rpar;` in TypeScript](https://dev.to/maafaishal/safely-use-jsonparse-in-typescript-12e7)
 - [Lifehacker] [The Best Early Prime Day Deals for Gardeners](https://lifehacker.com/the-best-early-prime-day-deals-for-gardeners-1850602445)
 - [Lifehacker] [10 Conspiracy Theory Podcasts They Don’t Want You to Listen To](https://lifehacker.com/10-conspiracy-theory-podcasts-they-don-t-want-you-to-li-1850596788)
 - [Lifehacker] [This EcoFlow Delta Portable Power Station Is $600 Off Right Now](https://lifehacker.com/this-ecoflow-delta-portable-power-station-is-600-off-r-1850589421)
-- [Dev.to/JS] [What are the advantages of using Solidity for dApp development?](https://dev.to/cooper_91/what-are-the-advantages-of-using-solidity-for-dapp-development-1oko)
 - [Lifehacker] [Eight Ways to DIY a Tool on the Spot](https://lifehacker.com/eight-ways-to-diy-a-tool-on-the-spot-1850601615)
-- [Dev.to/JS] [What framework should you use to create an accessible component library?](https://dev.to/ismaestro/what-framework-should-i-use-to-create-a-component-library-1o3d)
-- [Dev.to/JS] [Host static website on netlify](https://dev.to/irishgeoff11/host-static-website-on-netlify-4i62)
 - [Lifehacker] [The Difference Between a Good and Bad Follower at Work](https://lifehacker.com/the-difference-between-a-good-and-bad-follower-at-work-1850601606)
-- [Dev.to/JS] [Javascript Dumbed down guide Part One!](https://dev.to/shawn2208/javascript-dumbed-down-guide-part-one-14h4)
 - [Lifehacker] [The Easiest Way to Layer a Cocktail Without a Bar Spoon](https://lifehacker.com/the-easiest-way-to-layer-a-cocktail-without-a-bar-spoon-1850597164)
 - [Lifehacker] [Dashi Is the Best Base for Summery Soups](https://lifehacker.com/dashi-is-the-best-base-for-summery-soups-1850593805)
 - [Lifehacker] [The Difference Between Native and Neonative Plants, and Why It Matters](https://lifehacker.com/the-difference-between-native-and-neonative-plants-and-1850593806)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here Are the Best Early Prime Day Deals on Kitchen Essentials](https://lifehacker.com/here-are-the-best-early-prime-day-deals-on-kitchen-esse-1850592785)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Are Grimace Shakes Killing People?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-grima-1850597126)
 - [Lifehacker] [TikTok Diet of the Week: the Mustard and Cottage Cheese Plate](https://lifehacker.com/tiktok-diet-of-the-week-the-mustard-and-cottage-cheese-1850597057)
-- [Lifehacker] [The Least Messy Way to Cut a Watermelon](https://lifehacker.com/the-least-messy-way-to-cut-a-watermelon-1850597009)
-- [Lifehacker] [What the Supreme Court’s Student Debt Ruling Means for You](https://lifehacker.com/what-the-supreme-court-s-student-debt-ruling-means-for-1850596926)
-- [Lifehacker] [Make Superb Pickles by Burying Them in Rice Bran](https://lifehacker.com/make-superb-pickles-by-burying-them-in-rice-bran-1850593204)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Least Messy Way to Cut a Watermelon](https://lifehacker.com/the-least-messy-way-to-cut-a-watermelon-1850597009)<!-- TECH-POSTS:END -->
 
 ---
 
