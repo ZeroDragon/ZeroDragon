@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Private static members in Javascript](https://dev.to/merudra754/private-static-members-in-javascript-17h9)
+- [Dev.to/JS] [Diving into Data Query: A Beginner&#39;s Guide to GraphQL with JavaScript](https://dev.to/abhaysinghr1/diving-into-data-query-a-beginners-guide-to-graphql-with-javascript-35kc)
+- [Dev.to/JS] [#LearnedToday: Conditionally add properties to an object](https://dev.to/danielzotti/learnedtoday-conditionally-add-properties-to-an-object-4kko)
 - [Dev.to/JS] [Understanding package.json II: Scripts](https://dev.to/dyte/understanding-packagejson-ii-scripts-2akn)
 - [Dev.to/JS] [Exploring Current Trends and Future Directions of Artificial Intelligence &lpar;AI&rpar; Research and Development](https://dev.to/rockjonn/exploring-current-trends-and-future-directions-of-artificial-intelligence-ai-research-and-development-4c9i)
 - [Dev.to/JS] [Leveraging Google News API for Real-Time News](https://dev.to/newsdataio/leveraging-google-news-api-for-real-time-news-2go1)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Leveraging the useId Hook in React: Simplifying Unique ID Generation](https://dev.to/farhadasadzade/leveraging-the-useid-hook-in-react-simplifying-unique-id-generation-1lbd)
 - [Dev.to/JS] [&quot;Big O&quot; haqida gaplashamiz](https://dev.to/udilbar/big-o-haqida-gaplashamiz-4ni9)
 - [Dev.to/JS] [Fogos de Artificio](https://dev.to/marcosaureliosl/fogos-de-artificio-11b)
-- [Dev.to/JS] [Metamask Snaps](https://dev.to/kamalthedev/metamask-snaps-2d9l)
-- [Dev.to/JS] [7 Game-Changing AI Tools Every Developer Should Know About](https://dev.to/aiforme/7-game-changing-ai-tools-every-developer-should-know-about-k83)
-- [Dev.to/JS] [7 Easy Ways To Check If An Object Is Empty In JavaScript](https://dev.to/onlinemsr/7-easy-ways-to-check-if-an-object-is-empty-in-javascript-ddm)
 - [Lifehacker] [The Difference Between Native and Neonative Plants, and Why It Matters](https://lifehacker.com/the-difference-between-native-and-neonative-plants-and-1850593806)
 - [Lifehacker] [Why Your Smoke Detector Is Still Beeping With New Batteries](https://lifehacker.com/why-your-smoke-detector-is-still-beeping-with-new-batte-1850593822)
 - [Lifehacker] [Store Your Tools With Uncooked Rice to Prevent Them From Rusting](https://lifehacker.com/store-your-tools-with-uncooked-rice-to-prevent-them-fro-1850593827)
