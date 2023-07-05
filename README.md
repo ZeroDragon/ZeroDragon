@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding package.json II: Scripts](https://dev.to/dyte/understanding-packagejson-ii-scripts-2akn)
 - [Dev.to/JS] [Exploring Current Trends and Future Directions of Artificial Intelligence &lpar;AI&rpar; Research and Development](https://dev.to/rockjonn/exploring-current-trends-and-future-directions-of-artificial-intelligence-ai-research-and-development-4c9i)
 - [Dev.to/JS] [Leveraging Google News API for Real-Time News](https://dev.to/newsdataio/leveraging-google-news-api-for-real-time-news-2go1)
 - [Dev.to/JS] [Deploying A NodeJS App With Elastic Beanstalk](https://dev.to/alvacoder/deploying-a-nodejs-app-with-elastic-beanstalk-2h5p)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Metamask Snaps](https://dev.to/kamalthedev/metamask-snaps-2d9l)
 - [Dev.to/JS] [7 Game-Changing AI Tools Every Developer Should Know About](https://dev.to/aiforme/7-game-changing-ai-tools-every-developer-should-know-about-k83)
 - [Dev.to/JS] [7 Easy Ways To Check If An Object Is Empty In JavaScript](https://dev.to/onlinemsr/7-easy-ways-to-check-if-an-object-is-empty-in-javascript-ddm)
-- [Dev.to/JS] [AntDB Cloud-native Distributed Architecture](https://dev.to/antdbanhui/antdb-cloud-native-distributed-architecture-1j4g)
 - [Lifehacker] [The Difference Between Native and Neonative Plants, and Why It Matters](https://lifehacker.com/the-difference-between-native-and-neonative-plants-and-1850593806)
 - [Lifehacker] [Why Your Smoke Detector Is Still Beeping With New Batteries](https://lifehacker.com/why-your-smoke-detector-is-still-beeping-with-new-batte-1850593822)
 - [Lifehacker] [Store Your Tools With Uncooked Rice to Prevent Them From Rusting](https://lifehacker.com/store-your-tools-with-uncooked-rice-to-prevent-them-fro-1850593827)
