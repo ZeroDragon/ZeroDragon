@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Dashi Is the Best Base for Summery Soups](https://lifehacker.com/dashi-is-the-best-base-for-summery-soups-1850593805)
 - [Dev.to/JS] [Event Handlers in React](https://dev.to/shamza214/event-handlers-in-react-187p)
 - [Dev.to/JS] [Creating an Express.js App Using Typescript &amp; MongoDb P-1](https://dev.to/abdulrahilsheikh/creating-an-expressjs-app-using-typescript-mongodb-p-1-1ha3)
 - [Dev.to/JS] [Form Validation in JavaScript | JavaScript Form Validation Tutorial](https://dev.to/onlineittutstutorials/form-validation-in-javascript-javascript-form-validation-tutorial-2ld4)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 Anti-Patriotic Movies If You Aren’t Feeling the Fourth of July](https://lifehacker.com/13-anti-patriotic-movies-if-you-aren-t-feeling-the-four-1850594352)
 - [Lifehacker] [What You Should Know Before You Buy a Tiny Home Kit](https://lifehacker.com/what-you-should-know-before-you-buy-a-tiny-home-kit-1850594127)
 - [Lifehacker] [Eight of the Best Kid-Friendly Fireworks Alternatives &lpar;and Two Terrible Ideas&rpar;](https://lifehacker.com/eight-of-the-best-kid-friendly-fireworks-alternatives-1850593183)
-- [Lifehacker] [25 of the Most Obscenely Patriotic Movies Ever](https://lifehacker.com/20-of-the-most-obscenely-patriotic-movies-ever-1847211948)
-- [Lifehacker] [I Can&#39;t Stop Air Frying Frozen Corn](https://lifehacker.com/i-cant-stop-air-frying-frozen-corn-1850593035)<!-- TECH-POSTS:END -->
+- [Lifehacker] [25 of the Most Obscenely Patriotic Movies Ever](https://lifehacker.com/20-of-the-most-obscenely-patriotic-movies-ever-1847211948)<!-- TECH-POSTS:END -->
 
 ---
 
