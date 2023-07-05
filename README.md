@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to memory management in Node.js applications](https://dev.to/trydaily/introduction-to-memory-management-in-nodejs-applications-5b4m)
+- [Dev.to/JS] [Create Your Own Programming Language 9: Iteration](https://dev.to/jasonsbarr/create-your-own-programming-language-9-iteration-1hfm)
+- [Dev.to/JS] [Episode 23/26: New Control Flow, Angular 17, AnalogJS, &quot;Developer Preview&quot;](https://dev.to/this-is-angular/episode-2326-new-control-flow-angular-17-analogjs-developer-preview-5e5d)
 - [Lifehacker] [The Five Best Twitter Alternatives](https://lifehacker.com/the-five-best-twitter-alternatives-1850607746)
 - [Lifehacker] [How to Keep Mosquitoes From Breeding in Your Yard](https://lifehacker.com/how-to-keep-mosquitoes-from-breeding-in-your-yard-1850607465)
 - [Dev.to/JS] [Master Call, Apply and Bind in JavaScript and Ace Your Interview](https://dev.to/jeetvora331/master-call-apply-and-bind-in-javascript-and-ace-your-interview-3nnh)
@@ -40,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Supercharge Your JavaScript Performance: Advanced Techniques for Lightning-Fast Code Execution](https://dev.to/getsmartwebsite/supercharge-your-javascript-performance-advanced-techniques-for-lightning-fast-code-execution-3cdi)
 - [Dev.to/JS] [Understanding JavaScript&#39;s Single-Threaded Nature](https://dev.to/roktim32/understanding-javascripts-single-threaded-nature-5cd6)
 - [Lifehacker] [The Five Laziest Ways to Compost](https://lifehacker.com/the-five-laziest-ways-to-compost-1850602707)
-- [Dev.to/JS] [Exploring ApplyMiddleware: How it works behind the curtain](https://dev.to/pandresdev/exploring-applymiddleware-how-it-works-behind-the-curtain-1kc)
-- [Dev.to/JS] [How I Got Hired Contributing to open source projects](https://dev.to/opensauced/how-i-got-hired-contributing-to-open-source-projects-546i)
-- [Dev.to/JS] [Daily Frontend problem-01](https://dev.to/chandrapenugonda/daily-frontend-problem-cf8)
 - [Lifehacker] [Six Places You Should Never Use WD-40](https://lifehacker.com/six-places-you-should-never-use-wd-40-1850605045)
 - [Lifehacker] [This Adobe Creative Cloud Certification Course Is 80% Off Right Now](https://lifehacker.com/this-adobe-creative-cloud-certification-course-is-80-o-1850589434)
 - [Lifehacker] [The Best Early Prime Day Deals for Gardeners](https://lifehacker.com/the-best-early-prime-day-deals-for-gardeners-1850602445)
