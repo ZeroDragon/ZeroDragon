@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Database Transactions](https://dev.to/nipu/database-transactions-3km3)
 - [Dev.to/JS] [Weekly web development resources #156](https://dev.to/vincenius/weekly-web-development-resources-156-301b)
 - [Dev.to/JS] [Leveraging the useId Hook in React: Simplifying Unique ID Generation](https://dev.to/farhadasadzade/leveraging-the-useid-hook-in-react-simplifying-unique-id-generation-1lbd)
 - [Dev.to/JS] [&quot;Big O&quot; haqida gaplashamiz](https://dev.to/udilbar/big-o-haqida-gaplashamiz-4ni9)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Increasing productivity: Best practices for React beginners.](https://dev.to/documatic/increasing-productivity-best-practices-for-react-beginners-55c5)
 - [Dev.to/JS] [JavaScript&#39;s Immutable Arrays Revolution.](https://dev.to/ibrahimbagalwa/javascripts-immutable-arrays-revolution-2ifg)
 - [Dev.to/JS] [Venturing into the Architectural Wilderness](https://dev.to/milosbugarinovic/venturing-into-the-architectural-wilderness-5h65)
-- [Dev.to/JS] [Problem with react-native-ble-plx library when receiving data](https://dev.to/eduardo0797/problem-with-react-native-ble-plx-library-when-receiving-data-1e49)
 - [Lifehacker] [The Difference Between Native and Neonative Plants, and Why It Matters](https://lifehacker.com/the-difference-between-native-and-neonative-plants-and-1850593806)
 - [Lifehacker] [Why Your Smoke Detector Is Still Beeping With New Batteries](https://lifehacker.com/why-your-smoke-detector-is-still-beeping-with-new-batte-1850593822)
 - [Lifehacker] [Store Your Tools With Uncooked Rice to Prevent Them From Rusting](https://lifehacker.com/store-your-tools-with-uncooked-rice-to-prevent-them-fro-1850593827)
