@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Five Laziest Ways to Compost](https://lifehacker.com/the-five-laziest-ways-to-compost-1850602707)
+- [Dev.to/JS] [Daily Frontend problem-01](https://dev.to/chandrapenugonda/daily-frontend-problem-cf8)
+- [Lifehacker] [Six Places You Should Never Use WD-40](https://lifehacker.com/six-places-you-should-never-use-wd-40-1850605045)
+- [Dev.to/JS] [Static Web Hosting Service](https://dev.to/irishgeoff11/static-web-hosting-service-4lme)
+- [Dev.to/JS] [Controle de Exibição de Elementos no React usando Show e Hide](https://dev.to/demgoncalves/controle-de-exibicao-de-elementos-no-react-usando-show-e-hide-373k)
 - [Dev.to/JS] [What to Expect of AdonisJS 6?](https://dev.to/adonisframework/what-to-expect-of-adonisjs-6-2daj)
 - [Lifehacker] [This Adobe Creative Cloud Certification Course Is 80% Off Right Now](https://lifehacker.com/this-adobe-creative-cloud-certification-course-is-80-o-1850589434)
 - [Dev.to/JS] [Displaying your full-sized YouTube thumbnail or a custom OG image in a Twitter card](https://dev.to/philhawksworth/displaying-your-full-sized-youtube-thumbnail-or-a-custom-og-image-in-a-twitter-card-g0h)
@@ -34,15 +39,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This EcoFlow Delta Portable Power Station Is $600 Off Right Now](https://lifehacker.com/this-ecoflow-delta-portable-power-station-is-600-off-r-1850589421)
 - [Dev.to/JS] [What are the advantages of using Solidity for dApp development?](https://dev.to/cooper_91/what-are-the-advantages-of-using-solidity-for-dapp-development-1oko)
 - [Lifehacker] [Eight Ways to DIY a Tool on the Spot](https://lifehacker.com/eight-ways-to-diy-a-tool-on-the-spot-1850601615)
-- [Dev.to/JS] [What framework should I use to create an accessible component library?](https://dev.to/ismaestro/what-framework-should-i-use-to-create-a-component-library-1o3d)
+- [Dev.to/JS] [What framework should you use to create an accessible component library?](https://dev.to/ismaestro/what-framework-should-i-use-to-create-a-component-library-1o3d)
 - [Dev.to/JS] [Host static website on netlify](https://dev.to/irishgeoff11/host-static-website-on-netlify-4i62)
 - [Lifehacker] [The Difference Between a Good and Bad Follower at Work](https://lifehacker.com/the-difference-between-a-good-and-bad-follower-at-work-1850601606)
 - [Dev.to/JS] [Javascript Dumbed down guide Part One!](https://dev.to/shawn2208/javascript-dumbed-down-guide-part-one-14h4)
-- [Dev.to/JS] [A step-by-step guide to developing and deploying Vue apps with docker, part three](https://dev.to/tqbit/a-step-by-step-guide-to-developing-and-deploying-vue-apps-with-docker-part-three-26dd)
 - [Lifehacker] [The Easiest Way to Layer a Cocktail Without a Bar Spoon](https://lifehacker.com/the-easiest-way-to-layer-a-cocktail-without-a-bar-spoon-1850597164)
-- [Dev.to/JS] [Vuejs 3 Style Guide](https://dev.to/wadizaatour/vuejs-3-style-guide-4880)
 - [Lifehacker] [Dashi Is the Best Base for Summery Soups](https://lifehacker.com/dashi-is-the-best-base-for-summery-soups-1850593805)
-- [Dev.to/JS] [Event Handlers in React](https://dev.to/shamza214/event-handlers-in-react-187p)
 - [Lifehacker] [The Difference Between Native and Neonative Plants, and Why It Matters](https://lifehacker.com/the-difference-between-native-and-neonative-plants-and-1850593806)
 - [Lifehacker] [Why Your Smoke Detector Is Still Beeping With New Batteries](https://lifehacker.com/why-your-smoke-detector-is-still-beeping-with-new-batte-1850593822)
 - [Lifehacker] [Store Your Tools With Uncooked Rice to Prevent Them From Rusting](https://lifehacker.com/store-your-tools-with-uncooked-rice-to-prevent-them-fro-1850593827)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [TikTok Diet of the Week: the Mustard and Cottage Cheese Plate](https://lifehacker.com/tiktok-diet-of-the-week-the-mustard-and-cottage-cheese-1850597057)
 - [Lifehacker] [The Least Messy Way to Cut a Watermelon](https://lifehacker.com/the-least-messy-way-to-cut-a-watermelon-1850597009)
 - [Lifehacker] [What the Supreme Court’s Student Debt Ruling Means for You](https://lifehacker.com/what-the-supreme-court-s-student-debt-ruling-means-for-1850596926)
-- [Lifehacker] [Make Superb Pickles by Burying Them in Rice Bran](https://lifehacker.com/make-superb-pickles-by-burying-them-in-rice-bran-1850593204)
-- [Lifehacker] [Your S&#39;mores Are Begging for Bacon](https://lifehacker.com/your-smores-are-begging-for-bacon-1850596330)
-- [Lifehacker] [Talk to Your Kids About Your Estate Plan Now &lpar;and How to Do It&rpar;](https://lifehacker.com/talk-to-your-kids-about-your-estate-plan-now-and-how-t-1850586552)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Superb Pickles by Burying Them in Rice Bran](https://lifehacker.com/make-superb-pickles-by-burying-them-in-rice-bran-1850593204)<!-- TECH-POSTS:END -->
 
 ---
 
