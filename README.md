@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Event Handlers in React](https://dev.to/shamza214/event-handlers-in-react-187p)
+- [Dev.to/JS] [Creating an Express.js App Using Typescript &amp; MongoDb P-1](https://dev.to/abdulrahilsheikh/creating-an-expressjs-app-using-typescript-mongodb-p-1-1ha3)
+- [Dev.to/JS] [Form Validation in JavaScript | JavaScript Form Validation Tutorial](https://dev.to/onlineittutstutorials/form-validation-in-javascript-javascript-form-validation-tutorial-2ld4)
+- [Dev.to/JS] [How to Make a Website With Login and Register | HTML CSS &amp; JS](https://dev.to/onlineittutstutorials/how-to-make-a-website-with-login-and-register-html-css-js-42d8)
 - [Dev.to/JS] [Private static members in Javascript](https://dev.to/merudra754/private-static-members-in-javascript-17h9)
 - [Dev.to/JS] [Diving into Data Query: A Beginner&#39;s Guide to GraphQL with JavaScript](https://dev.to/abhaysinghr1/diving-into-data-query-a-beginners-guide-to-graphql-with-javascript-35kc)
 - [Dev.to/JS] [#LearnedToday: Conditionally add properties to an object](https://dev.to/danielzotti/learnedtoday-conditionally-add-properties-to-an-object-4kko)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Leveraging Google News API for Real-Time News](https://dev.to/newsdataio/leveraging-google-news-api-for-real-time-news-2go1)
 - [Dev.to/JS] [Deploying A NodeJS App With Elastic Beanstalk](https://dev.to/alvacoder/deploying-a-nodejs-app-with-elastic-beanstalk-2h5p)
 - [Dev.to/JS] [Database Transactions](https://dev.to/nipu/database-transactions-3km3)
-- [Dev.to/JS] [Weekly web development resources #156](https://dev.to/vincenius/weekly-web-development-resources-156-301b)
-- [Dev.to/JS] [Leveraging the useId Hook in React: Simplifying Unique ID Generation](https://dev.to/farhadasadzade/leveraging-the-useid-hook-in-react-simplifying-unique-id-generation-1lbd)
-- [Dev.to/JS] [&quot;Big O&quot; haqida gaplashamiz](https://dev.to/udilbar/big-o-haqida-gaplashamiz-4ni9)
-- [Dev.to/JS] [Fogos de Artificio](https://dev.to/marcosaureliosl/fogos-de-artificio-11b)
 - [Lifehacker] [The Difference Between Native and Neonative Plants, and Why It Matters](https://lifehacker.com/the-difference-between-native-and-neonative-plants-and-1850593806)
 - [Lifehacker] [Why Your Smoke Detector Is Still Beeping With New Batteries](https://lifehacker.com/why-your-smoke-detector-is-still-beeping-with-new-batte-1850593822)
 - [Lifehacker] [Store Your Tools With Uncooked Rice to Prevent Them From Rusting](https://lifehacker.com/store-your-tools-with-uncooked-rice-to-prevent-them-fro-1850593827)
