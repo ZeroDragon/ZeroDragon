@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are the advantages of using Solidity for dApp development?](https://dev.to/cooper_91/what-are-the-advantages-of-using-solidity-for-dapp-development-1oko)
+- [Lifehacker] [Eight Ways to DIY a Tool on the Spot](https://lifehacker.com/eight-ways-to-diy-a-tool-on-the-spot-1850601615)
+- [Dev.to/JS] [What framework should I use to create an accessible component library?](https://dev.to/ismaestro/what-framework-should-i-use-to-create-a-component-library-1o3d)
 - [Dev.to/JS] [Host static website on netlify](https://dev.to/irishgeoff11/host-static-website-on-netlify-4i62)
 - [Lifehacker] [The Difference Between a Good and Bad Follower at Work](https://lifehacker.com/the-difference-between-a-good-and-bad-follower-at-work-1850601606)
 - [Dev.to/JS] [Javascript Dumbed down guide Part One!](https://dev.to/shawn2208/javascript-dumbed-down-guide-part-one-14h4)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Make a Website With Login and Register | HTML CSS &amp; JS](https://dev.to/onlineittutstutorials/how-to-make-a-website-with-login-and-register-html-css-js-42d8)
 - [Dev.to/JS] [Private static members in Javascript](https://dev.to/merudra754/private-static-members-in-javascript-17h9)
 - [Dev.to/JS] [Diving into Data Query: A Beginner&#39;s Guide to GraphQL with JavaScript](https://dev.to/abhaysinghr1/diving-into-data-query-a-beginners-guide-to-graphql-with-javascript-35kc)
-- [Dev.to/JS] [#LearnedToday: Conditionally add properties to an object](https://dev.to/danielzotti/learnedtoday-conditionally-add-properties-to-an-object-4kko)
-- [Dev.to/JS] [Understanding package.json II: Scripts](https://dev.to/dyte/understanding-packagejson-ii-scripts-2akn)
 - [Lifehacker] [The Difference Between Native and Neonative Plants, and Why It Matters](https://lifehacker.com/the-difference-between-native-and-neonative-plants-and-1850593806)
 - [Lifehacker] [Why Your Smoke Detector Is Still Beeping With New Batteries](https://lifehacker.com/why-your-smoke-detector-is-still-beeping-with-new-batte-1850593822)
 - [Lifehacker] [Store Your Tools With Uncooked Rice to Prevent Them From Rusting](https://lifehacker.com/store-your-tools-with-uncooked-rice-to-prevent-them-fro-1850593827)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Actually Get an Abortion in the US](https://lifehacker.com/how-to-actually-get-an-abortion-in-the-us-1850537360)
 - [Lifehacker] [You Should Replace Windows 11&#39;s File Explorer With the Files App](https://lifehacker.com/you-should-replace-windows-11s-file-explorer-with-the-f-1850594433)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in July 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-july-2023-1850595576)
-- [Lifehacker] [13 Anti-Patriotic Movies If You Aren’t Feeling the Fourth of July](https://lifehacker.com/13-anti-patriotic-movies-if-you-aren-t-feeling-the-four-1850594352)
-- [Lifehacker] [What You Should Know Before You Buy a Tiny Home Kit](https://lifehacker.com/what-you-should-know-before-you-buy-a-tiny-home-kit-1850594127)<!-- TECH-POSTS:END -->
+- [Lifehacker] [13 Anti-Patriotic Movies If You Aren’t Feeling the Fourth of July](https://lifehacker.com/13-anti-patriotic-movies-if-you-aren-t-feeling-the-four-1850594352)<!-- TECH-POSTS:END -->
 
 ---
 
