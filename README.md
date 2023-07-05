@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AntDB Cloud-native Distributed Architecture](https://dev.to/antdbanhui/antdb-cloud-native-distributed-architecture-1j4g)
 - [Dev.to/JS] [Increasing productivity: Best practices for React beginners.](https://dev.to/documatic/increasing-productivity-best-practices-for-react-beginners-55c5)
 - [Dev.to/JS] [JavaScript&#39;s Immutable Arrays Revolution.](https://dev.to/ibrahimbagalwa/javascripts-immutable-arrays-revolution-2ifg)
 - [Dev.to/JS] [Venturing into the Architectural Wilderness](https://dev.to/milosbugarinovic/venturing-into-the-architectural-wilderness-5h65)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Deep Dive article into React form validation using a popular library &#39;Formik&quot;](https://dev.to/ikechukwu411/a-deep-dive-article-into-react-form-validation-using-a-popular-library-formik-4omo)
 - [Dev.to/JS] [New promising web framework Cample.js. Reactivity without VDOM](https://dev.to/antonmak1/new-promising-web-framework-camplejs-reactivity-without-vdom-9j3)
 - [Dev.to/JS] [{Day1} function](https://dev.to/murloc-craft/day1-function-4onk)
-- [Dev.to/JS] [Refactoring Javascript code with Object Literals: A Clean and Readable Approach](https://dev.to/raza_rafaideen/simplifying-user-authentication-with-object-literals-a-clean-and-readable-approach-57kk)
 - [Lifehacker] [The Difference Between Native and Neonative Plants, and Why It Matters](https://lifehacker.com/the-difference-between-native-and-neonative-plants-and-1850593806)
 - [Lifehacker] [Why Your Smoke Detector Is Still Beeping With New Batteries](https://lifehacker.com/why-your-smoke-detector-is-still-beeping-with-new-batte-1850593822)
 - [Lifehacker] [Store Your Tools With Uncooked Rice to Prevent Them From Rusting](https://lifehacker.com/store-your-tools-with-uncooked-rice-to-prevent-them-fro-1850593827)
