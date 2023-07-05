@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Cool CodePen Demos &lpar;June 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-june-2023-3g58)
 - [Dev.to/JS] [Introduction to memory management in Node.js applications](https://dev.to/trydaily/introduction-to-memory-management-in-nodejs-applications-5b4m)
 - [Dev.to/JS] [Create Your Own Programming Language 9: Iteration](https://dev.to/jasonsbarr/create-your-own-programming-language-9-iteration-1hfm)
 - [Dev.to/JS] [Episode 23/26: New Control Flow, Angular 17, AnalogJS, &quot;Developer Preview&quot;](https://dev.to/this-is-angular/episode-2326-new-control-flow-angular-17-analogjs-developer-preview-5e5d)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Migration to TypeScript Advice](https://dev.to/abdeldjalilhachimi/migration-to-typescript-advice-32e4)
 - [Lifehacker] [This truRelief Massage Gun Is on Sale for 90% Off Right Now](https://lifehacker.com/this-trurelief-massage-gun-is-on-sale-for-90-off-right-1850589410)
 - [Dev.to/JS] [Supercharge Your JavaScript Performance: Advanced Techniques for Lightning-Fast Code Execution](https://dev.to/getsmartwebsite/supercharge-your-javascript-performance-advanced-techniques-for-lightning-fast-code-execution-3cdi)
-- [Dev.to/JS] [Understanding JavaScript&#39;s Single-Threaded Nature](https://dev.to/roktim32/understanding-javascripts-single-threaded-nature-5cd6)
 - [Lifehacker] [The Five Laziest Ways to Compost](https://lifehacker.com/the-five-laziest-ways-to-compost-1850602707)
 - [Lifehacker] [Six Places You Should Never Use WD-40](https://lifehacker.com/six-places-you-should-never-use-wd-40-1850605045)
 - [Lifehacker] [This Adobe Creative Cloud Certification Course Is 80% Off Right Now](https://lifehacker.com/this-adobe-creative-cloud-certification-course-is-80-o-1850589434)
