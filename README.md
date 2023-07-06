@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring API Integration: Building a Search Bar for Rick and Morty Characters](https://dev.to/devlawrence/exploring-api-integration-building-a-search-bar-for-rick-and-morty-characters-4k21)
+- [Dev.to/JS] [Streamlining Front-End Testing with Cypress: A Comprehensive Guide](https://dev.to/akshu3011/streamlining-front-end-testing-with-cypress-a-comprehensive-guide-3al8)
 - [Dev.to/JS] [Automatically creating Salesforce contacts when a user signs up](https://dev.to/sequin/automatically-creating-salesforce-contacts-when-a-user-signs-up-2iki)
 - [Dev.to/JS] [Por que Prisma?](https://dev.to/httpgabrielalves/por-que-prisma-an)
 - [Lifehacker] [What People Are Getting Wrong This Week: Cocaine at the White House](https://lifehacker.com/cocaine-at-the-white-house-1850611981)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a product information management app with Appwrite Cloud and NextJS](https://dev.to/bigsam28/build-a-product-information-management-app-with-appwrite-cloud-and-nextjs-2dd4)
 - [Dev.to/JS] [Funciones generadoras](https://dev.to/agustinrzarate/funciones-generadoras-4l9d)
 - [Lifehacker] [How to Know If a Weed Dispensary Is Legal](https://lifehacker.com/how-to-know-if-a-weed-dispensary-is-legal-1850549905)
-- [Dev.to/JS] [Making The Switch And Understanding The Syntax: JavaScript VS Python](https://dev.to/jessica_87/making-the-switch-and-understanding-the-syntax-javascript-vs-python-2n1a)
 - [Lifehacker] [It&#39;s Time to Cancel Max and Sign Up for The Criterion Channel](https://lifehacker.com/its-time-to-cancel-max-and-sign-up-for-the-criterion-ch-1850610767)
-- [Dev.to/JS] [Copiar objetos en JavaScript](https://dev.to/ulisesserranop/copia-de-objetos-en-javascript-128k)
 - [Lifehacker] [The Easiest Ways to Fix a Rug With a Deteriorating Latex Backing](https://lifehacker.com/the-easiest-ways-to-fix-a-rug-with-a-deteriorating-late-1850610875)
 - [Lifehacker] [Pizza Your Oatmeal Immediately](https://lifehacker.com/pizza-your-oatmeal-immediately-1850610508)
 - [Lifehacker] [These 12x Digital Camera Binoculars Are 50% Off Right Now](https://lifehacker.com/these-12x-digital-camera-binoculars-are-50-off-right-n-1850589458)
