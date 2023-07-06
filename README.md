@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Copia de objetos en JavaScript](https://dev.to/ulisesserranop/copia-de-objetos-en-javascript-128k)
+- [Dev.to/JS] [Chicago JavaScript Meetup](https://dev.to/heather_veva/chicago-javascript-meetup-423d)
+- [Dev.to/JS] [Creating Dynamic QR Codes Using React.js: A Step-by-Step Tutorial](https://dev.to/onlyoneerin/creating-dynamic-qr-codes-using-reactjs-a-step-by-step-tutorial-341a)
+- [Dev.to/JS] [Junior Project: &quot;Trying to create Virtual Cabinet with OCR and Uploading Files with Cellphone camera&quot;](https://dev.to/andreshernandez92/test-title-m3i)
+- [Lifehacker] [The Easiest Ways to Fix a Rug With a Deteriorating Latex Backing](https://lifehacker.com/the-easiest-ways-to-fix-a-rug-with-a-deteriorating-late-1850610875)
+- [Dev.to/JS] [How to check if a tab is active in React](https://dev.to/eraywebdev/how-to-check-if-a-tab-is-active-in-react-1o0l)
 - [Dev.to/JS] [Daily Frontend Problem: Problem #1 [Easy]](https://dev.to/chandrapenugonda/daily-frontend-problem-problem-1-easy-2d47)
 - [Dev.to/JS] [How to fix Vulnerabilities in Node.js](https://dev.to/vigneshkb7/how-to-fix-vulnerabilities-in-nodejs-56pk)
 - [Lifehacker] [Pizza Your Oatmeal Immediately](https://lifehacker.com/pizza-your-oatmeal-immediately-1850610508)
@@ -36,15 +42,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Nx 16.5 Release!!](https://dev.to/nx/nx-165-release-2o95)
 - [Lifehacker] [The Five Best Twitter Alternatives](https://lifehacker.com/the-five-best-twitter-alternatives-1850607746)
 - [Lifehacker] [This Portable Monitor Is on Sale for $129.99 Right Now](https://lifehacker.com/this-portable-monitor-is-on-sale-for-129-99-right-now-1850589508)
-- [Dev.to/JS] [Your Assisted Code Writing Companion](https://dev.to/aiforme/your-assisted-code-writing-companion-d6o)
 - [Lifehacker] [Pork Floss Is the Superior Pork Garnish](https://lifehacker.com/pork-floss-is-the-superior-pork-garnish-1850608482)
 - [Lifehacker] [&#39;Butter&#39; Your Summer Corn With Avocado Skins](https://lifehacker.com/butter-your-summer-corn-with-avocado-skins-1850607435)
-- [Dev.to/JS] [How to Rename API Gateway Path Parameters on AWS](https://dev.to/kumo/how-to-rename-api-gateway-path-parameters-on-aws-20fa)
-- [Dev.to/JS] [How to Ask AI to return JSON in the Right Way](https://dev.to/igorboky/how-to-ask-ai-to-return-json-in-the-right-way-181i)
-- [Dev.to/JS] [Build a Full Stack Interchain dApp with Next.js, Solidity &amp; Axelar](https://dev.to/olanetsoft/build-a-full-stack-interchain-dapp-with-nextjs-solidity-axelar-8j6)
 - [Lifehacker] [Get a First-Gen iPad Air With Beats Flex Headphones and Other Accessories for Under $100](https://lifehacker.com/get-a-first-gen-ipad-air-with-beats-flex-headphones-and-1850589537)
 - [Lifehacker] [Get to Know Kohlrabi With Three Easy Recipes](https://lifehacker.com/get-to-know-kohlrabi-with-three-easy-recipes-1850593643)
-- [Dev.to/JS] [My First Post](https://dev.to/rijalghodi/my-first-post-d4m)
 - [Lifehacker] [How to Keep Mosquitoes From Breeding in Your Yard](https://lifehacker.com/how-to-keep-mosquitoes-from-breeding-in-your-yard-1850607465)
 - [Lifehacker] [Why Every Newborn Needs a Vitamin K Shot](https://lifehacker.com/why-every-newborn-needs-a-vitamin-k-shot-1850605053)
 - [Lifehacker] [Embrace These Cold Soups All Summer Long](https://lifehacker.com/embrace-these-cold-soups-all-summer-long-1850606372)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between a Good and Bad Follower at Work](https://lifehacker.com/the-difference-between-a-good-and-bad-follower-at-work-1850601606)
 - [Lifehacker] [The Easiest Way to Layer a Cocktail Without a Bar Spoon](https://lifehacker.com/the-easiest-way-to-layer-a-cocktail-without-a-bar-spoon-1850597164)
 - [Lifehacker] [Dashi Is the Best Base for Summery Soups](https://lifehacker.com/dashi-is-the-best-base-for-summery-soups-1850593805)
-- [Lifehacker] [The Difference Between Native and Neonative Plants, and Why It Matters](https://lifehacker.com/the-difference-between-native-and-neonative-plants-and-1850593806)
-- [Lifehacker] [Why Your Smoke Detector Is Still Beeping With New Batteries](https://lifehacker.com/why-your-smoke-detector-is-still-beeping-with-new-batte-1850593822)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Difference Between Native and Neonative Plants, and Why It Matters](https://lifehacker.com/the-difference-between-native-and-neonative-plants-and-1850593806)<!-- TECH-POSTS:END -->
 
 ---
 
