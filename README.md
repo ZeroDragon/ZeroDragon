@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 libraries you should know as a React developer🔥🚀](https://dev.to/bishnoi_sushill/7-libraries-you-should-know-as-a-react-developer-434k)
 - [Dev.to/JS] [Issue #1 - The Journey I&#39;m Taking to learn how to Code in 365 Days Starting Today.](https://dev.to/4tro/issue-1-the-journey-im-taking-to-learn-how-to-code-in-365-days-starting-today-37f)
 - [Dev.to/JS] [JavaScript Loops](https://dev.to/amandasuzzanne/javascript-loops-3i1p)
 - [Dev.to/JS] [DevToolkitapp - What tools can I add to my website?](https://dev.to/felipebockmagagnin/devtoolkitapp-what-tools-can-i-add-to-my-website-2h4e)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Simple Implementation of Promises in JavaScript: Meet the Vow Class](https://dev.to/waelhabbal/a-simple-implementation-of-promises-in-javascript-meet-the-vow-class-29pf)
 - [Lifehacker] [Six Clever Ways to Use Luminous Paint &lpar;and Three That Aren’t Too Smart&rpar;](https://lifehacker.com/six-clever-ways-to-use-luminous-paint-and-three-that-a-1850606394)
 - [Dev.to/JS] [Exploring the Impact of JavaScript on Web Development and SEO](https://dev.to/__7836b3a2976fee/exploring-the-impact-of-javascript-on-web-development-and-seo-26m3)
-- [Dev.to/JS] [React Native Vision Camera library to capture and record videos](https://dev.to/shyammanek/react-native-vision-camera-library-to-capture-and-record-videos-1ioi)
 - [Lifehacker] [Your Kitchen Needs a Cup Full of Baby Spoons](https://lifehacker.com/your-kitchen-needs-a-cup-full-of-baby-spoons-1850606644)
 - [Lifehacker] [This truRelief Massage Gun Is on Sale for 90% Off Right Now](https://lifehacker.com/this-trurelief-massage-gun-is-on-sale-for-90-off-right-1850589410)
 - [Lifehacker] [The Five Laziest Ways to Compost](https://lifehacker.com/the-five-laziest-ways-to-compost-1850602707)
