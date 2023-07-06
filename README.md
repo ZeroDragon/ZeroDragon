@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [25 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
+- [Dev.to/JS] [Getting started with application dev as a data scientist?](https://dev.to/jfcrockett/getting-started-with-application-dev-as-a-data-scientist-1epd)
+- [Dev.to/JS] [The Difference Between Using Node.js Alone in Building an Application and Using it with Angular](https://dev.to/roshdiraed/the-difference-between-using-nodejs-alone-in-building-an-application-and-using-it-with-angular-27ap)
+- [Dev.to/JS] [Event loop in Javascript](https://dev.to/elgouhry/event-loop-in-javascript-297p)
+- [Lifehacker] [Two Ways to Make Umeboshi, the Pickled Plum You’ll Want to Add to Everything](https://lifehacker.com/two-ways-to-make-umeboshi-the-pickled-plum-you-ll-want-1850594002)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Times to Send an Email](https://lifehacker.com/the-best-and-worst-times-to-send-an-email-1850610907)
 - [Dev.to/JS] [5 Common Pitfalls with Server Components in Next13 &lpar;with examples&rpar;](https://dev.to/propelauth/5-common-pitfalls-with-server-components-in-next13-with-examples-4kco)
 - [Dev.to/JS] [Build a product information management app with Appwrite Cloud and NextJS](https://dev.to/bigsam28/build-a-product-information-management-app-with-appwrite-cloud-and-nextjs-2dd4)
@@ -36,11 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Junior Project: &quot;Trying to create Virtual Cabinet with OCR and Uploading Files with Cellphone camera&quot;](https://dev.to/andreshernandez92/test-title-m3i)
 - [Lifehacker] [The Easiest Ways to Fix a Rug With a Deteriorating Latex Backing](https://lifehacker.com/the-easiest-ways-to-fix-a-rug-with-a-deteriorating-late-1850610875)
 - [Dev.to/JS] [How to check if a tab is active in React](https://dev.to/eraywebdev/how-to-check-if-a-tab-is-active-in-react-1o0l)
-- [Dev.to/JS] [Daily Frontend Problem: Problem #1 [Easy]](https://dev.to/chandrapenugonda/daily-frontend-problem-problem-1-easy-2d47)
-- [Dev.to/JS] [How to fix Vulnerabilities in Node.js](https://dev.to/vigneshkb7/how-to-fix-vulnerabilities-in-nodejs-56pk)
 - [Lifehacker] [Pizza Your Oatmeal Immediately](https://lifehacker.com/pizza-your-oatmeal-immediately-1850610508)
 - [Lifehacker] [These 12x Digital Camera Binoculars Are 50% Off Right Now](https://lifehacker.com/these-12x-digital-camera-binoculars-are-50-off-right-n-1850589458)
-- [Dev.to/JS] [How to use Spread and Rest operators in JavaScript](https://dev.to/hyemiie/how-to-use-spread-and-rest-operators-in-javascript-4d9h)
 - [Lifehacker] [Why You Should Never Buy a New Car](https://lifehacker.com/why-you-should-never-buy-a-new-car-1850610281)
 - [Lifehacker] [How to Avoid the Two Types of Explosive Diarrhea Going Around](https://lifehacker.com/how-to-avoid-the-two-types-of-explosive-diarrhea-going-1850610190)
 - [Lifehacker] [The Five Best Twitter Alternatives](https://lifehacker.com/the-five-best-twitter-alternatives-1850607746)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Adobe Creative Cloud Certification Course Is 80% Off Right Now](https://lifehacker.com/this-adobe-creative-cloud-certification-course-is-80-o-1850589434)
 - [Lifehacker] [The Best Early Prime Day Deals for Gardeners](https://lifehacker.com/the-best-early-prime-day-deals-for-gardeners-1850602445)
 - [Lifehacker] [10 Conspiracy Theory Podcasts They Don’t Want You to Listen To](https://lifehacker.com/10-conspiracy-theory-podcasts-they-don-t-want-you-to-li-1850596788)
-- [Lifehacker] [This EcoFlow Delta Portable Power Station Is $600 Off Right Now](https://lifehacker.com/this-ecoflow-delta-portable-power-station-is-600-off-r-1850589421)
-- [Lifehacker] [Eight Ways to DIY a Tool on the Spot](https://lifehacker.com/eight-ways-to-diy-a-tool-on-the-spot-1850601615)
-- [Lifehacker] [The Difference Between a Good and Bad Follower at Work](https://lifehacker.com/the-difference-between-a-good-and-bad-follower-at-work-1850601606)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This EcoFlow Delta Portable Power Station Is $600 Off Right Now](https://lifehacker.com/this-ecoflow-delta-portable-power-station-is-600-off-r-1850589421)<!-- TECH-POSTS:END -->
 
 ---
 
