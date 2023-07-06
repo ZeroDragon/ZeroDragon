@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [&#39;Butter&#39; Your Summer Corn With Avocado Skins](https://lifehacker.com/butter-your-summer-corn-with-avocado-skins-1850607435)
+- [Dev.to/JS] [How to Rename API Gateway Path Parameters on AWS](https://dev.to/kumo/how-to-rename-api-gateway-path-parameters-on-aws-20fa)
+- [Dev.to/JS] [How to Ask AI to return JSON in the Right Way](https://dev.to/igorboky/how-to-ask-ai-to-return-json-in-the-right-way-181i)
+- [Dev.to/JS] [Build a Full Stack Interchain dApp with Next.js, Solidity &amp; Axelar](https://dev.to/olanetsoft/build-a-full-stack-interchain-dapp-with-nextjs-solidity-axelar-8j6)
+- [Lifehacker] [Get a First-Gen iPad Air With Beats Flex Headphones and Other Accessories for Under $100](https://lifehacker.com/get-a-first-gen-ipad-air-with-beats-flex-headphones-and-1850589537)
+- [Lifehacker] [Get to Know Kohlrabi With Three Easy Recipes](https://lifehacker.com/get-to-know-kohlrabi-with-three-easy-recipes-1850593643)
 - [Dev.to/JS] [My First Post](https://dev.to/rijalghodi/my-first-post-d4m)
 - [Dev.to/JS] [How To Use Tailwind In Vite](https://dev.to/haszankauna/how-to-use-tailwind-in-vite-1c5h)
 - [Dev.to/JS] [What Is GraphQL: Comprehensive Guide](https://dev.to/arsalanmee/what-is-graphql-comprehensive-guide-2i1d)
@@ -32,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Memoization in JavaScript: Boosting Performance](https://dev.to/abhinav707/title-demystifying-memoization-in-javascript-boosting-performance-like-a-pro-2628)
 - [Dev.to/JS] [#LearnedToday: WTF JS](https://dev.to/danielzotti/learnedtoday-wtf-js-44fl)
 - [Dev.to/JS] [CISA Exam Dumps: Your Secret Weapon for Exam Success](https://dev.to/cisadumps/cisa-exam-dumps-your-secret-weapon-for-exam-success-49he)
-- [Dev.to/JS] [Understanding JavaScript Execution Context: The Key to Efficient Code](https://dev.to/parthee/understanding-javascript-execution-context-the-key-to-efficient-code-ai1)
-- [Dev.to/JS] [How to get a random card with user input - YGOPRODECK API](https://dev.to/tonevs/how-to-get-a-random-card-with-user-input-ygoprodeck-api-59gp)
-- [Dev.to/JS] [JS practice question](https://dev.to/abhinav707/js-practice-question-4b6c)
 - [Lifehacker] [The Five Best Twitter Alternatives](https://lifehacker.com/the-five-best-twitter-alternatives-1850607746)
 - [Lifehacker] [How to Keep Mosquitoes From Breeding in Your Yard](https://lifehacker.com/how-to-keep-mosquitoes-from-breeding-in-your-yard-1850607465)
 - [Lifehacker] [Why Every Newborn Needs a Vitamin K Shot](https://lifehacker.com/why-every-newborn-needs-a-vitamin-k-shot-1850605053)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Ways to Get the Most Out of Your Car&#39;s Air Conditioner](https://lifehacker.com/three-ways-to-get-the-most-out-of-your-cars-air-conditi-1850593864)
 - [Lifehacker] [Three Ways to Help Your Garden Recover From Wildfire Smoke](https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877)
 - [Lifehacker] [The Smartest Ways to Keep Sand From Sticking to You at the Beach](https://lifehacker.com/the-smartest-ways-to-keep-sand-from-sticking-to-you-at-1850593901)
-- [Lifehacker] [Four Ways to Get Amazon Credit to Spend on Prime Day](https://lifehacker.com/four-ways-to-get-amazon-credit-to-spend-on-prime-day-1850593913)
-- [Lifehacker] [You Should Stock Up on Forever Stamps Before July 9](https://lifehacker.com/you-should-stock-up-on-forever-stamps-before-july-9-1850593922)
-- [Lifehacker] [The Best &lpar;and Worst&rpar; Places to Put Your Air Purifier](https://lifehacker.com/the-best-and-worst-places-to-put-your-air-purifier-1850593972)
-- [Lifehacker] [When It Makes Sense to Rent an Electric Vehicle for a Road Trip](https://lifehacker.com/when-it-makes-sense-to-rent-an-electric-vehicle-for-a-r-1850593978)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Four Ways to Get Amazon Credit to Spend on Prime Day](https://lifehacker.com/four-ways-to-get-amazon-credit-to-spend-on-prime-day-1850593913)<!-- TECH-POSTS:END -->
 
 ---
 
