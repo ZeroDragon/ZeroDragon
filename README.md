@@ -23,9 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My First Post](https://dev.to/rijalghodi/my-first-post-d4m)
 - [Dev.to/JS] [How To Use Tailwind In Vite](https://dev.to/haszankauna/how-to-use-tailwind-in-vite-1c5h)
 - [Dev.to/JS] [What Is GraphQL: Comprehensive Guide](https://dev.to/arsalanmee/what-is-graphql-comprehensive-guide-2i1d)
 - [Dev.to/JS] [Coding Period GSoC&#39;23 | Week 3 + 4 + 5](https://dev.to/prerna0202/coding-period-gsoc23-week-3-4-5-388b)
+- [Dev.to/JS] [I need help with auth system in firefox extension?](https://dev.to/dee5r/i-need-help-with-auth-system-in-firefox-extension-3d2l)
 - [Dev.to/JS] [Mastering State Management in React: From Struggles to Success!](https://dev.to/gilbertofke/mastering-state-management-in-react-from-struggles-to-success-52d7)
 - [Dev.to/JS] [Memoization in JavaScript: Boosting Performance](https://dev.to/abhinav707/title-demystifying-memoization-in-javascript-boosting-performance-like-a-pro-2628)
 - [Dev.to/JS] [#LearnedToday: WTF JS](https://dev.to/danielzotti/learnedtoday-wtf-js-44fl)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding JavaScript Execution Context: The Key to Efficient Code](https://dev.to/parthee/understanding-javascript-execution-context-the-key-to-efficient-code-ai1)
 - [Dev.to/JS] [How to get a random card with user input - YGOPRODECK API](https://dev.to/tonevs/how-to-get-a-random-card-with-user-input-ygoprodeck-api-59gp)
 - [Dev.to/JS] [JS practice question](https://dev.to/abhinav707/js-practice-question-4b6c)
-- [Dev.to/JS] [Unveiling the Artistry Behind JavaScript&#39;s Babel Engine: Transforming Code Across Frontiers](https://dev.to/hoef/unveiling-the-artistry-behind-javascripts-babel-engine-transforming-code-across-frontiers-4fcj)
-- [Dev.to/JS] [Handling Swipe Events in JavaScript](https://dev.to/sh20raj/handling-swipe-events-in-javascript-1c23)
 - [Lifehacker] [The Five Best Twitter Alternatives](https://lifehacker.com/the-five-best-twitter-alternatives-1850607746)
 - [Lifehacker] [How to Keep Mosquitoes From Breeding in Your Yard](https://lifehacker.com/how-to-keep-mosquitoes-from-breeding-in-your-yard-1850607465)
 - [Lifehacker] [Why Every Newborn Needs a Vitamin K Shot](https://lifehacker.com/why-every-newborn-needs-a-vitamin-k-shot-1850605053)
