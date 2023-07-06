@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best &lpar;and Worst&rpar; Times to Send an Email](https://lifehacker.com/the-best-and-worst-times-to-send-an-email-1850610907)
+- [Dev.to/JS] [5 Common Pitfalls with Server Components in Next13 &lpar;with examples&rpar;](https://dev.to/propelauth/5-common-pitfalls-with-server-components-in-next13-with-examples-4kco)
+- [Dev.to/JS] [Build a product information management app with Appwrite Cloud and NextJS](https://dev.to/bigsam28/build-a-product-information-management-app-with-appwrite-cloud-and-nextjs-2dd4)
+- [Dev.to/JS] [Funciones generadoras](https://dev.to/agustinrzarate/funciones-generadoras-4l9d)
+- [Lifehacker] [How to Know If a Weed Dispensary Is Legal](https://lifehacker.com/how-to-know-if-a-weed-dispensary-is-legal-1850549905)
+- [Dev.to/JS] [Making The Switch And Understanding The Syntax: JavaScript VS Python](https://dev.to/jessica_87/making-the-switch-and-understanding-the-syntax-javascript-vs-python-2n1a)
+- [Lifehacker] [It&#39;s Time to Cancel Max and Sign Up for The Criterion Channel](https://lifehacker.com/its-time-to-cancel-max-and-sign-up-for-the-criterion-ch-1850610767)
 - [Dev.to/JS] [Copia de objetos en JavaScript](https://dev.to/ulisesserranop/copia-de-objetos-en-javascript-128k)
 - [Dev.to/JS] [Chicago JavaScript Meetup](https://dev.to/heather_veva/chicago-javascript-meetup-423d)
 - [Dev.to/JS] [Creating Dynamic QR Codes Using React.js: A Step-by-Step Tutorial](https://dev.to/onlyoneerin/creating-dynamic-qr-codes-using-reactjs-a-step-by-step-tutorial-341a)
@@ -34,12 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Pizza Your Oatmeal Immediately](https://lifehacker.com/pizza-your-oatmeal-immediately-1850610508)
 - [Lifehacker] [These 12x Digital Camera Binoculars Are 50% Off Right Now](https://lifehacker.com/these-12x-digital-camera-binoculars-are-50-off-right-n-1850589458)
 - [Dev.to/JS] [How to use Spread and Rest operators in JavaScript](https://dev.to/hyemiie/how-to-use-spread-and-rest-operators-in-javascript-4d9h)
-- [Dev.to/JS] [I&#39;m making an AI JS Browser Game Engine - Helicity.ai✨](https://dev.to/lilshake/im-making-an-ai-js-browser-game-engine-helicityai-2p9p)
 - [Lifehacker] [Why You Should Never Buy a New Car](https://lifehacker.com/why-you-should-never-buy-a-new-car-1850610281)
 - [Lifehacker] [How to Avoid the Two Types of Explosive Diarrhea Going Around](https://lifehacker.com/how-to-avoid-the-two-types-of-explosive-diarrhea-going-1850610190)
-- [Dev.to/JS] [Code Snippet Builder - Create stunning code snippets](https://dev.to/sachinchaurasiya/code-snippet-builder-create-stunning-code-snippets-1olf)
-- [Dev.to/JS] [Twitter is dead. Welcome Threads, by Instagram](https://dev.to/maxprilutskiy/twitter-is-dead-welcome-threads-by-instagram-4107)
-- [Dev.to/JS] [Nx 16.5 Release!!](https://dev.to/nx/nx-165-release-2o95)
 - [Lifehacker] [The Five Best Twitter Alternatives](https://lifehacker.com/the-five-best-twitter-alternatives-1850607746)
 - [Lifehacker] [This Portable Monitor Is on Sale for $129.99 Right Now](https://lifehacker.com/this-portable-monitor-is-on-sale-for-129-99-right-now-1850589508)
 - [Lifehacker] [Pork Floss Is the Superior Pork Garnish](https://lifehacker.com/pork-floss-is-the-superior-pork-garnish-1850608482)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Conspiracy Theory Podcasts They Don’t Want You to Listen To](https://lifehacker.com/10-conspiracy-theory-podcasts-they-don-t-want-you-to-li-1850596788)
 - [Lifehacker] [This EcoFlow Delta Portable Power Station Is $600 Off Right Now](https://lifehacker.com/this-ecoflow-delta-portable-power-station-is-600-off-r-1850589421)
 - [Lifehacker] [Eight Ways to DIY a Tool on the Spot](https://lifehacker.com/eight-ways-to-diy-a-tool-on-the-spot-1850601615)
-- [Lifehacker] [The Difference Between a Good and Bad Follower at Work](https://lifehacker.com/the-difference-between-a-good-and-bad-follower-at-work-1850601606)
-- [Lifehacker] [The Easiest Way to Layer a Cocktail Without a Bar Spoon](https://lifehacker.com/the-easiest-way-to-layer-a-cocktail-without-a-bar-spoon-1850597164)
-- [Lifehacker] [Dashi Is the Best Base for Summery Soups](https://lifehacker.com/dashi-is-the-best-base-for-summery-soups-1850593805)
-- [Lifehacker] [The Difference Between Native and Neonative Plants, and Why It Matters](https://lifehacker.com/the-difference-between-native-and-neonative-plants-and-1850593806)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Difference Between a Good and Bad Follower at Work](https://lifehacker.com/the-difference-between-a-good-and-bad-follower-at-work-1850601606)<!-- TECH-POSTS:END -->
 
 ---
 
