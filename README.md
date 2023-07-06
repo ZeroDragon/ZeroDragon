@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Use Tailwind In Vite](https://dev.to/haszankauna/how-to-use-tailwind-in-vite-1c5h)
+- [Dev.to/JS] [What Is GraphQL: Comprehensive Guide](https://dev.to/arsalanmee/what-is-graphql-comprehensive-guide-2i1d)
+- [Dev.to/JS] [Coding Period GSoC&#39;23 | Week 3 + 4 + 5](https://dev.to/prerna0202/coding-period-gsoc23-week-3-4-5-388b)
+- [Dev.to/JS] [Mastering State Management in React: From Struggles to Success!](https://dev.to/gilbertofke/mastering-state-management-in-react-from-struggles-to-success-52d7)
+- [Dev.to/JS] [Memoization in JavaScript: Boosting Performance](https://dev.to/abhinav707/title-demystifying-memoization-in-javascript-boosting-performance-like-a-pro-2628)
 - [Dev.to/JS] [#LearnedToday: WTF JS](https://dev.to/danielzotti/learnedtoday-wtf-js-44fl)
 - [Dev.to/JS] [CISA Exam Dumps: Your Secret Weapon for Exam Success](https://dev.to/cisadumps/cisa-exam-dumps-your-secret-weapon-for-exam-success-49he)
 - [Dev.to/JS] [Understanding JavaScript Execution Context: The Key to Efficient Code](https://dev.to/parthee/understanding-javascript-execution-context-the-key-to-efficient-code-ai1)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS practice question](https://dev.to/abhinav707/js-practice-question-4b6c)
 - [Dev.to/JS] [Unveiling the Artistry Behind JavaScript&#39;s Babel Engine: Transforming Code Across Frontiers](https://dev.to/hoef/unveiling-the-artistry-behind-javascripts-babel-engine-transforming-code-across-frontiers-4fcj)
 - [Dev.to/JS] [Handling Swipe Events in JavaScript](https://dev.to/sh20raj/handling-swipe-events-in-javascript-1c23)
-- [Dev.to/JS] [2023’s Leading Front-end Frameworks for Streamlined Web Development FUNCTION12 FUNCTION12](https://dev.to/function12_io/2023s-leading-front-end-frameworks-for-streamlined-web-development-function12-function12-5hgi)
-- [Dev.to/JS] [How to render conditional items in React?](https://dev.to/mahdi_falamarzi/how-to-render-conditional-items-in-react-1h1o)
-- [Dev.to/JS] [Daxus is published](https://dev.to/jason89521/daxus-is-published-3acd)
-- [Dev.to/JS] [7 libraries you should know as a React developer🔥🚀](https://dev.to/bishnoi_sushill/7-libraries-you-should-know-as-a-react-developer-434k)
-- [Dev.to/JS] [Issue #1 - The Journey I&#39;m Taking to learn how to Code in 365 Days Starting Today.](https://dev.to/4tro/issue-1-the-journey-im-taking-to-learn-how-to-code-in-365-days-starting-today-37f)
 - [Lifehacker] [The Five Best Twitter Alternatives](https://lifehacker.com/the-five-best-twitter-alternatives-1850607746)
 - [Lifehacker] [How to Keep Mosquitoes From Breeding in Your Yard](https://lifehacker.com/how-to-keep-mosquitoes-from-breeding-in-your-yard-1850607465)
 - [Lifehacker] [Why Every Newborn Needs a Vitamin K Shot](https://lifehacker.com/why-every-newborn-needs-a-vitamin-k-shot-1850605053)
