@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Automatically creating Salesforce contacts when a user signs up](https://dev.to/sequin/automatically-creating-salesforce-contacts-when-a-user-signs-up-2iki)
+- [Dev.to/JS] [Por que Prisma?](https://dev.to/httpgabrielalves/por-que-prisma-an)
+- [Lifehacker] [What People Are Getting Wrong This Week: Cocaine at the White House](https://lifehacker.com/cocaine-at-the-white-house-1850611981)
 - [Lifehacker] [How to Join Threads, Meta&#39;s New Twitter Alternative &lpar;and Why You Might Want to Wait&rpar;](https://lifehacker.com/how-to-join-threads-metas-new-twitter-alternative-and-1850611763)
 - [Dev.to/JS] [Next.js != Full Stack](https://dev.to/musayazlik/nextjs-full-stack-4j1f)
 - [Dev.to/JS] [Tutorial: Build a Notes App with Next.js, Tailwind and SurrealDB](https://dev.to/surrealdb/tutorial-build-a-notes-app-with-nextjs-tailwind-and-surrealdb-22d3)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Making The Switch And Understanding The Syntax: JavaScript VS Python](https://dev.to/jessica_87/making-the-switch-and-understanding-the-syntax-javascript-vs-python-2n1a)
 - [Lifehacker] [It&#39;s Time to Cancel Max and Sign Up for The Criterion Channel](https://lifehacker.com/its-time-to-cancel-max-and-sign-up-for-the-criterion-ch-1850610767)
 - [Dev.to/JS] [Copiar objetos en JavaScript](https://dev.to/ulisesserranop/copia-de-objetos-en-javascript-128k)
-- [Dev.to/JS] [Chicago JavaScript Meetup](https://dev.to/heather_veva/chicago-javascript-meetup-423d)
-- [Dev.to/JS] [Creating Dynamic QR Codes Using React.js: A Step-by-Step Tutorial](https://dev.to/onlyoneerin/creating-dynamic-qr-codes-using-reactjs-a-step-by-step-tutorial-341a)
 - [Lifehacker] [The Easiest Ways to Fix a Rug With a Deteriorating Latex Backing](https://lifehacker.com/the-easiest-ways-to-fix-a-rug-with-a-deteriorating-late-1850610875)
 - [Lifehacker] [Pizza Your Oatmeal Immediately](https://lifehacker.com/pizza-your-oatmeal-immediately-1850610508)
 - [Lifehacker] [These 12x Digital Camera Binoculars Are 50% Off Right Now](https://lifehacker.com/these-12x-digital-camera-binoculars-are-50-off-right-n-1850589458)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Five Laziest Ways to Compost](https://lifehacker.com/the-five-laziest-ways-to-compost-1850602707)
 - [Lifehacker] [Six Places You Should Never Use WD-40](https://lifehacker.com/six-places-you-should-never-use-wd-40-1850605045)
 - [Lifehacker] [This Adobe Creative Cloud Certification Course Is 80% Off Right Now](https://lifehacker.com/this-adobe-creative-cloud-certification-course-is-80-o-1850589434)
-- [Lifehacker] [The Best Early Prime Day Deals for Gardeners](https://lifehacker.com/the-best-early-prime-day-deals-for-gardeners-1850602445)
-- [Lifehacker] [10 Conspiracy Theory Podcasts They Don’t Want You to Listen To](https://lifehacker.com/10-conspiracy-theory-podcasts-they-don-t-want-you-to-li-1850596788)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Early Prime Day Deals for Gardeners](https://lifehacker.com/the-best-early-prime-day-deals-for-gardeners-1850602445)<!-- TECH-POSTS:END -->
 
 ---
 
