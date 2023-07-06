@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Daily Frontend Problem: Problem #1 [Easy]](https://dev.to/chandrapenugonda/daily-frontend-problem-problem-1-easy-2d47)
+- [Dev.to/JS] [How to fix Vulnerabilities in Node.js](https://dev.to/vigneshkb7/how-to-fix-vulnerabilities-in-nodejs-56pk)
+- [Lifehacker] [Pizza Your Oatmeal Immediately](https://lifehacker.com/pizza-your-oatmeal-immediately-1850610508)
+- [Lifehacker] [These 12x Digital Camera Binoculars Are 50% Off Right Now](https://lifehacker.com/these-12x-digital-camera-binoculars-are-50-off-right-n-1850589458)
 - [Dev.to/JS] [How to use Spread and Rest operators in JavaScript](https://dev.to/hyemiie/how-to-use-spread-and-rest-operators-in-javascript-4d9h)
 - [Dev.to/JS] [I&#39;m making an AI JS Browser Game Engine - Helicity.ai✨](https://dev.to/lilshake/im-making-an-ai-js-browser-game-engine-helicityai-2p9p)
 - [Lifehacker] [Why You Should Never Buy a New Car](https://lifehacker.com/why-you-should-never-buy-a-new-car-1850610281)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get a First-Gen iPad Air With Beats Flex Headphones and Other Accessories for Under $100](https://lifehacker.com/get-a-first-gen-ipad-air-with-beats-flex-headphones-and-1850589537)
 - [Lifehacker] [Get to Know Kohlrabi With Three Easy Recipes](https://lifehacker.com/get-to-know-kohlrabi-with-three-easy-recipes-1850593643)
 - [Dev.to/JS] [My First Post](https://dev.to/rijalghodi/my-first-post-d4m)
-- [Dev.to/JS] [How To Use Tailwind In Vite](https://dev.to/haszankauna/how-to-use-tailwind-in-vite-1c5h)
-- [Dev.to/JS] [What Is GraphQL: Comprehensive Guide](https://dev.to/arsalanmee/what-is-graphql-comprehensive-guide-2i1d)
 - [Lifehacker] [How to Keep Mosquitoes From Breeding in Your Yard](https://lifehacker.com/how-to-keep-mosquitoes-from-breeding-in-your-yard-1850607465)
 - [Lifehacker] [Why Every Newborn Needs a Vitamin K Shot](https://lifehacker.com/why-every-newborn-needs-a-vitamin-k-shot-1850605053)
 - [Lifehacker] [Embrace These Cold Soups All Summer Long](https://lifehacker.com/embrace-these-cold-soups-all-summer-long-1850606372)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Layer a Cocktail Without a Bar Spoon](https://lifehacker.com/the-easiest-way-to-layer-a-cocktail-without-a-bar-spoon-1850597164)
 - [Lifehacker] [Dashi Is the Best Base for Summery Soups](https://lifehacker.com/dashi-is-the-best-base-for-summery-soups-1850593805)
 - [Lifehacker] [The Difference Between Native and Neonative Plants, and Why It Matters](https://lifehacker.com/the-difference-between-native-and-neonative-plants-and-1850593806)
-- [Lifehacker] [Why Your Smoke Detector Is Still Beeping With New Batteries](https://lifehacker.com/why-your-smoke-detector-is-still-beeping-with-new-batte-1850593822)
-- [Lifehacker] [Store Your Tools With Uncooked Rice to Prevent Them From Rusting](https://lifehacker.com/store-your-tools-with-uncooked-rice-to-prevent-them-fro-1850593827)
-- [Lifehacker] [Here&#39;s When Fixing Your Refrigerator Makes More Sense](https://lifehacker.com/heres-when-fixing-your-refrigerator-makes-more-sense-1850593858)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Your Smoke Detector Is Still Beeping With New Batteries](https://lifehacker.com/why-your-smoke-detector-is-still-beeping-with-new-batte-1850593822)<!-- TECH-POSTS:END -->
 
 ---
 
