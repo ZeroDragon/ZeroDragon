@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Your Assisted Code Writing Companion](https://dev.to/aiforme/your-assisted-code-writing-companion-d6o)
+- [Lifehacker] [Pork Floss Is the Superior Pork Garnish](https://lifehacker.com/pork-floss-is-the-superior-pork-garnish-1850608482)
 - [Lifehacker] [&#39;Butter&#39; Your Summer Corn With Avocado Skins](https://lifehacker.com/butter-your-summer-corn-with-avocado-skins-1850607435)
 - [Dev.to/JS] [How to Rename API Gateway Path Parameters on AWS](https://dev.to/kumo/how-to-rename-api-gateway-path-parameters-on-aws-20fa)
 - [Dev.to/JS] [How to Ask AI to return JSON in the Right Way](https://dev.to/igorboky/how-to-ask-ai-to-return-json-in-the-right-way-181i)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering State Management in React: From Struggles to Success!](https://dev.to/gilbertofke/mastering-state-management-in-react-from-struggles-to-success-52d7)
 - [Dev.to/JS] [Memoization in JavaScript: Boosting Performance](https://dev.to/abhinav707/title-demystifying-memoization-in-javascript-boosting-performance-like-a-pro-2628)
 - [Dev.to/JS] [#LearnedToday: WTF JS](https://dev.to/danielzotti/learnedtoday-wtf-js-44fl)
-- [Dev.to/JS] [CISA Exam Dumps: Your Secret Weapon for Exam Success](https://dev.to/cisadumps/cisa-exam-dumps-your-secret-weapon-for-exam-success-49he)
 - [Lifehacker] [The Five Best Twitter Alternatives](https://lifehacker.com/the-five-best-twitter-alternatives-1850607746)
 - [Lifehacker] [How to Keep Mosquitoes From Breeding in Your Yard](https://lifehacker.com/how-to-keep-mosquitoes-from-breeding-in-your-yard-1850607465)
 - [Lifehacker] [Why Every Newborn Needs a Vitamin K Shot](https://lifehacker.com/why-every-newborn-needs-a-vitamin-k-shot-1850605053)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s When Fixing Your Refrigerator Makes More Sense](https://lifehacker.com/heres-when-fixing-your-refrigerator-makes-more-sense-1850593858)
 - [Lifehacker] [Three Ways to Get the Most Out of Your Car&#39;s Air Conditioner](https://lifehacker.com/three-ways-to-get-the-most-out-of-your-cars-air-conditi-1850593864)
 - [Lifehacker] [Three Ways to Help Your Garden Recover From Wildfire Smoke](https://lifehacker.com/three-ways-to-help-your-garden-recover-from-wildfire-sm-1850593877)
-- [Lifehacker] [The Smartest Ways to Keep Sand From Sticking to You at the Beach](https://lifehacker.com/the-smartest-ways-to-keep-sand-from-sticking-to-you-at-1850593901)
-- [Lifehacker] [Four Ways to Get Amazon Credit to Spend on Prime Day](https://lifehacker.com/four-ways-to-get-amazon-credit-to-spend-on-prime-day-1850593913)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Smartest Ways to Keep Sand From Sticking to You at the Beach](https://lifehacker.com/the-smartest-ways-to-keep-sand-from-sticking-to-you-at-1850593901)<!-- TECH-POSTS:END -->
 
 ---
 
