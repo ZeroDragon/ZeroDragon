@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#LearnedToday: WTF JS](https://dev.to/danielzotti/learnedtoday-wtf-js-44fl)
+- [Dev.to/JS] [CISA Exam Dumps: Your Secret Weapon for Exam Success](https://dev.to/cisadumps/cisa-exam-dumps-your-secret-weapon-for-exam-success-49he)
 - [Dev.to/JS] [Understanding JavaScript Execution Context: The Key to Efficient Code](https://dev.to/parthee/understanding-javascript-execution-context-the-key-to-efficient-code-ai1)
 - [Dev.to/JS] [How to get a random card with user input - YGOPRODECK API](https://dev.to/tonevs/how-to-get-a-random-card-with-user-input-ygoprodeck-api-59gp)
 - [Dev.to/JS] [JS practice question](https://dev.to/abhinav707/js-practice-question-4b6c)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Daxus is published](https://dev.to/jason89521/daxus-is-published-3acd)
 - [Dev.to/JS] [7 libraries you should know as a React developer🔥🚀](https://dev.to/bishnoi_sushill/7-libraries-you-should-know-as-a-react-developer-434k)
 - [Dev.to/JS] [Issue #1 - The Journey I&#39;m Taking to learn how to Code in 365 Days Starting Today.](https://dev.to/4tro/issue-1-the-journey-im-taking-to-learn-how-to-code-in-365-days-starting-today-37f)
-- [Dev.to/JS] [JavaScript Loops](https://dev.to/amandasuzzanne/javascript-loops-3i1p)
-- [Dev.to/JS] [DevToolkitapp - What tools can I add to my website?](https://dev.to/felipebockmagagnin/devtoolkitapp-what-tools-can-i-add-to-my-website-2h4e)
 - [Lifehacker] [The Five Best Twitter Alternatives](https://lifehacker.com/the-five-best-twitter-alternatives-1850607746)
 - [Lifehacker] [How to Keep Mosquitoes From Breeding in Your Yard](https://lifehacker.com/how-to-keep-mosquitoes-from-breeding-in-your-yard-1850607465)
 - [Lifehacker] [Why Every Newborn Needs a Vitamin K Shot](https://lifehacker.com/why-every-newborn-needs-a-vitamin-k-shot-1850605053)
