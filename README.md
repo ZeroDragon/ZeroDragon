@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This &#39;IRS Letter&#39; Is a Scam](https://lifehacker.com/this-irs-letter-is-a-scam-1850610120)
+- [Dev.to/JS] [Fectching Data with WebComponent](https://dev.to/artydev/fectching-data-with-webcomponent-2aic)
+- [Dev.to/JS] [GraphQL - React X Zustand](https://dev.to/shubhamtiwari909/graphql-react-x-zustand-3j48)
+- [Dev.to/JS] [100 Days Code Challenge: Frontend Engineers](https://dev.to/dhrn/100-days-code-challenge-for-frontend-engineers-2j32)
+- [Lifehacker] [The Case For Smoking Your Chicken in Pieces](https://lifehacker.com/the-case-for-smoking-your-chicken-in-pieces-1850611750)
+- [Dev.to/JS] [Vertical Scaling vs Horizontal Scaling](https://dev.to/merudra754/vertical-scaling-vs-horizontal-scaling-fch)
 - [Lifehacker] [Amazon Prime&#39;s Big Vitamix Sale Is Worth Checking Out](https://lifehacker.com/amazon-primes-big-vitamix-sale-is-worth-checking-out-1850588884)
 - [Dev.to/JS] [WEB SERVERS FOR BEGINNERS](https://dev.to/souravk13054803/web-servers-for-beginners-24a6)
 - [Dev.to/JS] [Providing in Angular - how to share data](https://dev.to/tomwebwalker/providing-in-angular-how-to-share-data-2ad2)
@@ -32,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why to use Testing Daily Application?](https://dev.to/kailashpathak7/why-to-use-testing-daily-application-4j21)
 - [Dev.to/JS] [Looking Frontend Jobs](https://dev.to/kishorekutla/frontend-jobs-40f9)
 - [Dev.to/JS] [Worker Threads Nodejs](https://dev.to/williamsgqdev/worker-threads-nodejs-2na2)
-- [Dev.to/JS] [React-Redux](https://dev.to/sidddharthamishra/react-redux-181)
-- [Dev.to/JS] [Seeking Guidance and Knowledge: A Call to Senior Developers](https://dev.to/amaljith64/seeking-guidance-and-knowledge-a-call-to-senior-developers-13hj)
-- [Dev.to/JS] [Understanding GraphQL: A Comprehensive Comparison With REST API and Its Implementation in Node.js](https://dev.to/bugfenderapp/understanding-graphql-a-comprehensive-comparison-with-rest-api-and-its-implementation-in-nodejs-48i8)
-- [Dev.to/JS] [How does APP_INITIALIZER work? So what do you need to know about dynamic configuration in Angular?](https://dev.to/marcinmilewicz/how-does-appinitializer-work-so-what-do-you-need-to-know-about-dynamic-configuration-in-angular-5482)
 - [Lifehacker] [What People Are Getting Wrong This Week: Cocaine at the White House](https://lifehacker.com/cocaine-at-the-white-house-1850611981)
 - [Lifehacker] [How to Join Threads, Meta&#39;s New Twitter Alternative &lpar;and Why You Might Want to Wait&rpar;](https://lifehacker.com/how-to-join-threads-metas-new-twitter-alternative-and-1850611763)
 - [Lifehacker] [25 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Six Clever Ways to Use Luminous Paint &lpar;and Three That Aren’t Too Smart&rpar;](https://lifehacker.com/six-clever-ways-to-use-luminous-paint-and-three-that-a-1850606394)
 - [Lifehacker] [Your Kitchen Needs a Cup Full of Baby Spoons](https://lifehacker.com/your-kitchen-needs-a-cup-full-of-baby-spoons-1850606644)
 - [Lifehacker] [This truRelief Massage Gun Is on Sale for 90% Off Right Now](https://lifehacker.com/this-trurelief-massage-gun-is-on-sale-for-90-off-right-1850589410)
-- [Lifehacker] [The Five Laziest Ways to Compost](https://lifehacker.com/the-five-laziest-ways-to-compost-1850602707)
-- [Lifehacker] [Six Places You Should Never Use WD-40](https://lifehacker.com/six-places-you-should-never-use-wd-40-1850605045)
-- [Lifehacker] [This Adobe Creative Cloud Certification Course Is 80% Off Right Now](https://lifehacker.com/this-adobe-creative-cloud-certification-course-is-80-o-1850589434)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Five Laziest Ways to Compost](https://lifehacker.com/the-five-laziest-ways-to-compost-1850602707)<!-- TECH-POSTS:END -->
 
 ---
 
