@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Functions Unplugged — The Heartbeat of JavaScript Programming](https://dev.to/parthee/functions-unplugged-the-heartbeat-of-javascript-programming-36i9)
 - [Dev.to/JS] [Integrating Jest Testing into an Existing Vue 3 Project with ViteJs](https://dev.to/integridsolutions/integrating-jest-testing-into-an-existing-vue-3-project-with-vitejs-3m13)
 - [Dev.to/JS] [AI Coding Assistant and Do you need it?](https://dev.to/aiforme/ai-coding-assistant-and-do-you-need-it-3mg9)
 - [Dev.to/JS] [JavaScript alert, prompt &amp; confirm # 19](https://dev.to/sksage/javascript-alert-prompt-confirm-19-4md8)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple Counter in JavaScript](https://dev.to/bansikah/simple-counter-in-javascript-550m)
 - [Dev.to/JS] [Managing Customer Profiles with BudPay in Node.js using Axios](https://dev.to/saint_vandora/managing-customer-profiles-with-budpay-in-nodejs-using-axios-3a7k)
 - [Dev.to/JS] [Exploring API Integration: Building a Search Bar for Rick and Morty Characters](https://dev.to/devlawrence/exploring-api-integration-building-a-search-bar-for-rick-and-morty-characters-4k21)
-- [Dev.to/JS] [Streamlining Front-End Testing with Cypress: A Comprehensive Guide](https://dev.to/akshu3011/streamlining-front-end-testing-with-cypress-a-comprehensive-guide-3al8)
 - [Lifehacker] [What People Are Getting Wrong This Week: Cocaine at the White House](https://lifehacker.com/cocaine-at-the-white-house-1850611981)
 - [Lifehacker] [How to Join Threads, Meta&#39;s New Twitter Alternative &lpar;and Why You Might Want to Wait&rpar;](https://lifehacker.com/how-to-join-threads-metas-new-twitter-alternative-and-1850611763)
 - [Lifehacker] [25 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
