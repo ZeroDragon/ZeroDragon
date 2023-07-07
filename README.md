@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
+- [Dev.to/JS] [💡 TypeScript - Template Literal Types](https://dev.to/thayto/typescript-template-literal-types-2679)
+- [Lifehacker] [The Best Early Prime Day Luggage Deals](https://lifehacker.com/the-best-early-prime-day-luggage-deals-1850587001)
+- [Dev.to/JS] [Game Engine with AI✨ Part 2 - DALL E Sprites](https://dev.to/lilshake/game-engine-with-ai-part-2-dall-e-sprites-38m2)
+- [Lifehacker] [Target’s Answer to Prime Day Starts July 9](https://lifehacker.com/target-s-answer-to-prime-day-starts-july-9-1850616706)
 - [Lifehacker] [Deleting Threads Is the Least of Your Meta Privacy Concerns](https://lifehacker.com/deleting-threads-is-the-least-of-your-meta-privacy-conc-1850616557)
 - [Lifehacker] [Where It’s Legal to Scatter Ashes &lpar;and Where It Isn’t&rpar;](https://lifehacker.com/where-it-s-legal-to-scatter-ashes-and-where-it-isn-t-1850616393)
 - [Lifehacker] [You Can&#39;t Avoid &#39;Forever Chemicals,&#39; but You Can Lower Your Exposure](https://lifehacker.com/you-cant-avoid-forever-chemicals-but-you-can-lower-you-1850616272)
@@ -44,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Start a New Job Right With a ‘30-60-90 Plan’](https://lifehacker.com/start-a-new-job-right-with-a-30-60-90-plan-1850614625)
 - [Lifehacker] [The Best Early Prime Day Deals on Outdoor Gear](https://lifehacker.com/the-best-early-prime-day-deals-on-outdoor-gear-1850545095)
 - [Dev.to/JS] [Starting React Course](https://dev.to/calumscott/starting-react-course-360b)
-- [Dev.to/JS] [What is .map&lpar;&rpar; ?](https://dev.to/harjas816/what-is-map--35j6)
-- [Dev.to/JS] [How to showcase your projects?](https://dev.to/merudra754/how-to-showcase-your-project-d46)
 - [Lifehacker] [You Can Get This Stock Screening App for Over 80% Off](https://lifehacker.com/you-can-get-this-stock-screening-app-for-over-80-off-1850589570)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Threw a Fleshlight at Lil Nas X?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-threw-1850613328)
 - [Lifehacker] [Low-Carb Cauliflower Arancini Are Actually Amazing](https://lifehacker.com/low-carb-cauliflower-arancini-are-actually-amazing-1850612036)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Two Ways to Make Umeboshi, the Pickled Plum You’ll Want to Add to Everything](https://lifehacker.com/two-ways-to-make-umeboshi-the-pickled-plum-you-ll-want-1850594002)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Times to Send an Email](https://lifehacker.com/the-best-and-worst-times-to-send-an-email-1850610907)
 - [Lifehacker] [How to Know If a Weed Dispensary Is Legal](https://lifehacker.com/how-to-know-if-a-weed-dispensary-is-legal-1850549905)
-- [Lifehacker] [It&#39;s Time to Cancel Max and Sign Up for The Criterion Channel](https://lifehacker.com/its-time-to-cancel-max-and-sign-up-for-the-criterion-ch-1850610767)
-- [Lifehacker] [The Easiest Ways to Fix a Rug With a Deteriorating Latex Backing](https://lifehacker.com/the-easiest-ways-to-fix-a-rug-with-a-deteriorating-late-1850610875)
-- [Lifehacker] [Pizza Your Oatmeal Immediately](https://lifehacker.com/pizza-your-oatmeal-immediately-1850610508)
-- [Lifehacker] [These 12x Digital Camera Binoculars Are 50% Off Right Now](https://lifehacker.com/these-12x-digital-camera-binoculars-are-50-off-right-n-1850589458)<!-- TECH-POSTS:END -->
+- [Lifehacker] [It&#39;s Time to Cancel Max and Sign Up for The Criterion Channel](https://lifehacker.com/its-time-to-cancel-max-and-sign-up-for-the-criterion-ch-1850610767)<!-- TECH-POSTS:END -->
 
 ---
 
