@@ -23,8 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Early Prime Day Deals on Outdoor Gear](https://lifehacker.com/the-best-early-prime-day-deals-on-outdoor-gear-1850545095)
+- [Dev.to/JS] [Starting React Course](https://dev.to/calumscott/starting-react-course-360b)
+- [Dev.to/JS] [What is .map&lpar;&rpar; ?](https://dev.to/harjas816/what-is-map--35j6)
+- [Dev.to/JS] [How to showcase your projects?](https://dev.to/merudra754/how-to-showcase-your-project-d46)
 - [Lifehacker] [You Can Get This Stock Screening App for Over 80% Off](https://lifehacker.com/you-can-get-this-stock-screening-app-for-over-80-off-1850589570)
 - [Dev.to/JS] [Best way to prepare for coding interviews in 2023?](https://dev.to/amyliumaiyi/best-way-to-prepare-for-coding-interviews-in-2023-1cnh)
+- [Dev.to/JS] [Unleashing the Power of JavaScript: 100 Code Snippets to Revolutionise Your Web Development](https://dev.to/harendra21/unleashing-the-power-of-javascript-100-code-snippets-to-revolutionise-your-web-development-4ba5)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Threw a Fleshlight at Lil Nas X?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-threw-1850613328)
 - [Lifehacker] [Low-Carb Cauliflower Arancini Are Actually Amazing](https://lifehacker.com/low-carb-cauliflower-arancini-are-actually-amazing-1850612036)
 - [Dev.to/JS] [Rate Limiting, English as an SDK, Append-Only Software](https://dev.to/zelbazk/rate-limiting-english-as-an-sdk-append-only-software-ple)
@@ -37,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [GraphQL - React X Zustand](https://dev.to/shubhamtiwari909/graphql-react-x-zustand-3j48)
 - [Dev.to/JS] [100 Days Code Challenge: Frontend Engineers](https://dev.to/dhrn/100-days-code-challenge-for-frontend-engineers-2j32)
 - [Lifehacker] [The Case For Smoking Your Chicken in Pieces](https://lifehacker.com/the-case-for-smoking-your-chicken-in-pieces-1850611750)
-- [Dev.to/JS] [Vertical Scaling vs Horizontal Scaling](https://dev.to/merudra754/vertical-scaling-vs-horizontal-scaling-fch)
 - [Lifehacker] [Amazon Prime&#39;s Big Vitamix Sale Is Worth Checking Out](https://lifehacker.com/amazon-primes-big-vitamix-sale-is-worth-checking-out-1850588884)
-- [Dev.to/JS] [WEB SERVERS FOR BEGINNERS](https://dev.to/souravk13054803/web-servers-for-beginners-24a6)
-- [Dev.to/JS] [Providing in Angular - how to share data](https://dev.to/tomwebwalker/providing-in-angular-how-to-share-data-2ad2)
-- [Dev.to/JS] [Simplify Web Form Development with SmarkForm](https://dev.to/bitifet/simplify-web-form-development-with-smarkform-1j51)
 - [Lifehacker] [What People Are Getting Wrong This Week: Cocaine at the White House](https://lifehacker.com/cocaine-at-the-white-house-1850611981)
 - [Lifehacker] [How to Join Threads, Meta&#39;s New Twitter Alternative &lpar;and Why You Might Want to Wait&rpar;](https://lifehacker.com/how-to-join-threads-metas-new-twitter-alternative-and-1850611763)
 - [Lifehacker] [25 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get a First-Gen iPad Air With Beats Flex Headphones and Other Accessories for Under $100](https://lifehacker.com/get-a-first-gen-ipad-air-with-beats-flex-headphones-and-1850589537)
 - [Lifehacker] [Get to Know Kohlrabi With Three Easy Recipes](https://lifehacker.com/get-to-know-kohlrabi-with-three-easy-recipes-1850593643)
 - [Lifehacker] [How to Keep Mosquitoes From Breeding in Your Yard](https://lifehacker.com/how-to-keep-mosquitoes-from-breeding-in-your-yard-1850607465)
-- [Lifehacker] [Why Every Newborn Needs a Vitamin K Shot](https://lifehacker.com/why-every-newborn-needs-a-vitamin-k-shot-1850605053)
-- [Lifehacker] [Embrace These Cold Soups All Summer Long](https://lifehacker.com/embrace-these-cold-soups-all-summer-long-1850606372)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Every Newborn Needs a Vitamin K Shot](https://lifehacker.com/why-every-newborn-needs-a-vitamin-k-shot-1850605053)<!-- TECH-POSTS:END -->
 
 ---
 
