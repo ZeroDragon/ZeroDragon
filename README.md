@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Where It’s Legal to Scatter Ashes &lpar;and Where It Isn’t&rpar;](https://lifehacker.com/where-it-s-legal-to-scatter-ashes-and-where-it-isn-t-1850616393)
+- [Lifehacker] [You Can&#39;t Avoid &#39;Forever Chemicals,&#39; but You Can Lower Your Exposure](https://lifehacker.com/you-cant-avoid-forever-chemicals-but-you-can-lower-you-1850616272)
+- [Dev.to/JS] [NBA Logo Finder - Don&#39;t Forget Favorite Teams Logo!](https://dev.to/aidanstucker/nba-logo-finder-dont-forget-favorite-teams-logo-5dp7)
 - [Lifehacker] [Air Fry Bacon-Wrapped Watermelon for an Intriguing Salad](https://lifehacker.com/air-fry-bacon-wrapped-watermelon-for-an-intriguing-sala-1850616284)
 - [Dev.to/JS] [React Hooks](https://dev.to/luffy251/react-hooks-3d1m)
 - [Dev.to/JS] [Critical Rendering Path in JavaScript - Make your website FAST!!](https://dev.to/jeetvora331/critical-rendering-path-in-javascript-make-your-website-fast-3jd3)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is .map&lpar;&rpar; ?](https://dev.to/harjas816/what-is-map--35j6)
 - [Dev.to/JS] [How to showcase your projects?](https://dev.to/merudra754/how-to-showcase-your-project-d46)
 - [Lifehacker] [You Can Get This Stock Screening App for Over 80% Off](https://lifehacker.com/you-can-get-this-stock-screening-app-for-over-80-off-1850589570)
-- [Dev.to/JS] [Best way to prepare for coding interviews in 2023?](https://dev.to/amyliumaiyi/best-way-to-prepare-for-coding-interviews-in-2023-1cnh)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Threw a Fleshlight at Lil Nas X?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-threw-1850613328)
 - [Lifehacker] [Low-Carb Cauliflower Arancini Are Actually Amazing](https://lifehacker.com/low-carb-cauliflower-arancini-are-actually-amazing-1850612036)
 - [Lifehacker] [These BirdBike eBikes Are 60% Off Right Now](https://lifehacker.com/these-birdbike-ebikes-are-60-off-right-now-1850589553)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Fix a Rug With a Deteriorating Latex Backing](https://lifehacker.com/the-easiest-ways-to-fix-a-rug-with-a-deteriorating-late-1850610875)
 - [Lifehacker] [Pizza Your Oatmeal Immediately](https://lifehacker.com/pizza-your-oatmeal-immediately-1850610508)
 - [Lifehacker] [These 12x Digital Camera Binoculars Are 50% Off Right Now](https://lifehacker.com/these-12x-digital-camera-binoculars-are-50-off-right-n-1850589458)
-- [Lifehacker] [Why You Should Never Buy a New Car](https://lifehacker.com/why-you-should-never-buy-a-new-car-1850610281)
-- [Lifehacker] [How to Avoid the Two Types of Explosive Diarrhea Going Around](https://lifehacker.com/how-to-avoid-the-two-types-of-explosive-diarrhea-going-1850610190)
-- [Lifehacker] [The Five Best Twitter Alternatives](https://lifehacker.com/the-five-best-twitter-alternatives-1850607746)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Never Buy a New Car](https://lifehacker.com/why-you-should-never-buy-a-new-car-1850610281)<!-- TECH-POSTS:END -->
 
 ---
 
