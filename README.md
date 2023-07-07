@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple Counter in JavaScript](https://dev.to/bansikah/simple-counter-in-javascript-550m)
+- [Dev.to/JS] [Managing Customer Profiles with BudPay in Node.js using Axios](https://dev.to/saint_vandora/managing-customer-profiles-with-budpay-in-nodejs-using-axios-3a7k)
 - [Dev.to/JS] [Exploring API Integration: Building a Search Bar for Rick and Morty Characters](https://dev.to/devlawrence/exploring-api-integration-building-a-search-bar-for-rick-and-morty-characters-4k21)
 - [Dev.to/JS] [Streamlining Front-End Testing with Cypress: A Comprehensive Guide](https://dev.to/akshu3011/streamlining-front-end-testing-with-cypress-a-comprehensive-guide-3al8)
 - [Dev.to/JS] [Automatically creating Salesforce contacts when a user signs up](https://dev.to/sequin/automatically-creating-salesforce-contacts-when-a-user-signs-up-2iki)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Two Ways to Make Umeboshi, the Pickled Plum You’ll Want to Add to Everything](https://lifehacker.com/two-ways-to-make-umeboshi-the-pickled-plum-you-ll-want-1850594002)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Times to Send an Email](https://lifehacker.com/the-best-and-worst-times-to-send-an-email-1850610907)
 - [Dev.to/JS] [5 Common Pitfalls with Server Components in Next13 &lpar;with examples&rpar;](https://dev.to/propelauth/5-common-pitfalls-with-server-components-in-next13-with-examples-4kco)
-- [Dev.to/JS] [Build a product information management app with Appwrite Cloud and NextJS](https://dev.to/bigsam28/build-a-product-information-management-app-with-appwrite-cloud-and-nextjs-2dd4)
-- [Dev.to/JS] [Funciones generadoras](https://dev.to/agustinrzarate/funciones-generadoras-4l9d)
 - [Lifehacker] [How to Know If a Weed Dispensary Is Legal](https://lifehacker.com/how-to-know-if-a-weed-dispensary-is-legal-1850549905)
 - [Lifehacker] [It&#39;s Time to Cancel Max and Sign Up for The Criterion Channel](https://lifehacker.com/its-time-to-cancel-max-and-sign-up-for-the-criterion-ch-1850610767)
 - [Lifehacker] [The Easiest Ways to Fix a Rug With a Deteriorating Latex Backing](https://lifehacker.com/the-easiest-ways-to-fix-a-rug-with-a-deteriorating-late-1850610875)
