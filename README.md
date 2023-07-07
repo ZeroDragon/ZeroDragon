@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get This Stock Screening App for Over 80% Off](https://lifehacker.com/you-can-get-this-stock-screening-app-for-over-80-off-1850589570)
+- [Dev.to/JS] [Best way to prepare for coding interviews in 2023?](https://dev.to/amyliumaiyi/best-way-to-prepare-for-coding-interviews-in-2023-1cnh)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Threw a Fleshlight at Lil Nas X?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-threw-1850613328)
 - [Lifehacker] [Low-Carb Cauliflower Arancini Are Actually Amazing](https://lifehacker.com/low-carb-cauliflower-arancini-are-actually-amazing-1850612036)
 - [Dev.to/JS] [Rate Limiting, English as an SDK, Append-Only Software](https://dev.to/zelbazk/rate-limiting-english-as-an-sdk-append-only-software-ple)
 - [Dev.to/JS] [Exploring the Remarkable Benefits of Docker Containers](https://dev.to/parmarshantun/exploring-the-remarkable-benefits-of-docker-containers-3lmo)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WEB SERVERS FOR BEGINNERS](https://dev.to/souravk13054803/web-servers-for-beginners-24a6)
 - [Dev.to/JS] [Providing in Angular - how to share data](https://dev.to/tomwebwalker/providing-in-angular-how-to-share-data-2ad2)
 - [Dev.to/JS] [Simplify Web Form Development with SmarkForm](https://dev.to/bitifet/simplify-web-form-development-with-smarkform-1j51)
-- [Dev.to/JS] [JavaScript&#39;s Clipboard Copy: Crafting with AI](https://dev.to/bleedingcode/javascripts-clipboard-copy-crafting-with-ai-5h7e)
 - [Lifehacker] [What People Are Getting Wrong This Week: Cocaine at the White House](https://lifehacker.com/cocaine-at-the-white-house-1850611981)
 - [Lifehacker] [How to Join Threads, Meta&#39;s New Twitter Alternative &lpar;and Why You Might Want to Wait&rpar;](https://lifehacker.com/how-to-join-threads-metas-new-twitter-alternative-and-1850611763)
 - [Lifehacker] [25 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get to Know Kohlrabi With Three Easy Recipes](https://lifehacker.com/get-to-know-kohlrabi-with-three-easy-recipes-1850593643)
 - [Lifehacker] [How to Keep Mosquitoes From Breeding in Your Yard](https://lifehacker.com/how-to-keep-mosquitoes-from-breeding-in-your-yard-1850607465)
 - [Lifehacker] [Why Every Newborn Needs a Vitamin K Shot](https://lifehacker.com/why-every-newborn-needs-a-vitamin-k-shot-1850605053)
-- [Lifehacker] [Embrace These Cold Soups All Summer Long](https://lifehacker.com/embrace-these-cold-soups-all-summer-long-1850606372)
-- [Lifehacker] [Six Clever Ways to Use Luminous Paint &lpar;and Three That Aren’t Too Smart&rpar;](https://lifehacker.com/six-clever-ways-to-use-luminous-paint-and-three-that-a-1850606394)
-- [Lifehacker] [Your Kitchen Needs a Cup Full of Baby Spoons](https://lifehacker.com/your-kitchen-needs-a-cup-full-of-baby-spoons-1850606644)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Embrace These Cold Soups All Summer Long](https://lifehacker.com/embrace-these-cold-soups-all-summer-long-1850606372)<!-- TECH-POSTS:END -->
 
 ---
 
