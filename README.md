@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript alert, prompt &amp; confirm # 19](https://dev.to/sksage/javascript-alert-prompt-confirm-19-4md8)
+- [Dev.to/JS] [How I build lofi.radio with only CloudFlare](https://dev.to/geertjansloos/how-i-build-lofiradio-with-only-cloudflare-255j)
+- [Dev.to/JS] [Analyze Code with Error Detection and IDE Extension](https://dev.to/aiforme/analyze-code-with-error-detection-and-ide-extension-imp)
+- [Dev.to/JS] [Understanding DOM Manipulation with JavaScript](https://dev.to/scofieldidehen/understanding-dom-manipulation-with-javascript-5073)
+- [Dev.to/JS] [Word counter using javascript.](https://dev.to/maketechstuff/word-counter-using-javascript-566o)
 - [Dev.to/JS] [My experience with React and Vue in Depth](https://dev.to/mohammad_kh4441/my-experience-with-react-and-vue-in-1a2h)
 - [Dev.to/JS] [Simple Counter in JavaScript](https://dev.to/bansikah/simple-counter-in-javascript-550m)
 - [Dev.to/JS] [Managing Customer Profiles with BudPay in Node.js using Axios](https://dev.to/saint_vandora/managing-customer-profiles-with-budpay-in-nodejs-using-axios-3a7k)
@@ -32,12 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Por que Prisma?](https://dev.to/httpgabrielalves/por-que-prisma-an)
 - [Lifehacker] [What People Are Getting Wrong This Week: Cocaine at the White House](https://lifehacker.com/cocaine-at-the-white-house-1850611981)
 - [Lifehacker] [How to Join Threads, Meta&#39;s New Twitter Alternative &lpar;and Why You Might Want to Wait&rpar;](https://lifehacker.com/how-to-join-threads-metas-new-twitter-alternative-and-1850611763)
-- [Dev.to/JS] [Next.js != Full Stack](https://dev.to/musayazlik/nextjs-full-stack-4j1f)
-- [Dev.to/JS] [Tutorial: Build a Notes App with Next.js, Tailwind and SurrealDB](https://dev.to/surrealdb/tutorial-build-a-notes-app-with-nextjs-tailwind-and-surrealdb-22d3)
 - [Lifehacker] [25 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
-- [Dev.to/JS] [Getting started with application dev as a data scientist?](https://dev.to/jfcrockett/getting-started-with-application-dev-as-a-data-scientist-1epd)
-- [Dev.to/JS] [The Difference Between Using Node.js Alone in Building an Application and Using it with Angular](https://dev.to/roshdiraed/the-difference-between-using-nodejs-alone-in-building-an-application-and-using-it-with-angular-27ap)
-- [Dev.to/JS] [Event loop in Javascript](https://dev.to/elgouhry/event-loop-in-javascript-297p)
 - [Lifehacker] [Two Ways to Make Umeboshi, the Pickled Plum You’ll Want to Add to Everything](https://lifehacker.com/two-ways-to-make-umeboshi-the-pickled-plum-you-ll-want-1850594002)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Times to Send an Email](https://lifehacker.com/the-best-and-worst-times-to-send-an-email-1850610907)
 - [Lifehacker] [How to Know If a Weed Dispensary Is Legal](https://lifehacker.com/how-to-know-if-a-weed-dispensary-is-legal-1850549905)
