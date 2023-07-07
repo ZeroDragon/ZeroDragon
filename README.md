@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why to use Testing Daily Application?](https://dev.to/kailashpathak7/why-to-use-testing-daily-application-4j21)
+- [Dev.to/JS] [Frontend Jobs](https://dev.to/kishorekutla/frontend-jobs-40f9)
+- [Dev.to/JS] [Worker Threads Nodejs](https://dev.to/williamsgqdev/worker-threads-nodejs-2na2)
+- [Dev.to/JS] [React-Redux](https://dev.to/sidddharthamishra/react-redux-181)
 - [Dev.to/JS] [Seeking Guidance and Knowledge: A Call to Senior Developers](https://dev.to/amaljith64/seeking-guidance-and-knowledge-a-call-to-senior-developers-13hj)
+- [Dev.to/JS] [Understanding GraphQL: A Comprehensive Comparison With REST API and Its Implementation in Node.js](https://dev.to/bugfenderapp/understanding-graphql-a-comprehensive-comparison-with-rest-api-and-its-implementation-in-nodejs-48i8)
 - [Dev.to/JS] [How does APP_INITIALIZER work? So what do you need to know about dynamic configuration in Angular?](https://dev.to/marcinmilewicz/how-does-appinitializer-work-so-what-do-you-need-to-know-about-dynamic-configuration-in-angular-5482)
 - [Dev.to/JS] [Building A TodoList with Svelte &amp; Firebase](https://dev.to/dro1/building-a-todolist-with-svelte-firebase-52a0)
 - [Dev.to/JS] [#LearnedToday: .gitignore resources](https://dev.to/danielzotti/learnedtoday-gitignore-resources-1kfl)
 - [Dev.to/JS] [Customer Feedback: Enhancing Business Success Through Valuable Insights](https://dev.to/praterherbs/customer-feedback-enhancing-business-success-through-valuable-insights-3o20)
 - [Dev.to/JS] [How to integration Digital persona 4500 fingerprint reader in asp.net core&lpar;Razor Page&rpar;?](https://dev.to/radhe65gupta/how-to-integration-digital-persona-4500-fingerprint-reader-in-aspnet-corerazor-page-38j)
 - [Dev.to/JS] [[!] RollupError: Invalid value for option &quot;output.file&quot; - when building multiple chunks, the &quot;output.dir&quot; ..](https://dev.to/bennodev19/-rolluperror-invalid-value-for-option-outputfile-when-building-multiple-chunks-the-outputdir--267n)
-- [Dev.to/JS] [Amiclear - Weight Loss Benefits, Results, Price &amp; Reviews?](https://dev.to/amiclearfa10918/amiclear-weight-loss-benefits-results-price-reviews-nmg)
-- [Dev.to/JS] [Java Programming: An Overview of the Versatile Language](https://dev.to/masjulaiman/java-programming-an-overview-of-the-versatile-language-2b35)
-- [Dev.to/JS] [Seeking Passionate Collaborators for Artificial Intelligence Project - Multilingual Chatbot | Alliance EVO](https://dev.to/aivectr/seeking-passionate-collaborators-for-artificial-intelligence-project-multilingual-chatbot-alliance-evo-3jk7)
-- [Dev.to/JS] [Máy hút chân không yamafuji giá tốt](https://dev.to/mayhutchankhongyamaf/may-hut-chan-khong-yamafuji-gia-tot-b6i)
-- [Dev.to/JS] [Implementing a Dark Mode Toggle with CSS and JavaScript.](https://dev.to/preetsuthar17/implementing-a-dark-mode-toggle-with-css-and-javascript-p28)
 - [Lifehacker] [What People Are Getting Wrong This Week: Cocaine at the White House](https://lifehacker.com/cocaine-at-the-white-house-1850611981)
 - [Lifehacker] [How to Join Threads, Meta&#39;s New Twitter Alternative &lpar;and Why You Might Want to Wait&rpar;](https://lifehacker.com/how-to-join-threads-metas-new-twitter-alternative-and-1850611763)
 - [Lifehacker] [25 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
