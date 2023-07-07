@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Breaking Into the Tech Industry: Unleash Your Potential](https://dev.to/adegbiji1/breaking-into-the-tech-industry-unleash-your-potential-4je3)
+- [Lifehacker] [The Only Good Advice for Shopping on Amazon Prime Day](https://lifehacker.com/the-only-good-advice-for-shopping-amazon-prime-day-1849154608)
+- [Dev.to/JS] [Fetching JSON data with Alpine.js [ACCIO!]](https://dev.to/diomed/fetching-json-data-with-alpinejs-accio-261n)
+- [Lifehacker] [Seven Things You Didn’t Know You Could Build From a Kit](https://lifehacker.com/seven-things-you-didn-t-know-you-could-build-from-a-kit-1850615193)
 - [Dev.to/JS] [How to format currency with Intl.NumberFormat](https://dev.to/wojtek/how-to-format-currency-with-intlnumberformat-4eia)
 - [Lifehacker] [Try &#39;Habit Stacking&#39; to Be More Productive](https://lifehacker.com/try-habit-stacking-to-be-more-productive-1850614842)
 - [Dev.to/JS] [[Array Reduce polyfill] Daily Frontend Problem: Problem #2 [Medium]](https://dev.to/chandrapenugonda/daily-frontend-problem-problem-2-medium-4pkp)
@@ -39,10 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rate Limiting, English as an SDK, Append-Only Software](https://dev.to/zelbazk/rate-limiting-english-as-an-sdk-append-only-software-ple)
 - [Dev.to/JS] [Exploring the Remarkable Benefits of Docker Containers](https://dev.to/parmarshantun/exploring-the-remarkable-benefits-of-docker-containers-3lmo)
 - [Dev.to/JS] [Show and Hide Two DIVS Using JQuery](https://dev.to/sardarmudassaralikhan/show-and-hide-two-divs-using-jquery-2pcl)
-- [Dev.to/JS] [CodeGPT: Enhancing Developer Efficiency and Coding Skills](https://dev.to/aiforme/codegpt-enhancing-developer-efficiency-and-coding-skills-3i2f)
 - [Lifehacker] [These BirdBike eBikes Are 60% Off Right Now](https://lifehacker.com/these-birdbike-ebikes-are-60-off-right-now-1850589553)
 - [Lifehacker] [This &#39;IRS Letter&#39; Is a Scam](https://lifehacker.com/this-irs-letter-is-a-scam-1850610120)
-- [Dev.to/JS] [Fectching Data with WebComponent](https://dev.to/artydev/fectching-data-with-webcomponent-2aic)
 - [Lifehacker] [The Case For Smoking Your Chicken in Pieces](https://lifehacker.com/the-case-for-smoking-your-chicken-in-pieces-1850611750)
 - [Lifehacker] [Amazon Prime&#39;s Big Vitamix Sale Is Worth Checking Out](https://lifehacker.com/amazon-primes-big-vitamix-sale-is-worth-checking-out-1850588884)
 - [Lifehacker] [What People Are Getting Wrong This Week: Cocaine at the White House](https://lifehacker.com/cocaine-at-the-white-house-1850611981)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Five Best Twitter Alternatives](https://lifehacker.com/the-five-best-twitter-alternatives-1850607746)
 - [Lifehacker] [This Portable Monitor Is on Sale for $129.99 Right Now](https://lifehacker.com/this-portable-monitor-is-on-sale-for-129-99-right-now-1850589508)
 - [Lifehacker] [Pork Floss Is the Superior Pork Garnish](https://lifehacker.com/pork-floss-is-the-superior-pork-garnish-1850608482)
-- [Lifehacker] [&#39;Butter&#39; Your Summer Corn With Avocado Skins](https://lifehacker.com/butter-your-summer-corn-with-avocado-skins-1850607435)
-- [Lifehacker] [Get a First-Gen iPad Air With Beats Flex Headphones and Other Accessories for Under $100](https://lifehacker.com/get-a-first-gen-ipad-air-with-beats-flex-headphones-and-1850589537)
-- [Lifehacker] [Get to Know Kohlrabi With Three Easy Recipes](https://lifehacker.com/get-to-know-kohlrabi-with-three-easy-recipes-1850593643)<!-- TECH-POSTS:END -->
+- [Lifehacker] [&#39;Butter&#39; Your Summer Corn With Avocado Skins](https://lifehacker.com/butter-your-summer-corn-with-avocado-skins-1850607435)<!-- TECH-POSTS:END -->
 
 ---
 
