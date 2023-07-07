@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to format currency with Intl.NumberFormat](https://dev.to/wojtek/how-to-format-currency-with-intlnumberformat-4eia)
+- [Lifehacker] [Try &#39;Habit Stacking&#39; to Be More Productive](https://lifehacker.com/try-habit-stacking-to-be-more-productive-1850614842)
+- [Dev.to/JS] [[Array Reduce polyfill] Daily Frontend Problem: Problem #2 [Medium]](https://dev.to/chandrapenugonda/daily-frontend-problem-problem-2-medium-4pkp)
+- [Lifehacker] [Start a New Job Right With a ‘30-60-90 Plan’](https://lifehacker.com/start-a-new-job-right-with-a-30-60-90-plan-1850614625)
 - [Lifehacker] [The Best Early Prime Day Deals on Outdoor Gear](https://lifehacker.com/the-best-early-prime-day-deals-on-outdoor-gear-1850545095)
 - [Dev.to/JS] [Starting React Course](https://dev.to/calumscott/starting-react-course-360b)
 - [Dev.to/JS] [What is .map&lpar;&rpar; ?](https://dev.to/harjas816/what-is-map--35j6)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These BirdBike eBikes Are 60% Off Right Now](https://lifehacker.com/these-birdbike-ebikes-are-60-off-right-now-1850589553)
 - [Lifehacker] [This &#39;IRS Letter&#39; Is a Scam](https://lifehacker.com/this-irs-letter-is-a-scam-1850610120)
 - [Dev.to/JS] [Fectching Data with WebComponent](https://dev.to/artydev/fectching-data-with-webcomponent-2aic)
-- [Dev.to/JS] [GraphQL - React X Zustand](https://dev.to/shubhamtiwari909/graphql-react-x-zustand-3j48)
-- [Dev.to/JS] [100 Days Code Challenge: Frontend Engineers](https://dev.to/dhrn/100-days-code-challenge-for-frontend-engineers-2j32)
 - [Lifehacker] [The Case For Smoking Your Chicken in Pieces](https://lifehacker.com/the-case-for-smoking-your-chicken-in-pieces-1850611750)
 - [Lifehacker] [Amazon Prime&#39;s Big Vitamix Sale Is Worth Checking Out](https://lifehacker.com/amazon-primes-big-vitamix-sale-is-worth-checking-out-1850588884)
 - [Lifehacker] [What People Are Getting Wrong This Week: Cocaine at the White House](https://lifehacker.com/cocaine-at-the-white-house-1850611981)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Pork Floss Is the Superior Pork Garnish](https://lifehacker.com/pork-floss-is-the-superior-pork-garnish-1850608482)
 - [Lifehacker] [&#39;Butter&#39; Your Summer Corn With Avocado Skins](https://lifehacker.com/butter-your-summer-corn-with-avocado-skins-1850607435)
 - [Lifehacker] [Get a First-Gen iPad Air With Beats Flex Headphones and Other Accessories for Under $100](https://lifehacker.com/get-a-first-gen-ipad-air-with-beats-flex-headphones-and-1850589537)
-- [Lifehacker] [Get to Know Kohlrabi With Three Easy Recipes](https://lifehacker.com/get-to-know-kohlrabi-with-three-easy-recipes-1850593643)
-- [Lifehacker] [How to Keep Mosquitoes From Breeding in Your Yard](https://lifehacker.com/how-to-keep-mosquitoes-from-breeding-in-your-yard-1850607465)
-- [Lifehacker] [Why Every Newborn Needs a Vitamin K Shot](https://lifehacker.com/why-every-newborn-needs-a-vitamin-k-shot-1850605053)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Get to Know Kohlrabi With Three Easy Recipes](https://lifehacker.com/get-to-know-kohlrabi-with-three-easy-recipes-1850593643)<!-- TECH-POSTS:END -->
 
 ---
 
