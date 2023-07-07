@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Amazon Prime&#39;s Big Vitamix Sale Is Worth Checking Out](https://lifehacker.com/amazon-primes-big-vitamix-sale-is-worth-checking-out-1850588884)
+- [Dev.to/JS] [WEB SERVERS FOR BEGINNERS](https://dev.to/souravk13054803/web-servers-for-beginners-24a6)
+- [Dev.to/JS] [Providing in Angular - how to share data](https://dev.to/tomwebwalker/providing-in-angular-how-to-share-data-2ad2)
+- [Dev.to/JS] [Simplify Web Form Development with SmarkForm](https://dev.to/bitifet/simplify-web-form-development-with-smarkform-1j51)
+- [Dev.to/JS] [JavaScript&#39;s Clipboard Copy: Crafting with AI](https://dev.to/bleedingcode/javascripts-clipboard-copy-crafting-with-ai-5h7e)
+- [Dev.to/JS] [NestJS JWT authentication Starter Template with ArangoDB](https://dev.to/michelfawazz/nestjs-jwt-authentication-starter-template-with-arangodb-d7n)
 - [Dev.to/JS] [Why to use Testing Daily Application?](https://dev.to/kailashpathak7/why-to-use-testing-daily-application-4j21)
-- [Dev.to/JS] [Frontend Jobs](https://dev.to/kishorekutla/frontend-jobs-40f9)
+- [Dev.to/JS] [Looking Frontend Jobs](https://dev.to/kishorekutla/frontend-jobs-40f9)
 - [Dev.to/JS] [Worker Threads Nodejs](https://dev.to/williamsgqdev/worker-threads-nodejs-2na2)
 - [Dev.to/JS] [React-Redux](https://dev.to/sidddharthamishra/react-redux-181)
 - [Dev.to/JS] [Seeking Guidance and Knowledge: A Call to Senior Developers](https://dev.to/amaljith64/seeking-guidance-and-knowledge-a-call-to-senior-developers-13hj)
 - [Dev.to/JS] [Understanding GraphQL: A Comprehensive Comparison With REST API and Its Implementation in Node.js](https://dev.to/bugfenderapp/understanding-graphql-a-comprehensive-comparison-with-rest-api-and-its-implementation-in-nodejs-48i8)
 - [Dev.to/JS] [How does APP_INITIALIZER work? So what do you need to know about dynamic configuration in Angular?](https://dev.to/marcinmilewicz/how-does-appinitializer-work-so-what-do-you-need-to-know-about-dynamic-configuration-in-angular-5482)
-- [Dev.to/JS] [Building A TodoList with Svelte &amp; Firebase](https://dev.to/dro1/building-a-todolist-with-svelte-firebase-52a0)
-- [Dev.to/JS] [#LearnedToday: .gitignore resources](https://dev.to/danielzotti/learnedtoday-gitignore-resources-1kfl)
-- [Dev.to/JS] [Customer Feedback: Enhancing Business Success Through Valuable Insights](https://dev.to/praterherbs/customer-feedback-enhancing-business-success-through-valuable-insights-3o20)
-- [Dev.to/JS] [How to integration Digital persona 4500 fingerprint reader in asp.net core&lpar;Razor Page&rpar;?](https://dev.to/radhe65gupta/how-to-integration-digital-persona-4500-fingerprint-reader-in-aspnet-corerazor-page-38j)
-- [Dev.to/JS] [[!] RollupError: Invalid value for option &quot;output.file&quot; - when building multiple chunks, the &quot;output.dir&quot; ..](https://dev.to/bennodev19/-rolluperror-invalid-value-for-option-outputfile-when-building-multiple-chunks-the-outputdir--267n)
 - [Lifehacker] [What People Are Getting Wrong This Week: Cocaine at the White House](https://lifehacker.com/cocaine-at-the-white-house-1850611981)
 - [Lifehacker] [How to Join Threads, Meta&#39;s New Twitter Alternative &lpar;and Why You Might Want to Wait&rpar;](https://lifehacker.com/how-to-join-threads-metas-new-twitter-alternative-and-1850611763)
 - [Lifehacker] [25 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This truRelief Massage Gun Is on Sale for 90% Off Right Now](https://lifehacker.com/this-trurelief-massage-gun-is-on-sale-for-90-off-right-1850589410)
 - [Lifehacker] [The Five Laziest Ways to Compost](https://lifehacker.com/the-five-laziest-ways-to-compost-1850602707)
 - [Lifehacker] [Six Places You Should Never Use WD-40](https://lifehacker.com/six-places-you-should-never-use-wd-40-1850605045)
-- [Lifehacker] [This Adobe Creative Cloud Certification Course Is 80% Off Right Now](https://lifehacker.com/this-adobe-creative-cloud-certification-course-is-80-o-1850589434)
-- [Lifehacker] [The Best Early Prime Day Deals for Gardeners](https://lifehacker.com/the-best-early-prime-day-deals-for-gardeners-1850602445)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Adobe Creative Cloud Certification Course Is 80% Off Right Now](https://lifehacker.com/this-adobe-creative-cloud-certification-course-is-80-o-1850589434)<!-- TECH-POSTS:END -->
 
 ---
 
