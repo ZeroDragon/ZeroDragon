@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Critical Rendering Path in JavaScript - Make your website FAST!!](https://dev.to/jeetvora331/critical-rendering-path-in-javascript-make-your-website-fast-3jd3)
+- [Dev.to/JS] [Building an Unsplash Slide Show on NeoCities](https://dev.to/dorner/building-an-unsplash-slide-show-on-neocities-9mm)
+- [Dev.to/JS] [JavaScript Web APIs Series: Introduction](https://dev.to/olodocoder/javascript-web-apis-series-introduction-fjk)
+- [Lifehacker] [Spend Your Summer Produce on This Cold Ramen Salad](https://lifehacker.com/highlight-summer-produce-in-a-cold-ramen-salad-1850615795)
+- [Lifehacker] [How to Delete Threads Without Losing Your Instagram](https://lifehacker.com/how-to-delete-threads-without-losing-your-instagram-1850615571)
 - [Dev.to/JS] [Breaking Into the Tech Industry: Unleash Your Potential](https://dev.to/adegbiji1/breaking-into-the-tech-industry-unleash-your-potential-4je3)
 - [Lifehacker] [The Only Good Advice for Shopping on Amazon Prime Day](https://lifehacker.com/the-only-good-advice-for-shopping-amazon-prime-day-1849154608)
 - [Dev.to/JS] [Fetching JSON data with Alpine.js [ACCIO!]](https://dev.to/diomed/fetching-json-data-with-alpinejs-accio-261n)
@@ -40,9 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unleashing the Power of JavaScript: 100 Code Snippets to Revolutionise Your Web Development](https://dev.to/harendra21/unleashing-the-power-of-javascript-100-code-snippets-to-revolutionise-your-web-development-4ba5)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Threw a Fleshlight at Lil Nas X?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-threw-1850613328)
 - [Lifehacker] [Low-Carb Cauliflower Arancini Are Actually Amazing](https://lifehacker.com/low-carb-cauliflower-arancini-are-actually-amazing-1850612036)
-- [Dev.to/JS] [Rate Limiting, English as an SDK, Append-Only Software](https://dev.to/zelbazk/rate-limiting-english-as-an-sdk-append-only-software-ple)
-- [Dev.to/JS] [Exploring the Remarkable Benefits of Docker Containers](https://dev.to/parmarshantun/exploring-the-remarkable-benefits-of-docker-containers-3lmo)
-- [Dev.to/JS] [Show and Hide Two DIVS Using JQuery](https://dev.to/sardarmudassaralikhan/show-and-hide-two-divs-using-jquery-2pcl)
 - [Lifehacker] [These BirdBike eBikes Are 60% Off Right Now](https://lifehacker.com/these-birdbike-ebikes-are-60-off-right-now-1850589553)
 - [Lifehacker] [This &#39;IRS Letter&#39; Is a Scam](https://lifehacker.com/this-irs-letter-is-a-scam-1850610120)
 - [Lifehacker] [The Case For Smoking Your Chicken in Pieces](https://lifehacker.com/the-case-for-smoking-your-chicken-in-pieces-1850611750)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Never Buy a New Car](https://lifehacker.com/why-you-should-never-buy-a-new-car-1850610281)
 - [Lifehacker] [How to Avoid the Two Types of Explosive Diarrhea Going Around](https://lifehacker.com/how-to-avoid-the-two-types-of-explosive-diarrhea-going-1850610190)
 - [Lifehacker] [The Five Best Twitter Alternatives](https://lifehacker.com/the-five-best-twitter-alternatives-1850607746)
-- [Lifehacker] [This Portable Monitor Is on Sale for $129.99 Right Now](https://lifehacker.com/this-portable-monitor-is-on-sale-for-129-99-right-now-1850589508)
-- [Lifehacker] [Pork Floss Is the Superior Pork Garnish](https://lifehacker.com/pork-floss-is-the-superior-pork-garnish-1850608482)
-- [Lifehacker] [&#39;Butter&#39; Your Summer Corn With Avocado Skins](https://lifehacker.com/butter-your-summer-corn-with-avocado-skins-1850607435)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Portable Monitor Is on Sale for $129.99 Right Now](https://lifehacker.com/this-portable-monitor-is-on-sale-for-129-99-right-now-1850589508)<!-- TECH-POSTS:END -->
 
 ---
 
