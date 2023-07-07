@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Air Fry Bacon-Wrapped Watermelon for an Intriguing Salad](https://lifehacker.com/air-fry-bacon-wrapped-watermelon-for-an-intriguing-sala-1850616284)
+- [Dev.to/JS] [React Hooks](https://dev.to/luffy251/react-hooks-3d1m)
 - [Dev.to/JS] [Critical Rendering Path in JavaScript - Make your website FAST!!](https://dev.to/jeetvora331/critical-rendering-path-in-javascript-make-your-website-fast-3jd3)
 - [Dev.to/JS] [Building an Unsplash Slide Show on NeoCities](https://dev.to/dorner/building-an-unsplash-slide-show-on-neocities-9mm)
 - [Dev.to/JS] [JavaScript Web APIs Series: Introduction](https://dev.to/olodocoder/javascript-web-apis-series-introduction-fjk)
@@ -42,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to showcase your projects?](https://dev.to/merudra754/how-to-showcase-your-project-d46)
 - [Lifehacker] [You Can Get This Stock Screening App for Over 80% Off](https://lifehacker.com/you-can-get-this-stock-screening-app-for-over-80-off-1850589570)
 - [Dev.to/JS] [Best way to prepare for coding interviews in 2023?](https://dev.to/amyliumaiyi/best-way-to-prepare-for-coding-interviews-in-2023-1cnh)
-- [Dev.to/JS] [Unleashing the Power of JavaScript: 100 Code Snippets to Revolutionise Your Web Development](https://dev.to/harendra21/unleashing-the-power-of-javascript-100-code-snippets-to-revolutionise-your-web-development-4ba5)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Threw a Fleshlight at Lil Nas X?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-threw-1850613328)
 - [Lifehacker] [Low-Carb Cauliflower Arancini Are Actually Amazing](https://lifehacker.com/low-carb-cauliflower-arancini-are-actually-amazing-1850612036)
 - [Lifehacker] [These BirdBike eBikes Are 60% Off Right Now](https://lifehacker.com/these-birdbike-ebikes-are-60-off-right-now-1850589553)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These 12x Digital Camera Binoculars Are 50% Off Right Now](https://lifehacker.com/these-12x-digital-camera-binoculars-are-50-off-right-n-1850589458)
 - [Lifehacker] [Why You Should Never Buy a New Car](https://lifehacker.com/why-you-should-never-buy-a-new-car-1850610281)
 - [Lifehacker] [How to Avoid the Two Types of Explosive Diarrhea Going Around](https://lifehacker.com/how-to-avoid-the-two-types-of-explosive-diarrhea-going-1850610190)
-- [Lifehacker] [The Five Best Twitter Alternatives](https://lifehacker.com/the-five-best-twitter-alternatives-1850607746)
-- [Lifehacker] [This Portable Monitor Is on Sale for $129.99 Right Now](https://lifehacker.com/this-portable-monitor-is-on-sale-for-129-99-right-now-1850589508)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Five Best Twitter Alternatives](https://lifehacker.com/the-five-best-twitter-alternatives-1850607746)<!-- TECH-POSTS:END -->
 
 ---
 
