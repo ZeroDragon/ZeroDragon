@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#LearnedToday: .gitignore resources](https://dev.to/danielzotti/learnedtoday-gitignore-resources-1kfl)
+- [Dev.to/JS] [Customer Feedback: Enhancing Business Success Through Valuable Insights](https://dev.to/praterherbs/customer-feedback-enhancing-business-success-through-valuable-insights-3o20)
+- [Dev.to/JS] [How to integration Digital persona 4500 fingerprint reader in asp.net core&lpar;Razor Page&rpar;?](https://dev.to/radhe65gupta/how-to-integration-digital-persona-4500-fingerprint-reader-in-aspnet-corerazor-page-38j)
 - [Dev.to/JS] [[!] RollupError: Invalid value for option &quot;output.file&quot; - when building multiple chunks, the &quot;output.dir&quot; ..](https://dev.to/bennodev19/-rolluperror-invalid-value-for-option-outputfile-when-building-multiple-chunks-the-outputdir--267n)
 - [Dev.to/JS] [Amiclear - Weight Loss Benefits, Results, Price &amp; Reviews?](https://dev.to/amiclearfa10918/amiclear-weight-loss-benefits-results-price-reviews-nmg)
 - [Dev.to/JS] [Java Programming: An Overview of the Versatile Language](https://dev.to/masjulaiman/java-programming-an-overview-of-the-versatile-language-2b35)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Functions Unplugged — The Heartbeat of JavaScript Programming](https://dev.to/parthee/functions-unplugged-the-heartbeat-of-javascript-programming-36i9)
 - [Dev.to/JS] [Integrating Jest Testing into an Existing Vue 3 Project with ViteJs](https://dev.to/integridsolutions/integrating-jest-testing-into-an-existing-vue-3-project-with-vitejs-3m13)
 - [Dev.to/JS] [AI Coding Assistant and Do you need it?](https://dev.to/aiforme/ai-coding-assistant-and-do-you-need-it-3mg9)
-- [Dev.to/JS] [JavaScript alert, prompt &amp; confirm # 19](https://dev.to/sksage/javascript-alert-prompt-confirm-19-4md8)
-- [Dev.to/JS] [How I build lofi.radio with only CloudFlare](https://dev.to/geertjansloos/how-i-build-lofiradio-with-only-cloudflare-255j)
-- [Dev.to/JS] [Analyze Code with Error Detection and IDE Extension](https://dev.to/aiforme/analyze-code-with-error-detection-and-ide-extension-imp)
 - [Lifehacker] [What People Are Getting Wrong This Week: Cocaine at the White House](https://lifehacker.com/cocaine-at-the-white-house-1850611981)
 - [Lifehacker] [How to Join Threads, Meta&#39;s New Twitter Alternative &lpar;and Why You Might Want to Wait&rpar;](https://lifehacker.com/how-to-join-threads-metas-new-twitter-alternative-and-1850611763)
 - [Lifehacker] [25 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
