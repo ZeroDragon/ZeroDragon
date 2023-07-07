@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Seeking Guidance and Knowledge: A Call to Senior Developers](https://dev.to/amaljith64/seeking-guidance-and-knowledge-a-call-to-senior-developers-13hj)
 - [Dev.to/JS] [How does APP_INITIALIZER work? So what do you need to know about dynamic configuration in Angular?](https://dev.to/marcinmilewicz/how-does-appinitializer-work-so-what-do-you-need-to-know-about-dynamic-configuration-in-angular-5482)
 - [Dev.to/JS] [Building A TodoList with Svelte &amp; Firebase](https://dev.to/dro1/building-a-todolist-with-svelte-firebase-52a0)
 - [Dev.to/JS] [#LearnedToday: .gitignore resources](https://dev.to/danielzotti/learnedtoday-gitignore-resources-1kfl)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Seeking Passionate Collaborators for Artificial Intelligence Project - Multilingual Chatbot | Alliance EVO](https://dev.to/aivectr/seeking-passionate-collaborators-for-artificial-intelligence-project-multilingual-chatbot-alliance-evo-3jk7)
 - [Dev.to/JS] [Máy hút chân không yamafuji giá tốt](https://dev.to/mayhutchankhongyamaf/may-hut-chan-khong-yamafuji-gia-tot-b6i)
 - [Dev.to/JS] [Implementing a Dark Mode Toggle with CSS and JavaScript.](https://dev.to/preetsuthar17/implementing-a-dark-mode-toggle-with-css-and-javascript-p28)
-- [Dev.to/JS] [Functions Unplugged — The Heartbeat of JavaScript Programming](https://dev.to/parthee/functions-unplugged-the-heartbeat-of-javascript-programming-36i9)
 - [Lifehacker] [What People Are Getting Wrong This Week: Cocaine at the White House](https://lifehacker.com/cocaine-at-the-white-house-1850611981)
 - [Lifehacker] [How to Join Threads, Meta&#39;s New Twitter Alternative &lpar;and Why You Might Want to Wait&rpar;](https://lifehacker.com/how-to-join-threads-metas-new-twitter-alternative-and-1850611763)
 - [Lifehacker] [25 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
