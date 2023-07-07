@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Low-Carb Cauliflower Arancini Are Actually Amazing](https://lifehacker.com/low-carb-cauliflower-arancini-are-actually-amazing-1850612036)
+- [Dev.to/JS] [Rate Limiting, English as an SDK, Append-Only Software](https://dev.to/zelbazk/rate-limiting-english-as-an-sdk-append-only-software-ple)
+- [Dev.to/JS] [Exploring the Remarkable Benefits of Docker Containers](https://dev.to/parmarshantun/exploring-the-remarkable-benefits-of-docker-containers-3lmo)
+- [Dev.to/JS] [Show and Hide Two DIVS Using JQuery](https://dev.to/sardarmudassaralikhan/show-and-hide-two-divs-using-jquery-2pcl)
+- [Dev.to/JS] [CodeGPT: Enhancing Developer Efficiency and Coding Skills](https://dev.to/aiforme/codegpt-enhancing-developer-efficiency-and-coding-skills-3i2f)
+- [Lifehacker] [These BirdBike eBikes Are 60% Off Right Now](https://lifehacker.com/these-birdbike-ebikes-are-60-off-right-now-1850589553)
 - [Lifehacker] [This &#39;IRS Letter&#39; Is a Scam](https://lifehacker.com/this-irs-letter-is-a-scam-1850610120)
 - [Dev.to/JS] [Fectching Data with WebComponent](https://dev.to/artydev/fectching-data-with-webcomponent-2aic)
 - [Dev.to/JS] [GraphQL - React X Zustand](https://dev.to/shubhamtiwari909/graphql-react-x-zustand-3j48)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Providing in Angular - how to share data](https://dev.to/tomwebwalker/providing-in-angular-how-to-share-data-2ad2)
 - [Dev.to/JS] [Simplify Web Form Development with SmarkForm](https://dev.to/bitifet/simplify-web-form-development-with-smarkform-1j51)
 - [Dev.to/JS] [JavaScript&#39;s Clipboard Copy: Crafting with AI](https://dev.to/bleedingcode/javascripts-clipboard-copy-crafting-with-ai-5h7e)
-- [Dev.to/JS] [NestJS JWT authentication Starter Template with ArangoDB](https://dev.to/michelfawazz/nestjs-jwt-authentication-starter-template-with-arangodb-d7n)
-- [Dev.to/JS] [Why to use Testing Daily Application?](https://dev.to/kailashpathak7/why-to-use-testing-daily-application-4j21)
-- [Dev.to/JS] [Looking Frontend Jobs](https://dev.to/kishorekutla/frontend-jobs-40f9)
-- [Dev.to/JS] [Worker Threads Nodejs](https://dev.to/williamsgqdev/worker-threads-nodejs-2na2)
 - [Lifehacker] [What People Are Getting Wrong This Week: Cocaine at the White House](https://lifehacker.com/cocaine-at-the-white-house-1850611981)
 - [Lifehacker] [How to Join Threads, Meta&#39;s New Twitter Alternative &lpar;and Why You Might Want to Wait&rpar;](https://lifehacker.com/how-to-join-threads-metas-new-twitter-alternative-and-1850611763)
 - [Lifehacker] [25 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Every Newborn Needs a Vitamin K Shot](https://lifehacker.com/why-every-newborn-needs-a-vitamin-k-shot-1850605053)
 - [Lifehacker] [Embrace These Cold Soups All Summer Long](https://lifehacker.com/embrace-these-cold-soups-all-summer-long-1850606372)
 - [Lifehacker] [Six Clever Ways to Use Luminous Paint &lpar;and Three That Aren’t Too Smart&rpar;](https://lifehacker.com/six-clever-ways-to-use-luminous-paint-and-three-that-a-1850606394)
-- [Lifehacker] [Your Kitchen Needs a Cup Full of Baby Spoons](https://lifehacker.com/your-kitchen-needs-a-cup-full-of-baby-spoons-1850606644)
-- [Lifehacker] [This truRelief Massage Gun Is on Sale for 90% Off Right Now](https://lifehacker.com/this-trurelief-massage-gun-is-on-sale-for-90-off-right-1850589410)
-- [Lifehacker] [The Five Laziest Ways to Compost](https://lifehacker.com/the-five-laziest-ways-to-compost-1850602707)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Kitchen Needs a Cup Full of Baby Spoons](https://lifehacker.com/your-kitchen-needs-a-cup-full-of-baby-spoons-1850606644)<!-- TECH-POSTS:END -->
 
 ---
 
