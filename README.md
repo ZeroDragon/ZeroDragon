@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Deleting Threads Is the Least of Your Meta Privacy Concerns](https://lifehacker.com/deleting-threads-is-the-least-of-your-meta-privacy-conc-1850616557)
 - [Lifehacker] [Where It’s Legal to Scatter Ashes &lpar;and Where It Isn’t&rpar;](https://lifehacker.com/where-it-s-legal-to-scatter-ashes-and-where-it-isn-t-1850616393)
 - [Lifehacker] [You Can&#39;t Avoid &#39;Forever Chemicals,&#39; but You Can Lower Your Exposure](https://lifehacker.com/you-cant-avoid-forever-chemicals-but-you-can-lower-you-1850616272)
 - [Dev.to/JS] [NBA Logo Finder - Don&#39;t Forget Favorite Teams Logo!](https://dev.to/aidanstucker/nba-logo-finder-dont-forget-favorite-teams-logo-5dp7)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It&#39;s Time to Cancel Max and Sign Up for The Criterion Channel](https://lifehacker.com/its-time-to-cancel-max-and-sign-up-for-the-criterion-ch-1850610767)
 - [Lifehacker] [The Easiest Ways to Fix a Rug With a Deteriorating Latex Backing](https://lifehacker.com/the-easiest-ways-to-fix-a-rug-with-a-deteriorating-late-1850610875)
 - [Lifehacker] [Pizza Your Oatmeal Immediately](https://lifehacker.com/pizza-your-oatmeal-immediately-1850610508)
-- [Lifehacker] [These 12x Digital Camera Binoculars Are 50% Off Right Now](https://lifehacker.com/these-12x-digital-camera-binoculars-are-50-off-right-n-1850589458)
-- [Lifehacker] [Why You Should Never Buy a New Car](https://lifehacker.com/why-you-should-never-buy-a-new-car-1850610281)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These 12x Digital Camera Binoculars Are 50% Off Right Now](https://lifehacker.com/these-12x-digital-camera-binoculars-are-50-off-right-n-1850589458)<!-- TECH-POSTS:END -->
 
 ---
 
