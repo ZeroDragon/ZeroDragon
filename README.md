@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use JavaScript Blobs to Create Files: The Case of Hundreds of Bulk Import Errors](https://dev.to/webjose/use-javascript-blobs-to-create-files-the-case-of-hundreds-of-bulk-import-errors-4omm)
 - [Dev.to/JS] [Hi all of you i just joined dev community !](https://dev.to/sandeeptale/hi-all-of-you-i-just-joined-dev-community--1dk8)
 - [Dev.to/JS] [TO-DO-LIST 00](https://dev.to/qu-ack/to-do-list-00-1b4b)
 - [Dev.to/JS] [A Complete Guideline to Creating a Modern React App With TypeScript From Scratch](https://dev.to/mohammadfaisal/a-complete-guideline-to-creating-a-modern-react-app-with-typescript-from-scratch-3p0m)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New Start](https://dev.to/qu-ack/new-start-3470)
 - [Dev.to/JS] [CronWeb: Use Webhook 🔗 No Need to Building Your Own Cron Scheduler 🕒](https://dev.to/rajeshj3/cronweb-utilize-webhooks-without-building-your-own-cron-tools-li5)
 - [Dev.to/JS] [Avoid &quot;&amp;&amp;&quot; Operator for Conditional Rendering in React](https://dev.to/maafaishal/avoid-operator-for-conditional-rendering-in-react-2de)
-- [Dev.to/JS] [React-Native-MMKV storage](https://dev.to/ajmal_hasan/react-native-mmkv-5787)
 - [Lifehacker] [Skip the Long Wait for a New Passport at These Events](https://lifehacker.com/skip-the-long-wait-for-a-new-passport-at-these-events-1850617386)
 - [Lifehacker] [StackSkills Unlimited Courses Are $33 Right Now](https://lifehacker.com/stackskills-unlimited-courses-are-33-right-now-1850589561)
 - [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
