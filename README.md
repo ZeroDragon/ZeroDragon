@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TxtAnime.js open source javascript library](https://dev.to/mohamedfrindi/txtanimejs-open-source-javascript-library-4i16)
+- [Dev.to/JS] [Making Flappy Bird in my Game Engine. How hard can it be?](https://dev.to/lilshake/making-flappy-bird-in-my-game-engine-how-hard-can-it-be-4m61)
 - [Crazy Programmer] [5 Ways to Make Money Online as a Programmer](https://www.thecrazyprogrammer.com/2023/07/make-money-online-as-a-programmer.html)
 - [Dev.to/JS] [Chat Room Project - Christopher Duran](https://dev.to/chriisduran/chat-room-project-christopher-duran-e5e)
 - [Dev.to/JS] [Design Patterns: What, Why, and When to Use Them?](https://dev.to/mmainulhasan/design-patterns-what-why-and-when-to-use-them-2pml)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&lpar;Polyfill Array.prototype.map&rpar; Daily Frontend Problem: Problem #3 [Medium]](https://dev.to/chandrapenugonda/polyfill-arrayprototypemap-daily-frontend-problem-problem-3-medium-5347)
 - [Lifehacker] [The Best Vegetables to Grow in the Shade](https://lifehacker.com/the-best-vegetables-to-grow-in-the-shade-1850617379)
 - [Dev.to/JS] [HTTP vs WebSockets](https://dev.to/merudra754/http-vs-websockets-complete-guide-478h)
-- [Dev.to/JS] [How To Make A Website Like Google using HTML, CSS, JAVASCRIPT by html-basic.com](https://dev.to/html-basic/how-to-make-a-website-like-google-using-html-css-javascript-by-html-basiccom-4e7o)
-- [Dev.to/JS] [New Start](https://dev.to/qu-ack/new-start-3470)
 - [Lifehacker] [Skip the Long Wait for a New Passport at These Events](https://lifehacker.com/skip-the-long-wait-for-a-new-passport-at-these-events-1850617386)
 - [Lifehacker] [StackSkills Unlimited Courses Are $33 Right Now](https://lifehacker.com/stackskills-unlimited-courses-are-33-right-now-1850589561)
 - [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
