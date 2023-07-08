@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React-Native MMKV](https://dev.to/ajmal_hasan/react-native-mmkv-5787)
+- [Dev.to/JS] [Build a Single Source of Truth by Using Daxus!](https://dev.to/jason89521/build-a-single-source-of-truth-by-using-daxus-3g90)
+- [Dev.to/JS] [API key management on Netlify](https://dev.to/donnierich/api-key-management-on-netlify-4il9)
 - [Lifehacker] [Skip the Long Wait for a New Passport at These Events](https://lifehacker.com/skip-the-long-wait-for-a-new-passport-at-these-events-1850617386)
 - [Dev.to/JS] [Learning Javascript](https://dev.to/rodolfoespinosa01/learning-javascript-28ak)
 - [Dev.to/JS] [You may not need axios](https://dev.to/mitchkarajohn/you-may-not-need-axios-4h9o)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Supercharge Your React Projects with Custom Hooks](https://dev.to/sergeyleschev/supercharge-your-react-projects-with-custom-hooks-pl4)
 - [Dev.to/JS] [Hello World: My Debut Blog Post](https://dev.to/devdela/hello-world-my-debut-blog-post-3c6g)
 - [Dev.to/JS] [Đồng hồ SRwatch](https://dev.to/donghosrwatc/dong-ho-srwatch-5hln)
-- [Dev.to/JS] [Prepare with Confidence: Exam Topics Free for Effective Study](https://dev.to/examguru7/prepare-with-confidence-exam-topics-free-for-effective-study-4945)
-- [Dev.to/JS] [Best AI Prompts for ChatGPT, Bard, etc 🔥](https://dev.to/vishwagauravin/best-ai-prompts-for-chatgpt-bard-etc-dg9)
-- [Dev.to/JS] [#LearnedToday: Helix](https://dev.to/danielzotti/learnedtoday-helix-2cma)
 - [Lifehacker] [StackSkills Unlimited Courses Are $33 Right Now](https://lifehacker.com/stackskills-unlimited-courses-are-33-right-now-1850589561)
 - [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
 - [Lifehacker] [The Best Early Prime Day Luggage Deals](https://lifehacker.com/the-best-early-prime-day-luggage-deals-1850587001)
