@@ -23,12 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Prevent Unnecessary React Component Re-Rendering](https://dev.to/femi_dev/how-to-prevent-unnecessary-react-component-re-rendering-3c08)
+- [Dev.to/JS] [Creating The object in the JavaScript](https://dev.to/lalli/creating-the-object-in-the-javascript-12hm)
 - [Dev.to/JS] [Create A Random Quote Generator with HTML, CSS, and JavaScript](https://dev.to/official_fire/create-a-random-quote-generator-with-html-css-and-javascript-4n66)
 - [Dev.to/JS] [JavaScript Includes&lpar;&rpar; Method: The Top 10 Things You Need to Know](https://dev.to/onlinemsr/javascript-includes-method-the-top-10-things-you-need-to-know-17jc)
 - [Dev.to/JS] [The Difference Between a Framework and a Library in JavaScript](https://dev.to/devgauravjatt/the-difference-between-a-framework-and-a-library-in-javascript-36ad)
 - [Lifehacker] [StackSkills Unlimited Courses Are $33 Right Now](https://lifehacker.com/stackskills-unlimited-courses-are-33-right-now-1850589561)
 - [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
-- [Dev.to/JS] [💡 TypeScript - Template Literal Types](https://dev.to/thayto/typescript-template-literal-types-2679)
 - [Lifehacker] [The Best Early Prime Day Luggage Deals](https://lifehacker.com/the-best-early-prime-day-luggage-deals-1850587001)
 - [Dev.to/JS] [Game Engine with AI✨ Part 2 - DALL E Sprites](https://dev.to/lilshake/game-engine-with-ai-part-2-dall-e-sprites-38m2)
 - [Lifehacker] [Target’s Answer to Prime Day Starts July 9](https://lifehacker.com/target-s-answer-to-prime-day-starts-july-9-1850616706)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Web APIs Series: Introduction](https://dev.to/olodocoder/javascript-web-apis-series-introduction-fjk)
 - [Lifehacker] [Spend Your Summer Produce on This Cold Ramen Salad](https://lifehacker.com/highlight-summer-produce-in-a-cold-ramen-salad-1850615795)
 - [Lifehacker] [How to Delete Threads Without Losing Your Instagram](https://lifehacker.com/how-to-delete-threads-without-losing-your-instagram-1850615571)
-- [Dev.to/JS] [Breaking Into the Tech Industry: Unleash Your Potential](https://dev.to/adegbiji1/breaking-into-the-tech-industry-unleash-your-potential-4je3)
 - [Lifehacker] [The Only Good Advice for Shopping on Amazon Prime Day](https://lifehacker.com/the-only-good-advice-for-shopping-amazon-prime-day-1849154608)
 - [Dev.to/JS] [Fetching JSON data with Alpine.js [ACCIO!]](https://dev.to/diomed/fetching-json-data-with-alpinejs-accio-261n)
 - [Lifehacker] [Seven Things You Didn’t Know You Could Build From a Kit](https://lifehacker.com/seven-things-you-didn-t-know-you-could-build-from-a-kit-1850615193)
