@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Crazy Programmer] [5 Ways to Make Money Online as a Programmer](https://www.thecrazyprogrammer.com/2023/07/make-money-online-as-a-programmer.html)
+- [Dev.to/JS] [Chat Room Project - Christopher Duran](https://dev.to/chriisduran/chat-room-project-christopher-duran-e5e)
+- [Dev.to/JS] [Design Patterns: What, Why, and When to Use Them?](https://dev.to/mmainulhasan/design-patterns-what-why-and-when-to-use-them-2pml)
 - [Dev.to/JS] [Use JavaScript Blobs to Create Files: The Case of Hundreds of Bulk Import Errors](https://dev.to/webjose/use-javascript-blobs-to-create-files-the-case-of-hundreds-of-bulk-import-errors-4omm)
 - [Dev.to/JS] [Hi all of you i just joined dev community !](https://dev.to/sandeeptale/hi-all-of-you-i-just-joined-dev-community--1dk8)
 - [Dev.to/JS] [TO-DO-LIST 00](https://dev.to/qu-ack/to-do-list-00-1b4b)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HTTP vs WebSockets](https://dev.to/merudra754/http-vs-websockets-complete-guide-478h)
 - [Dev.to/JS] [How To Make A Website Like Google using HTML, CSS, JAVASCRIPT by html-basic.com](https://dev.to/html-basic/how-to-make-a-website-like-google-using-html-css-javascript-by-html-basiccom-4e7o)
 - [Dev.to/JS] [New Start](https://dev.to/qu-ack/new-start-3470)
-- [Dev.to/JS] [CronWeb: Use Webhook 🔗 No Need to Building Your Own Cron Scheduler 🕒](https://dev.to/rajeshj3/cronweb-utilize-webhooks-without-building-your-own-cron-tools-li5)
-- [Dev.to/JS] [Avoid &quot;&amp;&amp;&quot; Operator for Conditional Rendering in React](https://dev.to/maafaishal/avoid-operator-for-conditional-rendering-in-react-2de)
 - [Lifehacker] [Skip the Long Wait for a New Passport at These Events](https://lifehacker.com/skip-the-long-wait-for-a-new-passport-at-these-events-1850617386)
 - [Lifehacker] [StackSkills Unlimited Courses Are $33 Right Now](https://lifehacker.com/stackskills-unlimited-courses-are-33-right-now-1850589561)
 - [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Case For Smoking Your Chicken in Pieces](https://lifehacker.com/the-case-for-smoking-your-chicken-in-pieces-1850611750)
 - [Lifehacker] [Amazon Prime&#39;s Big Vitamix Sale Is Worth Checking Out](https://lifehacker.com/amazon-primes-big-vitamix-sale-is-worth-checking-out-1850588884)
 - [Lifehacker] [What People Are Getting Wrong This Week: Cocaine at the White House](https://lifehacker.com/cocaine-at-the-white-house-1850611981)
-- [Lifehacker] [How to Join Threads, Meta&#39;s New Twitter Alternative &lpar;and Why You Might Want to Wait&rpar;](https://lifehacker.com/how-to-join-threads-metas-new-twitter-alternative-and-1850611763)
-- [Lifehacker] [25 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Join Threads, Meta&#39;s New Twitter Alternative &lpar;and Why You Might Want to Wait&rpar;](https://lifehacker.com/how-to-join-threads-metas-new-twitter-alternative-and-1850611763)<!-- TECH-POSTS:END -->
 
 ---
 
