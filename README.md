@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&lpar;Polyfill Array.prototype.map&rpar; Daily Frontend Problem: Problem #3 [Medium]](https://dev.to/chandrapenugonda/polyfill-arrayprototypemap-daily-frontend-problem-problem-3-medium-5347)
+- [Lifehacker] [The Best Vegetables to Grow in the Shade](https://lifehacker.com/the-best-vegetables-to-grow-in-the-shade-1850617379)
 - [Dev.to/JS] [HTTP vs WebSockets](https://dev.to/merudra754/http-vs-websockets-complete-guide-478h)
 - [Dev.to/JS] [How To Make A Website Like Google using HTML, CSS, JAVASCRIPT by html-basic.com](https://dev.to/html-basic/how-to-make-a-website-like-google-using-html-css-javascript-by-html-basiccom-4e7o)
 - [Dev.to/JS] [New Start](https://dev.to/qu-ack/new-start-3470)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learning Javascript](https://dev.to/rodolfoespinosa01/learning-javascript-28ak)
 - [Dev.to/JS] [You may not need axios](https://dev.to/mitchkarajohn/you-may-not-need-axios-4h9o)
 - [Dev.to/JS] [Prevent Render-Blocking Javascript with async and defer](https://dev.to/balwantsingh/prevent-render-blocking-javascript-with-async-and-defer-186b)
-- [Dev.to/JS] [Making Four-In-A-Row - Part 8: Status Updates](https://dev.to/colinkiama/making-four-in-a-row-part-8-status-updates-3g3k)
 - [Lifehacker] [StackSkills Unlimited Courses Are $33 Right Now](https://lifehacker.com/stackskills-unlimited-courses-are-33-right-now-1850589561)
 - [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
 - [Lifehacker] [The Best Early Prime Day Luggage Deals](https://lifehacker.com/the-best-early-prime-day-luggage-deals-1850587001)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What People Are Getting Wrong This Week: Cocaine at the White House](https://lifehacker.com/cocaine-at-the-white-house-1850611981)
 - [Lifehacker] [How to Join Threads, Meta&#39;s New Twitter Alternative &lpar;and Why You Might Want to Wait&rpar;](https://lifehacker.com/how-to-join-threads-metas-new-twitter-alternative-and-1850611763)
 - [Lifehacker] [25 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
-- [Lifehacker] [Two Ways to Make Umeboshi, the Pickled Plum You’ll Want to Add to Everything](https://lifehacker.com/two-ways-to-make-umeboshi-the-pickled-plum-you-ll-want-1850594002)
-- [Lifehacker] [The Best &lpar;and Worst&rpar; Times to Send an Email](https://lifehacker.com/the-best-and-worst-times-to-send-an-email-1850610907)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Two Ways to Make Umeboshi, the Pickled Plum You’ll Want to Add to Everything](https://lifehacker.com/two-ways-to-make-umeboshi-the-pickled-plum-you-ll-want-1850594002)<!-- TECH-POSTS:END -->
 
 ---
 
