@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making Four-In-A-Row - Part 8: Status Updates](https://dev.to/colinkiama/making-four-in-a-row-part-8-status-updates-3g3k)
+- [Dev.to/JS] [How to create a reusable Button component in NEXTJS](https://dev.to/mankaa/how-to-create-a-reusable-button-component-in-nextjs-3jgj)
+- [Dev.to/JS] [TypeScript: &quot;type predicates&quot;](https://dev.to/lausuarez02/typescript-type-predicates-3m5j)
+- [Dev.to/JS] [Supercharge Your React Projects with Custom Hooks](https://dev.to/sergeyleschev/supercharge-your-react-projects-with-custom-hooks-pl4)
 - [Dev.to/JS] [Hello World: My Debut Blog Post](https://dev.to/devdela/hello-world-my-debut-blog-post-3c6g)
 - [Dev.to/JS] [Đồng hồ SRwatch](https://dev.to/donghosrwatc/dong-ho-srwatch-5hln)
 - [Dev.to/JS] [Prepare with Confidence: Exam Topics Free for Effective Study](https://dev.to/examguru7/prepare-with-confidence-exam-topics-free-for-effective-study-4945)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript compile time and runtime](https://dev.to/ngquan/javascripts-compile-time-and-runtime-2eip)
 - [Dev.to/JS] [Angular 16 Is Launch: Discover the Top 7 Features | Angular Developer SoftwareTechIT](https://dev.to/softwaretechit/angular-16-is-launch-discover-the-top-7-features-angular-developer-softwaretechit-3bcl)
 - [Dev.to/JS] [What Is Vite.js &amp; Why It Is Better Than Webpack?](https://dev.to/arsalanmee/what-is-vitejs-why-it-is-better-than-webpack-1bag)
-- [Dev.to/JS] [ESM &amp; CJS: The subtle shift in bundlejs&#39; behaviour](https://dev.to/okikio/changelog-july-8-2023-the-subtle-shift-in-bundlejs-behaviour-4bpg)
-- [Dev.to/JS] [Things Every Beginner Needs to Know About Objects In JavaScript](https://dev.to/itzz_okure/things-every-beginner-needs-to-know-about-objects-in-javascript-bgc)
-- [Dev.to/JS] [How to create a digital Clock using HTML, CSS and Javascript?](https://dev.to/keshavkumarhembram/how-to-create-clock-using-html-css-and-javascript-3bd0)
-- [Dev.to/JS] [MJGS Newsletter - Pandemonium in cyberspace &lpar;Issue #122&rpar;](https://dev.to/mjgs/mjgs-newsletter-pandemonium-in-cyberspace-issue-122-2cpm)
 - [Lifehacker] [StackSkills Unlimited Courses Are $33 Right Now](https://lifehacker.com/stackskills-unlimited-courses-are-33-right-now-1850589561)
 - [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
 - [Lifehacker] [The Best Early Prime Day Luggage Deals](https://lifehacker.com/the-best-early-prime-day-luggage-deals-1850587001)
