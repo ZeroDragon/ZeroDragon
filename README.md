@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Skip the Long Wait for a New Passport at These Events](https://lifehacker.com/skip-the-long-wait-for-a-new-passport-at-these-events-1850617386)
+- [Dev.to/JS] [Learning Javascript](https://dev.to/rodolfoespinosa01/learning-javascript-28ak)
+- [Dev.to/JS] [You may not need axios](https://dev.to/mitchkarajohn/you-may-not-need-axios-4h9o)
 - [Dev.to/JS] [Prevent Render-Blocking Javascript with async and defer](https://dev.to/balwantsingh/prevent-render-blocking-javascript-with-async-and-defer-186b)
 - [Dev.to/JS] [Making Four-In-A-Row - Part 8: Status Updates](https://dev.to/colinkiama/making-four-in-a-row-part-8-status-updates-3g3k)
 - [Dev.to/JS] [How to create a reusable Button component in NEXTJS](https://dev.to/mankaa/how-to-create-a-reusable-button-component-in-nextjs-3jgj)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Prepare with Confidence: Exam Topics Free for Effective Study](https://dev.to/examguru7/prepare-with-confidence-exam-topics-free-for-effective-study-4945)
 - [Dev.to/JS] [Best AI Prompts for ChatGPT, Bard, etc 🔥](https://dev.to/vishwagauravin/best-ai-prompts-for-chatgpt-bard-etc-dg9)
 - [Dev.to/JS] [#LearnedToday: Helix](https://dev.to/danielzotti/learnedtoday-helix-2cma)
-- [Dev.to/JS] [Javascript compile time and runtime](https://dev.to/ngquan/javascripts-compile-time-and-runtime-2eip)
-- [Dev.to/JS] [Angular 16 Is Launch: Discover the Top 7 Features | Angular Developer SoftwareTechIT](https://dev.to/softwaretechit/angular-16-is-launch-discover-the-top-7-features-angular-developer-softwaretechit-3bcl)
 - [Lifehacker] [StackSkills Unlimited Courses Are $33 Right Now](https://lifehacker.com/stackskills-unlimited-courses-are-33-right-now-1850589561)
 - [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
 - [Lifehacker] [The Best Early Prime Day Luggage Deals](https://lifehacker.com/the-best-early-prime-day-luggage-deals-1850587001)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Join Threads, Meta&#39;s New Twitter Alternative &lpar;and Why You Might Want to Wait&rpar;](https://lifehacker.com/how-to-join-threads-metas-new-twitter-alternative-and-1850611763)
 - [Lifehacker] [25 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
 - [Lifehacker] [Two Ways to Make Umeboshi, the Pickled Plum You’ll Want to Add to Everything](https://lifehacker.com/two-ways-to-make-umeboshi-the-pickled-plum-you-ll-want-1850594002)
-- [Lifehacker] [The Best &lpar;and Worst&rpar; Times to Send an Email](https://lifehacker.com/the-best-and-worst-times-to-send-an-email-1850610907)
-- [Lifehacker] [How to Know If a Weed Dispensary Is Legal](https://lifehacker.com/how-to-know-if-a-weed-dispensary-is-legal-1850549905)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best &lpar;and Worst&rpar; Times to Send an Email](https://lifehacker.com/the-best-and-worst-times-to-send-an-email-1850610907)<!-- TECH-POSTS:END -->
 
 ---
 
