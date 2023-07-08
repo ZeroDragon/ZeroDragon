@@ -1,6 +1,9 @@
 # Hola, soy Zero
 
-[![FloresBenavides.com](https://img.shields.io/website?down_message=oops&label=MiBlog&style=for-the-badge&up_message=online&url=https%3A%2F%2Ffloresbenavides.com)](https://floresbenavides.com) [![Twitter Follow](https://img.shields.io/twitter/follow/ZeroDragon?color=%231DA1F2&label=Follow&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/zerodragon) [![Telegram Contact](https://img.shields.io/badge/escr%C3%ADbeme-ZeroDragon-%2326A5E4?style=for-the-badge&logo=telegram)](https://t.me/zerodragon)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J4N0LUK)
+[![Patreon.com](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dzerodragon%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/zerodragon)
+[![FloresBenavides.com](https://img.shields.io/website?down_message=oops&label=MiBlog&style=for-the-badge&up_message=online&url=https%3A%2F%2Ffloresbenavides.com)](https://floresbenavides.com)
+[![Telegram Contact](https://img.shields.io/badge/escr%C3%ADbeme-ZeroDragon-%2326A5E4?style=for-the-badge&logo=telegram)](https://t.me/zerodragon)
 
 Me gusta crear cosas y experimentar con tecnología que no entiendo.
 Actualmente trabajo en [ResuelveTuDeuda](http://github.com/resuelve) donde soy Tech Manager.
@@ -73,10 +76,3 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <a href="https://spotify-now-playing-dun.vercel.app/top-tracks?i=1&open"><img src="https://spotify-now-playing-dun.vercel.app/top-tracks?i=1" width="540" height="64"></a>
 <a href="https://spotify-now-playing-dun.vercel.app/top-tracks?i=2&open"><img src="https://spotify-now-playing-dun.vercel.app/top-tracks?i=2" width="540" height="64"></a>
 <a href="https://spotify-now-playing-dun.vercel.app/top-tracks?i=3&open"><img src="https://spotify-now-playing-dun.vercel.app/top-tracks?i=3" width="540" height="64"></a>
-
----
-
-### Gracias a los Patrons
-[<img src="https://avatars.githubusercontent.com/u/243380?v=4" alt="Iván Zenteno" width="50px">](https://github.com/k001) [<img src="https://avatars.githubusercontent.com/u/19955639?v=4" alt="Álvaro Lizama" width="50px">](https://github.com/alvarolizama) [<img src="https://avatars.githubusercontent.com/u/2718753?v=4" alt="Juan Carlos Ruiz" width="50px">](https://github.com/JuanCrg90) [<img src="https://avatars.githubusercontent.com/u/37025?v=4" alt="Jorge Medrano" width="50px">](https://github.com/h1pp1e) 
-
-[Suscríbanse](https://www.patreon.com/zerodragon) y hagámos cosas chidas
