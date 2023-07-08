@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Discriminated unions in Typescript](https://dev.to/muszynov/discriminated-unions-in-typescript-5hd4)
+- [Dev.to/JS] [Implement data fetching with Urql and Next JS](https://dev.to/tasfiaislam/implement-data-fetching-with-urql-and-next-js-1pnp)
 - [Lifehacker] [Five Ways to Make an Air Mattress Feel Like the Real Thing](https://lifehacker.com/five-ways-to-make-an-air-mattress-feel-like-the-real-th-1850617371)
 - [Dev.to/JS] [&lpar;Polyfill Array.prototype.map&rpar; Daily Frontend Problem: Problem #3 [Medium]](https://dev.to/chandrapenugonda/polyfill-arrayprototypemap-daily-frontend-problem-problem-3-medium-5347)
 - [Lifehacker] [The Best Vegetables to Grow in the Shade](https://lifehacker.com/the-best-vegetables-to-grow-in-the-shade-1850617379)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [API key management on Netlify](https://dev.to/donnierich/api-key-management-on-netlify-4il9)
 - [Lifehacker] [Skip the Long Wait for a New Passport at These Events](https://lifehacker.com/skip-the-long-wait-for-a-new-passport-at-these-events-1850617386)
 - [Dev.to/JS] [Learning Javascript](https://dev.to/rodolfoespinosa01/learning-javascript-28ak)
-- [Dev.to/JS] [You may not need axios](https://dev.to/mitchkarajohn/you-may-not-need-axios-4h9o)
-- [Dev.to/JS] [Prevent Render-Blocking Javascript with async and defer](https://dev.to/balwantsingh/prevent-render-blocking-javascript-with-async-and-defer-186b)
 - [Lifehacker] [StackSkills Unlimited Courses Are $33 Right Now](https://lifehacker.com/stackskills-unlimited-courses-are-33-right-now-1850589561)
 - [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
 - [Lifehacker] [The Best Early Prime Day Luggage Deals](https://lifehacker.com/the-best-early-prime-day-luggage-deals-1850587001)
