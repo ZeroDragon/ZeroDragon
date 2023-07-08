@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hi all of you i just joined dev community !](https://dev.to/sandeeptale/hi-all-of-you-i-just-joined-dev-community--1dk8)
+- [Dev.to/JS] [TO-DO-LIST 00](https://dev.to/qu-ack/to-do-list-00-1b4b)
+- [Dev.to/JS] [A Complete Guideline to Creating a Modern React App With TypeScript From Scratch](https://dev.to/mohammadfaisal/a-complete-guideline-to-creating-a-modern-react-app-with-typescript-from-scratch-3p0m)
 - [Dev.to/JS] [Discriminated unions in Typescript](https://dev.to/muszynov/discriminated-unions-in-typescript-5hd4)
-- [Dev.to/JS] [Implement data fetching with Urql and Next JS](https://dev.to/tasfiaislam/implement-data-fetching-with-urql-and-next-js-1pnp)
+- [Dev.to/JS] [Implement data fetching with urql and Next.js](https://dev.to/tasfiaislam/implement-data-fetching-with-urql-and-next-js-1pnp)
 - [Lifehacker] [Five Ways to Make an Air Mattress Feel Like the Real Thing](https://lifehacker.com/five-ways-to-make-an-air-mattress-feel-like-the-real-th-1850617371)
 - [Dev.to/JS] [&lpar;Polyfill Array.prototype.map&rpar; Daily Frontend Problem: Problem #3 [Medium]](https://dev.to/chandrapenugonda/polyfill-arrayprototypemap-daily-frontend-problem-problem-3-medium-5347)
 - [Lifehacker] [The Best Vegetables to Grow in the Shade](https://lifehacker.com/the-best-vegetables-to-grow-in-the-shade-1850617379)
@@ -37,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CronWeb: Use Webhook 🔗 No Need to Building Your Own Cron Scheduler 🕒](https://dev.to/rajeshj3/cronweb-utilize-webhooks-without-building-your-own-cron-tools-li5)
 - [Dev.to/JS] [Avoid &quot;&amp;&amp;&quot; Operator for Conditional Rendering in React](https://dev.to/maafaishal/avoid-operator-for-conditional-rendering-in-react-2de)
 - [Dev.to/JS] [React-Native-MMKV storage](https://dev.to/ajmal_hasan/react-native-mmkv-5787)
-- [Dev.to/JS] [Build a Single Source of Truth by Using Daxus!](https://dev.to/jason89521/build-a-single-source-of-truth-by-using-daxus-3g90)
-- [Dev.to/JS] [API key management on Netlify](https://dev.to/donnierich/api-key-management-on-netlify-4il9)
 - [Lifehacker] [Skip the Long Wait for a New Passport at These Events](https://lifehacker.com/skip-the-long-wait-for-a-new-passport-at-these-events-1850617386)
-- [Dev.to/JS] [Learning Javascript](https://dev.to/rodolfoespinosa01/learning-javascript-28ak)
 - [Lifehacker] [StackSkills Unlimited Courses Are $33 Right Now](https://lifehacker.com/stackskills-unlimited-courses-are-33-right-now-1850589561)
 - [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
 - [Lifehacker] [The Best Early Prime Day Luggage Deals](https://lifehacker.com/the-best-early-prime-day-luggage-deals-1850587001)
