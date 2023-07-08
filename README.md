@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [React-Native MMKV](https://dev.to/ajmal_hasan/react-native-mmkv-5787)
+- [Dev.to/JS] [HTTP vs WebSockets](https://dev.to/merudra754/http-vs-websockets-complete-guide-478h)
+- [Dev.to/JS] [How To Make A Website Like Google using HTML, CSS, JAVASCRIPT by html-basic.com](https://dev.to/html-basic/how-to-make-a-website-like-google-using-html-css-javascript-by-html-basiccom-4e7o)
+- [Dev.to/JS] [New Start](https://dev.to/qu-ack/new-start-3470)
+- [Dev.to/JS] [CronWeb: Use Webhook 🔗 No Need to Building Your Own Cron Scheduler 🕒](https://dev.to/rajeshj3/cronweb-utilize-webhooks-without-building-your-own-cron-tools-li5)
+- [Dev.to/JS] [Avoid &quot;&amp;&amp;&quot; Operator for Conditional Rendering in React](https://dev.to/maafaishal/avoid-operator-for-conditional-rendering-in-react-2de)
+- [Dev.to/JS] [React-Native-MMKV storage](https://dev.to/ajmal_hasan/react-native-mmkv-5787)
 - [Dev.to/JS] [Build a Single Source of Truth by Using Daxus!](https://dev.to/jason89521/build-a-single-source-of-truth-by-using-daxus-3g90)
 - [Dev.to/JS] [API key management on Netlify](https://dev.to/donnierich/api-key-management-on-netlify-4il9)
 - [Lifehacker] [Skip the Long Wait for a New Passport at These Events](https://lifehacker.com/skip-the-long-wait-for-a-new-passport-at-these-events-1850617386)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [You may not need axios](https://dev.to/mitchkarajohn/you-may-not-need-axios-4h9o)
 - [Dev.to/JS] [Prevent Render-Blocking Javascript with async and defer](https://dev.to/balwantsingh/prevent-render-blocking-javascript-with-async-and-defer-186b)
 - [Dev.to/JS] [Making Four-In-A-Row - Part 8: Status Updates](https://dev.to/colinkiama/making-four-in-a-row-part-8-status-updates-3g3k)
-- [Dev.to/JS] [How to create a reusable Button component in NEXTJS](https://dev.to/mankaa/how-to-create-a-reusable-button-component-in-nextjs-3jgj)
-- [Dev.to/JS] [TypeScript: &quot;type predicates&quot;](https://dev.to/lausuarez02/typescript-type-predicates-3m5j)
-- [Dev.to/JS] [Supercharge Your React Projects with Custom Hooks](https://dev.to/sergeyleschev/supercharge-your-react-projects-with-custom-hooks-pl4)
-- [Dev.to/JS] [Hello World: My Debut Blog Post](https://dev.to/devdela/hello-world-my-debut-blog-post-3c6g)
-- [Dev.to/JS] [Đồng hồ SRwatch](https://dev.to/donghosrwatc/dong-ho-srwatch-5hln)
 - [Lifehacker] [StackSkills Unlimited Courses Are $33 Right Now](https://lifehacker.com/stackskills-unlimited-courses-are-33-right-now-1850589561)
 - [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
 - [Lifehacker] [The Best Early Prime Day Luggage Deals](https://lifehacker.com/the-best-early-prime-day-luggage-deals-1850587001)
