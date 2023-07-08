@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Five Ways to Make an Air Mattress Feel Like the Real Thing](https://lifehacker.com/five-ways-to-make-an-air-mattress-feel-like-the-real-th-1850617371)
 - [Dev.to/JS] [&lpar;Polyfill Array.prototype.map&rpar; Daily Frontend Problem: Problem #3 [Medium]](https://dev.to/chandrapenugonda/polyfill-arrayprototypemap-daily-frontend-problem-problem-3-medium-5347)
 - [Lifehacker] [The Best Vegetables to Grow in the Shade](https://lifehacker.com/the-best-vegetables-to-grow-in-the-shade-1850617379)
 - [Dev.to/JS] [HTTP vs WebSockets](https://dev.to/merudra754/http-vs-websockets-complete-guide-478h)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Amazon Prime&#39;s Big Vitamix Sale Is Worth Checking Out](https://lifehacker.com/amazon-primes-big-vitamix-sale-is-worth-checking-out-1850588884)
 - [Lifehacker] [What People Are Getting Wrong This Week: Cocaine at the White House](https://lifehacker.com/cocaine-at-the-white-house-1850611981)
 - [Lifehacker] [How to Join Threads, Meta&#39;s New Twitter Alternative &lpar;and Why You Might Want to Wait&rpar;](https://lifehacker.com/how-to-join-threads-metas-new-twitter-alternative-and-1850611763)
-- [Lifehacker] [25 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
-- [Lifehacker] [Two Ways to Make Umeboshi, the Pickled Plum You’ll Want to Add to Everything](https://lifehacker.com/two-ways-to-make-umeboshi-the-pickled-plum-you-ll-want-1850594002)<!-- TECH-POSTS:END -->
+- [Lifehacker] [25 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)<!-- TECH-POSTS:END -->
 
 ---
 
