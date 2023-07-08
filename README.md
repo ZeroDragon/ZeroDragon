@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hello World: My Debut Blog Post](https://dev.to/devdela/hello-world-my-debut-blog-post-3c6g)
+- [Dev.to/JS] [Đồng hồ SRwatch](https://dev.to/donghosrwatc/dong-ho-srwatch-5hln)
+- [Dev.to/JS] [Prepare with Confidence: Exam Topics Free for Effective Study](https://dev.to/examguru7/prepare-with-confidence-exam-topics-free-for-effective-study-4945)
 - [Dev.to/JS] [Best AI Prompts for ChatGPT, Bard, etc 🔥](https://dev.to/vishwagauravin/best-ai-prompts-for-chatgpt-bard-etc-dg9)
 - [Dev.to/JS] [#LearnedToday: Helix](https://dev.to/danielzotti/learnedtoday-helix-2cma)
 - [Dev.to/JS] [Javascript compile time and runtime](https://dev.to/ngquan/javascripts-compile-time-and-runtime-2eip)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Things Every Beginner Needs to Know About Objects In JavaScript](https://dev.to/itzz_okure/things-every-beginner-needs-to-know-about-objects-in-javascript-bgc)
 - [Dev.to/JS] [How to create a digital Clock using HTML, CSS and Javascript?](https://dev.to/keshavkumarhembram/how-to-create-clock-using-html-css-and-javascript-3bd0)
 - [Dev.to/JS] [MJGS Newsletter - Pandemonium in cyberspace &lpar;Issue #122&rpar;](https://dev.to/mjgs/mjgs-newsletter-pandemonium-in-cyberspace-issue-122-2cpm)
-- [Dev.to/JS] [React And Node.js Integration: Step By Step Guide - A New Youtube Video](https://dev.to/myogeshchavan97/react-and-nodejs-integration-step-by-step-guide-a-new-youtube-video-4fh1)
-- [Dev.to/JS] [#100DaysOfCode - Start from Day 55](https://dev.to/dwz_wong/100daysofcode-start-from-day-55-2gbh)
-- [Dev.to/JS] [Cortexi - Ingredients, Reviews, Price, Benefits &amp; Results?](https://dev.to/cortexifac21732/cortexi-ingredients-reviews-price-benefits-results-5fbc)
 - [Lifehacker] [StackSkills Unlimited Courses Are $33 Right Now](https://lifehacker.com/stackskills-unlimited-courses-are-33-right-now-1850589561)
 - [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
 - [Lifehacker] [The Best Early Prime Day Luggage Deals](https://lifehacker.com/the-best-early-prime-day-luggage-deals-1850587001)
