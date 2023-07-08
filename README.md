@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create A Random Quote Generator with HTML, CSS, and JavaScript](https://dev.to/official_fire/create-a-random-quote-generator-with-html-css-and-javascript-4n66)
+- [Dev.to/JS] [JavaScript Includes&lpar;&rpar; Method: The Top 10 Things You Need to Know](https://dev.to/onlinemsr/javascript-includes-method-the-top-10-things-you-need-to-know-17jc)
 - [Dev.to/JS] [The Difference Between a Framework and a Library in JavaScript](https://dev.to/devgauravjatt/the-difference-between-a-framework-and-a-library-in-javascript-36ad)
 - [Lifehacker] [StackSkills Unlimited Courses Are $33 Right Now](https://lifehacker.com/stackskills-unlimited-courses-are-33-right-now-1850589561)
 - [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
@@ -45,9 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Only Good Advice for Shopping on Amazon Prime Day](https://lifehacker.com/the-only-good-advice-for-shopping-amazon-prime-day-1849154608)
 - [Dev.to/JS] [Fetching JSON data with Alpine.js [ACCIO!]](https://dev.to/diomed/fetching-json-data-with-alpinejs-accio-261n)
 - [Lifehacker] [Seven Things You Didn’t Know You Could Build From a Kit](https://lifehacker.com/seven-things-you-didn-t-know-you-could-build-from-a-kit-1850615193)
-- [Dev.to/JS] [How to format currency with Intl.NumberFormat](https://dev.to/wojtek/how-to-format-currency-with-intlnumberformat-4eia)
 - [Lifehacker] [Try &#39;Habit Stacking&#39; to Be More Productive](https://lifehacker.com/try-habit-stacking-to-be-more-productive-1850614842)
-- [Dev.to/JS] [[Array Reduce polyfill] Daily Frontend Problem: Problem #2 [Medium]](https://dev.to/chandrapenugonda/daily-frontend-problem-problem-2-medium-4pkp)
 - [Lifehacker] [Start a New Job Right With a ‘30-60-90 Plan’](https://lifehacker.com/start-a-new-job-right-with-a-30-60-90-plan-1850614625)
 - [Lifehacker] [The Best Early Prime Day Deals on Outdoor Gear](https://lifehacker.com/the-best-early-prime-day-deals-on-outdoor-gear-1850545095)
 - [Lifehacker] [You Can Get This Stock Screening App for Over 80% Off](https://lifehacker.com/you-can-get-this-stock-screening-app-for-over-80-off-1850589570)
