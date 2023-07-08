@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Prevent Render-Blocking Javascript with async and defer](https://dev.to/balwantsingh/prevent-render-blocking-javascript-with-async-and-defer-186b)
 - [Dev.to/JS] [Making Four-In-A-Row - Part 8: Status Updates](https://dev.to/colinkiama/making-four-in-a-row-part-8-status-updates-3g3k)
 - [Dev.to/JS] [How to create a reusable Button component in NEXTJS](https://dev.to/mankaa/how-to-create-a-reusable-button-component-in-nextjs-3jgj)
 - [Dev.to/JS] [TypeScript: &quot;type predicates&quot;](https://dev.to/lausuarez02/typescript-type-predicates-3m5j)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#LearnedToday: Helix](https://dev.to/danielzotti/learnedtoday-helix-2cma)
 - [Dev.to/JS] [Javascript compile time and runtime](https://dev.to/ngquan/javascripts-compile-time-and-runtime-2eip)
 - [Dev.to/JS] [Angular 16 Is Launch: Discover the Top 7 Features | Angular Developer SoftwareTechIT](https://dev.to/softwaretechit/angular-16-is-launch-discover-the-top-7-features-angular-developer-softwaretechit-3bcl)
-- [Dev.to/JS] [What Is Vite.js &amp; Why It Is Better Than Webpack?](https://dev.to/arsalanmee/what-is-vitejs-why-it-is-better-than-webpack-1bag)
 - [Lifehacker] [StackSkills Unlimited Courses Are $33 Right Now](https://lifehacker.com/stackskills-unlimited-courses-are-33-right-now-1850589561)
 - [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
 - [Lifehacker] [The Best Early Prime Day Luggage Deals](https://lifehacker.com/the-best-early-prime-day-luggage-deals-1850587001)
