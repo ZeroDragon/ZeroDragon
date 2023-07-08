@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React And Node.js Integration: Step By Step Guide - A New Youtube Video](https://dev.to/myogeshchavan97/react-and-nodejs-integration-step-by-step-guide-a-new-youtube-video-4fh1)
+- [Dev.to/JS] [#100DaysOfCode - Start from Day 55](https://dev.to/dwz_wong/100daysofcode-start-from-day-55-2gbh)
+- [Dev.to/JS] [Cortexi - Ingredients, Reviews, Price, Benefits &amp; Results?](https://dev.to/cortexifac21732/cortexi-ingredients-reviews-price-benefits-results-5fbc)
 - [Dev.to/JS] [How to Prevent Unnecessary React Component Re-Rendering](https://dev.to/femi_dev/how-to-prevent-unnecessary-react-component-re-rendering-3c08)
 - [Dev.to/JS] [Creating The object in the JavaScript](https://dev.to/lalli/creating-the-object-in-the-javascript-12hm)
 - [Dev.to/JS] [Create A Random Quote Generator with HTML, CSS, and JavaScript](https://dev.to/official_fire/create-a-random-quote-generator-with-html-css-and-javascript-4n66)
@@ -40,12 +43,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Air Fry Bacon-Wrapped Watermelon for an Intriguing Salad](https://lifehacker.com/air-fry-bacon-wrapped-watermelon-for-an-intriguing-sala-1850616284)
 - [Dev.to/JS] [React Hooks](https://dev.to/luffy251/react-hooks-3d1m)
 - [Dev.to/JS] [Critical Rendering Path in JavaScript - Make your website FAST!!](https://dev.to/jeetvora331/critical-rendering-path-in-javascript-make-your-website-fast-3jd3)
-- [Dev.to/JS] [Building an Unsplash Slide Show on NeoCities](https://dev.to/dorner/building-an-unsplash-slide-show-on-neocities-9mm)
-- [Dev.to/JS] [JavaScript Web APIs Series: Introduction](https://dev.to/olodocoder/javascript-web-apis-series-introduction-fjk)
 - [Lifehacker] [Spend Your Summer Produce on This Cold Ramen Salad](https://lifehacker.com/highlight-summer-produce-in-a-cold-ramen-salad-1850615795)
 - [Lifehacker] [How to Delete Threads Without Losing Your Instagram](https://lifehacker.com/how-to-delete-threads-without-losing-your-instagram-1850615571)
 - [Lifehacker] [The Only Good Advice for Shopping on Amazon Prime Day](https://lifehacker.com/the-only-good-advice-for-shopping-amazon-prime-day-1849154608)
-- [Dev.to/JS] [Fetching JSON data with Alpine.js [ACCIO!]](https://dev.to/diomed/fetching-json-data-with-alpinejs-accio-261n)
 - [Lifehacker] [Seven Things You Didn’t Know You Could Build From a Kit](https://lifehacker.com/seven-things-you-didn-t-know-you-could-build-from-a-kit-1850615193)
 - [Lifehacker] [Try &#39;Habit Stacking&#39; to Be More Productive](https://lifehacker.com/try-habit-stacking-to-be-more-productive-1850614842)
 - [Lifehacker] [Start a New Job Right With a ‘30-60-90 Plan’](https://lifehacker.com/start-a-new-job-right-with-a-30-60-90-plan-1850614625)
