@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [StackSkills Unlimited Courses Are $33 Right Now](https://lifehacker.com/stackskills-unlimited-courses-are-33-right-now-1850589561)
 - [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
 - [Dev.to/JS] [💡 TypeScript - Template Literal Types](https://dev.to/thayto/typescript-template-literal-types-2679)
 - [Lifehacker] [The Best Early Prime Day Luggage Deals](https://lifehacker.com/the-best-early-prime-day-luggage-deals-1850587001)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [25 of the Best Netflix Movies You Never Knew Existed](https://lifehacker.com/15-of-the-best-netflix-movies-you-never-knew-existed-1850231971)
 - [Lifehacker] [Two Ways to Make Umeboshi, the Pickled Plum You’ll Want to Add to Everything](https://lifehacker.com/two-ways-to-make-umeboshi-the-pickled-plum-you-ll-want-1850594002)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Times to Send an Email](https://lifehacker.com/the-best-and-worst-times-to-send-an-email-1850610907)
-- [Lifehacker] [How to Know If a Weed Dispensary Is Legal](https://lifehacker.com/how-to-know-if-a-weed-dispensary-is-legal-1850549905)
-- [Lifehacker] [It&#39;s Time to Cancel Max and Sign Up for The Criterion Channel](https://lifehacker.com/its-time-to-cancel-max-and-sign-up-for-the-criterion-ch-1850610767)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Know If a Weed Dispensary Is Legal](https://lifehacker.com/how-to-know-if-a-weed-dispensary-is-legal-1850549905)<!-- TECH-POSTS:END -->
 
 ---
 
