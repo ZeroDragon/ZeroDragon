@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adding Rotation and Scaling🕹️🌟 to my Game Engine](https://dev.to/lilshake/adding-rotation-and-scaling-to-my-game-engine-4pim)
+- [Dev.to/JS] [Building the Web of Tomorrow: SSR vs. CSR - Which Path Should You Choose?](https://dev.to/ishanbagchi/building-the-web-of-tomorrow-ssr-vs-csr-which-path-should-you-choose-19bb)
 - [Dev.to/JS] [yèuj-è](https://dev.to/mimani_n/yeuj-e-2c73)
 - [Lifehacker] [Three Clues That a House Will Be For Sale Soon](https://lifehacker.com/three-clues-that-a-house-will-be-for-sale-soon-1850619169)
 - [Dev.to/JS] [Understand how to effectively debug your JavaScript code using Chrome DevTools.](https://dev.to/abhaysinghr1/understand-how-to-effectively-debug-your-javascript-code-using-chrome-devtools-4nlf)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [✅ JavaScript Inheritance without classes](https://dev.to/angdecoder/javascript-prototype-and-prototype-chaining-3g9a)
 - [Dev.to/JS] [Security: &quot;Over 83% of Developers Commit this Critical Mistake when storing User&#39;s Password. Are You One of Them?&quot;](https://dev.to/danielasaboro/security-over-83-of-developers-commit-this-critical-mistake-when-storing-users-password-are-you-one-of-them-57g6)
 - [Dev.to/JS] [Algoritmni optimallashritish usullari](https://dev.to/udilbar/algoritmni-optimallashritish-usullari-3j0e)
-- [Dev.to/JS] [TO-DO-LIST 15](https://dev.to/qu-ack/to-do-list-15-55ha)
-- [Dev.to/JS] [TO-DO-LIST 10](https://dev.to/qu-ack/to-do-list-10-3md8)
 - [Crazy Programmer] [5 Ways to Make Money Online as a Programmer](https://www.thecrazyprogrammer.com/2023/07/make-money-online-as-a-programmer.html)
 - [Lifehacker] [Five Ways to Make an Air Mattress Feel Like the Real Thing](https://lifehacker.com/five-ways-to-make-an-air-mattress-feel-like-the-real-th-1850617371)
 - [Lifehacker] [The Best Vegetables to Grow in the Shade](https://lifehacker.com/the-best-vegetables-to-grow-in-the-shade-1850617379)
