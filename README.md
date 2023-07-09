@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understand let, var and const keywords](https://dev.to/mbuguadennis/understand-let-var-and-const-keywords-325m)
+- [Dev.to/JS] [Mastering React&#39;s Context: A Guide to Efficient State Propagation](https://dev.to/kokaneka/mastering-reacts-context-a-guide-to-efficient-state-propagation-4804)
+- [Dev.to/JS] [Programming: A Comedy of Errors and Infinite Loops 😁](https://dev.to/sadeedpv/programming-a-comedy-of-errors-and-infinite-loops-36d1)
+- [Dev.to/JS] [How to Create and Publish a Package on NPM: A Step-by-Step Guide](https://dev.to/abhishek_writes/how-to-create-and-publish-a-package-on-npm-a-step-by-step-guide-53od)
 - [Dev.to/JS] [Get Currency Exchange rate for FREE](https://dev.to/pawandeore/get-currency-exchange-rate-for-free-179j)
 - [Dev.to/JS] [Introduction to GraphQL for beginners - Apollo Server - part 1](https://dev.to/abdulwaqar844/introduction-to-graphql-for-beginners-apollo-server-part-1-4372)
 - [Dev.to/JS] [From Callback Hell to Elegance: Simplifying Asynchronous Code with Top-Level await in JavaScript.](https://dev.to/shameerchagani/from-callback-hell-to-elegance-simplifying-asynchronous-code-with-top-level-await-in-javascript-441b)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Use the newest technology to help you do things faster and more efficiently.](https://dev.to/reganthapa/use-the-newest-technology-to-help-you-do-things-faster-and-more-efficiently-795)
 - [Dev.to/JS] [Episode 02 - Best time to buy the stock](https://dev.to/vigowebs/best-time-to-buy-the-stock-b9k)
 - [Dev.to/JS] [Linked List Javascript. Easier than you think.](https://dev.to/abdullahmubin/linked-list-javascript-easier-than-you-think-5gd3)
-- [Dev.to/JS] [3D Glowsion Ball with Three.js](https://dev.to/dineshgdk/3d-glowsion-ball-with-threejs-5479)
-- [Dev.to/JS] [Completely explaining JavaScript Promises, using money 💵](https://dev.to/baohuynhlam/completely-explaining-javascript-promises-using-money-545g)
-- [Dev.to/JS] [Understanding Object Copying: Deep Copy vs. Shallow Copy in JavaScript](https://dev.to/codewithjovana/understanding-object-copying-deep-copy-vs-shallow-copy-in-javascript-2l9e)
-- [Dev.to/JS] [TxtAnime.js open source javascript library](https://dev.to/mohamedfrindi/txtanimejs-open-source-javascript-library-4i16)
 - [Crazy Programmer] [5 Ways to Make Money Online as a Programmer](https://www.thecrazyprogrammer.com/2023/07/make-money-online-as-a-programmer.html)
 - [Lifehacker] [Five Ways to Make an Air Mattress Feel Like the Real Thing](https://lifehacker.com/five-ways-to-make-an-air-mattress-feel-like-the-real-th-1850617371)
 - [Lifehacker] [The Best Vegetables to Grow in the Shade](https://lifehacker.com/the-best-vegetables-to-grow-in-the-shade-1850617379)
