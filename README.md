@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [yèuj-è](https://dev.to/mimani_n/yeuj-e-2c73)
+- [Lifehacker] [Three Clues That a House Will Be For Sale Soon](https://lifehacker.com/three-clues-that-a-house-will-be-for-sale-soon-1850619169)
+- [Dev.to/JS] [Understand how to effectively debug your JavaScript code using Chrome DevTools.](https://dev.to/abhaysinghr1/understand-how-to-effectively-debug-your-javascript-code-using-chrome-devtools-4nlf)
+- [Dev.to/JS] [Predictive Maintenance with t6 IoT Platform and Temperature Sensors](https://dev.to/mathcoll/predictive-maintenance-with-t6-iot-platform-and-temperature-sensors-14ei)
+- [Dev.to/JS] [Is string/number also an object in JavaScript?](https://dev.to/xplodivity/is-stringnumber-also-an-object-in-javascript-36fc)
+- [Dev.to/JS] [Making Four-In-A-Row - Part 9: Play Again &lpar;Finale&rpar;](https://dev.to/colinkiama/making-four-in-a-row-part-9-play-again-l3l)
+- [Dev.to/JS] [Over 40, with no technical background, this is how I learned HTML and CSS in 3 days](https://dev.to/codingjourneyfromunemployment/over-40-with-no-technical-background-this-is-how-i-learned-html-and-css-in-3-days-416c)
 - [Dev.to/JS] [Javascript - interpretation and JIT](https://dev.to/ngquan/javascript-interpretation-and-jit-4nc7)
 - [Dev.to/JS] [✅ JavaScript Inheritance without classes](https://dev.to/angdecoder/javascript-prototype-and-prototype-chaining-3g9a)
 - [Dev.to/JS] [Security: &quot;Over 83% of Developers Commit this Critical Mistake when storing User&#39;s Password. Are You One of Them?&quot;](https://dev.to/danielasaboro/security-over-83-of-developers-commit-this-critical-mistake-when-storing-users-password-are-you-one-of-them-57g6)
 - [Dev.to/JS] [Algoritmni optimallashritish usullari](https://dev.to/udilbar/algoritmni-optimallashritish-usullari-3j0e)
 - [Dev.to/JS] [TO-DO-LIST 15](https://dev.to/qu-ack/to-do-list-15-55ha)
 - [Dev.to/JS] [TO-DO-LIST 10](https://dev.to/qu-ack/to-do-list-10-3md8)
-- [Dev.to/JS] [TO-DO-LIST 05](https://dev.to/qu-ack/to-do-list-05-3ac)
-- [Dev.to/JS] [Understand let, var and const keywords](https://dev.to/mbuguadennis/understand-let-var-and-const-keywords-325m)
-- [Dev.to/JS] [Mastering React&#39;s Context: A Guide to Efficient State Propagation](https://dev.to/kokaneka/mastering-reacts-context-a-guide-to-efficient-state-propagation-4804)
-- [Dev.to/JS] [Programming: A Comedy of Errors and Infinite Loops 😁](https://dev.to/sadeedpv/programming-a-comedy-of-errors-and-infinite-loops-36d1)
-- [Dev.to/JS] [How to Create and Publish a Package on NPM: A Step-by-Step Guide](https://dev.to/abhishek_writes/how-to-create-and-publish-a-package-on-npm-a-step-by-step-guide-53od)
-- [Dev.to/JS] [Get Currency Exchange rate for FREE](https://dev.to/pawandeore/get-currency-exchange-rate-for-free-179j)
 - [Crazy Programmer] [5 Ways to Make Money Online as a Programmer](https://www.thecrazyprogrammer.com/2023/07/make-money-online-as-a-programmer.html)
 - [Lifehacker] [Five Ways to Make an Air Mattress Feel Like the Real Thing](https://lifehacker.com/five-ways-to-make-an-air-mattress-feel-like-the-real-th-1850617371)
 - [Lifehacker] [The Best Vegetables to Grow in the Shade](https://lifehacker.com/the-best-vegetables-to-grow-in-the-shade-1850617379)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This &#39;IRS Letter&#39; Is a Scam](https://lifehacker.com/this-irs-letter-is-a-scam-1850610120)
 - [Lifehacker] [The Case For Smoking Your Chicken in Pieces](https://lifehacker.com/the-case-for-smoking-your-chicken-in-pieces-1850611750)
 - [Lifehacker] [Amazon Prime&#39;s Big Vitamix Sale Is Worth Checking Out](https://lifehacker.com/amazon-primes-big-vitamix-sale-is-worth-checking-out-1850588884)
-- [Lifehacker] [What People Are Getting Wrong This Week: Cocaine at the White House](https://lifehacker.com/cocaine-at-the-white-house-1850611981)
-- [Lifehacker] [How to Join Threads, Meta&#39;s New Twitter Alternative &lpar;and Why You Might Want to Wait&rpar;](https://lifehacker.com/how-to-join-threads-metas-new-twitter-alternative-and-1850611763)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What People Are Getting Wrong This Week: Cocaine at the White House](https://lifehacker.com/cocaine-at-the-white-house-1850611981)<!-- TECH-POSTS:END -->
 
 ---
 
