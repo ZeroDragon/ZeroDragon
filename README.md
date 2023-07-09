@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [From Callback Hell to Elegance: Simplifying Asynchronous Code with Top-Level await in JavaScript.](https://dev.to/shameerchagani/from-callback-hell-to-elegance-simplifying-asynchronous-code-with-top-level-await-in-javascript-441b)
+- [Dev.to/JS] [Code Obfuscation of Javascript code using JScrambler](https://dev.to/krishna121996/code-obfuscation-of-javascript-code-using-jscrambler-2nci)
+- [Dev.to/JS] [Solve: can’t perform a react state update on an unmounted component](https://dev.to/reactjsguru/solve-cant-perform-a-react-state-update-on-an-unmounted-component-582f)
+- [Dev.to/JS] [Use the newest technology to help you do things faster and more efficiently.](https://dev.to/reganthapa/use-the-newest-technology-to-help-you-do-things-faster-and-more-efficiently-795)
 - [Dev.to/JS] [Episode 02 - Best time to buy the stock](https://dev.to/vigowebs/best-time-to-buy-the-stock-b9k)
 - [Dev.to/JS] [Linked List Javascript. Easier than you think.](https://dev.to/abdullahmubin/linked-list-javascript-easier-than-you-think-5gd3)
 - [Dev.to/JS] [3D Glowsion Ball with Three.js](https://dev.to/dineshgdk/3d-glowsion-ball-with-threejs-5479)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Making Flappy Bird in my Game Engine. How hard can it be?](https://dev.to/lilshake/making-flappy-bird-in-my-game-engine-how-hard-can-it-be-4m61)
 - [Crazy Programmer] [5 Ways to Make Money Online as a Programmer](https://www.thecrazyprogrammer.com/2023/07/make-money-online-as-a-programmer.html)
 - [Dev.to/JS] [Chat Room Project - Christopher Duran](https://dev.to/chriisduran/chat-room-project-christopher-duran-e5e)
-- [Dev.to/JS] [Design Patterns: What, Why, and When to Use Them?](https://dev.to/mmainulhasan/design-patterns-what-why-and-when-to-use-them-2pml)
-- [Dev.to/JS] [Use JavaScript Blobs to Create Files: The Case of Hundreds of Bulk Import Errors](https://dev.to/webjose/use-javascript-blobs-to-create-files-the-case-of-hundreds-of-bulk-import-errors-4omm)
-- [Dev.to/JS] [Hi all of you i just joined dev community !](https://dev.to/sandeeptale/hi-all-of-you-i-just-joined-dev-community--1dk8)
-- [Dev.to/JS] [TO-DO-LIST 00](https://dev.to/qu-ack/to-do-list-00-1b4b)
 - [Lifehacker] [Five Ways to Make an Air Mattress Feel Like the Real Thing](https://lifehacker.com/five-ways-to-make-an-air-mattress-feel-like-the-real-th-1850617371)
 - [Lifehacker] [The Best Vegetables to Grow in the Shade](https://lifehacker.com/the-best-vegetables-to-grow-in-the-shade-1850617379)
 - [Lifehacker] [Skip the Long Wait for a New Passport at These Events](https://lifehacker.com/skip-the-long-wait-for-a-new-passport-at-these-events-1850617386)
