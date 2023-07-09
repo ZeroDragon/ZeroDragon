@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Completely explaining JavaScript Promises, using money 💵](https://dev.to/baohuynhlam/completely-explaining-javascript-promises-using-money-545g)
 - [Dev.to/JS] [Understanding Object Copying: Deep Copy vs. Shallow Copy in JavaScript](https://dev.to/codewithjovana/understanding-object-copying-deep-copy-vs-shallow-copy-in-javascript-2l9e)
 - [Dev.to/JS] [TxtAnime.js open source javascript library](https://dev.to/mohamedfrindi/txtanimejs-open-source-javascript-library-4i16)
 - [Dev.to/JS] [Making Flappy Bird in my Game Engine. How hard can it be?](https://dev.to/lilshake/making-flappy-bird-in-my-game-engine-how-hard-can-it-be-4m61)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Discriminated unions in Typescript](https://dev.to/muszynov/discriminated-unions-in-typescript-5hd4)
 - [Dev.to/JS] [Implement data fetching with urql and Next.js](https://dev.to/tasfiaislam/implement-data-fetching-with-urql-and-next-js-1pnp)
 - [Lifehacker] [Five Ways to Make an Air Mattress Feel Like the Real Thing](https://lifehacker.com/five-ways-to-make-an-air-mattress-feel-like-the-real-th-1850617371)
-- [Dev.to/JS] [&lpar;Polyfill Array.prototype.map&rpar; Daily Frontend Problem: Problem #3 [Medium]](https://dev.to/chandrapenugonda/polyfill-arrayprototypemap-daily-frontend-problem-problem-3-medium-5347)
 - [Lifehacker] [The Best Vegetables to Grow in the Shade](https://lifehacker.com/the-best-vegetables-to-grow-in-the-shade-1850617379)
 - [Lifehacker] [Skip the Long Wait for a New Passport at These Events](https://lifehacker.com/skip-the-long-wait-for-a-new-passport-at-these-events-1850617386)
 - [Lifehacker] [StackSkills Unlimited Courses Are $33 Right Now](https://lifehacker.com/stackskills-unlimited-courses-are-33-right-now-1850589561)
