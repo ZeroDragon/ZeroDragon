@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Algoritmni optimallashritish usullari](https://dev.to/udilbar/algoritmni-optimallashritish-usullari-3j0e)
+- [Dev.to/JS] [TO-DO-LIST 15](https://dev.to/qu-ack/to-do-list-15-55ha)
+- [Dev.to/JS] [TO-DO-LIST 10](https://dev.to/qu-ack/to-do-list-10-3md8)
+- [Dev.to/JS] [TO-DO-LIST 05](https://dev.to/qu-ack/to-do-list-05-3ac)
 - [Dev.to/JS] [Understand let, var and const keywords](https://dev.to/mbuguadennis/understand-let-var-and-const-keywords-325m)
 - [Dev.to/JS] [Mastering React&#39;s Context: A Guide to Efficient State Propagation](https://dev.to/kokaneka/mastering-reacts-context-a-guide-to-efficient-state-propagation-4804)
 - [Dev.to/JS] [Programming: A Comedy of Errors and Infinite Loops 😁](https://dev.to/sadeedpv/programming-a-comedy-of-errors-and-infinite-loops-36d1)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to GraphQL for beginners - Apollo Server - part 1](https://dev.to/abdulwaqar844/introduction-to-graphql-for-beginners-apollo-server-part-1-4372)
 - [Dev.to/JS] [From Callback Hell to Elegance: Simplifying Asynchronous Code with Top-Level await in JavaScript.](https://dev.to/shameerchagani/from-callback-hell-to-elegance-simplifying-asynchronous-code-with-top-level-await-in-javascript-441b)
 - [Dev.to/JS] [Code Obfuscation of Javascript code using JScrambler](https://dev.to/krishna121996/code-obfuscation-of-javascript-code-using-jscrambler-2nci)
-- [Dev.to/JS] [Solve: can’t perform a react state update on an unmounted component](https://dev.to/reactjsguru/solve-cant-perform-a-react-state-update-on-an-unmounted-component-582f)
-- [Dev.to/JS] [Use the newest technology to help you do things faster and more efficiently.](https://dev.to/reganthapa/use-the-newest-technology-to-help-you-do-things-faster-and-more-efficiently-795)
-- [Dev.to/JS] [Episode 02 - Best time to buy the stock](https://dev.to/vigowebs/best-time-to-buy-the-stock-b9k)
-- [Dev.to/JS] [Linked List Javascript. Easier than you think.](https://dev.to/abdullahmubin/linked-list-javascript-easier-than-you-think-5gd3)
 - [Crazy Programmer] [5 Ways to Make Money Online as a Programmer](https://www.thecrazyprogrammer.com/2023/07/make-money-online-as-a-programmer.html)
 - [Lifehacker] [Five Ways to Make an Air Mattress Feel Like the Real Thing](https://lifehacker.com/five-ways-to-make-an-air-mattress-feel-like-the-real-th-1850617371)
 - [Lifehacker] [The Best Vegetables to Grow in the Shade](https://lifehacker.com/the-best-vegetables-to-grow-in-the-shade-1850617379)
