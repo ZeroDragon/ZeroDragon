@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Desmascarando o Modismo: Avaliando as Dependências do Projeto usando o Conceito de Wardley Map](https://dev.to/demgoncalves/desmascarando-o-modismo-avaliando-as-dependencias-do-projeto-usando-o-conceito-de-wardley-map-20l0)
+- [Dev.to/JS] [[Polyfill - Array.prototype.square] Daily Frontend Problem: Problem #4 [Easy]](https://dev.to/chandrapenugonda/polyfill-arrayprototypesquare-daily-frontend-problem-problem-4-easy-1gom)
+- [Dev.to/JS] [ReactJS + TypeScript: A Powerful Combination for Web Development](https://dev.to/auraqule/reactjs-typescript-a-powerful-combination-for-web-development-3cp5)
+- [Dev.to/JS] [The Difference Between `var`, `let` and `const` in Javascript](https://dev.to/alserembani/the-difference-between-var-let-and-const-in-javascript-3dc4)
+- [Dev.to/JS] [Send Slack Notifications via NodeJS](https://dev.to/hrishikeshps/send-slack-notifications-via-nodejs-3ddn)
+- [Lifehacker] [The Best Ways to Stop Your Smoke Detector From Going Off While Cooking](https://lifehacker.com/the-best-ways-to-stop-your-smoke-detector-from-going-of-1850619154)
 - [Dev.to/JS] [Navigating the &#39;this&#39; Maze in Javascript - Part 1](https://dev.to/rohitsharma08/navigating-the-this-maze-in-javascript-part-1-4lej)
 - [Dev.to/JS] [Efficiently Zipping Files on Amazon S3 with Node.js](https://dev.to/rss_holmes/efficiently-zipping-files-on-amazon-s3-with-nodejs-4bd8)
 - [Dev.to/JS] [Why Server Components - A Brief History of Web](https://dev.to/perssondennis/why-server-components-a-brief-history-of-web-198h)
@@ -34,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building the Web of Tomorrow: SSR vs. CSR - Which Path Should You Choose?](https://dev.to/ishanbagchi/building-the-web-of-tomorrow-ssr-vs-csr-which-path-should-you-choose-19bb)
 - [Dev.to/JS] [yèuj-è](https://dev.to/mimani_n/yeuj-e-2c73)
 - [Lifehacker] [Three Clues That a House Will Be For Sale Soon](https://lifehacker.com/three-clues-that-a-house-will-be-for-sale-soon-1850619169)
-- [Dev.to/JS] [Understand how to effectively debug your JavaScript code using Chrome DevTools.](https://dev.to/abhaysinghr1/understand-how-to-effectively-debug-your-javascript-code-using-chrome-devtools-4nlf)
-- [Dev.to/JS] [Predictive Maintenance with t6 IoT Platform and Temperature Sensors](https://dev.to/mathcoll/predictive-maintenance-with-t6-iot-platform-and-temperature-sensors-14ei)
-- [Dev.to/JS] [Is string/number also an object in JavaScript?](https://dev.to/xplodivity/is-stringnumber-also-an-object-in-javascript-36fc)
-- [Dev.to/JS] [Making Four-In-A-Row - Part 9: Play Again &lpar;Finale&rpar;](https://dev.to/colinkiama/making-four-in-a-row-part-9-play-again-l3l)
-- [Dev.to/JS] [Over 40, with no technical background, this is how I learned HTML and CSS in 3 days](https://dev.to/codingjourneyfromunemployment/over-40-with-no-technical-background-this-is-how-i-learned-html-and-css-in-3-days-416c)
 - [Crazy Programmer] [5 Ways to Make Money Online as a Programmer](https://www.thecrazyprogrammer.com/2023/07/make-money-online-as-a-programmer.html)
 - [Lifehacker] [Five Ways to Make an Air Mattress Feel Like the Real Thing](https://lifehacker.com/five-ways-to-make-an-air-mattress-feel-like-the-real-th-1850617371)
 - [Lifehacker] [The Best Vegetables to Grow in the Shade](https://lifehacker.com/the-best-vegetables-to-grow-in-the-shade-1850617379)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These BirdBike eBikes Are 60% Off Right Now](https://lifehacker.com/these-birdbike-ebikes-are-60-off-right-now-1850589553)
 - [Lifehacker] [This &#39;IRS Letter&#39; Is a Scam](https://lifehacker.com/this-irs-letter-is-a-scam-1850610120)
 - [Lifehacker] [The Case For Smoking Your Chicken in Pieces](https://lifehacker.com/the-case-for-smoking-your-chicken-in-pieces-1850611750)
-- [Lifehacker] [Amazon Prime&#39;s Big Vitamix Sale Is Worth Checking Out](https://lifehacker.com/amazon-primes-big-vitamix-sale-is-worth-checking-out-1850588884)
-- [Lifehacker] [What People Are Getting Wrong This Week: Cocaine at the White House](https://lifehacker.com/cocaine-at-the-white-house-1850611981)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Amazon Prime&#39;s Big Vitamix Sale Is Worth Checking Out](https://lifehacker.com/amazon-primes-big-vitamix-sale-is-worth-checking-out-1850588884)<!-- TECH-POSTS:END -->
 
 ---
 
