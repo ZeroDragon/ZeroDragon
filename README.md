@@ -27,7 +27,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Javascript - interpretation and JIT](https://dev.to/ngquan/javascript-interpretation-and-jit-4nc7)
-- [Dev.to/JS] [✅ Javascript : Prototype and Prototype Chaining](https://dev.to/angdecoder/javascript-prototype-and-prototype-chaining-3g9a)
+- [Dev.to/JS] [✅ JavaScript Inheritance without classes](https://dev.to/angdecoder/javascript-prototype-and-prototype-chaining-3g9a)
 - [Dev.to/JS] [Security: &quot;Over 83% of Developers Commit this Critical Mistake when storing User&#39;s Password. Are You One of Them?&quot;](https://dev.to/danielasaboro/security-over-83-of-developers-commit-this-critical-mistake-when-storing-users-password-are-you-one-of-them-57g6)
 - [Dev.to/JS] [Algoritmni optimallashritish usullari](https://dev.to/udilbar/algoritmni-optimallashritish-usullari-3j0e)
 - [Dev.to/JS] [TO-DO-LIST 15](https://dev.to/qu-ack/to-do-list-15-55ha)
