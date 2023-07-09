@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Episode 02 - Best time to buy the stock](https://dev.to/vigowebs/best-time-to-buy-the-stock-b9k)
+- [Dev.to/JS] [Linked List Javascript. Easier than you think.](https://dev.to/abdullahmubin/linked-list-javascript-easier-than-you-think-5gd3)
+- [Dev.to/JS] [3D Glowsion Ball with Three.js](https://dev.to/dineshgdk/3d-glowsion-ball-with-threejs-5479)
 - [Dev.to/JS] [Completely explaining JavaScript Promises, using money 💵](https://dev.to/baohuynhlam/completely-explaining-javascript-promises-using-money-545g)
 - [Dev.to/JS] [Understanding Object Copying: Deep Copy vs. Shallow Copy in JavaScript](https://dev.to/codewithjovana/understanding-object-copying-deep-copy-vs-shallow-copy-in-javascript-2l9e)
 - [Dev.to/JS] [TxtAnime.js open source javascript library](https://dev.to/mohamedfrindi/txtanimejs-open-source-javascript-library-4i16)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Use JavaScript Blobs to Create Files: The Case of Hundreds of Bulk Import Errors](https://dev.to/webjose/use-javascript-blobs-to-create-files-the-case-of-hundreds-of-bulk-import-errors-4omm)
 - [Dev.to/JS] [Hi all of you i just joined dev community !](https://dev.to/sandeeptale/hi-all-of-you-i-just-joined-dev-community--1dk8)
 - [Dev.to/JS] [TO-DO-LIST 00](https://dev.to/qu-ack/to-do-list-00-1b4b)
-- [Dev.to/JS] [A Complete Guideline to Creating a Modern React App With TypeScript From Scratch](https://dev.to/mohammadfaisal/a-complete-guideline-to-creating-a-modern-react-app-with-typescript-from-scratch-3p0m)
-- [Dev.to/JS] [Discriminated unions in Typescript](https://dev.to/muszynov/discriminated-unions-in-typescript-5hd4)
-- [Dev.to/JS] [Implement data fetching with urql and Next.js](https://dev.to/tasfiaislam/implement-data-fetching-with-urql-and-next-js-1pnp)
 - [Lifehacker] [Five Ways to Make an Air Mattress Feel Like the Real Thing](https://lifehacker.com/five-ways-to-make-an-air-mattress-feel-like-the-real-th-1850617371)
 - [Lifehacker] [The Best Vegetables to Grow in the Shade](https://lifehacker.com/the-best-vegetables-to-grow-in-the-shade-1850617379)
 - [Lifehacker] [Skip the Long Wait for a New Passport at These Events](https://lifehacker.com/skip-the-long-wait-for-a-new-passport-at-these-events-1850617386)
