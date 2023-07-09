@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Phase 1](https://dev.to/aosorio10/phase-1-54nn)
+- [Dev.to/JS] [Autenticación en 2 factores via SMS con Nest.js, PostgreSQL y Twilio](https://dev.to/losarcosdev/autenticacion-en-2-factores-via-sms-con-nestjs-postgresql-y-twilio-1mmd)
 - [Dev.to/JS] [Implementing Routing in React, a Step by Step Approach](https://dev.to/lukap/implementing-routing-in-react-a-step-by-step-approach-26hm)
 - [Dev.to/JS] [TypeSafe Testing in Backends-for-Frontends](https://dev.to/slickstef11/typesafe-testing-in-backends-for-frontends-32dn)
 - [Dev.to/JS] [What&#39;s Next? Career advice](https://dev.to/bathininipun79/whats-next-career-advice-3475)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Developed an Online Video Editor which Requires No Uploads Prior Editing](https://dev.to/khuramhaf/developed-an-online-video-editor-which-requires-no-uploads-prior-editing-34e3)
 - [Dev.to/JS] [11 Ways to Improve Your Technical Resume](https://dev.to/mohammadfaisal/11-ways-to-improve-your-technical-resume-40de)
 - [Dev.to/JS] [Started a New Project - Online Graphic Editor.](https://dev.to/khuramhaf/started-a-new-project-online-graphic-editor-1cbm)
-- [Dev.to/JS] [Developer Tools Tricks](https://dev.to/balamurugan16/developer-tools-tricks-2mb4)
-- [Dev.to/JS] [Developed an Online Audio Editor which Requires No Uploads Prior Editing](https://dev.to/khuramhaf/an-online-audio-editor-which-require-no-uploads-prior-editing-59o5)
 - [Lifehacker] [Five Ways to Keep Your Car&#39;s Interior Cooler in the Summer](https://lifehacker.com/five-ways-to-keep-your-cars-interior-cooler-in-the-summ-1850619152)
 - [Lifehacker] [The Best Ways to Stop Your Smoke Detector From Going Off While Cooking](https://lifehacker.com/the-best-ways-to-stop-your-smoke-detector-from-going-of-1850619154)
 - [Lifehacker] [Three Clues That a House Will Be For Sale Soon](https://lifehacker.com/three-clues-that-a-house-will-be-for-sale-soon-1850619169)
