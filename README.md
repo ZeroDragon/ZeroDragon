@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Navigating the &#39;this&#39; Maze in Javascript - Part 1](https://dev.to/rohitsharma08/navigating-the-this-maze-in-javascript-part-1-4lej)
+- [Dev.to/JS] [Efficiently Zipping Files on Amazon S3 with Node.js](https://dev.to/rss_holmes/efficiently-zipping-files-on-amazon-s3-with-nodejs-4bd8)
+- [Dev.to/JS] [Why Server Components - A Brief History of Web](https://dev.to/perssondennis/why-server-components-a-brief-history-of-web-198h)
+- [Dev.to/JS] [TO-DO-LIST 20](https://dev.to/qu-ack/to-do-list-20-215h)
 - [Dev.to/JS] [Adding Rotation and Scaling🕹️🌟 to my Game Engine](https://dev.to/lilshake/adding-rotation-and-scaling-to-my-game-engine-4pim)
 - [Dev.to/JS] [Building the Web of Tomorrow: SSR vs. CSR - Which Path Should You Choose?](https://dev.to/ishanbagchi/building-the-web-of-tomorrow-ssr-vs-csr-which-path-should-you-choose-19bb)
 - [Dev.to/JS] [yèuj-è](https://dev.to/mimani_n/yeuj-e-2c73)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is string/number also an object in JavaScript?](https://dev.to/xplodivity/is-stringnumber-also-an-object-in-javascript-36fc)
 - [Dev.to/JS] [Making Four-In-A-Row - Part 9: Play Again &lpar;Finale&rpar;](https://dev.to/colinkiama/making-four-in-a-row-part-9-play-again-l3l)
 - [Dev.to/JS] [Over 40, with no technical background, this is how I learned HTML and CSS in 3 days](https://dev.to/codingjourneyfromunemployment/over-40-with-no-technical-background-this-is-how-i-learned-html-and-css-in-3-days-416c)
-- [Dev.to/JS] [Javascript - interpretation and JIT](https://dev.to/ngquan/javascript-interpretation-and-jit-4nc7)
-- [Dev.to/JS] [✅ JavaScript Inheritance without classes](https://dev.to/angdecoder/javascript-prototype-and-prototype-chaining-3g9a)
-- [Dev.to/JS] [Security: &quot;Over 83% of Developers Commit this Critical Mistake when storing User&#39;s Password. Are You One of Them?&quot;](https://dev.to/danielasaboro/security-over-83-of-developers-commit-this-critical-mistake-when-storing-users-password-are-you-one-of-them-57g6)
-- [Dev.to/JS] [Algoritmni optimallashritish usullari](https://dev.to/udilbar/algoritmni-optimallashritish-usullari-3j0e)
 - [Crazy Programmer] [5 Ways to Make Money Online as a Programmer](https://www.thecrazyprogrammer.com/2023/07/make-money-online-as-a-programmer.html)
 - [Lifehacker] [Five Ways to Make an Air Mattress Feel Like the Real Thing](https://lifehacker.com/five-ways-to-make-an-air-mattress-feel-like-the-real-th-1850617371)
 - [Lifehacker] [The Best Vegetables to Grow in the Shade](https://lifehacker.com/the-best-vegetables-to-grow-in-the-shade-1850617379)
