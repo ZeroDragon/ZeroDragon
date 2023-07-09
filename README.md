@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What&#39;s Next? Career advice](https://dev.to/bathininipun79/whats-next-career-advice-3475)
+- [Dev.to/JS] [An easy way to recursively flatten a multidimensional array in JavaScript with only native JavaScript.](https://dev.to/melvinvmegen/an-easy-way-to-recursively-flatten-a-multidimensional-array-in-javascript-with-only-native-javascript-215)
 - [Dev.to/JS] [Code, Pizza, and the Sweet Taste of Success](https://dev.to/archanajyothy/code-pizza-and-the-sweet-taste-of-success-32m7)
 - [Dev.to/JS] [Retos JS. Calculando factoriales muy grandes con JS.](https://dev.to/jorgeabad/retos-js-calculando-factoriales-muy-grandes-con-js-53ao)
 - [Dev.to/JS] [Create ToDo List with Vue.js](https://dev.to/syedmuhammadaliraza/create-todo-list-with-vuejs-39m)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Arrow Functions: Syntax, Features, and Use Cases](https://dev.to/hyemiie/understanding-arrow-functions-syntax-features-and-use-cases-1a6m)
 - [Lifehacker] [Five Ways to Keep Your Car&#39;s Interior Cooler in the Summer](https://lifehacker.com/five-ways-to-keep-your-cars-interior-cooler-in-the-summ-1850619152)
 - [Dev.to/JS] [Desmascarando o Modismo: Avaliando as Dependências do Projeto usando o Conceito de Wardley Map](https://dev.to/demgoncalves/desmascarando-o-modismo-avaliando-as-dependencias-do-projeto-usando-o-conceito-de-wardley-map-20l0)
-- [Dev.to/JS] [[Polyfill - Array.prototype.square] Daily Frontend Problem: Problem #4 [Easy]](https://dev.to/chandrapenugonda/polyfill-arrayprototypesquare-daily-frontend-problem-problem-4-easy-1gom)
-- [Dev.to/JS] [ReactJS + TypeScript: A Powerful Combination for Web Development](https://dev.to/auraqule/reactjs-typescript-a-powerful-combination-for-web-development-3cp5)
 - [Lifehacker] [The Best Ways to Stop Your Smoke Detector From Going Off While Cooking](https://lifehacker.com/the-best-ways-to-stop-your-smoke-detector-from-going-of-1850619154)
 - [Lifehacker] [Three Clues That a House Will Be For Sale Soon](https://lifehacker.com/three-clues-that-a-house-will-be-for-sale-soon-1850619169)
 - [Crazy Programmer] [5 Ways to Make Money Online as a Programmer](https://www.thecrazyprogrammer.com/2023/07/make-money-online-as-a-programmer.html)
