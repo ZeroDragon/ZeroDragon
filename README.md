@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implementing Routing in React, a Step by Step Approach](https://dev.to/lukap/implementing-routing-in-react-a-step-by-step-approach-26hm)
+- [Dev.to/JS] [TypeSafe Testing in Backends-for-Frontends](https://dev.to/slickstef11/typesafe-testing-in-backends-for-frontends-32dn)
 - [Dev.to/JS] [What&#39;s Next? Career advice](https://dev.to/bathininipun79/whats-next-career-advice-3475)
 - [Dev.to/JS] [An easy way to recursively flatten a multidimensional array in JavaScript with only native JavaScript.](https://dev.to/melvinvmegen/an-easy-way-to-recursively-flatten-a-multidimensional-array-in-javascript-with-only-native-javascript-215)
 - [Dev.to/JS] [Code, Pizza, and the Sweet Taste of Success](https://dev.to/archanajyothy/code-pizza-and-the-sweet-taste-of-success-32m7)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Started a New Project - Online Graphic Editor.](https://dev.to/khuramhaf/started-a-new-project-online-graphic-editor-1cbm)
 - [Dev.to/JS] [Developer Tools Tricks](https://dev.to/balamurugan16/developer-tools-tricks-2mb4)
 - [Dev.to/JS] [Developed an Online Audio Editor which Requires No Uploads Prior Editing](https://dev.to/khuramhaf/an-online-audio-editor-which-require-no-uploads-prior-editing-59o5)
-- [Dev.to/JS] [Understanding Arrow Functions: Syntax, Features, and Use Cases](https://dev.to/hyemiie/understanding-arrow-functions-syntax-features-and-use-cases-1a6m)
 - [Lifehacker] [Five Ways to Keep Your Car&#39;s Interior Cooler in the Summer](https://lifehacker.com/five-ways-to-keep-your-cars-interior-cooler-in-the-summ-1850619152)
-- [Dev.to/JS] [Desmascarando o Modismo: Avaliando as Dependências do Projeto usando o Conceito de Wardley Map](https://dev.to/demgoncalves/desmascarando-o-modismo-avaliando-as-dependencias-do-projeto-usando-o-conceito-de-wardley-map-20l0)
 - [Lifehacker] [The Best Ways to Stop Your Smoke Detector From Going Off While Cooking](https://lifehacker.com/the-best-ways-to-stop-your-smoke-detector-from-going-of-1850619154)
 - [Lifehacker] [Three Clues That a House Will Be For Sale Soon](https://lifehacker.com/three-clues-that-a-house-will-be-for-sale-soon-1850619169)
 - [Crazy Programmer] [5 Ways to Make Money Online as a Programmer](https://www.thecrazyprogrammer.com/2023/07/make-money-online-as-a-programmer.html)
