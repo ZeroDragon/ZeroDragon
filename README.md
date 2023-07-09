@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Five Ways to Keep Your Car&#39;s Interior Cooler in the Summer](https://lifehacker.com/five-ways-to-keep-your-cars-interior-cooler-in-the-summ-1850619152)
 - [Dev.to/JS] [Desmascarando o Modismo: Avaliando as Dependências do Projeto usando o Conceito de Wardley Map](https://dev.to/demgoncalves/desmascarando-o-modismo-avaliando-as-dependencias-do-projeto-usando-o-conceito-de-wardley-map-20l0)
 - [Dev.to/JS] [[Polyfill - Array.prototype.square] Daily Frontend Problem: Problem #4 [Easy]](https://dev.to/chandrapenugonda/polyfill-arrayprototypesquare-daily-frontend-problem-problem-4-easy-1gom)
 - [Dev.to/JS] [ReactJS + TypeScript: A Powerful Combination for Web Development](https://dev.to/auraqule/reactjs-typescript-a-powerful-combination-for-web-development-3cp5)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Low-Carb Cauliflower Arancini Are Actually Amazing](https://lifehacker.com/low-carb-cauliflower-arancini-are-actually-amazing-1850612036)
 - [Lifehacker] [These BirdBike eBikes Are 60% Off Right Now](https://lifehacker.com/these-birdbike-ebikes-are-60-off-right-now-1850589553)
 - [Lifehacker] [This &#39;IRS Letter&#39; Is a Scam](https://lifehacker.com/this-irs-letter-is-a-scam-1850610120)
-- [Lifehacker] [The Case For Smoking Your Chicken in Pieces](https://lifehacker.com/the-case-for-smoking-your-chicken-in-pieces-1850611750)
-- [Lifehacker] [Amazon Prime&#39;s Big Vitamix Sale Is Worth Checking Out](https://lifehacker.com/amazon-primes-big-vitamix-sale-is-worth-checking-out-1850588884)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Case For Smoking Your Chicken in Pieces](https://lifehacker.com/the-case-for-smoking-your-chicken-in-pieces-1850611750)<!-- TECH-POSTS:END -->
 
 ---
 
