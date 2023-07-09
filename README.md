@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript - interpretation and JIT](https://dev.to/ngquan/javascript-interpretation-and-jit-4nc7)
+- [Dev.to/JS] [✅ Javascript : Prototype and Prototype Chaining](https://dev.to/angdecoder/javascript-prototype-and-prototype-chaining-3g9a)
+- [Dev.to/JS] [Security: &quot;Over 83% of Developers Commit this Critical Mistake when storing User&#39;s Password. Are You One of Them?&quot;](https://dev.to/danielasaboro/security-over-83-of-developers-commit-this-critical-mistake-when-storing-users-password-are-you-one-of-them-57g6)
 - [Dev.to/JS] [Algoritmni optimallashritish usullari](https://dev.to/udilbar/algoritmni-optimallashritish-usullari-3j0e)
 - [Dev.to/JS] [TO-DO-LIST 15](https://dev.to/qu-ack/to-do-list-15-55ha)
 - [Dev.to/JS] [TO-DO-LIST 10](https://dev.to/qu-ack/to-do-list-10-3md8)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Programming: A Comedy of Errors and Infinite Loops 😁](https://dev.to/sadeedpv/programming-a-comedy-of-errors-and-infinite-loops-36d1)
 - [Dev.to/JS] [How to Create and Publish a Package on NPM: A Step-by-Step Guide](https://dev.to/abhishek_writes/how-to-create-and-publish-a-package-on-npm-a-step-by-step-guide-53od)
 - [Dev.to/JS] [Get Currency Exchange rate for FREE](https://dev.to/pawandeore/get-currency-exchange-rate-for-free-179j)
-- [Dev.to/JS] [Introduction to GraphQL for beginners - Apollo Server - part 1](https://dev.to/abdulwaqar844/introduction-to-graphql-for-beginners-apollo-server-part-1-4372)
-- [Dev.to/JS] [From Callback Hell to Elegance: Simplifying Asynchronous Code with Top-Level await in JavaScript.](https://dev.to/shameerchagani/from-callback-hell-to-elegance-simplifying-asynchronous-code-with-top-level-await-in-javascript-441b)
-- [Dev.to/JS] [Code Obfuscation of Javascript code using JScrambler](https://dev.to/krishna121996/code-obfuscation-of-javascript-code-using-jscrambler-2nci)
 - [Crazy Programmer] [5 Ways to Make Money Online as a Programmer](https://www.thecrazyprogrammer.com/2023/07/make-money-online-as-a-programmer.html)
 - [Lifehacker] [Five Ways to Make an Air Mattress Feel Like the Real Thing](https://lifehacker.com/five-ways-to-make-an-air-mattress-feel-like-the-real-th-1850617371)
 - [Lifehacker] [The Best Vegetables to Grow in the Shade](https://lifehacker.com/the-best-vegetables-to-grow-in-the-shade-1850617379)
