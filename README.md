@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Get Currency Exchange rate for FREE](https://dev.to/pawandeore/get-currency-exchange-rate-for-free-179j)
+- [Dev.to/JS] [Introduction to GraphQL for beginners - Apollo Server - part 1](https://dev.to/abdulwaqar844/introduction-to-graphql-for-beginners-apollo-server-part-1-4372)
 - [Dev.to/JS] [From Callback Hell to Elegance: Simplifying Asynchronous Code with Top-Level await in JavaScript.](https://dev.to/shameerchagani/from-callback-hell-to-elegance-simplifying-asynchronous-code-with-top-level-await-in-javascript-441b)
 - [Dev.to/JS] [Code Obfuscation of Javascript code using JScrambler](https://dev.to/krishna121996/code-obfuscation-of-javascript-code-using-jscrambler-2nci)
 - [Dev.to/JS] [Solve: can’t perform a react state update on an unmounted component](https://dev.to/reactjsguru/solve-cant-perform-a-react-state-update-on-an-unmounted-component-582f)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Completely explaining JavaScript Promises, using money 💵](https://dev.to/baohuynhlam/completely-explaining-javascript-promises-using-money-545g)
 - [Dev.to/JS] [Understanding Object Copying: Deep Copy vs. Shallow Copy in JavaScript](https://dev.to/codewithjovana/understanding-object-copying-deep-copy-vs-shallow-copy-in-javascript-2l9e)
 - [Dev.to/JS] [TxtAnime.js open source javascript library](https://dev.to/mohamedfrindi/txtanimejs-open-source-javascript-library-4i16)
-- [Dev.to/JS] [Making Flappy Bird in my Game Engine. How hard can it be?](https://dev.to/lilshake/making-flappy-bird-in-my-game-engine-how-hard-can-it-be-4m61)
 - [Crazy Programmer] [5 Ways to Make Money Online as a Programmer](https://www.thecrazyprogrammer.com/2023/07/make-money-online-as-a-programmer.html)
-- [Dev.to/JS] [Chat Room Project - Christopher Duran](https://dev.to/chriisduran/chat-room-project-christopher-duran-e5e)
 - [Lifehacker] [Five Ways to Make an Air Mattress Feel Like the Real Thing](https://lifehacker.com/five-ways-to-make-an-air-mattress-feel-like-the-real-th-1850617371)
 - [Lifehacker] [The Best Vegetables to Grow in the Shade](https://lifehacker.com/the-best-vegetables-to-grow-in-the-shade-1850617379)
 - [Lifehacker] [Skip the Long Wait for a New Passport at These Events](https://lifehacker.com/skip-the-long-wait-for-a-new-passport-at-these-events-1850617386)
