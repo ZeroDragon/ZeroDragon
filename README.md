@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Where to Watch Marvel&#39;s &#39;Secret Invasion&#39; &lpar;and What You Need to Know Going In&rpar;](https://lifehacker.com/where-to-watch-marvels-secret-invasion-and-what-you-ne-1850615977)
+- [Lifehacker] [Make an Awesome, DIY Water Table for Your Kids This Summer](https://lifehacker.com/make-an-awesome-diy-water-table-for-your-kids-this-sum-1850613449)
+- [Lifehacker] [You Might Want to Get a Flu Shot Early If You’re Pregnant, CDC Says](https://lifehacker.com/you-might-want-to-get-a-flu-shot-early-if-you-re-pregna-1850623507)
 - [Dev.to/JS] [What are your favorite channels to watch tutorials on javascript?](https://dev.to/rodolfoespinosa01/what-are-your-favorite-channels-to-watch-tutorials-on-javascript-3p6h)
 - [Dev.to/JS] [Eventos en Javascript](https://dev.to/beresiartejuan/eventos-en-javascript-3mch)
 - [Lifehacker] [Do You Make Friends at Work?](https://lifehacker.com/do-you-make-friends-at-work-1850595848)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Vegetables to Grow in the Shade](https://lifehacker.com/the-best-vegetables-to-grow-in-the-shade-1850617379)
 - [Lifehacker] [Skip the Long Wait for a New Passport at These Events](https://lifehacker.com/skip-the-long-wait-for-a-new-passport-at-these-events-1850617386)
 - [Lifehacker] [StackSkills Unlimited Courses Are $33 Right Now](https://lifehacker.com/stackskills-unlimited-courses-are-33-right-now-1850589561)
-- [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
-- [Lifehacker] [The Best Early Prime Day Luggage Deals](https://lifehacker.com/the-best-early-prime-day-luggage-deals-1850587001)
-- [Lifehacker] [Target’s Answer to Prime Day Starts July 9](https://lifehacker.com/target-s-answer-to-prime-day-starts-july-9-1850616706)
-- [Lifehacker] [Deleting Threads Is the Least of Your Meta Privacy Concerns](https://lifehacker.com/deleting-threads-is-the-least-of-your-meta-privacy-conc-1850616557)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)<!-- TECH-POSTS:END -->
 
 ---
 
