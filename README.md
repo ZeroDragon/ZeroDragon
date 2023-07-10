@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Take Advantage of Best Buy&#39;s Prime Day Competition Sale](https://lifehacker.com/you-should-take-advantage-of-best-buys-prime-day-compet-1850617105)
+- [Dev.to/JS] [Managing RxJS Traffic with Signals and Suspensify](https://dev.to/this-is-angular/managing-rxjs-traffic-with-signals-and-suspensify-pp)
+- [Dev.to/JS] [Inheritance in JavaScript](https://dev.to/dhrn/inheritance-in-javascript-29kn)
+- [Lifehacker] [How to Make &lpar;and Share&rpar; Your Amazon Wishlist Before Prime Day](https://lifehacker.com/how-to-make-and-share-your-amazon-wishlist-before-pri-1850620369)
+- [Dev.to/JS] [ConnectNovu Hackathon 2023](https://dev.to/novu/connectnovu-hackathon-2023-i2l)
+- [Dev.to/JS] [How To Reduce Page Load Time In JavaScript](https://dev.to/lambdatest/how-to-reduce-page-load-time-in-javascript-2gfm)
+- [Dev.to/JS] [Is Cycling Every Day Bad For Your Legs? https://bicycle2sports.com/is-cycling-every-day-bad-for-your-legs/](https://dev.to/aman_khan_061cdf69a402962/is-cycling-every-day-bad-for-your-legs-3com)
+- [Lifehacker] [Stop Looking at the Stupid Little Dial Thermometer on Your Grill](https://lifehacker.com/stop-looking-at-the-stupid-little-dial-thermometer-on-y-1850616770)
 - [Dev.to/JS] [Recurring payments with SvelteKit + Stripe](https://dev.to/joshnuss/recurring-payments-with-sveltekit-stripe-3d1j)
 - [Dev.to/JS] [How to send email from my Node JS app using my Gmail account?](https://dev.to/mbshehzad/how-to-send-email-from-my-node-js-app-using-my-gmail-account-je)
 - [Dev.to/JS] [Building a Real-Time Project with LWC OSS and LWR](https://dev.to/karkranikhil/building-a-real-time-project-with-lwc-oss-and-lwr-31o9)
@@ -33,11 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Série React Hooks: useSyncExternalStore](https://dev.to/taisesoares/serie-react-hooks-usesyncexternalstore-2lpk)
 - [Dev.to/JS] [Perfboard Designer in Html Canvas](https://dev.to/maurerkrisztian/perfboard-designer-in-html-canvas-mng)
 - [Dev.to/JS] [Parallelism in Nodejs](https://dev.to/divij2599/parallelism-in-nodejs-13k)
-- [Dev.to/JS] [Mastering Asynchronous Programming in JavaScript: Callbacks, Promises, and Async/Await Explained](https://dev.to/cliff123tech/mastering-asynchronous-programming-in-javascript-callbacks-promises-and-asyncawait-explained-1cpe)
-- [Dev.to/JS] [Image Optimization in Vue &amp; Nuxt](https://dev.to/jacobandrewsky/image-optimization-in-vue-nuxt-29hc)
-- [Dev.to/JS] [Pass Your Exam with Ease: Exam Topics Free That Guarantee Results](https://dev.to/examtopicsfree/pass-your-exam-with-ease-exam-topics-free-that-guarantee-results-5fon)
-- [Dev.to/JS] [Keeping your NPM dependencies up-to-date in a visual way with npm-check-updates](https://dev.to/thomasledoux1/keeping-your-npm-dependencies-up-to-date-with-npm-check-updates-4eal)
-- [Dev.to/JS] [Unleashing the Power of GPT-4: Explore the Multimodal AI Revolution in Seconds! 😱](https://dev.to/rishabh062/unleashing-the-power-of-gpt-4-explore-the-multimodal-ai-revolution-in-seconds-20p9)
 - [Lifehacker] [Five Ways to Keep Your Car&#39;s Interior Cooler in the Summer](https://lifehacker.com/five-ways-to-keep-your-cars-interior-cooler-in-the-summ-1850619152)
 - [Lifehacker] [The Best Ways to Stop Your Smoke Detector From Going Off While Cooking](https://lifehacker.com/the-best-ways-to-stop-your-smoke-detector-from-going-of-1850619154)
 - [Lifehacker] [Three Clues That a House Will Be For Sale Soon](https://lifehacker.com/three-clues-that-a-house-will-be-for-sale-soon-1850619169)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Early Prime Day Deals on Outdoor Gear](https://lifehacker.com/the-best-early-prime-day-deals-on-outdoor-gear-1850545095)
 - [Lifehacker] [You Can Get This Stock Screening App for Over 80% Off](https://lifehacker.com/you-can-get-this-stock-screening-app-for-over-80-off-1850589570)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Threw a Fleshlight at Lil Nas X?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-threw-1850613328)
-- [Lifehacker] [Low-Carb Cauliflower Arancini Are Actually Amazing](https://lifehacker.com/low-carb-cauliflower-arancini-are-actually-amazing-1850612036)
-- [Lifehacker] [These BirdBike eBikes Are 60% Off Right Now](https://lifehacker.com/these-birdbike-ebikes-are-60-off-right-now-1850589553)
-- [Lifehacker] [This &#39;IRS Letter&#39; Is a Scam](https://lifehacker.com/this-irs-letter-is-a-scam-1850610120)
-- [Lifehacker] [The Case For Smoking Your Chicken in Pieces](https://lifehacker.com/the-case-for-smoking-your-chicken-in-pieces-1850611750)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Low-Carb Cauliflower Arancini Are Actually Amazing](https://lifehacker.com/low-carb-cauliflower-arancini-are-actually-amazing-1850612036)<!-- TECH-POSTS:END -->
 
 ---
 
