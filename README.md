@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are your favorite channels to watch tutorials on javascript?](https://dev.to/rodolfoespinosa01/what-are-your-favorite-channels-to-watch-tutorials-on-javascript-3p6h)
+- [Dev.to/JS] [Eventos en Javascript](https://dev.to/beresiartejuan/eventos-en-javascript-3mch)
+- [Lifehacker] [Do You Make Friends at Work?](https://lifehacker.com/do-you-make-friends-at-work-1850595848)
+- [Lifehacker] [This One-Time Wine Delivery Sends You 15 Bottles for $60, Plus Shipping](https://lifehacker.com/this-one-time-wine-delivery-sends-you-15-bottles-for-6-1850612302)
 - [Dev.to/JS] [Demystifying Server-Side Rendering in Next JS: A Beginner&#39;s Guide](https://dev.to/iamkelv/demystifying-server-side-rendering-in-next-js-a-beginners-guide-55lh)
 - [Dev.to/JS] [Mutable And Immutable Values in Javascript](https://dev.to/vasilgvasilev/mutable-and-immutable-values-in-javascript-1eho)
 - [Lifehacker] [Make Better Sandwiches, Toasts, and Crostini With a Quick Garlic Rub](https://lifehacker.com/make-better-sandwiches-toasts-and-crostini-with-a-qui-1850622342)
@@ -42,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Debounce, Easiest explanation !&lpar;with Code&rpar;](https://dev.to/jeetvora331/javascript-debounce-easiest-explanation--29hc)
 - [Dev.to/JS] [👨‍💻 Why passing GIFs in HTML&#39;s &lt;img /&gt; tag is acceptable by browsers but not the video file? 🗃](https://dev.to/rounit08/why-passing-gifs-in-htmls-tag-is-acceptable-by-browsers-but-not-the-video-file-10e0)
 - [Lifehacker] [How to Set Your Own Prices for Amazon Prime Day &lpar;Because You Definitely Should&rpar;](https://lifehacker.com/how-to-set-your-own-prices-for-amazon-prime-day-and-wh-1849158967)
-- [Dev.to/JS] [JavaScript and its many Framework](https://dev.to/scofieldidehen/javascript-and-its-many-framework-f8e)
-- [Dev.to/JS] [130+ avatars for your projects](https://dev.to/alohe/130-avatars-for-your-projects-31o4)
 - [Lifehacker] [Amazon Prime Day Discounts Aren&#39;t As Big As They Seem](https://lifehacker.com/amazon-prime-day-discounts-arent-as-big-as-they-seem-1849158394)
 - [Lifehacker] [A Lifetime Subscription to Headway Is 80% Off Right Now](https://lifehacker.com/a-lifetime-subscription-to-headway-is-80-off-right-now-1850589582)
 - [Lifehacker] [10 Podcasts Guaranteed to Make You Ugly Cry](https://lifehacker.com/10-podcasts-guaranteed-to-make-you-ugly-cry-1850618717)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)
 - [Lifehacker] [The Best Early Prime Day Luggage Deals](https://lifehacker.com/the-best-early-prime-day-luggage-deals-1850587001)
 - [Lifehacker] [Target’s Answer to Prime Day Starts July 9](https://lifehacker.com/target-s-answer-to-prime-day-starts-july-9-1850616706)
-- [Lifehacker] [Deleting Threads Is the Least of Your Meta Privacy Concerns](https://lifehacker.com/deleting-threads-is-the-least-of-your-meta-privacy-conc-1850616557)
-- [Lifehacker] [Where It’s Legal to Scatter Ashes &lpar;and Where It Isn’t&rpar;](https://lifehacker.com/where-it-s-legal-to-scatter-ashes-and-where-it-isn-t-1850616393)
-- [Lifehacker] [You Can&#39;t Avoid &#39;Forever Chemicals,&#39; but You Can Lower Your Exposure](https://lifehacker.com/you-cant-avoid-forever-chemicals-but-you-can-lower-you-1850616272)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Deleting Threads Is the Least of Your Meta Privacy Concerns](https://lifehacker.com/deleting-threads-is-the-least-of-your-meta-privacy-conc-1850616557)<!-- TECH-POSTS:END -->
 
 ---
 
