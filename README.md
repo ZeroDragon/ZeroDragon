@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript can now so much more - enter GRIDNET OS - the very first decentralized operating system!](https://dev.to/gridnetproject/javascript-can-now-so-much-more-enter-gridnet-os-the-very-first-decentralized-operating-system-8jd)
+- [Dev.to/JS] [Get Multiple Checkbox Value If Checked.](https://dev.to/maketechstuff/get-multiple-checkbox-value-if-checked-6a0)
+- [Dev.to/JS] [VALID ANAGRAM LEETCODE SOLUTION C++ WITH OPTIMISED SOLUTION](https://dev.to/ruparani777/valid-anagram-leetcode-solution-c-with-optimised-solution-35i4)
 - [Dev.to/JS] [What Are Your Favorite JavaScript Libraries &amp; Frameworks?](https://dev.to/devteam/what-are-your-favorite-javascript-libraries-frameworks-11ha)
 - [Dev.to/JS] [How to Implement Feature Gates in React?](https://dev.to/eshankvaish/how-to-implement-feature-gates-in-react-980)
 - [Dev.to/JS] [Javascript promise in depth: examples](https://dev.to/vijendra/javascript-promise-in-depth-examples-2kk0)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Character counter using javascript.](https://dev.to/maketechstuff/character-counter-using-javascript-2f2d)
 - [Dev.to/JS] [Can Django be Used for Frontend?](https://dev.to/s-nidhin/can-django-be-used-for-frontend-4467)
 - [Dev.to/JS] [JavaScript - copyWithin&lpar;&rpar; Method](https://dev.to/kristiyan_velkov/javascript-copywithin-method-59ej)
-- [Dev.to/JS] [GUIA ANGULAR - ENTENDENDO DATA BINDING](https://dev.to/danielcamucatto/guia-angular-entendendo-data-binding-16jj)
-- [Dev.to/JS] [Level Up Your Chatbots with OpenAI Function Calling](https://dev.to/stonediggity/level-up-your-chatbots-with-openai-function-calling-1a8b)
-- [Dev.to/JS] [Understanding the difference between interfaces, classes, and objects in JavaScript](https://dev.to/babafemijk/understanding-the-difference-between-interfaces-classes-and-objects-in-javascript-2g3m)
 - [Lifehacker] [Five Ways to Keep Your Car&#39;s Interior Cooler in the Summer](https://lifehacker.com/five-ways-to-keep-your-cars-interior-cooler-in-the-summ-1850619152)
 - [Lifehacker] [The Best Ways to Stop Your Smoke Detector From Going Off While Cooking](https://lifehacker.com/the-best-ways-to-stop-your-smoke-detector-from-going-of-1850619154)
 - [Lifehacker] [Three Clues That a House Will Be For Sale Soon](https://lifehacker.com/three-clues-that-a-house-will-be-for-sale-soon-1850619169)
