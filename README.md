@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Perfboard Designer in Html Canvas](https://dev.to/maurerkrisztian/perfboard-designer-in-html-canvas-mng)
+- [Dev.to/JS] [Parallelism in Nodejs](https://dev.to/divij2599/parallelism-in-nodejs-13k)
 - [Dev.to/JS] [Mastering Asynchronous Programming in JavaScript: Callbacks, Promises, and Async/Await Explained](https://dev.to/cliff123tech/mastering-asynchronous-programming-in-javascript-callbacks-promises-and-asyncawait-explained-1cpe)
 - [Dev.to/JS] [Image Optimization in Vue &amp; Nuxt](https://dev.to/jacobandrewsky/image-optimization-in-vue-nuxt-29hc)
 - [Dev.to/JS] [Pass Your Exam with Ease: Exam Topics Free That Guarantee Results](https://dev.to/examtopicsfree/pass-your-exam-with-ease-exam-topics-free-that-guarantee-results-5fon)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [tRPC vs GraphQL – Why tRPC Finally Fixes the Type Safety Hassle](https://dev.to/brainhub_eu/trpc-vs-graphql-why-trpc-finally-fixes-the-type-safety-hassle-22id)
 - [Dev.to/JS] [#LearnedToday: MSWjs](https://dev.to/danielzotti/learnedtoday-mswjs-mh6)
 - [Dev.to/JS] [JavaScript can now so much more - enter GRIDNET OS - the very first decentralized operating system!](https://dev.to/gridnetproject/javascript-can-now-so-much-more-enter-gridnet-os-the-very-first-decentralized-operating-system-8jd)
-- [Dev.to/JS] [Get Multiple Checkbox Value If Checked.](https://dev.to/maketechstuff/get-multiple-checkbox-value-if-checked-6a0)
-- [Dev.to/JS] [VALID ANAGRAM LEETCODE SOLUTION C++ WITH OPTIMISED SOLUTION](https://dev.to/ruparani777/valid-anagram-leetcode-solution-c-with-optimised-solution-35i4)
 - [Lifehacker] [Five Ways to Keep Your Car&#39;s Interior Cooler in the Summer](https://lifehacker.com/five-ways-to-keep-your-cars-interior-cooler-in-the-summ-1850619152)
 - [Lifehacker] [The Best Ways to Stop Your Smoke Detector From Going Off While Cooking](https://lifehacker.com/the-best-ways-to-stop-your-smoke-detector-from-going-of-1850619154)
 - [Lifehacker] [Three Clues That a House Will Be For Sale Soon](https://lifehacker.com/three-clues-that-a-house-will-be-for-sale-soon-1850619169)
