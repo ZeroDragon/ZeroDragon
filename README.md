@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding the difference between interfaces, classes, and objects in JavaScript](https://dev.to/babafemijk/understanding-the-difference-between-interfaces-classes-and-objects-in-javascript-2g3m)
+- [Dev.to/JS] [NestJS tip: how to inject multiple versions of the same provider into one module &lpar;e.g.: many Axios instances&rpar;](https://dev.to/micalevisk/nestjs-tip-how-to-inject-multiple-versions-of-the-same-provider-into-one-module-eg-many-axios-instances-5agc)
 - [Dev.to/JS] [Phase 1](https://dev.to/aosorio10/phase-1-54nn)
 - [Dev.to/JS] [Autenticación en 2 factores via SMS con Nest.js, PostgreSQL y Twilio](https://dev.to/losarcosdev/autenticacion-en-2-factores-via-sms-con-nestjs-postgresql-y-twilio-1mmd)
 - [Dev.to/JS] [Implementing Routing in React, a Step by Step Approach](https://dev.to/lukap/implementing-routing-in-react-a-step-by-step-approach-26hm)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Retos JS. Calculando factoriales muy grandes con JS.](https://dev.to/jorgeabad/retos-js-calculando-factoriales-muy-grandes-con-js-53ao)
 - [Dev.to/JS] [Create ToDo List with Vue.js](https://dev.to/syedmuhammadaliraza/create-todo-list-with-vuejs-39m)
 - [Dev.to/JS] [Developed an Online Video Editor which Requires No Uploads Prior Editing](https://dev.to/khuramhaf/developed-an-online-video-editor-which-requires-no-uploads-prior-editing-34e3)
-- [Dev.to/JS] [11 Ways to Improve Your Technical Resume](https://dev.to/mohammadfaisal/11-ways-to-improve-your-technical-resume-40de)
-- [Dev.to/JS] [Started a New Project - Online Graphic Editor.](https://dev.to/khuramhaf/started-a-new-project-online-graphic-editor-1cbm)
 - [Lifehacker] [Five Ways to Keep Your Car&#39;s Interior Cooler in the Summer](https://lifehacker.com/five-ways-to-keep-your-cars-interior-cooler-in-the-summ-1850619152)
 - [Lifehacker] [The Best Ways to Stop Your Smoke Detector From Going Off While Cooking](https://lifehacker.com/the-best-ways-to-stop-your-smoke-detector-from-going-of-1850619154)
 - [Lifehacker] [Three Clues That a House Will Be For Sale Soon](https://lifehacker.com/three-clues-that-a-house-will-be-for-sale-soon-1850619169)
