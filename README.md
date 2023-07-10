@@ -26,11 +26,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Must-Read Tech Newsletters for Software Engineers](https://dev.to/bigtechdigest/7-must-read-tech-newsletters-for-software-engineers-234b)
+- [Dev.to/JS] [JavaScript Debounce, Easiest explanation !&lpar;with Code&rpar;](https://dev.to/jeetvora331/javascript-debounce-easiest-explanation--29hc)
+- [Dev.to/JS] [👨‍💻 Why passing GIFs in HTML&#39;s &lt;img /&gt; tag is acceptable by browsers but not the video file? 🗃](https://dev.to/rounit08/why-passing-gifs-in-htmls-tag-is-acceptable-by-browsers-but-not-the-video-file-10e0)
+- [Lifehacker] [How to Set Your Own Prices for Amazon Prime Day &lpar;Because You Definitely Should&rpar;](https://lifehacker.com/how-to-set-your-own-prices-for-amazon-prime-day-and-wh-1849158967)
+- [Dev.to/JS] [JavaScript and its many Framework](https://dev.to/scofieldidehen/javascript-and-its-many-framework-f8e)
 - [Dev.to/JS] [130+ avatars for your projects](https://dev.to/alohe/130-avatars-for-your-projects-31o4)
 - [Lifehacker] [Amazon Prime Day Discounts Aren&#39;t As Big As They Seem](https://lifehacker.com/amazon-prime-day-discounts-arent-as-big-as-they-seem-1849158394)
 - [Dev.to/JS] [Simplificando Feature Flags com DevCycle](https://dev.to/klauskpm/simplificando-feature-flags-com-devcycle-2mgo)
 - [Dev.to/JS] [List of JavaScript Frameworks in 2023](https://dev.to/arsalanmee/list-of-javascript-frameworks-in-2023-1d2n)
 - [Lifehacker] [A Lifetime Subscription to Headway Is 80% Off Right Now](https://lifehacker.com/a-lifetime-subscription-to-headway-is-80-off-right-now-1850589582)
+- [Dev.to/JS] [Powering Rapid Data Applications Using Your Data Warehouse With VulcanSQL](https://dev.to/wwwy3y3/powering-rapid-data-applications-using-your-data-warehouse-with-vulcansql-1mng)
 - [Dev.to/JS] [An Introduction to TypeScript: Building a Simple Todo App with React](https://dev.to/w3tsa/an-introduction-to-typescript-building-a-simple-todo-app-with-react-1m2d)
 - [Lifehacker] [10 Podcasts Guaranteed to Make You Ugly Cry](https://lifehacker.com/10-podcasts-guaranteed-to-make-you-ugly-cry-1850618717)
 - [Dev.to/JS] [Why You Should Understand Closures To Master .reduce&lpar;&rpar;](https://dev.to/vasilgvasilev/why-you-need-to-understand-closures-to-fully-master-reduce-7ac)
@@ -38,12 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding dependencies and dev-dependencies: Beginner’s Guide](https://dev.to/tijan_io/understanding-dependencies-and-dev-dependencies-beginners-guide-248h)
 - [Lifehacker] [You Can Finally Auto-Mute TikTok](https://lifehacker.com/you-can-finally-auto-mute-tiktok-1850620780)
 - [Lifehacker] [How to Share Your Amazon Prime Membership With Family &lpar;Even If You Don&#39;t Live Together&rpar;](https://lifehacker.com/how-to-share-your-amazon-prime-membership-with-family-1850619029)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, Jul 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-jul-2023-1931)
-- [Dev.to/JS] [Integrating a chatbot into your Nodejs API using Dialogflow](https://dev.to/realsteveig/integrating-a-chatbot-into-your-nodejs-api-using-dialogflow-1dpn)
 - [Lifehacker] [You Should Take Advantage of Best Buy&#39;s Prime Day Competition Sale](https://lifehacker.com/you-should-take-advantage-of-best-buys-prime-day-compet-1850617105)
-- [Dev.to/JS] [Consuming Web Streams with useState, SWR and React Query](https://dev.to/fibonacid/consuming-web-streams-with-usestate-swr-and-react-query-3mjf)
-- [Dev.to/JS] [Managing RxJS Traffic with Signals and Suspensify](https://dev.to/this-is-angular/managing-rxjs-traffic-with-signals-and-suspensify-pp)
-- [Dev.to/JS] [Inheritance in JavaScript](https://dev.to/dhrn/inheritance-in-javascript-29kn)
 - [Lifehacker] [How to Make &lpar;and Share&rpar; Your Amazon Wishlist Before Prime Day](https://lifehacker.com/how-to-make-and-share-your-amazon-wishlist-before-pri-1850620369)
 - [Lifehacker] [Stop Looking at the Stupid Little Dial Thermometer on Your Grill](https://lifehacker.com/stop-looking-at-the-stupid-little-dial-thermometer-on-y-1850616770)
 - [Lifehacker] [Five Ways to Keep Your Car&#39;s Interior Cooler in the Summer](https://lifehacker.com/five-ways-to-keep-your-cars-interior-cooler-in-the-summ-1850619152)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Spend Your Summer Produce on This Cold Ramen Salad](https://lifehacker.com/highlight-summer-produce-in-a-cold-ramen-salad-1850615795)
 - [Lifehacker] [How to Delete Threads Without Losing Your Instagram](https://lifehacker.com/how-to-delete-threads-without-losing-your-instagram-1850615571)
 - [Lifehacker] [The Only Good Advice for Shopping on Amazon Prime Day](https://lifehacker.com/the-only-good-advice-for-shopping-amazon-prime-day-1849154608)
-- [Lifehacker] [Seven Things You Didn’t Know You Could Build From a Kit](https://lifehacker.com/seven-things-you-didn-t-know-you-could-build-from-a-kit-1850615193)
-- [Lifehacker] [Try &#39;Habit Stacking&#39; to Be More Productive](https://lifehacker.com/try-habit-stacking-to-be-more-productive-1850614842)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Seven Things You Didn’t Know You Could Build From a Kit](https://lifehacker.com/seven-things-you-didn-t-know-you-could-build-from-a-kit-1850615193)<!-- TECH-POSTS:END -->
 
 ---
 
