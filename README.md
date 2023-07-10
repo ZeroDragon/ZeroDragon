@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quantum Code - Price, Benefits, Reviews And Results?](https://dev.to/quantumcod15333/quantum-code-price-benefits-reviews-and-results-2a8f)
+- [Dev.to/JS] [JavaScript and React Interview questions &lpar;Junior/Mid-level&rpar; 2023](https://dev.to/muhammadazfaraslam/javascript-and-react-interview-questions-juniormid-level-2023-hd1)
 - [Dev.to/JS] [Master Git and GitHub in 5 Hours](https://dev.to/farhadi/master-git-and-github-in-5-hours-2cje)
 - [Dev.to/JS] [Character counter using javascript.](https://dev.to/maketechstuff/character-counter-using-javascript-2f2d)
 - [Dev.to/JS] [Can Django be Used for Frontend?](https://dev.to/s-nidhin/can-django-be-used-for-frontend-4467)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [NestJS tip: how to inject multiple versions of the same provider into one module &lpar;e.g.: many Axios instances&rpar;](https://dev.to/micalevisk/nestjs-tip-how-to-inject-multiple-versions-of-the-same-provider-into-one-module-eg-many-axios-instances-5agc)
 - [Dev.to/JS] [Phase 1](https://dev.to/aosorio10/phase-1-54nn)
 - [Dev.to/JS] [Autenticación en 2 factores via SMS con Nest.js, PostgreSQL y Twilio](https://dev.to/losarcosdev/autenticacion-en-2-factores-via-sms-con-nestjs-postgresql-y-twilio-1mmd)
-- [Dev.to/JS] [Implementing Routing in React, a Step by Step Approach](https://dev.to/lukap/implementing-routing-in-react-a-step-by-step-approach-26hm)
-- [Dev.to/JS] [TypeSafe Testing in Backends-for-Frontends](https://dev.to/slickstef11/typesafe-testing-in-backends-for-frontends-32dn)
 - [Lifehacker] [Five Ways to Keep Your Car&#39;s Interior Cooler in the Summer](https://lifehacker.com/five-ways-to-keep-your-cars-interior-cooler-in-the-summ-1850619152)
 - [Lifehacker] [The Best Ways to Stop Your Smoke Detector From Going Off While Cooking](https://lifehacker.com/the-best-ways-to-stop-your-smoke-detector-from-going-of-1850619154)
 - [Lifehacker] [Three Clues That a House Will Be For Sale Soon](https://lifehacker.com/three-clues-that-a-house-will-be-for-sale-soon-1850619169)
