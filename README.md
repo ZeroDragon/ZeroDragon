@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Demystifying Server-Side Rendering in Next JS: A Beginner&#39;s Guide](https://dev.to/iamkelv/demystifying-server-side-rendering-in-next-js-a-beginners-guide-55lh)
+- [Dev.to/JS] [Mutable And Immutable Values in Javascript](https://dev.to/vasilgvasilev/mutable-and-immutable-values-in-javascript-1eho)
+- [Lifehacker] [Make Better Sandwiches, Toasts, and Crostini With a Quick Garlic Rub](https://lifehacker.com/make-better-sandwiches-toasts-and-crostini-with-a-qui-1850622342)
+- [Dev.to/JS] [Ocupando reduce&lpar;&rpar; y some&lpar;&rpar; en JavaScript](https://dev.to/ulisesserranop/ocupando-reduce-y-some-en-javascript-3jb3)
+- [Dev.to/JS] [How to check if an Object is instance of a Class - Javascript](https://dev.to/henriquejensen/how-to-check-if-an-object-is-instance-of-a-class-javascript-3n73)
 - [Lifehacker] [You Can Probably Fix Your Stove’s Broken Burner Yourself](https://lifehacker.com/you-can-probably-fix-your-stove-s-broken-burner-yoursel-1850621869)
 - [Lifehacker] [You Can Schedule Your Amazon Prime Membership to Automatically Cancel After Prime Day](https://lifehacker.com/you-can-schedule-your-amazon-prime-membership-to-automa-1850619291)
 - [Dev.to/JS] [In the Footsteps of Poul Gernes — Making an Interactive Art Poster](https://dev.to/madsstoumann/in-the-footsteps-of-poul-gernes-making-an-interactive-art-poster-5580)
@@ -40,11 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript and its many Framework](https://dev.to/scofieldidehen/javascript-and-its-many-framework-f8e)
 - [Dev.to/JS] [130+ avatars for your projects](https://dev.to/alohe/130-avatars-for-your-projects-31o4)
 - [Lifehacker] [Amazon Prime Day Discounts Aren&#39;t As Big As They Seem](https://lifehacker.com/amazon-prime-day-discounts-arent-as-big-as-they-seem-1849158394)
-- [Dev.to/JS] [Simplificando Feature Flags com DevCycle](https://dev.to/klauskpm/simplificando-feature-flags-com-devcycle-2mgo)
-- [Dev.to/JS] [List of JavaScript Frameworks in 2023](https://dev.to/arsalanmee/list-of-javascript-frameworks-in-2023-1d2n)
 - [Lifehacker] [A Lifetime Subscription to Headway Is 80% Off Right Now](https://lifehacker.com/a-lifetime-subscription-to-headway-is-80-off-right-now-1850589582)
-- [Dev.to/JS] [Powering Rapid Data Applications Using Your Data Warehouse With VulcanSQL](https://dev.to/wwwy3y3/powering-rapid-data-applications-using-your-data-warehouse-with-vulcansql-1mng)
-- [Dev.to/JS] [An Introduction to TypeScript: Building a Simple Todo App with React](https://dev.to/w3tsa/an-introduction-to-typescript-building-a-simple-todo-app-with-react-1m2d)
 - [Lifehacker] [10 Podcasts Guaranteed to Make You Ugly Cry](https://lifehacker.com/10-podcasts-guaranteed-to-make-you-ugly-cry-1850618717)
 - [Lifehacker] [You Can Finally Auto-Mute TikTok](https://lifehacker.com/you-can-finally-auto-mute-tiktok-1850620780)
 - [Lifehacker] [How to Share Your Amazon Prime Membership With Family &lpar;Even If You Don&#39;t Live Together&rpar;](https://lifehacker.com/how-to-share-your-amazon-prime-membership-with-family-1850619029)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Target’s Answer to Prime Day Starts July 9](https://lifehacker.com/target-s-answer-to-prime-day-starts-july-9-1850616706)
 - [Lifehacker] [Deleting Threads Is the Least of Your Meta Privacy Concerns](https://lifehacker.com/deleting-threads-is-the-least-of-your-meta-privacy-conc-1850616557)
 - [Lifehacker] [Where It’s Legal to Scatter Ashes &lpar;and Where It Isn’t&rpar;](https://lifehacker.com/where-it-s-legal-to-scatter-ashes-and-where-it-isn-t-1850616393)
-- [Lifehacker] [You Can&#39;t Avoid &#39;Forever Chemicals,&#39; but You Can Lower Your Exposure](https://lifehacker.com/you-cant-avoid-forever-chemicals-but-you-can-lower-you-1850616272)
-- [Lifehacker] [Air Fry Bacon-Wrapped Watermelon for an Intriguing Salad](https://lifehacker.com/air-fry-bacon-wrapped-watermelon-for-an-intriguing-sala-1850616284)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can&#39;t Avoid &#39;Forever Chemicals,&#39; but You Can Lower Your Exposure](https://lifehacker.com/you-cant-avoid-forever-chemicals-but-you-can-lower-you-1850616272)<!-- TECH-POSTS:END -->
 
 ---
 
