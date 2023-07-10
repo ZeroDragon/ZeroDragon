@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Observability Into DynamoDB With OpenTelemetry in Node](https://dev.to/telemetryhub/getting-observability-into-dynamodb-with-opentelemetry-in-node-mnd)
+- [Dev.to/JS] [RxJS Operators: bufferCount](https://dev.to/drownedintech/rxjs-operators-buffercount-4m30)
 - [Lifehacker] [Where to Watch Marvel&#39;s &#39;Secret Invasion&#39; &lpar;and What You Need to Know Going In&rpar;](https://lifehacker.com/where-to-watch-marvels-secret-invasion-and-what-you-ne-1850615977)
 - [Lifehacker] [Make an Awesome, DIY Water Table for Your Kids This Summer](https://lifehacker.com/make-an-awesome-diy-water-table-for-your-kids-this-sum-1850613449)
 - [Lifehacker] [You Might Want to Get a Flu Shot Early If You’re Pregnant, CDC Says](https://lifehacker.com/you-might-want-to-get-a-flu-shot-early-if-you-re-pregna-1850623507)
@@ -46,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&lpar;Polyfill Array.prototype.flat&lpar;&rpar;&rpar; Daily Frontend Problem: #5 [Easy]](https://dev.to/chandrapenugonda/polyfill-arrayprototypeflat-daily-frontend-problem-5-easy-52d5)
 - [Dev.to/JS] [7 Must-Read Tech Newsletters for Software Engineers](https://dev.to/bigtechdigest/7-must-read-tech-newsletters-for-software-engineers-234b)
 - [Lifehacker] [Crispy Cheese Lovers Rejoice, You Can Frico Your Pancakes](https://lifehacker.com/crispy-cheese-lovers-rejoice-you-can-frico-your-pancak-1850621284)
-- [Dev.to/JS] [JavaScript Debounce, Easiest explanation !&lpar;with Code&rpar;](https://dev.to/jeetvora331/javascript-debounce-easiest-explanation--29hc)
-- [Dev.to/JS] [👨‍💻 Why passing GIFs in HTML&#39;s &lt;img /&gt; tag is acceptable by browsers but not the video file? 🗃](https://dev.to/rounit08/why-passing-gifs-in-htmls-tag-is-acceptable-by-browsers-but-not-the-video-file-10e0)
 - [Lifehacker] [How to Set Your Own Prices for Amazon Prime Day &lpar;Because You Definitely Should&rpar;](https://lifehacker.com/how-to-set-your-own-prices-for-amazon-prime-day-and-wh-1849158967)
 - [Lifehacker] [Amazon Prime Day Discounts Aren&#39;t As Big As They Seem](https://lifehacker.com/amazon-prime-day-discounts-arent-as-big-as-they-seem-1849158394)
 - [Lifehacker] [A Lifetime Subscription to Headway Is 80% Off Right Now](https://lifehacker.com/a-lifetime-subscription-to-headway-is-80-off-right-now-1850589582)
