@@ -26,7 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Probably Fix Your Stove’s Broken Burner Yourself](https://lifehacker.com/you-can-probably-fix-your-stove-s-broken-burner-yoursel-1850621869)
+- [Lifehacker] [You Can Schedule Your Amazon Prime Membership to Automatically Cancel After Prime Day](https://lifehacker.com/you-can-schedule-your-amazon-prime-membership-to-automa-1850619291)
+- [Dev.to/JS] [In the Footsteps of Poul Gernes — Making an Interactive Art Poster](https://dev.to/madsstoumann/in-the-footsteps-of-poul-gernes-making-an-interactive-art-poster-5580)
+- [Dev.to/JS] [Currying Step-By-Step](https://dev.to/vasilgvasilev/currying-step-by-step-5eb2)
+- [Lifehacker] [9 of the Most Useful Overlooked Apple Watch Features, According to Reddit](https://lifehacker.com/9-of-the-most-useful-overlooked-apple-watch-features-a-1850621005)
+- [Dev.to/JS] [&lpar;Polyfill Array.prototype.flat&lpar;&rpar;&rpar; Daily Frontend Problem: #5 [Easy]](https://dev.to/chandrapenugonda/polyfill-arrayprototypeflat-daily-frontend-problem-5-easy-52d5)
 - [Dev.to/JS] [7 Must-Read Tech Newsletters for Software Engineers](https://dev.to/bigtechdigest/7-must-read-tech-newsletters-for-software-engineers-234b)
+- [Lifehacker] [Crispy Cheese Lovers Rejoice, You Can Frico Your Pancakes](https://lifehacker.com/crispy-cheese-lovers-rejoice-you-can-frico-your-pancak-1850621284)
 - [Dev.to/JS] [JavaScript Debounce, Easiest explanation !&lpar;with Code&rpar;](https://dev.to/jeetvora331/javascript-debounce-easiest-explanation--29hc)
 - [Dev.to/JS] [👨‍💻 Why passing GIFs in HTML&#39;s &lt;img /&gt; tag is acceptable by browsers but not the video file? 🗃](https://dev.to/rounit08/why-passing-gifs-in-htmls-tag-is-acceptable-by-browsers-but-not-the-video-file-10e0)
 - [Lifehacker] [How to Set Your Own Prices for Amazon Prime Day &lpar;Because You Definitely Should&rpar;](https://lifehacker.com/how-to-set-your-own-prices-for-amazon-prime-day-and-wh-1849158967)
@@ -39,9 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Powering Rapid Data Applications Using Your Data Warehouse With VulcanSQL](https://dev.to/wwwy3y3/powering-rapid-data-applications-using-your-data-warehouse-with-vulcansql-1mng)
 - [Dev.to/JS] [An Introduction to TypeScript: Building a Simple Todo App with React](https://dev.to/w3tsa/an-introduction-to-typescript-building-a-simple-todo-app-with-react-1m2d)
 - [Lifehacker] [10 Podcasts Guaranteed to Make You Ugly Cry](https://lifehacker.com/10-podcasts-guaranteed-to-make-you-ugly-cry-1850618717)
-- [Dev.to/JS] [Why You Should Understand Closures To Master .reduce&lpar;&rpar;](https://dev.to/vasilgvasilev/why-you-need-to-understand-closures-to-fully-master-reduce-7ac)
-- [Dev.to/JS] [Building feature-rich &lt;select&gt; dropdowns in React](https://dev.to/iraklitchiglad5/building-feature-rich-dropdowns-in-react-16j2)
-- [Dev.to/JS] [Understanding dependencies and dev-dependencies: Beginner’s Guide](https://dev.to/tijan_io/understanding-dependencies-and-dev-dependencies-beginners-guide-248h)
 - [Lifehacker] [You Can Finally Auto-Mute TikTok](https://lifehacker.com/you-can-finally-auto-mute-tiktok-1850620780)
 - [Lifehacker] [How to Share Your Amazon Prime Membership With Family &lpar;Even If You Don&#39;t Live Together&rpar;](https://lifehacker.com/how-to-share-your-amazon-prime-membership-with-family-1850619029)
 - [Lifehacker] [You Should Take Advantage of Best Buy&#39;s Prime Day Competition Sale](https://lifehacker.com/you-should-take-advantage-of-best-buys-prime-day-compet-1850617105)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Deleting Threads Is the Least of Your Meta Privacy Concerns](https://lifehacker.com/deleting-threads-is-the-least-of-your-meta-privacy-conc-1850616557)
 - [Lifehacker] [Where It’s Legal to Scatter Ashes &lpar;and Where It Isn’t&rpar;](https://lifehacker.com/where-it-s-legal-to-scatter-ashes-and-where-it-isn-t-1850616393)
 - [Lifehacker] [You Can&#39;t Avoid &#39;Forever Chemicals,&#39; but You Can Lower Your Exposure](https://lifehacker.com/you-cant-avoid-forever-chemicals-but-you-can-lower-you-1850616272)
-- [Lifehacker] [Air Fry Bacon-Wrapped Watermelon for an Intriguing Salad](https://lifehacker.com/air-fry-bacon-wrapped-watermelon-for-an-intriguing-sala-1850616284)
-- [Lifehacker] [Spend Your Summer Produce on This Cold Ramen Salad](https://lifehacker.com/highlight-summer-produce-in-a-cold-ramen-salad-1850615795)
-- [Lifehacker] [How to Delete Threads Without Losing Your Instagram](https://lifehacker.com/how-to-delete-threads-without-losing-your-instagram-1850615571)
-- [Lifehacker] [The Only Good Advice for Shopping on Amazon Prime Day](https://lifehacker.com/the-only-good-advice-for-shopping-amazon-prime-day-1849154608)
-- [Lifehacker] [Seven Things You Didn’t Know You Could Build From a Kit](https://lifehacker.com/seven-things-you-didn-t-know-you-could-build-from-a-kit-1850615193)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Air Fry Bacon-Wrapped Watermelon for an Intriguing Salad](https://lifehacker.com/air-fry-bacon-wrapped-watermelon-for-an-intriguing-sala-1850616284)<!-- TECH-POSTS:END -->
 
 ---
 
