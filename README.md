@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typerorr HtmlDom](https://dev.to/zedcodo/typerorr-htmldom-413m)
+- [Lifehacker] [Get a Lifetime Subscription to Microsoft Office on Mac for $30](https://lifehacker.com/get-a-lifetime-subscription-to-microsoft-office-on-mac-1850589595)
+- [Dev.to/JS] [Simple JavaScript Challenges with solutions](https://dev.to/bansikah/simple-javascript-challenges-with-solutions-24)
 - [Dev.to/JS] [Getting Observability Into DynamoDB With OpenTelemetry in Node](https://dev.to/telemetryhub/getting-observability-into-dynamodb-with-opentelemetry-in-node-mnd)
 - [Dev.to/JS] [RxJS Operators: bufferCount](https://dev.to/drownedintech/rxjs-operators-buffercount-4m30)
 - [Lifehacker] [Where to Watch Marvel&#39;s &#39;Secret Invasion&#39; &lpar;and What You Need to Know Going In&rpar;](https://lifehacker.com/where-to-watch-marvels-secret-invasion-and-what-you-ne-1850615977)
@@ -45,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [In the Footsteps of Poul Gernes — Making an Interactive Art Poster](https://dev.to/madsstoumann/in-the-footsteps-of-poul-gernes-making-an-interactive-art-poster-5580)
 - [Dev.to/JS] [Currying Step-By-Step](https://dev.to/vasilgvasilev/currying-step-by-step-5eb2)
 - [Lifehacker] [9 of the Most Useful Overlooked Apple Watch Features, According to Reddit](https://lifehacker.com/9-of-the-most-useful-overlooked-apple-watch-features-a-1850621005)
-- [Dev.to/JS] [&lpar;Polyfill Array.prototype.flat&lpar;&rpar;&rpar; Daily Frontend Problem: #5 [Easy]](https://dev.to/chandrapenugonda/polyfill-arrayprototypeflat-daily-frontend-problem-5-easy-52d5)
-- [Dev.to/JS] [7 Must-Read Tech Newsletters for Software Engineers](https://dev.to/bigtechdigest/7-must-read-tech-newsletters-for-software-engineers-234b)
 - [Lifehacker] [Crispy Cheese Lovers Rejoice, You Can Frico Your Pancakes](https://lifehacker.com/crispy-cheese-lovers-rejoice-you-can-frico-your-pancak-1850621284)
 - [Lifehacker] [How to Set Your Own Prices for Amazon Prime Day &lpar;Because You Definitely Should&rpar;](https://lifehacker.com/how-to-set-your-own-prices-for-amazon-prime-day-and-wh-1849158967)
 - [Lifehacker] [Amazon Prime Day Discounts Aren&#39;t As Big As They Seem](https://lifehacker.com/amazon-prime-day-discounts-arent-as-big-as-they-seem-1849158394)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Ways to Make an Air Mattress Feel Like the Real Thing](https://lifehacker.com/five-ways-to-make-an-air-mattress-feel-like-the-real-th-1850617371)
 - [Lifehacker] [The Best Vegetables to Grow in the Shade](https://lifehacker.com/the-best-vegetables-to-grow-in-the-shade-1850617379)
 - [Lifehacker] [Skip the Long Wait for a New Passport at These Events](https://lifehacker.com/skip-the-long-wait-for-a-new-passport-at-these-events-1850617386)
-- [Lifehacker] [StackSkills Unlimited Courses Are $33 Right Now](https://lifehacker.com/stackskills-unlimited-courses-are-33-right-now-1850589561)
-- [Lifehacker] [How to Sign Up for Amazon Prime](https://lifehacker.com/how-to-sign-up-for-amazon-prime-1850613497)<!-- TECH-POSTS:END -->
+- [Lifehacker] [StackSkills Unlimited Courses Are $33 Right Now](https://lifehacker.com/stackskills-unlimited-courses-are-33-right-now-1850589561)<!-- TECH-POSTS:END -->
 
 ---
 
