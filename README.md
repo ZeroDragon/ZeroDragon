@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Can Django be Used for Frontend?](https://dev.to/s-nidhin/can-django-be-used-for-frontend-4467)
+- [Dev.to/JS] [JavaScript - copyWithin&lpar;&rpar; Method](https://dev.to/kristiyan_velkov/javascript-copywithin-method-59ej)
 - [Dev.to/JS] [GUIA ANGULAR - ENTENDENDO DATA BINDING](https://dev.to/danielcamucatto/guia-angular-entendendo-data-binding-16jj)
 - [Dev.to/JS] [Level Up Your Chatbots with OpenAI Function Calling](https://dev.to/stonediggity/level-up-your-chatbots-with-openai-function-calling-1a8b)
 - [Dev.to/JS] [Understanding the difference between interfaces, classes, and objects in JavaScript](https://dev.to/babafemijk/understanding-the-difference-between-interfaces-classes-and-objects-in-javascript-2g3m)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeSafe Testing in Backends-for-Frontends](https://dev.to/slickstef11/typesafe-testing-in-backends-for-frontends-32dn)
 - [Dev.to/JS] [What&#39;s Next? Career advice](https://dev.to/bathininipun79/whats-next-career-advice-3475)
 - [Dev.to/JS] [An easy way to recursively flatten a multidimensional array in JavaScript with only native JavaScript.](https://dev.to/melvinvmegen/an-easy-way-to-recursively-flatten-a-multidimensional-array-in-javascript-with-only-native-javascript-215)
-- [Dev.to/JS] [Code, Pizza, and the Sweet Taste of Success](https://dev.to/archanajyothy/code-pizza-and-the-sweet-taste-of-success-32m7)
-- [Dev.to/JS] [Retos JS. Calculando factoriales muy grandes con JS.](https://dev.to/jorgeabad/retos-js-calculando-factoriales-muy-grandes-con-js-53ao)
 - [Lifehacker] [Five Ways to Keep Your Car&#39;s Interior Cooler in the Summer](https://lifehacker.com/five-ways-to-keep-your-cars-interior-cooler-in-the-summ-1850619152)
 - [Lifehacker] [The Best Ways to Stop Your Smoke Detector From Going Off While Cooking](https://lifehacker.com/the-best-ways-to-stop-your-smoke-detector-from-going-of-1850619154)
 - [Lifehacker] [Three Clues That a House Will Be For Sale Soon](https://lifehacker.com/three-clues-that-a-house-will-be-for-sale-soon-1850619169)
