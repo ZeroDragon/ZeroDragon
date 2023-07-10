@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Recurring payments with SvelteKit + Stripe](https://dev.to/joshnuss/recurring-payments-with-sveltekit-stripe-3d1j)
+- [Dev.to/JS] [How to send email from my Node JS app using my Gmail account?](https://dev.to/mbshehzad/how-to-send-email-from-my-node-js-app-using-my-gmail-account-je)
+- [Dev.to/JS] [Building a Real-Time Project with LWC OSS and LWR](https://dev.to/karkranikhil/building-a-real-time-project-with-lwc-oss-and-lwr-31o9)
+- [Dev.to/JS] [Todo List With Angular Js](https://dev.to/syedmuhammadaliraza/todo-list-with-angular-js-1hil)
+- [Dev.to/JS] [Série React Hooks: useSyncExternalStore](https://dev.to/taisesoares/serie-react-hooks-usesyncexternalstore-2lpk)
 - [Dev.to/JS] [Perfboard Designer in Html Canvas](https://dev.to/maurerkrisztian/perfboard-designer-in-html-canvas-mng)
 - [Dev.to/JS] [Parallelism in Nodejs](https://dev.to/divij2599/parallelism-in-nodejs-13k)
 - [Dev.to/JS] [Mastering Asynchronous Programming in JavaScript: Callbacks, Promises, and Async/Await Explained](https://dev.to/cliff123tech/mastering-asynchronous-programming-in-javascript-callbacks-promises-and-asyncawait-explained-1cpe)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pass Your Exam with Ease: Exam Topics Free That Guarantee Results](https://dev.to/examtopicsfree/pass-your-exam-with-ease-exam-topics-free-that-guarantee-results-5fon)
 - [Dev.to/JS] [Keeping your NPM dependencies up-to-date in a visual way with npm-check-updates](https://dev.to/thomasledoux1/keeping-your-npm-dependencies-up-to-date-with-npm-check-updates-4eal)
 - [Dev.to/JS] [Unleashing the Power of GPT-4: Explore the Multimodal AI Revolution in Seconds! 😱](https://dev.to/rishabh062/unleashing-the-power-of-gpt-4-explore-the-multimodal-ai-revolution-in-seconds-20p9)
-- [Dev.to/JS] [All You Need to Know about Decorators in TypeScript](https://dev.to/arulvalananto/all-you-need-to-know-about-decorators-in-typescript-5dbi)
-- [Dev.to/JS] [How to create accordion menu.](https://dev.to/maketechstuff/how-to-create-accordion-menu-cff)
-- [Dev.to/JS] [tRPC vs GraphQL – Why tRPC Finally Fixes the Type Safety Hassle](https://dev.to/brainhub_eu/trpc-vs-graphql-why-trpc-finally-fixes-the-type-safety-hassle-22id)
-- [Dev.to/JS] [#LearnedToday: MSWjs](https://dev.to/danielzotti/learnedtoday-mswjs-mh6)
-- [Dev.to/JS] [JavaScript can now so much more - enter GRIDNET OS - the very first decentralized operating system!](https://dev.to/gridnetproject/javascript-can-now-so-much-more-enter-gridnet-os-the-very-first-decentralized-operating-system-8jd)
 - [Lifehacker] [Five Ways to Keep Your Car&#39;s Interior Cooler in the Summer](https://lifehacker.com/five-ways-to-keep-your-cars-interior-cooler-in-the-summ-1850619152)
 - [Lifehacker] [The Best Ways to Stop Your Smoke Detector From Going Off While Cooking](https://lifehacker.com/the-best-ways-to-stop-your-smoke-detector-from-going-of-1850619154)
 - [Lifehacker] [Three Clues That a House Will Be For Sale Soon](https://lifehacker.com/three-clues-that-a-house-will-be-for-sale-soon-1850619169)
