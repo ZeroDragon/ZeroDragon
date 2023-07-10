@@ -26,9 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [130+ avatars for your projects](https://dev.to/alohe/130-avatars-for-your-projects-31o4)
+- [Lifehacker] [Amazon Prime Day Discounts Aren&#39;t As Big As They Seem](https://lifehacker.com/amazon-prime-day-discounts-arent-as-big-as-they-seem-1849158394)
+- [Dev.to/JS] [Simplificando Feature Flags com DevCycle](https://dev.to/klauskpm/simplificando-feature-flags-com-devcycle-2mgo)
+- [Dev.to/JS] [List of JavaScript Frameworks in 2023](https://dev.to/arsalanmee/list-of-javascript-frameworks-in-2023-1d2n)
+- [Lifehacker] [A Lifetime Subscription to Headway Is 80% Off Right Now](https://lifehacker.com/a-lifetime-subscription-to-headway-is-80-off-right-now-1850589582)
 - [Dev.to/JS] [An Introduction to TypeScript: Building a Simple Todo App with React](https://dev.to/w3tsa/an-introduction-to-typescript-building-a-simple-todo-app-with-react-1m2d)
 - [Lifehacker] [10 Podcasts Guaranteed to Make You Ugly Cry](https://lifehacker.com/10-podcasts-guaranteed-to-make-you-ugly-cry-1850618717)
-- [Dev.to/JS] [Why you need to understand closures to fully master reduce&lpar;&rpar;?](https://dev.to/vasilgvasilev/why-you-need-to-understand-closures-to-fully-master-reduce-7ac)
+- [Dev.to/JS] [Why You Should Understand Closures To Master .reduce&lpar;&rpar;](https://dev.to/vasilgvasilev/why-you-need-to-understand-closures-to-fully-master-reduce-7ac)
 - [Dev.to/JS] [Building feature-rich &lt;select&gt; dropdowns in React](https://dev.to/iraklitchiglad5/building-feature-rich-dropdowns-in-react-16j2)
 - [Dev.to/JS] [Understanding dependencies and dev-dependencies: Beginner’s Guide](https://dev.to/tijan_io/understanding-dependencies-and-dev-dependencies-beginners-guide-248h)
 - [Lifehacker] [You Can Finally Auto-Mute TikTok](https://lifehacker.com/you-can-finally-auto-mute-tiktok-1850620780)
@@ -40,9 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Managing RxJS Traffic with Signals and Suspensify](https://dev.to/this-is-angular/managing-rxjs-traffic-with-signals-and-suspensify-pp)
 - [Dev.to/JS] [Inheritance in JavaScript](https://dev.to/dhrn/inheritance-in-javascript-29kn)
 - [Lifehacker] [How to Make &lpar;and Share&rpar; Your Amazon Wishlist Before Prime Day](https://lifehacker.com/how-to-make-and-share-your-amazon-wishlist-before-pri-1850620369)
-- [Dev.to/JS] [ConnectNovu Hackathon 2023](https://dev.to/novu/connectnovu-hackathon-2023-i2l)
-- [Dev.to/JS] [How To Reduce Page Load Time In JavaScript](https://dev.to/lambdatest/how-to-reduce-page-load-time-in-javascript-2gfm)
-- [Dev.to/JS] [Is Cycling Every Day Bad For Your Legs? https://bicycle2sports.com/is-cycling-every-day-bad-for-your-legs/](https://dev.to/aman_khan_061cdf69a402962/is-cycling-every-day-bad-for-your-legs-3com)
 - [Lifehacker] [Stop Looking at the Stupid Little Dial Thermometer on Your Grill](https://lifehacker.com/stop-looking-at-the-stupid-little-dial-thermometer-on-y-1850616770)
 - [Lifehacker] [Five Ways to Keep Your Car&#39;s Interior Cooler in the Summer](https://lifehacker.com/five-ways-to-keep-your-cars-interior-cooler-in-the-summ-1850619152)
 - [Lifehacker] [The Best Ways to Stop Your Smoke Detector From Going Off While Cooking](https://lifehacker.com/the-best-ways-to-stop-your-smoke-detector-from-going-of-1850619154)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Delete Threads Without Losing Your Instagram](https://lifehacker.com/how-to-delete-threads-without-losing-your-instagram-1850615571)
 - [Lifehacker] [The Only Good Advice for Shopping on Amazon Prime Day](https://lifehacker.com/the-only-good-advice-for-shopping-amazon-prime-day-1849154608)
 - [Lifehacker] [Seven Things You Didn’t Know You Could Build From a Kit](https://lifehacker.com/seven-things-you-didn-t-know-you-could-build-from-a-kit-1850615193)
-- [Lifehacker] [Try &#39;Habit Stacking&#39; to Be More Productive](https://lifehacker.com/try-habit-stacking-to-be-more-productive-1850614842)
-- [Lifehacker] [Start a New Job Right With a ‘30-60-90 Plan’](https://lifehacker.com/start-a-new-job-right-with-a-30-60-90-plan-1850614625)
-- [Lifehacker] [The Best Early Prime Day Deals on Outdoor Gear](https://lifehacker.com/the-best-early-prime-day-deals-on-outdoor-gear-1850545095)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Try &#39;Habit Stacking&#39; to Be More Productive](https://lifehacker.com/try-habit-stacking-to-be-more-productive-1850614842)<!-- TECH-POSTS:END -->
 
 ---
 
