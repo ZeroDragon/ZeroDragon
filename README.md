@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Level Up Your Chatbots with OpenAI Function Calling](https://dev.to/stonediggity/level-up-your-chatbots-with-openai-function-calling-1a8b)
 - [Dev.to/JS] [Understanding the difference between interfaces, classes, and objects in JavaScript](https://dev.to/babafemijk/understanding-the-difference-between-interfaces-classes-and-objects-in-javascript-2g3m)
 - [Dev.to/JS] [NestJS tip: how to inject multiple versions of the same provider into one module &lpar;e.g.: many Axios instances&rpar;](https://dev.to/micalevisk/nestjs-tip-how-to-inject-multiple-versions-of-the-same-provider-into-one-module-eg-many-axios-instances-5agc)
 - [Dev.to/JS] [Phase 1](https://dev.to/aosorio10/phase-1-54nn)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code, Pizza, and the Sweet Taste of Success](https://dev.to/archanajyothy/code-pizza-and-the-sweet-taste-of-success-32m7)
 - [Dev.to/JS] [Retos JS. Calculando factoriales muy grandes con JS.](https://dev.to/jorgeabad/retos-js-calculando-factoriales-muy-grandes-con-js-53ao)
 - [Dev.to/JS] [Create ToDo List with Vue.js](https://dev.to/syedmuhammadaliraza/create-todo-list-with-vuejs-39m)
-- [Dev.to/JS] [Developed an Online Video Editor which Requires No Uploads Prior Editing](https://dev.to/khuramhaf/developed-an-online-video-editor-which-requires-no-uploads-prior-editing-34e3)
 - [Lifehacker] [Five Ways to Keep Your Car&#39;s Interior Cooler in the Summer](https://lifehacker.com/five-ways-to-keep-your-cars-interior-cooler-in-the-summ-1850619152)
 - [Lifehacker] [The Best Ways to Stop Your Smoke Detector From Going Off While Cooking](https://lifehacker.com/the-best-ways-to-stop-your-smoke-detector-from-going-of-1850619154)
 - [Lifehacker] [Three Clues That a House Will Be For Sale Soon](https://lifehacker.com/three-clues-that-a-house-will-be-for-sale-soon-1850619169)
