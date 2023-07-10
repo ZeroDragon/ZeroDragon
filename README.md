@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Asynchronous Programming in JavaScript: Callbacks, Promises, and Async/Await Explained](https://dev.to/cliff123tech/mastering-asynchronous-programming-in-javascript-callbacks-promises-and-asyncawait-explained-1cpe)
+- [Dev.to/JS] [Image Optimization in Vue &amp; Nuxt](https://dev.to/jacobandrewsky/image-optimization-in-vue-nuxt-29hc)
 - [Dev.to/JS] [Pass Your Exam with Ease: Exam Topics Free That Guarantee Results](https://dev.to/examtopicsfree/pass-your-exam-with-ease-exam-topics-free-that-guarantee-results-5fon)
 - [Dev.to/JS] [Keeping your NPM dependencies up-to-date in a visual way with npm-check-updates](https://dev.to/thomasledoux1/keeping-your-npm-dependencies-up-to-date-with-npm-check-updates-4eal)
 - [Dev.to/JS] [Unleashing the Power of GPT-4: Explore the Multimodal AI Revolution in Seconds! 😱](https://dev.to/rishabh062/unleashing-the-power-of-gpt-4-explore-the-multimodal-ai-revolution-in-seconds-20p9)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript can now so much more - enter GRIDNET OS - the very first decentralized operating system!](https://dev.to/gridnetproject/javascript-can-now-so-much-more-enter-gridnet-os-the-very-first-decentralized-operating-system-8jd)
 - [Dev.to/JS] [Get Multiple Checkbox Value If Checked.](https://dev.to/maketechstuff/get-multiple-checkbox-value-if-checked-6a0)
 - [Dev.to/JS] [VALID ANAGRAM LEETCODE SOLUTION C++ WITH OPTIMISED SOLUTION](https://dev.to/ruparani777/valid-anagram-leetcode-solution-c-with-optimised-solution-35i4)
-- [Dev.to/JS] [What Are Your Favorite JavaScript Libraries &amp; Frameworks?](https://dev.to/devteam/what-are-your-favorite-javascript-libraries-frameworks-11ha)
-- [Dev.to/JS] [How to Implement Feature Gates in React?](https://dev.to/eshankvaish/how-to-implement-feature-gates-in-react-980)
 - [Lifehacker] [Five Ways to Keep Your Car&#39;s Interior Cooler in the Summer](https://lifehacker.com/five-ways-to-keep-your-cars-interior-cooler-in-the-summ-1850619152)
 - [Lifehacker] [The Best Ways to Stop Your Smoke Detector From Going Off While Cooking](https://lifehacker.com/the-best-ways-to-stop-your-smoke-detector-from-going-of-1850619154)
 - [Lifehacker] [Three Clues That a House Will Be For Sale Soon](https://lifehacker.com/three-clues-that-a-house-will-be-for-sale-soon-1850619169)
