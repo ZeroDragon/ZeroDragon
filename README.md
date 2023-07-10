@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Finally Auto-Mute TikTok](https://lifehacker.com/you-can-finally-auto-mute-tiktok-1850620780)
+- [Lifehacker] [How to Share Your Amazon Prime Membership With Family &lpar;Even If You Don&#39;t Live Together&rpar;](https://lifehacker.com/how-to-share-your-amazon-prime-membership-with-family-1850619029)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, Jul 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-jul-2023-1931)
+- [Dev.to/JS] [Integrating a chatbot into your Nodejs API using Dialogflow](https://dev.to/realsteveig/integrating-a-chatbot-into-your-nodejs-api-using-dialogflow-1dpn)
 - [Lifehacker] [You Should Take Advantage of Best Buy&#39;s Prime Day Competition Sale](https://lifehacker.com/you-should-take-advantage-of-best-buys-prime-day-compet-1850617105)
 - [Dev.to/JS] [Managing RxJS Traffic with Signals and Suspensify](https://dev.to/this-is-angular/managing-rxjs-traffic-with-signals-and-suspensify-pp)
 - [Dev.to/JS] [Inheritance in JavaScript](https://dev.to/dhrn/inheritance-in-javascript-29kn)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Real-Time Project with LWC OSS and LWR](https://dev.to/karkranikhil/building-a-real-time-project-with-lwc-oss-and-lwr-31o9)
 - [Dev.to/JS] [Todo List With Angular Js](https://dev.to/syedmuhammadaliraza/todo-list-with-angular-js-1hil)
 - [Dev.to/JS] [Série React Hooks: useSyncExternalStore](https://dev.to/taisesoares/serie-react-hooks-usesyncexternalstore-2lpk)
-- [Dev.to/JS] [Perfboard Designer in Html Canvas](https://dev.to/maurerkrisztian/perfboard-designer-in-html-canvas-mng)
-- [Dev.to/JS] [Parallelism in Nodejs](https://dev.to/divij2599/parallelism-in-nodejs-13k)
 - [Lifehacker] [Five Ways to Keep Your Car&#39;s Interior Cooler in the Summer](https://lifehacker.com/five-ways-to-keep-your-cars-interior-cooler-in-the-summ-1850619152)
 - [Lifehacker] [The Best Ways to Stop Your Smoke Detector From Going Off While Cooking](https://lifehacker.com/the-best-ways-to-stop-your-smoke-detector-from-going-of-1850619154)
 - [Lifehacker] [Three Clues That a House Will Be For Sale Soon](https://lifehacker.com/three-clues-that-a-house-will-be-for-sale-soon-1850619169)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Try &#39;Habit Stacking&#39; to Be More Productive](https://lifehacker.com/try-habit-stacking-to-be-more-productive-1850614842)
 - [Lifehacker] [Start a New Job Right With a ‘30-60-90 Plan’](https://lifehacker.com/start-a-new-job-right-with-a-30-60-90-plan-1850614625)
 - [Lifehacker] [The Best Early Prime Day Deals on Outdoor Gear](https://lifehacker.com/the-best-early-prime-day-deals-on-outdoor-gear-1850545095)
-- [Lifehacker] [You Can Get This Stock Screening App for Over 80% Off](https://lifehacker.com/you-can-get-this-stock-screening-app-for-over-80-off-1850589570)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Threw a Fleshlight at Lil Nas X?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-threw-1850613328)
-- [Lifehacker] [Low-Carb Cauliflower Arancini Are Actually Amazing](https://lifehacker.com/low-carb-cauliflower-arancini-are-actually-amazing-1850612036)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get This Stock Screening App for Over 80% Off](https://lifehacker.com/you-can-get-this-stock-screening-app-for-over-80-off-1850589570)<!-- TECH-POSTS:END -->
 
 ---
 
