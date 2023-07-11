@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [An Ultimate all-in-one Auth Module in React Native: Enable One-line Sign-Up and Sign in with Eartho on your device.](https://dev.to/rushitjivani/an-ultimate-all-in-one-auth-module-in-react-native-enable-one-line-sign-up-and-sign-in-with-eartho-on-your-device-17a1)
+- [Dev.to/JS] [My Journey in Open Source - force-return](https://dev.to/cadienvan/my-journey-in-open-source-force-return-4jfm)
+- [Dev.to/JS] [10 Advanced Git Commands](https://dev.to/lalitkumawat1m/10-advanced-git-commands-3b8g)
 - [Dev.to/JS] [Closure](https://dev.to/sundarbadagala081/closure-1i09)
 - [Dev.to/JS] [How to Ensure High Availability for GreptimeDB Cluster: Introducing Region Failover Feature](https://dev.to/greptime/how-to-ensure-high-availability-for-greptimedb-cluster-introducing-region-failover-feature-2egl)
 - [Dev.to/JS] [Premium Refurbished Laptops with 6-Month Warranty: Unleash Your Computing Potential](https://dev.to/eazypc/premium-refurbished-laptops-with-6-month-warranty-unleash-your-computing-potential-32pp)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Step-by-Step Guide to Building an NPM Package, Publishing to NPM Registry, and Setting Up Documentation &lpar;Part 2&rpar;](https://dev.to/toolkituse/step-by-step-guide-to-building-an-npm-package-publishing-to-npm-registry-and-setting-up-documentation-part-2-2k8)
 - [Dev.to/JS] [Reading and Writing Files In Node.Js Using Modules.](https://dev.to/dotjos/reading-and-writing-files-in-nodejs-using-modules-i5b)
 - [Dev.to/JS] [La ciencia de losz algoritmos](https://dev.to/dennysjmarquez/la-ciencia-de-losz-algoritmos-56k)
-- [Dev.to/JS] [Using Deno KV with Deno deploy guide](https://dev.to/christiandale/using-deno-kv-with-deno-deploy-guide-171o)
-- [Dev.to/JS] [Power of JavaScript Objects and Arrays](https://dev.to/zeek04/power-of-javascript-objects-and-arrays-2fcl)
-- [Dev.to/JS] [Typerorr HtmlDom](https://dev.to/zedcodo/typerorr-htmldom-413m)
 - [Lifehacker] [Get a Lifetime Subscription to Microsoft Office on Mac for $30](https://lifehacker.com/get-a-lifetime-subscription-to-microsoft-office-on-mac-1850589595)
 - [Lifehacker] [The Best Early Prime Day Deals on Mattresses](https://lifehacker.com/best-early-prime-day-deals-on-mattresses-1850608114)
 - [Lifehacker] [Where to Watch Marvel&#39;s &#39;Secret Invasion&#39; &lpar;and What You Need to Know Going In&rpar;](https://lifehacker.com/where-to-watch-marvels-secret-invasion-and-what-you-ne-1850615977)
