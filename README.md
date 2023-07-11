@@ -26,7 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Best Prime Day Beauty Splurges](https://lifehacker.com/your-best-prime-day-beauty-splurges-1850610216)
+- [Lifehacker] [The Best Amazon Fire TV Stick Deals for Prime Day](https://lifehacker.com/the-best-amazon-fire-tv-stick-deals-for-prime-day-1850544721)
+- [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)
+- [Lifehacker] [The Best Prime Day Deals on Cosmetics Basics](https://lifehacker.com/the-best-prime-day-deals-on-cosmetics-basics-1850616042)
+- [Dev.to/JS] [¿Cuál framework web debo de escoger?](https://dev.to/marianocodes/cual-framework-web-debo-de-escoger-22k4)
+- [Lifehacker] [The Best Prime Day Deals on Amazon Fire Tablets](https://lifehacker.com/the-best-prime-day-deals-on-amazon-fire-tablets-1850540955)
 - [Lifehacker] [The Best Prime Day Deals on Exercise Bikes](https://lifehacker.com/the-best-prime-day-deals-on-exercise-bikes-1850567708)
+- [Dev.to/JS] [How to Style Progress Bar with Tailwind CSS?](https://dev.to/aditya_barde/how-to-style-progress-bar-with-tailwind-css-4i2o)
+- [Dev.to/JS] [Unlocking the Power of Hooks and Refs: A Step-by-Step Guide to Building a Custom Tooltip in React](https://dev.to/stretch0/unlocking-the-power-of-hooks-and-refs-a-step-by-step-guide-to-building-a-custom-tooltip-in-react-13p3)
 - [Lifehacker] [This Xbox Series S is $199 Right Now for Prime Day](https://lifehacker.com/this-xbox-series-s-is-199-right-now-for-prime-day-1850627042)
 - [Dev.to/JS] [Build a blockchain app from the ground up in two days at Vue.js Forge Episode 4 Powered by Kadena 🔥](https://dev.to/anaamarijaa/build-a-blockchain-app-from-the-ground-up-in-two-days-at-vuejs-forge-episode-4-powered-by-kadena-1ifp)
 - [Dev.to/JS] [Building a Dashboard App with Next.js: A Comprehensive Guide](https://dev.to/stackcodify/building-a-dashboard-app-with-nextjs-a-comprehensive-guide-4em0)
@@ -44,10 +52,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [GPT Web App Generator - Let AI create a full-stack React &amp; Node.js codebase based on your description 🤖🤯](https://dev.to/wasp/gpt-web-app-generator-let-ai-create-a-full-stack-react-nodejs-codebase-based-on-your-description-2g39)
 - [Dev.to/JS] [How to Use the JavaScript Fullscreen API](https://dev.to/farhadi/how-to-use-the-javascript-fullscreen-api-eao)
 - [Lifehacker] [The Best Prime Day Deals for Your Home Bar](https://lifehacker.com/the-best-prime-day-deals-for-your-home-bar-1850624677)
-- [Dev.to/JS] [🚀 Rejoignez la communauté Discord d&#39;Xperpool ! 🚀](https://dev.to/max_arthurbaux/rejoignez-la-communaute-discord-dxperpool--25d2)
-- [Dev.to/JS] [What is LLM prompts and how can you use it?](https://dev.to/aiforme/what-is-llm-prompts-and-how-can-you-use-it-1292)
 - [Lifehacker] [The Best Fitness Smartwatch Deals for Prime Day](https://lifehacker.com/the-best-fitness-smartwatch-deals-for-prime-day-1850597508)
-- [Dev.to/JS] [NightCafe AI Review &amp; Full Tutorial &lpar;July 2023&rpar;](https://dev.to/reganthapa/nightcafe-ai-review-full-tutorial-july-2023-3lic)
 - [Lifehacker] [The Best Prime Day Deals on Air Fryers](https://lifehacker.com/the-best-prime-day-deals-on-air-fryers-1850623713)
 - [Lifehacker] [The 10 Best Prime Day Deals on LEGO Sets](https://lifehacker.com/the-10-best-prime-day-deals-on-lego-sets-1850623443)
 - [Lifehacker] [The Best Amazon Prime Day Deals If You Are Experiencing Overwhelming Existential Dread](https://lifehacker.com/the-best-amazon-prime-day-deals-if-you-are-experiencing-1850616974)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make an Awesome, DIY Water Table for Your Kids This Summer](https://lifehacker.com/make-an-awesome-diy-water-table-for-your-kids-this-sum-1850613449)
 - [Lifehacker] [You Might Want to Get a Flu Shot Early If You’re Pregnant, CDC Says](https://lifehacker.com/you-might-want-to-get-a-flu-shot-early-if-you-re-pregna-1850623507)
 - [Lifehacker] [Do You Make Friends at Work?](https://lifehacker.com/do-you-make-friends-at-work-1850595848)
-- [Lifehacker] [This One-Time Wine Delivery Sends You 15 Bottles for $60, Plus Shipping](https://lifehacker.com/this-one-time-wine-delivery-sends-you-15-bottles-for-6-1850612302)
-- [Lifehacker] [Make Better Sandwiches, Toasts, and Crostini With a Quick Garlic Rub](https://lifehacker.com/make-better-sandwiches-toasts-and-crostini-with-a-qui-1850622342)
-- [Lifehacker] [You Can Probably Fix Your Stove’s Broken Burner Yourself](https://lifehacker.com/you-can-probably-fix-your-stove-s-broken-burner-yoursel-1850621869)
-- [Lifehacker] [You Can Schedule Your Amazon Prime Membership to Automatically Cancel After Prime Day](https://lifehacker.com/you-can-schedule-your-amazon-prime-membership-to-automa-1850619291)
-- [Lifehacker] [9 of the Most Useful Overlooked Apple Watch Features, According to Reddit](https://lifehacker.com/9-of-the-most-useful-overlooked-apple-watch-features-a-1850621005)
-- [Lifehacker] [Crispy Cheese Lovers Rejoice, You Can Frico Your Pancakes](https://lifehacker.com/crispy-cheese-lovers-rejoice-you-can-frico-your-pancak-1850621284)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This One-Time Wine Delivery Sends You 15 Bottles for $60, Plus Shipping](https://lifehacker.com/this-one-time-wine-delivery-sends-you-15-bottles-for-6-1850612302)<!-- TECH-POSTS:END -->
 
 ---
 
