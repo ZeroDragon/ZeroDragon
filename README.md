@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [a new way to use state in react](https://dev.to/lovetingyuan/a-new-way-to-use-state-in-react-14fe)
+- [Dev.to/JS] [You&#39;ll be more productive learning webpack with these methods](https://dev.to/limingcan562/youll-be-more-productive-learning-webpack-with-these-methods-469p)
+- [Dev.to/JS] [Integrating Test Data in AskUI Workflows from APIs, CSV Files, and Databases](https://dev.to/johannesdienst/integrating-test-data-in-askui-workflows-from-apis-csv-files-and-databases-5f8)
+- [Dev.to/JS] [CASE V2 Proof of Concept launch](https://dev.to/casejs/case-v2-proof-of-concept-launch-1dn9)
+- [Dev.to/JS] [ARRAY METHODS](https://dev.to/ileolami/array-methods-5b28)
 - [Dev.to/JS] [#LearnedToday: Array.toSpliced&lpar;&rpar;](https://dev.to/danielzotti/learnedtoday-arraytospliced-1h9b)
 - [Dev.to/JS] [How To Use Cypress For File Upload and Download](https://dev.to/lambdatest/how-to-use-cypress-for-file-upload-and-download-2mo8)
 - [Dev.to/JS] [AI Code Completion for Developers](https://dev.to/aiforme/ai-code-completion-for-developers-alo)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Journey in Open Source - force-return](https://dev.to/cadienvan/my-journey-in-open-source-force-return-4jfm)
 - [Dev.to/JS] [10 Advanced Git Commands](https://dev.to/lalitkumawat1m/10-advanced-git-commands-3b8g)
 - [Dev.to/JS] [Closure](https://dev.to/sundarbadagala081/closure-1i09)
-- [Dev.to/JS] [How to Ensure High Availability for GreptimeDB Cluster: Introducing Region Failover Feature](https://dev.to/greptime/how-to-ensure-high-availability-for-greptimedb-cluster-introducing-region-failover-feature-2egl)
-- [Dev.to/JS] [Premium Refurbished Laptops with 6-Month Warranty: Unleash Your Computing Potential](https://dev.to/eazypc/premium-refurbished-laptops-with-6-month-warranty-unleash-your-computing-potential-32pp)
-- [Dev.to/JS] [React clean code: Ways to write better, more efficient, and cleaner code](https://dev.to/johnreyasong/react-clean-code-ways-to-write-better-more-efficient-and-cleaner-code-5d2k)
-- [Dev.to/JS] [Unlocking Potential With Top 10 Node Applications](https://dev.to/dhruvil_joshi14/unlocking-potential-with-top-10-node-applications-5hb7)
-- [Dev.to/JS] [Typescript Cheatsheet — Essential Syntax and Concepts](https://dev.to/parthee/typescript-cheatsheet-essential-syntax-and-concepts-30ej)
 - [Lifehacker] [Get a Lifetime Subscription to Microsoft Office on Mac for $30](https://lifehacker.com/get-a-lifetime-subscription-to-microsoft-office-on-mac-1850589595)
 - [Lifehacker] [The Best Early Prime Day Deals on Mattresses](https://lifehacker.com/best-early-prime-day-deals-on-mattresses-1850608114)
 - [Lifehacker] [Where to Watch Marvel&#39;s &#39;Secret Invasion&#39; &lpar;and What You Need to Know Going In&rpar;](https://lifehacker.com/where-to-watch-marvels-secret-invasion-and-what-you-ne-1850615977)
