@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Prime Day Deals on Exercise Bikes](https://lifehacker.com/the-best-prime-day-deals-on-exercise-bikes-1850567708)
+- [Lifehacker] [This Xbox Series S is $199 Right Now for Prime Day](https://lifehacker.com/this-xbox-series-s-is-199-right-now-for-prime-day-1850627042)
+- [Dev.to/JS] [Build a blockchain app from the ground up in two days at Vue.js Forge Episode 4 Powered by Kadena 🔥](https://dev.to/anaamarijaa/build-a-blockchain-app-from-the-ground-up-in-two-days-at-vuejs-forge-episode-4-powered-by-kadena-1ifp)
+- [Dev.to/JS] [Building a Dashboard App with Next.js: A Comprehensive Guide](https://dev.to/stackcodify/building-a-dashboard-app-with-nextjs-a-comprehensive-guide-4em0)
+- [Lifehacker] [The Best Prime Day Deals on Bluetooth Speakers](https://lifehacker.com/the-best-prime-day-deals-on-bluetooth-speakers-1850559866)
+- [Dev.to/JS] [Bring the &#39;jump to search&#39; keyboard shortcut to any site with userscripts](https://dev.to/shu8/bring-the-jump-to-search-keyboard-shortcut-to-any-site-with-userscripts-518d)
+- [Lifehacker] [Amazon&#39;s Fire TV Cube Has Its Cheapest Price Ever for Prime Day](https://lifehacker.com/amazons-fire-tv-cube-has-its-cheapest-price-ever-for-pr-1850544783)
+- [Dev.to/JS] [String + or Literals Template](https://dev.to/suni/string-or-literals-template-3f68)
+- [Lifehacker] [The Best Prime Day Deals on Rowing Machines](https://lifehacker.com/the-best-prime-day-deals-on-rowing-machines-1850592624)
 - [Dev.to/JS] [Why NextJS?](https://dev.to/nzubechukwu_okere/why-nextjs-ipp)
 - [Lifehacker] [The Best Prime Day Deals on Apple Devices](https://lifehacker.com/the-best-prime-day-deals-on-apple-devices-1850545590)
 - [Lifehacker] [You Can Ask Alexa to Notify You About Upcoming Prime Day Deals](https://lifehacker.com/you-can-ask-alexa-to-notify-you-about-upcoming-prime-da-1850625257)
@@ -39,11 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is LLM prompts and how can you use it?](https://dev.to/aiforme/what-is-llm-prompts-and-how-can-you-use-it-1292)
 - [Lifehacker] [The Best Fitness Smartwatch Deals for Prime Day](https://lifehacker.com/the-best-fitness-smartwatch-deals-for-prime-day-1850597508)
 - [Dev.to/JS] [NightCafe AI Review &amp; Full Tutorial &lpar;July 2023&rpar;](https://dev.to/reganthapa/nightcafe-ai-review-full-tutorial-july-2023-3lic)
-- [Dev.to/JS] [🔥🤯 Amazing Food Order hero section using HTML, CSS and JS.](https://dev.to/themodernweb/amazing-food-order-hero-section-using-html-css-and-js-2dh0)
 - [Lifehacker] [The Best Prime Day Deals on Air Fryers](https://lifehacker.com/the-best-prime-day-deals-on-air-fryers-1850623713)
-- [Dev.to/JS] [What’s New in Syncfusion Essential JS 2: 2023 Volume 2](https://dev.to/syncfusion/whats-new-in-syncfusion-essential-js-2-2023-volume-2-3jl)
-- [Dev.to/JS] [How to Fix Absolute path not working in Vite project React TS](https://dev.to/willochs316/how-to-fix-absolute-path-not-working-in-vite-project-react-ts-3aj9)
-- [Dev.to/JS] [Day 2: Polyfill for Array.includes&lpar;&rpar;](https://dev.to/dhrn/array-includes-polyfill-5g00)
 - [Lifehacker] [The 10 Best Prime Day Deals on LEGO Sets](https://lifehacker.com/the-10-best-prime-day-deals-on-lego-sets-1850623443)
 - [Lifehacker] [The Best Amazon Prime Day Deals If You Are Experiencing Overwhelming Existential Dread](https://lifehacker.com/the-best-amazon-prime-day-deals-if-you-are-experiencing-1850616974)
 - [Lifehacker] [The Best Early Prime Day Deals on Everyday Items](https://lifehacker.com/the-best-early-prime-day-deals-on-everyday-items-1850616720)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Probably Fix Your Stove’s Broken Burner Yourself](https://lifehacker.com/you-can-probably-fix-your-stove-s-broken-burner-yoursel-1850621869)
 - [Lifehacker] [You Can Schedule Your Amazon Prime Membership to Automatically Cancel After Prime Day](https://lifehacker.com/you-can-schedule-your-amazon-prime-membership-to-automa-1850619291)
 - [Lifehacker] [9 of the Most Useful Overlooked Apple Watch Features, According to Reddit](https://lifehacker.com/9-of-the-most-useful-overlooked-apple-watch-features-a-1850621005)
-- [Lifehacker] [Crispy Cheese Lovers Rejoice, You Can Frico Your Pancakes](https://lifehacker.com/crispy-cheese-lovers-rejoice-you-can-frico-your-pancak-1850621284)
-- [Lifehacker] [How to Set Your Own Prices for Amazon Prime Day &lpar;Because You Definitely Should&rpar;](https://lifehacker.com/how-to-set-your-own-prices-for-amazon-prime-day-and-wh-1849158967)
-- [Lifehacker] [Amazon Prime Day Discounts Aren&#39;t As Big As They Seem](https://lifehacker.com/amazon-prime-day-discounts-arent-as-big-as-they-seem-1849158394)
-- [Lifehacker] [A Lifetime Subscription to Headway Is 80% Off Right Now](https://lifehacker.com/a-lifetime-subscription-to-headway-is-80-off-right-now-1850589582)
-- [Lifehacker] [10 Podcasts Guaranteed to Make You Ugly Cry](https://lifehacker.com/10-podcasts-guaranteed-to-make-you-ugly-cry-1850618717)
-- [Lifehacker] [You Can Finally Auto-Mute TikTok](https://lifehacker.com/you-can-finally-auto-mute-tiktok-1850620780)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Crispy Cheese Lovers Rejoice, You Can Frico Your Pancakes](https://lifehacker.com/crispy-cheese-lovers-rejoice-you-can-frico-your-pancak-1850621284)<!-- TECH-POSTS:END -->
 
 ---
 
