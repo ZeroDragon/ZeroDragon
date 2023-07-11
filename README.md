@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why NextJS?](https://dev.to/nzubechukwu_okere/why-nextjs-ipp)
+- [Lifehacker] [The Best Prime Day Deals on Apple Devices](https://lifehacker.com/the-best-prime-day-deals-on-apple-devices-1850545590)
+- [Lifehacker] [You Can Ask Alexa to Notify You About Upcoming Prime Day Deals](https://lifehacker.com/you-can-ask-alexa-to-notify-you-about-upcoming-prime-da-1850625257)
 - [Dev.to/JS] [How to Set Up Continuous Deployment for Your Node App with Cloud Run and Cloud Build](https://dev.to/martiinwalsh/how-to-set-up-continuous-deployment-for-your-node-app-with-cloud-run-and-cloud-build-304n)
 - [Lifehacker] [The Best Prime Day Deals on LED, QLED, and OLED TVs](https://lifehacker.com/the-best-prime-day-deals-on-led-qled-and-oled-tvs-1850561862)
 - [Dev.to/JS] [Add Element To Div Using appendChild&lpar;&rpar; JavaScript](https://dev.to/rajatamil/add-element-to-div-using-appendchild-javascript-1pa7)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Fix Absolute path not working in Vite project React TS](https://dev.to/willochs316/how-to-fix-absolute-path-not-working-in-vite-project-react-ts-3aj9)
 - [Dev.to/JS] [Day 2: Polyfill for Array.includes&lpar;&rpar;](https://dev.to/dhrn/array-includes-polyfill-5g00)
 - [Lifehacker] [The 10 Best Prime Day Deals on LEGO Sets](https://lifehacker.com/the-10-best-prime-day-deals-on-lego-sets-1850623443)
-- [Dev.to/JS] [Understanding Prototypal Inheritance in JavaScript: Enhancing Code Efficiency](https://dev.to/iayeshasahar/understanding-prototypal-inheritance-in-javascript-enhancing-code-efficiency-hen)
 - [Lifehacker] [The Best Amazon Prime Day Deals If You Are Experiencing Overwhelming Existential Dread](https://lifehacker.com/the-best-amazon-prime-day-deals-if-you-are-experiencing-1850616974)
 - [Lifehacker] [The Best Early Prime Day Deals on Everyday Items](https://lifehacker.com/the-best-early-prime-day-deals-on-everyday-items-1850616720)
 - [Lifehacker] [The Best Early Prime Day Back-to-School Deals](https://lifehacker.com/the-best-early-prime-day-back-to-school-deals-1850588883)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Amazon Prime Day Discounts Aren&#39;t As Big As They Seem](https://lifehacker.com/amazon-prime-day-discounts-arent-as-big-as-they-seem-1849158394)
 - [Lifehacker] [A Lifetime Subscription to Headway Is 80% Off Right Now](https://lifehacker.com/a-lifetime-subscription-to-headway-is-80-off-right-now-1850589582)
 - [Lifehacker] [10 Podcasts Guaranteed to Make You Ugly Cry](https://lifehacker.com/10-podcasts-guaranteed-to-make-you-ugly-cry-1850618717)
-- [Lifehacker] [You Can Finally Auto-Mute TikTok](https://lifehacker.com/you-can-finally-auto-mute-tiktok-1850620780)
-- [Lifehacker] [How to Share Your Amazon Prime Membership With Family &lpar;Even If You Don&#39;t Live Together&rpar;](https://lifehacker.com/how-to-share-your-amazon-prime-membership-with-family-1850619029)
-- [Lifehacker] [You Should Take Advantage of Best Buy&#39;s Prime Day Competition Sale](https://lifehacker.com/you-should-take-advantage-of-best-buys-prime-day-compet-1850617105)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Finally Auto-Mute TikTok](https://lifehacker.com/you-can-finally-auto-mute-tiktok-1850620780)<!-- TECH-POSTS:END -->
 
 ---
 
