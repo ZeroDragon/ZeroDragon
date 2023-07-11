@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [REACT CLEAN CODE: WAYS TO WRITE BETTER, MORE EFFICIENT, AND CLEANER CODE](https://dev.to/johnreyasong/react-clean-code-ways-to-write-better-more-efficient-and-cleaner-code-5d2k)
+- [Dev.to/JS] [Unlocking Potential With Top 10 Node Applications](https://dev.to/dhruvil_joshi14/unlocking-potential-with-top-10-node-applications-5hb7)
 - [Dev.to/JS] [Typescript Cheatsheet — Essential Syntax and Concepts](https://dev.to/parthee/typescript-cheatsheet-essential-syntax-and-concepts-30ej)
 - [Dev.to/JS] [Step-by-Step Guide to Building an NPM Package, Publishing to NPM Registry, and Setting Up Documentation &lpar;Part 2&rpar;](https://dev.to/toolkituse/step-by-step-guide-to-building-an-npm-package-publishing-to-npm-registry-and-setting-up-documentation-part-2-2k8)
 - [Dev.to/JS] [Reading and Writing Files In Node.Js Using Modules.](https://dev.to/dotjos/reading-and-writing-files-in-nodejs-using-modules-i5b)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Watch Marvel&#39;s &#39;Secret Invasion&#39; &lpar;and What You Need to Know Going In&rpar;](https://lifehacker.com/where-to-watch-marvels-secret-invasion-and-what-you-ne-1850615977)
 - [Lifehacker] [Make an Awesome, DIY Water Table for Your Kids This Summer](https://lifehacker.com/make-an-awesome-diy-water-table-for-your-kids-this-sum-1850613449)
 - [Lifehacker] [You Might Want to Get a Flu Shot Early If You’re Pregnant, CDC Says](https://lifehacker.com/you-might-want-to-get-a-flu-shot-early-if-you-re-pregna-1850623507)
-- [Dev.to/JS] [What are your favorite channels to watch tutorials on javascript?](https://dev.to/rodolfoespinosa01/what-are-your-favorite-channels-to-watch-tutorials-on-javascript-3p6h)
-- [Dev.to/JS] [Eventos en Javascript](https://dev.to/beresiartejuan/eventos-en-javascript-3mch)
 - [Lifehacker] [Do You Make Friends at Work?](https://lifehacker.com/do-you-make-friends-at-work-1850595848)
 - [Lifehacker] [This One-Time Wine Delivery Sends You 15 Bottles for $60, Plus Shipping](https://lifehacker.com/this-one-time-wine-delivery-sends-you-15-bottles-for-6-1850612302)
 - [Lifehacker] [Make Better Sandwiches, Toasts, and Crostini With a Quick Garlic Rub](https://lifehacker.com/make-better-sandwiches-toasts-and-crostini-with-a-qui-1850622342)
