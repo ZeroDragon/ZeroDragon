@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Deno KV with Deno deploy guide](https://dev.to/christiandale/using-deno-kv-with-deno-deploy-guide-171o)
+- [Dev.to/JS] [Power of JavaScript Objects and Arrays](https://dev.to/zeek04/power-of-javascript-objects-and-arrays-2fcl)
 - [Dev.to/JS] [Typerorr HtmlDom](https://dev.to/zedcodo/typerorr-htmldom-413m)
 - [Lifehacker] [Get a Lifetime Subscription to Microsoft Office on Mac for $30](https://lifehacker.com/get-a-lifetime-subscription-to-microsoft-office-on-mac-1850589595)
 - [Dev.to/JS] [Simple JavaScript Challenges with solutions](https://dev.to/bansikah/simple-javascript-challenges-with-solutions-24)
@@ -45,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to check if an Object is instance of a Class - Javascript](https://dev.to/henriquejensen/how-to-check-if-an-object-is-instance-of-a-class-javascript-3n73)
 - [Lifehacker] [You Can Probably Fix Your Stove’s Broken Burner Yourself](https://lifehacker.com/you-can-probably-fix-your-stove-s-broken-burner-yoursel-1850621869)
 - [Lifehacker] [You Can Schedule Your Amazon Prime Membership to Automatically Cancel After Prime Day](https://lifehacker.com/you-can-schedule-your-amazon-prime-membership-to-automa-1850619291)
-- [Dev.to/JS] [In the Footsteps of Poul Gernes — Making an Interactive Art Poster](https://dev.to/madsstoumann/in-the-footsteps-of-poul-gernes-making-an-interactive-art-poster-5580)
-- [Dev.to/JS] [Currying Step-By-Step](https://dev.to/vasilgvasilev/currying-step-by-step-5eb2)
 - [Lifehacker] [9 of the Most Useful Overlooked Apple Watch Features, According to Reddit](https://lifehacker.com/9-of-the-most-useful-overlooked-apple-watch-features-a-1850621005)
 - [Lifehacker] [Crispy Cheese Lovers Rejoice, You Can Frico Your Pancakes](https://lifehacker.com/crispy-cheese-lovers-rejoice-you-can-frico-your-pancak-1850621284)
 - [Lifehacker] [How to Set Your Own Prices for Amazon Prime Day &lpar;Because You Definitely Should&rpar;](https://lifehacker.com/how-to-set-your-own-prices-for-amazon-prime-day-and-wh-1849158967)
