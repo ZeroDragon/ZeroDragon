@@ -26,7 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Prime Deal Deals on Smart Home Devices](https://lifehacker.com/the-best-prime-deal-deals-on-smart-home-devices-1850612395)
+- [Lifehacker] [The Best Amazon Prime Day Deals on Travel Gear](https://lifehacker.com/the-best-amazon-prime-day-deals-on-travel-gear-1850626448)
+- [Dev.to/JS] [JSON: A Comprehensive Guide to JavaScript Object Notation](https://dev.to/odopeter/json-a-comprehensive-guide-to-javascript-object-notation-267k)
+- [Dev.to/JS] [How to build AI solution capable to build a e-commerce store](https://dev.to/igorboky/how-to-build-ai-solution-capable-to-build-a-e-commerce-store-2c2e)
+- [Lifehacker] [The Best Prime Day Deals on Kitchen Appliances](https://lifehacker.com/the-best-prime-day-deals-on-kitchen-appliances-1850626273)
+- [Lifehacker] [Get Three Months of Audible Premium Plus Free During Prime Day](https://lifehacker.com/get-three-months-of-audible-premium-plus-free-during-pr-1850528815)
 - [Lifehacker] [Your Best Prime Day Beauty Splurges](https://lifehacker.com/your-best-prime-day-beauty-splurges-1850610216)
+- [Dev.to/JS] [Geddit - A Reddit client without their API](https://dev.to/kaangiray26/geddit-a-reddit-client-without-their-api-2dfp)
 - [Lifehacker] [The Best Amazon Fire TV Stick Deals for Prime Day](https://lifehacker.com/the-best-amazon-fire-tv-stick-deals-for-prime-day-1850544721)
 - [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)
 - [Lifehacker] [The Best Prime Day Deals on Cosmetics Basics](https://lifehacker.com/the-best-prime-day-deals-on-cosmetics-basics-1850616042)
@@ -48,9 +55,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Ask Alexa to Notify You About Upcoming Prime Day Deals](https://lifehacker.com/you-can-ask-alexa-to-notify-you-about-upcoming-prime-da-1850625257)
 - [Dev.to/JS] [How to Set Up Continuous Deployment for Your Node App with Cloud Run and Cloud Build](https://dev.to/martiinwalsh/how-to-set-up-continuous-deployment-for-your-node-app-with-cloud-run-and-cloud-build-304n)
 - [Lifehacker] [The Best Prime Day Deals on LED, QLED, and OLED TVs](https://lifehacker.com/the-best-prime-day-deals-on-led-qled-and-oled-tvs-1850561862)
-- [Dev.to/JS] [Add Element To Div Using appendChild&lpar;&rpar; JavaScript](https://dev.to/rajatamil/add-element-to-div-using-appendchild-javascript-1pa7)
-- [Dev.to/JS] [GPT Web App Generator - Let AI create a full-stack React &amp; Node.js codebase based on your description 🤖🤯](https://dev.to/wasp/gpt-web-app-generator-let-ai-create-a-full-stack-react-nodejs-codebase-based-on-your-description-2g39)
-- [Dev.to/JS] [How to Use the JavaScript Fullscreen API](https://dev.to/farhadi/how-to-use-the-javascript-fullscreen-api-eao)
 - [Lifehacker] [The Best Prime Day Deals for Your Home Bar](https://lifehacker.com/the-best-prime-day-deals-for-your-home-bar-1850624677)
 - [Lifehacker] [The Best Fitness Smartwatch Deals for Prime Day](https://lifehacker.com/the-best-fitness-smartwatch-deals-for-prime-day-1850597508)
 - [Lifehacker] [The Best Prime Day Deals on Air Fryers](https://lifehacker.com/the-best-prime-day-deals-on-air-fryers-1850623713)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get a Lifetime Subscription to Microsoft Office on Mac for $30](https://lifehacker.com/get-a-lifetime-subscription-to-microsoft-office-on-mac-1850589595)
 - [Lifehacker] [The Best Early Prime Day Deals for Vacuums](https://lifehacker.com/the-best-early-prime-day-deals-for-vacuums-1850562769)
 - [Lifehacker] [The Best Early Prime Day Deals on Mattresses](https://lifehacker.com/best-early-prime-day-deals-on-mattresses-1850608114)
-- [Lifehacker] [Where to Watch Marvel&#39;s &#39;Secret Invasion&#39; &lpar;and What You Need to Know Going In&rpar;](https://lifehacker.com/where-to-watch-marvels-secret-invasion-and-what-you-ne-1850615977)
-- [Lifehacker] [Make an Awesome, DIY Water Table for Your Kids This Summer](https://lifehacker.com/make-an-awesome-diy-water-table-for-your-kids-this-sum-1850613449)
-- [Lifehacker] [You Might Want to Get a Flu Shot Early If You’re Pregnant, CDC Says](https://lifehacker.com/you-might-want-to-get-a-flu-shot-early-if-you-re-pregna-1850623507)
-- [Lifehacker] [Do You Make Friends at Work?](https://lifehacker.com/do-you-make-friends-at-work-1850595848)
-- [Lifehacker] [This One-Time Wine Delivery Sends You 15 Bottles for $60, Plus Shipping](https://lifehacker.com/this-one-time-wine-delivery-sends-you-15-bottles-for-6-1850612302)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Watch Marvel&#39;s &#39;Secret Invasion&#39; &lpar;and What You Need to Know Going In&rpar;](https://lifehacker.com/where-to-watch-marvels-secret-invasion-and-what-you-ne-1850615977)<!-- TECH-POSTS:END -->
 
 ---
 
