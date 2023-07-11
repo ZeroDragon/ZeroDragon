@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NightCafe AI Review &amp; Full Tutorial &lpar;July 2023&rpar;](https://dev.to/reganthapa/nightcafe-ai-review-full-tutorial-july-2023-3lic)
+- [Dev.to/JS] [🔥🤯 Amazing Food Order hero section using HTML, CSS and JS.](https://dev.to/themodernweb/amazing-food-order-hero-section-using-html-css-and-js-2dh0)
+- [Lifehacker] [The Best Prime Day Deals on Air Fryers](https://lifehacker.com/the-best-prime-day-deals-on-air-fryers-1850623713)
+- [Dev.to/JS] [How to Fix Absolute path not working in Vite project React TS](https://dev.to/willochs316/how-to-fix-absolute-path-not-working-in-vite-project-react-ts-3aj9)
+- [Dev.to/JS] [Day 2: Polyfill for Array.includes&lpar;&rpar;](https://dev.to/dhrn/array-includes-polyfill-5g00)
+- [Lifehacker] [The 10 Best Prime Day Deals on LEGO Sets](https://lifehacker.com/the-10-best-prime-day-deals-on-lego-sets-1850623443)
+- [Dev.to/JS] [Understanding Prototypal Inheritance in JavaScript: Enhancing Code Efficiency](https://dev.to/iayeshasahar/understanding-prototypal-inheritance-in-javascript-enhancing-code-efficiency-hen)
+- [Dev.to/JS] [Limitation of TRPC&#39;s Type Inference and How We Improved It](https://dev.to/zenstack/limitation-of-trpcs-type-inference-and-how-we-improved-it-47fl)
 - [Lifehacker] [The Best Amazon Prime Day Deals If You Are Experiencing Overwhelming Existential Dread](https://lifehacker.com/the-best-amazon-prime-day-deals-if-you-are-experiencing-1850616974)
 - [Dev.to/JS] [🫰Clickvote: Open-source upvotes, likes, and reviews to any context 🔥](https://dev.to/github20k/clickvote-open-source-upvotes-likes-and-reviews-to-any-context-3ef9)
 - [Dev.to/JS] [Promise Limit for Bulk Await - Improve Performance and Efficiency](https://dev.to/aurangzaibramzan/promise-limit-for-bulk-await-improve-performance-and-efficiency-28f5)
@@ -33,13 +41,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Quick Thoughts on Effect-TS](https://dev.to/jesterxl/quick-thoughts-on-effect-ts-148l)
 - [Dev.to/JS] [A Blueprint to Avoid Multiple WebSocket Connections in a React Chat App](https://dev.to/abihasna/a-blueprint-to-avoid-multiple-websocket-connections-in-a-react-chat-app-2g40)
 - [Dev.to/JS] [Moonly weekly progress update #56 - Moonly Holders benefit within the Karamendos ecosystem](https://dev.to/moonly/moonly-weekly-progress-update-56-moonly-holders-benefit-within-the-karamendos-ecosystem-2plj)
-- [Dev.to/JS] [Qwik – The Post-Modern Framework](https://dev.to/this-is-learning/qwik-the-post-modern-framework-3c5o)
-- [Dev.to/JS] [a new way to use state in react](https://dev.to/lovetingyuan/a-new-way-to-use-state-in-react-14fe)
-- [Dev.to/JS] [You&#39;ll be more productive learning webpack with these methods](https://dev.to/limingcan562/youll-be-more-productive-learning-webpack-with-these-methods-469p)
-- [Dev.to/JS] [Integrating Test Data in AskUI Workflows from APIs, CSV Files, and Databases](https://dev.to/johannesdienst/integrating-test-data-in-askui-workflows-from-apis-csv-files-and-databases-5f8)
-- [Dev.to/JS] [CASE V2 Proof of Concept launch](https://dev.to/casejs/case-v2-proof-of-concept-launch-1dn9)
-- [Dev.to/JS] [ARRAY METHODS](https://dev.to/ileolami/array-methods-5b28)
+- [Lifehacker] [The Best Early Prime Day Deals on Everyday Items](https://lifehacker.com/the-best-early-prime-day-deals-on-everyday-items-1850616720)
+- [Lifehacker] [The Best Early Prime Day Back-to-School Deals](https://lifehacker.com/the-best-early-prime-day-back-to-school-deals-1850588883)
 - [Lifehacker] [Get a Lifetime Subscription to Microsoft Office on Mac for $30](https://lifehacker.com/get-a-lifetime-subscription-to-microsoft-office-on-mac-1850589595)
+- [Lifehacker] [The Best Early Prime Day Deals for Vacuums](https://lifehacker.com/the-best-early-prime-day-deals-for-vacuums-1850562769)
 - [Lifehacker] [The Best Early Prime Day Deals on Mattresses](https://lifehacker.com/best-early-prime-day-deals-on-mattresses-1850608114)
 - [Lifehacker] [Where to Watch Marvel&#39;s &#39;Secret Invasion&#39; &lpar;and What You Need to Know Going In&rpar;](https://lifehacker.com/where-to-watch-marvels-secret-invasion-and-what-you-ne-1850615977)
 - [Lifehacker] [Make an Awesome, DIY Water Table for Your Kids This Summer](https://lifehacker.com/make-an-awesome-diy-water-table-for-your-kids-this-sum-1850613449)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Take Advantage of Best Buy&#39;s Prime Day Competition Sale](https://lifehacker.com/you-should-take-advantage-of-best-buys-prime-day-compet-1850617105)
 - [Lifehacker] [How to Make &lpar;and Share&rpar; Your Amazon Wishlist Before Prime Day](https://lifehacker.com/how-to-make-and-share-your-amazon-wishlist-before-pri-1850620369)
 - [Lifehacker] [Stop Looking at the Stupid Little Dial Thermometer on Your Grill](https://lifehacker.com/stop-looking-at-the-stupid-little-dial-thermometer-on-y-1850616770)
-- [Lifehacker] [Five Ways to Keep Your Car&#39;s Interior Cooler in the Summer](https://lifehacker.com/five-ways-to-keep-your-cars-interior-cooler-in-the-summ-1850619152)
-- [Lifehacker] [The Best Ways to Stop Your Smoke Detector From Going Off While Cooking](https://lifehacker.com/the-best-ways-to-stop-your-smoke-detector-from-going-of-1850619154)
-- [Lifehacker] [Three Clues That a House Will Be For Sale Soon](https://lifehacker.com/three-clues-that-a-house-will-be-for-sale-soon-1850619169)
-- [Crazy Programmer] [5 Ways to Make Money Online as a Programmer](https://www.thecrazyprogrammer.com/2023/07/make-money-online-as-a-programmer.html)
-- [Lifehacker] [Five Ways to Make an Air Mattress Feel Like the Real Thing](https://lifehacker.com/five-ways-to-make-an-air-mattress-feel-like-the-real-th-1850617371)
-- [Lifehacker] [The Best Vegetables to Grow in the Shade](https://lifehacker.com/the-best-vegetables-to-grow-in-the-shade-1850617379)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five Ways to Keep Your Car&#39;s Interior Cooler in the Summer](https://lifehacker.com/five-ways-to-keep-your-cars-interior-cooler-in-the-summ-1850619152)<!-- TECH-POSTS:END -->
 
 ---
 
