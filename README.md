@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Amazon Prime Day Deals on Grills and Smokers](https://lifehacker.com/the-best-amazon-prime-day-deals-on-grills-and-smokers-1850627642)
+- [Lifehacker] [This 38,000-Course Golf Simulator Is $190 Right Now](https://lifehacker.com/this-38-000-course-golf-simulator-is-190-right-now-1850612859)
+- [Dev.to/JS] [ARIA: Saving the World, One Accessible Web App at a Time!](https://dev.to/tharapearlly/aria-saving-the-world-one-accessible-web-app-at-a-time-4daj)
+- [Lifehacker] [The Best Prime Day Deals on Beauty and Personal Care Appliances](https://lifehacker.com/the-best-prime-day-deals-on-beauty-and-personal-care-ap-1850626751)
+- [Lifehacker] [The Best Prime Day Deals on Summer Toys for Kids](https://lifehacker.com/the-best-prime-day-deals-on-summer-toys-for-kids-1850627144)
+- [Lifehacker] [The Best Prime Day Deals on Kindles](https://lifehacker.com/the-best-prime-day-deals-on-kindles-1850540392)
 - [Lifehacker] [You Can Tell If a Prime Day Deal Is Just Hype](https://lifehacker.com/how-to-tell-if-a-prime-day-deal-is-really-just-hype-1849165522)
 - [Lifehacker] [The Best Prime Day Deals on Fitness Equipment](https://lifehacker.com/the-best-prime-day-deals-on-fitness-equipment-1850612252)
 - [Dev.to/JS] [Throttling in JavaScript Easiest Explanation✨🚀](https://dev.to/jeetvora331/throttling-in-javascript-easiest-explanation-1081)
@@ -57,15 +63,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Prime Day Deals on Bluetooth Speakers](https://lifehacker.com/the-best-prime-day-deals-on-bluetooth-speakers-1850559866)
 - [Dev.to/JS] [Bring the &#39;jump to search&#39; keyboard shortcut to any site with userscripts](https://dev.to/shu8/bring-the-jump-to-search-keyboard-shortcut-to-any-site-with-userscripts-518d)
 - [Lifehacker] [Amazon&#39;s Fire TV Cube Has Its Cheapest Price Ever for Prime Day](https://lifehacker.com/amazons-fire-tv-cube-has-its-cheapest-price-ever-for-pr-1850544783)
-- [Dev.to/JS] [String + or Literals Template](https://dev.to/suni/string-or-literals-template-3f68)
 - [Lifehacker] [The Best Prime Day Deals on Rowing Machines](https://lifehacker.com/the-best-prime-day-deals-on-rowing-machines-1850592624)
 - [Lifehacker] [The Best Prime Day Deals on Apple Devices](https://lifehacker.com/the-best-prime-day-deals-on-apple-devices-1850545590)
-- [Lifehacker] [You Can Ask Alexa to Notify You About Upcoming Prime Day Deals](https://lifehacker.com/you-can-ask-alexa-to-notify-you-about-upcoming-prime-da-1850625257)
-- [Lifehacker] [The Best Prime Day Deals on LED, QLED, and OLED TVs](https://lifehacker.com/the-best-prime-day-deals-on-led-qled-and-oled-tvs-1850561862)
-- [Lifehacker] [The Best Prime Day Deals for Your Home Bar](https://lifehacker.com/the-best-prime-day-deals-for-your-home-bar-1850624677)
-- [Lifehacker] [The Best Fitness Smartwatch Deals for Prime Day](https://lifehacker.com/the-best-fitness-smartwatch-deals-for-prime-day-1850597508)
-- [Lifehacker] [The Best Prime Day Deals on Air Fryers](https://lifehacker.com/the-best-prime-day-deals-on-air-fryers-1850623713)
-- [Lifehacker] [The 10 Best Prime Day Deals on LEGO Sets](https://lifehacker.com/the-10-best-prime-day-deals-on-lego-sets-1850623443)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Ask Alexa to Notify You About Upcoming Prime Day Deals](https://lifehacker.com/you-can-ask-alexa-to-notify-you-about-upcoming-prime-da-1850625257)<!-- TECH-POSTS:END -->
 
 ---
 
