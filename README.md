@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript Cheatsheet — Essential Syntax and Concepts](https://dev.to/parthee/typescript-cheatsheet-essential-syntax-and-concepts-30ej)
+- [Dev.to/JS] [Step-by-Step Guide to Building an NPM Package, Publishing to NPM Registry, and Setting Up Documentation &lpar;Part 2&rpar;](https://dev.to/toolkituse/step-by-step-guide-to-building-an-npm-package-publishing-to-npm-registry-and-setting-up-documentation-part-2-2k8)
 - [Dev.to/JS] [Reading and Writing Files In Node.Js Using Modules.](https://dev.to/dotjos/reading-and-writing-files-in-nodejs-using-modules-i5b)
 - [Dev.to/JS] [La ciencia de losz algoritmos](https://dev.to/dennysjmarquez/la-ciencia-de-losz-algoritmos-56k)
 - [Dev.to/JS] [Using Deno KV with Deno deploy guide](https://dev.to/christiandale/using-deno-kv-with-deno-deploy-guide-171o)
@@ -43,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Eventos en Javascript](https://dev.to/beresiartejuan/eventos-en-javascript-3mch)
 - [Lifehacker] [Do You Make Friends at Work?](https://lifehacker.com/do-you-make-friends-at-work-1850595848)
 - [Lifehacker] [This One-Time Wine Delivery Sends You 15 Bottles for $60, Plus Shipping](https://lifehacker.com/this-one-time-wine-delivery-sends-you-15-bottles-for-6-1850612302)
-- [Dev.to/JS] [Demystifying Server-Side Rendering in Next JS: A Beginner&#39;s Guide](https://dev.to/iamkelv/demystifying-server-side-rendering-in-next-js-a-beginners-guide-55lh)
-- [Dev.to/JS] [Mutable And Immutable Values in Javascript](https://dev.to/vasilgvasilev/mutable-and-immutable-values-in-javascript-1eho)
 - [Lifehacker] [Make Better Sandwiches, Toasts, and Crostini With a Quick Garlic Rub](https://lifehacker.com/make-better-sandwiches-toasts-and-crostini-with-a-qui-1850622342)
 - [Lifehacker] [You Can Probably Fix Your Stove’s Broken Burner Yourself](https://lifehacker.com/you-can-probably-fix-your-stove-s-broken-burner-yoursel-1850621869)
 - [Lifehacker] [You Can Schedule Your Amazon Prime Membership to Automatically Cancel After Prime Day](https://lifehacker.com/you-can-schedule-your-amazon-prime-membership-to-automa-1850619291)
