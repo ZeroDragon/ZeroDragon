@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Tell If a Prime Day Deal Is Just Hype](https://lifehacker.com/how-to-tell-if-a-prime-day-deal-is-really-just-hype-1849165522)
+- [Lifehacker] [The Best Prime Day Deals on Fitness Equipment](https://lifehacker.com/the-best-prime-day-deals-on-fitness-equipment-1850612252)
+- [Dev.to/JS] [Throttling in JavaScript Easiest Explanation✨🚀](https://dev.to/jeetvora331/throttling-in-javascript-easiest-explanation-1081)
+- [Lifehacker] [Get a Meta Quest 2 VR for $299, Plus a $50 Gift Card](https://lifehacker.com/get-a-meta-quest-2-vr-for-299-plus-a-50-gift-card-1850627629)
 - [Lifehacker] [All the Reasons You Might Not Want to Join Threads](https://lifehacker.com/all-the-reasons-you-might-not-want-to-join-threads-1850625656)
 - [Dev.to/JS] [Delve into HTML canvas: The underlying solutions in my project.](https://dev.to/maurerkrisztian/delve-into-html-canvas-the-underlying-solutions-in-my-project-18a)
 - [Lifehacker] [The Best Prime Day Deals on Cordless Vacuums](https://lifehacker.com/the-best-prime-day-deals-on-cordless-vacuums-1850627235)
@@ -55,17 +59,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Amazon&#39;s Fire TV Cube Has Its Cheapest Price Ever for Prime Day](https://lifehacker.com/amazons-fire-tv-cube-has-its-cheapest-price-ever-for-pr-1850544783)
 - [Dev.to/JS] [String + or Literals Template](https://dev.to/suni/string-or-literals-template-3f68)
 - [Lifehacker] [The Best Prime Day Deals on Rowing Machines](https://lifehacker.com/the-best-prime-day-deals-on-rowing-machines-1850592624)
-- [Dev.to/JS] [Why NextJS?](https://dev.to/nzubechukwu_okere/why-nextjs-ipp)
 - [Lifehacker] [The Best Prime Day Deals on Apple Devices](https://lifehacker.com/the-best-prime-day-deals-on-apple-devices-1850545590)
 - [Lifehacker] [You Can Ask Alexa to Notify You About Upcoming Prime Day Deals](https://lifehacker.com/you-can-ask-alexa-to-notify-you-about-upcoming-prime-da-1850625257)
 - [Lifehacker] [The Best Prime Day Deals on LED, QLED, and OLED TVs](https://lifehacker.com/the-best-prime-day-deals-on-led-qled-and-oled-tvs-1850561862)
 - [Lifehacker] [The Best Prime Day Deals for Your Home Bar](https://lifehacker.com/the-best-prime-day-deals-for-your-home-bar-1850624677)
 - [Lifehacker] [The Best Fitness Smartwatch Deals for Prime Day](https://lifehacker.com/the-best-fitness-smartwatch-deals-for-prime-day-1850597508)
 - [Lifehacker] [The Best Prime Day Deals on Air Fryers](https://lifehacker.com/the-best-prime-day-deals-on-air-fryers-1850623713)
-- [Lifehacker] [The 10 Best Prime Day Deals on LEGO Sets](https://lifehacker.com/the-10-best-prime-day-deals-on-lego-sets-1850623443)
-- [Lifehacker] [The Best Amazon Prime Day Deals If You Are Experiencing Overwhelming Existential Dread](https://lifehacker.com/the-best-amazon-prime-day-deals-if-you-are-experiencing-1850616974)
-- [Lifehacker] [The Best Early Prime Day Deals on Everyday Items](https://lifehacker.com/the-best-early-prime-day-deals-on-everyday-items-1850616720)
-- [Lifehacker] [The Best Early Prime Day Back-to-School Deals](https://lifehacker.com/the-best-early-prime-day-back-to-school-deals-1850588883)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The 10 Best Prime Day Deals on LEGO Sets](https://lifehacker.com/the-10-best-prime-day-deals-on-lego-sets-1850623443)<!-- TECH-POSTS:END -->
 
 ---
 
