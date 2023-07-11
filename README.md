@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [REACT CLEAN CODE: WAYS TO WRITE BETTER, MORE EFFICIENT, AND CLEANER CODE](https://dev.to/johnreyasong/react-clean-code-ways-to-write-better-more-efficient-and-cleaner-code-5d2k)
+- [Dev.to/JS] [Closure](https://dev.to/sundarbadagala081/closure-1i09)
+- [Dev.to/JS] [How to Ensure High Availability for GreptimeDB Cluster: Introducing Region Failover Feature](https://dev.to/greptime/how-to-ensure-high-availability-for-greptimedb-cluster-introducing-region-failover-feature-2egl)
+- [Dev.to/JS] [Premium Refurbished Laptops with 6-Month Warranty: Unleash Your Computing Potential](https://dev.to/eazypc/premium-refurbished-laptops-with-6-month-warranty-unleash-your-computing-potential-32pp)
+- [Dev.to/JS] [React clean code: Ways to write better, more efficient, and cleaner code](https://dev.to/johnreyasong/react-clean-code-ways-to-write-better-more-efficient-and-cleaner-code-5d2k)
 - [Dev.to/JS] [Unlocking Potential With Top 10 Node Applications](https://dev.to/dhruvil_joshi14/unlocking-potential-with-top-10-node-applications-5hb7)
 - [Dev.to/JS] [Typescript Cheatsheet — Essential Syntax and Concepts](https://dev.to/parthee/typescript-cheatsheet-essential-syntax-and-concepts-30ej)
 - [Dev.to/JS] [Step-by-Step Guide to Building an NPM Package, Publishing to NPM Registry, and Setting Up Documentation &lpar;Part 2&rpar;](https://dev.to/toolkituse/step-by-step-guide-to-building-an-npm-package-publishing-to-npm-registry-and-setting-up-documentation-part-2-2k8)
@@ -36,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Power of JavaScript Objects and Arrays](https://dev.to/zeek04/power-of-javascript-objects-and-arrays-2fcl)
 - [Dev.to/JS] [Typerorr HtmlDom](https://dev.to/zedcodo/typerorr-htmldom-413m)
 - [Lifehacker] [Get a Lifetime Subscription to Microsoft Office on Mac for $30](https://lifehacker.com/get-a-lifetime-subscription-to-microsoft-office-on-mac-1850589595)
-- [Dev.to/JS] [Simple JavaScript Challenges with solutions](https://dev.to/bansikah/simple-javascript-challenges-with-solutions-24)
-- [Dev.to/JS] [Getting Observability Into DynamoDB With OpenTelemetry in Node](https://dev.to/telemetryhub/getting-observability-into-dynamodb-with-opentelemetry-in-node-mnd)
 - [Lifehacker] [The Best Early Prime Day Deals on Mattresses](https://lifehacker.com/best-early-prime-day-deals-on-mattresses-1850608114)
-- [Dev.to/JS] [RxJS Operators: bufferCount](https://dev.to/drownedintech/rxjs-operators-buffercount-4m30)
 - [Lifehacker] [Where to Watch Marvel&#39;s &#39;Secret Invasion&#39; &lpar;and What You Need to Know Going In&rpar;](https://lifehacker.com/where-to-watch-marvels-secret-invasion-and-what-you-ne-1850615977)
 - [Lifehacker] [Make an Awesome, DIY Water Table for Your Kids This Summer](https://lifehacker.com/make-an-awesome-diy-water-table-for-your-kids-this-sum-1850613449)
 - [Lifehacker] [You Might Want to Get a Flu Shot Early If You’re Pregnant, CDC Says](https://lifehacker.com/you-might-want-to-get-a-flu-shot-early-if-you-re-pregna-1850623507)
