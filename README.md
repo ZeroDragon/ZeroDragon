@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Reasons You Might Not Want to Join Threads](https://lifehacker.com/all-the-reasons-you-might-not-want-to-join-threads-1850625656)
+- [Dev.to/JS] [Delve into HTML canvas: The underlying solutions in my project.](https://dev.to/maurerkrisztian/delve-into-html-canvas-the-underlying-solutions-in-my-project-18a)
+- [Lifehacker] [The Best Prime Day Deals on Cordless Vacuums](https://lifehacker.com/the-best-prime-day-deals-on-cordless-vacuums-1850627235)
+- [Lifehacker] [The One Type of Tech You Should Buy on Prime Day](https://lifehacker.com/prime-day-is-best-for-exactly-one-type-of-tech-1849164435)
+- [Lifehacker] [Get Four Months of Amazon Music Unlimited Free During Prime Day](https://lifehacker.com/get-four-months-of-amazon-music-unlimited-free-during-p-1850535072)
 - [Lifehacker] [The Best Prime Deal Deals on Smart Home Devices](https://lifehacker.com/the-best-prime-deal-deals-on-smart-home-devices-1850612395)
 - [Lifehacker] [The Best Amazon Prime Day Deals on Travel Gear](https://lifehacker.com/the-best-amazon-prime-day-deals-on-travel-gear-1850626448)
 - [Dev.to/JS] [JSON: A Comprehensive Guide to JavaScript Object Notation](https://dev.to/odopeter/json-a-comprehensive-guide-to-javascript-object-notation-267k)
@@ -42,7 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Prime Day Deals on Exercise Bikes](https://lifehacker.com/the-best-prime-day-deals-on-exercise-bikes-1850567708)
 - [Dev.to/JS] [How to Style Progress Bar with Tailwind CSS?](https://dev.to/aditya_barde/how-to-style-progress-bar-with-tailwind-css-4i2o)
 - [Dev.to/JS] [Unlocking the Power of Hooks and Refs: A Step-by-Step Guide to Building a Custom Tooltip in React](https://dev.to/stretch0/unlocking-the-power-of-hooks-and-refs-a-step-by-step-guide-to-building-a-custom-tooltip-in-react-13p3)
-- [Lifehacker] [This Xbox Series S is $199 Right Now for Prime Day](https://lifehacker.com/this-xbox-series-s-is-199-right-now-for-prime-day-1850627042)
+- [Lifehacker] [This Xbox Series S Is $199 Right Now for Prime Day](https://lifehacker.com/this-xbox-series-s-is-199-right-now-for-prime-day-1850627042)
 - [Dev.to/JS] [Build a blockchain app from the ground up in two days at Vue.js Forge Episode 4 Powered by Kadena 🔥](https://dev.to/anaamarijaa/build-a-blockchain-app-from-the-ground-up-in-two-days-at-vuejs-forge-episode-4-powered-by-kadena-1ifp)
 - [Dev.to/JS] [Building a Dashboard App with Next.js: A Comprehensive Guide](https://dev.to/stackcodify/building-a-dashboard-app-with-nextjs-a-comprehensive-guide-4em0)
 - [Lifehacker] [The Best Prime Day Deals on Bluetooth Speakers](https://lifehacker.com/the-best-prime-day-deals-on-bluetooth-speakers-1850559866)
@@ -53,7 +58,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why NextJS?](https://dev.to/nzubechukwu_okere/why-nextjs-ipp)
 - [Lifehacker] [The Best Prime Day Deals on Apple Devices](https://lifehacker.com/the-best-prime-day-deals-on-apple-devices-1850545590)
 - [Lifehacker] [You Can Ask Alexa to Notify You About Upcoming Prime Day Deals](https://lifehacker.com/you-can-ask-alexa-to-notify-you-about-upcoming-prime-da-1850625257)
-- [Dev.to/JS] [How to Set Up Continuous Deployment for Your Node App with Cloud Run and Cloud Build](https://dev.to/martiinwalsh/how-to-set-up-continuous-deployment-for-your-node-app-with-cloud-run-and-cloud-build-304n)
 - [Lifehacker] [The Best Prime Day Deals on LED, QLED, and OLED TVs](https://lifehacker.com/the-best-prime-day-deals-on-led-qled-and-oled-tvs-1850561862)
 - [Lifehacker] [The Best Prime Day Deals for Your Home Bar](https://lifehacker.com/the-best-prime-day-deals-for-your-home-bar-1850624677)
 - [Lifehacker] [The Best Fitness Smartwatch Deals for Prime Day](https://lifehacker.com/the-best-fitness-smartwatch-deals-for-prime-day-1850597508)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 10 Best Prime Day Deals on LEGO Sets](https://lifehacker.com/the-10-best-prime-day-deals-on-lego-sets-1850623443)
 - [Lifehacker] [The Best Amazon Prime Day Deals If You Are Experiencing Overwhelming Existential Dread](https://lifehacker.com/the-best-amazon-prime-day-deals-if-you-are-experiencing-1850616974)
 - [Lifehacker] [The Best Early Prime Day Deals on Everyday Items](https://lifehacker.com/the-best-early-prime-day-deals-on-everyday-items-1850616720)
-- [Lifehacker] [The Best Early Prime Day Back-to-School Deals](https://lifehacker.com/the-best-early-prime-day-back-to-school-deals-1850588883)
-- [Lifehacker] [Get a Lifetime Subscription to Microsoft Office on Mac for $30](https://lifehacker.com/get-a-lifetime-subscription-to-microsoft-office-on-mac-1850589595)
-- [Lifehacker] [The Best Early Prime Day Deals for Vacuums](https://lifehacker.com/the-best-early-prime-day-deals-for-vacuums-1850562769)
-- [Lifehacker] [The Best Early Prime Day Deals on Mattresses](https://lifehacker.com/best-early-prime-day-deals-on-mattresses-1850608114)
-- [Lifehacker] [Where to Watch Marvel&#39;s &#39;Secret Invasion&#39; &lpar;and What You Need to Know Going In&rpar;](https://lifehacker.com/where-to-watch-marvels-secret-invasion-and-what-you-ne-1850615977)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Early Prime Day Back-to-School Deals](https://lifehacker.com/the-best-early-prime-day-back-to-school-deals-1850588883)<!-- TECH-POSTS:END -->
 
 ---
 
