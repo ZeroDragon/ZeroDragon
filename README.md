@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#LearnedToday: Array.toSpliced&lpar;&rpar;](https://dev.to/danielzotti/learnedtoday-arraytospliced-1h9b)
+- [Dev.to/JS] [How To Use Cypress For File Upload and Download](https://dev.to/lambdatest/how-to-use-cypress-for-file-upload-and-download-2mo8)
+- [Dev.to/JS] [AI Code Completion for Developers](https://dev.to/aiforme/ai-code-completion-for-developers-alo)
 - [Dev.to/JS] [An Ultimate all-in-one Auth Module in React Native: Enable One-line Sign-Up and Sign in with Eartho on your device.](https://dev.to/rushitjivani/an-ultimate-all-in-one-auth-module-in-react-native-enable-one-line-sign-up-and-sign-in-with-eartho-on-your-device-17a1)
 - [Dev.to/JS] [My Journey in Open Source - force-return](https://dev.to/cadienvan/my-journey-in-open-source-force-return-4jfm)
 - [Dev.to/JS] [10 Advanced Git Commands](https://dev.to/lalitkumawat1m/10-advanced-git-commands-3b8g)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React clean code: Ways to write better, more efficient, and cleaner code](https://dev.to/johnreyasong/react-clean-code-ways-to-write-better-more-efficient-and-cleaner-code-5d2k)
 - [Dev.to/JS] [Unlocking Potential With Top 10 Node Applications](https://dev.to/dhruvil_joshi14/unlocking-potential-with-top-10-node-applications-5hb7)
 - [Dev.to/JS] [Typescript Cheatsheet — Essential Syntax and Concepts](https://dev.to/parthee/typescript-cheatsheet-essential-syntax-and-concepts-30ej)
-- [Dev.to/JS] [Step-by-Step Guide to Building an NPM Package, Publishing to NPM Registry, and Setting Up Documentation &lpar;Part 2&rpar;](https://dev.to/toolkituse/step-by-step-guide-to-building-an-npm-package-publishing-to-npm-registry-and-setting-up-documentation-part-2-2k8)
-- [Dev.to/JS] [Reading and Writing Files In Node.Js Using Modules.](https://dev.to/dotjos/reading-and-writing-files-in-nodejs-using-modules-i5b)
-- [Dev.to/JS] [La ciencia de losz algoritmos](https://dev.to/dennysjmarquez/la-ciencia-de-losz-algoritmos-56k)
 - [Lifehacker] [Get a Lifetime Subscription to Microsoft Office on Mac for $30](https://lifehacker.com/get-a-lifetime-subscription-to-microsoft-office-on-mac-1850589595)
 - [Lifehacker] [The Best Early Prime Day Deals on Mattresses](https://lifehacker.com/best-early-prime-day-deals-on-mattresses-1850608114)
 - [Lifehacker] [Where to Watch Marvel&#39;s &#39;Secret Invasion&#39; &lpar;and What You Need to Know Going In&rpar;](https://lifehacker.com/where-to-watch-marvels-secret-invasion-and-what-you-ne-1850615977)
