@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Amazon Prime Day Deals If You Are Experiencing Overwhelming Existential Dread](https://lifehacker.com/the-best-amazon-prime-day-deals-if-you-are-experiencing-1850616974)
+- [Dev.to/JS] [🫰Clickvote: Open-source upvotes, likes, and reviews to any context 🔥](https://dev.to/github20k/clickvote-open-source-upvotes-likes-and-reviews-to-any-context-3ef9)
+- [Dev.to/JS] [Promise Limit for Bulk Await - Improve Performance and Efficiency](https://dev.to/aurangzaibramzan/promise-limit-for-bulk-await-improve-performance-and-efficiency-28f5)
+- [Dev.to/JS] [Starting a SaaS.](https://dev.to/redbeardjunior/starting-a-saas-1abn)
+- [Dev.to/JS] [Quick Thoughts on Effect-TS](https://dev.to/jesterxl/quick-thoughts-on-effect-ts-148l)
 - [Dev.to/JS] [A Blueprint to Avoid Multiple WebSocket Connections in a React Chat App](https://dev.to/abihasna/a-blueprint-to-avoid-multiple-websocket-connections-in-a-react-chat-app-2g40)
 - [Dev.to/JS] [Moonly weekly progress update #56 - Moonly Holders benefit within the Karamendos ecosystem](https://dev.to/moonly/moonly-weekly-progress-update-56-moonly-holders-benefit-within-the-karamendos-ecosystem-2plj)
 - [Dev.to/JS] [Qwik – The Post-Modern Framework](https://dev.to/this-is-learning/qwik-the-post-modern-framework-3c5o)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Integrating Test Data in AskUI Workflows from APIs, CSV Files, and Databases](https://dev.to/johannesdienst/integrating-test-data-in-askui-workflows-from-apis-csv-files-and-databases-5f8)
 - [Dev.to/JS] [CASE V2 Proof of Concept launch](https://dev.to/casejs/case-v2-proof-of-concept-launch-1dn9)
 - [Dev.to/JS] [ARRAY METHODS](https://dev.to/ileolami/array-methods-5b28)
-- [Dev.to/JS] [#LearnedToday: Array.toSpliced&lpar;&rpar;](https://dev.to/danielzotti/learnedtoday-arraytospliced-1h9b)
-- [Dev.to/JS] [How To Use Cypress For File Upload and Download](https://dev.to/lambdatest/how-to-use-cypress-for-file-upload-and-download-2mo8)
-- [Dev.to/JS] [AI Code Completion for Developers](https://dev.to/aiforme/ai-code-completion-for-developers-alo)
-- [Dev.to/JS] [An Ultimate all-in-one Auth Module in React Native: Enable One-line Sign-Up and Sign in with Eartho on your device.](https://dev.to/rushitjivani/an-ultimate-all-in-one-auth-module-in-react-native-enable-one-line-sign-up-and-sign-in-with-eartho-on-your-device-17a1)
 - [Lifehacker] [Get a Lifetime Subscription to Microsoft Office on Mac for $30](https://lifehacker.com/get-a-lifetime-subscription-to-microsoft-office-on-mac-1850589595)
 - [Lifehacker] [The Best Early Prime Day Deals on Mattresses](https://lifehacker.com/best-early-prime-day-deals-on-mattresses-1850608114)
 - [Lifehacker] [Where to Watch Marvel&#39;s &#39;Secret Invasion&#39; &lpar;and What You Need to Know Going In&rpar;](https://lifehacker.com/where-to-watch-marvels-secret-invasion-and-what-you-ne-1850615977)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Clues That a House Will Be For Sale Soon](https://lifehacker.com/three-clues-that-a-house-will-be-for-sale-soon-1850619169)
 - [Crazy Programmer] [5 Ways to Make Money Online as a Programmer](https://www.thecrazyprogrammer.com/2023/07/make-money-online-as-a-programmer.html)
 - [Lifehacker] [Five Ways to Make an Air Mattress Feel Like the Real Thing](https://lifehacker.com/five-ways-to-make-an-air-mattress-feel-like-the-real-th-1850617371)
-- [Lifehacker] [The Best Vegetables to Grow in the Shade](https://lifehacker.com/the-best-vegetables-to-grow-in-the-shade-1850617379)
-- [Lifehacker] [Skip the Long Wait for a New Passport at These Events](https://lifehacker.com/skip-the-long-wait-for-a-new-passport-at-these-events-1850617386)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Vegetables to Grow in the Shade](https://lifehacker.com/the-best-vegetables-to-grow-in-the-shade-1850617379)<!-- TECH-POSTS:END -->
 
 ---
 
