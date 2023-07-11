@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Set Up Continuous Deployment for Your Node App with Cloud Run and Cloud Build](https://dev.to/martiinwalsh/how-to-set-up-continuous-deployment-for-your-node-app-with-cloud-run-and-cloud-build-304n)
+- [Lifehacker] [The Best Prime Day Deals on LED, QLED, and OLED TVs](https://lifehacker.com/the-best-prime-day-deals-on-led-qled-and-oled-tvs-1850561862)
+- [Dev.to/JS] [Add Element To Div Using appendChild&lpar;&rpar; JavaScript](https://dev.to/rajatamil/add-element-to-div-using-appendchild-javascript-1pa7)
+- [Dev.to/JS] [GPT Web App Generator - Let AI create a full-stack React &amp; Node.js codebase based on your description 🤖🤯](https://dev.to/wasp/gpt-web-app-generator-let-ai-create-a-full-stack-react-nodejs-codebase-based-on-your-description-2g39)
+- [Dev.to/JS] [How to Use the JavaScript Fullscreen API](https://dev.to/farhadi/how-to-use-the-javascript-fullscreen-api-eao)
 - [Lifehacker] [The Best Prime Day Deals for Your Home Bar](https://lifehacker.com/the-best-prime-day-deals-for-your-home-bar-1850624677)
 - [Dev.to/JS] [🚀 Rejoignez la communauté Discord d&#39;Xperpool ! 🚀](https://dev.to/max_arthurbaux/rejoignez-la-communaute-discord-dxperpool--25d2)
 - [Dev.to/JS] [What is LLM prompts and how can you use it?](https://dev.to/aiforme/what-is-llm-prompts-and-how-can-you-use-it-1292)
@@ -33,16 +38,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [NightCafe AI Review &amp; Full Tutorial &lpar;July 2023&rpar;](https://dev.to/reganthapa/nightcafe-ai-review-full-tutorial-july-2023-3lic)
 - [Dev.to/JS] [🔥🤯 Amazing Food Order hero section using HTML, CSS and JS.](https://dev.to/themodernweb/amazing-food-order-hero-section-using-html-css-and-js-2dh0)
 - [Lifehacker] [The Best Prime Day Deals on Air Fryers](https://lifehacker.com/the-best-prime-day-deals-on-air-fryers-1850623713)
+- [Dev.to/JS] [What’s New in Syncfusion Essential JS 2: 2023 Volume 2](https://dev.to/syncfusion/whats-new-in-syncfusion-essential-js-2-2023-volume-2-3jl)
 - [Dev.to/JS] [How to Fix Absolute path not working in Vite project React TS](https://dev.to/willochs316/how-to-fix-absolute-path-not-working-in-vite-project-react-ts-3aj9)
 - [Dev.to/JS] [Day 2: Polyfill for Array.includes&lpar;&rpar;](https://dev.to/dhrn/array-includes-polyfill-5g00)
 - [Lifehacker] [The 10 Best Prime Day Deals on LEGO Sets](https://lifehacker.com/the-10-best-prime-day-deals-on-lego-sets-1850623443)
 - [Dev.to/JS] [Understanding Prototypal Inheritance in JavaScript: Enhancing Code Efficiency](https://dev.to/iayeshasahar/understanding-prototypal-inheritance-in-javascript-enhancing-code-efficiency-hen)
-- [Dev.to/JS] [Limitation of TRPC&#39;s Type Inference and How We Improved It](https://dev.to/zenstack/limitation-of-trpcs-type-inference-and-how-we-improved-it-47fl)
 - [Lifehacker] [The Best Amazon Prime Day Deals If You Are Experiencing Overwhelming Existential Dread](https://lifehacker.com/the-best-amazon-prime-day-deals-if-you-are-experiencing-1850616974)
-- [Dev.to/JS] [🫰Clickvote: Open-source upvotes, likes, and reviews to any context 🔥](https://dev.to/github20k/clickvote-open-source-upvotes-likes-and-reviews-to-any-context-3ef9)
-- [Dev.to/JS] [Promise Limit for Bulk Await - Improve Performance and Efficiency](https://dev.to/aurangzaibramzan/promise-limit-for-bulk-await-improve-performance-and-efficiency-28f5)
-- [Dev.to/JS] [Starting a SaaS.](https://dev.to/redbeardjunior/starting-a-saas-1abn)
-- [Dev.to/JS] [Quick Thoughts on Effect-TS](https://dev.to/jesterxl/quick-thoughts-on-effect-ts-148l)
 - [Lifehacker] [The Best Early Prime Day Deals on Everyday Items](https://lifehacker.com/the-best-early-prime-day-deals-on-everyday-items-1850616720)
 - [Lifehacker] [The Best Early Prime Day Back-to-School Deals](https://lifehacker.com/the-best-early-prime-day-back-to-school-deals-1850588883)
 - [Lifehacker] [Get a Lifetime Subscription to Microsoft Office on Mac for $30](https://lifehacker.com/get-a-lifetime-subscription-to-microsoft-office-on-mac-1850589595)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Podcasts Guaranteed to Make You Ugly Cry](https://lifehacker.com/10-podcasts-guaranteed-to-make-you-ugly-cry-1850618717)
 - [Lifehacker] [You Can Finally Auto-Mute TikTok](https://lifehacker.com/you-can-finally-auto-mute-tiktok-1850620780)
 - [Lifehacker] [How to Share Your Amazon Prime Membership With Family &lpar;Even If You Don&#39;t Live Together&rpar;](https://lifehacker.com/how-to-share-your-amazon-prime-membership-with-family-1850619029)
-- [Lifehacker] [You Should Take Advantage of Best Buy&#39;s Prime Day Competition Sale](https://lifehacker.com/you-should-take-advantage-of-best-buys-prime-day-compet-1850617105)
-- [Lifehacker] [How to Make &lpar;and Share&rpar; Your Amazon Wishlist Before Prime Day](https://lifehacker.com/how-to-make-and-share-your-amazon-wishlist-before-pri-1850620369)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Take Advantage of Best Buy&#39;s Prime Day Competition Sale](https://lifehacker.com/you-should-take-advantage-of-best-buys-prime-day-compet-1850617105)<!-- TECH-POSTS:END -->
 
 ---
 
