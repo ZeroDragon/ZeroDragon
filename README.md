@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Prime Day Streaming Deals](https://lifehacker.com/the-best-prime-day-streaming-deals-1850628013)
+- [Lifehacker] [You Can Get Two $100 Restaurant.com Gift Cards for $20 Right Now](https://lifehacker.com/you-can-get-two-100-restaurant-com-gift-cards-for-20-1850612776)
+- [Lifehacker] [The Best Prime Day Deals on Laptops](https://lifehacker.com/the-best-prime-day-deals-on-laptops-1850627675)
 - [Lifehacker] [The Best Amazon Prime Day Deals on Grills and Smokers](https://lifehacker.com/the-best-amazon-prime-day-deals-on-grills-and-smokers-1850627642)
 - [Lifehacker] [This 38,000-Course Golf Simulator Is $190 Right Now](https://lifehacker.com/this-38-000-course-golf-simulator-is-190-right-now-1850612859)
 - [Dev.to/JS] [ARIA: Saving the World, One Accessible Web App at a Time!](https://dev.to/tharapearlly/aria-saving-the-world-one-accessible-web-app-at-a-time-4daj)
@@ -57,15 +60,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Prime Day Deals on Exercise Bikes](https://lifehacker.com/the-best-prime-day-deals-on-exercise-bikes-1850567708)
 - [Dev.to/JS] [How to Style Progress Bar with Tailwind CSS?](https://dev.to/aditya_barde/how-to-style-progress-bar-with-tailwind-css-4i2o)
 - [Dev.to/JS] [Unlocking the Power of Hooks and Refs: A Step-by-Step Guide to Building a Custom Tooltip in React](https://dev.to/stretch0/unlocking-the-power-of-hooks-and-refs-a-step-by-step-guide-to-building-a-custom-tooltip-in-react-13p3)
+- [Dev.to/JS] [Demystifying Frontend System Design Interviews: Insider Tips and Practical Advice](https://dev.to/harshilparmar/demystifying-frontend-system-design-interviews-insider-tips-and-practical-advice-3chm)
 - [Lifehacker] [This Xbox Series S Is $199 Right Now for Prime Day](https://lifehacker.com/this-xbox-series-s-is-199-right-now-for-prime-day-1850627042)
 - [Dev.to/JS] [Build a blockchain app from the ground up in two days at Vue.js Forge Episode 4 Powered by Kadena 🔥](https://dev.to/anaamarijaa/build-a-blockchain-app-from-the-ground-up-in-two-days-at-vuejs-forge-episode-4-powered-by-kadena-1ifp)
 - [Dev.to/JS] [Building a Dashboard App with Next.js: A Comprehensive Guide](https://dev.to/stackcodify/building-a-dashboard-app-with-nextjs-a-comprehensive-guide-4em0)
 - [Lifehacker] [The Best Prime Day Deals on Bluetooth Speakers](https://lifehacker.com/the-best-prime-day-deals-on-bluetooth-speakers-1850559866)
-- [Dev.to/JS] [Bring the &#39;jump to search&#39; keyboard shortcut to any site with userscripts](https://dev.to/shu8/bring-the-jump-to-search-keyboard-shortcut-to-any-site-with-userscripts-518d)
-- [Lifehacker] [Amazon&#39;s Fire TV Cube Has Its Cheapest Price Ever for Prime Day](https://lifehacker.com/amazons-fire-tv-cube-has-its-cheapest-price-ever-for-pr-1850544783)
-- [Lifehacker] [The Best Prime Day Deals on Rowing Machines](https://lifehacker.com/the-best-prime-day-deals-on-rowing-machines-1850592624)
-- [Lifehacker] [The Best Prime Day Deals on Apple Devices](https://lifehacker.com/the-best-prime-day-deals-on-apple-devices-1850545590)
-- [Lifehacker] [You Can Ask Alexa to Notify You About Upcoming Prime Day Deals](https://lifehacker.com/you-can-ask-alexa-to-notify-you-about-upcoming-prime-da-1850625257)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Amazon&#39;s Fire TV Cube Has Its Cheapest Price Ever for Prime Day](https://lifehacker.com/amazons-fire-tv-cube-has-its-cheapest-price-ever-for-pr-1850544783)<!-- TECH-POSTS:END -->
 
 ---
 
