@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Prime Day Deals for Your Home Bar](https://lifehacker.com/the-best-prime-day-deals-for-your-home-bar-1850624677)
+- [Dev.to/JS] [🚀 Rejoignez la communauté Discord d&#39;Xperpool ! 🚀](https://dev.to/max_arthurbaux/rejoignez-la-communaute-discord-dxperpool--25d2)
+- [Dev.to/JS] [What is LLM prompts and how can you use it?](https://dev.to/aiforme/what-is-llm-prompts-and-how-can-you-use-it-1292)
+- [Lifehacker] [The Best Fitness Smartwatch Deals for Prime Day](https://lifehacker.com/the-best-fitness-smartwatch-deals-for-prime-day-1850597508)
 - [Dev.to/JS] [NightCafe AI Review &amp; Full Tutorial &lpar;July 2023&rpar;](https://dev.to/reganthapa/nightcafe-ai-review-full-tutorial-july-2023-3lic)
 - [Dev.to/JS] [🔥🤯 Amazing Food Order hero section using HTML, CSS and JS.](https://dev.to/themodernweb/amazing-food-order-hero-section-using-html-css-and-js-2dh0)
 - [Lifehacker] [The Best Prime Day Deals on Air Fryers](https://lifehacker.com/the-best-prime-day-deals-on-air-fryers-1850623713)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Promise Limit for Bulk Await - Improve Performance and Efficiency](https://dev.to/aurangzaibramzan/promise-limit-for-bulk-await-improve-performance-and-efficiency-28f5)
 - [Dev.to/JS] [Starting a SaaS.](https://dev.to/redbeardjunior/starting-a-saas-1abn)
 - [Dev.to/JS] [Quick Thoughts on Effect-TS](https://dev.to/jesterxl/quick-thoughts-on-effect-ts-148l)
-- [Dev.to/JS] [A Blueprint to Avoid Multiple WebSocket Connections in a React Chat App](https://dev.to/abihasna/a-blueprint-to-avoid-multiple-websocket-connections-in-a-react-chat-app-2g40)
-- [Dev.to/JS] [Moonly weekly progress update #56 - Moonly Holders benefit within the Karamendos ecosystem](https://dev.to/moonly/moonly-weekly-progress-update-56-moonly-holders-benefit-within-the-karamendos-ecosystem-2plj)
 - [Lifehacker] [The Best Early Prime Day Deals on Everyday Items](https://lifehacker.com/the-best-early-prime-day-deals-on-everyday-items-1850616720)
 - [Lifehacker] [The Best Early Prime Day Back-to-School Deals](https://lifehacker.com/the-best-early-prime-day-back-to-school-deals-1850588883)
 - [Lifehacker] [Get a Lifetime Subscription to Microsoft Office on Mac for $30](https://lifehacker.com/get-a-lifetime-subscription-to-microsoft-office-on-mac-1850589595)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Auto-Mute TikTok](https://lifehacker.com/you-can-finally-auto-mute-tiktok-1850620780)
 - [Lifehacker] [How to Share Your Amazon Prime Membership With Family &lpar;Even If You Don&#39;t Live Together&rpar;](https://lifehacker.com/how-to-share-your-amazon-prime-membership-with-family-1850619029)
 - [Lifehacker] [You Should Take Advantage of Best Buy&#39;s Prime Day Competition Sale](https://lifehacker.com/you-should-take-advantage-of-best-buys-prime-day-compet-1850617105)
-- [Lifehacker] [How to Make &lpar;and Share&rpar; Your Amazon Wishlist Before Prime Day](https://lifehacker.com/how-to-make-and-share-your-amazon-wishlist-before-pri-1850620369)
-- [Lifehacker] [Stop Looking at the Stupid Little Dial Thermometer on Your Grill](https://lifehacker.com/stop-looking-at-the-stupid-little-dial-thermometer-on-y-1850616770)
-- [Lifehacker] [Five Ways to Keep Your Car&#39;s Interior Cooler in the Summer](https://lifehacker.com/five-ways-to-keep-your-cars-interior-cooler-in-the-summ-1850619152)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make &lpar;and Share&rpar; Your Amazon Wishlist Before Prime Day](https://lifehacker.com/how-to-make-and-share-your-amazon-wishlist-before-pri-1850620369)<!-- TECH-POSTS:END -->
 
 ---
 
