@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reading and Writing Files In Node.Js Using Modules.](https://dev.to/dotjos/reading-and-writing-files-in-nodejs-using-modules-i5b)
+- [Dev.to/JS] [La ciencia de losz algoritmos](https://dev.to/dennysjmarquez/la-ciencia-de-losz-algoritmos-56k)
 - [Dev.to/JS] [Using Deno KV with Deno deploy guide](https://dev.to/christiandale/using-deno-kv-with-deno-deploy-guide-171o)
 - [Dev.to/JS] [Power of JavaScript Objects and Arrays](https://dev.to/zeek04/power-of-javascript-objects-and-arrays-2fcl)
 - [Dev.to/JS] [Typerorr HtmlDom](https://dev.to/zedcodo/typerorr-htmldom-413m)
@@ -43,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Demystifying Server-Side Rendering in Next JS: A Beginner&#39;s Guide](https://dev.to/iamkelv/demystifying-server-side-rendering-in-next-js-a-beginners-guide-55lh)
 - [Dev.to/JS] [Mutable And Immutable Values in Javascript](https://dev.to/vasilgvasilev/mutable-and-immutable-values-in-javascript-1eho)
 - [Lifehacker] [Make Better Sandwiches, Toasts, and Crostini With a Quick Garlic Rub](https://lifehacker.com/make-better-sandwiches-toasts-and-crostini-with-a-qui-1850622342)
-- [Dev.to/JS] [Ocupando reduce&lpar;&rpar; y some&lpar;&rpar; en JavaScript](https://dev.to/ulisesserranop/ocupando-reduce-y-some-en-javascript-3jb3)
-- [Dev.to/JS] [How to check if an Object is instance of a Class - Javascript](https://dev.to/henriquejensen/how-to-check-if-an-object-is-instance-of-a-class-javascript-3n73)
 - [Lifehacker] [You Can Probably Fix Your Stove’s Broken Burner Yourself](https://lifehacker.com/you-can-probably-fix-your-stove-s-broken-burner-yoursel-1850621869)
 - [Lifehacker] [You Can Schedule Your Amazon Prime Membership to Automatically Cancel After Prime Day](https://lifehacker.com/you-can-schedule-your-amazon-prime-membership-to-automa-1850619291)
 - [Lifehacker] [9 of the Most Useful Overlooked Apple Watch Features, According to Reddit](https://lifehacker.com/9-of-the-most-useful-overlooked-apple-watch-features-a-1850621005)
