@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Blueprint to Avoid Multiple WebSocket Connections in a React Chat App](https://dev.to/abihasna/a-blueprint-to-avoid-multiple-websocket-connections-in-a-react-chat-app-2g40)
+- [Dev.to/JS] [Moonly weekly progress update #56 - Moonly Holders benefit within the Karamendos ecosystem](https://dev.to/moonly/moonly-weekly-progress-update-56-moonly-holders-benefit-within-the-karamendos-ecosystem-2plj)
+- [Dev.to/JS] [Qwik – The Post-Modern Framework](https://dev.to/this-is-learning/qwik-the-post-modern-framework-3c5o)
 - [Dev.to/JS] [a new way to use state in react](https://dev.to/lovetingyuan/a-new-way-to-use-state-in-react-14fe)
 - [Dev.to/JS] [You&#39;ll be more productive learning webpack with these methods](https://dev.to/limingcan562/youll-be-more-productive-learning-webpack-with-these-methods-469p)
 - [Dev.to/JS] [Integrating Test Data in AskUI Workflows from APIs, CSV Files, and Databases](https://dev.to/johannesdienst/integrating-test-data-in-askui-workflows-from-apis-csv-files-and-databases-5f8)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Use Cypress For File Upload and Download](https://dev.to/lambdatest/how-to-use-cypress-for-file-upload-and-download-2mo8)
 - [Dev.to/JS] [AI Code Completion for Developers](https://dev.to/aiforme/ai-code-completion-for-developers-alo)
 - [Dev.to/JS] [An Ultimate all-in-one Auth Module in React Native: Enable One-line Sign-Up and Sign in with Eartho on your device.](https://dev.to/rushitjivani/an-ultimate-all-in-one-auth-module-in-react-native-enable-one-line-sign-up-and-sign-in-with-eartho-on-your-device-17a1)
-- [Dev.to/JS] [My Journey in Open Source - force-return](https://dev.to/cadienvan/my-journey-in-open-source-force-return-4jfm)
-- [Dev.to/JS] [10 Advanced Git Commands](https://dev.to/lalitkumawat1m/10-advanced-git-commands-3b8g)
-- [Dev.to/JS] [Closure](https://dev.to/sundarbadagala081/closure-1i09)
 - [Lifehacker] [Get a Lifetime Subscription to Microsoft Office on Mac for $30](https://lifehacker.com/get-a-lifetime-subscription-to-microsoft-office-on-mac-1850589595)
 - [Lifehacker] [The Best Early Prime Day Deals on Mattresses](https://lifehacker.com/best-early-prime-day-deals-on-mattresses-1850608114)
 - [Lifehacker] [Where to Watch Marvel&#39;s &#39;Secret Invasion&#39; &lpar;and What You Need to Know Going In&rpar;](https://lifehacker.com/where-to-watch-marvels-secret-invasion-and-what-you-ne-1850615977)
