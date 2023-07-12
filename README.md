@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Brief History of Web Apps – Why Qwik is Innovative](https://dev.to/this-is-learning/a-brief-history-of-web-apps-why-qwik-is-innovative-456f)
+- [Lifehacker] [The Best Prime Day Deals on Back-to-School Stuff](https://lifehacker.com/the-best-prime-day-deals-on-back-to-school-stuff-1850628593)
+- [Dev.to/JS] [Frontend development skills for Product based companies 🔥](https://dev.to/gaurbprajapati/frontend-development-skills-for-product-based-companies-2120)
+- [Dev.to/JS] [Unlock the Power of Angular Reactive Forms](https://dev.to/naira_gezhoyan/unlock-the-power-of-angular-reactive-forms-4m32)
 - [Lifehacker] [Scramble Your Eggs in a Spoonful of Thai Curry Paste](https://lifehacker.com/scramble-your-eggs-in-a-spoonful-of-thai-curry-paste-1850628101)
 - [Dev.to/JS] [📊 How to Create Pareto Charts in JavaScript 📈](https://dev.to/andreykh/how-to-create-pareto-charts-in-javascript-fmd)
 - [Dev.to/JS] [How to test an async function to throw an exception in Jest](https://dev.to/darkmavis1980/how-to-test-an-async-function-to-throw-an-exception-in-jest-3a90)
@@ -37,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unique and Random Pixel Profile Picture for Anonymous User](https://dev.to/rizmyabdulla/unique-and-random-pixel-profile-picture-for-anonymous-user-4062)
 - [Dev.to/JS] [block scope and shadowing in Javascript](https://dev.to/gaurbprajapati/block-scope-and-shadowing-in-javascript-28o2)
 - [Dev.to/JS] [💨🚀 Accelerate Your Workflow with ChatGPT Prompts 📝 - Ditch the Boilerplate 📃✖️ and Eliminate Duplicates 🔄🚫](https://dev.to/renanfranca/accelerate-your-workflow-with-chatgpt-prompts-ditch-the-boilerplate-and-eliminate-duplicates-p14)
-- [Dev.to/JS] [Operations between sets with JavaScript](https://dev.to/danielzotti/operations-between-sets-with-javascript-1c9j)
-- [Dev.to/JS] [Top 10 NFT Token Developers in 2023](https://dev.to/codegirljs/top-10-nft-token-developers-in-2023-533k)
-- [Dev.to/JS] [Top 5 Best Developer Blogs Worth Reading in 2023](https://dev.to/codegirljs/top-5-best-developer-blogs-worth-reading-in-2023-526i)
 - [Lifehacker] [This Inflatable Hot Tub Is the Only Prime Day Deal I Truly Care About](https://lifehacker.com/this-inflatable-hot-tub-is-the-only-prime-day-deal-i-tr-1850628207)
 - [Lifehacker] [The Best Deals on Headphones on Prime Day](https://lifehacker.com/the-best-deals-on-headphones-on-prime-day-1850628319)
 - [Lifehacker] [This Is The Best Prime Day Deal on Microsoft 365 Yet](https://lifehacker.com/this-is-the-best-prime-day-deal-on-microsoft-365-yet-1850627795)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Prime Day Deals on Kitchen Appliances](https://lifehacker.com/the-best-prime-day-deals-on-kitchen-appliances-1850626273)
 - [Lifehacker] [Get Three Months of Audible Premium Plus Free During Prime Day](https://lifehacker.com/get-three-months-of-audible-premium-plus-free-during-pr-1850528815)
 - [Lifehacker] [Your Best Prime Day Beauty Splurges](https://lifehacker.com/your-best-prime-day-beauty-splurges-1850610216)
-- [Lifehacker] [The Best Amazon Fire TV Stick Deals for Prime Day](https://lifehacker.com/the-best-amazon-fire-tv-stick-deals-for-prime-day-1850544721)
-- [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Amazon Fire TV Stick Deals for Prime Day](https://lifehacker.com/the-best-amazon-fire-tv-stick-deals-for-prime-day-1850544721)<!-- TECH-POSTS:END -->
 
 ---
 
