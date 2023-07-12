@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Different Ways to Achieve JavaScript Closure](https://dev.to/sundarbadagala081/different-ways-to-achieve-closure-l14)
 - [Dev.to/JS] [Discovering Distances with Hanging Ropes and Catenaries: A Practical Guide](https://dev.to/spenceryonce/discovering-distances-with-hanging-ropes-and-catenaries-a-practical-guide-2lkb)
 - [Dev.to/JS] [Writing Cleaner JavaScript with Nullish Coalescing: A Developer&#39;s Guide](https://dev.to/daryllukas/writing-cleaner-javascript-with-nullish-coalescing-a-developers-guide-454o)
 - [Dev.to/JS] [Weekly web development resources #157](https://dev.to/vincenius/weekly-web-development-resources-157-22d1)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Deals on Headphones on Prime Day](https://lifehacker.com/the-best-deals-on-headphones-on-prime-day-1850628319)
 - [Lifehacker] [This Is The Best Prime Day Deal on Microsoft 365 Yet](https://lifehacker.com/this-is-the-best-prime-day-deal-on-microsoft-365-yet-1850627795)
 - [Lifehacker] [This Desklab Portable Touchscreen Monitor Is 33% Off Right Now](https://lifehacker.com/this-desklab-portable-touchscreen-monitor-is-33-off-ri-1850612398)
-- [Dev.to/JS] [Vue.js Setup for beginner](https://dev.to/bhuvaneshwa/vuejs-setup-for-beginner-18n0)
 - [Lifehacker] [The Best Prime Day Streaming Deals](https://lifehacker.com/the-best-prime-day-streaming-deals-1850628013)
 - [Lifehacker] [You Can Get Two $100 Restaurant.com Gift Cards for $20 Right Now](https://lifehacker.com/you-can-get-two-100-restaurant-com-gift-cards-for-20-1850612776)
 - [Lifehacker] [The Best Prime Day Deals on Laptops](https://lifehacker.com/the-best-prime-day-deals-on-laptops-1850627675)
