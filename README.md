@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Writing Cleaner JavaScript with Nullish Coalescing: A Developer&#39;s Guide](https://dev.to/daryllukas/writing-cleaner-javascript-with-nullish-coalescing-a-developers-guide-454o)
+- [Dev.to/JS] [Weekly web development resources #157](https://dev.to/vincenius/weekly-web-development-resources-157-22d1)
+- [Dev.to/JS] [Very Simple Javascript Text To Speech](https://dev.to/codeboxx/very-simple-javascript-text-to-speech-2h1i)
 - [Dev.to/JS] [3 Ways To Pause In Javascript &lpar;Or Wait Delay Sleep&rpar;](https://dev.to/codeboxx/3-ways-to-pause-in-javascript-or-wait-delay-sleep-29n8)
 - [Dev.to/JS] [# Top 5 JavaScript startsWith&lpar;&rpar; Alternative Methods With Examples](https://dev.to/onlinemsr/-top-5-javascript-startswith-alternative-methods-with-examples-48mm)
 - [Dev.to/JS] [&lpar;Array.prototype.shuffle&rpar; Daily Daily Frontend Problem: Problem #6 [Medium]](https://dev.to/chandrapenugonda/arrayprototypeshuffle-daily-daily-frontend-problem-problem-6-medium-58f7)
@@ -49,16 +52,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Prime Day Deals on Kindles](https://lifehacker.com/the-best-prime-day-deals-on-kindles-1850540392)
 - [Lifehacker] [You Can Tell If a Prime Day Deal Is Just Hype](https://lifehacker.com/how-to-tell-if-a-prime-day-deal-is-really-just-hype-1849165522)
 - [Lifehacker] [The Best Prime Day Deals on Fitness Equipment](https://lifehacker.com/the-best-prime-day-deals-on-fitness-equipment-1850612252)
-- [Dev.to/JS] [Throttling in JavaScript Easiest Explanation✨🚀](https://dev.to/jeetvora331/throttling-in-javascript-easiest-explanation-1081)
 - [Lifehacker] [Get a Meta Quest 2 VR for $299, Plus a $50 Gift Card](https://lifehacker.com/get-a-meta-quest-2-vr-for-299-plus-a-50-gift-card-1850627629)
 - [Lifehacker] [All the Reasons You Might Not Want to Join Threads](https://lifehacker.com/all-the-reasons-you-might-not-want-to-join-threads-1850625656)
-- [Dev.to/JS] [Delve into HTML canvas: The underlying solutions in my project.](https://dev.to/maurerkrisztian/delve-into-html-canvas-the-underlying-solutions-in-my-project-18a)
 - [Lifehacker] [The Best Prime Day Deals on Cordless Vacuums](https://lifehacker.com/the-best-prime-day-deals-on-cordless-vacuums-1850627235)
 - [Lifehacker] [The One Type of Tech You Should Buy on Prime Day](https://lifehacker.com/prime-day-is-best-for-exactly-one-type-of-tech-1849164435)
 - [Lifehacker] [Get Four Months of Amazon Music Unlimited Free During Prime Day](https://lifehacker.com/get-four-months-of-amazon-music-unlimited-free-during-p-1850535072)
 - [Lifehacker] [The Best Prime Deal Deals on Smart Home Devices](https://lifehacker.com/the-best-prime-deal-deals-on-smart-home-devices-1850612395)
 - [Lifehacker] [The Best Amazon Prime Day Deals on Travel Gear](https://lifehacker.com/the-best-amazon-prime-day-deals-on-travel-gear-1850626448)
-- [Dev.to/JS] [JSON: A Comprehensive Guide to JavaScript Object Notation](https://dev.to/odopeter/json-a-comprehensive-guide-to-javascript-object-notation-267k)
 - [Lifehacker] [The Best Prime Day Deals on Kitchen Appliances](https://lifehacker.com/the-best-prime-day-deals-on-kitchen-appliances-1850626273)
 - [Lifehacker] [Get Three Months of Audible Premium Plus Free During Prime Day](https://lifehacker.com/get-three-months-of-audible-premium-plus-free-during-pr-1850528815)
 - [Lifehacker] [Your Best Prime Day Beauty Splurges](https://lifehacker.com/your-best-prime-day-beauty-splurges-1850610216)
