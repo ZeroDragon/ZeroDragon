@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Australian State of Origin Rugby 2023 Live](https://dev.to/nflredditlives/australian-state-of-origin-rugby-2023-live-34ic)
+- [Dev.to/JS] [3 Ways To Pause In Javascript &lpar;Or Wait Delay Sleep&rpar;](https://dev.to/codeboxx/3-ways-to-pause-in-javascript-or-wait-delay-sleep-29n8)
+- [Dev.to/JS] [# Top 5 JavaScript startsWith&lpar;&rpar; Alternative Methods With Examples](https://dev.to/onlinemsr/-top-5-javascript-startswith-alternative-methods-with-examples-48mm)
+- [Dev.to/JS] [&lpar;Array.prototype.shuffle&rpar; Daily Daily Frontend Problem: Problem #6 [Medium]](https://dev.to/chandrapenugonda/arrayprototypeshuffle-daily-daily-frontend-problem-problem-6-medium-58f7)
 - [Dev.to/JS] [Accelerate Document Creation with AI-Power](https://dev.to/aiforme/accelerate-document-creation-with-ai-power-4gi5)
 - [Dev.to/JS] [Very Simple Javascript Typewriter Effect](https://dev.to/codeboxx/very-simple-javascript-typewriter-effect-4o0p)
 - [Dev.to/JS] [Top 10 Useful Repositories for Web Developers](https://dev.to/soumyadeepdey/top-10-must-have-repositories-for-web-developers-45d4)
@@ -57,11 +59,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Prime Deal Deals on Smart Home Devices](https://lifehacker.com/the-best-prime-deal-deals-on-smart-home-devices-1850612395)
 - [Lifehacker] [The Best Amazon Prime Day Deals on Travel Gear](https://lifehacker.com/the-best-amazon-prime-day-deals-on-travel-gear-1850626448)
 - [Dev.to/JS] [JSON: A Comprehensive Guide to JavaScript Object Notation](https://dev.to/odopeter/json-a-comprehensive-guide-to-javascript-object-notation-267k)
-- [Dev.to/JS] [How to build AI solution capable to build a e-commerce store](https://dev.to/igorboky/how-to-build-ai-solution-capable-to-build-a-e-commerce-store-2c2e)
 - [Lifehacker] [The Best Prime Day Deals on Kitchen Appliances](https://lifehacker.com/the-best-prime-day-deals-on-kitchen-appliances-1850626273)
 - [Lifehacker] [Get Three Months of Audible Premium Plus Free During Prime Day](https://lifehacker.com/get-three-months-of-audible-premium-plus-free-during-pr-1850528815)
 - [Lifehacker] [Your Best Prime Day Beauty Splurges](https://lifehacker.com/your-best-prime-day-beauty-splurges-1850610216)
-- [Dev.to/JS] [Geddit - A Reddit client without their API](https://dev.to/kaangiray26/geddit-a-reddit-client-without-their-api-2dfp)
 - [Lifehacker] [The Best Amazon Fire TV Stick Deals for Prime Day](https://lifehacker.com/the-best-amazon-fire-tv-stick-deals-for-prime-day-1850544721)
 - [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)
 - [Lifehacker] [The Best Prime Day Deals on Cosmetics Basics](https://lifehacker.com/the-best-prime-day-deals-on-cosmetics-basics-1850616042)
