@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Deeper Connect VPNs Are Over 40% Off Right Now](https://lifehacker.com/these-deeper-connect-vpns-are-over-40-off-right-now-1850616947)
+- [Dev.to/JS] [Getting started with Web3 Frontend Development: A Quick &amp; Dirty Guide](https://dev.to/alinobrasil/getting-started-with-web3-frontend-development-a-quick-dirty-guide-1aek)
+- [Dev.to/JS] [Top 10 Programming Languages](https://dev.to/saloniverma4782/top-10-programming-languages-50n1)
+- [Lifehacker] [You Can Get Three Years of UltraVPN for 90% Off Right Now](https://lifehacker.com/you-can-get-three-years-of-ultravpn-for-90-off-right-n-1850612905)
 - [Lifehacker] [The Best Prime Day Deals for Your Home Office](https://lifehacker.com/the-best-prime-day-deals-for-your-home-office-1850633146)
 - [Lifehacker] [Four Questions That Reveal If Management Is Right for You](https://lifehacker.com/four-questions-that-reveal-if-management-is-right-for-y-1850631145)
-- [Lifehacker] [The 10 Best Prime Day Deals on LEGO Sets](https://lifehacker.com/the-10-best-prime-day-deals-on-lego-sets-1850632945)
+- [Lifehacker] [The 20 Best Prime Day Deals on LEGO Sets](https://lifehacker.com/the-10-best-prime-day-deals-on-lego-sets-1850632945)
 - [Lifehacker] [The Best Prime Day Deals on Fitness Equipment](https://lifehacker.com/the-best-prime-day-deals-on-fitness-equipment-1850612252)
 - [Lifehacker] [You Can Install the iOS 17 Public Beta Right Now](https://lifehacker.com/you-can-install-the-ios-17-public-beta-right-now-1850632782)
 - [Dev.to/JS] [Flatlist in React-Native](https://dev.to/nafisnil/flatlist-in-react-native-3fna)
@@ -48,8 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Prime Day Deals on Every Kind of Projector](https://lifehacker.com/the-best-prime-day-deals-on-every-kind-of-projector-1850631742)
 - [Dev.to/JS] [Web File API deep dive 🤿 &lpar;2023&rpar;](https://dev.to/noble_7/the-last-file-input-tutorial-youll-ever-need-2023-4ppd)
 - [Lifehacker] [You Can Still Get These Prime Day Deals on Bluetooth Speakers](https://lifehacker.com/you-can-still-get-these-prime-day-deals-on-bluetooth-sp-1850589112)
-- [Dev.to/JS] [Automatic import sorting in VSCode](https://dev.to/receter/automatic-import-sorting-in-vscode-275m)
-- [Dev.to/JS] [How to Conditionally Add Property to the Object in JavaScript](https://dev.to/coderdal/how-to-conditionally-add-property-to-the-object-in-javascript-2916)
 - [Lifehacker] [These Are the Best Deals on VPNs Right Now](https://lifehacker.com/these-are-the-best-deals-on-vpns-right-now-1850630777)
 - [Lifehacker] [You Can Still Score These Prime Day Deals on Mattresses](https://lifehacker.com/you-can-still-score-these-prime-day-deals-on-mattresses-1850629302)
 - [Lifehacker] [The Best Prime Day Deals on Every Type of Coffee Maker](https://lifehacker.com/the-best-prime-day-deals-on-every-type-of-coffee-maker-1850630672)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Desklab Portable Touchscreen Monitor Is 33% Off Right Now](https://lifehacker.com/this-desklab-portable-touchscreen-monitor-is-33-off-ri-1850612398)
 - [Lifehacker] [The Best Prime Day Streaming Deals](https://lifehacker.com/the-best-prime-day-streaming-deals-1850628013)
 - [Lifehacker] [You Can Get Two $100 Restaurant.com Gift Cards for $20 Right Now](https://lifehacker.com/you-can-get-two-100-restaurant-com-gift-cards-for-20-1850612776)
-- [Lifehacker] [The Best Prime Day Deals on Laptops](https://lifehacker.com/the-best-prime-day-deals-on-laptops-1850627675)
-- [Lifehacker] [The Best Amazon Prime Day Deals on Grills and Smokers](https://lifehacker.com/the-best-amazon-prime-day-deals-on-grills-and-smokers-1850627642)
-- [Lifehacker] [This 38,000-Course Golf Simulator Is $190 Right Now](https://lifehacker.com/this-38-000-course-golf-simulator-is-190-right-now-1850612859)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Prime Day Deals on Laptops](https://lifehacker.com/the-best-prime-day-deals-on-laptops-1850627675)<!-- TECH-POSTS:END -->
 
 ---
 
