@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Prime Day Deals for Your Home Office](https://lifehacker.com/the-best-prime-day-deals-for-your-home-office-1850633146)
+- [Lifehacker] [Four Questions That Reveal If Management Is Right for You](https://lifehacker.com/four-questions-that-reveal-if-management-is-right-for-y-1850631145)
 - [Lifehacker] [The 10 Best Prime Day Deals on LEGO Sets](https://lifehacker.com/the-10-best-prime-day-deals-on-lego-sets-1850632945)
 - [Lifehacker] [The Best Prime Day Deals on Fitness Equipment](https://lifehacker.com/the-best-prime-day-deals-on-fitness-equipment-1850612252)
 - [Lifehacker] [You Can Install the iOS 17 Public Beta Right Now](https://lifehacker.com/you-can-install-the-ios-17-public-beta-right-now-1850632782)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Two $100 Restaurant.com Gift Cards for $20 Right Now](https://lifehacker.com/you-can-get-two-100-restaurant-com-gift-cards-for-20-1850612776)
 - [Lifehacker] [The Best Prime Day Deals on Laptops](https://lifehacker.com/the-best-prime-day-deals-on-laptops-1850627675)
 - [Lifehacker] [The Best Amazon Prime Day Deals on Grills and Smokers](https://lifehacker.com/the-best-amazon-prime-day-deals-on-grills-and-smokers-1850627642)
-- [Lifehacker] [This 38,000-Course Golf Simulator Is $190 Right Now](https://lifehacker.com/this-38-000-course-golf-simulator-is-190-right-now-1850612859)
-- [Lifehacker] [The Best Prime Day Deals on Beauty and Personal Care Appliances](https://lifehacker.com/the-best-prime-day-deals-on-beauty-and-personal-care-ap-1850626751)
-- [Lifehacker] [The Best Prime Day Deals on Summer Toys for Kids](https://lifehacker.com/the-best-prime-day-deals-on-summer-toys-for-kids-1850627144)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This 38,000-Course Golf Simulator Is $190 Right Now](https://lifehacker.com/this-38-000-course-golf-simulator-is-190-right-now-1850612859)<!-- TECH-POSTS:END -->
 
 ---
 
