@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Discovering Distances with Hanging Ropes and Catenaries: A Practical Guide](https://dev.to/spenceryonce/discovering-distances-with-hanging-ropes-and-catenaries-a-practical-guide-2lkb)
 - [Dev.to/JS] [Writing Cleaner JavaScript with Nullish Coalescing: A Developer&#39;s Guide](https://dev.to/daryllukas/writing-cleaner-javascript-with-nullish-coalescing-a-developers-guide-454o)
 - [Dev.to/JS] [Weekly web development resources #157](https://dev.to/vincenius/weekly-web-development-resources-157-22d1)
 - [Dev.to/JS] [Very Simple Javascript Text To Speech](https://dev.to/codeboxx/very-simple-javascript-text-to-speech-2h1i)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Prime Day Deals on Laptops](https://lifehacker.com/the-best-prime-day-deals-on-laptops-1850627675)
 - [Lifehacker] [The Best Amazon Prime Day Deals on Grills and Smokers](https://lifehacker.com/the-best-amazon-prime-day-deals-on-grills-and-smokers-1850627642)
 - [Lifehacker] [This 38,000-Course Golf Simulator Is $190 Right Now](https://lifehacker.com/this-38-000-course-golf-simulator-is-190-right-now-1850612859)
-- [Dev.to/JS] [ARIA: Saving the World, One Accessible Web App at a Time!](https://dev.to/tharapearlly/aria-saving-the-world-one-accessible-web-app-at-a-time-4daj)
 - [Lifehacker] [The Best Prime Day Deals on Beauty and Personal Care Appliances](https://lifehacker.com/the-best-prime-day-deals-on-beauty-and-personal-care-ap-1850626751)
 - [Lifehacker] [The Best Prime Day Deals on Summer Toys for Kids](https://lifehacker.com/the-best-prime-day-deals-on-summer-toys-for-kids-1850627144)
 - [Lifehacker] [The Best Prime Day Deals on Kindles](https://lifehacker.com/the-best-prime-day-deals-on-kindles-1850540392)
