@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating Dynamic Class Extension in JavaScript: A Flexible Approach for Code Reusability](https://dev.to/nabous/creating-dynamic-class-extension-in-javascript-a-flexible-approach-for-code-reusability-3hod)
+- [Dev.to/JS] [Unique and Random Pixel Profile Picture for Anonymous User](https://dev.to/rizmyabdulla/unique-and-random-pixel-profile-picture-for-anonymous-user-4062)
 - [Dev.to/JS] [block scope and shadowing in Javascript](https://dev.to/gaurbprajapati/block-scope-and-shadowing-in-javascript-28o2)
 - [Dev.to/JS] [💨🚀 Accelerate Your Workflow with ChatGPT Prompts 📝 - Ditch the Boilerplate 📃✖️ and Eliminate Duplicates 🔄🚫](https://dev.to/renanfranca/accelerate-your-workflow-with-chatgpt-prompts-ditch-the-boilerplate-and-eliminate-duplicates-p14)
 - [Dev.to/JS] [Operations between sets with JavaScript](https://dev.to/danielzotti/operations-between-sets-with-javascript-1c9j)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Immediate Edge - Benefits, Price, Results, Reviews &amp; Side Effects?](https://dev.to/immediatee34709/immediate-edge-benefits-price-results-reviews-side-effects-22ke)
 - [Dev.to/JS] [Learn 30 serverless best-practices with sls-mentor](https://dev.to/kumo/learn-30-serverless-best-practices-with-sls-mentor-cnj)
 - [Dev.to/JS] [#LearnedToday: Build Your Own X](https://dev.to/danielzotti/learnedtoday-build-your-own-x-2m3)
-- [Dev.to/JS] [Different Ways to Achieve JavaScript Closure](https://dev.to/sundarbadagala081/different-ways-to-achieve-closure-l14)
-- [Dev.to/JS] [Discovering Distances with Hanging Ropes and Catenaries: A Practical Guide](https://dev.to/spenceryonce/discovering-distances-with-hanging-ropes-and-catenaries-a-practical-guide-2lkb)
 - [Lifehacker] [This Inflatable Hot Tub Is the Only Prime Day Deal I Truly Care About](https://lifehacker.com/this-inflatable-hot-tub-is-the-only-prime-day-deal-i-tr-1850628207)
 - [Lifehacker] [The Best Deals on Headphones on Prime Day](https://lifehacker.com/the-best-deals-on-headphones-on-prime-day-1850628319)
 - [Lifehacker] [This Is The Best Prime Day Deal on Microsoft 365 Yet](https://lifehacker.com/this-is-the-best-prime-day-deal-on-microsoft-365-yet-1850627795)
