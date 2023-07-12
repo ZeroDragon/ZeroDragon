@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Australian State of Origin Rugby 2023 Live](https://dev.to/nflredditlives/australian-state-of-origin-rugby-2023-live-34ic)
+- [Dev.to/JS] [Accelerate Document Creation with AI-Power](https://dev.to/aiforme/accelerate-document-creation-with-ai-power-4gi5)
+- [Dev.to/JS] [Very Simple Javascript Typewriter Effect](https://dev.to/codeboxx/very-simple-javascript-typewriter-effect-4o0p)
 - [Dev.to/JS] [Top 10 Useful Repositories for Web Developers](https://dev.to/soumyadeepdey/top-10-must-have-repositories-for-web-developers-45d4)
 - [Dev.to/JS] [Session management security: Best practices for protecting user sessions](https://dev.to/snyk/session-management-security-best-practices-for-protecting-user-sessions-475h)
 - [Lifehacker] [This Inflatable Hot Tub Is the Only Prime Day Deal I Truly Care About](https://lifehacker.com/this-inflatable-hot-tub-is-the-only-prime-day-deal-i-tr-1850628207)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Amazon Fire TV Stick Deals for Prime Day](https://lifehacker.com/the-best-amazon-fire-tv-stick-deals-for-prime-day-1850544721)
 - [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)
 - [Lifehacker] [The Best Prime Day Deals on Cosmetics Basics](https://lifehacker.com/the-best-prime-day-deals-on-cosmetics-basics-1850616042)
-- [Dev.to/JS] [¿Cuál framework web debo de escoger?](https://dev.to/marianocodes/cual-framework-web-debo-de-escoger-22k4)
-- [Lifehacker] [The Best Prime Day Deals on Amazon Fire Tablets](https://lifehacker.com/the-best-prime-day-deals-on-amazon-fire-tablets-1850540955)
-- [Lifehacker] [The Best Prime Day Deals on Exercise Bikes](https://lifehacker.com/the-best-prime-day-deals-on-exercise-bikes-1850567708)
-- [Dev.to/JS] [How to Style Progress Bar with Tailwind CSS?](https://dev.to/aditya_barde/how-to-style-progress-bar-with-tailwind-css-4i2o)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Prime Day Deals on Amazon Fire Tablets](https://lifehacker.com/the-best-prime-day-deals-on-amazon-fire-tablets-1850540955)<!-- TECH-POSTS:END -->
 
 ---
 
