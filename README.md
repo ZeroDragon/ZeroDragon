@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 20 Must-Know Tips for Web Accessibility](https://dev.to/ismaestro/top-20-must-know-tips-for-web-accessibility-452)
+- [Dev.to/JS] [JavaScript Objects and Prototypes: A Guide to Object-Oriented Programming](https://dev.to/kafeel_ahmad/javascript-objects-and-prototypes-a-guide-to-object-oriented-programming-1lj8)
+- [Dev.to/JS] [Please don&#39;t write confusing conditionals](https://dev.to/somedood/please-dont-write-confusing-conditionals-2n32)
+- [Lifehacker] [The Best Prime Day Deals on Every Type of Coffee Maker](https://lifehacker.com/the-best-prime-day-deals-on-every-type-of-coffee-maker-1850630672)
+- [Lifehacker] [My 10 Favorite Prime Day Deals That Are Actually Worth Your Attention](https://lifehacker.com/lifehackers-favorite-prime-day-deals-1850631005)
 - [Dev.to/JS] [A Brief History of Web Apps – Why Qwik is Innovative](https://dev.to/this-is-learning/a-brief-history-of-web-apps-why-qwik-is-innovative-456f)
 - [Lifehacker] [The Best Prime Day Deals on Back-to-School Stuff](https://lifehacker.com/the-best-prime-day-deals-on-back-to-school-stuff-1850628593)
 - [Dev.to/JS] [Frontend development skills for Product based companies 🔥](https://dev.to/gaurbprajapati/frontend-development-skills-for-product-based-companies-2120)
@@ -37,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Prime Day Deals on Haircare Appliances](https://lifehacker.com/the-best-prime-day-deals-on-haircare-appliances-1850623453)
 - [Dev.to/JS] [How to Create Dynamic Pages with Route Parameters and the useParams Hook in React](https://dev.to/adetutu/how-to-create-dynamic-pages-with-route-parameters-and-the-useparams-hook-in-react-58ef)
 - [Dev.to/JS] [Battle of HTTP Clients: Comparing Axios, Unfetch, and Superagent for beginners](https://dev.to/louisryoung/battle-of-http-clients-comparing-axios-unfetch-and-superagent-for-beginners-2c2a)
-- [Dev.to/JS] [Creating Dynamic Class Extension in JavaScript: A Flexible Approach for Code Reusability](https://dev.to/nabous/creating-dynamic-class-extension-in-javascript-a-flexible-approach-for-code-reusability-3hod)
-- [Dev.to/JS] [Unique and Random Pixel Profile Picture for Anonymous User](https://dev.to/rizmyabdulla/unique-and-random-pixel-profile-picture-for-anonymous-user-4062)
-- [Dev.to/JS] [block scope and shadowing in Javascript](https://dev.to/gaurbprajapati/block-scope-and-shadowing-in-javascript-28o2)
-- [Dev.to/JS] [💨🚀 Accelerate Your Workflow with ChatGPT Prompts 📝 - Ditch the Boilerplate 📃✖️ and Eliminate Duplicates 🔄🚫](https://dev.to/renanfranca/accelerate-your-workflow-with-chatgpt-prompts-ditch-the-boilerplate-and-eliminate-duplicates-p14)
+- [Dev.to/JS] [Dynamic Class Instance Extension in TypeScript: Empowering Reusability and Flexibility](https://dev.to/nabous/creating-dynamic-class-extension-in-javascript-a-flexible-approach-for-code-reusability-3hod)
 - [Lifehacker] [This Inflatable Hot Tub Is the Only Prime Day Deal I Truly Care About](https://lifehacker.com/this-inflatable-hot-tub-is-the-only-prime-day-deal-i-tr-1850628207)
 - [Lifehacker] [The Best Deals on Headphones on Prime Day](https://lifehacker.com/the-best-deals-on-headphones-on-prime-day-1850628319)
 - [Lifehacker] [This Is The Best Prime Day Deal on Microsoft 365 Yet](https://lifehacker.com/this-is-the-best-prime-day-deal-on-microsoft-365-yet-1850627795)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Prime Deal Deals on Smart Home Devices](https://lifehacker.com/the-best-prime-deal-deals-on-smart-home-devices-1850612395)
 - [Lifehacker] [The Best Amazon Prime Day Deals on Travel Gear](https://lifehacker.com/the-best-amazon-prime-day-deals-on-travel-gear-1850626448)
 - [Lifehacker] [The Best Prime Day Deals on Kitchen Appliances](https://lifehacker.com/the-best-prime-day-deals-on-kitchen-appliances-1850626273)
-- [Lifehacker] [Get Three Months of Audible Premium Plus Free During Prime Day](https://lifehacker.com/get-three-months-of-audible-premium-plus-free-during-pr-1850528815)
-- [Lifehacker] [Your Best Prime Day Beauty Splurges](https://lifehacker.com/your-best-prime-day-beauty-splurges-1850610216)
-- [Lifehacker] [The Best Amazon Fire TV Stick Deals for Prime Day](https://lifehacker.com/the-best-amazon-fire-tv-stick-deals-for-prime-day-1850544721)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Get Three Months of Audible Premium Plus Free During Prime Day](https://lifehacker.com/get-three-months-of-audible-premium-plus-free-during-pr-1850528815)<!-- TECH-POSTS:END -->
 
 ---
 
