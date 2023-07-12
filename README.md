@@ -26,7 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use &#39;Deep Work&#39; to Be More Productive](https://lifehacker.com/use-deep-work-to-be-more-productive-1850632295)
+- [Dev.to/JS] [Starting Career With Android was a Bad Idea](https://dev.to/mohammadfaisal/starting-career-with-android-was-a-bad-idea-4d3i)
+- [Dev.to/JS] [10 Steps to Master JavaScript Array For Beginners](https://dev.to/anwar_sadat/10-steps-to-master-javascript-array-for-beginners-pc7)
+- [Lifehacker] [The Difference Between Soft, Medium, and Stiff Peaks &lpar;and When to Use Each One&rpar;](https://lifehacker.com/the-difference-between-soft-medium-and-stiff-peaks-a-1850631761)
+- [Dev.to/JS] [Différentes façons de déployer une application front faites en JS](https://dev.to/singebob/differentes-facons-de-deployer-une-application-front-faites-en-js-13of)
+- [Dev.to/JS] [Full Calendar Bootstrap 4](https://dev.to/dropways/full-calendar-bootstrap-4-1pc1)
 - [Dev.to/JS] [Best headless CMS platforms for Astro](https://dev.to/logrocket/best-headless-cms-platforms-for-astro-75a)
+- [Lifehacker] [Suck Up These Prime Day Deals on Robot Vacuums](https://lifehacker.com/suck-up-these-prime-day-deals-on-robot-vacuums-1850631770)
 - [Dev.to/JS] [What is Cookies | Cookies in JS &lpar;javascript&rpar;](https://dev.to/diwakarkashyap/what-is-cookies-cookies-in-js-javascript-354c)
 - [Lifehacker] [The Best Prime Day Deals on Every Kind of Projector](https://lifehacker.com/the-best-prime-day-deals-on-every-kind-of-projector-1850631742)
 - [Dev.to/JS] [Web File API deep dive 🤿 &lpar;2023&rpar;](https://dev.to/noble_7/the-last-file-input-tutorial-youll-ever-need-2023-4ppd)
@@ -37,13 +44,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adding pub/sub to an Express application.](https://dev.to/rsiv/adding-pubsub-to-an-express-application-5ecm)
 - [Lifehacker] [These Are the Best Deals on VPNs Right Now](https://lifehacker.com/these-are-the-best-deals-on-vpns-right-now-1850630777)
 - [Dev.to/JS] [Creating a Fullscreen div Element with CSS](https://dev.to/sh20raj/creating-a-fullscreen-div-element-with-css-25pp)
-- [Dev.to/JS] [Dynamic Class Instance Extension in TypeScript: Empowering Reusability and Flexibility](https://dev.to/nabous/dynamic-class-instance-extension-in-typescript-empowering-reusability-and-flexibility-2fho)
 - [Lifehacker] [You Can Still Score These Prime Day Deals on Mattresses](https://lifehacker.com/you-can-still-score-these-prime-day-deals-on-mattresses-1850629302)
-- [Dev.to/JS] [Top 20 Must-Know Tips for Web Accessibility](https://dev.to/ismaestro/top-20-must-know-tips-for-web-accessibility-452)
-- [Dev.to/JS] [JavaScript Objects and Prototypes: A Guide to Object-Oriented Programming](https://dev.to/kafeel_ahmad/javascript-objects-and-prototypes-a-guide-to-object-oriented-programming-1lj8)
-- [Dev.to/JS] [Please don&#39;t write confusing conditionals](https://dev.to/somedood/please-dont-write-confusing-conditionals-2n32)
 - [Lifehacker] [The Best Prime Day Deals on Every Type of Coffee Maker](https://lifehacker.com/the-best-prime-day-deals-on-every-type-of-coffee-maker-1850630672)
-- [Lifehacker] [My 10 Favorite Prime Day Deals That Are Actually Worth Your Attention](https://lifehacker.com/lifehackers-favorite-prime-day-deals-1850631005)
+- [Lifehacker] [My 15 Favorite Prime Day Deals That Are Actually Worth Your Attention](https://lifehacker.com/lifehackers-favorite-prime-day-deals-1850631005)
 - [Lifehacker] [The Best Prime Day Deals on Back-to-School Stuff](https://lifehacker.com/the-best-prime-day-deals-on-back-to-school-stuff-1850628593)
 - [Lifehacker] [Scramble Your Eggs in a Spoonful of Thai Curry Paste](https://lifehacker.com/scramble-your-eggs-in-a-spoonful-of-thai-curry-paste-1850628101)
 - [Lifehacker] [The Best Prime Day Deals on Haircare Appliances](https://lifehacker.com/the-best-prime-day-deals-on-haircare-appliances-1850623453)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Tell If a Prime Day Deal Is Just Hype](https://lifehacker.com/how-to-tell-if-a-prime-day-deal-is-really-just-hype-1849165522)
 - [Lifehacker] [The Best Prime Day Deals on Fitness Equipment](https://lifehacker.com/the-best-prime-day-deals-on-fitness-equipment-1850612252)
 - [Lifehacker] [Get a Meta Quest 2 VR for $299, Plus a $50 Gift Card](https://lifehacker.com/get-a-meta-quest-2-vr-for-299-plus-a-50-gift-card-1850627629)
-- [Lifehacker] [All the Reasons You Might Not Want to Join Threads](https://lifehacker.com/all-the-reasons-you-might-not-want-to-join-threads-1850625656)
-- [Lifehacker] [The Best Prime Day Deals on Cordless Vacuums](https://lifehacker.com/the-best-prime-day-deals-on-cordless-vacuums-1850627235)
-- [Lifehacker] [The One Type of Tech You Should Buy on Prime Day](https://lifehacker.com/prime-day-is-best-for-exactly-one-type-of-tech-1849164435)
-- [Lifehacker] [Get Four Months of Amazon Music Unlimited Free During Prime Day](https://lifehacker.com/get-four-months-of-amazon-music-unlimited-free-during-p-1850535072)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Reasons You Might Not Want to Join Threads](https://lifehacker.com/all-the-reasons-you-might-not-want-to-join-threads-1850625656)<!-- TECH-POSTS:END -->
 
 ---
 
