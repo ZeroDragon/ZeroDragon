@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 10 Useful Repositories for Web Developers](https://dev.to/soumyadeepdey/top-10-must-have-repositories-for-web-developers-45d4)
+- [Dev.to/JS] [Session management security: Best practices for protecting user sessions](https://dev.to/snyk/session-management-security-best-practices-for-protecting-user-sessions-475h)
 - [Lifehacker] [This Inflatable Hot Tub Is the Only Prime Day Deal I Truly Care About](https://lifehacker.com/this-inflatable-hot-tub-is-the-only-prime-day-deal-i-tr-1850628207)
 - [Lifehacker] [The Best Deals on Headphones on Prime Day](https://lifehacker.com/the-best-deals-on-headphones-on-prime-day-1850628319)
 - [Lifehacker] [This Is The Best Prime Day Deal on Microsoft 365 Yet](https://lifehacker.com/this-is-the-best-prime-day-deal-on-microsoft-365-yet-1850627795)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [¿Cuál framework web debo de escoger?](https://dev.to/marianocodes/cual-framework-web-debo-de-escoger-22k4)
 - [Lifehacker] [The Best Prime Day Deals on Amazon Fire Tablets](https://lifehacker.com/the-best-prime-day-deals-on-amazon-fire-tablets-1850540955)
 - [Lifehacker] [The Best Prime Day Deals on Exercise Bikes](https://lifehacker.com/the-best-prime-day-deals-on-exercise-bikes-1850567708)
-- [Dev.to/JS] [How to Style Progress Bar with Tailwind CSS?](https://dev.to/aditya_barde/how-to-style-progress-bar-with-tailwind-css-4i2o)
-- [Dev.to/JS] [Unlocking the Power of Hooks and Refs: A Step-by-Step Guide to Building a Custom Tooltip in React](https://dev.to/stretch0/unlocking-the-power-of-hooks-and-refs-a-step-by-step-guide-to-building-a-custom-tooltip-in-react-13p3)
-- [Dev.to/JS] [Demystifying Frontend System Design Interviews: Insider Tips and Practical Advice](https://dev.to/harshilparmar/demystifying-frontend-system-design-interviews-insider-tips-and-practical-advice-3chm)<!-- TECH-POSTS:END -->
+- [Dev.to/JS] [How to Style Progress Bar with Tailwind CSS?](https://dev.to/aditya_barde/how-to-style-progress-bar-with-tailwind-css-4i2o)<!-- TECH-POSTS:END -->
 
 ---
 
