@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Dress Your Pasta Salad With a Tub of Dip](https://lifehacker.com/dress-your-pasta-salad-with-a-tub-of-dip-1850629172)
+- [Dev.to/JS] [ACOS.games – Middleware platform for ReactJS multiplayer web games](https://dev.to/joetex/acosgames-middleware-platform-for-reactjs-multiplayer-web-games-325k)
+- [Lifehacker] [Scrivener 3 Is 50% Off Right Now](https://lifehacker.com/scrivener-3-is-50-off-right-now-1850612878)
+- [Dev.to/JS] [Patrón de diseño Adapter en JavaScript](https://dev.to/ulisesserranop/patron-de-diseno-adapter-en-javascript-4p76)
 - [Lifehacker] [Use &#39;Deep Work&#39; to Be More Productive](https://lifehacker.com/use-deep-work-to-be-more-productive-1850632295)
 - [Dev.to/JS] [Starting Career With Android was a Bad Idea](https://dev.to/mohammadfaisal/starting-career-with-android-was-a-bad-idea-4d3i)
 - [Dev.to/JS] [10 Steps to Master JavaScript Array For Beginners](https://dev.to/anwar_sadat/10-steps-to-master-javascript-array-for-beginners-pc7)
@@ -41,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Automatic import sorting in VSCode](https://dev.to/receter/automatic-import-sorting-in-vscode-275m)
 - [Dev.to/JS] [How to Conditionally Add Property to the Object in JavaScript](https://dev.to/coderdal/how-to-conditionally-add-property-to-the-object-in-javascript-2916)
 - [Dev.to/JS] [JavaScript Development Trends in 2023](https://dev.to/arsalanmee/javascript-development-trends-in-2023-4ag3)
-- [Dev.to/JS] [Adding pub/sub to an Express application.](https://dev.to/rsiv/adding-pubsub-to-an-express-application-5ecm)
 - [Lifehacker] [These Are the Best Deals on VPNs Right Now](https://lifehacker.com/these-are-the-best-deals-on-vpns-right-now-1850630777)
-- [Dev.to/JS] [Creating a Fullscreen div Element with CSS](https://dev.to/sh20raj/creating-a-fullscreen-div-element-with-css-25pp)
 - [Lifehacker] [You Can Still Score These Prime Day Deals on Mattresses](https://lifehacker.com/you-can-still-score-these-prime-day-deals-on-mattresses-1850629302)
 - [Lifehacker] [The Best Prime Day Deals on Every Type of Coffee Maker](https://lifehacker.com/the-best-prime-day-deals-on-every-type-of-coffee-maker-1850630672)
 - [Lifehacker] [My 15 Favorite Prime Day Deals That Are Actually Worth Your Attention](https://lifehacker.com/lifehackers-favorite-prime-day-deals-1850631005)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Prime Day Deals on Summer Toys for Kids](https://lifehacker.com/the-best-prime-day-deals-on-summer-toys-for-kids-1850627144)
 - [Lifehacker] [The Best Prime Day Deals on Kindles](https://lifehacker.com/the-best-prime-day-deals-on-kindles-1850540392)
 - [Lifehacker] [You Can Tell If a Prime Day Deal Is Just Hype](https://lifehacker.com/how-to-tell-if-a-prime-day-deal-is-really-just-hype-1849165522)
-- [Lifehacker] [The Best Prime Day Deals on Fitness Equipment](https://lifehacker.com/the-best-prime-day-deals-on-fitness-equipment-1850612252)
-- [Lifehacker] [Get a Meta Quest 2 VR for $299, Plus a $50 Gift Card](https://lifehacker.com/get-a-meta-quest-2-vr-for-299-plus-a-50-gift-card-1850627629)
-- [Lifehacker] [All the Reasons You Might Not Want to Join Threads](https://lifehacker.com/all-the-reasons-you-might-not-want-to-join-threads-1850625656)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Prime Day Deals on Fitness Equipment](https://lifehacker.com/the-best-prime-day-deals-on-fitness-equipment-1850612252)<!-- TECH-POSTS:END -->
 
 ---
 
