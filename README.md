@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The 10 Best Prime Day Deals on LEGO Sets](https://lifehacker.com/the-10-best-prime-day-deals-on-lego-sets-1850632945)
+- [Lifehacker] [The Best Prime Day Deals on Fitness Equipment](https://lifehacker.com/the-best-prime-day-deals-on-fitness-equipment-1850612252)
+- [Lifehacker] [You Can Install the iOS 17 Public Beta Right Now](https://lifehacker.com/you-can-install-the-ios-17-public-beta-right-now-1850632782)
+- [Dev.to/JS] [Flatlist in React-Native](https://dev.to/nafisnil/flatlist-in-react-native-3fna)
 - [Lifehacker] [Dress Your Pasta Salad With a Tub of Dip](https://lifehacker.com/dress-your-pasta-salad-with-a-tub-of-dip-1850629172)
 - [Dev.to/JS] [ACOS.games – Middleware platform for ReactJS multiplayer web games](https://dev.to/joetex/acosgames-middleware-platform-for-reactjs-multiplayer-web-games-325k)
 - [Lifehacker] [Scrivener 3 Is 50% Off Right Now](https://lifehacker.com/scrivener-3-is-50-off-right-now-1850612878)
@@ -44,11 +48,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Still Get These Prime Day Deals on Bluetooth Speakers](https://lifehacker.com/you-can-still-get-these-prime-day-deals-on-bluetooth-sp-1850589112)
 - [Dev.to/JS] [Automatic import sorting in VSCode](https://dev.to/receter/automatic-import-sorting-in-vscode-275m)
 - [Dev.to/JS] [How to Conditionally Add Property to the Object in JavaScript](https://dev.to/coderdal/how-to-conditionally-add-property-to-the-object-in-javascript-2916)
-- [Dev.to/JS] [JavaScript Development Trends in 2023](https://dev.to/arsalanmee/javascript-development-trends-in-2023-4ag3)
 - [Lifehacker] [These Are the Best Deals on VPNs Right Now](https://lifehacker.com/these-are-the-best-deals-on-vpns-right-now-1850630777)
 - [Lifehacker] [You Can Still Score These Prime Day Deals on Mattresses](https://lifehacker.com/you-can-still-score-these-prime-day-deals-on-mattresses-1850629302)
 - [Lifehacker] [The Best Prime Day Deals on Every Type of Coffee Maker](https://lifehacker.com/the-best-prime-day-deals-on-every-type-of-coffee-maker-1850630672)
-- [Lifehacker] [My 15 Favorite Prime Day Deals That Are Actually Worth Your Attention](https://lifehacker.com/lifehackers-favorite-prime-day-deals-1850631005)
+- [Lifehacker] [My 20 Favorite Prime Day Deals That Are Actually Worth Your Attention](https://lifehacker.com/lifehackers-favorite-prime-day-deals-1850631005)
 - [Lifehacker] [The Best Prime Day Deals on Back-to-School Stuff](https://lifehacker.com/the-best-prime-day-deals-on-back-to-school-stuff-1850628593)
 - [Lifehacker] [Scramble Your Eggs in a Spoonful of Thai Curry Paste](https://lifehacker.com/scramble-your-eggs-in-a-spoonful-of-thai-curry-paste-1850628101)
 - [Lifehacker] [The Best Prime Day Deals on Haircare Appliances](https://lifehacker.com/the-best-prime-day-deals-on-haircare-appliances-1850623453)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Amazon Prime Day Deals on Grills and Smokers](https://lifehacker.com/the-best-amazon-prime-day-deals-on-grills-and-smokers-1850627642)
 - [Lifehacker] [This 38,000-Course Golf Simulator Is $190 Right Now](https://lifehacker.com/this-38-000-course-golf-simulator-is-190-right-now-1850612859)
 - [Lifehacker] [The Best Prime Day Deals on Beauty and Personal Care Appliances](https://lifehacker.com/the-best-prime-day-deals-on-beauty-and-personal-care-ap-1850626751)
-- [Lifehacker] [The Best Prime Day Deals on Summer Toys for Kids](https://lifehacker.com/the-best-prime-day-deals-on-summer-toys-for-kids-1850627144)
-- [Lifehacker] [The Best Prime Day Deals on Kindles](https://lifehacker.com/the-best-prime-day-deals-on-kindles-1850540392)
-- [Lifehacker] [You Can Tell If a Prime Day Deal Is Just Hype](https://lifehacker.com/how-to-tell-if-a-prime-day-deal-is-really-just-hype-1849165522)
-- [Lifehacker] [The Best Prime Day Deals on Fitness Equipment](https://lifehacker.com/the-best-prime-day-deals-on-fitness-equipment-1850612252)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Prime Day Deals on Summer Toys for Kids](https://lifehacker.com/the-best-prime-day-deals-on-summer-toys-for-kids-1850627144)<!-- TECH-POSTS:END -->
 
 ---
 
