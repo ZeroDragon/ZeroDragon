@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best headless CMS platforms for Astro](https://dev.to/logrocket/best-headless-cms-platforms-for-astro-75a)
+- [Dev.to/JS] [What is Cookies | Cookies in JS &lpar;javascript&rpar;](https://dev.to/diwakarkashyap/what-is-cookies-cookies-in-js-javascript-354c)
+- [Lifehacker] [The Best Prime Day Deals on Every Kind of Projector](https://lifehacker.com/the-best-prime-day-deals-on-every-kind-of-projector-1850631742)
+- [Dev.to/JS] [Web File API deep dive 🤿 &lpar;2023&rpar;](https://dev.to/noble_7/the-last-file-input-tutorial-youll-ever-need-2023-4ppd)
+- [Lifehacker] [You Can Still Get These Prime Day Deals on Bluetooth Speakers](https://lifehacker.com/you-can-still-get-these-prime-day-deals-on-bluetooth-sp-1850589112)
 - [Dev.to/JS] [Automatic import sorting in VSCode](https://dev.to/receter/automatic-import-sorting-in-vscode-275m)
 - [Dev.to/JS] [How to Conditionally Add Property to the Object in JavaScript](https://dev.to/coderdal/how-to-conditionally-add-property-to-the-object-in-javascript-2916)
 - [Dev.to/JS] [JavaScript Development Trends in 2023](https://dev.to/arsalanmee/javascript-development-trends-in-2023-4ag3)
@@ -39,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Please don&#39;t write confusing conditionals](https://dev.to/somedood/please-dont-write-confusing-conditionals-2n32)
 - [Lifehacker] [The Best Prime Day Deals on Every Type of Coffee Maker](https://lifehacker.com/the-best-prime-day-deals-on-every-type-of-coffee-maker-1850630672)
 - [Lifehacker] [My 10 Favorite Prime Day Deals That Are Actually Worth Your Attention](https://lifehacker.com/lifehackers-favorite-prime-day-deals-1850631005)
-- [Dev.to/JS] [A Brief History of Web Apps – Why Qwik is Innovative](https://dev.to/this-is-learning/a-brief-history-of-web-apps-why-qwik-is-innovative-456f)
 - [Lifehacker] [The Best Prime Day Deals on Back-to-School Stuff](https://lifehacker.com/the-best-prime-day-deals-on-back-to-school-stuff-1850628593)
-- [Dev.to/JS] [Frontend development skills for Product based companies 🔥](https://dev.to/gaurbprajapati/frontend-development-skills-for-product-based-companies-2120)
-- [Dev.to/JS] [Unlock the Power of Angular Reactive Forms](https://dev.to/naira_gezhoyan/unlock-the-power-of-angular-reactive-forms-4m32)
 - [Lifehacker] [Scramble Your Eggs in a Spoonful of Thai Curry Paste](https://lifehacker.com/scramble-your-eggs-in-a-spoonful-of-thai-curry-paste-1850628101)
 - [Lifehacker] [The Best Prime Day Deals on Haircare Appliances](https://lifehacker.com/the-best-prime-day-deals-on-haircare-appliances-1850623453)
 - [Lifehacker] [This Inflatable Hot Tub Is the Only Prime Day Deal I Truly Care About](https://lifehacker.com/this-inflatable-hot-tub-is-the-only-prime-day-deal-i-tr-1850628207)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Reasons You Might Not Want to Join Threads](https://lifehacker.com/all-the-reasons-you-might-not-want-to-join-threads-1850625656)
 - [Lifehacker] [The Best Prime Day Deals on Cordless Vacuums](https://lifehacker.com/the-best-prime-day-deals-on-cordless-vacuums-1850627235)
 - [Lifehacker] [The One Type of Tech You Should Buy on Prime Day](https://lifehacker.com/prime-day-is-best-for-exactly-one-type-of-tech-1849164435)
-- [Lifehacker] [Get Four Months of Amazon Music Unlimited Free During Prime Day](https://lifehacker.com/get-four-months-of-amazon-music-unlimited-free-during-p-1850535072)
-- [Lifehacker] [The Best Prime Deal Deals on Smart Home Devices](https://lifehacker.com/the-best-prime-deal-deals-on-smart-home-devices-1850612395)
-- [Lifehacker] [The Best Amazon Prime Day Deals on Travel Gear](https://lifehacker.com/the-best-amazon-prime-day-deals-on-travel-gear-1850626448)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Get Four Months of Amazon Music Unlimited Free During Prime Day](https://lifehacker.com/get-four-months-of-amazon-music-unlimited-free-during-p-1850535072)<!-- TECH-POSTS:END -->
 
 ---
 
