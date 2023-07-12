@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Scramble Your Eggs in a Spoonful of Thai Curry Paste](https://lifehacker.com/scramble-your-eggs-in-a-spoonful-of-thai-curry-paste-1850628101)
+- [Dev.to/JS] [📊 How to Create Pareto Charts in JavaScript 📈](https://dev.to/andreykh/how-to-create-pareto-charts-in-javascript-fmd)
+- [Dev.to/JS] [How to test an async function to throw an exception in Jest](https://dev.to/darkmavis1980/how-to-test-an-async-function-to-throw-an-exception-in-jest-3a90)
+- [Dev.to/JS] [Day 3: Polyfill for Array.flat&lpar;&rpar;](https://dev.to/dhrn/day-3-polyfill-for-arrayflat-2464)
+- [Lifehacker] [The Best Prime Day Deals on Haircare Appliances](https://lifehacker.com/the-best-prime-day-deals-on-haircare-appliances-1850623453)
+- [Dev.to/JS] [How to Create Dynamic Pages with Route Parameters and the useParams Hook in React](https://dev.to/adetutu/how-to-create-dynamic-pages-with-route-parameters-and-the-useparams-hook-in-react-58ef)
+- [Dev.to/JS] [Battle of HTTP Clients: Comparing Axios, Unfetch, and Superagent for beginners](https://dev.to/louisryoung/battle-of-http-clients-comparing-axios-unfetch-and-superagent-for-beginners-2c2a)
 - [Dev.to/JS] [Creating Dynamic Class Extension in JavaScript: A Flexible Approach for Code Reusability](https://dev.to/nabous/creating-dynamic-class-extension-in-javascript-a-flexible-approach-for-code-reusability-3hod)
 - [Dev.to/JS] [Unique and Random Pixel Profile Picture for Anonymous User](https://dev.to/rizmyabdulla/unique-and-random-pixel-profile-picture-for-anonymous-user-4062)
 - [Dev.to/JS] [block scope and shadowing in Javascript](https://dev.to/gaurbprajapati/block-scope-and-shadowing-in-javascript-28o2)
@@ -33,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Operations between sets with JavaScript](https://dev.to/danielzotti/operations-between-sets-with-javascript-1c9j)
 - [Dev.to/JS] [Top 10 NFT Token Developers in 2023](https://dev.to/codegirljs/top-10-nft-token-developers-in-2023-533k)
 - [Dev.to/JS] [Top 5 Best Developer Blogs Worth Reading in 2023](https://dev.to/codegirljs/top-5-best-developer-blogs-worth-reading-in-2023-526i)
-- [Dev.to/JS] [Understanding the const Keyword: With Array and Objects in Javascript](https://dev.to/abhishek_writes/understanding-the-const-keyword-with-array-and-objects-in-javascript-29dc)
-- [Dev.to/JS] [Cucumber.js Tutorial with Examples For Selenium JavaScript](https://dev.to/lambdatest/cucumberjs-tutorial-with-examples-for-selenium-javascript-1b06)
-- [Dev.to/JS] [Immediate Edge - Benefits, Price, Results, Reviews &amp; Side Effects?](https://dev.to/immediatee34709/immediate-edge-benefits-price-results-reviews-side-effects-22ke)
-- [Dev.to/JS] [Learn 30 serverless best-practices with sls-mentor](https://dev.to/kumo/learn-30-serverless-best-practices-with-sls-mentor-cnj)
-- [Dev.to/JS] [#LearnedToday: Build Your Own X](https://dev.to/danielzotti/learnedtoday-build-your-own-x-2m3)
 - [Lifehacker] [This Inflatable Hot Tub Is the Only Prime Day Deal I Truly Care About](https://lifehacker.com/this-inflatable-hot-tub-is-the-only-prime-day-deal-i-tr-1850628207)
 - [Lifehacker] [The Best Deals on Headphones on Prime Day](https://lifehacker.com/the-best-deals-on-headphones-on-prime-day-1850628319)
 - [Lifehacker] [This Is The Best Prime Day Deal on Microsoft 365 Yet](https://lifehacker.com/this-is-the-best-prime-day-deal-on-microsoft-365-yet-1850627795)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get Three Months of Audible Premium Plus Free During Prime Day](https://lifehacker.com/get-three-months-of-audible-premium-plus-free-during-pr-1850528815)
 - [Lifehacker] [Your Best Prime Day Beauty Splurges](https://lifehacker.com/your-best-prime-day-beauty-splurges-1850610216)
 - [Lifehacker] [The Best Amazon Fire TV Stick Deals for Prime Day](https://lifehacker.com/the-best-amazon-fire-tv-stick-deals-for-prime-day-1850544721)
-- [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)
-- [Lifehacker] [The Best Prime Day Deals on Cosmetics Basics](https://lifehacker.com/the-best-prime-day-deals-on-cosmetics-basics-1850616042)
-- [Lifehacker] [The Best Prime Day Deals on Amazon Fire Tablets](https://lifehacker.com/the-best-prime-day-deals-on-amazon-fire-tablets-1850540955)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Walmart&#39;s Version of &#39;Prime Day&#39; Is Coming Soon](https://lifehacker.com/walmarts-version-of-prime-day-is-coming-soon-1850562332)<!-- TECH-POSTS:END -->
 
 ---
 
