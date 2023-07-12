@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple tutorial on how to uppercase&lpar;capitalize&rpar; the first letter of a word with JavaScript.](https://dev.to/acrrj123/simple-tutorial-on-how-to-uppercasecapitalize-the-first-letter-of-a-word-with-javascript-47hh)
+- [Lifehacker] [How to Set &#39;Boundaries&#39; Without Being a Jerk About It](https://lifehacker.com/how-to-set-boundaries-without-being-an-asshole-about-it-1850633149)
 - [Lifehacker] [These Deeper Connect VPNs Are Over 40% Off Right Now](https://lifehacker.com/these-deeper-connect-vpns-are-over-40-off-right-now-1850616947)
 - [Dev.to/JS] [Getting started with Web3 Frontend Development: A Quick &amp; Dirty Guide](https://dev.to/alinobrasil/getting-started-with-web3-frontend-development-a-quick-dirty-guide-1aek)
 - [Dev.to/JS] [Top 10 Programming Languages](https://dev.to/saloniverma4782/top-10-programming-languages-50n1)
@@ -50,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Suck Up These Prime Day Deals on Robot Vacuums](https://lifehacker.com/suck-up-these-prime-day-deals-on-robot-vacuums-1850631770)
 - [Dev.to/JS] [What is Cookies | Cookies in JS &lpar;javascript&rpar;](https://dev.to/diwakarkashyap/what-is-cookies-cookies-in-js-javascript-354c)
 - [Lifehacker] [The Best Prime Day Deals on Every Kind of Projector](https://lifehacker.com/the-best-prime-day-deals-on-every-kind-of-projector-1850631742)
-- [Dev.to/JS] [Web File API deep dive 🤿 &lpar;2023&rpar;](https://dev.to/noble_7/the-last-file-input-tutorial-youll-ever-need-2023-4ppd)
 - [Lifehacker] [You Can Still Get These Prime Day Deals on Bluetooth Speakers](https://lifehacker.com/you-can-still-get-these-prime-day-deals-on-bluetooth-sp-1850589112)
 - [Lifehacker] [These Are the Best Deals on VPNs Right Now](https://lifehacker.com/these-are-the-best-deals-on-vpns-right-now-1850630777)
 - [Lifehacker] [You Can Still Score These Prime Day Deals on Mattresses](https://lifehacker.com/you-can-still-score-these-prime-day-deals-on-mattresses-1850629302)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is The Best Prime Day Deal on Microsoft 365 Yet](https://lifehacker.com/this-is-the-best-prime-day-deal-on-microsoft-365-yet-1850627795)
 - [Lifehacker] [This Desklab Portable Touchscreen Monitor Is 33% Off Right Now](https://lifehacker.com/this-desklab-portable-touchscreen-monitor-is-33-off-ri-1850612398)
 - [Lifehacker] [The Best Prime Day Streaming Deals](https://lifehacker.com/the-best-prime-day-streaming-deals-1850628013)
-- [Lifehacker] [You Can Get Two $100 Restaurant.com Gift Cards for $20 Right Now](https://lifehacker.com/you-can-get-two-100-restaurant-com-gift-cards-for-20-1850612776)
-- [Lifehacker] [The Best Prime Day Deals on Laptops](https://lifehacker.com/the-best-prime-day-deals-on-laptops-1850627675)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Two $100 Restaurant.com Gift Cards for $20 Right Now](https://lifehacker.com/you-can-get-two-100-restaurant-com-gift-cards-for-20-1850612776)<!-- TECH-POSTS:END -->
 
 ---
 
