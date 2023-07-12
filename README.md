@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Automatic import sorting in VSCode](https://dev.to/receter/automatic-import-sorting-in-vscode-275m)
+- [Dev.to/JS] [How to Conditionally Add Property to the Object in JavaScript](https://dev.to/coderdal/how-to-conditionally-add-property-to-the-object-in-javascript-2916)
+- [Dev.to/JS] [JavaScript Development Trends in 2023](https://dev.to/arsalanmee/javascript-development-trends-in-2023-4ag3)
+- [Dev.to/JS] [Adding pub/sub to an Express application.](https://dev.to/rsiv/adding-pubsub-to-an-express-application-5ecm)
+- [Lifehacker] [These Are the Best Deals on VPNs Right Now](https://lifehacker.com/these-are-the-best-deals-on-vpns-right-now-1850630777)
+- [Dev.to/JS] [Creating a Fullscreen div Element with CSS](https://dev.to/sh20raj/creating-a-fullscreen-div-element-with-css-25pp)
+- [Dev.to/JS] [Dynamic Class Instance Extension in TypeScript: Empowering Reusability and Flexibility](https://dev.to/nabous/dynamic-class-instance-extension-in-typescript-empowering-reusability-and-flexibility-2fho)
+- [Lifehacker] [You Can Still Score These Prime Day Deals on Mattresses](https://lifehacker.com/you-can-still-score-these-prime-day-deals-on-mattresses-1850629302)
 - [Dev.to/JS] [Top 20 Must-Know Tips for Web Accessibility](https://dev.to/ismaestro/top-20-must-know-tips-for-web-accessibility-452)
 - [Dev.to/JS] [JavaScript Objects and Prototypes: A Guide to Object-Oriented Programming](https://dev.to/kafeel_ahmad/javascript-objects-and-prototypes-a-guide-to-object-oriented-programming-1lj8)
 - [Dev.to/JS] [Please don&#39;t write confusing conditionals](https://dev.to/somedood/please-dont-write-confusing-conditionals-2n32)
@@ -36,13 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Frontend development skills for Product based companies 🔥](https://dev.to/gaurbprajapati/frontend-development-skills-for-product-based-companies-2120)
 - [Dev.to/JS] [Unlock the Power of Angular Reactive Forms](https://dev.to/naira_gezhoyan/unlock-the-power-of-angular-reactive-forms-4m32)
 - [Lifehacker] [Scramble Your Eggs in a Spoonful of Thai Curry Paste](https://lifehacker.com/scramble-your-eggs-in-a-spoonful-of-thai-curry-paste-1850628101)
-- [Dev.to/JS] [📊 How to Create Pareto Charts in JavaScript 📈](https://dev.to/andreykh/how-to-create-pareto-charts-in-javascript-fmd)
-- [Dev.to/JS] [How to test an async function to throw an exception in Jest](https://dev.to/darkmavis1980/how-to-test-an-async-function-to-throw-an-exception-in-jest-3a90)
-- [Dev.to/JS] [Day 3: Polyfill for Array.flat&lpar;&rpar;](https://dev.to/dhrn/day-3-polyfill-for-arrayflat-2464)
 - [Lifehacker] [The Best Prime Day Deals on Haircare Appliances](https://lifehacker.com/the-best-prime-day-deals-on-haircare-appliances-1850623453)
-- [Dev.to/JS] [How to Create Dynamic Pages with Route Parameters and the useParams Hook in React](https://dev.to/adetutu/how-to-create-dynamic-pages-with-route-parameters-and-the-useparams-hook-in-react-58ef)
-- [Dev.to/JS] [Battle of HTTP Clients: Comparing Axios, Unfetch, and Superagent for beginners](https://dev.to/louisryoung/battle-of-http-clients-comparing-axios-unfetch-and-superagent-for-beginners-2c2a)
-- [Dev.to/JS] [Dynamic Class Instance Extension in TypeScript: Empowering Reusability and Flexibility](https://dev.to/nabous/creating-dynamic-class-extension-in-javascript-a-flexible-approach-for-code-reusability-3hod)
 - [Lifehacker] [This Inflatable Hot Tub Is the Only Prime Day Deal I Truly Care About](https://lifehacker.com/this-inflatable-hot-tub-is-the-only-prime-day-deal-i-tr-1850628207)
 - [Lifehacker] [The Best Deals on Headphones on Prime Day](https://lifehacker.com/the-best-deals-on-headphones-on-prime-day-1850628319)
 - [Lifehacker] [This Is The Best Prime Day Deal on Microsoft 365 Yet](https://lifehacker.com/this-is-the-best-prime-day-deal-on-microsoft-365-yet-1850627795)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The One Type of Tech You Should Buy on Prime Day](https://lifehacker.com/prime-day-is-best-for-exactly-one-type-of-tech-1849164435)
 - [Lifehacker] [Get Four Months of Amazon Music Unlimited Free During Prime Day](https://lifehacker.com/get-four-months-of-amazon-music-unlimited-free-during-p-1850535072)
 - [Lifehacker] [The Best Prime Deal Deals on Smart Home Devices](https://lifehacker.com/the-best-prime-deal-deals-on-smart-home-devices-1850612395)
-- [Lifehacker] [The Best Amazon Prime Day Deals on Travel Gear](https://lifehacker.com/the-best-amazon-prime-day-deals-on-travel-gear-1850626448)
-- [Lifehacker] [The Best Prime Day Deals on Kitchen Appliances](https://lifehacker.com/the-best-prime-day-deals-on-kitchen-appliances-1850626273)
-- [Lifehacker] [Get Three Months of Audible Premium Plus Free During Prime Day](https://lifehacker.com/get-three-months-of-audible-premium-plus-free-during-pr-1850528815)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Amazon Prime Day Deals on Travel Gear](https://lifehacker.com/the-best-amazon-prime-day-deals-on-travel-gear-1850626448)<!-- TECH-POSTS:END -->
 
 ---
 
