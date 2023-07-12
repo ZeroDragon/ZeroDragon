@@ -26,18 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn 30 serverless best-practices with sls-mentor](https://dev.to/kumo/learn-30-serverless-best-practices-with-sls-mentor-cnj)
+- [Dev.to/JS] [#LearnedToday: Build Your Own X](https://dev.to/danielzotti/learnedtoday-build-your-own-x-2m3)
 - [Dev.to/JS] [Different Ways to Achieve JavaScript Closure](https://dev.to/sundarbadagala081/different-ways-to-achieve-closure-l14)
 - [Dev.to/JS] [Discovering Distances with Hanging Ropes and Catenaries: A Practical Guide](https://dev.to/spenceryonce/discovering-distances-with-hanging-ropes-and-catenaries-a-practical-guide-2lkb)
 - [Dev.to/JS] [Writing Cleaner JavaScript with Nullish Coalescing: A Developer&#39;s Guide](https://dev.to/daryllukas/writing-cleaner-javascript-with-nullish-coalescing-a-developers-guide-454o)
 - [Dev.to/JS] [Weekly web development resources #157](https://dev.to/vincenius/weekly-web-development-resources-157-22d1)
 - [Dev.to/JS] [Very Simple Javascript Text To Speech](https://dev.to/codeboxx/very-simple-javascript-text-to-speech-2h1i)
 - [Dev.to/JS] [3 Ways To Pause In Javascript &lpar;Or Wait Delay Sleep&rpar;](https://dev.to/codeboxx/3-ways-to-pause-in-javascript-or-wait-delay-sleep-29n8)
-- [Dev.to/JS] [# Top 5 JavaScript startsWith&lpar;&rpar; Alternative Methods With Examples](https://dev.to/onlinemsr/-top-5-javascript-startswith-alternative-methods-with-examples-48mm)
+- [Dev.to/JS] [Top 5 JavaScript startsWith&lpar;&rpar; Alternative Methods With Examples](https://dev.to/onlinemsr/-top-5-javascript-startswith-alternative-methods-with-examples-48mm)
 - [Dev.to/JS] [&lpar;Array.prototype.shuffle&rpar; Daily Daily Frontend Problem: Problem #6 [Medium]](https://dev.to/chandrapenugonda/arrayprototypeshuffle-daily-daily-frontend-problem-problem-6-medium-58f7)
 - [Dev.to/JS] [Accelerate Document Creation with AI-Power](https://dev.to/aiforme/accelerate-document-creation-with-ai-power-4gi5)
 - [Dev.to/JS] [Very Simple Javascript Typewriter Effect](https://dev.to/codeboxx/very-simple-javascript-typewriter-effect-4o0p)
-- [Dev.to/JS] [Top 10 Useful Repositories for Web Developers](https://dev.to/soumyadeepdey/top-10-must-have-repositories-for-web-developers-45d4)
-- [Dev.to/JS] [Session management security: Best practices for protecting user sessions](https://dev.to/snyk/session-management-security-best-practices-for-protecting-user-sessions-475h)
 - [Lifehacker] [This Inflatable Hot Tub Is the Only Prime Day Deal I Truly Care About](https://lifehacker.com/this-inflatable-hot-tub-is-the-only-prime-day-deal-i-tr-1850628207)
 - [Lifehacker] [The Best Deals on Headphones on Prime Day](https://lifehacker.com/the-best-deals-on-headphones-on-prime-day-1850628319)
 - [Lifehacker] [This Is The Best Prime Day Deal on Microsoft 365 Yet](https://lifehacker.com/this-is-the-best-prime-day-deal-on-microsoft-365-yet-1850627795)
