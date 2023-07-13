@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Auto-generated Admin Panels for Node.js with AdminBro](https://dev.to/mohammadfaisal/auto-generated-admin-panels-for-nodejs-with-adminbro-31bo)
+- [Dev.to/JS] [Mastering React Forms: Building Interactive User Input](https://dev.to/muhmmadawd/mastering-react-forms-building-interactive-user-input-joh)
 - [Dev.to/JS] [Safe vs Unsafe Javascript](https://dev.to/druchan/safe-vs-unsafe-javascript-1kd8)
 - [Dev.to/JS] [Exploring the Base64 Encoding and Decoding Functions in JavaScript: btoa&lpar;&rpar; and atob&lpar;&rpar;](https://dev.to/mahdi_falamarzi/exploring-the-base64-encoding-and-decoding-functions-in-javascript-btoa-and-atob-31gk)
 - [Dev.to/JS] [Convert Natural Language to SQL Queries](https://dev.to/aiforme/convert-natural-language-to-sql-queries-5760)
@@ -38,14 +40,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Set &#39;Boundaries&#39; Without Being a Jerk About It](https://lifehacker.com/how-to-set-boundaries-without-being-an-asshole-about-it-1850633149)
 - [Lifehacker] [These Deeper Connect VPNs Are Over 40% Off Right Now](https://lifehacker.com/these-deeper-connect-vpns-are-over-40-off-right-now-1850616947)
 - [Dev.to/JS] [Getting started with Web3 Frontend Development: A Quick &amp; Dirty Guide](https://dev.to/alinobrasil/getting-started-with-web3-frontend-development-a-quick-dirty-guide-1aek)
-- [Dev.to/JS] [Top 10 Programming Languages](https://dev.to/saloniverma4782/top-10-programming-languages-50n1)
 - [Lifehacker] [You Can Get Three Years of UltraVPN for 90% Off Right Now](https://lifehacker.com/you-can-get-three-years-of-ultravpn-for-90-off-right-n-1850612905)
 - [Lifehacker] [The Best Prime Day Deals for Your Home Office](https://lifehacker.com/the-best-prime-day-deals-for-your-home-office-1850633146)
 - [Lifehacker] [Four Questions That Reveal If Management Is Right for You](https://lifehacker.com/four-questions-that-reveal-if-management-is-right-for-y-1850631145)
 - [Lifehacker] [The 20 Best Prime Day Deals on LEGO Sets](https://lifehacker.com/the-10-best-prime-day-deals-on-lego-sets-1850632945)
 - [Lifehacker] [The Best Prime Day Deals on Fitness Equipment](https://lifehacker.com/the-best-prime-day-deals-on-fitness-equipment-1850612252)
 - [Lifehacker] [You Can Install the iOS 17 Public Beta Right Now](https://lifehacker.com/you-can-install-the-ios-17-public-beta-right-now-1850632782)
-- [Dev.to/JS] [Flatlist in React-Native](https://dev.to/nafisnil/flatlist-in-react-native-3fna)
 - [Lifehacker] [Dress Your Pasta Salad With a Tub of Dip](https://lifehacker.com/dress-your-pasta-salad-with-a-tub-of-dip-1850629172)
 - [Lifehacker] [Scrivener 3 Is 50% Off Right Now](https://lifehacker.com/scrivener-3-is-50-off-right-now-1850612878)
 - [Lifehacker] [Use &#39;Deep Work&#39; to Be More Productive](https://lifehacker.com/use-deep-work-to-be-more-productive-1850632295)
