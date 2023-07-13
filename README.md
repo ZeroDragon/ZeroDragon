@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Ultimate Guide to Choosing the Best Workout Tracker App for Apple Watch](https://dev.to/thejuliaemma/the-ultimate-guide-to-choosing-the-best-workout-tracker-app-for-apple-watch-lb3)
+- [Dev.to/JS] [Building a Simple Weather App With AWS Lambda and API Gateway](https://dev.to/aws-builders/building-a-simple-weather-app-with-aws-lambda-and-api-gateway-8bi)
+- [Dev.to/JS] [Dreaded Notification prompting can only be done from a user gesture](https://dev.to/mirmayne/dreaded-notification-prompting-can-only-be-done-from-a-user-gesture-13o5)
 - [Lifehacker] [Build an Ice Cream Cake Right in a Sara Lee Tin](https://lifehacker.com/build-an-ice-cream-cake-right-in-a-sara-lee-tin-1850637892)
 - [Dev.to/JS] [NestJs: DDD implementation - EN](https://dev.to/nilaxann65/nestjs-ddd-implementation-en-278g)
 - [Dev.to/JS] [NestJs: Implementación de DDD - ES](https://dev.to/nilaxann65/nestjs-implementacion-de-ddd-es-242k)
@@ -49,10 +52,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Windscribe VPN Subscription for 60% Off Right Now](https://lifehacker.com/you-can-get-a-windscribe-vpn-subscription-for-60-off-r-1850617074)
 - [Dev.to/JS] [JavaScript Web APIs Series: Audio and Video APIs](https://dev.to/olodocoder/javascript-web-apis-series-audio-and-video-apis-5a1c)
 - [Lifehacker] [25 Apple TV+ Original Series You Should Be Watching](https://lifehacker.com/15-apple-tv-original-series-you-should-be-watching-th-1847601321)
-- [Dev.to/JS] [Building and Testing PHP Microservices With Semaphore](https://dev.to/yongdev/building-and-testing-php-microservices-with-semaphore-26il)
-- [Dev.to/JS] [Javascript Implement a synchronous sleep #8](https://dev.to/chandrapenugonda/implement-a-synchronous-sleep-8-5eh)
 - [Lifehacker] [Convert Your Neck Pillow Into an Extra Carry-on Bag](https://lifehacker.com/convert-your-neck-pillow-into-an-extra-carry-on-bag-1850636147)
-- [Dev.to/JS] [Javascript Polyfill Array.sample #7](https://dev.to/chandrapenugonda/polyfill-arrayprototypesample-daily-frontend-problem-problem-7-easy-317a)
 - [Lifehacker] [An Over-the-Counter Birth Control Pill Is Officially Coming in 2024](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
 - [Lifehacker] [You Should Really Try Out DuckDuckGo&#39;s Windows Beta](https://lifehacker.com/you-should-really-try-out-duckduckgos-windows-beta-1850631237)
 - [Lifehacker] [Yes, a Healthy Diet Can Include Ultra-Processed Food](https://lifehacker.com/yes-a-healthy-diet-can-include-ultra-processed-food-1850633695)
