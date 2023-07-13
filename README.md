@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Anatomy of a Design System](https://dev.to/cloudx/anatomy-of-a-design-system-32bp)
+- [Dev.to/JS] [User scripts and why they are GREAT!](https://dev.to/josunlp/user-scripts-and-why-they-are-great-1mpk)
+- [Lifehacker] [Avoid These Common Money Mistakes When Buying a Home](https://lifehacker.com/avoid-these-common-money-mistakes-when-buying-a-home-1850621536)
+- [Dev.to/JS] [Is React un-optimized?](https://dev.to/tusharshahi/is-react-un-optimized-2c41)
 - [Lifehacker] [10 Things You Should Almost Always Buy Used](https://lifehacker.com/10-things-you-should-almost-always-buy-used-1850627371)
 - [Dev.to/JS] [Day 4: Polyfill for Object.keys&lpar;&rpar;](https://dev.to/dhrn/day-4-polyfill-for-objectkeys-19p)
 - [Lifehacker] [Whether Money Can Buy Happiness, Once and For All](https://lifehacker.com/whether-money-can-buy-happiness-once-and-for-all-1850624539)
@@ -38,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a cloud-based customer support ticketing app with real-time updates &lpar;Nuxt.js&rpar;](https://dev.to/hackmamba/build-a-cloud-based-customer-support-ticketing-app-with-real-time-updates-nuxtjs-3lhf)
 - [Dev.to/JS] [JavaScript Pipeline](https://dev.to/sundarbadagala081/javascript-pipeline-4d27)
 - [Dev.to/JS] [How to build containerised Lambda functions with AWS CDK](https://dev.to/pmca/how-to-build-containerised-lambda-functions-with-aws-cdk-39ji)
-- [Dev.to/JS] [Fetching Student Data in a Django-React App using Axios](https://dev.to/msnmongare/fetching-student-data-in-a-django-react-app-using-axios-23e9)
-- [Dev.to/JS] [React-Native Music App](https://dev.to/yacinellc/react-native-music-app-4023)
-- [Dev.to/JS] [Which JS Framework is the smallest?](https://dev.to/pazu/which-js-framework-is-the-smallest-161p)
 - [Lifehacker] [How to Set &#39;Boundaries&#39; Without Being a Jerk About It](https://lifehacker.com/how-to-set-boundaries-without-being-an-asshole-about-it-1850633149)
 - [Lifehacker] [These Deeper Connect VPNs Are Over 40% Off Right Now](https://lifehacker.com/these-deeper-connect-vpns-are-over-40-off-right-now-1850616947)
 - [Lifehacker] [You Can Get Three Years of UltraVPN for 90% Off Right Now](https://lifehacker.com/you-can-get-three-years-of-ultravpn-for-90-off-right-n-1850612905)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Scramble Your Eggs in a Spoonful of Thai Curry Paste](https://lifehacker.com/scramble-your-eggs-in-a-spoonful-of-thai-curry-paste-1850628101)
 - [Lifehacker] [The Best Prime Day Deals on Haircare Appliances](https://lifehacker.com/the-best-prime-day-deals-on-haircare-appliances-1850623453)
 - [Lifehacker] [This Inflatable Hot Tub Is the Only Prime Day Deal I Truly Care About](https://lifehacker.com/this-inflatable-hot-tub-is-the-only-prime-day-deal-i-tr-1850628207)
-- [Lifehacker] [The Best Deals on Headphones on Prime Day](https://lifehacker.com/the-best-deals-on-headphones-on-prime-day-1850628319)
-- [Lifehacker] [This Is The Best Prime Day Deal on Microsoft 365 Yet](https://lifehacker.com/this-is-the-best-prime-day-deal-on-microsoft-365-yet-1850627795)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Deals on Headphones on Prime Day](https://lifehacker.com/the-best-deals-on-headphones-on-prime-day-1850628319)<!-- TECH-POSTS:END -->
 
 ---
 
