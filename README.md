@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [reCaptcha v2 Solver : Captchas Solver](https://dev.to/qwwrtt/recaptcha-v2-solver-captchas-solver-2n08)
+- [Dev.to/JS] [How To Create Excel File In Javascript](https://dev.to/codeboxx/how-to-create-excel-file-in-javascript-297a)
+- [Lifehacker] [An Over-the-Counter Birth Control Pill Is Officially Coming in 2024](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
 - [Dev.to/JS] [How to bypass / solve any version of reCAPTCHA Enterprise v2, v2 invisible, v3, v3 enterprise 0.9 score](https://dev.to/qwwrtt/how-to-bypass-solve-any-version-of-recaptcha-enterprise-v2-v2-invisible-v3-v3-enterprise-09-score-299l)
+- [Lifehacker] [You Should Really Try Out DuckDuckGo&#39;s Windows Beta](https://lifehacker.com/you-should-really-try-out-duckduckgos-windows-beta-1850631237)
 - [Dev.to/JS] [JavaScript 🐲 challenges_5 ⚔️](https://dev.to/mahmoudessam/javascript-challenges5-50o2)
 - [Dev.to/JS] [Datadome Solver : Captcha Solver](https://dev.to/qwwrtt/datadome-solver-captcha-solver-meg)
 - [Dev.to/JS] [AWS Solver : Captcha Solver](https://dev.to/qwwrtt/aws-solver-captcha-solver-4j7d)
@@ -39,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Anatomy of a Design System](https://dev.to/cloudx/anatomy-of-a-design-system-32bp)
 - [Dev.to/JS] [User scripts and why they are GREAT!](https://dev.to/josunlp/user-scripts-and-why-they-are-great-1mpk)
 - [Lifehacker] [Avoid These Common Money Mistakes When Buying a Home](https://lifehacker.com/avoid-these-common-money-mistakes-when-buying-a-home-1850621536)
-- [Dev.to/JS] [Is React un-optimized?](https://dev.to/tusharshahi/is-react-un-optimized-2c41)
 - [Lifehacker] [10 Things You Should Almost Always Buy Used](https://lifehacker.com/10-things-you-should-almost-always-buy-used-1850627371)
-- [Dev.to/JS] [Day 4: Polyfill for Object.keys&lpar;&rpar;](https://dev.to/dhrn/day-4-polyfill-for-objectkeys-19p)
 - [Lifehacker] [Whether Money Can Buy Happiness, Once and For All](https://lifehacker.com/whether-money-can-buy-happiness-once-and-for-all-1850624539)
 - [Lifehacker] [How to Block Ads on Reddit](https://lifehacker.com/how-to-block-ads-on-reddit-1850626685)
 - [Lifehacker] [How to Set &#39;Boundaries&#39; Without Being a Jerk About It](https://lifehacker.com/how-to-set-boundaries-without-being-an-asshole-about-it-1850633149)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Still Score These Prime Day Deals on Mattresses](https://lifehacker.com/you-can-still-score-these-prime-day-deals-on-mattresses-1850629302)
 - [Lifehacker] [The Best Prime Day Deals on Every Type of Coffee Maker](https://lifehacker.com/the-best-prime-day-deals-on-every-type-of-coffee-maker-1850630672)
 - [Lifehacker] [My 20 Favorite Prime Day Deals That Are Actually Worth Your Attention](https://lifehacker.com/lifehackers-favorite-prime-day-deals-1850631005)
-- [Lifehacker] [The Best Prime Day Deals on Back-to-School Stuff](https://lifehacker.com/the-best-prime-day-deals-on-back-to-school-stuff-1850628593)
-- [Lifehacker] [Scramble Your Eggs in a Spoonful of Thai Curry Paste](https://lifehacker.com/scramble-your-eggs-in-a-spoonful-of-thai-curry-paste-1850628101)
-- [Lifehacker] [The Best Prime Day Deals on Haircare Appliances](https://lifehacker.com/the-best-prime-day-deals-on-haircare-appliances-1850623453)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Prime Day Deals on Back-to-School Stuff](https://lifehacker.com/the-best-prime-day-deals-on-back-to-school-stuff-1850628593)<!-- TECH-POSTS:END -->
 
 ---
 
