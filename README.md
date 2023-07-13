@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Safe vs Unsafe Javascript](https://dev.to/druchan/safe-vs-unsafe-javascript-1kd8)
+- [Dev.to/JS] [Exploring the Base64 Encoding and Decoding Functions in JavaScript: btoa&lpar;&rpar; and atob&lpar;&rpar;](https://dev.to/mahdi_falamarzi/exploring-the-base64-encoding-and-decoding-functions-in-javascript-btoa-and-atob-31gk)
 - [Dev.to/JS] [Convert Natural Language to SQL Queries](https://dev.to/aiforme/convert-natural-language-to-sql-queries-5760)
 - [Dev.to/JS] [New storage utility methods added to the toolkit-use npm package](https://dev.to/toolkituse/new-storage-utility-methods-added-to-the-toolkit-use-npm-package-8ha)
 - [Dev.to/JS] [Let&#39;s dive in to Cross-Origin](https://dev.to/gimnathperera/lets-dive-in-to-cross-origin-4bmj)
@@ -45,9 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Install the iOS 17 Public Beta Right Now](https://lifehacker.com/you-can-install-the-ios-17-public-beta-right-now-1850632782)
 - [Dev.to/JS] [Flatlist in React-Native](https://dev.to/nafisnil/flatlist-in-react-native-3fna)
 - [Lifehacker] [Dress Your Pasta Salad With a Tub of Dip](https://lifehacker.com/dress-your-pasta-salad-with-a-tub-of-dip-1850629172)
-- [Dev.to/JS] [ACOS.games – Middleware platform for ReactJS multiplayer web games](https://dev.to/joetex/acosgames-middleware-platform-for-reactjs-multiplayer-web-games-325k)
 - [Lifehacker] [Scrivener 3 Is 50% Off Right Now](https://lifehacker.com/scrivener-3-is-50-off-right-now-1850612878)
-- [Dev.to/JS] [Patrón de diseño Adapter en JavaScript](https://dev.to/ulisesserranop/patron-de-diseno-adapter-en-javascript-4p76)
 - [Lifehacker] [Use &#39;Deep Work&#39; to Be More Productive](https://lifehacker.com/use-deep-work-to-be-more-productive-1850632295)
 - [Lifehacker] [The Difference Between Soft, Medium, and Stiff Peaks &lpar;and When to Use Each One&rpar;](https://lifehacker.com/the-difference-between-soft-medium-and-stiff-peaks-a-1850631761)
 - [Lifehacker] [Suck Up These Prime Day Deals on Robot Vacuums](https://lifehacker.com/suck-up-these-prime-day-deals-on-robot-vacuums-1850631770)
