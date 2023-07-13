@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Event Propagation and Delegation Work in JavaScript](https://dev.to/itzz_okure/how-event-propagation-and-delegation-work-in-javascript-5efe)
 - [Dev.to/JS] [Auto-generated Admin Panels for Node.js with AdminBro](https://dev.to/mohammadfaisal/auto-generated-admin-panels-for-nodejs-with-adminbro-31bo)
 - [Dev.to/JS] [Mastering React Forms: Building Interactive User Input](https://dev.to/muhmmadawd/mastering-react-forms-building-interactive-user-input-joh)
 - [Dev.to/JS] [Safe vs Unsafe Javascript](https://dev.to/druchan/safe-vs-unsafe-javascript-1kd8)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple tutorial on how to uppercase&lpar;capitalize&rpar; the first letter of a word with JavaScript.](https://dev.to/acrrj123/simple-tutorial-on-how-to-uppercasecapitalize-the-first-letter-of-a-word-with-javascript-47hh)
 - [Lifehacker] [How to Set &#39;Boundaries&#39; Without Being a Jerk About It](https://lifehacker.com/how-to-set-boundaries-without-being-an-asshole-about-it-1850633149)
 - [Lifehacker] [These Deeper Connect VPNs Are Over 40% Off Right Now](https://lifehacker.com/these-deeper-connect-vpns-are-over-40-off-right-now-1850616947)
-- [Dev.to/JS] [Getting started with Web3 Frontend Development: A Quick &amp; Dirty Guide](https://dev.to/alinobrasil/getting-started-with-web3-frontend-development-a-quick-dirty-guide-1aek)
 - [Lifehacker] [You Can Get Three Years of UltraVPN for 90% Off Right Now](https://lifehacker.com/you-can-get-three-years-of-ultravpn-for-90-off-right-n-1850612905)
 - [Lifehacker] [The Best Prime Day Deals for Your Home Office](https://lifehacker.com/the-best-prime-day-deals-for-your-home-office-1850633146)
 - [Lifehacker] [Four Questions That Reveal If Management Is Right for You](https://lifehacker.com/four-questions-that-reveal-if-management-is-right-for-y-1850631145)
