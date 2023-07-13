@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build Anticipation: Create a Countdown Timer Landing Page with HTML, CSS, and JavaScript](https://dev.to/devlawrence/build-anticipation-create-a-countdown-timer-landing-page-with-html-css-and-javascript-159a)
+- [Dev.to/JS] [Episode 23/27: NgRx 16.1 &amp; Signal Store, Jest, Cypress, Nx](https://dev.to/this-is-angular/episode-2327-ngrx-161-signal-store-jest-cypress-nx-23b9)
 - [Dev.to/JS] [The Ultimate Guide to Choosing the Best Workout Tracker App for Apple Watch](https://dev.to/thejuliaemma/the-ultimate-guide-to-choosing-the-best-workout-tracker-app-for-apple-watch-lb3)
 - [Dev.to/JS] [Building a Simple Weather App With AWS Lambda and API Gateway](https://dev.to/aws-builders/building-a-simple-weather-app-with-aws-lambda-and-api-gateway-8bi)
 - [Dev.to/JS] [Dreaded Notification prompting can only be done from a user gesture](https://dev.to/mirmayne/dreaded-notification-prompting-can-only-be-done-from-a-user-gesture-13o5)
@@ -46,11 +48,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Olive Sandwich Is the Answer to Summer&#39;s Sando Problems](https://lifehacker.com/the-olive-sandwich-is-the-answer-to-summers-sando-probl-1850633080)
 - [Dev.to/JS] [Adding Daily Developer Joke to GitHub README](https://dev.to/vulcanwm/adding-daily-developer-joke-to-github-readme-ap9)
 - [Lifehacker] [You Can Get 10TB of Prism Drive Cloud Storage for 90% Off](https://lifehacker.com/you-can-get-10tb-of-prism-drive-cloud-storage-for-90-o-1850617036)
-- [Dev.to/JS] [What the hell is &quot;this&quot;?](https://dev.to/phantom__/what-the-hell-is-this-3e32)
 - [Lifehacker] [What People Are Getting Wrong This Week: Artificial Intelligence](https://lifehacker.com/what-people-are-getting-wrong-this-week-artificial-int-1850634769)
 - [Lifehacker] [Three Ways to Set an iPhone Alarm Without Waking Your Partner](https://lifehacker.com/three-ways-to-set-an-iphone-alarm-without-waking-your-p-1850636324)
 - [Lifehacker] [You Can Get a Windscribe VPN Subscription for 60% Off Right Now](https://lifehacker.com/you-can-get-a-windscribe-vpn-subscription-for-60-off-r-1850617074)
-- [Dev.to/JS] [JavaScript Web APIs Series: Audio and Video APIs](https://dev.to/olodocoder/javascript-web-apis-series-audio-and-video-apis-5a1c)
 - [Lifehacker] [25 Apple TV+ Original Series You Should Be Watching](https://lifehacker.com/15-apple-tv-original-series-you-should-be-watching-th-1847601321)
 - [Lifehacker] [Convert Your Neck Pillow Into an Extra Carry-on Bag](https://lifehacker.com/convert-your-neck-pillow-into-an-extra-carry-on-bag-1850636147)
 - [Lifehacker] [An Over-the-Counter Birth Control Pill Is Officially Coming in 2024](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
