@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Gerando testes unitários dinamicamente com Plop.js](https://dev.to/devdoido/gerando-testes-unitarios-dinamicamente-com-plopjs-2o77)
+- [Dev.to/JS] [Updates from the 97th TC39 meeting](https://dev.to/hemanth/updates-from-the-97th-tc39-meeting-1cnj)
+- [Lifehacker] [The Olive Sandwich Is the Answer to Summer&#39;s Sando Problems](https://lifehacker.com/the-olive-sandwich-is-the-answer-to-summers-sando-probl-1850633080)
+- [Dev.to/JS] [Adding Daily Developer Joke to GitHub README](https://dev.to/vulcanwm/adding-daily-developer-joke-to-github-readme-ap9)
+- [Lifehacker] [You Can Get 10TB of Prism Drive Cloud Storage for 90% Off](https://lifehacker.com/you-can-get-10tb-of-prism-drive-cloud-storage-for-90-o-1850617036)
+- [Dev.to/JS] [What the hell is &quot;this&quot;?](https://dev.to/phantom__/what-the-hell-is-this-3e32)
+- [Lifehacker] [What People Are Getting Wrong This Week: Artificial Intelligence](https://lifehacker.com/what-people-are-getting-wrong-this-week-artificial-int-1850634769)
 - [Lifehacker] [Three Ways to Set an iPhone Alarm Without Waking Your Partner](https://lifehacker.com/three-ways-to-set-an-iphone-alarm-without-waking-your-p-1850636324)
 - [Lifehacker] [You Can Get a Windscribe VPN Subscription for 60% Off Right Now](https://lifehacker.com/you-can-get-a-windscribe-vpn-subscription-for-60-off-r-1850617074)
 - [Dev.to/JS] [JavaScript Web APIs Series: Audio and Video APIs](https://dev.to/olodocoder/javascript-web-apis-series-audio-and-video-apis-5a1c)
@@ -42,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Really Try Out DuckDuckGo&#39;s Windows Beta](https://lifehacker.com/you-should-really-try-out-duckduckgos-windows-beta-1850631237)
 - [Dev.to/JS] [JavaScript 🐲 challenges_5 ⚔️](https://dev.to/mahmoudessam/javascript-challenges5-50o2)
 - [Dev.to/JS] [Datadome Solver : Captcha Solver](https://dev.to/qwwrtt/datadome-solver-captcha-solver-meg)
-- [Dev.to/JS] [AWS Solver : Captcha Solver](https://dev.to/qwwrtt/aws-solver-captcha-solver-4j7d)
-- [Dev.to/JS] [reCaptcha V3 Solver : Captcha Solver](https://dev.to/qwwrtt/recaptcha-v3-solver-captcha-solver-216h)
 - [Lifehacker] [Yes, a Healthy Diet Can Include Ultra-Processed Food](https://lifehacker.com/yes-a-healthy-diet-can-include-ultra-processed-food-1850633695)
 - [Lifehacker] [What to Do About Your Menu Anxiety](https://lifehacker.com/what-to-do-about-your-menu-anxiety-1850629559)
 - [Lifehacker] [Avoid These Common Money Mistakes When Buying a Home](https://lifehacker.com/avoid-these-common-money-mistakes-when-buying-a-home-1850621536)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Scrivener 3 Is 50% Off Right Now](https://lifehacker.com/scrivener-3-is-50-off-right-now-1850612878)
 - [Lifehacker] [Use &#39;Deep Work&#39; to Be More Productive](https://lifehacker.com/use-deep-work-to-be-more-productive-1850632295)
 - [Lifehacker] [The Difference Between Soft, Medium, and Stiff Peaks &lpar;and When to Use Each One&rpar;](https://lifehacker.com/the-difference-between-soft-medium-and-stiff-peaks-a-1850631761)
-- [Lifehacker] [Suck Up These Prime Day Deals on Robot Vacuums](https://lifehacker.com/suck-up-these-prime-day-deals-on-robot-vacuums-1850631770)
-- [Lifehacker] [The Best Prime Day Deals on Every Kind of Projector](https://lifehacker.com/the-best-prime-day-deals-on-every-kind-of-projector-1850631742)
-- [Lifehacker] [You Can Still Get These Prime Day Deals on Bluetooth Speakers](https://lifehacker.com/you-can-still-get-these-prime-day-deals-on-bluetooth-sp-1850589112)
-- [Lifehacker] [These Are the Best Deals on VPNs Right Now](https://lifehacker.com/these-are-the-best-deals-on-vpns-right-now-1850630777)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Suck Up These Prime Day Deals on Robot Vacuums](https://lifehacker.com/suck-up-these-prime-day-deals-on-robot-vacuums-1850631770)<!-- TECH-POSTS:END -->
 
 ---
 
