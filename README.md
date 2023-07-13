@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [tsParticles 2.11.0 Released](https://dev.to/tsparticles/tsparticles-2110-released-3mhj)
+- [Dev.to/JS] [Demystifying Factorials with JavaScript/TypeScript](https://dev.to/the2minengineer/demystifying-factorials-with-javascripttypescript-5dk5)
 - [Dev.to/JS] [Simple tutorial on how to uppercase&lpar;capitalize&rpar; the first letter of a word with JavaScript.](https://dev.to/acrrj123/simple-tutorial-on-how-to-uppercasecapitalize-the-first-letter-of-a-word-with-javascript-47hh)
 - [Lifehacker] [How to Set &#39;Boundaries&#39; Without Being a Jerk About It](https://lifehacker.com/how-to-set-boundaries-without-being-an-asshole-about-it-1850633149)
 - [Lifehacker] [These Deeper Connect VPNs Are Over 40% Off Right Now](https://lifehacker.com/these-deeper-connect-vpns-are-over-40-off-right-now-1850616947)
@@ -48,9 +50,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Soft, Medium, and Stiff Peaks &lpar;and When to Use Each One&rpar;](https://lifehacker.com/the-difference-between-soft-medium-and-stiff-peaks-a-1850631761)
 - [Dev.to/JS] [Différentes façons de déployer une application front faites en JS](https://dev.to/singebob/differentes-facons-de-deployer-une-application-front-faites-en-js-13of)
 - [Dev.to/JS] [Full Calendar Bootstrap 4](https://dev.to/dropways/full-calendar-bootstrap-4-1pc1)
-- [Dev.to/JS] [Best headless CMS platforms for Astro](https://dev.to/logrocket/best-headless-cms-platforms-for-astro-75a)
 - [Lifehacker] [Suck Up These Prime Day Deals on Robot Vacuums](https://lifehacker.com/suck-up-these-prime-day-deals-on-robot-vacuums-1850631770)
-- [Dev.to/JS] [What is Cookies | Cookies in JS &lpar;javascript&rpar;](https://dev.to/diwakarkashyap/what-is-cookies-cookies-in-js-javascript-354c)
 - [Lifehacker] [The Best Prime Day Deals on Every Kind of Projector](https://lifehacker.com/the-best-prime-day-deals-on-every-kind-of-projector-1850631742)
 - [Lifehacker] [You Can Still Get These Prime Day Deals on Bluetooth Speakers](https://lifehacker.com/you-can-still-get-these-prime-day-deals-on-bluetooth-sp-1850589112)
 - [Lifehacker] [These Are the Best Deals on VPNs Right Now](https://lifehacker.com/these-are-the-best-deals-on-vpns-right-now-1850630777)
