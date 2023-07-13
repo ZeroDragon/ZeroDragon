@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Post-Prime-Day Deals Are Still Going at Target and Walmart](https://lifehacker.com/these-post-prime-day-deals-are-still-going-at-target-an-1850637603)
+- [Dev.to/JS] [Efficient use of JavaScript Object and Array Destructuring in React](https://dev.to/thelogicwarlock/efficient-use-of-javascript-object-and-array-destructuring-in-react-55l9)
+- [Lifehacker] [How to Return All of Your Ill-Advised Amazon Prime Day Purchases](https://lifehacker.com/how-to-return-all-of-your-ill-advised-amazon-prime-day-1849179296)
+- [Dev.to/JS] [Why Choose Vue.js for Frontend Development](https://dev.to/dreykovic/why-choose-vuejs-for-frontend-development-54h4)
 - [Lifehacker] [Summer Called, It Wants This Fruity Corn Salsa](https://lifehacker.com/summer-called-it-wants-this-fruity-corn-salsa-1850637315)
 - [Lifehacker] [Airport Lounges Aren’t Worth the Hype](https://lifehacker.com/airport-lounges-aren-t-worth-the-hype-1850636591)
 - [Dev.to/JS] [Reactive form server-side validation with AngularJs and Java](https://dev.to/someshjagtap/reactive-form-server-side-validation-with-angular-and-java-4k85)
@@ -48,9 +52,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [reCaptcha v2 Solver : Captchas Solver](https://dev.to/qwwrtt/recaptcha-v2-solver-captchas-solver-2n08)
 - [Dev.to/JS] [How To Create Excel File In Javascript](https://dev.to/codeboxx/how-to-create-excel-file-in-javascript-297a)
 - [Lifehacker] [An Over-the-Counter Birth Control Pill Is Officially Coming in 2024](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
-- [Dev.to/JS] [How to bypass / solve any version of reCAPTCHA Enterprise v2, v2 invisible, v3, v3 enterprise 0.9 score](https://dev.to/qwwrtt/how-to-bypass-solve-any-version-of-recaptcha-enterprise-v2-v2-invisible-v3-v3-enterprise-09-score-299l)
 - [Lifehacker] [You Should Really Try Out DuckDuckGo&#39;s Windows Beta](https://lifehacker.com/you-should-really-try-out-duckduckgos-windows-beta-1850631237)
-- [Dev.to/JS] [JavaScript 🐲 challenges_5 ⚔️](https://dev.to/mahmoudessam/javascript-challenges5-50o2)
 - [Lifehacker] [Yes, a Healthy Diet Can Include Ultra-Processed Food](https://lifehacker.com/yes-a-healthy-diet-can-include-ultra-processed-food-1850633695)
 - [Lifehacker] [What to Do About Your Menu Anxiety](https://lifehacker.com/what-to-do-about-your-menu-anxiety-1850629559)
 - [Lifehacker] [Avoid These Common Money Mistakes When Buying a Home](https://lifehacker.com/avoid-these-common-money-mistakes-when-buying-a-home-1850621536)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Prime Day Deals for Your Home Office](https://lifehacker.com/the-best-prime-day-deals-for-your-home-office-1850633146)
 - [Lifehacker] [Four Questions That Reveal If Management Is Right for You](https://lifehacker.com/four-questions-that-reveal-if-management-is-right-for-y-1850631145)
 - [Lifehacker] [The 20 Best Prime Day Deals on LEGO Sets](https://lifehacker.com/the-10-best-prime-day-deals-on-lego-sets-1850632945)
-- [Lifehacker] [The Best Prime Day Deals on Fitness Equipment](https://lifehacker.com/the-best-prime-day-deals-on-fitness-equipment-1850612252)
-- [Lifehacker] [You Can Install the iOS 17 Public Beta Right Now](https://lifehacker.com/you-can-install-the-ios-17-public-beta-right-now-1850632782)
-- [Lifehacker] [Dress Your Pasta Salad With a Tub of Dip](https://lifehacker.com/dress-your-pasta-salad-with-a-tub-of-dip-1850629172)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Prime Day Deals on Fitness Equipment](https://lifehacker.com/the-best-prime-day-deals-on-fitness-equipment-1850612252)<!-- TECH-POSTS:END -->
 
 ---
 
