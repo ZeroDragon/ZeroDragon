@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Build an Ice Cream Cake Right in a Sara Lee Tin](https://lifehacker.com/build-an-ice-cream-cake-right-in-a-sara-lee-tin-1850637892)
+- [Dev.to/JS] [NestJs: DDD implementation - EN](https://dev.to/nilaxann65/nestjs-ddd-implementation-en-278g)
+- [Dev.to/JS] [NestJs: Implementación de DDD - ES](https://dev.to/nilaxann65/nestjs-implementacion-de-ddd-es-242k)
+- [Lifehacker] [You Can Finally Ping Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-ping-your-apple-watch-from-your-iphone-1850636856)
 - [Lifehacker] [These Post-Prime-Day Deals Are Still Going at Target and Walmart](https://lifehacker.com/these-post-prime-day-deals-are-still-going-at-target-an-1850637603)
 - [Dev.to/JS] [Efficient use of JavaScript Object and Array Destructuring in React](https://dev.to/thelogicwarlock/efficient-use-of-javascript-object-and-array-destructuring-in-react-55l9)
 - [Lifehacker] [How to Return All of Your Ill-Advised Amazon Prime Day Purchases](https://lifehacker.com/how-to-return-all-of-your-ill-advised-amazon-prime-day-1849179296)
@@ -49,8 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Implement a synchronous sleep #8](https://dev.to/chandrapenugonda/implement-a-synchronous-sleep-8-5eh)
 - [Lifehacker] [Convert Your Neck Pillow Into an Extra Carry-on Bag](https://lifehacker.com/convert-your-neck-pillow-into-an-extra-carry-on-bag-1850636147)
 - [Dev.to/JS] [Javascript Polyfill Array.sample #7](https://dev.to/chandrapenugonda/polyfill-arrayprototypesample-daily-frontend-problem-problem-7-easy-317a)
-- [Dev.to/JS] [reCaptcha v2 Solver : Captchas Solver](https://dev.to/qwwrtt/recaptcha-v2-solver-captchas-solver-2n08)
-- [Dev.to/JS] [How To Create Excel File In Javascript](https://dev.to/codeboxx/how-to-create-excel-file-in-javascript-297a)
 - [Lifehacker] [An Over-the-Counter Birth Control Pill Is Officially Coming in 2024](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
 - [Lifehacker] [You Should Really Try Out DuckDuckGo&#39;s Windows Beta](https://lifehacker.com/you-should-really-try-out-duckduckgos-windows-beta-1850631237)
 - [Lifehacker] [Yes, a Healthy Diet Can Include Ultra-Processed Food](https://lifehacker.com/yes-a-healthy-diet-can-include-ultra-processed-food-1850633695)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Deeper Connect VPNs Are Over 40% Off Right Now](https://lifehacker.com/these-deeper-connect-vpns-are-over-40-off-right-now-1850616947)
 - [Lifehacker] [You Can Get Three Years of UltraVPN for 90% Off Right Now](https://lifehacker.com/you-can-get-three-years-of-ultravpn-for-90-off-right-n-1850612905)
 - [Lifehacker] [The Best Prime Day Deals for Your Home Office](https://lifehacker.com/the-best-prime-day-deals-for-your-home-office-1850633146)
-- [Lifehacker] [Four Questions That Reveal If Management Is Right for You](https://lifehacker.com/four-questions-that-reveal-if-management-is-right-for-y-1850631145)
-- [Lifehacker] [The 20 Best Prime Day Deals on LEGO Sets](https://lifehacker.com/the-10-best-prime-day-deals-on-lego-sets-1850632945)
-- [Lifehacker] [The Best Prime Day Deals on Fitness Equipment](https://lifehacker.com/the-best-prime-day-deals-on-fitness-equipment-1850612252)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Four Questions That Reveal If Management Is Right for You](https://lifehacker.com/four-questions-that-reveal-if-management-is-right-for-y-1850631145)<!-- TECH-POSTS:END -->
 
 ---
 
