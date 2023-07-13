@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [learned atob and bota command in javascript](https://dev.to/srenethesh/learned-atob-and-bota-command-in-javascript-2li6)
+- [Dev.to/JS] [How to build a cloud-based loyalty rewards app in Next.js](https://dev.to/hackmamba/how-to-build-a-cloud-based-loyalty-rewards-app-in-nextjs-183f)
 - [Dev.to/JS] [Balancing Motherhood and JavaScript: A Journey of Learning and Growth](https://dev.to/yinfromwuhanklan/balancing-motherhood-and-javascript-a-journey-of-learning-and-growth-4n6c)
 - [Dev.to/JS] [#LearnedToday: operations between sets in JavaScript](https://dev.to/danielzotti/learnedtoday-operations-between-sets-in-javascript-40ad)
 - [Dev.to/JS] [React: Customizing the project](https://dev.to/dhanisshjd/react-customizing-the-project-5791)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lazy Model in Daxus](https://dev.to/jason89521/lazy-model-in-daxus-5550)
 - [Dev.to/JS] [Using React.useRef&lpar;&rpar; for Mutable Values](https://dev.to/in/using-reactuseref-for-mutable-values-4kik)
 - [Dev.to/JS] [How Event Propagation and Delegation Work in JavaScript](https://dev.to/itzz_okure/how-event-propagation-and-delegation-work-in-javascript-5efe)
-- [Dev.to/JS] [Auto-generated Admin Panels for Node.js with AdminBro](https://dev.to/mohammadfaisal/auto-generated-admin-panels-for-nodejs-with-adminbro-31bo)
-- [Dev.to/JS] [Mastering React Forms: Building Interactive User Input](https://dev.to/muhmmadawd/mastering-react-forms-building-interactive-user-input-joh)
 - [Lifehacker] [How to Set &#39;Boundaries&#39; Without Being a Jerk About It](https://lifehacker.com/how-to-set-boundaries-without-being-an-asshole-about-it-1850633149)
 - [Lifehacker] [These Deeper Connect VPNs Are Over 40% Off Right Now](https://lifehacker.com/these-deeper-connect-vpns-are-over-40-off-right-now-1850616947)
 - [Lifehacker] [You Can Get Three Years of UltraVPN for 90% Off Right Now](https://lifehacker.com/you-can-get-three-years-of-ultravpn-for-90-off-right-n-1850612905)
