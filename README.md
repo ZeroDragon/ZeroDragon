@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Block Ads on Reddit](https://lifehacker.com/how-to-block-ads-on-reddit-1850626685)
+- [Dev.to/JS] [How to avoid typescript as a pure JavaScript developer | Type checking in JavaScript](https://dev.to/xplodivity/how-to-avoid-typescript-as-a-pure-javascript-developer-type-checking-in-javascript-e26)
+- [Dev.to/JS] [Build a cloud-based customer support ticketing app with real-time updates &lpar;Nuxt.js&rpar;](https://dev.to/hackmamba/build-a-cloud-based-customer-support-ticketing-app-with-real-time-updates-nuxtjs-3lhf)
+- [Dev.to/JS] [JavaScript Pipeline](https://dev.to/sundarbadagala081/javascript-pipeline-4d27)
 - [Dev.to/JS] [How to build containerised Lambda functions with AWS CDK](https://dev.to/pmca/how-to-build-containerised-lambda-functions-with-aws-cdk-39ji)
 - [Dev.to/JS] [Fetching Student Data in a Django-React App using Axios](https://dev.to/msnmongare/fetching-student-data-in-a-django-react-app-using-axios-23e9)
 - [Dev.to/JS] [React-Native Music App](https://dev.to/yacinellc/react-native-music-app-4023)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Balancing Motherhood and JavaScript: A Journey of Learning and Growth](https://dev.to/yinfromwuhanklan/balancing-motherhood-and-javascript-a-journey-of-learning-and-growth-4n6c)
 - [Dev.to/JS] [#LearnedToday: operations between sets in JavaScript](https://dev.to/danielzotti/learnedtoday-operations-between-sets-in-javascript-40ad)
 - [Dev.to/JS] [React: Customizing the project](https://dev.to/dhanisshjd/react-customizing-the-project-5791)
-- [Dev.to/JS] [Using Vuelidate to verify address data from API](https://dev.to/kennetharvinrodriguez/using-vuelidate-to-verify-address-data-from-api-384p)
-- [Dev.to/JS] [Securing Web and Mobile Applications with AWS Cognito and AWS Shield](https://dev.to/sharjeel-riaz/securing-web-and-mobile-applications-with-aws-cognito-and-aws-shield-23jp)
-- [Dev.to/JS] [Enhancing Mobile App Performance with AWS AppSync and AWS Lambda](https://dev.to/sharjeel-riaz/enhancing-mobile-app-performance-with-aws-appsync-and-aws-lambda-1ejj)
 - [Lifehacker] [How to Set &#39;Boundaries&#39; Without Being a Jerk About It](https://lifehacker.com/how-to-set-boundaries-without-being-an-asshole-about-it-1850633149)
 - [Lifehacker] [These Deeper Connect VPNs Are Over 40% Off Right Now](https://lifehacker.com/these-deeper-connect-vpns-are-over-40-off-right-now-1850616947)
 - [Lifehacker] [You Can Get Three Years of UltraVPN for 90% Off Right Now](https://lifehacker.com/you-can-get-three-years-of-ultravpn-for-90-off-right-n-1850612905)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Deals on Headphones on Prime Day](https://lifehacker.com/the-best-deals-on-headphones-on-prime-day-1850628319)
 - [Lifehacker] [This Is The Best Prime Day Deal on Microsoft 365 Yet](https://lifehacker.com/this-is-the-best-prime-day-deal-on-microsoft-365-yet-1850627795)
 - [Lifehacker] [This Desklab Portable Touchscreen Monitor Is 33% Off Right Now](https://lifehacker.com/this-desklab-portable-touchscreen-monitor-is-33-off-ri-1850612398)
-- [Lifehacker] [The Best Prime Day Streaming Deals](https://lifehacker.com/the-best-prime-day-streaming-deals-1850628013)
-- [Lifehacker] [You Can Get Two $100 Restaurant.com Gift Cards for $20 Right Now](https://lifehacker.com/you-can-get-two-100-restaurant-com-gift-cards-for-20-1850612776)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Prime Day Streaming Deals](https://lifehacker.com/the-best-prime-day-streaming-deals-1850628013)<!-- TECH-POSTS:END -->
 
 ---
 
