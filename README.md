@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optimized Images in Nuxt with Cloudinary 🚀](https://dev.to/jacobandrewsky/optimized-images-in-nuxt-with-cloudinary-16l5)
+- [Dev.to/JS] [Lazy Model in Daxus](https://dev.to/jason89521/lazy-model-in-daxus-5550)
+- [Dev.to/JS] [Using React.useRef&lpar;&rpar; for Mutable Values](https://dev.to/in/using-reactuseref-for-mutable-values-4kik)
 - [Dev.to/JS] [How Event Propagation and Delegation Work in JavaScript](https://dev.to/itzz_okure/how-event-propagation-and-delegation-work-in-javascript-5efe)
 - [Dev.to/JS] [Auto-generated Admin Panels for Node.js with AdminBro](https://dev.to/mohammadfaisal/auto-generated-admin-panels-for-nodejs-with-adminbro-31bo)
 - [Dev.to/JS] [Mastering React Forms: Building Interactive User Input](https://dev.to/muhmmadawd/mastering-react-forms-building-interactive-user-input-joh)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New storage utility methods added to the toolkit-use npm package](https://dev.to/toolkituse/new-storage-utility-methods-added-to-the-toolkit-use-npm-package-8ha)
 - [Dev.to/JS] [Let&#39;s dive in to Cross-Origin](https://dev.to/gimnathperera/lets-dive-in-to-cross-origin-4bmj)
 - [Dev.to/JS] [Very Simple Editable HTML Table](https://dev.to/codeboxx/very-simple-editable-html-table-16n)
-- [Dev.to/JS] [tsParticles 2.11.0 Released](https://dev.to/tsparticles/tsparticles-2110-released-3mhj)
-- [Dev.to/JS] [Demystifying Factorials with JavaScript/TypeScript](https://dev.to/the2minengineer/demystifying-factorials-with-javascripttypescript-5dk5)
-- [Dev.to/JS] [Simple tutorial on how to uppercase&lpar;capitalize&rpar; the first letter of a word with JavaScript.](https://dev.to/acrrj123/simple-tutorial-on-how-to-uppercasecapitalize-the-first-letter-of-a-word-with-javascript-47hh)
 - [Lifehacker] [How to Set &#39;Boundaries&#39; Without Being a Jerk About It](https://lifehacker.com/how-to-set-boundaries-without-being-an-asshole-about-it-1850633149)
 - [Lifehacker] [These Deeper Connect VPNs Are Over 40% Off Right Now](https://lifehacker.com/these-deeper-connect-vpns-are-over-40-off-right-now-1850616947)
 - [Lifehacker] [You Can Get Three Years of UltraVPN for 90% Off Right Now](https://lifehacker.com/you-can-get-three-years-of-ultravpn-for-90-off-right-n-1850612905)
