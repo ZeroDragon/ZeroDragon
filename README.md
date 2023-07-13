@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Convert Natural Language to SQL Queries](https://dev.to/aiforme/convert-natural-language-to-sql-queries-5760)
+- [Dev.to/JS] [New storage utility methods added to the toolkit-use npm package](https://dev.to/toolkituse/new-storage-utility-methods-added-to-the-toolkit-use-npm-package-8ha)
 - [Dev.to/JS] [Let&#39;s dive in to Cross-Origin](https://dev.to/gimnathperera/lets-dive-in-to-cross-origin-4bmj)
 - [Dev.to/JS] [Very Simple Editable HTML Table](https://dev.to/codeboxx/very-simple-editable-html-table-16n)
 - [Dev.to/JS] [tsParticles 2.11.0 Released](https://dev.to/tsparticles/tsparticles-2110-released-3mhj)
@@ -47,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Scrivener 3 Is 50% Off Right Now](https://lifehacker.com/scrivener-3-is-50-off-right-now-1850612878)
 - [Dev.to/JS] [Patrón de diseño Adapter en JavaScript](https://dev.to/ulisesserranop/patron-de-diseno-adapter-en-javascript-4p76)
 - [Lifehacker] [Use &#39;Deep Work&#39; to Be More Productive](https://lifehacker.com/use-deep-work-to-be-more-productive-1850632295)
-- [Dev.to/JS] [Starting Career With Android was a Bad Idea](https://dev.to/mohammadfaisal/starting-career-with-android-was-a-bad-idea-4d3i)
-- [Dev.to/JS] [10 Steps to Master JavaScript Array For Beginners](https://dev.to/anwar_sadat/10-steps-to-master-javascript-array-for-beginners-pc7)
 - [Lifehacker] [The Difference Between Soft, Medium, and Stiff Peaks &lpar;and When to Use Each One&rpar;](https://lifehacker.com/the-difference-between-soft-medium-and-stiff-peaks-a-1850631761)
 - [Lifehacker] [Suck Up These Prime Day Deals on Robot Vacuums](https://lifehacker.com/suck-up-these-prime-day-deals-on-robot-vacuums-1850631770)
 - [Lifehacker] [The Best Prime Day Deals on Every Kind of Projector](https://lifehacker.com/the-best-prime-day-deals-on-every-kind-of-projector-1850631742)
