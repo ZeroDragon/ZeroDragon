@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Gerando testes unitários dinamicamente com Plop.js](https://dev.to/devdoido/gerando-testes-unitarios-dinamicamente-com-plopjs-2o77)
+- [Lifehacker] [Three Ways to Set an iPhone Alarm Without Waking Your Partner](https://lifehacker.com/three-ways-to-set-an-iphone-alarm-without-waking-your-p-1850636324)
+- [Lifehacker] [You Can Get a Windscribe VPN Subscription for 60% Off Right Now](https://lifehacker.com/you-can-get-a-windscribe-vpn-subscription-for-60-off-r-1850617074)
+- [Dev.to/JS] [JavaScript Web APIs Series: Audio and Video APIs](https://dev.to/olodocoder/javascript-web-apis-series-audio-and-video-apis-5a1c)
+- [Lifehacker] [25 Apple TV+ Original Series You Should Be Watching](https://lifehacker.com/15-apple-tv-original-series-you-should-be-watching-th-1847601321)
+- [Dev.to/JS] [Building and Testing PHP Microservices With Semaphore](https://dev.to/yongdev/building-and-testing-php-microservices-with-semaphore-26il)
+- [Dev.to/JS] [Javascript Implement a synchronous sleep #8](https://dev.to/chandrapenugonda/implement-a-synchronous-sleep-8-5eh)
+- [Lifehacker] [Convert Your Neck Pillow Into an Extra Carry-on Bag](https://lifehacker.com/convert-your-neck-pillow-into-an-extra-carry-on-bag-1850636147)
+- [Dev.to/JS] [Javascript Polyfill Array.sample #7](https://dev.to/chandrapenugonda/polyfill-arrayprototypesample-daily-frontend-problem-problem-7-easy-317a)
 - [Dev.to/JS] [reCaptcha v2 Solver : Captchas Solver](https://dev.to/qwwrtt/recaptcha-v2-solver-captchas-solver-2n08)
 - [Dev.to/JS] [How To Create Excel File In Javascript](https://dev.to/codeboxx/how-to-create-excel-file-in-javascript-297a)
 - [Lifehacker] [An Over-the-Counter Birth Control Pill Is Officially Coming in 2024](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
@@ -36,12 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AWS Solver : Captcha Solver](https://dev.to/qwwrtt/aws-solver-captcha-solver-4j7d)
 - [Dev.to/JS] [reCaptcha V3 Solver : Captcha Solver](https://dev.to/qwwrtt/recaptcha-v3-solver-captcha-solver-216h)
 - [Lifehacker] [Yes, a Healthy Diet Can Include Ultra-Processed Food](https://lifehacker.com/yes-a-healthy-diet-can-include-ultra-processed-food-1850633695)
-- [Dev.to/JS] [Cookies, Local Storage, and Session Storage: Which One Should You Pick?](https://dev.to/mmainulhasan/cookies-local-storage-and-session-storage-which-one-should-you-pick-3d5h)
-- [Dev.to/JS] [Astro Framework](https://dev.to/this-is-learning/astro-framework-169m)
-- [Dev.to/JS] [What is localeCompare in JS&lpar;Javascript&rpar; ?](https://dev.to/diwakarkashyap/what-is-localecompare-in-jsjavascript--3jjk)
 - [Lifehacker] [What to Do About Your Menu Anxiety](https://lifehacker.com/what-to-do-about-your-menu-anxiety-1850629559)
-- [Dev.to/JS] [Anatomy of a Design System](https://dev.to/cloudx/anatomy-of-a-design-system-32bp)
-- [Dev.to/JS] [User scripts and why they are GREAT!](https://dev.to/josunlp/user-scripts-and-why-they-are-great-1mpk)
 - [Lifehacker] [Avoid These Common Money Mistakes When Buying a Home](https://lifehacker.com/avoid-these-common-money-mistakes-when-buying-a-home-1850621536)
 - [Lifehacker] [10 Things You Should Almost Always Buy Used](https://lifehacker.com/10-things-you-should-almost-always-buy-used-1850627371)
 - [Lifehacker] [Whether Money Can Buy Happiness, Once and For All](https://lifehacker.com/whether-money-can-buy-happiness-once-and-for-all-1850624539)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Suck Up These Prime Day Deals on Robot Vacuums](https://lifehacker.com/suck-up-these-prime-day-deals-on-robot-vacuums-1850631770)
 - [Lifehacker] [The Best Prime Day Deals on Every Kind of Projector](https://lifehacker.com/the-best-prime-day-deals-on-every-kind-of-projector-1850631742)
 - [Lifehacker] [You Can Still Get These Prime Day Deals on Bluetooth Speakers](https://lifehacker.com/you-can-still-get-these-prime-day-deals-on-bluetooth-sp-1850589112)
-- [Lifehacker] [These Are the Best Deals on VPNs Right Now](https://lifehacker.com/these-are-the-best-deals-on-vpns-right-now-1850630777)
-- [Lifehacker] [You Can Still Score These Prime Day Deals on Mattresses](https://lifehacker.com/you-can-still-score-these-prime-day-deals-on-mattresses-1850629302)
-- [Lifehacker] [The Best Prime Day Deals on Every Type of Coffee Maker](https://lifehacker.com/the-best-prime-day-deals-on-every-type-of-coffee-maker-1850630672)
-- [Lifehacker] [My 20 Favorite Prime Day Deals That Are Actually Worth Your Attention](https://lifehacker.com/lifehackers-favorite-prime-day-deals-1850631005)
-- [Lifehacker] [The Best Prime Day Deals on Back-to-School Stuff](https://lifehacker.com/the-best-prime-day-deals-on-back-to-school-stuff-1850628593)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Deals on VPNs Right Now](https://lifehacker.com/these-are-the-best-deals-on-vpns-right-now-1850630777)<!-- TECH-POSTS:END -->
 
 ---
 
