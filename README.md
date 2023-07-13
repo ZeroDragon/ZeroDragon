@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 Things You Should Almost Always Buy Used](https://lifehacker.com/10-things-you-should-almost-always-buy-used-1850627371)
+- [Dev.to/JS] [Day 4: Polyfill for Object.keys&lpar;&rpar;](https://dev.to/dhrn/day-4-polyfill-for-objectkeys-19p)
+- [Lifehacker] [Whether Money Can Buy Happiness, Once and For All](https://lifehacker.com/whether-money-can-buy-happiness-once-and-for-all-1850624539)
+- [Dev.to/JS] [React custom hooks for everyone🪝](https://dev.to/djibrilm/react-custom-hooks-for-everyone-10e1)
+- [Dev.to/JS] [CSS Inverted border radius Card](https://dev.to/dropways/css-inverted-border-radius-card-39bh)
+- [Dev.to/JS] [Arquitetura de Ilhas com kuba.io: Desenvolvendo Aplicações Eficientes e Escaláveis](https://dev.to/demgoncalves/arquitetura-de-ilhas-com-kubaio-desenvolvendo-aplicacoes-eficientes-e-escalaveis-3m79)
+- [Dev.to/JS] [GraphQL - ReactJS Fetch Data](https://dev.to/shubhamtiwari909/graphql-reactjs-fetch-data-19g6)
 - [Lifehacker] [How to Block Ads on Reddit](https://lifehacker.com/how-to-block-ads-on-reddit-1850626685)
 - [Dev.to/JS] [How to avoid typescript as a pure JavaScript developer | Type checking in JavaScript](https://dev.to/xplodivity/how-to-avoid-typescript-as-a-pure-javascript-developer-type-checking-in-javascript-e26)
 - [Dev.to/JS] [Build a cloud-based customer support ticketing app with real-time updates &lpar;Nuxt.js&rpar;](https://dev.to/hackmamba/build-a-cloud-based-customer-support-ticketing-app-with-real-time-updates-nuxtjs-3lhf)
@@ -34,11 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fetching Student Data in a Django-React App using Axios](https://dev.to/msnmongare/fetching-student-data-in-a-django-react-app-using-axios-23e9)
 - [Dev.to/JS] [React-Native Music App](https://dev.to/yacinellc/react-native-music-app-4023)
 - [Dev.to/JS] [Which JS Framework is the smallest?](https://dev.to/pazu/which-js-framework-is-the-smallest-161p)
-- [Dev.to/JS] [learned atob and bota command in javascript](https://dev.to/srenethesh/learned-atob-and-bota-command-in-javascript-2li6)
-- [Dev.to/JS] [How to build a cloud-based loyalty rewards app in Next.js](https://dev.to/hackmamba/how-to-build-a-cloud-based-loyalty-rewards-app-in-nextjs-183f)
-- [Dev.to/JS] [Balancing Motherhood and JavaScript: A Journey of Learning and Growth](https://dev.to/yinfromwuhanklan/balancing-motherhood-and-javascript-a-journey-of-learning-and-growth-4n6c)
-- [Dev.to/JS] [#LearnedToday: operations between sets in JavaScript](https://dev.to/danielzotti/learnedtoday-operations-between-sets-in-javascript-40ad)
-- [Dev.to/JS] [React: Customizing the project](https://dev.to/dhanisshjd/react-customizing-the-project-5791)
 - [Lifehacker] [How to Set &#39;Boundaries&#39; Without Being a Jerk About It](https://lifehacker.com/how-to-set-boundaries-without-being-an-asshole-about-it-1850633149)
 - [Lifehacker] [These Deeper Connect VPNs Are Over 40% Off Right Now](https://lifehacker.com/these-deeper-connect-vpns-are-over-40-off-right-now-1850616947)
 - [Lifehacker] [You Can Get Three Years of UltraVPN for 90% Off Right Now](https://lifehacker.com/you-can-get-three-years-of-ultravpn-for-90-off-right-n-1850612905)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Prime Day Deals on Haircare Appliances](https://lifehacker.com/the-best-prime-day-deals-on-haircare-appliances-1850623453)
 - [Lifehacker] [This Inflatable Hot Tub Is the Only Prime Day Deal I Truly Care About](https://lifehacker.com/this-inflatable-hot-tub-is-the-only-prime-day-deal-i-tr-1850628207)
 - [Lifehacker] [The Best Deals on Headphones on Prime Day](https://lifehacker.com/the-best-deals-on-headphones-on-prime-day-1850628319)
-- [Lifehacker] [This Is The Best Prime Day Deal on Microsoft 365 Yet](https://lifehacker.com/this-is-the-best-prime-day-deal-on-microsoft-365-yet-1850627795)
-- [Lifehacker] [This Desklab Portable Touchscreen Monitor Is 33% Off Right Now](https://lifehacker.com/this-desklab-portable-touchscreen-monitor-is-33-off-ri-1850612398)
-- [Lifehacker] [The Best Prime Day Streaming Deals](https://lifehacker.com/the-best-prime-day-streaming-deals-1850628013)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is The Best Prime Day Deal on Microsoft 365 Yet](https://lifehacker.com/this-is-the-best-prime-day-deal-on-microsoft-365-yet-1850627795)<!-- TECH-POSTS:END -->
 
 ---
 
