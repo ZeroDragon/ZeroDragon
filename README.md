@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Very Simple Editable HTML Table](https://dev.to/codeboxx/very-simple-editable-html-table-16n)
 - [Dev.to/JS] [tsParticles 2.11.0 Released](https://dev.to/tsparticles/tsparticles-2110-released-3mhj)
 - [Dev.to/JS] [Demystifying Factorials with JavaScript/TypeScript](https://dev.to/the2minengineer/demystifying-factorials-with-javascripttypescript-5dk5)
 - [Dev.to/JS] [Simple tutorial on how to uppercase&lpar;capitalize&rpar; the first letter of a word with JavaScript.](https://dev.to/acrrj123/simple-tutorial-on-how-to-uppercasecapitalize-the-first-letter-of-a-word-with-javascript-47hh)
@@ -49,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Steps to Master JavaScript Array For Beginners](https://dev.to/anwar_sadat/10-steps-to-master-javascript-array-for-beginners-pc7)
 - [Lifehacker] [The Difference Between Soft, Medium, and Stiff Peaks &lpar;and When to Use Each One&rpar;](https://lifehacker.com/the-difference-between-soft-medium-and-stiff-peaks-a-1850631761)
 - [Dev.to/JS] [Différentes façons de déployer une application front faites en JS](https://dev.to/singebob/differentes-facons-de-deployer-une-application-front-faites-en-js-13of)
-- [Dev.to/JS] [Full Calendar Bootstrap 4](https://dev.to/dropways/full-calendar-bootstrap-4-1pc1)
 - [Lifehacker] [Suck Up These Prime Day Deals on Robot Vacuums](https://lifehacker.com/suck-up-these-prime-day-deals-on-robot-vacuums-1850631770)
 - [Lifehacker] [The Best Prime Day Deals on Every Kind of Projector](https://lifehacker.com/the-best-prime-day-deals-on-every-kind-of-projector-1850631742)
 - [Lifehacker] [You Can Still Get These Prime Day Deals on Bluetooth Speakers](https://lifehacker.com/you-can-still-get-these-prime-day-deals-on-bluetooth-sp-1850589112)
