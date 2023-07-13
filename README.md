@@ -26,6 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to bypass / solve any version of reCAPTCHA Enterprise v2, v2 invisible, v3, v3 enterprise 0.9 score](https://dev.to/qwwrtt/how-to-bypass-solve-any-version-of-recaptcha-enterprise-v2-v2-invisible-v3-v3-enterprise-09-score-299l)
+- [Dev.to/JS] [JavaScript 🐲 challenges_5 ⚔️](https://dev.to/mahmoudessam/javascript-challenges5-50o2)
+- [Dev.to/JS] [Datadome Solver : Captcha Solver](https://dev.to/qwwrtt/datadome-solver-captcha-solver-meg)
+- [Dev.to/JS] [AWS Solver : Captcha Solver](https://dev.to/qwwrtt/aws-solver-captcha-solver-4j7d)
+- [Dev.to/JS] [reCaptcha V3 Solver : Captcha Solver](https://dev.to/qwwrtt/recaptcha-v3-solver-captcha-solver-216h)
+- [Lifehacker] [Yes, a Healthy Diet Can Include Ultra-Processed Food](https://lifehacker.com/yes-a-healthy-diet-can-include-ultra-processed-food-1850633695)
+- [Dev.to/JS] [Cookies, Local Storage, and Session Storage: Which One Should You Pick?](https://dev.to/mmainulhasan/cookies-local-storage-and-session-storage-which-one-should-you-pick-3d5h)
+- [Dev.to/JS] [Astro Framework](https://dev.to/this-is-learning/astro-framework-169m)
+- [Dev.to/JS] [What is localeCompare in JS&lpar;Javascript&rpar; ?](https://dev.to/diwakarkashyap/what-is-localecompare-in-jsjavascript--3jjk)
+- [Lifehacker] [What to Do About Your Menu Anxiety](https://lifehacker.com/what-to-do-about-your-menu-anxiety-1850629559)
 - [Dev.to/JS] [Anatomy of a Design System](https://dev.to/cloudx/anatomy-of-a-design-system-32bp)
 - [Dev.to/JS] [User scripts and why they are GREAT!](https://dev.to/josunlp/user-scripts-and-why-they-are-great-1mpk)
 - [Lifehacker] [Avoid These Common Money Mistakes When Buying a Home](https://lifehacker.com/avoid-these-common-money-mistakes-when-buying-a-home-1850621536)
@@ -33,15 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Things You Should Almost Always Buy Used](https://lifehacker.com/10-things-you-should-almost-always-buy-used-1850627371)
 - [Dev.to/JS] [Day 4: Polyfill for Object.keys&lpar;&rpar;](https://dev.to/dhrn/day-4-polyfill-for-objectkeys-19p)
 - [Lifehacker] [Whether Money Can Buy Happiness, Once and For All](https://lifehacker.com/whether-money-can-buy-happiness-once-and-for-all-1850624539)
-- [Dev.to/JS] [React custom hooks for everyone🪝](https://dev.to/djibrilm/react-custom-hooks-for-everyone-10e1)
-- [Dev.to/JS] [CSS Inverted border radius Card](https://dev.to/dropways/css-inverted-border-radius-card-39bh)
-- [Dev.to/JS] [Arquitetura de Ilhas com kuba.io: Desenvolvendo Aplicações Eficientes e Escaláveis](https://dev.to/demgoncalves/arquitetura-de-ilhas-com-kubaio-desenvolvendo-aplicacoes-eficientes-e-escalaveis-3m79)
-- [Dev.to/JS] [GraphQL - ReactJS Fetch Data](https://dev.to/shubhamtiwari909/graphql-reactjs-fetch-data-19g6)
 - [Lifehacker] [How to Block Ads on Reddit](https://lifehacker.com/how-to-block-ads-on-reddit-1850626685)
-- [Dev.to/JS] [How to avoid typescript as a pure JavaScript developer | Type checking in JavaScript](https://dev.to/xplodivity/how-to-avoid-typescript-as-a-pure-javascript-developer-type-checking-in-javascript-e26)
-- [Dev.to/JS] [Build a cloud-based customer support ticketing app with real-time updates &lpar;Nuxt.js&rpar;](https://dev.to/hackmamba/build-a-cloud-based-customer-support-ticketing-app-with-real-time-updates-nuxtjs-3lhf)
-- [Dev.to/JS] [JavaScript Pipeline](https://dev.to/sundarbadagala081/javascript-pipeline-4d27)
-- [Dev.to/JS] [How to build containerised Lambda functions with AWS CDK](https://dev.to/pmca/how-to-build-containerised-lambda-functions-with-aws-cdk-39ji)
 - [Lifehacker] [How to Set &#39;Boundaries&#39; Without Being a Jerk About It](https://lifehacker.com/how-to-set-boundaries-without-being-an-asshole-about-it-1850633149)
 - [Lifehacker] [These Deeper Connect VPNs Are Over 40% Off Right Now](https://lifehacker.com/these-deeper-connect-vpns-are-over-40-off-right-now-1850616947)
 - [Lifehacker] [You Can Get Three Years of UltraVPN for 90% Off Right Now](https://lifehacker.com/you-can-get-three-years-of-ultravpn-for-90-off-right-n-1850612905)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My 20 Favorite Prime Day Deals That Are Actually Worth Your Attention](https://lifehacker.com/lifehackers-favorite-prime-day-deals-1850631005)
 - [Lifehacker] [The Best Prime Day Deals on Back-to-School Stuff](https://lifehacker.com/the-best-prime-day-deals-on-back-to-school-stuff-1850628593)
 - [Lifehacker] [Scramble Your Eggs in a Spoonful of Thai Curry Paste](https://lifehacker.com/scramble-your-eggs-in-a-spoonful-of-thai-curry-paste-1850628101)
-- [Lifehacker] [The Best Prime Day Deals on Haircare Appliances](https://lifehacker.com/the-best-prime-day-deals-on-haircare-appliances-1850623453)
-- [Lifehacker] [This Inflatable Hot Tub Is the Only Prime Day Deal I Truly Care About](https://lifehacker.com/this-inflatable-hot-tub-is-the-only-prime-day-deal-i-tr-1850628207)
-- [Lifehacker] [The Best Deals on Headphones on Prime Day](https://lifehacker.com/the-best-deals-on-headphones-on-prime-day-1850628319)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Prime Day Deals on Haircare Appliances](https://lifehacker.com/the-best-prime-day-deals-on-haircare-appliances-1850623453)<!-- TECH-POSTS:END -->
 
 ---
 
