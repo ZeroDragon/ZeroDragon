@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building an Express App with an HTTPS Server](https://dev.to/fredabod/building-an-express-app-with-an-https-server-2mbj)
 - [Dev.to/JS] [How to Insert Image Watermark to PDF Programmatically](https://dev.to/gia--/how-to-insert-image-watermark-to-pdf-56al)
 - [Dev.to/JS] [Dockerizing a Node.js App: A Comprehensive Guide for Easy Deployment🐋](https://dev.to/burakboduroglu/dockerizing-a-nodejs-app-a-comprehensive-guide-for-easy-deployment-13o1)
 - [Dev.to/JS] [React Alternatives: Choosing the Right JavaScript Framework for Your Project](https://dev.to/crossskatee1/react-alternatives-choosing-the-right-javascript-framework-for-your-project-4po)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beginners Guide to Understanding javaScript Functions Parameters/Arguments](https://dev.to/maikikasdaglis/beginners-guide-to-understanding-javascript-functions-parametersarguments-5fn0)
 - [Dev.to/JS] [I need Guidance](https://dev.to/vinaysingh008/i-need-guidance-34e3)
 - [Dev.to/JS] [15 Advanced TypeScript Tips for Development](https://dev.to/lakshmananarumugam/15-advanced-typescript-tips-for-development-5ddj)
-- [Dev.to/JS] [Command Line Application: Bank Loan Tracker [Node]](https://dev.to/bekbrace/command-line-application-bank-loan-tracker-node-56ni)
 - [Lifehacker] [Build an Ice Cream Cake Right in a Sara Lee Tin](https://lifehacker.com/build-an-ice-cream-cake-right-in-a-sara-lee-tin-1850637892)
 - [Lifehacker] [You Can Finally Ping Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-ping-your-apple-watch-from-your-iphone-1850636856)
 - [Lifehacker] [These Post-Prime-Day Deals Are Still Going at Target and Walmart](https://lifehacker.com/these-post-prime-day-deals-are-still-going-at-target-an-1850637603)
