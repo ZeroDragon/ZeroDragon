@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Multiline Text in HTML Canvas](https://dev.to/geongeorge/multiline-text-in-html-canvas-434h)
+- [Dev.to/JS] [useReducer&lpar;&rpar; hook - Redux inside your component](https://dev.to/kokaneka/usereducer-hook-redux-inside-your-component-3dha)
+- [Lifehacker] [You Can Finally Use iCloud Keychain in Chrome](https://lifehacker.com/you-can-finally-use-icloud-keychain-in-chrome-1850639711)
+- [Lifehacker] [How to Have a Summer Fling Without Being a Jerk](https://lifehacker.com/how-to-have-a-summer-fling-without-being-an-asshole-1850638765)
 - [Dev.to/JS] [React Hooks- UseState](https://dev.to/cmphill/react-hooks-usestate-1a4f)
 - [Lifehacker] [Make Yourself a &#39;Faker&#39;s Croissant&#39;](https://lifehacker.com/make-yourself-a-fakers-croissant-1850641204)
 - [Lifehacker] [Get This Refurbished Lenovo Desktop Computer for 42% Off](https://lifehacker.com/get-this-refurbished-lenovo-desktop-computer-for-42-of-1850629673)
@@ -43,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Follow This Checklist Before Replacing Your Old Window AC](https://lifehacker.com/follow-this-checklist-before-replacing-your-old-window-1850638397)
 - [Dev.to/JS] [Download All Images from a Website as a Zip File using Console - JavaScript](https://dev.to/sh20raj/download-all-images-from-a-website-as-a-zip-file-using-console-javascript-4g30)
 - [Lifehacker] [You Can Make Custom iPhone Contact Posters in iOS 17](https://lifehacker.com/you-can-make-custom-iphone-contact-posters-in-ios-17-1850639809)
-- [Dev.to/JS] [Send a &#39;Welcome&#39; Email after someone signs in to your Firebase🔥 App with Brevo](https://dev.to/lilshake/send-a-welcome-email-after-someone-signs-in-to-your-firebase-app-with-brevo-md0)
-- [Dev.to/JS] [Security isn&#39;t all rosy: What I learnt from participating in Treblle API Security Hackathon](https://dev.to/danielasaboro/security-isnt-all-rosy-what-i-learnt-from-participating-in-treblle-api-hackathon-1kok)
 - [Lifehacker] [Combine Sour and Whipped Cream for This Incredible Whipped Topping](https://lifehacker.com/combine-sour-and-whipped-cream-for-this-incredible-whip-1850638476)
 - [Lifehacker] [How to Bring Weed Into the Bedroom](https://lifehacker.com/how-to-bring-weed-into-the-bedroom-1850565448)
 - [Lifehacker] [The Best High-Protein Snacks You Can Get at a Gas Station](https://lifehacker.com/the-best-high-protein-snacks-you-can-get-at-a-gas-stati-1850626401)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Ways to Set an iPhone Alarm Without Waking Your Partner](https://lifehacker.com/three-ways-to-set-an-iphone-alarm-without-waking-your-p-1850636324)
 - [Lifehacker] [You Can Get a Windscribe VPN Subscription for 60% Off Right Now](https://lifehacker.com/you-can-get-a-windscribe-vpn-subscription-for-60-off-r-1850617074)
 - [Lifehacker] [25 Apple TV+ Original Series You Should Be Watching](https://lifehacker.com/15-apple-tv-original-series-you-should-be-watching-th-1847601321)
-- [Lifehacker] [Convert Your Neck Pillow Into an Extra Carry-on Bag](https://lifehacker.com/convert-your-neck-pillow-into-an-extra-carry-on-bag-1850636147)
-- [Lifehacker] [An Over-the-Counter Birth Control Pill Is Officially Coming in 2024](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
-- [Lifehacker] [You Should Really Try Out DuckDuckGo&#39;s Windows Beta](https://lifehacker.com/you-should-really-try-out-duckduckgos-windows-beta-1850631237)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Convert Your Neck Pillow Into an Extra Carry-on Bag](https://lifehacker.com/convert-your-neck-pillow-into-an-extra-carry-on-bag-1850636147)<!-- TECH-POSTS:END -->
 
 ---
 
