@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing ESTSSH, the configurationless static website generator](https://dev.to/aclarembeau/introducing-estssh-the-configurationless-static-website-generator-1ll1)
+- [Lifehacker] [17 Surprising Household Uses for Tennis Balls](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)
+- [Lifehacker] [Introduce ChatGPT to an Absolute Beginner With This $10 Course](https://lifehacker.com/introduce-chatgpt-to-an-absolute-beginner-with-this-10-1850629775)
 - [Dev.to/JS] [Mastering React&#39;s useContext Hook: A Comprehensive Guide](https://dev.to/ibrahzizo360/mastering-reacts-usecontext-hook-a-comprehensive-guide-2700)
 - [Dev.to/JS] [Leveraging AI to Maximize Profits for Short-Term Rentals](https://dev.to/plantsmiles/leveraging-ai-to-maximize-profits-for-short-term-rentals-c50)
 - [Dev.to/JS] [How to Run JEST in Github Actions with Firestore](https://dev.to/thepylot/how-to-run-jest-in-github-actions-with-firestore-4gg4)
@@ -49,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Redux for Beginners: A Step-by-Step Guide](https://dev.to/shawnsmith24/redux-for-beginners-a-step-by-step-guide-2god)
 - [Dev.to/JS] [The Resend Cube Lookalike Part 2 - Bloom and Animation](https://dev.to/sal_paradise/the-resend-cube-lookalike-part-2-bloom-and-animation-ile)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Mirror Sex&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-m-1850639468)
-- [Dev.to/JS] [Tail call optimization in ES6&lpar;javascript&rpar; in easy language](https://dev.to/diwakarkashyap/tail-call-optimization-in-es6javascript-in-easy-language-11e6)
 - [Lifehacker] [The World Health Organization Says Aspartame is Fine, Actually](https://lifehacker.com/the-world-health-organization-says-aspartame-is-fine-a-1850638183)
 - [Lifehacker] [Follow This Checklist Before Replacing Your Old Window AC](https://lifehacker.com/follow-this-checklist-before-replacing-your-old-window-1850638397)
 - [Lifehacker] [You Can Make Custom iPhone Contact Posters in iOS 17](https://lifehacker.com/you-can-make-custom-iphone-contact-posters-in-ios-17-1850639809)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Return All of Your Ill-Advised Amazon Prime Day Purchases](https://lifehacker.com/how-to-return-all-of-your-ill-advised-amazon-prime-day-1849179296)
 - [Lifehacker] [Summer Called, It Wants This Fruity Corn Salsa](https://lifehacker.com/summer-called-it-wants-this-fruity-corn-salsa-1850637315)
 - [Lifehacker] [Airport Lounges Aren’t Worth the Hype](https://lifehacker.com/airport-lounges-aren-t-worth-the-hype-1850636591)
-- [Lifehacker] [You Can Get This Refurbished iPad Mini for $80](https://lifehacker.com/you-can-get-this-refurbished-ipad-mini-for-80-1850616986)
-- [Lifehacker] [There&#39;s a Better Way to Load Up Your Baked Potato](https://lifehacker.com/theres-a-better-way-to-load-up-your-baked-potato-1850634170)
-- [Lifehacker] [The Olive Sandwich Is the Answer to Summer&#39;s Sando Problems](https://lifehacker.com/the-olive-sandwich-is-the-answer-to-summers-sando-probl-1850633080)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get This Refurbished iPad Mini for $80](https://lifehacker.com/you-can-get-this-refurbished-ipad-mini-for-80-1850616986)<!-- TECH-POSTS:END -->
 
 ---
 
