@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Decorator Functions](https://dev.to/sundarbadagala081/javascript-decorator-functions-19l1)
+- [Dev.to/JS] [Custom Forms with Web Components and &quot;ElementInternals&quot;](https://dev.to/stuffbreaker/custom-forms-with-web-components-and-elementinternals-4jaj)
+- [Dev.to/JS] [key concepts of react router with examples](https://dev.to/lakshmananarumugam/key-concepts-of-react-router-with-examples-22gm)
 - [Dev.to/JS] [toolkit-use npm package have added some functions](https://dev.to/toolkituse/toolkit-use-npm-package-have-added-some-functions-5gp6)
 - [Dev.to/JS] [Build &amp; deploy your first web app](https://dev.to/omar4ur/build-deploy-your-first-web-app-48dk)
 - [Dev.to/JS] [Build Anticipation: Create a Countdown Timer Landing Page with HTML, CSS, and JavaScript](https://dev.to/devlawrence/build-anticipation-create-a-countdown-timer-landing-page-with-html-css-and-javascript-159a)
@@ -38,12 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [NestJs: Implementación de DDD - ES](https://dev.to/nilaxann65/nestjs-implementacion-de-ddd-es-242k)
 - [Lifehacker] [You Can Finally Ping Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-ping-your-apple-watch-from-your-iphone-1850636856)
 - [Lifehacker] [These Post-Prime-Day Deals Are Still Going at Target and Walmart](https://lifehacker.com/these-post-prime-day-deals-are-still-going-at-target-an-1850637603)
-- [Dev.to/JS] [Efficient use of JavaScript Object and Array Destructuring in React](https://dev.to/thelogicwarlock/efficient-use-of-javascript-object-and-array-destructuring-in-react-55l9)
 - [Lifehacker] [How to Return All of Your Ill-Advised Amazon Prime Day Purchases](https://lifehacker.com/how-to-return-all-of-your-ill-advised-amazon-prime-day-1849179296)
-- [Dev.to/JS] [Why Choose Vue.js for Frontend Development](https://dev.to/dreykovic/why-choose-vuejs-for-frontend-development-54h4)
 - [Lifehacker] [Summer Called, It Wants This Fruity Corn Salsa](https://lifehacker.com/summer-called-it-wants-this-fruity-corn-salsa-1850637315)
 - [Lifehacker] [Airport Lounges Aren’t Worth the Hype](https://lifehacker.com/airport-lounges-aren-t-worth-the-hype-1850636591)
-- [Dev.to/JS] [Reactive form server-side validation with AngularJs and Java](https://dev.to/someshjagtap/reactive-form-server-side-validation-with-angular-and-java-4k85)
 - [Lifehacker] [You Can Get This Refurbished iPad Mini for $80](https://lifehacker.com/you-can-get-this-refurbished-ipad-mini-for-80-1850616986)
 - [Lifehacker] [There&#39;s a Better Way to Load Up Your Baked Potato](https://lifehacker.com/theres-a-better-way-to-load-up-your-baked-potato-1850634170)
 - [Lifehacker] [The Olive Sandwich Is the Answer to Summer&#39;s Sando Problems](https://lifehacker.com/the-olive-sandwich-is-the-answer-to-summers-sando-probl-1850633080)
