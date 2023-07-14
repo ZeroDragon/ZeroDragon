@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dissecting React: Routing, State, HTML, and Styling](https://dev.to/jm_dev/reactjs-general-knowledge-tips-3c45)
+- [Dev.to/JS] [Redux for Beginners: A Step-by-Step Guide](https://dev.to/shawnsmith24/redux-for-beginners-a-step-by-step-guide-2god)
+- [Dev.to/JS] [The Resend Cube Lookalike Part 2 - Bloom and Animation](https://dev.to/sal_paradise/the-resend-cube-lookalike-part-2-bloom-and-animation-ile)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Mirror Sex&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-m-1850639468)
+- [Dev.to/JS] [Tail call optimization in ES6&lpar;javascript&rpar; in easy language](https://dev.to/diwakarkashyap/tail-call-optimization-in-es6javascript-in-easy-language-11e6)
 - [Lifehacker] [The World Health Organization Says Aspartame is Fine, Actually](https://lifehacker.com/the-world-health-organization-says-aspartame-is-fine-a-1850638183)
 - [Dev.to/JS] [File handling 101 in Node Js](https://dev.to/abhishek_writes/file-handling-101-in-node-js-4di)
 - [Dev.to/JS] [The blog title](https://dev.to/kodar/the-blog-title-1kif)
@@ -39,11 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [If you could choose only one tech stack for the rest of your life, what would you choose?](https://dev.to/sadeedpv/if-you-could-choose-only-one-tech-stack-for-the-rest-of-your-life-what-would-you-choose-5e11)
 - [Dev.to/JS] [Custom Error Handling in GraphQL — with examples](https://dev.to/canopassoftware/custom-error-handling-in-graphql-with-examples-53he)
 - [Lifehacker] [How to Bring Weed Into the Bedroom](https://lifehacker.com/how-to-bring-weed-into-the-bedroom-1850565448)
-- [Dev.to/JS] [Weather App using MERN Stack](https://dev.to/syedmuhammadaliraza/weather-app-using-mern-stack-31j2)
-- [Dev.to/JS] [Full Stack To Do list, a step-by-step tutorial](https://dev.to/tracygjg/full-stack-to-do-list-a-step-by-step-tutorial-3oom)
-- [Dev.to/JS] [Day 5: new, Object.create, and Object.assign](https://dev.to/dhrn/day-5-new-objectcreate-and-objectassign-19ml)
 - [Lifehacker] [The Best High-Protein Snacks You Can Get at a Gas Station](https://lifehacker.com/the-best-high-protein-snacks-you-can-get-at-a-gas-stati-1850626401)
-- [Dev.to/JS] [Arrays in JavaScript](https://dev.to/jacknorman235/arrays-in-javacript-1o0)
 - [Lifehacker] [When Should I Take My Kids to the Movie Theater for the First Time?](https://lifehacker.com/when-should-i-take-my-kids-to-the-movie-theater-for-the-1850627595)
 - [Lifehacker] [Build an Ice Cream Cake Right in a Sara Lee Tin](https://lifehacker.com/build-an-ice-cream-cake-right-in-a-sara-lee-tin-1850637892)
 - [Lifehacker] [You Can Finally Ping Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-ping-your-apple-watch-from-your-iphone-1850636856)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Really Try Out DuckDuckGo&#39;s Windows Beta](https://lifehacker.com/you-should-really-try-out-duckduckgos-windows-beta-1850631237)
 - [Lifehacker] [Yes, a Healthy Diet Can Include Ultra-Processed Food](https://lifehacker.com/yes-a-healthy-diet-can-include-ultra-processed-food-1850633695)
 - [Lifehacker] [What to Do About Your Menu Anxiety](https://lifehacker.com/what-to-do-about-your-menu-anxiety-1850629559)
-- [Lifehacker] [Avoid These Common Money Mistakes When Buying a Home](https://lifehacker.com/avoid-these-common-money-mistakes-when-buying-a-home-1850621536)
-- [Lifehacker] [10 Things You Should Almost Always Buy Used](https://lifehacker.com/10-things-you-should-almost-always-buy-used-1850627371)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Avoid These Common Money Mistakes When Buying a Home](https://lifehacker.com/avoid-these-common-money-mistakes-when-buying-a-home-1850621536)<!-- TECH-POSTS:END -->
 
 ---
 
