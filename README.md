@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I need Guidance](https://dev.to/vinaysingh008/i-need-guidance-34e3)
+- [Dev.to/JS] [15 Advanced TypeScript Tips for Development](https://dev.to/lakshmananarumugam/15-advanced-typescript-tips-for-development-5ddj)
+- [Dev.to/JS] [Command Line Application: Bank Loan Tracker [Node]](https://dev.to/bekbrace/command-line-application-bank-loan-tracker-node-56ni)
 - [Dev.to/JS] [toolkit-use have add jest unit test](https://dev.to/toolkituse/toolkit-use-have-add-jest-unit-test-3f4h)
 - [Dev.to/JS] [JavaScript Decorator Functions](https://dev.to/sundarbadagala081/javascript-decorator-functions-19l1)
 - [Dev.to/JS] [Custom Forms with Web Components and &quot;ElementInternals&quot;](https://dev.to/stuffbreaker/custom-forms-with-web-components-and-elementinternals-4jaj)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build Anticipation: Create a Countdown Timer Landing Page with HTML, CSS, and JavaScript](https://dev.to/devlawrence/build-anticipation-create-a-countdown-timer-landing-page-with-html-css-and-javascript-159a)
 - [Dev.to/JS] [Episode 23/27: NgRx 16.1 &amp; Signal Store, Jest, Cypress, Nx](https://dev.to/this-is-angular/episode-2327-ngrx-161-signal-store-jest-cypress-nx-23b9)
 - [Dev.to/JS] [The Ultimate Guide to Choosing the Best Workout Tracker App for Apple Watch](https://dev.to/thejuliaemma/the-ultimate-guide-to-choosing-the-best-workout-tracker-app-for-apple-watch-lb3)
-- [Dev.to/JS] [Building a Simple Weather App With AWS Lambda and API Gateway](https://dev.to/aws-builders/building-a-simple-weather-app-with-aws-lambda-and-api-gateway-8bi)
-- [Dev.to/JS] [Dreaded Notification prompting can only be done from a user gesture](https://dev.to/mirmayne/dreaded-notification-prompting-can-only-be-done-from-a-user-gesture-13o5)
 - [Lifehacker] [Build an Ice Cream Cake Right in a Sara Lee Tin](https://lifehacker.com/build-an-ice-cream-cake-right-in-a-sara-lee-tin-1850637892)
-- [Dev.to/JS] [NestJs: DDD implementation - EN](https://dev.to/nilaxann65/nestjs-ddd-implementation-en-278g)
 - [Lifehacker] [You Can Finally Ping Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-ping-your-apple-watch-from-your-iphone-1850636856)
 - [Lifehacker] [These Post-Prime-Day Deals Are Still Going at Target and Walmart](https://lifehacker.com/these-post-prime-day-deals-are-still-going-at-target-an-1850637603)
 - [Lifehacker] [How to Return All of Your Ill-Advised Amazon Prime Day Purchases](https://lifehacker.com/how-to-return-all-of-your-ill-advised-amazon-prime-day-1849179296)
