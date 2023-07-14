@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The World Health Organization Says Aspartame is Fine, Actually](https://lifehacker.com/the-world-health-organization-says-aspartame-is-fine-a-1850638183)
+- [Dev.to/JS] [File handling 101 in Node Js](https://dev.to/abhishek_writes/file-handling-101-in-node-js-4di)
+- [Dev.to/JS] [The blog title](https://dev.to/kodar/the-blog-title-1kif)
+- [Dev.to/JS] [Supercharge Your React State Management like a Senior Dev: Unlocking the Power of Zustand and React Query](https://dev.to/iamashot/supercharge-your-react-state-management-like-a-senior-dev-unlocking-the-power-of-zustand-and-react-query-5bap)
+- [Lifehacker] [Follow This Checklist Before Replacing Your Old Window AC](https://lifehacker.com/follow-this-checklist-before-replacing-your-old-window-1850638397)
+- [Dev.to/JS] [Download All Images from a Website as a Zip File using Console - JavaScript](https://dev.to/sh20raj/download-all-images-from-a-website-as-a-zip-file-using-console-javascript-4g30)
 - [Lifehacker] [You Can Make Custom iPhone Contact Posters in iOS 17](https://lifehacker.com/you-can-make-custom-iphone-contact-posters-in-ios-17-1850639809)
 - [Dev.to/JS] [Send a &#39;Welcome&#39; Email after someone signs in to your Firebase🔥 App with Brevo](https://dev.to/lilshake/send-a-welcome-email-after-someone-signs-in-to-your-firebase-app-with-brevo-md0)
 - [Dev.to/JS] [Security isn&#39;t all rosy: What I learnt from participating in Treblle API Security Hackathon](https://dev.to/danielasaboro/security-isnt-all-rosy-what-i-learnt-from-participating-in-treblle-api-hackathon-1kok)
@@ -38,11 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 5: new, Object.create, and Object.assign](https://dev.to/dhrn/day-5-new-objectcreate-and-objectassign-19ml)
 - [Lifehacker] [The Best High-Protein Snacks You Can Get at a Gas Station](https://lifehacker.com/the-best-high-protein-snacks-you-can-get-at-a-gas-stati-1850626401)
 - [Dev.to/JS] [Arrays in JavaScript](https://dev.to/jacknorman235/arrays-in-javacript-1o0)
-- [Dev.to/JS] [Intégration d&#39;un sélecteur de date et d&#39;heure dans votre application web avec jQuery UI et SweetAlert](https://dev.to/dreykovic/integration-dun-selecteur-de-date-et-dheure-dans-votre-application-web-avec-jquery-ui-et-sweetalert-5dhk)
 - [Lifehacker] [When Should I Take My Kids to the Movie Theater for the First Time?](https://lifehacker.com/when-should-i-take-my-kids-to-the-movie-theater-for-the-1850627595)
-- [Dev.to/JS] [Conditional Statements in Javacript](https://dev.to/jacknorman235/conditional-statements-in-javacript-527m)
-- [Dev.to/JS] [Bitcoin 360 AI - Reviews, Price, Benefits, Uses &amp; How Does It Work?](https://dev.to/bitcoin36061625/bitcoin-360-ai-reviews-price-benefits-uses-how-does-it-work-n6g)
-- [Dev.to/JS] [Javascript: A roadmap to learn Javascript🔥🚀](https://dev.to/bishnoi_sushill/javascript-a-roadmap-to-learn-javascript-1ddn)
 - [Lifehacker] [Build an Ice Cream Cake Right in a Sara Lee Tin](https://lifehacker.com/build-an-ice-cream-cake-right-in-a-sara-lee-tin-1850637892)
 - [Lifehacker] [You Can Finally Ping Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-ping-your-apple-watch-from-your-iphone-1850636856)
 - [Lifehacker] [These Post-Prime-Day Deals Are Still Going at Target and Walmart](https://lifehacker.com/these-post-prime-day-deals-are-still-going-at-target-an-1850637603)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Yes, a Healthy Diet Can Include Ultra-Processed Food](https://lifehacker.com/yes-a-healthy-diet-can-include-ultra-processed-food-1850633695)
 - [Lifehacker] [What to Do About Your Menu Anxiety](https://lifehacker.com/what-to-do-about-your-menu-anxiety-1850629559)
 - [Lifehacker] [Avoid These Common Money Mistakes When Buying a Home](https://lifehacker.com/avoid-these-common-money-mistakes-when-buying-a-home-1850621536)
-- [Lifehacker] [10 Things You Should Almost Always Buy Used](https://lifehacker.com/10-things-you-should-almost-always-buy-used-1850627371)
-- [Lifehacker] [Whether Money Can Buy Happiness, Once and For All](https://lifehacker.com/whether-money-can-buy-happiness-once-and-for-all-1850624539)
-- [Lifehacker] [How to Block Ads on Reddit](https://lifehacker.com/how-to-block-ads-on-reddit-1850626685)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Things You Should Almost Always Buy Used](https://lifehacker.com/10-things-you-should-almost-always-buy-used-1850627371)<!-- TECH-POSTS:END -->
 
 ---
 
