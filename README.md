@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Hooks- UseState](https://dev.to/cmphill/react-hooks-usestate-1a4f)
+- [Lifehacker] [Make Yourself a &#39;Faker&#39;s Croissant&#39;](https://lifehacker.com/make-yourself-a-fakers-croissant-1850641204)
+- [Lifehacker] [Get This Refurbished Lenovo Desktop Computer for 42% Off](https://lifehacker.com/get-this-refurbished-lenovo-desktop-computer-for-42-of-1850629673)
+- [Dev.to/JS] [PracticeHero.site : My new project!](https://dev.to/merudra754/practiceherosite-my-new-project-3d98)
+- [Lifehacker] [Use This Spreadsheet to Organize Your Job Hunt](https://lifehacker.com/use-this-spreadsheet-to-organize-your-job-hunt-1850639441)
 - [Dev.to/JS] [Dissecting React: Routing, State, HTML, and Styling](https://dev.to/jm_dev/reactjs-general-knowledge-tips-3c45)
 - [Dev.to/JS] [Redux for Beginners: A Step-by-Step Guide](https://dev.to/shawnsmith24/redux-for-beginners-a-step-by-step-guide-2god)
 - [Dev.to/JS] [The Resend Cube Lookalike Part 2 - Bloom and Animation](https://dev.to/sal_paradise/the-resend-cube-lookalike-part-2-bloom-and-animation-ile)
@@ -41,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Send a &#39;Welcome&#39; Email after someone signs in to your Firebase🔥 App with Brevo](https://dev.to/lilshake/send-a-welcome-email-after-someone-signs-in-to-your-firebase-app-with-brevo-md0)
 - [Dev.to/JS] [Security isn&#39;t all rosy: What I learnt from participating in Treblle API Security Hackathon](https://dev.to/danielasaboro/security-isnt-all-rosy-what-i-learnt-from-participating-in-treblle-api-hackathon-1kok)
 - [Lifehacker] [Combine Sour and Whipped Cream for This Incredible Whipped Topping](https://lifehacker.com/combine-sour-and-whipped-cream-for-this-incredible-whip-1850638476)
-- [Dev.to/JS] [If you could choose only one tech stack for the rest of your life, what would you choose?](https://dev.to/sadeedpv/if-you-could-choose-only-one-tech-stack-for-the-rest-of-your-life-what-would-you-choose-5e11)
-- [Dev.to/JS] [Custom Error Handling in GraphQL — with examples](https://dev.to/canopassoftware/custom-error-handling-in-graphql-with-examples-53he)
 - [Lifehacker] [How to Bring Weed Into the Bedroom](https://lifehacker.com/how-to-bring-weed-into-the-bedroom-1850565448)
 - [Lifehacker] [The Best High-Protein Snacks You Can Get at a Gas Station](https://lifehacker.com/the-best-high-protein-snacks-you-can-get-at-a-gas-stati-1850626401)
 - [Lifehacker] [When Should I Take My Kids to the Movie Theater for the First Time?](https://lifehacker.com/when-should-i-take-my-kids-to-the-movie-theater-for-the-1850627595)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [25 Apple TV+ Original Series You Should Be Watching](https://lifehacker.com/15-apple-tv-original-series-you-should-be-watching-th-1847601321)
 - [Lifehacker] [Convert Your Neck Pillow Into an Extra Carry-on Bag](https://lifehacker.com/convert-your-neck-pillow-into-an-extra-carry-on-bag-1850636147)
 - [Lifehacker] [An Over-the-Counter Birth Control Pill Is Officially Coming in 2024](https://lifehacker.com/an-over-the-counter-birth-control-pill-is-probably-co-1850429516)
-- [Lifehacker] [You Should Really Try Out DuckDuckGo&#39;s Windows Beta](https://lifehacker.com/you-should-really-try-out-duckduckgos-windows-beta-1850631237)
-- [Lifehacker] [Yes, a Healthy Diet Can Include Ultra-Processed Food](https://lifehacker.com/yes-a-healthy-diet-can-include-ultra-processed-food-1850633695)
-- [Lifehacker] [What to Do About Your Menu Anxiety](https://lifehacker.com/what-to-do-about-your-menu-anxiety-1850629559)
-- [Lifehacker] [Avoid These Common Money Mistakes When Buying a Home](https://lifehacker.com/avoid-these-common-money-mistakes-when-buying-a-home-1850621536)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Really Try Out DuckDuckGo&#39;s Windows Beta](https://lifehacker.com/you-should-really-try-out-duckduckgos-windows-beta-1850631237)<!-- TECH-POSTS:END -->
 
 ---
 
