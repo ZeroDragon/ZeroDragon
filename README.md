@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering React&#39;s useContext Hook: A Comprehensive Guide](https://dev.to/ibrahzizo360/mastering-reacts-usecontext-hook-a-comprehensive-guide-2700)
+- [Dev.to/JS] [Leveraging AI to Maximize Profits for Short-Term Rentals](https://dev.to/plantsmiles/leveraging-ai-to-maximize-profits-for-short-term-rentals-c50)
+- [Dev.to/JS] [How to Run JEST in Github Actions with Firestore](https://dev.to/thepylot/how-to-run-jest-in-github-actions-with-firestore-4gg4)
+- [Dev.to/JS] [Speech Synthesis using JavaScript](https://dev.to/nikitadmitr/speech-synthesis-in-nodejs-47e1)
+- [Lifehacker] [Why You Probably Shouldn’t Wrap Your Car](https://lifehacker.com/why-you-probably-shouldn-t-wrap-your-car-1850641373)
+- [Lifehacker] [20 Places to Legally Download or Stream Movies for Free](https://lifehacker.com/top-10-places-to-download-or-stream-movies-for-free-le-1782772455)
 - [Lifehacker] [Use a Mind Map to Increase Your Productivity](https://lifehacker.com/use-a-mind-map-to-increase-your-productivity-1850641534)
 - [Lifehacker] [Should You Choose Huel or Soylent When You Want to Drink Your Food?](https://lifehacker.com/huel-versus-soylent-1850637488)
 - [Lifehacker] [Get Microsoft Office for Mac or Windows For Life for $30](https://lifehacker.com/get-microsoft-office-for-mac-or-windows-for-life-for-3-1850629704)
@@ -45,11 +51,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Mirror Sex&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-m-1850639468)
 - [Dev.to/JS] [Tail call optimization in ES6&lpar;javascript&rpar; in easy language](https://dev.to/diwakarkashyap/tail-call-optimization-in-es6javascript-in-easy-language-11e6)
 - [Lifehacker] [The World Health Organization Says Aspartame is Fine, Actually](https://lifehacker.com/the-world-health-organization-says-aspartame-is-fine-a-1850638183)
-- [Dev.to/JS] [File handling 101 in Node Js](https://dev.to/abhishek_writes/file-handling-101-in-node-js-4di)
-- [Dev.to/JS] [The blog title](https://dev.to/kodar/the-blog-title-1kif)
-- [Dev.to/JS] [Supercharge Your React State Management like a Senior Dev: Unlocking the Power of Zustand and React Query](https://dev.to/iamashot/supercharge-your-react-state-management-like-a-senior-dev-unlocking-the-power-of-zustand-and-react-query-5bap)
 - [Lifehacker] [Follow This Checklist Before Replacing Your Old Window AC](https://lifehacker.com/follow-this-checklist-before-replacing-your-old-window-1850638397)
-- [Dev.to/JS] [Download All Images from a Website as a Zip File using Console - JavaScript](https://dev.to/sh20raj/download-all-images-from-a-website-as-a-zip-file-using-console-javascript-4g30)
 - [Lifehacker] [You Can Make Custom iPhone Contact Posters in iOS 17](https://lifehacker.com/you-can-make-custom-iphone-contact-posters-in-ios-17-1850639809)
 - [Lifehacker] [Combine Sour and Whipped Cream for This Incredible Whipped Topping](https://lifehacker.com/combine-sour-and-whipped-cream-for-this-incredible-whip-1850638476)
 - [Lifehacker] [How to Bring Weed Into the Bedroom](https://lifehacker.com/how-to-bring-weed-into-the-bedroom-1850565448)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Airport Lounges Aren’t Worth the Hype](https://lifehacker.com/airport-lounges-aren-t-worth-the-hype-1850636591)
 - [Lifehacker] [You Can Get This Refurbished iPad Mini for $80](https://lifehacker.com/you-can-get-this-refurbished-ipad-mini-for-80-1850616986)
 - [Lifehacker] [There&#39;s a Better Way to Load Up Your Baked Potato](https://lifehacker.com/theres-a-better-way-to-load-up-your-baked-potato-1850634170)
-- [Lifehacker] [The Olive Sandwich Is the Answer to Summer&#39;s Sando Problems](https://lifehacker.com/the-olive-sandwich-is-the-answer-to-summers-sando-probl-1850633080)
-- [Lifehacker] [You Can Get 10TB of Prism Drive Cloud Storage for 90% Off](https://lifehacker.com/you-can-get-10tb-of-prism-drive-cloud-storage-for-90-o-1850617036)
-- [Lifehacker] [What People Are Getting Wrong This Week: Artificial Intelligence](https://lifehacker.com/what-people-are-getting-wrong-this-week-artificial-int-1850634769)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Olive Sandwich Is the Answer to Summer&#39;s Sando Problems](https://lifehacker.com/the-olive-sandwich-is-the-answer-to-summers-sando-probl-1850633080)<!-- TECH-POSTS:END -->
 
 ---
 
