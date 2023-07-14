@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript String Methods](https://dev.to/maame_afia/javascript-string-methods-3oon)
+- [Lifehacker] [Quit Making Boring Scrambled Eggs](https://lifehacker.com/8-ways-to-make-better-scrambled-eggs-1846859812)
+- [Dev.to/JS] [How to avoid Technical Debt? Discover the foolproof strategies to steer clear of technical debt.](https://dev.to/axsh/how-to-avoid-technical-debt-discover-the-foolproof-strategies-to-steer-clear-of-technical-debt-2kkn)
 - [Dev.to/JS] [Introducing ESTSSH, the configurationless static website generator](https://dev.to/aclarembeau/introducing-estssh-the-configurationless-static-website-generator-1ll1)
 - [Lifehacker] [17 Surprising Household Uses for Tennis Balls](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)
 - [Lifehacker] [Introduce ChatGPT to an Absolute Beginner With This $10 Course](https://lifehacker.com/introduce-chatgpt-to-an-absolute-beginner-with-this-10-1850629775)
@@ -49,8 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PracticeHero.site : My new project!](https://dev.to/merudra754/practiceherosite-my-new-project-3d98)
 - [Lifehacker] [Use This Spreadsheet to Organize Your Job Hunt](https://lifehacker.com/use-this-spreadsheet-to-organize-your-job-hunt-1850639441)
 - [Dev.to/JS] [Dissecting React: Routing, State, HTML, and Styling](https://dev.to/jm_dev/reactjs-general-knowledge-tips-3c45)
-- [Dev.to/JS] [Redux for Beginners: A Step-by-Step Guide](https://dev.to/shawnsmith24/redux-for-beginners-a-step-by-step-guide-2god)
-- [Dev.to/JS] [The Resend Cube Lookalike Part 2 - Bloom and Animation](https://dev.to/sal_paradise/the-resend-cube-lookalike-part-2-bloom-and-animation-ile)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Mirror Sex&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-m-1850639468)
 - [Lifehacker] [The World Health Organization Says Aspartame is Fine, Actually](https://lifehacker.com/the-world-health-organization-says-aspartame-is-fine-a-1850638183)
 - [Lifehacker] [Follow This Checklist Before Replacing Your Old Window AC](https://lifehacker.com/follow-this-checklist-before-replacing-your-old-window-1850638397)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Post-Prime-Day Deals Are Still Going at Target and Walmart](https://lifehacker.com/these-post-prime-day-deals-are-still-going-at-target-an-1850637603)
 - [Lifehacker] [How to Return All of Your Ill-Advised Amazon Prime Day Purchases](https://lifehacker.com/how-to-return-all-of-your-ill-advised-amazon-prime-day-1849179296)
 - [Lifehacker] [Summer Called, It Wants This Fruity Corn Salsa](https://lifehacker.com/summer-called-it-wants-this-fruity-corn-salsa-1850637315)
-- [Lifehacker] [Airport Lounges Aren’t Worth the Hype](https://lifehacker.com/airport-lounges-aren-t-worth-the-hype-1850636591)
-- [Lifehacker] [You Can Get This Refurbished iPad Mini for $80](https://lifehacker.com/you-can-get-this-refurbished-ipad-mini-for-80-1850616986)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Airport Lounges Aren’t Worth the Hype](https://lifehacker.com/airport-lounges-aren-t-worth-the-hype-1850636591)<!-- TECH-POSTS:END -->
 
 ---
 
