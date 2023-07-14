@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [toolkit-use npm package have added some functions](https://dev.to/toolkituse/toolkit-use-npm-package-have-added-some-functions-5gp6)
+- [Dev.to/JS] [Build &amp; deploy your first web app](https://dev.to/omar4ur/build-deploy-your-first-web-app-48dk)
 - [Dev.to/JS] [Build Anticipation: Create a Countdown Timer Landing Page with HTML, CSS, and JavaScript](https://dev.to/devlawrence/build-anticipation-create-a-countdown-timer-landing-page-with-html-css-and-javascript-159a)
 - [Dev.to/JS] [Episode 23/27: NgRx 16.1 &amp; Signal Store, Jest, Cypress, Nx](https://dev.to/this-is-angular/episode-2327-ngrx-161-signal-store-jest-cypress-nx-23b9)
 - [Dev.to/JS] [The Ultimate Guide to Choosing the Best Workout Tracker App for Apple Watch](https://dev.to/thejuliaemma/the-ultimate-guide-to-choosing-the-best-workout-tracker-app-for-apple-watch-lb3)
@@ -44,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Reactive form server-side validation with AngularJs and Java](https://dev.to/someshjagtap/reactive-form-server-side-validation-with-angular-and-java-4k85)
 - [Lifehacker] [You Can Get This Refurbished iPad Mini for $80](https://lifehacker.com/you-can-get-this-refurbished-ipad-mini-for-80-1850616986)
 - [Lifehacker] [There&#39;s a Better Way to Load Up Your Baked Potato](https://lifehacker.com/theres-a-better-way-to-load-up-your-baked-potato-1850634170)
-- [Dev.to/JS] [Updates from the 97th TC39 meeting](https://dev.to/hemanth/updates-from-the-97th-tc39-meeting-1cnj)
 - [Lifehacker] [The Olive Sandwich Is the Answer to Summer&#39;s Sando Problems](https://lifehacker.com/the-olive-sandwich-is-the-answer-to-summers-sando-probl-1850633080)
-- [Dev.to/JS] [Adding Daily Developer Joke to GitHub README](https://dev.to/vulcanwm/adding-daily-developer-joke-to-github-readme-ap9)
 - [Lifehacker] [You Can Get 10TB of Prism Drive Cloud Storage for 90% Off](https://lifehacker.com/you-can-get-10tb-of-prism-drive-cloud-storage-for-90-o-1850617036)
 - [Lifehacker] [What People Are Getting Wrong This Week: Artificial Intelligence](https://lifehacker.com/what-people-are-getting-wrong-this-week-artificial-int-1850634769)
 - [Lifehacker] [Three Ways to Set an iPhone Alarm Without Waking Your Partner](https://lifehacker.com/three-ways-to-set-an-iphone-alarm-without-waking-your-p-1850636324)
