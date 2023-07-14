@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [toolkit-use have add jest unit test](https://dev.to/toolkituse/toolkit-use-have-add-jest-unit-test-3f4h)
 - [Dev.to/JS] [JavaScript Decorator Functions](https://dev.to/sundarbadagala081/javascript-decorator-functions-19l1)
 - [Dev.to/JS] [Custom Forms with Web Components and &quot;ElementInternals&quot;](https://dev.to/stuffbreaker/custom-forms-with-web-components-and-elementinternals-4jaj)
 - [Dev.to/JS] [key concepts of react router with examples](https://dev.to/lakshmananarumugam/key-concepts-of-react-router-with-examples-22gm)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dreaded Notification prompting can only be done from a user gesture](https://dev.to/mirmayne/dreaded-notification-prompting-can-only-be-done-from-a-user-gesture-13o5)
 - [Lifehacker] [Build an Ice Cream Cake Right in a Sara Lee Tin](https://lifehacker.com/build-an-ice-cream-cake-right-in-a-sara-lee-tin-1850637892)
 - [Dev.to/JS] [NestJs: DDD implementation - EN](https://dev.to/nilaxann65/nestjs-ddd-implementation-en-278g)
-- [Dev.to/JS] [NestJs: Implementación de DDD - ES](https://dev.to/nilaxann65/nestjs-implementacion-de-ddd-es-242k)
 - [Lifehacker] [You Can Finally Ping Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-ping-your-apple-watch-from-your-iphone-1850636856)
 - [Lifehacker] [These Post-Prime-Day Deals Are Still Going at Target and Walmart](https://lifehacker.com/these-post-prime-day-deals-are-still-going-at-target-an-1850637603)
 - [Lifehacker] [How to Return All of Your Ill-Advised Amazon Prime Day Purchases](https://lifehacker.com/how-to-return-all-of-your-ill-advised-amazon-prime-day-1849179296)
