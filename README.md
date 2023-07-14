@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Make Custom iPhone Contact Posters in iOS 17](https://lifehacker.com/you-can-make-custom-iphone-contact-posters-in-ios-17-1850639809)
+- [Dev.to/JS] [Send a &#39;Welcome&#39; Email after someone signs in to your Firebase🔥 App with Brevo](https://dev.to/lilshake/send-a-welcome-email-after-someone-signs-in-to-your-firebase-app-with-brevo-md0)
+- [Dev.to/JS] [Security isn&#39;t all rosy: What I learnt from participating in Treblle API Security Hackathon](https://dev.to/danielasaboro/security-isnt-all-rosy-what-i-learnt-from-participating-in-treblle-api-hackathon-1kok)
+- [Lifehacker] [Combine Sour and Whipped Cream for This Incredible Whipped Topping](https://lifehacker.com/combine-sour-and-whipped-cream-for-this-incredible-whip-1850638476)
+- [Dev.to/JS] [If you could choose only one tech stack for the rest of your life, what would you choose?](https://dev.to/sadeedpv/if-you-could-choose-only-one-tech-stack-for-the-rest-of-your-life-what-would-you-choose-5e11)
+- [Dev.to/JS] [Custom Error Handling in GraphQL — with examples](https://dev.to/canopassoftware/custom-error-handling-in-graphql-with-examples-53he)
+- [Lifehacker] [How to Bring Weed Into the Bedroom](https://lifehacker.com/how-to-bring-weed-into-the-bedroom-1850565448)
 - [Dev.to/JS] [Weather App using MERN Stack](https://dev.to/syedmuhammadaliraza/weather-app-using-mern-stack-31j2)
 - [Dev.to/JS] [Full Stack To Do list, a step-by-step tutorial](https://dev.to/tracygjg/full-stack-to-do-list-a-step-by-step-tutorial-3oom)
 - [Dev.to/JS] [Day 5: new, Object.create, and Object.assign](https://dev.to/dhrn/day-5-new-objectcreate-and-objectassign-19ml)
@@ -36,10 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Conditional Statements in Javacript](https://dev.to/jacknorman235/conditional-statements-in-javacript-527m)
 - [Dev.to/JS] [Bitcoin 360 AI - Reviews, Price, Benefits, Uses &amp; How Does It Work?](https://dev.to/bitcoin36061625/bitcoin-360-ai-reviews-price-benefits-uses-how-does-it-work-n6g)
 - [Dev.to/JS] [Javascript: A roadmap to learn Javascript🔥🚀](https://dev.to/bishnoi_sushill/javascript-a-roadmap-to-learn-javascript-1ddn)
-- [Dev.to/JS] [What is Asynchronous JavaScript?](https://dev.to/comfortdeola/what-is-asynchronous-javascript-317g)
-- [Dev.to/JS] [RUBY ON RAILS TRAINING IN CHENNAI](https://dev.to/sureshbalaji1651/ruby-on-rails-training-in-chennai-5dlo)
-- [Dev.to/JS] [Building an Express App with an HTTPS Server](https://dev.to/fredabod/building-an-express-app-with-an-https-server-2mbj)
-- [Dev.to/JS] [How to Insert Image Watermark to PDF Programmatically](https://dev.to/gia--/how-to-insert-image-watermark-to-pdf-56al)
 - [Lifehacker] [Build an Ice Cream Cake Right in a Sara Lee Tin](https://lifehacker.com/build-an-ice-cream-cake-right-in-a-sara-lee-tin-1850637892)
 - [Lifehacker] [You Can Finally Ping Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-ping-your-apple-watch-from-your-iphone-1850636856)
 - [Lifehacker] [These Post-Prime-Day Deals Are Still Going at Target and Walmart](https://lifehacker.com/these-post-prime-day-deals-are-still-going-at-target-an-1850637603)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These Common Money Mistakes When Buying a Home](https://lifehacker.com/avoid-these-common-money-mistakes-when-buying-a-home-1850621536)
 - [Lifehacker] [10 Things You Should Almost Always Buy Used](https://lifehacker.com/10-things-you-should-almost-always-buy-used-1850627371)
 - [Lifehacker] [Whether Money Can Buy Happiness, Once and For All](https://lifehacker.com/whether-money-can-buy-happiness-once-and-for-all-1850624539)
-- [Lifehacker] [How to Block Ads on Reddit](https://lifehacker.com/how-to-block-ads-on-reddit-1850626685)
-- [Lifehacker] [How to Set &#39;Boundaries&#39; Without Being a Jerk About It](https://lifehacker.com/how-to-set-boundaries-without-being-an-asshole-about-it-1850633149)
-- [Lifehacker] [These Deeper Connect VPNs Are Over 40% Off Right Now](https://lifehacker.com/these-deeper-connect-vpns-are-over-40-off-right-now-1850616947)
-- [Lifehacker] [You Can Get Three Years of UltraVPN for 90% Off Right Now](https://lifehacker.com/you-can-get-three-years-of-ultravpn-for-90-off-right-n-1850612905)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Block Ads on Reddit](https://lifehacker.com/how-to-block-ads-on-reddit-1850626685)<!-- TECH-POSTS:END -->
 
 ---
 
