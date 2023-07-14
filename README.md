@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use a Mind Map to Increase Your Productivity](https://lifehacker.com/use-a-mind-map-to-increase-your-productivity-1850641534)
+- [Lifehacker] [Should You Choose Huel or Soylent When You Want to Drink Your Food?](https://lifehacker.com/huel-versus-soylent-1850637488)
+- [Lifehacker] [Get Microsoft Office for Mac or Windows For Life for $30](https://lifehacker.com/get-microsoft-office-for-mac-or-windows-for-life-for-3-1850629704)
+- [Lifehacker] [Mattresses, Internet Access, and Other Prices You Didn&#39;t Know You Can Haggle Over](https://lifehacker.com/mattresses-internet-access-and-other-prices-you-didnt-1850631517)
 - [Dev.to/JS] [Multiline Text in HTML Canvas](https://dev.to/geongeorge/multiline-text-in-html-canvas-434h)
 - [Dev.to/JS] [useReducer&lpar;&rpar; hook - Redux inside your component](https://dev.to/kokaneka/usereducer-hook-redux-inside-your-component-3dha)
 - [Lifehacker] [You Can Finally Use iCloud Keychain in Chrome](https://lifehacker.com/you-can-finally-use-icloud-keychain-in-chrome-1850639711)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There&#39;s a Better Way to Load Up Your Baked Potato](https://lifehacker.com/theres-a-better-way-to-load-up-your-baked-potato-1850634170)
 - [Lifehacker] [The Olive Sandwich Is the Answer to Summer&#39;s Sando Problems](https://lifehacker.com/the-olive-sandwich-is-the-answer-to-summers-sando-probl-1850633080)
 - [Lifehacker] [You Can Get 10TB of Prism Drive Cloud Storage for 90% Off](https://lifehacker.com/you-can-get-10tb-of-prism-drive-cloud-storage-for-90-o-1850617036)
-- [Lifehacker] [What People Are Getting Wrong This Week: Artificial Intelligence](https://lifehacker.com/what-people-are-getting-wrong-this-week-artificial-int-1850634769)
-- [Lifehacker] [Three Ways to Set an iPhone Alarm Without Waking Your Partner](https://lifehacker.com/three-ways-to-set-an-iphone-alarm-without-waking-your-p-1850636324)
-- [Lifehacker] [You Can Get a Windscribe VPN Subscription for 60% Off Right Now](https://lifehacker.com/you-can-get-a-windscribe-vpn-subscription-for-60-off-r-1850617074)
-- [Lifehacker] [25 Apple TV+ Original Series You Should Be Watching](https://lifehacker.com/15-apple-tv-original-series-you-should-be-watching-th-1847601321)
-- [Lifehacker] [Convert Your Neck Pillow Into an Extra Carry-on Bag](https://lifehacker.com/convert-your-neck-pillow-into-an-extra-carry-on-bag-1850636147)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What People Are Getting Wrong This Week: Artificial Intelligence](https://lifehacker.com/what-people-are-getting-wrong-this-week-artificial-int-1850634769)<!-- TECH-POSTS:END -->
 
 ---
 
