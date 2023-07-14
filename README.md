@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [2 Ways To Take Screenshots In Javascript](https://dev.to/codeboxx/2-ways-to-take-screenshots-in-javascript-4goe)
 - [Dev.to/JS] [Beginners Guide to Understanding javaScript Functions Parameters/Arguments](https://dev.to/maikikasdaglis/beginners-guide-to-understanding-javascript-functions-parametersarguments-5fn0)
 - [Dev.to/JS] [I need Guidance](https://dev.to/vinaysingh008/i-need-guidance-34e3)
 - [Dev.to/JS] [15 Advanced TypeScript Tips for Development](https://dev.to/lakshmananarumugam/15-advanced-typescript-tips-for-development-5ddj)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [toolkit-use npm package have added some functions](https://dev.to/toolkituse/toolkit-use-npm-package-have-added-some-functions-5gp6)
 - [Dev.to/JS] [Build &amp; deploy your first web app](https://dev.to/omar4ur/build-deploy-your-first-web-app-48dk)
 - [Dev.to/JS] [Build Anticipation: Create a Countdown Timer Landing Page with HTML, CSS, and JavaScript](https://dev.to/devlawrence/build-anticipation-create-a-countdown-timer-landing-page-with-html-css-and-javascript-159a)
-- [Dev.to/JS] [Episode 23/27: NgRx 16.1 &amp; Signal Store, Jest, Cypress, Nx](https://dev.to/this-is-angular/episode-2327-ngrx-161-signal-store-jest-cypress-nx-23b9)
 - [Lifehacker] [Build an Ice Cream Cake Right in a Sara Lee Tin](https://lifehacker.com/build-an-ice-cream-cake-right-in-a-sara-lee-tin-1850637892)
 - [Lifehacker] [You Can Finally Ping Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-ping-your-apple-watch-from-your-iphone-1850636856)
 - [Lifehacker] [These Post-Prime-Day Deals Are Still Going at Target and Walmart](https://lifehacker.com/these-post-prime-day-deals-are-still-going-at-target-an-1850637603)
