@@ -26,19 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Weather App using MERN Stack](https://dev.to/syedmuhammadaliraza/weather-app-using-mern-stack-31j2)
+- [Dev.to/JS] [Full Stack To Do list, a step-by-step tutorial](https://dev.to/tracygjg/full-stack-to-do-list-a-step-by-step-tutorial-3oom)
+- [Dev.to/JS] [Day 5: new, Object.create, and Object.assign](https://dev.to/dhrn/day-5-new-objectcreate-and-objectassign-19ml)
+- [Lifehacker] [The Best High-Protein Snacks You Can Get at a Gas Station](https://lifehacker.com/the-best-high-protein-snacks-you-can-get-at-a-gas-stati-1850626401)
+- [Dev.to/JS] [Arrays in JavaScript](https://dev.to/jacknorman235/arrays-in-javacript-1o0)
+- [Dev.to/JS] [Intégration d&#39;un sélecteur de date et d&#39;heure dans votre application web avec jQuery UI et SweetAlert](https://dev.to/dreykovic/integration-dun-selecteur-de-date-et-dheure-dans-votre-application-web-avec-jquery-ui-et-sweetalert-5dhk)
 - [Lifehacker] [When Should I Take My Kids to the Movie Theater for the First Time?](https://lifehacker.com/when-should-i-take-my-kids-to-the-movie-theater-for-the-1850627595)
+- [Dev.to/JS] [Conditional Statements in Javacript](https://dev.to/jacknorman235/conditional-statements-in-javacript-527m)
 - [Dev.to/JS] [Bitcoin 360 AI - Reviews, Price, Benefits, Uses &amp; How Does It Work?](https://dev.to/bitcoin36061625/bitcoin-360-ai-reviews-price-benefits-uses-how-does-it-work-n6g)
 - [Dev.to/JS] [Javascript: A roadmap to learn Javascript🔥🚀](https://dev.to/bishnoi_sushill/javascript-a-roadmap-to-learn-javascript-1ddn)
 - [Dev.to/JS] [What is Asynchronous JavaScript?](https://dev.to/comfortdeola/what-is-asynchronous-javascript-317g)
 - [Dev.to/JS] [RUBY ON RAILS TRAINING IN CHENNAI](https://dev.to/sureshbalaji1651/ruby-on-rails-training-in-chennai-5dlo)
 - [Dev.to/JS] [Building an Express App with an HTTPS Server](https://dev.to/fredabod/building-an-express-app-with-an-https-server-2mbj)
 - [Dev.to/JS] [How to Insert Image Watermark to PDF Programmatically](https://dev.to/gia--/how-to-insert-image-watermark-to-pdf-56al)
-- [Dev.to/JS] [Dockerizing a Node.js App: A Comprehensive Guide for Easy Deployment🐋](https://dev.to/burakboduroglu/dockerizing-a-nodejs-app-a-comprehensive-guide-for-easy-deployment-13o1)
-- [Dev.to/JS] [React Alternatives: Choosing the Right JavaScript Framework for Your Project](https://dev.to/crossskatee1/react-alternatives-choosing-the-right-javascript-framework-for-your-project-4po)
-- [Dev.to/JS] [Airport taxi birmingham](https://dev.to/dis1532205/airport-taxi-birmingham-34p7)
-- [Dev.to/JS] [Javascript Mini Projects &lpar;Nodejs starters!&rpar;](https://dev.to/shambashib23/javascript-mini-projects-nodejs-starters-3el2)
-- [Dev.to/JS] [Mastering Data Flow in React: How to Pass Data from Child to Parent Components](https://dev.to/adminha/mastering-data-flow-in-react-how-to-pass-data-from-child-to-parent-components-2hla)
-- [Dev.to/JS] [donghojackphanvn](https://dev.to/donghojackphanvn/donghojackphanvn-5810)
 - [Lifehacker] [Build an Ice Cream Cake Right in a Sara Lee Tin](https://lifehacker.com/build-an-ice-cream-cake-right-in-a-sara-lee-tin-1850637892)
 - [Lifehacker] [You Can Finally Ping Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-ping-your-apple-watch-from-your-iphone-1850636856)
 - [Lifehacker] [These Post-Prime-Day Deals Are Still Going at Target and Walmart](https://lifehacker.com/these-post-prime-day-deals-are-still-going-at-target-an-1850637603)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Block Ads on Reddit](https://lifehacker.com/how-to-block-ads-on-reddit-1850626685)
 - [Lifehacker] [How to Set &#39;Boundaries&#39; Without Being a Jerk About It](https://lifehacker.com/how-to-set-boundaries-without-being-an-asshole-about-it-1850633149)
 - [Lifehacker] [These Deeper Connect VPNs Are Over 40% Off Right Now](https://lifehacker.com/these-deeper-connect-vpns-are-over-40-off-right-now-1850616947)
-- [Lifehacker] [You Can Get Three Years of UltraVPN for 90% Off Right Now](https://lifehacker.com/you-can-get-three-years-of-ultravpn-for-90-off-right-n-1850612905)
-- [Lifehacker] [The Best Prime Day Deals for Your Home Office](https://lifehacker.com/the-best-prime-day-deals-for-your-home-office-1850633146)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Three Years of UltraVPN for 90% Off Right Now](https://lifehacker.com/you-can-get-three-years-of-ultravpn-for-90-off-right-n-1850612905)<!-- TECH-POSTS:END -->
 
 ---
 
