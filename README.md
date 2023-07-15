@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [move all instances of that target value to the end end of the array](https://dev.to/chandrapenugonda/move-all-instances-of-that-target-value-to-the-end-end-of-the-array-4dmn)
+- [Dev.to/JS] [Weather App with MEAN Stack](https://dev.to/syedmuhammadaliraza/weather-app-with-mean-stack-1dlh)
+- [Dev.to/JS] [ReactJS lifecycle in detail using function-based components and provide simple and complex examples to illustrate each phase.](https://dev.to/gaurbprajapati/reactjs-lifecycle-in-detail-using-function-based-components-and-provide-simple-and-complex-examples-to-illustrate-each-phase-1j9h)
 - [Dev.to/JS] [Enhance Location-Based Capabilities with Geofencing in t6 IoT Platform](https://dev.to/mathcoll/enhance-location-based-capabilities-with-geofencing-in-t6-iot-platform-1lbf)
 - [Dev.to/JS] [JavaScript Quiz #07 - Understanding Control Flow in JavaScript](https://dev.to/quizzes4u/javascript-quiz-07-understanding-control-flow-in-javascript-1fc0)
 - [Dev.to/JS] [An OOP sudocode representation of the JS event loop](https://dev.to/deanglukler/an-oop-sudocode-representation-of-the-js-event-loop-33no)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Better conditions: Invert your conditionals to beautify code](https://dev.to/davidortega/better-conditions-invert-your-conditionals-to-beautify-code-68l)
 - [Lifehacker] [The States With the Best Tap Water &lpar;and What to Do If Your State Has the Worst&rpar;](https://lifehacker.com/the-states-with-the-best-tap-water-and-what-to-do-if-y-1850641803)
 - [Dev.to/JS] [Using Web Workers In Vue Applications](https://dev.to/martinsonuoha/using-web-workers-in-vue-applications-3lpp)
-- [Dev.to/JS] [Integrating Node.js with Relational Databases: A Comprehensive Guide](https://dev.to/saint_vandora/integrating-nodejs-with-relational-databases-a-comprehensive-guide-25ba)
-- [Dev.to/JS] [Play audio with HTMLAudioElement API in JavaScript](https://dev.to/amitavmishra99/play-audio-with-htmlaudioelement-api-in-javascript-2fcf)
-- [Dev.to/JS] [🚀 A TypeScript-Based React-Like Learning Project with Complete Functionality and Next.js Compatibility](https://dev.to/mrwangjusttodo/a-typescript-based-react-like-learning-project-with-complete-functionality-and-nextjs-compatibility-322c)
 - [Lifehacker] [Use This Phone Number to Find a Cooling Center Near You](https://lifehacker.com/use-this-phone-number-to-find-a-cooling-center-near-you-1850641814)
 - [Lifehacker] [Breeze Airways&#39; Flash Sale Just Might Be Worth It](https://lifehacker.com/breeze-airways-flash-sale-just-might-be-worth-it-1850641826)
 - [Lifehacker] [Quit Making Boring Scrambled Eggs](https://lifehacker.com/8-ways-to-make-better-scrambled-eggs-1846859812)
