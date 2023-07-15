@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Essential Websites Every Developer Should Know](https://dev.to/gaurbprajapati/10-essential-websites-every-developer-should-know-3hip)
+- [Dev.to/JS] [Code Optimization is tricky](https://dev.to/niza/code-optimization-is-tricky-2ebb)
+- [Dev.to/JS] [CORS Issues Fixing in Angular16 Application](https://dev.to/srinathsree66/cors-issues-fixing-in-angular16-application-20ml)
+- [Dev.to/JS] [Better conditions: Invert your conditionals to beautify code](https://dev.to/davidortega/better-conditions-invert-your-conditionals-to-beautify-code-68l)
+- [Lifehacker] [The States With the Best Tap Water &lpar;and What to Do If Your State Has the Worst&rpar;](https://lifehacker.com/the-states-with-the-best-tap-water-and-what-to-do-if-y-1850641803)
 - [Dev.to/JS] [Using Web Workers In Vue Applications](https://dev.to/martinsonuoha/using-web-workers-in-vue-applications-3lpp)
 - [Dev.to/JS] [Integrating Node.js with Relational Databases: A Comprehensive Guide](https://dev.to/saint_vandora/integrating-nodejs-with-relational-databases-a-comprehensive-guide-25ba)
 - [Dev.to/JS] [Play audio with HTMLAudioElement API in JavaScript](https://dev.to/amitavmishra99/play-audio-with-htmlaudioelement-api-in-javascript-2fcf)
@@ -35,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Phone Number to Find a Cooling Center Near You](https://lifehacker.com/use-this-phone-number-to-find-a-cooling-center-near-you-1850641814)
 - [Dev.to/JS] [O objeto Atomics do JS uma introdução, multithreading e memória!](https://dev.to/urielsouza29/o-objeto-atomics-do-js-uma-introducao-5d17)
 - [Dev.to/JS] [How to contribute a new framework to Sitecore JSS](https://dev.to/illiakovalenko/how-to-contribute-a-new-framework-to-sitecore-jss-232a)
-- [Dev.to/JS] [Anonymous-DP V2 : Unique and Random Pixel Profile Picture for Anonymous User](https://dev.to/rizmyabdulla/anonymous-dp-v2-unique-and-random-pixel-profile-picture-for-anonymous-user-1io1)
 - [Lifehacker] [Breeze Airways&#39; Flash Sale Just Might Be Worth It](https://lifehacker.com/breeze-airways-flash-sale-just-might-be-worth-it-1850641826)
-- [Dev.to/JS] [Creating an Interactive Earth visualization with JavaScript and the Mapbox GL JS API](https://dev.to/sarahokolo/creating-an-interactive-earth-visualization-with-javascript-and-the-mapbox-gl-js-api-4464)
-- [Dev.to/JS] [The Complete Guide to Becoming a Web Developer: Part 4](https://dev.to/aradwan20/the-complete-guide-to-becoming-a-web-developer-part-4-3oj9)
-- [Dev.to/JS] [Simplifying Your HTML Table with an Autocomplete Feature](https://dev.to/shekhartarare/simplifying-your-html-table-with-an-autocomplete-feature-1cjo)
 - [Lifehacker] [Quit Making Boring Scrambled Eggs](https://lifehacker.com/8-ways-to-make-better-scrambled-eggs-1846859812)
 - [Lifehacker] [17 Surprising Household Uses for Tennis Balls](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)
 - [Lifehacker] [Introduce ChatGPT to an Absolute Beginner With This $10 Course](https://lifehacker.com/introduce-chatgpt-to-an-absolute-beginner-with-this-10-1850629775)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When Should I Take My Kids to the Movie Theater for the First Time?](https://lifehacker.com/when-should-i-take-my-kids-to-the-movie-theater-for-the-1850627595)
 - [Lifehacker] [Build an Ice Cream Cake Right in a Sara Lee Tin](https://lifehacker.com/build-an-ice-cream-cake-right-in-a-sara-lee-tin-1850637892)
 - [Lifehacker] [You Can Finally Ping Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-ping-your-apple-watch-from-your-iphone-1850636856)
-- [Lifehacker] [These Post-Prime-Day Deals Are Still Going at Target and Walmart](https://lifehacker.com/these-post-prime-day-deals-are-still-going-at-target-an-1850637603)
-- [Lifehacker] [How to Return All of Your Ill-Advised Amazon Prime Day Purchases](https://lifehacker.com/how-to-return-all-of-your-ill-advised-amazon-prime-day-1849179296)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Post-Prime-Day Deals Are Still Going at Target and Walmart](https://lifehacker.com/these-post-prime-day-deals-are-still-going-at-target-an-1850637603)<!-- TECH-POSTS:END -->
 
 ---
 
