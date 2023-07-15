@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Web Workers In Vue Applications](https://dev.to/martinsonuoha/using-web-workers-in-vue-applications-3lpp)
+- [Dev.to/JS] [Integrating Node.js with Relational Databases: A Comprehensive Guide](https://dev.to/saint_vandora/integrating-nodejs-with-relational-databases-a-comprehensive-guide-25ba)
+- [Dev.to/JS] [Play audio with HTMLAudioElement API in JavaScript](https://dev.to/amitavmishra99/play-audio-with-htmlaudioelement-api-in-javascript-2fcf)
+- [Dev.to/JS] [A TypeScript-Based React-Like Learning Project with Complete Functionality and Next.js Compatibility](https://dev.to/mrwangjusttodo/a-typescript-based-react-like-learning-project-with-complete-functionality-and-nextjs-compatibility-322c)
 - [Dev.to/JS] [BUNKERSLOT77 𝐒𝐄𝐍𝐒𝐀𝐒𝐈𝐎𝐍𝐀𝐋 𝐈𝐍𝐓𝐄𝐑𝐍𝐀𝐓𝐈𝐎𝐍𝐀𝐋](https://dev.to/bunkerslot777/bunkerslot77-3b74)
 - [Dev.to/JS] [Browser Engine: The Power Behind Web Browsing](https://dev.to/snehasishkonger/browser-engine-the-power-behind-web-browsing-5h6n)
 - [Lifehacker] [Use This Phone Number to Find a Cooling Center Near You](https://lifehacker.com/use-this-phone-number-to-find-a-cooling-center-near-you-1850641814)
@@ -36,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating an Interactive Earth visualization with JavaScript and the Mapbox GL JS API](https://dev.to/sarahokolo/creating-an-interactive-earth-visualization-with-javascript-and-the-mapbox-gl-js-api-4464)
 - [Dev.to/JS] [The Complete Guide to Becoming a Web Developer: Part 4](https://dev.to/aradwan20/the-complete-guide-to-becoming-a-web-developer-part-4-3oj9)
 - [Dev.to/JS] [Simplifying Your HTML Table with an Autocomplete Feature](https://dev.to/shekhartarare/simplifying-your-html-table-with-an-autocomplete-feature-1cjo)
-- [Dev.to/JS] [Mastering JavaScript Interviews: Top Programming Interview Questions You Should Know](https://dev.to/abidullah786/mastering-javascript-interviews-top-programming-interview-questions-you-should-know-433e)
-- [Dev.to/JS] [Next-Level Application Development: Mastering gRPC in .NET 8](https://dev.to/ahmedshahjr/next-level-application-development-mastering-grpc-in-net-8-327p)
-- [Dev.to/JS] [GitHub repositories for interview questions](https://dev.to/ishratumar/github-repositories-for-interview-questions-281a)
-- [Dev.to/JS] [What is Session ? Session in JS](https://dev.to/diwakarkashyap/what-is-session-session-in-js-4pg1)
 - [Lifehacker] [Quit Making Boring Scrambled Eggs](https://lifehacker.com/8-ways-to-make-better-scrambled-eggs-1846859812)
 - [Lifehacker] [17 Surprising Household Uses for Tennis Balls](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)
 - [Lifehacker] [Introduce ChatGPT to an Absolute Beginner With This $10 Course](https://lifehacker.com/introduce-chatgpt-to-an-absolute-beginner-with-this-10-1850629775)
