@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a Chrome Extension - A Hands-On Tutorial with YouTube Remaining](https://dev.to/dikka/creating-a-chrome-extension-a-hands-on-tutorial-with-youtube-remaining-4290)
 - [Dev.to/JS] [Demystifying Array Methods](https://dev.to/noriller/demystifying-array-methods-2bml)
 - [Dev.to/JS] [move all instances of that target value to the end end of the array](https://dev.to/chandrapenugonda/move-all-instances-of-that-target-value-to-the-end-end-of-the-array-4dmn)
 - [Dev.to/JS] [Weather App with MEAN Stack](https://dev.to/syedmuhammadaliraza/weather-app-with-mean-stack-1dlh)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Essential Websites Every Developer Should Know](https://dev.to/gaurbprajapati/10-essential-websites-every-developer-should-know-3hip)
 - [Dev.to/JS] [Code Optimization Is Tricky](https://dev.to/niza/code-optimization-is-tricky-2ebb)
 - [Dev.to/JS] [CORS Issues Fixing in Angular16 Application](https://dev.to/srinathsree66/cors-issues-fixing-in-angular16-application-20ml)
-- [Dev.to/JS] [Better conditions: Invert your conditionals to beautify code](https://dev.to/davidortega/better-conditions-invert-your-conditionals-to-beautify-code-68l)
 - [Lifehacker] [The States With the Best Tap Water &lpar;and What to Do If Your State Has the Worst&rpar;](https://lifehacker.com/the-states-with-the-best-tap-water-and-what-to-do-if-y-1850641803)
 - [Lifehacker] [Use This Phone Number to Find a Cooling Center Near You](https://lifehacker.com/use-this-phone-number-to-find-a-cooling-center-near-you-1850641814)
 - [Lifehacker] [Breeze Airways&#39; Flash Sale Just Might Be Worth It](https://lifehacker.com/breeze-airways-flash-sale-just-might-be-worth-it-1850641826)
