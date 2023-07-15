@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [hellooo](https://dev.to/khushipatel9016/hellooo-36nc)
 - [Dev.to/JS] [Another post that talks about lodash/fp &lpar;with Vue&rpar;](https://dev.to/allieschen/another-post-that-talks-about-lodashfp-with-vue-3ie9)
 - [Dev.to/JS] [Automation&lpar;Part - 2&rpar;: Popular languages and their libraries.](https://dev.to/guhapritam/automationpart-2-popular-languages-and-their-libraries-10ha)
 - [Dev.to/JS] [Neumorphism Website + Github API 🤯](https://dev.to/schbenedikt/neumorphism-website-github-api-1ekl)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Must-follow Ethics behind Pragmatic Programmer](https://dev.to/shravan20/must-follow-ethics-behind-pragmatic-programmer-3ipk)
 - [Dev.to/JS] [Unraveling the Code: A Journey into the Enigmatic World of Computer Programming](https://dev.to/athifbinu/unraveling-the-code-a-journey-into-the-enigmatic-world-of-computer-programming-1h71)
 - [Dev.to/JS] [MJGS Newsletter - Synthetic Biology Inside &lpar;Issue #123&rpar;](https://dev.to/mjgs/mjgs-newsletter-synthetic-biology-inside-issue-123-a75)
-- [Dev.to/JS] [Bitcoin Era - Reviews, Benefits, Results, Price &amp; Side Effects?](https://dev.to/bitcoinera83865/bitcoin-era-reviews-benefits-results-price-side-effects-199b)
 - [Lifehacker] [Quit Making Boring Scrambled Eggs](https://lifehacker.com/8-ways-to-make-better-scrambled-eggs-1846859812)
 - [Lifehacker] [17 Surprising Household Uses for Tennis Balls](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)
 - [Lifehacker] [Introduce ChatGPT to an Absolute Beginner With This $10 Course](https://lifehacker.com/introduce-chatgpt-to-an-absolute-beginner-with-this-10-1850629775)
