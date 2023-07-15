@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Breeze Airways&#39; Flash Sale Just Might Be Worth It](https://lifehacker.com/breeze-airways-flash-sale-just-might-be-worth-it-1850641826)
+- [Dev.to/JS] [Creating an Interactive Earth visualization with JavaScript and the Mapbox GL JS API](https://dev.to/sarahokolo/creating-an-interactive-earth-visualization-with-javascript-and-the-mapbox-gl-js-api-4464)
+- [Dev.to/JS] [The Complete Guide to Becoming a Web Developer: Part 4](https://dev.to/aradwan20/the-complete-guide-to-becoming-a-web-developer-part-4-3oj9)
+- [Dev.to/JS] [Simplifying Your HTML Table with an Autocomplete Feature](https://dev.to/shekhartarare/simplifying-your-html-table-with-an-autocomplete-feature-1cjo)
 - [Dev.to/JS] [Mastering JavaScript Interviews: Top Programming Interview Questions You Should Know](https://dev.to/abidullah786/mastering-javascript-interviews-top-programming-interview-questions-you-should-know-433e)
 - [Dev.to/JS] [Next-Level Application Development: Mastering gRPC in .NET 8](https://dev.to/ahmedshahjr/next-level-application-development-mastering-grpc-in-net-8-327p)
 - [Dev.to/JS] [GitHub repositories for interview questions](https://dev.to/ishratumar/github-repositories-for-interview-questions-281a)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [hCaptcha Solver : Solve any version of hCaptcha with the help of a captcha solver.](https://dev.to/qwwrtt/how-to-solve-hcaptcha-enterprise-329o)
 - [Dev.to/JS] [Free Jamstack Themes](https://dev.to/irishgeoff11/free-jamstack-themes-c58)
 - [Dev.to/JS] [hellooo](https://dev.to/khushipatel9016/hellooo-36nc)
-- [Dev.to/JS] [Another post that talks about lodash/fp &lpar;with Vue&rpar;](https://dev.to/allieschen/another-post-that-talks-about-lodashfp-with-vue-3ie9)
-- [Dev.to/JS] [Automation&lpar;Part - 2&rpar;: Popular languages and their libraries.](https://dev.to/guhapritam/automationpart-2-popular-languages-and-their-libraries-10ha)
-- [Dev.to/JS] [Neumorphism Website + Github API 🤯](https://dev.to/schbenedikt/neumorphism-website-github-api-1ekl)
 - [Lifehacker] [Quit Making Boring Scrambled Eggs](https://lifehacker.com/8-ways-to-make-better-scrambled-eggs-1846859812)
 - [Lifehacker] [17 Surprising Household Uses for Tennis Balls](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)
 - [Lifehacker] [Introduce ChatGPT to an Absolute Beginner With This $10 Course](https://lifehacker.com/introduce-chatgpt-to-an-absolute-beginner-with-this-10-1850629775)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Ping Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-ping-your-apple-watch-from-your-iphone-1850636856)
 - [Lifehacker] [These Post-Prime-Day Deals Are Still Going at Target and Walmart](https://lifehacker.com/these-post-prime-day-deals-are-still-going-at-target-an-1850637603)
 - [Lifehacker] [How to Return All of Your Ill-Advised Amazon Prime Day Purchases](https://lifehacker.com/how-to-return-all-of-your-ill-advised-amazon-prime-day-1849179296)
-- [Lifehacker] [Summer Called, It Wants This Fruity Corn Salsa](https://lifehacker.com/summer-called-it-wants-this-fruity-corn-salsa-1850637315)
-- [Lifehacker] [Airport Lounges Aren’t Worth the Hype](https://lifehacker.com/airport-lounges-aren-t-worth-the-hype-1850636591)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Summer Called, It Wants This Fruity Corn Salsa](https://lifehacker.com/summer-called-it-wants-this-fruity-corn-salsa-1850637315)<!-- TECH-POSTS:END -->
 
 ---
 
