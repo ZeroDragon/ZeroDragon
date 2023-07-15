@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [O objeto Atomics do JS uma introdução](https://dev.to/urielsouza29/o-objeto-atomics-do-js-uma-introducao-5d17)
 - [Dev.to/JS] [How to contribute a new framework to Sitecore JSS](https://dev.to/illiakovalenko/how-to-contribute-a-new-framework-to-sitecore-jss-232a)
 - [Dev.to/JS] [Anonymous-DP V2 : Unique and Random Pixel Profile Picture for Anonymous User](https://dev.to/rizmyabdulla/anonymous-dp-v2-unique-and-random-pixel-profile-picture-for-anonymous-user-1io1)
 - [Lifehacker] [Breeze Airways&#39; Flash Sale Just Might Be Worth It](https://lifehacker.com/breeze-airways-flash-sale-just-might-be-worth-it-1850641826)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Session ? Session in JS](https://dev.to/diwakarkashyap/what-is-session-session-in-js-4pg1)
 - [Dev.to/JS] [Functions in JavaScript: Building Reusable Code Blocks](https://dev.to/jacknorman235/functions-in-javascript-building-reusable-code-blocks-38kj)
 - [Dev.to/JS] [What is Angular used for?](https://dev.to/arsalanmee/what-is-angular-used-for-3939)
-- [Dev.to/JS] [hCaptcha Solver : Solve any version of hCaptcha with the help of a captcha solver.](https://dev.to/qwwrtt/how-to-solve-hcaptcha-enterprise-329o)
 - [Lifehacker] [Quit Making Boring Scrambled Eggs](https://lifehacker.com/8-ways-to-make-better-scrambled-eggs-1846859812)
 - [Lifehacker] [17 Surprising Household Uses for Tennis Balls](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)
 - [Lifehacker] [Introduce ChatGPT to an Absolute Beginner With This $10 Course](https://lifehacker.com/introduce-chatgpt-to-an-absolute-beginner-with-this-10-1850629775)
