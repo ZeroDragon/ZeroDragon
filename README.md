@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [As a beginner.....](https://dev.to/nerro/as-a-beginner-2dn)
 - [Dev.to/JS] [Deploying Sveltekit on IIS !](https://dev.to/nnutnonn/deploying-sveltekit-on-iis--5gf6)
 - [Dev.to/JS] [JavaScript String Methods](https://dev.to/maame_afia/javascript-string-methods-3oon)
 - [Lifehacker] [Quit Making Boring Scrambled Eggs](https://lifehacker.com/8-ways-to-make-better-scrambled-eggs-1846859812)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Hooks- UseState](https://dev.to/cmphill/react-hooks-usestate-1a4f)
 - [Lifehacker] [Make Yourself a &#39;Faker&#39;s Croissant&#39;](https://lifehacker.com/make-yourself-a-fakers-croissant-1850641204)
 - [Lifehacker] [Get This Refurbished Lenovo Desktop Computer for 42% Off](https://lifehacker.com/get-this-refurbished-lenovo-desktop-computer-for-42-of-1850629673)
-- [Dev.to/JS] [PracticeHero.site : My new project!](https://dev.to/merudra754/practiceherosite-my-new-project-3d98)
 - [Lifehacker] [Use This Spreadsheet to Organize Your Job Hunt](https://lifehacker.com/use-this-spreadsheet-to-organize-your-job-hunt-1850639441)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Mirror Sex&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-m-1850639468)
 - [Lifehacker] [The World Health Organization Says Aspartame is Fine, Actually](https://lifehacker.com/the-world-health-organization-says-aspartame-is-fine-a-1850638183)
