@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Another post that talks about lodash/fp &lpar;with Vue&rpar;](https://dev.to/allieschen/another-post-that-talks-about-lodashfp-with-vue-3ie9)
+- [Dev.to/JS] [Automation&lpar;Part - 2&rpar;: Popular languages and their libraries.](https://dev.to/guhapritam/automationpart-2-popular-languages-and-their-libraries-10ha)
+- [Dev.to/JS] [Neumorphism Website + Github API 🤯](https://dev.to/schbenedikt/neumorphism-website-github-api-1ekl)
 - [Dev.to/JS] [Part&lpar;11&rpar;: What is Error Handling in JavaScript?](https://dev.to/cliff123tech/part11-what-is-error-handling-in-javascript-2n2p)
 - [Dev.to/JS] [The Power of Component Libraries: A Beginner&#39;s Guide to Jump-Starting Your Web Development Career](https://dev.to/atkntepe/the-power-of-component-libraries-a-beginners-guide-to-jump-starting-your-web-development-career-1f9m)
 - [Dev.to/JS] [One-click JavaScript code obfuscation](https://dev.to/w2sft/one-click-javascript-code-obfuscation-40nc)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unraveling the Code: A Journey into the Enigmatic World of Computer Programming](https://dev.to/athifbinu/unraveling-the-code-a-journey-into-the-enigmatic-world-of-computer-programming-1h71)
 - [Dev.to/JS] [MJGS Newsletter - Synthetic Biology Inside &lpar;Issue #123&rpar;](https://dev.to/mjgs/mjgs-newsletter-synthetic-biology-inside-issue-123-a75)
 - [Dev.to/JS] [Bitcoin Era - Reviews, Benefits, Results, Price &amp; Side Effects?](https://dev.to/bitcoinera83865/bitcoin-era-reviews-benefits-results-price-side-effects-199b)
-- [Dev.to/JS] [As a beginner.....](https://dev.to/nerro/as-a-beginner-2dn)
-- [Dev.to/JS] [Deploying Sveltekit on IIS !](https://dev.to/nnutnonn/deploying-sveltekit-on-iis--5gf6)
-- [Dev.to/JS] [JavaScript String Methods](https://dev.to/maame_afia/javascript-string-methods-3oon)
 - [Lifehacker] [Quit Making Boring Scrambled Eggs](https://lifehacker.com/8-ways-to-make-better-scrambled-eggs-1846859812)
 - [Lifehacker] [17 Surprising Household Uses for Tennis Balls](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)
 - [Lifehacker] [Introduce ChatGPT to an Absolute Beginner With This $10 Course](https://lifehacker.com/introduce-chatgpt-to-an-absolute-beginner-with-this-10-1850629775)
