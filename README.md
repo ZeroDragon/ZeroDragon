@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Part&lpar;11&rpar;: What is Error Handling in JavaScript?](https://dev.to/cliff123tech/part11-what-is-error-handling-in-javascript-2n2p)
+- [Dev.to/JS] [The Power of Component Libraries: A Beginner&#39;s Guide to Jump-Starting Your Web Development Career](https://dev.to/atkntepe/the-power-of-component-libraries-a-beginners-guide-to-jump-starting-your-web-development-career-1f9m)
+- [Dev.to/JS] [One-click JavaScript code obfuscation](https://dev.to/w2sft/one-click-javascript-code-obfuscation-40nc)
+- [Dev.to/JS] [Help me to make a decision: which language should I choose?](https://dev.to/codernex/help-me-to-make-a-decision-which-language-should-i-choose-4ngk)
+- [Dev.to/JS] [Pattern matching meets JS](https://dev.to/vial0ft/pattern-matching-meets-js-2pga)
 - [Dev.to/JS] [Must-follow Ethics behind Pragmatic Programmer](https://dev.to/shravan20/must-follow-ethics-behind-pragmatic-programmer-3ipk)
 - [Dev.to/JS] [Unraveling the Code: A Journey into the Enigmatic World of Computer Programming](https://dev.to/athifbinu/unraveling-the-code-a-journey-into-the-enigmatic-world-of-computer-programming-1h71)
 - [Dev.to/JS] [MJGS Newsletter - Synthetic Biology Inside &lpar;Issue #123&rpar;](https://dev.to/mjgs/mjgs-newsletter-synthetic-biology-inside-issue-123-a75)
@@ -34,13 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deploying Sveltekit on IIS !](https://dev.to/nnutnonn/deploying-sveltekit-on-iis--5gf6)
 - [Dev.to/JS] [JavaScript String Methods](https://dev.to/maame_afia/javascript-string-methods-3oon)
 - [Lifehacker] [Quit Making Boring Scrambled Eggs](https://lifehacker.com/8-ways-to-make-better-scrambled-eggs-1846859812)
-- [Dev.to/JS] [How to avoid Technical Debt? Discover the foolproof strategies to steer clear of technical debt.](https://dev.to/axsh/how-to-avoid-technical-debt-discover-the-foolproof-strategies-to-steer-clear-of-technical-debt-2kkn)
-- [Dev.to/JS] [Introducing ESTSSH, the configurationless static website generator](https://dev.to/aclarembeau/introducing-estssh-the-configurationless-static-website-generator-1ll1)
 - [Lifehacker] [17 Surprising Household Uses for Tennis Balls](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)
 - [Lifehacker] [Introduce ChatGPT to an Absolute Beginner With This $10 Course](https://lifehacker.com/introduce-chatgpt-to-an-absolute-beginner-with-this-10-1850629775)
-- [Dev.to/JS] [Mastering React&#39;s useContext Hook: A Comprehensive Guide](https://dev.to/ibrahzizo360/mastering-reacts-usecontext-hook-a-comprehensive-guide-2700)
-- [Dev.to/JS] [Leveraging AI to Maximize Profits for Short-Term Rentals](https://dev.to/plantsmiles/leveraging-ai-to-maximize-profits-for-short-term-rentals-c50)
-- [Dev.to/JS] [How to Run JEST in Github Actions with Firestore](https://dev.to/thepylot/how-to-run-jest-in-github-actions-with-firestore-4gg4)
 - [Lifehacker] [Why You Probably Shouldn’t Wrap Your Car](https://lifehacker.com/why-you-probably-shouldn-t-wrap-your-car-1850641373)
 - [Lifehacker] [20 Places to Legally Download or Stream Movies for Free](https://lifehacker.com/top-10-places-to-download-or-stream-movies-for-free-le-1782772455)
 - [Lifehacker] [Use a Mind Map to Increase Your Productivity](https://lifehacker.com/use-a-mind-map-to-increase-your-productivity-1850641534)
