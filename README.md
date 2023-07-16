@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [C# Custom Validators](https://dev.to/ahmedshahjr/c-custom-validators-20c8)
+- [Dev.to/JS] [Craft Your Own Unique Modal &lpar;Popups&rpar; with HTML, CSS, and JavaScript!](https://dev.to/officialanurag/craft-your-own-unique-modal-popups-with-html-css-and-javascript-b0m)
+- [Dev.to/JS] [Tema claro y oscuro](https://dev.to/pacmankabh/tema-claro-y-oscuro-jgf)
 - [Dev.to/JS] [What is Event in JS &lpar;Javascript&rpar; ?](https://dev.to/diwakarkashyap/what-is-event-in-js-javascript--3302)
 - [Dev.to/JS] [Svelte - My new pet framework](https://dev.to/fricardi/svelte-my-new-pet-framework-8k0)
 - [Dev.to/JS] [Level Up Your Open Source Contributions with These Amazing Tools!](https://dev.to/deepakrudrapaul/level-up-your-open-source-contributions-with-these-amazing-tools-3knk)
@@ -37,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Extend VSCode workspace settings from another file](https://dev.to/kalimahapps/extend-vscode-workspace-settings-from-another-file-54b2)
 - [Lifehacker] [The Airports Most Likely to Lose or Damage Your Luggage](https://lifehacker.com/the-airports-most-likely-to-lose-or-damage-your-luggage-1850641885)
 - [Dev.to/JS] [This can be your next project](https://dev.to/shreyvijayvargiya/this-can-be-your-next-project-9bj)
-- [Dev.to/JS] [Create a Letter Counter App in JavaScript](https://dev.to/onlineittutstutorials/create-a-letter-counter-app-in-javascript-41nm)
-- [Dev.to/JS] [Getting started with NodeJS file system](https://dev.to/mahmoudwedev/getting-started-with-nodejs-file-system-44m4)
-- [Dev.to/JS] [JavaScript Naming Conventions: Unlocking the Secrets to Clear and Concise Code](https://dev.to/adii/javascript-naming-conventions-unlocking-the-secrets-to-clear-and-concise-code-23a9)
 - [Lifehacker] [The States With the Best Tap Water &lpar;and What to Do If Your State Has the Worst&rpar;](https://lifehacker.com/the-states-with-the-best-tap-water-and-what-to-do-if-y-1850641803)
 - [Lifehacker] [Use This Phone Number to Find a Cooling Center Near You](https://lifehacker.com/use-this-phone-number-to-find-a-cooling-center-near-you-1850641814)
 - [Lifehacker] [Breeze Airways&#39; Flash Sale Just Might Be Worth It](https://lifehacker.com/breeze-airways-flash-sale-just-might-be-worth-it-1850641826)
