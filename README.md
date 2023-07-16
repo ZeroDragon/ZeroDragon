@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TypeScript Nedir?](https://dev.to/battincik/typescript-nedir-3ma)
+- [Dev.to/JS] [Javascript Nedir?](https://dev.to/battincik/javascript-nedir-2b45)
 - [Dev.to/JS] [Unleashing the Power of TypeScript: Key Considerations in tsconfig](https://dev.to/nodge/unleashing-the-power-of-typescript-key-considerations-in-tsconfig-41oo)
 - [Dev.to/JS] [Creating API with Nest.js and MongoDB.](https://dev.to/rutvikjani/creating-api-with-nestjs-and-mongodb-28k1)
 - [Dev.to/JS] [How to Secure Your Router: A Comprehensive Guide to Fortify Your Home Network](https://dev.to/mobilesecure23/how-to-secure-your-router-a-comprehensive-guide-to-fortify-your-home-network-3a5n)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a privacy-friendly, self-hosted application architecture with SvelteKit](https://dev.to/khromov/building-a-privacy-friendly-self-hosted-application-architecture-with-sveltekit-4o4k)
 - [Dev.to/JS] [Creating a Chrome Extension - A Hands-On Tutorial with YouTube Remaining](https://dev.to/dikka/creating-a-chrome-extension-a-hands-on-tutorial-with-youtube-remaining-4290)
 - [Dev.to/JS] [Demystifying Array Methods](https://dev.to/noriller/demystifying-array-methods-2bml)
-- [Dev.to/JS] [move all instances of that target value to the end end of the array](https://dev.to/chandrapenugonda/move-all-instances-of-that-target-value-to-the-end-end-of-the-array-4dmn)
-- [Dev.to/JS] [Weather App with MEAN Stack](https://dev.to/syedmuhammadaliraza/weather-app-with-mean-stack-1dlh)
 - [Lifehacker] [The States With the Best Tap Water &lpar;and What to Do If Your State Has the Worst&rpar;](https://lifehacker.com/the-states-with-the-best-tap-water-and-what-to-do-if-y-1850641803)
 - [Lifehacker] [Use This Phone Number to Find a Cooling Center Near You](https://lifehacker.com/use-this-phone-number-to-find-a-cooling-center-near-you-1850641814)
 - [Lifehacker] [Breeze Airways&#39; Flash Sale Just Might Be Worth It](https://lifehacker.com/breeze-airways-flash-sale-just-might-be-worth-it-1850641826)
