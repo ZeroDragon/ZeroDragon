@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Level Up Your Open Source Contributions with These Amazing Tools!](https://dev.to/deepakrudrapaul/level-up-your-open-source-contributions-with-these-amazing-tools-3knk)
+- [Dev.to/JS] [Yet Another Newsletter LOL: 2 Full 2 Stack](https://dev.to/nickytonline/yet-another-newsletter-lol-2-full-2-stack-li0)
+- [Dev.to/JS] [5 Different Ways to Get Contributors through the GitHub API](https://dev.to/hadithtech/5-different-ways-to-get-contributors-through-the-github-api-4gc)
 - [Dev.to/JS] [Create a passcode component from scratch in React](https://dev.to/keyurparalkar/create-a-passcode-component-from-scratch-in-react-4l88)
 - [Dev.to/JS] [Understanding JavaScript Debounce and Throttling](https://dev.to/ranaivo_rova/understanding-javascript-debounce-and-throttling-219o)
 - [Dev.to/JS] [Extend VSCode workspace settings from another file](https://dev.to/kalimahapps/extend-vscode-workspace-settings-from-another-file-54b2)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Naming Conventions: Unlocking the Secrets to Clear and Concise Code](https://dev.to/adii/javascript-naming-conventions-unlocking-the-secrets-to-clear-and-concise-code-23a9)
 - [Dev.to/JS] [Don’t attach to any programming language](https://dev.to/ahmadswalih/dont-attach-to-any-programming-language-2cnm)
 - [Dev.to/JS] [[enhance-log]to add log filename, line, argument name and separator](https://dev.to/baozouai/enhance-logto-add-log-filename-line-argument-name-and-separator-3d65)
-- [Dev.to/JS] [ReactJS: infinite scroll with IntersectionObserver](https://dev.to/dmytrych/implementing-infinite-scroll-in-a-react-app-using-intersectionobserver-f6h)
-- [Dev.to/JS] [Introduction to create-pie-app](https://dev.to/dongdongzhang/introduction-to-create-pie-app-4n48)
-- [Dev.to/JS] [TypeScript Nedir?](https://dev.to/battincik/typescript-nedir-3ma)
 - [Lifehacker] [The States With the Best Tap Water &lpar;and What to Do If Your State Has the Worst&rpar;](https://lifehacker.com/the-states-with-the-best-tap-water-and-what-to-do-if-y-1850641803)
 - [Lifehacker] [Use This Phone Number to Find a Cooling Center Near You](https://lifehacker.com/use-this-phone-number-to-find-a-cooling-center-near-you-1850641814)
 - [Lifehacker] [Breeze Airways&#39; Flash Sale Just Might Be Worth It](https://lifehacker.com/breeze-airways-flash-sale-just-might-be-worth-it-1850641826)
