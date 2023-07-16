@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node.js Event Loop](https://dev.to/kavithamg/nodejs-event-loop-3da)
+- [Dev.to/JS] [ALX Portfolio Project](https://dev.to/martinsolumide8/alx-portfolio-project-38gd)
+- [Lifehacker] [Four Kitchen Items You Should Wash Outdoors](https://lifehacker.com/four-kitchen-items-you-should-wash-outdoors-1850641873)
 - [Dev.to/JS] [C# Custom Validators](https://dev.to/ahmedshahjr/c-custom-validators-20c8)
 - [Dev.to/JS] [Craft Your Own Unique Modal &lpar;Popups&rpar; with HTML, CSS, and JavaScript!](https://dev.to/officialanurag/craft-your-own-unique-modal-popups-with-html-css-and-javascript-b0m)
 - [Dev.to/JS] [Tema claro y oscuro](https://dev.to/pacmankabh/tema-claro-y-oscuro-jgf)
@@ -37,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Different Ways to Get Contributors through the GitHub API](https://dev.to/hadithtech/5-different-ways-to-get-contributors-through-the-github-api-4gc)
 - [Dev.to/JS] [Create a passcode component from scratch in React](https://dev.to/keyurparalkar/create-a-passcode-component-from-scratch-in-react-4l88)
 - [Dev.to/JS] [Understanding JavaScript Debounce and Throttling](https://dev.to/ranaivo_rova/understanding-javascript-debounce-and-throttling-219o)
-- [Dev.to/JS] [Extend VSCode workspace settings from another file](https://dev.to/kalimahapps/extend-vscode-workspace-settings-from-another-file-54b2)
 - [Lifehacker] [The Airports Most Likely to Lose or Damage Your Luggage](https://lifehacker.com/the-airports-most-likely-to-lose-or-damage-your-luggage-1850641885)
-- [Dev.to/JS] [This can be your next project](https://dev.to/shreyvijayvargiya/this-can-be-your-next-project-9bj)
 - [Lifehacker] [The States With the Best Tap Water &lpar;and What to Do If Your State Has the Worst&rpar;](https://lifehacker.com/the-states-with-the-best-tap-water-and-what-to-do-if-y-1850641803)
 - [Lifehacker] [Use This Phone Number to Find a Cooling Center Near You](https://lifehacker.com/use-this-phone-number-to-find-a-cooling-center-near-you-1850641814)
 - [Lifehacker] [Breeze Airways&#39; Flash Sale Just Might Be Worth It](https://lifehacker.com/breeze-airways-flash-sale-just-might-be-worth-it-1850641826)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Combine Sour and Whipped Cream for This Incredible Whipped Topping](https://lifehacker.com/combine-sour-and-whipped-cream-for-this-incredible-whip-1850638476)
 - [Lifehacker] [How to Bring Weed Into the Bedroom](https://lifehacker.com/how-to-bring-weed-into-the-bedroom-1850565448)
 - [Lifehacker] [The Best High-Protein Snacks You Can Get at a Gas Station](https://lifehacker.com/the-best-high-protein-snacks-you-can-get-at-a-gas-stati-1850626401)
-- [Lifehacker] [When Should I Take My Kids to the Movie Theater for the First Time?](https://lifehacker.com/when-should-i-take-my-kids-to-the-movie-theater-for-the-1850627595)
-- [Lifehacker] [Build an Ice Cream Cake Right in a Sara Lee Tin](https://lifehacker.com/build-an-ice-cream-cake-right-in-a-sara-lee-tin-1850637892)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When Should I Take My Kids to the Movie Theater for the First Time?](https://lifehacker.com/when-should-i-take-my-kids-to-the-movie-theater-for-the-1850627595)<!-- TECH-POSTS:END -->
 
 ---
 
