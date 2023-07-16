@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Airports Most Likely to Lose or Damage Your Luggage](https://lifehacker.com/the-airports-most-likely-to-lose-or-damage-your-luggage-1850641885)
+- [Dev.to/JS] [This can be your next project](https://dev.to/shreyvijayvargiya/this-can-be-your-next-project-9bj)
 - [Dev.to/JS] [Create a Letter Counter App in JavaScript](https://dev.to/onlineittutstutorials/create-a-letter-counter-app-in-javascript-41nm)
 - [Dev.to/JS] [Getting started with NodeJS file system](https://dev.to/mahmoudwedev/getting-started-with-nodejs-file-system-44m4)
 - [Dev.to/JS] [JavaScript Naming Conventions: Unlocking the Secrets to Clear and Concise Code](https://dev.to/adii/javascript-naming-conventions-unlocking-the-secrets-to-clear-and-concise-code-23a9)
 - [Dev.to/JS] [Don’t attach to any programming language](https://dev.to/ahmadswalih/dont-attach-to-any-programming-language-2cnm)
 - [Dev.to/JS] [[enhance-log]to add log filename, line, argument name and separator](https://dev.to/baozouai/enhance-logto-add-log-filename-line-argument-name-and-separator-3d65)
-- [Dev.to/JS] [Implementing Infinite Scroll in a React App using IntersectionObserver](https://dev.to/dmytrych/implementing-infinite-scroll-in-a-react-app-using-intersectionobserver-f6h)
+- [Dev.to/JS] [ReactJS: infinite scroll with IntersectionObserver](https://dev.to/dmytrych/implementing-infinite-scroll-in-a-react-app-using-intersectionobserver-f6h)
 - [Dev.to/JS] [Introduction to create-pie-app](https://dev.to/dongdongzhang/introduction-to-create-pie-app-4n48)
 - [Dev.to/JS] [TypeScript Nedir?](https://dev.to/battincik/typescript-nedir-3ma)
 - [Dev.to/JS] [Javascript Nedir?](https://dev.to/battincik/javascript-nedir-2b45)
 - [Dev.to/JS] [Unleashing the Power of TypeScript: Key Considerations in tsconfig](https://dev.to/nodge/unleashing-the-power-of-typescript-key-considerations-in-tsconfig-41oo)
 - [Dev.to/JS] [Creating API with Nest.js and MongoDB.](https://dev.to/rutvikjani/creating-api-with-nestjs-and-mongodb-28k1)
-- [Dev.to/JS] [How to Secure Your Router: A Comprehensive Guide to Fortify Your Home Network](https://dev.to/mobilesecure23/how-to-secure-your-router-a-comprehensive-guide-to-fortify-your-home-network-3a5n)
 - [Lifehacker] [The States With the Best Tap Water &lpar;and What to Do If Your State Has the Worst&rpar;](https://lifehacker.com/the-states-with-the-best-tap-water-and-what-to-do-if-y-1850641803)
 - [Lifehacker] [Use This Phone Number to Find a Cooling Center Near You](https://lifehacker.com/use-this-phone-number-to-find-a-cooling-center-near-you-1850641814)
 - [Lifehacker] [Breeze Airways&#39; Flash Sale Just Might Be Worth It](https://lifehacker.com/breeze-airways-flash-sale-just-might-be-worth-it-1850641826)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best High-Protein Snacks You Can Get at a Gas Station](https://lifehacker.com/the-best-high-protein-snacks-you-can-get-at-a-gas-stati-1850626401)
 - [Lifehacker] [When Should I Take My Kids to the Movie Theater for the First Time?](https://lifehacker.com/when-should-i-take-my-kids-to-the-movie-theater-for-the-1850627595)
 - [Lifehacker] [Build an Ice Cream Cake Right in a Sara Lee Tin](https://lifehacker.com/build-an-ice-cream-cake-right-in-a-sara-lee-tin-1850637892)
-- [Lifehacker] [You Can Finally Ping Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-ping-your-apple-watch-from-your-iphone-1850636856)
-- [Lifehacker] [These Post-Prime-Day Deals Are Still Going at Target and Walmart](https://lifehacker.com/these-post-prime-day-deals-are-still-going-at-target-an-1850637603)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Finally Ping Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-ping-your-apple-watch-from-your-iphone-1850636856)<!-- TECH-POSTS:END -->
 
 ---
 
