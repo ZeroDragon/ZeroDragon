@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to efficiently remove elements from an array in 2023.](https://dev.to/melvinvmegen/how-to-efficiently-remove-elements-from-an-array-in-2023-3i14)
 - [Dev.to/JS] [innerHTML, outerHTML and other properties #20](https://dev.to/sksage/innerhtml-outerhtml-and-other-properties-20-24ne)
 - [Dev.to/JS] [Should you go through frontend questions before job interview?](https://dev.to/alenvarazdinac/should-you-go-through-frontend-questions-before-job-interview-c67)
 - [Dev.to/JS] [Legal translation is important in Dubai for several reasons](https://dev.to/kissasianl/legal-translation-is-important-in-dubai-for-several-reasons-2l1g)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tema claro y oscuro](https://dev.to/pacmankabh/tema-claro-y-oscuro-jgf)
 - [Dev.to/JS] [What is Event in JS &lpar;Javascript&rpar; ?](https://dev.to/diwakarkashyap/what-is-event-in-js-javascript--3302)
 - [Dev.to/JS] [Svelte - My new pet framework](https://dev.to/fricardi/svelte-my-new-pet-framework-8k0)
-- [Dev.to/JS] [Level Up Your Open Source Contributions with These Amazing Tools!](https://dev.to/deepakrudrapaul/level-up-your-open-source-contributions-with-these-amazing-tools-3knk)
 - [Lifehacker] [Use Salt to Revive Your Kitchen Sponge](https://lifehacker.com/use-salt-to-revive-your-kitchen-sponge-1850641897)
 - [Lifehacker] [The Airports Most Likely to Lose or Damage Your Luggage](https://lifehacker.com/the-airports-most-likely-to-lose-or-damage-your-luggage-1850641885)
 - [Lifehacker] [The States With the Best Tap Water &lpar;and What to Do If Your State Has the Worst&rpar;](https://lifehacker.com/the-states-with-the-best-tap-water-and-what-to-do-if-y-1850641803)
