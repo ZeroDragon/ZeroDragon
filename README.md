@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Make JSON file validator in just 5 lines 👀](https://dev.to/noble7/a-json-file-validator-web-app-in-just-5-lines-4lk7)
 - [Dev.to/JS] [Building a Progressive Web App with React](https://dev.to/elliot_brenya/building-a-progressive-web-app-with-react-ifd)
 - [Dev.to/JS] [Building a privacy-friendly, self-hosted application architecture with SvelteKit](https://dev.to/khromov/building-a-privacy-friendly-self-hosted-application-architecture-with-sveltekit-4o4k)
 - [Dev.to/JS] [Creating a Chrome Extension - A Hands-On Tutorial with YouTube Remaining](https://dev.to/dikka/creating-a-chrome-extension-a-hands-on-tutorial-with-youtube-remaining-4290)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Quiz #07 - Understanding Control Flow in JavaScript](https://dev.to/quizzes4u/javascript-quiz-07-understanding-control-flow-in-javascript-1fc0)
 - [Dev.to/JS] [An OOP sudocode representation of the JS event loop](https://dev.to/deanglukler/an-oop-sudocode-representation-of-the-js-event-loop-33no)
 - [Dev.to/JS] [How to Reduce HTTP Calls From 15 Lines to 2 Lines Using React SWR](https://dev.to/mohammadfaisal/how-to-reduce-http-calls-from-15-lines-to-2-lines-using-react-swr-ank)
-- [Dev.to/JS] [10 Essential Websites Every Developer Should Know](https://dev.to/gaurbprajapati/10-essential-websites-every-developer-should-know-3hip)
 - [Lifehacker] [The States With the Best Tap Water &lpar;and What to Do If Your State Has the Worst&rpar;](https://lifehacker.com/the-states-with-the-best-tap-water-and-what-to-do-if-y-1850641803)
 - [Lifehacker] [Use This Phone Number to Find a Cooling Center Near You](https://lifehacker.com/use-this-phone-number-to-find-a-cooling-center-near-you-1850641814)
 - [Lifehacker] [Breeze Airways&#39; Flash Sale Just Might Be Worth It](https://lifehacker.com/breeze-airways-flash-sale-just-might-be-worth-it-1850641826)
