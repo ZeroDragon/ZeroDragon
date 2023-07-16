@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Event in JS &lpar;Javascript&rpar; ?](https://dev.to/diwakarkashyap/what-is-event-in-js-javascript--3302)
+- [Dev.to/JS] [Svelte - My new pet framework](https://dev.to/fricardi/svelte-my-new-pet-framework-8k0)
 - [Dev.to/JS] [Level Up Your Open Source Contributions with These Amazing Tools!](https://dev.to/deepakrudrapaul/level-up-your-open-source-contributions-with-these-amazing-tools-3knk)
+- [Lifehacker] [Use Salt to Revive Your Kitchen Sponge](https://lifehacker.com/use-salt-to-revive-your-kitchen-sponge-1850641897)
 - [Dev.to/JS] [Yet Another Newsletter LOL: 2 Full 2 Stack](https://dev.to/nickytonline/yet-another-newsletter-lol-2-full-2-stack-li0)
 - [Dev.to/JS] [5 Different Ways to Get Contributors through the GitHub API](https://dev.to/hadithtech/5-different-ways-to-get-contributors-through-the-github-api-4gc)
 - [Dev.to/JS] [Create a passcode component from scratch in React](https://dev.to/keyurparalkar/create-a-passcode-component-from-scratch-in-react-4l88)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a Letter Counter App in JavaScript](https://dev.to/onlineittutstutorials/create-a-letter-counter-app-in-javascript-41nm)
 - [Dev.to/JS] [Getting started with NodeJS file system](https://dev.to/mahmoudwedev/getting-started-with-nodejs-file-system-44m4)
 - [Dev.to/JS] [JavaScript Naming Conventions: Unlocking the Secrets to Clear and Concise Code](https://dev.to/adii/javascript-naming-conventions-unlocking-the-secrets-to-clear-and-concise-code-23a9)
-- [Dev.to/JS] [Don’t attach to any programming language](https://dev.to/ahmadswalih/dont-attach-to-any-programming-language-2cnm)
-- [Dev.to/JS] [[enhance-log]to add log filename, line, argument name and separator](https://dev.to/baozouai/enhance-logto-add-log-filename-line-argument-name-and-separator-3d65)
 - [Lifehacker] [The States With the Best Tap Water &lpar;and What to Do If Your State Has the Worst&rpar;](https://lifehacker.com/the-states-with-the-best-tap-water-and-what-to-do-if-y-1850641803)
 - [Lifehacker] [Use This Phone Number to Find a Cooling Center Near You](https://lifehacker.com/use-this-phone-number-to-find-a-cooling-center-near-you-1850641814)
 - [Lifehacker] [Breeze Airways&#39; Flash Sale Just Might Be Worth It](https://lifehacker.com/breeze-airways-flash-sale-just-might-be-worth-it-1850641826)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Bring Weed Into the Bedroom](https://lifehacker.com/how-to-bring-weed-into-the-bedroom-1850565448)
 - [Lifehacker] [The Best High-Protein Snacks You Can Get at a Gas Station](https://lifehacker.com/the-best-high-protein-snacks-you-can-get-at-a-gas-stati-1850626401)
 - [Lifehacker] [When Should I Take My Kids to the Movie Theater for the First Time?](https://lifehacker.com/when-should-i-take-my-kids-to-the-movie-theater-for-the-1850627595)
-- [Lifehacker] [Build an Ice Cream Cake Right in a Sara Lee Tin](https://lifehacker.com/build-an-ice-cream-cake-right-in-a-sara-lee-tin-1850637892)
-- [Lifehacker] [You Can Finally Ping Your Apple Watch From Your iPhone](https://lifehacker.com/you-can-finally-ping-your-apple-watch-from-your-iphone-1850636856)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Build an Ice Cream Cake Right in a Sara Lee Tin](https://lifehacker.com/build-an-ice-cream-cake-right-in-a-sara-lee-tin-1850637892)<!-- TECH-POSTS:END -->
 
 ---
 
