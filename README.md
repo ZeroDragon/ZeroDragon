@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a Letter Counter App in JavaScript](https://dev.to/onlineittutstutorials/create-a-letter-counter-app-in-javascript-41nm)
+- [Dev.to/JS] [Getting started with NodeJS file system](https://dev.to/mahmoudwedev/getting-started-with-nodejs-file-system-44m4)
+- [Dev.to/JS] [JavaScript Naming Conventions: Unlocking the Secrets to Clear and Concise Code](https://dev.to/adii/javascript-naming-conventions-unlocking-the-secrets-to-clear-and-concise-code-23a9)
 - [Dev.to/JS] [Don’t attach to any programming language](https://dev.to/ahmadswalih/dont-attach-to-any-programming-language-2cnm)
 - [Dev.to/JS] [[enhance-log]to add log filename, line, argument name and separator](https://dev.to/baozouai/enhance-logto-add-log-filename-line-argument-name-and-separator-3d65)
 - [Dev.to/JS] [Implementing Infinite Scroll in a React App using IntersectionObserver](https://dev.to/dmytrych/implementing-infinite-scroll-in-a-react-app-using-intersectionobserver-f6h)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unleashing the Power of TypeScript: Key Considerations in tsconfig](https://dev.to/nodge/unleashing-the-power-of-typescript-key-considerations-in-tsconfig-41oo)
 - [Dev.to/JS] [Creating API with Nest.js and MongoDB.](https://dev.to/rutvikjani/creating-api-with-nestjs-and-mongodb-28k1)
 - [Dev.to/JS] [How to Secure Your Router: A Comprehensive Guide to Fortify Your Home Network](https://dev.to/mobilesecure23/how-to-secure-your-router-a-comprehensive-guide-to-fortify-your-home-network-3a5n)
-- [Dev.to/JS] [Needs to convert dynamic html content to pdf](https://dev.to/prvnig/needs-to-convert-dynamic-html-content-to-pdf-2fl7)
-- [Dev.to/JS] [JavaScipt Classes, What Are They?](https://dev.to/oldingb21/javascipt-classes-what-are-they-173k)
-- [Dev.to/JS] [Make JSON file validator in just 5 lines 👀](https://dev.to/noble7/a-json-file-validator-web-app-in-just-5-lines-4lk7)
 - [Lifehacker] [The States With the Best Tap Water &lpar;and What to Do If Your State Has the Worst&rpar;](https://lifehacker.com/the-states-with-the-best-tap-water-and-what-to-do-if-y-1850641803)
 - [Lifehacker] [Use This Phone Number to Find a Cooling Center Near You](https://lifehacker.com/use-this-phone-number-to-find-a-cooling-center-near-you-1850641814)
 - [Lifehacker] [Breeze Airways&#39; Flash Sale Just Might Be Worth It](https://lifehacker.com/breeze-airways-flash-sale-just-might-be-worth-it-1850641826)
