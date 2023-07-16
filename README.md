@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [innerHTML, outerHTML and other properties #20](https://dev.to/sksage/innerhtml-outerhtml-and-other-properties-20-24ne)
 - [Dev.to/JS] [Should you go through frontend questions before job interview?](https://dev.to/alenvarazdinac/should-you-go-through-frontend-questions-before-job-interview-c67)
 - [Dev.to/JS] [Legal translation is important in Dubai for several reasons](https://dev.to/kissasianl/legal-translation-is-important-in-dubai-for-several-reasons-2l1g)
 - [Dev.to/JS] [search target in nums array](https://dev.to/chandrapenugonda/search-target-in-nums-array-39bl)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Svelte - My new pet framework](https://dev.to/fricardi/svelte-my-new-pet-framework-8k0)
 - [Dev.to/JS] [Level Up Your Open Source Contributions with These Amazing Tools!](https://dev.to/deepakrudrapaul/level-up-your-open-source-contributions-with-these-amazing-tools-3knk)
 - [Lifehacker] [Use Salt to Revive Your Kitchen Sponge](https://lifehacker.com/use-salt-to-revive-your-kitchen-sponge-1850641897)
-- [Dev.to/JS] [Yet Another Newsletter LOL: 2 Full 2 Stack](https://dev.to/nickytonline/yet-another-newsletter-lol-2-full-2-stack-li0)
 - [Lifehacker] [The Airports Most Likely to Lose or Damage Your Luggage](https://lifehacker.com/the-airports-most-likely-to-lose-or-damage-your-luggage-1850641885)
 - [Lifehacker] [The States With the Best Tap Water &lpar;and What to Do If Your State Has the Worst&rpar;](https://lifehacker.com/the-states-with-the-best-tap-water-and-what-to-do-if-y-1850641803)
 - [Lifehacker] [Use This Phone Number to Find a Cooling Center Near You](https://lifehacker.com/use-this-phone-number-to-find-a-cooling-center-near-you-1850641814)
