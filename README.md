@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Where to Watch &#39;Record of Ragnarök&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-record-of-ragnarok-and-what-you-should-1850631126)
+- [Lifehacker] [Where to Watch Harley Quinn Season 4 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-harley-quinn-season-4-and-what-you-shou-1850625831)
 - [Lifehacker] [The Best Ways to Stay Cool on a Sweltering Hot Camping Trip](https://lifehacker.com/the-best-ways-to-stay-cool-on-a-sweltering-hot-camping-1850649119)
 - [Dev.to/JS] [Selecting Elements From DOM in JavaScript](https://dev.to/jacknorman235/selecting-elements-from-dom-in-javascript-29ka)
 - [Lifehacker] [Seven Ways to Make Sure Your Curbside Delivery Is What You Actually Ordered](https://lifehacker.com/seven-ways-to-make-sure-your-curbside-delivery-is-what-1850646488)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Ocean Disaster Podcasts That Will Ruin Your Beach Vacation](https://lifehacker.com/12-ocean-disaster-podcasts-that-will-ruin-your-beach-va-1850623861)
 - [Lifehacker] [How to Know If the Education Department Is Forgiving Your Student Loan](https://lifehacker.com/how-to-know-if-the-education-department-is-forgiving-yo-1850642973)
 - [Lifehacker] [Put a Frozen Pineapple Core In Your Water Bottle](https://lifehacker.com/put-a-frozen-pineapple-core-in-your-water-bottle-1850642419)
-- [Lifehacker] [TikTok ‘Diet’ of the Week: The Ice Hack for Weight Loss Is an Ad for a Dumb Supplement](https://lifehacker.com/tiktok-diet-of-the-week-the-ice-hack-for-weight-loss-1850642691)
-- [Lifehacker] [How the SAG-AFTRA Strike Affects You &lpar;and How to Support the Actors&rpar;](https://lifehacker.com/how-the-sag-aftra-strike-affects-you-and-how-to-suppor-1850643004)
-- [Lifehacker] [Four Kitchen Items You Should Wash Outdoors](https://lifehacker.com/four-kitchen-items-you-should-wash-outdoors-1850641873)<!-- TECH-POSTS:END -->
+- [Lifehacker] [TikTok ‘Diet’ of the Week: The Ice Hack for Weight Loss Is an Ad for a Dumb Supplement](https://lifehacker.com/tiktok-diet-of-the-week-the-ice-hack-for-weight-loss-1850642691)<!-- TECH-POSTS:END -->
 
 ---
 
