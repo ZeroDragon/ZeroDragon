@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Beginner TypeScript: Vanilla&amp;React Comparison](https://dev.to/yoriss67/beginner-typescript-vanillareact-comparison-2fhk)
 - [Dev.to/JS] [Applied AI at Scale with AI-Assisted Data Science](https://dev.to/aiforme/applied-ai-at-scale-with-ai-assisted-data-science-5d9i)
 - [Dev.to/JS] [Cheat Sheet for Uppy File Uploader](https://dev.to/andreiabohner/cheat-sheet-for-uppy-file-uploader-12a2)
 - [Dev.to/JS] [What is the Future of a Web Developer?](https://dev.to/blackhorse0101/what-is-the-future-of-a-web-developer-nc8)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to efficiently remove elements from an array in 2023.](https://dev.to/melvinvmegen/how-to-efficiently-remove-elements-from-an-array-in-2023-3i14)
 - [Dev.to/JS] [innerHTML, outerHTML and other properties #20](https://dev.to/sksage/innerhtml-outerhtml-and-other-properties-20-24ne)
 - [Dev.to/JS] [Should you go through frontend questions before job interview?](https://dev.to/alenvarazdinac/should-you-go-through-frontend-questions-before-job-interview-c67)
-- [Dev.to/JS] [Legal translation is important in Dubai for several reasons](https://dev.to/kissasianl/legal-translation-is-important-in-dubai-for-several-reasons-2l1g)
 - [Lifehacker] [Four Kitchen Items You Should Wash Outdoors](https://lifehacker.com/four-kitchen-items-you-should-wash-outdoors-1850641873)
 - [Lifehacker] [Use Salt to Revive Your Kitchen Sponge](https://lifehacker.com/use-salt-to-revive-your-kitchen-sponge-1850641897)
 - [Lifehacker] [The Airports Most Likely to Lose or Damage Your Luggage](https://lifehacker.com/the-airports-most-likely-to-lose-or-damage-your-luggage-1850641885)
