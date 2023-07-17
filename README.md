@@ -26,7 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Stop Eating Raw Oysters](https://lifehacker.com/why-you-should-stop-eating-raw-oysters-1850642677)
+- [Dev.to/JS] [Career in Psychiatry UK – Unleash Potential in Psychiatry](https://dev.to/pmrcpsych91129/career-in-psychiatry-uk-unleash-potential-in-psychiatry-5gpo)
+- [Lifehacker] [Nine Better Ways to Skinny Dip](https://lifehacker.com/nine-better-ways-to-skinny-dip-1850646501)
+- [Lifehacker] [Don&#39;t Fall for These 12 Fitness Myths From TikTok Influencers](https://lifehacker.com/dont-fall-for-these-12-fitness-myths-from-tiktok-influe-1846966596)
+- [Dev.to/JS] [Javascript on HTML Page - help ChatGPT and Me](https://dev.to/colink/javascript-on-html-page-help-chatgpt-and-me-4nd)
+- [Dev.to/JS] [How to inspect transient DOM elements](https://dev.to/mellis481/how-to-inspect-transient-dom-elements-3h9d)
 - [Dev.to/JS] [Help me](https://dev.to/passion117/help-me-30m9)
+- [Lifehacker] [You Can Now Securely Share Apple Passkeys](https://lifehacker.com/you-can-now-securely-share-apple-passkeys-1850646649)
 - [Dev.to/JS] [VSCode React Snippets Extension](https://dev.to/onureren/vscode-react-snippets-extension-39l2)
 - [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
 - [Lifehacker] [This Refurbished MacBook Air Is Almost 70% Off](https://lifehacker.com/this-refurbished-macbook-air-is-almost-70-off-1850638589)
@@ -41,10 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Everything You Need to Know About JavaScript DOM &lpar;Document Object Model&rpar;](https://dev.to/devshefali/everything-you-need-to-know-about-javascript-dom-document-object-model-1l75)
 - [Dev.to/JS] [Day 6: Closures in JavaScript](https://dev.to/dhrn/day-6-closures-in-javascript-5d9f)
 - [Lifehacker] [TikTok ‘Diet’ of the Week: The Ice Hack for Weight Loss Is an Ad for a Dumb Supplement](https://lifehacker.com/tiktok-diet-of-the-week-the-ice-hack-for-weight-loss-1850642691)
-- [Dev.to/JS] [How to reduce the file size of a PDF using Node.js](https://dev.to/woovi/how-to-reduce-the-file-size-of-a-pdf-using-nodejs-50b2)
 - [Lifehacker] [How the SAG-AFTRA Strike Affects You &lpar;and How to Support the Actors&rpar;](https://lifehacker.com/how-the-sag-aftra-strike-affects-you-and-how-to-suppor-1850643004)
-- [Dev.to/JS] [BEST CYBER HACKING PLATFORM](https://dev.to/aweaken404/best-cyber-hacking-platform-52lh)
-- [Dev.to/JS] [3 Mistakes I Made When I Was First Learning To Code](https://dev.to/onureren/3-mistakes-i-made-when-i-was-first-learning-to-code-94b)
 - [Lifehacker] [Four Kitchen Items You Should Wash Outdoors](https://lifehacker.com/four-kitchen-items-you-should-wash-outdoors-1850641873)
 - [Lifehacker] [Use Salt to Revive Your Kitchen Sponge](https://lifehacker.com/use-salt-to-revive-your-kitchen-sponge-1850641897)
 - [Lifehacker] [The Airports Most Likely to Lose or Damage Your Luggage](https://lifehacker.com/the-airports-most-likely-to-lose-or-damage-your-luggage-1850641885)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get Microsoft Office for Mac or Windows For Life for $30](https://lifehacker.com/get-microsoft-office-for-mac-or-windows-for-life-for-3-1850629704)
 - [Lifehacker] [Mattresses, Internet Access, and Other Prices You Didn&#39;t Know You Can Haggle Over](https://lifehacker.com/mattresses-internet-access-and-other-prices-you-didnt-1850631517)
 - [Lifehacker] [You Can Finally Use iCloud Keychain in Chrome](https://lifehacker.com/you-can-finally-use-icloud-keychain-in-chrome-1850639711)
-- [Lifehacker] [How to Have a Summer Fling Without Being a Jerk](https://lifehacker.com/how-to-have-a-summer-fling-without-being-an-asshole-1850638765)
-- [Lifehacker] [Make Yourself a &#39;Faker&#39;s Croissant&#39;](https://lifehacker.com/make-yourself-a-fakers-croissant-1850641204)
-- [Lifehacker] [Get This Refurbished Lenovo Desktop Computer for 42% Off](https://lifehacker.com/get-this-refurbished-lenovo-desktop-computer-for-42-of-1850629673)
-- [Lifehacker] [Use This Spreadsheet to Organize Your Job Hunt](https://lifehacker.com/use-this-spreadsheet-to-organize-your-job-hunt-1850639441)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Mirror Sex&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-m-1850639468)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Have a Summer Fling Without Being a Jerk](https://lifehacker.com/how-to-have-a-summer-fling-without-being-an-asshole-1850638765)<!-- TECH-POSTS:END -->
 
 ---
 
