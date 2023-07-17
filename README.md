@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Put a Frozen Pineapple Core In Your Water Bottle](https://lifehacker.com/put-a-frozen-pineapple-core-in-your-water-bottle-1850642419)
+- [Dev.to/JS] [Everything You Need to Know About JavaScript DOM &lpar;Document Object Model&rpar;](https://dev.to/devshefali/everything-you-need-to-know-about-javascript-dom-document-object-model-1l75)
+- [Dev.to/JS] [Day 6: Closures in JavaScript](https://dev.to/dhrn/day-6-closures-in-javascript-5d9f)
+- [Lifehacker] [TikTok ‘Diet’ of the Week: The Ice Hack for Weight Loss Is an Ad for a Dumb Supplement](https://lifehacker.com/tiktok-diet-of-the-week-the-ice-hack-for-weight-loss-1850642691)
+- [Dev.to/JS] [How to reduce the file size of a PDF using Node.js](https://dev.to/woovi/how-to-reduce-the-file-size-of-a-pdf-using-nodejs-50b2)
 - [Lifehacker] [How the SAG-AFTRA Strike Affects You &lpar;and How to Support the Actors&rpar;](https://lifehacker.com/how-the-sag-aftra-strike-affects-you-and-how-to-suppor-1850643004)
 - [Dev.to/JS] [BEST CYBER HACKING PLATFORM](https://dev.to/aweaken404/best-cyber-hacking-platform-52lh)
 - [Dev.to/JS] [3 Mistakes I Made When I Was First Learning To Code](https://dev.to/onureren/3-mistakes-i-made-when-i-was-first-learning-to-code-94b)
@@ -36,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Handling Memory Leaks in React for Optimal Performance](https://dev.to/daverushabh/handling-memory-leaks-in-react-for-optimal-performance-2o8h)
 - [Dev.to/JS] [TDD Sencillo](https://dev.to/dragosb/tdd-sencillo-2c9n)
 - [Dev.to/JS] [I miss you 😞](https://dev.to/sainthemiddle/i-miss-you-1ldi)
-- [Dev.to/JS] [A web-app to convert images into CSS Gradients to use as a placeholder skeleton loaders.](https://dev.to/dulajkavinda/a-web-app-to-convert-images-into-css-gradients-to-use-as-a-placeholder-skeleton-loaders-26b4)
-- [Dev.to/JS] [Understanding Redux : Fundamentals of Redux State Management](https://dev.to/kasunicts48/understanding-redux-fundamentals-of-redux-state-management-1f29)
-- [Dev.to/JS] [Go offline with Service Worker](https://dev.to/sjsouvik/go-offline-with-service-worker-5845)
 - [Lifehacker] [Four Kitchen Items You Should Wash Outdoors](https://lifehacker.com/four-kitchen-items-you-should-wash-outdoors-1850641873)
 - [Lifehacker] [Use Salt to Revive Your Kitchen Sponge](https://lifehacker.com/use-salt-to-revive-your-kitchen-sponge-1850641897)
 - [Lifehacker] [The Airports Most Likely to Lose or Damage Your Luggage](https://lifehacker.com/the-airports-most-likely-to-lose-or-damage-your-luggage-1850641885)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The World Health Organization Says Aspartame is Fine, Actually](https://lifehacker.com/the-world-health-organization-says-aspartame-is-fine-a-1850638183)
 - [Lifehacker] [Follow This Checklist Before Replacing Your Old Window AC](https://lifehacker.com/follow-this-checklist-before-replacing-your-old-window-1850638397)
 - [Lifehacker] [You Can Make Custom iPhone Contact Posters in iOS 17](https://lifehacker.com/you-can-make-custom-iphone-contact-posters-in-ios-17-1850639809)
-- [Lifehacker] [Combine Sour and Whipped Cream for This Incredible Whipped Topping](https://lifehacker.com/combine-sour-and-whipped-cream-for-this-incredible-whip-1850638476)
-- [Lifehacker] [How to Bring Weed Into the Bedroom](https://lifehacker.com/how-to-bring-weed-into-the-bedroom-1850565448)
-- [Lifehacker] [The Best High-Protein Snacks You Can Get at a Gas Station](https://lifehacker.com/the-best-high-protein-snacks-you-can-get-at-a-gas-stati-1850626401)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Combine Sour and Whipped Cream for This Incredible Whipped Topping](https://lifehacker.com/combine-sour-and-whipped-cream-for-this-incredible-whip-1850638476)<!-- TECH-POSTS:END -->
 
 ---
 
