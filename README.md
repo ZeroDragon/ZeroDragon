@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Solve the Dreaded twoSum Algorithm WITHOUT Nested For Loops!](https://dev.to/greenteaisgreat/how-to-solve-the-dreaded-twosum-algorithm-without-nested-for-loops-1h5i)
 - [Dev.to/JS] [JavaScript DOM manipulation: A Beginner&#39;s guide](https://dev.to/jacknorman235/javascript-dom-manipulation-a-beginners-guide-4740)
 - [Dev.to/JS] [Create a HTML5 Game with a Single Prompt💙 [GPT3.5]](https://dev.to/lilshake/create-a-html5-game-with-a-single-prompt-gpt35-3mhc)
 - [Dev.to/JS] [Introduction to Violentmonkey, Greasy Fork, and Similar Tools](https://dev.to/lucaskbr/introduction-to-violentmonkey-greasy-fork-and-similar-tools-3g5k)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node.js Event Loop](https://dev.to/kavithamg/nodejs-event-loop-3da)
 - [Dev.to/JS] [ALX Portfolio Project](https://dev.to/martinsolumide8/alx-portfolio-project-38gd)
 - [Lifehacker] [Four Kitchen Items You Should Wash Outdoors](https://lifehacker.com/four-kitchen-items-you-should-wash-outdoors-1850641873)
-- [Dev.to/JS] [C# Custom Validators](https://dev.to/ahmedshahjr/c-custom-validators-20c8)
 - [Lifehacker] [Use Salt to Revive Your Kitchen Sponge](https://lifehacker.com/use-salt-to-revive-your-kitchen-sponge-1850641897)
 - [Lifehacker] [The Airports Most Likely to Lose or Damage Your Luggage](https://lifehacker.com/the-airports-most-likely-to-lose-or-damage-your-luggage-1850641885)
 - [Lifehacker] [The States With the Best Tap Water &lpar;and What to Do If Your State Has the Worst&rpar;](https://lifehacker.com/the-states-with-the-best-tap-water-and-what-to-do-if-y-1850641803)
