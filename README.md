@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Ways to Stay Cool on a Sweltering Hot Camping Trip](https://lifehacker.com/the-best-ways-to-stay-cool-on-a-sweltering-hot-camping-1850649119)
+- [Dev.to/JS] [Selecting Elements From DOM in JavaScript](https://dev.to/jacknorman235/selecting-elements-from-dom-in-javascript-29ka)
+- [Lifehacker] [Seven Ways to Make Sure Your Curbside Delivery Is What You Actually Ordered](https://lifehacker.com/seven-ways-to-make-sure-your-curbside-delivery-is-what-1850646488)
+- [Lifehacker] [How to Keep Your Bed as Cool as Possible This Summer](https://lifehacker.com/how-to-keep-your-bed-as-cool-as-possible-this-summer-1850648440)
+- [Dev.to/JS] [From Graphic Design to FullStack Developer](https://dev.to/linnovel/from-graphic-design-to-fullstack-developer-3hfh)
+- [Lifehacker] [Set Your iPhone to Automatically Delete 2FA Verification Codes](https://lifehacker.com/set-your-iphone-to-automatically-delete-2fa-verificatio-1850647064)
 - [Lifehacker] [The Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Dev.to/JS] [The most important concepts you must know in JavaScript&lpar;JS&rpar;](https://dev.to/davdev14/the-most-important-concepts-you-must-know-in-javascriptjs-4dei)
 - [Lifehacker] [Four Ways to Make Your &#39;Hellstrip&#39; Less Awful](https://lifehacker.com/four-ways-to-make-your-hellstrip-less-shitty-1850646449)
@@ -48,8 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
 - [Lifehacker] [The Three Best Ways to Trellis Your Tomatoes](https://lifehacker.com/the-three-best-ways-to-trellis-your-tomatoes-1850646504)
 - [Dev.to/JS] [How to get all the contributors in a GitHub repository?](https://dev.to/bashamega/how-to-get-all-the-contributors-in-a-github-repository-3i1c)
-- [Dev.to/JS] [Beginner&#39;s Journey into React&#39;s Context API](https://dev.to/mr_emma/beginners-journey-into-reacts-context-api-35h9)
-- [Dev.to/JS] [The web has been waiting for HTMX](https://dev.to/bl42/the-web-has-been-waiting-for-htmx-aim)
 - [Lifehacker] [The Flash Pro Plus 6-in-1 Power Bank Is Almost 30% Off Right Now](https://lifehacker.com/the-flash-pro-plus-6-in-1-power-bank-is-almost-30-off-1850629792)
 - [Lifehacker] [Why You Should Stop Eating Raw Oysters](https://lifehacker.com/why-you-should-stop-eating-raw-oysters-1850642677)
 - [Lifehacker] [Nine Better Ways to Skinny Dip](https://lifehacker.com/nine-better-ways-to-skinny-dip-1850646501)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Put a Frozen Pineapple Core In Your Water Bottle](https://lifehacker.com/put-a-frozen-pineapple-core-in-your-water-bottle-1850642419)
 - [Lifehacker] [TikTok ‘Diet’ of the Week: The Ice Hack for Weight Loss Is an Ad for a Dumb Supplement](https://lifehacker.com/tiktok-diet-of-the-week-the-ice-hack-for-weight-loss-1850642691)
 - [Lifehacker] [How the SAG-AFTRA Strike Affects You &lpar;and How to Support the Actors&rpar;](https://lifehacker.com/how-the-sag-aftra-strike-affects-you-and-how-to-suppor-1850643004)
-- [Lifehacker] [Four Kitchen Items You Should Wash Outdoors](https://lifehacker.com/four-kitchen-items-you-should-wash-outdoors-1850641873)
-- [Lifehacker] [Use Salt to Revive Your Kitchen Sponge](https://lifehacker.com/use-salt-to-revive-your-kitchen-sponge-1850641897)
-- [Lifehacker] [The Airports Most Likely to Lose or Damage Your Luggage](https://lifehacker.com/the-airports-most-likely-to-lose-or-damage-your-luggage-1850641885)
-- [Lifehacker] [The States With the Best Tap Water &lpar;and What to Do If Your State Has the Worst&rpar;](https://lifehacker.com/the-states-with-the-best-tap-water-and-what-to-do-if-y-1850641803)
-- [Lifehacker] [Use This Phone Number to Find a Cooling Center Near You](https://lifehacker.com/use-this-phone-number-to-find-a-cooling-center-near-you-1850641814)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Four Kitchen Items You Should Wash Outdoors](https://lifehacker.com/four-kitchen-items-you-should-wash-outdoors-1850641873)<!-- TECH-POSTS:END -->
 
 ---
 
