@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Turn Any Room in Your House Into a Panic Room](https://lifehacker.com/how-to-turn-any-room-in-your-house-into-a-panic-room-1850647677)
+- [Dev.to/JS] [Run ESLint with Husky](https://dev.to/arielmejiadev/run-eslint-with-husky-135p)
+- [Lifehacker] [The Fastest Way to Get Rid of Japanese Beetles in Your Garden](https://lifehacker.com/the-fastest-way-to-get-rid-of-japanese-beetles-in-your-1850646529)
+- [Lifehacker] [All Our Favorite Ways to Build a Better Breakfast Sandwich](https://lifehacker.com/15-ways-to-build-a-better-breakfast-sandwich-1850119709)
+- [Dev.to/JS] [Building a Simple Unit Converter with JavaScript](https://dev.to/peggyou/building-a-simple-unit-converter-with-javascript-3h07)
 - [Lifehacker] [Your Legal Responsibilities As a Cat Owner](https://lifehacker.com/your-legal-responsibilities-as-a-cat-owner-1850647989)
 - [Dev.to/JS] [How to Make a Confetti React Custom Hook](https://dev.to/michaellarocca/how-to-make-a-confetti-react-custom-hook-3190)
 - [Lifehacker] [This Salesforce Certification Guide With Practice Exams Is Almost 90% Off](https://lifehacker.com/this-salesforce-certification-guide-with-practice-exams-1850629800)
@@ -47,8 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Nine Better Ways to Skinny Dip](https://lifehacker.com/nine-better-ways-to-skinny-dip-1850646501)
 - [Lifehacker] [Don&#39;t Fall for These 12 Fitness Myths From TikTok Influencers](https://lifehacker.com/dont-fall-for-these-12-fitness-myths-from-tiktok-influe-1846966596)
 - [Dev.to/JS] [Javascript on HTML Page - help ChatGPT and Me](https://dev.to/colink/javascript-on-html-page-help-chatgpt-and-me-4nd)
-- [Dev.to/JS] [How to inspect transient DOM elements](https://dev.to/mellis481/how-to-inspect-transient-dom-elements-3h9d)
-- [Dev.to/JS] [Help me](https://dev.to/passion117/help-me-30m9)
 - [Lifehacker] [You Can Now Securely Share Apple Passkeys](https://lifehacker.com/you-can-now-securely-share-apple-passkeys-1850646649)
 - [Lifehacker] [This Refurbished MacBook Air Is Almost 70% Off](https://lifehacker.com/this-refurbished-macbook-air-is-almost-70-off-1850638589)
 - [Lifehacker] [12 Ocean Disaster Podcasts That Will Ruin Your Beach Vacation](https://lifehacker.com/12-ocean-disaster-podcasts-that-will-ruin-your-beach-va-1850623861)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The States With the Best Tap Water &lpar;and What to Do If Your State Has the Worst&rpar;](https://lifehacker.com/the-states-with-the-best-tap-water-and-what-to-do-if-y-1850641803)
 - [Lifehacker] [Use This Phone Number to Find a Cooling Center Near You](https://lifehacker.com/use-this-phone-number-to-find-a-cooling-center-near-you-1850641814)
 - [Lifehacker] [Breeze Airways&#39; Flash Sale Just Might Be Worth It](https://lifehacker.com/breeze-airways-flash-sale-just-might-be-worth-it-1850641826)
-- [Lifehacker] [Quit Making Boring Scrambled Eggs](https://lifehacker.com/8-ways-to-make-better-scrambled-eggs-1846859812)
-- [Lifehacker] [17 Surprising Household Uses for Tennis Balls](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)
-- [Lifehacker] [Introduce ChatGPT to an Absolute Beginner With This $10 Course](https://lifehacker.com/introduce-chatgpt-to-an-absolute-beginner-with-this-10-1850629775)
-- [Lifehacker] [Why You Probably Shouldn’t Wrap Your Car](https://lifehacker.com/why-you-probably-shouldn-t-wrap-your-car-1850641373)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Quit Making Boring Scrambled Eggs](https://lifehacker.com/8-ways-to-make-better-scrambled-eggs-1846859812)<!-- TECH-POSTS:END -->
 
 ---
 
