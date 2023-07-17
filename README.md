@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How the SAG-AFTRA Strike Affects You &lpar;and How to Support the Actors&rpar;](https://lifehacker.com/how-the-sag-aftra-strike-affects-you-and-how-to-suppor-1850643004)
+- [Dev.to/JS] [BEST CYBER HACKING PLATFORM](https://dev.to/aweaken404/best-cyber-hacking-platform-52lh)
+- [Dev.to/JS] [3 Mistakes I Made When I Was First Learning To Code](https://dev.to/onureren/3-mistakes-i-made-when-i-was-first-learning-to-code-94b)
+- [Dev.to/JS] [Building an Online Store: My Journey as a Web Developer](https://dev.to/kande/building-an-online-store-my-journey-as-a-web-developer-2a25)
+- [Dev.to/JS] [Compose&lpar; &rpar; and Pipe&lpar; &rpar; in JavaScript](https://dev.to/hardiksharma/compose-and-pipe-in-javascript-l0e)
+- [Dev.to/JS] [Using Jest for the first time? Here&#39;s all you need to know](https://dev.to/buezor/using-jest-for-the-first-time-heres-all-you-need-to-know-3oj)
+- [Dev.to/JS] [Libraries You Should Know As A React Developer](https://dev.to/nikhilxd/libraries-you-should-know-as-a-react-developer-2lb8)
+- [Dev.to/JS] [Handling Memory Leaks in React for Optimal Performance](https://dev.to/daverushabh/handling-memory-leaks-in-react-for-optimal-performance-2o8h)
 - [Dev.to/JS] [TDD Sencillo](https://dev.to/dragosb/tdd-sencillo-2c9n)
 - [Dev.to/JS] [I miss you 😞](https://dev.to/sainthemiddle/i-miss-you-1ldi)
 - [Dev.to/JS] [A web-app to convert images into CSS Gradients to use as a placeholder skeleton loaders.](https://dev.to/dulajkavinda/a-web-app-to-convert-images-into-css-gradients-to-use-as-a-placeholder-skeleton-loaders-26b4)
 - [Dev.to/JS] [Understanding Redux : Fundamentals of Redux State Management](https://dev.to/kasunicts48/understanding-redux-fundamentals-of-redux-state-management-1f29)
 - [Dev.to/JS] [Go offline with Service Worker](https://dev.to/sjsouvik/go-offline-with-service-worker-5845)
-- [Dev.to/JS] [How Typescript differ from Javascript](https://dev.to/sankalpcreat/how-typescript-differ-from-javascript-265c)
-- [Dev.to/JS] [Inside the JavaScript Engine: Unveiling the Magic Behind Efficient Code Execution](https://dev.to/adii/inside-the-javascript-engine-unveiling-the-magic-behind-efficient-code-execution-15f5)
-- [Dev.to/JS] [8 Best Practices for React.js Component Design](https://dev.to/blossom/8-best-practices-for-reactjs-component-design-4jn5)
-- [Dev.to/JS] [Enterprise Cybersecurity Threats That You Must Know In 2023](https://dev.to/devtripath94447/enterprise-cybersecurity-threats-that-you-must-know-in-2023-3gl7)
-- [Dev.to/JS] [A Small Little Trick to prevent useEffect](https://dev.to/shivamjjha/a-small-little-trick-to-prevent-useeffect-ij9)
-- [Dev.to/JS] [Creating a type safe dictionary in TypeScript](https://dev.to/kalashin1/creating-a-type-safe-dictionary-in-typescript-4fmd)
-- [Dev.to/JS] [Streamlining Node.js App Deployment with GitHub Actions and Railway](https://dev.to/olumidenwosu/streamlining-nodejs-app-deployment-with-github-actions-and-railway-2ej4)
 - [Lifehacker] [Four Kitchen Items You Should Wash Outdoors](https://lifehacker.com/four-kitchen-items-you-should-wash-outdoors-1850641873)
 - [Lifehacker] [Use Salt to Revive Your Kitchen Sponge](https://lifehacker.com/use-salt-to-revive-your-kitchen-sponge-1850641897)
 - [Lifehacker] [The Airports Most Likely to Lose or Damage Your Luggage](https://lifehacker.com/the-airports-most-likely-to-lose-or-damage-your-luggage-1850641885)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Make Custom iPhone Contact Posters in iOS 17](https://lifehacker.com/you-can-make-custom-iphone-contact-posters-in-ios-17-1850639809)
 - [Lifehacker] [Combine Sour and Whipped Cream for This Incredible Whipped Topping](https://lifehacker.com/combine-sour-and-whipped-cream-for-this-incredible-whip-1850638476)
 - [Lifehacker] [How to Bring Weed Into the Bedroom](https://lifehacker.com/how-to-bring-weed-into-the-bedroom-1850565448)
-- [Lifehacker] [The Best High-Protein Snacks You Can Get at a Gas Station](https://lifehacker.com/the-best-high-protein-snacks-you-can-get-at-a-gas-stati-1850626401)
-- [Lifehacker] [When Should I Take My Kids to the Movie Theater for the First Time?](https://lifehacker.com/when-should-i-take-my-kids-to-the-movie-theater-for-the-1850627595)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best High-Protein Snacks You Can Get at a Gas Station](https://lifehacker.com/the-best-high-protein-snacks-you-can-get-at-a-gas-stati-1850626401)<!-- TECH-POSTS:END -->
 
 ---
 
