@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
+- [Dev.to/JS] [The most important concepts you must know in JavaScript&lpar;JS&rpar;](https://dev.to/davdev14/the-most-important-concepts-you-must-know-in-javascriptjs-4dei)
+- [Lifehacker] [Four Ways to Make Your &#39;Hellstrip&#39; Less Awful](https://lifehacker.com/four-ways-to-make-your-hellstrip-less-shitty-1850646449)
+- [Dev.to/JS] [What are Angular Signals?: Exploring State Control and Rendering in Angular Apps](https://dev.to/this-is-angular/what-are-angular-signals-exploring-state-control-and-rendering-in-angular-apps-4e5e)
+- [Dev.to/JS] [next js 13.4 server Action step by step guide](https://dev.to/prems5/next-js-134-server-action-step-by-step-guide-2abp)
+- [Dev.to/JS] [Master Lazy Loading in React and Next.js Apps](https://dev.to/fullctxdev/master-lazy-loading-in-react-and-nextjs-apps-4ne6)
 - [Lifehacker] [How to Turn Any Room in Your House Into a Panic Room](https://lifehacker.com/how-to-turn-any-room-in-your-house-into-a-panic-room-1850647677)
 - [Dev.to/JS] [Run ESLint with Husky](https://dev.to/arielmejiadev/run-eslint-with-husky-135p)
 - [Lifehacker] [The Fastest Way to Get Rid of Japanese Beetles in Your Garden](https://lifehacker.com/the-fastest-way-to-get-rid-of-japanese-beetles-in-your-1850646529)
@@ -44,14 +50,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to get all the contributors in a GitHub repository?](https://dev.to/bashamega/how-to-get-all-the-contributors-in-a-github-repository-3i1c)
 - [Dev.to/JS] [Beginner&#39;s Journey into React&#39;s Context API](https://dev.to/mr_emma/beginners-journey-into-reacts-context-api-35h9)
 - [Dev.to/JS] [The web has been waiting for HTMX](https://dev.to/bl42/the-web-has-been-waiting-for-htmx-aim)
-- [Dev.to/JS] [I am excited to join in this community to enhance my skills with experts to achieve my career goal.](https://dev.to/ayyappansuruttaiyan/i-am-excited-to-join-in-this-community-to-enhance-my-skills-with-experts-to-achieve-my-career-goal-15hl)
 - [Lifehacker] [The Flash Pro Plus 6-in-1 Power Bank Is Almost 30% Off Right Now](https://lifehacker.com/the-flash-pro-plus-6-in-1-power-bank-is-almost-30-off-1850629792)
-- [Dev.to/JS] [monotonic array](https://dev.to/chandrapenugonda/monotonic-array-1467)
 - [Lifehacker] [Why You Should Stop Eating Raw Oysters](https://lifehacker.com/why-you-should-stop-eating-raw-oysters-1850642677)
-- [Dev.to/JS] [Career in Psychiatry UK – Unleash Potential in Psychiatry](https://dev.to/pmrcpsych91129/career-in-psychiatry-uk-unleash-potential-in-psychiatry-5gpo)
 - [Lifehacker] [Nine Better Ways to Skinny Dip](https://lifehacker.com/nine-better-ways-to-skinny-dip-1850646501)
 - [Lifehacker] [Don&#39;t Fall for These 12 Fitness Myths From TikTok Influencers](https://lifehacker.com/dont-fall-for-these-12-fitness-myths-from-tiktok-influe-1846966596)
-- [Dev.to/JS] [Javascript on HTML Page - help ChatGPT and Me](https://dev.to/colink/javascript-on-html-page-help-chatgpt-and-me-4nd)
 - [Lifehacker] [You Can Now Securely Share Apple Passkeys](https://lifehacker.com/you-can-now-securely-share-apple-passkeys-1850646649)
 - [Lifehacker] [This Refurbished MacBook Air Is Almost 70% Off](https://lifehacker.com/this-refurbished-macbook-air-is-almost-70-off-1850638589)
 - [Lifehacker] [12 Ocean Disaster Podcasts That Will Ruin Your Beach Vacation](https://lifehacker.com/12-ocean-disaster-podcasts-that-will-ruin-your-beach-va-1850623861)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Salt to Revive Your Kitchen Sponge](https://lifehacker.com/use-salt-to-revive-your-kitchen-sponge-1850641897)
 - [Lifehacker] [The Airports Most Likely to Lose or Damage Your Luggage](https://lifehacker.com/the-airports-most-likely-to-lose-or-damage-your-luggage-1850641885)
 - [Lifehacker] [The States With the Best Tap Water &lpar;and What to Do If Your State Has the Worst&rpar;](https://lifehacker.com/the-states-with-the-best-tap-water-and-what-to-do-if-y-1850641803)
-- [Lifehacker] [Use This Phone Number to Find a Cooling Center Near You](https://lifehacker.com/use-this-phone-number-to-find-a-cooling-center-near-you-1850641814)
-- [Lifehacker] [Breeze Airways&#39; Flash Sale Just Might Be Worth It](https://lifehacker.com/breeze-airways-flash-sale-just-might-be-worth-it-1850641826)
-- [Lifehacker] [Quit Making Boring Scrambled Eggs](https://lifehacker.com/8-ways-to-make-better-scrambled-eggs-1846859812)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use This Phone Number to Find a Cooling Center Near You](https://lifehacker.com/use-this-phone-number-to-find-a-cooling-center-near-you-1850641814)<!-- TECH-POSTS:END -->
 
 ---
 
