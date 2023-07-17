@@ -26,8 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ocupando el método sort&lpar;&rpar; en JavaScript](https://dev.to/ulisesserranop/ocupando-el-metodo-sort-en-javascript-1cci)
+- [Lifehacker] [Make a Better BLT With a Waffled Bacon Patty](https://lifehacker.com/make-a-better-blt-with-a-waffled-bacon-patty-1850647333)
+- [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
+- [Lifehacker] [The Three Best Ways to Trellis Your Tomatoes](https://lifehacker.com/the-three-best-ways-to-trellis-your-tomatoes-1850646504)
 - [Dev.to/JS] [How to get all the contributors in a GitHub repository?](https://dev.to/bashamega/how-to-get-all-the-contributors-in-a-github-repository-3i1c)
-- [Dev.to/JS] [Beginner&#39;s Journey into React&#39;s Context API](https://dev.to/emmatechdel/beginners-journey-into-reacts-context-api-35h9)
+- [Dev.to/JS] [Beginner&#39;s Journey into React&#39;s Context API](https://dev.to/mr_emma/beginners-journey-into-reacts-context-api-35h9)
 - [Dev.to/JS] [The web has been waiting for HTMX](https://dev.to/bl42/the-web-has-been-waiting-for-htmx-aim)
 - [Dev.to/JS] [I am excited to join in this community to enhance my skills with experts to achieve my career goal.](https://dev.to/ayyappansuruttaiyan/i-am-excited-to-join-in-this-community-to-enhance-my-skills-with-experts-to-achieve-my-career-goal-15hl)
 - [Lifehacker] [The Flash Pro Plus 6-in-1 Power Bank Is Almost 30% Off Right Now](https://lifehacker.com/the-flash-pro-plus-6-in-1-power-bank-is-almost-30-off-1850629792)
@@ -43,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [VSCode React Snippets Extension](https://dev.to/onureren/vscode-react-snippets-extension-39l2)
 - [Lifehacker] [This Refurbished MacBook Air Is Almost 70% Off](https://lifehacker.com/this-refurbished-macbook-air-is-almost-70-off-1850638589)
 - [Dev.to/JS] [Best Animation packages for React.js , every frontend developer should use it](https://dev.to/idurar/best-animation-packages-for-reactjs-every-frontend-developer-should-use-it-159b)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Jul 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-jul-2023-4g5d)
 - [Lifehacker] [12 Ocean Disaster Podcasts That Will Ruin Your Beach Vacation](https://lifehacker.com/12-ocean-disaster-podcasts-that-will-ruin-your-beach-va-1850623861)
 - [Lifehacker] [How to Know If the Education Department Is Forgiving Your Student Loan](https://lifehacker.com/how-to-know-if-the-education-department-is-forgiving-yo-1850642973)
 - [Lifehacker] [Put a Frozen Pineapple Core In Your Water Bottle](https://lifehacker.com/put-a-frozen-pineapple-core-in-your-water-bottle-1850642419)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [20 Places to Legally Download or Stream Movies for Free](https://lifehacker.com/top-10-places-to-download-or-stream-movies-for-free-le-1782772455)
 - [Lifehacker] [Use a Mind Map to Increase Your Productivity](https://lifehacker.com/use-a-mind-map-to-increase-your-productivity-1850641534)
 - [Lifehacker] [Should You Choose Huel or Soylent When You Want to Drink Your Food?](https://lifehacker.com/huel-versus-soylent-1850637488)
-- [Lifehacker] [Get Microsoft Office for Mac or Windows For Life for $30](https://lifehacker.com/get-microsoft-office-for-mac-or-windows-for-life-for-3-1850629704)
-- [Lifehacker] [Mattresses, Internet Access, and Other Prices You Didn&#39;t Know You Can Haggle Over](https://lifehacker.com/mattresses-internet-access-and-other-prices-you-didnt-1850631517)
-- [Lifehacker] [You Can Finally Use iCloud Keychain in Chrome](https://lifehacker.com/you-can-finally-use-icloud-keychain-in-chrome-1850639711)
-- [Lifehacker] [How to Have a Summer Fling Without Being a Jerk](https://lifehacker.com/how-to-have-a-summer-fling-without-being-an-asshole-1850638765)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Get Microsoft Office for Mac or Windows For Life for $30](https://lifehacker.com/get-microsoft-office-for-mac-or-windows-for-life-for-3-1850629704)<!-- TECH-POSTS:END -->
 
 ---
 
