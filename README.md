@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Inside the JavaScript Engine: Unveiling the Magic Behind Efficient Code Execution](https://dev.to/adii/inside-the-javascript-engine-unveiling-the-magic-behind-efficient-code-execution-15f5)
+- [Dev.to/JS] [8 Best Practices for React.js Component Design](https://dev.to/blossom/8-best-practices-for-reactjs-component-design-4jn5)
+- [Dev.to/JS] [Enterprise Cybersecurity Threats That You Must Know In 2023](https://dev.to/devtripath94447/enterprise-cybersecurity-threats-that-you-must-know-in-2023-3gl7)
+- [Dev.to/JS] [A Small Little Trick to prevent useEffect](https://dev.to/shivamjjha/a-small-little-trick-to-prevent-useeffect-ij9)
 - [Dev.to/JS] [Creating a type safe dictionary in TypeScript](https://dev.to/kalashin1/creating-a-type-safe-dictionary-in-typescript-4fmd)
 - [Dev.to/JS] [Streamlining Node.js App Deployment with GitHub Actions and Railway](https://dev.to/olumidenwosu/streamlining-nodejs-app-deployment-with-github-actions-and-railway-2ej4)
 - [Dev.to/JS] [Learn javascript code](https://dev.to/tech12lismel/learn-javascript-code-4h62)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Resend Cube Lookalike Part 3 - Lights, God Rays, Final Touches](https://dev.to/sal_paradise/the-resend-cube-lookalike-part-3-lights-god-rays-final-touches-47i1)
 - [Dev.to/JS] [HOW TO CANCEL AN AJAX REQUEST IN JAVASCRIPT USING THE ABORT CONTROLLER](https://dev.to/kipyegonline/cancelling-an-ajax-request-in-javascript-using-the-abort-controller-39o8)
 - [Dev.to/JS] [Bootstrap Step wizard jQuery Plugin](https://dev.to/devstoc/bootstrap-step-wizard-jquery-plugin-272d)
-- [Dev.to/JS] [Flowchart editor dgrm.net / Announcement / Select with Shift key](https://dev.to/alexboyko/flowchart-editor-dgrmnet-announcement-select-with-shift-key-bni)
-- [Dev.to/JS] [Why we may use relative path instead of fullpath in nextjs](https://dev.to/konfydev/why-we-may-use-relative-path-instead-of-fullpath-in-nextjs-4ln1)
-- [Dev.to/JS] [Over 40, with no technical background, this is how I learned JavaScript in 2 weeks](https://dev.to/codingjourneyfromunemployment/over-40-with-no-technical-background-this-is-how-i-learned-javascript-in-2-weeks-492i)
-- [Dev.to/JS] [How to build an amazing Tan Stack query web application using tailwind and next js?](https://dev.to/ultroneoustech/how-to-build-an-amazing-tan-stack-query-web-application-using-tailwind-and-next-js-5cb7)
 - [Lifehacker] [Four Kitchen Items You Should Wash Outdoors](https://lifehacker.com/four-kitchen-items-you-should-wash-outdoors-1850641873)
 - [Lifehacker] [Use Salt to Revive Your Kitchen Sponge](https://lifehacker.com/use-salt-to-revive-your-kitchen-sponge-1850641897)
 - [Lifehacker] [The Airports Most Likely to Lose or Damage Your Luggage](https://lifehacker.com/the-airports-most-likely-to-lose-or-damage-your-luggage-1850641885)
