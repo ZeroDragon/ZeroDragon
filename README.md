@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#LearnedToday: Compund Emoji 👨‍💻](https://dev.to/danielzotti/learnedtoday-compund-emoji-2m59)
+- [Lifehacker] [How to Know If the Education Department Is Forgiving Your Student Loan](https://lifehacker.com/how-to-know-if-the-education-department-is-forgiving-yo-1850642973)
+- [Dev.to/JS] [Tree shaking in Webpack](https://dev.to/fogel/tree-shaking-in-webpack-5apj)
 - [Lifehacker] [Put a Frozen Pineapple Core In Your Water Bottle](https://lifehacker.com/put-a-frozen-pineapple-core-in-your-water-bottle-1850642419)
 - [Dev.to/JS] [Everything You Need to Know About JavaScript DOM &lpar;Document Object Model&rpar;](https://dev.to/devshefali/everything-you-need-to-know-about-javascript-dom-document-object-model-1l75)
 - [Dev.to/JS] [Day 6: Closures in JavaScript](https://dev.to/dhrn/day-6-closures-in-javascript-5d9f)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Jest for the first time? Here&#39;s all you need to know](https://dev.to/buezor/using-jest-for-the-first-time-heres-all-you-need-to-know-3oj)
 - [Dev.to/JS] [Libraries You Should Know As A React Developer](https://dev.to/nikhilxd/libraries-you-should-know-as-a-react-developer-2lb8)
 - [Dev.to/JS] [Handling Memory Leaks in React for Optimal Performance](https://dev.to/daverushabh/handling-memory-leaks-in-react-for-optimal-performance-2o8h)
-- [Dev.to/JS] [TDD Sencillo](https://dev.to/dragosb/tdd-sencillo-2c9n)
-- [Dev.to/JS] [I miss you 😞](https://dev.to/sainthemiddle/i-miss-you-1ldi)
 - [Lifehacker] [Four Kitchen Items You Should Wash Outdoors](https://lifehacker.com/four-kitchen-items-you-should-wash-outdoors-1850641873)
 - [Lifehacker] [Use Salt to Revive Your Kitchen Sponge](https://lifehacker.com/use-salt-to-revive-your-kitchen-sponge-1850641897)
 - [Lifehacker] [The Airports Most Likely to Lose or Damage Your Luggage](https://lifehacker.com/the-airports-most-likely-to-lose-or-damage-your-luggage-1850641885)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Mirror Sex&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-m-1850639468)
 - [Lifehacker] [The World Health Organization Says Aspartame is Fine, Actually](https://lifehacker.com/the-world-health-organization-says-aspartame-is-fine-a-1850638183)
 - [Lifehacker] [Follow This Checklist Before Replacing Your Old Window AC](https://lifehacker.com/follow-this-checklist-before-replacing-your-old-window-1850638397)
-- [Lifehacker] [You Can Make Custom iPhone Contact Posters in iOS 17](https://lifehacker.com/you-can-make-custom-iphone-contact-posters-in-ios-17-1850639809)
-- [Lifehacker] [Combine Sour and Whipped Cream for This Incredible Whipped Topping](https://lifehacker.com/combine-sour-and-whipped-cream-for-this-incredible-whip-1850638476)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Make Custom iPhone Contact Posters in iOS 17](https://lifehacker.com/you-can-make-custom-iphone-contact-posters-in-ios-17-1850639809)<!-- TECH-POSTS:END -->
 
 ---
 
