@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to build an amazing Tan Stack query web application using tailwind and next js?](https://dev.to/ultroneoustech/how-to-build-an-amazing-tan-stack-query-web-application-using-tailwind-and-next-js-5cb7)
+- [Dev.to/JS] [Decentralized Operating System - GRIDNET OS](https://dev.to/gridnetproject/decentralized-operating-system-gridnet-os-49m0)
+- [Dev.to/JS] [Optimized Images in Nuxt with Cloudinary](https://dev.to/jacobandrewsky/optimized-images-in-nuxt-with-cloudinary-4897)
 - [Dev.to/JS] [My First Android Game](https://dev.to/asgart1907/my-first-android-game-4ooh)
 - [Dev.to/JS] [Dynamically change app launcher icon in React Native](https://dev.to/rushitjivani/dynamically-change-app-launcher-icon-in-react-native-f8j)
 - [Dev.to/JS] [Beginner TypeScript: Vanilla&amp;React Comparison](https://dev.to/yoriss67/beginner-typescript-vanillareact-comparison-2fhk)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Solve the Dreaded twoSum Algorithm WITHOUT Nested For Loops!](https://dev.to/greenteaisgreat/how-to-solve-the-dreaded-twosum-algorithm-without-nested-for-loops-1h5i)
 - [Dev.to/JS] [JavaScript DOM manipulation: A Beginner&#39;s guide](https://dev.to/jacknorman235/javascript-dom-manipulation-a-beginners-guide-4740)
 - [Dev.to/JS] [Create a HTML5 Game with a Single Prompt💙 [GPT3.5]](https://dev.to/lilshake/create-a-html5-game-with-a-single-prompt-gpt35-3mhc)
-- [Dev.to/JS] [Introduction to Violentmonkey, Greasy Fork, and Similar Tools](https://dev.to/lucaskbr/introduction-to-violentmonkey-greasy-fork-and-similar-tools-3g5k)
-- [Dev.to/JS] [The Easiest Introduction to SolidJS](https://dev.to/this-is-learning/the-easiest-introduction-to-solidjs-pgi)
-- [Dev.to/JS] [How to efficiently remove elements from an array in 2023.](https://dev.to/melvinvmegen/how-to-efficiently-remove-elements-from-an-array-in-2023-3i14)
 - [Lifehacker] [Four Kitchen Items You Should Wash Outdoors](https://lifehacker.com/four-kitchen-items-you-should-wash-outdoors-1850641873)
 - [Lifehacker] [Use Salt to Revive Your Kitchen Sponge](https://lifehacker.com/use-salt-to-revive-your-kitchen-sponge-1850641897)
 - [Lifehacker] [The Airports Most Likely to Lose or Damage Your Luggage](https://lifehacker.com/the-airports-most-likely-to-lose-or-damage-your-luggage-1850641885)
