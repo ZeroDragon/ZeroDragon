@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Help me](https://dev.to/passion117/help-me-30m9)
+- [Dev.to/JS] [VSCode React Snippets Extension](https://dev.to/onureren/vscode-react-snippets-extension-39l2)
+- [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
+- [Lifehacker] [This Refurbished MacBook Air Is Almost 70% Off](https://lifehacker.com/this-refurbished-macbook-air-is-almost-70-off-1850638589)
+- [Dev.to/JS] [Best Animation packages for React.js , every frontend developer should use it](https://dev.to/idurar/best-animation-packages-for-reactjs-every-frontend-developer-should-use-it-159b)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Jul 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-jul-2023-4g5d)
+- [Lifehacker] [12 Ocean Disaster Podcasts That Will Ruin Your Beach Vacation](https://lifehacker.com/12-ocean-disaster-podcasts-that-will-ruin-your-beach-va-1850623861)
+- [Dev.to/JS] [Entendiendo los Core Web Vitals: ¿Qué son y por qué son importantes?](https://dev.to/marianocodes/entendiendo-los-core-web-vitals-que-son-y-por-que-son-importantes-5f2e)
 - [Dev.to/JS] [#LearnedToday: Compund Emoji 👨‍💻](https://dev.to/danielzotti/learnedtoday-compund-emoji-2m59)
 - [Lifehacker] [How to Know If the Education Department Is Forgiving Your Student Loan](https://lifehacker.com/how-to-know-if-the-education-department-is-forgiving-yo-1850642973)
 - [Dev.to/JS] [Tree shaking in Webpack](https://dev.to/fogel/tree-shaking-in-webpack-5apj)
@@ -37,11 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How the SAG-AFTRA Strike Affects You &lpar;and How to Support the Actors&rpar;](https://lifehacker.com/how-the-sag-aftra-strike-affects-you-and-how-to-suppor-1850643004)
 - [Dev.to/JS] [BEST CYBER HACKING PLATFORM](https://dev.to/aweaken404/best-cyber-hacking-platform-52lh)
 - [Dev.to/JS] [3 Mistakes I Made When I Was First Learning To Code](https://dev.to/onureren/3-mistakes-i-made-when-i-was-first-learning-to-code-94b)
-- [Dev.to/JS] [Building an Online Store: My Journey as a Web Developer](https://dev.to/kande/building-an-online-store-my-journey-as-a-web-developer-2a25)
-- [Dev.to/JS] [Compose&lpar; &rpar; and Pipe&lpar; &rpar; in JavaScript](https://dev.to/hardiksharma/compose-and-pipe-in-javascript-l0e)
-- [Dev.to/JS] [Using Jest for the first time? Here&#39;s all you need to know](https://dev.to/buezor/using-jest-for-the-first-time-heres-all-you-need-to-know-3oj)
-- [Dev.to/JS] [Libraries You Should Know As A React Developer](https://dev.to/nikhilxd/libraries-you-should-know-as-a-react-developer-2lb8)
-- [Dev.to/JS] [Handling Memory Leaks in React for Optimal Performance](https://dev.to/daverushabh/handling-memory-leaks-in-react-for-optimal-performance-2o8h)
 - [Lifehacker] [Four Kitchen Items You Should Wash Outdoors](https://lifehacker.com/four-kitchen-items-you-should-wash-outdoors-1850641873)
 - [Lifehacker] [Use Salt to Revive Your Kitchen Sponge](https://lifehacker.com/use-salt-to-revive-your-kitchen-sponge-1850641897)
 - [Lifehacker] [The Airports Most Likely to Lose or Damage Your Luggage](https://lifehacker.com/the-airports-most-likely-to-lose-or-damage-your-luggage-1850641885)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Yourself a &#39;Faker&#39;s Croissant&#39;](https://lifehacker.com/make-yourself-a-fakers-croissant-1850641204)
 - [Lifehacker] [Get This Refurbished Lenovo Desktop Computer for 42% Off](https://lifehacker.com/get-this-refurbished-lenovo-desktop-computer-for-42-of-1850629673)
 - [Lifehacker] [Use This Spreadsheet to Organize Your Job Hunt](https://lifehacker.com/use-this-spreadsheet-to-organize-your-job-hunt-1850639441)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Mirror Sex&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-m-1850639468)
-- [Lifehacker] [The World Health Organization Says Aspartame is Fine, Actually](https://lifehacker.com/the-world-health-organization-says-aspartame-is-fine-a-1850638183)
-- [Lifehacker] [Follow This Checklist Before Replacing Your Old Window AC](https://lifehacker.com/follow-this-checklist-before-replacing-your-old-window-1850638397)
-- [Lifehacker] [You Can Make Custom iPhone Contact Posters in iOS 17](https://lifehacker.com/you-can-make-custom-iphone-contact-posters-in-ios-17-1850639809)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Mirror Sex&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-m-1850639468)<!-- TECH-POSTS:END -->
 
 ---
 
