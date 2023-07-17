@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Legal Responsibilities As a Cat Owner](https://lifehacker.com/your-legal-responsibilities-as-a-cat-owner-1850647989)
+- [Dev.to/JS] [How to Make a Confetti React Custom Hook](https://dev.to/michaellarocca/how-to-make-a-confetti-react-custom-hook-3190)
+- [Lifehacker] [This Salesforce Certification Guide With Practice Exams Is Almost 90% Off](https://lifehacker.com/this-salesforce-certification-guide-with-practice-exams-1850629800)
+- [Lifehacker] [10 Professional Baking Tools I Use at Home](https://lifehacker.com/best-professional-baking-tools-for-every-kitchen-1850168766)
+- [Dev.to/JS] [Meetings room III - Elegant solution in JavaScript with detailed explanation](https://dev.to/hugaidas/meetings-room-iii-elegant-solution-in-javascript-with-detailed-explanation-4cj8)
+- [Lifehacker] [Drown Your Potted Plants](https://lifehacker.com/drown-your-potted-plants-1850646521)
 - [Dev.to/JS] [Ocupando el método sort&lpar;&rpar; en JavaScript](https://dev.to/ulisesserranop/ocupando-el-metodo-sort-en-javascript-1cci)
 - [Lifehacker] [Make a Better BLT With a Waffled Bacon Patty](https://lifehacker.com/make-a-better-blt-with-a-waffled-bacon-patty-1850647333)
 - [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
@@ -44,9 +50,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to inspect transient DOM elements](https://dev.to/mellis481/how-to-inspect-transient-dom-elements-3h9d)
 - [Dev.to/JS] [Help me](https://dev.to/passion117/help-me-30m9)
 - [Lifehacker] [You Can Now Securely Share Apple Passkeys](https://lifehacker.com/you-can-now-securely-share-apple-passkeys-1850646649)
-- [Dev.to/JS] [VSCode React Snippets Extension](https://dev.to/onureren/vscode-react-snippets-extension-39l2)
 - [Lifehacker] [This Refurbished MacBook Air Is Almost 70% Off](https://lifehacker.com/this-refurbished-macbook-air-is-almost-70-off-1850638589)
-- [Dev.to/JS] [Best Animation packages for React.js , every frontend developer should use it](https://dev.to/idurar/best-animation-packages-for-reactjs-every-frontend-developer-should-use-it-159b)
 - [Lifehacker] [12 Ocean Disaster Podcasts That Will Ruin Your Beach Vacation](https://lifehacker.com/12-ocean-disaster-podcasts-that-will-ruin-your-beach-va-1850623861)
 - [Lifehacker] [How to Know If the Education Department Is Forgiving Your Student Loan](https://lifehacker.com/how-to-know-if-the-education-department-is-forgiving-yo-1850642973)
 - [Lifehacker] [Put a Frozen Pineapple Core In Your Water Bottle](https://lifehacker.com/put-a-frozen-pineapple-core-in-your-water-bottle-1850642419)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Quit Making Boring Scrambled Eggs](https://lifehacker.com/8-ways-to-make-better-scrambled-eggs-1846859812)
 - [Lifehacker] [17 Surprising Household Uses for Tennis Balls](https://lifehacker.com/17-surprising-household-uses-for-tennis-balls-1850176713)
 - [Lifehacker] [Introduce ChatGPT to an Absolute Beginner With This $10 Course](https://lifehacker.com/introduce-chatgpt-to-an-absolute-beginner-with-this-10-1850629775)
-- [Lifehacker] [Why You Probably Shouldn’t Wrap Your Car](https://lifehacker.com/why-you-probably-shouldn-t-wrap-your-car-1850641373)
-- [Lifehacker] [20 Places to Legally Download or Stream Movies for Free](https://lifehacker.com/top-10-places-to-download-or-stream-movies-for-free-le-1782772455)
-- [Lifehacker] [Use a Mind Map to Increase Your Productivity](https://lifehacker.com/use-a-mind-map-to-increase-your-productivity-1850641534)
-- [Lifehacker] [Should You Choose Huel or Soylent When You Want to Drink Your Food?](https://lifehacker.com/huel-versus-soylent-1850637488)
-- [Lifehacker] [Get Microsoft Office for Mac or Windows For Life for $30](https://lifehacker.com/get-microsoft-office-for-mac-or-windows-for-life-for-3-1850629704)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Probably Shouldn’t Wrap Your Car](https://lifehacker.com/why-you-probably-shouldn-t-wrap-your-car-1850641373)<!-- TECH-POSTS:END -->
 
 ---
 
