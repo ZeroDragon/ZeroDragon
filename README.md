@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cheat Sheet for Uppy File Uploader](https://dev.to/andreiabohner/cheat-sheet-for-uppy-file-uploader-12a2)
 - [Dev.to/JS] [What is the Future of a Web Developer?](https://dev.to/blackhorse0101/what-is-the-future-of-a-web-developer-nc8)
 - [Dev.to/JS] [How to Solve the Dreaded twoSum Algorithm WITHOUT Nested For Loops!](https://dev.to/greenteaisgreat/how-to-solve-the-dreaded-twosum-algorithm-without-nested-for-loops-1h5i)
 - [Dev.to/JS] [JavaScript DOM manipulation: A Beginner&#39;s guide](https://dev.to/jacknorman235/javascript-dom-manipulation-a-beginners-guide-4740)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Should you go through frontend questions before job interview?](https://dev.to/alenvarazdinac/should-you-go-through-frontend-questions-before-job-interview-c67)
 - [Dev.to/JS] [Legal translation is important in Dubai for several reasons](https://dev.to/kissasianl/legal-translation-is-important-in-dubai-for-several-reasons-2l1g)
 - [Dev.to/JS] [search target in nums array](https://dev.to/chandrapenugonda/search-target-in-nums-array-39bl)
-- [Dev.to/JS] [Node.js Event Loop](https://dev.to/kavithamg/nodejs-event-loop-3da)
 - [Lifehacker] [Four Kitchen Items You Should Wash Outdoors](https://lifehacker.com/four-kitchen-items-you-should-wash-outdoors-1850641873)
 - [Lifehacker] [Use Salt to Revive Your Kitchen Sponge](https://lifehacker.com/use-salt-to-revive-your-kitchen-sponge-1850641897)
 - [Lifehacker] [The Airports Most Likely to Lose or Damage Your Luggage](https://lifehacker.com/the-airports-most-likely-to-lose-or-damage-your-luggage-1850641885)
