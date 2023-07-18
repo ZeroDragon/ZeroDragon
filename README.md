@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Series Part-0](https://dev.to/yellowgem/react-series-part-0-323i)
 - [Dev.to/JS] [JShaman Javascript Obfuscator](https://dev.to/w2sft/jshaman-javascript-obfuscator-1jj1)
 - [Dev.to/JS] [Liv Pure - Weight Loss Benefits, Reviews, Uses, Price &amp; Side Effects?](https://dev.to/pure_liv72706/liv-pure-weight-loss-benefits-reviews-uses-price-side-effects-4241)
 - [Dev.to/JS] [How to create a good contact us page](https://dev.to/irishgeoff11/how-to-create-a-good-contact-us-page-4f00)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀 7 open-source projects you should contribute to in 2023 ⭐️⭐️](https://dev.to/github20k/7-open-source-projects-you-should-contribute-to-in-2023-1nph)
 - [Dev.to/JS] [#LearnedToday: Named Capture Group](https://dev.to/danielzotti/learnedtoday-named-capture-group-22ck)
 - [Dev.to/JS] [Compose image thumbnail with Cloudinary and Vue](https://dev.to/mayashavin/compose-image-thumbnail-with-cloudinary-and-vue-3abe)
-- [Dev.to/JS] [JavaScript: Discovering Hidden Gems For Advanced Developers](https://dev.to/ranaivo_rova/javascript-discovering-hidden-gems-for-advanced-developers-1fl5)
 - [Lifehacker] [Your Can Get Write Bot AI for Your Business for 90% Off Right Now](https://lifehacker.com/your-can-get-write-bot-ai-for-your-business-for-90-off-1850629825)
 - [Lifehacker] [Where to Watch &#39;Record of Ragnarök&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-record-of-ragnarok-and-what-you-should-1850631126)
 - [Lifehacker] [Where to Watch Harley Quinn Season 4 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-harley-quinn-season-4-and-what-you-shou-1850625831)
