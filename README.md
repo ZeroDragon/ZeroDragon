@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best practices for using Cypress for Front-end Automation Testing](https://dev.to/kailashpathak7/best-practices-for-using-cypress-for-front-end-automation-testing-16p1)
+- [Dev.to/JS] [Natural Language Processing &lpar;NLP&rpar; in JavaScript &lpar;series&rpar;](https://dev.to/scofieldidehen/natural-language-processing-nlp-in-javascript-series-132f)
 - [Dev.to/JS] [Does NPM really stands for &quot;Node Package Manger&quot; ?](https://dev.to/harshilsharmaa/does-npm-really-stands-for-node-package-manger--1a6p)
 - [Dev.to/JS] [Stop using npm or yarn to install node_modules](https://dev.to/kristiyan_velkov/stop-using-npm-or-yarn-to-install-nodemodules-o5p)
 - [Dev.to/JS] [How to Create a File Upload Page in React to Display Excel Data as a Table and Send it as an Array of Objects](https://dev.to/geekaara/how-to-create-a-file-upload-page-in-react-to-display-excel-data-as-a-table-and-send-it-as-an-array-of-objects-22m2)
@@ -45,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Dev.to/JS] [The most important concepts you must know in JavaScript&lpar;JS&rpar;](https://dev.to/davdev14/the-most-important-concepts-you-must-know-in-javascriptjs-4dei)
 - [Lifehacker] [Four Ways to Make Your &#39;Hellstrip&#39; Less Awful](https://lifehacker.com/four-ways-to-make-your-hellstrip-less-shitty-1850646449)
-- [Dev.to/JS] [What are Angular Signals?: Exploring State Control and Rendering in Angular Apps](https://dev.to/this-is-angular/what-are-angular-signals-exploring-state-control-and-rendering-in-angular-apps-4e5e)
-- [Dev.to/JS] [next js 13.4 server Action step by step guide](https://dev.to/prems5/next-js-134-server-action-step-by-step-guide-2abp)
 - [Lifehacker] [How to Turn Any Room in Your House Into a Panic Room](https://lifehacker.com/how-to-turn-any-room-in-your-house-into-a-panic-room-1850647677)
 - [Lifehacker] [The Fastest Way to Get Rid of Japanese Beetles in Your Garden](https://lifehacker.com/the-fastest-way-to-get-rid-of-japanese-beetles-in-your-1850646529)
 - [Lifehacker] [All Our Favorite Ways to Build a Better Breakfast Sandwich](https://lifehacker.com/15-ways-to-build-a-better-breakfast-sandwich-1850119709)
