@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Compose image thumbnail with Cloudinary and Vue](https://dev.to/mayashavin/compose-image-thumbnail-with-cloudinary-and-vue-3abe)
+- [Dev.to/JS] [JavaScript: Discovering Hidden Gems For Advanced Developers](https://dev.to/ranaivo_rova/javascript-discovering-hidden-gems-for-advanced-developers-1fl5)
+- [Dev.to/JS] [L&#39;utilisation des Promesses en JavaScript pour une gestion asynchrone efficace](https://dev.to/kadea-academy/lutilisation-des-promesses-en-javascript-pour-une-gestion-asynchrone-efficace-bo)
+- [Dev.to/JS] [Building a calculator app with React Native and Tailwind CSS](https://dev.to/arshadayvid/building-a-calculator-app-with-react-native-and-tailwind-css-4k7n)
+- [Dev.to/JS] [Taking Feature Flags to the Next Level: Simplified Feature Flags and Dynamic Overrides](https://dev.to/stretch0/taking-feature-flags-to-the-next-level-simplified-feature-flags-and-dynamic-overrides-254b)
 - [Dev.to/JS] [Exploring Data Structures in Solidity for Advanced Smart Contracts](https://dev.to/donnajohnson88/exploring-data-structures-in-solidity-for-advanced-smart-contracts-52jn)
 - [Dev.to/JS] [I want to work with an excellent partner or team.](https://dev.to/passion117/i-want-to-work-with-excellent-partner-2hfg)
 - [Dev.to/JS] [Best practices for using Cypress for Front-end Automation Testing](https://dev.to/kailashpathak7/best-practices-for-using-cypress-for-front-end-automation-testing-16p1)
@@ -33,15 +38,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Does NPM really stands for &quot;Node Package Manger&quot; ?](https://dev.to/harshilsharmaa/does-npm-really-stands-for-node-package-manger--1a6p)
 - [Dev.to/JS] [Stop using npm or yarn to install node_modules](https://dev.to/kristiyan_velkov/stop-using-npm-or-yarn-to-install-nodemodules-o5p)
 - [Dev.to/JS] [How to Create a File Upload Page in React to Display Excel Data as a Table and Send it as an Array of Objects](https://dev.to/geekaara/how-to-create-a-file-upload-page-in-react-to-display-excel-data-as-a-table-and-send-it-as-an-array-of-objects-22m2)
-- [Dev.to/JS] [Review chất lượng Phòng Khám Đa Khoa Tháng Tám](https://dev.to/pkdkthang8/review-chat-luong-phong-kham-da-khoa-thang-tam-oc7)
-- [Dev.to/JS] [Top 10 State Management Libraries for ReactJS](https://dev.to/ashsajal/top-10-state-management-libraries-for-reactjs-1p5n)
-- [Dev.to/JS] [XS leaks: What they are and how to avoid them](https://dev.to/snyk/xs-leaks-what-they-are-and-how-to-avoid-them-3a68)
 - [Lifehacker] [Your Can Get Write Bot AI for Your Business for 90% Off Right Now](https://lifehacker.com/your-can-get-write-bot-ai-for-your-business-for-90-off-1850629825)
-- [Dev.to/JS] [Funções e Variáveis do JS](https://dev.to/douglaswlc/funcoes-e-variaveis-do-js-38dm)
 - [Lifehacker] [Where to Watch &#39;Record of Ragnarök&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-record-of-ragnarok-and-what-you-should-1850631126)
 - [Lifehacker] [Where to Watch Harley Quinn Season 4 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-harley-quinn-season-4-and-what-you-shou-1850625831)
 - [Lifehacker] [The Best Ways to Stay Cool on a Sweltering Hot Camping Trip](https://lifehacker.com/the-best-ways-to-stay-cool-on-a-sweltering-hot-camping-1850649119)
-- [Dev.to/JS] [Selecting Elements From DOM in JavaScript](https://dev.to/jacknorman235/selecting-elements-from-dom-in-javascript-29ka)
 - [Lifehacker] [Seven Ways to Make Sure Your Curbside Delivery Is What You Actually Ordered](https://lifehacker.com/seven-ways-to-make-sure-your-curbside-delivery-is-what-1850646488)
 - [Lifehacker] [How to Keep Your Bed as Cool as Possible This Summer](https://lifehacker.com/how-to-keep-your-bed-as-cool-as-possible-this-summer-1850648440)
 - [Lifehacker] [Set Your iPhone to Automatically Delete 2FA Verification Codes](https://lifehacker.com/set-your-iphone-to-automatically-delete-2fa-verificatio-1850647064)
