@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Make Two Deadlines for Every Project](https://lifehacker.com/why-you-should-make-two-deadlines-for-every-project-1850648884)
+- [Dev.to/JS] [Angular&#39;s Transform Option for Input Values: Say Goodbye to Setters and Getters](https://dev.to/suranisaunak/angulars-transform-option-for-input-values-say-goodbye-to-setters-and-getters-339f)
+- [Dev.to/JS] [Dependency Injection with Injector Service in Angular](https://dev.to/suranisaunak/dependency-injection-with-injector-service-in-angular-7jb)
 - [Lifehacker] [Make This Chicken Frankie With a Surprising Ingredient](https://lifehacker.com/make-this-chicken-frankie-with-a-surprising-ingredient-1850648956)
 - [Dev.to/JS] [Server-Side Rendering &lpar;SSR&rpar; in Angular 16](https://dev.to/suranisaunak/server-side-rendering-ssr-in-angular-16-4ga1)
 - [Dev.to/JS] [JavaScript Obfuscation and Encryption: Zombie Code](https://dev.to/w2sft/javascript-obfuscation-and-encryption-zombie-code-i74)
@@ -33,15 +36,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Potential issues with barrel files in Webpack](https://dev.to/fogel/potential-issues-with-barrel-files-in-webpack-4bf2)
 - [Dev.to/JS] [Granular Permission Management with CASL Library](https://dev.to/brainhubeu/granular-permission-management-with-casl-library-50g9)
 - [Dev.to/JS] [The JavaScript Event Loop: Understanding Its Mechanics and Functionality](https://dev.to/adii/the-javascript-event-loop-understanding-its-mechanics-and-functionality-5dee)
+- [Dev.to/JS] [Over-the-air updates for WKWebView content](https://dev.to/tdermendjiev/over-the-air-updates-for-wkwebview-content-3cnb)
 - [Lifehacker] [The Best New Messages Features in iOS 17](https://lifehacker.com/best-new-messages-features-ios-17-1850646615)
 - [Dev.to/JS] [My first project as Software developer](https://dev.to/franpadularrosa/my-first-project-as-software-developer-dl5)
 - [Dev.to/JS] [Mastering Form Interactivity with React: A Comprehensive Guide for Developers](https://dev.to/bilal1718/mastering-form-interactivity-with-react-a-comprehensive-guide-for-developers-4cni)
 - [Dev.to/JS] [Web Development for Beginners](https://dev.to/geetechlab/web-development-in-general-1975)
 - [Dev.to/JS] [React Series Part-0](https://dev.to/yellowgem/react-series-part-0-323i)
-- [Dev.to/JS] [JShaman Javascript Obfuscator](https://dev.to/w2sft/jshaman-javascript-obfuscator-1jj1)
-- [Dev.to/JS] [Liv Pure - Weight Loss Benefits, Reviews, Uses, Price &amp; Side Effects?](https://dev.to/pure_liv72706/liv-pure-weight-loss-benefits-reviews-uses-price-side-effects-4241)
-- [Dev.to/JS] [How to create a good contact us page](https://dev.to/irishgeoff11/how-to-create-a-good-contact-us-page-4f00)
-- [Lifehacker] [Your Can Get Write Bot AI for Your Business for 90% Off Right Now](https://lifehacker.com/your-can-get-write-bot-ai-for-your-business-for-90-off-1850629825)
+- [Lifehacker] [Your Can Get &#39;Write Bot&#39; AI for Your Business for 90% Off Right Now](https://lifehacker.com/your-can-get-write-bot-ai-for-your-business-for-90-off-1850629825)
 - [Lifehacker] [Where to Watch &#39;Record of Ragnarök&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-record-of-ragnarok-and-what-you-should-1850631126)
 - [Lifehacker] [Where to Watch Harley Quinn Season 4 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-harley-quinn-season-4-and-what-you-shou-1850625831)
 - [Lifehacker] [The Best Ways to Stay Cool on a Sweltering Hot Camping Trip](https://lifehacker.com/the-best-ways-to-stay-cool-on-a-sweltering-hot-camping-1850649119)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Stop Eating Raw Oysters](https://lifehacker.com/why-you-should-stop-eating-raw-oysters-1850642677)
 - [Lifehacker] [Nine Better Ways to Skinny Dip](https://lifehacker.com/nine-better-ways-to-skinny-dip-1850646501)
 - [Lifehacker] [Don&#39;t Fall for These 12 Fitness Myths From TikTok Influencers](https://lifehacker.com/dont-fall-for-these-12-fitness-myths-from-tiktok-influe-1846966596)
-- [Lifehacker] [You Can Now Securely Share Apple Passkeys](https://lifehacker.com/you-can-now-securely-share-apple-passkeys-1850646649)
-- [Lifehacker] [This Refurbished MacBook Air Is Almost 70% Off](https://lifehacker.com/this-refurbished-macbook-air-is-almost-70-off-1850638589)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Now Securely Share Apple Passkeys](https://lifehacker.com/you-can-now-securely-share-apple-passkeys-1850646649)<!-- TECH-POSTS:END -->
 
 ---
 
