@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make This Chicken Frankie With a Surprising Ingredient](https://lifehacker.com/make-this-chicken-frankie-with-a-surprising-ingredient-1850648956)
+- [Dev.to/JS] [Server-Side Rendering &lpar;SSR&rpar; in Angular 16](https://dev.to/suranisaunak/server-side-rendering-ssr-in-angular-16-4ga1)
+- [Dev.to/JS] [JavaScript Obfuscation and Encryption: Zombie Code](https://dev.to/w2sft/javascript-obfuscation-and-encryption-zombie-code-i74)
+- [Lifehacker] [The Difference Between a Martini Glass, a Coupe, and a Nick &amp; Nora &lpar;and Whether It Matters&rpar;](https://lifehacker.com/the-difference-between-a-martini-glass-a-coupe-and-a-1850648390)
+- [Dev.to/JS] [Potential issues with barrel files in Webpack](https://dev.to/fogel/potential-issues-with-barrel-files-in-webpack-4bf2)
+- [Dev.to/JS] [Granular Permission Management with CASL Library](https://dev.to/brainhubeu/granular-permission-management-with-casl-library-50g9)
+- [Dev.to/JS] [The JavaScript Event Loop: Understanding Its Mechanics and Functionality](https://dev.to/adii/the-javascript-event-loop-understanding-its-mechanics-and-functionality-5dee)
+- [Lifehacker] [The Best New Messages Features in iOS 17](https://lifehacker.com/best-new-messages-features-ios-17-1850646615)
 - [Dev.to/JS] [My first project as Software developer](https://dev.to/franpadularrosa/my-first-project-as-software-developer-dl5)
 - [Dev.to/JS] [Mastering Form Interactivity with React: A Comprehensive Guide for Developers](https://dev.to/bilal1718/mastering-form-interactivity-with-react-a-comprehensive-guide-for-developers-4cni)
 - [Dev.to/JS] [Web Development for Beginners](https://dev.to/geetechlab/web-development-in-general-1975)
@@ -33,11 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JShaman Javascript Obfuscator](https://dev.to/w2sft/jshaman-javascript-obfuscator-1jj1)
 - [Dev.to/JS] [Liv Pure - Weight Loss Benefits, Reviews, Uses, Price &amp; Side Effects?](https://dev.to/pure_liv72706/liv-pure-weight-loss-benefits-reviews-uses-price-side-effects-4241)
 - [Dev.to/JS] [How to create a good contact us page](https://dev.to/irishgeoff11/how-to-create-a-good-contact-us-page-4f00)
-- [Dev.to/JS] [What is a form backend service -- fabform.io](https://dev.to/irishgeoff11/what-is-a-form-backend-service-23ab)
-- [Dev.to/JS] [What I Learnt Deploying My Next.js App](https://dev.to/bikash9609/what-i-learnt-deploying-my-nextjs-app-39a9)
-- [Dev.to/JS] [Popular communities for web designers](https://dev.to/irishgeoff11/popular-communities-for-web-designers-gho)
-- [Dev.to/JS] [caheotv trực tiếp bóng đá full HD](https://dev.to/caheotv11/caheotv-truc-tiep-bong-da-full-hd-2i1p)
-- [Dev.to/JS] [Launching Dyte’s Live streaming SDK on Product Hunt](https://dev.to/rishit/launching-dytes-live-streaming-sdk-on-product-hunt-d86)
 - [Lifehacker] [Your Can Get Write Bot AI for Your Business for 90% Off Right Now](https://lifehacker.com/your-can-get-write-bot-ai-for-your-business-for-90-off-1850629825)
 - [Lifehacker] [Where to Watch &#39;Record of Ragnarök&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-record-of-ragnarok-and-what-you-should-1850631126)
 - [Lifehacker] [Where to Watch Harley Quinn Season 4 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-harley-quinn-season-4-and-what-you-shou-1850625831)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Nine Better Ways to Skinny Dip](https://lifehacker.com/nine-better-ways-to-skinny-dip-1850646501)
 - [Lifehacker] [Don&#39;t Fall for These 12 Fitness Myths From TikTok Influencers](https://lifehacker.com/dont-fall-for-these-12-fitness-myths-from-tiktok-influe-1846966596)
 - [Lifehacker] [You Can Now Securely Share Apple Passkeys](https://lifehacker.com/you-can-now-securely-share-apple-passkeys-1850646649)
-- [Lifehacker] [This Refurbished MacBook Air Is Almost 70% Off](https://lifehacker.com/this-refurbished-macbook-air-is-almost-70-off-1850638589)
-- [Lifehacker] [12 Ocean Disaster Podcasts That Will Ruin Your Beach Vacation](https://lifehacker.com/12-ocean-disaster-podcasts-that-will-ruin-your-beach-va-1850623861)
-- [Lifehacker] [How to Know If the Education Department Is Forgiving Your Student Loan](https://lifehacker.com/how-to-know-if-the-education-department-is-forgiving-yo-1850642973)
-- [Lifehacker] [Put a Frozen Pineapple Core In Your Water Bottle](https://lifehacker.com/put-a-frozen-pineapple-core-in-your-water-bottle-1850642419)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Refurbished MacBook Air Is Almost 70% Off](https://lifehacker.com/this-refurbished-macbook-air-is-almost-70-off-1850638589)<!-- TECH-POSTS:END -->
 
 ---
 
