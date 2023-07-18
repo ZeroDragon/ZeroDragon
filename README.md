@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get Four Tickets for $80 to Any of These Summer Concerts](https://lifehacker.com/you-can-get-four-tickets-for-80-to-any-of-these-summer-1850652038)
+- [Dev.to/JS] [Harnessing the Power of LLaMA v2 for Chat Applications](https://dev.to/mikeyoung44/harnessing-the-power-of-llama-v2-for-chat-applications-2i3f)
+- [Lifehacker] [Better Organize Your Days With ‘Timeboxing’](https://lifehacker.com/better-organize-your-days-with-timeboxing-1850652085)
+- [Lifehacker] [My Favorite Ways to Build a Better Smoothie](https://lifehacker.com/10-ways-to-build-a-better-smoothie-1850184624)
+- [Lifehacker] [Five Hand Tools It&#39;s OK to Buy Cheap](https://lifehacker.com/five-hand-tools-its-ok-to-buy-cheap-1850651529)
 - [Dev.to/JS] [Don&#39;t do unit test in frontend, Getting a Code Coverage report With Selenium](https://dev.to/zodman/dont-do-unit-test-in-frontend-getting-a-code-coverage-report-with-selenium-2k3)
 - [Dev.to/JS] [Node.js morsel for today: Understanding Node.js timers](https://dev.to/rkterungwa16/nodejs-morsel-for-today-understanding-nodejs-timers-4c8e)
 - [Lifehacker] [How to Get a Prison Pen Pal](https://lifehacker.com/how-to-get-a-prison-pen-pal-1850651994)
@@ -46,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Actually Still Join the French Foreign Legion](https://lifehacker.com/you-can-actually-still-join-the-french-foreign-legion-1850649876)
 - [Dev.to/JS] [Ways to group data of an array.](https://dev.to/eldevflo/ways-to-group-data-of-an-array-56g8)
 - [Dev.to/JS] [User Authentication with JavaScript and Express: A Practical Guide](https://dev.to/emotta/user-authentication-with-javascript-and-express-a-practical-guide-3ni2)
-- [Dev.to/JS] [Feature-Sliced Design: The Best Frontend Architecture](https://dev.to/m_midas/feature-sliced-design-the-best-frontend-architecture-4noj)
 - [Lifehacker] [Try This Twist on the Pomodoro Technique](https://lifehacker.com/try-this-twist-on-the-pomodoro-technique-1850650750)
 - [Lifehacker] [This Scam Is Targeting Home Closing Costs](https://lifehacker.com/this-scam-is-targeting-home-closing-costs-1850649304)
 - [Lifehacker] [What to Buy &lpar;and Skip&rpar; at ALDI](https://lifehacker.com/what-to-buy-and-skip-at-aldi-1798664491)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Stay Cool on a Sweltering Hot Camping Trip](https://lifehacker.com/the-best-ways-to-stay-cool-on-a-sweltering-hot-camping-1850649119)
 - [Lifehacker] [Seven Ways to Make Sure Your Curbside Delivery Is What You Actually Ordered](https://lifehacker.com/seven-ways-to-make-sure-your-curbside-delivery-is-what-1850646488)
 - [Lifehacker] [How to Keep Your Bed as Cool as Possible This Summer](https://lifehacker.com/how-to-keep-your-bed-as-cool-as-possible-this-summer-1850648440)
-- [Lifehacker] [Set Your iPhone to Automatically Delete 2FA Verification Codes](https://lifehacker.com/set-your-iphone-to-automatically-delete-2fa-verificatio-1850647064)
-- [Lifehacker] [The Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
-- [Lifehacker] [Four Ways to Make Your &#39;Hellstrip&#39; Less Awful](https://lifehacker.com/four-ways-to-make-your-hellstrip-less-shitty-1850646449)
-- [Lifehacker] [How to Turn Any Room in Your House Into a Panic Room](https://lifehacker.com/how-to-turn-any-room-in-your-house-into-a-panic-room-1850647677)
-- [Lifehacker] [The Fastest Way to Get Rid of Japanese Beetles in Your Garden](https://lifehacker.com/the-fastest-way-to-get-rid-of-japanese-beetles-in-your-1850646529)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Set Your iPhone to Automatically Delete 2FA Verification Codes](https://lifehacker.com/set-your-iphone-to-automatically-delete-2fa-verificatio-1850647064)<!-- TECH-POSTS:END -->
 
 ---
 
