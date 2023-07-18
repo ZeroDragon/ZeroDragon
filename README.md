@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Unplug and Turn Off When You Leave for Summer Vacation](https://lifehacker.com/what-to-unplug-and-turn-off-when-you-leave-for-summer-v-1797403292)
+- [Lifehacker] [You Need a Career ‘Sponsor’ &lpar;Not Just a Mentor&rpar;](https://lifehacker.com/you-need-a-career-sponsor-not-just-a-mentor-1850651350)
+- [Lifehacker] [How to Clean Your House, According to the Professionals](https://lifehacker.com/how-to-clean-your-house-like-a-professional-housekeeper-1826796349)
+- [Dev.to/JS] [Cookie🍪 : Deep Dive in cookies💻](https://dev.to/tanishtt/cookie-deep-dive-in-cookies-5fn9)
+- [Dev.to/JS] [Measuring the performance of JSS apps](https://dev.to/illiakovalenko/measuring-the-performance-of-jss-apps-4m5k)
+- [Lifehacker] [This Microsoft Excel Training Course Is $30 Right Now](https://lifehacker.com/this-microsoft-excel-training-course-is-30-right-now-1850638608)
 - [Lifehacker] [What&#39;s New on Disney+ in August 2023](https://lifehacker.com/whats-new-on-disney-in-august-2023-1850652833)
 - [Dev.to/JS] [Javascript REST API CALL](https://dev.to/kumo70/javascript-rest-api-call-2ne2)
 - [Lifehacker] [A Beginner&#39;s Guide to Buying a Weightlifting Belt](https://lifehacker.com/a-beginners-guide-to-buying-a-weightlifting-belt-1850401310)
@@ -50,9 +56,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lightweight Postman alternative: Firecamp](https://dev.to/firecampdev/lightweight-postman-alternative-introducing-firecamp-3066)
 - [Lifehacker] [Use Flightera to See How Often a Flight Is Delayed](https://lifehacker.com/use-flightera-to-see-how-often-a-flight-is-delayed-1850649731)
 - [Dev.to/JS] [Mocker: Easy Live-to-Mock Switching in VS Code](https://dev.to/skyrampmia/mocker-easy-live-to-mock-switching-in-vs-code-3dbp)
-- [Dev.to/JS] [Day 7: Once in JavaScript](https://dev.to/dhrn/day-7-once-in-js-4le)
 - [Lifehacker] [You Can Actually Still Join the French Foreign Legion](https://lifehacker.com/you-can-actually-still-join-the-french-foreign-legion-1850649876)
-- [Dev.to/JS] [Ways to group data of an array.](https://dev.to/eldevflo/ways-to-group-data-of-an-array-56g8)
 - [Lifehacker] [Try This Twist on the Pomodoro Technique](https://lifehacker.com/try-this-twist-on-the-pomodoro-technique-1850650750)
 - [Lifehacker] [This Scam Is Targeting Home Closing Costs](https://lifehacker.com/this-scam-is-targeting-home-closing-costs-1850649304)
 - [Lifehacker] [What to Buy &lpar;and Skip&rpar; at ALDI](https://lifehacker.com/what-to-buy-and-skip-at-aldi-1798664491)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Chicken Frankie With a Surprising Ingredient](https://lifehacker.com/make-this-chicken-frankie-with-a-surprising-ingredient-1850648956)
 - [Lifehacker] [The Difference Between a Martini Glass, a Coupe, and a Nick &amp; Nora &lpar;and Whether It Matters&rpar;](https://lifehacker.com/the-difference-between-a-martini-glass-a-coupe-and-a-1850648390)
 - [Lifehacker] [The Best New Messages Features in iOS 17](https://lifehacker.com/best-new-messages-features-ios-17-1850646615)
-- [Lifehacker] [Your Can Get &#39;Write Bot&#39; AI for Your Business for 90% Off Right Now](https://lifehacker.com/your-can-get-write-bot-ai-for-your-business-for-90-off-1850629825)
-- [Lifehacker] [Where to Watch &#39;Record of Ragnarök&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-record-of-ragnarok-and-what-you-should-1850631126)
-- [Lifehacker] [Where to Watch Harley Quinn Season 4 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-harley-quinn-season-4-and-what-you-shou-1850625831)
-- [Lifehacker] [The Best Ways to Stay Cool on a Sweltering Hot Camping Trip](https://lifehacker.com/the-best-ways-to-stay-cool-on-a-sweltering-hot-camping-1850649119)
-- [Lifehacker] [Seven Ways to Make Sure Your Curbside Delivery Is What You Actually Ordered](https://lifehacker.com/seven-ways-to-make-sure-your-curbside-delivery-is-what-1850646488)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Can Get &#39;Write Bot&#39; AI for Your Business for 90% Off Right Now](https://lifehacker.com/your-can-get-write-bot-ai-for-your-business-for-90-off-1850629825)<!-- TECH-POSTS:END -->
 
 ---
 
