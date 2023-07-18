@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring Data Structures in Solidity for Advanced Smart Contracts](https://dev.to/donnajohnson88/exploring-data-structures-in-solidity-for-advanced-smart-contracts-52jn)
+- [Dev.to/JS] [I want to work with an excellent partner or team.](https://dev.to/passion117/i-want-to-work-with-excellent-partner-2hfg)
 - [Dev.to/JS] [Best practices for using Cypress for Front-end Automation Testing](https://dev.to/kailashpathak7/best-practices-for-using-cypress-for-front-end-automation-testing-16p1)
 - [Dev.to/JS] [Natural Language Processing &lpar;NLP&rpar; in JavaScript &lpar;series&rpar;](https://dev.to/scofieldidehen/natural-language-processing-nlp-in-javascript-series-132f)
 - [Dev.to/JS] [Does NPM really stands for &quot;Node Package Manger&quot; ?](https://dev.to/harshilsharmaa/does-npm-really-stands-for-node-package-manger--1a6p)
@@ -42,10 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Selecting Elements From DOM in JavaScript](https://dev.to/jacknorman235/selecting-elements-from-dom-in-javascript-29ka)
 - [Lifehacker] [Seven Ways to Make Sure Your Curbside Delivery Is What You Actually Ordered](https://lifehacker.com/seven-ways-to-make-sure-your-curbside-delivery-is-what-1850646488)
 - [Lifehacker] [How to Keep Your Bed as Cool as Possible This Summer](https://lifehacker.com/how-to-keep-your-bed-as-cool-as-possible-this-summer-1850648440)
-- [Dev.to/JS] [From Graphic Design to FullStack Developer](https://dev.to/linnovel/from-graphic-design-to-fullstack-developer-3hfh)
 - [Lifehacker] [Set Your iPhone to Automatically Delete 2FA Verification Codes](https://lifehacker.com/set-your-iphone-to-automatically-delete-2fa-verificatio-1850647064)
 - [Lifehacker] [The Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
-- [Dev.to/JS] [The most important concepts you must know in JavaScript&lpar;JS&rpar;](https://dev.to/davdev14/the-most-important-concepts-you-must-know-in-javascriptjs-4dei)
 - [Lifehacker] [Four Ways to Make Your &#39;Hellstrip&#39; Less Awful](https://lifehacker.com/four-ways-to-make-your-hellstrip-less-shitty-1850646449)
 - [Lifehacker] [How to Turn Any Room in Your House Into a Panic Room](https://lifehacker.com/how-to-turn-any-room-in-your-house-into-a-panic-room-1850647677)
 - [Lifehacker] [The Fastest Way to Get Rid of Japanese Beetles in Your Garden](https://lifehacker.com/the-fastest-way-to-get-rid-of-japanese-beetles-in-your-1850646529)
