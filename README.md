@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GitHub for babies](https://dev.to/bugtams/github-for-babies-17mc)
+- [Dev.to/JS] [Top 10 State Management Libraries for ReactJS](https://dev.to/ashsajal/top-10-state-management-libraries-for-reactjs-1p5n)
+- [Dev.to/JS] [XS leaks: What they are and how to avoid them](https://dev.to/snyk/xs-leaks-what-they-are-and-how-to-avoid-them-3a68)
 - [Lifehacker] [Your Can Get Write Bot AI for Your Business for 90% Off Right Now](https://lifehacker.com/your-can-get-write-bot-ai-for-your-business-for-90-off-1850629825)
 - [Dev.to/JS] [Funções e Variáveis do JS](https://dev.to/douglaswlc/funcoes-e-variaveis-do-js-38dm)
 - [Lifehacker] [Where to Watch &#39;Record of Ragnarök&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-record-of-ragnarok-and-what-you-should-1850631126)
@@ -48,12 +51,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All Our Favorite Ways to Build a Better Breakfast Sandwich](https://lifehacker.com/15-ways-to-build-a-better-breakfast-sandwich-1850119709)
 - [Dev.to/JS] [Building a Simple Unit Converter with JavaScript](https://dev.to/peggyou/building-a-simple-unit-converter-with-javascript-3h07)
 - [Lifehacker] [Your Legal Responsibilities As a Cat Owner](https://lifehacker.com/your-legal-responsibilities-as-a-cat-owner-1850647989)
-- [Dev.to/JS] [How to Make a Confetti React Custom Hook](https://dev.to/michaellarocca/how-to-make-a-confetti-react-custom-hook-3190)
 - [Lifehacker] [This Salesforce Certification Guide With Practice Exams Is Almost 90% Off](https://lifehacker.com/this-salesforce-certification-guide-with-practice-exams-1850629800)
 - [Lifehacker] [10 Professional Baking Tools I Use at Home](https://lifehacker.com/best-professional-baking-tools-for-every-kitchen-1850168766)
-- [Dev.to/JS] [Meetings room III - Elegant solution in JavaScript with detailed explanation](https://dev.to/hugaidas/meetings-room-iii-elegant-solution-in-javascript-with-detailed-explanation-4cj8)
 - [Lifehacker] [Drown Your Potted Plants](https://lifehacker.com/drown-your-potted-plants-1850646521)
-- [Dev.to/JS] [Ocupando el método sort&lpar;&rpar; en JavaScript](https://dev.to/ulisesserranop/ocupando-el-metodo-sort-en-javascript-1cci)
 - [Lifehacker] [Make a Better BLT With a Waffled Bacon Patty](https://lifehacker.com/make-a-better-blt-with-a-waffled-bacon-patty-1850647333)
 - [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
 - [Lifehacker] [The Three Best Ways to Trellis Your Tomatoes](https://lifehacker.com/the-three-best-ways-to-trellis-your-tomatoes-1850646504)
