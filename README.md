@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on Disney+ in August 2023](https://lifehacker.com/whats-new-on-disney-in-august-2023-1850652833)
+- [Dev.to/JS] [Javascript REST API CALL](https://dev.to/kumo70/javascript-rest-api-call-2ne2)
+- [Lifehacker] [A Beginner&#39;s Guide to Buying a Weightlifting Belt](https://lifehacker.com/a-beginners-guide-to-buying-a-weightlifting-belt-1850401310)
 - [Lifehacker] [You Can Get Four Tickets for $80 to Any of These Summer Concerts](https://lifehacker.com/you-can-get-four-tickets-for-80-to-any-of-these-summer-1850652038)
 - [Dev.to/JS] [Harnessing the Power of LLaMA v2 for Chat Applications](https://dev.to/mikeyoung44/harnessing-the-power-of-llama-v2-for-chat-applications-2i3f)
 - [Lifehacker] [Better Organize Your Days With ‘Timeboxing’](https://lifehacker.com/better-organize-your-days-with-timeboxing-1850652085)
@@ -50,7 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 7: Once in JavaScript](https://dev.to/dhrn/day-7-once-in-js-4le)
 - [Lifehacker] [You Can Actually Still Join the French Foreign Legion](https://lifehacker.com/you-can-actually-still-join-the-french-foreign-legion-1850649876)
 - [Dev.to/JS] [Ways to group data of an array.](https://dev.to/eldevflo/ways-to-group-data-of-an-array-56g8)
-- [Dev.to/JS] [User Authentication with JavaScript and Express: A Practical Guide](https://dev.to/emotta/user-authentication-with-javascript-and-express-a-practical-guide-3ni2)
 - [Lifehacker] [Try This Twist on the Pomodoro Technique](https://lifehacker.com/try-this-twist-on-the-pomodoro-technique-1850650750)
 - [Lifehacker] [This Scam Is Targeting Home Closing Costs](https://lifehacker.com/this-scam-is-targeting-home-closing-costs-1850649304)
 - [Lifehacker] [What to Buy &lpar;and Skip&rpar; at ALDI](https://lifehacker.com/what-to-buy-and-skip-at-aldi-1798664491)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Watch &#39;Record of Ragnarök&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-record-of-ragnarok-and-what-you-should-1850631126)
 - [Lifehacker] [Where to Watch Harley Quinn Season 4 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-harley-quinn-season-4-and-what-you-shou-1850625831)
 - [Lifehacker] [The Best Ways to Stay Cool on a Sweltering Hot Camping Trip](https://lifehacker.com/the-best-ways-to-stay-cool-on-a-sweltering-hot-camping-1850649119)
-- [Lifehacker] [Seven Ways to Make Sure Your Curbside Delivery Is What You Actually Ordered](https://lifehacker.com/seven-ways-to-make-sure-your-curbside-delivery-is-what-1850646488)
-- [Lifehacker] [How to Keep Your Bed as Cool as Possible This Summer](https://lifehacker.com/how-to-keep-your-bed-as-cool-as-possible-this-summer-1850648440)
-- [Lifehacker] [Set Your iPhone to Automatically Delete 2FA Verification Codes](https://lifehacker.com/set-your-iphone-to-automatically-delete-2fa-verificatio-1850647064)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Seven Ways to Make Sure Your Curbside Delivery Is What You Actually Ordered](https://lifehacker.com/seven-ways-to-make-sure-your-curbside-delivery-is-what-1850646488)<!-- TECH-POSTS:END -->
 
 ---
 
