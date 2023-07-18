@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Can Get Write Bot AI for Your Business for 90% Off Right Now](https://lifehacker.com/your-can-get-write-bot-ai-for-your-business-for-90-off-1850629825)
+- [Dev.to/JS] [Funções e Variáveis do JS](https://dev.to/douglaswlc/funcoes-e-variaveis-do-js-38dm)
 - [Lifehacker] [Where to Watch &#39;Record of Ragnarök&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-record-of-ragnarok-and-what-you-should-1850631126)
 - [Lifehacker] [Where to Watch Harley Quinn Season 4 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-harley-quinn-season-4-and-what-you-shou-1850625831)
 - [Lifehacker] [The Best Ways to Stay Cool on a Sweltering Hot Camping Trip](https://lifehacker.com/the-best-ways-to-stay-cool-on-a-sweltering-hot-camping-1850649119)
@@ -55,7 +57,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a Better BLT With a Waffled Bacon Patty](https://lifehacker.com/make-a-better-blt-with-a-waffled-bacon-patty-1850647333)
 - [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
 - [Lifehacker] [The Three Best Ways to Trellis Your Tomatoes](https://lifehacker.com/the-three-best-ways-to-trellis-your-tomatoes-1850646504)
-- [Dev.to/JS] [How to get all the contributors in a GitHub repository?](https://dev.to/bashamega/how-to-get-all-the-contributors-in-a-github-repository-3i1c)
 - [Lifehacker] [The Flash Pro Plus 6-in-1 Power Bank Is Almost 30% Off Right Now](https://lifehacker.com/the-flash-pro-plus-6-in-1-power-bank-is-almost-30-off-1850629792)
 - [Lifehacker] [Why You Should Stop Eating Raw Oysters](https://lifehacker.com/why-you-should-stop-eating-raw-oysters-1850642677)
 - [Lifehacker] [Nine Better Ways to Skinny Dip](https://lifehacker.com/nine-better-ways-to-skinny-dip-1850646501)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Refurbished MacBook Air Is Almost 70% Off](https://lifehacker.com/this-refurbished-macbook-air-is-almost-70-off-1850638589)
 - [Lifehacker] [12 Ocean Disaster Podcasts That Will Ruin Your Beach Vacation](https://lifehacker.com/12-ocean-disaster-podcasts-that-will-ruin-your-beach-va-1850623861)
 - [Lifehacker] [How to Know If the Education Department Is Forgiving Your Student Loan](https://lifehacker.com/how-to-know-if-the-education-department-is-forgiving-yo-1850642973)
-- [Lifehacker] [Put a Frozen Pineapple Core In Your Water Bottle](https://lifehacker.com/put-a-frozen-pineapple-core-in-your-water-bottle-1850642419)
-- [Lifehacker] [TikTok ‘Diet’ of the Week: The Ice Hack for Weight Loss Is an Ad for a Dumb Supplement](https://lifehacker.com/tiktok-diet-of-the-week-the-ice-hack-for-weight-loss-1850642691)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Put a Frozen Pineapple Core In Your Water Bottle](https://lifehacker.com/put-a-frozen-pineapple-core-in-your-water-bottle-1850642419)<!-- TECH-POSTS:END -->
 
 ---
 
