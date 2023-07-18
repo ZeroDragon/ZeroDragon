@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make Overnight Oats in an Almost-Empty Jam Jar](https://lifehacker.com/make-overnight-oats-in-an-almost-empty-jam-jar-1850651723)
+- [Dev.to/JS] [What emerging web development trends do you believe will have the biggest impact in the near future?](https://dev.to/sadeedpv/what-emerging-web-development-trends-do-you-believe-will-have-the-biggest-impact-in-the-near-future-2fmk)
+- [Dev.to/JS] [JavaScript Web APIs Series: Background and Synchronization APIs](https://dev.to/olodocoder/javascript-web-apis-series-background-and-synchronization-apis-39kc)
+- [Dev.to/JS] [Exploring Web Rendering: Streaming HTML](https://dev.to/mangs/exploring-web-rendering-streaming-html-ba9)
+- [Lifehacker] [This Raspberry Pi and Arduino Developer Course Bundle Is 80% Off Right Now](https://lifehacker.com/this-raspberry-pi-and-arduino-developer-course-bundle-i-1850638653)
+- [Lifehacker] [You Can Get Around Twitter&#39;s New DM Changes](https://lifehacker.com/you-can-get-around-twitters-new-dm-changes-1850651336)
+- [Lifehacker] [All the Ways You Should Be Using Mayo &lpar;but Probably Aren’t&rpar;](https://lifehacker.com/best-overlooked-uses-for-mayo-1847114226)
 - [Lifehacker] [This Number on Your Boarding Pass Reveals a Ton of Personal Data](https://lifehacker.com/this-number-on-your-boarding-pass-reveals-a-ton-of-pers-1850651165)
 - [Dev.to/JS] [Lightweight Postman alternative: Firecamp](https://dev.to/firecampdev/lightweight-postman-alternative-introducing-firecamp-3066)
 - [Lifehacker] [Use Flightera to See How Often a Flight Is Delayed](https://lifehacker.com/use-flightera-to-see-how-often-a-flight-is-delayed-1850649731)
@@ -39,13 +46,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Don&#39;t make counters like that. 🛑](https://dev.to/ivanzm123/dont-make-counters-like-that-1fhc)
 - [Dev.to/JS] [Javascript Beginner to Advanced: Value Bomb in one Shot](https://dev.to/lovepreetsingh/javascript-beginner-to-advanced-value-bomb-in-one-shot-2ll6)
 - [Dev.to/JS] [The Moon in 10241 Dots — Re-creating a 1969 Masterpiece](https://dev.to/madsstoumann/the-moon-in-10241-dots-re-creating-a-1969-masterpiece-35e2)
-- [Dev.to/JS] [Custom Error classes with Apollo Server](https://dev.to/chrisheld927/custom-error-classes-with-apollo-server-31pj)
-- [Dev.to/JS] [Location-Based Access Control Made Easy with Next.js and IPInfo](https://dev.to/permit_io/location-based-access-control-made-easy-with-nextjs-and-ipinfo-1bl)
 - [Lifehacker] [This Scam Is Targeting Home Closing Costs](https://lifehacker.com/this-scam-is-targeting-home-closing-costs-1850649304)
 - [Lifehacker] [What to Buy &lpar;and Skip&rpar; at ALDI](https://lifehacker.com/what-to-buy-and-skip-at-aldi-1798664491)
 - [Lifehacker] [This Refurbished HP EliteDesk and Windows 10 Pro Bundle Is 55% Off](https://lifehacker.com/this-refurbished-hp-elitedesk-and-windows-10-pro-bundle-1850638631)
 - [Lifehacker] [Why You Should Make Two Deadlines for Every Project](https://lifehacker.com/why-you-should-make-two-deadlines-for-every-project-1850648884)
-- [Dev.to/JS] [Angular&#39;s Transform Option for Input Values: Say Goodbye to Setters and Getters](https://dev.to/suranisaunak/angulars-transform-option-for-input-values-say-goodbye-to-setters-and-getters-339f)
 - [Lifehacker] [Make This Chicken Frankie With a Surprising Ingredient](https://lifehacker.com/make-this-chicken-frankie-with-a-surprising-ingredient-1850648956)
 - [Lifehacker] [The Difference Between a Martini Glass, a Coupe, and a Nick &amp; Nora &lpar;and Whether It Matters&rpar;](https://lifehacker.com/the-difference-between-a-martini-glass-a-coupe-and-a-1850648390)
 - [Lifehacker] [The Best New Messages Features in iOS 17](https://lifehacker.com/best-new-messages-features-ios-17-1850646615)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Turn Any Room in Your House Into a Panic Room](https://lifehacker.com/how-to-turn-any-room-in-your-house-into-a-panic-room-1850647677)
 - [Lifehacker] [The Fastest Way to Get Rid of Japanese Beetles in Your Garden](https://lifehacker.com/the-fastest-way-to-get-rid-of-japanese-beetles-in-your-1850646529)
 - [Lifehacker] [All Our Favorite Ways to Build a Better Breakfast Sandwich](https://lifehacker.com/15-ways-to-build-a-better-breakfast-sandwich-1850119709)
-- [Lifehacker] [Your Legal Responsibilities As a Cat Owner](https://lifehacker.com/your-legal-responsibilities-as-a-cat-owner-1850647989)
-- [Lifehacker] [This Salesforce Certification Guide With Practice Exams Is Almost 90% Off](https://lifehacker.com/this-salesforce-certification-guide-with-practice-exams-1850629800)
-- [Lifehacker] [10 Professional Baking Tools I Use at Home](https://lifehacker.com/best-professional-baking-tools-for-every-kitchen-1850168766)
-- [Lifehacker] [Drown Your Potted Plants](https://lifehacker.com/drown-your-potted-plants-1850646521)
-- [Lifehacker] [Make a Better BLT With a Waffled Bacon Patty](https://lifehacker.com/make-a-better-blt-with-a-waffled-bacon-patty-1850647333)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Legal Responsibilities As a Cat Owner](https://lifehacker.com/your-legal-responsibilities-as-a-cat-owner-1850647989)<!-- TECH-POSTS:END -->
 
 ---
 
