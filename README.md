@@ -26,8 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create a File Upload Page in React to Display Excel Data as a Table and Send it as an Array of Objects](https://dev.to/geekaara/how-to-create-a-file-upload-page-in-react-to-display-excel-data-as-a-table-and-send-it-as-an-array-of-objects-22m2)
 - [Dev.to/JS] [Review chất lượng Phòng Khám Đa Khoa Tháng Tám](https://dev.to/pkdkthang8/review-chat-luong-phong-kham-da-khoa-thang-tam-oc7)
-- [Dev.to/JS] [GitHub for babies](https://dev.to/tammy11/github-for-babies-17mc)
 - [Dev.to/JS] [Top 10 State Management Libraries for ReactJS](https://dev.to/ashsajal/top-10-state-management-libraries-for-reactjs-1p5n)
 - [Dev.to/JS] [XS leaks: What they are and how to avoid them](https://dev.to/snyk/xs-leaks-what-they-are-and-how-to-avoid-them-3a68)
 - [Lifehacker] [Your Can Get Write Bot AI for Your Business for 90% Off Right Now](https://lifehacker.com/your-can-get-write-bot-ai-for-your-business-for-90-off-1850629825)
