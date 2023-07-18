@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My first project as Software developer](https://dev.to/franpadularrosa/my-first-project-as-software-developer-dl5)
+- [Dev.to/JS] [Mastering Form Interactivity with React: A Comprehensive Guide for Developers](https://dev.to/bilal1718/mastering-form-interactivity-with-react-a-comprehensive-guide-for-developers-4cni)
+- [Dev.to/JS] [Web Development for Beginners](https://dev.to/geetechlab/web-development-in-general-1975)
 - [Dev.to/JS] [React Series Part-0](https://dev.to/yellowgem/react-series-part-0-323i)
 - [Dev.to/JS] [JShaman Javascript Obfuscator](https://dev.to/w2sft/jshaman-javascript-obfuscator-1jj1)
 - [Dev.to/JS] [Liv Pure - Weight Loss Benefits, Reviews, Uses, Price &amp; Side Effects?](https://dev.to/pure_liv72706/liv-pure-weight-loss-benefits-reviews-uses-price-side-effects-4241)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Popular communities for web designers](https://dev.to/irishgeoff11/popular-communities-for-web-designers-gho)
 - [Dev.to/JS] [caheotv trực tiếp bóng đá full HD](https://dev.to/caheotv11/caheotv-truc-tiep-bong-da-full-hd-2i1p)
 - [Dev.to/JS] [Launching Dyte’s Live streaming SDK on Product Hunt](https://dev.to/rishit/launching-dytes-live-streaming-sdk-on-product-hunt-d86)
-- [Dev.to/JS] [🚀 7 open-source projects you should contribute to in 2023 ⭐️⭐️](https://dev.to/github20k/7-open-source-projects-you-should-contribute-to-in-2023-1nph)
-- [Dev.to/JS] [#LearnedToday: Named Capture Group](https://dev.to/danielzotti/learnedtoday-named-capture-group-22ck)
-- [Dev.to/JS] [Compose image thumbnail with Cloudinary and Vue](https://dev.to/mayashavin/compose-image-thumbnail-with-cloudinary-and-vue-3abe)
 - [Lifehacker] [Your Can Get Write Bot AI for Your Business for 90% Off Right Now](https://lifehacker.com/your-can-get-write-bot-ai-for-your-business-for-90-off-1850629825)
 - [Lifehacker] [Where to Watch &#39;Record of Ragnarök&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-record-of-ragnarok-and-what-you-should-1850631126)
 - [Lifehacker] [Where to Watch Harley Quinn Season 4 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-harley-quinn-season-4-and-what-you-shou-1850625831)
