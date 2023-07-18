@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [caheotv trực tiếp bóng đá full HD](https://dev.to/caheotv11/caheotv-truc-tiep-bong-da-full-hd-2i1p)
+- [Dev.to/JS] [Launching Dyte’s Live streaming SDK on Product Hunt](https://dev.to/rishit/launching-dytes-live-streaming-sdk-on-product-hunt-d86)
+- [Dev.to/JS] [🚀 7 open-source projects you should contribute to in 2023 ⭐️⭐️](https://dev.to/github20k/7-open-source-projects-you-should-contribute-to-in-2023-1nph)
+- [Dev.to/JS] [#LearnedToday: Named Capture Group](https://dev.to/danielzotti/learnedtoday-named-capture-group-22ck)
 - [Dev.to/JS] [Compose image thumbnail with Cloudinary and Vue](https://dev.to/mayashavin/compose-image-thumbnail-with-cloudinary-and-vue-3abe)
 - [Dev.to/JS] [JavaScript: Discovering Hidden Gems For Advanced Developers](https://dev.to/ranaivo_rova/javascript-discovering-hidden-gems-for-advanced-developers-1fl5)
 - [Dev.to/JS] [L&#39;utilisation des Promesses en JavaScript pour une gestion asynchrone efficace](https://dev.to/kadea-academy/lutilisation-des-promesses-en-javascript-pour-une-gestion-asynchrone-efficace-bo)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring Data Structures in Solidity for Advanced Smart Contracts](https://dev.to/donnajohnson88/exploring-data-structures-in-solidity-for-advanced-smart-contracts-52jn)
 - [Dev.to/JS] [I want to work with an excellent partner or team.](https://dev.to/passion117/i-want-to-work-with-excellent-partner-2hfg)
 - [Dev.to/JS] [Best practices for using Cypress for Front-end Automation Testing](https://dev.to/kailashpathak7/best-practices-for-using-cypress-for-front-end-automation-testing-16p1)
-- [Dev.to/JS] [Natural Language Processing &lpar;NLP&rpar; in JavaScript &lpar;series&rpar;](https://dev.to/scofieldidehen/natural-language-processing-nlp-in-javascript-series-132f)
-- [Dev.to/JS] [Does NPM really stands for &quot;Node Package Manger&quot; ?](https://dev.to/harshilsharmaa/does-npm-really-stands-for-node-package-manger--1a6p)
-- [Dev.to/JS] [Stop using npm or yarn to install node_modules](https://dev.to/kristiyan_velkov/stop-using-npm-or-yarn-to-install-nodemodules-o5p)
-- [Dev.to/JS] [How to Create a File Upload Page in React to Display Excel Data as a Table and Send it as an Array of Objects](https://dev.to/geekaara/how-to-create-a-file-upload-page-in-react-to-display-excel-data-as-a-table-and-send-it-as-an-array-of-objects-22m2)
 - [Lifehacker] [Your Can Get Write Bot AI for Your Business for 90% Off Right Now](https://lifehacker.com/your-can-get-write-bot-ai-for-your-business-for-90-off-1850629825)
 - [Lifehacker] [Where to Watch &#39;Record of Ragnarök&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-record-of-ragnarok-and-what-you-should-1850631126)
 - [Lifehacker] [Where to Watch Harley Quinn Season 4 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-harley-quinn-season-4-and-what-you-shou-1850625831)
