@@ -26,11 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Number on Your Boarding Pass Reveals a Ton of Personal Data](https://lifehacker.com/this-number-on-your-boarding-pass-reveals-a-ton-of-pers-1850651165)
+- [Dev.to/JS] [Lightweight Postman alternative: Firecamp](https://dev.to/firecampdev/lightweight-postman-alternative-introducing-firecamp-3066)
+- [Lifehacker] [Use Flightera to See How Often a Flight Is Delayed](https://lifehacker.com/use-flightera-to-see-how-often-a-flight-is-delayed-1850649731)
 - [Dev.to/JS] [Mocker: Easy Live-to-Mock Switching in VS Code](https://dev.to/skyrampmia/mocker-easy-live-to-mock-switching-in-vs-code-3dbp)
 - [Dev.to/JS] [Day 7: Once in JavaScript](https://dev.to/dhrn/day-7-once-in-js-4le)
 - [Lifehacker] [You Can Actually Still Join the French Foreign Legion](https://lifehacker.com/you-can-actually-still-join-the-french-foreign-legion-1850649876)
 - [Dev.to/JS] [Ways to group data of an array.](https://dev.to/eldevflo/ways-to-group-data-of-an-array-56g8)
 - [Dev.to/JS] [User Authentication with JavaScript and Express: A Practical Guide](https://dev.to/emotta/user-authentication-with-javascript-and-express-a-practical-guide-3ni2)
+- [Dev.to/JS] [Feature-Sliced Design: The Best Frontend Architecture](https://dev.to/m_midas/feature-sliced-design-the-best-frontend-architecture-4noj)
 - [Lifehacker] [Try This Twist on the Pomodoro Technique](https://lifehacker.com/try-this-twist-on-the-pomodoro-technique-1850650750)
 - [Dev.to/JS] [Don&#39;t make counters like that. 🛑](https://dev.to/ivanzm123/dont-make-counters-like-that-1fhc)
 - [Dev.to/JS] [Javascript Beginner to Advanced: Value Bomb in one Shot](https://dev.to/lovepreetsingh/javascript-beginner-to-advanced-value-bomb-in-one-shot-2ll6)
@@ -42,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Refurbished HP EliteDesk and Windows 10 Pro Bundle Is 55% Off](https://lifehacker.com/this-refurbished-hp-elitedesk-and-windows-10-pro-bundle-1850638631)
 - [Lifehacker] [Why You Should Make Two Deadlines for Every Project](https://lifehacker.com/why-you-should-make-two-deadlines-for-every-project-1850648884)
 - [Dev.to/JS] [Angular&#39;s Transform Option for Input Values: Say Goodbye to Setters and Getters](https://dev.to/suranisaunak/angulars-transform-option-for-input-values-say-goodbye-to-setters-and-getters-339f)
-- [Dev.to/JS] [Dependency Injection with Injector Service in Angular](https://dev.to/suranisaunak/dependency-injection-with-injector-service-in-angular-7jb)
 - [Lifehacker] [Make This Chicken Frankie With a Surprising Ingredient](https://lifehacker.com/make-this-chicken-frankie-with-a-surprising-ingredient-1850648956)
-- [Dev.to/JS] [Server-Side Rendering &lpar;SSR&rpar; in Angular 16](https://dev.to/suranisaunak/server-side-rendering-ssr-in-angular-16-4ga1)
 - [Lifehacker] [The Difference Between a Martini Glass, a Coupe, and a Nick &amp; Nora &lpar;and Whether It Matters&rpar;](https://lifehacker.com/the-difference-between-a-martini-glass-a-coupe-and-a-1850648390)
 - [Lifehacker] [The Best New Messages Features in iOS 17](https://lifehacker.com/best-new-messages-features-ios-17-1850646615)
 - [Lifehacker] [Your Can Get &#39;Write Bot&#39; AI for Your Business for 90% Off Right Now](https://lifehacker.com/your-can-get-write-bot-ai-for-your-business-for-90-off-1850629825)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Salesforce Certification Guide With Practice Exams Is Almost 90% Off](https://lifehacker.com/this-salesforce-certification-guide-with-practice-exams-1850629800)
 - [Lifehacker] [10 Professional Baking Tools I Use at Home](https://lifehacker.com/best-professional-baking-tools-for-every-kitchen-1850168766)
 - [Lifehacker] [Drown Your Potted Plants](https://lifehacker.com/drown-your-potted-plants-1850646521)
-- [Lifehacker] [Make a Better BLT With a Waffled Bacon Patty](https://lifehacker.com/make-a-better-blt-with-a-waffled-bacon-patty-1850647333)
-- [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
-- [Lifehacker] [The Three Best Ways to Trellis Your Tomatoes](https://lifehacker.com/the-three-best-ways-to-trellis-your-tomatoes-1850646504)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make a Better BLT With a Waffled Bacon Patty](https://lifehacker.com/make-a-better-blt-with-a-waffled-bacon-patty-1850647333)<!-- TECH-POSTS:END -->
 
 ---
 
