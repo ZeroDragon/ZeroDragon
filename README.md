@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Don&#39;t do unit test in frontend, Getting a Code Coverage report With Selenium](https://dev.to/zodman/dont-do-unit-test-in-frontend-getting-a-code-coverage-report-with-selenium-2k3)
+- [Dev.to/JS] [Node.js morsel for today: Understanding Node.js timers](https://dev.to/rkterungwa16/nodejs-morsel-for-today-understanding-nodejs-timers-4c8e)
+- [Lifehacker] [How to Get a Prison Pen Pal](https://lifehacker.com/how-to-get-a-prison-pen-pal-1850651994)
+- [Lifehacker] [How Much Travel Insurance Costs &lpar;and When You Should Get It&rpar;](https://lifehacker.com/do-i-really-need-to-buy-travel-insurance-1674681487)
+- [Dev.to/JS] [Craftsmanship as a Software Developer](https://dev.to/dailydotdev/craftsmanship-as-a-software-developer-1hf7)
 - [Lifehacker] [Make Overnight Oats in an Almost-Empty Jam Jar](https://lifehacker.com/make-overnight-oats-in-an-almost-empty-jam-jar-1850651723)
 - [Dev.to/JS] [What emerging web development trends do you believe will have the biggest impact in the near future?](https://dev.to/sadeedpv/what-emerging-web-development-trends-do-you-believe-will-have-the-biggest-impact-in-the-near-future-2fmk)
 - [Dev.to/JS] [JavaScript Web APIs Series: Background and Synchronization APIs](https://dev.to/olodocoder/javascript-web-apis-series-background-and-synchronization-apis-39kc)
@@ -43,9 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [User Authentication with JavaScript and Express: A Practical Guide](https://dev.to/emotta/user-authentication-with-javascript-and-express-a-practical-guide-3ni2)
 - [Dev.to/JS] [Feature-Sliced Design: The Best Frontend Architecture](https://dev.to/m_midas/feature-sliced-design-the-best-frontend-architecture-4noj)
 - [Lifehacker] [Try This Twist on the Pomodoro Technique](https://lifehacker.com/try-this-twist-on-the-pomodoro-technique-1850650750)
-- [Dev.to/JS] [Don&#39;t make counters like that. 🛑](https://dev.to/ivanzm123/dont-make-counters-like-that-1fhc)
-- [Dev.to/JS] [Javascript Beginner to Advanced: Value Bomb in one Shot](https://dev.to/lovepreetsingh/javascript-beginner-to-advanced-value-bomb-in-one-shot-2ll6)
-- [Dev.to/JS] [The Moon in 10241 Dots — Re-creating a 1969 Masterpiece](https://dev.to/madsstoumann/the-moon-in-10241-dots-re-creating-a-1969-masterpiece-35e2)
 - [Lifehacker] [This Scam Is Targeting Home Closing Costs](https://lifehacker.com/this-scam-is-targeting-home-closing-costs-1850649304)
 - [Lifehacker] [What to Buy &lpar;and Skip&rpar; at ALDI](https://lifehacker.com/what-to-buy-and-skip-at-aldi-1798664491)
 - [Lifehacker] [This Refurbished HP EliteDesk and Windows 10 Pro Bundle Is 55% Off](https://lifehacker.com/this-refurbished-hp-elitedesk-and-windows-10-pro-bundle-1850638631)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Household Uses for Vodka, Besides the Obvious](https://lifehacker.com/18-of-the-best-uses-for-vodka-besides-the-obvious-1849769532)
 - [Lifehacker] [Four Ways to Make Your &#39;Hellstrip&#39; Less Awful](https://lifehacker.com/four-ways-to-make-your-hellstrip-less-shitty-1850646449)
 - [Lifehacker] [How to Turn Any Room in Your House Into a Panic Room](https://lifehacker.com/how-to-turn-any-room-in-your-house-into-a-panic-room-1850647677)
-- [Lifehacker] [The Fastest Way to Get Rid of Japanese Beetles in Your Garden](https://lifehacker.com/the-fastest-way-to-get-rid-of-japanese-beetles-in-your-1850646529)
-- [Lifehacker] [All Our Favorite Ways to Build a Better Breakfast Sandwich](https://lifehacker.com/15-ways-to-build-a-better-breakfast-sandwich-1850119709)
-- [Lifehacker] [Your Legal Responsibilities As a Cat Owner](https://lifehacker.com/your-legal-responsibilities-as-a-cat-owner-1850647989)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Fastest Way to Get Rid of Japanese Beetles in Your Garden](https://lifehacker.com/the-fastest-way-to-get-rid-of-japanese-beetles-in-your-1850646529)<!-- TECH-POSTS:END -->
 
 ---
 
