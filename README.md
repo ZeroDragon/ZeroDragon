@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mocker: Easy Live-to-Mock Switching in VS Code](https://dev.to/skyrampmia/mocker-easy-live-to-mock-switching-in-vs-code-3dbp)
+- [Dev.to/JS] [Day 7: Once in JavaScript](https://dev.to/dhrn/day-7-once-in-js-4le)
+- [Lifehacker] [You Can Actually Still Join the French Foreign Legion](https://lifehacker.com/you-can-actually-still-join-the-french-foreign-legion-1850649876)
+- [Dev.to/JS] [Ways to group data of an array.](https://dev.to/eldevflo/ways-to-group-data-of-an-array-56g8)
+- [Dev.to/JS] [User Authentication with JavaScript and Express: A Practical Guide](https://dev.to/emotta/user-authentication-with-javascript-and-express-a-practical-guide-3ni2)
+- [Lifehacker] [Try This Twist on the Pomodoro Technique](https://lifehacker.com/try-this-twist-on-the-pomodoro-technique-1850650750)
 - [Dev.to/JS] [Don&#39;t make counters like that. 🛑](https://dev.to/ivanzm123/dont-make-counters-like-that-1fhc)
 - [Dev.to/JS] [Javascript Beginner to Advanced: Value Bomb in one Shot](https://dev.to/lovepreetsingh/javascript-beginner-to-advanced-value-bomb-in-one-shot-2ll6)
 - [Dev.to/JS] [The Moon in 10241 Dots — Re-creating a 1969 Masterpiece](https://dev.to/madsstoumann/the-moon-in-10241-dots-re-creating-a-1969-masterpiece-35e2)
@@ -39,11 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dependency Injection with Injector Service in Angular](https://dev.to/suranisaunak/dependency-injection-with-injector-service-in-angular-7jb)
 - [Lifehacker] [Make This Chicken Frankie With a Surprising Ingredient](https://lifehacker.com/make-this-chicken-frankie-with-a-surprising-ingredient-1850648956)
 - [Dev.to/JS] [Server-Side Rendering &lpar;SSR&rpar; in Angular 16](https://dev.to/suranisaunak/server-side-rendering-ssr-in-angular-16-4ga1)
-- [Dev.to/JS] [JavaScript Obfuscation and Encryption: Zombie Code](https://dev.to/w2sft/javascript-obfuscation-and-encryption-zombie-code-i74)
 - [Lifehacker] [The Difference Between a Martini Glass, a Coupe, and a Nick &amp; Nora &lpar;and Whether It Matters&rpar;](https://lifehacker.com/the-difference-between-a-martini-glass-a-coupe-and-a-1850648390)
-- [Dev.to/JS] [Potential issues with barrel files in Webpack](https://dev.to/fogel/potential-issues-with-barrel-files-in-webpack-4bf2)
-- [Dev.to/JS] [Granular Permission Management with CASL Library](https://dev.to/brainhubeu/granular-permission-management-with-casl-library-50g9)
-- [Dev.to/JS] [The JavaScript Event Loop: Understanding Its Mechanics and Functionality](https://dev.to/adii/the-javascript-event-loop-understanding-its-mechanics-and-functionality-5dee)
 - [Lifehacker] [The Best New Messages Features in iOS 17](https://lifehacker.com/best-new-messages-features-ios-17-1850646615)
 - [Lifehacker] [Your Can Get &#39;Write Bot&#39; AI for Your Business for 90% Off Right Now](https://lifehacker.com/your-can-get-write-bot-ai-for-your-business-for-90-off-1850629825)
 - [Lifehacker] [Where to Watch &#39;Record of Ragnarök&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-record-of-ragnarok-and-what-you-should-1850631126)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Drown Your Potted Plants](https://lifehacker.com/drown-your-potted-plants-1850646521)
 - [Lifehacker] [Make a Better BLT With a Waffled Bacon Patty](https://lifehacker.com/make-a-better-blt-with-a-waffled-bacon-patty-1850647333)
 - [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
-- [Lifehacker] [The Three Best Ways to Trellis Your Tomatoes](https://lifehacker.com/the-three-best-ways-to-trellis-your-tomatoes-1850646504)
-- [Lifehacker] [The Flash Pro Plus 6-in-1 Power Bank Is Almost 30% Off Right Now](https://lifehacker.com/the-flash-pro-plus-6-in-1-power-bank-is-almost-30-off-1850629792)
-- [Lifehacker] [Why You Should Stop Eating Raw Oysters](https://lifehacker.com/why-you-should-stop-eating-raw-oysters-1850642677)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Three Best Ways to Trellis Your Tomatoes](https://lifehacker.com/the-three-best-ways-to-trellis-your-tomatoes-1850646504)<!-- TECH-POSTS:END -->
 
 ---
 
