@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Cool Off a Windowless Room](https://lifehacker.com/how-to-cool-off-a-windowless-room-1850655486)
+- [Lifehacker] [Why You Need One No-Meetings Day a Week, According to Science](https://lifehacker.com/why-you-need-one-no-meetings-day-a-week-according-to-s-1850655703)
+- [Lifehacker] [This Python Certification Bootcamp Bundle Is $20 Right Now](https://lifehacker.com/this-python-certification-bootcamp-bundle-is-20-right-1850643078)
+- [Lifehacker] [You Know You Don&#39;t Have to Cook Corn, Right?](https://lifehacker.com/you-know-you-dont-have-to-cook-corn-right-1797841831)
 - [Dev.to/JS] [Dependency Injection &lpar;DI&rpar; with NodeJS + Typescript](https://dev.to/lucasprochnow/dependency-injection-di-with-nodejs-typescript-5f25)
 - [Lifehacker] [How to Make Taco Bell&#39;s Breakfast Crunchwrap at Home](https://lifehacker.com/how-to-make-taco-bells-breakfast-crunchwrap-at-home-1850655815)
 - [Dev.to/JS] [Agregar y eliminar elementos de un array en Javascript](https://dev.to/pacmankabh/agregar-y-eliminar-elementos-de-un-array-en-javascript-91n)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Better Organize Your Days With ‘Timeboxing’](https://lifehacker.com/better-organize-your-days-with-timeboxing-1850652085)
 - [Lifehacker] [My Favorite Ways to Build a Better Smoothie](https://lifehacker.com/10-ways-to-build-a-better-smoothie-1850184624)
 - [Lifehacker] [Five Hand Tools It&#39;s OK to Buy Cheap](https://lifehacker.com/five-hand-tools-its-ok-to-buy-cheap-1850651529)
-- [Lifehacker] [How to Get a Prison Pen Pal](https://lifehacker.com/how-to-get-a-prison-pen-pal-1850651994)
-- [Lifehacker] [How Much Travel Insurance Costs &lpar;and When You Should Get It&rpar;](https://lifehacker.com/do-i-really-need-to-buy-travel-insurance-1674681487)
-- [Lifehacker] [Make Overnight Oats in an Almost-Empty Jam Jar](https://lifehacker.com/make-overnight-oats-in-an-almost-empty-jam-jar-1850651723)
-- [Lifehacker] [This Raspberry Pi and Arduino Developer Course Bundle Is 80% Off Right Now](https://lifehacker.com/this-raspberry-pi-and-arduino-developer-course-bundle-i-1850638653)
-- [Lifehacker] [You Can Get Around Twitter&#39;s New DM Changes](https://lifehacker.com/you-can-get-around-twitters-new-dm-changes-1850651336)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Get a Prison Pen Pal](https://lifehacker.com/how-to-get-a-prison-pen-pal-1850651994)<!-- TECH-POSTS:END -->
 
 ---
 
