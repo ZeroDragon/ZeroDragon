@@ -26,19 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Hire React Js Developer?](https://dev.to/bindupatidar/how-to-hire-react-js-developer-52c5)
+- [Dev.to/JS] [Memoization using React.useMemo&lpar;&rpar;](https://dev.to/hardiksharma/memoization-using-reactusememo-142h)
+- [Dev.to/JS] [Welcome Post](https://dev.to/devfaisal/welcome-post-511g)
+- [Dev.to/JS] [Day 8: Limit api calls](https://dev.to/dhrn/day-8-limit-api-call-h0c)
+- [Lifehacker] [United Airlines Might Owe You 30,000 Miles](https://lifehacker.com/united-airlines-might-owe-you-30-000-miles-1850653841)
+- [Dev.to/JS] [What is Event Bubbling? event bubbling in JS](https://dev.to/diwakarkashyap/what-is-event-bubbling-event-bubbling-in-js-4kn7)
 - [Lifehacker] [The Best Way to Secure Your Bread Bag Without a Twist-Tie](https://lifehacker.com/the-best-way-to-secure-your-bread-bag-without-a-twist-t-1850652722)
+- [Dev.to/JS] [Let&#39;s Make Arrays Dance: 4 Approaches to Rotate an Array in JavaScript](https://dev.to/vale/lets-make-arrays-dance-4-approaches-to-rotate-an-array-in-javascript-2jb6)
 - [Dev.to/JS] [The One Chrome Extension That Will Save You Hours](https://dev.to/j471n/the-one-chrome-extension-that-will-save-you-hours-27do)
 - [Dev.to/JS] [Closures: The Power of Lexical Scoping](https://dev.to/adii/closures-the-power-of-lexical-scoping-2oeg)
 - [Dev.to/JS] [Supercharge Your Customer Experience with AI-Powered Chatbot Services](https://dev.to/hypeteql/supercharge-your-customer-experience-with-ai-powered-chatbot-services-15a7)
 - [Dev.to/JS] [5 JavaScript Web APIs To Boost Mobile User Experience For Web Apps](https://dev.to/kipyegonline/5-javascript-web-apis-to-boost-mobile-user-experience-for-web-apps-47do)
 - [Dev.to/JS] [Drag and drop to upload a photo #JavaScript #CSS](https://dev.to/inancakduvan/drag-and-drop-to-upload-a-photo-javascript-css-3277)
 - [Dev.to/JS] [Migrate your project from Javascript to TypeScript](https://dev.to/jayd007/migrate-your-project-from-javascript-to-typescript-2lo9)
-- [Dev.to/JS] [How to Deploy a Multi-Container React.js and Node.js Application With Docker Compose](https://dev.to/bravinsimiyu/how-to-deploy-a-multi-container-reactjs-and-nodejs-application-with-docker-compose-334h)
-- [Dev.to/JS] [Exploring the Power of TypeScript Generics: Constraints, Utility Types, Literal Types, and Recursive Structures](https://dev.to/rajrathod/exploring-the-power-of-typescript-generics-constraints-utility-types-literal-types-and-recursive-structures-78g)
-- [Dev.to/JS] [Data types](https://dev.to/mukhlisasharaf/data-types-17gn)
-- [Dev.to/JS] [WebSocket in Angular: A Guide to Building Real-Time Applications](https://dev.to/suranisaunak/websocket-in-angular-a-guide-to-building-real-time-applications-4pp9)
-- [Dev.to/JS] [Headless blog using Garchi CMS &amp; Nuxt 3 - Part 1](https://dev.to/adityar15/headless-blog-using-garchi-cms-nuxt-3-part-1-55mf)
-- [Dev.to/JS] [Headless blog using Garchi CMS &amp; Nuxt 3 - Part 2](https://dev.to/adityar15/headless-blog-using-garchi-cms-nuxt-3-part-2-3ao8)
 - [Lifehacker] [What to Unplug and Turn Off When You Leave for Summer Vacation](https://lifehacker.com/what-to-unplug-and-turn-off-when-you-leave-for-summer-v-1797403292)
 - [Lifehacker] [You Need a Career ‘Sponsor’ &lpar;Not Just a Mentor&rpar;](https://lifehacker.com/you-need-a-career-sponsor-not-just-a-mentor-1850651350)
 - [Lifehacker] [How to Clean Your House, According to the Professionals](https://lifehacker.com/how-to-clean-your-house-like-a-professional-housekeeper-1826796349)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Refurbished HP EliteDesk and Windows 10 Pro Bundle Is 55% Off](https://lifehacker.com/this-refurbished-hp-elitedesk-and-windows-10-pro-bundle-1850638631)
 - [Lifehacker] [Why You Should Make Two Deadlines for Every Project](https://lifehacker.com/why-you-should-make-two-deadlines-for-every-project-1850648884)
 - [Lifehacker] [Make This Chicken Frankie With a Surprising Ingredient](https://lifehacker.com/make-this-chicken-frankie-with-a-surprising-ingredient-1850648956)
-- [Lifehacker] [The Difference Between a Martini Glass, a Coupe, and a Nick &amp; Nora &lpar;and Whether It Matters&rpar;](https://lifehacker.com/the-difference-between-a-martini-glass-a-coupe-and-a-1850648390)
-- [Lifehacker] [The Best New Messages Features in iOS 17](https://lifehacker.com/best-new-messages-features-ios-17-1850646615)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Difference Between a Martini Glass, a Coupe, and a Nick &amp; Nora &lpar;and Whether It Matters&rpar;](https://lifehacker.com/the-difference-between-a-martini-glass-a-coupe-and-a-1850648390)<!-- TECH-POSTS:END -->
 
 ---
 
