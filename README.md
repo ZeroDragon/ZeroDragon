@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How &lpar;and Why&rpar; to Add Strides to Your Runs](https://lifehacker.com/how-and-why-to-add-strides-to-your-runs-1850655294)
+- [Dev.to/JS] [Enhance Your Web Apps: Best JS Libraries 🔧](https://dev.to/abbhiishek/enhance-your-web-apps-best-js-libraries-1a3f)
+- [Lifehacker] [This Refurbished Lenovo ThinkPad Is $120 Right Now](https://lifehacker.com/this-refurbished-lenovo-thinkpad-is-120-right-now-1850643104)
+- [Dev.to/JS] [Recorrer un array en Javascript](https://dev.to/pacmankabh/recorrer-un-array-en-javascript-1eci)
+- [Lifehacker] [How to Stop Your Phone From Overheating](https://lifehacker.com/how-to-stop-your-phone-from-overheating-1847723875)
+- [Lifehacker] [My Top Choices for Neck Fans, Stroller Fans, and Tent Fans](https://lifehacker.com/my-top-choices-for-neck-fans-stroller-fans-and-tent-f-1850651908)
 - [Dev.to/JS] [The Future of Node.js in Virtual and Augmented Reality Development](https://dev.to/saint_vandora/the-future-of-nodejs-in-virtual-and-augmented-reality-development-1dpi)
 - [Lifehacker] [What&#39;s New on Hulu in August 2023](https://lifehacker.com/whats-new-on-hulu-in-august-2023-1850654862)
 - [Dev.to/JS] [Best way to clean JS objects from empty values](https://dev.to/baypanic/best-way-to-clean-js-objects-from-empty-values-3h1o)
@@ -41,9 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tailwind intro – good and bad](https://dev.to/hi_iam_chris/tailwind-intro-good-and-bad-2l1e)
 - [Lifehacker] [TikTok, Meta, Twitter, and YouTube All Have Different Plans for 2024 Election Misinformation](https://lifehacker.com/iktok-meta-twitter-and-youtube-all-have-different-pl-1850653781)
 - [Dev.to/JS] [Benchmarking &#39;for&#39;, &#39;while&#39;, &#39;for...of&#39;, and &#39;Array.forEach&#39; - using Performance.now&lpar;&rpar;](https://dev.to/maafaishal/benchmarking-for-while-forof-and-arrayforeach-using-performancenow-1jjg)
-- [Dev.to/JS] [7 Simple JavaScript Techniques to Boost Your Skills](https://dev.to/max88git/7-simple-javascript-techniques-to-boost-your-skills-4l84)
 - [Lifehacker] [Your Vegetable Plants Might Need Hormone Therapy](https://lifehacker.com/your-vegetable-plants-might-need-hormone-therapy-1850654140)
-- [Dev.to/JS] [How to Hire React Js Developer?](https://dev.to/bindupatidar/how-to-hire-react-js-developer-52c5)
 - [Lifehacker] [United Airlines Might Owe You 30,000 Miles](https://lifehacker.com/united-airlines-might-owe-you-30-000-miles-1850653841)
 - [Lifehacker] [The Best Way to Close Your Bread Bag Without a Twist-Tie](https://lifehacker.com/the-best-way-to-secure-your-bread-bag-without-a-twist-t-1850652722)
 - [Lifehacker] [What to Unplug and Turn Off When You Leave for Summer Vacation](https://lifehacker.com/what-to-unplug-and-turn-off-when-you-leave-for-summer-v-1797403292)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Overnight Oats in an Almost-Empty Jam Jar](https://lifehacker.com/make-overnight-oats-in-an-almost-empty-jam-jar-1850651723)
 - [Lifehacker] [This Raspberry Pi and Arduino Developer Course Bundle Is 80% Off Right Now](https://lifehacker.com/this-raspberry-pi-and-arduino-developer-course-bundle-i-1850638653)
 - [Lifehacker] [You Can Get Around Twitter&#39;s New DM Changes](https://lifehacker.com/you-can-get-around-twitters-new-dm-changes-1850651336)
-- [Lifehacker] [All the Ways You Should Be Using Mayo &lpar;but Probably Aren’t&rpar;](https://lifehacker.com/best-overlooked-uses-for-mayo-1847114226)
-- [Lifehacker] [This Number on Your Boarding Pass Reveals a Ton of Personal Data](https://lifehacker.com/this-number-on-your-boarding-pass-reveals-a-ton-of-pers-1850651165)
-- [Lifehacker] [Use Flightera to See How Often a Flight Is Delayed](https://lifehacker.com/use-flightera-to-see-how-often-a-flight-is-delayed-1850649731)
-- [Lifehacker] [You Can Actually Still Join the French Foreign Legion](https://lifehacker.com/you-can-actually-still-join-the-french-foreign-legion-1850649876)
-- [Lifehacker] [Try This Twist on the Pomodoro Technique](https://lifehacker.com/try-this-twist-on-the-pomodoro-technique-1850650750)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Ways You Should Be Using Mayo &lpar;but Probably Aren’t&rpar;](https://lifehacker.com/best-overlooked-uses-for-mayo-1847114226)<!-- TECH-POSTS:END -->
 
 ---
 
