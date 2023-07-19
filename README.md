@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is the use of HTML and CSS in web development?](https://dev.to/softwaredevelopmentinsights/what-is-the-use-of-html-and-css-in-web-development-2o4f)
+- [Dev.to/JS] [Try video conference app development using WebRTC](https://dev.to/benyrh/try-video-conference-app-development-using-webrtc-with-screen-sharingrecording-file-sharing-etc-1l66)
+- [Dev.to/JS] [How to Use Redux With Next js.](https://dev.to/doshiparth642/how-to-use-redux-with-next-js-18l0)
 - [Dev.to/JS] [WebSockets 101](https://dev.to/miguelcrespo/websockets-101-bbk)
 - [Dev.to/JS] [Natural Language Processing &lpar;NLP&rpar; in JavaScript &lpar;series 2&rpar;](https://dev.to/scofieldidehen/natural-language-processing-nlp-in-javascript-series-2-1h8f)
 - [Dev.to/JS] [Top Skills for Frontend Development](https://dev.to/roktim32/top-skills-for-frontend-development-34ce)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding TypeScript Types: Primitives, Objects, and Type Manipulations](https://dev.to/rajrathod/understanding-typescript-types-primitives-objects-and-type-manipulations-bjj)
 - [Dev.to/JS] [Exploring Method Overloading in JavaScript](https://dev.to/ttecs/exploring-method-overloading-in-javascript-im6)
 - [Dev.to/JS] [Simple Custom Progress Bar With HTML Javascript](https://dev.to/codeboxx/simple-custom-progress-bar-with-html-javascript-1hmo)
-- [Dev.to/JS] [A Comprehensive Guide to TypeScript: Introduction, Installation, and Running Code](https://dev.to/rajrathod/a-comprehensive-guide-to-typescript-introduction-installation-and-running-code-1olo)
-- [Dev.to/JS] [Security🔐 Concerns with Cookies🍪.](https://dev.to/tanishtt/security-concerns-with-cookies-3h7j)
-- [Dev.to/JS] [Mimic a Desktop Window Using Vue](https://dev.to/paulo-pertierra/mimic-a-desktop-window-using-vue-39el)
 - [Lifehacker] [What to Unplug and Turn Off When You Leave for Summer Vacation](https://lifehacker.com/what-to-unplug-and-turn-off-when-you-leave-for-summer-v-1797403292)
 - [Lifehacker] [You Need a Career ‘Sponsor’ &lpar;Not Just a Mentor&rpar;](https://lifehacker.com/you-need-a-career-sponsor-not-just-a-mentor-1850651350)
 - [Lifehacker] [How to Clean Your House, According to the Professionals](https://lifehacker.com/how-to-clean-your-house-like-a-professional-housekeeper-1826796349)
