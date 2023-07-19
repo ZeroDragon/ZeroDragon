@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Well-known JavaScript Obfuscation and Encryption Tools](https://dev.to/w2sft/5-well-known-javascript-obfuscation-and-encryption-tools-ad5)
+- [Dev.to/JS] [Javascript Statement](https://dev.to/umahichristopher/javascript-statement-379e)
 - [Dev.to/JS] [JavaScript Iteration Protocol](https://dev.to/haastrupea/javascript-iteration-protocol-2n4c)
 - [Lifehacker] [What to Unplug and Turn Off When You Leave for Summer Vacation](https://lifehacker.com/what-to-unplug-and-turn-off-when-you-leave-for-summer-v-1797403292)
 - [Dev.to/JS] [Creating Accessible Custom Components with React Aria: A Practical Example with Forms](https://dev.to/colinah/creating-accessible-custom-components-with-react-aria-a-practical-example-with-forms-1cp9)
@@ -49,8 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Much Travel Insurance Costs &lpar;and When You Should Get It&rpar;](https://lifehacker.com/do-i-really-need-to-buy-travel-insurance-1674681487)
 - [Dev.to/JS] [Craftsmanship as a Software Developer](https://dev.to/dailydotdev/craftsmanship-as-a-software-developer-1hf7)
 - [Lifehacker] [Make Overnight Oats in an Almost-Empty Jam Jar](https://lifehacker.com/make-overnight-oats-in-an-almost-empty-jam-jar-1850651723)
-- [Dev.to/JS] [What emerging web development trends do you believe will have the biggest impact in the near future?](https://dev.to/sadeedpv/what-emerging-web-development-trends-do-you-believe-will-have-the-biggest-impact-in-the-near-future-2fmk)
-- [Dev.to/JS] [JavaScript Web APIs Series: Background and Synchronization APIs](https://dev.to/olodocoder/javascript-web-apis-series-background-and-synchronization-apis-39kc)
 - [Lifehacker] [This Raspberry Pi and Arduino Developer Course Bundle Is 80% Off Right Now](https://lifehacker.com/this-raspberry-pi-and-arduino-developer-course-bundle-i-1850638653)
 - [Lifehacker] [You Can Get Around Twitter&#39;s New DM Changes](https://lifehacker.com/you-can-get-around-twitters-new-dm-changes-1850651336)
 - [Lifehacker] [All the Ways You Should Be Using Mayo &lpar;but Probably Aren’t&rpar;](https://lifehacker.com/best-overlooked-uses-for-mayo-1847114226)
