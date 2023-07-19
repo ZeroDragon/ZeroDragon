@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Afinal, qual é a diferença entre arrow functions e funções regulares?](https://dev.to/pedrogustavo/afinal-qual-e-a-diferenca-entre-arrow-functions-e-funcoes-regulares-4g7a)
 - [Dev.to/JS] [My Shift from Vanilla JS to React](https://dev.to/yong197578/my-shift-from-vanilla-js-to-react-2d1e)
 - [Dev.to/JS] [Using eval and fromCharCode for JavaScript Code Obfuscation](https://dev.to/w2sft/using-eval-and-fromcharcode-for-javascript-code-obfuscation-f27)
 - [Dev.to/JS] [In Node.js, you can call the Web API interface of JShaman to encrypt JavaScript](https://dev.to/w2sft/in-nodejs-you-can-call-the-web-api-interface-of-jshaman-to-encrypt-js-code-1bhm)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript REST API CALL](https://dev.to/kumo70/javascript-rest-api-call-2ne2)
 - [Lifehacker] [A Beginner&#39;s Guide to Buying a Weightlifting Belt](https://lifehacker.com/a-beginners-guide-to-buying-a-weightlifting-belt-1850401310)
 - [Lifehacker] [You Can Get Four Tickets for $80 to Any of These Summer Concerts](https://lifehacker.com/you-can-get-four-tickets-for-80-to-any-of-these-summer-1850652038)
-- [Dev.to/JS] [Harnessing the Power of LLaMA v2 for Chat Applications](https://dev.to/mikeyoung44/harnessing-the-power-of-llama-v2-for-chat-applications-2i3f)
 - [Lifehacker] [Better Organize Your Days With ‘Timeboxing’](https://lifehacker.com/better-organize-your-days-with-timeboxing-1850652085)
 - [Lifehacker] [My Favorite Ways to Build a Better Smoothie](https://lifehacker.com/10-ways-to-build-a-better-smoothie-1850184624)
 - [Lifehacker] [Five Hand Tools It&#39;s OK to Buy Cheap](https://lifehacker.com/five-hand-tools-its-ok-to-buy-cheap-1850651529)
