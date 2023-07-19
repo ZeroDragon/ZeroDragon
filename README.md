@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Closures: The Power of Lexical Scoping](https://dev.to/adii/closures-the-power-of-lexical-scoping-2oeg)
+- [Dev.to/JS] [Supercharge Your Customer Experience with AI-Powered Chatbot Services](https://dev.to/hypeteql/supercharge-your-customer-experience-with-ai-powered-chatbot-services-15a7)
 - [Dev.to/JS] [5 JavaScript Web APIs To Boost Mobile User Experience For Web Apps](https://dev.to/kipyegonline/5-javascript-web-apis-to-boost-mobile-user-experience-for-web-apps-47do)
 - [Dev.to/JS] [Drag and drop to upload a photo #JavaScript #CSS](https://dev.to/inancakduvan/drag-and-drop-to-upload-a-photo-javascript-css-3277)
 - [Dev.to/JS] [Migrate your project from Javascript to TypeScript](https://dev.to/jayd007/migrate-your-project-from-javascript-to-typescript-2lo9)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Headless blog using Garchi CMS &amp; Nuxt 3 - Part 1](https://dev.to/adityar15/headless-blog-using-garchi-cms-nuxt-3-part-1-55mf)
 - [Dev.to/JS] [Headless blog using Garchi CMS &amp; Nuxt 3 - Part 2](https://dev.to/adityar15/headless-blog-using-garchi-cms-nuxt-3-part-2-3ao8)
 - [Dev.to/JS] [Transforming Pixels into Imagination: Building an AI-Powered Image Generator with React.js and OpenAI API](https://dev.to/onlyoneerin/transforming-pixels-into-imagination-building-an-ai-powered-image-generator-with-reactjs-and-openai-api-473)
-- [Dev.to/JS] [一个 NPM 包，帮助数十万程序员提高数十倍效率，难道不开源出来？](https://dev.to/toolkituse/ge-npm-bao-bang-zhu-shu-shi-mo-cheng-xu-yuan-ti-gao-shu-shi-bei-xiao-lu-nan-dao-bu-kai-yuan-chu-lai--4a9h)
-- [Dev.to/JS] [Udacity Nanodegree Review: Is It Worth It?](https://dev.to/aqsa81/udacity-nanodegree-review-is-it-worth-it-3gbh)
 - [Lifehacker] [What to Unplug and Turn Off When You Leave for Summer Vacation](https://lifehacker.com/what-to-unplug-and-turn-off-when-you-leave-for-summer-v-1797403292)
 - [Lifehacker] [You Need a Career ‘Sponsor’ &lpar;Not Just a Mentor&rpar;](https://lifehacker.com/you-need-a-career-sponsor-not-just-a-mentor-1850651350)
 - [Lifehacker] [How to Clean Your House, According to the Professionals](https://lifehacker.com/how-to-clean-your-house-like-a-professional-housekeeper-1826796349)
