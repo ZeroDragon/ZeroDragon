@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Animated Website using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/animated-website-using-html-css-and-javascript-4gl4)
+- [Dev.to/JS] [Git Commands Every Developer Should Know](https://dev.to/anuj8126/git-commands-every-developer-should-know-50pp)
+- [Dev.to/JS] [What are TypeScript Discriminated Unions?](https://dev.to/darkmavis1980/what-are-typescript-discriminated-unions-5hbb)
+- [Dev.to/JS] [Promise in JavaScript](https://dev.to/sarthakc20/promise-in-javascript-3mpc)
+- [Lifehacker] [Wait, How Much Does Netflix Cost Now?](https://lifehacker.com/wait-how-much-does-netflix-cost-now-1850655093)
+- [Lifehacker] [You Can Poach a Dozen Eggs at Once in a Muffin Tin](https://lifehacker.com/poach-a-dozen-eggs-at-once-with-a-muffin-tin-1681243702)
+- [Dev.to/JS] [Boas Práticas de Programação e Técnicas: Programando com Estilo!](https://dev.to/punk/boas-praticas-de-programacao-e-tecnicas-programando-com-estilo-1ich)
 - [Lifehacker] [How to Cool Off a Windowless Room](https://lifehacker.com/how-to-cool-off-a-windowless-room-1850655486)
 - [Lifehacker] [Why You Need One No-Meetings Day a Week, According to Science](https://lifehacker.com/why-you-need-one-no-meetings-day-a-week-according-to-s-1850655703)
 - [Lifehacker] [This Python Certification Bootcamp Bundle Is $20 Right Now](https://lifehacker.com/this-python-certification-bootcamp-bundle-is-20-right-1850643078)
@@ -45,12 +52,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Back Up Your iPhone to Your Computer Too](https://lifehacker.com/why-you-should-back-up-your-iphone-to-your-computer-too-1850654167)
 - [Dev.to/JS] [How to build and deploy a modern-day Next.js application](https://dev.to/livecycle/how-to-build-and-deploy-a-modern-day-nextjs-application-mgn)
 - [Lifehacker] [My Three Favorite Tools for Processing Summer Fruit](https://lifehacker.com/my-three-favorite-tools-for-processing-summer-fruit-1850654124)
-- [Dev.to/JS] [The Ultimate Comparison: Ant Design vs Material# Ant Design vs Material UI: Which React UI Library to Choose](https://dev.to/idurar/the-ultimate-comparison-ant-design-vs-material-ant-design-vs-material-ui-which-react-ui-library-to-choose-2mkd)
-- [Dev.to/JS] [React Blog](https://dev.to/rica92s/react-blog-5e4j)
-- [Dev.to/JS] [Algorithm in JavaScript: Finding the Minimum and Maximum Sums](https://dev.to/balogunkeji/how-i-solved-the-hackerrank-mini-max-sum-algorithm-in-javascript-finding-the-minimum-and-maximum-sums-3fdh)
 - [Lifehacker] [Why You Should Think of New Habits As Skills](https://lifehacker.com/why-you-should-think-of-new-habits-as-skills-1850651690)
-- [Dev.to/JS] [Mastering the FS module In NodeJS](https://dev.to/kalashin1/mastering-the-fs-module-in-nodejs-4j52)
-- [Dev.to/JS] [Exploring the Web Audio and Web MIDI APIs with virtual pianos](https://dev.to/logrocket/exploring-the-web-audio-and-web-midi-apis-with-virtual-pianos-1lo)
 - [Lifehacker] [TikTok, Meta, Twitter, and YouTube All Have Different Plans for 2024 Election Misinformation](https://lifehacker.com/iktok-meta-twitter-and-youtube-all-have-different-pl-1850653781)
 - [Lifehacker] [Your Vegetable Plants Might Need Hormone Therapy](https://lifehacker.com/your-vegetable-plants-might-need-hormone-therapy-1850654140)
 - [Lifehacker] [United Airlines Might Owe You 30,000 Miles](https://lifehacker.com/united-airlines-might-owe-you-30-000-miles-1850653841)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Beginner&#39;s Guide to Buying a Weightlifting Belt](https://lifehacker.com/a-beginners-guide-to-buying-a-weightlifting-belt-1850401310)
 - [Lifehacker] [You Can Get Four Tickets for $80 to Any of These Summer Concerts](https://lifehacker.com/you-can-get-four-tickets-for-80-to-any-of-these-summer-1850652038)
 - [Lifehacker] [Better Organize Your Days With ‘Timeboxing’](https://lifehacker.com/better-organize-your-days-with-timeboxing-1850652085)
-- [Lifehacker] [My Favorite Ways to Build a Better Smoothie](https://lifehacker.com/10-ways-to-build-a-better-smoothie-1850184624)
-- [Lifehacker] [Five Hand Tools It&#39;s OK to Buy Cheap](https://lifehacker.com/five-hand-tools-its-ok-to-buy-cheap-1850651529)
-- [Lifehacker] [How to Get a Prison Pen Pal](https://lifehacker.com/how-to-get-a-prison-pen-pal-1850651994)<!-- TECH-POSTS:END -->
+- [Lifehacker] [My Favorite Ways to Build a Better Smoothie](https://lifehacker.com/10-ways-to-build-a-better-smoothie-1850184624)<!-- TECH-POSTS:END -->
 
 ---
 
