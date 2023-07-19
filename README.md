@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple Custom Progress Bar With HTML Javascript](https://dev.to/codeboxx/simple-custom-progress-bar-with-html-javascript-1hmo)
+- [Dev.to/JS] [A Comprehensive Guide to TypeScript: Introduction, Installation, and Running Code](https://dev.to/rajrathod/a-comprehensive-guide-to-typescript-introduction-installation-and-running-code-1olo)
+- [Dev.to/JS] [Security🔐 Concerns with Cookies🍪.](https://dev.to/tanishtt/security-concerns-with-cookies-3h7j)
+- [Dev.to/JS] [Mimic a Desktop Window Using Vue](https://dev.to/paulo-pertierra/mimic-a-desktop-window-using-vue-39el)
 - [Dev.to/JS] [The 5 most important takeaways from the new React Docs, for both newbie and experienced devs](https://dev.to/edchavezb/the-5-most-important-takeaways-from-the-new-react-docs-for-both-newbie-and-experienced-devs-4252)
 - [Dev.to/JS] [Afinal, qual é a diferença entre arrow functions e funções regulares?](https://dev.to/pedrogustavo/afinal-qual-e-a-diferenca-entre-arrow-functions-e-funcoes-regulares-4g7a)
 - [Dev.to/JS] [My Shift from Vanilla JS to React](https://dev.to/yong197578/my-shift-from-vanilla-js-to-react-2d1e)
@@ -35,12 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Statement](https://dev.to/umahichristopher/javascript-statement-379e)
 - [Dev.to/JS] [JavaScript Iteration Protocol](https://dev.to/haastrupea/javascript-iteration-protocol-2n4c)
 - [Lifehacker] [What to Unplug and Turn Off When You Leave for Summer Vacation](https://lifehacker.com/what-to-unplug-and-turn-off-when-you-leave-for-summer-v-1797403292)
-- [Dev.to/JS] [Creating Accessible Custom Components with React Aria: A Practical Example with Forms](https://dev.to/colinah/creating-accessible-custom-components-with-react-aria-a-practical-example-with-forms-1cp9)
-- [Dev.to/JS] [Our Journey In The Open Source World - spyone](https://dev.to/cadienvan/our-journey-in-the-open-source-world-spyone-4074)
 - [Lifehacker] [You Need a Career ‘Sponsor’ &lpar;Not Just a Mentor&rpar;](https://lifehacker.com/you-need-a-career-sponsor-not-just-a-mentor-1850651350)
 - [Lifehacker] [How to Clean Your House, According to the Professionals](https://lifehacker.com/how-to-clean-your-house-like-a-professional-housekeeper-1826796349)
-- [Dev.to/JS] [Cookie🍪 : Deep Dive in cookies💻](https://dev.to/tanishtt/cookie-deep-dive-in-cookies-5fn9)
-- [Dev.to/JS] [Measuring the performance of JSS apps](https://dev.to/illiakovalenko/measuring-the-performance-of-jss-apps-4m5k)
 - [Lifehacker] [This Microsoft Excel Training Course Is $30 Right Now](https://lifehacker.com/this-microsoft-excel-training-course-is-30-right-now-1850638608)
 - [Lifehacker] [What&#39;s New on Disney+ in August 2023](https://lifehacker.com/whats-new-on-disney-in-august-2023-1850652833)
 - [Lifehacker] [A Beginner&#39;s Guide to Buying a Weightlifting Belt](https://lifehacker.com/a-beginners-guide-to-buying-a-weightlifting-belt-1850401310)
