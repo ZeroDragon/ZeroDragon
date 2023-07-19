@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Future of Node.js in Virtual and Augmented Reality Development](https://dev.to/saint_vandora/the-future-of-nodejs-in-virtual-and-augmented-reality-development-1dpi)
+- [Lifehacker] [What&#39;s New on Hulu in August 2023](https://lifehacker.com/whats-new-on-hulu-in-august-2023-1850654862)
+- [Dev.to/JS] [Best way to clean JS objects from empty values](https://dev.to/baypanic/best-way-to-clean-js-objects-from-empty-values-3h1o)
+- [Lifehacker] [Why You Should Back Up Your iPhone to Your Computer Too](https://lifehacker.com/why-you-should-back-up-your-iphone-to-your-computer-too-1850654167)
 - [Dev.to/JS] [How to build and deploy a modern-day Next.js application](https://dev.to/livecycle/how-to-build-and-deploy-a-modern-day-nextjs-application-mgn)
 - [Lifehacker] [My Three Favorite Tools for Processing Summer Fruit](https://lifehacker.com/my-three-favorite-tools-for-processing-summer-fruit-1850654124)
 - [Dev.to/JS] [The Ultimate Comparison: Ant Design vs Material# Ant Design vs Material UI: Which React UI Library to Choose](https://dev.to/idurar/the-ultimate-comparison-ant-design-vs-material-ant-design-vs-material-ui-which-react-ui-library-to-choose-2mkd)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [7 Simple JavaScript Techniques to Boost Your Skills](https://dev.to/max88git/7-simple-javascript-techniques-to-boost-your-skills-4l84)
 - [Lifehacker] [Your Vegetable Plants Might Need Hormone Therapy](https://lifehacker.com/your-vegetable-plants-might-need-hormone-therapy-1850654140)
 - [Dev.to/JS] [How to Hire React Js Developer?](https://dev.to/bindupatidar/how-to-hire-react-js-developer-52c5)
-- [Dev.to/JS] [Memoization using React.useMemo&lpar;&rpar;](https://dev.to/hardiksharma/memoization-using-reactusememo-142h)
-- [Dev.to/JS] [Welcome Post](https://dev.to/devfaisal/welcome-post-511g)
 - [Lifehacker] [United Airlines Might Owe You 30,000 Miles](https://lifehacker.com/united-airlines-might-owe-you-30-000-miles-1850653841)
 - [Lifehacker] [The Best Way to Close Your Bread Bag Without a Twist-Tie](https://lifehacker.com/the-best-way-to-secure-your-bread-bag-without-a-twist-t-1850652722)
 - [Lifehacker] [What to Unplug and Turn Off When You Leave for Summer Vacation](https://lifehacker.com/what-to-unplug-and-turn-off-when-you-leave-for-summer-v-1797403292)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Number on Your Boarding Pass Reveals a Ton of Personal Data](https://lifehacker.com/this-number-on-your-boarding-pass-reveals-a-ton-of-pers-1850651165)
 - [Lifehacker] [Use Flightera to See How Often a Flight Is Delayed](https://lifehacker.com/use-flightera-to-see-how-often-a-flight-is-delayed-1850649731)
 - [Lifehacker] [You Can Actually Still Join the French Foreign Legion](https://lifehacker.com/you-can-actually-still-join-the-french-foreign-legion-1850649876)
-- [Lifehacker] [Try This Twist on the Pomodoro Technique](https://lifehacker.com/try-this-twist-on-the-pomodoro-technique-1850650750)
-- [Lifehacker] [This Scam Is Targeting Home Closing Costs](https://lifehacker.com/this-scam-is-targeting-home-closing-costs-1850649304)
-- [Lifehacker] [What to Buy &lpar;and Skip&rpar; at ALDI](https://lifehacker.com/what-to-buy-and-skip-at-aldi-1798664491)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Try This Twist on the Pomodoro Technique](https://lifehacker.com/try-this-twist-on-the-pomodoro-technique-1850650750)<!-- TECH-POSTS:END -->
 
 ---
 
