@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Where to Watch &#39;Warrior&#39; Season 3 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-warrior-season-3-and-what-you-should-kn-1850653671)
+- [Lifehacker] [This Nix Mini 2 Color Sensor Is $60 Right Now](https://lifehacker.com/this-nix-mini-2-color-sensor-is-60-right-now-1850643055)
+- [Lifehacker] [How to Get Used to Exercising in the Heat](https://lifehacker.com/how-to-get-used-to-exercising-in-the-heat-and-why-you-1716804690)
 - [Lifehacker] [Keep Your Desk Clutter-Free With These Gadgets](https://lifehacker.com/keep-your-desk-clutter-free-with-these-gadgets-1850655937)
 - [Lifehacker] [Heat Leftover Pizza In a Skillet to Re-Crisp the Crust](https://lifehacker.com/reheat-pizza-in-a-skillet-to-bring-back-crispy-crusts-5862749)
 - [Lifehacker] [Make a Quick Peanut Butter Cup in Your Freezer](https://lifehacker.com/make-a-quick-peanut-butter-cup-in-your-freezer-1850656338)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Vegetable Plants Might Need Hormone Therapy](https://lifehacker.com/your-vegetable-plants-might-need-hormone-therapy-1850654140)
 - [Lifehacker] [United Airlines Might Owe You 30,000 Miles](https://lifehacker.com/united-airlines-might-owe-you-30-000-miles-1850653841)
 - [Lifehacker] [The Best Way to Close Your Bread Bag Without a Twist-Tie](https://lifehacker.com/the-best-way-to-secure-your-bread-bag-without-a-twist-t-1850652722)
-- [Lifehacker] [What to Unplug and Turn Off When You Leave for Summer Vacation](https://lifehacker.com/what-to-unplug-and-turn-off-when-you-leave-for-summer-v-1797403292)
-- [Lifehacker] [You Need a Career ‘Sponsor’ &lpar;Not Just a Mentor&rpar;](https://lifehacker.com/you-need-a-career-sponsor-not-just-a-mentor-1850651350)
-- [Lifehacker] [How to Clean Your House, According to the Professionals](https://lifehacker.com/how-to-clean-your-house-like-a-professional-housekeeper-1826796349)
-- [Lifehacker] [This Microsoft Excel Training Course Is $30 Right Now](https://lifehacker.com/this-microsoft-excel-training-course-is-30-right-now-1850638608)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Unplug and Turn Off When You Leave for Summer Vacation](https://lifehacker.com/what-to-unplug-and-turn-off-when-you-leave-for-summer-v-1797403292)<!-- TECH-POSTS:END -->
 
 ---
 
