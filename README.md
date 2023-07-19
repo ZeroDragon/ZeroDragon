@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Transforming Pixels into Imagination: Building an AI-Powered Image Generator with React.js and OpenAI API](https://dev.to/onlyoneerin/transforming-pixels-into-imagination-building-an-ai-powered-image-generator-with-reactjs-and-openai-api-473)
+- [Dev.to/JS] [一个 NPM 包，帮助数十万程序员提高数十倍效率，难道不开源出来？](https://dev.to/toolkituse/ge-npm-bao-bang-zhu-shu-shi-mo-cheng-xu-yuan-ti-gao-shu-shi-bei-xiao-lu-nan-dao-bu-kai-yuan-chu-lai--4a9h)
+- [Dev.to/JS] [Udacity Nanodegree Review: Is It Worth It?](https://dev.to/aqsa81/udacity-nanodegree-review-is-it-worth-it-3gbh)
 - [Dev.to/JS] [What is the use of HTML and CSS in web development?](https://dev.to/softwaredevelopmentinsights/what-is-the-use-of-html-and-css-in-web-development-2o4f)
 - [Dev.to/JS] [Try video conference app development using WebRTC](https://dev.to/benyrh/try-video-conference-app-development-using-webrtc-with-screen-sharingrecording-file-sharing-etc-1l66)
 - [Dev.to/JS] [How to Use Redux With Next js.](https://dev.to/doshiparth642/how-to-use-redux-with-next-js-18l0)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Weekly web development resources #158](https://dev.to/vincenius/weekly-web-development-resources-158-41bg)
 - [Dev.to/JS] [How I Built Lift Simulator using HTML, CSS, and JavaScript.](https://dev.to/ardf/how-i-build-lift-simulator-using-html-css-and-javascript-5351)
 - [Dev.to/JS] [Salesforce for Outlook vs Outlook integration](https://dev.to/datarecove95829/salesforce-for-outlook-vs-outlook-integration-30a6)
-- [Dev.to/JS] [Understanding TypeScript Types: Primitives, Objects, and Type Manipulations](https://dev.to/rajrathod/understanding-typescript-types-primitives-objects-and-type-manipulations-bjj)
-- [Dev.to/JS] [Exploring Method Overloading in JavaScript](https://dev.to/ttecs/exploring-method-overloading-in-javascript-im6)
-- [Dev.to/JS] [Simple Custom Progress Bar With HTML Javascript](https://dev.to/codeboxx/simple-custom-progress-bar-with-html-javascript-1hmo)
 - [Lifehacker] [What to Unplug and Turn Off When You Leave for Summer Vacation](https://lifehacker.com/what-to-unplug-and-turn-off-when-you-leave-for-summer-v-1797403292)
 - [Lifehacker] [You Need a Career ‘Sponsor’ &lpar;Not Just a Mentor&rpar;](https://lifehacker.com/you-need-a-career-sponsor-not-just-a-mentor-1850651350)
 - [Lifehacker] [How to Clean Your House, According to the Professionals](https://lifehacker.com/how-to-clean-your-house-like-a-professional-housekeeper-1826796349)
