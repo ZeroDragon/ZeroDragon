@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Shift from Vanilla JS to React](https://dev.to/yong197578/my-shift-from-vanilla-js-to-react-2d1e)
+- [Dev.to/JS] [Using eval and fromCharCode for JavaScript Code Obfuscation](https://dev.to/w2sft/using-eval-and-fromcharcode-for-javascript-code-obfuscation-f27)
+- [Dev.to/JS] [In Node.js, you can call the Web API interface of JShaman to encrypt JavaScript](https://dev.to/w2sft/in-nodejs-you-can-call-the-web-api-interface-of-jshaman-to-encrypt-js-code-1bhm)
 - [Dev.to/JS] [5 Well-known JavaScript Obfuscation and Encryption Tools](https://dev.to/w2sft/5-well-known-javascript-obfuscation-and-encryption-tools-ad5)
 - [Dev.to/JS] [Javascript Statement](https://dev.to/umahichristopher/javascript-statement-379e)
 - [Dev.to/JS] [JavaScript Iteration Protocol](https://dev.to/haastrupea/javascript-iteration-protocol-2n4c)
@@ -45,11 +48,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Better Organize Your Days With ‘Timeboxing’](https://lifehacker.com/better-organize-your-days-with-timeboxing-1850652085)
 - [Lifehacker] [My Favorite Ways to Build a Better Smoothie](https://lifehacker.com/10-ways-to-build-a-better-smoothie-1850184624)
 - [Lifehacker] [Five Hand Tools It&#39;s OK to Buy Cheap](https://lifehacker.com/five-hand-tools-its-ok-to-buy-cheap-1850651529)
-- [Dev.to/JS] [Don&#39;t do unit test in frontend, Getting a Code Coverage report With Selenium](https://dev.to/zodman/dont-do-unit-test-in-frontend-getting-a-code-coverage-report-with-selenium-2k3)
-- [Dev.to/JS] [Node.js morsel for today: Understanding Node.js timers](https://dev.to/rkterungwa16/nodejs-morsel-for-today-understanding-nodejs-timers-4c8e)
 - [Lifehacker] [How to Get a Prison Pen Pal](https://lifehacker.com/how-to-get-a-prison-pen-pal-1850651994)
 - [Lifehacker] [How Much Travel Insurance Costs &lpar;and When You Should Get It&rpar;](https://lifehacker.com/do-i-really-need-to-buy-travel-insurance-1674681487)
-- [Dev.to/JS] [Craftsmanship as a Software Developer](https://dev.to/dailydotdev/craftsmanship-as-a-software-developer-1hf7)
 - [Lifehacker] [Make Overnight Oats in an Almost-Empty Jam Jar](https://lifehacker.com/make-overnight-oats-in-an-almost-empty-jam-jar-1850651723)
 - [Lifehacker] [This Raspberry Pi and Arduino Developer Course Bundle Is 80% Off Right Now](https://lifehacker.com/this-raspberry-pi-and-arduino-developer-course-bundle-i-1850638653)
 - [Lifehacker] [You Can Get Around Twitter&#39;s New DM Changes](https://lifehacker.com/you-can-get-around-twitters-new-dm-changes-1850651336)
