@@ -26,20 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering the FS module In NodeJS](https://dev.to/kalashin1/mastering-the-fs-module-in-nodejs-4j52)
+- [Dev.to/JS] [Exploring the Web Audio and Web MIDI APIs with virtual pianos](https://dev.to/logrocket/exploring-the-web-audio-and-web-midi-apis-with-virtual-pianos-1lo)
+- [Dev.to/JS] [Tailwind intro – good and bad](https://dev.to/hi_iam_chris/tailwind-intro-good-and-bad-2l1e)
+- [Lifehacker] [ikTok, Meta, Twitter, and YouTube All Have Different Plans for 2024 Election Misinformation](https://lifehacker.com/iktok-meta-twitter-and-youtube-all-have-different-pl-1850653781)
+- [Dev.to/JS] [Benchmarking &#39;for&#39;, &#39;while&#39;, &#39;for...of&#39;, and &#39;Array.forEach&#39; - using Performance.now&lpar;&rpar;](https://dev.to/maafaishal/benchmarking-for-while-forof-and-arrayforeach-using-performancenow-1jjg)
+- [Dev.to/JS] [7 Simple JavaScript Techniques to Boost Your Skills](https://dev.to/max88git/7-simple-javascript-techniques-to-boost-your-skills-4l84)
+- [Lifehacker] [Your Vegetable Plants Might Need Hormone Therapy](https://lifehacker.com/your-vegetable-plants-might-need-hormone-therapy-1850654140)
 - [Dev.to/JS] [How to Hire React Js Developer?](https://dev.to/bindupatidar/how-to-hire-react-js-developer-52c5)
 - [Dev.to/JS] [Memoization using React.useMemo&lpar;&rpar;](https://dev.to/hardiksharma/memoization-using-reactusememo-142h)
 - [Dev.to/JS] [Welcome Post](https://dev.to/devfaisal/welcome-post-511g)
 - [Dev.to/JS] [Day 8: Limit api calls](https://dev.to/dhrn/day-8-limit-api-call-h0c)
 - [Lifehacker] [United Airlines Might Owe You 30,000 Miles](https://lifehacker.com/united-airlines-might-owe-you-30-000-miles-1850653841)
 - [Dev.to/JS] [What is Event Bubbling? event bubbling in JS](https://dev.to/diwakarkashyap/what-is-event-bubbling-event-bubbling-in-js-4kn7)
-- [Lifehacker] [The Best Way to Secure Your Bread Bag Without a Twist-Tie](https://lifehacker.com/the-best-way-to-secure-your-bread-bag-without-a-twist-t-1850652722)
+- [Lifehacker] [The Best Way to Close Your Bread Bag Without a Twist-Tie](https://lifehacker.com/the-best-way-to-secure-your-bread-bag-without-a-twist-t-1850652722)
 - [Dev.to/JS] [Let&#39;s Make Arrays Dance: 4 Approaches to Rotate an Array in JavaScript](https://dev.to/vale/lets-make-arrays-dance-4-approaches-to-rotate-an-array-in-javascript-2jb6)
 - [Dev.to/JS] [The One Chrome Extension That Will Save You Hours](https://dev.to/j471n/the-one-chrome-extension-that-will-save-you-hours-27do)
-- [Dev.to/JS] [Closures: The Power of Lexical Scoping](https://dev.to/adii/closures-the-power-of-lexical-scoping-2oeg)
-- [Dev.to/JS] [Supercharge Your Customer Experience with AI-Powered Chatbot Services](https://dev.to/hypeteql/supercharge-your-customer-experience-with-ai-powered-chatbot-services-15a7)
-- [Dev.to/JS] [5 JavaScript Web APIs To Boost Mobile User Experience For Web Apps](https://dev.to/kipyegonline/5-javascript-web-apis-to-boost-mobile-user-experience-for-web-apps-47do)
-- [Dev.to/JS] [Drag and drop to upload a photo #JavaScript #CSS](https://dev.to/inancakduvan/drag-and-drop-to-upload-a-photo-javascript-css-3277)
-- [Dev.to/JS] [Migrate your project from Javascript to TypeScript](https://dev.to/jayd007/migrate-your-project-from-javascript-to-typescript-2lo9)
 - [Lifehacker] [What to Unplug and Turn Off When You Leave for Summer Vacation](https://lifehacker.com/what-to-unplug-and-turn-off-when-you-leave-for-summer-v-1797403292)
 - [Lifehacker] [You Need a Career ‘Sponsor’ &lpar;Not Just a Mentor&rpar;](https://lifehacker.com/you-need-a-career-sponsor-not-just-a-mentor-1850651350)
 - [Lifehacker] [How to Clean Your House, According to the Professionals](https://lifehacker.com/how-to-clean-your-house-like-a-professional-housekeeper-1826796349)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Scam Is Targeting Home Closing Costs](https://lifehacker.com/this-scam-is-targeting-home-closing-costs-1850649304)
 - [Lifehacker] [What to Buy &lpar;and Skip&rpar; at ALDI](https://lifehacker.com/what-to-buy-and-skip-at-aldi-1798664491)
 - [Lifehacker] [This Refurbished HP EliteDesk and Windows 10 Pro Bundle Is 55% Off](https://lifehacker.com/this-refurbished-hp-elitedesk-and-windows-10-pro-bundle-1850638631)
-- [Lifehacker] [Why You Should Make Two Deadlines for Every Project](https://lifehacker.com/why-you-should-make-two-deadlines-for-every-project-1850648884)
-- [Lifehacker] [Make This Chicken Frankie With a Surprising Ingredient](https://lifehacker.com/make-this-chicken-frankie-with-a-surprising-ingredient-1850648956)
-- [Lifehacker] [The Difference Between a Martini Glass, a Coupe, and a Nick &amp; Nora &lpar;and Whether It Matters&rpar;](https://lifehacker.com/the-difference-between-a-martini-glass-a-coupe-and-a-1850648390)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Make Two Deadlines for Every Project](https://lifehacker.com/why-you-should-make-two-deadlines-for-every-project-1850648884)<!-- TECH-POSTS:END -->
 
 ---
 
