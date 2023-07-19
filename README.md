@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Way to Secure Your Bread Bag Without a Twist-Tie](https://lifehacker.com/the-best-way-to-secure-your-bread-bag-without-a-twist-t-1850652722)
+- [Dev.to/JS] [The One Chrome Extension That Will Save You Hours](https://dev.to/j471n/the-one-chrome-extension-that-will-save-you-hours-27do)
 - [Dev.to/JS] [Closures: The Power of Lexical Scoping](https://dev.to/adii/closures-the-power-of-lexical-scoping-2oeg)
 - [Dev.to/JS] [Supercharge Your Customer Experience with AI-Powered Chatbot Services](https://dev.to/hypeteql/supercharge-your-customer-experience-with-ai-powered-chatbot-services-15a7)
 - [Dev.to/JS] [5 JavaScript Web APIs To Boost Mobile User Experience For Web Apps](https://dev.to/kipyegonline/5-javascript-web-apis-to-boost-mobile-user-experience-for-web-apps-47do)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WebSocket in Angular: A Guide to Building Real-Time Applications](https://dev.to/suranisaunak/websocket-in-angular-a-guide-to-building-real-time-applications-4pp9)
 - [Dev.to/JS] [Headless blog using Garchi CMS &amp; Nuxt 3 - Part 1](https://dev.to/adityar15/headless-blog-using-garchi-cms-nuxt-3-part-1-55mf)
 - [Dev.to/JS] [Headless blog using Garchi CMS &amp; Nuxt 3 - Part 2](https://dev.to/adityar15/headless-blog-using-garchi-cms-nuxt-3-part-2-3ao8)
-- [Dev.to/JS] [Transforming Pixels into Imagination: Building an AI-Powered Image Generator with React.js and OpenAI API](https://dev.to/onlyoneerin/transforming-pixels-into-imagination-building-an-ai-powered-image-generator-with-reactjs-and-openai-api-473)
 - [Lifehacker] [What to Unplug and Turn Off When You Leave for Summer Vacation](https://lifehacker.com/what-to-unplug-and-turn-off-when-you-leave-for-summer-v-1797403292)
 - [Lifehacker] [You Need a Career ‘Sponsor’ &lpar;Not Just a Mentor&rpar;](https://lifehacker.com/you-need-a-career-sponsor-not-just-a-mentor-1850651350)
 - [Lifehacker] [How to Clean Your House, According to the Professionals](https://lifehacker.com/how-to-clean-your-house-like-a-professional-housekeeper-1826796349)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Make Two Deadlines for Every Project](https://lifehacker.com/why-you-should-make-two-deadlines-for-every-project-1850648884)
 - [Lifehacker] [Make This Chicken Frankie With a Surprising Ingredient](https://lifehacker.com/make-this-chicken-frankie-with-a-surprising-ingredient-1850648956)
 - [Lifehacker] [The Difference Between a Martini Glass, a Coupe, and a Nick &amp; Nora &lpar;and Whether It Matters&rpar;](https://lifehacker.com/the-difference-between-a-martini-glass-a-coupe-and-a-1850648390)
-- [Lifehacker] [The Best New Messages Features in iOS 17](https://lifehacker.com/best-new-messages-features-ios-17-1850646615)
-- [Lifehacker] [Your Can Get &#39;Write Bot&#39; AI for Your Business for 90% Off Right Now](https://lifehacker.com/your-can-get-write-bot-ai-for-your-business-for-90-off-1850629825)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best New Messages Features in iOS 17](https://lifehacker.com/best-new-messages-features-ios-17-1850646615)<!-- TECH-POSTS:END -->
 
 ---
 
