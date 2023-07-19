@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dependency Injection &lpar;DI&rpar; with NodeJS + Typescript](https://dev.to/lucasprochnow/dependency-injection-di-with-nodejs-typescript-5f25)
+- [Lifehacker] [How to Make Taco Bell&#39;s Breakfast Crunchwrap at Home](https://lifehacker.com/how-to-make-taco-bells-breakfast-crunchwrap-at-home-1850655815)
+- [Dev.to/JS] [Agregar y eliminar elementos de un array en Javascript](https://dev.to/pacmankabh/agregar-y-eliminar-elementos-de-un-array-en-javascript-91n)
 - [Lifehacker] [How &lpar;and Why&rpar; to Add Strides to Your Runs](https://lifehacker.com/how-and-why-to-add-strides-to-your-runs-1850655294)
 - [Dev.to/JS] [Enhance Your Web Apps: Best JS Libraries 🔧](https://dev.to/abbhiishek/enhance-your-web-apps-best-js-libraries-1a3f)
 - [Lifehacker] [This Refurbished Lenovo ThinkPad Is $120 Right Now](https://lifehacker.com/this-refurbished-lenovo-thinkpad-is-120-right-now-1850643104)
@@ -44,9 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Think of New Habits As Skills](https://lifehacker.com/why-you-should-think-of-new-habits-as-skills-1850651690)
 - [Dev.to/JS] [Mastering the FS module In NodeJS](https://dev.to/kalashin1/mastering-the-fs-module-in-nodejs-4j52)
 - [Dev.to/JS] [Exploring the Web Audio and Web MIDI APIs with virtual pianos](https://dev.to/logrocket/exploring-the-web-audio-and-web-midi-apis-with-virtual-pianos-1lo)
-- [Dev.to/JS] [Tailwind intro – good and bad](https://dev.to/hi_iam_chris/tailwind-intro-good-and-bad-2l1e)
 - [Lifehacker] [TikTok, Meta, Twitter, and YouTube All Have Different Plans for 2024 Election Misinformation](https://lifehacker.com/iktok-meta-twitter-and-youtube-all-have-different-pl-1850653781)
-- [Dev.to/JS] [Benchmarking &#39;for&#39;, &#39;while&#39;, &#39;for...of&#39;, and &#39;Array.forEach&#39; - using Performance.now&lpar;&rpar;](https://dev.to/maafaishal/benchmarking-for-while-forof-and-arrayforeach-using-performancenow-1jjg)
 - [Lifehacker] [Your Vegetable Plants Might Need Hormone Therapy](https://lifehacker.com/your-vegetable-plants-might-need-hormone-therapy-1850654140)
 - [Lifehacker] [United Airlines Might Owe You 30,000 Miles](https://lifehacker.com/united-airlines-might-owe-you-30-000-miles-1850653841)
 - [Lifehacker] [The Best Way to Close Your Bread Bag Without a Twist-Tie](https://lifehacker.com/the-best-way-to-secure-your-bread-bag-without-a-twist-t-1850652722)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Much Travel Insurance Costs &lpar;and When You Should Get It&rpar;](https://lifehacker.com/do-i-really-need-to-buy-travel-insurance-1674681487)
 - [Lifehacker] [Make Overnight Oats in an Almost-Empty Jam Jar](https://lifehacker.com/make-overnight-oats-in-an-almost-empty-jam-jar-1850651723)
 - [Lifehacker] [This Raspberry Pi and Arduino Developer Course Bundle Is 80% Off Right Now](https://lifehacker.com/this-raspberry-pi-and-arduino-developer-course-bundle-i-1850638653)
-- [Lifehacker] [You Can Get Around Twitter&#39;s New DM Changes](https://lifehacker.com/you-can-get-around-twitters-new-dm-changes-1850651336)
-- [Lifehacker] [All the Ways You Should Be Using Mayo &lpar;but Probably Aren’t&rpar;](https://lifehacker.com/best-overlooked-uses-for-mayo-1847114226)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Around Twitter&#39;s New DM Changes](https://lifehacker.com/you-can-get-around-twitters-new-dm-changes-1850651336)<!-- TECH-POSTS:END -->
 
 ---
 
