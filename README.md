@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The 5 most important takeaways from the new React Docs, for both newbie and experienced devs](https://dev.to/edchavezb/the-5-most-important-takeaways-from-the-new-react-docs-for-both-newbie-and-experienced-devs-4252)
 - [Dev.to/JS] [Afinal, qual é a diferença entre arrow functions e funções regulares?](https://dev.to/pedrogustavo/afinal-qual-e-a-diferenca-entre-arrow-functions-e-funcoes-regulares-4g7a)
 - [Dev.to/JS] [My Shift from Vanilla JS to React](https://dev.to/yong197578/my-shift-from-vanilla-js-to-react-2d1e)
 - [Dev.to/JS] [Using eval and fromCharCode for JavaScript Code Obfuscation](https://dev.to/w2sft/using-eval-and-fromcharcode-for-javascript-code-obfuscation-f27)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Measuring the performance of JSS apps](https://dev.to/illiakovalenko/measuring-the-performance-of-jss-apps-4m5k)
 - [Lifehacker] [This Microsoft Excel Training Course Is $30 Right Now](https://lifehacker.com/this-microsoft-excel-training-course-is-30-right-now-1850638608)
 - [Lifehacker] [What&#39;s New on Disney+ in August 2023](https://lifehacker.com/whats-new-on-disney-in-august-2023-1850652833)
-- [Dev.to/JS] [Javascript REST API CALL](https://dev.to/kumo70/javascript-rest-api-call-2ne2)
 - [Lifehacker] [A Beginner&#39;s Guide to Buying a Weightlifting Belt](https://lifehacker.com/a-beginners-guide-to-buying-a-weightlifting-belt-1850401310)
 - [Lifehacker] [You Can Get Four Tickets for $80 to Any of These Summer Concerts](https://lifehacker.com/you-can-get-four-tickets-for-80-to-any-of-these-summer-1850652038)
 - [Lifehacker] [Better Organize Your Days With ‘Timeboxing’](https://lifehacker.com/better-organize-your-days-with-timeboxing-1850652085)
