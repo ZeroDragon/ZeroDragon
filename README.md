@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LocalStorage with React Hooks](https://dev.to/mrrishimeena/localstorage-with-react-hooks-34dl)
+- [Dev.to/JS] [Execute Shell Commands Using Node.js: A Powerful Integration](https://dev.to/fhrabbi/execute-shell-commands-using-nodejs-a-powerful-integration-1fp6)
 - [Dev.to/JS] [Asking For Confirmation Inline In React Function](https://dev.to/bikash9609/asking-for-confirmation-inline-in-react-function-1b3a)
 - [Dev.to/JS] [Wasm is not going to save Javascript](https://dev.to/ajanibilby/wasm-is-not-going-to-save-javascript-2gp0)
 - [Dev.to/JS] [Stop Hating On Array.reduce&lpar;&rpar;](https://dev.to/sabinthedev/stop-hating-on-arrayreduce-36gj)
@@ -44,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Keep Your Desk Clutter-Free With These Gadgets](https://lifehacker.com/keep-your-desk-clutter-free-with-these-gadgets-1850655937)
 - [Lifehacker] [Heat Leftover Pizza In a Skillet to Re-Crisp the Crust](https://lifehacker.com/reheat-pizza-in-a-skillet-to-bring-back-crispy-crusts-5862749)
 - [Lifehacker] [Make a Quick Peanut Butter Cup in Your Freezer](https://lifehacker.com/make-a-quick-peanut-butter-cup-in-your-freezer-1850656338)
-- [Dev.to/JS] [ReactJs Virtual DOM](https://dev.to/aniksaha12/reactjs-virtual-dom-1jff)
 - [Lifehacker] [You Should Buy Your Dog a Set of Summer Booties](https://lifehacker.com/buy-your-dog-a-pair-of-summer-booties-1835234383)
-- [Dev.to/JS] [Animated Website using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/animated-website-using-html-css-and-javascript-4gl4)
 - [Lifehacker] [How to Stream All the Women’s World Cup 2023 Games for Free](https://lifehacker.com/how-to-stream-all-the-women-s-world-cup-2023-games-for-1850656823)
 - [Lifehacker] [Wait, How Much Does Netflix Cost Now?](https://lifehacker.com/wait-how-much-does-netflix-cost-now-1850655093)
 - [Lifehacker] [You Can Poach a Dozen Eggs at Once in a Muffin Tin](https://lifehacker.com/poach-a-dozen-eggs-at-once-with-a-muffin-tin-1681243702)
