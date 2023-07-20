@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Asking For Confirmation Inline In React Function](https://dev.to/bikash9609/asking-for-confirmation-inline-in-react-function-1b3a)
+- [Dev.to/JS] [Wasm is not going to save Javascript](https://dev.to/ajanibilby/wasm-is-not-going-to-save-javascript-2gp0)
+- [Dev.to/JS] [Stop Hating On Array.reduce&lpar;&rpar;](https://dev.to/sabinthedev/stop-hating-on-arrayreduce-36gj)
 - [Dev.to/JS] [How to Code Efficiently with Design Systems Analysis and Documentation](https://dev.to/function12_io/how-to-code-efficiently-with-design-systems-analysis-and-documentation-2n33)
 - [Dev.to/JS] [Exploring the Power of TypeScript Decorators: Extending and Modifying Code with Ease](https://dev.to/rajrathod/exploring-the-power-of-typescript-decorators-extending-and-modifying-code-with-ease-424l)
 - [Dev.to/JS] [toolkit-use npm changelog](https://dev.to/toolkituse/toolkit-use-npm-changelog-3mi5)
@@ -45,9 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Buy Your Dog a Set of Summer Booties](https://lifehacker.com/buy-your-dog-a-pair-of-summer-booties-1835234383)
 - [Dev.to/JS] [Animated Website using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/animated-website-using-html-css-and-javascript-4gl4)
 - [Lifehacker] [How to Stream All the Women’s World Cup 2023 Games for Free](https://lifehacker.com/how-to-stream-all-the-women-s-world-cup-2023-games-for-1850656823)
-- [Dev.to/JS] [Git Commands Every Developer Should Know](https://dev.to/anuj8126/git-commands-every-developer-should-know-50pp)
-- [Dev.to/JS] [What are TypeScript Discriminated Unions?](https://dev.to/darkmavis1980/what-are-typescript-discriminated-unions-5hbb)
-- [Dev.to/JS] [Promise in JavaScript](https://dev.to/sarthakc20/promise-in-javascript-3mpc)
 - [Lifehacker] [Wait, How Much Does Netflix Cost Now?](https://lifehacker.com/wait-how-much-does-netflix-cost-now-1850655093)
 - [Lifehacker] [You Can Poach a Dozen Eggs at Once in a Muffin Tin](https://lifehacker.com/poach-a-dozen-eggs-at-once-with-a-muffin-tin-1681243702)
 - [Lifehacker] [How to Cool Off a Windowless Room](https://lifehacker.com/how-to-cool-off-a-windowless-room-1850655486)
