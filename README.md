@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Lifetime Subscription to Rosetta Stone Is Over 30% Off Right Now](https://lifehacker.com/this-lifetime-subscription-to-rosetta-stone-is-over-30-1850643171)
+- [Dev.to/JS] [Movie IndexDB Simple with code](https://dev.to/shawn2208/movie-indexdb-simple-with-code-26di)
+- [Lifehacker] [My Favorite Ways to Fry a Perfect Egg](https://lifehacker.com/8-ways-to-fry-a-better-egg-1846915074)
+- [Dev.to/JS] [Building a Telegram Bot for File Sharing and Song Search with Vercel Deployment](https://dev.to/sh20raj/building-a-telegram-bot-for-file-sharing-and-song-search-with-vercel-deployment-4379)
 - [Lifehacker] [You Can Automatically Delete Trackers From iPhone URLs](https://lifehacker.com/you-can-automatically-delete-trackers-from-iphone-urls-1850658478)
 - [Dev.to/JS] [7 JavaScript Powerful Optimization Tricks You Need To Know](https://dev.to/blackhorse0101/7-javascript-powerful-optimization-tricks-you-need-to-know-3k73)
 - [Dev.to/JS] [Extending native JS prototypes is not such a crazy idea with symbols](https://dev.to/slikts/extending-native-js-prototypes-is-not-such-a-crazy-idea-with-symbols-2h8l)
@@ -45,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create a WhatsApp Bot: A Comprehensive Guide](https://dev.to/sh20raj/how-to-create-a-whatsapp-bot-a-comprehensive-guide-2c4c)
 - [Dev.to/JS] [Day 9: compose function](https://dev.to/dhrn/day-9-compose-function-4a9l)
 - [Lifehacker] [Just Buy Two Bunches of Bananas](https://lifehacker.com/just-buy-two-bunches-of-bananas-1850656653)
-- [Dev.to/JS] [Test? When to test?](https://dev.to/sigcoding/test-when-to-test-6kb)
-- [Dev.to/JS] [How to Create a Telegram Bot Step by Step with Node.js and Deploy it for Free on Vercel](https://dev.to/sh20raj/how-to-create-a-telegram-bot-step-by-step-with-nodejs-and-deploy-it-for-free-on-vercel-2p1d)
 - [Lifehacker] [Your Plants Might Need a Vibrator](https://lifehacker.com/your-plants-might-need-a-vibrator-1850654156)
 - [Lifehacker] [Where to Watch &#39;They Cloned Tyrone&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-they-cloned-tyrone-and-what-you-should-1850653784)
 - [Lifehacker] [Help Your Kid Clean Their Room With the &#39;Mountain Method&#39;](https://lifehacker.com/help-your-kid-clean-their-room-with-the-mountain-method-1831137317)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Cool Off a Windowless Room](https://lifehacker.com/how-to-cool-off-a-windowless-room-1850655486)
 - [Lifehacker] [Why You Need One No-Meetings Day a Week, According to Science](https://lifehacker.com/why-you-need-one-no-meetings-day-a-week-according-to-s-1850655703)
 - [Lifehacker] [This Python Certification Bootcamp Bundle Is $20 Right Now](https://lifehacker.com/this-python-certification-bootcamp-bundle-is-20-right-1850643078)
-- [Lifehacker] [You Know You Don&#39;t Have to Cook Corn, Right?](https://lifehacker.com/you-know-you-dont-have-to-cook-corn-right-1797841831)
-- [Lifehacker] [How to Make Taco Bell&#39;s Breakfast Crunchwrap at Home](https://lifehacker.com/how-to-make-taco-bells-breakfast-crunchwrap-at-home-1850655815)
-- [Lifehacker] [How &lpar;and Why&rpar; to Add Strides to Your Runs](https://lifehacker.com/how-and-why-to-add-strides-to-your-runs-1850655294)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Know You Don&#39;t Have to Cook Corn, Right?](https://lifehacker.com/you-know-you-dont-have-to-cook-corn-right-1797841831)<!-- TECH-POSTS:END -->
 
 ---
 
