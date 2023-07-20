@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚀 Mastering Throttling and Debouncing in JavaScript: A Fun and Beginner-Friendly Tutorial!🏀](https://dev.to/chanakyasarma/mastering-throttling-and-debouncing-in-javascript-a-fun-and-beginner-friendly-tutorial-o1p)
 - [Dev.to/JS] [LocalStorage with React Hooks](https://dev.to/mrrishimeena/localstorage-with-react-hooks-34dl)
 - [Dev.to/JS] [Execute Shell Commands Using Node.js: A Powerful Integration](https://dev.to/fhrabbi/execute-shell-commands-using-nodejs-a-powerful-integration-1fp6)
 - [Dev.to/JS] [Asking For Confirmation Inline In React Function](https://dev.to/bikash9609/asking-for-confirmation-inline-in-react-function-1b3a)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Project Kickoff: A Journey Towards Innovation](https://dev.to/vitalipri/project-kickoff-a-journey-towards-innovation-3h8b)
 - [Dev.to/JS] [Using IntersectionObserverApi to create scroll on reveal Effect ..](https://dev.to/ikechukwu411/using-intersectionobserverapi-to-create-scroll-on-reveal-effect--oai)
 - [Dev.to/JS] [Validating user input using jQuery and Hypertext Preprocessor &lpar;PHP&rpar;](https://dev.to/saaaron/validating-user-input-using-jquery-and-hypertext-preprocessor-php-4409)
-- [Dev.to/JS] [How to create a Currency Converter app using ExchangeRate REST API](https://dev.to/gbadeboife/how-to-create-a-currency-converter-app-using-exchangerate-rest-api-23bo)
 - [Lifehacker] [Where to Watch &#39;They Cloned Tyrone&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-they-cloned-tyrone-and-what-you-should-1850653784)
 - [Lifehacker] [Help Your Kid Clean Their Room With the &#39;Mountain Method&#39;](https://lifehacker.com/help-your-kid-clean-their-room-with-the-mountain-method-1831137317)
 - [Lifehacker] [Where to Watch &#39;Warrior&#39; Season 3 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-warrior-season-3-and-what-you-should-kn-1850653671)
