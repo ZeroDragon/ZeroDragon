@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Automatically Delete Trackers From iPhone URLs](https://lifehacker.com/you-can-automatically-delete-trackers-from-iphone-urls-1850658478)
+- [Dev.to/JS] [7 JavaScript Powerful Optimization Tricks You Need To Know](https://dev.to/blackhorse0101/7-javascript-powerful-optimization-tricks-you-need-to-know-3k73)
+- [Dev.to/JS] [Extending native JS prototypes is not such a crazy idea with symbols](https://dev.to/slikts/extending-native-js-prototypes-is-not-such-a-crazy-idea-with-symbols-2h8l)
+- [Dev.to/JS] [My Coding Challenge Interview! Sheesh!](https://dev.to/trinly01/my-coding-challenge-interview-sheesh-44dg)
+- [Lifehacker] [All the Ways to Filter and Hide Adult Games on Steam and Itch.io](https://lifehacker.com/all-the-ways-to-filter-and-hide-adult-games-on-steam-an-1850657543)
+- [Dev.to/JS] [React Jam starts now, build a game using React in 10 days!](https://dev.to/reactgamejam/react-jam-starts-now-build-a-game-using-react-in-10-days-2j60)
+- [Lifehacker] [Your Phone Isn’t Spying on You to Show You Ads &lpar;It’s Worse Than That&rpar;](https://lifehacker.com/what-people-are-getting-wrong-this-week-phone-surveill-1850658089)
 - [Lifehacker] [Make This Sweet and Creamy &#39;Shaved Ice&#39; With Just Two Ingredients](https://lifehacker.com/make-this-sweet-and-creamy-shaved-ice-with-just-two-ing-1850657846)
 - [Lifehacker] [20 Hulu Originals You Probably Aren&#39;t Watching But Definitely Should Be](https://lifehacker.com/15-hulu-originals-you-probably-arent-watching-but-defin-1847459312)
 - [Dev.to/JS] [Building a Simple CRUD Task Manager App with Angular: A Step-by-Step Guide for Beginners](https://dev.to/ayushdev_24/building-a-simple-crud-task-manager-app-with-angular-a-step-by-step-guide-for-beginners-2moo)
@@ -41,10 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Test? When to test?](https://dev.to/sigcoding/test-when-to-test-6kb)
 - [Dev.to/JS] [How to Create a Telegram Bot Step by Step with Node.js and Deploy it for Free on Vercel](https://dev.to/sh20raj/how-to-create-a-telegram-bot-step-by-step-with-nodejs-and-deploy-it-for-free-on-vercel-2p1d)
 - [Lifehacker] [Your Plants Might Need a Vibrator](https://lifehacker.com/your-plants-might-need-a-vibrator-1850654156)
-- [Dev.to/JS] [What is Event loop in JS &lpar;javascript&rpar;](https://dev.to/diwakarkashyap/what-is-event-loop-in-js-javascript-57kh)
-- [Dev.to/JS] [Quantum AI - Benefits, Reviews, Results, Price &amp; Side Effects?](https://dev.to/quantumaii52513/quantum-ai-benefits-reviews-results-price-side-effects-7a5)
-- [Dev.to/JS] [Unlock Your Business&#39;s Potential with Metaverse Development - Limited Time Offer for Customized Development Solutions](https://dev.to/came12849/unlock-your-businesss-potential-with-metaverse-development-limited-time-offer-for-customized-development-solutions-3oba)
-- [Dev.to/JS] [Best Practices For Successful IT Project Management](https://dev.to/devtripath94447/best-practices-for-successful-it-project-management-f33)
 - [Lifehacker] [Where to Watch &#39;They Cloned Tyrone&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-they-cloned-tyrone-and-what-you-should-1850653784)
 - [Lifehacker] [Help Your Kid Clean Their Room With the &#39;Mountain Method&#39;](https://lifehacker.com/help-your-kid-clean-their-room-with-the-mountain-method-1831137317)
 - [Lifehacker] [Where to Watch &#39;Warrior&#39; Season 3 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-warrior-season-3-and-what-you-should-kn-1850653671)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Python Certification Bootcamp Bundle Is $20 Right Now](https://lifehacker.com/this-python-certification-bootcamp-bundle-is-20-right-1850643078)
 - [Lifehacker] [You Know You Don&#39;t Have to Cook Corn, Right?](https://lifehacker.com/you-know-you-dont-have-to-cook-corn-right-1797841831)
 - [Lifehacker] [How to Make Taco Bell&#39;s Breakfast Crunchwrap at Home](https://lifehacker.com/how-to-make-taco-bells-breakfast-crunchwrap-at-home-1850655815)
-- [Lifehacker] [How &lpar;and Why&rpar; to Add Strides to Your Runs](https://lifehacker.com/how-and-why-to-add-strides-to-your-runs-1850655294)
-- [Lifehacker] [This Refurbished Lenovo ThinkPad Is $120 Right Now](https://lifehacker.com/this-refurbished-lenovo-thinkpad-is-120-right-now-1850643104)
-- [Lifehacker] [How to Stop Your Phone From Overheating](https://lifehacker.com/how-to-stop-your-phone-from-overheating-1847723875)
-- [Lifehacker] [My Top Choices for Neck Fans, Stroller Fans, and Tent Fans](https://lifehacker.com/my-top-choices-for-neck-fans-stroller-fans-and-tent-f-1850651908)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How &lpar;and Why&rpar; to Add Strides to Your Runs](https://lifehacker.com/how-and-why-to-add-strides-to-your-runs-1850655294)<!-- TECH-POSTS:END -->
 
 ---
 
