@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dont shake it, you possibly will break it...](https://dev.to/efpage/dont-shake-it-you-possibly-break-it-4lee)
+- [Lifehacker] [This Wearable Shoulder and Knee Massager Is $60 Right Now](https://lifehacker.com/this-wearable-shoulder-and-knee-massager-is-60-right-n-1850653247)
 - [Lifehacker] [Fry Food Without Burning Your Beautiful Hands](https://lifehacker.com/how-to-fry-something-without-burning-your-beautiful-han-1850660364)
+- [Dev.to/JS] [WebRTC Basics and Project Introduction](https://dev.to/pahujanayan/webrtc-basics-and-project-introduction-12ip)
 - [Lifehacker] [Use the &#39;Hierarchy of Needs&#39; to Find Your Perfect Job](https://lifehacker.com/use-the-hierarchy-of-needs-to-find-your-perfect-job-1850660848)
 - [Dev.to/JS] [Migrating from create-react-app to Vite: A Quick and Easy Guide](https://dev.to/henriquejensen/migrating-from-create-react-app-to-vite-a-quick-and-easy-guide-5e72)
 - [Lifehacker] [Use Soap Before Water to Clean Greasy Hands](https://lifehacker.com/use-soap-before-water-to-clean-greasy-hands-1832736019)
@@ -50,9 +53,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [first non-repeating character.](https://dev.to/chandrapenugonda/first-non-repeating-character-4dbc)
 - [Lifehacker] [You Can Apply for Your First Passport at Fairs Now](https://lifehacker.com/you-can-apply-for-your-first-passport-at-fairs-now-1850657363)
 - [Lifehacker] [This Lifetime Subscription to Rosetta Stone Is Over 30% Off Right Now](https://lifehacker.com/this-lifetime-subscription-to-rosetta-stone-is-over-30-1850643171)
-- [Dev.to/JS] [Movie IndexDB Simple with code](https://dev.to/shawn2208/movie-indexdb-simple-with-code-26di)
 - [Lifehacker] [My Favorite Ways to Fry a Perfect Egg](https://lifehacker.com/8-ways-to-fry-a-better-egg-1846915074)
-- [Dev.to/JS] [Building a Telegram Bot for File Sharing and Song Search with Vercel Deployment](https://dev.to/sh20raj/building-a-telegram-bot-for-file-sharing-and-song-search-with-vercel-deployment-4379)
 - [Lifehacker] [You Can Automatically Delete Trackers From iPhone URLs](https://lifehacker.com/you-can-automatically-delete-trackers-from-iphone-urls-1850658478)
 - [Lifehacker] [All the Ways to Filter and Hide Adult Games on Steam and Itch.io](https://lifehacker.com/all-the-ways-to-filter-and-hide-adult-games-on-steam-an-1850657543)
 - [Lifehacker] [Your Phone Isn’t Spying on You to Show You Ads &lpar;It’s Worse Than That&rpar;](https://lifehacker.com/what-people-are-getting-wrong-this-week-phone-surveill-1850658089)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Just Buy Two Bunches of Bananas](https://lifehacker.com/just-buy-two-bunches-of-bananas-1850656653)
 - [Lifehacker] [Your Plants Might Need a Vibrator](https://lifehacker.com/your-plants-might-need-a-vibrator-1850654156)
 - [Lifehacker] [Where to Watch &#39;They Cloned Tyrone&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-they-cloned-tyrone-and-what-you-should-1850653784)
-- [Lifehacker] [Help Your Kid Clean Their Room With the &#39;Mountain Method&#39;](https://lifehacker.com/help-your-kid-clean-their-room-with-the-mountain-method-1831137317)
-- [Lifehacker] [Where to Watch &#39;Warrior&#39; Season 3 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-warrior-season-3-and-what-you-should-kn-1850653671)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Help Your Kid Clean Their Room With the &#39;Mountain Method&#39;](https://lifehacker.com/help-your-kid-clean-their-room-with-the-mountain-method-1831137317)<!-- TECH-POSTS:END -->
 
 ---
 
