@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ready to learn php](https://dev.to/pazapp/ready-to-learn-php-2fkl)
+- [Lifehacker] [Poach Your Eggs Directly in a Pot of Oatmeal](https://lifehacker.com/poach-your-eggs-directly-in-a-pot-of-oatmeal-1850659956)
+- [Lifehacker] [The Best Ways to Freeze Any Kind of Fresh Fruit](https://lifehacker.com/how-to-properly-freeze-fruit-for-longer-lasting-freshne-1692241279)
 - [Lifehacker] [Your iPhone Can Now Decode the Warning Lights in Your Car](https://lifehacker.com/your-iphone-can-now-decode-the-warning-lights-in-your-c-1850659088)
 - [Lifehacker] [The Most Basic Equipment You Need to Work Out at Home](https://lifehacker.com/what-s-the-most-basic-equipment-you-need-to-work-out-at-1849430354)
 - [Lifehacker] [Apple’s New &#39;Screen Distance&#39; Feature Can Protect Your Kid&#39;s Eyes](https://lifehacker.com/apple-s-new-screen-distance-feature-can-protect-your-ki-1850658879)
@@ -50,7 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When &lpar;and Where&rpar; to See the Summer’s Best Meteor Showers](https://lifehacker.com/when-and-where-to-see-the-summer-s-best-meteor-shower-1850658031)
 - [Lifehacker] [The Easiest Way to Keep Waffles From Sticking to Your Waffle Iron](https://lifehacker.com/the-easiest-way-to-keep-waffles-from-sticking-to-your-w-1850657373)
 - [Dev.to/JS] [Easier Way to Learn TDD](https://dev.to/jesterxl/easier-way-to-learn-tdd-5cn3)
-- [Dev.to/JS] [SEO companies in New York](https://dev.to/designmemarketing/seo-companies-in-new-york-31e8)
 - [Lifehacker] [Three Gardening Tasks to Tackle This Month to Get Ready for Fall](https://lifehacker.com/three-gardening-tasks-to-tackle-this-month-to-get-ready-1850656407)
 - [Lifehacker] [Just Buy Two Bunches of Bananas](https://lifehacker.com/just-buy-two-bunches-of-bananas-1850656653)
 - [Lifehacker] [Your Plants Might Need a Vibrator](https://lifehacker.com/your-plants-might-need-a-vibrator-1850654156)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Heat Leftover Pizza In a Skillet to Re-Crisp the Crust](https://lifehacker.com/reheat-pizza-in-a-skillet-to-bring-back-crispy-crusts-5862749)
 - [Lifehacker] [Make a Quick Peanut Butter Cup in Your Freezer](https://lifehacker.com/make-a-quick-peanut-butter-cup-in-your-freezer-1850656338)
 - [Lifehacker] [You Should Buy Your Dog a Set of Summer Booties](https://lifehacker.com/buy-your-dog-a-pair-of-summer-booties-1835234383)
-- [Lifehacker] [How to Stream All the Women’s World Cup 2023 Games for Free](https://lifehacker.com/how-to-stream-all-the-women-s-world-cup-2023-games-for-1850656823)
-- [Lifehacker] [Wait, How Much Does Netflix Cost Now?](https://lifehacker.com/wait-how-much-does-netflix-cost-now-1850655093)
-- [Lifehacker] [You Can Poach a Dozen Eggs at Once in a Muffin Tin](https://lifehacker.com/poach-a-dozen-eggs-at-once-with-a-muffin-tin-1681243702)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Stream All the Women’s World Cup 2023 Games for Free](https://lifehacker.com/how-to-stream-all-the-women-s-world-cup-2023-games-for-1850656823)<!-- TECH-POSTS:END -->
 
 ---
 
