@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your iPhone Can Now Decode the Warning Lights in Your Car](https://lifehacker.com/your-iphone-can-now-decode-the-warning-lights-in-your-c-1850659088)
+- [Lifehacker] [The Most Basic Equipment You Need to Work Out at Home](https://lifehacker.com/what-s-the-most-basic-equipment-you-need-to-work-out-at-1849430354)
+- [Lifehacker] [Apple’s New &#39;Screen Distance&#39; Feature Can Protect Your Kid&#39;s Eyes](https://lifehacker.com/apple-s-new-screen-distance-feature-can-protect-your-ki-1850658879)
+- [Dev.to/JS] [เพิ่มประสิทธิภาพให้กับ NestJS สำหรับการประมวลผลที่เร็วและมีประสิทธิภาพสูง](https://dev.to/wteja/ephimprasiththiphaaphaihkab-nestjs-samhrabkaarpramwlphlthiierwaelamiiprasiththiphaaphsuung-41dp)
+- [Dev.to/JS] [Check if the given string is a palindrome or not](https://dev.to/chandrapenugonda/check-if-the-given-string-is-a-palindrome-or-not-1o83)
+- [Dev.to/JS] [first non-repeating character.](https://dev.to/chandrapenugonda/first-non-repeating-character-4dbc)
+- [Lifehacker] [You Can Apply for Your First Passport at Fairs Now](https://lifehacker.com/you-can-apply-for-your-first-passport-at-fairs-now-1850657363)
 - [Lifehacker] [This Lifetime Subscription to Rosetta Stone Is Over 30% Off Right Now](https://lifehacker.com/this-lifetime-subscription-to-rosetta-stone-is-over-30-1850643171)
 - [Dev.to/JS] [Movie IndexDB Simple with code](https://dev.to/shawn2208/movie-indexdb-simple-with-code-26di)
 - [Lifehacker] [My Favorite Ways to Fry a Perfect Egg](https://lifehacker.com/8-ways-to-fry-a-better-egg-1846915074)
@@ -44,10 +51,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Keep Waffles From Sticking to Your Waffle Iron](https://lifehacker.com/the-easiest-way-to-keep-waffles-from-sticking-to-your-w-1850657373)
 - [Dev.to/JS] [Easier Way to Learn TDD](https://dev.to/jesterxl/easier-way-to-learn-tdd-5cn3)
 - [Dev.to/JS] [SEO companies in New York](https://dev.to/designmemarketing/seo-companies-in-new-york-31e8)
-- [Dev.to/JS] [The Power of ERP and CRM Integration: Boosting Business Efficiency](https://dev.to/idurar/the-power-of-erp-and-crm-integration-boosting-business-efficiency-13k1)
 - [Lifehacker] [Three Gardening Tasks to Tackle This Month to Get Ready for Fall](https://lifehacker.com/three-gardening-tasks-to-tackle-this-month-to-get-ready-1850656407)
-- [Dev.to/JS] [How to Create a WhatsApp Bot: A Comprehensive Guide](https://dev.to/sh20raj/how-to-create-a-whatsapp-bot-a-comprehensive-guide-2c4c)
-- [Dev.to/JS] [Day 9: compose function](https://dev.to/dhrn/day-9-compose-function-4a9l)
 - [Lifehacker] [Just Buy Two Bunches of Bananas](https://lifehacker.com/just-buy-two-bunches-of-bananas-1850656653)
 - [Lifehacker] [Your Plants Might Need a Vibrator](https://lifehacker.com/your-plants-might-need-a-vibrator-1850654156)
 - [Lifehacker] [Where to Watch &#39;They Cloned Tyrone&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-they-cloned-tyrone-and-what-you-should-1850653784)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Buy Your Dog a Set of Summer Booties](https://lifehacker.com/buy-your-dog-a-pair-of-summer-booties-1835234383)
 - [Lifehacker] [How to Stream All the Women’s World Cup 2023 Games for Free](https://lifehacker.com/how-to-stream-all-the-women-s-world-cup-2023-games-for-1850656823)
 - [Lifehacker] [Wait, How Much Does Netflix Cost Now?](https://lifehacker.com/wait-how-much-does-netflix-cost-now-1850655093)
-- [Lifehacker] [You Can Poach a Dozen Eggs at Once in a Muffin Tin](https://lifehacker.com/poach-a-dozen-eggs-at-once-with-a-muffin-tin-1681243702)
-- [Lifehacker] [How to Cool Off a Windowless Room](https://lifehacker.com/how-to-cool-off-a-windowless-room-1850655486)
-- [Lifehacker] [Why You Need One No-Meetings Day a Week, According to Science](https://lifehacker.com/why-you-need-one-no-meetings-day-a-week-according-to-s-1850655703)
-- [Lifehacker] [This Python Certification Bootcamp Bundle Is $20 Right Now](https://lifehacker.com/this-python-certification-bootcamp-bundle-is-20-right-1850643078)
-- [Lifehacker] [You Know You Don&#39;t Have to Cook Corn, Right?](https://lifehacker.com/you-know-you-dont-have-to-cook-corn-right-1797841831)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Poach a Dozen Eggs at Once in a Muffin Tin](https://lifehacker.com/poach-a-dozen-eggs-at-once-with-a-muffin-tin-1681243702)<!-- TECH-POSTS:END -->
 
 ---
 
