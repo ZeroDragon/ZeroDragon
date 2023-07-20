@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Fry Food Without Burning Your Beautiful Hands](https://lifehacker.com/how-to-fry-something-without-burning-your-beautiful-han-1850660364)
+- [Lifehacker] [Use the &#39;Hierarchy of Needs&#39; to Find Your Perfect Job](https://lifehacker.com/use-the-hierarchy-of-needs-to-find-your-perfect-job-1850660848)
+- [Dev.to/JS] [Migrating from create-react-app to Vite: A Quick and Easy Guide](https://dev.to/henriquejensen/migrating-from-create-react-app-to-vite-a-quick-and-easy-guide-5e72)
+- [Lifehacker] [Use Soap Before Water to Clean Greasy Hands](https://lifehacker.com/use-soap-before-water-to-clean-greasy-hands-1832736019)
 - [Lifehacker] [What to Do Right Away When Your Mortgage Gets Sold](https://lifehacker.com/what-to-do-right-away-when-your-mortgage-gets-sold-1850659903)
 - [Dev.to/JS] [Сортування бульбашкою. JavaScript](https://dev.to/betelgeuseas/sortuvannia-bulbashkoiu-javascript-5gao)
 - [Lifehacker] [This International eSIM Card Is $22 Right Now](https://lifehacker.com/this-international-esim-card-is-22-right-now-1850643151)
@@ -50,7 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My Favorite Ways to Fry a Perfect Egg](https://lifehacker.com/8-ways-to-fry-a-better-egg-1846915074)
 - [Dev.to/JS] [Building a Telegram Bot for File Sharing and Song Search with Vercel Deployment](https://dev.to/sh20raj/building-a-telegram-bot-for-file-sharing-and-song-search-with-vercel-deployment-4379)
 - [Lifehacker] [You Can Automatically Delete Trackers From iPhone URLs](https://lifehacker.com/you-can-automatically-delete-trackers-from-iphone-urls-1850658478)
-- [Dev.to/JS] [7 JavaScript Powerful Optimization Tricks You Need To Know](https://dev.to/blackhorse0101/7-javascript-powerful-optimization-tricks-you-need-to-know-3k73)
 - [Lifehacker] [All the Ways to Filter and Hide Adult Games on Steam and Itch.io](https://lifehacker.com/all-the-ways-to-filter-and-hide-adult-games-on-steam-an-1850657543)
 - [Lifehacker] [Your Phone Isn’t Spying on You to Show You Ads &lpar;It’s Worse Than That&rpar;](https://lifehacker.com/what-people-are-getting-wrong-this-week-phone-surveill-1850658089)
 - [Lifehacker] [Make This Sweet and Creamy &#39;Shaved Ice&#39; With Just Two Ingredients](https://lifehacker.com/make-this-sweet-and-creamy-shaved-ice-with-just-two-ing-1850657846)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Plants Might Need a Vibrator](https://lifehacker.com/your-plants-might-need-a-vibrator-1850654156)
 - [Lifehacker] [Where to Watch &#39;They Cloned Tyrone&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-they-cloned-tyrone-and-what-you-should-1850653784)
 - [Lifehacker] [Help Your Kid Clean Their Room With the &#39;Mountain Method&#39;](https://lifehacker.com/help-your-kid-clean-their-room-with-the-mountain-method-1831137317)
-- [Lifehacker] [Where to Watch &#39;Warrior&#39; Season 3 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-warrior-season-3-and-what-you-should-kn-1850653671)
-- [Lifehacker] [This Nix Mini 2 Color Sensor Is $60 Right Now](https://lifehacker.com/this-nix-mini-2-color-sensor-is-60-right-now-1850643055)
-- [Lifehacker] [How to Get Used to Exercising in the Heat](https://lifehacker.com/how-to-get-used-to-exercising-in-the-heat-and-why-you-1716804690)
-- [Lifehacker] [Keep Your Desk Clutter-Free With These Gadgets](https://lifehacker.com/keep-your-desk-clutter-free-with-these-gadgets-1850655937)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Watch &#39;Warrior&#39; Season 3 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-warrior-season-3-and-what-you-should-kn-1850653671)<!-- TECH-POSTS:END -->
 
 ---
 
