@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Code Efficiently with Design Systems Analysis and Documentation](https://dev.to/function12_io/how-to-code-efficiently-with-design-systems-analysis-and-documentation-2n33)
+- [Dev.to/JS] [Exploring the Power of TypeScript Decorators: Extending and Modifying Code with Ease](https://dev.to/rajrathod/exploring-the-power-of-typescript-decorators-extending-and-modifying-code-with-ease-424l)
 - [Dev.to/JS] [toolkit-use npm changelog](https://dev.to/toolkituse/toolkit-use-npm-changelog-3mi5)
 - [Dev.to/JS] [Project Kickoff: A Journey Towards Innovation](https://dev.to/vitalipri/project-kickoff-a-journey-towards-innovation-3h8b)
 - [Dev.to/JS] [Using IntersectionObserverApi to create scroll on reveal Effect ..](https://dev.to/ikechukwu411/using-intersectionobserverapi-to-create-scroll-on-reveal-effect--oai)
@@ -48,12 +50,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Promise in JavaScript](https://dev.to/sarthakc20/promise-in-javascript-3mpc)
 - [Lifehacker] [Wait, How Much Does Netflix Cost Now?](https://lifehacker.com/wait-how-much-does-netflix-cost-now-1850655093)
 - [Lifehacker] [You Can Poach a Dozen Eggs at Once in a Muffin Tin](https://lifehacker.com/poach-a-dozen-eggs-at-once-with-a-muffin-tin-1681243702)
-- [Dev.to/JS] [Boas Práticas de Programação e Técnicas: Programando com Estilo!](https://dev.to/punk/boas-praticas-de-programacao-e-tecnicas-programando-com-estilo-1ich)
 - [Lifehacker] [How to Cool Off a Windowless Room](https://lifehacker.com/how-to-cool-off-a-windowless-room-1850655486)
 - [Lifehacker] [Why You Need One No-Meetings Day a Week, According to Science](https://lifehacker.com/why-you-need-one-no-meetings-day-a-week-according-to-s-1850655703)
 - [Lifehacker] [This Python Certification Bootcamp Bundle Is $20 Right Now](https://lifehacker.com/this-python-certification-bootcamp-bundle-is-20-right-1850643078)
 - [Lifehacker] [You Know You Don&#39;t Have to Cook Corn, Right?](https://lifehacker.com/you-know-you-dont-have-to-cook-corn-right-1797841831)
-- [Dev.to/JS] [Dependency Injection &lpar;DI&rpar; with NodeJS + Typescript](https://dev.to/lucasprochnow/dependency-injection-di-with-nodejs-typescript-5f25)
 - [Lifehacker] [How to Make Taco Bell&#39;s Breakfast Crunchwrap at Home](https://lifehacker.com/how-to-make-taco-bells-breakfast-crunchwrap-at-home-1850655815)
 - [Lifehacker] [How &lpar;and Why&rpar; to Add Strides to Your Runs](https://lifehacker.com/how-and-why-to-add-strides-to-your-runs-1850655294)
 - [Lifehacker] [This Refurbished Lenovo ThinkPad Is $120 Right Now](https://lifehacker.com/this-refurbished-lenovo-thinkpad-is-120-right-now-1850643104)
