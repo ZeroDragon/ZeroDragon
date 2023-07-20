@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Power of ERP and CRM Integration: Boosting Business Efficiency](https://dev.to/idurar/the-power-of-erp-and-crm-integration-boosting-business-efficiency-13k1)
+- [Lifehacker] [Three Gardening Tasks to Tackle This Month to Get Ready for Fall](https://lifehacker.com/three-gardening-tasks-to-tackle-this-month-to-get-ready-1850656407)
+- [Dev.to/JS] [How to Create a WhatsApp Bot: A Comprehensive Guide](https://dev.to/sh20raj/how-to-create-a-whatsapp-bot-a-comprehensive-guide-2c4c)
+- [Dev.to/JS] [Day 9: compose function](https://dev.to/dhrn/day-9-compose-function-4a9l)
+- [Lifehacker] [Just Buy Two Bunches of Bananas](https://lifehacker.com/just-buy-two-bunches-of-bananas-1850656653)
+- [Dev.to/JS] [Test? When to test?](https://dev.to/sigcoding/test-when-to-test-6kb)
+- [Dev.to/JS] [How to Create a Telegram Bot Step by Step with Node.js and Deploy it for Free on Vercel](https://dev.to/sh20raj/how-to-create-a-telegram-bot-step-by-step-with-nodejs-and-deploy-it-for-free-on-vercel-2p1d)
 - [Lifehacker] [Your Plants Might Need a Vibrator](https://lifehacker.com/your-plants-might-need-a-vibrator-1850654156)
 - [Dev.to/JS] [What is Event loop in JS &lpar;javascript&rpar;](https://dev.to/diwakarkashyap/what-is-event-loop-in-js-javascript-57kh)
 - [Dev.to/JS] [Quantum AI - Benefits, Reviews, Results, Price &amp; Side Effects?](https://dev.to/quantumaii52513/quantum-ai-benefits-reviews-results-price-side-effects-7a5)
@@ -34,11 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node.js Development: All You Need to Know](https://dev.to/lalitkumawat1m/nodejs-development-all-you-need-to-know-4jpk)
 - [Dev.to/JS] [I Created an Innovative Bookmarking Tool : Markbook 2.0](https://dev.to/ujjwall-r/markbook-20-elevate-your-bookmarking-experience-68c)
 - [Dev.to/JS] [JavaScript Promises: Unleashing the Power of Asynchronous Programming](https://dev.to/adii/javascript-promises-unleashing-the-power-of-asynchronous-programming-5ck1)
-- [Dev.to/JS] [The Future of Zero Trust Policy in Enterprise Cybersecurity](https://dev.to/devtripath94447/the-future-of-zero-trust-policy-in-enterprise-cybersecurity-3i8h)
-- [Dev.to/JS] [Speedometer Online: Tracking Your Speed Made Effortless](https://dev.to/speedometeronline/speedometer-online-tracking-your-speed-made-effortless-53ko)
-- [Dev.to/JS] [Mastering Frontend Interview Coding Challenges](https://dev.to/abidullah786/mastering-frontend-interview-coding-challenges-21lp)
-- [Dev.to/JS] [Best Javascript Machine Learning Libraries in 2023](https://dev.to/zipy/best-javascript-machine-learning-libraries-in-2023-mli)
-- [Dev.to/JS] [What is TypeScript Pick?](https://dev.to/martygo/what-is-typescript-pick-a5i)
 - [Lifehacker] [Where to Watch &#39;They Cloned Tyrone&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-they-cloned-tyrone-and-what-you-should-1850653784)
 - [Lifehacker] [Help Your Kid Clean Their Room With the &#39;Mountain Method&#39;](https://lifehacker.com/help-your-kid-clean-their-room-with-the-mountain-method-1831137317)
 - [Lifehacker] [Where to Watch &#39;Warrior&#39; Season 3 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-warrior-season-3-and-what-you-should-kn-1850653671)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Hulu in August 2023](https://lifehacker.com/whats-new-on-hulu-in-august-2023-1850654862)
 - [Lifehacker] [Why You Should Back Up Your iPhone to Your Computer Too](https://lifehacker.com/why-you-should-back-up-your-iphone-to-your-computer-too-1850654167)
 - [Lifehacker] [My Three Favorite Tools for Processing Summer Fruit](https://lifehacker.com/my-three-favorite-tools-for-processing-summer-fruit-1850654124)
-- [Lifehacker] [Why You Should Think of New Habits As Skills](https://lifehacker.com/why-you-should-think-of-new-habits-as-skills-1850651690)
-- [Lifehacker] [TikTok, Meta, Twitter, and YouTube All Have Different Plans for 2024 Election Misinformation](https://lifehacker.com/iktok-meta-twitter-and-youtube-all-have-different-pl-1850653781)
-- [Lifehacker] [Your Vegetable Plants Might Need Hormone Therapy](https://lifehacker.com/your-vegetable-plants-might-need-hormone-therapy-1850654140)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Think of New Habits As Skills](https://lifehacker.com/why-you-should-think-of-new-habits-as-skills-1850651690)<!-- TECH-POSTS:END -->
 
 ---
 
