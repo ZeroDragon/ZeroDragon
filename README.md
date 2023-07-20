@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [toolkit-use npm changelog](https://dev.to/toolkituse/toolkit-use-npm-changelog-3mi5)
 - [Dev.to/JS] [Project Kickoff: A Journey Towards Innovation](https://dev.to/vitalipri/project-kickoff-a-journey-towards-innovation-3h8b)
 - [Dev.to/JS] [Using IntersectionObserverApi to create scroll on reveal Effect ..](https://dev.to/ikechukwu411/using-intersectionobserverapi-to-create-scroll-on-reveal-effect--oai)
 - [Dev.to/JS] [Validating user input using jQuery and Hypertext Preprocessor &lpar;PHP&rpar;](https://dev.to/saaaron/validating-user-input-using-jquery-and-hypertext-preprocessor-php-4409)
@@ -54,7 +55,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Know You Don&#39;t Have to Cook Corn, Right?](https://lifehacker.com/you-know-you-dont-have-to-cook-corn-right-1797841831)
 - [Dev.to/JS] [Dependency Injection &lpar;DI&rpar; with NodeJS + Typescript](https://dev.to/lucasprochnow/dependency-injection-di-with-nodejs-typescript-5f25)
 - [Lifehacker] [How to Make Taco Bell&#39;s Breakfast Crunchwrap at Home](https://lifehacker.com/how-to-make-taco-bells-breakfast-crunchwrap-at-home-1850655815)
-- [Dev.to/JS] [Agregar y eliminar elementos de un array en Javascript](https://dev.to/pacmankabh/agregar-y-eliminar-elementos-de-un-array-en-javascript-91n)
 - [Lifehacker] [How &lpar;and Why&rpar; to Add Strides to Your Runs](https://lifehacker.com/how-and-why-to-add-strides-to-your-runs-1850655294)
 - [Lifehacker] [This Refurbished Lenovo ThinkPad Is $120 Right Now](https://lifehacker.com/this-refurbished-lenovo-thinkpad-is-120-right-now-1850643104)
 - [Lifehacker] [How to Stop Your Phone From Overheating](https://lifehacker.com/how-to-stop-your-phone-from-overheating-1847723875)
