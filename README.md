@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Validating user input using jQuery and Hypertext Preprocessor &lpar;PHP&rpar;](https://dev.to/saaaron/validating-user-input-using-jquery-and-hypertext-preprocessor-php-4409)
 - [Dev.to/JS] [How to create a Currency Converter app using ExchangeRate REST API](https://dev.to/gbadeboife/how-to-create-a-currency-converter-app-using-exchangerate-rest-api-23bo)
 - [Lifehacker] [Where to Watch &#39;They Cloned Tyrone&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-they-cloned-tyrone-and-what-you-should-1850653784)
 - [Lifehacker] [Help Your Kid Clean Their Room With the &#39;Mountain Method&#39;](https://lifehacker.com/help-your-kid-clean-their-room-with-the-mountain-method-1831137317)
@@ -58,7 +59,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Recorrer un array en Javascript](https://dev.to/pacmankabh/recorrer-un-array-en-javascript-1eci)
 - [Lifehacker] [How to Stop Your Phone From Overheating](https://lifehacker.com/how-to-stop-your-phone-from-overheating-1847723875)
 - [Lifehacker] [My Top Choices for Neck Fans, Stroller Fans, and Tent Fans](https://lifehacker.com/my-top-choices-for-neck-fans-stroller-fans-and-tent-f-1850651908)
-- [Dev.to/JS] [The Future of Node.js in Virtual and Augmented Reality Development](https://dev.to/saint_vandora/the-future-of-nodejs-in-virtual-and-augmented-reality-development-1dpi)
 - [Lifehacker] [What&#39;s New on Hulu in August 2023](https://lifehacker.com/whats-new-on-hulu-in-august-2023-1850654862)
 - [Lifehacker] [Why You Should Back Up Your iPhone to Your Computer Too](https://lifehacker.com/why-you-should-back-up-your-iphone-to-your-computer-too-1850654167)
 - [Lifehacker] [My Three Favorite Tools for Processing Summer Fruit](https://lifehacker.com/my-three-favorite-tools-for-processing-summer-fruit-1850654124)
