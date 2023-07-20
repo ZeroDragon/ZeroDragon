@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Plants Might Need a Vibrator](https://lifehacker.com/your-plants-might-need-a-vibrator-1850654156)
+- [Dev.to/JS] [What is Event loop in JS &lpar;javascript&rpar;](https://dev.to/diwakarkashyap/what-is-event-loop-in-js-javascript-57kh)
 - [Dev.to/JS] [Quantum AI - Benefits, Reviews, Results, Price &amp; Side Effects?](https://dev.to/quantumaii52513/quantum-ai-benefits-reviews-results-price-side-effects-7a5)
 - [Dev.to/JS] [Unlock Your Business&#39;s Potential with Metaverse Development - Limited Time Offer for Customized Development Solutions](https://dev.to/came12849/unlock-your-businesss-potential-with-metaverse-development-limited-time-offer-for-customized-development-solutions-3oba)
 - [Dev.to/JS] [Best Practices For Successful IT Project Management](https://dev.to/devtripath94447/best-practices-for-successful-it-project-management-f33)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Frontend Interview Coding Challenges](https://dev.to/abidullah786/mastering-frontend-interview-coding-challenges-21lp)
 - [Dev.to/JS] [Best Javascript Machine Learning Libraries in 2023](https://dev.to/zipy/best-javascript-machine-learning-libraries-in-2023-mli)
 - [Dev.to/JS] [What is TypeScript Pick?](https://dev.to/martygo/what-is-typescript-pick-a5i)
-- [Dev.to/JS] [🚀 Mastering Throttling and Debouncing in JavaScript: A Fun and Beginner-Friendly Tutorial!🏀](https://dev.to/chanakyasarma/mastering-throttling-and-debouncing-in-javascript-a-fun-and-beginner-friendly-tutorial-o1p)
 - [Lifehacker] [Where to Watch &#39;They Cloned Tyrone&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-they-cloned-tyrone-and-what-you-should-1850653784)
 - [Lifehacker] [Help Your Kid Clean Their Room With the &#39;Mountain Method&#39;](https://lifehacker.com/help-your-kid-clean-their-room-with-the-mountain-method-1831137317)
 - [Lifehacker] [Where to Watch &#39;Warrior&#39; Season 3 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-warrior-season-3-and-what-you-should-kn-1850653671)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My Three Favorite Tools for Processing Summer Fruit](https://lifehacker.com/my-three-favorite-tools-for-processing-summer-fruit-1850654124)
 - [Lifehacker] [Why You Should Think of New Habits As Skills](https://lifehacker.com/why-you-should-think-of-new-habits-as-skills-1850651690)
 - [Lifehacker] [TikTok, Meta, Twitter, and YouTube All Have Different Plans for 2024 Election Misinformation](https://lifehacker.com/iktok-meta-twitter-and-youtube-all-have-different-pl-1850653781)
-- [Lifehacker] [Your Vegetable Plants Might Need Hormone Therapy](https://lifehacker.com/your-vegetable-plants-might-need-hormone-therapy-1850654140)
-- [Lifehacker] [United Airlines Might Owe You 30,000 Miles](https://lifehacker.com/united-airlines-might-owe-you-30-000-miles-1850653841)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Vegetable Plants Might Need Hormone Therapy](https://lifehacker.com/your-vegetable-plants-might-need-hormone-therapy-1850654140)<!-- TECH-POSTS:END -->
 
 ---
 
