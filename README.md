@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do Right Away When Your Mortgage Gets Sold](https://lifehacker.com/what-to-do-right-away-when-your-mortgage-gets-sold-1850659903)
+- [Dev.to/JS] [Сортування бульбашкою. JavaScript](https://dev.to/betelgeuseas/sortuvannia-bulbashkoiu-javascript-5gao)
+- [Lifehacker] [This International eSIM Card Is $22 Right Now](https://lifehacker.com/this-international-esim-card-is-22-right-now-1850643151)
+- [Dev.to/JS] [Learn how to create a dynamic, smooth-scrolling menu](https://dev.to/rafaelborges26/learn-how-to-create-a-dynamic-smooth-scrolling-menu-5gjc)
+- [Dev.to/JS] [The Great Debate: JavaScript vs TypeScript - A Senior Dev&#39;s Perspective](https://dev.to/leandro_nnz/the-great-debate-javascript-vs-typescript-a-senior-devs-perspective-1n18)
+- [Dev.to/JS] [Modules📤📥 in Node.js : Beginner to Advance💻](https://dev.to/tanishtt/modules-in-nodejs-beginner-to-advance-29k)
+- [Lifehacker] [Why DIY Air Conditioners Are &lpar;Mostly&rpar; a Waste of Effort](https://lifehacker.com/do-diy-air-conditioners-actually-work-1849327468)
+- [Dev.to/JS] [React&#39;s useCallback Hook: A Dance of Functions and Dependencies](https://dev.to/leandro_nnz/reacts-usecallback-hook-a-dance-of-functions-and-dependencies-4b7a)
+- [Lifehacker] [No, Light Weights and Heavy Weights Can&#39;t Give You the Same Workout](https://lifehacker.com/no-light-weights-and-heavy-weights-cant-give-you-the-s-1850660641)
 - [Dev.to/JS] [Ready to learn php](https://dev.to/pazapp/ready-to-learn-php-2fkl)
 - [Lifehacker] [Poach Your Eggs Directly in a Pot of Oatmeal](https://lifehacker.com/poach-your-eggs-directly-in-a-pot-of-oatmeal-1850659956)
 - [Lifehacker] [The Best Ways to Freeze Any Kind of Fresh Fruit](https://lifehacker.com/how-to-properly-freeze-fruit-for-longer-lasting-freshne-1692241279)
@@ -42,17 +51,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Telegram Bot for File Sharing and Song Search with Vercel Deployment](https://dev.to/sh20raj/building-a-telegram-bot-for-file-sharing-and-song-search-with-vercel-deployment-4379)
 - [Lifehacker] [You Can Automatically Delete Trackers From iPhone URLs](https://lifehacker.com/you-can-automatically-delete-trackers-from-iphone-urls-1850658478)
 - [Dev.to/JS] [7 JavaScript Powerful Optimization Tricks You Need To Know](https://dev.to/blackhorse0101/7-javascript-powerful-optimization-tricks-you-need-to-know-3k73)
-- [Dev.to/JS] [Extending native JS prototypes is not such a crazy idea with symbols](https://dev.to/slikts/extending-native-js-prototypes-is-not-such-a-crazy-idea-with-symbols-2h8l)
-- [Dev.to/JS] [My Coding Challenge Interview! Sheesh!](https://dev.to/trinly01/my-coding-challenge-interview-sheesh-44dg)
 - [Lifehacker] [All the Ways to Filter and Hide Adult Games on Steam and Itch.io](https://lifehacker.com/all-the-ways-to-filter-and-hide-adult-games-on-steam-an-1850657543)
-- [Dev.to/JS] [React Jam starts now, build a game using React in 10 days!](https://dev.to/reactgamejam/react-jam-starts-now-build-a-game-using-react-in-10-days-2j60)
 - [Lifehacker] [Your Phone Isn’t Spying on You to Show You Ads &lpar;It’s Worse Than That&rpar;](https://lifehacker.com/what-people-are-getting-wrong-this-week-phone-surveill-1850658089)
 - [Lifehacker] [Make This Sweet and Creamy &#39;Shaved Ice&#39; With Just Two Ingredients](https://lifehacker.com/make-this-sweet-and-creamy-shaved-ice-with-just-two-ing-1850657846)
 - [Lifehacker] [20 Hulu Originals You Probably Aren&#39;t Watching But Definitely Should Be](https://lifehacker.com/15-hulu-originals-you-probably-arent-watching-but-defin-1847459312)
-- [Dev.to/JS] [Building a Simple CRUD Task Manager App with Angular: A Step-by-Step Guide for Beginners](https://dev.to/ayushdev_24/building-a-simple-crud-task-manager-app-with-angular-a-step-by-step-guide-for-beginners-2moo)
 - [Lifehacker] [When &lpar;and Where&rpar; to See the Summer’s Best Meteor Showers](https://lifehacker.com/when-and-where-to-see-the-summer-s-best-meteor-shower-1850658031)
 - [Lifehacker] [The Easiest Way to Keep Waffles From Sticking to Your Waffle Iron](https://lifehacker.com/the-easiest-way-to-keep-waffles-from-sticking-to-your-w-1850657373)
-- [Dev.to/JS] [Easier Way to Learn TDD](https://dev.to/jesterxl/easier-way-to-learn-tdd-5cn3)
 - [Lifehacker] [Three Gardening Tasks to Tackle This Month to Get Ready for Fall](https://lifehacker.com/three-gardening-tasks-to-tackle-this-month-to-get-ready-1850656407)
 - [Lifehacker] [Just Buy Two Bunches of Bananas](https://lifehacker.com/just-buy-two-bunches-of-bananas-1850656653)
 - [Lifehacker] [Your Plants Might Need a Vibrator](https://lifehacker.com/your-plants-might-need-a-vibrator-1850654156)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Watch &#39;Warrior&#39; Season 3 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-warrior-season-3-and-what-you-should-kn-1850653671)
 - [Lifehacker] [This Nix Mini 2 Color Sensor Is $60 Right Now](https://lifehacker.com/this-nix-mini-2-color-sensor-is-60-right-now-1850643055)
 - [Lifehacker] [How to Get Used to Exercising in the Heat](https://lifehacker.com/how-to-get-used-to-exercising-in-the-heat-and-why-you-1716804690)
-- [Lifehacker] [Keep Your Desk Clutter-Free With These Gadgets](https://lifehacker.com/keep-your-desk-clutter-free-with-these-gadgets-1850655937)
-- [Lifehacker] [Heat Leftover Pizza In a Skillet to Re-Crisp the Crust](https://lifehacker.com/reheat-pizza-in-a-skillet-to-bring-back-crispy-crusts-5862749)
-- [Lifehacker] [Make a Quick Peanut Butter Cup in Your Freezer](https://lifehacker.com/make-a-quick-peanut-butter-cup-in-your-freezer-1850656338)
-- [Lifehacker] [You Should Buy Your Dog a Set of Summer Booties](https://lifehacker.com/buy-your-dog-a-pair-of-summer-booties-1835234383)
-- [Lifehacker] [How to Stream All the Women’s World Cup 2023 Games for Free](https://lifehacker.com/how-to-stream-all-the-women-s-world-cup-2023-games-for-1850656823)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Keep Your Desk Clutter-Free With These Gadgets](https://lifehacker.com/keep-your-desk-clutter-free-with-these-gadgets-1850655937)<!-- TECH-POSTS:END -->
 
 ---
 
