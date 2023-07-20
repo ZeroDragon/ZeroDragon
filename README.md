@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Project Kickoff: A Journey Towards Innovation](https://dev.to/vitalipri/project-kickoff-a-journey-towards-innovation-3h8b)
+- [Dev.to/JS] [Using IntersectionObserverApi to create scroll on reveal Effect ..](https://dev.to/ikechukwu411/using-intersectionobserverapi-to-create-scroll-on-reveal-effect--oai)
 - [Dev.to/JS] [Validating user input using jQuery and Hypertext Preprocessor &lpar;PHP&rpar;](https://dev.to/saaaron/validating-user-input-using-jquery-and-hypertext-preprocessor-php-4409)
 - [Dev.to/JS] [How to create a Currency Converter app using ExchangeRate REST API](https://dev.to/gbadeboife/how-to-create-a-currency-converter-app-using-exchangerate-rest-api-23bo)
 - [Lifehacker] [Where to Watch &#39;They Cloned Tyrone&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-they-cloned-tyrone-and-what-you-should-1850653784)
@@ -54,9 +56,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Taco Bell&#39;s Breakfast Crunchwrap at Home](https://lifehacker.com/how-to-make-taco-bells-breakfast-crunchwrap-at-home-1850655815)
 - [Dev.to/JS] [Agregar y eliminar elementos de un array en Javascript](https://dev.to/pacmankabh/agregar-y-eliminar-elementos-de-un-array-en-javascript-91n)
 - [Lifehacker] [How &lpar;and Why&rpar; to Add Strides to Your Runs](https://lifehacker.com/how-and-why-to-add-strides-to-your-runs-1850655294)
-- [Dev.to/JS] [Enhance Your Web Apps: Best JS Libraries 🔧](https://dev.to/abbhiishek/enhance-your-web-apps-best-js-libraries-1a3f)
 - [Lifehacker] [This Refurbished Lenovo ThinkPad Is $120 Right Now](https://lifehacker.com/this-refurbished-lenovo-thinkpad-is-120-right-now-1850643104)
-- [Dev.to/JS] [Recorrer un array en Javascript](https://dev.to/pacmankabh/recorrer-un-array-en-javascript-1eci)
 - [Lifehacker] [How to Stop Your Phone From Overheating](https://lifehacker.com/how-to-stop-your-phone-from-overheating-1847723875)
 - [Lifehacker] [My Top Choices for Neck Fans, Stroller Fans, and Tent Fans](https://lifehacker.com/my-top-choices-for-neck-fans-stroller-fans-and-tent-f-1850651908)
 - [Lifehacker] [What&#39;s New on Hulu in August 2023](https://lifehacker.com/whats-new-on-hulu-in-august-2023-1850654862)
