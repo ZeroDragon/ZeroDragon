@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Query Fragments with Conditions in GraphQL](https://dev.to/harrified/query-fragments-with-conditions-in-graphql-dg8)
+- [Dev.to/JS] [🔒 Improve data integrity in your Node.js apps with Joi! 🚀](https://dev.to/iarchitsharma/improve-data-integrity-in-your-nodejs-apps-with-joi-52lj)
+- [Dev.to/JS] [Chrome Extensions of the Month - July 2023](https://dev.to/j471n/chrome-extensions-of-the-month-july-2023-2ea3)
 - [Dev.to/JS] [Level Up Your AWS CDK Development: Demystifying integ-runner and integ-test](https://dev.to/kumo/level-up-your-aws-cdk-development-demystifying-integ-runner-and-integ-test-542j)
 - [Dev.to/JS] [Beaver Notes](https://dev.to/daniele_rolli/beaver-notes-2m02)
 - [Dev.to/JS] [How to find and remove Unused Dependencies in Your project with Depcheck](https://dev.to/martygo/how-to-find-and-remove-unused-dependencies-in-your-project-with-depcheck-5g5j)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding blobs in JavaScript](https://dev.to/accreditly/understanding-blobs-in-javascript-5gcd)
 - [Dev.to/JS] [Do you even read bro? 5 advices on reading and staying up to date](https://dev.to/pgarzina/do-you-even-read-bro-5-advices-on-reading-and-staying-up-to-date-1kdo)
 - [Dev.to/JS] [Expo CLI vs. React Native CLI: Debunking the Hype](https://dev.to/royged/expo-cli-vs-react-native-cli-debunking-the-hype-2lb1)
-- [Dev.to/JS] [3 Steps to create a custom cursor with HTML, CSS and JavaScript](https://dev.to/devshefali/3-steps-to-create-a-custom-cursor-with-html-css-and-javascript-2jo1)
-- [Dev.to/JS] [Best Online HTML Editors: Empowering Your Web Development Experience](https://dev.to/templatesjungle/best-online-html-editors-empowering-your-web-development-experience-1il0)
-- [Dev.to/JS] [ReactJS Coding and TechTalking, come join :D](https://dev.to/arthursmuller/reactjs-coding-and-techtalking-come-join-d-2kii)
 - [Lifehacker] [This Wearable Shoulder and Knee Massager Is $60 Right Now](https://lifehacker.com/this-wearable-shoulder-and-knee-massager-is-60-right-n-1850653247)
 - [Lifehacker] [Fry Food Without Burning Your Beautiful Hands](https://lifehacker.com/how-to-fry-something-without-burning-your-beautiful-han-1850660364)
 - [Lifehacker] [Use the &#39;Hierarchy of Needs&#39; to Find Your Perfect Job](https://lifehacker.com/use-the-hierarchy-of-needs-to-find-your-perfect-job-1850660848)
