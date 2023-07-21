@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to React](https://dev.to/rohithart/introduction-to-react-2h1e)
 - [Dev.to/JS] [In 1 Year](https://dev.to/ijlee2/in-1-year-25h0)
 - [Dev.to/JS] [Modifying Element Properties with JavaScript: Unlocking Dynamic Web](https://dev.to/jacknorman235/modifying-element-properties-with-javascript-unlocking-dynamic-web-3p63)
 - [Dev.to/JS] [Dont shake it, you possibly will break it...](https://dev.to/efpage/dont-shake-it-you-possibly-break-it-4lee)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your iPhone Can Now Decode the Warning Lights in Your Car](https://lifehacker.com/your-iphone-can-now-decode-the-warning-lights-in-your-c-1850659088)
 - [Lifehacker] [The Most Basic Equipment You Need to Work Out at Home](https://lifehacker.com/what-s-the-most-basic-equipment-you-need-to-work-out-at-1849430354)
 - [Lifehacker] [Apple’s New &#39;Screen Distance&#39; Feature Can Protect Your Kid&#39;s Eyes](https://lifehacker.com/apple-s-new-screen-distance-feature-can-protect-your-ki-1850658879)
-- [Dev.to/JS] [เพิ่มประสิทธิภาพให้กับ NestJS สำหรับการประมวลผลที่เร็วและมีประสิทธิภาพสูง](https://dev.to/wteja/ephimprasiththiphaaphaihkab-nestjs-samhrabkaarpramwlphlthiierwaelamiiprasiththiphaaphsuung-41dp)
 - [Lifehacker] [You Can Apply for Your First Passport at Fairs Now](https://lifehacker.com/you-can-apply-for-your-first-passport-at-fairs-now-1850657363)
 - [Lifehacker] [This Lifetime Subscription to Rosetta Stone Is Over 30% Off Right Now](https://lifehacker.com/this-lifetime-subscription-to-rosetta-stone-is-over-30-1850643171)
 - [Lifehacker] [My Favorite Ways to Fry a Perfect Egg](https://lifehacker.com/8-ways-to-fry-a-better-egg-1846915074)
