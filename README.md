@@ -26,18 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Best Free# Deploying Your React Application: 8 Free Hosting Services to Consider](https://dev.to/fernando_rodrigues/the-best-free-deploying-your-react-application-8-free-hosting-services-to-consider-df3)
+- [Lifehacker] [You Should Hull Your Strawberries With a Reusable Straw](https://lifehacker.com/you-should-hull-your-strawberries-with-a-reusable-straw-1850661962)
+- [Dev.to/JS] [Introduction to Javascript Canvas Drawing](https://dev.to/elhakim/introduction-to-javascript-canvas-drawing-4bch)
+- [Dev.to/JS] [Integrating Val Town with tana](https://dev.to/pentekostos/integrating-val-town-with-tana-1m3o)
+- [Dev.to/JS] [Day 10: Scope](https://dev.to/dhrn/day-10-scope-1le2)
+- [Lifehacker] [You Can DIY Better &lpar;and Prettier&rpar; Grow Lamps](https://lifehacker.com/you-can-diy-better-and-prettier-grow-lamps-1850656587)
+- [Dev.to/JS] [Introduction to Frontend Testing: Best Practices and Tools](https://dev.to/georgeboozin/introduction-to-frontend-testing-best-practices-and-tools-3760)
+- [Lifehacker] [Everything You Should Know About Your Baby’s Birth Certificate](https://lifehacker.com/everything-you-should-know-about-your-baby-s-birth-cert-1850659820)
 - [Dev.to/JS] [Query Fragments with Conditions in GraphQL](https://dev.to/harrified/query-fragments-with-conditions-in-graphql-dg8)
 - [Dev.to/JS] [🔒 Improve data integrity in your Node.js apps with Joi! 🚀](https://dev.to/iarchitsharma/improve-data-integrity-in-your-nodejs-apps-with-joi-52lj)
+- [Dev.to/JS] [React Riddles: The Mysterious Case of the Untracked Clicks](https://dev.to/jkettmann/react-riddles-the-mysterious-case-of-the-untracked-clicks-5d2p)
 - [Dev.to/JS] [Chrome Extensions of the Month - July 2023](https://dev.to/j471n/chrome-extensions-of-the-month-july-2023-2ea3)
 - [Dev.to/JS] [Level Up Your AWS CDK Development: Demystifying integ-runner and integ-test](https://dev.to/kumo/level-up-your-aws-cdk-development-demystifying-integ-runner-and-integ-test-542j)
 - [Dev.to/JS] [Beaver Notes](https://dev.to/daniele_rolli/beaver-notes-2m02)
 - [Dev.to/JS] [How to find and remove Unused Dependencies in Your project with Depcheck](https://dev.to/martygo/how-to-find-and-remove-unused-dependencies-in-your-project-with-depcheck-5g5j)
-- [Dev.to/JS] [Don t use arrow functions... &lpar;if you don t need to&rpar;](https://dev.to/efpage/dont-use-arrow-functions-if-you-dont-need-to-27j0)
-- [Dev.to/JS] [JavaScript&#39;s &#39;this&#39; Keyword: Understanding Its Power and Usage](https://dev.to/adii/javascripts-this-keyword-understanding-its-power-and-usage-j70)
-- [Dev.to/JS] [Create Your Own Cryptocurrency with JavaScript](https://dev.to/donnajohnson88/create-your-own-cryptocurrency-with-javascript-38e5)
-- [Dev.to/JS] [Understanding blobs in JavaScript](https://dev.to/accreditly/understanding-blobs-in-javascript-5gcd)
-- [Dev.to/JS] [Do you even read bro? 5 advices on reading and staying up to date](https://dev.to/pgarzina/do-you-even-read-bro-5-advices-on-reading-and-staying-up-to-date-1kdo)
-- [Dev.to/JS] [Expo CLI vs. React Native CLI: Debunking the Hype](https://dev.to/royged/expo-cli-vs-react-native-cli-debunking-the-hype-2lb1)
 - [Lifehacker] [This Wearable Shoulder and Knee Massager Is $60 Right Now](https://lifehacker.com/this-wearable-shoulder-and-knee-massager-is-60-right-n-1850653247)
 - [Lifehacker] [Fry Food Without Burning Your Beautiful Hands](https://lifehacker.com/how-to-fry-something-without-burning-your-beautiful-han-1850660364)
 - [Lifehacker] [Use the &#39;Hierarchy of Needs&#39; to Find Your Perfect Job](https://lifehacker.com/use-the-hierarchy-of-needs-to-find-your-perfect-job-1850660848)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When &lpar;and Where&rpar; to See the Summer’s Best Meteor Showers](https://lifehacker.com/when-and-where-to-see-the-summer-s-best-meteor-shower-1850658031)
 - [Lifehacker] [The Easiest Way to Keep Waffles From Sticking to Your Waffle Iron](https://lifehacker.com/the-easiest-way-to-keep-waffles-from-sticking-to-your-w-1850657373)
 - [Lifehacker] [Three Gardening Tasks to Tackle This Month to Get Ready for Fall](https://lifehacker.com/three-gardening-tasks-to-tackle-this-month-to-get-ready-1850656407)
-- [Lifehacker] [Just Buy Two Bunches of Bananas](https://lifehacker.com/just-buy-two-bunches-of-bananas-1850656653)
-- [Lifehacker] [Your Plants Might Need a Vibrator](https://lifehacker.com/your-plants-might-need-a-vibrator-1850654156)
-- [Lifehacker] [Where to Watch &#39;They Cloned Tyrone&#39; &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-they-cloned-tyrone-and-what-you-should-1850653784)
-- [Lifehacker] [Help Your Kid Clean Their Room With the &#39;Mountain Method&#39;](https://lifehacker.com/help-your-kid-clean-their-room-with-the-mountain-method-1831137317)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Just Buy Two Bunches of Bananas](https://lifehacker.com/just-buy-two-bunches-of-bananas-1850656653)<!-- TECH-POSTS:END -->
 
 ---
 
