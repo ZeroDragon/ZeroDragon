@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Power of React Dom For Front-End Development](https://dev.to/scofieldidehen/the-power-of-react-dom-for-front-end-development-47f9)
+- [Dev.to/JS] [Simple Textarea With Remaining Character Counter](https://dev.to/codeboxx/simple-textarea-with-remaining-character-counter-232g)
+- [Dev.to/JS] [ES6 Destructuring 101](https://dev.to/hrishix6/es6-destructuring-101-hak)
 - [Dev.to/JS] [Introduction to Common Programming Concepts in Rust](https://dev.to/charles_lukes/introduction-to-common-programming-concepts-in-rust-1c10)
 - [Dev.to/JS] [How to Create a Modal in JavaScript and CSS](https://dev.to/onlineittutstutorials/how-to-create-a-modal-in-javascript-and-css-18gn)
 - [Dev.to/JS] [Over 40, with no technical background, this is how I learned a Frontend Framework in 2 weeks](https://dev.to/codingjourneyfromunemployment/over-40-with-no-technical-background-this-is-how-i-learned-a-frontend-framework-in-2-weeks-3723)
@@ -37,12 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dont shake it, you possibly will break it...](https://dev.to/efpage/dont-shake-it-you-possibly-break-it-4lee)
 - [Lifehacker] [This Wearable Shoulder and Knee Massager Is $60 Right Now](https://lifehacker.com/this-wearable-shoulder-and-knee-massager-is-60-right-n-1850653247)
 - [Lifehacker] [Fry Food Without Burning Your Beautiful Hands](https://lifehacker.com/how-to-fry-something-without-burning-your-beautiful-han-1850660364)
-- [Dev.to/JS] [WebRTC Basics and Project Introduction](https://dev.to/pahujanayan/webrtc-basics-and-project-introduction-12ip)
 - [Lifehacker] [Use the &#39;Hierarchy of Needs&#39; to Find Your Perfect Job](https://lifehacker.com/use-the-hierarchy-of-needs-to-find-your-perfect-job-1850660848)
-- [Dev.to/JS] [Migrating from create-react-app to Vite: A Quick and Easy Guide](https://dev.to/henriquejensen/migrating-from-create-react-app-to-vite-a-quick-and-easy-guide-5e72)
 - [Lifehacker] [Use Soap Before Water to Clean Greasy Hands](https://lifehacker.com/use-soap-before-water-to-clean-greasy-hands-1832736019)
 - [Lifehacker] [What to Do Right Away When Your Mortgage Gets Sold](https://lifehacker.com/what-to-do-right-away-when-your-mortgage-gets-sold-1850659903)
-- [Dev.to/JS] [Сортування бульбашкою. JavaScript](https://dev.to/betelgeuseas/sortuvannia-bulbashkoiu-javascript-5gao)
 - [Lifehacker] [This International eSIM Card Is $22 Right Now](https://lifehacker.com/this-international-esim-card-is-22-right-now-1850643151)
 - [Lifehacker] [Why DIY Air Conditioners Are &lpar;Mostly&rpar; a Waste of Effort](https://lifehacker.com/do-diy-air-conditioners-actually-work-1849327468)
 - [Lifehacker] [No, Light Weights and Heavy Weights Can&#39;t Give You the Same Workout](https://lifehacker.com/no-light-weights-and-heavy-weights-cant-give-you-the-s-1850660641)
