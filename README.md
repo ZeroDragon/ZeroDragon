@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Detect Slow Internet Connection using JavaScript Async/await](https://dev.to/kipyegonline/how-to-detect-slow-internet-connection-using-javascript-asyncawait-3npa)
 - [Dev.to/JS] [Dependency list in the useEffect hook](https://dev.to/gaurbprajapati/dependency-list-in-the-useeffect-hook-25fe)
 - [Dev.to/JS] [NestJS: Making Server-Side Development Easier - My Thoughts](https://dev.to/kerisnarendra/nestjs-making-server-side-development-easier-my-thoughts-2983)
 - [Dev.to/JS] [how many time normally component render in reactjs](https://dev.to/gaurbprajapati/how-many-time-normally-component-render-in-reactjs-1o8j)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Over 40, with no technical background, this is how I learned a Frontend Framework in 2 weeks](https://dev.to/codingjourneyfromunemployment/over-40-with-no-technical-background-this-is-how-i-learned-a-frontend-framework-in-2-weeks-3723)
 - [Dev.to/JS] [Speed up you app by returning multi-dimensional data in Postgres with Supabase](https://dev.to/tholder/speed-up-you-app-by-returning-multi-dimensional-data-in-postgres-with-supabase-2520)
 - [Dev.to/JS] [Why Static Websites Are Back In 2023 ?](https://dev.to/linepasha/why-static-websites-are-back-in-2023--3cih)
-- [Dev.to/JS] [Introduction to React](https://dev.to/rohithart/introduction-to-react-2h1e)
 - [Lifehacker] [This Wearable Shoulder and Knee Massager Is $60 Right Now](https://lifehacker.com/this-wearable-shoulder-and-knee-massager-is-60-right-n-1850653247)
 - [Lifehacker] [Fry Food Without Burning Your Beautiful Hands](https://lifehacker.com/how-to-fry-something-without-burning-your-beautiful-han-1850660364)
 - [Lifehacker] [Use the &#39;Hierarchy of Needs&#39; to Find Your Perfect Job](https://lifehacker.com/use-the-hierarchy-of-needs-to-find-your-perfect-job-1850660848)
