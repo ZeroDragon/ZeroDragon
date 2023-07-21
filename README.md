@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Do you even read bro? 5 advices on reading and staying up to date](https://dev.to/pgarzina/do-you-even-read-bro-5-advices-on-reading-and-staying-up-to-date-1kdo)
+- [Dev.to/JS] [Expo CLI vs. React Native CLI: Debunking the Hype](https://dev.to/royged/expo-cli-vs-react-native-cli-debunking-the-hype-2lb1)
+- [Dev.to/JS] [3 Steps to create a custom cursor with HTML, CSS and JavaScript](https://dev.to/devshefali/3-steps-to-create-a-custom-cursor-with-html-css-and-javascript-2jo1)
+- [Dev.to/JS] [Best Online HTML Editors: Empowering Your Web Development Experience](https://dev.to/templatesjungle/best-online-html-editors-empowering-your-web-development-experience-1il0)
+- [Dev.to/JS] [ReactJS Coding and TechTalking, come join :D](https://dev.to/arthursmuller/reactjs-coding-and-techtalking-come-join-d-2kii)
 - [Dev.to/JS] [How to Detect Slow Internet Connection using JavaScript Async/await](https://dev.to/kipyegonline/how-to-detect-slow-internet-connection-using-javascript-asyncawait-3npa)
 - [Dev.to/JS] [Dependency list in the useEffect hook](https://dev.to/gaurbprajapati/dependency-list-in-the-useeffect-hook-25fe)
 - [Dev.to/JS] [NestJS: Making Server-Side Development Easier - My Thoughts](https://dev.to/kerisnarendra/nestjs-making-server-side-development-easier-my-thoughts-2983)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Power of React Dom For Front-End Development](https://dev.to/scofieldidehen/the-power-of-react-dom-for-front-end-development-47f9)
 - [Dev.to/JS] [Simple Textarea With Remaining Character Counter](https://dev.to/codeboxx/simple-textarea-with-remaining-character-counter-232g)
 - [Dev.to/JS] [ES6 Destructuring 101](https://dev.to/hrishix6/es6-destructuring-101-hak)
-- [Dev.to/JS] [Introduction to Common Programming Concepts in Rust](https://dev.to/charles_lukes/introduction-to-common-programming-concepts-in-rust-1c10)
-- [Dev.to/JS] [How to Create a Modal in JavaScript and CSS](https://dev.to/onlineittutstutorials/how-to-create-a-modal-in-javascript-and-css-18gn)
-- [Dev.to/JS] [Over 40, with no technical background, this is how I learned a Frontend Framework in 2 weeks](https://dev.to/codingjourneyfromunemployment/over-40-with-no-technical-background-this-is-how-i-learned-a-frontend-framework-in-2-weeks-3723)
-- [Dev.to/JS] [Speed up you app by returning multi-dimensional data in Postgres with Supabase](https://dev.to/tholder/speed-up-you-app-by-returning-multi-dimensional-data-in-postgres-with-supabase-2520)
-- [Dev.to/JS] [Why Static Websites Are Back In 2023 ?](https://dev.to/linepasha/why-static-websites-are-back-in-2023--3cih)
 - [Lifehacker] [This Wearable Shoulder and Knee Massager Is $60 Right Now](https://lifehacker.com/this-wearable-shoulder-and-knee-massager-is-60-right-n-1850653247)
 - [Lifehacker] [Fry Food Without Burning Your Beautiful Hands](https://lifehacker.com/how-to-fry-something-without-burning-your-beautiful-han-1850660364)
 - [Lifehacker] [Use the &#39;Hierarchy of Needs&#39; to Find Your Perfect Job](https://lifehacker.com/use-the-hierarchy-of-needs-to-find-your-perfect-job-1850660848)
