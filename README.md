@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Level Up Your AWS CDK Development: Demystifying integ-runner and integ-test](https://dev.to/kumo/level-up-your-aws-cdk-development-demystifying-integ-runner-and-integ-test-542j)
+- [Dev.to/JS] [Beaver Notes](https://dev.to/daniele_rolli/beaver-notes-2m02)
+- [Dev.to/JS] [How to find and remove Unused Dependencies in Your project with Depcheck](https://dev.to/martygo/how-to-find-and-remove-unused-dependencies-in-your-project-with-depcheck-5g5j)
 - [Dev.to/JS] [Don t use arrow functions... &lpar;if you don t need to&rpar;](https://dev.to/efpage/dont-use-arrow-functions-if-you-dont-need-to-27j0)
 - [Dev.to/JS] [JavaScript&#39;s &#39;this&#39; Keyword: Understanding Its Power and Usage](https://dev.to/adii/javascripts-this-keyword-understanding-its-power-and-usage-j70)
 - [Dev.to/JS] [Create Your Own Cryptocurrency with JavaScript](https://dev.to/donnajohnson88/create-your-own-cryptocurrency-with-javascript-38e5)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3 Steps to create a custom cursor with HTML, CSS and JavaScript](https://dev.to/devshefali/3-steps-to-create-a-custom-cursor-with-html-css-and-javascript-2jo1)
 - [Dev.to/JS] [Best Online HTML Editors: Empowering Your Web Development Experience](https://dev.to/templatesjungle/best-online-html-editors-empowering-your-web-development-experience-1il0)
 - [Dev.to/JS] [ReactJS Coding and TechTalking, come join :D](https://dev.to/arthursmuller/reactjs-coding-and-techtalking-come-join-d-2kii)
-- [Dev.to/JS] [How to Detect Slow Internet Connection using JavaScript Async/await](https://dev.to/kipyegonline/how-to-detect-slow-internet-connection-using-javascript-asyncawait-3npa)
-- [Dev.to/JS] [Dependency list in the useEffect hook](https://dev.to/gaurbprajapati/dependency-list-in-the-useeffect-hook-25fe)
-- [Dev.to/JS] [NestJS: Making Server-Side Development Easier - My Thoughts](https://dev.to/kerisnarendra/nestjs-making-server-side-development-easier-my-thoughts-2983)
 - [Lifehacker] [This Wearable Shoulder and Knee Massager Is $60 Right Now](https://lifehacker.com/this-wearable-shoulder-and-knee-massager-is-60-right-n-1850653247)
 - [Lifehacker] [Fry Food Without Burning Your Beautiful Hands](https://lifehacker.com/how-to-fry-something-without-burning-your-beautiful-han-1850660364)
 - [Lifehacker] [Use the &#39;Hierarchy of Needs&#39; to Find Your Perfect Job](https://lifehacker.com/use-the-hierarchy-of-needs-to-find-your-perfect-job-1850660848)
