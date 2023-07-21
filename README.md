@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to Common Programming Concepts in Rust](https://dev.to/charles_lukes/introduction-to-common-programming-concepts-in-rust-1c10)
+- [Dev.to/JS] [How to Create a Modal in JavaScript and CSS](https://dev.to/onlineittutstutorials/how-to-create-a-modal-in-javascript-and-css-18gn)
 - [Dev.to/JS] [Over 40, with no technical background, this is how I learned a Frontend Framework in 2 weeks](https://dev.to/codingjourneyfromunemployment/over-40-with-no-technical-background-this-is-how-i-learned-a-frontend-framework-in-2-weeks-3723)
 - [Dev.to/JS] [Speed up you app by returning multi-dimensional data in Postgres with Supabase](https://dev.to/tholder/speed-up-you-app-by-returning-multi-dimensional-data-in-postgres-with-supabase-2520)
 - [Dev.to/JS] [Why Static Websites Are Back In 2023 ?](https://dev.to/linepasha/why-static-websites-are-back-in-2023--3cih)
@@ -42,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do Right Away When Your Mortgage Gets Sold](https://lifehacker.com/what-to-do-right-away-when-your-mortgage-gets-sold-1850659903)
 - [Dev.to/JS] [Сортування бульбашкою. JavaScript](https://dev.to/betelgeuseas/sortuvannia-bulbashkoiu-javascript-5gao)
 - [Lifehacker] [This International eSIM Card Is $22 Right Now](https://lifehacker.com/this-international-esim-card-is-22-right-now-1850643151)
-- [Dev.to/JS] [How to create a dynamic, smooth-scrolling menu](https://dev.to/rafaelborges26/learn-how-to-create-a-dynamic-smooth-scrolling-menu-5gjc)
-- [Dev.to/JS] [The Great Debate: JavaScript vs TypeScript - A Senior Dev&#39;s Perspective](https://dev.to/leandro_nnz/the-great-debate-javascript-vs-typescript-a-senior-devs-perspective-1n18)
 - [Lifehacker] [Why DIY Air Conditioners Are &lpar;Mostly&rpar; a Waste of Effort](https://lifehacker.com/do-diy-air-conditioners-actually-work-1849327468)
 - [Lifehacker] [No, Light Weights and Heavy Weights Can&#39;t Give You the Same Workout](https://lifehacker.com/no-light-weights-and-heavy-weights-cant-give-you-the-s-1850660641)
 - [Lifehacker] [Poach Your Eggs Directly in a Pot of Oatmeal](https://lifehacker.com/poach-your-eggs-directly-in-a-pot-of-oatmeal-1850659956)
