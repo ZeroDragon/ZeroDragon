@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Movie Theaters Have the Best Summer Ticket Deals](https://lifehacker.com/these-movie-theaters-have-the-best-summer-ticket-deals-1850665566)
+- [Lifehacker] [How to Inflate an Air Mattress With a Vacuum Cleaner, Trash Bag, Hair Dryer, and More](https://lifehacker.com/inflate-an-air-mattress-with-a-vacuum-cleaner-5862845)
+- [Lifehacker] [Air Fried Garlic Bread Grilled Cheese Is a Lowbrow Delight](https://lifehacker.com/you-can-air-fry-a-grilled-cheese-sandwich-1850665486)
 - [Dev.to/JS] [Event Handling Basics: Interactive Web Pages Made Easy](https://dev.to/jacknorman235/event-handling-basics-interactive-web-pages-made-easy-363n)
 - [Lifehacker] [You Can Now Play &#39;Stardew Valley&#39; for &#39;Free&#39; on Your iPhone](https://lifehacker.com/you-can-now-play-stardew-valley-for-free-on-your-iphone-1850664705)
 - [Dev.to/JS] [Top 7 AI Open Source Projects to Contribute to in 2023 ⭐](https://dev.to/thenomadevel/top-7-ai-open-source-projects-to-contribute-to-in-2023-3ff5)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Hull Your Strawberries With a Reusable Straw](https://lifehacker.com/you-should-hull-your-strawberries-with-a-reusable-straw-1850661962)
 - [Lifehacker] [You Can DIY Better &lpar;and Prettier&rpar; Grow Lamps](https://lifehacker.com/you-can-diy-better-and-prettier-grow-lamps-1850656587)
 - [Lifehacker] [Everything You Should Know About Your Baby’s Birth Certificate](https://lifehacker.com/everything-you-should-know-about-your-baby-s-birth-cert-1850659820)
-- [Lifehacker] [This Wearable Shoulder and Knee Massager Is $60 Right Now](https://lifehacker.com/this-wearable-shoulder-and-knee-massager-is-60-right-n-1850653247)
-- [Lifehacker] [Fry Food Without Burning Your Beautiful Hands](https://lifehacker.com/how-to-fry-something-without-burning-your-beautiful-han-1850660364)
-- [Lifehacker] [Use the &#39;Hierarchy of Needs&#39; to Find Your Perfect Job](https://lifehacker.com/use-the-hierarchy-of-needs-to-find-your-perfect-job-1850660848)
-- [Lifehacker] [Use Soap Before Water to Clean Greasy Hands](https://lifehacker.com/use-soap-before-water-to-clean-greasy-hands-1832736019)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Wearable Shoulder and Knee Massager Is $60 Right Now](https://lifehacker.com/this-wearable-shoulder-and-knee-massager-is-60-right-n-1850653247)<!-- TECH-POSTS:END -->
 
 ---
 
