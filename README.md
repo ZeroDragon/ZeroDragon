@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Scout Hidden Camera Detector Is $40 Right Now](https://lifehacker.com/this-scout-hidden-camera-detector-is-40-right-now-1850653349)
+- [Dev.to/JS] [How to Design a Clean Database](https://dev.to/mohammadfaisal/how-to-design-a-clean-database-1mei)
+- [Dev.to/JS] [Algorithm Interview Questions and Answers Under 1 Minute | Javascript](https://dev.to/abdulbasitmemon/algorithm-interview-questions-and-answers-under-1-minute-javascript-h2l)
+- [Lifehacker] [Make Any Photo a Sticker With This iOS 17 Feature](https://lifehacker.com/make-any-photo-a-sticker-with-this-ios-17-feature-1850662865)
+- [Dev.to/JS] [Mastering Object-Oriented Programming with TypeScript: Encapsulation, Abstraction, Inheritance, and Polymorphism Explained](https://dev.to/rajrathod/mastering-object-oriented-programming-with-typescript-encapsulation-abstraction-inheritance-and-polymorphism-explained-c6p)
+- [Dev.to/JS] [Creating a Game-Changer in Job Search: An Open Source ATS Resume Matcher](https://dev.to/srbhr/creating-a-game-changer-in-job-search-an-open-source-ats-resume-matcher-31g9)
+- [Lifehacker] [Stay Motivated to Clean by Keeping Supplies in Every Room](https://lifehacker.com/keep-cleaning-supplies-in-every-room-of-your-house-to-g-1792621292)
+- [Lifehacker] [Everything You Need to Be a Proper Coffee Snob at the Office](https://lifehacker.com/everything-you-need-to-be-a-proper-coffee-snob-at-the-o-1850663691)
 - [Dev.to/JS] [My First Hackathon Experience: A Journey of Learning and Triumph 😎💻](https://dev.to/balamurugan16/my-first-hackathon-experience-a-journey-of-learning-and-triumph-48pl)
 - [Lifehacker] [The Legal and Financial Consequences of Living With Your Ex](https://lifehacker.com/the-legal-and-financial-consequences-of-living-with-you-1850662145)
 - [Lifehacker] [This CompTIA Certification Training Is $50 Right Now](https://lifehacker.com/this-comptia-certification-training-is-50-right-now-1850653306)
@@ -44,10 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to Frontend Testing: Best Practices and Tools](https://dev.to/georgeboozin/introduction-to-frontend-testing-best-practices-and-tools-3760)
 - [Lifehacker] [Everything You Should Know About Your Baby’s Birth Certificate](https://lifehacker.com/everything-you-should-know-about-your-baby-s-birth-cert-1850659820)
 - [Dev.to/JS] [Query Fragments with Conditions in GraphQL](https://dev.to/harrified/query-fragments-with-conditions-in-graphql-dg8)
-- [Dev.to/JS] [🔒 Improve data integrity in your Node.js apps with Joi! 🚀](https://dev.to/iarchitsharma/improve-data-integrity-in-your-nodejs-apps-with-joi-52lj)
-- [Dev.to/JS] [React Riddles: The Mysterious Case of the Untracked Clicks](https://dev.to/jkettmann/react-riddles-the-mysterious-case-of-the-untracked-clicks-5d2p)
-- [Dev.to/JS] [Chrome Extensions of the Month - July 2023](https://dev.to/j471n/chrome-extensions-of-the-month-july-2023-2ea3)
-- [Dev.to/JS] [Level Up Your AWS CDK Development: Demystifying integ-runner and integ-test](https://dev.to/kumo/level-up-your-aws-cdk-development-demystifying-integ-runner-and-integ-test-542j)
 - [Lifehacker] [This Wearable Shoulder and Knee Massager Is $60 Right Now](https://lifehacker.com/this-wearable-shoulder-and-knee-massager-is-60-right-n-1850653247)
 - [Lifehacker] [Fry Food Without Burning Your Beautiful Hands](https://lifehacker.com/how-to-fry-something-without-burning-your-beautiful-han-1850660364)
 - [Lifehacker] [Use the &#39;Hierarchy of Needs&#39; to Find Your Perfect Job](https://lifehacker.com/use-the-hierarchy-of-needs-to-find-your-perfect-job-1850660848)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your iPhone Can Now Decode the Warning Lights in Your Car](https://lifehacker.com/your-iphone-can-now-decode-the-warning-lights-in-your-c-1850659088)
 - [Lifehacker] [The Most Basic Equipment You Need to Work Out at Home](https://lifehacker.com/what-s-the-most-basic-equipment-you-need-to-work-out-at-1849430354)
 - [Lifehacker] [Apple’s New &#39;Screen Distance&#39; Feature Can Protect Your Kid&#39;s Eyes](https://lifehacker.com/apple-s-new-screen-distance-feature-can-protect-your-ki-1850658879)
-- [Lifehacker] [You Can Apply for Your First Passport at Fairs Now](https://lifehacker.com/you-can-apply-for-your-first-passport-at-fairs-now-1850657363)
-- [Lifehacker] [This Lifetime Subscription to Rosetta Stone Is Over 30% Off Right Now](https://lifehacker.com/this-lifetime-subscription-to-rosetta-stone-is-over-30-1850643171)
-- [Lifehacker] [My Favorite Ways to Fry a Perfect Egg](https://lifehacker.com/8-ways-to-fry-a-better-egg-1846915074)
-- [Lifehacker] [You Can Automatically Delete Trackers From iPhone URLs](https://lifehacker.com/you-can-automatically-delete-trackers-from-iphone-urls-1850658478)
-- [Lifehacker] [All the Ways to Filter and Hide Adult Games on Steam and Itch.io](https://lifehacker.com/all-the-ways-to-filter-and-hide-adult-games-on-steam-an-1850657543)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Apply for Your First Passport at Fairs Now](https://lifehacker.com/you-can-apply-for-your-first-passport-at-fairs-now-1850657363)<!-- TECH-POSTS:END -->
 
 ---
 
