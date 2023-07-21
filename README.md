@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [The Best Free# Deploying Your React Application: 8 Free Hosting Services to Consider](https://dev.to/fernando_rodrigues/the-best-free-deploying-your-react-application-8-free-hosting-services-to-consider-df3)
+- [Lifehacker] [How to Have Great &lpar;Safe&rpar; Sex Outside](https://lifehacker.com/how-to-have-great-safe-sex-outside-1850662137)
+- [Dev.to/JS] [6 Types of Intelligent Agents in AI](https://dev.to/hirendhaduk_/6-types-of-intelligent-agents-in-ai-1ac3)
+- [Lifehacker] [Avoid This Travel Agency Scam](https://lifehacker.com/avoid-this-travel-agency-scam-1850662037)
+- [Dev.to/JS] [The Best Free# Deploying Your React Application: 8 Free Hosting Services to Consider](https://dev.to/idurar/the-best-free-deploying-your-react-application-8-free-hosting-services-to-consider-df3)
 - [Lifehacker] [You Should Hull Your Strawberries With a Reusable Straw](https://lifehacker.com/you-should-hull-your-strawberries-with-a-reusable-straw-1850661962)
 - [Dev.to/JS] [Introduction to Javascript Canvas Drawing](https://dev.to/elhakim/introduction-to-javascript-canvas-drawing-4bch)
 - [Dev.to/JS] [Integrating Val Town with tana](https://dev.to/pentekostos/integrating-val-town-with-tana-1m3o)
@@ -40,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Chrome Extensions of the Month - July 2023](https://dev.to/j471n/chrome-extensions-of-the-month-july-2023-2ea3)
 - [Dev.to/JS] [Level Up Your AWS CDK Development: Demystifying integ-runner and integ-test](https://dev.to/kumo/level-up-your-aws-cdk-development-demystifying-integ-runner-and-integ-test-542j)
 - [Dev.to/JS] [Beaver Notes](https://dev.to/daniele_rolli/beaver-notes-2m02)
-- [Dev.to/JS] [How to find and remove Unused Dependencies in Your project with Depcheck](https://dev.to/martygo/how-to-find-and-remove-unused-dependencies-in-your-project-with-depcheck-5g5j)
 - [Lifehacker] [This Wearable Shoulder and Knee Massager Is $60 Right Now](https://lifehacker.com/this-wearable-shoulder-and-knee-massager-is-60-right-n-1850653247)
 - [Lifehacker] [Fry Food Without Burning Your Beautiful Hands](https://lifehacker.com/how-to-fry-something-without-burning-your-beautiful-han-1850660364)
 - [Lifehacker] [Use the &#39;Hierarchy of Needs&#39; to Find Your Perfect Job](https://lifehacker.com/use-the-hierarchy-of-needs-to-find-your-perfect-job-1850660848)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Sweet and Creamy &#39;Shaved Ice&#39; With Just Two Ingredients](https://lifehacker.com/make-this-sweet-and-creamy-shaved-ice-with-just-two-ing-1850657846)
 - [Lifehacker] [20 Hulu Originals You Probably Aren&#39;t Watching But Definitely Should Be](https://lifehacker.com/15-hulu-originals-you-probably-arent-watching-but-defin-1847459312)
 - [Lifehacker] [When &lpar;and Where&rpar; to See the Summer’s Best Meteor Showers](https://lifehacker.com/when-and-where-to-see-the-summer-s-best-meteor-shower-1850658031)
-- [Lifehacker] [The Easiest Way to Keep Waffles From Sticking to Your Waffle Iron](https://lifehacker.com/the-easiest-way-to-keep-waffles-from-sticking-to-your-w-1850657373)
-- [Lifehacker] [Three Gardening Tasks to Tackle This Month to Get Ready for Fall](https://lifehacker.com/three-gardening-tasks-to-tackle-this-month-to-get-ready-1850656407)
-- [Lifehacker] [Just Buy Two Bunches of Bananas](https://lifehacker.com/just-buy-two-bunches-of-bananas-1850656653)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Keep Waffles From Sticking to Your Waffle Iron](https://lifehacker.com/the-easiest-way-to-keep-waffles-from-sticking-to-your-w-1850657373)<!-- TECH-POSTS:END -->
 
 ---
 
