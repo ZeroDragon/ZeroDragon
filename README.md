@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dependency list in the useEffect hook](https://dev.to/gaurbprajapati/dependency-list-in-the-useeffect-hook-25fe)
+- [Dev.to/JS] [NestJS: Making Server-Side Development Easier - My Thoughts](https://dev.to/kerisnarendra/nestjs-making-server-side-development-easier-my-thoughts-2983)
+- [Dev.to/JS] [how many time normally component render in reactjs](https://dev.to/gaurbprajapati/how-many-time-normally-component-render-in-reactjs-1o8j)
 - [Dev.to/JS] [The Power of React Dom For Front-End Development](https://dev.to/scofieldidehen/the-power-of-react-dom-for-front-end-development-47f9)
 - [Dev.to/JS] [Simple Textarea With Remaining Character Counter](https://dev.to/codeboxx/simple-textarea-with-remaining-character-counter-232g)
 - [Dev.to/JS] [ES6 Destructuring 101](https://dev.to/hrishix6/es6-destructuring-101-hak)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Speed up you app by returning multi-dimensional data in Postgres with Supabase](https://dev.to/tholder/speed-up-you-app-by-returning-multi-dimensional-data-in-postgres-with-supabase-2520)
 - [Dev.to/JS] [Why Static Websites Are Back In 2023 ?](https://dev.to/linepasha/why-static-websites-are-back-in-2023--3cih)
 - [Dev.to/JS] [Introduction to React](https://dev.to/rohithart/introduction-to-react-2h1e)
-- [Dev.to/JS] [In 1 Year](https://dev.to/ijlee2/in-1-year-25h0)
-- [Dev.to/JS] [Modifying Element Properties with JavaScript: Unlocking Dynamic Web](https://dev.to/jacknorman235/modifying-element-properties-with-javascript-unlocking-dynamic-web-3p63)
-- [Dev.to/JS] [Dont shake it, you possibly will break it...](https://dev.to/efpage/dont-shake-it-you-possibly-break-it-4lee)
 - [Lifehacker] [This Wearable Shoulder and Knee Massager Is $60 Right Now](https://lifehacker.com/this-wearable-shoulder-and-knee-massager-is-60-right-n-1850653247)
 - [Lifehacker] [Fry Food Without Burning Your Beautiful Hands](https://lifehacker.com/how-to-fry-something-without-burning-your-beautiful-han-1850660364)
 - [Lifehacker] [Use the &#39;Hierarchy of Needs&#39; to Find Your Perfect Job](https://lifehacker.com/use-the-hierarchy-of-needs-to-find-your-perfect-job-1850660848)
