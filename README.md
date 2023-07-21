@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Lifehacker] [How to Have Great &lpar;Safe&rpar; Sex Outside](https://lifehacker.com/how-to-have-great-safe-sex-outside-1850662137)
+- [Lifehacker] [This CompTIA Certification Training Is $50 Right Now](https://lifehacker.com/this-comptia-certification-training-is-50-right-now-1850653306)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is Skibidi Toilet?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-s-1850662263)
+- [Lifehacker] [Sorry, but You’ll Never Win the Powerball](https://lifehacker.com/winning-the-powerball-lottery-won-t-solve-your-problems-1752378740)
+- [Lifehacker] [How to Have Great Sex Outside &lpar;Safely&rpar;](https://lifehacker.com/how-to-have-great-safe-sex-outside-1850662137)
 - [Dev.to/JS] [6 Types of Intelligent Agents in AI](https://dev.to/hirendhaduk_/6-types-of-intelligent-agents-in-ai-1ac3)
 - [Lifehacker] [Avoid This Travel Agency Scam](https://lifehacker.com/avoid-this-travel-agency-scam-1850662037)
 - [Dev.to/JS] [The Best Free# Deploying Your React Application: 8 Free Hosting Services to Consider](https://dev.to/idurar/the-best-free-deploying-your-react-application-8-free-hosting-services-to-consider-df3)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Automatically Delete Trackers From iPhone URLs](https://lifehacker.com/you-can-automatically-delete-trackers-from-iphone-urls-1850658478)
 - [Lifehacker] [All the Ways to Filter and Hide Adult Games on Steam and Itch.io](https://lifehacker.com/all-the-ways-to-filter-and-hide-adult-games-on-steam-an-1850657543)
 - [Lifehacker] [Your Phone Isn’t Spying on You to Show You Ads &lpar;It’s Worse Than That&rpar;](https://lifehacker.com/what-people-are-getting-wrong-this-week-phone-surveill-1850658089)
-- [Lifehacker] [Make This Sweet and Creamy &#39;Shaved Ice&#39; With Just Two Ingredients](https://lifehacker.com/make-this-sweet-and-creamy-shaved-ice-with-just-two-ing-1850657846)
-- [Lifehacker] [20 Hulu Originals You Probably Aren&#39;t Watching But Definitely Should Be](https://lifehacker.com/15-hulu-originals-you-probably-arent-watching-but-defin-1847459312)
-- [Lifehacker] [When &lpar;and Where&rpar; to See the Summer’s Best Meteor Showers](https://lifehacker.com/when-and-where-to-see-the-summer-s-best-meteor-shower-1850658031)
-- [Lifehacker] [The Easiest Way to Keep Waffles From Sticking to Your Waffle Iron](https://lifehacker.com/the-easiest-way-to-keep-waffles-from-sticking-to-your-w-1850657373)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make This Sweet and Creamy &#39;Shaved Ice&#39; With Just Two Ingredients](https://lifehacker.com/make-this-sweet-and-creamy-shaved-ice-with-just-two-ing-1850657846)<!-- TECH-POSTS:END -->
 
 ---
 
