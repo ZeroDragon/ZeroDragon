@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get 18 Bottles of Splash Wine for $70](https://lifehacker.com/you-can-get-18-bottles-of-splash-wine-for-70-1850653364)
+- [Lifehacker] [Make Piping Hot Arepas With Four Ingredients](https://lifehacker.com/make-piping-hot-arepas-with-four-ingredients-1850664222)
+- [Lifehacker] [Peel Tomatoes Faster by Torching Them on a Gas Stove](https://lifehacker.com/quickly-peel-tomatoes-by-torching-them-on-a-gas-stoveto-1787462339)
+- [Dev.to/JS] [React Hooks - useEffect&lpar;&rpar;](https://dev.to/phanimurari/react-hooks-useeffect-56m1)
 - [Lifehacker] [How to Spot a Job Offer Scam Written by AI](https://lifehacker.com/how-to-spot-a-job-offer-scam-written-by-ai-1850664352)
 - [Dev.to/JS] [Introduction to JavaScript](https://dev.to/ameya/introduction-to-javascript-3p2b)
 - [Lifehacker] [The Best Ways to Repair a Cracked Sink](https://lifehacker.com/the-best-ways-to-repair-a-cracked-sink-1850664147)
@@ -54,7 +58,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can DIY Better &lpar;and Prettier&rpar; Grow Lamps](https://lifehacker.com/you-can-diy-better-and-prettier-grow-lamps-1850656587)
 - [Dev.to/JS] [Introduction to Frontend Testing: Best Practices and Tools](https://dev.to/georgeboozin/introduction-to-frontend-testing-best-practices-and-tools-3760)
 - [Lifehacker] [Everything You Should Know About Your Baby’s Birth Certificate](https://lifehacker.com/everything-you-should-know-about-your-baby-s-birth-cert-1850659820)
-- [Dev.to/JS] [Query Fragments with Conditions in GraphQL](https://dev.to/harrified/query-fragments-with-conditions-in-graphql-dg8)
 - [Lifehacker] [This Wearable Shoulder and Knee Massager Is $60 Right Now](https://lifehacker.com/this-wearable-shoulder-and-knee-massager-is-60-right-n-1850653247)
 - [Lifehacker] [Fry Food Without Burning Your Beautiful Hands](https://lifehacker.com/how-to-fry-something-without-burning-your-beautiful-han-1850660364)
 - [Lifehacker] [Use the &#39;Hierarchy of Needs&#39; to Find Your Perfect Job](https://lifehacker.com/use-the-hierarchy-of-needs-to-find-your-perfect-job-1850660848)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do Right Away When Your Mortgage Gets Sold](https://lifehacker.com/what-to-do-right-away-when-your-mortgage-gets-sold-1850659903)
 - [Lifehacker] [This International eSIM Card Is $22 Right Now](https://lifehacker.com/this-international-esim-card-is-22-right-now-1850643151)
 - [Lifehacker] [Why DIY Air Conditioners Are &lpar;Mostly&rpar; a Waste of Effort](https://lifehacker.com/do-diy-air-conditioners-actually-work-1849327468)
-- [Lifehacker] [No, Light Weights and Heavy Weights Can&#39;t Give You the Same Workout](https://lifehacker.com/no-light-weights-and-heavy-weights-cant-give-you-the-s-1850660641)
-- [Lifehacker] [Poach Your Eggs Directly in a Pot of Oatmeal](https://lifehacker.com/poach-your-eggs-directly-in-a-pot-of-oatmeal-1850659956)
-- [Lifehacker] [The Best Ways to Freeze Any Kind of Fresh Fruit](https://lifehacker.com/how-to-properly-freeze-fruit-for-longer-lasting-freshne-1692241279)
-- [Lifehacker] [Your iPhone Can Now Decode the Warning Lights in Your Car](https://lifehacker.com/your-iphone-can-now-decode-the-warning-lights-in-your-c-1850659088)<!-- TECH-POSTS:END -->
+- [Lifehacker] [No, Light Weights and Heavy Weights Can&#39;t Give You the Same Workout](https://lifehacker.com/no-light-weights-and-heavy-weights-cant-give-you-the-s-1850660641)<!-- TECH-POSTS:END -->
 
 ---
 
