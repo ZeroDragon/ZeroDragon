@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Don t use arrow functions... &lpar;if you don t need to&rpar;](https://dev.to/efpage/dont-use-arrow-functions-if-you-dont-need-to-27j0)
+- [Dev.to/JS] [JavaScript&#39;s &#39;this&#39; Keyword: Understanding Its Power and Usage](https://dev.to/adii/javascripts-this-keyword-understanding-its-power-and-usage-j70)
+- [Dev.to/JS] [Create Your Own Cryptocurrency with JavaScript](https://dev.to/donnajohnson88/create-your-own-cryptocurrency-with-javascript-38e5)
+- [Dev.to/JS] [Understanding blobs in JavaScript](https://dev.to/accreditly/understanding-blobs-in-javascript-5gcd)
 - [Dev.to/JS] [Do you even read bro? 5 advices on reading and staying up to date](https://dev.to/pgarzina/do-you-even-read-bro-5-advices-on-reading-and-staying-up-to-date-1kdo)
 - [Dev.to/JS] [Expo CLI vs. React Native CLI: Debunking the Hype](https://dev.to/royged/expo-cli-vs-react-native-cli-debunking-the-hype-2lb1)
 - [Dev.to/JS] [3 Steps to create a custom cursor with HTML, CSS and JavaScript](https://dev.to/devshefali/3-steps-to-create-a-custom-cursor-with-html-css-and-javascript-2jo1)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Detect Slow Internet Connection using JavaScript Async/await](https://dev.to/kipyegonline/how-to-detect-slow-internet-connection-using-javascript-asyncawait-3npa)
 - [Dev.to/JS] [Dependency list in the useEffect hook](https://dev.to/gaurbprajapati/dependency-list-in-the-useeffect-hook-25fe)
 - [Dev.to/JS] [NestJS: Making Server-Side Development Easier - My Thoughts](https://dev.to/kerisnarendra/nestjs-making-server-side-development-easier-my-thoughts-2983)
-- [Dev.to/JS] [how many time normally component render in reactjs](https://dev.to/gaurbprajapati/how-many-time-normally-component-render-in-reactjs-1o8j)
-- [Dev.to/JS] [The Power of React Dom For Front-End Development](https://dev.to/scofieldidehen/the-power-of-react-dom-for-front-end-development-47f9)
-- [Dev.to/JS] [Simple Textarea With Remaining Character Counter](https://dev.to/codeboxx/simple-textarea-with-remaining-character-counter-232g)
-- [Dev.to/JS] [ES6 Destructuring 101](https://dev.to/hrishix6/es6-destructuring-101-hak)
 - [Lifehacker] [This Wearable Shoulder and Knee Massager Is $60 Right Now](https://lifehacker.com/this-wearable-shoulder-and-knee-massager-is-60-right-n-1850653247)
 - [Lifehacker] [Fry Food Without Burning Your Beautiful Hands](https://lifehacker.com/how-to-fry-something-without-burning-your-beautiful-han-1850660364)
 - [Lifehacker] [Use the &#39;Hierarchy of Needs&#39; to Find Your Perfect Job](https://lifehacker.com/use-the-hierarchy-of-needs-to-find-your-perfect-job-1850660848)
