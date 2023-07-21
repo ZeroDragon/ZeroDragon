@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My First Hackathon Experience: A Journey of Learning and Triumph 😎💻](https://dev.to/balamurugan16/my-first-hackathon-experience-a-journey-of-learning-and-triumph-48pl)
+- [Lifehacker] [The Legal and Financial Consequences of Living With Your Ex](https://lifehacker.com/the-legal-and-financial-consequences-of-living-with-you-1850662145)
 - [Lifehacker] [This CompTIA Certification Training Is $50 Right Now](https://lifehacker.com/this-comptia-certification-training-is-50-right-now-1850653306)
+- [Lifehacker] [13 Hit TV Series No One Saw Coming](https://lifehacker.com/11-hit-tv-series-no-one-saw-coming-1849843144)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is Skibidi Toilet?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-s-1850662263)
 - [Lifehacker] [Sorry, but You’ll Never Win the Powerball](https://lifehacker.com/winning-the-powerball-lottery-won-t-solve-your-problems-1752378740)
 - [Lifehacker] [How to Have Great Sex Outside &lpar;Safely&rpar;](https://lifehacker.com/how-to-have-great-safe-sex-outside-1850662137)
@@ -45,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Riddles: The Mysterious Case of the Untracked Clicks](https://dev.to/jkettmann/react-riddles-the-mysterious-case-of-the-untracked-clicks-5d2p)
 - [Dev.to/JS] [Chrome Extensions of the Month - July 2023](https://dev.to/j471n/chrome-extensions-of-the-month-july-2023-2ea3)
 - [Dev.to/JS] [Level Up Your AWS CDK Development: Demystifying integ-runner and integ-test](https://dev.to/kumo/level-up-your-aws-cdk-development-demystifying-integ-runner-and-integ-test-542j)
-- [Dev.to/JS] [Beaver Notes](https://dev.to/daniele_rolli/beaver-notes-2m02)
 - [Lifehacker] [This Wearable Shoulder and Knee Massager Is $60 Right Now](https://lifehacker.com/this-wearable-shoulder-and-knee-massager-is-60-right-n-1850653247)
 - [Lifehacker] [Fry Food Without Burning Your Beautiful Hands](https://lifehacker.com/how-to-fry-something-without-burning-your-beautiful-han-1850660364)
 - [Lifehacker] [Use the &#39;Hierarchy of Needs&#39; to Find Your Perfect Job](https://lifehacker.com/use-the-hierarchy-of-needs-to-find-your-perfect-job-1850660848)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Lifetime Subscription to Rosetta Stone Is Over 30% Off Right Now](https://lifehacker.com/this-lifetime-subscription-to-rosetta-stone-is-over-30-1850643171)
 - [Lifehacker] [My Favorite Ways to Fry a Perfect Egg](https://lifehacker.com/8-ways-to-fry-a-better-egg-1846915074)
 - [Lifehacker] [You Can Automatically Delete Trackers From iPhone URLs](https://lifehacker.com/you-can-automatically-delete-trackers-from-iphone-urls-1850658478)
-- [Lifehacker] [All the Ways to Filter and Hide Adult Games on Steam and Itch.io](https://lifehacker.com/all-the-ways-to-filter-and-hide-adult-games-on-steam-an-1850657543)
-- [Lifehacker] [Your Phone Isn’t Spying on You to Show You Ads &lpar;It’s Worse Than That&rpar;](https://lifehacker.com/what-people-are-getting-wrong-this-week-phone-surveill-1850658089)
-- [Lifehacker] [Make This Sweet and Creamy &#39;Shaved Ice&#39; With Just Two Ingredients](https://lifehacker.com/make-this-sweet-and-creamy-shaved-ice-with-just-two-ing-1850657846)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Ways to Filter and Hide Adult Games on Steam and Itch.io](https://lifehacker.com/all-the-ways-to-filter-and-hide-adult-games-on-steam-an-1850657543)<!-- TECH-POSTS:END -->
 
 ---
 
