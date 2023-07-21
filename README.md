@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Event Handling Basics: Interactive Web Pages Made Easy](https://dev.to/jacknorman235/event-handling-basics-interactive-web-pages-made-easy-363n)
+- [Lifehacker] [You Can Now Play &#39;Stardew Valley&#39; for &#39;Free&#39; on Your iPhone](https://lifehacker.com/you-can-now-play-stardew-valley-for-free-on-your-iphone-1850664705)
+- [Dev.to/JS] [Top 7 AI Open Source Projects to Contribute to in 2023 ⭐](https://dev.to/thenomadevel/top-7-ai-open-source-projects-to-contribute-to-in-2023-3ff5)
+- [Lifehacker] [Use a Screwdriver, and Other Ways to Not Overwater Your Lawn This Summer](https://lifehacker.com/use-a-screwdriver-and-other-ways-keep-from-overwaterin-1847033541)
 - [Lifehacker] [Where to Watch &#39;Good Omens&#39; Season 2 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-good-omens-season-2-and-what-you-should-1850654006)
 - [Dev.to/JS] [Good bye and thanks to &quot;typescript-is&quot; &lpar;ancestor of &quot;typia&quot;, 20,000x faster validator&rpar;](https://dev.to/samchon/good-bye-typescript-is-ancestor-of-typia-20000x-faster-validator-49fi)
 - [Lifehacker] [The Best Way to Treat &lpar;and Prevent&rpar; Post-Run Chafing](https://lifehacker.com/treat-post-run-chafing-with-diaper-cream-1724603461)
@@ -56,16 +60,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid This Travel Agency Scam](https://lifehacker.com/avoid-this-travel-agency-scam-1850662037)
 - [Dev.to/JS] [The Best Free# Deploying Your React Application: 8 Free Hosting Services to Consider](https://dev.to/idurar/the-best-free-deploying-your-react-application-8-free-hosting-services-to-consider-df3)
 - [Lifehacker] [You Should Hull Your Strawberries With a Reusable Straw](https://lifehacker.com/you-should-hull-your-strawberries-with-a-reusable-straw-1850661962)
-- [Dev.to/JS] [Introduction to Javascript Canvas Drawing](https://dev.to/elhakim/introduction-to-javascript-canvas-drawing-4bch)
-- [Dev.to/JS] [Integrating Val Town with tana](https://dev.to/pentekostos/integrating-val-town-with-tana-1m3o)
 - [Lifehacker] [You Can DIY Better &lpar;and Prettier&rpar; Grow Lamps](https://lifehacker.com/you-can-diy-better-and-prettier-grow-lamps-1850656587)
 - [Lifehacker] [Everything You Should Know About Your Baby’s Birth Certificate](https://lifehacker.com/everything-you-should-know-about-your-baby-s-birth-cert-1850659820)
 - [Lifehacker] [This Wearable Shoulder and Knee Massager Is $60 Right Now](https://lifehacker.com/this-wearable-shoulder-and-knee-massager-is-60-right-n-1850653247)
 - [Lifehacker] [Fry Food Without Burning Your Beautiful Hands](https://lifehacker.com/how-to-fry-something-without-burning-your-beautiful-han-1850660364)
 - [Lifehacker] [Use the &#39;Hierarchy of Needs&#39; to Find Your Perfect Job](https://lifehacker.com/use-the-hierarchy-of-needs-to-find-your-perfect-job-1850660848)
-- [Lifehacker] [Use Soap Before Water to Clean Greasy Hands](https://lifehacker.com/use-soap-before-water-to-clean-greasy-hands-1832736019)
-- [Lifehacker] [What to Do Right Away When Your Mortgage Gets Sold](https://lifehacker.com/what-to-do-right-away-when-your-mortgage-gets-sold-1850659903)
-- [Lifehacker] [This International eSIM Card Is $22 Right Now](https://lifehacker.com/this-international-esim-card-is-22-right-now-1850643151)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use Soap Before Water to Clean Greasy Hands](https://lifehacker.com/use-soap-before-water-to-clean-greasy-hands-1832736019)<!-- TECH-POSTS:END -->
 
 ---
 
