@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Spot a Job Offer Scam Written by AI](https://lifehacker.com/how-to-spot-a-job-offer-scam-written-by-ai-1850664352)
+- [Dev.to/JS] [Introduction to JavaScript](https://dev.to/ameya/introduction-to-javascript-3p2b)
+- [Lifehacker] [The Best Ways to Repair a Cracked Sink](https://lifehacker.com/the-best-ways-to-repair-a-cracked-sink-1850664147)
+- [Lifehacker] [You Should Put Pickled Corn on Everything](https://lifehacker.com/you-should-put-pickled-corn-on-everything-1827544519)
 - [Lifehacker] [This Scout Hidden Camera Detector Is $40 Right Now](https://lifehacker.com/this-scout-hidden-camera-detector-is-40-right-now-1850653349)
-- [Dev.to/JS] [How to Design a Clean Database](https://dev.to/mohammadfaisal/how-to-design-a-clean-database-1mei)
 - [Dev.to/JS] [Algorithm Interview Questions and Answers Under 1 Minute | Javascript](https://dev.to/abdulbasitmemon/algorithm-interview-questions-and-answers-under-1-minute-javascript-h2l)
 - [Lifehacker] [Make Any Photo a Sticker With This iOS 17 Feature](https://lifehacker.com/make-any-photo-a-sticker-with-this-ios-17-feature-1850662865)
 - [Dev.to/JS] [Mastering Object-Oriented Programming with TypeScript: Encapsulation, Abstraction, Inheritance, and Polymorphism Explained](https://dev.to/rajrathod/mastering-object-oriented-programming-with-typescript-encapsulation-abstraction-inheritance-and-polymorphism-explained-c6p)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [No, Light Weights and Heavy Weights Can&#39;t Give You the Same Workout](https://lifehacker.com/no-light-weights-and-heavy-weights-cant-give-you-the-s-1850660641)
 - [Lifehacker] [Poach Your Eggs Directly in a Pot of Oatmeal](https://lifehacker.com/poach-your-eggs-directly-in-a-pot-of-oatmeal-1850659956)
 - [Lifehacker] [The Best Ways to Freeze Any Kind of Fresh Fruit](https://lifehacker.com/how-to-properly-freeze-fruit-for-longer-lasting-freshne-1692241279)
-- [Lifehacker] [Your iPhone Can Now Decode the Warning Lights in Your Car](https://lifehacker.com/your-iphone-can-now-decode-the-warning-lights-in-your-c-1850659088)
-- [Lifehacker] [The Most Basic Equipment You Need to Work Out at Home](https://lifehacker.com/what-s-the-most-basic-equipment-you-need-to-work-out-at-1849430354)
-- [Lifehacker] [Apple’s New &#39;Screen Distance&#39; Feature Can Protect Your Kid&#39;s Eyes](https://lifehacker.com/apple-s-new-screen-distance-feature-can-protect-your-ki-1850658879)
-- [Lifehacker] [You Can Apply for Your First Passport at Fairs Now](https://lifehacker.com/you-can-apply-for-your-first-passport-at-fairs-now-1850657363)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your iPhone Can Now Decode the Warning Lights in Your Car](https://lifehacker.com/your-iphone-can-now-decode-the-warning-lights-in-your-c-1850659088)<!-- TECH-POSTS:END -->
 
 ---
 
