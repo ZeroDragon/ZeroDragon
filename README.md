@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Over 40, with no technical background, this is how I learned a Frontend Framework in 2 weeks](https://dev.to/codingjourneyfromunemployment/over-40-with-no-technical-background-this-is-how-i-learned-a-frontend-framework-in-2-weeks-3723)
+- [Dev.to/JS] [Speed up you app by returning multi-dimensional data in Postgres with Supabase](https://dev.to/tholder/speed-up-you-app-by-returning-multi-dimensional-data-in-postgres-with-supabase-2520)
+- [Dev.to/JS] [Why Static Websites Are Back In 2023 ?](https://dev.to/linepasha/why-static-websites-are-back-in-2023--3cih)
 - [Dev.to/JS] [Introduction to React](https://dev.to/rohithart/introduction-to-react-2h1e)
 - [Dev.to/JS] [In 1 Year](https://dev.to/ijlee2/in-1-year-25h0)
 - [Dev.to/JS] [Modifying Element Properties with JavaScript: Unlocking Dynamic Web](https://dev.to/jacknorman235/modifying-element-properties-with-javascript-unlocking-dynamic-web-3p63)
@@ -39,13 +42,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do Right Away When Your Mortgage Gets Sold](https://lifehacker.com/what-to-do-right-away-when-your-mortgage-gets-sold-1850659903)
 - [Dev.to/JS] [Сортування бульбашкою. JavaScript](https://dev.to/betelgeuseas/sortuvannia-bulbashkoiu-javascript-5gao)
 - [Lifehacker] [This International eSIM Card Is $22 Right Now](https://lifehacker.com/this-international-esim-card-is-22-right-now-1850643151)
-- [Dev.to/JS] [Learn how to create a dynamic, smooth-scrolling menu](https://dev.to/rafaelborges26/learn-how-to-create-a-dynamic-smooth-scrolling-menu-5gjc)
+- [Dev.to/JS] [How to create a dynamic, smooth-scrolling menu](https://dev.to/rafaelborges26/learn-how-to-create-a-dynamic-smooth-scrolling-menu-5gjc)
 - [Dev.to/JS] [The Great Debate: JavaScript vs TypeScript - A Senior Dev&#39;s Perspective](https://dev.to/leandro_nnz/the-great-debate-javascript-vs-typescript-a-senior-devs-perspective-1n18)
-- [Dev.to/JS] [Modules📤📥 in Node.js : Beginner to Advance💻](https://dev.to/tanishtt/modules-in-nodejs-beginner-to-advance-29k)
 - [Lifehacker] [Why DIY Air Conditioners Are &lpar;Mostly&rpar; a Waste of Effort](https://lifehacker.com/do-diy-air-conditioners-actually-work-1849327468)
-- [Dev.to/JS] [React&#39;s useCallback Hook: A Dance of Functions and Dependencies](https://dev.to/leandro_nnz/reacts-usecallback-hook-a-dance-of-functions-and-dependencies-4b7a)
 - [Lifehacker] [No, Light Weights and Heavy Weights Can&#39;t Give You the Same Workout](https://lifehacker.com/no-light-weights-and-heavy-weights-cant-give-you-the-s-1850660641)
-- [Dev.to/JS] [Ready to learn php](https://dev.to/pazapp/ready-to-learn-php-2fkl)
 - [Lifehacker] [Poach Your Eggs Directly in a Pot of Oatmeal](https://lifehacker.com/poach-your-eggs-directly-in-a-pot-of-oatmeal-1850659956)
 - [Lifehacker] [The Best Ways to Freeze Any Kind of Fresh Fruit](https://lifehacker.com/how-to-properly-freeze-fruit-for-longer-lasting-freshne-1692241279)
 - [Lifehacker] [Your iPhone Can Now Decode the Warning Lights in Your Car](https://lifehacker.com/your-iphone-can-now-decode-the-warning-lights-in-your-c-1850659088)
