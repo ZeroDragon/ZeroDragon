@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Given two non-negative integers, num1 and num2 represented as string, return the sum of num1 and num2 as a string.](https://dev.to/chandrapenugonda/given-two-non-negative-integers-num1-and-num2-represented-as-string-return-the-sum-of-num1-and-num2-as-a-string-l1e)
 - [Dev.to/JS] [For Loop, Use &amp; Syntax](https://dev.to/jpabloc17/for-loop-use-syntax-11da)
 - [Dev.to/JS] [ReactJS Coding and TechTalking, come join :D](https://dev.to/arthursmuller/reactjs-coding-and-techtalking-come-join-d-2al1)
 - [Lifehacker] [TikTok Myth of the Week: Borax Is Good to Drink](https://lifehacker.com/tiktok-myth-of-the-week-borax-is-good-to-drink-1850665604)
@@ -55,7 +56,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Game-Changer in Job Search: An Open Source ATS Resume Matcher](https://dev.to/srbhr/creating-a-game-changer-in-job-search-an-open-source-ats-resume-matcher-31g9)
 - [Lifehacker] [Stay Motivated to Clean by Keeping Supplies in Every Room](https://lifehacker.com/keep-cleaning-supplies-in-every-room-of-your-house-to-g-1792621292)
 - [Lifehacker] [Everything You Need to Be a Proper Coffee Snob at the Office](https://lifehacker.com/everything-you-need-to-be-a-proper-coffee-snob-at-the-o-1850663691)
-- [Dev.to/JS] [My First Hackathon Experience: A Journey of Learning and Triumph 😎💻](https://dev.to/balamurugan16/my-first-hackathon-experience-a-journey-of-learning-and-triumph-48pl)
 - [Lifehacker] [The Legal and Financial Consequences of Living With Your Ex](https://lifehacker.com/the-legal-and-financial-consequences-of-living-with-you-1850662145)
 - [Lifehacker] [This CompTIA Certification Training Is $50 Right Now](https://lifehacker.com/this-comptia-certification-training-is-50-right-now-1850653306)
 - [Lifehacker] [13 Hit TV Series No One Saw Coming](https://lifehacker.com/11-hit-tv-series-no-one-saw-coming-1849843144)
