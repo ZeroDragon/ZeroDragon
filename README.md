@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Think Twice Before Joining Large Companies as a Junior Engineer](https://dev.to/mohammadfaisal/think-twice-before-joining-large-companies-as-a-junior-engineer-3bmo)
+- [Dev.to/JS] [Quietum Plus - Ear Results, Benefits, Reviews &amp; Side Effects?](https://dev.to/quietumplu50981/quietum-plus-ear-results-benefits-reviews-side-effects-14bc)
+- [Dev.to/JS] [Circle-Packing with Javascript and SVG — the Kusama Way](https://dev.to/madsstoumann/circle-packing-with-javascript-and-svg-the-kusama-way-b59)
 - [Dev.to/JS] [Hello World](https://dev.to/imhardikdesai/hello-world-1p1e)
 - [Dev.to/JS] [Given two non-negative integers, num1 and num2 represented as string, return the sum of num1 and num2 as a string.](https://dev.to/chandrapenugonda/given-two-non-negative-integers-num1-and-num2-represented-as-string-return-the-sum-of-num1-and-num2-as-a-string-l1e)
 - [Dev.to/JS] [For Loop, Use &amp; Syntax](https://dev.to/jpabloc17/for-loop-use-syntax-11da)
@@ -47,13 +50,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Peel Tomatoes Faster by Torching Them on a Gas Stove](https://lifehacker.com/quickly-peel-tomatoes-by-torching-them-on-a-gas-stoveto-1787462339)
 - [Dev.to/JS] [React Hooks - useEffect&lpar;&rpar;](https://dev.to/phanimurari/react-hooks-useeffect-56m1)
 - [Lifehacker] [How to Spot a Job Offer Scam Written by AI](https://lifehacker.com/how-to-spot-a-job-offer-scam-written-by-ai-1850664352)
-- [Dev.to/JS] [Introduction to JavaScript](https://dev.to/ameya/introduction-to-javascript-3p2b)
 - [Lifehacker] [The Best Ways to Repair a Cracked Sink](https://lifehacker.com/the-best-ways-to-repair-a-cracked-sink-1850664147)
 - [Lifehacker] [You Should Put Pickled Corn on Everything](https://lifehacker.com/you-should-put-pickled-corn-on-everything-1827544519)
 - [Lifehacker] [This Scout Hidden Camera Detector Is $40 Right Now](https://lifehacker.com/this-scout-hidden-camera-detector-is-40-right-now-1850653349)
-- [Dev.to/JS] [Algorithm Interview Questions and Answers Under 1 Minute | Javascript](https://dev.to/abdulbasitmemon/algorithm-interview-questions-and-answers-under-1-minute-javascript-h2l)
 - [Lifehacker] [Make Any Photo a Sticker With This iOS 17 Feature](https://lifehacker.com/make-any-photo-a-sticker-with-this-ios-17-feature-1850662865)
-- [Dev.to/JS] [Mastering Object-Oriented Programming with TypeScript: Encapsulation, Abstraction, Inheritance, and Polymorphism Explained](https://dev.to/rajrathod/mastering-object-oriented-programming-with-typescript-encapsulation-abstraction-inheritance-and-polymorphism-explained-c6p)
 - [Lifehacker] [Stay Motivated to Clean by Keeping Supplies in Every Room](https://lifehacker.com/keep-cleaning-supplies-in-every-room-of-your-house-to-g-1792621292)
 - [Lifehacker] [Everything You Need to Be a Proper Coffee Snob at the Office](https://lifehacker.com/everything-you-need-to-be-a-proper-coffee-snob-at-the-o-1850663691)
 - [Lifehacker] [The Legal and Financial Consequences of Living With Your Ex](https://lifehacker.com/the-legal-and-financial-consequences-of-living-with-you-1850662145)
