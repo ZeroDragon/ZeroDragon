@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding async/await in JavaScript](https://dev.to/adii/understanding-asyncawait-in-javascript-15c0)
 - [Dev.to/JS] [.Net serialze json](https://dev.to/kenanhomework/harry-1bll)
 - [Dev.to/JS] [Autoplay YouTube embed with sound](https://dev.to/bartick/autoplay-youtube-embed-with-sound-383g)
 - [Dev.to/JS] [Apply the Dependency Inversion Principle in React](https://dev.to/mohammadfaisal/apply-the-dependency-inversion-principle-in-react-1cao)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Arrays and Iteration: Exploring Methods, Patterns, and Use Cases](https://dev.to/kafeel_ahmad/javascript-arrays-and-iteration-exploring-methods-patterns-and-use-cases-1ln4)
 - [Dev.to/JS] [Asynchronous JavaScript: Handling Callbacks, Promises, and Async/Await](https://dev.to/kafeel_ahmad/asynchronous-javascript-handling-callbacks-promises-and-asyncawait-4gnb)
 - [Dev.to/JS] [#LearnedToday: React95](https://dev.to/danielzotti/learnedtoday-react95-5f71)
-- [Dev.to/JS] [Trace Every Visit - Get Telegram Message on User Visits your Website](https://dev.to/sh20raj/building-a-notification-enabled-website-engaging-visitors-with-personalized-messages-24ip)
 - [Lifehacker] [TikTok Myth of the Week: Borax Is Good to Drink](https://lifehacker.com/tiktok-myth-of-the-week-borax-is-good-to-drink-1850665604)
 - [Lifehacker] [These Movie Theaters Have the Best Summer Ticket Deals](https://lifehacker.com/these-movie-theaters-have-the-best-summer-ticket-deals-1850665566)
 - [Lifehacker] [How to Inflate an Air Mattress With a Vacuum Cleaner, Trash Bag, Hair Dryer, and More](https://lifehacker.com/inflate-an-air-mattress-with-a-vacuum-cleaner-5862845)
