@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [react useMemo, useCallback. Easier than we think.](https://dev.to/abdullahmubin/react-usememo-usecallback-easier-than-we-think-13be)
+- [Dev.to/JS] [How to use Playwright with external/existing Chrome](https://dev.to/sonyarianto/how-to-use-playwright-with-externalexisting-chrome-4nf1)
+- [Dev.to/JS] [Octos - HTML live wallpaper engine](https://dev.to/underpig1/octos-html-live-wallpaper-engine-49kp)
 - [Dev.to/JS] [How to Manage browser windows and tabs with JavaScript &lpar; Sport website example&rpar; ?](https://dev.to/jacknorman235/how-to-manage-browser-windows-and-tabs-with-javascript--2ik0)
 - [Dev.to/JS] [Top 30 JavaScript Snippets To Boost Your Productivity](https://dev.to/yeeshadev/top-30-javascript-snippets-to-boost-your-productivity-3560)
 - [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
@@ -38,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Zustand vs Redux: Choosing the Right State Management Library for Your React App](https://dev.to/idurar/zustand-vs-redux-choosing-the-right-state-management-library-for-your-react-app-2255)
 - [Lifehacker] [6 Signs of Heat Stress in Plants](https://lifehacker.com/6-signs-of-heat-stress-in-plants-1850665461)
 - [Dev.to/JS] [What is Execution Context | Execution Context in JS](https://dev.to/diwakarkashyap/what-is-execution-context-execution-context-in-js-4gn1)
-- [Dev.to/JS] [Understanding async/await in JavaScript](https://dev.to/adii/understanding-asyncawait-in-javascript-15c0)
-- [Dev.to/JS] [Autoplay YouTube embed with sound](https://dev.to/bartick/autoplay-youtube-embed-with-sound-383g)
-- [Dev.to/JS] [Apply the Dependency Inversion Principle in React](https://dev.to/mohammadfaisal/apply-the-dependency-inversion-principle-in-react-1cao)
 - [Lifehacker] [TikTok Myth of the Week: Borax Is Good to Drink](https://lifehacker.com/tiktok-myth-of-the-week-borax-is-good-to-drink-1850665604)
 - [Lifehacker] [These Movie Theaters Have the Best Summer Ticket Deals](https://lifehacker.com/these-movie-theaters-have-the-best-summer-ticket-deals-1850665566)
 - [Lifehacker] [How to Inflate an Air Mattress With a Vacuum Cleaner, Trash Bag, Hair Dryer, and More](https://lifehacker.com/inflate-an-air-mattress-with-a-vacuum-cleaner-5862845)
