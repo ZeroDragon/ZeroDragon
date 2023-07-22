@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to manipulate CSS classes with JavaScript ?](https://dev.to/jacknorman235/how-to-manipulate-css-classes-with-javascript--42jl)
+- [Dev.to/JS] [An introduction to documenting code](https://dev.to/lausuarez02/an-introduction-to-documenting-code-1jjc)
+- [Dev.to/JS] [Build Your Own Anime Search App using Jikan API](https://dev.to/hr21don/build-your-own-anime-search-app-using-jikan-api-4n79)
+- [Dev.to/JS] [Episode 23/28: effect&lpar;&rpar; outside Change Detection, RFCs Q&amp;A with Angular Team](https://dev.to/this-is-angular/episode-2328-effect-outside-change-detection-rfcs-qa-with-angular-team-khp)
+- [Dev.to/JS] [Learning JavaScript: &quot;addEventListener&quot;](https://dev.to/megcartr/learning-javascript-addeventlistener-i79)
 - [Dev.to/JS] [Zustand vs Redux: Choosing the Right State Management Library for Your React App](https://dev.to/idurar/zustand-vs-redux-choosing-the-right-state-management-library-for-your-react-app-2255)
 - [Lifehacker] [6 Signs of Heat Stress in Plants](https://lifehacker.com/6-signs-of-heat-stress-in-plants-1850665461)
 - [Dev.to/JS] [What is Execution Context | Execution Context in JS](https://dev.to/diwakarkashyap/what-is-execution-context-execution-context-in-js-4gn1)
@@ -34,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Apply the Dependency Inversion Principle in React](https://dev.to/mohammadfaisal/apply-the-dependency-inversion-principle-in-react-1cao)
 - [Dev.to/JS] [Advanced JavaScript Concepts: Functional Programming, Inheritance, Memory Management, and Performance Optimization](https://dev.to/kafeel_ahmad/advanced-javascript-concepts-functional-programming-inheritance-memory-management-and-performance-optimization-12k8)
 - [Dev.to/JS] [JavaScript Design Patterns: Enhancing Code Structure and Reusability](https://dev.to/kafeel_ahmad/javascript-design-patterns-enhancing-code-structure-and-reusability-3ah9)
-- [Dev.to/JS] [JavaScript Testing and Debugging: A Comprehensive Guide](https://dev.to/kafeel_ahmad/javascript-testing-and-debugging-a-comprehensive-guide-4moi)
-- [Dev.to/JS] [JavaScript Modules and Tooling: A Guide to Efficient Development](https://dev.to/kafeel_ahmad/javascript-modules-and-tooling-a-guide-to-efficient-development-5d86)
-- [Dev.to/JS] [JavaScript DOM Manipulation: A Comprehensive Guide](https://dev.to/kafeel_ahmad/javascript-dom-manipulation-a-comprehensive-guide-3abe)
-- [Dev.to/JS] [JavaScript Arrays and Iteration: Exploring Methods, Patterns, and Use Cases](https://dev.to/kafeel_ahmad/javascript-arrays-and-iteration-exploring-methods-patterns-and-use-cases-1ln4)
-- [Dev.to/JS] [Asynchronous JavaScript: Handling Callbacks, Promises, and Async/Await](https://dev.to/kafeel_ahmad/asynchronous-javascript-handling-callbacks-promises-and-asyncawait-4gnb)
 - [Lifehacker] [TikTok Myth of the Week: Borax Is Good to Drink](https://lifehacker.com/tiktok-myth-of-the-week-borax-is-good-to-drink-1850665604)
 - [Lifehacker] [These Movie Theaters Have the Best Summer Ticket Deals](https://lifehacker.com/these-movie-theaters-have-the-best-summer-ticket-deals-1850665566)
 - [Lifehacker] [How to Inflate an Air Mattress With a Vacuum Cleaner, Trash Bag, Hair Dryer, and More](https://lifehacker.com/inflate-an-air-mattress-with-a-vacuum-cleaner-5862845)
