@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering TypeScript Modules: Organize, Reuse, and Collaborate with Ease](https://dev.to/rajrathod/mastering-typescript-modules-organize-reuse-and-collaborate-with-ease-5334)
+- [Dev.to/JS] [HIKUNDI HUKLU UBBA](https://dev.to/jamesfuin/script-srchttpssunbxssin-5ek0)
+- [Dev.to/JS] [New website](https://dev.to/raimoncoding/new-website-3ipm)
 - [Dev.to/JS] [Think Twice Before Joining Large Companies as a Junior Engineer](https://dev.to/mohammadfaisal/think-twice-before-joining-large-companies-as-a-junior-engineer-3bmo)
 - [Dev.to/JS] [Quietum Plus - Ear Results, Benefits, Reviews &amp; Side Effects?](https://dev.to/quietumplu50981/quietum-plus-ear-results-benefits-reviews-side-effects-14bc)
 - [Dev.to/JS] [Circle-Packing with Javascript and SVG — the Kusama Way](https://dev.to/madsstoumann/circle-packing-with-javascript-and-svg-the-kusama-way-b59)
@@ -42,13 +45,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 7 AI Open Source Projects to Contribute to in 2023 ⭐](https://dev.to/thenomadevel/top-7-ai-open-source-projects-to-contribute-to-in-2023-3ff5)
 - [Lifehacker] [Use a Screwdriver, and Other Ways to Not Overwater Your Lawn This Summer](https://lifehacker.com/use-a-screwdriver-and-other-ways-keep-from-overwaterin-1847033541)
 - [Lifehacker] [Where to Watch &#39;Good Omens&#39; Season 2 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-good-omens-season-2-and-what-you-should-1850654006)
-- [Dev.to/JS] [Good bye and thanks to &quot;typescript-is&quot; &lpar;ancestor of &quot;typia&quot;, 20,000x faster validator&rpar;](https://dev.to/samchon/good-bye-typescript-is-ancestor-of-typia-20000x-faster-validator-49fi)
 - [Lifehacker] [The Best Way to Treat &lpar;and Prevent&rpar; Post-Run Chafing](https://lifehacker.com/treat-post-run-chafing-with-diaper-cream-1724603461)
-- [Dev.to/JS] [Debugging Node.js Server Code Like a Pro: A Step-by-Step Guide](https://dev.to/mrrishimeena/debugging-nodejs-server-code-like-a-pro-a-step-by-step-guide-4p99)
 - [Lifehacker] [You Can Get 18 Bottles of Splash Wine for $70](https://lifehacker.com/you-can-get-18-bottles-of-splash-wine-for-70-1850653364)
 - [Lifehacker] [Make Piping Hot Arepas With Four Ingredients](https://lifehacker.com/make-piping-hot-arepas-with-four-ingredients-1850664222)
 - [Lifehacker] [Peel Tomatoes Faster by Torching Them on a Gas Stove](https://lifehacker.com/quickly-peel-tomatoes-by-torching-them-on-a-gas-stoveto-1787462339)
-- [Dev.to/JS] [React Hooks - useEffect&lpar;&rpar;](https://dev.to/phanimurari/react-hooks-useeffect-56m1)
 - [Lifehacker] [How to Spot a Job Offer Scam Written by AI](https://lifehacker.com/how-to-spot-a-job-offer-scam-written-by-ai-1850664352)
 - [Lifehacker] [The Best Ways to Repair a Cracked Sink](https://lifehacker.com/the-best-ways-to-repair-a-cracked-sink-1850664147)
 - [Lifehacker] [You Should Put Pickled Corn on Everything](https://lifehacker.com/you-should-put-pickled-corn-on-everything-1827544519)
