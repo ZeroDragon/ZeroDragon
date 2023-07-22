@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 30 JavaScript Snippets To Boost Your Productivity](https://dev.to/yeeshadev/top-30-javascript-snippets-to-boost-your-productivity-3560)
+- [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
 - [Lifehacker] [You&#39;ll Need a &#39;Visa&#39; for Europe Soon](https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413)
 - [Dev.to/JS] [How to manipulate CSS classes with JavaScript ?](https://dev.to/jacknorman235/how-to-manipulate-css-classes-with-javascript--42jl)
 - [Dev.to/JS] [An introduction to documenting code](https://dev.to/lausuarez02/an-introduction-to-documenting-code-1jjc)
@@ -39,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Autoplay YouTube embed with sound](https://dev.to/bartick/autoplay-youtube-embed-with-sound-383g)
 - [Dev.to/JS] [Apply the Dependency Inversion Principle in React](https://dev.to/mohammadfaisal/apply-the-dependency-inversion-principle-in-react-1cao)
 - [Dev.to/JS] [Advanced JavaScript Concepts: Functional Programming, Inheritance, Memory Management, and Performance Optimization](https://dev.to/kafeel_ahmad/advanced-javascript-concepts-functional-programming-inheritance-memory-management-and-performance-optimization-12k8)
-- [Dev.to/JS] [JavaScript Design Patterns: Enhancing Code Structure and Reusability](https://dev.to/kafeel_ahmad/javascript-design-patterns-enhancing-code-structure-and-reusability-3ah9)
 - [Lifehacker] [TikTok Myth of the Week: Borax Is Good to Drink](https://lifehacker.com/tiktok-myth-of-the-week-borax-is-good-to-drink-1850665604)
 - [Lifehacker] [These Movie Theaters Have the Best Summer Ticket Deals](https://lifehacker.com/these-movie-theaters-have-the-best-summer-ticket-deals-1850665566)
 - [Lifehacker] [How to Inflate an Air Mattress With a Vacuum Cleaner, Trash Bag, Hair Dryer, and More](https://lifehacker.com/inflate-an-air-mattress-with-a-vacuum-cleaner-5862845)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is Skibidi Toilet?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-s-1850662263)
 - [Lifehacker] [Sorry, but You’ll Never Win the Powerball](https://lifehacker.com/winning-the-powerball-lottery-won-t-solve-your-problems-1752378740)
 - [Lifehacker] [How to Have Great Sex Outside &lpar;Safely&rpar;](https://lifehacker.com/how-to-have-great-safe-sex-outside-1850662137)
-- [Lifehacker] [Avoid This Travel Agency Scam](https://lifehacker.com/avoid-this-travel-agency-scam-1850662037)
-- [Lifehacker] [You Should Hull Your Strawberries With a Reusable Straw](https://lifehacker.com/you-should-hull-your-strawberries-with-a-reusable-straw-1850661962)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Avoid This Travel Agency Scam](https://lifehacker.com/avoid-this-travel-agency-scam-1850662037)<!-- TECH-POSTS:END -->
 
 ---
 
