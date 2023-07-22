@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ReactJS Coding and TechTalking, come join :D](https://dev.to/arthursmuller/reactjs-coding-and-techtalking-come-join-d-2al1)
 - [Lifehacker] [TikTok Myth of the Week: Borax Is Good to Drink](https://lifehacker.com/tiktok-myth-of-the-week-borax-is-good-to-drink-1850665604)
 - [Lifehacker] [These Movie Theaters Have the Best Summer Ticket Deals](https://lifehacker.com/these-movie-theaters-have-the-best-summer-ticket-deals-1850665566)
 - [Lifehacker] [How to Inflate an Air Mattress With a Vacuum Cleaner, Trash Bag, Hair Dryer, and More](https://lifehacker.com/inflate-an-air-mattress-with-a-vacuum-cleaner-5862845)
@@ -62,7 +63,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Have Great Sex Outside &lpar;Safely&rpar;](https://lifehacker.com/how-to-have-great-safe-sex-outside-1850662137)
 - [Dev.to/JS] [6 Types of Intelligent Agents in AI](https://dev.to/hirendhaduk_/6-types-of-intelligent-agents-in-ai-1ac3)
 - [Lifehacker] [Avoid This Travel Agency Scam](https://lifehacker.com/avoid-this-travel-agency-scam-1850662037)
-- [Dev.to/JS] [The Best Free# Deploying Your React Application: 8 Free Hosting Services to Consider](https://dev.to/idurar/the-best-free-deploying-your-react-application-8-free-hosting-services-to-consider-df3)
 - [Lifehacker] [You Should Hull Your Strawberries With a Reusable Straw](https://lifehacker.com/you-should-hull-your-strawberries-with-a-reusable-straw-1850661962)
 - [Lifehacker] [You Can DIY Better &lpar;and Prettier&rpar; Grow Lamps](https://lifehacker.com/you-can-diy-better-and-prettier-grow-lamps-1850656587)
 - [Lifehacker] [Everything You Should Know About Your Baby’s Birth Certificate](https://lifehacker.com/everything-you-should-know-about-your-baby-s-birth-cert-1850659820)<!-- TECH-POSTS:END -->
