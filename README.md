@@ -26,8 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Zustand vs Redux: Choosing the Right State Management Library for Your React App](https://dev.to/idurar/zustand-vs-redux-choosing-the-right-state-management-library-for-your-react-app-2255)
+- [Lifehacker] [6 Signs of Heat Stress in Plants](https://lifehacker.com/6-signs-of-heat-stress-in-plants-1850665461)
+- [Dev.to/JS] [What is Execution Context | Execution Context in JS](https://dev.to/diwakarkashyap/what-is-execution-context-execution-context-in-js-4gn1)
 - [Dev.to/JS] [Understanding async/await in JavaScript](https://dev.to/adii/understanding-asyncawait-in-javascript-15c0)
-- [Dev.to/JS] [.Net serialze json](https://dev.to/kenanhomework/harry-1bll)
 - [Dev.to/JS] [Autoplay YouTube embed with sound](https://dev.to/bartick/autoplay-youtube-embed-with-sound-383g)
 - [Dev.to/JS] [Apply the Dependency Inversion Principle in React](https://dev.to/mohammadfaisal/apply-the-dependency-inversion-principle-in-react-1cao)
 - [Dev.to/JS] [Advanced JavaScript Concepts: Functional Programming, Inheritance, Memory Management, and Performance Optimization](https://dev.to/kafeel_ahmad/advanced-javascript-concepts-functional-programming-inheritance-memory-management-and-performance-optimization-12k8)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript DOM Manipulation: A Comprehensive Guide](https://dev.to/kafeel_ahmad/javascript-dom-manipulation-a-comprehensive-guide-3abe)
 - [Dev.to/JS] [JavaScript Arrays and Iteration: Exploring Methods, Patterns, and Use Cases](https://dev.to/kafeel_ahmad/javascript-arrays-and-iteration-exploring-methods-patterns-and-use-cases-1ln4)
 - [Dev.to/JS] [Asynchronous JavaScript: Handling Callbacks, Promises, and Async/Await](https://dev.to/kafeel_ahmad/asynchronous-javascript-handling-callbacks-promises-and-asyncawait-4gnb)
-- [Dev.to/JS] [#LearnedToday: React95](https://dev.to/danielzotti/learnedtoday-react95-5f71)
 - [Lifehacker] [TikTok Myth of the Week: Borax Is Good to Drink](https://lifehacker.com/tiktok-myth-of-the-week-borax-is-good-to-drink-1850665604)
 - [Lifehacker] [These Movie Theaters Have the Best Summer Ticket Deals](https://lifehacker.com/these-movie-theaters-have-the-best-summer-ticket-deals-1850665566)
 - [Lifehacker] [How to Inflate an Air Mattress With a Vacuum Cleaner, Trash Bag, Hair Dryer, and More](https://lifehacker.com/inflate-an-air-mattress-with-a-vacuum-cleaner-5862845)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Have Great Sex Outside &lpar;Safely&rpar;](https://lifehacker.com/how-to-have-great-safe-sex-outside-1850662137)
 - [Lifehacker] [Avoid This Travel Agency Scam](https://lifehacker.com/avoid-this-travel-agency-scam-1850662037)
 - [Lifehacker] [You Should Hull Your Strawberries With a Reusable Straw](https://lifehacker.com/you-should-hull-your-strawberries-with-a-reusable-straw-1850661962)
-- [Lifehacker] [You Can DIY Better &lpar;and Prettier&rpar; Grow Lamps](https://lifehacker.com/you-can-diy-better-and-prettier-grow-lamps-1850656587)
-- [Lifehacker] [Everything You Should Know About Your Baby’s Birth Certificate](https://lifehacker.com/everything-you-should-know-about-your-baby-s-birth-cert-1850659820)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can DIY Better &lpar;and Prettier&rpar; Grow Lamps](https://lifehacker.com/you-can-diy-better-and-prettier-grow-lamps-1850656587)<!-- TECH-POSTS:END -->
 
 ---
 
