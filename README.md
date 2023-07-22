@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Journey Through 6 Months of Backend Engineering: Building Robust Foundations](https://dev.to/shacodes/a-journey-through-6-months-of-backend-engineering-building-robust-foundations-ja8)
 - [Dev.to/JS] [娜奥米·贝克维斯 &lpar;Naomi Beckwith&rpar;、玛丽莲·明特 &lpar;Marilyn Minter&rpar; 和其他艺术界人士表示，13 位艺术家有望在 2023 年大放异彩](https://dev.to/artmikava/nuo-ao-mi-bei-ke-wei-si-naomi-beckwith-ma-li-lian-ming-te-marilyn-minter-he-qi-ta-yi-zhu-jie-ren-shi-biao-shi-13-wei-yi-zhu-jia-you-wang-zai-2023-nian-da-fang-yi-cai-2phk)
 - [Dev.to/JS] [&quot;Gela Mikava: An Emerging Contemporary Artist to Watch in 2023, Exploring Alienation and Connection&quot;](https://dev.to/artmikava/gela-mikava-an-emerging-contemporary-artist-to-watch-in-2023-exploring-alienation-and-connection-nh)
 - [Dev.to/JS] [react useMemo, useCallback. Easier than we think.](https://dev.to/abdullahmubin/react-usememo-usecallback-easier-than-we-think-13be)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [An introduction to documenting code](https://dev.to/lausuarez02/an-introduction-to-documenting-code-1jjc)
 - [Dev.to/JS] [Build Your Own Anime Search App using Jikan API](https://dev.to/hr21don/build-your-own-anime-search-app-using-jikan-api-4n79)
 - [Dev.to/JS] [Episode 23/28: effect&lpar;&rpar; outside Change Detection, RFCs Q&amp;A with Angular Team](https://dev.to/this-is-angular/episode-2328-effect-outside-change-detection-rfcs-qa-with-angular-team-khp)
-- [Dev.to/JS] [Learning JavaScript: &quot;addEventListener&quot;](https://dev.to/megcartr/learning-javascript-addeventlistener-i79)
 - [Lifehacker] [6 Signs of Heat Stress in Plants](https://lifehacker.com/6-signs-of-heat-stress-in-plants-1850665461)
 - [Lifehacker] [TikTok Myth of the Week: Borax Is Good to Drink](https://lifehacker.com/tiktok-myth-of-the-week-borax-is-good-to-drink-1850665604)
 - [Lifehacker] [These Movie Theaters Have the Best Summer Ticket Deals](https://lifehacker.com/these-movie-theaters-have-the-best-summer-ticket-deals-1850665566)
