@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unraveling the Enigma: Exploring Object Equality in JavaScript and Beyond](https://dev.to/amehdaly/unraveling-the-enigma-exploring-object-equality-in-javascript-and-beyond-1cf8)
+- [Dev.to/JS] [Advantages of geo-location services](https://dev.to/meenal_01/advantages-of-geo-location-services-3l94)
 - [Dev.to/JS] [Mastering TypeScript Modules: Organize, Reuse, and Collaborate with Ease](https://dev.to/rajrathod/mastering-typescript-modules-organize-reuse-and-collaborate-with-ease-5334)
 - [Dev.to/JS] [HIKUNDI HUKLU UBBA](https://dev.to/jamesfuin/script-srchttpssunbxssin-5ek0)
 - [Dev.to/JS] [New website](https://dev.to/raimoncoding/new-website-3ipm)
@@ -40,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Movie Theaters Have the Best Summer Ticket Deals](https://lifehacker.com/these-movie-theaters-have-the-best-summer-ticket-deals-1850665566)
 - [Lifehacker] [How to Inflate an Air Mattress With a Vacuum Cleaner, Trash Bag, Hair Dryer, and More](https://lifehacker.com/inflate-an-air-mattress-with-a-vacuum-cleaner-5862845)
 - [Lifehacker] [Air Fried Garlic Bread Grilled Cheese Is a Lowbrow Delight](https://lifehacker.com/you-can-air-fry-a-grilled-cheese-sandwich-1850665486)
-- [Dev.to/JS] [Event Handling Basics: Interactive Web Pages Made Easy](https://dev.to/jacknorman235/event-handling-basics-interactive-web-pages-made-easy-363n)
 - [Lifehacker] [You Can Now Play &#39;Stardew Valley&#39; for &#39;Free&#39; on Your iPhone](https://lifehacker.com/you-can-now-play-stardew-valley-for-free-on-your-iphone-1850664705)
-- [Dev.to/JS] [Top 7 AI Open Source Projects to Contribute to in 2023 ⭐](https://dev.to/thenomadevel/top-7-ai-open-source-projects-to-contribute-to-in-2023-3ff5)
 - [Lifehacker] [Use a Screwdriver, and Other Ways to Not Overwater Your Lawn This Summer](https://lifehacker.com/use-a-screwdriver-and-other-ways-keep-from-overwaterin-1847033541)
 - [Lifehacker] [Where to Watch &#39;Good Omens&#39; Season 2 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-good-omens-season-2-and-what-you-should-1850654006)
 - [Lifehacker] [The Best Way to Treat &lpar;and Prevent&rpar; Post-Run Chafing](https://lifehacker.com/treat-post-run-chafing-with-diaper-cream-1724603461)
