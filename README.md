@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unveiling the Power of Cypress for End-to-End Testing.&quot;](https://dev.to/kailashpathak7/unveiling-the-power-of-cypress-for-end-to-end-testing-578k)
 - [Dev.to/JS] [Create a Dark/Light Mode Toggle using JavaScript &amp; LocalStorage 💫](https://dev.to/quicksilversel/create-a-darklight-mode-toggle-using-javascript-localstorage-55fd)
 - [Dev.to/JS] [How to Add &quot;Install App&quot; Option to Your Website: Progressive Web Apps](https://dev.to/sh20raj/how-to-add-install-app-option-to-your-website-progressive-web-apps-4ff3)
 - [Dev.to/JS] [How to Add &quot;Install App&quot; Option to Your Website Without Hosting: Embracing Progressive Web Apps on Blogger](https://dev.to/sh20raj/how-to-add-install-app-option-to-your-website-without-hosting-embracing-progressive-web-apps-on-blogger-4bod)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Playwright with external/existing Chrome](https://dev.to/sonyarianto/how-to-use-playwright-with-externalexisting-chrome-4nf1)
 - [Dev.to/JS] [Octos - HTML live wallpaper engine](https://dev.to/underpig1/octos-html-live-wallpaper-engine-49kp)
 - [Dev.to/JS] [How to Manage browser windows and tabs with JavaScript &lpar; Sport website example&rpar; ?](https://dev.to/jacknorman235/how-to-manage-browser-windows-and-tabs-with-javascript--2ik0)
-- [Dev.to/JS] [Top 30 JavaScript Snippets To Boost Your Productivity](https://dev.to/yeeshadev/top-30-javascript-snippets-to-boost-your-productivity-3560)
 - [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
 - [Lifehacker] [You&#39;ll Need a &#39;Visa&#39; for Europe Soon](https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413)
 - [Lifehacker] [6 Signs of Heat Stress in Plants](https://lifehacker.com/6-signs-of-heat-stress-in-plants-1850665461)
