@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Practices for writing clean and maintainable Javascript code](https://dev.to/lionnelt/best-practices-for-writing-clean-and-maintainable-javascript-code-367c)
+- [Dev.to/JS] [Tips and tricks for debugging Javascript code](https://dev.to/lionnelt/tips-and-tricks-for-debugging-javascript-code-4ef8)
 - [Dev.to/JS] [TypeScript with Go/Rust errors? No try/catch? Heresy.](https://dev.to/mpiorowski/typescript-with-gorust-errors-no-trycatch-heresy-49mf)
 - [Dev.to/JS] [Quo vadis, web development?](https://dev.to/highasthedn/quo-vadis-web-development-41ik)
 - [Dev.to/JS] [Overview of JavaScript Form Validation for Sports Event Registration](https://dev.to/jacknorman235/overview-of-javascript-form-validation-for-sports-event-registration-57g8)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Yet Another Newsletter LOL: Kind Words](https://dev.to/nickytonline/yet-another-newsletter-lol-kind-words-oj9)
 - [Dev.to/JS] [Time Picker Module in Vanilla JS](https://dev.to/katheesh/time-picker-module-in-vanilla-js-558i)
 - [Dev.to/JS] [How to convert an array of objects to directories alike.](https://dev.to/melvinvmegen/how-to-convert-an-array-of-objects-to-directories-alike-2775)
-- [Dev.to/JS] [Unlocking the Power of PyScript: A Guide to Running Python Code in Your HTML](https://dev.to/scofieldidehen/unlocking-the-power-of-pyscript-a-guide-to-running-python-code-in-your-html-2376)
-- [Dev.to/JS] [How Contributing to Open Source Projects Can Help You Land Your Dream Job](https://dev.to/idurar/how-contributing-to-open-source-projects-can-help-you-land-your-dream-job-18ca)
 - [Lifehacker] [Avoid These Beaches With Too Much Poop](https://lifehacker.com/avoid-these-beaches-with-too-much-poop-1850665109)
 - [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
 - [Lifehacker] [You&#39;ll Need a &#39;Visa&#39; for Europe Soon](https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413)
