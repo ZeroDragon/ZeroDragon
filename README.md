@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TypeScript with Go/Rust errors? No try/catch? Heresy.](https://dev.to/mpiorowski/typescript-with-gorust-errors-no-trycatch-heresy-49mf)
 - [Dev.to/JS] [Quo vadis, web development?](https://dev.to/highasthedn/quo-vadis-web-development-41ik)
 - [Dev.to/JS] [Overview of JavaScript Form Validation for Sports Event Registration](https://dev.to/jacknorman235/overview-of-javascript-form-validation-for-sports-event-registration-57g8)
 - [Dev.to/JS] [react useContext. Easier than we think.](https://dev.to/abdullahmubin/react-usecontext-easier-than-we-think-3cpc)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlocking the Power of PyScript: A Guide to Running Python Code in Your HTML](https://dev.to/scofieldidehen/unlocking-the-power-of-pyscript-a-guide-to-running-python-code-in-your-html-2376)
 - [Dev.to/JS] [How Contributing to Open Source Projects Can Help You Land Your Dream Job](https://dev.to/idurar/how-contributing-to-open-source-projects-can-help-you-land-your-dream-job-18ca)
 - [Lifehacker] [Avoid These Beaches With Too Much Poop](https://lifehacker.com/avoid-these-beaches-with-too-much-poop-1850665109)
-- [Dev.to/JS] [Form Handling in Web Development: Enhancing User Experience and Data Integrity](https://dev.to/jacknorman235/form-handling-in-web-development-enhancing-user-experience-and-data-integrity-2enp)
 - [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
 - [Lifehacker] [You&#39;ll Need a &#39;Visa&#39; for Europe Soon](https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413)
 - [Lifehacker] [Six Signs of Heat Stress in Plants](https://lifehacker.com/6-signs-of-heat-stress-in-plants-1850665461)
