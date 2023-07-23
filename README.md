@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create your own styled-icons set](https://dev.to/storytellercz/create-your-own-styled-icons-set-10go)
+- [Dev.to/JS] [My Journey with Next.js](https://dev.to/sadeedpv/my-journey-with-nextjs-6og)
 - [Dev.to/JS] [Arquitectura limpia en el front](https://dev.to/raguilera82/arquitectura-limpia-en-el-front-31hd)
 - [Dev.to/JS] [MERN Stack Web Development: A Detailed Overview For Beginners](https://dev.to/bullpointer/mern-stack-web-development-a-detailed-overview-for-beginners-1po1)
 - [Dev.to/JS] [10 React Hooks And How To Use Them.](https://dev.to/nzubechukwu_okere/10-react-hooks-and-how-to-use-them-5im)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Emerging Contemporary Artist to Watch in 2023 Gela Mikava](https://dev.to/artmikava/emerging-contemporary-artist-to-watch-in-2023-gela-mikava-3h98)
 - [Dev.to/JS] [Emerging Artist Who Will Shape the Contemporary Art World](https://dev.to/artmikava/emerging-artist-who-will-shape-the-contemporary-art-world-hoc)
 - [Dev.to/JS] [Unleashing the Power of AI: Journey into the Enchanting World of AI Toolhouse!](https://dev.to/rishabh062/unleashing-the-power-of-ai-journey-into-the-enchanting-world-of-ai-toolhouse-2cal)
-- [Dev.to/JS] [How to Solve hCaptcha using CapSolver and Node.js](https://dev.to/devland/how-to-solve-hcaptcha-using-capsolver-and-nodejs-2hnk)
-- [Dev.to/JS] [Create a Calculator Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/create-a-calculator-using-html-css-and-javascript-4den)
 - [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
 - [Lifehacker] [You&#39;ll Need a &#39;Visa&#39; for Europe Soon](https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413)
 - [Lifehacker] [6 Signs of Heat Stress in Plants](https://lifehacker.com/6-signs-of-heat-stress-in-plants-1850665461)
