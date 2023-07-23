@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Clean Code 101: Variable Naming Conventions - Part 1](https://dev.to/mohitsinghchauhan/clean-code-101-variable-naming-conventions-part-1-1c1a)
+- [Dev.to/JS] [Embarking on the Frontend Development Journey in 2023](https://dev.to/wizarddeveloper/embarking-on-the-frontend-development-journey-in-2023-39am)
 - [Dev.to/JS] [Best Practices for writing clean and maintainable Javascript code](https://dev.to/lionnelt/best-practices-for-writing-clean-and-maintainable-javascript-code-367c)
 - [Dev.to/JS] [Tips and tricks for debugging Javascript code](https://dev.to/lionnelt/tips-and-tricks-for-debugging-javascript-code-4ef8)
 - [Dev.to/JS] [TypeScript with Go/Rust errors? No try/catch? Heresy.](https://dev.to/mpiorowski/typescript-with-gorust-errors-no-trycatch-heresy-49mf)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Remove the duplicates in-place such that each unique element appears only once](https://dev.to/chandrapenugonda/remove-the-duplicates-in-place-such-that-each-unique-element-appears-only-once-4e05)
 - [Lifehacker] [The Most Effective Way to Remove Stubborn Stains From Plastic Patio Furniture](https://lifehacker.com/the-most-effective-way-to-remove-stubborn-stains-from-p-1850665156)
 - [Dev.to/JS] [Yet Another Newsletter LOL: Kind Words](https://dev.to/nickytonline/yet-another-newsletter-lol-kind-words-oj9)
-- [Dev.to/JS] [Time Picker Module in Vanilla JS](https://dev.to/katheesh/time-picker-module-in-vanilla-js-558i)
-- [Dev.to/JS] [How to convert an array of objects to directories alike.](https://dev.to/melvinvmegen/how-to-convert-an-array-of-objects-to-directories-alike-2775)
 - [Lifehacker] [Avoid These Beaches With Too Much Poop](https://lifehacker.com/avoid-these-beaches-with-too-much-poop-1850665109)
 - [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
 - [Lifehacker] [You&#39;ll Need a &#39;Visa&#39; for Europe Soon](https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413)
