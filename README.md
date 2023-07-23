@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a Dark/Light Mode Toggle using JavaScript &amp; LocalStorage 💫](https://dev.to/quicksilversel/create-a-darklight-mode-toggle-using-javascript-localstorage-55fd)
 - [Dev.to/JS] [How to Add &quot;Install App&quot; Option to Your Website: Progressive Web Apps](https://dev.to/sh20raj/how-to-add-install-app-option-to-your-website-progressive-web-apps-4ff3)
 - [Dev.to/JS] [How to Add &quot;Install App&quot; Option to Your Website Without Hosting: Embracing Progressive Web Apps on Blogger](https://dev.to/sh20raj/how-to-add-install-app-option-to-your-website-without-hosting-embracing-progressive-web-apps-on-blogger-4bod)
 - [Dev.to/JS] [📦~Flexbox~📦 {&quot;Java&quot;,&quot;HTML&quot;,&quot;CSS&quot;}](https://dev.to/vikran7_pa7el_/flexbox-javahtmlcss-4hfm)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 30 JavaScript Snippets To Boost Your Productivity](https://dev.to/yeeshadev/top-30-javascript-snippets-to-boost-your-productivity-3560)
 - [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
 - [Lifehacker] [You&#39;ll Need a &#39;Visa&#39; for Europe Soon](https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413)
-- [Dev.to/JS] [How to manipulate CSS classes with JavaScript ?](https://dev.to/jacknorman235/how-to-manipulate-css-classes-with-javascript--42jl)
 - [Lifehacker] [6 Signs of Heat Stress in Plants](https://lifehacker.com/6-signs-of-heat-stress-in-plants-1850665461)
 - [Lifehacker] [TikTok Myth of the Week: Borax Is Good to Drink](https://lifehacker.com/tiktok-myth-of-the-week-borax-is-good-to-drink-1850665604)
 - [Lifehacker] [These Movie Theaters Have the Best Summer Ticket Deals](https://lifehacker.com/these-movie-theaters-have-the-best-summer-ticket-deals-1850665566)
