@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [react useContext. Easier than we think.](https://dev.to/abdullahmubin/react-usecontext-easier-than-we-think-3cpc)
+- [Dev.to/JS] [Would anyone be interested in a simple Lists App?](https://dev.to/c5h8nnao4/would-anyone-be-interested-in-a-simple-lists-app-16d3)
+- [Lifehacker] [Three Signs That Your Job Flexibility Is a Lie](https://lifehacker.com/three-signs-that-your-job-flexibility-is-a-lie-1850665189)
 - [Dev.to/JS] [Javascript polyfill implement Array.prototype.findLast&lpar;&rpar;](https://dev.to/chandrapenugonda/javascript-polyfill-implement-arrayprototypefindlast-3pf7)
 - [Dev.to/JS] [Remove the duplicates in-place such that each unique element appears only once](https://dev.to/chandrapenugonda/remove-the-duplicates-in-place-such-that-each-unique-element-appears-only-once-4e05)
 - [Lifehacker] [The Most Effective Way to Remove Stubborn Stains From Plastic Patio Furniture](https://lifehacker.com/the-most-effective-way-to-remove-stubborn-stains-from-p-1850665156)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Form Handling in Web Development: Enhancing User Experience and Data Integrity](https://dev.to/jacknorman235/form-handling-in-web-development-enhancing-user-experience-and-data-integrity-2enp)
 - [Dev.to/JS] [Webflow 网站开发](https://dev.to/nico1988/webflow-wang-zhan-kai-fa-4hfl)
 - [Dev.to/JS] [Javascript Display Excel In HTML Table](https://dev.to/codeboxx/javascript-display-excel-in-html-table-37if)
-- [Dev.to/JS] [JavaScript frameworks](https://dev.to/ameya/javascript-frameworks-4jd0)
-- [Dev.to/JS] [Object-Oriented Programming &lpar;OOP&rpar; in JavaScript](https://dev.to/diwakarkashyap/object-oriented-programming-oop-in-javascript-cfm)
 - [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
 - [Lifehacker] [You&#39;ll Need a &#39;Visa&#39; for Europe Soon](https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413)
 - [Lifehacker] [Six Signs of Heat Stress in Plants](https://lifehacker.com/6-signs-of-heat-stress-in-plants-1850665461)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Legal and Financial Consequences of Living With Your Ex](https://lifehacker.com/the-legal-and-financial-consequences-of-living-with-you-1850662145)
 - [Lifehacker] [This CompTIA Certification Training Is $50 Right Now](https://lifehacker.com/this-comptia-certification-training-is-50-right-now-1850653306)
 - [Lifehacker] [13 Hit TV Series No One Saw Coming](https://lifehacker.com/11-hit-tv-series-no-one-saw-coming-1849843144)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is Skibidi Toilet?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-s-1850662263)
-- [Lifehacker] [Sorry, but You’ll Never Win the Powerball](https://lifehacker.com/winning-the-powerball-lottery-won-t-solve-your-problems-1752378740)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is Skibidi Toilet?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-s-1850662263)<!-- TECH-POSTS:END -->
 
 ---
 
