@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Avoid These Beaches With Too Much Poop](https://lifehacker.com/avoid-these-beaches-with-too-much-poop-1850665109)
+- [Dev.to/JS] [Form Handling in Web Development: Enhancing User Experience and Data Integrity](https://dev.to/jacknorman235/form-handling-in-web-development-enhancing-user-experience-and-data-integrity-2enp)
+- [Dev.to/JS] [Webflow 网站开发](https://dev.to/nico1988/webflow-wang-zhan-kai-fa-4hfl)
+- [Dev.to/JS] [Javascript Display Excel In HTML Table](https://dev.to/codeboxx/javascript-display-excel-in-html-table-37if)
+- [Dev.to/JS] [JavaScript frameworks](https://dev.to/ameya/javascript-frameworks-4jd0)
 - [Dev.to/JS] [Object-Oriented Programming &lpar;OOP&rpar; in JavaScript](https://dev.to/diwakarkashyap/object-oriented-programming-oop-in-javascript-cfm)
 - [Dev.to/JS] [Best VS Code extension for React Js](https://dev.to/devsahil/best-vs-code-extension-for-react-js-2c2)
 - [Dev.to/JS] [Var, Let, Const in JavaScript](https://dev.to/ramon2garcia8/var-let-const-in-javascript-2jdc)
@@ -34,13 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create your own styled-icons set](https://dev.to/storytellercz/create-your-own-styled-icons-set-10go)
 - [Dev.to/JS] [My Journey with Next.js](https://dev.to/sadeedpv/my-journey-with-nextjs-6og)
 - [Dev.to/JS] [Arquitectura limpia en el front](https://dev.to/raguilera82/arquitectura-limpia-en-el-front-31hd)
-- [Dev.to/JS] [MERN Stack Web Development: A Detailed Overview For Beginners](https://dev.to/bullpointer/mern-stack-web-development-a-detailed-overview-for-beginners-1po1)
-- [Dev.to/JS] [10 React Hooks And How To Use Them.](https://dev.to/nzubechukwu_okere/10-react-hooks-and-how-to-use-them-5im)
-- [Dev.to/JS] [#LearnedToday: Regexper](https://dev.to/danielzotti/learnedtoday-regexper-2d3)
-- [Dev.to/JS] [How to Create An OTP Input Box in React/Next.js](https://dev.to/ugorji_simon/how-to-create-an-otp-input-box-in-reactnextjs-89a)
 - [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
 - [Lifehacker] [You&#39;ll Need a &#39;Visa&#39; for Europe Soon](https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413)
-- [Lifehacker] [6 Signs of Heat Stress in Plants](https://lifehacker.com/6-signs-of-heat-stress-in-plants-1850665461)
+- [Lifehacker] [Six Signs of Heat Stress in Plants](https://lifehacker.com/6-signs-of-heat-stress-in-plants-1850665461)
 - [Lifehacker] [TikTok Myth of the Week: Borax Is Good to Drink](https://lifehacker.com/tiktok-myth-of-the-week-borax-is-good-to-drink-1850665604)
 - [Lifehacker] [These Movie Theaters Have the Best Summer Ticket Deals](https://lifehacker.com/these-movie-theaters-have-the-best-summer-ticket-deals-1850665566)
 - [Lifehacker] [How to Inflate an Air Mattress With a Vacuum Cleaner, Trash Bag, Hair Dryer, and More](https://lifehacker.com/inflate-an-air-mattress-with-a-vacuum-cleaner-5862845)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 Hit TV Series No One Saw Coming](https://lifehacker.com/11-hit-tv-series-no-one-saw-coming-1849843144)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is Skibidi Toilet?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-s-1850662263)
 - [Lifehacker] [Sorry, but You’ll Never Win the Powerball](https://lifehacker.com/winning-the-powerball-lottery-won-t-solve-your-problems-1752378740)
-- [Lifehacker] [How to Have Great Sex Outside &lpar;Safely&rpar;](https://lifehacker.com/how-to-have-great-safe-sex-outside-1850662137)
-- [Lifehacker] [Avoid This Travel Agency Scam](https://lifehacker.com/avoid-this-travel-agency-scam-1850662037)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Have Great Sex Outside &lpar;Safely&rpar;](https://lifehacker.com/how-to-have-great-safe-sex-outside-1850662137)<!-- TECH-POSTS:END -->
 
 ---
 
