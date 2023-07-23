@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Add &quot;Install App&quot; Option to Your Website: Progressive Web Apps](https://dev.to/sh20raj/how-to-add-install-app-option-to-your-website-progressive-web-apps-4ff3)
+- [Dev.to/JS] [How to Add &quot;Install App&quot; Option to Your Website Without Hosting: Embracing Progressive Web Apps on Blogger](https://dev.to/sh20raj/how-to-add-install-app-option-to-your-website-without-hosting-embracing-progressive-web-apps-on-blogger-4bod)
 - [Dev.to/JS] [📦~Flexbox~📦 {&quot;Java&quot;,&quot;HTML&quot;,&quot;CSS&quot;}](https://dev.to/vikran7_pa7el_/flexbox-javahtmlcss-4hfm)
 - [Dev.to/JS] [A Journey Through 6 Months of Backend Engineering: Building Robust Foundations](https://dev.to/shacodes/a-journey-through-6-months-of-backend-engineering-building-robust-foundations-ja8)
 - [Dev.to/JS] [娜奥米·贝克维斯 &lpar;Naomi Beckwith&rpar;、玛丽莲·明特 &lpar;Marilyn Minter&rpar; 和其他艺术界人士表示，13 位艺术家有望在 2023 年大放异彩](https://dev.to/artmikava/nuo-ao-mi-bei-ke-wei-si-naomi-beckwith-ma-li-lian-ming-te-marilyn-minter-he-qi-ta-yi-zhu-jie-ren-shi-biao-shi-13-wei-yi-zhu-jia-you-wang-zai-2023-nian-da-fang-yi-cai-2phk)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
 - [Lifehacker] [You&#39;ll Need a &#39;Visa&#39; for Europe Soon](https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413)
 - [Dev.to/JS] [How to manipulate CSS classes with JavaScript ?](https://dev.to/jacknorman235/how-to-manipulate-css-classes-with-javascript--42jl)
-- [Dev.to/JS] [An introduction to documenting code](https://dev.to/lausuarez02/an-introduction-to-documenting-code-1jjc)
-- [Dev.to/JS] [Build Your Own Anime Search App using Jikan API](https://dev.to/hr21don/build-your-own-anime-search-app-using-jikan-api-4n79)
 - [Lifehacker] [6 Signs of Heat Stress in Plants](https://lifehacker.com/6-signs-of-heat-stress-in-plants-1850665461)
 - [Lifehacker] [TikTok Myth of the Week: Borax Is Good to Drink](https://lifehacker.com/tiktok-myth-of-the-week-borax-is-good-to-drink-1850665604)
 - [Lifehacker] [These Movie Theaters Have the Best Summer Ticket Deals](https://lifehacker.com/these-movie-theaters-have-the-best-summer-ticket-deals-1850665566)
