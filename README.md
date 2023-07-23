@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I built this language learning app](https://dev.to/to_fl/i-built-this-language-learning-app-36f8)
+- [Dev.to/JS] [A Beginner&#39;s Guide to HTML, CSS, and JavaScript](https://dev.to/edankhra/a-beginners-guide-to-html-css-and-javascript-2ofb)
 - [Dev.to/JS] [Clean Code 101: Variable Naming Conventions - Part 1](https://dev.to/mohitsinghchauhan/clean-code-101-variable-naming-conventions-part-1-1c1a)
 - [Dev.to/JS] [Embarking on the Frontend Development Journey in 2023](https://dev.to/wizarddeveloper/embarking-on-the-frontend-development-journey-in-2023-39am)
 - [Dev.to/JS] [Best Practices for writing clean and maintainable Javascript code](https://dev.to/lionnelt/best-practices-for-writing-clean-and-maintainable-javascript-code-367c)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Would anyone be interested in a simple Lists App?](https://dev.to/c5h8nnao4/would-anyone-be-interested-in-a-simple-lists-app-16d3)
 - [Lifehacker] [Three Signs That Your Job Flexibility Is a Lie](https://lifehacker.com/three-signs-that-your-job-flexibility-is-a-lie-1850665189)
 - [Dev.to/JS] [Javascript polyfill implement Array.prototype.findLast&lpar;&rpar;](https://dev.to/chandrapenugonda/javascript-polyfill-implement-arrayprototypefindlast-3pf7)
-- [Dev.to/JS] [Remove the duplicates in-place such that each unique element appears only once](https://dev.to/chandrapenugonda/remove-the-duplicates-in-place-such-that-each-unique-element-appears-only-once-4e05)
 - [Lifehacker] [The Most Effective Way to Remove Stubborn Stains From Plastic Patio Furniture](https://lifehacker.com/the-most-effective-way-to-remove-stubborn-stains-from-p-1850665156)
-- [Dev.to/JS] [Yet Another Newsletter LOL: Kind Words](https://dev.to/nickytonline/yet-another-newsletter-lol-kind-words-oj9)
 - [Lifehacker] [Avoid These Beaches With Too Much Poop](https://lifehacker.com/avoid-these-beaches-with-too-much-poop-1850665109)
 - [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
 - [Lifehacker] [You&#39;ll Need a &#39;Visa&#39; for Europe Soon](https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413)
