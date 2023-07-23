@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quo vadis, web development?](https://dev.to/highasthedn/quo-vadis-web-development-41ik)
+- [Dev.to/JS] [Overview of JavaScript Form Validation for Sports Event Registration](https://dev.to/jacknorman235/overview-of-javascript-form-validation-for-sports-event-registration-57g8)
 - [Dev.to/JS] [react useContext. Easier than we think.](https://dev.to/abdullahmubin/react-usecontext-easier-than-we-think-3cpc)
 - [Dev.to/JS] [Would anyone be interested in a simple Lists App?](https://dev.to/c5h8nnao4/would-anyone-be-interested-in-a-simple-lists-app-16d3)
 - [Lifehacker] [Three Signs That Your Job Flexibility Is a Lie](https://lifehacker.com/three-signs-that-your-job-flexibility-is-a-lie-1850665189)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Contributing to Open Source Projects Can Help You Land Your Dream Job](https://dev.to/idurar/how-contributing-to-open-source-projects-can-help-you-land-your-dream-job-18ca)
 - [Lifehacker] [Avoid These Beaches With Too Much Poop](https://lifehacker.com/avoid-these-beaches-with-too-much-poop-1850665109)
 - [Dev.to/JS] [Form Handling in Web Development: Enhancing User Experience and Data Integrity](https://dev.to/jacknorman235/form-handling-in-web-development-enhancing-user-experience-and-data-integrity-2enp)
-- [Dev.to/JS] [Webflow 网站开发](https://dev.to/nico1988/webflow-wang-zhan-kai-fa-4hfl)
-- [Dev.to/JS] [Javascript Display Excel In HTML Table](https://dev.to/codeboxx/javascript-display-excel-in-html-table-37if)
 - [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
 - [Lifehacker] [You&#39;ll Need a &#39;Visa&#39; for Europe Soon](https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413)
 - [Lifehacker] [Six Signs of Heat Stress in Plants](https://lifehacker.com/6-signs-of-heat-stress-in-plants-1850665461)
