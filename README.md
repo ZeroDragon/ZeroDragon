@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript polyfill implement Array.prototype.findLast&lpar;&rpar;](https://dev.to/chandrapenugonda/javascript-polyfill-implement-arrayprototypefindlast-3pf7)
+- [Dev.to/JS] [Remove the duplicates in-place such that each unique element appears only once](https://dev.to/chandrapenugonda/remove-the-duplicates-in-place-such-that-each-unique-element-appears-only-once-4e05)
 - [Lifehacker] [The Most Effective Way to Remove Stubborn Stains From Plastic Patio Furniture](https://lifehacker.com/the-most-effective-way-to-remove-stubborn-stains-from-p-1850665156)
 - [Dev.to/JS] [Yet Another Newsletter LOL: Kind Words](https://dev.to/nickytonline/yet-another-newsletter-lol-kind-words-oj9)
 - [Dev.to/JS] [Time Picker Module in Vanilla JS](https://dev.to/katheesh/time-picker-module-in-vanilla-js-558i)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Display Excel In HTML Table](https://dev.to/codeboxx/javascript-display-excel-in-html-table-37if)
 - [Dev.to/JS] [JavaScript frameworks](https://dev.to/ameya/javascript-frameworks-4jd0)
 - [Dev.to/JS] [Object-Oriented Programming &lpar;OOP&rpar; in JavaScript](https://dev.to/diwakarkashyap/object-oriented-programming-oop-in-javascript-cfm)
-- [Dev.to/JS] [Best VS Code extension for React Js](https://dev.to/devsahil/best-vs-code-extension-for-react-js-2c2)
-- [Dev.to/JS] [Var, Let, Const in JavaScript](https://dev.to/ramon2garcia8/var-let-const-in-javascript-2jdc)
 - [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
 - [Lifehacker] [You&#39;ll Need a &#39;Visa&#39; for Europe Soon](https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413)
 - [Lifehacker] [Six Signs of Heat Stress in Plants](https://lifehacker.com/6-signs-of-heat-stress-in-plants-1850665461)
