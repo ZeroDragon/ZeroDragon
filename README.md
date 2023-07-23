@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Most Effective Way to Remove Stubborn Stains From Plastic Patio Furniture](https://lifehacker.com/the-most-effective-way-to-remove-stubborn-stains-from-p-1850665156)
+- [Dev.to/JS] [Yet Another Newsletter LOL: Kind Words](https://dev.to/nickytonline/yet-another-newsletter-lol-kind-words-oj9)
+- [Dev.to/JS] [Time Picker Module in Vanilla JS](https://dev.to/katheesh/time-picker-module-in-vanilla-js-558i)
 - [Dev.to/JS] [How to convert an array of objects to directories alike.](https://dev.to/melvinvmegen/how-to-convert-an-array-of-objects-to-directories-alike-2775)
 - [Dev.to/JS] [Unlocking the Power of PyScript: A Guide to Running Python Code in Your HTML](https://dev.to/scofieldidehen/unlocking-the-power-of-pyscript-a-guide-to-running-python-code-in-your-html-2376)
 - [Dev.to/JS] [How Contributing to Open Source Projects Can Help You Land Your Dream Job](https://dev.to/idurar/how-contributing-to-open-source-projects-can-help-you-land-your-dream-job-18ca)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Object-Oriented Programming &lpar;OOP&rpar; in JavaScript](https://dev.to/diwakarkashyap/object-oriented-programming-oop-in-javascript-cfm)
 - [Dev.to/JS] [Best VS Code extension for React Js](https://dev.to/devsahil/best-vs-code-extension-for-react-js-2c2)
 - [Dev.to/JS] [Var, Let, Const in JavaScript](https://dev.to/ramon2garcia8/var-let-const-in-javascript-2jdc)
-- [Dev.to/JS] [How To Create Multiple Image Slider in Angular](https://dev.to/growthbanao2/how-to-create-multiple-image-slider-in-angular-4b51)
-- [Dev.to/JS] [Why Zustand Typescript Implementation Is So Ugly](https://dev.to/dai_shi/why-zustand-typescript-implementation-is-so-ugly-3bc)
 - [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
 - [Lifehacker] [You&#39;ll Need a &#39;Visa&#39; for Europe Soon](https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413)
 - [Lifehacker] [Six Signs of Heat Stress in Plants](https://lifehacker.com/6-signs-of-heat-stress-in-plants-1850665461)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This CompTIA Certification Training Is $50 Right Now](https://lifehacker.com/this-comptia-certification-training-is-50-right-now-1850653306)
 - [Lifehacker] [13 Hit TV Series No One Saw Coming](https://lifehacker.com/11-hit-tv-series-no-one-saw-coming-1849843144)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is Skibidi Toilet?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-s-1850662263)
-- [Lifehacker] [Sorry, but You’ll Never Win the Powerball](https://lifehacker.com/winning-the-powerball-lottery-won-t-solve-your-problems-1752378740)
-- [Lifehacker] [How to Have Great Sex Outside &lpar;Safely&rpar;](https://lifehacker.com/how-to-have-great-safe-sex-outside-1850662137)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Sorry, but You’ll Never Win the Powerball](https://lifehacker.com/winning-the-powerball-lottery-won-t-solve-your-problems-1752378740)<!-- TECH-POSTS:END -->
 
 ---
 
