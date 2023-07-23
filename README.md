@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Arquitectura limpia en el front](https://dev.to/raguilera82/arquitectura-limpia-en-el-front-31hd)
 - [Dev.to/JS] [MERN Stack Web Development: A Detailed Overview For Beginners](https://dev.to/bullpointer/mern-stack-web-development-a-detailed-overview-for-beginners-1po1)
 - [Dev.to/JS] [10 React Hooks And How To Use Them.](https://dev.to/nzubechukwu_okere/10-react-hooks-and-how-to-use-them-5im)
 - [Dev.to/JS] [#LearnedToday: Regexper](https://dev.to/danielzotti/learnedtoday-regexper-2d3)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unleashing the Power of AI: Journey into the Enchanting World of AI Toolhouse!](https://dev.to/rishabh062/unleashing-the-power-of-ai-journey-into-the-enchanting-world-of-ai-toolhouse-2cal)
 - [Dev.to/JS] [How to Solve hCaptcha using CapSolver and Node.js](https://dev.to/devland/how-to-solve-hcaptcha-using-capsolver-and-nodejs-2hnk)
 - [Dev.to/JS] [Create a Calculator Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/create-a-calculator-using-html-css-and-javascript-4den)
-- [Dev.to/JS] [Unveiling the Power of Cypress for End-to-End Testing.&quot;](https://dev.to/kailashpathak7/unveiling-the-power-of-cypress-for-end-to-end-testing-578k)
 - [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
 - [Lifehacker] [You&#39;ll Need a &#39;Visa&#39; for Europe Soon](https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413)
 - [Lifehacker] [6 Signs of Heat Stress in Plants](https://lifehacker.com/6-signs-of-heat-stress-in-plants-1850665461)
