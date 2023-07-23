@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Emerging Artist Who Will Shape the Contemporary Art World](https://dev.to/artmikava/emerging-artist-who-will-shape-the-contemporary-art-world-hoc)
+- [Dev.to/JS] [Unleashing the Power of AI: Journey into the Enchanting World of AI Toolhouse!](https://dev.to/rishabh062/unleashing-the-power-of-ai-journey-into-the-enchanting-world-of-ai-toolhouse-2cal)
+- [Dev.to/JS] [How to Solve hCaptcha using CapSolver and Node.js](https://dev.to/devland/how-to-solve-hcaptcha-using-capsolver-and-nodejs-2hnk)
 - [Dev.to/JS] [Create a Calculator Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/create-a-calculator-using-html-css-and-javascript-4den)
 - [Dev.to/JS] [Unveiling the Power of Cypress for End-to-End Testing.&quot;](https://dev.to/kailashpathak7/unveiling-the-power-of-cypress-for-end-to-end-testing-578k)
 - [Dev.to/JS] [Create a Dark/Light Mode Toggle using JavaScript &amp; LocalStorage 💫](https://dev.to/quicksilversel/create-a-darklight-mode-toggle-using-javascript-localstorage-55fd)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Journey Through 6 Months of Backend Engineering: Building Robust Foundations](https://dev.to/shacodes/a-journey-through-6-months-of-backend-engineering-building-robust-foundations-ja8)
 - [Dev.to/JS] [娜奥米·贝克维斯 &lpar;Naomi Beckwith&rpar;、玛丽莲·明特 &lpar;Marilyn Minter&rpar; 和其他艺术界人士表示，13 位艺术家有望在 2023 年大放异彩](https://dev.to/artmikava/nuo-ao-mi-bei-ke-wei-si-naomi-beckwith-ma-li-lian-ming-te-marilyn-minter-he-qi-ta-yi-zhu-jie-ren-shi-biao-shi-13-wei-yi-zhu-jia-you-wang-zai-2023-nian-da-fang-yi-cai-2phk)
 - [Dev.to/JS] [&quot;Gela Mikava: An Emerging Contemporary Artist to Watch in 2023, Exploring Alienation and Connection&quot;](https://dev.to/artmikava/gela-mikava-an-emerging-contemporary-artist-to-watch-in-2023-exploring-alienation-and-connection-nh)
-- [Dev.to/JS] [react useMemo, useCallback. Easier than we think.](https://dev.to/abdullahmubin/react-usememo-usecallback-easier-than-we-think-13be)
-- [Dev.to/JS] [How to use Playwright with external/existing Chrome](https://dev.to/sonyarianto/how-to-use-playwright-with-externalexisting-chrome-4nf1)
-- [Dev.to/JS] [Octos - HTML live wallpaper engine](https://dev.to/underpig1/octos-html-live-wallpaper-engine-49kp)
 - [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
 - [Lifehacker] [You&#39;ll Need a &#39;Visa&#39; for Europe Soon](https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413)
 - [Lifehacker] [6 Signs of Heat Stress in Plants](https://lifehacker.com/6-signs-of-heat-stress-in-plants-1850665461)
