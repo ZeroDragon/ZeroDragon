@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MERN Stack Web Development: A Detailed Overview For Beginners](https://dev.to/bullpointer/mern-stack-web-development-a-detailed-overview-for-beginners-1po1)
+- [Dev.to/JS] [10 React Hooks And How To Use Them.](https://dev.to/nzubechukwu_okere/10-react-hooks-and-how-to-use-them-5im)
+- [Dev.to/JS] [#LearnedToday: Regexper](https://dev.to/danielzotti/learnedtoday-regexper-2d3)
 - [Dev.to/JS] [How to Create An OTP Input Box in React/Next.js](https://dev.to/ugorji_simon/how-to-create-an-otp-input-box-in-reactnextjs-89a)
 - [Dev.to/JS] [Learning Journal - Digileger Project Log](https://dev.to/anshumanmahato/learning-journal-digileger-project-log-3acd)
 - [Dev.to/JS] [Emerging Contemporary Artist to Watch in 2023 Gela Mikava](https://dev.to/artmikava/emerging-contemporary-artist-to-watch-in-2023-gela-mikava-51ck)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Solve hCaptcha using CapSolver and Node.js](https://dev.to/devland/how-to-solve-hcaptcha-using-capsolver-and-nodejs-2hnk)
 - [Dev.to/JS] [Create a Calculator Using HTML CSS and JavaScript](https://dev.to/onlineittutstutorials/create-a-calculator-using-html-css-and-javascript-4den)
 - [Dev.to/JS] [Unveiling the Power of Cypress for End-to-End Testing.&quot;](https://dev.to/kailashpathak7/unveiling-the-power-of-cypress-for-end-to-end-testing-578k)
-- [Dev.to/JS] [Create a Dark/Light Mode Toggle using JavaScript &amp; LocalStorage 💫](https://dev.to/quicksilversel/create-a-darklight-mode-toggle-using-javascript-localstorage-55fd)
-- [Dev.to/JS] [How to Add &quot;Install App&quot; Option to Your Website: Progressive Web Apps](https://dev.to/sh20raj/how-to-add-install-app-option-to-your-website-progressive-web-apps-4ff3)
-- [Dev.to/JS] [How to Add &quot;Install App&quot; Option to Your Website Without Hosting: Embracing Progressive Web Apps on Blogger](https://dev.to/sh20raj/how-to-add-install-app-option-to-your-website-without-hosting-embracing-progressive-web-apps-on-blogger-4bod)
 - [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
 - [Lifehacker] [You&#39;ll Need a &#39;Visa&#39; for Europe Soon](https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413)
 - [Lifehacker] [6 Signs of Heat Stress in Plants](https://lifehacker.com/6-signs-of-heat-stress-in-plants-1850665461)
