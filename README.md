@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create An OTP Input Box in React/Next.js](https://dev.to/ugorji_simon/how-to-create-an-otp-input-box-in-reactnextjs-89a)
+- [Dev.to/JS] [Learning Journal - Digileger Project Log](https://dev.to/anshumanmahato/learning-journal-digileger-project-log-3acd)
+- [Dev.to/JS] [Emerging Contemporary Artist to Watch in 2023 Gela Mikava](https://dev.to/artmikava/emerging-contemporary-artist-to-watch-in-2023-gela-mikava-51ck)
+- [Dev.to/JS] [Emerging Contemporary Artist to Watch in 2023 Gela Mikava](https://dev.to/artmikava/emerging-contemporary-artist-to-watch-in-2023-gela-mikava-3h98)
 - [Dev.to/JS] [Emerging Artist Who Will Shape the Contemporary Art World](https://dev.to/artmikava/emerging-artist-who-will-shape-the-contemporary-art-world-hoc)
 - [Dev.to/JS] [Unleashing the Power of AI: Journey into the Enchanting World of AI Toolhouse!](https://dev.to/rishabh062/unleashing-the-power-of-ai-journey-into-the-enchanting-world-of-ai-toolhouse-2cal)
 - [Dev.to/JS] [How to Solve hCaptcha using CapSolver and Node.js](https://dev.to/devland/how-to-solve-hcaptcha-using-capsolver-and-nodejs-2hnk)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a Dark/Light Mode Toggle using JavaScript &amp; LocalStorage 💫](https://dev.to/quicksilversel/create-a-darklight-mode-toggle-using-javascript-localstorage-55fd)
 - [Dev.to/JS] [How to Add &quot;Install App&quot; Option to Your Website: Progressive Web Apps](https://dev.to/sh20raj/how-to-add-install-app-option-to-your-website-progressive-web-apps-4ff3)
 - [Dev.to/JS] [How to Add &quot;Install App&quot; Option to Your Website Without Hosting: Embracing Progressive Web Apps on Blogger](https://dev.to/sh20raj/how-to-add-install-app-option-to-your-website-without-hosting-embracing-progressive-web-apps-on-blogger-4bod)
-- [Dev.to/JS] [📦~Flexbox~📦 {&quot;Java&quot;,&quot;HTML&quot;,&quot;CSS&quot;}](https://dev.to/vikran7_pa7el_/flexbox-javahtmlcss-4hfm)
-- [Dev.to/JS] [A Journey Through 6 Months of Backend Engineering: Building Robust Foundations](https://dev.to/shacodes/a-journey-through-6-months-of-backend-engineering-building-robust-foundations-ja8)
-- [Dev.to/JS] [娜奥米·贝克维斯 &lpar;Naomi Beckwith&rpar;、玛丽莲·明特 &lpar;Marilyn Minter&rpar; 和其他艺术界人士表示，13 位艺术家有望在 2023 年大放异彩](https://dev.to/artmikava/nuo-ao-mi-bei-ke-wei-si-naomi-beckwith-ma-li-lian-ming-te-marilyn-minter-he-qi-ta-yi-zhu-jie-ren-shi-biao-shi-13-wei-yi-zhu-jia-you-wang-zai-2023-nian-da-fang-yi-cai-2phk)
-- [Dev.to/JS] [&quot;Gela Mikava: An Emerging Contemporary Artist to Watch in 2023, Exploring Alienation and Connection&quot;](https://dev.to/artmikava/gela-mikava-an-emerging-contemporary-artist-to-watch-in-2023-exploring-alienation-and-connection-nh)
 - [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
 - [Lifehacker] [You&#39;ll Need a &#39;Visa&#39; for Europe Soon](https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413)
 - [Lifehacker] [6 Signs of Heat Stress in Plants](https://lifehacker.com/6-signs-of-heat-stress-in-plants-1850665461)
