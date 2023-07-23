@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to convert an array of objects to directories alike.](https://dev.to/melvinvmegen/how-to-convert-an-array-of-objects-to-directories-alike-2775)
+- [Dev.to/JS] [Unlocking the Power of PyScript: A Guide to Running Python Code in Your HTML](https://dev.to/scofieldidehen/unlocking-the-power-of-pyscript-a-guide-to-running-python-code-in-your-html-2376)
+- [Dev.to/JS] [How Contributing to Open Source Projects Can Help You Land Your Dream Job](https://dev.to/idurar/how-contributing-to-open-source-projects-can-help-you-land-your-dream-job-18ca)
 - [Lifehacker] [Avoid These Beaches With Too Much Poop](https://lifehacker.com/avoid-these-beaches-with-too-much-poop-1850665109)
 - [Dev.to/JS] [Form Handling in Web Development: Enhancing User Experience and Data Integrity](https://dev.to/jacknorman235/form-handling-in-web-development-enhancing-user-experience-and-data-integrity-2enp)
 - [Dev.to/JS] [Webflow 网站开发](https://dev.to/nico1988/webflow-wang-zhan-kai-fa-4hfl)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Var, Let, Const in JavaScript](https://dev.to/ramon2garcia8/var-let-const-in-javascript-2jdc)
 - [Dev.to/JS] [How To Create Multiple Image Slider in Angular](https://dev.to/growthbanao2/how-to-create-multiple-image-slider-in-angular-4b51)
 - [Dev.to/JS] [Why Zustand Typescript Implementation Is So Ugly](https://dev.to/dai_shi/why-zustand-typescript-implementation-is-so-ugly-3bc)
-- [Dev.to/JS] [Create your own styled-icons set](https://dev.to/storytellercz/create-your-own-styled-icons-set-10go)
-- [Dev.to/JS] [My Journey with Next.js](https://dev.to/sadeedpv/my-journey-with-nextjs-6og)
-- [Dev.to/JS] [Arquitectura limpia en el front](https://dev.to/raguilera82/arquitectura-limpia-en-el-front-31hd)
 - [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
 - [Lifehacker] [You&#39;ll Need a &#39;Visa&#39; for Europe Soon](https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413)
 - [Lifehacker] [Six Signs of Heat Stress in Plants](https://lifehacker.com/6-signs-of-heat-stress-in-plants-1850665461)
