@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Object-Oriented Programming &lpar;OOP&rpar; in JavaScript](https://dev.to/diwakarkashyap/object-oriented-programming-oop-in-javascript-cfm)
+- [Dev.to/JS] [Best VS Code extension for React Js](https://dev.to/devsahil/best-vs-code-extension-for-react-js-2c2)
+- [Dev.to/JS] [Var, Let, Const in JavaScript](https://dev.to/ramon2garcia8/var-let-const-in-javascript-2jdc)
+- [Dev.to/JS] [How To Create Multiple Image Slider in Angular](https://dev.to/growthbanao2/how-to-create-multiple-image-slider-in-angular-4b51)
+- [Dev.to/JS] [Why Zustand Typescript Implementation Is So Ugly](https://dev.to/dai_shi/why-zustand-typescript-implementation-is-so-ugly-3bc)
 - [Dev.to/JS] [Create your own styled-icons set](https://dev.to/storytellercz/create-your-own-styled-icons-set-10go)
 - [Dev.to/JS] [My Journey with Next.js](https://dev.to/sadeedpv/my-journey-with-nextjs-6og)
 - [Dev.to/JS] [Arquitectura limpia en el front](https://dev.to/raguilera82/arquitectura-limpia-en-el-front-31hd)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 React Hooks And How To Use Them.](https://dev.to/nzubechukwu_okere/10-react-hooks-and-how-to-use-them-5im)
 - [Dev.to/JS] [#LearnedToday: Regexper](https://dev.to/danielzotti/learnedtoday-regexper-2d3)
 - [Dev.to/JS] [How to Create An OTP Input Box in React/Next.js](https://dev.to/ugorji_simon/how-to-create-an-otp-input-box-in-reactnextjs-89a)
-- [Dev.to/JS] [Learning Journal - Digileger Project Log](https://dev.to/anshumanmahato/learning-journal-digileger-project-log-3acd)
-- [Dev.to/JS] [Emerging Contemporary Artist to Watch in 2023 Gela Mikava](https://dev.to/artmikava/emerging-contemporary-artist-to-watch-in-2023-gela-mikava-51ck)
-- [Dev.to/JS] [Emerging Contemporary Artist to Watch in 2023 Gela Mikava](https://dev.to/artmikava/emerging-contemporary-artist-to-watch-in-2023-gela-mikava-3h98)
-- [Dev.to/JS] [Emerging Artist Who Will Shape the Contemporary Art World](https://dev.to/artmikava/emerging-artist-who-will-shape-the-contemporary-art-world-hoc)
-- [Dev.to/JS] [Unleashing the Power of AI: Journey into the Enchanting World of AI Toolhouse!](https://dev.to/rishabh062/unleashing-the-power-of-ai-journey-into-the-enchanting-world-of-ai-toolhouse-2cal)
 - [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
 - [Lifehacker] [You&#39;ll Need a &#39;Visa&#39; for Europe Soon](https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413)
 - [Lifehacker] [6 Signs of Heat Stress in Plants](https://lifehacker.com/6-signs-of-heat-stress-in-plants-1850665461)
