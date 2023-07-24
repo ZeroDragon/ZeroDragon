@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Gardening Tools I Use Every Day](https://lifehacker.com/the-gardening-tools-i-use-every-day-1850669323)
+- [Lifehacker] [Try These Cheap Fixes Before Replacing an Appliance](https://lifehacker.com/try-these-cheap-fixes-before-replacing-an-appliance-1850669294)
+- [Dev.to/JS] [Learn how to access webcam and take photo with JavaScript](https://dev.to/bensonruan/learn-how-to-access-webcam-and-take-photo-with-javascript-3oel)
 - [Lifehacker] [This Refurbished iPad Is 50% Off Right Now](https://lifehacker.com/this-refurbished-ipad-is-50-off-right-now-1850653480)
 - [Dev.to/JS] [Fear not the &quot;==&quot; operator in Javascript](https://dev.to/bbarbour/fear-not-the-operator-in-javascript-4k71)
 - [Lifehacker] [Double check your vinegar, it may not be safe](https://lifehacker.com/double-check-your-vinegar-it-may-not-be-safe-1850669266)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vuetify2 v-calendar item coloring](https://dev.to/timma_87/vuetify2-v-calendar-item-coloring-46fk)
 - [Dev.to/JS] [Let&#39;s Create Social Media Template using Tailwind CSS and NextJS](https://dev.to/incoderweb/lets-create-social-media-template-using-tailwind-css-and-nextjs-54kg)
 - [Dev.to/JS] [How to build Calculator using HTML, CSS and Javascript?](https://dev.to/keshavkumarhembram/how-to-build-calculator-using-html-css-and-javascript-56od)
-- [Dev.to/JS] [Vue3 phone input library](https://dev.to/codinci/vue3-phone-input-library-109o)
 - [Lifehacker] [Three Signs That Your Job Flexibility Is a Lie](https://lifehacker.com/three-signs-that-your-job-flexibility-is-a-lie-1850665189)
 - [Lifehacker] [The Most Effective Way to Remove Stubborn Stains From Plastic Patio Furniture](https://lifehacker.com/the-most-effective-way-to-remove-stubborn-stains-from-p-1850665156)
 - [Lifehacker] [Avoid These Beaches With Too Much Poop](https://lifehacker.com/avoid-these-beaches-with-too-much-poop-1850665109)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Repair a Cracked Sink](https://lifehacker.com/the-best-ways-to-repair-a-cracked-sink-1850664147)
 - [Lifehacker] [You Should Put Pickled Corn on Everything](https://lifehacker.com/you-should-put-pickled-corn-on-everything-1827544519)
 - [Lifehacker] [This Scout Hidden Camera Detector Is $40 Right Now](https://lifehacker.com/this-scout-hidden-camera-detector-is-40-right-now-1850653349)
-- [Lifehacker] [Make Any Photo a Sticker With This iOS 17 Feature](https://lifehacker.com/make-any-photo-a-sticker-with-this-ios-17-feature-1850662865)
-- [Lifehacker] [Stay Motivated to Clean by Keeping Supplies in Every Room](https://lifehacker.com/keep-cleaning-supplies-in-every-room-of-your-house-to-g-1792621292)
-- [Lifehacker] [Everything You Need to Be a Proper Coffee Snob at the Office](https://lifehacker.com/everything-you-need-to-be-a-proper-coffee-snob-at-the-o-1850663691)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Any Photo a Sticker With This iOS 17 Feature](https://lifehacker.com/make-any-photo-a-sticker-with-this-ios-17-feature-1850662865)<!-- TECH-POSTS:END -->
 
 ---
 
