@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build an Inventory and Order Management App with Google Sheets and ToolJet](https://dev.to/tooljet/building-an-inventory-and-order-management-app-with-google-sheets-and-tooljet-4jjf)
+- [Dev.to/JS] [Carousel: How to create a testimonial carousel with HTML, CSS, and Javascript.](https://dev.to/ediomojose/carousel-how-to-create-a-testimonial-carousel-with-html-css-and-javascript-43j6)
+- [Dev.to/JS] [🚀 Building a contacts management system with NextJS, Supabase, and Flatfile 🥂](https://dev.to/github20k/building-a-contacts-management-system-with-nextjs-supabase-and-flatfile-5dk6)
+- [Dev.to/JS] [Day 11: This](https://dev.to/dhrn/day-11-this-2jnh)
 - [Lifehacker] [Splash a Little Campari Into Your Iced Coffee](https://lifehacker.com/splash-a-little-campari-into-your-iced-coffee-1850665805)
 - [Lifehacker] [You Should Enable Gmail&#39;s New &#39;Enhanced Safe Browsing&#39;](https://lifehacker.com/you-should-enable-gmails-new-enhanced-safe-browsing-1850669340)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Jul 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-jul-2023-328n)
@@ -36,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to build Calculator using HTML, CSS and Javascript?](https://dev.to/keshavkumarhembram/how-to-build-calculator-using-html-css-and-javascript-56od)
 - [Dev.to/JS] [Vue3 phone input library](https://dev.to/codinci/vue3-phone-input-library-109o)
 - [Dev.to/JS] [Building a coffee delivery chatbot with React, ChatGPT and TypeChat 🤖](https://dev.to/dev_bre/building-a-coffe-delivery-chatbot-with-react-chatgpt-and-typechat-1go0)
-- [Dev.to/JS] [What is Truthy and Falsy in Javascript ?](https://dev.to/diwakarkashyap/what-is-truthy-and-falsy-in-javascript--p3e)
-- [Dev.to/JS] [Electrons Are Fast, So Can Be Electron – How to Optimize Electron App Performance](https://dev.to/brainhubeu/electrons-are-fast-so-can-be-electron-how-to-optimize-electron-app-performance-4e7d)
-- [Dev.to/JS] [Unraveling the Power of JavaScript Function Composition: A Symphony of Functions](https://dev.to/leandro_nnz/unraveling-the-power-of-javascript-function-composition-a-symphony-of-functions-1am5)
-- [Dev.to/JS] [Design pattern: Singleton &lpar;TypeScript examples&rpar;](https://dev.to/kristiyan_velkov/design-pattern-singleton-typescript-examples-3o2j)
 - [Lifehacker] [Three Signs That Your Job Flexibility Is a Lie](https://lifehacker.com/three-signs-that-your-job-flexibility-is-a-lie-1850665189)
 - [Lifehacker] [The Most Effective Way to Remove Stubborn Stains From Plastic Patio Furniture](https://lifehacker.com/the-most-effective-way-to-remove-stubborn-stains-from-p-1850665156)
 - [Lifehacker] [Avoid These Beaches With Too Much Poop](https://lifehacker.com/avoid-these-beaches-with-too-much-poop-1850665109)
