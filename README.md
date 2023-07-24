@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unraveling the Power of JavaScript Function Composition: A Symphony of Functions](https://dev.to/leandro_nnz/unraveling-the-power-of-javascript-function-composition-a-symphony-of-functions-1am5)
 - [Dev.to/JS] [Design pattern: Singleton &lpar;TypeScript examples&rpar;](https://dev.to/kristiyan_velkov/design-pattern-singleton-typescript-examples-3o2j)
 - [Dev.to/JS] [Demystifying Bitwise Operators in JavaScript](https://dev.to/hrshainik/demystifying-bitwise-operators-in-javascript-3f2j)
 - [Dev.to/JS] [Introduction to Nuxt Modules - Revisited](https://dev.to/jacobandrewsky/introduction-to-nuxt-modules-revisited-3iaf)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to JavaScript Array Methods](https://dev.to/abidullah786/introduction-to-javascript-array-methods-2idb)
 - [Dev.to/JS] [Jest vs. Vitest: Which Test Framework Would You Choose for a New Project?](https://dev.to/nishchit14/jest-vs-vitest-which-test-framework-would-you-choose-for-a-new-project-oo6)
 - [Dev.to/JS] [Currying vs Pipe in javascript](https://dev.to/shacodes/currying-vs-pipe-in-javascript-4m9)
-- [Dev.to/JS] [Website preloader as Web Component](https://dev.to/csscoder/website-preloader-as-web-component-2n54)
 - [Lifehacker] [Three Signs That Your Job Flexibility Is a Lie](https://lifehacker.com/three-signs-that-your-job-flexibility-is-a-lie-1850665189)
 - [Lifehacker] [The Most Effective Way to Remove Stubborn Stains From Plastic Patio Furniture](https://lifehacker.com/the-most-effective-way-to-remove-stubborn-stains-from-p-1850665156)
 - [Lifehacker] [Avoid These Beaches With Too Much Poop](https://lifehacker.com/avoid-these-beaches-with-too-much-poop-1850665109)
