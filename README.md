@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT App Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
 - [Dev.to/JS] [Dynamic Filtering With Prisma](https://dev.to/rizqyep/dynamic-filtering-with-prisma-part-1-3697)
 - [Lifehacker] [13 of the Most Useful Hidden Features in iOS 17](https://lifehacker.com/the-best-new-hidden-features-in-ios-17-1850670412)
 - [Lifehacker] [The Worst Fabrics to Wear in Hot Weather](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Refurbished iPad Is 50% Off Right Now](https://lifehacker.com/this-refurbished-ipad-is-50-off-right-now-1850653480)
 - [Lifehacker] [Your Vinegar Might Not Be Safe for Canning](https://lifehacker.com/double-check-your-vinegar-it-may-not-be-safe-1850669266)
 - [Lifehacker] [Use Black Tea to Hide Scratches on Your Hardwood Floor](https://lifehacker.com/clean-your-hardwood-floors-and-hide-scratches-with-blac-1652458186)
-- [Lifehacker] [Splash a Little Campari Into Your Iced Coffee](https://lifehacker.com/splash-a-little-campari-into-your-iced-coffee-1850665805)
-- [Lifehacker] [You Should Enable Gmail&#39;s New &#39;Enhanced Safe Browsing&#39;](https://lifehacker.com/you-should-enable-gmails-new-enhanced-safe-browsing-1850669340)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Splash a Little Campari Into Your Iced Coffee](https://lifehacker.com/splash-a-little-campari-into-your-iced-coffee-1850665805)<!-- TECH-POSTS:END -->
 
 ---
 
