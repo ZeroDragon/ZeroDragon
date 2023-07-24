@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sortable Table With Javascript](https://dev.to/codeboxx/sortable-table-with-javascript-31cf)
 - [Dev.to/JS] [Code Smell 219 - Looping from index 0](https://dev.to/mcsee/code-smell-219-looping-from-index-0-4ncn)
 - [Dev.to/JS] [react-infinite-scroll-component](https://dev.to/hebasaadosman/react-infinite-scroll-component-4ol1)
 - [Dev.to/JS] [An Overview of Node.js Debugging Tools](https://dev.to/saint_vandora/an-overview-of-nodejs-debugging-tools-541a)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Practices for writing clean and maintainable Javascript code](https://dev.to/lionnelt/best-practices-for-writing-clean-and-maintainable-javascript-code-367c)
 - [Dev.to/JS] [Tips and tricks for debugging Javascript code](https://dev.to/lionnelt/tips-and-tricks-for-debugging-javascript-code-4ef8)
 - [Dev.to/JS] [TypeScript with Go/Rust errors? No try/catch? Heresy.](https://dev.to/mpiorowski/typescript-with-gorust-errors-no-trycatch-heresy-49mf)
-- [Dev.to/JS] [Quo vadis, web development?](https://dev.to/highasthedn/quo-vadis-web-development-41ik)
 - [Lifehacker] [Three Signs That Your Job Flexibility Is a Lie](https://lifehacker.com/three-signs-that-your-job-flexibility-is-a-lie-1850665189)
 - [Lifehacker] [The Most Effective Way to Remove Stubborn Stains From Plastic Patio Furniture](https://lifehacker.com/the-most-effective-way-to-remove-stubborn-stains-from-p-1850665156)
 - [Lifehacker] [Avoid These Beaches With Too Much Poop](https://lifehacker.com/avoid-these-beaches-with-too-much-poop-1850665109)
