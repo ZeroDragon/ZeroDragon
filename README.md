@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue3 phone input library](https://dev.to/codinci/vue3-phone-input-library-109o)
+- [Dev.to/JS] [Building a coffe delivery chatbot with React, ChatGPT and TypeChat 🤖](https://dev.to/dev_bre/building-a-coffe-delivery-chatbot-with-react-chatgpt-and-typechat-1go0)
+- [Dev.to/JS] [What is Truthy and Falsy in Javascript ?](https://dev.to/diwakarkashyap/what-is-truthy-and-falsy-in-javascript--p3e)
 - [Dev.to/JS] [Electrons Are Fast, So Can Be Electron – How to Optimize Electron App Performance](https://dev.to/brainhubeu/electrons-are-fast-so-can-be-electron-how-to-optimize-electron-app-performance-4e7d)
 - [Dev.to/JS] [Unraveling the Power of JavaScript Function Composition: A Symphony of Functions](https://dev.to/leandro_nnz/unraveling-the-power-of-javascript-function-composition-a-symphony-of-functions-1am5)
 - [Dev.to/JS] [Design pattern: Singleton &lpar;TypeScript examples&rpar;](https://dev.to/kristiyan_velkov/design-pattern-singleton-typescript-examples-3o2j)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Nhà cái tặng tiền](https://dev.to/nhacaitangtienvn/nha-cai-tang-tien-6id)
 - [Dev.to/JS] [Building a Blazing-Fast Portfolio with Astro and Deploying with Netlify](https://dev.to/strawbang/building-a-blazing-fast-portfolio-with-astro-and-deploying-with-netlify-4ek0)
 - [Dev.to/JS] [Different Ways of Handling Dynamic Routing in Next.js](https://dev.to/apoorvtomar/different-ways-of-handling-dynamic-routing-in-nextjs-7j1)
-- [Dev.to/JS] [Free resources that helped me master React as a Self Taught Web Developer](https://dev.to/flawsom/free-resources-that-helped-me-master-react-as-a-self-taught-web-developer-1oej)
-- [Dev.to/JS] [Introduction to JavaScript Array Methods](https://dev.to/abidullah786/introduction-to-javascript-array-methods-2idb)
-- [Dev.to/JS] [Jest vs. Vitest: Which Test Framework Would You Choose for a New Project?](https://dev.to/nishchit14/jest-vs-vitest-which-test-framework-would-you-choose-for-a-new-project-oo6)
 - [Lifehacker] [Three Signs That Your Job Flexibility Is a Lie](https://lifehacker.com/three-signs-that-your-job-flexibility-is-a-lie-1850665189)
 - [Lifehacker] [The Most Effective Way to Remove Stubborn Stains From Plastic Patio Furniture](https://lifehacker.com/the-most-effective-way-to-remove-stubborn-stains-from-p-1850665156)
 - [Lifehacker] [Avoid These Beaches With Too Much Poop](https://lifehacker.com/avoid-these-beaches-with-too-much-poop-1850665109)
