@@ -26,18 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Beginner&#39;s Guide to Web Development: HTML, CSS, and JavaScript](https://dev.to/orjamar/a-beginners-guide-to-web-development-html-css-and-javascript-4cmn)
 - [Dev.to/JS] [JavaScript String Format: The Best 3 Ways To Do It](https://dev.to/onlinemsr/javascript-string-format-the-best-3-ways-to-do-it-26jc)
 - [Dev.to/JS] [Understanding A Specific JavaScript Class Example: Class Formatter.](https://dev.to/analee/understanding-a-specific-javascript-class-example-class-formatter-1ofe)
 - [Dev.to/JS] [Building a hashtag system using Hypertext Preprocessor &lpar;PHP&rpar; in 3 steps](https://dev.to/saaaron/building-a-hashtag-system-using-hypertext-preprocessor-php-in-3-steps-3ejd)
 - [Dev.to/JS] [Sortable Table With Javascript](https://dev.to/codeboxx/sortable-table-with-javascript-31cf)
 - [Dev.to/JS] [Code Smell 219 - Looping from index 0](https://dev.to/mcsee/code-smell-219-looping-from-index-0-4ncn)
+- [Dev.to/JS] [What is Fetch?](https://dev.to/jocelynvargas123/what-is-fetch-4ac3)
 - [Dev.to/JS] [react-infinite-scroll-component](https://dev.to/hebasaadosman/react-infinite-scroll-component-4ol1)
 - [Dev.to/JS] [An Overview of Node.js Debugging Tools](https://dev.to/saint_vandora/an-overview-of-nodejs-debugging-tools-541a)
 - [Dev.to/JS] [Debounce in JavaScript](https://dev.to/hebasaadosman/debounce-in-javascript-1cg3)
 - [Dev.to/JS] [I built this language learning app](https://dev.to/to_fl/i-built-this-language-learning-app-36f8)
 - [Dev.to/JS] [A Beginner&#39;s Guide to HTML, CSS, and JavaScript](https://dev.to/edankhra/a-beginners-guide-to-html-css-and-javascript-2ofb)
-- [Dev.to/JS] [Clean Code 101: Variable Naming Conventions - Part 1](https://dev.to/mohitsinghchauhan/clean-code-101-variable-naming-conventions-part-1-1c1a)
-- [Dev.to/JS] [Embarking on the Frontend Development Journey in 2023](https://dev.to/wizarddeveloper/embarking-on-the-frontend-development-journey-in-2023-39am)
 - [Lifehacker] [Three Signs That Your Job Flexibility Is a Lie](https://lifehacker.com/three-signs-that-your-job-flexibility-is-a-lie-1850665189)
 - [Lifehacker] [The Most Effective Way to Remove Stubborn Stains From Plastic Patio Furniture](https://lifehacker.com/the-most-effective-way-to-remove-stubborn-stains-from-p-1850665156)
 - [Lifehacker] [Avoid These Beaches With Too Much Poop](https://lifehacker.com/avoid-these-beaches-with-too-much-poop-1850665109)
