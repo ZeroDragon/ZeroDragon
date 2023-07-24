@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Norse Atlantic Airways Has Flights to Europe for $99 Right Now](https://lifehacker.com/norse-atlantic-airways-has-flights-to-europe-for-99-ri-1850670217)
+- [Lifehacker] [This Portable Projector and Screen Is $250 Right Now](https://lifehacker.com/this-portable-projector-and-screen-is-250-right-now-1850653451)
+- [Lifehacker] [How to Delete Your Account Now That Elon Musk Has Ruined Twitter](https://lifehacker.com/how-to-delete-your-twitter-account-when-youve-had-enoug-1848798491)
 - [Lifehacker] [Turn Your iPhone Into a Smart Display Using iOS 17&#39;s StandBy Mode](https://lifehacker.com/turn-your-iphone-into-a-smart-display-using-ios-17s-sta-1850669362)
 - [Dev.to/JS] [The Latest Updates on Next.js in 2023](https://dev.to/wizarddeveloper/the-latest-updates-on-nextjs-in-2023-410e)
 - [Dev.to/JS] [Use AdonisJS 6 Alpha today](https://dev.to/adonisframework/use-adonisjs-v6-alpha-today-1lnk)
@@ -35,7 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn how to access webcam and take photo with JavaScript](https://dev.to/bensonruan/learn-how-to-access-webcam-and-take-photo-with-javascript-3oel)
 - [Lifehacker] [This Refurbished iPad Is 50% Off Right Now](https://lifehacker.com/this-refurbished-ipad-is-50-off-right-now-1850653480)
 - [Dev.to/JS] [Fear not the &quot;==&quot; operator in Javascript](https://dev.to/bbarbour/fear-not-the-operator-in-javascript-4k71)
-- [Lifehacker] [Double check your vinegar, it may not be safe](https://lifehacker.com/double-check-your-vinegar-it-may-not-be-safe-1850669266)
+- [Lifehacker] [Your Vinegar Might Not Be Safe for Canning](https://lifehacker.com/double-check-your-vinegar-it-may-not-be-safe-1850669266)
 - [Dev.to/JS] [Build an Inventory and Order Management App with Google Sheets and ToolJet](https://dev.to/tooljet/building-an-inventory-and-order-management-app-with-google-sheets-and-tooljet-4jjf)
 - [Dev.to/JS] [Carousel: How to create a testimonial carousel with HTML, CSS, and Javascript.](https://dev.to/ediomojose/carousel-how-to-create-a-testimonial-carousel-with-html-css-and-javascript-43j6)
 - [Dev.to/JS] [🚀 Building a contacts management system with NextJS, Supabase, and Flatfile 🥂](https://dev.to/github20k/building-a-contacts-management-system-with-nextjs-supabase-and-flatfile-5dk6)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Treat &lpar;and Prevent&rpar; Post-Run Chafing](https://lifehacker.com/treat-post-run-chafing-with-diaper-cream-1724603461)
 - [Lifehacker] [You Can Get 18 Bottles of Splash Wine for $70](https://lifehacker.com/you-can-get-18-bottles-of-splash-wine-for-70-1850653364)
 - [Lifehacker] [Make Piping Hot Arepas With Four Ingredients](https://lifehacker.com/make-piping-hot-arepas-with-four-ingredients-1850664222)
-- [Lifehacker] [Peel Tomatoes Faster by Torching Them on a Gas Stove](https://lifehacker.com/quickly-peel-tomatoes-by-torching-them-on-a-gas-stoveto-1787462339)
-- [Lifehacker] [How to Spot a Job Offer Scam Written by AI](https://lifehacker.com/how-to-spot-a-job-offer-scam-written-by-ai-1850664352)
-- [Lifehacker] [The Best Ways to Repair a Cracked Sink](https://lifehacker.com/the-best-ways-to-repair-a-cracked-sink-1850664147)
-- [Lifehacker] [You Should Put Pickled Corn on Everything](https://lifehacker.com/you-should-put-pickled-corn-on-everything-1827544519)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Peel Tomatoes Faster by Torching Them on a Gas Stove](https://lifehacker.com/quickly-peel-tomatoes-by-torching-them-on-a-gas-stoveto-1787462339)<!-- TECH-POSTS:END -->
 
 ---
 
