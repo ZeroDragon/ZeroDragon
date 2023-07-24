@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get This Kodak Film Scanner for $170](https://lifehacker.com/you-can-get-this-kodak-film-scanner-for-170-1850653415)
+- [Lifehacker] [These Recalled Trader Joe’s Cookies Might Have Rocks In Them](https://lifehacker.com/these-recalled-trader-joe-s-cookies-might-have-rocks-in-1850671236)
+- [Lifehacker] [Why Your First Mile Always Sucks &lpar;and Why That&#39;s OK&rpar;](https://lifehacker.com/the-first-mile-always-sucks-let-it-go-1752457839)
+- [Dev.to/JS] [Dominando os fundamentos do JavaScript](https://dev.to/diegodmitry/principais-conceitos-do-javascript-36kg)
 - [Lifehacker] [The Best Career-Planning Quizzes for Basically Anyone](https://lifehacker.com/the-best-career-planning-quizzes-for-basically-anyone-1850670966)
 - [Dev.to/JS] [TIDBIT: Svelte default radio button](https://dev.to/charlesloder/tidbit-svelte-default-radio-button-4bc8)
 - [Dev.to/JS] [How I Conduct an Accessibility Audit](https://dev.to/thawkin3/how-i-conduct-an-accessibility-audit-57m4)
@@ -44,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [the most professional website](https://dev.to/ezlol/the-most-professional-website-5ccl)
 - [Lifehacker] [20 Awesome Indie Games You Should Play on Nintendo Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)
 - [Lifehacker] [Save Money Gardening by Growing Your Own Perennials From Seed](https://lifehacker.com/save-money-gardening-by-growing-your-own-perennials-fro-1850669309)
-- [Dev.to/JS] [Common React Interview Question: Tic Tac Toe](https://dev.to/sabinthedev/common-react-interview-question-tic-tac-toe-jeg)
 - [Lifehacker] [Why You Should Slice Your Avocados the ‘Wrong’ Way](https://lifehacker.com/why-you-should-slice-your-avocados-the-wrong-way-1850670551)
 - [Lifehacker] [Dogs Can Suffer Heatstroke, and Other Things to Know About Keeping Your Pet Cool in the Summer](https://lifehacker.com/dogs-can-suffer-heatstroke-and-other-things-to-know-ab-1847024393)
 - [Lifehacker] [Norse Atlantic Airways Has Flights to Europe for $99 Right Now](https://lifehacker.com/norse-atlantic-airways-has-flights-to-europe-for-99-ri-1850670217)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Splash a Little Campari Into Your Iced Coffee](https://lifehacker.com/splash-a-little-campari-into-your-iced-coffee-1850665805)
 - [Lifehacker] [You Should Enable Gmail&#39;s New &#39;Enhanced Safe Browsing&#39;](https://lifehacker.com/you-should-enable-gmails-new-enhanced-safe-browsing-1850669340)
 - [Lifehacker] [Three Signs That Your Job Flexibility Is a Lie](https://lifehacker.com/three-signs-that-your-job-flexibility-is-a-lie-1850665189)
-- [Lifehacker] [The Most Effective Way to Remove Stubborn Stains From Plastic Patio Furniture](https://lifehacker.com/the-most-effective-way-to-remove-stubborn-stains-from-p-1850665156)
-- [Lifehacker] [Avoid These Beaches With Too Much Poop](https://lifehacker.com/avoid-these-beaches-with-too-much-poop-1850665109)
-- [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
-- [Lifehacker] [You&#39;ll Need a &#39;Visa&#39; for Europe Soon](https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Most Effective Way to Remove Stubborn Stains From Plastic Patio Furniture](https://lifehacker.com/the-most-effective-way-to-remove-stubborn-stains-from-p-1850665156)<!-- TECH-POSTS:END -->
 
 ---
 
