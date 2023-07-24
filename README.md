@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Turn Your iPhone Into a Smart Display Using iOS 17&#39;s StandBy Mode](https://lifehacker.com/turn-your-iphone-into-a-smart-display-using-ios-17s-sta-1850669362)
+- [Dev.to/JS] [The Latest Updates on Next.js in 2023](https://dev.to/wizarddeveloper/the-latest-updates-on-nextjs-in-2023-410e)
+- [Dev.to/JS] [Use AdonisJS 6 Alpha today](https://dev.to/adonisframework/use-adonisjs-v6-alpha-today-1lnk)
+- [Lifehacker] [AI Can Help Improve Your Child’s Reading Skills](https://lifehacker.com/ai-can-help-improve-your-child-s-reading-skills-1850665782)
 - [Lifehacker] [The Gardening Tools I Use Every Day](https://lifehacker.com/the-gardening-tools-i-use-every-day-1850669323)
 - [Lifehacker] [Try These Cheap Fixes Before Replacing an Appliance](https://lifehacker.com/try-these-cheap-fixes-before-replacing-an-appliance-1850669294)
 - [Dev.to/JS] [Learn how to access webcam and take photo with JavaScript](https://dev.to/bensonruan/learn-how-to-access-webcam-and-take-photo-with-javascript-3oel)
@@ -42,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Beginner&#39;s Guide to jQuery Chaining](https://dev.to/iftikhar/a-beginners-guide-to-jquery-chaining-5f3l)
 - [Dev.to/JS] [A Beginners Guide to Web App Development](https://dev.to/donnajohnson88/a-beginners-guide-to-web-app-development-24mf)
 - [Dev.to/JS] [Vuetify2 v-calendar item coloring](https://dev.to/timma_87/vuetify2-v-calendar-item-coloring-46fk)
-- [Dev.to/JS] [Let&#39;s Create Social Media Template using Tailwind CSS and NextJS](https://dev.to/incoderweb/lets-create-social-media-template-using-tailwind-css-and-nextjs-54kg)
-- [Dev.to/JS] [How to build Calculator using HTML, CSS and Javascript?](https://dev.to/keshavkumarhembram/how-to-build-calculator-using-html-css-and-javascript-56od)
 - [Lifehacker] [Three Signs That Your Job Flexibility Is a Lie](https://lifehacker.com/three-signs-that-your-job-flexibility-is-a-lie-1850665189)
 - [Lifehacker] [The Most Effective Way to Remove Stubborn Stains From Plastic Patio Furniture](https://lifehacker.com/the-most-effective-way-to-remove-stubborn-stains-from-p-1850665156)
 - [Lifehacker] [Avoid These Beaches With Too Much Poop](https://lifehacker.com/avoid-these-beaches-with-too-much-poop-1850665109)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Peel Tomatoes Faster by Torching Them on a Gas Stove](https://lifehacker.com/quickly-peel-tomatoes-by-torching-them-on-a-gas-stoveto-1787462339)
 - [Lifehacker] [How to Spot a Job Offer Scam Written by AI](https://lifehacker.com/how-to-spot-a-job-offer-scam-written-by-ai-1850664352)
 - [Lifehacker] [The Best Ways to Repair a Cracked Sink](https://lifehacker.com/the-best-ways-to-repair-a-cracked-sink-1850664147)
-- [Lifehacker] [You Should Put Pickled Corn on Everything](https://lifehacker.com/you-should-put-pickled-corn-on-everything-1827544519)
-- [Lifehacker] [This Scout Hidden Camera Detector Is $40 Right Now](https://lifehacker.com/this-scout-hidden-camera-detector-is-40-right-now-1850653349)
-- [Lifehacker] [Make Any Photo a Sticker With This iOS 17 Feature](https://lifehacker.com/make-any-photo-a-sticker-with-this-ios-17-feature-1850662865)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Put Pickled Corn on Everything](https://lifehacker.com/you-should-put-pickled-corn-on-everything-1827544519)<!-- TECH-POSTS:END -->
 
 ---
 
