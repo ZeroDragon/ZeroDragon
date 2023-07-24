@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [react-infinite-scroll-component](https://dev.to/hebasaadosman/react-infinite-scroll-component-4ol1)
+- [Dev.to/JS] [An Overview of Node.js Debugging Tools](https://dev.to/saint_vandora/an-overview-of-nodejs-debugging-tools-541a)
+- [Dev.to/JS] [Debounce in JavaScript](https://dev.to/hebasaadosman/debounce-in-javascript-1cg3)
 - [Dev.to/JS] [I built this language learning app](https://dev.to/to_fl/i-built-this-language-learning-app-36f8)
 - [Dev.to/JS] [A Beginner&#39;s Guide to HTML, CSS, and JavaScript](https://dev.to/edankhra/a-beginners-guide-to-html-css-and-javascript-2ofb)
 - [Dev.to/JS] [Clean Code 101: Variable Naming Conventions - Part 1](https://dev.to/mohitsinghchauhan/clean-code-101-variable-naming-conventions-part-1-1c1a)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript with Go/Rust errors? No try/catch? Heresy.](https://dev.to/mpiorowski/typescript-with-gorust-errors-no-trycatch-heresy-49mf)
 - [Dev.to/JS] [Quo vadis, web development?](https://dev.to/highasthedn/quo-vadis-web-development-41ik)
 - [Dev.to/JS] [Overview of JavaScript Form Validation for Sports Event Registration](https://dev.to/jacknorman235/overview-of-javascript-form-validation-for-sports-event-registration-57g8)
-- [Dev.to/JS] [react useContext. Easier than we think.](https://dev.to/abdullahmubin/react-usecontext-easier-than-we-think-3cpc)
-- [Dev.to/JS] [Would anyone be interested in a simple Lists App?](https://dev.to/c5h8nnao4/would-anyone-be-interested-in-a-simple-lists-app-16d3)
 - [Lifehacker] [Three Signs That Your Job Flexibility Is a Lie](https://lifehacker.com/three-signs-that-your-job-flexibility-is-a-lie-1850665189)
-- [Dev.to/JS] [Javascript polyfill implement Array.prototype.findLast&lpar;&rpar;](https://dev.to/chandrapenugonda/javascript-polyfill-implement-arrayprototypefindlast-3pf7)
 - [Lifehacker] [The Most Effective Way to Remove Stubborn Stains From Plastic Patio Furniture](https://lifehacker.com/the-most-effective-way-to-remove-stubborn-stains-from-p-1850665156)
 - [Lifehacker] [Avoid These Beaches With Too Much Poop](https://lifehacker.com/avoid-these-beaches-with-too-much-poop-1850665109)
 - [Lifehacker] [The Best Way to Respond to Someone Who Always Makes Excuses](https://lifehacker.com/the-best-way-to-respond-to-someone-who-always-makes-exc-1850665402)
