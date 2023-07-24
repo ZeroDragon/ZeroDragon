@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dynamic Filtering With Prisma](https://dev.to/rizqyep/dynamic-filtering-with-prisma-part-1-3697)
+- [Lifehacker] [13 of the Most Useful Hidden Features in iOS 17](https://lifehacker.com/the-best-new-hidden-features-in-ios-17-1850670412)
+- [Lifehacker] [The Worst Fabrics to Wear in Hot Weather](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
+- [Dev.to/JS] [Ng-News 23/29: Signal Component delayed, Signal &amp; RxJs by Mike Pearson](https://dev.to/this-is-angular/ng-news-2329-signal-component-delayed-signal-rxjs-by-mike-pearson-5534)
 - [Lifehacker] [You Can Get This Kodak Film Scanner for $170](https://lifehacker.com/you-can-get-this-kodak-film-scanner-for-170-1850653415)
 - [Lifehacker] [These Recalled Trader Joe’s Cookies Might Have Rocks In Them](https://lifehacker.com/these-recalled-trader-joe-s-cookies-might-have-rocks-in-1850671236)
 - [Lifehacker] [Why Your First Mile Always Sucks &lpar;and Why That&#39;s OK&rpar;](https://lifehacker.com/the-first-mile-always-sucks-let-it-go-1752457839)
@@ -44,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a checkout button with vue-stripe](https://dev.to/orliesaurus/build-a-checkout-button-with-vue-stripe-3n5f)
 - [Dev.to/JS] [9 Image Optimization Tricks for a Seamless Web Experience](https://dev.to/arulvalananto/9-image-optimization-tricks-for-a-seamless-web-experience-29dc)
 - [Lifehacker] [How to Navigate Your Endometriosis Diagnosis](https://lifehacker.com/how-to-navigate-your-endometriosis-diagnosis-1850662149)
-- [Dev.to/JS] [Compreendendo como os Manipuladores de Eventos funcionam no React](https://dev.to/gustavospriebe/compreendendo-como-os-manipuladores-de-eventos-funcionam-no-react-5eh6)
-- [Dev.to/JS] [the most professional website](https://dev.to/ezlol/the-most-professional-website-5ccl)
 - [Lifehacker] [20 Awesome Indie Games You Should Play on Nintendo Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)
 - [Lifehacker] [Save Money Gardening by Growing Your Own Perennials From Seed](https://lifehacker.com/save-money-gardening-by-growing-your-own-perennials-fro-1850669309)
 - [Lifehacker] [Why You Should Slice Your Avocados the ‘Wrong’ Way](https://lifehacker.com/why-you-should-slice-your-avocados-the-wrong-way-1850670551)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Vinegar Might Not Be Safe for Canning](https://lifehacker.com/double-check-your-vinegar-it-may-not-be-safe-1850669266)
 - [Lifehacker] [Use Black Tea to Hide Scratches on Your Hardwood Floor](https://lifehacker.com/clean-your-hardwood-floors-and-hide-scratches-with-blac-1652458186)
 - [Lifehacker] [Splash a Little Campari Into Your Iced Coffee](https://lifehacker.com/splash-a-little-campari-into-your-iced-coffee-1850665805)
-- [Lifehacker] [You Should Enable Gmail&#39;s New &#39;Enhanced Safe Browsing&#39;](https://lifehacker.com/you-should-enable-gmails-new-enhanced-safe-browsing-1850669340)
-- [Lifehacker] [Three Signs That Your Job Flexibility Is a Lie](https://lifehacker.com/three-signs-that-your-job-flexibility-is-a-lie-1850665189)
-- [Lifehacker] [The Most Effective Way to Remove Stubborn Stains From Plastic Patio Furniture](https://lifehacker.com/the-most-effective-way-to-remove-stubborn-stains-from-p-1850665156)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Enable Gmail&#39;s New &#39;Enhanced Safe Browsing&#39;](https://lifehacker.com/you-should-enable-gmails-new-enhanced-safe-browsing-1850669340)<!-- TECH-POSTS:END -->
 
 ---
 
