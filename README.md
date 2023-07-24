@@ -26,18 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Splash a Little Campari Into Your Iced Coffee](https://lifehacker.com/splash-a-little-campari-into-your-iced-coffee-1850665805)
+- [Lifehacker] [You Should Enable Gmail&#39;s New &#39;Enhanced Safe Browsing&#39;](https://lifehacker.com/you-should-enable-gmails-new-enhanced-safe-browsing-1850669340)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Jul 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-jul-2023-328n)
+- [Dev.to/JS] [A Beginner&#39;s Guide to jQuery Chaining](https://dev.to/iftikhar/a-beginners-guide-to-jquery-chaining-5f3l)
+- [Dev.to/JS] [A Beginners Guide to Web App Development](https://dev.to/donnajohnson88/a-beginners-guide-to-web-app-development-24mf)
+- [Dev.to/JS] [Vuetify2 v-calendar item coloring](https://dev.to/timma_87/vuetify2-v-calendar-item-coloring-46fk)
+- [Dev.to/JS] [Let&#39;s Create Social Media Template using Tailwind CSS and NextJS](https://dev.to/incoderweb/lets-create-social-media-template-using-tailwind-css-and-nextjs-54kg)
+- [Dev.to/JS] [How to build Calculator using HTML, CSS and Javascript?](https://dev.to/keshavkumarhembram/how-to-build-calculator-using-html-css-and-javascript-56od)
 - [Dev.to/JS] [Vue3 phone input library](https://dev.to/codinci/vue3-phone-input-library-109o)
-- [Dev.to/JS] [Building a coffe delivery chatbot with React, ChatGPT and TypeChat 🤖](https://dev.to/dev_bre/building-a-coffe-delivery-chatbot-with-react-chatgpt-and-typechat-1go0)
+- [Dev.to/JS] [Building a coffee delivery chatbot with React, ChatGPT and TypeChat 🤖](https://dev.to/dev_bre/building-a-coffe-delivery-chatbot-with-react-chatgpt-and-typechat-1go0)
 - [Dev.to/JS] [What is Truthy and Falsy in Javascript ?](https://dev.to/diwakarkashyap/what-is-truthy-and-falsy-in-javascript--p3e)
 - [Dev.to/JS] [Electrons Are Fast, So Can Be Electron – How to Optimize Electron App Performance](https://dev.to/brainhubeu/electrons-are-fast-so-can-be-electron-how-to-optimize-electron-app-performance-4e7d)
 - [Dev.to/JS] [Unraveling the Power of JavaScript Function Composition: A Symphony of Functions](https://dev.to/leandro_nnz/unraveling-the-power-of-javascript-function-composition-a-symphony-of-functions-1am5)
 - [Dev.to/JS] [Design pattern: Singleton &lpar;TypeScript examples&rpar;](https://dev.to/kristiyan_velkov/design-pattern-singleton-typescript-examples-3o2j)
-- [Dev.to/JS] [Demystifying Bitwise Operators in JavaScript](https://dev.to/hrshainik/demystifying-bitwise-operators-in-javascript-3f2j)
-- [Dev.to/JS] [Introduction to Nuxt Modules - Revisited](https://dev.to/jacobandrewsky/introduction-to-nuxt-modules-revisited-3iaf)
-- [Dev.to/JS] [Introducing Builder Devtools](https://dev.to/builderio/introducing-builder-devtools-1cfd)
-- [Dev.to/JS] [Nhà cái tặng tiền](https://dev.to/nhacaitangtienvn/nha-cai-tang-tien-6id)
-- [Dev.to/JS] [Building a Blazing-Fast Portfolio with Astro and Deploying with Netlify](https://dev.to/strawbang/building-a-blazing-fast-portfolio-with-astro-and-deploying-with-netlify-4ek0)
-- [Dev.to/JS] [Different Ways of Handling Dynamic Routing in Next.js](https://dev.to/apoorvtomar/different-ways-of-handling-dynamic-routing-in-nextjs-7j1)
 - [Lifehacker] [Three Signs That Your Job Flexibility Is a Lie](https://lifehacker.com/three-signs-that-your-job-flexibility-is-a-lie-1850665189)
 - [Lifehacker] [The Most Effective Way to Remove Stubborn Stains From Plastic Patio Furniture](https://lifehacker.com/the-most-effective-way-to-remove-stubborn-stains-from-p-1850665156)
 - [Lifehacker] [Avoid These Beaches With Too Much Poop](https://lifehacker.com/avoid-these-beaches-with-too-much-poop-1850665109)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stay Motivated to Clean by Keeping Supplies in Every Room](https://lifehacker.com/keep-cleaning-supplies-in-every-room-of-your-house-to-g-1792621292)
 - [Lifehacker] [Everything You Need to Be a Proper Coffee Snob at the Office](https://lifehacker.com/everything-you-need-to-be-a-proper-coffee-snob-at-the-o-1850663691)
 - [Lifehacker] [The Legal and Financial Consequences of Living With Your Ex](https://lifehacker.com/the-legal-and-financial-consequences-of-living-with-you-1850662145)
-- [Lifehacker] [This CompTIA Certification Training Is $50 Right Now](https://lifehacker.com/this-comptia-certification-training-is-50-right-now-1850653306)
-- [Lifehacker] [13 Hit TV Series No One Saw Coming](https://lifehacker.com/11-hit-tv-series-no-one-saw-coming-1849843144)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is Skibidi Toilet?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-s-1850662263)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This CompTIA Certification Training Is $50 Right Now](https://lifehacker.com/this-comptia-certification-training-is-50-right-now-1850653306)<!-- TECH-POSTS:END -->
 
 ---
 
