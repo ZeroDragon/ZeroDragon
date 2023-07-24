@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Bags for Your Daily Commute](https://lifehacker.com/these-are-the-best-bags-for-your-daily-commute-1850670008)
+- [Dev.to/JS] [9 Image Optimization Tricks for a Seamless Web Experience](https://dev.to/arulvalananto/9-image-optimization-tricks-for-a-seamless-web-experience-29dc)
+- [Lifehacker] [How to Navigate Your Endometriosis Diagnosis](https://lifehacker.com/how-to-navigate-your-endometriosis-diagnosis-1850662149)
+- [Dev.to/JS] [Compreendendo como os Manipuladores de Eventos funcionam no React](https://dev.to/gustavospriebe/compreendendo-como-os-manipuladores-de-eventos-funcionam-no-react-5eh6)
+- [Dev.to/JS] [the most professional website](https://dev.to/ezlol/the-most-professional-website-5ccl)
+- [Lifehacker] [20 Awesome Indie Games You Should Play on Nintendo Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)
 - [Lifehacker] [Save Money Gardening by Growing Your Own Perennials From Seed](https://lifehacker.com/save-money-gardening-by-growing-your-own-perennials-fro-1850669309)
 - [Dev.to/JS] [Common React Interview Question: Tic Tac Toe](https://dev.to/sabinthedev/common-react-interview-question-tic-tac-toe-jeg)
 - [Lifehacker] [Why You Should Slice Your Avocados the ‘Wrong’ Way](https://lifehacker.com/why-you-should-slice-your-avocados-the-wrong-way-1850670551)
@@ -42,17 +48,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Gardening Tools I Use Every Day](https://lifehacker.com/the-gardening-tools-i-use-every-day-1850669323)
 - [Lifehacker] [Try These Cheap Fixes Before Replacing an Appliance](https://lifehacker.com/try-these-cheap-fixes-before-replacing-an-appliance-1850669294)
 - [Dev.to/JS] [Learn how to access webcam and take photo with JavaScript](https://dev.to/bensonruan/learn-how-to-access-webcam-and-take-photo-with-javascript-3oel)
+- [Lifehacker] [Why You Should Salt Your Scrambled Eggs Before Cooking Them](https://lifehacker.com/salt-scrambled-eggs-15-minutes-before-cooking-for-the-p-1737044156)
 - [Lifehacker] [This Refurbished iPad Is 50% Off Right Now](https://lifehacker.com/this-refurbished-ipad-is-50-off-right-now-1850653480)
 - [Dev.to/JS] [Fear not the &quot;==&quot; operator in Javascript](https://dev.to/bbarbour/fear-not-the-operator-in-javascript-4k71)
 - [Lifehacker] [Your Vinegar Might Not Be Safe for Canning](https://lifehacker.com/double-check-your-vinegar-it-may-not-be-safe-1850669266)
+- [Lifehacker] [Use Black Tea to Hide Scratches on Your Hardwood Floor](https://lifehacker.com/clean-your-hardwood-floors-and-hide-scratches-with-blac-1652458186)
 - [Dev.to/JS] [Build an Inventory and Order Management App with Google Sheets and ToolJet](https://dev.to/tooljet/building-an-inventory-and-order-management-app-with-google-sheets-and-tooljet-4jjf)
 - [Dev.to/JS] [Carousel: How to create a testimonial carousel with HTML, CSS, and Javascript.](https://dev.to/ediomojose/carousel-how-to-create-a-testimonial-carousel-with-html-css-and-javascript-43j6)
 - [Dev.to/JS] [🚀 Building a contacts management system with NextJS, Supabase, and Flatfile 🥂](https://dev.to/github20k/building-a-contacts-management-system-with-nextjs-supabase-and-flatfile-5dk6)
-- [Dev.to/JS] [Day 11: This](https://dev.to/dhrn/day-11-this-2jnh)
 - [Lifehacker] [Splash a Little Campari Into Your Iced Coffee](https://lifehacker.com/splash-a-little-campari-into-your-iced-coffee-1850665805)
 - [Lifehacker] [You Should Enable Gmail&#39;s New &#39;Enhanced Safe Browsing&#39;](https://lifehacker.com/you-should-enable-gmails-new-enhanced-safe-browsing-1850669340)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 3, Jul 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-3-jul-2023-328n)
-- [Dev.to/JS] [A Beginner&#39;s Guide to jQuery Chaining](https://dev.to/iftikhar/a-beginners-guide-to-jquery-chaining-5f3l)
 - [Lifehacker] [Three Signs That Your Job Flexibility Is a Lie](https://lifehacker.com/three-signs-that-your-job-flexibility-is-a-lie-1850665189)
 - [Lifehacker] [The Most Effective Way to Remove Stubborn Stains From Plastic Patio Furniture](https://lifehacker.com/the-most-effective-way-to-remove-stubborn-stains-from-p-1850665156)
 - [Lifehacker] [Avoid These Beaches With Too Much Poop](https://lifehacker.com/avoid-these-beaches-with-too-much-poop-1850665109)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You&#39;ll Need a &#39;Visa&#39; for Europe Soon](https://lifehacker.com/youll-need-a-visa-for-europe-soon-1850665413)
 - [Lifehacker] [Six Signs of Heat Stress in Plants](https://lifehacker.com/6-signs-of-heat-stress-in-plants-1850665461)
 - [Lifehacker] [TikTok Myth of the Week: Borax Is Good to Drink](https://lifehacker.com/tiktok-myth-of-the-week-borax-is-good-to-drink-1850665604)
-- [Lifehacker] [These Movie Theaters Have the Best Summer Ticket Deals](https://lifehacker.com/these-movie-theaters-have-the-best-summer-ticket-deals-1850665566)
-- [Lifehacker] [How to Inflate an Air Mattress With a Vacuum Cleaner, Trash Bag, Hair Dryer, and More](https://lifehacker.com/inflate-an-air-mattress-with-a-vacuum-cleaner-5862845)
-- [Lifehacker] [Air Fried Garlic Bread Grilled Cheese Is a Lowbrow Delight](https://lifehacker.com/you-can-air-fry-a-grilled-cheese-sandwich-1850665486)
-- [Lifehacker] [You Can Now Play &#39;Stardew Valley&#39; for &#39;Free&#39; on Your iPhone](https://lifehacker.com/you-can-now-play-stardew-valley-for-free-on-your-iphone-1850664705)
-- [Lifehacker] [Use a Screwdriver, and Other Ways to Not Overwater Your Lawn This Summer](https://lifehacker.com/use-a-screwdriver-and-other-ways-keep-from-overwaterin-1847033541)
-- [Lifehacker] [Where to Watch &#39;Good Omens&#39; Season 2 &lpar;and What You Should Know&rpar;](https://lifehacker.com/where-to-watch-good-omens-season-2-and-what-you-should-1850654006)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Movie Theaters Have the Best Summer Ticket Deals](https://lifehacker.com/these-movie-theaters-have-the-best-summer-ticket-deals-1850665566)<!-- TECH-POSTS:END -->
 
 ---
 
