@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Website preloader as Web Component](https://dev.to/csscoder/website-preloader-as-web-component-2n54)
+- [Dev.to/JS] [Actiflow - Reviews, Results, Benefits &amp; Side Effects?](https://dev.to/actiflowfa15559/actiflow-reviews-results-benefits-side-effects-3a3k)
 - [Dev.to/JS] [Tezos ConnectWallet Button with Taquitojs](https://dev.to/kamalthedev/tezos-connectwallet-button-with-taquitojs-497d)
 - [Dev.to/JS] [Asynchronous JavaScript: Everything you need to know](https://dev.to/scofieldidehen/asynchronous-javascript-everything-you-need-to-know-cec)
 - [Dev.to/JS] [Tezos Connecting contracts to Frontend](https://dev.to/kamalthedev/tezos-connecting-contracts-to-frontend-24g1)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sortable Table With Javascript](https://dev.to/codeboxx/sortable-table-with-javascript-31cf)
 - [Dev.to/JS] [Code Smell 219 - Looping from index 0](https://dev.to/mcsee/code-smell-219-looping-from-index-0-4ncn)
 - [Dev.to/JS] [What is Fetch?](https://dev.to/jocelynvargas123/what-is-fetch-4ac3)
-- [Dev.to/JS] [react-infinite-scroll-component](https://dev.to/hebasaadosman/react-infinite-scroll-component-4ol1)
-- [Dev.to/JS] [An Overview of Node.js Debugging Tools](https://dev.to/saint_vandora/an-overview-of-nodejs-debugging-tools-541a)
 - [Lifehacker] [Three Signs That Your Job Flexibility Is a Lie](https://lifehacker.com/three-signs-that-your-job-flexibility-is-a-lie-1850665189)
 - [Lifehacker] [The Most Effective Way to Remove Stubborn Stains From Plastic Patio Furniture](https://lifehacker.com/the-most-effective-way-to-remove-stubborn-stains-from-p-1850665156)
 - [Lifehacker] [Avoid These Beaches With Too Much Poop](https://lifehacker.com/avoid-these-beaches-with-too-much-poop-1850665109)
