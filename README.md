@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is JavaScript?](https://dev.to/sheikmostafizur/what-is-javascript-4hp9)
 - [Dev.to/JS] [Road Map To Become a Web Developer](https://dev.to/scofieldidehen/road-map-to-become-a-web-developer-3k7)
 - [Dev.to/JS] [ReactJS Coding and TechTalking, come join :D](https://dev.to/arthursmuller/reactjs-coding-and-techtalking-come-join-d-30jh)
 - [Dev.to/JS] [Pilhas: entendendo como essa estrutura de dados funciona](https://dev.to/brunopinho/pilhas-entendendo-como-essa-estrutura-de-dados-funciona-3al5)
@@ -39,13 +40,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your First Mile Always Sucks &lpar;and Why That&#39;s OK&rpar;](https://lifehacker.com/the-first-mile-always-sucks-let-it-go-1752457839)
 - [Dev.to/JS] [Dominando os fundamentos do JavaScript](https://dev.to/diegodmitry/principais-conceitos-do-javascript-36kg)
 - [Lifehacker] [The Best Career-Planning Quizzes for Basically Anyone](https://lifehacker.com/the-best-career-planning-quizzes-for-basically-anyone-1850670966)
-- [Dev.to/JS] [TIDBIT: Svelte default radio button](https://dev.to/charlesloder/tidbit-svelte-default-radio-button-4bc8)
+- [Dev.to/JS] [Svelte: set a default radio button with bind](https://dev.to/charlesloder/tidbit-svelte-default-radio-button-4bc8)
 - [Dev.to/JS] [How I Conduct an Accessibility Audit](https://dev.to/thawkin3/how-i-conduct-an-accessibility-audit-57m4)
 - [Lifehacker] [The Different Hammers You Should Have &lpar;and When to Use Them&rpar;](https://lifehacker.com/the-different-hammers-you-should-have-and-when-to-use-1850670713)
 - [Dev.to/JS] [Photos Crop For Social Media](https://dev.to/iftikhar/photos-crop-for-social-media-1nfb)
 - [Dev.to/JS] [Episode 03 - Find the number of 1s and 0s from the array](https://dev.to/vigowebs/find-the-number-of-1s-and-0s-from-the-array-14od)
 - [Dev.to/JS] [Learn about XSS, submit your app of the week, have an AI make you a mixtape, and other things to do when it&#39;s too hot outside](https://dev.to/glitch/learn-about-xss-submit-your-app-of-the-week-have-an-ai-make-you-a-mixtape-and-other-things-to-do-when-its-too-hot-outside-4hji)
-- [Dev.to/JS] [Why Nuxt is My perfect JavaScript framework?](https://dev.to/brianmhlanga/why-nuxt-is-my-perfect-javascript-framework-387p)
 - [Lifehacker] [Buy These Toys That Let Kids &#39;Play&#39; Like Grown-Ups](https://lifehacker.com/buy-toys-that-let-kids-play-like-grown-ups-1831154025)
 - [Lifehacker] [These Are the Best Bags for Your Daily Commute](https://lifehacker.com/these-are-the-best-bags-for-your-daily-commute-1850670008)
 - [Lifehacker] [How to Navigate Your Endometriosis Diagnosis](https://lifehacker.com/how-to-navigate-your-endometriosis-diagnosis-1850662149)
