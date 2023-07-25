@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Refurbished MacBook Pro Is $470 Right Now](https://lifehacker.com/this-refurbished-macbook-pro-is-470-right-now-1850665681)
+- [Dev.to/JS] [Coding Period GSoC&#39;23 | Week 7+8](https://dev.to/prerna0202/coding-period-gsoc23-week-78-2jch)
+- [Dev.to/JS] [Higher Order Function &lpar;HOF&rpar; in JavaScript](https://dev.to/diwakarkashyap/higher-order-function-hof-in-javascript-10b1)
+- [Lifehacker] [Drizzle a Little Honey on Your Tomatoes](https://lifehacker.com/drizzle-a-little-honey-on-your-tomatoes-1850671917)
+- [Dev.to/JS] [Intl.Segmenter&lpar;&rpar;: Don&#39;t use string.split&lpar;&rpar; nor string.length](https://dev.to/ayc0/intlsegmenter-dont-use-stringsplit-nor-stringlength-dh6)
+- [Dev.to/JS] [Open Source Software vs. Closed Source Software: Understanding the Differences](https://dev.to/idurar/open-source-software-vs-closed-source-software-understanding-the-differences-3c5f)
+- [Dev.to/JS] [🏆 Top 5 full-stack JS frameworks in 2023 - which one should you pick for your next project? 🤔](https://dev.to/matijasos/top-5-full-stack-js-frameworks-in-2023-which-one-should-you-pick-for-your-next-project-2ng6)
 - [Lifehacker] [All the Credit Cards That Give You Free Checked Bags](https://lifehacker.com/all-the-credit-cards-that-give-you-free-checked-bags-1850669786)
 - [Lifehacker] [How to Break Out of Eggshell Parenting](https://lifehacker.com/how-to-break-out-of-eggshell-parenting-1850670721)
 - [Dev.to/JS] [Parse form data in node.js](https://dev.to/codewitgabi/parse-form-data-in-nodejs-443p)
@@ -36,11 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Importance of Avoiding Code Style Divergence and 3 Tips to Ensure Consistency](https://dev.to/stretch0/the-importance-of-avoiding-code-style-divergence-and-3-tips-to-ensure-consistency-2mjp)
 - [Dev.to/JS] [Destructuring for type safety in JavaScript](https://dev.to/jj/destructuring-for-type-safety-in-javascript-17l4)
 - [Dev.to/JS] [Getting Started with TypeScript: Benefits and Best Practices for JavaScript Developers](https://dev.to/sajeeb_me/getting-started-with-typescript-benefits-and-best-practices-for-javascript-developers-3p8g)
-- [Dev.to/JS] [#LearnedToday:](https://dev.to/danielzotti/learnedtoday-13f)
-- [Dev.to/JS] [Pop under ads publisher | AdSense alternative for publishers](https://dev.to/sajan7searchppc/pop-under-ads-publisher-adsense-alternative-for-publishers-bdl)
-- [Dev.to/JS] [Portfolio | ThisIs-Developer](https://dev.to/thisisdeveloper/portfolio-thisis-developer-56bf)
-- [Dev.to/JS] [Awesome top 5 Posts from last week tagged&lpar;#javascript&rpar;](https://dev.to/c4r4x35/awesome-top-5-posts-from-last-week-taggedjavascript-36hi)
-- [Dev.to/JS] [React State Management: A Comprehensive Guide](https://dev.to/bernieslearning/react-state-management-a-comprehensive-guide-4170)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT App Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
 - [Lifehacker] [13 of the Most Useful Hidden Features in iOS 17](https://lifehacker.com/the-best-new-hidden-features-in-ios-17-1850670412)
 - [Lifehacker] [The Worst Fabrics to Wear in Hot Weather](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [AI Can Help Improve Your Child’s Reading Skills](https://lifehacker.com/ai-can-help-improve-your-child-s-reading-skills-1850665782)
 - [Lifehacker] [Marinate Your Tomatoes for Extra Flavorful BLTs](https://lifehacker.com/marinate-your-tomatoes-for-extra-flavorful-blts-1837717762)
 - [Lifehacker] [The Gardening Tools I Use Every Day](https://lifehacker.com/the-gardening-tools-i-use-every-day-1850669323)
-- [Lifehacker] [Try These Cheap Fixes Before Replacing an Appliance](https://lifehacker.com/try-these-cheap-fixes-before-replacing-an-appliance-1850669294)
-- [Lifehacker] [Why You Should Salt Your Scrambled Eggs Before Cooking Them](https://lifehacker.com/salt-scrambled-eggs-15-minutes-before-cooking-for-the-p-1737044156)
-- [Lifehacker] [This Refurbished iPad Is 50% Off Right Now](https://lifehacker.com/this-refurbished-ipad-is-50-off-right-now-1850653480)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Try These Cheap Fixes Before Replacing an Appliance](https://lifehacker.com/try-these-cheap-fixes-before-replacing-an-appliance-1850669294)<!-- TECH-POSTS:END -->
 
 ---
 
