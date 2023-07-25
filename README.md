@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Survey - Do you think React has jailed beginners JavaScript developpers ?](https://dev.to/artydev/survey-do-you-think-react-has-jailed-beginners-javascript-developpers--50b8)
 - [Dev.to/JS] [What Are SOLID Design Principles](https://dev.to/ggorantala/what-are-solid-design-principles-1n22)
 - [Dev.to/JS] [How To Construct An Array-Like Data Structure?](https://dev.to/ggorantala/how-to-construct-an-array-like-data-structure-255k)
 - [Dev.to/JS] [Transforming 2D Images into 3D with the AdaMPI AI Model](https://dev.to/mikeyoung44/transforming-2d-images-into-3d-with-the-adampi-ai-model-2lg7)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get This Kodak Film Scanner for $170](https://lifehacker.com/you-can-get-this-kodak-film-scanner-for-170-1850653415)
 - [Lifehacker] [These Recalled Trader Joe’s Cookies Might Have Rocks In Them](https://lifehacker.com/these-recalled-trader-joe-s-cookies-might-have-rocks-in-1850671236)
 - [Lifehacker] [Why Your First Mile Always Sucks &lpar;and Why That&#39;s OK&rpar;](https://lifehacker.com/the-first-mile-always-sucks-let-it-go-1752457839)
-- [Dev.to/JS] [Dominando os fundamentos do JavaScript](https://dev.to/diegodmitry/principais-conceitos-do-javascript-36kg)
 - [Lifehacker] [The Best Career-Planning Quizzes for Basically Anyone](https://lifehacker.com/the-best-career-planning-quizzes-for-basically-anyone-1850670966)
 - [Lifehacker] [The Different Hammers You Should Have &lpar;and When to Use Them&rpar;](https://lifehacker.com/the-different-hammers-you-should-have-and-when-to-use-1850670713)
 - [Lifehacker] [Buy These Toys That Let Kids &#39;Play&#39; Like Grown-Ups](https://lifehacker.com/buy-toys-that-let-kids-play-like-grown-ups-1831154025)
