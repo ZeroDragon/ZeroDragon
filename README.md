@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Twitter X Uncovered: Everything You Need to Know](https://dev.to/thenomadevel/twitter-x-uncovered-everything-you-need-to-know-3fhi)
+- [Lifehacker] [Export Your Bookmarks So You Can Finally Quit Twitter](https://lifehacker.com/export-your-bookmarks-so-you-can-finally-quit-twitter-1850674081)
+- [Lifehacker] [You Should Poach Your Next Chicken](https://lifehacker.com/maximize-a-chickens-meal-potential-by-poaching-it-first-1822353539)
+- [Dev.to/JS] [Embracing Vue.js and PrimeVue in 2023: A Newbie Developer&#39;s Guide](https://dev.to/wizarddeveloper/embracing-vuejs-and-primevue-in-2023-a-newbie-developers-guide-chc)
 - [Lifehacker] [Where to Watch &#39;The Witcher&#39; Season 3, Part 2 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-the-witcher-season-3-part-2-and-what-y-1850671856)
 - [Dev.to/JS] [How to: implement payments in your app](https://dev.to/alvarojsnish/how-to-implent-payments-in-your-app-46o7)
 - [Dev.to/JS] [Iframe document write doesn&#39;t update JavaScript](https://dev.to/mori/iframe-document-write-doesnt-update-javascript-10i8)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [is there a good youtube channel about : Figma to React walkthrough?](https://dev.to/starman1999/is-there-a-good-youtube-channel-about-figma-to-react-walkthrough-4j58)
 - [Dev.to/JS] [How To Create color Flipper using vanilla Javasscript](https://dev.to/mbuguadennis/how-to-create-color-flipper-using-vanilla-javasscript-34hl)
 - [Lifehacker] [Your ‘Dopamine Fast’ Could Backfire](https://lifehacker.com/why-your-dopamine-fast-could-backfire-1850664408)
-- [Dev.to/JS] [firstDuplicate. Given a string which might have duplicate letters, write a function to find the first duplicate.](https://dev.to/chandrapenugonda/firstduplicate-given-a-string-which-might-have-duplicate-letters-write-a-function-to-find-the-first-duplicate-2b2i)
-- [Dev.to/JS] [ADD EVENT LISTENER IN JavaScript](https://dev.to/samanmahmood/add-event-listener-in-javascript-44m2)
 - [Lifehacker] [Download Your Tweets Before Quitting Twitter](https://lifehacker.com/download-your-tweets-before-quitting-twitter-1849778871)
 - [Lifehacker] [What to Do When You Get Chills While Working Out](https://lifehacker.com/what-to-do-when-you-get-chills-while-working-out-1850671737)
 - [Lifehacker] [Thicken Your Salad Dressing With Cooked Egg Yolks](https://lifehacker.com/thicken-your-salad-dressing-with-cooked-egg-yolks-1850671825)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your First Mile Always Sucks &lpar;and Why That&#39;s OK&rpar;](https://lifehacker.com/the-first-mile-always-sucks-let-it-go-1752457839)
 - [Lifehacker] [The Best Career-Planning Quizzes for Basically Anyone](https://lifehacker.com/the-best-career-planning-quizzes-for-basically-anyone-1850670966)
 - [Lifehacker] [The Different Hammers You Should Have &lpar;and When to Use Them&rpar;](https://lifehacker.com/the-different-hammers-you-should-have-and-when-to-use-1850670713)
-- [Lifehacker] [Buy These Toys That Let Kids &#39;Play&#39; Like Grown-Ups](https://lifehacker.com/buy-toys-that-let-kids-play-like-grown-ups-1831154025)
-- [Lifehacker] [These Are the Best Bags for Your Daily Commute](https://lifehacker.com/these-are-the-best-bags-for-your-daily-commute-1850670008)
-- [Lifehacker] [How to Navigate Your Endometriosis Diagnosis](https://lifehacker.com/how-to-navigate-your-endometriosis-diagnosis-1850662149)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Buy These Toys That Let Kids &#39;Play&#39; Like Grown-Ups](https://lifehacker.com/buy-toys-that-let-kids-play-like-grown-ups-1831154025)<!-- TECH-POSTS:END -->
 
 ---
 
