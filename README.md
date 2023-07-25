@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started with TypeScript: Benefits and Best Practices for JavaScript Developers](https://dev.to/sajeeb_me/getting-started-with-typescript-benefits-and-best-practices-for-javascript-developers-3p8g)
+- [Dev.to/JS] [#LearnedToday:](https://dev.to/danielzotti/learnedtoday-13f)
+- [Dev.to/JS] [Pop under ads publisher | AdSense alternative for publishers](https://dev.to/sajan7searchppc/pop-under-ads-publisher-adsense-alternative-for-publishers-bdl)
 - [Dev.to/JS] [Portfolio | ThisIs-Developer](https://dev.to/thisisdeveloper/portfolio-thisis-developer-56bf)
 - [Dev.to/JS] [Awesome top 5 Posts from last week tagged&lpar;#javascript&rpar;](https://dev.to/c4r4x35/awesome-top-5-posts-from-last-week-taggedjavascript-36hi)
 - [Dev.to/JS] [React State Management: A Comprehensive Guide](https://dev.to/bernieslearning/react-state-management-a-comprehensive-guide-4170)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular Addicts #15: Angular v16.1, Typescript 5.1, new RFCs &amp; more](https://dev.to/this-is-angular/angular-addicts-15-angular-v161-typescript-51-new-rfcs-more-4kp9)
 - [Dev.to/JS] [Deepclone polyfill javascript](https://dev.to/chandrapenugonda/deepclone-polyfill-javascript-4822)
 - [Dev.to/JS] [Get Instant Form Submissions data on Your Telegram App - GetIntoTouchBot](https://dev.to/sh20raj/get-instant-form-submissions-data-on-your-telegram-app-getintotouchbot-48da)
-- [Dev.to/JS] [Survey - Do you think React has jailed beginners JavaScript developpers ?](https://dev.to/artydev/survey-do-you-think-react-has-jailed-beginners-javascript-developpers--50b8)
-- [Dev.to/JS] [What Are SOLID Design Principles](https://dev.to/ggorantala/what-are-solid-design-principles-1n22)
-- [Dev.to/JS] [How To Construct An Array-Like Data Structure?](https://dev.to/ggorantala/how-to-construct-an-array-like-data-structure-255k)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT App Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
 - [Lifehacker] [13 of the Most Useful Hidden Features in iOS 17](https://lifehacker.com/the-best-new-hidden-features-in-ios-17-1850670412)
 - [Lifehacker] [The Worst Fabrics to Wear in Hot Weather](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
