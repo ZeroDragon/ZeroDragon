@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Where to Watch &#39;Futurama&#39; Season 11 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-futurama-season-11-and-what-you-should-1850672318)
+- [Dev.to/JS] [Rust-aurant Recipes: Art of Error Handling in Rust](https://dev.to/doziestar/rust-aurant-recipes-art-of-error-handling-in-rust-2c51)
+- [Lifehacker] [You Should Roast a Whole Head of Garlic](https://lifehacker.com/how-to-roast-a-whole-head-of-garlic-1820407305)
 - [Lifehacker] [You Can Get a Lifetime of iBrave Cloud Web Hosting for $100](https://lifehacker.com/you-can-get-a-lifetime-of-ibrave-cloud-web-hosting-for-1850665713)
 - [Dev.to/JS] [Open source JavaScript Quiz App](https://dev.to/hamzaelkotp/open-source-javascript-quiz-app-42fn)
 - [Lifehacker] [&#39;Trash&#39; Your Next Batch of Wings](https://lifehacker.com/trash-your-next-batch-of-wings-1850675472)
@@ -50,7 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Challenges working on my first app with React Native](https://dev.to/jonathanccardoso/challenges-working-on-my-first-app-with-react-native-j77)
 - [Dev.to/JS] [Building chatbots with Vicuna-13B, an open-source LLM trained on conversations](https://dev.to/mikeyoung44/building-chatbots-with-vicuna-13b-an-open-source-llm-trained-on-conversations-af4)
 - [Lifehacker] [How to Watch Every Christopher Nolan Film on Streaming](https://lifehacker.com/how-to-watch-every-christopher-nolan-film-on-streaming-1850670190)
-- [Dev.to/JS] [Skeleton Mammoth - or how I&#39;ve been solving the problem of reusable Skeleton Loaders.](https://dev.to/wolfriend/skeleton-mammoth-or-how-ive-been-solving-the-problem-of-reusable-skeleton-loaders-1b8b)
 - [Lifehacker] [Your ‘Dopamine Fast’ Could Backfire](https://lifehacker.com/why-your-dopamine-fast-could-backfire-1850664408)
 - [Lifehacker] [Download Your Tweets Before Quitting Twitter](https://lifehacker.com/download-your-tweets-before-quitting-twitter-1849778871)
 - [Lifehacker] [What to Do When You Get Chills While Working Out](https://lifehacker.com/what-to-do-when-you-get-chills-while-working-out-1850671737)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My Favorite Ways to Get Kids Out the Door in the Morning](https://lifehacker.com/get-kids-moving-in-the-morning-with-these-tricks-1831870445)
 - [Lifehacker] [All the Credit Cards That Give You Free Checked Bags](https://lifehacker.com/all-the-credit-cards-that-give-you-free-checked-bags-1850669786)
 - [Lifehacker] [How to Break Out of Eggshell Parenting](https://lifehacker.com/how-to-break-out-of-eggshell-parenting-1850670721)
-- [Lifehacker] [How I Became a Board Game Writer](https://lifehacker.com/how-i-became-a-board-game-writer-1850610140)
-- [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT App Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
-- [Lifehacker] [13 of the Most Useful Hidden Features in iOS 17](https://lifehacker.com/the-best-new-hidden-features-in-ios-17-1850670412)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How I Became a Board Game Writer](https://lifehacker.com/how-i-became-a-board-game-writer-1850610140)<!-- TECH-POSTS:END -->
 
 ---
 
