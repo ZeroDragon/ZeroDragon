@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Portfolio | ThisIs-Developer](https://dev.to/thisisdeveloper/portfolio-thisis-developer-56bf)
+- [Dev.to/JS] [Awesome top 5 Posts from last week tagged&lpar;#javascript&rpar;](https://dev.to/c4r4x35/awesome-top-5-posts-from-last-week-taggedjavascript-36hi)
+- [Dev.to/JS] [React State Management: A Comprehensive Guide](https://dev.to/bernieslearning/react-state-management-a-comprehensive-guide-4170)
+- [Dev.to/JS] [Retry loading an iframe until reachable in React](https://dev.to/fbcyborg/retry-loading-an-iframe-until-reachable-in-react-332b)
+- [Dev.to/JS] [Introducing React Hook Kit: A Comprehensive Toolkit for Your React Development](https://dev.to/sdr34/introducing-react-hook-kit-a-comprehensive-toolkit-for-your-react-development-5cio)
 - [Dev.to/JS] [My Journey in Open Source - set-timeout-by-id](https://dev.to/cadienvan/my-journey-in-open-source-set-timeout-by-id-2ibh)
 - [Dev.to/JS] [Angular Addicts #15: Angular v16.1, Typescript 5.1, new RFCs &amp; more](https://dev.to/this-is-angular/angular-addicts-15-angular-v161-typescript-51-new-rfcs-more-4kp9)
 - [Dev.to/JS] [Deepclone polyfill javascript](https://dev.to/chandrapenugonda/deepclone-polyfill-javascript-4822)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Survey - Do you think React has jailed beginners JavaScript developpers ?](https://dev.to/artydev/survey-do-you-think-react-has-jailed-beginners-javascript-developpers--50b8)
 - [Dev.to/JS] [What Are SOLID Design Principles](https://dev.to/ggorantala/what-are-solid-design-principles-1n22)
 - [Dev.to/JS] [How To Construct An Array-Like Data Structure?](https://dev.to/ggorantala/how-to-construct-an-array-like-data-structure-255k)
-- [Dev.to/JS] [Transforming 2D Images into 3D with the AdaMPI AI Model](https://dev.to/mikeyoung44/transforming-2d-images-into-3d-with-the-adampi-ai-model-2lg7)
-- [Dev.to/JS] [Integrating Google Popup Login into Your Website with Google One Tap API](https://dev.to/sh20raj/integrating-google-popup-login-into-your-website-with-google-one-tap-api-11h8)
-- [Dev.to/JS] [Brief Explanation of Javascript Module Bundler](https://dev.to/mustafamilyas/brief-explanation-of-javascript-module-bundler-b1k)
-- [Dev.to/JS] [What is JavaScript?](https://dev.to/sheikmostafizur/what-is-javascript-4hp9)
-- [Dev.to/JS] [Road Map To Become a Web Developer](https://dev.to/scofieldidehen/road-map-to-become-a-web-developer-3k7)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT App Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
 - [Lifehacker] [13 of the Most Useful Hidden Features in iOS 17](https://lifehacker.com/the-best-new-hidden-features-in-ios-17-1850670412)
 - [Lifehacker] [The Worst Fabrics to Wear in Hot Weather](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
