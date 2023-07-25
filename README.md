@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Journey in Open Source - set-timeout-by-id](https://dev.to/cadienvan/my-journey-in-open-source-set-timeout-by-id-2ibh)
+- [Dev.to/JS] [Angular Addicts #15: Angular v16.1, Typescript 5.1, new RFCs &amp; more](https://dev.to/this-is-angular/angular-addicts-15-angular-v161-typescript-51-new-rfcs-more-4kp9)
+- [Dev.to/JS] [Deepclone polyfill javascript](https://dev.to/chandrapenugonda/deepclone-polyfill-javascript-4822)
+- [Dev.to/JS] [Get Instant Form Submissions data on Your Telegram App - GetIntoTouchBot](https://dev.to/sh20raj/get-instant-form-submissions-data-on-your-telegram-app-getintotouchbot-48da)
 - [Dev.to/JS] [Survey - Do you think React has jailed beginners JavaScript developpers ?](https://dev.to/artydev/survey-do-you-think-react-has-jailed-beginners-javascript-developpers--50b8)
 - [Dev.to/JS] [What Are SOLID Design Principles](https://dev.to/ggorantala/what-are-solid-design-principles-1n22)
 - [Dev.to/JS] [How To Construct An Array-Like Data Structure?](https://dev.to/ggorantala/how-to-construct-an-array-like-data-structure-255k)
@@ -34,13 +38,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Brief Explanation of Javascript Module Bundler](https://dev.to/mustafamilyas/brief-explanation-of-javascript-module-bundler-b1k)
 - [Dev.to/JS] [What is JavaScript?](https://dev.to/sheikmostafizur/what-is-javascript-4hp9)
 - [Dev.to/JS] [Road Map To Become a Web Developer](https://dev.to/scofieldidehen/road-map-to-become-a-web-developer-3k7)
-- [Dev.to/JS] [ReactJS Coding and TechTalking, come join :D](https://dev.to/arthursmuller/reactjs-coding-and-techtalking-come-join-d-30jh)
-- [Dev.to/JS] [Pilhas: entendendo como essa estrutura de dados funciona](https://dev.to/brunopinho/pilhas-entendendo-como-essa-estrutura-de-dados-funciona-3al5)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT App Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
-- [Dev.to/JS] [Dynamic Filtering With Prisma](https://dev.to/rizqyep/dynamic-filtering-with-prisma-part-1-3697)
 - [Lifehacker] [13 of the Most Useful Hidden Features in iOS 17](https://lifehacker.com/the-best-new-hidden-features-in-ios-17-1850670412)
 - [Lifehacker] [The Worst Fabrics to Wear in Hot Weather](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
-- [Dev.to/JS] [Ng-News 23/29: Signal Component delayed, Signal &amp; RxJs by Mike Pearson](https://dev.to/this-is-angular/ng-news-2329-signal-component-delayed-signal-rxjs-by-mike-pearson-5534)
 - [Lifehacker] [You Can Get This Kodak Film Scanner for $170](https://lifehacker.com/you-can-get-this-kodak-film-scanner-for-170-1850653415)
 - [Lifehacker] [These Recalled Trader Joe’s Cookies Might Have Rocks In Them](https://lifehacker.com/these-recalled-trader-joe-s-cookies-might-have-rocks-in-1850671236)
 - [Lifehacker] [Why Your First Mile Always Sucks &lpar;and Why That&#39;s OK&rpar;](https://lifehacker.com/the-first-mile-always-sucks-let-it-go-1752457839)
