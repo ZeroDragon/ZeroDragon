@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Skeleton Mammoth - or how I&#39;ve been solving the problem of reusable Skeleton Loaders.](https://dev.to/wolfriend/skeleton-mammoth-or-how-ive-been-solving-the-problem-of-reusable-skeleton-loaders-1b8b)
+- [Dev.to/JS] [is there a good youtube channel about : Figma to React walkthrough?](https://dev.to/starman1999/is-there-a-good-youtube-channel-about-figma-to-react-walkthrough-4j58)
+- [Dev.to/JS] [How To Create color Flipper using vanilla Javasscript](https://dev.to/mbuguadennis/how-to-create-color-flipper-using-vanilla-javasscript-34hl)
+- [Lifehacker] [Why Your ‘Dopamine Fast’ Could Backfire](https://lifehacker.com/why-your-dopamine-fast-could-backfire-1850664408)
+- [Dev.to/JS] [firstDuplicate. Given a string which might have duplicate letters, write a function to find the first duplicate.](https://dev.to/chandrapenugonda/firstduplicate-given-a-string-which-might-have-duplicate-letters-write-a-function-to-find-the-first-duplicate-2b2i)
+- [Dev.to/JS] [ADD EVENT LISTENER IN JavaScript](https://dev.to/samanmahmood/add-event-listener-in-javascript-44m2)
+- [Lifehacker] [Download Your Tweets Before Quitting Twitter](https://lifehacker.com/download-your-tweets-before-quitting-twitter-1849778871)
 - [Lifehacker] [What to Do When You Get Chills While Working Out](https://lifehacker.com/what-to-do-when-you-get-chills-while-working-out-1850671737)
 - [Dev.to/JS] [How I Created a File Sharing Website using Simple REACT](https://dev.to/varshithvhegde/how-i-created-a-file-sharing-website-using-simple-react-41f)
 - [Lifehacker] [Thicken Your Salad Dressing With Cooked Egg Yolks](https://lifehacker.com/thicken-your-salad-dressing-with-cooked-egg-yolks-1850671825)
@@ -33,6 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Cheapest Vacation Destinations in the U.S. Right Now](https://lifehacker.com/these-are-the-cheapest-vacation-destinations-in-the-u-s-1850670621)
 - [Dev.to/JS] [Mastering Parallel Execution with async/await in JavaScript &lpar;Node.js&rpar; for Beginners](https://dev.to/ericus123/mastering-parallel-execution-with-asyncawait-in-javascript-nodejs-for-beginners-1i7d)
 - [Lifehacker] [What an AI Girlfriend Can &lpar;and Can&#39;t&rpar; Do](https://lifehacker.com/what-an-ai-girlfriend-can-and-cant-do-1850666245)
+- [Lifehacker] [Don&#39;t Use These Common, Bad Ways to Clean Your Glasses](https://lifehacker.com/dont-do-these-things-when-you-clean-your-glasses-1849183886)
 - [Lifehacker] [This Refurbished MacBook Pro Is $470 Right Now](https://lifehacker.com/this-refurbished-macbook-pro-is-470-right-now-1850665681)
 - [Dev.to/JS] [Coding Period GSoC&#39;23 | Week 7+8](https://dev.to/prerna0202/coding-period-gsoc23-week-78-2jch)
 - [Dev.to/JS] [Higher Order Function &lpar;HOF&rpar; in JavaScript](https://dev.to/diwakarkashyap/higher-order-function-hof-in-javascript-10b1)
@@ -40,14 +48,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My Favorite Ways to Get Kids Out the Door in the Morning](https://lifehacker.com/get-kids-moving-in-the-morning-with-these-tricks-1831870445)
 - [Dev.to/JS] [Intl.Segmenter&lpar;&rpar;: Don&#39;t use string.split&lpar;&rpar; nor string.length](https://dev.to/ayc0/intlsegmenter-dont-use-stringsplit-nor-stringlength-dh6)
 - [Dev.to/JS] [Open Source Software vs. Closed Source Software: Understanding the Differences](https://dev.to/idurar/open-source-software-vs-closed-source-software-understanding-the-differences-3c5f)
-- [Dev.to/JS] [🏆 Top 5 full-stack JS frameworks in 2023 - which one should you pick for your next project? 🤔](https://dev.to/matijasos/top-5-full-stack-js-frameworks-in-2023-which-one-should-you-pick-for-your-next-project-2ng6)
 - [Lifehacker] [All the Credit Cards That Give You Free Checked Bags](https://lifehacker.com/all-the-credit-cards-that-give-you-free-checked-bags-1850669786)
 - [Lifehacker] [How to Break Out of Eggshell Parenting](https://lifehacker.com/how-to-break-out-of-eggshell-parenting-1850670721)
-- [Dev.to/JS] [Parse form data in node.js](https://dev.to/codewitgabi/parse-form-data-in-nodejs-443p)
 - [Lifehacker] [How I Became a Board Game Writer](https://lifehacker.com/how-i-became-a-board-game-writer-1850610140)
-- [Dev.to/JS] [Type conversions in JavaScript](https://dev.to/iamurmani/type-conversions-in-javascript-3kf6)
-- [Dev.to/JS] [Build a Dynamic Bar Chart with JavaScript 📊](https://dev.to/dostonnabotov/build-a-dynamic-bar-chart-with-javascript-1e0c)
-- [Dev.to/JS] [JavaScript &quot;textContent&quot; vs &quot;innerHTML&quot;](https://dev.to/hira_zaira/javascript-textcontent-vs-innerhtml-2mif)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT App Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
 - [Lifehacker] [13 of the Most Useful Hidden Features in iOS 17](https://lifehacker.com/the-best-new-hidden-features-in-ios-17-1850670412)
 - [Lifehacker] [The Worst Fabrics to Wear in Hot Weather](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [20 Awesome Indie Games You Should Play on Nintendo Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)
 - [Lifehacker] [Save Money Gardening by Growing Your Own Perennials From Seed](https://lifehacker.com/save-money-gardening-by-growing-your-own-perennials-fro-1850669309)
 - [Lifehacker] [Why You Should Slice Your Avocados the ‘Wrong’ Way](https://lifehacker.com/why-you-should-slice-your-avocados-the-wrong-way-1850670551)
-- [Lifehacker] [Dogs Can Suffer Heatstroke, and Other Things to Know About Keeping Your Pet Cool in the Summer](https://lifehacker.com/dogs-can-suffer-heatstroke-and-other-things-to-know-ab-1847024393)
-- [Lifehacker] [Norse Atlantic Airways Has Flights to Europe for $99 Right Now](https://lifehacker.com/norse-atlantic-airways-has-flights-to-europe-for-99-ri-1850670217)
-- [Lifehacker] [This Portable Projector and Screen Is $250 Right Now](https://lifehacker.com/this-portable-projector-and-screen-is-250-right-now-1850653451)
-- [Lifehacker] [How to Delete Your Account Now That Elon Musk Has Ruined Twitter](https://lifehacker.com/how-to-delete-your-twitter-account-when-youve-had-enoug-1848798491)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Dogs Can Suffer Heatstroke, and Other Things to Know About Keeping Your Pet Cool in the Summer](https://lifehacker.com/dogs-can-suffer-heatstroke-and-other-things-to-know-ab-1847024393)<!-- TECH-POSTS:END -->
 
 ---
 
