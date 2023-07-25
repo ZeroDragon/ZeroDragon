@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get a Lifetime of iBrave Cloud Web Hosting for $100](https://lifehacker.com/you-can-get-a-lifetime-of-ibrave-cloud-web-hosting-for-1850665713)
+- [Dev.to/JS] [Open source JavaScript Quiz App](https://dev.to/hamzaelkotp/open-source-javascript-quiz-app-42fn)
+- [Lifehacker] [&#39;Trash&#39; Your Next Batch of Wings](https://lifehacker.com/trash-your-next-batch-of-wings-1850675472)
+- [Lifehacker] [The 10 Best Twitter &lpar;or X&rpar; Alternatives](https://lifehacker.com/the-five-best-twitter-alternatives-1850607746)
 - [Lifehacker] [The Best Tech Gadgets for Working on the Go](https://lifehacker.com/the-best-tech-gadgets-for-working-on-the-go-1850674553)
 - [Lifehacker] [Make These Cheap and Healthy Meals With Stuff Already in Your Pantry](https://lifehacker.com/make-these-cheap-and-healthy-meals-with-stuff-already-i-1850674725)
-- [Dev.to/JS] [How to Implement Lazy Loading in Your Angular Application⭐](https://dev.to/mana95/how-to-implement-lazy-loading-in-your-angular-application-4gi1)
+- [Dev.to/JS] [Implementing Lazy Loading from Angular ⭐](https://dev.to/mana95/how-to-implement-lazy-loading-in-your-angular-application-4gi1)
 - [Lifehacker] [The Easiest Ways to Cheat at a Step-Counting Challenge](https://lifehacker.com/how-to-cheat-at-a-step-counting-challenge-1839476401)
 - [Lifehacker] [You Should Try Google Assistant&#39;s &#39;Bedtime&#39; Routine](https://lifehacker.com/you-should-try-google-assistants-bedtime-routine-1850672240)
 - [Dev.to/JS] [Twitter X Uncovered: Everything You Need to Know](https://dev.to/thenomadevel/twitter-x-uncovered-everything-you-need-to-know-3fhi)
@@ -47,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building chatbots with Vicuna-13B, an open-source LLM trained on conversations](https://dev.to/mikeyoung44/building-chatbots-with-vicuna-13b-an-open-source-llm-trained-on-conversations-af4)
 - [Lifehacker] [How to Watch Every Christopher Nolan Film on Streaming](https://lifehacker.com/how-to-watch-every-christopher-nolan-film-on-streaming-1850670190)
 - [Dev.to/JS] [Skeleton Mammoth - or how I&#39;ve been solving the problem of reusable Skeleton Loaders.](https://dev.to/wolfriend/skeleton-mammoth-or-how-ive-been-solving-the-problem-of-reusable-skeleton-loaders-1b8b)
-- [Dev.to/JS] [is there a good youtube channel about : Figma to React walkthrough?](https://dev.to/starman1999/is-there-a-good-youtube-channel-about-figma-to-react-walkthrough-4j58)
 - [Lifehacker] [Your ‘Dopamine Fast’ Could Backfire](https://lifehacker.com/why-your-dopamine-fast-could-backfire-1850664408)
 - [Lifehacker] [Download Your Tweets Before Quitting Twitter](https://lifehacker.com/download-your-tweets-before-quitting-twitter-1849778871)
 - [Lifehacker] [What to Do When You Get Chills While Working Out](https://lifehacker.com/what-to-do-when-you-get-chills-while-working-out-1850671737)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Break Out of Eggshell Parenting](https://lifehacker.com/how-to-break-out-of-eggshell-parenting-1850670721)
 - [Lifehacker] [How I Became a Board Game Writer](https://lifehacker.com/how-i-became-a-board-game-writer-1850610140)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT App Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
-- [Lifehacker] [13 of the Most Useful Hidden Features in iOS 17](https://lifehacker.com/the-best-new-hidden-features-in-ios-17-1850670412)
-- [Lifehacker] [The Worst Fabrics to Wear in Hot Weather](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
-- [Lifehacker] [You Can Get This Kodak Film Scanner for $170](https://lifehacker.com/you-can-get-this-kodak-film-scanner-for-170-1850653415)
-- [Lifehacker] [These Recalled Trader Joe’s Cookies Might Have Rocks In Them](https://lifehacker.com/these-recalled-trader-joe-s-cookies-might-have-rocks-in-1850671236)<!-- TECH-POSTS:END -->
+- [Lifehacker] [13 of the Most Useful Hidden Features in iOS 17](https://lifehacker.com/the-best-new-hidden-features-in-ios-17-1850670412)<!-- TECH-POSTS:END -->
 
 ---
 
