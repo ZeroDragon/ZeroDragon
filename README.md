@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What Are SOLID Design Principles](https://dev.to/ggorantala/what-are-solid-design-principles-1n22)
+- [Dev.to/JS] [How To Construct An Array-Like Data Structure?](https://dev.to/ggorantala/how-to-construct-an-array-like-data-structure-255k)
 - [Dev.to/JS] [Transforming 2D Images into 3D with the AdaMPI AI Model](https://dev.to/mikeyoung44/transforming-2d-images-into-3d-with-the-adampi-ai-model-2lg7)
 - [Dev.to/JS] [Integrating Google Popup Login into Your Website with Google One Tap API](https://dev.to/sh20raj/integrating-google-popup-login-into-your-website-with-google-one-tap-api-11h8)
 - [Dev.to/JS] [Brief Explanation of Javascript Module Bundler](https://dev.to/mustafamilyas/brief-explanation-of-javascript-module-bundler-b1k)
@@ -43,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your First Mile Always Sucks &lpar;and Why That&#39;s OK&rpar;](https://lifehacker.com/the-first-mile-always-sucks-let-it-go-1752457839)
 - [Dev.to/JS] [Dominando os fundamentos do JavaScript](https://dev.to/diegodmitry/principais-conceitos-do-javascript-36kg)
 - [Lifehacker] [The Best Career-Planning Quizzes for Basically Anyone](https://lifehacker.com/the-best-career-planning-quizzes-for-basically-anyone-1850670966)
-- [Dev.to/JS] [Svelte: set a default radio button with bind](https://dev.to/charlesloder/tidbit-svelte-default-radio-button-4bc8)
-- [Dev.to/JS] [How I Conduct an Accessibility Audit](https://dev.to/thawkin3/how-i-conduct-an-accessibility-audit-57m4)
 - [Lifehacker] [The Different Hammers You Should Have &lpar;and When to Use Them&rpar;](https://lifehacker.com/the-different-hammers-you-should-have-and-when-to-use-1850670713)
 - [Lifehacker] [Buy These Toys That Let Kids &#39;Play&#39; Like Grown-Ups](https://lifehacker.com/buy-toys-that-let-kids-play-like-grown-ups-1831154025)
 - [Lifehacker] [These Are the Best Bags for Your Daily Commute](https://lifehacker.com/these-are-the-best-bags-for-your-daily-commute-1850670008)
