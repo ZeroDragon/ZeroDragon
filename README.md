@@ -26,12 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do When You Get Chills While Working Out](https://lifehacker.com/what-to-do-when-you-get-chills-while-working-out-1850671737)
+- [Dev.to/JS] [How I Created a File Sharing Website using Simple REACT](https://dev.to/varshithvhegde/how-i-created-a-file-sharing-website-using-simple-react-41f)
+- [Lifehacker] [Thicken Your Salad Dressing With Cooked Egg Yolks](https://lifehacker.com/thicken-your-salad-dressing-with-cooked-egg-yolks-1850671825)
+- [Dev.to/JS] [Basic, Intermediate, Advanced Next.js Projects](https://dev.to/vulcanwm/basic-intermediate-advanced-nextjs-projects-2mh2)
+- [Lifehacker] [These Are the Cheapest Vacation Destinations in the U.S. Right Now](https://lifehacker.com/these-are-the-cheapest-vacation-destinations-in-the-u-s-1850670621)
 - [Dev.to/JS] [Mastering Parallel Execution with async/await in JavaScript &lpar;Node.js&rpar; for Beginners](https://dev.to/ericus123/mastering-parallel-execution-with-asyncawait-in-javascript-nodejs-for-beginners-1i7d)
 - [Lifehacker] [What an AI Girlfriend Can &lpar;and Can&#39;t&rpar; Do](https://lifehacker.com/what-an-ai-girlfriend-can-and-cant-do-1850666245)
 - [Lifehacker] [This Refurbished MacBook Pro Is $470 Right Now](https://lifehacker.com/this-refurbished-macbook-pro-is-470-right-now-1850665681)
 - [Dev.to/JS] [Coding Period GSoC&#39;23 | Week 7+8](https://dev.to/prerna0202/coding-period-gsoc23-week-78-2jch)
 - [Dev.to/JS] [Higher Order Function &lpar;HOF&rpar; in JavaScript](https://dev.to/diwakarkashyap/higher-order-function-hof-in-javascript-10b1)
 - [Lifehacker] [Drizzle a Little Honey on Your Tomatoes](https://lifehacker.com/drizzle-a-little-honey-on-your-tomatoes-1850671917)
+- [Lifehacker] [My Favorite Ways to Get Kids Out the Door in the Morning](https://lifehacker.com/get-kids-moving-in-the-morning-with-these-tricks-1831870445)
 - [Dev.to/JS] [Intl.Segmenter&lpar;&rpar;: Don&#39;t use string.split&lpar;&rpar; nor string.length](https://dev.to/ayc0/intlsegmenter-dont-use-stringsplit-nor-stringlength-dh6)
 - [Dev.to/JS] [Open Source Software vs. Closed Source Software: Understanding the Differences](https://dev.to/idurar/open-source-software-vs-closed-source-software-understanding-the-differences-3c5f)
 - [Dev.to/JS] [🏆 Top 5 full-stack JS frameworks in 2023 - which one should you pick for your next project? 🤔](https://dev.to/matijasos/top-5-full-stack-js-frameworks-in-2023-which-one-should-you-pick-for-your-next-project-2ng6)
@@ -42,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Type conversions in JavaScript](https://dev.to/iamurmani/type-conversions-in-javascript-3kf6)
 - [Dev.to/JS] [Build a Dynamic Bar Chart with JavaScript 📊](https://dev.to/dostonnabotov/build-a-dynamic-bar-chart-with-javascript-1e0c)
 - [Dev.to/JS] [JavaScript &quot;textContent&quot; vs &quot;innerHTML&quot;](https://dev.to/hira_zaira/javascript-textcontent-vs-innerhtml-2mif)
-- [Dev.to/JS] [The Importance of Avoiding Code Style Divergence and 3 Tips to Ensure Consistency](https://dev.to/stretch0/the-importance-of-avoiding-code-style-divergence-and-3-tips-to-ensure-consistency-2mjp)
-- [Dev.to/JS] [Destructuring for type safety in JavaScript](https://dev.to/jj/destructuring-for-type-safety-in-javascript-17l4)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT App Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
 - [Lifehacker] [13 of the Most Useful Hidden Features in iOS 17](https://lifehacker.com/the-best-new-hidden-features-in-ios-17-1850670412)
 - [Lifehacker] [The Worst Fabrics to Wear in Hot Weather](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Dogs Can Suffer Heatstroke, and Other Things to Know About Keeping Your Pet Cool in the Summer](https://lifehacker.com/dogs-can-suffer-heatstroke-and-other-things-to-know-ab-1847024393)
 - [Lifehacker] [Norse Atlantic Airways Has Flights to Europe for $99 Right Now](https://lifehacker.com/norse-atlantic-airways-has-flights-to-europe-for-99-ri-1850670217)
 - [Lifehacker] [This Portable Projector and Screen Is $250 Right Now](https://lifehacker.com/this-portable-projector-and-screen-is-250-right-now-1850653451)
-- [Lifehacker] [How to Delete Your Account Now That Elon Musk Has Ruined Twitter](https://lifehacker.com/how-to-delete-your-twitter-account-when-youve-had-enoug-1848798491)
-- [Lifehacker] [Turn Your iPhone Into a Smart Display Using iOS 17&#39;s StandBy Mode](https://lifehacker.com/turn-your-iphone-into-a-smart-display-using-ios-17s-sta-1850669362)
-- [Lifehacker] [AI Can Help Improve Your Child’s Reading Skills](https://lifehacker.com/ai-can-help-improve-your-child-s-reading-skills-1850665782)
-- [Lifehacker] [Marinate Your Tomatoes for Extra Flavorful BLTs](https://lifehacker.com/marinate-your-tomatoes-for-extra-flavorful-blts-1837717762)
-- [Lifehacker] [The Gardening Tools I Use Every Day](https://lifehacker.com/the-gardening-tools-i-use-every-day-1850669323)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Delete Your Account Now That Elon Musk Has Ruined Twitter](https://lifehacker.com/how-to-delete-your-twitter-account-when-youve-had-enoug-1848798491)<!-- TECH-POSTS:END -->
 
 ---
 
