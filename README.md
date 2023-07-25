@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Road Map To Become a Web Developer](https://dev.to/scofieldidehen/road-map-to-become-a-web-developer-3k7)
+- [Dev.to/JS] [ReactJS Coding and TechTalking, come join :D](https://dev.to/arthursmuller/reactjs-coding-and-techtalking-come-join-d-30jh)
+- [Dev.to/JS] [Pilhas: entendendo como essa estrutura de dados funciona](https://dev.to/brunopinho/pilhas-entendendo-como-essa-estrutura-de-dados-funciona-3al5)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT App Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
 - [Dev.to/JS] [Dynamic Filtering With Prisma](https://dev.to/rizqyep/dynamic-filtering-with-prisma-part-1-3697)
 - [Lifehacker] [13 of the Most Useful Hidden Features in iOS 17](https://lifehacker.com/the-best-new-hidden-features-in-ios-17-1850670412)
@@ -44,10 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn about XSS, submit your app of the week, have an AI make you a mixtape, and other things to do when it&#39;s too hot outside](https://dev.to/glitch/learn-about-xss-submit-your-app-of-the-week-have-an-ai-make-you-a-mixtape-and-other-things-to-do-when-its-too-hot-outside-4hji)
 - [Dev.to/JS] [Why Nuxt is My perfect JavaScript framework?](https://dev.to/brianmhlanga/why-nuxt-is-my-perfect-javascript-framework-387p)
 - [Lifehacker] [Buy These Toys That Let Kids &#39;Play&#39; Like Grown-Ups](https://lifehacker.com/buy-toys-that-let-kids-play-like-grown-ups-1831154025)
-- [Dev.to/JS] [Beer CSS tips #2: Custom chips](https://dev.to/leonardorafael/beer-css-tips-2-custom-chips-2778)
 - [Lifehacker] [These Are the Best Bags for Your Daily Commute](https://lifehacker.com/these-are-the-best-bags-for-your-daily-commute-1850670008)
-- [Dev.to/JS] [Build a checkout button with vue-stripe](https://dev.to/orliesaurus/build-a-checkout-button-with-vue-stripe-3n5f)
-- [Dev.to/JS] [9 Image Optimization Tricks for a Seamless Web Experience](https://dev.to/arulvalananto/9-image-optimization-tricks-for-a-seamless-web-experience-29dc)
 - [Lifehacker] [How to Navigate Your Endometriosis Diagnosis](https://lifehacker.com/how-to-navigate-your-endometriosis-diagnosis-1850662149)
 - [Lifehacker] [20 Awesome Indie Games You Should Play on Nintendo Switch](https://lifehacker.com/15-awesome-indie-games-you-should-play-on-your-new-swit-1849926120)
 - [Lifehacker] [Save Money Gardening by Growing Your Own Perennials From Seed](https://lifehacker.com/save-money-gardening-by-growing-your-own-perennials-fro-1850669309)
