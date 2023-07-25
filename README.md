@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Credit Cards That Give You Free Checked Bags](https://lifehacker.com/all-the-credit-cards-that-give-you-free-checked-bags-1850669786)
+- [Lifehacker] [How to Break Out of Eggshell Parenting](https://lifehacker.com/how-to-break-out-of-eggshell-parenting-1850670721)
+- [Dev.to/JS] [Parse form data in node.js](https://dev.to/codewitgabi/parse-form-data-in-nodejs-443p)
+- [Lifehacker] [How I Became a Board Game Writer](https://lifehacker.com/how-i-became-a-board-game-writer-1850610140)
 - [Dev.to/JS] [Type conversions in JavaScript](https://dev.to/iamurmani/type-conversions-in-javascript-3kf6)
 - [Dev.to/JS] [Build a Dynamic Bar Chart with JavaScript 📊](https://dev.to/dostonnabotov/build-a-dynamic-bar-chart-with-javascript-1e0c)
 - [Dev.to/JS] [JavaScript &quot;textContent&quot; vs &quot;innerHTML&quot;](https://dev.to/hira_zaira/javascript-textcontent-vs-innerhtml-2mif)
@@ -37,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Portfolio | ThisIs-Developer](https://dev.to/thisisdeveloper/portfolio-thisis-developer-56bf)
 - [Dev.to/JS] [Awesome top 5 Posts from last week tagged&lpar;#javascript&rpar;](https://dev.to/c4r4x35/awesome-top-5-posts-from-last-week-taggedjavascript-36hi)
 - [Dev.to/JS] [React State Management: A Comprehensive Guide](https://dev.to/bernieslearning/react-state-management-a-comprehensive-guide-4170)
-- [Dev.to/JS] [Retry loading an iframe until reachable in React](https://dev.to/fbcyborg/retry-loading-an-iframe-until-reachable-in-react-332b)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT App Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
 - [Lifehacker] [13 of the Most Useful Hidden Features in iOS 17](https://lifehacker.com/the-best-new-hidden-features-in-ios-17-1850670412)
 - [Lifehacker] [The Worst Fabrics to Wear in Hot Weather](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Gardening Tools I Use Every Day](https://lifehacker.com/the-gardening-tools-i-use-every-day-1850669323)
 - [Lifehacker] [Try These Cheap Fixes Before Replacing an Appliance](https://lifehacker.com/try-these-cheap-fixes-before-replacing-an-appliance-1850669294)
 - [Lifehacker] [Why You Should Salt Your Scrambled Eggs Before Cooking Them](https://lifehacker.com/salt-scrambled-eggs-15-minutes-before-cooking-for-the-p-1737044156)
-- [Lifehacker] [This Refurbished iPad Is 50% Off Right Now](https://lifehacker.com/this-refurbished-ipad-is-50-off-right-now-1850653480)
-- [Lifehacker] [Your Vinegar Might Not Be Safe for Canning](https://lifehacker.com/double-check-your-vinegar-it-may-not-be-safe-1850669266)
-- [Lifehacker] [Use Black Tea to Hide Scratches on Your Hardwood Floor](https://lifehacker.com/clean-your-hardwood-floors-and-hide-scratches-with-blac-1652458186)
-- [Lifehacker] [Splash a Little Campari Into Your Iced Coffee](https://lifehacker.com/splash-a-little-campari-into-your-iced-coffee-1850665805)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Refurbished iPad Is 50% Off Right Now](https://lifehacker.com/this-refurbished-ipad-is-50-off-right-now-1850653480)<!-- TECH-POSTS:END -->
 
 ---
 
