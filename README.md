@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Parallel Execution with async/await in JavaScript &lpar;Node.js&rpar; for Beginners](https://dev.to/ericus123/mastering-parallel-execution-with-asyncawait-in-javascript-nodejs-for-beginners-1i7d)
+- [Lifehacker] [What an AI Girlfriend Can &lpar;and Can&#39;t&rpar; Do](https://lifehacker.com/what-an-ai-girlfriend-can-and-cant-do-1850666245)
 - [Lifehacker] [This Refurbished MacBook Pro Is $470 Right Now](https://lifehacker.com/this-refurbished-macbook-pro-is-470-right-now-1850665681)
 - [Dev.to/JS] [Coding Period GSoC&#39;23 | Week 7+8](https://dev.to/prerna0202/coding-period-gsoc23-week-78-2jch)
 - [Dev.to/JS] [Higher Order Function &lpar;HOF&rpar; in JavaScript](https://dev.to/diwakarkashyap/higher-order-function-hof-in-javascript-10b1)
@@ -42,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript &quot;textContent&quot; vs &quot;innerHTML&quot;](https://dev.to/hira_zaira/javascript-textcontent-vs-innerhtml-2mif)
 - [Dev.to/JS] [The Importance of Avoiding Code Style Divergence and 3 Tips to Ensure Consistency](https://dev.to/stretch0/the-importance-of-avoiding-code-style-divergence-and-3-tips-to-ensure-consistency-2mjp)
 - [Dev.to/JS] [Destructuring for type safety in JavaScript](https://dev.to/jj/destructuring-for-type-safety-in-javascript-17l4)
-- [Dev.to/JS] [Getting Started with TypeScript: Benefits and Best Practices for JavaScript Developers](https://dev.to/sajeeb_me/getting-started-with-typescript-benefits-and-best-practices-for-javascript-developers-3p8g)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT App Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
 - [Lifehacker] [13 of the Most Useful Hidden Features in iOS 17](https://lifehacker.com/the-best-new-hidden-features-in-ios-17-1850670412)
 - [Lifehacker] [The Worst Fabrics to Wear in Hot Weather](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Turn Your iPhone Into a Smart Display Using iOS 17&#39;s StandBy Mode](https://lifehacker.com/turn-your-iphone-into-a-smart-display-using-ios-17s-sta-1850669362)
 - [Lifehacker] [AI Can Help Improve Your Child’s Reading Skills](https://lifehacker.com/ai-can-help-improve-your-child-s-reading-skills-1850665782)
 - [Lifehacker] [Marinate Your Tomatoes for Extra Flavorful BLTs](https://lifehacker.com/marinate-your-tomatoes-for-extra-flavorful-blts-1837717762)
-- [Lifehacker] [The Gardening Tools I Use Every Day](https://lifehacker.com/the-gardening-tools-i-use-every-day-1850669323)
-- [Lifehacker] [Try These Cheap Fixes Before Replacing an Appliance](https://lifehacker.com/try-these-cheap-fixes-before-replacing-an-appliance-1850669294)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Gardening Tools I Use Every Day](https://lifehacker.com/the-gardening-tools-i-use-every-day-1850669323)<!-- TECH-POSTS:END -->
 
 ---
 
