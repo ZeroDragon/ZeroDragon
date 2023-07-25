@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript &quot;textContent&quot; vs &quot;innerHTML&quot;](https://dev.to/hira_zaira/javascript-textcontent-vs-innerhtml-2mif)
+- [Dev.to/JS] [The Importance of Avoiding Code Style Divergence and 3 Tips to Ensure Consistency](https://dev.to/stretch0/the-importance-of-avoiding-code-style-divergence-and-3-tips-to-ensure-consistency-2mjp)
 - [Dev.to/JS] [Destructuring for type safety in JavaScript](https://dev.to/jj/destructuring-for-type-safety-in-javascript-17l4)
 - [Dev.to/JS] [Getting Started with TypeScript: Benefits and Best Practices for JavaScript Developers](https://dev.to/sajeeb_me/getting-started-with-typescript-benefits-and-best-practices-for-javascript-developers-3p8g)
 - [Dev.to/JS] [#LearnedToday:](https://dev.to/danielzotti/learnedtoday-13f)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Retry loading an iframe until reachable in React](https://dev.to/fbcyborg/retry-loading-an-iframe-until-reachable-in-react-332b)
 - [Dev.to/JS] [Introducing React Hook Kit: A Comprehensive Toolkit for Your React Development](https://dev.to/sdr34/introducing-react-hook-kit-a-comprehensive-toolkit-for-your-react-development-5cio)
 - [Dev.to/JS] [My Journey in Open Source - set-timeout-by-id](https://dev.to/cadienvan/my-journey-in-open-source-set-timeout-by-id-2ibh)
-- [Dev.to/JS] [Angular Addicts #15: Angular v16.1, Typescript 5.1, new RFCs &amp; more](https://dev.to/this-is-angular/angular-addicts-15-angular-v161-typescript-51-new-rfcs-more-4kp9)
-- [Dev.to/JS] [Deepclone polyfill javascript](https://dev.to/chandrapenugonda/deepclone-polyfill-javascript-4822)
 - [Lifehacker] [Make Sure You Aren’t Using a Scammy ChatGPT App Knockoff](https://lifehacker.com/make-sure-you-aren-t-using-a-scammy-chatgpt-knockoff-1850474718)
 - [Lifehacker] [13 of the Most Useful Hidden Features in iOS 17](https://lifehacker.com/the-best-new-hidden-features-in-ios-17-1850670412)
 - [Lifehacker] [The Worst Fabrics to Wear in Hot Weather](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
