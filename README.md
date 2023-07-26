@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Realtime Applications: React.js &amp;&amp; Websockets, processing real-time data 2!](https://dev.to/sfundomhlungu/realtime-applications-reactjs-websockets-processing-real-time-data-2-ae8)
+- [Lifehacker] [10 Podcasts for Your Next Family Road Trip](https://lifehacker.com/the-best-podcasts-for-family-road-trips-1850671933)
+- [Dev.to/JS] [How we made the new report feature of sls-mentor](https://dev.to/quentinnativel/generate-pretty-reports-from-your-cli-tool-1m83)
+- [Dev.to/JS] [Please help me with my Javascript](https://dev.to/m_hashir147/please-help-me-with-my-javascript-3hlj)
+- [Dev.to/JS] [Realtime Applications: React.js &amp;&amp; Websockets, processing real-time data 2!](https://dev.to/sfundomhlungu/realtime-applications-reactjs-websockets-processing-real-time-data-2-35oo)
+- [Dev.to/JS] [Realtime Applications: React.js &amp;&amp; Websockets, processing real-time data!](https://dev.to/sfundomhlungu/realtime-applications-reactjs-websockets-processing-real-time-data-54b9)
+- [Dev.to/JS] [Unlocking the Power of Ruby on Rails: Exploring Key Features and Benefits of the Framework](https://dev.to/infowindtechno/unlocking-the-power-of-ruby-on-rails-exploring-key-features-and-benefits-of-the-framework-1k20)
 - [Dev.to/JS] [Fetch Excel files and convert to JSON with SheetJS](https://dev.to/artydev/excel-files-to-json-with-sheetjs-83d)
 - [Dev.to/JS] [Solving CAPTCHA Using Capsolver](https://dev.to/ethand91/solving-captcha-using-capsolver-h8j)
 - [Dev.to/JS] [🚀 Ref It Right: Leveraging Refs to Optimize React Effects](https://dev.to/hunyan/ref-it-right-leveraging-refs-to-optimize-react-effects-17bj)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is the best way to start your first AI project as a frontend developer?](https://dev.to/sip/what-is-the-best-way-to-start-your-first-ai-project-as-a-frontend-developer-2doc)
 - [Dev.to/JS] [WebRTC Help!!](https://dev.to/coder7/webrtc-help-55f)
 - [Dev.to/JS] [Empowering Your Business with a Leading App Development Company](https://dev.to/amarajackson/empowering-your-business-with-a-leading-app-development-company-3bho)
-- [Dev.to/JS] [Top 5 economies in world](https://dev.to/digiupdatehub/top-5-economies-in-world-3h41)
-- [Dev.to/JS] [Building Framer Motion Animations Inside a Qwik Application](https://dev.to/builderio/building-framer-motion-animations-inside-a-qwik-application-3n2l)
-- [Dev.to/JS] [Prepare for Success: MS-101 Exam Dumps by Dumpsboss](https://dev.to/ms101examdumps/prepare-for-success-ms-101-exam-dumps-by-dumpsboss-5g2p)
-- [Dev.to/JS] [Deploying Multi-Container React.js and Node.js With Docker Compose](https://dev.to/jspanther/deploying-multi-container-reactjs-and-nodejs-with-docker-compose-4j5k)
 - [Lifehacker] [The Best Chapter Books for Preschoolers, According to NYPL Librarians](https://lifehacker.com/14-really-good-chapter-books-for-preschoolers-that-libr-1819312259)
 - [Lifehacker] [Where to Watch &#39;What We Do in the Shadows&#39; Season 5 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-what-we-do-in-the-shadows-season-5-and-1850671440)
 - [Lifehacker] [Where to Watch &#39;Futurama&#39; Season 11 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-futurama-season-11-and-what-you-should-1850672318)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Use These Common, Bad Ways to Clean Your Glasses](https://lifehacker.com/dont-do-these-things-when-you-clean-your-glasses-1849183886)
 - [Lifehacker] [This Refurbished MacBook Pro Is $470 Right Now](https://lifehacker.com/this-refurbished-macbook-pro-is-470-right-now-1850665681)
 - [Lifehacker] [Drizzle a Little Honey on Your Tomatoes](https://lifehacker.com/drizzle-a-little-honey-on-your-tomatoes-1850671917)
-- [Lifehacker] [My Favorite Ways to Get Kids Out the Door in the Morning](https://lifehacker.com/get-kids-moving-in-the-morning-with-these-tricks-1831870445)
-- [Lifehacker] [All the Credit Cards That Give You Free Checked Bags](https://lifehacker.com/all-the-credit-cards-that-give-you-free-checked-bags-1850669786)<!-- TECH-POSTS:END -->
+- [Lifehacker] [My Favorite Ways to Get Kids Out the Door in the Morning](https://lifehacker.com/get-kids-moving-in-the-morning-with-these-tricks-1831870445)<!-- TECH-POSTS:END -->
 
 ---
 
