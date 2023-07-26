@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Begineer: Synchronous vs Asynchronous Programming](https://dev.to/maxwiggedal/begineer-synchronous-vs-asynchronous-programming-4k96)
 - [Dev.to/JS] [Embracing the Power of Open Source:My Journey from Confusion to Collaboration](https://dev.to/chinwenma/embracing-the-power-of-open-sourcemy-journey-from-confusion-to-collaboration-1ek7)
 - [Lifehacker] [The Best Chapter Books for Preschoolers, According to NYPL Librarians](https://lifehacker.com/14-really-good-chapter-books-for-preschoolers-that-libr-1819312259)
 - [Lifehacker] [Where to Watch &#39;What We Do in the Shadows&#39; Season 5 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-what-we-do-in-the-shadows-season-5-and-1850671440)
@@ -53,7 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This 6-in-1 Charging Cable Is $22 Right Now](https://lifehacker.com/this-6-in-1-charging-cable-is-22-right-now-1850665758)
 - [Dev.to/JS] [Super Context: Unleashing Blazing Performance for Your ReactJS Apps!](https://dev.to/guidogr95/super-context-unleashing-blazing-performance-for-your-reactjs-apps-1k07)
 - [Lifehacker] [Here’s How Much Your Old Pokémon Cards Could Be Worth](https://lifehacker.com/how-much-are-your-pokemon-cards-worth-lately-1846888650)
-- [Dev.to/JS] [Challenges working on my first app with React Native](https://dev.to/jonathanccardoso/challenges-working-on-my-first-app-with-react-native-j77)
 - [Lifehacker] [How to Watch Every Christopher Nolan Film on Streaming](https://lifehacker.com/how-to-watch-every-christopher-nolan-film-on-streaming-1850670190)
 - [Lifehacker] [Your ‘Dopamine Fast’ Could Backfire](https://lifehacker.com/why-your-dopamine-fast-could-backfire-1850664408)
 - [Lifehacker] [Download Your Tweets Before Quitting Twitter](https://lifehacker.com/download-your-tweets-before-quitting-twitter-1849778871)
