@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [API&#39;s and Web Development: The Ying to the Yang](https://dev.to/scofieldidehen/apis-and-web-development-the-ying-to-the-yang-d4n)
+- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in August 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-august-2023-1850677672)
+- [Dev.to/JS] [How to Build Student Progress Reports in Your JavaScript Application](https://dev.to/grapecity/how-to-build-student-progress-reports-in-your-javascript-application-pfd)
+- [Dev.to/JS] [Failed to load module script: Expected a JavaScript module script but the server responded with a MIME type of &quot;text/html&quot;](https://dev.to/mbenaventet/failed-to-load-module-script-expected-a-javascript-module-script-but-the-server-responded-with-a-mime-type-of-texthtml-4fj5)
 - [Lifehacker] [Where You Can Get Free &lpar;or Cheap&rpar; Wings on National Chicken Wing Day](https://lifehacker.com/where-you-can-get-free-or-cheap-wings-on-national-chi-1850676098)
 - [Dev.to/JS] [How to Effectively Use Error Boundaries in Functional React Components](https://dev.to/msubhro_mukherjee/how-to-effectively-use-error-boundaries-in-functional-react-components-ede)
 - [Lifehacker] [You Can Find Your Twitter Follows on Other Social Media Platforms](https://lifehacker.com/you-can-find-your-twitter-follows-on-other-social-media-1850675120)
@@ -40,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Refurbished 24-Inch Acer Monitor Is $130 Right Now](https://lifehacker.com/this-refurbished-24-inch-acer-monitor-is-130-right-now-1850672320)
 - [Dev.to/JS] [How to Change a Webpage UI with a Chrome Extension](https://dev.to/opensauced/how-to-change-a-webpage-ui-with-a-chrome-extension-jn8)
 - [Dev.to/JS] [Build a responsive website with reactjs and tailwindcss - Part 1](https://dev.to/kwakyebrilliant/build-a-responsive-website-with-reactjs-and-tailwindcss-part-1-43m1)
-- [Dev.to/JS] [Use the grammar correction API provided by GPT2API to fix English grammar errors.](https://dev.to/newbing/use-grammar-correction-api-to-fix-english-grammar-error-3mme)
-- [Dev.to/JS] [🚀How to fetch API in Proper way &amp; Add additional features 🌟](https://dev.to/bhavyashah/how-to-fetch-api-in-proper-way-add-additional-features-3l52)
 - [Lifehacker] [Your Training &#39;Week&#39; Doesn’t Have to Be Seven Days Long](https://lifehacker.com/your-training-week-doesn-t-have-to-be-seven-days-long-1850675605)
-- [Dev.to/JS] [Evergreen Tooling - More than Just CodeMods](https://dev.to/nx/evergreen-tooling-more-than-just-codemods-497a)
 - [Lifehacker] [Make Waffled SPAM Pops for a Debauched Start to the Day](https://lifehacker.com/make-waffled-spam-pops-for-a-debauched-start-to-the-day-1850676375)
 - [Lifehacker] [What to Do When a Contractor Ghosts You Mid-Project](https://lifehacker.com/what-to-do-when-a-contractor-ghosts-you-mid-project-1850674402)
 - [Lifehacker] [10 Podcasts for Your Next Family Road Trip](https://lifehacker.com/the-best-podcasts-for-family-road-trips-1850671933)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This 6-in-1 Charging Cable Is $22 Right Now](https://lifehacker.com/this-6-in-1-charging-cable-is-22-right-now-1850665758)
 - [Lifehacker] [Here’s How Much Your Old Pokémon Cards Could Be Worth](https://lifehacker.com/how-much-are-your-pokemon-cards-worth-lately-1846888650)
 - [Lifehacker] [How to Watch Every Christopher Nolan Film on Streaming](https://lifehacker.com/how-to-watch-every-christopher-nolan-film-on-streaming-1850670190)
-- [Lifehacker] [Your ‘Dopamine Fast’ Could Backfire](https://lifehacker.com/why-your-dopamine-fast-could-backfire-1850664408)
-- [Lifehacker] [Download Your Tweets Before Quitting Twitter](https://lifehacker.com/download-your-tweets-before-quitting-twitter-1849778871)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your ‘Dopamine Fast’ Could Backfire](https://lifehacker.com/why-your-dopamine-fast-could-backfire-1850664408)<!-- TECH-POSTS:END -->
 
 ---
 
