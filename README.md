@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WebRTC Help!!](https://dev.to/coder7/webrtc-help-55f)
+- [Dev.to/JS] [Empowering Your Business with a Leading App Development Company](https://dev.to/amarajackson/empowering-your-business-with-a-leading-app-development-company-3bho)
 - [Dev.to/JS] [Top 5 economies in world](https://dev.to/digiupdatehub/top-5-economies-in-world-3h41)
 - [Dev.to/JS] [Building Framer Motion Animations Inside a Qwik Application](https://dev.to/builderio/building-framer-motion-animations-inside-a-qwik-application-3n2l)
 - [Dev.to/JS] [Prepare for Success: MS-101 Exam Dumps by Dumpsboss](https://dev.to/ms101examdumps/prepare-for-success-ms-101-exam-dumps-by-dumpsboss-5g2p)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are the most common redirection methods for bingers ?](https://dev.to/tranktech/what-are-the-most-common-redirection-methods-for-bingers--ci7)
 - [Dev.to/JS] [How to extract public id from a Cloudinary URL easily](https://dev.to/mayashavin/how-to-extract-public-id-from-a-cloudinary-url-easily-3c6l)
 - [Dev.to/JS] [Weekly web development resources #159](https://dev.to/vincenius/weekly-web-development-resources-159-3c39)
-- [Dev.to/JS] [Javascript Take Photo With Webcam](https://dev.to/codeboxx/javascript-take-photo-with-webcam-1h3a)
-- [Dev.to/JS] [How to Get Data From an API in React.js?](https://dev.to/aliegotha/how-to-get-data-from-an-api-in-reactjs-4e56)
 - [Lifehacker] [The Best Chapter Books for Preschoolers, According to NYPL Librarians](https://lifehacker.com/14-really-good-chapter-books-for-preschoolers-that-libr-1819312259)
 - [Lifehacker] [Where to Watch &#39;What We Do in the Shadows&#39; Season 5 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-what-we-do-in-the-shadows-season-5-and-1850671440)
 - [Lifehacker] [Where to Watch &#39;Futurama&#39; Season 11 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-futurama-season-11-and-what-you-should-1850672318)
