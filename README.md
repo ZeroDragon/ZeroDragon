@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Take Photo With Webcam](https://dev.to/codeboxx/javascript-take-photo-with-webcam-1h3a)
+- [Dev.to/JS] [How to Get Data From an API in React.js?](https://dev.to/aliegotha/how-to-get-data-from-an-api-in-reactjs-4e56)
+- [Dev.to/JS] [custom Turbo Streams Channel with client-side initiated actions](https://dev.to/haroldus/custom-turbo-streams-channel-with-client-side-initiated-actions-535)
+- [Dev.to/JS] [Automation&lpar;Part - 2&rpar;: Popular languages and their libraries.](https://dev.to/pritamguha_41/automationpart-2-popular-languages-and-their-libraries-1ll3)
+- [Dev.to/JS] [Enum in javascript 🤯](https://dev.to/lakshmananarumugam/enum-in-javascript-4980)
+- [Dev.to/JS] [Exporting Declaration Files in Vite.js](https://dev.to/rashidshamloo/exporting-declaration-files-in-vitejs-f6m)
 - [Dev.to/JS] [Rapid Programming under minutes with CHATBOT](https://dev.to/aiforme/rapid-programming-under-minutes-with-chatbot-169j)
 - [Dev.to/JS] [Begineer: Synchronous vs Asynchronous Programming](https://dev.to/maxwiggedal/begineer-synchronous-vs-asynchronous-programming-4k96)
 - [Dev.to/JS] [Embracing the Power of Open Source:My Journey from Confusion to Collaboration](https://dev.to/chinwenma/embracing-the-power-of-open-sourcemy-journey-from-confusion-to-collaboration-1ek7)
@@ -43,15 +49,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing Lazy Loading from Angular ⭐](https://dev.to/mana95/how-to-implement-lazy-loading-in-your-angular-application-4gi1)
 - [Lifehacker] [The Easiest Ways to Cheat at a Step-Counting Challenge](https://lifehacker.com/how-to-cheat-at-a-step-counting-challenge-1839476401)
 - [Lifehacker] [You Should Try Google Assistant&#39;s &#39;Bedtime&#39; Routine](https://lifehacker.com/you-should-try-google-assistants-bedtime-routine-1850672240)
-- [Dev.to/JS] [Twitter X Uncovered: Everything You Need to Know](https://dev.to/thenomadevel/twitter-x-uncovered-everything-you-need-to-know-3fhi)
 - [Lifehacker] [Export Your Bookmarks So You Can Finally Quit Twitter](https://lifehacker.com/export-your-bookmarks-so-you-can-finally-quit-twitter-1850674081)
 - [Lifehacker] [You Should Poach Your Next Chicken](https://lifehacker.com/maximize-a-chickens-meal-potential-by-poaching-it-first-1822353539)
-- [Dev.to/JS] [Embracing Vue.js and PrimeVue in 2023: A Newbie Developer&#39;s Guide](https://dev.to/wizarddeveloper/embracing-vuejs-and-primevue-in-2023-a-newbie-developers-guide-chc)
 - [Lifehacker] [Where to Watch &#39;The Witcher&#39; Season 3, Part 2 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-the-witcher-season-3-part-2-and-what-y-1850671856)
-- [Dev.to/JS] [How to: implement payments in your app](https://dev.to/alvarojsnish/how-to-implent-payments-in-your-app-46o7)
-- [Dev.to/JS] [Iframe document write doesn&#39;t update JavaScript](https://dev.to/mori/iframe-document-write-doesnt-update-javascript-10i8)
-- [Dev.to/JS] [Mastering AJAX for Sports Data: A Comprehensive Guide to Seamless Web Development](https://dev.to/jacknorman235/mastering-ajax-for-sports-data-a-comprehensive-guide-to-seamless-web-development-31h1)
-- [Dev.to/JS] [Valibot: JavaScript Schema Validator](https://dev.to/jesterxl/valibot-javascript-schema-validator-4ke7)
 - [Lifehacker] [This 6-in-1 Charging Cable Is $22 Right Now](https://lifehacker.com/this-6-in-1-charging-cable-is-22-right-now-1850665758)
 - [Lifehacker] [Here’s How Much Your Old Pokémon Cards Could Be Worth](https://lifehacker.com/how-much-are-your-pokemon-cards-worth-lately-1846888650)
 - [Lifehacker] [How to Watch Every Christopher Nolan Film on Streaming](https://lifehacker.com/how-to-watch-every-christopher-nolan-film-on-streaming-1850670190)
