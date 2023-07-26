@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deploying a React App to AWS Elastic Beanstalk](https://dev.to/honeybadger/deploying-a-react-app-to-aws-elastic-beanstalk-2ala)
+- [Dev.to/JS] [With the increasing integration of AI, what do you see as the most promising career paths for the next gen of tech pro?](https://dev.to/snehasaha/with-the-increasing-integration-of-ai-what-do-you-see-as-the-most-promising-career-paths-for-the-next-gen-of-tech-pro-2md8)
+- [Lifehacker] [You Can Book a 9-Night Trip to Paris, London, and Amsterdam for $1,549 Right Now](https://lifehacker.com/you-can-book-a-9-night-trip-to-paris-london-and-amste-1850679283)
+- [Dev.to/JS] [Mastering JavaScript Shorthands](https://dev.to/leandro_nnz/mastering-javascript-shorthands-33mg)
+- [Dev.to/JS] [Detailed Guide to Firebase Realtime Database with a CRUD Tutorial using JavaScript](https://dev.to/mohitsinghchauhan/detailed-guide-to-firebase-realtime-database-with-a-crud-tutorial-using-javascript-1dik)
+- [Lifehacker] [Sous Vide Carnitas and Eat Tacos All Summer Long](https://lifehacker.com/sous-vide-carnitas-and-eat-tacos-all-summer-long-1825761771)
+- [Dev.to/JS] [How to upgrade jQuery on an old static HTML site &lpar;for embarrassingly new noobs&rpar;](https://dev.to/thisisjoewells/how-to-upgrade-jquery-on-an-old-static-html-site-for-embarrassingly-new-noobs-5eck)
 - [Lifehacker] [Samsung’s New Foldable Phones Are Here](https://lifehacker.com/samsung-s-new-foldable-phones-are-here-1850678999)
 - [Dev.to/JS] [Enhancing Web Accessibility: Locking the TAB Button within Modals and Menus](https://dev.to/bogdanfromkyiv/enhancing-web-accessibility-locking-the-tab-button-within-modals-and-menus-3774)
 - [Lifehacker] [Three Surprising Things That Can Make Your Sunscreen Less Effective](https://lifehacker.com/surprising-things-that-can-make-your-sunscreen-less-eff-1850679210)
@@ -43,13 +50,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Documentação do JavaScript - Simples](https://dev.to/urickalberth/documentacao-do-javascript-simples-9n8)
 - [Lifehacker] [Use an Umbrella to Catch Dust While Cleaning a Ceiling Fan](https://lifehacker.com/hang-an-umbrella-from-a-chandelier-to-catch-dust-and-dr-1770147853)
 - [Lifehacker] [You Can Still Get Into Cycling When You&#39;re Overweight](https://lifehacker.com/you-can-still-get-into-cycling-when-youre-overweight-1850676389)
-- [Dev.to/JS] [How to Add a React Excel XLSX Viewer to Your Web Application](https://dev.to/grapecity/how-to-add-a-react-excel-xlsx-viewer-to-your-web-application-2m5e)
 - [Lifehacker] [If Your Home Insurance Lapses, Do These Things Immediately](https://lifehacker.com/if-your-home-insurance-lapses-do-these-things-immediat-1850642820)
-- [Dev.to/JS] [Dynamic Arrays vs Traditional Arrays, With Illustrations and Examples](https://dev.to/ggorantala/dynamic-arrays-vs-traditional-arrays-with-code-examples-5dch)
-- [Dev.to/JS] [Roadmap for ReactJS Developers in 2023 | Zero to Hero](https://dev.to/blackhorse0101/roadmap-for-reactjs-developers-in-2023-zero-to-hero-nhb)
 - [Lifehacker] [These Are the Signs Your Dog Is Getting Car Sick](https://lifehacker.com/how-to-know-if-your-dog-is-getting-car-sick-1827247324)
-- [Dev.to/JS] [Unveiling AI-Logger: The Future of Debugging in Node.js](https://dev.to/victorforissier/unveiling-ai-logger-the-future-of-debugging-in-nodejs-41l8)
-- [Dev.to/JS] [Personalizing User Experience on Sports Websites: A Guide to JavaScript Cookies](https://dev.to/jacknorman235/personalizing-user-experience-on-sports-websites-a-guide-to-javascript-cookies-2mkk)
 - [Lifehacker] [Try These Unexpected Ways to Reuse Mouse Pads in Your House](https://lifehacker.com/try-these-unexpected-ways-to-reuse-mouse-pads-in-your-h-1850678077)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in August 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-august-2023-1850677672)
 - [Lifehacker] [Where You Can Get Free &lpar;or Cheap&rpar; Wings on National Chicken Wing Day](https://lifehacker.com/where-you-can-get-free-or-cheap-wings-on-national-chi-1850676098)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Podcasts for Your Next Family Road Trip](https://lifehacker.com/the-best-podcasts-for-family-road-trips-1850671933)
 - [Lifehacker] [The Best Chapter Books for Preschoolers, According to NYPL Librarians](https://lifehacker.com/14-really-good-chapter-books-for-preschoolers-that-libr-1819312259)
 - [Lifehacker] [Where to Watch &#39;What We Do in the Shadows&#39; Season 5 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-what-we-do-in-the-shadows-season-5-and-1850671440)
-- [Lifehacker] [Where to Watch &#39;Futurama&#39; Season 11 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-futurama-season-11-and-what-you-should-1850672318)
-- [Lifehacker] [You Should Roast a Whole Head of Garlic](https://lifehacker.com/how-to-roast-a-whole-head-of-garlic-1820407305)
-- [Lifehacker] [You Can Get a Lifetime of iBrave Cloud Web Hosting for $100](https://lifehacker.com/you-can-get-a-lifetime-of-ibrave-cloud-web-hosting-for-1850665713)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Watch &#39;Futurama&#39; Season 11 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-futurama-season-11-and-what-you-should-1850672318)<!-- TECH-POSTS:END -->
 
 ---
 
