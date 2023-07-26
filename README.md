@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Samsung’s New Foldable Phones Are Here](https://lifehacker.com/samsung-s-new-foldable-phones-are-here-1850678999)
+- [Dev.to/JS] [Enhancing Web Accessibility: Locking the TAB Button within Modals and Menus](https://dev.to/bogdanfromkyiv/enhancing-web-accessibility-locking-the-tab-button-within-modals-and-menus-3774)
+- [Lifehacker] [Three Surprising Things That Can Make Your Sunscreen Less Effective](https://lifehacker.com/surprising-things-that-can-make-your-sunscreen-less-eff-1850679210)
+- [Dev.to/JS] [Building a simple but advanced Jsonic language using Python](https://dev.to/alex01/building-a-simple-but-advanced-jsonic-language-pbk)
+- [Lifehacker] [Swap Your Pet’s ‘Cone of Shame’ for One of These Better Options](https://lifehacker.com/put-a-onesie-on-your-pet-instead-of-the-cone-of-shame-1844135226)
+- [Lifehacker] [You Can Put Your College Credits to Use &lpar;Even If You Didn’t Graduate&rpar;](https://lifehacker.com/you-can-put-your-college-credits-to-use-even-if-you-di-1850678428)
 - [Dev.to/JS] [JavaScript Excel Spreadsheet Use Cases: Media Industry](https://dev.to/grapecity/javascript-excel-spreadsheet-use-cases-media-industry-28nc)
 - [Dev.to/JS] [Understanding the Differences Between useCallback and useMemo](https://dev.to/vale/understanding-the-differences-between-usecallback-and-usememo-il5)
 - [Lifehacker] [Why Samsung’s New Galaxy Tab S9 Series Tablets Might Be Worth the Cost](https://lifehacker.com/why-samsung-s-new-galaxy-tab-s9-series-tablets-might-be-1850678580)
@@ -45,8 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unveiling AI-Logger: The Future of Debugging in Node.js](https://dev.to/victorforissier/unveiling-ai-logger-the-future-of-debugging-in-nodejs-41l8)
 - [Dev.to/JS] [Personalizing User Experience on Sports Websites: A Guide to JavaScript Cookies](https://dev.to/jacknorman235/personalizing-user-experience-on-sports-websites-a-guide-to-javascript-cookies-2mkk)
 - [Lifehacker] [Try These Unexpected Ways to Reuse Mouse Pads in Your House](https://lifehacker.com/try-these-unexpected-ways-to-reuse-mouse-pads-in-your-h-1850678077)
-- [Dev.to/JS] [Stop naming functions `fetch&lpar;&rpar;`.](https://dev.to/manchicken/stop-naming-functions-fetch-2dj5)
-- [Dev.to/JS] [API&#39;s and Web Development: The Ying to the Yang](https://dev.to/scofieldidehen/apis-and-web-development-the-ying-to-the-yang-d4n)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in August 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-august-2023-1850677672)
 - [Lifehacker] [Where You Can Get Free &lpar;or Cheap&rpar; Wings on National Chicken Wing Day](https://lifehacker.com/where-you-can-get-free-or-cheap-wings-on-national-chi-1850676098)
 - [Lifehacker] [You Can Find Your Twitter Follows on Other Social Media Platforms](https://lifehacker.com/you-can-find-your-twitter-follows-on-other-social-media-1850675120)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Watch &#39;What We Do in the Shadows&#39; Season 5 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-what-we-do-in-the-shadows-season-5-and-1850671440)
 - [Lifehacker] [Where to Watch &#39;Futurama&#39; Season 11 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-futurama-season-11-and-what-you-should-1850672318)
 - [Lifehacker] [You Should Roast a Whole Head of Garlic](https://lifehacker.com/how-to-roast-a-whole-head-of-garlic-1820407305)
-- [Lifehacker] [You Can Get a Lifetime of iBrave Cloud Web Hosting for $100](https://lifehacker.com/you-can-get-a-lifetime-of-ibrave-cloud-web-hosting-for-1850665713)
-- [Lifehacker] [&#39;Trash&#39; Your Next Batch of Wings](https://lifehacker.com/trash-your-next-batch-of-wings-1850675472)
-- [Lifehacker] [The 10 Best Twitter &lpar;or X&rpar; Alternatives](https://lifehacker.com/the-five-best-twitter-alternatives-1850607746)
-- [Lifehacker] [The Best Tech Gadgets for Working on the Go](https://lifehacker.com/the-best-tech-gadgets-for-working-on-the-go-1850674553)
-- [Lifehacker] [Make These Cheap and Healthy Meals With Stuff Already in Your Pantry](https://lifehacker.com/make-these-cheap-and-healthy-meals-with-stuff-already-i-1850674725)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get a Lifetime of iBrave Cloud Web Hosting for $100](https://lifehacker.com/you-can-get-a-lifetime-of-ibrave-cloud-web-hosting-for-1850665713)<!-- TECH-POSTS:END -->
 
 ---
 
