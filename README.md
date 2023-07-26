@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring React.js](https://dev.to/wizarddeveloper/exploring-reactjs-53ad)
+- [Lifehacker] [What&#39;s New on Netflix in August 2023](https://lifehacker.com/whats-new-on-netflix-in-august-2023-1850678698)
+- [Dev.to/JS] [Documentação do JavaScript - Simples](https://dev.to/urickalberth/documentacao-do-javascript-simples-9n8)
+- [Lifehacker] [Use an Umbrella to Catch Dust While Cleaning a Ceiling Fan](https://lifehacker.com/hang-an-umbrella-from-a-chandelier-to-catch-dust-and-dr-1770147853)
+- [Lifehacker] [You Can Still Get Into Cycling When You&#39;re Overweight](https://lifehacker.com/you-can-still-get-into-cycling-when-youre-overweight-1850676389)
 - [Dev.to/JS] [How to Add a React Excel XLSX Viewer to Your Web Application](https://dev.to/grapecity/how-to-add-a-react-excel-xlsx-viewer-to-your-web-application-2m5e)
 - [Lifehacker] [If Your Home Insurance Lapses, Do These Things Immediately](https://lifehacker.com/if-your-home-insurance-lapses-do-these-things-immediat-1850642820)
 - [Dev.to/JS] [Dynamic Arrays vs Traditional Arrays, With Illustrations and Examples](https://dev.to/ggorantala/dynamic-arrays-vs-traditional-arrays-with-code-examples-5dch)
@@ -42,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where You Can Get Free &lpar;or Cheap&rpar; Wings on National Chicken Wing Day](https://lifehacker.com/where-you-can-get-free-or-cheap-wings-on-national-chi-1850676098)
 - [Dev.to/JS] [How to Effectively Use Error Boundaries in Functional React Components](https://dev.to/msubhro_mukherjee/how-to-effectively-use-error-boundaries-in-functional-react-components-ede)
 - [Lifehacker] [You Can Find Your Twitter Follows on Other Social Media Platforms](https://lifehacker.com/you-can-find-your-twitter-follows-on-other-social-media-1850675120)
-- [Dev.to/JS] [Logbook ; Teachings of web development &lpar;I&rpar;](https://dev.to/torswq/logbook-teachings-of-web-development-i-20fe)
-- [Dev.to/JS] [Choosing the Right Programming Language: A Comprehensive Guide](https://dev.to/idurar/choosing-the-right-programming-language-a-comprehensive-guide-50b6)
 - [Lifehacker] [These Night Vision Digital Binoculars Are $100 Right Now](https://lifehacker.com/these-night-vision-digital-binoculars-are-100-right-no-1850672346)
 - [Lifehacker] [Grease Your Waffle Maker With Bacon Fat](https://lifehacker.com/grease-your-waffle-maker-with-bacon-fat-1850675464)
 - [Lifehacker] [This Refurbished 24-Inch Acer Monitor Is $130 Right Now](https://lifehacker.com/this-refurbished-24-inch-acer-monitor-is-130-right-now-1850672320)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make These Cheap and Healthy Meals With Stuff Already in Your Pantry](https://lifehacker.com/make-these-cheap-and-healthy-meals-with-stuff-already-i-1850674725)
 - [Lifehacker] [The Easiest Ways to Cheat at a Step-Counting Challenge](https://lifehacker.com/how-to-cheat-at-a-step-counting-challenge-1839476401)
 - [Lifehacker] [You Should Try Google Assistant&#39;s &#39;Bedtime&#39; Routine](https://lifehacker.com/you-should-try-google-assistants-bedtime-routine-1850672240)
-- [Lifehacker] [Export Your Bookmarks So You Can Finally Quit Twitter](https://lifehacker.com/export-your-bookmarks-so-you-can-finally-quit-twitter-1850674081)
-- [Lifehacker] [You Should Poach Your Next Chicken](https://lifehacker.com/maximize-a-chickens-meal-potential-by-poaching-it-first-1822353539)
-- [Lifehacker] [Where to Watch &#39;The Witcher&#39; Season 3, Part 2 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-the-witcher-season-3-part-2-and-what-y-1850671856)
-- [Lifehacker] [This 6-in-1 Charging Cable Is $22 Right Now](https://lifehacker.com/this-6-in-1-charging-cable-is-22-right-now-1850665758)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Export Your Bookmarks So You Can Finally Quit Twitter](https://lifehacker.com/export-your-bookmarks-so-you-can-finally-quit-twitter-1850674081)<!-- TECH-POSTS:END -->
 
 ---
 
