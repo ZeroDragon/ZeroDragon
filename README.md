@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [why are backlinks important in SEO ?](https://dev.to/nidhigupta_676/why-are-backlinks-important-in-seo--1j24)
+- [Dev.to/JS] [What are the most common redirection methods for bingers ?](https://dev.to/tranktech/what-are-the-most-common-redirection-methods-for-bingers--ci7)
+- [Dev.to/JS] [How to extract public id from a Cloudinary URL easily](https://dev.to/mayashavin/how-to-extract-public-id-from-a-cloudinary-url-easily-3c6l)
 - [Dev.to/JS] [Weekly web development resources #159](https://dev.to/vincenius/weekly-web-development-resources-159-3c39)
 - [Dev.to/JS] [Javascript Take Photo With Webcam](https://dev.to/codeboxx/javascript-take-photo-with-webcam-1h3a)
 - [Dev.to/JS] [How to Get Data From an API in React.js?](https://dev.to/aliegotha/how-to-get-data-from-an-api-in-reactjs-4e56)
@@ -35,14 +38,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exporting Declaration Files in Vite.js](https://dev.to/rashidshamloo/exporting-declaration-files-in-vitejs-f6m)
 - [Dev.to/JS] [Rapid Programming under minutes with CHATBOT](https://dev.to/aiforme/rapid-programming-under-minutes-with-chatbot-169j)
 - [Dev.to/JS] [Begineer: Synchronous vs Asynchronous Programming](https://dev.to/maxwiggedal/begineer-synchronous-vs-asynchronous-programming-4k96)
-- [Dev.to/JS] [Embracing the Power of Open Source:My Journey from Confusion to Collaboration](https://dev.to/chinwenma/embracing-the-power-of-open-sourcemy-journey-from-confusion-to-collaboration-1ek7)
 - [Lifehacker] [The Best Chapter Books for Preschoolers, According to NYPL Librarians](https://lifehacker.com/14-really-good-chapter-books-for-preschoolers-that-libr-1819312259)
 - [Lifehacker] [Where to Watch &#39;What We Do in the Shadows&#39; Season 5 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-what-we-do-in-the-shadows-season-5-and-1850671440)
 - [Lifehacker] [Where to Watch &#39;Futurama&#39; Season 11 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-futurama-season-11-and-what-you-should-1850672318)
-- [Dev.to/JS] [Rust-aurant Recipes: Art of Error Handling in Rust](https://dev.to/doziestar/rust-aurant-recipes-art-of-error-handling-in-rust-2c51)
 - [Lifehacker] [You Should Roast a Whole Head of Garlic](https://lifehacker.com/how-to-roast-a-whole-head-of-garlic-1820407305)
 - [Lifehacker] [You Can Get a Lifetime of iBrave Cloud Web Hosting for $100](https://lifehacker.com/you-can-get-a-lifetime-of-ibrave-cloud-web-hosting-for-1850665713)
-- [Dev.to/JS] [Open source JavaScript Quiz App](https://dev.to/hamzaelkotp/open-source-javascript-quiz-app-42fn)
 - [Lifehacker] [&#39;Trash&#39; Your Next Batch of Wings](https://lifehacker.com/trash-your-next-batch-of-wings-1850675472)
 - [Lifehacker] [The 10 Best Twitter &lpar;or X&rpar; Alternatives](https://lifehacker.com/the-five-best-twitter-alternatives-1850607746)
 - [Lifehacker] [The Best Tech Gadgets for Working on the Go](https://lifehacker.com/the-best-tech-gadgets-for-working-on-the-go-1850674553)
