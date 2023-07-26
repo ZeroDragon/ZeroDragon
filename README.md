@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Weekly web development resources #159](https://dev.to/vincenius/weekly-web-development-resources-159-3c39)
 - [Dev.to/JS] [Javascript Take Photo With Webcam](https://dev.to/codeboxx/javascript-take-photo-with-webcam-1h3a)
 - [Dev.to/JS] [How to Get Data From an API in React.js?](https://dev.to/aliegotha/how-to-get-data-from-an-api-in-reactjs-4e56)
 - [Dev.to/JS] [custom Turbo Streams Channel with client-side initiated actions](https://dev.to/haroldus/custom-turbo-streams-channel-with-client-side-initiated-actions-535)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 10 Best Twitter &lpar;or X&rpar; Alternatives](https://lifehacker.com/the-five-best-twitter-alternatives-1850607746)
 - [Lifehacker] [The Best Tech Gadgets for Working on the Go](https://lifehacker.com/the-best-tech-gadgets-for-working-on-the-go-1850674553)
 - [Lifehacker] [Make These Cheap and Healthy Meals With Stuff Already in Your Pantry](https://lifehacker.com/make-these-cheap-and-healthy-meals-with-stuff-already-i-1850674725)
-- [Dev.to/JS] [Implementing Lazy Loading from Angular ⭐](https://dev.to/mana95/how-to-implement-lazy-loading-in-your-angular-application-4gi1)
 - [Lifehacker] [The Easiest Ways to Cheat at a Step-Counting Challenge](https://lifehacker.com/how-to-cheat-at-a-step-counting-challenge-1839476401)
 - [Lifehacker] [You Should Try Google Assistant&#39;s &#39;Bedtime&#39; Routine](https://lifehacker.com/you-should-try-google-assistants-bedtime-routine-1850672240)
 - [Lifehacker] [Export Your Bookmarks So You Can Finally Quit Twitter](https://lifehacker.com/export-your-bookmarks-so-you-can-finally-quit-twitter-1850674081)
