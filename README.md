@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [fastify-hashids: Obscure Your Database IDs Like a Pro!](https://dev.to/andersonjoseph/fastify-hashids-obscure-your-database-ids-like-a-pro-102d)
+- [Lifehacker] [This Intermediate-Level Stock Trading Course Is $30 Right Now](https://lifehacker.com/this-intermediate-level-stock-trading-course-is-30-rig-1850665770)
+- [Lifehacker] [The Beginner&#39;s Guide to Safe Urban Running](https://lifehacker.com/the-beginners-guide-to-safe-urban-running-1727699007)
+- [Lifehacker] [How to Flambé Without Lighting Yourself on Fire](https://lifehacker.com/how-to-flambe-without-lighting-yourself-on-fire-1850679351)
 - [Dev.to/JS] [Deploying a React App to AWS Elastic Beanstalk](https://dev.to/honeybadger/deploying-a-react-app-to-aws-elastic-beanstalk-2ala)
 - [Dev.to/JS] [With the increasing integration of AI, what do you see as the most promising career paths for the next gen of tech pro?](https://dev.to/snehasaha/with-the-increasing-integration-of-ai-what-do-you-see-as-the-most-promising-career-paths-for-the-next-gen-of-tech-pro-2md8)
 - [Lifehacker] [You Can Book a 9-Night Trip to Paris, London, and Amsterdam for $1,549 Right Now](https://lifehacker.com/you-can-book-a-9-night-trip-to-paris-london-and-amste-1850679283)
@@ -47,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Use Range Template Cell Types in a JavaScript Spreadsheet Application](https://dev.to/grapecity/how-to-use-range-template-cell-types-in-a-javascript-spreadsheet-application-53c)
 - [Dev.to/JS] [Exploring React.js](https://dev.to/wizarddeveloper/exploring-reactjs-53ad)
 - [Lifehacker] [What&#39;s New on Netflix in August 2023](https://lifehacker.com/whats-new-on-netflix-in-august-2023-1850678698)
-- [Dev.to/JS] [Documentação do JavaScript - Simples](https://dev.to/urickalberth/documentacao-do-javascript-simples-9n8)
 - [Lifehacker] [Use an Umbrella to Catch Dust While Cleaning a Ceiling Fan](https://lifehacker.com/hang-an-umbrella-from-a-chandelier-to-catch-dust-and-dr-1770147853)
 - [Lifehacker] [You Can Still Get Into Cycling When You&#39;re Overweight](https://lifehacker.com/you-can-still-get-into-cycling-when-youre-overweight-1850676389)
 - [Lifehacker] [If Your Home Insurance Lapses, Do These Things Immediately](https://lifehacker.com/if-your-home-insurance-lapses-do-these-things-immediat-1850642820)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Training &#39;Week&#39; Doesn’t Have to Be Seven Days Long](https://lifehacker.com/your-training-week-doesn-t-have-to-be-seven-days-long-1850675605)
 - [Lifehacker] [Make Waffled SPAM Pops for a Debauched Start to the Day](https://lifehacker.com/make-waffled-spam-pops-for-a-debauched-start-to-the-day-1850676375)
 - [Lifehacker] [What to Do When a Contractor Ghosts You Mid-Project](https://lifehacker.com/what-to-do-when-a-contractor-ghosts-you-mid-project-1850674402)
-- [Lifehacker] [10 Podcasts for Your Next Family Road Trip](https://lifehacker.com/the-best-podcasts-for-family-road-trips-1850671933)
-- [Lifehacker] [The Best Chapter Books for Preschoolers, According to NYPL Librarians](https://lifehacker.com/14-really-good-chapter-books-for-preschoolers-that-libr-1819312259)
-- [Lifehacker] [Where to Watch &#39;What We Do in the Shadows&#39; Season 5 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-what-we-do-in-the-shadows-season-5-and-1850671440)
-- [Lifehacker] [Where to Watch &#39;Futurama&#39; Season 11 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-futurama-season-11-and-what-you-should-1850672318)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Podcasts for Your Next Family Road Trip](https://lifehacker.com/the-best-podcasts-for-family-road-trips-1850671933)<!-- TECH-POSTS:END -->
 
 ---
 
