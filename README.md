@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Add a React Excel XLSX Viewer to Your Web Application](https://dev.to/grapecity/how-to-add-a-react-excel-xlsx-viewer-to-your-web-application-2m5e)
+- [Lifehacker] [If Your Home Insurance Lapses, Do These Things Immediately](https://lifehacker.com/if-your-home-insurance-lapses-do-these-things-immediat-1850642820)
+- [Dev.to/JS] [Dynamic Arrays vs Traditional Arrays, With Illustrations and Examples](https://dev.to/ggorantala/dynamic-arrays-vs-traditional-arrays-with-code-examples-5dch)
+- [Dev.to/JS] [Roadmap for ReactJS Developers in 2023 | Zero to Hero](https://dev.to/blackhorse0101/roadmap-for-reactjs-developers-in-2023-zero-to-hero-nhb)
+- [Lifehacker] [These Are the Signs Your Dog Is Getting Car Sick](https://lifehacker.com/how-to-know-if-your-dog-is-getting-car-sick-1827247324)
+- [Dev.to/JS] [Unveiling AI-Logger: The Future of Debugging in Node.js](https://dev.to/victorforissier/unveiling-ai-logger-the-future-of-debugging-in-nodejs-41l8)
+- [Dev.to/JS] [Personalizing User Experience on Sports Websites: A Guide to JavaScript Cookies](https://dev.to/jacknorman235/personalizing-user-experience-on-sports-websites-a-guide-to-javascript-cookies-2mkk)
+- [Lifehacker] [Try These Unexpected Ways to Reuse Mouse Pads in Your House](https://lifehacker.com/try-these-unexpected-ways-to-reuse-mouse-pads-in-your-h-1850678077)
+- [Dev.to/JS] [Stop naming functions `fetch&lpar;&rpar;`.](https://dev.to/manchicken/stop-naming-functions-fetch-2dj5)
 - [Dev.to/JS] [API&#39;s and Web Development: The Ying to the Yang](https://dev.to/scofieldidehen/apis-and-web-development-the-ying-to-the-yang-d4n)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in August 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-august-2023-1850677672)
 - [Dev.to/JS] [How to Build Student Progress Reports in Your JavaScript Application](https://dev.to/grapecity/how-to-build-student-progress-reports-in-your-javascript-application-pfd)
@@ -36,14 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Logbook ; Teachings of web development &lpar;I&rpar;](https://dev.to/torswq/logbook-teachings-of-web-development-i-20fe)
 - [Dev.to/JS] [Choosing the Right Programming Language: A Comprehensive Guide](https://dev.to/idurar/choosing-the-right-programming-language-a-comprehensive-guide-50b6)
 - [Lifehacker] [These Night Vision Digital Binoculars Are $100 Right Now](https://lifehacker.com/these-night-vision-digital-binoculars-are-100-right-no-1850672346)
-- [Dev.to/JS] [How to Use a JavaScript Report Designer in Your Web Application](https://dev.to/grapecity/how-to-use-a-javascript-report-designer-in-your-web-application-3i1i)
 - [Lifehacker] [Grease Your Waffle Maker With Bacon Fat](https://lifehacker.com/grease-your-waffle-maker-with-bacon-fat-1850675464)
-- [Dev.to/JS] [How to Use Custom Fonts in JavaScript Reports](https://dev.to/grapecity/how-to-use-custom-fonts-in-javascript-reports-4gb7)
-- [Dev.to/JS] [Uclid: Maths Game Built With React](https://dev.to/lensatom/uclid-maths-game-built-with-react-4ih7)
-- [Dev.to/JS] [Day 12: Function Borrowing](https://dev.to/dhrn/day-12-function-borrowing-4150)
 - [Lifehacker] [This Refurbished 24-Inch Acer Monitor Is $130 Right Now](https://lifehacker.com/this-refurbished-24-inch-acer-monitor-is-130-right-now-1850672320)
-- [Dev.to/JS] [How to Change a Webpage UI with a Chrome Extension](https://dev.to/opensauced/how-to-change-a-webpage-ui-with-a-chrome-extension-jn8)
-- [Dev.to/JS] [Build a responsive website with reactjs and tailwindcss - Part 1](https://dev.to/kwakyebrilliant/build-a-responsive-website-with-reactjs-and-tailwindcss-part-1-43m1)
 - [Lifehacker] [Your Training &#39;Week&#39; Doesn’t Have to Be Seven Days Long](https://lifehacker.com/your-training-week-doesn-t-have-to-be-seven-days-long-1850675605)
 - [Lifehacker] [Make Waffled SPAM Pops for a Debauched Start to the Day](https://lifehacker.com/make-waffled-spam-pops-for-a-debauched-start-to-the-day-1850676375)
 - [Lifehacker] [What to Do When a Contractor Ghosts You Mid-Project](https://lifehacker.com/what-to-do-when-a-contractor-ghosts-you-mid-project-1850674402)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Export Your Bookmarks So You Can Finally Quit Twitter](https://lifehacker.com/export-your-bookmarks-so-you-can-finally-quit-twitter-1850674081)
 - [Lifehacker] [You Should Poach Your Next Chicken](https://lifehacker.com/maximize-a-chickens-meal-potential-by-poaching-it-first-1822353539)
 - [Lifehacker] [Where to Watch &#39;The Witcher&#39; Season 3, Part 2 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-the-witcher-season-3-part-2-and-what-y-1850671856)
-- [Lifehacker] [This 6-in-1 Charging Cable Is $22 Right Now](https://lifehacker.com/this-6-in-1-charging-cable-is-22-right-now-1850665758)
-- [Lifehacker] [Here’s How Much Your Old Pokémon Cards Could Be Worth](https://lifehacker.com/how-much-are-your-pokemon-cards-worth-lately-1846888650)
-- [Lifehacker] [How to Watch Every Christopher Nolan Film on Streaming](https://lifehacker.com/how-to-watch-every-christopher-nolan-film-on-streaming-1850670190)
-- [Lifehacker] [Your ‘Dopamine Fast’ Could Backfire](https://lifehacker.com/why-your-dopamine-fast-could-backfire-1850664408)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This 6-in-1 Charging Cable Is $22 Right Now](https://lifehacker.com/this-6-in-1-charging-cable-is-22-right-now-1850665758)<!-- TECH-POSTS:END -->
 
 ---
 
