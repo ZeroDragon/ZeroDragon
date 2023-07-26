@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make Waffled SPAM Pops for a Debauched Start to the Day](https://lifehacker.com/make-waffled-spam-pops-for-a-debauched-start-to-the-day-1850676375)
+- [Dev.to/JS] [What is First Class Function? First Class Function in JavaScript](https://dev.to/diwakarkashyap/what-is-first-class-function-first-class-function-in-javascript-3ba9)
+- [Lifehacker] [What to Do When a Contractor Ghosts You Mid-Project](https://lifehacker.com/what-to-do-when-a-contractor-ghosts-you-mid-project-1850674402)
+- [Dev.to/JS] [Changing Virtual Webcam Background with JavaScript](https://dev.to/bensonruan/changing-virtual-webcam-background-with-javascript-58j)
 - [Lifehacker] [10 Podcasts for Your Next Family Road Trip](https://lifehacker.com/the-best-podcasts-for-family-road-trips-1850671933)
 - [Dev.to/JS] [How we made the new report feature of sls-mentor](https://dev.to/quentinnativel/generate-pretty-reports-from-your-cli-tool-1m83)
 - [Dev.to/JS] [Please help me with my Javascript](https://dev.to/m_hashir147/please-help-me-with-my-javascript-3hlj)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀 Ref It Right: Leveraging Refs to Optimize React Effects](https://dev.to/hunyan/ref-it-right-leveraging-refs-to-optimize-react-effects-17bj)
 - [Dev.to/JS] [Learn serverless on AWS step-by-step - SNS](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sns-2b46)
 - [Dev.to/JS] [What is the best way to start your first AI project as a frontend developer?](https://dev.to/sip/what-is-the-best-way-to-start-your-first-ai-project-as-a-frontend-developer-2doc)
-- [Dev.to/JS] [WebRTC Help!!](https://dev.to/coder7/webrtc-help-55f)
-- [Dev.to/JS] [Empowering Your Business with a Leading App Development Company](https://dev.to/amarajackson/empowering-your-business-with-a-leading-app-development-company-3bho)
 - [Lifehacker] [The Best Chapter Books for Preschoolers, According to NYPL Librarians](https://lifehacker.com/14-really-good-chapter-books-for-preschoolers-that-libr-1819312259)
 - [Lifehacker] [Where to Watch &#39;What We Do in the Shadows&#39; Season 5 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-what-we-do-in-the-shadows-season-5-and-1850671440)
 - [Lifehacker] [Where to Watch &#39;Futurama&#39; Season 11 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-futurama-season-11-and-what-you-should-1850672318)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Cheapest Vacation Destinations in the U.S. Right Now](https://lifehacker.com/these-are-the-cheapest-vacation-destinations-in-the-u-s-1850670621)
 - [Lifehacker] [What an AI Girlfriend Can &lpar;and Can&#39;t&rpar; Do](https://lifehacker.com/what-an-ai-girlfriend-can-and-cant-do-1850666245)
 - [Lifehacker] [Don&#39;t Use These Common, Bad Ways to Clean Your Glasses](https://lifehacker.com/dont-do-these-things-when-you-clean-your-glasses-1849183886)
-- [Lifehacker] [This Refurbished MacBook Pro Is $470 Right Now](https://lifehacker.com/this-refurbished-macbook-pro-is-470-right-now-1850665681)
-- [Lifehacker] [Drizzle a Little Honey on Your Tomatoes](https://lifehacker.com/drizzle-a-little-honey-on-your-tomatoes-1850671917)
-- [Lifehacker] [My Favorite Ways to Get Kids Out the Door in the Morning](https://lifehacker.com/get-kids-moving-in-the-morning-with-these-tricks-1831870445)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Refurbished MacBook Pro Is $470 Right Now](https://lifehacker.com/this-refurbished-macbook-pro-is-470-right-now-1850665681)<!-- TECH-POSTS:END -->
 
 ---
 
