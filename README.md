@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 12: Function Borrowing](https://dev.to/dhrn/day-12-function-borrowing-4150)
+- [Lifehacker] [This Refurbished 24-Inch Acer Monitor Is $130 Right Now](https://lifehacker.com/this-refurbished-24-inch-acer-monitor-is-130-right-now-1850672320)
+- [Dev.to/JS] [How to Change a Webpage UI with a Chrome Extension](https://dev.to/opensauced/how-to-change-a-webpage-ui-with-a-chrome-extension-jn8)
+- [Dev.to/JS] [Build a responsive website with reactjs and tailwindcss - Part 1](https://dev.to/kwakyebrilliant/build-a-responsive-website-with-reactjs-and-tailwindcss-part-1-43m1)
+- [Dev.to/JS] [Use the grammar correction API provided by GPT2API to fix English grammar errors.](https://dev.to/newbing/use-grammar-correction-api-to-fix-english-grammar-error-3mme)
+- [Dev.to/JS] [🚀How to fetch API in Proper way &amp; Add additional features 🌟](https://dev.to/bhavyashah/how-to-fetch-api-in-proper-way-add-additional-features-3l52)
+- [Lifehacker] [Your Training &#39;Week&#39; Doesn’t Have to Be Seven Days Long](https://lifehacker.com/your-training-week-doesn-t-have-to-be-seven-days-long-1850675605)
+- [Dev.to/JS] [Evergreen Tooling - More than Just CodeMods](https://dev.to/nx/evergreen-tooling-more-than-just-codemods-497a)
 - [Lifehacker] [Make Waffled SPAM Pops for a Debauched Start to the Day](https://lifehacker.com/make-waffled-spam-pops-for-a-debauched-start-to-the-day-1850676375)
 - [Dev.to/JS] [What is First Class Function? First Class Function in JavaScript](https://dev.to/diwakarkashyap/what-is-first-class-function-first-class-function-in-javascript-3ba9)
 - [Lifehacker] [What to Do When a Contractor Ghosts You Mid-Project](https://lifehacker.com/what-to-do-when-a-contractor-ghosts-you-mid-project-1850674402)
@@ -35,12 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Please help me with my Javascript](https://dev.to/m_hashir147/please-help-me-with-my-javascript-3hlj)
 - [Dev.to/JS] [Realtime Applications: React.js &amp;&amp; Websockets, processing real-time data 2!](https://dev.to/sfundomhlungu/realtime-applications-reactjs-websockets-processing-real-time-data-2-35oo)
 - [Dev.to/JS] [Realtime Applications: React.js &amp;&amp; Websockets, processing real-time data!](https://dev.to/sfundomhlungu/realtime-applications-reactjs-websockets-processing-real-time-data-54b9)
-- [Dev.to/JS] [Unlocking the Power of Ruby on Rails: Exploring Key Features and Benefits of the Framework](https://dev.to/infowindtechno/unlocking-the-power-of-ruby-on-rails-exploring-key-features-and-benefits-of-the-framework-1k20)
-- [Dev.to/JS] [Fetch Excel files and convert to JSON with SheetJS](https://dev.to/artydev/excel-files-to-json-with-sheetjs-83d)
-- [Dev.to/JS] [Solving CAPTCHA Using Capsolver](https://dev.to/ethand91/solving-captcha-using-capsolver-h8j)
-- [Dev.to/JS] [🚀 Ref It Right: Leveraging Refs to Optimize React Effects](https://dev.to/hunyan/ref-it-right-leveraging-refs-to-optimize-react-effects-17bj)
-- [Dev.to/JS] [Learn serverless on AWS step-by-step - SNS](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sns-2b46)
-- [Dev.to/JS] [What is the best way to start your first AI project as a frontend developer?](https://dev.to/sip/what-is-the-best-way-to-start-your-first-ai-project-as-a-frontend-developer-2doc)
 - [Lifehacker] [The Best Chapter Books for Preschoolers, According to NYPL Librarians](https://lifehacker.com/14-really-good-chapter-books-for-preschoolers-that-libr-1819312259)
 - [Lifehacker] [Where to Watch &#39;What We Do in the Shadows&#39; Season 5 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-what-we-do-in-the-shadows-season-5-and-1850671440)
 - [Lifehacker] [Where to Watch &#39;Futurama&#39; Season 11 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-futurama-season-11-and-what-you-should-1850672318)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do When You Get Chills While Working Out](https://lifehacker.com/what-to-do-when-you-get-chills-while-working-out-1850671737)
 - [Lifehacker] [Thicken Your Salad Dressing With Cooked Egg Yolks](https://lifehacker.com/thicken-your-salad-dressing-with-cooked-egg-yolks-1850671825)
 - [Lifehacker] [These Are the Cheapest Vacation Destinations in the U.S. Right Now](https://lifehacker.com/these-are-the-cheapest-vacation-destinations-in-the-u-s-1850670621)
-- [Lifehacker] [What an AI Girlfriend Can &lpar;and Can&#39;t&rpar; Do](https://lifehacker.com/what-an-ai-girlfriend-can-and-cant-do-1850666245)
-- [Lifehacker] [Don&#39;t Use These Common, Bad Ways to Clean Your Glasses](https://lifehacker.com/dont-do-these-things-when-you-clean-your-glasses-1849183886)
-- [Lifehacker] [This Refurbished MacBook Pro Is $470 Right Now](https://lifehacker.com/this-refurbished-macbook-pro-is-470-right-now-1850665681)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What an AI Girlfriend Can &lpar;and Can&#39;t&rpar; Do](https://lifehacker.com/what-an-ai-girlfriend-can-and-cant-do-1850666245)<!-- TECH-POSTS:END -->
 
 ---
 
