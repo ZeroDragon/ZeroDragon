@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Ways Your Credit Card Info Can Be Stolen](https://lifehacker.com/all-the-ways-your-credit-card-info-can-be-stolen-1850678829)
+- [Dev.to/JS] [Debouncing in React: Unleashing the Power of Efficient API Calls](https://dev.to/chiragm999/debouncing-in-react-unleashing-the-power-of-efficient-api-calls-56m9)
+- [Dev.to/JS] [Scraping Amazon: How To Scrape Amazon Reviews In Under A Minute?](https://dev.to/reviewgatorsusa/scraping-amazon-how-to-scrape-amazon-reviews-in-under-a-minute-2jd9)
 - [Dev.to/JS] [Reduce memory usage of NodeJS apps inside Docker](https://dev.to/fbjorn/reduce-memory-usage-of-nodejs-apps-inside-docker-3588)
 - [Dev.to/JS] [Immediate Edge Reviews - Reviews, Benefits, Price, Complaints &amp; Warnings?](https://dev.to/immediatee10200/immediate-edge-reviews-reviews-benefits-price-complaints-warnings-51b8)
 - [Dev.to/JS] [Understanding Asynchronous programming in JavaScript.](https://dev.to/emkay860/understanding-asynchronous-programming-in-javascript-163n)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding RDBMS: A Foundation of Modern Data Management](https://dev.to/edtechbysakshi/understanding-rdbms-a-foundation-of-modern-data-management-4bnl)
 - [Dev.to/JS] [Programming Ashram](https://dev.to/programmingashram/programming-ashram-50je)
 - [Dev.to/JS] [How to Store Images in MongoDB using Cloudinary: MERN Stack](https://dev.to/njong_emy/how-to-store-images-in-mongodb-using-cloudinary-mern-stack-imo)
-- [Dev.to/JS] [I once built a open source project like Google Trends](https://dev.to/callmehongmaybe/i-once-built-a-open-source-project-like-google-trends-37mp)
-- [Dev.to/JS] [Deploying Node.js App](https://dev.to/trinly01/deploying-nodejs-app-dln)
 - [Lifehacker] [This Intermediate-Level Stock Trading Course Is $30 Right Now](https://lifehacker.com/this-intermediate-level-stock-trading-course-is-30-rig-1850665770)
 - [Lifehacker] [The Beginner&#39;s Guide to Safe Urban Running](https://lifehacker.com/the-beginners-guide-to-safe-urban-running-1727699007)
 - [Lifehacker] [How to Flambé Without Lighting Yourself on Fire](https://lifehacker.com/how-to-flambe-without-lighting-yourself-on-fire-1850679351)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Refurbished 24-Inch Acer Monitor Is $130 Right Now](https://lifehacker.com/this-refurbished-24-inch-acer-monitor-is-130-right-now-1850672320)
 - [Lifehacker] [Your Training &#39;Week&#39; Doesn’t Have to Be Seven Days Long](https://lifehacker.com/your-training-week-doesn-t-have-to-be-seven-days-long-1850675605)
 - [Lifehacker] [Make Waffled SPAM Pops for a Debauched Start to the Day](https://lifehacker.com/make-waffled-spam-pops-for-a-debauched-start-to-the-day-1850676375)
-- [Lifehacker] [What to Do When a Contractor Ghosts You Mid-Project](https://lifehacker.com/what-to-do-when-a-contractor-ghosts-you-mid-project-1850674402)
-- [Lifehacker] [10 Podcasts for Your Next Family Road Trip](https://lifehacker.com/the-best-podcasts-for-family-road-trips-1850671933)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do When a Contractor Ghosts You Mid-Project](https://lifehacker.com/what-to-do-when-a-contractor-ghosts-you-mid-project-1850674402)<!-- TECH-POSTS:END -->
 
 ---
 
