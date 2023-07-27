@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Living Without CDP: A Tale of Automation](https://dev.to/latenode/living-without-cdp-a-tale-of-automation-338p)
+- [Lifehacker] [This Clever, Portable Record Player Is $90 Right Now](https://lifehacker.com/this-clever-portable-record-player-is-90-right-now-1850672379)
+- [Lifehacker] [What the Fed’s Latest Interest Rate Hike Means for Your Finances](https://lifehacker.com/how-rising-interest-rates-will-affect-your-finances-the-1850155359)
+- [Dev.to/JS] [Understanding Liskov Substitution Principle &lpar;LSP&rpar; in TypeScript and React](https://dev.to/ajkhatibi/understanding-liskov-substitution-principle-lsp-in-typescript-and-react-25c1)
+- [Dev.to/JS] [TypeScript: Not Always the Answer](https://dev.to/b1m0110/typescript-not-always-the-answer-2e98)
+- [Lifehacker] [Where to Watch &#39;Twisted Metal&#39; &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-twisted-metal-and-what-you-should-know-1850678772)
 - [Lifehacker] [This AI Content Creation Tool Is $100 Right Now](https://lifehacker.com/this-ai-content-creation-tool-is-100-right-now-1850672412)
 - [Lifehacker] [The Best Way to Make Flatter, Crispier Bacon for Sandwiches and Burgers](https://lifehacker.com/the-best-way-to-make-flat-crispy-bacon-for-sandwiches-1788504821)
 - [Dev.to/JS] [How to make a javascript function that updates numbers without clearing the numbers styles when resetting the numbers to 0?](https://dev.to/sofianeabouabderrahim/how-to-make-a-javascript-function-that-updates-numbers-without-clearing-the-numbers-styles-when-resetting-the-numbers-to-0-5g6e)
@@ -53,19 +59,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to Web APIs](https://dev.to/mmnldm/introduction-to-web-apis-5d6m)
 - [Lifehacker] [Your Immersion Circulator Makes an Excellent Wine Chiller](https://lifehacker.com/your-immersion-circulator-is-also-an-excellent-wine-chi-1793393265)
 - [Lifehacker] [Why the New Arc Browser Is Better Than Chrome](https://lifehacker.com/why-the-new-arc-browser-is-better-than-chrome-1850681545)
-- [Dev.to/JS] [Introduction to Client-Side Data Persistence for Sports Web Development](https://dev.to/jacknorman235/introduction-to-client-side-data-persistence-for-sports-web-development-4n2)
 - [Lifehacker] [Four Questions to Ask Yourself Before Changing Careers](https://lifehacker.com/four-questions-to-ask-yourself-before-changing-careers-1850679687)
-- [Dev.to/JS] [Efficiently Managing Timers in a React Native App: Overcoming Background-Foreground Timer State Issues](https://dev.to/shivampawar/efficiently-managing-timers-in-a-react-native-app-overcoming-background-foreground-timer-state-issues-map)
 - [Lifehacker] [Everything You Need to Know About Samsung’s Galaxy Watch 6](https://lifehacker.com/everything-you-need-to-know-about-samsung-s-galaxy-watc-1850680274)
-- [Dev.to/JS] [Day 13: Guess it](https://dev.to/dhrn/day-12-guess-it-1gfa)
 - [Lifehacker] [All the Places You Can Get a ‘Free’ Netflix Subscription](https://lifehacker.com/all-the-places-you-can-get-a-free-netflix-subscriptio-1850680291)
 - [Lifehacker] [The Best Gear to Keep Your Workspace Clean &lpar;and Sanitary&rpar;](https://lifehacker.com/the-best-gear-to-keep-your-workspace-clean-and-sanitar-1850679601)
 - [Lifehacker] [Buy Your Fast Food Sauces by the Bottle](https://lifehacker.com/buy-your-fast-food-sauces-by-the-bottle-1850675993)
 - [Lifehacker] [All the Ways Your Credit Card Info Can Be Stolen](https://lifehacker.com/all-the-ways-your-credit-card-info-can-be-stolen-1850678829)
-- [Lifehacker] [This Intermediate-Level Stock Trading Course Is $30 Right Now](https://lifehacker.com/this-intermediate-level-stock-trading-course-is-30-rig-1850665770)
-- [Lifehacker] [The Beginner&#39;s Guide to Safe Urban Running](https://lifehacker.com/the-beginners-guide-to-safe-urban-running-1727699007)
-- [Lifehacker] [How to Flambé Without Lighting Yourself on Fire](https://lifehacker.com/how-to-flambe-without-lighting-yourself-on-fire-1850679351)
-- [Lifehacker] [You Can Book a 9-Night Trip to Paris, London, and Amsterdam for $1,549 Right Now](https://lifehacker.com/you-can-book-a-9-night-trip-to-paris-london-and-amste-1850679283)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Intermediate-Level Stock Trading Course Is $30 Right Now](https://lifehacker.com/this-intermediate-level-stock-trading-course-is-30-rig-1850665770)<!-- TECH-POSTS:END -->
 
 ---
 
