@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Benchmarking String Literal &lpar;&quot;&quot;&rpar; vs Template Literal &lpar;``&rpar; - using Performance.now&lpar;&rpar;](https://dev.to/maafaishal/benchmarking-string-literal-vs-template-literal-using-performancenow-25ph)
 - [Dev.to/JS] [From useState to useReducer: Level Up Your State Management in React](https://dev.to/ibrahzizo360/from-usestate-to-usereducer-level-up-your-state-management-in-react-bc1)
 - [Dev.to/JS] [fastify-hashids: Obscure Your Database IDs Like a Pro!](https://dev.to/andersonjoseph/fastify-hashids-obscure-your-database-ids-like-a-pro-102d)
 - [Lifehacker] [This Intermediate-Level Stock Trading Course Is $30 Right Now](https://lifehacker.com/this-intermediate-level-stock-trading-course-is-30-rig-1850665770)
@@ -49,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [For Better Tasting Tomatoes, Dip Them in Warm Water Before Chilling](https://lifehacker.com/dip-tomatoes-in-warm-water-before-chilling-to-make-them-1726385902)
 - [Lifehacker] [Everything Samsung Announced at Unpacked 2023](https://lifehacker.com/everything-samsung-announced-at-unpacked-2023-1850677766)
 - [Dev.to/JS] [How to Use Range Template Cell Types in a JavaScript Spreadsheet Application](https://dev.to/grapecity/how-to-use-range-template-cell-types-in-a-javascript-spreadsheet-application-53c)
-- [Dev.to/JS] [Exploring React.js](https://dev.to/wizarddeveloper/exploring-reactjs-53ad)
 - [Lifehacker] [What&#39;s New on Netflix in August 2023](https://lifehacker.com/whats-new-on-netflix-in-august-2023-1850678698)
 - [Lifehacker] [Use an Umbrella to Catch Dust While Cleaning a Ceiling Fan](https://lifehacker.com/hang-an-umbrella-from-a-chandelier-to-catch-dust-and-dr-1770147853)
 - [Lifehacker] [You Can Still Get Into Cycling When You&#39;re Overweight](https://lifehacker.com/you-can-still-get-into-cycling-when-youre-overweight-1850676389)
