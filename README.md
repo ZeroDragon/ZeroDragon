@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [An interesting fact on using removeEventListener&lpar;&rpar; inside a web component](https://dev.to/heybran/an-interesting-fact-on-using-removeeventlistener-inside-a-web-component-3lnk)
+- [Dev.to/JS] [【徵才】WFH- REMOTE: QA-测试/IOS/Android/JAVA/前端开发](https://dev.to/zizihr/zheng-cai-wfh-remote-qa-ce-shi-iosandroidjavaqian-duan-kai-fa-13jf)
+- [Dev.to/JS] [Developers tool for 10x better Tests](https://dev.to/aiforme/developers-tool-for-10x-better-tests-igh)
+- [Dev.to/JS] [How to Generate Table of Contents From Markdown/Html Text in Next.js](https://dev.to/tnvmadhav/how-to-generate-table-of-contents-from-markdownhtml-text-in-nextjs-4mm)
 - [Dev.to/JS] [The Easy Way to Protect JavaScript Code](https://dev.to/w2sft/the-easy-way-to-protect-javascript-code-4b9k)
 - [Dev.to/JS] [From useState to useReducer: Level Up Your State Management in React](https://dev.to/ibrahzizo360/from-usestate-to-usereducer-level-up-your-state-management-in-react-bc1)
 - [Dev.to/JS] [fastify-hashids: Obscure Your Database IDs Like a Pro!](https://dev.to/andersonjoseph/fastify-hashids-obscure-your-database-ids-like-a-pro-102d)
@@ -40,13 +44,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Sous Vide Carnitas and Eat Tacos All Summer Long](https://lifehacker.com/sous-vide-carnitas-and-eat-tacos-all-summer-long-1825761771)
 - [Dev.to/JS] [How to upgrade jQuery on an old static HTML site &lpar;for embarrassingly new noobs&rpar;](https://dev.to/thisisjoewells/how-to-upgrade-jquery-on-an-old-static-html-site-for-embarrassingly-new-noobs-5eck)
 - [Lifehacker] [Samsung’s New Foldable Phones Are Here](https://lifehacker.com/samsung-s-new-foldable-phones-are-here-1850678999)
-- [Dev.to/JS] [Enhancing Web Accessibility: Locking the TAB Button within Modals and Menus](https://dev.to/bogdanfromkyiv/enhancing-web-accessibility-locking-the-tab-button-within-modals-and-menus-3774)
 - [Lifehacker] [Three Surprising Things That Can Make Your Sunscreen Less Effective](https://lifehacker.com/surprising-things-that-can-make-your-sunscreen-less-eff-1850679210)
-- [Dev.to/JS] [Building a simple but advanced Jsonic language using Python](https://dev.to/alex01/building-a-simple-but-advanced-jsonic-language-pbk)
 - [Lifehacker] [Swap Your Pet’s ‘Cone of Shame’ for One of These Better Options](https://lifehacker.com/put-a-onesie-on-your-pet-instead-of-the-cone-of-shame-1844135226)
 - [Lifehacker] [You Can Put Your College Credits to Use &lpar;Even If You Didn’t Graduate&rpar;](https://lifehacker.com/you-can-put-your-college-credits-to-use-even-if-you-di-1850678428)
-- [Dev.to/JS] [JavaScript Excel Spreadsheet Use Cases: Media Industry](https://dev.to/grapecity/javascript-excel-spreadsheet-use-cases-media-industry-28nc)
-- [Dev.to/JS] [Understanding the Differences Between useCallback and useMemo](https://dev.to/vale/understanding-the-differences-between-usecallback-and-usememo-il5)
 - [Lifehacker] [Why Samsung’s New Galaxy Tab S9 Series Tablets Might Be Worth the Cost](https://lifehacker.com/why-samsung-s-new-galaxy-tab-s9-series-tablets-might-be-1850678580)
 - [Lifehacker] [For Better Tasting Tomatoes, Dip Them in Warm Water Before Chilling](https://lifehacker.com/dip-tomatoes-in-warm-water-before-chilling-to-make-them-1726385902)
 - [Lifehacker] [Everything Samsung Announced at Unpacked 2023](https://lifehacker.com/everything-samsung-announced-at-unpacked-2023-1850677766)
