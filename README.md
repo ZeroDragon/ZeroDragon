@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 13: Guess it](https://dev.to/dhrn/day-12-guess-it-1gfa)
+- [Lifehacker] [All the Places You Can Get a ‘Free’ Netflix Subscription](https://lifehacker.com/all-the-places-you-can-get-a-free-netflix-subscriptio-1850680291)
+- [Dev.to/JS] [Filter&lpar;&rpar; method in JavaScript ?](https://dev.to/diwakarkashyap/filter-method-in-javascript--20ha)
+- [Lifehacker] [The Best Gear to Keep Your Workspace Clean &lpar;and Sanitary&rpar;](https://lifehacker.com/the-best-gear-to-keep-your-workspace-clean-and-sanitar-1850679601)
 - [Dev.to/JS] [JavaScript vs. TypeScript: Unveiling the Differences and Benefits](https://dev.to/idurar/javascript-vs-typescript-unveiling-the-differences-and-benefits-1c6c)
 - [Lifehacker] [Buy Your Fast Food Sauces by the Bottle](https://lifehacker.com/buy-your-fast-food-sauces-by-the-bottle-1850675993)
 - [Dev.to/JS] [Benchmarking String Literal &lpar;&quot;&quot;&rpar; vs Template Literal &lpar;``&rpar; - using Performance.now&lpar;&rpar;](https://dev.to/maafaishal/benchmarking-string-literal-vs-template-literal-using-performancenow-49gh)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a P2P Crypto Exchange: How to Choose the Right Remitano Clone Script](https://dev.to/mgaaron/building-a-p2p-crypto-exchange-how-to-choose-the-right-remitano-clone-script-53o6)
 - [Dev.to/JS] [NextJS: Taking Web Development to the Next Level](https://dev.to/vedvyas/nextjs-taking-web-development-to-the-next-level-j82)
 - [Dev.to/JS] [The Top 10 Job Profiles in Software Engineering](https://dev.to/techmindset/the-top-10-job-profiles-in-software-engineering-1df8)
-- [Dev.to/JS] [“Top Frontend Interview Questions : &lpar;Part 1&rpar; — Boost Your Knowledge and Ace Your Next Job Interview!”](https://dev.to/blackhorse0101/top-frontend-interview-questions-part-1-boost-your-knowledge-and-ace-your-next-job-interview-3b39)
-- [Dev.to/JS] [Understanding RDBMS: A Foundation of Modern Data Management](https://dev.to/edtechbysakshi/understanding-rdbms-a-foundation-of-modern-data-management-4bnl)
 - [Lifehacker] [This Intermediate-Level Stock Trading Course Is $30 Right Now](https://lifehacker.com/this-intermediate-level-stock-trading-course-is-30-rig-1850665770)
 - [Lifehacker] [The Beginner&#39;s Guide to Safe Urban Running](https://lifehacker.com/the-beginners-guide-to-safe-urban-running-1727699007)
 - [Lifehacker] [How to Flambé Without Lighting Yourself on Fire](https://lifehacker.com/how-to-flambe-without-lighting-yourself-on-fire-1850679351)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Find Your Twitter Follows on Other Social Media Platforms](https://lifehacker.com/you-can-find-your-twitter-follows-on-other-social-media-1850675120)
 - [Lifehacker] [These Night Vision Digital Binoculars Are $100 Right Now](https://lifehacker.com/these-night-vision-digital-binoculars-are-100-right-no-1850672346)
 - [Lifehacker] [Grease Your Waffle Maker With Bacon Fat](https://lifehacker.com/grease-your-waffle-maker-with-bacon-fat-1850675464)
-- [Lifehacker] [This Refurbished 24-Inch Acer Monitor Is $130 Right Now](https://lifehacker.com/this-refurbished-24-inch-acer-monitor-is-130-right-now-1850672320)
-- [Lifehacker] [Your Training &#39;Week&#39; Doesn’t Have to Be Seven Days Long](https://lifehacker.com/your-training-week-doesn-t-have-to-be-seven-days-long-1850675605)
-- [Lifehacker] [Make Waffled SPAM Pops for a Debauched Start to the Day](https://lifehacker.com/make-waffled-spam-pops-for-a-debauched-start-to-the-day-1850676375)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Refurbished 24-Inch Acer Monitor Is $130 Right Now](https://lifehacker.com/this-refurbished-24-inch-acer-monitor-is-130-right-now-1850672320)<!-- TECH-POSTS:END -->
 
 ---
 
