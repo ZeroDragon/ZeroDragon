@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deploying Node.js App](https://dev.to/trinly01/deploying-nodejs-app-dln)
+- [Dev.to/JS] [React Native: Ultimate Guide to Create a Home Screen Widget for iOS and Android](https://dev.to/rushitjivani/react-native-ultimate-guide-to-create-a-home-screen-widget-for-ios-and-android-1h9g)
 - [Dev.to/JS] [Keep your javascript code safe from prying eyes with a bit of cunning obfuscation.](https://dev.to/w2sft/keep-your-javascript-code-safe-from-prying-eyes-with-a-bit-of-cunning-obfuscation-36lb)
 - [Dev.to/JS] [Mastering the Mobile App Development Life Cycle: Your Path to Creating Winning Apps](https://dev.to/keertiinvisor/mastering-the-mobile-app-development-life-cycle-your-path-to-creating-winning-apps-4igm)
 - [Dev.to/JS] [10 Tips For Better Javascript Coding](https://dev.to/bindupatidar/10-tips-for-better-javascript-coding-4io0)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [An interesting fact on using removeEventListener&lpar;&rpar; inside a web component](https://dev.to/heybran/an-interesting-fact-on-using-removeeventlistener-inside-a-web-component-3lnk)
 - [Dev.to/JS] [【徵才】WFH- REMOTE: QA-测试/IOS/Android/JAVA/前端开发](https://dev.to/zizihr/zheng-cai-wfh-remote-qa-ce-shi-iosandroidjavaqian-duan-kai-fa-13jf)
 - [Dev.to/JS] [Developers tool for 10x better Tests](https://dev.to/aiforme/developers-tool-for-10x-better-tests-igh)
-- [Dev.to/JS] [How to Generate Table of Contents From Markdown/Html Text in Next.js](https://dev.to/tnvmadhav/how-to-generate-table-of-contents-from-markdownhtml-text-in-nextjs-4mm)
-- [Dev.to/JS] [The Easy Way to Protect JavaScript Code](https://dev.to/w2sft/the-easy-way-to-protect-javascript-code-4b9k)
 - [Lifehacker] [This Intermediate-Level Stock Trading Course Is $30 Right Now](https://lifehacker.com/this-intermediate-level-stock-trading-course-is-30-rig-1850665770)
 - [Lifehacker] [The Beginner&#39;s Guide to Safe Urban Running](https://lifehacker.com/the-beginners-guide-to-safe-urban-running-1727699007)
 - [Lifehacker] [How to Flambé Without Lighting Yourself on Fire](https://lifehacker.com/how-to-flambe-without-lighting-yourself-on-fire-1850679351)
