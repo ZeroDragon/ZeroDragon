@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reduce memory usage of NodeJS apps inside Docker](https://dev.to/fbjorn/reduce-memory-usage-of-nodejs-apps-inside-docker-3588)
+- [Dev.to/JS] [Immediate Edge Reviews - Reviews, Benefits, Price, Complaints &amp; Warnings?](https://dev.to/immediatee10200/immediate-edge-reviews-reviews-benefits-price-complaints-warnings-51b8)
+- [Dev.to/JS] [Understanding Asynchronous programming in JavaScript.](https://dev.to/emkay860/understanding-asynchronous-programming-in-javascript-163n)
+- [Dev.to/JS] [Building a P2P Crypto Exchange: How to Choose the Right Remitano Clone Script](https://dev.to/mgaaron/building-a-p2p-crypto-exchange-how-to-choose-the-right-remitano-clone-script-53o6)
+- [Dev.to/JS] [NextJS: Taking Web Development to the Next Level](https://dev.to/vedvyas/nextjs-taking-web-development-to-the-next-level-j82)
 - [Dev.to/JS] [The Top 10 Job Profiles in Software Engineering](https://dev.to/techmindset/the-top-10-job-profiles-in-software-engineering-1df8)
 - [Dev.to/JS] [“Top Frontend Interview Questions : &lpar;Part 1&rpar; — Boost Your Knowledge and Ace Your Next Job Interview!”](https://dev.to/blackhorse0101/top-frontend-interview-questions-part-1-boost-your-knowledge-and-ace-your-next-job-interview-3b39)
 - [Dev.to/JS] [Understanding RDBMS: A Foundation of Modern Data Management](https://dev.to/edtechbysakshi/understanding-rdbms-a-foundation-of-modern-data-management-4bnl)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Store Images in MongoDB using Cloudinary: MERN Stack](https://dev.to/njong_emy/how-to-store-images-in-mongodb-using-cloudinary-mern-stack-imo)
 - [Dev.to/JS] [I once built a open source project like Google Trends](https://dev.to/callmehongmaybe/i-once-built-a-open-source-project-like-google-trends-37mp)
 - [Dev.to/JS] [Deploying Node.js App](https://dev.to/trinly01/deploying-nodejs-app-dln)
-- [Dev.to/JS] [React Native: Ultimate Guide to Create a Home Screen Widget for iOS and Android](https://dev.to/rushitjivani/react-native-ultimate-guide-to-create-a-home-screen-widget-for-ios-and-android-1h9g)
-- [Dev.to/JS] [Keep your javascript code safe from prying eyes with a bit of cunning obfuscation.](https://dev.to/w2sft/keep-your-javascript-code-safe-from-prying-eyes-with-a-bit-of-cunning-obfuscation-36lb)
-- [Dev.to/JS] [Mastering the Mobile App Development Life Cycle: Your Path to Creating Winning Apps](https://dev.to/keertiinvisor/mastering-the-mobile-app-development-life-cycle-your-path-to-creating-winning-apps-4igm)
-- [Dev.to/JS] [10 Tips For Better Javascript Coding](https://dev.to/bindupatidar/10-tips-for-better-javascript-coding-4io0)
-- [Dev.to/JS] [Sending Emails from Command Line using EmailIt](https://dev.to/raguay/sending-emails-from-command-line-using-emailit-34bn)
 - [Lifehacker] [This Intermediate-Level Stock Trading Course Is $30 Right Now](https://lifehacker.com/this-intermediate-level-stock-trading-course-is-30-rig-1850665770)
 - [Lifehacker] [The Beginner&#39;s Guide to Safe Urban Running](https://lifehacker.com/the-beginners-guide-to-safe-urban-running-1727699007)
 - [Lifehacker] [How to Flambé Without Lighting Yourself on Fire](https://lifehacker.com/how-to-flambe-without-lighting-yourself-on-fire-1850679351)
