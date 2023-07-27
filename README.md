@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How understanding the reconciliation algorithm in React helped me improve my code quality](https://dev.to/alessandrorodrigo/how-understanding-the-reconciliation-algorithm-in-react-helped-me-improve-my-code-quality-4bcd)
+- [Dev.to/JS] [The Unconventional Brilliance of JavaScript in Embedded Systems: A Lighthearted Exploration](https://dev.to/matteac/the-unconventional-brilliance-of-javascript-in-embedded-systems-a-lighthearted-exploration-13c4)
+- [Lifehacker] [The Best Apps and Gadgets for Getting Better Sleep](https://lifehacker.com/use-these-apps-and-gadgets-to-get-better-sleep-1848076010)
 - [Dev.to/JS] [Living Without CDP: A Tale of Automation](https://dev.to/latenode/living-without-cdp-a-tale-of-automation-338p)
 - [Lifehacker] [This Clever, Portable Record Player Is $90 Right Now](https://lifehacker.com/this-clever-portable-record-player-is-90-right-now-1850672379)
 - [Lifehacker] [What the Fed’s Latest Interest Rate Hike Means for Your Finances](https://lifehacker.com/how-rising-interest-rates-will-affect-your-finances-the-1850155359)
@@ -54,9 +57,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Waze Settings Everyone Should Be Using](https://lifehacker.com/11-wonderful-waze-settings-everyone-should-be-using-1847545764)
 - [Dev.to/JS] [Switch from live to mock in seconds with Mocker](https://dev.to/skyrampmia/switch-from-live-to-mock-in-seconds-with-mocker-5a3l)
 - [Lifehacker] [That Rental Listing Might Actually Be a Scam](https://lifehacker.com/that-rental-listing-might-actually-be-a-scam-1850675854)
-- [Dev.to/JS] [JS Array Reduce - Basics to Advanced and custom Reduce Method 🔥](https://dev.to/rakshitmaini/array-reduce-basics-to-advanced-and-custom-reduce-2gnj)
 - [Lifehacker] [What People Are Getting Wrong This Week: Clothing Sizes](https://lifehacker.com/you-don-t-know-what-size-clothing-you-wear-1850680821)
-- [Dev.to/JS] [Introduction to Web APIs](https://dev.to/mmnldm/introduction-to-web-apis-5d6m)
 - [Lifehacker] [Your Immersion Circulator Makes an Excellent Wine Chiller](https://lifehacker.com/your-immersion-circulator-is-also-an-excellent-wine-chi-1793393265)
 - [Lifehacker] [Why the New Arc Browser Is Better Than Chrome](https://lifehacker.com/why-the-new-arc-browser-is-better-than-chrome-1850681545)
 - [Lifehacker] [Four Questions to Ask Yourself Before Changing Careers](https://lifehacker.com/four-questions-to-ask-yourself-before-changing-careers-1850679687)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Places You Can Get a ‘Free’ Netflix Subscription](https://lifehacker.com/all-the-places-you-can-get-a-free-netflix-subscriptio-1850680291)
 - [Lifehacker] [The Best Gear to Keep Your Workspace Clean &lpar;and Sanitary&rpar;](https://lifehacker.com/the-best-gear-to-keep-your-workspace-clean-and-sanitar-1850679601)
 - [Lifehacker] [Buy Your Fast Food Sauces by the Bottle](https://lifehacker.com/buy-your-fast-food-sauces-by-the-bottle-1850675993)
-- [Lifehacker] [All the Ways Your Credit Card Info Can Be Stolen](https://lifehacker.com/all-the-ways-your-credit-card-info-can-be-stolen-1850678829)
-- [Lifehacker] [This Intermediate-Level Stock Trading Course Is $30 Right Now](https://lifehacker.com/this-intermediate-level-stock-trading-course-is-30-rig-1850665770)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Ways Your Credit Card Info Can Be Stolen](https://lifehacker.com/all-the-ways-your-credit-card-info-can-be-stolen-1850678829)<!-- TECH-POSTS:END -->
 
 ---
 
