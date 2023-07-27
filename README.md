@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Sous-Vide Circulator Is a Forgetful Cook&#39;s Best Friend](https://lifehacker.com/the-sous-vide-circulator-is-a-forgetful-cooks-best-frie-1850683214)
+- [Dev.to/JS] [React Authentication: Best Practices For Handling Token Securely using HOC.](https://dev.to/amangupta37/react-authentication-best-practices-for-handling-token-securely-using-hoc-2ll0)
+- [Dev.to/JS] [📳 Header con busqueda Responsivo](https://dev.to/gjosueo/header-con-busqueda-responsivo-22lo)
+- [Lifehacker] [Why You Should Choose Credit Over Cash When Traveling Abroad](https://lifehacker.com/why-you-should-choose-credit-over-cash-when-traveling-a-1850682925)
+- [Lifehacker] [Rent a Private Pool for the Day With This &#39;Airbnb for Pools&#39; App](https://lifehacker.com/rent-a-private-pool-for-the-day-with-this-airbnb-for-po-1828602385)
+- [Dev.to/JS] [Difference Between Module, Script, Package, Library, and Framework](https://dev.to/data-sandbox/difference-between-module-script-package-library-and-framework-1m15)
 - [Lifehacker] [You Should Add Isometric Exercises to Your Routine](https://lifehacker.com/you-should-add-isometric-exercises-to-your-routine-1850683443)
 - [Dev.to/JS] [Creating appointment and sync with google calander.](https://dev.to/moinakh22885547/creating-appointment-and-sync-with-google-calander-1npn)
 - [Lifehacker] [That Customer Service Number on Google Might Be a Scam](https://lifehacker.com/that-customer-service-number-on-google-might-be-a-scam-1850680896)
@@ -51,21 +57,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Need to Know About Samsung’s Galaxy Watch 6](https://lifehacker.com/everything-you-need-to-know-about-samsung-s-galaxy-watc-1850680274)
 - [Dev.to/JS] [Day 13: Guess it](https://dev.to/dhrn/day-12-guess-it-1gfa)
 - [Lifehacker] [All the Places You Can Get a ‘Free’ Netflix Subscription](https://lifehacker.com/all-the-places-you-can-get-a-free-netflix-subscriptio-1850680291)
-- [Dev.to/JS] [Filter&lpar;&rpar; method in JavaScript ?](https://dev.to/diwakarkashyap/filter-method-in-javascript--20ha)
 - [Lifehacker] [The Best Gear to Keep Your Workspace Clean &lpar;and Sanitary&rpar;](https://lifehacker.com/the-best-gear-to-keep-your-workspace-clean-and-sanitar-1850679601)
-- [Dev.to/JS] [JavaScript vs. TypeScript: Unveiling the Differences and Benefits](https://dev.to/idurar/javascript-vs-typescript-unveiling-the-differences-and-benefits-1c6c)
 - [Lifehacker] [Buy Your Fast Food Sauces by the Bottle](https://lifehacker.com/buy-your-fast-food-sauces-by-the-bottle-1850675993)
-- [Dev.to/JS] [Benchmarking String Literal &lpar;&quot;&quot;&rpar; vs Template Literal &lpar;``&rpar; - using Performance.now&lpar;&rpar;](https://dev.to/maafaishal/benchmarking-string-literal-vs-template-literal-using-performancenow-49gh)
 - [Lifehacker] [All the Ways Your Credit Card Info Can Be Stolen](https://lifehacker.com/all-the-ways-your-credit-card-info-can-be-stolen-1850678829)
 - [Lifehacker] [This Intermediate-Level Stock Trading Course Is $30 Right Now](https://lifehacker.com/this-intermediate-level-stock-trading-course-is-30-rig-1850665770)
 - [Lifehacker] [The Beginner&#39;s Guide to Safe Urban Running](https://lifehacker.com/the-beginners-guide-to-safe-urban-running-1727699007)
 - [Lifehacker] [How to Flambé Without Lighting Yourself on Fire](https://lifehacker.com/how-to-flambe-without-lighting-yourself-on-fire-1850679351)
 - [Lifehacker] [You Can Book a 9-Night Trip to Paris, London, and Amsterdam for $1,549 Right Now](https://lifehacker.com/you-can-book-a-9-night-trip-to-paris-london-and-amste-1850679283)
 - [Lifehacker] [Sous Vide Carnitas and Eat Tacos All Summer Long](https://lifehacker.com/sous-vide-carnitas-and-eat-tacos-all-summer-long-1825761771)
-- [Lifehacker] [Samsung’s New Foldable Phones Are Here](https://lifehacker.com/samsung-s-new-foldable-phones-are-here-1850678999)
-- [Lifehacker] [Three Surprising Things That Can Make Your Sunscreen Less Effective](https://lifehacker.com/surprising-things-that-can-make-your-sunscreen-less-eff-1850679210)
-- [Lifehacker] [Swap Your Pet’s ‘Cone of Shame’ for One of These Better Options](https://lifehacker.com/put-a-onesie-on-your-pet-instead-of-the-cone-of-shame-1844135226)
-- [Lifehacker] [You Can Put Your College Credits to Use &lpar;Even If You Didn’t Graduate&rpar;](https://lifehacker.com/you-can-put-your-college-credits-to-use-even-if-you-di-1850678428)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Samsung’s New Foldable Phones Are Here](https://lifehacker.com/samsung-s-new-foldable-phones-are-here-1850678999)<!-- TECH-POSTS:END -->
 
 ---
 
