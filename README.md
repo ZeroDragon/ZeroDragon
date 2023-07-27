@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [That Rental Listing Might Actually Be a Scam](https://lifehacker.com/that-rental-listing-might-actually-be-a-scam-1850675854)
+- [Dev.to/JS] [JS Array Reduce - Basics to Advanced and custom Reduce Method 🔥](https://dev.to/rakshitmaini/array-reduce-basics-to-advanced-and-custom-reduce-2gnj)
+- [Lifehacker] [What People Are Getting Wrong This Week: Clothing Sizes](https://lifehacker.com/you-don-t-know-what-size-clothing-you-wear-1850680821)
+- [Dev.to/JS] [Introduction to Web APIs](https://dev.to/mmnldm/introduction-to-web-apis-5d6m)
+- [Lifehacker] [Why the New Arc Browser Is Better Than Chrome](https://lifehacker.com/why-the-new-arc-browser-is-better-than-chrome-1850681545)
 - [Dev.to/JS] [Introduction to Client-Side Data Persistence for Sports Web Development](https://dev.to/jacknorman235/introduction-to-client-side-data-persistence-for-sports-web-development-4n2)
 - [Lifehacker] [Four Questions to Ask Yourself Before Changing Careers](https://lifehacker.com/four-questions-to-ask-yourself-before-changing-careers-1850679687)
 - [Dev.to/JS] [Efficiently Managing Timers in a React Native App: Overcoming Background-Foreground Timer State Issues](https://dev.to/shivampawar/efficiently-managing-timers-in-a-react-native-app-overcoming-background-foreground-timer-state-issues-map)
@@ -39,11 +44,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Benchmarking String Literal &lpar;&quot;&quot;&rpar; vs Template Literal &lpar;``&rpar; - using Performance.now&lpar;&rpar;](https://dev.to/maafaishal/benchmarking-string-literal-vs-template-literal-using-performancenow-49gh)
 - [Lifehacker] [All the Ways Your Credit Card Info Can Be Stolen](https://lifehacker.com/all-the-ways-your-credit-card-info-can-be-stolen-1850678829)
 - [Dev.to/JS] [Debouncing in React: Unleashing the Power of Efficient API Calls](https://dev.to/chiragm999/debouncing-in-react-unleashing-the-power-of-efficient-api-calls-56m9)
-- [Dev.to/JS] [Scraping Amazon: How To Scrape Amazon Reviews In Under A Minute?](https://dev.to/reviewgatorsusa/scraping-amazon-how-to-scrape-amazon-reviews-in-under-a-minute-2jd9)
 - [Dev.to/JS] [Reduce memory usage of NodeJS apps inside Docker](https://dev.to/fbjorn/reduce-memory-usage-of-nodejs-apps-inside-docker-3588)
 - [Dev.to/JS] [Immediate Edge Reviews - Reviews, Benefits, Price, Complaints &amp; Warnings?](https://dev.to/immediatee10200/immediate-edge-reviews-reviews-benefits-price-complaints-warnings-51b8)
 - [Dev.to/JS] [Understanding Asynchronous programming in JavaScript.](https://dev.to/emkay860/understanding-asynchronous-programming-in-javascript-163n)
-- [Dev.to/JS] [Building a P2P Crypto Exchange: How to Choose the Right Remitano Clone Script](https://dev.to/mgaaron/building-a-p2p-crypto-exchange-how-to-choose-the-right-remitano-clone-script-53o6)
 - [Lifehacker] [This Intermediate-Level Stock Trading Course Is $30 Right Now](https://lifehacker.com/this-intermediate-level-stock-trading-course-is-30-rig-1850665770)
 - [Lifehacker] [The Beginner&#39;s Guide to Safe Urban Running](https://lifehacker.com/the-beginners-guide-to-safe-urban-running-1727699007)
 - [Lifehacker] [How to Flambé Without Lighting Yourself on Fire](https://lifehacker.com/how-to-flambe-without-lighting-yourself-on-fire-1850679351)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [If Your Home Insurance Lapses, Do These Things Immediately](https://lifehacker.com/if-your-home-insurance-lapses-do-these-things-immediat-1850642820)
 - [Lifehacker] [These Are the Signs Your Dog Is Getting Car Sick](https://lifehacker.com/how-to-know-if-your-dog-is-getting-car-sick-1827247324)
 - [Lifehacker] [Try These Unexpected Ways to Reuse Mouse Pads in Your House](https://lifehacker.com/try-these-unexpected-ways-to-reuse-mouse-pads-in-your-h-1850678077)
-- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in August 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-august-2023-1850677672)
-- [Lifehacker] [Where You Can Get Free &lpar;or Cheap&rpar; Wings on National Chicken Wing Day](https://lifehacker.com/where-you-can-get-free-or-cheap-wings-on-national-chi-1850676098)
-- [Lifehacker] [You Can Find Your Twitter Follows on Other Social Media Platforms](https://lifehacker.com/you-can-find-your-twitter-follows-on-other-social-media-1850675120)
-- [Lifehacker] [These Night Vision Digital Binoculars Are $100 Right Now](https://lifehacker.com/these-night-vision-digital-binoculars-are-100-right-no-1850672346)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in August 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-august-2023-1850677672)<!-- TECH-POSTS:END -->
 
 ---
 
