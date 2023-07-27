@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [From useState to useReducer: Level Up Your State Management in React](https://dev.to/ibrahzizo360/from-usestate-to-usereducer-level-up-your-state-management-in-react-bc1)
 - [Dev.to/JS] [fastify-hashids: Obscure Your Database IDs Like a Pro!](https://dev.to/andersonjoseph/fastify-hashids-obscure-your-database-ids-like-a-pro-102d)
 - [Lifehacker] [This Intermediate-Level Stock Trading Course Is $30 Right Now](https://lifehacker.com/this-intermediate-level-stock-trading-course-is-30-rig-1850665770)
 - [Lifehacker] [The Beginner&#39;s Guide to Safe Urban Running](https://lifehacker.com/the-beginners-guide-to-safe-urban-running-1727699007)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Samsung’s New Foldable Phones Are Here](https://lifehacker.com/samsung-s-new-foldable-phones-are-here-1850678999)
 - [Dev.to/JS] [Enhancing Web Accessibility: Locking the TAB Button within Modals and Menus](https://dev.to/bogdanfromkyiv/enhancing-web-accessibility-locking-the-tab-button-within-modals-and-menus-3774)
 - [Lifehacker] [Three Surprising Things That Can Make Your Sunscreen Less Effective](https://lifehacker.com/surprising-things-that-can-make-your-sunscreen-less-eff-1850679210)
-- [Dev.to/JS] [Building a simple but advanced Jsonic language using Python](https://dev.to/alex01/building-a-simple-but-advanced-jsonic-language-pbk)
 - [Lifehacker] [Swap Your Pet’s ‘Cone of Shame’ for One of These Better Options](https://lifehacker.com/put-a-onesie-on-your-pet-instead-of-the-cone-of-shame-1844135226)
 - [Lifehacker] [You Can Put Your College Credits to Use &lpar;Even If You Didn’t Graduate&rpar;](https://lifehacker.com/you-can-put-your-college-credits-to-use-even-if-you-di-1850678428)
 - [Dev.to/JS] [JavaScript Excel Spreadsheet Use Cases: Media Industry](https://dev.to/grapecity/javascript-excel-spreadsheet-use-cases-media-industry-28nc)
