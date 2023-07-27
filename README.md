@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Add &quot;Add to Home Screen&quot; Functionality to Your Progressive Web App](https://dev.to/sh20raj/add-add-to-home-screen-functionality-to-your-progressive-web-app-2h0n)
+- [Dev.to/JS] [JavaScript Arrays Methods In Detail Part 3](https://dev.to/abidullah786/javascript-arrays-methods-in-detail-part-3-3phl)
 - [Dev.to/JS] [An interesting fact on using removeEventListener&lpar;&rpar; inside a web component](https://dev.to/heybran/an-interesting-fact-on-using-removeeventlistener-inside-a-web-component-3lnk)
 - [Dev.to/JS] [【徵才】WFH- REMOTE: QA-测试/IOS/Android/JAVA/前端开发](https://dev.to/zizihr/zheng-cai-wfh-remote-qa-ce-shi-iosandroidjavaqian-duan-kai-fa-13jf)
 - [Dev.to/JS] [Developers tool for 10x better Tests](https://dev.to/aiforme/developers-tool-for-10x-better-tests-igh)
@@ -40,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [With the increasing integration of AI, what do you see as the most promising career paths for the next gen of tech pro?](https://dev.to/snehasaha/with-the-increasing-integration-of-ai-what-do-you-see-as-the-most-promising-career-paths-for-the-next-gen-of-tech-pro-2md8)
 - [Lifehacker] [You Can Book a 9-Night Trip to Paris, London, and Amsterdam for $1,549 Right Now](https://lifehacker.com/you-can-book-a-9-night-trip-to-paris-london-and-amste-1850679283)
 - [Dev.to/JS] [Mastering JavaScript Shorthands](https://dev.to/leandro_nnz/mastering-javascript-shorthands-33mg)
-- [Dev.to/JS] [Detailed Guide to Firebase Realtime Database with a CRUD Tutorial using JavaScript](https://dev.to/mohitsinghchauhan/detailed-guide-to-firebase-realtime-database-with-a-crud-tutorial-using-javascript-1dik)
 - [Lifehacker] [Sous Vide Carnitas and Eat Tacos All Summer Long](https://lifehacker.com/sous-vide-carnitas-and-eat-tacos-all-summer-long-1825761771)
-- [Dev.to/JS] [How to upgrade jQuery on an old static HTML site &lpar;for embarrassingly new noobs&rpar;](https://dev.to/thisisjoewells/how-to-upgrade-jquery-on-an-old-static-html-site-for-embarrassingly-new-noobs-5eck)
 - [Lifehacker] [Samsung’s New Foldable Phones Are Here](https://lifehacker.com/samsung-s-new-foldable-phones-are-here-1850678999)
 - [Lifehacker] [Three Surprising Things That Can Make Your Sunscreen Less Effective](https://lifehacker.com/surprising-things-that-can-make-your-sunscreen-less-eff-1850679210)
 - [Lifehacker] [Swap Your Pet’s ‘Cone of Shame’ for One of These Better Options](https://lifehacker.com/put-a-onesie-on-your-pet-instead-of-the-cone-of-shame-1844135226)
