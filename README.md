@@ -27,7 +27,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [The Easy Way to Protect JavaScript Code](https://dev.to/w2sft/the-easy-way-to-protect-javascript-code-4b9k)
-- [Dev.to/JS] [Benchmarking String Literal &lpar;&quot;&quot;&rpar; vs Template Literal &lpar;``&rpar; - using Performance.now&lpar;&rpar;](https://dev.to/maafaishal/benchmarking-string-literal-vs-template-literal-using-performancenow-25ph)
 - [Dev.to/JS] [From useState to useReducer: Level Up Your State Management in React](https://dev.to/ibrahzizo360/from-usestate-to-usereducer-level-up-your-state-management-in-react-bc1)
 - [Dev.to/JS] [fastify-hashids: Obscure Your Database IDs Like a Pro!](https://dev.to/andersonjoseph/fastify-hashids-obscure-your-database-ids-like-a-pro-102d)
 - [Lifehacker] [This Intermediate-Level Stock Trading Course Is $30 Right Now](https://lifehacker.com/this-intermediate-level-stock-trading-course-is-30-rig-1850665770)
@@ -47,6 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Swap Your Pet’s ‘Cone of Shame’ for One of These Better Options](https://lifehacker.com/put-a-onesie-on-your-pet-instead-of-the-cone-of-shame-1844135226)
 - [Lifehacker] [You Can Put Your College Credits to Use &lpar;Even If You Didn’t Graduate&rpar;](https://lifehacker.com/you-can-put-your-college-credits-to-use-even-if-you-di-1850678428)
 - [Dev.to/JS] [JavaScript Excel Spreadsheet Use Cases: Media Industry](https://dev.to/grapecity/javascript-excel-spreadsheet-use-cases-media-industry-28nc)
+- [Dev.to/JS] [Understanding the Differences Between useCallback and useMemo](https://dev.to/vale/understanding-the-differences-between-usecallback-and-usememo-il5)
 - [Lifehacker] [Why Samsung’s New Galaxy Tab S9 Series Tablets Might Be Worth the Cost](https://lifehacker.com/why-samsung-s-new-galaxy-tab-s9-series-tablets-might-be-1850678580)
 - [Lifehacker] [For Better Tasting Tomatoes, Dip Them in Warm Water Before Chilling](https://lifehacker.com/dip-tomatoes-in-warm-water-before-chilling-to-make-them-1726385902)
 - [Lifehacker] [Everything Samsung Announced at Unpacked 2023](https://lifehacker.com/everything-samsung-announced-at-unpacked-2023-1850677766)
