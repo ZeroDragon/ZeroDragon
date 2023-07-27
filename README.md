@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sending Emails from Command Line using EmailIt](https://dev.to/raguay/sending-emails-from-command-line-using-emailit-34bn)
+- [Dev.to/JS] [Exploring Imba: A Fun and Fast Web Programming Adventure!](https://dev.to/ravindukd/exploring-imba-a-fun-and-fast-web-programming-adventure-35pk)
 - [Dev.to/JS] [Add &quot;Add to Home Screen&quot; Functionality to Your Progressive Web App](https://dev.to/sh20raj/add-add-to-home-screen-functionality-to-your-progressive-web-app-2h0n)
 - [Dev.to/JS] [JavaScript Arrays Methods In Detail Part 3](https://dev.to/abidullah786/javascript-arrays-methods-in-detail-part-3-3phl)
 - [Dev.to/JS] [An interesting fact on using removeEventListener&lpar;&rpar; inside a web component](https://dev.to/heybran/an-interesting-fact-on-using-removeeventlistener-inside-a-web-component-3lnk)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Beginner&#39;s Guide to Safe Urban Running](https://lifehacker.com/the-beginners-guide-to-safe-urban-running-1727699007)
 - [Lifehacker] [How to Flambé Without Lighting Yourself on Fire](https://lifehacker.com/how-to-flambe-without-lighting-yourself-on-fire-1850679351)
 - [Dev.to/JS] [Deploying a React App to AWS Elastic Beanstalk](https://dev.to/honeybadger/deploying-a-react-app-to-aws-elastic-beanstalk-2ala)
-- [Dev.to/JS] [With the increasing integration of AI, what do you see as the most promising career paths for the next gen of tech pro?](https://dev.to/snehasaha/with-the-increasing-integration-of-ai-what-do-you-see-as-the-most-promising-career-paths-for-the-next-gen-of-tech-pro-2md8)
 - [Lifehacker] [You Can Book a 9-Night Trip to Paris, London, and Amsterdam for $1,549 Right Now](https://lifehacker.com/you-can-book-a-9-night-trip-to-paris-london-and-amste-1850679283)
-- [Dev.to/JS] [Mastering JavaScript Shorthands](https://dev.to/leandro_nnz/mastering-javascript-shorthands-33mg)
 - [Lifehacker] [Sous Vide Carnitas and Eat Tacos All Summer Long](https://lifehacker.com/sous-vide-carnitas-and-eat-tacos-all-summer-long-1825761771)
 - [Lifehacker] [Samsung’s New Foldable Phones Are Here](https://lifehacker.com/samsung-s-new-foldable-phones-are-here-1850678999)
 - [Lifehacker] [Three Surprising Things That Can Make Your Sunscreen Less Effective](https://lifehacker.com/surprising-things-that-can-make-your-sunscreen-less-eff-1850679210)
