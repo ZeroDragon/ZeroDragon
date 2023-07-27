@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can &lpar;Maybe&rpar; Get the Benefits of Weed Without Weed](https://lifehacker.com/you-can-maybe-get-the-benefits-of-weed-without-weed-1850676489)
+- [Lifehacker] [The Best Waze Settings Everyone Should Be Using](https://lifehacker.com/11-wonderful-waze-settings-everyone-should-be-using-1847545764)
+- [Dev.to/JS] [Switch from live to mock in seconds with Mocker](https://dev.to/skyrampmia/switch-from-live-to-mock-in-seconds-with-mocker-5a3l)
 - [Lifehacker] [That Rental Listing Might Actually Be a Scam](https://lifehacker.com/that-rental-listing-might-actually-be-a-scam-1850675854)
 - [Dev.to/JS] [JS Array Reduce - Basics to Advanced and custom Reduce Method 🔥](https://dev.to/rakshitmaini/array-reduce-basics-to-advanced-and-custom-reduce-2gnj)
 - [Lifehacker] [What People Are Getting Wrong This Week: Clothing Sizes](https://lifehacker.com/you-don-t-know-what-size-clothing-you-wear-1850680821)
@@ -46,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Debouncing in React: Unleashing the Power of Efficient API Calls](https://dev.to/chiragm999/debouncing-in-react-unleashing-the-power-of-efficient-api-calls-56m9)
 - [Dev.to/JS] [Reduce memory usage of NodeJS apps inside Docker](https://dev.to/fbjorn/reduce-memory-usage-of-nodejs-apps-inside-docker-3588)
 - [Dev.to/JS] [Immediate Edge Reviews - Reviews, Benefits, Price, Complaints &amp; Warnings?](https://dev.to/immediatee10200/immediate-edge-reviews-reviews-benefits-price-complaints-warnings-51b8)
-- [Dev.to/JS] [Understanding Asynchronous programming in JavaScript.](https://dev.to/emkay860/understanding-asynchronous-programming-in-javascript-163n)
 - [Lifehacker] [This Intermediate-Level Stock Trading Course Is $30 Right Now](https://lifehacker.com/this-intermediate-level-stock-trading-course-is-30-rig-1850665770)
 - [Lifehacker] [The Beginner&#39;s Guide to Safe Urban Running](https://lifehacker.com/the-beginners-guide-to-safe-urban-running-1727699007)
 - [Lifehacker] [How to Flambé Without Lighting Yourself on Fire](https://lifehacker.com/how-to-flambe-without-lighting-yourself-on-fire-1850679351)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use an Umbrella to Catch Dust While Cleaning a Ceiling Fan](https://lifehacker.com/hang-an-umbrella-from-a-chandelier-to-catch-dust-and-dr-1770147853)
 - [Lifehacker] [You Can Still Get Into Cycling When You&#39;re Overweight](https://lifehacker.com/you-can-still-get-into-cycling-when-youre-overweight-1850676389)
 - [Lifehacker] [If Your Home Insurance Lapses, Do These Things Immediately](https://lifehacker.com/if-your-home-insurance-lapses-do-these-things-immediat-1850642820)
-- [Lifehacker] [These Are the Signs Your Dog Is Getting Car Sick](https://lifehacker.com/how-to-know-if-your-dog-is-getting-car-sick-1827247324)
-- [Lifehacker] [Try These Unexpected Ways to Reuse Mouse Pads in Your House](https://lifehacker.com/try-these-unexpected-ways-to-reuse-mouse-pads-in-your-h-1850678077)
-- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in August 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-august-2023-1850677672)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Signs Your Dog Is Getting Car Sick](https://lifehacker.com/how-to-know-if-your-dog-is-getting-car-sick-1827247324)<!-- TECH-POSTS:END -->
 
 ---
 
