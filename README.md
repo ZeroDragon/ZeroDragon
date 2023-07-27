@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Keep your javascript code safe from prying eyes with a bit of cunning obfuscation.](https://dev.to/w2sft/keep-your-javascript-code-safe-from-prying-eyes-with-a-bit-of-cunning-obfuscation-36lb)
+- [Dev.to/JS] [Mastering the Mobile App Development Life Cycle: Your Path to Creating Winning Apps](https://dev.to/keertiinvisor/mastering-the-mobile-app-development-life-cycle-your-path-to-creating-winning-apps-4igm)
+- [Dev.to/JS] [10 Tips For Better Javascript Coding](https://dev.to/bindupatidar/10-tips-for-better-javascript-coding-4io0)
 - [Dev.to/JS] [Sending Emails from Command Line using EmailIt](https://dev.to/raguay/sending-emails-from-command-line-using-emailit-34bn)
 - [Dev.to/JS] [Exploring Imba: A Fun and Fast Web Programming Adventure!](https://dev.to/ravindukd/exploring-imba-a-fun-and-fast-web-programming-adventure-35pk)
 - [Dev.to/JS] [Add &quot;Add to Home Screen&quot; Functionality to Your Progressive Web App](https://dev.to/sh20raj/add-add-to-home-screen-functionality-to-your-progressive-web-app-2h0n)
@@ -35,12 +38,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Developers tool for 10x better Tests](https://dev.to/aiforme/developers-tool-for-10x-better-tests-igh)
 - [Dev.to/JS] [How to Generate Table of Contents From Markdown/Html Text in Next.js](https://dev.to/tnvmadhav/how-to-generate-table-of-contents-from-markdownhtml-text-in-nextjs-4mm)
 - [Dev.to/JS] [The Easy Way to Protect JavaScript Code](https://dev.to/w2sft/the-easy-way-to-protect-javascript-code-4b9k)
-- [Dev.to/JS] [From useState to useReducer: Level Up Your State Management in React](https://dev.to/ibrahzizo360/from-usestate-to-usereducer-level-up-your-state-management-in-react-bc1)
-- [Dev.to/JS] [fastify-hashids: Obscure Your Database IDs Like a Pro!](https://dev.to/andersonjoseph/fastify-hashids-obscure-your-database-ids-like-a-pro-102d)
 - [Lifehacker] [This Intermediate-Level Stock Trading Course Is $30 Right Now](https://lifehacker.com/this-intermediate-level-stock-trading-course-is-30-rig-1850665770)
 - [Lifehacker] [The Beginner&#39;s Guide to Safe Urban Running](https://lifehacker.com/the-beginners-guide-to-safe-urban-running-1727699007)
 - [Lifehacker] [How to Flambé Without Lighting Yourself on Fire](https://lifehacker.com/how-to-flambe-without-lighting-yourself-on-fire-1850679351)
-- [Dev.to/JS] [Deploying a React App to AWS Elastic Beanstalk](https://dev.to/honeybadger/deploying-a-react-app-to-aws-elastic-beanstalk-2ala)
 - [Lifehacker] [You Can Book a 9-Night Trip to Paris, London, and Amsterdam for $1,549 Right Now](https://lifehacker.com/you-can-book-a-9-night-trip-to-paris-london-and-amste-1850679283)
 - [Lifehacker] [Sous Vide Carnitas and Eat Tacos All Summer Long](https://lifehacker.com/sous-vide-carnitas-and-eat-tacos-all-summer-long-1825761771)
 - [Lifehacker] [Samsung’s New Foldable Phones Are Here](https://lifehacker.com/samsung-s-new-foldable-phones-are-here-1850678999)
