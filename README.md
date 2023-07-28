@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [My Favorite Websites to Find the Best Travel Deals](https://lifehacker.com/my-favorite-websites-to-find-the-best-travel-deals-1850684316)
+- [Dev.to/JS] [Liv Pure - Reviews, Benefits, Results, Complaints &amp; Warnings?](https://dev.to/pure_liv72975/liv-pure-reviews-benefits-results-complaints-warnings-45np)
+- [Dev.to/JS] [9 Tips for Writing Clean, Fast, And Maintainable React Code](https://dev.to/blackhorse0101/9-tips-for-writing-clean-fast-and-maintainable-react-code-59ng)
+- [Lifehacker] [You Can Get Microsoft Office and Windows 11 Pro for $50 Right Now](https://lifehacker.com/you-can-get-microsoft-office-and-windows-11-pro-for-50-1850675710)
+- [Dev.to/JS] [Building Resilient Systems with Idempotent APIs](https://dev.to/karishmashukla/building-resilient-systems-with-idempotent-apis-5e5p)
 - [Lifehacker] [My Favorite Gadgets and Tools for a Smoother Commute](https://lifehacker.com/my-favorite-gadgets-and-tools-for-a-smoother-commute-1850683554)
 - [Dev.to/JS] [Enter, it screams... I mean, it streams](https://dev.to/westbrook/enter-it-screams-i-mean-it-streams-2p5p)
 - [Lifehacker] [How to Introduce Role Playing Into Your Sex Life](https://lifehacker.com/how-to-introduce-role-playing-into-your-sex-life-1850684587)
@@ -41,9 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🌗🌙 Implementing a Dark Mode Toggle: Level Up Your Website with CSS and JavaScript](https://dev.to/preetsuthar17/implementing-a-dark-mode-toggle-level-up-your-website-with-css-and-javascript-2bpb)
 - [Dev.to/JS] [Mastering Programming Interviews: A Gateway to Software Development Success](https://dev.to/idurar/mastering-programming-interviews-a-gateway-to-software-development-success-4mkd)
 - [Lifehacker] [Swap Tomatoes for Peaches, and Make a BLP](https://lifehacker.com/swap-tomatoes-for-peaches-and-make-a-blp-1850684519)
-- [Dev.to/JS] [Is Jamstack Officially Finished?](https://dev.to/remotesynth/is-jamstack-officially-finished-50kb)
-- [Dev.to/JS] [🔗🖼️ Exploring Next/Link and Next/Image for Enhanced Web Development](https://dev.to/preetsuthar17/exploring-nextlink-and-nextimage-for-enhanced-web-development-1o2g)
-- [Dev.to/JS] [🚀🌟 Next.js 13: Discovering Exciting New Features and Getting Started with the Latest Version](https://dev.to/preetsuthar17/nextjs-13-discovering-exciting-new-features-and-getting-started-with-the-latest-version-o2g)
 - [Lifehacker] [My Two Favorite Tools for Calculating the Cost of a Road Trip](https://lifehacker.com/my-two-favorite-tools-for-calculating-the-cost-of-a-roa-1850683670)
 - [Lifehacker] [All the Ways to Use the Free Crap You Can Snag at the Hardware Store](https://lifehacker.com/all-the-ways-to-use-the-free-crap-you-can-snag-at-the-h-1850682859)
 - [Lifehacker] [The Best Apps and Gadgets for Getting Better Sleep](https://lifehacker.com/use-these-apps-and-gadgets-to-get-better-sleep-1848076010)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Different Bars at the Gym, Explained](https://lifehacker.com/all-the-different-bars-at-the-gym-explained-1839810094)
 - [Lifehacker] [This Gear Will Protect Your Phone at the Beach](https://lifehacker.com/this-gear-will-protect-your-phone-at-the-beach-1850680623)
 - [Lifehacker] [You Can &lpar;Maybe&rpar; Get the Benefits of Weed Without Weed](https://lifehacker.com/you-can-maybe-get-the-benefits-of-weed-without-weed-1850676489)
-- [Lifehacker] [The Best Waze Settings Everyone Should Be Using](https://lifehacker.com/11-wonderful-waze-settings-everyone-should-be-using-1847545764)
-- [Lifehacker] [That Rental Listing Might Actually Be a Scam](https://lifehacker.com/that-rental-listing-might-actually-be-a-scam-1850675854)
-- [Lifehacker] [What People Are Getting Wrong This Week: Clothing Sizes](https://lifehacker.com/you-don-t-know-what-size-clothing-you-wear-1850680821)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Waze Settings Everyone Should Be Using](https://lifehacker.com/11-wonderful-waze-settings-everyone-should-be-using-1847545764)<!-- TECH-POSTS:END -->
 
 ---
 
