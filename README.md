@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Functioning or Functions](https://dev.to/sandraos/functioning-or-functions-5co8)
 - [Dev.to/JS] [Building a Movie Explorer with Google Cloud: Protecting API Keys and Enhancing Security](https://dev.to/bahamustafa/building-a-movie-explorer-with-google-cloud-protecting-api-keys-and-enhancing-security-17hc)
 - [Dev.to/JS] [JavaScript One-liner to Convert snake_case to camelCase](https://dev.to/jlogix/javascript-one-liner-to-convert-snakecase-to-camelcase-227)
 - [Dev.to/JS] [PinoyFlix | Pinoy Teleserye | Pinoy TV Shows | Pinoy Tambayan | Pinoy Channel](https://dev.to/piinoyflix/pinoyflix-pinoy-teleserye-pinoy-tv-shows-pinoy-tambayan-pinoy-channel-4249)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How understanding the reconciliation algorithm in React helped me improve my code quality](https://dev.to/alessandrorodrigo/how-understanding-the-reconciliation-algorithm-in-react-helped-me-improve-my-code-quality-4bcd)
 - [Dev.to/JS] [The Unconventional Brilliance of JavaScript in Embedded Systems: A Lighthearted Exploration](https://dev.to/matteac/the-unconventional-brilliance-of-javascript-in-embedded-systems-a-lighthearted-exploration-13c4)
 - [Lifehacker] [The Best Apps and Gadgets for Getting Better Sleep](https://lifehacker.com/use-these-apps-and-gadgets-to-get-better-sleep-1848076010)
-- [Dev.to/JS] [Living Without CDP: A Tale of Automation](https://dev.to/latenode/living-without-cdp-a-tale-of-automation-338p)
 - [Lifehacker] [This Clever, Portable Record Player Is $90 Right Now](https://lifehacker.com/this-clever-portable-record-player-is-90-right-now-1850672379)
 - [Lifehacker] [What the Fed’s Latest Interest Rate Hike Means for Your Finances](https://lifehacker.com/how-rising-interest-rates-will-affect-your-finances-the-1850155359)
 - [Lifehacker] [Where to Watch &#39;Twisted Metal&#39; &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-twisted-metal-and-what-you-should-know-1850678772)
