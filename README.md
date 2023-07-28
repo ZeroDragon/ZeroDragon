@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [If Statements: The Quick Guide For Beginners](https://dev.to/deborah/if-statements-the-quick-guide-for-beginners-35bc)
+- [Dev.to/JS] [JavaScript Arrays Methods In Detail Part 4](https://dev.to/abidullah786/javascript-arrays-methods-in-detail-part-4-7d7)
 - [Dev.to/JS] [How to Build Progressive Web Apps &lpar;PWAs&rpar; with Node.js](https://dev.to/saint_vandora/how-to-build-progressive-web-apps-pwas-with-nodejs-5blm)
 - [Dev.to/JS] [React Hooks: A Comprehensive Guide to Built-in React Hooks](https://dev.to/ryosuke/react-hooks-a-comprehensive-guide-to-built-in-react-hooks-32o)
 - [Dev.to/JS] [How understanding the reconciliation algorithm in React helped me improve my code quality](https://dev.to/alessandrorodrigo/how-understanding-the-reconciliation-algorithm-in-react-helped-me-improve-my-code-quality-4bcd)
@@ -46,10 +48,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Choose Credit Over Cash When Traveling Abroad](https://lifehacker.com/why-you-should-choose-credit-over-cash-when-traveling-a-1850682925)
 - [Lifehacker] [Rent a Private Pool for the Day With This &#39;Airbnb for Pools&#39; App](https://lifehacker.com/rent-a-private-pool-for-the-day-with-this-airbnb-for-po-1828602385)
 - [Lifehacker] [You Should Add Isometric Exercises to Your Routine](https://lifehacker.com/you-should-add-isometric-exercises-to-your-routine-1850683443)
-- [Dev.to/JS] [Creating appointment and sync with google calander.](https://dev.to/moinakh22885547/creating-appointment-and-sync-with-google-calander-1npn)
 - [Lifehacker] [That Customer Service Number on Google Might Be a Scam](https://lifehacker.com/that-customer-service-number-on-google-might-be-a-scam-1850680896)
 - [Lifehacker] [The Easiest Ways to Create the Ultimate Summer Bonfire](https://lifehacker.com/how-to-have-the-best-bonfire-of-the-summer-1797041818)
-- [Dev.to/JS] [101 JavaScript Concepts You Need to Know](https://dev.to/in/101-javascript-concepts-you-need-to-know-59h8)
 - [Lifehacker] [Make This No-Bake Panna Colada Pie If You Hate Your Oven Right Now](https://lifehacker.com/make-this-no-bake-panna-colada-pie-if-you-hate-your-ove-1850683151)
 - [Lifehacker] [The Difference Between Idle Time and Downtime at Work &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-idle-time-and-downtime-at-work-1850682482)
 - [Lifehacker] [All the Different Bars at the Gym, Explained](https://lifehacker.com/all-the-different-bars-at-the-gym-explained-1839810094)
