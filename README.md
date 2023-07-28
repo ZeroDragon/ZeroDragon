@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Ways to Use the Free Crap You Can Snag at the Hardware Store](https://lifehacker.com/all-the-ways-to-use-the-free-crap-you-can-snag-at-the-h-1850682859)
+- [Dev.to/JS] [Run Concurrent Tasks With a Limit Using Pure JavaScript](https://dev.to/artydev/run-concurrent-tasks-with-a-limit-using-pure-javascript-17do)
+- [Dev.to/JS] [finally&lpar;&rpar; method in JavaScript](https://dev.to/diwakarkashyap/finally-method-in-javascript-1dfl)
+- [Dev.to/JS] [Next js Templates](https://dev.to/easetemplates/next-js-templates-33n9)
+- [Dev.to/JS] [why figma units look bigger in react app ?](https://dev.to/starman1999/why-figma-units-look-bigger-in-react-app--215d)
+- [Dev.to/JS] [Why Custom Die Cut Mylar Bags Are Useful For You!](https://dev.to/kwickpackaging/why-custom-die-cut-mylar-bags-are-useful-for-you-hb6)
 - [Dev.to/JS] [JavaScript - The Golden Cage](https://dev.to/robkane1/javascript-the-golden-cage-1an5)
 - [Dev.to/JS] [Unleashing TypeScript performance in monorepos with TSX](https://dev.to/contember/unleashing-typescript-performance-in-monorepos-with-tsx-13e7)
 - [Dev.to/JS] [Understanding Business Logic in Node.js: A Beginner&#39;s Guide](https://dev.to/danities316/understanding-business-logic-in-nodejs-a-beginners-guide-1pb)
@@ -33,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Should You Use onSubmit&lpar;&rpar; instead Of onClick&lpar;&rpar; Event Listener](https://dev.to/wasimapinjari/react-why-should-you-use-onsubmit-instead-of-onclick-event-listener-2cd5)
 - [Dev.to/JS] [Virtual Try on glasses with JavaScript](https://dev.to/bensonruan/virtual-try-on-glasses-with-javascript-3mdb)
 - [Dev.to/JS] [Assertions: How to Assert Conditions and Types](https://dev.to/zirkelc/assertions-how-to-assert-conditions-and-types-mep)
-- [Dev.to/JS] [How to implement OAuth2 in web apps in 5 easy steps: A beginners guide](https://dev.to/hackmamba/how-to-implement-oauth2-in-web-apps-in-5-easy-steps-a-beginners-guide-2mgc)
-- [Dev.to/JS] [Typescript FP Dependency Injection Is Easy!](https://dev.to/tareksalem/typescript-fp-dependency-injection-is-easy-18pn)
-- [Dev.to/JS] [Demystifying Dependency Injection in TypeScript: Comprehensive Examples and Benefits](https://dev.to/yanagisawahidetoshi/demystifying-dependency-injection-in-typescript-comprehensive-examples-and-benefits-4cb0)
-- [Dev.to/JS] [When &amp; How to use JavaScript Array.from&lpar;&rpar; method?](https://dev.to/wasimapinjari/when-how-to-use-javascript-arrayfrom-method-2654)
-- [Dev.to/JS] [19 Best Java Build Tools For Developers [2023]](https://dev.to/divyasshreen/19-best-java-build-tools-for-developers-2023-4106)
 - [Lifehacker] [The Best Apps and Gadgets for Getting Better Sleep](https://lifehacker.com/use-these-apps-and-gadgets-to-get-better-sleep-1848076010)
 - [Lifehacker] [This Clever, Portable Record Player Is $90 Right Now](https://lifehacker.com/this-clever-portable-record-player-is-90-right-now-1850672379)
 - [Lifehacker] [What the Fed’s Latest Interest Rate Hike Means for Your Finances](https://lifehacker.com/how-rising-interest-rates-will-affect-your-finances-the-1850155359)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Need to Know About Samsung’s Galaxy Watch 6](https://lifehacker.com/everything-you-need-to-know-about-samsung-s-galaxy-watc-1850680274)
 - [Lifehacker] [All the Places You Can Get a ‘Free’ Netflix Subscription](https://lifehacker.com/all-the-places-you-can-get-a-free-netflix-subscriptio-1850680291)
 - [Lifehacker] [The Best Gear to Keep Your Workspace Clean &lpar;and Sanitary&rpar;](https://lifehacker.com/the-best-gear-to-keep-your-workspace-clean-and-sanitar-1850679601)
-- [Lifehacker] [Buy Your Fast Food Sauces by the Bottle](https://lifehacker.com/buy-your-fast-food-sauces-by-the-bottle-1850675993)
-- [Lifehacker] [All the Ways Your Credit Card Info Can Be Stolen](https://lifehacker.com/all-the-ways-your-credit-card-info-can-be-stolen-1850678829)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Buy Your Fast Food Sauces by the Bottle](https://lifehacker.com/buy-your-fast-food-sauces-by-the-bottle-1850675993)<!-- TECH-POSTS:END -->
 
 ---
 
