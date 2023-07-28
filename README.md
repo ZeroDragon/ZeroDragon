@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build Progressive Web Apps &lpar;PWAs&rpar; with Node.js](https://dev.to/saint_vandora/how-to-build-progressive-web-apps-pwas-with-nodejs-5blm)
+- [Dev.to/JS] [React Hooks: A Comprehensive Guide to Built-in React Hooks](https://dev.to/ryosuke/react-hooks-a-comprehensive-guide-to-built-in-react-hooks-32o)
 - [Dev.to/JS] [How understanding the reconciliation algorithm in React helped me improve my code quality](https://dev.to/alessandrorodrigo/how-understanding-the-reconciliation-algorithm-in-react-helped-me-improve-my-code-quality-4bcd)
 - [Dev.to/JS] [The Unconventional Brilliance of JavaScript in Embedded Systems: A Lighthearted Exploration](https://dev.to/matteac/the-unconventional-brilliance-of-javascript-in-embedded-systems-a-lighthearted-exploration-13c4)
 - [Lifehacker] [The Best Apps and Gadgets for Getting Better Sleep](https://lifehacker.com/use-these-apps-and-gadgets-to-get-better-sleep-1848076010)
@@ -51,11 +53,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This No-Bake Panna Colada Pie If You Hate Your Oven Right Now](https://lifehacker.com/make-this-no-bake-panna-colada-pie-if-you-hate-your-ove-1850683151)
 - [Lifehacker] [The Difference Between Idle Time and Downtime at Work &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-idle-time-and-downtime-at-work-1850682482)
 - [Lifehacker] [All the Different Bars at the Gym, Explained](https://lifehacker.com/all-the-different-bars-at-the-gym-explained-1839810094)
-- [Dev.to/JS] [Streaming de audio mp3 en aplicaciones web y móviles](https://dev.to/tognola/streaming-de-audio-mp3-en-aplicaciones-web-y-moviles-4eof)
 - [Lifehacker] [This Gear Will Protect Your Phone at the Beach](https://lifehacker.com/this-gear-will-protect-your-phone-at-the-beach-1850680623)
 - [Lifehacker] [You Can &lpar;Maybe&rpar; Get the Benefits of Weed Without Weed](https://lifehacker.com/you-can-maybe-get-the-benefits-of-weed-without-weed-1850676489)
 - [Lifehacker] [The Best Waze Settings Everyone Should Be Using](https://lifehacker.com/11-wonderful-waze-settings-everyone-should-be-using-1847545764)
-- [Dev.to/JS] [Switch from live to mock in seconds with Mocker](https://dev.to/skyrampmia/switch-from-live-to-mock-in-seconds-with-mocker-5a3l)
 - [Lifehacker] [That Rental Listing Might Actually Be a Scam](https://lifehacker.com/that-rental-listing-might-actually-be-a-scam-1850675854)
 - [Lifehacker] [What People Are Getting Wrong This Week: Clothing Sizes](https://lifehacker.com/you-don-t-know-what-size-clothing-you-wear-1850680821)
 - [Lifehacker] [Your Immersion Circulator Makes an Excellent Wine Chiller](https://lifehacker.com/your-immersion-circulator-is-also-an-excellent-wine-chi-1793393265)
