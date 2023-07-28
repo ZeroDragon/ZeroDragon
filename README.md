@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 14: This is lost](https://dev.to/dhrn/day-14-situation-this-is-lost-4k3g)
+- [Lifehacker] [Use Flashfood to Buy Discounted Groceries Before They Expire](https://lifehacker.com/use-flashfood-to-buy-discounted-groceries-before-they-e-1850687424)
+- [Lifehacker] [Four Minute Books Is $40 Right Now](https://lifehacker.com/four-minute-books-is-40-right-now-1850675624)
+- [Lifehacker] [Do These Things to Make Your Yard Fire-Resistant](https://lifehacker.com/do-these-things-to-make-your-yard-fire-resistant-1850685319)
 - [Lifehacker] [This Kind of Tick Bite Can Cause a Meat Allergy](https://lifehacker.com/what-to-know-about-the-tick-that-can-make-you-allergic-1848982558)
 - [Dev.to/JS] [Working with JSON Libraries and Tools for Sports - Liverpool Premier League&lpar;example&rpar;](https://dev.to/jacknorman235/working-with-json-libraries-and-tools-for-sports-liverpool-premier-leagueexample-3ali)
 - [Dev.to/JS] [JSON Schema for Sports - Liverpool Premier League&lpar;example&rpar;](https://dev.to/jacknorman235/json-schema-for-sports-liverpool-premier-leagueexample-25d6)
@@ -35,10 +39,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Parking Brakes on These Recalled Ford F-150s Might Engage Unexpectedly](https://lifehacker.com/the-parking-brakes-on-these-recalled-ford-f-150s-might-1850686708)
 - [Dev.to/JS] [Stop using Swagger-UI and MSW, but SDK instead](https://dev.to/samchon/stop-using-swagger-ui-and-msw-but-sdk-instead-412b)
 - [Lifehacker] [Make a Chilling Tray With Two Aluminum Pans](https://lifehacker.com/make-a-chilling-tray-with-two-aluminum-pans-1850684265)
+- [Lifehacker] [Your Small Apartment Can Still Fit a Chest Freezer](https://lifehacker.com/your-apartment-needs-a-chest-freezer-1826933762)
 - [Lifehacker] [You Can Finally Link Notes to Each Other in iOS 17](https://lifehacker.com/you-can-finally-link-notes-to-each-other-in-ios-17-1850685424)
 - [Lifehacker] [The Best Way to Bulk Export Your Apple Notes](https://lifehacker.com/the-best-way-to-bulk-export-your-apple-notes-1850685680)
 - [Dev.to/JS] [Custom Gutenberg block: client side vs server side](https://dev.to/maiobarbero/flickering-screen-with-dark-mode-in-astro-4g8o)
 - [Dev.to/JS] [Handling Events in React: Unraveling the Magic Behind Interactivity](https://dev.to/msubhro_mukherjee/handling-events-in-react-unraveling-the-magic-behind-interactivity-2b6e)
+- [Lifehacker] [The Most Effective Way to Deep-Clean Your Fridge](https://lifehacker.com/de-stink-your-fridge-for-good-with-this-deep-cleaning-r-1786969699)
 - [Dev.to/JS] [Conquering Impostor Syndrome in Tech: The Power of Open Source](https://dev.to/chinwenma/conquering-impostor-syndrome-in-tech-the-power-of-open-source-1ac7)
 - [Lifehacker] [My Favorite Websites to Find the Best Travel Deals](https://lifehacker.com/my-favorite-websites-to-find-the-best-travel-deals-1850684316)
 - [Dev.to/JS] [Liv Pure - Reviews, Benefits, Results, Complaints &amp; Warnings?](https://dev.to/pure_liv72975/liv-pure-reviews-benefits-results-complaints-warnings-45np)
@@ -48,7 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My Favorite Gadgets and Tools for a Smoother Commute](https://lifehacker.com/my-favorite-gadgets-and-tools-for-a-smoother-commute-1850683554)
 - [Dev.to/JS] [Enter, it screams... I mean, it streams](https://dev.to/westbrook/enter-it-screams-i-mean-it-streams-2p5p)
 - [Lifehacker] [How to Introduce Role Playing Into Your Sex Life](https://lifehacker.com/how-to-introduce-role-playing-into-your-sex-life-1850684587)
-- [Dev.to/JS] [What If - Remade in Next.js](https://dev.to/vulcanwm/what-if-remade-in-nextjs-1p2b)
 - [Lifehacker] [20 Peacock Originals That Are Definitely Worth Watching](https://lifehacker.com/12-peacock-originals-that-are-definitely-worth-watching-1847731247)
 - [Lifehacker] [You Can Finally Download Apple Maps Offline in iOS 17](https://lifehacker.com/you-can-finally-download-apple-maps-offline-in-ios-17-1850685430)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Are You ‘Kenough’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-you-1850684769)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What the Fed’s Latest Interest Rate Hike Means for Your Finances](https://lifehacker.com/how-rising-interest-rates-will-affect-your-finances-the-1850155359)
 - [Lifehacker] [Where to Watch &#39;Twisted Metal&#39; &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-twisted-metal-and-what-you-should-know-1850678772)
 - [Lifehacker] [This AI Content Creation Tool Is $100 Right Now](https://lifehacker.com/this-ai-content-creation-tool-is-100-right-now-1850672412)
-- [Lifehacker] [The Best Way to Make Flatter, Crispier Bacon for Sandwiches and Burgers](https://lifehacker.com/the-best-way-to-make-flat-crispy-bacon-for-sandwiches-1788504821)
-- [Lifehacker] [The Sous-Vide Circulator Is a Forgetful Cook&#39;s Best Friend](https://lifehacker.com/the-sous-vide-circulator-is-a-forgetful-cooks-best-frie-1850683214)
-- [Lifehacker] [Why You Should Choose Credit Over Cash When Traveling Abroad](https://lifehacker.com/why-you-should-choose-credit-over-cash-when-traveling-a-1850682925)
-- [Lifehacker] [Rent a Private Pool for the Day With This &#39;Airbnb for Pools&#39; App](https://lifehacker.com/rent-a-private-pool-for-the-day-with-this-airbnb-for-po-1828602385)
-- [Lifehacker] [You Should Add Isometric Exercises to Your Routine](https://lifehacker.com/you-should-add-isometric-exercises-to-your-routine-1850683443)
-- [Lifehacker] [That Customer Service Number on Google Might Be a Scam](https://lifehacker.com/that-customer-service-number-on-google-might-be-a-scam-1850680896)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Make Flatter, Crispier Bacon for Sandwiches and Burgers](https://lifehacker.com/the-best-way-to-make-flat-crispy-bacon-for-sandwiches-1788504821)<!-- TECH-POSTS:END -->
 
 ---
 
