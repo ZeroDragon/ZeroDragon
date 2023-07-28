@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ReactJS Coding and TechTalking, come join :D](https://dev.to/arthursmuller/reactjs-coding-and-techtalking-come-join-d-2ck9)
+- [Dev.to/JS] [Turing Machine Simulator](https://dev.to/waynechoidev/turing-machine-simulator-5in)
+- [Dev.to/JS] [Embracing Modern JavaScript Features in ES13 ES2022](https://dev.to/leandro_nnz/embracing-modern-javascript-features-in-es13-es2022-3dde)
+- [Lifehacker] [How to Survive the Summer When Summer Makes You Miserable](https://lifehacker.com/how-to-survive-the-summer-when-summer-makes-you-miserab-1796164224)
+- [Lifehacker] [This HD Portable Laptop Monitor Is 40% Off](https://lifehacker.com/this-hd-portable-laptop-monitor-is-40-off-1850675799)
 - [Dev.to/JS] [Understanding JavaScript Promises: Embracing Asynchronous Elegance](https://dev.to/leandro_nnz/understanding-javascript-promises-embracing-asynchronous-elegance-25h3)
 - [Lifehacker] [Where Have All the Barbie Video Games Gone?](https://lifehacker.com/where-have-all-the-barbie-video-games-gone-1850688080)
 - [Lifehacker] [The Most Clever Google Maps Settings Everyone Should Be Using](https://lifehacker.com/the-most-clever-google-maps-settings-everyone-should-be-1850682153)
@@ -52,10 +57,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Effective Way to Deep-Clean Your Fridge](https://lifehacker.com/de-stink-your-fridge-for-good-with-this-deep-cleaning-r-1786969699)
 - [Dev.to/JS] [Conquering Impostor Syndrome in Tech: The Power of Open Source](https://dev.to/chinwenma/conquering-impostor-syndrome-in-tech-the-power-of-open-source-1ac7)
 - [Lifehacker] [My Favorite Websites to Find the Best Travel Deals](https://lifehacker.com/my-favorite-websites-to-find-the-best-travel-deals-1850684316)
-- [Dev.to/JS] [Liv Pure - Reviews, Benefits, Results, Complaints &amp; Warnings?](https://dev.to/pure_liv72975/liv-pure-reviews-benefits-results-complaints-warnings-45np)
-- [Dev.to/JS] [9 Tips for Writing Clean, Fast, And Maintainable React Code](https://dev.to/blackhorse0101/9-tips-for-writing-clean-fast-and-maintainable-react-code-59ng)
 - [Lifehacker] [You Can Get Microsoft Office and Windows 11 Pro for $50 Right Now](https://lifehacker.com/you-can-get-microsoft-office-and-windows-11-pro-for-50-1850675710)
-- [Dev.to/JS] [Building Resilient Systems with Idempotent APIs](https://dev.to/karishmashukla/building-resilient-systems-with-idempotent-apis-5e5p)
 - [Lifehacker] [My Favorite Gadgets and Tools for a Smoother Commute](https://lifehacker.com/my-favorite-gadgets-and-tools-for-a-smoother-commute-1850683554)
 - [Lifehacker] [How to Introduce Role Playing Into Your Sex Life](https://lifehacker.com/how-to-introduce-role-playing-into-your-sex-life-1850684587)
 - [Lifehacker] [20 Peacock Originals That Are Definitely Worth Watching](https://lifehacker.com/12-peacock-originals-that-are-definitely-worth-watching-1847731247)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Are You ‘Kenough’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-you-1850684769)
 - [Lifehacker] [Swap Tomatoes for Peaches, and Make a BLP](https://lifehacker.com/swap-tomatoes-for-peaches-and-make-a-blp-1850684519)
 - [Lifehacker] [My Two Favorite Tools for Calculating the Cost of a Road Trip](https://lifehacker.com/my-two-favorite-tools-for-calculating-the-cost-of-a-roa-1850683670)
-- [Lifehacker] [All the Ways to Use the Free Crap You Can Snag at the Hardware Store](https://lifehacker.com/all-the-ways-to-use-the-free-crap-you-can-snag-at-the-h-1850682859)
-- [Lifehacker] [The Best Apps and Gadgets for Getting Better Sleep](https://lifehacker.com/use-these-apps-and-gadgets-to-get-better-sleep-1848076010)
-- [Lifehacker] [This Clever, Portable Record Player Is $90 Right Now](https://lifehacker.com/this-clever-portable-record-player-is-90-right-now-1850672379)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Ways to Use the Free Crap You Can Snag at the Hardware Store](https://lifehacker.com/all-the-ways-to-use-the-free-crap-you-can-snag-at-the-h-1850682859)<!-- TECH-POSTS:END -->
 
 ---
 
