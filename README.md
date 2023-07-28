@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Virtual Try on glasses with JavaScript](https://dev.to/bensonruan/virtual-try-on-glasses-with-javascript-3mdb)
 - [Dev.to/JS] [Assertions: How to Assert Conditions and Types](https://dev.to/zirkelc/assertions-how-to-assert-conditions-and-types-mep)
 - [Dev.to/JS] [How to implement OAuth2 in web apps in 5 easy steps: A beginners guide](https://dev.to/hackmamba/how-to-implement-oauth2-in-web-apps-in-5-easy-steps-a-beginners-guide-2mgc)
 - [Dev.to/JS] [Typescript FP Dependency Injection Is Easy!](https://dev.to/tareksalem/typescript-fp-dependency-injection-is-easy-18pn)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Leveraging Service Workers for Advanced Caching Strategies in PWA: A Deep Dive for Beginners](https://dev.to/yanagisawahidetoshi/leveraging-service-workers-for-advanced-caching-strategies-in-pwa-a-deep-dive-for-beginners-5gal)
 - [Dev.to/JS] [Easy Peasy! Managing CacheStorage in JavaScript for PWA: A Guide for Beginners](https://dev.to/yanagisawahidetoshi/easy-peasy-managing-cachestorage-in-javascript-for-pwa-a-guide-for-beginners-36g)
 - [Dev.to/JS] [Mastering CacheStorage in JavaScript for Beginners: A PWA Guide](https://dev.to/yanagisawahidetoshi/mastering-cachestorage-in-javascript-for-beginners-a-pwa-guide-3d78)
-- [Dev.to/JS] [The DOM: A Simplified Explanation](https://dev.to/tess25merrill/the-dom-a-simplified-explanation-2p1)
 - [Lifehacker] [The Best Apps and Gadgets for Getting Better Sleep](https://lifehacker.com/use-these-apps-and-gadgets-to-get-better-sleep-1848076010)
 - [Lifehacker] [This Clever, Portable Record Player Is $90 Right Now](https://lifehacker.com/this-clever-portable-record-player-is-90-right-now-1850672379)
 - [Lifehacker] [What the Fed’s Latest Interest Rate Hike Means for Your Finances](https://lifehacker.com/how-rising-interest-rates-will-affect-your-finances-the-1850155359)
