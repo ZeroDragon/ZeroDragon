@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Assertions: How to Assert Conditions and Types](https://dev.to/zirkelc/assertions-how-to-assert-conditions-and-types-mep)
+- [Dev.to/JS] [How to implement OAuth2 in web apps in 5 easy steps: A beginners guide](https://dev.to/hackmamba/how-to-implement-oauth2-in-web-apps-in-5-easy-steps-a-beginners-guide-2mgc)
+- [Dev.to/JS] [Typescript FP Dependency Injection Is Easy!](https://dev.to/tareksalem/typescript-fp-dependency-injection-is-easy-18pn)
+- [Dev.to/JS] [Demystifying Dependency Injection in TypeScript: Comprehensive Examples and Benefits](https://dev.to/yanagisawahidetoshi/demystifying-dependency-injection-in-typescript-comprehensive-examples-and-benefits-4cb0)
+- [Dev.to/JS] [When &amp; How to use JavaScript Array.from&lpar;&rpar; method?](https://dev.to/wasimapinjari/when-how-to-use-javascript-arrayfrom-method-2654)
 - [Dev.to/JS] [19 Best Java Build Tools For Developers [2023]](https://dev.to/divyasshreen/19-best-java-build-tools-for-developers-2023-4106)
 - [Dev.to/JS] [How to get a User&#39;s Timezone into Rails](https://dev.to/rob__race/how-to-get-a-users-timezone-into-rails-1jod)
 - [Dev.to/JS] [Must-read for TypeScript Beginners! Deepen your Understanding of Generics](https://dev.to/yanagisawahidetoshi/must-read-for-typescript-beginners-deepen-your-understanding-of-generics-1enj)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Easy Peasy! Managing CacheStorage in JavaScript for PWA: A Guide for Beginners](https://dev.to/yanagisawahidetoshi/easy-peasy-managing-cachestorage-in-javascript-for-pwa-a-guide-for-beginners-36g)
 - [Dev.to/JS] [Mastering CacheStorage in JavaScript for Beginners: A PWA Guide](https://dev.to/yanagisawahidetoshi/mastering-cachestorage-in-javascript-for-beginners-a-pwa-guide-3d78)
 - [Dev.to/JS] [The DOM: A Simplified Explanation](https://dev.to/tess25merrill/the-dom-a-simplified-explanation-2p1)
-- [Dev.to/JS] [A Guide to Cache Storage in JavaScript: Boosting Performance with Caching](https://dev.to/malikbilal111/a-guide-to-cache-storage-in-javascript-boosting-performance-with-caching-411j)
-- [Dev.to/JS] [Understanding useState Hook in React JS: A Beginner&#39;s Guide](https://dev.to/muhammadazhariqbal/understanding-usestate-hook-in-react-js-a-beginners-guide-4gf8)
-- [Dev.to/JS] [Top 10 IT Companies In India](https://dev.to/nidhigupta_676/top-10-it-companies-in-india-4p6f)
-- [Dev.to/JS] [What is SEO ?](https://dev.to/nidhigupta_676/what-is-seo--128n)
-- [Dev.to/JS] [Functioning or Functions](https://dev.to/sandraos/functioning-or-functions-5co8)
 - [Lifehacker] [The Best Apps and Gadgets for Getting Better Sleep](https://lifehacker.com/use-these-apps-and-gadgets-to-get-better-sleep-1848076010)
 - [Lifehacker] [This Clever, Portable Record Player Is $90 Right Now](https://lifehacker.com/this-clever-portable-record-player-is-90-right-now-1850672379)
 - [Lifehacker] [What the Fed’s Latest Interest Rate Hike Means for Your Finances](https://lifehacker.com/how-rising-interest-rates-will-affect-your-finances-the-1850155359)
