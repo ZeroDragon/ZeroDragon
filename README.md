@@ -26,21 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use empty-react-app cra-template to create new project](https://dev.to/thesologlobesightseer/use-empty-react-app-cra-template-to-create-new-project-19a4)
+- [Dev.to/JS] [Building smth cool this weekend? Built👩‍💻 🔜 Launch 🚀](https://dev.to/shnai0/building-smth-cool-this-weekend-built-launch-1297)
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Are You ‘Kenough’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-you-1850684769)
+- [Dev.to/JS] [Build a responsive website with reactjs and tailwindcss — Part 2](https://dev.to/kwakyebrilliant/build-a-responsive-website-with-reactjs-and-tailwindcss-part-2-4g68)
+- [Dev.to/JS] [🚀 Create a Basic Web Server using Express.js](https://dev.to/preetsuthar17/create-a-basic-web-server-using-expressjs-428d)
+- [Dev.to/JS] [🌗🌙 Implementing a Dark Mode Toggle: Level Up Your Website with CSS and JavaScript](https://dev.to/preetsuthar17/implementing-a-dark-mode-toggle-level-up-your-website-with-css-and-javascript-2bpb)
+- [Dev.to/JS] [Mastering Programming Interviews: A Gateway to Software Development Success](https://dev.to/idurar/mastering-programming-interviews-a-gateway-to-software-development-success-4mkd)
 - [Lifehacker] [Swap Tomatoes for Peaches, and Make a BLP](https://lifehacker.com/swap-tomatoes-for-peaches-and-make-a-blp-1850684519)
+- [Dev.to/JS] [Is Jamstack Officially Finished?](https://dev.to/remotesynth/is-jamstack-officially-finished-50kb)
 - [Dev.to/JS] [🔗🖼️ Exploring Next/Link and Next/Image for Enhanced Web Development](https://dev.to/preetsuthar17/exploring-nextlink-and-nextimage-for-enhanced-web-development-1o2g)
 - [Dev.to/JS] [🚀🌟 Next.js 13: Discovering Exciting New Features and Getting Started with the Latest Version](https://dev.to/preetsuthar17/nextjs-13-discovering-exciting-new-features-and-getting-started-with-the-latest-version-o2g)
 - [Dev.to/JS] [Primitive Data Types in JSON](https://dev.to/jacknorman235/primitive-data-types-in-json-2f6k)
 - [Dev.to/JS] [🚀💡 Quick &amp; Easy Guide to Get Started with Gatsby](https://dev.to/preetsuthar17/quick-easy-guide-to-get-started-with-gatsby-4l6f)
 - [Dev.to/JS] [Understanding JSON Syntax and Data Structure](https://dev.to/jacknorman235/understanding-json-syntax-and-data-structure-6ci)
 - [Lifehacker] [My Two Favorite Tools for Calculating the Cost of a Road Trip](https://lifehacker.com/my-two-favorite-tools-for-calculating-the-cost-of-a-roa-1850683670)
-- [Dev.to/JS] [🌟🔥 Unleashing the Power of Supabase: A Node.js Integration Journey](https://dev.to/preetsuthar17/unleashing-the-power-of-supabase-a-nodejs-integration-journey-2mn9)
-- [Dev.to/JS] [🌞🌚 Theme Toggler using JavaScript, HTML, CSS](https://dev.to/preetsuthar17/theme-toggler-using-javascript-html-css-1d60)
-- [Dev.to/JS] [🌀 Adding a Mesmerizing Tilt Effect to Your Website with Tilt.js](https://dev.to/preetsuthar17/adding-a-mesmerizing-tilt-effect-to-your-website-with-tiltjs-58bb)
 - [Lifehacker] [All the Ways to Use the Free Crap You Can Snag at the Hardware Store](https://lifehacker.com/all-the-ways-to-use-the-free-crap-you-can-snag-at-the-h-1850682859)
-- [Dev.to/JS] [Run Concurrent Tasks With a Limit Using Pure JavaScript](https://dev.to/artydev/run-concurrent-tasks-with-a-limit-using-pure-javascript-17do)
-- [Dev.to/JS] [finally&lpar;&rpar; method in JavaScript](https://dev.to/diwakarkashyap/finally-method-in-javascript-1dfl)
-- [Dev.to/JS] [Next js Templates](https://dev.to/easetemplates/next-js-templates-33n9)
-- [Dev.to/JS] [why figma units look bigger in react app ?](https://dev.to/starman1999/why-figma-units-look-bigger-in-react-app--215d)
 - [Lifehacker] [The Best Apps and Gadgets for Getting Better Sleep](https://lifehacker.com/use-these-apps-and-gadgets-to-get-better-sleep-1848076010)
 - [Lifehacker] [This Clever, Portable Record Player Is $90 Right Now](https://lifehacker.com/this-clever-portable-record-player-is-90-right-now-1850672379)
 - [Lifehacker] [What the Fed’s Latest Interest Rate Hike Means for Your Finances](https://lifehacker.com/how-rising-interest-rates-will-affect-your-finances-the-1850155359)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Immersion Circulator Makes an Excellent Wine Chiller](https://lifehacker.com/your-immersion-circulator-is-also-an-excellent-wine-chi-1793393265)
 - [Lifehacker] [Why the New Arc Browser Is Better Than Chrome](https://lifehacker.com/why-the-new-arc-browser-is-better-than-chrome-1850681545)
 - [Lifehacker] [Four Questions to Ask Yourself Before Changing Careers](https://lifehacker.com/four-questions-to-ask-yourself-before-changing-careers-1850679687)
-- [Lifehacker] [Everything You Need to Know About Samsung’s Galaxy Watch 6](https://lifehacker.com/everything-you-need-to-know-about-samsung-s-galaxy-watc-1850680274)
-- [Lifehacker] [All the Places You Can Get a ‘Free’ Netflix Subscription](https://lifehacker.com/all-the-places-you-can-get-a-free-netflix-subscriptio-1850680291)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Everything You Need to Know About Samsung’s Galaxy Watch 6](https://lifehacker.com/everything-you-need-to-know-about-samsung-s-galaxy-watc-1850680274)<!-- TECH-POSTS:END -->
 
 ---
 
