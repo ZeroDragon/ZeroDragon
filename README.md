@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Finally Link Notes to Each Other in iOS 17](https://lifehacker.com/you-can-finally-link-notes-to-each-other-in-ios-17-1850685424)
+- [Lifehacker] [The Best Way to Bulk Export Your Apple Notes](https://lifehacker.com/the-best-way-to-bulk-export-your-apple-notes-1850685680)
+- [Dev.to/JS] [Custom Gutenberg block: client side vs server side](https://dev.to/maiobarbero/flickering-screen-with-dark-mode-in-astro-4g8o)
+- [Dev.to/JS] [Handling Events in React: Unraveling the Magic Behind Interactivity](https://dev.to/msubhro_mukherjee/handling-events-in-react-unraveling-the-magic-behind-interactivity-2b6e)
+- [Dev.to/JS] [Conquering Impostor Syndrome in Tech: The Power of Open Source](https://dev.to/chinwenma/conquering-impostor-syndrome-in-tech-the-power-of-open-source-1ac7)
 - [Lifehacker] [My Favorite Websites to Find the Best Travel Deals](https://lifehacker.com/my-favorite-websites-to-find-the-best-travel-deals-1850684316)
 - [Dev.to/JS] [Liv Pure - Reviews, Benefits, Results, Complaints &amp; Warnings?](https://dev.to/pure_liv72975/liv-pure-reviews-benefits-results-complaints-warnings-45np)
 - [Dev.to/JS] [9 Tips for Writing Clean, Fast, And Maintainable React Code](https://dev.to/blackhorse0101/9-tips-for-writing-clean-fast-and-maintainable-react-code-59ng)
@@ -42,9 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building smth cool this weekend? Built👩‍💻 🔜 Launch 🚀](https://dev.to/shnai0/building-smth-cool-this-weekend-built-launch-1297)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Are You ‘Kenough’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-you-1850684769)
 - [Dev.to/JS] [Build a responsive website with reactjs and tailwindcss — Part 2](https://dev.to/kwakyebrilliant/build-a-responsive-website-with-reactjs-and-tailwindcss-part-2-4g68)
-- [Dev.to/JS] [🚀 Create a Basic Web Server using Express.js](https://dev.to/preetsuthar17/create-a-basic-web-server-using-expressjs-428d)
-- [Dev.to/JS] [🌗🌙 Implementing a Dark Mode Toggle: Level Up Your Website with CSS and JavaScript](https://dev.to/preetsuthar17/implementing-a-dark-mode-toggle-level-up-your-website-with-css-and-javascript-2bpb)
-- [Dev.to/JS] [Mastering Programming Interviews: A Gateway to Software Development Success](https://dev.to/idurar/mastering-programming-interviews-a-gateway-to-software-development-success-4mkd)
 - [Lifehacker] [Swap Tomatoes for Peaches, and Make a BLP](https://lifehacker.com/swap-tomatoes-for-peaches-and-make-a-blp-1850684519)
 - [Lifehacker] [My Two Favorite Tools for Calculating the Cost of a Road Trip](https://lifehacker.com/my-two-favorite-tools-for-calculating-the-cost-of-a-roa-1850683670)
 - [Lifehacker] [All the Ways to Use the Free Crap You Can Snag at the Hardware Store](https://lifehacker.com/all-the-ways-to-use-the-free-crap-you-can-snag-at-the-h-1850682859)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This No-Bake Panna Colada Pie If You Hate Your Oven Right Now](https://lifehacker.com/make-this-no-bake-panna-colada-pie-if-you-hate-your-ove-1850683151)
 - [Lifehacker] [The Difference Between Idle Time and Downtime at Work &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-idle-time-and-downtime-at-work-1850682482)
 - [Lifehacker] [All the Different Bars at the Gym, Explained](https://lifehacker.com/all-the-different-bars-at-the-gym-explained-1839810094)
-- [Lifehacker] [This Gear Will Protect Your Phone at the Beach](https://lifehacker.com/this-gear-will-protect-your-phone-at-the-beach-1850680623)
-- [Lifehacker] [You Can &lpar;Maybe&rpar; Get the Benefits of Weed Without Weed](https://lifehacker.com/you-can-maybe-get-the-benefits-of-weed-without-weed-1850676489)
-- [Lifehacker] [The Best Waze Settings Everyone Should Be Using](https://lifehacker.com/11-wonderful-waze-settings-everyone-should-be-using-1847545764)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Gear Will Protect Your Phone at the Beach](https://lifehacker.com/this-gear-will-protect-your-phone-at-the-beach-1850680623)<!-- TECH-POSTS:END -->
 
 ---
 
