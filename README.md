@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Movie Explorer with Google Cloud: Protecting API Keys and Enhancing Security](https://dev.to/bahamustafa/building-a-movie-explorer-with-google-cloud-protecting-api-keys-and-enhancing-security-17hc)
+- [Dev.to/JS] [JavaScript One-liner to Convert snake_case to camelCase](https://dev.to/jlogix/javascript-one-liner-to-convert-snakecase-to-camelcase-227)
+- [Dev.to/JS] [PinoyFlix | Pinoy Teleserye | Pinoy TV Shows | Pinoy Tambayan | Pinoy Channel](https://dev.to/piinoyflix/pinoyflix-pinoy-teleserye-pinoy-tv-shows-pinoy-tambayan-pinoy-channel-4249)
+- [Dev.to/JS] [JS Array functions!](https://dev.to/enz0rd/js-array-functions-437n)
 - [Dev.to/JS] [I Made a Site Leveraging AI: How Accessible Was It?](https://dev.to/steady5063/i-made-a-site-leveraging-ai-how-accessible-was-it-4dam)
 - [Dev.to/JS] [If Statements: The Quick Guide For Beginners](https://dev.to/deborah/if-statements-the-quick-guide-for-beginners-35bc)
 - [Dev.to/JS] [JavaScript Arrays Methods In Detail Part 4](https://dev.to/abidullah786/javascript-arrays-methods-in-detail-part-4-7d7)
@@ -37,14 +41,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Living Without CDP: A Tale of Automation](https://dev.to/latenode/living-without-cdp-a-tale-of-automation-338p)
 - [Lifehacker] [This Clever, Portable Record Player Is $90 Right Now](https://lifehacker.com/this-clever-portable-record-player-is-90-right-now-1850672379)
 - [Lifehacker] [What the Fed’s Latest Interest Rate Hike Means for Your Finances](https://lifehacker.com/how-rising-interest-rates-will-affect-your-finances-the-1850155359)
-- [Dev.to/JS] [Understanding Liskov Substitution Principle &lpar;LSP&rpar; in TypeScript and React](https://dev.to/ajkhatibi/understanding-liskov-substitution-principle-lsp-in-typescript-and-react-25c1)
-- [Dev.to/JS] [TypeScript: Not Always the Answer](https://dev.to/b1m0110/typescript-not-always-the-answer-2e98)
 - [Lifehacker] [Where to Watch &#39;Twisted Metal&#39; &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-twisted-metal-and-what-you-should-know-1850678772)
 - [Lifehacker] [This AI Content Creation Tool Is $100 Right Now](https://lifehacker.com/this-ai-content-creation-tool-is-100-right-now-1850672412)
 - [Lifehacker] [The Best Way to Make Flatter, Crispier Bacon for Sandwiches and Burgers](https://lifehacker.com/the-best-way-to-make-flat-crispy-bacon-for-sandwiches-1788504821)
-- [Dev.to/JS] [How to make a javascript function that updates numbers without clearing the numbers styles when resetting the numbers to 0?](https://dev.to/sofianeabouabderrahim/how-to-make-a-javascript-function-that-updates-numbers-without-clearing-the-numbers-styles-when-resetting-the-numbers-to-0-5g6e)
 - [Lifehacker] [The Sous-Vide Circulator Is a Forgetful Cook&#39;s Best Friend](https://lifehacker.com/the-sous-vide-circulator-is-a-forgetful-cooks-best-frie-1850683214)
-- [Dev.to/JS] [React Authentication: Best Practices For Handling Token Securely using HOC.](https://dev.to/amangupta37/react-authentication-best-practices-for-handling-token-securely-using-hoc-2ll0)
 - [Lifehacker] [Why You Should Choose Credit Over Cash When Traveling Abroad](https://lifehacker.com/why-you-should-choose-credit-over-cash-when-traveling-a-1850682925)
 - [Lifehacker] [Rent a Private Pool for the Day With This &#39;Airbnb for Pools&#39; App](https://lifehacker.com/rent-a-private-pool-for-the-day-with-this-airbnb-for-po-1828602385)
 - [Lifehacker] [You Should Add Isometric Exercises to Your Routine](https://lifehacker.com/you-should-add-isometric-exercises-to-your-routine-1850683443)
