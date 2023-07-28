@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Turn a Single Peach Into an Air Fried Cobbler for One](https://lifehacker.com/turn-a-single-peach-into-an-air-fried-cobbler-for-one-1850687959)
+- [Lifehacker] [Why Kids Stop Reading for Fun by Age 9 &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-kids-stop-reading-for-fun-by-age-9-and-what-to-do-1833554143)
 - [Dev.to/JS] [Day 14: This is lost](https://dev.to/dhrn/day-14-situation-this-is-lost-4k3g)
 - [Lifehacker] [Use Flashfood to Buy Discounted Groceries Before They Expire](https://lifehacker.com/use-flashfood-to-buy-discounted-groceries-before-they-e-1850687424)
 - [Lifehacker] [Four Minute Books Is $40 Right Now](https://lifehacker.com/four-minute-books-is-40-right-now-1850675624)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Apps and Gadgets for Getting Better Sleep](https://lifehacker.com/use-these-apps-and-gadgets-to-get-better-sleep-1848076010)
 - [Lifehacker] [This Clever, Portable Record Player Is $90 Right Now](https://lifehacker.com/this-clever-portable-record-player-is-90-right-now-1850672379)
 - [Lifehacker] [What the Fed’s Latest Interest Rate Hike Means for Your Finances](https://lifehacker.com/how-rising-interest-rates-will-affect-your-finances-the-1850155359)
-- [Lifehacker] [Where to Watch &#39;Twisted Metal&#39; &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-twisted-metal-and-what-you-should-know-1850678772)
-- [Lifehacker] [This AI Content Creation Tool Is $100 Right Now](https://lifehacker.com/this-ai-content-creation-tool-is-100-right-now-1850672412)
-- [Lifehacker] [The Best Way to Make Flatter, Crispier Bacon for Sandwiches and Burgers](https://lifehacker.com/the-best-way-to-make-flat-crispy-bacon-for-sandwiches-1788504821)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Watch &#39;Twisted Metal&#39; &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-twisted-metal-and-what-you-should-know-1850678772)<!-- TECH-POSTS:END -->
 
 ---
 
