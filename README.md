@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I Made a Site Leveraging AI: How Accessible Was It?](https://dev.to/steady5063/i-made-a-site-leveraging-ai-how-accessible-was-it-4dam)
 - [Dev.to/JS] [If Statements: The Quick Guide For Beginners](https://dev.to/deborah/if-statements-the-quick-guide-for-beginners-35bc)
 - [Dev.to/JS] [JavaScript Arrays Methods In Detail Part 4](https://dev.to/abidullah786/javascript-arrays-methods-in-detail-part-4-7d7)
 - [Dev.to/JS] [How to Build Progressive Web Apps &lpar;PWAs&rpar; with Node.js](https://dev.to/saint_vandora/how-to-build-progressive-web-apps-pwas-with-nodejs-5blm)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to make a javascript function that updates numbers without clearing the numbers styles when resetting the numbers to 0?](https://dev.to/sofianeabouabderrahim/how-to-make-a-javascript-function-that-updates-numbers-without-clearing-the-numbers-styles-when-resetting-the-numbers-to-0-5g6e)
 - [Lifehacker] [The Sous-Vide Circulator Is a Forgetful Cook&#39;s Best Friend](https://lifehacker.com/the-sous-vide-circulator-is-a-forgetful-cooks-best-frie-1850683214)
 - [Dev.to/JS] [React Authentication: Best Practices For Handling Token Securely using HOC.](https://dev.to/amangupta37/react-authentication-best-practices-for-handling-token-securely-using-hoc-2ll0)
-- [Dev.to/JS] [📳 Header con busqueda Responsivo](https://dev.to/gjosueo/header-con-busqueda-responsivo-22lo)
 - [Lifehacker] [Why You Should Choose Credit Over Cash When Traveling Abroad](https://lifehacker.com/why-you-should-choose-credit-over-cash-when-traveling-a-1850682925)
 - [Lifehacker] [Rent a Private Pool for the Day With This &#39;Airbnb for Pools&#39; App](https://lifehacker.com/rent-a-private-pool-for-the-day-with-this-airbnb-for-po-1828602385)
 - [Lifehacker] [You Should Add Isometric Exercises to Your Routine](https://lifehacker.com/you-should-add-isometric-exercises-to-your-routine-1850683443)
