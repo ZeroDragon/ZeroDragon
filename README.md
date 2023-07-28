@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Kind of Tick Bite Can Cause a Meat Allergy](https://lifehacker.com/what-to-know-about-the-tick-that-can-make-you-allergic-1848982558)
+- [Dev.to/JS] [Working with JSON Libraries and Tools for Sports - Liverpool Premier League&lpar;example&rpar;](https://dev.to/jacknorman235/working-with-json-libraries-and-tools-for-sports-liverpool-premier-leagueexample-3ali)
+- [Dev.to/JS] [JSON Schema for Sports - Liverpool Premier League&lpar;example&rpar;](https://dev.to/jacknorman235/json-schema-for-sports-liverpool-premier-leagueexample-25d6)
+- [Lifehacker] [Your Athletic Peak Is Longer Than You Think](https://lifehacker.com/your-athletic-peak-is-longer-than-you-think-1850686971)
+- [Dev.to/JS] [SyntaxError: Unexpected end of JSON input](https://dev.to/jizhang80/syntaxerror-unexpected-end-of-json-input-4f3p)
+- [Lifehacker] [Do Bay Leaves Even Do Anything?](https://lifehacker.com/do-bay-leaves-even-do-anything-1793275685)
+- [Lifehacker] [The Parking Brakes on These Recalled Ford F-150s Might Engage Unexpectedly](https://lifehacker.com/the-parking-brakes-on-these-recalled-ford-f-150s-might-1850686708)
 - [Dev.to/JS] [Stop using Swagger-UI and MSW, but SDK instead](https://dev.to/samchon/stop-using-swagger-ui-and-msw-but-sdk-instead-412b)
 - [Lifehacker] [Make a Chilling Tray With Two Aluminum Pans](https://lifehacker.com/make-a-chilling-tray-with-two-aluminum-pans-1850684265)
 - [Lifehacker] [You Can Finally Link Notes to Each Other in iOS 17](https://lifehacker.com/you-can-finally-link-notes-to-each-other-in-ios-17-1850685424)
@@ -43,10 +50,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Introduce Role Playing Into Your Sex Life](https://lifehacker.com/how-to-introduce-role-playing-into-your-sex-life-1850684587)
 - [Dev.to/JS] [What If - Remade in Next.js](https://dev.to/vulcanwm/what-if-remade-in-nextjs-1p2b)
 - [Lifehacker] [20 Peacock Originals That Are Definitely Worth Watching](https://lifehacker.com/12-peacock-originals-that-are-definitely-worth-watching-1847731247)
-- [Dev.to/JS] [Creating a Seamless Warehouse Transfer Method](https://dev.to/darkterminal/creating-a-seamless-warehouse-transfer-method-4n92)
 - [Lifehacker] [You Can Finally Download Apple Maps Offline in iOS 17](https://lifehacker.com/you-can-finally-download-apple-maps-offline-in-ios-17-1850685430)
-- [Dev.to/JS] [Use empty-react-app cra-template to create new project](https://dev.to/thesologlobesightseer/use-empty-react-app-cra-template-to-create-new-project-19a4)
-- [Dev.to/JS] [Building smth cool this weekend? Built👩‍💻 🔜 Launch 🚀](https://dev.to/shnai0/building-smth-cool-this-weekend-built-launch-1297)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Are You ‘Kenough’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-you-1850684769)
 - [Lifehacker] [Swap Tomatoes for Peaches, and Make a BLP](https://lifehacker.com/swap-tomatoes-for-peaches-and-make-a-blp-1850684519)
 - [Lifehacker] [My Two Favorite Tools for Calculating the Cost of a Road Trip](https://lifehacker.com/my-two-favorite-tools-for-calculating-the-cost-of-a-roa-1850683670)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Choose Credit Over Cash When Traveling Abroad](https://lifehacker.com/why-you-should-choose-credit-over-cash-when-traveling-a-1850682925)
 - [Lifehacker] [Rent a Private Pool for the Day With This &#39;Airbnb for Pools&#39; App](https://lifehacker.com/rent-a-private-pool-for-the-day-with-this-airbnb-for-po-1828602385)
 - [Lifehacker] [You Should Add Isometric Exercises to Your Routine](https://lifehacker.com/you-should-add-isometric-exercises-to-your-routine-1850683443)
-- [Lifehacker] [That Customer Service Number on Google Might Be a Scam](https://lifehacker.com/that-customer-service-number-on-google-might-be-a-scam-1850680896)
-- [Lifehacker] [The Easiest Ways to Create the Ultimate Summer Bonfire](https://lifehacker.com/how-to-have-the-best-bonfire-of-the-summer-1797041818)
-- [Lifehacker] [Make This No-Bake Panna Colada Pie If You Hate Your Oven Right Now](https://lifehacker.com/make-this-no-bake-panna-colada-pie-if-you-hate-your-ove-1850683151)
-- [Lifehacker] [The Difference Between Idle Time and Downtime at Work &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-idle-time-and-downtime-at-work-1850682482)
-- [Lifehacker] [All the Different Bars at the Gym, Explained](https://lifehacker.com/all-the-different-bars-at-the-gym-explained-1839810094)<!-- TECH-POSTS:END -->
+- [Lifehacker] [That Customer Service Number on Google Might Be a Scam](https://lifehacker.com/that-customer-service-number-on-google-might-be-a-scam-1850680896)<!-- TECH-POSTS:END -->
 
 ---
 
