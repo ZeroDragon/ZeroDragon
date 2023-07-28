@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The DOM: A Simplified Explanation](https://dev.to/tess25merrill/the-dom-a-simplified-explanation-2p1)
+- [Dev.to/JS] [A Guide to Cache Storage in JavaScript: Boosting Performance with Caching](https://dev.to/malikbilal111/a-guide-to-cache-storage-in-javascript-boosting-performance-with-caching-411j)
+- [Dev.to/JS] [Understanding useState Hook in React JS: A Beginner&#39;s Guide](https://dev.to/muhammadazhariqbal/understanding-usestate-hook-in-react-js-a-beginners-guide-4gf8)
+- [Dev.to/JS] [Top 10 IT Companies In India](https://dev.to/nidhigupta_676/top-10-it-companies-in-india-4p6f)
+- [Dev.to/JS] [What is SEO ?](https://dev.to/nidhigupta_676/what-is-seo--128n)
 - [Dev.to/JS] [Functioning or Functions](https://dev.to/sandraos/functioning-or-functions-5co8)
 - [Dev.to/JS] [Building a Movie Explorer with Google Cloud: Protecting API Keys and Enhancing Security](https://dev.to/bahamustafa/building-a-movie-explorer-with-google-cloud-protecting-api-keys-and-enhancing-security-17hc)
 - [Dev.to/JS] [JavaScript One-liner to Convert snake_case to camelCase](https://dev.to/jlogix/javascript-one-liner-to-convert-snakecase-to-camelcase-227)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS Array functions!](https://dev.to/enz0rd/js-array-functions-437n)
 - [Dev.to/JS] [I Made a Site Leveraging AI: How Accessible Was It?](https://dev.to/steady5063/i-made-a-site-leveraging-ai-how-accessible-was-it-4dam)
 - [Dev.to/JS] [If Statements: The Quick Guide For Beginners](https://dev.to/deborah/if-statements-the-quick-guide-for-beginners-35bc)
-- [Dev.to/JS] [JavaScript Arrays Methods In Detail Part 4](https://dev.to/abidullah786/javascript-arrays-methods-in-detail-part-4-7d7)
-- [Dev.to/JS] [How to Build Progressive Web Apps &lpar;PWAs&rpar; with Node.js](https://dev.to/saint_vandora/how-to-build-progressive-web-apps-pwas-with-nodejs-5blm)
-- [Dev.to/JS] [React Hooks: A Comprehensive Guide to Built-in React Hooks](https://dev.to/ryosuke/react-hooks-a-comprehensive-guide-to-built-in-react-hooks-32o)
-- [Dev.to/JS] [How understanding the reconciliation algorithm in React helped me improve my code quality](https://dev.to/alessandrorodrigo/how-understanding-the-reconciliation-algorithm-in-react-helped-me-improve-my-code-quality-4bcd)
-- [Dev.to/JS] [The Unconventional Brilliance of JavaScript in Embedded Systems: A Lighthearted Exploration](https://dev.to/matteac/the-unconventional-brilliance-of-javascript-in-embedded-systems-a-lighthearted-exploration-13c4)
 - [Lifehacker] [The Best Apps and Gadgets for Getting Better Sleep](https://lifehacker.com/use-these-apps-and-gadgets-to-get-better-sleep-1848076010)
 - [Lifehacker] [This Clever, Portable Record Player Is $90 Right Now](https://lifehacker.com/this-clever-portable-record-player-is-90-right-now-1850672379)
 - [Lifehacker] [What the Fed’s Latest Interest Rate Hike Means for Your Finances](https://lifehacker.com/how-rising-interest-rates-will-affect-your-finances-the-1850155359)
