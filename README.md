@@ -26,19 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Swap Tomatoes for Peaches, and Make a BLP](https://lifehacker.com/swap-tomatoes-for-peaches-and-make-a-blp-1850684519)
+- [Dev.to/JS] [🔗🖼️ Exploring Next/Link and Next/Image for Enhanced Web Development](https://dev.to/preetsuthar17/exploring-nextlink-and-nextimage-for-enhanced-web-development-1o2g)
+- [Dev.to/JS] [🚀🌟 Next.js 13: Discovering Exciting New Features and Getting Started with the Latest Version](https://dev.to/preetsuthar17/nextjs-13-discovering-exciting-new-features-and-getting-started-with-the-latest-version-o2g)
+- [Dev.to/JS] [Primitive Data Types in JSON](https://dev.to/jacknorman235/primitive-data-types-in-json-2f6k)
+- [Dev.to/JS] [🚀💡 Quick &amp; Easy Guide to Get Started with Gatsby](https://dev.to/preetsuthar17/quick-easy-guide-to-get-started-with-gatsby-4l6f)
+- [Dev.to/JS] [Understanding JSON Syntax and Data Structure](https://dev.to/jacknorman235/understanding-json-syntax-and-data-structure-6ci)
+- [Lifehacker] [My Two Favorite Tools for Calculating the Cost of a Road Trip](https://lifehacker.com/my-two-favorite-tools-for-calculating-the-cost-of-a-roa-1850683670)
+- [Dev.to/JS] [🌟🔥 Unleashing the Power of Supabase: A Node.js Integration Journey](https://dev.to/preetsuthar17/unleashing-the-power-of-supabase-a-nodejs-integration-journey-2mn9)
+- [Dev.to/JS] [🌞🌚 Theme Toggler using JavaScript, HTML, CSS](https://dev.to/preetsuthar17/theme-toggler-using-javascript-html-css-1d60)
+- [Dev.to/JS] [🌀 Adding a Mesmerizing Tilt Effect to Your Website with Tilt.js](https://dev.to/preetsuthar17/adding-a-mesmerizing-tilt-effect-to-your-website-with-tiltjs-58bb)
 - [Lifehacker] [All the Ways to Use the Free Crap You Can Snag at the Hardware Store](https://lifehacker.com/all-the-ways-to-use-the-free-crap-you-can-snag-at-the-h-1850682859)
 - [Dev.to/JS] [Run Concurrent Tasks With a Limit Using Pure JavaScript](https://dev.to/artydev/run-concurrent-tasks-with-a-limit-using-pure-javascript-17do)
 - [Dev.to/JS] [finally&lpar;&rpar; method in JavaScript](https://dev.to/diwakarkashyap/finally-method-in-javascript-1dfl)
 - [Dev.to/JS] [Next js Templates](https://dev.to/easetemplates/next-js-templates-33n9)
 - [Dev.to/JS] [why figma units look bigger in react app ?](https://dev.to/starman1999/why-figma-units-look-bigger-in-react-app--215d)
-- [Dev.to/JS] [Why Custom Die Cut Mylar Bags Are Useful For You!](https://dev.to/kwickpackaging/why-custom-die-cut-mylar-bags-are-useful-for-you-hb6)
-- [Dev.to/JS] [JavaScript - The Golden Cage](https://dev.to/robkane1/javascript-the-golden-cage-1an5)
-- [Dev.to/JS] [Unleashing TypeScript performance in monorepos with TSX](https://dev.to/contember/unleashing-typescript-performance-in-monorepos-with-tsx-13e7)
-- [Dev.to/JS] [Understanding Business Logic in Node.js: A Beginner&#39;s Guide](https://dev.to/danities316/understanding-business-logic-in-nodejs-a-beginners-guide-1pb)
-- [Dev.to/JS] [How to integrate Datadog with AWS ECS using AWS CDK](https://dev.to/pmca/how-to-integrate-datadog-with-aws-ecs-using-aws-cdk-96l)
-- [Dev.to/JS] [Why Should You Use onSubmit&lpar;&rpar; instead Of onClick&lpar;&rpar; Event Listener](https://dev.to/wasimapinjari/react-why-should-you-use-onsubmit-instead-of-onclick-event-listener-2cd5)
-- [Dev.to/JS] [Virtual Try on glasses with JavaScript](https://dev.to/bensonruan/virtual-try-on-glasses-with-javascript-3mdb)
-- [Dev.to/JS] [Assertions: How to Assert Conditions and Types](https://dev.to/zirkelc/assertions-how-to-assert-conditions-and-types-mep)
 - [Lifehacker] [The Best Apps and Gadgets for Getting Better Sleep](https://lifehacker.com/use-these-apps-and-gadgets-to-get-better-sleep-1848076010)
 - [Lifehacker] [This Clever, Portable Record Player Is $90 Right Now](https://lifehacker.com/this-clever-portable-record-player-is-90-right-now-1850672379)
 - [Lifehacker] [What the Fed’s Latest Interest Rate Hike Means for Your Finances](https://lifehacker.com/how-rising-interest-rates-will-affect-your-finances-the-1850155359)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why the New Arc Browser Is Better Than Chrome](https://lifehacker.com/why-the-new-arc-browser-is-better-than-chrome-1850681545)
 - [Lifehacker] [Four Questions to Ask Yourself Before Changing Careers](https://lifehacker.com/four-questions-to-ask-yourself-before-changing-careers-1850679687)
 - [Lifehacker] [Everything You Need to Know About Samsung’s Galaxy Watch 6](https://lifehacker.com/everything-you-need-to-know-about-samsung-s-galaxy-watc-1850680274)
-- [Lifehacker] [All the Places You Can Get a ‘Free’ Netflix Subscription](https://lifehacker.com/all-the-places-you-can-get-a-free-netflix-subscriptio-1850680291)
-- [Lifehacker] [The Best Gear to Keep Your Workspace Clean &lpar;and Sanitary&rpar;](https://lifehacker.com/the-best-gear-to-keep-your-workspace-clean-and-sanitar-1850679601)
-- [Lifehacker] [Buy Your Fast Food Sauces by the Bottle](https://lifehacker.com/buy-your-fast-food-sauces-by-the-bottle-1850675993)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Places You Can Get a ‘Free’ Netflix Subscription](https://lifehacker.com/all-the-places-you-can-get-a-free-netflix-subscriptio-1850680291)<!-- TECH-POSTS:END -->
 
 ---
 
