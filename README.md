@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Download Instructions for More Than 6,800 LEGO Kits for Free](https://lifehacker.com/you-can-download-instructions-for-more-than-6-800-lego-1850683478)
 - [Dev.to/JS] [TypeScript Basics: Supercharge Your JavaScript with Strong Typing](https://dev.to/leandro_nnz/typescript-basics-supercharge-your-javascript-with-strong-typing-1961)
 - [Dev.to/JS] [Which skill a remote web developer should have?](https://dev.to/khanhdevos/which-skill-a-remote-web-developer-should-have-969)
 - [Dev.to/JS] [Effortless Star Rating Implementation with custom useStar Visualization hook in React](https://dev.to/aikay/effortless-star-rating-implementation-with-custom-usestar-visualization-hook-in-react-hk1)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Introduce Role Playing Into Your Sex Life](https://lifehacker.com/how-to-introduce-role-playing-into-your-sex-life-1850684587)
 - [Lifehacker] [20 Peacock Originals That Are Definitely Worth Watching](https://lifehacker.com/12-peacock-originals-that-are-definitely-worth-watching-1847731247)
 - [Lifehacker] [You Can Finally Download Apple Maps Offline in iOS 17](https://lifehacker.com/you-can-finally-download-apple-maps-offline-in-ios-17-1850685430)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Are You ‘Kenough’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-you-1850684769)
-- [Lifehacker] [Swap Tomatoes for Peaches, and Make a BLP](https://lifehacker.com/swap-tomatoes-for-peaches-and-make-a-blp-1850684519)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Are You ‘Kenough’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-you-1850684769)<!-- TECH-POSTS:END -->
 
 ---
 
