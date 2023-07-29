@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TypeScript Basics: Supercharge Your JavaScript with Strong Typing](https://dev.to/leandro_nnz/typescript-basics-supercharge-your-javascript-with-strong-typing-1961)
+- [Dev.to/JS] [Which skill a remote web developer should have?](https://dev.to/khanhdevos/which-skill-a-remote-web-developer-should-have-969)
+- [Dev.to/JS] [Effortless Star Rating Implementation with custom useStar Visualization hook in React](https://dev.to/aikay/effortless-star-rating-implementation-with-custom-usestar-visualization-hook-in-react-hk1)
+- [Lifehacker] [The Easiest Ways to Keep Your Garage Cool During the Summer](https://lifehacker.com/the-easiest-ways-to-keep-your-garage-cool-during-the-su-1850683465)
 - [Dev.to/JS] [Drag and Drop with Next.js and Builder](https://dev.to/builderio/drag-and-drop-with-nextjs-and-builder-4olk)
 - [Dev.to/JS] [Defer JavaScript for Faster Load Time](https://dev.to/jazurite/defer-javascript-for-faster-load-time-io7)
 - [Dev.to/JS] [Understanding the Ethereum Virtual Machine &lpar;EVM&rpar;](https://dev.to/ayaaneth/understanding-the-ethereum-virtual-machine-evm-oee)
@@ -36,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Cheap Hotel Chains in the U.S., According to Guests](https://lifehacker.com/these-are-the-best-cheap-hotel-chains-in-the-u-s-acco-1850683452)
 - [Dev.to/JS] [Next13 Fullstack Ecommerce 🛒 | React, Typescript, TailwindCSS, Prisma and MongoDB 🔥](https://dev.to/chaoocharles/next13-fullstack-ecommerce-react-typescript-tailwindcss-prisma-and-mongodb-1552)
 - [Dev.to/JS] [Create Reusable HTML Components Using Only JavaScript](https://dev.to/saje/create-reusable-html-components-using-only-javascript-1icc)
-- [Dev.to/JS] [Understanding parseInt&lpar;&rpar; in JavaScript](https://dev.to/ussdlover/understanding-parseint-in-javascript-4a24)
-- [Dev.to/JS] [How to Automate Job Application with ChatGPT in 3 Steps](https://dev.to/mainarthur/how-to-automate-job-application-with-chatgpt-in-3-steps-3blg)
-- [Dev.to/JS] [Island architecture, should you use it?](https://dev.to/lausuarez02/island-architecture-should-you-use-it-27h7)
 - [Lifehacker] [How to Survive the Summer When Summer Makes You Miserable](https://lifehacker.com/how-to-survive-the-summer-when-summer-makes-you-miserab-1796164224)
 - [Lifehacker] [This HD Portable Laptop Monitor Is 40% Off](https://lifehacker.com/this-hd-portable-laptop-monitor-is-40-off-1850675799)
 - [Lifehacker] [Where Have All the Barbie Video Games Gone?](https://lifehacker.com/where-have-all-the-barbie-video-games-gone-1850688080)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [20 Peacock Originals That Are Definitely Worth Watching](https://lifehacker.com/12-peacock-originals-that-are-definitely-worth-watching-1847731247)
 - [Lifehacker] [You Can Finally Download Apple Maps Offline in iOS 17](https://lifehacker.com/you-can-finally-download-apple-maps-offline-in-ios-17-1850685430)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Are You ‘Kenough’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-you-1850684769)
-- [Lifehacker] [Swap Tomatoes for Peaches, and Make a BLP](https://lifehacker.com/swap-tomatoes-for-peaches-and-make-a-blp-1850684519)
-- [Lifehacker] [My Two Favorite Tools for Calculating the Cost of a Road Trip](https://lifehacker.com/my-two-favorite-tools-for-calculating-the-cost-of-a-roa-1850683670)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Swap Tomatoes for Peaches, and Make a BLP](https://lifehacker.com/swap-tomatoes-for-peaches-and-make-a-blp-1850684519)<!-- TECH-POSTS:END -->
 
 ---
 
