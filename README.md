@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering CSS: Elevate Your Web Designs with Style and Elegance](https://dev.to/iamcymentho/mastering-css-elevate-your-web-designs-with-style-and-elegance-3lgk)
 - [Dev.to/JS] [How secure is WebAssembly? 5 security concerns unique to WebAssembly](https://dev.to/snyk/how-secure-is-webassembly-5-security-concerns-unique-to-webassembly-48gl)
 - [Dev.to/JS] [Javascript&#39;s Immutable Array Transformation: Exploring the Power of the New Methods](https://dev.to/therahul_gupta/javascripts-immutable-array-transformation-exploring-the-power-of-the-new-methods-4aa)
 - [Dev.to/JS] [ReactJS Coding and TechTalking, come join :D](https://dev.to/arthursmuller/reactjs-coding-and-techtalking-come-join-d-2ck9)
@@ -54,7 +55,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Small Apartment Can Still Fit a Chest Freezer](https://lifehacker.com/your-apartment-needs-a-chest-freezer-1826933762)
 - [Lifehacker] [You Can Finally Link Notes to Each Other in iOS 17](https://lifehacker.com/you-can-finally-link-notes-to-each-other-in-ios-17-1850685424)
 - [Lifehacker] [The Best Way to Bulk Export Your Apple Notes](https://lifehacker.com/the-best-way-to-bulk-export-your-apple-notes-1850685680)
-- [Dev.to/JS] [Custom Gutenberg block: client side vs server side](https://dev.to/maiobarbero/flickering-screen-with-dark-mode-in-astro-4g8o)
 - [Lifehacker] [The Most Effective Way to Deep-Clean Your Fridge](https://lifehacker.com/de-stink-your-fridge-for-good-with-this-deep-cleaning-r-1786969699)
 - [Lifehacker] [My Favorite Websites to Find the Best Travel Deals](https://lifehacker.com/my-favorite-websites-to-find-the-best-travel-deals-1850684316)
 - [Lifehacker] [You Can Get Microsoft Office and Windows 11 Pro for $50 Right Now](https://lifehacker.com/you-can-get-microsoft-office-and-windows-11-pro-for-50-1850675710)
