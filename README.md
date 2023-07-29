@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hasdx and Stable Diffusion: Two Powerful AI Image Generation Models](https://dev.to/mikeyoung44/hasdx-and-stable-diffusion-two-powerful-ai-image-generation-models-31f8)
 - [Dev.to/JS] [How to use Lemon Squeezy as a payment in next.js](https://dev.to/newbing/how-to-use-lemon-squeezy-as-a-payment-in-nextjs-e46)
 - [Dev.to/JS] [Mastering CSS: Elevate Your Web Designs with Style and Elegance](https://dev.to/iamcymentho/mastering-css-elevate-your-web-designs-with-style-and-elegance-3lgk)
 - [Dev.to/JS] [How secure is WebAssembly? 5 security concerns unique to WebAssembly](https://dev.to/snyk/how-secure-is-webassembly-5-security-concerns-unique-to-webassembly-48gl)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Working with JSON Libraries and Tools for Sports - Liverpool Premier League&lpar;example&rpar;](https://dev.to/jacknorman235/working-with-json-libraries-and-tools-for-sports-liverpool-premier-leagueexample-3ali)
 - [Dev.to/JS] [JSON Schema for Sports - Liverpool Premier League&lpar;example&rpar;](https://dev.to/jacknorman235/json-schema-for-sports-liverpool-premier-leagueexample-25d6)
 - [Lifehacker] [Your Athletic Peak Is Longer Than You Think](https://lifehacker.com/your-athletic-peak-is-longer-than-you-think-1850686971)
-- [Dev.to/JS] [SyntaxError: Unexpected end of JSON input](https://dev.to/jizhang80/syntaxerror-unexpected-end-of-json-input-4f3p)
 - [Lifehacker] [Do Bay Leaves Even Do Anything?](https://lifehacker.com/do-bay-leaves-even-do-anything-1793275685)
 - [Lifehacker] [The Parking Brakes on These Recalled Ford F-150s Might Engage Unexpectedly](https://lifehacker.com/the-parking-brakes-on-these-recalled-ford-f-150s-might-1850686708)
 - [Lifehacker] [Make a Chilling Tray With Two Aluminum Pans](https://lifehacker.com/make-a-chilling-tray-with-two-aluminum-pans-1850684265)
