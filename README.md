@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Scripts](https://dev.to/pixeljuggernaut/javascript-scripts-3bj6)
+- [Dev.to/JS] [Frontend codes](https://dev.to/pixeljuggernaut/frontend-codes-364m)
 - [Dev.to/JS] [my first web project and stuff about life](https://dev.to/shrey802/my-first-web-project-and-stuff-about-life-3d05)
 - [Dev.to/JS] [Mocha and Chai Unit Testing &lpar;node js&rpar;](https://dev.to/shrey802/mocha-and-chai-unit-testing-node-js-2ko)
 - [Dev.to/JS] [#LearnedToday: Qwik](https://dev.to/danielzotti/learnedtoday-qwik-gf3)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Drag and Drop with Next.js and Builder](https://dev.to/builderio/drag-and-drop-with-nextjs-and-builder-4olk)
 - [Dev.to/JS] [Defer JavaScript for Faster Load Time](https://dev.to/jazurite/defer-javascript-for-faster-load-time-io7)
 - [Dev.to/JS] [Understanding the Ethereum Virtual Machine &lpar;EVM&rpar;](https://dev.to/ayaaneth/understanding-the-ethereum-virtual-machine-evm-oee)
-- [Dev.to/JS] [Best Companies to Recruit Freelance Developers for Your Project](https://dev.to/nadinerwatson/best-companies-to-recruit-freelance-developers-for-your-project-4g40)
-- [Dev.to/JS] [Website cookies 🍪](https://dev.to/wonuola_w/website-cookies-3l2g)
 - [Lifehacker] [These Are the Best Cheap Hotel Chains in the U.S., According to Guests](https://lifehacker.com/these-are-the-best-cheap-hotel-chains-in-the-u-s-acco-1850683452)
 - [Lifehacker] [How to Survive the Summer When Summer Makes You Miserable](https://lifehacker.com/how-to-survive-the-summer-when-summer-makes-you-miserab-1796164224)
 - [Lifehacker] [This HD Portable Laptop Monitor Is 40% Off](https://lifehacker.com/this-hd-portable-laptop-monitor-is-40-off-1850675799)
