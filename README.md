@@ -26,7 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Secret of Typia, how it could be 20,000x faster validator - Hidden Class Optimization of v8 engine](https://dev.to/samchon/secret-of-typia-how-it-could-be-20000x-faster-validator-hidden-class-optimization-in-v8-engine-1mfb)
+- [Dev.to/JS] [Enhancing User Experience with Daxus](https://dev.to/jason89521/enhancing-user-experience-with-daxus-1f2f)
+- [Dev.to/JS] [[Typia] Hidden Class Optimization of v8 Engine](https://dev.to/samchon/secret-of-typia-how-it-could-be-20000x-faster-validator-hidden-class-optimization-in-v8-engine-1mfb)
 - [Dev.to/JS] [React useEffect Hook: Use cases](https://dev.to/kipyegonline/react-useeffect-hook-use-cases-pie)
 - [Dev.to/JS] [Understanding and Proper Usage of &#39;on&#39; and &#39;handle&#39; Prefixes in React Function Naming](https://dev.to/yanagisawahidetoshi/understanding-and-proper-usage-of-on-and-handle-prefixes-in-react-function-naming-1j39)
 - [Dev.to/JS] [Demystifying getElementById and useRef: A Beginner&#39;s Guide](https://dev.to/yanagisawahidetoshi/demystifying-getelementbyid-and-useref-a-beginners-guide-3j0l)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Navigating JavaScript Objects: Different Iteration Methods 🚀](https://dev.to/malikbilal111/navigating-javascript-objects-different-iteration-methods-3b0f)
 - [Dev.to/JS] [Essential ES6 Features for Mastering React](https://dev.to/mmainulhasandev/essential-es6-features-for-mastering-react-4hlh)
 - [Dev.to/JS] [Hasdx and Stable Diffusion: Two Powerful AI Image Generation Models](https://dev.to/mikeyoung44/hasdx-and-stable-diffusion-two-powerful-ai-image-generation-models-31f8)
-- [Dev.to/JS] [How to use Lemon Squeezy as a payment in next.js](https://dev.to/newbing/how-to-use-lemon-squeezy-as-a-payment-in-nextjs-e46)
 - [Lifehacker] [How to Survive the Summer When Summer Makes You Miserable](https://lifehacker.com/how-to-survive-the-summer-when-summer-makes-you-miserab-1796164224)
 - [Lifehacker] [This HD Portable Laptop Monitor Is 40% Off](https://lifehacker.com/this-hd-portable-laptop-monitor-is-40-off-1850675799)
 - [Lifehacker] [Where Have All the Barbie Video Games Gone?](https://lifehacker.com/where-have-all-the-barbie-video-games-gone-1850688080)
