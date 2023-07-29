@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Demystifying getElementById and useRef: A Beginner&#39;s Guide](https://dev.to/yanagisawahidetoshi/demystifying-getelementbyid-and-useref-a-beginners-guide-3j0l)
 - [Dev.to/JS] [How to Write Maintainable JavaScript Code?](https://dev.to/jai7503556364/how-to-write-maintainable-javascript-code-2m0g)
 - [Dev.to/JS] [Docker — Containerizing a Nextjs Application](https://dev.to/murtuzaalisurti/docker-containerizing-a-nextjs-application-23l7)
 - [Dev.to/JS] [👨‍💻 𝗗𝗼𝘁𝗡𝗲𝘁 𝗖𝗼𝗱𝗶𝗻𝗴 𝗖𝗼𝗻𝘃𝗲𝗻𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗖𝗹𝗲𝗮𝗻𝗲𝗿 𝗖𝗼𝗱𝗲!](https://dev.to/ahmedshahjr/-1876)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering CSS: Elevate Your Web Designs with Style and Elegance](https://dev.to/iamcymentho/mastering-css-elevate-your-web-designs-with-style-and-elegance-3lgk)
 - [Dev.to/JS] [How secure is WebAssembly? 5 security concerns unique to WebAssembly](https://dev.to/snyk/how-secure-is-webassembly-5-security-concerns-unique-to-webassembly-48gl)
 - [Dev.to/JS] [Javascript&#39;s Immutable Array Transformation: Exploring the Power of the New Methods](https://dev.to/therahul_gupta/javascripts-immutable-array-transformation-exploring-the-power-of-the-new-methods-4aa)
-- [Dev.to/JS] [ReactJS Coding and TechTalking, come join :D](https://dev.to/arthursmuller/reactjs-coding-and-techtalking-come-join-d-2ck9)
 - [Lifehacker] [How to Survive the Summer When Summer Makes You Miserable](https://lifehacker.com/how-to-survive-the-summer-when-summer-makes-you-miserab-1796164224)
 - [Lifehacker] [This HD Portable Laptop Monitor Is 40% Off](https://lifehacker.com/this-hd-portable-laptop-monitor-is-40-off-1850675799)
 - [Lifehacker] [Where Have All the Barbie Video Games Gone?](https://lifehacker.com/where-have-all-the-barbie-video-games-gone-1850688080)
