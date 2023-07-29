@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use Lemon Squeezy as a payment in next.js](https://dev.to/newbing/how-to-use-lemon-squeezy-as-a-payment-in-nextjs-e46)
 - [Dev.to/JS] [Mastering CSS: Elevate Your Web Designs with Style and Elegance](https://dev.to/iamcymentho/mastering-css-elevate-your-web-designs-with-style-and-elegance-3lgk)
 - [Dev.to/JS] [How secure is WebAssembly? 5 security concerns unique to WebAssembly](https://dev.to/snyk/how-secure-is-webassembly-5-security-concerns-unique-to-webassembly-48gl)
 - [Dev.to/JS] [Javascript&#39;s Immutable Array Transformation: Exploring the Power of the New Methods](https://dev.to/therahul_gupta/javascripts-immutable-array-transformation-exploring-the-power-of-the-new-methods-4aa)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SyntaxError: Unexpected end of JSON input](https://dev.to/jizhang80/syntaxerror-unexpected-end-of-json-input-4f3p)
 - [Lifehacker] [Do Bay Leaves Even Do Anything?](https://lifehacker.com/do-bay-leaves-even-do-anything-1793275685)
 - [Lifehacker] [The Parking Brakes on These Recalled Ford F-150s Might Engage Unexpectedly](https://lifehacker.com/the-parking-brakes-on-these-recalled-ford-f-150s-might-1850686708)
-- [Dev.to/JS] [Stop using Swagger-UI and MSW, but SDK instead](https://dev.to/samchon/stop-using-swagger-ui-and-msw-but-sdk-instead-412b)
 - [Lifehacker] [Make a Chilling Tray With Two Aluminum Pans](https://lifehacker.com/make-a-chilling-tray-with-two-aluminum-pans-1850684265)
 - [Lifehacker] [Your Small Apartment Can Still Fit a Chest Freezer](https://lifehacker.com/your-apartment-needs-a-chest-freezer-1826933762)
 - [Lifehacker] [You Can Finally Link Notes to Each Other in iOS 17](https://lifehacker.com/you-can-finally-link-notes-to-each-other-in-ios-17-1850685424)
