@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [my first web project and stuff about life](https://dev.to/shrey802/my-first-web-project-and-stuff-about-life-3d05)
+- [Dev.to/JS] [Mocha and Chai Unit Testing &lpar;node js&rpar;](https://dev.to/shrey802/mocha-and-chai-unit-testing-node-js-2ko)
 - [Dev.to/JS] [#LearnedToday: Qwik](https://dev.to/danielzotti/learnedtoday-qwik-gf3)
 - [Dev.to/JS] [Deploying a PERN Full-Stack CRUD App with Vercel: Hosting and Integration Made Easy!](https://dev.to/fetterollie/deploying-a-pern-full-stack-crud-app-with-vercel-hosting-and-integration-made-easy-44fk)
 - [Lifehacker] [You Can Download Instructions for More Than 6,800 LEGO Kits for Free](https://lifehacker.com/you-can-download-instructions-for-more-than-6-800-lego-1850683478)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding the Ethereum Virtual Machine &lpar;EVM&rpar;](https://dev.to/ayaaneth/understanding-the-ethereum-virtual-machine-evm-oee)
 - [Dev.to/JS] [Best Companies to Recruit Freelance Developers for Your Project](https://dev.to/nadinerwatson/best-companies-to-recruit-freelance-developers-for-your-project-4g40)
 - [Dev.to/JS] [Website cookies 🍪](https://dev.to/wonuola_w/website-cookies-3l2g)
-- [Dev.to/JS] [I started an Open Source project.](https://dev.to/ohayouarmaan/i-started-an-open-source-project-1ke9)
-- [Dev.to/JS] [Debugging and Error Handling: Mastering the Art of Software Stability](https://dev.to/idurar/debugging-and-error-handling-mastering-the-art-of-software-stability-15nh)
 - [Lifehacker] [These Are the Best Cheap Hotel Chains in the U.S., According to Guests](https://lifehacker.com/these-are-the-best-cheap-hotel-chains-in-the-u-s-acco-1850683452)
 - [Lifehacker] [How to Survive the Summer When Summer Makes You Miserable](https://lifehacker.com/how-to-survive-the-summer-when-summer-makes-you-miserab-1796164224)
 - [Lifehacker] [This HD Portable Laptop Monitor Is 40% Off](https://lifehacker.com/this-hd-portable-laptop-monitor-is-40-off-1850675799)
