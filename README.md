@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#LearnedToday: Qwik](https://dev.to/danielzotti/learnedtoday-qwik-gf3)
+- [Dev.to/JS] [Deploying a PERN Full-Stack CRUD App with Vercel: Hosting and Integration Made Easy!](https://dev.to/fetterollie/deploying-a-pern-full-stack-crud-app-with-vercel-hosting-and-integration-made-easy-44fk)
 - [Lifehacker] [You Can Download Instructions for More Than 6,800 LEGO Kits for Free](https://lifehacker.com/you-can-download-instructions-for-more-than-6-800-lego-1850683478)
 - [Dev.to/JS] [TypeScript Basics: Supercharge Your JavaScript with Strong Typing](https://dev.to/leandro_nnz/typescript-basics-supercharge-your-javascript-with-strong-typing-1961)
 - [Dev.to/JS] [Which skill a remote web developer should have?](https://dev.to/khanhdevos/which-skill-a-remote-web-developer-should-have-969)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I started an Open Source project.](https://dev.to/ohayouarmaan/i-started-an-open-source-project-1ke9)
 - [Dev.to/JS] [Debugging and Error Handling: Mastering the Art of Software Stability](https://dev.to/idurar/debugging-and-error-handling-mastering-the-art-of-software-stability-15nh)
 - [Lifehacker] [These Are the Best Cheap Hotel Chains in the U.S., According to Guests](https://lifehacker.com/these-are-the-best-cheap-hotel-chains-in-the-u-s-acco-1850683452)
-- [Dev.to/JS] [Next13 Fullstack Ecommerce 🛒 | React, Typescript, TailwindCSS, Prisma and MongoDB 🔥](https://dev.to/chaoocharles/next13-fullstack-ecommerce-react-typescript-tailwindcss-prisma-and-mongodb-1552)
-- [Dev.to/JS] [Create Reusable HTML Components Using Only JavaScript](https://dev.to/saje/create-reusable-html-components-using-only-javascript-1icc)
 - [Lifehacker] [How to Survive the Summer When Summer Makes You Miserable](https://lifehacker.com/how-to-survive-the-summer-when-summer-makes-you-miserab-1796164224)
 - [Lifehacker] [This HD Portable Laptop Monitor Is 40% Off](https://lifehacker.com/this-hd-portable-laptop-monitor-is-40-off-1850675799)
 - [Lifehacker] [Where Have All the Barbie Video Games Gone?](https://lifehacker.com/where-have-all-the-barbie-video-games-gone-1850688080)
