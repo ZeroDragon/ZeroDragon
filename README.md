@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Website cookies 🍪](https://dev.to/wonuola_w/website-cookies-3l2g)
+- [Dev.to/JS] [I started an Open Source project.](https://dev.to/ohayouarmaan/i-started-an-open-source-project-1ke9)
 - [Dev.to/JS] [Debugging and Error Handling: Mastering the Art of Software Stability](https://dev.to/idurar/debugging-and-error-handling-mastering-the-art-of-software-stability-15nh)
 - [Lifehacker] [These Are the Best Cheap Hotel Chains in the U.S., According to Guests](https://lifehacker.com/these-are-the-best-cheap-hotel-chains-in-the-u-s-acco-1850683452)
 - [Dev.to/JS] [Next13 Fullstack Ecommerce 🛒 | React, Typescript, TailwindCSS, Prisma and MongoDB 🔥](https://dev.to/chaoocharles/next13-fullstack-ecommerce-react-typescript-tailwindcss-prisma-and-mongodb-1552)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [[Typia] Hidden Class Optimization of v8 Engine](https://dev.to/samchon/secret-of-typia-how-it-could-be-20000x-faster-validator-hidden-class-optimization-in-v8-engine-1mfb)
 - [Dev.to/JS] [React useEffect Hook: Use cases](https://dev.to/kipyegonline/react-useeffect-hook-use-cases-pie)
 - [Dev.to/JS] [Understanding and Proper Usage of &#39;on&#39; and &#39;handle&#39; Prefixes in React Function Naming](https://dev.to/yanagisawahidetoshi/understanding-and-proper-usage-of-on-and-handle-prefixes-in-react-function-naming-1j39)
-- [Dev.to/JS] [Demystifying getElementById and useRef: A Beginner&#39;s Guide](https://dev.to/yanagisawahidetoshi/demystifying-getelementbyid-and-useref-a-beginners-guide-3j0l)
-- [Dev.to/JS] [How to Write Maintainable JavaScript Code?](https://dev.to/jai7503556364/how-to-write-maintainable-javascript-code-2m0g)
 - [Lifehacker] [How to Survive the Summer When Summer Makes You Miserable](https://lifehacker.com/how-to-survive-the-summer-when-summer-makes-you-miserab-1796164224)
 - [Lifehacker] [This HD Portable Laptop Monitor Is 40% Off](https://lifehacker.com/this-hd-portable-laptop-monitor-is-40-off-1850675799)
 - [Lifehacker] [Where Have All the Barbie Video Games Gone?](https://lifehacker.com/where-have-all-the-barbie-video-games-gone-1850688080)
