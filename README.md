@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Essential ES6 Features for Mastering React](https://dev.to/mmainulhasandev/essential-es6-features-for-mastering-react-4hlh)
 - [Dev.to/JS] [Hasdx and Stable Diffusion: Two Powerful AI Image Generation Models](https://dev.to/mikeyoung44/hasdx-and-stable-diffusion-two-powerful-ai-image-generation-models-31f8)
 - [Dev.to/JS] [How to use Lemon Squeezy as a payment in next.js](https://dev.to/newbing/how-to-use-lemon-squeezy-as-a-payment-in-nextjs-e46)
 - [Dev.to/JS] [Mastering CSS: Elevate Your Web Designs with Style and Elegance](https://dev.to/iamcymentho/mastering-css-elevate-your-web-designs-with-style-and-elegance-3lgk)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do These Things to Make Your Yard Fire-Resistant](https://lifehacker.com/do-these-things-to-make-your-yard-fire-resistant-1850685319)
 - [Lifehacker] [This Kind of Tick Bite Can Cause a Meat Allergy](https://lifehacker.com/what-to-know-about-the-tick-that-can-make-you-allergic-1848982558)
 - [Dev.to/JS] [Working with JSON Libraries and Tools for Sports - Liverpool Premier League&lpar;example&rpar;](https://dev.to/jacknorman235/working-with-json-libraries-and-tools-for-sports-liverpool-premier-leagueexample-3ali)
-- [Dev.to/JS] [JSON Schema for Sports - Liverpool Premier League&lpar;example&rpar;](https://dev.to/jacknorman235/json-schema-for-sports-liverpool-premier-leagueexample-25d6)
 - [Lifehacker] [Your Athletic Peak Is Longer Than You Think](https://lifehacker.com/your-athletic-peak-is-longer-than-you-think-1850686971)
 - [Lifehacker] [Do Bay Leaves Even Do Anything?](https://lifehacker.com/do-bay-leaves-even-do-anything-1793275685)
 - [Lifehacker] [The Parking Brakes on These Recalled Ford F-150s Might Engage Unexpectedly](https://lifehacker.com/the-parking-brakes-on-these-recalled-ford-f-150s-might-1850686708)
