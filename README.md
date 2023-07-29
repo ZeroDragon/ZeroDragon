@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Drag and Drop with Next.js and Builder](https://dev.to/builderio/drag-and-drop-with-nextjs-and-builder-4olk)
+- [Dev.to/JS] [Defer JavaScript for Faster Load Time](https://dev.to/jazurite/defer-javascript-for-faster-load-time-io7)
+- [Dev.to/JS] [Understanding the Ethereum Virtual Machine &lpar;EVM&rpar;](https://dev.to/ayaaneth/understanding-the-ethereum-virtual-machine-evm-oee)
+- [Dev.to/JS] [Best Companies to Recruit Freelance Developers for Your Project](https://dev.to/nadinerwatson/best-companies-to-recruit-freelance-developers-for-your-project-4g40)
 - [Dev.to/JS] [Website cookies 🍪](https://dev.to/wonuola_w/website-cookies-3l2g)
 - [Dev.to/JS] [I started an Open Source project.](https://dev.to/ohayouarmaan/i-started-an-open-source-project-1ke9)
 - [Dev.to/JS] [Debugging and Error Handling: Mastering the Art of Software Stability](https://dev.to/idurar/debugging-and-error-handling-mastering-the-art-of-software-stability-15nh)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding parseInt&lpar;&rpar; in JavaScript](https://dev.to/ussdlover/understanding-parseint-in-javascript-4a24)
 - [Dev.to/JS] [How to Automate Job Application with ChatGPT in 3 Steps](https://dev.to/mainarthur/how-to-automate-job-application-with-chatgpt-in-3-steps-3blg)
 - [Dev.to/JS] [Island architecture, should you use it?](https://dev.to/lausuarez02/island-architecture-should-you-use-it-27h7)
-- [Dev.to/JS] [Enhancing User Experience with Daxus](https://dev.to/jason89521/enhancing-user-experience-with-daxus-1f2f)
-- [Dev.to/JS] [[Typia] Hidden Class Optimization of v8 Engine](https://dev.to/samchon/secret-of-typia-how-it-could-be-20000x-faster-validator-hidden-class-optimization-in-v8-engine-1mfb)
-- [Dev.to/JS] [React useEffect Hook: Use cases](https://dev.to/kipyegonline/react-useeffect-hook-use-cases-pie)
-- [Dev.to/JS] [Understanding and Proper Usage of &#39;on&#39; and &#39;handle&#39; Prefixes in React Function Naming](https://dev.to/yanagisawahidetoshi/understanding-and-proper-usage-of-on-and-handle-prefixes-in-react-function-naming-1j39)
 - [Lifehacker] [How to Survive the Summer When Summer Makes You Miserable](https://lifehacker.com/how-to-survive-the-summer-when-summer-makes-you-miserab-1796164224)
 - [Lifehacker] [This HD Portable Laptop Monitor Is 40% Off](https://lifehacker.com/this-hd-portable-laptop-monitor-is-40-off-1850675799)
 - [Lifehacker] [Where Have All the Barbie Video Games Gone?](https://lifehacker.com/where-have-all-the-barbie-video-games-gone-1850688080)
