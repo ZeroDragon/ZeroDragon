@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Debugging and Error Handling: Mastering the Art of Software Stability](https://dev.to/idurar/debugging-and-error-handling-mastering-the-art-of-software-stability-15nh)
+- [Lifehacker] [These Are the Best Cheap Hotel Chains in the U.S., According to Guests](https://lifehacker.com/these-are-the-best-cheap-hotel-chains-in-the-u-s-acco-1850683452)
+- [Dev.to/JS] [Next13 Fullstack Ecommerce 🛒 | React, Typescript, TailwindCSS, Prisma and MongoDB 🔥](https://dev.to/chaoocharles/next13-fullstack-ecommerce-react-typescript-tailwindcss-prisma-and-mongodb-1552)
+- [Dev.to/JS] [Create Reusable HTML Components Using Only JavaScript](https://dev.to/saje/create-reusable-html-components-using-only-javascript-1icc)
 - [Dev.to/JS] [Understanding parseInt&lpar;&rpar; in JavaScript](https://dev.to/ussdlover/understanding-parseint-in-javascript-4a24)
 - [Dev.to/JS] [How to Automate Job Application with ChatGPT in 3 Steps](https://dev.to/mainarthur/how-to-automate-job-application-with-chatgpt-in-3-steps-3blg)
 - [Dev.to/JS] [Island architecture, should you use it?](https://dev.to/lausuarez02/island-architecture-should-you-use-it-27h7)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding and Proper Usage of &#39;on&#39; and &#39;handle&#39; Prefixes in React Function Naming](https://dev.to/yanagisawahidetoshi/understanding-and-proper-usage-of-on-and-handle-prefixes-in-react-function-naming-1j39)
 - [Dev.to/JS] [Demystifying getElementById and useRef: A Beginner&#39;s Guide](https://dev.to/yanagisawahidetoshi/demystifying-getelementbyid-and-useref-a-beginners-guide-3j0l)
 - [Dev.to/JS] [How to Write Maintainable JavaScript Code?](https://dev.to/jai7503556364/how-to-write-maintainable-javascript-code-2m0g)
-- [Dev.to/JS] [Docker — Containerizing a Nextjs Application](https://dev.to/murtuzaalisurti/docker-containerizing-a-nextjs-application-23l7)
-- [Dev.to/JS] [👨‍💻 𝗗𝗼𝘁𝗡𝗲𝘁 𝗖𝗼𝗱𝗶𝗻𝗴 𝗖𝗼𝗻𝘃𝗲𝗻𝘁𝗶𝗼𝗻𝘀 𝗳𝗼𝗿 𝗖𝗹𝗲𝗮𝗻𝗲𝗿 𝗖𝗼𝗱𝗲!](https://dev.to/ahmedshahjr/-1876)
-- [Dev.to/JS] [Latest Newsletter: Alternative Dev Culture &lpar;Issue #125&rpar;](https://dev.to/mjgs/latest-newsletter-alternative-dev-culture-issue-125-3n49)
 - [Lifehacker] [How to Survive the Summer When Summer Makes You Miserable](https://lifehacker.com/how-to-survive-the-summer-when-summer-makes-you-miserab-1796164224)
 - [Lifehacker] [This HD Portable Laptop Monitor Is 40% Off](https://lifehacker.com/this-hd-portable-laptop-monitor-is-40-off-1850675799)
 - [Lifehacker] [Where Have All the Barbie Video Games Gone?](https://lifehacker.com/where-have-all-the-barbie-video-games-gone-1850688080)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Download Apple Maps Offline in iOS 17](https://lifehacker.com/you-can-finally-download-apple-maps-offline-in-ios-17-1850685430)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Are You ‘Kenough’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-you-1850684769)
 - [Lifehacker] [Swap Tomatoes for Peaches, and Make a BLP](https://lifehacker.com/swap-tomatoes-for-peaches-and-make-a-blp-1850684519)
-- [Lifehacker] [My Two Favorite Tools for Calculating the Cost of a Road Trip](https://lifehacker.com/my-two-favorite-tools-for-calculating-the-cost-of-a-roa-1850683670)
-- [Lifehacker] [All the Ways to Use the Free Crap You Can Snag at the Hardware Store](https://lifehacker.com/all-the-ways-to-use-the-free-crap-you-can-snag-at-the-h-1850682859)<!-- TECH-POSTS:END -->
+- [Lifehacker] [My Two Favorite Tools for Calculating the Cost of a Road Trip](https://lifehacker.com/my-two-favorite-tools-for-calculating-the-cost-of-a-roa-1850683670)<!-- TECH-POSTS:END -->
 
 ---
 
