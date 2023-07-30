@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Do Contexts in Next.js 13 Make the Whole App Render on the Client?](https://dev.to/perssondennis/do-contexts-in-nextjs-13-make-the-whole-app-render-on-the-client-55bb)
 - [Lifehacker] [The Difference Between Unplugging and Recharging &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-unplugging-and-recharging-and-w-1850683355)
 - [Dev.to/JS] [React.memo is not memoization](https://dev.to/leo_lemos/reactmemo-is-not-memoization-4cpa)
 - [Dev.to/JS] [Where to put constants in a .vue file](https://dev.to/thejaredwilcurt/where-to-put-constants-in-a-vue-file-2k5h)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering JavaScript: Your Path to Proficiency with Code Examples](https://dev.to/idurar/mastering-javascript-your-path-to-proficiency-with-code-examples-48jo)
 - [Lifehacker] [Here’s When to Replace All Four Tires After Getting a Flat](https://lifehacker.com/here-s-when-to-replace-all-four-tires-after-getting-a-f-1850683287)
 - [Dev.to/JS] [Unleashing the Power of Server Components in React.js](https://dev.to/vale/unleashing-the-power-of-server-components-in-reactjs-kn4)
-- [Dev.to/JS] [How Do GPT-3.5, Bing, and Bard Explain Promises to a 5-Year-Old?](https://dev.to/shrihari/how-do-gpt-35-bing-and-bard-explain-promises-to-a-5-year-old-38kn)
 - [Lifehacker] [You Can Download Instructions for More Than 6,800 LEGO Kits for Free](https://lifehacker.com/you-can-download-instructions-for-more-than-6-800-lego-1850683478)
 - [Lifehacker] [The Easiest Ways to Keep Your Garage Cool During the Summer](https://lifehacker.com/the-easiest-ways-to-keep-your-garage-cool-during-the-su-1850683465)
 - [Lifehacker] [These Are the Best Cheap Hotel Chains in the U.S., According to Guests](https://lifehacker.com/these-are-the-best-cheap-hotel-chains-in-the-u-s-acco-1850683452)
