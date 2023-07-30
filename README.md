@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node/Express Template with TypeScript](https://dev.to/w3tsa/nodeexpress-template-with-typescript-2cgk)
 - [Dev.to/JS] [First day here](https://dev.to/shreyansh1410/first-day-here-49g)
 - [Dev.to/JS] [Do Contexts in Next.js 13 Make the Whole App Render on the Client?](https://dev.to/perssondennis/do-contexts-in-nextjs-13-make-the-whole-app-render-on-the-client-55bb)
 - [Lifehacker] [The Difference Between Unplugging and Recharging &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-unplugging-and-recharging-and-w-1850683355)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Beginner&#39;s Guide to Code Review: Building Stronger Collaborations and High-Quality Code](https://dev.to/hr21don/a-beginners-guide-to-code-review-building-stronger-collaborations-and-high-quality-code-1dmc)
 - [Dev.to/JS] [From Novice to Ninja: How I moved from getting scared of Errors to throwing and handling them gracefully](https://dev.to/danielasaboro/from-novice-to-ninja-how-i-moved-from-getting-scared-of-errors-to-throwing-and-handling-them-gracefully-598a)
 - [Dev.to/JS] [Why Are Two Similar Objects Not Equal in JavaScript?](https://dev.to/lalitkumawat1m/why-are-two-similar-objects-not-equal-in-javascript-4i0)
-- [Dev.to/JS] [Mastering JavaScript: Your Path to Proficiency with Code Examples](https://dev.to/idurar/mastering-javascript-your-path-to-proficiency-with-code-examples-48jo)
 - [Lifehacker] [Here’s When to Replace All Four Tires After Getting a Flat](https://lifehacker.com/here-s-when-to-replace-all-four-tires-after-getting-a-f-1850683287)
 - [Lifehacker] [You Can Download Instructions for More Than 6,800 LEGO Kits for Free](https://lifehacker.com/you-can-download-instructions-for-more-than-6-800-lego-1850683478)
 - [Lifehacker] [The Easiest Ways to Keep Your Garage Cool During the Summer](https://lifehacker.com/the-easiest-ways-to-keep-your-garage-cool-during-the-su-1850683465)
