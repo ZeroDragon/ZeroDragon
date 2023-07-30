@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering JavaScript: Your Path to Proficiency with Code Examples](https://dev.to/idurar/mastering-javascript-your-path-to-proficiency-with-code-examples-48jo)
+- [Lifehacker] [Here’s When to Replace All Four Tires After Getting a Flat](https://lifehacker.com/here-s-when-to-replace-all-four-tires-after-getting-a-f-1850683287)
+- [Dev.to/JS] [Unleashing the Power of Server Components in React.js](https://dev.to/vale/unleashing-the-power-of-server-components-in-reactjs-kn4)
+- [Dev.to/JS] [How Do GPT-3.5, Bing, and Bard Explain Promises to a 5-Year-Old?](https://dev.to/shrihari/how-do-gpt-35-bing-and-bard-explain-promises-to-a-5-year-old-38kn)
+- [Dev.to/JS] [The anarchy of web ecosystem](https://dev.to/olshamb/the-anarchy-of-web-ecosystem-1m14)
+- [Dev.to/JS] [WHAT IS EQUALITY IN JAVASCRIPT?](https://dev.to/maakai123/what-is-equality-and-boolean-logic-in-javascript-4o8c)
 - [Dev.to/JS] [Building a CodePen Alternative with Monaco Editor and VS Code Dark Theme](https://dev.to/sh20raj/building-a-codepen-alternative-with-monaco-editor-and-vs-code-dark-theme-j52)
 - [Dev.to/JS] [Decoding the Magic of React’s useEffect Hook](https://dev.to/vale/decoding-the-magic-of-reacts-useeffect-hook-1f0h)
 - [Dev.to/JS] [Simplifying State Management: A Practical Guide to Using Redux with React](https://dev.to/bilal1718/simplifying-state-management-a-practical-guide-to-using-redux-with-react-poa)
@@ -33,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to find the minimum value in a collection of primitives or objects with Javascript in 2023](https://dev.to/melvinvmegen/how-to-find-the-minimum-value-in-a-collection-of-primitives-or-objects-with-javascript-in-2023-3831)
 - [Dev.to/JS] [How to Setup AWS Authentication for React Applications](https://dev.to/mohammadfaisal/how-to-setup-aws-authentication-for-react-applications-87)
 - [Dev.to/JS] [Publishing my own React Native Radio Buttons Package](https://dev.to/neeleshrj/publishing-my-own-react-native-radio-buttons-package-38ip)
-- [Dev.to/JS] [Python Trending Weekly #13 &lpar;2023-07-29&rpar;](https://dev.to/chinesehuazhou/python-trending-weekly-13-2023-07-29-4ank)
-- [Dev.to/JS] [A Beginner&#39;s Guide to Creating Pagination in React.js](https://dev.to/sadeedpv/a-beginners-guide-to-creating-pagination-in-reactjs-2a35)
-- [Dev.to/JS] [Server Components: A New Feature in Next.js That You Need to Know About](https://dev.to/carrycooldude/server-components-a-new-feature-in-nextjs-that-you-need-to-know-about-3pck)
-- [Dev.to/JS] [👋 Hire a Top-Notch Website and Mobile App Developer for Your Next Project! 📱💻](https://dev.to/taheri_developers/hire-a-top-notch-website-and-mobile-app-developer-for-your-next-project-9pe)
-- [Dev.to/JS] [How To Improve Rendering Performance in a 1,000-Item React List](https://dev.to/mohammadfaisal/how-to-improve-rendering-performance-in-a-1000-item-react-list-152j)
 - [Lifehacker] [You Can Download Instructions for More Than 6,800 LEGO Kits for Free](https://lifehacker.com/you-can-download-instructions-for-more-than-6-800-lego-1850683478)
 - [Lifehacker] [The Easiest Ways to Keep Your Garage Cool During the Summer](https://lifehacker.com/the-easiest-ways-to-keep-your-garage-cool-during-the-su-1850683465)
 - [Lifehacker] [These Are the Best Cheap Hotel Chains in the U.S., According to Guests](https://lifehacker.com/these-are-the-best-cheap-hotel-chains-in-the-u-s-acco-1850683452)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My Favorite Gadgets and Tools for a Smoother Commute](https://lifehacker.com/my-favorite-gadgets-and-tools-for-a-smoother-commute-1850683554)
 - [Lifehacker] [How to Introduce Role Playing Into Your Sex Life](https://lifehacker.com/how-to-introduce-role-playing-into-your-sex-life-1850684587)
 - [Lifehacker] [20 Peacock Originals That Are Definitely Worth Watching](https://lifehacker.com/12-peacock-originals-that-are-definitely-worth-watching-1847731247)
-- [Lifehacker] [You Can Finally Download Apple Maps Offline in iOS 17](https://lifehacker.com/you-can-finally-download-apple-maps-offline-in-ios-17-1850685430)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Are You ‘Kenough’?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-you-1850684769)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Finally Download Apple Maps Offline in iOS 17](https://lifehacker.com/you-can-finally-download-apple-maps-offline-in-ios-17-1850685430)<!-- TECH-POSTS:END -->
 
 ---
 
