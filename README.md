@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to find the minimum value in a collection of primitives or objects with Javascript in 2023](https://dev.to/melvinvmegen/how-to-find-the-minimum-value-in-a-collection-of-primitives-or-objects-with-javascript-in-2023-3831)
+- [Dev.to/JS] [How to Setup AWS Authentication for React Applications](https://dev.to/mohammadfaisal/how-to-setup-aws-authentication-for-react-applications-87)
+- [Dev.to/JS] [Publishing my own React Native Radio Buttons Package](https://dev.to/neeleshrj/publishing-my-own-react-native-radio-buttons-package-38ip)
+- [Dev.to/JS] [Python Trending Weekly #13 &lpar;2023-07-29&rpar;](https://dev.to/chinesehuazhou/python-trending-weekly-13-2023-07-29-4ank)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Creating Pagination in React.js](https://dev.to/sadeedpv/a-beginners-guide-to-creating-pagination-in-reactjs-2a35)
 - [Dev.to/JS] [Server Components: A New Feature in Next.js That You Need to Know About](https://dev.to/carrycooldude/server-components-a-new-feature-in-nextjs-that-you-need-to-know-about-3pck)
 - [Dev.to/JS] [👋 Hire a Top-Notch Website and Mobile App Developer for Your Next Project! 📱💻](https://dev.to/taheri_developers/hire-a-top-notch-website-and-mobile-app-developer-for-your-next-project-9pe)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create your own WebDev IDE in Next.js](https://dev.to/dexter1122/create-your-own-webdev-ide-in-nextjs-f5j)
 - [Dev.to/JS] [How to use DigitalOcean Spaces with Laravel Voyager?](https://dev.to/bobbyiliev/how-to-use-digitalocean-spaces-with-laravel-voyager-4e35)
 - [Dev.to/JS] [Redux for State Management](https://dev.to/khaledbenyahya_/redux-for-state-management-3pc4)
-- [Dev.to/JS] [A step by step guideline on how to learn react from beginner to advanced](https://dev.to/sammyakali/a-step-by-step-guideline-on-how-to-learn-react-from-beginner-to-advanced-2f4k)
-- [Dev.to/JS] [🚀 Check out the 3 Best Full-Stack JS Frameworks of 2023! 🌟 Which one suits your next project? 🤔](https://dev.to/arjuncodess/check-out-the-3-best-full-stack-js-frameworks-of-2023-which-one-suits-your-next-project-4073)
-- [Dev.to/JS] [Data-to-Knowledge Transformation with AI Insights](https://dev.to/aiforme/data-to-knowledge-transformation-with-ai-insights-ajc)
-- [Dev.to/JS] [How to Generate Dynamic Sitemaps in Next.js](https://dev.to/tnvmadhav/how-to-generate-dynamic-sitemaps-in-nextjs-4n4g)
 - [Lifehacker] [You Can Download Instructions for More Than 6,800 LEGO Kits for Free](https://lifehacker.com/you-can-download-instructions-for-more-than-6-800-lego-1850683478)
 - [Lifehacker] [The Easiest Ways to Keep Your Garage Cool During the Summer](https://lifehacker.com/the-easiest-ways-to-keep-your-garage-cool-during-the-su-1850683465)
 - [Lifehacker] [These Are the Best Cheap Hotel Chains in the U.S., According to Guests](https://lifehacker.com/these-are-the-best-cheap-hotel-chains-in-the-u-s-acco-1850683452)
