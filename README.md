@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between Unplugging and Recharging &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-unplugging-and-recharging-and-w-1850683355)
+- [Dev.to/JS] [React.memo is not memoization](https://dev.to/leo_lemos/reactmemo-is-not-memoization-4cpa)
+- [Dev.to/JS] [Where to put constants in a .vue file](https://dev.to/thejaredwilcurt/where-to-put-constants-in-a-vue-file-2k5h)
 - [Dev.to/JS] [📝 Migrating from npm to pnpm: A Journey of Decisions and Experiences 🚀](https://dev.to/levinhphuc91/migrating-from-npm-to-pnpm-a-journey-of-decisions-and-experiences-35dp)
-- [Dev.to/JS] [React Hooks Library - Mantine Part 1](https://dev.to/shubhamtiwari909/react-hooks-library-mantine-part-1-ck6)
+- [Dev.to/JS] [Awesome React Hooks - Mantine Part 1](https://dev.to/shubhamtiwari909/react-hooks-library-mantine-part-1-ck6)
 - [Dev.to/JS] [Frontend And Backend Understanding the Differences](https://dev.to/amarachi_kanu_20/frontend-and-backend-understanding-the-differences-12i4)
 - [Dev.to/JS] [How to Improve React.Js Website Performance](https://dev.to/devashishmamgain/how-to-improve-reactjs-website-performance-4oo8)
 - [Lifehacker] [Avoid These Mistakes When Planting Trees in Your Yard](https://lifehacker.com/avoid-these-mistakes-when-planting-trees-in-your-yard-1850683296)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s When to Replace All Four Tires After Getting a Flat](https://lifehacker.com/here-s-when-to-replace-all-four-tires-after-getting-a-f-1850683287)
 - [Dev.to/JS] [Unleashing the Power of Server Components in React.js](https://dev.to/vale/unleashing-the-power-of-server-components-in-reactjs-kn4)
 - [Dev.to/JS] [How Do GPT-3.5, Bing, and Bard Explain Promises to a 5-Year-Old?](https://dev.to/shrihari/how-do-gpt-35-bing-and-bard-explain-promises-to-a-5-year-old-38kn)
-- [Dev.to/JS] [The anarchy of web ecosystem](https://dev.to/olshamb/the-anarchy-of-web-ecosystem-1m14)
-- [Dev.to/JS] [WHAT IS EQUALITY IN JAVASCRIPT?](https://dev.to/maakai123/what-is-equality-and-boolean-logic-in-javascript-4o8c)
 - [Lifehacker] [You Can Download Instructions for More Than 6,800 LEGO Kits for Free](https://lifehacker.com/you-can-download-instructions-for-more-than-6-800-lego-1850683478)
 - [Lifehacker] [The Easiest Ways to Keep Your Garage Cool During the Summer](https://lifehacker.com/the-easiest-ways-to-keep-your-garage-cool-during-the-su-1850683465)
 - [Lifehacker] [These Are the Best Cheap Hotel Chains in the U.S., According to Guests](https://lifehacker.com/these-are-the-best-cheap-hotel-chains-in-the-u-s-acco-1850683452)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [My Favorite Websites to Find the Best Travel Deals](https://lifehacker.com/my-favorite-websites-to-find-the-best-travel-deals-1850684316)
 - [Lifehacker] [You Can Get Microsoft Office and Windows 11 Pro for $50 Right Now](https://lifehacker.com/you-can-get-microsoft-office-and-windows-11-pro-for-50-1850675710)
 - [Lifehacker] [My Favorite Gadgets and Tools for a Smoother Commute](https://lifehacker.com/my-favorite-gadgets-and-tools-for-a-smoother-commute-1850683554)
-- [Lifehacker] [How to Introduce Role Playing Into Your Sex Life](https://lifehacker.com/how-to-introduce-role-playing-into-your-sex-life-1850684587)
-- [Lifehacker] [20 Peacock Originals That Are Definitely Worth Watching](https://lifehacker.com/12-peacock-originals-that-are-definitely-worth-watching-1847731247)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Introduce Role Playing Into Your Sex Life](https://lifehacker.com/how-to-introduce-role-playing-into-your-sex-life-1850684587)<!-- TECH-POSTS:END -->
 
 ---
 
