@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Generate Dynamic Sitemaps in Next.js](https://dev.to/tnvmadhav/how-to-generate-dynamic-sitemaps-in-nextjs-4n4g)
+- [Dev.to/JS] [Building a React/Express Stripe Donation Form](https://dev.to/wra-sol/building-a-reactexpress-stripe-donation-form-2pek)
 - [Dev.to/JS] [Tập Đoàn Hồng Hải Tuyển Dụng](https://dev.to/kiemtienonlinefacebooks/tap-doan-hong-hai-tuyen-dung-37jl)
 - [Dev.to/JS] [From Novice to Sorcerer: Unraveling Frontend and Backend Brilliance in Web Development](https://dev.to/arbythecoder/from-novice-to-sorcerer-unraveling-frontend-and-backend-brilliance-in-web-development-1o7f)
 - [Dev.to/JS] [Understanding JavaScript Object Constructors](https://dev.to/jacknorman235/understanding-javascript-object-constructors-13d9)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deploying a PERN Full-Stack CRUD App with Vercel: Hosting and Integration Made Easy!](https://dev.to/fetterollie/deploying-a-pern-full-stack-crud-app-with-vercel-hosting-and-integration-made-easy-44fk)
 - [Lifehacker] [You Can Download Instructions for More Than 6,800 LEGO Kits for Free](https://lifehacker.com/you-can-download-instructions-for-more-than-6-800-lego-1850683478)
 - [Dev.to/JS] [TypeScript Basics: Supercharge Your JavaScript with Strong Typing](https://dev.to/leandro_nnz/typescript-basics-supercharge-your-javascript-with-strong-typing-1961)
-- [Dev.to/JS] [Which skill a remote web developer should have?](https://dev.to/khanhdevos/which-skill-a-remote-web-developer-should-have-969)
-- [Dev.to/JS] [Effortless Star Rating Implementation with custom useStar Visualization hook in React](https://dev.to/aikay/effortless-star-rating-implementation-with-custom-usestar-visualization-hook-in-react-hk1)
 - [Lifehacker] [The Easiest Ways to Keep Your Garage Cool During the Summer](https://lifehacker.com/the-easiest-ways-to-keep-your-garage-cool-during-the-su-1850683465)
 - [Lifehacker] [These Are the Best Cheap Hotel Chains in the U.S., According to Guests](https://lifehacker.com/these-are-the-best-cheap-hotel-chains-in-the-u-s-acco-1850683452)
 - [Lifehacker] [How to Survive the Summer When Summer Makes You Miserable](https://lifehacker.com/how-to-survive-the-summer-when-summer-makes-you-miserab-1796164224)
