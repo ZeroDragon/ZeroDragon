@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Redux for State Management](https://dev.to/khaledbenyahya_/redux-for-state-management-3pc4)
 - [Dev.to/JS] [A step by step guideline on how to learn react from beginner to advanced](https://dev.to/sammyakali/a-step-by-step-guideline-on-how-to-learn-react-from-beginner-to-advanced-2f4k)
 - [Dev.to/JS] [🚀 Check out the 3 Best Full-Stack JS Frameworks of 2023! 🌟 Which one suits your next project? 🤔](https://dev.to/arjuncodess/check-out-the-3-best-full-stack-js-frameworks-of-2023-which-one-suits-your-next-project-4073)
 - [Dev.to/JS] [Data-to-Knowledge Transformation with AI Insights](https://dev.to/aiforme/data-to-knowledge-transformation-with-ai-insights-ajc)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Scripts](https://dev.to/pixeljuggernaut/javascript-scripts-3bj6)
 - [Dev.to/JS] [Frontend codes](https://dev.to/pixeljuggernaut/frontend-codes-364m)
 - [Dev.to/JS] [my first web project and stuff about life](https://dev.to/shrey802/my-first-web-project-and-stuff-about-life-3d05)
-- [Dev.to/JS] [Mocha and Chai Unit Testing &lpar;node js&rpar;](https://dev.to/shrey802/mocha-and-chai-unit-testing-node-js-2ko)
 - [Lifehacker] [You Can Download Instructions for More Than 6,800 LEGO Kits for Free](https://lifehacker.com/you-can-download-instructions-for-more-than-6-800-lego-1850683478)
 - [Lifehacker] [The Easiest Ways to Keep Your Garage Cool During the Summer](https://lifehacker.com/the-easiest-ways-to-keep-your-garage-cool-during-the-su-1850683465)
 - [Lifehacker] [These Are the Best Cheap Hotel Chains in the U.S., According to Guests](https://lifehacker.com/these-are-the-best-cheap-hotel-chains-in-the-u-s-acco-1850683452)
