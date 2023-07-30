@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Beginner&#39;s Guide to Code Review: Building Stronger Collaborations and High-Quality Code](https://dev.to/hr21don/a-beginners-guide-to-code-review-building-stronger-collaborations-and-high-quality-code-1dmc)
+- [Dev.to/JS] [From Novice to Ninja: How I moved from getting scared of Errors to throwing and handling them gracefully](https://dev.to/danielasaboro/from-novice-to-ninja-how-i-moved-from-getting-scared-of-errors-to-throwing-and-handling-them-gracefully-598a)
+- [Dev.to/JS] [Why Are Two Similar Objects Not Equal in JavaScript?](https://dev.to/lalitkumawat1m/why-are-two-similar-objects-not-equal-in-javascript-4i0)
 - [Dev.to/JS] [Mastering JavaScript: Your Path to Proficiency with Code Examples](https://dev.to/idurar/mastering-javascript-your-path-to-proficiency-with-code-examples-48jo)
 - [Lifehacker] [Here’s When to Replace All Four Tires After Getting a Flat](https://lifehacker.com/here-s-when-to-replace-all-four-tires-after-getting-a-f-1850683287)
 - [Dev.to/JS] [Unleashing the Power of Server Components in React.js](https://dev.to/vale/unleashing-the-power-of-server-components-in-reactjs-kn4)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Decoding the Magic of React’s useEffect Hook](https://dev.to/vale/decoding-the-magic-of-reacts-useeffect-hook-1f0h)
 - [Dev.to/JS] [Simplifying State Management: A Practical Guide to Using Redux with React](https://dev.to/bilal1718/simplifying-state-management-a-practical-guide-to-using-redux-with-react-poa)
 - [Dev.to/JS] [A short technical introduction to JavaScript](https://dev.to/odus_ex/a-short-technical-introduction-to-javascript-13a0)
-- [Dev.to/JS] [How to find the minimum value in a collection of primitives or objects with Javascript in 2023](https://dev.to/melvinvmegen/how-to-find-the-minimum-value-in-a-collection-of-primitives-or-objects-with-javascript-in-2023-3831)
-- [Dev.to/JS] [How to Setup AWS Authentication for React Applications](https://dev.to/mohammadfaisal/how-to-setup-aws-authentication-for-react-applications-87)
-- [Dev.to/JS] [Publishing my own React Native Radio Buttons Package](https://dev.to/neeleshrj/publishing-my-own-react-native-radio-buttons-package-38ip)
 - [Lifehacker] [You Can Download Instructions for More Than 6,800 LEGO Kits for Free](https://lifehacker.com/you-can-download-instructions-for-more-than-6-800-lego-1850683478)
 - [Lifehacker] [The Easiest Ways to Keep Your Garage Cool During the Summer](https://lifehacker.com/the-easiest-ways-to-keep-your-garage-cool-during-the-su-1850683465)
 - [Lifehacker] [These Are the Best Cheap Hotel Chains in the U.S., According to Guests](https://lifehacker.com/these-are-the-best-cheap-hotel-chains-in-the-u-s-acco-1850683452)
