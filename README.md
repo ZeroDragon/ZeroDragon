@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a CodePen Alternative with Monaco Editor and VS Code Dark Theme](https://dev.to/sh20raj/building-a-codepen-alternative-with-monaco-editor-and-vs-code-dark-theme-j52)
+- [Dev.to/JS] [Decoding the Magic of React’s useEffect Hook](https://dev.to/vale/decoding-the-magic-of-reacts-useeffect-hook-1f0h)
+- [Dev.to/JS] [Simplifying State Management: A Practical Guide to Using Redux with React](https://dev.to/bilal1718/simplifying-state-management-a-practical-guide-to-using-redux-with-react-poa)
+- [Dev.to/JS] [A short technical introduction to JavaScript](https://dev.to/odus_ex/a-short-technical-introduction-to-javascript-13a0)
 - [Dev.to/JS] [How to find the minimum value in a collection of primitives or objects with Javascript in 2023](https://dev.to/melvinvmegen/how-to-find-the-minimum-value-in-a-collection-of-primitives-or-objects-with-javascript-in-2023-3831)
 - [Dev.to/JS] [How to Setup AWS Authentication for React Applications](https://dev.to/mohammadfaisal/how-to-setup-aws-authentication-for-react-applications-87)
 - [Dev.to/JS] [Publishing my own React Native Radio Buttons Package](https://dev.to/neeleshrj/publishing-my-own-react-native-radio-buttons-package-38ip)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Server Components: A New Feature in Next.js That You Need to Know About](https://dev.to/carrycooldude/server-components-a-new-feature-in-nextjs-that-you-need-to-know-about-3pck)
 - [Dev.to/JS] [👋 Hire a Top-Notch Website and Mobile App Developer for Your Next Project! 📱💻](https://dev.to/taheri_developers/hire-a-top-notch-website-and-mobile-app-developer-for-your-next-project-9pe)
 - [Dev.to/JS] [How To Improve Rendering Performance in a 1,000-Item React List](https://dev.to/mohammadfaisal/how-to-improve-rendering-performance-in-a-1000-item-react-list-152j)
-- [Dev.to/JS] [Неявне приведення типів у Javascript &lpar;Implicit Coercion&rpar;](https://dev.to/betelgeuseas/javascripts-implicit-coercion-hfj)
-- [Dev.to/JS] [Create your own WebDev IDE in Next.js](https://dev.to/dexter1122/create-your-own-webdev-ide-in-nextjs-f5j)
-- [Dev.to/JS] [How to use DigitalOcean Spaces with Laravel Voyager?](https://dev.to/bobbyiliev/how-to-use-digitalocean-spaces-with-laravel-voyager-4e35)
-- [Dev.to/JS] [Redux for State Management](https://dev.to/khaledbenyahya_/redux-for-state-management-3pc4)
 - [Lifehacker] [You Can Download Instructions for More Than 6,800 LEGO Kits for Free](https://lifehacker.com/you-can-download-instructions-for-more-than-6-800-lego-1850683478)
 - [Lifehacker] [The Easiest Ways to Keep Your Garage Cool During the Summer](https://lifehacker.com/the-easiest-ways-to-keep-your-garage-cool-during-the-su-1850683465)
 - [Lifehacker] [These Are the Best Cheap Hotel Chains in the U.S., According to Guests](https://lifehacker.com/these-are-the-best-cheap-hotel-chains-in-the-u-s-acco-1850683452)
