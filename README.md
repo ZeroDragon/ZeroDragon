@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [📝 Migrating from npm to pnpm: A Journey of Decisions and Experiences 🚀](https://dev.to/levinhphuc91/migrating-from-npm-to-pnpm-a-journey-of-decisions-and-experiences-35dp)
+- [Dev.to/JS] [React Hooks Library - Mantine Part 1](https://dev.to/shubhamtiwari909/react-hooks-library-mantine-part-1-ck6)
+- [Dev.to/JS] [Frontend And Backend Understanding the Differences](https://dev.to/amarachi_kanu_20/frontend-and-backend-understanding-the-differences-12i4)
+- [Dev.to/JS] [How to Improve React.Js Website Performance](https://dev.to/devashishmamgain/how-to-improve-reactjs-website-performance-4oo8)
 - [Lifehacker] [Avoid These Mistakes When Planting Trees in Your Yard](https://lifehacker.com/avoid-these-mistakes-when-planting-trees-in-your-yard-1850683296)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Code Review: Building Stronger Collaborations and High-Quality Code](https://dev.to/hr21don/a-beginners-guide-to-code-review-building-stronger-collaborations-and-high-quality-code-1dmc)
 - [Dev.to/JS] [From Novice to Ninja: How I moved from getting scared of Errors to throwing and handling them gracefully](https://dev.to/danielasaboro/from-novice-to-ninja-how-i-moved-from-getting-scared-of-errors-to-throwing-and-handling-them-gracefully-598a)
@@ -36,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Do GPT-3.5, Bing, and Bard Explain Promises to a 5-Year-Old?](https://dev.to/shrihari/how-do-gpt-35-bing-and-bard-explain-promises-to-a-5-year-old-38kn)
 - [Dev.to/JS] [The anarchy of web ecosystem](https://dev.to/olshamb/the-anarchy-of-web-ecosystem-1m14)
 - [Dev.to/JS] [WHAT IS EQUALITY IN JAVASCRIPT?](https://dev.to/maakai123/what-is-equality-and-boolean-logic-in-javascript-4o8c)
-- [Dev.to/JS] [Building a CodePen Alternative with Monaco Editor and VS Code Dark Theme](https://dev.to/sh20raj/building-a-codepen-alternative-with-monaco-editor-and-vs-code-dark-theme-j52)
-- [Dev.to/JS] [Decoding the Magic of React’s useEffect Hook](https://dev.to/vale/decoding-the-magic-of-reacts-useeffect-hook-1f0h)
-- [Dev.to/JS] [Simplifying State Management: A Practical Guide to Using Redux with React](https://dev.to/bilal1718/simplifying-state-management-a-practical-guide-to-using-redux-with-react-poa)
-- [Dev.to/JS] [A short technical introduction to JavaScript](https://dev.to/odus_ex/a-short-technical-introduction-to-javascript-13a0)
 - [Lifehacker] [You Can Download Instructions for More Than 6,800 LEGO Kits for Free](https://lifehacker.com/you-can-download-instructions-for-more-than-6-800-lego-1850683478)
 - [Lifehacker] [The Easiest Ways to Keep Your Garage Cool During the Summer](https://lifehacker.com/the-easiest-ways-to-keep-your-garage-cool-during-the-su-1850683465)
 - [Lifehacker] [These Are the Best Cheap Hotel Chains in the U.S., According to Guests](https://lifehacker.com/these-are-the-best-cheap-hotel-chains-in-the-u-s-acco-1850683452)
