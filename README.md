@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [From Novice to Sorcerer: Unraveling Frontend and Backend Brilliance in Web Development](https://dev.to/arbythecoder/from-novice-to-sorcerer-unraveling-frontend-and-backend-brilliance-in-web-development-1o7f)
 - [Dev.to/JS] [Understanding JavaScript Object Constructors](https://dev.to/jacknorman235/understanding-javascript-object-constructors-13d9)
 - [Dev.to/JS] [Javascript Scripts](https://dev.to/pixeljuggernaut/javascript-scripts-3bj6)
 - [Dev.to/JS] [Frontend codes](https://dev.to/pixeljuggernaut/frontend-codes-364m)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Effortless Star Rating Implementation with custom useStar Visualization hook in React](https://dev.to/aikay/effortless-star-rating-implementation-with-custom-usestar-visualization-hook-in-react-hk1)
 - [Lifehacker] [The Easiest Ways to Keep Your Garage Cool During the Summer](https://lifehacker.com/the-easiest-ways-to-keep-your-garage-cool-during-the-su-1850683465)
 - [Dev.to/JS] [Drag and Drop with Next.js and Builder](https://dev.to/builderio/drag-and-drop-with-nextjs-and-builder-4olk)
-- [Dev.to/JS] [Defer JavaScript for Faster Load Time](https://dev.to/jazurite/defer-javascript-for-faster-load-time-io7)
 - [Lifehacker] [These Are the Best Cheap Hotel Chains in the U.S., According to Guests](https://lifehacker.com/these-are-the-best-cheap-hotel-chains-in-the-u-s-acco-1850683452)
 - [Lifehacker] [How to Survive the Summer When Summer Makes You Miserable](https://lifehacker.com/how-to-survive-the-summer-when-summer-makes-you-miserab-1796164224)
 - [Lifehacker] [This HD Portable Laptop Monitor Is 40% Off](https://lifehacker.com/this-hd-portable-laptop-monitor-is-40-off-1850675799)
