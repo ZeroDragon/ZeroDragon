@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Avoid These Mistakes When Planting Trees in Your Yard](https://lifehacker.com/avoid-these-mistakes-when-planting-trees-in-your-yard-1850683296)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Code Review: Building Stronger Collaborations and High-Quality Code](https://dev.to/hr21don/a-beginners-guide-to-code-review-building-stronger-collaborations-and-high-quality-code-1dmc)
 - [Dev.to/JS] [From Novice to Ninja: How I moved from getting scared of Errors to throwing and handling them gracefully](https://dev.to/danielasaboro/from-novice-to-ninja-how-i-moved-from-getting-scared-of-errors-to-throwing-and-handling-them-gracefully-598a)
 - [Dev.to/JS] [Why Are Two Similar Objects Not Equal in JavaScript?](https://dev.to/lalitkumawat1m/why-are-two-similar-objects-not-equal-in-javascript-4i0)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Microsoft Office and Windows 11 Pro for $50 Right Now](https://lifehacker.com/you-can-get-microsoft-office-and-windows-11-pro-for-50-1850675710)
 - [Lifehacker] [My Favorite Gadgets and Tools for a Smoother Commute](https://lifehacker.com/my-favorite-gadgets-and-tools-for-a-smoother-commute-1850683554)
 - [Lifehacker] [How to Introduce Role Playing Into Your Sex Life](https://lifehacker.com/how-to-introduce-role-playing-into-your-sex-life-1850684587)
-- [Lifehacker] [20 Peacock Originals That Are Definitely Worth Watching](https://lifehacker.com/12-peacock-originals-that-are-definitely-worth-watching-1847731247)
-- [Lifehacker] [You Can Finally Download Apple Maps Offline in iOS 17](https://lifehacker.com/you-can-finally-download-apple-maps-offline-in-ios-17-1850685430)<!-- TECH-POSTS:END -->
+- [Lifehacker] [20 Peacock Originals That Are Definitely Worth Watching](https://lifehacker.com/12-peacock-originals-that-are-definitely-worth-watching-1847731247)<!-- TECH-POSTS:END -->
 
 ---
 
