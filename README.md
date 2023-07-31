@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The War Between ChatGPT, Bing Chat, and Google Bard](https://lifehacker.com/the-war-between-chatgpt-bing-chat-and-google-bard-1850575579)
+- [Dev.to/JS] [🔥 Building an email automation system with React Flow and Resend 🎉](https://dev.to/novu/building-an-email-automation-system-with-react-flow-and-resend-17b5)
+- [Dev.to/JS] [Building an HackerNews to Discord notification system using Node.js, node-cron and discord-notification.](https://dev.to/dev_bre/building-an-hackernews-to-discord-notification-system-using-nodejs-node-cron-and-discord-notification-3087)
+- [Lifehacker] [Your Ultimate AI Glossary](https://lifehacker.com/your-ultimate-ai-glossary-1850575803)
+- [Dev.to/JS] [Responsive Web Design: Creating User-Friendly Experiences Across Devices](https://dev.to/keertiinvisor/responsive-web-design-creating-user-friendly-experiences-across-devices-dj5)
 - [Lifehacker] [From 1950 to Today: The History of AI &lpar;so Far&rpar;](https://lifehacker.com/from-1950-to-today-the-history-of-ai-so-far-1850557354)
 - [Dev.to/JS] [Using invisible divs in GitHub Discussions as a key-value store](https://dev.to/slickstef11/using-invisible-divs-in-github-discussions-as-a-key-value-store-58d1)
 - [Dev.to/JS] [Understanding JS Build Tools &lpar;Part 2: Bundling and Transforming&rpar;](https://dev.to/joshcarvel/understanding-js-build-tools-part-2-bundling-and-transforming-2p39)
@@ -36,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Taming Badly Typed External Libraries - How Zod Boosts Type Safety](https://dev.to/brainhubeu/taming-badly-typed-external-libraries-how-zod-boosts-type-safety-4jog)
 - [Dev.to/JS] [TypeScript simple patterns for Web Developers](https://dev.to/dylantuna/typescript-simple-patterns-for-web-developers-325l)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, Jul 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-4-jul-2023-59jo)
-- [Dev.to/JS] [Create an URL Shortener Using Rebrandly API and LocalStorage](https://dev.to/sh20raj/create-an-url-shortener-using-rebrandly-api-and-localstorage-1j14)
-- [Dev.to/JS] [Controlled Elements &amp; String to Number Conversion](https://dev.to/wasimapinjari/controlled-elements-string-to-number-conversion-1op4)
-- [Dev.to/JS] [5 Lợi Ích Khi Dán Phim Cách Nhiệt Nhà Kính Không Nên Bỏ Qua](https://dev.to/akfilmcomvn/5-loi-ich-khi-dan-phim-cach-nhiet-nha-kinh-khong-nen-bo-qua-37cj)
 - [Lifehacker] [The Difference Between Unplugging and Recharging &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-unplugging-and-recharging-and-w-1850683355)
 - [Lifehacker] [Avoid These Mistakes When Planting Trees in Your Yard](https://lifehacker.com/avoid-these-mistakes-when-planting-trees-in-your-yard-1850683296)
 - [Lifehacker] [Here’s When to Replace All Four Tires After Getting a Flat](https://lifehacker.com/here-s-when-to-replace-all-four-tires-after-getting-a-f-1850683287)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Link Notes to Each Other in iOS 17](https://lifehacker.com/you-can-finally-link-notes-to-each-other-in-ios-17-1850685424)
 - [Lifehacker] [The Best Way to Bulk Export Your Apple Notes](https://lifehacker.com/the-best-way-to-bulk-export-your-apple-notes-1850685680)
 - [Lifehacker] [The Most Effective Way to Deep-Clean Your Fridge](https://lifehacker.com/de-stink-your-fridge-for-good-with-this-deep-cleaning-r-1786969699)
-- [Lifehacker] [My Favorite Websites to Find the Best Travel Deals](https://lifehacker.com/my-favorite-websites-to-find-the-best-travel-deals-1850684316)
-- [Lifehacker] [You Can Get Microsoft Office and Windows 11 Pro for $50 Right Now](https://lifehacker.com/you-can-get-microsoft-office-and-windows-11-pro-for-50-1850675710)
-- [Lifehacker] [My Favorite Gadgets and Tools for a Smoother Commute](https://lifehacker.com/my-favorite-gadgets-and-tools-for-a-smoother-commute-1850683554)<!-- TECH-POSTS:END -->
+- [Lifehacker] [My Favorite Websites to Find the Best Travel Deals](https://lifehacker.com/my-favorite-websites-to-find-the-best-travel-deals-1850684316)<!-- TECH-POSTS:END -->
 
 ---
 
