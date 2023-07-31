@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Polished: Simplificando a Manipulação de Estilos CSS em Projetos React](https://dev.to/hmontarroyos/polished-simplificando-a-manipulacao-de-estilos-css-em-projetos-react-1g35)
+- [Dev.to/JS] [bloc-them : JS UI framework, learn it in 15 minutes](https://dev.to/anuragvohraec/bloc-them-js-ui-framework-learn-it-in-15-minutes-4ncn)
+- [Dev.to/JS] [Taming Badly Typed External Libraries - How Zod Boosts Type Safety](https://dev.to/brainhubeu/taming-badly-typed-external-libraries-how-zod-boosts-type-safety-4jog)
 - [Dev.to/JS] [TypeScript simple patterns for Web Developers](https://dev.to/dylantuna/typescript-simple-patterns-for-web-developers-325l)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, Jul 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-4-jul-2023-59jo)
 - [Dev.to/JS] [Create an URL Shortener Using Rebrandly API and LocalStorage](https://dev.to/sh20raj/create-an-url-shortener-using-rebrandly-api-and-localstorage-1j14)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Hooks Explained: A Comprehensive Guide to Stateful Function Components](https://dev.to/kwakyebrilliant/react-hooks-explained-a-comprehensive-guide-to-stateful-function-components-1h0d)
 - [Dev.to/JS] [Creating a YouTube Tags Generator Website: The Making of ResearchedTags](https://dev.to/sh20raj/creating-a-youtube-tags-generator-website-the-making-of-researchedtags-d6c)
 - [Dev.to/JS] [5 Things Every Javascript Developer Should Know](https://dev.to/bindupatidar/5-things-every-javascript-developer-should-know-38g5)
-- [Dev.to/JS] [Front end practice: Top 25+ Javascript code best practices for development](https://dev.to/lakshmananarumugam/front-end-practice-top-25-javascript-code-best-practices-for-development-4c1d)
-- [Dev.to/JS] [Hi community](https://dev.to/theone590/hi-community-17i3)
-- [Dev.to/JS] [Moving to a new developer Twitter / X.com](https://dev.to/jwhubert91/moving-to-a-new-developer-twitter-xcom-3fh5)
 - [Lifehacker] [The Difference Between Unplugging and Recharging &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-unplugging-and-recharging-and-w-1850683355)
 - [Lifehacker] [Avoid These Mistakes When Planting Trees in Your Yard](https://lifehacker.com/avoid-these-mistakes-when-planting-trees-in-your-yard-1850683296)
 - [Lifehacker] [Here’s When to Replace All Four Tires After Getting a Flat](https://lifehacker.com/here-s-when-to-replace-all-four-tires-after-getting-a-f-1850683287)
