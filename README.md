@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make Summer Cooking Tolerable With These Tools](https://lifehacker.com/make-summer-cooking-tolerable-with-these-tools-1850690788)
+- [Lifehacker] [Why the Hell Did We Ever Stop Wearing Sweatbands?](https://lifehacker.com/why-the-hell-did-we-ever-stop-wearing-sweatbands-1848156420)
 - [Lifehacker] [Trader Joe’s Falafel Might Contain Rocks, Too](https://lifehacker.com/trader-joe-s-falafel-might-contain-rocks-too-1850692151)
+- [Dev.to/JS] [Make your life easier by using Code-Snippets in VSCode](https://dev.to/hassansuhaib/make-your-life-easier-by-using-code-snippets-in-vscode-195k)
 - [Dev.to/JS] [Applying the Open-Closed Principle To Write Clean React Components](https://dev.to/mohammadfaisal/applying-the-open-closed-principle-to-write-clean-react-components-400o)
 - [Lifehacker] [Save Money With These Wifi-Enabled Smart Watering Devices](https://lifehacker.com/save-money-with-these-wifi-enabled-smart-watering-devic-1850690739)
 - [Lifehacker] [Keep Your Dog Cool With These DIY Frozen Treats](https://lifehacker.com/these-diy-frozen-treats-keep-your-dog-cool-when-its-hot-1725159956)
@@ -43,10 +46,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Welcome To The Permanent Digital Web!](https://dev.to/vonthecreat0r/welcome-to-the-permanent-digital-web-2gk0)
 - [Dev.to/JS] [Using for await...of to Iterate Over Synchronous and Asynchronous Arrays in JavaScript](https://dev.to/tgmarinhodev/using-for-awaitof-to-iterate-over-synchronous-and-asynchronous-arrays-in-javascript-31n2)
 - [Lifehacker] [Why Our Laws and Regulations Aren’t Ready for AI](https://lifehacker.com/why-our-laws-and-regulations-aren-t-ready-for-ai-1850671379)
-- [Dev.to/JS] [Ng-News 23/30](https://dev.to/this-is-angular/ng-news-2330-4pan)
+- [Dev.to/JS] [Ng-News 23/30: Component Libraries, Signal-based Change Detection, Signal Dependency Graph](https://dev.to/this-is-angular/ng-news-2330-4pan)
 - [Lifehacker] [OpenAI’s &#39;Pay As You Go&#39; Is the Best Way to Use ChatGPT](https://lifehacker.com/openai-s-pay-as-you-go-is-the-best-way-to-use-chatgpt-1850318349)
 - [Dev.to/JS] [25 Stories To Learn About Asynchronous](https://dev.to/learnrepo/25-stories-to-learn-about-asynchronous-3k2m)
-- [Dev.to/JS] [#TIL WebAPI: Intl.NumberFormat](https://dev.to/wojciech_space/til-webapi-intlnumberformat-d9o)
 - [Lifehacker] [Four Ways to Build AI Tools Without Knowing How to Code](https://lifehacker.com/the-best-ways-to-build-ai-tools-without-knowing-how-to-1850535556)
 - [Lifehacker] [When It’s OK to Use AI at Work &lpar;and When It&#39;s Not&rpar;](https://lifehacker.com/when-it-s-ok-to-use-ai-at-work-and-when-its-not-1850683978)
 - [Lifehacker] [10 Fictional AI, Ranked by How Likely They Are to Kill Us All](https://lifehacker.com/10-fictional-ai-ranked-by-how-likely-they-are-to-kill-1850368045)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s When to Replace All Four Tires After Getting a Flat](https://lifehacker.com/here-s-when-to-replace-all-four-tires-after-getting-a-f-1850683287)
 - [Lifehacker] [You Can Download Instructions for More Than 6,800 LEGO Kits for Free](https://lifehacker.com/you-can-download-instructions-for-more-than-6-800-lego-1850683478)
 - [Lifehacker] [The Easiest Ways to Keep Your Garage Cool During the Summer](https://lifehacker.com/the-easiest-ways-to-keep-your-garage-cool-during-the-su-1850683465)
-- [Lifehacker] [These Are the Best Cheap Hotel Chains in the U.S., According to Guests](https://lifehacker.com/these-are-the-best-cheap-hotel-chains-in-the-u-s-acco-1850683452)
-- [Lifehacker] [How to Survive the Summer When Summer Makes You Miserable](https://lifehacker.com/how-to-survive-the-summer-when-summer-makes-you-miserab-1796164224)
-- [Lifehacker] [This HD Portable Laptop Monitor Is 40% Off](https://lifehacker.com/this-hd-portable-laptop-monitor-is-40-off-1850675799)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Cheap Hotel Chains in the U.S., According to Guests](https://lifehacker.com/these-are-the-best-cheap-hotel-chains-in-the-u-s-acco-1850683452)<!-- TECH-POSTS:END -->
 
 ---
 
