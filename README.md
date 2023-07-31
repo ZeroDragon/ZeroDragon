@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to encrypt and decrypt text in javascript client side with AES CFB 256](https://dev.to/redclouds/how-to-encrypt-and-decrypt-text-in-javascript-client-side-with-aes-cfb-256-2fi7)
+- [Dev.to/JS] [Discovering Svelte: Things I Learned While Using Svelte](https://dev.to/posandu/discovering-svelte-things-i-learned-while-using-svelte-37m5)
+- [Dev.to/JS] [How to efficiently scrape millions of Google Businesses on a large scale using a distributed crawler](https://dev.to/tonywangca/how-to-efficiently-scrape-millions-of-google-businesses-on-a-large-scale-using-a-distributed-crawler-3lkp)
+- [Lifehacker] [How AI Is Used to Scam You &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/how-ai-is-used-to-scam-you-and-what-you-can-do-about-i-1850688732)
+- [Lifehacker] [When You Ask AI to Write an Obituary](https://lifehacker.com/when-you-ask-ai-to-write-an-obituary-1850502065)
+- [Lifehacker] [The Ethics of Making &lpar;and Publishing&rpar; AI Art](https://lifehacker.com/the-ethics-of-making-and-publishing-ai-art-1850688734)
 - [Dev.to/JS] [NodeIterator and TreeWalker Web APIs](https://dev.to/abbeyperini/nodeiterator-and-treewalker-web-apis-278p)
 - [Dev.to/JS] [How make Commead line app using Node.js](https://dev.to/3azizo/how-make-commead-line-app-using-nodejs-15pl)
 - [Dev.to/JS] [Welcome To The Permanent Digital Web!](https://dev.to/vonthecreat0r/welcome-to-the-permanent-digital-web-2gk0)
@@ -41,16 +47,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Fictional AI, Ranked by How Likely They Are to Kill Us All](https://lifehacker.com/10-fictional-ai-ranked-by-how-likely-they-are-to-kill-1850368045)
 - [Dev.to/JS] [Learn bicep based on the GUI of Azure Portal](https://dev.to/robertblazor/learn-bicep-based-on-the-gui-of-azure-portal-3pbk)
 - [Lifehacker] [A Beginner&#39;s Guide to Using ChatGPT Plugins](https://lifehacker.com/a-beginners-guide-to-using-chatgpt-plugins-1850578719)
-- [Dev.to/JS] [Código limpio en el desarrollo de software.](https://dev.to/miigangls/codigo-limpio-en-el-desarrollo-de-software-3c67)
-- [Dev.to/JS] [I published my First App on Google PlayStore 😍😍✨](https://dev.to/dilane3/i-publishee-my-first-app-on-google-playstore-3g5i)
-- [Dev.to/JS] [Day15: Hell of callbacks](https://dev.to/dhrn/day15-hell-of-callbacks-ef3)
 - [Lifehacker] [11 AI-Powered Apps That Are Actually Useful](https://lifehacker.com/11-ai-powered-apps-that-are-actually-useful-1850653084)
 - [Lifehacker] [Advice I Wish Someone Had Given Me After Graduating High School](https://lifehacker.com/advice-i-wish-someone-had-given-me-after-graduating-hig-1573178134)
 - [Lifehacker] [How to Tell When an Artificial Intelligence Is &#39;Hallucinating&#39;](https://lifehacker.com/how-to-tell-when-an-artificial-intelligence-is-hallucin-1850280001)
 - [Lifehacker] [The War Between ChatGPT, Bing Chat, and Google Bard](https://lifehacker.com/the-war-between-chatgpt-bing-chat-and-google-bard-1850575579)
 - [Lifehacker] [Your Ultimate AI Glossary](https://lifehacker.com/your-ultimate-ai-glossary-1850575803)
 - [Lifehacker] [You Can Try Auto-GPT, the Next Generation of ChatGPT, Right Now](https://lifehacker.com/you-can-try-auto-gpt-the-next-generation-of-chatgpt-r-1850343691)
-- [Lifehacker] [From 1950 to Today: The History of AI &lpar;so Far&rpar;](https://lifehacker.com/from-1950-to-today-the-history-of-ai-so-far-1850557354)
+- [Lifehacker] [From 1950 to Today: A Brief History of AI &lpar;so Far&rpar;](https://lifehacker.com/from-1950-to-today-the-history-of-ai-so-far-1850557354)
 - [Lifehacker] [The Difference Between Unplugging and Recharging &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-unplugging-and-recharging-and-w-1850683355)
 - [Lifehacker] [Avoid These Mistakes When Planting Trees in Your Yard](https://lifehacker.com/avoid-these-mistakes-when-planting-trees-in-your-yard-1850683296)
 - [Lifehacker] [Here’s When to Replace All Four Tires After Getting a Flat](https://lifehacker.com/here-s-when-to-replace-all-four-tires-after-getting-a-f-1850683287)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where Have All the Barbie Video Games Gone?](https://lifehacker.com/where-have-all-the-barbie-video-games-gone-1850688080)
 - [Lifehacker] [The Most Clever Google Maps Settings Everyone Should Be Using](https://lifehacker.com/the-most-clever-google-maps-settings-everyone-should-be-1850682153)
 - [Lifehacker] [Turn a Single Peach Into an Air Fried Cobbler for One](https://lifehacker.com/turn-a-single-peach-into-an-air-fried-cobbler-for-one-1850687959)
-- [Lifehacker] [Why Kids Stop Reading for Fun by Age 9 &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-kids-stop-reading-for-fun-by-age-9-and-what-to-do-1833554143)
-- [Lifehacker] [Use Flashfood to Buy Discounted Groceries Before They Expire](https://lifehacker.com/use-flashfood-to-buy-discounted-groceries-before-they-e-1850687424)
-- [Lifehacker] [Four Minute Books Is $40 Right Now](https://lifehacker.com/four-minute-books-is-40-right-now-1850675624)
-- [Lifehacker] [Do These Things to Make Your Yard Fire-Resistant](https://lifehacker.com/do-these-things-to-make-your-yard-fire-resistant-1850685319)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Kids Stop Reading for Fun by Age 9 &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-kids-stop-reading-for-fun-by-age-9-and-what-to-do-1833554143)<!-- TECH-POSTS:END -->
 
 ---
 
