@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TypeScript simple patterns for Web Developers](https://dev.to/dylantuna/typescript-simple-patterns-for-web-developers-325l)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 4, Jul 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-4-jul-2023-59jo)
 - [Dev.to/JS] [Create an URL Shortener Using Rebrandly API and LocalStorage](https://dev.to/sh20raj/create-an-url-shortener-using-rebrandly-api-and-localstorage-1j14)
 - [Dev.to/JS] [Controlled Elements &amp; String to Number Conversion](https://dev.to/wasimapinjari/controlled-elements-string-to-number-conversion-1op4)
 - [Dev.to/JS] [5 Lợi Ích Khi Dán Phim Cách Nhiệt Nhà Kính Không Nên Bỏ Qua](https://dev.to/akfilmcomvn/5-loi-ich-khi-dan-phim-cach-nhiet-nha-kinh-khong-nen-bo-qua-37cj)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Front end practice: Top 25+ Javascript code best practices for development](https://dev.to/lakshmananarumugam/front-end-practice-top-25-javascript-code-best-practices-for-development-4c1d)
 - [Dev.to/JS] [Hi community](https://dev.to/theone590/hi-community-17i3)
 - [Dev.to/JS] [Moving to a new developer Twitter / X.com](https://dev.to/jwhubert91/moving-to-a-new-developer-twitter-xcom-3fh5)
-- [Dev.to/JS] [Node/Express Template with TypeScript](https://dev.to/w3tsa/nodeexpress-template-with-typescript-2cgk)
-- [Dev.to/JS] [First day here](https://dev.to/shreyansh1410/first-day-here-49g)
 - [Lifehacker] [The Difference Between Unplugging and Recharging &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-unplugging-and-recharging-and-w-1850683355)
 - [Lifehacker] [Avoid These Mistakes When Planting Trees in Your Yard](https://lifehacker.com/avoid-these-mistakes-when-planting-trees-in-your-yard-1850683296)
 - [Lifehacker] [Here’s When to Replace All Four Tires After Getting a Flat](https://lifehacker.com/here-s-when-to-replace-all-four-tires-after-getting-a-f-1850683287)
