@@ -36,7 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React.memo is not memoization](https://dev.to/leo_lemos/reactmemo-is-not-memoization-4cpa)
 - [Dev.to/JS] [Where to put constants in a .vue file](https://dev.to/thejaredwilcurt/where-to-put-constants-in-a-vue-file-2k5h)
 - [Dev.to/JS] [📝 Migrating from npm to pnpm: A Journey of Decisions and Experiences 🚀](https://dev.to/levinhphuc91/migrating-from-npm-to-pnpm-a-journey-of-decisions-and-experiences-35dp)
-- [Dev.to/JS] [Awesome React Hooks - Mantine Part 1](https://dev.to/shubhamtiwari909/react-hooks-library-mantine-part-1-ck6)
+- [Dev.to/JS] [Awesome React Hooks - Mantine](https://dev.to/shubhamtiwari909/react-hooks-library-mantine-part-1-ck6)
 - [Dev.to/JS] [Frontend And Backend Understanding the Differences](https://dev.to/amarachi_kanu_20/frontend-and-backend-understanding-the-differences-12i4)
 - [Dev.to/JS] [How to Improve React.Js Website Performance](https://dev.to/devashishmamgain/how-to-improve-reactjs-website-performance-4oo8)
 - [Lifehacker] [Avoid These Mistakes When Planting Trees in Your Yard](https://lifehacker.com/avoid-these-mistakes-when-planting-trees-in-your-yard-1850683296)
