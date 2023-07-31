@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Gnarly Learnings from July 2023](https://dev.to/efertsch/gnarly-learnings-from-july-2023-45ch)
+- [Dev.to/JS] [move zeros to the end while keeping the order of the rest](https://dev.to/chandrapenugonda/move-zeros-to-the-end-while-keeping-the-order-of-the-rest-18hd)
+- [Lifehacker] [What&#39;s New on Max in August 2023](https://lifehacker.com/whats-new-on-max-in-august-2023-1850692913)
+- [Dev.to/JS] [Next.js 13. Server Actions.](https://dev.to/synkronus/nextjs-13-server-actions-1dfo)
+- [Lifehacker] [Make a Sweeter Caprese Salad With Peaches and Plums](https://lifehacker.com/use-stone-fruits-to-make-this-caprese-salad-1828631119)
+- [Lifehacker] [This Costco Membership Comes With a $45 Gift Card and $40 Off One Purchase](https://lifehacker.com/this-costco-membership-comes-with-a-45-gift-card-and-1850692844)
 - [Lifehacker] [Make Summer Cooking Tolerable With These Tools](https://lifehacker.com/make-summer-cooking-tolerable-with-these-tools-1850690788)
 - [Lifehacker] [Why the Hell Did We Ever Stop Wearing Sweatbands?](https://lifehacker.com/why-the-hell-did-we-ever-stop-wearing-sweatbands-1848156420)
 - [Lifehacker] [Trader Joe’s Falafel Might Contain Rocks, Too](https://lifehacker.com/trader-joe-s-falafel-might-contain-rocks-too-1850692151)
@@ -44,11 +50,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [NodeIterator and TreeWalker Web APIs](https://dev.to/abbeyperini/nodeiterator-and-treewalker-web-apis-278p)
 - [Dev.to/JS] [How make Commead line app using Node.js](https://dev.to/3azizo/how-make-commead-line-app-using-nodejs-15pl)
 - [Dev.to/JS] [Welcome To The Permanent Digital Web!](https://dev.to/vonthecreat0r/welcome-to-the-permanent-digital-web-2gk0)
-- [Dev.to/JS] [Using for await...of to Iterate Over Synchronous and Asynchronous Arrays in JavaScript](https://dev.to/tgmarinhodev/using-for-awaitof-to-iterate-over-synchronous-and-asynchronous-arrays-in-javascript-31n2)
 - [Lifehacker] [Why Our Laws and Regulations Aren’t Ready for AI](https://lifehacker.com/why-our-laws-and-regulations-aren-t-ready-for-ai-1850671379)
-- [Dev.to/JS] [Ng-News 23/30: Component Libraries, Signal-based Change Detection, Signal Dependency Graph](https://dev.to/this-is-angular/ng-news-2330-4pan)
 - [Lifehacker] [OpenAI’s &#39;Pay As You Go&#39; Is the Best Way to Use ChatGPT](https://lifehacker.com/openai-s-pay-as-you-go-is-the-best-way-to-use-chatgpt-1850318349)
-- [Dev.to/JS] [25 Stories To Learn About Asynchronous](https://dev.to/learnrepo/25-stories-to-learn-about-asynchronous-3k2m)
 - [Lifehacker] [Four Ways to Build AI Tools Without Knowing How to Code](https://lifehacker.com/the-best-ways-to-build-ai-tools-without-knowing-how-to-1850535556)
 - [Lifehacker] [When It’s OK to Use AI at Work &lpar;and When It&#39;s Not&rpar;](https://lifehacker.com/when-it-s-ok-to-use-ai-at-work-and-when-its-not-1850683978)
 - [Lifehacker] [10 Fictional AI, Ranked by How Likely They Are to Kill Us All](https://lifehacker.com/10-fictional-ai-ranked-by-how-likely-they-are-to-kill-1850368045)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [From 1950 to Today: A Brief History of AI &lpar;so Far&rpar;](https://lifehacker.com/from-1950-to-today-the-history-of-ai-so-far-1850557354)
 - [Lifehacker] [The Difference Between Unplugging and Recharging &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-unplugging-and-recharging-and-w-1850683355)
 - [Lifehacker] [Avoid These Mistakes When Planting Trees in Your Yard](https://lifehacker.com/avoid-these-mistakes-when-planting-trees-in-your-yard-1850683296)
-- [Lifehacker] [Here’s When to Replace All Four Tires After Getting a Flat](https://lifehacker.com/here-s-when-to-replace-all-four-tires-after-getting-a-f-1850683287)
-- [Lifehacker] [You Can Download Instructions for More Than 6,800 LEGO Kits for Free](https://lifehacker.com/you-can-download-instructions-for-more-than-6-800-lego-1850683478)
-- [Lifehacker] [The Easiest Ways to Keep Your Garage Cool During the Summer](https://lifehacker.com/the-easiest-ways-to-keep-your-garage-cool-during-the-su-1850683465)
-- [Lifehacker] [These Are the Best Cheap Hotel Chains in the U.S., According to Guests](https://lifehacker.com/these-are-the-best-cheap-hotel-chains-in-the-u-s-acco-1850683452)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here’s When to Replace All Four Tires After Getting a Flat](https://lifehacker.com/here-s-when-to-replace-all-four-tires-after-getting-a-f-1850683287)<!-- TECH-POSTS:END -->
 
 ---
 
