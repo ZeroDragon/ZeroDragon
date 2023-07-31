@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Front end practice: Top 25+ Javascript code best practices for development](https://dev.to/lakshmananarumugam/front-end-practice-top-25-javascript-code-best-practices-for-development-4c1d)
 - [Dev.to/JS] [Hi community](https://dev.to/theone590/hi-community-17i3)
 - [Dev.to/JS] [Moving to a new developer Twitter / X.com](https://dev.to/jwhubert91/moving-to-a-new-developer-twitter-xcom-3fh5)
 - [Dev.to/JS] [Node/Express Template with TypeScript](https://dev.to/w3tsa/nodeexpress-template-with-typescript-2cgk)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Frontend And Backend Understanding the Differences](https://dev.to/amarachi_kanu_20/frontend-and-backend-understanding-the-differences-12i4)
 - [Dev.to/JS] [How to Improve React.Js Website Performance](https://dev.to/devashishmamgain/how-to-improve-reactjs-website-performance-4oo8)
 - [Lifehacker] [Avoid These Mistakes When Planting Trees in Your Yard](https://lifehacker.com/avoid-these-mistakes-when-planting-trees-in-your-yard-1850683296)
-- [Dev.to/JS] [A Beginner&#39;s Guide to Code Review: Building Stronger Collaborations and High-Quality Code](https://dev.to/hr21don/a-beginners-guide-to-code-review-building-stronger-collaborations-and-high-quality-code-1dmc)
 - [Lifehacker] [Here’s When to Replace All Four Tires After Getting a Flat](https://lifehacker.com/here-s-when-to-replace-all-four-tires-after-getting-a-f-1850683287)
 - [Lifehacker] [You Can Download Instructions for More Than 6,800 LEGO Kits for Free](https://lifehacker.com/you-can-download-instructions-for-more-than-6-800-lego-1850683478)
 - [Lifehacker] [The Easiest Ways to Keep Your Garage Cool During the Summer](https://lifehacker.com/the-easiest-ways-to-keep-your-garage-cool-during-the-su-1850683465)
