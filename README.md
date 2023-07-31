@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Need to Check Local Laws Before Booking Your Next Airbnb](https://lifehacker.com/check-local-laws-before-booking-your-summer-airbnb-1833300051)
 - [Dev.to/JS] [10 Best Free React UI Libraries in 2023](https://dev.to/ashutoshmishra/10-best-free-react-ui-libraries-in-2023-3ki0)
 - [Dev.to/JS] [GPT3.5 Turbo Game Engine✨ - You can make money from H5 Games now](https://dev.to/lilshake/gpt35-turbo-game-engine-you-can-make-money-from-h5-games-now-405j)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in August 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-august-2023-1850693204)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell When an Artificial Intelligence Is &#39;Hallucinating&#39;](https://lifehacker.com/how-to-tell-when-an-artificial-intelligence-is-hallucin-1850280001)
 - [Lifehacker] [The War Between ChatGPT, Bing Chat, and Google Bard](https://lifehacker.com/the-war-between-chatgpt-bing-chat-and-google-bard-1850575579)
 - [Lifehacker] [Your Ultimate AI Glossary](https://lifehacker.com/your-ultimate-ai-glossary-1850575803)
-- [Lifehacker] [You Can Try Auto-GPT, the Next Generation of ChatGPT, Right Now](https://lifehacker.com/you-can-try-auto-gpt-the-next-generation-of-chatgpt-r-1850343691)
-- [Lifehacker] [From 1950 to Today: A Brief History of AI &lpar;so Far&rpar;](https://lifehacker.com/from-1950-to-today-the-history-of-ai-so-far-1850557354)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Try Auto-GPT, the Next Generation of ChatGPT, Right Now](https://lifehacker.com/you-can-try-auto-gpt-the-next-generation-of-chatgpt-r-1850343691)<!-- TECH-POSTS:END -->
 
 ---
 
