@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [From 1950 to Today: The History of AI &lpar;so Far&rpar;](https://lifehacker.com/from-1950-to-today-the-history-of-ai-so-far-1850557354)
+- [Dev.to/JS] [Using invisible divs in GitHub Discussions as a key-value store](https://dev.to/slickstef11/using-invisible-divs-in-github-discussions-as-a-key-value-store-58d1)
+- [Dev.to/JS] [Understanding JS Build Tools &lpar;Part 2: Bundling and Transforming&rpar;](https://dev.to/joshcarvel/understanding-js-build-tools-part-2-bundling-and-transforming-2p39)
+- [Dev.to/JS] [Understanding JS Build Tools &lpar;Part 1: Modules and Packages&rpar;](https://dev.to/joshcarvel/understanding-js-build-tools-part-1-modules-and-packages-3i5o)
+- [Dev.to/JS] [Builder Devtools for Next.js](https://dev.to/builderio/builder-devtools-for-nextjs-44c6)
 - [Dev.to/JS] [Polished: Simplificando a Manipulação de Estilos CSS em Projetos React](https://dev.to/hmontarroyos/polished-simplificando-a-manipulacao-de-estilos-css-em-projetos-react-1g35)
 - [Dev.to/JS] [bloc-them : JS UI framework, learn it in 15 minutes](https://dev.to/anuragvohraec/bloc-them-js-ui-framework-learn-it-in-15-minutes-4ncn)
 - [Dev.to/JS] [Taming Badly Typed External Libraries - How Zod Boosts Type Safety](https://dev.to/brainhubeu/taming-badly-typed-external-libraries-how-zod-boosts-type-safety-4jog)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create an URL Shortener Using Rebrandly API and LocalStorage](https://dev.to/sh20raj/create-an-url-shortener-using-rebrandly-api-and-localstorage-1j14)
 - [Dev.to/JS] [Controlled Elements &amp; String to Number Conversion](https://dev.to/wasimapinjari/controlled-elements-string-to-number-conversion-1op4)
 - [Dev.to/JS] [5 Lợi Ích Khi Dán Phim Cách Nhiệt Nhà Kính Không Nên Bỏ Qua](https://dev.to/akfilmcomvn/5-loi-ich-khi-dan-phim-cach-nhiet-nha-kinh-khong-nen-bo-qua-37cj)
-- [Dev.to/JS] [Java Script Scroll Animation](https://dev.to/alaindany/java-script-scroll-animation-59gk)
-- [Dev.to/JS] [React Hooks Explained: A Comprehensive Guide to Stateful Function Components](https://dev.to/kwakyebrilliant/react-hooks-explained-a-comprehensive-guide-to-stateful-function-components-1h0d)
-- [Dev.to/JS] [Creating a YouTube Tags Generator Website: The Making of ResearchedTags](https://dev.to/sh20raj/creating-a-youtube-tags-generator-website-the-making-of-researchedtags-d6c)
-- [Dev.to/JS] [5 Things Every Javascript Developer Should Know](https://dev.to/bindupatidar/5-things-every-javascript-developer-should-know-38g5)
 - [Lifehacker] [The Difference Between Unplugging and Recharging &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-unplugging-and-recharging-and-w-1850683355)
 - [Lifehacker] [Avoid These Mistakes When Planting Trees in Your Yard](https://lifehacker.com/avoid-these-mistakes-when-planting-trees-in-your-yard-1850683296)
 - [Lifehacker] [Here’s When to Replace All Four Tires After Getting a Flat](https://lifehacker.com/here-s-when-to-replace-all-four-tires-after-getting-a-f-1850683287)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Effective Way to Deep-Clean Your Fridge](https://lifehacker.com/de-stink-your-fridge-for-good-with-this-deep-cleaning-r-1786969699)
 - [Lifehacker] [My Favorite Websites to Find the Best Travel Deals](https://lifehacker.com/my-favorite-websites-to-find-the-best-travel-deals-1850684316)
 - [Lifehacker] [You Can Get Microsoft Office and Windows 11 Pro for $50 Right Now](https://lifehacker.com/you-can-get-microsoft-office-and-windows-11-pro-for-50-1850675710)
-- [Lifehacker] [My Favorite Gadgets and Tools for a Smoother Commute](https://lifehacker.com/my-favorite-gadgets-and-tools-for-a-smoother-commute-1850683554)
-- [Lifehacker] [How to Introduce Role Playing Into Your Sex Life](https://lifehacker.com/how-to-introduce-role-playing-into-your-sex-life-1850684587)<!-- TECH-POSTS:END -->
+- [Lifehacker] [My Favorite Gadgets and Tools for a Smoother Commute](https://lifehacker.com/my-favorite-gadgets-and-tools-for-a-smoother-commute-1850683554)<!-- TECH-POSTS:END -->
 
 ---
 
