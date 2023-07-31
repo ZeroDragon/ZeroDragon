@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Fundamentals: Understanding Variables, Data Types, and Operators](https://dev.to/iamcymentho/mastering-javascript-understanding-variables-data-types-and-operators-56k0)
 - [Lifehacker] [Why You Need to Check Local Laws Before Booking Your Next Airbnb](https://lifehacker.com/check-local-laws-before-booking-your-summer-airbnb-1833300051)
 - [Dev.to/JS] [10 Best Free React UI Libraries in 2023](https://dev.to/ashutoshmishra/10-best-free-react-ui-libraries-in-2023-3ki0)
 - [Dev.to/JS] [GPT3.5 Turbo Game Engine✨ - You can make money from H5 Games now](https://dev.to/lilshake/gpt35-turbo-game-engine-you-can-make-money-from-h5-games-now-405j)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Refurbished MacBook Air Is $300 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-300-right-now-1850676276)
 - [Dev.to/JS] [How to encrypt and decrypt text in javascript client side with AES CFB 256](https://dev.to/redclouds/how-to-encrypt-and-decrypt-text-in-javascript-client-side-with-aes-cfb-256-2fi7)
 - [Dev.to/JS] [Discovering Svelte: Things I Learned While Using Svelte](https://dev.to/posandu/discovering-svelte-things-i-learned-while-using-svelte-37m5)
-- [Dev.to/JS] [How to efficiently scrape millions of Google Businesses on a large scale using a distributed crawler](https://dev.to/tonywangca/how-to-efficiently-scrape-millions-of-google-businesses-on-a-large-scale-using-a-distributed-crawler-3lkp)
 - [Lifehacker] [How AI Is Used to Scam You &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/how-ai-is-used-to-scam-you-and-what-you-can-do-about-i-1850688732)
 - [Lifehacker] [When You Ask AI to Write an Obituary](https://lifehacker.com/when-you-ask-ai-to-write-an-obituary-1850502065)
 - [Lifehacker] [The Ethics of Making &lpar;and Publishing&rpar; AI Art](https://lifehacker.com/the-ethics-of-making-and-publishing-ai-art-1850688734)
