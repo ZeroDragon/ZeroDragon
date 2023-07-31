@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Trader Joe’s Falafel Might Contain Rocks, Too](https://lifehacker.com/trader-joe-s-falafel-might-contain-rocks-too-1850692151)
+- [Dev.to/JS] [Applying the Open-Closed Principle To Write Clean React Components](https://dev.to/mohammadfaisal/applying-the-open-closed-principle-to-write-clean-react-components-400o)
+- [Lifehacker] [Save Money With These Wifi-Enabled Smart Watering Devices](https://lifehacker.com/save-money-with-these-wifi-enabled-smart-watering-devic-1850690739)
+- [Lifehacker] [Keep Your Dog Cool With These DIY Frozen Treats](https://lifehacker.com/these-diy-frozen-treats-keep-your-dog-cool-when-its-hot-1725159956)
+- [Dev.to/JS] [Baby coders. Git add/commit/push and create files using terminal.](https://dev.to/jazlinbyu/baby-coders-git-addcommitpush-and-create-files-using-terminal-p1a)
+- [Lifehacker] [This Refurbished MacBook Air Is $300 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-300-right-now-1850676276)
 - [Dev.to/JS] [How to encrypt and decrypt text in javascript client side with AES CFB 256](https://dev.to/redclouds/how-to-encrypt-and-decrypt-text-in-javascript-client-side-with-aes-cfb-256-2fi7)
 - [Dev.to/JS] [Discovering Svelte: Things I Learned While Using Svelte](https://dev.to/posandu/discovering-svelte-things-i-learned-while-using-svelte-37m5)
 - [Dev.to/JS] [How to efficiently scrape millions of Google Businesses on a large scale using a distributed crawler](https://dev.to/tonywangca/how-to-efficiently-scrape-millions-of-google-businesses-on-a-large-scale-using-a-distributed-crawler-3lkp)
@@ -42,10 +48,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [25 Stories To Learn About Asynchronous](https://dev.to/learnrepo/25-stories-to-learn-about-asynchronous-3k2m)
 - [Dev.to/JS] [#TIL WebAPI: Intl.NumberFormat](https://dev.to/wojciech_space/til-webapi-intlnumberformat-d9o)
 - [Lifehacker] [Four Ways to Build AI Tools Without Knowing How to Code](https://lifehacker.com/the-best-ways-to-build-ai-tools-without-knowing-how-to-1850535556)
-- [Dev.to/JS] [What is Prototype? Prototype in JavaScript](https://dev.to/diwakarkashyap/what-is-prototype-prototype-in-javascript-41a)
 - [Lifehacker] [When It’s OK to Use AI at Work &lpar;and When It&#39;s Not&rpar;](https://lifehacker.com/when-it-s-ok-to-use-ai-at-work-and-when-its-not-1850683978)
 - [Lifehacker] [10 Fictional AI, Ranked by How Likely They Are to Kill Us All](https://lifehacker.com/10-fictional-ai-ranked-by-how-likely-they-are-to-kill-1850368045)
-- [Dev.to/JS] [Learn bicep based on the GUI of Azure Portal](https://dev.to/robertblazor/learn-bicep-based-on-the-gui-of-azure-portal-3pbk)
 - [Lifehacker] [A Beginner&#39;s Guide to Using ChatGPT Plugins](https://lifehacker.com/a-beginners-guide-to-using-chatgpt-plugins-1850578719)
 - [Lifehacker] [11 AI-Powered Apps That Are Actually Useful](https://lifehacker.com/11-ai-powered-apps-that-are-actually-useful-1850653084)
 - [Lifehacker] [Advice I Wish Someone Had Given Me After Graduating High School](https://lifehacker.com/advice-i-wish-someone-had-given-me-after-graduating-hig-1573178134)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Keep Your Garage Cool During the Summer](https://lifehacker.com/the-easiest-ways-to-keep-your-garage-cool-during-the-su-1850683465)
 - [Lifehacker] [These Are the Best Cheap Hotel Chains in the U.S., According to Guests](https://lifehacker.com/these-are-the-best-cheap-hotel-chains-in-the-u-s-acco-1850683452)
 - [Lifehacker] [How to Survive the Summer When Summer Makes You Miserable](https://lifehacker.com/how-to-survive-the-summer-when-summer-makes-you-miserab-1796164224)
-- [Lifehacker] [This HD Portable Laptop Monitor Is 40% Off](https://lifehacker.com/this-hd-portable-laptop-monitor-is-40-off-1850675799)
-- [Lifehacker] [Where Have All the Barbie Video Games Gone?](https://lifehacker.com/where-have-all-the-barbie-video-games-gone-1850688080)
-- [Lifehacker] [The Most Clever Google Maps Settings Everyone Should Be Using](https://lifehacker.com/the-most-clever-google-maps-settings-everyone-should-be-1850682153)
-- [Lifehacker] [Turn a Single Peach Into an Air Fried Cobbler for One](https://lifehacker.com/turn-a-single-peach-into-an-air-fried-cobbler-for-one-1850687959)
-- [Lifehacker] [Why Kids Stop Reading for Fun by Age 9 &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-kids-stop-reading-for-fun-by-age-9-and-what-to-do-1833554143)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This HD Portable Laptop Monitor Is 40% Off](https://lifehacker.com/this-hd-portable-laptop-monitor-is-40-off-1850675799)<!-- TECH-POSTS:END -->
 
 ---
 
