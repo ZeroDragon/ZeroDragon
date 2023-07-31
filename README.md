@@ -26,6 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NodeIterator and TreeWalker Web APIs](https://dev.to/abbeyperini/nodeiterator-and-treewalker-web-apis-278p)
+- [Dev.to/JS] [How make Commead line app using Node.js](https://dev.to/3azizo/how-make-commead-line-app-using-nodejs-15pl)
+- [Dev.to/JS] [Welcome To The Permanent Digital Web!](https://dev.to/vonthecreat0r/welcome-to-the-permanent-digital-web-2gk0)
+- [Dev.to/JS] [Using for await...of to Iterate Over Synchronous and Asynchronous Arrays in JavaScript](https://dev.to/tgmarinhodev/using-for-awaitof-to-iterate-over-synchronous-and-asynchronous-arrays-in-javascript-31n2)
+- [Lifehacker] [Why Our Laws and Regulations Aren’t Ready for AI](https://lifehacker.com/why-our-laws-and-regulations-aren-t-ready-for-ai-1850671379)
+- [Dev.to/JS] [Ng-News 23/30](https://dev.to/this-is-angular/ng-news-2330-4pan)
+- [Lifehacker] [OpenAI’s &#39;Pay As You Go&#39; Is the Best Way to Use ChatGPT](https://lifehacker.com/openai-s-pay-as-you-go-is-the-best-way-to-use-chatgpt-1850318349)
+- [Dev.to/JS] [25 Stories To Learn About Asynchronous](https://dev.to/learnrepo/25-stories-to-learn-about-asynchronous-3k2m)
+- [Dev.to/JS] [#TIL WebAPI: Intl.NumberFormat](https://dev.to/wojciech_space/til-webapi-intlnumberformat-d9o)
+- [Lifehacker] [Four Ways to Build AI Tools Without Knowing How to Code](https://lifehacker.com/the-best-ways-to-build-ai-tools-without-knowing-how-to-1850535556)
 - [Dev.to/JS] [What is Prototype? Prototype in JavaScript](https://dev.to/diwakarkashyap/what-is-prototype-prototype-in-javascript-41a)
 - [Lifehacker] [When It’s OK to Use AI at Work &lpar;and When It&#39;s Not&rpar;](https://lifehacker.com/when-it-s-ok-to-use-ai-at-work-and-when-its-not-1850683978)
 - [Lifehacker] [10 Fictional AI, Ranked by How Likely They Are to Kill Us All](https://lifehacker.com/10-fictional-ai-ranked-by-how-likely-they-are-to-kill-1850368045)
@@ -38,16 +48,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Advice I Wish Someone Had Given Me After Graduating High School](https://lifehacker.com/advice-i-wish-someone-had-given-me-after-graduating-hig-1573178134)
 - [Lifehacker] [How to Tell When an Artificial Intelligence Is &#39;Hallucinating&#39;](https://lifehacker.com/how-to-tell-when-an-artificial-intelligence-is-hallucin-1850280001)
 - [Lifehacker] [The War Between ChatGPT, Bing Chat, and Google Bard](https://lifehacker.com/the-war-between-chatgpt-bing-chat-and-google-bard-1850575579)
-- [Dev.to/JS] [🔥 Building an email automation system with React Flow and Resend 🎉](https://dev.to/novu/building-an-email-automation-system-with-react-flow-and-resend-17b5)
-- [Dev.to/JS] [Building an HackerNews to Discord notification system using Node.js, node-cron and discord-notification.](https://dev.to/dev_bre/building-an-hackernews-to-discord-notification-system-using-nodejs-node-cron-and-discord-notification-3087)
 - [Lifehacker] [Your Ultimate AI Glossary](https://lifehacker.com/your-ultimate-ai-glossary-1850575803)
-- [Dev.to/JS] [Responsive Web Design: Creating User-Friendly Experiences Across Devices](https://dev.to/keertiinvisor/responsive-web-design-creating-user-friendly-experiences-across-devices-dj5)
 - [Lifehacker] [You Can Try Auto-GPT, the Next Generation of ChatGPT, Right Now](https://lifehacker.com/you-can-try-auto-gpt-the-next-generation-of-chatgpt-r-1850343691)
 - [Lifehacker] [From 1950 to Today: The History of AI &lpar;so Far&rpar;](https://lifehacker.com/from-1950-to-today-the-history-of-ai-so-far-1850557354)
-- [Dev.to/JS] [Using invisible divs in GitHub Discussions as a key-value store](https://dev.to/slickstef11/using-invisible-divs-in-github-discussions-as-a-key-value-store-58d1)
-- [Dev.to/JS] [Understanding JS Build Tools &lpar;Part 2: Bundling and Transforming&rpar;](https://dev.to/joshcarvel/understanding-js-build-tools-part-2-bundling-and-transforming-2p39)
-- [Dev.to/JS] [Understanding JS Build Tools &lpar;Part 1: Modules and Packages&rpar;](https://dev.to/joshcarvel/understanding-js-build-tools-part-1-modules-and-packages-3i5o)
-- [Dev.to/JS] [Builder Devtools for Next.js](https://dev.to/builderio/builder-devtools-for-nextjs-44c6)
 - [Lifehacker] [The Difference Between Unplugging and Recharging &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-unplugging-and-recharging-and-w-1850683355)
 - [Lifehacker] [Avoid These Mistakes When Planting Trees in Your Yard](https://lifehacker.com/avoid-these-mistakes-when-planting-trees-in-your-yard-1850683296)
 - [Lifehacker] [Here’s When to Replace All Four Tires After Getting a Flat](https://lifehacker.com/here-s-when-to-replace-all-four-tires-after-getting-a-f-1850683287)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Kids Stop Reading for Fun by Age 9 &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-kids-stop-reading-for-fun-by-age-9-and-what-to-do-1833554143)
 - [Lifehacker] [Use Flashfood to Buy Discounted Groceries Before They Expire](https://lifehacker.com/use-flashfood-to-buy-discounted-groceries-before-they-e-1850687424)
 - [Lifehacker] [Four Minute Books Is $40 Right Now](https://lifehacker.com/four-minute-books-is-40-right-now-1850675624)
-- [Lifehacker] [Do These Things to Make Your Yard Fire-Resistant](https://lifehacker.com/do-these-things-to-make-your-yard-fire-resistant-1850685319)
-- [Lifehacker] [This Kind of Tick Bite Can Cause a Meat Allergy](https://lifehacker.com/what-to-know-about-the-tick-that-can-make-you-allergic-1848982558)
-- [Lifehacker] [Your Athletic Peak Is Longer Than You Think](https://lifehacker.com/your-athletic-peak-is-longer-than-you-think-1850686971)
-- [Lifehacker] [Do Bay Leaves Even Do Anything?](https://lifehacker.com/do-bay-leaves-even-do-anything-1793275685)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Do These Things to Make Your Yard Fire-Resistant](https://lifehacker.com/do-these-things-to-make-your-yard-fire-resistant-1850685319)<!-- TECH-POSTS:END -->
 
 ---
 
