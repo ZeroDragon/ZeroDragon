@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create an URL Shortener Using Rebrandly API and LocalStorage](https://dev.to/sh20raj/create-an-url-shortener-using-rebrandly-api-and-localstorage-1j14)
+- [Dev.to/JS] [Controlled Elements &amp; String to Number Conversion](https://dev.to/wasimapinjari/controlled-elements-string-to-number-conversion-1op4)
+- [Dev.to/JS] [5 Lợi Ích Khi Dán Phim Cách Nhiệt Nhà Kính Không Nên Bỏ Qua](https://dev.to/akfilmcomvn/5-loi-ich-khi-dan-phim-cach-nhiet-nha-kinh-khong-nen-bo-qua-37cj)
+- [Dev.to/JS] [Java Script Scroll Animation](https://dev.to/alaindany/java-script-scroll-animation-59gk)
 - [Dev.to/JS] [React Hooks Explained: A Comprehensive Guide to Stateful Function Components](https://dev.to/kwakyebrilliant/react-hooks-explained-a-comprehensive-guide-to-stateful-function-components-1h0d)
 - [Dev.to/JS] [Creating a YouTube Tags Generator Website: The Making of ResearchedTags](https://dev.to/sh20raj/creating-a-youtube-tags-generator-website-the-making-of-researchedtags-d6c)
 - [Dev.to/JS] [5 Things Every Javascript Developer Should Know](https://dev.to/bindupatidar/5-things-every-javascript-developer-should-know-38g5)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Moving to a new developer Twitter / X.com](https://dev.to/jwhubert91/moving-to-a-new-developer-twitter-xcom-3fh5)
 - [Dev.to/JS] [Node/Express Template with TypeScript](https://dev.to/w3tsa/nodeexpress-template-with-typescript-2cgk)
 - [Dev.to/JS] [First day here](https://dev.to/shreyansh1410/first-day-here-49g)
-- [Dev.to/JS] [Do Contexts in Next.js 13 Make the Whole App Render on the Client?](https://dev.to/perssondennis/do-contexts-in-nextjs-13-make-the-whole-app-render-on-the-client-55bb)
 - [Lifehacker] [The Difference Between Unplugging and Recharging &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-unplugging-and-recharging-and-w-1850683355)
-- [Dev.to/JS] [React.memo is not memoization](https://dev.to/leo_lemos/reactmemo-is-not-memoization-4cpa)
-- [Dev.to/JS] [Where to put constants in a .vue file](https://dev.to/thejaredwilcurt/where-to-put-constants-in-a-vue-file-2k5h)
-- [Dev.to/JS] [📝 Migrating from npm to pnpm: A Journey of Decisions and Experiences 🚀](https://dev.to/levinhphuc91/migrating-from-npm-to-pnpm-a-journey-of-decisions-and-experiences-35dp)
 - [Lifehacker] [Avoid These Mistakes When Planting Trees in Your Yard](https://lifehacker.com/avoid-these-mistakes-when-planting-trees-in-your-yard-1850683296)
 - [Lifehacker] [Here’s When to Replace All Four Tires After Getting a Flat](https://lifehacker.com/here-s-when-to-replace-all-four-tires-after-getting-a-f-1850683287)
 - [Lifehacker] [You Can Download Instructions for More Than 6,800 LEGO Kits for Free](https://lifehacker.com/you-can-download-instructions-for-more-than-6-800-lego-1850683478)
