@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Best Free React UI Libraries in 2023](https://dev.to/ashutoshmishra/10-best-free-react-ui-libraries-in-2023-3ki0)
+- [Dev.to/JS] [GPT3.5 Turbo Game Engine✨ - You can make money from H5 Games now](https://dev.to/lilshake/gpt35-turbo-game-engine-you-can-make-money-from-h5-games-now-405j)
+- [Lifehacker] [What&#39;s New on Prime Video and Freevee in August 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-august-2023-1850693204)
+- [Lifehacker] [How to Return Nearly Anything Without a Receipt](https://lifehacker.com/how-to-return-nearly-anything-without-a-receipt-5853626)
+- [Dev.to/JS] [Mock API / Fetch Request](https://dev.to/bit092/mock-api-fetch-request-15l2)
+- [Lifehacker] [This Apple Pen Alternative Is $36 Right Now](https://lifehacker.com/this-apple-pen-alternative-is-36-right-now-1850676180)
 - [Dev.to/JS] [Gnarly Learnings from July 2023](https://dev.to/efertsch/gnarly-learnings-from-july-2023-45ch)
 - [Dev.to/JS] [move zeros to the end while keeping the order of the rest](https://dev.to/chandrapenugonda/move-zeros-to-the-end-while-keeping-the-order-of-the-rest-18hd)
 - [Lifehacker] [What&#39;s New on Max in August 2023](https://lifehacker.com/whats-new-on-max-in-august-2023-1850692913)
@@ -47,9 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How AI Is Used to Scam You &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/how-ai-is-used-to-scam-you-and-what-you-can-do-about-i-1850688732)
 - [Lifehacker] [When You Ask AI to Write an Obituary](https://lifehacker.com/when-you-ask-ai-to-write-an-obituary-1850502065)
 - [Lifehacker] [The Ethics of Making &lpar;and Publishing&rpar; AI Art](https://lifehacker.com/the-ethics-of-making-and-publishing-ai-art-1850688734)
-- [Dev.to/JS] [NodeIterator and TreeWalker Web APIs](https://dev.to/abbeyperini/nodeiterator-and-treewalker-web-apis-278p)
-- [Dev.to/JS] [How make Commead line app using Node.js](https://dev.to/3azizo/how-make-commead-line-app-using-nodejs-15pl)
-- [Dev.to/JS] [Welcome To The Permanent Digital Web!](https://dev.to/vonthecreat0r/welcome-to-the-permanent-digital-web-2gk0)
 - [Lifehacker] [Why Our Laws and Regulations Aren’t Ready for AI](https://lifehacker.com/why-our-laws-and-regulations-aren-t-ready-for-ai-1850671379)
 - [Lifehacker] [OpenAI’s &#39;Pay As You Go&#39; Is the Best Way to Use ChatGPT](https://lifehacker.com/openai-s-pay-as-you-go-is-the-best-way-to-use-chatgpt-1850318349)
 - [Lifehacker] [Four Ways to Build AI Tools Without Knowing How to Code](https://lifehacker.com/the-best-ways-to-build-ai-tools-without-knowing-how-to-1850535556)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The War Between ChatGPT, Bing Chat, and Google Bard](https://lifehacker.com/the-war-between-chatgpt-bing-chat-and-google-bard-1850575579)
 - [Lifehacker] [Your Ultimate AI Glossary](https://lifehacker.com/your-ultimate-ai-glossary-1850575803)
 - [Lifehacker] [You Can Try Auto-GPT, the Next Generation of ChatGPT, Right Now](https://lifehacker.com/you-can-try-auto-gpt-the-next-generation-of-chatgpt-r-1850343691)
-- [Lifehacker] [From 1950 to Today: A Brief History of AI &lpar;so Far&rpar;](https://lifehacker.com/from-1950-to-today-the-history-of-ai-so-far-1850557354)
-- [Lifehacker] [The Difference Between Unplugging and Recharging &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-unplugging-and-recharging-and-w-1850683355)
-- [Lifehacker] [Avoid These Mistakes When Planting Trees in Your Yard](https://lifehacker.com/avoid-these-mistakes-when-planting-trees-in-your-yard-1850683296)
-- [Lifehacker] [Here’s When to Replace All Four Tires After Getting a Flat](https://lifehacker.com/here-s-when-to-replace-all-four-tires-after-getting-a-f-1850683287)<!-- TECH-POSTS:END -->
+- [Lifehacker] [From 1950 to Today: A Brief History of AI &lpar;so Far&rpar;](https://lifehacker.com/from-1950-to-today-the-history-of-ai-so-far-1850557354)<!-- TECH-POSTS:END -->
 
 ---
 
