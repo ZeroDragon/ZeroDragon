@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Prototype? Prototype in JavaScript](https://dev.to/diwakarkashyap/what-is-prototype-prototype-in-javascript-41a)
+- [Lifehacker] [When It’s OK to Use AI at Work &lpar;and When It&#39;s Not&rpar;](https://lifehacker.com/when-it-s-ok-to-use-ai-at-work-and-when-its-not-1850683978)
+- [Lifehacker] [10 Fictional AI, Ranked by How Likely They Are to Kill Us All](https://lifehacker.com/10-fictional-ai-ranked-by-how-likely-they-are-to-kill-1850368045)
+- [Dev.to/JS] [Learn bicep based on the GUI of Azure Portal](https://dev.to/robertblazor/learn-bicep-based-on-the-gui-of-azure-portal-3pbk)
 - [Lifehacker] [A Beginner&#39;s Guide to Using ChatGPT Plugins](https://lifehacker.com/a-beginners-guide-to-using-chatgpt-plugins-1850578719)
 - [Dev.to/JS] [Código limpio en el desarrollo de software.](https://dev.to/miigangls/codigo-limpio-en-el-desarrollo-de-software-3c67)
 - [Dev.to/JS] [I published my First App on Google PlayStore 😍😍✨](https://dev.to/dilane3/i-publishee-my-first-app-on-google-playstore-3g5i)
@@ -44,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding JS Build Tools &lpar;Part 2: Bundling and Transforming&rpar;](https://dev.to/joshcarvel/understanding-js-build-tools-part-2-bundling-and-transforming-2p39)
 - [Dev.to/JS] [Understanding JS Build Tools &lpar;Part 1: Modules and Packages&rpar;](https://dev.to/joshcarvel/understanding-js-build-tools-part-1-modules-and-packages-3i5o)
 - [Dev.to/JS] [Builder Devtools for Next.js](https://dev.to/builderio/builder-devtools-for-nextjs-44c6)
-- [Dev.to/JS] [Polished: Simplificando a Manipulação de Estilos CSS em Projetos React](https://dev.to/hmontarroyos/polished-simplificando-a-manipulacao-de-estilos-css-em-projetos-react-1g35)
-- [Dev.to/JS] [bloc-them : JS UI framework, learn it in 15 minutes](https://dev.to/anuragvohraec/bloc-them-js-ui-framework-learn-it-in-15-minutes-4ncn)
 - [Lifehacker] [The Difference Between Unplugging and Recharging &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-unplugging-and-recharging-and-w-1850683355)
 - [Lifehacker] [Avoid These Mistakes When Planting Trees in Your Yard](https://lifehacker.com/avoid-these-mistakes-when-planting-trees-in-your-yard-1850683296)
 - [Lifehacker] [Here’s When to Replace All Four Tires After Getting a Flat](https://lifehacker.com/here-s-when-to-replace-all-four-tires-after-getting-a-f-1850683287)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do These Things to Make Your Yard Fire-Resistant](https://lifehacker.com/do-these-things-to-make-your-yard-fire-resistant-1850685319)
 - [Lifehacker] [This Kind of Tick Bite Can Cause a Meat Allergy](https://lifehacker.com/what-to-know-about-the-tick-that-can-make-you-allergic-1848982558)
 - [Lifehacker] [Your Athletic Peak Is Longer Than You Think](https://lifehacker.com/your-athletic-peak-is-longer-than-you-think-1850686971)
-- [Lifehacker] [Do Bay Leaves Even Do Anything?](https://lifehacker.com/do-bay-leaves-even-do-anything-1793275685)
-- [Lifehacker] [The Parking Brakes on These Recalled Ford F-150s Might Engage Unexpectedly](https://lifehacker.com/the-parking-brakes-on-these-recalled-ford-f-150s-might-1850686708)
-- [Lifehacker] [Make a Chilling Tray With Two Aluminum Pans](https://lifehacker.com/make-a-chilling-tray-with-two-aluminum-pans-1850684265)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Do Bay Leaves Even Do Anything?](https://lifehacker.com/do-bay-leaves-even-do-anything-1793275685)<!-- TECH-POSTS:END -->
 
 ---
 
