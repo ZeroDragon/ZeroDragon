@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are Higher-Order Components &lpar;HOCs&rpar; in React, and How Do You Use Them?](https://dev.to/msubhro_mukherjee/what-are-higher-order-components-hocs-in-react-and-how-do-you-use-them-2fcc)
+- [Dev.to/JS] [How to Use React Hook Form with TypeScript](https://dev.to/mohammadfaisal/how-to-use-react-hook-form-with-typescript-3cga)
 - [Dev.to/JS] [How sort&lpar;&rpar; works in javascript?](https://dev.to/kumarkalyan/how-sort-works-in-javascript-epk)
 - [Dev.to/JS] [How to Use Jotai and useTransition for Mutation](https://dev.to/dai_shi/how-to-use-jotai-and-usetransition-for-mutation-37gd)
 - [Dev.to/JS] [#ThisMonthInSWA - Jul 2023](https://dev.to/azure/thismonthinswa-jul-2023-348h)
@@ -46,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Summer Cooking Tolerable With These Tools](https://lifehacker.com/make-summer-cooking-tolerable-with-these-tools-1850690788)
 - [Lifehacker] [Why the Hell Did We Ever Stop Wearing Sweatbands?](https://lifehacker.com/why-the-hell-did-we-ever-stop-wearing-sweatbands-1848156420)
 - [Lifehacker] [Trader Joe’s Falafel Might Contain Rocks, Too](https://lifehacker.com/trader-joe-s-falafel-might-contain-rocks-too-1850692151)
-- [Dev.to/JS] [Make your life easier by using Code-Snippets in VSCode](https://dev.to/hassansuhaib/make-your-life-easier-by-using-code-snippets-in-vscode-195k)
-- [Dev.to/JS] [Applying the Open-Closed Principle To Write Clean React Components](https://dev.to/mohammadfaisal/applying-the-open-closed-principle-to-write-clean-react-components-400o)
 - [Lifehacker] [Save Money With These Wifi-Enabled Smart Watering Devices](https://lifehacker.com/save-money-with-these-wifi-enabled-smart-watering-devic-1850690739)
 - [Lifehacker] [Keep Your Dog Cool With These DIY Frozen Treats](https://lifehacker.com/these-diy-frozen-treats-keep-your-dog-cool-when-its-hot-1725159956)
 - [Lifehacker] [This Refurbished MacBook Air Is $300 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-300-right-now-1850676276)
