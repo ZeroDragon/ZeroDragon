@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Every Term a First-Time Homebuyer Should Know](https://lifehacker.com/every-term-a-first-time-homebuyer-should-know-1850684147)
+- [Dev.to/JS] [Creating an NPM Package: From Company Utility to Public Module with 555 Weekly Downloads](https://dev.to/eworld/creating-an-npm-package-from-company-utility-to-public-module-with-555-weekly-downloads-1ohh)
+- [Lifehacker] [You Can Change the X Icon Back to the Twitter Bird on Your Phone](https://lifehacker.com/you-can-change-the-x-icon-back-to-the-twitter-bird-on-y-1850693575)
+- [Dev.to/JS] [How to exchange data between Angular components](https://dev.to/aymenmissaouii/how-to-exchange-data-between-angular-components-4n2k)
+- [Dev.to/JS] [JS Challenge: Remove duplicates from an array](https://dev.to/jlogix/js-challenge-remove-duplicates-from-an-array-1hbi)
+- [Lifehacker] [Just Go Buy the Weird Padded Cycling Shorts](https://lifehacker.com/just-go-buy-the-weird-padded-cycling-shorts-1850688084)
 - [Dev.to/JS] [Building a Weather App with HTML, CSS, JavaScript, and Weather API: Check the Temperature and Weather Conditions!](https://dev.to/sadiqshaik123/building-a-weather-app-with-html-css-javascript-and-weather-api-check-the-temperature-and-weather-conditions-53ik)
 - [Dev.to/JS] [Dynamic Content Loading with JavaScript](https://dev.to/iamcymentho/dynamic-content-loading-with-javascript-15hh)
 - [Dev.to/JS] [Convert Design To code Integrating Appwrite Cloud With Dhiwise](https://dev.to/terieyenike/convert-design-to-code-integrating-appwrite-cloud-with-dhiwise-o50)
@@ -40,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to Be Honest With Your Partner, and When a White Lie is OK](https://lifehacker.com/when-to-be-honest-with-your-partner-and-when-a-white-l-1850687382)
 - [Dev.to/JS] [Using Document Picture-in-Picture and Insertable Streams APIs to record your screen and camera](https://dev.to/volcomix/using-document-picture-in-picture-and-insertable-streams-apis-to-record-your-screen-and-camera-5726)
 - [Lifehacker] [Turn Your Overcooked Steak Into Something Better](https://lifehacker.com/turn-your-overcooked-steak-into-something-better-1850687215)
-- [Dev.to/JS] [Automatically Replace Broken Images with &#39;blank.png&#39;: A JavaScript Loop Solution](https://dev.to/sh20raj/automatically-replace-broken-images-with-blankpng-a-javascript-loop-solution-1hbc)
 - [Lifehacker] [Ask Yourself These Questions Before Saying &#39;No&#39; at Work](https://lifehacker.com/ask-yourself-these-questions-before-saying-no-at-work-1850686442)
-- [Dev.to/JS] [Bugs, Errors, and Lessons: A Beginner&#39;s Debugging Experience](https://dev.to/andrewezeani/bugs-errors-and-lessons-a-beginners-debugging-experience-4502)
-- [Dev.to/JS] [Monitoring Express.js with OpenTelemetry and Uptrace](https://dev.to/uptrace/monitoring-expressjs-with-opentelemetry-and-uptrace-238c)
 - [Crazy Programmer] [History of Fiber Optics](https://www.thecrazyprogrammer.com/2023/08/history-of-fiber-optics.html)
 - [Lifehacker] [Why You Need to Check Local Laws Before Booking Your Next Airbnb](https://lifehacker.com/check-local-laws-before-booking-your-summer-airbnb-1833300051)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in August 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-august-2023-1850693204)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When You Ask AI to Write an Obituary](https://lifehacker.com/when-you-ask-ai-to-write-an-obituary-1850502065)
 - [Lifehacker] [The Ethics of Making &lpar;and Publishing&rpar; AI Art](https://lifehacker.com/the-ethics-of-making-and-publishing-ai-art-1850688734)
 - [Lifehacker] [Why Our Laws and Regulations Aren’t Ready for AI](https://lifehacker.com/why-our-laws-and-regulations-aren-t-ready-for-ai-1850671379)
-- [Lifehacker] [OpenAI’s &#39;Pay As You Go&#39; Is the Best Way to Use ChatGPT](https://lifehacker.com/openai-s-pay-as-you-go-is-the-best-way-to-use-chatgpt-1850318349)
-- [Lifehacker] [Four Ways to Build AI Tools Without Knowing How to Code](https://lifehacker.com/the-best-ways-to-build-ai-tools-without-knowing-how-to-1850535556)
-- [Lifehacker] [When It’s OK to Use AI at Work &lpar;and When It&#39;s Not&rpar;](https://lifehacker.com/when-it-s-ok-to-use-ai-at-work-and-when-its-not-1850683978)
-- [Lifehacker] [10 Fictional AI, Ranked by How Likely They Are to Kill Us All](https://lifehacker.com/10-fictional-ai-ranked-by-how-likely-they-are-to-kill-1850368045)<!-- TECH-POSTS:END -->
+- [Lifehacker] [OpenAI’s &#39;Pay As You Go&#39; Is the Best Way to Use ChatGPT](https://lifehacker.com/openai-s-pay-as-you-go-is-the-best-way-to-use-chatgpt-1850318349)<!-- TECH-POSTS:END -->
 
 ---
 
