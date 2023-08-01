@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bugs, Errors, and Lessons: A Beginner&#39;s Debugging Experience](https://dev.to/andrewezeani/bugs-errors-and-lessons-a-beginners-debugging-experience-4502)
+- [Dev.to/JS] [Monitoring Express.js with OpenTelemetry and Uptrace](https://dev.to/uptrace/monitoring-expressjs-with-opentelemetry-and-uptrace-238c)
+- [Dev.to/JS] [🚀 9 open-source libraries YOU HAVE to contribute to in 2023 🔥](https://dev.to/github20k/9-open-source-libraries-you-have-to-contribute-to-in-2023-4071)
+- [Dev.to/JS] [Optical Character Recognition&lpar;OCR&rpar;: Extracting Text From Images with JavaScript](https://dev.to/sfundomhlungu/optical-character-recognitionocr-extracting-text-from-images-with-javascript-2ch0)
+- [Dev.to/JS] [What is event loop in nodejs ?](https://dev.to/kanhakumar143/what-is-event-loop-in-nodejs--478l)
 - [Dev.to/JS] [Js array-introduction part-1](https://dev.to/chayti/js-array-introduction-part-1-24of)
 - [Crazy Programmer] [History of Fiber Optics](https://www.thecrazyprogrammer.com/2023/08/history-of-fiber-optics.html)
 - [Dev.to/JS] [Embrace the Power of Nullish Coalescing Operator &lpar;??&rpar; in JavaScript/TypeScript](https://dev.to/yanagisawahidetoshi/embrace-the-power-of-nullish-coalescing-operator-in-javascripttypescript-57a3)
@@ -34,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [All You Need to Know About JavaScript Arrays](https://dev.to/devshefali/all-you-need-to-know-about-javascript-arrays-9m3)
 - [Dev.to/JS] [Sap fico training in Chennai](https://dev.to/rajkiran1651/sap-fico-training-in-chennai-bl9)
 - [Dev.to/JS] [Array methods - map, filter and reduce](https://dev.to/pardeepr08/array-methods-map-filter-and-reduce-3i45)
-- [Dev.to/JS] [Modern Web: Five Must Know Development Trends](https://dev.to/stonediggity/modern-web-five-must-know-development-trends-36md)
-- [Dev.to/JS] [What is the Event Loop in JavaScript?](https://dev.to/mikenjuki/what-is-the-event-loop-in-javascript-1k30)
-- [Dev.to/JS] [What are Higher-Order Components &lpar;HOCs&rpar; in React, and How Do You Use Them?](https://dev.to/msubhro_mukherjee/what-are-higher-order-components-hocs-in-react-and-how-do-you-use-them-2fcc)
-- [Dev.to/JS] [How to Use React Hook Form with TypeScript](https://dev.to/mohammadfaisal/how-to-use-react-hook-form-with-typescript-3cga)
-- [Dev.to/JS] [How sort&lpar;&rpar; works in javascript?](https://dev.to/kumarkalyan/how-sort-works-in-javascript-epk)
 - [Lifehacker] [Why You Need to Check Local Laws Before Booking Your Next Airbnb](https://lifehacker.com/check-local-laws-before-booking-your-summer-airbnb-1833300051)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in August 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-august-2023-1850693204)
 - [Lifehacker] [How to Return Nearly Anything Without a Receipt](https://lifehacker.com/how-to-return-nearly-anything-without-a-receipt-5853626)
