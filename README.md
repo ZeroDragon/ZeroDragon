@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best New Features From PlayStation’s System Software Beta](https://lifehacker.com/the-best-new-features-from-playstation-s-system-softwar-1850694955)
+- [Lifehacker] [&#39;Theme&#39; Every Work Day for a More Productive Week](https://lifehacker.com/theme-every-work-day-for-a-more-productive-week-1850693620)
+- [Dev.to/JS] [Building an Image Slider with Smooth Scrolling using React](https://dev.to/aneeqakhan/building-an-image-slider-with-smooth-scrolling-using-react-1jdb)
+- [Lifehacker] [Why You Need &#39;Cycling Shoes&#39; to Ride a Spin Bike &lpar;and How to Pick Them Out&rpar;](https://lifehacker.com/why-you-need-cycling-shoes-to-ride-a-spin-bike-and-how-1848026622)
 - [Lifehacker] [The Digital Tools You Need for Your Next Home- Improvement Project](https://lifehacker.com/the-digital-tools-you-need-for-your-next-home-improvem-1850694100)
 - [Dev.to/JS] [introduction](https://dev.to/zekariyasberih4/introduction-5eeb)
 - [Dev.to/JS] [Unleash the Power of ChatGPT: 5 Irresistible Prompts to Spark Your Creativity and Boost Your Productivity](https://dev.to/rishabh062/unleash-the-power-of-chatgpt-5-irresistible-prompts-to-spark-your-creativity-and-boost-your-productivity-5ab7)
@@ -46,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a JSON Parser from scratch with JS 🤯](https://dev.to/vit0rr/building-a-json-parser-from-scratch-with-js-3180)
 - [Dev.to/JS] [Day 16: Promise!](https://dev.to/dhrn/day-16-promise-3fmg)
 - [Lifehacker] [10 Celebrity Gossip Podcasts That Spill the Tea](https://lifehacker.com/best-celebrity-gossip-podcasts-1850689823)
-- [Dev.to/JS] [Simplify Asynchronous HTTP Requests with Axios in JavaScript](https://dev.to/ikamran01/simplify-asynchronous-http-requests-with-axios-in-javascript-4dhm)
 - [Lifehacker] [When to Be Honest With Your Partner, and When a White Lie is OK](https://lifehacker.com/when-to-be-honest-with-your-partner-and-when-a-white-l-1850687382)
 - [Lifehacker] [Turn Your Overcooked Steak Into Something Better](https://lifehacker.com/turn-your-overcooked-steak-into-something-better-1850687215)
 - [Lifehacker] [Ask Yourself These Questions Before Saying &#39;No&#39; at Work](https://lifehacker.com/ask-yourself-these-questions-before-saying-no-at-work-1850686442)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why the Hell Did We Ever Stop Wearing Sweatbands?](https://lifehacker.com/why-the-hell-did-we-ever-stop-wearing-sweatbands-1848156420)
 - [Lifehacker] [Trader Joe’s Falafel Might Contain Rocks, Too](https://lifehacker.com/trader-joe-s-falafel-might-contain-rocks-too-1850692151)
 - [Lifehacker] [Save Money With These Wifi-Enabled Smart Watering Devices](https://lifehacker.com/save-money-with-these-wifi-enabled-smart-watering-devic-1850690739)
-- [Lifehacker] [Keep Your Dog Cool With These DIY Frozen Treats](https://lifehacker.com/these-diy-frozen-treats-keep-your-dog-cool-when-its-hot-1725159956)
-- [Lifehacker] [This Refurbished MacBook Air Is $300 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-300-right-now-1850676276)
-- [Lifehacker] [How AI Is Used to Scam You &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/how-ai-is-used-to-scam-you-and-what-you-can-do-about-i-1850688732)
-- [Lifehacker] [When You Ask AI to Write an Obituary](https://lifehacker.com/when-you-ask-ai-to-write-an-obituary-1850502065)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Keep Your Dog Cool With These DIY Frozen Treats](https://lifehacker.com/these-diy-frozen-treats-keep-your-dog-cool-when-its-hot-1725159956)<!-- TECH-POSTS:END -->
 
 ---
 
