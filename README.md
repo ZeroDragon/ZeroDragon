@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Use Jotai and useTransition for Mutation](https://dev.to/dai_shi/how-to-use-jotai-and-usetransition-for-mutation-37gd)
 - [Dev.to/JS] [#ThisMonthInSWA - Jul 2023](https://dev.to/azure/thismonthinswa-jul-2023-348h)
 - [Dev.to/JS] [JavaScript Fundamentals: Understanding Variables, Data Types, and Operators](https://dev.to/iamcymentho/mastering-javascript-understanding-variables-data-types-and-operators-56k0)
 - [Lifehacker] [Why You Need to Check Local Laws Before Booking Your Next Airbnb](https://lifehacker.com/check-local-laws-before-booking-your-summer-airbnb-1833300051)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Keep Your Dog Cool With These DIY Frozen Treats](https://lifehacker.com/these-diy-frozen-treats-keep-your-dog-cool-when-its-hot-1725159956)
 - [Dev.to/JS] [Baby coders. Git add/commit/push and create files using terminal.](https://dev.to/jazlinbyu/baby-coders-git-addcommitpush-and-create-files-using-terminal-p1a)
 - [Lifehacker] [This Refurbished MacBook Air Is $300 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-300-right-now-1850676276)
-- [Dev.to/JS] [How to encrypt and decrypt text in javascript client side with AES CFB 256](https://dev.to/redclouds/how-to-encrypt-and-decrypt-text-in-javascript-client-side-with-aes-cfb-256-2fi7)
 - [Lifehacker] [How AI Is Used to Scam You &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/how-ai-is-used-to-scam-you-and-what-you-can-do-about-i-1850688732)
 - [Lifehacker] [When You Ask AI to Write an Obituary](https://lifehacker.com/when-you-ask-ai-to-write-an-obituary-1850502065)
 - [Lifehacker] [The Ethics of Making &lpar;and Publishing&rpar; AI Art](https://lifehacker.com/the-ethics-of-making-and-publishing-ai-art-1850688734)
