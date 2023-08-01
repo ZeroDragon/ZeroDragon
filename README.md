@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Weather App with HTML, CSS, JavaScript, and Weather API: Check the Temperature and Weather Conditions!](https://dev.to/sadiqshaik123/building-a-weather-app-with-html-css-javascript-and-weather-api-check-the-temperature-and-weather-conditions-53ik)
+- [Dev.to/JS] [Dynamic Content Loading with JavaScript](https://dev.to/iamcymentho/dynamic-content-loading-with-javascript-15hh)
+- [Dev.to/JS] [Convert Design To code Integrating Appwrite Cloud With Dhiwise](https://dev.to/terieyenike/convert-design-to-code-integrating-appwrite-cloud-with-dhiwise-o50)
+- [Lifehacker] [People Are Deadheading Their Flowers All Wrong](https://lifehacker.com/people-are-deadheading-their-flowers-all-wrong-1850690797)
 - [Dev.to/JS] [Preventing prompt injections with Honeypot functions](https://dev.to/slickstef11/preventing-prompt-injections-with-honeypot-functions-pb4)
 - [Lifehacker] [Turn a Peach Into a Sweet and Summery Pasta Sauce](https://lifehacker.com/turn-a-peach-into-a-sweet-and-summery-pasta-sauce-1850693637)
 - [Dev.to/JS] [Building a JSON Parser from scratch with JS 🤯](https://dev.to/vit0rr/building-a-json-parser-from-scratch-with-js-3180)
@@ -40,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ask Yourself These Questions Before Saying &#39;No&#39; at Work](https://lifehacker.com/ask-yourself-these-questions-before-saying-no-at-work-1850686442)
 - [Dev.to/JS] [Bugs, Errors, and Lessons: A Beginner&#39;s Debugging Experience](https://dev.to/andrewezeani/bugs-errors-and-lessons-a-beginners-debugging-experience-4502)
 - [Dev.to/JS] [Monitoring Express.js with OpenTelemetry and Uptrace](https://dev.to/uptrace/monitoring-expressjs-with-opentelemetry-and-uptrace-238c)
-- [Dev.to/JS] [🚀 9 open-source libraries YOU HAVE to contribute to in 2023 🔥](https://dev.to/github20k/9-open-source-libraries-you-have-to-contribute-to-in-2023-4071)
-- [Dev.to/JS] [Optical Character Recognition&lpar;OCR&rpar;: Extracting Text From Images with JavaScript](https://dev.to/sfundomhlungu/optical-character-recognitionocr-extracting-text-from-images-with-javascript-2ch0)
-- [Dev.to/JS] [What is event loop in nodejs ?](https://dev.to/kanhakumar143/what-is-event-loop-in-nodejs--478l)
 - [Crazy Programmer] [History of Fiber Optics](https://www.thecrazyprogrammer.com/2023/08/history-of-fiber-optics.html)
 - [Lifehacker] [Why You Need to Check Local Laws Before Booking Your Next Airbnb](https://lifehacker.com/check-local-laws-before-booking-your-summer-airbnb-1833300051)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in August 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-august-2023-1850693204)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [OpenAI’s &#39;Pay As You Go&#39; Is the Best Way to Use ChatGPT](https://lifehacker.com/openai-s-pay-as-you-go-is-the-best-way-to-use-chatgpt-1850318349)
 - [Lifehacker] [Four Ways to Build AI Tools Without Knowing How to Code](https://lifehacker.com/the-best-ways-to-build-ai-tools-without-knowing-how-to-1850535556)
 - [Lifehacker] [When It’s OK to Use AI at Work &lpar;and When It&#39;s Not&rpar;](https://lifehacker.com/when-it-s-ok-to-use-ai-at-work-and-when-its-not-1850683978)
-- [Lifehacker] [10 Fictional AI, Ranked by How Likely They Are to Kill Us All](https://lifehacker.com/10-fictional-ai-ranked-by-how-likely-they-are-to-kill-1850368045)
-- [Lifehacker] [A Beginner&#39;s Guide to Using ChatGPT Plugins](https://lifehacker.com/a-beginners-guide-to-using-chatgpt-plugins-1850578719)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Fictional AI, Ranked by How Likely They Are to Kill Us All](https://lifehacker.com/10-fictional-ai-ranked-by-how-likely-they-are-to-kill-1850368045)<!-- TECH-POSTS:END -->
 
 ---
 
