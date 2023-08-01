@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When to Be Honest With Your Partner, and When a White Lie is OK](https://lifehacker.com/when-to-be-honest-with-your-partner-and-when-a-white-l-1850687382)
+- [Dev.to/JS] [Using Document Picture-in-Picture and Insertable Streams APIs to record your screen and camera](https://dev.to/volcomix/using-document-picture-in-picture-and-insertable-streams-apis-to-record-your-screen-and-camera-5726)
+- [Lifehacker] [Turn Your Overcooked Steak Into Something Better](https://lifehacker.com/turn-your-overcooked-steak-into-something-better-1850687215)
+- [Dev.to/JS] [Automatically Replace Broken Images with &#39;blank.png&#39;: A JavaScript Loop Solution](https://dev.to/sh20raj/automatically-replace-broken-images-with-blankpng-a-javascript-loop-solution-1hbc)
+- [Lifehacker] [Ask Yourself These Questions Before Saying &#39;No&#39; at Work](https://lifehacker.com/ask-yourself-these-questions-before-saying-no-at-work-1850686442)
 - [Dev.to/JS] [Bugs, Errors, and Lessons: A Beginner&#39;s Debugging Experience](https://dev.to/andrewezeani/bugs-errors-and-lessons-a-beginners-debugging-experience-4502)
 - [Dev.to/JS] [Monitoring Express.js with OpenTelemetry and Uptrace](https://dev.to/uptrace/monitoring-expressjs-with-opentelemetry-and-uptrace-238c)
 - [Dev.to/JS] [🚀 9 open-source libraries YOU HAVE to contribute to in 2023 🔥](https://dev.to/github20k/9-open-source-libraries-you-have-to-contribute-to-in-2023-4071)
@@ -37,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Embracing Web Components: The Future of Web Development](https://dev.to/jayd007/embracing-web-components-the-future-of-web-development-3mn5)
 - [Dev.to/JS] [Exploring React&#39;s New Features: Concurrent Mode and useDeferredValue](https://dev.to/yanagisawahidetoshi/exploring-reacts-new-features-concurrent-mode-and-usedeferredvalue-574i)
 - [Dev.to/JS] [All You Need to Know About JavaScript Arrays](https://dev.to/devshefali/all-you-need-to-know-about-javascript-arrays-9m3)
-- [Dev.to/JS] [Sap fico training in Chennai](https://dev.to/rajkiran1651/sap-fico-training-in-chennai-bl9)
-- [Dev.to/JS] [Array methods - map, filter and reduce](https://dev.to/pardeepr08/array-methods-map-filter-and-reduce-3i45)
 - [Lifehacker] [Why You Need to Check Local Laws Before Booking Your Next Airbnb](https://lifehacker.com/check-local-laws-before-booking-your-summer-airbnb-1833300051)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in August 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-august-2023-1850693204)
 - [Lifehacker] [How to Return Nearly Anything Without a Receipt](https://lifehacker.com/how-to-return-nearly-anything-without-a-receipt-5853626)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Fictional AI, Ranked by How Likely They Are to Kill Us All](https://lifehacker.com/10-fictional-ai-ranked-by-how-likely-they-are-to-kill-1850368045)
 - [Lifehacker] [A Beginner&#39;s Guide to Using ChatGPT Plugins](https://lifehacker.com/a-beginners-guide-to-using-chatgpt-plugins-1850578719)
 - [Lifehacker] [11 AI-Powered Apps That Are Actually Useful](https://lifehacker.com/11-ai-powered-apps-that-are-actually-useful-1850653084)
-- [Lifehacker] [Advice I Wish Someone Had Given Me After Graduating High School](https://lifehacker.com/advice-i-wish-someone-had-given-me-after-graduating-hig-1573178134)
-- [Lifehacker] [How to Tell When an Artificial Intelligence Is &#39;Hallucinating&#39;](https://lifehacker.com/how-to-tell-when-an-artificial-intelligence-is-hallucin-1850280001)
-- [Lifehacker] [The War Between ChatGPT, Bing Chat, and Google Bard](https://lifehacker.com/the-war-between-chatgpt-bing-chat-and-google-bard-1850575579)
-- [Lifehacker] [Your Ultimate AI Glossary](https://lifehacker.com/your-ultimate-ai-glossary-1850575803)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Advice I Wish Someone Had Given Me After Graduating High School](https://lifehacker.com/advice-i-wish-someone-had-given-me-after-graduating-hig-1573178134)<!-- TECH-POSTS:END -->
 
 ---
 
