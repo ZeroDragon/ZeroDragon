@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Five Ways to Fix a Cracked Window, Ranked From the Worst to the Best Idea](https://lifehacker.com/five-ways-to-fix-a-cracked-window-ranked-from-the-wors-1850695935)
+- [Lifehacker] [How to Get &lpar;or Make&rpar; ‘Barbie Pink’ Paint, Despite a Global Shortage](https://lifehacker.com/how-to-get-or-make-barbie-pink-paint-despite-a-glo-1850697076)
+- [Dev.to/JS] [ReactJS Coding and TechTalking, come join :D](https://dev.to/arthursmuller/reactjs-coding-and-techtalking-come-join-d-4j4h)
+- [Lifehacker] [How to Use a Springform Pan &lpar;and What to Do If You Don&#39;t Have One&rpar;](https://lifehacker.com/how-to-use-a-springform-pan-and-what-to-do-if-you-dont-1848355848)
+- [Dev.to/JS] [Métodos de arrays en Javascript Parte 1](https://dev.to/stevendev/metodos-de-arrays-en-javascript-parte-1-2934)
 - [Lifehacker] [These Virtual Guitar Lessons Are $30 Right Now](https://lifehacker.com/these-virtual-guitar-lessons-are-30-right-now-1850686202)
 - [Dev.to/JS] [Story of React Native Fast Base v2!](https://dev.to/mhp23/story-of-react-native-fast-base-v2-3cma)
 - [Lifehacker] [Ferment Your Own Spicy Mustard Now, and Enjoy It All Winter](https://lifehacker.com/ferment-your-own-spicy-mustard-now-and-enjoy-it-all-wi-1850690980)
@@ -52,9 +57,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dynamic Content Loading with JavaScript](https://dev.to/iamcymentho/dynamic-content-loading-with-javascript-15hh)
 - [Dev.to/JS] [Convert Design To code Integrating Appwrite Cloud With Dhiwise](https://dev.to/terieyenike/convert-design-to-code-integrating-appwrite-cloud-with-dhiwise-o50)
 - [Lifehacker] [People Are Deadheading Their Flowers All Wrong](https://lifehacker.com/people-are-deadheading-their-flowers-all-wrong-1850690797)
-- [Dev.to/JS] [Preventing prompt injections with Honeypot functions](https://dev.to/slickstef11/preventing-prompt-injections-with-honeypot-functions-pb4)
 - [Lifehacker] [Turn a Peach Into a Sweet and Summery Pasta Sauce](https://lifehacker.com/turn-a-peach-into-a-sweet-and-summery-pasta-sauce-1850693637)
-- [Dev.to/JS] [Building a JSON Parser from scratch with JS 🤯](https://dev.to/vit0rr/building-a-json-parser-from-scratch-with-js-3180)
 - [Lifehacker] [10 Celebrity Gossip Podcasts That Spill the Tea](https://lifehacker.com/best-celebrity-gossip-podcasts-1850689823)
 - [Lifehacker] [When to Be Honest With Your Partner, and When a White Lie is OK](https://lifehacker.com/when-to-be-honest-with-your-partner-and-when-a-white-l-1850687382)
 - [Lifehacker] [Turn Your Overcooked Steak Into Something Better](https://lifehacker.com/turn-your-overcooked-steak-into-something-better-1850687215)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [History of Fiber Optics](https://www.thecrazyprogrammer.com/2023/08/history-of-fiber-optics.html)
 - [Lifehacker] [Why You Need to Check Local Laws Before Booking Your Next Airbnb](https://lifehacker.com/check-local-laws-before-booking-your-summer-airbnb-1833300051)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in August 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-august-2023-1850693204)
-- [Lifehacker] [How to Return Nearly Anything Without a Receipt](https://lifehacker.com/how-to-return-nearly-anything-without-a-receipt-5853626)
-- [Lifehacker] [This Apple Pen Alternative Is $36 Right Now](https://lifehacker.com/this-apple-pen-alternative-is-36-right-now-1850676180)
-- [Lifehacker] [What&#39;s New on Max in August 2023](https://lifehacker.com/whats-new-on-max-in-august-2023-1850692913)
-- [Lifehacker] [Make a Sweeter Caprese Salad With Peaches and Plums](https://lifehacker.com/use-stone-fruits-to-make-this-caprese-salad-1828631119)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Return Nearly Anything Without a Receipt](https://lifehacker.com/how-to-return-nearly-anything-without-a-receipt-5853626)<!-- TECH-POSTS:END -->
 
 ---
 
