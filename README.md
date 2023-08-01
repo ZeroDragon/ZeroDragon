@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Virtual Guitar Lessons Are $30 Right Now](https://lifehacker.com/these-virtual-guitar-lessons-are-30-right-now-1850686202)
+- [Dev.to/JS] [Story of React Native Fast Base v2!](https://dev.to/mhp23/story-of-react-native-fast-base-v2-3cma)
+- [Lifehacker] [Ferment Your Own Spicy Mustard Now, and Enjoy It All Winter](https://lifehacker.com/ferment-your-own-spicy-mustard-now-and-enjoy-it-all-wi-1850690980)
+- [Lifehacker] [The Best Places to Donate Used Video Games](https://lifehacker.com/donate-your-old-video-games-to-the-library-1828338040)
 - [Lifehacker] [Make an Automatically Watering Plant Wall With Your Washing Machine](https://lifehacker.com/make-an-automatically-watering-plant-wall-with-your-was-1850690875)
 - [Lifehacker] [TikTok Myth of the Week: Berberine Is &#39;Nature&#39;s Ozempic&#39;](https://lifehacker.com/berberine-isnt-nature-s-ozempic-1850693953)
 - [Lifehacker] [How to Choose the Best Mustard for Your Vinaigrette](https://lifehacker.com/how-to-choose-the-right-mustard-for-your-vinaigrette-1832912147)
@@ -51,7 +55,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Preventing prompt injections with Honeypot functions](https://dev.to/slickstef11/preventing-prompt-injections-with-honeypot-functions-pb4)
 - [Lifehacker] [Turn a Peach Into a Sweet and Summery Pasta Sauce](https://lifehacker.com/turn-a-peach-into-a-sweet-and-summery-pasta-sauce-1850693637)
 - [Dev.to/JS] [Building a JSON Parser from scratch with JS 🤯](https://dev.to/vit0rr/building-a-json-parser-from-scratch-with-js-3180)
-- [Dev.to/JS] [Day 16: Promise!](https://dev.to/dhrn/day-16-promise-3fmg)
 - [Lifehacker] [10 Celebrity Gossip Podcasts That Spill the Tea](https://lifehacker.com/best-celebrity-gossip-podcasts-1850689823)
 - [Lifehacker] [When to Be Honest With Your Partner, and When a White Lie is OK](https://lifehacker.com/when-to-be-honest-with-your-partner-and-when-a-white-l-1850687382)
 - [Lifehacker] [Turn Your Overcooked Steak Into Something Better](https://lifehacker.com/turn-your-overcooked-steak-into-something-better-1850687215)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Return Nearly Anything Without a Receipt](https://lifehacker.com/how-to-return-nearly-anything-without-a-receipt-5853626)
 - [Lifehacker] [This Apple Pen Alternative Is $36 Right Now](https://lifehacker.com/this-apple-pen-alternative-is-36-right-now-1850676180)
 - [Lifehacker] [What&#39;s New on Max in August 2023](https://lifehacker.com/whats-new-on-max-in-august-2023-1850692913)
-- [Lifehacker] [Make a Sweeter Caprese Salad With Peaches and Plums](https://lifehacker.com/use-stone-fruits-to-make-this-caprese-salad-1828631119)
-- [Lifehacker] [This Costco Membership Comes With a $45 Gift Card and $40 Off One Purchase](https://lifehacker.com/this-costco-membership-comes-with-a-45-gift-card-and-1850692844)
-- [Lifehacker] [Make Summer Cooking Tolerable With These Tools](https://lifehacker.com/make-summer-cooking-tolerable-with-these-tools-1850690788)
-- [Lifehacker] [Why the Hell Did We Ever Stop Wearing Sweatbands?](https://lifehacker.com/why-the-hell-did-we-ever-stop-wearing-sweatbands-1848156420)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make a Sweeter Caprese Salad With Peaches and Plums](https://lifehacker.com/use-stone-fruits-to-make-this-caprese-salad-1828631119)<!-- TECH-POSTS:END -->
 
 ---
 
