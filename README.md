@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Js array-introduction part-1](https://dev.to/chayti/js-array-introduction-part-1-24of)
+- [Crazy Programmer] [History of Fiber Optics](https://www.thecrazyprogrammer.com/2023/08/history-of-fiber-optics.html)
+- [Dev.to/JS] [Embrace the Power of Nullish Coalescing Operator &lpar;??&rpar; in JavaScript/TypeScript](https://dev.to/yanagisawahidetoshi/embrace-the-power-of-nullish-coalescing-operator-in-javascripttypescript-57a3)
+- [Dev.to/JS] [Embracing Web Components: The Future of Web Development](https://dev.to/jayd007/embracing-web-components-the-future-of-web-development-3mn5)
 - [Dev.to/JS] [Exploring React&#39;s New Features: Concurrent Mode and useDeferredValue](https://dev.to/yanagisawahidetoshi/exploring-reacts-new-features-concurrent-mode-and-usedeferredvalue-574i)
 - [Dev.to/JS] [All You Need to Know About JavaScript Arrays](https://dev.to/devshefali/all-you-need-to-know-about-javascript-arrays-9m3)
 - [Dev.to/JS] [Sap fico training in Chennai](https://dev.to/rajkiran1651/sap-fico-training-in-chennai-bl9)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are Higher-Order Components &lpar;HOCs&rpar; in React, and How Do You Use Them?](https://dev.to/msubhro_mukherjee/what-are-higher-order-components-hocs-in-react-and-how-do-you-use-them-2fcc)
 - [Dev.to/JS] [How to Use React Hook Form with TypeScript](https://dev.to/mohammadfaisal/how-to-use-react-hook-form-with-typescript-3cga)
 - [Dev.to/JS] [How sort&lpar;&rpar; works in javascript?](https://dev.to/kumarkalyan/how-sort-works-in-javascript-epk)
-- [Dev.to/JS] [How to Use Jotai and useTransition for Mutation](https://dev.to/dai_shi/how-to-use-jotai-and-usetransition-for-mutation-37gd)
-- [Dev.to/JS] [#ThisMonthInSWA - Jul 2023](https://dev.to/azure/thismonthinswa-jul-2023-348h)
-- [Dev.to/JS] [JavaScript Fundamentals: Understanding Variables, Data Types, and Operators](https://dev.to/iamcymentho/mastering-javascript-understanding-variables-data-types-and-operators-56k0)
 - [Lifehacker] [Why You Need to Check Local Laws Before Booking Your Next Airbnb](https://lifehacker.com/check-local-laws-before-booking-your-summer-airbnb-1833300051)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in August 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-august-2023-1850693204)
 - [Lifehacker] [How to Return Nearly Anything Without a Receipt](https://lifehacker.com/how-to-return-nearly-anything-without-a-receipt-5853626)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Advice I Wish Someone Had Given Me After Graduating High School](https://lifehacker.com/advice-i-wish-someone-had-given-me-after-graduating-hig-1573178134)
 - [Lifehacker] [How to Tell When an Artificial Intelligence Is &#39;Hallucinating&#39;](https://lifehacker.com/how-to-tell-when-an-artificial-intelligence-is-hallucin-1850280001)
 - [Lifehacker] [The War Between ChatGPT, Bing Chat, and Google Bard](https://lifehacker.com/the-war-between-chatgpt-bing-chat-and-google-bard-1850575579)
-- [Lifehacker] [Your Ultimate AI Glossary](https://lifehacker.com/your-ultimate-ai-glossary-1850575803)
-- [Lifehacker] [You Can Try Auto-GPT, the Next Generation of ChatGPT, Right Now](https://lifehacker.com/you-can-try-auto-gpt-the-next-generation-of-chatgpt-r-1850343691)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Ultimate AI Glossary](https://lifehacker.com/your-ultimate-ai-glossary-1850575803)<!-- TECH-POSTS:END -->
 
 ---
 
