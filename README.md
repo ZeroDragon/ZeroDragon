@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Preventing prompt injections with Honeypot functions](https://dev.to/slickstef11/preventing-prompt-injections-with-honeypot-functions-pb4)
+- [Lifehacker] [Turn a Peach Into a Sweet and Summery Pasta Sauce](https://lifehacker.com/turn-a-peach-into-a-sweet-and-summery-pasta-sauce-1850693637)
+- [Dev.to/JS] [Building a JSON Parser from scratch with JS 🤯](https://dev.to/vit0rr/building-a-json-parser-from-scratch-with-js-3180)
+- [Dev.to/JS] [Day 16: Promise!](https://dev.to/dhrn/day-16-promise-3fmg)
+- [Lifehacker] [10 Celebrity Gossip Podcasts That Spill the Tea](https://lifehacker.com/best-celebrity-gossip-podcasts-1850689823)
+- [Dev.to/JS] [Simplify Asynchronous HTTP Requests with Axios in JavaScript](https://dev.to/ikamran01/simplify-asynchronous-http-requests-with-axios-in-javascript-4dhm)
+- [Dev.to/JS] [Boost Your Website&#39;s Security and SEO Rankings with HTTPS Fetch](https://dev.to/ikamran01/boost-your-websites-security-and-seo-rankings-with-https-fetch-gjg)
 - [Lifehacker] [When to Be Honest With Your Partner, and When a White Lie is OK](https://lifehacker.com/when-to-be-honest-with-your-partner-and-when-a-white-l-1850687382)
 - [Dev.to/JS] [Using Document Picture-in-Picture and Insertable Streams APIs to record your screen and camera](https://dev.to/volcomix/using-document-picture-in-picture-and-insertable-streams-apis-to-record-your-screen-and-camera-5726)
 - [Lifehacker] [Turn Your Overcooked Steak Into Something Better](https://lifehacker.com/turn-your-overcooked-steak-into-something-better-1850687215)
@@ -36,12 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀 9 open-source libraries YOU HAVE to contribute to in 2023 🔥](https://dev.to/github20k/9-open-source-libraries-you-have-to-contribute-to-in-2023-4071)
 - [Dev.to/JS] [Optical Character Recognition&lpar;OCR&rpar;: Extracting Text From Images with JavaScript](https://dev.to/sfundomhlungu/optical-character-recognitionocr-extracting-text-from-images-with-javascript-2ch0)
 - [Dev.to/JS] [What is event loop in nodejs ?](https://dev.to/kanhakumar143/what-is-event-loop-in-nodejs--478l)
-- [Dev.to/JS] [Js array-introduction part-1](https://dev.to/chayti/js-array-introduction-part-1-24of)
 - [Crazy Programmer] [History of Fiber Optics](https://www.thecrazyprogrammer.com/2023/08/history-of-fiber-optics.html)
-- [Dev.to/JS] [Embrace the Power of Nullish Coalescing Operator &lpar;??&rpar; in JavaScript/TypeScript](https://dev.to/yanagisawahidetoshi/embrace-the-power-of-nullish-coalescing-operator-in-javascripttypescript-57a3)
-- [Dev.to/JS] [Embracing Web Components: The Future of Web Development](https://dev.to/jayd007/embracing-web-components-the-future-of-web-development-3mn5)
-- [Dev.to/JS] [Exploring React&#39;s New Features: Concurrent Mode and useDeferredValue](https://dev.to/yanagisawahidetoshi/exploring-reacts-new-features-concurrent-mode-and-usedeferredvalue-574i)
-- [Dev.to/JS] [All You Need to Know About JavaScript Arrays](https://dev.to/devshefali/all-you-need-to-know-about-javascript-arrays-9m3)
 - [Lifehacker] [Why You Need to Check Local Laws Before Booking Your Next Airbnb](https://lifehacker.com/check-local-laws-before-booking-your-summer-airbnb-1833300051)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in August 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-august-2023-1850693204)
 - [Lifehacker] [How to Return Nearly Anything Without a Receipt](https://lifehacker.com/how-to-return-nearly-anything-without-a-receipt-5853626)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Four Ways to Build AI Tools Without Knowing How to Code](https://lifehacker.com/the-best-ways-to-build-ai-tools-without-knowing-how-to-1850535556)
 - [Lifehacker] [When It’s OK to Use AI at Work &lpar;and When It&#39;s Not&rpar;](https://lifehacker.com/when-it-s-ok-to-use-ai-at-work-and-when-its-not-1850683978)
 - [Lifehacker] [10 Fictional AI, Ranked by How Likely They Are to Kill Us All](https://lifehacker.com/10-fictional-ai-ranked-by-how-likely-they-are-to-kill-1850368045)
-- [Lifehacker] [A Beginner&#39;s Guide to Using ChatGPT Plugins](https://lifehacker.com/a-beginners-guide-to-using-chatgpt-plugins-1850578719)
-- [Lifehacker] [11 AI-Powered Apps That Are Actually Useful](https://lifehacker.com/11-ai-powered-apps-that-are-actually-useful-1850653084)
-- [Lifehacker] [Advice I Wish Someone Had Given Me After Graduating High School](https://lifehacker.com/advice-i-wish-someone-had-given-me-after-graduating-hig-1573178134)<!-- TECH-POSTS:END -->
+- [Lifehacker] [A Beginner&#39;s Guide to Using ChatGPT Plugins](https://lifehacker.com/a-beginners-guide-to-using-chatgpt-plugins-1850578719)<!-- TECH-POSTS:END -->
 
 ---
 
