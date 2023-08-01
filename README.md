@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Where to Watch &#39;Castlevania: Nocturne&#39; &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-castlevania-nocturne-and-what-you-shou-1850686916)
+- [Dev.to/JS] [Building an end-to-end chat app by only writing front-end code](https://dev.to/gabrielctroia/building-an-end-to-end-chat-app-by-only-writing-front-end-code-44ng)
+- [Dev.to/JS] [Why is using TypeScript a good idea?](https://dev.to/clickit_devops/why-is-using-typescript-a-good-idea-2gc7)
+- [Lifehacker] [This ChatGPT and Python Course Is $30](https://lifehacker.com/this-chatgpt-and-python-course-is-30-1850676154)
+- [Lifehacker] [How to Avoid an Airline&#39;s Manipulative &#39;Seat Selection&#39; Fee](https://lifehacker.com/how-to-avoid-an-airlines-bullshit-seat-selection-fee-1847345736)
+- [Dev.to/JS] [Implementing To-Do List using JavaScript:](https://dev.to/iamcymentho/implementing-to-do-list-using-javascript-32a7)
 - [Lifehacker] [Five Ways to Fix a Cracked Window, Ranked From the Worst to the Best Idea](https://lifehacker.com/five-ways-to-fix-a-cracked-window-ranked-from-the-wors-1850695935)
 - [Lifehacker] [How to Get &lpar;or Make&rpar; ‘Barbie Pink’ Paint, Despite a Global Shortage](https://lifehacker.com/how-to-get-or-make-barbie-pink-paint-despite-a-glo-1850697076)
 - [Dev.to/JS] [ReactJS Coding and TechTalking, come join :D](https://dev.to/arthursmuller/reactjs-coding-and-techtalking-come-join-d-4j4h)
@@ -53,19 +59,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to exchange data between Angular components](https://dev.to/aymenmissaouii/how-to-exchange-data-between-angular-components-4n2k)
 - [Dev.to/JS] [JS Challenge: Remove duplicates from an array](https://dev.to/jlogix/js-challenge-remove-duplicates-from-an-array-1hbi)
 - [Lifehacker] [Just Go Buy the Weird Padded Cycling Shorts](https://lifehacker.com/just-go-buy-the-weird-padded-cycling-shorts-1850688084)
-- [Dev.to/JS] [Building a Weather App with HTML, CSS, JavaScript, and Weather API: Check the Temperature and Weather Conditions!](https://dev.to/sadiqshaik123/building-a-weather-app-with-html-css-javascript-and-weather-api-check-the-temperature-and-weather-conditions-53ik)
-- [Dev.to/JS] [Dynamic Content Loading with JavaScript](https://dev.to/iamcymentho/dynamic-content-loading-with-javascript-15hh)
-- [Dev.to/JS] [Convert Design To code Integrating Appwrite Cloud With Dhiwise](https://dev.to/terieyenike/convert-design-to-code-integrating-appwrite-cloud-with-dhiwise-o50)
 - [Lifehacker] [People Are Deadheading Their Flowers All Wrong](https://lifehacker.com/people-are-deadheading-their-flowers-all-wrong-1850690797)
 - [Lifehacker] [Turn a Peach Into a Sweet and Summery Pasta Sauce](https://lifehacker.com/turn-a-peach-into-a-sweet-and-summery-pasta-sauce-1850693637)
 - [Lifehacker] [10 Celebrity Gossip Podcasts That Spill the Tea](https://lifehacker.com/best-celebrity-gossip-podcasts-1850689823)
 - [Lifehacker] [When to Be Honest With Your Partner, and When a White Lie is OK](https://lifehacker.com/when-to-be-honest-with-your-partner-and-when-a-white-l-1850687382)
 - [Lifehacker] [Turn Your Overcooked Steak Into Something Better](https://lifehacker.com/turn-your-overcooked-steak-into-something-better-1850687215)
 - [Lifehacker] [Ask Yourself These Questions Before Saying &#39;No&#39; at Work](https://lifehacker.com/ask-yourself-these-questions-before-saying-no-at-work-1850686442)
-- [Crazy Programmer] [History of Fiber Optics](https://www.thecrazyprogrammer.com/2023/08/history-of-fiber-optics.html)
-- [Lifehacker] [Why You Need to Check Local Laws Before Booking Your Next Airbnb](https://lifehacker.com/check-local-laws-before-booking-your-summer-airbnb-1833300051)
-- [Lifehacker] [What&#39;s New on Prime Video and Freevee in August 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-august-2023-1850693204)
-- [Lifehacker] [How to Return Nearly Anything Without a Receipt](https://lifehacker.com/how-to-return-nearly-anything-without-a-receipt-5853626)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [History of Fiber Optics](https://www.thecrazyprogrammer.com/2023/08/history-of-fiber-optics.html)<!-- TECH-POSTS:END -->
 
 ---
 
