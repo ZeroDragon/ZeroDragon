@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make an Automatically Watering Plant Wall With Your Washing Machine](https://lifehacker.com/make-an-automatically-watering-plant-wall-with-your-was-1850690875)
+- [Lifehacker] [TikTok Myth of the Week: Berberine Is &#39;Nature&#39;s Ozempic&#39;](https://lifehacker.com/berberine-isnt-nature-s-ozempic-1850693953)
+- [Lifehacker] [How to Choose the Best Mustard for Your Vinaigrette](https://lifehacker.com/how-to-choose-the-right-mustard-for-your-vinaigrette-1832912147)
 - [Lifehacker] [The Best New Features From PlayStation’s System Software Beta](https://lifehacker.com/the-best-new-features-from-playstation-s-system-softwar-1850694955)
 - [Lifehacker] [&#39;Theme&#39; Every Work Day for a More Productive Week](https://lifehacker.com/theme-every-work-day-for-a-more-productive-week-1850693620)
 - [Dev.to/JS] [Building an Image Slider with Smooth Scrolling using React](https://dev.to/aneeqakhan/building-an-image-slider-with-smooth-scrolling-using-react-1jdb)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a Sweeter Caprese Salad With Peaches and Plums](https://lifehacker.com/use-stone-fruits-to-make-this-caprese-salad-1828631119)
 - [Lifehacker] [This Costco Membership Comes With a $45 Gift Card and $40 Off One Purchase](https://lifehacker.com/this-costco-membership-comes-with-a-45-gift-card-and-1850692844)
 - [Lifehacker] [Make Summer Cooking Tolerable With These Tools](https://lifehacker.com/make-summer-cooking-tolerable-with-these-tools-1850690788)
-- [Lifehacker] [Why the Hell Did We Ever Stop Wearing Sweatbands?](https://lifehacker.com/why-the-hell-did-we-ever-stop-wearing-sweatbands-1848156420)
-- [Lifehacker] [Trader Joe’s Falafel Might Contain Rocks, Too](https://lifehacker.com/trader-joe-s-falafel-might-contain-rocks-too-1850692151)
-- [Lifehacker] [Save Money With These Wifi-Enabled Smart Watering Devices](https://lifehacker.com/save-money-with-these-wifi-enabled-smart-watering-devic-1850690739)
-- [Lifehacker] [Keep Your Dog Cool With These DIY Frozen Treats](https://lifehacker.com/these-diy-frozen-treats-keep-your-dog-cool-when-its-hot-1725159956)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why the Hell Did We Ever Stop Wearing Sweatbands?](https://lifehacker.com/why-the-hell-did-we-ever-stop-wearing-sweatbands-1848156420)<!-- TECH-POSTS:END -->
 
 ---
 
