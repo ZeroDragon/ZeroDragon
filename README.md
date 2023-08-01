@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Array methods - map, filter and reduce](https://dev.to/pardeepr08/array-methods-map-filter-and-reduce-3i45)
 - [Dev.to/JS] [Modern Web: Five Must Know Development Trends](https://dev.to/stonediggity/modern-web-five-must-know-development-trends-36md)
 - [Dev.to/JS] [What is the Event Loop in JavaScript?](https://dev.to/mikenjuki/what-is-the-event-loop-in-javascript-1k30)
 - [Dev.to/JS] [What are Higher-Order Components &lpar;HOCs&rpar; in React, and How Do You Use Them?](https://dev.to/msubhro_mukherjee/what-are-higher-order-components-hocs-in-react-and-how-do-you-use-them-2fcc)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Return Nearly Anything Without a Receipt](https://lifehacker.com/how-to-return-nearly-anything-without-a-receipt-5853626)
 - [Dev.to/JS] [Mock API / Fetch Request](https://dev.to/bit092/mock-api-fetch-request-15l2)
 - [Lifehacker] [This Apple Pen Alternative Is $36 Right Now](https://lifehacker.com/this-apple-pen-alternative-is-36-right-now-1850676180)
-- [Dev.to/JS] [Gnarly Learnings from July 2023](https://dev.to/efertsch/gnarly-learnings-from-july-2023-45ch)
 - [Lifehacker] [What&#39;s New on Max in August 2023](https://lifehacker.com/whats-new-on-max-in-august-2023-1850692913)
 - [Lifehacker] [Make a Sweeter Caprese Salad With Peaches and Plums](https://lifehacker.com/use-stone-fruits-to-make-this-caprese-salad-1828631119)
 - [Lifehacker] [This Costco Membership Comes With a $45 Gift Card and $40 Off One Purchase](https://lifehacker.com/this-costco-membership-comes-with-a-45-gift-card-and-1850692844)
