@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring React&#39;s New Features: Concurrent Mode and useDeferredValue](https://dev.to/yanagisawahidetoshi/exploring-reacts-new-features-concurrent-mode-and-usedeferredvalue-574i)
 - [Dev.to/JS] [All You Need to Know About JavaScript Arrays](https://dev.to/devshefali/all-you-need-to-know-about-javascript-arrays-9m3)
 - [Dev.to/JS] [Sap fico training in Chennai](https://dev.to/rajkiran1651/sap-fico-training-in-chennai-bl9)
 - [Dev.to/JS] [Array methods - map, filter and reduce](https://dev.to/pardeepr08/array-methods-map-filter-and-reduce-3i45)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#ThisMonthInSWA - Jul 2023](https://dev.to/azure/thismonthinswa-jul-2023-348h)
 - [Dev.to/JS] [JavaScript Fundamentals: Understanding Variables, Data Types, and Operators](https://dev.to/iamcymentho/mastering-javascript-understanding-variables-data-types-and-operators-56k0)
 - [Lifehacker] [Why You Need to Check Local Laws Before Booking Your Next Airbnb](https://lifehacker.com/check-local-laws-before-booking-your-summer-airbnb-1833300051)
-- [Dev.to/JS] [10 Best Free React UI Libraries in 2023](https://dev.to/ashutoshmishra/10-best-free-react-ui-libraries-in-2023-3ki0)
 - [Lifehacker] [What&#39;s New on Prime Video and Freevee in August 2023](https://lifehacker.com/whats-new-on-prime-video-and-freevee-in-august-2023-1850693204)
 - [Lifehacker] [How to Return Nearly Anything Without a Receipt](https://lifehacker.com/how-to-return-nearly-anything-without-a-receipt-5853626)
 - [Lifehacker] [This Apple Pen Alternative Is $36 Right Now](https://lifehacker.com/this-apple-pen-alternative-is-36-right-now-1850676180)
