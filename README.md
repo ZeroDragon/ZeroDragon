@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Digital Tools You Need for Your Next Home- Improvement Project](https://lifehacker.com/the-digital-tools-you-need-for-your-next-home-improvem-1850694100)
+- [Dev.to/JS] [introduction](https://dev.to/zekariyasberih4/introduction-5eeb)
+- [Dev.to/JS] [Unleash the Power of ChatGPT: 5 Irresistible Prompts to Spark Your Creativity and Boost Your Productivity](https://dev.to/rishabh062/unleash-the-power-of-chatgpt-5-irresistible-prompts-to-spark-your-creativity-and-boost-your-productivity-5ab7)
+- [Lifehacker] [How to Successfully Dispute a Credit Card Charge](https://lifehacker.com/how-to-successfully-dispute-a-credit-card-charge-1850687758)
+- [Lifehacker] [Your Phone Is Even Grosser Than You Think](https://lifehacker.com/clean-your-phone-right-now-1832426763)
 - [Lifehacker] [Every Term a First-Time Homebuyer Should Know](https://lifehacker.com/every-term-a-first-time-homebuyer-should-know-1850684147)
 - [Dev.to/JS] [Creating an NPM Package: From Company Utility to Public Module with 555 Weekly Downloads](https://dev.to/eworld/creating-an-npm-package-from-company-utility-to-public-module-with-555-weekly-downloads-1ohh)
 - [Lifehacker] [You Can Change the X Icon Back to the Twitter Bird on Your Phone](https://lifehacker.com/you-can-change-the-x-icon-back-to-the-twitter-bird-on-y-1850693575)
@@ -42,9 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 16: Promise!](https://dev.to/dhrn/day-16-promise-3fmg)
 - [Lifehacker] [10 Celebrity Gossip Podcasts That Spill the Tea](https://lifehacker.com/best-celebrity-gossip-podcasts-1850689823)
 - [Dev.to/JS] [Simplify Asynchronous HTTP Requests with Axios in JavaScript](https://dev.to/ikamran01/simplify-asynchronous-http-requests-with-axios-in-javascript-4dhm)
-- [Dev.to/JS] [Boost Your Website&#39;s Security and SEO Rankings with HTTPS Fetch](https://dev.to/ikamran01/boost-your-websites-security-and-seo-rankings-with-https-fetch-gjg)
 - [Lifehacker] [When to Be Honest With Your Partner, and When a White Lie is OK](https://lifehacker.com/when-to-be-honest-with-your-partner-and-when-a-white-l-1850687382)
-- [Dev.to/JS] [Using Document Picture-in-Picture and Insertable Streams APIs to record your screen and camera](https://dev.to/volcomix/using-document-picture-in-picture-and-insertable-streams-apis-to-record-your-screen-and-camera-5726)
 - [Lifehacker] [Turn Your Overcooked Steak Into Something Better](https://lifehacker.com/turn-your-overcooked-steak-into-something-better-1850687215)
 - [Lifehacker] [Ask Yourself These Questions Before Saying &#39;No&#39; at Work](https://lifehacker.com/ask-yourself-these-questions-before-saying-no-at-work-1850686442)
 - [Crazy Programmer] [History of Fiber Optics](https://www.thecrazyprogrammer.com/2023/08/history-of-fiber-optics.html)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Keep Your Dog Cool With These DIY Frozen Treats](https://lifehacker.com/these-diy-frozen-treats-keep-your-dog-cool-when-its-hot-1725159956)
 - [Lifehacker] [This Refurbished MacBook Air Is $300 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-300-right-now-1850676276)
 - [Lifehacker] [How AI Is Used to Scam You &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/how-ai-is-used-to-scam-you-and-what-you-can-do-about-i-1850688732)
-- [Lifehacker] [When You Ask AI to Write an Obituary](https://lifehacker.com/when-you-ask-ai-to-write-an-obituary-1850502065)
-- [Lifehacker] [The Ethics of Making &lpar;and Publishing&rpar; AI Art](https://lifehacker.com/the-ethics-of-making-and-publishing-ai-art-1850688734)
-- [Lifehacker] [Why Our Laws and Regulations Aren’t Ready for AI](https://lifehacker.com/why-our-laws-and-regulations-aren-t-ready-for-ai-1850671379)
-- [Lifehacker] [OpenAI’s &#39;Pay As You Go&#39; Is the Best Way to Use ChatGPT](https://lifehacker.com/openai-s-pay-as-you-go-is-the-best-way-to-use-chatgpt-1850318349)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When You Ask AI to Write an Obituary](https://lifehacker.com/when-you-ask-ai-to-write-an-obituary-1850502065)<!-- TECH-POSTS:END -->
 
 ---
 
