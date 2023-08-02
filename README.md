@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Weekly web development resources #160](https://dev.to/vincenius/weekly-web-development-resources-160-3cpf)
+- [Dev.to/JS] [Simplifying Asynchronous Code with Promises in JavaScript](https://dev.to/nnnirajn/simplifying-asynchronous-code-with-promises-in-javascript-538h)
+- [Dev.to/JS] [What will the console log in this example?](https://dev.to/chandrapenugonda/what-will-the-console-log-in-this-example-391b)
 - [Dev.to/JS] [Amazing native Modal with just HTML: meet &lt;dialog&gt; element](https://dev.to/lucasm/amazing-native-modal-with-just-html-meet-element-4jpl)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Using Date and Time in Node.js](https://dev.to/techsolutionstuff/a-beginners-guide-to-using-date-and-time-in-nodejs-4chk)
 - [Dev.to/JS] [Enrich an object - Javascript Recipe](https://dev.to/druchan/enrich-an-object-javascript-recipe-4010)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Safe, simple, sequential promises in Javascript](https://dev.to/druchan/safe-simple-sequential-promises-in-javascript-c0n)
 - [Dev.to/JS] [Parallel promises made simple - Javascript Tip](https://dev.to/druchan/parallel-promises-made-simple-javascript-tip-ih9)
 - [Dev.to/JS] [Advanced switch-case / pattern-matching in Javascript](https://dev.to/druchan/advanced-switch-case-pattern-matching-in-javascript-36el)
-- [Dev.to/JS] [Top Websites to Practice Programming 🚀](https://dev.to/joselatines/top-websites-to-practice-programming-45h5)
-- [Dev.to/JS] [A Magia do Event Loop](https://dev.to/ocodista/a-magia-do-event-loop-in1)
-- [Dev.to/JS] [Set Up Webpack 5 To Work With Static Files](https://dev.to/matheus4lves/set-up-webpack-5-to-work-with-static-files-52gk)
 - [Lifehacker] [Where to Watch &#39;Castlevania: Nocturne&#39; &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-castlevania-nocturne-and-what-you-shou-1850686916)
 - [Lifehacker] [This ChatGPT and Python Course Is $30](https://lifehacker.com/this-chatgpt-and-python-course-is-30-1850676154)
 - [Lifehacker] [How to Avoid an Airline&#39;s Manipulative &#39;Seat Selection&#39; Fee](https://lifehacker.com/how-to-avoid-an-airlines-bullshit-seat-selection-fee-1847345736)
