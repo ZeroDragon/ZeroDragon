@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top Websites to Practice Programming 🚀](https://dev.to/joselatines/top-websites-to-practice-programming-45h5)
 - [Dev.to/JS] [A Magia do Event Loop](https://dev.to/ocodista/a-magia-do-event-loop-in1)
 - [Dev.to/JS] [Set Up Webpack 5 To Work With Static Files](https://dev.to/matheus4lves/set-up-webpack-5-to-work-with-static-files-52gk)
 - [Dev.to/JS] [Jet Set Radio API](https://dev.to/razznblue/jet-set-radio-api-46d9)
@@ -53,7 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Need &#39;Cycling Shoes&#39; to Ride a Spin Bike &lpar;and How to Pick Them Out&rpar;](https://lifehacker.com/why-you-need-cycling-shoes-to-ride-a-spin-bike-and-how-1848026622)
 - [Lifehacker] [The Digital Tools You Need for Your Next Home- Improvement Project](https://lifehacker.com/the-digital-tools-you-need-for-your-next-home-improvem-1850694100)
 - [Dev.to/JS] [introduction](https://dev.to/zekariyasberih4/introduction-5eeb)
-- [Dev.to/JS] [Unleash the Power of ChatGPT: 5 Irresistible Prompts to Spark Your Creativity and Boost Your Productivity](https://dev.to/rishabh062/unleash-the-power-of-chatgpt-5-irresistible-prompts-to-spark-your-creativity-and-boost-your-productivity-5ab7)
 - [Lifehacker] [How to Successfully Dispute a Credit Card Charge](https://lifehacker.com/how-to-successfully-dispute-a-credit-card-charge-1850687758)
 - [Lifehacker] [Your Phone Is Even Grosser Than You Think](https://lifehacker.com/clean-your-phone-right-now-1832426763)
 - [Lifehacker] [Every Term a First-Time Homebuyer Should Know](https://lifehacker.com/every-term-a-first-time-homebuyer-should-know-1850684147)
