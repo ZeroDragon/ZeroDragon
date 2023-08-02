@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Operator Precedence and Template Strings: Avoiding Bugs and Clarifying Code](https://dev.to/yanagisawahidetoshi/javascript-operator-precedence-and-template-strings-avoiding-bugs-and-clarifying-code-1id5)
+- [Dev.to/JS] [How To Permanently Redirect &lpar;301, 308&rpar; with Next JS](https://dev.to/robmarshall/how-to-permanently-redirect-301-308-with-next-js-pfp)
+- [Dev.to/JS] [How to create simple Angular signal&lpar;&rpar; in JS](https://dev.to/baypanic/how-to-create-simple-angular-signal-in-js-38fc)
 - [Dev.to/JS] [React Performance Boost: An Introduction to Million.js](https://dev.to/yanagisawahidetoshi/react-performance-boost-an-introduction-to-millionjs-1cad)
 - [Dev.to/JS] [Beginner&#39;s Guide to Loops in JavaScript](https://dev.to/bindupatidar/beginners-guide-to-loops-in-javascript-110o)
 - [Dev.to/JS] [Meet Me](https://dev.to/hamishleahy/meet-me-2h6d)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Weather App: An app that fetches and displays the weather information of a given location using an API with JavaScript](https://dev.to/iamcymentho/weather-app-an-app-that-fetches-and-displays-the-weather-information-of-a-given-location-using-an-api-with-javascript-3pji)
 - [Dev.to/JS] [Chrome Debugger is easier to use than you might think](https://dev.to/this-is-learning/chrome-debugger-is-easier-to-use-than-you-might-think-c8)
 - [Dev.to/JS] [From Concept to Reality: Hiring Your Dedicated Software Development Dream Team](https://dev.to/go-techsolution/from-concept-to-reality-hiring-your-dedicated-software-development-dream-team-4jn2)
-- [Dev.to/JS] [What you should know about web APIs](https://dev.to/how-to-dev/what-you-should-know-about-web-apis-224m)
-- [Dev.to/JS] [Modern Frontend Development&#39;s Secret Weapon: Aspida for Simple and Type-safe API Calls](https://dev.to/yanagisawahidetoshi/modern-frontend-developments-secret-weapon-aspida-for-simple-and-type-safe-api-calls-e7h)
-- [Dev.to/JS] [Weekly web development resources #160](https://dev.to/vincenius/weekly-web-development-resources-160-3cpf)
 - [Lifehacker] [Where to Watch &#39;Castlevania: Nocturne&#39; &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-castlevania-nocturne-and-what-you-shou-1850686916)
 - [Lifehacker] [This ChatGPT and Python Course Is $30](https://lifehacker.com/this-chatgpt-and-python-course-is-30-1850676154)
 - [Lifehacker] [How to Avoid an Airline&#39;s Manipulative &#39;Seat Selection&#39; Fee](https://lifehacker.com/how-to-avoid-an-airlines-bullshit-seat-selection-fee-1847345736)
