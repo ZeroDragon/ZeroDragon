@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This HD Beginner-Friendly Drone Is $90 Right Now](https://lifehacker.com/this-hd-beginner-friendly-drone-is-90-right-now-1850686579)
+- [Lifehacker] [The Difference Between ‘Sleep It Off’ Drunk and ‘Call 911’ Drunk](https://lifehacker.com/is-your-friend-sleep-it-off-drunk-or-call-911-drunk-1725380214)
+- [Dev.to/JS] [Indices of the two numbers such that they add up to a specific target](https://dev.to/chandrapenugonda/indices-of-the-two-numbers-such-that-they-add-up-to-a-specific-target-7ee)
 - [Lifehacker] [Sync for Reddit Is Back, but Now It’s for Lemmy](https://lifehacker.com/sync-for-reddit-is-back-but-now-it-s-for-lemmy-1850700292)
 - [Dev.to/JS] [find the majority element](https://dev.to/chandrapenugonda/find-the-majority-element-4i62)
 - [Dev.to/JS] [Javascript or Typescript?](https://dev.to/ebrargursel/javascript-or-typescript-16fa)
@@ -53,7 +56,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Peloton Might Have a Secret Netflix App](https://lifehacker.com/check-your-peloton-for-a-secret-netflix-app-1850699394)
 - [Lifehacker] [20 Awesome Indie Games You Should Play on Nintendo Switch](https://lifehacker.com/best-indie-games-nintendo-switch-1850699453)
 - [Dev.to/JS] [Serialization and Deserialization in JavaScript](https://dev.to/maafaishal/serialization-and-deserialization-in-javascript-3kdd)
-- [Dev.to/JS] [Return JSON from OpenAI to build AI enhanced APIs](https://dev.to/slickstef11/return-json-from-openai-to-build-ai-enhanced-apis-1akm)
 - [Lifehacker] [Don’t Panic, But Leprosy Might Be Endemic in Florida Now](https://lifehacker.com/don-t-panic-but-leprosy-might-be-endemic-in-florida-no-1850697569)
 - [Lifehacker] [Don’t Pay These Easily Avoidable Travel Fees From Major Airlines](https://lifehacker.com/don-t-pay-these-easily-avoidable-travel-fees-from-major-1850697515)
 - [Lifehacker] [Sorry, but You’ll Never Win the Mega Millions Jackpot](https://lifehacker.com/winning-the-powerball-lottery-won-t-solve-your-problems-1752378740)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Watch &#39;Castlevania: Nocturne&#39; &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-castlevania-nocturne-and-what-you-shou-1850686916)
 - [Lifehacker] [This ChatGPT and Python Course Is $30](https://lifehacker.com/this-chatgpt-and-python-course-is-30-1850676154)
 - [Lifehacker] [How to Avoid an Airline&#39;s Manipulative &#39;Seat Selection&#39; Fee](https://lifehacker.com/how-to-avoid-an-airlines-bullshit-seat-selection-fee-1847345736)
-- [Lifehacker] [Five Ways to Fix a Cracked Window, Ranked From the Worst to the Best Idea](https://lifehacker.com/five-ways-to-fix-a-cracked-window-ranked-from-the-wors-1850695935)
-- [Lifehacker] [How to Get &lpar;or Make&rpar; ‘Barbie Pink’ Paint, Despite a Global Shortage](https://lifehacker.com/how-to-get-or-make-barbie-pink-paint-despite-a-glo-1850697076)
-- [Lifehacker] [How to Use a Springform Pan &lpar;and What to Do If You Don&#39;t Have One&rpar;](https://lifehacker.com/how-to-use-a-springform-pan-and-what-to-do-if-you-dont-1848355848)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five Ways to Fix a Cracked Window, Ranked From the Worst to the Best Idea](https://lifehacker.com/five-ways-to-fix-a-cracked-window-ranked-from-the-wors-1850695935)<!-- TECH-POSTS:END -->
 
 ---
 
