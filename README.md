@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adaptable and Efficient AI-powered visual system](https://dev.to/aiforme/adaptable-and-efficient-ai-powered-visual-system-1odc)
+- [Dev.to/JS] [What are Closures in JavaScript?](https://dev.to/crackjks/what-are-closures-in-javascript-4n5a)
+- [Dev.to/JS] [Day 17: Promise Executions](https://dev.to/dhrn/day-17-promise-executions-5fki)
+- [Lifehacker] [Don’t Pay These Easily Avoidable Travel Fees From Major Airlines](https://lifehacker.com/don-t-pay-these-easily-avoidable-travel-fees-from-major-1850697515)
+- [Dev.to/JS] [Mastering Assignment Help: Your Path to Academic Excellence](https://dev.to/jimmysamson/mastering-assignment-help-your-path-to-academic-excellence-han)
+- [Lifehacker] [Sorry, but You’ll Never Win the Mega Millions Jackpot](https://lifehacker.com/winning-the-powerball-lottery-won-t-solve-your-problems-1752378740)
 - [Dev.to/JS] [The Pros and Cons of Learning Web Development Directly with Frameworks](https://dev.to/idurar/the-pros-and-cons-of-learning-web-development-directly-with-frameworks-37jo)
 - [Lifehacker] [Why You Should Never Use Your Retirement Savings to Pay Off Debt](https://lifehacker.com/why-you-should-never-use-your-retirement-savings-to-pay-1850696666)
 - [Dev.to/JS] [Understanding and Unleashing the Power of React.Fragment](https://dev.to/diwakarkashyap/understanding-and-unleashing-the-power-of-reactfragment-2584)
@@ -34,13 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SvelteKit Routing : A Visual Guide](https://dev.to/builderio/sveltekit-routing-a-visual-guide-4heg)
 - [Dev.to/JS] [Routing and SEO Metadata in Next.js 13](https://dev.to/builderio/routing-and-seo-metadata-in-nextjs-13-3adl)
 - [Dev.to/JS] [Qwik City Routing: A Visual Guide](https://dev.to/builderio/qwik-city-routing-a-visual-guide-152a)
-- [Dev.to/JS] [Working with FormData in Angular 16](https://dev.to/devstoc/working-with-formdata-in-angular-16-41le)
 - [Lifehacker] [My Favorite Storage Solutions for Any Dorm or Small Living Space](https://lifehacker.com/my-favorite-storage-solutions-for-any-dorm-or-small-liv-1850695911)
 - [Dev.to/JS] [Mastering Input Handling with the Debounce Function in React.js: A Journey to Seamless User Experiences](https://dev.to/raymondkingjnr/mastering-input-handling-with-the-debounce-function-in-reactjs-a-journey-to-seamless-user-experiences-kb3)
 - [Dev.to/JS] [How to keep the folder structure of source templates in Webpack for output HTML files](https://dev.to/webdiscus/how-to-keep-the-folder-structure-of-source-templates-in-webpack-for-output-html-files-39bj)
-- [Dev.to/JS] [How to create a launch countdown timer with JavaScript in 10 minutes](https://dev.to/tobezhanabi/how-to-create-a-launch-countdown-timer-with-javascript-in-10-minutes-2kp9)
-- [Dev.to/JS] [Get a profile views widget for your portfolio](https://dev.to/ramunarasinga/get-a-profile-views-widget-for-your-portfolio-66k)
-- [Dev.to/JS] [Best CSS Animation on internet](https://dev.to/democode7451/best-css-animation-on-internet-1hd8)
 - [Lifehacker] [Where to Watch &#39;Castlevania: Nocturne&#39; &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-castlevania-nocturne-and-what-you-shou-1850686916)
 - [Lifehacker] [This ChatGPT and Python Course Is $30](https://lifehacker.com/this-chatgpt-and-python-course-is-30-1850676154)
 - [Lifehacker] [How to Avoid an Airline&#39;s Manipulative &#39;Seat Selection&#39; Fee](https://lifehacker.com/how-to-avoid-an-airlines-bullshit-seat-selection-fee-1847345736)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Change the X Icon Back to the Twitter Bird on Your Phone](https://lifehacker.com/you-can-change-the-x-icon-back-to-the-twitter-bird-on-y-1850693575)
 - [Lifehacker] [Just Go Buy the Weird Padded Cycling Shorts](https://lifehacker.com/just-go-buy-the-weird-padded-cycling-shorts-1850688084)
 - [Lifehacker] [People Are Deadheading Their Flowers All Wrong](https://lifehacker.com/people-are-deadheading-their-flowers-all-wrong-1850690797)
-- [Lifehacker] [Turn a Peach Into a Sweet and Summery Pasta Sauce](https://lifehacker.com/turn-a-peach-into-a-sweet-and-summery-pasta-sauce-1850693637)
-- [Lifehacker] [10 Celebrity Gossip Podcasts That Spill the Tea](https://lifehacker.com/best-celebrity-gossip-podcasts-1850689823)
-- [Lifehacker] [When to Be Honest With Your Partner, and When a White Lie is OK](https://lifehacker.com/when-to-be-honest-with-your-partner-and-when-a-white-l-1850687382)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Turn a Peach Into a Sweet and Summery Pasta Sauce](https://lifehacker.com/turn-a-peach-into-a-sweet-and-summery-pasta-sauce-1850693637)<!-- TECH-POSTS:END -->
 
 ---
 
