@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Magia do Event Loop](https://dev.to/ocodista/a-magia-do-event-loop-in1)
 - [Dev.to/JS] [Set Up Webpack 5 To Work With Static Files](https://dev.to/matheus4lves/set-up-webpack-5-to-work-with-static-files-52gk)
 - [Dev.to/JS] [Jet Set Radio API](https://dev.to/razznblue/jet-set-radio-api-46d9)
 - [Lifehacker] [Where to Watch &#39;Castlevania: Nocturne&#39; &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-castlevania-nocturne-and-what-you-shou-1850686916)
@@ -56,7 +57,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Successfully Dispute a Credit Card Charge](https://lifehacker.com/how-to-successfully-dispute-a-credit-card-charge-1850687758)
 - [Lifehacker] [Your Phone Is Even Grosser Than You Think](https://lifehacker.com/clean-your-phone-right-now-1832426763)
 - [Lifehacker] [Every Term a First-Time Homebuyer Should Know](https://lifehacker.com/every-term-a-first-time-homebuyer-should-know-1850684147)
-- [Dev.to/JS] [Creating an NPM Package: From Company Utility to Public Module with 555 Weekly Downloads](https://dev.to/eworld/creating-an-npm-package-from-company-utility-to-public-module-with-555-weekly-downloads-1ohh)
 - [Lifehacker] [You Can Change the X Icon Back to the Twitter Bird on Your Phone](https://lifehacker.com/you-can-change-the-x-icon-back-to-the-twitter-bird-on-y-1850693575)
 - [Lifehacker] [Just Go Buy the Weird Padded Cycling Shorts](https://lifehacker.com/just-go-buy-the-weird-padded-cycling-shorts-1850688084)
 - [Lifehacker] [People Are Deadheading Their Flowers All Wrong](https://lifehacker.com/people-are-deadheading-their-flowers-all-wrong-1850690797)
