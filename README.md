@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Enable Google&#39;s New Reading Mode for Android](https://lifehacker.com/you-should-enable-googles-new-reading-mode-for-android-1850698994)
+- [Lifehacker] [Linkdelta&#39;s AI Writing Tool Is $200 Right Now](https://lifehacker.com/linkdeltas-ai-writing-tool-is-200-right-now-1850686156)
+- [Lifehacker] [The Easiest Way to Collect, Store, and Cook With Bacon Grease](https://lifehacker.com/how-to-collect-store-and-cook-with-bacon-grease-1833410977)
+- [Dev.to/JS] [Yup vs. Zod vs. Joi: A Comprehensive Comparison of JavaScript Validation Libraries](https://dev.to/gimnathperera/yup-vs-zod-vs-joi-a-comprehensive-comparison-of-javascript-validation-libraries-4mhi)
+- [Lifehacker] [This Government Program Will Help Support Dementia Patients and Their Caregivers](https://lifehacker.com/apply-for-this-government-program-if-you-care-for-someo-1850697731)
 - [Lifehacker] [The Accessories That&#39;ll Make You Actually Use Your Water Bottle](https://lifehacker.com/the-accessories-thatll-make-you-actually-use-your-water-1850698716)
 - [Dev.to/JS] [Building a Bubble Chart &lpar;JS&rpar;: Top 30 Most-Liked YouTube Videos](https://dev.to/andreykh/building-a-bubble-chart-js-top-30-most-liked-youtube-videos-3i4g)
 - [Lifehacker] [How to Juggle Multiple Credit Cards &lpar;Without Going Into Debt&rpar;](https://lifehacker.com/how-to-juggle-multiple-credit-cards-without-going-into-1850697565)
@@ -49,7 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding and Unleashing the Power of React.Fragment](https://dev.to/diwakarkashyap/understanding-and-unleashing-the-power-of-reactfragment-2584)
 - [Lifehacker] [You Should Be a ‘Safety-Net Parent’](https://lifehacker.com/you-should-be-a-safety-net-parent-1850690958)
 - [Dev.to/JS] [Hydration is a tree, Resumability is a map](https://dev.to/builderio/hydration-is-a-tree-resumability-is-a-map-50i3)
-- [Dev.to/JS] [SvelteKit Routing : A Visual Guide](https://dev.to/builderio/sveltekit-routing-a-visual-guide-4heg)
 - [Lifehacker] [My Favorite Storage Solutions for Any Dorm or Small Living Space](https://lifehacker.com/my-favorite-storage-solutions-for-any-dorm-or-small-liv-1850695911)
 - [Lifehacker] [Where to Watch &#39;Castlevania: Nocturne&#39; &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-castlevania-nocturne-and-what-you-shou-1850686916)
 - [Lifehacker] [This ChatGPT and Python Course Is $30](https://lifehacker.com/this-chatgpt-and-python-course-is-30-1850676154)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ferment Your Own Spicy Mustard Now, and Enjoy It All Winter](https://lifehacker.com/ferment-your-own-spicy-mustard-now-and-enjoy-it-all-wi-1850690980)
 - [Lifehacker] [The Best Places to Donate Used Video Games](https://lifehacker.com/donate-your-old-video-games-to-the-library-1828338040)
 - [Lifehacker] [Make an Automatically Watering Plant Wall With Your Washing Machine](https://lifehacker.com/make-an-automatically-watering-plant-wall-with-your-was-1850690875)
-- [Lifehacker] [TikTok Myth of the Week: Berberine Is &#39;Nature&#39;s Ozempic&#39;](https://lifehacker.com/berberine-isnt-nature-s-ozempic-1850693953)
-- [Lifehacker] [How to Choose the Best Mustard for Your Vinaigrette](https://lifehacker.com/how-to-choose-the-right-mustard-for-your-vinaigrette-1832912147)
-- [Lifehacker] [The Best New Features From PlayStation’s System Software Beta](https://lifehacker.com/the-best-new-features-from-playstation-s-system-softwar-1850694955)
-- [Lifehacker] [&#39;Theme&#39; Every Work Day for a More Productive Week](https://lifehacker.com/theme-every-work-day-for-a-more-productive-week-1850693620)
-- [Lifehacker] [Why You Need &#39;Cycling Shoes&#39; to Ride a Spin Bike &lpar;and How to Pick Them Out&rpar;](https://lifehacker.com/why-you-need-cycling-shoes-to-ride-a-spin-bike-and-how-1848026622)<!-- TECH-POSTS:END -->
+- [Lifehacker] [TikTok Myth of the Week: Berberine Is &#39;Nature&#39;s Ozempic&#39;](https://lifehacker.com/berberine-isnt-nature-s-ozempic-1850693953)<!-- TECH-POSTS:END -->
 
 ---
 
