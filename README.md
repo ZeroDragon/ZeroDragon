@@ -26,18 +26,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Working with FormData in Angular 16](https://dev.to/devstoc/working-with-formdata-in-angular-16-41le)
+- [Lifehacker] [My Favorite Storage Solutions for Any Dorm or Small Living Space](https://lifehacker.com/my-favorite-storage-solutions-for-any-dorm-or-small-liv-1850695911)
+- [Dev.to/JS] [Mastering Input Handling with the Debounce Function in React.js: A Journey to Seamless User Experiences](https://dev.to/raymondkingjnr/mastering-input-handling-with-the-debounce-function-in-reactjs-a-journey-to-seamless-user-experiences-kb3)
+- [Dev.to/JS] [How to keep the folder structure of source templates in Webpack for output HTML files](https://dev.to/webdiscus/how-to-keep-the-folder-structure-of-source-templates-in-webpack-for-output-html-files-39bj)
+- [Dev.to/JS] [How to create a launch countdown timer with JavaScript in 10 minutes](https://dev.to/tobezhanabi/how-to-create-a-launch-countdown-timer-with-javascript-in-10-minutes-2kp9)
+- [Dev.to/JS] [Get a profile views widget for your portfolio](https://dev.to/ramunarasinga/get-a-profile-views-widget-for-your-portfolio-66k)
+- [Dev.to/JS] [Best CSS Animation on internet](https://dev.to/democode7451/best-css-animation-on-internet-1hd8)
 - [Dev.to/JS] [JavaScript Operator Precedence and Template Strings: Avoiding Bugs and Clarifying Code](https://dev.to/yanagisawahidetoshi/javascript-operator-precedence-and-template-strings-avoiding-bugs-and-clarifying-code-1id5)
 - [Dev.to/JS] [How To Permanently Redirect &lpar;301, 308&rpar; with Next JS](https://dev.to/robmarshall/how-to-permanently-redirect-301-308-with-next-js-pfp)
 - [Dev.to/JS] [How to create simple Angular signal&lpar;&rpar; in JS](https://dev.to/baypanic/how-to-create-simple-angular-signal-in-js-38fc)
 - [Dev.to/JS] [React Performance Boost: An Introduction to Million.js](https://dev.to/yanagisawahidetoshi/react-performance-boost-an-introduction-to-millionjs-1cad)
 - [Dev.to/JS] [Beginner&#39;s Guide to Loops in JavaScript](https://dev.to/bindupatidar/beginners-guide-to-loops-in-javascript-110o)
 - [Dev.to/JS] [Meet Me](https://dev.to/hamishleahy/meet-me-2h6d)
-- [Dev.to/JS] [Cloud Software Solutions](https://dev.to/snetlabspvtltd/cloud-software-solutions-3pdg)
-- [Dev.to/JS] [From Idea to Market: The Evolution of Flexbeats and its Product Development.](https://dev.to/flexcodelabs/from-idea-to-market-the-evolution-of-flexbeats-and-its-product-development-e4o)
-- [Dev.to/JS] [Revue de presse - Juillet 2023](https://dev.to/anthony_pena/revue-de-presse-juillet-2023-3agb)
-- [Dev.to/JS] [Weather App: An app that fetches and displays the weather information of a given location using an API with JavaScript](https://dev.to/iamcymentho/weather-app-an-app-that-fetches-and-displays-the-weather-information-of-a-given-location-using-an-api-with-javascript-3pji)
-- [Dev.to/JS] [Chrome Debugger is easier to use than you might think](https://dev.to/this-is-learning/chrome-debugger-is-easier-to-use-than-you-might-think-c8)
-- [Dev.to/JS] [From Concept to Reality: Hiring Your Dedicated Software Development Dream Team](https://dev.to/go-techsolution/from-concept-to-reality-hiring-your-dedicated-software-development-dream-team-4jn2)
 - [Lifehacker] [Where to Watch &#39;Castlevania: Nocturne&#39; &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-castlevania-nocturne-and-what-you-shou-1850686916)
 - [Lifehacker] [This ChatGPT and Python Course Is $30](https://lifehacker.com/this-chatgpt-and-python-course-is-30-1850676154)
 - [Lifehacker] [How to Avoid an Airline&#39;s Manipulative &#39;Seat Selection&#39; Fee](https://lifehacker.com/how-to-avoid-an-airlines-bullshit-seat-selection-fee-1847345736)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Celebrity Gossip Podcasts That Spill the Tea](https://lifehacker.com/best-celebrity-gossip-podcasts-1850689823)
 - [Lifehacker] [When to Be Honest With Your Partner, and When a White Lie is OK](https://lifehacker.com/when-to-be-honest-with-your-partner-and-when-a-white-l-1850687382)
 - [Lifehacker] [Turn Your Overcooked Steak Into Something Better](https://lifehacker.com/turn-your-overcooked-steak-into-something-better-1850687215)
-- [Lifehacker] [Ask Yourself These Questions Before Saying &#39;No&#39; at Work](https://lifehacker.com/ask-yourself-these-questions-before-saying-no-at-work-1850686442)
-- [Crazy Programmer] [History of Fiber Optics](https://www.thecrazyprogrammer.com/2023/08/history-of-fiber-optics.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Ask Yourself These Questions Before Saying &#39;No&#39; at Work](https://lifehacker.com/ask-yourself-these-questions-before-saying-no-at-work-1850686442)<!-- TECH-POSTS:END -->
 
 ---
 
