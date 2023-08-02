@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [From Concept to Reality: Hiring Your Dedicated Software Development Dream Team](https://dev.to/go-techsolution/from-concept-to-reality-hiring-your-dedicated-software-development-dream-team-4jn2)
+- [Dev.to/JS] [Modern Frontend Development&#39;s Secret Weapon: Aspida for Simple and Type-safe API Calls](https://dev.to/yanagisawahidetoshi/modern-frontend-developments-secret-weapon-aspida-for-simple-and-type-safe-api-calls-e7h)
 - [Dev.to/JS] [Weekly web development resources #160](https://dev.to/vincenius/weekly-web-development-resources-160-3cpf)
 - [Dev.to/JS] [Simplifying Asynchronous Code with Promises in JavaScript](https://dev.to/nnnirajn/simplifying-asynchronous-code-with-promises-in-javascript-538h)
 - [Dev.to/JS] [What will the console log in this example?](https://dev.to/chandrapenugonda/what-will-the-console-log-in-this-example-391b)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Variety with *Variables* 😏](https://dev.to/aoppman/variety-with-variables-3ig5)
 - [Dev.to/JS] [Piping through functions that can throw an exception - Javascript Recipe](https://dev.to/druchan/piping-through-functions-that-can-throw-an-exception-javascript-recipe-4a70)
 - [Dev.to/JS] [Safe, simple, sequential promises in Javascript](https://dev.to/druchan/safe-simple-sequential-promises-in-javascript-c0n)
-- [Dev.to/JS] [Parallel promises made simple - Javascript Tip](https://dev.to/druchan/parallel-promises-made-simple-javascript-tip-ih9)
-- [Dev.to/JS] [Advanced switch-case / pattern-matching in Javascript](https://dev.to/druchan/advanced-switch-case-pattern-matching-in-javascript-36el)
 - [Lifehacker] [Where to Watch &#39;Castlevania: Nocturne&#39; &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-castlevania-nocturne-and-what-you-shou-1850686916)
 - [Lifehacker] [This ChatGPT and Python Course Is $30](https://lifehacker.com/this-chatgpt-and-python-course-is-30-1850676154)
 - [Lifehacker] [How to Avoid an Airline&#39;s Manipulative &#39;Seat Selection&#39; Fee](https://lifehacker.com/how-to-avoid-an-airlines-bullshit-seat-selection-fee-1847345736)
