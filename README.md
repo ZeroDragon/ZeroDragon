@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Pros and Cons of Learning Web Development Directly with Frameworks](https://dev.to/idurar/the-pros-and-cons-of-learning-web-development-directly-with-frameworks-37jo)
+- [Lifehacker] [Why You Should Never Use Your Retirement Savings to Pay Off Debt](https://lifehacker.com/why-you-should-never-use-your-retirement-savings-to-pay-1850696666)
+- [Dev.to/JS] [Understanding and Unleashing the Power of React.Fragment](https://dev.to/diwakarkashyap/understanding-and-unleashing-the-power-of-reactfragment-2584)
+- [Lifehacker] [You Should Be a ‘Safety-Net Parent’](https://lifehacker.com/you-should-be-a-safety-net-parent-1850690958)
+- [Dev.to/JS] [Hydration is a tree, Resumability is a map](https://dev.to/builderio/hydration-is-a-tree-resumability-is-a-map-50i3)
+- [Dev.to/JS] [SvelteKit Routing : A Visual Guide](https://dev.to/builderio/sveltekit-routing-a-visual-guide-4heg)
+- [Dev.to/JS] [Routing and SEO Metadata in Next.js 13](https://dev.to/builderio/routing-and-seo-metadata-in-nextjs-13-3adl)
+- [Dev.to/JS] [Qwik City Routing: A Visual Guide](https://dev.to/builderio/qwik-city-routing-a-visual-guide-152a)
 - [Dev.to/JS] [Working with FormData in Angular 16](https://dev.to/devstoc/working-with-formdata-in-angular-16-41le)
 - [Lifehacker] [My Favorite Storage Solutions for Any Dorm or Small Living Space](https://lifehacker.com/my-favorite-storage-solutions-for-any-dorm-or-small-liv-1850695911)
 - [Dev.to/JS] [Mastering Input Handling with the Debounce Function in React.js: A Journey to Seamless User Experiences](https://dev.to/raymondkingjnr/mastering-input-handling-with-the-debounce-function-in-reactjs-a-journey-to-seamless-user-experiences-kb3)
@@ -33,12 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a launch countdown timer with JavaScript in 10 minutes](https://dev.to/tobezhanabi/how-to-create-a-launch-countdown-timer-with-javascript-in-10-minutes-2kp9)
 - [Dev.to/JS] [Get a profile views widget for your portfolio](https://dev.to/ramunarasinga/get-a-profile-views-widget-for-your-portfolio-66k)
 - [Dev.to/JS] [Best CSS Animation on internet](https://dev.to/democode7451/best-css-animation-on-internet-1hd8)
-- [Dev.to/JS] [JavaScript Operator Precedence and Template Strings: Avoiding Bugs and Clarifying Code](https://dev.to/yanagisawahidetoshi/javascript-operator-precedence-and-template-strings-avoiding-bugs-and-clarifying-code-1id5)
-- [Dev.to/JS] [How To Permanently Redirect &lpar;301, 308&rpar; with Next JS](https://dev.to/robmarshall/how-to-permanently-redirect-301-308-with-next-js-pfp)
-- [Dev.to/JS] [How to create simple Angular signal&lpar;&rpar; in JS](https://dev.to/baypanic/how-to-create-simple-angular-signal-in-js-38fc)
-- [Dev.to/JS] [React Performance Boost: An Introduction to Million.js](https://dev.to/yanagisawahidetoshi/react-performance-boost-an-introduction-to-millionjs-1cad)
-- [Dev.to/JS] [Beginner&#39;s Guide to Loops in JavaScript](https://dev.to/bindupatidar/beginners-guide-to-loops-in-javascript-110o)
-- [Dev.to/JS] [Meet Me](https://dev.to/hamishleahy/meet-me-2h6d)
 - [Lifehacker] [Where to Watch &#39;Castlevania: Nocturne&#39; &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-castlevania-nocturne-and-what-you-shou-1850686916)
 - [Lifehacker] [This ChatGPT and Python Course Is $30](https://lifehacker.com/this-chatgpt-and-python-course-is-30-1850676154)
 - [Lifehacker] [How to Avoid an Airline&#39;s Manipulative &#39;Seat Selection&#39; Fee](https://lifehacker.com/how-to-avoid-an-airlines-bullshit-seat-selection-fee-1847345736)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [People Are Deadheading Their Flowers All Wrong](https://lifehacker.com/people-are-deadheading-their-flowers-all-wrong-1850690797)
 - [Lifehacker] [Turn a Peach Into a Sweet and Summery Pasta Sauce](https://lifehacker.com/turn-a-peach-into-a-sweet-and-summery-pasta-sauce-1850693637)
 - [Lifehacker] [10 Celebrity Gossip Podcasts That Spill the Tea](https://lifehacker.com/best-celebrity-gossip-podcasts-1850689823)
-- [Lifehacker] [When to Be Honest With Your Partner, and When a White Lie is OK](https://lifehacker.com/when-to-be-honest-with-your-partner-and-when-a-white-l-1850687382)
-- [Lifehacker] [Turn Your Overcooked Steak Into Something Better](https://lifehacker.com/turn-your-overcooked-steak-into-something-better-1850687215)
-- [Lifehacker] [Ask Yourself These Questions Before Saying &#39;No&#39; at Work](https://lifehacker.com/ask-yourself-these-questions-before-saying-no-at-work-1850686442)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When to Be Honest With Your Partner, and When a White Lie is OK](https://lifehacker.com/when-to-be-honest-with-your-partner-and-when-a-white-l-1850687382)<!-- TECH-POSTS:END -->
 
 ---
 
