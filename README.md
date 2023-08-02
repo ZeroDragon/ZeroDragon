@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Secure Your JavaScript Project with &#39;npm audit&#39;!](https://dev.to/yanagisawahidetoshi/secure-your-javascript-project-with-npm-audit-3328)
+- [Dev.to/JS] [NPM Commands Practical Guide: Get to Know Your Packages and Keep Your Project Up-to-Date](https://dev.to/yanagisawahidetoshi/npm-commands-practical-guide-get-to-know-your-packages-and-keep-your-project-up-to-date-58a6)
 - [Lifehacker] [These Lights Are Now Banned for Sale in the US](https://lifehacker.com/these-lights-are-now-banned-for-sale-in-the-us-1850700832)
 - [Dev.to/JS] [Introducing Nobox.cloud: A Backend as a Service for JS Devs](https://dev.to/akintunde102/introducing-noboxcloud-a-backend-as-a-service-for-js-devs-240f)
 - [Lifehacker] [This Remote A/C Controller Is $67 Right Now](https://lifehacker.com/this-remote-a-c-controller-is-67-right-now-1850686436)
@@ -44,13 +46,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Prevent Digital Eye Strain With the 20-20-20 Method](https://lifehacker.com/prevent-digital-eye-strain-with-the-20-20-20-method-1850700377)
 - [Dev.to/JS] [How to use res.download&lpar;&rpar; to download images](https://dev.to/webplayground/how-to-use-resdownload-to-download-images-3gk8)
 - [Dev.to/JS] [JavaScript Under The Hood: The typeof Operator and Data Types Demystified](https://dev.to/gokhantaskan/javascript-under-the-hood-the-typeof-operator-and-data-types-demystified-1j93)
-- [Dev.to/JS] [Tic Tac Toe : HTML scripting](https://dev.to/balagmadhu/tic-tac-toe-html-scripting-4c5c)
 - [Lifehacker] [You Can Use Your AirPods Pro as a Temporary Hearing Aid](https://lifehacker.com/you-can-use-your-airpods-pro-as-a-temporary-hearing-aid-1850699565)
 - [Lifehacker] [The Easiest Ways to Open a Can Without a Can Opener](https://lifehacker.com/the-easiest-ways-to-open-a-can-without-a-can-opener-1849462161)
 - [Lifehacker] [You Should Enable Google&#39;s New Reading Mode for Android](https://lifehacker.com/you-should-enable-googles-new-reading-mode-for-android-1850698994)
 - [Lifehacker] [Linkdelta&#39;s AI Writing Tool Is $200 Right Now](https://lifehacker.com/linkdeltas-ai-writing-tool-is-200-right-now-1850686156)
 - [Lifehacker] [The Easiest Way to Collect, Store, and Cook With Bacon Grease](https://lifehacker.com/how-to-collect-store-and-cook-with-bacon-grease-1833410977)
-- [Dev.to/JS] [Yup vs. Zod vs. Joi: A Comprehensive Comparison of JavaScript Validation Libraries](https://dev.to/gimnathperera/yup-vs-zod-vs-joi-a-comprehensive-comparison-of-javascript-validation-libraries-4mhi)
 - [Lifehacker] [This Government Program Will Help Support Dementia Patients and Their Caregivers](https://lifehacker.com/apply-for-this-government-program-if-you-care-for-someo-1850697731)
 - [Lifehacker] [The Accessories That&#39;ll Make You Actually Use Your Water Bottle](https://lifehacker.com/the-accessories-thatll-make-you-actually-use-your-water-1850698716)
 - [Lifehacker] [How to Juggle Multiple Credit Cards &lpar;Without Going Into Debt&rpar;](https://lifehacker.com/how-to-juggle-multiple-credit-cards-without-going-into-1850697565)
