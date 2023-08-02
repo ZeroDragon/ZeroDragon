@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Prevent Digital Eye Strain With the 20-20-20 Method](https://lifehacker.com/prevent-digital-eye-strain-with-the-20-20-20-method-1850700377)
+- [Dev.to/JS] [How to use res.download&lpar;&rpar; to download images](https://dev.to/webplayground/how-to-use-resdownload-to-download-images-3gk8)
+- [Dev.to/JS] [JavaScript Under The Hood: The typeof Operator and Data Types Demystified](https://dev.to/gokhantaskan/javascript-under-the-hood-the-typeof-operator-and-data-types-demystified-1j93)
+- [Dev.to/JS] [Tic Tac Toe : HTML scripting](https://dev.to/balagmadhu/tic-tac-toe-html-scripting-4c5c)
+- [Lifehacker] [You Can Use Your AirPods Pro as a Temporary Hearing Aid](https://lifehacker.com/you-can-use-your-airpods-pro-as-a-temporary-hearing-aid-1850699565)
+- [Lifehacker] [The Easiest Ways to Open a Can Without a Can Opener](https://lifehacker.com/the-easiest-ways-to-open-a-can-without-a-can-opener-1849462161)
 - [Lifehacker] [You Should Enable Google&#39;s New Reading Mode for Android](https://lifehacker.com/you-should-enable-googles-new-reading-mode-for-android-1850698994)
 - [Lifehacker] [Linkdelta&#39;s AI Writing Tool Is $200 Right Now](https://lifehacker.com/linkdeltas-ai-writing-tool-is-200-right-now-1850686156)
 - [Lifehacker] [The Easiest Way to Collect, Store, and Cook With Bacon Grease](https://lifehacker.com/how-to-collect-store-and-cook-with-bacon-grease-1833410977)
@@ -44,16 +50,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Return JSON from OpenAI to build AI enhanced APIs](https://dev.to/slickstef11/return-json-from-openai-to-build-ai-enhanced-apis-1akm)
 - [Lifehacker] [Don’t Panic, But Leprosy Might Be Endemic in Florida Now](https://lifehacker.com/don-t-panic-but-leprosy-might-be-endemic-in-florida-no-1850697569)
 - [Dev.to/JS] [Adaptable and Efficient AI-powered visual system](https://dev.to/aiforme/adaptable-and-efficient-ai-powered-visual-system-1odc)
-- [Dev.to/JS] [What are Closures in JavaScript?](https://dev.to/crackjks/what-are-closures-in-javascript-4n5a)
 - [Dev.to/JS] [Day 17: Promise Executions](https://dev.to/dhrn/day-17-promise-executions-5fki)
+- [Dev.to/JS] [What are Closures in JavaScript?](https://dev.to/crackjks/what-are-closures-in-javascript-4n5a)
 - [Lifehacker] [Don’t Pay These Easily Avoidable Travel Fees From Major Airlines](https://lifehacker.com/don-t-pay-these-easily-avoidable-travel-fees-from-major-1850697515)
 - [Dev.to/JS] [Mastering Assignment Help: Your Path to Academic Excellence](https://dev.to/jimmysamson/mastering-assignment-help-your-path-to-academic-excellence-han)
 - [Lifehacker] [Sorry, but You’ll Never Win the Mega Millions Jackpot](https://lifehacker.com/winning-the-powerball-lottery-won-t-solve-your-problems-1752378740)
-- [Dev.to/JS] [The Pros and Cons of Learning Web Development Directly with Frameworks](https://dev.to/idurar/the-pros-and-cons-of-learning-web-development-directly-with-frameworks-37jo)
 - [Lifehacker] [Why You Should Never Use Your Retirement Savings to Pay Off Debt](https://lifehacker.com/why-you-should-never-use-your-retirement-savings-to-pay-1850696666)
-- [Dev.to/JS] [Understanding and Unleashing the Power of React.Fragment](https://dev.to/diwakarkashyap/understanding-and-unleashing-the-power-of-reactfragment-2584)
 - [Lifehacker] [You Should Be a ‘Safety-Net Parent’](https://lifehacker.com/you-should-be-a-safety-net-parent-1850690958)
-- [Dev.to/JS] [Hydration is a tree, Resumability is a map](https://dev.to/builderio/hydration-is-a-tree-resumability-is-a-map-50i3)
 - [Lifehacker] [My Favorite Storage Solutions for Any Dorm or Small Living Space](https://lifehacker.com/my-favorite-storage-solutions-for-any-dorm-or-small-liv-1850695911)
 - [Lifehacker] [Where to Watch &#39;Castlevania: Nocturne&#39; &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-castlevania-nocturne-and-what-you-shou-1850686916)
 - [Lifehacker] [This ChatGPT and Python Course Is $30](https://lifehacker.com/this-chatgpt-and-python-course-is-30-1850676154)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get &lpar;or Make&rpar; ‘Barbie Pink’ Paint, Despite a Global Shortage](https://lifehacker.com/how-to-get-or-make-barbie-pink-paint-despite-a-glo-1850697076)
 - [Lifehacker] [How to Use a Springform Pan &lpar;and What to Do If You Don&#39;t Have One&rpar;](https://lifehacker.com/how-to-use-a-springform-pan-and-what-to-do-if-you-dont-1848355848)
 - [Lifehacker] [These Virtual Guitar Lessons Are $30 Right Now](https://lifehacker.com/these-virtual-guitar-lessons-are-30-right-now-1850686202)
-- [Lifehacker] [Ferment Your Own Spicy Mustard Now, and Enjoy It All Winter](https://lifehacker.com/ferment-your-own-spicy-mustard-now-and-enjoy-it-all-wi-1850690980)
-- [Lifehacker] [The Best Places to Donate Used Video Games](https://lifehacker.com/donate-your-old-video-games-to-the-library-1828338040)
-- [Lifehacker] [Make an Automatically Watering Plant Wall With Your Washing Machine](https://lifehacker.com/make-an-automatically-watering-plant-wall-with-your-was-1850690875)
-- [Lifehacker] [TikTok Myth of the Week: Berberine Is &#39;Nature&#39;s Ozempic&#39;](https://lifehacker.com/berberine-isnt-nature-s-ozempic-1850693953)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Ferment Your Own Spicy Mustard Now, and Enjoy It All Winter](https://lifehacker.com/ferment-your-own-spicy-mustard-now-and-enjoy-it-all-wi-1850690980)<!-- TECH-POSTS:END -->
 
 ---
 
