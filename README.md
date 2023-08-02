@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Performance Boost: An Introduction to Million.js](https://dev.to/yanagisawahidetoshi/react-performance-boost-an-introduction-to-millionjs-1cad)
+- [Dev.to/JS] [Beginner&#39;s Guide to Loops in JavaScript](https://dev.to/bindupatidar/beginners-guide-to-loops-in-javascript-110o)
+- [Dev.to/JS] [Meet Me](https://dev.to/hamishleahy/meet-me-2h6d)
+- [Dev.to/JS] [Cloud Software Solutions](https://dev.to/snetlabspvtltd/cloud-software-solutions-3pdg)
 - [Dev.to/JS] [From Idea to Market: The Evolution of Flexbeats and its Product Development.](https://dev.to/flexcodelabs/from-idea-to-market-the-evolution-of-flexbeats-and-its-product-development-e4o)
 - [Dev.to/JS] [Revue de presse - Juillet 2023](https://dev.to/anthony_pena/revue-de-presse-juillet-2023-3agb)
 - [Dev.to/JS] [Weather App: An app that fetches and displays the weather information of a given location using an API with JavaScript](https://dev.to/iamcymentho/weather-app-an-app-that-fetches-and-displays-the-weather-information-of-a-given-location-using-an-api-with-javascript-3pji)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What you should know about web APIs](https://dev.to/how-to-dev/what-you-should-know-about-web-apis-224m)
 - [Dev.to/JS] [Modern Frontend Development&#39;s Secret Weapon: Aspida for Simple and Type-safe API Calls](https://dev.to/yanagisawahidetoshi/modern-frontend-developments-secret-weapon-aspida-for-simple-and-type-safe-api-calls-e7h)
 - [Dev.to/JS] [Weekly web development resources #160](https://dev.to/vincenius/weekly-web-development-resources-160-3cpf)
-- [Dev.to/JS] [Simplifying Asynchronous Code with Promises in JavaScript](https://dev.to/nnnirajn/simplifying-asynchronous-code-with-promises-in-javascript-538h)
-- [Dev.to/JS] [What will the console log in this example?](https://dev.to/chandrapenugonda/what-will-the-console-log-in-this-example-391b)
-- [Dev.to/JS] [Amazing native Modal with just HTML: meet &lt;dialog&gt; element](https://dev.to/lucasm/amazing-native-modal-with-just-html-meet-element-4jpl)
-- [Dev.to/JS] [A Beginner&#39;s Guide to Using Date and Time in Node.js](https://dev.to/techsolutionstuff/a-beginners-guide-to-using-date-and-time-in-nodejs-4chk)
 - [Lifehacker] [Where to Watch &#39;Castlevania: Nocturne&#39; &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-castlevania-nocturne-and-what-you-shou-1850686916)
 - [Lifehacker] [This ChatGPT and Python Course Is $30](https://lifehacker.com/this-chatgpt-and-python-course-is-30-1850676154)
 - [Lifehacker] [How to Avoid an Airline&#39;s Manipulative &#39;Seat Selection&#39; Fee](https://lifehacker.com/how-to-avoid-an-airlines-bullshit-seat-selection-fee-1847345736)
