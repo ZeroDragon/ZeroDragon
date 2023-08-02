@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Revue de presse - Juillet 2023](https://dev.to/anthony_pena/revue-de-presse-juillet-2023-3agb)
+- [Dev.to/JS] [Weather App: An app that fetches and displays the weather information of a given location using an API with JavaScript](https://dev.to/iamcymentho/weather-app-an-app-that-fetches-and-displays-the-weather-information-of-a-given-location-using-an-api-with-javascript-3pji)
+- [Dev.to/JS] [Chrome Debugger is easier to use than you might think](https://dev.to/this-is-learning/chrome-debugger-is-easier-to-use-than-you-might-think-c8)
 - [Dev.to/JS] [From Concept to Reality: Hiring Your Dedicated Software Development Dream Team](https://dev.to/go-techsolution/from-concept-to-reality-hiring-your-dedicated-software-development-dream-team-4jn2)
 - [Dev.to/JS] [Modern Frontend Development&#39;s Secret Weapon: Aspida for Simple and Type-safe API Calls](https://dev.to/yanagisawahidetoshi/modern-frontend-developments-secret-weapon-aspida-for-simple-and-type-safe-api-calls-e7h)
 - [Dev.to/JS] [Weekly web development resources #160](https://dev.to/vincenius/weekly-web-development-resources-160-3cpf)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Beginner&#39;s Guide to Using Date and Time in Node.js](https://dev.to/techsolutionstuff/a-beginners-guide-to-using-date-and-time-in-nodejs-4chk)
 - [Dev.to/JS] [Enrich an object - Javascript Recipe](https://dev.to/druchan/enrich-an-object-javascript-recipe-4010)
 - [Dev.to/JS] [Using object-access instead of Array.find when dealing with lots of data - Javascript Recipe](https://dev.to/druchan/make-it-faster-to-access-more-info-about-an-id-in-javascript-3lm8)
-- [Dev.to/JS] [Variety with *Variables* 😏](https://dev.to/aoppman/variety-with-variables-3ig5)
-- [Dev.to/JS] [Piping through functions that can throw an exception - Javascript Recipe](https://dev.to/druchan/piping-through-functions-that-can-throw-an-exception-javascript-recipe-4a70)
-- [Dev.to/JS] [Safe, simple, sequential promises in Javascript](https://dev.to/druchan/safe-simple-sequential-promises-in-javascript-c0n)
 - [Lifehacker] [Where to Watch &#39;Castlevania: Nocturne&#39; &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-castlevania-nocturne-and-what-you-shou-1850686916)
 - [Lifehacker] [This ChatGPT and Python Course Is $30](https://lifehacker.com/this-chatgpt-and-python-course-is-30-1850676154)
 - [Lifehacker] [How to Avoid an Airline&#39;s Manipulative &#39;Seat Selection&#39; Fee](https://lifehacker.com/how-to-avoid-an-airlines-bullshit-seat-selection-fee-1847345736)
