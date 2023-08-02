@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Enough With Sweet Cheesecakes, This One&#39;s Got Meat](https://lifehacker.com/enough-with-sweet-cheesecakes-this-ones-got-meat-1850697656)
+- [Lifehacker] [Check Your Peloton for a Secret Netflix App](https://lifehacker.com/check-your-peloton-for-a-secret-netflix-app-1850699394)
+- [Lifehacker] [20 Awesome Indie Games You Should Play on Nintendo Switch](https://lifehacker.com/best-indie-games-nintendo-switch-1850699453)
+- [Dev.to/JS] [Serialization and Deserialization in JavaScript](https://dev.to/maafaishal/serialization-and-deserialization-in-javascript-3kdd)
+- [Dev.to/JS] [Return JSON from OpenAI to build AI enhanced APIs](https://dev.to/slickstef11/return-json-from-openai-to-build-ai-enhanced-apis-1akm)
+- [Lifehacker] [Apply for This Government Program If You Care for Someone With Dementia](https://lifehacker.com/apply-for-this-government-program-if-you-care-for-someo-1850697731)
+- [Lifehacker] [Don’t Panic, But Leprosy Might Be Endemic in Florida Now](https://lifehacker.com/don-t-panic-but-leprosy-might-be-endemic-in-florida-no-1850697569)
 - [Dev.to/JS] [Adaptable and Efficient AI-powered visual system](https://dev.to/aiforme/adaptable-and-efficient-ai-powered-visual-system-1odc)
 - [Dev.to/JS] [What are Closures in JavaScript?](https://dev.to/crackjks/what-are-closures-in-javascript-4n5a)
 - [Dev.to/JS] [Day 17: Promise Executions](https://dev.to/dhrn/day-17-promise-executions-5fki)
@@ -41,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Routing and SEO Metadata in Next.js 13](https://dev.to/builderio/routing-and-seo-metadata-in-nextjs-13-3adl)
 - [Dev.to/JS] [Qwik City Routing: A Visual Guide](https://dev.to/builderio/qwik-city-routing-a-visual-guide-152a)
 - [Lifehacker] [My Favorite Storage Solutions for Any Dorm or Small Living Space](https://lifehacker.com/my-favorite-storage-solutions-for-any-dorm-or-small-liv-1850695911)
-- [Dev.to/JS] [Mastering Input Handling with the Debounce Function in React.js: A Journey to Seamless User Experiences](https://dev.to/raymondkingjnr/mastering-input-handling-with-the-debounce-function-in-reactjs-a-journey-to-seamless-user-experiences-kb3)
-- [Dev.to/JS] [How to keep the folder structure of source templates in Webpack for output HTML files](https://dev.to/webdiscus/how-to-keep-the-folder-structure-of-source-templates-in-webpack-for-output-html-files-39bj)
 - [Lifehacker] [Where to Watch &#39;Castlevania: Nocturne&#39; &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-castlevania-nocturne-and-what-you-shou-1850686916)
 - [Lifehacker] [This ChatGPT and Python Course Is $30](https://lifehacker.com/this-chatgpt-and-python-course-is-30-1850676154)
 - [Lifehacker] [How to Avoid an Airline&#39;s Manipulative &#39;Seat Selection&#39; Fee](https://lifehacker.com/how-to-avoid-an-airlines-bullshit-seat-selection-fee-1847345736)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Need &#39;Cycling Shoes&#39; to Ride a Spin Bike &lpar;and How to Pick Them Out&rpar;](https://lifehacker.com/why-you-need-cycling-shoes-to-ride-a-spin-bike-and-how-1848026622)
 - [Lifehacker] [The Digital Tools You Need for Your Next Home- Improvement Project](https://lifehacker.com/the-digital-tools-you-need-for-your-next-home-improvem-1850694100)
 - [Lifehacker] [How to Successfully Dispute a Credit Card Charge](https://lifehacker.com/how-to-successfully-dispute-a-credit-card-charge-1850687758)
-- [Lifehacker] [Your Phone Is Even Grosser Than You Think](https://lifehacker.com/clean-your-phone-right-now-1832426763)
-- [Lifehacker] [Every Term a First-Time Homebuyer Should Know](https://lifehacker.com/every-term-a-first-time-homebuyer-should-know-1850684147)
-- [Lifehacker] [You Can Change the X Icon Back to the Twitter Bird on Your Phone](https://lifehacker.com/you-can-change-the-x-icon-back-to-the-twitter-bird-on-y-1850693575)
-- [Lifehacker] [Just Go Buy the Weird Padded Cycling Shorts](https://lifehacker.com/just-go-buy-the-weird-padded-cycling-shorts-1850688084)
-- [Lifehacker] [People Are Deadheading Their Flowers All Wrong](https://lifehacker.com/people-are-deadheading-their-flowers-all-wrong-1850690797)
-- [Lifehacker] [Turn a Peach Into a Sweet and Summery Pasta Sauce](https://lifehacker.com/turn-a-peach-into-a-sweet-and-summery-pasta-sauce-1850693637)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Your Phone Is Even Grosser Than You Think](https://lifehacker.com/clean-your-phone-right-now-1832426763)<!-- TECH-POSTS:END -->
 
 ---
 
