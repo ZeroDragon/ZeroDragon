@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Meet Mr. Query Selector - Your New BFF for DOM Manipulation](https://dev.to/mohitsinghchauhan/meet-mr-query-selector-your-new-bff-for-dom-manipulation-295d)
+- [Lifehacker] [These Translation Earbuds Are $100 Right Now](https://lifehacker.com/these-translation-earbuds-are-100-right-now-1850697771)
+- [Lifehacker] [Make Easy Garden Pest Traps With These Common Kitchen Staples](https://lifehacker.com/make-easy-garden-pest-traps-with-these-common-kitchen-s-1850704994)
 - [Dev.to/JS] [🍅🔔 Domine seu Tempo com o Pomodoro Timer Estética! A técnica que vai revolucionar a sua produtividade!](https://dev.to/matheusmanuel/domine-seu-tempo-com-o-pomodoro-timer-estetica-a-tecnica-que-vai-revolucionar-a-sua-produtividade-jfg)
 - [Lifehacker] [You Can Get 20TB of Prism Drive Cloud Storage for $100](https://lifehacker.com/you-can-get-20tb-of-prism-drive-cloud-storage-for-100-1850686623)
 - [Lifehacker] [Spicy Cold Tofu Is Your Go-to Quick Summer Dish](https://lifehacker.com/spicy-cold-tofu-is-your-go-to-quick-summer-dish-1850703990)
@@ -48,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Inheritance and Prototypal Chains in JavaScript](https://dev.to/jacknorman235/understanding-inheritance-and-prototypal-chains-in-javascript-35k5)
 - [Lifehacker] [How I Became a Watchmaker](https://lifehacker.com/how-i-became-a-watchmaker-1850683340)
 - [Dev.to/JS] [Reduce, o que é e como essa função pode agregar a você no seu código javascript.](https://dev.to/gabrielgcj/reduce-o-que-e-e-como-essa-funcao-pode-agregar-a-voce-no-seu-codigo-javascript-2nkd)
-- [Dev.to/JS] [Beginner group](https://dev.to/whiteglassesweb/beginner-group-28mh)
 - [Lifehacker] [Cheaper Capers Are Already In Your Garden](https://lifehacker.com/cheaper-capers-are-already-in-your-garden-1850702734)
 - [Lifehacker] [How to Keep Your Tomatoes Fresh Without Putting Them in The Fridge](https://lifehacker.com/the-secret-to-keeping-your-tomatoes-super-fresh-1796557866)
 - [Lifehacker] [Use These New Google Privacy Tools to Protect Your Data](https://lifehacker.com/use-these-new-google-privacy-tools-to-protect-your-data-1850703726)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Miss These August Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-august-class-action-settlement-deadlin-1850697654)
 - [Lifehacker] [You Can Make Fruit Pies Without Much Baking](https://lifehacker.com/you-can-make-fruit-pies-without-much-baking-1850701310)
 - [Lifehacker] [All the Ways You Can Use Peaches Like Tomatoes](https://lifehacker.com/all-the-ways-you-can-use-peaches-like-tomatoes-1850700834)
-- [Lifehacker] [Use Gas Station Ice to Keep Your Phone From Overheating on a Road Trip](https://lifehacker.com/use-gas-station-ice-to-keep-your-phone-from-overheating-1850700029)
-- [Lifehacker] [These Lights Are Now Banned for Sale in the US](https://lifehacker.com/these-lights-are-now-banned-for-sale-in-the-us-1850700832)
-- [Lifehacker] [This Remote A/C Controller Is $67 Right Now](https://lifehacker.com/this-remote-a-c-controller-is-67-right-now-1850686436)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use Gas Station Ice to Keep Your Phone From Overheating on a Road Trip](https://lifehacker.com/use-gas-station-ice-to-keep-your-phone-from-overheating-1850700029)<!-- TECH-POSTS:END -->
 
 ---
 
