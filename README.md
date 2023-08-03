@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NestJS: A Powerful Node.js Framework for Scalable Web Applications](https://dev.to/aimal-akrami/nestjs-a-powerful-nodejs-framework-for-scalable-web-applications-4a0k)
 - [Dev.to/JS] [Difference between Logical OR &lpar;||&rpar; and Nullish coalescing operator&lpar;??&rpar;](https://dev.to/kaziusan/difference-between-logical-or-and-nullish-coalescing-operator-1fdb)
 - [Dev.to/JS] [Frontend Development Roadmap for Product-Based Companies 🔥](https://dev.to/anjankarmakar/frontend-development-roadmap-for-product-based-companies-471e)
 - [Dev.to/JS] [What&#39;s the difference between arrow functions and regular functions?](https://dev.to/pedrogustavo/whats-the-difference-between-arrow-functions-and-regular-functions-352c)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code Smell 220 - Return Tuple](https://dev.to/mcsee/code-smell-220-return-tuple-306j)
 - [Dev.to/JS] [A maneira mais rápida de remover itens duplicados de um array em js](https://dev.to/pedrosantos3010/a-maneira-mais-rapida-de-remover-duplicatas-de-um-array-em-js-2bkn)
 - [Dev.to/JS] [Secure Your JavaScript Project with &#39;npm audit&#39;!](https://dev.to/yanagisawahidetoshi/secure-your-javascript-project-with-npm-audit-3328)
-- [Dev.to/JS] [NPM Commands Practical Guide: Get to Know Your Packages and Keep Your Project Up-to-Date](https://dev.to/yanagisawahidetoshi/npm-commands-practical-guide-get-to-know-your-packages-and-keep-your-project-up-to-date-58a6)
 - [Lifehacker] [These Lights Are Now Banned for Sale in the US](https://lifehacker.com/these-lights-are-now-banned-for-sale-in-the-us-1850700832)
 - [Lifehacker] [This Remote A/C Controller Is $67 Right Now](https://lifehacker.com/this-remote-a-c-controller-is-67-right-now-1850686436)
 - [Lifehacker] [Where to Watch &#39;Reservation Dogs&#39; Season 3 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-reservation-dogs-season-3-and-what-you-1850686196)
