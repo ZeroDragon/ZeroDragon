@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [&#39;Dopamine Decor&#39; Can Make Your Home Happier](https://lifehacker.com/dopamine-decor-can-make-your-home-happier-1850700806)
+- [Dev.to/JS] [Moonly weekly progress update #59 - use cases for the Automatio Bot](https://dev.to/moonly/moonly-weekly-progress-update-59-use-cases-for-the-automatio-bot-4e2)
+- [Lifehacker] [Why You Should Spray Your Shoes With Permethrin This Summer](https://lifehacker.com/spray-your-shoes-with-permethrin-this-summer-1848986173)
+- [Dev.to/JS] [Understanding Inheritance and Prototypal Chains in JavaScript](https://dev.to/jacknorman235/understanding-inheritance-and-prototypal-chains-in-javascript-35k5)
 - [Lifehacker] [How I Became a Watchmaker](https://lifehacker.com/how-i-became-a-watchmaker-1850683340)
 - [Dev.to/JS] [Reduce, o que é e como essa função pode agregar a você no seu código javascript.](https://dev.to/gabrielgcj/reduce-o-que-e-e-como-essa-funcao-pode-agregar-a-voce-no-seu-codigo-javascript-2nkd)
 - [Dev.to/JS] [Beginner group](https://dev.to/whiteglassesweb/beginner-group-28mh)
@@ -48,8 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Four Ways to Figure Out What Day a Date Falls On](https://lifehacker.com/the-best-ways-to-figure-out-what-day-a-date-falls-on-1850702111)
 - [Lifehacker] [The Best Small Fans to Keep You Cool at Your Desk](https://lifehacker.com/the-best-small-fans-to-keep-you-cool-at-your-desk-1850700777)
 - [Dev.to/JS] [If_Else Statements: The Quick Guide For Beginners](https://dev.to/deborah/ifelse-statements-the-quick-guide-for-beginners-509m)
-- [Dev.to/JS] [Sky&#39;s the Limit! Supercharging Your Astro Blog with Orama, the Ultimate Stargazing Search Engine!](https://dev.to/thezal/skys-the-limit-supercharging-your-astro-blog-with-orama-the-ultimate-stargazing-search-engine-1ea5)
-- [Dev.to/JS] [Build NO-CODE AI Agents at Scale](https://dev.to/aiforme/build-no-code-ai-agents-at-scale-ldg)
 - [Lifehacker] [Don’t Miss These August Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-august-class-action-settlement-deadlin-1850697654)
 - [Lifehacker] [You Can Make Fruit Pies Without Much Baking](https://lifehacker.com/you-can-make-fruit-pies-without-much-baking-1850701310)
 - [Lifehacker] [All the Ways You Can Use Peaches Like Tomatoes](https://lifehacker.com/all-the-ways-you-can-use-peaches-like-tomatoes-1850700834)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Fix a Chipped Granite Countertop in Five Minutes](https://lifehacker.com/you-can-fix-a-chipped-granite-countertop-in-five-minute-1850700006)
 - [Lifehacker] [Prevent Digital Eye Strain With the 20-20-20 Method](https://lifehacker.com/prevent-digital-eye-strain-with-the-20-20-20-method-1850700377)
 - [Lifehacker] [You Can Use Your AirPods Pro as a Temporary Hearing Aid](https://lifehacker.com/you-can-use-your-airpods-pro-as-a-temporary-hearing-aid-1850699565)
-- [Lifehacker] [The Easiest Ways to Open a Can Without a Can Opener](https://lifehacker.com/the-easiest-ways-to-open-a-can-without-a-can-opener-1849462161)
-- [Lifehacker] [You Should Enable Google&#39;s New Reading Mode for Android](https://lifehacker.com/you-should-enable-googles-new-reading-mode-for-android-1850698994)
-- [Lifehacker] [Linkdelta&#39;s AI Writing Tool Is $200 Right Now](https://lifehacker.com/linkdeltas-ai-writing-tool-is-200-right-now-1850686156)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Ways to Open a Can Without a Can Opener](https://lifehacker.com/the-easiest-ways-to-open-a-can-without-a-can-opener-1849462161)<!-- TECH-POSTS:END -->
 
 ---
 
