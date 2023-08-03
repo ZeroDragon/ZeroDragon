@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Difference between Logical OR &lpar;||&rpar; and Nullish coalescing operator&lpar;??&rpar;](https://dev.to/kaziusan/difference-between-logical-or-and-nullish-coalescing-operator-1fdb)
 - [Dev.to/JS] [Frontend Development Roadmap for Product-Based Companies 🔥](https://dev.to/anjankarmakar/frontend-development-roadmap-for-product-based-companies-471e)
 - [Dev.to/JS] [What&#39;s the difference between arrow functions and regular functions?](https://dev.to/pedrogustavo/whats-the-difference-between-arrow-functions-and-regular-functions-352c)
 - [Dev.to/JS] [How to Detect URL Changes and Fire a Specific Function in Next.js](https://dev.to/yanagisawahidetoshi/how-to-detect-url-changes-and-fire-a-specific-function-in-nextjs-2bkc)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Secure Your JavaScript Project with &#39;npm audit&#39;!](https://dev.to/yanagisawahidetoshi/secure-your-javascript-project-with-npm-audit-3328)
 - [Dev.to/JS] [NPM Commands Practical Guide: Get to Know Your Packages and Keep Your Project Up-to-Date](https://dev.to/yanagisawahidetoshi/npm-commands-practical-guide-get-to-know-your-packages-and-keep-your-project-up-to-date-58a6)
 - [Lifehacker] [These Lights Are Now Banned for Sale in the US](https://lifehacker.com/these-lights-are-now-banned-for-sale-in-the-us-1850700832)
-- [Dev.to/JS] [Introducing Nobox.cloud: A Backend as a Service for JS Devs](https://dev.to/akintunde102/introducing-noboxcloud-a-backend-as-a-service-for-js-devs-240f)
 - [Lifehacker] [This Remote A/C Controller Is $67 Right Now](https://lifehacker.com/this-remote-a-c-controller-is-67-right-now-1850686436)
 - [Lifehacker] [Where to Watch &#39;Reservation Dogs&#39; Season 3 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-reservation-dogs-season-3-and-what-you-1850686196)
 - [Lifehacker] [This HD Beginner-Friendly Drone Is $90 Right Now](https://lifehacker.com/this-hd-beginner-friendly-drone-is-90-right-now-1850686579)
