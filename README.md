@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&quot;Mastering JavaScript: Unleashing the Power of Programming&quot;](https://dev.to/udebrecen38602/mastering-javascript-unleashing-the-power-of-programming-3o5f)
+- [Dev.to/JS] [Easily Integrate ChatGPT with WhatsApp for Seamless Conversations](https://dev.to/devashishmamgain/easily-integrate-chatgpt-with-whatsapp-for-seamless-conversations-1dg3)
 - [Dev.to/JS] [Simplifying Angular Apps with Dependency Injection: Best Practices and Strategies](https://dev.to/aymenmissaouii/simplifying-angular-apps-with-dependency-injection-best-practices-and-strategies-3a7i)
 - [Dev.to/JS] [10 Cool CodePen Demos &lpar;July 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-july-2023-590l)
 - [Dev.to/JS] [Create a Todo List App with React-Native and Styled components](https://dev.to/nktechofficial/create-a-todo-list-app-with-react-native-and-styled-components-3gog)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#31 - Trabalho Remoto &lpar;feat @ocodista&rpar;](https://dev.to/edgarberlinck/31-trabalho-remoto-feat-ocodista-c1l)
 - [Dev.to/JS] [Choosing the Right Approach: Promise or Async/Await?](https://dev.to/geethanjaliks/choosing-the-right-approach-promise-or-asyncawait-4j15)
 - [Dev.to/JS] [Sveltekit and Appwrite Cloud: How to build a list app](https://dev.to/terieyenike/sveltekit-and-appwrite-cloud-how-to-build-a-list-app-2174)
-- [Dev.to/JS] [Mock Javascript function within the module](https://dev.to/ravimaharjan/mock-javascript-function-within-the-module-3b81)
-- [Dev.to/JS] [What is JavaScript used for ?](https://dev.to/bindupatidar/what-is-javascript-used-for--54ge)
 - [Lifehacker] [These Lights Are Now Banned for Sale in the US](https://lifehacker.com/these-lights-are-now-banned-for-sale-in-the-us-1850700832)
 - [Lifehacker] [This Remote A/C Controller Is $67 Right Now](https://lifehacker.com/this-remote-a-c-controller-is-67-right-now-1850686436)
 - [Lifehacker] [Where to Watch &#39;Reservation Dogs&#39; Season 3 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-reservation-dogs-season-3-and-what-you-1850686196)
