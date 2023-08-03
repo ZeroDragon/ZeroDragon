@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simplifying Angular Apps with Dependency Injection: Best Practices and Strategies](https://dev.to/aymenmissaouii/simplifying-angular-apps-with-dependency-injection-best-practices-and-strategies-3a7i)
+- [Dev.to/JS] [10 Cool CodePen Demos &lpar;July 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-july-2023-590l)
+- [Dev.to/JS] [Create a Todo List App with React-Native and Styled components](https://dev.to/nktechofficial/create-a-todo-list-app-with-react-native-and-styled-components-3gog)
+- [Dev.to/JS] [Build an AWS S3 Browser with ToolJet](https://dev.to/tooljet/build-an-aws-s3-browser-with-tooljet-56d4)
 - [Dev.to/JS] [21 Best Practices for a Clean React Project](https://dev.to/mohammadfaisal/21-best-practices-for-a-clean-react-project-jdf)
 - [Dev.to/JS] [Filtering the available browsers in Cypress](https://dev.to/walmyrlimaesilv/filtering-the-available-browsers-in-cypress-1835)
 - [Dev.to/JS] [The 8000+ Programming Languages Not to Learn: Making Your Own Choices](https://dev.to/isolderea/the-8000-programming-languages-not-to-learn-making-your-own-choices-52d7)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sveltekit and Appwrite Cloud: How to build a list app](https://dev.to/terieyenike/sveltekit-and-appwrite-cloud-how-to-build-a-list-app-2174)
 - [Dev.to/JS] [Mock Javascript function within the module](https://dev.to/ravimaharjan/mock-javascript-function-within-the-module-3b81)
 - [Dev.to/JS] [What is JavaScript used for ?](https://dev.to/bindupatidar/what-is-javascript-used-for--54ge)
-- [Dev.to/JS] [Type checking in JavaScript without using Typescript...but should you?](https://dev.to/xplodivity/type-checking-in-javascript-without-using-typescriptbut-should-you-29n4)
-- [Dev.to/JS] [Simplified Overview of Angular Change Detection](https://dev.to/ussdlover/simplified-overview-of-angular-change-detection-4pbf)
-- [Dev.to/JS] [NestJS: A Powerful Node.js Framework for Scalable Web Applications](https://dev.to/aimal-akrami/nestjs-a-powerful-nodejs-framework-for-scalable-web-applications-4a0k)
-- [Dev.to/JS] [Difference between Logical OR &lpar;||&rpar; and Nullish coalescing operator&lpar;??&rpar;](https://dev.to/kaziusan/difference-between-logical-or-and-nullish-coalescing-operator-1fdb)
 - [Lifehacker] [These Lights Are Now Banned for Sale in the US](https://lifehacker.com/these-lights-are-now-banned-for-sale-in-the-us-1850700832)
 - [Lifehacker] [This Remote A/C Controller Is $67 Right Now](https://lifehacker.com/this-remote-a-c-controller-is-67-right-now-1850686436)
 - [Lifehacker] [Where to Watch &#39;Reservation Dogs&#39; Season 3 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-reservation-dogs-season-3-and-what-you-1850686196)
