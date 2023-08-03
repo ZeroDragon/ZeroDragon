@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Devices to Keep Track of Your Kids](https://lifehacker.com/these-are-the-best-devices-to-keep-track-of-your-kids-1850702766)
+- [Dev.to/JS] [Scaling Node.js to Infinity and Beyond: Cluster and Load Balancing for Galactic Performance.](https://dev.to/raxraj/scaling-nodejs-to-infinity-and-beyond-cluster-and-load-balancing-for-galactic-performance-g60)
+- [Dev.to/JS] [Mocker gives you proxy power to streamline gRPC development](https://dev.to/skyrampmia/mocker-gives-you-proxy-power-to-streamline-grpc-development-96c)
+- [Lifehacker] [What the IRS&#39;s New ‘Paperless Processing Initiative’ Means for You](https://lifehacker.com/what-the-irss-new-paperless-processing-initiative-mea-1850703316)
+- [Dev.to/JS] [Call JavaScript Code in Python](https://dev.to/willp/call-javascript-code-in-python-551a)
+- [Lifehacker] [The Best Way to Weigh Down Your Pie Crusts](https://lifehacker.com/weigh-down-your-pie-crusts-with-sugar-1830228677)
+- [Dev.to/JS] [Pokémouille - A modern Pokédex &lpar;part 4&rpar;](https://dev.to/vaalley/pokemouille-a-modern-pokedex-part-4-14ic)
+- [Lifehacker] [Why You Should Order Your Spring Bulbs Right Now](https://lifehacker.com/why-you-should-order-your-spring-bulbs-right-now-1850701400)
 - [Lifehacker] [Four Ways to Figure Out What Day a Date Falls On](https://lifehacker.com/the-best-ways-to-figure-out-what-day-a-date-falls-on-1850702111)
 - [Lifehacker] [The Best Small Fans to Keep You Cool at Your Desk](https://lifehacker.com/the-best-small-fans-to-keep-you-cool-at-your-desk-1850700777)
 - [Dev.to/JS] [If_Else Statements: The Quick Guide For Beginners](https://dev.to/deborah/ifelse-statements-the-quick-guide-for-beginners-509m)
@@ -39,11 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Make Fruit Pies Without Much Baking](https://lifehacker.com/you-can-make-fruit-pies-without-much-baking-1850701310)
 - [Lifehacker] [All the Ways You Can Use Peaches Like Tomatoes](https://lifehacker.com/all-the-ways-you-can-use-peaches-like-tomatoes-1850700834)
 - [Dev.to/JS] [Creating Custom 404 Pages on GitHub Pages](https://dev.to/sh20raj/creating-custom-404-pages-on-github-pages-17nb)
-- [Dev.to/JS] [Nuxt3: cool feature](https://dev.to/ahmadessam/nuxt3-cool-feature-2jb6)
 - [Lifehacker] [Use Gas Station Ice to Keep Your Phone From Overheating on a Road Trip](https://lifehacker.com/use-gas-station-ice-to-keep-your-phone-from-overheating-1850700029)
-- [Dev.to/JS] [&quot;Mastering JavaScript: Unleashing the Power of Programming&quot;](https://dev.to/udebrecen38602/mastering-javascript-unleashing-the-power-of-programming-3o5f)
-- [Dev.to/JS] [Easily Integrate ChatGPT with WhatsApp for Seamless Conversations](https://dev.to/devashishmamgain/easily-integrate-chatgpt-with-whatsapp-for-seamless-conversations-1dg3)
-- [Dev.to/JS] [Simplifying Angular Apps with Dependency Injection: Best Practices and Strategies](https://dev.to/aymenmissaouii/simplifying-angular-apps-with-dependency-injection-best-practices-and-strategies-3a7i)
 - [Lifehacker] [These Lights Are Now Banned for Sale in the US](https://lifehacker.com/these-lights-are-now-banned-for-sale-in-the-us-1850700832)
 - [Lifehacker] [This Remote A/C Controller Is $67 Right Now](https://lifehacker.com/this-remote-a-c-controller-is-67-right-now-1850686436)
 - [Lifehacker] [Where to Watch &#39;Reservation Dogs&#39; Season 3 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-reservation-dogs-season-3-and-what-you-1850686196)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Accessories That&#39;ll Make You Actually Use Your Water Bottle](https://lifehacker.com/the-accessories-thatll-make-you-actually-use-your-water-1850698716)
 - [Lifehacker] [How to Juggle Multiple Credit Cards &lpar;Without Going Into Debt&rpar;](https://lifehacker.com/how-to-juggle-multiple-credit-cards-without-going-into-1850697565)
 - [Lifehacker] [Tomato Gravy Is the South’s Answer to ‘Too Many Tomatoes’](https://lifehacker.com/tomato-gravy-is-the-south-s-answer-to-too-many-tomatoe-1850697677)
-- [Lifehacker] [The First Things You Should Do If You Win the $1.25 Billion Mega Millions Jackpot](https://lifehacker.com/here-s-what-to-do-if-you-win-the-mega-millions-lottery-1849342195)
-- [Lifehacker] [Enough With Sweet Cheesecakes, This One&#39;s Got Meat](https://lifehacker.com/enough-with-sweet-cheesecakes-this-ones-got-meat-1850697656)
-- [Lifehacker] [Your Peloton Might Have a Secret Netflix App](https://lifehacker.com/check-your-peloton-for-a-secret-netflix-app-1850699394)
-- [Lifehacker] [20 Awesome Indie Games You Should Play on Nintendo Switch](https://lifehacker.com/best-indie-games-nintendo-switch-1850699453)
-- [Lifehacker] [Don’t Panic, But Leprosy Might Be Endemic in Florida Now](https://lifehacker.com/don-t-panic-but-leprosy-might-be-endemic-in-florida-no-1850697569)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The First Things You Should Do If You Win the $1.25 Billion Mega Millions Jackpot](https://lifehacker.com/here-s-what-to-do-if-you-win-the-mega-millions-lottery-1849342195)<!-- TECH-POSTS:END -->
 
 ---
 
