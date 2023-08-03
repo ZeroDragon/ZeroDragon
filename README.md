@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mock Javascript function within the module](https://dev.to/ravimaharjan/mock-javascript-function-within-the-module-3b81)
+- [Dev.to/JS] [What is JavaScript used for ?](https://dev.to/bindupatidar/what-is-javascript-used-for--54ge)
+- [Dev.to/JS] [Type checking in JavaScript without using Typescript...but should you?](https://dev.to/xplodivity/type-checking-in-javascript-without-using-typescriptbut-should-you-29n4)
+- [Dev.to/JS] [Simplified Overview of Angular Change Detection](https://dev.to/ussdlover/simplified-overview-of-angular-change-detection-4pbf)
 - [Dev.to/JS] [NestJS: A Powerful Node.js Framework for Scalable Web Applications](https://dev.to/aimal-akrami/nestjs-a-powerful-nodejs-framework-for-scalable-web-applications-4a0k)
 - [Dev.to/JS] [Difference between Logical OR &lpar;||&rpar; and Nullish coalescing operator&lpar;??&rpar;](https://dev.to/kaziusan/difference-between-logical-or-and-nullish-coalescing-operator-1fdb)
 - [Dev.to/JS] [Frontend Development Roadmap for Product-Based Companies 🔥](https://dev.to/anjankarmakar/frontend-development-roadmap-for-product-based-companies-471e)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Journey through the Professional Three.js Course](https://dev.to/harryholland/a-journey-through-the-professional-threejs-course-3j1b)
 - [Dev.to/JS] [The Future of Data Collection: The AI-Driven Privacy-First Platform](https://dev.to/aiforme/the-future-of-data-collection-the-ai-driven-privacy-first-platform-3f0c)
 - [Dev.to/JS] [Video Editors &amp; Timeline Filmstrips - Part 1](https://dev.to/adityakrshnn/video-editors-timeline-filmstrips-part-1-7h)
-- [Dev.to/JS] [How to Check Uploaded Files and URLs for Viruses using VirusTotal API in PHP](https://dev.to/sh20raj/how-to-check-uploaded-files-and-urls-for-viruses-using-virustotal-api-in-php-5fc8)
-- [Dev.to/JS] [Code Smell 220 - Return Tuple](https://dev.to/mcsee/code-smell-220-return-tuple-306j)
-- [Dev.to/JS] [A maneira mais rápida de remover itens duplicados de um array em js](https://dev.to/pedrosantos3010/a-maneira-mais-rapida-de-remover-duplicatas-de-um-array-em-js-2bkn)
-- [Dev.to/JS] [Secure Your JavaScript Project with &#39;npm audit&#39;!](https://dev.to/yanagisawahidetoshi/secure-your-javascript-project-with-npm-audit-3328)
 - [Lifehacker] [These Lights Are Now Banned for Sale in the US](https://lifehacker.com/these-lights-are-now-banned-for-sale-in-the-us-1850700832)
 - [Lifehacker] [This Remote A/C Controller Is $67 Right Now](https://lifehacker.com/this-remote-a-c-controller-is-67-right-now-1850686436)
 - [Lifehacker] [Where to Watch &#39;Reservation Dogs&#39; Season 3 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-reservation-dogs-season-3-and-what-you-1850686196)
