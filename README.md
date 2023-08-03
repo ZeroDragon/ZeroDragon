@@ -26,10 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Four Ways to Figure Out What Day a Date Falls On](https://lifehacker.com/the-best-ways-to-figure-out-what-day-a-date-falls-on-1850702111)
+- [Lifehacker] [The Best Small Fans to Keep You Cool at Your Desk](https://lifehacker.com/the-best-small-fans-to-keep-you-cool-at-your-desk-1850700777)
 - [Dev.to/JS] [If_Else Statements: The Quick Guide For Beginners](https://dev.to/deborah/ifelse-statements-the-quick-guide-for-beginners-509m)
 - [Dev.to/JS] [Sky&#39;s the Limit! Supercharging Your Astro Blog with Orama, the Ultimate Stargazing Search Engine!](https://dev.to/thezal/skys-the-limit-supercharging-your-astro-blog-with-orama-the-ultimate-stargazing-search-engine-1ea5)
 - [Dev.to/JS] [Build NO-CODE AI Agents at Scale](https://dev.to/aiforme/build-no-code-ai-agents-at-scale-ldg)
-- [Dev.to/JS] [Day 18: Promise Timeout](https://dev.to/dhrn/day-18-promise-timeout-1ph4)
+- [Dev.to/JS] [Day 18: Timeout](https://dev.to/dhrn/day-18-promise-timeout-1ph4)
 - [Lifehacker] [Don’t Miss These August Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-august-class-action-settlement-deadlin-1850697654)
 - [Dev.to/JS] [5 Not-So-Typical React Libraries for an Outstanding Project](https://dev.to/gaelgthomas/5-not-so-typical-react-libraries-for-an-outstanding-project-47m7)
 - [Dev.to/JS] [JavaScript Frameworks: Revolutionizing Web Development with React, Angular, and Vue.js](https://dev.to/jashariadvan/javascript-frameworks-revolutionizing-web-development-with-react-angular-and-vuejs-32cm)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Enough With Sweet Cheesecakes, This One&#39;s Got Meat](https://lifehacker.com/enough-with-sweet-cheesecakes-this-ones-got-meat-1850697656)
 - [Lifehacker] [Your Peloton Might Have a Secret Netflix App](https://lifehacker.com/check-your-peloton-for-a-secret-netflix-app-1850699394)
 - [Lifehacker] [20 Awesome Indie Games You Should Play on Nintendo Switch](https://lifehacker.com/best-indie-games-nintendo-switch-1850699453)
-- [Lifehacker] [Don’t Panic, But Leprosy Might Be Endemic in Florida Now](https://lifehacker.com/don-t-panic-but-leprosy-might-be-endemic-in-florida-no-1850697569)
-- [Lifehacker] [Don’t Pay These Easily Avoidable Travel Fees From Major Airlines](https://lifehacker.com/don-t-pay-these-easily-avoidable-travel-fees-from-major-1850697515)
-- [Lifehacker] [Sorry, but You’ll Never Win the Mega Millions Jackpot](https://lifehacker.com/winning-the-powerball-lottery-won-t-solve-your-problems-1752378740)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Panic, But Leprosy Might Be Endemic in Florida Now](https://lifehacker.com/don-t-panic-but-leprosy-might-be-endemic-in-florida-no-1850697569)<!-- TECH-POSTS:END -->
 
 ---
 
