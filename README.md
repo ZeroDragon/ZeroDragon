@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Simple Guide to Creating a Pull Request on GitHub](https://dev.to/idurar/a-simple-guide-to-creating-a-pull-request-on-github-3daa)
+- [Lifehacker] [You Can Make Fruit Pies Without Much Baking](https://lifehacker.com/you-can-make-fruit-pies-without-much-baking-1850701310)
+- [Lifehacker] [All the Ways You Can Use Peaches Like Tomatoes](https://lifehacker.com/all-the-ways-you-can-use-peaches-like-tomatoes-1850700834)
+- [Dev.to/JS] [Creating Custom 404 Pages on GitHub Pages](https://dev.to/sh20raj/creating-custom-404-pages-on-github-pages-17nb)
+- [Dev.to/JS] [Nuxt3: cool feature](https://dev.to/ahmadessam/nuxt3-cool-feature-2jb6)
+- [Lifehacker] [Use Gas Station Ice to Keep Your Phone From Overheating on a Road Trip](https://lifehacker.com/use-gas-station-ice-to-keep-your-phone-from-overheating-1850700029)
 - [Dev.to/JS] [&quot;Mastering JavaScript: Unleashing the Power of Programming&quot;](https://dev.to/udebrecen38602/mastering-javascript-unleashing-the-power-of-programming-3o5f)
 - [Dev.to/JS] [Easily Integrate ChatGPT with WhatsApp for Seamless Conversations](https://dev.to/devashishmamgain/easily-integrate-chatgpt-with-whatsapp-for-seamless-conversations-1dg3)
 - [Dev.to/JS] [Simplifying Angular Apps with Dependency Injection: Best Practices and Strategies](https://dev.to/aymenmissaouii/simplifying-angular-apps-with-dependency-injection-best-practices-and-strategies-3a7i)
@@ -35,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [21 Best Practices for a Clean React Project](https://dev.to/mohammadfaisal/21-best-practices-for-a-clean-react-project-jdf)
 - [Dev.to/JS] [Filtering the available browsers in Cypress](https://dev.to/walmyrlimaesilv/filtering-the-available-browsers-in-cypress-1835)
 - [Dev.to/JS] [The 8000+ Programming Languages Not to Learn: Making Your Own Choices](https://dev.to/isolderea/the-8000-programming-languages-not-to-learn-making-your-own-choices-52d7)
-- [Dev.to/JS] [#31 - Trabalho Remoto &lpar;feat @ocodista&rpar;](https://dev.to/edgarberlinck/31-trabalho-remoto-feat-ocodista-c1l)
-- [Dev.to/JS] [Choosing the Right Approach: Promise or Async/Await?](https://dev.to/geethanjaliks/choosing-the-right-approach-promise-or-asyncawait-4j15)
-- [Dev.to/JS] [Sveltekit and Appwrite Cloud: How to build a list app](https://dev.to/terieyenike/sveltekit-and-appwrite-cloud-how-to-build-a-list-app-2174)
 - [Lifehacker] [These Lights Are Now Banned for Sale in the US](https://lifehacker.com/these-lights-are-now-banned-for-sale-in-the-us-1850700832)
 - [Lifehacker] [This Remote A/C Controller Is $67 Right Now](https://lifehacker.com/this-remote-a-c-controller-is-67-right-now-1850686436)
 - [Lifehacker] [Where to Watch &#39;Reservation Dogs&#39; Season 3 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-reservation-dogs-season-3-and-what-you-1850686196)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Panic, But Leprosy Might Be Endemic in Florida Now](https://lifehacker.com/don-t-panic-but-leprosy-might-be-endemic-in-florida-no-1850697569)
 - [Lifehacker] [Don’t Pay These Easily Avoidable Travel Fees From Major Airlines](https://lifehacker.com/don-t-pay-these-easily-avoidable-travel-fees-from-major-1850697515)
 - [Lifehacker] [Sorry, but You’ll Never Win the Mega Millions Jackpot](https://lifehacker.com/winning-the-powerball-lottery-won-t-solve-your-problems-1752378740)
-- [Lifehacker] [Why You Should Never Use Your Retirement Savings to Pay Off Debt](https://lifehacker.com/why-you-should-never-use-your-retirement-savings-to-pay-1850696666)
-- [Lifehacker] [You Should Be a ‘Safety-Net Parent’](https://lifehacker.com/you-should-be-a-safety-net-parent-1850690958)
-- [Lifehacker] [My Favorite Storage Solutions for Any Dorm or Small Living Space](https://lifehacker.com/my-favorite-storage-solutions-for-any-dorm-or-small-liv-1850695911)
-- [Lifehacker] [Where to Watch &#39;Castlevania: Nocturne&#39; &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-castlevania-nocturne-and-what-you-shou-1850686916)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Never Use Your Retirement Savings to Pay Off Debt](https://lifehacker.com/why-you-should-never-use-your-retirement-savings-to-pay-1850696666)<!-- TECH-POSTS:END -->
 
 ---
 
