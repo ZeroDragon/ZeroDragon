@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Frontend Development Roadmap for Product-Based Companies 🔥](https://dev.to/anjankarmakar/frontend-development-roadmap-for-product-based-companies-471e)
 - [Dev.to/JS] [What&#39;s the difference between arrow functions and regular functions?](https://dev.to/pedrogustavo/whats-the-difference-between-arrow-functions-and-regular-functions-352c)
 - [Dev.to/JS] [How to Detect URL Changes and Fire a Specific Function in Next.js](https://dev.to/yanagisawahidetoshi/how-to-detect-url-changes-and-fire-a-specific-function-in-nextjs-2bkc)
 - [Dev.to/JS] [A Journey through the Professional Three.js Course](https://dev.to/harryholland/a-journey-through-the-professional-threejs-course-3j1b)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Lights Are Now Banned for Sale in the US](https://lifehacker.com/these-lights-are-now-banned-for-sale-in-the-us-1850700832)
 - [Dev.to/JS] [Introducing Nobox.cloud: A Backend as a Service for JS Devs](https://dev.to/akintunde102/introducing-noboxcloud-a-backend-as-a-service-for-js-devs-240f)
 - [Lifehacker] [This Remote A/C Controller Is $67 Right Now](https://lifehacker.com/this-remote-a-c-controller-is-67-right-now-1850686436)
-- [Dev.to/JS] [ECharts: La librería para generar gráficas](https://dev.to/ulisesserranop/echarts-la-libreria-para-generar-graficas-1ji8)
 - [Lifehacker] [Where to Watch &#39;Reservation Dogs&#39; Season 3 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-reservation-dogs-season-3-and-what-you-1850686196)
 - [Lifehacker] [This HD Beginner-Friendly Drone Is $90 Right Now](https://lifehacker.com/this-hd-beginner-friendly-drone-is-90-right-now-1850686579)
 - [Lifehacker] [The Difference Between ‘Sleep It Off’ Drunk and ‘Call 911’ Drunk](https://lifehacker.com/is-your-friend-sleep-it-off-drunk-or-call-911-drunk-1725380214)
