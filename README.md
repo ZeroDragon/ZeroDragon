@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [End-to-end Logging &amp; Monitoring Services](https://dev.to/vastitesinc/end-to-end-logging-monitoring-services-ckk)
+- [Dev.to/JS] [Prototypes - Desvendando Herança em JavaScript](https://dev.to/jvcdomingues/prototypes-desvendando-heranca-em-javascript-518g)
+- [Lifehacker] [What People are Getting Wrong This Week: Trump and the First Amendment](https://lifehacker.com/what-people-are-getting-wrong-this-week-trump-and-the-1850702466)
+- [Dev.to/JS] [How Overall Equipment Effectiveness &lpar;OEE&rpar; Improves Manufacturing Efficiency](https://dev.to/mushroomsolutions/how-overall-equipment-effectiveness-oee-improves-manufacturing-efficiency-2o3n)
+- [Lifehacker] [How to Sneak Food Into the Movies Like a Criminal Mastermind](https://lifehacker.com/how-to-sneak-food-into-the-movies-like-a-criminal-maste-1847802143)
+- [Dev.to/JS] [Why we should not mutate in react](https://dev.to/endeavourmonk/why-we-should-not-mutate-in-react-18ej)
+- [Lifehacker] [This Wifi Security Camera Is $61 Right Now](https://lifehacker.com/this-wifi-security-camera-is-61-right-now-1850686665)
 - [Lifehacker] [&#39;Dopamine Decor&#39; Can Make Your Home Happier](https://lifehacker.com/dopamine-decor-can-make-your-home-happier-1850700806)
 - [Dev.to/JS] [Moonly weekly progress update #59 - use cases for the Automatio Bot](https://dev.to/moonly/moonly-weekly-progress-update-59-use-cases-for-the-automatio-bot-4e2)
 - [Lifehacker] [Why You Should Spray Your Shoes With Permethrin This Summer](https://lifehacker.com/spray-your-shoes-with-permethrin-this-summer-1848986173)
@@ -43,15 +50,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways to Make a Beach Trip Easier With a Baby](https://lifehacker.com/put-these-things-in-a-cooler-for-your-babys-first-beach-1849089429)
 - [Lifehacker] [These Are the Best Devices to Keep Track of Your Kids](https://lifehacker.com/these-are-the-best-devices-to-keep-track-of-your-kids-1850702766)
 - [Dev.to/JS] [Scaling Node.js to Infinity and Beyond: Cluster and Load Balancing for Galactic Performance.](https://dev.to/raxraj/scaling-nodejs-to-infinity-and-beyond-cluster-and-load-balancing-for-galactic-performance-g60)
-- [Dev.to/JS] [Mocker gives you proxy power to streamline gRPC development](https://dev.to/skyrampmia/mocker-gives-you-proxy-power-to-streamline-grpc-development-96c)
 - [Lifehacker] [What the IRS&#39;s New ‘Paperless Processing Initiative’ Means for You](https://lifehacker.com/what-the-irss-new-paperless-processing-initiative-mea-1850703316)
-- [Dev.to/JS] [Call JavaScript Code in Python](https://dev.to/willp/call-javascript-code-in-python-551a)
 - [Lifehacker] [The Best Way to Weigh Down Your Pie Crusts](https://lifehacker.com/weigh-down-your-pie-crusts-with-sugar-1830228677)
-- [Dev.to/JS] [Pokémouille - A modern Pokédex &lpar;part 4&rpar;](https://dev.to/vaalley/pokemouille-a-modern-pokedex-part-4-14ic)
 - [Lifehacker] [Why You Should Order Your Spring Bulbs Right Now](https://lifehacker.com/why-you-should-order-your-spring-bulbs-right-now-1850701400)
 - [Lifehacker] [Four Ways to Figure Out What Day a Date Falls On](https://lifehacker.com/the-best-ways-to-figure-out-what-day-a-date-falls-on-1850702111)
 - [Lifehacker] [The Best Small Fans to Keep You Cool at Your Desk](https://lifehacker.com/the-best-small-fans-to-keep-you-cool-at-your-desk-1850700777)
-- [Dev.to/JS] [If_Else Statements: The Quick Guide For Beginners](https://dev.to/deborah/ifelse-statements-the-quick-guide-for-beginners-509m)
 - [Lifehacker] [Don’t Miss These August Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-august-class-action-settlement-deadlin-1850697654)
 - [Lifehacker] [You Can Make Fruit Pies Without Much Baking](https://lifehacker.com/you-can-make-fruit-pies-without-much-baking-1850701310)
 - [Lifehacker] [All the Ways You Can Use Peaches Like Tomatoes](https://lifehacker.com/all-the-ways-you-can-use-peaches-like-tomatoes-1850700834)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This HD Beginner-Friendly Drone Is $90 Right Now](https://lifehacker.com/this-hd-beginner-friendly-drone-is-90-right-now-1850686579)
 - [Lifehacker] [The Difference Between ‘Sleep It Off’ Drunk and ‘Call 911’ Drunk](https://lifehacker.com/is-your-friend-sleep-it-off-drunk-or-call-911-drunk-1725380214)
 - [Lifehacker] [Sync for Reddit Is Back, but Now It’s for Lemmy](https://lifehacker.com/sync-for-reddit-is-back-but-now-it-s-for-lemmy-1850700292)
-- [Lifehacker] [You Can Fix a Chipped Granite Countertop in Five Minutes](https://lifehacker.com/you-can-fix-a-chipped-granite-countertop-in-five-minute-1850700006)
-- [Lifehacker] [Prevent Digital Eye Strain With the 20-20-20 Method](https://lifehacker.com/prevent-digital-eye-strain-with-the-20-20-20-method-1850700377)
-- [Lifehacker] [You Can Use Your AirPods Pro as a Temporary Hearing Aid](https://lifehacker.com/you-can-use-your-airpods-pro-as-a-temporary-hearing-aid-1850699565)
-- [Lifehacker] [The Easiest Ways to Open a Can Without a Can Opener](https://lifehacker.com/the-easiest-ways-to-open-a-can-without-a-can-opener-1849462161)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Fix a Chipped Granite Countertop in Five Minutes](https://lifehacker.com/you-can-fix-a-chipped-granite-countertop-in-five-minute-1850700006)<!-- TECH-POSTS:END -->
 
 ---
 
