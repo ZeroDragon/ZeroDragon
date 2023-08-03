@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code Smell 220 - Return Tuple](https://dev.to/mcsee/code-smell-220-return-tuple-306j)
+- [Dev.to/JS] [A maneira mais rápida de remover itens duplicados de um array em js](https://dev.to/pedrosantos3010/a-maneira-mais-rapida-de-remover-duplicatas-de-um-array-em-js-2bkn)
 - [Dev.to/JS] [Secure Your JavaScript Project with &#39;npm audit&#39;!](https://dev.to/yanagisawahidetoshi/secure-your-javascript-project-with-npm-audit-3328)
 - [Dev.to/JS] [NPM Commands Practical Guide: Get to Know Your Packages and Keep Your Project Up-to-Date](https://dev.to/yanagisawahidetoshi/npm-commands-practical-guide-get-to-know-your-packages-and-keep-your-project-up-to-date-58a6)
 - [Lifehacker] [These Lights Are Now Banned for Sale in the US](https://lifehacker.com/these-lights-are-now-banned-for-sale-in-the-us-1850700832)
@@ -44,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Fix a Chipped Granite Countertop in Five Minutes](https://lifehacker.com/you-can-fix-a-chipped-granite-countertop-in-five-minute-1850700006)
 - [Dev.to/JS] [My Journey in Open Source - set-interval-by-id](https://dev.to/cadienvan/my-journey-in-open-source-set-interval-by-id-10o8)
 - [Lifehacker] [Prevent Digital Eye Strain With the 20-20-20 Method](https://lifehacker.com/prevent-digital-eye-strain-with-the-20-20-20-method-1850700377)
-- [Dev.to/JS] [How to use res.download&lpar;&rpar; to download images](https://dev.to/webplayground/how-to-use-resdownload-to-download-images-3gk8)
-- [Dev.to/JS] [JavaScript Under The Hood: The typeof Operator and Data Types Demystified](https://dev.to/gokhantaskan/javascript-under-the-hood-the-typeof-operator-and-data-types-demystified-1j93)
 - [Lifehacker] [You Can Use Your AirPods Pro as a Temporary Hearing Aid](https://lifehacker.com/you-can-use-your-airpods-pro-as-a-temporary-hearing-aid-1850699565)
 - [Lifehacker] [The Easiest Ways to Open a Can Without a Can Opener](https://lifehacker.com/the-easiest-ways-to-open-a-can-without-a-can-opener-1849462161)
 - [Lifehacker] [You Should Enable Google&#39;s New Reading Mode for Android](https://lifehacker.com/you-should-enable-googles-new-reading-mode-for-android-1850698994)
