@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How I Became a Watchmaker](https://lifehacker.com/how-i-became-a-watchmaker-1850683340)
+- [Dev.to/JS] [Reduce, o que é e como essa função pode agregar a você no seu código javascript.](https://dev.to/gabrielgcj/reduce-o-que-e-e-como-essa-funcao-pode-agregar-a-voce-no-seu-codigo-javascript-2nkd)
+- [Dev.to/JS] [Beginner group](https://dev.to/whiteglassesweb/beginner-group-28mh)
+- [Lifehacker] [Cheaper Capers Are Already In Your Garden](https://lifehacker.com/cheaper-capers-are-already-in-your-garden-1850702734)
+- [Lifehacker] [How to Keep Your Tomatoes Fresh Without Putting Them in The Fridge](https://lifehacker.com/the-secret-to-keeping-your-tomatoes-super-fresh-1796557866)
+- [Lifehacker] [Use These New Google Privacy Tools to Protect Your Data](https://lifehacker.com/use-these-new-google-privacy-tools-to-protect-your-data-1850703726)
 - [Dev.to/JS] [JavaScript Loop Best Practices for Optimal Performance](https://dev.to/robiulhr/javascript-loop-best-practices-for-optimal-performance-2pem)
 - [Dev.to/JS] [JavaScript Event Loop: Breaking Down the Mystery](https://dev.to/ocodista/javascript-event-loop-breaking-down-the-mystery-2c9f)
 - [Lifehacker] [Use ‘Mood-Ring Paint’ for a Color-Changing Effect on These Surfaces](https://lifehacker.com/use-mood-ring-paint-for-a-color-changing-effect-on-th-1850701087)
@@ -44,9 +50,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [If_Else Statements: The Quick Guide For Beginners](https://dev.to/deborah/ifelse-statements-the-quick-guide-for-beginners-509m)
 - [Dev.to/JS] [Sky&#39;s the Limit! Supercharging Your Astro Blog with Orama, the Ultimate Stargazing Search Engine!](https://dev.to/thezal/skys-the-limit-supercharging-your-astro-blog-with-orama-the-ultimate-stargazing-search-engine-1ea5)
 - [Dev.to/JS] [Build NO-CODE AI Agents at Scale](https://dev.to/aiforme/build-no-code-ai-agents-at-scale-ldg)
-- [Dev.to/JS] [Day 18: Timeout](https://dev.to/dhrn/day-18-promise-timeout-1ph4)
 - [Lifehacker] [Don’t Miss These August Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-august-class-action-settlement-deadlin-1850697654)
-- [Dev.to/JS] [5 Not-So-Typical React Libraries for an Outstanding Project](https://dev.to/gaelgthomas/5-not-so-typical-react-libraries-for-an-outstanding-project-47m7)
 - [Lifehacker] [You Can Make Fruit Pies Without Much Baking](https://lifehacker.com/you-can-make-fruit-pies-without-much-baking-1850701310)
 - [Lifehacker] [All the Ways You Can Use Peaches Like Tomatoes](https://lifehacker.com/all-the-ways-you-can-use-peaches-like-tomatoes-1850700834)
 - [Lifehacker] [Use Gas Station Ice to Keep Your Phone From Overheating on a Road Trip](https://lifehacker.com/use-gas-station-ice-to-keep-your-phone-from-overheating-1850700029)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Use Your AirPods Pro as a Temporary Hearing Aid](https://lifehacker.com/you-can-use-your-airpods-pro-as-a-temporary-hearing-aid-1850699565)
 - [Lifehacker] [The Easiest Ways to Open a Can Without a Can Opener](https://lifehacker.com/the-easiest-ways-to-open-a-can-without-a-can-opener-1849462161)
 - [Lifehacker] [You Should Enable Google&#39;s New Reading Mode for Android](https://lifehacker.com/you-should-enable-googles-new-reading-mode-for-android-1850698994)
-- [Lifehacker] [Linkdelta&#39;s AI Writing Tool Is $200 Right Now](https://lifehacker.com/linkdeltas-ai-writing-tool-is-200-right-now-1850686156)
-- [Lifehacker] [The Easiest Way to Collect, Store, and Cook With Bacon Grease](https://lifehacker.com/how-to-collect-store-and-cook-with-bacon-grease-1833410977)
-- [Lifehacker] [This Government Program Will Help Support Dementia Patients and Their Caregivers](https://lifehacker.com/apply-for-this-government-program-if-you-care-for-someo-1850697731)
-- [Lifehacker] [The Accessories That&#39;ll Make You Actually Use Your Water Bottle](https://lifehacker.com/the-accessories-thatll-make-you-actually-use-your-water-1850698716)
-- [Lifehacker] [How to Juggle Multiple Credit Cards &lpar;Without Going Into Debt&rpar;](https://lifehacker.com/how-to-juggle-multiple-credit-cards-without-going-into-1850697565)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Linkdelta&#39;s AI Writing Tool Is $200 Right Now](https://lifehacker.com/linkdeltas-ai-writing-tool-is-200-right-now-1850686156)<!-- TECH-POSTS:END -->
 
 ---
 
