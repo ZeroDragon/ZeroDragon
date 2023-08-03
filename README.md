@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Loop Best Practices for Optimal Performance](https://dev.to/robiulhr/javascript-loop-best-practices-for-optimal-performance-2pem)
+- [Dev.to/JS] [JavaScript Event Loop: Breaking Down the Mystery](https://dev.to/ocodista/javascript-event-loop-breaking-down-the-mystery-2c9f)
+- [Lifehacker] [Use ‘Mood-Ring Paint’ for a Color-Changing Effect on These Surfaces](https://lifehacker.com/use-mood-ring-paint-for-a-color-changing-effect-on-th-1850701087)
+- [Dev.to/JS] [TYPESCRIPT](https://dev.to/ikechukwu1234/typescript-ije)
+- [Lifehacker] [All the Ways to Make a Beach Trip Easier With a Baby](https://lifehacker.com/put-these-things-in-a-cooler-for-your-babys-first-beach-1849089429)
 - [Lifehacker] [These Are the Best Devices to Keep Track of Your Kids](https://lifehacker.com/these-are-the-best-devices-to-keep-track-of-your-kids-1850702766)
 - [Dev.to/JS] [Scaling Node.js to Infinity and Beyond: Cluster and Load Balancing for Galactic Performance.](https://dev.to/raxraj/scaling-nodejs-to-infinity-and-beyond-cluster-and-load-balancing-for-galactic-performance-g60)
 - [Dev.to/JS] [Mocker gives you proxy power to streamline gRPC development](https://dev.to/skyrampmia/mocker-gives-you-proxy-power-to-streamline-grpc-development-96c)
@@ -42,11 +47,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 18: Timeout](https://dev.to/dhrn/day-18-promise-timeout-1ph4)
 - [Lifehacker] [Don’t Miss These August Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-august-class-action-settlement-deadlin-1850697654)
 - [Dev.to/JS] [5 Not-So-Typical React Libraries for an Outstanding Project](https://dev.to/gaelgthomas/5-not-so-typical-react-libraries-for-an-outstanding-project-47m7)
-- [Dev.to/JS] [JavaScript Frameworks: Revolutionizing Web Development with React, Angular, and Vue.js](https://dev.to/jashariadvan/javascript-frameworks-revolutionizing-web-development-with-react-angular-and-vuejs-32cm)
-- [Dev.to/JS] [A Simple Guide to Creating a Pull Request on GitHub](https://dev.to/idurar/a-simple-guide-to-creating-a-pull-request-on-github-3daa)
 - [Lifehacker] [You Can Make Fruit Pies Without Much Baking](https://lifehacker.com/you-can-make-fruit-pies-without-much-baking-1850701310)
 - [Lifehacker] [All the Ways You Can Use Peaches Like Tomatoes](https://lifehacker.com/all-the-ways-you-can-use-peaches-like-tomatoes-1850700834)
-- [Dev.to/JS] [Creating Custom 404 Pages on GitHub Pages](https://dev.to/sh20raj/creating-custom-404-pages-on-github-pages-17nb)
 - [Lifehacker] [Use Gas Station Ice to Keep Your Phone From Overheating on a Road Trip](https://lifehacker.com/use-gas-station-ice-to-keep-your-phone-from-overheating-1850700029)
 - [Lifehacker] [These Lights Are Now Banned for Sale in the US](https://lifehacker.com/these-lights-are-now-banned-for-sale-in-the-us-1850700832)
 - [Lifehacker] [This Remote A/C Controller Is $67 Right Now](https://lifehacker.com/this-remote-a-c-controller-is-67-right-now-1850686436)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Collect, Store, and Cook With Bacon Grease](https://lifehacker.com/how-to-collect-store-and-cook-with-bacon-grease-1833410977)
 - [Lifehacker] [This Government Program Will Help Support Dementia Patients and Their Caregivers](https://lifehacker.com/apply-for-this-government-program-if-you-care-for-someo-1850697731)
 - [Lifehacker] [The Accessories That&#39;ll Make You Actually Use Your Water Bottle](https://lifehacker.com/the-accessories-thatll-make-you-actually-use-your-water-1850698716)
-- [Lifehacker] [How to Juggle Multiple Credit Cards &lpar;Without Going Into Debt&rpar;](https://lifehacker.com/how-to-juggle-multiple-credit-cards-without-going-into-1850697565)
-- [Lifehacker] [Tomato Gravy Is the South’s Answer to ‘Too Many Tomatoes’](https://lifehacker.com/tomato-gravy-is-the-south-s-answer-to-too-many-tomatoe-1850697677)
-- [Lifehacker] [The First Things You Should Do If You Win the $1.25 Billion Mega Millions Jackpot](https://lifehacker.com/here-s-what-to-do-if-you-win-the-mega-millions-lottery-1849342195)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Juggle Multiple Credit Cards &lpar;Without Going Into Debt&rpar;](https://lifehacker.com/how-to-juggle-multiple-credit-cards-without-going-into-1850697565)<!-- TECH-POSTS:END -->
 
 ---
 
