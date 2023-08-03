@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🍅🔔 Domine seu Tempo com o Pomodoro Timer Estética! A técnica que vai revolucionar a sua produtividade!](https://dev.to/matheusmanuel/domine-seu-tempo-com-o-pomodoro-timer-estetica-a-tecnica-que-vai-revolucionar-a-sua-produtividade-jfg)
+- [Lifehacker] [You Can Get 20TB of Prism Drive Cloud Storage for $100](https://lifehacker.com/you-can-get-20tb-of-prism-drive-cloud-storage-for-100-1850686623)
 - [Lifehacker] [Spicy Cold Tofu Is Your Go-to Quick Summer Dish](https://lifehacker.com/spicy-cold-tofu-is-your-go-to-quick-summer-dish-1850703990)
+- [Dev.to/JS] [Class vs Function Objects- Memory comparison &lpar;Part 2&rpar;](https://dev.to/manojadams/class-vs-function-objects-another-memory-comparison-part-2-5bl8)
 - [Dev.to/JS] [I debugged and fixed Stripe Quickstart issues, so you don&#39;t have to](https://dev.to/orliesaurus/i-debugged-and-fixed-stripe-quickstart-issues-so-you-dont-have-to-4n1j)
 - [Lifehacker] [The Viral Cottage Cheese Cookie Dough Is for Jocks](https://lifehacker.com/the-viral-cottage-cheese-cookie-dough-is-for-jocks-1850702066)
 - [Lifehacker] [The Best AirPods Pro Settings Everyone Should Be Using](https://lifehacker.com/best-apple-airpods-pro-settings-1847590845)
@@ -49,8 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Cheaper Capers Are Already In Your Garden](https://lifehacker.com/cheaper-capers-are-already-in-your-garden-1850702734)
 - [Lifehacker] [How to Keep Your Tomatoes Fresh Without Putting Them in The Fridge](https://lifehacker.com/the-secret-to-keeping-your-tomatoes-super-fresh-1796557866)
 - [Lifehacker] [Use These New Google Privacy Tools to Protect Your Data](https://lifehacker.com/use-these-new-google-privacy-tools-to-protect-your-data-1850703726)
-- [Dev.to/JS] [JavaScript Loop Best Practices for Optimal Performance](https://dev.to/robiulhr/javascript-loop-best-practices-for-optimal-performance-2pem)
-- [Dev.to/JS] [JavaScript Event Loop: Breaking Down the Mystery](https://dev.to/ocodista/javascript-event-loop-breaking-down-the-mystery-2c9f)
 - [Lifehacker] [Use ‘Mood-Ring Paint’ for a Color-Changing Effect on These Surfaces](https://lifehacker.com/use-mood-ring-paint-for-a-color-changing-effect-on-th-1850701087)
 - [Lifehacker] [All the Ways to Make a Beach Trip Easier With a Baby](https://lifehacker.com/put-these-things-in-a-cooler-for-your-babys-first-beach-1849089429)
 - [Lifehacker] [These Are the Best Devices to Keep Track of Your Kids](https://lifehacker.com/these-are-the-best-devices-to-keep-track-of-your-kids-1850702766)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways You Can Use Peaches Like Tomatoes](https://lifehacker.com/all-the-ways-you-can-use-peaches-like-tomatoes-1850700834)
 - [Lifehacker] [Use Gas Station Ice to Keep Your Phone From Overheating on a Road Trip](https://lifehacker.com/use-gas-station-ice-to-keep-your-phone-from-overheating-1850700029)
 - [Lifehacker] [These Lights Are Now Banned for Sale in the US](https://lifehacker.com/these-lights-are-now-banned-for-sale-in-the-us-1850700832)
-- [Lifehacker] [This Remote A/C Controller Is $67 Right Now](https://lifehacker.com/this-remote-a-c-controller-is-67-right-now-1850686436)
-- [Lifehacker] [Where to Watch &#39;Reservation Dogs&#39; Season 3 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-reservation-dogs-season-3-and-what-you-1850686196)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Remote A/C Controller Is $67 Right Now](https://lifehacker.com/this-remote-a-c-controller-is-67-right-now-1850686436)<!-- TECH-POSTS:END -->
 
 ---
 
