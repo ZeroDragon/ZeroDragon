@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [If_Else Statements: The Quick Guide For Beginners](https://dev.to/deborah/ifelse-statements-the-quick-guide-for-beginners-509m)
+- [Dev.to/JS] [Sky&#39;s the Limit! Supercharging Your Astro Blog with Orama, the Ultimate Stargazing Search Engine!](https://dev.to/thezal/skys-the-limit-supercharging-your-astro-blog-with-orama-the-ultimate-stargazing-search-engine-1ea5)
+- [Dev.to/JS] [Build NO-CODE AI Agents at Scale](https://dev.to/aiforme/build-no-code-ai-agents-at-scale-ldg)
+- [Dev.to/JS] [Day 18: Promise Timeout](https://dev.to/dhrn/day-18-promise-timeout-1ph4)
+- [Lifehacker] [Don’t Miss These August Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-august-class-action-settlement-deadlin-1850697654)
+- [Dev.to/JS] [5 Not-So-Typical React Libraries for an Outstanding Project](https://dev.to/gaelgthomas/5-not-so-typical-react-libraries-for-an-outstanding-project-47m7)
+- [Dev.to/JS] [JavaScript Frameworks: Revolutionizing Web Development with React, Angular, and Vue.js](https://dev.to/jashariadvan/javascript-frameworks-revolutionizing-web-development-with-react-angular-and-vuejs-32cm)
 - [Dev.to/JS] [A Simple Guide to Creating a Pull Request on GitHub](https://dev.to/idurar/a-simple-guide-to-creating-a-pull-request-on-github-3daa)
 - [Lifehacker] [You Can Make Fruit Pies Without Much Baking](https://lifehacker.com/you-can-make-fruit-pies-without-much-baking-1850701310)
 - [Lifehacker] [All the Ways You Can Use Peaches Like Tomatoes](https://lifehacker.com/all-the-ways-you-can-use-peaches-like-tomatoes-1850700834)
@@ -35,12 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&quot;Mastering JavaScript: Unleashing the Power of Programming&quot;](https://dev.to/udebrecen38602/mastering-javascript-unleashing-the-power-of-programming-3o5f)
 - [Dev.to/JS] [Easily Integrate ChatGPT with WhatsApp for Seamless Conversations](https://dev.to/devashishmamgain/easily-integrate-chatgpt-with-whatsapp-for-seamless-conversations-1dg3)
 - [Dev.to/JS] [Simplifying Angular Apps with Dependency Injection: Best Practices and Strategies](https://dev.to/aymenmissaouii/simplifying-angular-apps-with-dependency-injection-best-practices-and-strategies-3a7i)
-- [Dev.to/JS] [10 Cool CodePen Demos &lpar;July 2023&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-july-2023-590l)
-- [Dev.to/JS] [Create a Todo List App with React-Native and Styled components](https://dev.to/nktechofficial/create-a-todo-list-app-with-react-native-and-styled-components-3gog)
-- [Dev.to/JS] [Build an AWS S3 Browser with ToolJet](https://dev.to/tooljet/build-an-aws-s3-browser-with-tooljet-56d4)
-- [Dev.to/JS] [21 Best Practices for a Clean React Project](https://dev.to/mohammadfaisal/21-best-practices-for-a-clean-react-project-jdf)
-- [Dev.to/JS] [Filtering the available browsers in Cypress](https://dev.to/walmyrlimaesilv/filtering-the-available-browsers-in-cypress-1835)
-- [Dev.to/JS] [The 8000+ Programming Languages Not to Learn: Making Your Own Choices](https://dev.to/isolderea/the-8000-programming-languages-not-to-learn-making-your-own-choices-52d7)
 - [Lifehacker] [These Lights Are Now Banned for Sale in the US](https://lifehacker.com/these-lights-are-now-banned-for-sale-in-the-us-1850700832)
 - [Lifehacker] [This Remote A/C Controller Is $67 Right Now](https://lifehacker.com/this-remote-a-c-controller-is-67-right-now-1850686436)
 - [Lifehacker] [Where to Watch &#39;Reservation Dogs&#39; Season 3 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-reservation-dogs-season-3-and-what-you-1850686196)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [20 Awesome Indie Games You Should Play on Nintendo Switch](https://lifehacker.com/best-indie-games-nintendo-switch-1850699453)
 - [Lifehacker] [Don’t Panic, But Leprosy Might Be Endemic in Florida Now](https://lifehacker.com/don-t-panic-but-leprosy-might-be-endemic-in-florida-no-1850697569)
 - [Lifehacker] [Don’t Pay These Easily Avoidable Travel Fees From Major Airlines](https://lifehacker.com/don-t-pay-these-easily-avoidable-travel-fees-from-major-1850697515)
-- [Lifehacker] [Sorry, but You’ll Never Win the Mega Millions Jackpot](https://lifehacker.com/winning-the-powerball-lottery-won-t-solve-your-problems-1752378740)
-- [Lifehacker] [Why You Should Never Use Your Retirement Savings to Pay Off Debt](https://lifehacker.com/why-you-should-never-use-your-retirement-savings-to-pay-1850696666)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Sorry, but You’ll Never Win the Mega Millions Jackpot](https://lifehacker.com/winning-the-powerball-lottery-won-t-solve-your-problems-1752378740)<!-- TECH-POSTS:END -->
 
 ---
 
