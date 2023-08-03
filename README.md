@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Spicy Cold Tofu Is Your Go-to Quick Summer Dish](https://lifehacker.com/spicy-cold-tofu-is-your-go-to-quick-summer-dish-1850703990)
+- [Dev.to/JS] [I debugged and fixed Stripe Quickstart issues, so you don&#39;t have to](https://dev.to/orliesaurus/i-debugged-and-fixed-stripe-quickstart-issues-so-you-dont-have-to-4n1j)
+- [Lifehacker] [The Viral Cottage Cheese Cookie Dough Is for Jocks](https://lifehacker.com/the-viral-cottage-cheese-cookie-dough-is-for-jocks-1850702066)
+- [Lifehacker] [The Best AirPods Pro Settings Everyone Should Be Using](https://lifehacker.com/best-apple-airpods-pro-settings-1847590845)
+- [Dev.to/JS] [How to upload files using JavaScript](https://dev.to/uploadcare_org/how-to-upload-files-using-javascript-2759)
+- [Lifehacker] [10 Things in Your House You Should Maybe Just Paint](https://lifehacker.com/10-things-in-your-house-you-should-maybe-just-paint-1850704147)
 - [Dev.to/JS] [End-to-end Logging &amp; Monitoring Services](https://dev.to/vastitesinc/end-to-end-logging-monitoring-services-ckk)
 - [Dev.to/JS] [Prototypes - Desvendando Herança em JavaScript](https://dev.to/jvcdomingues/prototypes-desvendando-heranca-em-javascript-518g)
 - [Lifehacker] [What People are Getting Wrong This Week: Trump and the First Amendment](https://lifehacker.com/what-people-are-getting-wrong-this-week-trump-and-the-1850702466)
@@ -46,10 +52,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Loop Best Practices for Optimal Performance](https://dev.to/robiulhr/javascript-loop-best-practices-for-optimal-performance-2pem)
 - [Dev.to/JS] [JavaScript Event Loop: Breaking Down the Mystery](https://dev.to/ocodista/javascript-event-loop-breaking-down-the-mystery-2c9f)
 - [Lifehacker] [Use ‘Mood-Ring Paint’ for a Color-Changing Effect on These Surfaces](https://lifehacker.com/use-mood-ring-paint-for-a-color-changing-effect-on-th-1850701087)
-- [Dev.to/JS] [TYPESCRIPT](https://dev.to/ikechukwu1234/typescript-ije)
 - [Lifehacker] [All the Ways to Make a Beach Trip Easier With a Baby](https://lifehacker.com/put-these-things-in-a-cooler-for-your-babys-first-beach-1849089429)
 - [Lifehacker] [These Are the Best Devices to Keep Track of Your Kids](https://lifehacker.com/these-are-the-best-devices-to-keep-track-of-your-kids-1850702766)
-- [Dev.to/JS] [Scaling Node.js to Infinity and Beyond: Cluster and Load Balancing for Galactic Performance.](https://dev.to/raxraj/scaling-nodejs-to-infinity-and-beyond-cluster-and-load-balancing-for-galactic-performance-g60)
 - [Lifehacker] [What the IRS&#39;s New ‘Paperless Processing Initiative’ Means for You](https://lifehacker.com/what-the-irss-new-paperless-processing-initiative-mea-1850703316)
 - [Lifehacker] [The Best Way to Weigh Down Your Pie Crusts](https://lifehacker.com/weigh-down-your-pie-crusts-with-sugar-1830228677)
 - [Lifehacker] [Why You Should Order Your Spring Bulbs Right Now](https://lifehacker.com/why-you-should-order-your-spring-bulbs-right-now-1850701400)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Gas Station Ice to Keep Your Phone From Overheating on a Road Trip](https://lifehacker.com/use-gas-station-ice-to-keep-your-phone-from-overheating-1850700029)
 - [Lifehacker] [These Lights Are Now Banned for Sale in the US](https://lifehacker.com/these-lights-are-now-banned-for-sale-in-the-us-1850700832)
 - [Lifehacker] [This Remote A/C Controller Is $67 Right Now](https://lifehacker.com/this-remote-a-c-controller-is-67-right-now-1850686436)
-- [Lifehacker] [Where to Watch &#39;Reservation Dogs&#39; Season 3 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-reservation-dogs-season-3-and-what-you-1850686196)
-- [Lifehacker] [This HD Beginner-Friendly Drone Is $90 Right Now](https://lifehacker.com/this-hd-beginner-friendly-drone-is-90-right-now-1850686579)
-- [Lifehacker] [The Difference Between ‘Sleep It Off’ Drunk and ‘Call 911’ Drunk](https://lifehacker.com/is-your-friend-sleep-it-off-drunk-or-call-911-drunk-1725380214)
-- [Lifehacker] [Sync for Reddit Is Back, but Now It’s for Lemmy](https://lifehacker.com/sync-for-reddit-is-back-but-now-it-s-for-lemmy-1850700292)
-- [Lifehacker] [You Can Fix a Chipped Granite Countertop in Five Minutes](https://lifehacker.com/you-can-fix-a-chipped-granite-countertop-in-five-minute-1850700006)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Where to Watch &#39;Reservation Dogs&#39; Season 3 &lpar;and What You Should Know About It&rpar;](https://lifehacker.com/where-to-watch-reservation-dogs-season-3-and-what-you-1850686196)<!-- TECH-POSTS:END -->
 
 ---
 
