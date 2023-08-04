@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Answer: How I can change a mobx state upon a receival of a background message from firebase?](https://dev.to/pcmagas/answer-how-i-can-change-a-mobx-state-upon-a-receival-of-a-backghround-message-from-firebase-39d2)
+- [Dev.to/JS] [5 Javascript web APIs](https://dev.to/ikamran01/5-javascript-web-apis-3d8a)
 - [Dev.to/JS] [HOW TO VALIDATE A SIMPLE FORM USING REGULAR EXPRESSIONS&lpar;REGEX&rpar; IN JAVASCRIPT](https://dev.to/itzz_okure/how-to-validate-a-simple-form-using-regular-expressionsregex-in-javascript-1fp8)
 - [Dev.to/JS] [&lt;hello world&gt;](https://dev.to/shivayd1510/-2i25)
 - [Dev.to/JS] [Get Started: Must Know Website Builders for 2023](https://dev.to/stonediggity/get-started-must-know-website-builders-for-2023-boldercloudcomau-4ll1)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Basic](https://dev.to/lourdesyang/javascript-basic-4jgc)
 - [Dev.to/JS] [5 Not-So-Typical React Libraries for an Outstanding Project](https://dev.to/gaelgthomas/5-not-so-typical-react-libraries-for-an-outstanding-project-49da)
 - [Dev.to/JS] [ReactJS Coding and TechTalking, come join :D](https://dev.to/arthursmuller/reactjs-coding-and-techtalking-come-join-d-392b)
-- [Dev.to/JS] [Como usar uma IIFE &lpar;função autoinvocada&rpar; para criar um código modular e sem conflitos de escopo](https://dev.to/demenezes/como-usar-uma-iife-funcao-autoinvocada-para-criar-um-codigo-modular-e-sem-conflitos-de-escopo-3801)
-- [Dev.to/JS] [Meet Mr. Query Selector - Your New BFF for DOM Manipulation](https://dev.to/mohitsinghchauhan/meet-mr-query-selector-your-new-bff-for-dom-manipulation-295d)
 - [Lifehacker] [These Translation Earbuds Are $100 Right Now](https://lifehacker.com/these-translation-earbuds-are-100-right-now-1850697771)
 - [Lifehacker] [Make Easy Garden Pest Traps With These Common Kitchen Staples](https://lifehacker.com/make-easy-garden-pest-traps-with-these-common-kitchen-s-1850704994)
 - [Lifehacker] [You Can Get 20TB of Prism Drive Cloud Storage for $100](https://lifehacker.com/you-can-get-20tb-of-prism-drive-cloud-storage-for-100-1850686623)
