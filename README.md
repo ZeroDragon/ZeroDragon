@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Como usar uma IIFE &lpar;função autoinvocada&rpar; para criar um código modular e sem conflitos de escopo](https://dev.to/demenezes/como-usar-uma-iife-funcao-autoinvocada-para-criar-um-codigo-modular-e-sem-conflitos-de-escopo-3801)
 - [Dev.to/JS] [Meet Mr. Query Selector - Your New BFF for DOM Manipulation](https://dev.to/mohitsinghchauhan/meet-mr-query-selector-your-new-bff-for-dom-manipulation-295d)
 - [Lifehacker] [These Translation Earbuds Are $100 Right Now](https://lifehacker.com/these-translation-earbuds-are-100-right-now-1850697771)
 - [Lifehacker] [Make Easy Garden Pest Traps With These Common Kitchen Staples](https://lifehacker.com/make-easy-garden-pest-traps-with-these-common-kitchen-s-1850704994)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Spray Your Shoes With Permethrin This Summer](https://lifehacker.com/spray-your-shoes-with-permethrin-this-summer-1848986173)
 - [Dev.to/JS] [Understanding Inheritance and Prototypal Chains in JavaScript](https://dev.to/jacknorman235/understanding-inheritance-and-prototypal-chains-in-javascript-35k5)
 - [Lifehacker] [How I Became a Watchmaker](https://lifehacker.com/how-i-became-a-watchmaker-1850683340)
-- [Dev.to/JS] [Reduce, o que é e como essa função pode agregar a você no seu código javascript.](https://dev.to/gabrielgcj/reduce-o-que-e-e-como-essa-funcao-pode-agregar-a-voce-no-seu-codigo-javascript-2nkd)
 - [Lifehacker] [Cheaper Capers Are Already In Your Garden](https://lifehacker.com/cheaper-capers-are-already-in-your-garden-1850702734)
 - [Lifehacker] [How to Keep Your Tomatoes Fresh Without Putting Them in The Fridge](https://lifehacker.com/the-secret-to-keeping-your-tomatoes-super-fresh-1796557866)
 - [Lifehacker] [Use These New Google Privacy Tools to Protect Your Data](https://lifehacker.com/use-these-new-google-privacy-tools-to-protect-your-data-1850703726)
