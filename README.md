@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Laravel Trend in E-Commerce Development](https://dev.to/s-nidhin/laravel-trend-in-e-commerce-development-pjo)
+- [Dev.to/JS] [UI over APIs](https://dev.to/hamatoyogi/ui-over-apis-4bf3)
 - [Dev.to/JS] [ModelOps pipelines for NO-CODE production](https://dev.to/aiforme/modelops-pipelines-for-no-code-production-11a5)
 - [Dev.to/JS] [Web3 terminology](https://dev.to/ccsunnydev/web3-terminology-4f0n)
 - [Dev.to/JS] [Javascript Basic](https://dev.to/lourdesyang/javascript-basic-4jgc)
@@ -42,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I debugged and fixed Stripe Quickstart issues, so you don&#39;t have to](https://dev.to/orliesaurus/i-debugged-and-fixed-stripe-quickstart-issues-so-you-dont-have-to-4n1j)
 - [Lifehacker] [The Viral Cottage Cheese Cookie Dough Is for Jocks](https://lifehacker.com/the-viral-cottage-cheese-cookie-dough-is-for-jocks-1850702066)
 - [Lifehacker] [The Best AirPods Pro Settings Everyone Should Be Using](https://lifehacker.com/best-apple-airpods-pro-settings-1847590845)
-- [Dev.to/JS] [How to upload files using JavaScript](https://dev.to/uploadcare_org/how-to-upload-files-using-javascript-2759)
 - [Lifehacker] [10 Things in Your House You Should Maybe Just Paint](https://lifehacker.com/10-things-in-your-house-you-should-maybe-just-paint-1850704147)
-- [Dev.to/JS] [End-to-end Logging &amp; Monitoring Services](https://dev.to/vastitesinc/end-to-end-logging-monitoring-services-ckk)
 - [Lifehacker] [What People are Getting Wrong This Week: Trump and the First Amendment](https://lifehacker.com/what-people-are-getting-wrong-this-week-trump-and-the-1850702466)
 - [Lifehacker] [How to Sneak Food Into the Movies Like a Criminal Mastermind](https://lifehacker.com/how-to-sneak-food-into-the-movies-like-a-criminal-maste-1847802143)
 - [Lifehacker] [This Wifi Security Camera Is $61 Right Now](https://lifehacker.com/this-wifi-security-camera-is-61-right-now-1850686665)
