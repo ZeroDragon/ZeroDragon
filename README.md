@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What Is An API &lpar;Application Programming Interface&rpar;?](https://dev.to/imevanc/what-is-an-api-application-programming-interface-1j4k)
+- [Lifehacker] [How to Air Fry Without Directions](https://lifehacker.com/how-to-air-fry-without-directions-1850707924)
+- [Dev.to/JS] [Fetch for every one](https://dev.to/daniel_kitam_31/fetch-for-every-one-g01)
 - [Lifehacker] [Shortwave Is the Spiritual Successor to Google’s Inbox](https://lifehacker.com/shortwave-is-the-spiritual-successor-to-google-s-inbox-1850707721)
 - [Lifehacker] [You Can Get Wordela&#39;s English Vocabulary Builder for $40 Right Now](https://lifehacker.com/you-can-get-wordelas-english-vocabulary-builder-for-40-1850697814)
 - [Lifehacker] [Find Cheap or Free College Textbooks With These Online Resources](https://lifehacker.com/these-online-resources-will-help-you-find-free-college-1849372320)
@@ -48,14 +51,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Text Expanders to Email More Efficiently](https://lifehacker.com/use-text-expanders-to-email-more-efficiently-1850707411)
 - [Dev.to/JS] [Introducing LiveCodes 🎉](https://dev.to/livecodes_io/introducing-livecodes-3300)
 - [Dev.to/JS] [Mastering JavaScript Array Methods](https://dev.to/mohitsinghchauhan/mastering-javascript-array-methods-96p)
+- [Dev.to/JS] [Write React code with CDN in HTML! 🌐](https://dev.to/jeetvora331/write-react-code-with-cdn-in-html-56i9)
 - [Lifehacker] [How to Play Guitar Without Learning How to Play Guitar](https://lifehacker.com/how-to-play-guitar-without-learning-how-to-play-guitar-1848128835)
 - [Dev.to/JS] [7 JavaScript Concepts You Should Know Before Learning React](https://dev.to/daviidy/7-javascript-concepts-you-should-know-before-learning-react-5gli)
 - [Lifehacker] [You Already Have What You Need to Slice Meat Extra Thin](https://lifehacker.com/you-already-have-what-you-need-to-slice-meat-extra-thin-1850705332)
 - [Lifehacker] [The Best Online Platforms for Learning New Job Skills](https://lifehacker.com/the-best-online-platforms-for-learning-new-job-skills-1850707301)
-- [Dev.to/JS] [Using Scraping Browser and GPT for Actionable Product Insights](https://dev.to/terieyenike/using-scraping-browser-and-gpt-for-actionable-product-insights-5bl9)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Did Lizzo Do, Anyway?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-did-1850706205)
-- [Dev.to/JS] [Authorization vs authentication](https://dev.to/rihanthedev/authorization-vs-authentication-3g16)
-- [Dev.to/JS] [What Is Redux.?](https://dev.to/rihanthedev/what-is-redux-45h7)
 - [Lifehacker] [TikTok Myth of the Week: There&#39;s Plastic on Your Lettuce](https://lifehacker.com/tiktok-myth-of-the-week-theres-plastic-on-your-lettuce-1850706061)
 - [Lifehacker] [The Best Paramount+ Shows You Should Be Watching](https://lifehacker.com/15-paramount-originals-you-arent-watching-but-should-b-1847635890)
 - [Lifehacker] [You Can Make Boring Glass Look Like Sea Glass](https://lifehacker.com/you-can-make-boring-glass-look-like-sea-glass-1850706130)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Podcasts That Will Improve Your Work Life](https://lifehacker.com/12-podcasts-that-will-improve-your-work-life-1850690862)
 - [Lifehacker] [Use a &#39;Thermometer Chart&#39; to Track Your Work Goals](https://lifehacker.com/use-a-thermometer-chart-to-track-your-work-goals-1850704496)
 - [Lifehacker] [These Translation Earbuds Are $100 Right Now](https://lifehacker.com/these-translation-earbuds-are-100-right-now-1850697771)
-- [Lifehacker] [Make Easy Garden Pest Traps With These Common Kitchen Staples](https://lifehacker.com/make-easy-garden-pest-traps-with-these-common-kitchen-s-1850704994)
-- [Lifehacker] [You Can Get 20TB of Prism Drive Cloud Storage for $100](https://lifehacker.com/you-can-get-20tb-of-prism-drive-cloud-storage-for-100-1850686623)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Easy Garden Pest Traps With These Common Kitchen Staples](https://lifehacker.com/make-easy-garden-pest-traps-with-these-common-kitchen-s-1850704994)<!-- TECH-POSTS:END -->
 
 ---
 
