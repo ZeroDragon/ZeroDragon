@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Shortwave Is the Spiritual Successor to Google’s Inbox](https://lifehacker.com/shortwave-is-the-spiritual-successor-to-google-s-inbox-1850707721)
+- [Lifehacker] [You Can Get Wordela&#39;s English Vocabulary Builder for $40 Right Now](https://lifehacker.com/you-can-get-wordelas-english-vocabulary-builder-for-40-1850697814)
+- [Lifehacker] [Find Cheap or Free College Textbooks With These Online Resources](https://lifehacker.com/these-online-resources-will-help-you-find-free-college-1849372320)
 - [Lifehacker] [Why You Don&#39;t Need to Refrigerate Peanut Butter](https://lifehacker.com/why-you-dont-need-to-refrigerate-peanut-butter-1850708209)
-- [Dev.to/JS] [My Problem with Tech Twitter and the Rise of NPC Tweets](https://dev.to/sadeedpv/my-problem-with-tech-twitter-and-the-rise-of-npc-tweets-2ed5)
+- [Dev.to/JS] [My Problem with Tech Twitter and the Rise of NPC Tweets &lpar;A Thread 🧵&rpar;](https://dev.to/sadeedpv/my-problem-with-tech-twitter-and-the-rise-of-npc-tweets-2ed5)
 - [Lifehacker] [You Can Get All-You-Can-Eat Pancakes for $5 at IHOP This Month](https://lifehacker.com/you-can-get-all-you-can-eat-pancakes-for-5-at-ihop-thi-1850708442)
 - [Lifehacker] [TikTok’s ‘Overloading’ Trend Is a Crappy Way to Clean Your Toilet](https://lifehacker.com/tiktok-s-overloading-trend-is-a-crappy-way-to-clean-y-1849545412)
 - [Dev.to/JS] [A Developer&#39;s Quest: The Journey of Creating React ChatBotify](https://dev.to/tjtanjin/a-developers-quest-the-journey-of-creating-react-chatbotify-1lj7)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use a &#39;Thermometer Chart&#39; to Track Your Work Goals](https://lifehacker.com/use-a-thermometer-chart-to-track-your-work-goals-1850704496)
 - [Lifehacker] [These Translation Earbuds Are $100 Right Now](https://lifehacker.com/these-translation-earbuds-are-100-right-now-1850697771)
 - [Lifehacker] [Make Easy Garden Pest Traps With These Common Kitchen Staples](https://lifehacker.com/make-easy-garden-pest-traps-with-these-common-kitchen-s-1850704994)
-- [Lifehacker] [You Can Get 20TB of Prism Drive Cloud Storage for $100](https://lifehacker.com/you-can-get-20tb-of-prism-drive-cloud-storage-for-100-1850686623)
-- [Lifehacker] [Spicy Cold Tofu Is Your Go-to Quick Summer Dish](https://lifehacker.com/spicy-cold-tofu-is-your-go-to-quick-summer-dish-1850703990)
-- [Lifehacker] [The Viral Cottage Cheese Cookie Dough Is for Jocks](https://lifehacker.com/the-viral-cottage-cheese-cookie-dough-is-for-jocks-1850702066)
-- [Lifehacker] [The Best AirPods Pro Settings Everyone Should Be Using](https://lifehacker.com/best-apple-airpods-pro-settings-1847590845)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get 20TB of Prism Drive Cloud Storage for $100](https://lifehacker.com/you-can-get-20tb-of-prism-drive-cloud-storage-for-100-1850686623)<!-- TECH-POSTS:END -->
 
 ---
 
