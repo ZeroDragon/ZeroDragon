@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Make Boring Glass Look Like Sea Glass](https://lifehacker.com/you-can-make-boring-glass-look-like-sea-glass-1850706130)
+- [Dev.to/JS] [Learn Vue: Style and Class Bindings](https://dev.to/kingowisdom/learn-vue-style-and-class-bindings-3mom)
+- [Dev.to/JS] [Exploring the Fundamentals of Browser Components and the DOM](https://dev.to/web_dev2204/exploring-the-fundamentals-of-browser-components-and-the-dom-jhg)
+- [Dev.to/JS] [Route-based code splitting with React](https://dev.to/cathalmacdonnacha/route-based-code-splitting-with-react-4hm)
+- [Dev.to/JS] [What do Single-Threaded, Synchronous, Non-blocking, and Asynchronous mean in JavaScript?](https://dev.to/crackjks/what-do-single-threaded-synchronous-non-blocking-and-asynchronous-mean-in-javascript-52f8)
+- [Dev.to/JS] [Day 19: Retry](https://dev.to/dhrn/day-19-promise-retry-gk1)
+- [Dev.to/JS] [End-to-end No-Code SaaS solutions](https://dev.to/aiforme/end-to-end-no-code-saas-solutions-39in)
+- [Lifehacker] [This 2018 Mac mini Is 37% Off Right Now](https://lifehacker.com/this-2018-mac-mini-is-37-off-right-now-1850697878)
+- [Dev.to/JS] [Node.js Tutorial: How to Send Emails with Nodemailer](https://dev.to/shawn2208/nodejs-tutorial-how-to-send-emails-with-nodemailer-56ih)
 - [Lifehacker] [Put Some Olives in Your Crappy Beer](https://lifehacker.com/put-some-olives-in-your-crappy-beer-1850705556)
 - [Lifehacker] [12 Podcasts That Will Improve Your Work Life](https://lifehacker.com/12-podcasts-that-will-improve-your-work-life-1850690862)
 - [Dev.to/JS] [Getting Started with React.js and Next.js – A Beginner&#39;s Guide to Creating Pages, Routing, and Dynamic Content](https://dev.to/sarahadewale/getting-started-with-reactjs-and-nextjs-a-beginners-guide-to-creating-pages-routing-and-dynamic-content-165f)
@@ -34,13 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use a &#39;Thermometer Chart&#39; to Track Your Work Goals](https://lifehacker.com/use-a-thermometer-chart-to-track-your-work-goals-1850704496)
 - [Dev.to/JS] [Lazy Loading Videos on Scroll with Vanilla JS and Intersection Observers](https://dev.to/robmarshall/lazy-loading-videos-on-scroll-with-vanilla-js-and-intersection-observers-gk)
 - [Dev.to/JS] [How to dynamically render components in React](https://dev.to/irakli12345/how-to-dynamically-render-components-in-react-f8b)
-- [Dev.to/JS] [Styling the HTML5 `&lt;audio&gt;` Tag with CSS and WebKit Properties](https://dev.to/sh20raj/styling-the-html5-tag-with-css-and-webkit-properties-nf3)
-- [Dev.to/JS] [Toggle Password Visibility Using React useRef](https://dev.to/eyitayoitalt/toggle-password-visibility-using-react-useref-3ck0)
-- [Dev.to/JS] [The Right Way to Split String Into Words in JavaScript](https://dev.to/kamonwan/the-right-way-to-break-string-into-words-in-javascript-3jp6)
-- [Dev.to/JS] [Mastering Type Safety! An Introduction to TypeScript&#39;s Type Guards](https://dev.to/yanagisawahidetoshi/mastering-type-safety-an-introduction-to-typescripts-type-guards-57e4)
-- [Dev.to/JS] [Boost Your React App Performance with React.lazy and Suspense!](https://dev.to/yanagisawahidetoshi/boost-your-react-app-performance-with-reactlazy-and-suspense-2f48)
-- [Dev.to/JS] [tsParticles 2.12.0 Released](https://dev.to/tsparticles/tsparticles-2120-released-hpf)
-- [Dev.to/JS] [Answer: How I can change a mobx state upon a receival of a background message from firebase?](https://dev.to/pcmagas/answer-how-i-can-change-a-mobx-state-upon-a-receival-of-a-backghround-message-from-firebase-39d2)
 - [Lifehacker] [These Translation Earbuds Are $100 Right Now](https://lifehacker.com/these-translation-earbuds-are-100-right-now-1850697771)
 - [Lifehacker] [Make Easy Garden Pest Traps With These Common Kitchen Staples](https://lifehacker.com/make-easy-garden-pest-traps-with-these-common-kitchen-s-1850704994)
 - [Lifehacker] [You Can Get 20TB of Prism Drive Cloud Storage for $100](https://lifehacker.com/you-can-get-20tb-of-prism-drive-cloud-storage-for-100-1850686623)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What the IRS&#39;s New ‘Paperless Processing Initiative’ Means for You](https://lifehacker.com/what-the-irss-new-paperless-processing-initiative-mea-1850703316)
 - [Lifehacker] [The Best Way to Weigh Down Your Pie Crusts](https://lifehacker.com/weigh-down-your-pie-crusts-with-sugar-1830228677)
 - [Lifehacker] [Why You Should Order Your Spring Bulbs Right Now](https://lifehacker.com/why-you-should-order-your-spring-bulbs-right-now-1850701400)
-- [Lifehacker] [Four Ways to Figure Out What Day a Date Falls On](https://lifehacker.com/the-best-ways-to-figure-out-what-day-a-date-falls-on-1850702111)
-- [Lifehacker] [The Best Small Fans to Keep You Cool at Your Desk](https://lifehacker.com/the-best-small-fans-to-keep-you-cool-at-your-desk-1850700777)
-- [Lifehacker] [Don’t Miss These August Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-august-class-action-settlement-deadlin-1850697654)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Four Ways to Figure Out What Day a Date Falls On](https://lifehacker.com/the-best-ways-to-figure-out-what-day-a-date-falls-on-1850702111)<!-- TECH-POSTS:END -->
 
 ---
 
