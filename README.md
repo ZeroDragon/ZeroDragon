@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Toggle Password Visibility Using React useRef](https://dev.to/eyitayoitalt/toggle-password-visibility-using-react-useref-3ck0)
+- [Dev.to/JS] [The Right Way to Split String Into Words in JavaScript](https://dev.to/kamonwan/the-right-way-to-break-string-into-words-in-javascript-3jp6)
 - [Dev.to/JS] [Mastering Type Safety! An Introduction to TypeScript&#39;s Type Guards](https://dev.to/yanagisawahidetoshi/mastering-type-safety-an-introduction-to-typescripts-type-guards-57e4)
 - [Dev.to/JS] [Boost Your React App Performance with React.lazy and Suspense!](https://dev.to/yanagisawahidetoshi/boost-your-react-app-performance-with-reactlazy-and-suspense-2f48)
 - [Dev.to/JS] [tsParticles 2.12.0 Released](https://dev.to/tsparticles/tsparticles-2120-released-hpf)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Get Started: Must Know Website Builders for 2023](https://dev.to/stonediggity/get-started-must-know-website-builders-for-2023-boldercloudcomau-4ll1)
 - [Dev.to/JS] [Laravel Trend in E-Commerce Development](https://dev.to/s-nidhin/laravel-trend-in-e-commerce-development-pjo)
 - [Dev.to/JS] [UI over APIs](https://dev.to/hamatoyogi/ui-over-apis-4bf3)
-- [Dev.to/JS] [ModelOps pipelines for NO-CODE production](https://dev.to/aiforme/modelops-pipelines-for-no-code-production-11a5)
-- [Dev.to/JS] [Web3 terminology](https://dev.to/ccsunnydev/web3-terminology-4f0n)
 - [Lifehacker] [These Translation Earbuds Are $100 Right Now](https://lifehacker.com/these-translation-earbuds-are-100-right-now-1850697771)
 - [Lifehacker] [Make Easy Garden Pest Traps With These Common Kitchen Staples](https://lifehacker.com/make-easy-garden-pest-traps-with-these-common-kitchen-s-1850704994)
 - [Lifehacker] [You Can Get 20TB of Prism Drive Cloud Storage for $100](https://lifehacker.com/you-can-get-20tb-of-prism-drive-cloud-storage-for-100-1850686623)
