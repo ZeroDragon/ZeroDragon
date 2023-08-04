@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Basic](https://dev.to/lourdesyang/javascript-basic-4jgc)
+- [Dev.to/JS] [5 Not-So-Typical React Libraries for an Outstanding Project](https://dev.to/gaelgthomas/5-not-so-typical-react-libraries-for-an-outstanding-project-49da)
 - [Dev.to/JS] [ReactJS Coding and TechTalking, come join :D](https://dev.to/arthursmuller/reactjs-coding-and-techtalking-come-join-d-392b)
 - [Dev.to/JS] [Como usar uma IIFE &lpar;função autoinvocada&rpar; para criar um código modular e sem conflitos de escopo](https://dev.to/demenezes/como-usar-uma-iife-funcao-autoinvocada-para-criar-um-codigo-modular-e-sem-conflitos-de-escopo-3801)
 - [Dev.to/JS] [Meet Mr. Query Selector - Your New BFF for DOM Manipulation](https://dev.to/mohitsinghchauhan/meet-mr-query-selector-your-new-bff-for-dom-manipulation-295d)
@@ -45,10 +47,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What People are Getting Wrong This Week: Trump and the First Amendment](https://lifehacker.com/what-people-are-getting-wrong-this-week-trump-and-the-1850702466)
 - [Dev.to/JS] [How Overall Equipment Effectiveness &lpar;OEE&rpar; Improves Manufacturing Efficiency](https://dev.to/mushroomsolutions/how-overall-equipment-effectiveness-oee-improves-manufacturing-efficiency-2o3n)
 - [Lifehacker] [How to Sneak Food Into the Movies Like a Criminal Mastermind](https://lifehacker.com/how-to-sneak-food-into-the-movies-like-a-criminal-maste-1847802143)
-- [Dev.to/JS] [Why we should not mutate in react](https://dev.to/endeavourmonk/why-we-should-not-mutate-in-react-18ej)
 - [Lifehacker] [This Wifi Security Camera Is $61 Right Now](https://lifehacker.com/this-wifi-security-camera-is-61-right-now-1850686665)
 - [Lifehacker] [&#39;Dopamine Decor&#39; Can Make Your Home Happier](https://lifehacker.com/dopamine-decor-can-make-your-home-happier-1850700806)
-- [Dev.to/JS] [Moonly weekly progress update #59 - use cases for the Automatio Bot](https://dev.to/moonly/moonly-weekly-progress-update-59-use-cases-for-the-automatio-bot-4e2)
 - [Lifehacker] [Why You Should Spray Your Shoes With Permethrin This Summer](https://lifehacker.com/spray-your-shoes-with-permethrin-this-summer-1848986173)
 - [Lifehacker] [How I Became a Watchmaker](https://lifehacker.com/how-i-became-a-watchmaker-1850683340)
 - [Lifehacker] [Cheaper Capers Are Already In Your Garden](https://lifehacker.com/cheaper-capers-are-already-in-your-garden-1850702734)
