@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ModelOps pipelines for NO-CODE production](https://dev.to/aiforme/modelops-pipelines-for-no-code-production-11a5)
+- [Dev.to/JS] [Web3 terminology](https://dev.to/ccsunnydev/web3-terminology-4f0n)
 - [Dev.to/JS] [Javascript Basic](https://dev.to/lourdesyang/javascript-basic-4jgc)
 - [Dev.to/JS] [5 Not-So-Typical React Libraries for an Outstanding Project](https://dev.to/gaelgthomas/5-not-so-typical-react-libraries-for-an-outstanding-project-49da)
 - [Dev.to/JS] [ReactJS Coding and TechTalking, come join :D](https://dev.to/arthursmuller/reactjs-coding-and-techtalking-come-join-d-392b)
@@ -43,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to upload files using JavaScript](https://dev.to/uploadcare_org/how-to-upload-files-using-javascript-2759)
 - [Lifehacker] [10 Things in Your House You Should Maybe Just Paint](https://lifehacker.com/10-things-in-your-house-you-should-maybe-just-paint-1850704147)
 - [Dev.to/JS] [End-to-end Logging &amp; Monitoring Services](https://dev.to/vastitesinc/end-to-end-logging-monitoring-services-ckk)
-- [Dev.to/JS] [Prototypes - Desvendando Herança em JavaScript](https://dev.to/jvcdomingues/prototypes-desvendando-heranca-em-javascript-518g)
 - [Lifehacker] [What People are Getting Wrong This Week: Trump and the First Amendment](https://lifehacker.com/what-people-are-getting-wrong-this-week-trump-and-the-1850702466)
-- [Dev.to/JS] [How Overall Equipment Effectiveness &lpar;OEE&rpar; Improves Manufacturing Efficiency](https://dev.to/mushroomsolutions/how-overall-equipment-effectiveness-oee-improves-manufacturing-efficiency-2o3n)
 - [Lifehacker] [How to Sneak Food Into the Movies Like a Criminal Mastermind](https://lifehacker.com/how-to-sneak-food-into-the-movies-like-a-criminal-maste-1847802143)
 - [Lifehacker] [This Wifi Security Camera Is $61 Right Now](https://lifehacker.com/this-wifi-security-camera-is-61-right-now-1850686665)
 - [Lifehacker] [&#39;Dopamine Decor&#39; Can Make Your Home Happier](https://lifehacker.com/dopamine-decor-can-make-your-home-happier-1850700806)
