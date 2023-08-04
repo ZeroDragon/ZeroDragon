@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Already Have What You Need to Slice Meat Extra Thin](https://lifehacker.com/you-already-have-what-you-need-to-slice-meat-extra-thin-1850705332)
+- [Lifehacker] [The Best Online Platforms for Learning New Job Skills](https://lifehacker.com/the-best-online-platforms-for-learning-new-job-skills-1850707301)
+- [Dev.to/JS] [Using Scraping Browser and GPT for Actionable Product Insights](https://dev.to/terieyenike/using-scraping-browser-and-gpt-for-actionable-product-insights-5bl9)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Did Lizzo Do, Anyway?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-did-1850706205)
+- [Dev.to/JS] [Authorization vs authentication](https://dev.to/rihanthedev/authorization-vs-authentication-3g16)
 - [Dev.to/JS] [What Is Redux.?](https://dev.to/rihanthedev/what-is-redux-45h7)
 - [Lifehacker] [TikTok Myth of the Week: There&#39;s Plastic on Your Lettuce](https://lifehacker.com/tiktok-myth-of-the-week-theres-plastic-on-your-lettuce-1850706061)
 - [Dev.to/JS] [Understanding TypeScript “as” Keyword](https://dev.to/brainiacneit/understanding-typescript-as-keyword-11db)
@@ -40,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Route-based code splitting with React](https://dev.to/cathalmacdonnacha/route-based-code-splitting-with-react-4hm)
 - [Dev.to/JS] [Day 19: Retry](https://dev.to/dhrn/day-19-promise-retry-gk1)
 - [Dev.to/JS] [End-to-end No-Code SaaS solutions](https://dev.to/aiforme/end-to-end-no-code-saas-solutions-39in)
-- [Dev.to/JS] [What do Single-Threaded, Synchronous, Non-blocking, and Asynchronous mean in JavaScript?](https://dev.to/crackjks/what-do-single-threaded-synchronous-non-blocking-and-asynchronous-mean-in-javascript-52f8)
 - [Lifehacker] [This 2018 Mac mini Is 37% Off Right Now](https://lifehacker.com/this-2018-mac-mini-is-37-off-right-now-1850697878)
-- [Dev.to/JS] [Node.js Tutorial: How to Send Emails with Nodemailer](https://dev.to/shawn2208/nodejs-tutorial-how-to-send-emails-with-nodemailer-56ih)
 - [Lifehacker] [Put Some Olives in Your Crappy Beer](https://lifehacker.com/put-some-olives-in-your-crappy-beer-1850705556)
 - [Lifehacker] [12 Podcasts That Will Improve Your Work Life](https://lifehacker.com/12-podcasts-that-will-improve-your-work-life-1850690862)
 - [Lifehacker] [Use a &#39;Thermometer Chart&#39; to Track Your Work Goals](https://lifehacker.com/use-a-thermometer-chart-to-track-your-work-goals-1850704496)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Keep Your Tomatoes Fresh Without Putting Them in The Fridge](https://lifehacker.com/the-secret-to-keeping-your-tomatoes-super-fresh-1796557866)
 - [Lifehacker] [Use These New Google Privacy Tools to Protect Your Data](https://lifehacker.com/use-these-new-google-privacy-tools-to-protect-your-data-1850703726)
 - [Lifehacker] [Use ‘Mood-Ring Paint’ for a Color-Changing Effect on These Surfaces](https://lifehacker.com/use-mood-ring-paint-for-a-color-changing-effect-on-th-1850701087)
-- [Lifehacker] [All the Ways to Make a Beach Trip Easier With a Baby](https://lifehacker.com/put-these-things-in-a-cooler-for-your-babys-first-beach-1849089429)
-- [Lifehacker] [These Are the Best Devices to Keep Track of Your Kids](https://lifehacker.com/these-are-the-best-devices-to-keep-track-of-your-kids-1850702766)
-- [Lifehacker] [What the IRS&#39;s New ‘Paperless Processing Initiative’ Means for You](https://lifehacker.com/what-the-irss-new-paperless-processing-initiative-mea-1850703316)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Ways to Make a Beach Trip Easier With a Baby](https://lifehacker.com/put-these-things-in-a-cooler-for-your-babys-first-beach-1849089429)<!-- TECH-POSTS:END -->
 
 ---
 
