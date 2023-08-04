@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ruby on Rails Views Resources for Frontend Developer](https://dev.to/jetthoughts/ruby-on-rails-views-resources-for-frontend-developer-3pi9)
 - [Dev.to/JS] [What Is An API &lpar;Application Programming Interface&rpar;?](https://dev.to/imevanc/what-is-an-api-application-programming-interface-1j4k)
 - [Lifehacker] [How to Air Fry Without Directions](https://lifehacker.com/how-to-air-fry-without-directions-1850707924)
 - [Dev.to/JS] [Fetch for every one](https://dev.to/daniel_kitam_31/fetch-for-every-one-g01)
@@ -53,7 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering JavaScript Array Methods](https://dev.to/mohitsinghchauhan/mastering-javascript-array-methods-96p)
 - [Dev.to/JS] [Write React code with CDN in HTML! 🌐](https://dev.to/jeetvora331/write-react-code-with-cdn-in-html-56i9)
 - [Lifehacker] [How to Play Guitar Without Learning How to Play Guitar](https://lifehacker.com/how-to-play-guitar-without-learning-how-to-play-guitar-1848128835)
-- [Dev.to/JS] [7 JavaScript Concepts You Should Know Before Learning React](https://dev.to/daviidy/7-javascript-concepts-you-should-know-before-learning-react-5gli)
 - [Lifehacker] [You Already Have What You Need to Slice Meat Extra Thin](https://lifehacker.com/you-already-have-what-you-need-to-slice-meat-extra-thin-1850705332)
 - [Lifehacker] [The Best Online Platforms for Learning New Job Skills](https://lifehacker.com/the-best-online-platforms-for-learning-new-job-skills-1850707301)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Did Lizzo Do, Anyway?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-did-1850706205)
