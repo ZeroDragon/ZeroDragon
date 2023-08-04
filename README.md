@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Put Some Olives in Your Crappy Beer](https://lifehacker.com/put-some-olives-in-your-crappy-beer-1850705556)
+- [Lifehacker] [12 Podcasts That Will Improve Your Work Life](https://lifehacker.com/12-podcasts-that-will-improve-your-work-life-1850690862)
+- [Dev.to/JS] [Getting Started with React.js and Next.js – A Beginner&#39;s Guide to Creating Pages, Routing, and Dynamic Content](https://dev.to/sarahadewale/getting-started-with-reactjs-and-nextjs-a-beginners-guide-to-creating-pages-routing-and-dynamic-content-165f)
+- [Dev.to/JS] [Mastering Inheritance and Hierarchy in JavaScript: Building Class Relationships for Digital Product E-Commerce](https://dev.to/jacknorman235/mastering-inheritance-and-hierarchy-in-javascript-building-class-relationships-for-digital-product-e-commerce-23ad)
+- [Dev.to/JS] [onClick vs onKeyDown in React](https://dev.to/irakli12345/onclick-vs-onkeydown-in-react-3n7o)
+- [Lifehacker] [Use a &#39;Thermometer Chart&#39; to Track Your Work Goals](https://lifehacker.com/use-a-thermometer-chart-to-track-your-work-goals-1850704496)
 - [Dev.to/JS] [Lazy Loading Videos on Scroll with Vanilla JS and Intersection Observers](https://dev.to/robmarshall/lazy-loading-videos-on-scroll-with-vanilla-js-and-intersection-observers-gk)
 - [Dev.to/JS] [How to dynamically render components in React](https://dev.to/irakli12345/how-to-dynamically-render-components-in-react-f8b)
 - [Dev.to/JS] [Styling the HTML5 `&lt;audio&gt;` Tag with CSS and WebKit Properties](https://dev.to/sh20raj/styling-the-html5-tag-with-css-and-webkit-properties-nf3)
@@ -35,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Boost Your React App Performance with React.lazy and Suspense!](https://dev.to/yanagisawahidetoshi/boost-your-react-app-performance-with-reactlazy-and-suspense-2f48)
 - [Dev.to/JS] [tsParticles 2.12.0 Released](https://dev.to/tsparticles/tsparticles-2120-released-hpf)
 - [Dev.to/JS] [Answer: How I can change a mobx state upon a receival of a background message from firebase?](https://dev.to/pcmagas/answer-how-i-can-change-a-mobx-state-upon-a-receival-of-a-backghround-message-from-firebase-39d2)
-- [Dev.to/JS] [5 Javascript web APIs](https://dev.to/ikamran01/5-javascript-web-apis-3d8a)
-- [Dev.to/JS] [HOW TO VALIDATE A SIMPLE FORM USING REGULAR EXPRESSIONS&lpar;REGEX&rpar; IN JAVASCRIPT](https://dev.to/itzz_okure/how-to-validate-a-simple-form-using-regular-expressionsregex-in-javascript-1fp8)
-- [Dev.to/JS] [&lt;hello world&gt;](https://dev.to/shivayd1510/-2i25)
 - [Lifehacker] [These Translation Earbuds Are $100 Right Now](https://lifehacker.com/these-translation-earbuds-are-100-right-now-1850697771)
 - [Lifehacker] [Make Easy Garden Pest Traps With These Common Kitchen Staples](https://lifehacker.com/make-easy-garden-pest-traps-with-these-common-kitchen-s-1850704994)
 - [Lifehacker] [You Can Get 20TB of Prism Drive Cloud Storage for $100](https://lifehacker.com/you-can-get-20tb-of-prism-drive-cloud-storage-for-100-1850686623)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Order Your Spring Bulbs Right Now](https://lifehacker.com/why-you-should-order-your-spring-bulbs-right-now-1850701400)
 - [Lifehacker] [Four Ways to Figure Out What Day a Date Falls On](https://lifehacker.com/the-best-ways-to-figure-out-what-day-a-date-falls-on-1850702111)
 - [Lifehacker] [The Best Small Fans to Keep You Cool at Your Desk](https://lifehacker.com/the-best-small-fans-to-keep-you-cool-at-your-desk-1850700777)
-- [Lifehacker] [Don’t Miss These August Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-august-class-action-settlement-deadlin-1850697654)
-- [Lifehacker] [You Can Make Fruit Pies Without Much Baking](https://lifehacker.com/you-can-make-fruit-pies-without-much-baking-1850701310)
-- [Lifehacker] [All the Ways You Can Use Peaches Like Tomatoes](https://lifehacker.com/all-the-ways-you-can-use-peaches-like-tomatoes-1850700834)
-- [Lifehacker] [Use Gas Station Ice to Keep Your Phone From Overheating on a Road Trip](https://lifehacker.com/use-gas-station-ice-to-keep-your-phone-from-overheating-1850700029)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Miss These August Class-Action Settlement Deadlines](https://lifehacker.com/don-t-miss-these-august-class-action-settlement-deadlin-1850697654)<!-- TECH-POSTS:END -->
 
 ---
 
