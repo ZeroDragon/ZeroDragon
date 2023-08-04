@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Gear You Need to Make Camping With Your Dog a Lot Easier](https://lifehacker.com/the-gear-you-need-to-make-camping-with-your-dog-a-lot-e-1850705453)
+- [Dev.to/JS] [Mastering TypeScript: Using the Pick Utility Type](https://dev.to/yanagisawahidetoshi/mastering-typescript-using-the-pick-utility-type-1l5)
+- [Lifehacker] [Deglosser Is a Superior Alternative to Sandpaper When You&#39;re Refinishing Furniture](https://lifehacker.com/deglosser-is-a-superior-alternative-to-sandpaper-when-y-1850705841)
+- [Lifehacker] [The Easiest Way to Prevent a Soggy Sandwich](https://lifehacker.com/make-sandwiches-on-frozen-bread-to-stave-off-sogginess-1803757453)
 - [Lifehacker] [We&#39;re Finally Getting an RSV Vaccine for Babies](https://lifehacker.com/were-finally-getting-an-rsv-vaccine-for-babies-1850707968)
 - [Dev.to/JS] [Mastering JavaScript Shorthands In 2023](https://dev.to/cristain/mastering-javascript-shorthands-in-2023-26oj)
 - [Dev.to/JS] [What do you know about variables in JS?](https://dev.to/mhdbaraaja/what-do-you-know-about-variables-in-js-20dk)
@@ -45,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Paramount+ Shows You Should Be Watching](https://lifehacker.com/15-paramount-originals-you-arent-watching-but-should-b-1847635890)
 - [Dev.to/JS] [#LearnedToday: range&lpar;&rpar; in JavaScript](https://dev.to/danielzotti/range-in-javascript-5aff)
 - [Dev.to/JS] [Best Practices for Debugging Node.js Memory Leaks](https://dev.to/saint_vandora/best-practices-for-debugging-nodejs-memory-leaks-g)
-- [Dev.to/JS] [Top 10 Reasons why should you Upgrade your TYPO3 website to latest version 12 LTS](https://dev.to/nitsan_technologies/top-10-reasons-why-should-you-upgrade-your-typo3-website-to-latest-version-12-lts-18df)
 - [Lifehacker] [You Can Make Boring Glass Look Like Sea Glass](https://lifehacker.com/you-can-make-boring-glass-look-like-sea-glass-1850706130)
 - [Lifehacker] [This 2018 Mac mini Is 37% Off Right Now](https://lifehacker.com/this-2018-mac-mini-is-37-off-right-now-1850697878)
 - [Lifehacker] [Put Some Olives in Your Crappy Beer](https://lifehacker.com/put-some-olives-in-your-crappy-beer-1850705556)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Sneak Food Into the Movies Like a Criminal Mastermind](https://lifehacker.com/how-to-sneak-food-into-the-movies-like-a-criminal-maste-1847802143)
 - [Lifehacker] [This Wifi Security Camera Is $61 Right Now](https://lifehacker.com/this-wifi-security-camera-is-61-right-now-1850686665)
 - [Lifehacker] [&#39;Dopamine Decor&#39; Can Make Your Home Happier](https://lifehacker.com/dopamine-decor-can-make-your-home-happier-1850700806)
-- [Lifehacker] [Why You Should Spray Your Shoes With Permethrin This Summer](https://lifehacker.com/spray-your-shoes-with-permethrin-this-summer-1848986173)
-- [Lifehacker] [How I Became a Watchmaker](https://lifehacker.com/how-i-became-a-watchmaker-1850683340)
-- [Lifehacker] [Cheaper Capers Are Already In Your Garden](https://lifehacker.com/cheaper-capers-are-already-in-your-garden-1850702734)
-- [Lifehacker] [How to Keep Your Tomatoes Fresh Without Putting Them in The Fridge](https://lifehacker.com/the-secret-to-keeping-your-tomatoes-super-fresh-1796557866)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Spray Your Shoes With Permethrin This Summer](https://lifehacker.com/spray-your-shoes-with-permethrin-this-summer-1848986173)<!-- TECH-POSTS:END -->
 
 ---
 
