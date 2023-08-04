@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HOW TO VALIDATE A SIMPLE FORM USING REGULAR EXPRESSIONS&lpar;REGEX&rpar; IN JAVASCRIPT](https://dev.to/itzz_okure/how-to-validate-a-simple-form-using-regular-expressionsregex-in-javascript-1fp8)
+- [Dev.to/JS] [&lt;hello world&gt;](https://dev.to/shivayd1510/-2i25)
+- [Dev.to/JS] [Get Started: Must Know Website Builders for 2023](https://dev.to/stonediggity/get-started-must-know-website-builders-for-2023-boldercloudcomau-4ll1)
 - [Dev.to/JS] [Laravel Trend in E-Commerce Development](https://dev.to/s-nidhin/laravel-trend-in-e-commerce-development-pjo)
 - [Dev.to/JS] [UI over APIs](https://dev.to/hamatoyogi/ui-over-apis-4bf3)
 - [Dev.to/JS] [ModelOps pipelines for NO-CODE production](https://dev.to/aiforme/modelops-pipelines-for-no-code-production-11a5)
@@ -37,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Meet Mr. Query Selector - Your New BFF for DOM Manipulation](https://dev.to/mohitsinghchauhan/meet-mr-query-selector-your-new-bff-for-dom-manipulation-295d)
 - [Lifehacker] [These Translation Earbuds Are $100 Right Now](https://lifehacker.com/these-translation-earbuds-are-100-right-now-1850697771)
 - [Lifehacker] [Make Easy Garden Pest Traps With These Common Kitchen Staples](https://lifehacker.com/make-easy-garden-pest-traps-with-these-common-kitchen-s-1850704994)
-- [Dev.to/JS] [🍅🔔 Domine seu Tempo com o Pomodoro Timer Estética! A técnica que vai revolucionar a sua produtividade!](https://dev.to/matheusmanuel/domine-seu-tempo-com-o-pomodoro-timer-estetica-a-tecnica-que-vai-revolucionar-a-sua-produtividade-jfg)
 - [Lifehacker] [You Can Get 20TB of Prism Drive Cloud Storage for $100](https://lifehacker.com/you-can-get-20tb-of-prism-drive-cloud-storage-for-100-1850686623)
 - [Lifehacker] [Spicy Cold Tofu Is Your Go-to Quick Summer Dish](https://lifehacker.com/spicy-cold-tofu-is-your-go-to-quick-summer-dish-1850703990)
-- [Dev.to/JS] [Class vs Function Objects- Memory comparison &lpar;Part 2&rpar;](https://dev.to/manojadams/class-vs-function-objects-another-memory-comparison-part-2-5bl8)
-- [Dev.to/JS] [I debugged and fixed Stripe Quickstart issues, so you don&#39;t have to](https://dev.to/orliesaurus/i-debugged-and-fixed-stripe-quickstart-issues-so-you-dont-have-to-4n1j)
 - [Lifehacker] [The Viral Cottage Cheese Cookie Dough Is for Jocks](https://lifehacker.com/the-viral-cottage-cheese-cookie-dough-is-for-jocks-1850702066)
 - [Lifehacker] [The Best AirPods Pro Settings Everyone Should Be Using](https://lifehacker.com/best-apple-airpods-pro-settings-1847590845)
 - [Lifehacker] [10 Things in Your House You Should Maybe Just Paint](https://lifehacker.com/10-things-in-your-house-you-should-maybe-just-paint-1850704147)
