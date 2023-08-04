@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Mindfulness.com Subscription Is 40% Off Right Now](https://lifehacker.com/this-mindfulness-com-subscription-is-40-off-right-now-1850697909)
+- [Dev.to/JS] [Container Orchestration: Docker vs. Kubernetes - A Comprehensive Comparison](https://dev.to/iamcymentho/container-orchestration-docker-vs-kubernetes-a-comprehensive-comparison-kp0)
+- [Lifehacker] [This Is the &#39;Goldilocks Window&#39; for Booking Your Winter Flights](https://lifehacker.com/this-is-the-goldilocks-window-for-booking-your-winter-f-1850707477)
+- [Lifehacker] [Here&#39;s How Much Protein You Really Need](https://lifehacker.com/heres-how-much-protein-you-really-need-1830878049)
 - [Lifehacker] [The Gear You Need to Make Camping With Your Dog a Lot Easier](https://lifehacker.com/the-gear-you-need-to-make-camping-with-your-dog-a-lot-e-1850705453)
 - [Dev.to/JS] [Mastering TypeScript: Using the Pick Utility Type](https://dev.to/yanagisawahidetoshi/mastering-typescript-using-the-pick-utility-type-1l5)
 - [Lifehacker] [Deglosser Is a Superior Alternative to Sandpaper When You&#39;re Refinishing Furniture](https://lifehacker.com/deglosser-is-a-superior-alternative-to-sandpaper-when-y-1850705841)
@@ -48,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding TypeScript “as” Keyword](https://dev.to/brainiacneit/understanding-typescript-as-keyword-11db)
 - [Lifehacker] [The Best Paramount+ Shows You Should Be Watching](https://lifehacker.com/15-paramount-originals-you-arent-watching-but-should-b-1847635890)
 - [Dev.to/JS] [#LearnedToday: range&lpar;&rpar; in JavaScript](https://dev.to/danielzotti/range-in-javascript-5aff)
-- [Dev.to/JS] [Best Practices for Debugging Node.js Memory Leaks](https://dev.to/saint_vandora/best-practices-for-debugging-nodejs-memory-leaks-g)
 - [Lifehacker] [You Can Make Boring Glass Look Like Sea Glass](https://lifehacker.com/you-can-make-boring-glass-look-like-sea-glass-1850706130)
 - [Lifehacker] [This 2018 Mac mini Is 37% Off Right Now](https://lifehacker.com/this-2018-mac-mini-is-37-off-right-now-1850697878)
 - [Lifehacker] [Put Some Olives in Your Crappy Beer](https://lifehacker.com/put-some-olives-in-your-crappy-beer-1850705556)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best AirPods Pro Settings Everyone Should Be Using](https://lifehacker.com/best-apple-airpods-pro-settings-1847590845)
 - [Lifehacker] [10 Things in Your House You Should Maybe Just Paint](https://lifehacker.com/10-things-in-your-house-you-should-maybe-just-paint-1850704147)
 - [Lifehacker] [What People are Getting Wrong This Week: Trump and the First Amendment](https://lifehacker.com/what-people-are-getting-wrong-this-week-trump-and-the-1850702466)
-- [Lifehacker] [How to Sneak Food Into the Movies Like a Criminal Mastermind](https://lifehacker.com/how-to-sneak-food-into-the-movies-like-a-criminal-maste-1847802143)
-- [Lifehacker] [This Wifi Security Camera Is $61 Right Now](https://lifehacker.com/this-wifi-security-camera-is-61-right-now-1850686665)
-- [Lifehacker] [&#39;Dopamine Decor&#39; Can Make Your Home Happier](https://lifehacker.com/dopamine-decor-can-make-your-home-happier-1850700806)
-- [Lifehacker] [Why You Should Spray Your Shoes With Permethrin This Summer](https://lifehacker.com/spray-your-shoes-with-permethrin-this-summer-1848986173)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Sneak Food Into the Movies Like a Criminal Mastermind](https://lifehacker.com/how-to-sneak-food-into-the-movies-like-a-criminal-maste-1847802143)<!-- TECH-POSTS:END -->
 
 ---
 
