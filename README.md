@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Don&#39;t Need to Refrigerate Peanut Butter](https://lifehacker.com/why-you-dont-need-to-refrigerate-peanut-butter-1850708209)
+- [Dev.to/JS] [My Problem with Tech Twitter and the Rise of NPC Tweets](https://dev.to/sadeedpv/my-problem-with-tech-twitter-and-the-rise-of-npc-tweets-2ed5)
+- [Lifehacker] [You Can Get All-You-Can-Eat Pancakes for $5 at IHOP This Month](https://lifehacker.com/you-can-get-all-you-can-eat-pancakes-for-5-at-ihop-thi-1850708442)
+- [Lifehacker] [TikTok’s ‘Overloading’ Trend Is a Crappy Way to Clean Your Toilet](https://lifehacker.com/tiktok-s-overloading-trend-is-a-crappy-way-to-clean-y-1849545412)
+- [Dev.to/JS] [A Developer&#39;s Quest: The Journey of Creating React ChatBotify](https://dev.to/tjtanjin/a-developers-quest-the-journey-of-creating-react-chatbotify-1lj7)
 - [Lifehacker] [This Mindfulness.com Subscription Is 40% Off Right Now](https://lifehacker.com/this-mindfulness-com-subscription-is-40-off-right-now-1850697909)
 - [Dev.to/JS] [Container Orchestration: Docker vs. Kubernetes - A Comprehensive Comparison](https://dev.to/iamcymentho/container-orchestration-docker-vs-kubernetes-a-comprehensive-comparison-kp0)
 - [Lifehacker] [This Is the &#39;Goldilocks Window&#39; for Booking Your Winter Flights](https://lifehacker.com/this-is-the-goldilocks-window-for-booking-your-winter-f-1850707477)
@@ -49,9 +54,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Authorization vs authentication](https://dev.to/rihanthedev/authorization-vs-authentication-3g16)
 - [Dev.to/JS] [What Is Redux.?](https://dev.to/rihanthedev/what-is-redux-45h7)
 - [Lifehacker] [TikTok Myth of the Week: There&#39;s Plastic on Your Lettuce](https://lifehacker.com/tiktok-myth-of-the-week-theres-plastic-on-your-lettuce-1850706061)
-- [Dev.to/JS] [Understanding TypeScript “as” Keyword](https://dev.to/brainiacneit/understanding-typescript-as-keyword-11db)
 - [Lifehacker] [The Best Paramount+ Shows You Should Be Watching](https://lifehacker.com/15-paramount-originals-you-arent-watching-but-should-b-1847635890)
-- [Dev.to/JS] [#LearnedToday: range&lpar;&rpar; in JavaScript](https://dev.to/danielzotti/range-in-javascript-5aff)
 - [Lifehacker] [You Can Make Boring Glass Look Like Sea Glass](https://lifehacker.com/you-can-make-boring-glass-look-like-sea-glass-1850706130)
 - [Lifehacker] [This 2018 Mac mini Is 37% Off Right Now](https://lifehacker.com/this-2018-mac-mini-is-37-off-right-now-1850697878)
 - [Lifehacker] [Put Some Olives in Your Crappy Beer](https://lifehacker.com/put-some-olives-in-your-crappy-beer-1850705556)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get 20TB of Prism Drive Cloud Storage for $100](https://lifehacker.com/you-can-get-20tb-of-prism-drive-cloud-storage-for-100-1850686623)
 - [Lifehacker] [Spicy Cold Tofu Is Your Go-to Quick Summer Dish](https://lifehacker.com/spicy-cold-tofu-is-your-go-to-quick-summer-dish-1850703990)
 - [Lifehacker] [The Viral Cottage Cheese Cookie Dough Is for Jocks](https://lifehacker.com/the-viral-cottage-cheese-cookie-dough-is-for-jocks-1850702066)
-- [Lifehacker] [The Best AirPods Pro Settings Everyone Should Be Using](https://lifehacker.com/best-apple-airpods-pro-settings-1847590845)
-- [Lifehacker] [10 Things in Your House You Should Maybe Just Paint](https://lifehacker.com/10-things-in-your-house-you-should-maybe-just-paint-1850704147)
-- [Lifehacker] [What People are Getting Wrong This Week: Trump and the First Amendment](https://lifehacker.com/what-people-are-getting-wrong-this-week-trump-and-the-1850702466)
-- [Lifehacker] [How to Sneak Food Into the Movies Like a Criminal Mastermind](https://lifehacker.com/how-to-sneak-food-into-the-movies-like-a-criminal-maste-1847802143)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best AirPods Pro Settings Everyone Should Be Using](https://lifehacker.com/best-apple-airpods-pro-settings-1847590845)<!-- TECH-POSTS:END -->
 
 ---
 
