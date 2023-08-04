@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lazy Loading Videos on Scroll with Vanilla JS and Intersection Observers](https://dev.to/robmarshall/lazy-loading-videos-on-scroll-with-vanilla-js-and-intersection-observers-gk)
+- [Dev.to/JS] [How to dynamically render components in React](https://dev.to/irakli12345/how-to-dynamically-render-components-in-react-f8b)
+- [Dev.to/JS] [Styling the HTML5 `&lt;audio&gt;` Tag with CSS and WebKit Properties](https://dev.to/sh20raj/styling-the-html5-tag-with-css-and-webkit-properties-nf3)
 - [Dev.to/JS] [Toggle Password Visibility Using React useRef](https://dev.to/eyitayoitalt/toggle-password-visibility-using-react-useref-3ck0)
 - [Dev.to/JS] [The Right Way to Split String Into Words in JavaScript](https://dev.to/kamonwan/the-right-way-to-break-string-into-words-in-javascript-3jp6)
 - [Dev.to/JS] [Mastering Type Safety! An Introduction to TypeScript&#39;s Type Guards](https://dev.to/yanagisawahidetoshi/mastering-type-safety-an-introduction-to-typescripts-type-guards-57e4)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Javascript web APIs](https://dev.to/ikamran01/5-javascript-web-apis-3d8a)
 - [Dev.to/JS] [HOW TO VALIDATE A SIMPLE FORM USING REGULAR EXPRESSIONS&lpar;REGEX&rpar; IN JAVASCRIPT](https://dev.to/itzz_okure/how-to-validate-a-simple-form-using-regular-expressionsregex-in-javascript-1fp8)
 - [Dev.to/JS] [&lt;hello world&gt;](https://dev.to/shivayd1510/-2i25)
-- [Dev.to/JS] [Get Started: Must Know Website Builders for 2023](https://dev.to/stonediggity/get-started-must-know-website-builders-for-2023-boldercloudcomau-4ll1)
-- [Dev.to/JS] [Laravel Trend in E-Commerce Development](https://dev.to/s-nidhin/laravel-trend-in-e-commerce-development-pjo)
-- [Dev.to/JS] [UI over APIs](https://dev.to/hamatoyogi/ui-over-apis-4bf3)
 - [Lifehacker] [These Translation Earbuds Are $100 Right Now](https://lifehacker.com/these-translation-earbuds-are-100-right-now-1850697771)
 - [Lifehacker] [Make Easy Garden Pest Traps With These Common Kitchen Staples](https://lifehacker.com/make-easy-garden-pest-traps-with-these-common-kitchen-s-1850704994)
 - [Lifehacker] [You Can Get 20TB of Prism Drive Cloud Storage for $100](https://lifehacker.com/you-can-get-20tb-of-prism-drive-cloud-storage-for-100-1850686623)
