@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [We&#39;re Finally Getting an RSV Vaccine for Babies](https://lifehacker.com/were-finally-getting-an-rsv-vaccine-for-babies-1850707968)
+- [Dev.to/JS] [Mastering JavaScript Shorthands In 2023](https://dev.to/cristain/mastering-javascript-shorthands-in-2023-26oj)
+- [Dev.to/JS] [What do you know about variables in JS?](https://dev.to/mhdbaraaja/what-do-you-know-about-variables-in-js-20dk)
+- [Lifehacker] [Use Text Expanders to Email More Efficiently](https://lifehacker.com/use-text-expanders-to-email-more-efficiently-1850707411)
+- [Dev.to/JS] [Introducing LiveCodes 🎉](https://dev.to/livecodes_io/introducing-livecodes-3300)
+- [Dev.to/JS] [Mastering JavaScript Array Methods](https://dev.to/mohitsinghchauhan/mastering-javascript-array-methods-96p)
+- [Lifehacker] [How to Play Guitar Without Learning How to Play Guitar](https://lifehacker.com/how-to-play-guitar-without-learning-how-to-play-guitar-1848128835)
+- [Dev.to/JS] [7 JavaScript Concepts You Should Know Before Learning React](https://dev.to/daviidy/7-javascript-concepts-you-should-know-before-learning-react-5gli)
 - [Lifehacker] [You Already Have What You Need to Slice Meat Extra Thin](https://lifehacker.com/you-already-have-what-you-need-to-slice-meat-extra-thin-1850705332)
 - [Lifehacker] [The Best Online Platforms for Learning New Job Skills](https://lifehacker.com/the-best-online-platforms-for-learning-new-job-skills-1850707301)
 - [Dev.to/JS] [Using Scraping Browser and GPT for Actionable Product Insights](https://dev.to/terieyenike/using-scraping-browser-and-gpt-for-actionable-product-insights-5bl9)
@@ -39,11 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Practices for Debugging Node.js Memory Leaks](https://dev.to/saint_vandora/best-practices-for-debugging-nodejs-memory-leaks-g)
 - [Dev.to/JS] [Top 10 Reasons why should you Upgrade your TYPO3 website to latest version 12 LTS](https://dev.to/nitsan_technologies/top-10-reasons-why-should-you-upgrade-your-typo3-website-to-latest-version-12-lts-18df)
 - [Lifehacker] [You Can Make Boring Glass Look Like Sea Glass](https://lifehacker.com/you-can-make-boring-glass-look-like-sea-glass-1850706130)
-- [Dev.to/JS] [Learn Vue: Style and Class Bindings](https://dev.to/kingowisdom/learn-vue-style-and-class-bindings-3mom)
-- [Dev.to/JS] [Exploring the Fundamentals of Browser Components and the DOM](https://dev.to/web_dev2204/exploring-the-fundamentals-of-browser-components-and-the-dom-jhg)
-- [Dev.to/JS] [Route-based code splitting with React](https://dev.to/cathalmacdonnacha/route-based-code-splitting-with-react-4hm)
-- [Dev.to/JS] [Day 19: Retry](https://dev.to/dhrn/day-19-promise-retry-gk1)
-- [Dev.to/JS] [End-to-end No-Code SaaS solutions](https://dev.to/aiforme/end-to-end-no-code-saas-solutions-39in)
 - [Lifehacker] [This 2018 Mac mini Is 37% Off Right Now](https://lifehacker.com/this-2018-mac-mini-is-37-off-right-now-1850697878)
 - [Lifehacker] [Put Some Olives in Your Crappy Beer](https://lifehacker.com/put-some-olives-in-your-crappy-beer-1850705556)
 - [Lifehacker] [12 Podcasts That Will Improve Your Work Life](https://lifehacker.com/12-podcasts-that-will-improve-your-work-life-1850690862)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Spray Your Shoes With Permethrin This Summer](https://lifehacker.com/spray-your-shoes-with-permethrin-this-summer-1848986173)
 - [Lifehacker] [How I Became a Watchmaker](https://lifehacker.com/how-i-became-a-watchmaker-1850683340)
 - [Lifehacker] [Cheaper Capers Are Already In Your Garden](https://lifehacker.com/cheaper-capers-are-already-in-your-garden-1850702734)
-- [Lifehacker] [How to Keep Your Tomatoes Fresh Without Putting Them in The Fridge](https://lifehacker.com/the-secret-to-keeping-your-tomatoes-super-fresh-1796557866)
-- [Lifehacker] [Use These New Google Privacy Tools to Protect Your Data](https://lifehacker.com/use-these-new-google-privacy-tools-to-protect-your-data-1850703726)
-- [Lifehacker] [Use ‘Mood-Ring Paint’ for a Color-Changing Effect on These Surfaces](https://lifehacker.com/use-mood-ring-paint-for-a-color-changing-effect-on-th-1850701087)
-- [Lifehacker] [All the Ways to Make a Beach Trip Easier With a Baby](https://lifehacker.com/put-these-things-in-a-cooler-for-your-babys-first-beach-1849089429)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Keep Your Tomatoes Fresh Without Putting Them in The Fridge](https://lifehacker.com/the-secret-to-keeping-your-tomatoes-super-fresh-1796557866)<!-- TECH-POSTS:END -->
 
 ---
 
