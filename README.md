@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[EVENT] Post The Most Beautiful Websites with Outstanding UI/UX!](https://dev.to/ccws/event-post-the-most-beautiful-websites-with-outstanding-uiux-fj7)
+- [Dev.to/JS] [Higher-Order Functions Explained: A Practical Approach for JavaScript Developers](https://dev.to/raymondkingjnr/higher-order-functions-explained-a-practical-approach-for-javascript-developers-3hl8)
 - [Dev.to/JS] [Ruby on Rails Views Resources for Frontend Developer](https://dev.to/jetthoughts/ruby-on-rails-views-resources-for-frontend-developer-3pi9)
 - [Dev.to/JS] [What Is An API &lpar;Application Programming Interface&rpar;?](https://dev.to/imevanc/what-is-an-api-application-programming-interface-1j4k)
 - [Lifehacker] [How to Air Fry Without Directions](https://lifehacker.com/how-to-air-fry-without-directions-1850707924)
@@ -51,8 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What do you know about variables in JS?](https://dev.to/mhdbaraaja/what-do-you-know-about-variables-in-js-20dk)
 - [Lifehacker] [Use Text Expanders to Email More Efficiently](https://lifehacker.com/use-text-expanders-to-email-more-efficiently-1850707411)
 - [Dev.to/JS] [Introducing LiveCodes 🎉](https://dev.to/livecodes_io/introducing-livecodes-3300)
-- [Dev.to/JS] [Mastering JavaScript Array Methods](https://dev.to/mohitsinghchauhan/mastering-javascript-array-methods-96p)
-- [Dev.to/JS] [Write React code with CDN in HTML! 🌐](https://dev.to/jeetvora331/write-react-code-with-cdn-in-html-56i9)
 - [Lifehacker] [How to Play Guitar Without Learning How to Play Guitar](https://lifehacker.com/how-to-play-guitar-without-learning-how-to-play-guitar-1848128835)
 - [Lifehacker] [You Already Have What You Need to Slice Meat Extra Thin](https://lifehacker.com/you-already-have-what-you-need-to-slice-meat-extra-thin-1850705332)
 - [Lifehacker] [The Best Online Platforms for Learning New Job Skills](https://lifehacker.com/the-best-online-platforms-for-learning-new-job-skills-1850707301)
