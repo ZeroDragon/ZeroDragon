@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fundamentals of Functional Programming: Learn with JavaScript](https://dev.to/ryosuke/fundamentals-of-functional-programming-learn-with-javascript-185b)
+- [Dev.to/JS] [Swap two variables without using third variable &lpar;Bitwise XOR&rpar;](https://dev.to/robin3317/swap-two-variables-without-using-third-variable-52ji)
 - [Dev.to/JS] [[EVENT] Post The Most Beautiful Websites with Outstanding UI/UX!](https://dev.to/ccws/event-post-the-most-beautiful-websites-with-outstanding-uiux-fj7)
 - [Dev.to/JS] [Higher-Order Functions Explained: A Practical Approach for JavaScript Developers](https://dev.to/raymondkingjnr/higher-order-functions-explained-a-practical-approach-for-javascript-developers-3hl8)
 - [Dev.to/JS] [Ruby on Rails Views Resources for Frontend Developer](https://dev.to/jetthoughts/ruby-on-rails-views-resources-for-frontend-developer-3pi9)
@@ -50,9 +52,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Prevent a Soggy Sandwich](https://lifehacker.com/make-sandwiches-on-frozen-bread-to-stave-off-sogginess-1803757453)
 - [Lifehacker] [We&#39;re Finally Getting an RSV Vaccine for Babies](https://lifehacker.com/were-finally-getting-an-rsv-vaccine-for-babies-1850707968)
 - [Dev.to/JS] [Mastering JavaScript Shorthands In 2023](https://dev.to/cristain/mastering-javascript-shorthands-in-2023-26oj)
-- [Dev.to/JS] [What do you know about variables in JS?](https://dev.to/mhdbaraaja/what-do-you-know-about-variables-in-js-20dk)
 - [Lifehacker] [Use Text Expanders to Email More Efficiently](https://lifehacker.com/use-text-expanders-to-email-more-efficiently-1850707411)
-- [Dev.to/JS] [Introducing LiveCodes 🎉](https://dev.to/livecodes_io/introducing-livecodes-3300)
 - [Lifehacker] [How to Play Guitar Without Learning How to Play Guitar](https://lifehacker.com/how-to-play-guitar-without-learning-how-to-play-guitar-1848128835)
 - [Lifehacker] [You Already Have What You Need to Slice Meat Extra Thin](https://lifehacker.com/you-already-have-what-you-need-to-slice-meat-extra-thin-1850705332)
 - [Lifehacker] [The Best Online Platforms for Learning New Job Skills](https://lifehacker.com/the-best-online-platforms-for-learning-new-job-skills-1850707301)
