@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Identify Bottlenecks in Your React App! An Introduction to Performance Analysis with React Profiler API](https://dev.to/yanagisawahidetoshi/identify-bottlenecks-in-your-react-app-an-introduction-to-performance-analysis-with-react-profiler-api-4fk4)
+- [Dev.to/JS] [Data Structures - Part 1: Everything You Need to Know About Arrays](https://dev.to/burakboduroglu/data-structures-part-1-everything-you-need-to-know-about-arrays-5d8h)
+- [Dev.to/JS] [How to Write and Publish Your First JavaScript Library](https://dev.to/oluwaferanmi/how-to-write-and-publish-your-first-javascript-library-cei)
 - [Dev.to/JS] [Master typescript types in 7 minutes.](https://dev.to/khaledhosseini/master-typescript-types-in-7-minutes-4pnd)
 - [Dev.to/JS] [Judge whether the usage of capitals in it is right or not](https://dev.to/chandrapenugonda/judge-whether-the-usage-of-capitals-in-it-is-right-or-not-4504)
 - [Dev.to/JS] [Length of the longest substring without repeating characters](https://dev.to/chandrapenugonda/length-of-the-longest-substring-without-repeating-characters-34g3)
@@ -36,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to become a better software Developer](https://dev.to/theonlyabdull/how-to-be-a-better-frontend-developer-l7h)
 - [Dev.to/JS] [10 Essential JavaScript Tips for Efficient &amp; Maintainable Code | Coding Tips 2023](https://dev.to/ikamran01/10-essential-javascript-tips-for-efficient-maintainable-code-coding-tips-2023-3397)
 - [Dev.to/JS] [Taking recursion to the next level](https://dev.to/tracygjg/taking-recursion-to-the-next-level-3fp5)
-- [Dev.to/JS] [Creating event on google calander with google meet link.](https://dev.to/moinakh22885547/creating-event-on-google-calander-with-google-meet-link-2na5)
 - [Lifehacker] [The Easiest Way to Guess How Much Weight a Floating Shelf Can Hold](https://lifehacker.com/the-easiest-way-to-guess-how-much-weight-a-floating-she-1850706102)
-- [Dev.to/JS] [Server side rendering with NextJs](https://dev.to/lausuarez02/server-side-rendering-with-nextjs-216c)
-- [Dev.to/JS] [Common Signs Of Malicious Websites: How To Spot And Protect Yourself](https://dev.to/ecaterinateodo3/common-signs-of-malicious-websites-how-to-spot-and-protect-yourself-18ic)
 - [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)
 - [Lifehacker] [How to Air Fry Without Directions](https://lifehacker.com/how-to-air-fry-without-directions-1850707924)
 - [Lifehacker] [Shortwave Is the Spiritual Successor to Google’s Inbox](https://lifehacker.com/shortwave-is-the-spiritual-successor-to-google-s-inbox-1850707721)
