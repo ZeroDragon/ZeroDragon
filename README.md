@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Master typescript types in 7 minutes.](https://dev.to/khaledhosseini/master-typescript-types-in-7-minutes-4pnd)
+- [Dev.to/JS] [Judge whether the usage of capitals in it is right or not](https://dev.to/chandrapenugonda/judge-whether-the-usage-of-capitals-in-it-is-right-or-not-4504)
+- [Dev.to/JS] [Length of the longest substring without repeating characters](https://dev.to/chandrapenugonda/length-of-the-longest-substring-without-repeating-characters-34g3)
 - [Lifehacker] [The Most Effective Ways to Prevent Clogs in Low-Flow Toilets &lpar;and Why They&#39;re So Common&rpar;](https://lifehacker.com/the-most-effective-ways-to-prevent-clogs-in-low-flow-to-1850706078)
 - [Dev.to/JS] [Unleashing the Power of useEffect](https://dev.to/capwellmurimi/unleashing-the-power-of-useeffect-3b2p)
 - [Dev.to/JS] [Improve performance of React Application](https://dev.to/husnain/improve-performance-of-react-application-3i71)
@@ -37,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Guess How Much Weight a Floating Shelf Can Hold](https://lifehacker.com/the-easiest-way-to-guess-how-much-weight-a-floating-she-1850706102)
 - [Dev.to/JS] [Server side rendering with NextJs](https://dev.to/lausuarez02/server-side-rendering-with-nextjs-216c)
 - [Dev.to/JS] [Common Signs Of Malicious Websites: How To Spot And Protect Yourself](https://dev.to/ecaterinateodo3/common-signs-of-malicious-websites-how-to-spot-and-protect-yourself-18ic)
-- [Dev.to/JS] [Unexpected function behavior](https://dev.to/gmyrekpatryk/unexpected-function-behavior-onb)
-- [Dev.to/JS] [Decoding AWS and Exploring Cloud Alternatives: A Comprehensive Overview](https://dev.to/idurar/decoding-aws-and-exploring-cloud-alternatives-a-comprehensive-overview-lml)
 - [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)
-- [Dev.to/JS] [Tuning Your Code: A Comprehensive Guide to JavaScript Performance Improvement&quot;](https://dev.to/abhaysinghr1/tuning-your-code-a-comprehensive-guide-to-javascript-performance-improvement-22m9)
 - [Lifehacker] [How to Air Fry Without Directions](https://lifehacker.com/how-to-air-fry-without-directions-1850707924)
 - [Lifehacker] [Shortwave Is the Spiritual Successor to Google’s Inbox](https://lifehacker.com/shortwave-is-the-spiritual-successor-to-google-s-inbox-1850707721)
 - [Lifehacker] [You Can Get Wordela&#39;s English Vocabulary Builder for $40 Right Now](https://lifehacker.com/you-can-get-wordelas-english-vocabulary-builder-for-40-1850697814)
