@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Latest Newsletter - Our Fake Everything Future: Economies, Internets and Families &lpar;Issue #126&rpar;](https://dev.to/mjgs/latest-newsletter-our-fake-everything-future-economies-internets-and-families-issue-126-5g68)
+- [Dev.to/JS] [Let&#39;s Make an Interactive Coding Tutorial](https://dev.to/livecodes_io/lets-make-an-interactive-coding-tutorial-p45)
+- [Dev.to/JS] [👉Taking A Dive Into Express&#39; Request and Response Objects👈](https://dev.to/svper563/taking-a-dive-into-express-request-and-response-objects-4988)
+- [Dev.to/JS] [Procedural Vs Functional way of solving a JS interview problem](https://dev.to/pardeepr08/procedural-vs-functional-way-of-solving-a-js-interview-problem-peg)
 - [Dev.to/JS] [A Reusable Hook For Web Worker Api Calls In React](https://dev.to/bikash9609/a-reusable-hook-for-web-worker-api-calls-in-react-ia2)
 - [Dev.to/JS] [🚀 Embracing the Beauty of Functional-Style Programming! 🌟](https://dev.to/kaushit/embracing-the-beauty-of-functional-style-programming-572n)
 - [Dev.to/JS] [How I resolved frontend performance problem with 103 input forms](https://dev.to/kaziusan/how-i-resolved-frontend-performance-problem-with-103-input-forms-did)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular 16 Pagination example](https://dev.to/tienbku/angular-16-pagination-example-1lb1)
 - [Dev.to/JS] [Fundamentals of Functional Programming: Learn with JavaScript](https://dev.to/ryosuke/fundamentals-of-functional-programming-learn-with-javascript-185b)
 - [Dev.to/JS] [Swap two variables without using third variable &lpar;Bitwise XOR&rpar;](https://dev.to/robin3317/swap-two-variables-without-using-third-variable-52ji)
-- [Dev.to/JS] [[EVENT] Post The Most Beautiful Websites with Outstanding UI/UX!](https://dev.to/ccws/event-post-the-most-beautiful-websites-with-outstanding-uiux-fj7)
-- [Dev.to/JS] [Higher-Order Functions Explained: A Practical Approach for JavaScript Developers](https://dev.to/raymondkingjnr/higher-order-functions-explained-a-practical-approach-for-javascript-developers-3hl8)
-- [Dev.to/JS] [Ruby on Rails Views Resources for Frontend Developer](https://dev.to/jetthoughts/ruby-on-rails-views-resources-for-frontend-developer-3pi9)
-- [Dev.to/JS] [What Is An API &lpar;Application Programming Interface&rpar;?](https://dev.to/imevanc/what-is-an-api-application-programming-interface-1j4k)
 - [Lifehacker] [How to Air Fry Without Directions](https://lifehacker.com/how-to-air-fry-without-directions-1850707924)
 - [Lifehacker] [Shortwave Is the Spiritual Successor to Google’s Inbox](https://lifehacker.com/shortwave-is-the-spiritual-successor-to-google-s-inbox-1850707721)
 - [Lifehacker] [You Can Get Wordela&#39;s English Vocabulary Builder for $40 Right Now](https://lifehacker.com/you-can-get-wordelas-english-vocabulary-builder-for-40-1850697814)
