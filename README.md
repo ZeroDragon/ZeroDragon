@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Reusable Hook For Web Worker Api Calls In React](https://dev.to/bikash9609/a-reusable-hook-for-web-worker-api-calls-in-react-ia2)
+- [Dev.to/JS] [🚀 Embracing the Beauty of Functional-Style Programming! 🌟](https://dev.to/kaushit/embracing-the-beauty-of-functional-style-programming-572n)
+- [Dev.to/JS] [How I resolved frontend performance problem with 103 input forms](https://dev.to/kaziusan/how-i-resolved-frontend-performance-problem-with-103-input-forms-did)
+- [Dev.to/JS] [Time Travel in React with Immer: A Step-by-Step Tutorial](https://dev.to/brainiacneit/time-travel-in-react-with-immer-a-step-by-step-tutorial-201p)
 - [Dev.to/JS] [Sticky navbar only using CSS](https://dev.to/preetsuthar17/sticky-navbar-only-using-css-3nki)
 - [Dev.to/JS] [Angular 16 Pagination example](https://dev.to/tienbku/angular-16-pagination-example-1lb1)
 - [Dev.to/JS] [Fundamentals of Functional Programming: Learn with JavaScript](https://dev.to/ryosuke/fundamentals-of-functional-programming-learn-with-javascript-185b)
@@ -35,17 +39,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ruby on Rails Views Resources for Frontend Developer](https://dev.to/jetthoughts/ruby-on-rails-views-resources-for-frontend-developer-3pi9)
 - [Dev.to/JS] [What Is An API &lpar;Application Programming Interface&rpar;?](https://dev.to/imevanc/what-is-an-api-application-programming-interface-1j4k)
 - [Lifehacker] [How to Air Fry Without Directions](https://lifehacker.com/how-to-air-fry-without-directions-1850707924)
-- [Dev.to/JS] [Fetch for every one](https://dev.to/daniel_kitam_31/fetch-for-every-one-g01)
 - [Lifehacker] [Shortwave Is the Spiritual Successor to Google’s Inbox](https://lifehacker.com/shortwave-is-the-spiritual-successor-to-google-s-inbox-1850707721)
 - [Lifehacker] [You Can Get Wordela&#39;s English Vocabulary Builder for $40 Right Now](https://lifehacker.com/you-can-get-wordelas-english-vocabulary-builder-for-40-1850697814)
 - [Lifehacker] [Find Cheap or Free College Textbooks With These Online Resources](https://lifehacker.com/these-online-resources-will-help-you-find-free-college-1849372320)
 - [Lifehacker] [Why You Don&#39;t Need to Refrigerate Peanut Butter](https://lifehacker.com/why-you-dont-need-to-refrigerate-peanut-butter-1850708209)
-- [Dev.to/JS] [My Problem with Tech Twitter and the Rise of NPC Tweets &lpar;A Thread 🧵&rpar;](https://dev.to/sadeedpv/my-problem-with-tech-twitter-and-the-rise-of-npc-tweets-2ed5)
 - [Lifehacker] [You Can Get All-You-Can-Eat Pancakes for $5 at IHOP This Month](https://lifehacker.com/you-can-get-all-you-can-eat-pancakes-for-5-at-ihop-thi-1850708442)
 - [Lifehacker] [TikTok’s ‘Overloading’ Trend Is a Crappy Way to Clean Your Toilet](https://lifehacker.com/tiktok-s-overloading-trend-is-a-crappy-way-to-clean-y-1849545412)
-- [Dev.to/JS] [A Developer&#39;s Quest: The Journey of Creating React ChatBotify](https://dev.to/tjtanjin/a-developers-quest-the-journey-of-creating-react-chatbotify-1lj7)
 - [Lifehacker] [This Mindfulness.com Subscription Is 40% Off Right Now](https://lifehacker.com/this-mindfulness-com-subscription-is-40-off-right-now-1850697909)
-- [Dev.to/JS] [Container Orchestration: Docker vs. Kubernetes - A Comprehensive Comparison](https://dev.to/iamcymentho/container-orchestration-docker-vs-kubernetes-a-comprehensive-comparison-kp0)
 - [Lifehacker] [This Is the &#39;Goldilocks Window&#39; for Booking Your Winter Flights](https://lifehacker.com/this-is-the-goldilocks-window-for-booking-your-winter-f-1850707477)
 - [Lifehacker] [Here&#39;s How Much Protein You Really Need](https://lifehacker.com/heres-how-much-protein-you-really-need-1830878049)
 - [Lifehacker] [The Gear You Need to Make Camping With Your Dog a Lot Easier](https://lifehacker.com/the-gear-you-need-to-make-camping-with-your-dog-a-lot-e-1850705453)
