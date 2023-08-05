@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Most Effective Ways to Prevent Clogs in Low-Flow Toilets &lpar;and Why They&#39;re So Common&rpar;](https://lifehacker.com/the-most-effective-ways-to-prevent-clogs-in-low-flow-to-1850706078)
+- [Dev.to/JS] [Unleashing the Power of useEffect](https://dev.to/capwellmurimi/unleashing-the-power-of-useeffect-3b2p)
 - [Dev.to/JS] [Improve performance of React Application](https://dev.to/husnain/improve-performance-of-react-application-3i71)
+- [Dev.to/JS] [Next.js vs. Gatsby: A Comparative Analysis of Leading React Frameworks](https://dev.to/instructivetech/nextjs-vs-gatsby-a-comparative-analysis-of-leading-react-frameworks-fd7)
 - [Dev.to/JS] [How to become a better software Developer](https://dev.to/theonlyabdull/how-to-be-a-better-frontend-developer-l7h)
 - [Dev.to/JS] [10 Essential JavaScript Tips for Efficient &amp; Maintainable Code | Coding Tips 2023](https://dev.to/ikamran01/10-essential-javascript-tips-for-efficient-maintainable-code-coding-tips-2023-3397)
 - [Dev.to/JS] [Taking recursion to the next level](https://dev.to/tracygjg/taking-recursion-to-the-next-level-3fp5)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Decoding AWS and Exploring Cloud Alternatives: A Comprehensive Overview](https://dev.to/idurar/decoding-aws-and-exploring-cloud-alternatives-a-comprehensive-overview-lml)
 - [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)
 - [Dev.to/JS] [Tuning Your Code: A Comprehensive Guide to JavaScript Performance Improvement&quot;](https://dev.to/abhaysinghr1/tuning-your-code-a-comprehensive-guide-to-javascript-performance-improvement-22m9)
-- [Dev.to/JS] [Extremely reducing the size of NPM package](https://dev.to/yoskutik/extremely-reducing-the-size-of-npm-package-3420)
-- [Dev.to/JS] [Unraveling the Magic of APIs: A Beginner&#39;s Guide to Integration Superpowers](https://dev.to/ainasanghi/unraveling-the-magic-of-apis-a-beginners-guide-to-integration-superpowers-c39)
 - [Lifehacker] [How to Air Fry Without Directions](https://lifehacker.com/how-to-air-fry-without-directions-1850707924)
 - [Lifehacker] [Shortwave Is the Spiritual Successor to Google’s Inbox](https://lifehacker.com/shortwave-is-the-spiritual-successor-to-google-s-inbox-1850707721)
 - [Lifehacker] [You Can Get Wordela&#39;s English Vocabulary Builder for $40 Right Now](https://lifehacker.com/you-can-get-wordelas-english-vocabulary-builder-for-40-1850697814)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Make Boring Glass Look Like Sea Glass](https://lifehacker.com/you-can-make-boring-glass-look-like-sea-glass-1850706130)
 - [Lifehacker] [This 2018 Mac mini Is 37% Off Right Now](https://lifehacker.com/this-2018-mac-mini-is-37-off-right-now-1850697878)
 - [Lifehacker] [Put Some Olives in Your Crappy Beer](https://lifehacker.com/put-some-olives-in-your-crappy-beer-1850705556)
-- [Lifehacker] [12 Podcasts That Will Improve Your Work Life](https://lifehacker.com/12-podcasts-that-will-improve-your-work-life-1850690862)
-- [Lifehacker] [Use a &#39;Thermometer Chart&#39; to Track Your Work Goals](https://lifehacker.com/use-a-thermometer-chart-to-track-your-work-goals-1850704496)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Podcasts That Will Improve Your Work Life](https://lifehacker.com/12-podcasts-that-will-improve-your-work-life-1850690862)<!-- TECH-POSTS:END -->
 
 ---
 
