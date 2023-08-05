@@ -26,7 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [An Introduction to DBMS_OBFUSCATION_TOOLKIT in Oracle PL/SQL](https://dev.to/pawnsapprentice/an-introduction-to-dbmsobfuscationtoolkit-in-oracle-plsql-1n0i)
+- [Dev.to/JS] [Server side rendering with NextJs](https://dev.to/lausuarez02/server-side-rendering-with-nextjs-216c)
+- [Dev.to/JS] [Common Signs Of Malicious Websites: How To Spot And Protect Yourself](https://dev.to/ecaterinateodo3/common-signs-of-malicious-websites-how-to-spot-and-protect-yourself-18ic)
 - [Dev.to/JS] [Unexpected function behavior](https://dev.to/gmyrekpatryk/unexpected-function-behavior-onb)
 - [Dev.to/JS] [Decoding AWS and Exploring Cloud Alternatives: A Comprehensive Overview](https://dev.to/idurar/decoding-aws-and-exploring-cloud-alternatives-a-comprehensive-overview-lml)
 - [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js Navigation Hooks: A Deep Dive into useSelectedLayoutSegments](https://dev.to/dirheimerb/nextjs-navigation-hooks-a-deep-dive-into-useselectedlayoutsegments-22jj)
 - [Dev.to/JS] [Deep Dive into useSearchParams: Mastering Query String Manipulation](https://dev.to/dirheimerb/deep-dive-into-usesearchparams-mastering-query-string-manipulation-3m8p)
 - [Dev.to/JS] [How to Setup a Chatbot with React ChatBotify: A Step-by-Step Tutorial](https://dev.to/tjtanjin/how-to-setup-a-chatbot-with-react-chatbotify-a-step-by-step-tutorial-56d6)
-- [Dev.to/JS] [Level Up Your Skills with the Ultimate TypeScript Guide!](https://dev.to/ritikbanger/level-up-your-skills-with-the-ultimate-typescript-guide-36ie)
 - [Lifehacker] [How to Air Fry Without Directions](https://lifehacker.com/how-to-air-fry-without-directions-1850707924)
 - [Lifehacker] [Shortwave Is the Spiritual Successor to Google’s Inbox](https://lifehacker.com/shortwave-is-the-spiritual-successor-to-google-s-inbox-1850707721)
 - [Lifehacker] [You Can Get Wordela&#39;s English Vocabulary Builder for $40 Right Now](https://lifehacker.com/you-can-get-wordelas-english-vocabulary-builder-for-40-1850697814)
