@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Improve performance of React Application](https://dev.to/husnain/improve-performance-of-react-application-3i71)
+- [Dev.to/JS] [How to become a better software Developer](https://dev.to/theonlyabdull/how-to-be-a-better-frontend-developer-l7h)
+- [Dev.to/JS] [10 Essential JavaScript Tips for Efficient &amp; Maintainable Code | Coding Tips 2023](https://dev.to/ikamran01/10-essential-javascript-tips-for-efficient-maintainable-code-coding-tips-2023-3397)
+- [Dev.to/JS] [Taking recursion to the next level](https://dev.to/tracygjg/taking-recursion-to-the-next-level-3fp5)
+- [Dev.to/JS] [Creating event on google calander with google meet link.](https://dev.to/moinakh22885547/creating-event-on-google-calander-with-google-meet-link-2na5)
+- [Lifehacker] [The Easiest Way to Guess How Much Weight a Floating Shelf Can Hold](https://lifehacker.com/the-easiest-way-to-guess-how-much-weight-a-floating-she-1850706102)
 - [Dev.to/JS] [Server side rendering with NextJs](https://dev.to/lausuarez02/server-side-rendering-with-nextjs-216c)
 - [Dev.to/JS] [Common Signs Of Malicious Websites: How To Spot And Protect Yourself](https://dev.to/ecaterinateodo3/common-signs-of-malicious-websites-how-to-spot-and-protect-yourself-18ic)
 - [Dev.to/JS] [Unexpected function behavior](https://dev.to/gmyrekpatryk/unexpected-function-behavior-onb)
@@ -34,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tuning Your Code: A Comprehensive Guide to JavaScript Performance Improvement&quot;](https://dev.to/abhaysinghr1/tuning-your-code-a-comprehensive-guide-to-javascript-performance-improvement-22m9)
 - [Dev.to/JS] [Extremely reducing the size of NPM package](https://dev.to/yoskutik/extremely-reducing-the-size-of-npm-package-3420)
 - [Dev.to/JS] [Unraveling the Magic of APIs: A Beginner&#39;s Guide to Integration Superpowers](https://dev.to/ainasanghi/unraveling-the-magic-of-apis-a-beginners-guide-to-integration-superpowers-c39)
-- [Dev.to/JS] [Cloud Telephony Service](https://dev.to/callerdesk/cloud-telephony-service-11i1)
-- [Dev.to/JS] [Mastering Next.js Navigation Hooks: An In-Depth Review](https://dev.to/dirheimerb/mastering-nextjs-navigation-hooks-an-in-depth-review-3k61)
-- [Dev.to/JS] [Next.js Navigation Hooks: A Deep Dive into useSelectedLayoutSegments](https://dev.to/dirheimerb/nextjs-navigation-hooks-a-deep-dive-into-useselectedlayoutsegments-22jj)
-- [Dev.to/JS] [Deep Dive into useSearchParams: Mastering Query String Manipulation](https://dev.to/dirheimerb/deep-dive-into-usesearchparams-mastering-query-string-manipulation-3m8p)
-- [Dev.to/JS] [How to Setup a Chatbot with React ChatBotify: A Step-by-Step Tutorial](https://dev.to/tjtanjin/how-to-setup-a-chatbot-with-react-chatbotify-a-step-by-step-tutorial-56d6)
 - [Lifehacker] [How to Air Fry Without Directions](https://lifehacker.com/how-to-air-fry-without-directions-1850707924)
 - [Lifehacker] [Shortwave Is the Spiritual Successor to Google’s Inbox](https://lifehacker.com/shortwave-is-the-spiritual-successor-to-google-s-inbox-1850707721)
 - [Lifehacker] [You Can Get Wordela&#39;s English Vocabulary Builder for $40 Right Now](https://lifehacker.com/you-can-get-wordelas-english-vocabulary-builder-for-40-1850697814)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This 2018 Mac mini Is 37% Off Right Now](https://lifehacker.com/this-2018-mac-mini-is-37-off-right-now-1850697878)
 - [Lifehacker] [Put Some Olives in Your Crappy Beer](https://lifehacker.com/put-some-olives-in-your-crappy-beer-1850705556)
 - [Lifehacker] [12 Podcasts That Will Improve Your Work Life](https://lifehacker.com/12-podcasts-that-will-improve-your-work-life-1850690862)
-- [Lifehacker] [Use a &#39;Thermometer Chart&#39; to Track Your Work Goals](https://lifehacker.com/use-a-thermometer-chart-to-track-your-work-goals-1850704496)
-- [Lifehacker] [These Translation Earbuds Are $100 Right Now](https://lifehacker.com/these-translation-earbuds-are-100-right-now-1850697771)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use a &#39;Thermometer Chart&#39; to Track Your Work Goals](https://lifehacker.com/use-a-thermometer-chart-to-track-your-work-goals-1850704496)<!-- TECH-POSTS:END -->
 
 ---
 
