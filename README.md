@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sticky navbar only using CSS](https://dev.to/preetsuthar17/sticky-navbar-only-using-css-3nki)
 - [Dev.to/JS] [Angular 16 Pagination example](https://dev.to/tienbku/angular-16-pagination-example-1lb1)
 - [Dev.to/JS] [Fundamentals of Functional Programming: Learn with JavaScript](https://dev.to/ryosuke/fundamentals-of-functional-programming-learn-with-javascript-185b)
 - [Dev.to/JS] [Swap two variables without using third variable &lpar;Bitwise XOR&rpar;](https://dev.to/robin3317/swap-two-variables-without-using-third-variable-52ji)
@@ -48,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the &#39;Goldilocks Window&#39; for Booking Your Winter Flights](https://lifehacker.com/this-is-the-goldilocks-window-for-booking-your-winter-f-1850707477)
 - [Lifehacker] [Here&#39;s How Much Protein You Really Need](https://lifehacker.com/heres-how-much-protein-you-really-need-1830878049)
 - [Lifehacker] [The Gear You Need to Make Camping With Your Dog a Lot Easier](https://lifehacker.com/the-gear-you-need-to-make-camping-with-your-dog-a-lot-e-1850705453)
-- [Dev.to/JS] [Mastering TypeScript: Using the Pick Utility Type](https://dev.to/yanagisawahidetoshi/mastering-typescript-using-the-pick-utility-type-1l5)
 - [Lifehacker] [Deglosser Is a Superior Alternative to Sandpaper When You&#39;re Refinishing Furniture](https://lifehacker.com/deglosser-is-a-superior-alternative-to-sandpaper-when-y-1850705841)
 - [Lifehacker] [The Easiest Way to Prevent a Soggy Sandwich](https://lifehacker.com/make-sandwiches-on-frozen-bread-to-stave-off-sogginess-1803757453)
 - [Lifehacker] [We&#39;re Finally Getting an RSV Vaccine for Babies](https://lifehacker.com/were-finally-getting-an-rsv-vaccine-for-babies-1850707968)
