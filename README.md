@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular 16 Pagination example](https://dev.to/tienbku/angular-16-pagination-example-1lb1)
 - [Dev.to/JS] [Fundamentals of Functional Programming: Learn with JavaScript](https://dev.to/ryosuke/fundamentals-of-functional-programming-learn-with-javascript-185b)
 - [Dev.to/JS] [Swap two variables without using third variable &lpar;Bitwise XOR&rpar;](https://dev.to/robin3317/swap-two-variables-without-using-third-variable-52ji)
 - [Dev.to/JS] [[EVENT] Post The Most Beautiful Websites with Outstanding UI/UX!](https://dev.to/ccws/event-post-the-most-beautiful-websites-with-outstanding-uiux-fj7)
@@ -51,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Deglosser Is a Superior Alternative to Sandpaper When You&#39;re Refinishing Furniture](https://lifehacker.com/deglosser-is-a-superior-alternative-to-sandpaper-when-y-1850705841)
 - [Lifehacker] [The Easiest Way to Prevent a Soggy Sandwich](https://lifehacker.com/make-sandwiches-on-frozen-bread-to-stave-off-sogginess-1803757453)
 - [Lifehacker] [We&#39;re Finally Getting an RSV Vaccine for Babies](https://lifehacker.com/were-finally-getting-an-rsv-vaccine-for-babies-1850707968)
-- [Dev.to/JS] [Mastering JavaScript Shorthands In 2023](https://dev.to/cristain/mastering-javascript-shorthands-in-2023-26oj)
 - [Lifehacker] [Use Text Expanders to Email More Efficiently](https://lifehacker.com/use-text-expanders-to-email-more-efficiently-1850707411)
 - [Lifehacker] [How to Play Guitar Without Learning How to Play Guitar](https://lifehacker.com/how-to-play-guitar-without-learning-how-to-play-guitar-1848128835)
 - [Lifehacker] [You Already Have What You Need to Slice Meat Extra Thin](https://lifehacker.com/you-already-have-what-you-need-to-slice-meat-extra-thin-1850705332)
