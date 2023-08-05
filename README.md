@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Level Up Your Skills with the Ultimate TypeScript Guide!](https://dev.to/ritikbanger/level-up-your-skills-with-the-ultimate-typescript-guide-36ie)
 - [Dev.to/JS] [How to delete My AI on SC](https://dev.to/answerlyst/how-to-delete-my-ai-on-sc-36en)
 - [Dev.to/JS] [JavaScript Made Easy: Master Destructuring Assignment in a Flash](https://dev.to/yanagisawahidetoshi/javascript-made-easy-master-destructuring-assignment-in-a-flash-13i1)
 - [Dev.to/JS] [Latest Newsletter - Our Fake Everything Future: Economies, Internets and Families &lpar;Issue #126&rpar;](https://dev.to/mjgs/latest-newsletter-our-fake-everything-future-economies-internets-and-families-issue-126-5g68)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I resolved frontend performance problem with 103 input forms](https://dev.to/kaziusan/how-i-resolved-frontend-performance-problem-with-103-input-forms-did)
 - [Dev.to/JS] [Time Travel in React with Immer: A Step-by-Step Tutorial](https://dev.to/brainiacneit/time-travel-in-react-with-immer-a-step-by-step-tutorial-201p)
 - [Dev.to/JS] [Sticky navbar only using CSS](https://dev.to/preetsuthar17/sticky-navbar-only-using-css-3nki)
-- [Dev.to/JS] [Angular 16 Pagination example](https://dev.to/tienbku/angular-16-pagination-example-1lb1)
 - [Lifehacker] [How to Air Fry Without Directions](https://lifehacker.com/how-to-air-fry-without-directions-1850707924)
 - [Lifehacker] [Shortwave Is the Spiritual Successor to Google’s Inbox](https://lifehacker.com/shortwave-is-the-spiritual-successor-to-google-s-inbox-1850707721)
 - [Lifehacker] [You Can Get Wordela&#39;s English Vocabulary Builder for $40 Right Now](https://lifehacker.com/you-can-get-wordelas-english-vocabulary-builder-for-40-1850697814)
