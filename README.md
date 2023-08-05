@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Decoding AWS and Exploring Cloud Alternatives: A Comprehensive Overview](https://dev.to/idurar/decoding-aws-and-exploring-cloud-alternatives-a-comprehensive-overview-lml)
+- [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)
+- [Dev.to/JS] [Tuning Your Code: A Comprehensive Guide to JavaScript Performance Improvement&quot;](https://dev.to/abhaysinghr1/tuning-your-code-a-comprehensive-guide-to-javascript-performance-improvement-22m9)
 - [Dev.to/JS] [Extremely reducing the size of NPM package](https://dev.to/yoskutik/extremely-reducing-the-size-of-npm-package-3420)
 - [Dev.to/JS] [Unraveling the Magic of APIs: A Beginner&#39;s Guide to Integration Superpowers](https://dev.to/ainasanghi/unraveling-the-magic-of-apis-a-beginners-guide-to-integration-superpowers-c39)
 - [Dev.to/JS] [Cloud Telephony Service](https://dev.to/callerdesk/cloud-telephony-service-11i1)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Level Up Your Skills with the Ultimate TypeScript Guide!](https://dev.to/ritikbanger/level-up-your-skills-with-the-ultimate-typescript-guide-36ie)
 - [Dev.to/JS] [How to delete My AI on SC](https://dev.to/answerlyst/how-to-delete-my-ai-on-sc-36en)
 - [Dev.to/JS] [JavaScript Made Easy: Master Destructuring Assignment in a Flash](https://dev.to/yanagisawahidetoshi/javascript-made-easy-master-destructuring-assignment-in-a-flash-13i1)
-- [Dev.to/JS] [Latest Newsletter - Our Fake Everything Future: Economies, Internets and Families &lpar;Issue #126&rpar;](https://dev.to/mjgs/latest-newsletter-our-fake-everything-future-economies-internets-and-families-issue-126-5g68)
-- [Dev.to/JS] [Let&#39;s Make an Interactive Coding Tutorial](https://dev.to/livecodes_io/lets-make-an-interactive-coding-tutorial-p45)
 - [Lifehacker] [How to Air Fry Without Directions](https://lifehacker.com/how-to-air-fry-without-directions-1850707924)
 - [Lifehacker] [Shortwave Is the Spiritual Successor to Google’s Inbox](https://lifehacker.com/shortwave-is-the-spiritual-successor-to-google-s-inbox-1850707721)
 - [Lifehacker] [You Can Get Wordela&#39;s English Vocabulary Builder for $40 Right Now](https://lifehacker.com/you-can-get-wordelas-english-vocabulary-builder-for-40-1850697814)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Put Some Olives in Your Crappy Beer](https://lifehacker.com/put-some-olives-in-your-crappy-beer-1850705556)
 - [Lifehacker] [12 Podcasts That Will Improve Your Work Life](https://lifehacker.com/12-podcasts-that-will-improve-your-work-life-1850690862)
 - [Lifehacker] [Use a &#39;Thermometer Chart&#39; to Track Your Work Goals](https://lifehacker.com/use-a-thermometer-chart-to-track-your-work-goals-1850704496)
-- [Lifehacker] [These Translation Earbuds Are $100 Right Now](https://lifehacker.com/these-translation-earbuds-are-100-right-now-1850697771)
-- [Lifehacker] [Make Easy Garden Pest Traps With These Common Kitchen Staples](https://lifehacker.com/make-easy-garden-pest-traps-with-these-common-kitchen-s-1850704994)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Translation Earbuds Are $100 Right Now](https://lifehacker.com/these-translation-earbuds-are-100-right-now-1850697771)<!-- TECH-POSTS:END -->
 
 ---
 
