@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Authentic Websites to Generate Stunning Favicons for Your Next.js or React Project](https://dev.to/mrpaulishaili/5-authentic-websites-to-generate-stunning-favicons-for-your-nextjs-or-react-project-5eif)
+- [Dev.to/JS] [Build Your Own CLI App in 5 Minutes &lpar;ClackJS + Node + NPM Tutorial&rpar;](https://dev.to/therubberduckiee/build-your-own-cli-app-in-5-minutes-clackjs-node-npm-tutorial-4nkl)
 - [Dev.to/JS] [Mastering Flexible Component Design in React with the Compound Components Pattern](https://dev.to/yanagisawahidetoshi/mastering-flexible-component-design-in-react-with-the-compound-components-pattern-n96)
 - [Dev.to/JS] [Identify Bottlenecks in Your React App! An Introduction to Performance Analysis with React Profiler API](https://dev.to/yanagisawahidetoshi/identify-bottlenecks-in-your-react-app-an-introduction-to-performance-analysis-with-react-profiler-api-4fk4)
 - [Dev.to/JS] [Data Structures - Part 1: Everything You Need to Know About Arrays](https://dev.to/burakboduroglu/data-structures-part-1-everything-you-need-to-know-about-arrays-5d8h)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unleashing the Power of useEffect](https://dev.to/capwellmurimi/unleashing-the-power-of-useeffect-3b2p)
 - [Dev.to/JS] [Improve performance of React Application](https://dev.to/husnain/improve-performance-of-react-application-3i71)
 - [Dev.to/JS] [Next.js vs. Gatsby: A Comparative Analysis of Leading React Frameworks](https://dev.to/instructivetech/nextjs-vs-gatsby-a-comparative-analysis-of-leading-react-frameworks-fd7)
-- [Dev.to/JS] [How to become a better software Developer](https://dev.to/theonlyabdull/how-to-be-a-better-frontend-developer-l7h)
-- [Dev.to/JS] [10 Essential JavaScript Tips for Efficient &amp; Maintainable Code | Coding Tips 2023](https://dev.to/ikamran01/10-essential-javascript-tips-for-efficient-maintainable-code-coding-tips-2023-3397)
 - [Lifehacker] [The Easiest Way to Guess How Much Weight a Floating Shelf Can Hold](https://lifehacker.com/the-easiest-way-to-guess-how-much-weight-a-floating-she-1850706102)
 - [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)
 - [Lifehacker] [How to Air Fry Without Directions](https://lifehacker.com/how-to-air-fry-without-directions-1850707924)
