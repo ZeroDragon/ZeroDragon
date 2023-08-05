@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering Flexible Component Design in React with the Compound Components Pattern](https://dev.to/yanagisawahidetoshi/mastering-flexible-component-design-in-react-with-the-compound-components-pattern-n96)
 - [Dev.to/JS] [Identify Bottlenecks in Your React App! An Introduction to Performance Analysis with React Profiler API](https://dev.to/yanagisawahidetoshi/identify-bottlenecks-in-your-react-app-an-introduction-to-performance-analysis-with-react-profiler-api-4fk4)
 - [Dev.to/JS] [Data Structures - Part 1: Everything You Need to Know About Arrays](https://dev.to/burakboduroglu/data-structures-part-1-everything-you-need-to-know-about-arrays-5d8h)
 - [Dev.to/JS] [How to Write and Publish Your First JavaScript Library](https://dev.to/oluwaferanmi/how-to-write-and-publish-your-first-javascript-library-cei)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js vs. Gatsby: A Comparative Analysis of Leading React Frameworks](https://dev.to/instructivetech/nextjs-vs-gatsby-a-comparative-analysis-of-leading-react-frameworks-fd7)
 - [Dev.to/JS] [How to become a better software Developer](https://dev.to/theonlyabdull/how-to-be-a-better-frontend-developer-l7h)
 - [Dev.to/JS] [10 Essential JavaScript Tips for Efficient &amp; Maintainable Code | Coding Tips 2023](https://dev.to/ikamran01/10-essential-javascript-tips-for-efficient-maintainable-code-coding-tips-2023-3397)
-- [Dev.to/JS] [Taking recursion to the next level](https://dev.to/tracygjg/taking-recursion-to-the-next-level-3fp5)
 - [Lifehacker] [The Easiest Way to Guess How Much Weight a Floating Shelf Can Hold](https://lifehacker.com/the-easiest-way-to-guess-how-much-weight-a-floating-she-1850706102)
 - [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)
 - [Lifehacker] [How to Air Fry Without Directions](https://lifehacker.com/how-to-air-fry-without-directions-1850707924)
