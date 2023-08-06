@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [:&lpar;colons&rpar;, =&lpar;equals&rpar; and ;&lpar;semicolons&rpar; in Javascript &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/colons-equals-and-semicolons-in-javascript-bite-size-article-1bk2)
+- [Dev.to/JS] [Unleashing the 🦄 Power of checkValidity&lpar;&rpar; Method: Keeping Web Forms in Check! 😎](https://dev.to/_afroprogrammer/unleashing-the-power-of-checkvalidity-method-keeping-web-forms-in-check-50ma)
 - [Dev.to/JS] [5 Authentic Websites to Generate Stunning Favicons for Your Next.js or React Project](https://dev.to/mrpaulishaili/5-authentic-websites-to-generate-stunning-favicons-for-your-nextjs-or-react-project-5eif)
 - [Dev.to/JS] [Build Your Own CLI App in 5 Minutes &lpar;ClackJS + Node + NPM Tutorial&rpar;](https://dev.to/therubberduckiee/build-your-own-cli-app-in-5-minutes-clackjs-node-npm-tutorial-4nkl)
 - [Dev.to/JS] [Mastering Flexible Component Design in React with the Compound Components Pattern](https://dev.to/yanagisawahidetoshi/mastering-flexible-component-design-in-react-with-the-compound-components-pattern-n96)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Length of the longest substring without repeating characters](https://dev.to/chandrapenugonda/length-of-the-longest-substring-without-repeating-characters-34g3)
 - [Lifehacker] [The Most Effective Ways to Prevent Clogs in Low-Flow Toilets &lpar;and Why They&#39;re So Common&rpar;](https://lifehacker.com/the-most-effective-ways-to-prevent-clogs-in-low-flow-to-1850706078)
 - [Dev.to/JS] [Unleashing the Power of useEffect](https://dev.to/capwellmurimi/unleashing-the-power-of-useeffect-3b2p)
-- [Dev.to/JS] [Improve performance of React Application](https://dev.to/husnain/improve-performance-of-react-application-3i71)
-- [Dev.to/JS] [Next.js vs. Gatsby: A Comparative Analysis of Leading React Frameworks](https://dev.to/instructivetech/nextjs-vs-gatsby-a-comparative-analysis-of-leading-react-frameworks-fd7)
 - [Lifehacker] [The Easiest Way to Guess How Much Weight a Floating Shelf Can Hold](https://lifehacker.com/the-easiest-way-to-guess-how-much-weight-a-floating-she-1850706102)
 - [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)
 - [Lifehacker] [How to Air Fry Without Directions](https://lifehacker.com/how-to-air-fry-without-directions-1850707924)
