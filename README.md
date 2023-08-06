@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Shouldn&#39;t Use Garden Soil for Plants in Outdoor Containers](https://lifehacker.com/why-you-shouldnt-use-garden-soil-for-plants-in-outdoor-1850705876)
+- [Dev.to/JS] [Generators in the wild](https://dev.to/duskpoet/generators-in-the-wild-g5d)
+- [Dev.to/JS] [dropdown arrows, css](https://dev.to/bloxy_aaron/dropdown-arrows-css-4o86)
 - [Dev.to/JS] [🔁 Importance of &quot;continue&quot; in Solving String Reversal with Vowels 🔁](https://dev.to/kaushit/importance-of-continue-in-solving-string-reversal-with-vowels-15lm)
 - [Dev.to/JS] [Implementing a Queue Data Structure using Two Stacks in JavaScript :rocket:](https://dev.to/vikas2426/implementing-a-queue-data-structure-using-two-stacks-in-javascript-rocket-1pbn)
 - [Dev.to/JS] [🕒 How Long Ago? A TimeAgo Component in React ⏳](https://dev.to/bansalgokul/how-long-ago-a-timeago-component-in-react-586i)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [9 Open-Source Libraries To Boost Your Coding Skills With Real Projects](https://dev.to/rahul3002/9-open-source-libraries-to-boost-your-coding-skills-with-real-projects-2lbn)
 - [Dev.to/JS] [JWT Token Authentication in Angular 14 and the .NET Core 6 Web API](https://dev.to/jaydeep007/jwt-token-authentication-in-angular-14-and-the-net-core-6-web-api-1pfg)
 - [Dev.to/JS] [Revolutionizing UI Development: The Story Behind React&#39;s Creation](https://dev.to/fadhilradh/the-reason-why-react-was-created-in-the-first-place-4125)
-- [Dev.to/JS] [What is SEO in Digital Marketing ?](https://dev.to/nidhigupta_676/what-is-seo-in-digital-marketing--3m2l)
-- [Dev.to/JS] [Types of computer memory](https://dev.to/nidhigupta_676/types-of-computer-memory-m6d)
 - [Lifehacker] [The Most Effective Ways to Prevent Clogs in Low-Flow Toilets &lpar;and Why They&#39;re So Common&rpar;](https://lifehacker.com/the-most-effective-ways-to-prevent-clogs-in-low-flow-to-1850706078)
 - [Lifehacker] [The Easiest Way to Guess How Much Weight a Floating Shelf Can Hold](https://lifehacker.com/the-easiest-way-to-guess-how-much-weight-a-floating-she-1850706102)
 - [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Paramount+ Shows You Should Be Watching](https://lifehacker.com/15-paramount-originals-you-arent-watching-but-should-b-1847635890)
 - [Lifehacker] [You Can Make Boring Glass Look Like Sea Glass](https://lifehacker.com/you-can-make-boring-glass-look-like-sea-glass-1850706130)
 - [Lifehacker] [This 2018 Mac mini Is 37% Off Right Now](https://lifehacker.com/this-2018-mac-mini-is-37-off-right-now-1850697878)
-- [Lifehacker] [Put Some Olives in Your Crappy Beer](https://lifehacker.com/put-some-olives-in-your-crappy-beer-1850705556)
-- [Lifehacker] [12 Podcasts That Will Improve Your Work Life](https://lifehacker.com/12-podcasts-that-will-improve-your-work-life-1850690862)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Put Some Olives in Your Crappy Beer](https://lifehacker.com/put-some-olives-in-your-crappy-beer-1850705556)<!-- TECH-POSTS:END -->
 
 ---
 
