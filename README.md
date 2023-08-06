@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implementing a Queue Data Structure using Two Stacks in JavaScript :rocket:](https://dev.to/vikas2426/implementing-a-queue-data-structure-using-two-stacks-in-javascript-rocket-1pbn)
+- [Dev.to/JS] [🕒 How Long Ago? A TimeAgo Component in React ⏳](https://dev.to/bansalgokul/how-long-ago-a-timeago-component-in-react-586i)
+- [Dev.to/JS] [How to Create Responsive Web Design with CSS](https://dev.to/jai7503556364/how-to-create-responsive-web-design-with-css-3kbe)
 - [Dev.to/JS] [Making the case for Skooma](https://dev.to/darkwiiplayer/making-the-case-for-skooma-4n70)
 - [Dev.to/JS] [Demystifying Angular CLI: A Comprehensive Guide for Beginners](https://dev.to/aymenmissaouii/demystifying-angular-cli-a-comprehensive-guide-for-beginners-15n4)
 - [Dev.to/JS] [Angular Pipes: Simplifying Data Transformations in Your Templates](https://dev.to/aymenmissaouii/angular-pipes-simplifying-data-transformations-in-your-templates-1i2h)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Types of computer memory](https://dev.to/nidhigupta_676/types-of-computer-memory-m6d)
 - [Dev.to/JS] [The Web Has Threads? Building Super-Charged Parallel Web Applications.](https://dev.to/sfundomhlungu/the-web-has-threads-building-super-charged-parallel-web-applications-3f33)
 - [Dev.to/JS] [Mastering Server Components in React 18! Achieve the Optimal Balance Between Client and Server](https://dev.to/yanagisawahidetoshi/mastering-server-components-in-react-18-achieve-the-optimal-balance-between-client-and-server-11pa)
-- [Dev.to/JS] [Custom cursor in next js](https://dev.to/preetsuthar17/custom-cursor-in-next-js-4l0c)
-- [Dev.to/JS] [Underrated React Hook - useSyncExternalStore](https://dev.to/brainiacneit/underrated-react-hook-usesyncexternalstore-h8h)
-- [Dev.to/JS] [110% revenue growth &amp; Reduced cost WITHOUT CODING](https://dev.to/aiforme/110-revenue-growth-reduced-cost-without-coding-1ifp)
 - [Lifehacker] [The Most Effective Ways to Prevent Clogs in Low-Flow Toilets &lpar;and Why They&#39;re So Common&rpar;](https://lifehacker.com/the-most-effective-ways-to-prevent-clogs-in-low-flow-to-1850706078)
 - [Lifehacker] [The Easiest Way to Guess How Much Weight a Floating Shelf Can Hold](https://lifehacker.com/the-easiest-way-to-guess-how-much-weight-a-floating-she-1850706102)
 - [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)
