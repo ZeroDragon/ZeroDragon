@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making the case for Skooma](https://dev.to/darkwiiplayer/making-the-case-for-skooma-4n70)
+- [Dev.to/JS] [Demystifying Angular CLI: A Comprehensive Guide for Beginners](https://dev.to/aymenmissaouii/demystifying-angular-cli-a-comprehensive-guide-for-beginners-15n4)
+- [Dev.to/JS] [Angular Pipes: Simplifying Data Transformations in Your Templates](https://dev.to/aymenmissaouii/angular-pipes-simplifying-data-transformations-in-your-templates-1i2h)
 - [Dev.to/JS] [9 Open-Source Libraries To Boost Your Coding Skills With Real Projects](https://dev.to/rahul3002/9-open-source-libraries-to-boost-your-coding-skills-with-real-projects-2lbn)
 - [Dev.to/JS] [JWT Token Authentication in Angular 14 and the .NET Core 6 Web API](https://dev.to/jaydeep007/jwt-token-authentication-in-angular-14-and-the-net-core-6-web-api-1pfg)
 - [Dev.to/JS] [What is SEO in Digital Marketing ?](https://dev.to/nidhigupta_676/what-is-seo-in-digital-marketing--3m2l)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Custom cursor in next js](https://dev.to/preetsuthar17/custom-cursor-in-next-js-4l0c)
 - [Dev.to/JS] [Underrated React Hook - useSyncExternalStore](https://dev.to/brainiacneit/underrated-react-hook-usesyncexternalstore-h8h)
 - [Dev.to/JS] [110% revenue growth &amp; Reduced cost WITHOUT CODING](https://dev.to/aiforme/110-revenue-growth-reduced-cost-without-coding-1ifp)
-- [Dev.to/JS] [I used Node.js to OCR &quot;Meme Monday&quot; threads](https://dev.to/ironcladdev/i-used-nodejs-to-ocr-meme-monday-threads-23o0)
-- [Dev.to/JS] [Mastering JavaScript Shorthand Techniques: Write Code Faster and Cleaner Part 1](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-write-code-faster-and-cleaner-part-1-39g6)
-- [Dev.to/JS] [:&lpar;colons&rpar;, =&lpar;equals&rpar; and ;&lpar;semicolons&rpar; in Javascript &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/colons-equals-and-semicolons-in-javascript-bite-size-article-1bk2)
 - [Lifehacker] [The Most Effective Ways to Prevent Clogs in Low-Flow Toilets &lpar;and Why They&#39;re So Common&rpar;](https://lifehacker.com/the-most-effective-ways-to-prevent-clogs-in-low-flow-to-1850706078)
 - [Lifehacker] [The Easiest Way to Guess How Much Weight a Floating Shelf Can Hold](https://lifehacker.com/the-easiest-way-to-guess-how-much-weight-a-floating-she-1850706102)
 - [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)
