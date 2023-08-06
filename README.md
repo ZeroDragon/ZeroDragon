@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Web Components and It&#39;s Implementation Without Frameworks](https://dev.to/berlikaliku/understanding-web-components-and-its-implementation-without-frameworks-58cp)
 - [Dev.to/JS] [File Validation in React with Formik and Yup](https://dev.to/olabisi09/file-validation-in-react-with-formik-and-yup-48e6)
 - [Lifehacker] [The Best Way to Clean Mold From Wood Furniture](https://lifehacker.com/the-best-way-to-clean-mold-from-wood-furniture-1850705838)
 - [Dev.to/JS] [Boost Your Productivity: 3 Hacks for Efficient React JS Development](https://dev.to/bilal1718/boost-your-productivity-3-hacks-for-efficient-react-js-development-190d)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🕒 How Long Ago? A TimeAgo Component in React ⏳](https://dev.to/bansalgokul/how-long-ago-a-timeago-component-in-react-586i)
 - [Dev.to/JS] [How to Create Responsive Web Design with CSS](https://dev.to/jai7503556364/how-to-create-responsive-web-design-with-css-3kbe)
 - [Dev.to/JS] [Making the case for Skooma](https://dev.to/darkwiiplayer/making-the-case-for-skooma-4n70)
-- [Dev.to/JS] [Demystifying Angular CLI: A Comprehensive Guide for Beginners](https://dev.to/aymenmissaouii/demystifying-angular-cli-a-comprehensive-guide-for-beginners-15n4)
 - [Lifehacker] [The Most Effective Ways to Prevent Clogs in Low-Flow Toilets &lpar;and Why They&#39;re So Common&rpar;](https://lifehacker.com/the-most-effective-ways-to-prevent-clogs-in-low-flow-to-1850706078)
 - [Lifehacker] [The Easiest Way to Guess How Much Weight a Floating Shelf Can Hold](https://lifehacker.com/the-easiest-way-to-guess-how-much-weight-a-floating-she-1850706102)
 - [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)
