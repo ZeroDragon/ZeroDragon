@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Custom Hook: useArray](https://dev.to/sergeyleschev/react-custom-hook-usearray-1ogp)
+- [Dev.to/JS] [The missing guide to understanding adapter-static in SvelteKit](https://dev.to/khromov/the-missing-guide-to-understanding-adapter-static-in-sveltekit-246)
 - [Dev.to/JS] [The Complete 2023 Developer Setup](https://dev.to/treasuredev_/the-complete-2023-developer-setup-2oia)
 - [Dev.to/JS] [Make your git log look better using a single command](https://dev.to/imevanc/make-your-git-log-look-better-using-a-single-command-18gj)
 - [Dev.to/JS] [Empowering Digital Commerce: Unleashing the Potential of ES6 Classes in JavaScript](https://dev.to/jacknorman235/empowering-digital-commerce-unleashing-the-potential-of-es6-classes-in-javascript-kld)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Boost Your Productivity: 3 Hacks for Efficient React JS Development](https://dev.to/bilal1718/boost-your-productivity-3-hacks-for-efficient-react-js-development-190d)
 - [Dev.to/JS] [The Comprehensive Guide to the Vital Role of Code Documentation in Software Development](https://dev.to/idurar/the-comprehensive-guide-to-the-vital-role-of-code-documentation-in-software-development-1i0l)
 - [Lifehacker] [Why You Shouldn&#39;t Use Garden Soil for Plants in Outdoor Containers](https://lifehacker.com/why-you-shouldnt-use-garden-soil-for-plants-in-outdoor-1850705876)
-- [Dev.to/JS] [React/Vite Starter with TypeScript](https://dev.to/hardikgohilhlr/reactvite-starter-with-typescript-585o)
-- [Dev.to/JS] [Generators in the wild](https://dev.to/duskpoet/generators-in-the-wild-g5d)
 - [Lifehacker] [The Most Effective Ways to Prevent Clogs in Low-Flow Toilets &lpar;and Why They&#39;re So Common&rpar;](https://lifehacker.com/the-most-effective-ways-to-prevent-clogs-in-low-flow-to-1850706078)
 - [Lifehacker] [The Easiest Way to Guess How Much Weight a Floating Shelf Can Hold](https://lifehacker.com/the-easiest-way-to-guess-how-much-weight-a-floating-she-1850706102)
 - [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)
