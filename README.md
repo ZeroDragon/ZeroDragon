@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is SEO in Digital Marketing ?](https://dev.to/nidhigupta_676/what-is-seo-in-digital-marketing--3m2l)
+- [Dev.to/JS] [Types of computer memory](https://dev.to/nidhigupta_676/types-of-computer-memory-m6d)
 - [Dev.to/JS] [The Web Has Threads? Building Super-Charged Parallel Web Applications.](https://dev.to/sfundomhlungu/the-web-has-threads-building-super-charged-parallel-web-applications-3f33)
 - [Dev.to/JS] [Mastering Server Components in React 18! Achieve the Optimal Balance Between Client and Server](https://dev.to/yanagisawahidetoshi/mastering-server-components-in-react-18-achieve-the-optimal-balance-between-client-and-server-11pa)
 - [Dev.to/JS] [Custom cursor in next js](https://dev.to/preetsuthar17/custom-cursor-in-next-js-4l0c)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [:&lpar;colons&rpar;, =&lpar;equals&rpar; and ;&lpar;semicolons&rpar; in Javascript &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/colons-equals-and-semicolons-in-javascript-bite-size-article-1bk2)
 - [Dev.to/JS] [Unleashing the 🦄 Power of checkValidity&lpar;&rpar; Method: Keeping Web Forms in Check! 😎](https://dev.to/_afroprogrammer/unleashing-the-power-of-checkvalidity-method-keeping-web-forms-in-check-50ma)
 - [Dev.to/JS] [5 Authentic Websites to Generate Stunning Favicons for Your Next.js or React Project](https://dev.to/mrpaulishaili/5-authentic-websites-to-generate-stunning-favicons-for-your-nextjs-or-react-project-5eif)
-- [Dev.to/JS] [Build Your Own CLI App in 5 Minutes &lpar;ClackJS + Node + NPM Tutorial&rpar;](https://dev.to/therubberduckiee/build-your-own-cli-app-in-5-minutes-clackjs-node-npm-tutorial-4nkl)
-- [Dev.to/JS] [Mastering Flexible Component Design in React with the Compound Components Pattern](https://dev.to/yanagisawahidetoshi/mastering-flexible-component-design-in-react-with-the-compound-components-pattern-n96)
 - [Lifehacker] [The Most Effective Ways to Prevent Clogs in Low-Flow Toilets &lpar;and Why They&#39;re So Common&rpar;](https://lifehacker.com/the-most-effective-ways-to-prevent-clogs-in-low-flow-to-1850706078)
 - [Lifehacker] [The Easiest Way to Guess How Much Weight a Floating Shelf Can Hold](https://lifehacker.com/the-easiest-way-to-guess-how-much-weight-a-floating-she-1850706102)
 - [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)
