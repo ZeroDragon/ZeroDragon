@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🔁 Importance of &quot;continue&quot; in Solving String Reversal with Vowels 🔁](https://dev.to/kaushit/importance-of-continue-in-solving-string-reversal-with-vowels-15lm)
 - [Dev.to/JS] [Implementing a Queue Data Structure using Two Stacks in JavaScript :rocket:](https://dev.to/vikas2426/implementing-a-queue-data-structure-using-two-stacks-in-javascript-rocket-1pbn)
 - [Dev.to/JS] [🕒 How Long Ago? A TimeAgo Component in React ⏳](https://dev.to/bansalgokul/how-long-ago-a-timeago-component-in-react-586i)
 - [Dev.to/JS] [How to Create Responsive Web Design with CSS](https://dev.to/jai7503556364/how-to-create-responsive-web-design-with-css-3kbe)
@@ -34,10 +35,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular Pipes: Simplifying Data Transformations in Your Templates](https://dev.to/aymenmissaouii/angular-pipes-simplifying-data-transformations-in-your-templates-1i2h)
 - [Dev.to/JS] [9 Open-Source Libraries To Boost Your Coding Skills With Real Projects](https://dev.to/rahul3002/9-open-source-libraries-to-boost-your-coding-skills-with-real-projects-2lbn)
 - [Dev.to/JS] [JWT Token Authentication in Angular 14 and the .NET Core 6 Web API](https://dev.to/jaydeep007/jwt-token-authentication-in-angular-14-and-the-net-core-6-web-api-1pfg)
+- [Dev.to/JS] [Revolutionizing UI Development: The Story Behind React&#39;s Creation](https://dev.to/fadhilradh/the-reason-why-react-was-created-in-the-first-place-4125)
 - [Dev.to/JS] [What is SEO in Digital Marketing ?](https://dev.to/nidhigupta_676/what-is-seo-in-digital-marketing--3m2l)
 - [Dev.to/JS] [Types of computer memory](https://dev.to/nidhigupta_676/types-of-computer-memory-m6d)
-- [Dev.to/JS] [The Web Has Threads? Building Super-Charged Parallel Web Applications.](https://dev.to/sfundomhlungu/the-web-has-threads-building-super-charged-parallel-web-applications-3f33)
-- [Dev.to/JS] [Mastering Server Components in React 18! Achieve the Optimal Balance Between Client and Server](https://dev.to/yanagisawahidetoshi/mastering-server-components-in-react-18-achieve-the-optimal-balance-between-client-and-server-11pa)
 - [Lifehacker] [The Most Effective Ways to Prevent Clogs in Low-Flow Toilets &lpar;and Why They&#39;re So Common&rpar;](https://lifehacker.com/the-most-effective-ways-to-prevent-clogs-in-low-flow-to-1850706078)
 - [Lifehacker] [The Easiest Way to Guess How Much Weight a Floating Shelf Can Hold](https://lifehacker.com/the-easiest-way-to-guess-how-much-weight-a-floating-she-1850706102)
 - [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)
