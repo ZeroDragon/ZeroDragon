@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Web Has Threads? Building Super-Charged Parallel Web Applications.](https://dev.to/sfundomhlungu/the-web-has-threads-building-super-charged-parallel-web-applications-3f33)
+- [Dev.to/JS] [Mastering Server Components in React 18! Achieve the Optimal Balance Between Client and Server](https://dev.to/yanagisawahidetoshi/mastering-server-components-in-react-18-achieve-the-optimal-balance-between-client-and-server-11pa)
+- [Dev.to/JS] [Custom cursor in next js](https://dev.to/preetsuthar17/custom-cursor-in-next-js-4l0c)
 - [Dev.to/JS] [Underrated React Hook - useSyncExternalStore](https://dev.to/brainiacneit/underrated-react-hook-usesyncexternalstore-h8h)
 - [Dev.to/JS] [110% revenue growth &amp; Reduced cost WITHOUT CODING](https://dev.to/aiforme/110-revenue-growth-reduced-cost-without-coding-1ifp)
 - [Dev.to/JS] [I used Node.js to OCR &quot;Meme Monday&quot; threads](https://dev.to/ironcladdev/i-used-nodejs-to-ocr-meme-monday-threads-23o0)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Authentic Websites to Generate Stunning Favicons for Your Next.js or React Project](https://dev.to/mrpaulishaili/5-authentic-websites-to-generate-stunning-favicons-for-your-nextjs-or-react-project-5eif)
 - [Dev.to/JS] [Build Your Own CLI App in 5 Minutes &lpar;ClackJS + Node + NPM Tutorial&rpar;](https://dev.to/therubberduckiee/build-your-own-cli-app-in-5-minutes-clackjs-node-npm-tutorial-4nkl)
 - [Dev.to/JS] [Mastering Flexible Component Design in React with the Compound Components Pattern](https://dev.to/yanagisawahidetoshi/mastering-flexible-component-design-in-react-with-the-compound-components-pattern-n96)
-- [Dev.to/JS] [Identify Bottlenecks in Your React App! An Introduction to Performance Analysis with React Profiler API](https://dev.to/yanagisawahidetoshi/identify-bottlenecks-in-your-react-app-an-introduction-to-performance-analysis-with-react-profiler-api-4fk4)
-- [Dev.to/JS] [Data Structures - Part 1: Everything You Need to Know About Arrays](https://dev.to/burakboduroglu/data-structures-part-1-everything-you-need-to-know-about-arrays-5d8h)
-- [Dev.to/JS] [How to Write and Publish Your First JavaScript Library](https://dev.to/oluwaferanmi/how-to-write-and-publish-your-first-javascript-library-cei)
 - [Lifehacker] [The Most Effective Ways to Prevent Clogs in Low-Flow Toilets &lpar;and Why They&#39;re So Common&rpar;](https://lifehacker.com/the-most-effective-ways-to-prevent-clogs-in-low-flow-to-1850706078)
 - [Lifehacker] [The Easiest Way to Guess How Much Weight a Floating Shelf Can Hold](https://lifehacker.com/the-easiest-way-to-guess-how-much-weight-a-floating-she-1850706102)
 - [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)
