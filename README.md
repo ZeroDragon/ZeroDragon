@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Way to Clean Mold From Wood Furniture](https://lifehacker.com/the-best-way-to-clean-mold-from-wood-furniture-1850705838)
 - [Dev.to/JS] [Boost Your Productivity: 3 Hacks for Efficient React JS Development](https://dev.to/bilal1718/boost-your-productivity-3-hacks-for-efficient-react-js-development-190d)
 - [Dev.to/JS] [The Comprehensive Guide to the Vital Role of Code Documentation in Software Development](https://dev.to/idurar/the-comprehensive-guide-to-the-vital-role-of-code-documentation-in-software-development-1i0l)
 - [Lifehacker] [Why You Shouldn&#39;t Use Garden Soil for Plants in Outdoor Containers](https://lifehacker.com/why-you-shouldnt-use-garden-soil-for-plants-in-outdoor-1850705876)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [TikTok Myth of the Week: There&#39;s Plastic on Your Lettuce](https://lifehacker.com/tiktok-myth-of-the-week-theres-plastic-on-your-lettuce-1850706061)
 - [Lifehacker] [The Best Paramount+ Shows You Should Be Watching](https://lifehacker.com/15-paramount-originals-you-arent-watching-but-should-b-1847635890)
 - [Lifehacker] [You Can Make Boring Glass Look Like Sea Glass](https://lifehacker.com/you-can-make-boring-glass-look-like-sea-glass-1850706130)
-- [Lifehacker] [This 2018 Mac mini Is 37% Off Right Now](https://lifehacker.com/this-2018-mac-mini-is-37-off-right-now-1850697878)
-- [Lifehacker] [Put Some Olives in Your Crappy Beer](https://lifehacker.com/put-some-olives-in-your-crappy-beer-1850705556)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This 2018 Mac mini Is 37% Off Right Now](https://lifehacker.com/this-2018-mac-mini-is-37-off-right-now-1850697878)<!-- TECH-POSTS:END -->
 
 ---
 
