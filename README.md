@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Complete 2023 Developer Setup](https://dev.to/treasuredev_/the-complete-2023-developer-setup-2oia)
+- [Dev.to/JS] [Make your git log look better using a single command](https://dev.to/imevanc/make-your-git-log-look-better-using-a-single-command-18gj)
+- [Dev.to/JS] [Empowering Digital Commerce: Unleashing the Potential of ES6 Classes in JavaScript](https://dev.to/jacknorman235/empowering-digital-commerce-unleashing-the-potential-of-es6-classes-in-javascript-kld)
 - [Dev.to/JS] [Let&#39;s Create a Frontend Currency Application with Javascript Multithreading/Web Workers](https://dev.to/renancferro/lets-create-a-frontend-crypto-application-with-javascript-multithreadingweb-workers-25p8)
 - [Dev.to/JS] [Dominoes and GitHub](https://dev.to/giova1995/dominoes-and-github-m2m)
 - [Dev.to/JS] [Creating multi-purpose reactive forms with Angular](https://dev.to/blugreenspace/creating-multi-purpose-reactive-forms-with-angular-47ka)
@@ -38,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Shouldn&#39;t Use Garden Soil for Plants in Outdoor Containers](https://lifehacker.com/why-you-shouldnt-use-garden-soil-for-plants-in-outdoor-1850705876)
 - [Dev.to/JS] [React/Vite Starter with TypeScript](https://dev.to/hardikgohilhlr/reactvite-starter-with-typescript-585o)
 - [Dev.to/JS] [Generators in the wild](https://dev.to/duskpoet/generators-in-the-wild-g5d)
-- [Dev.to/JS] [dropdown arrows, css](https://dev.to/bloxy_aaron/dropdown-arrows-css-4o86)
-- [Dev.to/JS] [🔁 Importance of &quot;continue&quot; in Solving String Reversal with Vowels 🔁](https://dev.to/kaushit/importance-of-continue-in-solving-string-reversal-with-vowels-15lm)
-- [Dev.to/JS] [Implementing a Queue Data Structure using Two Stacks in JavaScript :rocket:](https://dev.to/vikas2426/implementing-a-queue-data-structure-using-two-stacks-in-javascript-rocket-1pbn)
 - [Lifehacker] [The Most Effective Ways to Prevent Clogs in Low-Flow Toilets &lpar;and Why They&#39;re So Common&rpar;](https://lifehacker.com/the-most-effective-ways-to-prevent-clogs-in-low-flow-to-1850706078)
 - [Lifehacker] [The Easiest Way to Guess How Much Weight a Floating Shelf Can Hold](https://lifehacker.com/the-easiest-way-to-guess-how-much-weight-a-floating-she-1850706102)
 - [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)
