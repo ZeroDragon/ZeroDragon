@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I used Node.js to OCR &quot;Meme Monday&quot; threads](https://dev.to/ironcladdev/i-used-nodejs-to-ocr-meme-monday-threads-23o0)
+- [Dev.to/JS] [Mastering JavaScript Shorthand Techniques: Write Code Faster and Cleaner Part 1](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-write-code-faster-and-cleaner-part-1-39g6)
 - [Dev.to/JS] [:&lpar;colons&rpar;, =&lpar;equals&rpar; and ;&lpar;semicolons&rpar; in Javascript &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/colons-equals-and-semicolons-in-javascript-bite-size-article-1bk2)
 - [Dev.to/JS] [Unleashing the 🦄 Power of checkValidity&lpar;&rpar; Method: Keeping Web Forms in Check! 😎](https://dev.to/_afroprogrammer/unleashing-the-power-of-checkvalidity-method-keeping-web-forms-in-check-50ma)
 - [Dev.to/JS] [5 Authentic Websites to Generate Stunning Favicons for Your Next.js or React Project](https://dev.to/mrpaulishaili/5-authentic-websites-to-generate-stunning-favicons-for-your-nextjs-or-react-project-5eif)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Write and Publish Your First JavaScript Library](https://dev.to/oluwaferanmi/how-to-write-and-publish-your-first-javascript-library-cei)
 - [Dev.to/JS] [Master typescript types in 7 minutes.](https://dev.to/khaledhosseini/master-typescript-types-in-7-minutes-4pnd)
 - [Dev.to/JS] [Judge whether the usage of capitals in it is right or not](https://dev.to/chandrapenugonda/judge-whether-the-usage-of-capitals-in-it-is-right-or-not-4504)
-- [Dev.to/JS] [Length of the longest substring without repeating characters](https://dev.to/chandrapenugonda/length-of-the-longest-substring-without-repeating-characters-34g3)
 - [Lifehacker] [The Most Effective Ways to Prevent Clogs in Low-Flow Toilets &lpar;and Why They&#39;re So Common&rpar;](https://lifehacker.com/the-most-effective-ways-to-prevent-clogs-in-low-flow-to-1850706078)
-- [Dev.to/JS] [Unleashing the Power of useEffect](https://dev.to/capwellmurimi/unleashing-the-power-of-useeffect-3b2p)
 - [Lifehacker] [The Easiest Way to Guess How Much Weight a Floating Shelf Can Hold](https://lifehacker.com/the-easiest-way-to-guess-how-much-weight-a-floating-she-1850706102)
 - [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)
 - [Lifehacker] [How to Air Fry Without Directions](https://lifehacker.com/how-to-air-fry-without-directions-1850707924)
