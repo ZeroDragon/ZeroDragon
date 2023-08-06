@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Boost Your Productivity: 3 Hacks for Efficient React JS Development](https://dev.to/bilal1718/boost-your-productivity-3-hacks-for-efficient-react-js-development-190d)
+- [Dev.to/JS] [The Comprehensive Guide to the Vital Role of Code Documentation in Software Development](https://dev.to/idurar/the-comprehensive-guide-to-the-vital-role-of-code-documentation-in-software-development-1i0l)
 - [Lifehacker] [Why You Shouldn&#39;t Use Garden Soil for Plants in Outdoor Containers](https://lifehacker.com/why-you-shouldnt-use-garden-soil-for-plants-in-outdoor-1850705876)
+- [Dev.to/JS] [React/Vite Starter with TypeScript](https://dev.to/hardikgohilhlr/reactvite-starter-with-typescript-585o)
 - [Dev.to/JS] [Generators in the wild](https://dev.to/duskpoet/generators-in-the-wild-g5d)
 - [Dev.to/JS] [dropdown arrows, css](https://dev.to/bloxy_aaron/dropdown-arrows-css-4o86)
 - [Dev.to/JS] [🔁 Importance of &quot;continue&quot; in Solving String Reversal with Vowels 🔁](https://dev.to/kaushit/importance-of-continue-in-solving-string-reversal-with-vowels-15lm)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Making the case for Skooma](https://dev.to/darkwiiplayer/making-the-case-for-skooma-4n70)
 - [Dev.to/JS] [Demystifying Angular CLI: A Comprehensive Guide for Beginners](https://dev.to/aymenmissaouii/demystifying-angular-cli-a-comprehensive-guide-for-beginners-15n4)
 - [Dev.to/JS] [Angular Pipes: Simplifying Data Transformations in Your Templates](https://dev.to/aymenmissaouii/angular-pipes-simplifying-data-transformations-in-your-templates-1i2h)
-- [Dev.to/JS] [9 Open-Source Libraries To Boost Your Coding Skills With Real Projects](https://dev.to/rahul3002/9-open-source-libraries-to-boost-your-coding-skills-with-real-projects-2lbn)
-- [Dev.to/JS] [JWT Token Authentication in Angular 14 and the .NET Core 6 Web API](https://dev.to/jaydeep007/jwt-token-authentication-in-angular-14-and-the-net-core-6-web-api-1pfg)
-- [Dev.to/JS] [Revolutionizing UI Development: The Story Behind React&#39;s Creation](https://dev.to/fadhilradh/the-reason-why-react-was-created-in-the-first-place-4125)
 - [Lifehacker] [The Most Effective Ways to Prevent Clogs in Low-Flow Toilets &lpar;and Why They&#39;re So Common&rpar;](https://lifehacker.com/the-most-effective-ways-to-prevent-clogs-in-low-flow-to-1850706078)
 - [Lifehacker] [The Easiest Way to Guess How Much Weight a Floating Shelf Can Hold](https://lifehacker.com/the-easiest-way-to-guess-how-much-weight-a-floating-she-1850706102)
 - [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)
