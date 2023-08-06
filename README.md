@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let&#39;s Create a Frontend Currency Application with Javascript Multithreading/Web Workers](https://dev.to/renancferro/lets-create-a-frontend-crypto-application-with-javascript-multithreadingweb-workers-25p8)
+- [Dev.to/JS] [Dominoes and GitHub](https://dev.to/giova1995/dominoes-and-github-m2m)
+- [Dev.to/JS] [Creating multi-purpose reactive forms with Angular](https://dev.to/blugreenspace/creating-multi-purpose-reactive-forms-with-angular-47ka)
+- [Lifehacker] [Ask Yourself These Questions Before Going Back to School](https://lifehacker.com/ask-yourself-these-questions-before-going-back-to-schoo-1850705671)
 - [Dev.to/JS] [Understanding Web Components and It&#39;s Implementation Without Frameworks](https://dev.to/berlikaliku/understanding-web-components-and-its-implementation-without-frameworks-58cp)
 - [Dev.to/JS] [File Validation in React with Formik and Yup](https://dev.to/olabisi09/file-validation-in-react-with-formik-and-yup-48e6)
 - [Lifehacker] [The Best Way to Clean Mold From Wood Furniture](https://lifehacker.com/the-best-way-to-clean-mold-from-wood-furniture-1850705838)
@@ -37,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [dropdown arrows, css](https://dev.to/bloxy_aaron/dropdown-arrows-css-4o86)
 - [Dev.to/JS] [🔁 Importance of &quot;continue&quot; in Solving String Reversal with Vowels 🔁](https://dev.to/kaushit/importance-of-continue-in-solving-string-reversal-with-vowels-15lm)
 - [Dev.to/JS] [Implementing a Queue Data Structure using Two Stacks in JavaScript :rocket:](https://dev.to/vikas2426/implementing-a-queue-data-structure-using-two-stacks-in-javascript-rocket-1pbn)
-- [Dev.to/JS] [🕒 How Long Ago? A TimeAgo Component in React ⏳](https://dev.to/bansalgokul/how-long-ago-a-timeago-component-in-react-586i)
-- [Dev.to/JS] [How to Create Responsive Web Design with CSS](https://dev.to/jai7503556364/how-to-create-responsive-web-design-with-css-3kbe)
-- [Dev.to/JS] [Making the case for Skooma](https://dev.to/darkwiiplayer/making-the-case-for-skooma-4n70)
 - [Lifehacker] [The Most Effective Ways to Prevent Clogs in Low-Flow Toilets &lpar;and Why They&#39;re So Common&rpar;](https://lifehacker.com/the-most-effective-ways-to-prevent-clogs-in-low-flow-to-1850706078)
 - [Lifehacker] [The Easiest Way to Guess How Much Weight a Floating Shelf Can Hold](https://lifehacker.com/the-easiest-way-to-guess-how-much-weight-a-floating-she-1850706102)
 - [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Did Lizzo Do, Anyway?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-did-1850706205)
 - [Lifehacker] [TikTok Myth of the Week: There&#39;s Plastic on Your Lettuce](https://lifehacker.com/tiktok-myth-of-the-week-theres-plastic-on-your-lettuce-1850706061)
 - [Lifehacker] [The Best Paramount+ Shows You Should Be Watching](https://lifehacker.com/15-paramount-originals-you-arent-watching-but-should-b-1847635890)
-- [Lifehacker] [You Can Make Boring Glass Look Like Sea Glass](https://lifehacker.com/you-can-make-boring-glass-look-like-sea-glass-1850706130)
-- [Lifehacker] [This 2018 Mac mini Is 37% Off Right Now](https://lifehacker.com/this-2018-mac-mini-is-37-off-right-now-1850697878)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Make Boring Glass Look Like Sea Glass](https://lifehacker.com/you-can-make-boring-glass-look-like-sea-glass-1850706130)<!-- TECH-POSTS:END -->
 
 ---
 
