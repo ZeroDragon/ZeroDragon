@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Callbacks vs. Promises vs. async/await: Choosing the Right Approach](https://dev.to/imshashwat001/javascript-callbacks-vs-promises-vs-asyncawait-choosing-the-right-approach-3e4c)
+- [Dev.to/JS] [Understanding Linux Permissions: A Comprehensive Guide](https://dev.to/iamcymentho/understanding-linux-permissions-a-comprehensive-guide-3k1c)
+- [Dev.to/JS] [La Ascensión Sin Precedentes de Chat GPT: Desatando la Próxima Revolución en la IA](https://dev.to/synkronus/la-ascension-sin-precedentes-de-chat-gpt-desatando-la-proxima-revolucion-en-la-ia-5flk)
+- [Lifehacker] [Stay Motivated at Work With an Accomplishment Journal](https://lifehacker.com/stay-motivated-at-work-with-an-accomplishment-journal-1850713034)
 - [Lifehacker] [Let Google Check Your Grammar For You](https://lifehacker.com/let-google-check-your-grammar-for-you-1850712771)
 - [Dev.to/JS] [JS Challenge: Reverse the characters of each word in a string](https://dev.to/jlogix/js-challenge-reverse-the-characters-of-each-word-in-a-string-ofm)
 - [Dev.to/JS] [Execution context](https://dev.to/diaaibrahiem/execution-context-2gn7)
@@ -42,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Need to Keep Your Patio Cool and Pest-Free](https://lifehacker.com/everything-you-need-to-keep-your-patio-cool-and-pest-fr-1850712249)
 - [Dev.to/JS] [Série React Hooks: useRef](https://dev.to/taisesoares/serie-react-hooks-useref-2mjl)
 - [Lifehacker] [Check Out These Sex-Positive Resorts](https://lifehacker.com/check-out-these-sex-positive-resorts-1850709373)
-- [Dev.to/JS] [RESTful API with NodeJS &lpar;ExpressJS&rpar;](https://dev.to/orekihoutaro/restful-api-with-nodejs-expressjs-1gde)
-- [Dev.to/JS] [Exploring DO Notation in JS](https://dev.to/tracygjg/exploring-do-notation-in-js-5df2)
 - [Lifehacker] [How to Feel Less Insecure About Your Parenting](https://lifehacker.com/how-to-feel-less-insecure-about-your-parenting-1850709145)
-- [Dev.to/JS] [Lifting Off with Astro 🚀](https://dev.to/remotesynth/lifting-off-with-astro-4omm)
 - [Lifehacker] [Do This Mid-Year Financial Checkup Right Now](https://lifehacker.com/do-this-mid-year-financial-checkup-right-now-1850707771)
 - [Lifehacker] [Ask Yourself These Questions Before Going Back to School](https://lifehacker.com/ask-yourself-these-questions-before-going-back-to-schoo-1850705671)
 - [Lifehacker] [The Best Way to Clean Mold From Wood Furniture](https://lifehacker.com/the-best-way-to-clean-mold-from-wood-furniture-1850705838)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the &#39;Goldilocks Window&#39; for Booking Your Winter Flights](https://lifehacker.com/this-is-the-goldilocks-window-for-booking-your-winter-f-1850707477)
 - [Lifehacker] [Here&#39;s How Much Protein You Really Need](https://lifehacker.com/heres-how-much-protein-you-really-need-1830878049)
 - [Lifehacker] [The Gear You Need to Make Camping With Your Dog a Lot Easier](https://lifehacker.com/the-gear-you-need-to-make-camping-with-your-dog-a-lot-e-1850705453)
-- [Lifehacker] [Deglosser Is a Superior Alternative to Sandpaper When You&#39;re Refinishing Furniture](https://lifehacker.com/deglosser-is-a-superior-alternative-to-sandpaper-when-y-1850705841)
-- [Lifehacker] [The Easiest Way to Prevent a Soggy Sandwich](https://lifehacker.com/make-sandwiches-on-frozen-bread-to-stave-off-sogginess-1803757453)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Deglosser Is a Superior Alternative to Sandpaper When You&#39;re Refinishing Furniture](https://lifehacker.com/deglosser-is-a-superior-alternative-to-sandpaper-when-y-1850705841)<!-- TECH-POSTS:END -->
 
 ---
 
