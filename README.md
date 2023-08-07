@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Is Zoom Really Using Your Video Calls to Train AI?](https://lifehacker.com/is-zoom-really-using-your-video-calls-to-train-ai-1850713532)
+- [Lifehacker] [Give Your French Toast the Crème Brûlée Treatment](https://lifehacker.com/give-your-french-toast-the-creme-brulee-treatment-1850714543)
+- [Lifehacker] [How One Late Student Loan Payment Can Affect You](https://lifehacker.com/how-one-late-student-loan-payment-affects-you-1326216867)
+- [Lifehacker] [Check Out What’s Happening in Space This Month](https://lifehacker.com/check-out-what-s-happening-in-space-this-month-1850714259)
 - [Dev.to/JS] [How to create beautiful view transitions in Nuxt using the new View Transitions API](https://dev.to/michalkuncio/how-to-create-beautiful-view-transitions-in-nuxt-using-the-new-view-transitions-api-1pph)
 - [Lifehacker] [The PlayStation 5 Is the Cheapest It&#39;s Ever Been](https://lifehacker.com/the-playstation-5-is-the-cheapest-its-ever-been-1850713369)
 - [Lifehacker] [Your Breakfast Sandwich Needs Pickles](https://lifehacker.com/your-breakfast-sandwich-needs-pickles-1832962615)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Guess How Much Weight a Floating Shelf Can Hold](https://lifehacker.com/the-easiest-way-to-guess-how-much-weight-a-floating-she-1850706102)
 - [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)
 - [Lifehacker] [How to Air Fry Without Directions](https://lifehacker.com/how-to-air-fry-without-directions-1850707924)
-- [Lifehacker] [Shortwave Is the Spiritual Successor to Google’s Inbox](https://lifehacker.com/shortwave-is-the-spiritual-successor-to-google-s-inbox-1850707721)
-- [Lifehacker] [You Can Get Wordela&#39;s English Vocabulary Builder for $40 Right Now](https://lifehacker.com/you-can-get-wordelas-english-vocabulary-builder-for-40-1850697814)
-- [Lifehacker] [Find Cheap or Free College Textbooks With These Online Resources](https://lifehacker.com/these-online-resources-will-help-you-find-free-college-1849372320)
-- [Lifehacker] [Why You Don&#39;t Need to Refrigerate Peanut Butter](https://lifehacker.com/why-you-dont-need-to-refrigerate-peanut-butter-1850708209)
-- [Lifehacker] [You Can Get All-You-Can-Eat Pancakes for $5 at IHOP This Month](https://lifehacker.com/you-can-get-all-you-can-eat-pancakes-for-5-at-ihop-thi-1850708442)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Shortwave Is the Spiritual Successor to Google’s Inbox](https://lifehacker.com/shortwave-is-the-spiritual-successor-to-google-s-inbox-1850707721)<!-- TECH-POSTS:END -->
 
 ---
 
