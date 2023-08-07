@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring Mirage JS: Simplifying API Mocking in React Development](https://dev.to/bilal1718/exploring-mirage-js-simplifying-api-mocking-in-react-development-5cld)
+- [Dev.to/JS] [5 Must-Have Google Chrome Extensions for Developers](https://dev.to/amarondev/5-must-have-google-chrome-extensions-for-developers-3kie)
 - [Dev.to/JS] [Real-Time Market Data: Empowering Investors with Timely Insights](https://dev.to/meenal_01/real-time-market-data-empowering-investors-with-timely-insights-5cf4)
 - [Dev.to/JS] [Gestión del estado de una SPA con BLoC](https://dev.to/raguilera82/gestion-del-estado-de-una-spa-con-bloc-5b07)
 - [Dev.to/JS] [Hidden Gems: Lesser-Known Features in JavaScript](https://dev.to/josunlp/hidden-gems-lesser-known-features-in-javascript-352j)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Join a Free Web3 Bootcamp and Build a Next Generation dApp!](https://dev.to/seb_icp/join-a-free-web3-bootcamp-and-build-a-next-generation-dapp-1hm)
 - [Dev.to/JS] [5 Javascript coding interview questions - Part 2](https://dev.to/saqibjamil7866/5-javascript-coding-interview-questions-part-2-5h1m)
 - [Dev.to/JS] [Architecting Custom State Management in React](https://dev.to/basavarajrp/architecting-custom-state-management-in-react-14ic)
-- [Dev.to/JS] [Implementing OAuth in Nuxt with Supabase](https://dev.to/jacobandrewsky/implementing-oauth-in-nuxt-with-supabase-4p1k)
-- [Dev.to/JS] [5 Javascript coding interview questions - Part 1](https://dev.to/saqibjamil7866/5-javascript-coding-interview-questions-part-1-2c4c)
 - [Lifehacker] [Ask Yourself These Questions Before Going Back to School](https://lifehacker.com/ask-yourself-these-questions-before-going-back-to-schoo-1850705671)
 - [Lifehacker] [The Best Way to Clean Mold From Wood Furniture](https://lifehacker.com/the-best-way-to-clean-mold-from-wood-furniture-1850705838)
 - [Lifehacker] [Why You Shouldn&#39;t Use Garden Soil for Plants in Outdoor Containers](https://lifehacker.com/why-you-shouldnt-use-garden-soil-for-plants-in-outdoor-1850705876)
