@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Elopement Photography Packages](https://dev.to/jimmy12334dev/elopement-photography-packages-4b2a)
+- [Dev.to/JS] [Creating a Mixpanel Plugin with Fastify](https://dev.to/thethiago27/creating-a-mixpanel-plugin-with-fastify-59h4)
 - [Lifehacker] [These Books Can Help You Become a More Effective Leader at Work](https://lifehacker.com/these-books-can-help-you-become-a-more-effective-leader-1850713275)
 - [Lifehacker] [How to Prep, Store, and Cook With Hatch Chile Peppers](https://lifehacker.com/how-to-prep-store-and-cook-with-hatch-chile-peppers-1850706612)
 - [Lifehacker] [The Best Ways to Use Up Old Spices](https://lifehacker.com/the-best-ways-to-use-up-old-spices-1849423616)
@@ -52,10 +54,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Save Soft, Melted Pie Dough With a Bag of Frozen Vegetables](https://lifehacker.com/save-soft-melted-pie-dough-with-a-bag-of-frozen-vegeta-1850712930)
 - [Dev.to/JS] [JavaScript Callbacks vs. Promises vs. async/await: Choosing the Right Approach](https://dev.to/imshashwat001/javascript-callbacks-vs-promises-vs-asyncawait-choosing-the-right-approach-3e4c)
 - [Dev.to/JS] [Understanding Linux Permissions: A Comprehensive Guide](https://dev.to/iamcymentho/understanding-linux-permissions-a-comprehensive-guide-3k1c)
-- [Dev.to/JS] [La Ascensión Sin Precedentes de Chat GPT: Desatando la Próxima Revolución en la IA](https://dev.to/synkronus/la-ascension-sin-precedentes-de-chat-gpt-desatando-la-proxima-revolucion-en-la-ia-5flk)
 - [Lifehacker] [Stay Motivated at Work With an Accomplishment Journal](https://lifehacker.com/stay-motivated-at-work-with-an-accomplishment-journal-1850713034)
 - [Lifehacker] [Let Google Check Your Grammar For You](https://lifehacker.com/let-google-check-your-grammar-for-you-1850712771)
-- [Dev.to/JS] [JS Challenge: Reverse the characters of each word in a string](https://dev.to/jlogix/js-challenge-reverse-the-characters-of-each-word-in-a-string-ofm)
 - [Lifehacker] [This Chrome Extension Searches Every Airline Booking Site for the Cheapest Flights](https://lifehacker.com/this-chrome-extension-searches-every-airline-booking-si-1850709238)
 - [Lifehacker] [What You Need to Know About Thematic Investing](https://lifehacker.com/what-you-need-to-know-about-thematic-investing-1850712725)
 - [Lifehacker] [Prepare Your Porch for Winter Now](https://lifehacker.com/prepare-your-porch-for-winter-now-1850712123)
