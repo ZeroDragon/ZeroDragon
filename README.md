@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create beautiful view transitions in Nuxt using the new View Transitions API](https://dev.to/michalkuncio/how-to-create-beautiful-view-transitions-in-nuxt-using-the-new-view-transitions-api-1pph)
+- [Lifehacker] [The PlayStation 5 Is the Cheapest It&#39;s Ever Been](https://lifehacker.com/the-playstation-5-is-the-cheapest-its-ever-been-1850713369)
+- [Lifehacker] [Your Breakfast Sandwich Needs Pickles](https://lifehacker.com/your-breakfast-sandwich-needs-pickles-1832962615)
+- [Lifehacker] [You Can Finally Fix Your Broken Xbox Controllers Yourself](https://lifehacker.com/you-can-finally-fix-your-broken-xbox-controllers-yourse-1850712461)
+- [Dev.to/JS] [Enhance your TypeScript with Type Guards](https://dev.to/brainiacneit/enhance-your-typescript-with-type-guards-1f2h)
 - [Dev.to/JS] [Emoji string lengths](https://dev.to/jericirenej/emoji-string-lengths-4pak)
 - [Dev.to/JS] [I&#39;m joining Astro full time!](https://dev.to/eliancodes/im-joining-astro-full-time-103l)
 - [Lifehacker] [Get Two Pairs of Wireless Earbuds With a Phone-Charging Case for $40](https://lifehacker.com/get-two-pairs-of-wireless-earbuds-with-a-phone-charging-1850702087)
@@ -44,9 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Prepare Your Porch for Winter Now](https://lifehacker.com/prepare-your-porch-for-winter-now-1850712123)
 - [Dev.to/JS] [Creating a chat application like messenger with node js](https://dev.to/rishikesh00760/creating-a-chat-application-like-messenger-with-node-js-3f7e)
 - [Dev.to/JS] [Joi in Node.js: A Comprehensive Guide for High-Performance Web Applications](https://dev.to/ikamran01/joi-in-nodejs-a-comprehensive-guide-for-high-performance-web-applications-2591)
-- [Dev.to/JS] [On-Click Lazy Load YouTube Video Iframe in React](https://dev.to/robmarshall/on-click-lazy-load-youtube-video-iframe-in-react-10en)
 - [Lifehacker] [You Can Get a Sam’s Club Membership for 50% Off Right Now](https://lifehacker.com/you-can-get-a-sam-s-club-membership-for-50-off-right-n-1850702110)
-- [Dev.to/JS] [All-in-One Monetization Solution NO CODE](https://dev.to/aiforme/all-in-one-monetization-solution-no-code-1o0j)
 - [Lifehacker] [Everything You Need to Keep Your Patio Cool and Pest-Free](https://lifehacker.com/everything-you-need-to-keep-your-patio-cool-and-pest-fr-1850712249)
 - [Lifehacker] [Check Out These Sex-Positive Resorts](https://lifehacker.com/check-out-these-sex-positive-resorts-1850709373)
 - [Lifehacker] [How to Feel Less Insecure About Your Parenting](https://lifehacker.com/how-to-feel-less-insecure-about-your-parenting-1850709145)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Wordela&#39;s English Vocabulary Builder for $40 Right Now](https://lifehacker.com/you-can-get-wordelas-english-vocabulary-builder-for-40-1850697814)
 - [Lifehacker] [Find Cheap or Free College Textbooks With These Online Resources](https://lifehacker.com/these-online-resources-will-help-you-find-free-college-1849372320)
 - [Lifehacker] [Why You Don&#39;t Need to Refrigerate Peanut Butter](https://lifehacker.com/why-you-dont-need-to-refrigerate-peanut-butter-1850708209)
-- [Lifehacker] [You Can Get All-You-Can-Eat Pancakes for $5 at IHOP This Month](https://lifehacker.com/you-can-get-all-you-can-eat-pancakes-for-5-at-ihop-thi-1850708442)
-- [Lifehacker] [TikTok’s ‘Overloading’ Trend Is a Crappy Way to Clean Your Toilet](https://lifehacker.com/tiktok-s-overloading-trend-is-a-crappy-way-to-clean-y-1849545412)
-- [Lifehacker] [This Mindfulness.com Subscription Is 40% Off Right Now](https://lifehacker.com/this-mindfulness-com-subscription-is-40-off-right-now-1850697909)
-- [Lifehacker] [This Is the &#39;Goldilocks Window&#39; for Booking Your Winter Flights](https://lifehacker.com/this-is-the-goldilocks-window-for-booking-your-winter-f-1850707477)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get All-You-Can-Eat Pancakes for $5 at IHOP This Month](https://lifehacker.com/you-can-get-all-you-can-eat-pancakes-for-5-at-ihop-thi-1850708442)<!-- TECH-POSTS:END -->
 
 ---
 
