@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DIV Class and CSS. A beginner explains.](https://dev.to/mrchr1stopher/div-class-and-css-a-beginner-explains-2f74)
+- [Dev.to/JS] [State Management in React Native: Comparing Redux, MobX, and Context API 🔄📱](https://dev.to/medaimane/state-management-in-react-native-comparing-redux-mobx-and-context-api-e5f)
+- [Dev.to/JS] [Send WhatsApp messages without adding contacts. Simple WA](https://dev.to/cperazal/send-whatsapp-messages-without-add-contacts-simple-wa-4llm)
 - [Dev.to/JS] [Longest palindromic substring in s](https://dev.to/chandrapenugonda/longest-palindromic-substring-in-s-2gj7)
 - [Dev.to/JS] [Mastering JavaScript Shorthand Techniques: Code Faster and Cleaner Part 2](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-code-faster-and-cleaner-part-2-4n2n)
 - [Dev.to/JS] [Typescript Utility Types](https://dev.to/kevin-uehara/typescript-utility-types-7nm)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The missing guide to understanding adapter-static in SvelteKit](https://dev.to/khromov/the-missing-guide-to-understanding-adapter-static-in-sveltekit-246)
 - [Dev.to/JS] [The Complete 2023 Developer Setup](https://dev.to/treasuredev_/the-complete-2023-developer-setup-2oia)
 - [Dev.to/JS] [Make your git log look better using a single command](https://dev.to/imevanc/make-your-git-log-look-better-using-a-single-command-18gj)
-- [Dev.to/JS] [Empowering Digital Commerce: Unleashing the Potential of ES6 Classes in JavaScript](https://dev.to/jacknorman235/empowering-digital-commerce-unleashing-the-potential-of-es6-classes-in-javascript-kld)
-- [Dev.to/JS] [Let&#39;s Create a Frontend Currency Application with Javascript Multithreading/Web Workers](https://dev.to/renancferro/lets-create-a-frontend-crypto-application-with-javascript-multithreadingweb-workers-25p8)
-- [Dev.to/JS] [Dominoes and GitHub](https://dev.to/giova1995/dominoes-and-github-m2m)
 - [Lifehacker] [Ask Yourself These Questions Before Going Back to School](https://lifehacker.com/ask-yourself-these-questions-before-going-back-to-schoo-1850705671)
 - [Lifehacker] [The Best Way to Clean Mold From Wood Furniture](https://lifehacker.com/the-best-way-to-clean-mold-from-wood-furniture-1850705838)
 - [Lifehacker] [Why You Shouldn&#39;t Use Garden Soil for Plants in Outdoor Containers](https://lifehacker.com/why-you-shouldnt-use-garden-soil-for-plants-in-outdoor-1850705876)
