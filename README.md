@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What You Need to Know About Thematic Investing](https://lifehacker.com/what-you-need-to-know-about-thematic-investing-1850712725)
+- [Lifehacker] [Prepare Your Porch for Winter Now](https://lifehacker.com/prepare-your-porch-for-winter-now-1850712123)
+- [Dev.to/JS] [Creating a chat application like messenger with node js](https://dev.to/rishikesh00760/creating-a-chat-application-like-messenger-with-node-js-3f7e)
+- [Dev.to/JS] [Joi in Node.js: A Comprehensive Guide for High-Performance Web Applications](https://dev.to/ikamran01/joi-in-nodejs-a-comprehensive-guide-for-high-performance-web-applications-2591)
+- [Dev.to/JS] [On-Click Lazy Load YouTube Video Iframe in React](https://dev.to/robmarshall/on-click-lazy-load-youtube-video-iframe-in-react-10en)
+- [Lifehacker] [You Can Get a Sam’s Club Membership for 50% Off Right Now](https://lifehacker.com/you-can-get-a-sam-s-club-membership-for-50-off-right-n-1850702110)
 - [Dev.to/JS] [All-in-One Monetization Solution NO CODE](https://dev.to/aiforme/all-in-one-monetization-solution-no-code-1o0j)
 - [Dev.to/JS] [Day 20: Event Loop](https://dev.to/dhrn/day-20-event-loop-3bd2)
 - [Lifehacker] [Everything You Need to Keep Your Patio Cool and Pest-Free](https://lifehacker.com/everything-you-need-to-keep-your-patio-cool-and-pest-fr-1850712249)
@@ -39,9 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Passer du C# au Typescript](https://dev.to/ryck/passer-du-c-au-typescript-3ie2)
 - [Dev.to/JS] [🪄✨Building a blog with a liking feature using React, Hanko and Novu 🔥](https://dev.to/novu/building-a-blog-with-a-liking-feature-using-react-hanko-and-novu-1m81)
 - [Lifehacker] [Do This Mid-Year Financial Checkup Right Now](https://lifehacker.com/do-this-mid-year-financial-checkup-right-now-1850707771)
-- [Dev.to/JS] [How to Create and Send Custom Emails using React Email and Resend API](https://dev.to/onlyoneerin/how-to-create-and-send-custom-emails-using-react-email-and-resend-api-4fc0)
-- [Dev.to/JS] [I Tried Creating An SPA With JavaScript and HTML 🤯](https://dev.to/saje/i-tried-creating-an-spa-with-javascript-and-html-562f)
-- [Dev.to/JS] [Exploring Mirage JS: Simplifying API Mocking in React Development](https://dev.to/bilal1718/exploring-mirage-js-simplifying-api-mocking-in-react-development-5cld)
 - [Lifehacker] [Ask Yourself These Questions Before Going Back to School](https://lifehacker.com/ask-yourself-these-questions-before-going-back-to-schoo-1850705671)
 - [Lifehacker] [The Best Way to Clean Mold From Wood Furniture](https://lifehacker.com/the-best-way-to-clean-mold-from-wood-furniture-1850705838)
 - [Lifehacker] [Why You Shouldn&#39;t Use Garden Soil for Plants in Outdoor Containers](https://lifehacker.com/why-you-shouldnt-use-garden-soil-for-plants-in-outdoor-1850705876)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Deglosser Is a Superior Alternative to Sandpaper When You&#39;re Refinishing Furniture](https://lifehacker.com/deglosser-is-a-superior-alternative-to-sandpaper-when-y-1850705841)
 - [Lifehacker] [The Easiest Way to Prevent a Soggy Sandwich](https://lifehacker.com/make-sandwiches-on-frozen-bread-to-stave-off-sogginess-1803757453)
 - [Lifehacker] [We&#39;re Finally Getting an RSV Vaccine for Babies](https://lifehacker.com/were-finally-getting-an-rsv-vaccine-for-babies-1850707968)
-- [Lifehacker] [Use Text Expanders to Email More Efficiently](https://lifehacker.com/use-text-expanders-to-email-more-efficiently-1850707411)
-- [Lifehacker] [How to Play Guitar Without Learning How to Play Guitar](https://lifehacker.com/how-to-play-guitar-without-learning-how-to-play-guitar-1848128835)
-- [Lifehacker] [You Already Have What You Need to Slice Meat Extra Thin](https://lifehacker.com/you-already-have-what-you-need-to-slice-meat-extra-thin-1850705332)
-- [Lifehacker] [The Best Online Platforms for Learning New Job Skills](https://lifehacker.com/the-best-online-platforms-for-learning-new-job-skills-1850707301)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use Text Expanders to Email More Efficiently](https://lifehacker.com/use-text-expanders-to-email-more-efficiently-1850707411)<!-- TECH-POSTS:END -->
 
 ---
 
