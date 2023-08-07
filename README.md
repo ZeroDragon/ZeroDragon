@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ethical and Documented AI with NO CODE](https://dev.to/aiforme/ethical-and-documented-ai-with-no-code-4639)
+- [Dev.to/JS] [Can HTTPS page requests HTTP api?](https://dev.to/sophister/can-https-page-requests-http-api-3p8)
+- [Dev.to/JS] [The Power of JavaScript Functions](https://dev.to/rahul3002/the-power-of-javascript-functions-2ldk)
 - [Dev.to/JS] [DIV Class and CSS. A beginner explains.](https://dev.to/mrchr1stopher/div-class-and-css-a-beginner-explains-2f74)
 - [Dev.to/JS] [State Management in React Native: Comparing Redux, MobX, and Context API 🔄📱](https://dev.to/medaimane/state-management-in-react-native-comparing-redux-mobx-and-context-api-e5f)
 - [Dev.to/JS] [Send WhatsApp messages without adding contacts. Simple WA](https://dev.to/cperazal/send-whatsapp-messages-without-add-contacts-simple-wa-4llm)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using HTML Bundler Plugin for Webpack to generate HTML files](https://dev.to/webdiscus/using-html-bundler-plugin-for-webpack-to-generate-html-files-30gd)
 - [Dev.to/JS] [Understanding Call Stack](https://dev.to/oswaldopineda/understanding-call-stack-3cap)
 - [Dev.to/JS] [React Custom Hook: useArray](https://dev.to/sergeyleschev/react-custom-hook-usearray-1ogp)
-- [Dev.to/JS] [The missing guide to understanding adapter-static in SvelteKit](https://dev.to/khromov/the-missing-guide-to-understanding-adapter-static-in-sveltekit-246)
-- [Dev.to/JS] [The Complete 2023 Developer Setup](https://dev.to/treasuredev_/the-complete-2023-developer-setup-2oia)
-- [Dev.to/JS] [Make your git log look better using a single command](https://dev.to/imevanc/make-your-git-log-look-better-using-a-single-command-18gj)
 - [Lifehacker] [Ask Yourself These Questions Before Going Back to School](https://lifehacker.com/ask-yourself-these-questions-before-going-back-to-schoo-1850705671)
 - [Lifehacker] [The Best Way to Clean Mold From Wood Furniture](https://lifehacker.com/the-best-way-to-clean-mold-from-wood-furniture-1850705838)
 - [Lifehacker] [Why You Shouldn&#39;t Use Garden Soil for Plants in Outdoor Containers](https://lifehacker.com/why-you-shouldnt-use-garden-soil-for-plants-in-outdoor-1850705876)
