@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [substring&lpar;&rpar; vs slice&lpar;&rpar; vs splice&lpar;&rpar;](https://dev.to/hardiksharma/substring-vs-slice-vs-splice-4dj7)
+- [Dev.to/JS] [Join a Free Web3 Bootcamp and Build a Next Generation dApp!](https://dev.to/seb_icp/join-a-free-web3-bootcamp-and-build-a-next-generation-dapp-1hm)
+- [Dev.to/JS] [5 Javascript coding interview questions - Part 2](https://dev.to/saqibjamil7866/5-javascript-coding-interview-questions-part-2-5h1m)
+- [Dev.to/JS] [Architecting Custom State Management in React](https://dev.to/basavarajrp/architecting-custom-state-management-in-react-14ic)
 - [Dev.to/JS] [Implementing OAuth in Nuxt with Supabase](https://dev.to/jacobandrewsky/implementing-oauth-in-nuxt-with-supabase-4p1k)
 - [Dev.to/JS] [5 Javascript coding interview questions - Part 1](https://dev.to/saqibjamil7866/5-javascript-coding-interview-questions-part-1-2c4c)
 - [Dev.to/JS] [The Evolution and Impact of Stock Trading APIs in the Financial World](https://dev.to/meenal_01/the-evolution-and-impact-of-stock-trading-apis-in-the-financial-world-jce)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Android Training in Chennai](https://dev.to/manikarnikam6/android-training-in-chennai-d12)
 - [Dev.to/JS] [Differentiating onclick and addEventListener in JavaScript](https://dev.to/brainiacneit/differentiating-onclick-and-addeventlistener-in-javascript-30ke)
 - [Dev.to/JS] [Ethical and Documented AI with NO CODE](https://dev.to/aiforme/ethical-and-documented-ai-with-no-code-4639)
-- [Dev.to/JS] [Can HTTPS page requests HTTP api?](https://dev.to/sophister/can-https-page-requests-http-api-3p8)
-- [Dev.to/JS] [The Power of JavaScript Functions](https://dev.to/rahul3002/the-power-of-javascript-functions-2ldk)
-- [Dev.to/JS] [DIV Class and CSS. A beginner explains.](https://dev.to/mrchr1stopher/div-class-and-css-a-beginner-explains-2f74)
-- [Dev.to/JS] [State Management in React Native: Comparing Redux, MobX, and Context API 🔄📱](https://dev.to/medaimane/state-management-in-react-native-comparing-redux-mobx-and-context-api-e5f)
 - [Lifehacker] [Ask Yourself These Questions Before Going Back to School](https://lifehacker.com/ask-yourself-these-questions-before-going-back-to-schoo-1850705671)
 - [Lifehacker] [The Best Way to Clean Mold From Wood Furniture](https://lifehacker.com/the-best-way-to-clean-mold-from-wood-furniture-1850705838)
 - [Lifehacker] [Why You Shouldn&#39;t Use Garden Soil for Plants in Outdoor Containers](https://lifehacker.com/why-you-shouldnt-use-garden-soil-for-plants-in-outdoor-1850705876)
