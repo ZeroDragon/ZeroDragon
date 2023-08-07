@@ -26,18 +26,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Check Out These Sex-Positive Resorts](https://lifehacker.com/check-out-these-sex-positive-resorts-1850709373)
+- [Dev.to/JS] [RESTful API with NodeJS &lpar;ExpressJS&rpar;](https://dev.to/orekihoutaro/restful-api-with-nodejs-expressjs-1gde)
+- [Dev.to/JS] [Exploring DO Notation in JS](https://dev.to/tracygjg/exploring-do-notation-in-js-5df2)
+- [Lifehacker] [How to Feel Less Insecure About Your Parenting](https://lifehacker.com/how-to-feel-less-insecure-about-your-parenting-1850709145)
+- [Dev.to/JS] [Lifting Off with Astro 🚀](https://dev.to/remotesynth/lifting-off-with-astro-4omm)
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, Aug 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-aug-2023-2f4o)
+- [Dev.to/JS] [Passer du C# au Typescript](https://dev.to/ryck/passer-du-c-au-typescript-3ie2)
+- [Dev.to/JS] [🪄✨Building a blog with a liking feature using React, Hanko and Novu 🔥](https://dev.to/novu/building-a-blog-with-a-liking-feature-using-react-hanko-and-novu-1m81)
+- [Lifehacker] [Do This Mid-Year Financial Checkup Right Now](https://lifehacker.com/do-this-mid-year-financial-checkup-right-now-1850707771)
 - [Dev.to/JS] [How to Create and Send Custom Emails using React Email and Resend API](https://dev.to/onlyoneerin/how-to-create-and-send-custom-emails-using-react-email-and-resend-api-4fc0)
 - [Dev.to/JS] [I Tried Creating An SPA With JavaScript and HTML 🤯](https://dev.to/saje/i-tried-creating-an-spa-with-javascript-and-html-562f)
 - [Dev.to/JS] [Exploring Mirage JS: Simplifying API Mocking in React Development](https://dev.to/bilal1718/exploring-mirage-js-simplifying-api-mocking-in-react-development-5cld)
 - [Dev.to/JS] [5 Must-Have Google Chrome Extensions for Developers](https://dev.to/amarondev/5-must-have-google-chrome-extensions-for-developers-3kie)
 - [Dev.to/JS] [Real-Time Market Data: Empowering Investors with Timely Insights](https://dev.to/meenal_01/real-time-market-data-empowering-investors-with-timely-insights-5cf4)
 - [Dev.to/JS] [Gestión del estado de una SPA con BLoC](https://dev.to/raguilera82/gestion-del-estado-de-una-spa-con-bloc-5b07)
-- [Dev.to/JS] [Hidden Gems: Lesser-Known Features in JavaScript](https://dev.to/josunlp/hidden-gems-lesser-known-features-in-javascript-352j)
-- [Dev.to/JS] [Replace bpmn-js and Let Frontend Developers Become More Familiar with Workflow Business In 2023🔥🔥🔥](https://dev.to/lawliet/replace-bpmn-js-and-let-frontend-developers-become-more-familiar-with-workflow-business-1jbb)
-- [Dev.to/JS] [Difference between sort&lpar;&rpar; and toSorted&lpar;&rpar;](https://dev.to/_sathikbasha/difference-between-sort-and-tosorted-3j7n)
-- [Dev.to/JS] [Multilingual SMS Translation Service built with Hapi, Nodejs and Javascript](https://dev.to/dhamolahedonist/multilingual-sms-translation-service-built-with-hapi-nodejs-and-javascript-1kbn)
-- [Dev.to/JS] [substring&lpar;&rpar; vs slice&lpar;&rpar; vs splice&lpar;&rpar;](https://dev.to/hardiksharma/substring-vs-slice-vs-splice-4dj7)
-- [Dev.to/JS] [Join a Free Web3 Bootcamp and Build a Next Generation dApp!](https://dev.to/seb_icp/join-a-free-web3-bootcamp-and-build-a-next-generation-dapp-1hm)
 - [Lifehacker] [Ask Yourself These Questions Before Going Back to School](https://lifehacker.com/ask-yourself-these-questions-before-going-back-to-schoo-1850705671)
 - [Lifehacker] [The Best Way to Clean Mold From Wood Furniture](https://lifehacker.com/the-best-way-to-clean-mold-from-wood-furniture-1850705838)
 - [Lifehacker] [Why You Shouldn&#39;t Use Garden Soil for Plants in Outdoor Containers](https://lifehacker.com/why-you-shouldnt-use-garden-soil-for-plants-in-outdoor-1850705876)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Play Guitar Without Learning How to Play Guitar](https://lifehacker.com/how-to-play-guitar-without-learning-how-to-play-guitar-1848128835)
 - [Lifehacker] [You Already Have What You Need to Slice Meat Extra Thin](https://lifehacker.com/you-already-have-what-you-need-to-slice-meat-extra-thin-1850705332)
 - [Lifehacker] [The Best Online Platforms for Learning New Job Skills](https://lifehacker.com/the-best-online-platforms-for-learning-new-job-skills-1850707301)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Did Lizzo Do, Anyway?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-did-1850706205)
-- [Lifehacker] [TikTok Myth of the Week: There&#39;s Plastic on Your Lettuce](https://lifehacker.com/tiktok-myth-of-the-week-theres-plastic-on-your-lettuce-1850706061)
-- [Lifehacker] [The Best Paramount+ Shows You Should Be Watching](https://lifehacker.com/15-paramount-originals-you-arent-watching-but-should-b-1847635890)
-- [Lifehacker] [You Can Make Boring Glass Look Like Sea Glass](https://lifehacker.com/you-can-make-boring-glass-look-like-sea-glass-1850706130)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What Did Lizzo Do, Anyway?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-did-1850706205)<!-- TECH-POSTS:END -->
 
 ---
 
