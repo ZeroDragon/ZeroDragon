@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Books Can Help You Become a More Effective Leader at Work](https://lifehacker.com/these-books-can-help-you-become-a-more-effective-leader-1850713275)
+- [Lifehacker] [How to Prep, Store, and Cook With Hatch Chile Peppers](https://lifehacker.com/how-to-prep-store-and-cook-with-hatch-chile-peppers-1850706612)
+- [Lifehacker] [The Best Ways to Use Up Old Spices](https://lifehacker.com/the-best-ways-to-use-up-old-spices-1849423616)
+- [Dev.to/JS] [React Custom Hook: useAsync](https://dev.to/sergeyleschev/react-custom-hook-useasync-2fk9)
+- [Lifehacker] [You Should Probably Stop Watching Home Improvement Shows](https://lifehacker.com/you-should-probably-stop-watching-home-improvement-show-1850713364)
 - [Dev.to/JS] [How to use React Query and How to fix minor issues from that?](https://dev.to/jaelynlee/how-to-use-react-query-and-how-to-fix-minor-issues-from-that-3l87)
 - [Lifehacker] [The Best Way to Compost if You Don&#39;t Want to Compost](https://lifehacker.com/the-best-way-to-compost-if-you-dont-want-to-compost-1850714526)
 - [Dev.to/JS] [Essential Cypress Plugins I Can&#39;t Live Without](https://dev.to/samelawrence/essential-cypress-plugins-i-cant-live-without-g6b)
@@ -51,7 +56,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stay Motivated at Work With an Accomplishment Journal](https://lifehacker.com/stay-motivated-at-work-with-an-accomplishment-journal-1850713034)
 - [Lifehacker] [Let Google Check Your Grammar For You](https://lifehacker.com/let-google-check-your-grammar-for-you-1850712771)
 - [Dev.to/JS] [JS Challenge: Reverse the characters of each word in a string](https://dev.to/jlogix/js-challenge-reverse-the-characters-of-each-word-in-a-string-ofm)
-- [Dev.to/JS] [Execution context](https://dev.to/diaaibrahiem/execution-context-2gn7)
 - [Lifehacker] [This Chrome Extension Searches Every Airline Booking Site for the Cheapest Flights](https://lifehacker.com/this-chrome-extension-searches-every-airline-booking-si-1850709238)
 - [Lifehacker] [What You Need to Know About Thematic Investing](https://lifehacker.com/what-you-need-to-know-about-thematic-investing-1850712725)
 - [Lifehacker] [Prepare Your Porch for Winter Now](https://lifehacker.com/prepare-your-porch-for-winter-now-1850712123)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Feel Less Insecure About Your Parenting](https://lifehacker.com/how-to-feel-less-insecure-about-your-parenting-1850709145)
 - [Lifehacker] [Do This Mid-Year Financial Checkup Right Now](https://lifehacker.com/do-this-mid-year-financial-checkup-right-now-1850707771)
 - [Lifehacker] [Ask Yourself These Questions Before Going Back to School](https://lifehacker.com/ask-yourself-these-questions-before-going-back-to-schoo-1850705671)
-- [Lifehacker] [The Best Way to Clean Mold From Wood Furniture](https://lifehacker.com/the-best-way-to-clean-mold-from-wood-furniture-1850705838)
-- [Lifehacker] [Why You Shouldn&#39;t Use Garden Soil for Plants in Outdoor Containers](https://lifehacker.com/why-you-shouldnt-use-garden-soil-for-plants-in-outdoor-1850705876)
-- [Lifehacker] [The Most Effective Ways to Prevent Clogs in Low-Flow Toilets &lpar;and Why They&#39;re So Common&rpar;](https://lifehacker.com/the-most-effective-ways-to-prevent-clogs-in-low-flow-to-1850706078)
-- [Lifehacker] [The Easiest Way to Guess How Much Weight a Floating Shelf Can Hold](https://lifehacker.com/the-easiest-way-to-guess-how-much-weight-a-floating-she-1850706102)
-- [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Clean Mold From Wood Furniture](https://lifehacker.com/the-best-way-to-clean-mold-from-wood-furniture-1850705838)<!-- TECH-POSTS:END -->
 
 ---
 
