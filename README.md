@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Emoji string lengths](https://dev.to/jericirenej/emoji-string-lengths-4pak)
+- [Dev.to/JS] [I&#39;m joining Astro full time!](https://dev.to/eliancodes/im-joining-astro-full-time-103l)
+- [Lifehacker] [Get Two Pairs of Wireless Earbuds With a Phone-Charging Case for $40](https://lifehacker.com/get-two-pairs-of-wireless-earbuds-with-a-phone-charging-1850702087)
+- [Lifehacker] [10 Tasty Ways You Should Be Eating Tomatoes](https://lifehacker.com/12-tasty-ways-you-should-be-eating-tomatoes-1847343803)
+- [Lifehacker] [Save Soft, Melted Pie Dough With a Bag of Frozen Vegetables](https://lifehacker.com/save-soft-melted-pie-dough-with-a-bag-of-frozen-vegeta-1850712930)
 - [Dev.to/JS] [JavaScript Callbacks vs. Promises vs. async/await: Choosing the Right Approach](https://dev.to/imshashwat001/javascript-callbacks-vs-promises-vs-asyncawait-choosing-the-right-approach-3e4c)
 - [Dev.to/JS] [Understanding Linux Permissions: A Comprehensive Guide](https://dev.to/iamcymentho/understanding-linux-permissions-a-comprehensive-guide-3k1c)
 - [Dev.to/JS] [La Ascensión Sin Precedentes de Chat GPT: Desatando la Próxima Revolución en la IA](https://dev.to/synkronus/la-ascension-sin-precedentes-de-chat-gpt-desatando-la-proxima-revolucion-en-la-ia-5flk)
@@ -42,9 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [On-Click Lazy Load YouTube Video Iframe in React](https://dev.to/robmarshall/on-click-lazy-load-youtube-video-iframe-in-react-10en)
 - [Lifehacker] [You Can Get a Sam’s Club Membership for 50% Off Right Now](https://lifehacker.com/you-can-get-a-sam-s-club-membership-for-50-off-right-n-1850702110)
 - [Dev.to/JS] [All-in-One Monetization Solution NO CODE](https://dev.to/aiforme/all-in-one-monetization-solution-no-code-1o0j)
-- [Dev.to/JS] [Day 20: Event Loop](https://dev.to/dhrn/day-20-event-loop-3bd2)
 - [Lifehacker] [Everything You Need to Keep Your Patio Cool and Pest-Free](https://lifehacker.com/everything-you-need-to-keep-your-patio-cool-and-pest-fr-1850712249)
-- [Dev.to/JS] [Série React Hooks: useRef](https://dev.to/taisesoares/serie-react-hooks-useref-2mjl)
 - [Lifehacker] [Check Out These Sex-Positive Resorts](https://lifehacker.com/check-out-these-sex-positive-resorts-1850709373)
 - [Lifehacker] [How to Feel Less Insecure About Your Parenting](https://lifehacker.com/how-to-feel-less-insecure-about-your-parenting-1850709145)
 - [Lifehacker] [Do This Mid-Year Financial Checkup Right Now](https://lifehacker.com/do-this-mid-year-financial-checkup-right-now-1850707771)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get All-You-Can-Eat Pancakes for $5 at IHOP This Month](https://lifehacker.com/you-can-get-all-you-can-eat-pancakes-for-5-at-ihop-thi-1850708442)
 - [Lifehacker] [TikTok’s ‘Overloading’ Trend Is a Crappy Way to Clean Your Toilet](https://lifehacker.com/tiktok-s-overloading-trend-is-a-crappy-way-to-clean-y-1849545412)
 - [Lifehacker] [This Mindfulness.com Subscription Is 40% Off Right Now](https://lifehacker.com/this-mindfulness-com-subscription-is-40-off-right-now-1850697909)
-- [Lifehacker] [This Is the &#39;Goldilocks Window&#39; for Booking Your Winter Flights](https://lifehacker.com/this-is-the-goldilocks-window-for-booking-your-winter-f-1850707477)
-- [Lifehacker] [Here&#39;s How Much Protein You Really Need](https://lifehacker.com/heres-how-much-protein-you-really-need-1830878049)
-- [Lifehacker] [The Gear You Need to Make Camping With Your Dog a Lot Easier](https://lifehacker.com/the-gear-you-need-to-make-camping-with-your-dog-a-lot-e-1850705453)
-- [Lifehacker] [Deglosser Is a Superior Alternative to Sandpaper When You&#39;re Refinishing Furniture](https://lifehacker.com/deglosser-is-a-superior-alternative-to-sandpaper-when-y-1850705841)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Is the &#39;Goldilocks Window&#39; for Booking Your Winter Flights](https://lifehacker.com/this-is-the-goldilocks-window-for-booking-your-winter-f-1850707477)<!-- TECH-POSTS:END -->
 
 ---
 
