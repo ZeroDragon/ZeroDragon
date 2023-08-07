@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use React Query and How to fix minor issues from that?](https://dev.to/jaelynlee/how-to-use-react-query-and-how-to-fix-minor-issues-from-that-3l87)
+- [Lifehacker] [The Best Way to Compost if You Don&#39;t Want to Compost](https://lifehacker.com/the-best-way-to-compost-if-you-dont-want-to-compost-1850714526)
+- [Dev.to/JS] [Essential Cypress Plugins I Can&#39;t Live Without](https://dev.to/samelawrence/essential-cypress-plugins-i-cant-live-without-g6b)
+- [Dev.to/JS] [SEO and Web Components - 2023 Edition](https://dev.to/stuffbreaker/seo-and-web-components-2023-edition-3l6i)
+- [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-get-past-a-paywall-to-read-an-article-for-free-1847800292)
 - [Lifehacker] [Is Zoom Really Using Your Video Calls to Train AI?](https://lifehacker.com/is-zoom-really-using-your-video-calls-to-train-ai-1850713532)
 - [Lifehacker] [Give Your French Toast the Crème Brûlée Treatment](https://lifehacker.com/give-your-french-toast-the-creme-brulee-treatment-1850714543)
 - [Lifehacker] [How One Late Student Loan Payment Can Affect You](https://lifehacker.com/how-one-late-student-loan-payment-affects-you-1326216867)
@@ -48,11 +53,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS Challenge: Reverse the characters of each word in a string](https://dev.to/jlogix/js-challenge-reverse-the-characters-of-each-word-in-a-string-ofm)
 - [Dev.to/JS] [Execution context](https://dev.to/diaaibrahiem/execution-context-2gn7)
 - [Lifehacker] [This Chrome Extension Searches Every Airline Booking Site for the Cheapest Flights](https://lifehacker.com/this-chrome-extension-searches-every-airline-booking-si-1850709238)
-- [Dev.to/JS] [Syntax parser](https://dev.to/diaaibrahiem/syntax-parser-40hb)
 - [Lifehacker] [What You Need to Know About Thematic Investing](https://lifehacker.com/what-you-need-to-know-about-thematic-investing-1850712725)
 - [Lifehacker] [Prepare Your Porch for Winter Now](https://lifehacker.com/prepare-your-porch-for-winter-now-1850712123)
-- [Dev.to/JS] [Creating a chat application like messenger with node js](https://dev.to/rishikesh00760/creating-a-chat-application-like-messenger-with-node-js-3f7e)
-- [Dev.to/JS] [Joi in Node.js: A Comprehensive Guide for High-Performance Web Applications](https://dev.to/ikamran01/joi-in-nodejs-a-comprehensive-guide-for-high-performance-web-applications-2591)
 - [Lifehacker] [You Can Get a Sam’s Club Membership for 50% Off Right Now](https://lifehacker.com/you-can-get-a-sam-s-club-membership-for-50-off-right-n-1850702110)
 - [Lifehacker] [Everything You Need to Keep Your Patio Cool and Pest-Free](https://lifehacker.com/everything-you-need-to-keep-your-patio-cool-and-pest-fr-1850712249)
 - [Lifehacker] [Check Out These Sex-Positive Resorts](https://lifehacker.com/check-out-these-sex-positive-resorts-1850709373)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Shouldn&#39;t Use Garden Soil for Plants in Outdoor Containers](https://lifehacker.com/why-you-shouldnt-use-garden-soil-for-plants-in-outdoor-1850705876)
 - [Lifehacker] [The Most Effective Ways to Prevent Clogs in Low-Flow Toilets &lpar;and Why They&#39;re So Common&rpar;](https://lifehacker.com/the-most-effective-ways-to-prevent-clogs-in-low-flow-to-1850706078)
 - [Lifehacker] [The Easiest Way to Guess How Much Weight a Floating Shelf Can Hold](https://lifehacker.com/the-easiest-way-to-guess-how-much-weight-a-floating-she-1850706102)
-- [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)
-- [Lifehacker] [How to Air Fry Without Directions](https://lifehacker.com/how-to-air-fry-without-directions-1850707924)
-- [Lifehacker] [Shortwave Is the Spiritual Successor to Google’s Inbox](https://lifehacker.com/shortwave-is-the-spiritual-successor-to-google-s-inbox-1850707721)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Difference Between All-Wheel Drive and Four-Wheel Drive](https://lifehacker.com/the-difference-between-all-wheel-drive-and-four-wheel-d-1850706084)<!-- TECH-POSTS:END -->
 
 ---
 
