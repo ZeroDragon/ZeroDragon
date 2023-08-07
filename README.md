@@ -26,18 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create and Send Custom Emails using React Email and Resend API](https://dev.to/onlyoneerin/how-to-create-and-send-custom-emails-using-react-email-and-resend-api-4fc0)
+- [Dev.to/JS] [I Tried Creating An SPA With JavaScript and HTML 🤯](https://dev.to/saje/i-tried-creating-an-spa-with-javascript-and-html-562f)
 - [Dev.to/JS] [Exploring Mirage JS: Simplifying API Mocking in React Development](https://dev.to/bilal1718/exploring-mirage-js-simplifying-api-mocking-in-react-development-5cld)
 - [Dev.to/JS] [5 Must-Have Google Chrome Extensions for Developers](https://dev.to/amarondev/5-must-have-google-chrome-extensions-for-developers-3kie)
 - [Dev.to/JS] [Real-Time Market Data: Empowering Investors with Timely Insights](https://dev.to/meenal_01/real-time-market-data-empowering-investors-with-timely-insights-5cf4)
 - [Dev.to/JS] [Gestión del estado de una SPA con BLoC](https://dev.to/raguilera82/gestion-del-estado-de-una-spa-con-bloc-5b07)
 - [Dev.to/JS] [Hidden Gems: Lesser-Known Features in JavaScript](https://dev.to/josunlp/hidden-gems-lesser-known-features-in-javascript-352j)
-- [Dev.to/JS] [Replace bpmn-js and Let Frontend Developers Become More Familiar with Workflow Business](https://dev.to/lawliet/replace-bpmn-js-and-let-frontend-developers-become-more-familiar-with-workflow-business-1jbb)
+- [Dev.to/JS] [Replace bpmn-js and Let Frontend Developers Become More Familiar with Workflow Business In 2023🔥🔥🔥](https://dev.to/lawliet/replace-bpmn-js-and-let-frontend-developers-become-more-familiar-with-workflow-business-1jbb)
 - [Dev.to/JS] [Difference between sort&lpar;&rpar; and toSorted&lpar;&rpar;](https://dev.to/_sathikbasha/difference-between-sort-and-tosorted-3j7n)
 - [Dev.to/JS] [Multilingual SMS Translation Service built with Hapi, Nodejs and Javascript](https://dev.to/dhamolahedonist/multilingual-sms-translation-service-built-with-hapi-nodejs-and-javascript-1kbn)
 - [Dev.to/JS] [substring&lpar;&rpar; vs slice&lpar;&rpar; vs splice&lpar;&rpar;](https://dev.to/hardiksharma/substring-vs-slice-vs-splice-4dj7)
 - [Dev.to/JS] [Join a Free Web3 Bootcamp and Build a Next Generation dApp!](https://dev.to/seb_icp/join-a-free-web3-bootcamp-and-build-a-next-generation-dapp-1hm)
-- [Dev.to/JS] [5 Javascript coding interview questions - Part 2](https://dev.to/saqibjamil7866/5-javascript-coding-interview-questions-part-2-5h1m)
-- [Dev.to/JS] [Architecting Custom State Management in React](https://dev.to/basavarajrp/architecting-custom-state-management-in-react-14ic)
 - [Lifehacker] [Ask Yourself These Questions Before Going Back to School](https://lifehacker.com/ask-yourself-these-questions-before-going-back-to-schoo-1850705671)
 - [Lifehacker] [The Best Way to Clean Mold From Wood Furniture](https://lifehacker.com/the-best-way-to-clean-mold-from-wood-furniture-1850705838)
 - [Lifehacker] [Why You Shouldn&#39;t Use Garden Soil for Plants in Outdoor Containers](https://lifehacker.com/why-you-shouldnt-use-garden-soil-for-plants-in-outdoor-1850705876)
