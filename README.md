@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript Utility Types](https://dev.to/kevin-uehara/typescript-utility-types-7nm)
 - [Dev.to/JS] [Using HTML Bundler Plugin for Webpack to generate HTML files](https://dev.to/webdiscus/using-html-bundler-plugin-for-webpack-to-generate-html-files-30gd)
 - [Dev.to/JS] [Understanding Call Stack](https://dev.to/oswaldopineda/understanding-call-stack-3cap)
 - [Dev.to/JS] [React Custom Hook: useArray](https://dev.to/sergeyleschev/react-custom-hook-usearray-1ogp)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating multi-purpose reactive forms with Angular](https://dev.to/blugreenspace/creating-multi-purpose-reactive-forms-with-angular-47ka)
 - [Lifehacker] [Ask Yourself These Questions Before Going Back to School](https://lifehacker.com/ask-yourself-these-questions-before-going-back-to-schoo-1850705671)
 - [Dev.to/JS] [Understanding Web Components and It&#39;s Implementation Without Frameworks](https://dev.to/berlikaliku/understanding-web-components-and-its-implementation-without-frameworks-58cp)
-- [Dev.to/JS] [File Validation in React with Formik and Yup](https://dev.to/olabisi09/file-validation-in-react-with-formik-and-yup-48e6)
 - [Lifehacker] [The Best Way to Clean Mold From Wood Furniture](https://lifehacker.com/the-best-way-to-clean-mold-from-wood-furniture-1850705838)
 - [Lifehacker] [Why You Shouldn&#39;t Use Garden Soil for Plants in Outdoor Containers](https://lifehacker.com/why-you-shouldnt-use-garden-soil-for-plants-in-outdoor-1850705876)
 - [Lifehacker] [The Most Effective Ways to Prevent Clogs in Low-Flow Toilets &lpar;and Why They&#39;re So Common&rpar;](https://lifehacker.com/the-most-effective-ways-to-prevent-clogs-in-low-flow-to-1850706078)
