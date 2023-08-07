@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Differentiating onclick and addEventListener in JavaScript](https://dev.to/brainiacneit/differentiating-onclick-and-addeventlistener-in-javascript-30ke)
 - [Dev.to/JS] [Ethical and Documented AI with NO CODE](https://dev.to/aiforme/ethical-and-documented-ai-with-no-code-4639)
 - [Dev.to/JS] [Can HTTPS page requests HTTP api?](https://dev.to/sophister/can-https-page-requests-http-api-3p8)
 - [Dev.to/JS] [The Power of JavaScript Functions](https://dev.to/rahul3002/the-power-of-javascript-functions-2ldk)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Typescript Utility Types](https://dev.to/kevin-uehara/typescript-utility-types-7nm)
 - [Dev.to/JS] [Using HTML Bundler Plugin for Webpack to generate HTML files](https://dev.to/webdiscus/using-html-bundler-plugin-for-webpack-to-generate-html-files-30gd)
 - [Dev.to/JS] [Understanding Call Stack](https://dev.to/oswaldopineda/understanding-call-stack-3cap)
-- [Dev.to/JS] [React Custom Hook: useArray](https://dev.to/sergeyleschev/react-custom-hook-usearray-1ogp)
 - [Lifehacker] [Ask Yourself These Questions Before Going Back to School](https://lifehacker.com/ask-yourself-these-questions-before-going-back-to-schoo-1850705671)
 - [Lifehacker] [The Best Way to Clean Mold From Wood Furniture](https://lifehacker.com/the-best-way-to-clean-mold-from-wood-furniture-1850705838)
 - [Lifehacker] [Why You Shouldn&#39;t Use Garden Soil for Plants in Outdoor Containers](https://lifehacker.com/why-you-shouldnt-use-garden-soil-for-plants-in-outdoor-1850705876)
