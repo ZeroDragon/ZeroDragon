@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Let Google Check Your Grammar For You](https://lifehacker.com/let-google-check-your-grammar-for-you-1850712771)
+- [Dev.to/JS] [JS Challenge: Reverse the characters of each word in a string](https://dev.to/jlogix/js-challenge-reverse-the-characters-of-each-word-in-a-string-ofm)
+- [Dev.to/JS] [Execution context](https://dev.to/diaaibrahiem/execution-context-2gn7)
+- [Lifehacker] [This Chrome Extension Searches Every Airline Booking Site for the Cheapest Flights](https://lifehacker.com/this-chrome-extension-searches-every-airline-booking-si-1850709238)
+- [Dev.to/JS] [Syntax parser](https://dev.to/diaaibrahiem/syntax-parser-40hb)
 - [Lifehacker] [What You Need to Know About Thematic Investing](https://lifehacker.com/what-you-need-to-know-about-thematic-investing-1850712725)
 - [Lifehacker] [Prepare Your Porch for Winter Now](https://lifehacker.com/prepare-your-porch-for-winter-now-1850712123)
 - [Dev.to/JS] [Creating a chat application like messenger with node js](https://dev.to/rishikesh00760/creating-a-chat-application-like-messenger-with-node-js-3f7e)
@@ -41,9 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring DO Notation in JS](https://dev.to/tracygjg/exploring-do-notation-in-js-5df2)
 - [Lifehacker] [How to Feel Less Insecure About Your Parenting](https://lifehacker.com/how-to-feel-less-insecure-about-your-parenting-1850709145)
 - [Dev.to/JS] [Lifting Off with Astro 🚀](https://dev.to/remotesynth/lifting-off-with-astro-4omm)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 1, Aug 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-1-aug-2023-2f4o)
-- [Dev.to/JS] [Passer du C# au Typescript](https://dev.to/ryck/passer-du-c-au-typescript-3ie2)
-- [Dev.to/JS] [🪄✨Building a blog with a liking feature using React, Hanko and Novu 🔥](https://dev.to/novu/building-a-blog-with-a-liking-feature-using-react-hanko-and-novu-1m81)
 - [Lifehacker] [Do This Mid-Year Financial Checkup Right Now](https://lifehacker.com/do-this-mid-year-financial-checkup-right-now-1850707771)
 - [Lifehacker] [Ask Yourself These Questions Before Going Back to School](https://lifehacker.com/ask-yourself-these-questions-before-going-back-to-schoo-1850705671)
 - [Lifehacker] [The Best Way to Clean Mold From Wood Furniture](https://lifehacker.com/the-best-way-to-clean-mold-from-wood-furniture-1850705838)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s How Much Protein You Really Need](https://lifehacker.com/heres-how-much-protein-you-really-need-1830878049)
 - [Lifehacker] [The Gear You Need to Make Camping With Your Dog a Lot Easier](https://lifehacker.com/the-gear-you-need-to-make-camping-with-your-dog-a-lot-e-1850705453)
 - [Lifehacker] [Deglosser Is a Superior Alternative to Sandpaper When You&#39;re Refinishing Furniture](https://lifehacker.com/deglosser-is-a-superior-alternative-to-sandpaper-when-y-1850705841)
-- [Lifehacker] [The Easiest Way to Prevent a Soggy Sandwich](https://lifehacker.com/make-sandwiches-on-frozen-bread-to-stave-off-sogginess-1803757453)
-- [Lifehacker] [We&#39;re Finally Getting an RSV Vaccine for Babies](https://lifehacker.com/were-finally-getting-an-rsv-vaccine-for-babies-1850707968)
-- [Lifehacker] [Use Text Expanders to Email More Efficiently](https://lifehacker.com/use-text-expanders-to-email-more-efficiently-1850707411)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Prevent a Soggy Sandwich](https://lifehacker.com/make-sandwiches-on-frozen-bread-to-stave-off-sogginess-1803757453)<!-- TECH-POSTS:END -->
 
 ---
 
