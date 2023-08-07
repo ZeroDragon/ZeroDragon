@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implementing OAuth in Nuxt with Supabase](https://dev.to/jacobandrewsky/implementing-oauth-in-nuxt-with-supabase-4p1k)
+- [Dev.to/JS] [5 Javascript coding interview questions - Part 1](https://dev.to/saqibjamil7866/5-javascript-coding-interview-questions-part-1-2c4c)
+- [Dev.to/JS] [The Evolution and Impact of Stock Trading APIs in the Financial World](https://dev.to/meenal_01/the-evolution-and-impact-of-stock-trading-apis-in-the-financial-world-jce)
+- [Dev.to/JS] [Visual Regression Testing with AskUI and Jest](https://dev.to/askui/visual-regression-testing-with-askui-and-jest-2i5e)
+- [Dev.to/JS] [Conquering Asynchrony in JavaScript: A Journey from Callbacks to Async/Await](https://dev.to/abhaysinghr1/conquering-asynchrony-in-javascript-a-journey-from-callbacks-to-asyncawait-338d)
 - [Dev.to/JS] [Android Training in Chennai](https://dev.to/manikarnikam6/android-training-in-chennai-d12)
 - [Dev.to/JS] [Differentiating onclick and addEventListener in JavaScript](https://dev.to/brainiacneit/differentiating-onclick-and-addeventlistener-in-javascript-30ke)
 - [Dev.to/JS] [Ethical and Documented AI with NO CODE](https://dev.to/aiforme/ethical-and-documented-ai-with-no-code-4639)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Power of JavaScript Functions](https://dev.to/rahul3002/the-power-of-javascript-functions-2ldk)
 - [Dev.to/JS] [DIV Class and CSS. A beginner explains.](https://dev.to/mrchr1stopher/div-class-and-css-a-beginner-explains-2f74)
 - [Dev.to/JS] [State Management in React Native: Comparing Redux, MobX, and Context API 🔄📱](https://dev.to/medaimane/state-management-in-react-native-comparing-redux-mobx-and-context-api-e5f)
-- [Dev.to/JS] [Send WhatsApp messages without adding contacts. Simple WA](https://dev.to/cperazal/send-whatsapp-messages-without-add-contacts-simple-wa-4llm)
-- [Dev.to/JS] [Longest palindromic substring in s](https://dev.to/chandrapenugonda/longest-palindromic-substring-in-s-2gj7)
-- [Dev.to/JS] [Mastering JavaScript Shorthand Techniques: Code Faster and Cleaner Part 2](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-code-faster-and-cleaner-part-2-4n2n)
-- [Dev.to/JS] [Typescript Utility Types](https://dev.to/kevin-uehara/typescript-utility-types-7nm)
-- [Dev.to/JS] [Using HTML Bundler Plugin for Webpack to generate HTML files](https://dev.to/webdiscus/using-html-bundler-plugin-for-webpack-to-generate-html-files-30gd)
 - [Lifehacker] [Ask Yourself These Questions Before Going Back to School](https://lifehacker.com/ask-yourself-these-questions-before-going-back-to-schoo-1850705671)
 - [Lifehacker] [The Best Way to Clean Mold From Wood Furniture](https://lifehacker.com/the-best-way-to-clean-mold-from-wood-furniture-1850705838)
 - [Lifehacker] [Why You Shouldn&#39;t Use Garden Soil for Plants in Outdoor Containers](https://lifehacker.com/why-you-shouldnt-use-garden-soil-for-plants-in-outdoor-1850705876)
