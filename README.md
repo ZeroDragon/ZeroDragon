@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use Cookies in Next.js with Redux TK](https://dev.to/arturarakelyan0411/how-to-use-cookies-in-nextjs-with-redux-tk-e95)
+- [Lifehacker] [Add Smoke to Your Salads With a Mezcal Vinaigrette](https://lifehacker.com/add-smoke-to-your-salads-with-a-mezcal-vinaigrette-1850717542)
+- [Dev.to/JS] [React Hooks: Cheat Sheet, with examples](https://dev.to/alakkadshaw/react-hooks-cheat-sheet-with-examples-4o30)
 - [Lifehacker] [Turn Cheap Balsamic Vinegar Into a Fancy Syrup](https://lifehacker.com/turn-cheap-balsamic-vinegar-into-a-fancy-syrup-1850715506)
 - [Lifehacker] [Hackers Can Steal Your Passwords by Listening to You Type](https://lifehacker.com/hackers-can-steal-your-passwords-by-listening-to-you-ty-1850717183)
 - [Dev.to/JS] [How to fetch in Typescript like pro ?](https://dev.to/harshkumar77/how-to-fetch-in-typescript-like-pro--4jfp)
@@ -41,10 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Every Towel in Your Home Is Grosser Than You Think](https://lifehacker.com/every-towel-in-your-home-is-grosser-than-you-think-1850716030)
 - [Dev.to/JS] [JavaScript Web APIs Series: Device and Sensor APIs](https://dev.to/olodocoder/javascript-web-apis-series-device-and-sensor-apis-12ka)
 - [Dev.to/JS] [Princípios SOLID, KISS, DRY e YAGNI Aplicados no Desenvolvimento com React](https://dev.to/jhonyaraujooficial/principios-solid-kiss-dry-e-yagni-aplicados-no-desenvolvimento-com-react-10na)
-- [Dev.to/JS] [Automate your Visual Creation with NO CODE](https://dev.to/aiforme/automate-your-visual-creation-8bg)
 - [Lifehacker] [Be Wary of ChatGPT Clones](https://lifehacker.com/be-wary-of-chatgpt-clones-1850715395)
 - [Lifehacker] [DIY the Ultimate Countertop-Saving Dish Rack](https://lifehacker.com/diy-the-ultimate-countertop-saving-dish-rack-1850714876)
-- [Dev.to/JS] [Escape room with Three.js](https://dev.to/vulcanwm/escape-room-with-threejs-4l38)
 - [Lifehacker] [How to Choose the Safest Bicycle Helmet](https://lifehacker.com/how-to-choose-the-safest-bicycle-helmet-1850715630)
 - [Lifehacker] [Make Some Cheese Crisps In Your Microwave](https://lifehacker.com/make-some-cheese-crisps-in-your-microwave-1850714549)
 - [Lifehacker] [These Books Can Help You Become a More Effective Leader at Work](https://lifehacker.com/these-books-can-help-you-become-a-more-effective-leader-1850713275)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Tasty Ways You Should Be Eating Tomatoes](https://lifehacker.com/12-tasty-ways-you-should-be-eating-tomatoes-1847343803)
 - [Lifehacker] [Save Soft, Melted Pie Dough With a Bag of Frozen Vegetables](https://lifehacker.com/save-soft-melted-pie-dough-with-a-bag-of-frozen-vegeta-1850712930)
 - [Lifehacker] [Stay Motivated at Work With an Accomplishment Journal](https://lifehacker.com/stay-motivated-at-work-with-an-accomplishment-journal-1850713034)
-- [Lifehacker] [Let Google Check Your Grammar For You](https://lifehacker.com/let-google-check-your-grammar-for-you-1850712771)
-- [Lifehacker] [This Chrome Extension Searches Every Airline Booking Site for the Cheapest Flights](https://lifehacker.com/this-chrome-extension-searches-every-airline-booking-si-1850709238)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Let Google Check Your Grammar For You](https://lifehacker.com/let-google-check-your-grammar-for-you-1850712771)<!-- TECH-POSTS:END -->
 
 ---
 
