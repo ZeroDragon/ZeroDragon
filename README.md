@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Be Wary of ChatGPT Clones](https://lifehacker.com/be-wary-of-chatgpt-clones-1850715395)
+- [Dev.to/JS] [Passenger Counter](https://dev.to/kirzin/passenger-counter-e88)
+- [Dev.to/JS] [Criando transições com API ViewTransition](https://dev.to/valdeirpsr/criando-transicoes-com-api-viewtransition-4afp)
+- [Lifehacker] [How to Choose the Safest Bicycle Helmet](https://lifehacker.com/how-to-choose-the-safest-bicycle-helmet-1850715630)
+- [Dev.to/JS] [Exploring JavaScript Fundamentals!](https://dev.to/thekawsarhossain/exploring-javascript-fundamentals-mk0)
+- [Dev.to/JS] [Filas: entendendo e implementando essa estrutura de dados](https://dev.to/brunopinho/filas-entendendo-e-implementando-essa-estrutura-de-dados-25pk)
+- [Lifehacker] [Make Some Cheese Crisps In Your Microwave](https://lifehacker.com/make-some-cheese-crisps-in-your-microwave-1850714549)
 - [Dev.to/JS] [Firebase vs. Supabase](https://dev.to/ishratumar/firebase-vs-supabase-22oi)
 - [Dev.to/JS] [Add Authentication to Any Web Page in 10 Minutes](https://dev.to/bobur/add-authentication-to-any-web-page-in-10-minutes-jo8)
 - [Dev.to/JS] [✨ 7 open-source libraries you must know in 2023 🪄✨](https://dev.to/github20k/7-open-source-libraries-you-must-know-in-2023-2ach)
@@ -34,15 +41,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Coding Beyond Limits: My Journey of Building a Web App with AI Creativity](https://dev.to/svijaykoushik/coding-beyond-limits-my-journey-of-building-a-web-app-with-ai-creativity-1b1p)
 - [Dev.to/JS] [Introducing ModelFusion: Build AI apps with JavaScript and TypeScript](https://dev.to/lgrammel/introducing-modelfusion-build-ai-apps-with-javascript-and-typescript-4aia)
 - [Dev.to/JS] [5 Essential Daily Habits to Elevate Your React Developer Productivity](https://dev.to/bilal1718/5-essential-daily-habits-to-elevate-your-react-developer-productivity-300c)
-- [Dev.to/JS] [Understanding The Event Loop in NodeJs Easily](https://dev.to/sarahokolo/understanding-the-event-loop-in-nodejs-easily-399m)
-- [Dev.to/JS] [It&#39;s done! Rust-like API in your JavaScript code](https://dev.to/vitalicset/its-done-rust-like-api-in-your-javascript-code-1e76)
-- [Dev.to/JS] [Strategi Bermain Poker Online yang Efektif: Tips untuk Meningkatkan Peluang Menang](https://dev.to/phylliscar32099/strategi-bermain-poker-online-yang-efektif-tips-untuk-meningkatkan-peluang-menang-92a)
-- [Dev.to/JS] [How to Digitize Paper Documents in Angular Web Applications](https://dev.to/yushulx/how-to-digitize-paper-documents-in-angular-web-applications-1jan)
 - [Lifehacker] [These Books Can Help You Become a More Effective Leader at Work](https://lifehacker.com/these-books-can-help-you-become-a-more-effective-leader-1850713275)
 - [Lifehacker] [How to Prep, Store, and Cook With Hatch Chile Peppers](https://lifehacker.com/how-to-prep-store-and-cook-with-hatch-chile-peppers-1850706612)
 - [Lifehacker] [The Best Ways to Use Up Old Spices](https://lifehacker.com/the-best-ways-to-use-up-old-spices-1849423616)
 - [Lifehacker] [You Should Probably Stop Watching Home Improvement Shows](https://lifehacker.com/you-should-probably-stop-watching-home-improvement-show-1850713364)
-- [Lifehacker] [The Best Way to Compost if You Don&#39;t Want to Compost](https://lifehacker.com/the-best-way-to-compost-if-you-dont-want-to-compost-1850714526)
+- [Lifehacker] [The Best Way to Compost If You Don&#39;t Want to Compost](https://lifehacker.com/the-best-way-to-compost-if-you-dont-want-to-compost-1850714526)
 - [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-get-past-a-paywall-to-read-an-article-for-free-1847800292)
 - [Lifehacker] [Is Zoom Really Using Your Video Calls to Train AI?](https://lifehacker.com/is-zoom-really-using-your-video-calls-to-train-ai-1850713532)
 - [Lifehacker] [Give Your French Toast the Crème Brûlée Treatment](https://lifehacker.com/give-your-french-toast-the-creme-brulee-treatment-1850714543)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Sam’s Club Membership for 50% Off Right Now](https://lifehacker.com/you-can-get-a-sam-s-club-membership-for-50-off-right-n-1850702110)
 - [Lifehacker] [Everything You Need to Keep Your Patio Cool and Pest-Free](https://lifehacker.com/everything-you-need-to-keep-your-patio-cool-and-pest-fr-1850712249)
 - [Lifehacker] [Check Out These Sex-Positive Resorts](https://lifehacker.com/check-out-these-sex-positive-resorts-1850709373)
-- [Lifehacker] [How to Feel Less Insecure About Your Parenting](https://lifehacker.com/how-to-feel-less-insecure-about-your-parenting-1850709145)
-- [Lifehacker] [Do This Mid-Year Financial Checkup Right Now](https://lifehacker.com/do-this-mid-year-financial-checkup-right-now-1850707771)
-- [Lifehacker] [Ask Yourself These Questions Before Going Back to School](https://lifehacker.com/ask-yourself-these-questions-before-going-back-to-schoo-1850705671)
-- [Lifehacker] [The Best Way to Clean Mold From Wood Furniture](https://lifehacker.com/the-best-way-to-clean-mold-from-wood-furniture-1850705838)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Feel Less Insecure About Your Parenting](https://lifehacker.com/how-to-feel-less-insecure-about-your-parenting-1850709145)<!-- TECH-POSTS:END -->
 
 ---
 
