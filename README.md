@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Custom Hook: useClickOutside](https://dev.to/sergeyleschev/react-custom-hook-useclickoutside-2gb1)
+- [Lifehacker] [The Best Gear to Help You Focus at Work](https://lifehacker.com/the-best-gear-to-help-you-focus-at-work-1850718629)
+- [Lifehacker] [How to Set a Music Alarm With Your Google Home Speaker](https://lifehacker.com/how-to-set-a-music-alarm-with-your-google-home-speaker-1822673391)
 - [Lifehacker] [Seven Ways to Hide an Old Fireplace](https://lifehacker.com/seven-ways-to-hide-an-old-fireplace-1850717787)
 - [Lifehacker] [Your PS5 Can Apparently Melt a Wired Controller&#39;s USB Plug](https://lifehacker.com/your-ps5-can-apparently-melt-a-wired-controllers-usb-pl-1850717783)
 - [Lifehacker] [You Can Get Free Taco Bell for the Next Five Tuesdays](https://lifehacker.com/you-can-get-free-taco-bell-for-the-next-five-tuesdays-1850718268)
@@ -52,7 +55,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to fetch in Typescript like pro ?](https://dev.to/harshkumar77/how-to-fetch-in-typescript-like-pro--4jfp)
 - [Dev.to/JS] [Day 21: Iterators](https://dev.to/dhrn/day-21-iterators-2pj4)
 - [Lifehacker] [When to Clean Your Air Ducts, According to the EPA](https://lifehacker.com/when-to-clean-your-air-ducts-according-to-the-epa-1850716179)
-- [Dev.to/JS] [My opinionated JavaScript package template repository - zero config, start immediately](https://dev.to/jankapunkt/my-opinionated-javascript-package-template-repository-zero-config-start-immediately-5090)
 - [Lifehacker] [You Can Get a Lifetime Babbel Subscription for 67% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-babbel-subscription-for-67-off-1850705208)
 - [Lifehacker] [Every Towel in Your Home Is Grosser Than You Think](https://lifehacker.com/every-towel-in-your-home-is-grosser-than-you-think-1850716030)
 - [Lifehacker] [Be Wary of ChatGPT Clones](https://lifehacker.com/be-wary-of-chatgpt-clones-1850715395)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Prep, Store, and Cook With Hatch Chile Peppers](https://lifehacker.com/how-to-prep-store-and-cook-with-hatch-chile-peppers-1850706612)
 - [Lifehacker] [The Best Ways to Use Up Old Spices](https://lifehacker.com/the-best-ways-to-use-up-old-spices-1849423616)
 - [Lifehacker] [You Should Probably Stop Watching Home Improvement Shows](https://lifehacker.com/you-should-probably-stop-watching-home-improvement-show-1850713364)
-- [Lifehacker] [The Best Way to Compost If You Don&#39;t Want to Compost](https://lifehacker.com/the-best-way-to-compost-if-you-dont-want-to-compost-1850714526)
-- [Lifehacker] [How to Get Past a Paywall to Read an Article for Free](https://lifehacker.com/how-to-get-past-a-paywall-to-read-an-article-for-free-1847800292)
-- [Lifehacker] [Is Zoom Really Using Your Video Calls to Train AI?](https://lifehacker.com/is-zoom-really-using-your-video-calls-to-train-ai-1850713532)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Compost If You Don&#39;t Want to Compost](https://lifehacker.com/the-best-way-to-compost-if-you-dont-want-to-compost-1850714526)<!-- TECH-POSTS:END -->
 
 ---
 
