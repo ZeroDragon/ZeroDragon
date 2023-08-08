@@ -26,7 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 21: Iterators](https://dev.to/dhrn/day-21-iterators-2pj4)
+- [Lifehacker] [When to Clean Your Air Ducts, According to the EPA](https://lifehacker.com/when-to-clean-your-air-ducts-according-to-the-epa-1850716179)
+- [Dev.to/JS] [My opinionated JavaScript package template repository - zero config, start immediately](https://dev.to/jankapunkt/my-opinionated-javascript-package-template-repository-zero-config-start-immediately-5090)
+- [Dev.to/JS] [JS Challenge: Count the occurrences of a character/pattern in a string](https://dev.to/jlogix/js-challenge-count-the-occurrences-of-a-characterpattern-in-a-string-4eai)
+- [Dev.to/JS] [Automating Deployments to Heroku with GitHub Actions and Docker: Streamlining the Deployment Process](https://dev.to/thethiago27/automating-deployments-to-heroku-with-github-actions-and-docker-streamlining-the-deployment-process-1pc)
+- [Dev.to/JS] [Understanding Scope Chain](https://dev.to/codethepotato/understanding-scope-chain-2nbi)
+- [Lifehacker] [You Can Get a Lifetime Babbel Subscription for 67% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-babbel-subscription-for-67-off-1850705208)
+- [Dev.to/JS] [Time Management Techniques for Developers: 10 Tips to Boost Productivity](https://dev.to/athifbinu/time-management-techniques-for-developers-10-tips-to-boost-productivity-4518)
 - [Dev.to/JS] [In search of the best EcmaScript version for the website assembly](https://dev.to/yoskutik/in-search-of-the-best-ecmascript-version-for-the-website-assembly-17e9)
+- [Lifehacker] [Every Towel in Your Home Is Grosser Than You Think](https://lifehacker.com/every-towel-in-your-home-is-grosser-than-you-think-1850716030)
 - [Dev.to/JS] [JavaScript Web APIs Series: Device and Sensor APIs](https://dev.to/olodocoder/javascript-web-apis-series-device-and-sensor-apis-12ka)
 - [Dev.to/JS] [Princípios SOLID, KISS, DRY e YAGNI Aplicados no Desenvolvimento com React](https://dev.to/jhonyaraujooficial/principios-solid-kiss-dry-e-yagni-aplicados-no-desenvolvimento-com-react-10na)
 - [Dev.to/JS] [Automate your Visual Creation with NO CODE](https://dev.to/aiforme/automate-your-visual-creation-8bg)
@@ -34,14 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [DIY the Ultimate Countertop-Saving Dish Rack](https://lifehacker.com/diy-the-ultimate-countertop-saving-dish-rack-1850714876)
 - [Dev.to/JS] [Escape room with Three.js](https://dev.to/vulcanwm/escape-room-with-threejs-4l38)
 - [Dev.to/JS] [Passenger Counter](https://dev.to/kirzin/passenger-counter-e88)
-- [Dev.to/JS] [Criando transições com API ViewTransition](https://dev.to/valdeirpsr/criando-transicoes-com-api-viewtransition-4afp)
 - [Lifehacker] [How to Choose the Safest Bicycle Helmet](https://lifehacker.com/how-to-choose-the-safest-bicycle-helmet-1850715630)
-- [Dev.to/JS] [Exploring JavaScript Fundamentals!](https://dev.to/thekawsarhossain/exploring-javascript-fundamentals-mk0)
-- [Dev.to/JS] [Filas: entendendo e implementando essa estrutura de dados](https://dev.to/brunopinho/filas-entendendo-e-implementando-essa-estrutura-de-dados-25pk)
 - [Lifehacker] [Make Some Cheese Crisps In Your Microwave](https://lifehacker.com/make-some-cheese-crisps-in-your-microwave-1850714549)
-- [Dev.to/JS] [Firebase vs. Supabase](https://dev.to/ishratumar/firebase-vs-supabase-22oi)
-- [Dev.to/JS] [Add Authentication to Any Web Page in 10 Minutes](https://dev.to/bobur/add-authentication-to-any-web-page-in-10-minutes-jo8)
-- [Dev.to/JS] [✨ 7 open-source libraries you must know in 2023 🪄✨](https://dev.to/github20k/7-open-source-libraries-you-must-know-in-2023-2ach)
 - [Lifehacker] [These Books Can Help You Become a More Effective Leader at Work](https://lifehacker.com/these-books-can-help-you-become-a-more-effective-leader-1850713275)
 - [Lifehacker] [How to Prep, Store, and Cook With Hatch Chile Peppers](https://lifehacker.com/how-to-prep-store-and-cook-with-hatch-chile-peppers-1850706612)
 - [Lifehacker] [The Best Ways to Use Up Old Spices](https://lifehacker.com/the-best-ways-to-use-up-old-spices-1849423616)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Let Google Check Your Grammar For You](https://lifehacker.com/let-google-check-your-grammar-for-you-1850712771)
 - [Lifehacker] [This Chrome Extension Searches Every Airline Booking Site for the Cheapest Flights](https://lifehacker.com/this-chrome-extension-searches-every-airline-booking-si-1850709238)
 - [Lifehacker] [What You Need to Know About Thematic Investing](https://lifehacker.com/what-you-need-to-know-about-thematic-investing-1850712725)
-- [Lifehacker] [Prepare Your Porch for Winter Now](https://lifehacker.com/prepare-your-porch-for-winter-now-1850712123)
-- [Lifehacker] [You Can Get a Sam’s Club Membership for 50% Off Right Now](https://lifehacker.com/you-can-get-a-sam-s-club-membership-for-50-off-right-n-1850702110)
-- [Lifehacker] [Everything You Need to Keep Your Patio Cool and Pest-Free](https://lifehacker.com/everything-you-need-to-keep-your-patio-cool-and-pest-fr-1850712249)
-- [Lifehacker] [Check Out These Sex-Positive Resorts](https://lifehacker.com/check-out-these-sex-positive-resorts-1850709373)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Prepare Your Porch for Winter Now](https://lifehacker.com/prepare-your-porch-for-winter-now-1850712123)<!-- TECH-POSTS:END -->
 
 ---
 
