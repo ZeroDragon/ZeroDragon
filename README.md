@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Turn Cheap Balsamic Vinegar Into a Fancy Syrup](https://lifehacker.com/turn-cheap-balsamic-vinegar-into-a-fancy-syrup-1850715506)
+- [Lifehacker] [Hackers Can Steal Your Passwords by Listening to You Type](https://lifehacker.com/hackers-can-steal-your-passwords-by-listening-to-you-ty-1850717183)
+- [Dev.to/JS] [How to fetch in Typescript like pro ?](https://dev.to/harshkumar77/how-to-fetch-in-typescript-like-pro--4jfp)
 - [Dev.to/JS] [Day 21: Iterators](https://dev.to/dhrn/day-21-iterators-2pj4)
 - [Lifehacker] [When to Clean Your Air Ducts, According to the EPA](https://lifehacker.com/when-to-clean-your-air-ducts-according-to-the-epa-1850716179)
 - [Dev.to/JS] [My opinionated JavaScript package template repository - zero config, start immediately](https://dev.to/jankapunkt/my-opinionated-javascript-package-template-repository-zero-config-start-immediately-5090)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Be Wary of ChatGPT Clones](https://lifehacker.com/be-wary-of-chatgpt-clones-1850715395)
 - [Lifehacker] [DIY the Ultimate Countertop-Saving Dish Rack](https://lifehacker.com/diy-the-ultimate-countertop-saving-dish-rack-1850714876)
 - [Dev.to/JS] [Escape room with Three.js](https://dev.to/vulcanwm/escape-room-with-threejs-4l38)
-- [Dev.to/JS] [Passenger Counter](https://dev.to/kirzin/passenger-counter-e88)
 - [Lifehacker] [How to Choose the Safest Bicycle Helmet](https://lifehacker.com/how-to-choose-the-safest-bicycle-helmet-1850715630)
 - [Lifehacker] [Make Some Cheese Crisps In Your Microwave](https://lifehacker.com/make-some-cheese-crisps-in-your-microwave-1850714549)
 - [Lifehacker] [These Books Can Help You Become a More Effective Leader at Work](https://lifehacker.com/these-books-can-help-you-become-a-more-effective-leader-1850713275)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Save Soft, Melted Pie Dough With a Bag of Frozen Vegetables](https://lifehacker.com/save-soft-melted-pie-dough-with-a-bag-of-frozen-vegeta-1850712930)
 - [Lifehacker] [Stay Motivated at Work With an Accomplishment Journal](https://lifehacker.com/stay-motivated-at-work-with-an-accomplishment-journal-1850713034)
 - [Lifehacker] [Let Google Check Your Grammar For You](https://lifehacker.com/let-google-check-your-grammar-for-you-1850712771)
-- [Lifehacker] [This Chrome Extension Searches Every Airline Booking Site for the Cheapest Flights](https://lifehacker.com/this-chrome-extension-searches-every-airline-booking-si-1850709238)
-- [Lifehacker] [What You Need to Know About Thematic Investing](https://lifehacker.com/what-you-need-to-know-about-thematic-investing-1850712725)
-- [Lifehacker] [Prepare Your Porch for Winter Now](https://lifehacker.com/prepare-your-porch-for-winter-now-1850712123)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Chrome Extension Searches Every Airline Booking Site for the Cheapest Flights](https://lifehacker.com/this-chrome-extension-searches-every-airline-booking-si-1850709238)<!-- TECH-POSTS:END -->
 
 ---
 
