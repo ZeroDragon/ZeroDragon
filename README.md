@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Step-by-Step guide for implementing Amazon login on the web with OAuth](https://dev.to/hackmamba/step-by-step-guide-for-implementing-amazon-login-on-the-web-with-oauth-c6g)
+- [Lifehacker] [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
 - [Dev.to/JS] [React Custom Hook: useClickOutside](https://dev.to/sergeyleschev/react-custom-hook-useclickoutside-2gb1)
+- [Lifehacker] [Fry Your Eggs in Brine for Surprisingly Nuanced Flavor](https://lifehacker.com/fry-your-eggs-in-brine-for-surprisingly-nuanced-flavor-1850718578)
 - [Lifehacker] [The Best Gear to Help You Focus at Work](https://lifehacker.com/the-best-gear-to-help-you-focus-at-work-1850718629)
 - [Lifehacker] [How to Set a Music Alarm With Your Google Home Speaker](https://lifehacker.com/how-to-set-a-music-alarm-with-your-google-home-speaker-1822673391)
 - [Lifehacker] [Seven Ways to Hide an Old Fireplace](https://lifehacker.com/seven-ways-to-hide-an-old-fireplace-1850717787)
@@ -53,7 +56,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Turn Cheap Balsamic Vinegar Into a Fancy Syrup](https://lifehacker.com/turn-cheap-balsamic-vinegar-into-a-fancy-syrup-1850715506)
 - [Lifehacker] [Hackers Can Steal Your Passwords by Listening to You Type](https://lifehacker.com/hackers-can-steal-your-passwords-by-listening-to-you-ty-1850717183)
 - [Dev.to/JS] [How to fetch in Typescript like pro ?](https://dev.to/harshkumar77/how-to-fetch-in-typescript-like-pro--4jfp)
-- [Dev.to/JS] [Day 21: Iterators](https://dev.to/dhrn/day-21-iterators-2pj4)
 - [Lifehacker] [When to Clean Your Air Ducts, According to the EPA](https://lifehacker.com/when-to-clean-your-air-ducts-according-to-the-epa-1850716179)
 - [Lifehacker] [You Can Get a Lifetime Babbel Subscription for 67% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-babbel-subscription-for-67-off-1850705208)
 - [Lifehacker] [Every Towel in Your Home Is Grosser Than You Think](https://lifehacker.com/every-towel-in-your-home-is-grosser-than-you-think-1850716030)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Some Cheese Crisps In Your Microwave](https://lifehacker.com/make-some-cheese-crisps-in-your-microwave-1850714549)
 - [Lifehacker] [These Books Can Help You Become a More Effective Leader at Work](https://lifehacker.com/these-books-can-help-you-become-a-more-effective-leader-1850713275)
 - [Lifehacker] [How to Prep, Store, and Cook With Hatch Chile Peppers](https://lifehacker.com/how-to-prep-store-and-cook-with-hatch-chile-peppers-1850706612)
-- [Lifehacker] [The Best Ways to Use Up Old Spices](https://lifehacker.com/the-best-ways-to-use-up-old-spices-1849423616)
-- [Lifehacker] [You Should Probably Stop Watching Home Improvement Shows](https://lifehacker.com/you-should-probably-stop-watching-home-improvement-show-1850713364)
-- [Lifehacker] [The Best Way to Compost If You Don&#39;t Want to Compost](https://lifehacker.com/the-best-way-to-compost-if-you-dont-want-to-compost-1850714526)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Use Up Old Spices](https://lifehacker.com/the-best-ways-to-use-up-old-spices-1849423616)<!-- TECH-POSTS:END -->
 
 ---
 
