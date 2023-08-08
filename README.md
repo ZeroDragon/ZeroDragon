@@ -26,18 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Firebase vs. Supabase](https://dev.to/ishratumar/firebase-vs-supabase-22oi)
+- [Dev.to/JS] [Add Authentication to Any Web Page in 10 Minutes](https://dev.to/bobur/add-authentication-to-any-web-page-in-10-minutes-jo8)
+- [Dev.to/JS] [✨ 7 open-source libraries you must know in 2023 🪄✨](https://dev.to/github20k/7-open-source-libraries-you-must-know-in-2023-2ach)
 - [Dev.to/JS] [Getting Started with Bryntum Grid, React, and RxJS](https://dev.to/bryntum/getting-started-with-bryntum-grid-react-and-rxjs-38jg)
 - [Dev.to/JS] [Moonly weekly progress update #60 - Automatio FAQ](https://dev.to/moonly/moonly-weekly-progress-update-60-automatio-faq-18g1)
 - [Dev.to/JS] [Coding Beyond Limits: My Journey of Building a Web App with AI Creativity](https://dev.to/svijaykoushik/coding-beyond-limits-my-journey-of-building-a-web-app-with-ai-creativity-1b1p)
-- [Dev.to/JS] [Introducing ModelFusion: Build AI apps with JavaScript and TypeScript.](https://dev.to/lgrammel/introducing-modelfusion-build-ai-apps-with-javascript-and-typescript-4aia)
+- [Dev.to/JS] [Introducing ModelFusion: Build AI apps with JavaScript and TypeScript](https://dev.to/lgrammel/introducing-modelfusion-build-ai-apps-with-javascript-and-typescript-4aia)
 - [Dev.to/JS] [5 Essential Daily Habits to Elevate Your React Developer Productivity](https://dev.to/bilal1718/5-essential-daily-habits-to-elevate-your-react-developer-productivity-300c)
 - [Dev.to/JS] [Understanding The Event Loop in NodeJs Easily](https://dev.to/sarahokolo/understanding-the-event-loop-in-nodejs-easily-399m)
+- [Dev.to/JS] [It&#39;s done! Rust-like API in your JavaScript code](https://dev.to/vitalicset/its-done-rust-like-api-in-your-javascript-code-1e76)
 - [Dev.to/JS] [Strategi Bermain Poker Online yang Efektif: Tips untuk Meningkatkan Peluang Menang](https://dev.to/phylliscar32099/strategi-bermain-poker-online-yang-efektif-tips-untuk-meningkatkan-peluang-menang-92a)
 - [Dev.to/JS] [How to Digitize Paper Documents in Angular Web Applications](https://dev.to/yushulx/how-to-digitize-paper-documents-in-angular-web-applications-1jan)
-- [Dev.to/JS] [🚀 How I Resolved the &quot;Too Many Re-Renders&quot; Error in React by Using Arrow Functions!](https://dev.to/engineervinay/how-i-resolved-the-too-many-re-renders-error-in-react-by-using-arrow-functions-1g2h)
-- [Dev.to/JS] [10 Tips for Creating Powerful Conference Talks](https://dev.to/shrutikapoor08/tips-for-creating-powerful-conference-talks-2ki5)
-- [Dev.to/JS] [Stric: A web framework](https://dev.to/revenity/stric-a-web-framework-1aak)
-- [Dev.to/JS] [Problem with JS method](https://dev.to/xcyl/problem-with-js-method-2djh)
 - [Lifehacker] [These Books Can Help You Become a More Effective Leader at Work](https://lifehacker.com/these-books-can-help-you-become-a-more-effective-leader-1850713275)
 - [Lifehacker] [How to Prep, Store, and Cook With Hatch Chile Peppers](https://lifehacker.com/how-to-prep-store-and-cook-with-hatch-chile-peppers-1850706612)
 - [Lifehacker] [The Best Ways to Use Up Old Spices](https://lifehacker.com/the-best-ways-to-use-up-old-spices-1849423616)
