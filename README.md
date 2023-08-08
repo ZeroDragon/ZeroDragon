@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Business Apps and CRMs - NO CODE](https://dev.to/aiforme/business-apps-and-crms-no-code-4e91)
 - [Dev.to/JS] [Mitigating DOM clobbering attacks in JavaScript](https://dev.to/snyk/mitigating-dom-clobbering-attacks-in-javascript-kkk)
 - [Dev.to/JS] [Mastering JS Shorthand Techniques Part-3: Ternary Operators, Arrays Methods, and Object Properties](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-code-faster-and-cleaner-part-3-2mb9)
 - [Dev.to/JS] [Elopement Photography Packages](https://dev.to/jimmy12334dev/elopement-photography-packages-4b2a)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Fix Your Broken Xbox Controllers Yourself](https://lifehacker.com/you-can-finally-fix-your-broken-xbox-controllers-yourse-1850712461)
 - [Dev.to/JS] [Enhance your TypeScript with Type Guards](https://dev.to/brainiacneit/enhance-your-typescript-with-type-guards-1f2h)
 - [Dev.to/JS] [Emoji string lengths](https://dev.to/jericirenej/emoji-string-lengths-4pak)
-- [Dev.to/JS] [I&#39;m joining Astro full time!](https://dev.to/eliancodes/im-joining-astro-full-time-103l)
 - [Lifehacker] [Get Two Pairs of Wireless Earbuds With a Phone-Charging Case for $40](https://lifehacker.com/get-two-pairs-of-wireless-earbuds-with-a-phone-charging-1850702087)
 - [Lifehacker] [10 Tasty Ways You Should Be Eating Tomatoes](https://lifehacker.com/12-tasty-ways-you-should-be-eating-tomatoes-1847343803)
 - [Lifehacker] [Save Soft, Melted Pie Dough With a Bag of Frozen Vegetables](https://lifehacker.com/save-soft-melted-pie-dough-with-a-bag-of-frozen-vegeta-1850712930)
