@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Apple Music&#39;s Discovery Station Is a Decent Spotify Discover Weekly Alternative &lpar;Finally&rpar;](https://lifehacker.com/apple-musics-discovery-station-is-a-decent-spotify-disc-1850717817)
+- [Dev.to/JS] [Socket.io basic setup](https://dev.to/harshitpd/socketio-basic-setup-8a2)
+- [Dev.to/JS] [Simplifying API Calls with URLSearchParams and Fetch](https://dev.to/sanjampreetsingh/simplifying-api-calls-with-urlsearchparams-and-fetch-8gn)
+- [Lifehacker] [Turn Any Vegetable Into a Smoky Dip](https://lifehacker.com/how-to-turn-any-vegetable-into-a-delicious-smoky-dip-1831349613)
 - [Lifehacker] [Prioritize Your Tasks With the Eisenhower Matrix](https://lifehacker.com/prioritize-your-tasks-with-the-eisenhower-matrix-1850718007)
+- [Dev.to/JS] [Three Pillars of Web Development](https://dev.to/semharhidad/three-pillars-of-web-development-3p38)
 - [Dev.to/JS] [Is JavaScript Null actually a Object ?](https://dev.to/mohitsinghchauhan/is-javascript-null-actually-a-object--nog)
 - [Dev.to/JS] [Utilizing VisX for React Data Visualization](https://dev.to/brainiacneit/utilizing-visx-for-react-data-visualization-1lkl)
 - [Lifehacker] [How to Beat Dynamic Airline Award Pricing](https://lifehacker.com/how-to-beat-dynamic-airline-award-pricing-1850717363)
@@ -44,10 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My opinionated JavaScript package template repository - zero config, start immediately](https://dev.to/jankapunkt/my-opinionated-javascript-package-template-repository-zero-config-start-immediately-5090)
 - [Dev.to/JS] [JS Challenge: Count the occurrences of a character/pattern in a string](https://dev.to/jlogix/js-challenge-count-the-occurrences-of-a-characterpattern-in-a-string-4eai)
 - [Dev.to/JS] [Automating Deployments to Heroku with GitHub Actions and Docker: Streamlining the Deployment Process](https://dev.to/thethiago27/automating-deployments-to-heroku-with-github-actions-and-docker-streamlining-the-deployment-process-1pc)
-- [Dev.to/JS] [Understanding Scope Chain](https://dev.to/codethepotato/understanding-scope-chain-2nbi)
 - [Lifehacker] [You Can Get a Lifetime Babbel Subscription for 67% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-babbel-subscription-for-67-off-1850705208)
-- [Dev.to/JS] [Time Management Techniques for Developers: 10 Tips to Boost Productivity](https://dev.to/athifbinu/time-management-techniques-for-developers-10-tips-to-boost-productivity-4518)
-- [Dev.to/JS] [In search of the best EcmaScript version for the website assembly](https://dev.to/yoskutik/in-search-of-the-best-ecmascript-version-for-the-website-assembly-17e9)
 - [Lifehacker] [Every Towel in Your Home Is Grosser Than You Think](https://lifehacker.com/every-towel-in-your-home-is-grosser-than-you-think-1850716030)
 - [Lifehacker] [Be Wary of ChatGPT Clones](https://lifehacker.com/be-wary-of-chatgpt-clones-1850715395)
 - [Lifehacker] [DIY the Ultimate Countertop-Saving Dish Rack](https://lifehacker.com/diy-the-ultimate-countertop-saving-dish-rack-1850714876)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Give Your French Toast the Crème Brûlée Treatment](https://lifehacker.com/give-your-french-toast-the-creme-brulee-treatment-1850714543)
 - [Lifehacker] [How One Late Student Loan Payment Can Affect You](https://lifehacker.com/how-one-late-student-loan-payment-affects-you-1326216867)
 - [Lifehacker] [Check Out What’s Happening in Space This Month](https://lifehacker.com/check-out-what-s-happening-in-space-this-month-1850714259)
-- [Lifehacker] [The PlayStation 5 Is the Cheapest It&#39;s Ever Been](https://lifehacker.com/the-playstation-5-is-the-cheapest-its-ever-been-1850713369)
-- [Lifehacker] [Your Breakfast Sandwich Needs Pickles](https://lifehacker.com/your-breakfast-sandwich-needs-pickles-1832962615)
-- [Lifehacker] [You Can Finally Fix Your Broken Xbox Controllers Yourself](https://lifehacker.com/you-can-finally-fix-your-broken-xbox-controllers-yourse-1850712461)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The PlayStation 5 Is the Cheapest It&#39;s Ever Been](https://lifehacker.com/the-playstation-5-is-the-cheapest-its-ever-been-1850713369)<!-- TECH-POSTS:END -->
 
 ---
 
