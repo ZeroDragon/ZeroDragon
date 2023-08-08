@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 array methods you need to know in javascript!](https://dev.to/dumebii/5-array-methods-you-need-to-know-in-javascript-39i6)
+- [Dev.to/JS] [UI/UX Design Principles for React Native Apps 🎨📱](https://dev.to/medaimane/uiux-design-principles-for-react-native-apps-54n1)
 - [Dev.to/JS] [Step-by-Step guide for implementing Amazon login on the web with OAuth](https://dev.to/hackmamba/step-by-step-guide-for-implementing-amazon-login-on-the-web-with-oauth-c6g)
 - [Lifehacker] [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
 - [Dev.to/JS] [React Custom Hook: useClickOutside](https://dev.to/sergeyleschev/react-custom-hook-useclickoutside-2gb1)
@@ -52,10 +54,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Cookies in Next.js with Redux TK](https://dev.to/arturarakelyan0411/how-to-use-cookies-in-nextjs-with-redux-tk-e95)
 - [Lifehacker] [Add Smoke to Your Salads With a Mezcal Vinaigrette](https://lifehacker.com/add-smoke-to-your-salads-with-a-mezcal-vinaigrette-1850717542)
 - [Lifehacker] [The Money Questions You Should Be Able to Answer](https://lifehacker.com/the-money-questions-you-should-be-able-to-answer-1823456583)
-- [Dev.to/JS] [React Hooks: Cheat Sheet, with examples](https://dev.to/alakkadshaw/react-hooks-cheat-sheet-with-examples-4o30)
 - [Lifehacker] [Turn Cheap Balsamic Vinegar Into a Fancy Syrup](https://lifehacker.com/turn-cheap-balsamic-vinegar-into-a-fancy-syrup-1850715506)
 - [Lifehacker] [Hackers Can Steal Your Passwords by Listening to You Type](https://lifehacker.com/hackers-can-steal-your-passwords-by-listening-to-you-ty-1850717183)
-- [Dev.to/JS] [How to fetch in Typescript like pro ?](https://dev.to/harshkumar77/how-to-fetch-in-typescript-like-pro--4jfp)
 - [Lifehacker] [When to Clean Your Air Ducts, According to the EPA](https://lifehacker.com/when-to-clean-your-air-ducts-according-to-the-epa-1850716179)
 - [Lifehacker] [You Can Get a Lifetime Babbel Subscription for 67% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-babbel-subscription-for-67-off-1850705208)
 - [Lifehacker] [Every Towel in Your Home Is Grosser Than You Think](https://lifehacker.com/every-towel-in-your-home-is-grosser-than-you-think-1850716030)
