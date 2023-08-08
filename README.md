@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [In search of the best EcmaScript version for the website assembly](https://dev.to/yoskutik/in-search-of-the-best-ecmascript-version-for-the-website-assembly-17e9)
+- [Dev.to/JS] [JavaScript Web APIs Series: Device and Sensor APIs](https://dev.to/olodocoder/javascript-web-apis-series-device-and-sensor-apis-12ka)
+- [Dev.to/JS] [Princípios SOLID, KISS, DRY e YAGNI Aplicados no Desenvolvimento com React](https://dev.to/jhonyaraujooficial/principios-solid-kiss-dry-e-yagni-aplicados-no-desenvolvimento-com-react-10na)
+- [Dev.to/JS] [Automate your Visual Creation with NO CODE](https://dev.to/aiforme/automate-your-visual-creation-8bg)
 - [Lifehacker] [Be Wary of ChatGPT Clones](https://lifehacker.com/be-wary-of-chatgpt-clones-1850715395)
+- [Lifehacker] [DIY the Ultimate Countertop-Saving Dish Rack](https://lifehacker.com/diy-the-ultimate-countertop-saving-dish-rack-1850714876)
+- [Dev.to/JS] [Escape room with Three.js](https://dev.to/vulcanwm/escape-room-with-threejs-4l38)
 - [Dev.to/JS] [Passenger Counter](https://dev.to/kirzin/passenger-counter-e88)
 - [Dev.to/JS] [Criando transições com API ViewTransition](https://dev.to/valdeirpsr/criando-transicoes-com-api-viewtransition-4afp)
 - [Lifehacker] [How to Choose the Safest Bicycle Helmet](https://lifehacker.com/how-to-choose-the-safest-bicycle-helmet-1850715630)
@@ -36,11 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Firebase vs. Supabase](https://dev.to/ishratumar/firebase-vs-supabase-22oi)
 - [Dev.to/JS] [Add Authentication to Any Web Page in 10 Minutes](https://dev.to/bobur/add-authentication-to-any-web-page-in-10-minutes-jo8)
 - [Dev.to/JS] [✨ 7 open-source libraries you must know in 2023 🪄✨](https://dev.to/github20k/7-open-source-libraries-you-must-know-in-2023-2ach)
-- [Dev.to/JS] [Getting Started with Bryntum Grid, React, and RxJS](https://dev.to/bryntum/getting-started-with-bryntum-grid-react-and-rxjs-38jg)
-- [Dev.to/JS] [Moonly weekly progress update #60 - Automatio FAQ](https://dev.to/moonly/moonly-weekly-progress-update-60-automatio-faq-18g1)
-- [Dev.to/JS] [Coding Beyond Limits: My Journey of Building a Web App with AI Creativity](https://dev.to/svijaykoushik/coding-beyond-limits-my-journey-of-building-a-web-app-with-ai-creativity-1b1p)
-- [Dev.to/JS] [Introducing ModelFusion: Build AI apps with JavaScript and TypeScript](https://dev.to/lgrammel/introducing-modelfusion-build-ai-apps-with-javascript-and-typescript-4aia)
-- [Dev.to/JS] [5 Essential Daily Habits to Elevate Your React Developer Productivity](https://dev.to/bilal1718/5-essential-daily-habits-to-elevate-your-react-developer-productivity-300c)
 - [Lifehacker] [These Books Can Help You Become a More Effective Leader at Work](https://lifehacker.com/these-books-can-help-you-become-a-more-effective-leader-1850713275)
 - [Lifehacker] [How to Prep, Store, and Cook With Hatch Chile Peppers](https://lifehacker.com/how-to-prep-store-and-cook-with-hatch-chile-peppers-1850706612)
 - [Lifehacker] [The Best Ways to Use Up Old Spices](https://lifehacker.com/the-best-ways-to-use-up-old-spices-1849423616)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Prepare Your Porch for Winter Now](https://lifehacker.com/prepare-your-porch-for-winter-now-1850712123)
 - [Lifehacker] [You Can Get a Sam’s Club Membership for 50% Off Right Now](https://lifehacker.com/you-can-get-a-sam-s-club-membership-for-50-off-right-n-1850702110)
 - [Lifehacker] [Everything You Need to Keep Your Patio Cool and Pest-Free](https://lifehacker.com/everything-you-need-to-keep-your-patio-cool-and-pest-fr-1850712249)
-- [Lifehacker] [Check Out These Sex-Positive Resorts](https://lifehacker.com/check-out-these-sex-positive-resorts-1850709373)
-- [Lifehacker] [How to Feel Less Insecure About Your Parenting](https://lifehacker.com/how-to-feel-less-insecure-about-your-parenting-1850709145)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Check Out These Sex-Positive Resorts](https://lifehacker.com/check-out-these-sex-positive-resorts-1850709373)<!-- TECH-POSTS:END -->
 
 ---
 
