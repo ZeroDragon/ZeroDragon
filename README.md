@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Strategi Bermain Poker Online yang Efektif: Tips untuk Meningkatkan Peluang Menang](https://dev.to/phylliscar32099/strategi-bermain-poker-online-yang-efektif-tips-untuk-meningkatkan-peluang-menang-92a)
+- [Dev.to/JS] [How to Digitize Paper Documents in Angular Web Applications](https://dev.to/yushulx/how-to-digitize-paper-documents-in-angular-web-applications-1jan)
+- [Dev.to/JS] [🚀 How I Resolved the &quot;Too Many Re-Renders&quot; Error in React by Using Arrow Functions!](https://dev.to/engineervinay/how-i-resolved-the-too-many-re-renders-error-in-react-by-using-arrow-functions-1g2h)
+- [Dev.to/JS] [10 Tips for Creating Powerful Conference Talks](https://dev.to/shrutikapoor08/tips-for-creating-powerful-conference-talks-2ki5)
 - [Dev.to/JS] [Stric: A web framework](https://dev.to/revenity/stric-a-web-framework-1aak)
 - [Dev.to/JS] [Problem with JS method](https://dev.to/xcyl/problem-with-js-method-2djh)
 - [Dev.to/JS] [Javascript array manipulation using the push, pop, unshift, and shift methods](https://dev.to/eoluwaseun/javascript-array-manipulation-using-the-push-pop-unshift-and-shift-methods-37fm)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Immediate Connect - Reviews, Results, Benefits, Price &amp; Side Effects?](https://dev.to/immediatec68059/immediate-connect-reviews-results-benefits-price-side-effects-ck7)
 - [Dev.to/JS] [🤖 5 Advanced concepts of React you should learning ⚠️](https://dev.to/martygo/5-advanced-concepts-of-react-you-should-learning-1bd0)
 - [Dev.to/JS] [Business Apps and CRMs - NO CODE](https://dev.to/aiforme/business-apps-and-crms-no-code-4e91)
-- [Dev.to/JS] [Mitigating DOM clobbering attacks in JavaScript](https://dev.to/snyk/mitigating-dom-clobbering-attacks-in-javascript-kkk)
-- [Dev.to/JS] [Mastering JS Shorthand Techniques Part-3: Ternary Operators, Arrays Methods, and Object Properties](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-code-faster-and-cleaner-part-3-2mb9)
-- [Dev.to/JS] [Elopement Photography Packages](https://dev.to/jimmy12334dev/elopement-photography-packages-4b2a)
-- [Dev.to/JS] [Creating a Mixpanel Plugin with Fastify](https://dev.to/thethiago27/creating-a-mixpanel-plugin-with-fastify-59h4)
 - [Lifehacker] [These Books Can Help You Become a More Effective Leader at Work](https://lifehacker.com/these-books-can-help-you-become-a-more-effective-leader-1850713275)
 - [Lifehacker] [How to Prep, Store, and Cook With Hatch Chile Peppers](https://lifehacker.com/how-to-prep-store-and-cook-with-hatch-chile-peppers-1850706612)
 - [Lifehacker] [The Best Ways to Use Up Old Spices](https://lifehacker.com/the-best-ways-to-use-up-old-spices-1849423616)
