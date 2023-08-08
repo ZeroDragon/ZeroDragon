@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mitigating DOM clobbering attacks in JavaScript](https://dev.to/snyk/mitigating-dom-clobbering-attacks-in-javascript-kkk)
 - [Dev.to/JS] [Mastering JS Shorthand Techniques Part-3: Ternary Operators, Arrays Methods, and Object Properties](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-code-faster-and-cleaner-part-3-2mb9)
 - [Dev.to/JS] [Elopement Photography Packages](https://dev.to/jimmy12334dev/elopement-photography-packages-4b2a)
 - [Dev.to/JS] [Creating a Mixpanel Plugin with Fastify](https://dev.to/thethiago27/creating-a-mixpanel-plugin-with-fastify-59h4)
@@ -53,7 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get Two Pairs of Wireless Earbuds With a Phone-Charging Case for $40](https://lifehacker.com/get-two-pairs-of-wireless-earbuds-with-a-phone-charging-1850702087)
 - [Lifehacker] [10 Tasty Ways You Should Be Eating Tomatoes](https://lifehacker.com/12-tasty-ways-you-should-be-eating-tomatoes-1847343803)
 - [Lifehacker] [Save Soft, Melted Pie Dough With a Bag of Frozen Vegetables](https://lifehacker.com/save-soft-melted-pie-dough-with-a-bag-of-frozen-vegeta-1850712930)
-- [Dev.to/JS] [JavaScript Callbacks vs. Promises vs. async/await: Choosing the Right Approach](https://dev.to/imshashwat001/javascript-callbacks-vs-promises-vs-asyncawait-choosing-the-right-approach-3e4c)
 - [Lifehacker] [Stay Motivated at Work With an Accomplishment Journal](https://lifehacker.com/stay-motivated-at-work-with-an-accomplishment-journal-1850713034)
 - [Lifehacker] [Let Google Check Your Grammar For You](https://lifehacker.com/let-google-check-your-grammar-for-you-1850712771)
 - [Lifehacker] [This Chrome Extension Searches Every Airline Booking Site for the Cheapest Flights](https://lifehacker.com/this-chrome-extension-searches-every-airline-booking-si-1850709238)
