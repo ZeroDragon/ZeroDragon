@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Understanding The Event Loop in NodeJs Easily.](https://dev.to/sarahokolo/understanding-the-event-loop-in-nodejs-easily-399m)
+- [Dev.to/JS] [Introducing ModelFusion: Build AI apps with JavaScript and TypeScript.](https://dev.to/lgrammel/introducing-modelfusion-build-ai-apps-with-javascript-and-typescript-4aia)
+- [Dev.to/JS] [5 Essential Daily Habits to Elevate Your React Developer Productivity](https://dev.to/bilal1718/5-essential-daily-habits-to-elevate-your-react-developer-productivity-300c)
+- [Dev.to/JS] [Understanding The Event Loop in NodeJs Easily](https://dev.to/sarahokolo/understanding-the-event-loop-in-nodejs-easily-399m)
 - [Dev.to/JS] [Strategi Bermain Poker Online yang Efektif: Tips untuk Meningkatkan Peluang Menang](https://dev.to/phylliscar32099/strategi-bermain-poker-online-yang-efektif-tips-untuk-meningkatkan-peluang-menang-92a)
 - [Dev.to/JS] [How to Digitize Paper Documents in Angular Web Applications](https://dev.to/yushulx/how-to-digitize-paper-documents-in-angular-web-applications-1jan)
 - [Dev.to/JS] [🚀 How I Resolved the &quot;Too Many Re-Renders&quot; Error in React by Using Arrow Functions!](https://dev.to/engineervinay/how-i-resolved-the-too-many-re-renders-error-in-react-by-using-arrow-functions-1g2h)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript array manipulation using the push, pop, unshift, and shift methods](https://dev.to/eoluwaseun/javascript-array-manipulation-using-the-push-pop-unshift-and-shift-methods-37fm)
 - [Dev.to/JS] [Journey From React to Next.js: Building Modern Web Apps for SEO and Performance](https://dev.to/basavarajrp/journey-from-react-to-nextjs-building-modern-web-apps-for-seo-and-performance-2070)
 - [Dev.to/JS] [How to Deploy a Node.js App to DigitalOcean?](https://dev.to/puratabla/how-to-deploy-a-nodejs-app-to-digitalocean-1en1)
-- [Dev.to/JS] [Immediate Connect - Reviews, Results, Benefits, Price &amp; Side Effects?](https://dev.to/immediatec68059/immediate-connect-reviews-results-benefits-price-side-effects-ck7)
-- [Dev.to/JS] [🤖 5 Advanced concepts of React you should learning ⚠️](https://dev.to/martygo/5-advanced-concepts-of-react-you-should-learning-1bd0)
 - [Lifehacker] [These Books Can Help You Become a More Effective Leader at Work](https://lifehacker.com/these-books-can-help-you-become-a-more-effective-leader-1850713275)
 - [Lifehacker] [How to Prep, Store, and Cook With Hatch Chile Peppers](https://lifehacker.com/how-to-prep-store-and-cook-with-hatch-chile-peppers-1850706612)
 - [Lifehacker] [The Best Ways to Use Up Old Spices](https://lifehacker.com/the-best-ways-to-use-up-old-spices-1849423616)
