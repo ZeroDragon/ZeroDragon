@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React State vs. React Context: Deciding How to Manage State](https://dev.to/imevanc/react-state-vs-react-context-deciding-how-to-manage-state-15e3)
+- [Lifehacker] [Why You Should Use a VPN When Booking a Hotel](https://lifehacker.com/why-you-should-use-a-vpn-when-booking-a-hotel-1850722600)
+- [Dev.to/JS] [Classes in JavaScript](https://dev.to/ojal_dev/classes-in-javascript-19bd)
+- [Dev.to/JS] [React Custom Hook: useCookie](https://dev.to/sergeyleschev/react-custom-hook-usecookie-5e35)
+- [Lifehacker] [All the New Threads Features You Should Know About](https://lifehacker.com/all-the-new-threads-features-you-should-know-about-1850722073)
 - [Dev.to/JS] [Created simple phone number compression functions.](https://dev.to/hidao80/phone-number-compression-1mip)
 - [Lifehacker] [Your iPhone Can Clone Your Voice](https://lifehacker.com/your-iphone-can-clone-your-voice-1850722400)
 - [Lifehacker] [The Best Ways to Teach Yourself to Code](https://lifehacker.com/top-10-ways-to-teach-yourself-to-code-1684250889)
@@ -54,18 +59,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get These Two Ninja Drones for $150 Right Now](https://lifehacker.com/you-can-get-these-two-ninja-drones-for-150-right-now-1850705303)
 - [Lifehacker] [The Best, Least Messy Way to Cut Large Fruit](https://lifehacker.com/the-best-least-messy-way-to-cut-large-fruit-1850720567)
 - [Dev.to/JS] [Day 22: Modules](https://dev.to/dhrn/understanding-modules-24fo)
-- [Dev.to/JS] [Tech Trends 2023: Hottest Web Development Technologies](https://dev.to/flatlogic/tech-trends-2023-hottest-web-development-technologies-2l2j)
 - [Lifehacker] [The Best Water Filters to Remove &#39;Forever Chemicals&#39;](https://lifehacker.com/the-best-water-filters-to-remove-forever-chemicals-1850718819)
-- [Dev.to/JS] [Expressive code &gt; Clean code](https://dev.to/noblica/expressive-code-clean-code-59o7)
 - [Lifehacker] [The Better Way to Make TikTok’s Cottage Cheese Cinnamon Protein Toast](https://lifehacker.com/make-a-better-tiktok-protein-toast-1850719264)
-- [Dev.to/JS] [Next.js Full Stack Food Delivery App &lpar;5+ Hours Free Tutorial&rpar;](https://dev.to/safak/nextjs-full-stack-food-delivery-app-5-hours-free-tutorial-1kg9)
 - [Lifehacker] [The 10 Best Original Star Trek Episodes for Fans of &#39;Strange New Worlds&#39;](https://lifehacker.com/the-10-best-original-star-trek-episodes-for-fans-of-bra-1850719883)
 - [Lifehacker] [Eight Inexpensive Backyard Upgrades That Don&#39;t Require Planting Anything](https://lifehacker.com/best-inexpensive-backyard-updates-1850717278)
 - [Lifehacker] [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
 - [Lifehacker] [Fry Your Eggs in Brine for Surprisingly Nuanced Flavor](https://lifehacker.com/fry-your-eggs-in-brine-for-surprisingly-nuanced-flavor-1850718578)
-- [Lifehacker] [The Best Gear to Help You Focus at Work](https://lifehacker.com/the-best-gear-to-help-you-focus-at-work-1850718629)
-- [Lifehacker] [How to Set a Music Alarm With Your Google Home Speaker](https://lifehacker.com/how-to-set-a-music-alarm-with-your-google-home-speaker-1822673391)
-- [Lifehacker] [Seven Ways to Hide an Old Fireplace](https://lifehacker.com/seven-ways-to-hide-an-old-fireplace-1850717787)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Gear to Help You Focus at Work](https://lifehacker.com/the-best-gear-to-help-you-focus-at-work-1850718629)<!-- TECH-POSTS:END -->
 
 ---
 
