@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering JavaScript Shorthand Techniques: Code Faster and Cleaner Part 4](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-code-faster-and-cleaner-part-4-4821)
+- [Dev.to/JS] [Authentication and Authorization in React Native Apps: Securing User Access 🛡️🔒](https://dev.to/medaimane/authentication-and-authorization-in-react-native-apps-securing-user-access-3n12)
 - [Dev.to/JS] [This VSC Extension is gonna save your life.](https://dev.to/linnovel/this-vsc-extension-is-gonna-save-your-life-35f0)
 - [Dev.to/JS] [How to make a Domain Generator](https://dev.to/linnovel/how-to-make-a-domain-generator-4a8e)
 - [Dev.to/JS] [E o reduce do JavaScript?](https://dev.to/anabergerr/e-o-reduce-do-javascript-4e4d)
@@ -37,14 +39,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [UI/UX Design Principles for React Native Apps 🎨📱](https://dev.to/medaimane/uiux-design-principles-for-react-native-apps-54n1)
 - [Dev.to/JS] [Step-by-Step guide for implementing Amazon login on the web with OAuth](https://dev.to/hackmamba/step-by-step-guide-for-implementing-amazon-login-on-the-web-with-oauth-c6g)
 - [Lifehacker] [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
-- [Dev.to/JS] [React Custom Hook: useClickOutside](https://dev.to/sergeyleschev/react-custom-hook-useclickoutside-2gb1)
 - [Lifehacker] [Fry Your Eggs in Brine for Surprisingly Nuanced Flavor](https://lifehacker.com/fry-your-eggs-in-brine-for-surprisingly-nuanced-flavor-1850718578)
 - [Lifehacker] [The Best Gear to Help You Focus at Work](https://lifehacker.com/the-best-gear-to-help-you-focus-at-work-1850718629)
 - [Lifehacker] [How to Set a Music Alarm With Your Google Home Speaker](https://lifehacker.com/how-to-set-a-music-alarm-with-your-google-home-speaker-1822673391)
 - [Lifehacker] [Seven Ways to Hide an Old Fireplace](https://lifehacker.com/seven-ways-to-hide-an-old-fireplace-1850717787)
 - [Lifehacker] [Your PS5 Can Apparently Melt a Wired Controller&#39;s USB Plug](https://lifehacker.com/your-ps5-can-apparently-melt-a-wired-controllers-usb-pl-1850717783)
 - [Lifehacker] [You Can Get Free Taco Bell for the Next Five Tuesdays](https://lifehacker.com/you-can-get-free-taco-bell-for-the-next-five-tuesdays-1850718268)
-- [Dev.to/JS] [The simplest example to understand Server Actions in Next.js](https://dev.to/scastiel/the-simplest-example-to-understand-server-actions-in-nextjs-5533)
 - [Lifehacker] [Get Student Discounts at All of These Streaming Services](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322)
 - [Lifehacker] [Apple Music&#39;s Discovery Station Is a Decent Spotify Discover Weekly Alternative &lpar;Finally&rpar;](https://lifehacker.com/apple-musics-discovery-station-is-a-decent-spotify-disc-1850717817)
 - [Lifehacker] [Turn Any Vegetable Into a Smoky Dip](https://lifehacker.com/how-to-turn-any-vegetable-into-a-delicious-smoky-dip-1831349613)
