@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Refurbished iPad Air Is $150 Right Now](https://lifehacker.com/this-refurbished-ipad-air-is-150-right-now-1850705010)
+- [Lifehacker] [You Should Turn Off Your YouTube Watch History](https://lifehacker.com/you-should-turn-off-your-youtube-watch-history-1850720994)
+- [Dev.to/JS] [Attack of the Clones](https://dev.to/wraith/attack-of-the-clones-1pe7)
+- [Dev.to/JS] [JS Challenge: Check if an array has all its values sorted in the ascending order](https://dev.to/jlogix/js-challenge-check-if-an-array-has-all-its-values-sorted-in-the-ascending-order-34i0)
+- [Lifehacker] [Everything You Need to Go to Sleep Like Royalty](https://lifehacker.com/how-to-go-to-sleep-like-fucking-royalty-1848593982)
+- [Lifehacker] [Why You Should Start Planning Next Year’s Summer Travel Right Now](https://lifehacker.com/why-you-should-start-planning-next-year-s-summer-travel-1850721019)
 - [Lifehacker] [Track Your Work With the Kanban Method](https://lifehacker.com/track-your-work-with-the-kanban-method-1850721028)
 - [Lifehacker] [What You Should Do When an Employer Ghosts You](https://lifehacker.com/what-you-should-do-when-an-employer-ghosts-you-1850720900)
 - [Lifehacker] [You Can Get These Two Ninja Drones for $150 Right Now](https://lifehacker.com/you-can-get-these-two-ninja-drones-for-150-right-now-1850705303)
@@ -44,8 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Opportunities and challenges in the development of mobile applications with AI](https://dev.to/sparkouttech/opportunities-and-challenges-in-the-development-of-mobile-applications-with-ai-4k7k)
 - [Dev.to/JS] [Enhance Job Seeker Experience: Quick Image Upload for Portals](https://dev.to/ideradevtools/enhance-job-seeker-experience-quick-image-upload-for-portals-56oh)
 - [Dev.to/JS] [Understanding React Context API and UseReducer Hooks for beginner](https://dev.to/dennisjunior247_/understanding-context-api-and-usereducer-hooks-for-beginner-3jp5)
-- [Dev.to/JS] [Undoing the Most Recent Local Commits in Git: A Step-by-Step Guide](https://dev.to/iamcymentho/undoing-the-most-recent-local-commits-in-git-a-step-by-step-guide-39d6)
-- [Dev.to/JS] [GraphQL Tools Transformations](https://dev.to/wspringer/graphql-tools-transformations-n9k)
 - [Lifehacker] [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
 - [Lifehacker] [Fry Your Eggs in Brine for Surprisingly Nuanced Flavor](https://lifehacker.com/fry-your-eggs-in-brine-for-surprisingly-nuanced-flavor-1850718578)
 - [Lifehacker] [The Best Gear to Help You Focus at Work](https://lifehacker.com/the-best-gear-to-help-you-focus-at-work-1850718629)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Aioli Is Not &#39;Fancy Mayonnaise&#39;](https://lifehacker.com/aioli-is-not-fancy-mayonnaise-1829347023)
 - [Lifehacker] [Automate Your Job Hunt With This $60 AI](https://lifehacker.com/automate-your-job-hunt-with-this-60-ai-1850707815)
 - [Lifehacker] [Add Smoke to Your Salads With a Mezcal Vinaigrette](https://lifehacker.com/add-smoke-to-your-salads-with-a-mezcal-vinaigrette-1850717542)
-- [Lifehacker] [The Money Questions You Should Be Able to Answer](https://lifehacker.com/the-money-questions-you-should-be-able-to-answer-1823456583)
-- [Lifehacker] [Turn Cheap Balsamic Vinegar Into a Fancy Syrup](https://lifehacker.com/turn-cheap-balsamic-vinegar-into-a-fancy-syrup-1850715506)
-- [Lifehacker] [Hackers Can Steal Your Passwords by Listening to You Type](https://lifehacker.com/hackers-can-steal-your-passwords-by-listening-to-you-ty-1850717183)
-- [Lifehacker] [When to Clean Your Air Ducts, According to the EPA](https://lifehacker.com/when-to-clean-your-air-ducts-according-to-the-epa-1850716179)
-- [Lifehacker] [You Can Get a Lifetime Babbel Subscription for 67% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-babbel-subscription-for-67-off-1850705208)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Money Questions You Should Be Able to Answer](https://lifehacker.com/the-money-questions-you-should-be-able-to-answer-1823456583)<!-- TECH-POSTS:END -->
 
 ---
 
