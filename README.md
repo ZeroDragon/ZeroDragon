@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GraphQL Tools Transformations](https://dev.to/wspringer/graphql-tools-transformations-n9k)
+- [Dev.to/JS] [Embracing Imperfection: Why You Should Start Applying Even When You Think You&#39;re Not Good Enough](https://dev.to/kaushit/embracing-imperfection-why-you-should-start-applying-even-when-you-think-youre-not-good-enough-4b4j)
+- [Dev.to/JS] [How To Organise Your Tailwind CSS Classes in Next js](https://dev.to/martins_ngene/how-to-organise-your-tailwind-css-classes-in-next-js-4314)
 - [Dev.to/JS] [How to make your Node.js app accessible on a local network](https://dev.to/jimajs/how-to-make-your-nodejs-app-accessible-on-a-local-network-8ih)
 - [Dev.to/JS] [Getting Started with React Native in 2023: An Comprehensive Guide for Beginners](https://dev.to/dravidjones28/getting-started-with-react-native-in-2023-an-comprehensive-guide-for-beginners-2b3e)
 - [Dev.to/JS] [What is WebAssembly? and does it have the potential to replace JavaScript on the web?](https://dev.to/wainainapeter/what-is-webassembly-and-does-it-have-the-potential-to-replace-javascript-on-the-web-28b2)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Modularization and Bundling in Modern Web Development: A Comprehensive Guide to Efficiency](https://dev.to/abhaysinghr1/modularization-and-bundling-in-modern-web-development-a-comprehensive-guide-to-efficiency-1ng2)
 - [Dev.to/JS] [Cloud Providers Showdown: AWS vs. Azure vs. Google Cloud](https://dev.to/iamcymentho/cloud-providers-showdown-aws-vs-azure-vs-google-cloud-424o)
 - [Dev.to/JS] [Did anyone know how to rectify this error?](https://dev.to/kasiviswanthchinta/did-anyone-how-to-rectify-this-error-1536)
-- [Dev.to/JS] [Power of Promises in JavaScript - Asynchronous Magic 🔥](https://dev.to/malikbilal111/power-of-promises-in-javascript-asynchronous-magic-3o4g)
-- [Dev.to/JS] [Weekly web development resources #161](https://dev.to/vincenius/weekly-web-development-resources-161-58ie)
-- [Dev.to/JS] [Unleash Your Potential: The Hidden Gems of Fitness App Development](https://dev.to/dhruv068/unleash-your-potential-the-hidden-gems-of-fitness-app-development-392k)
 - [Lifehacker] [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
 - [Lifehacker] [Fry Your Eggs in Brine for Surprisingly Nuanced Flavor](https://lifehacker.com/fry-your-eggs-in-brine-for-surprisingly-nuanced-flavor-1850718578)
 - [Lifehacker] [The Best Gear to Help You Focus at Work](https://lifehacker.com/the-best-gear-to-help-you-focus-at-work-1850718629)
