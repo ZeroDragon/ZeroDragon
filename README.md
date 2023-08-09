@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleash Your Potential: The Hidden Gems of Fitness App Development](https://dev.to/dhruv068/unleash-your-potential-the-hidden-gems-of-fitness-app-development-392k)
+- [Dev.to/JS] [Top 7 Code Playgrounds That Every Web Developer Should Check Out 🚀](https://dev.to/this-is-learning/top-7-code-playgrounds-that-every-web-developer-should-check-out-b7a)
+- [Dev.to/JS] [How To Get ChatGPT API Key? A Step-by-Step Guide](https://dev.to/onlinemsr/how-to-get-chatgpt-api-key-a-step-by-step-guide-4ol2)
 - [Dev.to/JS] [Mastering JavaScript Shorthand Techniques: Code Faster and Cleaner Part 4](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-code-faster-and-cleaner-part-4-4821)
 - [Dev.to/JS] [Authentication and Authorization in React Native Apps: Securing User Access 🛡️🔒](https://dev.to/medaimane/authentication-and-authorization-in-react-native-apps-securing-user-access-3n12)
 - [Dev.to/JS] [This VSC Extension is gonna save your life.](https://dev.to/linnovel/this-vsc-extension-is-gonna-save-your-life-35f0)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting to know about React](https://dev.to/samluxtech/getting-to-know-about-react-1eei)
 - [Dev.to/JS] [Making a simple drag and drop with JS!](https://dev.to/lensco825/making-a-simple-drag-and-drop-with-js-29l2)
 - [Dev.to/JS] [Node.js - O que é, como funciona ⚡️](https://dev.to/iamdevmarcos/nodejs-o-que-e-como-funciona-gmk)
-- [Dev.to/JS] [5 array methods you need to know in javascript!](https://dev.to/dumebii/5-array-methods-you-need-to-know-in-javascript-39i6)
-- [Dev.to/JS] [UI/UX Design Principles for React Native Apps 🎨📱](https://dev.to/medaimane/uiux-design-principles-for-react-native-apps-54n1)
-- [Dev.to/JS] [Step-by-Step guide for implementing Amazon login on the web with OAuth](https://dev.to/hackmamba/step-by-step-guide-for-implementing-amazon-login-on-the-web-with-oauth-c6g)
 - [Lifehacker] [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
 - [Lifehacker] [Fry Your Eggs in Brine for Surprisingly Nuanced Flavor](https://lifehacker.com/fry-your-eggs-in-brine-for-surprisingly-nuanced-flavor-1850718578)
 - [Lifehacker] [The Best Gear to Help You Focus at Work](https://lifehacker.com/the-best-gear-to-help-you-focus-at-work-1850718629)
