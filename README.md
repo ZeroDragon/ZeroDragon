@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making a simple drag and drop with JS!](https://dev.to/lensco825/making-a-simple-drag-and-drop-with-js-29l2)
+- [Dev.to/JS] [Node.js - O que é, como funciona ⚡️](https://dev.to/iamdevmarcos/nodejs-o-que-e-como-funciona-gmk)
 - [Dev.to/JS] [5 array methods you need to know in javascript!](https://dev.to/dumebii/5-array-methods-you-need-to-know-in-javascript-39i6)
 - [Dev.to/JS] [UI/UX Design Principles for React Native Apps 🎨📱](https://dev.to/medaimane/uiux-design-principles-for-react-native-apps-54n1)
 - [Dev.to/JS] [Step-by-Step guide for implementing Amazon login on the web with OAuth](https://dev.to/hackmamba/step-by-step-guide-for-implementing-amazon-login-on-the-web-with-oauth-c6g)
@@ -47,11 +49,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Prioritize Your Tasks With the Eisenhower Matrix](https://lifehacker.com/prioritize-your-tasks-with-the-eisenhower-matrix-1850718007)
 - [Dev.to/JS] [Three Pillars of Web Development](https://dev.to/semharhidad/three-pillars-of-web-development-3p38)
 - [Dev.to/JS] [Is JavaScript Null actually a Object ?](https://dev.to/mohitsinghchauhan/is-javascript-null-actually-a-object--nog)
-- [Dev.to/JS] [Utilizing VisX for React Data Visualization](https://dev.to/brainiacneit/utilizing-visx-for-react-data-visualization-1lkl)
 - [Lifehacker] [How to Beat Dynamic Airline Award Pricing](https://lifehacker.com/how-to-beat-dynamic-airline-award-pricing-1850717363)
 - [Lifehacker] [Aioli Is Not &#39;Fancy Mayonnaise&#39;](https://lifehacker.com/aioli-is-not-fancy-mayonnaise-1829347023)
 - [Lifehacker] [Automate Your Job Hunt With This $60 AI](https://lifehacker.com/automate-your-job-hunt-with-this-60-ai-1850707815)
-- [Dev.to/JS] [How to use Cookies in Next.js with Redux TK](https://dev.to/arturarakelyan0411/how-to-use-cookies-in-nextjs-with-redux-tk-e95)
 - [Lifehacker] [Add Smoke to Your Salads With a Mezcal Vinaigrette](https://lifehacker.com/add-smoke-to-your-salads-with-a-mezcal-vinaigrette-1850717542)
 - [Lifehacker] [The Money Questions You Should Be Able to Answer](https://lifehacker.com/the-money-questions-you-should-be-able-to-answer-1823456583)
 - [Lifehacker] [Turn Cheap Balsamic Vinegar Into a Fancy Syrup](https://lifehacker.com/turn-cheap-balsamic-vinegar-into-a-fancy-syrup-1850715506)
