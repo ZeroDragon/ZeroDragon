@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get Norton 360 and LifeLock for $25 Right Now](https://lifehacker.com/you-can-get-norton-360-and-lifelock-for-25-right-now-1850707854)
+- [Lifehacker] [Be Wary of Change-of-Address Fraud](https://lifehacker.com/be-wary-of-change-of-address-fraud-1850721801)
+- [Lifehacker] [You Need to Season Your Fake Meat](https://lifehacker.com/you-need-to-season-your-fake-meat-1844891573)
+- [Lifehacker] [This 3-in-1 Charging Cable for Apple Devices Is $18 Right Now](https://lifehacker.com/this-3-in-1-charging-cable-for-apple-devices-is-18-rig-1850705884)
 - [Dev.to/JS] [Otimização em algoritmos de filtragem](https://dev.to/wevertoum/otimizacao-em-algoritmos-de-filtragem-4kfm)
 - [Dev.to/JS] [Form validation in React is made simpler by using JavaScript libraries](https://dev.to/wilsonadedamola/form-validation-in-react-is-made-simpler-by-using-javascript-libraries-3ghe)
 - [Lifehacker] [Make Quick French Toast With Melted Ice Cream](https://lifehacker.com/make-quick-french-toast-with-melted-ice-cream-1850721883)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Seven Ways to Hide an Old Fireplace](https://lifehacker.com/seven-ways-to-hide-an-old-fireplace-1850717787)
 - [Lifehacker] [Your PS5 Can Apparently Melt a Wired Controller&#39;s USB Plug](https://lifehacker.com/your-ps5-can-apparently-melt-a-wired-controllers-usb-pl-1850717783)
 - [Lifehacker] [You Can Get Free Taco Bell for the Next Five Tuesdays](https://lifehacker.com/you-can-get-free-taco-bell-for-the-next-five-tuesdays-1850718268)
-- [Lifehacker] [Get Student Discounts at All of These Streaming Services](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322)
-- [Lifehacker] [Apple Music&#39;s Discovery Station Is a Decent Spotify Discover Weekly Alternative &lpar;Finally&rpar;](https://lifehacker.com/apple-musics-discovery-station-is-a-decent-spotify-disc-1850717817)
-- [Lifehacker] [Turn Any Vegetable Into a Smoky Dip](https://lifehacker.com/how-to-turn-any-vegetable-into-a-delicious-smoky-dip-1831349613)
-- [Lifehacker] [Prioritize Your Tasks With the Eisenhower Matrix](https://lifehacker.com/prioritize-your-tasks-with-the-eisenhower-matrix-1850718007)
-- [Lifehacker] [How to Beat Dynamic Airline Award Pricing](https://lifehacker.com/how-to-beat-dynamic-airline-award-pricing-1850717363)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Get Student Discounts at All of These Streaming Services](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322)<!-- TECH-POSTS:END -->
 
 ---
 
