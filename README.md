@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This VSC Extension is gonna save your life.](https://dev.to/linnovel/this-vsc-extension-is-gonna-save-your-life-35f0)
+- [Dev.to/JS] [How to make a Domain Generator](https://dev.to/linnovel/how-to-make-a-domain-generator-4a8e)
+- [Dev.to/JS] [E o reduce do JavaScript?](https://dev.to/anabergerr/e-o-reduce-do-javascript-4e4d)
+- [Dev.to/JS] [Calling a Function](https://dev.to/linnovel/calling-a-function-2cmk)
+- [Dev.to/JS] [Getting to know about React](https://dev.to/samluxtech/getting-to-know-about-react-1eei)
 - [Dev.to/JS] [Making a simple drag and drop with JS!](https://dev.to/lensco825/making-a-simple-drag-and-drop-with-js-29l2)
 - [Dev.to/JS] [Node.js - O que é, como funciona ⚡️](https://dev.to/iamdevmarcos/nodejs-o-que-e-como-funciona-gmk)
 - [Dev.to/JS] [5 array methods you need to know in javascript!](https://dev.to/dumebii/5-array-methods-you-need-to-know-in-javascript-39i6)
@@ -41,14 +46,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Free Taco Bell for the Next Five Tuesdays](https://lifehacker.com/you-can-get-free-taco-bell-for-the-next-five-tuesdays-1850718268)
 - [Dev.to/JS] [The simplest example to understand Server Actions in Next.js](https://dev.to/scastiel/the-simplest-example-to-understand-server-actions-in-nextjs-5533)
 - [Lifehacker] [Get Student Discounts at All of These Streaming Services](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322)
-- [Dev.to/JS] [ToastJS and Fetching with React apps](https://dev.to/gokhanergentech/toastjs-with-react-apps-26pe)
 - [Lifehacker] [Apple Music&#39;s Discovery Station Is a Decent Spotify Discover Weekly Alternative &lpar;Finally&rpar;](https://lifehacker.com/apple-musics-discovery-station-is-a-decent-spotify-disc-1850717817)
-- [Dev.to/JS] [Socket.io basic setup](https://dev.to/harshitpd/socketio-basic-setup-8a2)
-- [Dev.to/JS] [Simplifying API Calls with URLSearchParams and Fetch](https://dev.to/sanjampreetsingh/simplifying-api-calls-with-urlsearchparams-and-fetch-8gn)
 - [Lifehacker] [Turn Any Vegetable Into a Smoky Dip](https://lifehacker.com/how-to-turn-any-vegetable-into-a-delicious-smoky-dip-1831349613)
 - [Lifehacker] [Prioritize Your Tasks With the Eisenhower Matrix](https://lifehacker.com/prioritize-your-tasks-with-the-eisenhower-matrix-1850718007)
-- [Dev.to/JS] [Three Pillars of Web Development](https://dev.to/semharhidad/three-pillars-of-web-development-3p38)
-- [Dev.to/JS] [Is JavaScript Null actually a Object ?](https://dev.to/mohitsinghchauhan/is-javascript-null-actually-a-object--nog)
 - [Lifehacker] [How to Beat Dynamic Airline Award Pricing](https://lifehacker.com/how-to-beat-dynamic-airline-award-pricing-1850717363)
 - [Lifehacker] [Aioli Is Not &#39;Fancy Mayonnaise&#39;](https://lifehacker.com/aioli-is-not-fancy-mayonnaise-1829347023)
 - [Lifehacker] [Automate Your Job Hunt With This $60 AI](https://lifehacker.com/automate-your-job-hunt-with-this-60-ai-1850707815)
