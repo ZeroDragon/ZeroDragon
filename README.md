@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to make your Node.js app accessible on a local network](https://dev.to/jimajs/how-to-make-your-nodejs-app-accessible-on-a-local-network-8ih)
+- [Dev.to/JS] [Getting Started with React Native in 2023: An Comprehensive Guide for Beginners](https://dev.to/dravidjones28/getting-started-with-react-native-in-2023-an-comprehensive-guide-for-beginners-2b3e)
 - [Dev.to/JS] [What is WebAssembly? and does it have the potential to replace JavaScript on the web?](https://dev.to/wainainapeter/what-is-webassembly-and-does-it-have-the-potential-to-replace-javascript-on-the-web-28b2)
 - [Dev.to/JS] [What is a WYSIWYG Editor? A Comprehensive Developer’s Insight](https://dev.to/ideradevtools/what-is-a-wysiwyg-editor-a-comprehensive-developers-insight-1n56)
 - [Dev.to/JS] [Simplify TypeScript Builds with esbuild and skip tsc/tsx](https://dev.to/andreasbergstrom/simplify-typescript-builds-with-esbuild-and-skip-tsctsx-2124)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Power of Promises in JavaScript - Asynchronous Magic 🔥](https://dev.to/malikbilal111/power-of-promises-in-javascript-asynchronous-magic-3o4g)
 - [Dev.to/JS] [Weekly web development resources #161](https://dev.to/vincenius/weekly-web-development-resources-161-58ie)
 - [Dev.to/JS] [Unleash Your Potential: The Hidden Gems of Fitness App Development](https://dev.to/dhruv068/unleash-your-potential-the-hidden-gems-of-fitness-app-development-392k)
-- [Dev.to/JS] [Top 7 Code Playgrounds That Every Web Developer Should Check Out 🚀](https://dev.to/this-is-learning/top-7-code-playgrounds-that-every-web-developer-should-check-out-b7a)
-- [Dev.to/JS] [How To Get ChatGPT API Key? A Step-by-Step Guide](https://dev.to/onlinemsr/how-to-get-chatgpt-api-key-a-step-by-step-guide-4ol2)
 - [Lifehacker] [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
 - [Lifehacker] [Fry Your Eggs in Brine for Surprisingly Nuanced Flavor](https://lifehacker.com/fry-your-eggs-in-brine-for-surprisingly-nuanced-flavor-1850718578)
 - [Lifehacker] [The Best Gear to Help You Focus at Work](https://lifehacker.com/the-best-gear-to-help-you-focus-at-work-1850718629)
