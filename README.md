@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Otimização em algoritmos de filtragem](https://dev.to/wevertoum/otimizacao-em-algoritmos-de-filtragem-4kfm)
+- [Dev.to/JS] [Form validation in React is made simpler by using JavaScript libraries](https://dev.to/wilsonadedamola/form-validation-in-react-is-made-simpler-by-using-javascript-libraries-3ghe)
+- [Lifehacker] [Make Quick French Toast With Melted Ice Cream](https://lifehacker.com/make-quick-french-toast-with-melted-ice-cream-1850721883)
+- [Lifehacker] [People Are Caramelizing Their Onions All Wrong](https://lifehacker.com/you-cannot-caramelize-onions-without-patience-1823404064)
+- [Dev.to/JS] [React useState queue](https://dev.to/jonathatargino/react-usestate-queue-4o5i)
+- [Lifehacker] [The Best Adult Lunchboxes Worth Buying](https://lifehacker.com/best-adult-lunchboxes-1850721509)
 - [Dev.to/JS] [I have a YouTube channel with monetized content. . If you are interested in making programming content please let me know.](https://dev.to/omorfarouk/i-have-a-youtube-channel-with-monetized-content-if-you-are-interested-in-making-programming-content-please-let-me-know-4c19)
 - [Lifehacker] [Uninstall NightOwl From Your Mac ASAP](https://lifehacker.com/uninstall-nightowl-from-your-mac-asap-1850721644)
 - [Lifehacker] [This Refurbished iPad Air Is $150 Right Now](https://lifehacker.com/this-refurbished-ipad-air-is-150-right-now-1850705010)
@@ -47,10 +53,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 10 Best Original Star Trek Episodes for Fans of &#39;Strange New Worlds&#39;](https://lifehacker.com/the-10-best-original-star-trek-episodes-for-fans-of-bra-1850719883)
 - [Dev.to/JS] [Demystifying JavaScript Terminology](https://dev.to/biomathcode/demystifying-javascript-terminology-4l9d)
 - [Dev.to/JS] [I&#39;m React State, Lift Me Up, Asshole](https://dev.to/its_jesse/im-react-state-lift-me-up-asshole-4hcl)
-- [Dev.to/JS] [Build a multilingual NextJS app using the new app directory](https://dev.to/codegino/building-a-multilingual-nextjs-app-using-the-new-app-directory-2anf)
 - [Lifehacker] [Eight Inexpensive Backyard Upgrades That Don&#39;t Require Planting Anything](https://lifehacker.com/best-inexpensive-backyard-updates-1850717278)
-- [Dev.to/JS] [Opportunities and challenges in the development of mobile applications with AI](https://dev.to/sparkouttech/opportunities-and-challenges-in-the-development-of-mobile-applications-with-ai-4k7k)
-- [Dev.to/JS] [Enhance Job Seeker Experience: Quick Image Upload for Portals](https://dev.to/ideradevtools/enhance-job-seeker-experience-quick-image-upload-for-portals-56oh)
 - [Lifehacker] [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
 - [Lifehacker] [Fry Your Eggs in Brine for Surprisingly Nuanced Flavor](https://lifehacker.com/fry-your-eggs-in-brine-for-surprisingly-nuanced-flavor-1850718578)
 - [Lifehacker] [The Best Gear to Help You Focus at Work](https://lifehacker.com/the-best-gear-to-help-you-focus-at-work-1850718629)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Apple Music&#39;s Discovery Station Is a Decent Spotify Discover Weekly Alternative &lpar;Finally&rpar;](https://lifehacker.com/apple-musics-discovery-station-is-a-decent-spotify-disc-1850717817)
 - [Lifehacker] [Turn Any Vegetable Into a Smoky Dip](https://lifehacker.com/how-to-turn-any-vegetable-into-a-delicious-smoky-dip-1831349613)
 - [Lifehacker] [Prioritize Your Tasks With the Eisenhower Matrix](https://lifehacker.com/prioritize-your-tasks-with-the-eisenhower-matrix-1850718007)
-- [Lifehacker] [How to Beat Dynamic Airline Award Pricing](https://lifehacker.com/how-to-beat-dynamic-airline-award-pricing-1850717363)
-- [Lifehacker] [Aioli Is Not &#39;Fancy Mayonnaise&#39;](https://lifehacker.com/aioli-is-not-fancy-mayonnaise-1829347023)
-- [Lifehacker] [Automate Your Job Hunt With This $60 AI](https://lifehacker.com/automate-your-job-hunt-with-this-60-ai-1850707815)
-- [Lifehacker] [Add Smoke to Your Salads With a Mezcal Vinaigrette](https://lifehacker.com/add-smoke-to-your-salads-with-a-mezcal-vinaigrette-1850717542)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Beat Dynamic Airline Award Pricing](https://lifehacker.com/how-to-beat-dynamic-airline-award-pricing-1850717363)<!-- TECH-POSTS:END -->
 
 ---
 
