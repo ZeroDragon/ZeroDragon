@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Created simple phone number compression functions.](https://dev.to/hidao80/phone-number-compression-1mip)
+- [Lifehacker] [Your iPhone Can Clone Your Voice](https://lifehacker.com/your-iphone-can-clone-your-voice-1850722400)
+- [Lifehacker] [The Best Ways to Teach Yourself to Code](https://lifehacker.com/top-10-ways-to-teach-yourself-to-code-1684250889)
+- [Lifehacker] [How to Roll a Perfect Joint](https://lifehacker.com/how-to-roll-a-perfect-joint-1848559512)
+- [Dev.to/JS] [Programmatically generate files in Cypress tests](https://dev.to/tylerlwsmith/programmatically-generate-files-in-cypress-tests-dm8)
 - [Lifehacker] [You Can Get Norton 360 and LifeLock for $25 Right Now](https://lifehacker.com/you-can-get-norton-360-and-lifelock-for-25-right-now-1850707854)
 - [Lifehacker] [Be Wary of Change-of-Address Fraud](https://lifehacker.com/be-wary-of-change-of-address-fraud-1850721801)
 - [Lifehacker] [You Need to Season Your Fake Meat](https://lifehacker.com/you-need-to-season-your-fake-meat-1844891573)
@@ -55,17 +60,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Better Way to Make TikTok’s Cottage Cheese Cinnamon Protein Toast](https://lifehacker.com/make-a-better-tiktok-protein-toast-1850719264)
 - [Dev.to/JS] [Next.js Full Stack Food Delivery App &lpar;5+ Hours Free Tutorial&rpar;](https://dev.to/safak/nextjs-full-stack-food-delivery-app-5-hours-free-tutorial-1kg9)
 - [Lifehacker] [The 10 Best Original Star Trek Episodes for Fans of &#39;Strange New Worlds&#39;](https://lifehacker.com/the-10-best-original-star-trek-episodes-for-fans-of-bra-1850719883)
-- [Dev.to/JS] [Demystifying JavaScript Terminology](https://dev.to/biomathcode/demystifying-javascript-terminology-4l9d)
-- [Dev.to/JS] [I&#39;m React State, Lift Me Up, Asshole](https://dev.to/its_jesse/im-react-state-lift-me-up-asshole-4hcl)
 - [Lifehacker] [Eight Inexpensive Backyard Upgrades That Don&#39;t Require Planting Anything](https://lifehacker.com/best-inexpensive-backyard-updates-1850717278)
 - [Lifehacker] [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
 - [Lifehacker] [Fry Your Eggs in Brine for Surprisingly Nuanced Flavor](https://lifehacker.com/fry-your-eggs-in-brine-for-surprisingly-nuanced-flavor-1850718578)
 - [Lifehacker] [The Best Gear to Help You Focus at Work](https://lifehacker.com/the-best-gear-to-help-you-focus-at-work-1850718629)
 - [Lifehacker] [How to Set a Music Alarm With Your Google Home Speaker](https://lifehacker.com/how-to-set-a-music-alarm-with-your-google-home-speaker-1822673391)
-- [Lifehacker] [Seven Ways to Hide an Old Fireplace](https://lifehacker.com/seven-ways-to-hide-an-old-fireplace-1850717787)
-- [Lifehacker] [Your PS5 Can Apparently Melt a Wired Controller&#39;s USB Plug](https://lifehacker.com/your-ps5-can-apparently-melt-a-wired-controllers-usb-pl-1850717783)
-- [Lifehacker] [You Can Get Free Taco Bell for the Next Five Tuesdays](https://lifehacker.com/you-can-get-free-taco-bell-for-the-next-five-tuesdays-1850718268)
-- [Lifehacker] [Get Student Discounts at All of These Streaming Services](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Seven Ways to Hide an Old Fireplace](https://lifehacker.com/seven-ways-to-hide-an-old-fireplace-1850717787)<!-- TECH-POSTS:END -->
 
 ---
 
