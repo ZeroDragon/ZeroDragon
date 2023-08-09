@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get These Two Ninja Drones for $150 Right Now](https://lifehacker.com/you-can-get-these-two-ninja-drones-for-150-right-now-1850705303)
+- [Dev.to/JS] [Electronic adhesive glue manufacturer](https://dev.to/elecadhgluemanu/electronic-adhesive-glue-manufacturer-241a)
+- [Lifehacker] [The Best, Least Messy Way to Cut Large Fruit](https://lifehacker.com/the-best-least-messy-way-to-cut-large-fruit-1850720567)
 - [Dev.to/JS] [Day 22: Modules](https://dev.to/dhrn/understanding-modules-24fo)
 - [Dev.to/JS] [Tech Trends 2023: Hottest Web Development Technologies](https://dev.to/flatlogic/tech-trends-2023-hottest-web-development-technologies-2l2j)
 - [Lifehacker] [The Best Water Filters to Remove &#39;Forever Chemicals&#39;](https://lifehacker.com/the-best-water-filters-to-remove-forever-chemicals-1850718819)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Enhance Job Seeker Experience: Quick Image Upload for Portals](https://dev.to/ideradevtools/enhance-job-seeker-experience-quick-image-upload-for-portals-56oh)
 - [Dev.to/JS] [Understanding React Context API and UseReducer Hooks for beginner](https://dev.to/dennisjunior247_/understanding-context-api-and-usereducer-hooks-for-beginner-3jp5)
 - [Dev.to/JS] [Undoing the Most Recent Local Commits in Git: A Step-by-Step Guide](https://dev.to/iamcymentho/undoing-the-most-recent-local-commits-in-git-a-step-by-step-guide-39d6)
-- [Dev.to/JS] [GraphQL Tools Transformations](https://dev.to/wspringer/graphql-tools-transformations-n9k)
 - [Lifehacker] [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
 - [Lifehacker] [Fry Your Eggs in Brine for Surprisingly Nuanced Flavor](https://lifehacker.com/fry-your-eggs-in-brine-for-surprisingly-nuanced-flavor-1850718578)
 - [Lifehacker] [The Best Gear to Help You Focus at Work](https://lifehacker.com/the-best-gear-to-help-you-focus-at-work-1850718629)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to Clean Your Air Ducts, According to the EPA](https://lifehacker.com/when-to-clean-your-air-ducts-according-to-the-epa-1850716179)
 - [Lifehacker] [You Can Get a Lifetime Babbel Subscription for 67% Off Right Now](https://lifehacker.com/you-can-get-a-lifetime-babbel-subscription-for-67-off-1850705208)
 - [Lifehacker] [Every Towel in Your Home Is Grosser Than You Think](https://lifehacker.com/every-towel-in-your-home-is-grosser-than-you-think-1850716030)
-- [Lifehacker] [Be Wary of ChatGPT Clones](https://lifehacker.com/be-wary-of-chatgpt-clones-1850715395)
-- [Lifehacker] [DIY the Ultimate Countertop-Saving Dish Rack](https://lifehacker.com/diy-the-ultimate-countertop-saving-dish-rack-1850714876)
-- [Lifehacker] [How to Choose the Safest Bicycle Helmet](https://lifehacker.com/how-to-choose-the-safest-bicycle-helmet-1850715630)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Be Wary of ChatGPT Clones](https://lifehacker.com/be-wary-of-chatgpt-clones-1850715395)<!-- TECH-POSTS:END -->
 
 ---
 
