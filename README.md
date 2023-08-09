@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Eight Inexpensive Backyard Upgrades That Don&#39;t Require Planting Anything](https://lifehacker.com/best-inexpensive-backyard-updates-1850717278)
+- [Dev.to/JS] [Opportunities and challenges in the development of mobile applications with AI](https://dev.to/sparkouttech/opportunities-and-challenges-in-the-development-of-mobile-applications-with-ai-4k7k)
+- [Dev.to/JS] [Enhance Job Seeker Experience: Quick Image Upload for Portals](https://dev.to/ideradevtools/enhance-job-seeker-experience-quick-image-upload-for-portals-56oh)
+- [Dev.to/JS] [Understanding React Context API and UseReducer Hooks for beginner](https://dev.to/dennisjunior247_/understanding-context-api-and-usereducer-hooks-for-beginner-3jp5)
+- [Dev.to/JS] [Undoing the Most Recent Local Commits in Git: A Step-by-Step Guide](https://dev.to/iamcymentho/undoing-the-most-recent-local-commits-in-git-a-step-by-step-guide-39d6)
 - [Dev.to/JS] [GraphQL Tools Transformations](https://dev.to/wspringer/graphql-tools-transformations-n9k)
 - [Dev.to/JS] [Embracing Imperfection: Why You Should Start Applying Even When You Think You&#39;re Not Good Enough](https://dev.to/kaushit/embracing-imperfection-why-you-should-start-applying-even-when-you-think-youre-not-good-enough-4b4j)
 - [Dev.to/JS] [How To Organise Your Tailwind CSS Classes in Next js](https://dev.to/martins_ngene/how-to-organise-your-tailwind-css-classes-in-next-js-4314)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is WebAssembly? and does it have the potential to replace JavaScript on the web?](https://dev.to/wainainapeter/what-is-webassembly-and-does-it-have-the-potential-to-replace-javascript-on-the-web-28b2)
 - [Dev.to/JS] [What is a WYSIWYG Editor? A Comprehensive Developer’s Insight](https://dev.to/ideradevtools/what-is-a-wysiwyg-editor-a-comprehensive-developers-insight-1n56)
 - [Dev.to/JS] [Simplify TypeScript Builds with esbuild and skip tsc/tsx](https://dev.to/andreasbergstrom/simplify-typescript-builds-with-esbuild-and-skip-tsctsx-2124)
-- [Dev.to/JS] [Decrypting JavaScript Hoisting: How Variables and Functions Behave](https://dev.to/avwerosuoghene/decrypting-javascript-hoisting-how-variables-and-functions-behave-315m)
-- [Dev.to/JS] [Modularization and Bundling in Modern Web Development: A Comprehensive Guide to Efficiency](https://dev.to/abhaysinghr1/modularization-and-bundling-in-modern-web-development-a-comprehensive-guide-to-efficiency-1ng2)
-- [Dev.to/JS] [Cloud Providers Showdown: AWS vs. Azure vs. Google Cloud](https://dev.to/iamcymentho/cloud-providers-showdown-aws-vs-azure-vs-google-cloud-424o)
-- [Dev.to/JS] [Did anyone know how to rectify this error?](https://dev.to/kasiviswanthchinta/did-anyone-how-to-rectify-this-error-1536)
 - [Lifehacker] [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
 - [Lifehacker] [Fry Your Eggs in Brine for Surprisingly Nuanced Flavor](https://lifehacker.com/fry-your-eggs-in-brine-for-surprisingly-nuanced-flavor-1850718578)
 - [Lifehacker] [The Best Gear to Help You Focus at Work](https://lifehacker.com/the-best-gear-to-help-you-focus-at-work-1850718629)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose the Safest Bicycle Helmet](https://lifehacker.com/how-to-choose-the-safest-bicycle-helmet-1850715630)
 - [Lifehacker] [Make Some Cheese Crisps In Your Microwave](https://lifehacker.com/make-some-cheese-crisps-in-your-microwave-1850714549)
 - [Lifehacker] [These Books Can Help You Become a More Effective Leader at Work](https://lifehacker.com/these-books-can-help-you-become-a-more-effective-leader-1850713275)
-- [Lifehacker] [How to Prep, Store, and Cook With Hatch Chile Peppers](https://lifehacker.com/how-to-prep-store-and-cook-with-hatch-chile-peppers-1850706612)
-- [Lifehacker] [The Best Ways to Use Up Old Spices](https://lifehacker.com/the-best-ways-to-use-up-old-spices-1849423616)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Prep, Store, and Cook With Hatch Chile Peppers](https://lifehacker.com/how-to-prep-store-and-cook-with-hatch-chile-peppers-1850706612)<!-- TECH-POSTS:END -->
 
 ---
 
