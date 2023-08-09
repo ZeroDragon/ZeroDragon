@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Modularization and Bundling in Modern Web Development: A Comprehensive Guide to Efficiency](https://dev.to/abhaysinghr1/modularization-and-bundling-in-modern-web-development-a-comprehensive-guide-to-efficiency-1ng2)
+- [Dev.to/JS] [Cloud Providers Showdown: AWS vs. Azure vs. Google Cloud](https://dev.to/iamcymentho/cloud-providers-showdown-aws-vs-azure-vs-google-cloud-424o)
+- [Dev.to/JS] [Did anyone know how to rectify this error?](https://dev.to/kasiviswanthchinta/did-anyone-how-to-rectify-this-error-1536)
+- [Dev.to/JS] [Power of Promises in JavaScript - Asynchronous Magic 🔥](https://dev.to/malikbilal111/power-of-promises-in-javascript-asynchronous-magic-3o4g)
 - [Dev.to/JS] [Weekly web development resources #161](https://dev.to/vincenius/weekly-web-development-resources-161-58ie)
 - [Dev.to/JS] [Unleash Your Potential: The Hidden Gems of Fitness App Development](https://dev.to/dhruv068/unleash-your-potential-the-hidden-gems-of-fitness-app-development-392k)
 - [Dev.to/JS] [Top 7 Code Playgrounds That Every Web Developer Should Check Out 🚀](https://dev.to/this-is-learning/top-7-code-playgrounds-that-every-web-developer-should-check-out-b7a)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Authentication and Authorization in React Native Apps: Securing User Access 🛡️🔒](https://dev.to/medaimane/authentication-and-authorization-in-react-native-apps-securing-user-access-3n12)
 - [Dev.to/JS] [This VSC Extension is gonna save your life.](https://dev.to/linnovel/this-vsc-extension-is-gonna-save-your-life-35f0)
 - [Dev.to/JS] [How to make a Domain Generator](https://dev.to/linnovel/how-to-make-a-domain-generator-4a8e)
-- [Dev.to/JS] [E o reduce do JavaScript?](https://dev.to/anabergerr/e-o-reduce-do-javascript-4e4d)
-- [Dev.to/JS] [Calling a Function](https://dev.to/linnovel/calling-a-function-2cmk)
-- [Dev.to/JS] [Getting to know about React](https://dev.to/samluxtech/getting-to-know-about-react-1eei)
-- [Dev.to/JS] [Making a simple drag and drop with JS!](https://dev.to/lensco825/making-a-simple-drag-and-drop-with-js-29l2)
 - [Lifehacker] [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
 - [Lifehacker] [Fry Your Eggs in Brine for Surprisingly Nuanced Flavor](https://lifehacker.com/fry-your-eggs-in-brine-for-surprisingly-nuanced-flavor-1850718578)
 - [Lifehacker] [The Best Gear to Help You Focus at Work](https://lifehacker.com/the-best-gear-to-help-you-focus-at-work-1850718629)
