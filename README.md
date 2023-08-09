@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Expressive code &gt; Clean code](https://dev.to/noblica/expressive-code-clean-code-59o7)
+- [Lifehacker] [The Better Way to Make TikTok’s Cottage Cheese Cinnamon Protein Toast](https://lifehacker.com/make-a-better-tiktok-protein-toast-1850719264)
+- [Dev.to/JS] [Next.js Full Stack Food Delivery App &lpar;5+ Hours Free Tutorial&rpar;](https://dev.to/safak/nextjs-full-stack-food-delivery-app-5-hours-free-tutorial-1kg9)
+- [Lifehacker] [The 10 Best Original Star Trek Episodes for Fans of &#39;Brave New Worlds&#39;](https://lifehacker.com/the-10-best-original-star-trek-episodes-for-fans-of-bra-1850719883)
+- [Dev.to/JS] [Demystifying JavaScript Terminology](https://dev.to/biomathcode/demystifying-javascript-terminology-4l9d)
+- [Dev.to/JS] [I&#39;m React State, Lift Me Up, Asshole](https://dev.to/its_jesse/im-react-state-lift-me-up-asshole-4hcl)
+- [Dev.to/JS] [Building a multilingual NextJS app using the new app directory](https://dev.to/codegino/building-a-multilingual-nextjs-app-using-the-new-app-directory-2anf)
 - [Lifehacker] [Eight Inexpensive Backyard Upgrades That Don&#39;t Require Planting Anything](https://lifehacker.com/best-inexpensive-backyard-updates-1850717278)
 - [Dev.to/JS] [Opportunities and challenges in the development of mobile applications with AI](https://dev.to/sparkouttech/opportunities-and-challenges-in-the-development-of-mobile-applications-with-ai-4k7k)
 - [Dev.to/JS] [Enhance Job Seeker Experience: Quick Image Upload for Portals](https://dev.to/ideradevtools/enhance-job-seeker-experience-quick-image-upload-for-portals-56oh)
@@ -34,11 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [GraphQL Tools Transformations](https://dev.to/wspringer/graphql-tools-transformations-n9k)
 - [Dev.to/JS] [Embracing Imperfection: Why You Should Start Applying Even When You Think You&#39;re Not Good Enough](https://dev.to/kaushit/embracing-imperfection-why-you-should-start-applying-even-when-you-think-youre-not-good-enough-4b4j)
 - [Dev.to/JS] [How To Organise Your Tailwind CSS Classes in Next js](https://dev.to/martins_ngene/how-to-organise-your-tailwind-css-classes-in-next-js-4314)
-- [Dev.to/JS] [How to make your Node.js app accessible on a local network](https://dev.to/jimajs/how-to-make-your-nodejs-app-accessible-on-a-local-network-8ih)
-- [Dev.to/JS] [Getting Started with React Native in 2023: An Comprehensive Guide for Beginners](https://dev.to/dravidjones28/getting-started-with-react-native-in-2023-an-comprehensive-guide-for-beginners-2b3e)
-- [Dev.to/JS] [What is WebAssembly? and does it have the potential to replace JavaScript on the web?](https://dev.to/wainainapeter/what-is-webassembly-and-does-it-have-the-potential-to-replace-javascript-on-the-web-28b2)
-- [Dev.to/JS] [What is a WYSIWYG Editor? A Comprehensive Developer’s Insight](https://dev.to/ideradevtools/what-is-a-wysiwyg-editor-a-comprehensive-developers-insight-1n56)
-- [Dev.to/JS] [Simplify TypeScript Builds with esbuild and skip tsc/tsx](https://dev.to/andreasbergstrom/simplify-typescript-builds-with-esbuild-and-skip-tsctsx-2124)
 - [Lifehacker] [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
 - [Lifehacker] [Fry Your Eggs in Brine for Surprisingly Nuanced Flavor](https://lifehacker.com/fry-your-eggs-in-brine-for-surprisingly-nuanced-flavor-1850718578)
 - [Lifehacker] [The Best Gear to Help You Focus at Work](https://lifehacker.com/the-best-gear-to-help-you-focus-at-work-1850718629)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Be Wary of ChatGPT Clones](https://lifehacker.com/be-wary-of-chatgpt-clones-1850715395)
 - [Lifehacker] [DIY the Ultimate Countertop-Saving Dish Rack](https://lifehacker.com/diy-the-ultimate-countertop-saving-dish-rack-1850714876)
 - [Lifehacker] [How to Choose the Safest Bicycle Helmet](https://lifehacker.com/how-to-choose-the-safest-bicycle-helmet-1850715630)
-- [Lifehacker] [Make Some Cheese Crisps In Your Microwave](https://lifehacker.com/make-some-cheese-crisps-in-your-microwave-1850714549)
-- [Lifehacker] [These Books Can Help You Become a More Effective Leader at Work](https://lifehacker.com/these-books-can-help-you-become-a-more-effective-leader-1850713275)
-- [Lifehacker] [How to Prep, Store, and Cook With Hatch Chile Peppers](https://lifehacker.com/how-to-prep-store-and-cook-with-hatch-chile-peppers-1850706612)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Some Cheese Crisps In Your Microwave](https://lifehacker.com/make-some-cheese-crisps-in-your-microwave-1850714549)<!-- TECH-POSTS:END -->
 
 ---
 
