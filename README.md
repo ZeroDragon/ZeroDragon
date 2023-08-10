@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Efficient Data Fetching in React Native: Exploring APIs and GraphQL 📊🔍](https://dev.to/medaimane/efficient-data-fetching-in-react-native-exploring-apis-and-graphql-1088)
+- [Dev.to/JS] [Criação de plugin para Google Chrome - Uma introdução](https://dev.to/edumaxsantos/criacao-de-plugin-para-google-chrome-uma-introducao-1jad)
 - [Lifehacker] [You Can Build a Cheap, Custom Copper Pot Rack](https://lifehacker.com/you-can-build-a-cheap-custom-copper-pot-rack-1850726695)
 - [Dev.to/JS] [Animating with React Native: Bringing Your App to Life 🎉🚀](https://dev.to/medaimane/animating-with-react-native-bringing-your-app-to-life-2ea8)
 - [Dev.to/JS] [What parts of JavaScript are tricky for beginners?](https://dev.to/lukeecart/what-parts-of-javascript-are-tricky-for-beginners-51f1)
@@ -42,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring the Magic of async/await in JavaScript!](https://dev.to/ajipelumi/exploring-the-magic-of-asyncawait-in-javascript-1k3o)
 - [Lifehacker] [You Can Groom Your Dog Without Traumatizing Them](https://lifehacker.com/how-to-groom-your-dog-at-home-without-traumatizing-them-1847867963)
 - [Lifehacker] [Don’t Trust Newegg’s New AI-Generated Review Summaries](https://lifehacker.com/don-t-trust-newegg-s-new-ai-generated-review-summaries-1850725887)
-- [Dev.to/JS] [Bringing Javascipt Files Together: How to Combine Them](https://dev.to/avwerosuoghene/bringing-javascipt-files-together-how-to-combine-them-4819)
 - [Lifehacker] [Why Your Dryer Is Making Weird Noises and What to Do About It](https://lifehacker.com/why-your-dryer-is-making-weird-noises-and-what-to-do-ab-1850722827)
-- [Dev.to/JS] [Two+ things I do every time I set up a new node project](https://dev.to/receter/two-things-i-do-every-time-i-set-up-a-new-node-project-1mg3)
 - [Lifehacker] [How to Pick an Inside Door Lock](https://lifehacker.com/how-to-open-a-locked-interior-door-when-youve-lost-the-5464402)
 - [Lifehacker] [This Fancy Electric Composter Is 30% Off Right Now](https://lifehacker.com/this-fancy-electric-composter-is-30-off-right-now-1850722269)
 - [Lifehacker] [Disney+ and Hulu Are About to Raise Prices, but You Can Avoid It](https://lifehacker.com/disney-and-hulu-are-about-to-raise-prices-but-you-can-1850725687)
