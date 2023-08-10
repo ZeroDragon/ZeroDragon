@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🍳👩‍🍳 Exciting News: Introducing our Recipe Website Built with HTML, CSS, JS, and the Power of Recipe APIs! 👨‍🍳🍲](https://dev.to/sadiqshaik123/exciting-news-introducing-our-recipe-website-built-with-html-css-js-and-the-power-of-recipe-apis-58ie)
+- [Dev.to/JS] [Differentiating Zustand and Redux](https://dev.to/brainiacneit/differentiating-zustand-and-redux-al6)
 - [Dev.to/JS] [Mastering JS Shorthand Techniques Part-5: Async/Await, Arrow Function, and Exports and Imports](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-part-5-asyncawait-arrow-function-and-exports-and-imports-2pj1)
 - [Dev.to/JS] [What is Pseudocode? Unveiling the Blueprint Behind Powerful Web Development! — boldercloud.com.au](https://dev.to/stonediggity/what-is-pseudocode-unveiling-the-blueprint-behind-powerful-web-development-boldercloudcomau-2app)
 - [Dev.to/JS] [Create configurable Angular guards](https://dev.to/this-is-angular/create-configurable-angular-guards-ng4)
@@ -47,9 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Form validation in React is made simpler by using JavaScript libraries](https://dev.to/wilsonadedamola/form-validation-in-react-is-made-simpler-by-using-javascript-libraries-3ghe)
 - [Lifehacker] [Make Quick French Toast With Melted Ice Cream](https://lifehacker.com/make-quick-french-toast-with-melted-ice-cream-1850721883)
 - [Lifehacker] [People Are Caramelizing Their Onions All Wrong](https://lifehacker.com/you-cannot-caramelize-onions-without-patience-1823404064)
-- [Dev.to/JS] [React useState queue](https://dev.to/jonathatargino/react-usestate-queue-4o5i)
 - [Lifehacker] [The Best Adult Lunchboxes Worth Buying](https://lifehacker.com/best-adult-lunchboxes-1850721509)
-- [Dev.to/JS] [I have a YouTube channel with monetized content. . If you are interested in making programming content please let me know.](https://dev.to/omorfarouk/i-have-a-youtube-channel-with-monetized-content-if-you-are-interested-in-making-programming-content-please-let-me-know-4c19)
 - [Lifehacker] [Uninstall NightOwl From Your Mac ASAP](https://lifehacker.com/uninstall-nightowl-from-your-mac-asap-1850721644)
 - [Lifehacker] [This Refurbished iPad Air Is $150 Right Now](https://lifehacker.com/this-refurbished-ipad-air-is-150-right-now-1850705010)
 - [Lifehacker] [You Should Turn Off Your YouTube Watch History](https://lifehacker.com/you-should-turn-off-your-youtube-watch-history-1850720994)
