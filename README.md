@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Dynamic Chelsea FC Landing Page: My Journey through Software Engineering Basics](https://dev.to/mola_tonny/building-a-dynamic-chelsea-fc-landing-page-my-journey-through-software-engineering-basics-3jma)
+- [Lifehacker] [This Device Helps You Play Video Games With Almost Any Controller You Want](https://lifehacker.com/this-device-helps-you-play-video-games-with-almost-any-1850724541)
 - [Dev.to/JS] [My Journey In The Open Source World - Contributing to other libraries #4](https://dev.to/cadienvan/my-journey-in-the-open-source-world-contributing-to-other-libraries-4-4i0b)
 - [Dev.to/JS] [If_Else If Statements: The Quick Guide For Beginners](https://dev.to/deborah/ifelse-if-statements-the-quick-guide-for-beginners-2oof)
 - [Lifehacker] [12 Comedy Podcasts As Smart as SmartLess](https://lifehacker.com/best-funny-conversation-podcasts-like-smartless-1850722663)
@@ -45,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Help! Something isn&#39;t working and I don&#39;t know why! : An introduction to console.log and ipdb](https://dev.to/amsfreeman/help-something-isnt-working-and-i-dont-know-why-an-introduction-to-consolelog-and-ipdb-3n2p)
 - [Dev.to/JS] [A beginner guide to local storage, session storage and cookies in Javascript.](https://dev.to/dennisjunior247_/a-beginner-guide-to-local-storage-session-storage-and-cookies-in-javascript-37i1)
 - [Dev.to/JS] [Unleashing the Power of Methods: Enhance Your JavaScript Object Skills!](https://dev.to/ikamran01/unleashing-the-power-of-methods-enhance-your-javascript-object-skills-mb2)
-- [Dev.to/JS] [TCP / IP Stack - Oversimplified for Web Developers 🌍🧑🏻‍💻](https://dev.to/jaypmedia/tcp-ip-stack-oversimplified-for-web-developers-3668)
 - [Lifehacker] [Why You Should Use a VPN When Booking a Hotel](https://lifehacker.com/why-you-should-use-a-vpn-when-booking-a-hotel-1850722600)
 - [Lifehacker] [All the New Threads Features You Should Know About](https://lifehacker.com/all-the-new-threads-features-you-should-know-about-1850722073)
 - [Lifehacker] [The Best Ways to Teach Yourself to Code](https://lifehacker.com/top-10-ways-to-teach-yourself-to-code-1684250889)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Start Planning Next Year’s Summer Travel Right Now](https://lifehacker.com/why-you-should-start-planning-next-year-s-summer-travel-1850721019)
 - [Lifehacker] [Track Your Work With the Kanban Method](https://lifehacker.com/track-your-work-with-the-kanban-method-1850721028)
 - [Lifehacker] [What You Should Do When an Employer Ghosts You](https://lifehacker.com/what-you-should-do-when-an-employer-ghosts-you-1850720900)
-- [Lifehacker] [You Can Get These Two Ninja Drones for $150 Right Now](https://lifehacker.com/you-can-get-these-two-ninja-drones-for-150-right-now-1850705303)
-- [Lifehacker] [The Best, Least Messy Way to Cut Large Fruit](https://lifehacker.com/the-best-least-messy-way-to-cut-large-fruit-1850720567)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get These Two Ninja Drones for $150 Right Now](https://lifehacker.com/you-can-get-these-two-ninja-drones-for-150-right-now-1850705303)<!-- TECH-POSTS:END -->
 
 ---
 
