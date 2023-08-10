@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Build a Cheap, Custom Copper Pot Rack](https://lifehacker.com/you-can-build-a-cheap-custom-copper-pot-rack-1850726695)
+- [Dev.to/JS] [Animating with React Native: Bringing Your App to Life 🎉🚀](https://dev.to/medaimane/animating-with-react-native-bringing-your-app-to-life-2ea8)
+- [Dev.to/JS] [What parts of JavaScript are tricky for beginners?](https://dev.to/lukeecart/what-parts-of-javascript-are-tricky-for-beginners-51f1)
+- [Dev.to/JS] [Mastering JavaScript Fundamentals: Unleashing Your Framework Readiness](https://dev.to/michaellarocca/mastering-javascript-fundamentals-unleashing-your-framework-readiness-26md)
+- [Lifehacker] [The Best Products to Make Desk Work More Comfortable](https://lifehacker.com/the-best-products-to-make-desk-work-more-comfortable-1850726025)
 - [Dev.to/JS] [React Custom Hook: useCopyToClipboard](https://dev.to/sergeyleschev/react-custom-hook-usecopytoclipboard-48p6)
+- [Lifehacker] [Treat Yourself to a Cheater&#39;s Tiramisu](https://lifehacker.com/treat-yourself-to-a-cheaters-tiramisu-1850726779)
 - [Dev.to/JS] [Using a Proxy for smart destructuring](https://dev.to/efpage/using-a-proxy-for-smart-destructuring-1f4l)
 - [Dev.to/JS] [A11y: Mejora de la accesibilidad de las aplicaciones con ESLint](https://dev.to/anaarezo/a11y-mejora-de-la-accesibilidad-de-las-aplicaciones-con-eslint-3pjp)
 - [Dev.to/JS] [Event Loop Explained](https://dev.to/martinmusss/event-loop-explained-1ban)
@@ -40,12 +46,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your Dryer Is Making Weird Noises and What to Do About It](https://lifehacker.com/why-your-dryer-is-making-weird-noises-and-what-to-do-ab-1850722827)
 - [Dev.to/JS] [Two+ things I do every time I set up a new node project](https://dev.to/receter/two-things-i-do-every-time-i-set-up-a-new-node-project-1mg3)
 - [Lifehacker] [How to Pick an Inside Door Lock](https://lifehacker.com/how-to-open-a-locked-interior-door-when-youve-lost-the-5464402)
-- [Dev.to/JS] [Community Highlights: Svelte Storefront, Medusa Flutter Admin, and lots of new plugins](https://dev.to/medusajs/community-highlights-svelte-storefront-medusa-flutter-admin-and-lots-of-new-plugins-4jia)
 - [Lifehacker] [This Fancy Electric Composter Is 30% Off Right Now](https://lifehacker.com/this-fancy-electric-composter-is-30-off-right-now-1850722269)
 - [Lifehacker] [Disney+ and Hulu Are About to Raise Prices, but You Can Avoid It](https://lifehacker.com/disney-and-hulu-are-about-to-raise-prices-but-you-can-1850725687)
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
-- [Dev.to/JS] [Learning JavaScript Basics](https://dev.to/camillearce/learning-javascript-basics-2gm7)
-- [Dev.to/JS] [A guide to the 4 new Array.prototype methods in JavaScript](https://dev.to/logrocket/a-guide-to-the-4-new-arrayprototype-methods-in-javascript-2mej)
 - [Lifehacker] [Use Forster’s Commitment Inventory to Prioritize Your Tasks](https://lifehacker.com/use-forster-s-commitment-inventory-to-prioritize-your-t-1850725391)
 - [Lifehacker] [People Ignore These Hidden Design Features Every Day](https://lifehacker.com/people-ignore-these-hidden-design-features-every-day-1850725314)
 - [Lifehacker] [Put Hash Browns Inside Your Breakfast Sandwich](https://lifehacker.com/put-hash-browns-inside-your-breakfast-sandwich-1843731822)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What People Are Getting Wrong This Week: The Barbie Protest Hoax](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-barbie-pro-1850723245)
 - [Lifehacker] [Make Brazilian Limeade With That Last Bit of Condensed Milk](https://lifehacker.com/make-brazilian-limeade-with-that-last-bit-of-condensed-1850722301)
 - [Lifehacker] [Why You Should Use a VPN When Booking a Hotel](https://lifehacker.com/why-you-should-use-a-vpn-when-booking-a-hotel-1850722600)
-- [Lifehacker] [All the New Threads Features You Should Know About](https://lifehacker.com/all-the-new-threads-features-you-should-know-about-1850722073)
-- [Lifehacker] [The Best Ways to Teach Yourself to Code](https://lifehacker.com/top-10-ways-to-teach-yourself-to-code-1684250889)
-- [Lifehacker] [How to Roll a Perfect Joint](https://lifehacker.com/how-to-roll-a-perfect-joint-1848559512)
-- [Lifehacker] [You Can Get Norton 360 and LifeLock for $25 Right Now](https://lifehacker.com/you-can-get-norton-360-and-lifelock-for-25-right-now-1850707854)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the New Threads Features You Should Know About](https://lifehacker.com/all-the-new-threads-features-you-should-know-about-1850722073)<!-- TECH-POSTS:END -->
 
 ---
 
