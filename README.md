@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My approach on writing an article with a real live project - Why](https://dev.to/devlawrence/my-approach-on-writing-an-article-with-a-real-live-project-why-2jia)
 - [Dev.to/JS] [Creating a Cyberpunk-Themed Music Player with React, Web Audio API, and Canvas](https://dev.to/tropicolx/creating-a-cyberpunk-themed-music-player-with-react-web-audio-api-and-canvas-4iol)
 - [Dev.to/JS] [Useful JavaScript Shorthands](https://dev.to/mursalfk/useful-javascript-shorthands-4k3h)
 - [Dev.to/JS] [My Journey: JavaScript Challenges and Scrimba!](https://dev.to/terapitilltrumf/my-journey-javascript-challenges-and-scrimba-3p90)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Amtrak train routes and prices +1-800-315-2771 amtrak customer service](https://dev.to/lisajohn1599513/amtrak-train-routes-and-prices-1-800-315-2771-amtrak-customer-service-237c)
 - [Dev.to/JS] [Convert simple javascript function to typescript](https://dev.to/manthanank/convert-simple-javascript-function-to-typescript-29o6)
 - [Dev.to/JS] [You might not need separate config for prettier and eslint](https://dev.to/tanishqsingla/you-might-not-need-separate-config-for-prettier-and-eslint-m9e)
-- [Dev.to/JS] [The Evolution of JavaScript: From Vanilla to Modern ES2023 Features](https://dev.to/digitalpollution/the-evolution-of-javascript-from-vanilla-to-modern-es2023-features-5bj0)
 - [Lifehacker] [Why You Should Use a VPN When Booking a Hotel](https://lifehacker.com/why-you-should-use-a-vpn-when-booking-a-hotel-1850722600)
 - [Lifehacker] [All the New Threads Features You Should Know About](https://lifehacker.com/all-the-new-threads-features-you-should-know-about-1850722073)
 - [Lifehacker] [Your iPhone Can Clone Your Voice](https://lifehacker.com/your-iphone-can-clone-your-voice-1850722400)
