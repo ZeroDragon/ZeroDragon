@@ -26,7 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Increment a Name in Typescript](https://dev.to/iamebuka/increment-a-name-in-typescript-2id3)
+- [Dev.to/JS] [Help! Something isn&#39;t working and I don&#39;t know why! : An introduction to console.log and ipdb](https://dev.to/amsfreeman/help-something-isnt-working-and-i-dont-know-why-an-introduction-to-consolelog-and-ipdb-3n2p)
 - [Dev.to/JS] [A beginner guide to local storage, session storage and cookies in Javascript.](https://dev.to/dennisjunior247_/a-beginner-guide-to-local-storage-session-storage-and-cookies-in-javascript-37i1)
 - [Dev.to/JS] [Unleashing the Power of Methods: Enhance Your JavaScript Object Skills!](https://dev.to/ikamran01/unleashing-the-power-of-methods-enhance-your-javascript-object-skills-mb2)
 - [Dev.to/JS] [TCP / IP Stack - Oversimplified for Web Developers 🌍🧑🏻‍💻](https://dev.to/jaypmedia/tcp-ip-stack-oversimplified-for-web-developers-3668)
