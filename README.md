@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Increment a Name in Typescript](https://dev.to/iamebuka/increment-a-name-in-typescript-2id3)
+- [Dev.to/JS] [A beginner guide to local storage, session storage and cookies in Javascript.](https://dev.to/dennisjunior247_/a-beginner-guide-to-local-storage-session-storage-and-cookies-in-javascript-37i1)
 - [Dev.to/JS] [Unleashing the Power of Methods: Enhance Your JavaScript Object Skills!](https://dev.to/ikamran01/unleashing-the-power-of-methods-enhance-your-javascript-object-skills-mb2)
 - [Dev.to/JS] [TCP / IP Stack - Oversimplified for Web Developers 🌍🧑🏻‍💻](https://dev.to/jaypmedia/tcp-ip-stack-oversimplified-for-web-developers-3668)
 - [Dev.to/JS] [My approach on writing an article with a real live project - Why](https://dev.to/devlawrence/my-approach-on-writing-an-article-with-a-real-live-project-why-2jia)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pagination in React: A Comprehensive Guide](https://dev.to/crossskatee1/pagination-in-react-a-comprehensive-guide-1ah9)
 - [Dev.to/JS] [Processing 1 Million SQL Rows to CSV using Node.js Streams](https://dev.to/danielevilela/processing-1-million-sql-rows-to-csv-using-nodejs-streams-3in2)
 - [Dev.to/JS] [Best Cruise lines USA +1-800-315-2771 royal caribbean](https://dev.to/lisajohn1599513/best-cruise-lines-usa-1-800-315-2771-royal-caribbean-2akc)
-- [Dev.to/JS] [Cheapest Flights +1-800-315-2771 Cheap Airline Tickets](https://dev.to/lisajohn1599513/cheapest-flights-1-800-315-2771-cheap-airline-tickets-hln)
-- [Dev.to/JS] [Amtrak train routes and prices +1-800-315-2771 amtrak customer service](https://dev.to/lisajohn1599513/amtrak-train-routes-and-prices-1-800-315-2771-amtrak-customer-service-237c)
 - [Lifehacker] [Why You Should Use a VPN When Booking a Hotel](https://lifehacker.com/why-you-should-use-a-vpn-when-booking-a-hotel-1850722600)
 - [Lifehacker] [All the New Threads Features You Should Know About](https://lifehacker.com/all-the-new-threads-features-you-should-know-about-1850722073)
 - [Lifehacker] [Your iPhone Can Clone Your Voice](https://lifehacker.com/your-iphone-can-clone-your-voice-1850722400)
