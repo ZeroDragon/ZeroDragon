@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create configurable Angular guards](https://dev.to/this-is-angular/create-configurable-angular-guards-ng4)
 - [Dev.to/JS] [React State vs. React Context: Deciding How to Manage State](https://dev.to/imevanc/react-state-vs-react-context-deciding-how-to-manage-state-15e3)
 - [Lifehacker] [Why You Should Use a VPN When Booking a Hotel](https://lifehacker.com/why-you-should-use-a-vpn-when-booking-a-hotel-1850722600)
 - [Dev.to/JS] [Classes in JavaScript](https://dev.to/ojal_dev/classes-in-javascript-19bd)
@@ -58,7 +59,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What You Should Do When an Employer Ghosts You](https://lifehacker.com/what-you-should-do-when-an-employer-ghosts-you-1850720900)
 - [Lifehacker] [You Can Get These Two Ninja Drones for $150 Right Now](https://lifehacker.com/you-can-get-these-two-ninja-drones-for-150-right-now-1850705303)
 - [Lifehacker] [The Best, Least Messy Way to Cut Large Fruit](https://lifehacker.com/the-best-least-messy-way-to-cut-large-fruit-1850720567)
-- [Dev.to/JS] [Day 22: Modules](https://dev.to/dhrn/understanding-modules-24fo)
 - [Lifehacker] [The Best Water Filters to Remove &#39;Forever Chemicals&#39;](https://lifehacker.com/the-best-water-filters-to-remove-forever-chemicals-1850718819)
 - [Lifehacker] [The Better Way to Make TikTok’s Cottage Cheese Cinnamon Protein Toast](https://lifehacker.com/make-a-better-tiktok-protein-toast-1850719264)
 - [Lifehacker] [The 10 Best Original Star Trek Episodes for Fans of &#39;Strange New Worlds&#39;](https://lifehacker.com/the-10-best-original-star-trek-episodes-for-fans-of-bra-1850719883)
