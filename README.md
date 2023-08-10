@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Journey In The Open Source World - Contributing to other libraries #4](https://dev.to/cadienvan/my-journey-in-the-open-source-world-contributing-to-other-libraries-4-4i0b)
+- [Dev.to/JS] [If_Else If Statements: The Quick Guide For Beginners](https://dev.to/deborah/ifelse-if-statements-the-quick-guide-for-beginners-2oof)
+- [Lifehacker] [12 Comedy Podcasts As Smart as SmartLess](https://lifehacker.com/best-funny-conversation-podcasts-like-smartless-1850722663)
+- [Dev.to/JS] [Configurable typing of NPM packages. Typing may be stricter than you think](https://dev.to/yoskutik/configurable-typing-of-npm-packages-typing-may-be-stricter-than-you-think-2cj)
+- [Lifehacker] [This Refurbished iPad Mini Bundle Is $200 Right Now](https://lifehacker.com/this-refurbished-ipad-mini-bundle-is-200-right-now-1850705398)
+- [Dev.to/JS] [#LearnedToday: Ambigrams](https://dev.to/danielzotti/learnedtoday-ambigrams-40n0)
 - [Lifehacker] [You Should Bake Your Macaroni and Cheese in a Sheet Pan](https://lifehacker.com/you-should-bake-your-macaroni-and-cheese-in-a-sheet-pan-1850722991)
 - [Dev.to/JS] [Day 23: Proxy](https://dev.to/dhrn/day-23-proxy-3fki)
 - [Lifehacker] [You Can Finally Share Your Screen On WhatsApp Video Calls](https://lifehacker.com/you-can-finally-share-your-screen-on-whatsapp-video-cal-1850723959)
@@ -40,10 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A beginner guide to local storage, session storage and cookies in Javascript.](https://dev.to/dennisjunior247_/a-beginner-guide-to-local-storage-session-storage-and-cookies-in-javascript-37i1)
 - [Dev.to/JS] [Unleashing the Power of Methods: Enhance Your JavaScript Object Skills!](https://dev.to/ikamran01/unleashing-the-power-of-methods-enhance-your-javascript-object-skills-mb2)
 - [Dev.to/JS] [TCP / IP Stack - Oversimplified for Web Developers 🌍🧑🏻‍💻](https://dev.to/jaypmedia/tcp-ip-stack-oversimplified-for-web-developers-3668)
-- [Dev.to/JS] [My approach on writing an article with a real live project - Why](https://dev.to/devlawrence/my-approach-on-writing-an-article-with-a-real-live-project-why-2jia)
-- [Dev.to/JS] [Creating a Cyberpunk-Themed Music Player with React, Web Audio API, and Canvas](https://dev.to/tropicolx/creating-a-cyberpunk-themed-music-player-with-react-web-audio-api-and-canvas-4iol)
-- [Dev.to/JS] [Useful JavaScript Shorthands](https://dev.to/mursalfk/useful-javascript-shorthands-4k3h)
-- [Dev.to/JS] [My Journey: JavaScript Challenges and Scrimba!](https://dev.to/terapitilltrumf/my-journey-javascript-challenges-and-scrimba-3p90)
 - [Lifehacker] [Why You Should Use a VPN When Booking a Hotel](https://lifehacker.com/why-you-should-use-a-vpn-when-booking-a-hotel-1850722600)
 - [Lifehacker] [All the New Threads Features You Should Know About](https://lifehacker.com/all-the-new-threads-features-you-should-know-about-1850722073)
 - [Lifehacker] [The Best Ways to Teach Yourself to Code](https://lifehacker.com/top-10-ways-to-teach-yourself-to-code-1684250889)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Track Your Work With the Kanban Method](https://lifehacker.com/track-your-work-with-the-kanban-method-1850721028)
 - [Lifehacker] [What You Should Do When an Employer Ghosts You](https://lifehacker.com/what-you-should-do-when-an-employer-ghosts-you-1850720900)
 - [Lifehacker] [You Can Get These Two Ninja Drones for $150 Right Now](https://lifehacker.com/you-can-get-these-two-ninja-drones-for-150-right-now-1850705303)
-- [Lifehacker] [The Best, Least Messy Way to Cut Large Fruit](https://lifehacker.com/the-best-least-messy-way-to-cut-large-fruit-1850720567)
-- [Lifehacker] [The Best Water Filters to Remove &#39;Forever Chemicals&#39;](https://lifehacker.com/the-best-water-filters-to-remove-forever-chemicals-1850718819)
-- [Lifehacker] [The Better Way to Make TikTok’s Cottage Cheese Cinnamon Protein Toast](https://lifehacker.com/make-a-better-tiktok-protein-toast-1850719264)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best, Least Messy Way to Cut Large Fruit](https://lifehacker.com/the-best-least-messy-way-to-cut-large-fruit-1850720567)<!-- TECH-POSTS:END -->
 
 ---
 
