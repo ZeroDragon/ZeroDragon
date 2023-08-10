@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Custom Hook: useCopyToClipboard](https://dev.to/sergeyleschev/react-custom-hook-usecopytoclipboard-48p6)
+- [Dev.to/JS] [Using a Proxy for smart destructuring](https://dev.to/efpage/using-a-proxy-for-smart-destructuring-1f4l)
+- [Dev.to/JS] [A11y: Mejora de la accesibilidad de las aplicaciones con ESLint](https://dev.to/anaarezo/a11y-mejora-de-la-accesibilidad-de-las-aplicaciones-con-eslint-3pjp)
+- [Dev.to/JS] [Event Loop Explained](https://dev.to/martinmusss/event-loop-explained-1ban)
+- [Dev.to/JS] [A11y: Improving app accessibility with ESLint](https://dev.to/anaarezo/a11y-improving-app-accessibility-with-eslint-16n6)
+- [Lifehacker] [You Can Get Formula 1 US Grand Prix Tickets for 45% Off](https://lifehacker.com/you-can-get-formula-1-us-grand-prix-tickets-for-45-off-1850726250)
+- [Dev.to/JS] [A11y: Melhorando a acessibilidade de aplicativos com ESLint](https://dev.to/anaarezo/a11y-melhorando-a-acessibilidade-de-aplicativos-com-eslint-1l7a)
+- [Dev.to/JS] [Exploring the Magic of async/await in JavaScript!](https://dev.to/ajipelumi/exploring-the-magic-of-asyncawait-in-javascript-1k3o)
+- [Lifehacker] [You Can Groom Your Dog Without Traumatizing Them](https://lifehacker.com/how-to-groom-your-dog-at-home-without-traumatizing-them-1847867963)
 - [Lifehacker] [Don’t Trust Newegg’s New AI-Generated Review Summaries](https://lifehacker.com/don-t-trust-newegg-s-new-ai-generated-review-summaries-1850725887)
 - [Dev.to/JS] [Bringing Javascipt Files Together: How to Combine Them](https://dev.to/avwerosuoghene/bringing-javascipt-files-together-how-to-combine-them-4819)
 - [Lifehacker] [Why Your Dryer Is Making Weird Noises and What to Do About It](https://lifehacker.com/why-your-dryer-is-making-weird-noises-and-what-to-do-ab-1850722827)
@@ -37,20 +46,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
 - [Dev.to/JS] [Learning JavaScript Basics](https://dev.to/camillearce/learning-javascript-basics-2gm7)
 - [Dev.to/JS] [A guide to the 4 new Array.prototype methods in JavaScript](https://dev.to/logrocket/a-guide-to-the-4-new-arrayprototype-methods-in-javascript-2mej)
-- [Dev.to/JS] [What would everyone think of a `window.post` variable in JavaScript?](https://dev.to/baenencalin/what-would-everyone-would-think-of-a-windowpost-variable-in-javascript-2m42)
 - [Lifehacker] [Use Forster’s Commitment Inventory to Prioritize Your Tasks](https://lifehacker.com/use-forster-s-commitment-inventory-to-prioritize-your-t-1850725391)
-- [Dev.to/JS] [Determine whether an integer is a palindrome](https://dev.to/chandrapenugonda/determine-whether-an-integer-is-a-palindrome-51m1)
 - [Lifehacker] [People Ignore These Hidden Design Features Every Day](https://lifehacker.com/people-ignore-these-hidden-design-features-every-day-1850725314)
-- [Dev.to/JS] [Guess the output](https://dev.to/chandrapenugonda/guess-the-output-33jl)
 - [Lifehacker] [Put Hash Browns Inside Your Breakfast Sandwich](https://lifehacker.com/put-hash-browns-inside-your-breakfast-sandwich-1843731822)
 - [Lifehacker] [This Fancy Air Freshener Is $60 Right Now](https://lifehacker.com/this-fancy-air-freshener-is-60-right-now-1850722329)
-- [Dev.to/JS] [JS Challenge: Sum of the values of an object&#39;s properties](https://dev.to/jlogix/js-challenge-sum-of-the-values-of-an-objects-properties-hmg)
 - [Lifehacker] [Add These Sodas to Your Bad Wine](https://lifehacker.com/add-these-sodas-to-your-bad-wine-1850725006)
 - [Lifehacker] [Clean Up Your YouTube Feed With These Chrome Extensions](https://lifehacker.com/clean-up-your-youtube-feed-with-these-chrome-extensions-1850724772)
-- [Dev.to/JS] [Building a Dynamic Chelsea FC Landing Page: My Journey through Software Engineering Basics](https://dev.to/mola_tonny/building-a-dynamic-chelsea-fc-landing-page-my-journey-through-software-engineering-basics-3jma)
 - [Lifehacker] [This Device Helps You Play Video Games With Almost Any Controller You Want](https://lifehacker.com/this-device-helps-you-play-video-games-with-almost-any-1850724541)
-- [Dev.to/JS] [My Journey In The Open Source World - Contributing to other libraries #4](https://dev.to/cadienvan/my-journey-in-the-open-source-world-contributing-to-other-libraries-4-4i0b)
-- [Dev.to/JS] [If_Else If Statements: The Quick Guide For Beginners](https://dev.to/deborah/ifelse-if-statements-the-quick-guide-for-beginners-2oof)
 - [Lifehacker] [12 Comedy Podcasts As Smart as SmartLess](https://lifehacker.com/best-funny-conversation-podcasts-like-smartless-1850722663)
 - [Lifehacker] [This Refurbished iPad Mini Bundle Is $200 Right Now](https://lifehacker.com/this-refurbished-ipad-mini-bundle-is-200-right-now-1850705398)
 - [Lifehacker] [You Should Bake Your Macaroni and Cheese in a Sheet Pan](https://lifehacker.com/you-should-bake-your-macaroni-and-cheese-in-a-sheet-pan-1850722991)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the New Threads Features You Should Know About](https://lifehacker.com/all-the-new-threads-features-you-should-know-about-1850722073)
 - [Lifehacker] [The Best Ways to Teach Yourself to Code](https://lifehacker.com/top-10-ways-to-teach-yourself-to-code-1684250889)
 - [Lifehacker] [How to Roll a Perfect Joint](https://lifehacker.com/how-to-roll-a-perfect-joint-1848559512)
-- [Lifehacker] [You Can Get Norton 360 and LifeLock for $25 Right Now](https://lifehacker.com/you-can-get-norton-360-and-lifelock-for-25-right-now-1850707854)
-- [Lifehacker] [Be Wary of Change-of-Address Fraud](https://lifehacker.com/be-wary-of-change-of-address-fraud-1850721801)
-- [Lifehacker] [You Need to Season Your Fake Meat](https://lifehacker.com/you-need-to-season-your-fake-meat-1844891573)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Norton 360 and LifeLock for $25 Right Now](https://lifehacker.com/you-can-get-norton-360-and-lifelock-for-25-right-now-1850707854)<!-- TECH-POSTS:END -->
 
 ---
 
