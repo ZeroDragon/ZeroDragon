@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Convert simple javascript function to typescript](https://dev.to/manthanank/convert-simple-javascript-function-to-typescript-29o6)
+- [Dev.to/JS] [You might not need separate config for prettier and eslint](https://dev.to/tanishqsingla/you-might-not-need-separate-config-for-prettier-and-eslint-m9e)
 - [Dev.to/JS] [The Evolution of JavaScript: From Vanilla to Modern ES2023 Features](https://dev.to/digitalpollution/the-evolution-of-javascript-from-vanilla-to-modern-es2023-features-5bj0)
 - [Dev.to/JS] [🍳👩‍🍳 Exciting News: Introducing our Recipe Website Built with HTML, CSS, JS, and the Power of Recipe APIs! 👨‍🍳🍲](https://dev.to/sadiqshaik123/exciting-news-introducing-our-recipe-website-built-with-html-css-js-and-the-power-of-recipe-apis-58ie)
 - [Dev.to/JS] [Differentiating Zustand and Redux](https://dev.to/brainiacneit/differentiating-zustand-and-redux-al6)
@@ -41,12 +43,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your iPhone Can Clone Your Voice](https://lifehacker.com/your-iphone-can-clone-your-voice-1850722400)
 - [Lifehacker] [The Best Ways to Teach Yourself to Code](https://lifehacker.com/top-10-ways-to-teach-yourself-to-code-1684250889)
 - [Lifehacker] [How to Roll a Perfect Joint](https://lifehacker.com/how-to-roll-a-perfect-joint-1848559512)
-- [Dev.to/JS] [Programmatically generate files in Cypress tests](https://dev.to/tylerlwsmith/programmatically-generate-files-in-cypress-tests-dm8)
 - [Lifehacker] [You Can Get Norton 360 and LifeLock for $25 Right Now](https://lifehacker.com/you-can-get-norton-360-and-lifelock-for-25-right-now-1850707854)
 - [Lifehacker] [Be Wary of Change-of-Address Fraud](https://lifehacker.com/be-wary-of-change-of-address-fraud-1850721801)
 - [Lifehacker] [You Need to Season Your Fake Meat](https://lifehacker.com/you-need-to-season-your-fake-meat-1844891573)
 - [Lifehacker] [This 3-in-1 Charging Cable for Apple Devices Is $18 Right Now](https://lifehacker.com/this-3-in-1-charging-cable-for-apple-devices-is-18-rig-1850705884)
-- [Dev.to/JS] [Otimização em algoritmos de filtragem](https://dev.to/wevertoum/otimizacao-em-algoritmos-de-filtragem-4kfm)
 - [Lifehacker] [Make Quick French Toast With Melted Ice Cream](https://lifehacker.com/make-quick-french-toast-with-melted-ice-cream-1850721883)
 - [Lifehacker] [People Are Caramelizing Their Onions All Wrong](https://lifehacker.com/you-cannot-caramelize-onions-without-patience-1823404064)
 - [Lifehacker] [The Best Adult Lunchboxes Worth Buying](https://lifehacker.com/best-adult-lunchboxes-1850721509)
