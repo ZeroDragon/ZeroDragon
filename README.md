@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use a UPS to Keep Your Internet Running in a Brownout](https://lifehacker.com/use-a-ups-to-keep-your-internet-running-in-a-brownout-1850723868)
+- [Lifehacker] [Your iPhone Can Clone Your Voice](https://lifehacker.com/your-iphone-can-clone-your-voice-1850722400)
+- [Dev.to/JS] [Easily retrieve the value of a nested property inside an object in javascript without the need for optional chaining in 2023.](https://dev.to/melvinvmegen/easily-retrieve-the-value-of-a-nested-property-inside-an-object-in-javascript-without-the-need-for-optional-chaining-in-2023-59f7)
+- [Lifehacker] [What People Are Getting Wrong This Week: The Barbie Protest Hoax](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-barbie-pro-1850723245)
+- [Dev.to/JS] [Using Bryntum Calendar to Coordinate Caregiver Availability in Health Care](https://dev.to/bryntum/using-bryntum-calendar-to-coordinate-caregiver-availability-in-health-care-1g7d)
+- [Lifehacker] [Make Brazilian Limeade With That Last Bit of Condensed Milk](https://lifehacker.com/make-brazilian-limeade-with-that-last-bit-of-condensed-1850722301)
 - [Dev.to/JS] [Help! Something isn&#39;t working and I don&#39;t know why! : An introduction to console.log and ipdb](https://dev.to/amsfreeman/help-something-isnt-working-and-i-dont-know-why-an-introduction-to-consolelog-and-ipdb-3n2p)
 - [Dev.to/JS] [A beginner guide to local storage, session storage and cookies in Javascript.](https://dev.to/dennisjunior247_/a-beginner-guide-to-local-storage-session-storage-and-cookies-in-javascript-37i1)
 - [Dev.to/JS] [Unleashing the Power of Methods: Enhance Your JavaScript Object Skills!](https://dev.to/ikamran01/unleashing-the-power-of-methods-enhance-your-javascript-object-skills-mb2)
@@ -36,11 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Journey: JavaScript Challenges and Scrimba!](https://dev.to/terapitilltrumf/my-journey-javascript-challenges-and-scrimba-3p90)
 - [Dev.to/JS] [Angular Addicts #16: Signals vs. RxJS, combined test coverage reports &amp; more](https://dev.to/this-is-angular/angular-addicts-16-signals-vs-rxjs-combined-test-coverage-reports-more-14i9)
 - [Dev.to/JS] [Pagination in React: A Comprehensive Guide](https://dev.to/crossskatee1/pagination-in-react-a-comprehensive-guide-1ah9)
-- [Dev.to/JS] [Processing 1 Million SQL Rows to CSV using Node.js Streams](https://dev.to/danielevilela/processing-1-million-sql-rows-to-csv-using-nodejs-streams-3in2)
-- [Dev.to/JS] [Best Cruise lines USA +1-800-315-2771 royal caribbean](https://dev.to/lisajohn1599513/best-cruise-lines-usa-1-800-315-2771-royal-caribbean-2akc)
 - [Lifehacker] [Why You Should Use a VPN When Booking a Hotel](https://lifehacker.com/why-you-should-use-a-vpn-when-booking-a-hotel-1850722600)
 - [Lifehacker] [All the New Threads Features You Should Know About](https://lifehacker.com/all-the-new-threads-features-you-should-know-about-1850722073)
-- [Lifehacker] [Your iPhone Can Clone Your Voice](https://lifehacker.com/your-iphone-can-clone-your-voice-1850722400)
 - [Lifehacker] [The Best Ways to Teach Yourself to Code](https://lifehacker.com/top-10-ways-to-teach-yourself-to-code-1684250889)
 - [Lifehacker] [How to Roll a Perfect Joint](https://lifehacker.com/how-to-roll-a-perfect-joint-1848559512)
 - [Lifehacker] [You Can Get Norton 360 and LifeLock for $25 Right Now](https://lifehacker.com/you-can-get-norton-360-and-lifelock-for-25-right-now-1850707854)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Water Filters to Remove &#39;Forever Chemicals&#39;](https://lifehacker.com/the-best-water-filters-to-remove-forever-chemicals-1850718819)
 - [Lifehacker] [The Better Way to Make TikTok’s Cottage Cheese Cinnamon Protein Toast](https://lifehacker.com/make-a-better-tiktok-protein-toast-1850719264)
 - [Lifehacker] [The 10 Best Original Star Trek Episodes for Fans of &#39;Strange New Worlds&#39;](https://lifehacker.com/the-10-best-original-star-trek-episodes-for-fans-of-bra-1850719883)
-- [Lifehacker] [Eight Inexpensive Backyard Upgrades That Don&#39;t Require Planting Anything](https://lifehacker.com/best-inexpensive-backyard-updates-1850717278)
-- [Lifehacker] [Never Go Camping Without These Things](https://lifehacker.com/never-go-camping-without-these-things-1849469481)
-- [Lifehacker] [Fry Your Eggs in Brine for Surprisingly Nuanced Flavor](https://lifehacker.com/fry-your-eggs-in-brine-for-surprisingly-nuanced-flavor-1850718578)
-- [Lifehacker] [The Best Gear to Help You Focus at Work](https://lifehacker.com/the-best-gear-to-help-you-focus-at-work-1850718629)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Eight Inexpensive Backyard Upgrades That Don&#39;t Require Planting Anything](https://lifehacker.com/best-inexpensive-backyard-updates-1850717278)<!-- TECH-POSTS:END -->
 
 ---
 
