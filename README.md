@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unleashing the Power of Methods: Enhance Your JavaScript Object Skills!](https://dev.to/ikamran01/unleashing-the-power-of-methods-enhance-your-javascript-object-skills-mb2)
+- [Dev.to/JS] [TCP / IP Stack - Oversimplified for Web Developers 🌍🧑🏻‍💻](https://dev.to/jaypmedia/tcp-ip-stack-oversimplified-for-web-developers-3668)
 - [Dev.to/JS] [My approach on writing an article with a real live project - Why](https://dev.to/devlawrence/my-approach-on-writing-an-article-with-a-real-live-project-why-2jia)
 - [Dev.to/JS] [Creating a Cyberpunk-Themed Music Player with React, Web Audio API, and Canvas](https://dev.to/tropicolx/creating-a-cyberpunk-themed-music-player-with-react-web-audio-api-and-canvas-4iol)
 - [Dev.to/JS] [Useful JavaScript Shorthands](https://dev.to/mursalfk/useful-javascript-shorthands-4k3h)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Cruise lines USA +1-800-315-2771 royal caribbean](https://dev.to/lisajohn1599513/best-cruise-lines-usa-1-800-315-2771-royal-caribbean-2akc)
 - [Dev.to/JS] [Cheapest Flights +1-800-315-2771 Cheap Airline Tickets](https://dev.to/lisajohn1599513/cheapest-flights-1-800-315-2771-cheap-airline-tickets-hln)
 - [Dev.to/JS] [Amtrak train routes and prices +1-800-315-2771 amtrak customer service](https://dev.to/lisajohn1599513/amtrak-train-routes-and-prices-1-800-315-2771-amtrak-customer-service-237c)
-- [Dev.to/JS] [Convert simple javascript function to typescript](https://dev.to/manthanank/convert-simple-javascript-function-to-typescript-29o6)
-- [Dev.to/JS] [You might not need separate config for prettier and eslint](https://dev.to/tanishqsingla/you-might-not-need-separate-config-for-prettier-and-eslint-m9e)
 - [Lifehacker] [Why You Should Use a VPN When Booking a Hotel](https://lifehacker.com/why-you-should-use-a-vpn-when-booking-a-hotel-1850722600)
 - [Lifehacker] [All the New Threads Features You Should Know About](https://lifehacker.com/all-the-new-threads-features-you-should-know-about-1850722073)
 - [Lifehacker] [Your iPhone Can Clone Your Voice](https://lifehacker.com/your-iphone-can-clone-your-voice-1850722400)
