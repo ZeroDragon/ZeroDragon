@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering JS Shorthand Techniques Part-5: Async/Await, Arrow Function, and Exports and Imports](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-part-5-asyncawait-arrow-function-and-exports-and-imports-2pj1)
+- [Dev.to/JS] [What is Pseudocode? Unveiling the Blueprint Behind Powerful Web Development! — boldercloud.com.au](https://dev.to/stonediggity/what-is-pseudocode-unveiling-the-blueprint-behind-powerful-web-development-boldercloudcomau-2app)
 - [Dev.to/JS] [Create configurable Angular guards](https://dev.to/this-is-angular/create-configurable-angular-guards-ng4)
 - [Dev.to/JS] [React State vs. React Context: Deciding How to Manage State](https://dev.to/imevanc/react-state-vs-react-context-deciding-how-to-manage-state-15e3)
 - [Lifehacker] [Why You Should Use a VPN When Booking a Hotel](https://lifehacker.com/why-you-should-use-a-vpn-when-booking-a-hotel-1850722600)
@@ -51,8 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Uninstall NightOwl From Your Mac ASAP](https://lifehacker.com/uninstall-nightowl-from-your-mac-asap-1850721644)
 - [Lifehacker] [This Refurbished iPad Air Is $150 Right Now](https://lifehacker.com/this-refurbished-ipad-air-is-150-right-now-1850705010)
 - [Lifehacker] [You Should Turn Off Your YouTube Watch History](https://lifehacker.com/you-should-turn-off-your-youtube-watch-history-1850720994)
-- [Dev.to/JS] [Attack of the Clones](https://dev.to/wraith/attack-of-the-clones-1pe7)
-- [Dev.to/JS] [JS Challenge: Check if an array has all its values sorted in the ascending order](https://dev.to/jlogix/js-challenge-check-if-an-array-has-all-its-values-sorted-in-the-ascending-order-34i0)
 - [Lifehacker] [How to Go to Sleep Like Royalty](https://lifehacker.com/how-to-go-to-sleep-like-fucking-royalty-1848593982)
 - [Lifehacker] [Why You Should Start Planning Next Year’s Summer Travel Right Now](https://lifehacker.com/why-you-should-start-planning-next-year-s-summer-travel-1850721019)
 - [Lifehacker] [Track Your Work With the Kanban Method](https://lifehacker.com/track-your-work-with-the-kanban-method-1850721028)
