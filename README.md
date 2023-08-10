@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cheapest Flights +1-800-315-2771 Cheap Airline Tickets](https://dev.to/lisajohn1599513/cheapest-flights-1-800-315-2771-cheap-airline-tickets-hln)
+- [Dev.to/JS] [Amtrak train routes and prices +1-800-315-2771 amtrak customer service](https://dev.to/lisajohn1599513/amtrak-train-routes-and-prices-1-800-315-2771-amtrak-customer-service-237c)
 - [Dev.to/JS] [Convert simple javascript function to typescript](https://dev.to/manthanank/convert-simple-javascript-function-to-typescript-29o6)
 - [Dev.to/JS] [You might not need separate config for prettier and eslint](https://dev.to/tanishqsingla/you-might-not-need-separate-config-for-prettier-and-eslint-m9e)
 - [Dev.to/JS] [The Evolution of JavaScript: From Vanilla to Modern ES2023 Features](https://dev.to/digitalpollution/the-evolution-of-javascript-from-vanilla-to-modern-es2023-features-5bj0)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React State vs. React Context: Deciding How to Manage State](https://dev.to/imevanc/react-state-vs-react-context-deciding-how-to-manage-state-15e3)
 - [Lifehacker] [Why You Should Use a VPN When Booking a Hotel](https://lifehacker.com/why-you-should-use-a-vpn-when-booking-a-hotel-1850722600)
 - [Dev.to/JS] [Classes in JavaScript](https://dev.to/ojal_dev/classes-in-javascript-19bd)
-- [Dev.to/JS] [React Custom Hook: useCookie](https://dev.to/sergeyleschev/react-custom-hook-usecookie-5e35)
 - [Lifehacker] [All the New Threads Features You Should Know About](https://lifehacker.com/all-the-new-threads-features-you-should-know-about-1850722073)
-- [Dev.to/JS] [Created simple phone number compression functions.](https://dev.to/hidao80/phone-number-compression-1mip)
 - [Lifehacker] [Your iPhone Can Clone Your Voice](https://lifehacker.com/your-iphone-can-clone-your-voice-1850722400)
 - [Lifehacker] [The Best Ways to Teach Yourself to Code](https://lifehacker.com/top-10-ways-to-teach-yourself-to-code-1684250889)
 - [Lifehacker] [How to Roll a Perfect Joint](https://lifehacker.com/how-to-roll-a-perfect-joint-1848559512)
