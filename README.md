@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Evolution of JavaScript: From Vanilla to Modern ES2023 Features](https://dev.to/digitalpollution/the-evolution-of-javascript-from-vanilla-to-modern-es2023-features-5bj0)
 - [Dev.to/JS] [🍳👩‍🍳 Exciting News: Introducing our Recipe Website Built with HTML, CSS, JS, and the Power of Recipe APIs! 👨‍🍳🍲](https://dev.to/sadiqshaik123/exciting-news-introducing-our-recipe-website-built-with-html-css-js-and-the-power-of-recipe-apis-58ie)
 - [Dev.to/JS] [Differentiating Zustand and Redux](https://dev.to/brainiacneit/differentiating-zustand-and-redux-al6)
 - [Dev.to/JS] [Mastering JS Shorthand Techniques Part-5: Async/Await, Arrow Function, and Exports and Imports](https://dev.to/abidullah786/mastering-javascript-shorthand-techniques-part-5-asyncawait-arrow-function-and-exports-and-imports-2pj1)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need to Season Your Fake Meat](https://lifehacker.com/you-need-to-season-your-fake-meat-1844891573)
 - [Lifehacker] [This 3-in-1 Charging Cable for Apple Devices Is $18 Right Now](https://lifehacker.com/this-3-in-1-charging-cable-for-apple-devices-is-18-rig-1850705884)
 - [Dev.to/JS] [Otimização em algoritmos de filtragem](https://dev.to/wevertoum/otimizacao-em-algoritmos-de-filtragem-4kfm)
-- [Dev.to/JS] [Form validation in React is made simpler by using JavaScript libraries](https://dev.to/wilsonadedamola/form-validation-in-react-is-made-simpler-by-using-javascript-libraries-3ghe)
 - [Lifehacker] [Make Quick French Toast With Melted Ice Cream](https://lifehacker.com/make-quick-french-toast-with-melted-ice-cream-1850721883)
 - [Lifehacker] [People Are Caramelizing Their Onions All Wrong](https://lifehacker.com/you-cannot-caramelize-onions-without-patience-1823404064)
 - [Lifehacker] [The Best Adult Lunchboxes Worth Buying](https://lifehacker.com/best-adult-lunchboxes-1850721509)
