@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Bake Your Macaroni and Cheese in a Sheet Pan](https://lifehacker.com/you-should-bake-your-macaroni-and-cheese-in-a-sheet-pan-1850722991)
+- [Dev.to/JS] [Day 23: Proxy](https://dev.to/dhrn/day-23-proxy-3fki)
+- [Lifehacker] [You Can Finally Share Your Screen On WhatsApp Video Calls](https://lifehacker.com/you-can-finally-share-your-screen-on-whatsapp-video-cal-1850723959)
+- [Dev.to/JS] [Online Attendance Management System In PHP](https://dev.to/snipbyte/online-attendance-management-system-in-php-21k)
 - [Lifehacker] [Use a UPS to Keep Your Internet Running in a Brownout](https://lifehacker.com/use-a-ups-to-keep-your-internet-running-in-a-brownout-1850723868)
 - [Lifehacker] [Your iPhone Can Clone Your Voice](https://lifehacker.com/your-iphone-can-clone-your-voice-1850722400)
 - [Dev.to/JS] [Easily retrieve the value of a nested property inside an object in javascript without the need for optional chaining in 2023.](https://dev.to/melvinvmegen/easily-retrieve-the-value-of-a-nested-property-inside-an-object-in-javascript-without-the-need-for-optional-chaining-in-2023-59f7)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Cyberpunk-Themed Music Player with React, Web Audio API, and Canvas](https://dev.to/tropicolx/creating-a-cyberpunk-themed-music-player-with-react-web-audio-api-and-canvas-4iol)
 - [Dev.to/JS] [Useful JavaScript Shorthands](https://dev.to/mursalfk/useful-javascript-shorthands-4k3h)
 - [Dev.to/JS] [My Journey: JavaScript Challenges and Scrimba!](https://dev.to/terapitilltrumf/my-journey-javascript-challenges-and-scrimba-3p90)
-- [Dev.to/JS] [Angular Addicts #16: Signals vs. RxJS, combined test coverage reports &amp; more](https://dev.to/this-is-angular/angular-addicts-16-signals-vs-rxjs-combined-test-coverage-reports-more-14i9)
-- [Dev.to/JS] [Pagination in React: A Comprehensive Guide](https://dev.to/crossskatee1/pagination-in-react-a-comprehensive-guide-1ah9)
 - [Lifehacker] [Why You Should Use a VPN When Booking a Hotel](https://lifehacker.com/why-you-should-use-a-vpn-when-booking-a-hotel-1850722600)
 - [Lifehacker] [All the New Threads Features You Should Know About](https://lifehacker.com/all-the-new-threads-features-you-should-know-about-1850722073)
 - [Lifehacker] [The Best Ways to Teach Yourself to Code](https://lifehacker.com/top-10-ways-to-teach-yourself-to-code-1684250889)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get These Two Ninja Drones for $150 Right Now](https://lifehacker.com/you-can-get-these-two-ninja-drones-for-150-right-now-1850705303)
 - [Lifehacker] [The Best, Least Messy Way to Cut Large Fruit](https://lifehacker.com/the-best-least-messy-way-to-cut-large-fruit-1850720567)
 - [Lifehacker] [The Best Water Filters to Remove &#39;Forever Chemicals&#39;](https://lifehacker.com/the-best-water-filters-to-remove-forever-chemicals-1850718819)
-- [Lifehacker] [The Better Way to Make TikTok’s Cottage Cheese Cinnamon Protein Toast](https://lifehacker.com/make-a-better-tiktok-protein-toast-1850719264)
-- [Lifehacker] [The 10 Best Original Star Trek Episodes for Fans of &#39;Strange New Worlds&#39;](https://lifehacker.com/the-10-best-original-star-trek-episodes-for-fans-of-bra-1850719883)
-- [Lifehacker] [Eight Inexpensive Backyard Upgrades That Don&#39;t Require Planting Anything](https://lifehacker.com/best-inexpensive-backyard-updates-1850717278)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Better Way to Make TikTok’s Cottage Cheese Cinnamon Protein Toast](https://lifehacker.com/make-a-better-tiktok-protein-toast-1850719264)<!-- TECH-POSTS:END -->
 
 ---
 
