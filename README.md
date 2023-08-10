@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What would everyone think of a `window.post` variable in JavaScript?](https://dev.to/baenencalin/what-would-everyone-would-think-of-a-windowpost-variable-in-javascript-2m42)
+- [Dev.to/JS] [Determine whether an integer is a palindrome](https://dev.to/chandrapenugonda/determine-whether-an-integer-is-a-palindrome-51m1)
+- [Lifehacker] [People Ignore These Hidden Design Features Every Day](https://lifehacker.com/people-ignore-these-hidden-design-features-every-day-1850725314)
+- [Dev.to/JS] [Guess the output](https://dev.to/chandrapenugonda/guess-the-output-33jl)
+- [Lifehacker] [Put Hash Browns Inside Your Breakfast Sandwich](https://lifehacker.com/put-hash-browns-inside-your-breakfast-sandwich-1843731822)
 - [Lifehacker] [This Fancy Air Freshener Is $60 Right Now](https://lifehacker.com/this-fancy-air-freshener-is-60-right-now-1850722329)
 - [Dev.to/JS] [JS Challenge: Sum of the values of an object&#39;s properties](https://dev.to/jlogix/js-challenge-sum-of-the-values-of-an-objects-properties-hmg)
 - [Lifehacker] [Add These Sodas to Your Bad Wine](https://lifehacker.com/add-these-sodas-to-your-bad-wine-1850725006)
@@ -46,10 +51,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your iPhone Can Clone Your Voice](https://lifehacker.com/your-iphone-can-clone-your-voice-1850722400)
 - [Dev.to/JS] [Easily retrieve the value of a nested property inside an object in javascript without the need for optional chaining in 2023.](https://dev.to/melvinvmegen/easily-retrieve-the-value-of-a-nested-property-inside-an-object-in-javascript-without-the-need-for-optional-chaining-in-2023-59f7)
 - [Lifehacker] [What People Are Getting Wrong This Week: The Barbie Protest Hoax](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-barbie-pro-1850723245)
-- [Dev.to/JS] [Using Bryntum Calendar to Coordinate Caregiver Availability in Health Care](https://dev.to/bryntum/using-bryntum-calendar-to-coordinate-caregiver-availability-in-health-care-1g7d)
 - [Lifehacker] [Make Brazilian Limeade With That Last Bit of Condensed Milk](https://lifehacker.com/make-brazilian-limeade-with-that-last-bit-of-condensed-1850722301)
-- [Dev.to/JS] [Help! Something isn&#39;t working and I don&#39;t know why! : An introduction to console.log and ipdb](https://dev.to/amsfreeman/help-something-isnt-working-and-i-dont-know-why-an-introduction-to-consolelog-and-ipdb-3n2p)
-- [Dev.to/JS] [A beginner guide to local storage, session storage and cookies in Javascript.](https://dev.to/dennisjunior247_/a-beginner-guide-to-local-storage-session-storage-and-cookies-in-javascript-37i1)
 - [Lifehacker] [Why You Should Use a VPN When Booking a Hotel](https://lifehacker.com/why-you-should-use-a-vpn-when-booking-a-hotel-1850722600)
 - [Lifehacker] [All the New Threads Features You Should Know About](https://lifehacker.com/all-the-new-threads-features-you-should-know-about-1850722073)
 - [Lifehacker] [The Best Ways to Teach Yourself to Code](https://lifehacker.com/top-10-ways-to-teach-yourself-to-code-1684250889)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Adult Lunchboxes Worth Buying](https://lifehacker.com/best-adult-lunchboxes-1850721509)
 - [Lifehacker] [Uninstall NightOwl From Your Mac ASAP](https://lifehacker.com/uninstall-nightowl-from-your-mac-asap-1850721644)
 - [Lifehacker] [This Refurbished iPad Air Is $150 Right Now](https://lifehacker.com/this-refurbished-ipad-air-is-150-right-now-1850705010)
-- [Lifehacker] [You Should Turn Off Your YouTube Watch History](https://lifehacker.com/you-should-turn-off-your-youtube-watch-history-1850720994)
-- [Lifehacker] [How to Go to Sleep Like Royalty](https://lifehacker.com/how-to-go-to-sleep-like-fucking-royalty-1848593982)
-- [Lifehacker] [Why You Should Start Planning Next Year’s Summer Travel Right Now](https://lifehacker.com/why-you-should-start-planning-next-year-s-summer-travel-1850721019)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Turn Off Your YouTube Watch History](https://lifehacker.com/you-should-turn-off-your-youtube-watch-history-1850720994)<!-- TECH-POSTS:END -->
 
 ---
 
