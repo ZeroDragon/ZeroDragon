@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Fancy Air Freshener Is $60 Right Now](https://lifehacker.com/this-fancy-air-freshener-is-60-right-now-1850722329)
+- [Dev.to/JS] [JS Challenge: Sum of the values of an object&#39;s properties](https://dev.to/jlogix/js-challenge-sum-of-the-values-of-an-objects-properties-hmg)
+- [Lifehacker] [Add These Sodas to Your Bad Wine](https://lifehacker.com/add-these-sodas-to-your-bad-wine-1850725006)
+- [Lifehacker] [Clean Up Your YouTube Feed With These Chrome Extensions](https://lifehacker.com/clean-up-your-youtube-feed-with-these-chrome-extensions-1850724772)
 - [Dev.to/JS] [Building a Dynamic Chelsea FC Landing Page: My Journey through Software Engineering Basics](https://dev.to/mola_tonny/building-a-dynamic-chelsea-fc-landing-page-my-journey-through-software-engineering-basics-3jma)
 - [Lifehacker] [This Device Helps You Play Video Games With Almost Any Controller You Want](https://lifehacker.com/this-device-helps-you-play-video-games-with-almost-any-1850724541)
 - [Dev.to/JS] [My Journey In The Open Source World - Contributing to other libraries #4](https://dev.to/cadienvan/my-journey-in-the-open-source-world-contributing-to-other-libraries-4-4i0b)
@@ -46,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Brazilian Limeade With That Last Bit of Condensed Milk](https://lifehacker.com/make-brazilian-limeade-with-that-last-bit-of-condensed-1850722301)
 - [Dev.to/JS] [Help! Something isn&#39;t working and I don&#39;t know why! : An introduction to console.log and ipdb](https://dev.to/amsfreeman/help-something-isnt-working-and-i-dont-know-why-an-introduction-to-consolelog-and-ipdb-3n2p)
 - [Dev.to/JS] [A beginner guide to local storage, session storage and cookies in Javascript.](https://dev.to/dennisjunior247_/a-beginner-guide-to-local-storage-session-storage-and-cookies-in-javascript-37i1)
-- [Dev.to/JS] [Unleashing the Power of Methods: Enhance Your JavaScript Object Skills!](https://dev.to/ikamran01/unleashing-the-power-of-methods-enhance-your-javascript-object-skills-mb2)
 - [Lifehacker] [Why You Should Use a VPN When Booking a Hotel](https://lifehacker.com/why-you-should-use-a-vpn-when-booking-a-hotel-1850722600)
 - [Lifehacker] [All the New Threads Features You Should Know About](https://lifehacker.com/all-the-new-threads-features-you-should-know-about-1850722073)
 - [Lifehacker] [The Best Ways to Teach Yourself to Code](https://lifehacker.com/top-10-ways-to-teach-yourself-to-code-1684250889)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Refurbished iPad Air Is $150 Right Now](https://lifehacker.com/this-refurbished-ipad-air-is-150-right-now-1850705010)
 - [Lifehacker] [You Should Turn Off Your YouTube Watch History](https://lifehacker.com/you-should-turn-off-your-youtube-watch-history-1850720994)
 - [Lifehacker] [How to Go to Sleep Like Royalty](https://lifehacker.com/how-to-go-to-sleep-like-fucking-royalty-1848593982)
-- [Lifehacker] [Why You Should Start Planning Next Year’s Summer Travel Right Now](https://lifehacker.com/why-you-should-start-planning-next-year-s-summer-travel-1850721019)
-- [Lifehacker] [Track Your Work With the Kanban Method](https://lifehacker.com/track-your-work-with-the-kanban-method-1850721028)
-- [Lifehacker] [What You Should Do When an Employer Ghosts You](https://lifehacker.com/what-you-should-do-when-an-employer-ghosts-you-1850720900)
-- [Lifehacker] [You Can Get These Two Ninja Drones for $150 Right Now](https://lifehacker.com/you-can-get-these-two-ninja-drones-for-150-right-now-1850705303)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Should Start Planning Next Year’s Summer Travel Right Now](https://lifehacker.com/why-you-should-start-planning-next-year-s-summer-travel-1850721019)<!-- TECH-POSTS:END -->
 
 ---
 
