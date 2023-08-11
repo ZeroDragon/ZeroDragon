@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Explorando os Princípios Fundamentais e Tecnologias Vitais do Desenvolvimento Web](https://dev.to/queli/explorando-os-principios-fundamentais-e-tecnologias-vitais-do-desenvolvimento-web-5b14)
+- [Dev.to/JS] [Enhancing Visual Stability - Understanding Cumulative Layout Shift &lpar;CLS&rpar;](https://dev.to/fritzlolpro/enhancing-visual-stability-understanding-cumulative-layout-shift-cls-53mj)
+- [Dev.to/JS] [Adonis LUCID ORM](https://dev.to/jerubaalking/adonis-lucid-orm-4484)
+- [Lifehacker] [Don&#39;t Dismiss Your Kid&#39;s Clumsiness](https://lifehacker.com/dont-dismiss-your-kids-clumsiness-1850728871)
+- [Lifehacker] [This Might Be the Quickest Way to Roast Peppers](https://lifehacker.com/this-might-be-the-quickest-way-to-roast-peppers-1850728483)
 - [Dev.to/JS] [Stop using JavaScript for everything!](https://dev.to/sadeedpv/stop-using-javascript-for-everything-370p)
 - [Dev.to/JS] [ES5 vs ES6 in JavaScript. 14 big😱 changes⚠️](https://dev.to/diwakarkashyap/es5-vs-es6-in-javascript-14-big-changes-ple)
 - [Lifehacker] [Five Cheaper Ways to Add Square Footage to Your House](https://lifehacker.com/cheap-ways-to-add-square-footage-to-your-house-1850728905)
@@ -38,11 +43,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular MEAN STACK Project Live | Angular Live | SoftwareTechIT Live Project](https://dev.to/softwaretechit/angular-mean-stack-project-live-angular-live-softwaretechit-live-project-202d)
 - [Dev.to/JS] [Mastering JavaScript Variable Declarations: A Comprehensive Guide to let, const, and var Usage.](https://dev.to/meera123/mastering-javascript-variable-declarations-a-comprehensive-guide-to-let-const-and-var-usage-19fb)
 - [Lifehacker] [&#39;Web Roulette!&#39; Is an Addictive Browser for Your iPhone](https://lifehacker.com/web-roulette-is-an-addictive-browser-for-your-iphone-1850728408)
+- [Lifehacker] [Tofu Freaking Rules](https://lifehacker.com/tofu-freaking-rules-1843024412)
 - [Lifehacker] [Use a ‘Date-Me Doc’ to Help You Find a Serious Relationship](https://lifehacker.com/use-a-date-me-doc-to-help-you-find-a-serious-relation-1850727682)
 - [Dev.to/JS] [A comprehensive Guide to Asynchronous JavaScript [With Code Examples]](https://dev.to/catherinekiiru/a-comprehensive-guide-to-asynchronous-javascript-with-code-examples-50l8)
-- [Dev.to/JS] [Hero section with react and tailwindcss &lpar;medium hero copy&rpar;](https://dev.to/ryaddev/hero-section-with-react-and-tailwindcss-medium-hero-copy-hah)
-- [Dev.to/JS] [A Guide to Node.js Notebooks](https://dev.to/raphiki/a-guide-to-nodejs-notebooks-410c)
-- [Dev.to/JS] [Day 24: Feel async](https://dev.to/dhrn/day-24-set-timeout-3jal)
 - [Lifehacker] [Save Yourself From the Next ‘Jalapeño Gate’](https://lifehacker.com/save-yourself-from-the-next-jalapeno-gate-1850726199)
 - [Lifehacker] [Now You Can Add Music to Your Instagram Carousels](https://lifehacker.com/now-you-can-add-music-to-your-instagram-carousels-1850728473)
 - [Lifehacker] [You Should Install These Pull-Down Kitchen Cabinets](https://lifehacker.com/you-should-install-these-pull-down-kitchen-cabinets-1850726449)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)
 - [Lifehacker] [Use Forster’s Commitment Inventory to Prioritize Your Tasks](https://lifehacker.com/use-forster-s-commitment-inventory-to-prioritize-your-t-1850725391)
 - [Lifehacker] [People Ignore These Hidden Design Features Every Day](https://lifehacker.com/people-ignore-these-hidden-design-features-every-day-1850725314)
-- [Lifehacker] [Put Hash Browns Inside Your Breakfast Sandwich](https://lifehacker.com/put-hash-browns-inside-your-breakfast-sandwich-1843731822)
-- [Lifehacker] [This Fancy Air Freshener Is $60 Right Now](https://lifehacker.com/this-fancy-air-freshener-is-60-right-now-1850722329)
-- [Lifehacker] [Add These Sodas to Your Bad Wine](https://lifehacker.com/add-these-sodas-to-your-bad-wine-1850725006)
-- [Lifehacker] [Clean Up Your YouTube Feed With These Chrome Extensions](https://lifehacker.com/clean-up-your-youtube-feed-with-these-chrome-extensions-1850724772)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Put Hash Browns Inside Your Breakfast Sandwich](https://lifehacker.com/put-hash-browns-inside-your-breakfast-sandwich-1843731822)<!-- TECH-POSTS:END -->
 
 ---
 
