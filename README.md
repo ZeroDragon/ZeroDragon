@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Now You Can Add Music to Your Instagram Carousels](https://lifehacker.com/now-you-can-add-music-to-your-instagram-carousels-1850728473)
+- [Lifehacker] [You Should Install These Pull-Down Kitchen Cabinets](https://lifehacker.com/you-should-install-these-pull-down-kitchen-cabinets-1850726449)
+- [Dev.to/JS] [Hot Pink Nails with Diamonds](https://dev.to/nailshapes/hot-pink-nails-with-diamonds-j4j)
 - [Lifehacker] [Use These Smart Tools to Automate Your Plant Care](https://lifehacker.com/use-these-smart-tools-to-automate-your-plant-care-1850727821)
 - [Dev.to/JS] [Contributing to AI Shopping Cart - App Template for Java, Azure OpenAI and Azure Spring Apps](https://dev.to/nashetking/contributing-to-ai-shopping-cart-app-template-for-java-azure-openai-and-azure-spring-apps-51mi)
 - [Dev.to/JS] [A Guide to Field Groups and Dynamic Customization in Sanity.io](https://dev.to/wiommi/a-guide-to-field-groups-and-dynamic-customization-in-sanityio-192b)
@@ -33,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Lil Tay?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-li-1850726868)
 - [Dev.to/JS] [6 Essential React Libraries You Should Know](https://dev.to/bilal1718/6-essential-react-libraries-you-should-know-3ccm)
 - [Dev.to/JS] [Use Square Bracket Notation for headache-free coding](https://dev.to/yangerrai/use-square-bracket-notation-for-headache-free-coding-19do)
-- [Dev.to/JS] [Best eye clinic in Noida](https://dev.to/visionplus233/best-eye-clinic-in-noida-3jnm)
 - [Dev.to/JS] [Web-based Machine Learning Training](https://dev.to/waynechoidev/web-based-machine-learning-training-4c3p)
 - [Dev.to/JS] [All You Need to Know About JavaScript Object-Oriented Programming &lpar;OOP&rpar;](https://dev.to/devshefali/all-you-need-to-know-about-javascript-object-oriented-programming-oop-1nke)
 - [Dev.to/JS] [What is React batching state?](https://dev.to/duccadhv1/what-is-react-batching-state-1i1m)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Refurbished iPad Mini Bundle Is $200 Right Now](https://lifehacker.com/this-refurbished-ipad-mini-bundle-is-200-right-now-1850705398)
 - [Lifehacker] [You Should Bake Your Macaroni and Cheese in a Sheet Pan](https://lifehacker.com/you-should-bake-your-macaroni-and-cheese-in-a-sheet-pan-1850722991)
 - [Lifehacker] [You Can Finally Share Your Screen On WhatsApp Video Calls](https://lifehacker.com/you-can-finally-share-your-screen-on-whatsapp-video-cal-1850723959)
-- [Lifehacker] [Use a UPS to Keep Your Internet Running in a Brownout](https://lifehacker.com/use-a-ups-to-keep-your-internet-running-in-a-brownout-1850723868)
-- [Lifehacker] [Your iPhone Can Clone Your Voice](https://lifehacker.com/your-iphone-can-clone-your-voice-1850722400)
-- [Lifehacker] [What People Are Getting Wrong This Week: The Barbie Protest Hoax](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-barbie-pro-1850723245)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use a UPS to Keep Your Internet Running in a Brownout](https://lifehacker.com/use-a-ups-to-keep-your-internet-running-in-a-brownout-1850723868)<!-- TECH-POSTS:END -->
 
 ---
 
