@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use These Smart Tools to Automate Your Plant Care](https://lifehacker.com/use-these-smart-tools-to-automate-your-plant-care-1850727821)
+- [Dev.to/JS] [Contributing to AI Shopping Cart - App Template for Java, Azure OpenAI and Azure Spring Apps](https://dev.to/nashetking/contributing-to-ai-shopping-cart-app-template-for-java-azure-openai-and-azure-spring-apps-51mi)
+- [Dev.to/JS] [A Guide to Field Groups and Dynamic Customization in Sanity.io](https://dev.to/wiommi/a-guide-to-field-groups-and-dynamic-customization-in-sanityio-192b)
+- [Lifehacker] [The Best and Worst Ways to Explain a Career Break](https://lifehacker.com/the-best-and-worst-ways-to-explain-a-career-break-1850727691)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Lil Tay?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-li-1850726868)
 - [Dev.to/JS] [6 Essential React Libraries You Should Know](https://dev.to/bilal1718/6-essential-react-libraries-you-should-know-3ccm)
 - [Dev.to/JS] [Use Square Bracket Notation for headache-free coding](https://dev.to/yangerrai/use-square-bracket-notation-for-headache-free-coding-19do)
 - [Dev.to/JS] [Best eye clinic in Noida](https://dev.to/visionplus233/best-eye-clinic-in-noida-3jnm)
@@ -36,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimizing Memory Usage in JavaScript](https://dev.to/mursalfk/optimizing-memory-usage-in-javascript-3oho)
 - [Dev.to/JS] [Using performance.now&lpar;&rpar; instead of Date.now&lpar;&rpar; to prevent timestamp collisions](https://dev.to/jeky1950/using-performancenow-instead-of-datenow-to-prevent-timestamp-collisions-2819)
 - [Dev.to/JS] [Understanding the Type coercion and Type conversion](https://dev.to/jhard/understanding-the-type-coercion-and-type-conversion-5h)
-- [Dev.to/JS] [Django Bootcamp: Zero to Mastery](https://dev.to/ishratumar/django-bootcamp-zero-to-mastery-4c0m)
-- [Dev.to/JS] [Learned SvelteKit with Pokemons](https://dev.to/zaxwebs/learned-sveltekit-with-pokemons-515)
 - [Lifehacker] [You Can Build a Cheap, Custom Copper Pot Rack](https://lifehacker.com/you-can-build-a-cheap-custom-copper-pot-rack-1850726695)
 - [Lifehacker] [The Best Products to Make Desk Work More Comfortable](https://lifehacker.com/the-best-products-to-make-desk-work-more-comfortable-1850726025)
 - [Lifehacker] [Treat Yourself to a Cheater&#39;s Tiramisu](https://lifehacker.com/treat-yourself-to-a-cheaters-tiramisu-1850726779)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Share Your Screen On WhatsApp Video Calls](https://lifehacker.com/you-can-finally-share-your-screen-on-whatsapp-video-cal-1850723959)
 - [Lifehacker] [Use a UPS to Keep Your Internet Running in a Brownout](https://lifehacker.com/use-a-ups-to-keep-your-internet-running-in-a-brownout-1850723868)
 - [Lifehacker] [Your iPhone Can Clone Your Voice](https://lifehacker.com/your-iphone-can-clone-your-voice-1850722400)
-- [Lifehacker] [What People Are Getting Wrong This Week: The Barbie Protest Hoax](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-barbie-pro-1850723245)
-- [Lifehacker] [Make Brazilian Limeade With That Last Bit of Condensed Milk](https://lifehacker.com/make-brazilian-limeade-with-that-last-bit-of-condensed-1850722301)
-- [Lifehacker] [Why You Should Use a VPN When Booking a Hotel](https://lifehacker.com/why-you-should-use-a-vpn-when-booking-a-hotel-1850722600)
-- [Lifehacker] [All the New Threads Features You Should Know About](https://lifehacker.com/all-the-new-threads-features-you-should-know-about-1850722073)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What People Are Getting Wrong This Week: The Barbie Protest Hoax](https://lifehacker.com/what-people-are-getting-wrong-this-week-the-barbie-pro-1850723245)<!-- TECH-POSTS:END -->
 
 ---
 
