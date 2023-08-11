@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use These Phrases When Negotiating Your Salary](https://lifehacker.com/use-these-phrases-when-negotiating-your-salary-1850728857)
+- [Dev.to/JS] [HMAC &amp; Message Authentication Codes - Why hashing alone is NOT ENOUGH for Data Integrity 😼](https://dev.to/jaypmedia/hmac-message-authentication-codes-why-hashing-alone-is-not-enough-for-data-integrity-36ad)
+- [Dev.to/JS] [React Custom Hook: useDarkMode](https://dev.to/sergeyleschev/react-custom-hook-usedarkmode-38k8)
+- [Lifehacker] [Cram Your Summer Veggies Into a Waffle](https://lifehacker.com/cram-your-summer-veggies-into-a-waffle-1850729035)
+- [Dev.to/JS] [.then&lpar;&lpar;playDominion&rpar;=&gt;](https://dev.to/varlotte/thenplaydominion-4cj)
 - [Dev.to/JS] [Returning Responses from Asynchronous Calls: A Multilingual Guide](https://dev.to/iamcymentho/returning-responses-from-asynchronous-calls-a-multilingual-guide-44hb)
 - [Lifehacker] [These HD Digital Camera Binoculars Are $120 Right Now](https://lifehacker.com/these-hd-digital-camera-binoculars-are-120-right-now-1850729352)
 - [Lifehacker] [ChatGPT’s ‘Custom Instructions’ Are Free for Everyone Now](https://lifehacker.com/chatgpt-s-custom-instructions-are-free-for-everyone-n-1850730171)
@@ -42,12 +47,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Android Now Knows When an AirTag Is Tracking You](https://lifehacker.com/your-android-now-knows-when-an-airtag-is-tracking-you-1850729228)
 - [Dev.to/JS] [Explorando os Princípios Fundamentais e Tecnologias Vitais do Desenvolvimento Web](https://dev.to/queli/explorando-os-principios-fundamentais-e-tecnologias-vitais-do-desenvolvimento-web-5b14)
 - [Dev.to/JS] [Enhancing Visual Stability - Understanding Cumulative Layout Shift &lpar;CLS&rpar;](https://dev.to/fritzlolpro/enhancing-visual-stability-understanding-cumulative-layout-shift-cls-53mj)
-- [Dev.to/JS] [Adonis LUCID ORM](https://dev.to/jerubaalking/adonis-lucid-orm-4484)
 - [Lifehacker] [Don&#39;t Dismiss Your Kid&#39;s Clumsiness](https://lifehacker.com/dont-dismiss-your-kids-clumsiness-1850728871)
 - [Lifehacker] [You&#39;re Going to Get Caught Skiplagging, and It’s Not Going to Be Pretty](https://lifehacker.com/youre-going-to-get-caught-skiplagging-and-it-s-not-goi-1849041104)
 - [Lifehacker] [This Might Be the Quickest Way to Roast Peppers](https://lifehacker.com/this-might-be-the-quickest-way-to-roast-peppers-1850728483)
-- [Dev.to/JS] [Stop using JavaScript for everything!](https://dev.to/sadeedpv/stop-using-javascript-for-everything-370p)
-- [Dev.to/JS] [ES5 vs ES6 in JavaScript. 14 big😱 changes⚠️](https://dev.to/diwakarkashyap/es5-vs-es6-in-javascript-14-big-changes-ple)
 - [Lifehacker] [Five Cheaper Ways to Add Square Footage to Your House](https://lifehacker.com/cheap-ways-to-add-square-footage-to-your-house-1850728905)
 - [Lifehacker] [You Can Stop Your Neighbor&#39;s Dog From Barking Incessantly](https://lifehacker.com/how-to-get-your-neighbor-s-dog-to-stop-barking-incessan-1792297205)
 - [Lifehacker] [This 2018 iPad Bundle Is $200 Right Now](https://lifehacker.com/this-2018-ipad-bundle-is-200-right-now-1850722369)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Build a Cheap, Custom Copper Pot Rack](https://lifehacker.com/you-can-build-a-cheap-custom-copper-pot-rack-1850726695)
 - [Lifehacker] [The Best Products to Make Desk Work More Comfortable](https://lifehacker.com/the-best-products-to-make-desk-work-more-comfortable-1850726025)
 - [Lifehacker] [Treat Yourself to a Cheater&#39;s Tiramisu](https://lifehacker.com/treat-yourself-to-a-cheaters-tiramisu-1850726779)
-- [Lifehacker] [You Can Get Formula 1 US Grand Prix Tickets for 45% Off](https://lifehacker.com/you-can-get-formula-1-us-grand-prix-tickets-for-45-off-1850726250)
-- [Lifehacker] [You Can Groom Your Dog Without Traumatizing Them](https://lifehacker.com/how-to-groom-your-dog-at-home-without-traumatizing-them-1847867963)
-- [Lifehacker] [Don’t Trust Newegg’s New AI-Generated Review Summaries](https://lifehacker.com/don-t-trust-newegg-s-new-ai-generated-review-summaries-1850725887)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Formula 1 US Grand Prix Tickets for 45% Off](https://lifehacker.com/you-can-get-formula-1-us-grand-prix-tickets-for-45-off-1850726250)<!-- TECH-POSTS:END -->
 
 ---
 
