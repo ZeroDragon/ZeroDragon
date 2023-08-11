@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Get More Done With the ‘3-3-3 Method’](https://lifehacker.com/get-more-done-with-the-3-3-3-method-1850729849)
+- [Dev.to/JS] [Exploring Asynchronous Operations in Angular: Promises vs. Observables](https://dev.to/avwerosuoghene/exploring-asynchronous-operations-in-angular-promises-vs-observables-4idp)
+- [Lifehacker] [You Can Get Rosetta Stone and StackSkills for $160 Through This Weekend](https://lifehacker.com/you-can-get-rosetta-stone-and-stackskills-for-160-thro-1850722424)
+- [Dev.to/JS] [Creating Hero Section in React with Styled Components](https://dev.to/ryaddev/creating-hero-section-in-react-with-styled-components-3ipo)
 - [Dev.to/JS] [reverse only the alphabetical ones](https://dev.to/chandrapenugonda/reverse-only-the-alphabetical-ones-24al)
 - [Lifehacker] [How to Not Get Pickpocketed](https://lifehacker.com/how-to-not-get-pickpocketed-1850729435)
 - [Dev.to/JS] [fizzbuzz](https://dev.to/chandrapenugonda/fizzbuzz-3kgk)
@@ -43,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Cheaper Ways to Add Square Footage to Your House](https://lifehacker.com/cheap-ways-to-add-square-footage-to-your-house-1850728905)
 - [Dev.to/JS] [Can you just combine region and language to make a locale?](https://dev.to/dgreene1/can-you-just-combine-region-and-language-to-make-a-locale-1ph6)
 - [Lifehacker] [You Can Stop Your Neighbor&#39;s Dog From Barking Incessantly](https://lifehacker.com/how-to-get-your-neighbor-s-dog-to-stop-barking-incessan-1792297205)
-- [Dev.to/JS] [7 vs code extension for web developers](https://dev.to/nabwinsaud/7-vs-code-extension-for-web-developers-51hn)
-- [Dev.to/JS] [Creating Type-Safe Forms in Angular: Advanced Tip 🤯](https://dev.to/indianboybr/creating-type-safe-forms-in-angular-advanced-tip-3b5l)
 - [Lifehacker] [This 2018 iPad Bundle Is $200 Right Now](https://lifehacker.com/this-2018-ipad-bundle-is-200-right-now-1850722369)
 - [Lifehacker] [&#39;Web Roulette!&#39; Is an Addictive Browser for Your iPhone](https://lifehacker.com/web-roulette-is-an-addictive-browser-for-your-iphone-1850728408)
 - [Lifehacker] [Tofu Freaking Rules](https://lifehacker.com/tofu-freaking-rules-1843024412)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Trust Newegg’s New AI-Generated Review Summaries](https://lifehacker.com/don-t-trust-newegg-s-new-ai-generated-review-summaries-1850725887)
 - [Lifehacker] [Why Your Dryer Is Making Weird Noises and What to Do About It](https://lifehacker.com/why-your-dryer-is-making-weird-noises-and-what-to-do-ab-1850722827)
 - [Lifehacker] [How to Pick an Inside Door Lock](https://lifehacker.com/how-to-open-a-locked-interior-door-when-youve-lost-the-5464402)
-- [Lifehacker] [This Fancy Electric Composter Is 30% Off Right Now](https://lifehacker.com/this-fancy-electric-composter-is-30-off-right-now-1850722269)
-- [Lifehacker] [Disney+ and Hulu Are About to Raise Prices, but You Can Avoid It](https://lifehacker.com/disney-and-hulu-are-about-to-raise-prices-but-you-can-1850725687)
-- [Lifehacker] [How to Apply for a Redress Number &lpar;and How to Know If You Need One&rpar;](https://lifehacker.com/how-to-apply-for-a-redress-number-and-how-to-know-if-y-1849494124)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Fancy Electric Composter Is 30% Off Right Now](https://lifehacker.com/this-fancy-electric-composter-is-30-off-right-now-1850722269)<!-- TECH-POSTS:END -->
 
 ---
 
