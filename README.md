@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Books to Help You Build a Great Career](https://lifehacker.com/the-best-books-to-help-you-build-a-great-career-1850730311)
+- [Dev.to/JS] [🍅🚀 Unleash Your Productivity Potential with Pomodoro Timer aesthetic! The Ultimate Hack for Efficient Time Management!](https://dev.to/matheusmanuel/unleash-your-productivity-potential-with-pomodoro-timer-aesthetic-the-ultimate-hack-for-efficient-time-management-5j7)
+- [Dev.to/JS] [The Pomodoro Technique: The Effective Approach to Maximizing Productivity 🍅](https://dev.to/matheusmanuel/the-pomodoro-technique-the-effective-approach-to-maximizing-productivity-5glc)
+- [Dev.to/JS] [🍅Boost Your Study Game with the Ultimate Pomodoro Technique Timer! Unleash the Power of Focus and Productivity!](https://dev.to/matheusmanuel/boost-your-study-game-with-the-ultimate-pomodoro-technique-timer-unleash-the-power-of-focus-and-productivity-4l78)
+- [Dev.to/JS] [🍅 Unveiling the Ultimate Productivity Hack: The Pomodoro Method — How It Works! 🚀](https://dev.to/matheusmanuel/unveiling-the-ultimate-productivity-hack-the-pomodoro-method-how-it-works-456m)
+- [Lifehacker] [These Plugin Pest Control Traps Actually Work](https://lifehacker.com/these-plugin-pest-control-traps-actually-work-1850730363)
+- [Dev.to/JS] [🕒 Master the Pomodoro Method at Work: Boost Your Productivity Like Never Before! 💼🚀 pomodoro method at work.](https://dev.to/matheusmanuel/master-the-pomodoro-method-at-work-boost-your-productivity-like-never-before-pomodoro-method-at-work-11n0)
 - [Lifehacker] [Use These Phrases When Negotiating Your Salary](https://lifehacker.com/use-these-phrases-when-negotiating-your-salary-1850728857)
 - [Dev.to/JS] [HMAC &amp; Message Authentication Codes - Why hashing alone is NOT ENOUGH for Data Integrity 😼](https://dev.to/jaypmedia/hmac-message-authentication-codes-why-hashing-alone-is-not-enough-for-data-integrity-36ad)
 - [Dev.to/JS] [React Custom Hook: useDarkMode](https://dev.to/sergeyleschev/react-custom-hook-usedarkmode-38k8)
@@ -41,12 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating Hero Section in React with Styled Components](https://dev.to/ryaddev/creating-hero-section-in-react-with-styled-components-3ipo)
 - [Dev.to/JS] [reverse only the alphabetical ones](https://dev.to/chandrapenugonda/reverse-only-the-alphabetical-ones-24al)
 - [Lifehacker] [How to Not Get Pickpocketed](https://lifehacker.com/how-to-not-get-pickpocketed-1850729435)
-- [Dev.to/JS] [fizzbuzz](https://dev.to/chandrapenugonda/fizzbuzz-3kgk)
-- [Dev.to/JS] [Exploring the Powerful Duo of NodeJS and PostgreSQL! - Connecting the two together!](https://dev.to/saifalyy/exploring-the-powerful-duo-of-nodejs-and-postgresql-45gj)
-- [Dev.to/JS] [Array intersection](https://dev.to/chandrapenugonda/array-intersection-3il0)
 - [Lifehacker] [Your Android Now Knows When an AirTag Is Tracking You](https://lifehacker.com/your-android-now-knows-when-an-airtag-is-tracking-you-1850729228)
-- [Dev.to/JS] [Explorando os Princípios Fundamentais e Tecnologias Vitais do Desenvolvimento Web](https://dev.to/queli/explorando-os-principios-fundamentais-e-tecnologias-vitais-do-desenvolvimento-web-5b14)
-- [Dev.to/JS] [Enhancing Visual Stability - Understanding Cumulative Layout Shift &lpar;CLS&rpar;](https://dev.to/fritzlolpro/enhancing-visual-stability-understanding-cumulative-layout-shift-cls-53mj)
 - [Lifehacker] [Don&#39;t Dismiss Your Kid&#39;s Clumsiness](https://lifehacker.com/dont-dismiss-your-kids-clumsiness-1850728871)
 - [Lifehacker] [You&#39;re Going to Get Caught Skiplagging, and It’s Not Going to Be Pretty](https://lifehacker.com/youre-going-to-get-caught-skiplagging-and-it-s-not-goi-1849041104)
 - [Lifehacker] [This Might Be the Quickest Way to Roast Peppers](https://lifehacker.com/this-might-be-the-quickest-way-to-roast-peppers-1850728483)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best and Worst Ways to Explain a Career Break](https://lifehacker.com/the-best-and-worst-ways-to-explain-a-career-break-1850727691)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Lil Tay?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-li-1850726868)
 - [Lifehacker] [You Can Build a Cheap, Custom Copper Pot Rack](https://lifehacker.com/you-can-build-a-cheap-custom-copper-pot-rack-1850726695)
-- [Lifehacker] [The Best Products to Make Desk Work More Comfortable](https://lifehacker.com/the-best-products-to-make-desk-work-more-comfortable-1850726025)
-- [Lifehacker] [Treat Yourself to a Cheater&#39;s Tiramisu](https://lifehacker.com/treat-yourself-to-a-cheaters-tiramisu-1850726779)
-- [Lifehacker] [You Can Get Formula 1 US Grand Prix Tickets for 45% Off](https://lifehacker.com/you-can-get-formula-1-us-grand-prix-tickets-for-45-off-1850726250)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Products to Make Desk Work More Comfortable](https://lifehacker.com/the-best-products-to-make-desk-work-more-comfortable-1850726025)<!-- TECH-POSTS:END -->
 
 ---
 
