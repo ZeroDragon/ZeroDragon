@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use a ‘Date-Me Doc’ to Help You Find a Serious Relationship](https://lifehacker.com/use-a-date-me-doc-to-help-you-find-a-serious-relation-1850727682)
+- [Dev.to/JS] [Hero section with react and tailwindcss &lpar;medium hero copy&rpar;](https://dev.to/ryaddev/hero-section-with-react-and-tailwindcss-medium-hero-copy-hah)
+- [Dev.to/JS] [A Guide to Node.js Notebooks](https://dev.to/raphiki/a-guide-to-nodejs-notebooks-410c)
+- [Dev.to/JS] [Day 24: Feel async](https://dev.to/dhrn/day-24-set-timeout-3jal)
+- [Lifehacker] [Save Yourself From the Next ‘Jalapeño Gate’](https://lifehacker.com/save-yourself-from-the-next-jalapeno-gate-1850726199)
 - [Lifehacker] [Now You Can Add Music to Your Instagram Carousels](https://lifehacker.com/now-you-can-add-music-to-your-instagram-carousels-1850728473)
 - [Lifehacker] [You Should Install These Pull-Down Kitchen Cabinets](https://lifehacker.com/you-should-install-these-pull-down-kitchen-cabinets-1850726449)
 - [Dev.to/JS] [Hot Pink Nails with Diamonds](https://dev.to/nailshapes/hot-pink-nails-with-diamonds-j4j)
@@ -40,9 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [All You Need to Know About JavaScript Object-Oriented Programming &lpar;OOP&rpar;](https://dev.to/devshefali/all-you-need-to-know-about-javascript-object-oriented-programming-oop-1nke)
 - [Dev.to/JS] [What is React batching state?](https://dev.to/duccadhv1/what-is-react-batching-state-1i1m)
 - [Dev.to/JS] [Making a full body background &quot;slideshow&quot; for your web page](https://dev.to/debadeepsen/making-a-full-body-background-slideshow-for-your-web-page-5bf4)
-- [Dev.to/JS] [Optimizing Memory Usage in JavaScript](https://dev.to/mursalfk/optimizing-memory-usage-in-javascript-3oho)
-- [Dev.to/JS] [Using performance.now&lpar;&rpar; instead of Date.now&lpar;&rpar; to prevent timestamp collisions](https://dev.to/jeky1950/using-performancenow-instead-of-datenow-to-prevent-timestamp-collisions-2819)
-- [Dev.to/JS] [Understanding the Type coercion and Type conversion](https://dev.to/jhard/understanding-the-type-coercion-and-type-conversion-5h)
 - [Lifehacker] [You Can Build a Cheap, Custom Copper Pot Rack](https://lifehacker.com/you-can-build-a-cheap-custom-copper-pot-rack-1850726695)
 - [Lifehacker] [The Best Products to Make Desk Work More Comfortable](https://lifehacker.com/the-best-products-to-make-desk-work-more-comfortable-1850726025)
 - [Lifehacker] [Treat Yourself to a Cheater&#39;s Tiramisu](https://lifehacker.com/treat-yourself-to-a-cheaters-tiramisu-1850726779)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Device Helps You Play Video Games With Almost Any Controller You Want](https://lifehacker.com/this-device-helps-you-play-video-games-with-almost-any-1850724541)
 - [Lifehacker] [12 Comedy Podcasts As Smart as SmartLess](https://lifehacker.com/best-funny-conversation-podcasts-like-smartless-1850722663)
 - [Lifehacker] [This Refurbished iPad Mini Bundle Is $200 Right Now](https://lifehacker.com/this-refurbished-ipad-mini-bundle-is-200-right-now-1850705398)
-- [Lifehacker] [You Should Bake Your Macaroni and Cheese in a Sheet Pan](https://lifehacker.com/you-should-bake-your-macaroni-and-cheese-in-a-sheet-pan-1850722991)
-- [Lifehacker] [You Can Finally Share Your Screen On WhatsApp Video Calls](https://lifehacker.com/you-can-finally-share-your-screen-on-whatsapp-video-cal-1850723959)
-- [Lifehacker] [Use a UPS to Keep Your Internet Running in a Brownout](https://lifehacker.com/use-a-ups-to-keep-your-internet-running-in-a-brownout-1850723868)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Bake Your Macaroni and Cheese in a Sheet Pan](https://lifehacker.com/you-should-bake-your-macaroni-and-cheese-in-a-sheet-pan-1850722991)<!-- TECH-POSTS:END -->
 
 ---
 
