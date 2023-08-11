@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Test](https://dev.to/khoangooo/test-4adc)
+- [Dev.to/JS] [🎉 Exciting Developments in the World of Programming Languages and Compilers! 🚀](https://dev.to/abhishekdelmundo/exciting-developments-in-the-world-of-programming-languages-and-compilers-41di)
+- [Dev.to/JS] [Setting JavaScript framework standards &lpar; what’s wrong with the React-set standard and why everyone should be like Svelte&rpar;](https://dev.to/n3rd/setting-javascript-framework-standards-whats-wrong-with-the-react-set-standard-and-why-everyone-should-be-like-svelte-4eha)
 - [Dev.to/JS] [Startup Starter Kit](https://dev.to/aaronblondeau/startup-starter-kit-1n5f)
 - [Dev.to/JS] [Efficient Data Fetching in React Native: Exploring APIs and GraphQL 📊🔍](https://dev.to/medaimane/efficient-data-fetching-in-react-native-exploring-apis-and-graphql-1088)
 - [Dev.to/JS] [Criação de plugin para Google Chrome - Uma introdução](https://dev.to/edumaxsantos/criacao-de-plugin-para-google-chrome-uma-introducao-1jad)
@@ -38,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Treat Yourself to a Cheater&#39;s Tiramisu](https://lifehacker.com/treat-yourself-to-a-cheaters-tiramisu-1850726779)
 - [Dev.to/JS] [Using a Proxy for smart destructuring](https://dev.to/efpage/using-a-proxy-for-smart-destructuring-1f4l)
 - [Dev.to/JS] [A11y: Mejora de la accesibilidad de las aplicaciones con ESLint](https://dev.to/anaarezo/a11y-mejora-de-la-accesibilidad-de-las-aplicaciones-con-eslint-3pjp)
-- [Dev.to/JS] [Event Loop Explained](https://dev.to/martinmusss/event-loop-explained-1ban)
-- [Dev.to/JS] [A11y: Improving app accessibility with ESLint](https://dev.to/anaarezo/a11y-improving-app-accessibility-with-eslint-16n6)
 - [Lifehacker] [You Can Get Formula 1 US Grand Prix Tickets for 45% Off](https://lifehacker.com/you-can-get-formula-1-us-grand-prix-tickets-for-45-off-1850726250)
-- [Dev.to/JS] [A11y: Melhorando a acessibilidade de aplicativos com ESLint](https://dev.to/anaarezo/a11y-melhorando-a-acessibilidade-de-aplicativos-com-eslint-1l7a)
 - [Lifehacker] [You Can Groom Your Dog Without Traumatizing Them](https://lifehacker.com/how-to-groom-your-dog-at-home-without-traumatizing-them-1847867963)
 - [Lifehacker] [Don’t Trust Newegg’s New AI-Generated Review Summaries](https://lifehacker.com/don-t-trust-newegg-s-new-ai-generated-review-summaries-1850725887)
 - [Lifehacker] [Why Your Dryer Is Making Weird Noises and What to Do About It](https://lifehacker.com/why-your-dryer-is-making-weird-noises-and-what-to-do-ab-1850722827)
