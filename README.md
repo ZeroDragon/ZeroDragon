@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [State Management with RxJS and React](https://dev.to/brainiacneit/state-management-with-rxjs-and-react-1dj6)
 - [Dev.to/JS] [Test](https://dev.to/khoangooo/test-4adc)
 - [Dev.to/JS] [🎉 Exciting Developments in the World of Programming Languages and Compilers! 🚀](https://dev.to/abhishekdelmundo/exciting-developments-in-the-world-of-programming-languages-and-compilers-41di)
 - [Dev.to/JS] [Setting JavaScript framework standards &lpar; what’s wrong with the React-set standard and why everyone should be like Svelte&rpar;](https://dev.to/n3rd/setting-javascript-framework-standards-whats-wrong-with-the-react-set-standard-and-why-everyone-should-be-like-svelte-4eha)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Custom Hook: useCopyToClipboard](https://dev.to/sergeyleschev/react-custom-hook-usecopytoclipboard-48p6)
 - [Lifehacker] [Treat Yourself to a Cheater&#39;s Tiramisu](https://lifehacker.com/treat-yourself-to-a-cheaters-tiramisu-1850726779)
 - [Dev.to/JS] [Using a Proxy for smart destructuring](https://dev.to/efpage/using-a-proxy-for-smart-destructuring-1f4l)
-- [Dev.to/JS] [A11y: Mejora de la accesibilidad de las aplicaciones con ESLint](https://dev.to/anaarezo/a11y-mejora-de-la-accesibilidad-de-las-aplicaciones-con-eslint-3pjp)
 - [Lifehacker] [You Can Get Formula 1 US Grand Prix Tickets for 45% Off](https://lifehacker.com/you-can-get-formula-1-us-grand-prix-tickets-for-45-off-1850726250)
 - [Lifehacker] [You Can Groom Your Dog Without Traumatizing Them](https://lifehacker.com/how-to-groom-your-dog-at-home-without-traumatizing-them-1847867963)
 - [Lifehacker] [Don’t Trust Newegg’s New AI-Generated Review Summaries](https://lifehacker.com/don-t-trust-newegg-s-new-ai-generated-review-summaries-1850725887)
