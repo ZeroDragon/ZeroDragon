@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using performance.now&lpar;&rpar; instead of Date.now&lpar;&rpar; to prevent timestamp collisions](https://dev.to/jeky1950/using-performancenow-instead-of-datenow-to-prevent-timestamp-collisions-2819)
 - [Dev.to/JS] [Understanding the Type coercion and Type conversion](https://dev.to/jhard/understanding-the-type-coercion-and-type-conversion-5h)
 - [Dev.to/JS] [Django Bootcamp: Zero to Mastery](https://dev.to/ishratumar/django-bootcamp-zero-to-mastery-4c0m)
 - [Dev.to/JS] [Learned SvelteKit with Pokemons](https://dev.to/zaxwebs/learned-sveltekit-with-pokemons-515)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Image To Text &lpar;OCR&rpar;](https://dev.to/codeboxx/javascript-image-to-text-ocr-1il7)
 - [Dev.to/JS] [First Reactjs Project](https://dev.to/linnovel/first-reactjs-project-4bdk)
 - [Dev.to/JS] [Variable Declaration in JavaScript: A Comprehensive Guide](https://dev.to/femincan/variable-declaration-in-javascript-a-comprehensive-guide-2884)
-- [Dev.to/JS] [Cheatsheet for frontend interviews](https://dev.to/callmehongmaybe/cheatsheet-for-frontend-interviews-1n7b)
 - [Lifehacker] [You Can Build a Cheap, Custom Copper Pot Rack](https://lifehacker.com/you-can-build-a-cheap-custom-copper-pot-rack-1850726695)
 - [Lifehacker] [The Best Products to Make Desk Work More Comfortable](https://lifehacker.com/the-best-products-to-make-desk-work-more-comfortable-1850726025)
 - [Lifehacker] [Treat Yourself to a Cheater&#39;s Tiramisu](https://lifehacker.com/treat-yourself-to-a-cheaters-tiramisu-1850726779)
