@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This 2018 iPad Bundle Is $200 Right Now](https://lifehacker.com/this-2018-ipad-bundle-is-200-right-now-1850722369)
+- [Dev.to/JS] [Ng-News 23/31: SSR Vulnerability, Q&amp;A Session, RFC ended](https://dev.to/this-is-angular/ng-news-2331-ssr-vulnerability-qa-session-rfc-ended-on9)
+- [Dev.to/JS] [Angular MEAN STACK Project Live | Angular Live | SoftwareTechIT Live Project](https://dev.to/softwaretechit/angular-mean-stack-project-live-angular-live-softwaretechit-live-project-202d)
+- [Dev.to/JS] [Mastering JavaScript Variable Declarations: A Comprehensive Guide to let, const, and var Usage.](https://dev.to/meera123/mastering-javascript-variable-declarations-a-comprehensive-guide-to-let-const-and-var-usage-19fb)
+- [Lifehacker] [&#39;Web Roulette!&#39; Is an Addictive Browser for Your iPhone](https://lifehacker.com/web-roulette-is-an-addictive-browser-for-your-iphone-1850728408)
 - [Lifehacker] [Use a ‘Date-Me Doc’ to Help You Find a Serious Relationship](https://lifehacker.com/use-a-date-me-doc-to-help-you-find-a-serious-relation-1850727682)
+- [Dev.to/JS] [A comprehensive Guide to Asynchronous JavaScript [With Code Examples]](https://dev.to/catherinekiiru/a-comprehensive-guide-to-asynchronous-javascript-with-code-examples-50l8)
 - [Dev.to/JS] [Hero section with react and tailwindcss &lpar;medium hero copy&rpar;](https://dev.to/ryaddev/hero-section-with-react-and-tailwindcss-medium-hero-copy-hah)
 - [Dev.to/JS] [A Guide to Node.js Notebooks](https://dev.to/raphiki/a-guide-to-nodejs-notebooks-410c)
 - [Dev.to/JS] [Day 24: Feel async](https://dev.to/dhrn/day-24-set-timeout-3jal)
@@ -41,10 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Lil Tay?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-li-1850726868)
 - [Dev.to/JS] [6 Essential React Libraries You Should Know](https://dev.to/bilal1718/6-essential-react-libraries-you-should-know-3ccm)
 - [Dev.to/JS] [Use Square Bracket Notation for headache-free coding](https://dev.to/yangerrai/use-square-bracket-notation-for-headache-free-coding-19do)
-- [Dev.to/JS] [Web-based Machine Learning Training](https://dev.to/waynechoidev/web-based-machine-learning-training-4c3p)
-- [Dev.to/JS] [All You Need to Know About JavaScript Object-Oriented Programming &lpar;OOP&rpar;](https://dev.to/devshefali/all-you-need-to-know-about-javascript-object-oriented-programming-oop-1nke)
-- [Dev.to/JS] [What is React batching state?](https://dev.to/duccadhv1/what-is-react-batching-state-1i1m)
-- [Dev.to/JS] [Making a full body background &quot;slideshow&quot; for your web page](https://dev.to/debadeepsen/making-a-full-body-background-slideshow-for-your-web-page-5bf4)
 - [Lifehacker] [You Can Build a Cheap, Custom Copper Pot Rack](https://lifehacker.com/you-can-build-a-cheap-custom-copper-pot-rack-1850726695)
 - [Lifehacker] [The Best Products to Make Desk Work More Comfortable](https://lifehacker.com/the-best-products-to-make-desk-work-more-comfortable-1850726025)
 - [Lifehacker] [Treat Yourself to a Cheater&#39;s Tiramisu](https://lifehacker.com/treat-yourself-to-a-cheaters-tiramisu-1850726779)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Add These Sodas to Your Bad Wine](https://lifehacker.com/add-these-sodas-to-your-bad-wine-1850725006)
 - [Lifehacker] [Clean Up Your YouTube Feed With These Chrome Extensions](https://lifehacker.com/clean-up-your-youtube-feed-with-these-chrome-extensions-1850724772)
 - [Lifehacker] [This Device Helps You Play Video Games With Almost Any Controller You Want](https://lifehacker.com/this-device-helps-you-play-video-games-with-almost-any-1850724541)
-- [Lifehacker] [12 Comedy Podcasts As Smart as SmartLess](https://lifehacker.com/best-funny-conversation-podcasts-like-smartless-1850722663)
-- [Lifehacker] [This Refurbished iPad Mini Bundle Is $200 Right Now](https://lifehacker.com/this-refurbished-ipad-mini-bundle-is-200-right-now-1850705398)
-- [Lifehacker] [You Should Bake Your Macaroni and Cheese in a Sheet Pan](https://lifehacker.com/you-should-bake-your-macaroni-and-cheese-in-a-sheet-pan-1850722991)<!-- TECH-POSTS:END -->
+- [Lifehacker] [12 Comedy Podcasts As Smart as SmartLess](https://lifehacker.com/best-funny-conversation-podcasts-like-smartless-1850722663)<!-- TECH-POSTS:END -->
 
 ---
 
