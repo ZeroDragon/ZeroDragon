@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [First Reactjs Project](https://dev.to/linnovel/first-reactjs-project-4bdk)
+- [Dev.to/JS] [Variable Declaration in JavaScript: A Comprehensive Guide](https://dev.to/femincan/variable-declaration-in-javascript-a-comprehensive-guide-2884)
 - [Dev.to/JS] [Cheatsheet for frontend interviews](https://dev.to/callmehongmaybe/cheatsheet-for-frontend-interviews-1n7b)
 - [Dev.to/JS] [State Management with RxJS and React](https://dev.to/brainiacneit/state-management-with-rxjs-and-react-1dj6)
 - [Dev.to/JS] [Test](https://dev.to/khoangooo/test-4adc)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Build a Cheap, Custom Copper Pot Rack](https://lifehacker.com/you-can-build-a-cheap-custom-copper-pot-rack-1850726695)
 - [Dev.to/JS] [Animating with React Native: Bringing Your App to Life 🎉🚀](https://dev.to/medaimane/animating-with-react-native-bringing-your-app-to-life-2ea8)
 - [Dev.to/JS] [What parts of JavaScript are tricky for beginners?](https://dev.to/lukeecart/what-parts-of-javascript-are-tricky-for-beginners-51f1)
-- [Dev.to/JS] [Mastering JavaScript Fundamentals: Unleashing Your Framework Readiness](https://dev.to/michaellarocca/mastering-javascript-fundamentals-unleashing-your-framework-readiness-26md)
 - [Lifehacker] [The Best Products to Make Desk Work More Comfortable](https://lifehacker.com/the-best-products-to-make-desk-work-more-comfortable-1850726025)
-- [Dev.to/JS] [React Custom Hook: useCopyToClipboard](https://dev.to/sergeyleschev/react-custom-hook-usecopytoclipboard-48p6)
 - [Lifehacker] [Treat Yourself to a Cheater&#39;s Tiramisu](https://lifehacker.com/treat-yourself-to-a-cheaters-tiramisu-1850726779)
 - [Lifehacker] [You Can Get Formula 1 US Grand Prix Tickets for 45% Off](https://lifehacker.com/you-can-get-formula-1-us-grand-prix-tickets-for-45-off-1850726250)
 - [Lifehacker] [You Can Groom Your Dog Without Traumatizing Them](https://lifehacker.com/how-to-groom-your-dog-at-home-without-traumatizing-them-1847867963)
