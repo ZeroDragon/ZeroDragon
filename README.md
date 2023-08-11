@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [First Commit: Introducing to Commuity!](https://dev.to/jpcodeplus/first-commit-introducing-to-commuity-18kf)
+- [Dev.to/JS] [Demystifying JavaScript Promises: A Newbie&#39;s Guide](https://dev.to/rohitnimangre/demystifying-javascript-promises-a-newbies-guide-ol0)
+- [Dev.to/JS] [Free Online Resume Builder with NextJS](https://dev.to/tuantvk/free-online-resume-builder-with-nextjs-2nof)
+- [Dev.to/JS] [遠端 Remoted 前端](https://dev.to/purrgis/yuan-duan-remoted-qian-duan-4f5i)
 - [Dev.to/JS] [Javascript Image To Text &lpar;OCR&rpar;](https://dev.to/codeboxx/javascript-image-to-text-ocr-1il7)
 - [Dev.to/JS] [First Reactjs Project](https://dev.to/linnovel/first-reactjs-project-4bdk)
 - [Dev.to/JS] [Variable Declaration in JavaScript: A Comprehensive Guide](https://dev.to/femincan/variable-declaration-in-javascript-a-comprehensive-guide-2884)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Test](https://dev.to/khoangooo/test-4adc)
 - [Dev.to/JS] [🎉 Exciting Developments in the World of Programming Languages and Compilers! 🚀](https://dev.to/abhishekdelmundo/exciting-developments-in-the-world-of-programming-languages-and-compilers-41di)
 - [Dev.to/JS] [Setting JavaScript framework standards &lpar; what’s wrong with the React-set standard and why everyone should be like Svelte&rpar;](https://dev.to/n3rd/setting-javascript-framework-standards-whats-wrong-with-the-react-set-standard-and-why-everyone-should-be-like-svelte-4eha)
-- [Dev.to/JS] [Startup Starter Kit](https://dev.to/aaronblondeau/startup-starter-kit-1n5f)
-- [Dev.to/JS] [Efficient Data Fetching in React Native: Exploring APIs and GraphQL 📊🔍](https://dev.to/medaimane/efficient-data-fetching-in-react-native-exploring-apis-and-graphql-1088)
-- [Dev.to/JS] [Criação de plugin para Google Chrome - Uma introdução](https://dev.to/edumaxsantos/criacao-de-plugin-para-google-chrome-uma-introducao-1jad)
 - [Lifehacker] [You Can Build a Cheap, Custom Copper Pot Rack](https://lifehacker.com/you-can-build-a-cheap-custom-copper-pot-rack-1850726695)
-- [Dev.to/JS] [Animating with React Native: Bringing Your App to Life 🎉🚀](https://dev.to/medaimane/animating-with-react-native-bringing-your-app-to-life-2ea8)
 - [Lifehacker] [The Best Products to Make Desk Work More Comfortable](https://lifehacker.com/the-best-products-to-make-desk-work-more-comfortable-1850726025)
 - [Lifehacker] [Treat Yourself to a Cheater&#39;s Tiramisu](https://lifehacker.com/treat-yourself-to-a-cheaters-tiramisu-1850726779)
 - [Lifehacker] [You Can Get Formula 1 US Grand Prix Tickets for 45% Off](https://lifehacker.com/you-can-get-formula-1-us-grand-prix-tickets-for-45-off-1850726250)
