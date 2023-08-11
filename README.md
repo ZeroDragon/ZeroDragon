@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Stop using JavaScript for everything!](https://dev.to/sadeedpv/stop-using-javascript-for-everything-370p)
+- [Dev.to/JS] [ES5 vs ES6 in JavaScript. 14 big😱 changes⚠️](https://dev.to/diwakarkashyap/es5-vs-es6-in-javascript-14-big-changes-ple)
+- [Lifehacker] [Five Cheaper Ways to Add Square Footage to Your House](https://lifehacker.com/cheap-ways-to-add-square-footage-to-your-house-1850728905)
+- [Dev.to/JS] [Can you just combine region and language to make a locale?](https://dev.to/dgreene1/can-you-just-combine-region-and-language-to-make-a-locale-1ph6)
+- [Lifehacker] [You Can Stop Your Neighbor&#39;s Dog From Barking Incessantly](https://lifehacker.com/how-to-get-your-neighbor-s-dog-to-stop-barking-incessan-1792297205)
+- [Dev.to/JS] [7 vs code extension for web developers](https://dev.to/nabwinsaud/7-vs-code-extension-for-web-developers-51hn)
+- [Dev.to/JS] [Creating Type-Safe Forms in Angular: Advanced Tip 🤯](https://dev.to/indianboybr/creating-type-safe-forms-in-angular-advanced-tip-3b5l)
 - [Lifehacker] [This 2018 iPad Bundle Is $200 Right Now](https://lifehacker.com/this-2018-ipad-bundle-is-200-right-now-1850722369)
 - [Dev.to/JS] [Ng-News 23/31: SSR Vulnerability, Q&amp;A Session, RFC ended](https://dev.to/this-is-angular/ng-news-2331-ssr-vulnerability-qa-session-rfc-ended-on9)
 - [Dev.to/JS] [Angular MEAN STACK Project Live | Angular Live | SoftwareTechIT Live Project](https://dev.to/softwaretechit/angular-mean-stack-project-live-angular-live-softwaretechit-live-project-202d)
@@ -39,14 +46,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Save Yourself From the Next ‘Jalapeño Gate’](https://lifehacker.com/save-yourself-from-the-next-jalapeno-gate-1850726199)
 - [Lifehacker] [Now You Can Add Music to Your Instagram Carousels](https://lifehacker.com/now-you-can-add-music-to-your-instagram-carousels-1850728473)
 - [Lifehacker] [You Should Install These Pull-Down Kitchen Cabinets](https://lifehacker.com/you-should-install-these-pull-down-kitchen-cabinets-1850726449)
-- [Dev.to/JS] [Hot Pink Nails with Diamonds](https://dev.to/nailshapes/hot-pink-nails-with-diamonds-j4j)
 - [Lifehacker] [Use These Smart Tools to Automate Your Plant Care](https://lifehacker.com/use-these-smart-tools-to-automate-your-plant-care-1850727821)
-- [Dev.to/JS] [Contributing to AI Shopping Cart - App Template for Java, Azure OpenAI and Azure Spring Apps](https://dev.to/nashetking/contributing-to-ai-shopping-cart-app-template-for-java-azure-openai-and-azure-spring-apps-51mi)
-- [Dev.to/JS] [A Guide to Field Groups and Dynamic Customization in Sanity.io](https://dev.to/wiommi/a-guide-to-field-groups-and-dynamic-customization-in-sanityio-192b)
 - [Lifehacker] [The Best and Worst Ways to Explain a Career Break](https://lifehacker.com/the-best-and-worst-ways-to-explain-a-career-break-1850727691)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Lil Tay?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-li-1850726868)
-- [Dev.to/JS] [6 Essential React Libraries You Should Know](https://dev.to/bilal1718/6-essential-react-libraries-you-should-know-3ccm)
-- [Dev.to/JS] [Use Square Bracket Notation for headache-free coding](https://dev.to/yangerrai/use-square-bracket-notation-for-headache-free-coding-19do)
 - [Lifehacker] [You Can Build a Cheap, Custom Copper Pot Rack](https://lifehacker.com/you-can-build-a-cheap-custom-copper-pot-rack-1850726695)
 - [Lifehacker] [The Best Products to Make Desk Work More Comfortable](https://lifehacker.com/the-best-products-to-make-desk-work-more-comfortable-1850726025)
 - [Lifehacker] [Treat Yourself to a Cheater&#39;s Tiramisu](https://lifehacker.com/treat-yourself-to-a-cheaters-tiramisu-1850726779)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Put Hash Browns Inside Your Breakfast Sandwich](https://lifehacker.com/put-hash-browns-inside-your-breakfast-sandwich-1843731822)
 - [Lifehacker] [This Fancy Air Freshener Is $60 Right Now](https://lifehacker.com/this-fancy-air-freshener-is-60-right-now-1850722329)
 - [Lifehacker] [Add These Sodas to Your Bad Wine](https://lifehacker.com/add-these-sodas-to-your-bad-wine-1850725006)
-- [Lifehacker] [Clean Up Your YouTube Feed With These Chrome Extensions](https://lifehacker.com/clean-up-your-youtube-feed-with-these-chrome-extensions-1850724772)
-- [Lifehacker] [This Device Helps You Play Video Games With Almost Any Controller You Want](https://lifehacker.com/this-device-helps-you-play-video-games-with-almost-any-1850724541)
-- [Lifehacker] [12 Comedy Podcasts As Smart as SmartLess](https://lifehacker.com/best-funny-conversation-podcasts-like-smartless-1850722663)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Clean Up Your YouTube Feed With These Chrome Extensions](https://lifehacker.com/clean-up-your-youtube-feed-with-these-chrome-extensions-1850724772)<!-- TECH-POSTS:END -->
 
 ---
 
