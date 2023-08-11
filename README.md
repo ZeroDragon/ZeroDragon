@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Returning Responses from Asynchronous Calls: A Multilingual Guide](https://dev.to/iamcymentho/returning-responses-from-asynchronous-calls-a-multilingual-guide-44hb)
+- [Lifehacker] [These HD Digital Camera Binoculars Are $120 Right Now](https://lifehacker.com/these-hd-digital-camera-binoculars-are-120-right-now-1850729352)
+- [Lifehacker] [ChatGPT’s ‘Custom Instructions’ Are Free for Everyone Now](https://lifehacker.com/chatgpt-s-custom-instructions-are-free-for-everyone-n-1850730171)
 - [Lifehacker] [Get More Done With the ‘3-3-3 Method’](https://lifehacker.com/get-more-done-with-the-3-3-3-method-1850729849)
+- [Lifehacker] [Prepare Your Dog for an Extended Separation](https://lifehacker.com/how-to-prepare-your-dog-for-an-extended-separation-1848601512)
 - [Dev.to/JS] [Exploring Asynchronous Operations in Angular: Promises vs. Observables](https://dev.to/avwerosuoghene/exploring-asynchronous-operations-in-angular-promises-vs-observables-4idp)
 - [Lifehacker] [You Can Get Rosetta Stone and StackSkills for $160 Through This Weekend](https://lifehacker.com/you-can-get-rosetta-stone-and-stackskills-for-160-thro-1850722424)
 - [Dev.to/JS] [Creating Hero Section in React with Styled Components](https://dev.to/ryaddev/creating-hero-section-in-react-with-styled-components-3ipo)
@@ -45,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Stop using JavaScript for everything!](https://dev.to/sadeedpv/stop-using-javascript-for-everything-370p)
 - [Dev.to/JS] [ES5 vs ES6 in JavaScript. 14 big😱 changes⚠️](https://dev.to/diwakarkashyap/es5-vs-es6-in-javascript-14-big-changes-ple)
 - [Lifehacker] [Five Cheaper Ways to Add Square Footage to Your House](https://lifehacker.com/cheap-ways-to-add-square-footage-to-your-house-1850728905)
-- [Dev.to/JS] [Can you just combine region and language to make a locale?](https://dev.to/dgreene1/can-you-just-combine-region-and-language-to-make-a-locale-1ph6)
 - [Lifehacker] [You Can Stop Your Neighbor&#39;s Dog From Barking Incessantly](https://lifehacker.com/how-to-get-your-neighbor-s-dog-to-stop-barking-incessan-1792297205)
 - [Lifehacker] [This 2018 iPad Bundle Is $200 Right Now](https://lifehacker.com/this-2018-ipad-bundle-is-200-right-now-1850722369)
 - [Lifehacker] [&#39;Web Roulette!&#39; Is an Addictive Browser for Your iPhone](https://lifehacker.com/web-roulette-is-an-addictive-browser-for-your-iphone-1850728408)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Treat Yourself to a Cheater&#39;s Tiramisu](https://lifehacker.com/treat-yourself-to-a-cheaters-tiramisu-1850726779)
 - [Lifehacker] [You Can Get Formula 1 US Grand Prix Tickets for 45% Off](https://lifehacker.com/you-can-get-formula-1-us-grand-prix-tickets-for-45-off-1850726250)
 - [Lifehacker] [You Can Groom Your Dog Without Traumatizing Them](https://lifehacker.com/how-to-groom-your-dog-at-home-without-traumatizing-them-1847867963)
-- [Lifehacker] [Don’t Trust Newegg’s New AI-Generated Review Summaries](https://lifehacker.com/don-t-trust-newegg-s-new-ai-generated-review-summaries-1850725887)
-- [Lifehacker] [Why Your Dryer Is Making Weird Noises and What to Do About It](https://lifehacker.com/why-your-dryer-is-making-weird-noises-and-what-to-do-ab-1850722827)
-- [Lifehacker] [How to Pick an Inside Door Lock](https://lifehacker.com/how-to-open-a-locked-interior-door-when-youve-lost-the-5464402)
-- [Lifehacker] [This Fancy Electric Composter Is 30% Off Right Now](https://lifehacker.com/this-fancy-electric-composter-is-30-off-right-now-1850722269)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don’t Trust Newegg’s New AI-Generated Review Summaries](https://lifehacker.com/don-t-trust-newegg-s-new-ai-generated-review-summaries-1850725887)<!-- TECH-POSTS:END -->
 
 ---
 
