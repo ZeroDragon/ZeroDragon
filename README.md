@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Working with JavaScript Local Storage](https://dev.to/theonlyabdull/working-with-javascript-local-storage-49d9)
+- [Dev.to/JS] [How to Load Assets in Reactjs on Mac](https://dev.to/papakowdadson/how-to-load-assets-in-reactjs-on-mac-5g48)
+- [Dev.to/JS] [Best practices when working with React Native](https://dev.to/devteles/best-practices-when-working-with-react-native-omn)
 - [Dev.to/JS] [React Custom Hook: useDebounce](https://dev.to/sergeyleschev/react-custom-hook-usedebounce-p03)
 - [Dev.to/JS] [Mastering Synchronous and Asynchronous in JS](https://dev.to/noobizdeveloper/mastering-synchronous-and-asynchronous-in-js--427p)
 - [Dev.to/JS] [Exploring the Power of React Hooks in Modern Web Development](https://dev.to/nechey/exploring-the-power-of-react-hooks-in-modern-web-development-5g3b)
@@ -37,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [That Baking Soda in Your Fridge Probably Isn&#39;t Doing Much](https://lifehacker.com/that-baking-soda-in-your-fridge-probably-isnt-doing-muc-1850727949)
 - [Dev.to/JS] [How to add .env in your typescript projects.](https://dev.to/nuzulfikrie/how-to-add-env-in-your-typescript-projects-5h2c)
 - [Dev.to/JS] [The Magic of Closures in JavaScript for Beginners](https://dev.to/pavloreutskiy/the-magic-of-closures-in-javascript-for-beginners-3opp)
-- [Dev.to/JS] [Jest testing for React Crash Course ⚛️🚀](https://dev.to/obednuertey1/jest-testing-for-react-crash-course-906)
-- [Dev.to/JS] [# Learning JavaScript: A Beginner&#39;s Guide](https://dev.to/noorulhassan/-learning-javascript-a-beginners-guide-1a2g)
 - [Lifehacker] [Ask Yourself These Questions When Dealing With Uncertain Situations](https://lifehacker.com/ask-yourself-these-questions-when-dealing-with-uncertai-1850728813)
-- [Dev.to/JS] [Job apply script for hirist and instahyre platform](https://dev.to/shacodes/job-apply-script-for-hirist-and-instahyre-platform-m05)
 - [Lifehacker] [Coasting in Neutral Doesn&#39;t Actually Save Gas](https://lifehacker.com/coasting-in-neutral-doesnt-actually-save-gas-1850727931)
 - [Lifehacker] [The Best Books to Help You Build a Great Career](https://lifehacker.com/the-best-books-to-help-you-build-a-great-career-1850730311)
 - [Lifehacker] [These Plugin Pest Control Traps Actually Work](https://lifehacker.com/these-plugin-pest-control-traps-actually-work-1850730363)
