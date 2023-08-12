@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fluxactive Complete - Benefits, Results, Price, Complaints &amp; Warnings?](https://dev.to/fluxactive38196/fluxactive-complete-benefits-results-price-complaints-warnings-71l)
+- [Dev.to/JS] [&lpar;Pesonal&rpar; Logo/Image size issue for html2pdf.js on Safari browser](https://dev.to/andiper/pesonal-logoimage-size-issue-for-html2pdfjs-on-safari-browser-35ik)
+- [Dev.to/JS] [A Step By Step Guide On How To Code A Word And Character Counter App in Javascript](https://dev.to/paulineoraro/a-step-by-step-guide-on-how-to-code-a-word-and-character-counter-app-in-javascript-439j)
 - [Dev.to/JS] [repeatedly add all of its digits until the result has only one digit](https://dev.to/chandrapenugonda/repeatedly-add-all-of-its-digits-until-the-result-has-only-one-digit-4pac)
 - [Dev.to/JS] [Single Lonely Number](https://dev.to/chandrapenugonda/single-lonely-number-5eo4)
 - [Dev.to/JS] [7 Open-Source Libraries SAVE NOW!](https://dev.to/aiforme/7-open-source-libraries-save-now-1kme)
@@ -37,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Utilizing React&#39;s Context API with Hooks and TypeScript: Effortless State Handling](https://dev.to/imevanc/utilizing-reacts-context-api-with-hooks-and-typescript-effortless-state-handling-49m0)
 - [Lifehacker] [Coasting in Neutral Doesn&#39;t Actually Save Gas](https://lifehacker.com/coasting-in-neutral-doesnt-actually-save-gas-1850727931)
 - [Lifehacker] [The Best Books to Help You Build a Great Career](https://lifehacker.com/the-best-books-to-help-you-build-a-great-career-1850730311)
-- [Dev.to/JS] [🍅🚀 Unleash Your Productivity Potential with Pomodoro Timer aesthetic! The Ultimate Hack for Efficient Time Management!](https://dev.to/matheusmanuel/unleash-your-productivity-potential-with-pomodoro-timer-aesthetic-the-ultimate-hack-for-efficient-time-management-5j7)
-- [Dev.to/JS] [The Pomodoro Technique: The Effective Approach to Maximizing Productivity 🍅](https://dev.to/matheusmanuel/the-pomodoro-technique-the-effective-approach-to-maximizing-productivity-5glc)
-- [Dev.to/JS] [🍅Boost Your Study Game with the Ultimate Pomodoro Technique Timer! Unleash the Power of Focus and Productivity!](https://dev.to/matheusmanuel/boost-your-study-game-with-the-ultimate-pomodoro-technique-timer-unleash-the-power-of-focus-and-productivity-4l78)
 - [Lifehacker] [These Plugin Pest Control Traps Actually Work](https://lifehacker.com/these-plugin-pest-control-traps-actually-work-1850730363)
 - [Lifehacker] [Use These Phrases When Negotiating Your Salary](https://lifehacker.com/use-these-phrases-when-negotiating-your-salary-1850728857)
 - [Lifehacker] [Cram Your Summer Veggies Into a Waffle](https://lifehacker.com/cram-your-summer-veggies-into-a-waffle-1850729035)
