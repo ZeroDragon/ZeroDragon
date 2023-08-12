@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simplify Infinite Loading with React Query](https://dev.to/brainiacneit/simplify-infinite-loading-with-react-query-48oj)
+- [Dev.to/JS] [Detect a substring in a string](https://dev.to/chandrapenugonda/detect-a-substring-in-a-string-11j0)
+- [Dev.to/JS] [The Art of Debugging: Mastering JavaScript Troubleshooting](https://dev.to/urstrulyvishwak/the-art-of-debugging-mastering-javascript-troubleshooting-coo)
 - [Dev.to/JS] [Fluxactive Complete - Benefits, Results, Price, Complaints &amp; Warnings?](https://dev.to/fluxactive38196/fluxactive-complete-benefits-results-price-complaints-warnings-71l)
 - [Dev.to/JS] [&lpar;Pesonal&rpar; Logo/Image size issue for html2pdf.js on Safari browser](https://dev.to/andiper/pesonal-logoimage-size-issue-for-html2pdfjs-on-safari-browser-35ik)
 - [Dev.to/JS] [A Step By Step Guide On How To Code A Word And Character Counter App in Javascript](https://dev.to/paulineoraro/a-step-by-step-guide-on-how-to-code-a-word-and-character-counter-app-in-javascript-439j)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Latest Newsletter - Browser Runs All the Things &lpar;Issue #127&rpar;](https://dev.to/mjgs/latest-newsletter-browser-runs-all-the-things-issue-127-2pdk)
 - [Dev.to/JS] [Websites to practice &amp; upskill your Web Development skills](https://dev.to/rahilisvahora/websites-to-practice-upskill-your-web-development-skills-ol3)
 - [Dev.to/JS] [Getting Started with NestJS: A Comprehensive Introduction](https://dev.to/vishnucprasad/getting-started-with-nestjs-a-comprehensive-introduction-37nl)
-- [Dev.to/JS] [Becoming a GitHub Ninja: Unleashing the Power of GitHub REST API](https://dev.to/thevinitgupta/becoming-a-github-ninja-unleashing-the-power-of-github-rest-api-44bl)
-- [Dev.to/JS] [MVM for h5,iOS,Android;Page Object Model, also known as POM](https://dev.to/ablersong/mvm-for-h5iosandroidpage-object-model-also-known-as-pom-55m1)
-- [Dev.to/JS] [Utilizing React&#39;s Context API with Hooks and TypeScript: Effortless State Handling](https://dev.to/imevanc/utilizing-reacts-context-api-with-hooks-and-typescript-effortless-state-handling-49m0)
 - [Lifehacker] [Coasting in Neutral Doesn&#39;t Actually Save Gas](https://lifehacker.com/coasting-in-neutral-doesnt-actually-save-gas-1850727931)
 - [Lifehacker] [The Best Books to Help You Build a Great Career](https://lifehacker.com/the-best-books-to-help-you-build-a-great-career-1850730311)
 - [Lifehacker] [These Plugin Pest Control Traps Actually Work](https://lifehacker.com/these-plugin-pest-control-traps-actually-work-1850730363)
