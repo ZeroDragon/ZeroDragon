@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Magic of Closures in JavaScript for Beginners](https://dev.to/pavloreutskiy/the-magic-of-closures-in-javascript-for-beginners-3opp)
+- [Dev.to/JS] [Jest testing for React Crash Course ⚛️🚀](https://dev.to/obednuertey1/jest-testing-for-react-crash-course-906)
+- [Dev.to/JS] [# Learning JavaScript: A Beginner&#39;s Guide](https://dev.to/noorulhassan/-learning-javascript-a-beginners-guide-1a2g)
 - [Lifehacker] [Ask Yourself These Questions When Dealing With Uncertain Situations](https://lifehacker.com/ask-yourself-these-questions-when-dealing-with-uncertai-1850728813)
 - [Dev.to/JS] [Job apply script for hirist and instahyre platform](https://dev.to/shacodes/job-apply-script-for-hirist-and-instahyre-platform-m05)
 - [Dev.to/JS] [Built tic tac toe game using javascript](https://dev.to/indrakantm23/built-tic-tac-toe-game-using-javascript-1i45)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React&#39;s Responsive Magic: Harnessing useCheckMobileScreen Hook 🔥](https://dev.to/malikbilal111/reacts-responsive-magic-harnessing-usecheckmobilescreen-hook-5fg0)
 - [Dev.to/JS] [Simple Text-Based Adventure Game in Node.js](https://dev.to/shawn2208/simple-text-based-adventure-game-in-nodejs-490j)
 - [Dev.to/JS] [Understanding and Handling NullPointerException Across Multiple Languages](https://dev.to/iamcymentho/understanding-and-handling-nullpointerexception-across-multiple-languages-a-comprehensive-guide-kek)
-- [Dev.to/JS] [Using Type Aliases Instead Of String literals In Typescript](https://dev.to/dennisjunior247_/using-type-aliases-instead-of-string-literals-in-typescript-49oi)
-- [Dev.to/JS] [Simplify Infinite Loading with React Query](https://dev.to/brainiacneit/simplify-infinite-loading-with-react-query-48oj)
-- [Dev.to/JS] [Detect a substring in a string](https://dev.to/chandrapenugonda/detect-a-substring-in-a-string-11j0)
 - [Lifehacker] [Coasting in Neutral Doesn&#39;t Actually Save Gas](https://lifehacker.com/coasting-in-neutral-doesnt-actually-save-gas-1850727931)
 - [Lifehacker] [The Best Books to Help You Build a Great Career](https://lifehacker.com/the-best-books-to-help-you-build-a-great-career-1850730311)
 - [Lifehacker] [These Plugin Pest Control Traps Actually Work](https://lifehacker.com/these-plugin-pest-control-traps-actually-work-1850730363)
