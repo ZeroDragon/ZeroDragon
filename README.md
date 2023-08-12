@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Ask Yourself These Questions When Dealing With Uncertain Situations](https://lifehacker.com/ask-yourself-these-questions-when-dealing-with-uncertai-1850728813)
+- [Dev.to/JS] [Job apply script for hirist and instahyre platform](https://dev.to/shacodes/job-apply-script-for-hirist-and-instahyre-platform-m05)
+- [Dev.to/JS] [Built tic tac toe game using javascript](https://dev.to/indrakantm23/built-tic-tac-toe-game-using-javascript-1i45)
 - [Dev.to/JS] [Amazing Developer T-shirt](https://dev.to/ahmed_onour/amazing-developer-t-shirt-1h5j)
 - [Dev.to/JS] [🚀 Building an Invoice PDF system with React.js , Redux and Node.js](https://dev.to/idurar/building-an-invoice-pdf-system-with-reactjs-redux-and-nodejs-5g1a)
 - [Dev.to/JS] [First Post](https://dev.to/noala/first-post-4cca)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Type Aliases Instead Of String literals In Typescript](https://dev.to/dennisjunior247_/using-type-aliases-instead-of-string-literals-in-typescript-49oi)
 - [Dev.to/JS] [Simplify Infinite Loading with React Query](https://dev.to/brainiacneit/simplify-infinite-loading-with-react-query-48oj)
 - [Dev.to/JS] [Detect a substring in a string](https://dev.to/chandrapenugonda/detect-a-substring-in-a-string-11j0)
-- [Dev.to/JS] [The Art of Debugging: Mastering JavaScript Troubleshooting](https://dev.to/urstrulyvishwak/the-art-of-debugging-mastering-javascript-troubleshooting-coo)
-- [Dev.to/JS] [Fluxactive Complete - Benefits, Results, Price, Complaints &amp; Warnings?](https://dev.to/fluxactive38196/fluxactive-complete-benefits-results-price-complaints-warnings-71l)
 - [Lifehacker] [Coasting in Neutral Doesn&#39;t Actually Save Gas](https://lifehacker.com/coasting-in-neutral-doesnt-actually-save-gas-1850727931)
 - [Lifehacker] [The Best Books to Help You Build a Great Career](https://lifehacker.com/the-best-books-to-help-you-build-a-great-career-1850730311)
 - [Lifehacker] [These Plugin Pest Control Traps Actually Work](https://lifehacker.com/these-plugin-pest-control-traps-actually-work-1850730363)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Install These Pull-Down Kitchen Cabinets](https://lifehacker.com/you-should-install-these-pull-down-kitchen-cabinets-1850726449)
 - [Lifehacker] [Use These Smart Tools to Automate Your Plant Care](https://lifehacker.com/use-these-smart-tools-to-automate-your-plant-care-1850727821)
 - [Lifehacker] [The Best and Worst Ways to Explain a Career Break](https://lifehacker.com/the-best-and-worst-ways-to-explain-a-career-break-1850727691)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Lil Tay?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-li-1850726868)
-- [Lifehacker] [You Can Build a Cheap, Custom Copper Pot Rack](https://lifehacker.com/you-can-build-a-cheap-custom-copper-pot-rack-1850726695)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Lil Tay?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-li-1850726868)<!-- TECH-POSTS:END -->
 
 ---
 
