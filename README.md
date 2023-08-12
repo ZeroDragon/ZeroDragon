@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Latest Newsletter - Browser Runs All the Things &lpar;Issue #127&rpar;](https://dev.to/mjgs/latest-newsletter-browser-runs-all-the-things-issue-127-2pdk)
+- [Dev.to/JS] [Websites to practice &amp; upskill your Web Development skills](https://dev.to/rahilisvahora/websites-to-practice-upskill-your-web-development-skills-ol3)
+- [Dev.to/JS] [Getting Started with NestJS: A Comprehensive Introduction](https://dev.to/vishnucprasad/getting-started-with-nestjs-a-comprehensive-introduction-37nl)
+- [Dev.to/JS] [Becoming a GitHub Ninja: Unleashing the Power of GitHub REST API](https://dev.to/thevinitgupta/becoming-a-github-ninja-unleashing-the-power-of-github-rest-api-44bl)
 - [Dev.to/JS] [MVM for h5,iOS,Android;Page Object Model, also known as POM](https://dev.to/ablersong/mvm-for-h5iosandroidpage-object-model-also-known-as-pom-55m1)
 - [Dev.to/JS] [Utilizing React&#39;s Context API with Hooks and TypeScript: Effortless State Handling](https://dev.to/imevanc/utilizing-reacts-context-api-with-hooks-and-typescript-effortless-state-handling-49m0)
 - [Lifehacker] [Coasting in Neutral Doesn&#39;t Actually Save Gas](https://lifehacker.com/coasting-in-neutral-doesnt-actually-save-gas-1850727931)
@@ -38,15 +42,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🕒 Master the Pomodoro Method at Work: Boost Your Productivity Like Never Before! 💼🚀 pomodoro method at work.](https://dev.to/matheusmanuel/master-the-pomodoro-method-at-work-boost-your-productivity-like-never-before-pomodoro-method-at-work-11n0)
 - [Lifehacker] [Use These Phrases When Negotiating Your Salary](https://lifehacker.com/use-these-phrases-when-negotiating-your-salary-1850728857)
 - [Dev.to/JS] [HMAC &amp; Message Authentication Codes - Why hashing alone is NOT ENOUGH for Data Integrity 😼](https://dev.to/jaypmedia/hmac-message-authentication-codes-why-hashing-alone-is-not-enough-for-data-integrity-36ad)
-- [Dev.to/JS] [React Custom Hook: useDarkMode](https://dev.to/sergeyleschev/react-custom-hook-usedarkmode-38k8)
 - [Lifehacker] [Cram Your Summer Veggies Into a Waffle](https://lifehacker.com/cram-your-summer-veggies-into-a-waffle-1850729035)
-- [Dev.to/JS] [.then&lpar;&lpar;playDominion&rpar;=&gt;](https://dev.to/varlotte/thenplaydominion-4cj)
-- [Dev.to/JS] [Returning Responses from Asynchronous Calls: A Multilingual Guide](https://dev.to/iamcymentho/returning-responses-from-asynchronous-calls-a-multilingual-guide-44hb)
 - [Lifehacker] [These HD Digital Camera Binoculars Are $120 Right Now](https://lifehacker.com/these-hd-digital-camera-binoculars-are-120-right-now-1850729352)
 - [Lifehacker] [ChatGPT’s ‘Custom Instructions’ Are Free for Everyone Now](https://lifehacker.com/chatgpt-s-custom-instructions-are-free-for-everyone-n-1850730171)
 - [Lifehacker] [Get More Done With the ‘3-3-3 Method’](https://lifehacker.com/get-more-done-with-the-3-3-3-method-1850729849)
 - [Lifehacker] [Prepare Your Dog for an Extended Separation](https://lifehacker.com/how-to-prepare-your-dog-for-an-extended-separation-1848601512)
-- [Dev.to/JS] [Exploring Asynchronous Operations in Angular: Promises vs. Observables](https://dev.to/avwerosuoghene/exploring-asynchronous-operations-in-angular-promises-vs-observables-4idp)
 - [Lifehacker] [You Can Get Rosetta Stone and StackSkills for $160 Through This Weekend](https://lifehacker.com/you-can-get-rosetta-stone-and-stackskills-for-160-thro-1850722424)
 - [Lifehacker] [How to Not Get Pickpocketed](https://lifehacker.com/how-to-not-get-pickpocketed-1850729435)
 - [Lifehacker] [Your Android Now Knows When an AirTag Is Tracking You](https://lifehacker.com/your-android-now-knows-when-an-airtag-is-tracking-you-1850729228)
