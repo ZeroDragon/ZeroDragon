@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [repeatedly add all of its digits until the result has only one digit](https://dev.to/chandrapenugonda/repeatedly-add-all-of-its-digits-until-the-result-has-only-one-digit-4pac)
+- [Dev.to/JS] [Single Lonely Number](https://dev.to/chandrapenugonda/single-lonely-number-5eo4)
+- [Dev.to/JS] [7 Open-Source Libraries SAVE NOW!](https://dev.to/aiforme/7-open-source-libraries-save-now-1kme)
 - [Dev.to/JS] [Latest Newsletter - Browser Runs All the Things &lpar;Issue #127&rpar;](https://dev.to/mjgs/latest-newsletter-browser-runs-all-the-things-issue-127-2pdk)
 - [Dev.to/JS] [Websites to practice &amp; upskill your Web Development skills](https://dev.to/rahilisvahora/websites-to-practice-upskill-your-web-development-skills-ol3)
 - [Dev.to/JS] [Getting Started with NestJS: A Comprehensive Introduction](https://dev.to/vishnucprasad/getting-started-with-nestjs-a-comprehensive-introduction-37nl)
@@ -37,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🍅🚀 Unleash Your Productivity Potential with Pomodoro Timer aesthetic! The Ultimate Hack for Efficient Time Management!](https://dev.to/matheusmanuel/unleash-your-productivity-potential-with-pomodoro-timer-aesthetic-the-ultimate-hack-for-efficient-time-management-5j7)
 - [Dev.to/JS] [The Pomodoro Technique: The Effective Approach to Maximizing Productivity 🍅](https://dev.to/matheusmanuel/the-pomodoro-technique-the-effective-approach-to-maximizing-productivity-5glc)
 - [Dev.to/JS] [🍅Boost Your Study Game with the Ultimate Pomodoro Technique Timer! Unleash the Power of Focus and Productivity!](https://dev.to/matheusmanuel/boost-your-study-game-with-the-ultimate-pomodoro-technique-timer-unleash-the-power-of-focus-and-productivity-4l78)
-- [Dev.to/JS] [🍅 Unveiling the Ultimate Productivity Hack: The Pomodoro Method — How It Works! 🚀](https://dev.to/matheusmanuel/unveiling-the-ultimate-productivity-hack-the-pomodoro-method-how-it-works-456m)
 - [Lifehacker] [These Plugin Pest Control Traps Actually Work](https://lifehacker.com/these-plugin-pest-control-traps-actually-work-1850730363)
-- [Dev.to/JS] [🕒 Master the Pomodoro Method at Work: Boost Your Productivity Like Never Before! 💼🚀 pomodoro method at work.](https://dev.to/matheusmanuel/master-the-pomodoro-method-at-work-boost-your-productivity-like-never-before-pomodoro-method-at-work-11n0)
 - [Lifehacker] [Use These Phrases When Negotiating Your Salary](https://lifehacker.com/use-these-phrases-when-negotiating-your-salary-1850728857)
-- [Dev.to/JS] [HMAC &amp; Message Authentication Codes - Why hashing alone is NOT ENOUGH for Data Integrity 😼](https://dev.to/jaypmedia/hmac-message-authentication-codes-why-hashing-alone-is-not-enough-for-data-integrity-36ad)
 - [Lifehacker] [Cram Your Summer Veggies Into a Waffle](https://lifehacker.com/cram-your-summer-veggies-into-a-waffle-1850729035)
 - [Lifehacker] [These HD Digital Camera Binoculars Are $120 Right Now](https://lifehacker.com/these-hd-digital-camera-binoculars-are-120-right-now-1850729352)
 - [Lifehacker] [ChatGPT’s ‘Custom Instructions’ Are Free for Everyone Now](https://lifehacker.com/chatgpt-s-custom-instructions-are-free-for-everyone-n-1850730171)
