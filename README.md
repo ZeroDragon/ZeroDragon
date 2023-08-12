@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Utilizing React&#39;s Context API with Hooks and TypeScript: Effortless State Handling](https://dev.to/imevanc/utilizing-reacts-context-api-with-hooks-and-typescript-effortless-state-handling-49m0)
+- [Lifehacker] [Coasting in Neutral Doesn&#39;t Actually Save Gas](https://lifehacker.com/coasting-in-neutral-doesnt-actually-save-gas-1850727931)
 - [Lifehacker] [The Best Books to Help You Build a Great Career](https://lifehacker.com/the-best-books-to-help-you-build-a-great-career-1850730311)
 - [Dev.to/JS] [🍅🚀 Unleash Your Productivity Potential with Pomodoro Timer aesthetic! The Ultimate Hack for Efficient Time Management!](https://dev.to/matheusmanuel/unleash-your-productivity-potential-with-pomodoro-timer-aesthetic-the-ultimate-hack-for-efficient-time-management-5j7)
 - [Dev.to/JS] [The Pomodoro Technique: The Effective Approach to Maximizing Productivity 🍅](https://dev.to/matheusmanuel/the-pomodoro-technique-the-effective-approach-to-maximizing-productivity-5glc)
@@ -46,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring Asynchronous Operations in Angular: Promises vs. Observables](https://dev.to/avwerosuoghene/exploring-asynchronous-operations-in-angular-promises-vs-observables-4idp)
 - [Lifehacker] [You Can Get Rosetta Stone and StackSkills for $160 Through This Weekend](https://lifehacker.com/you-can-get-rosetta-stone-and-stackskills-for-160-thro-1850722424)
 - [Dev.to/JS] [Creating Hero Section in React with Styled Components](https://dev.to/ryaddev/creating-hero-section-in-react-with-styled-components-3ipo)
-- [Dev.to/JS] [reverse only the alphabetical ones](https://dev.to/chandrapenugonda/reverse-only-the-alphabetical-ones-24al)
 - [Lifehacker] [How to Not Get Pickpocketed](https://lifehacker.com/how-to-not-get-pickpocketed-1850729435)
 - [Lifehacker] [Your Android Now Knows When an AirTag Is Tracking You](https://lifehacker.com/your-android-now-knows-when-an-airtag-is-tracking-you-1850729228)
 - [Lifehacker] [Don&#39;t Dismiss Your Kid&#39;s Clumsiness](https://lifehacker.com/dont-dismiss-your-kids-clumsiness-1850728871)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use These Smart Tools to Automate Your Plant Care](https://lifehacker.com/use-these-smart-tools-to-automate-your-plant-care-1850727821)
 - [Lifehacker] [The Best and Worst Ways to Explain a Career Break](https://lifehacker.com/the-best-and-worst-ways-to-explain-a-career-break-1850727691)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Lil Tay?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-li-1850726868)
-- [Lifehacker] [You Can Build a Cheap, Custom Copper Pot Rack](https://lifehacker.com/you-can-build-a-cheap-custom-copper-pot-rack-1850726695)
-- [Lifehacker] [The Best Products to Make Desk Work More Comfortable](https://lifehacker.com/the-best-products-to-make-desk-work-more-comfortable-1850726025)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Build a Cheap, Custom Copper Pot Rack](https://lifehacker.com/you-can-build-a-cheap-custom-copper-pot-rack-1850726695)<!-- TECH-POSTS:END -->
 
 ---
 
