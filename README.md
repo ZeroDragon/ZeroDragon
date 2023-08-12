@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Custom Hook: useDebounce](https://dev.to/sergeyleschev/react-custom-hook-usedebounce-p03)
+- [Dev.to/JS] [Mastering Synchronous and Asynchronous in JS](https://dev.to/noobizdeveloper/mastering-synchronous-and-asynchronous-in-js--427p)
+- [Dev.to/JS] [Exploring the Power of React Hooks in Modern Web Development](https://dev.to/nechey/exploring-the-power-of-react-hooks-in-modern-web-development-5g3b)
 - [Dev.to/JS] [Pagination in React with implementation](https://dev.to/endeavourmonk/pagination-in-react-with-implementation-21nn)
 - [Dev.to/JS] [10 Tips &amp; Tricks that will make you a better ReactJS Dev](https://dev.to/rahul3002/10-tips-tricks-that-will-make-you-a-better-reactjs-dev-1khe)
 - [Dev.to/JS] [Introduction to Web Development and HTML](https://dev.to/tonieng/introduction-to-web-development-and-html-21a6)
@@ -38,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [# Learning JavaScript: A Beginner&#39;s Guide](https://dev.to/noorulhassan/-learning-javascript-a-beginners-guide-1a2g)
 - [Lifehacker] [Ask Yourself These Questions When Dealing With Uncertain Situations](https://lifehacker.com/ask-yourself-these-questions-when-dealing-with-uncertai-1850728813)
 - [Dev.to/JS] [Job apply script for hirist and instahyre platform](https://dev.to/shacodes/job-apply-script-for-hirist-and-instahyre-platform-m05)
-- [Dev.to/JS] [Built tic tac toe game using javascript](https://dev.to/indrakantm23/built-tic-tac-toe-game-using-javascript-1i45)
-- [Dev.to/JS] [Amazing Developer T-shirt](https://dev.to/ahmed_onour/amazing-developer-t-shirt-1h5j)
-- [Dev.to/JS] [🚀 Building an Invoice PDF system with React.js , Redux and Node.js](https://dev.to/idurar/building-an-invoice-pdf-system-with-reactjs-redux-and-nodejs-5g1a)
 - [Lifehacker] [Coasting in Neutral Doesn&#39;t Actually Save Gas](https://lifehacker.com/coasting-in-neutral-doesnt-actually-save-gas-1850727931)
 - [Lifehacker] [The Best Books to Help You Build a Great Career](https://lifehacker.com/the-best-books-to-help-you-build-a-great-career-1850730311)
 - [Lifehacker] [These Plugin Pest Control Traps Actually Work](https://lifehacker.com/these-plugin-pest-control-traps-actually-work-1850730363)
