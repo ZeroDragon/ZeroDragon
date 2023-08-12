@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to Web Development and HTML](https://dev.to/tonieng/introduction-to-web-development-and-html-21a6)
+- [Dev.to/JS] [52 Frontend Interview Questions - JavaScript](https://dev.to/m_midas/52-frontend-interview-questions-javascript-59h6)
+- [Lifehacker] [The Best Plants to Put in Your Bedroom](https://lifehacker.com/the-best-plants-to-put-in-your-bedroom-1850727943)
 - [Lifehacker] [That Baking Soda in Your Fridge Probably Isn&#39;t Doing Much](https://lifehacker.com/that-baking-soda-in-your-fridge-probably-isnt-doing-muc-1850727949)
 - [Dev.to/JS] [How to add .env in your typescript projects.](https://dev.to/nuzulfikrie/how-to-add-env-in-your-typescript-projects-5h2c)
 - [Dev.to/JS] [The Magic of Closures in JavaScript for Beginners](https://dev.to/pavloreutskiy/the-magic-of-closures-in-javascript-for-beginners-3opp)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀 Building an Invoice PDF system with React.js , Redux and Node.js](https://dev.to/idurar/building-an-invoice-pdf-system-with-reactjs-redux-and-nodejs-5g1a)
 - [Dev.to/JS] [First Post](https://dev.to/noala/first-post-4cca)
 - [Dev.to/JS] [Struktur Folder untuk project NodeJS &amp; ExpressJS](https://dev.to/narwinoks/struktur-folder-untuk-project-nodejs-expressjs-8ld)
-- [Dev.to/JS] [React&#39;s Responsive Magic: Harnessing useCheckMobileScreen Hook 🔥](https://dev.to/malikbilal111/reacts-responsive-magic-harnessing-usecheckmobilescreen-hook-5fg0)
-- [Dev.to/JS] [Simple Text-Based Adventure Game in Node.js](https://dev.to/shawn2208/simple-text-based-adventure-game-in-nodejs-490j)
 - [Lifehacker] [Coasting in Neutral Doesn&#39;t Actually Save Gas](https://lifehacker.com/coasting-in-neutral-doesnt-actually-save-gas-1850727931)
 - [Lifehacker] [The Best Books to Help You Build a Great Career](https://lifehacker.com/the-best-books-to-help-you-build-a-great-career-1850730311)
 - [Lifehacker] [These Plugin Pest Control Traps Actually Work](https://lifehacker.com/these-plugin-pest-control-traps-actually-work-1850730363)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Save Yourself From the Next ‘Jalapeño Gate’](https://lifehacker.com/save-yourself-from-the-next-jalapeno-gate-1850726199)
 - [Lifehacker] [Now You Can Add Music to Your Instagram Carousels](https://lifehacker.com/now-you-can-add-music-to-your-instagram-carousels-1850728473)
 - [Lifehacker] [You Should Install These Pull-Down Kitchen Cabinets](https://lifehacker.com/you-should-install-these-pull-down-kitchen-cabinets-1850726449)
-- [Lifehacker] [Use These Smart Tools to Automate Your Plant Care](https://lifehacker.com/use-these-smart-tools-to-automate-your-plant-care-1850727821)
-- [Lifehacker] [The Best and Worst Ways to Explain a Career Break](https://lifehacker.com/the-best-and-worst-ways-to-explain-a-career-break-1850727691)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use These Smart Tools to Automate Your Plant Care](https://lifehacker.com/use-these-smart-tools-to-automate-your-plant-care-1850727821)<!-- TECH-POSTS:END -->
 
 ---
 
