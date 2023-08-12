@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pagination in React with implementation](https://dev.to/endeavourmonk/pagination-in-react-with-implementation-21nn)
 - [Dev.to/JS] [10 Tips &amp; Tricks that will make you a better ReactJS Dev](https://dev.to/rahul3002/10-tips-tricks-that-will-make-you-a-better-reactjs-dev-1khe)
 - [Dev.to/JS] [Introduction to Web Development and HTML](https://dev.to/tonieng/introduction-to-web-development-and-html-21a6)
 - [Dev.to/JS] [52 Frontend Interview Questions - JavaScript](https://dev.to/m_midas/52-frontend-interview-questions-javascript-59h6)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Built tic tac toe game using javascript](https://dev.to/indrakantm23/built-tic-tac-toe-game-using-javascript-1i45)
 - [Dev.to/JS] [Amazing Developer T-shirt](https://dev.to/ahmed_onour/amazing-developer-t-shirt-1h5j)
 - [Dev.to/JS] [🚀 Building an Invoice PDF system with React.js , Redux and Node.js](https://dev.to/idurar/building-an-invoice-pdf-system-with-reactjs-redux-and-nodejs-5g1a)
-- [Dev.to/JS] [First Post](https://dev.to/noala/first-post-4cca)
 - [Lifehacker] [Coasting in Neutral Doesn&#39;t Actually Save Gas](https://lifehacker.com/coasting-in-neutral-doesnt-actually-save-gas-1850727931)
 - [Lifehacker] [The Best Books to Help You Build a Great Career](https://lifehacker.com/the-best-books-to-help-you-build-a-great-career-1850730311)
 - [Lifehacker] [These Plugin Pest Control Traps Actually Work](https://lifehacker.com/these-plugin-pest-control-traps-actually-work-1850730363)
