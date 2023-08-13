@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Component](https://dev.to/oivlisfriend/react-component-27de)
+- [Dev.to/JS] [Mocha/Chai with TypeScript &lpar;2023 update&rpar;](https://dev.to/matteobruni/mochachai-with-typescript-2023-update-281f)
 - [Dev.to/JS] [How to use ABI in JavaScript&lpar;ether.js&rpar;?](https://dev.to/mundinho340/how-to-use-abi-in-javascriptetherjs-115h)
 - [Dev.to/JS] [How to use ABI in JavaScript&lpar;ether.js&rpar;?](https://dev.to/mundinho340/how-using-abi-in-javascriptetherjs-34f4)
 - [Dev.to/JS] [Working with JavaScript Local Storage](https://dev.to/theonlyabdull/working-with-javascript-local-storage-49d9)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring the Power of React Hooks in Modern Web Development](https://dev.to/nechey/exploring-the-power-of-react-hooks-in-modern-web-development-5g3b)
 - [Dev.to/JS] [Pagination in React with implementation](https://dev.to/endeavourmonk/pagination-in-react-with-implementation-21nn)
 - [Dev.to/JS] [10 Tips &amp; Tricks that will make you a better ReactJS Dev](https://dev.to/rahul3002/10-tips-tricks-that-will-make-you-a-better-reactjs-dev-1khe)
-- [Dev.to/JS] [Introduction to Web Development and HTML](https://dev.to/tonieng/introduction-to-web-development-and-html-21a6)
-- [Dev.to/JS] [52 Frontend Interview Questions - JavaScript](https://dev.to/m_midas/52-frontend-interview-questions-javascript-59h6)
 - [Lifehacker] [The Best Plants to Put in Your Bedroom](https://lifehacker.com/the-best-plants-to-put-in-your-bedroom-1850727943)
 - [Lifehacker] [That Baking Soda in Your Fridge Probably Isn&#39;t Doing Much](https://lifehacker.com/that-baking-soda-in-your-fridge-probably-isnt-doing-muc-1850727949)
 - [Lifehacker] [Ask Yourself These Questions When Dealing With Uncertain Situations](https://lifehacker.com/ask-yourself-these-questions-when-dealing-with-uncertai-1850728813)
