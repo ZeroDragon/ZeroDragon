@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use ABI in JavaScript&lpar;ether.js&rpar;?](https://dev.to/mundinho340/how-to-use-abi-in-javascriptetherjs-115h)
+- [Dev.to/JS] [How to use ABI in JavaScript&lpar;ether.js&rpar;?](https://dev.to/mundinho340/how-using-abi-in-javascriptetherjs-34f4)
 - [Dev.to/JS] [Working with JavaScript Local Storage](https://dev.to/theonlyabdull/working-with-javascript-local-storage-49d9)
 - [Dev.to/JS] [How to Load Assets in Reactjs on Mac](https://dev.to/papakowdadson/how-to-load-assets-in-reactjs-on-mac-5g48)
 - [Dev.to/JS] [Best practices when working with React Native](https://dev.to/devteles/best-practices-when-working-with-react-native-omn)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [52 Frontend Interview Questions - JavaScript](https://dev.to/m_midas/52-frontend-interview-questions-javascript-59h6)
 - [Lifehacker] [The Best Plants to Put in Your Bedroom](https://lifehacker.com/the-best-plants-to-put-in-your-bedroom-1850727943)
 - [Lifehacker] [That Baking Soda in Your Fridge Probably Isn&#39;t Doing Much](https://lifehacker.com/that-baking-soda-in-your-fridge-probably-isnt-doing-muc-1850727949)
-- [Dev.to/JS] [How to add .env in your typescript projects.](https://dev.to/nuzulfikrie/how-to-add-env-in-your-typescript-projects-5h2c)
-- [Dev.to/JS] [The Magic of Closures in JavaScript for Beginners](https://dev.to/pavloreutskiy/the-magic-of-closures-in-javascript-for-beginners-3opp)
 - [Lifehacker] [Ask Yourself These Questions When Dealing With Uncertain Situations](https://lifehacker.com/ask-yourself-these-questions-when-dealing-with-uncertai-1850728813)
 - [Lifehacker] [Coasting in Neutral Doesn&#39;t Actually Save Gas](https://lifehacker.com/coasting-in-neutral-doesnt-actually-save-gas-1850727931)
 - [Lifehacker] [The Best Books to Help You Build a Great Career](https://lifehacker.com/the-best-books-to-help-you-build-a-great-career-1850730311)
