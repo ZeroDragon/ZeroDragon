@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Shouldn&#39;t Use Dish Soap in Your Washing Machine](https://lifehacker.com/why-you-shouldnt-use-dish-soap-in-your-washing-machine-1850727932)
 - [Dev.to/JS] [Modules](https://dev.to/ikechukwu1234/modules-4cpf)
 - [Dev.to/JS] [🚀 Redux Demystified: A Fun, Quick Guide!](https://dev.to/notoriousshubh/redux-demystified-a-fun-quick-guide-3035)
 - [Dev.to/JS] [Remote Work 2.0: The Tools, Trends, and Challenges of the Post-Pandemic Work Era](https://dev.to/thenomadevel/remote-work-20-the-tools-trends-and-challenges-of-the-post-pandemic-work-era-3be1)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Tofu Freaking Rules](https://lifehacker.com/tofu-freaking-rules-1843024412)
 - [Lifehacker] [Use a ‘Date-Me Doc’ to Help You Find a Serious Relationship](https://lifehacker.com/use-a-date-me-doc-to-help-you-find-a-serious-relation-1850727682)
 - [Lifehacker] [Save Yourself From the Next ‘Jalapeño Gate’](https://lifehacker.com/save-yourself-from-the-next-jalapeno-gate-1850726199)
-- [Lifehacker] [Now You Can Add Music to Your Instagram Carousels](https://lifehacker.com/now-you-can-add-music-to-your-instagram-carousels-1850728473)
-- [Lifehacker] [You Should Install These Pull-Down Kitchen Cabinets](https://lifehacker.com/you-should-install-these-pull-down-kitchen-cabinets-1850726449)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Now You Can Add Music to Your Instagram Carousels](https://lifehacker.com/now-you-can-add-music-to-your-instagram-carousels-1850728473)<!-- TECH-POSTS:END -->
 
 ---
 
