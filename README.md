@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn Vue: List and Conditional Rendering.](https://dev.to/kingowisdom/learn-vue-list-and-conditional-rendering-203j)
 - [Dev.to/JS] [No Framework - Eps#1: I am Bored!](https://dev.to/darkterminal/no-framework-eps1-i-am-bored-4ki)
 - [Dev.to/JS] [Building a REST API with Deno and Hono.js: A Step-by-Step Guide](https://dev.to/franciscomendes10866/building-a-rest-api-with-deno-and-honojs-a-step-by-step-guide-48ed)
 - [Dev.to/JS] [HTMLCollection VS NodeList](https://dev.to/shafia/htmlcollection-vs-nodelist-4b4f)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advance Add Tags input with REACT JS](https://dev.to/krushnachandradash654/advance-add-tags-input-with-react-js-9gg)
 - [Lifehacker] [The Most Effective Ways to Flatten an Area Rug](https://lifehacker.com/the-most-effective-ways-to-flatten-an-area-rug-1850728842)
 - [Dev.to/JS] [Codemirror with Vue 2: Addons](https://dev.to/dinkarsharma/codemirror-with-vue-2-addons-4il9)
-- [Dev.to/JS] [Mouldes, Common j&#39;s module and ES module](https://dev.to/ikechukwu1234/mouldes-597f)
 - [Lifehacker] [Why You Shouldn&#39;t Use Dish Soap in Your Washing Machine](https://lifehacker.com/why-you-shouldnt-use-dish-soap-in-your-washing-machine-1850727932)
 - [Lifehacker] [How Winter Weather Will Affect Your Holiday Travel Plans This Year](https://lifehacker.com/how-winter-weather-will-affect-your-holiday-travel-plan-1850727933)
 - [Lifehacker] [The Best Plants to Put in Your Bedroom](https://lifehacker.com/the-best-plants-to-put-in-your-bedroom-1850727943)
