@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlocking Opportunities: My Oasis-Infobyte Internship Journey and Beyond](https://dev.to/itspratyush/unlocking-opportunities-my-oasis-infobyte-internship-journey-and-beyond-3ack)
 - [Dev.to/JS] [React JS Interview Questions - Part 1](https://dev.to/mursalfk/react-js-interview-questions-part-1-2c6a)
 - [Dev.to/JS] [Using Template Laterals In JS](https://dev.to/youssefali715/using-template-laterals-in-js-4n6g)
 - [Dev.to/JS] [JavaScript Intl API: The hidden gem of web internationalization](https://dev.to/krtirtho/javascript-intl-api-the-hidden-gem-of-web-internationalization-2cd7)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to force an update to Components in React](https://dev.to/maheedhar15/how-to-force-an-update-to-components-in-react-1dgp)
 - [Dev.to/JS] [Scopes in JavaScript: A Comprehensive Guide](https://dev.to/jaimaldullat/scopes-in-javascript-a-comprehensive-guide-1j7a)
 - [Dev.to/JS] [React Component](https://dev.to/oivlisfriend/react-component-27de)
-- [Dev.to/JS] [Mocha/Chai with TypeScript &lpar;2023 update&rpar;](https://dev.to/matteobruni/mochachai-with-typescript-2023-update-281f)
 - [Lifehacker] [The Best Plants to Put in Your Bedroom](https://lifehacker.com/the-best-plants-to-put-in-your-bedroom-1850727943)
 - [Lifehacker] [That Baking Soda in Your Fridge Probably Isn&#39;t Doing Much](https://lifehacker.com/that-baking-soda-in-your-fridge-probably-isnt-doing-muc-1850727949)
 - [Lifehacker] [Ask Yourself These Questions When Dealing With Uncertain Situations](https://lifehacker.com/ask-yourself-these-questions-when-dealing-with-uncertai-1850728813)
