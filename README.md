@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding CDNs, DNS, and Edge Functions: A Simple Guide](https://dev.to/ritavdas/reacts-secret-weapon-synthetic-events-33gk)
+- [Dev.to/JS] [Advance Add Tags input with REACT JS](https://dev.to/krushnachandradash654/advance-add-tags-input-with-react-js-9gg)
+- [Lifehacker] [The Most Effective Ways to Flatten an Area Rug](https://lifehacker.com/the-most-effective-ways-to-flatten-an-area-rug-1850728842)
 - [Dev.to/JS] [Codemirror with Vue 2: Addons](https://dev.to/dinkarsharma/codemirror-with-vue-2-addons-4il9)
 - [Dev.to/JS] [Mouldes, Common j&#39;s module and ES module](https://dev.to/ikechukwu1234/mouldes-597f)
 - [Dev.to/JS] [Promises Vs Observables: Decoding JavaScript&#39;s Asynchronous Superheroes!](https://dev.to/brvhprince/promises-vs-observables-decoding-javascripts-asynchronous-superheroes-2n7i)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Remote Work 2.0: The Tools, Trends, and Challenges of the Post-Pandemic Work Era](https://dev.to/thenomadevel/remote-work-20-the-tools-trends-and-challenges-of-the-post-pandemic-work-era-3be1)
 - [Dev.to/JS] [The Complete Guide to Becoming a Web Developer: Part 7](https://dev.to/aradwan20/the-complete-guide-to-becoming-a-web-developer-part-7-1nbd)
 - [Lifehacker] [How Winter Weather Will Affect Your Holiday Travel Plans This Year](https://lifehacker.com/how-winter-weather-will-affect-your-holiday-travel-plan-1850727933)
-- [Dev.to/JS] [Exploring Promises, async and await in Javascript](https://dev.to/dumebii/exploring-promises-async-and-await-in-javascript-214)
-- [Dev.to/JS] [Understanding Closures in JavaScript](https://dev.to/avwerosuoghene/understanding-closures-in-javascript-1dkb)
 - [Lifehacker] [The Best Plants to Put in Your Bedroom](https://lifehacker.com/the-best-plants-to-put-in-your-bedroom-1850727943)
 - [Lifehacker] [That Baking Soda in Your Fridge Probably Isn&#39;t Doing Much](https://lifehacker.com/that-baking-soda-in-your-fridge-probably-isnt-doing-muc-1850727949)
 - [Lifehacker] [Ask Yourself These Questions When Dealing With Uncertain Situations](https://lifehacker.com/ask-yourself-these-questions-when-dealing-with-uncertai-1850728813)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;Web Roulette!&#39; Is an Addictive Browser for Your iPhone](https://lifehacker.com/web-roulette-is-an-addictive-browser-for-your-iphone-1850728408)
 - [Lifehacker] [Tofu Freaking Rules](https://lifehacker.com/tofu-freaking-rules-1843024412)
 - [Lifehacker] [Use a ‘Date-Me Doc’ to Help You Find a Serious Relationship](https://lifehacker.com/use-a-date-me-doc-to-help-you-find-a-serious-relation-1850727682)
-- [Lifehacker] [Save Yourself From the Next ‘Jalapeño Gate’](https://lifehacker.com/save-yourself-from-the-next-jalapeno-gate-1850726199)
-- [Lifehacker] [Now You Can Add Music to Your Instagram Carousels](https://lifehacker.com/now-you-can-add-music-to-your-instagram-carousels-1850728473)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Save Yourself From the Next ‘Jalapeño Gate’](https://lifehacker.com/save-yourself-from-the-next-jalapeno-gate-1850726199)<!-- TECH-POSTS:END -->
 
 ---
 
