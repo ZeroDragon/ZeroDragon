@@ -26,7 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [React Query: Road Map For Mastering React Query!](https://dev.to/amangupta37/react-query-road-map-for-mastering-react-query-5bfc)
+- [Dev.to/JS] [React Query: Road Map For Mastering React Query!](https://dev.to/amangupta/react-query-road-map-for-mastering-react-query-5bfc)
 - [Dev.to/JS] [Building a Custom React Hook: useIsAppOffline](https://dev.to/punitsonime/building-a-custom-react-hook-useisappoffline-1i5d)
 - [Dev.to/JS] [Unleashing the Power of Fetch API: A Complete Guide to Asynchronous Data Fetching in JavaScript](https://dev.to/abhaysinghr1/unleashing-the-power-of-fetch-api-a-complete-guide-to-asynchronous-data-fetching-in-javascript-3ffb)
 - [Dev.to/JS] [Coding Period GSoC&#39;23 | Week 9 + 10](https://dev.to/prerna0202/coding-period-gsoc23-week-9-10-106m)
