@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn How to Upload Files to Google Cloud Storage Bucket using Nextjs Api Route](https://dev.to/derick1530/learn-how-to-upload-files-to-google-cloud-storage-bucket-using-nextjs-api-route-173f)
 - [Dev.to/JS] [Toying with web API&#39;s: Media Capture and Download!](https://dev.to/sfundomhlungu/toying-with-web-apis-media-capture-and-download-38d2)
 - [Dev.to/JS] [React Native Testing: Ensuring Quality in Your Mobile Apps 🧪📱](https://dev.to/medaimane/react-native-testing-ensuring-quality-in-your-mobile-apps-2e3f)
 - [Dev.to/JS] [Authentication with middlewares in NextJS](https://dev.to/brainiacneit/authentication-with-middlewares-in-nextjs-279p)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use ABI in JavaScript&lpar;ether.js&rpar;?](https://dev.to/mundinho340/how-to-use-abi-in-javascriptetherjs-115h)
 - [Dev.to/JS] [How to use ABI in JavaScript&lpar;ether.js&rpar;?](https://dev.to/mundinho340/how-using-abi-in-javascriptetherjs-34f4)
 - [Dev.to/JS] [Working with JavaScript Local Storage](https://dev.to/theonlyabdull/working-with-javascript-local-storage-49d9)
-- [Dev.to/JS] [How to Load Assets in Reactjs on Mac](https://dev.to/papakowdadson/how-to-load-assets-in-reactjs-on-mac-5g48)
 - [Lifehacker] [The Best Plants to Put in Your Bedroom](https://lifehacker.com/the-best-plants-to-put-in-your-bedroom-1850727943)
 - [Lifehacker] [That Baking Soda in Your Fridge Probably Isn&#39;t Doing Much](https://lifehacker.com/that-baking-soda-in-your-fridge-probably-isnt-doing-muc-1850727949)
 - [Lifehacker] [Ask Yourself These Questions When Dealing With Uncertain Situations](https://lifehacker.com/ask-yourself-these-questions-when-dealing-with-uncertai-1850728813)
