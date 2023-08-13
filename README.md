@@ -26,7 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Mouldes](https://dev.to/ikechukwu1234/mouldes-597f)
+- [Dev.to/JS] [Codemirror with Vue 2: Addons](https://dev.to/dinkarsharma/codemirror-with-vue-2-addons-4il9)
+- [Dev.to/JS] [Mouldes, Common j&#39;s module and ES module](https://dev.to/ikechukwu1234/mouldes-597f)
 - [Dev.to/JS] [Promises Vs Observables: Decoding JavaScript&#39;s Asynchronous Superheroes!](https://dev.to/brvhprince/promises-vs-observables-decoding-javascripts-asynchronous-superheroes-2n7i)
 - [Dev.to/JS] [Understanding Clousers in JavaScript](https://dev.to/meera123/understanding-clousers-in-javascript-30n0)
 - [Dev.to/JS] [Exploring the Significance of console.log&lpar;&rpar; in JavaScript and var_dump&lpar;&rpar; in PHP](https://dev.to/abdulfortech/exploring-the-significance-of-consolelog-in-javascript-and-vardump-in-php-253)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Winter Weather Will Affect Your Holiday Travel Plans This Year](https://lifehacker.com/how-winter-weather-will-affect-your-holiday-travel-plan-1850727933)
 - [Dev.to/JS] [Exploring Promises, async and await in Javascript](https://dev.to/dumebii/exploring-promises-async-and-await-in-javascript-214)
 - [Dev.to/JS] [Understanding Closures in JavaScript](https://dev.to/avwerosuoghene/understanding-closures-in-javascript-1dkb)
-- [Dev.to/JS] [How to link a local npm dependency with pnpm](https://dev.to/krzysztofzuraw/how-to-link-a-local-npm-dependency-with-pnpm-4733)
 - [Lifehacker] [The Best Plants to Put in Your Bedroom](https://lifehacker.com/the-best-plants-to-put-in-your-bedroom-1850727943)
 - [Lifehacker] [That Baking Soda in Your Fridge Probably Isn&#39;t Doing Much](https://lifehacker.com/that-baking-soda-in-your-fridge-probably-isnt-doing-muc-1850727949)
 - [Lifehacker] [Ask Yourself These Questions When Dealing With Uncertain Situations](https://lifehacker.com/ask-yourself-these-questions-when-dealing-with-uncertai-1850728813)
