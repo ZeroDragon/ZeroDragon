@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Check if any audio is playing with JS](https://dev.to/devcodef1/check-if-any-audio-is-playing-with-js-4kji)
 - [Dev.to/JS] [Throttling and Debouncing - Explained](https://dev.to/aneeqakhan/throttling-and-debouncing-explained-1ocb)
 - [Dev.to/JS] [Adding a Mailing List Subscription with Mailjet and Netlify Functions](https://dev.to/remotesynth/adding-a-mailing-list-subscription-with-mailjet-and-netlify-functions-986)
 - [Dev.to/JS] [Hobbyists in the Supply Chain](https://dev.to/latobibor/hobbyists-in-the-supply-chain-2gne)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring the Significance of console.log&lpar;&rpar; in JavaScript and var_dump&lpar;&rpar; in PHP](https://dev.to/abdulfortech/exploring-the-significance-of-consolelog-in-javascript-and-vardump-in-php-253)
 - [Dev.to/JS] [What&#39;s Fresh in ECMAScript 2023 &lpar;ES14&rpar;: A Closer Look](https://dev.to/mitchiemt11/whats-fresh-in-ecmascript-2023-es14-a-closer-look-1g3i)
 - [Lifehacker] [Why You Shouldn&#39;t Use Dish Soap in Your Washing Machine](https://lifehacker.com/why-you-shouldnt-use-dish-soap-in-your-washing-machine-1850727932)
-- [Dev.to/JS] [Modules](https://dev.to/ikechukwu1234/modules-4cpf)
 - [Lifehacker] [How Winter Weather Will Affect Your Holiday Travel Plans This Year](https://lifehacker.com/how-winter-weather-will-affect-your-holiday-travel-plan-1850727933)
 - [Lifehacker] [The Best Plants to Put in Your Bedroom](https://lifehacker.com/the-best-plants-to-put-in-your-bedroom-1850727943)
 - [Lifehacker] [That Baking Soda in Your Fridge Probably Isn&#39;t Doing Much](https://lifehacker.com/that-baking-soda-in-your-fridge-probably-isnt-doing-muc-1850727949)
