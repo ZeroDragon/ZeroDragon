@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mouldes](https://dev.to/ikechukwu1234/mouldes-597f)
+- [Dev.to/JS] [Promises Vs Observables: Decoding JavaScript&#39;s Asynchronous Superheroes!](https://dev.to/brvhprince/promises-vs-observables-decoding-javascripts-asynchronous-superheroes-2n7i)
+- [Dev.to/JS] [Understanding Clousers in JavaScript](https://dev.to/meera123/understanding-clousers-in-javascript-30n0)
+- [Dev.to/JS] [Exploring the Significance of console.log&lpar;&rpar; in JavaScript and var_dump&lpar;&rpar; in PHP](https://dev.to/abdulfortech/exploring-the-significance-of-consolelog-in-javascript-and-vardump-in-php-253)
+- [Dev.to/JS] [What&#39;s Fresh in ECMAScript 2023 &lpar;ES14&rpar;: A Closer Look](https://dev.to/mitchiemt11/whats-fresh-in-ecmascript-2023-es14-a-closer-look-1g3i)
 - [Lifehacker] [Why You Shouldn&#39;t Use Dish Soap in Your Washing Machine](https://lifehacker.com/why-you-shouldnt-use-dish-soap-in-your-washing-machine-1850727932)
 - [Dev.to/JS] [Modules](https://dev.to/ikechukwu1234/modules-4cpf)
 - [Dev.to/JS] [🚀 Redux Demystified: A Fun, Quick Guide!](https://dev.to/notoriousshubh/redux-demystified-a-fun-quick-guide-3035)
@@ -35,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring Promises, async and await in Javascript](https://dev.to/dumebii/exploring-promises-async-and-await-in-javascript-214)
 - [Dev.to/JS] [Understanding Closures in JavaScript](https://dev.to/avwerosuoghene/understanding-closures-in-javascript-1dkb)
 - [Dev.to/JS] [How to link a local npm dependency with pnpm](https://dev.to/krzysztofzuraw/how-to-link-a-local-npm-dependency-with-pnpm-4733)
-- [Dev.to/JS] [React Query: Road Map For Mastering React Query!](https://dev.to/amangupta/react-query-road-map-for-mastering-react-query-5bfc)
-- [Dev.to/JS] [Building a Custom React Hook: useIsAppOffline](https://dev.to/punitsonime/building-a-custom-react-hook-useisappoffline-1i5d)
-- [Dev.to/JS] [Unleashing the Power of Fetch API: A Complete Guide to Asynchronous Data Fetching in JavaScript](https://dev.to/abhaysinghr1/unleashing-the-power-of-fetch-api-a-complete-guide-to-asynchronous-data-fetching-in-javascript-3ffb)
-- [Dev.to/JS] [Coding Period GSoC&#39;23 | Week 9 + 10](https://dev.to/prerna0202/coding-period-gsoc23-week-9-10-106m)
-- [Dev.to/JS] [Unlocking Opportunities: My Oasis-Infobyte Internship Journey and Beyond](https://dev.to/itspratyush/unlocking-opportunities-my-oasis-infobyte-internship-journey-and-beyond-3ack)
 - [Lifehacker] [The Best Plants to Put in Your Bedroom](https://lifehacker.com/the-best-plants-to-put-in-your-bedroom-1850727943)
 - [Lifehacker] [That Baking Soda in Your Fridge Probably Isn&#39;t Doing Much](https://lifehacker.com/that-baking-soda-in-your-fridge-probably-isnt-doing-muc-1850727949)
 - [Lifehacker] [Ask Yourself These Questions When Dealing With Uncertain Situations](https://lifehacker.com/ask-yourself-these-questions-when-dealing-with-uncertai-1850728813)
