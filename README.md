@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scopes in JavaScript: A Comprehensive Guide](https://dev.to/jaimaldullat/scopes-in-javascript-a-comprehensive-guide-1j7a)
 - [Dev.to/JS] [React Component](https://dev.to/oivlisfriend/react-component-27de)
 - [Dev.to/JS] [Mocha/Chai with TypeScript &lpar;2023 update&rpar;](https://dev.to/matteobruni/mochachai-with-typescript-2023-update-281f)
 - [Dev.to/JS] [How to use ABI in JavaScript&lpar;ether.js&rpar;?](https://dev.to/mundinho340/how-to-use-abi-in-javascriptetherjs-115h)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Synchronous and Asynchronous in JS](https://dev.to/noobizdeveloper/mastering-synchronous-and-asynchronous-in-js--427p)
 - [Dev.to/JS] [Exploring the Power of React Hooks in Modern Web Development](https://dev.to/nechey/exploring-the-power-of-react-hooks-in-modern-web-development-5g3b)
 - [Dev.to/JS] [Pagination in React with implementation](https://dev.to/endeavourmonk/pagination-in-react-with-implementation-21nn)
-- [Dev.to/JS] [10 Tips &amp; Tricks that will make you a better ReactJS Dev](https://dev.to/rahul3002/10-tips-tricks-that-will-make-you-a-better-reactjs-dev-1khe)
 - [Lifehacker] [The Best Plants to Put in Your Bedroom](https://lifehacker.com/the-best-plants-to-put-in-your-bedroom-1850727943)
 - [Lifehacker] [That Baking Soda in Your Fridge Probably Isn&#39;t Doing Much](https://lifehacker.com/that-baking-soda-in-your-fridge-probably-isnt-doing-muc-1850727949)
 - [Lifehacker] [Ask Yourself These Questions When Dealing With Uncertain Situations](https://lifehacker.com/ask-yourself-these-questions-when-dealing-with-uncertai-1850728813)
