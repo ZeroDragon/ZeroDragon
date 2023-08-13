@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hobbyists in the Supply Chain](https://dev.to/latobibor/hobbyists-in-the-supply-chain-2gne)
 - [Dev.to/JS] [Understanding CDNs, DNS, and Edge Functions: A Simple Guide](https://dev.to/ritavdas/reacts-secret-weapon-synthetic-events-33gk)
 - [Dev.to/JS] [Advance Add Tags input with REACT JS](https://dev.to/krushnachandradash654/advance-add-tags-input-with-react-js-9gg)
 - [Lifehacker] [The Most Effective Ways to Flatten an Area Rug](https://lifehacker.com/the-most-effective-ways-to-flatten-an-area-rug-1850728842)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Modules](https://dev.to/ikechukwu1234/modules-4cpf)
 - [Dev.to/JS] [🚀 Redux Demystified: A Fun, Quick Guide!](https://dev.to/notoriousshubh/redux-demystified-a-fun-quick-guide-3035)
 - [Dev.to/JS] [Remote Work 2.0: The Tools, Trends, and Challenges of the Post-Pandemic Work Era](https://dev.to/thenomadevel/remote-work-20-the-tools-trends-and-challenges-of-the-post-pandemic-work-era-3be1)
-- [Dev.to/JS] [The Complete Guide to Becoming a Web Developer: Part 7](https://dev.to/aradwan20/the-complete-guide-to-becoming-a-web-developer-part-7-1nbd)
 - [Lifehacker] [How Winter Weather Will Affect Your Holiday Travel Plans This Year](https://lifehacker.com/how-winter-weather-will-affect-your-holiday-travel-plan-1850727933)
 - [Lifehacker] [The Best Plants to Put in Your Bedroom](https://lifehacker.com/the-best-plants-to-put-in-your-bedroom-1850727943)
 - [Lifehacker] [That Baking Soda in Your Fridge Probably Isn&#39;t Doing Much](https://lifehacker.com/that-baking-soda-in-your-fridge-probably-isnt-doing-muc-1850727949)
