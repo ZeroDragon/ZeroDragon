@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [No Framework - Eps#1: I am Bored!](https://dev.to/darkterminal/no-framework-eps1-i-am-bored-4ki)
+- [Dev.to/JS] [Building a REST API with Deno and Hono.js: A Step-by-Step Guide](https://dev.to/franciscomendes10866/building-a-rest-api-with-deno-and-honojs-a-step-by-step-guide-48ed)
+- [Dev.to/JS] [HTMLCollection VS NodeList](https://dev.to/shafia/htmlcollection-vs-nodelist-4b4f)
+- [Dev.to/JS] [React Custom Hook: useDebugInformation](https://dev.to/sergeyleschev/react-custom-hook-usedebuginformation-431e)
 - [Dev.to/JS] [Check if any audio is playing with JS](https://dev.to/devcodef1/check-if-any-audio-is-playing-with-js-4kji)
 - [Dev.to/JS] [Throttling and Debouncing - Explained](https://dev.to/aneeqakhan/throttling-and-debouncing-explained-1ocb)
 - [Dev.to/JS] [Adding a Mailing List Subscription with Mailjet and Netlify Functions](https://dev.to/remotesynth/adding-a-mailing-list-subscription-with-mailjet-and-netlify-functions-986)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Effective Ways to Flatten an Area Rug](https://lifehacker.com/the-most-effective-ways-to-flatten-an-area-rug-1850728842)
 - [Dev.to/JS] [Codemirror with Vue 2: Addons](https://dev.to/dinkarsharma/codemirror-with-vue-2-addons-4il9)
 - [Dev.to/JS] [Mouldes, Common j&#39;s module and ES module](https://dev.to/ikechukwu1234/mouldes-597f)
-- [Dev.to/JS] [Promises Vs Observables: Decoding JavaScript&#39;s Asynchronous Superheroes!](https://dev.to/brvhprince/promises-vs-observables-decoding-javascripts-asynchronous-superheroes-2n7i)
-- [Dev.to/JS] [Understanding Clousers in JavaScript](https://dev.to/meera123/understanding-clousers-in-javascript-30n0)
-- [Dev.to/JS] [Exploring the Significance of console.log&lpar;&rpar; in JavaScript and var_dump&lpar;&rpar; in PHP](https://dev.to/abdulfortech/exploring-the-significance-of-consolelog-in-javascript-and-vardump-in-php-253)
-- [Dev.to/JS] [What&#39;s Fresh in ECMAScript 2023 &lpar;ES14&rpar;: A Closer Look](https://dev.to/mitchiemt11/whats-fresh-in-ecmascript-2023-es14-a-closer-look-1g3i)
 - [Lifehacker] [Why You Shouldn&#39;t Use Dish Soap in Your Washing Machine](https://lifehacker.com/why-you-shouldnt-use-dish-soap-in-your-washing-machine-1850727932)
 - [Lifehacker] [How Winter Weather Will Affect Your Holiday Travel Plans This Year](https://lifehacker.com/how-winter-weather-will-affect-your-holiday-travel-plan-1850727933)
 - [Lifehacker] [The Best Plants to Put in Your Bedroom](https://lifehacker.com/the-best-plants-to-put-in-your-bedroom-1850727943)
