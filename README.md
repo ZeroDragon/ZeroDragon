@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Winter Weather Will Affect Your Holiday Travel Plans This Year](https://lifehacker.com/how-winter-weather-will-affect-your-holiday-travel-plan-1850727933)
+- [Dev.to/JS] [Exploring Promises, async and await in Javascript](https://dev.to/dumebii/exploring-promises-async-and-await-in-javascript-214)
+- [Dev.to/JS] [Understanding Closures in JavaScript](https://dev.to/avwerosuoghene/understanding-closures-in-javascript-1dkb)
 - [Dev.to/JS] [React Query: Road Map For Mastering React Query!](https://dev.to/amangupta/react-query-road-map-for-mastering-react-query-5bfc)
 - [Dev.to/JS] [Building a Custom React Hook: useIsAppOffline](https://dev.to/punitsonime/building-a-custom-react-hook-useisappoffline-1i5d)
 - [Dev.to/JS] [Unleashing the Power of Fetch API: A Complete Guide to Asynchronous Data Fetching in JavaScript](https://dev.to/abhaysinghr1/unleashing-the-power-of-fetch-api-a-complete-guide-to-asynchronous-data-fetching-in-javascript-3ffb)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Intl API: The hidden gem of web internationalization](https://dev.to/krtirtho/javascript-intl-api-the-hidden-gem-of-web-internationalization-2cd7)
 - [Dev.to/JS] [Learn How to Upload Files to Google Cloud Storage Bucket with Nextjs](https://dev.to/derick1530/learn-how-to-upload-files-to-google-cloud-storage-bucket-using-nextjs-api-route-173f)
 - [Dev.to/JS] [Toying with web API&#39;s: Media Capture and Download!](https://dev.to/sfundomhlungu/toying-with-web-apis-media-capture-and-download-38d2)
-- [Dev.to/JS] [React Native Testing: Ensuring Quality in Your Mobile Apps 🧪📱](https://dev.to/medaimane/react-native-testing-ensuring-quality-in-your-mobile-apps-2e3f)
-- [Dev.to/JS] [Authentication with middlewares in NextJS](https://dev.to/brainiacneit/authentication-with-middlewares-in-nextjs-279p)
 - [Lifehacker] [The Best Plants to Put in Your Bedroom](https://lifehacker.com/the-best-plants-to-put-in-your-bedroom-1850727943)
 - [Lifehacker] [That Baking Soda in Your Fridge Probably Isn&#39;t Doing Much](https://lifehacker.com/that-baking-soda-in-your-fridge-probably-isnt-doing-muc-1850727949)
 - [Lifehacker] [Ask Yourself These Questions When Dealing With Uncertain Situations](https://lifehacker.com/ask-yourself-these-questions-when-dealing-with-uncertai-1850728813)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use a ‘Date-Me Doc’ to Help You Find a Serious Relationship](https://lifehacker.com/use-a-date-me-doc-to-help-you-find-a-serious-relation-1850727682)
 - [Lifehacker] [Save Yourself From the Next ‘Jalapeño Gate’](https://lifehacker.com/save-yourself-from-the-next-jalapeno-gate-1850726199)
 - [Lifehacker] [Now You Can Add Music to Your Instagram Carousels](https://lifehacker.com/now-you-can-add-music-to-your-instagram-carousels-1850728473)
-- [Lifehacker] [You Should Install These Pull-Down Kitchen Cabinets](https://lifehacker.com/you-should-install-these-pull-down-kitchen-cabinets-1850726449)
-- [Lifehacker] [Use These Smart Tools to Automate Your Plant Care](https://lifehacker.com/use-these-smart-tools-to-automate-your-plant-care-1850727821)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Install These Pull-Down Kitchen Cabinets](https://lifehacker.com/you-should-install-these-pull-down-kitchen-cabinets-1850726449)<!-- TECH-POSTS:END -->
 
 ---
 
