@@ -26,18 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Query: Road Map For Mastering React Query!](https://dev.to/amangupta37/react-query-road-map-for-mastering-react-query-5bfc)
+- [Dev.to/JS] [Building a Custom React Hook: useIsAppOffline](https://dev.to/punitsonime/building-a-custom-react-hook-useisappoffline-1i5d)
+- [Dev.to/JS] [Unleashing the Power of Fetch API: A Complete Guide to Asynchronous Data Fetching in JavaScript](https://dev.to/abhaysinghr1/unleashing-the-power-of-fetch-api-a-complete-guide-to-asynchronous-data-fetching-in-javascript-3ffb)
+- [Dev.to/JS] [Coding Period GSoC&#39;23 | Week 9 + 10](https://dev.to/prerna0202/coding-period-gsoc23-week-9-10-106m)
 - [Dev.to/JS] [Unlocking Opportunities: My Oasis-Infobyte Internship Journey and Beyond](https://dev.to/itspratyush/unlocking-opportunities-my-oasis-infobyte-internship-journey-and-beyond-3ack)
 - [Dev.to/JS] [React JS Interview Questions - Part 1](https://dev.to/mursalfk/react-js-interview-questions-part-1-2c6a)
 - [Dev.to/JS] [Using Template Laterals In JS](https://dev.to/youssefali715/using-template-laterals-in-js-4n6g)
 - [Dev.to/JS] [JavaScript Intl API: The hidden gem of web internationalization](https://dev.to/krtirtho/javascript-intl-api-the-hidden-gem-of-web-internationalization-2cd7)
-- [Dev.to/JS] [Learn How to Upload Files to Google Cloud Storage Bucket using Nextjs Api Route](https://dev.to/derick1530/learn-how-to-upload-files-to-google-cloud-storage-bucket-using-nextjs-api-route-173f)
+- [Dev.to/JS] [Learn How to Upload Files to Google Cloud Storage Bucket with Nextjs](https://dev.to/derick1530/learn-how-to-upload-files-to-google-cloud-storage-bucket-using-nextjs-api-route-173f)
 - [Dev.to/JS] [Toying with web API&#39;s: Media Capture and Download!](https://dev.to/sfundomhlungu/toying-with-web-apis-media-capture-and-download-38d2)
 - [Dev.to/JS] [React Native Testing: Ensuring Quality in Your Mobile Apps 🧪📱](https://dev.to/medaimane/react-native-testing-ensuring-quality-in-your-mobile-apps-2e3f)
 - [Dev.to/JS] [Authentication with middlewares in NextJS](https://dev.to/brainiacneit/authentication-with-middlewares-in-nextjs-279p)
-- [Dev.to/JS] [Exploring NestJS Modules: A Comprehensive Guide](https://dev.to/aimal-akrami/exploring-nestjs-modules-a-comprehensive-guide-37e3)
-- [Dev.to/JS] [How to force an update to Components in React](https://dev.to/maheedhar15/how-to-force-an-update-to-components-in-react-1dgp)
-- [Dev.to/JS] [Scopes in JavaScript: A Comprehensive Guide](https://dev.to/jaimaldullat/scopes-in-javascript-a-comprehensive-guide-1j7a)
-- [Dev.to/JS] [React Component](https://dev.to/oivlisfriend/react-component-27de)
 - [Lifehacker] [The Best Plants to Put in Your Bedroom](https://lifehacker.com/the-best-plants-to-put-in-your-bedroom-1850727943)
 - [Lifehacker] [That Baking Soda in Your Fridge Probably Isn&#39;t Doing Much](https://lifehacker.com/that-baking-soda-in-your-fridge-probably-isnt-doing-muc-1850727949)
 - [Lifehacker] [Ask Yourself These Questions When Dealing With Uncertain Situations](https://lifehacker.com/ask-yourself-these-questions-when-dealing-with-uncertai-1850728813)
