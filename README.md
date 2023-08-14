@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Tubi Is the Greatest Streaming Service Ever](https://lifehacker.com/what-is-tubi-and-how-to-watch-it-free-1850736811)
+- [Lifehacker] [The Best Back-to-School Tech Deals You Can Find Right Now](https://lifehacker.com/the-best-back-to-school-tech-deals-you-can-find-right-n-1850736643)
+- [Dev.to/JS] [Reference: JavaScript Expressions, Keywords, Statements, Syntax &amp; Operators](https://dev.to/mshertzberg/reference-javascript-expressions-keywords-statements-syntax-operators-333d)
+- [Dev.to/JS] [Using Node.js v8 Isolate in Another Native Thread](https://dev.to/devcodef1/using-nodejs-v8-isolate-in-another-native-thread-5gb0)
 - [Dev.to/JS] [React Custom Hook: useDeepCompareEffect](https://dev.to/sergeyleschev/react-custom-hook-usedeepcompareeffect-5d0c)
+- [Lifehacker] [The Difference Between Fish Sauce, Oyster Sauce, and Lobster Sauce &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-fish-sauce-oyster-sauce-and-lo-1850736536)
 - [Lifehacker] [You Need to Book a ‘Sleep Vacation’](https://lifehacker.com/you-need-to-book-a-sleep-vacation-1850735551)
 - [Dev.to/JS] [Smooth Scrolling with React &amp; Framer Motion](https://dev.to/ironcladdev/smooth-scrolling-with-react-framer-motion-dih)
 - [Lifehacker] [Use This SMART Goals Formula to Be More Productive](https://lifehacker.com/use-this-smart-goals-formula-to-be-more-productive-1850736205)
@@ -50,9 +55,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Use Record Type In Typescript](https://dev.to/danywalls/how-to-use-record-type-in-typescript-1fml)
 - [Lifehacker] [This Pop-Up Tent and Portable Mattress Is $400 Right Now](https://lifehacker.com/this-pop-up-tent-and-portable-mattress-is-400-right-no-1850729854)
 - [Dev.to/JS] [The When, Why, &amp; Where Of Pseudocoding. How to bring logical thinking into your coding.](https://dev.to/aidanstucker/the-when-why-where-of-pseudocoding-how-to-bring-logical-thinking-into-your-coding-9jo)
-- [Dev.to/JS] [How to Implement User Registration and Email Verification in React](https://dev.to/sammychris/how-to-implement-user-registration-and-email-verification-in-react-1map)
 - [Lifehacker] [The Radrunner 3 Plus Is the SUV of E-Bikes](https://lifehacker.com/the-radrunner-3-plus-is-the-suv-of-e-bikes-1850729199)
-- [Dev.to/JS] [WebAssembly: byte-code of the future](https://dev.to/joshnuss/webassembly-byte-code-of-the-future-402p)
 - [Lifehacker] [Place NFC Tags in Your Home to Automate Daily Routines](https://lifehacker.com/place-nfc-tags-in-your-home-to-automate-daily-routines-1850725431)
 - [Lifehacker] [This Wemax Go Projector and Screen Is $230 Right Now](https://lifehacker.com/this-wemax-go-projector-and-screen-is-230-right-now-1850729728)
 - [Lifehacker] [What It Means to Be a ‘Twice Exceptional’ Kid &lpar;and How to Support Them&rpar;](https://lifehacker.com/what-it-means-to-be-a-twice-exceptional-kid-and-how-1850733520)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Effective Ways to Flatten an Area Rug](https://lifehacker.com/the-most-effective-ways-to-flatten-an-area-rug-1850728842)
 - [Lifehacker] [Why You Shouldn&#39;t Use Dish Soap in Your Washing Machine](https://lifehacker.com/why-you-shouldnt-use-dish-soap-in-your-washing-machine-1850727932)
 - [Lifehacker] [How Winter Weather Will Affect Your Holiday Travel Plans This Year](https://lifehacker.com/how-winter-weather-will-affect-your-holiday-travel-plan-1850727933)
-- [Lifehacker] [The Best Plants to Put in Your Bedroom](https://lifehacker.com/the-best-plants-to-put-in-your-bedroom-1850727943)
-- [Lifehacker] [That Baking Soda in Your Fridge Probably Isn&#39;t Doing Much](https://lifehacker.com/that-baking-soda-in-your-fridge-probably-isnt-doing-muc-1850727949)
-- [Lifehacker] [Ask Yourself These Questions When Dealing With Uncertain Situations](https://lifehacker.com/ask-yourself-these-questions-when-dealing-with-uncertai-1850728813)
-- [Lifehacker] [Coasting in Neutral Doesn&#39;t Actually Save Gas](https://lifehacker.com/coasting-in-neutral-doesnt-actually-save-gas-1850727931)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Plants to Put in Your Bedroom](https://lifehacker.com/the-best-plants-to-put-in-your-bedroom-1850727943)<!-- TECH-POSTS:END -->
 
 ---
 
