@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simplifying Database Backup and Restore with Easy Automation](https://dev.to/jacksonkasi/simplifying-database-backup-and-restore-with-easy-automation-1h01)
+- [Dev.to/JS] [TED](https://dev.to/marcuniversel11/ted-23i)
+- [Lifehacker] [Set These Boundaries With an Overly Affectionate Child](https://lifehacker.com/set-these-boundaries-with-an-overly-affectionate-child-1850678924)
 - [Dev.to/JS] [When Use Arrays, Tuples, Maps, and Sets In Typescript with Examples](https://dev.to/danywalls/when-use-arrays-tuples-maps-and-sets-in-typescript-with-examples-57l6)
 - [Dev.to/JS] [How To Use Record Type In Typescript](https://dev.to/danywalls/how-to-use-record-type-in-typescript-1fml)
 - [Lifehacker] [This Pop-Up Tent and Portable Mattress Is $400 Right Now](https://lifehacker.com/this-pop-up-tent-and-portable-mattress-is-400-right-no-1850729854)
@@ -41,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Wemax Go Projector and Screen Is $230 Right Now](https://lifehacker.com/this-wemax-go-projector-and-screen-is-230-right-now-1850729728)
 - [Dev.to/JS] [🤖 We asked AI to imagine web frameworks as superheroes 🦸‍♂️ 🦾](https://dev.to/matijasos/we-asked-ai-to-imagine-web-frameworks-as-superheroes-p0j)
 - [Lifehacker] [What It Means to Be a ‘Twice Exceptional’ Kid &lpar;and How to Support Them&rpar;](https://lifehacker.com/what-it-means-to-be-a-twice-exceptional-kid-and-how-1850733520)
-- [Dev.to/JS] [altogelz](https://dev.to/altogelz/altogelz-23h3)
-- [Dev.to/JS] [The Advantages of the Vue.js-based Quasar Framework for Professional Software Development](https://dev.to/josunlp/the-advantages-of-the-vuejs-based-quasar-framework-for-professional-software-development-2fo)
 - [Lifehacker] [Every Step You Should Take Now to Prepare for a Climate Disaster Evacuation](https://lifehacker.com/every-step-you-should-take-now-to-prepare-for-a-climate-1850730314)
 - [Lifehacker] [The Best Toys for Your Autistic Child](https://lifehacker.com/the-best-toys-for-your-autistic-child-1850726928)
 - [Lifehacker] [This Refurbished iPad Pro Is $270 Right Now](https://lifehacker.com/this-refurbished-ipad-pro-is-270-right-now-1850729831)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Rosetta Stone and StackSkills for $160 Through This Weekend](https://lifehacker.com/you-can-get-rosetta-stone-and-stackskills-for-160-thro-1850722424)
 - [Lifehacker] [How to Not Get Pickpocketed](https://lifehacker.com/how-to-not-get-pickpocketed-1850729435)
 - [Lifehacker] [Your Android Now Knows When an AirTag Is Tracking You](https://lifehacker.com/your-android-now-knows-when-an-airtag-is-tracking-you-1850729228)
-- [Lifehacker] [Don&#39;t Dismiss Your Kid&#39;s Clumsiness](https://lifehacker.com/dont-dismiss-your-kids-clumsiness-1850728871)
-- [Lifehacker] [You&#39;re Going to Get Caught Skiplagging, and It’s Not Going to Be Pretty](https://lifehacker.com/youre-going-to-get-caught-skiplagging-and-it-s-not-goi-1849041104)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Dismiss Your Kid&#39;s Clumsiness](https://lifehacker.com/dont-dismiss-your-kids-clumsiness-1850728871)<!-- TECH-POSTS:END -->
 
 ---
 
