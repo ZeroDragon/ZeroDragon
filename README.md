@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unit Tests in NodeJS](https://dev.to/jhonpedro/unit-tests-in-nodejs-53jk)
+- [Dev.to/JS] [JavaScript Asynchronous Programming: Concepts and Best Practices](https://dev.to/nziokidennis/javascript-asynchronous-programming-concepts-and-best-practices-38k7)
 - [Lifehacker] [Why Tubi Is the Greatest Streaming Service Ever](https://lifehacker.com/what-is-tubi-and-how-to-watch-it-free-1850736811)
 - [Lifehacker] [The Best Back-to-School Tech Deals You Can Find Right Now](https://lifehacker.com/the-best-back-to-school-tech-deals-you-can-find-right-n-1850736643)
 - [Dev.to/JS] [Reference: JavaScript Expressions, Keywords, Statements, Syntax &amp; Operators](https://dev.to/mshertzberg/reference-javascript-expressions-keywords-statements-syntax-operators-333d)
@@ -52,9 +54,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TED](https://dev.to/marcuniversel11/ted-23i)
 - [Lifehacker] [Set These Boundaries With an Overly Affectionate Child](https://lifehacker.com/set-these-boundaries-with-an-overly-affectionate-child-1850678924)
 - [Dev.to/JS] [When Use Arrays, Tuples, Maps, and Sets In Typescript with Examples](https://dev.to/danywalls/when-use-arrays-tuples-maps-and-sets-in-typescript-with-examples-57l6)
-- [Dev.to/JS] [How To Use Record Type In Typescript](https://dev.to/danywalls/how-to-use-record-type-in-typescript-1fml)
 - [Lifehacker] [This Pop-Up Tent and Portable Mattress Is $400 Right Now](https://lifehacker.com/this-pop-up-tent-and-portable-mattress-is-400-right-no-1850729854)
-- [Dev.to/JS] [The When, Why, &amp; Where Of Pseudocoding. How to bring logical thinking into your coding.](https://dev.to/aidanstucker/the-when-why-where-of-pseudocoding-how-to-bring-logical-thinking-into-your-coding-9jo)
 - [Lifehacker] [The Radrunner 3 Plus Is the SUV of E-Bikes](https://lifehacker.com/the-radrunner-3-plus-is-the-suv-of-e-bikes-1850729199)
 - [Lifehacker] [Place NFC Tags in Your Home to Automate Daily Routines](https://lifehacker.com/place-nfc-tags-in-your-home-to-automate-daily-routines-1850725431)
 - [Lifehacker] [This Wemax Go Projector and Screen Is $230 Right Now](https://lifehacker.com/this-wemax-go-projector-and-screen-is-230-right-now-1850729728)
