@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Radrunner 3 Plus Is the SUV of E-Bikes](https://lifehacker.com/the-radrunner-3-plus-is-the-suv-of-e-bikes-1850729199)
+- [Dev.to/JS] [WebAssembly: byte-code of the future](https://dev.to/joshnuss/webassembly-byte-code-of-the-future-402p)
+- [Dev.to/JS] [Sliding Buttons JS](https://dev.to/inancakduvan/sliding-buttons-js-4jp0)
+- [Lifehacker] [Place NFC Tags in Your Home to Automate Daily Routines](https://lifehacker.com/place-nfc-tags-in-your-home-to-automate-daily-routines-1850725431)
+- [Dev.to/JS] [Repetition can make you loopy!: Intro to JavaScript Loops](https://dev.to/danielj/repetition-can-make-you-loopy-intro-to-javascript-loops-11o4)
+- [Dev.to/JS] [Learn Vue: Introduction to Vue.js](https://dev.to/kingowisdom/learn-vue-introduction-to-vuejs-m13)
+- [Dev.to/JS] [Day 25: Memory](https://dev.to/dhrn/day-25-memory-2n4n)
 - [Lifehacker] [This Wemax Go Projector and Screen Is $230 Right Now](https://lifehacker.com/this-wemax-go-projector-and-screen-is-230-right-now-1850729728)
 - [Dev.to/JS] [🤖 We asked AI to imagine web frameworks as superheroes 🦸‍♂️ 🦾](https://dev.to/matijasos/we-asked-ai-to-imagine-web-frameworks-as-superheroes-p0j)
 - [Lifehacker] [What It Means to Be a ‘Twice Exceptional’ Kid &lpar;and How to Support Them&rpar;](https://lifehacker.com/what-it-means-to-be-a-twice-exceptional-kid-and-how-1850733520)
@@ -38,11 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Toys for Your Autistic Child](https://lifehacker.com/the-best-toys-for-your-autistic-child-1850726928)
 - [Dev.to/JS] [🔥 2 TRICKS 🔥 to build a Meetup.com clone with React in 30 minutes 🪄✨](https://dev.to/novu/2-tricks-to-build-a-meetupcom-clone-with-react-in-30-minutes-9hm)
 - [Lifehacker] [This Refurbished iPad Pro Is $270 Right Now](https://lifehacker.com/this-refurbished-ipad-pro-is-270-right-now-1850729831)
-- [Dev.to/JS] [Are you using expo-updates?](https://dev.to/marcin_codes/are-you-using-expo-updates-1oa6)
-- [Dev.to/JS] [Best Express JS Routing For Multiple WebPages](https://dev.to/yubaeloualidi/best-express-js-routing-for-multiple-webpages-9nf)
-- [Dev.to/JS] [Swiper Slider with Filter and 2 columns](https://dev.to/krzwt/swiper-slider-filter-with-2-columns-3dbp)
-- [Dev.to/JS] [Full Stack Airbnb Clone with Next.js, Tailwind CSS, Zustand and Amplication](https://dev.to/koolkishan/full-stack-airbnb-clone-with-nextjs-tailwind-css-zustand-and-amplication-125b)
-- [Dev.to/JS] [Clustering with R Programming](https://dev.to/anvilicious/clustering-with-r-programming-1jmk)
 - [Lifehacker] [The Most Effective Ways to Flatten an Area Rug](https://lifehacker.com/the-most-effective-ways-to-flatten-an-area-rug-1850728842)
 - [Lifehacker] [Why You Shouldn&#39;t Use Dish Soap in Your Washing Machine](https://lifehacker.com/why-you-shouldnt-use-dish-soap-in-your-washing-machine-1850727932)
 - [Lifehacker] [How Winter Weather Will Affect Your Holiday Travel Plans This Year](https://lifehacker.com/how-winter-weather-will-affect-your-holiday-travel-plan-1850727933)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Android Now Knows When an AirTag Is Tracking You](https://lifehacker.com/your-android-now-knows-when-an-airtag-is-tracking-you-1850729228)
 - [Lifehacker] [Don&#39;t Dismiss Your Kid&#39;s Clumsiness](https://lifehacker.com/dont-dismiss-your-kids-clumsiness-1850728871)
 - [Lifehacker] [You&#39;re Going to Get Caught Skiplagging, and It’s Not Going to Be Pretty](https://lifehacker.com/youre-going-to-get-caught-skiplagging-and-it-s-not-goi-1849041104)
-- [Lifehacker] [This Might Be the Quickest Way to Roast Peppers](https://lifehacker.com/this-might-be-the-quickest-way-to-roast-peppers-1850728483)
-- [Lifehacker] [Five Cheaper Ways to Add Square Footage to Your House](https://lifehacker.com/cheap-ways-to-add-square-footage-to-your-house-1850728905)
-- [Lifehacker] [You Can Stop Your Neighbor&#39;s Dog From Barking Incessantly](https://lifehacker.com/how-to-get-your-neighbor-s-dog-to-stop-barking-incessan-1792297205)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Might Be the Quickest Way to Roast Peppers](https://lifehacker.com/this-might-be-the-quickest-way-to-roast-peppers-1850728483)<!-- TECH-POSTS:END -->
 
 ---
 
