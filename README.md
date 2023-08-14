@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why You Shouldn’t Learn JavaScript?](https://dev.to/devland/why-you-shouldnt-learn-javascript-3ela)
+- [Dev.to/JS] [Faunadb: The Modern Database for Developers](https://dev.to/kalashin1/faunadb-the-modern-database-for-developers-3ok2)
+- [Dev.to/JS] [Multithreading in javascript: Introduction to Web Workers](https://dev.to/oggy107/multithreading-in-javascript-introduction-to-web-workers-4g31)
+- [Dev.to/JS] [Mastering Rust&#39;s Ownership: The Key to Memory Safety and Efficiency](https://dev.to/charles_lukes/mastering-rusts-ownership-the-key-to-memory-safety-and-efficiency-124n)
+- [Dev.to/JS] [JavaScript: Programming Introduction.](https://dev.to/fullstackjo/javascript-programming-introduction-53jh)
 - [Dev.to/JS] [CommonJs in simple language](https://dev.to/samluxtech/commonjs-in-simple-language-2im8)
 - [Dev.to/JS] [What is a Module?](https://dev.to/samluxtech/what-is-a-module-188h)
 - [Dev.to/JS] [Creating a Flexible Text Component in React](https://dev.to/bobby_the_creatr/creating-a-flexible-text-component-in-react-8h5)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding the Role of Husky, ESLint and Prettier: Reasons for Adoption and Implementation Guidelines](https://dev.to/vinyldavyl/understanding-the-role-of-husky-eslint-and-prettier-reasons-for-adoption-and-implementation-guidelines-476j)
 - [Dev.to/JS] [Getting Started with Svelte: A Refreshingly Different Approach to Web Development](https://dev.to/ironside/getting-started-with-svelte-a-refreshingly-different-approach-to-web-development-35j1)
 - [Dev.to/JS] [Mastering React Animations: Bringing Your UI to Life](https://dev.to/syedaeanjum/mastering-react-animations-bringing-your-ui-to-life-5fj5)
-- [Dev.to/JS] [Beginner&#39;s Guide to IPFS](https://dev.to/electromorphous/beginners-guide-to-ipfs-3h7k)
-- [Dev.to/JS] [Intro to Python: Day 10 - Basic Operators in Python vs Javascript](https://dev.to/jwhubert91/intro-to-python-day-10-basic-operators-in-python-vs-javascript-516m)
-- [Dev.to/JS] [Chrome Extension MV3 Template : Supabase Auth, Plasmo, Tailwinds CSS &amp; Shadcn UI](https://dev.to/remusris/chrome-extension-mv3-template-supabase-auth-plasmo-tailwinds-css-shadcn-ui-1m9)
-- [Dev.to/JS] [flow To react](https://dev.to/oivlisfriend/flowto-react-4i88)
-- [Dev.to/JS] [Learn Vue: List and Conditional Rendering.](https://dev.to/kingowisdom/learn-vue-list-and-conditional-rendering-203j)
 - [Lifehacker] [The Most Effective Ways to Flatten an Area Rug](https://lifehacker.com/the-most-effective-ways-to-flatten-an-area-rug-1850728842)
 - [Lifehacker] [Why You Shouldn&#39;t Use Dish Soap in Your Washing Machine](https://lifehacker.com/why-you-shouldnt-use-dish-soap-in-your-washing-machine-1850727932)
 - [Lifehacker] [How Winter Weather Will Affect Your Holiday Travel Plans This Year](https://lifehacker.com/how-winter-weather-will-affect-your-holiday-travel-plan-1850727933)
