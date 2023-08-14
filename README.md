@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CommonJs in simple language](https://dev.to/samluxtech/commonjs-in-simple-language-2im8)
+- [Dev.to/JS] [What is a Module?](https://dev.to/samluxtech/what-is-a-module-188h)
 - [Dev.to/JS] [Creating a Flexible Text Component in React](https://dev.to/bobby_the_creatr/creating-a-flexible-text-component-in-react-8h5)
 - [Dev.to/JS] [What are Microfrontends?](https://dev.to/jacobandrewsky/what-are-microfrontends-h17)
 - [Dev.to/JS] [Understanding the Role of Husky, ESLint and Prettier: Reasons for Adoption and Implementation Guidelines](https://dev.to/vinyldavyl/understanding-the-role-of-husky-eslint-and-prettier-reasons-for-adoption-and-implementation-guidelines-476j)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Chrome Extension MV3 Template : Supabase Auth, Plasmo, Tailwinds CSS &amp; Shadcn UI](https://dev.to/remusris/chrome-extension-mv3-template-supabase-auth-plasmo-tailwinds-css-shadcn-ui-1m9)
 - [Dev.to/JS] [flow To react](https://dev.to/oivlisfriend/flowto-react-4i88)
 - [Dev.to/JS] [Learn Vue: List and Conditional Rendering.](https://dev.to/kingowisdom/learn-vue-list-and-conditional-rendering-203j)
-- [Dev.to/JS] [No Framework - Eps#1: I am Bored!](https://dev.to/darkterminal/no-framework-eps1-i-am-bored-4ki)
-- [Dev.to/JS] [Building a REST API with Deno and Hono.js: A Step-by-Step Guide](https://dev.to/franciscomendes10866/building-a-rest-api-with-deno-and-honojs-a-step-by-step-guide-48ed)
 - [Lifehacker] [The Most Effective Ways to Flatten an Area Rug](https://lifehacker.com/the-most-effective-ways-to-flatten-an-area-rug-1850728842)
 - [Lifehacker] [Why You Shouldn&#39;t Use Dish Soap in Your Washing Machine](https://lifehacker.com/why-you-shouldnt-use-dish-soap-in-your-washing-machine-1850727932)
 - [Lifehacker] [How Winter Weather Will Affect Your Holiday Travel Plans This Year](https://lifehacker.com/how-winter-weather-will-affect-your-holiday-travel-plan-1850727933)
