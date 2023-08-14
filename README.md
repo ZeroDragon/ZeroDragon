@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Build a Hidden Cupboard Into a Wall](https://lifehacker.com/you-can-build-a-hidden-cupboard-into-a-wall-1850734067)
+- [Dev.to/JS] [Unlocking the Power of Functional Programming in JavaScript: A Comprehensive Guide](https://dev.to/urstrulyvishwak/unlocking-the-power-of-functional-programming-in-javascript-a-comprehensive-guide-fbk)
+- [Lifehacker] [20 Prime Video Original TV Shows You Should Be Watching](https://lifehacker.com/best-prime-video-original-tv-series-1850733503)
+- [Dev.to/JS] [How to pass parameters from child commponent to parent component in React?](https://dev.to/saurav181229/how-to-pass-parameters-from-child-commponent-to-parent-component-in-react-9im)
+- [Lifehacker] [Why You Should Pre-Smash Your Burgers](https://lifehacker.com/why-you-should-pre-smash-your-burgers-1832966230)
+- [Lifehacker] [I Hereby Declare This the Mac and Cheese of the Summer](https://lifehacker.com/i-hereby-declare-this-the-mac-and-cheese-of-the-summer-1850735380)
 - [Dev.to/JS] [Simplifying Database Backup and Restore with Easy Automation](https://dev.to/jacksonkasi/simplifying-database-backup-and-restore-with-easy-automation-1h01)
 - [Dev.to/JS] [TED](https://dev.to/marcuniversel11/ted-23i)
 - [Lifehacker] [Set These Boundaries With an Overly Affectionate Child](https://lifehacker.com/set-these-boundaries-with-an-overly-affectionate-child-1850678924)
@@ -36,13 +42,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Implement User Registration and Email Verification in React](https://dev.to/sammychris/how-to-implement-user-registration-and-email-verification-in-react-1map)
 - [Lifehacker] [The Radrunner 3 Plus Is the SUV of E-Bikes](https://lifehacker.com/the-radrunner-3-plus-is-the-suv-of-e-bikes-1850729199)
 - [Dev.to/JS] [WebAssembly: byte-code of the future](https://dev.to/joshnuss/webassembly-byte-code-of-the-future-402p)
-- [Dev.to/JS] [Sliding Buttons JS](https://dev.to/inancakduvan/sliding-buttons-js-4jp0)
 - [Lifehacker] [Place NFC Tags in Your Home to Automate Daily Routines](https://lifehacker.com/place-nfc-tags-in-your-home-to-automate-daily-routines-1850725431)
 - [Dev.to/JS] [Repetition can make you loopy!: Intro to JavaScript Loops](https://dev.to/danielj/repetition-can-make-you-loopy-intro-to-javascript-loops-11o4)
 - [Dev.to/JS] [Learn Vue: Introduction to Vue.js](https://dev.to/kingowisdom/learn-vue-introduction-to-vuejs-m13)
 - [Dev.to/JS] [Day 25: Memory](https://dev.to/dhrn/day-25-memory-2n4n)
 - [Lifehacker] [This Wemax Go Projector and Screen Is $230 Right Now](https://lifehacker.com/this-wemax-go-projector-and-screen-is-230-right-now-1850729728)
-- [Dev.to/JS] [🤖 We asked AI to imagine web frameworks as superheroes 🦸‍♂️ 🦾](https://dev.to/matijasos/we-asked-ai-to-imagine-web-frameworks-as-superheroes-p0j)
 - [Lifehacker] [What It Means to Be a ‘Twice Exceptional’ Kid &lpar;and How to Support Them&rpar;](https://lifehacker.com/what-it-means-to-be-a-twice-exceptional-kid-and-how-1850733520)
 - [Lifehacker] [Every Step You Should Take Now to Prepare for a Climate Disaster Evacuation](https://lifehacker.com/every-step-you-should-take-now-to-prepare-for-a-climate-1850730314)
 - [Lifehacker] [The Best Toys for Your Autistic Child](https://lifehacker.com/the-best-toys-for-your-autistic-child-1850726928)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These HD Digital Camera Binoculars Are $120 Right Now](https://lifehacker.com/these-hd-digital-camera-binoculars-are-120-right-now-1850729352)
 - [Lifehacker] [ChatGPT’s ‘Custom Instructions’ Are Free for Everyone Now](https://lifehacker.com/chatgpt-s-custom-instructions-are-free-for-everyone-n-1850730171)
 - [Lifehacker] [Get More Done With the ‘3-3-3 Method’](https://lifehacker.com/get-more-done-with-the-3-3-3-method-1850729849)
-- [Lifehacker] [Prepare Your Dog for an Extended Separation](https://lifehacker.com/how-to-prepare-your-dog-for-an-extended-separation-1848601512)
-- [Lifehacker] [You Can Get Rosetta Stone and StackSkills for $160 Through This Weekend](https://lifehacker.com/you-can-get-rosetta-stone-and-stackskills-for-160-thro-1850722424)
-- [Lifehacker] [How to Not Get Pickpocketed](https://lifehacker.com/how-to-not-get-pickpocketed-1850729435)
-- [Lifehacker] [Your Android Now Knows When an AirTag Is Tracking You](https://lifehacker.com/your-android-now-knows-when-an-airtag-is-tracking-you-1850729228)
-- [Lifehacker] [Don&#39;t Dismiss Your Kid&#39;s Clumsiness](https://lifehacker.com/dont-dismiss-your-kids-clumsiness-1850728871)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Prepare Your Dog for an Extended Separation](https://lifehacker.com/how-to-prepare-your-dog-for-an-extended-separation-1848601512)<!-- TECH-POSTS:END -->
 
 ---
 
