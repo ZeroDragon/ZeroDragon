@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Chrome Extension MV3 Template : Supabase Auth, Plasmo, Tailwinds CSS &amp; Shadcn UI](https://dev.to/remusris/chrome-extension-mv3-template-supabase-auth-plasmo-tailwinds-css-shadcn-ui-1m9)
+- [Dev.to/JS] [flow To react](https://dev.to/oivlisfriend/flowto-react-4i88)
 - [Dev.to/JS] [Learn Vue: List and Conditional Rendering.](https://dev.to/kingowisdom/learn-vue-list-and-conditional-rendering-203j)
 - [Dev.to/JS] [No Framework - Eps#1: I am Bored!](https://dev.to/darkterminal/no-framework-eps1-i-am-bored-4ki)
 - [Dev.to/JS] [Building a REST API with Deno and Hono.js: A Step-by-Step Guide](https://dev.to/franciscomendes10866/building-a-rest-api-with-deno-and-honojs-a-step-by-step-guide-48ed)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adding a Mailing List Subscription with Mailjet and Netlify Functions](https://dev.to/remotesynth/adding-a-mailing-list-subscription-with-mailjet-and-netlify-functions-986)
 - [Dev.to/JS] [Hobbyists in the Supply Chain](https://dev.to/latobibor/hobbyists-in-the-supply-chain-2gne)
 - [Dev.to/JS] [Understanding CDNs, DNS, and Edge Functions: A Simple Guide](https://dev.to/ritavdas/reacts-secret-weapon-synthetic-events-33gk)
-- [Dev.to/JS] [Advance Add Tags input with REACT JS](https://dev.to/krushnachandradash654/advance-add-tags-input-with-react-js-9gg)
 - [Lifehacker] [The Most Effective Ways to Flatten an Area Rug](https://lifehacker.com/the-most-effective-ways-to-flatten-an-area-rug-1850728842)
-- [Dev.to/JS] [Codemirror with Vue 2: Addons](https://dev.to/dinkarsharma/codemirror-with-vue-2-addons-4il9)
 - [Lifehacker] [Why You Shouldn&#39;t Use Dish Soap in Your Washing Machine](https://lifehacker.com/why-you-shouldnt-use-dish-soap-in-your-washing-machine-1850727932)
 - [Lifehacker] [How Winter Weather Will Affect Your Holiday Travel Plans This Year](https://lifehacker.com/how-winter-weather-will-affect-your-holiday-travel-plan-1850727933)
 - [Lifehacker] [The Best Plants to Put in Your Bedroom](https://lifehacker.com/the-best-plants-to-put-in-your-bedroom-1850727943)
