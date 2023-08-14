@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Custom Hook: useDeepCompareEffect](https://dev.to/sergeyleschev/react-custom-hook-usedeepcompareeffect-5d0c)
+- [Lifehacker] [You Need to Book a ‘Sleep Vacation’](https://lifehacker.com/you-need-to-book-a-sleep-vacation-1850735551)
+- [Dev.to/JS] [Smooth Scrolling with React &amp; Framer Motion](https://dev.to/ironcladdev/smooth-scrolling-with-react-framer-motion-dih)
+- [Lifehacker] [Use This SMART Goals Formula to Be More Productive](https://lifehacker.com/use-this-smart-goals-formula-to-be-more-productive-1850736205)
+- [Lifehacker] [This iPhone 14 Feature Can Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
 - [Lifehacker] [These Are the Best Books to Learn Better Time Management](https://lifehacker.com/these-are-the-best-books-to-learn-better-time-managemen-1850735972)
 - [Lifehacker] [Why &lpar;and When&rpar; You Should Get Both a COVID Shot and a Flu Shot This Fall](https://lifehacker.com/why-and-when-you-should-get-both-a-covid-shot-and-a-f-1850736032)
 - [Lifehacker] [This Recalled Nestlé Cookie Dough May Contain Wood Fragments](https://lifehacker.com/this-recalled-nestle-cookie-dough-may-contain-wood-frag-1850735654)
@@ -49,8 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Radrunner 3 Plus Is the SUV of E-Bikes](https://lifehacker.com/the-radrunner-3-plus-is-the-suv-of-e-bikes-1850729199)
 - [Dev.to/JS] [WebAssembly: byte-code of the future](https://dev.to/joshnuss/webassembly-byte-code-of-the-future-402p)
 - [Lifehacker] [Place NFC Tags in Your Home to Automate Daily Routines](https://lifehacker.com/place-nfc-tags-in-your-home-to-automate-daily-routines-1850725431)
-- [Dev.to/JS] [Repetition can make you loopy!: Intro to JavaScript Loops](https://dev.to/danielj/repetition-can-make-you-loopy-intro-to-javascript-loops-11o4)
-- [Dev.to/JS] [Learn Vue: Introduction to Vue.js](https://dev.to/kingowisdom/learn-vue-introduction-to-vuejs-m13)
 - [Lifehacker] [This Wemax Go Projector and Screen Is $230 Right Now](https://lifehacker.com/this-wemax-go-projector-and-screen-is-230-right-now-1850729728)
 - [Lifehacker] [What It Means to Be a ‘Twice Exceptional’ Kid &lpar;and How to Support Them&rpar;](https://lifehacker.com/what-it-means-to-be-a-twice-exceptional-kid-and-how-1850733520)
 - [Lifehacker] [Every Step You Should Take Now to Prepare for a Climate Disaster Evacuation](https://lifehacker.com/every-step-you-should-take-now-to-prepare-for-a-climate-1850730314)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Plants to Put in Your Bedroom](https://lifehacker.com/the-best-plants-to-put-in-your-bedroom-1850727943)
 - [Lifehacker] [That Baking Soda in Your Fridge Probably Isn&#39;t Doing Much](https://lifehacker.com/that-baking-soda-in-your-fridge-probably-isnt-doing-muc-1850727949)
 - [Lifehacker] [Ask Yourself These Questions When Dealing With Uncertain Situations](https://lifehacker.com/ask-yourself-these-questions-when-dealing-with-uncertai-1850728813)
-- [Lifehacker] [Coasting in Neutral Doesn&#39;t Actually Save Gas](https://lifehacker.com/coasting-in-neutral-doesnt-actually-save-gas-1850727931)
-- [Lifehacker] [The Best Books to Help You Build a Great Career](https://lifehacker.com/the-best-books-to-help-you-build-a-great-career-1850730311)
-- [Lifehacker] [These Plugin Pest Control Traps Actually Work](https://lifehacker.com/these-plugin-pest-control-traps-actually-work-1850730363)
-- [Lifehacker] [Use These Phrases When Negotiating Your Salary](https://lifehacker.com/use-these-phrases-when-negotiating-your-salary-1850728857)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Coasting in Neutral Doesn&#39;t Actually Save Gas](https://lifehacker.com/coasting-in-neutral-doesnt-actually-save-gas-1850727931)<!-- TECH-POSTS:END -->
 
 ---
 
