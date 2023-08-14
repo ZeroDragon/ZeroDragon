@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Every Step You Should Take Now to Prepare for a Climate Disaster Evacuation](https://lifehacker.com/every-step-you-should-take-now-to-prepare-for-a-climate-1850730314)
+- [Lifehacker] [The Best Toys for Your Autistic Child](https://lifehacker.com/the-best-toys-for-your-autistic-child-1850726928)
+- [Dev.to/JS] [🔥 2 TRICKS 🔥 to build a Meetup.com clone with React in 30 minutes 🪄✨](https://dev.to/novu/2-tricks-to-build-a-meetupcom-clone-with-react-in-30-minutes-9hm)
+- [Lifehacker] [This Refurbished iPad Pro Is $270 Right Now](https://lifehacker.com/this-refurbished-ipad-pro-is-270-right-now-1850729831)
 - [Dev.to/JS] [Are you using expo-updates?](https://dev.to/marcin_codes/are-you-using-expo-updates-1oa6)
 - [Dev.to/JS] [Best Express JS Routing For Multiple WebPages](https://dev.to/yubaeloualidi/best-express-js-routing-for-multiple-webpages-9nf)
 - [Dev.to/JS] [Swiper Slider with Filter and 2 columns](https://dev.to/krzwt/swiper-slider-filter-with-2-columns-3dbp)
@@ -37,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is a Render Prop in React? How Does it Work?](https://dev.to/fazle-rabbi-dev/what-is-a-render-prop-in-react-how-does-it-work-1c5p)
 - [Dev.to/JS] [What&#39;s new in Novu 0.17.0?](https://dev.to/novu/whats-new-in-novu-0170-g2e)
 - [Dev.to/JS] [10 Tips for Writing Effective JavaScript Code](https://dev.to/anii1429/10-tips-for-writing-effective-javascript-code-2o5n)
-- [Dev.to/JS] [Why You Shouldn’t Learn JavaScript?](https://dev.to/devland/why-you-shouldnt-learn-javascript-3ela)
 - [Lifehacker] [The Most Effective Ways to Flatten an Area Rug](https://lifehacker.com/the-most-effective-ways-to-flatten-an-area-rug-1850728842)
 - [Lifehacker] [Why You Shouldn&#39;t Use Dish Soap in Your Washing Machine](https://lifehacker.com/why-you-shouldnt-use-dish-soap-in-your-washing-machine-1850727932)
 - [Lifehacker] [How Winter Weather Will Affect Your Holiday Travel Plans This Year](https://lifehacker.com/how-winter-weather-will-affect-your-holiday-travel-plan-1850727933)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Cheaper Ways to Add Square Footage to Your House](https://lifehacker.com/cheap-ways-to-add-square-footage-to-your-house-1850728905)
 - [Lifehacker] [You Can Stop Your Neighbor&#39;s Dog From Barking Incessantly](https://lifehacker.com/how-to-get-your-neighbor-s-dog-to-stop-barking-incessan-1792297205)
 - [Lifehacker] [This 2018 iPad Bundle Is $200 Right Now](https://lifehacker.com/this-2018-ipad-bundle-is-200-right-now-1850722369)
-- [Lifehacker] [&#39;Web Roulette!&#39; Is an Addictive Browser for Your iPhone](https://lifehacker.com/web-roulette-is-an-addictive-browser-for-your-iphone-1850728408)
-- [Lifehacker] [Tofu Freaking Rules](https://lifehacker.com/tofu-freaking-rules-1843024412)
-- [Lifehacker] [Use a ‘Date-Me Doc’ to Help You Find a Serious Relationship](https://lifehacker.com/use-a-date-me-doc-to-help-you-find-a-serious-relation-1850727682)
-- [Lifehacker] [Save Yourself From the Next ‘Jalapeño Gate’](https://lifehacker.com/save-yourself-from-the-next-jalapeno-gate-1850726199)<!-- TECH-POSTS:END -->
+- [Lifehacker] [&#39;Web Roulette!&#39; Is an Addictive Browser for Your iPhone](https://lifehacker.com/web-roulette-is-an-addictive-browser-for-your-iphone-1850728408)<!-- TECH-POSTS:END -->
 
 ---
 
