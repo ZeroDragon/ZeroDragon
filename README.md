@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding the Role of Husky, ESLint and Prettier: Reasons for Adoption and Implementation Guidelines](https://dev.to/vinyldavyl/understanding-the-role-of-husky-eslint-and-prettier-reasons-for-adoption-and-implementation-guidelines-476j)
+- [Dev.to/JS] [Getting Started with Svelte: A Refreshingly Different Approach to Web Development](https://dev.to/ironside/getting-started-with-svelte-a-refreshingly-different-approach-to-web-development-35j1)
 - [Dev.to/JS] [Mastering React Animations: Bringing Your UI to Life](https://dev.to/syedaeanjum/mastering-react-animations-bringing-your-ui-to-life-5fj5)
 - [Dev.to/JS] [Beginner&#39;s Guide to IPFS](https://dev.to/electromorphous/beginners-guide-to-ipfs-3h7k)
 - [Dev.to/JS] [Intro to Python: Day 10 - Basic Operators in Python vs Javascript](https://dev.to/jwhubert91/intro-to-python-day-10-basic-operators-in-python-vs-javascript-516m)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a REST API with Deno and Hono.js: A Step-by-Step Guide](https://dev.to/franciscomendes10866/building-a-rest-api-with-deno-and-honojs-a-step-by-step-guide-48ed)
 - [Dev.to/JS] [HTMLCollection VS NodeList](https://dev.to/shafia/htmlcollection-vs-nodelist-4b4f)
 - [Dev.to/JS] [React Custom Hook: useDebugInformation](https://dev.to/sergeyleschev/react-custom-hook-usedebuginformation-431e)
-- [Dev.to/JS] [Check if any audio is playing with JS](https://dev.to/devcodef1/check-if-any-audio-is-playing-with-js-4kji)
-- [Dev.to/JS] [Throttling and Debouncing - Explained](https://dev.to/aneeqakhan/throttling-and-debouncing-explained-1ocb)
 - [Lifehacker] [The Most Effective Ways to Flatten an Area Rug](https://lifehacker.com/the-most-effective-ways-to-flatten-an-area-rug-1850728842)
 - [Lifehacker] [Why You Shouldn&#39;t Use Dish Soap in Your Washing Machine](https://lifehacker.com/why-you-shouldnt-use-dish-soap-in-your-washing-machine-1850727932)
 - [Lifehacker] [How Winter Weather Will Affect Your Holiday Travel Plans This Year](https://lifehacker.com/how-winter-weather-will-affect-your-holiday-travel-plan-1850727933)
