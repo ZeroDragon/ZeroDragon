@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to make a horizontal moving carousel with Vanilla JS &amp; TS](https://dev.to/min11benja/how-to-make-a-horizontal-moving-carousel-with-vanilla-js-ts-elc)
+- [Lifehacker] [Beeper Isn&#39;t a Safe Solution for iMessaging on Android](https://lifehacker.com/beeper-isnt-a-safe-solution-for-imessaging-on-android-1850734981)
+- [Lifehacker] [How to Pack Your Whole Vacation Into a &#39;Personal Item&#39;](https://lifehacker.com/how-to-pack-your-whole-vacation-into-a-personal-item-1797207564)
 - [Lifehacker] [You Can Build a Hidden Cupboard Into a Wall](https://lifehacker.com/you-can-build-a-hidden-cupboard-into-a-wall-1850734067)
 - [Dev.to/JS] [Unlocking the Power of Functional Programming in JavaScript: A Comprehensive Guide](https://dev.to/urstrulyvishwak/unlocking-the-power-of-functional-programming-in-javascript-a-comprehensive-guide-fbk)
 - [Lifehacker] [20 Prime Video Original TV Shows You Should Be Watching](https://lifehacker.com/best-prime-video-original-tv-series-1850733503)
@@ -45,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Place NFC Tags in Your Home to Automate Daily Routines](https://lifehacker.com/place-nfc-tags-in-your-home-to-automate-daily-routines-1850725431)
 - [Dev.to/JS] [Repetition can make you loopy!: Intro to JavaScript Loops](https://dev.to/danielj/repetition-can-make-you-loopy-intro-to-javascript-loops-11o4)
 - [Dev.to/JS] [Learn Vue: Introduction to Vue.js](https://dev.to/kingowisdom/learn-vue-introduction-to-vuejs-m13)
-- [Dev.to/JS] [Day 25: Memory](https://dev.to/dhrn/day-25-memory-2n4n)
 - [Lifehacker] [This Wemax Go Projector and Screen Is $230 Right Now](https://lifehacker.com/this-wemax-go-projector-and-screen-is-230-right-now-1850729728)
 - [Lifehacker] [What It Means to Be a ‘Twice Exceptional’ Kid &lpar;and How to Support Them&rpar;](https://lifehacker.com/what-it-means-to-be-a-twice-exceptional-kid-and-how-1850733520)
 - [Lifehacker] [Every Step You Should Take Now to Prepare for a Climate Disaster Evacuation](https://lifehacker.com/every-step-you-should-take-now-to-prepare-for-a-climate-1850730314)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use These Phrases When Negotiating Your Salary](https://lifehacker.com/use-these-phrases-when-negotiating-your-salary-1850728857)
 - [Lifehacker] [Cram Your Summer Veggies Into a Waffle](https://lifehacker.com/cram-your-summer-veggies-into-a-waffle-1850729035)
 - [Lifehacker] [These HD Digital Camera Binoculars Are $120 Right Now](https://lifehacker.com/these-hd-digital-camera-binoculars-are-120-right-now-1850729352)
-- [Lifehacker] [ChatGPT’s ‘Custom Instructions’ Are Free for Everyone Now](https://lifehacker.com/chatgpt-s-custom-instructions-are-free-for-everyone-n-1850730171)
-- [Lifehacker] [Get More Done With the ‘3-3-3 Method’](https://lifehacker.com/get-more-done-with-the-3-3-3-method-1850729849)
-- [Lifehacker] [Prepare Your Dog for an Extended Separation](https://lifehacker.com/how-to-prepare-your-dog-for-an-extended-separation-1848601512)<!-- TECH-POSTS:END -->
+- [Lifehacker] [ChatGPT’s ‘Custom Instructions’ Are Free for Everyone Now](https://lifehacker.com/chatgpt-s-custom-instructions-are-free-for-everyone-n-1850730171)<!-- TECH-POSTS:END -->
 
 ---
 
