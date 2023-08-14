@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Books to Learn Better Time Management](https://lifehacker.com/these-are-the-best-books-to-learn-better-time-managemen-1850735972)
+- [Lifehacker] [Why &lpar;and When&rpar; You Should Get Both a COVID Shot and a Flu Shot This Fall](https://lifehacker.com/why-and-when-you-should-get-both-a-covid-shot-and-a-f-1850736032)
+- [Lifehacker] [This Recalled Nestlé Cookie Dough May Contain Wood Fragments](https://lifehacker.com/this-recalled-nestle-cookie-dough-may-contain-wood-frag-1850735654)
 - [Dev.to/JS] [How to make a horizontal moving carousel with Vanilla JS &amp; TS](https://dev.to/min11benja/how-to-make-a-horizontal-moving-carousel-with-vanilla-js-ts-elc)
 - [Lifehacker] [Beeper Isn&#39;t a Safe Solution for iMessaging on Android](https://lifehacker.com/beeper-isnt-a-safe-solution-for-imessaging-on-android-1850734981)
 - [Lifehacker] [How to Pack Your Whole Vacation Into a &#39;Personal Item&#39;](https://lifehacker.com/how-to-pack-your-whole-vacation-into-a-personal-item-1797207564)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Coasting in Neutral Doesn&#39;t Actually Save Gas](https://lifehacker.com/coasting-in-neutral-doesnt-actually-save-gas-1850727931)
 - [Lifehacker] [The Best Books to Help You Build a Great Career](https://lifehacker.com/the-best-books-to-help-you-build-a-great-career-1850730311)
 - [Lifehacker] [These Plugin Pest Control Traps Actually Work](https://lifehacker.com/these-plugin-pest-control-traps-actually-work-1850730363)
-- [Lifehacker] [Use These Phrases When Negotiating Your Salary](https://lifehacker.com/use-these-phrases-when-negotiating-your-salary-1850728857)
-- [Lifehacker] [Cram Your Summer Veggies Into a Waffle](https://lifehacker.com/cram-your-summer-veggies-into-a-waffle-1850729035)
-- [Lifehacker] [These HD Digital Camera Binoculars Are $120 Right Now](https://lifehacker.com/these-hd-digital-camera-binoculars-are-120-right-now-1850729352)
-- [Lifehacker] [ChatGPT’s ‘Custom Instructions’ Are Free for Everyone Now](https://lifehacker.com/chatgpt-s-custom-instructions-are-free-for-everyone-n-1850730171)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use These Phrases When Negotiating Your Salary](https://lifehacker.com/use-these-phrases-when-negotiating-your-salary-1850728857)<!-- TECH-POSTS:END -->
 
 ---
 
