@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering React Animations: Bringing Your UI to Life](https://dev.to/syedaeanjum/mastering-react-animations-bringing-your-ui-to-life-5fj5)
+- [Dev.to/JS] [Beginner&#39;s Guide to IPFS](https://dev.to/electromorphous/beginners-guide-to-ipfs-3h7k)
+- [Dev.to/JS] [Intro to Python: Day 10 - Basic Operators in Python vs Javascript](https://dev.to/jwhubert91/intro-to-python-day-10-basic-operators-in-python-vs-javascript-516m)
 - [Dev.to/JS] [Chrome Extension MV3 Template : Supabase Auth, Plasmo, Tailwinds CSS &amp; Shadcn UI](https://dev.to/remusris/chrome-extension-mv3-template-supabase-auth-plasmo-tailwinds-css-shadcn-ui-1m9)
 - [Dev.to/JS] [flow To react](https://dev.to/oivlisfriend/flowto-react-4i88)
 - [Dev.to/JS] [Learn Vue: List and Conditional Rendering.](https://dev.to/kingowisdom/learn-vue-list-and-conditional-rendering-203j)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Custom Hook: useDebugInformation](https://dev.to/sergeyleschev/react-custom-hook-usedebuginformation-431e)
 - [Dev.to/JS] [Check if any audio is playing with JS](https://dev.to/devcodef1/check-if-any-audio-is-playing-with-js-4kji)
 - [Dev.to/JS] [Throttling and Debouncing - Explained](https://dev.to/aneeqakhan/throttling-and-debouncing-explained-1ocb)
-- [Dev.to/JS] [Adding a Mailing List Subscription with Mailjet and Netlify Functions](https://dev.to/remotesynth/adding-a-mailing-list-subscription-with-mailjet-and-netlify-functions-986)
-- [Dev.to/JS] [Hobbyists in the Supply Chain](https://dev.to/latobibor/hobbyists-in-the-supply-chain-2gne)
-- [Dev.to/JS] [Understanding CDNs, DNS, and Edge Functions: A Simple Guide](https://dev.to/ritavdas/reacts-secret-weapon-synthetic-events-33gk)
 - [Lifehacker] [The Most Effective Ways to Flatten an Area Rug](https://lifehacker.com/the-most-effective-ways-to-flatten-an-area-rug-1850728842)
 - [Lifehacker] [Why You Shouldn&#39;t Use Dish Soap in Your Washing Machine](https://lifehacker.com/why-you-shouldnt-use-dish-soap-in-your-washing-machine-1850727932)
 - [Lifehacker] [How Winter Weather Will Affect Your Holiday Travel Plans This Year](https://lifehacker.com/how-winter-weather-will-affect-your-holiday-travel-plan-1850727933)
