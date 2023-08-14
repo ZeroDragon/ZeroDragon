@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Are you using expo-updates?](https://dev.to/marcin_codes/are-you-using-expo-updates-1oa6)
+- [Dev.to/JS] [Best Express JS Routing For Multiple WebPages](https://dev.to/yubaeloualidi/best-express-js-routing-for-multiple-webpages-9nf)
+- [Dev.to/JS] [Swiper Slider with Filter and 2 columns](https://dev.to/krzwt/swiper-slider-filter-with-2-columns-3dbp)
 - [Dev.to/JS] [Full Stack Airbnb Clone with Next.js, Tailwind CSS, Zustand and Amplication](https://dev.to/koolkishan/full-stack-airbnb-clone-with-nextjs-tailwind-css-zustand-and-amplication-125b)
 - [Dev.to/JS] [Clustering with R Programming](https://dev.to/anvilicious/clustering-with-r-programming-1jmk)
 - [Dev.to/JS] [Join us for Hack Together: JavaScript on Azure Global Hack from Aug 16 - 31, 2023](https://dev.to/azure/join-us-for-hack-together-javascript-on-azure-global-hack-from-aug-16-31-2023-oc7)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s new in Novu 0.17.0?](https://dev.to/novu/whats-new-in-novu-0170-g2e)
 - [Dev.to/JS] [10 Tips for Writing Effective JavaScript Code](https://dev.to/anii1429/10-tips-for-writing-effective-javascript-code-2o5n)
 - [Dev.to/JS] [Why You Shouldn’t Learn JavaScript?](https://dev.to/devland/why-you-shouldnt-learn-javascript-3ela)
-- [Dev.to/JS] [Faunadb: The Modern Database for Developers](https://dev.to/kalashin1/faunadb-the-modern-database-for-developers-3ok2)
-- [Dev.to/JS] [Multithreading in javascript: Introduction to Web Workers](https://dev.to/oggy107/multithreading-in-javascript-introduction-to-web-workers-4g31)
-- [Dev.to/JS] [Mastering Rust&#39;s Ownership: The Key to Memory Safety and Efficiency](https://dev.to/charles_lukes/mastering-rusts-ownership-the-key-to-memory-safety-and-efficiency-124n)
 - [Lifehacker] [The Most Effective Ways to Flatten an Area Rug](https://lifehacker.com/the-most-effective-ways-to-flatten-an-area-rug-1850728842)
 - [Lifehacker] [Why You Shouldn&#39;t Use Dish Soap in Your Washing Machine](https://lifehacker.com/why-you-shouldnt-use-dish-soap-in-your-washing-machine-1850727932)
 - [Lifehacker] [How Winter Weather Will Affect Your Holiday Travel Plans This Year](https://lifehacker.com/how-winter-weather-will-affect-your-holiday-travel-plan-1850727933)
