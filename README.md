@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Wemax Go Projector and Screen Is $230 Right Now](https://lifehacker.com/this-wemax-go-projector-and-screen-is-230-right-now-1850729728)
+- [Dev.to/JS] [🤖 We asked AI to imagine web frameworks as superheroes 🦸‍♂️ 🦾](https://dev.to/matijasos/we-asked-ai-to-imagine-web-frameworks-as-superheroes-p0j)
+- [Lifehacker] [What It Means to Be a ‘Twice Exceptional’ Kid &lpar;and How to Support Them&rpar;](https://lifehacker.com/what-it-means-to-be-a-twice-exceptional-kid-and-how-1850733520)
+- [Dev.to/JS] [altogelz](https://dev.to/altogelz/altogelz-23h3)
+- [Dev.to/JS] [The Advantages of the Vue.js-based Quasar Framework for Professional Software Development](https://dev.to/josunlp/the-advantages-of-the-vuejs-based-quasar-framework-for-professional-software-development-2fo)
+- [Dev.to/JS] [Step by Step Guide: Migrating v3 to v4 programming model for Azure Functions for Node.Js Application](https://dev.to/azure/step-by-step-guide-migrating-v3-to-v4-programming-model-for-azure-functions-for-nodejs-application-dbn)
+- [Dev.to/JS] [Profile Search on JavaScript outputting undefined](https://dev.to/devcodef1/profile-search-on-javascript-outputting-undefined-laa)
+- [Dev.to/JS] [Navigating the Digital Restaurant: A Taste of Authentication and Authorization in JavaScript](https://dev.to/madhavigaikwad/navigating-the-digital-restaurant-a-taste-of-authentication-and-authorization-in-javascript-2li7)
 - [Lifehacker] [Every Step You Should Take Now to Prepare for a Climate Disaster Evacuation](https://lifehacker.com/every-step-you-should-take-now-to-prepare-for-a-climate-1850730314)
 - [Lifehacker] [The Best Toys for Your Autistic Child](https://lifehacker.com/the-best-toys-for-your-autistic-child-1850726928)
 - [Dev.to/JS] [🔥 2 TRICKS 🔥 to build a Meetup.com clone with React in 30 minutes 🪄✨](https://dev.to/novu/2-tricks-to-build-a-meetupcom-clone-with-react-in-30-minutes-9hm)
@@ -35,12 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Swiper Slider with Filter and 2 columns](https://dev.to/krzwt/swiper-slider-filter-with-2-columns-3dbp)
 - [Dev.to/JS] [Full Stack Airbnb Clone with Next.js, Tailwind CSS, Zustand and Amplication](https://dev.to/koolkishan/full-stack-airbnb-clone-with-nextjs-tailwind-css-zustand-and-amplication-125b)
 - [Dev.to/JS] [Clustering with R Programming](https://dev.to/anvilicious/clustering-with-r-programming-1jmk)
-- [Dev.to/JS] [Join us for Hack Together: JavaScript on Azure Global Hack from Aug 16 - 31, 2023](https://dev.to/azure/join-us-for-hack-together-javascript-on-azure-global-hack-from-aug-16-31-2023-oc7)
-- [Dev.to/JS] [Javascript dumbed down guide part two](https://dev.to/shawn2208/javascript-dumbed-down-guide-part-two-4jno)
-- [Dev.to/JS] [Creating native modals with the dialog element](https://dev.to/douglasdemoura/creating-native-modals-with-the-dialog-element-162j)
-- [Dev.to/JS] [What is a Render Prop in React? How Does it Work?](https://dev.to/fazle-rabbi-dev/what-is-a-render-prop-in-react-how-does-it-work-1c5p)
-- [Dev.to/JS] [What&#39;s new in Novu 0.17.0?](https://dev.to/novu/whats-new-in-novu-0170-g2e)
-- [Dev.to/JS] [10 Tips for Writing Effective JavaScript Code](https://dev.to/anii1429/10-tips-for-writing-effective-javascript-code-2o5n)
 - [Lifehacker] [The Most Effective Ways to Flatten an Area Rug](https://lifehacker.com/the-most-effective-ways-to-flatten-an-area-rug-1850728842)
 - [Lifehacker] [Why You Shouldn&#39;t Use Dish Soap in Your Washing Machine](https://lifehacker.com/why-you-shouldnt-use-dish-soap-in-your-washing-machine-1850727932)
 - [Lifehacker] [How Winter Weather Will Affect Your Holiday Travel Plans This Year](https://lifehacker.com/how-winter-weather-will-affect-your-holiday-travel-plan-1850727933)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You&#39;re Going to Get Caught Skiplagging, and It’s Not Going to Be Pretty](https://lifehacker.com/youre-going-to-get-caught-skiplagging-and-it-s-not-goi-1849041104)
 - [Lifehacker] [This Might Be the Quickest Way to Roast Peppers](https://lifehacker.com/this-might-be-the-quickest-way-to-roast-peppers-1850728483)
 - [Lifehacker] [Five Cheaper Ways to Add Square Footage to Your House](https://lifehacker.com/cheap-ways-to-add-square-footage-to-your-house-1850728905)
-- [Lifehacker] [You Can Stop Your Neighbor&#39;s Dog From Barking Incessantly](https://lifehacker.com/how-to-get-your-neighbor-s-dog-to-stop-barking-incessan-1792297205)
-- [Lifehacker] [This 2018 iPad Bundle Is $200 Right Now](https://lifehacker.com/this-2018-ipad-bundle-is-200-right-now-1850722369)
-- [Lifehacker] [&#39;Web Roulette!&#39; Is an Addictive Browser for Your iPhone](https://lifehacker.com/web-roulette-is-an-addictive-browser-for-your-iphone-1850728408)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Stop Your Neighbor&#39;s Dog From Barking Incessantly](https://lifehacker.com/how-to-get-your-neighbor-s-dog-to-stop-barking-incessan-1792297205)<!-- TECH-POSTS:END -->
 
 ---
 
