@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When to Snitch on a Coworker &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-snitch-on-a-coworker-and-when-not-to-1850739817)
+- [Lifehacker] [You Can Replace Your Roof Yourself, But You Shouldn’t](https://lifehacker.com/you-can-replace-your-roof-yourself-but-you-shouldn-t-1850739430)
+- [Lifehacker] [The Best Books to Help You Find Work-Life Balance](https://lifehacker.com/the-best-books-to-help-you-find-work-life-balance-1850739067)
 - [Dev.to/JS] [Unmasking QuickBooks Error 6144 82 Causes and Remedies](https://dev.to/qbdataservice/unmasking-quickbooks-error-6144-82-causes-and-remedies-5g6g)
 - [Dev.to/JS] [The Reality of Functions](https://dev.to/cmleary/the-reality-of-functions-2l7k)
 - [Dev.to/JS] [Finally, I made it OpenSource. Postman Alternative](https://dev.to/nishchit14/finally-i-made-it-opensource-postman-alternative-1a1c)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This iPhone 14 Feature Can Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
 - [Lifehacker] [These Are the Best Books to Learn Better Time Management](https://lifehacker.com/these-are-the-best-books-to-learn-better-time-managemen-1850735972)
 - [Lifehacker] [Why &lpar;and When&rpar; You Should Get Both a COVID Shot and a Flu Shot This Fall](https://lifehacker.com/why-and-when-you-should-get-both-a-covid-shot-and-a-f-1850736032)
-- [Lifehacker] [This Recalled Nestlé Cookie Dough May Contain Wood Fragments](https://lifehacker.com/this-recalled-nestle-cookie-dough-may-contain-wood-frag-1850735654)
-- [Lifehacker] [Beeper Isn&#39;t a Safe Solution for iMessaging on Android](https://lifehacker.com/beeper-isnt-a-safe-solution-for-imessaging-on-android-1850734981)
-- [Lifehacker] [How to Pack Your Whole Vacation Into a &#39;Personal Item&#39;](https://lifehacker.com/how-to-pack-your-whole-vacation-into-a-personal-item-1797207564)
-- [Lifehacker] [You Can Build a Hidden Cupboard Into a Wall](https://lifehacker.com/you-can-build-a-hidden-cupboard-into-a-wall-1850734067)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Recalled Nestlé Cookie Dough May Contain Wood Fragments](https://lifehacker.com/this-recalled-nestle-cookie-dough-may-contain-wood-frag-1850735654)<!-- TECH-POSTS:END -->
 
 ---
 
