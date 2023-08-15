@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [print pdf in iPad safari / chrome using pdfmake](https://dev.to/srinivasan_govindaswamy_c/print-pdf-in-ipad-safari-chrome-using-pdfmake-4fje)
 - [Dev.to/JS] [PyGWalker with DuckDB is all you need for large data exploration](https://dev.to/observedobserver/pygwalker-with-duckdb-is-all-you-need-for-large-data-exploration-37l8)
 - [Dev.to/JS] [Building a Trello Clone with Bryntum TaskBoard](https://dev.to/bryntum/building-a-trello-clone-with-bryntum-taskboard-5764)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Aug 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-aug-2023-4445)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering JavaScript Code Quality: 10 Essential Tips with Examples](https://dev.to/anii1429/mastering-javascript-code-quality-10-essential-tips-with-examples-273o)
 - [Dev.to/JS] [Intro to React-native](https://dev.to/anxbt/intro-to-react-native-5egp)
 - [Dev.to/JS] [Managing State with the setState Method in React](https://dev.to/the2minengineer/managing-state-with-the-setstate-method-in-react-2e6k)
-- [Dev.to/JS] [Open Source: Strapi v4 - Formula field](https://dev.to/borysshulyak/open-source-strapi-v4-formula-field-46jd)
 - [Lifehacker] [Why Tubi Is the Greatest Streaming Service Ever](https://lifehacker.com/what-is-tubi-and-how-to-watch-it-free-1850736811)
 - [Lifehacker] [The Best Back-to-School Tech Deals You Can Find Right Now](https://lifehacker.com/the-best-back-to-school-tech-deals-you-can-find-right-n-1850736643)
 - [Lifehacker] [The Difference Between Fish Sauce, Oyster Sauce, and Lobster Sauce &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-fish-sauce-oyster-sauce-and-lo-1850736536)
