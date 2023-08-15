@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js vs. React.js: Choosing the Right Framework for Your Web Projects](https://dev.to/sajeeb_me/nextjs-vs-reactjs-choosing-the-right-framework-for-your-web-projects-1hn)
+- [Dev.to/JS] [JavaScript Equality Operators: Demystifying == vs. === for Precise Comparisons](https://dev.to/iamcymentho/javascript-equality-operators-demystifying-vs-for-precise-comparisons-19bg)
+- [Dev.to/JS] [How to add multiple object and multiple image with nodejs, Mongodb, and react](https://dev.to/devcodef1/how-to-add-multiple-object-and-multiple-image-with-nodejs-mongodb-and-react-4pce)
+- [Dev.to/JS] [Mastering JavaScript Code Quality: 10 Essential Tips with Examples](https://dev.to/anii1429/mastering-javascript-code-quality-10-essential-tips-with-examples-273o)
 - [Dev.to/JS] [Intro to React-native](https://dev.to/anxbt/intro-to-react-native-5egp)
 - [Dev.to/JS] [Managing State with the setState Method in React](https://dev.to/the2minengineer/managing-state-with-the-setstate-method-in-react-2e6k)
 - [Dev.to/JS] [Open Source: Strapi v4 - Formula field](https://dev.to/borysshulyak/open-source-strapi-v4-formula-field-46jd)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The problem with Higher Order Array Functions &lpar;js&rpar;](https://dev.to/kamaaaal/the-problem-with-higher-order-array-function-js-41gf)
 - [Dev.to/JS] [Create a typescript utility library using Vite](https://dev.to/vinomanick/create-a-typescript-utility-library-using-vite-916)
 - [Dev.to/JS] [Modern way to create a react app using Vite - Part 3](https://dev.to/vinomanick/modern-way-to-create-a-react-app-using-vite-part-3-512d)
-- [Dev.to/JS] [Modern way to create a react app using Vite - Part 2](https://dev.to/vinomanick/modern-way-to-create-a-react-app-using-vite-part-2-1c5h)
-- [Dev.to/JS] [Modern way to create a react app using Vite - Part 1](https://dev.to/vinomanick/modern-way-to-create-a-react-app-using-vite-part-1-32ol)
-- [Dev.to/JS] [React micro-frontend in ember app](https://dev.to/vinomanick/react-micro-frontend-in-ember-app-21c9)
-- [Dev.to/JS] [Ways to accessible animation](https://dev.to/easyvipin/ways-to-accessible-animation-24dm)
 - [Lifehacker] [Why Tubi Is the Greatest Streaming Service Ever](https://lifehacker.com/what-is-tubi-and-how-to-watch-it-free-1850736811)
 - [Lifehacker] [The Best Back-to-School Tech Deals You Can Find Right Now](https://lifehacker.com/the-best-back-to-school-tech-deals-you-can-find-right-n-1850736643)
 - [Lifehacker] [The Difference Between Fish Sauce, Oyster Sauce, and Lobster Sauce &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-fish-sauce-oyster-sauce-and-lo-1850736536)
