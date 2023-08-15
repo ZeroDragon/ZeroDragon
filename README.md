@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting started with Express.JS &lpar;JavaScript&rpar;](https://dev.to/dumebii/getting-started-with-express-javascript-5142)
+- [Lifehacker] [This Turntable With Bluetooth Speakers Is $250 Right Now](https://lifehacker.com/this-turntable-with-bluetooth-speakers-is-250-right-no-1850730056)
+- [Lifehacker] [The Complete Guide to Never Getting Locked Out of Your Apartment Again](https://lifehacker.com/how-to-never-get-locked-out-of-your-apartment-again-1849146996)
+- [Dev.to/JS] [Mocker: Proxy Power for gRPC Development](https://dev.to/skyrampmia/mocker-proxy-power-for-grpc-development-gi7)
 - [Dev.to/JS] [Qwikify your Development with Nx](https://dev.to/nx/qwikify-your-development-with-nx-30cj)
 - [Lifehacker] [I Tested Runs With the Flipbelt and SPIbelt so You Don&#39;t Have To](https://lifehacker.com/i-tested-runs-with-the-flipbelt-and-spibelt-so-you-dont-1850737029)
 - [Dev.to/JS] [How to optimize your Storyblok app](https://dev.to/noblica/how-to-optimize-your-storyblok-app-55aa)
@@ -40,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Domino&#39;s Pizza for 50% Off This Week](https://lifehacker.com/you-can-get-dominos-pizza-for-50-off-this-week-1850738837)
 - [Dev.to/JS] [How to create a dynamic sitemap.xml for your Sveltekit app.](https://dev.to/n3rd/how-to-create-a-dynamic-sitemapxml-for-your-sveltekit-app-3c1f)
 - [Dev.to/JS] [JavaScript: Variables and Data types.](https://dev.to/fullstackjo/javascript-variables-and-data-types-76e)
-- [Dev.to/JS] [Things Svelte just do better!](https://dev.to/abdulmuminyqn/things-svelte-just-do-better-djn)
 - [Lifehacker] [The Best Smart Speakers You Can Buy Now for Under $100](https://lifehacker.com/5-smart-speakers-you-can-buy-now-for-under-100-1849912921)
-- [Dev.to/JS] [Building an Efficient MinStack in JavaScript🚀](https://dev.to/vikas2426/building-an-efficient-minstack-in-javascript-4c9i)
 - [Lifehacker] [This Older, Refurbished MacBook Pro Is $300 Right Now](https://lifehacker.com/this-older-refurbished-macbook-pro-is-300-right-now-1850730080)
 - [Lifehacker] [Program Your Smart Speaker to Automatically Play Music in Your Bathroom](https://lifehacker.com/program-your-smart-speaker-to-automatically-play-music-1850738085)
 - [Lifehacker] [These Tools Are on Sale at Lowe’s and Home Depot Right Now](https://lifehacker.com/these-tools-are-on-sale-at-lowe-s-and-home-depot-right-1850738105)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Pre-Smash Your Burgers](https://lifehacker.com/why-you-should-pre-smash-your-burgers-1832966230)
 - [Lifehacker] [I Hereby Declare This the Mac and Cheese of the Summer](https://lifehacker.com/i-hereby-declare-this-the-mac-and-cheese-of-the-summer-1850735380)
 - [Lifehacker] [Set These Boundaries With an Overly Affectionate Child](https://lifehacker.com/set-these-boundaries-with-an-overly-affectionate-child-1850678924)
-- [Lifehacker] [This Pop-Up Tent and Portable Mattress Is $400 Right Now](https://lifehacker.com/this-pop-up-tent-and-portable-mattress-is-400-right-no-1850729854)
-- [Lifehacker] [The Radrunner 3 Plus Is the SUV of E-Bikes](https://lifehacker.com/the-radrunner-3-plus-is-the-suv-of-e-bikes-1850729199)
-- [Lifehacker] [Place NFC Tags in Your Home to Automate Daily Routines](https://lifehacker.com/place-nfc-tags-in-your-home-to-automate-daily-routines-1850725431)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Pop-Up Tent and Portable Mattress Is $400 Right Now](https://lifehacker.com/this-pop-up-tent-and-portable-mattress-is-400-right-no-1850729854)<!-- TECH-POSTS:END -->
 
 ---
 
