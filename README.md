@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Here Are Signs That Someone You Know Is Under a Conservatorship](https://lifehacker.com/here-are-signs-that-someone-you-know-is-under-a-conserv-1850739532)
+- [Dev.to/JS] [Start coding...](https://dev.to/ericacao/start-coding-1p7e)
+- [Dev.to/JS] [SolidUI generates any graphics in one sentence, v0.2.0 function introduction](https://dev.to/dlimeng/solidui-generates-any-graphics-in-one-sentence-v020-function-introduction-1c87)
+- [Lifehacker] [Some Apps Are Hiding Your Sharing Options](https://lifehacker.com/some-apps-are-hiding-your-sharing-options-1850739204)
+- [Lifehacker] [The Secret to Making the Perfect Pasta Salad](https://lifehacker.com/imperfect-pasta-is-the-secret-to-perfect-pasta-salad-1834981171)
+- [Lifehacker] [This Is the Best Bread for Your BLT](https://lifehacker.com/this-is-the-best-bread-for-your-blt-1850739394)
 - [Dev.to/JS] [Getting started with Express.JS &lpar;JavaScript&rpar;](https://dev.to/dumebii/getting-started-with-express-javascript-5142)
 - [Lifehacker] [This Turntable With Bluetooth Speakers Is $250 Right Now](https://lifehacker.com/this-turntable-with-bluetooth-speakers-is-250-right-no-1850730056)
 - [Lifehacker] [The Complete Guide to Never Getting Locked Out of Your Apartment Again](https://lifehacker.com/how-to-never-get-locked-out-of-your-apartment-again-1849146996)
@@ -42,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Install Windows Without the Bloatware](https://lifehacker.com/you-can-install-windows-without-the-bloatware-1850738765)
 - [Dev.to/JS] [Day 26: Typed Arrays](https://dev.to/dhrn/day26-typed-arrays-5522)
 - [Lifehacker] [You Can Get Domino&#39;s Pizza for 50% Off This Week](https://lifehacker.com/you-can-get-dominos-pizza-for-50-off-this-week-1850738837)
-- [Dev.to/JS] [How to create a dynamic sitemap.xml for your Sveltekit app.](https://dev.to/n3rd/how-to-create-a-dynamic-sitemapxml-for-your-sveltekit-app-3c1f)
-- [Dev.to/JS] [JavaScript: Variables and Data types.](https://dev.to/fullstackjo/javascript-variables-and-data-types-76e)
 - [Lifehacker] [The Best Smart Speakers You Can Buy Now for Under $100](https://lifehacker.com/5-smart-speakers-you-can-buy-now-for-under-100-1849912921)
 - [Lifehacker] [This Older, Refurbished MacBook Pro Is $300 Right Now](https://lifehacker.com/this-older-refurbished-macbook-pro-is-300-right-now-1850730080)
 - [Lifehacker] [Program Your Smart Speaker to Automatically Play Music in Your Bathroom](https://lifehacker.com/program-your-smart-speaker-to-automatically-play-music-1850738085)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Beeper Isn&#39;t a Safe Solution for iMessaging on Android](https://lifehacker.com/beeper-isnt-a-safe-solution-for-imessaging-on-android-1850734981)
 - [Lifehacker] [How to Pack Your Whole Vacation Into a &#39;Personal Item&#39;](https://lifehacker.com/how-to-pack-your-whole-vacation-into-a-personal-item-1797207564)
 - [Lifehacker] [You Can Build a Hidden Cupboard Into a Wall](https://lifehacker.com/you-can-build-a-hidden-cupboard-into-a-wall-1850734067)
-- [Lifehacker] [20 Prime Video Original TV Shows You Should Be Watching](https://lifehacker.com/best-prime-video-original-tv-series-1850733503)
-- [Lifehacker] [Why You Should Pre-Smash Your Burgers](https://lifehacker.com/why-you-should-pre-smash-your-burgers-1832966230)
-- [Lifehacker] [I Hereby Declare This the Mac and Cheese of the Summer](https://lifehacker.com/i-hereby-declare-this-the-mac-and-cheese-of-the-summer-1850735380)
-- [Lifehacker] [Set These Boundaries With an Overly Affectionate Child](https://lifehacker.com/set-these-boundaries-with-an-overly-affectionate-child-1850678924)
-- [Lifehacker] [This Pop-Up Tent and Portable Mattress Is $400 Right Now](https://lifehacker.com/this-pop-up-tent-and-portable-mattress-is-400-right-no-1850729854)<!-- TECH-POSTS:END -->
+- [Lifehacker] [20 Prime Video Original TV Shows You Should Be Watching](https://lifehacker.com/best-prime-video-original-tv-series-1850733503)<!-- TECH-POSTS:END -->
 
 ---
 
