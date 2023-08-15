@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reactive Programming in React using RxJS](https://dev.to/avwerosuoghene/reactive-programming-in-react-using-rxjs-a-comprehensive-guide-2coi)
 - [Dev.to/JS] [Unit Tests in NodeJS](https://dev.to/jhonpedro/unit-tests-in-nodejs-53jk)
 - [Dev.to/JS] [JavaScript Asynchronous Programming: Concepts and Best Practices](https://dev.to/nziokidennis/javascript-asynchronous-programming-concepts-and-best-practices-38k7)
 - [Lifehacker] [Why Tubi Is the Greatest Streaming Service Ever](https://lifehacker.com/what-is-tubi-and-how-to-watch-it-free-1850736811)
@@ -53,7 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simplifying Database Backup and Restore with Easy Automation](https://dev.to/jacksonkasi/simplifying-database-backup-and-restore-with-easy-automation-1h01)
 - [Dev.to/JS] [TED](https://dev.to/marcuniversel11/ted-23i)
 - [Lifehacker] [Set These Boundaries With an Overly Affectionate Child](https://lifehacker.com/set-these-boundaries-with-an-overly-affectionate-child-1850678924)
-- [Dev.to/JS] [When Use Arrays, Tuples, Maps, and Sets In Typescript with Examples](https://dev.to/danywalls/when-use-arrays-tuples-maps-and-sets-in-typescript-with-examples-57l6)
 - [Lifehacker] [This Pop-Up Tent and Portable Mattress Is $400 Right Now](https://lifehacker.com/this-pop-up-tent-and-portable-mattress-is-400-right-no-1850729854)
 - [Lifehacker] [The Radrunner 3 Plus Is the SUV of E-Bikes](https://lifehacker.com/the-radrunner-3-plus-is-the-suv-of-e-bikes-1850729199)
 - [Lifehacker] [Place NFC Tags in Your Home to Automate Daily Routines](https://lifehacker.com/place-nfc-tags-in-your-home-to-automate-daily-routines-1850725431)
