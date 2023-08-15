@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [PyGWalker with DuckDB is all you need for large data exploration](https://dev.to/observedobserver/pygwalker-with-duckdb-is-all-you-need-for-large-data-exploration-37l8)
+- [Dev.to/JS] [Building a Trello Clone with Bryntum TaskBoard](https://dev.to/bryntum/building-a-trello-clone-with-bryntum-taskboard-5764)
 - [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Aug 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-aug-2023-4445)
 - [Dev.to/JS] [13 Must Know Libraries for a React Developer](https://dev.to/ashutoshmishra/13-must-know-libraries-for-a-react-developer-g57)
 - [Dev.to/JS] [Create a monorepo using PNPM workspace](https://dev.to/vinomanick/create-a-monorepo-using-pnpm-workspace-1ebn)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Intro to React-native](https://dev.to/anxbt/intro-to-react-native-5egp)
 - [Dev.to/JS] [Managing State with the setState Method in React](https://dev.to/the2minengineer/managing-state-with-the-setstate-method-in-react-2e6k)
 - [Dev.to/JS] [Open Source: Strapi v4 - Formula field](https://dev.to/borysshulyak/open-source-strapi-v4-formula-field-46jd)
-- [Dev.to/JS] [Fetching Query String Values in JavaScript: A Step-by-Step Guide](https://dev.to/iamcymentho/fetching-query-string-values-in-javascript-a-step-by-step-guide-1chb)
-- [Dev.to/JS] [Boost Your JavaScript Performance with the Debounce Technique!](https://dev.to/yanagisawahidetoshi/boost-your-javascript-performance-with-the-debounce-technique-497i)
 - [Lifehacker] [Why Tubi Is the Greatest Streaming Service Ever](https://lifehacker.com/what-is-tubi-and-how-to-watch-it-free-1850736811)
 - [Lifehacker] [The Best Back-to-School Tech Deals You Can Find Right Now](https://lifehacker.com/the-best-back-to-school-tech-deals-you-can-find-right-n-1850736643)
 - [Lifehacker] [The Difference Between Fish Sauce, Oyster Sauce, and Lobster Sauce &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-fish-sauce-oyster-sauce-and-lo-1850736536)
