@@ -26,20 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Spotlight on 2023&#39;s Leading Frontend Build Systems](https://dev.to/notoriousshubh/spotlight-on-2023s-leading-frontend-build-systems-2af4)
+- [Dev.to/JS] [📚 ReactJS vs Next.js 🌐](https://dev.to/shivabollam07/reactjs-vs-nextjs-40c0)
+- [Dev.to/JS] [Enhancing Test Clarity and Diagnostics in Abstractions](https://dev.to/woovi/enhancing-test-clarity-and-diagnostics-in-abstractions-1gd3)
+- [Lifehacker] [Program Your Smart Speaker to Automatically Play Music in Your Bathroom](https://lifehacker.com/program-your-smart-speaker-to-automatically-play-music-1850738085)
+- [Dev.to/JS] [The Frontend newsletter #10 - Discover the latest trends](https://dev.to/tech_foutraque/the-frontend-newsletter-10-15c6)
+- [Lifehacker] [35 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
+- [Dev.to/JS] [The Frontend newsletter #9 - by Tech foutraque](https://dev.to/tech_foutraque/frontend-newsletter-9-by-tech-foutraque-5c19)
 - [Dev.to/JS] [🎆7 open-source libraries you must know🎆](https://dev.to/idurar/7-open-source-libraries-you-must-know-3aei)
 - [Lifehacker] [These Tools Are on Sale at Lowe’s and Home Depot Right Now](https://lifehacker.com/these-tools-are-on-sale-at-lowe-s-and-home-depot-right-1850738105)
 - [Dev.to/JS] [3 Ways To Detect AdBlockers In Javascript](https://dev.to/codeboxx/3-ways-to-detect-adblockers-in-javascript-5gc2)
 - [Dev.to/JS] [Advanced JavaScript Concepts in 2023](https://dev.to/altezzacreative/advanced-javascript-concepts-in-2023-118l)
 - [Dev.to/JS] [Episode 23/32: Angular 16.2](https://dev.to/this-is-angular/episode-2332-angular-162-5766)
 - [Lifehacker] [What to Do When You&#39;re Accused of Writing With AI](https://lifehacker.com/what-to-do-when-youre-accused-of-writing-with-ai-1850738025)
-- [Dev.to/JS] [RTP Live Slot Online](https://dev.to/rtpliveslotonline/rtp-live-slot-online-245o)
 - [Dev.to/JS] [How to edit &amp; replace NPM package dependency](https://dev.to/azophy/how-to-edit-replace-npm-package-dependency-1b5e)
 - [Dev.to/JS] [How to Integrate Generative AI Into Apostrophe](https://dev.to/apostrophecms/how-to-integrate-generative-ai-into-apostrophe-3oai)
 - [Dev.to/JS] [print pdf in iPad safari / chrome using pdfmake](https://dev.to/srinivasan_govindaswamy_c/print-pdf-in-ipad-safari-chrome-using-pdfmake-4fje)
-- [Dev.to/JS] [PyGWalker with DuckDB is all you need for large data exploration](https://dev.to/observedobserver/pygwalker-with-duckdb-is-all-you-need-for-large-data-exploration-37l8)
-- [Dev.to/JS] [Building a Trello Clone with Bryntum TaskBoard](https://dev.to/bryntum/building-a-trello-clone-with-bryntum-taskboard-5764)
-- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Aug 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-aug-2023-4445)
-- [Dev.to/JS] [13 Must Know Libraries for a React Developer](https://dev.to/ashutoshmishra/13-must-know-libraries-for-a-react-developer-g57)
 - [Lifehacker] [Why Tubi Is the Greatest Streaming Service Ever](https://lifehacker.com/what-is-tubi-and-how-to-watch-it-free-1850736811)
 - [Lifehacker] [The Best Back-to-School Tech Deals You Can Find Right Now](https://lifehacker.com/the-best-back-to-school-tech-deals-you-can-find-right-n-1850736643)
 - [Lifehacker] [The Difference Between Fish Sauce, Oyster Sauce, and Lobster Sauce &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-fish-sauce-oyster-sauce-and-lo-1850736536)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What It Means to Be a ‘Twice Exceptional’ Kid &lpar;and How to Support Them&rpar;](https://lifehacker.com/what-it-means-to-be-a-twice-exceptional-kid-and-how-1850733520)
 - [Lifehacker] [Every Step You Should Take Now to Prepare for a Climate Disaster Evacuation](https://lifehacker.com/every-step-you-should-take-now-to-prepare-for-a-climate-1850730314)
 - [Lifehacker] [The Best Toys for Your Autistic Child](https://lifehacker.com/the-best-toys-for-your-autistic-child-1850726928)
-- [Lifehacker] [This Refurbished iPad Pro Is $270 Right Now](https://lifehacker.com/this-refurbished-ipad-pro-is-270-right-now-1850729831)
-- [Lifehacker] [The Most Effective Ways to Flatten an Area Rug](https://lifehacker.com/the-most-effective-ways-to-flatten-an-area-rug-1850728842)
-- [Lifehacker] [Why You Shouldn&#39;t Use Dish Soap in Your Washing Machine](https://lifehacker.com/why-you-shouldnt-use-dish-soap-in-your-washing-machine-1850727932)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Refurbished iPad Pro Is $270 Right Now](https://lifehacker.com/this-refurbished-ipad-pro-is-270-right-now-1850729831)<!-- TECH-POSTS:END -->
 
 ---
 
