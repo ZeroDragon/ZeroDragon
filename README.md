@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vuejs composables: hands-on examples](https://dev.to/hssanbzlm/vuejs-composables-hands-on-examples-3lpk)
+- [Dev.to/JS] [Angular Dynamic Form Using XSD](https://dev.to/pixelbyaj/angular-dynamic-form-using-xsd-9lb)
+- [Lifehacker] [Google’s AI Can Now Summarize an Article Directly in Search Results](https://lifehacker.com/google-s-ai-can-now-summarize-an-article-directly-in-se-1850740737)
+- [Dev.to/JS] [Demystifying QuickBooks Error 1603 Causes and Effective Solutions](https://dev.to/qbdataservice/demystifying-quickbooks-error-1603-causes-and-effective-solutions-525i)
+- [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
+- [Dev.to/JS] [React Custom Hook: useEffectOnce](https://dev.to/sergeyleschev/react-custom-hook-useeffectonce-24j4)
+- [Lifehacker] [These Cruises Are Allowing You to Bring Two Extra Guests for Free](https://lifehacker.com/these-cruises-are-allowing-you-to-bring-two-extra-guest-1850740270)
 - [Dev.to/JS] [🚀Simplifying Collection Management: postman-workspace-backup](https://dev.to/aminefeidi/simplifying-collection-management-postman-workspace-backup-2hp4)
 - [Lifehacker] [Four Ways to Use Up Your Travel Rewards Before They Expire](https://lifehacker.com/best-ways-to-use-expiring-travel-rewards-1850739086)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Toilet](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-toil-1849184056)
@@ -41,11 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Finally, I made it OpenSource. Postman Alternative](https://dev.to/nishchit14/finally-i-made-it-opensource-postman-alternative-1a1c)
 - [Dev.to/JS] [Garbage Collector in javascript](https://dev.to/biomathcode/garbage-collector-in-javascript-40o2)
 - [Lifehacker] [These International Open Academy Classes Are $60 Right Now](https://lifehacker.com/these-international-open-academy-classes-are-60-right-1850729932)
-- [Dev.to/JS] [Angular Change Detection and OnPush Strategy 🚀](https://dev.to/mana95/angular-change-detection-and-onpush-strategy-4l63)
-- [Dev.to/JS] [Guide to Building Great Audit Logs for Application Software](https://dev.to/dangtony98/guide-to-building-audit-logs-for-application-software-49fh)
-- [Dev.to/JS] [Why You Should Make a Game Engine: 5 Years as a Developer](https://dev.to/lkatkus/why-you-should-make-a-game-engine-5-years-as-a-developer-3ij1)
 - [Lifehacker] [Here Are Signs That Someone You Know Is Under a Conservatorship](https://lifehacker.com/here-are-signs-that-someone-you-know-is-under-a-conserv-1850739532)
-- [Dev.to/JS] [Start coding...](https://dev.to/ericacao/start-coding-1p7e)
 - [Lifehacker] [Some Apps Are Hiding Your Sharing Options](https://lifehacker.com/some-apps-are-hiding-your-sharing-options-1850739204)
 - [Lifehacker] [The Secret to Making the Perfect Pasta Salad](https://lifehacker.com/imperfect-pasta-is-the-secret-to-perfect-pasta-salad-1834981171)
 - [Lifehacker] [This Is the Best Bread for Your BLT](https://lifehacker.com/this-is-the-best-bread-for-your-blt-1850739394)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do When You&#39;re Accused of Writing With AI](https://lifehacker.com/what-to-do-when-youre-accused-of-writing-with-ai-1850738025)
 - [Lifehacker] [Why Tubi Is the Greatest Streaming Service Ever](https://lifehacker.com/what-is-tubi-and-how-to-watch-it-free-1850736811)
 - [Lifehacker] [The Best Back-to-School Tech Deals You Can Find Right Now](https://lifehacker.com/the-best-back-to-school-tech-deals-you-can-find-right-n-1850736643)
-- [Lifehacker] [The Difference Between Fish Sauce, Oyster Sauce, and Lobster Sauce &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-fish-sauce-oyster-sauce-and-lo-1850736536)
-- [Lifehacker] [You Need to Book a ‘Sleep Vacation’](https://lifehacker.com/you-need-to-book-a-sleep-vacation-1850735551)
-- [Lifehacker] [Use This SMART Goals Formula to Be More Productive](https://lifehacker.com/use-this-smart-goals-formula-to-be-more-productive-1850736205)
-- [Lifehacker] [This iPhone 14 Feature Can Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Difference Between Fish Sauce, Oyster Sauce, and Lobster Sauce &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-fish-sauce-oyster-sauce-and-lo-1850736536)<!-- TECH-POSTS:END -->
 
 ---
 
