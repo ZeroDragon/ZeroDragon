@@ -26,22 +26,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 26: Typed Arrays](https://dev.to/dhrn/day26-typed-arrays-5522)
+- [Lifehacker] [You Can Get Domino&#39;s Pizza for 50% Off This Week](https://lifehacker.com/you-can-get-dominos-pizza-for-50-off-this-week-1850738837)
+- [Dev.to/JS] [How to create a dynamic sitemap.xml for your Sveltekit app.](https://dev.to/n3rd/how-to-create-a-dynamic-sitemapxml-for-your-sveltekit-app-3c1f)
+- [Dev.to/JS] [JavaScript: Variables and Data types.](https://dev.to/fullstackjo/javascript-variables-and-data-types-76e)
+- [Dev.to/JS] [Things Svelte just do better!](https://dev.to/abdulmuminyqn/things-svelte-just-do-better-djn)
+- [Lifehacker] [The Best Smart Speakers You Can Buy Now for Under $100](https://lifehacker.com/5-smart-speakers-you-can-buy-now-for-under-100-1849912921)
+- [Dev.to/JS] [Building an Efficient MinStack in JavaScript🚀](https://dev.to/vikas2426/building-an-efficient-minstack-in-javascript-4c9i)
+- [Lifehacker] [This Older, Refurbished MacBook Pro Is $300 Right Now](https://lifehacker.com/this-older-refurbished-macbook-pro-is-300-right-now-1850730080)
 - [Dev.to/JS] [Spotlight on 2023&#39;s Leading Frontend Build Systems](https://dev.to/notoriousshubh/spotlight-on-2023s-leading-frontend-build-systems-2af4)
 - [Dev.to/JS] [📚 ReactJS vs Next.js 🌐](https://dev.to/shivabollam07/reactjs-vs-nextjs-40c0)
 - [Dev.to/JS] [Enhancing Test Clarity and Diagnostics in Abstractions](https://dev.to/woovi/enhancing-test-clarity-and-diagnostics-in-abstractions-1gd3)
 - [Lifehacker] [Program Your Smart Speaker to Automatically Play Music in Your Bathroom](https://lifehacker.com/program-your-smart-speaker-to-automatically-play-music-1850738085)
 - [Dev.to/JS] [The Frontend newsletter #10 - Discover the latest trends](https://dev.to/tech_foutraque/the-frontend-newsletter-10-15c6)
-- [Lifehacker] [35 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
 - [Dev.to/JS] [The Frontend newsletter #9 - by Tech foutraque](https://dev.to/tech_foutraque/frontend-newsletter-9-by-tech-foutraque-5c19)
 - [Dev.to/JS] [🎆7 open-source libraries you must know🎆](https://dev.to/idurar/7-open-source-libraries-you-must-know-3aei)
 - [Lifehacker] [These Tools Are on Sale at Lowe’s and Home Depot Right Now](https://lifehacker.com/these-tools-are-on-sale-at-lowe-s-and-home-depot-right-1850738105)
 - [Dev.to/JS] [3 Ways To Detect AdBlockers In Javascript](https://dev.to/codeboxx/3-ways-to-detect-adblockers-in-javascript-5gc2)
-- [Dev.to/JS] [Advanced JavaScript Concepts in 2023](https://dev.to/altezzacreative/advanced-javascript-concepts-in-2023-118l)
-- [Dev.to/JS] [Episode 23/32: Angular 16.2](https://dev.to/this-is-angular/episode-2332-angular-162-5766)
 - [Lifehacker] [What to Do When You&#39;re Accused of Writing With AI](https://lifehacker.com/what-to-do-when-youre-accused-of-writing-with-ai-1850738025)
-- [Dev.to/JS] [How to edit &amp; replace NPM package dependency](https://dev.to/azophy/how-to-edit-replace-npm-package-dependency-1b5e)
-- [Dev.to/JS] [How to Integrate Generative AI Into Apostrophe](https://dev.to/apostrophecms/how-to-integrate-generative-ai-into-apostrophe-3oai)
-- [Dev.to/JS] [print pdf in iPad safari / chrome using pdfmake](https://dev.to/srinivasan_govindaswamy_c/print-pdf-in-ipad-safari-chrome-using-pdfmake-4fje)
 - [Lifehacker] [Why Tubi Is the Greatest Streaming Service Ever](https://lifehacker.com/what-is-tubi-and-how-to-watch-it-free-1850736811)
 - [Lifehacker] [The Best Back-to-School Tech Deals You Can Find Right Now](https://lifehacker.com/the-best-back-to-school-tech-deals-you-can-find-right-n-1850736643)
 - [Lifehacker] [The Difference Between Fish Sauce, Oyster Sauce, and Lobster Sauce &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-fish-sauce-oyster-sauce-and-lo-1850736536)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Place NFC Tags in Your Home to Automate Daily Routines](https://lifehacker.com/place-nfc-tags-in-your-home-to-automate-daily-routines-1850725431)
 - [Lifehacker] [This Wemax Go Projector and Screen Is $230 Right Now](https://lifehacker.com/this-wemax-go-projector-and-screen-is-230-right-now-1850729728)
 - [Lifehacker] [What It Means to Be a ‘Twice Exceptional’ Kid &lpar;and How to Support Them&rpar;](https://lifehacker.com/what-it-means-to-be-a-twice-exceptional-kid-and-how-1850733520)
-- [Lifehacker] [Every Step You Should Take Now to Prepare for a Climate Disaster Evacuation](https://lifehacker.com/every-step-you-should-take-now-to-prepare-for-a-climate-1850730314)
-- [Lifehacker] [The Best Toys for Your Autistic Child](https://lifehacker.com/the-best-toys-for-your-autistic-child-1850726928)
-- [Lifehacker] [This Refurbished iPad Pro Is $270 Right Now](https://lifehacker.com/this-refurbished-ipad-pro-is-270-right-now-1850729831)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Every Step You Should Take Now to Prepare for a Climate Disaster Evacuation](https://lifehacker.com/every-step-you-should-take-now-to-prepare-for-a-climate-1850730314)<!-- TECH-POSTS:END -->
 
 ---
 
