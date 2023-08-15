@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A link to my blog](https://dev.to/merri/a-link-to-my-blog-2494)
 - [Dev.to/JS] [Vuejs composables: hands-on examples](https://dev.to/hssanbzlm/vuejs-composables-hands-on-examples-3lpk)
 - [Dev.to/JS] [Angular Dynamic Form Using XSD](https://dev.to/pixelbyaj/angular-dynamic-form-using-xsd-9lb)
 - [Lifehacker] [Google’s AI Can Now Summarize an Article Directly in Search Results](https://lifehacker.com/google-s-ai-can-now-summarize-an-article-directly-in-se-1850740737)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unmasking QuickBooks Error 6144 82 Causes and Remedies](https://dev.to/qbdataservice/unmasking-quickbooks-error-6144-82-causes-and-remedies-5g6g)
 - [Dev.to/JS] [The Reality of Functions](https://dev.to/cmleary/the-reality-of-functions-2l7k)
 - [Dev.to/JS] [Finally, I made it OpenSource. Postman Alternative](https://dev.to/nishchit14/finally-i-made-it-opensource-postman-alternative-1a1c)
-- [Dev.to/JS] [Garbage Collector in javascript](https://dev.to/biomathcode/garbage-collector-in-javascript-40o2)
 - [Lifehacker] [These International Open Academy Classes Are $60 Right Now](https://lifehacker.com/these-international-open-academy-classes-are-60-right-1850729932)
 - [Lifehacker] [Here Are Signs That Someone You Know Is Under a Conservatorship](https://lifehacker.com/here-are-signs-that-someone-you-know-is-under-a-conserv-1850739532)
 - [Lifehacker] [Some Apps Are Hiding Your Sharing Options](https://lifehacker.com/some-apps-are-hiding-your-sharing-options-1850739204)
