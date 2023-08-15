@@ -26,8 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚀Simplifying Collection Management: postman-workspace-backup](https://dev.to/aminefeidi/simplifying-collection-management-postman-workspace-backup-2hp4)
+- [Lifehacker] [Four Ways to Use Up Your Travel Rewards Before They Expire](https://lifehacker.com/best-ways-to-use-expiring-travel-rewards-1850739086)
+- [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Toilet](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-toil-1849184056)
+- [Dev.to/JS] [Localization and Internationalization in React Native: Reaching Global Audiences 🌍🌎](https://dev.to/medaimane/localization-and-internationalization-in-react-native-reaching-global-audiences-3acj)
+- [Dev.to/JS] [Mongoose Schema Not Creating Fields with Default Values in MongoDB](https://dev.to/devcodef1/mongoose-schema-not-creating-fields-with-default-values-in-mongodb-b41)
+- [Dev.to/JS] [Basic drag and drop implementation for nextjs &lpar;react&rpar;](https://dev.to/medmor_65/basic-drag-and-drop-implementation-for-nextjs-react-3a75)
 - [Lifehacker] [When to Snitch on a Coworker &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-snitch-on-a-coworker-and-when-not-to-1850739817)
 - [Lifehacker] [You Can Replace Your Roof Yourself, But You Shouldn’t](https://lifehacker.com/you-can-replace-your-roof-yourself-but-you-shouldn-t-1850739430)
+- [Lifehacker] [The Rudest Things You Can Do at the Gym, According to Reddit](https://lifehacker.com/13-of-the-worst-breaches-of-gym-etiquette-according-to-1849631579)
 - [Lifehacker] [The Best Books to Help You Find Work-Life Balance](https://lifehacker.com/the-best-books-to-help-you-find-work-life-balance-1850739067)
 - [Dev.to/JS] [Unmasking QuickBooks Error 6144 82 Causes and Remedies](https://dev.to/qbdataservice/unmasking-quickbooks-error-6144-82-causes-and-remedies-5g6g)
 - [Dev.to/JS] [The Reality of Functions](https://dev.to/cmleary/the-reality-of-functions-2l7k)
@@ -39,15 +46,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why You Should Make a Game Engine: 5 Years as a Developer](https://dev.to/lkatkus/why-you-should-make-a-game-engine-5-years-as-a-developer-3ij1)
 - [Lifehacker] [Here Are Signs That Someone You Know Is Under a Conservatorship](https://lifehacker.com/here-are-signs-that-someone-you-know-is-under-a-conserv-1850739532)
 - [Dev.to/JS] [Start coding...](https://dev.to/ericacao/start-coding-1p7e)
-- [Dev.to/JS] [SolidUI generates any graphics in one sentence, v0.2.0 function introduction](https://dev.to/dlimeng/solidui-generates-any-graphics-in-one-sentence-v020-function-introduction-1c87)
 - [Lifehacker] [Some Apps Are Hiding Your Sharing Options](https://lifehacker.com/some-apps-are-hiding-your-sharing-options-1850739204)
 - [Lifehacker] [The Secret to Making the Perfect Pasta Salad](https://lifehacker.com/imperfect-pasta-is-the-secret-to-perfect-pasta-salad-1834981171)
 - [Lifehacker] [This Is the Best Bread for Your BLT](https://lifehacker.com/this-is-the-best-bread-for-your-blt-1850739394)
-- [Dev.to/JS] [Getting started with Express.JS &lpar;JavaScript&rpar;](https://dev.to/dumebii/getting-started-with-express-javascript-5142)
 - [Lifehacker] [This Turntable With Bluetooth Speakers Is $250 Right Now](https://lifehacker.com/this-turntable-with-bluetooth-speakers-is-250-right-no-1850730056)
 - [Lifehacker] [The Complete Guide to Never Getting Locked Out of Your Apartment Again](https://lifehacker.com/how-to-never-get-locked-out-of-your-apartment-again-1849146996)
-- [Dev.to/JS] [Mocker: Proxy Power for gRPC Development](https://dev.to/skyrampmia/mocker-proxy-power-for-grpc-development-gi7)
-- [Dev.to/JS] [Qwikify your Development with Nx](https://dev.to/nx/qwikify-your-development-with-nx-30cj)
 - [Lifehacker] [I Tested Runs With the Flipbelt and SPIbelt so You Don&#39;t Have To](https://lifehacker.com/i-tested-runs-with-the-flipbelt-and-spibelt-so-you-dont-1850737029)
 - [Lifehacker] [35 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
 - [Lifehacker] [You Can Install Windows Without the Bloatware](https://lifehacker.com/you-can-install-windows-without-the-bloatware-1850738765)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Fish Sauce, Oyster Sauce, and Lobster Sauce &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-fish-sauce-oyster-sauce-and-lo-1850736536)
 - [Lifehacker] [You Need to Book a ‘Sleep Vacation’](https://lifehacker.com/you-need-to-book-a-sleep-vacation-1850735551)
 - [Lifehacker] [Use This SMART Goals Formula to Be More Productive](https://lifehacker.com/use-this-smart-goals-formula-to-be-more-productive-1850736205)
-- [Lifehacker] [This iPhone 14 Feature Can Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
-- [Lifehacker] [These Are the Best Books to Learn Better Time Management](https://lifehacker.com/these-are-the-best-books-to-learn-better-time-managemen-1850735972)
-- [Lifehacker] [Why &lpar;and When&rpar; You Should Get Both a COVID Shot and a Flu Shot This Fall](https://lifehacker.com/why-and-when-you-should-get-both-a-covid-shot-and-a-f-1850736032)
-- [Lifehacker] [This Recalled Nestlé Cookie Dough May Contain Wood Fragments](https://lifehacker.com/this-recalled-nestle-cookie-dough-may-contain-wood-frag-1850735654)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This iPhone 14 Feature Can Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)<!-- TECH-POSTS:END -->
 
 ---
 
