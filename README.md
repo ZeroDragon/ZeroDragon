@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring Network Graph Visualization: Graphology and Sigma.js](https://dev.to/gabetronic/exploring-network-graph-visualization-graphology-and-sigmajs-5fcg)
 - [Dev.to/JS] [DỊCH VỤ THUÊ XE 16 CHỖ ĐÀ NẴNG](https://dev.to/thuexe16chodn/dich-vu-thue-xe-16-cho-da-nang-l59)
 - [Dev.to/JS] [REACT CONTEXT](https://dev.to/rogab0t/react-context-2p0l)
 - [Dev.to/JS] [CONSUMIR SERVICIOS WEB](https://dev.to/rogab0t/consumir-servicios-web-3cec)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Custom Hook: useDeepCompareEffect](https://dev.to/sergeyleschev/react-custom-hook-usedeepcompareeffect-5d0c)
 - [Lifehacker] [The Difference Between Fish Sauce, Oyster Sauce, and Lobster Sauce &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-fish-sauce-oyster-sauce-and-lo-1850736536)
 - [Lifehacker] [You Need to Book a ‘Sleep Vacation’](https://lifehacker.com/you-need-to-book-a-sleep-vacation-1850735551)
-- [Dev.to/JS] [Smooth Scrolling with React &amp; Framer Motion](https://dev.to/ironcladdev/smooth-scrolling-with-react-framer-motion-dih)
 - [Lifehacker] [Use This SMART Goals Formula to Be More Productive](https://lifehacker.com/use-this-smart-goals-formula-to-be-more-productive-1850736205)
 - [Lifehacker] [This iPhone 14 Feature Can Save Your Life in an Emergency](https://lifehacker.com/this-new-iphone-14-feature-might-save-your-life-in-an-e-1849514060)
 - [Lifehacker] [These Are the Best Books to Learn Better Time Management](https://lifehacker.com/these-are-the-best-books-to-learn-better-time-managemen-1850735972)
