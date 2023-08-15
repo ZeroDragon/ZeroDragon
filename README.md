@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Intro to React-native](https://dev.to/anxbt/intro-to-react-native-5egp)
+- [Dev.to/JS] [Managing State with the setState Method in React](https://dev.to/the2minengineer/managing-state-with-the-setstate-method-in-react-2e6k)
+- [Dev.to/JS] [Open Source: Strapi v4 - Formula field](https://dev.to/borysshulyak/open-source-strapi-v4-formula-field-46jd)
+- [Dev.to/JS] [Fetching Query String Values in JavaScript: A Step-by-Step Guide](https://dev.to/iamcymentho/fetching-query-string-values-in-javascript-a-step-by-step-guide-1chb)
 - [Dev.to/JS] [Boost Your JavaScript Performance with the Debounce Technique!](https://dev.to/yanagisawahidetoshi/boost-your-javascript-performance-with-the-debounce-technique-497i)
 - [Dev.to/JS] [The problem with Higher Order Array Functions &lpar;js&rpar;](https://dev.to/kamaaaal/the-problem-with-higher-order-array-function-js-41gf)
 - [Dev.to/JS] [Create a typescript utility library using Vite](https://dev.to/vinomanick/create-a-typescript-utility-library-using-vite-916)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Modern way to create a react app using Vite - Part 1](https://dev.to/vinomanick/modern-way-to-create-a-react-app-using-vite-part-1-32ol)
 - [Dev.to/JS] [React micro-frontend in ember app](https://dev.to/vinomanick/react-micro-frontend-in-ember-app-21c9)
 - [Dev.to/JS] [Ways to accessible animation](https://dev.to/easyvipin/ways-to-accessible-animation-24dm)
-- [Dev.to/JS] [How to Identify Missing Code and Determine the Cause of Broken External JS or CSS](https://dev.to/devcodef1/how-to-identify-missing-code-and-determine-the-cause-of-broken-external-js-or-css-4jkg)
-- [Dev.to/JS] [Exploring Network Graph Visualization: Graphology and Sigma.js](https://dev.to/gabetronic/exploring-network-graph-visualization-graphology-and-sigmajs-5fcg)
-- [Dev.to/JS] [DỊCH VỤ THUÊ XE 16 CHỖ ĐÀ NẴNG](https://dev.to/thuexe16chodn/dich-vu-thue-xe-16-cho-da-nang-l59)
-- [Dev.to/JS] [REACT CONTEXT](https://dev.to/rogab0t/react-context-2p0l)
 - [Lifehacker] [Why Tubi Is the Greatest Streaming Service Ever](https://lifehacker.com/what-is-tubi-and-how-to-watch-it-free-1850736811)
 - [Lifehacker] [The Best Back-to-School Tech Deals You Can Find Right Now](https://lifehacker.com/the-best-back-to-school-tech-deals-you-can-find-right-n-1850736643)
 - [Lifehacker] [The Difference Between Fish Sauce, Oyster Sauce, and Lobster Sauce &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-fish-sauce-oyster-sauce-and-lo-1850736536)
