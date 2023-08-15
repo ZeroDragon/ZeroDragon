@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DỊCH VỤ THUÊ XE 16 CHỖ ĐÀ NẴNG](https://dev.to/thuexe16chodn/dich-vu-thue-xe-16-cho-da-nang-l59)
 - [Dev.to/JS] [REACT CONTEXT](https://dev.to/rogab0t/react-context-2p0l)
 - [Dev.to/JS] [CONSUMIR SERVICIOS WEB](https://dev.to/rogab0t/consumir-servicios-web-3cec)
 - [Dev.to/JS] [CSS EN REACT](https://dev.to/rogab0t/css-en-react-1bg5)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Books to Learn Better Time Management](https://lifehacker.com/these-are-the-best-books-to-learn-better-time-managemen-1850735972)
 - [Lifehacker] [Why &lpar;and When&rpar; You Should Get Both a COVID Shot and a Flu Shot This Fall](https://lifehacker.com/why-and-when-you-should-get-both-a-covid-shot-and-a-f-1850736032)
 - [Lifehacker] [This Recalled Nestlé Cookie Dough May Contain Wood Fragments](https://lifehacker.com/this-recalled-nestle-cookie-dough-may-contain-wood-frag-1850735654)
-- [Dev.to/JS] [How to make a horizontal moving carousel with Vanilla JS &amp; TS](https://dev.to/min11benja/how-to-make-a-horizontal-moving-carousel-with-vanilla-js-ts-elc)
 - [Lifehacker] [Beeper Isn&#39;t a Safe Solution for iMessaging on Android](https://lifehacker.com/beeper-isnt-a-safe-solution-for-imessaging-on-android-1850734981)
 - [Lifehacker] [How to Pack Your Whole Vacation Into a &#39;Personal Item&#39;](https://lifehacker.com/how-to-pack-your-whole-vacation-into-a-personal-item-1797207564)
 - [Lifehacker] [You Can Build a Hidden Cupboard Into a Wall](https://lifehacker.com/you-can-build-a-hidden-cupboard-into-a-wall-1850734067)
