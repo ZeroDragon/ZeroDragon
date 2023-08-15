@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ways to accessible animation](https://dev.to/easyvipin/ways-to-accessible-animation-24dm)
+- [Dev.to/JS] [How to Identify Missing Code and Determine the Cause of Broken External JS or CSS](https://dev.to/devcodef1/how-to-identify-missing-code-and-determine-the-cause-of-broken-external-js-or-css-4jkg)
 - [Dev.to/JS] [Exploring Network Graph Visualization: Graphology and Sigma.js](https://dev.to/gabetronic/exploring-network-graph-visualization-graphology-and-sigmajs-5fcg)
 - [Dev.to/JS] [DỊCH VỤ THUÊ XE 16 CHỖ ĐÀ NẴNG](https://dev.to/thuexe16chodn/dich-vu-thue-xe-16-cho-da-nang-l59)
 - [Dev.to/JS] [REACT CONTEXT](https://dev.to/rogab0t/react-context-2p0l)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Tubi Is the Greatest Streaming Service Ever](https://lifehacker.com/what-is-tubi-and-how-to-watch-it-free-1850736811)
 - [Lifehacker] [The Best Back-to-School Tech Deals You Can Find Right Now](https://lifehacker.com/the-best-back-to-school-tech-deals-you-can-find-right-n-1850736643)
 - [Dev.to/JS] [Reference: JavaScript Expressions, Keywords, Statements, Syntax &amp; Operators](https://dev.to/mshertzberg/reference-javascript-expressions-keywords-statements-syntax-operators-333d)
-- [Dev.to/JS] [Using Node.js v8 Isolate in Another Native Thread](https://dev.to/devcodef1/using-nodejs-v8-isolate-in-another-native-thread-5gb0)
-- [Dev.to/JS] [React Custom Hook: useDeepCompareEffect](https://dev.to/sergeyleschev/react-custom-hook-usedeepcompareeffect-5d0c)
 - [Lifehacker] [The Difference Between Fish Sauce, Oyster Sauce, and Lobster Sauce &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-fish-sauce-oyster-sauce-and-lo-1850736536)
 - [Lifehacker] [You Need to Book a ‘Sleep Vacation’](https://lifehacker.com/you-need-to-book-a-sleep-vacation-1850735551)
 - [Lifehacker] [Use This SMART Goals Formula to Be More Productive](https://lifehacker.com/use-this-smart-goals-formula-to-be-more-productive-1850736205)
