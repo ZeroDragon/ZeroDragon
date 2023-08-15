@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top-10 Posts for FE &lpar;Week 2, Aug 2023&rpar;](https://dev.to/fruntend/top-10-posts-for-fe-week-2-aug-2023-4445)
+- [Dev.to/JS] [13 Must Know Libraries for a React Developer](https://dev.to/ashutoshmishra/13-must-know-libraries-for-a-react-developer-g57)
+- [Dev.to/JS] [Create a monorepo using PNPM workspace](https://dev.to/vinomanick/create-a-monorepo-using-pnpm-workspace-1ebn)
 - [Dev.to/JS] [Next.js vs. React.js: Choosing the Right Framework for Your Web Projects](https://dev.to/sajeeb_me/nextjs-vs-reactjs-choosing-the-right-framework-for-your-web-projects-1hn)
 - [Dev.to/JS] [JavaScript Equality Operators: Demystifying == vs. === for Precise Comparisons](https://dev.to/iamcymentho/javascript-equality-operators-demystifying-vs-for-precise-comparisons-19bg)
 - [Dev.to/JS] [How to add multiple object and multiple image with nodejs, Mongodb, and react](https://dev.to/devcodef1/how-to-add-multiple-object-and-multiple-image-with-nodejs-mongodb-and-react-4pce)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Open Source: Strapi v4 - Formula field](https://dev.to/borysshulyak/open-source-strapi-v4-formula-field-46jd)
 - [Dev.to/JS] [Fetching Query String Values in JavaScript: A Step-by-Step Guide](https://dev.to/iamcymentho/fetching-query-string-values-in-javascript-a-step-by-step-guide-1chb)
 - [Dev.to/JS] [Boost Your JavaScript Performance with the Debounce Technique!](https://dev.to/yanagisawahidetoshi/boost-your-javascript-performance-with-the-debounce-technique-497i)
-- [Dev.to/JS] [The problem with Higher Order Array Functions &lpar;js&rpar;](https://dev.to/kamaaaal/the-problem-with-higher-order-array-function-js-41gf)
-- [Dev.to/JS] [Create a typescript utility library using Vite](https://dev.to/vinomanick/create-a-typescript-utility-library-using-vite-916)
-- [Dev.to/JS] [Modern way to create a react app using Vite - Part 3](https://dev.to/vinomanick/modern-way-to-create-a-react-app-using-vite-part-3-512d)
 - [Lifehacker] [Why Tubi Is the Greatest Streaming Service Ever](https://lifehacker.com/what-is-tubi-and-how-to-watch-it-free-1850736811)
 - [Lifehacker] [The Best Back-to-School Tech Deals You Can Find Right Now](https://lifehacker.com/the-best-back-to-school-tech-deals-you-can-find-right-n-1850736643)
 - [Lifehacker] [The Difference Between Fish Sauce, Oyster Sauce, and Lobster Sauce &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-fish-sauce-oyster-sauce-and-lo-1850736536)
