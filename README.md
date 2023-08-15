@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [REACT CONTEXT](https://dev.to/rogab0t/react-context-2p0l)
+- [Dev.to/JS] [CONSUMIR SERVICIOS WEB](https://dev.to/rogab0t/consumir-servicios-web-3cec)
+- [Dev.to/JS] [CSS EN REACT](https://dev.to/rogab0t/css-en-react-1bg5)
+- [Dev.to/JS] [ESENCIALES DE REACT](https://dev.to/rogab0t/esenciales-de-react-535c)
 - [Dev.to/JS] [Reactive Programming in React using RxJS](https://dev.to/avwerosuoghene/reactive-programming-in-react-using-rxjs-a-comprehensive-guide-2coi)
 - [Dev.to/JS] [Unit Tests in NodeJS](https://dev.to/jhonpedro/unit-tests-in-nodejs-53jk)
 - [Dev.to/JS] [JavaScript Asynchronous Programming: Concepts and Best Practices](https://dev.to/nziokidennis/javascript-asynchronous-programming-concepts-and-best-practices-38k7)
@@ -46,13 +50,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Beeper Isn&#39;t a Safe Solution for iMessaging on Android](https://lifehacker.com/beeper-isnt-a-safe-solution-for-imessaging-on-android-1850734981)
 - [Lifehacker] [How to Pack Your Whole Vacation Into a &#39;Personal Item&#39;](https://lifehacker.com/how-to-pack-your-whole-vacation-into-a-personal-item-1797207564)
 - [Lifehacker] [You Can Build a Hidden Cupboard Into a Wall](https://lifehacker.com/you-can-build-a-hidden-cupboard-into-a-wall-1850734067)
-- [Dev.to/JS] [Unlocking the Power of Functional Programming in JavaScript: A Comprehensive Guide](https://dev.to/urstrulyvishwak/unlocking-the-power-of-functional-programming-in-javascript-a-comprehensive-guide-fbk)
 - [Lifehacker] [20 Prime Video Original TV Shows You Should Be Watching](https://lifehacker.com/best-prime-video-original-tv-series-1850733503)
-- [Dev.to/JS] [How to pass parameters from child commponent to parent component in React?](https://dev.to/saurav181229/how-to-pass-parameters-from-child-commponent-to-parent-component-in-react-9im)
 - [Lifehacker] [Why You Should Pre-Smash Your Burgers](https://lifehacker.com/why-you-should-pre-smash-your-burgers-1832966230)
 - [Lifehacker] [I Hereby Declare This the Mac and Cheese of the Summer](https://lifehacker.com/i-hereby-declare-this-the-mac-and-cheese-of-the-summer-1850735380)
-- [Dev.to/JS] [Simplifying Database Backup and Restore with Easy Automation](https://dev.to/jacksonkasi/simplifying-database-backup-and-restore-with-easy-automation-1h01)
-- [Dev.to/JS] [TED](https://dev.to/marcuniversel11/ted-23i)
 - [Lifehacker] [Set These Boundaries With an Overly Affectionate Child](https://lifehacker.com/set-these-boundaries-with-an-overly-affectionate-child-1850678924)
 - [Lifehacker] [This Pop-Up Tent and Portable Mattress Is $400 Right Now](https://lifehacker.com/this-pop-up-tent-and-portable-mattress-is-400-right-no-1850729854)
 - [Lifehacker] [The Radrunner 3 Plus Is the SUV of E-Bikes](https://lifehacker.com/the-radrunner-3-plus-is-the-suv-of-e-bikes-1850729199)
