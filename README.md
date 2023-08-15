@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unmasking QuickBooks Error 6144 82 Causes and Remedies](https://dev.to/qbdataservice/unmasking-quickbooks-error-6144-82-causes-and-remedies-5g6g)
+- [Dev.to/JS] [The Reality of Functions](https://dev.to/cmleary/the-reality-of-functions-2l7k)
+- [Dev.to/JS] [Finally, I made it OpenSource. Postman Alternative](https://dev.to/nishchit14/finally-i-made-it-opensource-postman-alternative-1a1c)
+- [Dev.to/JS] [Garbage Collector in javascript](https://dev.to/biomathcode/garbage-collector-in-javascript-40o2)
+- [Lifehacker] [These International Open Academy Classes Are $60 Right Now](https://lifehacker.com/these-international-open-academy-classes-are-60-right-1850729932)
+- [Dev.to/JS] [Angular Change Detection and OnPush Strategy 🚀](https://dev.to/mana95/angular-change-detection-and-onpush-strategy-4l63)
+- [Dev.to/JS] [Guide to Building Great Audit Logs for Application Software](https://dev.to/dangtony98/guide-to-building-audit-logs-for-application-software-49fh)
+- [Dev.to/JS] [Why You Should Make a Game Engine: 5 Years as a Developer](https://dev.to/lkatkus/why-you-should-make-a-game-engine-5-years-as-a-developer-3ij1)
 - [Lifehacker] [Here Are Signs That Someone You Know Is Under a Conservatorship](https://lifehacker.com/here-are-signs-that-someone-you-know-is-under-a-conserv-1850739532)
 - [Dev.to/JS] [Start coding...](https://dev.to/ericacao/start-coding-1p7e)
 - [Dev.to/JS] [SolidUI generates any graphics in one sentence, v0.2.0 function introduction](https://dev.to/dlimeng/solidui-generates-any-graphics-in-one-sentence-v020-function-introduction-1c87)
@@ -38,15 +46,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mocker: Proxy Power for gRPC Development](https://dev.to/skyrampmia/mocker-proxy-power-for-grpc-development-gi7)
 - [Dev.to/JS] [Qwikify your Development with Nx](https://dev.to/nx/qwikify-your-development-with-nx-30cj)
 - [Lifehacker] [I Tested Runs With the Flipbelt and SPIbelt so You Don&#39;t Have To](https://lifehacker.com/i-tested-runs-with-the-flipbelt-and-spibelt-so-you-dont-1850737029)
-- [Dev.to/JS] [How to optimize your Storyblok app](https://dev.to/noblica/how-to-optimize-your-storyblok-app-55aa)
-- [Dev.to/JS] [You should repeat yourself when writing tests](https://dev.to/maksimovicdanijel/you-should-repeat-yourself-when-writing-tests-19b3)
-- [Dev.to/JS] [Promise Pool JavaScript LeetCode 2636](https://dev.to/endeavourmonk/promise-pool-javascript-leetcode-2636-598k)
-- [Dev.to/JS] [JS Challenge: Check if all elements in an array are the same](https://dev.to/jlogix/js-challenge-check-if-all-elements-in-an-array-are-the-same-1i3j)
-- [Dev.to/JS] [5 npm packages for React to Increase your Productivity](https://dev.to/varshithvhegde/5-npm-packages-for-react-to-increase-your-productivity-1fhj)
 - [Lifehacker] [35 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
-- [Dev.to/JS] [All About JavaScript Hoisting](https://dev.to/prodevxpert/all-about-javascript-hoisting-m5n)
 - [Lifehacker] [You Can Install Windows Without the Bloatware](https://lifehacker.com/you-can-install-windows-without-the-bloatware-1850738765)
-- [Dev.to/JS] [Day 26: Typed Arrays](https://dev.to/dhrn/day26-typed-arrays-5522)
 - [Lifehacker] [You Can Get Domino&#39;s Pizza for 50% Off This Week](https://lifehacker.com/you-can-get-dominos-pizza-for-50-off-this-week-1850738837)
 - [Lifehacker] [The Best Smart Speakers You Can Buy Now for Under $100](https://lifehacker.com/5-smart-speakers-you-can-buy-now-for-under-100-1849912921)
 - [Lifehacker] [This Older, Refurbished MacBook Pro Is $300 Right Now](https://lifehacker.com/this-older-refurbished-macbook-pro-is-300-right-now-1850730080)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Recalled Nestlé Cookie Dough May Contain Wood Fragments](https://lifehacker.com/this-recalled-nestle-cookie-dough-may-contain-wood-frag-1850735654)
 - [Lifehacker] [Beeper Isn&#39;t a Safe Solution for iMessaging on Android](https://lifehacker.com/beeper-isnt-a-safe-solution-for-imessaging-on-android-1850734981)
 - [Lifehacker] [How to Pack Your Whole Vacation Into a &#39;Personal Item&#39;](https://lifehacker.com/how-to-pack-your-whole-vacation-into-a-personal-item-1797207564)
-- [Lifehacker] [You Can Build a Hidden Cupboard Into a Wall](https://lifehacker.com/you-can-build-a-hidden-cupboard-into-a-wall-1850734067)
-- [Lifehacker] [20 Prime Video Original TV Shows You Should Be Watching](https://lifehacker.com/best-prime-video-original-tv-series-1850733503)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Build a Hidden Cupboard Into a Wall](https://lifehacker.com/you-can-build-a-hidden-cupboard-into-a-wall-1850734067)<!-- TECH-POSTS:END -->
 
 ---
 
