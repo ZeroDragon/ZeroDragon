@@ -26,6 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Qwikify your Development with Nx](https://dev.to/nx/qwikify-your-development-with-nx-30cj)
+- [Lifehacker] [I Tested Runs With the Flipbelt and SPIbelt so You Don&#39;t Have To](https://lifehacker.com/i-tested-runs-with-the-flipbelt-and-spibelt-so-you-dont-1850737029)
+- [Dev.to/JS] [How to optimize your Storyblok app](https://dev.to/noblica/how-to-optimize-your-storyblok-app-55aa)
+- [Dev.to/JS] [You should repeat yourself when writing tests](https://dev.to/maksimovicdanijel/you-should-repeat-yourself-when-writing-tests-19b3)
+- [Dev.to/JS] [Promise Pool JavaScript LeetCode 2636](https://dev.to/endeavourmonk/promise-pool-javascript-leetcode-2636-598k)
+- [Dev.to/JS] [JS Challenge: Check if all elements in an array are the same](https://dev.to/jlogix/js-challenge-check-if-all-elements-in-an-array-are-the-same-1i3j)
+- [Dev.to/JS] [5 npm packages for React to Increase your Productivity](https://dev.to/varshithvhegde/5-npm-packages-for-react-to-increase-your-productivity-1fhj)
+- [Lifehacker] [35 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
+- [Dev.to/JS] [All About JavaScript Hoisting](https://dev.to/prodevxpert/all-about-javascript-hoisting-m5n)
+- [Lifehacker] [You Can Install Windows Without the Bloatware](https://lifehacker.com/you-can-install-windows-without-the-bloatware-1850738765)
 - [Dev.to/JS] [Day 26: Typed Arrays](https://dev.to/dhrn/day26-typed-arrays-5522)
 - [Lifehacker] [You Can Get Domino&#39;s Pizza for 50% Off This Week](https://lifehacker.com/you-can-get-dominos-pizza-for-50-off-this-week-1850738837)
 - [Dev.to/JS] [How to create a dynamic sitemap.xml for your Sveltekit app.](https://dev.to/n3rd/how-to-create-a-dynamic-sitemapxml-for-your-sveltekit-app-3c1f)
@@ -34,15 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Smart Speakers You Can Buy Now for Under $100](https://lifehacker.com/5-smart-speakers-you-can-buy-now-for-under-100-1849912921)
 - [Dev.to/JS] [Building an Efficient MinStack in JavaScript🚀](https://dev.to/vikas2426/building-an-efficient-minstack-in-javascript-4c9i)
 - [Lifehacker] [This Older, Refurbished MacBook Pro Is $300 Right Now](https://lifehacker.com/this-older-refurbished-macbook-pro-is-300-right-now-1850730080)
-- [Dev.to/JS] [Spotlight on 2023&#39;s Leading Frontend Build Systems](https://dev.to/notoriousshubh/spotlight-on-2023s-leading-frontend-build-systems-2af4)
-- [Dev.to/JS] [📚 ReactJS vs Next.js 🌐](https://dev.to/shivabollam07/reactjs-vs-nextjs-40c0)
-- [Dev.to/JS] [Enhancing Test Clarity and Diagnostics in Abstractions](https://dev.to/woovi/enhancing-test-clarity-and-diagnostics-in-abstractions-1gd3)
 - [Lifehacker] [Program Your Smart Speaker to Automatically Play Music in Your Bathroom](https://lifehacker.com/program-your-smart-speaker-to-automatically-play-music-1850738085)
-- [Dev.to/JS] [The Frontend newsletter #10 - Discover the latest trends](https://dev.to/tech_foutraque/the-frontend-newsletter-10-15c6)
-- [Dev.to/JS] [The Frontend newsletter #9 - by Tech foutraque](https://dev.to/tech_foutraque/frontend-newsletter-9-by-tech-foutraque-5c19)
-- [Dev.to/JS] [🎆7 open-source libraries you must know🎆](https://dev.to/idurar/7-open-source-libraries-you-must-know-3aei)
 - [Lifehacker] [These Tools Are on Sale at Lowe’s and Home Depot Right Now](https://lifehacker.com/these-tools-are-on-sale-at-lowe-s-and-home-depot-right-1850738105)
-- [Dev.to/JS] [3 Ways To Detect AdBlockers In Javascript](https://dev.to/codeboxx/3-ways-to-detect-adblockers-in-javascript-5gc2)
 - [Lifehacker] [What to Do When You&#39;re Accused of Writing With AI](https://lifehacker.com/what-to-do-when-youre-accused-of-writing-with-ai-1850738025)
 - [Lifehacker] [Why Tubi Is the Greatest Streaming Service Ever](https://lifehacker.com/what-is-tubi-and-how-to-watch-it-free-1850736811)
 - [Lifehacker] [The Best Back-to-School Tech Deals You Can Find Right Now](https://lifehacker.com/the-best-back-to-school-tech-deals-you-can-find-right-n-1850736643)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Set These Boundaries With an Overly Affectionate Child](https://lifehacker.com/set-these-boundaries-with-an-overly-affectionate-child-1850678924)
 - [Lifehacker] [This Pop-Up Tent and Portable Mattress Is $400 Right Now](https://lifehacker.com/this-pop-up-tent-and-portable-mattress-is-400-right-no-1850729854)
 - [Lifehacker] [The Radrunner 3 Plus Is the SUV of E-Bikes](https://lifehacker.com/the-radrunner-3-plus-is-the-suv-of-e-bikes-1850729199)
-- [Lifehacker] [Place NFC Tags in Your Home to Automate Daily Routines](https://lifehacker.com/place-nfc-tags-in-your-home-to-automate-daily-routines-1850725431)
-- [Lifehacker] [This Wemax Go Projector and Screen Is $230 Right Now](https://lifehacker.com/this-wemax-go-projector-and-screen-is-230-right-now-1850729728)
-- [Lifehacker] [What It Means to Be a ‘Twice Exceptional’ Kid &lpar;and How to Support Them&rpar;](https://lifehacker.com/what-it-means-to-be-a-twice-exceptional-kid-and-how-1850733520)
-- [Lifehacker] [Every Step You Should Take Now to Prepare for a Climate Disaster Evacuation](https://lifehacker.com/every-step-you-should-take-now-to-prepare-for-a-climate-1850730314)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Place NFC Tags in Your Home to Automate Daily Routines](https://lifehacker.com/place-nfc-tags-in-your-home-to-automate-daily-routines-1850725431)<!-- TECH-POSTS:END -->
 
 ---
 
