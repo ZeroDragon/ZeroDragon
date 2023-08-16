@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get Two Microsoft Office Licenses for $80](https://lifehacker.com/you-can-get-two-microsoft-office-licenses-for-80-1850730209)
+- [Lifehacker] [Throw Out These Illegally Produced Home Pregnancy Tests, FDA Says](https://lifehacker.com/throw-out-these-illegally-produced-home-pregnancy-tests-1850744006)
+- [Lifehacker] [Waze Can Help You Find the Cheapest Gas Stations Along Your Route](https://lifehacker.com/waze-can-help-you-find-cheap-gas-along-your-route-1847986905)
+- [Lifehacker] [You Need to Know Where You Fall on the Happy-Productive Worker Scale](https://lifehacker.com/you-need-to-know-where-you-fall-on-the-happy-productive-1850743483)
 - [Dev.to/JS] [Why masking is not accessible](https://dev.to/dgreene1/why-masking-is-not-accessible-i3c)
 - [Lifehacker] [The Best Ways to Pack a School Lunch so It Actually Stays Fresh](https://lifehacker.com/the-best-ways-to-pack-a-school-lunch-so-it-actually-sta-1850744058)
 - [Lifehacker] [Here’s How Much You Actually Save Buying Gas at Costco](https://lifehacker.com/is-gas-really-cheaper-at-costco-1848651490)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Cruises Are Allowing You to Bring Two Extra Guests for Free](https://lifehacker.com/these-cruises-are-allowing-you-to-bring-two-extra-guest-1850740270)
 - [Lifehacker] [Four Ways to Use Up Your Travel Rewards Before They Expire](https://lifehacker.com/best-ways-to-use-expiring-travel-rewards-1850739086)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Toilet](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-toil-1849184056)
-- [Lifehacker] [When to Snitch on a Coworker &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-snitch-on-a-coworker-and-when-not-to-1850739817)
-- [Lifehacker] [You Can Replace Your Roof Yourself, But You Shouldn’t](https://lifehacker.com/you-can-replace-your-roof-yourself-but-you-shouldn-t-1850739430)
-- [Lifehacker] [The Rudest Things You Can Do at the Gym, According to Reddit](https://lifehacker.com/13-of-the-worst-breaches-of-gym-etiquette-according-to-1849631579)
-- [Lifehacker] [The Best Books to Help You Find Work-Life Balance](https://lifehacker.com/the-best-books-to-help-you-find-work-life-balance-1850739067)
-- [Lifehacker] [These International Open Academy Classes Are $60 Right Now](https://lifehacker.com/these-international-open-academy-classes-are-60-right-1850729932)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When to Snitch on a Coworker &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-snitch-on-a-coworker-and-when-not-to-1850739817)<!-- TECH-POSTS:END -->
 
 ---
 
