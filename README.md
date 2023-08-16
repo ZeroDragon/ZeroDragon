@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why masking is not accessible](https://dev.to/dgreene1/why-masking-is-not-accessible-i3c)
+- [Lifehacker] [The Best Ways to Pack a School Lunch so It Actually Stays Fresh](https://lifehacker.com/the-best-ways-to-pack-a-school-lunch-so-it-actually-sta-1850744058)
+- [Lifehacker] [Here’s How Much You Actually Save Buying Gas at Costco](https://lifehacker.com/is-gas-really-cheaper-at-costco-1848651490)
+- [Dev.to/JS] [Combining HTML Pages for Scroll Down Effect: A JavaScript, HTML, and CSS Solution](https://dev.to/devcodef1/combining-html-pages-for-scroll-down-effect-a-javascript-html-and-css-solution-4270)
 - [Dev.to/JS] [Mastering JavaScript Event Handling for Enhanced Frontend Functionality](https://dev.to/uzafar90/mastering-javascript-event-handling-for-enhanced-frontend-functionality-3id8)
 - [Lifehacker] [Use the &#39;Action Method&#39; to Get More Done](https://lifehacker.com/use-the-action-method-to-get-more-done-1850743361)
 - [Dev.to/JS] [JavaScript: Operators](https://dev.to/fullstackjo/javascript-operators-145o)
@@ -45,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Refine &amp; Nest.js boilerplate](https://dev.to/igolubic/refine-nestjs-boilerplate-4jh6)
 - [Lifehacker] [You Should Make Scallion Pancakes With Dumpling Wrappers](https://lifehacker.com/you-should-make-scallion-pancakes-with-dumpling-wrapper-1850743004)
 - [Dev.to/JS] [Formatting Dates in JavaScript: A Comprehensive Guide](https://dev.to/iamcymentho/formatting-dates-in-javascript-a-comprehensive-guide-1i9o)
-- [Dev.to/JS] [JavaScript Closures](https://dev.to/prodevxpert/understanding-closures-in-javascript-with-practical-examples-41hc)
-- [Dev.to/JS] [Day 27: Debugging](https://dev.to/dhrn/day-27-debugging-4hkp)
 - [Lifehacker] [The Ryobi Telescoping Power Scrubber Is the Best at Keeping My Tile Floors Clean](https://lifehacker.com/the-ryobi-telescoping-power-scrubber-is-the-best-at-kee-1850742182)
 - [Lifehacker] [You Can Now Leave Video Messages on FaceTime](https://lifehacker.com/you-can-now-leave-video-messages-on-facetime-1850742687)
 - [Lifehacker] [Do These Tasks This Month to Prepare Your Garden for Fall](https://lifehacker.com/do-these-tasks-this-month-to-prepare-your-garden-for-fa-1850742143)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Replace Your Roof Yourself, But You Shouldn’t](https://lifehacker.com/you-can-replace-your-roof-yourself-but-you-shouldn-t-1850739430)
 - [Lifehacker] [The Rudest Things You Can Do at the Gym, According to Reddit](https://lifehacker.com/13-of-the-worst-breaches-of-gym-etiquette-according-to-1849631579)
 - [Lifehacker] [The Best Books to Help You Find Work-Life Balance](https://lifehacker.com/the-best-books-to-help-you-find-work-life-balance-1850739067)
-- [Lifehacker] [These International Open Academy Classes Are $60 Right Now](https://lifehacker.com/these-international-open-academy-classes-are-60-right-1850729932)
-- [Lifehacker] [Here Are Signs That Someone You Know Is Under a Conservatorship](https://lifehacker.com/here-are-signs-that-someone-you-know-is-under-a-conserv-1850739532)
-- [Lifehacker] [Some Apps Are Hiding Your Sharing Options](https://lifehacker.com/some-apps-are-hiding-your-sharing-options-1850739204)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These International Open Academy Classes Are $60 Right Now](https://lifehacker.com/these-international-open-academy-classes-are-60-right-1850729932)<!-- TECH-POSTS:END -->
 
 ---
 
