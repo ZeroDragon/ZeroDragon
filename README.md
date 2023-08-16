@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Turn Your Melon Into Agua Fresca](https://lifehacker.com/turn-your-melon-into-agua-fresca-1850743581)
+- [Dev.to/JS] [🔇 Almost Muted Truth about the JavaScript async/await Mechanism](https://dev.to/raxetul/almost-muted-truth-about-the-javascript-asyncawait-mechanism-2cmj)
+- [Dev.to/JS] [Welcome to AnisCodes: Your Destination for Web Development Tips!](https://dev.to/aniscodes/welcome-to-aniscodes-your-destination-for-web-development-tips-3ohi)
+- [Lifehacker] [Google Photos Has a New Way to View Your Memories](https://lifehacker.com/google-photos-has-a-new-way-to-view-your-memories-1850743190)
+- [Dev.to/JS] [Introducing visual testing for Playwright](https://dev.to/chromatic/introducing-visual-testing-for-playwright-1o97)
+- [Dev.to/JS] [Doctor-Patient Conversations: AI-Powered Transcription and Summarization](https://dev.to/intersystems/doctor-patient-conversations-ai-powered-transcription-and-summarization-2p3j)
 - [Lifehacker] [Nine Things You Should Do During Paternity Leave](https://lifehacker.com/nine-things-you-should-do-during-paternity-leave-1850742179)
 - [Dev.to/JS] [Uncaught TypeError: &lpar;0 , _emberBabel.extends&rpar; is not a function](https://dev.to/nullvoxpopuli/uncaught-typeerror-0-emberbabelextends-is-not-a-function-5g6h)
 - [Lifehacker] [You Can Get Dollar Flight Club or Matt&#39;s Flights for Cheap Right Now](https://lifehacker.com/you-can-get-dollar-flight-club-or-matts-flights-for-che-1850737576)
@@ -39,12 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Leave Video Messages on FaceTime](https://lifehacker.com/you-can-now-leave-video-messages-on-facetime-1850742687)
 - [Dev.to/JS] [Mastering the Art of REST APIs: A Complete Overview](https://dev.to/scofieldidehen/mastering-the-art-of-rest-apis-a-complete-overview-4gfh)
 - [Dev.to/JS] [DIY Image gallery for Shopify blog posts](https://dev.to/jenkins007/diy-image-gallery-for-shopify-blog-posts-4pjh)
-- [Dev.to/JS] [React Jam, build a game using React | Winners Announcement!](https://dev.to/reactgamejam/react-jam-build-a-game-using-react-winners-announcement-252e)
-- [Dev.to/JS] [ReTECH: Remix Full Stack Client &amp; Admin eCommerce Template](https://dev.to/diakitelo/retech-remix-full-stack-client-admin-ecommerce-template-1cch)
-- [Dev.to/JS] [Create a full-screen navbar in your website [Responsive]](https://dev.to/preetsuthar17/create-a-full-screen-navbar-in-your-website-responsive-4agh)
 - [Lifehacker] [Do These Tasks This Month to Prepare Your Garden for Fall](https://lifehacker.com/do-these-tasks-this-month-to-prepare-your-garden-for-fa-1850742143)
 - [Lifehacker] [When You Need a DSLR Camera Instead of a Phone](https://lifehacker.com/when-you-need-a-dslr-camera-instead-of-a-phone-1850741963)
-- [Dev.to/JS] [Dev Job Oppurtunities @ VC-Backed Startups](https://dev.to/mohanmukund13/vc-backed-startups-dev-job-oppurtunities-488k)
 - [Lifehacker] [What to Do After Your First Pullup](https://lifehacker.com/what-to-do-after-your-first-pullup-1850741036)
 - [Lifehacker] [Unexpected Jobs That Can Earn You Six Figures](https://lifehacker.com/unexpected-jobs-that-can-earn-you-six-figures-1850738764)
 - [Lifehacker] [Prioritize Your To-Do&#39;s With the ABC Method](https://lifehacker.com/prioritize-your-to-dos-with-the-abc-method-1850738882)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Secret to Making the Perfect Pasta Salad](https://lifehacker.com/imperfect-pasta-is-the-secret-to-perfect-pasta-salad-1834981171)
 - [Lifehacker] [This Is the Best Bread for Your BLT](https://lifehacker.com/this-is-the-best-bread-for-your-blt-1850739394)
 - [Lifehacker] [This Turntable With Bluetooth Speakers Is $250 Right Now](https://lifehacker.com/this-turntable-with-bluetooth-speakers-is-250-right-no-1850730056)
-- [Lifehacker] [The Complete Guide to Never Getting Locked Out of Your Apartment Again](https://lifehacker.com/how-to-never-get-locked-out-of-your-apartment-again-1849146996)
-- [Lifehacker] [I Tested Runs With the Flipbelt and SPIbelt so You Don&#39;t Have To](https://lifehacker.com/i-tested-runs-with-the-flipbelt-and-spibelt-so-you-dont-1850737029)
-- [Lifehacker] [35 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Complete Guide to Never Getting Locked Out of Your Apartment Again](https://lifehacker.com/how-to-never-get-locked-out-of-your-apartment-again-1849146996)<!-- TECH-POSTS:END -->
 
 ---
 
