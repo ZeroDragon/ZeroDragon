@@ -26,7 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Formatting Dates in JavaScript: A Comprehensive Guide](https://dev.to/iamcymentho/formatting-dates-in-javascript-a-comprehensive-guide-1i9o)
+- [Dev.to/JS] [JavaScript Closures](https://dev.to/prodevxpert/understanding-closures-in-javascript-with-practical-examples-41hc)
+- [Dev.to/JS] [Day 27: Debugging](https://dev.to/dhrn/day-27-debugging-4hkp)
+- [Lifehacker] [The Ryobi Telescoping Power Scrubber Is the Best at Keeping My Tile Floors Clean](https://lifehacker.com/the-ryobi-telescoping-power-scrubber-is-the-best-at-kee-1850742182)
+- [Dev.to/JS] [industrial bonding adhesives](https://dev.to/indbonadhe/industrial-bonding-adhesives-4446)
 - [Lifehacker] [You Can Now Leave Video Messages on FaceTime](https://lifehacker.com/you-can-now-leave-video-messages-on-facetime-1850742687)
+- [Dev.to/JS] [Mastering the Art of REST APIs: A Complete Overview](https://dev.to/scofieldidehen/mastering-the-art-of-rest-apis-a-complete-overview-4gfh)
 - [Dev.to/JS] [DIY Image gallery for Shopify blog posts](https://dev.to/jenkins007/diy-image-gallery-for-shopify-blog-posts-4pjh)
 - [Dev.to/JS] [React Jam, build a game using React | Winners Announcement!](https://dev.to/reactgamejam/react-jam-build-a-game-using-react-winners-announcement-252e)
 - [Dev.to/JS] [ReTECH: Remix Full Stack Client &amp; Admin eCommerce Template](https://dev.to/diakitelo/retech-remix-full-stack-client-admin-ecommerce-template-1cch)
@@ -38,11 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useRef in React &lpar;easy language&rpar;](https://dev.to/diwakarkashyap/useref-in-react-easy-language-18na)
 - [Lifehacker] [Unexpected Jobs That Can Earn You Six Figures](https://lifehacker.com/unexpected-jobs-that-can-earn-you-six-figures-1850738764)
 - [Dev.to/JS] [Demystifying &quot;No &#39;Access-Control-Allow-Origin&#39; Header&quot; in JavaScript and Postman: A Comprehensive Exploration](https://dev.to/iamcymentho/demystifying-no-access-control-allow-origin-header-in-javascript-and-postman-a-comprehensive-exploration-4na5)
-- [Dev.to/JS] [Parsing SemVer in Javascript with the official RegEx](https://dev.to/receter/parsing-semver-in-javascript-with-the-official-regex-4e0e)
-- [Dev.to/JS] [🥇 The Best Serverless Framework in 2023: A Data-Driven Showdown for AWS Projects](https://dev.to/slsbytheodo/the-best-serverless-framework-in-2023-a-data-driven-showdown-for-aws-projects-1p3h)
-- [Dev.to/JS] [Top Api Architectural Styles](https://dev.to/emmanuel_ishola/top-api-architectural-styles-4340)
-- [Dev.to/JS] [Impossible⁉️ CSS only syntax highlighting 😱 ...with a single element and GRADIENTS 🤯](https://dev.to/grahamthedev/impossible-css-only-js-syntax-highlighting-with-a-single-element-and-gradients-243j)
-- [Dev.to/JS] [Introducing Formango: The fruitful way to simplify form validation in Vue!](https://dev.to/robbe95/introducing-formango-the-fruitful-way-to-simplify-form-validation-in-vue-1i6e)
 - [Lifehacker] [Prioritize Your To-Do&#39;s With the ABC Method](https://lifehacker.com/prioritize-your-to-dos-with-the-abc-method-1850738882)
 - [Lifehacker] [Google’s AI Can Now Summarize an Article Directly in Search Results](https://lifehacker.com/google-s-ai-can-now-summarize-an-article-directly-in-se-1850740737)
 - [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [35 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
 - [Lifehacker] [You Can Install Windows Without the Bloatware](https://lifehacker.com/you-can-install-windows-without-the-bloatware-1850738765)
 - [Lifehacker] [You Can Get Domino&#39;s Pizza for 50% Off This Week](https://lifehacker.com/you-can-get-dominos-pizza-for-50-off-this-week-1850738837)
-- [Lifehacker] [The Best Smart Speakers You Can Buy Now for Under $100](https://lifehacker.com/5-smart-speakers-you-can-buy-now-for-under-100-1849912921)
-- [Lifehacker] [This Older, Refurbished MacBook Pro Is $300 Right Now](https://lifehacker.com/this-older-refurbished-macbook-pro-is-300-right-now-1850730080)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Smart Speakers You Can Buy Now for Under $100](https://lifehacker.com/5-smart-speakers-you-can-buy-now-for-under-100-1849912921)<!-- TECH-POSTS:END -->
 
 ---
 
