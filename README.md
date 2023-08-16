@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Dockerize a React Application](https://dev.to/ayesh_nipun/how-to-dockerize-a-react-application-kpa)
+- [Dev.to/JS] [Redux vs Redux-Tool kit](https://dev.to/sankalpcreat/redux-vs-redux-tool-kit-41pn)
+- [Dev.to/JS] [Text, Comments, and Literals in JavaScript Programs](https://dev.to/better678/text-comments-and-literals-in-javascript-programs-3b0)
+- [Lifehacker] [Prioritize Your To-Do&#39;s With the ABC Method](https://lifehacker.com/prioritize-your-to-dos-with-the-abc-method-1850738882)
+- [Dev.to/JS] [🌐 Exciting Project Alert: Build Your Own Web-Based Translator! 🌐](https://dev.to/sadiqshaik123/exciting-project-alert-build-your-own-web-based-translator-4fh6)
+- [Dev.to/JS] [Add plus one to the integer](https://dev.to/chandrapenugonda/add-plus-one-to-the-integer-27of)
 - [Dev.to/JS] [Data Structures vs. Full Stack Development](https://dev.to/shivabollam07/data-structures-vs-full-stack-development-29m3)
 - [Dev.to/JS] [🛠️ Troubleshooting React: 5 Errors You Can Easily Overcome 🚀](https://dev.to/anii1429/troubleshooting-react-5-errors-you-can-easily-overcome-118e)
 - [Dev.to/JS] [Creating Stunning 3D Instagram Story Swipes with React: A Step-by-Step Tutorial](https://dev.to/brainiacneit/creating-stunning-3d-instagram-story-swipes-with-react-a-step-by-step-tutorial-5938)
@@ -33,12 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Entiende de una vez los lenguajes de alto y bajo nivel](https://dev.to/wiar8/entiende-de-una-vez-los-lenguajes-de-alto-y-bajo-nivel-228)
 - [Dev.to/JS] [Using jQuery: How to Toggle Additional Sub Fields in a Form Based on Radio Button Clicked](https://dev.to/devcodef1/using-jquery-how-to-toggle-additional-sub-fields-in-a-form-based-on-radio-button-clicked-5g6c)
 - [Dev.to/JS] [JavaScript in the threads: Unveiling React Native Threads and Differential JS Handling in Debug versus Release Modes](https://dev.to/stanleyugwu/javascript-in-the-threads-unveiling-react-native-threads-and-differential-js-handling-in-debug-versus-release-modes-1p1g)
-- [Dev.to/JS] [Finally JavaScript here I Am😌](https://dev.to/mheyrie/finally-javascript-here-i-am-22b4)
-- [Dev.to/JS] [A link to my blog](https://dev.to/merri/a-link-to-my-blog-2494)
-- [Dev.to/JS] [Vuejs composables: hands-on examples](https://dev.to/hssanbzlm/vuejs-composables-hands-on-examples-3lpk)
-- [Dev.to/JS] [Angular Dynamic Form Using XSD](https://dev.to/pixelbyaj/angular-dynamic-form-using-xsd-9lb)
 - [Lifehacker] [Google’s AI Can Now Summarize an Article Directly in Search Results](https://lifehacker.com/google-s-ai-can-now-summarize-an-article-directly-in-se-1850740737)
-- [Dev.to/JS] [Demystifying QuickBooks Error 1603 Causes and Effective Solutions](https://dev.to/qbdataservice/demystifying-quickbooks-error-1603-causes-and-effective-solutions-525i)
 - [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
 - [Lifehacker] [These Cruises Are Allowing You to Bring Two Extra Guests for Free](https://lifehacker.com/these-cruises-are-allowing-you-to-bring-two-extra-guest-1850740270)
 - [Lifehacker] [Four Ways to Use Up Your Travel Rewards Before They Expire](https://lifehacker.com/best-ways-to-use-expiring-travel-rewards-1850739086)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Tools Are on Sale at Lowe’s and Home Depot Right Now](https://lifehacker.com/these-tools-are-on-sale-at-lowe-s-and-home-depot-right-1850738105)
 - [Lifehacker] [What to Do When You&#39;re Accused of Writing With AI](https://lifehacker.com/what-to-do-when-youre-accused-of-writing-with-ai-1850738025)
 - [Lifehacker] [Why Tubi Is the Greatest Streaming Service Ever](https://lifehacker.com/what-is-tubi-and-how-to-watch-it-free-1850736811)
-- [Lifehacker] [The Best Back-to-School Tech Deals You Can Find Right Now](https://lifehacker.com/the-best-back-to-school-tech-deals-you-can-find-right-n-1850736643)
-- [Lifehacker] [The Difference Between Fish Sauce, Oyster Sauce, and Lobster Sauce &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-difference-between-fish-sauce-oyster-sauce-and-lo-1850736536)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Back-to-School Tech Deals You Can Find Right Now](https://lifehacker.com/the-best-back-to-school-tech-deals-you-can-find-right-n-1850736643)<!-- TECH-POSTS:END -->
 
 ---
 
