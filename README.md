@@ -26,20 +26,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Now Leave Video Messages on FaceTime](https://lifehacker.com/you-can-now-leave-video-messages-on-facetime-1850742687)
+- [Dev.to/JS] [DIY Image gallery for Shopify blog posts](https://dev.to/jenkins007/diy-image-gallery-for-shopify-blog-posts-4pjh)
+- [Dev.to/JS] [React Jam, build a game using React | Winners Announcement!](https://dev.to/reactgamejam/react-jam-build-a-game-using-react-winners-announcement-252e)
+- [Dev.to/JS] [ReTECH: Remix Full Stack Client &amp; Admin eCommerce Template](https://dev.to/diakitelo/retech-remix-full-stack-client-admin-ecommerce-template-1cch)
+- [Dev.to/JS] [Create a full-screen navbar in your website [Responsive]](https://dev.to/preetsuthar17/create-a-full-screen-navbar-in-your-website-responsive-4agh)
+- [Lifehacker] [Do These Tasks This Month to Prepare Your Garden for Fall](https://lifehacker.com/do-these-tasks-this-month-to-prepare-your-garden-for-fa-1850742143)
+- [Lifehacker] [When You Need a DSLR Camera Instead of a Phone](https://lifehacker.com/when-you-need-a-dslr-camera-instead-of-a-phone-1850741963)
 - [Dev.to/JS] [Dev Job Oppurtunities @ VC-Backed Startups](https://dev.to/mohanmukund13/vc-backed-startups-dev-job-oppurtunities-488k)
 - [Lifehacker] [What to Do After Your First Pullup](https://lifehacker.com/what-to-do-after-your-first-pullup-1850741036)
 - [Dev.to/JS] [useRef in React &lpar;easy language&rpar;](https://dev.to/diwakarkashyap/useref-in-react-easy-language-18na)
 - [Lifehacker] [Unexpected Jobs That Can Earn You Six Figures](https://lifehacker.com/unexpected-jobs-that-can-earn-you-six-figures-1850738764)
 - [Dev.to/JS] [Demystifying &quot;No &#39;Access-Control-Allow-Origin&#39; Header&quot; in JavaScript and Postman: A Comprehensive Exploration](https://dev.to/iamcymentho/demystifying-no-access-control-allow-origin-header-in-javascript-and-postman-a-comprehensive-exploration-4na5)
-- [Dev.to/JS] [Parsing SemVer in Javascript, with the official RegEx](https://dev.to/receter/parsing-semver-in-javascript-with-the-official-regex-4e0e)
+- [Dev.to/JS] [Parsing SemVer in Javascript with the official RegEx](https://dev.to/receter/parsing-semver-in-javascript-with-the-official-regex-4e0e)
 - [Dev.to/JS] [🥇 The Best Serverless Framework in 2023: A Data-Driven Showdown for AWS Projects](https://dev.to/slsbytheodo/the-best-serverless-framework-in-2023-a-data-driven-showdown-for-aws-projects-1p3h)
 - [Dev.to/JS] [Top Api Architectural Styles](https://dev.to/emmanuel_ishola/top-api-architectural-styles-4340)
 - [Dev.to/JS] [Impossible⁉️ CSS only syntax highlighting 😱 ...with a single element and GRADIENTS 🤯](https://dev.to/grahamthedev/impossible-css-only-js-syntax-highlighting-with-a-single-element-and-gradients-243j)
 - [Dev.to/JS] [Introducing Formango: The fruitful way to simplify form validation in Vue!](https://dev.to/robbe95/introducing-formango-the-fruitful-way-to-simplify-form-validation-in-vue-1i6e)
-- [Dev.to/JS] [Data Structures and Algorithms: Big O Notation](https://dev.to/purity_gwaro/data-structures-and-algorithms-big-o-notation-1m3b)
-- [Dev.to/JS] [How to create custom events in Svelte](https://dev.to/kalashin1/how-to-create-custom-events-in-svelte-2cnc)
-- [Dev.to/JS] [Paid SaaS starters](https://dev.to/marcin_codes/paid-saas-starters-3me5)
-- [Dev.to/JS] [Unveiling the Magic: How the Virtual DOM Works in React](https://dev.to/crossskatee1/unveiling-the-magic-how-the-virtual-dom-works-in-react-5g84)
 - [Lifehacker] [Prioritize Your To-Do&#39;s With the ABC Method](https://lifehacker.com/prioritize-your-to-dos-with-the-abc-method-1850738882)
 - [Lifehacker] [Google’s AI Can Now Summarize an Article Directly in Search Results](https://lifehacker.com/google-s-ai-can-now-summarize-an-article-directly-in-se-1850740737)
 - [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Install Windows Without the Bloatware](https://lifehacker.com/you-can-install-windows-without-the-bloatware-1850738765)
 - [Lifehacker] [You Can Get Domino&#39;s Pizza for 50% Off This Week](https://lifehacker.com/you-can-get-dominos-pizza-for-50-off-this-week-1850738837)
 - [Lifehacker] [The Best Smart Speakers You Can Buy Now for Under $100](https://lifehacker.com/5-smart-speakers-you-can-buy-now-for-under-100-1849912921)
-- [Lifehacker] [This Older, Refurbished MacBook Pro Is $300 Right Now](https://lifehacker.com/this-older-refurbished-macbook-pro-is-300-right-now-1850730080)
-- [Lifehacker] [Program Your Smart Speaker to Automatically Play Music in Your Bathroom](https://lifehacker.com/program-your-smart-speaker-to-automatically-play-music-1850738085)
-- [Lifehacker] [These Tools Are on Sale at Lowe’s and Home Depot Right Now](https://lifehacker.com/these-tools-are-on-sale-at-lowe-s-and-home-depot-right-1850738105)
-- [Lifehacker] [What to Do When You&#39;re Accused of Writing With AI](https://lifehacker.com/what-to-do-when-youre-accused-of-writing-with-ai-1850738025)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Older, Refurbished MacBook Pro Is $300 Right Now](https://lifehacker.com/this-older-refurbished-macbook-pro-is-300-right-now-1850730080)<!-- TECH-POSTS:END -->
 
 ---
 
