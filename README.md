@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Is there any way to monitor micro task and macro task queue?](https://dev.to/mrdulin/is-there-any-way-to-monitor-micro-task-and-macro-task-queue-fl9)
+- [Dev.to/JS] [:film_projector: “Sanity Summer Release Event: Empowering Creators” goes live TODAY!](https://dev.to/reinis7/filmprojector-sanity-summer-release-event-empowering-creators-goes-live-today-509e)
 - [Dev.to/JS] [How to Dockerize a React Application](https://dev.to/ayesh_nipun/how-to-dockerize-a-react-application-kpa)
 - [Dev.to/JS] [Redux vs Redux-Tool kit](https://dev.to/sankalpcreat/redux-vs-redux-tool-kit-41pn)
 - [Dev.to/JS] [Text, Comments, and Literals in JavaScript Programs](https://dev.to/better678/text-comments-and-literals-in-javascript-programs-3b0)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating Stunning 3D Instagram Story Swipes with React: A Step-by-Step Tutorial](https://dev.to/brainiacneit/creating-stunning-3d-instagram-story-swipes-with-react-a-step-by-step-tutorial-5938)
 - [Dev.to/JS] [Guía de bolsillo de PNPM](https://dev.to/wiar8/guia-de-bolsillo-de-pnpm-525i)
 - [Dev.to/JS] [Entiende de una vez los lenguajes de alto y bajo nivel](https://dev.to/wiar8/entiende-de-una-vez-los-lenguajes-de-alto-y-bajo-nivel-228)
-- [Dev.to/JS] [Using jQuery: How to Toggle Additional Sub Fields in a Form Based on Radio Button Clicked](https://dev.to/devcodef1/using-jquery-how-to-toggle-additional-sub-fields-in-a-form-based-on-radio-button-clicked-5g6c)
-- [Dev.to/JS] [JavaScript in the threads: Unveiling React Native Threads and Differential JS Handling in Debug versus Release Modes](https://dev.to/stanleyugwu/javascript-in-the-threads-unveiling-react-native-threads-and-differential-js-handling-in-debug-versus-release-modes-1p1g)
 - [Lifehacker] [Google’s AI Can Now Summarize an Article Directly in Search Results](https://lifehacker.com/google-s-ai-can-now-summarize-an-article-directly-in-se-1850740737)
 - [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
 - [Lifehacker] [These Cruises Are Allowing You to Bring Two Extra Guests for Free](https://lifehacker.com/these-cruises-are-allowing-you-to-bring-two-extra-guest-1850740270)
