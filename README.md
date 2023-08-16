@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Custom Hook: useEventListener](https://dev.to/sergeyleschev/react-custom-hook-useeventlistener-4kb7)
+- [Dev.to/JS] [function vs expression vs arrow definitions - Performance comparison &lpar;Part 3&rpar;](https://dev.to/manojadams/function-vs-expression-vs-arrow-definitions-performance-comparison-part-3-44n4)
+- [Lifehacker] [Here’s What Happens When You Use AI for Professional Headshots](https://lifehacker.com/here-s-what-happens-when-you-use-ai-for-professional-he-1850744740)
+- [Lifehacker] [The Best Gmail Extensions Everyone Should Be Using](https://lifehacker.com/best-gmail-extensions-1847854431)
 - [Lifehacker] [You Can Get Two Microsoft Office Licenses for $80](https://lifehacker.com/you-can-get-two-microsoft-office-licenses-for-80-1850730209)
 - [Lifehacker] [Throw Out These Illegally Produced Home Pregnancy Tests, FDA Says](https://lifehacker.com/throw-out-these-illegally-produced-home-pregnancy-tests-1850744006)
 - [Lifehacker] [Waze Can Help You Find the Cheapest Gas Stations Along Your Route](https://lifehacker.com/waze-can-help-you-find-cheap-gas-along-your-route-1847986905)
@@ -50,9 +54,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Nine Things You Should Do During Paternity Leave](https://lifehacker.com/nine-things-you-should-do-during-paternity-leave-1850742179)
 - [Dev.to/JS] [Uncaught TypeError: &lpar;0 , _emberBabel.extends&rpar; is not a function](https://dev.to/nullvoxpopuli/uncaught-typeerror-0-emberbabelextends-is-not-a-function-5g6h)
 - [Lifehacker] [You Can Get Dollar Flight Club or Matt&#39;s Flights for Cheap Right Now](https://lifehacker.com/you-can-get-dollar-flight-club-or-matts-flights-for-che-1850737576)
-- [Dev.to/JS] [Refine &amp; Nest.js boilerplate](https://dev.to/igolubic/refine-nestjs-boilerplate-4jh6)
 - [Lifehacker] [You Should Make Scallion Pancakes With Dumpling Wrappers](https://lifehacker.com/you-should-make-scallion-pancakes-with-dumpling-wrapper-1850743004)
-- [Dev.to/JS] [Formatting Dates in JavaScript: A Comprehensive Guide](https://dev.to/iamcymentho/formatting-dates-in-javascript-a-comprehensive-guide-1i9o)
 - [Lifehacker] [The Ryobi Telescoping Power Scrubber Is the Best at Keeping My Tile Floors Clean](https://lifehacker.com/the-ryobi-telescoping-power-scrubber-is-the-best-at-kee-1850742182)
 - [Lifehacker] [You Can Now Leave Video Messages on FaceTime](https://lifehacker.com/you-can-now-leave-video-messages-on-facetime-1850742687)
 - [Lifehacker] [Do These Tasks This Month to Prepare Your Garden for Fall](https://lifehacker.com/do-these-tasks-this-month-to-prepare-your-garden-for-fa-1850742143)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Google’s AI Can Now Summarize an Article Directly in Search Results](https://lifehacker.com/google-s-ai-can-now-summarize-an-article-directly-in-se-1850740737)
 - [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
 - [Lifehacker] [These Cruises Are Allowing You to Bring Two Extra Guests for Free](https://lifehacker.com/these-cruises-are-allowing-you-to-bring-two-extra-guest-1850740270)
-- [Lifehacker] [Four Ways to Use Up Your Travel Rewards Before They Expire](https://lifehacker.com/best-ways-to-use-expiring-travel-rewards-1850739086)
-- [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Toilet](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-toil-1849184056)
-- [Lifehacker] [When to Snitch on a Coworker &lpar;and When Not To&rpar;](https://lifehacker.com/when-to-snitch-on-a-coworker-and-when-not-to-1850739817)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Four Ways to Use Up Your Travel Rewards Before They Expire](https://lifehacker.com/best-ways-to-use-expiring-travel-rewards-1850739086)<!-- TECH-POSTS:END -->
 
 ---
 
