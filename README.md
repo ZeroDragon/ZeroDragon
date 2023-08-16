@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering JavaScript Event Handling for Enhanced Frontend Functionality](https://dev.to/uzafar90/mastering-javascript-event-handling-for-enhanced-frontend-functionality-3id8)
+- [Lifehacker] [Use the &#39;Action Method&#39; to Get More Done](https://lifehacker.com/use-the-action-method-to-get-more-done-1850743361)
+- [Dev.to/JS] [JavaScript: Operators](https://dev.to/fullstackjo/javascript-operators-145o)
+- [Dev.to/JS] [The Power of Just-In-Time &lpar;JIT&rpar; Compiler in Software Development](https://dev.to/monarch_2009/the-power-of-just-in-time-jit-compiler-in-software-development-2ald)
+- [Lifehacker] [How to Make Sure Your Paint Job Doesn’t Peel, Bubble, or Discolor](https://lifehacker.com/how-to-make-sure-your-paint-job-doesn-t-peel-bubble-o-1850743475)
+- [Lifehacker] [How Packing Cubes Can Change Your Life](https://lifehacker.com/how-packing-cubes-can-change-your-life-1833717212)
+- [Lifehacker] [Stop Making Bad Coleslaw](https://lifehacker.com/stop-making-bad-coleslaw-1826269204)
 - [Lifehacker] [Turn Your Melon Into Agua Fresca](https://lifehacker.com/turn-your-melon-into-agua-fresca-1850743581)
 - [Dev.to/JS] [🔇 Almost Muted Truth about the JavaScript async/await Mechanism](https://dev.to/raxetul/almost-muted-truth-about-the-javascript-asyncawait-mechanism-2cmj)
 - [Dev.to/JS] [Welcome to AnisCodes: Your Destination for Web Development Tips!](https://dev.to/aniscodes/welcome-to-aniscodes-your-destination-for-web-development-tips-3ohi)
@@ -41,10 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Closures](https://dev.to/prodevxpert/understanding-closures-in-javascript-with-practical-examples-41hc)
 - [Dev.to/JS] [Day 27: Debugging](https://dev.to/dhrn/day-27-debugging-4hkp)
 - [Lifehacker] [The Ryobi Telescoping Power Scrubber Is the Best at Keeping My Tile Floors Clean](https://lifehacker.com/the-ryobi-telescoping-power-scrubber-is-the-best-at-kee-1850742182)
-- [Dev.to/JS] [industrial bonding adhesives](https://dev.to/indbonadhe/industrial-bonding-adhesives-4446)
 - [Lifehacker] [You Can Now Leave Video Messages on FaceTime](https://lifehacker.com/you-can-now-leave-video-messages-on-facetime-1850742687)
-- [Dev.to/JS] [Mastering the Art of REST APIs: A Complete Overview](https://dev.to/scofieldidehen/mastering-the-art-of-rest-apis-a-complete-overview-4gfh)
-- [Dev.to/JS] [DIY Image gallery for Shopify blog posts](https://dev.to/jenkins007/diy-image-gallery-for-shopify-blog-posts-4pjh)
 - [Lifehacker] [Do These Tasks This Month to Prepare Your Garden for Fall](https://lifehacker.com/do-these-tasks-this-month-to-prepare-your-garden-for-fa-1850742143)
 - [Lifehacker] [When You Need a DSLR Camera Instead of a Phone](https://lifehacker.com/when-you-need-a-dslr-camera-instead-of-a-phone-1850741963)
 - [Lifehacker] [What to Do After Your First Pullup](https://lifehacker.com/what-to-do-after-your-first-pullup-1850741036)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Books to Help You Find Work-Life Balance](https://lifehacker.com/the-best-books-to-help-you-find-work-life-balance-1850739067)
 - [Lifehacker] [These International Open Academy Classes Are $60 Right Now](https://lifehacker.com/these-international-open-academy-classes-are-60-right-1850729932)
 - [Lifehacker] [Here Are Signs That Someone You Know Is Under a Conservatorship](https://lifehacker.com/here-are-signs-that-someone-you-know-is-under-a-conserv-1850739532)
-- [Lifehacker] [Some Apps Are Hiding Your Sharing Options](https://lifehacker.com/some-apps-are-hiding-your-sharing-options-1850739204)
-- [Lifehacker] [The Secret to Making the Perfect Pasta Salad](https://lifehacker.com/imperfect-pasta-is-the-secret-to-perfect-pasta-salad-1834981171)
-- [Lifehacker] [This Is the Best Bread for Your BLT](https://lifehacker.com/this-is-the-best-bread-for-your-blt-1850739394)
-- [Lifehacker] [This Turntable With Bluetooth Speakers Is $250 Right Now](https://lifehacker.com/this-turntable-with-bluetooth-speakers-is-250-right-no-1850730056)
-- [Lifehacker] [The Complete Guide to Never Getting Locked Out of Your Apartment Again](https://lifehacker.com/how-to-never-get-locked-out-of-your-apartment-again-1849146996)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Some Apps Are Hiding Your Sharing Options](https://lifehacker.com/some-apps-are-hiding-your-sharing-options-1850739204)<!-- TECH-POSTS:END -->
 
 ---
 
