@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Preventing Multiple Lock Files in Your Git Repository using Husky](https://dev.to/nirajniroula/preventing-multiple-lock-files-in-your-git-repository-using-husky-5bcc)
+- [Dev.to/JS] [Calculate Determinant Matrix using Javascript](https://dev.to/taufiksty/calculate-determinant-matrix-using-javascript-2cnc)
+- [Dev.to/JS] [Random Gradient Generator](https://dev.to/rahilisvahora/random-gradient-generator-2m78)
+- [Dev.to/JS] [Responsive Travel Website Using HTML CSS JavaScript](https://dev.to/onlineittutstutorials/responsive-travel-website-using-html-css-javascript-hnj)
+- [Dev.to/JS] [How to manually test a web API](https://dev.to/how-to-dev/how-to-manually-test-a-web-api-2il5)
 - [Dev.to/JS] [Is there any way to monitor micro task and macro task queue?](https://dev.to/mrdulin/is-there-any-way-to-monitor-micro-task-and-macro-task-queue-fl9)
 - [Dev.to/JS] [:film_projector: “Sanity Summer Release Event: Empowering Creators” goes live TODAY!](https://dev.to/reinis7/filmprojector-sanity-summer-release-event-empowering-creators-goes-live-today-509e)
 - [Dev.to/JS] [How to Dockerize a React Application](https://dev.to/ayesh_nipun/how-to-dockerize-a-react-application-kpa)
@@ -34,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Prioritize Your To-Do&#39;s With the ABC Method](https://lifehacker.com/prioritize-your-to-dos-with-the-abc-method-1850738882)
 - [Dev.to/JS] [🌐 Exciting Project Alert: Build Your Own Web-Based Translator! 🌐](https://dev.to/sadiqshaik123/exciting-project-alert-build-your-own-web-based-translator-4fh6)
 - [Dev.to/JS] [Add plus one to the integer](https://dev.to/chandrapenugonda/add-plus-one-to-the-integer-27of)
-- [Dev.to/JS] [Data Structures vs. Full Stack Development](https://dev.to/shivabollam07/data-structures-vs-full-stack-development-29m3)
-- [Dev.to/JS] [🛠️ Troubleshooting React: 5 Errors You Can Easily Overcome 🚀](https://dev.to/anii1429/troubleshooting-react-5-errors-you-can-easily-overcome-118e)
-- [Dev.to/JS] [Creating Stunning 3D Instagram Story Swipes with React: A Step-by-Step Tutorial](https://dev.to/brainiacneit/creating-stunning-3d-instagram-story-swipes-with-react-a-step-by-step-tutorial-5938)
-- [Dev.to/JS] [Guía de bolsillo de PNPM](https://dev.to/wiar8/guia-de-bolsillo-de-pnpm-525i)
-- [Dev.to/JS] [Entiende de una vez los lenguajes de alto y bajo nivel](https://dev.to/wiar8/entiende-de-una-vez-los-lenguajes-de-alto-y-bajo-nivel-228)
 - [Lifehacker] [Google’s AI Can Now Summarize an Article Directly in Search Results](https://lifehacker.com/google-s-ai-can-now-summarize-an-article-directly-in-se-1850740737)
 - [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
 - [Lifehacker] [These Cruises Are Allowing You to Bring Two Extra Guests for Free](https://lifehacker.com/these-cruises-are-allowing-you-to-bring-two-extra-guest-1850740270)
