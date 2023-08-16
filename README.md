@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [You won&#39;t be able to answer this simple JavaScript question!](https://dev.to/sadeedpv/you-wont-be-able-to-answer-this-javascript-question-235i)
+- [Dev.to/JS] [Optimizing Web Development Through TypeScript Integration](https://dev.to/avwerosuoghene/optimizing-web-development-through-typescript-integration-1fcd)
+- [Dev.to/JS] [I created a platform to Create Family Tree](https://dev.to/brojenuel/i-created-a-platform-to-create-family-tree-693)
+- [Dev.to/JS] [Blockchain in Project Management | Exploring its Potentials](https://dev.to/donnajohnson88/blockchain-in-project-management-exploring-its-potentials-38h0)
 - [Dev.to/JS] [Import a Garoon Event to Google Calendar Bookmarklet](https://dev.to/ahandsel/import-a-garoon-event-to-google-calendar-bookmarklet-24g6)
 - [Dev.to/JS] [How generate images with Azure DALL·E 2 in JavaScript](https://dev.to/xstefan/how-generate-images-with-azure-dalle-2-in-javascript-65i)
 - [Dev.to/JS] [What is side-effect in ReactJS and how to handle it?](https://dev.to/hellonehha/what-is-side-effect-in-reactjs-and-how-to-handle-it-39j8)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Software Solutions For Business](https://dev.to/snetlabs/software-solutions-for-business-16c1)
 - [Dev.to/JS] [Fast Lean Pro Reviews - Fat Loss Benefits, Price, Results, Complaints &amp; Warnings?](https://dev.to/fastleanpr83546/fast-lean-pro-reviews-fat-loss-benefits-price-results-complaints-warnings-2mg8)
 - [Dev.to/JS] [Preventing Multiple Lock Files in Your Git Repository using Husky](https://dev.to/nirajniroula/preventing-multiple-lock-files-in-your-git-repository-using-husky-5bcc)
-- [Dev.to/JS] [Calculate Determinant Matrix with Javascript](https://dev.to/taufiksty/calculate-determinant-matrix-using-javascript-2cnc)
-- [Dev.to/JS] [Random Gradient Generator](https://dev.to/rahilisvahora/random-gradient-generator-2m78)
-- [Dev.to/JS] [Responsive Travel Website Using HTML CSS JavaScript](https://dev.to/onlineittutstutorials/responsive-travel-website-using-html-css-javascript-hnj)
-- [Dev.to/JS] [How to manually test a web API](https://dev.to/how-to-dev/how-to-manually-test-a-web-api-2il5)
 - [Lifehacker] [Prioritize Your To-Do&#39;s With the ABC Method](https://lifehacker.com/prioritize-your-to-dos-with-the-abc-method-1850738882)
 - [Lifehacker] [Google’s AI Can Now Summarize an Article Directly in Search Results](https://lifehacker.com/google-s-ai-can-now-summarize-an-article-directly-in-se-1850740737)
 - [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
