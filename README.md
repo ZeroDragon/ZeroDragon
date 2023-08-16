@@ -26,9 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dev Job Oppurtunities @ VC-Backed Startups](https://dev.to/mohanmukund13/vc-backed-startups-dev-job-oppurtunities-488k)
+- [Lifehacker] [What to Do After Your First Pullup](https://lifehacker.com/what-to-do-after-your-first-pullup-1850741036)
+- [Dev.to/JS] [useRef in React &lpar;easy language&rpar;](https://dev.to/diwakarkashyap/useref-in-react-easy-language-18na)
+- [Lifehacker] [Unexpected Jobs That Can Earn You Six Figures](https://lifehacker.com/unexpected-jobs-that-can-earn-you-six-figures-1850738764)
 - [Dev.to/JS] [Demystifying &quot;No &#39;Access-Control-Allow-Origin&#39; Header&quot; in JavaScript and Postman: A Comprehensive Exploration](https://dev.to/iamcymentho/demystifying-no-access-control-allow-origin-header-in-javascript-and-postman-a-comprehensive-exploration-4na5)
 - [Dev.to/JS] [Parsing SemVer in Javascript, with the official RegEx](https://dev.to/receter/parsing-semver-in-javascript-with-the-official-regex-4e0e)
-- [Dev.to/JS] [🥇 The Best Serverless Framework in 2023: A Data-Driven Showdown for AWS Projects](https://dev.to/valentinbeggi/the-best-serverless-framework-in-2023-a-data-driven-showdown-for-aws-projects-1p3h)
+- [Dev.to/JS] [🥇 The Best Serverless Framework in 2023: A Data-Driven Showdown for AWS Projects](https://dev.to/slsbytheodo/the-best-serverless-framework-in-2023-a-data-driven-showdown-for-aws-projects-1p3h)
 - [Dev.to/JS] [Top Api Architectural Styles](https://dev.to/emmanuel_ishola/top-api-architectural-styles-4340)
 - [Dev.to/JS] [Impossible⁉️ CSS only syntax highlighting 😱 ...with a single element and GRADIENTS 🤯](https://dev.to/grahamthedev/impossible-css-only-js-syntax-highlighting-with-a-single-element-and-gradients-243j)
 - [Dev.to/JS] [Introducing Formango: The fruitful way to simplify form validation in Vue!](https://dev.to/robbe95/introducing-formango-the-fruitful-way-to-simplify-form-validation-in-vue-1i6e)
@@ -36,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create custom events in Svelte](https://dev.to/kalashin1/how-to-create-custom-events-in-svelte-2cnc)
 - [Dev.to/JS] [Paid SaaS starters](https://dev.to/marcin_codes/paid-saas-starters-3me5)
 - [Dev.to/JS] [Unveiling the Magic: How the Virtual DOM Works in React](https://dev.to/crossskatee1/unveiling-the-magic-how-the-virtual-dom-works-in-react-5g84)
-- [Dev.to/JS] [React micro-frontend in ember app - Part 2](https://dev.to/vinomanick/react-micro-frontend-in-ember-app-part-2-3hg8)
-- [Dev.to/JS] [Getting Client Side Info. from IP address](https://dev.to/ajmal_hasan/getting-client-side-info-from-ip-address-3ej8)
 - [Lifehacker] [Prioritize Your To-Do&#39;s With the ABC Method](https://lifehacker.com/prioritize-your-to-dos-with-the-abc-method-1850738882)
 - [Lifehacker] [Google’s AI Can Now Summarize an Article Directly in Search Results](https://lifehacker.com/google-s-ai-can-now-summarize-an-article-directly-in-se-1850740737)
 - [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Older, Refurbished MacBook Pro Is $300 Right Now](https://lifehacker.com/this-older-refurbished-macbook-pro-is-300-right-now-1850730080)
 - [Lifehacker] [Program Your Smart Speaker to Automatically Play Music in Your Bathroom](https://lifehacker.com/program-your-smart-speaker-to-automatically-play-music-1850738085)
 - [Lifehacker] [These Tools Are on Sale at Lowe’s and Home Depot Right Now](https://lifehacker.com/these-tools-are-on-sale-at-lowe-s-and-home-depot-right-1850738105)
-- [Lifehacker] [What to Do When You&#39;re Accused of Writing With AI](https://lifehacker.com/what-to-do-when-youre-accused-of-writing-with-ai-1850738025)
-- [Lifehacker] [Why Tubi Is the Greatest Streaming Service Ever](https://lifehacker.com/what-is-tubi-and-how-to-watch-it-free-1850736811)
-- [Lifehacker] [The Best Back-to-School Tech Deals You Can Find Right Now](https://lifehacker.com/the-best-back-to-school-tech-deals-you-can-find-right-n-1850736643)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do When You&#39;re Accused of Writing With AI](https://lifehacker.com/what-to-do-when-youre-accused-of-writing-with-ai-1850738025)<!-- TECH-POSTS:END -->
 
 ---
 
