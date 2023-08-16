@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Nine Things You Should Do During Paternity Leave](https://lifehacker.com/nine-things-you-should-do-during-paternity-leave-1850742179)
+- [Dev.to/JS] [Uncaught TypeError: &lpar;0 , _emberBabel.extends&rpar; is not a function](https://dev.to/nullvoxpopuli/uncaught-typeerror-0-emberbabelextends-is-not-a-function-5g6h)
+- [Lifehacker] [You Can Get Dollar Flight Club or Matt&#39;s Flights for Cheap Right Now](https://lifehacker.com/you-can-get-dollar-flight-club-or-matts-flights-for-che-1850737576)
+- [Dev.to/JS] [Refine &amp; Nest.js boilerplate](https://dev.to/igolubic/refine-nestjs-boilerplate-4jh6)
+- [Lifehacker] [You Should Make Scallion Pancakes With Dumpling Wrappers](https://lifehacker.com/you-should-make-scallion-pancakes-with-dumpling-wrapper-1850743004)
 - [Dev.to/JS] [Formatting Dates in JavaScript: A Comprehensive Guide](https://dev.to/iamcymentho/formatting-dates-in-javascript-a-comprehensive-guide-1i9o)
 - [Dev.to/JS] [JavaScript Closures](https://dev.to/prodevxpert/understanding-closures-in-javascript-with-practical-examples-41hc)
 - [Dev.to/JS] [Day 27: Debugging](https://dev.to/dhrn/day-27-debugging-4hkp)
@@ -41,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When You Need a DSLR Camera Instead of a Phone](https://lifehacker.com/when-you-need-a-dslr-camera-instead-of-a-phone-1850741963)
 - [Dev.to/JS] [Dev Job Oppurtunities @ VC-Backed Startups](https://dev.to/mohanmukund13/vc-backed-startups-dev-job-oppurtunities-488k)
 - [Lifehacker] [What to Do After Your First Pullup](https://lifehacker.com/what-to-do-after-your-first-pullup-1850741036)
-- [Dev.to/JS] [useRef in React &lpar;easy language&rpar;](https://dev.to/diwakarkashyap/useref-in-react-easy-language-18na)
 - [Lifehacker] [Unexpected Jobs That Can Earn You Six Figures](https://lifehacker.com/unexpected-jobs-that-can-earn-you-six-figures-1850738764)
-- [Dev.to/JS] [Demystifying &quot;No &#39;Access-Control-Allow-Origin&#39; Header&quot; in JavaScript and Postman: A Comprehensive Exploration](https://dev.to/iamcymentho/demystifying-no-access-control-allow-origin-header-in-javascript-and-postman-a-comprehensive-exploration-4na5)
 - [Lifehacker] [Prioritize Your To-Do&#39;s With the ABC Method](https://lifehacker.com/prioritize-your-to-dos-with-the-abc-method-1850738882)
 - [Lifehacker] [Google’s AI Can Now Summarize an Article Directly in Search Results](https://lifehacker.com/google-s-ai-can-now-summarize-an-article-directly-in-se-1850740737)
 - [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Turntable With Bluetooth Speakers Is $250 Right Now](https://lifehacker.com/this-turntable-with-bluetooth-speakers-is-250-right-no-1850730056)
 - [Lifehacker] [The Complete Guide to Never Getting Locked Out of Your Apartment Again](https://lifehacker.com/how-to-never-get-locked-out-of-your-apartment-again-1849146996)
 - [Lifehacker] [I Tested Runs With the Flipbelt and SPIbelt so You Don&#39;t Have To](https://lifehacker.com/i-tested-runs-with-the-flipbelt-and-spibelt-so-you-dont-1850737029)
-- [Lifehacker] [35 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
-- [Lifehacker] [You Can Install Windows Without the Bloatware](https://lifehacker.com/you-can-install-windows-without-the-bloatware-1850738765)
-- [Lifehacker] [You Can Get Domino&#39;s Pizza for 50% Off This Week](https://lifehacker.com/you-can-get-dominos-pizza-for-50-off-this-week-1850738837)
-- [Lifehacker] [The Best Smart Speakers You Can Buy Now for Under $100](https://lifehacker.com/5-smart-speakers-you-can-buy-now-for-under-100-1849912921)<!-- TECH-POSTS:END -->
+- [Lifehacker] [35 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)<!-- TECH-POSTS:END -->
 
 ---
 
