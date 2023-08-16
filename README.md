@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paid SaaS starters](https://dev.to/marcin_codes/paid-saas-starters-3me5)
+- [Dev.to/JS] [Unveiling the Magic: How the Virtual DOM Works in React](https://dev.to/crossskatee1/unveiling-the-magic-how-the-virtual-dom-works-in-react-5g84)
+- [Dev.to/JS] [React micro-frontend in ember app - Part 2](https://dev.to/vinomanick/react-micro-frontend-in-ember-app-part-2-3hg8)
+- [Dev.to/JS] [Getting Client Side Info. from IP address](https://dev.to/ajmal_hasan/getting-client-side-info-from-ip-address-3ej8)
 - [Dev.to/JS] [You won&#39;t be able to answer this simple JavaScript question!](https://dev.to/sadeedpv/you-wont-be-able-to-answer-this-javascript-question-235i)
 - [Dev.to/JS] [Optimizing Web Development Through TypeScript Integration](https://dev.to/avwerosuoghene/optimizing-web-development-through-typescript-integration-1fcd)
 - [Dev.to/JS] [I created a platform to Create Family Tree](https://dev.to/brojenuel/i-created-a-platform-to-create-family-tree-693)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How generate images with Azure DALL·E 2 in JavaScript](https://dev.to/xstefan/how-generate-images-with-azure-dalle-2-in-javascript-65i)
 - [Dev.to/JS] [What is side-effect in ReactJS and how to handle it?](https://dev.to/hellonehha/what-is-side-effect-in-reactjs-and-how-to-handle-it-39j8)
 - [Dev.to/JS] [React useState&lpar;&rpar; made easy for beginners](https://dev.to/ashutoshmishra/usestate-made-easy-for-beginners-58o3)
-- [Dev.to/JS] [Introducing &quot;Resilient Response&quot; - Empowering Disaster Relief and Management](https://dev.to/n45div/introducing-resilient-response-empowering-disaster-relief-and-management-4o48)
-- [Dev.to/JS] [Software Solutions For Business](https://dev.to/snetlabs/software-solutions-for-business-16c1)
-- [Dev.to/JS] [Fast Lean Pro Reviews - Fat Loss Benefits, Price, Results, Complaints &amp; Warnings?](https://dev.to/fastleanpr83546/fast-lean-pro-reviews-fat-loss-benefits-price-results-complaints-warnings-2mg8)
-- [Dev.to/JS] [Preventing Multiple Lock Files in Your Git Repository using Husky](https://dev.to/nirajniroula/preventing-multiple-lock-files-in-your-git-repository-using-husky-5bcc)
 - [Lifehacker] [Prioritize Your To-Do&#39;s With the ABC Method](https://lifehacker.com/prioritize-your-to-dos-with-the-abc-method-1850738882)
 - [Lifehacker] [Google’s AI Can Now Summarize an Article Directly in Search Results](https://lifehacker.com/google-s-ai-can-now-summarize-an-article-directly-in-se-1850740737)
 - [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)
