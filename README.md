@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tab Content Structure with Ajax and PHP](https://dev.to/devcodef1/tab-content-structure-with-ajax-and-php-311c)
 - [Dev.to/JS] [The setTimeout Function in Javascript](https://dev.to/ewenikeemmanue4/the-settimeout-function-in-javascript-3a50)
 - [Lifehacker] [There Are Seven Love Languages Now](https://lifehacker.com/there-are-seven-love-languages-now-and-one-might-be-yo-1848548099)
 - [Dev.to/JS] [React Custom Hook: useEventListener](https://dev.to/sergeyleschev/react-custom-hook-useeventlistener-4kb7)
@@ -53,7 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Welcome to AnisCodes: Your Destination for Web Development Tips!](https://dev.to/aniscodes/welcome-to-aniscodes-your-destination-for-web-development-tips-3ohi)
 - [Lifehacker] [Google Photos Has a New Way to View Your Memories](https://lifehacker.com/google-photos-has-a-new-way-to-view-your-memories-1850743190)
 - [Dev.to/JS] [Introducing visual testing for Playwright](https://dev.to/chromatic/introducing-visual-testing-for-playwright-1o97)
-- [Dev.to/JS] [Doctor-Patient Conversations: AI-Powered Transcription and Summarization](https://dev.to/intersystems/doctor-patient-conversations-ai-powered-transcription-and-summarization-2p3j)
 - [Lifehacker] [Nine Things You Should Do During Paternity Leave](https://lifehacker.com/nine-things-you-should-do-during-paternity-leave-1850742179)
 - [Lifehacker] [You Can Get Dollar Flight Club or Matt&#39;s Flights for Cheap Right Now](https://lifehacker.com/you-can-get-dollar-flight-club-or-matts-flights-for-che-1850737576)
 - [Lifehacker] [You Should Make Scallion Pancakes With Dumpling Wrappers](https://lifehacker.com/you-should-make-scallion-pancakes-with-dumpling-wrapper-1850743004)
