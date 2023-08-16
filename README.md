@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript in the threads: Unveiling React Native Threads and Differential JS Handling in Debug versus Release Modes](https://dev.to/stanleyugwu/javascript-in-the-threads-unveiling-react-native-threads-and-differential-js-handling-in-debug-versus-release-modes-1p1g)
+- [Dev.to/JS] [Finally JavaScript here I Am😌](https://dev.to/mheyrie/finally-javascript-here-i-am-22b4)
 - [Dev.to/JS] [A link to my blog](https://dev.to/merri/a-link-to-my-blog-2494)
 - [Dev.to/JS] [Vuejs composables: hands-on examples](https://dev.to/hssanbzlm/vuejs-composables-hands-on-examples-3lpk)
 - [Dev.to/JS] [Angular Dynamic Form Using XSD](https://dev.to/pixelbyaj/angular-dynamic-form-using-xsd-9lb)
@@ -45,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Rudest Things You Can Do at the Gym, According to Reddit](https://lifehacker.com/13-of-the-worst-breaches-of-gym-etiquette-according-to-1849631579)
 - [Lifehacker] [The Best Books to Help You Find Work-Life Balance](https://lifehacker.com/the-best-books-to-help-you-find-work-life-balance-1850739067)
 - [Dev.to/JS] [Unmasking QuickBooks Error 6144 82 Causes and Remedies](https://dev.to/qbdataservice/unmasking-quickbooks-error-6144-82-causes-and-remedies-5g6g)
-- [Dev.to/JS] [The Reality of Functions](https://dev.to/cmleary/the-reality-of-functions-2l7k)
-- [Dev.to/JS] [Finally, I made it OpenSource. Postman Alternative](https://dev.to/nishchit14/finally-i-made-it-opensource-postman-alternative-1a1c)
 - [Lifehacker] [These International Open Academy Classes Are $60 Right Now](https://lifehacker.com/these-international-open-academy-classes-are-60-right-1850729932)
 - [Lifehacker] [Here Are Signs That Someone You Know Is Under a Conservatorship](https://lifehacker.com/here-are-signs-that-someone-you-know-is-under-a-conserv-1850739532)
 - [Lifehacker] [Some Apps Are Hiding Your Sharing Options](https://lifehacker.com/some-apps-are-hiding-your-sharing-options-1850739204)
