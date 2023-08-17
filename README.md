@@ -26,20 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Backend Error Handling: Practical Tips from a Startup CTO](https://dev.to/ctrlaltvictoria/backend-error-handling-practical-tips-from-a-startup-cto-h6)
+- [Dev.to/JS] [⌛ Dive Deep: Page Speed Test - Monitoring vs. Measuring](https://dev.to/adam/dive-deep-page-speed-test-monitoring-vs-measuring-5990)
+- [Dev.to/JS] [Recursion Recursion Recursion](https://dev.to/jshep23prog/recursion-recursion-recursion-3jfn)
+- [Dev.to/JS] [Day 28: Throttling](https://dev.to/dhrn/day-28-throttling-8kc)
+- [Lifehacker] [Make Reddit Usable on iPhone Again With This App](https://lifehacker.com/make-reddit-usable-on-iphone-again-with-this-app-1850746558)
+- [Dev.to/JS] [What you think about contractor developers?](https://dev.to/marcin_codes/what-you-think-about-contractor-developers-1ea6)
+- [Dev.to/JS] [Top 15 best frameworks to create mobile applications in 2023.](https://dev.to/sparkouttech/top-15-best-frameworks-to-create-mobile-applications-in-2023-3joc)
+- [Dev.to/JS] [Error Handling in React Applications](https://dev.to/the2minengineer/error-handling-in-react-applications-lc5)
+- [Dev.to/JS] [GamerNet](https://dev.to/maxwellconway/gamernet-lfm)
+- [Lifehacker] [This Refurbished MacBook Air Is $250 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-250-right-now-1850743344)
+- [Dev.to/JS] [Specify Node Version in package.json](https://dev.to/walternascimentobarroso/specify-node-version-in-packagejson-47de)
 - [Dev.to/JS] [A Beginner’s Guide to Chrome Extension Development](https://dev.to/sk063675488/a-beginners-guide-to-chrome-extension-development-3d1l)
 - [Lifehacker] [You Can Get Siri to Read Articles Out Loud Now](https://lifehacker.com/you-can-get-siri-to-read-articles-out-loud-now-1850746524)
 - [Dev.to/JS] [JavaScript is Extraordinarily Weird! Hear Me Out! 👨‍💻📢🔥](https://dev.to/arjuncodess/javascript-is-extraordinarily-weird-hear-me-out-56j5)
 - [Dev.to/JS] [Guia para Iniciantes: Como Começar a Fazer Freelance Desenvolvendo Sites para Empresas Locais](https://dev.to/robsonamendonca/guia-para-iniciantes-como-comecar-a-fazer-freelance-desenvolvendo-sites-para-empresas-locais-4nof)
 - [Lifehacker] [Delete Your Snapchat to Escape Its Rogue AI](https://lifehacker.com/how-to-delete-snapchat-android-iphone-1850745271)
-- [Dev.to/JS] [Setup React with Vite](https://dev.to/thiago-coderr/setup-react-with-vite-5e2f)
-- [Dev.to/JS] [Bhoomi — The Future of Secure Property Transfers](https://dev.to/arthvhanesa/bhoomi-the-future-of-secure-property-transfers-182m)
-- [Dev.to/JS] [Efficient Deep Cloning of Objects in JavaScript: A Comprehensive Guide](https://dev.to/iamcymentho/efficient-deep-cloning-of-objects-in-javascript-a-comprehensive-guide-2dei)
-- [Dev.to/JS] [Best Drag-and-Drop Libraries for Frontend Developers](https://dev.to/bryntum/best-drag-and-drop-libraries-for-frontend-developers-39d5)
-- [Dev.to/JS] [JavaScript dumbed down Part three. control flow, basic functions, and interactions.](https://dev.to/shawn2208/javascript-dumbed-down-part-three-control-flow-basic-functions-and-interactions-3lmb)
-- [Dev.to/JS] [Node.Js, Npm, Npx, Yarn - Huh?](https://dev.to/gautammanak1/nodejs-npm-npx-yarn-huh-43hk)
-- [Dev.to/JS] [Giới thiệu Phòng Khám Đa Khoa Tháng Tám](https://dev.to/74cmtt/gioi-thieu-phong-kham-da-khoa-thang-tam-3629)
-- [Dev.to/JS] [Code Splitting in React](https://dev.to/shishsingh/code-splitting-in-react-p9b)
-- [Dev.to/JS] [Fantastic closures and how to find them in React](https://dev.to/adevnadia/fantastic-closures-and-how-to-find-them-in-react-3fpc)
 - [Lifehacker] [There Are Seven Love Languages Now](https://lifehacker.com/there-are-seven-love-languages-now-and-one-might-be-yo-1848548099)
 - [Lifehacker] [These Are the Best Tech Deals From the Woot! ‘Warehouse Cleanout’ Sale](https://lifehacker.com/these-are-the-best-tech-deals-from-the-woot-warehouse-1850745166)
 - [Lifehacker] [Here’s What Happens When You Use AI for Professional Headshots](https://lifehacker.com/here-s-what-happens-when-you-use-ai-for-professional-he-1850744740)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Leave Video Messages on FaceTime](https://lifehacker.com/you-can-now-leave-video-messages-on-facetime-1850742687)
 - [Lifehacker] [Do These Tasks This Month to Prepare Your Garden for Fall](https://lifehacker.com/do-these-tasks-this-month-to-prepare-your-garden-for-fa-1850742143)
 - [Lifehacker] [When You Need a DSLR Camera Instead of a Phone](https://lifehacker.com/when-you-need-a-dslr-camera-instead-of-a-phone-1850741963)
-- [Lifehacker] [What to Do After Your First Pullup](https://lifehacker.com/what-to-do-after-your-first-pullup-1850741036)
-- [Lifehacker] [Unexpected Jobs That Can Earn You Six Figures](https://lifehacker.com/unexpected-jobs-that-can-earn-you-six-figures-1850738764)
-- [Lifehacker] [Prioritize Your To-Do&#39;s With the ABC Method](https://lifehacker.com/prioritize-your-to-dos-with-the-abc-method-1850738882)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What to Do After Your First Pullup](https://lifehacker.com/what-to-do-after-your-first-pullup-1850741036)<!-- TECH-POSTS:END -->
 
 ---
 
