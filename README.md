@@ -26,9 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Custom Hook: useFetch](https://dev.to/sergeyleschev/react-custom-hook-usefetch-3k0p)
+- [Lifehacker] [What People are Getting Wrong This Week: The Maui Wildfires](https://lifehacker.com/maui-wildfire-myths-debunked-1850749329)
+- [Lifehacker] [Snack Supper Rules; Girl Dinner Drools](https://lifehacker.com/it-is-the-age-of-the-snack-supper-1843157528)
+- [Dev.to/JS] [Refactoring Monoliths to Microservices with the BFF and Strangler Patterns](https://dev.to/slickstef11/refactoring-monoliths-to-microservices-with-the-bff-and-strangler-patterns-11jl)
 - [Lifehacker] [Your Concrete Project Needs Cement Paint](https://lifehacker.com/your-concrete-project-needs-cement-paint-1850748105)
 - [Lifehacker] [The Easiest, Laziest Way to Build a Fire](https://lifehacker.com/the-easiest-laziest-way-to-build-a-fire-1850748804)
 - [Dev.to/JS] [RandomSparkles](https://dev.to/danielx17/randomsparkles-3ooc)
+- [Lifehacker] [You Can Finally Send High Quality Photos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)
 - [Lifehacker] [The Best Sangria Comes From a French Press](https://lifehacker.com/the-best-sangria-comes-from-a-french-press-1850748855)
 - [Lifehacker] [These Dehumidifiers Are Being Recalled for Fire Hazard](https://lifehacker.com/these-dehumidifiers-are-being-recalled-for-fire-hazard-1850748405)
 - [Dev.to/JS] [Lets get this data!: Looking into JavaScript data types](https://dev.to/alexmbeasley/lets-get-this-data-looking-into-javascript-data-types-2b33)
@@ -49,8 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s Explore the World of Programming Languages!](https://dev.to/shivabollam07/lets-explore-the-world-of-programming-languages-3651)
 - [Dev.to/JS] [Adding Life to Your Svelte App: Animations and Transitions](https://dev.to/ironside/adding-life-to-your-svelte-app-animations-and-transitions-5hl8)
 - [Dev.to/JS] [JavaScript: How conditionals influence your code?](https://dev.to/fullstackjo/javascript-how-conditionals-influence-your-code-5040)
-- [Dev.to/JS] [From Vue 2 to 3: A long journey](https://dev.to/nikhilverma/from-vue-2-to-3-a-long-journey-58ff)
-- [Dev.to/JS] [Using .reduce&lpar;&rpar; in JavaScript](https://dev.to/snelson723/using-reduce-in-javascript-1i19)
 - [Lifehacker] [Make Reddit Usable on iPhone Again With This App](https://lifehacker.com/make-reddit-usable-on-iphone-again-with-this-app-1850746558)
 - [Lifehacker] [This Refurbished MacBook Air Is $250 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-250-right-now-1850743344)
 - [Lifehacker] [You Can Get Siri to Read Articles Out Loud Now](https://lifehacker.com/you-can-get-siri-to-read-articles-out-loud-now-1850746524)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Two Microsoft Office Licenses for $80](https://lifehacker.com/you-can-get-two-microsoft-office-licenses-for-80-1850730209)
 - [Lifehacker] [Throw Out These Illegally Produced Home Pregnancy Tests, FDA Says](https://lifehacker.com/throw-out-these-illegally-produced-home-pregnancy-tests-1850744006)
 - [Lifehacker] [Waze Can Help You Find the Cheapest Gas Stations Along Your Route](https://lifehacker.com/waze-can-help-you-find-cheap-gas-along-your-route-1847986905)
-- [Lifehacker] [You Need to Know Where You Fall on the Happy-Productive Worker Scale](https://lifehacker.com/you-need-to-know-where-you-fall-on-the-happy-productive-1850743483)
-- [Lifehacker] [The Best Ways to Pack a School Lunch so It Actually Stays Fresh](https://lifehacker.com/the-best-ways-to-pack-a-school-lunch-so-it-actually-sta-1850744058)
-- [Lifehacker] [Here’s How Much You Actually Save Buying Gas at Costco](https://lifehacker.com/is-gas-really-cheaper-at-costco-1848651490)
-- [Lifehacker] [Use the &#39;Action Method&#39; to Get More Done](https://lifehacker.com/use-the-action-method-to-get-more-done-1850743361)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Need to Know Where You Fall on the Happy-Productive Worker Scale](https://lifehacker.com/you-need-to-know-where-you-fall-on-the-happy-productive-1850743483)<!-- TECH-POSTS:END -->
 
 ---
 
