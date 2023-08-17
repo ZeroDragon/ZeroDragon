@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fantastic closures and how to find them in React](https://dev.to/adevnadia/fantastic-closures-and-how-to-find-them-in-react-3fpc)
+- [Dev.to/JS] [The Document Object Model &lpar;DOM&rpar;: A Guide to Understanding and Mastering Website Interactivity](https://dev.to/priest/the-document-object-model-dom-a-guide-to-understanding-and-mastering-website-interactivity-2b9e)
+- [Dev.to/JS] [JavaScript Runtime and Code Lifecycle](https://dev.to/odus_ex/javascript-runtime-and-code-lifecycle-8dn)
 - [Dev.to/JS] [Demystifying JavaScript Property Descriptors: A Deep Dive](https://dev.to/punitsonime/demystifying-javascript-property-descriptors-a-deep-dive-1ncc)
 - [Dev.to/JS] [Creating Responsive Footer with react and taiwlindcss](https://dev.to/ryaddev/creating-responsive-footer-with-react-and-taiwlindcss-4b58)
 - [Dev.to/JS] [Improving Serverless Function on Vercel response time](https://dev.to/vatana7/improving-serverless-function-on-vercel-response-time-3n8c)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learning JavaScript the easy way: Variables](https://dev.to/unkletayo/learning-javascript-the-easy-way-variables-1390)
 - [Dev.to/JS] [Efficient Problem Solving with Dynamic Programming: A Step-by-Step Beginner&#39;s Guide](https://dev.to/abhaysinghr1/efficient-problem-solving-with-dynamic-programming-a-step-by-step-beginners-guide-18d2)
 - [Dev.to/JS] [Custom Hooks and Logic Encapsulation in React](https://dev.to/the2minengineer/custom-hooks-and-logic-encapsulation-in-react-200)
-- [Dev.to/JS] [Top 5 Best News APIs for developers](https://dev.to/newsdataio/top-5-best-news-apis-for-developers-4e5a)
-- [Dev.to/JS] [Prioritizing Fast Navigation: Elevating User Experience 🚀💨](https://dev.to/medaimane/prioritizing-fast-navigation-elevating-user-experience-50ng)
-- [Dev.to/JS] [React JS - Security Best Practices](https://dev.to/kristiyan_velkov/react-js-security-best-practices-15g7)
 - [Lifehacker] [There Are Seven Love Languages Now](https://lifehacker.com/there-are-seven-love-languages-now-and-one-might-be-yo-1848548099)
 - [Lifehacker] [These Are the Best Tech Deals From the Woot! ‘Warehouse Cleanout’ Sale](https://lifehacker.com/these-are-the-best-tech-deals-from-the-woot-warehouse-1850745166)
 - [Lifehacker] [Here’s What Happens When You Use AI for Professional Headshots](https://lifehacker.com/here-s-what-happens-when-you-use-ai-for-professional-he-1850744740)
