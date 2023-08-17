@@ -26,21 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Get a Year’s Subscription to NeuroNation for 52% Off](https://lifehacker.com/get-a-year-s-subscription-to-neuronation-for-52-off-1850737598)
+- [Dev.to/JS] [Let&#39;s Explore the World of Programming Languages!](https://dev.to/shivabollam07/lets-explore-the-world-of-programming-languages-3651)
+- [Dev.to/JS] [Adding Life to Your Svelte App: Animations and Transitions](https://dev.to/ironside/adding-life-to-your-svelte-app-animations-and-transitions-5hl8)
+- [Dev.to/JS] [JavaScript: How conditionals influence your code?](https://dev.to/fullstackjo/javascript-how-conditionals-influence-your-code-5040)
+- [Dev.to/JS] [From Vue 2 to 3: A long journey](https://dev.to/nikhilverma/from-vue-2-to-3-a-long-journey-58ff)
+- [Dev.to/JS] [Using .reduce&lpar;&rpar; in JavaScript](https://dev.to/snelson723/using-reduce-in-javascript-1i19)
+- [Dev.to/JS] [What happens when you type google.com in your browser and press Enter…](https://dev.to/divine016/what-happens-when-you-type-googlecom-in-your-browser-and-press-enter-45fa)
+- [Dev.to/JS] [Record in TypeScript: Unveiling Its Surprising Power](https://dev.to/brainiacneit/record-in-typescript-unveiling-its-surprising-power-30kf)
 - [Dev.to/JS] [Backend Error Handling: Practical Tips from a Startup CTO](https://dev.to/ctrlaltvictoria/backend-error-handling-practical-tips-from-a-startup-cto-h6)
 - [Dev.to/JS] [⌛ Dive Deep: Page Speed Test - Monitoring vs. Measuring](https://dev.to/adam/dive-deep-page-speed-test-monitoring-vs-measuring-5990)
 - [Dev.to/JS] [Recursion Recursion Recursion](https://dev.to/jshep23prog/recursion-recursion-recursion-3jfn)
 - [Dev.to/JS] [Day 28: Throttling](https://dev.to/dhrn/day-28-throttling-8kc)
 - [Lifehacker] [Make Reddit Usable on iPhone Again With This App](https://lifehacker.com/make-reddit-usable-on-iphone-again-with-this-app-1850746558)
 - [Dev.to/JS] [What you think about contractor developers?](https://dev.to/marcin_codes/what-you-think-about-contractor-developers-1ea6)
-- [Dev.to/JS] [Top 15 best frameworks to create mobile applications in 2023.](https://dev.to/sparkouttech/top-15-best-frameworks-to-create-mobile-applications-in-2023-3joc)
-- [Dev.to/JS] [Error Handling in React Applications](https://dev.to/the2minengineer/error-handling-in-react-applications-lc5)
-- [Dev.to/JS] [GamerNet](https://dev.to/maxwellconway/gamernet-lfm)
 - [Lifehacker] [This Refurbished MacBook Air Is $250 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-250-right-now-1850743344)
-- [Dev.to/JS] [Specify Node Version in package.json](https://dev.to/walternascimentobarroso/specify-node-version-in-packagejson-47de)
-- [Dev.to/JS] [A Beginner’s Guide to Chrome Extension Development](https://dev.to/sk063675488/a-beginners-guide-to-chrome-extension-development-3d1l)
 - [Lifehacker] [You Can Get Siri to Read Articles Out Loud Now](https://lifehacker.com/you-can-get-siri-to-read-articles-out-loud-now-1850746524)
-- [Dev.to/JS] [JavaScript is Extraordinarily Weird! Hear Me Out! 👨‍💻📢🔥](https://dev.to/arjuncodess/javascript-is-extraordinarily-weird-hear-me-out-56j5)
-- [Dev.to/JS] [Guia para Iniciantes: Como Começar a Fazer Freelance Desenvolvendo Sites para Empresas Locais](https://dev.to/robsonamendonca/guia-para-iniciantes-como-comecar-a-fazer-freelance-desenvolvendo-sites-para-empresas-locais-4nof)
 - [Lifehacker] [Delete Your Snapchat to Escape Its Rogue AI](https://lifehacker.com/how-to-delete-snapchat-android-iphone-1850745271)
 - [Lifehacker] [There Are Seven Love Languages Now](https://lifehacker.com/there-are-seven-love-languages-now-and-one-might-be-yo-1848548099)
 - [Lifehacker] [These Are the Best Tech Deals From the Woot! ‘Warehouse Cleanout’ Sale](https://lifehacker.com/these-are-the-best-tech-deals-from-the-woot-warehouse-1850745166)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Ryobi Telescoping Power Scrubber Is the Best at Keeping My Tile Floors Clean](https://lifehacker.com/the-ryobi-telescoping-power-scrubber-is-the-best-at-kee-1850742182)
 - [Lifehacker] [You Can Now Leave Video Messages on FaceTime](https://lifehacker.com/you-can-now-leave-video-messages-on-facetime-1850742687)
 - [Lifehacker] [Do These Tasks This Month to Prepare Your Garden for Fall](https://lifehacker.com/do-these-tasks-this-month-to-prepare-your-garden-for-fa-1850742143)
-- [Lifehacker] [When You Need a DSLR Camera Instead of a Phone](https://lifehacker.com/when-you-need-a-dslr-camera-instead-of-a-phone-1850741963)
-- [Lifehacker] [What to Do After Your First Pullup](https://lifehacker.com/what-to-do-after-your-first-pullup-1850741036)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When You Need a DSLR Camera Instead of a Phone](https://lifehacker.com/when-you-need-a-dslr-camera-instead-of-a-phone-1850741963)<!-- TECH-POSTS:END -->
 
 ---
 
