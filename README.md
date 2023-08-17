@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Concrete Project Needs Cement Paint](https://lifehacker.com/your-concrete-project-needs-cement-paint-1850748105)
+- [Lifehacker] [The Easiest, Laziest Way to Build a Fire](https://lifehacker.com/the-easiest-laziest-way-to-build-a-fire-1850748804)
+- [Dev.to/JS] [RandomSparkles](https://dev.to/danielx17/randomsparkles-3ooc)
+- [Lifehacker] [The Best Sangria Comes From a French Press](https://lifehacker.com/the-best-sangria-comes-from-a-french-press-1850748855)
 - [Lifehacker] [These Dehumidifiers Are Being Recalled for Fire Hazard](https://lifehacker.com/these-dehumidifiers-are-being-recalled-for-fire-hazard-1850748405)
 - [Dev.to/JS] [Lets get this data!: Looking into JavaScript data types](https://dev.to/alexmbeasley/lets-get-this-data-looking-into-javascript-data-types-2b33)
 - [Lifehacker] [The Real History of Labor Day](https://lifehacker.com/the-real-history-of-labor-day-1847614981)
@@ -33,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Higher Order Functions](https://dev.to/saandre0217/higher-order-functions-5ak5)
 - [Dev.to/JS] [Understanding JavaScript Objects: A Concise Guide](https://dev.to/avwerosuoghene/understanding-javascript-objects-a-concise-guide-52fc)
 - [Lifehacker] [Use Plastic Flowerpots to Make DIY Cement Planters](https://lifehacker.com/use-plastic-flowerpots-to-make-diy-cement-planters-1850748101)
-- [Dev.to/JS] [Cracking the Code QuickBooks Error 6000 77 Demystified](https://dev.to/qbdataservice/cracking-the-code-quickbooks-error-6000-77-demystified-4aah)
 - [Dev.to/JS] [Spread the object and omit keys](https://dev.to/muszynov/spread-the-object-and-omit-keys-3g11)
 - [Lifehacker] [The Best Podcasts to Represent Every US State &lpar;Plus DC&rpar;](https://lifehacker.com/best-podcast-for-every-us-state-1850741030)
 - [Dev.to/JS] [MVC Architecture](https://dev.to/saji37/mvc-architecture-3027)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need to Know Where You Fall on the Happy-Productive Worker Scale](https://lifehacker.com/you-need-to-know-where-you-fall-on-the-happy-productive-1850743483)
 - [Lifehacker] [The Best Ways to Pack a School Lunch so It Actually Stays Fresh](https://lifehacker.com/the-best-ways-to-pack-a-school-lunch-so-it-actually-sta-1850744058)
 - [Lifehacker] [Here’s How Much You Actually Save Buying Gas at Costco](https://lifehacker.com/is-gas-really-cheaper-at-costco-1848651490)
-- [Lifehacker] [Use the &#39;Action Method&#39; to Get More Done](https://lifehacker.com/use-the-action-method-to-get-more-done-1850743361)
-- [Lifehacker] [How to Make Sure Your Paint Job Doesn’t Peel, Bubble, or Discolor](https://lifehacker.com/how-to-make-sure-your-paint-job-doesn-t-peel-bubble-o-1850743475)
-- [Lifehacker] [How Packing Cubes Can Change Your Life](https://lifehacker.com/how-packing-cubes-can-change-your-life-1833717212)
-- [Lifehacker] [Stop Making Bad Coleslaw](https://lifehacker.com/stop-making-bad-coleslaw-1826269204)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use the &#39;Action Method&#39; to Get More Done](https://lifehacker.com/use-the-action-method-to-get-more-done-1850743361)<!-- TECH-POSTS:END -->
 
 ---
 
