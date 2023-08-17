@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Higher Order Functions](https://dev.to/saandre0217/higher-order-functions-5ak5)
+- [Dev.to/JS] [Understanding JavaScript Objects: A Concise Guide](https://dev.to/avwerosuoghene/understanding-javascript-objects-a-concise-guide-52fc)
+- [Lifehacker] [Use Plastic Flowerpots to Make DIY Cement Planters](https://lifehacker.com/use-plastic-flowerpots-to-make-diy-cement-planters-1850748101)
+- [Dev.to/JS] [Cracking the Code QuickBooks Error 6000 77 Demystified](https://dev.to/qbdataservice/cracking-the-code-quickbooks-error-6000-77-demystified-4aah)
+- [Dev.to/JS] [Spread the object and omit keys](https://dev.to/muszynov/spread-the-object-and-omit-keys-3g11)
 - [Lifehacker] [The Best Podcasts to Represent Every US State &lpar;Plus DC&rpar;](https://lifehacker.com/best-podcast-for-every-us-state-1850741030)
 - [Dev.to/JS] [MVC Architecture](https://dev.to/saji37/mvc-architecture-3027)
 - [Lifehacker] [You Should Pack a Family &#39;Flagged&#39; Bag for the Airport](https://lifehacker.com/you-should-pack-a-family-flagged-bag-for-the-airport-1850747507)
@@ -40,10 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From Vue 2 to 3: A long journey](https://dev.to/nikhilverma/from-vue-2-to-3-a-long-journey-58ff)
 - [Dev.to/JS] [Using .reduce&lpar;&rpar; in JavaScript](https://dev.to/snelson723/using-reduce-in-javascript-1i19)
 - [Dev.to/JS] [What happens when you type google.com in your browser and press Enter…](https://dev.to/divine016/what-happens-when-you-type-googlecom-in-your-browser-and-press-enter-45fa)
-- [Dev.to/JS] [Record in TypeScript: Unveiling Its Surprising Power](https://dev.to/brainiacneit/record-in-typescript-unveiling-its-surprising-power-30kf)
-- [Dev.to/JS] [Backend Error Handling: Practical Tips from a Startup CTO](https://dev.to/ctrlaltvictoria/backend-error-handling-practical-tips-from-a-startup-cto-h6)
-- [Dev.to/JS] [⌛ Dive Deep: Page Speed Test - Monitoring vs. Measuring](https://dev.to/adam/dive-deep-page-speed-test-monitoring-vs-measuring-5990)
-- [Dev.to/JS] [Recursion Recursion Recursion](https://dev.to/jshep23prog/recursion-recursion-recursion-3jfn)
 - [Lifehacker] [Make Reddit Usable on iPhone Again With This App](https://lifehacker.com/make-reddit-usable-on-iphone-again-with-this-app-1850746558)
 - [Lifehacker] [This Refurbished MacBook Air Is $250 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-250-right-now-1850743344)
 - [Lifehacker] [You Can Get Siri to Read Articles Out Loud Now](https://lifehacker.com/you-can-get-siri-to-read-articles-out-loud-now-1850746524)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Making Bad Coleslaw](https://lifehacker.com/stop-making-bad-coleslaw-1826269204)
 - [Lifehacker] [Turn Your Melon Into Agua Fresca](https://lifehacker.com/turn-your-melon-into-agua-fresca-1850743581)
 - [Lifehacker] [Google Photos Has a New Way to View Your Memories](https://lifehacker.com/google-photos-has-a-new-way-to-view-your-memories-1850743190)
-- [Lifehacker] [Nine Things You Should Do During Paternity Leave](https://lifehacker.com/nine-things-you-should-do-during-paternity-leave-1850742179)
-- [Lifehacker] [You Can Get Dollar Flight Club or Matt&#39;s Flights for Cheap Right Now](https://lifehacker.com/you-can-get-dollar-flight-club-or-matts-flights-for-che-1850737576)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Nine Things You Should Do During Paternity Leave](https://lifehacker.com/nine-things-you-should-do-during-paternity-leave-1850742179)<!-- TECH-POSTS:END -->
 
 ---
 
