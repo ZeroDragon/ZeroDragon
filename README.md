@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Identifiers and Reserved Words in JavaScript](https://dev.to/better678/identifiers-and-reserved-words-in-javascript-1fnk)
+- [Dev.to/JS] [Generating Optimized Image Formats with Node.js](https://dev.to/brainiacneit/generating-optimized-image-formats-with-nodejs-hj3)
 - [Dev.to/JS] [Can machines dream of secure code? From AI hallucinations to software vulnerabilities](https://dev.to/snyk/can-machines-dream-of-secure-code-from-ai-hallucinations-to-software-vulnerabilities-m05)
 - [Dev.to/JS] [How to add the &quot;Changes you made may not be saved&quot; warning to a Next.js app with React Hook Form](https://dev.to/juanmtorrijos/how-to-add-the-changes-you-made-may-not-be-saved-warning-to-a-nextjs-app-with-react-hook-form-3ibh)
 - [Dev.to/JS] [[PT-BR] Transformando sua aplicação em um PWA Offline com Vite e React](https://dev.to/diaslilian/pt-br-transformando-sua-aplicacao-em-um-pwa-offline-com-vite-e-react-3b11)
@@ -38,14 +40,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There Are Seven Love Languages Now](https://lifehacker.com/there-are-seven-love-languages-now-and-one-might-be-yo-1848548099)
 - [Dev.to/JS] [React Custom Hook: useEventListener](https://dev.to/sergeyleschev/react-custom-hook-useeventlistener-4kb7)
 - [Lifehacker] [These Are the Best Tech Deals From the Woot! ‘Warehouse Cleanout’ Sale](https://lifehacker.com/these-are-the-best-tech-deals-from-the-woot-warehouse-1850745166)
-- [Dev.to/JS] [function vs expression vs arrow definitions - Performance comparison &lpar;Part 3&rpar;](https://dev.to/manojadams/function-vs-expression-vs-arrow-definitions-performance-comparison-part-3-44n4)
 - [Lifehacker] [Here’s What Happens When You Use AI for Professional Headshots](https://lifehacker.com/here-s-what-happens-when-you-use-ai-for-professional-he-1850744740)
 - [Lifehacker] [The Best Gmail Extensions Everyone Should Be Using](https://lifehacker.com/best-gmail-extensions-1847854431)
 - [Lifehacker] [You Can Get Two Microsoft Office Licenses for $80](https://lifehacker.com/you-can-get-two-microsoft-office-licenses-for-80-1850730209)
 - [Lifehacker] [Throw Out These Illegally Produced Home Pregnancy Tests, FDA Says](https://lifehacker.com/throw-out-these-illegally-produced-home-pregnancy-tests-1850744006)
 - [Lifehacker] [Waze Can Help You Find the Cheapest Gas Stations Along Your Route](https://lifehacker.com/waze-can-help-you-find-cheap-gas-along-your-route-1847986905)
 - [Lifehacker] [You Need to Know Where You Fall on the Happy-Productive Worker Scale](https://lifehacker.com/you-need-to-know-where-you-fall-on-the-happy-productive-1850743483)
-- [Dev.to/JS] [Why masking is not accessible](https://dev.to/dgreene1/why-masking-is-not-accessible-i3c)
 - [Lifehacker] [The Best Ways to Pack a School Lunch so It Actually Stays Fresh](https://lifehacker.com/the-best-ways-to-pack-a-school-lunch-so-it-actually-sta-1850744058)
 - [Lifehacker] [Here’s How Much You Actually Save Buying Gas at Costco](https://lifehacker.com/is-gas-really-cheaper-at-costco-1848651490)
 - [Lifehacker] [Use the &#39;Action Method&#39; to Get More Done](https://lifehacker.com/use-the-action-method-to-get-more-done-1850743361)
