@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Dehumidifiers Are Being Recalled for Fire Hazard](https://lifehacker.com/these-dehumidifiers-are-being-recalled-for-fire-hazard-1850748405)
+- [Dev.to/JS] [Lets get this data!: Looking into JavaScript data types](https://dev.to/alexmbeasley/lets-get-this-data-looking-into-javascript-data-types-2b33)
+- [Lifehacker] [The Real History of Labor Day](https://lifehacker.com/the-real-history-of-labor-day-1847614981)
+- [Lifehacker] [Make This DIY Swamp Cooler](https://lifehacker.com/make-this-diy-swamp-cooler-1850747672)
 - [Dev.to/JS] [Higher Order Functions](https://dev.to/saandre0217/higher-order-functions-5ak5)
 - [Dev.to/JS] [Understanding JavaScript Objects: A Concise Guide](https://dev.to/avwerosuoghene/understanding-javascript-objects-a-concise-guide-52fc)
 - [Lifehacker] [Use Plastic Flowerpots to Make DIY Cement Planters](https://lifehacker.com/use-plastic-flowerpots-to-make-diy-cement-planters-1850748101)
@@ -44,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript: How conditionals influence your code?](https://dev.to/fullstackjo/javascript-how-conditionals-influence-your-code-5040)
 - [Dev.to/JS] [From Vue 2 to 3: A long journey](https://dev.to/nikhilverma/from-vue-2-to-3-a-long-journey-58ff)
 - [Dev.to/JS] [Using .reduce&lpar;&rpar; in JavaScript](https://dev.to/snelson723/using-reduce-in-javascript-1i19)
-- [Dev.to/JS] [What happens when you type google.com in your browser and press Enter…](https://dev.to/divine016/what-happens-when-you-type-googlecom-in-your-browser-and-press-enter-45fa)
 - [Lifehacker] [Make Reddit Usable on iPhone Again With This App](https://lifehacker.com/make-reddit-usable-on-iphone-again-with-this-app-1850746558)
 - [Lifehacker] [This Refurbished MacBook Air Is $250 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-250-right-now-1850743344)
 - [Lifehacker] [You Can Get Siri to Read Articles Out Loud Now](https://lifehacker.com/you-can-get-siri-to-read-articles-out-loud-now-1850746524)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the &#39;Action Method&#39; to Get More Done](https://lifehacker.com/use-the-action-method-to-get-more-done-1850743361)
 - [Lifehacker] [How to Make Sure Your Paint Job Doesn’t Peel, Bubble, or Discolor](https://lifehacker.com/how-to-make-sure-your-paint-job-doesn-t-peel-bubble-o-1850743475)
 - [Lifehacker] [How Packing Cubes Can Change Your Life](https://lifehacker.com/how-packing-cubes-can-change-your-life-1833717212)
-- [Lifehacker] [Stop Making Bad Coleslaw](https://lifehacker.com/stop-making-bad-coleslaw-1826269204)
-- [Lifehacker] [Turn Your Melon Into Agua Fresca](https://lifehacker.com/turn-your-melon-into-agua-fresca-1850743581)
-- [Lifehacker] [Google Photos Has a New Way to View Your Memories](https://lifehacker.com/google-photos-has-a-new-way-to-view-your-memories-1850743190)
-- [Lifehacker] [Nine Things You Should Do During Paternity Leave](https://lifehacker.com/nine-things-you-should-do-during-paternity-leave-1850742179)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Stop Making Bad Coleslaw](https://lifehacker.com/stop-making-bad-coleslaw-1826269204)<!-- TECH-POSTS:END -->
 
 ---
 
