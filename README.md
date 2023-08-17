@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to add the &quot;Changes you made may not be saved&quot; warning to a Next.js app with React Hook Form](https://dev.to/juanmtorrijos/how-to-add-the-changes-you-made-may-not-be-saved-warning-to-a-nextjs-app-with-react-hook-form-3ibh)
+- [Dev.to/JS] [[PT-BR] Transformando sua aplicação em um PWA Offline com Vite e React](https://dev.to/diaslilian/pt-br-transformando-sua-aplicacao-em-um-pwa-offline-com-vite-e-react-3b11)
 - [Dev.to/JS] [useCallback: Guide, use-cases, examples](https://dev.to/alakkadshaw/usecallback-guide-use-cases-examples-40fg)
 - [Dev.to/JS] [Unveiling the JavaScript Magic: Event Loop, Single Thread, and Beyond](https://dev.to/ibrahzizo360/unveiling-the-javascript-magic-event-loop-single-thread-and-beyond-10pi)
 - [Dev.to/JS] [Building inclusive UI for Neurodivergent Users](https://dev.to/amera/building-inclusive-ui-for-neurodivergent-users-1kda)
@@ -47,8 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Combining HTML Pages for Scroll Down Effect: A JavaScript, HTML, and CSS Solution](https://dev.to/devcodef1/combining-html-pages-for-scroll-down-effect-a-javascript-html-and-css-solution-4270)
 - [Dev.to/JS] [Mastering JavaScript Event Handling for Enhanced Frontend Functionality](https://dev.to/uzafar90/mastering-javascript-event-handling-for-enhanced-frontend-functionality-3id8)
 - [Lifehacker] [Use the &#39;Action Method&#39; to Get More Done](https://lifehacker.com/use-the-action-method-to-get-more-done-1850743361)
-- [Dev.to/JS] [JavaScript: Operators](https://dev.to/fullstackjo/javascript-operators-145o)
-- [Dev.to/JS] [The Power of Just-In-Time &lpar;JIT&rpar; Compiler in Software Development](https://dev.to/monarch_2009/the-power-of-just-in-time-jit-compiler-in-software-development-2ald)
 - [Lifehacker] [How to Make Sure Your Paint Job Doesn’t Peel, Bubble, or Discolor](https://lifehacker.com/how-to-make-sure-your-paint-job-doesn-t-peel-bubble-o-1850743475)
 - [Lifehacker] [How Packing Cubes Can Change Your Life](https://lifehacker.com/how-packing-cubes-can-change-your-life-1833717212)
 - [Lifehacker] [Stop Making Bad Coleslaw](https://lifehacker.com/stop-making-bad-coleslaw-1826269204)
