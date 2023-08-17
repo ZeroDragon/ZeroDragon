@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [useCallback: Guide, use-cases, examples](https://dev.to/alakkadshaw/usecallback-guide-use-cases-examples-40fg)
+- [Dev.to/JS] [Unveiling the JavaScript Magic: Event Loop, Single Thread, and Beyond](https://dev.to/ibrahzizo360/unveiling-the-javascript-magic-event-loop-single-thread-and-beyond-10pi)
+- [Dev.to/JS] [Building inclusive UI for Neurodivergent Users](https://dev.to/amera/building-inclusive-ui-for-neurodivergent-users-1kda)
 - [Dev.to/JS] [Tab Content Structure with Ajax and PHP](https://dev.to/devcodef1/tab-content-structure-with-ajax-and-php-311c)
 - [Dev.to/JS] [The setTimeout Function in Javascript](https://dev.to/ewenikeemmanue4/the-settimeout-function-in-javascript-3a50)
 - [Lifehacker] [There Are Seven Love Languages Now](https://lifehacker.com/there-are-seven-love-languages-now-and-one-might-be-yo-1848548099)
@@ -50,10 +53,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Packing Cubes Can Change Your Life](https://lifehacker.com/how-packing-cubes-can-change-your-life-1833717212)
 - [Lifehacker] [Stop Making Bad Coleslaw](https://lifehacker.com/stop-making-bad-coleslaw-1826269204)
 - [Lifehacker] [Turn Your Melon Into Agua Fresca](https://lifehacker.com/turn-your-melon-into-agua-fresca-1850743581)
-- [Dev.to/JS] [🔇 Almost Muted Truth about the JavaScript async/await Mechanism](https://dev.to/raxetul/almost-muted-truth-about-the-javascript-asyncawait-mechanism-2cmj)
-- [Dev.to/JS] [Welcome to AnisCodes: Your Destination for Web Development Tips!](https://dev.to/aniscodes/welcome-to-aniscodes-your-destination-for-web-development-tips-3ohi)
 - [Lifehacker] [Google Photos Has a New Way to View Your Memories](https://lifehacker.com/google-photos-has-a-new-way-to-view-your-memories-1850743190)
-- [Dev.to/JS] [Introducing visual testing for Playwright](https://dev.to/chromatic/introducing-visual-testing-for-playwright-1o97)
 - [Lifehacker] [Nine Things You Should Do During Paternity Leave](https://lifehacker.com/nine-things-you-should-do-during-paternity-leave-1850742179)
 - [Lifehacker] [You Can Get Dollar Flight Club or Matt&#39;s Flights for Cheap Right Now](https://lifehacker.com/you-can-get-dollar-flight-club-or-matts-flights-for-che-1850737576)
 - [Lifehacker] [You Should Make Scallion Pancakes With Dumpling Wrappers](https://lifehacker.com/you-should-make-scallion-pancakes-with-dumpling-wrapper-1850743004)
