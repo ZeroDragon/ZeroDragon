@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How the ‘Proust Effect’ Can Help You Study](https://lifehacker.com/how-the-proust-effect-can-help-you-study-1850749025)
+- [Dev.to/JS] [Coding: Growth, Learning, &amp; Transformation](https://dev.to/fetterollie/coding-growth-learning-transformation-24mj)
+- [Lifehacker] [The Best Study Gadgets for Students](https://lifehacker.com/the-best-study-gadgets-for-students-1850748745)
+- [Lifehacker] [This Is the Only &#39;Fast&#39; Way to Ripen an Avocado](https://lifehacker.com/this-is-the-only-fast-way-to-ripen-an-avocado-1849574036)
 - [Dev.to/JS] [React Custom Hook: useFetch](https://dev.to/sergeyleschev/react-custom-hook-usefetch-3k0p)
+- [Lifehacker] [You Can Get a Lifetime of Curiosity Stream for $200](https://lifehacker.com/you-can-get-a-lifetime-of-curiosity-stream-for-200-1850743424)
 - [Lifehacker] [What People are Getting Wrong This Week: The Maui Wildfires](https://lifehacker.com/maui-wildfire-myths-debunked-1850749329)
 - [Lifehacker] [Snack Supper Rules; Girl Dinner Drools](https://lifehacker.com/it-is-the-age-of-the-snack-supper-1843157528)
 - [Dev.to/JS] [Refactoring Monoliths to Microservices with the BFF and Strangler Patterns](https://dev.to/slickstef11/refactoring-monoliths-to-microservices-with-the-bff-and-strangler-patterns-11jl)
@@ -53,7 +58,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get a Year’s Subscription to NeuroNation for 52% Off](https://lifehacker.com/get-a-year-s-subscription-to-neuronation-for-52-off-1850737598)
 - [Dev.to/JS] [Let&#39;s Explore the World of Programming Languages!](https://dev.to/shivabollam07/lets-explore-the-world-of-programming-languages-3651)
 - [Dev.to/JS] [Adding Life to Your Svelte App: Animations and Transitions](https://dev.to/ironside/adding-life-to-your-svelte-app-animations-and-transitions-5hl8)
-- [Dev.to/JS] [JavaScript: How conditionals influence your code?](https://dev.to/fullstackjo/javascript-how-conditionals-influence-your-code-5040)
 - [Lifehacker] [Make Reddit Usable on iPhone Again With This App](https://lifehacker.com/make-reddit-usable-on-iphone-again-with-this-app-1850746558)
 - [Lifehacker] [This Refurbished MacBook Air Is $250 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-250-right-now-1850743344)
 - [Lifehacker] [You Can Get Siri to Read Articles Out Loud Now](https://lifehacker.com/you-can-get-siri-to-read-articles-out-loud-now-1850746524)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There Are Seven Love Languages Now](https://lifehacker.com/there-are-seven-love-languages-now-and-one-might-be-yo-1848548099)
 - [Lifehacker] [These Are the Best Tech Deals From the Woot! ‘Warehouse Cleanout’ Sale](https://lifehacker.com/these-are-the-best-tech-deals-from-the-woot-warehouse-1850745166)
 - [Lifehacker] [Here’s What Happens When You Use AI for Professional Headshots](https://lifehacker.com/here-s-what-happens-when-you-use-ai-for-professional-he-1850744740)
-- [Lifehacker] [The Best Gmail Extensions Everyone Should Be Using](https://lifehacker.com/best-gmail-extensions-1847854431)
-- [Lifehacker] [You Can Get Two Microsoft Office Licenses for $80](https://lifehacker.com/you-can-get-two-microsoft-office-licenses-for-80-1850730209)
-- [Lifehacker] [Throw Out These Illegally Produced Home Pregnancy Tests, FDA Says](https://lifehacker.com/throw-out-these-illegally-produced-home-pregnancy-tests-1850744006)
-- [Lifehacker] [Waze Can Help You Find the Cheapest Gas Stations Along Your Route](https://lifehacker.com/waze-can-help-you-find-cheap-gas-along-your-route-1847986905)
-- [Lifehacker] [You Need to Know Where You Fall on the Happy-Productive Worker Scale](https://lifehacker.com/you-need-to-know-where-you-fall-on-the-happy-productive-1850743483)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Gmail Extensions Everyone Should Be Using](https://lifehacker.com/best-gmail-extensions-1847854431)<!-- TECH-POSTS:END -->
 
 ---
 
