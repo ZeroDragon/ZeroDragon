@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Podcasts to Represent Every US State &lpar;Plus DC&rpar;](https://lifehacker.com/best-podcast-for-every-us-state-1850741030)
+- [Dev.to/JS] [MVC Architecture](https://dev.to/saji37/mvc-architecture-3027)
+- [Lifehacker] [You Should Pack a Family &#39;Flagged&#39; Bag for the Airport](https://lifehacker.com/you-should-pack-a-family-flagged-bag-for-the-airport-1850747507)
+- [Lifehacker] [The Best Ways to Invest &lpar;or Spend&rpar; $10,000](https://lifehacker.com/the-best-ways-to-spend-or-invest-that-10-000-1849461953)
+- [Lifehacker] [Buy Your Xbox 360 Games Now, Before the Store Shuts Down](https://lifehacker.com/buy-your-xbox-360-games-now-before-the-store-shuts-dow-1850747248)
 - [Lifehacker] [This Is the Secret to the Best Air Fryer Steak Bites](https://lifehacker.com/this-is-the-secret-to-the-best-air-fryer-steak-bites-1850747577)
 - [Dev.to/JS] [Array Manipulation in MongoDB](https://dev.to/ifeanyichima/array-manipulation-in-mongodb-dci)
 - [Lifehacker] [Get a Year’s Subscription to NeuroNation for 52% Off](https://lifehacker.com/get-a-year-s-subscription-to-neuronation-for-52-off-1850737598)
@@ -39,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Backend Error Handling: Practical Tips from a Startup CTO](https://dev.to/ctrlaltvictoria/backend-error-handling-practical-tips-from-a-startup-cto-h6)
 - [Dev.to/JS] [⌛ Dive Deep: Page Speed Test - Monitoring vs. Measuring](https://dev.to/adam/dive-deep-page-speed-test-monitoring-vs-measuring-5990)
 - [Dev.to/JS] [Recursion Recursion Recursion](https://dev.to/jshep23prog/recursion-recursion-recursion-3jfn)
-- [Dev.to/JS] [Day 28: Throttling](https://dev.to/dhrn/day-28-throttling-8kc)
 - [Lifehacker] [Make Reddit Usable on iPhone Again With This App](https://lifehacker.com/make-reddit-usable-on-iphone-again-with-this-app-1850746558)
 - [Lifehacker] [This Refurbished MacBook Air Is $250 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-250-right-now-1850743344)
 - [Lifehacker] [You Can Get Siri to Read Articles Out Loud Now](https://lifehacker.com/you-can-get-siri-to-read-articles-out-loud-now-1850746524)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Turn Your Melon Into Agua Fresca](https://lifehacker.com/turn-your-melon-into-agua-fresca-1850743581)
 - [Lifehacker] [Google Photos Has a New Way to View Your Memories](https://lifehacker.com/google-photos-has-a-new-way-to-view-your-memories-1850743190)
 - [Lifehacker] [Nine Things You Should Do During Paternity Leave](https://lifehacker.com/nine-things-you-should-do-during-paternity-leave-1850742179)
-- [Lifehacker] [You Can Get Dollar Flight Club or Matt&#39;s Flights for Cheap Right Now](https://lifehacker.com/you-can-get-dollar-flight-club-or-matts-flights-for-che-1850737576)
-- [Lifehacker] [You Should Make Scallion Pancakes With Dumpling Wrappers](https://lifehacker.com/you-should-make-scallion-pancakes-with-dumpling-wrapper-1850743004)
-- [Lifehacker] [The Ryobi Telescoping Power Scrubber Is the Best at Keeping My Tile Floors Clean](https://lifehacker.com/the-ryobi-telescoping-power-scrubber-is-the-best-at-kee-1850742182)
-- [Lifehacker] [You Can Now Leave Video Messages on FaceTime](https://lifehacker.com/you-can-now-leave-video-messages-on-facetime-1850742687)
-- [Lifehacker] [Do These Tasks This Month to Prepare Your Garden for Fall](https://lifehacker.com/do-these-tasks-this-month-to-prepare-your-garden-for-fa-1850742143)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Get Dollar Flight Club or Matt&#39;s Flights for Cheap Right Now](https://lifehacker.com/you-can-get-dollar-flight-club-or-matts-flights-for-che-1850737576)<!-- TECH-POSTS:END -->
 
 ---
 
