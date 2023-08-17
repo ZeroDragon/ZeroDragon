@@ -26,8 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Can machines dream of secure code? From AI hallucinations to software vulnerabilities](https://dev.to/snyk/can-machines-dream-of-secure-code-from-ai-hallucinations-to-software-vulnerabilities-m05)
 - [Dev.to/JS] [How to add the &quot;Changes you made may not be saved&quot; warning to a Next.js app with React Hook Form](https://dev.to/juanmtorrijos/how-to-add-the-changes-you-made-may-not-be-saved-warning-to-a-nextjs-app-with-react-hook-form-3ibh)
 - [Dev.to/JS] [[PT-BR] Transformando sua aplicação em um PWA Offline com Vite e React](https://dev.to/diaslilian/pt-br-transformando-sua-aplicacao-em-um-pwa-offline-com-vite-e-react-3b11)
+- [Dev.to/JS] [How to debug a Firefox add-on &lpar;extension&rpar;](https://dev.to/nickytonline/how-to-debug-a-firefox-add-on-extension-489f)
 - [Dev.to/JS] [useCallback: Guide, use-cases, examples](https://dev.to/alakkadshaw/usecallback-guide-use-cases-examples-40fg)
 - [Dev.to/JS] [Unveiling the JavaScript Magic: Event Loop, Single Thread, and Beyond](https://dev.to/ibrahzizo360/unveiling-the-javascript-magic-event-loop-single-thread-and-beyond-10pi)
 - [Dev.to/JS] [Building inclusive UI for Neurodivergent Users](https://dev.to/amera/building-inclusive-ui-for-neurodivergent-users-1kda)
@@ -46,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why masking is not accessible](https://dev.to/dgreene1/why-masking-is-not-accessible-i3c)
 - [Lifehacker] [The Best Ways to Pack a School Lunch so It Actually Stays Fresh](https://lifehacker.com/the-best-ways-to-pack-a-school-lunch-so-it-actually-sta-1850744058)
 - [Lifehacker] [Here’s How Much You Actually Save Buying Gas at Costco](https://lifehacker.com/is-gas-really-cheaper-at-costco-1848651490)
-- [Dev.to/JS] [Combining HTML Pages for Scroll Down Effect: A JavaScript, HTML, and CSS Solution](https://dev.to/devcodef1/combining-html-pages-for-scroll-down-effect-a-javascript-html-and-css-solution-4270)
-- [Dev.to/JS] [Mastering JavaScript Event Handling for Enhanced Frontend Functionality](https://dev.to/uzafar90/mastering-javascript-event-handling-for-enhanced-frontend-functionality-3id8)
 - [Lifehacker] [Use the &#39;Action Method&#39; to Get More Done](https://lifehacker.com/use-the-action-method-to-get-more-done-1850743361)
 - [Lifehacker] [How to Make Sure Your Paint Job Doesn’t Peel, Bubble, or Discolor](https://lifehacker.com/how-to-make-sure-your-paint-job-doesn-t-peel-bubble-o-1850743475)
 - [Lifehacker] [How Packing Cubes Can Change Your Life](https://lifehacker.com/how-packing-cubes-can-change-your-life-1833717212)
