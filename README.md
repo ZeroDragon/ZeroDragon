@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Setup React with Vite](https://dev.to/thiago-coderr/setup-react-with-vite-5e2f)
+- [Dev.to/JS] [Bhoomi — The Future of Secure Property Transfers](https://dev.to/arthvhanesa/bhoomi-the-future-of-secure-property-transfers-182m)
 - [Dev.to/JS] [Efficient Deep Cloning of Objects in JavaScript: A Comprehensive Guide](https://dev.to/iamcymentho/efficient-deep-cloning-of-objects-in-javascript-a-comprehensive-guide-2dei)
 - [Dev.to/JS] [Best Drag-and-Drop Libraries for Frontend Developers](https://dev.to/bryntum/best-drag-and-drop-libraries-for-frontend-developers-39d5)
 - [Dev.to/JS] [JavaScript dumbed down Part three. control flow, basic functions, and interactions.](https://dev.to/shawn2208/javascript-dumbed-down-part-three-control-flow-basic-functions-and-interactions-3lmb)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Document Object Model &lpar;DOM&rpar;: A Guide to Understanding and Mastering Website Interactivity](https://dev.to/priest/the-document-object-model-dom-a-guide-to-understanding-and-mastering-website-interactivity-2b9e)
 - [Dev.to/JS] [JavaScript Runtime and Code Lifecycle](https://dev.to/odus_ex/javascript-runtime-and-code-lifecycle-8dn)
 - [Dev.to/JS] [Demystifying JavaScript Property Descriptors: A Deep Dive](https://dev.to/punitsonime/demystifying-javascript-property-descriptors-a-deep-dive-1ncc)
-- [Dev.to/JS] [Creating Responsive Footer with react and taiwlindcss](https://dev.to/ryaddev/creating-responsive-footer-with-react-and-taiwlindcss-4b58)
-- [Dev.to/JS] [Improving Serverless Function response time on Vercel](https://dev.to/vatana7/improving-serverless-function-on-vercel-response-time-3n8c)
 - [Lifehacker] [There Are Seven Love Languages Now](https://lifehacker.com/there-are-seven-love-languages-now-and-one-might-be-yo-1848548099)
 - [Lifehacker] [These Are the Best Tech Deals From the Woot! ‘Warehouse Cleanout’ Sale](https://lifehacker.com/these-are-the-best-tech-deals-from-the-woot-warehouse-1850745166)
 - [Lifehacker] [Here’s What Happens When You Use AI for Professional Headshots](https://lifehacker.com/here-s-what-happens-when-you-use-ai-for-professional-he-1850744740)
