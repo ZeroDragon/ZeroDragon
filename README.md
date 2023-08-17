@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Is the Secret to the Best Air Fryer Steak Bites](https://lifehacker.com/this-is-the-secret-to-the-best-air-fryer-steak-bites-1850747577)
+- [Dev.to/JS] [Array Manipulation in MongoDB](https://dev.to/ifeanyichima/array-manipulation-in-mongodb-dci)
 - [Lifehacker] [Get a Year’s Subscription to NeuroNation for 52% Off](https://lifehacker.com/get-a-year-s-subscription-to-neuronation-for-52-off-1850737598)
 - [Dev.to/JS] [Let&#39;s Explore the World of Programming Languages!](https://dev.to/shivabollam07/lets-explore-the-world-of-programming-languages-3651)
 - [Dev.to/JS] [Adding Life to Your Svelte App: Animations and Transitions](https://dev.to/ironside/adding-life-to-your-svelte-app-animations-and-transitions-5hl8)
@@ -39,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Recursion Recursion Recursion](https://dev.to/jshep23prog/recursion-recursion-recursion-3jfn)
 - [Dev.to/JS] [Day 28: Throttling](https://dev.to/dhrn/day-28-throttling-8kc)
 - [Lifehacker] [Make Reddit Usable on iPhone Again With This App](https://lifehacker.com/make-reddit-usable-on-iphone-again-with-this-app-1850746558)
-- [Dev.to/JS] [What you think about contractor developers?](https://dev.to/marcin_codes/what-you-think-about-contractor-developers-1ea6)
 - [Lifehacker] [This Refurbished MacBook Air Is $250 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-250-right-now-1850743344)
 - [Lifehacker] [You Can Get Siri to Read Articles Out Loud Now](https://lifehacker.com/you-can-get-siri-to-read-articles-out-loud-now-1850746524)
 - [Lifehacker] [Delete Your Snapchat to Escape Its Rogue AI](https://lifehacker.com/how-to-delete-snapchat-android-iphone-1850745271)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make Scallion Pancakes With Dumpling Wrappers](https://lifehacker.com/you-should-make-scallion-pancakes-with-dumpling-wrapper-1850743004)
 - [Lifehacker] [The Ryobi Telescoping Power Scrubber Is the Best at Keeping My Tile Floors Clean](https://lifehacker.com/the-ryobi-telescoping-power-scrubber-is-the-best-at-kee-1850742182)
 - [Lifehacker] [You Can Now Leave Video Messages on FaceTime](https://lifehacker.com/you-can-now-leave-video-messages-on-facetime-1850742687)
-- [Lifehacker] [Do These Tasks This Month to Prepare Your Garden for Fall](https://lifehacker.com/do-these-tasks-this-month-to-prepare-your-garden-for-fa-1850742143)
-- [Lifehacker] [When You Need a DSLR Camera Instead of a Phone](https://lifehacker.com/when-you-need-a-dslr-camera-instead-of-a-phone-1850741963)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Do These Tasks This Month to Prepare Your Garden for Fall](https://lifehacker.com/do-these-tasks-this-month-to-prepare-your-garden-for-fa-1850742143)<!-- TECH-POSTS:END -->
 
 ---
 
