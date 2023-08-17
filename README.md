@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optimizing Performance in React Native: From Slow to Speedy 🚀💨](https://dev.to/medaimane/optimizing-performance-in-react-native-from-slow-to-speedy-1dpl)
 - [Dev.to/JS] [Identifiers and Reserved Words in JavaScript](https://dev.to/better678/identifiers-and-reserved-words-in-javascript-1fnk)
 - [Dev.to/JS] [Generating Optimized Image Formats with Node.js](https://dev.to/brainiacneit/generating-optimized-image-formats-with-nodejs-hj3)
 - [Dev.to/JS] [Can machines dream of secure code? From AI hallucinations to software vulnerabilities](https://dev.to/snyk/can-machines-dream-of-secure-code-from-ai-hallucinations-to-software-vulnerabilities-m05)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tab Content Structure with Ajax and PHP](https://dev.to/devcodef1/tab-content-structure-with-ajax-and-php-311c)
 - [Dev.to/JS] [The setTimeout Function in Javascript](https://dev.to/ewenikeemmanue4/the-settimeout-function-in-javascript-3a50)
 - [Lifehacker] [There Are Seven Love Languages Now](https://lifehacker.com/there-are-seven-love-languages-now-and-one-might-be-yo-1848548099)
-- [Dev.to/JS] [React Custom Hook: useEventListener](https://dev.to/sergeyleschev/react-custom-hook-useeventlistener-4kb7)
 - [Lifehacker] [These Are the Best Tech Deals From the Woot! ‘Warehouse Cleanout’ Sale](https://lifehacker.com/these-are-the-best-tech-deals-from-the-woot-warehouse-1850745166)
 - [Lifehacker] [Here’s What Happens When You Use AI for Professional Headshots](https://lifehacker.com/here-s-what-happens-when-you-use-ai-for-professional-he-1850744740)
 - [Lifehacker] [The Best Gmail Extensions Everyone Should Be Using](https://lifehacker.com/best-gmail-extensions-1847854431)
