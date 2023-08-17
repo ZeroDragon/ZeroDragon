@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 5 Best News APIs for developers](https://dev.to/newsdataio/top-5-best-news-apis-for-developers-4e5a)
+- [Dev.to/JS] [Prioritizing Fast Navigation: Elevating User Experience 🚀💨](https://dev.to/medaimane/prioritizing-fast-navigation-elevating-user-experience-50ng)
+- [Dev.to/JS] [React JS - Security Best Practices](https://dev.to/kristiyan_velkov/react-js-security-best-practices-15g7)
+- [Dev.to/JS] [JavaScript Basics #1](https://dev.to/ericnanhu/javascript-basics-1-3feo)
 - [Dev.to/JS] [Optimizing Performance in React Native: From Slow to Speedy 🚀💨](https://dev.to/medaimane/optimizing-performance-in-react-native-from-slow-to-speedy-1dpl)
 - [Dev.to/JS] [Identifiers and Reserved Words in JavaScript](https://dev.to/better678/identifiers-and-reserved-words-in-javascript-1fnk)
 - [Dev.to/JS] [Generating Optimized Image Formats with Node.js](https://dev.to/brainiacneit/generating-optimized-image-formats-with-nodejs-hj3)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [[PT-BR] Transformando sua aplicação em um PWA Offline com Vite e React](https://dev.to/diaslilian/pt-br-transformando-sua-aplicacao-em-um-pwa-offline-com-vite-e-react-3b11)
 - [Dev.to/JS] [How to debug a Firefox add-on &lpar;extension&rpar;](https://dev.to/nickytonline/how-to-debug-a-firefox-add-on-extension-489f)
 - [Dev.to/JS] [useCallback: Guide, use-cases, examples](https://dev.to/alakkadshaw/usecallback-guide-use-cases-examples-40fg)
-- [Dev.to/JS] [Unveiling the JavaScript Magic: Event Loop, Single Thread, and Beyond](https://dev.to/ibrahzizo360/unveiling-the-javascript-magic-event-loop-single-thread-and-beyond-10pi)
-- [Dev.to/JS] [Building inclusive UI for Neurodivergent Users](https://dev.to/amera/building-inclusive-ui-for-neurodivergent-users-1kda)
-- [Dev.to/JS] [Tab Content Structure with Ajax and PHP](https://dev.to/devcodef1/tab-content-structure-with-ajax-and-php-311c)
-- [Dev.to/JS] [The setTimeout Function in Javascript](https://dev.to/ewenikeemmanue4/the-settimeout-function-in-javascript-3a50)
 - [Lifehacker] [There Are Seven Love Languages Now](https://lifehacker.com/there-are-seven-love-languages-now-and-one-might-be-yo-1848548099)
 - [Lifehacker] [These Are the Best Tech Deals From the Woot! ‘Warehouse Cleanout’ Sale](https://lifehacker.com/these-are-the-best-tech-deals-from-the-woot-warehouse-1850745166)
 - [Lifehacker] [Here’s What Happens When You Use AI for Professional Headshots](https://lifehacker.com/here-s-what-happens-when-you-use-ai-for-professional-he-1850744740)
