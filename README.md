@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Flatiron - Phase 1](https://dev.to/adgholson/flatiron-phase-1-25p8)
+- [Dev.to/JS] [Simulando a AWS no seu ambiente Local](https://dev.to/devinicius/simulando-a-aws-na-sua-maquina-local-43k3)
+- [Dev.to/JS] [3 Cool Developer Console Tricks you must know! &lpar;with code&rpar;](https://dev.to/jeetvora331/3-cool-developer-console-tricks-you-must-know-1ncc)
+- [Lifehacker] [How to Beat a Drug Test](https://lifehacker.com/how-to-beat-a-drug-test-1829993785)
+- [Dev.to/JS] [Adding a &quot;share to mastodon&quot; link to any web site](https://dev.to/codepo8/adding-a-share-to-mastodon-link-to-any-web-site-485m)
 - [Lifehacker] [How the ‘Proust Effect’ Can Help You Study](https://lifehacker.com/how-the-proust-effect-can-help-you-study-1850749025)
 - [Dev.to/JS] [Coding: Growth, Learning, &amp; Transformation](https://dev.to/fetterollie/coding-growth-learning-transformation-24mj)
 - [Lifehacker] [The Best Study Gadgets for Students](https://lifehacker.com/the-best-study-gadgets-for-students-1850748745)
@@ -49,23 +54,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Plastic Flowerpots to Make DIY Cement Planters](https://lifehacker.com/use-plastic-flowerpots-to-make-diy-cement-planters-1850748101)
 - [Dev.to/JS] [Spread the object and omit keys](https://dev.to/muszynov/spread-the-object-and-omit-keys-3g11)
 - [Lifehacker] [The Best Podcasts to Represent Every US State &lpar;Plus DC&rpar;](https://lifehacker.com/best-podcast-for-every-us-state-1850741030)
-- [Dev.to/JS] [MVC Architecture](https://dev.to/saji37/mvc-architecture-3027)
 - [Lifehacker] [You Should Pack a Family &#39;Flagged&#39; Bag for the Airport](https://lifehacker.com/you-should-pack-a-family-flagged-bag-for-the-airport-1850747507)
 - [Lifehacker] [The Best Ways to Invest &lpar;or Spend&rpar; $10,000](https://lifehacker.com/the-best-ways-to-spend-or-invest-that-10-000-1849461953)
 - [Lifehacker] [Buy Your Xbox 360 Games Now, Before the Store Shuts Down](https://lifehacker.com/buy-your-xbox-360-games-now-before-the-store-shuts-dow-1850747248)
 - [Lifehacker] [This Is the Secret to the Best Air Fryer Steak Bites](https://lifehacker.com/this-is-the-secret-to-the-best-air-fryer-steak-bites-1850747577)
-- [Dev.to/JS] [Array Manipulation in MongoDB](https://dev.to/ifeanyichima/array-manipulation-in-mongodb-dci)
 - [Lifehacker] [Get a Year’s Subscription to NeuroNation for 52% Off](https://lifehacker.com/get-a-year-s-subscription-to-neuronation-for-52-off-1850737598)
-- [Dev.to/JS] [Let&#39;s Explore the World of Programming Languages!](https://dev.to/shivabollam07/lets-explore-the-world-of-programming-languages-3651)
-- [Dev.to/JS] [Adding Life to Your Svelte App: Animations and Transitions](https://dev.to/ironside/adding-life-to-your-svelte-app-animations-and-transitions-5hl8)
 - [Lifehacker] [Make Reddit Usable on iPhone Again With This App](https://lifehacker.com/make-reddit-usable-on-iphone-again-with-this-app-1850746558)
 - [Lifehacker] [This Refurbished MacBook Air Is $250 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-250-right-now-1850743344)
 - [Lifehacker] [You Can Get Siri to Read Articles Out Loud Now](https://lifehacker.com/you-can-get-siri-to-read-articles-out-loud-now-1850746524)
 - [Lifehacker] [Delete Your Snapchat to Escape Its Rogue AI](https://lifehacker.com/how-to-delete-snapchat-android-iphone-1850745271)
 - [Lifehacker] [There Are Seven Love Languages Now](https://lifehacker.com/there-are-seven-love-languages-now-and-one-might-be-yo-1848548099)
 - [Lifehacker] [These Are the Best Tech Deals From the Woot! ‘Warehouse Cleanout’ Sale](https://lifehacker.com/these-are-the-best-tech-deals-from-the-woot-warehouse-1850745166)
-- [Lifehacker] [Here’s What Happens When You Use AI for Professional Headshots](https://lifehacker.com/here-s-what-happens-when-you-use-ai-for-professional-he-1850744740)
-- [Lifehacker] [The Best Gmail Extensions Everyone Should Be Using](https://lifehacker.com/best-gmail-extensions-1847854431)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Here’s What Happens When You Use AI for Professional Headshots](https://lifehacker.com/here-s-what-happens-when-you-use-ai-for-professional-he-1850744740)<!-- TECH-POSTS:END -->
 
 ---
 
