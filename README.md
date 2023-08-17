@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Demystifying JavaScript Property Descriptors: A Deep Dive](https://dev.to/punitsonime/demystifying-javascript-property-descriptors-a-deep-dive-1ncc)
 - [Dev.to/JS] [Creating Responsive Footer with react and taiwlindcss](https://dev.to/ryaddev/creating-responsive-footer-with-react-and-taiwlindcss-4b58)
 - [Dev.to/JS] [Improving Serverless Function on Vercel response time](https://dev.to/vatana7/improving-serverless-function-on-vercel-response-time-3n8c)
 - [Dev.to/JS] [Automated Image Compression: A Vite Plugin Using Sharp](https://dev.to/mrwaip/automated-image-compression-a-vite-plugin-using-sharp-3h5d)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 5 Best News APIs for developers](https://dev.to/newsdataio/top-5-best-news-apis-for-developers-4e5a)
 - [Dev.to/JS] [Prioritizing Fast Navigation: Elevating User Experience 🚀💨](https://dev.to/medaimane/prioritizing-fast-navigation-elevating-user-experience-50ng)
 - [Dev.to/JS] [React JS - Security Best Practices](https://dev.to/kristiyan_velkov/react-js-security-best-practices-15g7)
-- [Dev.to/JS] [JavaScript Basics #1](https://dev.to/ericnanhu/javascript-basics-1-3feo)
 - [Lifehacker] [There Are Seven Love Languages Now](https://lifehacker.com/there-are-seven-love-languages-now-and-one-might-be-yo-1848548099)
 - [Lifehacker] [These Are the Best Tech Deals From the Woot! ‘Warehouse Cleanout’ Sale](https://lifehacker.com/these-are-the-best-tech-deals-from-the-woot-warehouse-1850745166)
 - [Lifehacker] [Here’s What Happens When You Use AI for Professional Headshots](https://lifehacker.com/here-s-what-happens-when-you-use-ai-for-professional-he-1850744740)
