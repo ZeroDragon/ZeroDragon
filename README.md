@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Beginner’s Guide to Chrome Extension Development](https://dev.to/sk063675488/a-beginners-guide-to-chrome-extension-development-3d1l)
+- [Lifehacker] [You Can Get Siri to Read Articles Out Loud Now](https://lifehacker.com/you-can-get-siri-to-read-articles-out-loud-now-1850746524)
+- [Dev.to/JS] [JavaScript is Extraordinarily Weird! Hear Me Out! 👨‍💻📢🔥](https://dev.to/arjuncodess/javascript-is-extraordinarily-weird-hear-me-out-56j5)
+- [Dev.to/JS] [Guia para Iniciantes: Como Começar a Fazer Freelance Desenvolvendo Sites para Empresas Locais](https://dev.to/robsonamendonca/guia-para-iniciantes-como-comecar-a-fazer-freelance-desenvolvendo-sites-para-empresas-locais-4nof)
+- [Lifehacker] [Delete Your Snapchat to Escape Its Rogue AI](https://lifehacker.com/how-to-delete-snapchat-android-iphone-1850745271)
 - [Dev.to/JS] [Setup React with Vite](https://dev.to/thiago-coderr/setup-react-with-vite-5e2f)
 - [Dev.to/JS] [Bhoomi — The Future of Secure Property Transfers](https://dev.to/arthvhanesa/bhoomi-the-future-of-secure-property-transfers-182m)
 - [Dev.to/JS] [Efficient Deep Cloning of Objects in JavaScript: A Comprehensive Guide](https://dev.to/iamcymentho/efficient-deep-cloning-of-objects-in-javascript-a-comprehensive-guide-2dei)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Giới thiệu Phòng Khám Đa Khoa Tháng Tám](https://dev.to/74cmtt/gioi-thieu-phong-kham-da-khoa-thang-tam-3629)
 - [Dev.to/JS] [Code Splitting in React](https://dev.to/shishsingh/code-splitting-in-react-p9b)
 - [Dev.to/JS] [Fantastic closures and how to find them in React](https://dev.to/adevnadia/fantastic-closures-and-how-to-find-them-in-react-3fpc)
-- [Dev.to/JS] [The Document Object Model &lpar;DOM&rpar;: A Guide to Understanding and Mastering Website Interactivity](https://dev.to/priest/the-document-object-model-dom-a-guide-to-understanding-and-mastering-website-interactivity-2b9e)
-- [Dev.to/JS] [JavaScript Runtime and Code Lifecycle](https://dev.to/odus_ex/javascript-runtime-and-code-lifecycle-8dn)
-- [Dev.to/JS] [Demystifying JavaScript Property Descriptors: A Deep Dive](https://dev.to/punitsonime/demystifying-javascript-property-descriptors-a-deep-dive-1ncc)
 - [Lifehacker] [There Are Seven Love Languages Now](https://lifehacker.com/there-are-seven-love-languages-now-and-one-might-be-yo-1848548099)
 - [Lifehacker] [These Are the Best Tech Deals From the Woot! ‘Warehouse Cleanout’ Sale](https://lifehacker.com/these-are-the-best-tech-deals-from-the-woot-warehouse-1850745166)
 - [Lifehacker] [Here’s What Happens When You Use AI for Professional Headshots](https://lifehacker.com/here-s-what-happens-when-you-use-ai-for-professional-he-1850744740)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When You Need a DSLR Camera Instead of a Phone](https://lifehacker.com/when-you-need-a-dslr-camera-instead-of-a-phone-1850741963)
 - [Lifehacker] [What to Do After Your First Pullup](https://lifehacker.com/what-to-do-after-your-first-pullup-1850741036)
 - [Lifehacker] [Unexpected Jobs That Can Earn You Six Figures](https://lifehacker.com/unexpected-jobs-that-can-earn-you-six-figures-1850738764)
-- [Lifehacker] [Prioritize Your To-Do&#39;s With the ABC Method](https://lifehacker.com/prioritize-your-to-dos-with-the-abc-method-1850738882)
-- [Lifehacker] [Google’s AI Can Now Summarize an Article Directly in Search Results](https://lifehacker.com/google-s-ai-can-now-summarize-an-article-directly-in-se-1850740737)
-- [Lifehacker] [How to Choose the Best Airport Security ‘Pre-Check’ Program for You](https://lifehacker.com/how-to-choose-the-best-airport-security-pre-check-pro-1849433015)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Prioritize Your To-Do&#39;s With the ABC Method](https://lifehacker.com/prioritize-your-to-dos-with-the-abc-method-1850738882)<!-- TECH-POSTS:END -->
 
 ---
 
