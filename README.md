@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Mail Authentication](https://dev.to/lexycon002/react-mail-authentication-1n1e)
+- [Dev.to/JS] [How to Enable and Disable Cache in Magento 2?](https://dev.to/k3shariq/how-to-enable-and-disable-cache-in-magento-2-44d3)
+- [Dev.to/JS] [Making the case for Laravel as a Next.js alternative](https://dev.to/aschmelyun/making-the-case-for-laravel-as-a-nextjs-alternative-3o5p)
 - [Dev.to/JS] [Write an API to place order in express and mongodb.](https://dev.to/satishjaiswal/write-an-api-to-place-order-in-express-and-mongodb-5d4m)
 - [Dev.to/JS] [Harnessing the Power of React with IntersectionObserver!](https://dev.to/yanagisawahidetoshi/harnessing-the-power-of-react-with-intersectionobserver-jk7)
 - [Dev.to/JS] [Demystifying JavaScript&#39;s New `.at&lpar;&rpar;` Array Method!](https://dev.to/yanagisawahidetoshi/demystifying-javascripts-new-at-array-method-4ljg)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Array methods : slice ,splice , concat , push ,pop ,shift ,unshift](https://dev.to/syedmuhammadaliraza/javascript-array-methods-slice-splice-concat-push-pop-shift-unshift-13jj)
 - [Dev.to/JS] [Complex DataTypes in JS](https://dev.to/gfish94/complex-datatypes-in-js-1cem)
 - [Dev.to/JS] [Pogo Billing Helpline Number +1-909-766-6694](https://dev.to/pogohelpusa/pogo-billing-helpline-number-1-909-766-6694-3ea7)
-- [Dev.to/JS] [10+ Awesome Things About JavaScript](https://dev.to/developedbyjk/10-awesome-things-about-javascript-2ddl)
-- [Dev.to/JS] [Hướng dẫn cách bắt đề chẵn lẻ](https://dev.to/dudoansoic56798/huong-dan-cach-bat-de-chan-le-1hf)
-- [Dev.to/JS] [Unicode in JavaScript](https://dev.to/better678/unicode-in-javascript-3l3e)
 - [Lifehacker] [The Best TRX Exercises You Can Do at the Gym](https://lifehacker.com/11-of-the-best-exercises-you-can-do-on-trx-straps-at-th-1848908010)
 - [Lifehacker] [The Best Cheap Smartwatches You Can Buy](https://lifehacker.com/5-smartwatches-you-can-buy-for-under-200-1849905601)
 - [Lifehacker] [How to Beat a Drug Test](https://lifehacker.com/how-to-beat-a-drug-test-1829993785)
