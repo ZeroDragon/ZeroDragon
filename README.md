@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NextAuth.js: create a custom OAuth provider](https://dev.to/blackarm/nextauthjs-create-a-custom-oauth-provider-1aj3)
+- [Dev.to/JS] [From Localhost to the Cloud: Deploying my First Node.js App with Docker](https://dev.to/ikemhood/from-localhost-to-the-cloud-deploying-my-first-nodejs-app-with-docker-1nn3)
+- [Dev.to/JS] [Mistakes to Avoid as a New Programmer: Common Pitfalls That Can Hinder Your Learning Progress](https://dev.to/scofieldidehen/mistakes-to-avoid-as-a-new-programmer-common-pitfalls-that-can-hinder-your-learning-progress-370o)
 - [Dev.to/JS] [Applying Artificial Intelligence In Mobile Application Development](https://dev.to/sparkouttech/applying-artificial-intelligence-in-mobile-application-development-1jkj)
 - [Dev.to/JS] [The sword refers to immer, the faster and stronger immutable data js tool limu stable version released!](https://dev.to/fantasticsoul/the-sword-refers-to-immer-the-faster-and-stronger-immutable-data-js-tool-limu-stable-version-released-1bo1)
 - [Dev.to/JS] [What is AUC in machine learning?](https://dev.to/baljeet975/what-is-auc-in-machine-learning-2gdk)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Write an API to place order in express and mongodb.](https://dev.to/satishjaiswal/write-an-api-to-place-order-in-express-and-mongodb-5d4m)
 - [Dev.to/JS] [Harnessing the Power of React with IntersectionObserver!](https://dev.to/yanagisawahidetoshi/harnessing-the-power-of-react-with-intersectionobserver-jk7)
 - [Dev.to/JS] [Demystifying JavaScript&#39;s New `.at&lpar;&rpar;` Array Method!](https://dev.to/yanagisawahidetoshi/demystifying-javascripts-new-at-array-method-4ljg)
-- [Dev.to/JS] [Offline-First Development in React Native: Creating Robust Apps📱🔌🛠️](https://dev.to/medaimane/offline-first-development-in-react-native-creating-robust-apps-1jb)
-- [Dev.to/JS] [Proper Method for Storing User Data on the Client Side in React for Authentication](https://dev.to/muflihkp/proper-method-for-storing-user-data-on-the-client-side-in-react-for-authentication-2igi)
-- [Dev.to/JS] [Unveiling Lesser-Known Tricks for Developers](https://dev.to/harshahegde/unveiling-lesser-known-tricks-for-developers-38p5)
 - [Lifehacker] [The Best TRX Exercises You Can Do at the Gym](https://lifehacker.com/11-of-the-best-exercises-you-can-do-on-trx-straps-at-th-1848908010)
 - [Lifehacker] [The Best Cheap Smartwatches You Can Buy](https://lifehacker.com/5-smartwatches-you-can-buy-for-under-200-1849905601)
 - [Lifehacker] [How to Beat a Drug Test](https://lifehacker.com/how-to-beat-a-drug-test-1829993785)
