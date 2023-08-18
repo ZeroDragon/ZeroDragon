@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Applying Artificial Intelligence In Mobile Application Development](https://dev.to/sparkouttech/applying-artificial-intelligence-in-mobile-application-development-1jkj)
+- [Dev.to/JS] [The sword refers to immer, the faster and stronger immutable data js tool limu stable version released!](https://dev.to/fantasticsoul/the-sword-refers-to-immer-the-faster-and-stronger-immutable-data-js-tool-limu-stable-version-released-1bo1)
+- [Dev.to/JS] [What is AUC in machine learning?](https://dev.to/baljeet975/what-is-auc-in-machine-learning-2gdk)
 - [Dev.to/JS] [React Mail Authentication](https://dev.to/lexycon002/react-mail-authentication-1n1e)
 - [Dev.to/JS] [How to Enable and Disable Cache in Magento 2?](https://dev.to/k3shariq/how-to-enable-and-disable-cache-in-magento-2-44d3)
 - [Dev.to/JS] [Making the case for Laravel as a Next.js alternative](https://dev.to/aschmelyun/making-the-case-for-laravel-as-a-nextjs-alternative-3o5p)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Offline-First Development in React Native: Creating Robust Apps📱🔌🛠️](https://dev.to/medaimane/offline-first-development-in-react-native-creating-robust-apps-1jb)
 - [Dev.to/JS] [Proper Method for Storing User Data on the Client Side in React for Authentication](https://dev.to/muflihkp/proper-method-for-storing-user-data-on-the-client-side-in-react-for-authentication-2igi)
 - [Dev.to/JS] [Unveiling Lesser-Known Tricks for Developers](https://dev.to/harshahegde/unveiling-lesser-known-tricks-for-developers-38p5)
-- [Dev.to/JS] [Javascript Array methods : slice ,splice , concat , push ,pop ,shift ,unshift](https://dev.to/syedmuhammadaliraza/javascript-array-methods-slice-splice-concat-push-pop-shift-unshift-13jj)
-- [Dev.to/JS] [Complex DataTypes in JS](https://dev.to/gfish94/complex-datatypes-in-js-1cem)
-- [Dev.to/JS] [Pogo Billing Helpline Number +1-909-766-6694](https://dev.to/pogohelpusa/pogo-billing-helpline-number-1-909-766-6694-3ea7)
 - [Lifehacker] [The Best TRX Exercises You Can Do at the Gym](https://lifehacker.com/11-of-the-best-exercises-you-can-do-on-trx-straps-at-th-1848908010)
 - [Lifehacker] [The Best Cheap Smartwatches You Can Buy](https://lifehacker.com/5-smartwatches-you-can-buy-for-under-200-1849905601)
 - [Lifehacker] [How to Beat a Drug Test](https://lifehacker.com/how-to-beat-a-drug-test-1829993785)
