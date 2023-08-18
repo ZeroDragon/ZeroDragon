@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [📦 React Props: A Visual Guide](https://dev.to/reedbarger/react-props-a-visual-guide-3gcc)
+- [Dev.to/JS] [Day 29: Output](https://dev.to/dhrn/day-29-output-2g5m)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is &#39;Zepotha&#39; a Real Movie?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-zepoth-1850750620)
+- [Dev.to/JS] [Introducing Dev101: Your Gateway to JavaScript, React.js, and Node.js](https://dev.to/jacknorman235/introducing-dev101-your-gateway-to-javascript-reactjs-and-nodejs-492j)
 - [Lifehacker] [Avoid These Car Insurance Sites When You&#39;re Shopping for Quotes](https://lifehacker.com/avoid-these-car-insurance-sites-when-youre-shopping-for-1850749337)
 - [Dev.to/JS] [A Some undocumented about Server Component](https://dev.to/composite/a-some-undocumented-about-server-component-408d)
 - [Lifehacker] [Build Your Strawberry Shortcake on Biscuits Instead](https://lifehacker.com/build-your-strawberry-shortcake-on-biscuits-instead-1850749279)
@@ -38,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mistakes to Avoid as a New Programmer: Common Pitfalls That Can Hinder Your Learning Progress](https://dev.to/scofieldidehen/mistakes-to-avoid-as-a-new-programmer-common-pitfalls-that-can-hinder-your-learning-progress-370o)
 - [Dev.to/JS] [Applying Artificial Intelligence In Mobile Application Development](https://dev.to/sparkouttech/applying-artificial-intelligence-in-mobile-application-development-1jkj)
 - [Dev.to/JS] [The sword refers to immer, the faster and stronger immutable data js tool limu stable version released!](https://dev.to/fantasticsoul/the-sword-refers-to-immer-the-faster-and-stronger-immutable-data-js-tool-limu-stable-version-released-1bo1)
-- [Dev.to/JS] [What is AUC in machine learning?](https://dev.to/baljeet975/what-is-auc-in-machine-learning-2gdk)
-- [Dev.to/JS] [React Mail Authentication](https://dev.to/lexycon002/react-mail-authentication-1n1e)
-- [Dev.to/JS] [How to Enable and Disable Cache in Magento 2?](https://dev.to/k3shariq/how-to-enable-and-disable-cache-in-magento-2-44d3)
 - [Lifehacker] [The Best TRX Exercises You Can Do at the Gym](https://lifehacker.com/11-of-the-best-exercises-you-can-do-on-trx-straps-at-th-1848908010)
 - [Lifehacker] [The Best Cheap Smartwatches You Can Buy](https://lifehacker.com/5-smartwatches-you-can-buy-for-under-200-1849905601)
 - [Lifehacker] [How to Beat a Drug Test](https://lifehacker.com/how-to-beat-a-drug-test-1829993785)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Buy Your Xbox 360 Games Now, Before the Store Shuts Down](https://lifehacker.com/buy-your-xbox-360-games-now-before-the-store-shuts-dow-1850747248)
 - [Lifehacker] [This Is the Secret to the Best Air Fryer Steak Bites](https://lifehacker.com/this-is-the-secret-to-the-best-air-fryer-steak-bites-1850747577)
 - [Lifehacker] [Get a Year’s Subscription to NeuroNation for 52% Off](https://lifehacker.com/get-a-year-s-subscription-to-neuronation-for-52-off-1850737598)
-- [Lifehacker] [Make Reddit Usable on iPhone Again With This App](https://lifehacker.com/make-reddit-usable-on-iphone-again-with-this-app-1850746558)
-- [Lifehacker] [This Refurbished MacBook Air Is $250 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-250-right-now-1850743344)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make Reddit Usable on iPhone Again With This App](https://lifehacker.com/make-reddit-usable-on-iphone-again-with-this-app-1850746558)<!-- TECH-POSTS:END -->
 
 ---
 
