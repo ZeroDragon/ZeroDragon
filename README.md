@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Avoid These Car Insurance Sites When You&#39;re Shopping for Quotes](https://lifehacker.com/avoid-these-car-insurance-sites-when-youre-shopping-for-1850749337)
+- [Dev.to/JS] [A Some undocumented about Server Component](https://dev.to/composite/a-some-undocumented-about-server-component-408d)
+- [Lifehacker] [Build Your Strawberry Shortcake on Biscuits Instead](https://lifehacker.com/build-your-strawberry-shortcake-on-biscuits-instead-1850749279)
 - [Lifehacker] [Everyone Needs a ‘Pregnancy Pillow’](https://lifehacker.com/everyone-needs-a-pregnancy-pillow-1850748978)
 - [Dev.to/JS] [Nullish Operator](https://dev.to/beterraba/nullish-operator-1if8)
 - [Dev.to/JS] [Mastering Email Address Validation in JavaScript](https://dev.to/iamcymentho/mastering-email-address-validation-in-javascript-4f0j)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is AUC in machine learning?](https://dev.to/baljeet975/what-is-auc-in-machine-learning-2gdk)
 - [Dev.to/JS] [React Mail Authentication](https://dev.to/lexycon002/react-mail-authentication-1n1e)
 - [Dev.to/JS] [How to Enable and Disable Cache in Magento 2?](https://dev.to/k3shariq/how-to-enable-and-disable-cache-in-magento-2-44d3)
-- [Dev.to/JS] [Making the case for Laravel as a Next.js alternative](https://dev.to/aschmelyun/making-the-case-for-laravel-as-a-nextjs-alternative-3o5p)
 - [Lifehacker] [The Best TRX Exercises You Can Do at the Gym](https://lifehacker.com/11-of-the-best-exercises-you-can-do-on-trx-straps-at-th-1848908010)
 - [Lifehacker] [The Best Cheap Smartwatches You Can Buy](https://lifehacker.com/5-smartwatches-you-can-buy-for-under-200-1849905601)
 - [Lifehacker] [How to Beat a Drug Test](https://lifehacker.com/how-to-beat-a-drug-test-1829993785)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Secret to the Best Air Fryer Steak Bites](https://lifehacker.com/this-is-the-secret-to-the-best-air-fryer-steak-bites-1850747577)
 - [Lifehacker] [Get a Year’s Subscription to NeuroNation for 52% Off](https://lifehacker.com/get-a-year-s-subscription-to-neuronation-for-52-off-1850737598)
 - [Lifehacker] [Make Reddit Usable on iPhone Again With This App](https://lifehacker.com/make-reddit-usable-on-iphone-again-with-this-app-1850746558)
-- [Lifehacker] [This Refurbished MacBook Air Is $250 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-250-right-now-1850743344)
-- [Lifehacker] [You Can Get Siri to Read Articles Out Loud Now](https://lifehacker.com/you-can-get-siri-to-read-articles-out-loud-now-1850746524)
-- [Lifehacker] [Delete Your Snapchat to Escape Its Rogue AI](https://lifehacker.com/how-to-delete-snapchat-android-iphone-1850745271)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Refurbished MacBook Air Is $250 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-250-right-now-1850743344)<!-- TECH-POSTS:END -->
 
 ---
 
