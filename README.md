@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A sweet spot between signals and observables 🍬](https://dev.to/this-is-angular/a-sweet-spot-between-signals-and-observables-4chb)
+- [Lifehacker] [This Smart Tripod Mount Is $55 Right Now](https://lifehacker.com/this-smart-tripod-mount-is-55-right-now-1850743546)
 - [Lifehacker] [Earn More Credit Card Points by &#39;Double Dipping&#39;](https://lifehacker.com/earn-more-credit-card-points-by-double-dipping-1850751559)
 - [Dev.to/JS] [Building a React Dev Environment: Node.js &amp; Webpack Explained](https://dev.to/abhaysinghr1/building-a-react-dev-environment-nodejs-webpack-explained-5392)
 - [Dev.to/JS] [Diffie-Hellman &amp; its Simple Maths Explained in 5 Minutes 🙆🏻‍♂️](https://dev.to/jaypmedia/diffie-hellman-its-simple-maths-explained-in-5-minutes-3f2e)
@@ -42,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is &#39;Zepotha&#39; a Real Movie?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-zepoth-1850750620)
 - [Dev.to/JS] [Introducing Dev101: Your Gateway to JavaScript, React.js, and Node.js](https://dev.to/jacknorman235/introducing-dev101-your-gateway-to-javascript-reactjs-and-nodejs-492j)
 - [Lifehacker] [Avoid These Car Insurance Sites When You&#39;re Shopping for Quotes](https://lifehacker.com/avoid-these-car-insurance-sites-when-youre-shopping-for-1850749337)
-- [Dev.to/JS] [A Some undocumented about Server Component](https://dev.to/composite/a-some-undocumented-about-server-component-408d)
 - [Lifehacker] [Build Your Strawberry Shortcake on Biscuits Instead](https://lifehacker.com/build-your-strawberry-shortcake-on-biscuits-instead-1850749279)
 - [Lifehacker] [Everyone Needs a ‘Pregnancy Pillow’](https://lifehacker.com/everyone-needs-a-pregnancy-pillow-1850748978)
 - [Lifehacker] [The Best TRX Exercises You Can Do at the Gym](https://lifehacker.com/11-of-the-best-exercises-you-can-do-on-trx-straps-at-th-1848908010)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use Plastic Flowerpots to Make DIY Cement Planters](https://lifehacker.com/use-plastic-flowerpots-to-make-diy-cement-planters-1850748101)
 - [Lifehacker] [The Best Podcasts to Represent Every US State &lpar;Plus DC&rpar;](https://lifehacker.com/best-podcast-for-every-us-state-1850741030)
 - [Lifehacker] [You Should Pack a Family &#39;Flagged&#39; Bag for the Airport](https://lifehacker.com/you-should-pack-a-family-flagged-bag-for-the-airport-1850747507)
-- [Lifehacker] [The Best Ways to Invest &lpar;or Spend&rpar; $10,000](https://lifehacker.com/the-best-ways-to-spend-or-invest-that-10-000-1849461953)
-- [Lifehacker] [Buy Your Xbox 360 Games Now, Before the Store Shuts Down](https://lifehacker.com/buy-your-xbox-360-games-now-before-the-store-shuts-dow-1850747248)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Invest &lpar;or Spend&rpar; $10,000](https://lifehacker.com/the-best-ways-to-spend-or-invest-that-10-000-1849461953)<!-- TECH-POSTS:END -->
 
 ---
 
