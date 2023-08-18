@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javscript Object Methods](https://dev.to/syedmuhammadaliraza/javscript-object-methods-27n4)
+- [Lifehacker] [This AquaSonic Toothbrush Is $25 Right Now](https://lifehacker.com/this-aquasonic-toothbrush-is-25-right-now-1850743710)
+- [Lifehacker] [How to Write an Online Listing so Your Stuff Actually Sells](https://lifehacker.com/how-to-write-an-online-listing-so-your-stuff-actually-s-1850751636)
+- [Lifehacker] [Make Fromage Fort, the Cheese Spread Made With Scraps](https://lifehacker.com/fromage-fort-is-an-amazing-spread-made-from-cheese-plat-1821052207)
+- [Dev.to/JS] [Creating a Simple Book API with Express.js](https://dev.to/shawn2208/creating-a-simple-book-api-with-expressjs-29o3)
+- [Dev.to/JS] [Demystifying CORS: Understanding How Cross-Origin Resource Sharing Works](https://dev.to/martinwachira/demystifying-cors-understanding-how-cross-origin-resource-sharing-works-93k)
 - [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
 - [Dev.to/JS] [Moonly weekly progress update #61 - Automatio FAQ/2](https://dev.to/moonly/moonly-weekly-progress-update-61-automatio-faq2-ibl)
 - [Dev.to/JS] [Exploring Component Lifecycle Methods in React](https://dev.to/the2minengineer/exploring-component-lifecycle-methods-in-react-13p9)
@@ -35,17 +41,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Place Fans in Your Home for Maximum Cooling](https://lifehacker.com/where-to-place-fans-in-your-home-for-maximum-cooling-1849338791)
 - [Dev.to/JS] [On to Back End!](https://dev.to/kiararj/on-to-back-end-5f48)
 - [Lifehacker] [The &#39;BeFake&#39; App Is the Opposite of BeReal](https://lifehacker.com/the-befake-app-is-the-opposite-of-bereal-1850751838)
+- [Dev.to/JS] [A document Q&amp;A chatbot built with Next.js + supabase + GPT](https://dev.to/neeldev96/i-finally-built-a-doc-qa-chatbot-1klk)
 - [Dev.to/JS] [Building Backends with Node.js and MongoDB](https://dev.to/jinxcoy/building-backends-with-nodejs-and-mongodb-230g)
 - [Dev.to/JS] [Twitter Cards for onchain SVG NFTs](https://dev.to/sammybauch/twitter-cards-for-onchain-svg-nfts-582h)
 - [Dev.to/JS] [Design Patterns: Module Design Pattern in JavaScript](https://dev.to/sirius93/design-patterns-module-design-pattern-in-javascript-3ee7)
-- [Dev.to/JS] [Top 7 Libraries for Blazingly Fast ReactJS Applications](https://dev.to/mohammadfaisal/top-7-libraries-for-blazingly-fast-reactjs-applications-38dj)
 - [Lifehacker] [iMessage Has a Hidden Bookmarking Feature](https://lifehacker.com/imessage-has-a-hidden-bookmarking-feature-1850751945)
 - [Lifehacker] [You Can Finally Check a Note&#39;s Version History in Google Keep](https://lifehacker.com/you-can-finally-check-a-notes-version-history-in-google-1850751873)
-- [Dev.to/JS] [A sweet spot between signals and observables 🍬](https://dev.to/this-is-angular/a-sweet-spot-between-signals-and-observables-4chb)
 - [Lifehacker] [This Smart Tripod Mount Is $55 Right Now](https://lifehacker.com/this-smart-tripod-mount-is-55-right-now-1850743546)
 - [Lifehacker] [Earn More Credit Card Points by &#39;Double Dipping&#39;](https://lifehacker.com/earn-more-credit-card-points-by-double-dipping-1850751559)
-- [Dev.to/JS] [Building a React Dev Environment: Node.js &amp; Webpack Explained](https://dev.to/abhaysinghr1/building-a-react-dev-environment-nodejs-webpack-explained-5392)
-- [Dev.to/JS] [Diffie-Hellman &amp; its Simple Maths Explained in 5 Minutes 🙆🏻‍♂️](https://dev.to/jaypmedia/diffie-hellman-its-simple-maths-explained-in-5-minutes-3f2e)
 - [Lifehacker] [When to Buy the 14-Inch MacBook Pro Over the 15-Inch MacBook Air](https://lifehacker.com/when-to-buy-the-14-inch-macbook-pro-over-the-15-inch-ma-1850746532)
 - [Lifehacker] [How to Boost Your Child&#39;s Immune System This School Year](https://lifehacker.com/how-to-boost-your-childs-immune-system-this-school-year-1850749887)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is &#39;Zepotha&#39; a Real Movie?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-zepoth-1850750620)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What People are Getting Wrong This Week: The Maui Wildfires](https://lifehacker.com/maui-wildfire-myths-debunked-1850749329)
 - [Lifehacker] [Snack Supper Rules; Girl Dinner Drools](https://lifehacker.com/it-is-the-age-of-the-snack-supper-1843157528)
 - [Lifehacker] [Your Concrete Project Needs Cement Paint](https://lifehacker.com/your-concrete-project-needs-cement-paint-1850748105)
-- [Lifehacker] [The Easiest, Laziest Way to Build a Fire](https://lifehacker.com/the-easiest-laziest-way-to-build-a-fire-1850748804)
-- [Lifehacker] [You Can Finally Send High Quality Photos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)
-- [Lifehacker] [The Best Sangria Comes From a French Press](https://lifehacker.com/the-best-sangria-comes-from-a-french-press-1850748855)
-- [Lifehacker] [These Dehumidifiers Are Being Recalled for Fire Hazard](https://lifehacker.com/these-dehumidifiers-are-being-recalled-for-fire-hazard-1850748405)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest, Laziest Way to Build a Fire](https://lifehacker.com/the-easiest-laziest-way-to-build-a-fire-1850748804)<!-- TECH-POSTS:END -->
 
 ---
 
