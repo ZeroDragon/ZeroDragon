@@ -26,6 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
+- [Dev.to/JS] [Moonly weekly progress update #61 - Automatio FAQ/2](https://dev.to/moonly/moonly-weekly-progress-update-61-automatio-faq2-ibl)
+- [Dev.to/JS] [Exploring Component Lifecycle Methods in React](https://dev.to/the2minengineer/exploring-component-lifecycle-methods-in-react-13p9)
+- [Lifehacker] [All the Ways You Should Stormproof Your Home](https://lifehacker.com/all-the-ways-you-should-stormproof-your-home-1850752104)
+- [Dev.to/JS] [Celebrating Modular Mastery: Navigating JavaScript&#39;s Module Landscape](https://dev.to/cliff123tech/celebrating-modular-mastery-navigating-javascripts-module-landscap-55k3)
+- [Dev.to/JS] [Glucotrust Reviews - Blood Sugar Reviews, Benefits, Results, Complaints &amp; Warnings?](https://dev.to/glucotrustfacts/glucotrust-reviews-blood-sugar-reviews-benefits-results-complaints-warnings-42fl)
+- [Lifehacker] [Where to Place Fans in Your Home for Maximum Cooling](https://lifehacker.com/where-to-place-fans-in-your-home-for-maximum-cooling-1849338791)
+- [Dev.to/JS] [On to Back End!](https://dev.to/kiararj/on-to-back-end-5f48)
 - [Lifehacker] [The &#39;BeFake&#39; App Is the Opposite of BeReal](https://lifehacker.com/the-befake-app-is-the-opposite-of-bereal-1850751838)
 - [Dev.to/JS] [Building Backends with Node.js and MongoDB](https://dev.to/jinxcoy/building-backends-with-nodejs-and-mongodb-230g)
 - [Dev.to/JS] [Twitter Cards for onchain SVG NFTs](https://dev.to/sammybauch/twitter-cards-for-onchain-svg-nfts-582h)
@@ -39,11 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a React Dev Environment: Node.js &amp; Webpack Explained](https://dev.to/abhaysinghr1/building-a-react-dev-environment-nodejs-webpack-explained-5392)
 - [Dev.to/JS] [Diffie-Hellman &amp; its Simple Maths Explained in 5 Minutes 🙆🏻‍♂️](https://dev.to/jaypmedia/diffie-hellman-its-simple-maths-explained-in-5-minutes-3f2e)
 - [Lifehacker] [When to Buy the 14-Inch MacBook Pro Over the 15-Inch MacBook Air](https://lifehacker.com/when-to-buy-the-14-inch-macbook-pro-over-the-15-inch-ma-1850746532)
-- [Dev.to/JS] [Find the K-Beauty of a Number](https://dev.to/zeeshanali0704/find-the-k-beauty-of-a-number-3966)
-- [Dev.to/JS] [JavaScript: How to make the most out of Strings ?](https://dev.to/fullstackjo/javascript-how-to-make-the-most-out-of-strings--255i)
-- [Dev.to/JS] [Getting Started with Javascript: A Beginner&#39;s Guide.](https://dev.to/annonymousauthority/getting-started-with-javascript-a-beginners-guide-bpe)
-- [Dev.to/JS] [Properly understanding the &quot;this&quot; Keyword](https://dev.to/coco1234562/properly-understanding-the-this-keyword-28p8)
-- [Dev.to/JS] [Will engineers get replaced? Here&#39;s your answer.](https://dev.to/crackjks/will-engineers-get-replaced-heres-your-answer-4f71)
 - [Lifehacker] [How to Boost Your Child&#39;s Immune System This School Year](https://lifehacker.com/how-to-boost-your-childs-immune-system-this-school-year-1850749887)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is &#39;Zepotha&#39; a Real Movie?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-zepoth-1850750620)
 - [Lifehacker] [Avoid These Car Insurance Sites When You&#39;re Shopping for Quotes](https://lifehacker.com/avoid-these-car-insurance-sites-when-youre-shopping-for-1850749337)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest, Laziest Way to Build a Fire](https://lifehacker.com/the-easiest-laziest-way-to-build-a-fire-1850748804)
 - [Lifehacker] [You Can Finally Send High Quality Photos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)
 - [Lifehacker] [The Best Sangria Comes From a French Press](https://lifehacker.com/the-best-sangria-comes-from-a-french-press-1850748855)
-- [Lifehacker] [These Dehumidifiers Are Being Recalled for Fire Hazard](https://lifehacker.com/these-dehumidifiers-are-being-recalled-for-fire-hazard-1850748405)
-- [Lifehacker] [The Real History of Labor Day](https://lifehacker.com/the-real-history-of-labor-day-1847614981)
-- [Lifehacker] [Make This DIY Swamp Cooler](https://lifehacker.com/make-this-diy-swamp-cooler-1850747672)
-- [Lifehacker] [Use Plastic Flowerpots to Make DIY Cement Planters](https://lifehacker.com/use-plastic-flowerpots-to-make-diy-cement-planters-1850748101)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Dehumidifiers Are Being Recalled for Fire Hazard](https://lifehacker.com/these-dehumidifiers-are-being-recalled-for-fire-hazard-1850748405)<!-- TECH-POSTS:END -->
 
 ---
 
