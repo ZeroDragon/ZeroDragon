@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Single Page Application: Authentication and Authorization in AgularJS](https://dev.to/brainiacneit/single-page-application-authentication-and-authorization-in-agularjs-54i2)
+- [Dev.to/JS] [Building Resilient Web Applications: Strategies for Sustainable Development](https://dev.to/abhishekdelmundo/building-resilient-web-applications-strategies-for-sustainable-development-2gbh)
 - [Lifehacker] [The Best TRX Exercises You Can Do at the Gym](https://lifehacker.com/11-of-the-best-exercises-you-can-do-on-trx-straps-at-th-1848908010)
 - [Lifehacker] [The Best Cheap Smartwatches You Can Buy](https://lifehacker.com/5-smartwatches-you-can-buy-for-under-200-1849905601)
 - [Dev.to/JS] [Flatiron - Phase 1](https://dev.to/adgholson/flatiron-phase-1-25p8)
@@ -52,9 +54,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Real History of Labor Day](https://lifehacker.com/the-real-history-of-labor-day-1847614981)
 - [Lifehacker] [Make This DIY Swamp Cooler](https://lifehacker.com/make-this-diy-swamp-cooler-1850747672)
 - [Dev.to/JS] [Higher Order Functions](https://dev.to/saandre0217/higher-order-functions-5ak5)
-- [Dev.to/JS] [Understanding JavaScript Objects: A Concise Guide](https://dev.to/avwerosuoghene/understanding-javascript-objects-a-concise-guide-52fc)
 - [Lifehacker] [Use Plastic Flowerpots to Make DIY Cement Planters](https://lifehacker.com/use-plastic-flowerpots-to-make-diy-cement-planters-1850748101)
-- [Dev.to/JS] [Spread the object and omit keys](https://dev.to/muszynov/spread-the-object-and-omit-keys-3g11)
 - [Lifehacker] [The Best Podcasts to Represent Every US State &lpar;Plus DC&rpar;](https://lifehacker.com/best-podcast-for-every-us-state-1850741030)
 - [Lifehacker] [You Should Pack a Family &#39;Flagged&#39; Bag for the Airport](https://lifehacker.com/you-should-pack-a-family-flagged-bag-for-the-airport-1850747507)
 - [Lifehacker] [The Best Ways to Invest &lpar;or Spend&rpar; $10,000](https://lifehacker.com/the-best-ways-to-spend-or-invest-that-10-000-1849461953)
