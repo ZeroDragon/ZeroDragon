@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The &#39;BeFake&#39; App Is the Opposite of BeReal](https://lifehacker.com/the-befake-app-is-the-opposite-of-bereal-1850751838)
+- [Dev.to/JS] [Building Backends with Node.js and MongoDB](https://dev.to/jinxcoy/building-backends-with-nodejs-and-mongodb-230g)
+- [Dev.to/JS] [Twitter Cards for onchain SVG NFTs](https://dev.to/sammybauch/twitter-cards-for-onchain-svg-nfts-582h)
+- [Dev.to/JS] [Design Patterns: Module Design Pattern in JavaScript](https://dev.to/sirius93/design-patterns-module-design-pattern-in-javascript-3ee7)
+- [Dev.to/JS] [Top 7 Libraries for Blazingly Fast ReactJS Applications](https://dev.to/mohammadfaisal/top-7-libraries-for-blazingly-fast-reactjs-applications-38dj)
+- [Lifehacker] [iMessage Has a Hidden Bookmarking Feature](https://lifehacker.com/imessage-has-a-hidden-bookmarking-feature-1850751945)
+- [Lifehacker] [You Can Finally Check a Note&#39;s Version History in Google Keep](https://lifehacker.com/you-can-finally-check-a-notes-version-history-in-google-1850751873)
 - [Dev.to/JS] [A sweet spot between signals and observables 🍬](https://dev.to/this-is-angular/a-sweet-spot-between-signals-and-observables-4chb)
 - [Lifehacker] [This Smart Tripod Mount Is $55 Right Now](https://lifehacker.com/this-smart-tripod-mount-is-55-right-now-1850743546)
 - [Lifehacker] [Earn More Credit Card Points by &#39;Double Dipping&#39;](https://lifehacker.com/earn-more-credit-card-points-by-double-dipping-1850751559)
@@ -37,12 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting Started with Javascript: A Beginner&#39;s Guide.](https://dev.to/annonymousauthority/getting-started-with-javascript-a-beginners-guide-bpe)
 - [Dev.to/JS] [Properly understanding the &quot;this&quot; Keyword](https://dev.to/coco1234562/properly-understanding-the-this-keyword-28p8)
 - [Dev.to/JS] [Will engineers get replaced? Here&#39;s your answer.](https://dev.to/crackjks/will-engineers-get-replaced-heres-your-answer-4f71)
-- [Dev.to/JS] [IDK: Local Scope vs Global Scope](https://dev.to/amera/idk-local-scope-vs-global-scope-46bb)
-- [Dev.to/JS] [📦 React Props: A Visual Guide](https://dev.to/reedbarger/react-props-a-visual-guide-3gcc)
 - [Lifehacker] [How to Boost Your Child&#39;s Immune System This School Year](https://lifehacker.com/how-to-boost-your-childs-immune-system-this-school-year-1850749887)
-- [Dev.to/JS] [Day 29: Output](https://dev.to/dhrn/day-29-output-2g5m)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is &#39;Zepotha&#39; a Real Movie?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-zepoth-1850750620)
-- [Dev.to/JS] [Introducing Dev101: Your Gateway to JavaScript, React.js, and Node.js](https://dev.to/jacknorman235/introducing-dev101-your-gateway-to-javascript-reactjs-and-nodejs-492j)
 - [Lifehacker] [Avoid These Car Insurance Sites When You&#39;re Shopping for Quotes](https://lifehacker.com/avoid-these-car-insurance-sites-when-youre-shopping-for-1850749337)
 - [Lifehacker] [Build Your Strawberry Shortcake on Biscuits Instead](https://lifehacker.com/build-your-strawberry-shortcake-on-biscuits-instead-1850749279)
 - [Lifehacker] [Everyone Needs a ‘Pregnancy Pillow’](https://lifehacker.com/everyone-needs-a-pregnancy-pillow-1850748978)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Dehumidifiers Are Being Recalled for Fire Hazard](https://lifehacker.com/these-dehumidifiers-are-being-recalled-for-fire-hazard-1850748405)
 - [Lifehacker] [The Real History of Labor Day](https://lifehacker.com/the-real-history-of-labor-day-1847614981)
 - [Lifehacker] [Make This DIY Swamp Cooler](https://lifehacker.com/make-this-diy-swamp-cooler-1850747672)
-- [Lifehacker] [Use Plastic Flowerpots to Make DIY Cement Planters](https://lifehacker.com/use-plastic-flowerpots-to-make-diy-cement-planters-1850748101)
-- [Lifehacker] [The Best Podcasts to Represent Every US State &lpar;Plus DC&rpar;](https://lifehacker.com/best-podcast-for-every-us-state-1850741030)
-- [Lifehacker] [You Should Pack a Family &#39;Flagged&#39; Bag for the Airport](https://lifehacker.com/you-should-pack-a-family-flagged-bag-for-the-airport-1850747507)
-- [Lifehacker] [The Best Ways to Invest &lpar;or Spend&rpar; $10,000](https://lifehacker.com/the-best-ways-to-spend-or-invest-that-10-000-1849461953)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Use Plastic Flowerpots to Make DIY Cement Planters](https://lifehacker.com/use-plastic-flowerpots-to-make-diy-cement-planters-1850748101)<!-- TECH-POSTS:END -->
 
 ---
 
