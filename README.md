@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Array methods : slice ,splice , concat , push ,pop ,shift ,unshift](https://dev.to/syedmuhammadaliraza/javascript-array-methods-slice-splice-concat-push-pop-shift-unshift-13jj)
+- [Dev.to/JS] [Complex DataTypes in JS](https://dev.to/gfish94/complex-datatypes-in-js-1cem)
+- [Dev.to/JS] [Pogo Billing Helpline Number +1-909-766-6694](https://dev.to/pogohelpusa/pogo-billing-helpline-number-1-909-766-6694-3ea7)
 - [Dev.to/JS] [10+ Awesome Things About JavaScript](https://dev.to/developedbyjk/10-awesome-things-about-javascript-2ddl)
 - [Dev.to/JS] [Hướng dẫn cách bắt đề chẵn lẻ](https://dev.to/dudoansoic56798/huong-dan-cach-bat-de-chan-le-1hf)
 - [Dev.to/JS] [Unicode in JavaScript](https://dev.to/better678/unicode-in-javascript-3l3e)
@@ -38,12 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simulando a AWS no seu ambiente Local](https://dev.to/devinicius/simulando-a-aws-na-sua-maquina-local-43k3)
 - [Dev.to/JS] [3 Cool Developer Console Tricks you must know! &lpar;with code&rpar;](https://dev.to/jeetvora331/3-cool-developer-console-tricks-you-must-know-1ncc)
 - [Lifehacker] [How to Beat a Drug Test](https://lifehacker.com/how-to-beat-a-drug-test-1829993785)
-- [Dev.to/JS] [Adding a &quot;share to mastodon&quot; link to any web site](https://dev.to/codepo8/adding-a-share-to-mastodon-link-to-any-web-site-485m)
 - [Lifehacker] [How the ‘Proust Effect’ Can Help You Study](https://lifehacker.com/how-the-proust-effect-can-help-you-study-1850749025)
-- [Dev.to/JS] [Coding: Growth, Learning, &amp; Transformation](https://dev.to/fetterollie/coding-growth-learning-transformation-24mj)
 - [Lifehacker] [The Best Study Gadgets for Students](https://lifehacker.com/the-best-study-gadgets-for-students-1850748745)
 - [Lifehacker] [This Is the Only &#39;Fast&#39; Way to Ripen an Avocado](https://lifehacker.com/this-is-the-only-fast-way-to-ripen-an-avocado-1849574036)
-- [Dev.to/JS] [React Custom Hook: useFetch](https://dev.to/sergeyleschev/react-custom-hook-usefetch-3k0p)
 - [Lifehacker] [You Can Get a Lifetime of Curiosity Stream for $200](https://lifehacker.com/you-can-get-a-lifetime-of-curiosity-stream-for-200-1850743424)
 - [Lifehacker] [What People are Getting Wrong This Week: The Maui Wildfires](https://lifehacker.com/maui-wildfire-myths-debunked-1850749329)
 - [Lifehacker] [Snack Supper Rules; Girl Dinner Drools](https://lifehacker.com/it-is-the-age-of-the-snack-supper-1843157528)
