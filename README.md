@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10+ Awesome Things About JavaScript](https://dev.to/developedbyjk/10-awesome-things-about-javascript-2ddl)
 - [Dev.to/JS] [Hướng dẫn cách bắt đề chẵn lẻ](https://dev.to/dudoansoic56798/huong-dan-cach-bat-de-chan-le-1hf)
 - [Dev.to/JS] [Unicode in JavaScript](https://dev.to/better678/unicode-in-javascript-3l3e)
 - [Dev.to/JS] [Single Page Application: Authentication and Authorization in AgularJS](https://dev.to/brainiacneit/single-page-application-authentication-and-authorization-in-agularjs-54i2)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Lifetime of Curiosity Stream for $200](https://lifehacker.com/you-can-get-a-lifetime-of-curiosity-stream-for-200-1850743424)
 - [Lifehacker] [What People are Getting Wrong This Week: The Maui Wildfires](https://lifehacker.com/maui-wildfire-myths-debunked-1850749329)
 - [Lifehacker] [Snack Supper Rules; Girl Dinner Drools](https://lifehacker.com/it-is-the-age-of-the-snack-supper-1843157528)
-- [Dev.to/JS] [Refactoring Monoliths to Microservices with the BFF and Strangler Patterns](https://dev.to/slickstef11/refactoring-monoliths-to-microservices-with-the-bff-and-strangler-patterns-11jl)
 - [Lifehacker] [Your Concrete Project Needs Cement Paint](https://lifehacker.com/your-concrete-project-needs-cement-paint-1850748105)
 - [Lifehacker] [The Easiest, Laziest Way to Build a Fire](https://lifehacker.com/the-easiest-laziest-way-to-build-a-fire-1850748804)
 - [Lifehacker] [You Can Finally Send High Quality Photos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)
