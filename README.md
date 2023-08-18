@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hướng dẫn cách bắt đề chẵn lẻ](https://dev.to/dudoansoic56798/huong-dan-cach-bat-de-chan-le-1hf)
+- [Dev.to/JS] [Unicode in JavaScript](https://dev.to/better678/unicode-in-javascript-3l3e)
 - [Dev.to/JS] [Single Page Application: Authentication and Authorization in AgularJS](https://dev.to/brainiacneit/single-page-application-authentication-and-authorization-in-agularjs-54i2)
 - [Dev.to/JS] [Building Resilient Web Applications: Strategies for Sustainable Development](https://dev.to/abhishekdelmundo/building-resilient-web-applications-strategies-for-sustainable-development-2gbh)
+- [Dev.to/JS] [CSS Specificity](https://dev.to/monkdev/css-specificity-2l62)
 - [Lifehacker] [The Best TRX Exercises You Can Do at the Gym](https://lifehacker.com/11-of-the-best-exercises-you-can-do-on-trx-straps-at-th-1848908010)
 - [Lifehacker] [The Best Cheap Smartwatches You Can Buy](https://lifehacker.com/5-smartwatches-you-can-buy-for-under-200-1849905601)
 - [Dev.to/JS] [Flatiron - Phase 1](https://dev.to/adgholson/flatiron-phase-1-25p8)
@@ -46,14 +49,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Refactoring Monoliths to Microservices with the BFF and Strangler Patterns](https://dev.to/slickstef11/refactoring-monoliths-to-microservices-with-the-bff-and-strangler-patterns-11jl)
 - [Lifehacker] [Your Concrete Project Needs Cement Paint](https://lifehacker.com/your-concrete-project-needs-cement-paint-1850748105)
 - [Lifehacker] [The Easiest, Laziest Way to Build a Fire](https://lifehacker.com/the-easiest-laziest-way-to-build-a-fire-1850748804)
-- [Dev.to/JS] [RandomSparkles](https://dev.to/danielx17/randomsparkles-3ooc)
 - [Lifehacker] [You Can Finally Send High Quality Photos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877)
 - [Lifehacker] [The Best Sangria Comes From a French Press](https://lifehacker.com/the-best-sangria-comes-from-a-french-press-1850748855)
 - [Lifehacker] [These Dehumidifiers Are Being Recalled for Fire Hazard](https://lifehacker.com/these-dehumidifiers-are-being-recalled-for-fire-hazard-1850748405)
-- [Dev.to/JS] [Lets get this data!: Looking into JavaScript data types](https://dev.to/alexmbeasley/lets-get-this-data-looking-into-javascript-data-types-2b33)
 - [Lifehacker] [The Real History of Labor Day](https://lifehacker.com/the-real-history-of-labor-day-1847614981)
 - [Lifehacker] [Make This DIY Swamp Cooler](https://lifehacker.com/make-this-diy-swamp-cooler-1850747672)
-- [Dev.to/JS] [Higher Order Functions](https://dev.to/saandre0217/higher-order-functions-5ak5)
 - [Lifehacker] [Use Plastic Flowerpots to Make DIY Cement Planters](https://lifehacker.com/use-plastic-flowerpots-to-make-diy-cement-planters-1850748101)
 - [Lifehacker] [The Best Podcasts to Represent Every US State &lpar;Plus DC&rpar;](https://lifehacker.com/best-podcast-for-every-us-state-1850741030)
 - [Lifehacker] [You Should Pack a Family &#39;Flagged&#39; Bag for the Airport](https://lifehacker.com/you-should-pack-a-family-flagged-bag-for-the-airport-1850747507)
