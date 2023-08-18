@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Cheap Smartwatches You Can Buy](https://lifehacker.com/5-smartwatches-you-can-buy-for-under-200-1849905601)
 - [Dev.to/JS] [Flatiron - Phase 1](https://dev.to/adgholson/flatiron-phase-1-25p8)
 - [Dev.to/JS] [Simulando a AWS no seu ambiente Local](https://dev.to/devinicius/simulando-a-aws-na-sua-maquina-local-43k3)
 - [Dev.to/JS] [3 Cool Developer Console Tricks you must know! &lpar;with code&rpar;](https://dev.to/jeetvora331/3-cool-developer-console-tricks-you-must-know-1ncc)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Siri to Read Articles Out Loud Now](https://lifehacker.com/you-can-get-siri-to-read-articles-out-loud-now-1850746524)
 - [Lifehacker] [Delete Your Snapchat to Escape Its Rogue AI](https://lifehacker.com/how-to-delete-snapchat-android-iphone-1850745271)
 - [Lifehacker] [There Are Seven Love Languages Now](https://lifehacker.com/there-are-seven-love-languages-now-and-one-might-be-yo-1848548099)
-- [Lifehacker] [These Are the Best Tech Deals From the Woot! ‘Warehouse Cleanout’ Sale](https://lifehacker.com/these-are-the-best-tech-deals-from-the-woot-warehouse-1850745166)
-- [Lifehacker] [Here’s What Happens When You Use AI for Professional Headshots](https://lifehacker.com/here-s-what-happens-when-you-use-ai-for-professional-he-1850744740)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Are the Best Tech Deals From the Woot! ‘Warehouse Cleanout’ Sale](https://lifehacker.com/these-are-the-best-tech-deals-from-the-woot-warehouse-1850745166)<!-- TECH-POSTS:END -->
 
 ---
 
