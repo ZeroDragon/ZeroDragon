@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Write an API to place order in express and mongodb.](https://dev.to/satishjaiswal/write-an-api-to-place-order-in-express-and-mongodb-5d4m)
+- [Dev.to/JS] [Harnessing the Power of React with IntersectionObserver!](https://dev.to/yanagisawahidetoshi/harnessing-the-power-of-react-with-intersectionobserver-jk7)
+- [Dev.to/JS] [Demystifying JavaScript&#39;s New `.at&lpar;&rpar;` Array Method!](https://dev.to/yanagisawahidetoshi/demystifying-javascripts-new-at-array-method-4ljg)
 - [Dev.to/JS] [Offline-First Development in React Native: Creating Robust Apps📱🔌🛠️](https://dev.to/medaimane/offline-first-development-in-react-native-creating-robust-apps-1jb)
 - [Dev.to/JS] [Proper Method for Storing User Data on the Client Side in React for Authentication](https://dev.to/muflihkp/proper-method-for-storing-user-data-on-the-client-side-in-react-for-authentication-2igi)
 - [Dev.to/JS] [Unveiling Lesser-Known Tricks for Developers](https://dev.to/harshahegde/unveiling-lesser-known-tricks-for-developers-38p5)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10+ Awesome Things About JavaScript](https://dev.to/developedbyjk/10-awesome-things-about-javascript-2ddl)
 - [Dev.to/JS] [Hướng dẫn cách bắt đề chẵn lẻ](https://dev.to/dudoansoic56798/huong-dan-cach-bat-de-chan-le-1hf)
 - [Dev.to/JS] [Unicode in JavaScript](https://dev.to/better678/unicode-in-javascript-3l3e)
-- [Dev.to/JS] [Single Page Application: Authentication and Authorization in AgularJS](https://dev.to/brainiacneit/single-page-application-authentication-and-authorization-in-agularjs-54i2)
-- [Dev.to/JS] [Building Resilient Web Applications: Strategies for Sustainable Development](https://dev.to/abhishekdelmundo/building-resilient-web-applications-strategies-for-sustainable-development-2gbh)
-- [Dev.to/JS] [CSS Specificity](https://dev.to/monkdev/css-specificity-2l62)
 - [Lifehacker] [The Best TRX Exercises You Can Do at the Gym](https://lifehacker.com/11-of-the-best-exercises-you-can-do-on-trx-straps-at-th-1848908010)
 - [Lifehacker] [The Best Cheap Smartwatches You Can Buy](https://lifehacker.com/5-smartwatches-you-can-buy-for-under-200-1849905601)
 - [Lifehacker] [How to Beat a Drug Test](https://lifehacker.com/how-to-beat-a-drug-test-1829993785)
