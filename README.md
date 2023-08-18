@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Custom Hook: useGeolocation](https://dev.to/sergeyleschev/react-custom-hook-usegeolocation-1oh)
+- [Lifehacker] [Use &#39;Kaizen&#39; for a Better Workflow](https://lifehacker.com/use-kaizen-for-a-better-workflow-1850752103)
+- [Lifehacker] [This All-Inclusive Dominican Republic Resort Is $80 a Night Right Now](https://lifehacker.com/this-all-inclusive-dominican-republic-resort-is-80-a-n-1850752905)
+- [Lifehacker] [The Safest Places to Be During a Hurricane](https://lifehacker.com/how-to-stay-safe-during-a-hurricane-1798391969)
 - [Lifehacker] [Netflix Wants to Send You 10 DVDs](https://lifehacker.com/netflix-wants-to-send-you-10-dvds-1850752439)
 - [Lifehacker] [Make Better Potato Salad With Salty Meat](https://lifehacker.com/make-better-potato-salad-with-salty-meat-1850752466)
 - [Lifehacker] [The Best Way to Safely Put Out a Grease Fire](https://lifehacker.com/whats-the-best-way-to-safely-put-out-a-grease-fire-1002810379)
@@ -47,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A document Q&amp;A chatbot built with Next.js + supabase + GPT](https://dev.to/neeldev96/i-finally-built-a-doc-qa-chatbot-1klk)
 - [Dev.to/JS] [Building Backends with Node.js and MongoDB](https://dev.to/jinxcoy/building-backends-with-nodejs-and-mongodb-230g)
 - [Dev.to/JS] [Twitter Cards for onchain SVG NFTs](https://dev.to/sammybauch/twitter-cards-for-onchain-svg-nfts-582h)
-- [Dev.to/JS] [Design Patterns: Module Design Pattern in JavaScript](https://dev.to/sirius93/design-patterns-module-design-pattern-in-javascript-3ee7)
 - [Lifehacker] [iMessage Has a Hidden Bookmarking Feature](https://lifehacker.com/imessage-has-a-hidden-bookmarking-feature-1850751945)
 - [Lifehacker] [You Can Finally Check a Note&#39;s Version History in Google Keep](https://lifehacker.com/you-can-finally-check-a-notes-version-history-in-google-1850751873)
 - [Lifehacker] [This Smart Tripod Mount Is $55 Right Now](https://lifehacker.com/this-smart-tripod-mount-is-55-right-now-1850743546)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Cheap Smartwatches You Can Buy](https://lifehacker.com/5-smartwatches-you-can-buy-for-under-200-1849905601)
 - [Lifehacker] [How to Beat a Drug Test](https://lifehacker.com/how-to-beat-a-drug-test-1829993785)
 - [Lifehacker] [How the ‘Proust Effect’ Can Help You Study](https://lifehacker.com/how-the-proust-effect-can-help-you-study-1850749025)
-- [Lifehacker] [The Best Study Gadgets for Students](https://lifehacker.com/the-best-study-gadgets-for-students-1850748745)
-- [Lifehacker] [This Is the Only &#39;Fast&#39; Way to Ripen an Avocado](https://lifehacker.com/this-is-the-only-fast-way-to-ripen-an-avocado-1849574036)
-- [Lifehacker] [You Can Get a Lifetime of Curiosity Stream for $200](https://lifehacker.com/you-can-get-a-lifetime-of-curiosity-stream-for-200-1850743424)
-- [Lifehacker] [What People are Getting Wrong This Week: The Maui Wildfires](https://lifehacker.com/maui-wildfire-myths-debunked-1850749329)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Study Gadgets for Students](https://lifehacker.com/the-best-study-gadgets-for-students-1850748745)<!-- TECH-POSTS:END -->
 
 ---
 
