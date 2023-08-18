@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Everyone Needs a ‘Pregnancy Pillow’](https://lifehacker.com/everyone-needs-a-pregnancy-pillow-1850748978)
+- [Dev.to/JS] [Nullish Operator](https://dev.to/beterraba/nullish-operator-1if8)
+- [Dev.to/JS] [Mastering Email Address Validation in JavaScript](https://dev.to/iamcymentho/mastering-email-address-validation-in-javascript-4f0j)
+- [Dev.to/JS] [Hello World! Welcome to my new site!](https://dev.to/szymonpulut/hello-world-welcome-to-my-new-site-39if)
 - [Dev.to/JS] [NextAuth.js: create a custom OAuth provider](https://dev.to/blackarm/nextauthjs-create-a-custom-oauth-provider-1aj3)
 - [Dev.to/JS] [From Localhost to the Cloud: Deploying my First Node.js App with Docker](https://dev.to/ikemhood/from-localhost-to-the-cloud-deploying-my-first-nodejs-app-with-docker-1nn3)
 - [Dev.to/JS] [Mistakes to Avoid as a New Programmer: Common Pitfalls That Can Hinder Your Learning Progress](https://dev.to/scofieldidehen/mistakes-to-avoid-as-a-new-programmer-common-pitfalls-that-can-hinder-your-learning-progress-370o)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Mail Authentication](https://dev.to/lexycon002/react-mail-authentication-1n1e)
 - [Dev.to/JS] [How to Enable and Disable Cache in Magento 2?](https://dev.to/k3shariq/how-to-enable-and-disable-cache-in-magento-2-44d3)
 - [Dev.to/JS] [Making the case for Laravel as a Next.js alternative](https://dev.to/aschmelyun/making-the-case-for-laravel-as-a-nextjs-alternative-3o5p)
-- [Dev.to/JS] [Write an API to place order in express and mongodb.](https://dev.to/satishjaiswal/write-an-api-to-place-order-in-express-and-mongodb-5d4m)
-- [Dev.to/JS] [Harnessing the Power of React with IntersectionObserver!](https://dev.to/yanagisawahidetoshi/harnessing-the-power-of-react-with-intersectionobserver-jk7)
-- [Dev.to/JS] [Demystifying JavaScript&#39;s New `.at&lpar;&rpar;` Array Method!](https://dev.to/yanagisawahidetoshi/demystifying-javascripts-new-at-array-method-4ljg)
 - [Lifehacker] [The Best TRX Exercises You Can Do at the Gym](https://lifehacker.com/11-of-the-best-exercises-you-can-do-on-trx-straps-at-th-1848908010)
 - [Lifehacker] [The Best Cheap Smartwatches You Can Buy](https://lifehacker.com/5-smartwatches-you-can-buy-for-under-200-1849905601)
 - [Lifehacker] [How to Beat a Drug Test](https://lifehacker.com/how-to-beat-a-drug-test-1829993785)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Reddit Usable on iPhone Again With This App](https://lifehacker.com/make-reddit-usable-on-iphone-again-with-this-app-1850746558)
 - [Lifehacker] [This Refurbished MacBook Air Is $250 Right Now](https://lifehacker.com/this-refurbished-macbook-air-is-250-right-now-1850743344)
 - [Lifehacker] [You Can Get Siri to Read Articles Out Loud Now](https://lifehacker.com/you-can-get-siri-to-read-articles-out-loud-now-1850746524)
-- [Lifehacker] [Delete Your Snapchat to Escape Its Rogue AI](https://lifehacker.com/how-to-delete-snapchat-android-iphone-1850745271)
-- [Lifehacker] [There Are Seven Love Languages Now](https://lifehacker.com/there-are-seven-love-languages-now-and-one-might-be-yo-1848548099)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Delete Your Snapchat to Escape Its Rogue AI](https://lifehacker.com/how-to-delete-snapchat-android-iphone-1850745271)<!-- TECH-POSTS:END -->
 
 ---
 
