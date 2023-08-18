@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Offline-First Development in React Native: Creating Robust Apps📱🔌🛠️](https://dev.to/medaimane/offline-first-development-in-react-native-creating-robust-apps-1jb)
 - [Dev.to/JS] [Proper Method for Storing User Data on the Client Side in React for Authentication](https://dev.to/muflihkp/proper-method-for-storing-user-data-on-the-client-side-in-react-for-authentication-2igi)
 - [Dev.to/JS] [Unveiling Lesser-Known Tricks for Developers](https://dev.to/harshahegde/unveiling-lesser-known-tricks-for-developers-38p5)
 - [Dev.to/JS] [Javascript Array methods : slice ,splice , concat , push ,pop ,shift ,unshift](https://dev.to/syedmuhammadaliraza/javascript-array-methods-slice-splice-concat-push-pop-shift-unshift-13jj)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CSS Specificity](https://dev.to/monkdev/css-specificity-2l62)
 - [Lifehacker] [The Best TRX Exercises You Can Do at the Gym](https://lifehacker.com/11-of-the-best-exercises-you-can-do-on-trx-straps-at-th-1848908010)
 - [Lifehacker] [The Best Cheap Smartwatches You Can Buy](https://lifehacker.com/5-smartwatches-you-can-buy-for-under-200-1849905601)
-- [Dev.to/JS] [Flatiron - Phase 1](https://dev.to/adgholson/flatiron-phase-1-25p8)
 - [Lifehacker] [How to Beat a Drug Test](https://lifehacker.com/how-to-beat-a-drug-test-1829993785)
 - [Lifehacker] [How the ‘Proust Effect’ Can Help You Study](https://lifehacker.com/how-the-proust-effect-can-help-you-study-1850749025)
 - [Lifehacker] [The Best Study Gadgets for Students](https://lifehacker.com/the-best-study-gadgets-for-students-1850748745)
