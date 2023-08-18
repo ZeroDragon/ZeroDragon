@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Netflix Wants to Send You 10 DVDs](https://lifehacker.com/netflix-wants-to-send-you-10-dvds-1850752439)
+- [Lifehacker] [Make Better Potato Salad With Salty Meat](https://lifehacker.com/make-better-potato-salad-with-salty-meat-1850752466)
+- [Lifehacker] [The Best Way to Safely Put Out a Grease Fire](https://lifehacker.com/whats-the-best-way-to-safely-put-out-a-grease-fire-1002810379)
 - [Dev.to/JS] [Javscript Object Methods](https://dev.to/syedmuhammadaliraza/javscript-object-methods-27n4)
 - [Lifehacker] [This AquaSonic Toothbrush Is $25 Right Now](https://lifehacker.com/this-aquasonic-toothbrush-is-25-right-now-1850743710)
 - [Lifehacker] [How to Write an Online Listing so Your Stuff Actually Sells](https://lifehacker.com/how-to-write-an-online-listing-so-your-stuff-actually-s-1850751636)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Study Gadgets for Students](https://lifehacker.com/the-best-study-gadgets-for-students-1850748745)
 - [Lifehacker] [This Is the Only &#39;Fast&#39; Way to Ripen an Avocado](https://lifehacker.com/this-is-the-only-fast-way-to-ripen-an-avocado-1849574036)
 - [Lifehacker] [You Can Get a Lifetime of Curiosity Stream for $200](https://lifehacker.com/you-can-get-a-lifetime-of-curiosity-stream-for-200-1850743424)
-- [Lifehacker] [What People are Getting Wrong This Week: The Maui Wildfires](https://lifehacker.com/maui-wildfire-myths-debunked-1850749329)
-- [Lifehacker] [Snack Supper Rules; Girl Dinner Drools](https://lifehacker.com/it-is-the-age-of-the-snack-supper-1843157528)
-- [Lifehacker] [Your Concrete Project Needs Cement Paint](https://lifehacker.com/your-concrete-project-needs-cement-paint-1850748105)
-- [Lifehacker] [The Easiest, Laziest Way to Build a Fire](https://lifehacker.com/the-easiest-laziest-way-to-build-a-fire-1850748804)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What People are Getting Wrong This Week: The Maui Wildfires](https://lifehacker.com/maui-wildfire-myths-debunked-1850749329)<!-- TECH-POSTS:END -->
 
 ---
 
