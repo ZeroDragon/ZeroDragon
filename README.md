@@ -26,7 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Earn More Credit Card Points by &#39;Double Dipping&#39;](https://lifehacker.com/earn-more-credit-card-points-by-double-dipping-1850751559)
+- [Dev.to/JS] [Building a React Dev Environment: Node.js &amp; Webpack Explained](https://dev.to/abhaysinghr1/building-a-react-dev-environment-nodejs-webpack-explained-5392)
+- [Dev.to/JS] [Diffie-Hellman &amp; its Simple Maths Explained in 5 Minutes 🙆🏻‍♂️](https://dev.to/jaypmedia/diffie-hellman-its-simple-maths-explained-in-5-minutes-3f2e)
+- [Lifehacker] [When to Buy the 14-Inch MacBook Pro Over the 15-Inch MacBook Air](https://lifehacker.com/when-to-buy-the-14-inch-macbook-pro-over-the-15-inch-ma-1850746532)
+- [Dev.to/JS] [Find the K-Beauty of a Number](https://dev.to/zeeshanali0704/find-the-k-beauty-of-a-number-3966)
+- [Dev.to/JS] [JavaScript: How to make the most out of Strings ?](https://dev.to/fullstackjo/javascript-how-to-make-the-most-out-of-strings--255i)
+- [Dev.to/JS] [Getting Started with Javascript: A Beginner&#39;s Guide.](https://dev.to/annonymousauthority/getting-started-with-javascript-a-beginners-guide-bpe)
+- [Dev.to/JS] [Properly understanding the &quot;this&quot; Keyword](https://dev.to/coco1234562/properly-understanding-the-this-keyword-28p8)
+- [Dev.to/JS] [Will engineers get replaced? Here&#39;s your answer.](https://dev.to/crackjks/will-engineers-get-replaced-heres-your-answer-4f71)
+- [Dev.to/JS] [IDK: Local Scope vs Global Scope](https://dev.to/amera/idk-local-scope-vs-global-scope-46bb)
 - [Dev.to/JS] [📦 React Props: A Visual Guide](https://dev.to/reedbarger/react-props-a-visual-guide-3gcc)
+- [Lifehacker] [How to Boost Your Child&#39;s Immune System This School Year](https://lifehacker.com/how-to-boost-your-childs-immune-system-this-school-year-1850749887)
 - [Dev.to/JS] [Day 29: Output](https://dev.to/dhrn/day-29-output-2g5m)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is &#39;Zepotha&#39; a Real Movie?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-zepoth-1850750620)
 - [Dev.to/JS] [Introducing Dev101: Your Gateway to JavaScript, React.js, and Node.js](https://dev.to/jacknorman235/introducing-dev101-your-gateway-to-javascript-reactjs-and-nodejs-492j)
@@ -34,14 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Some undocumented about Server Component](https://dev.to/composite/a-some-undocumented-about-server-component-408d)
 - [Lifehacker] [Build Your Strawberry Shortcake on Biscuits Instead](https://lifehacker.com/build-your-strawberry-shortcake-on-biscuits-instead-1850749279)
 - [Lifehacker] [Everyone Needs a ‘Pregnancy Pillow’](https://lifehacker.com/everyone-needs-a-pregnancy-pillow-1850748978)
-- [Dev.to/JS] [Nullish Operator](https://dev.to/beterraba/nullish-operator-1if8)
-- [Dev.to/JS] [Mastering Email Address Validation in JavaScript](https://dev.to/iamcymentho/mastering-email-address-validation-in-javascript-4f0j)
-- [Dev.to/JS] [Hello World! Welcome to my new site!](https://dev.to/szymonpulut/hello-world-welcome-to-my-new-site-39if)
-- [Dev.to/JS] [NextAuth.js: create a custom OAuth provider](https://dev.to/blackarm/nextauthjs-create-a-custom-oauth-provider-1aj3)
-- [Dev.to/JS] [From Localhost to the Cloud: Deploying my First Node.js App with Docker](https://dev.to/ikemhood/from-localhost-to-the-cloud-deploying-my-first-nodejs-app-with-docker-1nn3)
-- [Dev.to/JS] [Mistakes to Avoid as a New Programmer: Common Pitfalls That Can Hinder Your Learning Progress](https://dev.to/scofieldidehen/mistakes-to-avoid-as-a-new-programmer-common-pitfalls-that-can-hinder-your-learning-progress-370o)
-- [Dev.to/JS] [Applying Artificial Intelligence In Mobile Application Development](https://dev.to/sparkouttech/applying-artificial-intelligence-in-mobile-application-development-1jkj)
-- [Dev.to/JS] [The sword refers to immer, the faster and stronger immutable data js tool limu stable version released!](https://dev.to/fantasticsoul/the-sword-refers-to-immer-the-faster-and-stronger-immutable-data-js-tool-limu-stable-version-released-1bo1)
 - [Lifehacker] [The Best TRX Exercises You Can Do at the Gym](https://lifehacker.com/11-of-the-best-exercises-you-can-do-on-trx-straps-at-th-1848908010)
 - [Lifehacker] [The Best Cheap Smartwatches You Can Buy](https://lifehacker.com/5-smartwatches-you-can-buy-for-under-200-1849905601)
 - [Lifehacker] [How to Beat a Drug Test](https://lifehacker.com/how-to-beat-a-drug-test-1829993785)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Podcasts to Represent Every US State &lpar;Plus DC&rpar;](https://lifehacker.com/best-podcast-for-every-us-state-1850741030)
 - [Lifehacker] [You Should Pack a Family &#39;Flagged&#39; Bag for the Airport](https://lifehacker.com/you-should-pack-a-family-flagged-bag-for-the-airport-1850747507)
 - [Lifehacker] [The Best Ways to Invest &lpar;or Spend&rpar; $10,000](https://lifehacker.com/the-best-ways-to-spend-or-invest-that-10-000-1849461953)
-- [Lifehacker] [Buy Your Xbox 360 Games Now, Before the Store Shuts Down](https://lifehacker.com/buy-your-xbox-360-games-now-before-the-store-shuts-dow-1850747248)
-- [Lifehacker] [This Is the Secret to the Best Air Fryer Steak Bites](https://lifehacker.com/this-is-the-secret-to-the-best-air-fryer-steak-bites-1850747577)
-- [Lifehacker] [Get a Year’s Subscription to NeuroNation for 52% Off](https://lifehacker.com/get-a-year-s-subscription-to-neuronation-for-52-off-1850737598)
-- [Lifehacker] [Make Reddit Usable on iPhone Again With This App](https://lifehacker.com/make-reddit-usable-on-iphone-again-with-this-app-1850746558)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Buy Your Xbox 360 Games Now, Before the Store Shuts Down](https://lifehacker.com/buy-your-xbox-360-games-now-before-the-store-shuts-dow-1850747248)<!-- TECH-POSTS:END -->
 
 ---
 
