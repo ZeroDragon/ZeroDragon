@@ -26,7 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [I&#39;m learning Java s̶c̶r̶i̶p̶t̶?](https://dev.to/manishmehra/im-learning-java-script-23d8)
+- [Dev.to/JS] [Latest Newsletter: Make Things, Take Notes, Profit &lpar;Issue #128&rpar;](https://dev.to/mjgs/latest-newsletter-make-things-take-notes-profit-issue-128-3lfa)
+- [Dev.to/JS] [I&#39;m Learning Java s̶c̶r̶i̶p̶t̶](https://dev.to/manishmehra/learning-java-4d7e)
 - [Dev.to/JS] [Simplified Job Application Automation With Javascript](https://dev.to/harshmangalam/simplified-job-application-automation-with-javascript-52h1)
 - [Dev.to/JS] [Why choose ReactJS for web development](https://dev.to/jon_snow789/why-choose-reactjs-for-web-development-9mb)
 - [Dev.to/JS] [Running nodejs application using micro service architecture.](https://dev.to/ershubhamgupta1/running-nodejs-application-using-micro-service-architecture-lck)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Maximum Points You Can Obtain from Cards](https://dev.to/zeeshanali0704/maximum-points-you-can-obtain-from-cards-331f)
 - [Dev.to/JS] [Demystifying Ember Serialization: A Comprehensive Guide](https://dev.to/prasannavijayan/demystifying-ember-serialization-a-comprehensive-guide-11ko)
 - [Dev.to/JS] [React.js vs Angular: A Focus on Cleaner Code](https://dev.to/zeeshanhshaheen/reactjs-vs-angular-a-focus-on-cleaner-code-54hl)
-- [Dev.to/JS] [xtensio - a new framework for browser extension development](https://dev.to/dochan/xtensio-a-new-framework-for-browser-extension-development-1nb2)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 19](https://lifehacker.com/wordle-answer-today-august-19-2023-1850751486)
 - [Lifehacker] [Why Storm Surges Are Worse Than Normal Flooding](https://lifehacker.com/why-storm-surges-are-such-a-big-deal-1829033220)
 - [Lifehacker] [Use &#39;Kaizen&#39; for a Better Workflow](https://lifehacker.com/use-kaizen-for-a-better-workflow-1850752103)
