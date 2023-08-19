@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [InnerText, TextContent and InnerHTML.](https://dev.to/axb052a/innertext-textcontent-and-innerhtml-43bh)
+- [Dev.to/JS] [Maximum Points You Can Obtain from Cards](https://dev.to/zeeshanali0704/maximum-points-you-can-obtain-from-cards-331f)
+- [Dev.to/JS] [Demystifying Ember Serialization: A Comprehensive Guide](https://dev.to/prasannavijayan/demystifying-ember-serialization-a-comprehensive-guide-11ko)
 - [Dev.to/JS] [React.js vs Angular: A Focus on Cleaner Code](https://dev.to/zeeshanhshaheen/reactjs-vs-angular-a-focus-on-cleaner-code-54hl)
 - [Dev.to/JS] [xtensio - a new framework for browser extension development](https://dev.to/dochan/xtensio-a-new-framework-for-browser-extension-development-1nb2)
 - [Dev.to/JS] [Optional Semicolons in JavaScript](https://dev.to/better678/optional-semicolons-in-javascript-4bp6)
@@ -43,12 +46,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Netflix Wants to Send You 10 DVDs](https://lifehacker.com/netflix-wants-to-send-you-10-dvds-1850752439)
 - [Lifehacker] [Make Better Potato Salad With Salty Meat](https://lifehacker.com/make-better-potato-salad-with-salty-meat-1850752466)
 - [Lifehacker] [The Best Way to Safely Put Out a Grease Fire](https://lifehacker.com/whats-the-best-way-to-safely-put-out-a-grease-fire-1002810379)
-- [Dev.to/JS] [Javscript Object Methods](https://dev.to/syedmuhammadaliraza/javscript-object-methods-27n4)
 - [Lifehacker] [This AquaSonic Toothbrush Is $25 Right Now](https://lifehacker.com/this-aquasonic-toothbrush-is-25-right-now-1850743710)
 - [Lifehacker] [How to Write an Online Listing so Your Stuff Actually Sells](https://lifehacker.com/how-to-write-an-online-listing-so-your-stuff-actually-s-1850751636)
 - [Lifehacker] [Make Fromage Fort, the Cheese Spread Made With Scraps](https://lifehacker.com/fromage-fort-is-an-amazing-spread-made-from-cheese-plat-1821052207)
-- [Dev.to/JS] [Creating a Simple Book API with Express.js](https://dev.to/shawn2208/creating-a-simple-book-api-with-expressjs-29o3)
-- [Dev.to/JS] [Demystifying CORS: Understanding How Cross-Origin Resource Sharing Works](https://dev.to/martinwachira/demystifying-cors-understanding-how-cross-origin-resource-sharing-works-93k)
 - [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
 - [Lifehacker] [All the Ways You Should Stormproof Your Home](https://lifehacker.com/all-the-ways-you-should-stormproof-your-home-1850752104)
 - [Lifehacker] [Where to Place Fans in Your Home for Maximum Cooling](https://lifehacker.com/where-to-place-fans-in-your-home-for-maximum-cooling-1849338791)
