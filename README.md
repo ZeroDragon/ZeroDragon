@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript in Detail](https://dev.to/scorcism/javascript-in-detail-51a4)
 - [Dev.to/JS] [InnerText, TextContent and InnerHTML.](https://dev.to/axb052a/innertext-textcontent-and-innerhtml-43bh)
 - [Dev.to/JS] [Maximum Points You Can Obtain from Cards](https://dev.to/zeeshanali0704/maximum-points-you-can-obtain-from-cards-331f)
 - [Dev.to/JS] [Demystifying Ember Serialization: A Comprehensive Guide](https://dev.to/prasannavijayan/demystifying-ember-serialization-a-comprehensive-guide-11ko)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimization and Deployment of Vue App on Firebase](https://dev.to/iamkelv/optimization-and-deployment-of-vue-app-on-firebase-4hed)
 - [Lifehacker] [Why Storm Surges Are Worse Than Normal Flooding](https://lifehacker.com/why-storm-surges-are-such-a-big-deal-1829033220)
 - [Dev.to/JS] [Can I access the JavaScript native Math library source code?](https://dev.to/devcodef1/can-i-access-the-javascript-native-math-library-source-code-272m)
-- [Dev.to/JS] [React Custom Hook: useGeolocation](https://dev.to/sergeyleschev/react-custom-hook-usegeolocation-1oh)
 - [Lifehacker] [Use &#39;Kaizen&#39; for a Better Workflow](https://lifehacker.com/use-kaizen-for-a-better-workflow-1850752103)
 - [Lifehacker] [This All-Inclusive Dominican Republic Resort Is $80 a Night Right Now](https://lifehacker.com/this-all-inclusive-dominican-republic-resort-is-80-a-n-1850752905)
 - [Lifehacker] [The Safest Places to Be During a Hurricane](https://lifehacker.com/how-to-stay-safe-during-a-hurricane-1798391969)
