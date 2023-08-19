@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React.js vs Angular: A Focus on Cleaner Code](https://dev.to/zeeshanhshaheen/reactjs-vs-angular-a-focus-on-cleaner-code-54hl)
+- [Dev.to/JS] [xtensio - a new framework for browser extension development](https://dev.to/dochan/xtensio-a-new-framework-for-browser-extension-development-1nb2)
+- [Dev.to/JS] [Optional Semicolons in JavaScript](https://dev.to/better678/optional-semicolons-in-javascript-4bp6)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 19](https://lifehacker.com/wordle-answer-today-august-19-2023-1850751486)
 - [Dev.to/JS] [JS OR php](https://dev.to/thurahex/js-or-php-28fh)
 - [Dev.to/JS] [Juggling JavaScript: A Dive Into Variables.](https://dev.to/tshegoletlape/juggling-javascript-a-dive-into-variables-4db2)
@@ -47,10 +50,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Simple Book API with Express.js](https://dev.to/shawn2208/creating-a-simple-book-api-with-expressjs-29o3)
 - [Dev.to/JS] [Demystifying CORS: Understanding How Cross-Origin Resource Sharing Works](https://dev.to/martinwachira/demystifying-cors-understanding-how-cross-origin-resource-sharing-works-93k)
 - [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
-- [Dev.to/JS] [Moonly weekly progress update #61 - Automatio FAQ/2](https://dev.to/moonly/moonly-weekly-progress-update-61-automatio-faq2-ibl)
-- [Dev.to/JS] [Exploring Component Lifecycle Methods in React](https://dev.to/the2minengineer/exploring-component-lifecycle-methods-in-react-13p9)
 - [Lifehacker] [All the Ways You Should Stormproof Your Home](https://lifehacker.com/all-the-ways-you-should-stormproof-your-home-1850752104)
-- [Dev.to/JS] [Celebrating Modular Mastery: Navigating JavaScript&#39;s Module Landscape](https://dev.to/cliff123tech/celebrating-modular-mastery-navigating-javascripts-module-landscap-55k3)
 - [Lifehacker] [Where to Place Fans in Your Home for Maximum Cooling](https://lifehacker.com/where-to-place-fans-in-your-home-for-maximum-cooling-1849338791)
 - [Lifehacker] [The &#39;BeFake&#39; App Is the Opposite of BeReal](https://lifehacker.com/the-befake-app-is-the-opposite-of-bereal-1850751838)
 - [Lifehacker] [iMessage Has a Hidden Bookmarking Feature](https://lifehacker.com/imessage-has-a-hidden-bookmarking-feature-1850751945)
