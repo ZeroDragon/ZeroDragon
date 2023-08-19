@@ -26,13 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&lt; Sending Jwt&#39;s using cookies in NodeJs Explained /&gt;](https://dev.to/stano7_/-sending-jwts-using-cookies-in-nodejs-explained--aml)
 - [Dev.to/JS] [Javascript DOM methods](https://dev.to/syedmuhammadaliraza/javascript-dom-methods-22mc)
 - [Dev.to/JS] [Understanding NestJS Modules](https://dev.to/tasfiaislam/understanding-nestjs-modules-4p14)
 - [Dev.to/JS] [Appwrite Functions: Learn to deploy serverless functions within minutes](https://dev.to/navdeepm20/appwrite-functions-learn-to-deploy-serverless-functions-within-minutes-5918)
 - [Dev.to/JS] [Cloning a Specific Commit from a GitHub Repository](https://dev.to/sh20raj/cloning-a-specific-commit-from-a-github-repository-46ep)
 - [Dev.to/JS] [My Portfolio](https://dev.to/manoj977/my-portfolio-21l9)
 - [Dev.to/JS] [JavaScript Abuse — Article 3. Slice VS. Splice: Another Battle Royale](https://dev.to/jsqueen/javascript-abuse-article-3-slice-vs-splice-another-battle-royale-36lf)
-- [Dev.to/JS] [Test api Dev.to](https://dev.to/alamguardin/test-api-devto-29lc)
 - [Dev.to/JS] [HTML Logo &amp; Animation](https://dev.to/surajsingh/sworks-logo-1gnh)
 - [Dev.to/JS] [charts load faster on chainparser now.](https://dev.to/mawut0r/charts-load-faster-on-chainparser-now-3b7k)
 - [Lifehacker] [Hertz Is Giving Some Rental Cars a Free Extra Day](https://lifehacker.com/hertz-is-giving-some-rental-cars-a-free-extra-day-1850750263)
