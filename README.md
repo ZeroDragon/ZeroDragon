@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Custom Hook: useHover](https://dev.to/sergeyleschev/react-custom-hook-usehover-27lg)
 - [Dev.to/JS] [&lt; Sending Jwt&#39;s using cookies in NodeJs Explained /&gt;](https://dev.to/stano7_/-sending-jwts-using-cookies-in-nodejs-explained--aml)
 - [Dev.to/JS] [Javascript DOM methods](https://dev.to/syedmuhammadaliraza/javascript-dom-methods-22mc)
 - [Dev.to/JS] [Understanding NestJS Modules](https://dev.to/tasfiaislam/understanding-nestjs-modules-4p14)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Hertz Is Giving Some Rental Cars a Free Extra Day](https://lifehacker.com/hertz-is-giving-some-rental-cars-a-free-extra-day-1850750263)
 - [Dev.to/JS] [React - Portals](https://dev.to/brdnicolas/react-portals-3k2d)
 - [Dev.to/JS] [Angular content projection - how to project views](https://dev.to/tomwebwalker/angular-content-projection-how-to-project-views-aal)
-- [Dev.to/JS] [append vs appendChild](https://dev.to/penandcode/append-vs-appendchild-2o78)
 - [Lifehacker] [Why Your TV Remote Still Won&#39;t Work With New Batteries](https://lifehacker.com/why-your-tv-remote-still-wont-work-with-new-batteries-1850750442)
 - [Lifehacker] [The Difference Between Razor Burn and Razor Bumps &lpar;and How to Avoid Both&rpar;](https://lifehacker.com/the-difference-between-razor-burn-and-razor-bumps-and-1850750449)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 19](https://lifehacker.com/wordle-answer-today-august-19-2023-1850751486)
