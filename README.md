@@ -26,8 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Notes: Advanced Node.js Concepts by Stephen Grider](https://dev.to/midnqp/notes-advanced-nodejs-concepts-by-stephen-grider-4pp7)
 - [Lifehacker] [Why Your TV Remote Still Won&#39;t Work With New Batteries](https://lifehacker.com/why-your-tv-remote-still-wont-work-with-new-batteries-1850750442)
-- [Dev.to/JS] [How do number methods impact performance?](https://dev.to/fullstackjo/how-do-number-methods-impact-performance-1dn0)
+- [Dev.to/JS] [What are number methods and how do they impact performance?](https://dev.to/fullstackjo/how-do-number-methods-impact-performance-1dn0)
 - [Dev.to/JS] [Advanced JavaScript... All you need to know and more](https://dev.to/dumebii/advanced-javascript-all-you-need-to-know-and-more-4li9)
 - [Lifehacker] [The Difference Between Razor Burn and Razor Bumps &lpar;and How to Avoid Both&rpar;](https://lifehacker.com/the-difference-between-razor-burn-and-razor-bumps-and-1850750449)
 - [Dev.to/JS] [Angular Signals: Keeping the Reactivity Train](https://dev.to/oz/angular-signals-keeping-the-reactivity-train-582o)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Smoke Animation&lpar;color with background music&rpar;](https://dev.to/dimple031/smoke-animationcolor-with-background-music-37cn)
 - [Dev.to/JS] [Al for web development: everything you need to know](https://dev.to/sparkouttech/al-for-web-development-everything-you-need-to-know-5fab)
 - [Dev.to/JS] [Mobile App Update - Day 95](https://dev.to/shreyvijayvargiya/mobile-app-update-day-95-olo)
-- [Dev.to/JS] [VS Code Template Portfolio](https://dev.to/asharali999/vs-code-template-portfolio-46j9)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 19](https://lifehacker.com/wordle-answer-today-august-19-2023-1850751486)
 - [Lifehacker] [Why Storm Surges Are Worse Than Normal Flooding](https://lifehacker.com/why-storm-surges-are-such-a-big-deal-1829033220)
 - [Lifehacker] [Use &#39;Kaizen&#39; for a Better Workflow](https://lifehacker.com/use-kaizen-for-a-better-workflow-1850752103)
