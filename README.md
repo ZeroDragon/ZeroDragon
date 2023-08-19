@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 19](https://lifehacker.com/wordle-answer-today-august-19-2023-1850751486)
+- [Dev.to/JS] [JS OR php](https://dev.to/thurahex/js-or-php-28fh)
 - [Dev.to/JS] [Juggling JavaScript: A Dive Into Variables.](https://dev.to/tshegoletlape/juggling-javascript-a-dive-into-variables-4db2)
 - [Dev.to/JS] [Exploring CRUD Operations and Fetch Methods in JavaScript](https://dev.to/jconn4177/exploring-crud-operations-and-fetch-methods-in-javascript-187l)
 - [Dev.to/JS] [Optimization and Deployment of Vue App on Firebase](https://dev.to/iamkelv/optimization-and-deployment-of-vue-app-on-firebase-4hed)
@@ -49,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring Component Lifecycle Methods in React](https://dev.to/the2minengineer/exploring-component-lifecycle-methods-in-react-13p9)
 - [Lifehacker] [All the Ways You Should Stormproof Your Home](https://lifehacker.com/all-the-ways-you-should-stormproof-your-home-1850752104)
 - [Dev.to/JS] [Celebrating Modular Mastery: Navigating JavaScript&#39;s Module Landscape](https://dev.to/cliff123tech/celebrating-modular-mastery-navigating-javascripts-module-landscap-55k3)
-- [Dev.to/JS] [Glucotrust Reviews - Blood Sugar Reviews, Benefits, Results, Complaints &amp; Warnings?](https://dev.to/glucotrustfacts/glucotrust-reviews-blood-sugar-reviews-benefits-results-complaints-warnings-42fl)
 - [Lifehacker] [Where to Place Fans in Your Home for Maximum Cooling](https://lifehacker.com/where-to-place-fans-in-your-home-for-maximum-cooling-1849338791)
 - [Lifehacker] [The &#39;BeFake&#39; App Is the Opposite of BeReal](https://lifehacker.com/the-befake-app-is-the-opposite-of-bereal-1850751838)
 - [Lifehacker] [iMessage Has a Hidden Bookmarking Feature](https://lifehacker.com/imessage-has-a-hidden-bookmarking-feature-1850751945)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everyone Needs a ‘Pregnancy Pillow’](https://lifehacker.com/everyone-needs-a-pregnancy-pillow-1850748978)
 - [Lifehacker] [The Best TRX Exercises You Can Do at the Gym](https://lifehacker.com/11-of-the-best-exercises-you-can-do-on-trx-straps-at-th-1848908010)
 - [Lifehacker] [The Best Cheap Smartwatches You Can Buy](https://lifehacker.com/5-smartwatches-you-can-buy-for-under-200-1849905601)
-- [Lifehacker] [How to Beat a Drug Test](https://lifehacker.com/how-to-beat-a-drug-test-1829993785)
-- [Lifehacker] [How the ‘Proust Effect’ Can Help You Study](https://lifehacker.com/how-the-proust-effect-can-help-you-study-1850749025)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Beat a Drug Test](https://lifehacker.com/how-to-beat-a-drug-test-1829993785)<!-- TECH-POSTS:END -->
 
 ---
 
