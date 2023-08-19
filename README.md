@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Juggling JavaScript: A Dive Into Variables.](https://dev.to/tshegoletlape/juggling-javascript-a-dive-into-variables-4db2)
 - [Dev.to/JS] [Exploring CRUD Operations and Fetch Methods in JavaScript](https://dev.to/jconn4177/exploring-crud-operations-and-fetch-methods-in-javascript-187l)
 - [Dev.to/JS] [Optimization and Deployment of Vue App on Firebase](https://dev.to/iamkelv/optimization-and-deployment-of-vue-app-on-firebase-4hed)
 - [Lifehacker] [Why Storm Surges Are Worse Than Normal Flooding](https://lifehacker.com/why-storm-surges-are-such-a-big-deal-1829033220)
@@ -50,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Celebrating Modular Mastery: Navigating JavaScript&#39;s Module Landscape](https://dev.to/cliff123tech/celebrating-modular-mastery-navigating-javascripts-module-landscap-55k3)
 - [Dev.to/JS] [Glucotrust Reviews - Blood Sugar Reviews, Benefits, Results, Complaints &amp; Warnings?](https://dev.to/glucotrustfacts/glucotrust-reviews-blood-sugar-reviews-benefits-results-complaints-warnings-42fl)
 - [Lifehacker] [Where to Place Fans in Your Home for Maximum Cooling](https://lifehacker.com/where-to-place-fans-in-your-home-for-maximum-cooling-1849338791)
-- [Dev.to/JS] [On to Back End!](https://dev.to/kiararj/on-to-back-end-5f48)
 - [Lifehacker] [The &#39;BeFake&#39; App Is the Opposite of BeReal](https://lifehacker.com/the-befake-app-is-the-opposite-of-bereal-1850751838)
 - [Lifehacker] [iMessage Has a Hidden Bookmarking Feature](https://lifehacker.com/imessage-has-a-hidden-bookmarking-feature-1850751945)
 - [Lifehacker] [You Can Finally Check a Note&#39;s Version History in Google Keep](https://lifehacker.com/you-can-finally-check-a-notes-version-history-in-google-1850751873)
