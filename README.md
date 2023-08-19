@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [charts load faster on chainparser now.](https://dev.to/mawut0r/charts-load-faster-on-chainparser-now-3b7k)
 - [Lifehacker] [Hertz Is Giving Some Rental Cars a Free Extra Day](https://lifehacker.com/hertz-is-giving-some-rental-cars-a-free-extra-day-1850750263)
 - [Dev.to/JS] [React - Portals](https://dev.to/brdnicolas/react-portals-3k2d)
 - [Dev.to/JS] [Angular content projection - how to project views](https://dev.to/tomwebwalker/angular-content-projection-how-to-project-views-aal)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PLAY BAZAAR | PLAY BAZAAR ONLINE](https://dev.to/playbazaar/play-bazaar-play-bazaar-online-4ige)
 - [Dev.to/JS] [Migrating from query-string to URLSearchParams](https://dev.to/robmarshall/migrating-from-query-string-to-urlsearchparams-5276)
 - [Dev.to/JS] [Exploring Advanced File Operations in JavaScript: 5 Clever Tricks](https://dev.to/harshahegde/exploring-advanced-file-operations-in-javascript-5-clever-tricks-1edp)
-- [Dev.to/JS] [Promises, Async/await in JavaScript](https://dev.to/emkay860/promises-asyncawait-in-javascript-4gk5)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 19](https://lifehacker.com/wordle-answer-today-august-19-2023-1850751486)
 - [Lifehacker] [Why Storm Surges Are Worse Than Normal Flooding](https://lifehacker.com/why-storm-surges-are-such-a-big-deal-1829033220)
 - [Lifehacker] [Use &#39;Kaizen&#39; for a Better Workflow](https://lifehacker.com/use-kaizen-for-a-better-workflow-1850752103)
