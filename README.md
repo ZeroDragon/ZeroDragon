@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Backbone of Backend Development: Understanding HTTP](https://dev.to/danities316/the-backbone-of-backend-development-understanding-http-2j7i)
+- [Dev.to/JS] [I built a Base64 Encoder/Decoder Website using React.js and Next.js](https://dev.to/develjuanma/i-built-a-base64-encoderdecoder-website-using-reactjs-and-nextjs-25l2)
 - [Dev.to/JS] [Latest Newsletter: Make Things, Take Notes, Profit &lpar;Issue #128&rpar;](https://dev.to/mjgs/latest-newsletter-make-things-take-notes-profit-issue-128-3lfa)
 - [Dev.to/JS] [I&#39;m Learning Java s̶c̶r̶i̶p̶t̶](https://dev.to/manishmehra/learning-java-4d7e)
 - [Dev.to/JS] [Simplified Job Application Automation With Javascript](https://dev.to/harshmangalam/simplified-job-application-automation-with-javascript-52h1)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript in Detail](https://dev.to/scorcism/javascript-in-detail-51a4)
 - [Dev.to/JS] [InnerText, TextContent and InnerHTML.](https://dev.to/axb052a/innertext-textcontent-and-innerhtml-43bh)
 - [Dev.to/JS] [Maximum Points You Can Obtain from Cards](https://dev.to/zeeshanali0704/maximum-points-you-can-obtain-from-cards-331f)
-- [Dev.to/JS] [Demystifying Ember Serialization: A Comprehensive Guide](https://dev.to/prasannavijayan/demystifying-ember-serialization-a-comprehensive-guide-11ko)
-- [Dev.to/JS] [React.js vs Angular: A Focus on Cleaner Code](https://dev.to/zeeshanhshaheen/reactjs-vs-angular-a-focus-on-cleaner-code-54hl)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 19](https://lifehacker.com/wordle-answer-today-august-19-2023-1850751486)
 - [Lifehacker] [Why Storm Surges Are Worse Than Normal Flooding](https://lifehacker.com/why-storm-surges-are-such-a-big-deal-1829033220)
 - [Lifehacker] [Use &#39;Kaizen&#39; for a Better Workflow](https://lifehacker.com/use-kaizen-for-a-better-workflow-1850752103)
