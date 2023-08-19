@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Running nodejs application using micro service architecture.](https://dev.to/ershubhamgupta1/running-nodejs-application-using-micro-service-architecture-lck)
+- [Dev.to/JS] [6 Tips for Effective React Pagination: Building a User-Friendly Navigation Component](https://dev.to/bilal1718/6-tips-for-effective-react-pagination-building-a-user-friendly-navigation-component-4i5h)
+- [Dev.to/JS] [Metaballs](https://dev.to/dimple031/metaballs-f0l)
 - [Dev.to/JS] [JavaScript in Detail](https://dev.to/scorcism/javascript-in-detail-51a4)
 - [Dev.to/JS] [InnerText, TextContent and InnerHTML.](https://dev.to/axb052a/innertext-textcontent-and-innerhtml-43bh)
 - [Dev.to/JS] [Maximum Points You Can Obtain from Cards](https://dev.to/zeeshanali0704/maximum-points-you-can-obtain-from-cards-331f)
@@ -36,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 19](https://lifehacker.com/wordle-answer-today-august-19-2023-1850751486)
 - [Dev.to/JS] [JS OR php](https://dev.to/thurahex/js-or-php-28fh)
 - [Dev.to/JS] [Juggling JavaScript: A Dive Into Variables.](https://dev.to/tshegoletlape/juggling-javascript-a-dive-into-variables-4db2)
-- [Dev.to/JS] [Exploring CRUD Operations and Fetch Methods in JavaScript](https://dev.to/jconn4177/exploring-crud-operations-and-fetch-methods-in-javascript-187l)
-- [Dev.to/JS] [Optimization and Deployment of Vue App on Firebase](https://dev.to/iamkelv/optimization-and-deployment-of-vue-app-on-firebase-4hed)
 - [Lifehacker] [Why Storm Surges Are Worse Than Normal Flooding](https://lifehacker.com/why-storm-surges-are-such-a-big-deal-1829033220)
-- [Dev.to/JS] [Can I access the JavaScript native Math library source code?](https://dev.to/devcodef1/can-i-access-the-javascript-native-math-library-source-code-272m)
 - [Lifehacker] [Use &#39;Kaizen&#39; for a Better Workflow](https://lifehacker.com/use-kaizen-for-a-better-workflow-1850752103)
 - [Lifehacker] [This All-Inclusive Dominican Republic Resort Is $80 a Night Right Now](https://lifehacker.com/this-all-inclusive-dominican-republic-resort-is-80-a-n-1850752905)
 - [Lifehacker] [The Safest Places to Be During a Hurricane](https://lifehacker.com/how-to-stay-safe-during-a-hurricane-1798391969)
