@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I&#39;m learning Java s̶c̶r̶i̶p̶t̶?](https://dev.to/manishmehra/im-learning-java-script-23d8)
+- [Dev.to/JS] [Simplified Job Application Automation With Javascript](https://dev.to/harshmangalam/simplified-job-application-automation-with-javascript-52h1)
+- [Dev.to/JS] [Why choose ReactJS for web development](https://dev.to/jon_snow789/why-choose-reactjs-for-web-development-9mb)
 - [Dev.to/JS] [Running nodejs application using micro service architecture.](https://dev.to/ershubhamgupta1/running-nodejs-application-using-micro-service-architecture-lck)
 - [Dev.to/JS] [6 Tips for Effective React Pagination: Building a User-Friendly Navigation Component](https://dev.to/bilal1718/6-tips-for-effective-react-pagination-building-a-user-friendly-navigation-component-4i5h)
 - [Dev.to/JS] [Metaballs](https://dev.to/dimple031/metaballs-f0l)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Demystifying Ember Serialization: A Comprehensive Guide](https://dev.to/prasannavijayan/demystifying-ember-serialization-a-comprehensive-guide-11ko)
 - [Dev.to/JS] [React.js vs Angular: A Focus on Cleaner Code](https://dev.to/zeeshanhshaheen/reactjs-vs-angular-a-focus-on-cleaner-code-54hl)
 - [Dev.to/JS] [xtensio - a new framework for browser extension development](https://dev.to/dochan/xtensio-a-new-framework-for-browser-extension-development-1nb2)
-- [Dev.to/JS] [Optional Semicolons in JavaScript](https://dev.to/better678/optional-semicolons-in-javascript-4bp6)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 19](https://lifehacker.com/wordle-answer-today-august-19-2023-1850751486)
-- [Dev.to/JS] [JS OR php](https://dev.to/thurahex/js-or-php-28fh)
-- [Dev.to/JS] [Juggling JavaScript: A Dive Into Variables.](https://dev.to/tshegoletlape/juggling-javascript-a-dive-into-variables-4db2)
 - [Lifehacker] [Why Storm Surges Are Worse Than Normal Flooding](https://lifehacker.com/why-storm-surges-are-such-a-big-deal-1829033220)
 - [Lifehacker] [Use &#39;Kaizen&#39; for a Better Workflow](https://lifehacker.com/use-kaizen-for-a-better-workflow-1850752103)
 - [Lifehacker] [This All-Inclusive Dominican Republic Resort Is $80 a Night Right Now](https://lifehacker.com/this-all-inclusive-dominican-republic-resort-is-80-a-n-1850752905)
