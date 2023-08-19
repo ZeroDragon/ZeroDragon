@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between Razor Burn and Razor Bumps &lpar;and How to Avoid Both&rpar;](https://lifehacker.com/the-difference-between-razor-burn-and-razor-bumps-and-1850750449)
+- [Dev.to/JS] [Angular Signals: Keeping the Reactivity Train](https://dev.to/oz/angular-signals-keeping-the-reactivity-train-582o)
+- [Dev.to/JS] [PLAY BAZAAR : PLAY BAZAAR SATTA KING RESULT](https://dev.to/playbazaar/play-bazaar-play-bazaar-satta-king-result-55ak)
+- [Dev.to/JS] [PLAY BAZAAR | PLAY BAZAAR ONLINE](https://dev.to/playbazaar/play-bazaar-play-bazaar-online-4ige)
+- [Dev.to/JS] [Migrating from query-string to URLSearchParams](https://dev.to/robmarshall/migrating-from-query-string-to-urlsearchparams-5276)
+- [Dev.to/JS] [Exploring Advanced File Operations in JavaScript: 5 Clever Tricks](https://dev.to/harshahegde/exploring-advanced-file-operations-in-javascript-5-clever-tricks-1edp)
 - [Dev.to/JS] [Promises, Async/await in JavaScript](https://dev.to/emkay860/promises-asyncawait-in-javascript-4gk5)
 - [Dev.to/JS] [Smoke Animation&lpar;color with background music&rpar;](https://dev.to/dimple031/smoke-animationcolor-with-background-music-37cn)
 - [Dev.to/JS] [Grow up your software career with Gologic’s Oracle Fusion cloud Technical Training](https://dev.to/naresh1143/grow-up-your-software-career-with-gologics-oracle-fusion-cloud-technical-training-50ej)
@@ -33,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mobile App Update - Day 95](https://dev.to/shreyvijayvargiya/mobile-app-update-day-95-olo)
 - [Dev.to/JS] [VS Code Template Portfolio](https://dev.to/asharali999/vs-code-template-portfolio-46j9)
 - [Dev.to/JS] [JavaScript Tricky Interview Questions 2023](https://dev.to/mainulspace/javascript-tricky-interview-questions-2023-14li)
-- [Dev.to/JS] [The Backbone of Backend Development: Understanding HTTP](https://dev.to/danities316/the-backbone-of-backend-development-understanding-http-2j7i)
-- [Dev.to/JS] [I built a Base64 Encoder/Decoder Website using React.js and Next.js](https://dev.to/develjuanma/i-built-a-base64-encoderdecoder-website-using-reactjs-and-nextjs-25l2)
-- [Dev.to/JS] [Latest Newsletter: Make Things, Take Notes, Profit &lpar;Issue #128&rpar;](https://dev.to/mjgs/latest-newsletter-make-things-take-notes-profit-issue-128-3lfa)
-- [Dev.to/JS] [I&#39;m Learning Java s̶c̶r̶i̶p̶t̶](https://dev.to/manishmehra/learning-java-4d7e)
-- [Dev.to/JS] [Simplified Job Application Automation With Javascript](https://dev.to/harshmangalam/simplified-job-application-automation-with-javascript-52h1)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 19](https://lifehacker.com/wordle-answer-today-august-19-2023-1850751486)
 - [Lifehacker] [Why Storm Surges Are Worse Than Normal Flooding](https://lifehacker.com/why-storm-surges-are-such-a-big-deal-1829033220)
 - [Lifehacker] [Use &#39;Kaizen&#39; for a Better Workflow](https://lifehacker.com/use-kaizen-for-a-better-workflow-1850752103)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Build Your Strawberry Shortcake on Biscuits Instead](https://lifehacker.com/build-your-strawberry-shortcake-on-biscuits-instead-1850749279)
 - [Lifehacker] [Everyone Needs a ‘Pregnancy Pillow’](https://lifehacker.com/everyone-needs-a-pregnancy-pillow-1850748978)
 - [Lifehacker] [The Best TRX Exercises You Can Do at the Gym](https://lifehacker.com/11-of-the-best-exercises-you-can-do-on-trx-straps-at-th-1848908010)
-- [Lifehacker] [The Best Cheap Smartwatches You Can Buy](https://lifehacker.com/5-smartwatches-you-can-buy-for-under-200-1849905601)
-- [Lifehacker] [How to Beat a Drug Test](https://lifehacker.com/how-to-beat-a-drug-test-1829993785)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Cheap Smartwatches You Can Buy](https://lifehacker.com/5-smartwatches-you-can-buy-for-under-200-1849905601)<!-- TECH-POSTS:END -->
 
 ---
 
