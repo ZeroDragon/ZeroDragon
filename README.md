@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Your TV Remote Still Won&#39;t Work With New Batteries](https://lifehacker.com/why-your-tv-remote-still-wont-work-with-new-batteries-1850750442)
+- [Dev.to/JS] [How do number methods impact performance?](https://dev.to/fullstackjo/how-do-number-methods-impact-performance-1dn0)
+- [Dev.to/JS] [Advanced JavaScript... All you need to know and more](https://dev.to/dumebii/advanced-javascript-all-you-need-to-know-and-more-4li9)
 - [Lifehacker] [The Difference Between Razor Burn and Razor Bumps &lpar;and How to Avoid Both&rpar;](https://lifehacker.com/the-difference-between-razor-burn-and-razor-bumps-and-1850750449)
 - [Dev.to/JS] [Angular Signals: Keeping the Reactivity Train](https://dev.to/oz/angular-signals-keeping-the-reactivity-train-582o)
 - [Dev.to/JS] [PLAY BAZAAR : PLAY BAZAAR SATTA KING RESULT](https://dev.to/playbazaar/play-bazaar-play-bazaar-satta-king-result-55ak)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Al for web development: everything you need to know](https://dev.to/sparkouttech/al-for-web-development-everything-you-need-to-know-5fab)
 - [Dev.to/JS] [Mobile App Update - Day 95](https://dev.to/shreyvijayvargiya/mobile-app-update-day-95-olo)
 - [Dev.to/JS] [VS Code Template Portfolio](https://dev.to/asharali999/vs-code-template-portfolio-46j9)
-- [Dev.to/JS] [JavaScript Tricky Interview Questions 2023](https://dev.to/mainulspace/javascript-tricky-interview-questions-2023-14li)
-- [Dev.to/JS] [The Backbone of Backend Development: Understanding HTTP](https://dev.to/danities316/the-backbone-of-backend-development-understanding-http-2j7i)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 19](https://lifehacker.com/wordle-answer-today-august-19-2023-1850751486)
 - [Lifehacker] [Why Storm Surges Are Worse Than Normal Flooding](https://lifehacker.com/why-storm-surges-are-such-a-big-deal-1829033220)
 - [Lifehacker] [Use &#39;Kaizen&#39; for a Better Workflow](https://lifehacker.com/use-kaizen-for-a-better-workflow-1850752103)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These Car Insurance Sites When You&#39;re Shopping for Quotes](https://lifehacker.com/avoid-these-car-insurance-sites-when-youre-shopping-for-1850749337)
 - [Lifehacker] [Build Your Strawberry Shortcake on Biscuits Instead](https://lifehacker.com/build-your-strawberry-shortcake-on-biscuits-instead-1850749279)
 - [Lifehacker] [Everyone Needs a ‘Pregnancy Pillow’](https://lifehacker.com/everyone-needs-a-pregnancy-pillow-1850748978)
-- [Lifehacker] [The Best TRX Exercises You Can Do at the Gym](https://lifehacker.com/11-of-the-best-exercises-you-can-do-on-trx-straps-at-th-1848908010)
-- [Lifehacker] [The Best Cheap Smartwatches You Can Buy](https://lifehacker.com/5-smartwatches-you-can-buy-for-under-200-1849905601)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best TRX Exercises You Can Do at the Gym](https://lifehacker.com/11-of-the-best-exercises-you-can-do-on-trx-straps-at-th-1848908010)<!-- TECH-POSTS:END -->
 
 ---
 
