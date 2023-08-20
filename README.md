@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Clicking on highlighted text still counts as highlighting while visually no text is selected. How to fix that?](https://dev.to/devcodef1/clicking-on-highlighted-text-still-counts-as-highlighting-while-visually-no-text-is-selected-how-to-fix-that-3kl0)
 - [Dev.to/JS] [React Custom Hook: useLongPress](https://dev.to/sergeyleschev/react-custom-hook-uselongpress-5c0j)
 - [Dev.to/JS] [JavaScript Objects and its secret associates](https://dev.to/ms_74/javascript-objects-and-its-secret-associates-3bi2)
 - [Dev.to/JS] [Two Sum Problem](https://dev.to/apatel-ai/two-sum-problem-2p0l)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Integrating ChatGPT with React JS for Smarter Conversational Interfaces](https://dev.to/devashishmamgain/integrating-chatgpt-with-react-js-for-smarter-conversational-interfaces-32k0)
 - [Dev.to/JS] [React Hook: useGlobalState](https://dev.to/perssondennis/react-hook-useglobalstate-3c9b)
 - [Dev.to/JS] [Microservices design](https://dev.to/aws-builders/microservices-design-e6e)
-- [Dev.to/JS] [i am developing a add to cart in react by using redux](https://dev.to/ahmad1834/i-am-developing-a-add-to-cart-in-react-by-using-redux-515c)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Sunday, August 20](https://lifehacker.com/wordle-answer-today-august-20-2023-1850755125)
 - [Lifehacker] [The Worst Places in Your Kitchen to Put a Microwave](https://lifehacker.com/the-worst-places-in-your-kitchen-to-put-a-microwave-1850750424)
 - [Lifehacker] [Hertz Is Giving Some Rental Cars a Free Extra Day](https://lifehacker.com/hertz-is-giving-some-rental-cars-a-free-extra-day-1850750263)
