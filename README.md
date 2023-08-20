@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javscript BOM &lpar; Browser Object Model&rpar;](https://dev.to/syedmuhammadaliraza/javscript-dom-browser-object-model-5c6l)
 - [Dev.to/JS] [Barrel - Best Way to Import Files in Modern JavaScript Apps](https://dev.to/akdevcraft/barrel-best-way-to-import-files-in-modern-javascript-apps-3592)
 - [Lifehacker] [The Best Way to Sharpen Scissors](https://lifehacker.com/the-best-way-to-sharpen-scissors-1850750372)
 - [Lifehacker] [The First Things to Do If a Natural Disaster Occurs While You&#39;re on Vacation](https://lifehacker.com/the-first-things-to-do-if-a-natural-disaster-occurs-whi-1850750329)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unveiling the Roadmap to Frontend Interview Success: From Javascript Mastery to React Wizardry](https://dev.to/anjankarmakar/unveiling-the-roadmap-to-frontend-interview-success-from-javascript-mastery-to-react-wizardry-4h2h)
 - [Dev.to/JS] [Efficient Data Rendering with the map&lpar;&rpar; Function in React](https://dev.to/the2minengineer/efficient-data-rendering-with-the-map-function-in-react-54pn)
 - [Lifehacker] [The Worst Places in Your Kitchen to Put a Microwave](https://lifehacker.com/the-worst-places-in-your-kitchen-to-put-a-microwave-1850750424)
-- [Dev.to/JS] [Demystifying React Custom Hooks In 2023](https://dev.to/omprakash2929/demystifying-react-custom-hooks-in-2023-1jh8)
 - [Lifehacker] [Hertz Is Giving Some Rental Cars a Free Extra Day](https://lifehacker.com/hertz-is-giving-some-rental-cars-a-free-extra-day-1850750263)
 - [Lifehacker] [Why Your TV Remote Still Won&#39;t Work With New Batteries](https://lifehacker.com/why-your-tv-remote-still-wont-work-with-new-batteries-1850750442)
 - [Lifehacker] [The Difference Between Razor Burn and Razor Bumps &lpar;and How to Avoid Both&rpar;](https://lifehacker.com/the-difference-between-razor-burn-and-razor-bumps-and-1850750449)
