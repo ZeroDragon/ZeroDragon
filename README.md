@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dịch biển số xe](https://dev.to/dichbiensoxe1/dich-bien-so-xe-gce)
+- [Dev.to/JS] [🚀 Revolutionizing Frontend Development: Embrace the Micro Frontend Evolution! 🚀](https://dev.to/anjankarmakar/revolutionizing-frontend-development-embrace-the-micro-frontend-evolution-4o7m)
 - [Dev.to/JS] [Types, Values, and Variables in JavaScript](https://dev.to/better678/types-values-and-variables-in-javascript-123g)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Sunday, August 20](https://lifehacker.com/wordle-answer-today-august-20-2023-1850755125)
 - [Dev.to/JS] [Event bubbling for Dummies](https://dev.to/carstenbehrens/event-bubbling-for-dummies-4o1c)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Appwrite Functions: Learn to deploy serverless functions within minutes](https://dev.to/navdeepm20/appwrite-functions-learn-to-deploy-serverless-functions-within-minutes-5918)
 - [Dev.to/JS] [Cloning a Specific Commit from a GitHub Repository](https://dev.to/sh20raj/cloning-a-specific-commit-from-a-github-repository-46ep)
 - [Dev.to/JS] [My Portfolio](https://dev.to/manoj977/my-portfolio-21l9)
-- [Dev.to/JS] [JavaScript Abuse — Article 3. Slice VS. Splice: Another Battle Royale](https://dev.to/jsqueen/javascript-abuse-article-3-slice-vs-splice-another-battle-royale-36lf)
-- [Dev.to/JS] [HTML Logo &amp; Animation](https://dev.to/surajsingh/sworks-logo-1gnh)
 - [Lifehacker] [Hertz Is Giving Some Rental Cars a Free Extra Day](https://lifehacker.com/hertz-is-giving-some-rental-cars-a-free-extra-day-1850750263)
 - [Lifehacker] [Why Your TV Remote Still Won&#39;t Work With New Batteries](https://lifehacker.com/why-your-tv-remote-still-wont-work-with-new-batteries-1850750442)
 - [Lifehacker] [The Difference Between Razor Burn and Razor Bumps &lpar;and How to Avoid Both&rpar;](https://lifehacker.com/the-difference-between-razor-burn-and-razor-bumps-and-1850750449)
