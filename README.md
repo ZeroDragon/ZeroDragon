@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Custom Hook: useLongPress](https://dev.to/sergeyleschev/react-custom-hook-uselongpress-5c0j)
+- [Dev.to/JS] [JavaScript Objects and its secret associates](https://dev.to/ms_74/javascript-objects-and-its-secret-associates-3bi2)
 - [Dev.to/JS] [Two Sum Problem](https://dev.to/apatel-ai/two-sum-problem-2p0l)
 - [Dev.to/JS] [Javscript BOM &lpar; Browser Object Model&rpar;](https://dev.to/syedmuhammadaliraza/javscript-dom-browser-object-model-5c6l)
 - [Dev.to/JS] [Barrel - Best Way to Import Files in Modern JavaScript Apps](https://dev.to/akdevcraft/barrel-best-way-to-import-files-in-modern-javascript-apps-3592)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Hook: useGlobalState](https://dev.to/perssondennis/react-hook-useglobalstate-3c9b)
 - [Dev.to/JS] [Microservices design](https://dev.to/aws-builders/microservices-design-e6e)
 - [Dev.to/JS] [i am developing a add to cart in react by using redux](https://dev.to/ahmad1834/i-am-developing-a-add-to-cart-in-react-by-using-redux-515c)
-- [Dev.to/JS] [Build a Portfolio Website with Next.js and Tailwind CSS](https://dev.to/harryholland/build-a-portfolio-website-with-nextjs-and-tailwind-css-4ln3)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Sunday, August 20](https://lifehacker.com/wordle-answer-today-august-20-2023-1850755125)
-- [Dev.to/JS] [Unveiling the Roadmap to Frontend Interview Success: From Javascript Mastery to React Wizardry](https://dev.to/anjankarmakar/unveiling-the-roadmap-to-frontend-interview-success-from-javascript-mastery-to-react-wizardry-4h2h)
 - [Lifehacker] [The Worst Places in Your Kitchen to Put a Microwave](https://lifehacker.com/the-worst-places-in-your-kitchen-to-put-a-microwave-1850750424)
 - [Lifehacker] [Hertz Is Giving Some Rental Cars a Free Extra Day](https://lifehacker.com/hertz-is-giving-some-rental-cars-a-free-extra-day-1850750263)
 - [Lifehacker] [Why Your TV Remote Still Won&#39;t Work With New Batteries](https://lifehacker.com/why-your-tv-remote-still-wont-work-with-new-batteries-1850750442)
