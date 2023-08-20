@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Testimonials Carousel with React, Nuka Carousel, and Tailwind CSS](https://dev.to/ryaddev/building-a-testimonials-carousel-with-react-nuka-carousel-and-tailwind-css-1e7)
+- [Dev.to/JS] [JS dev learning Swift](https://dev.to/sarathsantoshdamaraju/js-dev-learning-swift-1go7)
 - [Dev.to/JS] [User Guides in Code Documentation: Empowering Users with Usage Instructions](https://dev.to/documatic/user-guides-in-code-documentation-empowering-users-with-usage-instructions-3lmo)
 - [Dev.to/JS] [What is CSS Module?](https://dev.to/capscode/what-is-css-module-2k1e)
 - [Dev.to/JS] [Exploring the Top 5 WebSocket Implementations Using JavaScript for Real-Time Communication](https://dev.to/harshahegde/exploring-the-top-5-websocket-implementations-using-javascript-for-real-time-communication-4o4f)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Event bubbling for Dummies](https://dev.to/carstenbehrens/event-bubbling-for-dummies-4o1c)
 - [Dev.to/JS] [Scikit-Learn, from Python to JavaScript](https://dev.to/opaul/scikit-learn-from-python-to-javascript-2099)
 - [Dev.to/JS] [React Custom Hook: useHover](https://dev.to/sergeyleschev/react-custom-hook-usehover-27lg)
-- [Dev.to/JS] [&lt; Sending Jwt&#39;s using cookies in NodeJs Explained /&gt;](https://dev.to/stano7_/-sending-jwts-using-cookies-in-nodejs-explained--aml)
-- [Dev.to/JS] [Javascript DOM methods](https://dev.to/syedmuhammadaliraza/javascript-dom-methods-22mc)
 - [Lifehacker] [Hertz Is Giving Some Rental Cars a Free Extra Day](https://lifehacker.com/hertz-is-giving-some-rental-cars-a-free-extra-day-1850750263)
 - [Lifehacker] [Why Your TV Remote Still Won&#39;t Work With New Batteries](https://lifehacker.com/why-your-tv-remote-still-wont-work-with-new-batteries-1850750442)
 - [Lifehacker] [The Difference Between Razor Burn and Razor Bumps &lpar;and How to Avoid Both&rpar;](https://lifehacker.com/the-difference-between-razor-burn-and-razor-bumps-and-1850750449)
