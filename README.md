@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Crazy Programmer] [10 Best Laptops for Coding and Programming in India 2023](https://www.thecrazyprogrammer.com/2023/08/best-laptop-for-programming.html)
+- [Dev.to/JS] [Streaming SIMD in JS](https://dev.to/tracygjg/streaming-simd-in-js-okj)
+- [Dev.to/JS] [Getting Started with WebSockets in Deno: Tutorial and Examples](https://dev.to/franciscomendes10866/getting-started-with-websockets-in-deno-tutorial-and-examples-4e5i)
 - [Dev.to/JS] [Integrating ChatGPT with React JS for Smarter Conversational Interfaces](https://dev.to/devashishmamgain/integrating-chatgpt-with-react-js-for-smarter-conversational-interfaces-32k0)
 - [Dev.to/JS] [React Hook: useGlobalState](https://dev.to/perssondennis/react-hook-useglobalstate-3c9b)
 - [Dev.to/JS] [Microservices design](https://dev.to/aws-builders/microservices-design-e6e)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Demystifying React Custom Hooks In 2023](https://dev.to/omprakash2929/demystifying-react-custom-hooks-in-2023-1jh8)
 - [Dev.to/JS] [Revolutionizing Frontend Development: Embrace the Micro Frontend Evolution 🚀](https://dev.to/anjankarmakar/revolutionizing-frontend-development-embrace-the-micro-frontend-evolution-286c)
 - [Dev.to/JS] [Designing an Autocomplete UI Component 🔍](https://dev.to/vikas2426/designing-an-autocomplete-ui-component-2fbd)
-- [Dev.to/JS] [6 New Syntax Changes in Web Development](https://dev.to/mojodev/6-new-syntax-changes-in-web-development-3p6c)
-- [Dev.to/JS] [Honor 80GT](https://dev.to/emilia15903261/honor-80gt-4gii)
 - [Lifehacker] [Hertz Is Giving Some Rental Cars a Free Extra Day](https://lifehacker.com/hertz-is-giving-some-rental-cars-a-free-extra-day-1850750263)
 - [Lifehacker] [Why Your TV Remote Still Won&#39;t Work With New Batteries](https://lifehacker.com/why-your-tv-remote-still-wont-work-with-new-batteries-1850750442)
 - [Lifehacker] [The Difference Between Razor Burn and Razor Bumps &lpar;and How to Avoid Both&rpar;](https://lifehacker.com/the-difference-between-razor-burn-and-razor-bumps-and-1850750449)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Earn More Credit Card Points by &#39;Double Dipping&#39;](https://lifehacker.com/earn-more-credit-card-points-by-double-dipping-1850751559)
 - [Lifehacker] [When to Buy the 14-Inch MacBook Pro Over the 15-Inch MacBook Air](https://lifehacker.com/when-to-buy-the-14-inch-macbook-pro-over-the-15-inch-ma-1850746532)
 - [Lifehacker] [How to Boost Your Child&#39;s Immune System This School Year](https://lifehacker.com/how-to-boost-your-childs-immune-system-this-school-year-1850749887)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is &#39;Zepotha&#39; a Real Movie?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-zepoth-1850750620)
-- [Lifehacker] [Avoid These Car Insurance Sites When You&#39;re Shopping for Quotes](https://lifehacker.com/avoid-these-car-insurance-sites-when-youre-shopping-for-1850749337)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is &#39;Zepotha&#39; a Real Movie?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-zepoth-1850750620)<!-- TECH-POSTS:END -->
 
 ---
 
