@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Integrating ChatGPT with React JS for Smarter Conversational Interfaces](https://dev.to/devashishmamgain/integrating-chatgpt-with-react-js-for-smarter-conversational-interfaces-32k0)
+- [Dev.to/JS] [React Hook: useGlobalState](https://dev.to/perssondennis/react-hook-useglobalstate-3c9b)
+- [Dev.to/JS] [Microservices design](https://dev.to/aws-builders/microservices-design-e6e)
+- [Dev.to/JS] [i am developing a add to cart in react by using redux](https://dev.to/ahmad1834/i-am-developing-a-add-to-cart-in-react-by-using-redux-515c)
+- [Dev.to/JS] [Build a Portfolio Website with Next.js and Tailwind CSS](https://dev.to/harryholland/build-a-portfolio-website-with-nextjs-and-tailwind-css-4ln3)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Sunday, August 20](https://lifehacker.com/wordle-answer-today-august-20-2023-1850755125)
 - [Dev.to/JS] [Unveiling the Roadmap to Frontend Interview Success: From Javascript Mastery to React Wizardry](https://dev.to/anjankarmakar/unveiling-the-roadmap-to-frontend-interview-success-from-javascript-mastery-to-react-wizardry-4h2h)
 - [Dev.to/JS] [Efficient Data Rendering with the map&lpar;&rpar; Function in React](https://dev.to/the2minengineer/efficient-data-rendering-with-the-map-function-in-react-54pn)
@@ -33,13 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Demystifying React Custom Hooks In 2023](https://dev.to/omprakash2929/demystifying-react-custom-hooks-in-2023-1jh8)
 - [Dev.to/JS] [Revolutionizing Frontend Development: Embrace the Micro Frontend Evolution 🚀](https://dev.to/anjankarmakar/revolutionizing-frontend-development-embrace-the-micro-frontend-evolution-286c)
 - [Dev.to/JS] [Designing an Autocomplete UI Component 🔍](https://dev.to/vikas2426/designing-an-autocomplete-ui-component-2fbd)
-- [Dev.to/JS] [demo](https://dev.to/sarthakskumar/demo-3ego)
 - [Dev.to/JS] [6 New Syntax Changes in Web Development](https://dev.to/mojodev/6-new-syntax-changes-in-web-development-3p6c)
 - [Dev.to/JS] [Honor 80GT](https://dev.to/emilia15903261/honor-80gt-4gii)
-- [Dev.to/JS] [Building a Testimonials Carousel with React, Nuka Carousel, and Tailwind CSS](https://dev.to/ryaddev/building-a-testimonials-carousel-with-react-nuka-carousel-and-tailwind-css-1e7)
-- [Dev.to/JS] [Strings](https://dev.to/sarathsantoshdamaraju/strings-23o4)
-- [Dev.to/JS] [JS dev learning Swift](https://dev.to/sarathsantoshdamaraju/js-dev-learning-swift-1go7)
-- [Dev.to/JS] [User Guides in Code Documentation: Empowering Users with Usage Instructions](https://dev.to/documatic/user-guides-in-code-documentation-empowering-users-with-usage-instructions-3lmo)
 - [Lifehacker] [Hertz Is Giving Some Rental Cars a Free Extra Day](https://lifehacker.com/hertz-is-giving-some-rental-cars-a-free-extra-day-1850750263)
 - [Lifehacker] [Why Your TV Remote Still Won&#39;t Work With New Batteries](https://lifehacker.com/why-your-tv-remote-still-wont-work-with-new-batteries-1850750442)
 - [Lifehacker] [The Difference Between Razor Burn and Razor Bumps &lpar;and How to Avoid Both&rpar;](https://lifehacker.com/the-difference-between-razor-burn-and-razor-bumps-and-1850750449)
