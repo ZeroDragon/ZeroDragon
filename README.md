@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Operators: A Comprehensive Guide](https://dev.to/arsalanmee/javascript-operators-a-comprehensive-guide-592l)
 - [Crazy Programmer] [10 Best Laptops for Coding and Programming in India 2023](https://www.thecrazyprogrammer.com/2023/08/best-laptop-for-programming.html)
 - [Dev.to/JS] [Streaming SIMD in JS](https://dev.to/tracygjg/streaming-simd-in-js-okj)
 - [Dev.to/JS] [Getting Started with WebSockets in Deno: Tutorial and Examples](https://dev.to/franciscomendes10866/getting-started-with-websockets-in-deno-tutorial-and-examples-4e5i)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Worst Places in Your Kitchen to Put a Microwave](https://lifehacker.com/the-worst-places-in-your-kitchen-to-put-a-microwave-1850750424)
 - [Dev.to/JS] [Demystifying React Custom Hooks In 2023](https://dev.to/omprakash2929/demystifying-react-custom-hooks-in-2023-1jh8)
 - [Dev.to/JS] [Revolutionizing Frontend Development: Embrace the Micro Frontend Evolution 🚀](https://dev.to/anjankarmakar/revolutionizing-frontend-development-embrace-the-micro-frontend-evolution-286c)
-- [Dev.to/JS] [Designing an Autocomplete UI Component 🔍](https://dev.to/vikas2426/designing-an-autocomplete-ui-component-2fbd)
 - [Lifehacker] [Hertz Is Giving Some Rental Cars a Free Extra Day](https://lifehacker.com/hertz-is-giving-some-rental-cars-a-free-extra-day-1850750263)
 - [Lifehacker] [Why Your TV Remote Still Won&#39;t Work With New Batteries](https://lifehacker.com/why-your-tv-remote-still-wont-work-with-new-batteries-1850750442)
 - [Lifehacker] [The Difference Between Razor Burn and Razor Bumps &lpar;and How to Avoid Both&rpar;](https://lifehacker.com/the-difference-between-razor-burn-and-razor-bumps-and-1850750449)
