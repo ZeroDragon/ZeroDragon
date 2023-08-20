@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Designing an Autocomplete UI Component 🔍](https://dev.to/vikas2426/designing-an-autocomplete-ui-component-2fbd)
+- [Dev.to/JS] [demo](https://dev.to/sarthakskumar/demo-3ego)
+- [Dev.to/JS] [6 New Syntax Changes in Web Development](https://dev.to/mojodev/6-new-syntax-changes-in-web-development-3p6c)
 - [Dev.to/JS] [Honor 80GT](https://dev.to/emilia15903261/honor-80gt-4gii)
 - [Dev.to/JS] [Building a Testimonials Carousel with React, Nuka Carousel, and Tailwind CSS](https://dev.to/ryaddev/building-a-testimonials-carousel-with-react-nuka-carousel-and-tailwind-css-1e7)
 - [Dev.to/JS] [Strings](https://dev.to/sarathsantoshdamaraju/strings-23o4)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring the Top 5 WebSocket Implementations Using JavaScript for Real-Time Communication](https://dev.to/harshahegde/exploring-the-top-5-websocket-implementations-using-javascript-for-real-time-communication-4o4f)
 - [Dev.to/JS] [What are the differences between UglifyJS and JShaman?](https://dev.to/__28f08df2bb06aae67f97/what-are-the-differences-between-uglifyjs-and-jshaman-koc)
 - [Dev.to/JS] [Dịch biển số xe](https://dev.to/dichbiensoxe1/dich-bien-so-xe-gce)
-- [Dev.to/JS] [🚀 Revolutionizing Frontend Development: Embrace the Micro Frontend Evolution! 🚀](https://dev.to/anjankarmakar/revolutionizing-frontend-development-embrace-the-micro-frontend-evolution-4o7m)
-- [Dev.to/JS] [Types, Values, and Variables in JavaScript](https://dev.to/better678/types-values-and-variables-in-javascript-123g)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Sunday, August 20](https://lifehacker.com/wordle-answer-today-august-20-2023-1850755125)
-- [Dev.to/JS] [Event bubbling for Dummies](https://dev.to/carstenbehrens/event-bubbling-for-dummies-4o1c)
 - [Lifehacker] [Hertz Is Giving Some Rental Cars a Free Extra Day](https://lifehacker.com/hertz-is-giving-some-rental-cars-a-free-extra-day-1850750263)
 - [Lifehacker] [Why Your TV Remote Still Won&#39;t Work With New Batteries](https://lifehacker.com/why-your-tv-remote-still-wont-work-with-new-batteries-1850750442)
 - [Lifehacker] [The Difference Between Razor Burn and Razor Bumps &lpar;and How to Avoid Both&rpar;](https://lifehacker.com/the-difference-between-razor-burn-and-razor-bumps-and-1850750449)
