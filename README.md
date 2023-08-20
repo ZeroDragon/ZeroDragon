@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Demystifying React Custom Hooks In 2023](https://dev.to/omprakash2929/demystifying-react-custom-hooks-in-2023-1jh8)
+- [Dev.to/JS] [Revolutionizing Frontend Development: Embrace the Micro Frontend Evolution 🚀](https://dev.to/anjankarmakar/revolutionizing-frontend-development-embrace-the-micro-frontend-evolution-286c)
 - [Dev.to/JS] [Designing an Autocomplete UI Component 🔍](https://dev.to/vikas2426/designing-an-autocomplete-ui-component-2fbd)
 - [Dev.to/JS] [demo](https://dev.to/sarthakskumar/demo-3ego)
 - [Dev.to/JS] [6 New Syntax Changes in Web Development](https://dev.to/mojodev/6-new-syntax-changes-in-web-development-3p6c)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [User Guides in Code Documentation: Empowering Users with Usage Instructions](https://dev.to/documatic/user-guides-in-code-documentation-empowering-users-with-usage-instructions-3lmo)
 - [Dev.to/JS] [What is CSS Module?](https://dev.to/capscode/what-is-css-module-2k1e)
 - [Dev.to/JS] [Exploring the Top 5 WebSocket Implementations Using JavaScript for Real-Time Communication](https://dev.to/harshahegde/exploring-the-top-5-websocket-implementations-using-javascript-for-real-time-communication-4o4f)
-- [Dev.to/JS] [What are the differences between UglifyJS and JShaman?](https://dev.to/__28f08df2bb06aae67f97/what-are-the-differences-between-uglifyjs-and-jshaman-koc)
-- [Dev.to/JS] [Dịch biển số xe](https://dev.to/dichbiensoxe1/dich-bien-so-xe-gce)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Sunday, August 20](https://lifehacker.com/wordle-answer-today-august-20-2023-1850755125)
 - [Lifehacker] [Hertz Is Giving Some Rental Cars a Free Extra Day](https://lifehacker.com/hertz-is-giving-some-rental-cars-a-free-extra-day-1850750263)
 - [Lifehacker] [Why Your TV Remote Still Won&#39;t Work With New Batteries](https://lifehacker.com/why-your-tv-remote-still-wont-work-with-new-batteries-1850750442)
