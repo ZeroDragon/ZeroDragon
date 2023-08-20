@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Sunday, August 20](https://lifehacker.com/wordle-answer-today-august-20-2023-1850755125)
 - [Dev.to/JS] [Event bubbling for Dummies](https://dev.to/carstenbehrens/event-bubbling-for-dummies-4o1c)
+- [Dev.to/JS] [Scikit-Learn, from Python to JavaScript](https://dev.to/opaul/scikit-learn-from-python-to-javascript-2099)
 - [Dev.to/JS] [React Custom Hook: useHover](https://dev.to/sergeyleschev/react-custom-hook-usehover-27lg)
 - [Dev.to/JS] [&lt; Sending Jwt&#39;s using cookies in NodeJs Explained /&gt;](https://dev.to/stano7_/-sending-jwts-using-cookies-in-nodejs-explained--aml)
 - [Dev.to/JS] [Javascript DOM methods](https://dev.to/syedmuhammadaliraza/javascript-dom-methods-22mc)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HTML Logo &amp; Animation](https://dev.to/surajsingh/sworks-logo-1gnh)
 - [Dev.to/JS] [charts load faster on chainparser now.](https://dev.to/mawut0r/charts-load-faster-on-chainparser-now-3b7k)
 - [Lifehacker] [Hertz Is Giving Some Rental Cars a Free Extra Day](https://lifehacker.com/hertz-is-giving-some-rental-cars-a-free-extra-day-1850750263)
-- [Dev.to/JS] [React - Portals](https://dev.to/brdnicolas/react-portals-3k2d)
 - [Lifehacker] [Why Your TV Remote Still Won&#39;t Work With New Batteries](https://lifehacker.com/why-your-tv-remote-still-wont-work-with-new-batteries-1850750442)
 - [Lifehacker] [The Difference Between Razor Burn and Razor Bumps &lpar;and How to Avoid Both&rpar;](https://lifehacker.com/the-difference-between-razor-burn-and-razor-bumps-and-1850750449)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 19](https://lifehacker.com/wordle-answer-today-august-19-2023-1850751486)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Boost Your Child&#39;s Immune System This School Year](https://lifehacker.com/how-to-boost-your-childs-immune-system-this-school-year-1850749887)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is &#39;Zepotha&#39; a Real Movie?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-zepoth-1850750620)
 - [Lifehacker] [Avoid These Car Insurance Sites When You&#39;re Shopping for Quotes](https://lifehacker.com/avoid-these-car-insurance-sites-when-youre-shopping-for-1850749337)
-- [Lifehacker] [Build Your Strawberry Shortcake on Biscuits Instead](https://lifehacker.com/build-your-strawberry-shortcake-on-biscuits-instead-1850749279)
-- [Lifehacker] [Everyone Needs a ‘Pregnancy Pillow’](https://lifehacker.com/everyone-needs-a-pregnancy-pillow-1850748978)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Build Your Strawberry Shortcake on Biscuits Instead](https://lifehacker.com/build-your-strawberry-shortcake-on-biscuits-instead-1850749279)<!-- TECH-POSTS:END -->
 
 ---
 
