@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Honor 80GT](https://dev.to/emilia15903261/honor-80gt-4gii)
 - [Dev.to/JS] [Building a Testimonials Carousel with React, Nuka Carousel, and Tailwind CSS](https://dev.to/ryaddev/building-a-testimonials-carousel-with-react-nuka-carousel-and-tailwind-css-1e7)
 - [Dev.to/JS] [Strings](https://dev.to/sarathsantoshdamaraju/strings-23o4)
 - [Dev.to/JS] [JS dev learning Swift](https://dev.to/sarathsantoshdamaraju/js-dev-learning-swift-1go7)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Types, Values, and Variables in JavaScript](https://dev.to/better678/types-values-and-variables-in-javascript-123g)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Sunday, August 20](https://lifehacker.com/wordle-answer-today-august-20-2023-1850755125)
 - [Dev.to/JS] [Event bubbling for Dummies](https://dev.to/carstenbehrens/event-bubbling-for-dummies-4o1c)
-- [Dev.to/JS] [Scikit-Learn, from Python to JavaScript](https://dev.to/opaul/scikit-learn-from-python-to-javascript-2099)
 - [Lifehacker] [Hertz Is Giving Some Rental Cars a Free Extra Day](https://lifehacker.com/hertz-is-giving-some-rental-cars-a-free-extra-day-1850750263)
 - [Lifehacker] [Why Your TV Remote Still Won&#39;t Work With New Batteries](https://lifehacker.com/why-your-tv-remote-still-wont-work-with-new-batteries-1850750442)
 - [Lifehacker] [The Difference Between Razor Burn and Razor Bumps &lpar;and How to Avoid Both&rpar;](https://lifehacker.com/the-difference-between-razor-burn-and-razor-bumps-and-1850750449)
