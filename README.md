@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GreptimeDB is now an OpenTelemetry OTLP Metric Backend category: Engineering](https://dev.to/greptime/greptimedb-is-now-an-opentelemetry-otlp-metric-backendcategory-engineering-4b84)
+- [Dev.to/JS] [can anyone help me with api](https://dev.to/sunny070/can-anyone-help-me-with-api-2cl7)
 - [Dev.to/JS] [Conditional Statements: Making Decisions in JavaScript 😎🔀](https://dev.to/aswin2001barath/conditional-statements-making-decisions-in-javascript-2l8m)
 - [Dev.to/JS] [Mastering JavaScript Data Types: Unveiling the Magic! ✨](https://dev.to/aswin2001barath/mastering-javascript-data-types-unveiling-the-magic-1i3m)
 - [Dev.to/JS] [Understanding Variables in JavaScript: The Var, Let, and Const Adventure!](https://dev.to/aswin2001barath/understanding-variables-in-javascript-the-var-let-and-const-adventure-1a4d)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 5 JavaScript Courses on Udemy -  Is it worth it?](https://dev.to/aswin2001barath/top-5-javascript-courses-on-udemy-is-it-worth-it-3523)
 - [Dev.to/JS] [WordPress](https://dev.to/steven_rivera_5d71072a2fc/wordpress-30j4)
 - [Dev.to/JS] [Cómo “Reactcionar” - Kent C. Dodds - 3.11.2021](https://dev.to/ccaracach/como-reactcionar-kent-c-dodds-3112021-36bl)
-- [Dev.to/JS] [Lets #HackTogether: Javascript On Azure Keynote](https://dev.to/azure/lets-hacktogether-javascript-on-azure-keynote-nml)
-- [Dev.to/JS] [React Props vs State](https://dev.to/imevanc/react-props-vs-state-jn)
 - [Lifehacker] [The Best Way to Sharpen Scissors](https://lifehacker.com/the-best-way-to-sharpen-scissors-1850750372)
 - [Lifehacker] [The First Things to Do If a Natural Disaster Occurs While You&#39;re on Vacation](https://lifehacker.com/the-first-things-to-do-if-a-natural-disaster-occurs-whi-1850750329)
 - [Crazy Programmer] [10 Best Laptops for Coding and Programming in India 2023](https://www.thecrazyprogrammer.com/2023/08/best-laptop-for-programming.html)
