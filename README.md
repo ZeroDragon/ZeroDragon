@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 5 JavaScript Courses on Udemy -  Is it worth it?](https://dev.to/aswin2001barath/top-5-javascript-courses-on-udemy-is-it-worth-it-3523)
 - [Dev.to/JS] [WordPress](https://dev.to/steven_rivera_5d71072a2fc/wordpress-30j4)
 - [Dev.to/JS] [Cómo “Reactcionar” - Kent C. Dodds - 3.11.2021](https://dev.to/ccaracach/como-reactcionar-kent-c-dodds-3112021-36bl)
 - [Dev.to/JS] [Lets #HackTogether: Javascript On Azure Keynote](https://dev.to/azure/lets-hacktogether-javascript-on-azure-keynote-nml)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Barrel - Best Way to Import Files in Modern JavaScript Apps](https://dev.to/akdevcraft/barrel-best-way-to-import-files-in-modern-javascript-apps-3592)
 - [Lifehacker] [The Best Way to Sharpen Scissors](https://lifehacker.com/the-best-way-to-sharpen-scissors-1850750372)
 - [Lifehacker] [The First Things to Do If a Natural Disaster Occurs While You&#39;re on Vacation](https://lifehacker.com/the-first-things-to-do-if-a-natural-disaster-occurs-whi-1850750329)
-- [Dev.to/JS] [JavaScript Operators: A Comprehensive Guide](https://dev.to/arsalanmee/javascript-operators-a-comprehensive-guide-592l)
 - [Crazy Programmer] [10 Best Laptops for Coding and Programming in India 2023](https://www.thecrazyprogrammer.com/2023/08/best-laptop-for-programming.html)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Sunday, August 20](https://lifehacker.com/wordle-answer-today-august-20-2023-1850755125)
 - [Lifehacker] [The Worst Places in Your Kitchen to Put a Microwave](https://lifehacker.com/the-worst-places-in-your-kitchen-to-put-a-microwave-1850750424)
