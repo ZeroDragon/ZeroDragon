@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Differences Between Mobile App and Web app Development](https://dev.to/sparkouttech/differences-between-mobile-app-and-web-app-development-2k40)
+- [Dev.to/JS] [A Deep Dive into componentDidMount and useEffect in React](https://dev.to/basskibo/a-deep-dive-into-componentdidmount-and-useeffect-in-react-4n05)
+- [Dev.to/JS] [Radix for Vue is finally available!](https://dev.to/michalkuncio/radix-for-vue-is-finally-available-28jk)
+- [Dev.to/JS] [How caching on frontend can help you scale your nextjs application well](https://dev.to/rishabh062/how-caching-on-frontend-can-help-you-scale-your-nextjs-application-well-33ei)
 - [Dev.to/JS] [The Benefits of Static Typing: A Developer&#39;s Perspective](https://dev.to/ayitinya/the-benefits-of-static-typing-a-developers-perspective-42f6)
 - [Dev.to/JS] [Complete Guide to JavaScript Promises, Async/await and Promise Methods](https://dev.to/myogeshchavan97/complete-guide-to-javascript-promises-asyncawait-and-promise-methods-5aom)
 - [Dev.to/JS] [#potyk_weekly_tech 2](https://dev.to/potykion/potykweeklytech-2-3hkn)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [can anyone help me with api](https://dev.to/sunny070/can-anyone-help-me-with-api-2cl7)
 - [Dev.to/JS] [Conditional Statements: Making Decisions in JavaScript 😎🔀](https://dev.to/aswin2001barath/conditional-statements-making-decisions-in-javascript-2l8m)
 - [Dev.to/JS] [Mastering JavaScript Data Types: Unveiling the Magic! ✨](https://dev.to/aswin2001barath/mastering-javascript-data-types-unveiling-the-magic-1i3m)
-- [Dev.to/JS] [Understanding Variables in JavaScript: The Var, Let, and Const Adventure!](https://dev.to/aswin2001barath/understanding-variables-in-javascript-the-var-let-and-const-adventure-1a4d)
-- [Dev.to/JS] [Numerals in JavaScript](https://dev.to/better678/numerals-in-javascript-5519)
-- [Dev.to/JS] [Introduction to JavaScript: The Fundamentals You Need to Know](https://dev.to/aswin2001barath/introduction-to-javascript-the-fundamentals-you-need-to-know-23cg)
-- [Dev.to/JS] [Continuous Integration and Deployment for React Native Apps: Streamlining Development Workflow 🚀🔄](https://dev.to/medaimane/continuous-integration-and-deployment-for-react-native-apps-streamlining-development-workflow-4i04)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Monday, August 21](https://lifehacker.com/wordle-answer-today-monday-august-21-2023-1850756575)
 - [Lifehacker] [The Best Way to Sharpen Scissors](https://lifehacker.com/the-best-way-to-sharpen-scissors-1850750372)
 - [Lifehacker] [The First Things to Do If a Natural Disaster Occurs While You&#39;re on Vacation](https://lifehacker.com/the-first-things-to-do-if-a-natural-disaster-occurs-whi-1850750329)
