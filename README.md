@@ -26,7 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Guess the Band](https://dev.to/froglegs1/guess-the-band-3geb)
 - [Dev.to/JS] [React Custom Hook: useMediaQuery](https://dev.to/sergeyleschev/react-custom-hook-usemediaquery-1pbo)
+- [Lifehacker] [The Best Ways to Keep Plants Alive During a Heatwave](https://lifehacker.com/the-best-ways-to-keep-plants-alive-during-a-heatwave-1850756764)
 - [Dev.to/JS] [JavaScript Validation](https://dev.to/nziokidennis/javascript-validation-39ka)
 - [Dev.to/JS] [A Decade of Transformation: How JavaScript Revolutionized Software Development](https://dev.to/jsdevjournal/a-decade-of-transformation-how-javascript-revolutionized-software-development-5609)
 - [Lifehacker] [The Best Tools to Make Moving a Lot Easier](https://lifehacker.com/the-best-tools-to-make-moving-a-lot-easier-1850758392)
@@ -45,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using .filter in React](https://dev.to/mikeu28/using-filter-in-react-59k4)
 - [Lifehacker] [What the Fed&#39;s Rate Increase Means for Your Savings Account](https://lifehacker.com/what-the-feds-rate-increase-means-for-your-savings-acco-1850758430)
 - [Lifehacker] [There’s No Such Thing As a ‘Normal’ Body Count](https://lifehacker.com/there-s-no-such-thing-as-a-normal-body-count-1849470386)
-- [Dev.to/JS] [🚀 2 Tricks to build an Ebay clone in 30 Minutes 🚀](https://dev.to/byteflowinc/2-tricks-to-build-an-ebay-clone-in-30-minutes-2fnp)
 - [Lifehacker] [How to Help Your Kid Recognize Toxic Friendships](https://lifehacker.com/how-to-help-your-kid-recognize-toxic-friendships-1850757781)
 - [Lifehacker] [The Noiselab Music Production Hub Is $59.99 Right Now](https://lifehacker.com/the-noiselab-music-production-hub-is-59-99-right-now-1850743770)
 - [Lifehacker] [How to Make Pesto Out of Any Leafy, Green Herb](https://lifehacker.com/make-green-pesto-from-just-about-anything-with-these-ra-1704523343)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Refurbished 7th-Gen iPad Is $270 Right Now](https://lifehacker.com/this-refurbished-7th-gen-ipad-is-270-right-now-1850743908)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Monday, August 21](https://lifehacker.com/wordle-answer-today-monday-august-21-2023-1850756575)
 - [Lifehacker] [The Best Way to Sharpen Scissors](https://lifehacker.com/the-best-way-to-sharpen-scissors-1850750372)
-- [Lifehacker] [The First Things to Do If a Natural Disaster Occurs While You&#39;re on Vacation](https://lifehacker.com/the-first-things-to-do-if-a-natural-disaster-occurs-whi-1850750329)
-- [Crazy Programmer] [10 Best Laptops for Coding and Programming in India 2023](https://www.thecrazyprogrammer.com/2023/08/best-laptop-for-programming.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The First Things to Do If a Natural Disaster Occurs While You&#39;re on Vacation](https://lifehacker.com/the-first-things-to-do-if-a-natural-disaster-occurs-whi-1850750329)<!-- TECH-POSTS:END -->
 
 ---
 
