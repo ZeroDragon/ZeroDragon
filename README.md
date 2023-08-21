@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Five iOS 17 Features That Won’t Be Available on Launch Day](https://lifehacker.com/the-ios-17-features-that-won-t-be-available-on-launch-d-1850757015)
+- [Dev.to/JS] [GraphQL - ReactJS | Update and Delete](https://dev.to/shubhamtiwari909/graphql-reactjs-update-and-delete-19al)
+- [Dev.to/JS] [GraphQL - ReactJS | Add Data](https://dev.to/shubhamtiwari909/graphql-reactjs-add-data-49d0)
+- [Dev.to/JS] [DOM traversal in JavaScript](https://dev.to/accreditly/dom-traversal-in-javascript-3b00)
+- [Dev.to/JS] [Day 30: Generator](https://dev.to/dhrn/day-30-generator-52kb)
+- [Lifehacker] [The Best Ways to Get Something You Dropped Down the Drain](https://lifehacker.com/the-best-ways-to-get-something-you-dropped-down-the-dra-1850756429)
+- [Lifehacker] [The Safest Places to Be During an Earthquake](https://lifehacker.com/how-to-prepare-for-and-survive-an-earthquake-1848444086)
 - [Lifehacker] [Ten Myths About ‘Gifted’ Kids We Need to Debunk](https://lifehacker.com/all-the-myths-about-gifted-kids-we-need-to-debunk-1850754215)
 - [Dev.to/JS] [Cookies vs Local Storage in JavaScript](https://dev.to/diwakarkashyap/cookies-vs-local-storage-in-javascript-3m0h)
 - [Dev.to/JS] [🦄 How ToolJet Gained 20,000 GitHub Stars and 400 Contributors](https://dev.to/tooljet/how-tooljet-gained-20000-github-stars-and-400-contributors-4ee0)
@@ -36,12 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Harnessing the Power of Machine Learning: A Guide to Machine Learning Libraries for JavaScript](https://dev.to/harshahegde/harnessing-the-power-of-machine-learning-a-guide-to-machine-learning-libraries-for-javascript-no7)
 - [Dev.to/JS] [🔥🤖 Automate MEMEs posting to your Discord with NodeJS and Novu 🚀🚀](https://dev.to/novu/automate-memes-posting-to-your-discord-with-nodejs-and-novu-28hi)
 - [Dev.to/JS] [Electron: How to Detect Quick Look Window Close After previewFile Called?](https://dev.to/devcodef1/electron-how-to-detect-quick-look-window-close-after-previewfile-called-16ag)
-- [Dev.to/JS] [#LearnedToday: EyeDropper Browser API](https://dev.to/danielzotti/learnedtoday-eyedropper-browser-api-5h06)
 - [Lifehacker] [Make Better Ice Cream Sandwiches With Griddled Arepas](https://lifehacker.com/make-better-ice-cream-sandwiches-with-griddled-arepas-1850753723)
-- [Dev.to/JS] [Object Destructuring in JavaScript](https://dev.to/mbuguadennis/object-destructuring-in-javascript-4pl9)
-- [Dev.to/JS] [Pop-up Modal: Using HTML, CSS, and JavaScript to Create a Modal.](https://dev.to/ediomojose/pop-up-modal-using-html-css-and-javascript-to-create-a-modal-19gd)
 - [Lifehacker] [This Refurbished 7th-Gen iPad Is $270 Right Now](https://lifehacker.com/this-refurbished-7th-gen-ipad-is-270-right-now-1850743908)
-- [Dev.to/JS] [Compatibility of Swiper with Hotwired turbo](https://dev.to/devcodef1/compatibility-of-swiper-with-hotwired-turbo-5hco)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Monday, August 21](https://lifehacker.com/wordle-answer-today-monday-august-21-2023-1850756575)
 - [Lifehacker] [The Best Way to Sharpen Scissors](https://lifehacker.com/the-best-way-to-sharpen-scissors-1850750372)
 - [Lifehacker] [The First Things to Do If a Natural Disaster Occurs While You&#39;re on Vacation](https://lifehacker.com/the-first-things-to-do-if-a-natural-disaster-occurs-whi-1850750329)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This AquaSonic Toothbrush Is $25 Right Now](https://lifehacker.com/this-aquasonic-toothbrush-is-25-right-now-1850743710)
 - [Lifehacker] [How to Write an Online Listing so Your Stuff Actually Sells](https://lifehacker.com/how-to-write-an-online-listing-so-your-stuff-actually-s-1850751636)
 - [Lifehacker] [Make Fromage Fort, the Cheese Spread Made With Scraps](https://lifehacker.com/fromage-fort-is-an-amazing-spread-made-from-cheese-plat-1821052207)
-- [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
-- [Lifehacker] [All the Ways You Should Stormproof Your Home](https://lifehacker.com/all-the-ways-you-should-stormproof-your-home-1850752104)
-- [Lifehacker] [Where to Place Fans in Your Home for Maximum Cooling](https://lifehacker.com/where-to-place-fans-in-your-home-for-maximum-cooling-1849338791)
-- [Lifehacker] [The &#39;BeFake&#39; App Is the Opposite of BeReal](https://lifehacker.com/the-befake-app-is-the-opposite-of-bereal-1850751838)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341)<!-- TECH-POSTS:END -->
 
 ---
 
