@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make Better Ice Cream Sandwiches With Griddled Arepas](https://lifehacker.com/make-better-ice-cream-sandwiches-with-griddled-arepas-1850753723)
+- [Dev.to/JS] [Object Destructuring in JavaScript](https://dev.to/mbuguadennis/object-destructuring-in-javascript-4pl9)
+- [Dev.to/JS] [Pop-up Modal: Using HTML, CSS, and JavaScript to Create a Modal.](https://dev.to/ediomojose/pop-up-modal-using-html-css-and-javascript-to-create-a-modal-19gd)
+- [Lifehacker] [This Refurbished 7th-Gen iPad Is $270 Right Now](https://lifehacker.com/this-refurbished-7th-gen-ipad-is-270-right-now-1850743908)
+- [Dev.to/JS] [Compatibility of Swiper with Hotwired turbo](https://dev.to/devcodef1/compatibility-of-swiper-with-hotwired-turbo-5hco)
 - [Dev.to/JS] [Improving Performance of Nuxt with NuxtImage 🚀](https://dev.to/jacobandrewsky/improving-performance-of-nuxt-with-nuxtimage-1ai0)
 - [Dev.to/JS] [React JS Clean Code Guide](https://dev.to/harendra21/react-js-clean-code-guide-7cl)
 - [Dev.to/JS] [HOW HTML FILES RENDER IN BROWSER &lpar;DOM&rpar;](https://dev.to/sameerkali/how-html-files-render-in-browser-dom-55e8)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Differences Between Mobile App and Web app Development](https://dev.to/sparkouttech/differences-between-mobile-app-and-web-app-development-2k40)
 - [Dev.to/JS] [A Deep Dive into componentDidMount and useEffect in React](https://dev.to/basskibo/a-deep-dive-into-componentdidmount-and-useeffect-in-react-4n05)
 - [Dev.to/JS] [Radix for Vue is finally available!](https://dev.to/michalkuncio/radix-for-vue-is-finally-available-28jk)
-- [Dev.to/JS] [How caching on frontend can help you scale your nextjs application well](https://dev.to/rishabh062/how-caching-on-frontend-can-help-you-scale-your-nextjs-application-well-33ei)
-- [Dev.to/JS] [The Benefits of Static Typing: A Developer&#39;s Perspective](https://dev.to/ayitinya/the-benefits-of-static-typing-a-developers-perspective-42f6)
-- [Dev.to/JS] [Complete Guide to JavaScript Promises, Async/await and Promise Methods](https://dev.to/myogeshchavan97/complete-guide-to-javascript-promises-asyncawait-and-promise-methods-5aom)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Monday, August 21](https://lifehacker.com/wordle-answer-today-monday-august-21-2023-1850756575)
 - [Lifehacker] [The Best Way to Sharpen Scissors](https://lifehacker.com/the-best-way-to-sharpen-scissors-1850750372)
 - [Lifehacker] [The First Things to Do If a Natural Disaster Occurs While You&#39;re on Vacation](https://lifehacker.com/the-first-things-to-do-if-a-natural-disaster-occurs-whi-1850750329)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Place Fans in Your Home for Maximum Cooling](https://lifehacker.com/where-to-place-fans-in-your-home-for-maximum-cooling-1849338791)
 - [Lifehacker] [The &#39;BeFake&#39; App Is the Opposite of BeReal](https://lifehacker.com/the-befake-app-is-the-opposite-of-bereal-1850751838)
 - [Lifehacker] [iMessage Has a Hidden Bookmarking Feature](https://lifehacker.com/imessage-has-a-hidden-bookmarking-feature-1850751945)
-- [Lifehacker] [You Can Finally Check a Note&#39;s Version History in Google Keep](https://lifehacker.com/you-can-finally-check-a-notes-version-history-in-google-1850751873)
-- [Lifehacker] [This Smart Tripod Mount Is $55 Right Now](https://lifehacker.com/this-smart-tripod-mount-is-55-right-now-1850743546)
-- [Lifehacker] [Earn More Credit Card Points by &#39;Double Dipping&#39;](https://lifehacker.com/earn-more-credit-card-points-by-double-dipping-1850751559)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Finally Check a Note&#39;s Version History in Google Keep](https://lifehacker.com/you-can-finally-check-a-notes-version-history-in-google-1850751873)<!-- TECH-POSTS:END -->
 
 ---
 
