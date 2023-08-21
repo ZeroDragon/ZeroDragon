@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Benefits of Static Typing: A Developer&#39;s Perspective](https://dev.to/ayitinya/the-benefits-of-static-typing-a-developers-perspective-42f6)
+- [Dev.to/JS] [Complete Guide to JavaScript Promises, Async/await and Promise Methods](https://dev.to/myogeshchavan97/complete-guide-to-javascript-promises-asyncawait-and-promise-methods-5aom)
+- [Dev.to/JS] [#potyk_weekly_tech 2](https://dev.to/potykion/potykweeklytech-2-3hkn)
+- [Dev.to/JS] [My npm package for simple state management in React](https://dev.to/skorotkiewicz/my-npm-package-for-simple-state-management-in-react-1h12)
 - [Dev.to/JS] [GreptimeDB is now an OpenTelemetry OTLP Metric Backend category: Engineering](https://dev.to/greptime/greptimedb-is-now-an-opentelemetry-otlp-metric-backendcategory-engineering-4b84)
 - [Dev.to/JS] [can anyone help me with api](https://dev.to/sunny070/can-anyone-help-me-with-api-2cl7)
 - [Dev.to/JS] [Conditional Statements: Making Decisions in JavaScript 😎🔀](https://dev.to/aswin2001barath/conditional-statements-making-decisions-in-javascript-2l8m)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to JavaScript: The Fundamentals You Need to Know](https://dev.to/aswin2001barath/introduction-to-javascript-the-fundamentals-you-need-to-know-23cg)
 - [Dev.to/JS] [Continuous Integration and Deployment for React Native Apps: Streamlining Development Workflow 🚀🔄](https://dev.to/medaimane/continuous-integration-and-deployment-for-react-native-apps-streamlining-development-workflow-4i04)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Monday, August 21](https://lifehacker.com/wordle-answer-today-monday-august-21-2023-1850756575)
-- [Dev.to/JS] [🚀 API Maker - Save Single or Multiple API Records [Bulk Insert] [Post operation]](https://dev.to/apimaker/api-maker-save-single-or-multiple-api-records-bulk-insert-post-operation-45ha)
-- [Dev.to/JS] [Top 5 JavaScript Courses on Udemy -  Is it worth it?](https://dev.to/aswin2001barath/top-5-javascript-courses-on-udemy-is-it-worth-it-3523)
-- [Dev.to/JS] [WordPress](https://dev.to/steven_rivera_5d71072a2fc/wordpress-30j4)
-- [Dev.to/JS] [Cómo “Reactcionar” - Kent C. Dodds - 3.11.2021](https://dev.to/ccaracach/como-reactcionar-kent-c-dodds-3112021-36bl)
 - [Lifehacker] [The Best Way to Sharpen Scissors](https://lifehacker.com/the-best-way-to-sharpen-scissors-1850750372)
 - [Lifehacker] [The First Things to Do If a Natural Disaster Occurs While You&#39;re on Vacation](https://lifehacker.com/the-first-things-to-do-if-a-natural-disaster-occurs-whi-1850750329)
 - [Crazy Programmer] [10 Best Laptops for Coding and Programming in India 2023](https://www.thecrazyprogrammer.com/2023/08/best-laptop-for-programming.html)
