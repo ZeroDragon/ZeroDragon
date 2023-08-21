@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Skoove Premium Piano Lessons Are $150 for Life Right Now](https://lifehacker.com/skoove-premium-piano-lessons-are-150-for-life-right-no-1850743670)
+- [Lifehacker] [The Best Prime Video Original Movies](https://lifehacker.com/best-prime-video-original-movies-1850738750)
 - [Lifehacker] [Five iOS 17 Features That Won’t Be Available on Launch Day](https://lifehacker.com/the-ios-17-features-that-won-t-be-available-on-launch-d-1850757015)
 - [Dev.to/JS] [GraphQL - ReactJS | Update and Delete](https://dev.to/shubhamtiwari909/graphql-reactjs-update-and-delete-19al)
 - [Dev.to/JS] [GraphQL - ReactJS | Add Data](https://dev.to/shubhamtiwari909/graphql-reactjs-add-data-49d0)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Better Potato Salad With Salty Meat](https://lifehacker.com/make-better-potato-salad-with-salty-meat-1850752466)
 - [Lifehacker] [The Best Way to Safely Put Out a Grease Fire](https://lifehacker.com/whats-the-best-way-to-safely-put-out-a-grease-fire-1002810379)
 - [Lifehacker] [This AquaSonic Toothbrush Is $25 Right Now](https://lifehacker.com/this-aquasonic-toothbrush-is-25-right-now-1850743710)
-- [Lifehacker] [How to Write an Online Listing so Your Stuff Actually Sells](https://lifehacker.com/how-to-write-an-online-listing-so-your-stuff-actually-s-1850751636)
-- [Lifehacker] [Make Fromage Fort, the Cheese Spread Made With Scraps](https://lifehacker.com/fromage-fort-is-an-amazing-spread-made-from-cheese-plat-1821052207)
-- [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Write an Online Listing so Your Stuff Actually Sells](https://lifehacker.com/how-to-write-an-online-listing-so-your-stuff-actually-s-1850751636)<!-- TECH-POSTS:END -->
 
 ---
 
