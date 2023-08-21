@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript web API](https://dev.to/syedmuhammadaliraza/javascript-web-api-2iak)
+- [Lifehacker] [What Is That String of Lights in the Sky?](https://lifehacker.com/what-is-string-of-lights-in-sky-starlink-1850757768)
+- [Dev.to/JS] [Build your free link shortener with Next.js and Vercel Postgres](https://dev.to/codegino/build-your-free-link-shortener-with-nextjs-and-vercel-postgres-3991)
+- [Dev.to/JS] [Using .filter in React](https://dev.to/mikeu28/using-filter-in-react-59k4)
+- [Lifehacker] [What the Fed&#39;s Rate Increase Means for Your Savings Account](https://lifehacker.com/what-the-feds-rate-increase-means-for-your-savings-acco-1850758430)
+- [Lifehacker] [There’s No Such Thing As a ‘Normal’ Body Count](https://lifehacker.com/there-s-no-such-thing-as-a-normal-body-count-1849470386)
+- [Dev.to/JS] [🚀 2 Tricks to build an Ebay clone in 30 Minutes 🚀](https://dev.to/byteflowinc/2-tricks-to-build-an-ebay-clone-in-30-minutes-2fnp)
+- [Dev.to/JS] [How do I get my text to connect to the ajax call I am trying to connect from the ajax call to the controller?](https://dev.to/devcodef1/how-do-i-get-my-text-to-connect-to-the-ajax-call-i-am-trying-to-connect-from-the-ajax-call-to-the-controller-2337)
+- [Lifehacker] [How to Help Your Kid Recognize Toxic Friendships](https://lifehacker.com/how-to-help-your-kid-recognize-toxic-friendships-1850757781)
 - [Lifehacker] [The Noiselab Music Production Hub Is $59.99 Right Now](https://lifehacker.com/the-noiselab-music-production-hub-is-59-99-right-now-1850743770)
 - [Lifehacker] [How to Make Pesto Out of Any Leafy, Green Herb](https://lifehacker.com/make-green-pesto-from-just-about-anything-with-these-ra-1704523343)
 - [Dev.to/JS] [Express.js Tutorial with Examples](https://dev.to/kiraaziz/expressjs-tutorial-with-examples-3ghl)
@@ -39,14 +48,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 8 Api Architectural Styles 2023 &lpar;Pt 2&rpar;](https://dev.to/emmanuel_ishola/top-8-api-architectural-styles-pt-2-1426)
 - [Dev.to/JS] [HOW TO BUILD A MEVN APP WITH VITE FRONTEND &lpar;PART 3&rpar;](https://dev.to/isonguyom/how-to-build-a-mevn-app-with-vite-frontend-part-3-j9m)
 - [Lifehacker] [When to Use a Weed Burner on Stubborn Weeds](https://lifehacker.com/when-to-use-a-weed-burner-on-stubborn-weeds-1850756781)
-- [Dev.to/JS] [Explore These 18 Fascinating Public APIs for Your Next Project](https://dev.to/baraa/explore-these-18-fascinating-public-apis-for-your-next-project-1gj5)
-- [Dev.to/JS] [Sorting Array of Objects in Javascript](https://dev.to/devcodef1/sorting-array-of-objects-in-javascript-3454)
 - [Lifehacker] [Skoove Premium Piano Lessons Are $150 for Life Right Now](https://lifehacker.com/skoove-premium-piano-lessons-are-150-for-life-right-no-1850743670)
 - [Lifehacker] [The Best Prime Video Original Movies](https://lifehacker.com/best-prime-video-original-movies-1850738750)
 - [Lifehacker] [Five iOS 17 Features That Won’t Be Available on Launch Day](https://lifehacker.com/the-ios-17-features-that-won-t-be-available-on-launch-d-1850757015)
-- [Dev.to/JS] [GraphQL - ReactJS | Update and Delete](https://dev.to/shubhamtiwari909/graphql-reactjs-update-and-delete-19al)
-- [Dev.to/JS] [GraphQL - ReactJS | Add Data](https://dev.to/shubhamtiwari909/graphql-reactjs-add-data-49d0)
-- [Dev.to/JS] [DOM traversal in JavaScript](https://dev.to/accreditly/dom-traversal-in-javascript-3b00)
 - [Lifehacker] [The Best Ways to Get Something You Dropped Down the Drain](https://lifehacker.com/the-best-ways-to-get-something-you-dropped-down-the-dra-1850756429)
 - [Lifehacker] [The Safest Places to Be During an Earthquake](https://lifehacker.com/how-to-prepare-for-and-survive-an-earthquake-1848444086)
 - [Lifehacker] [Ten Myths About ‘Gifted’ Kids We Need to Debunk](https://lifehacker.com/all-the-myths-about-gifted-kids-we-need-to-debunk-1850754215)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Worst Places in Your Kitchen to Put a Microwave](https://lifehacker.com/the-worst-places-in-your-kitchen-to-put-a-microwave-1850750424)
 - [Lifehacker] [Hertz Is Giving Some Rental Cars a Free Extra Day](https://lifehacker.com/hertz-is-giving-some-rental-cars-a-free-extra-day-1850750263)
 - [Lifehacker] [Why Your TV Remote Still Won&#39;t Work With New Batteries](https://lifehacker.com/why-your-tv-remote-still-wont-work-with-new-batteries-1850750442)
-- [Lifehacker] [The Difference Between Razor Burn and Razor Bumps &lpar;and How to Avoid Both&rpar;](https://lifehacker.com/the-difference-between-razor-burn-and-razor-bumps-and-1850750449)
-- [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 19](https://lifehacker.com/wordle-answer-today-august-19-2023-1850751486)
-- [Lifehacker] [Why Storm Surges Are Worse Than Normal Flooding](https://lifehacker.com/why-storm-surges-are-such-a-big-deal-1829033220)
-- [Lifehacker] [Use &#39;Kaizen&#39; for a Better Workflow](https://lifehacker.com/use-kaizen-for-a-better-workflow-1850752103)
-- [Lifehacker] [This All-Inclusive Dominican Republic Resort Is $80 a Night Right Now](https://lifehacker.com/this-all-inclusive-dominican-republic-resort-is-80-a-n-1850752905)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Difference Between Razor Burn and Razor Bumps &lpar;and How to Avoid Both&rpar;](https://lifehacker.com/the-difference-between-razor-burn-and-razor-bumps-and-1850750449)<!-- TECH-POSTS:END -->
 
 ---
 
