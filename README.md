@@ -26,20 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Ten Myths About ‘Gifted’ Kids We Need to Debunk](https://lifehacker.com/all-the-myths-about-gifted-kids-we-need-to-debunk-1850754215)
+- [Dev.to/JS] [Cookies vs Local Storage in JavaScript](https://dev.to/diwakarkashyap/cookies-vs-local-storage-in-javascript-3m0h)
+- [Dev.to/JS] [🦄 How ToolJet Gained 20,000 GitHub Stars and 400 Contributors](https://dev.to/tooljet/how-tooljet-gained-20000-github-stars-and-400-contributors-4ee0)
+- [Dev.to/JS] [Do More using GitHub Copilot with AI and VS Code](https://dev.to/azure/do-more-using-github-copilot-with-ai-and-vs-code-3498)
+- [Lifehacker] [Seven Ways to Use Basil That Aren&#39;t Making Pesto](https://lifehacker.com/seven-ways-to-use-basil-that-arent-making-pesto-1850753415)
+- [Dev.to/JS] [Why is People&#39;s Keto Gummies So Popular Now?](https://dev.to/peoplesketogummy/why-is-peoples-keto-gummies-so-popular-now-2i1m)
+- [Dev.to/JS] [Launch Faster with Apostrophe Starter Kits](https://dev.to/apostrophecms/launch-faster-with-apostrophe-starter-kits-1n85)
+- [Dev.to/JS] [Harnessing the Power of Machine Learning: A Guide to Machine Learning Libraries for JavaScript](https://dev.to/harshahegde/harnessing-the-power-of-machine-learning-a-guide-to-machine-learning-libraries-for-javascript-no7)
+- [Dev.to/JS] [🔥🤖 Automate MEMEs posting to your Discord with NodeJS and Novu 🚀🚀](https://dev.to/novu/automate-memes-posting-to-your-discord-with-nodejs-and-novu-28hi)
+- [Dev.to/JS] [Electron: How to Detect Quick Look Window Close After previewFile Called?](https://dev.to/devcodef1/electron-how-to-detect-quick-look-window-close-after-previewfile-called-16ag)
+- [Dev.to/JS] [#LearnedToday: EyeDropper Browser API](https://dev.to/danielzotti/learnedtoday-eyedropper-browser-api-5h06)
 - [Lifehacker] [Make Better Ice Cream Sandwiches With Griddled Arepas](https://lifehacker.com/make-better-ice-cream-sandwiches-with-griddled-arepas-1850753723)
 - [Dev.to/JS] [Object Destructuring in JavaScript](https://dev.to/mbuguadennis/object-destructuring-in-javascript-4pl9)
 - [Dev.to/JS] [Pop-up Modal: Using HTML, CSS, and JavaScript to Create a Modal.](https://dev.to/ediomojose/pop-up-modal-using-html-css-and-javascript-to-create-a-modal-19gd)
 - [Lifehacker] [This Refurbished 7th-Gen iPad Is $270 Right Now](https://lifehacker.com/this-refurbished-7th-gen-ipad-is-270-right-now-1850743908)
 - [Dev.to/JS] [Compatibility of Swiper with Hotwired turbo](https://dev.to/devcodef1/compatibility-of-swiper-with-hotwired-turbo-5hco)
-- [Dev.to/JS] [Improving Performance of Nuxt with NuxtImage 🚀](https://dev.to/jacobandrewsky/improving-performance-of-nuxt-with-nuxtimage-1ai0)
-- [Dev.to/JS] [React JS Clean Code Guide](https://dev.to/harendra21/react-js-clean-code-guide-7cl)
-- [Dev.to/JS] [HOW HTML FILES RENDER IN BROWSER &lpar;DOM&rpar;](https://dev.to/sameerkali/how-html-files-render-in-browser-dom-55e8)
-- [Dev.to/JS] [Javascript Advance DOM Manipulation](https://dev.to/dharmikdholu96/javascript-advance-dom-manipulation-1pnd)
-- [Dev.to/JS] [React Vite 404 error upon deploying on GitHub](https://dev.to/devcodef1/react-vite-404-error-upon-deploying-on-github-1dj)
-- [Dev.to/JS] [Why Use NextJs Instead of React for Full Stack Applications](https://dev.to/xplodivity/why-use-nextjs-instead-of-react-for-full-stack-applications-o78)
-- [Dev.to/JS] [Differences Between Mobile App and Web app Development](https://dev.to/sparkouttech/differences-between-mobile-app-and-web-app-development-2k40)
-- [Dev.to/JS] [A Deep Dive into componentDidMount and useEffect in React](https://dev.to/basskibo/a-deep-dive-into-componentdidmount-and-useeffect-in-react-4n05)
-- [Dev.to/JS] [Radix for Vue is finally available!](https://dev.to/michalkuncio/radix-for-vue-is-finally-available-28jk)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Monday, August 21](https://lifehacker.com/wordle-answer-today-monday-august-21-2023-1850756575)
 - [Lifehacker] [The Best Way to Sharpen Scissors](https://lifehacker.com/the-best-way-to-sharpen-scissors-1850750372)
 - [Lifehacker] [The First Things to Do If a Natural Disaster Occurs While You&#39;re on Vacation](https://lifehacker.com/the-first-things-to-do-if-a-natural-disaster-occurs-whi-1850750329)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
 - [Lifehacker] [All the Ways You Should Stormproof Your Home](https://lifehacker.com/all-the-ways-you-should-stormproof-your-home-1850752104)
 - [Lifehacker] [Where to Place Fans in Your Home for Maximum Cooling](https://lifehacker.com/where-to-place-fans-in-your-home-for-maximum-cooling-1849338791)
-- [Lifehacker] [The &#39;BeFake&#39; App Is the Opposite of BeReal](https://lifehacker.com/the-befake-app-is-the-opposite-of-bereal-1850751838)
-- [Lifehacker] [iMessage Has a Hidden Bookmarking Feature](https://lifehacker.com/imessage-has-a-hidden-bookmarking-feature-1850751945)
-- [Lifehacker] [You Can Finally Check a Note&#39;s Version History in Google Keep](https://lifehacker.com/you-can-finally-check-a-notes-version-history-in-google-1850751873)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The &#39;BeFake&#39; App Is the Opposite of BeReal](https://lifehacker.com/the-befake-app-is-the-opposite-of-bereal-1850751838)<!-- TECH-POSTS:END -->
 
 ---
 
