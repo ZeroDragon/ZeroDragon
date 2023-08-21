@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Improving Performance of Nuxt with NuxtImage 🚀](https://dev.to/jacobandrewsky/improving-performance-of-nuxt-with-nuxtimage-1ai0)
+- [Dev.to/JS] [React JS Clean Code Guide](https://dev.to/harendra21/react-js-clean-code-guide-7cl)
 - [Dev.to/JS] [HOW HTML FILES RENDER IN BROWSER &lpar;DOM&rpar;](https://dev.to/sameerkali/how-html-files-render-in-browser-dom-55e8)
+- [Dev.to/JS] [Javascript Advance DOM Manipulation](https://dev.to/dharmikdholu96/javascript-advance-dom-manipulation-1pnd)
 - [Dev.to/JS] [React Vite 404 error upon deploying on GitHub](https://dev.to/devcodef1/react-vite-404-error-upon-deploying-on-github-1dj)
 - [Dev.to/JS] [Why Use NextJs Instead of React for Full Stack Applications](https://dev.to/xplodivity/why-use-nextjs-instead-of-react-for-full-stack-applications-o78)
 - [Dev.to/JS] [Differences Between Mobile App and Web app Development](https://dev.to/sparkouttech/differences-between-mobile-app-and-web-app-development-2k40)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How caching on frontend can help you scale your nextjs application well](https://dev.to/rishabh062/how-caching-on-frontend-can-help-you-scale-your-nextjs-application-well-33ei)
 - [Dev.to/JS] [The Benefits of Static Typing: A Developer&#39;s Perspective](https://dev.to/ayitinya/the-benefits-of-static-typing-a-developers-perspective-42f6)
 - [Dev.to/JS] [Complete Guide to JavaScript Promises, Async/await and Promise Methods](https://dev.to/myogeshchavan97/complete-guide-to-javascript-promises-asyncawait-and-promise-methods-5aom)
-- [Dev.to/JS] [#potyk_weekly_tech 2](https://dev.to/potykion/potykweeklytech-2-3hkn)
-- [Dev.to/JS] [My npm package for simple state management in React](https://dev.to/skorotkiewicz/my-npm-package-for-simple-state-management-in-react-1h12)
-- [Dev.to/JS] [GreptimeDB is now an OpenTelemetry OTLP Metric Backend category: Engineering](https://dev.to/greptime/greptimedb-is-now-an-opentelemetry-otlp-metric-backendcategory-engineering-4b84)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Monday, August 21](https://lifehacker.com/wordle-answer-today-monday-august-21-2023-1850756575)
 - [Lifehacker] [The Best Way to Sharpen Scissors](https://lifehacker.com/the-best-way-to-sharpen-scissors-1850750372)
 - [Lifehacker] [The First Things to Do If a Natural Disaster Occurs While You&#39;re on Vacation](https://lifehacker.com/the-first-things-to-do-if-a-natural-disaster-occurs-whi-1850750329)
