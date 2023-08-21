@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cómo “Reactcionar” - Kent C. Dodds - 3.11.2021](https://dev.to/ccaracach/como-reactcionar-kent-c-dodds-3112021-36bl)
+- [Dev.to/JS] [Lets #HackTogether: Javascript On Azure Keynote](https://dev.to/azure/lets-hacktogether-javascript-on-azure-keynote-nml)
 - [Dev.to/JS] [React Props vs State](https://dev.to/imevanc/react-props-vs-state-jn)
 - [Dev.to/JS] [Harnessing the Power of Node.js for Image and Video Processing](https://dev.to/saint_vandora/harnessing-the-power-of-nodejs-for-image-and-video-processing-1ked)
 - [Dev.to/JS] [Clicking on highlighted text still counts as highlighting while visually no text is selected. How to fix that?](https://dev.to/devcodef1/clicking-on-highlighted-text-still-counts-as-highlighting-while-visually-no-text-is-selected-how-to-fix-that-3kl0)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Operators: A Comprehensive Guide](https://dev.to/arsalanmee/javascript-operators-a-comprehensive-guide-592l)
 - [Crazy Programmer] [10 Best Laptops for Coding and Programming in India 2023](https://www.thecrazyprogrammer.com/2023/08/best-laptop-for-programming.html)
 - [Dev.to/JS] [Streaming SIMD in JS](https://dev.to/tracygjg/streaming-simd-in-js-okj)
-- [Dev.to/JS] [Getting Started with WebSockets in Deno: Tutorial and Examples](https://dev.to/franciscomendes10866/getting-started-with-websockets-in-deno-tutorial-and-examples-4e5i)
-- [Dev.to/JS] [Integrating ChatGPT with React JS for Smarter Conversational Interfaces](https://dev.to/devashishmamgain/integrating-chatgpt-with-react-js-for-smarter-conversational-interfaces-32k0)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Sunday, August 20](https://lifehacker.com/wordle-answer-today-august-20-2023-1850755125)
 - [Lifehacker] [The Worst Places in Your Kitchen to Put a Microwave](https://lifehacker.com/the-worst-places-in-your-kitchen-to-put-a-microwave-1850750424)
 - [Lifehacker] [Hertz Is Giving Some Rental Cars a Free Extra Day](https://lifehacker.com/hertz-is-giving-some-rental-cars-a-free-extra-day-1850750263)
