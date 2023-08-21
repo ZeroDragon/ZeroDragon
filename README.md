@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Monday, August 21](https://lifehacker.com/wordle-answer-today-monday-august-21-2023-1850756575)
+- [Dev.to/JS] [🚀 API Maker - Save Single or Multiple API Records [Bulk Insert] [Post operation]](https://dev.to/apimaker/api-maker-save-single-or-multiple-api-records-bulk-insert-post-operation-45ha)
 - [Dev.to/JS] [Top 5 JavaScript Courses on Udemy -  Is it worth it?](https://dev.to/aswin2001barath/top-5-javascript-courses-on-udemy-is-it-worth-it-3523)
 - [Dev.to/JS] [WordPress](https://dev.to/steven_rivera_5d71072a2fc/wordpress-30j4)
 - [Dev.to/JS] [Cómo “Reactcionar” - Kent C. Dodds - 3.11.2021](https://dev.to/ccaracach/como-reactcionar-kent-c-dodds-3112021-36bl)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Objects and its secret associates](https://dev.to/ms_74/javascript-objects-and-its-secret-associates-3bi2)
 - [Dev.to/JS] [Two Sum Problem](https://dev.to/apatel-ai/two-sum-problem-2p0l)
 - [Dev.to/JS] [Javscript BOM &lpar; Browser Object Model&rpar;](https://dev.to/syedmuhammadaliraza/javscript-dom-browser-object-model-5c6l)
-- [Dev.to/JS] [Barrel - Best Way to Import Files in Modern JavaScript Apps](https://dev.to/akdevcraft/barrel-best-way-to-import-files-in-modern-javascript-apps-3592)
 - [Lifehacker] [The Best Way to Sharpen Scissors](https://lifehacker.com/the-best-way-to-sharpen-scissors-1850750372)
 - [Lifehacker] [The First Things to Do If a Natural Disaster Occurs While You&#39;re on Vacation](https://lifehacker.com/the-first-things-to-do-if-a-natural-disaster-occurs-whi-1850750329)
 - [Crazy Programmer] [10 Best Laptops for Coding and Programming in India 2023](https://www.thecrazyprogrammer.com/2023/08/best-laptop-for-programming.html)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [iMessage Has a Hidden Bookmarking Feature](https://lifehacker.com/imessage-has-a-hidden-bookmarking-feature-1850751945)
 - [Lifehacker] [You Can Finally Check a Note&#39;s Version History in Google Keep](https://lifehacker.com/you-can-finally-check-a-notes-version-history-in-google-1850751873)
 - [Lifehacker] [This Smart Tripod Mount Is $55 Right Now](https://lifehacker.com/this-smart-tripod-mount-is-55-right-now-1850743546)
-- [Lifehacker] [Earn More Credit Card Points by &#39;Double Dipping&#39;](https://lifehacker.com/earn-more-credit-card-points-by-double-dipping-1850751559)
-- [Lifehacker] [When to Buy the 14-Inch MacBook Pro Over the 15-Inch MacBook Air](https://lifehacker.com/when-to-buy-the-14-inch-macbook-pro-over-the-15-inch-ma-1850746532)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Earn More Credit Card Points by &#39;Double Dipping&#39;](https://lifehacker.com/earn-more-credit-card-points-by-double-dipping-1850751559)<!-- TECH-POSTS:END -->
 
 ---
 
