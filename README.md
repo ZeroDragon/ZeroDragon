@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HOW HTML FILES RENDER IN BROWSER &lpar;DOM&rpar;](https://dev.to/sameerkali/how-html-files-render-in-browser-dom-55e8)
+- [Dev.to/JS] [React Vite 404 error upon deploying on GitHub](https://dev.to/devcodef1/react-vite-404-error-upon-deploying-on-github-1dj)
+- [Dev.to/JS] [Why Use NextJs Instead of React for Full Stack Applications](https://dev.to/xplodivity/why-use-nextjs-instead-of-react-for-full-stack-applications-o78)
 - [Dev.to/JS] [Differences Between Mobile App and Web app Development](https://dev.to/sparkouttech/differences-between-mobile-app-and-web-app-development-2k40)
 - [Dev.to/JS] [A Deep Dive into componentDidMount and useEffect in React](https://dev.to/basskibo/a-deep-dive-into-componentdidmount-and-useeffect-in-react-4n05)
 - [Dev.to/JS] [Radix for Vue is finally available!](https://dev.to/michalkuncio/radix-for-vue-is-finally-available-28jk)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#potyk_weekly_tech 2](https://dev.to/potykion/potykweeklytech-2-3hkn)
 - [Dev.to/JS] [My npm package for simple state management in React](https://dev.to/skorotkiewicz/my-npm-package-for-simple-state-management-in-react-1h12)
 - [Dev.to/JS] [GreptimeDB is now an OpenTelemetry OTLP Metric Backend category: Engineering](https://dev.to/greptime/greptimedb-is-now-an-opentelemetry-otlp-metric-backendcategory-engineering-4b84)
-- [Dev.to/JS] [can anyone help me with api](https://dev.to/sunny070/can-anyone-help-me-with-api-2cl7)
-- [Dev.to/JS] [Conditional Statements: Making Decisions in JavaScript 😎🔀](https://dev.to/aswin2001barath/conditional-statements-making-decisions-in-javascript-2l8m)
-- [Dev.to/JS] [Mastering JavaScript Data Types: Unveiling the Magic! ✨](https://dev.to/aswin2001barath/mastering-javascript-data-types-unveiling-the-magic-1i3m)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Monday, August 21](https://lifehacker.com/wordle-answer-today-monday-august-21-2023-1850756575)
 - [Lifehacker] [The Best Way to Sharpen Scissors](https://lifehacker.com/the-best-way-to-sharpen-scissors-1850750372)
 - [Lifehacker] [The First Things to Do If a Natural Disaster Occurs While You&#39;re on Vacation](https://lifehacker.com/the-first-things-to-do-if-a-natural-disaster-occurs-whi-1850750329)
