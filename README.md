@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Conditional Statements: Making Decisions in JavaScript 😎🔀](https://dev.to/aswin2001barath/conditional-statements-making-decisions-in-javascript-2l8m)
+- [Dev.to/JS] [Mastering JavaScript Data Types: Unveiling the Magic! ✨](https://dev.to/aswin2001barath/mastering-javascript-data-types-unveiling-the-magic-1i3m)
+- [Dev.to/JS] [Understanding Variables in JavaScript: The Var, Let, and Const Adventure!](https://dev.to/aswin2001barath/understanding-variables-in-javascript-the-var-let-and-const-adventure-1a4d)
+- [Dev.to/JS] [Numerals in JavaScript](https://dev.to/better678/numerals-in-javascript-5519)
+- [Dev.to/JS] [Introduction to JavaScript: The Fundamentals You Need to Know](https://dev.to/aswin2001barath/introduction-to-javascript-the-fundamentals-you-need-to-know-23cg)
 - [Dev.to/JS] [Continuous Integration and Deployment for React Native Apps: Streamlining Development Workflow 🚀🔄](https://dev.to/medaimane/continuous-integration-and-deployment-for-react-native-apps-streamlining-development-workflow-4i04)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Monday, August 21](https://lifehacker.com/wordle-answer-today-monday-august-21-2023-1850756575)
 - [Dev.to/JS] [🚀 API Maker - Save Single or Multiple API Records [Bulk Insert] [Post operation]](https://dev.to/apimaker/api-maker-save-single-or-multiple-api-records-bulk-insert-post-operation-45ha)
@@ -34,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cómo “Reactcionar” - Kent C. Dodds - 3.11.2021](https://dev.to/ccaracach/como-reactcionar-kent-c-dodds-3112021-36bl)
 - [Dev.to/JS] [Lets #HackTogether: Javascript On Azure Keynote](https://dev.to/azure/lets-hacktogether-javascript-on-azure-keynote-nml)
 - [Dev.to/JS] [React Props vs State](https://dev.to/imevanc/react-props-vs-state-jn)
-- [Dev.to/JS] [Harnessing the Power of Node.js for Image and Video Processing](https://dev.to/saint_vandora/harnessing-the-power-of-nodejs-for-image-and-video-processing-1ked)
-- [Dev.to/JS] [Clicking on highlighted text still counts as highlighting while visually no text is selected. How to fix that?](https://dev.to/devcodef1/clicking-on-highlighted-text-still-counts-as-highlighting-while-visually-no-text-is-selected-how-to-fix-that-3kl0)
-- [Dev.to/JS] [React Custom Hook: useLongPress](https://dev.to/sergeyleschev/react-custom-hook-uselongpress-5c0j)
-- [Dev.to/JS] [JavaScript Objects and its secret associates](https://dev.to/ms_74/javascript-objects-and-its-secret-associates-3bi2)
-- [Dev.to/JS] [Two Sum Problem](https://dev.to/apatel-ai/two-sum-problem-2p0l)
 - [Lifehacker] [The Best Way to Sharpen Scissors](https://lifehacker.com/the-best-way-to-sharpen-scissors-1850750372)
 - [Lifehacker] [The First Things to Do If a Natural Disaster Occurs While You&#39;re on Vacation](https://lifehacker.com/the-first-things-to-do-if-a-natural-disaster-occurs-whi-1850750329)
 - [Crazy Programmer] [10 Best Laptops for Coding and Programming in India 2023](https://www.thecrazyprogrammer.com/2023/08/best-laptop-for-programming.html)
