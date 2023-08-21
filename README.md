@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [A &#39;Going&#39; Travel Membership Is Worth the Cost](https://lifehacker.com/a-going-travel-membership-is-worth-the-cost-1850757626)
+- [Lifehacker] [How to Safely Mount a TV Between Studs](https://lifehacker.com/how-to-mount-a-tv-between-studs-1850756668)
 - [Lifehacker] [Capture Your Family History With These Tools](https://lifehacker.com/capture-your-family-history-with-these-tools-1850754968)
 - [Dev.to/JS] [Supercharge Your File Management with NetFolders: Organize, Secure, and Collaborate](https://dev.to/nopass0/supercharge-your-file-management-with-netfolders-organize-secure-and-collaborate-2l81)
 - [Dev.to/JS] [Top 8 Api Architectural Styles 2023 &lpar;Pt 2&rpar;](https://dev.to/emmanuel_ishola/top-8-api-architectural-styles-pt-2-1426)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use &#39;Kaizen&#39; for a Better Workflow](https://lifehacker.com/use-kaizen-for-a-better-workflow-1850752103)
 - [Lifehacker] [This All-Inclusive Dominican Republic Resort Is $80 a Night Right Now](https://lifehacker.com/this-all-inclusive-dominican-republic-resort-is-80-a-n-1850752905)
 - [Lifehacker] [The Safest Places to Be During a Hurricane](https://lifehacker.com/how-to-stay-safe-during-a-hurricane-1798391969)
-- [Lifehacker] [Netflix Wants to Send You 10 DVDs](https://lifehacker.com/netflix-wants-to-send-you-10-dvds-1850752439)
-- [Lifehacker] [Make Better Potato Salad With Salty Meat](https://lifehacker.com/make-better-potato-salad-with-salty-meat-1850752466)
-- [Lifehacker] [The Best Way to Safely Put Out a Grease Fire](https://lifehacker.com/whats-the-best-way-to-safely-put-out-a-grease-fire-1002810379)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Netflix Wants to Send You 10 DVDs](https://lifehacker.com/netflix-wants-to-send-you-10-dvds-1850752439)<!-- TECH-POSTS:END -->
 
 ---
 
