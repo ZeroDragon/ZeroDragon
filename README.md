@@ -26,9 +26,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When to Fix Wood Rot Without Replacing It](https://lifehacker.com/when-to-fix-wood-rot-without-replacing-it-1850758026)
+- [Lifehacker] [Look for These Red Flags in Any HOA Contract](https://lifehacker.com/look-for-these-red-flags-in-any-hoa-contract-1850756655)
+- [Dev.to/JS] [JavaScipt: Everything you need to know about arrays.](https://dev.to/fullstackjo/javascipt-everything-you-need-to-know-about-arrays-3kh8)
+- [Lifehacker] [The Safest Places to Be During a Tornado](https://lifehacker.com/safest-places-during-tornado-1848493459)
+- [Dev.to/JS] [I don&#39;t always send emails...but when I do, they&#39;re to myself.](https://dev.to/wraith/i-dont-always-send-emailsbut-when-i-do-theyre-to-myself-1ohj)
+- [Dev.to/JS] [11 Ways to Improve Website Performance in Next.js Webpages](https://dev.to/oleanji/11-ways-to-improve-website-performance-in-nextjs-webpages-3i5e)
+- [Dev.to/JS] [Exploring the Latest Trends in Web Development: A Comprehensive Overview](https://dev.to/anzik/exploring-the-latest-trends-in-web-development-a-comprehensive-overview-57ih)
 - [Dev.to/JS] [JavaScript web API](https://dev.to/syedmuhammadaliraza/javascript-web-api-2iak)
 - [Lifehacker] [What Is That String of Lights in the Sky?](https://lifehacker.com/what-is-string-of-lights-in-sky-starlink-1850757768)
-- [Dev.to/JS] [Build your free link shortener with Next.js and Vercel Postgres](https://dev.to/codegino/build-your-free-link-shortener-with-nextjs-and-vercel-postgres-3991)
+- [Dev.to/JS] [Build a free link shortener with Next.js and Vercel Postgres](https://dev.to/codegino/build-your-free-link-shortener-with-nextjs-and-vercel-postgres-3991)
 - [Dev.to/JS] [Using .filter in React](https://dev.to/mikeu28/using-filter-in-react-59k4)
 - [Lifehacker] [What the Fed&#39;s Rate Increase Means for Your Savings Account](https://lifehacker.com/what-the-feds-rate-increase-means-for-your-savings-acco-1850758430)
 - [Lifehacker] [There’s No Such Thing As a ‘Normal’ Body Count](https://lifehacker.com/there-s-no-such-thing-as-a-normal-body-count-1849470386)
@@ -40,13 +47,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Express.js Tutorial with Examples](https://dev.to/kiraaziz/expressjs-tutorial-with-examples-3ghl)
 - [Dev.to/JS] [HTML JavaScript Multiple Draggable Div Icons](https://dev.to/devcodef1/html-javascript-multiple-draggable-div-icons-2ekm)
 - [Dev.to/JS] [Demystifying JavaScript Arrays: A Comprehensive Guide for Beginners and Intermediates](https://dev.to/bolajibolajoko51/demystifying-javascript-arrays-a-comprehensive-guide-for-beginners-and-intermediates-19n5)
-- [Dev.to/JS] [Deep Dive into Data structures using Javascript - Heap](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-heap-17p3)
 - [Lifehacker] [A &#39;Going&#39; Travel Membership Is Worth the Cost](https://lifehacker.com/a-going-travel-membership-is-worth-the-cost-1850757626)
 - [Lifehacker] [How to Safely Mount a TV Between Studs](https://lifehacker.com/how-to-mount-a-tv-between-studs-1850756668)
 - [Lifehacker] [Capture Your Family History With These Tools](https://lifehacker.com/capture-your-family-history-with-these-tools-1850754968)
-- [Dev.to/JS] [Supercharge Your File Management with NetFolders: Organize, Secure, and Collaborate](https://dev.to/nopass0/supercharge-your-file-management-with-netfolders-organize-secure-and-collaborate-2l81)
-- [Dev.to/JS] [Top 8 Api Architectural Styles 2023 &lpar;Pt 2&rpar;](https://dev.to/emmanuel_ishola/top-8-api-architectural-styles-pt-2-1426)
-- [Dev.to/JS] [HOW TO BUILD A MEVN APP WITH VITE FRONTEND &lpar;PART 3&rpar;](https://dev.to/isonguyom/how-to-build-a-mevn-app-with-vite-frontend-part-3-j9m)
 - [Lifehacker] [When to Use a Weed Burner on Stubborn Weeds](https://lifehacker.com/when-to-use-a-weed-burner-on-stubborn-weeds-1850756781)
 - [Lifehacker] [Skoove Premium Piano Lessons Are $150 for Life Right Now](https://lifehacker.com/skoove-premium-piano-lessons-are-150-for-life-right-no-1850743670)
 - [Lifehacker] [The Best Prime Video Original Movies](https://lifehacker.com/best-prime-video-original-movies-1850738750)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The First Things to Do If a Natural Disaster Occurs While You&#39;re on Vacation](https://lifehacker.com/the-first-things-to-do-if-a-natural-disaster-occurs-whi-1850750329)
 - [Crazy Programmer] [10 Best Laptops for Coding and Programming in India 2023](https://www.thecrazyprogrammer.com/2023/08/best-laptop-for-programming.html)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Sunday, August 20](https://lifehacker.com/wordle-answer-today-august-20-2023-1850755125)
-- [Lifehacker] [The Worst Places in Your Kitchen to Put a Microwave](https://lifehacker.com/the-worst-places-in-your-kitchen-to-put-a-microwave-1850750424)
-- [Lifehacker] [Hertz Is Giving Some Rental Cars a Free Extra Day](https://lifehacker.com/hertz-is-giving-some-rental-cars-a-free-extra-day-1850750263)
-- [Lifehacker] [Why Your TV Remote Still Won&#39;t Work With New Batteries](https://lifehacker.com/why-your-tv-remote-still-wont-work-with-new-batteries-1850750442)
-- [Lifehacker] [The Difference Between Razor Burn and Razor Bumps &lpar;and How to Avoid Both&rpar;](https://lifehacker.com/the-difference-between-razor-burn-and-razor-bumps-and-1850750449)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Worst Places in Your Kitchen to Put a Microwave](https://lifehacker.com/the-worst-places-in-your-kitchen-to-put-a-microwave-1850750424)<!-- TECH-POSTS:END -->
 
 ---
 
