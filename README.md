@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Capture Your Family History With These Tools](https://lifehacker.com/capture-your-family-history-with-these-tools-1850754968)
+- [Dev.to/JS] [Supercharge Your File Management with NetFolders: Organize, Secure, and Collaborate](https://dev.to/nopass0/supercharge-your-file-management-with-netfolders-organize-secure-and-collaborate-2l81)
+- [Dev.to/JS] [Top 8 Api Architectural Styles 2023 &lpar;Pt 2&rpar;](https://dev.to/emmanuel_ishola/top-8-api-architectural-styles-pt-2-1426)
+- [Dev.to/JS] [HOW TO BUILD A MEVN APP WITH VITE FRONTEND &lpar;PART 3&rpar;](https://dev.to/isonguyom/how-to-build-a-mevn-app-with-vite-frontend-part-3-j9m)
+- [Lifehacker] [When to Use a Weed Burner on Stubborn Weeds](https://lifehacker.com/when-to-use-a-weed-burner-on-stubborn-weeds-1850756781)
+- [Dev.to/JS] [Explore These 18 Fascinating Public APIs for Your Next Project](https://dev.to/baraa/explore-these-18-fascinating-public-apis-for-your-next-project-1gj5)
+- [Dev.to/JS] [Sorting Array of Objects in Javascript](https://dev.to/devcodef1/sorting-array-of-objects-in-javascript-3454)
 - [Lifehacker] [Skoove Premium Piano Lessons Are $150 for Life Right Now](https://lifehacker.com/skoove-premium-piano-lessons-are-150-for-life-right-no-1850743670)
 - [Lifehacker] [The Best Prime Video Original Movies](https://lifehacker.com/best-prime-video-original-movies-1850738750)
 - [Lifehacker] [Five iOS 17 Features That Won’t Be Available on Launch Day](https://lifehacker.com/the-ios-17-features-that-won-t-be-available-on-launch-d-1850757015)
@@ -40,11 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🦄 How ToolJet Gained 20,000 GitHub Stars and 400 Contributors](https://dev.to/tooljet/how-tooljet-gained-20000-github-stars-and-400-contributors-4ee0)
 - [Dev.to/JS] [Do More using GitHub Copilot with AI and VS Code](https://dev.to/azure/do-more-using-github-copilot-with-ai-and-vs-code-3498)
 - [Lifehacker] [Seven Ways to Use Basil That Aren&#39;t Making Pesto](https://lifehacker.com/seven-ways-to-use-basil-that-arent-making-pesto-1850753415)
-- [Dev.to/JS] [Why is People&#39;s Keto Gummies So Popular Now?](https://dev.to/peoplesketogummy/why-is-peoples-keto-gummies-so-popular-now-2i1m)
-- [Dev.to/JS] [Launch Faster with Apostrophe Starter Kits](https://dev.to/apostrophecms/launch-faster-with-apostrophe-starter-kits-1n85)
-- [Dev.to/JS] [Harnessing the Power of Machine Learning: A Guide to Machine Learning Libraries for JavaScript](https://dev.to/harshahegde/harnessing-the-power-of-machine-learning-a-guide-to-machine-learning-libraries-for-javascript-no7)
-- [Dev.to/JS] [🔥🤖 Automate MEMEs posting to your Discord with NodeJS and Novu 🚀🚀](https://dev.to/novu/automate-memes-posting-to-your-discord-with-nodejs-and-novu-28hi)
-- [Dev.to/JS] [Electron: How to Detect Quick Look Window Close After previewFile Called?](https://dev.to/devcodef1/electron-how-to-detect-quick-look-window-close-after-previewfile-called-16ag)
 - [Lifehacker] [Make Better Ice Cream Sandwiches With Griddled Arepas](https://lifehacker.com/make-better-ice-cream-sandwiches-with-griddled-arepas-1850753723)
 - [Lifehacker] [This Refurbished 7th-Gen iPad Is $270 Right Now](https://lifehacker.com/this-refurbished-7th-gen-ipad-is-270-right-now-1850743908)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Monday, August 21](https://lifehacker.com/wordle-answer-today-monday-august-21-2023-1850756575)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Safest Places to Be During a Hurricane](https://lifehacker.com/how-to-stay-safe-during-a-hurricane-1798391969)
 - [Lifehacker] [Netflix Wants to Send You 10 DVDs](https://lifehacker.com/netflix-wants-to-send-you-10-dvds-1850752439)
 - [Lifehacker] [Make Better Potato Salad With Salty Meat](https://lifehacker.com/make-better-potato-salad-with-salty-meat-1850752466)
-- [Lifehacker] [The Best Way to Safely Put Out a Grease Fire](https://lifehacker.com/whats-the-best-way-to-safely-put-out-a-grease-fire-1002810379)
-- [Lifehacker] [This AquaSonic Toothbrush Is $25 Right Now](https://lifehacker.com/this-aquasonic-toothbrush-is-25-right-now-1850743710)
-- [Lifehacker] [How to Write an Online Listing so Your Stuff Actually Sells](https://lifehacker.com/how-to-write-an-online-listing-so-your-stuff-actually-s-1850751636)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Safely Put Out a Grease Fire](https://lifehacker.com/whats-the-best-way-to-safely-put-out-a-grease-fire-1002810379)<!-- TECH-POSTS:END -->
 
 ---
 
