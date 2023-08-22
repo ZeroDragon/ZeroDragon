@@ -26,18 +26,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Cracked Free Download Softwares](https://dev.to/noorenfatima/cracked-free-download-softwares-2am2)
-- [Dev.to/JS] [React Native Maps: Easy Bird&#39;s Eye View Animation](https://dev.to/noahvelasco/react-native-maps-easy-birds-eye-view-animation-23dj)
-- [Dev.to/JS] [Maximizing React Component Efficiency with the useRef Hook](https://dev.to/rolxmehh/maximizing-react-component-efficiency-with-the-useref-hook-32ck)
-- [Dev.to/JS] [Let&#39;s Make Learning Frontend Great Again!](https://dev.to/livecodes_io/lets-make-learning-frontend-great-again-3l3k)
-- [Dev.to/JS] [How often do you use Electron?](https://dev.to/justcode_27/how-often-do-you-use-electron-5bhe)
-- [Dev.to/JS] [Create new Turborepo Monorepo with no example layout](https://dev.to/smarthomedan/create-new-turborepo-monorepo-with-no-example-layout-25b2)
-- [Dev.to/JS] [Base64 in Programming Languages](https://dev.to/ocaso/base64-in-programming-languages-2nh)
-- [Dev.to/JS] [JavaScript Objects: A Comprehensive Guide](https://dev.to/devshefali/javascript-objects-a-comprehensive-guide-21mo)
-- [Dev.to/JS] [Inside the V8 Engine: Unveiling the Core of Chrome Browser&#39;s Performance](https://dev.to/shishsingh/inside-the-v8-engine-unveiling-the-core-of-chrome-browsers-performance-4gn1)
-- [Dev.to/JS] [Best Scheduling Libraries for Frontend Developers](https://dev.to/bryntum_ab/best-scheduling-libraries-for-frontend-developers-1214)
-- [Dev.to/JS] [Real-Time Updates with Server-Sent Events &lpar;SSE&rpar;: A Practical Guide with Code Examples](https://dev.to/harshahegde/real-time-updates-with-server-sent-events-sse-a-practical-guide-with-code-examples-5dih)
-- [Dev.to/JS] [The `let` Statement in JavaScript](https://dev.to/ocean678/the-let-statement-in-javascript-508j)
+- [Dev.to/JS] [Unlocking React&#39;s Potential with Custom Hooks](https://dev.to/tusharbeladiya/unlocking-reacts-potential-with-custom-hooks-3am0)
+- [Lifehacker] [How to Roast Frozen Broccoli Without It Getting Soggy](https://lifehacker.com/how-to-roast-frozen-broccoli-without-it-getting-soggy-1850759488)
+- [Dev.to/JS] [SourceAI: AI-Driven Code Generation](https://dev.to/aiforme/sourceai-ai-driven-code-generation-8mf)
+- [Dev.to/JS] [Re-imagining Async/Await polyfills](https://dev.to/voltra/re-imagining-asyncawait-polyfills-1phi)
+- [Dev.to/JS] [Internet of Things&lpar;IoT&rpar;](https://dev.to/baljeet975/internet-of-thingsiot-55d3)
+- [Dev.to/JS] [What is Speech Recognition?](https://dev.to/baljeet975/what-is-speech-recognition-426e)
+- [Dev.to/JS] [React Native vs Flutter: Which one is the best or easier?](https://dev.to/baljeet975/react-native-vs-flutter-which-one-is-the-best-or-easier-1bgd)
+- [Dev.to/JS] [Artificial Intelligence and its Advantages](https://dev.to/baljeet975/artificial-intelligence-and-its-advantages-2ng3)
+- [Dev.to/JS] [What is OpenAI? Why do we use OpenAI in Artificial Intelligence?](https://dev.to/baljeet975/what-is-openai-why-do-we-use-openai-in-artificial-intelligence-30gk)
+- [Dev.to/JS] [What are the most common programming languages used in machine learning?](https://dev.to/baljeet975/what-are-the-most-common-programming-languages-used-in-machine-learning-1hlk)
+- [Dev.to/JS] [Visual tracking system](https://dev.to/baljeet975/visual-tracking-system-2eo9)
+- [Dev.to/JS] [Recommender Systems in AI](https://dev.to/baljeet975/recommender-systems-in-ai-207e)
+- [Dev.to/JS] [What are Intelligent Agents? How are they used in AI?](https://dev.to/baljeet975/what-are-intelligent-agents-how-are-they-used-in-ai-9ic)
+- [Lifehacker] [You Can Play Nintendo Switch Games on Your iPad Screen](https://lifehacker.com/you-can-play-nintendo-switch-games-on-your-ipad-screen-1850758688)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Tuesday, August 22](https://lifehacker.com/todays-wordle-hints-and-answer-for-tuesday-august-22-1850757200)
 - [Lifehacker] [The Best Ways to Keep Plants Alive During a Heatwave](https://lifehacker.com/the-best-ways-to-keep-plants-alive-during-a-heatwave-1850756764)
 - [Lifehacker] [The Best Tools to Make Moving a Lot Easier](https://lifehacker.com/the-best-tools-to-make-moving-a-lot-easier-1850758392)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ten Myths About ‘Gifted’ Kids We Need to Debunk](https://lifehacker.com/all-the-myths-about-gifted-kids-we-need-to-debunk-1850754215)
 - [Lifehacker] [Seven Ways to Use Basil That Aren&#39;t Making Pesto](https://lifehacker.com/seven-ways-to-use-basil-that-arent-making-pesto-1850753415)
 - [Lifehacker] [Make Better Ice Cream Sandwiches With Griddled Arepas](https://lifehacker.com/make-better-ice-cream-sandwiches-with-griddled-arepas-1850753723)
-- [Lifehacker] [This Refurbished 7th-Gen iPad Is $270 Right Now](https://lifehacker.com/this-refurbished-7th-gen-ipad-is-270-right-now-1850743908)
-- [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Monday, August 21](https://lifehacker.com/wordle-answer-today-monday-august-21-2023-1850756575)
-- [Lifehacker] [The Best Way to Sharpen Scissors](https://lifehacker.com/the-best-way-to-sharpen-scissors-1850750372)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Refurbished 7th-Gen iPad Is $270 Right Now](https://lifehacker.com/this-refurbished-7th-gen-ipad-is-270-right-now-1850743908)<!-- TECH-POSTS:END -->
 
 ---
 
