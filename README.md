@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Bing Chat Is More Than a ChatGPT Clone](https://lifehacker.com/bing-chat-is-more-than-a-chatgpt-clone-1850760875)
+- [Dev.to/JS] [Simplify Your JavaScript Code with New Array Methods](https://dev.to/gauravrandheer/simplify-your-javascript-code-with-new-array-methods-5hm2)
+- [Dev.to/JS] [Import a Garoon Event to Apple Calendar Bookmarklet](https://dev.to/ahandsel/import-a-garoon-event-to-apple-calendar-bookmarklet-cj0)
+- [Dev.to/JS] [Day 31: Async Await](https://dev.to/dhrn/day-31-async-await-2934)
+- [Lifehacker] [Here’s How Many Miles Your New Car Can Last](https://lifehacker.com/how-many-miles-a-new-car-will-last-1850759649)
+- [Dev.to/JS] [A deep-dive on a Progressive Web App implementation for a React-based App Platform &lpar;DHIS2&rpar;](https://dev.to/kaivandivier/a-deep-dive-on-a-progressive-web-app-implementation-for-a-react-based-app-platform-dhis2-1bn6)
+- [Dev.to/JS] [Need to Click Two Times on Checkbox to Get the Data in Textarea](https://dev.to/devcodef1/need-to-click-two-times-on-checkbox-to-get-the-data-in-textarea-ke8)
 - [Dev.to/JS] [Unlocking React&#39;s Potential with Custom Hooks](https://dev.to/tusharbeladiya/unlocking-reacts-potential-with-custom-hooks-3am0)
 - [Lifehacker] [How to Roast Frozen Broccoli Without It Getting Soggy](https://lifehacker.com/how-to-roast-frozen-broccoli-without-it-getting-soggy-1850759488)
 - [Dev.to/JS] [SourceAI: AI-Driven Code Generation](https://dev.to/aiforme/sourceai-ai-driven-code-generation-8mf)
@@ -34,11 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Speech Recognition?](https://dev.to/baljeet975/what-is-speech-recognition-426e)
 - [Dev.to/JS] [React Native vs Flutter: Which one is the best or easier?](https://dev.to/baljeet975/react-native-vs-flutter-which-one-is-the-best-or-easier-1bgd)
 - [Dev.to/JS] [Artificial Intelligence and its Advantages](https://dev.to/baljeet975/artificial-intelligence-and-its-advantages-2ng3)
-- [Dev.to/JS] [What is OpenAI? Why do we use OpenAI in Artificial Intelligence?](https://dev.to/baljeet975/what-is-openai-why-do-we-use-openai-in-artificial-intelligence-30gk)
-- [Dev.to/JS] [What are the most common programming languages used in machine learning?](https://dev.to/baljeet975/what-are-the-most-common-programming-languages-used-in-machine-learning-1hlk)
-- [Dev.to/JS] [Visual tracking system](https://dev.to/baljeet975/visual-tracking-system-2eo9)
-- [Dev.to/JS] [Recommender Systems in AI](https://dev.to/baljeet975/recommender-systems-in-ai-207e)
-- [Dev.to/JS] [What are Intelligent Agents? How are they used in AI?](https://dev.to/baljeet975/what-are-intelligent-agents-how-are-they-used-in-ai-9ic)
 - [Lifehacker] [You Can Play Nintendo Switch Games on Your iPad Screen](https://lifehacker.com/you-can-play-nintendo-switch-games-on-your-ipad-screen-1850758688)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Tuesday, August 22](https://lifehacker.com/todays-wordle-hints-and-answer-for-tuesday-august-22-1850757200)
 - [Lifehacker] [The Best Ways to Keep Plants Alive During a Heatwave](https://lifehacker.com/the-best-ways-to-keep-plants-alive-during-a-heatwave-1850756764)
@@ -62,10 +64,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five iOS 17 Features That Won’t Be Available on Launch Day](https://lifehacker.com/the-ios-17-features-that-won-t-be-available-on-launch-d-1850757015)
 - [Lifehacker] [The Best Ways to Get Something You Dropped Down the Drain](https://lifehacker.com/the-best-ways-to-get-something-you-dropped-down-the-dra-1850756429)
 - [Lifehacker] [The Safest Places to Be During an Earthquake](https://lifehacker.com/how-to-prepare-for-and-survive-an-earthquake-1848444086)
-- [Lifehacker] [Ten Myths About ‘Gifted’ Kids We Need to Debunk](https://lifehacker.com/all-the-myths-about-gifted-kids-we-need-to-debunk-1850754215)
-- [Lifehacker] [Seven Ways to Use Basil That Aren&#39;t Making Pesto](https://lifehacker.com/seven-ways-to-use-basil-that-arent-making-pesto-1850753415)
-- [Lifehacker] [Make Better Ice Cream Sandwiches With Griddled Arepas](https://lifehacker.com/make-better-ice-cream-sandwiches-with-griddled-arepas-1850753723)
-- [Lifehacker] [This Refurbished 7th-Gen iPad Is $270 Right Now](https://lifehacker.com/this-refurbished-7th-gen-ipad-is-270-right-now-1850743908)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Watch $4 Movies for National Cinema Day](https://lifehacker.com/watch-4-movies-for-national-cinema-day-1850760586)
+- [Lifehacker] [Ten Myths About ‘Gifted’ Kids We Need to Debunk](https://lifehacker.com/all-the-myths-about-gifted-kids-we-need-to-debunk-1850754215)<!-- TECH-POSTS:END -->
 
 ---
 
