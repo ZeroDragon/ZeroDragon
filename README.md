@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlocking Your dev.to Portfolio: Elevate Your Web Presence with Integrated Article Showcase](https://dev.to/jcvb/unlocking-your-devto-portfolio-elevate-your-web-presence-with-integrated-article-showcase-2akh)
+- [Dev.to/JS] [Practical steps on how to apply the useParams hook of React router.](https://dev.to/meganad60/practical-steps-on-how-to-apply-the-useparams-hook-of-react-router-101o)
 - [Dev.to/JS] [Navigating the Waters of React: A Beginner&#39;s Expedition](https://dev.to/mola_tonny/navigating-the-waters-of-react-a-beginners-expedition-5589)
 - [Dev.to/JS] [How to Use Formik and Yup in Your React Project](https://dev.to/jesseilc123/how-to-use-formik-and-yup-in-your-react-project-2bbm)
 - [Dev.to/JS] [Understanding Slicing in Python: A Comprehensive Guide](https://dev.to/iamcymentho/understanding-slicing-in-python-a-comprehensive-guide-43nb)
@@ -42,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScipt: Everything you need to know about arrays.](https://dev.to/fullstackjo/javascipt-everything-you-need-to-know-about-arrays-3kh8)
 - [Lifehacker] [The Safest Places to Be During a Tornado](https://lifehacker.com/safest-places-during-tornado-1848493459)
 - [Dev.to/JS] [I don&#39;t always send emails...but when I do, they&#39;re to myself.](https://dev.to/wraith/i-dont-always-send-emailsbut-when-i-do-theyre-to-myself-1ohj)
-- [Dev.to/JS] [11 Ways to Improve Website Performance in Next.js Webpages](https://dev.to/oleanji/11-ways-to-improve-website-performance-in-nextjs-webpages-3i5e)
-- [Dev.to/JS] [Exploring the Latest Trends in Web Development: A Comprehensive Overview](https://dev.to/anzik/exploring-the-latest-trends-in-web-development-a-comprehensive-overview-57ih)
 - [Lifehacker] [What Is That String of Lights in the Sky?](https://lifehacker.com/what-is-string-of-lights-in-sky-starlink-1850757768)
 - [Lifehacker] [What the Fed&#39;s Rate Increase Means for Your Savings Account](https://lifehacker.com/what-the-feds-rate-increase-means-for-your-savings-acco-1850758430)
 - [Lifehacker] [There’s No Such Thing As a ‘Normal’ Body Count](https://lifehacker.com/there-s-no-such-thing-as-a-normal-body-count-1849470386)
