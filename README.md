@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Testing](https://dev.to/bytehouse/testing-3bpe)
+- [Dev.to/JS] [JavaScript Objects: A Comprehensive Guide](https://dev.to/devshefali/javascript-objects-a-comprehensive-guide-21mo)
+- [Dev.to/JS] [Inside the V8 Engine: Unveiling the Core of Chrome Browser&#39;s Performance](https://dev.to/shishsingh/inside-the-v8-engine-unveiling-the-core-of-chrome-browsers-performance-4gn1)
 - [Dev.to/JS] [Best Scheduling Libraries for Frontend Developers](https://dev.to/bryntum_ab/best-scheduling-libraries-for-frontend-developers-1214)
 - [Dev.to/JS] [Real-Time Updates with Server-Sent Events &lpar;SSE&rpar;: A Practical Guide with Code Examples](https://dev.to/harshahegde/real-time-updates-with-server-sent-events-sse-a-practical-guide-with-code-examples-5dih)
 - [Dev.to/JS] [The `let` Statement in JavaScript](https://dev.to/ocean678/the-let-statement-in-javascript-508j)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing Zettel: A Markdown based note taking application for developers.](https://dev.to/shaancodes/introducing-zettel-a-markdown-based-note-taking-application-for-developers-5d6j)
 - [Dev.to/JS] [Mastering AWS Cognito: A Comprehensive Guide](https://dev.to/yanagisawahidetoshi/mastering-aws-cognito-a-comprehensive-guide-3eo6)
 - [Dev.to/JS] [Dev Detective Web-App](https://dev.to/mr_bhadauriya/dev-detective-web-app-gek)
-- [Dev.to/JS] [Learn How to Boost Web Development with Vite.js - A Step-by-Step Guide](https://dev.to/me_janki/learn-how-to-boost-web-development-with-vitejs-a-step-by-step-guide-50l2)
-- [Dev.to/JS] [Font-size slider](https://dev.to/preetsuthar17/font-size-slider-5kf)
-- [Dev.to/JS] [Concatenate new array](https://dev.to/chandrapenugonda/concatenate-new-array-3dmd)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Tuesday, August 22](https://lifehacker.com/todays-wordle-hints-and-answer-for-tuesday-august-22-1850757200)
 - [Lifehacker] [The Best Ways to Keep Plants Alive During a Heatwave](https://lifehacker.com/the-best-ways-to-keep-plants-alive-during-a-heatwave-1850756764)
 - [Lifehacker] [The Best Tools to Make Moving a Lot Easier](https://lifehacker.com/the-best-tools-to-make-moving-a-lot-easier-1850758392)
