@@ -26,6 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Might Want to Spread Out Your Severance Pay](https://lifehacker.com/you-might-want-to-spread-out-your-severance-pay-1850762211)
+- [Dev.to/JS] [How to create web headlines that slides in JavaScript](https://dev.to/pazapp/how-to-create-web-headlines-that-slides-in-javascript-2nfg)
+- [Dev.to/JS] [Mega Transfers: Get the Best Luxury Car Chauffeur in London](https://dev.to/monir454/mega-transfers-get-the-best-luxury-car-chauffeur-in-london-3i6b)
+- [Lifehacker] [This eSIM Card With $50 in Travel Data Credits Is $25 Right Now](https://lifehacker.com/this-esim-card-with-50-in-travel-data-credits-is-25-r-1850753994)
+- [Dev.to/JS] [What&#39;s your experience with JavaScript?](https://dev.to/nhshanto/whats-your-experience-with-javascript-2c8j)
+- [Dev.to/JS] [JavaScript: Your guide to understanding functions.](https://dev.to/fullstackjo/javascript-your-guide-to-understanding-functions-4c5l)
+- [Dev.to/JS] [DotVVM Web Camera with JS Directive](https://dev.to/esdanielgomez/dotvvm-web-camera-with-js-directive-473h)
+- [Lifehacker] [Where to Get Free Stuff on Craigslist &lpar;and Eight Other Sites&rpar;](https://lifehacker.com/ten-websites-where-you-can-find-free-stuff-1848905689)
+- [Lifehacker] [You Can Control Your Tesla With Siri Now](https://lifehacker.com/how-to-control-your-tesla-with-siri-1850760092)
 - [Dev.to/JS] [Skyramp: Test Easy in Any Environment with GitHub Codespaces](https://dev.to/skyrampmia/skyramp-test-easy-in-any-environment-with-github-codespaces-39dc)
 - [Dev.to/JS] [How to Optimize Your Website for Better Performance ?](https://dev.to/shasheeshpurohit/how-to-optimize-your-website-for-better-performance--5575)
 - [Lifehacker] [You Need to Update WinRAR Right Now](https://lifehacker.com/you-need-to-update-winrar-right-now-1850761568)
@@ -33,17 +42,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Four Ways to Preserve All Your Tomatoes at the Same Time](https://lifehacker.com/four-ways-to-preserve-all-your-tomatoes-at-the-same-tim-1850760848)
 - [Dev.to/JS] [Me ajude a conseguir um emprego!](https://dev.to/profhdeivisson/me-ajude-a-conseguir-um-emprego-3kbm)
 - [Lifehacker] [How to Download &#39;Starfield&#39;](https://lifehacker.com/how-to-download-starfield-1850759371)
+- [Dev.to/JS] [How to implement EventSource and SSE in your Frontend and Backend](https://dev.to/lagoni/how-to-implement-eventsource-and-sse-in-your-frontend-and-backend-18co)
 - [Dev.to/JS] [Unleashing the Power of Generator Functions in JavaScript: Cooking Up Code Magic! 🎩](https://dev.to/rajaniraiyn/unleashing-the-power-of-generator-functions-in-javascript-cooking-up-code-magic-110a)
 - [Dev.to/JS] [CSS Lube: Highly-optimized CSS Interpreter](https://dev.to/artxe2/css-lube-highly-optimized-css-interpreter-2nl5)
 - [Lifehacker] [This Eton Elite Executive Radio Is 40% Off Right Now](https://lifehacker.com/this-eton-elite-executive-radio-is-40-off-right-now-1850754002)
-- [Dev.to/JS] [Demystifying API Authentication and Authorization Methods](https://dev.to/dominicazuka/demystifying-api-authentication-and-authorization-methods-1cn2)
-- [Dev.to/JS] [How to Add a React Pivot Table to Your Web Application](https://dev.to/grapecity/how-to-add-a-react-pivot-table-to-your-web-application-1cjp)
 - [Lifehacker] [Threads Is Finally Available on the Web](https://lifehacker.com/threads-is-finally-available-on-the-web-1850761382)
-- [Dev.to/JS] [Javascript&#39;s Complex/Non-Primitive Data Types](https://dev.to/kycodee/javascripts-complexnon-primitive-data-types-3lmk)
 - [Lifehacker] [Bing Chat Is More Than a ChatGPT Clone](https://lifehacker.com/bing-chat-is-more-than-a-chatgpt-clone-1850760875)
-- [Dev.to/JS] [Simplify Your JavaScript Code with New Array Methods](https://dev.to/gauravrandheer/simplify-your-javascript-code-with-new-array-methods-5hm2)
-- [Dev.to/JS] [Import a Garoon Event to Apple Calendar Bookmarklet](https://dev.to/ahandsel/import-a-garoon-event-to-apple-calendar-bookmarklet-cj0)
-- [Dev.to/JS] [Day 31: Async Await](https://dev.to/dhrn/day-31-async-await-2934)
 - [Lifehacker] [Here’s How Many Miles Your New Car Can Last](https://lifehacker.com/how-many-miles-a-new-car-will-last-1850759649)
 - [Lifehacker] [Watch $4 Movies for National Cinema Day](https://lifehacker.com/watch-4-movies-for-national-cinema-day-1850760586)
 - [Lifehacker] [How to Roast Frozen Broccoli Without It Getting Soggy](https://lifehacker.com/how-to-roast-frozen-broccoli-without-it-getting-soggy-1850759488)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Help Your Kid Recognize Toxic Friendships](https://lifehacker.com/how-to-help-your-kid-recognize-toxic-friendships-1850757781)
 - [Lifehacker] [The Noiselab Music Production Hub Is $59.99 Right Now](https://lifehacker.com/the-noiselab-music-production-hub-is-59-99-right-now-1850743770)
 - [Lifehacker] [How to Make Pesto Out of Any Leafy, Green Herb](https://lifehacker.com/make-green-pesto-from-just-about-anything-with-these-ra-1704523343)
-- [Lifehacker] [A &#39;Going&#39; Travel Membership Is Worth the Cost](https://lifehacker.com/a-going-travel-membership-is-worth-the-cost-1850757626)
-- [Lifehacker] [How to Safely Mount a TV Between Studs](https://lifehacker.com/how-to-mount-a-tv-between-studs-1850756668)
-- [Lifehacker] [Capture Your Family History With These Tools](https://lifehacker.com/capture-your-family-history-with-these-tools-1850754968)
-- [Lifehacker] [When to Use a Weed Burner on Stubborn Weeds](https://lifehacker.com/when-to-use-a-weed-burner-on-stubborn-weeds-1850756781)
-- [Lifehacker] [Skoove Premium Piano Lessons Are $150 for Life Right Now](https://lifehacker.com/skoove-premium-piano-lessons-are-150-for-life-right-no-1850743670)<!-- TECH-POSTS:END -->
+- [Lifehacker] [A &#39;Going&#39; Travel Membership Is Worth the Cost](https://lifehacker.com/a-going-travel-membership-is-worth-the-cost-1850757626)<!-- TECH-POSTS:END -->
 
 ---
 
