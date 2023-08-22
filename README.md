@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Skyramp: Test Easy in Any Environment with GitHub Codespaces](https://dev.to/skyrampmia/skyramp-test-easy-in-any-environment-with-github-codespaces-39dc)
+- [Dev.to/JS] [How to Optimize Your Website for Better Performance ?](https://dev.to/shasheeshpurohit/how-to-optimize-your-website-for-better-performance--5575)
+- [Lifehacker] [You Need to Update WinRAR Right Now](https://lifehacker.com/you-need-to-update-winrar-right-now-1850761568)
+- [Dev.to/JS] [How to integrate Clerk in Next JS application ?](https://dev.to/aayusbhat26/how-to-integrate-clerk-in-next-js-application--4hba)
 - [Lifehacker] [Four Ways to Preserve All Your Tomatoes at the Same Time](https://lifehacker.com/four-ways-to-preserve-all-your-tomatoes-at-the-same-tim-1850760848)
 - [Dev.to/JS] [Me ajude a conseguir um emprego!](https://dev.to/profhdeivisson/me-ajude-a-conseguir-um-emprego-3kbm)
 - [Lifehacker] [How to Download &#39;Starfield&#39;](https://lifehacker.com/how-to-download-starfield-1850759371)
@@ -34,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Eton Elite Executive Radio Is 40% Off Right Now](https://lifehacker.com/this-eton-elite-executive-radio-is-40-off-right-now-1850754002)
 - [Dev.to/JS] [Demystifying API Authentication and Authorization Methods](https://dev.to/dominicazuka/demystifying-api-authentication-and-authorization-methods-1cn2)
 - [Dev.to/JS] [How to Add a React Pivot Table to Your Web Application](https://dev.to/grapecity/how-to-add-a-react-pivot-table-to-your-web-application-1cjp)
-- [Dev.to/JS] [Refact: Your AI-Powered Coding Companion](https://dev.to/aiforme/refact-your-ai-powered-coding-companion-5a3o)
 - [Lifehacker] [Threads Is Finally Available on the Web](https://lifehacker.com/threads-is-finally-available-on-the-web-1850761382)
 - [Dev.to/JS] [Javascript&#39;s Complex/Non-Primitive Data Types](https://dev.to/kycodee/javascripts-complexnon-primitive-data-types-3lmk)
 - [Lifehacker] [Bing Chat Is More Than a ChatGPT Clone](https://lifehacker.com/bing-chat-is-more-than-a-chatgpt-clone-1850760875)
@@ -42,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Import a Garoon Event to Apple Calendar Bookmarklet](https://dev.to/ahandsel/import-a-garoon-event-to-apple-calendar-bookmarklet-cj0)
 - [Dev.to/JS] [Day 31: Async Await](https://dev.to/dhrn/day-31-async-await-2934)
 - [Lifehacker] [Here’s How Many Miles Your New Car Can Last](https://lifehacker.com/how-many-miles-a-new-car-will-last-1850759649)
-- [Dev.to/JS] [A deep-dive on a Progressive Web App implementation for a React-based App Platform &lpar;DHIS2&rpar;](https://dev.to/kaivandivier/a-deep-dive-on-a-progressive-web-app-implementation-for-a-react-based-app-platform-dhis2-1bn6)
-- [Dev.to/JS] [Need to Click Two Times on Checkbox to Get the Data in Textarea](https://dev.to/devcodef1/need-to-click-two-times-on-checkbox-to-get-the-data-in-textarea-ke8)
 - [Lifehacker] [Watch $4 Movies for National Cinema Day](https://lifehacker.com/watch-4-movies-for-national-cinema-day-1850760586)
 - [Lifehacker] [How to Roast Frozen Broccoli Without It Getting Soggy](https://lifehacker.com/how-to-roast-frozen-broccoli-without-it-getting-soggy-1850759488)
 - [Lifehacker] [You Can Play Nintendo Switch Games on Your iPad Screen](https://lifehacker.com/you-can-play-nintendo-switch-games-on-your-ipad-screen-1850758688)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Safely Mount a TV Between Studs](https://lifehacker.com/how-to-mount-a-tv-between-studs-1850756668)
 - [Lifehacker] [Capture Your Family History With These Tools](https://lifehacker.com/capture-your-family-history-with-these-tools-1850754968)
 - [Lifehacker] [When to Use a Weed Burner on Stubborn Weeds](https://lifehacker.com/when-to-use-a-weed-burner-on-stubborn-weeds-1850756781)
-- [Lifehacker] [Skoove Premium Piano Lessons Are $150 for Life Right Now](https://lifehacker.com/skoove-premium-piano-lessons-are-150-for-life-right-no-1850743670)
-- [Lifehacker] [The Best Prime Video Original Movies](https://lifehacker.com/best-prime-video-original-movies-1850738750)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Skoove Premium Piano Lessons Are $150 for Life Right Now](https://lifehacker.com/skoove-premium-piano-lessons-are-150-for-life-right-no-1850743670)<!-- TECH-POSTS:END -->
 
 ---
 
