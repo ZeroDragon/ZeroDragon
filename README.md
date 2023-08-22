@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Strings in JavaScript](https://dev.to/better678/strings-in-javascript-3aj7)
 - [Dev.to/JS] [How to enable text selection of the tags in DevExtreme tag box](https://dev.to/devcodef1/how-to-enable-text-selection-of-the-tags-in-devextreme-tag-box-58ma)
 - [Dev.to/JS] [Comment Your JavaScript Code](https://dev.to/ak4bento/comment-your-javascript-code-k0j)
 - [Dev.to/JS] [My Main Takeaways from Game Engine Architecture](https://dev.to/ericbl3/my-main-takeaways-from-game-engine-architecture-9l8)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Guess the Band](https://dev.to/froglegs1/guess-the-band-3geb)
 - [Dev.to/JS] [React Custom Hook: useMediaQuery](https://dev.to/sergeyleschev/react-custom-hook-usemediaquery-1pbo)
 - [Lifehacker] [The Best Ways to Keep Plants Alive During a Heatwave](https://lifehacker.com/the-best-ways-to-keep-plants-alive-during-a-heatwave-1850756764)
-- [Dev.to/JS] [JavaScript Validation](https://dev.to/nziokidennis/javascript-validation-39ka)
 - [Lifehacker] [The Best Tools to Make Moving a Lot Easier](https://lifehacker.com/the-best-tools-to-make-moving-a-lot-easier-1850758392)
 - [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
 - [Lifehacker] [When to Fix Wood Rot Without Replacing It](https://lifehacker.com/when-to-fix-wood-rot-without-replacing-it-1850758026)
