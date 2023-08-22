@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Event Capturing and Event Bubbling in JavaScript: Exploring DOM Event Handling Mechanisms](https://dev.to/endeavourmonk/event-capturing-and-event-bubbling-in-javascript-exploring-dom-event-handling-mechanisms-54la)
+- [Dev.to/JS] [Building What Matters, Not What&#39;s Fun](https://dev.to/lakincoder/building-what-matters-not-whats-fun-172)
+- [Dev.to/JS] [How to Implement Pagination With Reactjs](https://dev.to/canhamzacode/how-to-implement-pagination-with-reactjs-2b04)
+- [Lifehacker] [The Viral Thomas Keller Zucchini Is the Perfect End-of-Summer Side Dish](https://lifehacker.com/the-viral-thomas-keller-zucchini-is-the-perfect-end-of-1850762546)
+- [Dev.to/JS] [What are the best AI Frontend tools you have used?](https://dev.to/ashutoshmishra/what-are-the-best-ai-frontend-tools-you-have-used-40n4)
 - [Lifehacker] [You Might Want to Spread Out Your Severance Pay](https://lifehacker.com/you-might-want-to-spread-out-your-severance-pay-1850762211)
 - [Dev.to/JS] [How to create web headlines that slides in JavaScript](https://dev.to/pazapp/how-to-create-web-headlines-that-slides-in-javascript-2nfg)
 - [Dev.to/JS] [Mega Transfers: Get the Best Luxury Car Chauffeur in London](https://dev.to/monir454/mega-transfers-get-the-best-luxury-car-chauffeur-in-london-3i6b)
@@ -40,11 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need to Update WinRAR Right Now](https://lifehacker.com/you-need-to-update-winrar-right-now-1850761568)
 - [Dev.to/JS] [How to integrate Clerk in Next JS application ?](https://dev.to/aayusbhat26/how-to-integrate-clerk-in-next-js-application--4hba)
 - [Lifehacker] [Four Ways to Preserve All Your Tomatoes at the Same Time](https://lifehacker.com/four-ways-to-preserve-all-your-tomatoes-at-the-same-tim-1850760848)
-- [Dev.to/JS] [Me ajude a conseguir um emprego!](https://dev.to/profhdeivisson/me-ajude-a-conseguir-um-emprego-3kbm)
 - [Lifehacker] [How to Download &#39;Starfield&#39;](https://lifehacker.com/how-to-download-starfield-1850759371)
-- [Dev.to/JS] [How to implement EventSource and SSE in your Frontend and Backend](https://dev.to/lagoni/how-to-implement-eventsource-and-sse-in-your-frontend-and-backend-18co)
-- [Dev.to/JS] [Unleashing the Power of Generator Functions in JavaScript: Cooking Up Code Magic! 🎩](https://dev.to/rajaniraiyn/unleashing-the-power-of-generator-functions-in-javascript-cooking-up-code-magic-110a)
-- [Dev.to/JS] [CSS Lube: Highly-optimized CSS Interpreter](https://dev.to/artxe2/css-lube-highly-optimized-css-interpreter-2nl5)
 - [Lifehacker] [This Eton Elite Executive Radio Is 40% Off Right Now](https://lifehacker.com/this-eton-elite-executive-radio-is-40-off-right-now-1850754002)
 - [Lifehacker] [Threads Is Finally Available on the Web](https://lifehacker.com/threads-is-finally-available-on-the-web-1850761382)
 - [Lifehacker] [Bing Chat Is More Than a ChatGPT Clone](https://lifehacker.com/bing-chat-is-more-than-a-chatgpt-clone-1850760875)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There’s No Such Thing As a ‘Normal’ Body Count](https://lifehacker.com/there-s-no-such-thing-as-a-normal-body-count-1849470386)
 - [Lifehacker] [How to Help Your Kid Recognize Toxic Friendships](https://lifehacker.com/how-to-help-your-kid-recognize-toxic-friendships-1850757781)
 - [Lifehacker] [The Noiselab Music Production Hub Is $59.99 Right Now](https://lifehacker.com/the-noiselab-music-production-hub-is-59-99-right-now-1850743770)
-- [Lifehacker] [How to Make Pesto Out of Any Leafy, Green Herb](https://lifehacker.com/make-green-pesto-from-just-about-anything-with-these-ra-1704523343)
-- [Lifehacker] [A &#39;Going&#39; Travel Membership Is Worth the Cost](https://lifehacker.com/a-going-travel-membership-is-worth-the-cost-1850757626)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make Pesto Out of Any Leafy, Green Herb](https://lifehacker.com/make-green-pesto-from-just-about-anything-with-these-ra-1704523343)<!-- TECH-POSTS:END -->
 
 ---
 
