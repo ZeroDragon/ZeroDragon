@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Four Ways to Preserve All Your Tomatoes at the Same Time](https://lifehacker.com/four-ways-to-preserve-all-your-tomatoes-at-the-same-tim-1850760848)
+- [Dev.to/JS] [Me ajude a conseguir um emprego!](https://dev.to/profhdeivisson/me-ajude-a-conseguir-um-emprego-3kbm)
+- [Lifehacker] [How to Download &#39;Starfield&#39;](https://lifehacker.com/how-to-download-starfield-1850759371)
+- [Dev.to/JS] [Unleashing the Power of Generator Functions in JavaScript: Cooking Up Code Magic! 🎩](https://dev.to/rajaniraiyn/unleashing-the-power-of-generator-functions-in-javascript-cooking-up-code-magic-110a)
+- [Dev.to/JS] [CSS Lube: Highly-optimized CSS Interpreter](https://dev.to/artxe2/css-lube-highly-optimized-css-interpreter-2nl5)
+- [Lifehacker] [This Eton Elite Executive Radio Is 40% Off Right Now](https://lifehacker.com/this-eton-elite-executive-radio-is-40-off-right-now-1850754002)
 - [Dev.to/JS] [Demystifying API Authentication and Authorization Methods](https://dev.to/dominicazuka/demystifying-api-authentication-and-authorization-methods-1cn2)
 - [Dev.to/JS] [How to Add a React Pivot Table to Your Web Application](https://dev.to/grapecity/how-to-add-a-react-pivot-table-to-your-web-application-1cjp)
 - [Dev.to/JS] [Refact: Your AI-Powered Coding Companion](https://dev.to/aiforme/refact-your-ai-powered-coding-companion-5a3o)
@@ -38,11 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s How Many Miles Your New Car Can Last](https://lifehacker.com/how-many-miles-a-new-car-will-last-1850759649)
 - [Dev.to/JS] [A deep-dive on a Progressive Web App implementation for a React-based App Platform &lpar;DHIS2&rpar;](https://dev.to/kaivandivier/a-deep-dive-on-a-progressive-web-app-implementation-for-a-react-based-app-platform-dhis2-1bn6)
 - [Dev.to/JS] [Need to Click Two Times on Checkbox to Get the Data in Textarea](https://dev.to/devcodef1/need-to-click-two-times-on-checkbox-to-get-the-data-in-textarea-ke8)
-- [Dev.to/JS] [Unlocking React&#39;s Potential with Custom Hooks](https://dev.to/tusharbeladiya/unlocking-reacts-potential-with-custom-hooks-3am0)
 - [Lifehacker] [Watch $4 Movies for National Cinema Day](https://lifehacker.com/watch-4-movies-for-national-cinema-day-1850760586)
 - [Lifehacker] [How to Roast Frozen Broccoli Without It Getting Soggy](https://lifehacker.com/how-to-roast-frozen-broccoli-without-it-getting-soggy-1850759488)
-- [Dev.to/JS] [SourceAI: AI-Driven Code Generation](https://dev.to/aiforme/sourceai-ai-driven-code-generation-8mf)
-- [Dev.to/JS] [Re-imagining Async/Await polyfills](https://dev.to/voltra/re-imagining-asyncawait-polyfills-1phi)
 - [Lifehacker] [You Can Play Nintendo Switch Games on Your iPad Screen](https://lifehacker.com/you-can-play-nintendo-switch-games-on-your-ipad-screen-1850758688)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Tuesday, August 22](https://lifehacker.com/todays-wordle-hints-and-answer-for-tuesday-august-22-1850757200)
 - [Lifehacker] [The Best Ways to Keep Plants Alive During a Heatwave](https://lifehacker.com/the-best-ways-to-keep-plants-alive-during-a-heatwave-1850756764)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Capture Your Family History With These Tools](https://lifehacker.com/capture-your-family-history-with-these-tools-1850754968)
 - [Lifehacker] [When to Use a Weed Burner on Stubborn Weeds](https://lifehacker.com/when-to-use-a-weed-burner-on-stubborn-weeds-1850756781)
 - [Lifehacker] [Skoove Premium Piano Lessons Are $150 for Life Right Now](https://lifehacker.com/skoove-premium-piano-lessons-are-150-for-life-right-no-1850743670)
-- [Lifehacker] [The Best Prime Video Original Movies](https://lifehacker.com/best-prime-video-original-movies-1850738750)
-- [Lifehacker] [Five iOS 17 Features That Won’t Be Available on Launch Day](https://lifehacker.com/the-ios-17-features-that-won-t-be-available-on-launch-d-1850757015)
-- [Lifehacker] [The Best Ways to Get Something You Dropped Down the Drain](https://lifehacker.com/the-best-ways-to-get-something-you-dropped-down-the-dra-1850756429)
-- [Lifehacker] [The Safest Places to Be During an Earthquake](https://lifehacker.com/how-to-prepare-for-and-survive-an-earthquake-1848444086)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Prime Video Original Movies](https://lifehacker.com/best-prime-video-original-movies-1850738750)<!-- TECH-POSTS:END -->
 
 ---
 
