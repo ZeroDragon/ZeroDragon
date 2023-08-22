@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get SheetsGPT for $50 Right Now](https://lifehacker.com/you-can-get-sheetsgpt-for-50-right-now-1850743934)
 - [Lifehacker] [Ten Ways You Should Be Using Painter’s Tape](https://lifehacker.com/unexpected-ways-to-use-painters-tape-1850762286)
 - [Lifehacker] [You Can Try a Folding Phone &lpar;Sort of&rpar; Without Buying a Samsung Galaxy Z](https://lifehacker.com/you-can-try-a-folding-phone-sort-of-without-buying-a-1850762885)
 - [Dev.to/JS] [Centering UI Components: A Fun Dive into React&#39;s Flexibility](https://dev.to/othmanadi/-centering-ui-components-a-fun-dive-into-reacts-flexibility-59ib)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to Fix Wood Rot Without Replacing It](https://lifehacker.com/when-to-fix-wood-rot-without-replacing-it-1850758026)
 - [Lifehacker] [Look for These Red Flags in Any HOA Contract](https://lifehacker.com/look-for-these-red-flags-in-any-hoa-contract-1850756655)
 - [Lifehacker] [The Safest Places to Be During a Tornado](https://lifehacker.com/safest-places-during-tornado-1848493459)
-- [Lifehacker] [What Is That String of Lights in the Sky?](https://lifehacker.com/what-is-string-of-lights-in-sky-starlink-1850757768)
-- [Lifehacker] [What the Fed&#39;s Rate Increase Means for Your Savings Account](https://lifehacker.com/what-the-feds-rate-increase-means-for-your-savings-acco-1850758430)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Is That String of Lights in the Sky?](https://lifehacker.com/what-is-string-of-lights-in-sky-starlink-1850757768)<!-- TECH-POSTS:END -->
 
 ---
 
