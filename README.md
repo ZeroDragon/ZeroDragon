@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Guide to Date and Time Formatting in JavaScript](https://dev.to/diorla/a-guide-to-date-and-time-formatting-in-javascript-2ol2)
+- [Dev.to/JS] [How I got into OSPP 2023 with ONLYOFFICE – Experience and Journey](https://dev.to/sawanteeshaan/how-i-got-into-ospp-2023-with-onlyoffice-experience-and-journey-4756)
+- [Dev.to/JS] [React Custom Hook: useOnlineStatus](https://dev.to/sergeyleschev/react-custom-hook-useonlinestatus-59ki)
+- [Lifehacker] [The Best Streaming Deals for August 2023](https://lifehacker.com/best-streaming-deals-1850763728)
 - [Lifehacker] [You Can Get SheetsGPT for $50 Right Now](https://lifehacker.com/you-can-get-sheetsgpt-for-50-right-now-1850743934)
 - [Lifehacker] [Ten Ways You Should Be Using Painter’s Tape](https://lifehacker.com/unexpected-ways-to-use-painters-tape-1850762286)
 - [Lifehacker] [You Can Try a Folding Phone &lpar;Sort of&rpar; Without Buying a Samsung Galaxy Z](https://lifehacker.com/you-can-try-a-folding-phone-sort-of-without-buying-a-1850762885)
@@ -43,11 +47,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This eSIM Card With $50 in Travel Data Credits Is $25 Right Now](https://lifehacker.com/this-esim-card-with-50-in-travel-data-credits-is-25-r-1850753994)
 - [Dev.to/JS] [What&#39;s your experience with JavaScript?](https://dev.to/nhshanto/whats-your-experience-with-javascript-2c8j)
 - [Dev.to/JS] [JavaScript: Your guide to understanding functions.](https://dev.to/fullstackjo/javascript-your-guide-to-understanding-functions-4c5l)
-- [Dev.to/JS] [DotVVM Web Camera with JS Directive](https://dev.to/esdanielgomez/dotvvm-web-camera-with-js-directive-473h)
 - [Lifehacker] [Where to Get Free Stuff on Craigslist &lpar;and Eight Other Sites&rpar;](https://lifehacker.com/ten-websites-where-you-can-find-free-stuff-1848905689)
 - [Lifehacker] [You Can Control Your Tesla With Siri Now](https://lifehacker.com/how-to-control-your-tesla-with-siri-1850760092)
-- [Dev.to/JS] [Skyramp: Test Easy in Any Environment with GitHub Codespaces](https://dev.to/skyrampmia/skyramp-test-easy-in-any-environment-with-github-codespaces-39dc)
-- [Dev.to/JS] [How to Optimize Your Website for Better Performance ?](https://dev.to/shasheeshpurohit/how-to-optimize-your-website-for-better-performance--5575)
 - [Lifehacker] [You Need to Update WinRAR Right Now](https://lifehacker.com/you-need-to-update-winrar-right-now-1850761568)
 - [Lifehacker] [Four Ways to Preserve All Your Tomatoes at the Same Time](https://lifehacker.com/four-ways-to-preserve-all-your-tomatoes-at-the-same-tim-1850760848)
 - [Lifehacker] [How to Download &#39;Starfield&#39;](https://lifehacker.com/how-to-download-starfield-1850759371)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
 - [Lifehacker] [When to Fix Wood Rot Without Replacing It](https://lifehacker.com/when-to-fix-wood-rot-without-replacing-it-1850758026)
 - [Lifehacker] [Look for These Red Flags in Any HOA Contract](https://lifehacker.com/look-for-these-red-flags-in-any-hoa-contract-1850756655)
-- [Lifehacker] [The Safest Places to Be During a Tornado](https://lifehacker.com/safest-places-during-tornado-1848493459)
-- [Lifehacker] [What Is That String of Lights in the Sky?](https://lifehacker.com/what-is-string-of-lights-in-sky-starlink-1850757768)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Safest Places to Be During a Tornado](https://lifehacker.com/safest-places-during-tornado-1848493459)<!-- TECH-POSTS:END -->
 
 ---
 
