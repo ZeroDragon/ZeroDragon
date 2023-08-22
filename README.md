@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [When center point, start point, and end point are given](https://dev.to/devcodef1/when-center-point-start-point-and-end-point-are-given-3fea)
 - [Dev.to/JS] [Strings in JavaScript](https://dev.to/better678/strings-in-javascript-3aj7)
 - [Dev.to/JS] [How to enable text selection of the tags in DevExtreme tag box](https://dev.to/devcodef1/how-to-enable-text-selection-of-the-tags-in-devextreme-tag-box-58ma)
 - [Dev.to/JS] [Comment Your JavaScript Code](https://dev.to/ak4bento/comment-your-javascript-code-k0j)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Use Formik and Yup in Your React Project](https://dev.to/jesseilc123/how-to-use-formik-and-yup-in-your-react-project-2bbm)
 - [Dev.to/JS] [Understanding Slicing in Python: A Comprehensive Guide](https://dev.to/iamcymentho/understanding-slicing-in-python-a-comprehensive-guide-43nb)
 - [Dev.to/JS] [Guess the Band](https://dev.to/froglegs1/guess-the-band-3geb)
-- [Dev.to/JS] [React Custom Hook: useMediaQuery](https://dev.to/sergeyleschev/react-custom-hook-usemediaquery-1pbo)
 - [Lifehacker] [The Best Ways to Keep Plants Alive During a Heatwave](https://lifehacker.com/the-best-ways-to-keep-plants-alive-during-a-heatwave-1850756764)
 - [Lifehacker] [The Best Tools to Make Moving a Lot Easier](https://lifehacker.com/the-best-tools-to-make-moving-a-lot-easier-1850758392)
 - [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
