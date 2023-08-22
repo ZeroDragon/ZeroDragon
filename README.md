@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing Zettel: A Markdown based note taking application for developers.](https://dev.to/shaancodes/introducing-zettel-a-markdown-based-note-taking-application-for-developers-5d6j)
 - [Dev.to/JS] [Mastering AWS Cognito: A Comprehensive Guide](https://dev.to/yanagisawahidetoshi/mastering-aws-cognito-a-comprehensive-guide-3eo6)
 - [Dev.to/JS] [Dev Detective Web-App](https://dev.to/mr_bhadauriya/dev-detective-web-app-gek)
 - [Dev.to/JS] [Learn How to Boost Web Development with Vite.js - A Step-by-Step Guide](https://dev.to/me_janki/learn-how-to-boost-web-development-with-vitejs-a-step-by-step-guide-50l2)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Main Takeaways from Game Engine Architecture](https://dev.to/ericbl3/my-main-takeaways-from-game-engine-architecture-9l8)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Tuesday, August 22](https://lifehacker.com/todays-wordle-hints-and-answer-for-tuesday-august-22-1850757200)
 - [Dev.to/JS] [Sendbird Alternatives vs Compititors](https://dev.to/alakkadshaw/sendbird-alternatives-vs-compititors-1o4c)
-- [Dev.to/JS] [Unlocking Your dev.to Portfolio: Elevate Your Web Presence with Integrated Article Showcase](https://dev.to/jcvb/unlocking-your-devto-portfolio-elevate-your-web-presence-with-integrated-article-showcase-2akh)
 - [Lifehacker] [The Best Ways to Keep Plants Alive During a Heatwave](https://lifehacker.com/the-best-ways-to-keep-plants-alive-during-a-heatwave-1850756764)
 - [Lifehacker] [The Best Tools to Make Moving a Lot Easier](https://lifehacker.com/the-best-tools-to-make-moving-a-lot-easier-1850758392)
 - [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
