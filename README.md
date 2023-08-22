@@ -26,7 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Testing](https://dev.to/bytehouse/testing-3bpe)
+- [Dev.to/JS] [Base64 in Programming Languages](https://dev.to/ocaso/base64-in-programming-languages-2nh)
 - [Dev.to/JS] [JavaScript Objects: A Comprehensive Guide](https://dev.to/devshefali/javascript-objects-a-comprehensive-guide-21mo)
 - [Dev.to/JS] [Inside the V8 Engine: Unveiling the Core of Chrome Browser&#39;s Performance](https://dev.to/shishsingh/inside-the-v8-engine-unveiling-the-core-of-chrome-browsers-performance-4gn1)
 - [Dev.to/JS] [Best Scheduling Libraries for Frontend Developers](https://dev.to/bryntum_ab/best-scheduling-libraries-for-frontend-developers-1214)
