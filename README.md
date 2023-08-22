@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to enable text selection of the tags in DevExtreme tag box](https://dev.to/devcodef1/how-to-enable-text-selection-of-the-tags-in-devextreme-tag-box-58ma)
+- [Dev.to/JS] [Comment Your JavaScript Code](https://dev.to/ak4bento/comment-your-javascript-code-k0j)
 - [Dev.to/JS] [My Main Takeaways from Game Engine Architecture](https://dev.to/ericbl3/my-main-takeaways-from-game-engine-architecture-9l8)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Tuesday, August 22](https://lifehacker.com/todays-wordle-hints-and-answer-for-tuesday-august-22-1850757200)
 - [Dev.to/JS] [Sendbird Alternatives vs Compititors](https://dev.to/alakkadshaw/sendbird-alternatives-vs-compititors-1o4c)
@@ -38,10 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Custom Hook: useMediaQuery](https://dev.to/sergeyleschev/react-custom-hook-usemediaquery-1pbo)
 - [Lifehacker] [The Best Ways to Keep Plants Alive During a Heatwave](https://lifehacker.com/the-best-ways-to-keep-plants-alive-during-a-heatwave-1850756764)
 - [Dev.to/JS] [JavaScript Validation](https://dev.to/nziokidennis/javascript-validation-39ka)
-- [Dev.to/JS] [A Decade of Transformation: How JavaScript Revolutionized Software Development](https://dev.to/jsdevjournal/a-decade-of-transformation-how-javascript-revolutionized-software-development-5609)
 - [Lifehacker] [The Best Tools to Make Moving a Lot Easier](https://lifehacker.com/the-best-tools-to-make-moving-a-lot-easier-1850758392)
 - [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
-- [Dev.to/JS] [Control Multiple Long Running Jobs in Node.js](https://dev.to/devcodef1/control-multiple-long-running-jobs-in-nodejs-3doo)
 - [Lifehacker] [When to Fix Wood Rot Without Replacing It](https://lifehacker.com/when-to-fix-wood-rot-without-replacing-it-1850758026)
 - [Lifehacker] [Look for These Red Flags in Any HOA Contract](https://lifehacker.com/look-for-these-red-flags-in-any-hoa-contract-1850756655)
 - [Lifehacker] [The Safest Places to Be During a Tornado](https://lifehacker.com/safest-places-during-tornado-1848493459)
