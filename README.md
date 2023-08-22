@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering AWS Cognito: A Comprehensive Guide](https://dev.to/yanagisawahidetoshi/mastering-aws-cognito-a-comprehensive-guide-3eo6)
+- [Dev.to/JS] [Dev Detective Web-App](https://dev.to/mr_bhadauriya/dev-detective-web-app-gek)
+- [Dev.to/JS] [Learn How to Boost Web Development with Vite.js - A Step-by-Step Guide](https://dev.to/me_janki/learn-how-to-boost-web-development-with-vitejs-a-step-by-step-guide-50l2)
+- [Dev.to/JS] [Font-size slider](https://dev.to/preetsuthar17/font-size-slider-5kf)
 - [Dev.to/JS] [Concatenate new array](https://dev.to/chandrapenugonda/concatenate-new-array-3dmd)
 - [Dev.to/JS] [When center point, start point, and end point are given](https://dev.to/devcodef1/when-center-point-start-point-and-end-point-are-given-3fea)
 - [Dev.to/JS] [Strings in JavaScript](https://dev.to/better678/strings-in-javascript-3aj7)
@@ -35,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Tuesday, August 22](https://lifehacker.com/todays-wordle-hints-and-answer-for-tuesday-august-22-1850757200)
 - [Dev.to/JS] [Sendbird Alternatives vs Compititors](https://dev.to/alakkadshaw/sendbird-alternatives-vs-compititors-1o4c)
 - [Dev.to/JS] [Unlocking Your dev.to Portfolio: Elevate Your Web Presence with Integrated Article Showcase](https://dev.to/jcvb/unlocking-your-devto-portfolio-elevate-your-web-presence-with-integrated-article-showcase-2akh)
-- [Dev.to/JS] [Practical steps on how to apply the useParams hook of React router.](https://dev.to/meganad60/practical-steps-on-how-to-apply-the-useparams-hook-of-react-router-101o)
-- [Dev.to/JS] [Navigating the Waters of React: A Beginner&#39;s Expedition](https://dev.to/mola_tonny/navigating-the-waters-of-react-a-beginners-expedition-5589)
-- [Dev.to/JS] [How to Use Formik and Yup in Your React Project](https://dev.to/jesseilc123/how-to-use-formik-and-yup-in-your-react-project-2bbm)
-- [Dev.to/JS] [Understanding Slicing in Python: A Comprehensive Guide](https://dev.to/iamcymentho/understanding-slicing-in-python-a-comprehensive-guide-43nb)
 - [Lifehacker] [The Best Ways to Keep Plants Alive During a Heatwave](https://lifehacker.com/the-best-ways-to-keep-plants-alive-during-a-heatwave-1850756764)
 - [Lifehacker] [The Best Tools to Make Moving a Lot Easier](https://lifehacker.com/the-best-tools-to-make-moving-a-lot-easier-1850758392)
 - [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
