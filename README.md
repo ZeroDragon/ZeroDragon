@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Main Takeaways from Game Engine Architecture](https://dev.to/ericbl3/my-main-takeaways-from-game-engine-architecture-9l8)
+- [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Tuesday, August 22](https://lifehacker.com/todays-wordle-hints-and-answer-for-tuesday-august-22-1850757200)
+- [Dev.to/JS] [Sendbird Alternatives vs Compititors](https://dev.to/alakkadshaw/sendbird-alternatives-vs-compititors-1o4c)
 - [Dev.to/JS] [Unlocking Your dev.to Portfolio: Elevate Your Web Presence with Integrated Article Showcase](https://dev.to/jcvb/unlocking-your-devto-portfolio-elevate-your-web-presence-with-integrated-article-showcase-2akh)
 - [Dev.to/JS] [Practical steps on how to apply the useParams hook of React router.](https://dev.to/meganad60/practical-steps-on-how-to-apply-the-useparams-hook-of-react-router-101o)
 - [Dev.to/JS] [Navigating the Waters of React: A Beginner&#39;s Expedition](https://dev.to/mola_tonny/navigating-the-waters-of-react-a-beginners-expedition-5589)
@@ -41,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Control Multiple Long Running Jobs in Node.js](https://dev.to/devcodef1/control-multiple-long-running-jobs-in-nodejs-3doo)
 - [Lifehacker] [When to Fix Wood Rot Without Replacing It](https://lifehacker.com/when-to-fix-wood-rot-without-replacing-it-1850758026)
 - [Lifehacker] [Look for These Red Flags in Any HOA Contract](https://lifehacker.com/look-for-these-red-flags-in-any-hoa-contract-1850756655)
-- [Dev.to/JS] [JavaScipt: Everything you need to know about arrays.](https://dev.to/fullstackjo/javascipt-everything-you-need-to-know-about-arrays-3kh8)
 - [Lifehacker] [The Safest Places to Be During a Tornado](https://lifehacker.com/safest-places-during-tornado-1848493459)
-- [Dev.to/JS] [I don&#39;t always send emails...but when I do, they&#39;re to myself.](https://dev.to/wraith/i-dont-always-send-emailsbut-when-i-do-theyre-to-myself-1ohj)
 - [Lifehacker] [What Is That String of Lights in the Sky?](https://lifehacker.com/what-is-string-of-lights-in-sky-starlink-1850757768)
 - [Lifehacker] [What the Fed&#39;s Rate Increase Means for Your Savings Account](https://lifehacker.com/what-the-feds-rate-increase-means-for-your-savings-acco-1850758430)
 - [Lifehacker] [There’s No Such Thing As a ‘Normal’ Body Count](https://lifehacker.com/there-s-no-such-thing-as-a-normal-body-count-1849470386)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Better Ice Cream Sandwiches With Griddled Arepas](https://lifehacker.com/make-better-ice-cream-sandwiches-with-griddled-arepas-1850753723)
 - [Lifehacker] [This Refurbished 7th-Gen iPad Is $270 Right Now](https://lifehacker.com/this-refurbished-7th-gen-ipad-is-270-right-now-1850743908)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Monday, August 21](https://lifehacker.com/wordle-answer-today-monday-august-21-2023-1850756575)
-- [Lifehacker] [The Best Way to Sharpen Scissors](https://lifehacker.com/the-best-way-to-sharpen-scissors-1850750372)
-- [Lifehacker] [The First Things to Do If a Natural Disaster Occurs While You&#39;re on Vacation](https://lifehacker.com/the-first-things-to-do-if-a-natural-disaster-occurs-whi-1850750329)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Way to Sharpen Scissors](https://lifehacker.com/the-best-way-to-sharpen-scissors-1850750372)<!-- TECH-POSTS:END -->
 
 ---
 
