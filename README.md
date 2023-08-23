@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SliDesk :: Une introduction par Bun](https://dev.to/gouz/slidesk-une-introduction-par-bun-2km2)
+- [Lifehacker] [Find Out Who Blocked You on Instagram](https://lifehacker.com/find-out-who-blocked-you-on-instagram-1850763900?utm_source=regular)
+- [Lifehacker] [These Streaming Services Still Offer Free Trials](https://lifehacker.com/these-streaming-services-still-offer-free-trials-1846190471?utm_source=regular)
 - [Dev.to/JS] [React Custom Hook: useOnScreen](https://dev.to/sergeyleschev/react-custom-hook-useonscreen-1l7c)
 - [Lifehacker] [This Mini Elliptical Is $120 Right Now](https://lifehacker.com/this-mini-elliptical-is-120-right-now-1850754032?utm_source=regular)
 - [Dev.to/JS] [Embarking on a Journey of Web Development Mastery: From Novice to Explorer](https://dev.to/viditgoel/embarking-on-a-journey-of-web-development-mastery-from-novice-to-explorer-14fj)
@@ -50,7 +53,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript 30 array Methods](https://dev.to/muhammadkashif/javascript-30-array-methods-28n1)
 - [Lifehacker] [What&#39;s New on Netflix in September 2023](https://lifehacker.com/new-on-netflix-september-2023-1850765988?utm_source=regular)
 - [Dev.to/JS] [Dev Job Oppurtunities @ VC-Backed Startups + Public Launch of Kombai](https://dev.to/mohanmukund13/dev-job-oppurtunities-vc-backed-startups-public-launch-of-kombai-38kj)
-- [Dev.to/JS] [Interfaces vs Types in TypeScript: Understanding the Differences](https://dev.to/avwerosuoghene/interfaces-vs-types-in-typescript-understanding-the-differences-2j61)
 - [Lifehacker] [You Can Get These Labor Day Tech Deals Early](https://lifehacker.com/you-can-get-these-labor-day-tech-deals-early-1850764868?utm_source=regular)
 - [Lifehacker] [Teach Kids the Six Steps for Joining a Group](https://lifehacker.com/teach-kids-the-six-steps-for-joining-a-group-1850765729?utm_source=regular)
 - [Lifehacker] [How to Snip on Mac](https://lifehacker.com/how-to-snip-on-mac-1850765530?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get SheetsGPT for $50 Right Now](https://lifehacker.com/you-can-get-sheetsgpt-for-50-right-now-1850743934?utm_source=regular)
 - [Lifehacker] [Ten Ways You Should Be Using Painter’s Tape](https://lifehacker.com/unexpected-ways-to-use-painters-tape-1850762286?utm_source=regular)
 - [Lifehacker] [You Can Try a Folding Phone &lpar;Sort of&rpar; Without Buying a Samsung Galaxy Z](https://lifehacker.com/you-can-try-a-folding-phone-sort-of-without-buying-a-1850762885?utm_source=regular)
-- [Lifehacker] [JetBlue Has $39 One-Way Flights Right Now](https://lifehacker.com/jetblue-has-39-one-way-flights-right-now-1850762749?utm_source=regular)
-- [Lifehacker] [The Viral Thomas Keller Zucchini Is the Perfect End-of-Summer Side Dish](https://lifehacker.com/the-viral-thomas-keller-zucchini-is-the-perfect-end-of-1850762546?utm_source=regular)
-- [Lifehacker] [Easy Dorm Room Meals You Can Make in a Crappy Kitchen](https://lifehacker.com/how-to-feed-yourself-in-a-crappy-college-dorm-kitchen-1828468690?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [JetBlue Has $39 One-Way Flights Right Now](https://lifehacker.com/jetblue-has-39-one-way-flights-right-now-1850762749?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
