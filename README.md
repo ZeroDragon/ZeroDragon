@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Browse the Internet Without CAPTCHA Prompts](https://lifehacker.com/you-can-browse-the-internet-without-captcha-prompts-1850766546)
+- [Lifehacker] [Ten Ways to Spend Less on Streaming Services](https://lifehacker.com/spend-less-on-streaming-1850766620)
 - [Dev.to/JS] [Day 32: async/await vs Generators](https://dev.to/dhrn/day-32-asyncawait-vs-generators-502e)
 - [Lifehacker] [Alamo Drafthouse&#39;s Victory Rewards Are Back](https://lifehacker.com/alamo-drafthouses-victory-rewards-are-back-1850766796)
 - [Dev.to/JS] [How to visual test UI using Playwright](https://dev.to/chromatic/how-to-visual-test-ui-using-playwright-2dld)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This eSIM Card With $50 in Travel Data Credits Is $25 Right Now](https://lifehacker.com/this-esim-card-with-50-in-travel-data-credits-is-25-r-1850753994)
 - [Lifehacker] [Where to Get Free Stuff on Craigslist &lpar;and Eight Other Sites&rpar;](https://lifehacker.com/ten-websites-where-you-can-find-free-stuff-1848905689)
 - [Lifehacker] [You Can Control Your Tesla With Siri Now](https://lifehacker.com/how-to-control-your-tesla-with-siri-1850760092)
-- [Lifehacker] [You Need to Update WinRAR Right Now](https://lifehacker.com/you-need-to-update-winrar-right-now-1850761568)
-- [Lifehacker] [Four Ways to Preserve All Your Tomatoes at the Same Time](https://lifehacker.com/four-ways-to-preserve-all-your-tomatoes-at-the-same-tim-1850760848)
-- [Lifehacker] [How to Download &#39;Starfield&#39;](https://lifehacker.com/how-to-download-starfield-1850759371)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Need to Update WinRAR Right Now](https://lifehacker.com/you-need-to-update-winrar-right-now-1850761568)<!-- TECH-POSTS:END -->
 
 ---
 
