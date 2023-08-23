@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 32: async/await vs Generators](https://dev.to/dhrn/day-32-asyncawait-vs-generators-502e)
+- [Lifehacker] [Alamo Drafthouse&#39;s Victory Rewards Are Back](https://lifehacker.com/alamo-drafthouses-victory-rewards-are-back-1850766796)
+- [Dev.to/JS] [How to visual test UI using Playwright](https://dev.to/chromatic/how-to-visual-test-ui-using-playwright-2dld)
+- [Dev.to/JS] [Demystifying CSS: How to Center a Div for Perfect Layouts](https://dev.to/vayolapradeep/demystifying-css-how-to-center-a-div-for-perfect-layouts-1eon)
+- [Lifehacker] [Turn an Overflowing Garden Into a Batch of Dumplings](https://lifehacker.com/turn-an-overflowing-garden-into-a-batch-of-dumplings-1850764984)
+- [Dev.to/JS] [Boost your confidence with these top-notch interview questions and nail your next opportunity.](https://dev.to/codebeasts/boost-your-confidence-with-these-top-notch-interview-questions-and-nail-your-next-opportunity-4878)
 - [Lifehacker] [Look for These Red Flags Before Accepting a Job Offer](https://lifehacker.com/look-for-these-red-flags-before-accepting-a-job-offer-1850766432)
 - [Lifehacker] [These TikTok Accounts Show What Groceries to Buy at the Dollar Store](https://lifehacker.com/these-tiktok-accounts-show-what-groceries-to-buy-at-the-1850766416)
 - [Dev.to/JS] [JavaScript: 6 types of Loops you should know about.](https://dev.to/fullstackjo/javascript-6-types-of-loops-you-should-know-about-fe)
@@ -41,13 +47,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Snip on Mac](https://lifehacker.com/how-to-snip-on-mac-1850765530)
 - [Dev.to/JS] [Excellent JSON View component. Everyone should give it a try.](https://dev.to/suni/excellent-json-view-component-everyone-should-give-it-a-try-2580)
 - [Dev.to/JS] [Let&#39;s build Vue directives - Plug and play Motion Design with vMotion](https://dev.to/tqbit/lets-build-vue-directives-plug-and-play-motion-design-with-vmotion-23gd)
-- [Dev.to/JS] [Streamline Customer Interactions with Instant AI Chatbot Builder](https://dev.to/aiforme/streamline-customer-interactions-with-instant-ai-chatbot-builder-1i4f)
 - [Lifehacker] [Now Is the Best Time to Seed Your Lawn](https://lifehacker.com/now-is-the-best-time-to-seed-your-lawn-1850764040)
-- [Dev.to/JS] [NextJS Tip ⚡️ High Priority image Preloading for Improved Performance 🚀](https://dev.to/codewithshan/nextjs-tip-high-priority-image-preloading-for-improved-performance-i7l)
 - [Lifehacker] [The Best ‘Dawn Dates’ You Should Try](https://lifehacker.com/the-best-dawn-dates-you-should-try-1850763910)
-- [Dev.to/JS] [How to create a chessboard pattern using pure JavaScript &lpar;Interview question&rpar;](https://dev.to/xplodivity/how-to-create-a-chessboard-pattern-using-pure-javascript-interview-question-2dbe)
 - [Lifehacker] [Don&#39;t Forget to Season Your Cake Mix](https://lifehacker.com/dont-forget-to-season-your-cake-mix-1850764155)
-- [Dev.to/JS] [Generate suggestions for email input](https://dev.to/sujith/generate-suggestions-for-email-input-8am)
 - [Lifehacker] [How to Get Money Back From a Gift Card Scam](https://lifehacker.com/how-to-get-money-back-from-a-gift-card-scam-1850763735)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Wednesday, August 23](https://lifehacker.com/todays-wordle-hints-and-answer-for-wednesday-august-1850761251)
 - [Lifehacker] [The Best Streaming Deals for August 2023](https://lifehacker.com/best-streaming-deals-1850763728)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Control Your Tesla With Siri Now](https://lifehacker.com/how-to-control-your-tesla-with-siri-1850760092)
 - [Lifehacker] [You Need to Update WinRAR Right Now](https://lifehacker.com/you-need-to-update-winrar-right-now-1850761568)
 - [Lifehacker] [Four Ways to Preserve All Your Tomatoes at the Same Time](https://lifehacker.com/four-ways-to-preserve-all-your-tomatoes-at-the-same-tim-1850760848)
-- [Lifehacker] [How to Download &#39;Starfield&#39;](https://lifehacker.com/how-to-download-starfield-1850759371)
-- [Lifehacker] [This Eton Elite Executive Radio Is 40% Off Right Now](https://lifehacker.com/this-eton-elite-executive-radio-is-40-off-right-now-1850754002)
-- [Lifehacker] [Threads Is Finally Available on the Web](https://lifehacker.com/threads-is-finally-available-on-the-web-1850761382)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Download &#39;Starfield&#39;](https://lifehacker.com/how-to-download-starfield-1850759371)<!-- TECH-POSTS:END -->
 
 ---
 
