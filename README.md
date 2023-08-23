@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Bit About My Background](https://dev.to/damonclark/a-bit-about-my-background-5gla)
 - [Dev.to/JS] [Boolean Values in JavaScript](https://dev.to/better678/boolean-values-in-javascript-3lo3)
 - [Dev.to/JS] [ExpressJS Handling Cross-Origin Cookies](https://dev.to/alexmercedcoder/expressjs-handling-cross-origin-cookies-38l9)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Wednesday, August 23](https://lifehacker.com/todays-wordle-hints-and-answer-for-wednesday-august-1850761251)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [JetBlue Has $39 One-Way Flights Right Now](https://lifehacker.com/jetblue-has-39-one-way-flights-right-now-1850762749)
 - [Dev.to/JS] [Event Capturing and Event Bubbling in JavaScript: Exploring DOM Event Handling Mechanisms](https://dev.to/endeavourmonk/event-capturing-and-event-bubbling-in-javascript-exploring-dom-event-handling-mechanisms-54la)
 - [Dev.to/JS] [Building What Matters, Not What&#39;s Fun](https://dev.to/lakincoder/building-what-matters-not-whats-fun-172)
-- [Dev.to/JS] [How to Implement Pagination With Reactjs](https://dev.to/canhamzacode/how-to-implement-pagination-with-reactjs-2b04)
 - [Lifehacker] [The Viral Thomas Keller Zucchini Is the Perfect End-of-Summer Side Dish](https://lifehacker.com/the-viral-thomas-keller-zucchini-is-the-perfect-end-of-1850762546)
 - [Lifehacker] [Easy Dorm Room Meals You Can Make in a Crappy Kitchen](https://lifehacker.com/how-to-feed-yourself-in-a-crappy-college-dorm-kitchen-1828468690)
 - [Lifehacker] [You Might Want to Spread Out Your Severance Pay](https://lifehacker.com/you-might-want-to-spread-out-your-severance-pay-1850762211)
