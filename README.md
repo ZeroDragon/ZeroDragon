@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get These Labor Day Tech Deals Early](https://lifehacker.com/you-can-get-these-labor-day-tech-deals-early-1850764868)
+- [Lifehacker] [Teach Kids the Six Steps for Joining a Group](https://lifehacker.com/teach-kids-the-six-steps-for-joining-a-group-1850765729)
+- [Lifehacker] [How to Snip on Mac](https://lifehacker.com/how-to-snip-on-mac-1850765530)
 - [Dev.to/JS] [Excellent JSON View component. Everyone should give it a try.](https://dev.to/suni/excellent-json-view-component-everyone-should-give-it-a-try-2580)
 - [Dev.to/JS] [Let&#39;s build Vue directives - Plug and play Motion Design with vMotion](https://dev.to/tqbit/lets-build-vue-directives-plug-and-play-motion-design-with-vmotion-23gd)
 - [Dev.to/JS] [Streamline Customer Interactions with Instant AI Chatbot Builder](https://dev.to/aiforme/streamline-customer-interactions-with-instant-ai-chatbot-builder-1i4f)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Bing Chat Is More Than a ChatGPT Clone](https://lifehacker.com/bing-chat-is-more-than-a-chatgpt-clone-1850760875)
 - [Lifehacker] [Here’s How Many Miles Your New Car Can Last](https://lifehacker.com/how-many-miles-a-new-car-will-last-1850759649)
 - [Lifehacker] [Watch $4 Movies for National Cinema Day](https://lifehacker.com/watch-4-movies-for-national-cinema-day-1850760586)
-- [Lifehacker] [How to Roast Frozen Broccoli Without It Getting Soggy](https://lifehacker.com/how-to-roast-frozen-broccoli-without-it-getting-soggy-1850759488)
-- [Lifehacker] [You Can Play Nintendo Switch Games on Your iPad Screen](https://lifehacker.com/you-can-play-nintendo-switch-games-on-your-ipad-screen-1850758688)
-- [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Tuesday, August 22](https://lifehacker.com/todays-wordle-hints-and-answer-for-tuesday-august-22-1850757200)
-- [Lifehacker] [The Best Ways to Keep Plants Alive During a Heatwave](https://lifehacker.com/the-best-ways-to-keep-plants-alive-during-a-heatwave-1850756764)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Roast Frozen Broccoli Without It Getting Soggy](https://lifehacker.com/how-to-roast-frozen-broccoli-without-it-getting-soggy-1850759488)<!-- TECH-POSTS:END -->
 
 ---
 
