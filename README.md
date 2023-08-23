@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Money Back From a Gift Card Scam](https://lifehacker.com/how-to-get-money-back-from-a-gift-card-scam-1850763735)
+- [Dev.to/JS] [The Hidden Powers of JavaScript Functions](https://dev.to/shingaiz/the-hidden-powers-of-javascript-functions-gop)
+- [Dev.to/JS] [Push, Pop, Shift, Unshift : An Easy way to remember](https://dev.to/d32ssv/push-pop-shift-unshift-an-easy-way-to-remember-4jg5)
+- [Dev.to/JS] [JavaScript Package Manager Showdown: NPM vs Yarn vs PNPM](https://dev.to/jsdevjournal/javascript-package-manager-showdown-npm-vs-yarn-vs-pnpm-bbj)
 - [Dev.to/JS] [Seeking a software developer](https://dev.to/eizen01/seeking-a-software-developer-1o50)
 - [Dev.to/JS] [As a beginner learn how to design and develop your portfolio website](https://dev.to/eddahchiribett/as-a-beginner-learn-how-to-design-and-develop-your-portfolio-website-3kh7)
 - [Dev.to/JS] [Object-Oriented JavaScript: More Than Just Classes](https://dev.to/raphiki/object-oriented-javascript-more-than-just-classes-3ce1)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a reactJS project using CLI](https://dev.to/oivlisfriend/creating-a-reactjs-project-using-cli-ffh)
 - [Dev.to/JS] [Elevating Web Design with Framer Motion: Bringing Your Website to Life](https://dev.to/harshahegde/elevating-web-design-with-framer-motion-bringing-your-website-to-life-372n)
 - [Dev.to/JS] [How to Publish an App to the App Store](https://dev.to/iosappuploader/how-to-publish-an-app-to-the-app-store-3od4)
-- [Dev.to/JS] [Ways of Fetching url&#39;s in MERN stack and when to use them 😎](https://dev.to/soham1826/ways-of-fetching-urls-in-mern-stack-and-when-to-use-them-23a3)
-- [Dev.to/JS] [Tabs - from scratch](https://dev.to/grandschtroumpf/tabs-from-scratch-1f89)
-- [Dev.to/JS] [Mobile app update Day 97](https://dev.to/shreyvijayvargiya/mobile-app-update-day-97-3j89)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Wednesday, August 23](https://lifehacker.com/todays-wordle-hints-and-answer-for-wednesday-august-1850761251)
 - [Lifehacker] [The Best Streaming Deals for August 2023](https://lifehacker.com/best-streaming-deals-1850763728)
 - [Lifehacker] [You Can Get SheetsGPT for $50 Right Now](https://lifehacker.com/you-can-get-sheetsgpt-for-50-right-now-1850743934)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Keep Plants Alive During a Heatwave](https://lifehacker.com/the-best-ways-to-keep-plants-alive-during-a-heatwave-1850756764)
 - [Lifehacker] [The Best Tools to Make Moving a Lot Easier](https://lifehacker.com/the-best-tools-to-make-moving-a-lot-easier-1850758392)
 - [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
-- [Lifehacker] [When to Fix Wood Rot Without Replacing It](https://lifehacker.com/when-to-fix-wood-rot-without-replacing-it-1850758026)
-- [Lifehacker] [Look for These Red Flags in Any HOA Contract](https://lifehacker.com/look-for-these-red-flags-in-any-hoa-contract-1850756655)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When to Fix Wood Rot Without Replacing It](https://lifehacker.com/when-to-fix-wood-rot-without-replacing-it-1850758026)<!-- TECH-POSTS:END -->
 
 ---
 
