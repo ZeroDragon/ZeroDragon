@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Look for These Red Flags Before Accepting a Job Offer](https://lifehacker.com/look-for-these-red-flags-before-accepting-a-job-offer-1850766432)
+- [Lifehacker] [These TikTok Accounts Show What Groceries to Buy at the Dollar Store](https://lifehacker.com/these-tiktok-accounts-show-what-groceries-to-buy-at-the-1850766416)
+- [Dev.to/JS] [JavaScript: 6 types of Loops you should know about.](https://dev.to/fullstackjo/javascript-6-types-of-loops-you-should-know-about-fe)
+- [Dev.to/JS] [Step-by-step tutorial on how to create a React Modal.](https://dev.to/aliyuadeniji/step-by-step-tutorial-on-how-to-create-a-react-modal-43h1)
+- [Lifehacker] [The Easiest Way to Get Rid of ‘Ghost’ Message Notifications on Your iPhone](https://lifehacker.com/the-easiest-way-to-get-rid-of-ghost-message-notificat-1850765871)
 - [Dev.to/JS] [Javascript 30 array Methods](https://dev.to/muhammadkashif/javascript-30-array-methods-28n1)
 - [Lifehacker] [What&#39;s New on Netflix in September 2023](https://lifehacker.com/new-on-netflix-september-2023-1850765988)
 - [Dev.to/JS] [Dev Job Oppurtunities @ VC-Backed Startups + Public Launch of Kombai](https://dev.to/mohanmukund13/dev-job-oppurtunities-vc-backed-startups-public-launch-of-kombai-38kj)
@@ -43,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a chessboard pattern using pure JavaScript &lpar;Interview question&rpar;](https://dev.to/xplodivity/how-to-create-a-chessboard-pattern-using-pure-javascript-interview-question-2dbe)
 - [Lifehacker] [Don&#39;t Forget to Season Your Cake Mix](https://lifehacker.com/dont-forget-to-season-your-cake-mix-1850764155)
 - [Dev.to/JS] [Generate suggestions for email input](https://dev.to/sujith/generate-suggestions-for-email-input-8am)
-- [Dev.to/JS] [🎉Introducing Atomic Design in Vue.js🔥](https://dev.to/9haroon_dev/introducing-atomic-design-in-vuejs-1l2h)
-- [Dev.to/JS] [LEARNING JAVASCRIPT ARRAY IN 2023 FROM THE SCRATCH](https://dev.to/iam_strawb/learning-javascript-array-in-2023-from-the-scratch-22m7)
 - [Lifehacker] [How to Get Money Back From a Gift Card Scam](https://lifehacker.com/how-to-get-money-back-from-a-gift-card-scam-1850763735)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Wednesday, August 23](https://lifehacker.com/todays-wordle-hints-and-answer-for-wednesday-august-1850761251)
 - [Lifehacker] [The Best Streaming Deals for August 2023](https://lifehacker.com/best-streaming-deals-1850763728)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Four Ways to Preserve All Your Tomatoes at the Same Time](https://lifehacker.com/four-ways-to-preserve-all-your-tomatoes-at-the-same-tim-1850760848)
 - [Lifehacker] [How to Download &#39;Starfield&#39;](https://lifehacker.com/how-to-download-starfield-1850759371)
 - [Lifehacker] [This Eton Elite Executive Radio Is 40% Off Right Now](https://lifehacker.com/this-eton-elite-executive-radio-is-40-off-right-now-1850754002)
-- [Lifehacker] [Threads Is Finally Available on the Web](https://lifehacker.com/threads-is-finally-available-on-the-web-1850761382)
-- [Lifehacker] [Bing Chat Is More Than a ChatGPT Clone](https://lifehacker.com/bing-chat-is-more-than-a-chatgpt-clone-1850760875)
-- [Lifehacker] [Here’s How Many Miles Your New Car Can Last](https://lifehacker.com/how-many-miles-a-new-car-will-last-1850759649)
-- [Lifehacker] [Watch $4 Movies for National Cinema Day](https://lifehacker.com/watch-4-movies-for-national-cinema-day-1850760586)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Threads Is Finally Available on the Web](https://lifehacker.com/threads-is-finally-available-on-the-web-1850761382)<!-- TECH-POSTS:END -->
 
 ---
 
