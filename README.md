@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Seeking a software developer](https://dev.to/eizen01/seeking-a-software-developer-1o50)
 - [Dev.to/JS] [As a beginner learn how to design and develop your portfolio website](https://dev.to/eddahchiribett/as-a-beginner-learn-how-to-design-and-develop-your-portfolio-website-3kh7)
 - [Dev.to/JS] [Object-Oriented JavaScript: More Than Just Classes](https://dev.to/raphiki/object-oriented-javascript-more-than-just-classes-3ce1)
 - [Dev.to/JS] [Tailwind, HALT AND CATCH FIRE animated logo](https://dev.to/sohrabzia/tailwind-halt-and-catch-fire-animated-logo-1c17)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ways of Fetching url&#39;s in MERN stack and when to use them 😎](https://dev.to/soham1826/ways-of-fetching-urls-in-mern-stack-and-when-to-use-them-23a3)
 - [Dev.to/JS] [Tabs - from scratch](https://dev.to/grandschtroumpf/tabs-from-scratch-1f89)
 - [Dev.to/JS] [Mobile app update Day 97](https://dev.to/shreyvijayvargiya/mobile-app-update-day-97-3j89)
-- [Dev.to/JS] [Building responsive Cards with Hover Effect using React and Tailwindcss](https://dev.to/ryaddev/building-responsive-cards-with-hover-effect-using-react-and-tailwindcss-1d4b)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Wednesday, August 23](https://lifehacker.com/todays-wordle-hints-and-answer-for-wednesday-august-1850761251)
 - [Lifehacker] [The Best Streaming Deals for August 2023](https://lifehacker.com/best-streaming-deals-1850763728)
 - [Lifehacker] [You Can Get SheetsGPT for $50 Right Now](https://lifehacker.com/you-can-get-sheetsgpt-for-50-right-now-1850743934)
