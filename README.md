@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Embracing the Simplicity and Power: Why I Love Vanilla JavaScript](https://dev.to/gopisuvanam/embracing-the-simplicity-and-power-why-i-love-vanilla-javascript-lml)
+- [Dev.to/JS] [Netflix System Design Using AWS Services](https://dev.to/koolkishan/netflix-system-design-using-aws-services-27d6)
+- [Dev.to/JS] [Asynchronous JavaScript](https://dev.to/prodevxpert/asynchronous-javascript-50hp)
+- [Dev.to/JS] [Why did we build a custom ESLint plugin?](https://dev.to/tsudhishnair/why-did-we-build-a-custom-eslint-plugin-hki)
+- [Dev.to/JS] [Startup Product Development](https://dev.to/rendream/startup-product-development-4le5)
 - [Dev.to/JS] [Unveiling AnalogJS: Crafting Angular Applications with a Fullstack Meta-Framework](https://dev.to/jcvb/unveiling-analogjs-crafting-angular-applications-with-a-fullstack-meta-framework-3ghc)
 - [Dev.to/JS] [Orimon: Elevate Customer Conversations, Boost Conversions](https://dev.to/aiforme/orimon-elevate-customer-conversations-boost-conversions-4ekk)
 - [Dev.to/JS] [Docker MERN stack example](https://dev.to/tienbku/docker-mern-stack-example-7j)
@@ -34,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ExpressJS Handling Cross-Origin Cookies](https://dev.to/alexmercedcoder/expressjs-handling-cross-origin-cookies-38l9)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Wednesday, August 23](https://lifehacker.com/todays-wordle-hints-and-answer-for-wednesday-august-1850761251)
 - [Dev.to/JS] [React useLayoutEffect vs useEffect with examples](https://dev.to/alakkadshaw/react-uselayouteffect-vs-useeffect-with-examples-470g)
-- [Dev.to/JS] [43 Stories To Learn About Es6](https://dev.to/learnrepo/43-stories-to-learn-about-es6-3491)
-- [Dev.to/JS] [9 Lessons I learned from failing at my first business](https://dev.to/gabrielctroia/9-lessons-i-learned-from-failing-at-my-first-business-fe5)
-- [Dev.to/JS] [A Guide to Date and Time Formatting in JavaScript](https://dev.to/diorla/a-guide-to-date-and-time-formatting-in-javascript-2ol2)
-- [Dev.to/JS] [How I got into OSPP 2023 with ONLYOFFICE – Experience and Journey](https://dev.to/sawanteeshaan/how-i-got-into-ospp-2023-with-onlyoffice-experience-and-journey-4756)
-- [Dev.to/JS] [React Custom Hook: useOnlineStatus](https://dev.to/sergeyleschev/react-custom-hook-useonlinestatus-59ki)
 - [Lifehacker] [The Best Streaming Deals for August 2023](https://lifehacker.com/best-streaming-deals-1850763728)
 - [Lifehacker] [You Can Get SheetsGPT for $50 Right Now](https://lifehacker.com/you-can-get-sheetsgpt-for-50-right-now-1850743934)
 - [Lifehacker] [Ten Ways You Should Be Using Painter’s Tape](https://lifehacker.com/unexpected-ways-to-use-painters-tape-1850762286)
