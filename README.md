@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript 30 array Methods](https://dev.to/muhammadkashif/javascript-30-array-methods-28n1)
+- [Lifehacker] [What&#39;s New on Netflix in September 2023](https://lifehacker.com/new-on-netflix-september-2023-1850765988)
+- [Dev.to/JS] [Dev Job Oppurtunities @ VC-Backed Startups + Public Launch of Kombai](https://dev.to/mohanmukund13/dev-job-oppurtunities-vc-backed-startups-public-launch-of-kombai-38kj)
+- [Dev.to/JS] [Interfaces vs Types in TypeScript: Understanding the Differences](https://dev.to/avwerosuoghene/interfaces-vs-types-in-typescript-understanding-the-differences-2j61)
+- [Dev.to/JS] [Page Redirection in JavaScript](https://dev.to/iamcymentho/page-redirection-in-javascript-bd8)
 - [Lifehacker] [You Can Get These Labor Day Tech Deals Early](https://lifehacker.com/you-can-get-these-labor-day-tech-deals-early-1850764868)
 - [Lifehacker] [Teach Kids the Six Steps for Joining a Group](https://lifehacker.com/teach-kids-the-six-steps-for-joining-a-group-1850765729)
 - [Lifehacker] [How to Snip on Mac](https://lifehacker.com/how-to-snip-on-mac-1850765530)
@@ -41,10 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🎉Introducing Atomic Design in Vue.js🔥](https://dev.to/9haroon_dev/introducing-atomic-design-in-vuejs-1l2h)
 - [Dev.to/JS] [LEARNING JAVASCRIPT ARRAY IN 2023 FROM THE SCRATCH](https://dev.to/iam_strawb/learning-javascript-array-in-2023-from-the-scratch-22m7)
 - [Lifehacker] [How to Get Money Back From a Gift Card Scam](https://lifehacker.com/how-to-get-money-back-from-a-gift-card-scam-1850763735)
-- [Dev.to/JS] [The Hidden Powers of JavaScript Functions](https://dev.to/shingaiz/the-hidden-powers-of-javascript-functions-gop)
-- [Dev.to/JS] [Push, Pop, Shift, Unshift : An Easy way to remember](https://dev.to/d32ssv/push-pop-shift-unshift-an-easy-way-to-remember-4jg5)
-- [Dev.to/JS] [JavaScript Package Manager Showdown: NPM vs Yarn vs PNPM](https://dev.to/jsdevjournal/javascript-package-manager-showdown-npm-vs-yarn-vs-pnpm-bbj)
-- [Dev.to/JS] [Seeking a software developer](https://dev.to/eizen01/seeking-a-software-developer-1o50)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Wednesday, August 23](https://lifehacker.com/todays-wordle-hints-and-answer-for-wednesday-august-1850761251)
 - [Lifehacker] [The Best Streaming Deals for August 2023](https://lifehacker.com/best-streaming-deals-1850763728)
 - [Lifehacker] [You Can Get SheetsGPT for $50 Right Now](https://lifehacker.com/you-can-get-sheetsgpt-for-50-right-now-1850743934)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Threads Is Finally Available on the Web](https://lifehacker.com/threads-is-finally-available-on-the-web-1850761382)
 - [Lifehacker] [Bing Chat Is More Than a ChatGPT Clone](https://lifehacker.com/bing-chat-is-more-than-a-chatgpt-clone-1850760875)
 - [Lifehacker] [Here’s How Many Miles Your New Car Can Last](https://lifehacker.com/how-many-miles-a-new-car-will-last-1850759649)
-- [Lifehacker] [Watch $4 Movies for National Cinema Day](https://lifehacker.com/watch-4-movies-for-national-cinema-day-1850760586)
-- [Lifehacker] [How to Roast Frozen Broccoli Without It Getting Soggy](https://lifehacker.com/how-to-roast-frozen-broccoli-without-it-getting-soggy-1850759488)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Watch $4 Movies for National Cinema Day](https://lifehacker.com/watch-4-movies-for-national-cinema-day-1850760586)<!-- TECH-POSTS:END -->
 
 ---
 
