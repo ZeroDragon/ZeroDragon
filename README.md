@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I make dark/light theme](https://dev.to/kallarari/how-i-make-darklight-theme-12m)
+- [Dev.to/JS] [Creating forms in React](https://dev.to/bandojay/creating-forms-in-react-3245)
 - [Dev.to/JS] [SliDesk :: Une introduction par Bun](https://dev.to/gouz/slidesk-une-introduction-par-bun-2km2)
 - [Lifehacker] [Find Out Who Blocked You on Instagram](https://lifehacker.com/find-out-who-blocked-you-on-instagram-1850763900?utm_source=regular)
 - [Lifehacker] [These Streaming Services Still Offer Free Trials](https://lifehacker.com/these-streaming-services-still-offer-free-trials-1846190471?utm_source=regular)
@@ -50,9 +52,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript: 6 types of Loops you should know about.](https://dev.to/fullstackjo/javascript-6-types-of-loops-you-should-know-about-fe)
 - [Dev.to/JS] [Step-by-step tutorial on how to create a React Modal.](https://dev.to/aliyuadeniji/step-by-step-tutorial-on-how-to-create-a-react-modal-43h1)
 - [Lifehacker] [The Easiest Way to Get Rid of ‘Ghost’ Message Notifications on Your iPhone](https://lifehacker.com/the-easiest-way-to-get-rid-of-ghost-message-notificat-1850765871?utm_source=regular)
-- [Dev.to/JS] [Javascript 30 array Methods](https://dev.to/muhammadkashif/javascript-30-array-methods-28n1)
 - [Lifehacker] [What&#39;s New on Netflix in September 2023](https://lifehacker.com/new-on-netflix-september-2023-1850765988?utm_source=regular)
-- [Dev.to/JS] [Dev Job Oppurtunities @ VC-Backed Startups + Public Launch of Kombai](https://dev.to/mohanmukund13/dev-job-oppurtunities-vc-backed-startups-public-launch-of-kombai-38kj)
 - [Lifehacker] [You Can Get These Labor Day Tech Deals Early](https://lifehacker.com/you-can-get-these-labor-day-tech-deals-early-1850764868?utm_source=regular)
 - [Lifehacker] [Teach Kids the Six Steps for Joining a Group](https://lifehacker.com/teach-kids-the-six-steps-for-joining-a-group-1850765729?utm_source=regular)
 - [Lifehacker] [How to Snip on Mac](https://lifehacker.com/how-to-snip-on-mac-1850765530?utm_source=regular)
