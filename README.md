@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [As a beginner learn how to design and develop your portfolio website](https://dev.to/eddahchiribett/as-a-beginner-learn-how-to-design-and-develop-your-portfolio-website-3kh7)
+- [Dev.to/JS] [Object-Oriented JavaScript: More Than Just Classes](https://dev.to/raphiki/object-oriented-javascript-more-than-just-classes-3ce1)
+- [Dev.to/JS] [Tailwind, HALT AND CATCH FIRE animated logo](https://dev.to/sohrabzia/tailwind-halt-and-catch-fire-animated-logo-1c17)
+- [Dev.to/JS] [null vs undefined? What to choose? What to use?](https://dev.to/sduduzog/null-vs-undefined-what-to-choose-what-to-use-11g)
 - [Dev.to/JS] [How to Convert exe to APK?](https://dev.to/aksel342/how-to-convert-exe-to-apk-3kij)
 - [Dev.to/JS] [Creating a reactJS project using CLI](https://dev.to/oivlisfriend/creating-a-reactjs-project-using-cli-ffh)
 - [Dev.to/JS] [Elevating Web Design with Framer Motion: Bringing Your Website to Life](https://dev.to/harshahegde/elevating-web-design-with-framer-motion-bringing-your-website-to-life-372n)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tabs - from scratch](https://dev.to/grandschtroumpf/tabs-from-scratch-1f89)
 - [Dev.to/JS] [Mobile app update Day 97](https://dev.to/shreyvijayvargiya/mobile-app-update-day-97-3j89)
 - [Dev.to/JS] [Building responsive Cards with Hover Effect using React and Tailwindcss](https://dev.to/ryaddev/building-responsive-cards-with-hover-effect-using-react-and-tailwindcss-1d4b)
-- [Dev.to/JS] [Add comments to blog website in minutes](https://dev.to/preetsuthar17/add-comments-to-blog-website-in-minutes-k1p)
-- [Dev.to/JS] [Embracing the Simplicity and Power: Why I Love Vanilla JavaScript](https://dev.to/gopisuvanam/embracing-the-simplicity-and-power-why-i-love-vanilla-javascript-lml)
-- [Dev.to/JS] [Netflix System Design Using AWS Services](https://dev.to/koolkishan/netflix-system-design-using-aws-services-27d6)
-- [Dev.to/JS] [Asynchronous JavaScript](https://dev.to/prodevxpert/asynchronous-javascript-50hp)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Wednesday, August 23](https://lifehacker.com/todays-wordle-hints-and-answer-for-wednesday-august-1850761251)
 - [Lifehacker] [The Best Streaming Deals for August 2023](https://lifehacker.com/best-streaming-deals-1850763728)
 - [Lifehacker] [You Can Get SheetsGPT for $50 Right Now](https://lifehacker.com/you-can-get-sheetsgpt-for-50-right-now-1850743934)
