@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unveiling AnalogJS: Crafting Angular Applications with a Fullstack Meta-Framework](https://dev.to/jcvb/unveiling-analogjs-crafting-angular-applications-with-a-fullstack-meta-framework-3ghc)
 - [Dev.to/JS] [Orimon: Elevate Customer Conversations, Boost Conversions](https://dev.to/aiforme/orimon-elevate-customer-conversations-boost-conversions-4ekk)
 - [Dev.to/JS] [Docker MERN stack example](https://dev.to/tienbku/docker-mern-stack-example-7j)
 - [Dev.to/JS] [A Bit About My Background](https://dev.to/damonclark/a-bit-about-my-background-5gla)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get SheetsGPT for $50 Right Now](https://lifehacker.com/you-can-get-sheetsgpt-for-50-right-now-1850743934)
 - [Lifehacker] [Ten Ways You Should Be Using Painter’s Tape](https://lifehacker.com/unexpected-ways-to-use-painters-tape-1850762286)
 - [Lifehacker] [You Can Try a Folding Phone &lpar;Sort of&rpar; Without Buying a Samsung Galaxy Z](https://lifehacker.com/you-can-try-a-folding-phone-sort-of-without-buying-a-1850762885)
-- [Dev.to/JS] [Centering UI Components: A Fun Dive into React&#39;s Flexibility](https://dev.to/othmanadi/-centering-ui-components-a-fun-dive-into-reacts-flexibility-59ib)
 - [Lifehacker] [JetBlue Has $39 One-Way Flights Right Now](https://lifehacker.com/jetblue-has-39-one-way-flights-right-now-1850762749)
 - [Lifehacker] [The Viral Thomas Keller Zucchini Is the Perfect End-of-Summer Side Dish](https://lifehacker.com/the-viral-thomas-keller-zucchini-is-the-perfect-end-of-1850762546)
 - [Lifehacker] [Easy Dorm Room Meals You Can Make in a Crappy Kitchen](https://lifehacker.com/how-to-feed-yourself-in-a-crappy-college-dorm-kitchen-1828468690)
