@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [43 Stories To Learn About Es6](https://dev.to/learnrepo/43-stories-to-learn-about-es6-3491)
 - [Dev.to/JS] [9 Lessons I learned from failing at my first business](https://dev.to/gabrielctroia/9-lessons-i-learned-from-failing-at-my-first-business-fe5)
 - [Dev.to/JS] [A Guide to Date and Time Formatting in JavaScript](https://dev.to/diorla/a-guide-to-date-and-time-formatting-in-javascript-2ol2)
 - [Dev.to/JS] [How I got into OSPP 2023 with ONLYOFFICE – Experience and Journey](https://dev.to/sawanteeshaan/how-i-got-into-ospp-2023-with-onlyoffice-experience-and-journey-4756)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create web headlines that slides in JavaScript](https://dev.to/pazapp/how-to-create-web-headlines-that-slides-in-javascript-2nfg)
 - [Dev.to/JS] [Mega Transfers: Get the Best Luxury Car Chauffeur in London](https://dev.to/monir454/mega-transfers-get-the-best-luxury-car-chauffeur-in-london-3i6b)
 - [Lifehacker] [This eSIM Card With $50 in Travel Data Credits Is $25 Right Now](https://lifehacker.com/this-esim-card-with-50-in-travel-data-credits-is-25-r-1850753994)
-- [Dev.to/JS] [What&#39;s your experience with JavaScript?](https://dev.to/nhshanto/whats-your-experience-with-javascript-2c8j)
 - [Lifehacker] [Where to Get Free Stuff on Craigslist &lpar;and Eight Other Sites&rpar;](https://lifehacker.com/ten-websites-where-you-can-find-free-stuff-1848905689)
 - [Lifehacker] [You Can Control Your Tesla With Siri Now](https://lifehacker.com/how-to-control-your-tesla-with-siri-1850760092)
 - [Lifehacker] [You Need to Update WinRAR Right Now](https://lifehacker.com/you-need-to-update-winrar-right-now-1850761568)
