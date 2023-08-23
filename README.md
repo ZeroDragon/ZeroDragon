@@ -26,21 +26,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Excellent JSON View component. Everyone should give it a try.](https://dev.to/suni/excellent-json-view-component-everyone-should-give-it-a-try-2580)
+- [Dev.to/JS] [Let&#39;s build Vue directives - Plug and play Motion Design with vMotion](https://dev.to/tqbit/lets-build-vue-directives-plug-and-play-motion-design-with-vmotion-23gd)
+- [Dev.to/JS] [Streamline Customer Interactions with Instant AI Chatbot Builder](https://dev.to/aiforme/streamline-customer-interactions-with-instant-ai-chatbot-builder-1i4f)
+- [Lifehacker] [Now Is the Best Time to Seed Your Lawn](https://lifehacker.com/now-is-the-best-time-to-seed-your-lawn-1850764040)
+- [Dev.to/JS] [NextJS Tip ⚡️ High Priority image Preloading for Improved Performance 🚀](https://dev.to/codewithshan/nextjs-tip-high-priority-image-preloading-for-improved-performance-i7l)
 - [Lifehacker] [The Best ‘Dawn Dates’ You Should Try](https://lifehacker.com/the-best-dawn-dates-you-should-try-1850763910)
 - [Dev.to/JS] [How to create a chessboard pattern using pure JavaScript &lpar;Interview question&rpar;](https://dev.to/xplodivity/how-to-create-a-chessboard-pattern-using-pure-javascript-interview-question-2dbe)
 - [Lifehacker] [Don&#39;t Forget to Season Your Cake Mix](https://lifehacker.com/dont-forget-to-season-your-cake-mix-1850764155)
 - [Dev.to/JS] [Generate suggestions for email input](https://dev.to/sujith/generate-suggestions-for-email-input-8am)
-- [Dev.to/JS] [Introducing Atomic Design in Vue.js](https://dev.to/9haroon_dev/introducing-atomic-design-in-vuejs-1l2h)
+- [Dev.to/JS] [🎉Introducing Atomic Design in Vue.js🔥](https://dev.to/9haroon_dev/introducing-atomic-design-in-vuejs-1l2h)
 - [Dev.to/JS] [LEARNING JAVASCRIPT ARRAY IN 2023 FROM THE SCRATCH](https://dev.to/iam_strawb/learning-javascript-array-in-2023-from-the-scratch-22m7)
 - [Lifehacker] [How to Get Money Back From a Gift Card Scam](https://lifehacker.com/how-to-get-money-back-from-a-gift-card-scam-1850763735)
 - [Dev.to/JS] [The Hidden Powers of JavaScript Functions](https://dev.to/shingaiz/the-hidden-powers-of-javascript-functions-gop)
 - [Dev.to/JS] [Push, Pop, Shift, Unshift : An Easy way to remember](https://dev.to/d32ssv/push-pop-shift-unshift-an-easy-way-to-remember-4jg5)
 - [Dev.to/JS] [JavaScript Package Manager Showdown: NPM vs Yarn vs PNPM](https://dev.to/jsdevjournal/javascript-package-manager-showdown-npm-vs-yarn-vs-pnpm-bbj)
 - [Dev.to/JS] [Seeking a software developer](https://dev.to/eizen01/seeking-a-software-developer-1o50)
-- [Dev.to/JS] [As a beginner learn how to design and develop your portfolio website](https://dev.to/eddahchiribett/as-a-beginner-learn-how-to-design-and-develop-your-portfolio-website-3kh7)
-- [Dev.to/JS] [Object-Oriented JavaScript: More Than Just Classes](https://dev.to/raphiki/object-oriented-javascript-more-than-just-classes-3ce1)
-- [Dev.to/JS] [Tailwind, HALT AND CATCH FIRE animated logo](https://dev.to/sohrabzia/tailwind-halt-and-catch-fire-animated-logo-1c17)
-- [Dev.to/JS] [null vs undefined? What to choose? What to use?](https://dev.to/sduduzog/null-vs-undefined-what-to-choose-what-to-use-11g)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Wednesday, August 23](https://lifehacker.com/todays-wordle-hints-and-answer-for-wednesday-august-1850761251)
 - [Lifehacker] [The Best Streaming Deals for August 2023](https://lifehacker.com/best-streaming-deals-1850763728)
 - [Lifehacker] [You Can Get SheetsGPT for $50 Right Now](https://lifehacker.com/you-can-get-sheetsgpt-for-50-right-now-1850743934)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Roast Frozen Broccoli Without It Getting Soggy](https://lifehacker.com/how-to-roast-frozen-broccoli-without-it-getting-soggy-1850759488)
 - [Lifehacker] [You Can Play Nintendo Switch Games on Your iPad Screen](https://lifehacker.com/you-can-play-nintendo-switch-games-on-your-ipad-screen-1850758688)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Tuesday, August 22](https://lifehacker.com/todays-wordle-hints-and-answer-for-tuesday-august-22-1850757200)
-- [Lifehacker] [The Best Ways to Keep Plants Alive During a Heatwave](https://lifehacker.com/the-best-ways-to-keep-plants-alive-during-a-heatwave-1850756764)
-- [Lifehacker] [The Best Tools to Make Moving a Lot Easier](https://lifehacker.com/the-best-tools-to-make-moving-a-lot-easier-1850758392)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Ways to Keep Plants Alive During a Heatwave](https://lifehacker.com/the-best-ways-to-keep-plants-alive-during-a-heatwave-1850756764)<!-- TECH-POSTS:END -->
 
 ---
 
