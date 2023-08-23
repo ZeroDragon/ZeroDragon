@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mobile app update Day 97](https://dev.to/shreyvijayvargiya/mobile-app-update-day-97-3j89)
+- [Dev.to/JS] [Building responsive Cards with Hover Effect using React and Tailwindcss](https://dev.to/ryaddev/building-responsive-cards-with-hover-effect-using-react-and-tailwindcss-1d4b)
+- [Dev.to/JS] [Add comments to blog website in minutes](https://dev.to/preetsuthar17/add-comments-to-blog-website-in-minutes-k1p)
 - [Dev.to/JS] [Embracing the Simplicity and Power: Why I Love Vanilla JavaScript](https://dev.to/gopisuvanam/embracing-the-simplicity-and-power-why-i-love-vanilla-javascript-lml)
 - [Dev.to/JS] [Netflix System Design Using AWS Services](https://dev.to/koolkishan/netflix-system-design-using-aws-services-27d6)
 - [Dev.to/JS] [Asynchronous JavaScript](https://dev.to/prodevxpert/asynchronous-javascript-50hp)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Orimon: Elevate Customer Conversations, Boost Conversions](https://dev.to/aiforme/orimon-elevate-customer-conversations-boost-conversions-4ekk)
 - [Dev.to/JS] [Docker MERN stack example](https://dev.to/tienbku/docker-mern-stack-example-7j)
 - [Dev.to/JS] [A Bit About My Background](https://dev.to/damonclark/a-bit-about-my-background-5gla)
-- [Dev.to/JS] [Boolean Values in JavaScript](https://dev.to/better678/boolean-values-in-javascript-3lo3)
-- [Dev.to/JS] [ExpressJS Handling Cross-Origin Cookies](https://dev.to/alexmercedcoder/expressjs-handling-cross-origin-cookies-38l9)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Wednesday, August 23](https://lifehacker.com/todays-wordle-hints-and-answer-for-wednesday-august-1850761251)
-- [Dev.to/JS] [React useLayoutEffect vs useEffect with examples](https://dev.to/alakkadshaw/react-uselayouteffect-vs-useeffect-with-examples-470g)
 - [Lifehacker] [The Best Streaming Deals for August 2023](https://lifehacker.com/best-streaming-deals-1850763728)
 - [Lifehacker] [You Can Get SheetsGPT for $50 Right Now](https://lifehacker.com/you-can-get-sheetsgpt-for-50-right-now-1850743934)
 - [Lifehacker] [Ten Ways You Should Be Using Painter’s Tape](https://lifehacker.com/unexpected-ways-to-use-painters-tape-1850762286)
