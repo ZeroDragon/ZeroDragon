@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best ‘Dawn Dates’ You Should Try](https://lifehacker.com/the-best-dawn-dates-you-should-try-1850763910)
+- [Dev.to/JS] [How to create a chessboard pattern using pure JavaScript &lpar;Interview question&rpar;](https://dev.to/xplodivity/how-to-create-a-chessboard-pattern-using-pure-javascript-interview-question-2dbe)
+- [Lifehacker] [Don&#39;t Forget to Season Your Cake Mix](https://lifehacker.com/dont-forget-to-season-your-cake-mix-1850764155)
+- [Dev.to/JS] [Generate suggestions for email input](https://dev.to/sujith/generate-suggestions-for-email-input-8am)
+- [Dev.to/JS] [Introducing Atomic Design in Vue.js](https://dev.to/9haroon_dev/introducing-atomic-design-in-vuejs-1l2h)
+- [Dev.to/JS] [LEARNING JAVASCRIPT ARRAY IN 2023 FROM THE SCRATCH](https://dev.to/iam_strawb/learning-javascript-array-in-2023-from-the-scratch-22m7)
 - [Lifehacker] [How to Get Money Back From a Gift Card Scam](https://lifehacker.com/how-to-get-money-back-from-a-gift-card-scam-1850763735)
 - [Dev.to/JS] [The Hidden Powers of JavaScript Functions](https://dev.to/shingaiz/the-hidden-powers-of-javascript-functions-gop)
 - [Dev.to/JS] [Push, Pop, Shift, Unshift : An Easy way to remember](https://dev.to/d32ssv/push-pop-shift-unshift-an-easy-way-to-remember-4jg5)
@@ -35,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Object-Oriented JavaScript: More Than Just Classes](https://dev.to/raphiki/object-oriented-javascript-more-than-just-classes-3ce1)
 - [Dev.to/JS] [Tailwind, HALT AND CATCH FIRE animated logo](https://dev.to/sohrabzia/tailwind-halt-and-catch-fire-animated-logo-1c17)
 - [Dev.to/JS] [null vs undefined? What to choose? What to use?](https://dev.to/sduduzog/null-vs-undefined-what-to-choose-what-to-use-11g)
-- [Dev.to/JS] [How to Convert exe to APK?](https://dev.to/aksel342/how-to-convert-exe-to-apk-3kij)
-- [Dev.to/JS] [Creating a reactJS project using CLI](https://dev.to/oivlisfriend/creating-a-reactjs-project-using-cli-ffh)
-- [Dev.to/JS] [Elevating Web Design with Framer Motion: Bringing Your Website to Life](https://dev.to/harshahegde/elevating-web-design-with-framer-motion-bringing-your-website-to-life-372n)
-- [Dev.to/JS] [How to Publish an App to the App Store](https://dev.to/iosappuploader/how-to-publish-an-app-to-the-app-store-3od4)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Wednesday, August 23](https://lifehacker.com/todays-wordle-hints-and-answer-for-wednesday-august-1850761251)
 - [Lifehacker] [The Best Streaming Deals for August 2023](https://lifehacker.com/best-streaming-deals-1850763728)
 - [Lifehacker] [You Can Get SheetsGPT for $50 Right Now](https://lifehacker.com/you-can-get-sheetsgpt-for-50-right-now-1850743934)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Play Nintendo Switch Games on Your iPad Screen](https://lifehacker.com/you-can-play-nintendo-switch-games-on-your-ipad-screen-1850758688)
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Tuesday, August 22](https://lifehacker.com/todays-wordle-hints-and-answer-for-tuesday-august-22-1850757200)
 - [Lifehacker] [The Best Ways to Keep Plants Alive During a Heatwave](https://lifehacker.com/the-best-ways-to-keep-plants-alive-during-a-heatwave-1850756764)
-- [Lifehacker] [The Best Tools to Make Moving a Lot Easier](https://lifehacker.com/the-best-tools-to-make-moving-a-lot-easier-1850758392)
-- [Lifehacker] [The Best Video Game Deals Right Now](https://lifehacker.com/best-video-game-deals-1850752341)
-- [Lifehacker] [When to Fix Wood Rot Without Replacing It](https://lifehacker.com/when-to-fix-wood-rot-without-replacing-it-1850758026)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Tools to Make Moving a Lot Easier](https://lifehacker.com/the-best-tools-to-make-moving-a-lot-easier-1850758392)<!-- TECH-POSTS:END -->
 
 ---
 
