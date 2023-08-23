@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Custom Hook: useOnScreen](https://dev.to/sergeyleschev/react-custom-hook-useonscreen-1l7c)
+- [Lifehacker] [This Mini Elliptical Is $120 Right Now](https://lifehacker.com/this-mini-elliptical-is-120-right-now-1850754032?utm_source=regular)
+- [Dev.to/JS] [Embarking on a Journey of Web Development Mastery: From Novice to Explorer](https://dev.to/viditgoel/embarking-on-a-journey-of-web-development-mastery-from-novice-to-explorer-14fj)
+- [Lifehacker] [You Should Buy Your Winter Ski Passes Before Labor Day](https://lifehacker.com/you-should-buy-your-winter-ski-passes-before-labor-day-1850767195?utm_source=regular)
+- [Lifehacker] [These Cottage Cheese Breakfast Ideas Make Mornings Easier](https://lifehacker.com/cottage-cheese-is-the-best-no-cook-breakfast-1831588670?utm_source=regular)
+- [Lifehacker] [Build Your Next Ice Cream Sandwich on Saltines](https://lifehacker.com/build-your-next-ice-cream-sandwich-on-saltines-1850767449?utm_source=regular)
 - [Lifehacker] [When You Should Overpay Your Credit Card](https://lifehacker.com/when-you-should-overpay-your-credit-card-1850767094?utm_source=regular)
 - [Dev.to/JS] [How to Increase Website Traffic](https://dev.to/janifer/how-to-increase-website-traffic-327a)
 - [Dev.to/JS] [Creating HelloWorld CLI Command with NodeJS](https://dev.to/crs1138/creating-helloworld-cli-command-with-nodejs-2hfd)
@@ -34,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 32: async/await vs Generators](https://dev.to/dhrn/day-32-asyncawait-vs-generators-502e)
 - [Lifehacker] [Alamo Drafthouse&#39;s Victory Rewards Are Back](https://lifehacker.com/alamo-drafthouses-victory-rewards-are-back-1850766796?utm_source=regular)
 - [Dev.to/JS] [How to visual test UI using Playwright](https://dev.to/chromatic/how-to-visual-test-ui-using-playwright-2dld)
-- [Dev.to/JS] [Demystifying CSS: How to Center a Div for Perfect Layouts](https://dev.to/vayolapradeep/demystifying-css-how-to-center-a-div-for-perfect-layouts-1eon)
 - [Lifehacker] [Turn an Overflowing Garden Into a Batch of Dumplings](https://lifehacker.com/turn-an-overflowing-garden-into-a-batch-of-dumplings-1850764984?utm_source=regular)
 - [Dev.to/JS] [Boost your confidence with these top-notch interview questions and nail your next opportunity.](https://dev.to/codebeasts/boost-your-confidence-with-these-top-notch-interview-questions-and-nail-your-next-opportunity-4878)
 - [Lifehacker] [Look for These Red Flags Before Accepting a Job Offer](https://lifehacker.com/look-for-these-red-flags-before-accepting-a-job-offer-1850766432?utm_source=regular)
@@ -46,7 +51,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Netflix in September 2023](https://lifehacker.com/new-on-netflix-september-2023-1850765988?utm_source=regular)
 - [Dev.to/JS] [Dev Job Oppurtunities @ VC-Backed Startups + Public Launch of Kombai](https://dev.to/mohanmukund13/dev-job-oppurtunities-vc-backed-startups-public-launch-of-kombai-38kj)
 - [Dev.to/JS] [Interfaces vs Types in TypeScript: Understanding the Differences](https://dev.to/avwerosuoghene/interfaces-vs-types-in-typescript-understanding-the-differences-2j61)
-- [Dev.to/JS] [Page Redirection in JavaScript](https://dev.to/iamcymentho/page-redirection-in-javascript-bd8)
 - [Lifehacker] [You Can Get These Labor Day Tech Deals Early](https://lifehacker.com/you-can-get-these-labor-day-tech-deals-early-1850764868?utm_source=regular)
 - [Lifehacker] [Teach Kids the Six Steps for Joining a Group](https://lifehacker.com/teach-kids-the-six-steps-for-joining-a-group-1850765729?utm_source=regular)
 - [Lifehacker] [How to Snip on Mac](https://lifehacker.com/how-to-snip-on-mac-1850765530?utm_source=regular)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Try a Folding Phone &lpar;Sort of&rpar; Without Buying a Samsung Galaxy Z](https://lifehacker.com/you-can-try-a-folding-phone-sort-of-without-buying-a-1850762885?utm_source=regular)
 - [Lifehacker] [JetBlue Has $39 One-Way Flights Right Now](https://lifehacker.com/jetblue-has-39-one-way-flights-right-now-1850762749?utm_source=regular)
 - [Lifehacker] [The Viral Thomas Keller Zucchini Is the Perfect End-of-Summer Side Dish](https://lifehacker.com/the-viral-thomas-keller-zucchini-is-the-perfect-end-of-1850762546?utm_source=regular)
-- [Lifehacker] [Easy Dorm Room Meals You Can Make in a Crappy Kitchen](https://lifehacker.com/how-to-feed-yourself-in-a-crappy-college-dorm-kitchen-1828468690?utm_source=regular)
-- [Lifehacker] [You Might Want to Spread Out Your Severance Pay](https://lifehacker.com/you-might-want-to-spread-out-your-severance-pay-1850762211?utm_source=regular)
-- [Lifehacker] [This eSIM Card With $50 in Travel Data Credits Is $25 Right Now](https://lifehacker.com/this-esim-card-with-50-in-travel-data-credits-is-25-r-1850753994?utm_source=regular)
-- [Lifehacker] [Where to Get Free Stuff on Craigslist &lpar;and Eight Other Sites&rpar;](https://lifehacker.com/ten-websites-where-you-can-find-free-stuff-1848905689?utm_source=regular)
-- [Lifehacker] [You Can Control Your Tesla With Siri Now](https://lifehacker.com/how-to-control-your-tesla-with-siri-1850760092?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Easy Dorm Room Meals You Can Make in a Crappy Kitchen](https://lifehacker.com/how-to-feed-yourself-in-a-crappy-college-dorm-kitchen-1828468690?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
