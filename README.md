@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What People Are Getting Wrong This Week: Hurricane Hilary Misinformation](https://lifehacker.com/hurricane-hilary-misinformation-1850768910?utm_source=regular)
+- [Dev.to/JS] [From Redux Saga to React Query](https://dev.to/abdeldjalilhachimi/from-redux-saga-to-react-query-3n90)
+- [Dev.to/JS] [Hiring Event with OTT company](https://dev.to/bramarish_kadakuntla_5df6/hiring-event-with-ott-company-50kc)
 - [Dev.to/JS] [Creating Stylish Initial-Based Avatars in React](https://dev.to/surbhidighe/creating-stylish-initial-based-avatars-in-react-277j)
 - [Dev.to/JS] [API Driven React-Hook Form &lpar;Dynamic Forms&rpar;](https://dev.to/muhammadazfaraslam/api-driven-react-hook-form-dynamic-forms-3njb)
 - [Dev.to/JS] [Mengoptimalkan Pengalaman Bermain Poker Online dengan Perangkat Lunak Tambahan](https://dev.to/jaerimonfer/mengoptimalkan-pengalaman-bermain-poker-online-dengan-perangkat-lunak-tambahan-hgk)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My NextJs Learning](https://dev.to/mthtitumir/my-nextjs-learning-4652)
 - [Dev.to/JS] [What is Redux?](https://dev.to/solomanerr/what-is-redux-3f1a)
 - [Dev.to/JS] [How to update a few years old outdated project in Node and React?](https://dev.to/meatboy/how-to-update-a-few-years-old-outdated-project-in-node-and-react-31jm)
-- [Dev.to/JS] [ClipBoard API in JavaScript](https://dev.to/salehmubashar/clipboard-api-in-javascript-p18)
-- [Dev.to/JS] [How to Integrate Paystack Payment into your Project with HTML and JavaScript](https://dev.to/yusufxcode/how-to-integrate-paystack-payment-into-your-project-with-html-and-javascript-poh)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, August 24](https://lifehacker.com/today-s-wordle-hints-and-answer-for-thursday-august-1850765557?utm_source=regular)
 - [Lifehacker] [Find Out Who Blocked You on Instagram](https://lifehacker.com/find-out-who-blocked-you-on-instagram-1850763900?utm_source=regular)
 - [Lifehacker] [These Streaming Services Still Offer Free Trials](https://lifehacker.com/these-streaming-services-still-offer-free-trials-1846190471?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Wednesday, August 23](https://lifehacker.com/todays-wordle-hints-and-answer-for-wednesday-august-1850761251?utm_source=regular)
 - [Lifehacker] [The Best Streaming Deals for August 2023](https://lifehacker.com/best-streaming-deals-1850763728?utm_source=regular)
 - [Lifehacker] [You Can Get SheetsGPT for $50 Right Now](https://lifehacker.com/you-can-get-sheetsgpt-for-50-right-now-1850743934?utm_source=regular)
-- [Lifehacker] [Ten Ways You Should Be Using Painter’s Tape](https://lifehacker.com/unexpected-ways-to-use-painters-tape-1850762286?utm_source=regular)
-- [Lifehacker] [You Can Try a Folding Phone &lpar;Sort of&rpar; Without Buying a Samsung Galaxy Z](https://lifehacker.com/you-can-try-a-folding-phone-sort-of-without-buying-a-1850762885?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Ten Ways You Should Be Using Painter’s Tape](https://lifehacker.com/unexpected-ways-to-use-painters-tape-1850762286?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
