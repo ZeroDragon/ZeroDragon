@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering JavaScript: Call, Bind, and Apply 🌟](https://dev.to/dominicazuka/mastering-javascript-call-bind-and-apply-576p)
 - [Dev.to/JS] [Web Dev Tools of the Week &lpar;No. 1&rpar;](https://dev.to/impressivewebs/web-dev-tools-of-the-week-no-1-34k0)
 - [Dev.to/JS] [Introducing Sailhouse, the easiest way to send events ⛵️](https://dev.to/estephinson/introducing-sailhouse-the-easiest-way-to-send-events-2ok7)
 - [Dev.to/JS] [Mastering React&#39;s useCallback, useMemo, Memoization, and Closures](https://dev.to/samanabbasi/mastering-reacts-usecallback-usememo-memoization-and-closures-5ao1)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Testing](https://dev.to/hamid1882/testing-k51)
 - [Lifehacker] [How to Hide Your Phone Number on Android and iPhone](https://lifehacker.com/how-to-hide-your-phone-number-on-android-and-iphone-1850771363?utm_source=regular)
 - [Lifehacker] [How to Decide Which iPhone 14 to Buy](https://lifehacker.com/should-you-buy-the-iphone-14-or-14-pro-1849506382?utm_source=regular)
-- [Dev.to/JS] [Complete Guide to Authentication in JavaScript](https://dev.to/honeybadger/complete-guide-to-authentication-in-javascript-3576)
 - [Lifehacker] [How to Take Mushrooms](https://lifehacker.com/how-to-eat-magic-mushrooms-without-gagging-1850320771?utm_source=regular)
 - [Lifehacker] [How to Make Your First Budget As a College Student](https://lifehacker.com/college-student-budget-tips-1850770900?utm_source=regular)
 - [Crazy Programmer] [10 Key Principles Behind Exceptional Web and Mobile App Designs](https://www.thecrazyprogrammer.com/2023/08/exceptional-web-and-mobile-app-designs.html)
