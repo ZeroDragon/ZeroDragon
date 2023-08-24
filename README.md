@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating Stylish Initial-Based Avatars in React](https://dev.to/surbhidighe/creating-stylish-initial-based-avatars-in-react-277j)
+- [Dev.to/JS] [API Driven React-Hook Form &lpar;Dynamic Forms&rpar;](https://dev.to/muhammadazfaraslam/api-driven-react-hook-form-dynamic-forms-3njb)
 - [Dev.to/JS] [Mengoptimalkan Pengalaman Bermain Poker Online dengan Perangkat Lunak Tambahan](https://dev.to/jaerimonfer/mengoptimalkan-pengalaman-bermain-poker-online-dengan-perangkat-lunak-tambahan-hgk)
 - [Dev.to/JS] [Secure your spot in WebAsha Technologies&#39; Online Cyber Security Classes in Pune](https://dev.to/webashatech49/secure-your-spot-in-webasha-technologies-online-cyber-security-classes-in-pune-52d2)
 - [Dev.to/JS] [Online Cyber Security Training In Pune | WebAsha Technologies](https://dev.to/webashatech49/online-cyber-security-training-in-pune-webasha-technologies-4o1c)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to update a few years old outdated project in Node and React?](https://dev.to/meatboy/how-to-update-a-few-years-old-outdated-project-in-node-and-react-31jm)
 - [Dev.to/JS] [ClipBoard API in JavaScript](https://dev.to/salehmubashar/clipboard-api-in-javascript-p18)
 - [Dev.to/JS] [How to Integrate Paystack Payment into your Project with HTML and JavaScript](https://dev.to/yusufxcode/how-to-integrate-paystack-payment-into-your-project-with-html-and-javascript-poh)
-- [Dev.to/JS] [React vs Other JavaScript Frameworks](https://dev.to/amarondev/react-vs-other-javascript-frameworks-35bj)
-- [Dev.to/JS] [Navigating the Testing Landscape: Where Does Playwright Fit In?](https://dev.to/isolderea/navigating-the-testing-landscape-where-does-playwright-fit-in-5fdd)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, August 24](https://lifehacker.com/today-s-wordle-hints-and-answer-for-thursday-august-1850765557?utm_source=regular)
 - [Lifehacker] [Find Out Who Blocked You on Instagram](https://lifehacker.com/find-out-who-blocked-you-on-instagram-1850763900?utm_source=regular)
 - [Lifehacker] [These Streaming Services Still Offer Free Trials](https://lifehacker.com/these-streaming-services-still-offer-free-trials-1846190471?utm_source=regular)
