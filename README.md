@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 33: Symbols](https://dev.to/dhrn/day-33-symbols-1k8i)
+- [Dev.to/JS] [Mastering React&#39;s useRef Hook: Why it Doesn&#39;t Trigger Re-renders and How it Persists Across Re-renders](https://dev.to/samanabbasi/mastering-useref-why-it-doesnt-trigger-re-renders-and-how-it-persists-across-re-renders-1l2b)
+- [Lifehacker] [How to Get Microsoft Office for Free](https://lifehacker.com/how-to-get-microsoft-office-for-free-1850769369?utm_source=regular)
+- [Dev.to/JS] [Mastering React&#39;s useRef Hook: A Deep Dive](https://dev.to/samanabbasi/mastering-reacts-useref-hook-a-deep-dive-1548)
+- [Lifehacker] [The Best Firefox Extensions Everyone Should Use](https://lifehacker.com/the-best-firefox-extensions-everyone-should-use-1849784170?utm_source=regular)
 - [Lifehacker] [This Dell Laptop With Microsoft Office Is $450 Right Now](https://lifehacker.com/this-dell-laptop-with-microsoft-office-is-450-right-no-1850762602?utm_source=regular)
 - [Dev.to/JS] [Animating the 3D cube with Three.js](https://dev.to/aneeqakhan/animating-the-3d-cube-with-threejs-1i12)
 - [Dev.to/JS] [An Overview of the Mapbox Standard Style](https://dev.to/tylerben/an-overview-of-the-mapbox-standard-style-5737)
@@ -40,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript &amp; Python-Learning by comparison-part 1](https://dev.to/kk-aggarwal/javascript-python-learning-by-comparison-part-1-1olj)
 - [Dev.to/JS] [Creating a more than minor side-project: From planning to release](https://dev.to/llxd/creating-a-more-than-minor-side-project-from-planning-to-release-3be8)
 - [Lifehacker] [What&#39;s New on Disney+ in September 2023](https://lifehacker.com/whats-new-on-disney-in-september-2023-1850766656?utm_source=regular)
-- [Dev.to/JS] [Regex in MongoDB](https://dev.to/ifeanyichima/regex-in-mongodb-436k)
-- [Dev.to/JS] [Best Practices for TypeScript: Elevate Your Code Quality 🚀](https://dev.to/shivamblog/best-practices-for-typescript-elevate-your-code-quality-16j8)
 - [Lifehacker] [What People Are Getting Wrong This Week: Hurricane Hilary Misinformation](https://lifehacker.com/hurricane-hilary-misinformation-1850768910?utm_source=regular)
-- [Dev.to/JS] [From Redux Saga to React Query](https://dev.to/abdeldjalilhachimi/from-redux-saga-to-react-query-3n90)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, August 24](https://lifehacker.com/today-s-wordle-hints-and-answer-for-thursday-august-1850765557?utm_source=regular)
 - [Lifehacker] [Find Out Who Blocked You on Instagram](https://lifehacker.com/find-out-who-blocked-you-on-instagram-1850763900?utm_source=regular)
 - [Lifehacker] [These Streaming Services Still Offer Free Trials](https://lifehacker.com/these-streaming-services-still-offer-free-trials-1846190471?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get These Labor Day Tech Deals Early](https://lifehacker.com/you-can-get-these-labor-day-tech-deals-early-1850764868?utm_source=regular)
 - [Lifehacker] [Teach Kids the Six Steps for Joining a Group](https://lifehacker.com/teach-kids-the-six-steps-for-joining-a-group-1850765729?utm_source=regular)
 - [Lifehacker] [How to Snip on Mac](https://lifehacker.com/how-to-snip-on-mac-1850765530?utm_source=regular)
-- [Lifehacker] [Now Is the Best Time to Seed Your Lawn](https://lifehacker.com/now-is-the-best-time-to-seed-your-lawn-1850764040?utm_source=regular)
-- [Lifehacker] [The Best ‘Dawn Dates’ You Should Try](https://lifehacker.com/the-best-dawn-dates-you-should-try-1850763910?utm_source=regular)
-- [Lifehacker] [Don&#39;t Forget to Season Your Cake Mix](https://lifehacker.com/dont-forget-to-season-your-cake-mix-1850764155?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Now Is the Best Time to Seed Your Lawn](https://lifehacker.com/now-is-the-best-time-to-seed-your-lawn-1850764040?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
