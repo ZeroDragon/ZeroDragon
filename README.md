@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Airlines Have the Most Hidden Fees](https://lifehacker.com/these-airlines-have-the-most-hidden-fees-1850770042?utm_source=regular)
+- [Lifehacker] [This Ad Blocker and Content Filter Is $40 Right Now](https://lifehacker.com/this-ad-blocker-and-content-filter-is-40-right-now-1850762522?utm_source=regular)
+- [Dev.to/JS] [Revolutionizing Your Business With Advanced Digital Solutions](https://dev.to/itservon/revolutionizing-your-business-with-advanced-digital-solutions-1pml)
+- [Lifehacker] [Ten Great Ways to Use up Your Summer Cherries](https://lifehacker.com/10-great-ways-to-use-up-your-last-summer-cherries-1849563458?utm_source=regular)
 - [Dev.to/JS] [Day 33: Symbols](https://dev.to/dhrn/day-33-symbols-1k8i)
+- [Lifehacker] [23 of the Best Boring Movies](https://lifehacker.com/the-most-boring-movies-ever-1850762710?utm_source=regular)
 - [Dev.to/JS] [Mastering React&#39;s useRef Hook: Why it Doesn&#39;t Trigger Re-renders and How it Persists Across Re-renders](https://dev.to/samanabbasi/mastering-useref-why-it-doesnt-trigger-re-renders-and-how-it-persists-across-re-renders-1l2b)
 - [Lifehacker] [How to Get Microsoft Office for Free](https://lifehacker.com/how-to-get-microsoft-office-for-free-1850769369?utm_source=regular)
 - [Dev.to/JS] [Mastering React&#39;s useRef Hook: A Deep Dive](https://dev.to/samanabbasi/mastering-reacts-useref-hook-a-deep-dive-1548)
@@ -43,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Redux nunca mais! Gerenciamento de estados do jeito certo.](https://dev.to/sandersonsoares/redux-nunca-mais-gerenciamento-de-estados-do-jeito-certo-1027)
 - [Lifehacker] [How to Compress Video on Android Fast](https://lifehacker.com/compress-video-on-android-fast-1850767656?utm_source=regular)
 - [Dev.to/JS] [Javascript &amp; Python-Learning by comparison-part 1](https://dev.to/kk-aggarwal/javascript-python-learning-by-comparison-part-1-1olj)
-- [Dev.to/JS] [Creating a more than minor side-project: From planning to release](https://dev.to/llxd/creating-a-more-than-minor-side-project-from-planning-to-release-3be8)
 - [Lifehacker] [What&#39;s New on Disney+ in September 2023](https://lifehacker.com/whats-new-on-disney-in-september-2023-1850766656?utm_source=regular)
 - [Lifehacker] [What People Are Getting Wrong This Week: Hurricane Hilary Misinformation](https://lifehacker.com/hurricane-hilary-misinformation-1850768910?utm_source=regular)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, August 24](https://lifehacker.com/today-s-wordle-hints-and-answer-for-thursday-august-1850765557?utm_source=regular)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Look for These Red Flags Before Accepting a Job Offer](https://lifehacker.com/look-for-these-red-flags-before-accepting-a-job-offer-1850766432?utm_source=regular)
 - [Lifehacker] [These TikTok Accounts Show What Groceries to Buy at the Dollar Store](https://lifehacker.com/these-tiktok-accounts-show-what-groceries-to-buy-at-the-1850766416?utm_source=regular)
 - [Lifehacker] [The Easiest Way to Get Rid of ‘Ghost’ Message Notifications on Your iPhone](https://lifehacker.com/the-easiest-way-to-get-rid-of-ghost-message-notificat-1850765871?utm_source=regular)
-- [Lifehacker] [What&#39;s New on Netflix in September 2023](https://lifehacker.com/new-on-netflix-september-2023-1850765988?utm_source=regular)
-- [Lifehacker] [You Can Get These Labor Day Tech Deals Early](https://lifehacker.com/you-can-get-these-labor-day-tech-deals-early-1850764868?utm_source=regular)
-- [Lifehacker] [Teach Kids the Six Steps for Joining a Group](https://lifehacker.com/teach-kids-the-six-steps-for-joining-a-group-1850765729?utm_source=regular)
-- [Lifehacker] [How to Snip on Mac](https://lifehacker.com/how-to-snip-on-mac-1850765530?utm_source=regular)
-- [Lifehacker] [Now Is the Best Time to Seed Your Lawn](https://lifehacker.com/now-is-the-best-time-to-seed-your-lawn-1850764040?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What&#39;s New on Netflix in September 2023](https://lifehacker.com/new-on-netflix-september-2023-1850765988?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
