@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Currying in Javascript](https://dev.to/zeeshanali0704/currying-in-javascript-2ioa)
+- [Dev.to/JS] [My Portfolio Website: A Showcase of My 6 Years of Experience as a Software Engineer](https://dev.to/ronakjain2012/my-portfolio-website-a-showcase-of-my-6-years-of-experience-as-a-software-engineer-4ji0)
+- [Dev.to/JS] [Debounce Example](https://dev.to/zeeshanali0704/debounce-example-2l21)
+- [Dev.to/JS] [Do Not Save: A Social Templater That Lets You Send Messages Without Saving Numbers](https://dev.to/ronakjain2012/do-not-save-a-social-templater-that-lets-you-send-messages-without-saving-numbers-3ei5)
 - [Dev.to/JS] [Elevate Your SaaS Business with AI Integration](https://dev.to/aiforme/elevate-your-saas-business-with-ai-integration-99i)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, August 24](https://lifehacker.com/today-s-wordle-hints-and-answer-for-thursday-august-1850765557?utm_source=regular)
 - [Dev.to/JS] [Programmers should learn to &quot;provide more choices and make fewer excuses&quot;](https://dev.to/ocean678/programmers-should-learn-to-provide-more-choices-and-make-fewer-excuses-3eef)
@@ -42,13 +46,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Cottage Cheese Breakfast Ideas Make Mornings Easier](https://lifehacker.com/cottage-cheese-is-the-best-no-cook-breakfast-1831588670?utm_source=regular)
 - [Lifehacker] [Build Your Next Ice Cream Sandwich on Saltines](https://lifehacker.com/build-your-next-ice-cream-sandwich-on-saltines-1850767449?utm_source=regular)
 - [Lifehacker] [When You Should Overpay Your Credit Card](https://lifehacker.com/when-you-should-overpay-your-credit-card-1850767094?utm_source=regular)
-- [Dev.to/JS] [How to Increase Website Traffic](https://dev.to/janifer/how-to-increase-website-traffic-327a)
-- [Dev.to/JS] [Creating HelloWorld CLI Command with NodeJS](https://dev.to/crs1138/creating-helloworld-cli-command-with-nodejs-2hfd)
 - [Lifehacker] [You Can Browse the Internet Without CAPTCHA Prompts](https://lifehacker.com/you-can-browse-the-internet-without-captcha-prompts-1850766546?utm_source=regular)
 - [Lifehacker] [Ten Ways to Spend Less on Streaming Services](https://lifehacker.com/spend-less-on-streaming-1850766620?utm_source=regular)
-- [Dev.to/JS] [Day 32: async/await vs Generators](https://dev.to/dhrn/day-32-asyncawait-vs-generators-502e)
 - [Lifehacker] [Alamo Drafthouse&#39;s Victory Rewards Are Back](https://lifehacker.com/alamo-drafthouses-victory-rewards-are-back-1850766796?utm_source=regular)
-- [Dev.to/JS] [How to visual test UI using Playwright](https://dev.to/chromatic/how-to-visual-test-ui-using-playwright-2dld)
 - [Lifehacker] [Turn an Overflowing Garden Into a Batch of Dumplings](https://lifehacker.com/turn-an-overflowing-garden-into-a-batch-of-dumplings-1850764984?utm_source=regular)
 - [Lifehacker] [Look for These Red Flags Before Accepting a Job Offer](https://lifehacker.com/look-for-these-red-flags-before-accepting-a-job-offer-1850766432?utm_source=regular)
 - [Lifehacker] [These TikTok Accounts Show What Groceries to Buy at the Dollar Store](https://lifehacker.com/these-tiktok-accounts-show-what-groceries-to-buy-at-the-1850766416?utm_source=regular)
