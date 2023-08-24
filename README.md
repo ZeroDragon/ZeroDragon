@@ -26,7 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Liu](https://dev.to/liuxy/liu-44jg)
+- [Dev.to/JS] [Navigating the Testing Landscape: Where Does Playwright Fit In?](https://dev.to/isolderea/navigating-the-testing-landscape-where-does-playwright-fit-in-5fdd)
+- [Dev.to/JS] [Episode 23/33: Signal Patterns, &quot;The Women of Angular&quot;](https://dev.to/this-is-angular/episode-2333-signal-patterns-the-women-of-angular-3jah)
+- [Dev.to/JS] [Callback, Callback Hell, Promise Chaining and Async/Await in JavaScript](https://dev.to/shameel/callback-callback-hell-promise-chaining-and-asyncawait-in-javascript-120i)
+- [Dev.to/JS] [65 Stories To Learn About Framework](https://dev.to/learnrepo/65-stories-to-learn-about-framework-24a4)
 - [Dev.to/JS] [Adding &lt;title&gt; tag to React v18.0 using react-helmet](https://dev.to/iamharnad/adding-tag-to-react-v180-using-react-helmet-12n0)
 - [Dev.to/JS] [Bad Practices In JavaScript](https://dev.to/ikamran01/bad-pratices-in-javascript-2213)
 - [Dev.to/JS] [Two certificates for web development](https://dev.to/luyvannda_48/two-certificates-for-web-development-230b)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 5 CDN tools for developer in 2023](https://dev.to/martygo/top-5-cdn-tools-for-developer-in-2023-fo2)
 - [Dev.to/JS] [JavaScript Regular Expressions with Real Life Example](https://dev.to/syedmuhammadaliraza/javascript-regular-expressions-with-real-life-example-3513)
 - [Dev.to/JS] [Miteiru, a Japanese Immersion ElectronJS Video Player](https://dev.to/hockyy/miteiru-a-japanese-immersion-electronjs-video-player-3e42)
-- [Dev.to/JS] [How to get Coursera Financial Aid?](https://dev.to/aqsa81/how-to-get-coursera-financial-aid-2914)
-- [Dev.to/JS] [Currying in Javascript](https://dev.to/zeeshanali0704/currying-in-javascript-2ioa)
-- [Dev.to/JS] [My Portfolio Website: A Showcase of My 6 Years of Experience as a Software Engineer](https://dev.to/ronakjain2012/my-portfolio-website-a-showcase-of-my-6-years-of-experience-as-a-software-engineer-4ji0)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, August 24](https://lifehacker.com/today-s-wordle-hints-and-answer-for-thursday-august-1850765557?utm_source=regular)
 - [Lifehacker] [Find Out Who Blocked You on Instagram](https://lifehacker.com/find-out-who-blocked-you-on-instagram-1850763900?utm_source=regular)
 - [Lifehacker] [These Streaming Services Still Offer Free Trials](https://lifehacker.com/these-streaming-services-still-offer-free-trials-1846190471?utm_source=regular)
