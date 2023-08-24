@@ -26,8 +26,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Preparing for a Cypress Interview: Quickly brushing fundamental understanding](https://dev.to/vicky_ops/preparing-for-a-cypress-interview-quickly-brushing-fundamental-understanding-3a8d)
+- [Dev.to/JS] [React Rendering for Dummies](https://dev.to/carstenbehrens/react-rendering-for-dummies-438h)
+- [Lifehacker] [How to Make Your First Budget As a College Student](https://lifehacker.com/college-student-budget-tips-1850770900?utm_source=regular)
+- [Crazy Programmer] [10 Key Principles Behind Exceptional Web and Mobile App Designs](https://www.thecrazyprogrammer.com/2023/08/exceptional-web-and-mobile-app-designs.html)
+- [Lifehacker] [There&#39;s a New CNN for Max Subscribers](https://lifehacker.com/theres-a-new-cnn-for-max-subscribers-1850770445?utm_source=regular)
 - [Dev.to/JS] [🤖 AI Search and Q&amp;A for Your Dev.to Content with Vrite](https://dev.to/areknawo/ai-search-and-qa-for-your-devto-content-with-vrite-4fch)
 - [Lifehacker] [Why Your Hands Swell When You Run or Walk, and What to Do About It](https://lifehacker.com/why-your-hands-swell-when-you-run-or-walk-and-what-to-1850770500?utm_source=regular)
+- [Lifehacker] [How to Clean Your Belly Button](https://lifehacker.com/here-s-what-happens-when-you-don-t-clean-your-bellybutt-1849864424?utm_source=regular)
 - [Dev.to/JS] [Destructuring can worsen code readability](https://dev.to/receter/destructuring-can-worsen-code-readability-pn6)
 - [Dev.to/JS] [Unlocking the Power of useRef in React: 12 Essential Use Cases](https://dev.to/samanabbasi/unlocking-the-power-of-useref-in-react-12-essential-use-cases-2na2)
 - [Dev.to/JS] [Interactive ROI calculator](https://dev.to/geliogabalus/interactive-roi-calculator-4dl2)
@@ -44,13 +50,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering React&#39;s useRef Hook: A Deep Dive](https://dev.to/samanabbasi/mastering-reacts-useref-hook-a-deep-dive-1548)
 - [Lifehacker] [The Best Firefox Extensions Everyone Should Use](https://lifehacker.com/the-best-firefox-extensions-everyone-should-use-1849784170?utm_source=regular)
 - [Lifehacker] [This Dell Laptop With Microsoft Office Is $450 Right Now](https://lifehacker.com/this-dell-laptop-with-microsoft-office-is-450-right-no-1850762602?utm_source=regular)
-- [Dev.to/JS] [Animating the 3D cube with Three.js](https://dev.to/aneeqakhan/animating-the-3d-cube-with-threejs-1i12)
-- [Dev.to/JS] [An Overview of the Mapbox Standard Style](https://dev.to/tylerben/an-overview-of-the-mapbox-standard-style-5737)
 - [Lifehacker] [PlayStation Portal Is Not the Portable Gaming Console of Your Dreams](https://lifehacker.com/playstation-portal-is-not-the-portable-gaming-console-o-1850769327?utm_source=regular)
 - [Lifehacker] [How to Compress Video on iPhone Fast](https://lifehacker.com/compress-video-on-iphone-fast-1849523806?utm_source=regular)
 - [Lifehacker] [How to Compress Video on Android Fast](https://lifehacker.com/compress-video-on-android-fast-1850767656?utm_source=regular)
 - [Lifehacker] [What&#39;s New on Disney+ in September 2023](https://lifehacker.com/whats-new-on-disney-in-september-2023-1850766656?utm_source=regular)
 - [Lifehacker] [What People Are Getting Wrong This Week: Hurricane Hilary Misinformation](https://lifehacker.com/hurricane-hilary-misinformation-1850768910?utm_source=regular)
+- [Crazy Programmer] [Tim Berners-Lee Quotes](https://www.thecrazyprogrammer.com/2023/08/tim-berners-lee-quotes.html)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, August 24](https://lifehacker.com/today-s-wordle-hints-and-answer-for-thursday-august-1850765557?utm_source=regular)
 - [Lifehacker] [Find Out Who Blocked You on Instagram](https://lifehacker.com/find-out-who-blocked-you-on-instagram-1850763900?utm_source=regular)
 - [Lifehacker] [These Streaming Services Still Offer Free Trials](https://lifehacker.com/these-streaming-services-still-offer-free-trials-1846190471?utm_source=regular)
@@ -60,12 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Build Your Next Ice Cream Sandwich on Saltines](https://lifehacker.com/build-your-next-ice-cream-sandwich-on-saltines-1850767449?utm_source=regular)
 - [Lifehacker] [When You Should Overpay Your Credit Card](https://lifehacker.com/when-you-should-overpay-your-credit-card-1850767094?utm_source=regular)
 - [Lifehacker] [You Can Browse the Internet Without CAPTCHA Prompts](https://lifehacker.com/you-can-browse-the-internet-without-captcha-prompts-1850766546?utm_source=regular)
-- [Lifehacker] [Ten Ways to Spend Less on Streaming Services](https://lifehacker.com/spend-less-on-streaming-1850766620?utm_source=regular)
-- [Lifehacker] [Alamo Drafthouse&#39;s Victory Rewards Are Back](https://lifehacker.com/alamo-drafthouses-victory-rewards-are-back-1850766796?utm_source=regular)
-- [Lifehacker] [Turn an Overflowing Garden Into a Batch of Dumplings](https://lifehacker.com/turn-an-overflowing-garden-into-a-batch-of-dumplings-1850764984?utm_source=regular)
-- [Lifehacker] [Look for These Red Flags Before Accepting a Job Offer](https://lifehacker.com/look-for-these-red-flags-before-accepting-a-job-offer-1850766432?utm_source=regular)
-- [Lifehacker] [These TikTok Accounts Show What Groceries to Buy at the Dollar Store](https://lifehacker.com/these-tiktok-accounts-show-what-groceries-to-buy-at-the-1850766416?utm_source=regular)
-- [Lifehacker] [The Easiest Way to Get Rid of ‘Ghost’ Message Notifications on Your iPhone](https://lifehacker.com/the-easiest-way-to-get-rid-of-ghost-message-notificat-1850765871?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Ten Ways to Spend Less on Streaming Services](https://lifehacker.com/spend-less-on-streaming-1850766620?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
