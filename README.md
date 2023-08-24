@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Complete Guide to Authentication in JavaScript](https://dev.to/honeybadger/complete-guide-to-authentication-in-javascript-3576)
 - [Dev.to/JS] [Preparing for a Cypress Interview: Quickly brushing fundamental understanding](https://dev.to/vicky_ops/preparing-for-a-cypress-interview-quickly-brushing-fundamental-understanding-3a8d)
 - [Dev.to/JS] [React Rendering for Dummies](https://dev.to/carstenbehrens/react-rendering-for-dummies-438h)
 - [Lifehacker] [How to Make Your First Budget As a College Student](https://lifehacker.com/college-student-budget-tips-1850770900?utm_source=regular)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Marey Chart](https://dev.to/geliogabalus/marey-chart-874)
 - [Lifehacker] [These Airlines Have the Most Hidden Fees](https://lifehacker.com/these-airlines-have-the-most-hidden-fees-1850770042?utm_source=regular)
 - [Lifehacker] [This Ad Blocker and Content Filter Is $40 Right Now](https://lifehacker.com/this-ad-blocker-and-content-filter-is-40-right-now-1850762522?utm_source=regular)
-- [Dev.to/JS] [Revolutionizing Your Business With Advanced Digital Solutions](https://dev.to/itservon/revolutionizing-your-business-with-advanced-digital-solutions-1pml)
 - [Lifehacker] [Ten Great Ways to Use up Your Summer Cherries](https://lifehacker.com/10-great-ways-to-use-up-your-last-summer-cherries-1849563458?utm_source=regular)
 - [Dev.to/JS] [Day 33: Symbols](https://dev.to/dhrn/day-33-symbols-1k8i)
 - [Lifehacker] [23 of the Best Boring Movies](https://lifehacker.com/the-most-boring-movies-ever-1850762710?utm_source=regular)
