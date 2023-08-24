@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, August 24](https://lifehacker.com/today-s-wordle-hints-and-answer-for-thursday-august-1850765557?utm_source=regular)
+- [Dev.to/JS] [Programmers should learn to &quot;provide more choices and make fewer excuses&quot;](https://dev.to/ocean678/programmers-should-learn-to-provide-more-choices-and-make-fewer-excuses-3eef)
+- [Dev.to/JS] [null and undefined in JavaScript](https://dev.to/better678/null-and-undefined-in-javascript-21a)
 - [Dev.to/JS] [How I make dark/light theme](https://dev.to/kallarari/how-i-make-darklight-theme-12m)
 - [Dev.to/JS] [Creating forms in React](https://dev.to/bandojay/creating-forms-in-react-3245)
 - [Dev.to/JS] [SliDesk :: Une introduction par Bun](https://dev.to/gouz/slidesk-une-introduction-par-bun-2km2)
@@ -49,8 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Boost your confidence with these top-notch interview questions and nail your next opportunity.](https://dev.to/codebeasts/boost-your-confidence-with-these-top-notch-interview-questions-and-nail-your-next-opportunity-4878)
 - [Lifehacker] [Look for These Red Flags Before Accepting a Job Offer](https://lifehacker.com/look-for-these-red-flags-before-accepting-a-job-offer-1850766432?utm_source=regular)
 - [Lifehacker] [These TikTok Accounts Show What Groceries to Buy at the Dollar Store](https://lifehacker.com/these-tiktok-accounts-show-what-groceries-to-buy-at-the-1850766416?utm_source=regular)
-- [Dev.to/JS] [JavaScript: 6 types of Loops you should know about.](https://dev.to/fullstackjo/javascript-6-types-of-loops-you-should-know-about-fe)
-- [Dev.to/JS] [Step-by-step tutorial on how to create a React Modal.](https://dev.to/aliyuadeniji/step-by-step-tutorial-on-how-to-create-a-react-modal-43h1)
 - [Lifehacker] [The Easiest Way to Get Rid of ‘Ghost’ Message Notifications on Your iPhone](https://lifehacker.com/the-easiest-way-to-get-rid-of-ghost-message-notificat-1850765871?utm_source=regular)
 - [Lifehacker] [What&#39;s New on Netflix in September 2023](https://lifehacker.com/new-on-netflix-september-2023-1850765988?utm_source=regular)
 - [Lifehacker] [You Can Get These Labor Day Tech Deals Early](https://lifehacker.com/you-can-get-these-labor-day-tech-deals-early-1850764868?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Streaming Deals for August 2023](https://lifehacker.com/best-streaming-deals-1850763728?utm_source=regular)
 - [Lifehacker] [You Can Get SheetsGPT for $50 Right Now](https://lifehacker.com/you-can-get-sheetsgpt-for-50-right-now-1850743934?utm_source=regular)
 - [Lifehacker] [Ten Ways You Should Be Using Painter’s Tape](https://lifehacker.com/unexpected-ways-to-use-painters-tape-1850762286?utm_source=regular)
-- [Lifehacker] [You Can Try a Folding Phone &lpar;Sort of&rpar; Without Buying a Samsung Galaxy Z](https://lifehacker.com/you-can-try-a-folding-phone-sort-of-without-buying-a-1850762885?utm_source=regular)
-- [Lifehacker] [JetBlue Has $39 One-Way Flights Right Now](https://lifehacker.com/jetblue-has-39-one-way-flights-right-now-1850762749?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can Try a Folding Phone &lpar;Sort of&rpar; Without Buying a Samsung Galaxy Z](https://lifehacker.com/you-can-try-a-folding-phone-sort-of-without-buying-a-1850762885?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
