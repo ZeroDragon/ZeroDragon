@@ -26,8 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Liu](https://dev.to/liuxy/liu-44jg)
+- [Dev.to/JS] [Adding &lt;title&gt; tag to React v18.0 using react-helmet](https://dev.to/iamharnad/adding-tag-to-react-v180-using-react-helmet-12n0)
+- [Dev.to/JS] [Bad Practices In JavaScript](https://dev.to/ikamran01/bad-pratices-in-javascript-2213)
+- [Dev.to/JS] [Two certificates for web development](https://dev.to/luyvannda_48/two-certificates-for-web-development-230b)
 - [Dev.to/JS] [Optimizing Images for Next.js: A Complete Guide to SEO-friendly Media](https://dev.to/ehsaantech/optimizing-images-for-nextjs-a-complete-guide-to-seo-friendly-media-cdp)
-- [Dev.to/JS] [Adding &lt;title&gt; tag to React v18.0 using react-helmet](https://dev.to/broaddcast91/adding-tag-to-react-v180-using-react-helmet-21bl)
 - [Dev.to/JS] [The AI Community Building The Future.](https://dev.to/danishzayan/the-ai-community-building-the-future-4fdd)
 - [Dev.to/JS] [Top 5 CDN tools for developer in 2023](https://dev.to/martygo/top-5-cdn-tools-for-developer-in-2023-fo2)
 - [Dev.to/JS] [JavaScript Regular Expressions with Real Life Example](https://dev.to/syedmuhammadaliraza/javascript-regular-expressions-with-real-life-example-3513)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to get Coursera Financial Aid?](https://dev.to/aqsa81/how-to-get-coursera-financial-aid-2914)
 - [Dev.to/JS] [Currying in Javascript](https://dev.to/zeeshanali0704/currying-in-javascript-2ioa)
 - [Dev.to/JS] [My Portfolio Website: A Showcase of My 6 Years of Experience as a Software Engineer](https://dev.to/ronakjain2012/my-portfolio-website-a-showcase-of-my-6-years-of-experience-as-a-software-engineer-4ji0)
-- [Dev.to/JS] [Debounce Example](https://dev.to/zeeshanali0704/debounce-example-2l21)
-- [Dev.to/JS] [Do Not Save: A Social Templater That Lets You Send Messages Without Saving Numbers](https://dev.to/ronakjain2012/do-not-save-a-social-templater-that-lets-you-send-messages-without-saving-numbers-3ei5)
-- [Dev.to/JS] [Elevate Your SaaS Business with AI Integration](https://dev.to/aiforme/elevate-your-saas-business-with-ai-integration-99i)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, August 24](https://lifehacker.com/today-s-wordle-hints-and-answer-for-thursday-august-1850765557?utm_source=regular)
 - [Lifehacker] [Find Out Who Blocked You on Instagram](https://lifehacker.com/find-out-who-blocked-you-on-instagram-1850763900?utm_source=regular)
 - [Lifehacker] [These Streaming Services Still Offer Free Trials](https://lifehacker.com/these-streaming-services-still-offer-free-trials-1846190471?utm_source=regular)
