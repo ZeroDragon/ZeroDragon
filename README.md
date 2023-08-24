@@ -26,6 +26,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🤖 AI Search and Q&amp;A for Your Dev.to Content with Vrite](https://dev.to/areknawo/ai-search-and-qa-for-your-devto-content-with-vrite-4fch)
+- [Lifehacker] [Why Your Hands Swell When You Run or Walk, and What to Do About It](https://lifehacker.com/why-your-hands-swell-when-you-run-or-walk-and-what-to-1850770500?utm_source=regular)
+- [Dev.to/JS] [Destructuring can worsen code readability](https://dev.to/receter/destructuring-can-worsen-code-readability-pn6)
+- [Dev.to/JS] [Unlocking the Power of useRef in React: 12 Essential Use Cases](https://dev.to/samanabbasi/unlocking-the-power-of-useref-in-react-12-essential-use-cases-2na2)
+- [Dev.to/JS] [Interactive ROI calculator](https://dev.to/geliogabalus/interactive-roi-calculator-4dl2)
+- [Dev.to/JS] [Light &amp; Dark Mode for diagrams &lpar;flowchart&rpar;](https://dev.to/geliogabalus/light-dark-mode-for-diagrams-flowchart-13b8)
+- [Dev.to/JS] [Marey Chart](https://dev.to/geliogabalus/marey-chart-874)
 - [Lifehacker] [These Airlines Have the Most Hidden Fees](https://lifehacker.com/these-airlines-have-the-most-hidden-fees-1850770042?utm_source=regular)
 - [Lifehacker] [This Ad Blocker and Content Filter Is $40 Right Now](https://lifehacker.com/this-ad-blocker-and-content-filter-is-40-right-now-1850762522?utm_source=regular)
 - [Dev.to/JS] [Revolutionizing Your Business With Advanced Digital Solutions](https://dev.to/itservon/revolutionizing-your-business-with-advanced-digital-solutions-1pml)
@@ -39,15 +46,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Dell Laptop With Microsoft Office Is $450 Right Now](https://lifehacker.com/this-dell-laptop-with-microsoft-office-is-450-right-no-1850762602?utm_source=regular)
 - [Dev.to/JS] [Animating the 3D cube with Three.js](https://dev.to/aneeqakhan/animating-the-3d-cube-with-threejs-1i12)
 - [Dev.to/JS] [An Overview of the Mapbox Standard Style](https://dev.to/tylerben/an-overview-of-the-mapbox-standard-style-5737)
-- [Dev.to/JS] [Real-Time Project Management with Bryntum Gantt](https://dev.to/bryntum/real-time-project-management-with-bryntum-gantt-377b)
-- [Dev.to/JS] [Demystifying Next.js: A Fresh Perspective on the Meta-Framework Enhancing React.js](https://dev.to/hunt092/demystifying-nextjs-a-fresh-perspective-on-the-meta-framework-enhancing-reactjs-3f0j)
-- [Dev.to/JS] [Empower Your Creativity with Personalised NO CODE AI Apps](https://dev.to/aiforme/empower-your-creativity-with-personalised-no-code-ai-apps-1pbn)
 - [Lifehacker] [PlayStation Portal Is Not the Portable Gaming Console of Your Dreams](https://lifehacker.com/playstation-portal-is-not-the-portable-gaming-console-o-1850769327?utm_source=regular)
 - [Lifehacker] [How to Compress Video on iPhone Fast](https://lifehacker.com/compress-video-on-iphone-fast-1849523806?utm_source=regular)
-- [Dev.to/JS] [$lookup in MongoDB](https://dev.to/ifeanyichima/lookup-in-mongodb-11fm)
-- [Dev.to/JS] [Redux nunca mais! Gerenciamento de estados do jeito certo.](https://dev.to/sandersonsoares/redux-nunca-mais-gerenciamento-de-estados-do-jeito-certo-1027)
 - [Lifehacker] [How to Compress Video on Android Fast](https://lifehacker.com/compress-video-on-android-fast-1850767656?utm_source=regular)
-- [Dev.to/JS] [Javascript &amp; Python-Learning by comparison-part 1](https://dev.to/kk-aggarwal/javascript-python-learning-by-comparison-part-1-1olj)
 - [Lifehacker] [What&#39;s New on Disney+ in September 2023](https://lifehacker.com/whats-new-on-disney-in-september-2023-1850766656?utm_source=regular)
 - [Lifehacker] [What People Are Getting Wrong This Week: Hurricane Hilary Misinformation](https://lifehacker.com/hurricane-hilary-misinformation-1850768910?utm_source=regular)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, August 24](https://lifehacker.com/today-s-wordle-hints-and-answer-for-thursday-august-1850765557?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Turn an Overflowing Garden Into a Batch of Dumplings](https://lifehacker.com/turn-an-overflowing-garden-into-a-batch-of-dumplings-1850764984?utm_source=regular)
 - [Lifehacker] [Look for These Red Flags Before Accepting a Job Offer](https://lifehacker.com/look-for-these-red-flags-before-accepting-a-job-offer-1850766432?utm_source=regular)
 - [Lifehacker] [These TikTok Accounts Show What Groceries to Buy at the Dollar Store](https://lifehacker.com/these-tiktok-accounts-show-what-groceries-to-buy-at-the-1850766416?utm_source=regular)
-- [Lifehacker] [The Easiest Way to Get Rid of ‘Ghost’ Message Notifications on Your iPhone](https://lifehacker.com/the-easiest-way-to-get-rid-of-ghost-message-notificat-1850765871?utm_source=regular)
-- [Lifehacker] [What&#39;s New on Netflix in September 2023](https://lifehacker.com/new-on-netflix-september-2023-1850765988?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Get Rid of ‘Ghost’ Message Notifications on Your iPhone](https://lifehacker.com/the-easiest-way-to-get-rid-of-ghost-message-notificat-1850765871?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
