@@ -26,6 +26,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Dell Laptop With Microsoft Office Is $450 Right Now](https://lifehacker.com/this-dell-laptop-with-microsoft-office-is-450-right-no-1850762602?utm_source=regular)
+- [Dev.to/JS] [Animating the 3D cube with Three.js](https://dev.to/aneeqakhan/animating-the-3d-cube-with-threejs-1i12)
+- [Dev.to/JS] [An Overview of the Mapbox Standard Style](https://dev.to/tylerben/an-overview-of-the-mapbox-standard-style-5737)
+- [Dev.to/JS] [Real-Time Project Management with Bryntum Gantt](https://dev.to/bryntum/real-time-project-management-with-bryntum-gantt-377b)
+- [Dev.to/JS] [Demystifying Next.js: A Fresh Perspective on the Meta-Framework Enhancing React.js](https://dev.to/hunt092/demystifying-nextjs-a-fresh-perspective-on-the-meta-framework-enhancing-reactjs-3f0j)
+- [Dev.to/JS] [Empower Your Creativity with Personalised NO CODE AI Apps](https://dev.to/aiforme/empower-your-creativity-with-personalised-no-code-ai-apps-1pbn)
+- [Lifehacker] [PlayStation Portal Is Not the Portable Gaming Console of Your Dreams](https://lifehacker.com/playstation-portal-is-not-the-portable-gaming-console-o-1850769327?utm_source=regular)
+- [Lifehacker] [How to Compress Video on iPhone Fast](https://lifehacker.com/compress-video-on-iphone-fast-1849523806?utm_source=regular)
+- [Dev.to/JS] [$lookup in MongoDB](https://dev.to/ifeanyichima/lookup-in-mongodb-11fm)
+- [Dev.to/JS] [Redux nunca mais! Gerenciamento de estados do jeito certo.](https://dev.to/sandersonsoares/redux-nunca-mais-gerenciamento-de-estados-do-jeito-certo-1027)
+- [Lifehacker] [How to Compress Video on Android Fast](https://lifehacker.com/compress-video-on-android-fast-1850767656?utm_source=regular)
 - [Dev.to/JS] [Javascript &amp; Python-Learning by comparison-part 1](https://dev.to/kk-aggarwal/javascript-python-learning-by-comparison-part-1-1olj)
 - [Dev.to/JS] [Creating a more than minor side-project: From planning to release](https://dev.to/llxd/creating-a-more-than-minor-side-project-from-planning-to-release-3be8)
 - [Lifehacker] [What&#39;s New on Disney+ in September 2023](https://lifehacker.com/whats-new-on-disney-in-september-2023-1850766656?utm_source=regular)
@@ -33,13 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Practices for TypeScript: Elevate Your Code Quality 🚀](https://dev.to/shivamblog/best-practices-for-typescript-elevate-your-code-quality-16j8)
 - [Lifehacker] [What People Are Getting Wrong This Week: Hurricane Hilary Misinformation](https://lifehacker.com/hurricane-hilary-misinformation-1850768910?utm_source=regular)
 - [Dev.to/JS] [From Redux Saga to React Query](https://dev.to/abdeldjalilhachimi/from-redux-saga-to-react-query-3n90)
-- [Dev.to/JS] [Hiring Event with OTT company](https://dev.to/bramarish_kadakuntla_5df6/hiring-event-with-ott-company-50kc)
-- [Dev.to/JS] [Creating Stylish Initial-Based Avatars in React](https://dev.to/surbhidighe/creating-stylish-initial-based-avatars-in-react-277j)
-- [Dev.to/JS] [API Driven React-Hook Form &lpar;Dynamic Forms&rpar;](https://dev.to/muhammadazfaraslam/api-driven-react-hook-form-dynamic-forms-3njb)
-- [Dev.to/JS] [Mengoptimalkan Pengalaman Bermain Poker Online dengan Perangkat Lunak Tambahan](https://dev.to/jaerimonfer/mengoptimalkan-pengalaman-bermain-poker-online-dengan-perangkat-lunak-tambahan-hgk)
-- [Dev.to/JS] [Secure your spot in WebAsha Technologies&#39; Online Cyber Security Classes in Pune](https://dev.to/webashatech49/secure-your-spot-in-webasha-technologies-online-cyber-security-classes-in-pune-52d2)
-- [Dev.to/JS] [Online Cyber Security Training In Pune | WebAsha Technologies](https://dev.to/webashatech49/online-cyber-security-training-in-pune-webasha-technologies-4o1c)
-- [Dev.to/JS] [Cyber Security Course in Pune | WebAsha Technologies](https://dev.to/webashatech49/cyber-security-course-in-pune-webasha-technologies-1ghp)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, August 24](https://lifehacker.com/today-s-wordle-hints-and-answer-for-thursday-august-1850765557?utm_source=regular)
 - [Lifehacker] [Find Out Who Blocked You on Instagram](https://lifehacker.com/find-out-who-blocked-you-on-instagram-1850763900?utm_source=regular)
 - [Lifehacker] [These Streaming Services Still Offer Free Trials](https://lifehacker.com/these-streaming-services-still-offer-free-trials-1846190471?utm_source=regular)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Snip on Mac](https://lifehacker.com/how-to-snip-on-mac-1850765530?utm_source=regular)
 - [Lifehacker] [Now Is the Best Time to Seed Your Lawn](https://lifehacker.com/now-is-the-best-time-to-seed-your-lawn-1850764040?utm_source=regular)
 - [Lifehacker] [The Best ‘Dawn Dates’ You Should Try](https://lifehacker.com/the-best-dawn-dates-you-should-try-1850763910?utm_source=regular)
-- [Lifehacker] [Don&#39;t Forget to Season Your Cake Mix](https://lifehacker.com/dont-forget-to-season-your-cake-mix-1850764155?utm_source=regular)
-- [Lifehacker] [How to Get Money Back From a Gift Card Scam](https://lifehacker.com/how-to-get-money-back-from-a-gift-card-scam-1850763735?utm_source=regular)
-- [Lifehacker] [Today&#39;s Wordle Hints &lpar;and Answer&rpar; for Wednesday, August 23](https://lifehacker.com/todays-wordle-hints-and-answer-for-wednesday-august-1850761251?utm_source=regular)
-- [Lifehacker] [The Best Streaming Deals for August 2023](https://lifehacker.com/best-streaming-deals-1850763728?utm_source=regular)
-- [Lifehacker] [You Can Get SheetsGPT for $50 Right Now](https://lifehacker.com/you-can-get-sheetsgpt-for-50-right-now-1850743934?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Forget to Season Your Cake Mix](https://lifehacker.com/dont-forget-to-season-your-cake-mix-1850764155?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
