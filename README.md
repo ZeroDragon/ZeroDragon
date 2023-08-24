@@ -26,7 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Dev Tools of the Week &lpar;No. 1&rpar;](https://dev.to/impressivewebs/web-dev-tools-of-the-week-no-1-34k0)
+- [Dev.to/JS] [Introducing Sailhouse, the easiest way to send events ⛵️](https://dev.to/estephinson/introducing-sailhouse-the-easiest-way-to-send-events-2ok7)
+- [Dev.to/JS] [Mastering React&#39;s useCallback, useMemo, Memoization, and Closures](https://dev.to/samanabbasi/mastering-reacts-usecallback-usememo-memoization-and-closures-5ao1)
+- [Lifehacker] [Leftover Potato Salad Wants to Be Roasted](https://lifehacker.com/give-your-leftover-potato-salad-new-life-by-roasting-it-1710218388?utm_source=regular)
 - [Dev.to/JS] [React Custom Hook: usePrevious](https://dev.to/sergeyleschev/react-custom-hook-useprevious-1oii)
+- [Lifehacker] [These Are the Best Labor Day Sale Deals for Large Appliances](https://lifehacker.com/these-are-the-best-labor-day-sale-deals-for-large-appli-1850771766?utm_source=regular)
 - [Dev.to/JS] [The Frontend newsletter #11 - Discover the latest trends](https://dev.to/tech_foutraque/the-frontend-newsletter-11-discover-the-latest-trends-58kd)
 - [Lifehacker] [You Can DIY a Better Taco Bell Grilled Cheese Dipping Taco](https://lifehacker.com/you-can-diy-a-better-taco-bell-grilled-cheese-dipping-t-1850771107?utm_source=regular)
 - [Dev.to/JS] [Rust Port of Webpack? Rspack, the New Kid on the Block](https://dev.to/scriptedalchemy/rust-port-of-webpack-rspack-the-new-kid-on-the-block-4dde)
@@ -40,12 +45,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Decide Which iPhone 14 to Buy](https://lifehacker.com/should-you-buy-the-iphone-14-or-14-pro-1849506382?utm_source=regular)
 - [Dev.to/JS] [Complete Guide to Authentication in JavaScript](https://dev.to/honeybadger/complete-guide-to-authentication-in-javascript-3576)
 - [Lifehacker] [How to Take Mushrooms](https://lifehacker.com/how-to-eat-magic-mushrooms-without-gagging-1850320771?utm_source=regular)
-- [Dev.to/JS] [Preparing for a Cypress Interview: Quickly brushing fundamental understanding](https://dev.to/vicky_ops/preparing-for-a-cypress-interview-quickly-brushing-fundamental-understanding-3a8d)
-- [Dev.to/JS] [React Rendering for Dummies](https://dev.to/carstenbehrens/react-rendering-for-dummies-438h)
 - [Lifehacker] [How to Make Your First Budget As a College Student](https://lifehacker.com/college-student-budget-tips-1850770900?utm_source=regular)
 - [Crazy Programmer] [10 Key Principles Behind Exceptional Web and Mobile App Designs](https://www.thecrazyprogrammer.com/2023/08/exceptional-web-and-mobile-app-designs.html)
 - [Lifehacker] [There&#39;s a New CNN for Max Subscribers](https://lifehacker.com/theres-a-new-cnn-for-max-subscribers-1850770445?utm_source=regular)
-- [Dev.to/JS] [🤖 AI Search and Q&amp;A for Your Dev.to Content with Vrite](https://dev.to/areknawo/ai-search-and-qa-for-your-devto-content-with-vrite-4fch)
 - [Lifehacker] [Why Your Hands Swell When You Run or Walk, and What to Do About It](https://lifehacker.com/why-your-hands-swell-when-you-run-or-walk-and-what-to-1850770500?utm_source=regular)
 - [Lifehacker] [How to Clean Your Belly Button](https://lifehacker.com/here-s-what-happens-when-you-don-t-clean-your-bellybutt-1849864424?utm_source=regular)
 - [Lifehacker] [These Airlines Have the Most Hidden Fees](https://lifehacker.com/these-airlines-have-the-most-hidden-fees-1850770042?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Tim Berners-Lee Quotes](https://www.thecrazyprogrammer.com/2023/08/tim-berners-lee-quotes.html)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, August 24](https://lifehacker.com/today-s-wordle-hints-and-answer-for-thursday-august-1850765557?utm_source=regular)
 - [Lifehacker] [Find Out Who Blocked You on Instagram](https://lifehacker.com/find-out-who-blocked-you-on-instagram-1850763900?utm_source=regular)
-- [Lifehacker] [These Streaming Services Still Offer Free Trials](https://lifehacker.com/these-streaming-services-still-offer-free-trials-1846190471?utm_source=regular)
-- [Lifehacker] [This Mini Elliptical Is $120 Right Now](https://lifehacker.com/this-mini-elliptical-is-120-right-now-1850754032?utm_source=regular)
-- [Lifehacker] [You Should Buy Your Winter Ski Passes Before Labor Day](https://lifehacker.com/you-should-buy-your-winter-ski-passes-before-labor-day-1850767195?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [These Streaming Services Still Offer Free Trials](https://lifehacker.com/these-streaming-services-still-offer-free-trials-1846190471?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
