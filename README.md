@@ -26,7 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Moonly weekly progress update #62 - Raffle Feature and Twitter Space Giveaway](https://dev.to/moonly/moonly-weekly-progress-update-62-raffle-feature-and-twitter-space-giveaway-12lf)
+- [Dev.to/JS] [Testing](https://dev.to/hamid1882/testing-k51)
+- [Lifehacker] [How to Hide Your Phone Number on Android and iPhone](https://lifehacker.com/how-to-hide-your-phone-number-on-android-and-iphone-1850771363?utm_source=regular)
 - [Dev.to/JS] [Complete Guide to Authentication in JavaScript](https://dev.to/honeybadger/complete-guide-to-authentication-in-javascript-3576)
+- [Lifehacker] [How to Take Mushrooms](https://lifehacker.com/how-to-eat-magic-mushrooms-without-gagging-1850320771?utm_source=regular)
 - [Dev.to/JS] [Preparing for a Cypress Interview: Quickly brushing fundamental understanding](https://dev.to/vicky_ops/preparing-for-a-cypress-interview-quickly-brushing-fundamental-understanding-3a8d)
 - [Dev.to/JS] [React Rendering for Dummies](https://dev.to/carstenbehrens/react-rendering-for-dummies-438h)
 - [Lifehacker] [How to Make Your First Budget As a College Student](https://lifehacker.com/college-student-budget-tips-1850770900?utm_source=regular)
@@ -45,9 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ten Great Ways to Use up Your Summer Cherries](https://lifehacker.com/10-great-ways-to-use-up-your-last-summer-cherries-1849563458?utm_source=regular)
 - [Dev.to/JS] [Day 33: Symbols](https://dev.to/dhrn/day-33-symbols-1k8i)
 - [Lifehacker] [23 of the Best Boring Movies](https://lifehacker.com/the-most-boring-movies-ever-1850762710?utm_source=regular)
-- [Dev.to/JS] [Mastering React&#39;s useRef Hook: Why it Doesn&#39;t Trigger Re-renders and How it Persists Across Re-renders](https://dev.to/samanabbasi/mastering-useref-why-it-doesnt-trigger-re-renders-and-how-it-persists-across-re-renders-1l2b)
 - [Lifehacker] [How to Get Microsoft Office for Free](https://lifehacker.com/how-to-get-microsoft-office-for-free-1850769369?utm_source=regular)
-- [Dev.to/JS] [Mastering React&#39;s useRef Hook: A Deep Dive](https://dev.to/samanabbasi/mastering-reacts-useref-hook-a-deep-dive-1548)
 - [Lifehacker] [The Best Firefox Extensions Everyone Should Use](https://lifehacker.com/the-best-firefox-extensions-everyone-should-use-1849784170?utm_source=regular)
 - [Lifehacker] [This Dell Laptop With Microsoft Office Is $450 Right Now](https://lifehacker.com/this-dell-laptop-with-microsoft-office-is-450-right-no-1850762602?utm_source=regular)
 - [Lifehacker] [PlayStation Portal Is Not the Portable Gaming Console of Your Dreams](https://lifehacker.com/playstation-portal-is-not-the-portable-gaming-console-o-1850769327?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Buy Your Winter Ski Passes Before Labor Day](https://lifehacker.com/you-should-buy-your-winter-ski-passes-before-labor-day-1850767195?utm_source=regular)
 - [Lifehacker] [These Cottage Cheese Breakfast Ideas Make Mornings Easier](https://lifehacker.com/cottage-cheese-is-the-best-no-cook-breakfast-1831588670?utm_source=regular)
 - [Lifehacker] [Build Your Next Ice Cream Sandwich on Saltines](https://lifehacker.com/build-your-next-ice-cream-sandwich-on-saltines-1850767449?utm_source=regular)
-- [Lifehacker] [When You Should Overpay Your Credit Card](https://lifehacker.com/when-you-should-overpay-your-credit-card-1850767094?utm_source=regular)
-- [Lifehacker] [You Can Browse the Internet Without CAPTCHA Prompts](https://lifehacker.com/you-can-browse-the-internet-without-captcha-prompts-1850766546?utm_source=regular)
-- [Lifehacker] [Ten Ways to Spend Less on Streaming Services](https://lifehacker.com/spend-less-on-streaming-1850766620?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [When You Should Overpay Your Credit Card](https://lifehacker.com/when-you-should-overpay-your-credit-card-1850767094?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
