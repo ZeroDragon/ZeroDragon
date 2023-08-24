@@ -26,9 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Custom Hook: usePrevious](https://dev.to/sergeyleschev/react-custom-hook-useprevious-1oii)
+- [Dev.to/JS] [The Frontend newsletter #11 - Discover the latest trends](https://dev.to/tech_foutraque/the-frontend-newsletter-11-discover-the-latest-trends-58kd)
+- [Lifehacker] [You Can DIY a Better Taco Bell Grilled Cheese Dipping Taco](https://lifehacker.com/you-can-diy-a-better-taco-bell-grilled-cheese-dipping-t-1850771107?utm_source=regular)
+- [Dev.to/JS] [Rust Port of Webpack? Rspack, the New Kid on the Block](https://dev.to/scriptedalchemy/rust-port-of-webpack-rspack-the-new-kid-on-the-block-4dde)
+- [Dev.to/JS] [Creating Tailwind CSS Dark Mode Using HTML and JS](https://dev.to/parzival_computer/creating-tailwind-css-dark-mode-using-html-and-js-43pe)
+- [Lifehacker] [This Is the Right Way to Stuff a Waffle](https://lifehacker.com/this-is-the-right-way-to-stuff-a-waffle-1850771697?utm_source=regular)
+- [Dev.to/JS] [How to Solve Captcha in Puppeteer using CapSolver](https://dev.to/beropex/how-to-solve-captcha-in-puppeteer-using-capsolver-5e3l)
+- [Dev.to/JS] [Capsolver Extension - Solve Cloudflare in your browser](https://dev.to/beropex/capsolver-extension-solve-cloudflare-in-your-browser-m0l)
 - [Dev.to/JS] [Moonly weekly progress update #62 - Raffle Feature and Twitter Space Giveaway](https://dev.to/moonly/moonly-weekly-progress-update-62-raffle-feature-and-twitter-space-giveaway-12lf)
 - [Dev.to/JS] [Testing](https://dev.to/hamid1882/testing-k51)
 - [Lifehacker] [How to Hide Your Phone Number on Android and iPhone](https://lifehacker.com/how-to-hide-your-phone-number-on-android-and-iphone-1850771363?utm_source=regular)
+- [Lifehacker] [How to Decide Which iPhone 14 to Buy](https://lifehacker.com/should-you-buy-the-iphone-14-or-14-pro-1849506382?utm_source=regular)
 - [Dev.to/JS] [Complete Guide to Authentication in JavaScript](https://dev.to/honeybadger/complete-guide-to-authentication-in-javascript-3576)
 - [Lifehacker] [How to Take Mushrooms](https://lifehacker.com/how-to-eat-magic-mushrooms-without-gagging-1850320771?utm_source=regular)
 - [Dev.to/JS] [Preparing for a Cypress Interview: Quickly brushing fundamental understanding](https://dev.to/vicky_ops/preparing-for-a-cypress-interview-quickly-brushing-fundamental-understanding-3a8d)
@@ -39,15 +48,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🤖 AI Search and Q&amp;A for Your Dev.to Content with Vrite](https://dev.to/areknawo/ai-search-and-qa-for-your-devto-content-with-vrite-4fch)
 - [Lifehacker] [Why Your Hands Swell When You Run or Walk, and What to Do About It](https://lifehacker.com/why-your-hands-swell-when-you-run-or-walk-and-what-to-1850770500?utm_source=regular)
 - [Lifehacker] [How to Clean Your Belly Button](https://lifehacker.com/here-s-what-happens-when-you-don-t-clean-your-bellybutt-1849864424?utm_source=regular)
-- [Dev.to/JS] [Destructuring can worsen code readability](https://dev.to/receter/destructuring-can-worsen-code-readability-pn6)
-- [Dev.to/JS] [Unlocking the Power of useRef in React: 12 Essential Use Cases](https://dev.to/samanabbasi/unlocking-the-power-of-useref-in-react-12-essential-use-cases-2na2)
-- [Dev.to/JS] [Interactive ROI calculator](https://dev.to/geliogabalus/interactive-roi-calculator-4dl2)
-- [Dev.to/JS] [Light &amp; Dark Mode for diagrams &lpar;flowchart&rpar;](https://dev.to/geliogabalus/light-dark-mode-for-diagrams-flowchart-13b8)
-- [Dev.to/JS] [Marey Chart](https://dev.to/geliogabalus/marey-chart-874)
 - [Lifehacker] [These Airlines Have the Most Hidden Fees](https://lifehacker.com/these-airlines-have-the-most-hidden-fees-1850770042?utm_source=regular)
 - [Lifehacker] [This Ad Blocker and Content Filter Is $40 Right Now](https://lifehacker.com/this-ad-blocker-and-content-filter-is-40-right-now-1850762522?utm_source=regular)
 - [Lifehacker] [Ten Great Ways to Use up Your Summer Cherries](https://lifehacker.com/10-great-ways-to-use-up-your-last-summer-cherries-1849563458?utm_source=regular)
-- [Dev.to/JS] [Day 33: Symbols](https://dev.to/dhrn/day-33-symbols-1k8i)
 - [Lifehacker] [23 of the Best Boring Movies](https://lifehacker.com/the-most-boring-movies-ever-1850762710?utm_source=regular)
 - [Lifehacker] [How to Get Microsoft Office for Free](https://lifehacker.com/how-to-get-microsoft-office-for-free-1850769369?utm_source=regular)
 - [Lifehacker] [The Best Firefox Extensions Everyone Should Use](https://lifehacker.com/the-best-firefox-extensions-everyone-should-use-1849784170?utm_source=regular)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Find Out Who Blocked You on Instagram](https://lifehacker.com/find-out-who-blocked-you-on-instagram-1850763900?utm_source=regular)
 - [Lifehacker] [These Streaming Services Still Offer Free Trials](https://lifehacker.com/these-streaming-services-still-offer-free-trials-1846190471?utm_source=regular)
 - [Lifehacker] [This Mini Elliptical Is $120 Right Now](https://lifehacker.com/this-mini-elliptical-is-120-right-now-1850754032?utm_source=regular)
-- [Lifehacker] [You Should Buy Your Winter Ski Passes Before Labor Day](https://lifehacker.com/you-should-buy-your-winter-ski-passes-before-labor-day-1850767195?utm_source=regular)
-- [Lifehacker] [These Cottage Cheese Breakfast Ideas Make Mornings Easier](https://lifehacker.com/cottage-cheese-is-the-best-no-cook-breakfast-1831588670?utm_source=regular)
-- [Lifehacker] [Build Your Next Ice Cream Sandwich on Saltines](https://lifehacker.com/build-your-next-ice-cream-sandwich-on-saltines-1850767449?utm_source=regular)
-- [Lifehacker] [When You Should Overpay Your Credit Card](https://lifehacker.com/when-you-should-overpay-your-credit-card-1850767094?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Buy Your Winter Ski Passes Before Labor Day](https://lifehacker.com/you-should-buy-your-winter-ski-passes-before-labor-day-1850767195?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
