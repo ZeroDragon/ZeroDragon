@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Phone Otp login using react Js](https://dev.to/shiwani295/phone-otp-login-using-react-js-2gla)
+- [Dev.to/JS] [🚀 React Redux Integration: Mastering State Management!](https://dev.to/dominicazuka/react-redux-integration-mastering-state-management-3ndg)
+- [Dev.to/JS] [A Comprehensive Guide to Building a Basic Form with React Hook Form.](https://dev.to/manavss/how-to-set-up-basic-react-hook-form-10i2)
 - [Dev.to/JS] [Building a Web Document Rectification App with Blazor WebAssembly and Dynamsoft Document Normalizer SDK](https://dev.to/yushulx/building-a-web-document-rectification-app-with-blazor-webassembly-and-dynamsoft-document-normalizer-sdk-518e)
 - [Dev.to/JS] [Techniques for debugging and troubleshooting code more effectively in javascript and typescript](https://dev.to/shivamblog/techniques-for-debugging-and-troubleshooting-code-more-effectively-in-javascript-and-typescript-d40)
 - [Dev.to/JS] [Create an NodeJs Server in Typescript](https://dev.to/blu3fire89/create-an-expressjs-server-in-typescript-32g4)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A New Horizon in Data Compression: Matchmaking Run-Length Algorithm](https://dev.to/vipert/a-new-horizon-in-data-compression-matchmaking-run-length-algorithm-26gi)
 - [Dev.to/JS] [GitHub Action with EC2 using SSH](https://dev.to/raviagheda/github-action-with-ec2-using-ssh-4ej4)
 - [Dev.to/JS] [Elevate Your Learning with Your Personal AI Assistant](https://dev.to/aiforme/elevate-your-learning-with-your-personal-ai-assistant-5dg2)
-- [Dev.to/JS] [Why Boilerplate Projects are Not BAD](https://dev.to/mattylantz/why-boilerplate-projects-are-not-bad-1o07)
-- [Dev.to/JS] [Top 5 VS Code extensions for security](https://dev.to/snyk/top-5-vs-code-extensions-for-security-15h)
-- [Dev.to/JS] [WebGL Particles](https://dev.to/waynechoidev/webgl-particles-4c2l)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, August 25](https://lifehacker.com/today-s-wordle-hints-and-answer-for-friday-august-25-1850769644?utm_source=regular)
 - [Lifehacker] [Leftover Potato Salad Wants to Be Roasted](https://lifehacker.com/give-your-leftover-potato-salad-new-life-by-roasting-it-1710218388?utm_source=regular)
 - [Lifehacker] [These Are the Best Labor Day Sale Deals for Large Appliances](https://lifehacker.com/these-are-the-best-labor-day-sale-deals-for-large-appli-1850771766?utm_source=regular)
