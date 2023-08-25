@@ -26,18 +26,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Problem in CoinDCX Socket conn](https://dev.to/harshkushwah85/problem-in-coindcx-socket-conn-59bh)
 - [Dev.to/JS] [Analog Clock](https://dev.to/dimple031/analog-clock-2m2g)
 - [Dev.to/JS] [Mastering Angular Control Value Accessor: A Guide for Angular Developer](https://dev.to/chintanonweb/mastering-angular-control-value-accessor-a-guide-for-angular-developer-4l4i)
 - [Dev.to/JS] [Snippets I Use Regularly #1: File Name and Directory Name](https://dev.to/receter/snippets-i-use-regularly-1-file-name-and-directory-name-4kmc)
 - [Dev.to/JS] [Best Practices for Developing React Applications](https://dev.to/harshahegde/best-practices-for-developing-react-applications-1h9f)
+- [Dev.to/JS] [JavaScript Promises Simplified: Handling Asynchronous Operations](https://dev.to/junaidkhan/javascript-promises-simplified-handling-asynchronous-operations-43a7)
 - [Dev.to/JS] [Web Designing Training Course in Chandigarh](https://dev.to/excellence42/web-designing-training-course-in-chandigarh-320g)
 - [Dev.to/JS] [21 Best Practices for Handling Passwords in Web Applications](https://dev.to/mohammadfaisal/21-best-practices-for-handling-passwords-in-web-applications-1k66)
 - [Dev.to/JS] [🚀 Top 10 Vercel alternatives in 2023](https://dev.to/martygo/top-10-vercel-alternatives-in-2023-3mof)
 - [Dev.to/JS] [Phone Otp login using react Js](https://dev.to/shiwani295/phone-otp-login-using-react-js-2gla)
 - [Dev.to/JS] [🚀 React Redux Integration: Mastering State Management!](https://dev.to/dominicazuka/react-redux-integration-mastering-state-management-3ndg)
 - [Dev.to/JS] [A Comprehensive Guide to Building a Basic Form with React Hook Form,](https://dev.to/manavss/how-to-set-up-basic-react-hook-form-10i2)
-- [Dev.to/JS] [Building a Web Document Rectification App with Blazor WebAssembly and Dynamsoft Document Normalizer SDK](https://dev.to/yushulx/building-a-web-document-rectification-app-with-blazor-webassembly-and-dynamsoft-document-normalizer-sdk-518e)
-- [Dev.to/JS] [Techniques for debugging and troubleshooting code more effectively in javascript and typescript](https://dev.to/shivamblog/techniques-for-debugging-and-troubleshooting-code-more-effectively-in-javascript-and-typescript-d40)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, August 25](https://lifehacker.com/today-s-wordle-hints-and-answer-for-friday-august-25-1850769644?utm_source=regular)
 - [Lifehacker] [Leftover Potato Salad Wants to Be Roasted](https://lifehacker.com/give-your-leftover-potato-salad-new-life-by-roasting-it-1710218388?utm_source=regular)
 - [Lifehacker] [These Are the Best Labor Day Sale Deals for Large Appliances](https://lifehacker.com/these-are-the-best-labor-day-sale-deals-for-large-appli-1850771766?utm_source=regular)
