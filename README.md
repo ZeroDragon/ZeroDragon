@@ -26,22 +26,26 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Easiest Fixes for the Worst Landlord Repairs](https://lifehacker.com/these-are-the-easiest-fixes-for-the-worst-landlord-repa-1850773082?utm_source=regular)
+- [Dev.to/JS] [The Evolution of React Design Patterns: From HOCs to Hooks and Custom Hooks](https://dev.to/samanabbasi/the-evolution-of-react-design-patterns-from-hocs-to-hooks-and-custom-hooks-44a)
+- [Lifehacker] [Why You Might Need a Special Education Advocate](https://lifehacker.com/why-you-might-need-a-special-education-advocate-1850772488?utm_source=regular)
+- [Dev.to/JS] [Development of H5 Game - Toy Claw](https://dev.to/kcodez/development-of-h5-game-toy-claw-49di)
+- [Lifehacker] [The Best Free Google Chrome Extensions Everyone Should Use](https://lifehacker.com/best-free-google-chrome-extensions-1847860706?utm_source=regular)
+- [Dev.to/JS] [hi,can anyone test my AI image generator website for any bugs or issues](https://dev.to/mygyt11/hican-anyone-test-my-ai-image-generator-website-for-any-bugs-or-issues-527i)
+- [Lifehacker] [uTalk and StackSkills Are $30 Right Now](https://lifehacker.com/utalk-and-stackskills-are-30-right-now-1850768508?utm_source=regular)
 - [Dev.to/JS] [Mastering Angular `@Input` and `@Output` Chains](https://dev.to/chintanonweb/mastering-angular-input-and-output-chains-558p)
 - [Dev.to/JS] [Is Angular Dying in 2023? A Comprehensive Analysis](https://dev.to/chintanonweb/is-angular-dying-in-2023-a-comprehensive-analysis-5ela)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Bama Rush](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-bama-rush-1850773022?utm_source=regular)
 - [Dev.to/JS] [Prettier and lint your project with husky and git hooks](https://dev.to/balastrong/prettier-and-lint-your-project-with-husky-and-git-hooks-pg9)
 - [Lifehacker] [Get a Jackery Power Station for up to 30% Off Right Now](https://lifehacker.com/get-a-jackery-power-station-for-up-to-30-off-right-now-1850772010?utm_source=regular)
 - [Lifehacker] [You Can Apply Now to Lower Your Monthly Student Loan Payment](https://lifehacker.com/you-can-apply-now-to-lower-your-monthly-student-loan-pa-1850770373?utm_source=regular)
-- [Dev.to/JS] [Casino Sites | Baccarat site, casino, baccarat, online casino | our casino](https://dev.to/koreaonlinecasino/casino-sites-baccarat-site-casino-baccarat-online-casino-our-casino-81l)
 - [Dev.to/JS] [Unveiling Tomorrow: Top 10 Unmissable Mobile App Development Trends Shaping 2023](https://dev.to/sparkouttech/unveiling-tomorrow-top-10-unmissable-mobile-app-development-trends-shaping-2023-54ah)
 - [Lifehacker] [You Should Save Your Chile Water](https://lifehacker.com/you-should-save-your-chile-water-1850772371?utm_source=regular)
 - [Dev.to/JS] [How to optimize your functions in JavaScript using memoization &lpar;Interview question&rpar;](https://dev.to/xplodivity/how-to-optimize-your-functions-in-javascript-using-memoization-interview-question-3f95)
-- [Dev.to/JS] [PRO](https://dev.to/protection4/pro-2a2a)
 - [Dev.to/JS] [Problem in CoinDCX Socket conn](https://dev.to/harshkushwah85/problem-in-coindcx-socket-conn-59bh)
 - [Dev.to/JS] [Analog Clock](https://dev.to/dimple031/analog-clock-2m2g)
 - [Dev.to/JS] [Mastering Angular Control Value Accessor: A Guide for Angular Developer](https://dev.to/chintanonweb/mastering-angular-control-value-accessor-a-guide-for-angular-developer-4l4i)
 - [Dev.to/JS] [Snippets I Use Regularly #1: File Name and Directory Name](https://dev.to/receter/snippets-i-use-regularly-1-file-name-and-directory-name-4kmc)
-- [Dev.to/JS] [Best Practices for Developing React Applications](https://dev.to/harshahegde/best-practices-for-developing-react-applications-1h9f)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, August 25](https://lifehacker.com/today-s-wordle-hints-and-answer-for-friday-august-25-1850769644?utm_source=regular)
 - [Lifehacker] [Leftover Potato Salad Wants to Be Roasted](https://lifehacker.com/give-your-leftover-potato-salad-new-life-by-roasting-it-1710218388?utm_source=regular)
 - [Lifehacker] [These Are the Best Labor Day Sale Deals for Large Appliances](https://lifehacker.com/these-are-the-best-labor-day-sale-deals-for-large-appli-1850771766?utm_source=regular)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [23 of the Best Boring Movies](https://lifehacker.com/the-most-boring-movies-ever-1850762710?utm_source=regular)
 - [Lifehacker] [How to Get Microsoft Office for Free](https://lifehacker.com/how-to-get-microsoft-office-for-free-1850769369?utm_source=regular)
 - [Lifehacker] [The Best Firefox Extensions Everyone Should Use](https://lifehacker.com/the-best-firefox-extensions-everyone-should-use-1849784170?utm_source=regular)
-- [Lifehacker] [This Dell Laptop With Microsoft Office Is $450 Right Now](https://lifehacker.com/this-dell-laptop-with-microsoft-office-is-450-right-no-1850762602?utm_source=regular)
-- [Lifehacker] [PlayStation Portal Is Not the Portable Gaming Console of Your Dreams](https://lifehacker.com/playstation-portal-is-not-the-portable-gaming-console-o-1850769327?utm_source=regular)
-- [Lifehacker] [How to Compress Video on iPhone Fast](https://lifehacker.com/compress-video-on-iphone-fast-1849523806?utm_source=regular)
-- [Lifehacker] [How to Compress Video on Android Fast](https://lifehacker.com/compress-video-on-android-fast-1850767656?utm_source=regular)
-- [Lifehacker] [What&#39;s New on Disney+ in September 2023](https://lifehacker.com/whats-new-on-disney-in-september-2023-1850766656?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Dell Laptop With Microsoft Office Is $450 Right Now](https://lifehacker.com/this-dell-laptop-with-microsoft-office-is-450-right-no-1850762602?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
