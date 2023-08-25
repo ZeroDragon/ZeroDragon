@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Web Document Rectification App with Blazor WebAssembly and Dynamsoft Document Normalizer SDK](https://dev.to/yushulx/building-a-web-document-rectification-app-with-blazor-webassembly-and-dynamsoft-document-normalizer-sdk-518e)
+- [Dev.to/JS] [Techniques for debugging and troubleshooting code more effectively in javascript and typescript](https://dev.to/shivamblog/techniques-for-debugging-and-troubleshooting-code-more-effectively-in-javascript-and-typescript-d40)
+- [Dev.to/JS] [Create an NodeJs Server in Typescript](https://dev.to/blu3fire89/create-an-expressjs-server-in-typescript-32g4)
+- [Dev.to/JS] [Tachyons + Styled Components = Pure Joy](https://dev.to/jikkujose/tachyons-styled-components-pure-joy-4n03)
+- [Dev.to/JS] [Day 2: React Rendering - From Confusion to Clarity](https://dev.to/hassanshahzadaheer/day-2-react-rendering-from-confusion-to-clarity-5e4e)
+- [Dev.to/JS] [Iterate Like a Pro: Mastering JavaScript Iterators for Effortless Code](https://dev.to/this-is-learning/iterate-like-a-pro-mastering-javascript-iterators-for-effortless-code-4e5p)
 - [Dev.to/JS] [A New Horizon in Data Compression: Matchmaking Run-Length Algorithm](https://dev.to/vipert/a-new-horizon-in-data-compression-matchmaking-run-length-algorithm-26gi)
 - [Dev.to/JS] [GitHub Action with EC2 using SSH](https://dev.to/raviagheda/github-action-with-ec2-using-ssh-4ej4)
 - [Dev.to/JS] [Elevate Your Learning with Your Personal AI Assistant](https://dev.to/aiforme/elevate-your-learning-with-your-personal-ai-assistant-5dg2)
@@ -33,12 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 5 VS Code extensions for security](https://dev.to/snyk/top-5-vs-code-extensions-for-security-15h)
 - [Dev.to/JS] [WebGL Particles](https://dev.to/waynechoidev/webgl-particles-4c2l)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, August 25](https://lifehacker.com/today-s-wordle-hints-and-answer-for-friday-august-25-1850769644?utm_source=regular)
-- [Dev.to/JS] [Storybook Actions in Action](https://dev.to/chantastic/storybook-actions-in-action-4b7h)
-- [Dev.to/JS] [Programmers should remind themselves, &quot;Don&#39;t break windows&quot;](https://dev.to/ocean678/programmers-should-remind-themselves-dont-break-windows-5d9k)
-- [Dev.to/JS] [Symbols in JavaScript](https://dev.to/better678/symbols-in-javascript-28n8)
-- [Dev.to/JS] [Developing a Backgammon Game Application with JavaScript](https://dev.to/shingaiz/developing-a-backgammon-game-application-with-javascript-5hib)
-- [Dev.to/JS] [Filter Array Method](https://dev.to/devlawrence/filter-array-method-g9k)
-- [Dev.to/JS] [Mastering JavaScript: Call, Bind, and Apply 🌟](https://dev.to/dominicazuka/mastering-javascript-call-bind-and-apply-576p)
 - [Lifehacker] [Leftover Potato Salad Wants to Be Roasted](https://lifehacker.com/give-your-leftover-potato-salad-new-life-by-roasting-it-1710218388?utm_source=regular)
 - [Lifehacker] [These Are the Best Labor Day Sale Deals for Large Appliances](https://lifehacker.com/these-are-the-best-labor-day-sale-deals-for-large-appli-1850771766?utm_source=regular)
 - [Lifehacker] [You Can DIY a Better Taco Bell Grilled Cheese Dipping Taco](https://lifehacker.com/you-can-diy-a-better-taco-bell-grilled-cheese-dipping-t-1850771107?utm_source=regular)
