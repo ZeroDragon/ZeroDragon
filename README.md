@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Từ A đến Z cách chơi Roulette cơ bản tân thủ cần biết](https://dev.to/tongocanh/tu-a-den-z-cach-choi-roulette-co-ban-tan-thu-can-biet-5adb)
+- [Dev.to/JS] [The Role of Redux in Modern React Applications](https://dev.to/the2minengineer/the-role-of-redux-in-modern-react-applications-5cmp)
+- [Dev.to/JS] [Comprehensive Guide to JavaScript Promises, async/await, and Promise Methods](https://dev.to/prthings/comprehensive-guide-to-javascript-promises-asyncawait-and-promise-methods-3cnj)
+- [Dev.to/JS] [Observer and Pub-Sub Patterns for reactive behaviours in JavaScript](https://dev.to/dionarodrigues/observer-and-pub-sub-patterns-for-reactive-behaviours-in-javascript-3f0)
+- [Lifehacker] [The Best YouTube Extensions Everyone Should Use](https://lifehacker.com/the-best-youtube-extensions-everyone-should-use-1849800297?utm_source=regular)
+- [Dev.to/JS] [What is AJAX in JavaScript ?](https://dev.to/dezidros/what-is-ajax-in-javascript--4gk5)
 - [Lifehacker] [These Are the Easiest Fixes for the Worst Landlord Repairs](https://lifehacker.com/these-are-the-easiest-fixes-for-the-worst-landlord-repa-1850773082?utm_source=regular)
 - [Dev.to/JS] [The Evolution of React Design Patterns: From HOCs to Hooks and Custom Hooks](https://dev.to/samanabbasi/the-evolution-of-react-design-patterns-from-hocs-to-hooks-and-custom-hooks-44a)
 - [Lifehacker] [Why You Might Need a Special Education Advocate](https://lifehacker.com/why-you-might-need-a-special-education-advocate-1850772488?utm_source=regular)
@@ -41,11 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Apply Now to Lower Your Monthly Student Loan Payment](https://lifehacker.com/you-can-apply-now-to-lower-your-monthly-student-loan-pa-1850770373?utm_source=regular)
 - [Dev.to/JS] [Unveiling Tomorrow: Top 10 Unmissable Mobile App Development Trends Shaping 2023](https://dev.to/sparkouttech/unveiling-tomorrow-top-10-unmissable-mobile-app-development-trends-shaping-2023-54ah)
 - [Lifehacker] [You Should Save Your Chile Water](https://lifehacker.com/you-should-save-your-chile-water-1850772371?utm_source=regular)
-- [Dev.to/JS] [How to optimize your functions in JavaScript using memoization &lpar;Interview question&rpar;](https://dev.to/xplodivity/how-to-optimize-your-functions-in-javascript-using-memoization-interview-question-3f95)
-- [Dev.to/JS] [Problem in CoinDCX Socket conn](https://dev.to/harshkushwah85/problem-in-coindcx-socket-conn-59bh)
-- [Dev.to/JS] [Analog Clock](https://dev.to/dimple031/analog-clock-2m2g)
-- [Dev.to/JS] [Mastering Angular Control Value Accessor: A Guide for Angular Developer](https://dev.to/chintanonweb/mastering-angular-control-value-accessor-a-guide-for-angular-developer-4l4i)
-- [Dev.to/JS] [Snippets I Use Regularly #1: File Name and Directory Name](https://dev.to/receter/snippets-i-use-regularly-1-file-name-and-directory-name-4kmc)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, August 25](https://lifehacker.com/today-s-wordle-hints-and-answer-for-friday-august-25-1850769644?utm_source=regular)
 - [Lifehacker] [Leftover Potato Salad Wants to Be Roasted](https://lifehacker.com/give-your-leftover-potato-salad-new-life-by-roasting-it-1710218388?utm_source=regular)
 - [Lifehacker] [These Are the Best Labor Day Sale Deals for Large Appliances](https://lifehacker.com/these-are-the-best-labor-day-sale-deals-for-large-appli-1850771766?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ten Great Ways to Use up Your Summer Cherries](https://lifehacker.com/10-great-ways-to-use-up-your-last-summer-cherries-1849563458?utm_source=regular)
 - [Lifehacker] [23 of the Best Boring Movies](https://lifehacker.com/the-most-boring-movies-ever-1850762710?utm_source=regular)
 - [Lifehacker] [How to Get Microsoft Office for Free](https://lifehacker.com/how-to-get-microsoft-office-for-free-1850769369?utm_source=regular)
-- [Lifehacker] [The Best Firefox Extensions Everyone Should Use](https://lifehacker.com/the-best-firefox-extensions-everyone-should-use-1849784170?utm_source=regular)
-- [Lifehacker] [This Dell Laptop With Microsoft Office Is $450 Right Now](https://lifehacker.com/this-dell-laptop-with-microsoft-office-is-450-right-no-1850762602?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Firefox Extensions Everyone Should Use](https://lifehacker.com/the-best-firefox-extensions-everyone-should-use-1849784170?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
