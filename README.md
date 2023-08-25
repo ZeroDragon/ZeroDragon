@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Refurbished iPad Pro Is $160 Right Now](https://lifehacker.com/this-refurbished-ipad-pro-is-160-right-now-1850768095?utm_source=regular)
+- [Dev.to/JS] [Optimizing Performance in React: Best Practices for Speedy Apps](https://dev.to/s_fomenko/optimizing-performance-in-react-best-practices-for-speedy-apps-5e6n)
+- [Lifehacker] [Here Are the Best Streaming Discounts for Students](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322?utm_source=regular)
+- [Dev.to/JS] [Part 4 &lpar;a&rpar;: Project: How to Build a Mini App with Vue.Js](https://dev.to/miracool/part-4-a-project-how-to-build-a-mini-app-with-vuejs-3nc2)
+- [Dev.to/JS] [React Custom Hook: useRenderCount](https://dev.to/sergeyleschev/react-custom-hook-userendercount-192p)
+- [Lifehacker] [Make Better Cloudy Lemonade With Air Fried Lemons](https://lifehacker.com/make-better-cloudy-lemonade-with-air-fried-lemons-1850775802?utm_source=regular)
 - [Dev.to/JS] [How to build AWS State Machines using AWS CDK - Part I](https://dev.to/pmca/how-to-build-aws-state-machines-using-aws-cdk-part-i-31hp)
 - [Dev.to/JS] [Giving an HTML date input a placeholder with JavaScript](https://dev.to/grntco/giving-an-html-date-input-a-placeholder-with-javascript-24hd)
 - [Lifehacker] [You Can Book an 8-Night Trip to Thailand for $1,099 Right Now](https://lifehacker.com/you-can-book-an-8-night-trip-to-thailand-for-1-099-rig-1850775848?utm_source=regular)
@@ -48,9 +54,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Squirt &lpar;or at Least Try&rpar;](https://lifehacker.com/dont-feel-bad-if-you-cant-squirt-but-heres-how-you-can-1848562582?utm_source=regular)
 - [Lifehacker] [How to Download YouTube Videos on Android](https://lifehacker.com/how-to-download-youtube-videos-on-android-1850772222?utm_source=regular)
 - [Dev.to/JS] [Từ A đến Z cách chơi Roulette cơ bản tân thủ cần biết](https://dev.to/tongocanh/tu-a-den-z-cach-choi-roulette-co-ban-tan-thu-can-biet-5adb)
-- [Dev.to/JS] [The Role of Redux in Modern React Applications](https://dev.to/the2minengineer/the-role-of-redux-in-modern-react-applications-5cmp)
-- [Dev.to/JS] [Comprehensive Guide to JavaScript Promises, async/await, and Promise Methods](https://dev.to/prthings/comprehensive-guide-to-javascript-promises-asyncawait-and-promise-methods-3cnj)
-- [Dev.to/JS] [Observer and Pub-Sub Patterns for reactive behaviours in JavaScript](https://dev.to/dionarodrigues/observer-and-pub-sub-patterns-for-reactive-behaviours-in-javascript-3f0)
 - [Lifehacker] [How to Check Your PC&#39;s Graphics Card](https://lifehacker.com/how-to-check-your-pcs-graphics-card-1850772448?utm_source=regular)
 - [Lifehacker] [The Best YouTube Extensions Everyone Should Use](https://lifehacker.com/the-best-youtube-extensions-everyone-should-use-1849800297?utm_source=regular)
 - [Lifehacker] [These Are the Easiest Fixes for the Worst Landlord Repairs](https://lifehacker.com/these-are-the-easiest-fixes-for-the-worst-landlord-repa-1850773082?utm_source=regular)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Get a Jackery Power Station for up to 30% Off Right Now](https://lifehacker.com/get-a-jackery-power-station-for-up-to-30-off-right-now-1850772010?utm_source=regular)
 - [Lifehacker] [You Can Apply Now to Lower Your Monthly Student Loan Payment](https://lifehacker.com/you-can-apply-now-to-lower-your-monthly-student-loan-pa-1850770373?utm_source=regular)
 - [Lifehacker] [You Should Save Your Chile Water](https://lifehacker.com/you-should-save-your-chile-water-1850772371?utm_source=regular)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, August 25](https://lifehacker.com/today-s-wordle-hints-and-answer-for-friday-august-25-1850769644?utm_source=regular)
-- [Lifehacker] [Leftover Potato Salad Wants to Be Roasted](https://lifehacker.com/give-your-leftover-potato-salad-new-life-by-roasting-it-1710218388?utm_source=regular)
-- [Lifehacker] [These Are the Best Labor Day Sale Deals for Large Appliances](https://lifehacker.com/these-are-the-best-labor-day-sale-deals-for-large-appli-1850771766?utm_source=regular)
-- [Lifehacker] [You Can DIY a Better Taco Bell Grilled Cheese Dipping Taco](https://lifehacker.com/you-can-diy-a-better-taco-bell-grilled-cheese-dipping-t-1850771107?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, August 25](https://lifehacker.com/today-s-wordle-hints-and-answer-for-friday-august-25-1850769644?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
