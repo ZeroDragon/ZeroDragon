@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, August 25](https://lifehacker.com/today-s-wordle-hints-and-answer-for-friday-august-25-1850769644?utm_source=regular)
+- [Dev.to/JS] [Storybook Actions in Action](https://dev.to/chantastic/storybook-actions-in-action-4b7h)
+- [Dev.to/JS] [Programmers should remind themselves, &quot;Don&#39;t break windows&quot;](https://dev.to/ocean678/programmers-should-remind-themselves-dont-break-windows-5d9k)
+- [Dev.to/JS] [Symbols in JavaScript](https://dev.to/better678/symbols-in-javascript-28n8)
 - [Dev.to/JS] [Developing a Backgammon Game Application with JavaScript](https://dev.to/shingaiz/developing-a-backgammon-game-application-with-javascript-5hib)
 - [Dev.to/JS] [Filter Array Method](https://dev.to/devlawrence/filter-array-method-g9k)
 - [Dev.to/JS] [Mastering JavaScript: Call, Bind, and Apply 🌟](https://dev.to/dominicazuka/mastering-javascript-call-bind-and-apply-576p)
@@ -38,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Frontend newsletter #11 - Discover the latest trends](https://dev.to/tech_foutraque/the-frontend-newsletter-11-discover-the-latest-trends-58kd)
 - [Lifehacker] [You Can DIY a Better Taco Bell Grilled Cheese Dipping Taco](https://lifehacker.com/you-can-diy-a-better-taco-bell-grilled-cheese-dipping-t-1850771107?utm_source=regular)
 - [Dev.to/JS] [Rust Port of Webpack? Rspack, the New Kid on the Block](https://dev.to/scriptedalchemy/rust-port-of-webpack-rspack-the-new-kid-on-the-block-4dde)
-- [Dev.to/JS] [Creating Tailwind CSS Dark Mode Using HTML and JS](https://dev.to/parzival_computer/creating-tailwind-css-dark-mode-using-html-and-js-43pe)
 - [Lifehacker] [This Is the Right Way to Stuff a Waffle](https://lifehacker.com/this-is-the-right-way-to-stuff-a-waffle-1850771697?utm_source=regular)
-- [Dev.to/JS] [How to Solve Captcha in Puppeteer using CapSolver](https://dev.to/beropex/how-to-solve-captcha-in-puppeteer-using-capsolver-5e3l)
-- [Dev.to/JS] [Capsolver Extension - Solve Cloudflare in your browser](https://dev.to/beropex/capsolver-extension-solve-cloudflare-in-your-browser-m0l)
 - [Lifehacker] [How to Hide Your Phone Number on Android and iPhone](https://lifehacker.com/how-to-hide-your-phone-number-on-android-and-iphone-1850771363?utm_source=regular)
 - [Lifehacker] [How to Decide Which iPhone 14 to Buy](https://lifehacker.com/should-you-buy-the-iphone-14-or-14-pro-1849506382?utm_source=regular)
 - [Lifehacker] [How to Take Mushrooms](https://lifehacker.com/how-to-eat-magic-mushrooms-without-gagging-1850320771?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What People Are Getting Wrong This Week: Hurricane Hilary Misinformation](https://lifehacker.com/hurricane-hilary-misinformation-1850768910?utm_source=regular)
 - [Crazy Programmer] [Tim Berners-Lee Quotes](https://www.thecrazyprogrammer.com/2023/08/tim-berners-lee-quotes.html)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Thursday, August 24](https://lifehacker.com/today-s-wordle-hints-and-answer-for-thursday-august-1850765557?utm_source=regular)
-- [Lifehacker] [Find Out Who Blocked You on Instagram](https://lifehacker.com/find-out-who-blocked-you-on-instagram-1850763900?utm_source=regular)
-- [Lifehacker] [These Streaming Services Still Offer Free Trials](https://lifehacker.com/these-streaming-services-still-offer-free-trials-1846190471?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Find Out Who Blocked You on Instagram](https://lifehacker.com/find-out-who-blocked-you-on-instagram-1850763900?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
