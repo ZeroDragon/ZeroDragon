@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Bake Your Overripe Peaches Into This Crisp](https://lifehacker.com/bake-your-overripe-peaches-into-this-crisp-1850774229?utm_source=regular)
+- [Lifehacker] [You Can Finally Send High-Quality Photos and Videos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877?utm_source=regular)
+- [Dev.to/JS] [JOB HIRING TIPS](https://dev.to/samanmahmood/job-hiring-tips-2dpa)
+- [Lifehacker] [Revise Your Notes Before You Leave Class](https://lifehacker.com/revise-your-notes-before-you-leave-class-1850774684?utm_source=regular)
+- [Dev.to/JS] [Striking the Balance: Code Splitting and Initial Load Time Optimization](https://dev.to/the2minengineer/striking-the-balance-code-splitting-and-initial-load-time-optimization-3188)
 - [Dev.to/JS] [Service workers](https://dev.to/zeeshanali0704/service-workers-24f)
 - [Lifehacker] [Ways to Help Your Child Manage ADHD Symptoms Naturally During the Medication Shortage](https://lifehacker.com/ways-to-help-your-child-manage-adhd-symptoms-naturally-1850771579?utm_source=regular)
 - [Lifehacker] [How to Squirt &lpar;or at Least Try&rpar;](https://lifehacker.com/dont-feel-bad-if-you-cant-squirt-but-heres-how-you-can-1848562582?utm_source=regular)
@@ -45,9 +50,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [hi,can anyone test my AI image generator website for any bugs or issues](https://dev.to/mygyt11/hican-anyone-test-my-ai-image-generator-website-for-any-bugs-or-issues-527i)
 - [Lifehacker] [uTalk and StackSkills Are $30 Right Now](https://lifehacker.com/utalk-and-stackskills-are-30-right-now-1850768508?utm_source=regular)
 - [Dev.to/JS] [Mastering Angular `@Input` and `@Output` Chains](https://dev.to/chintanonweb/mastering-angular-input-and-output-chains-558p)
-- [Dev.to/JS] [Is Angular Dying in 2023? A Comprehensive Analysis](https://dev.to/chintanonweb/is-angular-dying-in-2023-a-comprehensive-analysis-5ela)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Bama Rush](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-bama-rush-1850773022?utm_source=regular)
-- [Dev.to/JS] [Prettier and lint your project with husky and git hooks](https://dev.to/balastrong/prettier-and-lint-your-project-with-husky-and-git-hooks-pg9)
+- [Lifehacker] [Netflix Wants to Give You 10 Free DVDs](https://lifehacker.com/netflix-wants-to-send-you-10-dvds-1850752439?utm_source=regular)
 - [Lifehacker] [Get a Jackery Power Station for up to 30% Off Right Now](https://lifehacker.com/get-a-jackery-power-station-for-up-to-30-off-right-now-1850772010?utm_source=regular)
 - [Lifehacker] [You Can Apply Now to Lower Your Monthly Student Loan Payment](https://lifehacker.com/you-can-apply-now-to-lower-your-monthly-student-loan-pa-1850770373?utm_source=regular)
 - [Lifehacker] [You Should Save Your Chile Water](https://lifehacker.com/you-should-save-your-chile-water-1850772371?utm_source=regular)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Take Mushrooms](https://lifehacker.com/how-to-eat-magic-mushrooms-without-gagging-1850320771?utm_source=regular)
 - [Lifehacker] [How to Make Your First Budget As a College Student](https://lifehacker.com/college-student-budget-tips-1850770900?utm_source=regular)
 - [Crazy Programmer] [10 Key Principles Behind Exceptional Web and Mobile App Designs](https://www.thecrazyprogrammer.com/2023/08/exceptional-web-and-mobile-app-designs.html)
-- [Lifehacker] [There&#39;s a New CNN for Max Subscribers](https://lifehacker.com/theres-a-new-cnn-for-max-subscribers-1850770445?utm_source=regular)
-- [Lifehacker] [Why Your Hands Swell When You Run or Walk, and What to Do About It](https://lifehacker.com/why-your-hands-swell-when-you-run-or-walk-and-what-to-1850770500?utm_source=regular)
-- [Lifehacker] [How to Clean Your Belly Button](https://lifehacker.com/here-s-what-happens-when-you-don-t-clean-your-bellybutt-1849864424?utm_source=regular)
-- [Lifehacker] [These Airlines Have the Most Hidden Fees](https://lifehacker.com/these-airlines-have-the-most-hidden-fees-1850770042?utm_source=regular)
-- [Lifehacker] [This Ad Blocker and Content Filter Is $40 Right Now](https://lifehacker.com/this-ad-blocker-and-content-filter-is-40-right-now-1850762522?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [There&#39;s a New CNN for Max Subscribers](https://lifehacker.com/theres-a-new-cnn-for-max-subscribers-1850770445?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
