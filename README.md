@@ -26,10 +26,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Service workers](https://dev.to/zeeshanali0704/service-workers-24f)
+- [Lifehacker] [Ways to Help Your Child Manage ADHD Symptoms Naturally During the Medication Shortage](https://lifehacker.com/ways-to-help-your-child-manage-adhd-symptoms-naturally-1850771579?utm_source=regular)
+- [Lifehacker] [How to Squirt &lpar;or at Least Try&rpar;](https://lifehacker.com/dont-feel-bad-if-you-cant-squirt-but-heres-how-you-can-1848562582?utm_source=regular)
+- [Lifehacker] [How to Download YouTube Videos on Android](https://lifehacker.com/how-to-download-youtube-videos-on-android-1850772222?utm_source=regular)
 - [Dev.to/JS] [Từ A đến Z cách chơi Roulette cơ bản tân thủ cần biết](https://dev.to/tongocanh/tu-a-den-z-cach-choi-roulette-co-ban-tan-thu-can-biet-5adb)
 - [Dev.to/JS] [The Role of Redux in Modern React Applications](https://dev.to/the2minengineer/the-role-of-redux-in-modern-react-applications-5cmp)
 - [Dev.to/JS] [Comprehensive Guide to JavaScript Promises, async/await, and Promise Methods](https://dev.to/prthings/comprehensive-guide-to-javascript-promises-asyncawait-and-promise-methods-3cnj)
 - [Dev.to/JS] [Observer and Pub-Sub Patterns for reactive behaviours in JavaScript](https://dev.to/dionarodrigues/observer-and-pub-sub-patterns-for-reactive-behaviours-in-javascript-3f0)
+- [Lifehacker] [How to Check Your PC&#39;s Graphics Card](https://lifehacker.com/how-to-check-your-pcs-graphics-card-1850772448?utm_source=regular)
 - [Lifehacker] [The Best YouTube Extensions Everyone Should Use](https://lifehacker.com/the-best-youtube-extensions-everyone-should-use-1849800297?utm_source=regular)
 - [Dev.to/JS] [What is AJAX in JavaScript ?](https://dev.to/dezidros/what-is-ajax-in-javascript--4gk5)
 - [Lifehacker] [These Are the Easiest Fixes for the Worst Landlord Repairs](https://lifehacker.com/these-are-the-easiest-fixes-for-the-worst-landlord-repa-1850773082?utm_source=regular)
@@ -45,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Prettier and lint your project with husky and git hooks](https://dev.to/balastrong/prettier-and-lint-your-project-with-husky-and-git-hooks-pg9)
 - [Lifehacker] [Get a Jackery Power Station for up to 30% Off Right Now](https://lifehacker.com/get-a-jackery-power-station-for-up-to-30-off-right-now-1850772010?utm_source=regular)
 - [Lifehacker] [You Can Apply Now to Lower Your Monthly Student Loan Payment](https://lifehacker.com/you-can-apply-now-to-lower-your-monthly-student-loan-pa-1850770373?utm_source=regular)
-- [Dev.to/JS] [Unveiling Tomorrow: Top 10 Unmissable Mobile App Development Trends Shaping 2023](https://dev.to/sparkouttech/unveiling-tomorrow-top-10-unmissable-mobile-app-development-trends-shaping-2023-54ah)
 - [Lifehacker] [You Should Save Your Chile Water](https://lifehacker.com/you-should-save-your-chile-water-1850772371?utm_source=regular)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, August 25](https://lifehacker.com/today-s-wordle-hints-and-answer-for-friday-august-25-1850769644?utm_source=regular)
 - [Lifehacker] [Leftover Potato Salad Wants to Be Roasted](https://lifehacker.com/give-your-leftover-potato-salad-new-life-by-roasting-it-1710218388?utm_source=regular)
@@ -61,11 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your Hands Swell When You Run or Walk, and What to Do About It](https://lifehacker.com/why-your-hands-swell-when-you-run-or-walk-and-what-to-1850770500?utm_source=regular)
 - [Lifehacker] [How to Clean Your Belly Button](https://lifehacker.com/here-s-what-happens-when-you-don-t-clean-your-bellybutt-1849864424?utm_source=regular)
 - [Lifehacker] [These Airlines Have the Most Hidden Fees](https://lifehacker.com/these-airlines-have-the-most-hidden-fees-1850770042?utm_source=regular)
-- [Lifehacker] [This Ad Blocker and Content Filter Is $40 Right Now](https://lifehacker.com/this-ad-blocker-and-content-filter-is-40-right-now-1850762522?utm_source=regular)
-- [Lifehacker] [Ten Great Ways to Use up Your Summer Cherries](https://lifehacker.com/10-great-ways-to-use-up-your-last-summer-cherries-1849563458?utm_source=regular)
-- [Lifehacker] [23 of the Best Boring Movies](https://lifehacker.com/the-most-boring-movies-ever-1850762710?utm_source=regular)
-- [Lifehacker] [How to Get Microsoft Office for Free](https://lifehacker.com/how-to-get-microsoft-office-for-free-1850769369?utm_source=regular)
-- [Lifehacker] [The Best Firefox Extensions Everyone Should Use](https://lifehacker.com/the-best-firefox-extensions-everyone-should-use-1849784170?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [This Ad Blocker and Content Filter Is $40 Right Now](https://lifehacker.com/this-ad-blocker-and-content-filter-is-40-right-now-1850762522?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
