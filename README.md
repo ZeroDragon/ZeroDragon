@@ -26,6 +26,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rspack 0.3 Release Announcement](https://dev.to/scriptedalchemy/rspack-03-release-announcement-3i7e)
+- [Dev.to/JS] [Announcing Rspack 0.2](https://dev.to/scriptedalchemy/announcing-rspack-02-53ai)
+- [Lifehacker] [How to Tell If It&#39;s Really Too Hot to Work Out](https://lifehacker.com/how-to-tell-if-its-really-too-hot-to-work-out-1849321398?utm_source=regular)
+- [Dev.to/JS] [Add Syntax Highlighter in NuxtJS 3 with Prism](https://dev.to/arielmejiadev/add-syntax-highlighter-in-nuxtjs-3-with-prism-2mai)
+- [Dev.to/JS] [Rust Port of Webpack? Rspack, the New Kid on the Block](https://dev.to/scriptedalchemy/rust-port-of-webpack-rspack-the-new-kid-on-the-block-3pgh)
 - [Lifehacker] [This Refurbished iPad Pro Is $160 Right Now](https://lifehacker.com/this-refurbished-ipad-pro-is-160-right-now-1850768095?utm_source=regular)
 - [Dev.to/JS] [Optimizing Performance in React: Best Practices for Speedy Apps](https://dev.to/s_fomenko/optimizing-performance-in-react-best-practices-for-speedy-apps-5e6n)
 - [Lifehacker] [Here Are the Best Streaming Discounts for Students](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322?utm_source=regular)
@@ -46,14 +51,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Hulu in September 2023](https://lifehacker.com/new-on-hulu-september-2023-1850769105?utm_source=regular)
 - [Lifehacker] [Bake Your Overripe Peaches Into This Crisp](https://lifehacker.com/bake-your-overripe-peaches-into-this-crisp-1850774229?utm_source=regular)
 - [Lifehacker] [You Can Finally Send High-Quality Photos and Videos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877?utm_source=regular)
-- [Dev.to/JS] [JOB HIRING TIPS](https://dev.to/samanmahmood/job-hiring-tips-2dpa)
 - [Lifehacker] [Revise Your Notes Before You Leave Class](https://lifehacker.com/revise-your-notes-before-you-leave-class-1850774684?utm_source=regular)
-- [Dev.to/JS] [Striking the Balance: Code Splitting and Initial Load Time Optimization](https://dev.to/the2minengineer/striking-the-balance-code-splitting-and-initial-load-time-optimization-3188)
-- [Dev.to/JS] [Service workers](https://dev.to/zeeshanali0704/service-workers-24f)
 - [Lifehacker] [Ways to Help Your Child Manage ADHD Symptoms Naturally During the Medication Shortage](https://lifehacker.com/ways-to-help-your-child-manage-adhd-symptoms-naturally-1850771579?utm_source=regular)
 - [Lifehacker] [How to Squirt &lpar;or at Least Try&rpar;](https://lifehacker.com/dont-feel-bad-if-you-cant-squirt-but-heres-how-you-can-1848562582?utm_source=regular)
 - [Lifehacker] [How to Download YouTube Videos on Android](https://lifehacker.com/how-to-download-youtube-videos-on-android-1850772222?utm_source=regular)
-- [Dev.to/JS] [Từ A đến Z cách chơi Roulette cơ bản tân thủ cần biết](https://dev.to/tongocanh/tu-a-den-z-cach-choi-roulette-co-ban-tan-thu-can-biet-5adb)
 - [Lifehacker] [How to Check Your PC&#39;s Graphics Card](https://lifehacker.com/how-to-check-your-pcs-graphics-card-1850772448?utm_source=regular)
 - [Lifehacker] [The Best YouTube Extensions Everyone Should Use](https://lifehacker.com/the-best-youtube-extensions-everyone-should-use-1849800297?utm_source=regular)
 - [Lifehacker] [These Are the Easiest Fixes for the Worst Landlord Repairs](https://lifehacker.com/these-are-the-easiest-fixes-for-the-worst-landlord-repa-1850773082?utm_source=regular)
@@ -64,8 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Netflix Wants to Give You 10 Free DVDs](https://lifehacker.com/netflix-wants-to-send-you-10-dvds-1850752439?utm_source=regular)
 - [Lifehacker] [Get a Jackery Power Station for up to 30% Off Right Now](https://lifehacker.com/get-a-jackery-power-station-for-up-to-30-off-right-now-1850772010?utm_source=regular)
 - [Lifehacker] [You Can Apply Now to Lower Your Monthly Student Loan Payment](https://lifehacker.com/you-can-apply-now-to-lower-your-monthly-student-loan-pa-1850770373?utm_source=regular)
-- [Lifehacker] [You Should Save Your Chile Water](https://lifehacker.com/you-should-save-your-chile-water-1850772371?utm_source=regular)
-- [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, August 25](https://lifehacker.com/today-s-wordle-hints-and-answer-for-friday-august-25-1850769644?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Should Save Your Chile Water](https://lifehacker.com/you-should-save-your-chile-water-1850772371?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
