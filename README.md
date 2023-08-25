@@ -27,7 +27,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [A New Horizon in Data Compression: Matchmaking Run-Length Algorithm](https://dev.to/vipert/a-new-horizon-in-data-compression-matchmaking-run-length-algorithm-26gi)
-- [Dev.to/JS] [Github Action with EC2 using SSH](https://dev.to/raviagheda/github-action-with-ec2-using-ssh-4ej4)
+- [Dev.to/JS] [GitHub Action with EC2 using SSH](https://dev.to/raviagheda/github-action-with-ec2-using-ssh-4ej4)
 - [Dev.to/JS] [Elevate Your Learning with Your Personal AI Assistant](https://dev.to/aiforme/elevate-your-learning-with-your-personal-ai-assistant-5dg2)
 - [Dev.to/JS] [Why Boilerplate Projects are Not BAD](https://dev.to/mattylantz/why-boilerplate-projects-are-not-bad-1o07)
 - [Dev.to/JS] [Top 5 VS Code extensions for security](https://dev.to/snyk/top-5-vs-code-extensions-for-security-15h)
