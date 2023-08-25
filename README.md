@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on Paramount+ With Showtime in September 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-september-2023-1850775435?utm_source=regular)
+- [Dev.to/JS] [Javascript Errors with Real Life Examples](https://dev.to/syedmuhammadaliraza/javascript-errors-with-real-life-examples-3n0c)
+- [Lifehacker] [What to Do the Next Time the Power Goes Out](https://lifehacker.com/what-to-do-the-next-time-the-power-goes-out-1850775092?utm_source=regular)
 - [Lifehacker] [You Can Get Microsoft Office for $35 Right Now](https://lifehacker.com/you-can-get-microsoft-office-for-35-right-now-1850768358?utm_source=regular)
 - [Lifehacker] [The Easiest Way to Make Pigs in a Blanket](https://lifehacker.com/the-quickest-coziest-way-to-make-pigs-in-a-blanket-1850034533?utm_source=regular)
 - [Lifehacker] [What&#39;s New on Hulu in September 2023](https://lifehacker.com/new-on-hulu-september-2023-1850769105?utm_source=regular)
@@ -52,7 +55,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Free Google Chrome Extensions Everyone Should Use](https://lifehacker.com/best-free-google-chrome-extensions-1847860706?utm_source=regular)
 - [Dev.to/JS] [hi,can anyone test my AI image generator website for any bugs or issues](https://dev.to/mygyt11/hican-anyone-test-my-ai-image-generator-website-for-any-bugs-or-issues-527i)
 - [Lifehacker] [uTalk and StackSkills Are $30 Right Now](https://lifehacker.com/utalk-and-stackskills-are-30-right-now-1850768508?utm_source=regular)
-- [Dev.to/JS] [Mastering Angular `@Input` and `@Output` Chains](https://dev.to/chintanonweb/mastering-angular-input-and-output-chains-558p)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Bama Rush](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-bama-rush-1850773022?utm_source=regular)
 - [Lifehacker] [Netflix Wants to Give You 10 Free DVDs](https://lifehacker.com/netflix-wants-to-send-you-10-dvds-1850752439?utm_source=regular)
 - [Lifehacker] [Get a Jackery Power Station for up to 30% Off Right Now](https://lifehacker.com/get-a-jackery-power-station-for-up-to-30-off-right-now-1850772010?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Labor Day Sale Deals for Large Appliances](https://lifehacker.com/these-are-the-best-labor-day-sale-deals-for-large-appli-1850771766?utm_source=regular)
 - [Lifehacker] [You Can DIY a Better Taco Bell Grilled Cheese Dipping Taco](https://lifehacker.com/you-can-diy-a-better-taco-bell-grilled-cheese-dipping-t-1850771107?utm_source=regular)
 - [Lifehacker] [This Is the Right Way to Stuff a Waffle](https://lifehacker.com/this-is-the-right-way-to-stuff-a-waffle-1850771697?utm_source=regular)
-- [Lifehacker] [How to Hide Your Phone Number on Android and iPhone](https://lifehacker.com/how-to-hide-your-phone-number-on-android-and-iphone-1850771363?utm_source=regular)
-- [Lifehacker] [How to Decide Which iPhone 14 to Buy](https://lifehacker.com/should-you-buy-the-iphone-14-or-14-pro-1849506382?utm_source=regular)
-- [Lifehacker] [How to Take Mushrooms](https://lifehacker.com/how-to-eat-magic-mushrooms-without-gagging-1850320771?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Hide Your Phone Number on Android and iPhone](https://lifehacker.com/how-to-hide-your-phone-number-on-android-and-iphone-1850771363?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
