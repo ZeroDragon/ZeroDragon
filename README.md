@@ -26,6 +26,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Developing a Backgammon Game Application with JavaScript](https://dev.to/shingaiz/developing-a-backgammon-game-application-with-javascript-5hib)
+- [Dev.to/JS] [Filter Array Method](https://dev.to/devlawrence/filter-array-method-g9k)
 - [Dev.to/JS] [Mastering JavaScript: Call, Bind, and Apply 🌟](https://dev.to/dominicazuka/mastering-javascript-call-bind-and-apply-576p)
 - [Dev.to/JS] [Web Dev Tools of the Week &lpar;No. 1&rpar;](https://dev.to/impressivewebs/web-dev-tools-of-the-week-no-1-34k0)
 - [Dev.to/JS] [Introducing Sailhouse, the easiest way to send events ⛵️](https://dev.to/estephinson/introducing-sailhouse-the-easiest-way-to-send-events-2ok7)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Right Way to Stuff a Waffle](https://lifehacker.com/this-is-the-right-way-to-stuff-a-waffle-1850771697?utm_source=regular)
 - [Dev.to/JS] [How to Solve Captcha in Puppeteer using CapSolver](https://dev.to/beropex/how-to-solve-captcha-in-puppeteer-using-capsolver-5e3l)
 - [Dev.to/JS] [Capsolver Extension - Solve Cloudflare in your browser](https://dev.to/beropex/capsolver-extension-solve-cloudflare-in-your-browser-m0l)
-- [Dev.to/JS] [Moonly weekly progress update #62 - Raffle Feature and Twitter Space Giveaway](https://dev.to/moonly/moonly-weekly-progress-update-62-raffle-feature-and-twitter-space-giveaway-12lf)
-- [Dev.to/JS] [Testing](https://dev.to/hamid1882/testing-k51)
 - [Lifehacker] [How to Hide Your Phone Number on Android and iPhone](https://lifehacker.com/how-to-hide-your-phone-number-on-android-and-iphone-1850771363?utm_source=regular)
 - [Lifehacker] [How to Decide Which iPhone 14 to Buy](https://lifehacker.com/should-you-buy-the-iphone-14-or-14-pro-1849506382?utm_source=regular)
 - [Lifehacker] [How to Take Mushrooms](https://lifehacker.com/how-to-eat-magic-mushrooms-without-gagging-1850320771?utm_source=regular)
