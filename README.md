@@ -26,6 +26,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to build AWS State Machines using AWS CDK - Part I](https://dev.to/pmca/how-to-build-aws-state-machines-using-aws-cdk-part-i-31hp)
+- [Dev.to/JS] [Giving an HTML date input a placeholder with JavaScript](https://dev.to/grntco/giving-an-html-date-input-a-placeholder-with-javascript-24hd)
+- [Lifehacker] [You Can Book an 8-Night Trip to Thailand for $1,099 Right Now](https://lifehacker.com/you-can-book-an-8-night-trip-to-thailand-for-1-099-rig-1850775848?utm_source=regular)
+- [Dev.to/JS] [Dealing with the &#39;--downlevelIteration&#39; Error in TypeScript](https://dev.to/teshanecrawford/dealing-with-the-downleveliteration-error-in-typescript-4c9i)
+- [Dev.to/JS] [JavaScript, a programming language](https://dev.to/aimal-akrami/javascript-a-programming-language-1e80)
+- [Lifehacker] [The Routine Home Maintenance Tasks You Should Never Let Slide](https://lifehacker.com/the-most-important-home-maintenance-tasks-1850774692?utm_source=regular)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in September 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-september-2023-1850775435?utm_source=regular)
 - [Dev.to/JS] [Javascript Errors with Real Life Examples](https://dev.to/syedmuhammadaliraza/javascript-errors-with-real-life-examples-3n0c)
 - [Lifehacker] [What to Do the Next Time the Power Goes Out](https://lifehacker.com/what-to-do-the-next-time-the-power-goes-out-1850775092?utm_source=regular)
@@ -47,13 +53,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Observer and Pub-Sub Patterns for reactive behaviours in JavaScript](https://dev.to/dionarodrigues/observer-and-pub-sub-patterns-for-reactive-behaviours-in-javascript-3f0)
 - [Lifehacker] [How to Check Your PC&#39;s Graphics Card](https://lifehacker.com/how-to-check-your-pcs-graphics-card-1850772448?utm_source=regular)
 - [Lifehacker] [The Best YouTube Extensions Everyone Should Use](https://lifehacker.com/the-best-youtube-extensions-everyone-should-use-1849800297?utm_source=regular)
-- [Dev.to/JS] [What is AJAX in JavaScript ?](https://dev.to/dezidros/what-is-ajax-in-javascript--4gk5)
 - [Lifehacker] [These Are the Easiest Fixes for the Worst Landlord Repairs](https://lifehacker.com/these-are-the-easiest-fixes-for-the-worst-landlord-repa-1850773082?utm_source=regular)
-- [Dev.to/JS] [The Evolution of React Design Patterns: From HOCs to Hooks and Custom Hooks](https://dev.to/samanabbasi/the-evolution-of-react-design-patterns-from-hocs-to-hooks-and-custom-hooks-44a)
 - [Lifehacker] [Why You Might Need a Special Education Advocate](https://lifehacker.com/why-you-might-need-a-special-education-advocate-1850772488?utm_source=regular)
-- [Dev.to/JS] [Development of H5 Game - Toy Claw](https://dev.to/kcodez/development-of-h5-game-toy-claw-49di)
 - [Lifehacker] [The Best Free Google Chrome Extensions Everyone Should Use](https://lifehacker.com/best-free-google-chrome-extensions-1847860706?utm_source=regular)
-- [Dev.to/JS] [hi,can anyone test my AI image generator website for any bugs or issues](https://dev.to/mygyt11/hican-anyone-test-my-ai-image-generator-website-for-any-bugs-or-issues-527i)
 - [Lifehacker] [uTalk and StackSkills Are $30 Right Now](https://lifehacker.com/utalk-and-stackskills-are-30-right-now-1850768508?utm_source=regular)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: &#39;Bama Rush](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-bama-rush-1850773022?utm_source=regular)
 - [Lifehacker] [Netflix Wants to Give You 10 Free DVDs](https://lifehacker.com/netflix-wants-to-send-you-10-dvds-1850752439?utm_source=regular)
@@ -63,9 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Friday, August 25](https://lifehacker.com/today-s-wordle-hints-and-answer-for-friday-august-25-1850769644?utm_source=regular)
 - [Lifehacker] [Leftover Potato Salad Wants to Be Roasted](https://lifehacker.com/give-your-leftover-potato-salad-new-life-by-roasting-it-1710218388?utm_source=regular)
 - [Lifehacker] [These Are the Best Labor Day Sale Deals for Large Appliances](https://lifehacker.com/these-are-the-best-labor-day-sale-deals-for-large-appli-1850771766?utm_source=regular)
-- [Lifehacker] [You Can DIY a Better Taco Bell Grilled Cheese Dipping Taco](https://lifehacker.com/you-can-diy-a-better-taco-bell-grilled-cheese-dipping-t-1850771107?utm_source=regular)
-- [Lifehacker] [This Is the Right Way to Stuff a Waffle](https://lifehacker.com/this-is-the-right-way-to-stuff-a-waffle-1850771697?utm_source=regular)
-- [Lifehacker] [How to Hide Your Phone Number on Android and iPhone](https://lifehacker.com/how-to-hide-your-phone-number-on-android-and-iphone-1850771363?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [You Can DIY a Better Taco Bell Grilled Cheese Dipping Taco](https://lifehacker.com/you-can-diy-a-better-taco-bell-grilled-cheese-dipping-t-1850771107?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
