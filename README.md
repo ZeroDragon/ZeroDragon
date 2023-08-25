@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get Microsoft Office for $35 Right Now](https://lifehacker.com/you-can-get-microsoft-office-for-35-right-now-1850768358?utm_source=regular)
+- [Lifehacker] [The Easiest Way to Make Pigs in a Blanket](https://lifehacker.com/the-quickest-coziest-way-to-make-pigs-in-a-blanket-1850034533?utm_source=regular)
+- [Lifehacker] [What&#39;s New on Hulu in September 2023](https://lifehacker.com/new-on-hulu-september-2023-1850769105?utm_source=regular)
 - [Lifehacker] [Bake Your Overripe Peaches Into This Crisp](https://lifehacker.com/bake-your-overripe-peaches-into-this-crisp-1850774229?utm_source=regular)
 - [Lifehacker] [You Can Finally Send High-Quality Photos and Videos on WhatsApp](https://lifehacker.com/you-can-finally-send-high-quality-photos-on-whatsapp-1850519877?utm_source=regular)
 - [Dev.to/JS] [JOB HIRING TIPS](https://dev.to/samanmahmood/job-hiring-tips-2dpa)
@@ -62,10 +65,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Right Way to Stuff a Waffle](https://lifehacker.com/this-is-the-right-way-to-stuff-a-waffle-1850771697?utm_source=regular)
 - [Lifehacker] [How to Hide Your Phone Number on Android and iPhone](https://lifehacker.com/how-to-hide-your-phone-number-on-android-and-iphone-1850771363?utm_source=regular)
 - [Lifehacker] [How to Decide Which iPhone 14 to Buy](https://lifehacker.com/should-you-buy-the-iphone-14-or-14-pro-1849506382?utm_source=regular)
-- [Lifehacker] [How to Take Mushrooms](https://lifehacker.com/how-to-eat-magic-mushrooms-without-gagging-1850320771?utm_source=regular)
-- [Lifehacker] [How to Make Your First Budget As a College Student](https://lifehacker.com/college-student-budget-tips-1850770900?utm_source=regular)
-- [Crazy Programmer] [10 Key Principles Behind Exceptional Web and Mobile App Designs](https://www.thecrazyprogrammer.com/2023/08/exceptional-web-and-mobile-app-designs.html)
-- [Lifehacker] [There&#39;s a New CNN for Max Subscribers](https://lifehacker.com/theres-a-new-cnn-for-max-subscribers-1850770445?utm_source=regular)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Take Mushrooms](https://lifehacker.com/how-to-eat-magic-mushrooms-without-gagging-1850320771?utm_source=regular)<!-- TECH-POSTS:END -->
 
 ---
 
