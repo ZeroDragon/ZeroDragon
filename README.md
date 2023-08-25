@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Elevate Your Learning with Your Personal AI Assistant](https://dev.to/aiforme/elevate-your-learning-with-your-personal-ai-assistant-5dg2)
 - [Dev.to/JS] [Why Boilerplate Projects are Not BAD](https://dev.to/mattylantz/why-boilerplate-projects-are-not-bad-1o07)
 - [Dev.to/JS] [Top 5 VS Code extensions for security](https://dev.to/snyk/top-5-vs-code-extensions-for-security-15h)
 - [Dev.to/JS] [WebGL Particles](https://dev.to/waynechoidev/webgl-particles-4c2l)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering JavaScript: Call, Bind, and Apply 🌟](https://dev.to/dominicazuka/mastering-javascript-call-bind-and-apply-576p)
 - [Dev.to/JS] [Web Dev Tools of the Week &lpar;No. 1&rpar;](https://dev.to/impressivewebs/web-dev-tools-of-the-week-no-1-34k0)
 - [Dev.to/JS] [Introducing Sailhouse, the easiest way to send events ⛵️](https://dev.to/estephinson/introducing-sailhouse-the-easiest-way-to-send-events-2ok7)
-- [Dev.to/JS] [Mastering React&#39;s useCallback, useMemo, Memoization, and Closures](https://dev.to/samanabbasi/mastering-reacts-usecallback-usememo-memoization-and-closures-5ao1)
 - [Lifehacker] [Leftover Potato Salad Wants to Be Roasted](https://lifehacker.com/give-your-leftover-potato-salad-new-life-by-roasting-it-1710218388?utm_source=regular)
 - [Lifehacker] [These Are the Best Labor Day Sale Deals for Large Appliances](https://lifehacker.com/these-are-the-best-labor-day-sale-deals-for-large-appli-1850771766?utm_source=regular)
 - [Lifehacker] [You Can DIY a Better Taco Bell Grilled Cheese Dipping Taco](https://lifehacker.com/you-can-diy-a-better-taco-bell-grilled-cheese-dipping-t-1850771107?utm_source=regular)
