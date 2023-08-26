@@ -26,6 +26,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Custom Hook: useScript](https://dev.to/sergeyleschev/react-custom-hook-usescript-3hc8)
+- [Dev.to/JS] [How to EASILY traverse through a deeply nested object &lpar;JavaScript Interview Question&rpar;](https://dev.to/xplodivity/how-to-easily-traverse-through-a-deeply-nested-object-javascript-interview-question-1616)
+- [Dev.to/JS] [Free Open-Source Blog Template for Developers ✏️📃](https://dev.to/danielcgilibert/free-open-source-blog-template-for-developers-jpp)
+- [Dev.to/JS] [How to Pass Data Across Routes with React Router](https://dev.to/olabisi09/how-to-pass-data-across-routes-with-react-router-53jm)
 - [Dev.to/JS] [How to learn javascript fasted way](https://dev.to/dhirajmani/how-to-learn-javascript-fasted-way-1a54)
 - [Dev.to/JS] [JavaScript Promise: .all&lpar;&rpar; vs .allSettled&lpar;&rpar; and .race&lpar;&rpar; vs .any&lpar;&rpar;](https://dev.to/shameel/javascript-promise-all-vs-allsettled-and-race-vs-any-3foj)
 - [Dev.to/JS] [🚀 Dominate React Project Startups: Insider Tips for Dev Success! 🤓](https://dev.to/0ro/dominate-react-project-startups-insider-tips-for-dev-success-4c21)
@@ -35,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Much JavaScript Do You Need to Know Before Learning React?](https://dev.to/shubhadip_bhowmik/how-much-javascript-do-you-need-to-know-before-learning-react-19bl)
 - [Dev.to/JS] [Arrays Decoded: A Deep Dive into JavaScript&#39;s Dynamic Data Containers](https://dev.to/vishal_krishna/arrays-decoded-a-deep-dive-into-javascripts-dynamic-data-containers-5e5d)
 - [Dev.to/JS] [Turn Nest.Js into Serverless with Nitric in a few seconds](https://dev.to/nyomansunima/turn-nestjs-into-serverless-with-nitric-in-a-few-seconds-ag4)
-- [Dev.to/JS] [the dawn of solana on chainparser](https://dev.to/mawut0r/the-dawn-of-solana-on-chainparser-35oh)
-- [Dev.to/JS] [Learning JavaScript the easy way: Scopes and Hoisting](https://dev.to/unkletayo/learning-javascript-the-easy-way-scopes-and-hoisting-23km)
-- [Dev.to/JS] [JavaScript&#39;s async function and topological ordering](https://dev.to/artxe2/javascripts-async-function-and-topological-ordering-51f8)
 - [Lifehacker] [The Best and Worst Times to Drive Labor Day Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-labor-day-weekend-ac-1850770624?utm_source=regular)
-- [Dev.to/JS] [I need a web project](https://dev.to/armineslamieh/i-need-a-web-project-56gl)
 - [Lifehacker] [You Don&#39;t Need to Fill Your Car&#39;s Tires With Nitrogen](https://lifehacker.com/you-dont-need-to-fill-your-cars-tires-with-nitrogen-1850770632?utm_source=regular)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 26](https://lifehacker.com/today-s-wordle-hints-and-answer-for-saturday-august-1850773691?utm_source=regular)
 - [Lifehacker] [How to Tell If It&#39;s Really Too Hot to Work Out](https://lifehacker.com/how-to-tell-if-its-really-too-hot-to-work-out-1849321398?utm_source=regular)
