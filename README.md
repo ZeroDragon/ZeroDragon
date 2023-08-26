@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Memory Management in JavaScript](https://dev.to/syedmuhammadaliraza/memory-management-in-javascript-5gjk)
 - [Dev.to/JS] [Mastering The Web : TypeScript Vs JavaScript Showdown](https://dev.to/mlscgescoe/mastering-the-web-typescript-vs-javascript-showdown-2ke0)
 - [Lifehacker] [The Most Effective Ways to Read a Room](https://lifehacker.com/the-most-effective-ways-to-read-a-room-1850770621?utm_source=regular)
 - [Dev.to/JS] [How Much JavaScript Do You Need to Know Before Learning React?](https://dev.to/shubhadip_bhowmik/how-much-javascript-do-you-need-to-know-before-learning-react-19bl)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The best platform to build serverless apps on in 2023](https://dev.to/kalashin1/the-best-platform-to-build-serverless-apps-on-in-2023-2kof)
 - [Dev.to/JS] [JavaScript 🐲 challenges_6 ⚔️](https://dev.to/mahmoudessam/javascript-challenges6-2fd1)
 - [Dev.to/JS] [Relatos durante o desenvolvimento do projeto](https://dev.to/itspedro/relatos-durante-o-desenvolvimento-do-projeto-4996)
-- [Dev.to/JS] [Building a Custom Hook to Track User&#39;s Online/Offline Status in React](https://dev.to/anjankarmakar/building-a-custom-hook-to-track-users-onlineoffline-status-in-react-12h6)
 - [Lifehacker] [You Don&#39;t Need to Fill Your Car&#39;s Tires With Nitrogen](https://lifehacker.com/you-dont-need-to-fill-your-cars-tires-with-nitrogen-1850770632?utm_source=regular)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 26](https://lifehacker.com/today-s-wordle-hints-and-answer-for-saturday-august-1850773691?utm_source=regular)
 - [Lifehacker] [How to Tell If It&#39;s Really Too Hot to Work Out](https://lifehacker.com/how-to-tell-if-its-really-too-hot-to-work-out-1849321398?utm_source=regular)
