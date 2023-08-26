@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cortexi Reviews 2023 - Ear Drops, Ingredients, Reviews, Benefits &amp; Price?](https://dev.to/cortexibuy2023/cortexi-reviews-2023-ear-drops-ingredients-reviews-benefits-price-3apl)
 - [Dev.to/JS] [Latest Newsletter: Bingeing the Past and Building the Future &lpar;Issue #129&rpar;](https://dev.to/mjgs/latest-newsletter-bingeing-the-past-and-building-the-future-issue-129-2mld)
 - [Dev.to/JS] [Web Application Debugging with Sentry Session Replay: Comprehensive Walkthrough 🚀🚀](https://dev.to/suharyadi2112/web-application-debugging-with-sentry-session-replay-comprehensive-walkthrough-286h)
 - [Dev.to/JS] [Elevate Your Buttons with CopyShareify-js: Copy, Share, and More!](https://dev.to/hichemtab-tech/elevate-your-buttons-with-copyshareify-js-copy-share-and-more-48h0)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MY NEW WEBSITE [Free AI image creator]](https://dev.to/mygyt11/my-new-website-free-ai-image-creator-5c75)
 - [Dev.to/JS] [Interview at MMT](https://dev.to/zeeshanali0704/interview-at-mmt-3hge)
 - [Dev.to/JS] [What is PWA - Progressive Web App?](https://dev.to/zeeshanali0704/progressive-web-app-20m6)
-- [Dev.to/JS] [Programmers need to learn &quot;not to be the frog in the warm water&quot;](https://dev.to/ocean678/programmers-need-to-learn-not-to-be-the-frog-in-the-warm-water-4fd3)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 26](https://lifehacker.com/today-s-wordle-hints-and-answer-for-saturday-august-1850773691?utm_source=regular)
 - [Lifehacker] [How to Tell If It&#39;s Really Too Hot to Work Out](https://lifehacker.com/how-to-tell-if-its-really-too-hot-to-work-out-1849321398?utm_source=regular)
 - [Lifehacker] [This Refurbished iPad Pro Is $160 Right Now](https://lifehacker.com/this-refurbished-ipad-pro-is-160-right-now-1850768095?utm_source=regular)
