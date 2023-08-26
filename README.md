@@ -26,6 +26,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Future of Module Federation](https://dev.to/scriptedalchemy/the-future-of-module-federation-5h43)
+- [Dev.to/JS] [I want your opinion!](https://dev.to/kallarari/i-want-your-opinion-4gm9)
+- [Dev.to/JS] [React Custom Hooks: useDebounce](https://dev.to/codebayu/react-custom-hooks-usedebounce-4il9)
 - [Dev.to/JS] [Rspack 0.3 Release Announcement](https://dev.to/scriptedalchemy/rspack-03-release-announcement-3i7e)
 - [Dev.to/JS] [Announcing Rspack 0.2](https://dev.to/scriptedalchemy/announcing-rspack-02-53ai)
 - [Lifehacker] [How to Tell If It&#39;s Really Too Hot to Work Out](https://lifehacker.com/how-to-tell-if-its-really-too-hot-to-work-out-1849321398?utm_source=regular)
@@ -40,11 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to build AWS State Machines using AWS CDK - Part I](https://dev.to/pmca/how-to-build-aws-state-machines-using-aws-cdk-part-i-31hp)
 - [Dev.to/JS] [Giving an HTML date input a placeholder with JavaScript](https://dev.to/grntco/giving-an-html-date-input-a-placeholder-with-javascript-24hd)
 - [Lifehacker] [You Can Book an 8-Night Trip to Thailand for $1,099 Right Now](https://lifehacker.com/you-can-book-an-8-night-trip-to-thailand-for-1-099-rig-1850775848?utm_source=regular)
-- [Dev.to/JS] [Dealing with the &#39;--downlevelIteration&#39; Error in TypeScript](https://dev.to/teshanecrawford/dealing-with-the-downleveliteration-error-in-typescript-4c9i)
-- [Dev.to/JS] [JavaScript, a programming language](https://dev.to/aimal-akrami/javascript-a-programming-language-1e80)
 - [Lifehacker] [The Routine Home Maintenance Tasks You Should Never Let Slide](https://lifehacker.com/the-most-important-home-maintenance-tasks-1850774692?utm_source=regular)
 - [Lifehacker] [What&#39;s New on Paramount+ With Showtime in September 2023](https://lifehacker.com/whats-new-on-paramount-with-showtime-in-september-2023-1850775435?utm_source=regular)
-- [Dev.to/JS] [Javascript Errors with Real Life Examples](https://dev.to/syedmuhammadaliraza/javascript-errors-with-real-life-examples-3n0c)
 - [Lifehacker] [What to Do the Next Time the Power Goes Out](https://lifehacker.com/what-to-do-the-next-time-the-power-goes-out-1850775092?utm_source=regular)
 - [Lifehacker] [You Can Get Microsoft Office for $35 Right Now](https://lifehacker.com/you-can-get-microsoft-office-for-35-right-now-1850768358?utm_source=regular)
 - [Lifehacker] [The Easiest Way to Make Pigs in a Blanket](https://lifehacker.com/the-quickest-coziest-way-to-make-pigs-in-a-blanket-1850034533?utm_source=regular)
