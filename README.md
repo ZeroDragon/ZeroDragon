@@ -26,6 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering The Web : TypeScript Vs JavaScript Showdown](https://dev.to/mlscgescoe/mastering-the-web-typescript-vs-javascript-showdown-2ke0)
 - [Lifehacker] [The Most Effective Ways to Read a Room](https://lifehacker.com/the-most-effective-ways-to-read-a-room-1850770621?utm_source=regular)
 - [Dev.to/JS] [How Much JavaScript Do You Need to Know Before Learning React?](https://dev.to/shubhadip_bhowmik/how-much-javascript-do-you-need-to-know-before-learning-react-19bl)
 - [Dev.to/JS] [Arrays Decoded: A Deep Dive into JavaScript&#39;s Dynamic Data Containers](https://dev.to/vishal_krishna/arrays-decoded-a-deep-dive-into-javascripts-dynamic-data-containers-5e5d)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript 🐲 challenges_6 ⚔️](https://dev.to/mahmoudessam/javascript-challenges6-2fd1)
 - [Dev.to/JS] [Relatos durante o desenvolvimento do projeto](https://dev.to/itspedro/relatos-durante-o-desenvolvimento-do-projeto-4996)
 - [Dev.to/JS] [Building a Custom Hook to Track User&#39;s Online/Offline Status in React](https://dev.to/anjankarmakar/building-a-custom-hook-to-track-users-onlineoffline-status-in-react-12h6)
-- [Dev.to/JS] [Находки по разработке 3](https://dev.to/potykion/nakhodki-po-razrabotkie-3-20ac)
 - [Lifehacker] [You Don&#39;t Need to Fill Your Car&#39;s Tires With Nitrogen](https://lifehacker.com/you-dont-need-to-fill-your-cars-tires-with-nitrogen-1850770632?utm_source=regular)
 - [Lifehacker] [Today’s Wordle Hints &lpar;and Answer&rpar; for Saturday, August 26](https://lifehacker.com/today-s-wordle-hints-and-answer-for-saturday-august-1850773691?utm_source=regular)
 - [Lifehacker] [How to Tell If It&#39;s Really Too Hot to Work Out](https://lifehacker.com/how-to-tell-if-its-really-too-hot-to-work-out-1849321398?utm_source=regular)
